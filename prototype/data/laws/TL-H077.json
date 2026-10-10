@@ -1,0 +1,68 @@
+{
+ "id": "TL-H077",
+ "title": {
+  "zh": "Primeira 修改Lei do Serviço Militar",
+  "en": null,
+  "orig": "Primeira Alteração da Lei do Serviço Militar"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2008-12-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 16/2008",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 677,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2008/serie_1/serie1_no48.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自官方公报 PDF（public/docs/2008/serie_1/serie1_no48.pdf）第 2795–2800 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 本法条文止于第 34 条；其后另起条号续排第 2 条起共 35 条（「再版附件」：被修订／被替代规范的全文再版，条号重新编号），已按体例截断，未并入本法条文。 原公报条号不连续（缺第 2、3、4、5、6、7、8、9、10、11、12、13、14、15、16、17、18、19、20、21、22、23、24、25、26、27、28、29、30、31、32、33 条）：本法 为「修改法」，其条文以**被修改文书**的条号标示，条号跳跃属该体例使然。 已剔除「再版附件」35 条——该部分系被修订法的再版全文，不属本法条文。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H077-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Alteração à Lei n.o 3/2007, de 28 de Fevereiro"
+   },
+   "text": {
+    "pt": "Os artigos 5o e 34o da Lei n.o 3/2007, de 28 de Fevereiro, passam a ter a seguinte redacção:\n\"Artigo 5.º […] 1 -  […] 2 -  […]\na)  […]\nb)  […]\nc)  […]\nd)  […]\ne)  Serviço efectivo em regime de voluntariado.\n3 -  […] 4 -  […] 5 -  […] 6 -  […] 7 -  O serviço efectivo em regime de voluntariado consiste na adesão voluntária a um vínculo com as Forças Armadas, com vista à prestação de serviço militar.\n8 -  [anterior n.o 7] 9 -  [anterior n.o 8]"
+   }
+  },
+  {
+   "id": "TL-H077-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "heading": {
+    "pt": "[…]"
+   },
+   "text": {
+    "pt": "1 - Todos os procedimentos previstos na presente lei para a prestação de serviço militar são aplicáveis ao regime de voluntariado, com as necessárias adaptações, em termos a regulamentar pelo Governo.\n2 -  [anterior corpo do artigo]\""
+   }
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "PH-H1887",
+ "title": {
+  "zh": "设立Bauan市",
+  "en": "An Act Creating the Barrio of San Vicente in the Municipality of Bauan, Province of Batangas",
+  "orig": "An Act Creating the Barrio of San Vicente in the Municipality of Bauan, Province of Batangas"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p26",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1959-04-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2150",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 462,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1959/ra_2150_1959.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1959/ra_2150_1959.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1887-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There is created a barrio in Municipality of Bauan, Province of Batangas, to be known as the barrio of San Vicente, and which shall be bounded on the north by the barrio of San Diego, on the east by the barrio of Alagao, on the south by the barrio of Baguilaua, and on the west by the school building of the barrio of Manalupang and a line running northward and southward from said building."
+   }
+  },
+  {
+   "id": "PH-H1887-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: April 24, 1959."
+   }
+  }
+ ]
+}

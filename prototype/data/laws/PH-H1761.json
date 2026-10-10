@@ -1,0 +1,84 @@
+{
+ "id": "PH-H1761",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Certain Items in Republic Act Numbered Fourteen Hundred Eleven",
+  "orig": "An Act Amending Certain Items in Republic Act Numbered Fourteen Hundred Eleven"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p24",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1957-06-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2015",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 738,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1957/ra_2015_1957.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1957/ra_2015_1957.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1761-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Item (b), page eighty-six, group IV, subparagraph twenty-eight, for the City of Manila, paragraph \"f,\" section two of Republic Act Numbered Fourteen hundred eleven, is amended to read as follows:\n\"(b) Paco Puericulture Center Construction and filling of site ₱20,000.00.\""
+   }
+  },
+  {
+   "id": "PH-H1761-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Item B-004.23, page 256-A, title B, appendix A of the same Act, is amended to read as follows:\n* * *"
+   }
+  },
+  {
+   "id": "PH-H1761-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Between items B-004.23 and B-004.24, page 256-A, title B, appendix A of the same Act, the following new items are inserted:\n\"B-004.23 Waiting shed— along Herran St., between Taft Ave. and Pennsylvania GR 8 \"B-004.23 Merced Street, City of Manila Asphalting from Herran to Gen. Luna Extension GR 6\""
+   }
+  },
+  {
+   "id": "PH-H1761-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
+   }
+  }
+ ]
+}

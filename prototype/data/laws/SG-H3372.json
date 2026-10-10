@@ -1,0 +1,826 @@
+{
+ "id": "SG-H3372",
+ "title": {
+  "zh": null,
+  "en": "Nurses and Midwives Act 1999",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p42",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act NMA1999",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 49,
+ "chars": 57764,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/NMA1999?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 49 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3372-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Nurses and Midwives Act 1999."
+   }
+  },
+  {
+   "id": "SG-H3372-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“accredited” means accredited by the Board;\n“Advanced Practice Nurse” means a registered nurse who is certified as an Advanced Practice Nurse under section 32;\n“appointed member” means a member appointed under section 3(2)(d);\n“Board” means the Singapore Nursing Board established under section 3;\n“certificate of enrolment” means a certificate of enrolment granted under section 17;\n“certificate of registration” means a certificate of registration granted under section 17;\n“Complaints Committee” means a Complaints Committee appointed under section 37;\n“enrolled” means enrolled under section 14, 15 or 16, and “enrol”, “enrolling” and “enrolment” have corresponding meanings;\n“enrolled nurse” means a person who is enrolled as an enrolled nurse, and includes a person who is deemed to be enrolled as an enrolled nurse under section 46(2);\n“medical practitioner” means a person registered under the Medical Registration Act 1997;\n“member” means a member of the Board;\n“practising certificate” means a practising certificate issued by the Board under section 18;\n“Register” means the Register of Nurses or Register of Midwives kept under section 13 (as the case may be) or both the Register of Nurses and the Register of Midwives;\n“registered” means registered under section 14, 15 or 16, and “register”, “registering” and “registration” have corresponding meanings;\n“registered midwife” means a person who is registered as a registered midwife, and includes a person who is deemed to be registered as a registered midwife under section 46(3);\n“registered nurse” means a person who is registered as a registered nurse, and includes a person who is deemed to be registered as a registered nurse under section 46(1);\n“Registrar” means the Registrar of the Board, and includes any individual acting in that capacity;\n“Roll” means the Roll of Nurses kept under section 13.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3372-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 SINGAPORE NURSING BOARD"
+   },
+   "heading": {
+    "en": "Establishment and membership of Board"
+   },
+   "text": {
+    "en": "3.—(1) A body called the Singapore Nursing Board is established, which is a body corporate with perpetual succession and a common seal.\n(2) The Board consists of the following members:\n(a)the Director‑General of Health or his or her representative;\n[Act 11 of 2023 wef 01/05/2023]\n(b)the Director-General of Education or his or her representative;\n(c)the Chief Nursing Officer;\n(d)14 other members to be appointed by the Minister, of whom at least —\n(i)9 must be registered or enrolled nurses with at least 5 years’ experience in the practice of nursing; and\n(ii)2 must be registered midwives with at least 5 years’ experience in the practice of midwifery.\n(3) Only a citizen or permanent resident of Singapore may be appointed as a member.\n(4) An appointed member holds office for a term of 3 years or such shorter period as the Minister may in any case determine, and is eligible for re‑appointment at the end of his or her term of office."
+   }
+  },
+  {
+   "id": "SG-H3372-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 SINGAPORE NURSING BOARD"
+   },
+   "heading": {
+    "en": "Removal of appointed member from office"
+   },
+   "text": {
+    "en": "4. The Minister may remove an appointed member from office if the member —\n(a)is an undischarged bankrupt;\n(b)has been found guilty in Singapore or elsewhere of professional misconduct;\n(c)has been convicted in Singapore or elsewhere of an offence involving dishonesty, fraud or moral turpitude;\n(d)is unable to satisfactorily carry out the duties of his or her office because of a mental or physical disability; or\n(e)is absent without leave of the Board from 3 consecutive meetings of the Board or any of its committees."
+   }
+  },
+  {
+   "id": "SG-H3372-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 SINGAPORE NURSING BOARD"
+   },
+   "heading": {
+    "en": "Vacancy in Board"
+   },
+   "text": {
+    "en": "5.—(1) The office of an appointed member becomes vacant if —\n(a)the member dies;\n(b)the member’s term of office expires;\n(c)the member resigns by written notice to the Minister;\n(d)the member ceases to satisfy the qualifications referred to in section 3 by virtue of which the member was eligible for appointment; or\n(e)the member is removed from office under section 4.\n(2) Upon the office of an appointed member becoming vacant, the Minister must appoint a person to the vacant office, and the person so appointed holds office for the remainder of the term for which the person’s predecessor would have held office if the vacancy had not occurred.\n(3) The Board may act despite any vacancy in the Board.\n(4) No act done by or by the authority of the Board is invalid in consequence of any defect that is afterwards discovered in the appointment of the members or any of them."
+   }
+  },
+  {
+   "id": "SG-H3372-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 SINGAPORE NURSING BOARD"
+   },
+   "heading": {
+    "en": "Chairperson of Board"
+   },
+   "text": {
+    "en": "6.—(1) The Minister must appoint one of the members as the Chairperson of the Board.\n(2) The Chairperson of the Board presides at any meeting of the Board and, in the Chairperson’s absence, a member whom the members present may elect presides at that meeting."
+   }
+  },
+  {
+   "id": "SG-H3372-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 SINGAPORE NURSING BOARD"
+   },
+   "heading": {
+    "en": "Meetings and quorum"
+   },
+   "text": {
+    "en": "7.—(1) At any meeting of the Board, 7 members form a quorum.\n(2) Any decision at a meeting of the Board is to be adopted by a simple majority of the votes of the members present and voting and, in the case of an equality of votes, the member presiding at that meeting has a casting vote.\n(3) Subject to this Act and the Public Sector (Governance) Act 2018, the Board may regulate its own procedure.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3372-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 SINGAPORE NURSING BOARD"
+   },
+   "heading": {
+    "en": "Functions of Board"
+   },
+   "text": {
+    "en": "8. The functions of the Board are —\n(a)to approve or reject applications for registration and enrolment of nurses and for registration of midwives;\n(b)to approve or reject applications for certification of Advanced Practice Nurses;\n(c)to issue practising certificates;\n(d)to accredit —\n(i)courses in Singapore for the purposes of registration and enrolment of nurses, registration of midwives and certification of Advanced Practice Nurses;\n(ii)courses in Singapore which provide qualifications in nursing or midwifery in addition to those required for registration and enrolment; and\n(iii)the institutions in Singapore offering any of these courses;\n(e)to regulate standards for the training and education of registered nurses, enrolled nurses, registered midwives and Advanced Practice Nurses;\n(f)to regulate the standards and scope of practice of registered nurses, enrolled nurses, registered midwives and Advanced Practice Nurses;\n(g)to regulate the professional conduct and ethics of registered nurses, enrolled nurses, registered midwives and Advanced Practice Nurses; and\n(h)generally to do all such acts, matters and things as are necessary or authorised to be carried out under this Act."
+   }
+  },
+  {
+   "id": "SG-H3372-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 SINGAPORE NURSING BOARD"
+   },
+   "heading": {
+    "en": "Appointment of executive secretary and other employees"
+   },
+   "text": {
+    "en": "9. The Board may appoint an executive secretary and such other employees on such terms as the Board may determine."
+   }
+  },
+  {
+   "id": "SG-H3372-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 SINGAPORE NURSING BOARD"
+   },
+   "heading": {
+    "en": "Appointment of committees"
+   },
+   "text": {
+    "en": "10.—(1) The Board may appoint one or more committees for any general or special purpose which, in the opinion of the Board, may be better dealt with or managed by a committee.\n(2) The Board may delegate to any committee so appointed, with or without restrictions or conditions as the Board thinks fit, any of the powers or functions which may be exercised or performed by the Board.\n(3) The number and term of office of the members of a committee and the number of those members necessary to form a quorum are to be fixed by the Board.\n(4) A committee may include persons who are not members of the Board.\n(5) This section does not apply to a Complaints Committee."
+   }
+  },
+  {
+   "id": "SG-H3372-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 SINGAPORE NURSING BOARD"
+   },
+   "heading": {
+    "en": "Payment of members of Board and of committees"
+   },
+   "text": {
+    "en": "11. There are to be paid to —\n(a)the members; and\n(b)the members of any committee appointed under section 10 and the members of any Complaints Committee appointed under section 37,\nwho are not public officers such fees as may be approved by the Minister."
+   }
+  },
+  {
+   "id": "SG-H3372-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 REGISTRATION AND ENROLMENT"
+   },
+   "heading": {
+    "en": "Registrar"
+   },
+   "text": {
+    "en": "12.—(1) There must be a chief executive of the Board called the Registrar of the Board, whose appointment and removal must be in accordance with the Public Sector (Governance) Act 2018.\n[5/2018]\n(2) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Registrar during any period, or during all periods, when the Registrar —\n(a)is absent from duty or Singapore; or\n(b)is, for any reason, unable to perform the duties of the office.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3372-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 REGISTRATION AND ENROLMENT"
+   },
+   "heading": {
+    "en": "Register and Roll"
+   },
+   "text": {
+    "en": "13.—(1) In addition to duties under the Public Sector (Governance) Act 2018, the Registrar must keep and maintain —\n(a)a register to be called the Register of Nurses which consists of such parts as the Board may determine;\n(b)a roll to be called the Roll of Nurses which consists of such parts as the Board may determine; and\n(c)a register to be called the Register of Midwives.\n[5/2018]\n(2) The Registrar must enter in the appropriate part of the Register or Roll, as the case may require, the name of every person who is registered or enrolled, together with such other particulars as the Board may determine.\n(3) Every registered nurse, enrolled nurse and registered midwife must inform the Registrar in writing of any change in his or her name, working address, residential address, or such of his or her other particulars as may be prescribed, within 28 days of the change.\n(4) A person who makes a report of a change in his or her residential address under section 10 of the National Registration Act 1965 is deemed to have complied with subsection (3) on the date on which the person makes the report.\n(5) The Registrar may disclose, in accordance with any prescribed conditions, any information in the Register or Roll to any prescribed person."
+   }
+  },
+  {
+   "id": "SG-H3372-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 REGISTRATION AND ENROLMENT"
+   },
+   "heading": {
+    "en": "Registration and enrolment"
+   },
+   "text": {
+    "en": "14.—(1) Subject to sections 15 to 17, a person who satisfies the Board that —\n(a)the person has successfully completed —\n(i)a course in nursing accredited for the purposes of this subsection in an accredited institution; or\n(ii)a course in nursing outside Singapore which in the opinion of the Board is equivalent to a course mentioned in sub‑paragraph (i); and\n(b)the person has fulfilled such other conditions as the Board may specify for the person’s case,\nmay be registered as a registered nurse.\n(2) Subject to sections 15 to 17, a person who satisfies the Board that —\n(a)the person has successfully completed —\n(i)a course in nursing accredited for the purposes of this subsection in an accredited institution; or\n(ii)a course in nursing outside Singapore which in the opinion of the Board is equivalent to a course mentioned in sub‑paragraph (i); and\n(b)the person has fulfilled such other conditions as the Board may specify for the person’s case,\nmay be enrolled as an enrolled nurse.\n(3) Subject to sections 15 to 17, a person who satisfies the Board that —\n(a)the person has successfully completed —\n(i)a course in midwifery accredited for the purposes of this subsection in an accredited institution; or\n(ii)a course in midwifery outside Singapore which in the opinion of the Board is equivalent to a course mentioned in sub‑paragraph (i); and\n(b)the person has fulfilled such other conditions as the Board may specify for the person’s case,\nmay be registered as a registered midwife.\n(4) The registration of a person as a registered nurse or enrolment of a person as an enrolled nurse must be in that part of the Register of Nurses or Roll which the Board considers appropriate to the person’s case."
+   }
+  },
+  {
+   "id": "SG-H3372-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 REGISTRATION AND ENROLMENT"
+   },
+   "heading": {
+    "en": "Medical examination, induction programme, competency assessment and provisional registration and enrolment"
+   },
+   "text": {
+    "en": "15.—(1) Before registering or enrolling a person under section 14, the Board may require the person to submit himself or herself to a medical examination by a medical practitioner approved by the Board to determine if the person can perform satisfactorily the functions of a registered nurse, an enrolled nurse or a registered midwife (as the case may be) and the Board may refuse to register or enrol the person if the person fails to submit himself or herself to such an examination.\n(2) The medical examination must be at the person’s own expense.\n(3) Before registering or enrolling a person under section 14, the Board may require the person to undergo such induction programme as may be approved by the Board, and the Board may refuse to register or enrol the person if the person fails to undergo or complete such induction programme.\n(4) Before registering or enrolling a person under section 14, the Board may require the person to undergo such competency assessment as may be approved by the Board, and the Board may refuse to register or enrol the person if the person fails or fails to undergo the assessment.\n(5) Subject to section 17, the Board may provisionally register as a registered nurse or registered midwife, or provisionally enrol as an enrolled nurse —\n(a)a person who has been required under subsection (1) to submit himself or herself to a medical examination;\n(b)a person who has been required under subsection (3) to undergo an induction programme; or\n(c)a person who has been required under subsection (4) to undergo a competency assessment.\n(6) The provisional registration of a person as a registered nurse or provisional enrolment of a person as an enrolled nurse must be in that part of the Register of Nurses or Roll which the Board considers appropriate to the person’s case.\n(7) If a person who is provisionally registered or enrolled becomes registered or enrolled under section 14, the person’s registration or enrolment dates from the person’s provisional registration or enrolment."
+   }
+  },
+  {
+   "id": "SG-H3372-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 REGISTRATION AND ENROLMENT"
+   },
+   "heading": {
+    "en": "Temporary registration and enrolment"
+   },
+   "text": {
+    "en": "16.—(1) Subject to section 17, where a person has fulfilled such conditions as the Board may specify for the person’s case, the Board may temporarily register the person as a registered nurse or registered midwife, or temporarily enrol the person as an enrolled nurse, in order to enable the person —\n(a)to teach, undertake research or study in Singapore;\n(b)to undergo training under a training scheme approved by the Board; or\n(c)to provide voluntary nursing or midwifery service under a volunteer nursing scheme or volunteer midwifery scheme approved by the Board.\n(2) The temporary registration of a person as a registered nurse or temporary enrolment of a person as an enrolled nurse must be in that part of the Register of Nurses or Roll which the Board considers appropriate to the person’s case.\n(3) A temporary registration or enrolment —\n(a)must be for a period not exceeding 2 years; and\n(b)may be renewed for periods not exceeding 12 months at a time."
+   }
+  },
+  {
+   "id": "SG-H3372-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 REGISTRATION AND ENROLMENT"
+   },
+   "heading": {
+    "en": "General provisions for registration and enrolment"
+   },
+   "text": {
+    "en": "17.—(1) Every application for registration or enrolment must be made in such form, and must be accompanied by such documents, particulars and fee, as may be prescribed by the Board.\n(2) The Board may, in registering or enrolling a person, impose such conditions on the person as the Board considers appropriate to the person’s case, and may at any time vary or revoke the conditions or impose new conditions on the person.\n(3) Without limiting subsection (2), the conditions may include —\n(a)a condition limiting the fields of nursing or midwifery (as the case may be) in which the person may practise; and\n(b)in the case of a person to be registered or enrolled under section 14, a condition that the person must work for a specified period —\n(i)in a hospital, nursing home, medical clinic, or other organisation, approved by the Board; and\n(ii)under the supervision of a person, or a person of a particular class, approved by the Board.\n(4) Upon the registration or enrolment of a person, the Board must grant to the person a certificate of registration or certificate of enrolment, as the case may be.\n(5) The Board may refuse to register or enrol any person who, in the opinion of the Board —\n(a)may not be registered or enrolled in accordance with section 14 or 16, as the case may be; or\n(b)is not of good reputation and character.\n(6) The Board may refuse to register or enrol any person if the Board is satisfied that —\n(a)the person had his or her registration or enrolment as a nurse or his or her registration as a midwife in any country withdrawn, suspended or cancelled; or\n(b)because of a mental or physical disability, the person is unable to perform satisfactorily the functions of a registered nurse, an enrolled nurse or a registered midwife, as the case may be.\n(7) Where the Board refuses to register or enrol any person, the Board must, by written notice, inform the person of such refusal.\n(8) A person who is aggrieved by a refusal of the Board to register or enrol the person may, within one month of the notice given under subsection (7), appeal to the Minister whose decision is final."
+   }
+  },
+  {
+   "id": "SG-H3372-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 REGISTRATION AND ENROLMENT"
+   },
+   "heading": {
+    "en": "Practising certificate"
+   },
+   "text": {
+    "en": "18.—(1) A registered nurse, an enrolled nurse, a registered midwife or an Advanced Practice Nurse who desires to obtain a practising certificate must apply to the Board in such form and manner as the Board may prescribe.\n(2) The application referred to in subsection (1) must be accompanied by the prescribed fee.\n(3) A practising certificate is valid for such period as the Board may determine.\n(4) An application for the renewal of a practising certificate must be made no later than one month before the expiry of the practising certificate and must be made in such form and manner as the Board may prescribe.\n(5) A registered nurse, an enrolled nurse, a registered midwife or an Advanced Practice Nurse who applies for a practising certificate later than one month before the expiry of the practising certificate is liable to pay to the Board such late application fee as the Board may prescribe.\n(6) The Board may ––\n(a)refuse to grant a practising certificate to a registered nurse, an enrolled nurse, a registered midwife or an Advanced Practice Nurse; or\n(b)refuse to renew the practising certificate of a registered nurse, an enrolled nurse, a registered midwife or an Advanced Practice Nurse,\nif the registered nurse, enrolled nurse, registered midwife or Advanced Practice Nurse (as the case may be) fails to comply with any prescribed condition.\n(7) Where —\n(a)a registered nurse (including an Advanced Practice Nurse), an enrolled nurse or a registered midwife has had his or her registration or enrolment cancelled or suspended on any of the grounds specified in section 19(1)(a) to (f); or\n(b)an Advanced Practice Nurse has had his or her certification cancelled or suspended under section 19(3),\nhe or she must surrender his or her practising certificate to the Board within 14 days of such cancellation or suspension and, in the case of such cancellation, his or her practising certificate must be cancelled.\n(8) Where the practising certificate of an Advanced Practice Nurse has been cancelled in accordance with subsection (7)(b), the Board may issue him or her a practising certificate as a registered nurse in lieu thereof.\n(9) Any person who fails to comply with subsection (7) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000."
+   }
+  },
+  {
+   "id": "SG-H3372-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 REGISTRATION AND ENROLMENT"
+   },
+   "heading": {
+    "en": "Cancellation, etc., of registration or enrolment"
+   },
+   "text": {
+    "en": "19.—(1) The Board may exercise any one or more of the powers mentioned in subsection (2) and, where applicable, subsection (3), if the Board is satisfied that a registered nurse, an enrolled nurse, a registered midwife or an Advanced Practice Nurse —\n(a)has obtained his or her registration as a registered nurse or registered midwife, enrolment as an enrolled nurse or certification as an Advanced Practice Nurse, fraudulently or by a materially incorrect statement;\n(b)has contravened section 13(3) or any condition imposed on him or her under subsection (2)(c) or (12) or section 17(2), or to which he or she is subject by virtue of section 46(4);\n(c)has had his or her registration or enrolment as a nurse, registration as a midwife or certification as an Advanced Practice Nurse, in a territory outside Singapore, cancelled or suspended;\n(d)has been convicted of an offence in Singapore or elsewhere which in the opinion of the Board renders him or her unfit to remain on the Register or the Roll or to practise as an Advanced Practice Nurse;\n(e)has been guilty of any misconduct, or negligence, which in the opinion of the Board renders him or her unfit to remain on the Register or the Roll or to practise as an Advanced Practice Nurse;\n(f)is unable to perform satisfactorily the functions of a registered nurse, an enrolled nurse, a registered midwife or an Advanced Practice Nurse because of a mental or physical disability;\n(g)has not renewed his or her practising certificate for a continuous period of not less than the prescribed period; or\n(h)is deceased.\n(2) The powers mentioned in subsection (1) are as follows:\n(a)cancel the registration of a registered nurse (including an Advanced Practice Nurse) or registered midwife or the enrolment of an enrolled nurse;\n(b)suspend the registration of a registered nurse (including an Advanced Practice Nurse) or registered midwife or the enrolment of an enrolled nurse for a period of not more than 2 years;\n(c)order that the registration of a registered nurse (including an Advanced Practice Nurse) or registered midwife or the enrolment of an enrolled nurse be conditional on his or her compliance with such conditions as may be imposed by the Board;\n(d)impose on the registered nurse, enrolled nurse, registered midwife or Advanced Practice Nurse, a financial penalty not exceeding $2,000;\n(e)censure the registered nurse, enrolled nurse, registered midwife or Advanced Practice Nurse; or\n(f)issue to the registered nurse, enrolled nurse, registered midwife or Advanced Practice Nurse, a written warning.\n(3) Where the Board is satisfied that there are grounds under subsection (1) to exercise its powers against an Advanced Practice Nurse, the Board may, in addition to or in lieu of any power mentioned in subsection (2) ––\n(a)cancel the certification of the Advanced Practice Nurse or suspend his or her certification for a period of not more than 2 years, without cancelling or suspending his or her registration as a registered nurse; or\n(b)order that the certification of the Advanced Practice Nurse be conditional on his or her compliance with such conditions as may be imposed by the Board.\n(4) Despite subsection (3), where an Advanced Practice Nurse has had his or her registration as a registered nurse cancelled or suspended under subsection (2), his or her certification as an Advanced Practice Nurse must be correspondingly cancelled or suspended for the same period.\n(5) The Board must, before exercising any of its powers under subsection (2) or (3) —\n(a)notify the person of its intention to exercise the power and give the person an opportunity to be heard either personally or by counsel; and\n(b)if the complaint or matter against the person has been referred by the Board to a Complaints Committee under section 37(1), consider the findings of the Committee as reported to the Board.\n(6) A person whose registration or enrolment is cancelled or suspended under subsection (2) on any of the grounds specified in subsection (1)(a) to (f) must surrender the person’s certificate of registration or certificate of enrolment (as the case may be) to the Board within 14 days of such cancellation or suspension.\n(7) An Advanced Practice Nurse ––\n(a)who is required under subsection (6) to surrender his or her certificate of registration as a registered nurse; or\n(b)whose certification as an Advanced Practice Nurse is cancelled or suspended under subsection (3),\nmust surrender his or her Advanced Practice Nurse certificate to the Board within 14 days of the cancellation or suspension of his or her registration as a registered nurse or certification as an Advanced Practice Nurse, as the case may be.\n(8) Where an Advanced Practice Nurse has had his or her certification cancelled or suspended under subsection (3) or (4), he or she is not to be regarded as being certified as an Advanced Practice Nurse, but immediately upon the expiry of the period of suspension (if any) his or her rights and privileges as an Advanced Practice Nurse are revived, and the Board must return his or her Advanced Practice Nurse certificate to him or her.\n(9) Any person who fails to comply with subsection (6) or (7) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.\n(10) Where the registration or enrolment of a person has been suspended under subsection (2), the person is not to be regarded as being registered or enrolled (as the case may be) for the purposes of this Act.\n(11) Subject to subsection (12), immediately upon the expiry of the period of suspension, the person’s rights and privileges as a registered nurse, an enrolled nurse or a registered midwife (as the case may be) are revived and the Board must return the person’s certificate of registration or certificate of enrolment to the person.\n(12) Where the registration or enrolment of a person has been suspended under subsection (2) on the ground referred to in subsection (1)(f), the Board may, upon the expiry of the period of suspension, order that the person’s registration or enrolment (as the case may be) be conditional on the person’s compliance with such conditions as may be imposed by the Board.\n(13) Where the person in question is both —\n(a)a registered nurse or an enrolled nurse; and\n(b)a registered midwife,\nthe Board may take any action under this section in relation to both the person’s registration as a registered nurse and the person’s registration as a registered midwife, or both the person’s enrolment as an enrolled nurse and the person’s registration as a registered midwife (as the case may be) without having to institute separate proceedings."
+   }
+  },
+  {
+   "id": "SG-H3372-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 REGISTRATION AND ENROLMENT"
+   },
+   "heading": {
+    "en": "Costs"
+   },
+   "text": {
+    "en": "20.—(1) Where the Board is satisfied that there are grounds under section 19(1)(a), (b), (d), (e) or (f) to exercise its powers against a registered nurse, an enrolled nurse, a registered midwife or an Advanced Practice Nurse, the Board may, in addition to any power which the Board may exercise under section 19, order the registered nurse, enrolled nurse, registered midwife or Advanced Practice Nurse (as the case may be) to pay to the Board such sums as the Board thinks fit in respect of the costs and expenses of the inquiry by the Board.\n(2) The General Division of the High Court has jurisdiction to tax the sums ordered to be paid under subsection (1).\n[40/2019]\n(3) The sums ordered to be paid under subsection (1) may be recovered as a debt in any court with competent jurisdiction."
+   }
+  },
+  {
+   "id": "SG-H3372-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 REGISTRATION AND ENROLMENT"
+   },
+   "heading": {
+    "en": "Appeal"
+   },
+   "text": {
+    "en": "21.—(1) Any person who is aggrieved by a decision of the Board under section 19(2) or (3) may, within 3 months of the date of the decision or within such further period as the General Division of the High Court may allow, appeal to the General Division of the High Court against the decision.\n[40/2019]\n(2) There is no appeal from a decision of the General Division of the High Court.\n[40/2019]"
+   }
+  },
+  {
+   "id": "SG-H3372-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 3 REGISTRATION AND ENROLMENT"
+   },
+   "heading": {
+    "en": "Conviction final and conclusive"
+   },
+   "text": {
+    "en": "22. The Board in taking action under section 19, and the General Division of the High Court on appeal from an order of the Board under section 19, must accept the conviction of a registered nurse, an enrolled nurse or a registered midwife for a criminal offence as final and conclusive.\n[40/2019]"
+   }
+  },
+  {
+   "id": "SG-H3372-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 3 REGISTRATION AND ENROLMENT"
+   },
+   "heading": {
+    "en": "Application for re-registration, re‑enrolment or re‑certification"
+   },
+   "text": {
+    "en": "23.—(1) A person whose ––\n(a)registration or enrolment has been cancelled under section 19(2); or\n(b)certification as an Advanced Practice Nurse has been cancelled under section 19(3) or (4),\nmay apply to the Board to be re-registered as a registered nurse or registered midwife, re‑enrolled as an enrolled nurse or re‑certified as an Advanced Practice Nurse.\n(2) The Board may, after considering all relevant circumstances, and upon the compliance by the applicant with all conditions imposed by the Board (if any) and the payment of the prescribed fee, re‑register or re‑enrol the applicant or re‑certify the applicant as an Advanced Practice Nurse.\n(3) Where the registration or enrolment of a person or certification of an Advanced Practice Nurse has been cancelled on any of the grounds referred to in section 19(1)(b) to (e), no application for the re‑registration, re‑enrolment or re‑certification of that person may be made to the Board —\n(a)before the expiry of 3 years from the date of the cancellation; or\n(b)more than once in any period of 12 months."
+   }
+  },
+  {
+   "id": "SG-H3372-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 3 REGISTRATION AND ENROLMENT"
+   },
+   "heading": {
+    "en": "Publication of registered nurses, etc., with practising certificates"
+   },
+   "text": {
+    "en": "24. The Registrar must prepare and publish in the Gazette a list of the names, addresses and qualifications of all registered nurses, enrolled nurses and registered midwives who have in force practising certificates."
+   }
+  },
+  {
+   "id": "SG-H3372-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 3 REGISTRATION AND ENROLMENT"
+   },
+   "heading": {
+    "en": "Certificate of Registrar"
+   },
+   "text": {
+    "en": "25. A certificate purporting to be under the hand of the Registrar to the effect that, at any time or during any period specified in the certificate, any person was or was not a registered nurse, an enrolled nurse or a registered midwife, or had or did not have in force a practising certificate, or as to any entry in the Register or Roll, or the removal from the Register or Roll of any entry is, in the absence of proof to the contrary, and without further proof of the signature appended to the certificate, sufficient evidence of the matters specified in the certificate."
+   }
+  },
+  {
+   "id": "SG-H3372-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 OFFENCES"
+   },
+   "heading": {
+    "en": "False assumption of title of nurse, etc."
+   },
+   "text": {
+    "en": "26.—(1) Any person who —\n(a)not being a qualified nurse, takes or uses the name or title of nurse in any language, either alone or in combination with any other words or letters, or any name, title, addition, description, uniform or badge, implying that the person is a qualified nurse or that the person is qualified to carry out an act of nursing;\n(b)not being a qualified midwife, takes or uses the name or title of midwife or its equivalent in any language, either alone or in combination with any other words or letters, or any name, title, addition, description, uniform or badge, implying that the person is a qualified midwife or that the person is qualified to practise midwifery;\n(c)being a person whose name is included in any part of the Register or Roll, takes or uses any name, title, addition or description or otherwise does any act which falsely implies that the person’s name is included in some other part of the Register or Roll, as the case may be;\n(d)knowing that some other person is not a qualified nurse and with intent to deceive, makes any statement or does any act calculated to suggest that that other person is a nurse or qualified nurse; or\n(e)knowing that some other person is not a qualified midwife and with intent to deceive, makes any statement or does any act calculated to suggest that that other person is a midwife or qualified midwife,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.\n(2) For the purposes of this section and sections 27, 28 and 29 —\n“act of nursing” means an act of nursing in —\n(a)the observation, care and counsel of the ill, injured or infirm;\n(b)the maintenance of health or prevention of illness of others; or\n(c)the supervision or teaching of nursing,\nthe proper carrying out of which requires skill and knowledge acquired by undergoing an accredited course of nursing or an equivalent course;\n“qualified midwife” means a registered midwife who holds a valid practising certificate authorising him or her to practise midwifery;\n“qualified nurse” means a registered or enrolled nurse who holds a valid practising certificate authorising him or her to practise nursing."
+   }
+  },
+  {
+   "id": "SG-H3372-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 4 OFFENCES"
+   },
+   "heading": {
+    "en": "Practice of nursing or midwifery by unqualified person"
+   },
+   "text": {
+    "en": "27.—(1) No person other than a qualified nurse may carry out any act of nursing for a fee or reward.\n(2) No person other than a qualified midwife may attend a woman at childbirth for a fee or reward.\n(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both.\n(4) Subsection (1) does not apply to a person who carries out any act of nursing while undergoing a course in nursing if the act is carried out —\n(a)under the supervision of a registered or enrolled nurse; and\n(b)in an organisation approved by the Board.\n(5) Subsection (2) does not apply to a person who attends a woman at childbirth while undergoing a course in midwifery if the attendance is carried out —\n(a)under the supervision of a registered midwife; and\n(b)in an organisation approved by the Board.\n(6) Subsections (1) and (2) do not apply to —\n(a)a medical practitioner;\n(b)a person rendering assistance in an emergency; or\n(c)a person of a prescribed description or class carrying out such act, or acting in such circumstances, as may be prescribed for the person’s case.\n(7) A person is not entitled to demand, claim, accept, receive, retain or sue for or recover any fee or charge in any court for any act done in contravention of this section."
+   }
+  },
+  {
+   "id": "SG-H3372-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 4 OFFENCES"
+   },
+   "heading": {
+    "en": "Employment of unqualified person to practise nursing or midwifery"
+   },
+   "text": {
+    "en": "28.—(1) A person must not employ or engage a person who is not a qualified nurse to carry out any act of nursing.\n(2) A person must not employ or engage a person who is not a qualified midwife to attend a woman at childbirth.\n(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both.\n(4) Subsections (1) and (2) do not apply to the employment or engagement of —\n(a)a medical practitioner;\n(b)a person to care for —\n(i)the person employing or engaging him or her; or\n(ii)a family member, relative or friend of the person employing or engaging him or her; or\n(c)a person of a prescribed description or class.\n(5) In any proceeding for an offence under this section, it is a defence for a defendant to prove that —\n(a)the defendant did not know that the person concerned was not a qualified nurse or qualified midwife, as the case may be; and\n(b)the defendant had exercised due diligence to ascertain if that person was a qualified nurse or qualified midwife, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H3372-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 4 OFFENCES"
+   },
+   "heading": {
+    "en": "Nurse’s agents"
+   },
+   "text": {
+    "en": "29.—(1) A nurse’s agent must not —\n(a)arrange for a person who is not a qualified nurse to carry out any act of nursing;\n(b)arrange for a person who is not a qualified midwife to attend a woman at childbirth; or\n(c)arrange for a registered nurse, an enrolled nurse or a registered midwife to work in contravention of the conditions of his or her registration or enrolment.\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both.\n(3) In any proceeding for an offence in respect of a contravention of subsection (1)(a) or (b), it is a defence for a defendant to prove that —\n(a)the defendant did not know that the person concerned was not a qualified nurse or qualified midwife, as the case may be; and\n(b)the defendant had exercised due diligence to ascertain if that person was a qualified nurse or qualified midwife, as the case may be.\n(4) In any proceeding for an offence in respect of a contravention of subsection (1)(c), it is a defence for a defendant to prove that —\n(a)the defendant was not aware that the registration or enrolment of the person concerned is subject to the condition which was contravened; and\n(b)the defendant had exercised due diligence to ascertain the conditions to which the registration or enrolment of that person is subject.\n(5) For the purposes of subsection (1), “nurse’s agent” means a person who carries on, for a fee or reward, the business of arranging the supply of the services of a nurse or a midwife."
+   }
+  },
+  {
+   "id": "SG-H3372-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 4 OFFENCES"
+   },
+   "heading": {
+    "en": "Fraudulent registration, etc."
+   },
+   "text": {
+    "en": "30. Any person who —\n(a)procures or attempts to procure registration, enrolment, a certificate of registration, a certificate of enrolment or a practising certificate, by knowingly making or producing or causing to be made or produced any false or fraudulent declaration, certification, application or representation whether in writing or otherwise;\n(b)wilfully makes or causes to be made any false entry in the Register or Roll;\n(c)forges or alters a certificate of registration, a certificate of enrolment or a practising certificate;\n(d)fraudulently or dishonestly uses as genuine a certificate of registration, a certificate of enrolment or a practising certificate which the person knows or has reason to believe is forged or altered; or\n(e)buys, sells or fraudulently obtains a certificate of registration, a certificate of enrolment or a practising certificate,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H3372-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 5 ADVANCED PRACTICE NURSES"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "31. In this Part —\n“Advanced Practice Nurse certificate” means an Advanced Practice Nurse certificate issued under section 32;\n“Advanced Practice Nurse Register” means the Advanced Practice Nurse Register kept under section 32."
+   }
+  },
+  {
+   "id": "SG-H3372-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 5 ADVANCED PRACTICE NURSES"
+   },
+   "heading": {
+    "en": "Certification of Advanced Practice Nurses, etc."
+   },
+   "text": {
+    "en": "32.—(1) The Registrar must keep and maintain a register to be called the Advanced Practice Nurse Register which consists of such parts as the Board may determine.\n(2) A registered nurse who —\n(a)holds such qualification, or has gained such special knowledge, in a specialised branch of nursing as the Board may approve;\n(b)has such experience in that branch of nursing as the Board may require; and\n(c)has fulfilled such further conditions as the Board may specify,\nis eligible to apply to the Board to be certified as an Advanced Practice Nurse.\n(3) Upon the approval of an application referred to in subsection (2), the Board must —\n(a)register the applicant as an Advanced Practice Nurse in the part of the Advanced Practice Nurse Register that the Board considers appropriate to the applicant’s case; and\n(b)upon payment of the prescribed fee, issue to the applicant an Advanced Practice Nurse certificate.\n(4) Despite subsection (2), the Board may refuse to certify any person as an Advanced Practice Nurse who, in the opinion of the Board —\n(a)is not of good reputation and character;\n(b)has had the person’s certification as an Advanced Practice Nurse or its equivalent in any territory outside Singapore withdrawn, suspended or cancelled; or\n(c)because of a mental or physical disability, is unable to perform satisfactorily the functions of an Advanced Practice Nurse.\n(5) Where the Board refuses to certify any person as an Advanced Practice Nurse, the Board must, by written notice, inform the person of such refusal.\n(6) Any person who is aggrieved by a refusal of the Board to certify the person as an Advanced Practice Nurse may, within one month of the notice given under subsection (5), appeal to the Minister whose decision is final.\n(7) The Registrar may disclose, in accordance with any prescribed conditions, any information in the Advanced Practice Nurse Register to any prescribed person.\n(8) The Board may, with the approval of the Minister, make regulations —\n(a)to provide for the form of the Advanced Practice Nurse Register and the manner in which it must be kept;\n(b)to regulate the alteration or correction of the Advanced Practice Nurse Register;\n(c)to provide for matters relating to the certification of persons as Advanced Practice Nurses;\n(d)to regulate the re-certification of an Advanced Practice Nurse whose certification has been cancelled;\n(e)to regulate the procedure for appeals by any person against a refusal of the Board to certify the person as an Advanced Practice Nurse or the cancellation of the person’s certification;\n(f)to provide for the form of the Advanced Practice Nurse certificate;\n(g)to prescribe the fees payable in respect of —\n(i)an application for certification as an Advanced Practice Nurse; and\n(ii)a restoration of such certification; and\n(h)to regulate the practice and conduct of Advanced Practice Nurses, including the use of titles and qualifications."
+   }
+  },
+  {
+   "id": "SG-H3372-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 5 ADVANCED PRACTICE NURSES"
+   },
+   "heading": {
+    "en": "Publication of list of Advanced Practice Nurses"
+   },
+   "text": {
+    "en": "33. The Registrar must prepare and publish in the Gazette a list of the names, addresses and qualifications of all Advanced Practice Nurses."
+   }
+  },
+  {
+   "id": "SG-H3372-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 5 ADVANCED PRACTICE NURSES"
+   },
+   "heading": {
+    "en": "Certificate of Registrar"
+   },
+   "text": {
+    "en": "34. A certificate purporting to be under the hand of the Registrar to the effect that, at any time or during any period specified in the certificate, any person was or was not an Advanced Practice Nurse, or had or did not have in force an Advanced Practice Nurse certificate, or as to any entry in the Advanced Practice Nurse Register, or the removal from the Advanced Practice Nurse Register of any entry is, in the absence of proof to the contrary, and without further proof of the signature appended to the certificate, sufficient evidence of the matters specified in the certificate."
+   }
+  },
+  {
+   "id": "SG-H3372-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 5 ADVANCED PRACTICE NURSES"
+   },
+   "heading": {
+    "en": "False assumption of title of Advanced Practice Nurse, etc."
+   },
+   "text": {
+    "en": "35. Any person who —\n(a)not being an Advanced Practice Nurse, takes or uses —\n(i)the name or title of Advanced Practice Nurse in any language, either alone or in combination with any other words or letters; or\n(ii)any name, title, addition, description, uniform or badge, implying that the person is an Advanced Practice Nurse or is qualified to practise a specialised branch of nursing; or\n(b)knowing that some other person is not an Advanced Practice Nurse and with intent to deceive, makes any statement or does any act calculated to suggest that that other person is an Advanced Practice Nurse or is qualified to practise a specialised branch of nursing,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H3372-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Inspectors"
+   },
+   "text": {
+    "en": "36.—(1) The Board may appoint one or more public officers as inspectors to investigate the commission of an offence under this Act or any regulations made under this Act.\n(2) In any case relating to the commission of an offence under this Act or any regulations made under this Act, an inspector has the power to do all or any of the following:\n(a)to require any person whom the inspector has reason to believe has any article, document or information relevant to the carrying out of the provisions of this Act or the regulations made under this Act, to produce any such article or document, or give such information, and to retain such article or document, or make copies of such article or document;\n(b)to examine orally any person supposed to be acquainted with the facts and circumstances relevant to the carrying out of the provisions of this Act or the regulations made under this Act, and to reduce into writing the answer given or statement made by that person who is bound to state truly the facts and circumstances with which that person is acquainted, and the statement made by that person must be read over to that person and must, after correction, be signed by that person;\n(c)to require by written order the attendance before the inspector of any person who, from information given or otherwise, appears to be acquainted with the facts and circumstances relevant to the carrying out of the provisions of this Act or the regulations made under this Act.\n(3) An inspector may apply to a Magistrate for a search warrant if the inspector has reasonable cause to believe that evidence of the commission of an offence under this Act or any regulations made under this Act can be found in any premises; and the Magistrate may, if satisfied that there are reasonable grounds for doing so, issue the warrant.\n(4) A search warrant issued under subsection (3) authorises the inspector to whom it is directed to enter and search the premises referred to in the warrant and to seize any thing found on the premises which the inspector reasonably believes is evidence of the commission of an offence under this Act or any regulations made under this Act.\n(5) Any person who —\n(a)intentionally offers any resistance to or wilfully delays an inspector in the exercise of any power under subsection (2) or pursuant to a search warrant issued under subsection (3); or\n(b)fails to comply with any requisition or order of an inspector under subsection (2),\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H3372-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Complaints Committees"
+   },
+   "text": {
+    "en": "37.—(1) The Board may appoint one or more committees, to be called Complaints Committees, to investigate any complaint or information in respect of any of the following matters:\n(a)the conviction of a registered nurse, enrolled nurse, registered midwife or Advanced Practice Nurse of an offence which renders him or her unfit to remain on the Register or Roll or to practise as an Advanced Practice Nurse;\n(b)any misconduct, or negligence, of a registered nurse, enrolled nurse, registered midwife or Advanced Practice Nurse which renders him or her unfit to remain on the Register or Roll or to practise as an Advanced Practice Nurse;\n(c)the physical or mental fitness of a registered nurse, enrolled nurse, registered midwife or Advanced Practice Nurse to perform his or her functions.\n(2) A Complaints Committee must comprise such number of members as the Board may determine, and the members may include members of the Board.\n(3) The Board must appoint a member of a Complaints Committee as the Chairperson of the Complaints Committee.\n(4) The Board may at any time revoke the appointment of any Complaints Committee or remove any member of a Complaints Committee or fill any vacancy in the Complaints Committee.\n(5) Subject to any regulations made under section 44, a Complaints Committee has the power to regulate its own procedure.\n(6) A Complaints Committee must, within 3 months from the date a complaint or matter is referred to it or such further period as the Board may grant, complete its investigation on the complaint or matter and report its findings and recommendation to the Board.\n(7) A member of the Board who is a member of a Complaints Committee investigating any complaint or matter against a registered nurse, enrolled nurse, registered midwife or Advanced Practice Nurse must not take part in any deliberations of the Board under section 19."
+   }
+  },
+  {
+   "id": "SG-H3372-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Powers of Complaints Committees to require attendance of witnesses, etc."
+   },
+   "text": {
+    "en": "38.—(1) For the purposes of its investigation, a Complaints Committee may —\n(a)require any person to produce any book, document, paper or other record which may be related to the subject matter of the investigation; and\n(b)require any person to attend at a specified time and place and give evidence or produce any such book, document, paper or record.\n(2) Any person who without lawful excuse —\n(a)refuses or fails to comply with any requirement of the Complaints Committee under subsection (1); or\n(b)refuses to answer or gives a false answer to any question put to the person by a member of the Complaints Committee,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000."
+   }
+  },
+  {
+   "id": "SG-H3372-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Legal assessor and medical assessor"
+   },
+   "text": {
+    "en": "39.—(1) For the purposes of advising the Board and the Complaints Committees in any proceedings before any of them, the Board may appoint a legal assessor who must be an advocate and solicitor of not less than 10 years’ standing.\n(2) The legal assessor must not participate or sit in any deliberations of the Board or a Complaints Committee unless invited to do so, and the legal assessor’s participation must be limited only to questions of law arising from the proceedings.\n(3) The Board may appoint a medical assessor to assist the Board and the Complaints Committees in proceedings before any of them.\n(4) The Board may pay to the legal assessor and medical assessor, as part of the expenses of the Board, such remuneration as the Board may determine."
+   }
+  },
+  {
+   "id": "SG-H3372-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "40.—(1) A document that is permitted or required by or under this Act to be served on a person may be served as described in this section.\n(2) A document permitted or required by or under this Act to be served on an individual may be served —\n(a)by giving it to the individual personally;\n(b)by sending it by prepaid registered post to the address specified by the individual for the service of documents generally, or specifically for the document, or (if no address is so specified) the individual’s residential address or business address;\n(c)by leaving it at the individual’s residential address with an adult apparently resident there, or at the individual’s business address with an adult apparently employed there;\n(d)by affixing a copy of the document in a conspicuous place at the individual’s residential address or business address; or\n(e)by sending it by email to the individual’s last email address.\n(3) A document permitted or required by or under this Act to be served on a partnership (other than a limited liability partnership) may be served —\n(a)by giving it to any partner or other similar officer, or an authorised representative, of the partnership;\n(b)by leaving it at, or by sending it by prepaid registered post to, the partnership’s business address; or\n(c)by sending it by email to the partnership’s last email address.\n(4) A document permitted or required by or under this Act to be served on a body corporate (including a limited liability partnership) or an unincorporated association may be served —\n(a)by giving it to the secretary or other similar officer of the body corporate or unincorporated association, or the limited liability partnership’s manager;\n(b)by leaving it at, or by sending it by prepaid registered post to, the registered office or principal office in Singapore of the body corporate or unincorporated association; or\n(c)by sending it by email to the last email address of the body corporate or unincorporated association.\n(5) Service of a document under this section takes effect —\n(a)if the document is sent by prepaid registered post, 2 days after the day the document was posted (even if it is returned undelivered); or\n(b)if the document is sent by email, at the time that the email becomes capable of being retrieved by the person to whom it is sent.\n(6) However, service of any document under this Act on a person by email may be effected only with the person’s prior written consent to service in that way.\n(7) This section does not apply to documents to be served in proceedings in court.\n(8) In this section —\n“authorised representative”, in relation to a partnership (other than a limited liability partnership), means any person authorised to accept service of documents on behalf of the partnership;\n“business address” means —\n(a)in the case of an individual, the individual’s usual or last known place of business in Singapore; or\n(b)in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore;\n“document” includes an order or a notice permitted or required by or under this Act to be served;\n“last email address” means the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act;\n“residential address” means an individual’s usual or last known place of residence in Singapore.\n[Act 19 of 2025 wef 05/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H3372-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Where Board member is in public service"
+   },
+   "text": {
+    "en": "41. A member of the Board is not disqualified from being a member of a Complaints Committee, or from taking part in the deliberations of the Board for the purposes of taking action under section 19, by reason only that the member, or the person who made the complaint or gave the information leading to the proceeding in question, is in the public service."
+   }
+  },
+  {
+   "id": "SG-H3372-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Funds of Board"
+   },
+   "text": {
+    "en": "42.—(1) All fees and other moneys payable under this Act or any regulations made under this Act must be paid to the Board and any fee or other moneys not paid may be recovered by the Board as a debt due to the Board.\n(2) Subject to subsection (2A) and section 43A(4), all moneys received by the Board or the Registrar must be paid into the funds of the Board.\n[Act 19 of 2025 wef 05/12/2025]\n(2A) All penalties collected or recovered under this Act or any regulations made under this Act must be paid into the Consolidated Fund.\n[Act 19 of 2025 wef 05/12/2025]\n(3) The costs and expenses of and incidental to the performance of the functions of the Board, a Complaints Committee and any committee appointed under section 10 must be paid by the Board out of its funds.\n(4) The Minister may pay into the funds of the Board such sum of money out of moneys provided by Parliament as the Minister may determine.\n(5) The Board may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965."
+   }
+  },
+  {
+   "id": "SG-H3372-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "No action against Board in absence of bad faith"
+   },
+   "text": {
+    "en": "43. No action or proceeding shall lie against the Board, any committee appointed by the Board, a Complaints Committee, or any member or employee of the Board, committee or Complaints Committee for any act or thing done under this Act unless it is proved that the act or thing was done in bad faith or with malice."
+   }
+  },
+  {
+   "id": "SG-H3372-A43.001",
+   "no": 43.001,
+   "noLabel": {
+    "en": "43A."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "43A.—(1) The Board may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:\n(a)one half of the amount of the maximum fine that is prescribed for the offence;\n(b)$1,000.\n(2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence.\n(3) The Board may, with the approval of the Minister, make regulations to prescribe the offences that may be compounded.\n(4) All sums collected under this section must be paid into the Consolidated Fund.\n[Act 19 of 2025 wef 05/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H3372-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Power of Board to make regulations"
+   },
+   "text": {
+    "en": "44.—(1) The Board may, with the approval of the Minister, make such regulations as may be necessary or expedient to give effect to the provisions and purposes of this Act and for the due administration of this Act.\n(2) Without limiting subsection (1), such regulations may —\n(a)provide for the duties of the Registrar;\n(b)provide for the forms of the Register and Roll and the mode in which they must be kept;\n(c)regulate the alteration or correction of the Register and Roll;\n(d)regulate the renewal of temporary registration or enrolment under section 16(3);\n(e)regulate the grant and renewal of practising certificates, including prescribing conditions for such grant and renewal;\n(f)regulate the procedure by which the Board takes action under section 19;\n(g)regulate the procedure of any committee appointed by the Board or of a Complaints Committee;\n(h)regulate the cancellation of registrations and enrolments, and the restoration of registrations and enrolments which are cancelled;\n(i)provide for matters relating to the accreditation of courses in nursing and in midwifery and of institutions providing such courses;\n(j)regulate the practice and conduct of registered nurses, enrolled nurses and registered midwives, including the use of titles and qualifications;\n(k)prescribe the forms and fees for the purposes of this Act;\n(l)provide that any person who contravenes any regulation shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000; and\n(m)prescribe such other matters as are necessary or authorised to be prescribed under this Act."
+   }
+  },
+  {
+   "id": "SG-H3372-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 7 TRANSITIONAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "45. In this Part —\n“previous Board” means the Singapore Nursing Board established under section 3 of the repealed Act;\n“previous Regulations” means the Nurses and Midwives Regulations (Rg 1, Cap. 209, 1985 Revised Edition);\n“register of midwives” means the register of midwives maintained pursuant to the repealed Act;\n“register of nurses” means the register of nurses maintained pursuant to the repealed Act;\n“repealed Act” means the Nurses and Midwives Act (Cap. 209, 1985 Revised Edition);\n“roll of nurses” means the roll of nurses maintained pursuant to the repealed Act."
+   }
+  },
+  {
+   "id": "SG-H3372-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 7 TRANSITIONAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Persons registered and enrolled under repealed Act"
+   },
+   "text": {
+    "en": "46.—(1) Every person who is a registered nurse under the repealed Act immediately before 1 May 2000 —\n(a)if the person was admitted to the register of nurses by virtue of regulation 10 of the previous Regulations, is deemed to be registered under section 16 as a registered nurse for such period as may be determined by the Board; or\n(b)in any other case, is deemed to be registered under section 14 as a registered nurse.\n(2) Every person who is an enrolled nurse under the repealed Act immediately before 1 May 2000 —\n(a)if the person was admitted to the roll of nurses by virtue of regulation 10 of the previous Regulations, is deemed to be enrolled under section 16 as an enrolled nurse for such period as may be determined by the Board; or\n(b)in any other case, is deemed to be enrolled under section 14 as an enrolled nurse.\n(3) Every person who is a registered midwife under the repealed Act immediately before 1 May 2000 —\n(a)if the person was admitted to the register of midwives by virtue of regulation 10 of the previous Regulations, is deemed to be registered as a registered midwife under section 16 for such period as may be determined by the Board; or\n(b)in any other case, is deemed to be registered under section 14 as a registered midwife.\n(4) Where the registration or enrolment of a person under the repealed Act is subject to any condition, the deemed registration or enrolment of that person under subsection (1), (2) or (3) (as the case may be) is, unless the Board otherwise decides, subject to the same condition.\n(5) The Registrar must —\n(a)transfer to such part of the Register of Nurses as the Board considers appropriate the name, address, qualifications and other particulars of a person mentioned in subsection (1) which appear in the register of nurses;\n(b)transfer to such part of the Roll as the Board considers appropriate the name, address, qualifications and other particulars of a person mentioned in subsection (2) which appear in the roll of nurses; and\n(c)transfer to the Register of Midwives the name, address, qualifications and other particulars of a person mentioned in subsection (3) which appear in the register of midwives.\n(6) The Registrar may, in carrying out the transfer under subsection (5), omit the particulars of any person known to the Registrar to be deceased.\n(7) Section 23 applies, with the necessary modifications, to any person whose name was removed from the register of nurses, the roll of nurses or the register of midwives."
+   }
+  },
+  {
+   "id": "SG-H3372-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 7 TRANSITIONAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Saving of certificates"
+   },
+   "text": {
+    "en": "47. Any certificate granted under regulation 11 of the previous Regulations to a person upon the person’s registration or enrolment under the repealed Act is deemed to be a certificate of registration or certificate of enrolment, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H3372-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 7 TRANSITIONAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Pending disciplinary proceedings"
+   },
+   "text": {
+    "en": "48.—(1) This Act and the regulations made under this Act do not apply to any proceedings of a disciplinary nature commenced before 1 May 2000, and the repealed Act and the previous Regulations continue to apply to those proceedings.\n(2) For the purposes of subsection (1), the previous Board continues to exist to complete its hearing of those proceedings and make such order or decision as it could have made under the repealed Act and the previous Regulations.\n(3) Any order or decision made by the previous Board under subsection (2) is to be treated as an order or decision of the Board and has the same force and effect as if it had been made by the Board under section 19."
+   }
+  }
+ ]
+}

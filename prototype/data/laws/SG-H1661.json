@@ -1,0 +1,159 @@
+{
+ "id": "SG-H1661",
+ "title": {
+  "zh": null,
+  "en": "Guns, Explosives and Weapons Control (General Matters) Regulations 2025",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p21",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation GEWCA2021-S383-2025",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 9,
+ "chars": 8731,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/GEWCA2021-S383-2025?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 9 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1661-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Guns, Explosives and Weapons Control (General Matters) Regulations 2025 and come into operation on 1 July 2025."
+   }
+  },
+  {
+   "id": "SG-H1661-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“contact address” means the address of —\n(a)for a partnership (other than a limited liability partnership) — the partnership’s principal place of business in Singapore;\n(b)for a body corporate — the body corporate’s registered office or principal office in Singapore;\n(c)for an unincorporated association — the unincorporated association’s principal office in Singapore;\n(d)for an individual carrying on business as a sole proprietor — the individual’s principal place of business in Singapore; or\n(e)for any other individual — the individual’s place of residence or workplace in Singapore;\n“digital licence” means any licence that is granted in a digital form;\n“entity” means —\n(a)a body corporate (including a limited liability partnership);\n(b)an unincorporated association;\n(c)a partnership;\n(d)a business trust;\n(e)a body of individuals who together form a body; or\n(f)a person other than an individual;\n“gun part” means a major part of a gun;\n“holder”, for a licence, means the person to whom the licence is granted;\n“identity particulars” means —\n(a)for an individual —\n(i)the full name of the individual;\n(ii)the number of the individual’s identity card, or of the individual’s passport or work pass if he or she is not a citizen of Singapore; and\n(iii)the nationality of the individual; or\n(b)for an entity —\n(i)the full name of the entity;\n(ii)the country where the entity was incorporated or otherwise formed; and\n(iii)the Unique Entity Number (UEN) of the entity, where available;\n“licence” means any of the following:\n(a)an EP licence within the meaning of the Guns, Explosives and Weapons Control (Explosives and Explosive Precursors) Regulations 2025 (G.N. No. S 374/2025);\n(b)an explosives licence within the meaning of the Guns, Explosives and Weapons Control (Explosives and Explosive Precursors) Regulations 2025;\n(c)a gun licence within the meaning of the Guns, Explosives and Weapons Control (Guns) Regulations 2025 (G.N. No. S 359/2025);\n(d)a noxious substance licence within the meaning of the Guns, Explosives and Weapons Control (Weapons and Noxious Substances) Regulations 2025 (G.N. No. S 361/2025);\n(e)a weapon licence within the meaning of the Guns, Explosives and Weapons Control (Weapons and Noxious Substances) Regulations 2025;\n“working day” means any day other than a Saturday, Sunday or public holiday."
+   }
+  },
+  {
+   "id": "SG-H1661-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Prescribed website for notice of proposed variation of class licence, etc."
+   },
+   "text": {
+    "en": "3. The prescribed website under section 57(3) of the Act (for the publication of a notice of any proposed variation of, or revocation of an order under section 56 of the Act for, a class licence) is https://www.police.gov.sg/Business-E-Services/Apply-for-Gun-Licence/Overview-of-Gun-Explosive-Weapon-Licences.\n[S 103/2026 wef 09/03/2026]"
+   }
+  },
+  {
+   "id": "SG-H1661-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Prescribed website for security direction"
+   },
+   "text": {
+    "en": "4. The prescribed website under section 65(3)(b)(ii) of the Act (for the publication of a security direction that is addressed to a class of persons) is https://www.police.gov.sg/Business-E-Services/Apply-for-Gun-Licence/Overview-of-Gun-Explosive-Weapon-Licences.\n[S 103/2026 wef 09/03/2026]"
+   }
+  },
+  {
+   "id": "SG-H1661-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Claim to gun, explosive, etc., seized or surrendered"
+   },
+   "text": {
+    "en": "5.—(1) For the purposes of section 85(1) of the Act, a claim to a gun, gun accessory or gun part, an explosive or explosive precursor, or a weapon or a noxious substance, that was seized or surrendered under the Act must —\n(a)be addressed to the Licensing Officer for the purposes of that section;\n(b)be made —\n(i)in person at the office of the Licensing Officer at 391 New Bridge Road, Block D #02‑701, Singapore 088762 on a working day during its business hours; or\n(ii)by sending an email to the email address at SPF_PRD_GEWD@spf.gov.sg;\n(c)contain the claimant’s identity particulars, telephone number, email address and contact address; and\n(d)be accompanied by documents that evidence the claimant’s ownership or entitlement to possession of the gun, gun accessory or gun part, explosive or explosive precursor, or weapon or noxious substance, seized or surrendered.\n(2) Where a person making a claim mentioned in paragraph (1) provides copies of original documents, whether in physical or electronic form, the Licensing Officer may require the person to produce, at the office of the Licensing Officer mentioned in paragraph (1)(b) on a working day during its business hours, the original document from which the copy was made."
+   }
+  },
+  {
+   "id": "SG-H1661-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Disposal of unclaimed guns, etc."
+   },
+   "text": {
+    "en": "6. The prescribed website under section 85(2) or (3) of the Act for the publication of the required notice of an intention to —\n(a)sell by public auction or tender; or\n(b)destroy or otherwise dispose of,\na gun, gun accessory, gun part, explosive, explosive precursor, weapon or noxious substance is https://www.police.gov.sg/Business-E-Services/Apply-for-Gun-Licence/Overview-of-Gun-Explosive-Weapon-Licences.\n[S 103/2026 wef 09/03/2026]"
+   }
+  },
+  {
+   "id": "SG-H1661-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Prescribed activity for definition of “special worker”"
+   },
+   "text": {
+    "en": "7. Each of the following activities is prescribed for the purposes of paragraph (b)(iii) of the definition of “special worker” in section 2(1) of the Act where the activity undertaken by an individual consists of —\n(a)the giving of instruction or lessons to another individual mentioned in section 88(2)(a) of the Act, to support the functions of the Singapore Armed Forces, in —\n(i)the use of a howitzer, mortar, bazooka, an automatic gun, a machine gun or other military firearm; or\n(ii)the design, loading and initiating of blasts using an explosive device; or\n(b)the training of another individual mentioned in section 88(2)(a) of the Act in the giving of instruction or lessons mentioned in paragraph (a)."
+   }
+  },
+  {
+   "id": "SG-H1661-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Production of licence"
+   },
+   "text": {
+    "en": "8.—(1) A holder of a licence must, without delay, show the holder’s licence when requested to do so by any police officer or authorised officer.\n(2) Where a digital licence is granted, the holder of the licence is taken to have shown the licence for the purpose of complying with a request under paragraph (1) if the holder, or a representative staff or responsible executive of the holder, produces a mobile communication device or other electronic device on which the digital licence is displayed, to the police officer or authorised officer.\n(3) However, a digital licence is not displayed for the purpose of complying with a request under paragraph (1) to produce a licence if —\n(a)the screen of the mobile communication device or other electronic device on which it is purportedly displayed is unable to be read by the police officer or authorised officer to whom it is displayed due to cracking, dimming, dirt or any other fault, damage or obstruction;\n(b)the individual holding the mobile communication device or other electronic device fails or refuses to comply with a reasonable request by the police officer or authorised officer to whom it is purported to be displayed to facilitate the reading, copying or scanning of the whole or any part of the digital licence; or\n(c)the individual holding the mobile communication device or other electronic device refuses to comply with a reasonable direction to refresh the display of the digital licence.\n(4) To avoid doubt, an individual who displays or purports to display a digital licence is not required to give or hand over, to a police officer or an authorised officer person who is requiring the licence to be produced, the mobile communication device or other electronic device on which the digital licence is displayed or purported to be displayed.\n(5) A person who intentionally or negligently contravenes paragraph (1) in connection with any licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H1661-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Surrender of revoked or expired licence"
+   },
+   "text": {
+    "en": "9.—(1) This regulation applies where a licence is revoked under section 66 of the Act, or expires and is not renewed.\n(2) A Licensing Officer may, in any of the circumstances described in paragraph (1), direct the former holder of a licence —\n(a)to surrender or return to the Licensing Officer, within a period stated in the direction, the revoked or expired licence; or\n(b)in the case of a digital licence, to remove, within a period stated in the direction, the digital licence from each mobile communication device or other electronic device on which the digital licence is capable of being displayed.\n(3) A person who, without reasonable excuse, fails to comply with a direction given to the person under paragraph (2) shall be guilty of an offence and shall be liable on conviction —\n(a)where the person is an individual — to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both; or\n(b)where the person is not an individual — to a fine not exceeding $10,000.\n(4) Any direction under paragraph (2) to return or surrender a licence does not extend to any mobile communication device or other electronic device on which a licence granted in digital form is displayed."
+   }
+  }
+ ]
+}

@@ -1,0 +1,774 @@
+{
+ "id": "SG-H774",
+ "title": {
+  "zh": null,
+  "en": "Companies (Filing of Documents) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p10",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CoA1967-RG7",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 47,
+ "chars": 28652,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CoA1967-RG7?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 47 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 7 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H774-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Companies (Filing of Documents) Regulations."
+   }
+  },
+  {
+   "id": "SG-H774-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n[Deleted by S 832/2015 wef 03/01/2016]\n“authorised representative” has the same meaning as in section 366(1) of the Act;\n[S 832/2015 wef 03/01/2016]\n“corporate service provider” has the meaning given by section 2(1) of the Corporate Service Providers Act 2024;\n[S 297/2025 wef 09/06/2025]\n“electronic transaction form” or “form” means a form on the electronic transaction system provided by the Registrar for the purpose of carrying out a transaction with the Registrar;\n[S 832/2015 wef 03/01/2016]\n[Deleted by S 281/2015 wef 15/05/2015]\n“electronic transaction system” means the electronic transaction system established by the Authority under section 27(1) of the Accounting and Corporate Regulatory Authority Act 2004;\n[S 281/2015 wef 15/05/2015]\n[S 297/2025 wef 31/12/2021]\n[Deleted by S 832/2015 wef 03/01/2016]\n“lodge” means to lodge, file or submit a form or other document electronically;\n[S 281/2015 wef 15/05/2015]\n[Deleted by S 297/2025 wef 09/06/2025]\n[Deleted by S 297/2025 wef 09/06/2025]\n“registered corporate service provider” means a corporate service provider who is registered under the Corporate Service Providers Act 2024, but excludes —\n(a)a deemed registered corporate service provider as defined in section 2(1) of that Act; and\n(b)a person who is treated under section 42(3) of that Act as registered under section 8 of that Act as a registered corporate service provider for providing the corporate service mentioned in paragraph (f)(i) of the definition of “corporate service” in section 2(1) of that Act;\n[S 297/2025 wef 09/06/2025]"
+   }
+  },
+  {
+   "id": "SG-H774-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART II GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Requirement to use electronic transaction system"
+   },
+   "text": {
+    "en": "3.—(1) Except as provided in paragraph (2) or as the Registrar otherwise requires or permits, any transaction with the Registrar under the Act must be carried out using the electronic transaction system on the electronic transaction form provided for that purpose.\n(2) If a transaction with the Registrar referred to in paragraph (1) cannot be carried out using the electronic transaction system, the person seeking to carry out the transaction must carry out the transaction with the Registrar in such other form and manner as the Registrar may determine.\n(3) The Registrar may refuse to process a transaction with the Registrar if the person seeking to carry out the transaction —\n(a)does not comply with paragraph (1) or (2);\n(b)does not comply with regulation 4 or 5;\n(c)being required to complete an electronic transaction form, or other form, provided by the Registrar for that purpose, fails to properly complete the form in accordance with the instructions contained in the form;\n(d)being required to attach any document to, or provide any information required in, an electronic transaction form, or other form, provided by the Registrar for that purpose, fails to attach the document or provide the information, as the case may be; or\n(e)fails to pay the fee prescribed for the transaction.\n(4) To avoid doubt, a reference to a refusal to process a transaction with the Registrar in paragraph (3) includes, where the transaction relates to the filing or lodging of a document with the Registrar, a refusal to accept the document for filing or lodgment.\n[S 832/2015 wef 03/01/2016]"
+   }
+  },
+  {
+   "id": "SG-H774-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART II GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Identification documents"
+   },
+   "text": {
+    "en": "4. The Registrar may require the production of the identity card or the passport, or such other identification documents as may be acceptable to the Registrar, for the verification of the identity of any person who carries out any transaction with the Registrar or whose particulars are to be registered under the Act.\n[S 832/2015 wef 03/01/2016]"
+   }
+  },
+  {
+   "id": "SG-H774-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART II GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Endorsements"
+   },
+   "text": {
+    "en": "5. Where an electronic transaction form is required to be endorsed by more than one person —\n(a)such endorsements must be made —\n(i)if the endorsement is made in respect of registration, within 60 days after the date on which the Registrar informs the applicant that the electronic transaction form is required to be endorsed; or\n(ii)if the endorsement is made in respect of any other matter, within 14 days after the date on which the electronic transaction form is first submitted; and\n(b)payment of the prescribed fee for the transaction with the Registrar to which the electronic transaction form relates must be made by the last person endorsing the electronic transaction.\n[S 832/2015 wef 03/01/2016]"
+   }
+  },
+  {
+   "id": "SG-H774-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART II GENERAL MATTERS"
+   },
+   "text": {
+    "en": "6. [Deleted by S 832/2015 wef 03/01/2016]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H774-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS RELATING TO DOCUMENTS ATTACHED TO FORMS"
+   },
+   "heading": {
+    "en": "General requirements for documents lodged with Registrar"
+   },
+   "text": {
+    "en": "7.—(1) Any document which is to accompany a form to be lodged with the Registrar shall —\n(a)comply with such directions as are specified by the Registrar; and\n(b)be lodged in accordance with such directions as are specified in that form or by the Registrar.\n(2) Without prejudice to the generality of paragraph (1), the directions specified in the form or by the Registrar may provide for the format in which the document is to be lodged.\n[S 603/2007 wef 05/11/2007]"
+   }
+  },
+  {
+   "id": "SG-H774-A7.001",
+   "no": 7.001,
+   "noLabel": {
+    "en": "7A."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS RELATING TO DOCUMENTS ATTACHED TO FORMS"
+   },
+   "heading": {
+    "en": "Excluded documents under section 12(2AB) of Act"
+   },
+   "text": {
+    "en": "7A.—(1) For the purposes of section 12(2AB) of the Act, the following documents filed or lodged with, or obtained by, the Registrar on or after 9 December 2024, are excluded documents to which section 12(2)(b) of the Act does not apply:\n(a)a document (other than a form mentioned in regulation 7B) that contains any of the following information about an individual:\n(i)the individual’s date of birth;\n(ii)the individual’s residential address;\n(iii)the individual’s email address;\n(iv)the individual’s mobile telephone number;\n(b)where a person has applied to the Registrar —\n(i)under section 27(2A) or 28(3A) of the Act to give a direction to a company to change the name of the company; or\n(ii)under section 378(6) of the Act to give a direction to a foreign company to change the name of the foreign company,\nany other document lodged by the person and the company or foreign company (as the case may be) in respect of the application;\n(c)where a relevant application is made — any other document lodged in respect of the relevant application;\n(d)where an objection to strike a company’s name off the register is delivered under section 344C(1) of the Act — any other document lodged in respect of the objection;\n(e)where an application is made under section 358(1) of the Act by a foreign corporate entity to be registered under the Act — any financial statements furnished with the application.\n[S 203/2026 wef 06/05/2026]\n(2) In this regulation, “relevant application” means —\n(a)an application mentioned in section 27(10), 205AB(1)(a), 344A(1), 373(12), (13) or (13A), 377(10) or 378(11) of the Act;\n(b)an application for approval under section 29(1) or (2) or 201(12) of the Act; or\n(c)an application under section 202(1) or 357(1) of the Act.\n[S 951/2024 wef 09/12/2024]"
+   }
+  },
+  {
+   "id": "SG-H774-A7.002",
+   "no": 7.002,
+   "noLabel": {
+    "en": "7B."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS RELATING TO DOCUMENTS ATTACHED TO FORMS"
+   },
+   "heading": {
+    "en": "Prescribed information under section 12(2AC) of Act"
+   },
+   "text": {
+    "en": "7B. For the purposes of section 12(2AC)(c) of the Act, the reference to a document in section 12(2)(b) of the Act excludes the following entries in a form submitted on the electronic transaction system:\n(a)a person’s email address;\n(b)an individual’s residential address;\n(c)an individual’s mobile telephone number.\n[S 951/2024 wef 09/12/2024]\n[S 203/2026 wef 06/05/2026]"
+   }
+  },
+  {
+   "id": "SG-H774-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS RELATING TO DOCUMENTS ATTACHED TO FORMS"
+   },
+   "heading": {
+    "en": "Verification and certification of documents"
+   },
+   "text": {
+    "en": "8.—(1) The copy of the contract to be lodged under section 63B(1) of the Act shall be certified by an advocate and solicitor or a registered qualified individual declaring that he has compared the copy with the original contract and that it is a true copy of the contract of which it purports to be a copy.\n[S 832/2015 wef 03/01/2016]\n(2) For the purpose of paragraph (1), the certification may be made on the copy of the contract, and the copy shall be signed and dated by the advocate and solicitor or registered qualified individual and shall contain the name of the advocate and solicitor or registered qualified individual, as the case may be, and the name and address of his firm or corporation, if applicable.\n[S 832/2015 wef 03/01/2016]\n(3) [Deleted by S 633/2020 wef 30/07/2020]\n(4) [Deleted by S 633/2020 wef 30/07/2020]\n(5) [Deleted by S 633/2020 wef 30/07/2020]"
+   }
+  },
+  {
+   "id": "SG-H774-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS RELATING TO DOCUMENTS ATTACHED TO FORMS"
+   },
+   "heading": {
+    "en": "Agent’s authority to be lodged"
+   },
+   "text": {
+    "en": "9. Where a statement in lieu of prospectus lodged with the Registrar under section 59(1) of the Act is signed under section 60(1)(a) of the Act by a person authorised in writing by a director or proposed director, the authorisation or a verified copy of the authorisation shall be annexed to the statement."
+   }
+  },
+  {
+   "id": "SG-H774-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS RELATING TO DOCUMENTS ATTACHED TO FORMS"
+   },
+   "heading": {
+    "en": "Signed copies of statutory report and auditor’s report thereon required for lodgment"
+   },
+   "text": {
+    "en": "10. For the purposes of section 174(5) of the Act —\n(a)the copy of the statutory report of a company to be lodged with the Registrar shall be a copy that is certified under section 174(3) of the Act by the personal signatures of not less than 2 directors; and\n(b)the copy of the auditor’s report on a statutory report referred to in paragraph (a) to be lodged with the Registrar shall be a copy that is personally signed by the auditor or, where the auditor is a firm, by one of the partners of that firm."
+   }
+  },
+  {
+   "id": "SG-H774-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS RELATING TO DOCUMENTS ATTACHED TO FORMS"
+   },
+   "text": {
+    "en": "11. [Deleted by S 633/2020 wef 30/07/2020]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H774-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS RELATING TO DOCUMENTS ATTACHED TO FORMS"
+   },
+   "heading": {
+    "en": "Certified translations of documents"
+   },
+   "text": {
+    "en": "12.—(1) For the purposes of section 397 of the Act, “certified translation” means a translation that —\n(a)in the case of a translation made outside Singapore —\n(i)is certified by an official to whom the custody of the original instrument, certificate, contract or document is committed, being an official holding or purporting to hold an office corresponding to that of the Registrar in the place in which the corporation is formed or incorporated;\n(ii)is certified by a notary public or a translator duly admitted and sworn in accordance with the law of the place in which the corporation is formed or incorporated; or\n(iii)is certified by a Singapore consular officer in the place in which the corporation is formed or incorporated; or\n(b)in the case of a translation made within Singapore, is certified by a person approved by the Registrar to be a correct translation in the English language.\n(2) The Registrar may, before accepting a translation for lodgment, require the person lodging the translation to furnish to the Registrar such evidence as the Registrar thinks sufficient of the ability of the person by whom the translation is made to make the translation.\n(3) In this regulation, “Singapore consular officer” means a Consul or a person performing consular functions on behalf of the Government."
+   }
+  },
+  {
+   "id": "SG-H774-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS RELATING TO DOCUMENTS ATTACHED TO FORMS"
+   },
+   "heading": {
+    "en": "Time for lodging documents"
+   },
+   "text": {
+    "en": "13. Where, on or after 3 January 2016, a form or document is required under the Act or these Regulations to be lodged with the Registrar but a period of time within which that form or document is to be lodged is not prescribed, that form or document shall be lodged —\n(a)within 14 days; or\n[S 832/2015 wef 03/01/2016]\n(b)in the case of a form or document required to be lodged by a foreign company, within such further period as the Registrar may in special circumstances allow,\nafter the occurrence of the event to which the form or document relates.\n[S 832/2015 wef 03/01/2016]"
+   }
+  },
+  {
+   "id": "SG-H774-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS RELATING TO DOCUMENTS ATTACHED TO FORMS"
+   },
+   "heading": {
+    "en": "Affidavit and statutory declaration"
+   },
+   "text": {
+    "en": "14.—(1) Except as otherwise provided in the Act, these Regulations or in any form, an affidavit or a statutory declaration sworn or declared for the purposes of the Act or these Regulations on behalf of a corporation shall be sworn or declared by a director or the secretary of the corporation.\n(2) Where an affidavit or a statutory declaration prescribed by the Act or these Regulations purports to be sworn or declared at a place outside Singapore, the affidavit or statutory declaration shall be sufficient for the purposes of the Act or these Regulations if it purports to be sworn or declared in accordance with the requirements of the law of that place.\n(3) [Deleted by S 633/2020 wef 30/07/2020]"
+   }
+  },
+  {
+   "id": "SG-H774-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS RELATING TO DOCUMENTS ATTACHED TO FORMS"
+   },
+   "text": {
+    "en": "15. [Deleted by S 633/2020 wef 30/07/2020]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H774-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART IV INCORPORATION OF COMPANIES AND RELATED MATTERS"
+   },
+   "heading": {
+    "en": "Documents for incorporation"
+   },
+   "text": {
+    "en": "16. For the purposes of section 19(1)(a) of the Act, a person desiring the incorporation of a company shall submit the application in the applicable form and furnish the Registrar with such information as is required in that form."
+   }
+  },
+  {
+   "id": "SG-H774-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART IV INCORPORATION OF COMPANIES AND RELATED MATTERS"
+   },
+   "text": {
+    "en": "17. [Deleted by S 832/2015 wef 03/01/2016]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H774-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART IV INCORPORATION OF COMPANIES AND RELATED MATTERS"
+   },
+   "heading": {
+    "en": "Confirmations to be lodged electronically"
+   },
+   "text": {
+    "en": "18.—(1) Where an advocate and solicitor or a registered corporate service provider is engaged to incorporate a company, then the advocate and solicitor or the registered corporate service provider (as the case may be) must, in the manner determined by the Registrar, confirm that —\n(a)each person who is to be appointed as director of the company —\n(i)has consented to act as director; and\n(ii)is not disqualified from acting as director of the company; and\n(b)each person who is to be appointed as secretary of the company has consented to act as secretary of the company.\n[S 832/2015 wef 03/01/2016]\n[S 297/2025 wef 09/06/2025]\n(2) The confirmations referred to in paragraph (1) must be lodged with the Registrar in the manner determined by the Registrar.\n(3) [Deleted by S 832/2015 wef 03/01/2016]"
+   }
+  },
+  {
+   "id": "SG-H774-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART IV INCORPORATION OF COMPANIES AND RELATED MATTERS"
+   },
+   "heading": {
+    "en": "Notice of incorporation"
+   },
+   "text": {
+    "en": "19. For the purposes of section 19(4) of the Act, the Registrar shall issue a notice of incorporation via electronic mail, as set out in Part I of the Schedule, to the applicant upon the successful incorporation of the company."
+   }
+  },
+  {
+   "id": "SG-H774-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART IV INCORPORATION OF COMPANIES AND RELATED MATTERS"
+   },
+   "heading": {
+    "en": "Notice of commencement of business"
+   },
+   "text": {
+    "en": "20. For the purposes of section 61(3) of the Act, the Registrar shall issue a notice of commencement of business via electronic mail, as set out in Part II of the Schedule, to the applicant upon lodgment of the declaration under section 61(1)(b)(iii) or (2)(c) of the Act with the Registrar."
+   }
+  },
+  {
+   "id": "SG-H774-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART V FOREIGN COMPANIES"
+   },
+   "heading": {
+    "en": "Certification or verification of documents required for registration of foreign companies"
+   },
+   "text": {
+    "en": "21.—(1) For the purposes of section 368(1)(b) of the Act, a certified copy of a certificate referred to in that section is a copy that has, within the period of 4 months immediately preceding the day on which it is lodged with the Registrar or within such longer period as the Registrar permits, been certified to be a true copy by an official holding or purporting to hold an office corresponding to that of the Registrar in the place in which the foreign company concerned is formed or incorporated.\n[S 832/2015 wef 03/01/2016]\n(2) Where the certificate referred to in section 368(1)(b) of the Act is an electronic document, the Registrar may accept a certified copy of a print-out of that certificate from an electronic database of an office corresponding to that of the Registry of Companies in the place in which the foreign company is formed or incorporated.\n[S 832/2015 wef 03/01/2016]\n(3) For the purposes of section 368(1)(c) of the Act, a certified copy referred to in that section, of a charter, statute, constitution or memorandum and articles or other instrument constituting or defining a foreign company’s constitution, is a copy that has, within the period of 4 months immediately preceding the day on which it is lodged with the Registrar or within such longer period as the Registrar permits, been certified to be a true copy —\n(a)by an official holding or purporting to hold an office corresponding to that of the Registrar in the place in which the foreign company concerned is formed or incorporated;\n(b)by a notary public;\n[S 832/2015 wef 03/01/2016]\n(c)by a director, manager or secretary of the foreign company by affidavit or, in the case of a foreign company formed or incorporated within the Commonwealth, by statutory declaration made by a director, manager or secretary of the foreign company; or\n[S 832/2015 wef 03/01/2016]\n(d)by the registered qualified individual —\n(i)who lodges the items referred to section 368(1) of the Act for the purpose of registering the foreign company; and\n(ii)who has verified and confirmed the authenticity of the charter, statute, constitution or memorandum and articles or other instrument constituting or defining the foreign company’s constitution.\n[S 832/2015 wef 03/01/2016]\n[S 832/2015 wef 03/01/2016]\n(4) In paragraph (2), “electronic document” means a document that is filed, served, delivered or otherwise conveyed by electronic transmission."
+   }
+  },
+  {
+   "id": "SG-H774-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART V FOREIGN COMPANIES"
+   },
+   "text": {
+    "en": "22. [Deleted by S 832/2015 wef 03/01/2016]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H774-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART V FOREIGN COMPANIES"
+   },
+   "heading": {
+    "en": "Manner of verification by statutory declaration"
+   },
+   "text": {
+    "en": "23. For the purposes of section 368(3)(b) of the Act, a statutory declaration of a copy of the deed or document referred to in that section shall be made by a director, manager or secretary, or by the authorised representative, of the foreign company declaring that he has compared the copy with the original deed or document and that it is a true copy of the deed or document of which it purports to be a copy.\n[S 832/2015 wef 03/01/2016]"
+   }
+  },
+  {
+   "id": "SG-H774-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART V FOREIGN COMPANIES"
+   },
+   "heading": {
+    "en": "Notice of registration of foreign company"
+   },
+   "text": {
+    "en": "24. For the purposes of section 371 of the Act, the Registrar shall issue a notice of registration of a foreign company via electronic mail, as set out in Part III of the Schedule, to the applicant upon the successful registration of the foreign company."
+   }
+  },
+  {
+   "id": "SG-H774-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART V FOREIGN COMPANIES"
+   },
+   "heading": {
+    "en": "Documents to be lodged where change or alteration is made"
+   },
+   "text": {
+    "en": "25. For the purposes of section 372(1) of the Act, the documents that a foreign company is required to lodge with the Registrar are as follows:\n(a)where any change or alteration is made in the charter, statutes, constitution, memorandum or articles of the foreign company or other instrument constituting or defining its constitution —\n(i)a copy of the instrument effecting that change or alteration; or\n(ii)a copy of the charter, statutes, constitution, memorandum, articles or other instrument as changed or altered,\n[S 832/2015 wef 03/01/2016]\nin either case being a copy certified to be a true copy in the same manner as a copy is certified under regulation 21(3) to be a true copy;\n[S 832/2015 wef 03/01/2016]\n(b)where any change or alteration is made in the name of the foreign company —\n(i)a copy of the certificate of its incorporation or registration in its place of incorporation or origin or a document of similar effect (being a certificate or document evidencing that change or alteration); or\n(ii)where there is no such certificate or document, a copy of the instrument effecting that change or alteration,\nin either case being a copy certified to be a true copy in the same manner as a copy is certified under regulation 21(3) to be a true copy; and\n(c)where any change or alteration is made in the powers of any director resident in Singapore who is a member of the local board of directors of the foreign company, a memorandum duly executed by or on behalf of the foreign company stating the powers of the local directors as changed or altered."
+   }
+  },
+  {
+   "id": "SG-H774-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART VII PROVISIONS ON USE OF CERTAIN FORMS"
+   },
+   "heading": {
+    "en": "Prescribed departments or Ministries of Government, etc., under section 12D(1)(b)(ii) of Act"
+   },
+   "text": {
+    "en": "32. The departments and Ministries of the Government, statutory bodies and bodies corporate prescribed for the purposes of section 12D(1)(b)(ii) of the Act are —\n(a)the Department of Statistics, Ministry of Energy, Trade and Industry;\n[S 734/2026 wef 01/10/2026]\n(b)the Ministry of Home Affairs;\n(c)the Ministry of Manpower; and\n(d)Singapore Post Limited.\n[S 832/2015 wef 03/01/2016]"
+   }
+  },
+  {
+   "id": "SG-H774-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART VII PROVISIONS ON USE OF CERTAIN FORMS"
+   },
+   "heading": {
+    "en": "Prescribed circumstances under section 12D(2) of Act"
+   },
+   "text": {
+    "en": "33. The Registrar need not give the written notice referred to in section 12D(2) of the Act before the Registrar rectifies or updates the register under section 12D(1) of the Act if —\n(a)the conflict is between the particulars of the company or person in a register, and —\n(i)the Singapore Standard Industrial Classification obtained from the Department of Statistics, Ministry of Energy, Trade and Industry;\n[S 734/2026 wef 01/10/2026]\n(ii)the particulars (including residential address) of the person registered under the National Registration Act 1965 obtained from the Ministry of Home Affairs;\n[S 297/2025 wef 31/12/2021]\n(iii)the foreign identification number of a foreigner obtained from the Ministry of Manpower; or\n(iv)the building name, postal code or street name of a property obtained from Singapore Post Limited; and\n(b)the Registrar is satisfied that the effort involved in giving the written notice referred to in section 12D(2) of the Act would be excessive, having regard to the likelihood that the company or person whose particulars are to be rectified or updated would object to the rectification or updating.\n[S 832/2015 wef 03/01/2016]"
+   }
+  },
+  {
+   "id": "SG-H774-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART VII PROVISIONS ON USE OF CERTAIN FORMS"
+   },
+   "heading": {
+    "en": "Notice of allotment"
+   },
+   "text": {
+    "en": "34. An unlisted public company shall comply with the requirements in section 63A(1)(e) of the Act by —\n(a)updating its list of shareholders before the allotment; and\n(b)providing in the notice of allotment the number and class of shares allotted to each of the allottees.\n[S 832/2015 wef 03/01/2016]"
+   }
+  },
+  {
+   "id": "SG-H774-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART VII PROVISIONS ON USE OF CERTAIN FORMS"
+   },
+   "heading": {
+    "en": "Order of court"
+   },
+   "text": {
+    "en": "35. An order of court shall, unless expressly provided in the applicable form, be lodged in the form relating to the general lodgment of orders of court."
+   }
+  },
+  {
+   "id": "SG-H774-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART VIII ANNUAL RETURN"
+   },
+   "heading": {
+    "en": "Annual return by companies"
+   },
+   "text": {
+    "en": "36.—(1) For the purposes of section 197(2) of the Act, a return mentioned in section 197(1) or (1A) of the Act —\n(a)must be in the form referred to in regulation 3;\n(b)must contain the following particulars:\n(i)the name of the company;\n(ii)whether the company is a private company or a public company;\n(iii)whether the company is a company limited by shares, a company limited by guarantee or an unlimited company;\n(iv)the registration number of the company;\n(v)the address of the registered office of the company;\n(vi)the principal activities of the company;\n(vii)particulars of the directors of the company;\n(viii)in the case of a company having a share capital, particulars of its shareholders;\n(ix)in the case of a company not having a share capital, particulars of its members;\n[S 117/2017 wef 31/03/2017]\n(ba)must contain the following information:\n(i)for a company mentioned in any of the sub‑paragraphs of paragraph 1 of the Fourteenth Schedule to the Act — a statement specifying which of those sub‑paragraphs is or are applicable to the company;\n(ii)for a company specified in paragraph 2 of the Companies (Specified Companies — Exemption from Part 11A) Order 2023 (G.N. No. S 384/2023) — a statement that the company is a specified company under the Order;\n(iii)for any other company —\n(A)a statement as to whether the register of controllers of the company is kept —\n(AA)at the company’s registered office; or\n(AB)at the registered office of a registered corporate service provider appointed by the company for the purpose of providing a registered office, business address, correspondence or administrative address or other related services for the company;\n(B)a statement as to whether the register of nominee directors of the company is kept —\n(BA)at the company’s registered office; or\n(BB)at the registered office of a registered corporate service provider appointed by the company for the purpose of providing a registered office, business address, correspondence or administrative address or other related services for the company; and\n(C)a statement as to whether the register of nominee shareholders of the company is kept —\n(CA)at the company’s registered office; or\n(CB)at the registered office of a registered corporate service provider appointed by the company for the purpose of providing a registered office, business address, correspondence or administrative address or other related services for the company; and\n[S 348/2025 wef 16/06/2025]\n(c)unless the company is a dormant relevant company the directors of which are exempt under section 201A of the Act from the requirements of section 201 of the Act for the financial year in relation to which the return is filed, must be accompanied by —\n(i)in the case of an exempt private company that is able to meet its liabilities as and when they fall due, either a confirmation of that fact in the applicable form or the documents in paragraph (2); or\n(ii)in any other case, the documents in paragraph (2).\n[S 513/2018 wef 31/08/2018]\n[S 513/2018 wef 31/08/2018]\n(2) The documents referred to in paragraph (1)(c)(i) and (ii) are the following documents of the company in respect of the financial year in relation to which the annual return is filed, prepared in accordance with Part 6 of the Act:\n(a)the statement of directors;\n(b)the financial statements;\n(c)the report of its auditors on the financial statements, unless the company is exempt from audit requirements under section 205B or 205C of the Act.\n[S 832/2015 wef 03/01/2016]\n[S 297/2025 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H774-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART VIII ANNUAL RETURN"
+   },
+   "heading": {
+    "en": "Return to be filed on keeping of registers of foreign company"
+   },
+   "text": {
+    "en": "37. For the purposes of section 374 of the Act, a return mentioned in that section must contain the following information relating to the keeping of the registers mentioned in section 374(c), (d) and (e) of the Act:\n(a)a statement as to whether the register of controllers of the foreign company is kept —\n(i)at the foreign company’s registered office; or\n(ii)at the registered office of a registered corporate service provider appointed by the foreign company for the purpose of providing a registered office, business address, correspondence or administrative address or other related services for the foreign company;\n(b)a statement as to whether the register of nominee directors of the foreign company is kept —\n(i)at the foreign company’s registered office; or\n(ii)at the registered office of a registered corporate service provider appointed by the foreign company for the purpose of providing a registered office, business address, correspondence or administrative address or other related services for the foreign company;\n(c)a statement as to whether the register of nominee shareholders of the foreign company is kept —\n(i)at the foreign company’s registered office; or\n(ii)at the registered office of a registered corporate service provider appointed by the foreign company for the purpose of providing a registered office, business address, correspondence or administrative address or other related services for the foreign company.\n[S 348/2025 wef 16/06/2025]"
+   }
+  },
+  {
+   "id": "SG-H774-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART VIII ANNUAL RETURN"
+   },
+   "heading": {
+    "en": "Statement of exemption"
+   },
+   "text": {
+    "en": "38. A foreign company mentioned in any of the sub‑paragraphs of paragraph 1 of the Fifteenth Schedule to the Act must submit to the Registrar a statement specifying which of those sub‑paragraphs is or are applicable to the foreign company, at the same time that the foreign company lodges a return mentioned in section 374 of the Act.\n[S 348/2025 wef 16/06/2025]"
+   }
+  },
+  {
+   "id": "SG-H774-A38.001",
+   "no": 38.001,
+   "noLabel": {
+    "en": "38A."
+   },
+   "chapter": {
+    "en": "PART VIII ANNUAL RETURN"
+   },
+   "text": {
+    "en": "38A. [Deleted by S 832/2015 wef 03/01/2016]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H774-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART VIII ANNUAL RETURN"
+   },
+   "text": {
+    "en": "39. [Deleted by S 832/2015 wef 03/01/2016]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H774-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART IX CHARGES"
+   },
+   "heading": {
+    "en": "Variation of charges"
+   },
+   "text": {
+    "en": "40. A chargor may lodge the applicable form with the Registrar to report any variation of the particulars of the chargee or the charge amount of a charge."
+   }
+  },
+  {
+   "id": "SG-H774-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART IX CHARGES"
+   },
+   "heading": {
+    "en": "Time prescribed for endorsement of satisfaction of charges"
+   },
+   "text": {
+    "en": "41. Where a chargee is satisfied of the truth of a statement of satisfaction referred to in section 136(1) of the Act, the chargee shall endorse the statement under section 136(2) of the Act before that statement is lodged with the Registrar or within 3 days of such lodgment."
+   }
+  },
+  {
+   "id": "SG-H774-A41.001",
+   "no": 41.001,
+   "noLabel": {
+    "en": "41A."
+   },
+   "chapter": {
+    "en": "PART IXA REDUCTION OF SHARE CAPITAL"
+   },
+   "heading": {
+    "en": "Notice of application to cancel resolution"
+   },
+   "text": {
+    "en": "41A. For the purposes of section 78D(4)(b) of the Act, the notice of the application to the Court for the resolution to be cancelled shall be lodged in the applicable form.\n[S 54/2006 wef 30/01/2006]"
+   }
+  },
+  {
+   "id": "SG-H774-A41.002",
+   "no": 41.002,
+   "noLabel": {
+    "en": "41B."
+   },
+   "chapter": {
+    "en": "PART IXA REDUCTION OF SHARE CAPITAL"
+   },
+   "heading": {
+    "en": "Notice of order of Court cancelling resolution"
+   },
+   "text": {
+    "en": "41B. For the purposes of section 78F(4) of the Act, the notice of the order shall be lodged in the applicable form.\n[S 54/2006 wef 30/01/2006]"
+   }
+  },
+  {
+   "id": "SG-H774-A41.003",
+   "no": 41.003,
+   "noLabel": {
+    "en": "41C."
+   },
+   "chapter": {
+    "en": "PART IXA REDUCTION OF SHARE CAPITAL"
+   },
+   "heading": {
+    "en": "Order of Court dismissing application for reduction"
+   },
+   "text": {
+    "en": "41C. Where the Court dismisses the application by a company under section 78G(1) of the Act, the company shall lodge the order in accordance with regulation 35.\n[S 54/2006 wef 30/01/2006]"
+   }
+  },
+  {
+   "id": "SG-H774-A41.004",
+   "no": 41.004,
+   "noLabel": {
+    "en": "41D."
+   },
+   "chapter": {
+    "en": "PART IXA REDUCTION OF SHARE CAPITAL"
+   },
+   "heading": {
+    "en": "Extension of time to lodge order of Court and notice containing reduction information"
+   },
+   "text": {
+    "en": "41D. An application for an extension of time to lodge the order of Court and the notice containing the reduction information under section 78I(3) of the Act shall be made in the applicable form.\n[S 54/2006 wef 30/01/2006]"
+   }
+  },
+  {
+   "id": "SG-H774-A41.005",
+   "no": 41.005,
+   "noLabel": {
+    "en": "41E."
+   },
+   "chapter": {
+    "en": "PART IXB AMALGAMATION"
+   },
+   "heading": {
+    "en": "Registration of amalgamation"
+   },
+   "text": {
+    "en": "41E. Where the amalgamation proposal specifies a date on which the amalgamation is intended to become effective, the application for registration of amalgamation under section 215E of the Act shall not be made earlier than 2 months before the specified date.\n[S 54/2006 wef 30/01/2006]"
+   }
+  },
+  {
+   "id": "SG-H774-A41.006",
+   "no": 41.006,
+   "noLabel": {
+    "en": "41F."
+   },
+   "chapter": {
+    "en": "PART IXB AMALGAMATION"
+   },
+   "heading": {
+    "en": "Special resolution for amalgamation proposal"
+   },
+   "text": {
+    "en": "41F. A special resolution made under section 215C(1)(a) of the Act shall be lodged in the applicable form in accordance with section 186 of the Act.\n[S 54/2006 wef 30/01/2006]"
+   }
+  },
+  {
+   "id": "SG-H774-A41.007",
+   "no": 41.007,
+   "noLabel": {
+    "en": "41G."
+   },
+   "chapter": {
+    "en": "PART IXB AMALGAMATION"
+   },
+   "heading": {
+    "en": "Court order under section 215H of Act"
+   },
+   "text": {
+    "en": "41G. Where a Court makes an order on an application made under section 215H of the Act, the company shall lodge the order in accordance with regulation 35.\n[S 54/2006 wef 30/01/2006]"
+   }
+  },
+  {
+   "id": "SG-H774-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART X TRANSITIONAL PROVISION"
+   },
+   "heading": {
+    "en": "Transitional provision"
+   },
+   "text": {
+    "en": "42. Any act, matter or thing that was done under or for the purposes of any provision of the Companies Regulations (Rg 1) in force immediately before 13th January 2003 shall be taken to have been done for the purposes of the corresponding provision of these Regulations."
+   }
+  },
+  {
+   "id": "SG-H774-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nPart I\nCompanies Act 1967\nRegulation 19\nCOMPANIES (FILING OF DOCUMENTS)\nREGULATIONS\nNOTICE OF INCORPORATION UNDER SECTION 19 (4)\nThis is to confirm that <name of company> is incorporated under section 19(4) of the Companies Act 1967 on <date of incorporation> and that the company is <company type*>.\n* a private company limited by shares\n* a public company limited by shares\n* a public company limited by guarantee\n* an unlimited company.\n[S 297/2025 wef 31/12/2021]\nPart II\nCompanies Act 1967\nRegulation 20\nCOMPANIES (FILING OF DOCUMENTS)\nREGULATIONS\nNOTICE OF COMMENCEMENT OF BUSINESS\nUNDER SECTION 61(3)\nThis is to confirm that the declaration required under section 61(3) of the Companies Act 1967 has been lodged and that the company is entitled to commence business and to exercise its borrowing powers.\n[S 297/2025 wef 31/12/2021]\nPart III\nCompanies Act 1967\nRegulation 24\nCOMPANIES (FILING OF DOCUMENTS)\nREGULATIONS\nNOTICE OF REGISTRATION OF FOREIGN COMPANY\nUNDER SECTION 371(1)\nThis is to confirm that a foreign company called <name of company> which was formed or incorporated in <place of incorporation> has been registered in Singapore under section 371(1) of the Companies Act 1967 on <registration date>.\n[S 297/2025 wef 31/12/2021]\nPart IV\n[Deleted by S 603/2007 wef 05/11/2007]\nPart V\n[Deleted by S 603/2007 wef 05/11/2007]\nPart VI\n[Deleted by S 603/2007 wef 05/11/2007]\n[G.N. Nos. S 17/2003; S 235/2003; S 292/2004]"
+   }
+  }
+ ]
+}

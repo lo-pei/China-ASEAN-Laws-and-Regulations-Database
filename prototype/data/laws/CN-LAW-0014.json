@@ -1,0 +1,80 @@
+{
+ "id": "CN-LAW-0014",
+ "title": {
+  "zh": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第二百九十四条第一款的解释",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p01",
+ "language": "zh",
+ "level": "law",
+ "category": "法律",
+ "status": "active",
+ "promulgatedDate": "2002-04-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "全国人民代表大会常务委员会",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 351,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\法律\\全国人民代表大会常务委员会关于《中华人民共和国刑法》第二百九十四条第一款的解释_20020428.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，第二百九十四条至第二百九十四条，共 1 条；来源为项目数据资源中的官方汇编文件（全国人民代表大会常务委员会关于《中华人民共和国刑法》第二百九十四条第一款的解释_20020428.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-LAW-0014-A294",
+   "no": 294,
+   "noLabel": {
+    "zh": "第二百九十四条"
+   },
+   "text": {
+    "zh": "第一款的解释\n（2002年4月28日第九届全国人民代表大会常务委员会第二十七次会议通过）\n全国人民代表大会常务委员会讨论了刑法第二百九十四条第一款规定的“黑社会性质的组织”的含义问题，解释如下：\n刑法第二百九十四条第一款规定的“黑社会性质的组织”应当同时具备以下特征：\n（一）形成较稳定的犯罪组织，人数较多，有明确的组织者、领导者，骨干成员基本固定；\n（二）有组织地通过违法犯罪活动或者其他手段获取经济利益，具有一定的经济实力，以支持该组织的活动；\n（三）以暴力、威胁或者其他手段，有组织地多次进行违法犯罪活动，为非作恶，欺压、残害群众；\n（四）通过实施违法犯罪活动，或者利用国家工作人员的包庇或者纵容，称霸一方，在一定区域或者行业内，形成非法控制或者重大影响，严重破坏经济、社会生活秩序。\n现予公告。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "law",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第二百九十四条第一款的解释"
+  },
+  "issuingBody": {
+   "zh": "全国人民代表大会常务委员会"
+  },
+  "promulgatedDate": "2002-04-28",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "法律"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

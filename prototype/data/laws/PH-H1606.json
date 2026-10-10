@@ -1,0 +1,64 @@
+{
+ "id": "PH-H1606",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Item (a), Under “(22) Iloilo,” Paragraph (f), Section Two of Republic Act Numbered Fourteen Hundred Eleven",
+  "orig": "An Act Amending Item (a), Under “(22) Iloilo,” Paragraph (f), Section Two of Republic Act Numbered Fourteen Hundred Eleven"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p22",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1957-06-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1772",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 427,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1957/ra_1772_1957.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1957/ra_1772_1957.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1606-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Item (a), under \"(22) Iloilo,\" paragraph (f), section two of Republic Act Numbered Fourteen hundred eleven, is amended to read as follows:\n\"(a)\n1. Tigbauan Central School Home Economics Building, Repair ₱3,500.00\n2. Tigbauan Central School Shop Building, Repair 3,500.00\n3. Baroc Atabayan Seawall, Tigbauan 13,000.00\n4. Jamog Rural Road, Tigbauan 20,000.00\""
+   }
+  },
+  {
+   "id": "PH-H1606-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1957."
+   }
+  }
+ ]
+}

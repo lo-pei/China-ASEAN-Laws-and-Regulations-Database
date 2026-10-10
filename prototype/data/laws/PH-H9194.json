@@ -1,0 +1,104 @@
+{
+ "id": "PH-H9194",
+ "title": {
+  "zh": null,
+  "en": "Biofuels Act of 2006",
+  "orig": "An Act Allowing Natural Gas Power Generating Plants in the Country to Use Neat Diesel as An Alternative Fuel, Exempting Them From the Requirements of Paragraph 5.3, Section 5 of Republic Act No. 9367, Otherwise Known as the “Biofuels Act of 2006”"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p131",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2016-02-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 10745",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 2027,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2016/ra_10745_2016.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 6 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2016/ra_10745_2016.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文存在同号重出的条款（第 5 条）：该处官方页面确有两段均标同一 Section 号，本库照录其 `no` 值（不改动官方编号），条文 `id` 以 `_2`「_3」后缀保证唯一。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H9194-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section 5 of Republic Act No. 9367, otherwise known as the “Biofuels Act of 2006”, is hereby amended to read as follows:\n“SEC. 1. x x x.”\n“Section 2. x x x.”\n“Section 3. x x x.”\n“Section 4. x x x.”\n“"
+   }
+  },
+  {
+   "id": "PH-H9194-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Mandatory Use of Biofuels. – Pursuant to the above policy, it is hereby declared that all liquid fuels for motors and engines sold in the Philippines shall contain locally-sourced biofuels components as follows:\n“ x x x “5.3 Within three months from the effectivity of this Act, a minimum of one percent (1%) biodiesel by volume shall be blended into all diesel engine fuels sold in the country: Provided, That the biodiesel blend conforms to PNS for biodiesel.\n“Within two years from the effectivity of this Act, the NBB created under this Act is empowered to determine the feasibility and thereafter recommend to the DOE to mandate a minimum of two percent (2%) blend of biodiesel by volume which may be increased taking into account considerations including but not limited to domestic supply and availability of locally-sourced biodiesel component: Provided, That natural gas power generating plants may use neat diesel as their alternative fuel during shortages of natural gas supplies: Provided, however, That the DOE shall ensure that the authority granted herein shall only be availed of, directly or indirectly, by natural gas power plants.”"
+   }
+  },
+  {
+   "id": "PH-H9194-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Implementing Rules and Regulations. – The DOE shall, within thirty (30) days from the effectivity of this Act, promulgate the implementing rules and regulations of this Act."
+   }
+  },
+  {
+   "id": "PH-H9194-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Separability Clause. – Should any provision of this Act be declared invalid, the remaining provisions shall continue to be valid and subsisting."
+   }
+  },
+  {
+   "id": "PH-H9194-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Repealing Clause. – All laws, executive order’s, or administrative orders, rules and regulations or parts thereof, which are inconsistent with this Act, are hereby amended, repealed or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H9194-A5_2",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Effeclivity. – This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation in the Philippines."
+   }
+  }
+ ]
+}

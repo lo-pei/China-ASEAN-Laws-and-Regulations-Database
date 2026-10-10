@@ -1,0 +1,88 @@
+{
+ "id": "BN-CAP-75-1984-SEAMENS-UNEMPLOYMENT-INDEMNITY-ACT",
+ "title": {
+  "zh": null,
+  "en": "SEAMENS UNEMPLOYMENT INDEMNITY ACT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p19",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1984",
+ "effectiveDate": null,
+ "versionDate": "1984",
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": "CAP. 75",
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 4,
+ "chars": 1012,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null,
+  "file": "CAP-75-1984-ED-SEAMENS-UNEMPLOYMENT-INDEMNITY-ACT.pdf"
+ },
+ "sourceFile": "CAP-75-1984-ED-SEAMENS-UNEMPLOYMENT-INDEMNITY-ACT.pdf",
+ "fetchedAt": "2026-10-10",
+ "completenessNote": "【源件无文本层，本记录为 OCR 补录】源 PDF 为纯扫描图像（无文本层），已用 Windows OCR 引擎识别；本机仅安装**简体中文识别模型**（无英文语言包），故对英文法条的字符准确率有限（易混：l/I、o/0、m/ın、大小写），并可能残留页边条标题。**本记录仅可用于检索定位，不可作为逐字引用依据；逐字引用请以原始 PDF 为准**（见 source.file / sourceFile）。",
+ "textQuality": "ocr-windows-zh-Hans",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-75-1984-SEAMENS-UNEMPLOYMENT-INDEMNITY-ACT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Seamen's Unemploy- Short title ment lndemnity Act."
+   }
+  },
+  {
+   "id": "BN-CAP-75-1984-SEAMENS-UNEMPLOYMENT-INDEMNITY-ACT-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "ln this Act and in any rules made thereunder unless lnterpretation the context otherwise requires seamen \" includes all persons employed on any vessel; vessel \" means and includes every kind Of vessel used in navigation."
+   }
+  },
+  {
+   "id": "BN-CAP-75-1984-SEAMENS-UNEMPLOYMENT-INDEMNITY-ACT-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "(1) The owner of a vessel shall be bound to inde- Payment of unemploymnify any seaman employed therein against unemployment ment indemnity resulting from the wreck or loss Of such vessel. ( 2 ) The indemnity shall be paid fo r the days during which such seaman remains in fact unemployed and shall be at the same rate as the wages agreed to be paid to such seaman: Provided that the total amount payable shall not exceed 2 months , wages. ( 3 ) Any money due under this section may be recovered by suit in the appropriate court."
+   }
+  },
+  {
+   "id": "BN-CAP-75-1984-SEAMENS-UNEMPLOYMENT-INDEMNITY-ACT-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "His Majesty the Sultan and Yang Di-Pertuan in Power to make rules Council may from time to time make rules generally fo r the carrying out of the purposes of this Act. B.L.R.O. ) / ) 98"
+   }
+  }
+ ]
+}

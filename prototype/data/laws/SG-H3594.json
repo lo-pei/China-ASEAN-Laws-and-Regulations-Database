@@ -1,0 +1,500 @@
+{
+ "id": "SG-H3594",
+ "title": {
+  "zh": null,
+  "en": "Public Defenders Act 2022",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p45",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act PDA2022",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 29,
+ "chars": 44554,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/PDA2022?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 29 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3594-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title and commencement"
+   },
+   "text": {
+    "en": "1. This Act is the Public Defenders Act 2022 and comes into operation on a date that the Minister appoints by notification in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H3594-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2.—(1) In this Act, unless the context otherwise requires —\n“aided accused person” means an individual who is issued a Grant of Aid;\n“assigned solicitor” means a solicitor from an appropriate panel of solicitors established under section 4 who is assigned any matter mentioned in section 4(1)(a) or (b) by the Chief Public Defender;\n“Chief Public Defender” means the Chief Public Defender appointed under section 3(1);\n“court” means any court of competent jurisdiction in Singapore before which any proceedings are heard;\n“criminal appeal” means any appeal under Part 20 of the Criminal Procedure Code 2010;\n“criminal application” means —\n(a)any application for review of an earlier decision, a case to be stated, a criminal reference or a criminal revision of a case under Division 1B, 2, 3 or 4 of Part 20 of the Criminal Procedure Code 2010, and includes any case stated or revision of a case on a court’s own motion or any criminal reference by the Public Prosecutor mentioned in that Part; or\n(b)any criminal motion under Division 5 of Part 20 of the Criminal Procedure Code 2010;\n“criminal defence aid” means criminal defence aid granted under this Act;\n“excluded offence” has the meaning given by section 8(2);\n“Grant of Aid” means a document issued under section 12 or 20 stating that criminal defence aid is granted to an individual (whether on a provisional basis or otherwise);\n“minor” means an individual who is below 21 years of age;\n“permanent resident” means a permanent resident of Singapore as defined by section 2 of the Immigration Act 1959;\n[Act 31 of 2023 wef 01/12/2025]\n“proceedings” means any proceedings mentioned in section 8(1) or 12(8) in respect of which a Grant of Aid may be or is issued;\n“public defender” means a public officer or any other individual appointed under section 3(6);\n“solicitor” means an advocate and solicitor of the Supreme Court.\n(2) For the purposes of this Act, a guardian of a minor is —\n(a)a parent (whether biological or adoptive) of the minor;\n(b)an individual who, not being a parent of the minor, is lawfully appointed by deed or will or by an order of a competent court to be the guardian of the minor; or\n(c)any other individual whom the Chief Public Defender has reasonable grounds to believe —\n(i)has for the time being the charge, custody, or care and control, of the minor; or\n(ii)is for the time being making financial provision for the support of the minor."
+   }
+  },
+  {
+   "id": "SG-H3594-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 APPOINTMENT OF CHIEF PUBLIC DEFENDER, SOLICITORS, ETC."
+   },
+   "heading": {
+    "en": "Appointment of Chief Public Defender, etc."
+   },
+   "text": {
+    "en": "3.—(1) The Minister must appoint a Chief Public Defender who is responsible for carrying out this Act and for the administration of the Public Defender’s Office.\n(2) In addition, the Minister may appoint any number of Deputy Chief Public Defenders and Assistant Chief Public Defenders that the Minister considers necessary to assist the Chief Public Defender.\n(3) An individual must not be appointed to be or to act temporarily as the Chief Public Defender, a Deputy Chief Public Defender or an Assistant Chief Public Defender unless the individual is —\n(a)a qualified person as defined in section 2(1) of the Legal Profession Act 1966; or\n(b)a solicitor.\n(4) A Deputy Chief Public Defender and an Assistant Chief Public Defender have all the powers and may perform all the functions of the Chief Public Defender, except the powers exercisable under subsection (6).\n(5) Except in subsection (6), or unless the context otherwise requires, any reference in this Act to the Chief Public Defender includes a reference to a Deputy Chief Public Defender or an Assistant Chief Public Defender.\n(6) The Chief Public Defender may —\n(a)appoint any number of public officers and other individuals that the Chief Public Defender considers necessary and whom the Chief Public Defender considers are duly qualified and experienced, as public defenders for the purpose of assisting the Chief Public Defender, a Deputy Chief Public Defender or an Assistant Chief Public Defender, in carrying out any of their functions under this Act; and\n(b)assign to those appointed public officers and other individuals any functions as the Chief Public Defender considers appropriate for the purpose mentioned in paragraph (a).\n(7) Every public defender who is not a public officer is deemed to be a public servant within the meaning of the Penal Code 1871 in relation to his or her carrying out of any function as a public defender.\n(8) Despite any other written law, for the purposes of this Act, the following individuals have the right to appear and plead in all courts according to the law in force in those courts:\n(a)the Chief Public Defender and every Deputy Chief Public Defender or Assistant Chief Public Defender;\n(b)a public defender who is assigned under subsection (6)(b) any function that requires the public defender to appear and plead in those courts."
+   }
+  },
+  {
+   "id": "SG-H3594-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 APPOINTMENT OF CHIEF PUBLIC DEFENDER, SOLICITORS, ETC."
+   },
+   "heading": {
+    "en": "Panels of solicitors"
+   },
+   "text": {
+    "en": "4.—(1) The Chief Public Defender may, if he or she considers necessary, establish one or more panels of solicitors for one or both of the following purposes:\n(a)in relation to an application for criminal defence aid, to investigate and make a report on the application, or to give any opinion on the application or on any question of law arising out of the application;\n(b)to act for individuals receiving criminal defence aid.\n(2) Separate panels may be established for different purposes and for different courts.\n(3) The Chief Public Defender may determine —\n(a)the term of appointment of a solicitor to a panel and the conditions (if any) of his or her appointment; and\n(b)the assignment of any matter mentioned in subsection (1)(a) or (b) to the solicitor.\n(4) A solicitor appointed to a panel under subsection (1) is entitled to have the solicitor’s name on the panel during his or her term of appointment, unless there is any ground under section 5(1) for the solicitor’s exclusion or removal from the panel.\n(5) Despite any privilege arising out of the relationship between solicitor and client, a solicitor has a duty to disclose any information or give any opinion to the Chief Public Defender which may enable the Chief Public Defender to perform the Chief Public Defender’s functions under this Act, including any information or opinion that may reasonably be taken into account —\n(a)by the Chief Public Defender in determining whether —\n(i)to refuse an application for criminal defence aid; or\n(ii)to vary or cancel a Grant of Aid issued to an aided accused person; or\n(b)by a board mentioned in section 12(1)(c)(ii) in determining whether there are merits to an application for criminal defence aid in accordance with that provision."
+   }
+  },
+  {
+   "id": "SG-H3594-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 APPOINTMENT OF CHIEF PUBLIC DEFENDER, SOLICITORS, ETC."
+   },
+   "heading": {
+    "en": "Exclusion or removal of solicitor"
+   },
+   "text": {
+    "en": "5.—(1) The Chief Public Defender may exclude or remove (whether permanently or temporarily) a solicitor from a panel —\n(a)in the case of a solicitor appointed to a panel for the purpose mentioned in section 4(1)(b), if the solicitor’s practising certificate ceases to be in force for any reason;\n(b)if the solicitor has requested that the Chief Public Defender remove the solicitor from the panel;\n(c)if the solicitor has shown by his or her conduct when assigned to act for aided accused persons, or by his or her professional conduct generally, that the solicitor is not suitable to remain on the panel; or\n(d)if, in the opinion of the Chief Public Defender —\n(i)the solicitor is not suitable to be or to remain on the panel for any other reason; or\n(ii)it is necessary or expedient to exclude or remove the solicitor from the panel for any other reason.\n(2) Where a solicitor is aggrieved by a decision of the Chief Public Defender under subsection (1), the solicitor may appeal to the General Division of the High Court against the decision.\n(3) The General Division of the High Court may confirm or quash the decision appealed against or may substitute that decision as the General Division of the High Court thinks fit, and the decision of the General Division of the High Court is final."
+   }
+  },
+  {
+   "id": "SG-H3594-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 APPOINTMENT OF CHIEF PUBLIC DEFENDER, SOLICITORS, ETC."
+   },
+   "heading": {
+    "en": "Fees for solicitors"
+   },
+   "text": {
+    "en": "6.—(1) Subject to subsection (2) and regulations made under section 25, the Chief Public Defender may pay to a solicitor any fees agreed between the Chief Public Defender and the solicitor for any work mentioned in section 4(1)(a) or (b) done by the solicitor.\n(2) In determining the fees to be agreed with a solicitor, the Chief Public Defender must have regard to whether the fees are reasonable and proportionate taking into account all relevant circumstances, including but not limited to —\n(a)the complexity, difficulty or novelty of the issues or questions of law involved;\n(b)the skill, specialised knowledge and responsibility required of, and the time and labour expended by, the solicitor;\n(c)the number of charges brought against the applicant for criminal defence aid or the aided accused person, and the severity of the punishment for the offences concerned; and\n(d)the requirement to maintain the accessibility and affordability of criminal defence aid taking into account the means and other circumstances of individuals eligible for criminal defence aid."
+   }
+  },
+  {
+   "id": "SG-H3594-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 APPOINTMENT OF CHIEF PUBLIC DEFENDER, SOLICITORS, ETC."
+   },
+   "heading": {
+    "en": "Protection from personal liability"
+   },
+   "text": {
+    "en": "7.—(1) Subsection (2) applies where an act is done or an omission is made —\n(a)by the Chief Public Defender, a Deputy Chief Public Defender, an Assistant Chief Public Defender or a public defender in the exercise or purported exercise of a function under this Act (except the provision of any legal advice or legal representation to an aided accused person in any proceedings to which a Grant of Aid relates);\n(b)by a solicitor in the exercise or purported exercise of a function under section 4(1)(a) (including, if applicable, in discharging a duty of a solicitor mentioned in section 4(5));\n(c)by a solicitor who is a member of a board mentioned in section 12(1)(c)(ii) in the exercise or purported exercise of a function to give an opinion whether there are merits to an application under section 12(1)(c) or 20 (including, if applicable, in discharging a duty of a solicitor mentioned in section 4(5)); or\n(d)by a person authorised by the Minister under section 12(9), in the exercise or purported exercise of the power under section 12(7)(b).\n(2) No liability shall lie personally against any person mentioned in subsection (1) who did the act or made the omission if the act was done or the omission was made in good faith and with reasonable care.\n(3) In subsection (1), “function” includes power and duty and “exercise of a function” includes performance of a duty."
+   }
+  },
+  {
+   "id": "SG-H3594-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 CRIMINAL DEFENCE AID"
+   },
+   "heading": {
+    "en": "Scope of criminal defence aid"
+   },
+   "text": {
+    "en": "8.—(1) Subject to section 12(8), criminal defence aid may be granted to a citizen or permanent resident of Singapore in respect of any of the following proceedings:\n(a)any criminal proceedings instituted against him or her in respect of an offence that is not an excluded offence;\n(b)any proceedings relating to a criminal appeal or a criminal application arising from any criminal proceedings mentioned in paragraph (a).\n(2) In subsection (1), an excluded offence is —\n(a)an offence specified as an excluded offence in the Schedule; or\n(b)an offence belonging to any excluded class of offences specified in the Schedule.\n(3) The Minister may, by order in the Gazette, amend the Schedule.\n(4) The Minister may, in an order under subsection (3), make provisions of a saving or transitional nature consequent on the enactment of the order as the Minister considers necessary or expedient.\n(5) All orders made under subsection (3) must be presented to Parliament as soon as possible after publication in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H3594-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 CRIMINAL DEFENCE AID"
+   },
+   "heading": {
+    "en": "General provisions for application for criminal defence aid"
+   },
+   "text": {
+    "en": "9.—(1) Subject to this section and section 10, any individual who wishes to receive criminal defence aid may apply to the Chief Public Defender for the grant of criminal defence aid.\n(2) An application for the grant of criminal defence aid must be —\n(a)made in the form and manner required by the Chief Public Defender; and\n(b)accompanied by any documents and information required by the Chief Public Defender.\n(3) Subject to subsection (4), where an application for the grant of criminal defence aid is not approved under section 12 or 20, the Chief Public Defender may refuse to consider any subsequent application for the grant of criminal defence aid in respect of the same matter.\n(4) Subsection (3) does not apply if the Chief Public Defender is of the opinion that there are reasonable grounds to believe that there is any change in circumstances despite the subsequent application being in respect of the same matter."
+   }
+  },
+  {
+   "id": "SG-H3594-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 CRIMINAL DEFENCE AID"
+   },
+   "heading": {
+    "en": "Special provisions for application for criminal defence aid for minor"
+   },
+   "text": {
+    "en": "10.—(1) An application for the grant of criminal defence aid to a minor must be made on behalf of the minor by a guardian of the minor.\n(2) Where an application is made under subsection (1), a reference in this Act to an applicant for criminal defence aid is to be construed as a reference to the minor except where provided otherwise.\n(3) Where —\n(a)an aided accused person was a minor when criminal defence aid was granted to him or her in respect of any proceedings;\n(b)those proceedings have not concluded on the date on which the aided accused person attains 21 years of age; and\n(c)the aided accused person wishes to continue receiving criminal defence aid in respect of those proceedings after attaining 21 years of age,\nthe aided accused person must give to the Chief Public Defender a written consent in accordance with subsection (4) to continue receiving criminal defence aid in respect of those proceedings.\n(4) The written consent mentioned in subsection (3) must be —\n(a)given to the Chief Public Defender within the prescribed time after the aided accused person attains 21 years of age; and\n(b)in the form and manner required by the Chief Public Defender.\n(5) Every aided accused person who gives a written consent under subsection (3) is deemed to have made a fresh application for criminal defence aid in his or her own right."
+   }
+  },
+  {
+   "id": "SG-H3594-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 CRIMINAL DEFENCE AID"
+   },
+   "heading": {
+    "en": "Power of Chief Public Defender to make inquiries, etc."
+   },
+   "text": {
+    "en": "11.—(1) Where an application is made for criminal defence aid, the Chief Public Defender may —\n(a)make any inquiries that the Chief Public Defender considers necessary with respect to the means and other circumstances of the applicant and the merits of the application;\n(b)require the applicant to provide any documents and information that the Chief Public Defender requires for the purpose of considering the application;\n(c)require the applicant to attend personally before the Chief Public Defender to answer questions about the application and the proceedings concerned;\n(d)refer the application or any matter arising out of the application to a solicitor from an appropriate panel of solicitors established under section 4, for any of the purposes mentioned in section 4(1)(a); and\n(e)take or cause to be taken any steps that are necessary to conserve the interests of the applicant pending the determination of the application.\n(2) Where the application is made by the guardian of a minor, a reference to an applicant in subsection (1)(a), (b) and (c) is to be construed as a reference to the guardian and the minor jointly or to either of them severally."
+   }
+  },
+  {
+   "id": "SG-H3594-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 CRIMINAL DEFENCE AID"
+   },
+   "heading": {
+    "en": "Grant of Aid"
+   },
+   "text": {
+    "en": "12.—(1) The Chief Public Defender may approve an application for criminal defence aid, and issue a Grant of Aid to an applicant in connection with any proceedings, if —\n(a)the Chief Public Defender is of the opinion that —\n(i)the applicant satisfies the prescribed means criteria; or\n(ii)if the applicant is an unmarried minor, the minor and the guardian who made the application on behalf of the minor satisfy the prescribed means criteria;\n(b)the applicant is a citizen or permanent resident of Singapore who —\n(i)is an accused person in any criminal proceedings mentioned in section 8(1)(a); or\n(ii)is or is to be an appellant, an applicant, a respondent or a party, in a criminal appeal or criminal application mentioned in section 8(1)(b);\n(c)either of the following applies:\n(i)in a case where the application for criminal defence aid is in respect of only one or more prescribed offences or offences in one or more prescribed classes of offences — the Chief Public Defender is of the opinion that there are merits to the application because —\n(A)the applicant requires legal representation to plead guilty;\n(B)there are reasonable grounds for defending the criminal proceedings mentioned in section 8(1)(a); or\n(C)there are merits to the criminal appeal or criminal application mentioned in section 8(1)(b), or reasonable grounds for contesting the criminal appeal or criminal application, as the case may be;\n(ii)in a case where the application for criminal defence aid is in respect of one or more offences that are not prescribed offences or not offences in one or more prescribed classes of offences — a board (consisting of the Chief Public Defender and at least 2 solicitors appointed to an appropriate panel of solicitors established under section 4) is, by the majority of its members, of the opinion that there are merits to the application because sub‑paragraph (i)(A), (B) or (C), whichever is applicable to the applicant’s case, is satisfied; and\n[Act 32 of 2024 wef 25/11/2024]\n(d)the Chief Public Defender is of the opinion that it is appropriate in the circumstances for the Grant of Aid to be issued to the applicant.\n(2) For the purposes of subsection (1)(d), the Chief Public Defender is to have regard to, and give any weight that the Chief Public Defender considers appropriate to, any matter that he or she considers relevant, including but not limited to the following:\n(a)whether the applicant is likely to lose his or her personal liberty or livelihood, or to suffer serious damage to his or her reputation, if any matter arising in the proceedings is decided against the applicant;\n(b)whether the determination of any matter arising in the proceedings may involve consideration of a substantial question of law;\n(c)whether the proceedings may involve the tracing, interviewing or cross‑examination of witnesses on behalf of the applicant;\n(d)whether any benefit may accrue to, or any detriment may be suffered by, the applicant or the public (or a section of the public) if criminal defence aid were to be granted to the applicant;\n(e)whether the issue of the Grant of Aid to the applicant is appropriate taking into account —\n(i)the allocation of resources available to the Public Defender’s Office; and\n(ii)the availability of solicitors appointed to an appropriate panel of solicitors established under section 4.\n(3) For the purposes of subsection (2)(d), the benefit or detriment concerned must not be determined by whether the interests of the applicant are, or may be, adverse to the interests of —\n(a)the prosecution; or\n(b)any law enforcement agency (as defined in section 2(1) of the Criminal Procedure Code 2010) that investigated the offence with which the applicant is charged or that charged the applicant with the offence.\n(4) Pending the determination of an application under subsection (1), the Chief Public Defender may despite that subsection approve an application for criminal defence aid, and issue a Grant of Aid on a provisional basis to an applicant in connection with any proceedings, if the Chief Public Defender is of the opinion that —\n(a)the applicant requires criminal defence aid as a matter of urgency;\n(b)subsection (1)(b) applies; and\n(c)subsection (1)(a), (c) and (d) is likely to apply.\n(5) Despite subsection (1), where the requirements of subsection (1)(a), (b), (c) and (d) are satisfied in relation to an application, the Chief Public Defender may instead of approving the application and issuing a Grant of Aid to the applicant under that subsection, refer the application to any body or organisation providing pro bono legal services that the Chief Public Defender considers suitable.\n(6) A referral under subsection (5) in respect of an application does not prevent the Chief Public Defender from subsequently approving the application and issuing a Grant of Aid to the applicant under subsection (1), if the Chief Public Defender considers it appropriate in the circumstances.\n(7) Despite this section, the Minister may do either of the following:\n(a)authorise the Chief Public Defender to issue a Grant of Aid to an individual in connection with any proceedings, if the Minister is of the opinion that it is in the interests of justice that criminal defence aid be granted to the individual in that connection;\n(b)direct the Chief Public Defender to approve an application for criminal defence aid, and issue a Grant of Aid under subsection (1) or (4) to an applicant, even though the Chief Public Defender is of the opinion that —\n(i)the applicant does not satisfy; or\n(ii)the applicant is not likely to satisfy,\nthe prescribed means criteria, if the Minister is of the opinion that it is just and proper that criminal defence aid be granted to the applicant.\n(8) Despite section 8(1), a Grant of Aid to be issued by the Chief Public Defender under subsection (1), (4) or (7) to an applicant may extend to any proceedings in respect of an excluded offence if —\n(a)the applicant faces charges for 2 or more offences (one or more of which is an excluded offence) in the criminal proceedings mentioned in subsection (1)(b)(i) before the court; or\n(b)the criminal appeal or criminal application for which the applicant is to be issued a Grant of Aid arises from the proceedings mentioned in paragraph (a).\n(9) For the purposes of subsection (7)(b), the Minister may authorise any person (including a panel of persons), with such qualifications and experience as the Minister considers appropriate in relation to assessing the financial circumstances of an applicant, to exercise the power under that provision.\n(10) An authorisation under subsection (9) —\n(a)may be subject to any conditions and restrictions that the Minister may specify in writing; and\n(b)does not prevent the Minister from exercising the power under subsection (7)(b).\n(11) Once an authorisation is made under subsection (9), the Minister must —\n(a)cause a copy of the authorisation to be given to the authorised person; and\n(b)without delay cause to be published a notice of the making and giving of the authorisation in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H3594-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 CRIMINAL DEFENCE AID"
+   },
+   "heading": {
+    "en": "Chief Public Defender, public defender or assigned solicitor to act for aided accused person, etc."
+   },
+   "text": {
+    "en": "13.—(1) Where a Grant of Aid is issued in connection with any proceedings —\n(a)the Chief Public Defender or a public defender is to act for the aided accused person; or\n(b)the Chief Public Defender may assign a solicitor from an appropriate panel of solicitors established under section 4 to act for the aided accused person.\n(2) Any reference to an advocate representing an accused person, or an advocate representing an appellant, a respondent, an applicant or a party (where the appellant, respondent, applicant or party is the accused), or words of the same meaning however expressed, in —\n(a)the Criminal Procedure Code 2010 or any rules made under that Code; or\n(b)any other written law applicable to any proceedings to which a Grant of Aid relates,\nis to be construed as including a reference to the Chief Public Defender or a public defender acting for an aided accused person under a Grant of Aid.\n(3) Before taking any other step in the proceedings, the Chief Public Defender, the public defender or the assigned solicitor (as the case may be) must notify the court before which the proceedings are conducted of the Grant of Aid issued to the aided accused person.\n(4) In addition, the court before which the proceedings are conducted must also be notified if —\n(a)a solicitor is subsequently assigned to act for the aided accused person after the court has been notified of the issue of a Grant of Aid; or\n(b)a different solicitor is assigned to act for the aided accused person in place of a solicitor previously assigned."
+   }
+  },
+  {
+   "id": "SG-H3594-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 CRIMINAL DEFENCE AID"
+   },
+   "heading": {
+    "en": "Application for Grant of Aid by more than one accused person in same proceedings, etc."
+   },
+   "text": {
+    "en": "14.—(1) This section applies if —\n(a)an applicant for criminal defence aid or an aided accused person is an accused person, an appellant, a respondent or a party in any proceedings; and\n(b)any other accused person, appellant, respondent or party in the same proceedings makes an application for criminal defence aid.\n(2) The Chief Public Defender or a public defender (as the case may be) must not act for more than one accused person, appellant, respondent or party in the same proceedings."
+   }
+  },
+  {
+   "id": "SG-H3594-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 CRIMINAL DEFENCE AID"
+   },
+   "heading": {
+    "en": "Variation of Grant of Aid"
+   },
+   "text": {
+    "en": "15.—(1) The Chief Public Defender may vary a Grant of Aid in the prescribed circumstances.\n(2) The Chief Public Defender must take any steps that the Chief Public Defender considers reasonable or necessary to inform the aided accused person of the variation of the Grant of Aid."
+   }
+  },
+  {
+   "id": "SG-H3594-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 CRIMINAL DEFENCE AID"
+   },
+   "heading": {
+    "en": "Cancellation of Grant of Aid"
+   },
+   "text": {
+    "en": "16.—(1) The Chief Public Defender may cancel a Grant of Aid in the prescribed circumstances.\n(2) Where a court has been notified of a Grant of Aid under section 13 —\n(a)the Chief Public Defender, a public defender or the assigned solicitor (as the case may be) must notify the court of the cancellation of the Grant of Aid; and\n(b)the individual to whom the Grant of Aid was issued ceases to be an aided accused person on the date of the notification under paragraph (a).\n(3) The Chief Public Defender must take any steps that the Chief Public Defender considers reasonable or necessary to inform the individual to whom a Grant of Aid was issued of the cancellation of the Grant of Aid."
+   }
+  },
+  {
+   "id": "SG-H3594-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 CRIMINAL DEFENCE AID"
+   },
+   "heading": {
+    "en": "Contributions"
+   },
+   "text": {
+    "en": "17.—(1) The Chief Public Defender may require an individual to make one or more contributions —\n(a)in a lump sum or by instalments; and\n(b)by any time specified by the Chief Public Defender (which may be extended by the Chief Public Defender),\nin respect of any matter for which an application for criminal defence aid has been made by that individual.\n(2) Where an application mentioned in subsection (1) is made on behalf of a minor by a guardian of the minor, a reference in this section to an individual is to be construed as a reference to —\n(a)in the case where the minor is unmarried — both the guardian and the minor; and\n(b)in any other case — the minor only.\n(3) Where a court makes an order under the Criminal Procedure Code 2010 for the payment of any costs or compensation in favour of an aided accused person in relation to the proceedings for which criminal defence aid has been granted, the Chief Public Defender may require the aided accused person to make an additional contribution in respect of those proceedings.\n(4) The Chief Public Defender may reduce any contribution, or waive or refund the whole or any part of any contribution, that an individual is required to pay under this section.\n(5) If an individual fails to pay the whole or any part of any contribution when it becomes due and payable at the time specified by the Chief Public Defender, and the Chief Public Defender certifies that the expenses incurred in connection with the Grant of Aid have exceeded the total amount of contributions required to be paid by the individual, the amount of the unpaid contribution due and payable is recoverable as a debt due to the Government."
+   }
+  },
+  {
+   "id": "SG-H3594-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 CRIMINAL DEFENCE AID"
+   },
+   "heading": {
+    "en": "Criminal defence aid not to discontinue without permission"
+   },
+   "text": {
+    "en": "18.—(1) An aided accused person must not discharge a solicitor assigned to act for the aided accused person under this Act without the permission of the Chief Public Defender.\n(2) Subject to subsection (3), a solicitor assigned to act for an aided accused person must not discontinue the provision of criminal defence aid without the permission of the Chief Public Defender.\n(3) Subsection (2) does not apply to an assigned solicitor who instructs another solicitor, who is also appointed to the appropriate panel of solicitors established under section 4, to assist the assigned solicitor."
+   }
+  },
+  {
+   "id": "SG-H3594-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 CRIMINAL DEFENCE AID"
+   },
+   "heading": {
+    "en": "Court may order payment of costs by aided accused person in certain circumstances"
+   },
+   "text": {
+    "en": "19.—(1) Where it appears to a court that any of the circumstances mentioned in subsection (2) exists in relation to an aided accused person, the court may order the aided accused person to pay the costs of any of the following persons:\n(a)the Chief Public Defender and every public defender who acted for the aided accused person;\n(b)an assigned solicitor who acted for the aided accused person.\n(2) For the purposes of subsection (1), the circumstances are as follows:\n(a)the Grant of Aid issued to the aided accused person has been obtained by fraud or misrepresentation;\n(b)the aided accused person acted improperly in defending or contesting any proceedings, or in the conduct of those proceedings.\n(3) Where an order is made under subsection (1), the costs are to be assessed as if the party ordered to pay the costs were not an aided accused person.\n[Act 32 of 2024 wef 25/11/2024]\n(4) In subsection (1), “aided accused person” includes, in any case where the Grant of Aid has been cancelled before the making of the order, the individual who immediately before the cancellation was an aided accused person."
+   }
+  },
+  {
+   "id": "SG-H3594-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 CRIMINAL DEFENCE AID"
+   },
+   "heading": {
+    "en": "Application by aided accused person for criminal defence aid for criminal appeal, etc."
+   },
+   "text": {
+    "en": "20.—(1) Where —\n(a)any criminal proceedings mentioned in section 12(1)(b)(i) for which a Grant of Aid was issued have concluded in any court; and\n(b)the aided accused person is or is to be an appellant, an applicant, a respondent or a party, in a criminal appeal or criminal application arising from those criminal proceedings,\nthe aided accused person must make a fresh application to the Chief Public Defender, within the prescribed time, for criminal defence aid in connection with the criminal appeal or criminal application mentioned in paragraph (b).\n(2) Section 12 applies to the fresh application for criminal defence aid under subsection (1) with the necessary modifications.\n(3) Despite subsection (1), the Chief Public Defender may consider a fresh application for criminal defence aid that is made after the prescribed time mentioned in that subsection, if —\n(a)the aided accused person had filed the notice of appeal or the criminal application before making the fresh application; or\n(b)the Chief Public Defender is of the opinion that there are extenuating circumstances for not making the fresh application by that prescribed time."
+   }
+  },
+  {
+   "id": "SG-H3594-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 CRIMINAL DEFENCE AID"
+   },
+   "heading": {
+    "en": "Costs awarded against Chief Public Defender or public defender"
+   },
+   "text": {
+    "en": "21.—(1) Any costs awarded against the Chief Public Defender or a public defender under the Criminal Procedure Code 2010 are to be paid out of the Consolidated Fund.\n(2) The Chief Public Defender or a public defender is not personally liable for any costs awarded against him or her."
+   }
+  },
+  {
+   "id": "SG-H3594-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Privileges and rights attaching to certain relationships"
+   },
+   "text": {
+    "en": "22.—(1) The same privileges and rights that arise from the relationship of solicitor and client, when a solicitor acts in the solicitor’s professional capacity and in the course of the solicitor’s professional employment, arise from the following relationships:\n(a)in relation to an application for criminal defence aid —\n(i)the relationship between the applicant for criminal defence aid, and the Chief Public Defender and every public defender to whom the application is referred; or\n(ii)the relationship between the applicant for criminal defence aid and an assigned solicitor to whom the Chief Public Defender refers the application;\n(b)in relation to a Grant of Aid —\n(i)the relationship between an aided accused person, and the Chief Public Defender and every public defender who acts for the aided accused person in any proceedings to which the Grant of Aid relates; or\n(ii)the relationship between an aided accused person and an assigned solicitor who acts for the aided accused person in any proceedings to which the Grant of Aid relates.\n(2) To avoid doubt, the same privileges and rights mentioned in subsection (1) and the relationship of solicitor and client do not arise between the Chief Public Defender, and the applicant or aided accused person mentioned in subsection (1)(a)(ii) or (b)(ii) (as the case may be), by reason only of the Chief Public Defender —\n(a)referring the applicant’s application to a solicitor, or assigning a solicitor to act for the aided accused person; or\n(b)performing any of the Chief Public Defender’s functions imposed by or under this Act in respect of any other matter arising from the referral or assignment mentioned in paragraph (a).\n(3) To avoid doubt, the same privileges and rights mentioned in subsection (1) and the relationship of solicitor and client do not arise between the Chief Public Defender, and an individual whose application is referred by the Chief Public Defender under section 12(5) to a body or organisation providing pro bono legal services, by reason only of the Chief Public Defender referring the individual’s application to that body or organisation.\n(4) Despite subsection (1), the privileges mentioned in that subsection do not arise in relation to any information given to the Chief Public Defender concerning the means and other circumstances of the applicant in connection with an application for criminal defence aid.\n(5) To avoid doubt, except where provided by subsection (4) or section 4(5), the Chief Public Defender must ensure that nothing is done by the Chief Public Defender which interferes with the privileges and rights which arise from the relationship of solicitor and client mentioned in subsection (1)(a)(ii) or (b)(ii).\n(6) Except where otherwise provided by or under this Act, the rights conferred by this Act on an individual receiving criminal defence aid are not to affect the rights or liabilities of other parties to the proceedings or the principles on which the discretion of a court is normally exercised."
+   }
+  },
+  {
+   "id": "SG-H3594-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "False or misleading statement, etc."
+   },
+   "text": {
+    "en": "23. If an individual who applies for or receives criminal defence aid —\n(a)knowingly makes any false or misleading statement or representation in the application for criminal defence aid;\n(b)fails to make full and frank disclosure of the individual’s means; or\n(c)fails to inform the Chief Public Defender of any change to the means or other circumstances of the individual which may render him or her ineligible for criminal defence aid,\nthe individual shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H3594-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Rules regulating procedure and practice of court"
+   },
+   "text": {
+    "en": "24. Where it is necessary or expedient to do so for carrying out or giving effect to this Act —\n(a)the Criminal Procedure Rules Committee constituted under section 428A of the Criminal Procedure Code 2010 may make rules under section 428A(3) of that Code; or\n(b)the Minister may make rules under section 428A(15) of the Criminal Procedure Code 2010,\nregulating and prescribing the procedure and the practice to be followed in a court in proceedings against an aided accused person, and any matters incidental to or relating to that procedure or practice."
+   }
+  },
+  {
+   "id": "SG-H3594-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "25.—(1) The Minister may make regulations necessary or expedient for carrying out or giving effect to this Act.\n(2) Without limiting subsection (1), the regulations may —\n(a)regulate all matters relating to fees for solicitors, charges and costs in connection with any work mentioned in section 4(1)(a) or (b) (including costs to be incurred or incurred by an assigned solicitor for any matter that the assigned solicitor considers necessary for any work mentioned in section 4(1)(a) or (b));\n(b)prescribe fees for applications for a Grant of Aid, and provide that the Chief Public Defender may reduce any fee, or waive or refund the whole or any part of any fee;\n(c)make provision for the circumstances in which a Grant of Aid may be varied or cancelled;\n(d)make provision for the recovery of contributions that are due and payable;\n(e)make any provision necessary to meet the circumstances where —\n(i)an individual is issued a Grant of Aid on a provisional basis;\n(ii)an individual receives criminal defence aid in respect of any proceedings after having consulted a solicitor in the ordinary way with respect to those proceedings, or ceases to receive criminal defence aid in respect of any proceedings before those proceedings have concluded; or\n(iii)there is any change of circumstances while an individual is receiving criminal defence aid;\n(f)make provision for the period when a Grant of Aid issued on a provisional basis is in force, and for matters relating to the lapse or extension of the Grant of Aid; and\n(g)prescribe all matters required or permitted to be prescribed under or for the purposes of this Act.\n(3) The regulations made under this section may apply —\n(a)generally to all legal matters (whether relating to proceedings in a court or otherwise);\n(b)to any specified class of matters or proceedings; or\n(c)to all matters or proceedings other than matters or proceedings of a specified class.\n(4) The regulations made under this section may provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $2,000.\n(5) The powers conferred by this section do not extend to any matter for which rules under the Criminal Procedure Code 2010 may be made under section 24.\n(6) All regulations made under this section must be presented to Parliament as soon as possible after publication in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H3594-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Related amendment to Evidence Act 1893"
+   },
+   "text": {
+    "en": "26. Section 3 of the Evidence Act 1893 is amended by deleting subsection (6) and substituting the following subsection:\n“(6) For the purposes of sections 23, 128, 130 and 131, a reference to “advocate or solicitor” in those sections includes a reference to the following:\n(a)any public officer in the Attorney‑General’s Chambers when he or she acts as an advocate or a solicitor;\n(b)the Chief Public Defender, a Deputy Chief Public Defender, an Assistant Chief Public Defender or a public defender appointed under section 3 of the Public Defenders Act 2022, when he or she acts as an advocate or a solicitor.”."
+   }
+  },
+  {
+   "id": "SG-H3594-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Related amendments to Legal Profession Act 1966"
+   },
+   "text": {
+    "en": "27.—(1) Section 29(2) of the Legal Profession Act 1966 is amended —\n(a)by deleting the word “and” at the end of paragraph (e); and\n(b)by deleting the full‑stop at the end of paragraph (f) and substituting a semi‑colon, and by inserting immediately thereafter the following paragraphs:\n“(g)the Chief Public Defender, a Deputy Chief Public Defender or an Assistant Chief Public Defender to appear and plead in those courts under the provisions of the Public Defenders Act 2022; and\n(h)a public defender mentioned in section 3(8)(b) of the Public Defenders Act 2022 to appear and plead in those courts under the provisions of that Act.”.\n(2) Section 34(1) of the Legal Profession Act 1966 is amended by inserting, immediately after paragraph (ca), the following paragraphs:\n“(cb)the Chief Public Defender, a Deputy Chief Public Defender or an Assistant Chief Public Defender acting in the course of the functions of the Chief Public Defender, Deputy Chief Public Defender or Assistant Chief Public Defender (as the case may be) under the provisions of the Public Defenders Act 2022;\n(cc)a public defender appointed under section 3(6) of the Public Defenders Act 2022 acting in the course of that public defender’s functions under that Act;”.\n(3) Section 82 of the Legal Profession Act 1966 is amended —\n(a)by deleting the full‑stop at the end of paragraph (c) of subsection (1) and substituting a semi‑colon, and by inserting immediately thereafter the following paragraph:\n“(d)a PD Officer.”;\n(b)by inserting, immediately after subsection (2), the following subsection:\n“(3) In this Part, “PD Officer” means —\n(a)the Chief Public Defender, a Deputy Chief Public Defender or an Assistant Chief Public Defender appointed under section 3 of the Public Defenders Act 2022; or\n(b)a public defender appointed under section 3(6) of the Public Defenders Act 2022 who is a public officer and a qualified person.”; and\n(c)by deleting the words “and Legal Service Officers” in the section heading and substituting the words “, Legal Service Officers and PD Officers”.\n(4) Section 82A of the Legal Profession Act 1966 is amended —\n(a)by deleting the words “or Legal Service Officer” in subsection (1) and substituting the words “, Legal Service Officer or PD Officer”;\n(b)by inserting, immediately after the words “Legal Service Officers” in subsection (2), the words “, PD Officers”;\n(c)by inserting, immediately after the words “a Legal Service Officer” wherever they appear in subsection (3), the words “, a PD Officer”;\n(d)by inserting, immediately after the words “, Legal Service Officer” wherever they appear in subsections (4), (5), (6A), (8), (9), (10) and (12)(a), the words “, PD Officer”;\n(e)by deleting the words “or a Legal Service Officer” in subsection (10) and substituting the words “, a Legal Service Officer or a PD Officer”; and\n(f)by deleting the words “and non‑practising solicitors” in the section heading and substituting the words “, PD Officers and non‑practising solicitors”.\n(5) Section 94A(3) of the Legal Profession Act 1966 is amended by deleting the words “or Legal Service Officer” and substituting the words “, Legal Service Officer or PD Officer”.\n(6) Section 98A(1) of the Legal Profession Act 1966 is amended by inserting, immediately after the words “, Legal Service Officer” wherever they appear, the words “, PD Officer”."
+   }
+  },
+  {
+   "id": "SG-H3594-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Related amendments to Singapore Academy of Law Act 1988"
+   },
+   "text": {
+    "en": "28.—(1) Section 2 of the Singapore Academy of Law Act 1988 is amended by inserting, immediately after the definition of “member”, the following definition:\n“ “PD Officer” means —\n(a)the Chief Public Defender, a Deputy Chief Public Defender or an Assistant Chief Public Defender appointed under section 3 of the Public Defenders Act 2022; or\n(b)a public defender appointed under section 3(6) of the Public Defenders Act 2022 who is a public officer and a qualified person;”.\n(2) Section 14 of the Singapore Academy of Law Act 1988 is amended by deleting the words “or Legal Service Officer” in paragraph (b) and substituting the words “, Legal Service Officer or PD Officer”.\n(3) Section 16(1) of the Singapore Academy of Law Act 1988 is amended —\n(a)by deleting the words “or a Legal Service Officer” in paragraph (b) and substituting the words “, a Legal Service Officer or a PD Officer”; and\n(b)by deleting the words “or the Singapore Legal Service” in paragraph (b) and substituting the words “, the Singapore Legal Service or the Public Defender’s Office”."
+   }
+  },
+  {
+   "id": "SG-H3594-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nSection 8(2) and (3)\nExcluded offences and\nexcluded classes of offences\nPart 1\nGENERAL\nCapital offences\n1. An offence is an excluded offence if it is punishable by death.\nPart 2 offences\n2. An offence under any Act mentioned in Part 2 of this Schedule, or under any subsidiary legislation made under any of those Acts, is an excluded offence.\nPart 3 offences prosecuted in certain ways\n3. An offence is an excluded offence if —\n(a)it is an offence under an Act mentioned in Part 3 of this Schedule or under any subsidiary legislation made under any of those Acts; and\n(b)the accused person is served a notice to attend court or a summons for the offence.\nOffences prosecuted by statutory bodies, etc.\n4.—(1) An offence is an excluded offence if the accused person is served a notice to attend court or a summons for the offence by an officer of a statutory body.\n(2) In this paragraph, “statutory body” has the meaning given by paragraph (b) of the definition of “public body” in section 2(1) of the Criminal Procedure Code 2010.\nOffences prosecuted by private persons\n5. An offence is an excluded offence if it is prosecuted or to be prosecuted by a private person under section 11(10) of the Criminal Procedure Code 2010.\nPart 2\nPART 2 OFFENCES\n1.Betting Act 1960 (as in force before 1 August 2022)\n2.Casino Control Act 2006\n3.Common Gaming Houses Act 1961 (as in force before 1 August 2022)\n4.Gambling Control Act 2022\n5.Massage Establishments Act 2017\n6.Organised Crime Act 2015\n7.Remote Gambling Act 2014 (as in force before 1 August 2022)\n8.Terrorism (Suppression of Bombings) Act 2007\n9.Terrorism (Suppression of Financing) Act 2002\n10.Terrorism (Suppression of Misuse of Radioactive Material) Act 2017\nPart 3\nPART 3 OFFENCES\n1.Advance Medical Directive Act 1996\n2.Bankruptcy Act (Cap. 20, 2009 Revised Edition) (as in force before 30 July 2020)\n3.Child Development Co-Savings Act 2001\n4.Customs Act 1960\n5.Employment Act 1968\n6.Employment Agencies Act 1958\n7.Employment Claims Act 2016\n8.Employment of Foreign Manpower Act 1990\n9.Enlistment Act 1970\n10.Fire Safety Act 1993\n11.Foreign Employee Dormitories Act 2015\n12.Goods and Services Tax Act 1993\n13.Health Products Act 2007\n14.Health Promotion Board Act 2001\n15.Health Sciences Authority Act 2001\n16.Immigration Act 1959\n17.Infectious Diseases Act 1976\n18.Insolvency, Restructuring and Dissolution Act 2018\n19.Medical and Elderly Care Endowment Schemes Act 2000\n20.Medicines (Advertisement and Sale) Act 1955\n21.Medicines Act 1975\n22.Moneylenders Act 2008\n23.National Registration Act 1965\n24.Passports Act 2007\n25.Pawnbrokers Act 2015\n26.Personal Data Protection Act 2012\n27.Poisons Act 1938\n28.Registration of Births and Deaths Act 2021\n29.Regulation of Imports and Exports Act 1995\n30.Retirement and Re-employment Act 1993\n31.Road Traffic Act 1961\n32.Sale of Drugs Act 1914 (as in force before 1 June 2024)\n33.Singapore Armed Forces Act 1972\n34.Termination of Pregnancy Act 1974\n35.Tobacco and Vaporisers Control Act 1993 (formerly Tobacco (Control of Advertisements and Sale) Act 1993)\n[S 247/2026 wef 01/05/2026]\n36.Town Councils Act 1988\n37.Traditional Chinese Medicine Practitioners Act 2000\n38.Work Injury Compensation Act 2019\n39.Workplace Safety and Health Act 2006\n[Act 32 of 2024 wef 25/11/2024]"
+   }
+  }
+ ]
+}

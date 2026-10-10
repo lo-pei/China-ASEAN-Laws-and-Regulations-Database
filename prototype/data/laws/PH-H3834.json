@@ -1,0 +1,74 @@
+{
+ "id": "PH-H3834",
+ "title": {
+  "zh": null,
+  "en": "An Act Creating the Municipality of Benito Soliven in the Province of Isabela",
+  "orig": "An Act Creating the Municipality of Benito Soliven in the Province of Isabela"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p54",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1967-05-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4873",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 936,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1967/ra_4873_1967.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1967/ra_4873_1967.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3834-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Barrios Melappia, San Carlos, Capoceran, Ara, Guilingan, Danipa, Makindol, San Francisco, Gomez, Villaluz, New Magsaysay, Dagupan, Andabuen, Binogtongan, Nacalma, Sevillana and Sinippit in the Municipality of San Mariano; the barrios of Lucban, Yeban, Maluno and Balliao in the Municipality of Ilagan; and the barrios of Placer, Santa Cruz, La Salette, San Francisco (now named Santiago), and Punit in the Municipality of Naguilian, all in the Province of Isabela, are hereby separated from said municipalities and constituted into a distinct and independent municipality to be known as the Municipality of Benito Soliven, same province.\nThe seat of government of the new municipality shall be in the present site of Barrio Melappia."
+   }
+  },
+  {
+   "id": "PH-H3834-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The first mayor, vice-mayor and councilors of the new municipality shall be elected in the next general elections for local officials."
+   }
+  },
+  {
+   "id": "PH-H3834-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: May 18, 1967."
+   }
+  }
+ ]
+}

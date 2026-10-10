@@ -1,0 +1,77 @@
+{
+ "id": "CN-JI-0123",
+ "title": {
+  "zh": "最高人民法院关于当事人对驳回其申请撤销仲裁裁决的裁定不服而申请再审，人民法院不予受理问题的批复",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p07",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2004-07-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 281,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于当事人对驳回其申请撤销仲裁裁决的裁定不服而申请再审，人民法院不予受理问题的批复_20040726.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，整篇作为一条录入，共 1 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于当事人对驳回其申请撤销仲裁裁决的裁定不服而申请再审，人民法院不予受理问题的批复_20040726.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0123-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "全文"
+   },
+   "text": {
+    "zh": "最高人民法院\n关于当事人对驳回其申请撤销仲裁裁决的\n裁定不服而申请再审，人民法院不予\n受理问题的批复\n法释〔2004〕9号\n（2004年7月20日最高人民法院审判委员会第1320次会议通过 2004年7月26日最高人民法院公告公布 自2004年7月29日起施行）\n陕西省高级人民法院：\n你院陕高法〔2004〕225号《关于当事人不服人民法院驳回其申请撤销仲裁裁决的裁定申请再审，人民法院是否受理的请示》收悉。经研究，答复如下：\n根据《中华人民共和国仲裁法》第九条规定的精神，当事人对人民法院驳回其申请撤销仲裁裁决的裁定不服而申请再审的，人民法院不予受理。\n此复。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于当事人对驳回其申请撤销仲裁裁决的裁定不服而申请再审，人民法院不予受理问题的批复"
+  },
+  "promulgatedDate": "2004-07-26",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

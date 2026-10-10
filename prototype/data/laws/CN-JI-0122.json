@@ -1,0 +1,90 @@
+{
+ "id": "CN-JI-0122",
+ "title": {
+  "zh": "最高人民法院关于大型企业与中小企业约定以第三方支付款项为付款前提条款效力问题的批复",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p07",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2024-06-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "最高人民法院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ITEM",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 298,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于大型企业与中小企业约定以第三方支付款项为付款前提条款效力问题的批复_20240827.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，一、至二、，共 2 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于大型企业与中小企业约定以第三方支付款项为付款前提条款效力问题的批复_20240827.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0122-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "一、"
+   },
+   "text": {
+    "zh": "大型企业在建设工程施工、采购货物或者服务过程中，与中小企业约定以收到第三方向其支付的款项为付款前提的，因其内容违反《保障中小企业款项支付条例》第六条、第八条的规定，人民法院应当根据民法典第一百五十三条第一款的规定，认定该约定条款无效。"
+   }
+  },
+  {
+   "id": "CN-JI-0122-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "二、"
+   },
+   "text": {
+    "zh": "在认定合同约定条款无效后，人民法院应当根据案件具体情况，结合行业规范、双方交易习惯等，合理确定大型企业的付款期限及相应的违约责任。双方对欠付款项利息计付标准有约定的，按约定处理；约定违法或者没有约定的，按照全国银行间同业拆借中心公布的一年期贷款市场报价利率计息。大型企业以合同价款已包含对逾期付款补偿为由要求减轻违约责任，经审查抗辩理由成立的，人民法院可予支持。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于大型企业与中小企业约定以第三方支付款项为付款前提条款效力问题的批复"
+  },
+  "issuingBody": {
+   "zh": "最高人民法院"
+  },
+  "promulgatedDate": "2024-06-03",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

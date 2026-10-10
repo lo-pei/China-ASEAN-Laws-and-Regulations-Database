@@ -1,0 +1,84 @@
+{
+ "id": "PH-H461",
+ "title": {
+  "zh": null,
+  "en": "An Act to Fix the Salaries of Provincial Governors, Provincial Treasurers, Provincial Auditors, District Health Officers, and Provincial Assessors",
+  "orig": "An Act to Fix the Salaries of Provincial Governors, Provincial Treasurers, Provincial Auditors, District Health Officers, and Provincial Assessors"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p06",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1949-06-10",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 368",
+ "officialCode": null,
+ "topics": [
+  "health"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 3437,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1949/ra_368_1949.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1949/ra_368_1949.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H461-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The annual salaries of provincial governor provincial treasurers, provincial auditors, district health officers, and provincial assessors shall be as hereinbelow fixed:\nIn first class A provinces: for provincial governors, eight thousand four hundred pesos; for provincial treasurers six thousand six hundred pesos; for provincial auditor district health officers, five thousand seven hundred pesos; and for provincial assessors, four thousand eight hundred pesos.\nIn first class B provinces: for provincial governors, seven thousand eight hundred pesos; for provincial treasurers, six thousand three hundred pesos; for provincial auditors and district health officers, five thousand four hundred pesos; and for provincial assessors, four thousand five hundred pesos.\nIn regular first-class provinces: for provincial governors, seven thousand two hundred pesos; for provincial treasurers, six thousand pesos; for provincial auditors and district health officers, five thousand one hundred pesos; and for provincial assessors, four thousand two hundred pesos.\nIn second-class provinces: for provincial governors, six thousand six hundred pesos; for provincial treasurers, five thousand seven hundred pesos; for provincial auditors and district health officers, four thousand eight hundred pesos; and for provincial assessors, three thousand six hundred pesos.\nIn third-class provinces: for provincial governors, six thousand pesos; for provincial treasurers, five thousand one hundred pesos; for provincial auditors and district health officers, four thousand five hundred pesos; and for provincial assessors, three thousand three hundred pesos.\nIn fourth-class provinces: for provincial governors, five thousand four hundred pesos; for provincial treasurers, four thousand eight hundred pesos; for provincial auditors and district health officers, three thousand nine hundred sixty pesos; and for provincial assessors, three thousand one hundred twenty pesos.\nIn fifth-class provinces: for provincial governors, four thousand eight hundred pesos; for provincial treasurers, four thousand two hundred pesos; for provincial auditors and district health officers, three thousand seven hundred twenty pesos; and for provincial assessors, three thousand pesos.\nProvided, That if after the salary of a provincial governor or a provincial treasurer or a provincial auditor or a district health officer or a provincial assessor has been increased by virtue of the provisions hereof, the province concerned incurs an overdraft in its general fund or the operating expenses thereof exceed the revenue collections the President of the Philippines, upon recommendation of the proper department head shall reduce the salary of that official to the maximum rate fixed for the corresponding official in the next lower class of province."
+   }
+  },
+  {
+   "id": "PH-H461-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "One-half of the salary of the provincial auditor and of the district health officer shall be paid out of the national funds and the other half shall be paid out of the general fund and health fund respectively of the province concerned: Provided, however, That an increase in salary of any provincial auditor or district health officer as herein fixed shall not take effect until after one-half thereof shall have been provided for in the General Appropriation Act."
+   }
+  },
+  {
+   "id": "PH-H461-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "All acts and regulations inconsistent with the provisions of this Act are repealed,"
+   }
+  },
+  {
+   "id": "PH-H461-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect on July 1, 1949.\nApproved, June 10, 1949."
+   }
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "id": "SG-H1947",
+ "title": {
+  "zh": null,
+  "en": "Income Tax (Computer Gifts — Educational, Research and other Institutions) Rules",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p25",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ITA1947-R3",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 9560,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ITA1947-R3?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1947-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Rules may be cited as the Income Tax (Computer Gifts — Educational, Research and other Institutions) Rules and shall have effect for the year of assessment 1999 and subsequent years of assessment."
+   }
+  },
+  {
+   "id": "SG-H1947-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Educational, research and other institutions"
+   },
+   "text": {
+    "en": "2. The educational, research or other institutions specified in the Schedule are hereby prescribed for the purposes of section 37(2)(d) of the Act."
+   }
+  },
+  {
+   "id": "SG-H1947-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\n1PRIMARY SCHOOLS\n1.1Government\n1.Admiralty Primary\n2.Ahmad Ibrahim Primary\n3.Alexandra Hill Primary\n4.Ang Mo Kio North Primary\n5.Ang Mo Kio Primary\n6.Bedok North Primary\n7.Bedok South Primary\n8.Bedok Town Primary\n9.Bedok View Primary\n10.Bedok West Primary\n11.Bendemeer Primary\n12.Beng Wan Primary\n13.Blangah Rise Primary\n14.Boon Keng Primary\n15.Boon Lay Garden Primary\n16.Boon Lay Primary\n17.Braddell Primary\n18.Bukit Batok Primary\n19.Bukit Ho Swee Primary\n20.Bukit Panjang Primary\n21.Bukit View Primary\n22.Cedar Primary\n23.Changkat Primary\n24.Charlton\n25.Chong Boon Primary\n26.Chong Li Primary\n27.Chong Shan Primary\n28.Chongzheng Primary\n29.Chua Chu Kang Primary\n30.Clementi North Primary\n31.Clementi Town Primary\n32.Compassvale Primary\n33.Coral Primary\n34.Corporation Primary\n35.Da Qiao Primary\n36.Damai Primary\n37.Dazhong Primary\n38.East Coast Primary\n39.East Spring Primary\n40.East View Primary\n41.Elias Park Primary\n42.Eunos Primary\n43.Evergreen Primary\n44.Fengshan Primary\n45.First Toa Payoh Primary\n46.Fowlie Primary\n47.Fuchun Primary\n48.Fuhua Primary\n49.Ghim Moh Primary\n50.Gongshan Primary\n51.Greenridge Primary\n52.Griffiths Primary\n53.Guangyang Primary\n54.Haig Boys’\n55.Haig Girls’\n56.Henderson Primary\n57.Henry Park Primary\n58.Hong Dao Primary\n59.Hong Kah Primary\n60.Huamin Primary\n61.Jagoh Primary\n62.Jiemin Primary\n63.Jin Tai Primary\n64.Jing Shan Primary\n65.Junyuan Primary\n66.Jurong Primary\n67.Jurong Town Primary\n68.Jurong West Primary\n69.Juying Primary\n70.Kebun Baru Primary\n71.Keming Primary\n72.Keng Seng Primary\n73.Kranji Primary\n74.Li Hua Primary\n75.Lianhua Primary\n76.Loyang Primary\n77.MacPherson Primary\n78.Marsiling Primary\n79.May Primary\n80.Mayflower Primary\n81.Mei Chin Primary\n82.Merlimau Primary\n83.Min Xin Primary\n84.Moulmein Primary\n85.Mountbatten Primary\n86.Naval Base Primary\n87.New Town Primary\n88.North View Primary\n89.Northland Primary\n90.Opera Estate Primary\n91.Pandan Primary\n92.Park View Primary\n93.Parry Primary\n94.Pasir Ris Primary\n95.Pearl’s Hill\n96.Pei Tong Primary\n97.Peixin Primary\n98.Peiying Primary\n99.Ping Yi Primary\n100.Pioneer Primary\n101.Princess Elizabeth Primary\n102.Punggol Primary\n103.Qiaonan Primary\n104.Qifa Primary\n105.Qihua Primary\n106.Queenstown Primary\n107.Radin Mas Primary\n108.Raffles Girls’ Primary\n109.River Valley Primary\n110.Rivervale Primary\n111.Rosyth\n112.Rulang Primary\n113.San Shan Primary\n114.Sembawang Primary\n115.Seng Kang Primary\n116.Senette Primary\n117.Serangoon Garden South\n118.Shuqun Primary\n119.Si Ling Primary\n120.South View Primary\n121.Stamford Primary\n122.Swiss Cottage Primary\n123.Tampines North Primary\n124.Tampines Primary\n125.Tanglin Primary\n126.Teck Ghee Primary\n127.Teck Whye Primary\n128.Telok Kurau Primary\n129.Temasek Primary\n130.Townsville Primary\n131.Unity Primary\n132.West View Primary\n133.Westlake Primary\n134.White Sands Primary\n135.Woodgrove Primary\n136.Woodlands Primary\n137.Woodlands Ring Primary\n138.Woodsville Primary\n139.Xinghua Primary\n140.Zingnan Primary\n141.Xinmin Primary\n142.Xishan Primary\n143.Yangzheng Primary\n144.Yio Chu Kang Primary\n145.Yishun Primary\n146.Yu Neng Primary\n147.Yuhua Primary\n148.Yumin Primary\n149.Yung An Primary\n150.Yuqun Primary\n151.Zhangde Primary\n152.Zhenghua Primary\n153.Zhonghua Primary\n1.2Government-Aided\n1.Ai Tong\n2.Anglo-Chinese (Primary)\n3.Anglo-Chinese (Junior)\n4.Canossa Convent Primary\n5.Catholic High\n6.CHIJ (Bukit Timah)\n7.CHIJ (Katong) Primary\n8.CHIJ (Kellock)\n9.CHIJ (Ponggol)\n10.CHIJ Our Lady of Good Counsel\n11.CHIJ Primary (Toa Payoh)\n12.CHIJ St Nicholas Girls’\n13.Chongfu Primary\n14.De La Salle\n15.Fairfield Methodist Primary\n16.Geylang Methodist Primary\n17.Holy Innocents’ Primary\n18.Hong Wen\n19.Kheng Cheng\n20.Kong Hwa\n21.Kuo Chuan Presbyterian Primary\n22.Maha Bodhi\n23.Maris Stella High\n24.Marymount Convent\n25.Mee Toh\n26.Methodist Girls’ (Primary)\n27.Montfort Junior\n28.Nan Chiau High\n29.Nan Hua Primary\n30.Nanyang Primary\n31.Ngee Ann Primary\n32.Paya Lebar Methodist Girls’ Primary\n33.Pei Chun Public\n34.Pei Hwa Presbyterian Primary\n35.Poi Ching\n36.Red Swastika\n37.Singapore Chinese Girls’ Primary\n38.St Andrew’s Junior\n39.St Anthony’s Canossian Primary\n40.St Anthony’s Primary\n41.St Gabriel’s Primary\n42.St Hilda’s Primary\n43.St Margaret’s Primary\n44.St Michael’s\n45.St Stephen’s\n46.Tao Nan\n2SECONDARY SCHOOLS\n2.1Government\n1.Ahmad Ibrahim Secondary\n2.Anderson Secondary\n3.Ang Mo Kio Secondary\n4.Balestier Hill Secondary\n5.Bartley Secondary\n6.Beatty Secondary\n7.Bedok North Secondary\n8.Bedok South Secondary\n9.Bedok Town Secondary\n10.Bedok View Secondary\n11.Bendemeer Secondary\n12.Bishan Park Secondary\n13.Boon Lay Secondary\n14.Bowen Secondary\n15.Braddell Secondary\n16.Broadrick Secondary\n17.Bukit Batok Secondary\n18.Bukit Merah Secondary\n19.Bukit Panjang Govt. High\n20.Bukit View Secondary\n21.Buona Vista Secondary\n22.Cedar Girls’ Secondary\n23.Chai Chee Secondary\n24.Changkat Changi Secondary\n25.Chestnut Drive Secondary\n26.Chong Boon Secondary\n27.Chua Chu Kang Secondary\n28.Clementi Town Secondary\n29.Commonwealth Secondary\n30.Coral Secondary\n31.Crescent Girls’\n32.Damai Secondary\n33.Delta Secondary\n34.Deyi Secondary\n35.Dunearn Secondary\n36.Dunman High\n37.Dunman Secondary\n38.East Spring Secondary\n39.East View Secondary\n40.Fajar Secondary\n41.First Toa Payoh Secondary\n42.Fuchun Secondary\n43.Gan Eng Seng\n44.Ghim Moh Secondary\n45.GreenRidge Secondary\n46.Greenview Secondary\n47.Guangyang Secondary\n48.Henderson Secondary\n49.Hong Kah Secondary\n50.Hua Yi Secondary\n51.Jin Tai Secondary\n52.Junyuan Secondary\n53.Jurong Secondary\n54.Jurongville Secondary\n55.Juying Secondary\n56.Kranji Secondary\n57.Loyang Secondary\n58.MacPherson Secondary\n59.Mayflower Secondary\n60.Mei Chin Secondary\n61.Monk’s Hill Secondary\n62.Nan Hua Secondary\n63.Naval Base Secondary\n64.New Town Secondary\n65.North View Secondary\n66.Northland Secondary\n67.Orchid Park Secondary\n68.Outram Secondary\n69.Pasir Ris Secondary\n70.Pei Dao Secondary\n71.Peicai Secondary\n72.Peirce Secondary\n73.Ping Yi Secondary\n74.Pioneer Secondary\n75.Queenstown Secondary\n76.Queensway Secondary\n77.Rangoon Secondary\n78.River Valley High\n79.Riverside Secondary\n80.Sembawang Secondary\n81.Seng Kang Secondary\n82.Serangoon Garden Secondary\n83.Serangoon Garden Technical\n84.Serangoon Secondary\n85.Shuqun Secondary\n86.Si Ling Secondary\n87.Siglap Secondary\n88.Springfield Secondary\n89.Swiss Cottage Secondary\n90.Tampines Secondary\n91.Tanglin Secondary\n92.Tanjong Katong Girls’\n93.Tanjong Katong Secondary\n94.Teck Whye Secondary\n95.Telok Kurau Secondary\n96.Temasek Secondary\n97.Thomson Secondary\n98.Upper Serangoon Secondary\n99.Victoria\n100.Westlake Secondary\n101.Whitley Secondary\n102.Woodlands Ring Secondary\n103.Woodlands Secondary\n104.Woodsville Secondary\n105.Xinmin Secondary\n106.Yio Chu Kang Secondary\n107.Yishun Secondary\n108.Yishun Town Secondary\n109.Yuan Ching Secondary\n110.Yuhua Secondary\n111.Yusof Ishak Secondary\n112.Zhonghua Secondary\n2.2Government-Aided\n1.Anglican High\n2.Anglo-Chinese (Barker Road)\n3.Assumption English\n4.Catholic High\n5.CHIJ Katong Convent\n6.CHIJ Secondary (Toa Payoh)\n7.CHIJ St. Joseph’s Convent\n8.CHIJ St. Nicholas Girls’\n9.CHIJ St. Theresa’s Convent\n10.Christ Church Secondary\n11.Chung Cheng High (Branch)\n12.Chung Cheng High (Main)\n13.Fairfield Methodist Secondary\n14.Geylang Methodist Secondary\n15.Hai Sing High\n16.Holy Innocents’ High\n17.Kuo Chuan Presbyterian Secondary\n18.Manjusri Secondary\n19.Maris Stella High\n20.Montfort Secondary\n21.Nan Chiau High\n22.Ngee Ann Secondary\n23.Paya Lebar Methodist Girls’ Secondary\n24.Presbyterian High\n25.St. Andrew’s Secondary\n26.St. Anthony’s Canossian Secondary\n27.St. Gabriel’s Secondary\n28.St. Hilda’s Secondary\n29.St. Margaret’s Secondary\n30.St. Patrick’s Secondary\n31.St. Thomas Secondary\n32.Yuying Secondary\n2.3Independent\n1.Anglo-Chinese (Independent)\n2.Methodist Girls’ (Secondary)\n3.Nanyang Girls’ High\n4.Raffles Girls’ (Secondary)\n5.Raffles Institution\n6.Singapore Chinese Girls’\n7.St. Joseph’s Institution\n8.The Chinese High\n3JUNIOR COLLEGES\n3.1Government\n1.Anderson Junior College\n2.Jurong Junior College\n3.National Junior College\n4.Raffles Junior College\n5.Serangoon Junior College\n6.Tampines Junior College\n7.Temasek Junior College\n8.Victoria Junior College\n9.Yishun Junior College\n3.2Government-Aided\n1.Anglo-Chinese Junior College\n2.Catholic Junior College\n3.Hwa Chong Junior College\n4.Nanyang Junior College\n5.St. Andrew’s Junior College\n4CENTRALISED INSTITUTES\n4.1Government\n1.Jurong Institute\n2.Outram Institute\n5LANGUAGE CENTRES\n1.Ministry of Education Language Centre\n2.Umar Pulavar Tamil Language Centre\n6OTHERS\n1.Association of Muslim Professionals\n2.Chinese Development Assistance Council\n3.Eurasian Association\n4.French-Singapore Institute\n5.German-Singapore Institute\n6.Institute of Technical Education\n7.Japan-Singapore Technical Education\n8.Ministry of Education\n9.National Computer Board\n10.National Institute of Education\n11.National University of Singapore\n12.Nanyang Polytechnic\n13.Nanyang Technological University\n14.Ngee Ann Polytechnic\n15.Philips Government Training Centre\n16.Precision Engineering Institute\n17.Singapore Indian Development Association\n18.Singapore Polytechnic\n19.Temasek Polytechnic\n20.The People’s Association\n21.The National Library Board\n22.Yayasan Mendaki\n[G.N. No. S 259/99]"
+   }
+  }
+ ]
+}

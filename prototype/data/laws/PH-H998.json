@@ -1,0 +1,74 @@
+{
+ "id": "PH-H998",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending and Repealing Certain Items in Republic Act Numbered Nine Hundred Twenty, Regarding Public Works Projects for the Province of Rizal",
+  "orig": "An Act Amending and Repealing Certain Items in Republic Act Numbered Nine Hundred Twenty, Regarding Public Works Projects for the Province of Rizal"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p14",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1954-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1163",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 482,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1954/ra_1163_1954.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1954/ra_1163_1954.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H998-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Item 44(z) for the Province of Rizal, paragraph (e), title B, section one of Republic Act Numbered Nine hundred twenty, is amended to read as follows:\n\"(z) hinulugang taktak falls park, buildings and installations, at Antipolo ₱81,000.00\""
+   }
+  },
+  {
+   "id": "PH-H998-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Items 2(ag) and 2(ah) for the Province of Rizal, paragraph (a), title H, section one of Republic Act Numbered Nine hundred twenty, are repealed."
+   }
+  },
+  {
+   "id": "PH-H998-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect as of June twenty, nineteen hundred fifty-three.\nApproved: June 18, 1954."
+   }
+  }
+ ]
+}

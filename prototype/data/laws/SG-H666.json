@@ -1,0 +1,68 @@
+{
+ "id": "SG-H666",
+ "title": {
+  "zh": null,
+  "en": "Co-operative Societies (Exemption under Section 97) (No. 4) Order 2010",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p09",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CSA1979-S368-2010",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 672,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CSA1979-S368-2010?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 2 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H666-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. This Order may be cited as the Co-operative Societies (Exemption under Section 97) (No. 4) Order 2010 and shall come into operation on 2nd July 2010."
+   }
+  },
+  {
+   "id": "SG-H666-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "2.—(1) Subject to sub-paragraph (2), the following societies are exempted from section 61(1) of the Act, insofar as it relates to the committee of management directing and supervising the business and property of the society:\n(a)Singapore Police Co-operative Society Limited;\n(b)Phoenix Co-operative Society Limited.\n(2) The societies referred to in sub-paragraph (1) shall provide in the by-laws that the business and property of the society shall be under the direction and supervision of the president of the society."
+   }
+  }
+ ]
+}

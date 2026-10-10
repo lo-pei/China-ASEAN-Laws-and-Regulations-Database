@@ -1,0 +1,74 @@
+{
+ "id": "PH-H5718",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Rank of Lieutenant General/Vice Admiral to the Positions of Commanders of the Major Services, the Deputy Chief of Staff and the Southern Command and the Rank of Major General/Rear Admiral to the Positions of Commanders of the Northern Luzon Command, the Southern Luzon Command, the Visayas Command, and the Western Command, and the Superintendent of the Philippine Military Academy.",
+  "orig": "An Act Authorizing the Rank of Lieutenant General/Vice Admiral to the Positions of Commanders of the Major Services, the Deputy Chief of Staff and the Southern Command and the Rank of Major General/Rear Admiral to the Positions of Commanders of the Northern Luzon Command, the Southern Luzon Command, the Visayas Command, and the Western Command, and the Superintendent of the Philippine Military Academy."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p81",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1992-03-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 7230",
+ "officialCode": null,
+ "topics": [
+  "defence"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 803,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7230_1992.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1992/ra_7230_1992.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H5718-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The rank of lieutenant general/vice admiral is authorized to the positions of Commanders of the Major Services, the Deputy Chief of Staff and the Southern Command and the rank of major general/rear admiral to the positions of Commanders of the Northern Luzon Command, the Southern Luzon Command, the Visayas Command, and the Western Command, and the Superintendent of the Philippine Military Academy of the Armed Forces of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H5718-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Presidential Decree No. 360, as amended by Presidential Decree No. 1769, and all other laws, proclamations, decrees, letters of instruction, executive orders, rules and regulations and other issuances, or parts thereof, which are inconsistent with the provisions of this Act are hereby repealed or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H5718-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

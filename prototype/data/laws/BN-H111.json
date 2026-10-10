@@ -1,0 +1,52 @@
+{
+ "id": "BN-H111",
+ "title": {
+  "zh": "雇佣法_2009",
+  "en": "Employment Act (Chapter 278)",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p06",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2009-09-03",
+ "effectiveDate": "2009-09-03",
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "文莱官方发布渠道",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 1065,
+ "source": {
+  "name": "文莱官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "文本未能可靠切分为条文（或原件为目录式排版），按整篇收录，未作改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-H111-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "# Employment Act (Chapter 278) > 本文件为自动采集的元数据头，随原始文件一同保存。\n> 原始文件未被改写；正文逐字照录于同目录下的原始文件。\n| 项目 | 内容 | | --- | --- | | 原文标题 | Employment Act (Chapter 278) | | 官方页面标注标题 | EMPLOYMENT ACT | TOG Template 2 | | 中文译名 | 雇佣法（第278章） | | 英文译名 | Employment Act | | 法律领域 | 劳动法 | | 颁布机构 | 文莱总检察署（BRULAW） | | 官方来源 URL | https://www.agc.gov.bn/wp-content/uploads/2026/07/cap-278-2026-ed-employment-act.pdf | | 数据抓取实际 URL | https://www.agc.gov.bn/wp-content/uploads/2026/07/cap-278-2026-ed-employment-act.pdf | | 颁布日期 | 2009-09-03（官方记录页标注 commenced 3 Sep 2009；源自 Employment Order 2009, S 37/2009） | | 生效日期 | 2009-09-03 | | 修订日期 | 2012、2014、2015、2017、2020、2024 年雇佣法修正令（最新 S 33/2024） | | 版本 | 2026 年版（官方标注 2026 ED） | | 原文语种 | en | | 来源类型 | 官方（agc.gov.bn） | | 抓取日期 | 2026-10-03 | | 本地文件 | 文莱_雇佣法_2009_en.pdf | | 文件格式 | pdf | | 文件大小(字节) | 582559 | | 页数 | 99 | | 字数 |  | | SHA-256 | e86c8c312a683968cc287c3bced0876fc73487af54c6abceb081d5eda44e12e0 | | HTTP 状态 | 200 | | HTTPS 证书校验 | verified | | 完整性/缺失范围 | 官方 2026 年版全文 PDF（未删节） | | 备注 | 另有最低工资令（Employment Minimum Wage Order）等附属立法，未一并采集。 |"
+   }
+  }
+ ]
+}

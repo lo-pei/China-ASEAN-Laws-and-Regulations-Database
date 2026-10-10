@@ -1,0 +1,74 @@
+{
+ "id": "PH-H4070",
+ "title": {
+  "zh": null,
+  "en": "An Act Approving the Transfer of the Franchise, Rights and Privileges Granted to Misamis Limber Company, Inc. by Act Numbered Thirty-Seven Hundred Eighty-Three in Favor of the Misamis Lumber Corporation",
+  "orig": "An Act Approving the Transfer of the Franchise, Rights and Privileges Granted to Misamis Limber Company, Inc. by Act Numbered Thirty-Seven Hundred Eighty-Three in Favor of the Misamis Lumber Corporation"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p57",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1968-06-15",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 5267",
+ "officialCode": null,
+ "topics": [
+  "investment"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1002,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1968/ra_5267_1968.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1968/ra_5267_1968.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4070-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Pursuant to the provisions of Act Numbered Thirty-seven hundred eighty-three, entitled \"An Act granting 'Misamis Lumber Company, Incorporated,' a franchise to install, operate, and maintain an electric light, heat and power plant in the municipalities of Misamis, Clarin, and Tudela, Province of Occidental Misamis, Philippine Islands,\" approval is hereby given to the transfer of the franchise, rights and privileges granted to Misamis Lumber Company, Inc. under the said Act in favor of the Misamis Lumber Corporation."
+   }
+  },
+  {
+   "id": "PH-H4070-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall not in any manner prejudice any existing operation under a different franchise in the municipalities of Clarin and Tudela: Provided, That the franchise holder shall extend service to all the areas covered by the franchise particularly the barrios therein, within five years from the approval of this Act; and any area not served within the said period shall be deemed excluded from this franchise."
+   }
+  },
+  {
+   "id": "PH-H4070-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
+   }
+  }
+ ]
+}

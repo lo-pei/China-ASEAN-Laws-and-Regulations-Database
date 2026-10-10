@@ -1,0 +1,776 @@
+{
+ "id": "SG-H2803",
+ "title": {
+  "zh": null,
+  "en": "Institute of Technical Education Act 1992",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p35",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act ITEA1992",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 47,
+ "chars": 23321,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/ITEA1992?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 47 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。其中 9 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2803-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Institute of Technical Education Act 1992."
+   }
+  },
+  {
+   "id": "SG-H2803-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“Board” means the Board of Governors established under section 7(1);\n“Chairperson” means the Chairperson of the Board appointed under section 7(3);\n“Chief Executive Officer” means the Chief Executive Officer of the Institute, and includes any individual acting in that capacity;\n“commerce or industry” includes any trade, manufacturing or service industry, business or other related activity;\n“Deputy Chairperson” means the Deputy Chairperson of the Board appointed under section 7(4);\n“Institute” means the Institute of Technical Education, Singapore established under section 3;\n“member” means a member of the Board;\n“technical skills” means the skills acquired through technical education and training or other means for employment in commerce or industry;\n“Vocational and Industrial Training Board” means the Vocational and Industrial Training Board established under the repealed Vocational and Industrial Training Board Act (Cap. 345, 1985 Revised Edition).\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H2803-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT OF INSTITUTE"
+   },
+   "heading": {
+    "en": "Establishment of Institute"
+   },
+   "text": {
+    "en": "3. An Institute called the Institute of Technical Education, Singapore is established, which is a body corporate with perpetual succession and a common seal and is by that name capable of —\n(a)suing and being sued;\n(b)acquiring, owning, holding or disposing of property, both movable and immovable; and\n(c)doing all such other acts as bodies corporate may lawfully do."
+   }
+  },
+  {
+   "id": "SG-H2803-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT OF INSTITUTE"
+   },
+   "heading": {
+    "en": "Common seal"
+   },
+   "text": {
+    "en": "4.—(1) The Institute must have a common seal and the seal may be broken, changed, altered and made anew as the Institute thinks fit.\n(2) All deeds, documents and other instruments requiring the seal of the Institute must be sealed with the common seal of the Institute and every instrument to which the common seal is affixed must be signed by a member and must be countersigned by the Chief Executive Officer or by some other person duly authorised by the Board for that purpose, and the signing is sufficient evidence that the seal was duly and properly affixed and that the seal is the lawful seal of the Institute.\n(3) Section 11 of the Registration of Deeds Act 1988 does not apply to any instrument purporting to have been executed under subsection (2)."
+   }
+  },
+  {
+   "id": "SG-H2803-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT OF INSTITUTE"
+   },
+   "heading": {
+    "en": "Functions"
+   },
+   "text": {
+    "en": "5. The functions of the Institute include —\n(a)the provision and conduct of technical education and training, and further education programmes, for persons employed in or intending to be employed in commerce or industry;\n(b)the provision of consultancy services, and the accrediting of programmes and qualifications, for training and education in technical skills; and\n(c)cooperating and collaborating with the Skills and Workforce Development Agency established by section 3 of the Skills and Workforce Development Agency Act 2026 in the discharge of its functions under that Act.\n[Act 17 of 2026 wef 01/07/2026]"
+   }
+  },
+  {
+   "id": "SG-H2803-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT OF INSTITUTE"
+   },
+   "heading": {
+    "en": "Powers"
+   },
+   "text": {
+    "en": "6.—(1) The Institute may, for the purpose of discharging its functions —\n(a)provide for and regulate the holding of examinations, grant of awards, certificates and other qualifications for attainment of technical skills, competency and achievements;\n(b)establish facilities for the provision of training and education in technical skills;\n(c)collaborate with and assist any person in the provision and promotion of training and education in technical skills;\n(d)render professional advice and expertise and other consultancy services to any person involved in the provision and promotion of training and education in technical skills;\n(e)carry on any trade or business whether with other persons or by itself for the purpose of providing training to persons employed or intending to be employed in commerce or industry;\n(f)form or participate in the formation of companies having such objects as the Minister may approve;\n(g)acquire, hire, procure, construct, erect, develop, manufacture, operate, maintain and repair any property whether movable or immovable required by the Institute for the purposes of the Act;\n(h)with the approval of the Minister, dispose of, surrender or sell any immovable property;\n(i)levy and collect —\n(i)such fees, rates or charges for training and other services, use of facilities and conduct of activities; and\n(ii)such charges for the late payment thereof,\nas the Institute may consider expedient;\n[Act 4 of 2008 wef 01/04/2024]\n(j)solicit and receive donations and contributions from any source or raise funds by all lawful means;\n(k)give donations and contributions to any person or organisation;\n(l)regulate and provide for the welfare and discipline of employees and students of the Institute;\n(m)inspect, approve and register training institutions conducting or intending to conduct training courses in technical skills;\n(n)undertake surveys or carry out research about teaching and learning practices;\n(o)promote or undertake publicity in any form; and\n(p)do all other things incidental to, or necessary for, the attainment of its functions.\n[24/2016; S 461/2020]\n(2) In subsection (1)(f), “company” —\n(a)has the meaning given by section 4(1) of the Companies Act 1967; and\n(b)includes a foreign company within the meaning of that Act.\n[S 461/2020]"
+   }
+  },
+  {
+   "id": "SG-H2803-A6.001",
+   "no": 6.001,
+   "noLabel": {
+    "en": "6A."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT OF INSTITUTE"
+   },
+   "heading": {
+    "en": "Validation of collection of charge for late payment of fee, rate or charge"
+   },
+   "text": {
+    "en": "6A. Every amount collected before the date of commencement of the Statutes (Miscellaneous Amendments) Act 2008 as, or purportedly as, a charge for the late payment of any fee, rate or charge referred to in section 6(i)1 shall be deemed to be and always to have been validly collected, and no legal proceedings shall lie or be instituted or maintained in any court of law on account of or in respect of any such collection.\n1 Section 6(i) is to be read as section 6(1)(i) of the Institute of Technical Education Act 1992 as amended by S 461/2020.\n[Act 4 of 2008 wef 01/04/2024]"
+   }
+  },
+  {
+   "id": "SG-H2803-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND PROCEEDINGS OF BOARD OF GOVERNORS"
+   },
+   "heading": {
+    "en": "Constitution of Board of Governors"
+   },
+   "text": {
+    "en": "7.—(1) There is to be a Board of Governors of the Institute which is the executive body of the Institute and may exercise all the powers conferred on the Institute under this Act.\n(2) The Board consists of the following members:\n(a)a Chairperson;\n(b)the Chief Executive Officer;\n(c)such number of other members, not being less than 9 or more than 18 as the Minister may determine, representing the Government, employers and trade unions.\n(3) The Chairperson and other members are to be appointed by the Minister and, unless the Minister otherwise directs, hold office for a period of 3 years from the date of their respective appointments and are eligible for re‑appointment.\n(4) The Minister may appoint any member to be the Deputy Chairperson of the Board.\n(5) The Deputy Chairperson so appointed may, subject to any direction that the Chairperson may give, exercise all or any of the powers exercisable by the Chairperson under this Act.\n(6) The Minister may appoint a person to be a temporary member during the absence from Singapore, or incapacity owing to illness or otherwise, of a member.\n(7) The Minister may at any time revoke the appointment of a member without giving any reason.\n(8) A member may resign from his or her appointment at any time by giving written notice to the Minister."
+   }
+  },
+  {
+   "id": "SG-H2803-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND PROCEEDINGS OF BOARD OF GOVERNORS"
+   },
+   "heading": {
+    "en": "Salaries, fees and allowances payable to members"
+   },
+   "text": {
+    "en": "8. There are to be paid to the members out of the funds of the Institute such salaries, fees and allowances as the Minister may determine."
+   }
+  },
+  {
+   "id": "SG-H2803-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND PROCEEDINGS OF BOARD OF GOVERNORS"
+   },
+   "heading": {
+    "en": "Vacation of office"
+   },
+   "text": {
+    "en": "9. The office of a member is vacated if the member —\n(a)becomes mentally disordered and incapable of managing himself or herself or his or her affairs;\n(b)is adjudicated a bankrupt;\n(c)is convicted of an offence involving dishonesty or fraud;\n(d)fails to attend, without leave of the Board, 3 consecutive meetings of the Board; or\n(e)resigns from his or her office.\n[21/2008]"
+   }
+  },
+  {
+   "id": "SG-H2803-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND PROCEEDINGS OF BOARD OF GOVERNORS"
+   },
+   "heading": {
+    "en": "Filling of vacancies"
+   },
+   "text": {
+    "en": "10.—(1) If a vacancy occurs in the membership of the Board, the Minister may appoint any person to fill the vacancy and the person so appointed holds office for the unexpired period of the term of office of the member in whose place he or she is appointed.\n(2) Where the member in whose place a person is appointed under subsection (1) was a representative of a person or class of persons, the member so appointed must be a representative of the same person or class of persons."
+   }
+  },
+  {
+   "id": "SG-H2803-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND PROCEEDINGS OF BOARD OF GOVERNORS"
+   },
+   "heading": {
+    "en": "Meetings of Board"
+   },
+   "text": {
+    "en": "11.—(1) The Chairperson must summon meetings as often as may be required.\n(2) At every meeting of the Board, one‑third of the number of members constitutes a quorum.\n(3) Decisions at meetings of the Board are to be adopted by a simple majority of the votes of the members present and voting, except that in the case of an equality of votes the Chairperson, or in his or her absence the Deputy Chairperson, has a casting vote.\n(4) The Chairperson, or in his or her absence the Deputy Chairperson, presides at meetings of the Board.\n(5) The Board is not precluded from holding a meeting or acting in any matter merely by reason of any vacancy in its membership.\n(6) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Board may make standing orders to regulate its own procedure and, in particular, the holding of meetings, the notice to be given of the meetings, the proceedings at the meetings, the keeping of minutes and the custody, production and inspection of the minutes.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H2803-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND PROCEEDINGS OF BOARD OF GOVERNORS"
+   },
+   "text": {
+    "en": "12. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2803-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND PROCEEDINGS OF BOARD OF GOVERNORS"
+   },
+   "heading": {
+    "en": "Validity of acts of members"
+   },
+   "text": {
+    "en": "13. The acts of a member are valid despite any defect that may afterwards be discovered in the member’s appointment or qualifications."
+   }
+  },
+  {
+   "id": "SG-H2803-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND PROCEEDINGS OF BOARD OF GOVERNORS"
+   },
+   "heading": {
+    "en": "Directions by Minister"
+   },
+   "text": {
+    "en": "14.—(1) The Minister may, after consulting the Board, give to the Institute any direction under section 5 of the Public Sector (Governance) Act 2018.\n[5/2018]\n(2) The Board must give the Minister such information or facilities for obtaining information with regard to the exercise of its powers and functions in such manner and at such times as the Minister may reasonably require."
+   }
+  },
+  {
+   "id": "SG-H2803-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND PROCEEDINGS OF BOARD OF GOVERNORS"
+   },
+   "heading": {
+    "en": "Appointment of committees and delegation of powers"
+   },
+   "text": {
+    "en": "15.—(1) The Board may appoint any number of committees consisting of members or other persons or members and other persons for purposes that, in the opinion of the Board, would be better regulated and managed by means of those committees.\n(2) The Board may, subject to any conditions or restrictions that it thinks fit, delegate to any committee or the Chairperson or the Chief Executive Officer all or any of the powers, functions and duties by this Act vested in the Institute, and a power, function or duty so delegated may be exercised or performed by the committee or the Chairperson or the Chief Executive Officer (as the case may be) in the name and on behalf of the Institute.\n(3) The Board may, subject to any conditions or restrictions that it thinks fit, delegate to any employee of the Institute all or any of the powers, functions and duties by this Act vested in the Institute, and a power, function or duty so delegated may be exercised or performed by the employee in the name and on behalf of the Institute."
+   }
+  },
+  {
+   "id": "SG-H2803-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 4 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Transfer to Institute of assets and liabilities"
+   },
+   "text": {
+    "en": "16.—(1) As from 1 April 1992, all lands, buildings and other properties, movable or immovable, rights, interests, privileges, obligations and liabilities vested in, belonging to or incurred by the Vocational and Industrial Training Board are transferred to and vest in the Institute without further assurance.\n(2) If any question arises as to which property, movable or immovable, has been transferred to and vested in the Institute under subsection (1), a certificate under the hand of the Minister is conclusive evidence of the vesting of that property in the Institute."
+   }
+  },
+  {
+   "id": "SG-H2803-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Existing contracts"
+   },
+   "text": {
+    "en": "17. All deeds, bonds, agreements, instruments and working arrangements subsisting immediately before 1 April 1992 affecting the lands, buildings and other properties, movable or immovable, transferred under section 16 or any employee of the Vocational and Industrial Training Board transferred to the service of the Institute under section 19 are of full force and effect against or in favour of the Institute and enforceable as fully and effectually as if, instead of the Vocational and Industrial Training Board, the Institute had been named therein or had been a party thereto."
+   }
+  },
+  {
+   "id": "SG-H2803-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Pending proceedings"
+   },
+   "text": {
+    "en": "18. Any proceedings or cause of action pending or existing immediately before 1 April 1992 by or against the Vocational and Industrial Training Board in respect of the lands, buildings and other properties, movable or immovable, transferred under section 16 and the rights, interests, obligations and liabilities in connection with or appertaining thereto may be continued and enforced by or against the Institute as it might have been by or against the Vocational and Industrial Training Board as if this Act had not been enacted."
+   }
+  },
+  {
+   "id": "SG-H2803-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Transfer of employees"
+   },
+   "text": {
+    "en": "19.—(1) As from 1 April 1992, the persons employed by the Vocational and Industrial Training Board immediately before that date are transferred to the service of the Institute on terms no less favourable than those enjoyed by them immediately prior to their transfer.\n(2) Until the time that schemes and terms and conditions of service are drawn up by the Institute, the schemes and terms and conditions of service in the Vocational and Industrial Training Board continue to apply to every person transferred to the service of the Institute under subsection (1) as if the person were still in the service of that Board.\n(3) Where any person who is transferred to the service of the Institute under subsection (1) is a contributor under the Widows’ and Orphans’ Pension Act 1904, the person must for the purposes of that Act continue to make contributions under that Act as if the person had not been transferred to the service of the Institute; and for the purposes of that Act the person’s service with the Institute is deemed to be service with the Government and the Institute has the right to make deductions from the salary of that person to be paid as contributions under that Act.\n(4) Where any person who is transferred to the service of the Institute under subsection (1) was an employee of the Government transferred to the service of the Vocational and Industrial Training Board with the person’s pension benefits in respect of that employment preserved, the Government is liable to pay to the Institute the portion of any pension benefits payable on the person’s retirement that the same bears to the proportion which the aggregate amount of the person’s pensionable emoluments during the person’s service with the Government bears to the aggregate amount of the person’s pensionable emoluments during the person’s service under the Government, the former Industrial Training Board, the Vocational and Industrial Training Board and the Institute."
+   }
+  },
+  {
+   "id": "SG-H2803-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "text": {
+    "en": "20. [Omitted as spent]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2803-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "text": {
+    "en": "21. [Omitted as spent]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2803-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 5 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Chief Executive Officer"
+   },
+   "text": {
+    "en": "22.—(1) There must be a Chief Executive Officer of the Institute, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.\n[5/2018]\n(2) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive Officer during any period, or during all periods, when the Chief Executive Officer —\n(a)is absent from duty or Singapore; or\n(b)is, for any reason, unable to perform the duties of the office.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H2803-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 5 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Employment of staff"
+   },
+   "text": {
+    "en": "23. The Institute may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on the terms and conditions determined by the Institute, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H2803-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 5 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Protection from personal liability"
+   },
+   "text": {
+    "en": "24. No suit or other legal proceedings shall lie against any member or any employee of the Institute or other person acting under the direction of the Institute for anything which is in good faith done or intended to be done in the execution or purported execution of this Act."
+   }
+  },
+  {
+   "id": "SG-H2803-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 5 PROVISIONS RELATING TO STAFF"
+   },
+   "text": {
+    "en": "25. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2803-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Financial year"
+   },
+   "text": {
+    "en": "26. The financial year of the Institute begins on 1 April of each year and ends on 31 March of the succeeding year."
+   }
+  },
+  {
+   "id": "SG-H2803-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Grants"
+   },
+   "text": {
+    "en": "27. For the purpose of enabling the Institute to carry out its functions under this Act, the Minister may make grants‑in‑aid to the Institute out of moneys to be provided by Parliament."
+   }
+  },
+  {
+   "id": "SG-H2803-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Loans"
+   },
+   "text": {
+    "en": "28. The Institute may, for the purposes of this Act, raise loans from the Government or, with the consent of the Minister, from any source."
+   }
+  },
+  {
+   "id": "SG-H2803-A28.001",
+   "no": 28.001,
+   "noLabel": {
+    "en": "28A."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Issue of shares, etc."
+   },
+   "text": {
+    "en": "28A. As a consequence of the vesting of any property, rights or liabilities of the Government in the Institute under this Act, or of any capital injection or other investment by the Government in the Institute in accordance with any written law, the Institute must issue such shares or other securities to the Minister for Finance as that Minister may direct.\n[5/2002]"
+   }
+  },
+  {
+   "id": "SG-H2803-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Power of investment"
+   },
+   "text": {
+    "en": "29. The Institute may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965.\n[45/2004]"
+   }
+  },
+  {
+   "id": "SG-H2803-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "30. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2803-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "31. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2803-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "32. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2803-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "33. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2803-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "34. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2803-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Symbol of Institute"
+   },
+   "text": {
+    "en": "35.—(1) The Institute has the exclusive right to the use of such symbol, design or representation as it may select or devise in connection with its activities or affairs.\n(2) Any person or body corporate who uses a symbol, design or representation identical with that of the Institute or which so resembles the symbol, design or representation of the Institute as to deceive or cause confusion or to be likely to deceive or cause confusion shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000."
+   }
+  },
+  {
+   "id": "SG-H2803-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Titles of certificates issued by Institute"
+   },
+   "text": {
+    "en": "36.—(1) The Institute has the exclusive right in the form and presentation of its titles of certificates or other qualifications issued by the Institute to any person who attains the standard set by the Institute.\n(2) Any person who issues or uses, or causes or permits the use of, titles of certificates or other qualifications identical with those of the Institute shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000."
+   }
+  },
+  {
+   "id": "SG-H2803-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Compulsory insurance"
+   },
+   "text": {
+    "en": "37. The Institute may require any person who attends any course or avails himself or herself of any facility provided or approved by the Institute under this Act to be insured against personal injuries and loss of life."
+   }
+  },
+  {
+   "id": "SG-H2803-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Accidents happening to employees during training provided or approved by Institute"
+   },
+   "text": {
+    "en": "38.—(1) In relation to accidents happening to employees (within the meaning given by the Work Injury Compensation Act 2019 or the Work Injury Compensation Act (Cap. 354, 2009 Revised Edition) repealed by that Act) who attend courses or avail themselves of the facilities provided or approved by the Institute, that Act has effect subject to subsection (2).\n[5/2008; 27/2019]\n(2) For the purposes of the Work Injury Compensation Act 2019 or the Work Injury Compensation Act (Cap. 354, 2009 Revised Edition) repealed by that Act, any act done by an employee for the purposes of and in connection with his or her training referred to in subsection (1) is, if it is not done for the purposes of and in connection with his or her employer’s trade or business, deemed to be so done.\n[5/2008; 27/2019]"
+   }
+  },
+  {
+   "id": "SG-H2803-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Power to obtain information from employers"
+   },
+   "text": {
+    "en": "39.—(1) The Chief Executive Officer may require employers in commerce or industry to furnish such returns and other information and to keep such records and produce them for examination as appear to the Chief Executive Officer to be necessary for the purposes of this Act.\n(2) Subject to subsection (3), returns and other information furnished pursuant to subsection (1) and any information obtained on an examination made pursuant to subsection (1) must not, without the consent of the employer to whose business the returns or information relate, be disclosed otherwise than to —\n(a)the Institute or a committee appointed by the Institute;\n(b)an officer of the Institute or of the committee; or\n(c)any person entitled to take part in the proceedings of the Institute.\n(3) Subsection (2) does not apply to —\n(a)the disclosure of returns or information in the form of a summary of similar returns or information furnished by or obtained from a number of employers, if the summary is so framed as not to enable particulars relating to any individual business to be ascertained from it; or\n(b)any disclosure of information made for the purposes of any legal proceedings pursuant to this Act or any criminal proceedings, whether pursuant to this Act or not, or for the purposes of any report of those proceedings.\n(4) A certificate purporting to be issued by or on behalf of the Chief Executive Officer and stating that he or she has approved any kind of information, return or record for the purposes of subsection (2) is, in any legal proceedings, evidence of the facts stated in the certificate.\n(5) Any person who fails to comply with any requirement made under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000.\n(6) Any person who —\n(a)knowingly or recklessly furnishes, pursuant to any requirement made under subsection (1), any return or other information which is false in a material particular;\n(b)wilfully makes a false entry in any record required to be produced under subsection (1) or, with intent to deceive, makes use of any such entry which the person knows to be false; or\n(c)discloses any information in contravention of subsection (2),\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000."
+   }
+  },
+  {
+   "id": "SG-H2803-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Obstructing officers of Institute"
+   },
+   "text": {
+    "en": "40. Any person who obstructs or hinders any officer, employee or agent of the Institute acting in the discharge of his or her duty under this Act or any regulations made under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000."
+   }
+  },
+  {
+   "id": "SG-H2803-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Proceedings conducted by employees of Institute"
+   },
+   "text": {
+    "en": "41. Proceedings in respect of any offence under this Act or any regulations made under this Act may, with the authorisation of the Public Prosecutor, be conducted by an employee of the Institute.\n[15/2010]"
+   }
+  },
+  {
+   "id": "SG-H2803-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Consent of Public Prosecutor"
+   },
+   "text": {
+    "en": "42. No prosecution in respect of any offence under this Act or any regulations made under this Act may be instituted except by or with the consent of the Public Prosecutor.\n[15/2010]"
+   }
+  },
+  {
+   "id": "SG-H2803-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Offence by body corporate"
+   },
+   "text": {
+    "en": "43. Where an offence under this Act or any regulations made under this Act is committed by a body corporate and it is proved to have been committed with the consent or connivance of, or to be attributable to any act or default on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he or she, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly."
+   }
+  },
+  {
+   "id": "SG-H2803-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "44.—(1) The Institute may, with the approval of the Minister, make any regulations necessary for carrying into effect the provisions of this Act.\n(2) Without limiting subsection (1), the Institute may make regulations for all or any of the following matters:\n(a)the collection of fees, rates or charges and the award of scholarships and other financial assistance to persons attending training and education in technical skills;\n(b)the registration of apprentices and the conduct and supervision and regulation of apprenticeship programmes and schemes;\n(c)the appointment, promotion, conduct, disciplinary control, dismissal and termination of service of employees of the Institute.\n[24/2016]"
+   }
+  },
+  {
+   "id": "SG-H2803-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Transitional provisions"
+   },
+   "text": {
+    "en": "45.—(1) Any document or thing done under any provision of the repealed Vocational and Industrial Training Board Act (Cap. 345, 1985 Revised Edition), and every such document or thing so far as it is subsisting or in force on 1 April 1992 continues and has effect as if it had been made or done under the corresponding provisions of this Act.\n(2) As from 1 April 1992, all references in any written law to the Vocational and Industrial Training Board are references to the Institute of Technical Education, Singapore."
+   }
+  }
+ ]
+}

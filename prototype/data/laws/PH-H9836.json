@@ -1,0 +1,114 @@
+{
+ "id": "PH-H9836",
+ "title": {
+  "zh": "设立Pasay市",
+  "en": "An Act Creating a Barangay to be Known as Barangay 201, Zone 20 in the City of Pasay, Metropolitan Manila",
+  "orig": "An Act Creating a Barangay to be Known as Barangay 201, Zone 20 in the City of Pasay, Metropolitan Manila"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p140",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2019-08-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 11403",
+ "officialCode": null,
+ "topics": [
+  "administrative"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 7,
+ "chars": 9002,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11403_2019.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 7 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2019/ra_11403_2019.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H9836-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Creation of Barangay 201, Zone 20. — The areas of Kalayaan Village, Teachers Bliss and Balabag are hereby separated from Barangay 183, Zone 20 in the City of Pasay, Metropolitan Manila to constitute a distinct and independent barangay to be known as Barangay 201."
+   }
+  },
+  {
+   "id": "PH-H9836-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Territorial Boundaries. — The territorial boundaries of Barangay 201, Zone 20 are hereby described as follows:\n\"Bounded on the Northwest (NW) along lines 1-31 by Zone 16 and along lines 31-74 by Zone 19;\nOn the Northeast (NE) along lines 72-99 by the City of Makati, Cad-571-D and along lines 99-101 by South Luzon Expressway, City ofTaguig, Cad-590-D;\nAnd on the Southeast (SE), South (S), West (W) and Southwest (SW) along lines 101-246 by the City of Paraiiaque, Cad-299-D \" The technical description of Barangay 201 is as follows:\nLine\nDirection\nDistance (m) Description Tie Point N 86 40 W\n598.274 MMA-3676, Pasay Cadastre 1-2 S 82 51 E\n23.235 2-3 S 74 20 E\n24.619 3-4 S 63 2 E\n18.488 4-5 S 42 45 E\n4.53 5-6 N 42 45 W\n4.53 BBM312 6-7 N 73 15 E\n7.774 7-8 S 70 4 E\n12.299 8-9 S 63 26 E\n8.726 9-10 S 71 34 E\n15.769 10-11 N 76 59 E\n113.632 11-12 N 50 7 E\n26.841 12-13 S 50 7 W\n26.841 BBM257 13-14 S 7 6 E\n19.884 14-15 S 0 21 E\n48.204 15-16 S 5 14 W\n23.731 16-17 S 5 56 W\n5.597 17-18 S 1 55 W\n17.354 18-19 S 1 22 W\n16.736 19-20 N 89 6 W\n27.573 20-21 S 60 15 W\n38.456 21-22 N 46 53 E\n12.753 22-23 S 46 53 W\n12.753 BBM 306 23-24 S 32 48 E\n241.776 24-25 S 48 49 E\n26.12 25-26 S 42 49 E\n51.356 26-27 S 11 26 W\n53.973 27-28 N 64 54 E\n45.65 28-29 N 64 36 E\n133.444 29-30 N 70 37 E\n5.918 30-31 N 60 29 W\n11.377 31-32 S 60 29 E\n11.377 BBM277 32-33 S 16 9 E\n175.153 33-34 N 50 33 E\n20.653 34-35 S 50 33 W\n20.653 BBM 289 35-36 S 15 37 E\n96.652 36-37 S 11 13 E\n18.936 37-38 S 7 26 E\n13.41 38-39 S 3 25 E\n65.45 39-40 S 2 52 E\n86.545 40-41 N 42 45 W\n18.62 41-42 S 42 45 E\n18.62 BBM 282 42-43 S 80 47 E\n54.179 43-44 S ,80 50 E\n49.926 44-45 S 80 35 E\n71.502 45-46 S 80 47 E\n195.045 46-47 N 49 57 E\n10.901 47-48 S 49 57 W\n10.901 BBM 363 48-49 S 80 27 E\n86.187 49-50 S 78 7 E\n82.863 50-51 S 74 12 E\n16.976 51-52 N 49 39 E\n12.658 52-53 S 49 39 W\n12.658 BBM 286 53-54 S 64 32 E\n36.982 54-55 S 56 2 E\n33.634 55-56 S 46 29 E\n11.86 56-57 S 40 13 E\n46.565 57-58 S 32 35 E\n86.97 58-59 S 32 42 E\n23.014 59-60 N 81 50 E\n25.616 60-61 S 81 50 W\n25.616 BBM 287 61-62 N 8 24 E\n80.581 62-63 N 12 29 E\n47.449 63-64 N 9 56 E\n97.145 64-65 N 12 9 E\n45.984 65-66 N 10 34 E\n106.451 66-67 N 79 23 W\n71.981 67-68 S 79 23 E\n71.981 BBM 297 68-69 N 25 31 E\n24.035 69-70 N 6 3 W\n15.979 BBM 299 70-71 N 4 14 E\n15.654 71-72 N 13 40 E\n32.427 72-73 N 10 30 E\n30.738 73-74 S 35 57 E\n31.449 74-75 N 35 57 W\n31.449 CBM 25 75-76 N 28 0 E\n52.296 76-77 N 62 1 E\n65.622 77-78 S 67 32 E\n98.343 78-79 N 68 21 E\n239.477 79-80 S 39 54 W\n38.133 80-81 N 39 54 E\n38.133 CBM 45 81-82 S 15 1 E\n144.322 82-83 S 50 1 W\n20.383 83-84 N 50 1 E\n20.383 CBM 44 84-85 S 84 21 E\n67.689 85-86 S 5 23 W\n20.352 86-87 N 5 23 E\n20.352 CBM 43 87-88 N 34 1 E\n78.441 88-89 S 27 18 E\n27.852 89-90 N 27 18 W\n27.852 CBM 46 90-91 S 77 56 E\n80.073 91-92 N 42 30 E\n69.369 92-93 S 87 12 E\n82.571 93-94 S 41 41 E\n35.495 94-95 S 74 59 E\n99.383 95-96 N 89 34 E\n51.966 96-97 N 40 20 E\n63.934 97-98 S 56 25 E\n129.374 98-99 N 8 7 E\n86.725 99-100 S 27 25 E\n3020.803 100-101 S 29 26 E\n311.428 CBM 47 101-102 S 67 55 W\n95.705 102-103 N 16 0 W\n274.965 103-104 N 58 1 W\n156.42 104-105 S 88 13 W\n295.52 105-106 S 39 28 W\n140.05 106-107 S 84 52 W\n69.35 107-108 S 79 8 W\n150.32 108-109 S 89 32 W\n44.12 109-110 S 58 33 W\n226.15 110-111 N 35 53 W\n78.72 111-112 S 76 24 W\n134.76 112-113 N 70 58 W\n111.94 113-114 S 52 22 W\n62.223 114-115 N 52 22 E\n62.223 CBM 51 115-116 S 60 46 W\n193.05 116-117 S 33 25 W\n163.95 117-118 S 43 0 W\n135.41 118-119 S 83 9 W\n124.86 119-120 N 75 43 W\n125.83 120-121 N 51 25 W\n50.76 121-122 S 69 4 W\n212.98 122-123 S 69 43 W\n135.18 123-124 S 22 56 W\n47.38 124-125 N 87 26 W\n76.27 125-126 S 78 41 W\n99.52 126-127 N 45 7 E\n24.661 127-128 S 45 7 W\n24.661 CBM 48 128-129 N 2 48 W\n638.2 129-130 N 15 46 W\n203.23 130-131 N 20 26 W\n190.96 131-132 S 25 10 W\n130.49 132-133 N 78 10 W\n33.374 133-134 S 78 10 E\n33.374 CBM 40 134-135 S 59 41 W\n58.28 135-136 S 79 38 W\n32.568 136-137 N 79 38 E\n32.568 CBM 39 137-138 S 62 53 W\n72.52 138-139 N 87 18 W\n55.9 139-140 N 31 25 W\n61.87 140-141 N 27 10 W\n35.56 141-142 N 36 54 W\n68.047 142-143 S 36 54 E\n68.047 CBM 23 143-144 N 59 45 W\n120.28 144-145 N 53 29 E\n7.555 145-146 S 53 29 W\n7.555 CBM 38 146-147 N 15 12 W\n95.85 147-148 N 30 50 E\n24.522 148-149 S 30 50 W\n24.522 CBM 22 149-150 N 85 24 W\n113.26 150-151 N 50 24 W\n35.37 151-152 S 53 18 W\n25.063 152-153 N 53 18 E\n25.063 CBM 21 153-154 N 66 48 W 84 154-155 S 11 31 W\n39.549 155-156 N 11 31 E\n39.549 CBM 20 156-157 S 88 56 W\n42.29 157-158 N 50 0 W\n61.9 158-159 S 18 24 E\n22.075 159-160 N 18 24 W\n22.075 CBM 33 160-161 S 42 46 W\n117.31 161-162 N 74 33 W\n44.117 162-163 S 74 33 E\n44.117 BBM 329 163-164 S 19 57 W\n56.14 164-165 N 46 6 E\n42.443 165-166 S 46 6 W\n42.443 CBM 32 166-167 S 82 24 W\n54.31 167-168 S 54 5 W\n101.59 168-169 S 81 14 W\n58.06 169-170 N 81 14 E\n58.06 CBM 35 170-171 N 80 19 E\n14.937 171-172 S 80 19 W\n14.937 CBM 34 172-173 S 25 54 W\n195.85 173-174 S 54 32 W\n51.47 174-175 N 54 32 E\n51.47 CBM 36 175-176 S 88 35 W\n73.597 176-177 N 46 9 W\n80.763 177-178 N 72 55 W\n82.85 178-179 N 13 44 E\n195.49 CBM 37 179-180 S 11 10 W\n18.974 180-181 N 11 10 E\n18.974 CBM 40 181-182 N 2 16 E\n125.79 182-183 S 46 55 W\n6.003 183-184 N 46 55 E\n6.003 CBM 42 184-185 S 85 32 E\n76.65 185-186 S 83 24 E\n26.053 186-187 N 83 24 W\n26.053 CBM 47 187-188 N 15 57 E\n51.15 188-189 N 0 56 W\n38.12 189-190 N 16 7 W\n51.22 190-191 N 2 24 E\n47.22 191-192 N 12 53 E\n43.49 192-193 N 0 4 E\n55.2 193-194 N 4 4 E\n72.146 194-195 S 4 4 W\n72.146 CBM 32 195-196 N 13 34 W\n173.8 196-197 N 1 19 W\n37.13 197-198 N 12 39 W\n102.18 198-199 N 65 53 E\n8.129 199-200 S 65 53 W\n8.129 CBM 31 200-201 S 89 29 W\n146.18 201-202 N 87 59 W\n100.82 202-203 N 25 6 E\n48.729 203-204 S 25 6 W\n48.729 CBM 30 204-205 N 89 53 W\n74.323 205-206 N 32 48 E\n13.13 206-207 N 32 48 E\n189.67 207-208 N 20 32 E\n59.04 208-209 N 20 31 E\n105.54 209-210 N 16 57 W\n35.74 210-211 N 41 25 W\n62.29 211-212 N 48 43 W\n60.31 212-213 N 18 43 W\n43.35 213-214 N 18 43 W\n74.47 214-215 N 18 43 W\n19.61 215-216 N 18 43 W\n1.91 216-217 N- 43 12 E\n20.07 217-218 N 43 12 E\n154.09 218-219 N 53 0 E\n53.773 219-220 S 53 0 W\n53.773 CBM 29 220-221 N 53 19 W\n34.65 221-222 N 53 19 W\n2.69 222-223 N 53 19 W\n2.7 223-224 N 53 19 W\n85.94 224-225 N 53 19 W\n0.84 225-226 N 8 2 E\n1.51 226-227 N 8 2 E\n259.52 227-228 N 3 49 W\n115.309 228-229 N 80 40 E\n54.621 229-230 S 80 40 W\n54.621 CBM 28 230-231 N 13 54 E\n143.89 231-232 N 63 28 E\n117.38 232-233 N 3 52 W\n146.41 233-234 S 44 11 E\n50.351 234-235 N 44 11 W\n50.351 CBM 50 235-236 N 53 17 W\n69.8 236-237 S 83 24 W\n127.4 237-238 N 13 4 W\n202.6 238-239 N 34 9 E\n111.357 239-240 N 89 43 E\n10.547 240-241 S 46 13 E\n53.056 241-242 S 40 57 E\n19.903 242-243 N 50 4 E\n118.74 243-244 N 14 26 E\n7.443 244-245 S 14 26 W\n7.443 BBM 309 245-246 N 7 41 E\n82.112 246-1 N 8 40 E\n121.719 containing an area of eight hundred fifty-seven and 6168⁄10000 hectares (857.6168 has.), including the contested area of thirteen and 9223⁄10000 hectares (13.9223 has.) between Pasay City and Parahaque City.\nThe foregoing provision shall be without prejudice to the resolution by the appropriate agency or forum of existing boundary disputes or cases involving questions of territorial jurisdiction between Barangay 201, Zone 20, Pasay City and the adjoining local government unit: Provided, That the territorial jurisdiction of the disputed area or areas shall remain with the local government, which shall exercise administrative supervision over said area or areas until the final resolution of the case."
+   }
+  },
+  {
+   "id": "PH-H9836-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Conduct and Supervision of Plebiscite. — The plebiscite conducted and supervised by the Commission on Elections (COMELEC) on June 8, 1997 pursuant to Pasay City Ordinance No. 831, series of 1997, of the Sangguniang Panlungsod of Pasay, Metropolitan Manila, which ratified the creation of Barangay 201, Zone 20 shall serve as substantial compliance with the requirement under Section 10 of Republic Act No. 7160, as amended, otherwise known as the \"local Government Code of 1991\"."
+   }
+  },
+  {
+   "id": "PH-H9836-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Incumbent Barangay Officials. — The incumbent barangay officials of Barangay 201, Zone 20, City of Pasay, Metropolitan Manila shall continue to hold office until such time that their successors have been duly elected and qualified."
+   }
+  },
+  {
+   "id": "PH-H9836-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Public Infrastructure and Facilities. — All public infrastructure and facilities for public use existing therein at the time of the approval of this Act are hereby transferred without cost or compensation to and shall be administered by the new barangay."
+   }
+  },
+  {
+   "id": "PH-H9836-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Internal Revenue Allotment Shares. — Barangay 201, Zone 20, shall be entitled to Internal Revenue Allotment (IRA) shares pursuant to Section 285 of the Local Government Code of 1991, as amended."
+   }
+  },
+  {
+   "id": "PH-H9836-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "Effectivity. — This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
+   }
+  }
+ ]
+}

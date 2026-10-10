@@ -1,0 +1,107 @@
+{
+ "id": "SG-H3225",
+ "title": {
+  "zh": null,
+  "en": "Minors’ Contracts Act 1987",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p41",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act MCA1987",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1447,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/MCA1987?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 5 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3225-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Disapplication of Infants Relief Act 1874"
+   },
+   "text": {
+    "en": "1. The Infants Relief Act 1874 (which invalidates certain contracts made by minors and prohibits actions to enforce contracts ratified after majority) shall not apply to any contract made by a minor after 9 April 1987."
+   }
+  },
+  {
+   "id": "SG-H3225-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Guarantees"
+   },
+   "text": {
+    "en": "2. Where —\n(a)a guarantee is given in respect of an obligation of a party to a contract made after 9 April 1987; and\n(b)the obligation is unenforceable against him (or he repudiates the contract) because he was a minor when the contract was made,\nthe guarantee shall not for that reason alone be unenforceable against the guarantor."
+   }
+  },
+  {
+   "id": "SG-H3225-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Restitution"
+   },
+   "text": {
+    "en": "3.—(1) Where —\n(a)a person (the claimant) has after 9 April 1987 entered into a contract with another (the defendant); and\n(b)the contract is unenforceable against the defendant (or he repudiates it) because he was a minor when the contract was made,\nthe court may, if it is just and equitable to do so, require the defendant to transfer to the claimant any property acquired by the defendant under the contract, or any property representing it.\n[Act 25 of 2021 wef 01/04/2022]\n(2) Nothing in this section shall be taken to prejudice any other remedy available to the claimant.\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3225-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Contracts before 12 November 1993"
+   },
+   "text": {
+    "en": "4. Nothing in this Act applies in relation to a contract made after 9 April 1987 and before 12 November 1993 except in so far as it was applicable by virtue of section 5 of the Civil Law Act 1909 in force before 12 November 1993."
+   }
+  },
+  {
+   "id": "SG-H3225-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "5. This Act may be cited as the Minors’ Contracts Act 1987."
+   }
+  }
+ ]
+}

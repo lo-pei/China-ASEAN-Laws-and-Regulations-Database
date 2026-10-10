@@ -1,0 +1,52 @@
+{
+ "id": "SG-H244",
+ "title": {
+  "zh": null,
+  "en": "Approved Hospitals and Medical Institutions",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p03",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MESA1993-N1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 639,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MESA1993-N1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 1 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H244-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Medical Endowment Scheme Act\n(Chapter 173A, Section 10)\nApproved Hospitals and Medical Institutions\nN 1\nG.N. No. S 258/1997\nREVISED EDITION 1998\n(15th June 1998)\n[1st April 1993]\nThe Minister for Health has approved the following hospitals and medical institutions for the purposes of the Act:\n(1)Alexandra Hospital.\n(2)Ang Mo Kio Community Hospital.\n(3)Changi General Hospital.\n(4)KK Women’s and Children’s Hospital.\n(5)National Skin Centre.\n(6)National University Hospital.\n(7)Singapore General Hospital.\n(8)Singapore National Eye Centre.\n(9)Tan Tock Seng Hospital.\n(10)Woodbridge Hospital/Institute of Mental Health.\n[G.N. No. S 258/97]"
+   }
+  }
+ ]
+}

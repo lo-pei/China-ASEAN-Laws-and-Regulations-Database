@@ -1,0 +1,94 @@
+{
+ "id": "PH-H791",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Republic Act Numbered One Hundred and Twenty-four",
+  "orig": "An Act to Amend Republic Act Numbered One Hundred and Twenty-four"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p11",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1953-06-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 951",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1253,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1953/ra_951_1953.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1953/ra_951_1953.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文存在同号重出的条款（第 1、2 条）：该处官方页面确有两段均标同一 Section 号，本库照录其 `no` 值（不改动官方编号），条文 `id` 以 `_2`「_3」后缀保证唯一。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H791-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Sections one and two of Republic Act Numbered One hundred and twenty-four are amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H791-A1_2",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Effective July first, nineteen hundred and forty-seven, it shall be the duty of the principal, director and/or president of a private school, college or university, with a total enrollment of at least three hundred and one thousand to provide a part or full time physician and dentist, respectively, to give medical and dental service to the pupils and students enrolled therein, who shall render reports at the end of every quarter, to wit: end of September, December, March and June of each school year, of their school health activities to the Director of Health. Said physician and dentist shall be placed under the direct supervision of the Bureau of Health.\n\""
+   }
+  },
+  {
+   "id": "PH-H791-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "It shall be the duty of the Bureau of Health to issue rules and regulations relative to the medical and dental service which private schools, colleges and universities in the Philippines shall provide.\""
+   }
+  },
+  {
+   "id": "PH-H791-A2_2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The title of the same Act is amended to read as follows:\n\"An Act to require certain private schools, colleges and universities in the Philippines to provide medical and dental service for pupils and students.\""
+   }
+  },
+  {
+   "id": "PH-H791-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
+   }
+  }
+ ]
+}

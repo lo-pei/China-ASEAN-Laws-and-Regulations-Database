@@ -1,0 +1,76 @@
+{
+ "id": "PH-H269",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend the Last Paragraph of Sections Two and Nine, of Act Numbered Thirty-Three Hundred and Seventy-Seven, Entitled “An Act to Provide for the Promotion of Agricultural and Vocational Education; to Provide for Cooperation with Provinces, Cities, and Municipalities in the Promotion of Such Education in Agriculture, Commerce, Trades, and Industries; to Provide for Cooperation with the University of the Philippines and Other Insular Institutions in the Preparation of Teachers of Vocational Subject; to Appropriate Funds and Regulate Their Expenditures, and for Other Purposes,” and to Insert a New Section in Said Act to be Known as Section Eleven-A",
+  "orig": "An Act to Amend the Last Paragraph of Sections Two and Nine, of Act Numbered Thirty-Three Hundred and Seventy-Seven, Entitled “An Act to Provide for the Promotion of Agricultural and Vocational Education; to Provide for Cooperation with Provinces, Cities, and Municipalities in the Promotion of Such Education in Agriculture, Commerce, Trades, and Industries; to Provide for Cooperation with the University of the Philippines and Other Insular Institutions in the Preparation of Teachers of Vocational Subject; to Appropriate Funds and Regulate Their Expenditures, and for Other Purposes,” and to Insert a New Section in Said Act to be Known as Section Eleven-A"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p03",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1947-06-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 175",
+ "officialCode": null,
+ "topics": [
+  "trade",
+  "education",
+  "environment"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2068,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1947/ra_175_1947.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1947/ra_175_1947.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H269-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The last paragraph of section two, and section nine, of Act Numbered Thirty-three hundred and seventy-seven are hereby amended to read as follows:\n\"Sec. 2. … \"The Director of Education, subject to the approval of the Secretary of Public Instruction, shall pay out of the funds specified in subsections (b), (c) and (e) of the preceding paragraph of this section and for the purposes therein enumerated, such amounts as are needed in this appropriation. The allotment shall be distributed in proportion to the respective needs of the agricultural and vocational schools organized under this Act. Of the sum specified in subsection (a) an amount equal to two times the sum appropriated and made available by a province, city, or municipality petitioning for aid, shall be allotted: Provided, However, That if the sum herein appropriated is not sufficient for all provinces, cities, and municipalities petitioning for aid, the following order of preference shall be observed: provinces, municipalities, cities: And Provided, further, That among each class, the date and time of filing applications shall govern in determining such preference.\n\"Sec. 9. Any vocational school originally established, to be established, and/or continued under the provisions of this Act may collect tuition fees not exceeding the tuition fees charged students in the general high school of the province, city, or municipality, whenever the provincial, city, municipal and/or National funds set aside for the school are not sufficient for its maintenance and operation.\""
+   }
+  },
+  {
+   "id": "PH-H269-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Act Numbered Thirty-three hundred and seventy-seven is amended by inserting between sections eleven and twelve thereof a new section to be known as section eleven-A, which shall read as follows:\n\"Sec. 11-A. All school income shall be set aside as a special trust fund of each vocational, school, to be disposed of for the benefit of the school as the school authorities may deem fit, all existing rules and regulations to the contrary notwithstanding.\""
+   }
+  },
+  {
+   "id": "PH-H269-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1947."
+   }
+  }
+ ]
+}

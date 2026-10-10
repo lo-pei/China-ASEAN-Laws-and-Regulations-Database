@@ -1,0 +1,64 @@
+{
+ "id": "PH-H1798",
+ "title": {
+  "zh": null,
+  "en": "An Act to Authorize the Philippine Charity Sweepstakes Office to Hold One Special Sweepstakes Race for the Welfareville Institutions as Beneficiary",
+  "orig": "An Act to Authorize the Philippine Charity Sweepstakes Office to Hold One Special Sweepstakes Race for the Welfareville Institutions as Beneficiary"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p25",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1958-06-13",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2059",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1087,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1958/ra_2059_1958.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1958/ra_2059_1958.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1798-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Provisions of existing laws to the contrary notwithstanding, the Philippine Charity Sweepstakes Office shall hold in the year nineteen hundred and fifty-nine, one special sweepstake horse race the net proceeds of which shall, after deducting the payment of the prizes and expenses, as provided in Act Numbered Forty-one hundred and thirty, as amended by Commonwealth Act Numbered Five hundred and forty-six, be turned over to the Social Welfare Administration for the construction of new buildings in the Welfareville Institutions. The plans for the construction of such buildings shall be approved by the Bureau of Public Works and all expenses therefor shall be subject to budgeting and auditing regulations. In the said special sweepstake horse race, the prizes for the three winning horses shall be in direct proportion, respectively, to the three main prizes for winning tickets and shall be ten per cent thereof, but in no case shall the total amount of the prizes for winning hoses exceed fifty thousand pesos."
+   }
+  },
+  {
+   "id": "PH-H1798-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 13, 1958."
+   }
+  }
+ ]
+}

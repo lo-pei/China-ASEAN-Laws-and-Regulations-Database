@@ -1,0 +1,1027 @@
+{
+ "id": "SG-H1688",
+ "title": {
+  "zh": null,
+  "en": "Health Products (Cell, Tissue and Gene Therapy Products) Regulations 2021",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p21",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation HPA2007-S104-2021",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 62,
+ "chars": 81609,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/HPA2007-S104-2021?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 62 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 2 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1688-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Health Products (Cell, Tissue and Gene Therapy Products) Regulations 2021 and come into operation on 1 March 2021."
+   }
+  },
+  {
+   "id": "SG-H1688-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations, unless the context otherwise requires —\n“active substance”, in relation to a CTGT product, means a substance that —\n(a)is usable in the manufacture of the CTGT product as an active constituent; and\n(b)achieves its intended action by pharmacological, immunological, physiological, metabolic or physical means;\n“administer”, in relation to a substance or an article, means to give or apply it to a human being, whether —\n(a)orally;\n(b)by injection or by introduction into the body in any other way; or\n(c)by external application, whether by direct contact with the body or not;\n“appropriate non‑proprietary name”, in relation to an active substance in a CTGT product, means —\n(a)the name or a synonym of the active substance described in the relevant monograph appearing in the latest edition of any specified publication; or\n(b)in any other case, its international non‑proprietary name or the accepted scientific name or other name descriptive of the true nature of the active substance;\n“approved conveyance”, “approved permanent premises” and “permanent premises” have the meanings given by section 2(1) of the Healthcare Services Act 2020;\n[S 437/2023 wef 26/06/2023]\n“Authority’s website” means the Authority’s website at http://www.hsa.gov.sg;\n“autologous”, in relation to a CTGT product, means a CTGT product that contains cells or tissues that are obtained only from the patient to whom the CTGT product is to be administered;\n“business name”, in relation to a healthcare service licensee, means the name under which the healthcare service licensee is authorised by a licence under the Healthcare Services Act 2020 to carry on the business of providing a licensable healthcare service;\n[S 437/2023 wef 26/06/2023]\n“Class 1 CTGT product” means a CTGT product that —\n(a)is the result of only minimal manipulation of human cell or tissue;\n(b)is intended for homologous use;\n(c)is not combined or used with —\n(i)a health product categorised as a therapeutic product in the First Schedule to the Act; or\n(ii)a health product categorised as a medical device in the First Schedule to the Act; and\n(d)is assigned by the Authority as a Class 1 CTGT product due to a lower health risk to a user of the product;\n“Class 2 CTGT product” means a CTGT product other than a Class 1 CTGT product;\n“container”, in relation to a CTGT product, means an article or a packaging immediately covering the CTGT product, including any bottle, ampoule, blister pack, sachet, dial dispenser pack, strip pack, syringe, tube, vessel, vial, wrapper or other similar article, but does not include —\n(a)an article for ingestion; or\n(b)an outer package or other packaging in which the container is further enclosed;\n“CTGT product” means a health product categorised as a cell, tissue or gene therapy product in the First Schedule to the Act;\n“dispense”, in relation to a CTGT product, means to prepare and supply the CTGT product to a patient, where the preparation and supply is made by —\n(a)a qualified practitioner or a person acting under the supervision of a qualified practitioner; or\n(b)a qualified pharmacist or a person acting under the supervision of a qualified pharmacist;\n“expiry date”, for a CTGT product, means the date after which, or the month and year after the end of which, the CTGT product should not be administered;\n“Good Distribution Practice Standard for Medical Devices” means any of the following as shown on the Authority’s website:\n(a)the Singapore Standard for Good Distribution Practice for Medical Devices — Requirements (SS 620);\n(b)any other good distribution practice standard for medical devices that is approved by the Authority;\n“Good Manufacturing Practice Standard” means any of the following as shown on the Authority’s website:\n(a)the Good Manufacturing Practice Standard for CTGT products issued by the Authority;\n(b)any other good manufacturing practice standard that is approved by the Authority;\n“Good Tissue Practice” means the Authority’s tissue banking guidelines as shown on the Authority’s website;\n[Deleted by S 437/2023 wef 26/06/2023]\n[Deleted by S 437/2023 wef 26/06/2023]\n“healthcare service licensee” means a person who holds a licence under the Healthcare Services Act 2020 to provide a licensable healthcare service;\n[S 437/2023 wef 26/06/2023]\n“homologous use” means the use of a CTGT product to repair, reconstruct, replace or supplement the cells or tissue of an individual (called the recipient) if the CTGT product performs the same basic function or functions in the recipient as the original cells or tissue in the donor in the same anatomical or histological environment;\n“international non‑proprietary name”, for an active substance of a CTGT product, means a name which has been selected by the World Health Organization as a recommended international non‑proprietary name for the active substance;\n“ISO 13485” means the 2016 edition of the publication ISO 13485, Medical Devices — Quality Management Systems — Requirements for Regulatory Purposes, published by the International Organization for Standardization;\n“known importer” means a person who has given notice to the Authority under regulation 7 to import a CTGT product until the notice is refused, withdrawn or cancelled;\n“known manufacturer” means a person who has given notice to the Authority under regulation 4 to manufacture a CTGT product until the notice is refused, withdrawn or cancelled;\n“known wholesaler” means a person who has given notice to the Authority under regulation 10 to supply by wholesale a CTGT product until the notice is refused, withdrawn or cancelled;\n[Deleted by S 437/2023 wef 26/06/2023]\n“licensable healthcare service” has the meaning given by section 3(1) of the Healthcare Services Act 2020;\n[S 437/2023 wef 26/06/2023]\n“licensed importer” means the holder of an importer’s licence;\n“licensed manufacturer” means the holder of a manufacturer’s licence;\n“licensed retail pharmacy” means the premises specified in a pharmacy licence;\n“licensed wholesaler” means the holder of a wholesaler’s licence;\n“licensee”, in relation to a CTGT product, means a licensed manufacturer, licensed importer or licensed wholesaler;\n[Deleted by S 437/2023 wef 26/06/2023]\n“minimal manipulation” means processing a cell or tissue (but not a gene) by way of any process so that the biological characteristics or functions of the cell or the structural properties of the tissue (as the case may be) are not altered, such as by —\n(a)cutting or sizing;\n(b)grinding;\n(c)shaping;\n(d)centrifugation;\n(e)soaking in an antibiotic or antimicrobial solution;\n(f)sterilization or irradiation;\n(g)cell separation, concentration or purification;\n(h)filtration;\n(i)lyophilisation;\n(j)freezing;\n(k)cryopreservation; or\n(l)vitrification;\n“non‑clinical purpose” means any purpose not involving any application of a CTGT product on, or administration of a CTGT product to, humans;\n[Deleted by S 437/2023 wef 26/06/2023]\n[Deleted by S 801/2023 wef 18/12/2023]\n[Deleted by S 801/2023 wef 18/12/2023]\n“personnel”, in relation to a healthcare service licensee providing a licensable healthcare service, means any individual employed or engaged by the healthcare service licensee to assist the healthcare service licensee in providing the licensable healthcare service;\n[S 801/2023 wef 18/12/2023]\n“proper handling and storage requirement”, in relation to an applicant for a licence connected with a CTGT product or a manufacturer or an importer of a CTGT product, means a requirement to provide and maintain, or ensure the provision and maintenance of, adequate and suitable staff, premises, equipment and facilities for the proper handling and storage of the CTGT product so as to prevent the deterioration of the CTGT product while it is in the ownership, possession or control of the applicant, manufacturer or importer;\n“proprietary name” means a word or words used in connection with the sale or supply of a CTGT product for the purpose of indicating that the CTGT product is the product of a particular person who manufactures, selects the name of, certifies or deals with the CTGT product, or offers it for sale or supply;\n“qualified practitioner” means —\n(a)a registered medical practitioner under the Medical Registration Act 1997; or\n[S 437/2023 wef 31/12/2021]\n(b)a registered dentist under the Dental Registration Act 1999 whose name appears in the first division of the Register of Dentists maintained and kept under section 13(1)(a) of that Act;\n[S 437/2023 wef 31/12/2021]\n“relevant fee” means a fee specified in the First Schedule to the Health Products (Fees) Regulations 2022 (G.N. No. S 450/2022);\n[S 451/2022 wef 01/07/2022]\n“remote service kiosk” has the meaning given by regulation 2(1) of the Healthcare Services (Outpatient Medical Service) Regulations 2023 (G.N. No. S 410/2023);\n[S 437/2023 wef 26/06/2023]\n“specified premises” means —\n(a)in the case of a licence — the premises specified in the licence; or\n(b)in the case of a notice given to the Authority under regulation 4, 7 or 10 — the premises specified in the notice;\n“specified publication” means any of the following:\n(a)the British Pharmacopoeia;\n(b)the European Pharmacopoeia;\n(c)the United States Pharmacopoeia and the National Formulary;\n(d)any other publication that is specified on the Authority’s website;\n“supply by retail sale” means sale by retail and includes exposure or display as an invitation to treat;\n“temporary premises” means any premises other than permanent premises;\n[S 437/2023 wef 26/06/2023]\n“traceability”, in relation to a CTGT product, means —\n(a)the ability to locate and identify the CTGT product and its starting and raw materials at any point in time during its manufacture, import, supply or administration, including the sourcing, procurement, processing, testing, packaging, storage, transport, delivery and disposal of the CTGT product;\n(b)the ability to identify the donor and tissue bank, blood bank or manufacturing facility that receives, processes or stores any cells or tissue that the CTGT product contains;\n(c)the ability to locate and identify all data relating to any raw material or other substance that comes into contact with any cells or tissue that the CTGT product contains; and\n(d)the ability to identify the person who is —\n(i)administered, dispensed or supplied the CTGT product at a licensed retail pharmacy or any approved permanent premises, temporary premises or approved conveyance of a healthcare service licensee; or\n[S 801/2023 wef 18/12/2023]\n(ii)dispensed or supplied the CTGT product by a healthcare service licensee using a remote service kiosk or by delivery to the person;\n[S 437/2023 wef 26/06/2023]\n“trade description” means any description, statement or indication which, directly or indirectly and by any means given, relates to any of the following matters in respect of a CTGT product:\n(a)the quantity, liquid volume or weight of the CTGT product;\n(b)the method of manufacture, production or processing of the CTGT product;\n(c)the characteristics, formulation or specifications of the CTGT product;\n(d)the fitness for purpose (including expiry date), dosage strength or intended purpose of the CTGT product;\n(e)any physical characteristics or presentation of the CTGT product not mentioned in paragraphs (a) to (d);\n(f)the testing of the CTGT product by any person and the results of the test;\n(g)the approval of the CTGT product by any person or its conformity with a product description approved by any person;\n(h)the place or date of manufacture, production or processing of the CTGT product;\n(i)the name of the person who manufactured, produced or processed the CTGT product.\n(2) For the purposes of these Regulations, a prescription of a CTGT product is valid only if the prescription —\n(a)is in writing and signed by a qualified practitioner; and\n(b)contains all the following particulars:\n(i)the date of the prescription;\n(ii)the name and address of the qualified practitioner giving the prescription;\n(iii)the name, identity card or other identification document number, and contact details, of the patient to whom the prescription relates;\n(iv)the name and total amount of the prescribed CTGT product to be supplied to, and the dose to be taken by, the patient;\n(v)where the qualified practitioner giving the prescription intends for the prescription to be repeated, an indication of the number of times, and the time period between which, the prescribed CTGT product may be supplied;\n(vi)where the prescription is given by a registered dentist, a declaration by the registered dentist that the prescription is for dental treatment only."
+   }
+  },
+  {
+   "id": "SG-H1688-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Clinical research CTGT products excluded"
+   },
+   "text": {
+    "en": "3. These Regulations do not apply to or in relation to any CTGT product that is clinical research material as defined in regulation 2(1) of the Health Products (Clinical Research Materials) Regulations 2016 (G.N. No. S 332/2016)."
+   }
+  },
+  {
+   "id": "SG-H1688-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 CTGT PRODUCT MANUFACTURE — LICENSING AND EXCEPTIONS"
+   },
+   "heading": {
+    "en": "Manufacturing minimally manipulated CTGT products"
+   },
+   "text": {
+    "en": "4.—(1) For the purposes of section 12(1) of the Act, a manufacturer’s licence is not required for the manufacture of a CTGT product that is a result of only minimal manipulation of cell or tissue if carried out by a person —\n(a)who is the holder of a manufacturer’s licence for any CTGT product;\n(b)who is manufacturing the CTGT product not for any supply to the public but solely for —\n(i)the purpose of scientific education or research and development; or\n(ii)a non‑clinical purpose; or\n(c)who gives or has given notice to the Authority in accordance with paragraph (2) in relation to a CTGT product that is a result of only minimal manipulation of cell or tissue and that notice is not refused, withdrawn or cancelled under these Regulations.\n(2) The notice required by paragraph (1)(c) for a CTGT product that is a result of only minimal manipulation of cell or tissue must —\n(a)be in the form and manner specified on the Authority’s website;\n(b)be accompanied by the following information in writing:\n(i)the particulars of the person giving the notice as required by the Authority;\n(ii)a description of the CTGT product to which the notice relates;\n(iii)a statement of the manufacture involved;\n(iv)the premises where the manufacture is to be carried out; and\n(c)be accompanied by the relevant fee.\n[S 451/2022 wef 01/07/2022]"
+   }
+  },
+  {
+   "id": "SG-H1688-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 CTGT PRODUCT MANUFACTURE — LICENSING AND EXCEPTIONS"
+   },
+   "heading": {
+    "en": "Manufacturing other CTGT products for research or non‑clinical purposes"
+   },
+   "text": {
+    "en": "5.—(1) For the purposes of section 12(1) of the Act, a manufacturer’s licence is not required for the manufacture of a CTGT product that is not a result of only minimal manipulation of cell or tissue if that product —\n(a)is not manufactured for any supply to the public; and\n(b)is manufactured solely for —\n(i)the purpose of scientific education or research and development; or\n(ii)a non‑clinical purpose.\n(2) A manufacturer of a CTGT product that is mentioned in paragraph (1)(a) or (b) is not required to maintain records of manufacture in compliance with regulation 32."
+   }
+  },
+  {
+   "id": "SG-H1688-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 CTGT PRODUCT MANUFACTURE — LICENSING AND EXCEPTIONS"
+   },
+   "heading": {
+    "en": "Requirements for manufacturer’s licence for CTGT products"
+   },
+   "text": {
+    "en": "6. For the purposes of section 24(2)(a)(i) of the Act, an applicant for a manufacturer’s licence for the manufacture of a CTGT product that is not a result of only minimal manipulation of cell or tissue must be able —\n(a)to provide and maintain, or ensure the provision and maintenance of, the staff, premises, equipment and facilities that are necessary for all of the following:\n(i)carrying out the manufacture of the CTGT product to be authorised by the licence;\n(ii)the proper handling, storage and distribution of the CTGT product so as to prevent the deterioration of the CTGT product while it is in the applicant’s ownership, possession or control;\n(b)to conduct all manufacturing operations in such a way as to ensure that the CTGT product is of the correct identity and conforms with the applicable standards of quality for that CTGT product; and\n(c)to comply with the Good Manufacturing Practice Standard in relation to the manufacture of the CTGT product."
+   }
+  },
+  {
+   "id": "SG-H1688-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 CTGT PRODUCT IMPORT — LICENSING AND EXCEPTIONS"
+   },
+   "heading": {
+    "en": "Importing minimally manipulated CTGT products"
+   },
+   "text": {
+    "en": "7.—(1) For the purposes of section 13(1) of the Act, an importer’s licence is not required for the import of a CTGT product that is a result of only minimal manipulation of cell or tissue if carried out by a person —\n(a)who is the holder of an importer’s licence or a manufacturer’s licence for any CTGT product;\n(b)who is the holder of a wholesaler’s licence for any CTGT product; or\n(c)who gives or has given notice to the Authority in accordance with paragraph (2) in relation to a CTGT product that is a result of only minimal manipulation of cell or tissue and that notice is not refused, withdrawn or cancelled under these Regulations.\n(2) The notice required by paragraph (1)(c) for a CTGT product that is a result of only minimal manipulation of cell or tissue must —\n(a)be in the form and manner specified on the Authority’s website;\n(b)be accompanied by the following information in writing:\n(i)the particulars of the person giving the notice as required by the Authority;\n(ii)a description of the CTGT product to which the notice relates;\n(iii)a statement of the import involved;\n(iv)the premises where the CTGT product is to be stored; and\n(c)be accompanied by the relevant fee.\n[S 451/2022 wef 01/07/2022]"
+   }
+  },
+  {
+   "id": "SG-H1688-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 CTGT PRODUCT IMPORT — LICENSING AND EXCEPTIONS"
+   },
+   "heading": {
+    "en": "Importing to manufacture CTGT products"
+   },
+   "text": {
+    "en": "8. For the purposes of section 13(1) of the Act, an importer’s licence is not required for the import of a health product where —\n(a)the health product is required for the purpose of carrying out the manufacture of a CTGT product; and\n(b)the import is carried out by a person who is the holder of a manufacturer’s licence for that CTGT product or a known manufacturer for the manufacture of that CTGT product."
+   }
+  },
+  {
+   "id": "SG-H1688-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 CTGT PRODUCT IMPORT — LICENSING AND EXCEPTIONS"
+   },
+   "heading": {
+    "en": "Requirements for importer’s licence for CTGT products"
+   },
+   "text": {
+    "en": "9. For the purposes of section 24(2)(a)(i) of the Act, the applicant for an importer’s licence for the import of a CTGT product that is not a result of only minimal manipulation of cell or tissue must be able —\n(a)to ensure that —\n(i)in the case of an unregistered CTGT product, the product is imported on behalf of a healthcare service licensee pursuant to a valid prescription given by a qualified practitioner (who is a personnel of the healthcare service licensee) for administration to a patient of the healthcare service licensee;\n[S 437/2023 wef 26/06/2023]\n[S 801/2023 wef 18/12/2023]\n(ii)in the case of an unregistered CTGT product, the product is imported —\n(A)by a healthcare service licensee on the written instructions of a qualified practitioner (who is a personnel of the healthcare service licensee) for administration to a patient of the healthcare service licensee; or\n[S 437/2023 wef 26/06/2023]\n[S 801/2023 wef 18/12/2023]\n(B)by the holder of a pharmacy licence that is for administration to a patient of a qualified practitioner pursuant to a valid prescription given by the qualified practitioner;\n(iii)the CTGT product is intended to be supplied solely for the purpose of scientific education or research and development, or for a non‑clinical purpose;\n(iv)the CTGT product is imported solely for the purpose of export;\n(v)the CTGT product is authorised for import by the registrant of the CTGT product; or\n(vi)the CTGT product is in all respects the same as a registered CTGT product, the registrant of which has not authorised the applicant to import that CTGT product;\n(b)to comply with the proper handling and storage requirement, if the CTGT product is imported in accordance with paragraph (a)(i), (iii), (iv), (v) or (vi); and\n(c)to comply with the requirements in the Authority’s Guidance Notes on Good Distribution Practice, if the CTGT product is imported in accordance with paragraph (a)(i), (v) or (vi)."
+   }
+  },
+  {
+   "id": "SG-H1688-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 4 CTGT PRODUCT SUPPLY — LICENSING AND EXCEPTIONS"
+   },
+   "heading": {
+    "en": "Supplying minimally manipulated CTGT products by wholesale"
+   },
+   "text": {
+    "en": "10.—(1) For the purposes of section 14(1) of the Act, a wholesaler’s licence is not required for the supply by wholesale of a CTGT product that is a result of only minimal manipulation of cell or tissue if the person supplying by wholesale —\n(a)is supplying the CTGT product not to the public but solely for —\n(i)the purpose of scientific education or research and development; or\n(ii)a non‑clinical purpose; or\n(b)gives notice to the Authority in accordance with paragraph (2) in relation to a CTGT product that is a result of only minimal manipulation of cell or tissue and that notice is not refused, withdrawn or cancelled under these Regulations.\n(2) The notice required by paragraph (1)(b) for a CTGT product that is a result of only minimal manipulation of cell or tissue must —\n(a)be in the form and manner specified on the Authority’s website;\n(b)be accompanied by the following information in writing:\n(i)the particulars of the person giving the notice as required by the Authority;\n(ii)a description of the CTGT product to be supplied by wholesale;\n(iii)a statement of the supply by wholesale involved;\n(iv)the premises where the CTGT product is to be stored; and\n(c)be accompanied by the relevant fee.\n[S 451/2022 wef 01/07/2022]\n(3) A licensed wholesaler of any CTGT product is not required to give notice to the Authority under paragraph (1)(b) to import or supply a CTGT product that is a result of only minimal manipulation of cell or tissue."
+   }
+  },
+  {
+   "id": "SG-H1688-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 4 CTGT PRODUCT SUPPLY — LICENSING AND EXCEPTIONS"
+   },
+   "heading": {
+    "en": "Wholesale supply of other CTGT products for research or non‑clinical purposes"
+   },
+   "text": {
+    "en": "11. For the purposes of section 14(1) of the Act, a wholesaler’s licence is not required for the supply by wholesale of a CTGT product that is not a result of only minimal manipulation of cell or tissue if that product is not supplied to the public but is supplied solely for —\n(a)the purpose of scientific education or research and development; or\n(b)a non‑clinical purpose."
+   }
+  },
+  {
+   "id": "SG-H1688-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 4 CTGT PRODUCT SUPPLY — LICENSING AND EXCEPTIONS"
+   },
+   "heading": {
+    "en": "Class 2 CTGT products transferred by healthcare service licensees"
+   },
+   "text": {
+    "en": "12.—(1) For the purposes of section 14(1) of the Act, a wholesaler’s licence is not required for the transfer of an unregistered Class 2 CTGT product under the following circumstances if the conditions in paragraph (2) are satisfied:\n(a)[Deleted by S 801/2023 wef 18/12/2023]\n(b)the transfer of the unregistered Class 2 CTGT product by a healthcare service licensee from any approved permanent premises, temporary premises or approved conveyance of the healthcare service licensee to —\n(i)[Deleted by S 801/2023 wef 18/12/2023]\n(ii)another approved permanent premises, temporary premises or approved conveyance of the healthcare service licensee; or\n(iii)any approved permanent premises, temporary premises or approved conveyance of another healthcare service licensee.\n(2) For the purposes of paragraph (1), the conditions are —\n(a)the unregistered Class 2 CTGT product is —\n(i)imported under regulation 7(1)(c) or 9(a)(i) or (ii) for a qualified practitioner to administer it to a patient; or\n(ii)manufactured for administration to a patient; and\n(b)the unregistered Class 2 CTGT product is intended for administration to a patient at the approved permanent premises, temporary premises or approved conveyance to which the unregistered Class 2 CTGT product is transferred.\n[S 437/2023 wef 26/06/2023]\n[S 801/2023 wef 18/12/2023]\n[S 801/2023 wef 18/12/2023]"
+   }
+  },
+  {
+   "id": "SG-H1688-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 4 CTGT PRODUCT SUPPLY — LICENSING AND EXCEPTIONS"
+   },
+   "heading": {
+    "en": "Wholesale supply of CTGT products imported solely for export"
+   },
+   "text": {
+    "en": "13. For the purposes of section 14(1) of the Act, a wholesaler’s licence is not required for the supply by wholesale —\n(a)of a CTGT product imported —\n(i)under the authority of an importer’s licence; and\n(ii)solely for the purpose of export; and\n(b)in accordance with the terms and conditions of the importer’s licence."
+   }
+  },
+  {
+   "id": "SG-H1688-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 4 CTGT PRODUCT SUPPLY — LICENSING AND EXCEPTIONS"
+   },
+   "heading": {
+    "en": "Wholesale supply of self‑manufactured CTGT products"
+   },
+   "text": {
+    "en": "14.—(1) For the purposes of section 14(1) of the Act, a wholesaler’s licence is not required for the supply by wholesale of a CTGT product by a licensed manufacturer or known manufacturer of that CTGT product, if that manufacturer complies with the requirements in paragraph (2).\n(2) A manufacturer mentioned in paragraph (1) must provide and maintain, or ensure the provision and maintenance of, the staff, premises, equipment and facilities for the proper handling, storage and distribution of the CTGT product that are necessary to prevent the deterioration of the CTGT product while it is in that manufacturer’s ownership, possession or control."
+   }
+  },
+  {
+   "id": "SG-H1688-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 4 CTGT PRODUCT SUPPLY — LICENSING AND EXCEPTIONS"
+   },
+   "heading": {
+    "en": "Prescribed exceptions"
+   },
+   "text": {
+    "en": "15.—(1) For the purposes of section 15(1) of the Act, the prescribed exceptions to the prohibition against the supply of an unregistered CTGT product are the following:\n(a)the supply of a CTGT product by a qualified practitioner to a patient of the qualified practitioner;\n(b)the supply of a CTGT product that —\n(i)is imported in accordance with regulation 9(a)(i) by a licensed importer; and\n(ii)is supplied by the licensed importer to a healthcare service licensee;\n[S 437/2023 wef 26/06/2023]\n[S 801/2023 wef 18/12/2023]\n(c)the supply of a CTGT product that —\n(i)is imported in accordance with regulation 7(1)(c) by a known importer that is also a healthcare service licensee; and\n[S 801/2023 wef 18/12/2023]\n(ii)is pursuant to the written instructions of a qualified practitioner who is a personnel of the healthcare service licensee, and is for administration to a patient of the healthcare service licensee;\n[S 437/2023 wef 26/06/2023]\n[S 801/2023 wef 18/12/2023]\n(d)the supply by a healthcare service licensee of a CTGT product that is imported in accordance with regulation 7(1)(c) or 9(a)(ii), to a patient of the healthcare service licensee;\n[S 437/2023 wef 26/06/2023]\n[S 801/2023 wef 18/12/2023]\n(e)the supply of a CTGT product that is imported in accordance with regulation 7(1)(c) or 9(a)(i) or (ii), and is supplied —\n(i)[Deleted by S 801/2023 wef 18/12/2023]\n(ii)by a healthcare service licensee from any approved permanent premises, temporary premises or approved conveyance of the healthcare service licensee to —\n(A)[Deleted by S 801/2023 wef 18/12/2023]\n(B)another approved permanent premises, temporary premises or approved conveyance of the healthcare service licensee; or\n(C)any approved permanent premises, temporary premises or approved conveyance of another healthcare service licensee;\n[S 437/2023 wef 26/06/2023]\n(ea)the supply of a CTGT product that —\n(i)is manufactured by a healthcare service licensee; and\n[S 801/2023 wef 18/12/2023]\n(ii)is for the administration to a patient of the healthcare service licensee, or another healthcare service licensee;\n[S 437/2023 wef 26/06/2023]\n[S 801/2023 wef 18/12/2023]\n(eb)[Deleted by S 801/2023 wef 18/12/2023]\n(ec)the supply by a healthcare service licensee of a CTGT product that is manufactured by the healthcare service licensee, to —\n(i)[Deleted by S 801/2023 wef 18/12/2023]\n(ii)any approved permanent premises, temporary premises or approved conveyance of the healthcare service licensee or another healthcare service licensee;\n[S 437/2023 wef 26/06/2023]\n(f)the supply in accordance with regulation 16 of a Class 1 CTGT product that is —\n(i)manufactured by a licensed manufacturer, or a known manufacturer who has given a notice to manufacture under regulation 4 that has not been refused, cancelled or withdrawn;\n(ii)imported by a licensed importer, or a known importer who has given a notice to import under regulation 7 that has not been refused, cancelled or withdrawn; or\n(iii)supplied by a licensed wholesaler, or a known wholesaler who has given notice to the Authority under regulation 10 to supply the CTGT product by wholesale and the notice has not been refused, cancelled or withdrawn;\n(g)the supply of a CTGT product for —\n(i)the purpose of scientific education or research and development; or\n(ii)a non‑clinical purpose,\nbut only if there is no supply of the CTGT product to the public;\n(h)the supply by wholesale of a CTGT product that is —\n(i)manufactured solely for export; or\n(ii)imported solely for re‑export.\n(2) For the purposes of paragraph (1)(f), a CTGT product is treated as a Class 1 CTGT product if it would have been so assigned had the CTGT product been registered."
+   }
+  },
+  {
+   "id": "SG-H1688-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 4 CTGT PRODUCT SUPPLY — LICENSING AND EXCEPTIONS"
+   },
+   "heading": {
+    "en": "Supply of Class 1 CTGT products"
+   },
+   "text": {
+    "en": "16.—(1) For the purposes of section 17(1) of the Act and without affecting regulation 38, a person who supplies in a series of supplies a Class 1 CTGT product in accordance with regulation 15(1)(a), (b), (c), (d), (e), (ea), (ec) or (f) must, before starting to supply that CTGT product —\n(a)give notice to the Authority in the form and manner specified on the Authority’s website of the supply of that CTGT product, and receive the Authority’s written acceptance of the notification;\n(b)provide the information to the Authority about that CTGT product that the Authority requires in the form and manner specified on the Authority’s website;\n(c)ensure, in relation to a CTGT product that is imported or obtained from a facility outside Singapore, that the facility is approved or licensed by the regulatory agency of the foreign jurisdiction, or accredited by an international accreditation body as specified by the Authority, to supply that CTGT product in that jurisdiction; and\n(d)ensure that the CTGT product is free from infectious agents.\n[S 437/2023 wef 26/06/2023]\n[S 801/2023 wef 18/12/2023]\n(2) The notice mentioned in paragraph (1)(a) must be accompanied by the relevant fee.\n[S 451/2022 wef 01/07/2022]\n(3) For the purposes of paragraph (1), a CTGT product is treated as a Class 1 CTGT product if it would have been so assigned had the CTGT product been registered."
+   }
+  },
+  {
+   "id": "SG-H1688-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 CTGT PRODUCT SUPPLY — LICENSING AND EXCEPTIONS"
+   },
+   "heading": {
+    "en": "Duty to obtain consent and provide information for supply of unregistered Class 2 CTGT products in certain circumstances"
+   },
+   "text": {
+    "en": "17.—(1) A person may only supply an unregistered Class 2 CTGT product under regulation 21 or 22 to a patient if the person obtains consent from the patient for the supply of that CTGT product to that patient in accordance with paragraph (2).\n(2) A patient’s consent mentioned in paragraph (1) may be obtained only after the patient has been informed of all of the following:\n(a)that the CTGT product to be supplied to the patient is not registered with or approved by the Authority;\n(b)that the safety, efficacy and quality of the CTGT product to be supplied to the patient has not been evaluated by the Authority."
+   }
+  },
+  {
+   "id": "SG-H1688-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 CTGT PRODUCT SUPPLY — LICENSING AND EXCEPTIONS"
+   },
+   "heading": {
+    "en": "Supply of CTGT products manufactured under agreement with licensed or known manufacturer"
+   },
+   "text": {
+    "en": "18.—(1) Without limiting any other provision in these Regulations, the prohibition in section 15(1) of the Act against the supply of a health product unless the health product is registered, does not apply to a CTGT product that is manufactured in accordance with paragraph (2) or (3) and is supplied in any of the following cases:\n(a)[Deleted by S 801/2023 wef 18/12/2023]\n(b)by a licensed manufacturer or known manufacturer to a healthcare service licensee for the use of the CTGT product by a patient of the healthcare service licensee;\n(c)[Deleted by S 801/2023 wef 18/12/2023]\n(d)by a healthcare service licensee for the use of the CTGT product on a patient of the healthcare service licensee.\n[S 437/2023 wef 26/06/2023]\n(2) For the purposes of paragraph (1), if the CTGT product is a result of only minimal manipulation of cell or tissue, the CTGT product must be manufactured under an agreement between a known manufacturer and the healthcare service licensee mentioned in paragraph (1)(b) or (d).\n[S 437/2023 wef 26/06/2023]\n[S 801/2023 wef 18/12/2023]\n(3) For the purposes of paragraph (1), if the CTGT product is not a result of only minimal manipulation of cell or tissue, the CTGT product must be manufactured —\n(a)under an agreement between a licensed manufacturer and the healthcare service licensee mentioned in paragraph (1)(b) or (d);\n[S 437/2023 wef 26/06/2023]\n[S 801/2023 wef 18/12/2023]\n(b)in accordance with its formulation and specifications, and the written instructions of a qualified practitioner, who is a personnel of the healthcare service licensee mentioned in paragraph (1)(b) or (d), and for the use solely by or in connection with the patient mentioned in that paragraph;\n[S 437/2023 wef 26/06/2023]\n[S 801/2023 wef 18/12/2023]\n(c)in specified premises or any other premises that the Authority approves; and\n(d)in accordance with the terms and conditions specified in the manufacturer’s licence held by the licensed manufacturer.\n(4) Paragraph (3)(b) does not apply to prohibit the supply of an unregistered CTGT product to any patient of the healthcare service licensee mentioned in paragraph (1)(b) or (d), if the requirements in paragraph (3)(a), (c) and (d) are satisfied and the manufacture consists only of changing the outer package or other packaging in which the container is further enclosed for the purpose of dispensing the CTGT product.\n[S 437/2023 wef 26/06/2023]\n[S 801/2023 wef 18/12/2023]"
+   }
+  },
+  {
+   "id": "SG-H1688-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 CTGT PRODUCT SUPPLY — LICENSING AND EXCEPTIONS"
+   },
+   "heading": {
+    "en": "Requirements for wholesaler’s licence for CTGT products"
+   },
+   "text": {
+    "en": "19. For the purposes of section 24(2)(a)(i) of the Act, an applicant for a wholesaler’s licence for the supply by wholesale of a CTGT product that is not a result of only minimal manipulation of cell or tissue must be able —\n(a)to provide and maintain, or ensure the provision and maintenance of, the staff, premises, equipment and facilities that are necessary for the proper handling, storage and distribution of the CTGT product to prevent the deterioration of the CTGT product while it is in the applicant’s ownership, possession or control; and\n(b)to comply with the requirements in the Authority’s Guidance Notes on Good Distribution Practice."
+   }
+  },
+  {
+   "id": "SG-H1688-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 5 SUPPLY REQUIREMENTS"
+   },
+   "heading": {
+    "en": "Wholesale supply of Class 2 CTGT products"
+   },
+   "text": {
+    "en": "20.—(1) For the purposes of section 17(1) of the Act, the supply by wholesale of a Class 2 CTGT product by a person to another (called in this paragraph the recipient) must be in accordance with the following requirements:\n(a)there is a written order, signed by the recipient —\n(i)stating the recipient’s name and address, trade, business or profession, and the name and total quantity of the Class 2 CTGT product required for supply to the recipient; and\n(ii)that is not cancelled before the supply is carried out;\n(b)before each supply is carried out, the person must be satisfied that the recipient carries on the trade, business or profession stated in the order in sub‑paragraph (a) and that the trade, business or profession is one in which the Class 2 CTGT product is used;\n(c)after each supply is carried out, the person must insert in the appropriate entry in the record of supply prescribed by regulation 33(2)(b), a reference number by which the order can be identified.\n(2) Paragraph (1) does not apply to the supply by wholesale of a Class 2 CTGT product under regulation 12 or 18."
+   }
+  },
+  {
+   "id": "SG-H1688-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 5 SUPPLY REQUIREMENTS"
+   },
+   "heading": {
+    "en": "Supply by retail sale of CTGT products"
+   },
+   "text": {
+    "en": "21. For the purposes of section 17(1) of the Act, and subject to regulation 17, a person must not supply by retail sale any CTGT product unless —\n(a)the supply is made at or from a licensed retail pharmacy in accordance with regulation 3(1) and (2) of the Health Products (Licensing of Retail Pharmacies) Regulations 2016 (G.N. No. S 330/2016);\n(b)[Deleted by S 801/2023 wef 18/12/2023]\n(ba)the supply is made by a healthcare service licensee to a patient of the healthcare service licensee, and in accordance with the written instructions of a qualified practitioner who is a personnel of the healthcare service licensee; or\n[S 437/2023 wef 26/06/2023]\n(c)the person is a qualified practitioner or a person acting in accordance with the oral or written instructions of a qualified practitioner, and the supply is made to a patient of the qualified practitioner."
+   }
+  },
+  {
+   "id": "SG-H1688-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 5 SUPPLY REQUIREMENTS"
+   },
+   "heading": {
+    "en": "Supply by administration of CTGT products"
+   },
+   "text": {
+    "en": "22. For the purposes of section 17(1) of the Act, and subject to regulation 17, a person must not administer or cause to be administered any CTGT product to a patient unless the person is a qualified practitioner or a person acting in accordance with the oral or written instructions of a qualified practitioner."
+   }
+  },
+  {
+   "id": "SG-H1688-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 5 SUPPLY REQUIREMENTS"
+   },
+   "heading": {
+    "en": "Records of supply of prescribed CTGT products"
+   },
+   "text": {
+    "en": "23.—(1) A supplier must, in respect of the supply by retail sale of any CTGT product prescribed by a qualified practitioner, keep at the premises where or from which the CTGT product is supplied a record, complying with paragraphs (2) and (3), of every such supply.\n(2) The record required under paragraph (1) must contain all the following particulars:\n(a)the date of supply;\n(b)the name, identity card or other identification document number, and contact details, of the person to whom the CTGT product is supplied;\n(c)the name of the CTGT product, being either the proprietary name or the appropriate non‑proprietary name, and the total amount supplied;\n(d)if the CTGT product is supplied by a qualified pharmacist or a person acting under the supervision of a qualified pharmacist, or at or from a licensed retail pharmacy, the name and address of the qualified practitioner who signed the prescription.\n(3) The record in paragraph (1) must —\n(a)be made on the day on which the CTGT product is supplied or, if that is not reasonably practicable, within the next day even if a public holiday; and\n(b)be kept for a period of at least 30 years after the expiry date of the CTGT product or any other shorter period that the Authority allows in a particular case.\n(4) A supplier must make available for inspection by the Authority at all reasonable times any record made under paragraph (1)."
+   }
+  },
+  {
+   "id": "SG-H1688-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 6 PRESENTATION OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Trade descriptions"
+   },
+   "text": {
+    "en": "24.—(1) For the purposes of section 18(1) of the Act, the presentation of a CTGT product must comply with all the following requirements:\n(a)a trade description which is false or misleading must not be applied to the CTGT product;\n(b)a trade description which explicitly or implicitly suggests that the supply or use of the CTGT product is promoted or endorsed by the Authority, the Ministry of Health or the Health Promotion Board must not be applied to the CTGT product.\n(2) For the purposes of paragraph (1)(a), a trade description is false or misleading if —\n(a)it contains any false statement or information concerning the CTGT product; or\n(b)it is likely to create an erroneous impression regarding the formulation, specifications, quality, safety, efficacy or uses of the CTGT product.\n(3) For the purposes of paragraph (1), a person applies a trade description to a CTGT product if the person —\n(a)affixes or annexes the trade description to, or in any manner marks it on or incorporates it in —\n(i)the CTGT product; or\n(ii)any thing in or on the CTGT product or with which the CTGT product is supplied;\n(b)places the CTGT product in, on or with any thing which the trade description has been affixed or annexed to, marked on or incorporated in; or\n(c)makes any oral or written statement of the trade description, or uses the trade description in any other manner, which is likely to be understood as referring to the CTGT product.\n(4) A person supplying a CTGT product is taken to have applied a trade description to the CTGT product if —\n(a)the CTGT product is supplied pursuant to a request in which the trade description is used; and\n(b)it is reasonable in the circumstances to infer that any CTGT product so supplied will correspond to that trade description."
+   }
+  },
+  {
+   "id": "SG-H1688-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 6 PRESENTATION OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Information to be provided with CTGT products"
+   },
+   "text": {
+    "en": "25.—(1) In addition to regulation 24, a CTGT product must, for the purposes of section 18(1) of the Act, be accompanied by all the following information (where applicable) when it is supplied:\n(a)the name of the CTGT product, being the proprietary name and the appropriate non‑proprietary name;\n(b)the qualitative and quantitative description of any active substance in the CTGT product;\n(c)an appropriate control number, such as a serial number, batch number or lot number;\n(d)the expiry date of the CTGT product in day (if applicable), month and year format that is stated in a manner that avoids any confusion as to which is the day (if applicable), which is the month and which is the year;\n(e)where the CTGT product is registered, the registration number assigned to the registered CTGT product by the Authority;\n(f)the conditions under which the CTGT product must be stored;\n(g)in relation to an autologous CTGT product, the unique patient identifier and the words “for autologous use only” or similar wordings;\n(h)the list of excipients, including preservative systems, for the CTGT product;\n(i)any warning that is necessary for the CTGT product;\n(j)any precaution relating to the disposal of any unused CTGT product or any waste derived from the CTGT product (where appropriate) and any available collection system for the unused CTGT product or waste;\n(k)the name and address of the registrant or the manufacturer, as the case may be.\n(2) All information accompanying the CTGT product mentioned in paragraph (1) —\n(a)must be provided in English; and\n(b)must be legible and indelible.\n(3) This regulation does not apply to supplying a CTGT product by way of dispensing and in accordance with regulation 26."
+   }
+  },
+  {
+   "id": "SG-H1688-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 6 PRESENTATION OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Supply by dispensing CTGT products"
+   },
+   "text": {
+    "en": "26.—(1) For the purposes of section 18(1) of the Act, a relevant person may dispense a CTGT product only if the outer package or container of the CTGT product is labelled with all the following information (where applicable) in English:\n(a)the name of the person to whom the CTGT product is to be administered;\n(b)where the CTGT product is supplied or dispensed —\n(i)at a licensed retail pharmacy — the name, address and any identification number or logo of the licensed retail pharmacy;\n[S 801/2023 wef 18/12/2023]\n(ii)at any approved permanent premises by a healthcare service licensee under a business name — the business name, address of the approved permanent premises and any identification number or logo of the healthcare service licensee;\n(iii)at any temporary premises or approved conveyance by a healthcare service licensee under a business name —\n(A)if the healthcare service licensee is also approved under the Healthcare Services Act 2020 to provide the licensable healthcare service at any permanent premises under that business name — the business name, address of the approved permanent premises and any identification number or logo of the healthcare service licensee; or\n(B)in any other case — the business name, address and any identification number or logo of the healthcare service licensee; or\n(iv)by a healthcare service licensee using a remote service kiosk or by delivery under a business name —\n(A)if the healthcare service licensee is also approved under the Healthcare Services Act 2020 to provide the licensable healthcare service at any permanent premises under that business name — the business name, address of the approved permanent premises and any identification number or logo of the healthcare service licensee; or\n(B)in any other case — the business name, address and any identification number or logo of the healthcare service licensee;\n[S 437/2023 wef 26/06/2023]\n(c)the date that the CTGT product is dispensed;\n(d)the directions for the use of the CTGT product;\n(e)the name of the CTGT product, being either the proprietary name or the appropriate non‑proprietary name;\n(f)the qualitative and quantitative description of any active substance in the CTGT product;\n(g)the conditions under which the CTGT product is to be stored;\n(h)the appropriate control number, such as a serial number, batch number or lot number;\n(i)the expiry date of the CTGT product in day (if applicable), month and year format that is stated in a manner that avoids any confusion as to which is the day (if applicable), which is the month and which is the year;\n(j)in relation to an autologous CTGT product, the unique patient identifier and the words “for autologous use only” or similar wordings;\n(k)the list of excipients, including preservative systems, for the CTGT product;\n(l)any warning that is necessary for the CTGT product;\n(m)any precaution relating to the disposal of any unused CTGT product or any waste derived from the CTGT product (where appropriate) and any available collection system for the unused CTGT product or waste.\n(2) A CTGT product may be dispensed only in accordance with the following requirements:\n(a)where the qualified practitioner giving the prescription does not specify that the prescription is to be repeated, the relevant person dispensing the CTGT product must —\n(i)when dispensing, mark the prescription in a manner so as to permanently attach the person’s name and address and the dispensing date to the prescription; and\n(ii)retain the prescription for a period of at least 2 years after dispensing the CTGT product;\n(b)where the qualified practitioner giving the prescription specifies that the prescription may be repeated, the relevant person dispensing the CTGT product —\n(i)must not dispense more than the total number of times specified on the prescription;\n(ii)when dispensing, must mark the prescription in such a manner as to permanently attach the person’s name and address and the dispensing date to the prescription; and\n(iii)must retain the prescription for a period of at least 2 years after dispensing the CTGT product for the last time.\n(3) In this regulation, “relevant person” means a qualified practitioner or a person acting under the supervision of a qualified practitioner."
+   }
+  },
+  {
+   "id": "SG-H1688-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 6 PRESENTATION OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Re‑labelling of unregistered Class 2 CTGT products without manufacturer’s licence"
+   },
+   "text": {
+    "en": "27. Without affecting regulation 25, a person who imports, or supplies by wholesale, any unregistered Class 2 CTGT product, at the request of a qualified practitioner for the use of a patient of the qualified practitioner, may attach a different label to that CTGT product without holding a manufacturer’s licence."
+   }
+  },
+  {
+   "id": "SG-H1688-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 6 PRESENTATION OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Corrective measures in relation to contravening trade descriptions or failure to provide prescribed information"
+   },
+   "text": {
+    "en": "28.—(1) Where any manufacturer, importer, supplier or registrant of a CTGT product has applied a trade description in contravention of regulation 24, the manufacturer, importer, supplier or registrant must, upon receiving an order from the Authority, do one or more of the following as specified in the order:\n(a)stop disseminating, publishing or using the trade description with immediate effect;\n(b)stop applying the trade description to the CTGT product, or stop supplying the CTGT product applied with the trade description, with immediate effect;\n(c)take any measures that may be reasonable and necessary in the circumstances to discontinue or remove any trade description that may already have been applied, disseminated, published or used;\n(d)apply, disseminate or publish a corrective trade description in the manner and containing the information that the Authority requires.\n(2) Where any manufacturer, importer, supplier or registrant of a CTGT product fails to provide any information required by regulation 25 to accompany the supply of the CTGT product, the manufacturer, importer, supplier or registrant must, upon receiving an order from the Authority, take the corrective measures that the Authority requires in the order, which may include any of the following:\n(a)stop supplying the CTGT product with immediate effect;\n(b)take any measures that may be reasonable and necessary in the circumstances to ensure that the CTGT product is only supplied with the required information.\n(3) A person to whom an order under paragraph (1) or (2) is directed must comply with the order at the person’s own cost and within the time specified in the order or, if no time is specified in the order, within a reasonable time after the date of the order.\n(4) A person who fails to comply with paragraph (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.\n(5) Without affecting paragraph (4), the Authority may take any steps that the Authority thinks reasonable and necessary to implement the requirements of an order directed to any person under paragraph (1) or (2), and recover any costs and expenses reasonably incurred by the Authority in so doing from the person."
+   }
+  },
+  {
+   "id": "SG-H1688-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 7 REGISTRATION OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Requirements for registration"
+   },
+   "text": {
+    "en": "29. For the purposes of section 30(2)(a)(iii) of the Act, the Authority may, after carrying out an evaluation under section 33 of the Act, register a Class 2 CTGT product, if the Authority is satisfied —\n(a)that the overall intended benefits to a patient to whom the CTGT product is administered outweigh the overall risks associated with the administration of the CTGT product; and\n(b)based on the formulation, manufacturing process controls, specifications and shelf life of the CTGT product, and the stability of the CTGT product under the recommended storage conditions, that the CTGT product is suitable for its intended purpose and that any risk associated with its administration is minimised."
+   }
+  },
+  {
+   "id": "SG-H1688-A29.001",
+   "no": 29.001,
+   "noLabel": {
+    "en": "29A."
+   },
+   "chapter": {
+    "en": "PART 7 REGISTRATION OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Prescribed time for cancellation of registration of CTGT product for non-payment of retention fee"
+   },
+   "text": {
+    "en": "29A. For the purposes of section 37(2) of the Act, the prescribed time is 60 days after the anniversary of the date of the registration of the CTGT product.\n[S 451/2022 wef 01/07/2022]"
+   }
+  },
+  {
+   "id": "SG-H1688-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 7 REGISTRATION OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Disclosure of information on applications for registration"
+   },
+   "text": {
+    "en": "30. For the purposes of section 66(2)(d) of the Act, the Authority may disclose, for the information of the public and in the manner determined by the Authority, any particulars of applications for the registration of CTGT products which it receives that it determines, but only if the particulars to be disclosed under this regulation exclude —\n(a)any trade secret; and\n(b)any information that has commercial value that would be, or would be likely to be, diminished by the disclosure."
+   }
+  },
+  {
+   "id": "SG-H1688-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Routine inspections, etc."
+   },
+   "text": {
+    "en": "31.—(1) An enforcement officer may conduct routine inspections of —\n(a)any premises that are used for the manufacture, supply or storage of CTGT products; and\n(b)any conveyance that is being used for the transport of CTGT products.\n(2) An enforcement officer conducting a routine inspection under paragraph (1) may —\n(a)require any person having possession or control of any CTGT product that is found during the inspection to provide, without charge, a sample of that CTGT product for the Authority’s examination; and\n(b)take or cause to be taken any photograph of —\n(i)the premises or conveyance mentioned in paragraph (1); or\n(ii)any property or material found on the premises or in the conveyance."
+   }
+  },
+  {
+   "id": "SG-H1688-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Duty to maintain records of manufacture"
+   },
+   "text": {
+    "en": "32.—(1) Subject to paragraph (5), a manufacturer of a CTGT product must maintain records of —\n(a)any information relating to the CTGT product and its manufacture that the Authority specifies on the Authority’s website or, if the manufacturer is the holder of a manufacturer’s licence, in the manufacturer’s licence; and\n(b)the manufacture of each batch of the CTGT product and of the tests carried out on each batch, in the manner specified on the Authority’s website or in the relevant licence issued by the Authority, if applicable.\n(2) The manufacturer must maintain for any CTGT product the records mentioned in paragraph (1) —\n(a)where the records do not relate to traceability, for the longer of the following periods:\n(i)one year after the expiry date of the CTGT product;\n(ii)5 years after the date of manufacture of the CTGT product; and\n(b)where the records relate to traceability, at least 30 years after the expiry date of the CTGT product or any other shorter period that the Authority allows in a particular case.\n(3) A manufacturer of a CTGT product who fails to comply with paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.\n(4) A person who, in compliance or purported compliance with paragraph (1), provides the Authority or an enforcement officer with any record which the person knows is false or misleading in a material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.\n(5) This regulation does not apply to a manufacturer of a CTGT product who is excepted from the requirement to have a manufacturer’s licence because of regulation 4(1)(b) or 5."
+   }
+  },
+  {
+   "id": "SG-H1688-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Duty to maintain records of receipt and supply"
+   },
+   "text": {
+    "en": "33.—(1) Paragraphs (2) and (3) apply to a person (P) who is —\n(a)a manufacturer, an importer, a wholesaler or a registrant of a CTGT product; or\n(b)the supplier of a CTGT product in accordance with regulation 12 or 15(1)(a), (b), (c), (ea) or (ec).\n[S 437/2023 wef 26/06/2023]\n[S 801/2023 wef 18/12/2023]\n(2) P must —\n(a)if P is not the manufacturer of the CTGT product, maintain a record of every receipt by P of the CTGT product;\n(b)maintain a record of every supply by P of the CTGT product; and\n(c)produce for inspection by the Authority or an enforcement officer the record of every receipt or supply as and when required by the Authority or enforcement officer.\n(3) P must ensure that every record mentioned in paragraph (2) —\n(a)contains, in relation to each receipt by P of the CTGT product, all the following information:\n(i)the proprietary name or appropriate non‑proprietary name of the CTGT product, if the CTGT product is supplied by a manufacturer, an importer, a wholesaler or a registrant of a CTGT product, as the case may be;\n(ii)the date on which the CTGT product is received;\n(iii)the name and address of the person from whom the CTGT product is received;\n(iv)the quantity of the CTGT product received;\n(v)the identification number (including the control number, lot number, batch number or serial number) of the CTGT product received;\n(b)contains, in relation to each supply by P of the CTGT product, all the following information:\n(i)the proprietary name or appropriate non‑proprietary name of the CTGT product;\n(ii)the date on which the CTGT product is supplied;\n(iii)the name and address of the person to whom the CTGT product is supplied;\n(iv)the quantity of the CTGT product supplied;\n(v)the identification number (including the control number, lot number, batch number or serial number) of the CTGT product supplied; and\n(c)is retained for at least 30 years after the expiry date of the CTGT product or any other shorter period that the Authority allows in a particular case.\n(4) A person who fails to comply with paragraph (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.\n(5) A person who, in compliance or purported compliance with paragraph (2) or (3), provides the Authority or an enforcement officer with any record which the person knows is false or misleading in a material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H1688-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Duty to maintain system of traceability"
+   },
+   "text": {
+    "en": "34.—(1) Every manufacturer, importer, supplier or registrant of a CTGT product must establish and maintain a system of traceability that complies with paragraph (2).\n(2) The system mentioned in paragraph (1) must at the minimum enable the traceability of the CTGT product and its starting and raw materials, including all substances that may come into contact with the cells or tissue it contains during any of the following processes:\n(a)sourcing;\n(b)procurement;\n(c)processing;\n(d)testing;\n(e)packaging;\n(f)storage;\n(g)transport;\n(h)delivery to the licensed retail pharmacy or the approved permanent premises, temporary premises, approved conveyance or remote service kiosk of a healthcare service licensee (as the case may be), where the CTGT product is used, administered, supplied or disposed of, as the case may be.\n[S 437/2023 wef 26/06/2023]\n[S 801/2023 wef 18/12/2023]\n(3) Every supplier must ensure that a system of traceability is in place and maintained at or from the licensed retail pharmacy or the approved permanent premises, temporary premises, approved conveyance or remote service kiosk of a healthcare service licensee to which the supplier supplies a CTGT product, in order that the CTGT product administered or supplied may be linked to the patient who received it, and vice versa.\n[S 437/2023 wef 26/06/2023]\n[S 801/2023 wef 18/12/2023]\n(4) Every manufacturer, importer, supplier or registrant mentioned in paragraphs (1) and (3) must keep all data obtained from the system of traceability for at least 30 years after the expiry date of the CTGT product or any other shorter period that the Authority allows in a particular case.\n(5) A person who fails to comply with paragraph (1), (2), (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.\n(6) A person who, in compliance or purported compliance with paragraph (1), (2), (3) or (4), provides the Authority or an enforcement officer with any record which the person knows is false or misleading shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H1688-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Duty to maintain records of defects and adverse effects"
+   },
+   "text": {
+    "en": "35.—(1) Every manufacturer, importer or registrant of a CTGT product must —\n(a)maintain a record of every event or other occurrence that reveals any defect in the CTGT product or that concerns any adverse effect arising from the administration of the CTGT product; and\n(b)produce that record for inspection by the Authority or an enforcement officer as and when required by the Authority or enforcement officer.\n(2) A person mentioned in paragraph (1) must ensure that every record mentioned in that paragraph —\n(a)contains all the following information:\n(i)the proprietary name or appropriate non‑proprietary name of the CTGT product which is defective or of which an adverse effect has arisen from its administration;\n(ii)the date on which the person first became aware of the event or occurrence;\n(iii)the identification number or mark (including the control number, lot number, batch number or serial number) of the CTGT product;\n(iv)the nature of the defect or adverse effect;\n(v)any other information that the Authority specifies in writing; and\n(b)is retained for at least 2 years after the expiry date of the CTGT product.\n(3) A person who fails to comply with paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.\n(4) A person who, in compliance or purported compliance with paragraph (1) or (2), provides the Authority or an enforcement officer with any record which the person knows is false or misleading in a material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H1688-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Duty to report defects and adverse effects"
+   },
+   "text": {
+    "en": "36.—(1) For the purposes of section 42(1)(a) of the Act, every manufacturer, importer, supplier or registrant of a CTGT product must report any defect in the CTGT product to the Authority within the following period after the manufacturer, importer, supplier or registrant (as the case may be) first becomes aware of the defect:\n(a)if the defect represents a serious threat to persons or public health — within 48 hours;\n(b)in all other cases — within 15 days.\n(2) For the purposes of section 42(1)(b) of the Act, every manufacturer, importer, supplier or registrant of a CTGT product must, upon becoming aware of any serious adverse reaction arising from the administration of the CTGT product, report the serious adverse reaction to the Authority immediately, but in any case no later than 15 days after the manufacturer, importer, supplier or registrant first becomes aware of the serious adverse reaction.\n(3) In this regulation, “serious adverse reaction” means an adverse effect that is unintended and occurs in association with the administration of a CTGT product in humans, and that —\n(a)may result in a person’s death;\n(b)may threaten a person’s life;\n(c)results in a person being hospitalised or prolongs a person’s existing stay in hospital;\n(d)results in a person’s persistent or significant disability or incapacity;\n(e)results in a congenital anomaly or birth defect; or\n(f)is judged to be medically important even though the effect might not be immediately life‑threatening or result in death or hospitalisation, but may jeopardise the person’s health or may require intervention to prevent the person’s death or one of the other outcomes mentioned in sub‑paragraphs (c), (d) and (e)."
+   }
+  },
+  {
+   "id": "SG-H1688-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Duty to notify Authority concerning recall"
+   },
+   "text": {
+    "en": "37.—(1) For the purposes of section 44(1) of the Act, every manufacturer, importer, supplier or registrant of a CTGT product who recalls or intends to recall a CTGT product must immediately, but in any case no later than 24 hours before the start of the recall or intended recall, notify the Authority of, and the reasons for, the recall or the intended recall.\n(2) The notice in paragraph (1) must be made in the form and manner specified on the Authority’s website.\n(3) Where the Authority has been notified of the recall or the intended recall of a CTGT product under paragraph (1), the Authority may by notice require the manufacturer, importer, supplier or registrant of the CTGT product to do either or both of the following:\n(a)investigate the matter occasioning the recall of the CTGT product and provide a report of the findings of the investigation to the Authority;\n(b)take any other measures that the Authority thinks necessary.\n(4) A person to whom a notice in paragraph (3) is given must comply with the notice at the person’s own cost and within the time specified in the notice or, if no time is specified in the notice, within a reasonable time after the date of the notice.\n(5) A person who fails to comply with paragraph (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H1688-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Duty of supplier of unregistered Class 1 CTGT product to provide information"
+   },
+   "text": {
+    "en": "38. Where a CTGT product would have been assigned to Class 1 had it been registered and the CTGT product is supplied without being registered in accordance with regulation 18, the Authority may, under section 41(1) of the Act, by notice, require the supplier of the CTGT product to provide to the Authority, within the time specified in the notice, the name and address of the manufacturer, importer or wholesaler (as the case may be), from whom the supplier obtained the CTGT product."
+   }
+  },
+  {
+   "id": "SG-H1688-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Duty of licensed or known manufacturer"
+   },
+   "text": {
+    "en": "39.—(1) Without affecting any other provision in this Part, a licensed manufacturer or a known manufacturer of a CTGT product —\n(a)must ensure, and maintain objective evidence to establish, that the manufacture of the CTGT product complies with the following standards:\n(i)in the case of a known manufacturer — Good Tissue Practice;\n(ii)in the case of a licensed manufacturer — Good Manufacturing Practice Standard;\n(b)must provide and maintain, or ensure the provision and maintenance of, the staff, premises, equipment and facilities that are necessary for carrying out those stages of the manufacture of the CTGT product that are undertaken by the manufacturer;\n(c)must not carry out any stages of manufacture of the CTGT product in any premises that are not specified premises;\n(d)must provide and maintain, or ensure the provision and maintenance of, the staff, premises, equipment and facilities for the handling, storage and distribution of the CTGT product that are necessary to prevent the deterioration of the CTGT product while it is in the manufacturer’s ownership, possession or control;\n(e)must only use the specified premises, or any other premises that the Authority approves, for handling or storing the CTGT product;\n(f)must carry out, or arrange for a testing laboratory to carry out, tests on the strength, quality and purity of the CTGT product to ensure that the standards of the CTGT product comply with any applicable standard set by the Authority for the CTGT product;\n(g)must conduct all manufacturing operations in such a way as to ensure that the CTGT product is of the correct identity and conforms with the applicable standards of strength, quality and purity; and\n(h)must ensure that any tests for determining conformity with the applicable standards and specifications applying to the CTGT product are, unless otherwise provided in the licence, applied to samples taken after all manufacturing processes have been completed, or at any earlier stage in the manufacture that the Authority approves.\n(2) In this regulation, “testing laboratory” means —\n(a)in the case of a known manufacturer — a testing laboratory determined by the known manufacturer; or\n(b)in the case of a licensed manufacturer — the testing laboratory specified in the licence."
+   }
+  },
+  {
+   "id": "SG-H1688-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Duty of licensed or known importer"
+   },
+   "text": {
+    "en": "40. Without affecting any other provision in this Part, a licensed importer or a known importer of a CTGT product —\n(a)must ensure, and maintain objective evidence to establish, that the handling and storage of the CTGT product complies with the following standards:\n(i)in the case of a known importer — the Authority’s Guidance Notes on Good Distribution Practice, Good Distribution Practice Standard for Medical Devices or ISO 13485;\n(ii)in the case of a licensed importer — the Authority’s Guidance Notes on Good Distribution Practice,\nif the CTGT product —\n(iii)is imported on behalf of a healthcare service licensee pursuant to a valid prescription given by a qualified practitioner (who is a personnel of the healthcare service licensee) for the use of a patient of the healthcare service licensee;\n[S 437/2023 wef 26/06/2023]\n[S 801/2023 wef 18/12/2023]\n(iv)is authorised for import by the registrant of the CTGT product; or\n(v)is in all respects the same as a registered CTGT product, the registrant of which has not authorised the applicant to import that registered CTGT product;\n(b)must comply with the proper handling and storage requirement in relation to the CTGT product; and\n(c)must not use, for any purpose mentioned in paragraph (b), any premises other than the specified premises, or any other premises that the Authority approves."
+   }
+  },
+  {
+   "id": "SG-H1688-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Duty of licensed or known wholesaler"
+   },
+   "text": {
+    "en": "41. Without affecting any other provision in this Part, a licensed wholesaler or a known wholesaler of a CTGT product —\n(a)must ensure, and maintain objective evidence to establish, that the handling, storage and distribution of the CTGT product complies with the following standards:\n(i)in the case of a known wholesaler — the Authority’s Guidance Notes on Good Distribution Practice, Good Distribution Practice Standard for Medical Devices or ISO 13485;\n(ii)in the case of a licensed wholesaler — the Authority’s Guidance Notes on Good Distribution Practice;\n(b)may only supply the CTGT product by wholesale to a person who may lawfully supply that CTGT product in accordance with the Act;\n(c)must provide and maintain, or ensure the provision and maintenance of, the staff, premises, equipment and facilities for the handling, storage and distribution of the CTGT product that are necessary to prevent the deterioration of the CTGT product while it is in the wholesaler’s ownership, possession or control; and\n(d)must not use, for any purpose mentioned in paragraph (c), any premises other than the specified premises, or any other premises that the Authority approves."
+   }
+  },
+  {
+   "id": "SG-H1688-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Duty of known manufacturer, importer or wholesaler to provide information"
+   },
+   "text": {
+    "en": "42. The Authority may, under section 41(1) of the Act, by notice, require the known manufacturer, known importer or known wholesaler (as the case may be) relating to a CTGT product that is the result of only minimal manipulation of cell or tissue, to provide to the Authority, within the time specified in the notice, any information relating to that CTGT product that the Authority requires."
+   }
+  },
+  {
+   "id": "SG-H1688-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Responsible person"
+   },
+   "text": {
+    "en": "43.—(1) A holder of a licence in relation to a CTGT product must appoint one or more persons as a responsible person to be named as such in the licence.\n(2) The holder of a licence must ensure that —\n(a)the responsible person has adequate knowledge of the activities to be carried out and of the procedures to be performed under the licence;\n(b)the responsible person has relevant working experience relating to those activities and procedures;\n(c)in the case of a manufacturer’s licence, the responsible person named in the licence has practical experience in production supervision or in testing and checking to ensure the quality of CTGT products or any other health products that are related to the CTGT products;\n(d)in the case of an importer’s licence or wholesaler’s licence for the import or supply of any CTGT product, the responsible person named in the licence has practical experience in the handling, storage and distribution of CTGT products to ensure their quality or any other practical experience that the Authority approves; and\n(e)at any time, there is at least one responsible person who is contactable by the Authority by way of a mobile telephone number or an email address.\n(3) The holder of a licence must ensure that the responsible person discharges the duties imposed on the responsible person by the terms of the licence.\n(4) The holder of a licence must ensure that no person other than the person named as the responsible person in the licence may act as the responsible person."
+   }
+  },
+  {
+   "id": "SG-H1688-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Offence for contravention of duties"
+   },
+   "text": {
+    "en": "44. A person who fails to comply with regulation 39, 40, 41 or 43 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H1688-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Changes affecting licences"
+   },
+   "text": {
+    "en": "45.—(1) A licensee of a CTGT product must notify the Authority of —\n(a)any change or proposed change to any particulars provided by the licensee to the Authority in relation to the application for the licensee’s licence; and\n(b)any change or proposed change that significantly affects the activities of the licensee that are authorised by that licence.\n(2) A notice under paragraph (1) must —\n(a)be made in the form and manner specified on the Authority’s website;\n(b)be submitted within the time that the Authority specifies in the conditions of the licence;\n(c)be accompanied by the particulars, information, documents and samples that the Authority requires;\n(d)be accompanied by the relevant fee; and\n[S 451/2022 wef 01/07/2022]\n(e)if required by the Authority, be accompanied by a statutory declaration by the licensee verifying any information contained in or relating to the notice.\n(3) A licensee must not, without the Authority’s approval, make any change that significantly affects the activities of the licensee that are authorised by the licensee’s licence.\n(4) An application for the Authority’s approval under paragraph (3) must be made in the form and manner specified on the Authority’s website.\n(5) For the purposes of paragraphs (1) and (3), a change that significantly affects the activities of a licensee that are authorised by the licensee’s licence includes a change of one or more of the following:\n(a)the premises where the licensee operates;\n(b)the operations and processes carried out by the licensee;\n(c)the responsible person mentioned in regulation 43.\n(6) A licensee who fails to comply with paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.\n(7) A licensee who —\n(a)in compliance or purported compliance with paragraph (1), provides the Authority with any notice which the licensee knows is false or misleading; or\n(b)fails to comply with paragraph (3),\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H1688-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Changes affecting notices"
+   },
+   "text": {
+    "en": "46.—(1) A known manufacturer, known importer or known wholesaler of a CTGT product must —\n(a)inform the Authority in writing of any change in any information earlier provided in the notice given by the known manufacturer, known importer or known wholesaler under regulation 4, 7, 10 or 16 (as the case may be), within 14 days after that change occurred; and\n(b)give notice to the Authority that the person has ceased to manufacture, import or supply (as the case may be) the CTGT product in the form and manner specified on the Authority’s website.\n(2) A person who fails to comply with paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H1688-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "False notice"
+   },
+   "text": {
+    "en": "47. A person who, in relation to any notice given under regulation 4, 7, 10 or 16 (as the case may be) or 46 —\n(a)makes any statement or furnishes any document which the person knows to be false in a material particular; or\n(b)by the intentional suppression of any material fact, furnishes information which is misleading in a material particular,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H1688-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Changes concerning registered CTGT products"
+   },
+   "text": {
+    "en": "48.—(1) A registrant of a registered CTGT product must, unless the change is of a type specified on the Authority’s website to be one for which the Authority’s approval is not required, obtain the Authority’s prior approval before effecting —\n(a)any change to any particulars provided in relation to the registration of the CTGT product; or\n(b)any change that may affect the quality, safety or efficacy of the CTGT product.\n(2) An application for the Authority’s approval under paragraph (1) must —\n(a)be made in the form and manner specified on the Authority’s website;\n(b)be submitted within the time that the Authority specifies in the conditions of the registration of the CTGT product;\n(c)be accompanied by the particulars, information, documents and samples that the Authority requires;\n(d)be accompanied by the relevant fee; and\n[S 451/2022 wef 01/07/2022]\n(e)if required by the Authority, be accompanied by a statutory declaration by the registrant verifying any information contained in or relating to the application.\n(3) Where the Authority’s approval is required under paragraph (1), the registrant of the CTGT product must ensure that no supply is made of the CTGT product that is subject to the proposed change until after the Authority has given its approval for the change.\n(4) A registrant of a CTGT product who fails to comply with paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.\n(5) A registrant of a CTGT product who —\n(a)in compliance or purported compliance with paragraph (1), provides the Authority with any information which the registrant knows is false or misleading in a material particular; or\n(b)fails to comply with paragraph (3),\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H1688-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Information on validity of data submitted to or considered by Authority"
+   },
+   "text": {
+    "en": "49.—(1) A registrant of a CTGT product must, within 15 days after receiving any information that adversely affects the validity of any data provided by the registrant to the Authority relating to the quality, safety or efficacy of the CTGT product, inform the Authority of that information.\n(2) A registrant of a CTGT product who fails to comply with paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.\n(3) A registrant of a CTGT product who, in compliance or purported compliance with paragraph (1), provides the Authority with any information which the registrant knows is false or misleading in a material particular, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H1688-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Submission of benefit-risk evaluation reports"
+   },
+   "text": {
+    "en": "50.—(1) The Authority may require any registrant of a CTGT product to submit, within the period specified by the Authority, a benefit‑risk evaluation report relating to the CTGT product.\n(2) Where the Authority has not specified any period within which a benefit‑risk evaluation report is required to be submitted, a registrant of a CTGT product who is required by the Authority to submit that report must submit the report —\n(a)for an initial period of 2 years, at intervals of 6 months commencing from either the date of registration of the CTGT product, or its international birth date, whichever is earlier; and\n(b)for the next 3 years, annually.\n(3) A person who fails to provide a benefit-risk evaluation report —\n(a)as required by the Authority under paragraph (1); or\n(b)within the period stipulated under paragraph (2),\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.\n(4) In paragraph (2)(a), “international birth date”, for a CTGT product, means the date of the first marketing approval granted to any person for the sale of the CTGT product in any country in the world."
+   }
+  },
+  {
+   "id": "SG-H1688-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 8 DUTIES AND OBLIGATIONS OF MANUFACTURERS, IMPORTERS, ETC., OF CTGT PRODUCTS"
+   },
+   "heading": {
+    "en": "Duty to carry out risk management plan"
+   },
+   "text": {
+    "en": "51.—(1) The Authority may, for the purposes of minimising risks relating to unsafe and inefficacious use of CTGT products, direct a registrant of a CTGT product to implement a risk management plan which includes, but is not limited to, the following:\n(a)producing and distributing educational material;\n(b)producing and distributing safety information;\n(c)performing clinical studies of the CTGT product;\n(d)implementing active surveillance programmes of the CTGT product;\n(e)implementing programmes to restrict the supply of the CTGT product.\n(2) A registrant of a CTGT product who fails to comply with a direction of the Authority under paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H1688-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 9 CERTIFICATION"
+   },
+   "heading": {
+    "en": "Certification of CTGT products intended for export"
+   },
+   "text": {
+    "en": "52.—(1) The Authority may, on the application of a person who intends to export a CTGT product, issue to the person a certificate certifying —\n(a)in a case where the CTGT product is registered under the Act, that it is so registered; or\n(b)in a case where the CTGT product is not so registered, that it complies with the standards or requirements specified in the certificate.\n(2) An application for a certificate under paragraph (1) must —\n(a)be made in the form and manner specified on the Authority’s website; and\n(b)be accompanied by the relevant fee.\n[S 451/2022 wef 01/07/2022]"
+   }
+  },
+  {
+   "id": "SG-H1688-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART 9 CERTIFICATION"
+   },
+   "heading": {
+    "en": "Certificate of manufacturing standard of CTGT products"
+   },
+   "text": {
+    "en": "53.—(1) The Authority may, on the application of a person who manufactures —\n(a)a CTGT product; or\n(b)a starting material used in the manufacture of a CTGT product,\n[S 801/2023 wef 18/12/2023]\n(called in this paragraph the manufacturer) and on being satisfied, after completion of an assessment of conformity, that the manufacturer conforms to an applicable Good Manufacturing Practice Standard, issue a GMP Certificate to the manufacturer subject to any terms and conditions that the Authority thinks fit.\n(2) Every GMP Certificate issued is valid for the period specified in the certificate, being not longer than 3 years starting on the date of commencement of the assessment mentioned in paragraph (1).\n(3) An application for a GMP Certificate must —\n(a)be made in the form and manner specified on the Authority’s website; and\n(b)be accompanied by the relevant fee.\n[S 451/2022 wef 01/07/2022]\n(4) In this regulation, “GMP Certificate” means a certificate issued by the Authority to certify compliance with an applicable Good Manufacturing Practice Standard."
+   }
+  },
+  {
+   "id": "SG-H1688-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART 9 CERTIFICATION"
+   },
+   "heading": {
+    "en": "Certificate of distribution standard of CTGT products"
+   },
+   "text": {
+    "en": "54.—(1) The Authority may, on the application of a person who distributes —\n(a)a CTGT product; or\n(b)a starting material used in the manufacture of a CTGT product,\n[S 801/2023 wef 18/12/2023]\n(called in this paragraph the distributor) and on being satisfied, after completion of an assessment of conformity, that the distributor conforms to an applicable Good Distribution Practice Standard, issue a GDP Certificate to the distributor subject to any terms and conditions that the Authority thinks fit.\n(2) Every GDP Certificate issued is valid for a period specified in the certificate, being not longer than 3 years starting on the date of commencement of the assessment mentioned in paragraph (1).\n(3) An application for a GDP Certificate must —\n(a)be made in the form and manner specified on the Authority’s website; and\n(b)be accompanied by the relevant fee.\n[S 451/2022 wef 01/07/2022]\n(4) In this regulation —\n“GDP Certificate” means a certificate issued by the Authority to certify compliance with an applicable Good Distribution Practice Standard;\n“Good Distribution Practice Standard” means the Authority’s Guidance Notes on Good Distribution Practice and any other good distribution practice standard approved by the Authority."
+   }
+  },
+  {
+   "id": "SG-H1688-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "55."
+   },
+   "chapter": {
+    "en": "PART 9 CERTIFICATION"
+   },
+   "heading": {
+    "en": "Other certificates or documents"
+   },
+   "text": {
+    "en": "55. The Authority may, on the application of any person and upon payment of the relevant fee, issue any other certificate or document to the applicant that the Authority thinks fit.\n[S 451/2022 wef 01/07/2022]"
+   }
+  },
+  {
+   "id": "SG-H1688-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "56."
+   },
+   "chapter": {
+    "en": "PART 10 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Product quality surveillances"
+   },
+   "text": {
+    "en": "56.—(1) The Authority may at any time conduct a product quality surveillance for the purposes of ensuring that a CTGT product is not a non‑compliant health product within the meaning of section 48(a) of the Act.\n(2) The Authority may require a manufacturer, an importer, a wholesaler, a supplier or a registrant of a CTGT product to provide, without charge, any number of samples of the CTGT product for evaluation by the Authority in the product quality surveillance.\n(3) A person who fails to comply with a requirement of the Authority under paragraph (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H1688-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "57."
+   },
+   "chapter": {
+    "en": "PART 10 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Non-compliant CTGT products"
+   },
+   "text": {
+    "en": "57. For the purposes of section 48(a)(iii) of the Act, a CTGT product is considered as being non‑compliant if it fails to comply with the product quality characteristics, specifications and labelling approved by the Authority —\n(a)at the time of the registration of the CTGT product; or\n(b)under regulation 48."
+   }
+  },
+  {
+   "id": "SG-H1688-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "58."
+   },
+   "chapter": {
+    "en": "PART 10 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Confidential information"
+   },
+   "text": {
+    "en": "58. For the purposes of section 66(2)(d) of the Act, the Authority may disclose any confidential information relating to the quality, safety or efficacy of a CTGT product, if —\n(a)that disclosure is, in the opinion of the Authority, necessary to protect the health or safety of members of the public; or\n(b)that disclosure is to a Government department or statutory body in order to enable the Government department or statutory body to perform its public functions."
+   }
+  },
+  {
+   "id": "SG-H1688-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "59."
+   },
+   "chapter": {
+    "en": "PART 10 GENERAL PROVISIONS"
+   },
+   "text": {
+    "en": "59. [Deleted by S 451/2022 wef 01/07/2022]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1688-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "60."
+   },
+   "chapter": {
+    "en": "PART 10 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Saving and transitional provisions"
+   },
+   "text": {
+    "en": "60.—(1) From 1 March 2021 —\n(a)any registered Class D medical device that consists of a human cell or tissue is deemed a Class 1 CTGT product (called in this paragraph a deemed CTGT product);\n(b)a manufacturer of a deemed CTGT product who, immediately before that date, holds a valid manufacturer’s licence for a medical device issued under regulation 2A of the MD Regulations, is deemed a known manufacturer in relation to that product as if a notice has been given under regulation 4;\n(c)an importer of a deemed CTGT product who, immediately before that date, holds a valid importer’s licence for a medical device issued under regulation 2B of the MD Regulations, is deemed a known importer in relation to that product as if a notice has been given under regulation 7; and\n(d)a wholesaler of a deemed CTGT product who, immediately before that date, holds a valid wholesaler’s licence for a medical device issued under regulation 4D of the MD Regulations, is deemed a known wholesaler in relation to that product as if a notice has been given under regulation 10.\n(2) In this regulation —\n“MD Regulations” means the Health Products (Medical Devices) Regulations 2010 (G.N. No. S 436/2010);\n“registered Class D medical device” means a medical device that is registered and assigned to Class D under regulation 24 of the MD Regulations."
+   }
+  },
+  {
+   "id": "SG-H1688-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE"
+   },
+   "status": "repealed"
+  }
+ ]
+}

@@ -1,0 +1,2602 @@
+{
+ "id": "TL-H115",
+ "title": {
+  "zh": "刑事司法国际协助",
+  "en": null,
+  "orig": "Cooperação Judiciária Internacional Penal"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p03",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2011-10-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 15/2011",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 160,
+ "chars": 107969,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2011/serie_1/serie1_no39.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 160 条；逐字取自官方公报 PDF（public/docs/2011/serie_1/serie1_no39.pdf）第 5322–5351 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H115-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO I OBJECTO, PRINCÍPIOS  E  REGRAS  GERAIS"
+   },
+   "heading": {
+    "pt": "Objecto"
+   },
+   "text": {
+    "pt": "1 - O presente diploma aplica-se às seguintes formas de cooperação judiciária internacional penal:\na)  Extradição;\nb)  Transmissão de processos penais;\nc)  Execução de sentenças penais;\nd) Transferência de pessoas condenadas a penas e medidas de segurança privativas da liberdade;\ne) Vigilância de pessoas condenadas ou libertadas condicionalmente;\nf) Auxílio judiciário mútuo em matéria penal.\n2 - O disposto no número anterior aplica-se à cooperação de Timor-Leste com entidades judiciárias internacionais, estabelecida no âmbito de tratados que vinculem o Estado de Timor-Leste.\n3 – O presente diploma é subsidiariamente aplicável à cooperação em matéria de infracções de natureza penal, na fase em que tramitem perante autoridades administrativas, bem como de infracções que constituam ilícito de mera ordenação social, cujos processos admitam recurso judicial."
+   }
+  },
+  {
+   "id": "TL-H115-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO I OBJECTO, PRINCÍPIOS  E  REGRAS  GERAIS"
+   },
+   "heading": {
+    "pt": "Princípios de aplicação"
+   },
+   "text": {
+    "pt": "1 - O presente diploma subordina-se aos interesses da soberania, da segurança, da ordem pública e de outros interesses constitucionalmente definidos.\n2 -  A presente lei não confere o direito de exigir qualquer forma de cooperação internacional penal."
+   }
+  },
+  {
+   "id": "TL-H115-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO I OBJECTO, PRINCÍPIOS  E  REGRAS  GERAIS"
+   },
+   "heading": {
+    "pt": "Prevalência dos tratados"
+   },
+   "text": {
+    "pt": "1 -  As formas de cooperação a que se refere o artigo 1.º regemse pelas normas dos tratados que vinculem Timor-Leste e, na sua falta, pelas disposições deste diploma.\n2 -  São subsidiariamente aplicáveis as disposições do Código de Processo Penal."
+   }
+  },
+  {
+   "id": "TL-H115-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO I OBJECTO, PRINCÍPIOS  E  REGRAS  GERAIS"
+   },
+   "heading": {
+    "pt": "Princípio da reciprocidade"
+   },
+   "text": {
+    "pt": "1 - A cooperação regulada no presente diploma releva do princípio da reciprocidade.\n2 - O Ministério da Justiça solicita uma garantia de reciprocidade se as circunstâncias o exigirem e pode prestá-la a outros Estados, nos limites deste diploma.\n3 - A falta de reciprocidade não impede a satisfação de um pedido de cooperação, desde que essa cooperação:\na)   Seja aconselhável em razão dos factos ou da natureza grave da criminalidade;\nb)  Possa contribuir para melhorar a situação do arguido ou para a sua reinserção social;\nc)  Sirva para esclarecer factos imputados a um cidadão timorense."
+   }
+  },
+  {
+   "id": "TL-H115-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO I OBJECTO, PRINCÍPIOS  E  REGRAS  GERAIS"
+   },
+   "heading": {
+    "pt": "Recusa de pedido de cooperação"
+   },
+   "text": {
+    "pt": "1 -  O pedido de cooperação é recusado quando:\na)  O processo não respeitar os tratados de direitos humanos ratificados por Timor-Leste;\nb)  Houver fundamentos para crer que a cooperação é solicitada para perseguir ou punir uma pessoa em virtude da sua raça, religião, sexo, nacionalidade, língua, convicções políticas ou ideológicas ou da sua pertença a um grupo social determinado;\nc)  Existir risco de agravamento da situação processual de uma pessoa, por qualquer das razões indicadas na alínea anterior;\nd)   O facto a que respeita for punível com pena de morte ou outra de que possa resultar lesão grave da integridade da pessoa;\ne)   Respeitar a infracção a que corresponda pena de prisão ou medida de segurança com carácter perpétuo ou de duração indefinida.\n2 -  O disposto nas alíneas d) e e) do número anterior não obsta à cooperação:\na)  Se o Estado que formula o pedido tiver, de forma definitiva, comutado a pena de morte ou outra de que possa resultar lesão grave da integridade da pessoa ou tiver retirado carácter perpétuo ou duração indefinida à pena ou medida de segurança;\nb)  Se, com respeito a extradição por crimes a que corresponda, segundo o direito do Estado requerente, pena ou medida de segurança privativa ou restritiva da liberdade com carácter perpétuo ou de duração indefinida, o Estado requerente oferecer garantias de que tal pena ou medida de segurança não será aplicada ou executada;\nc)  Se o Estado que formula o pedido aceitar a conversão das mesmas penas ou medidas por um tribunal de Timor-Leste, segundo as disposições da lei aplicáveis ao crime que motivou a condenação; ou\nd) Se o pedido respeitar ao auxílio judiciário mútuo em matéria penal, solicitado para a não aplicação dessas penas ou medidas.\n3 -  Para efeitos de apreciação da suficiência das garantias a que se refere a alínea b) do número anterior, ter-se-á em conta, nomeadamente, nos termos da legislação e da prática do Estado requerente, a possibilidade de não aplicação da pena, de reapreciação da situação da pessoa reclamada e de concessão da liberdade condicional, bem como a possibilidade de indulto, perdão, comutação de pena ou medida análoga.\n4 - O pedido de cooperação é ainda recusado quando não estiver garantida a reciprocidade, salvo o disposto no número 3 do artigo 4.º"
+   }
+  },
+  {
+   "id": "TL-H115-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO I OBJECTO, PRINCÍPIOS  E  REGRAS  GERAIS"
+   },
+   "heading": {
+    "pt": "Recusa devido à natureza da infracção"
+   },
+   "text": {
+    "pt": "1 -  O pedido é recusado quando o processo respeitar a facto que constituir infracção de natureza política ou infracção conexa a infracção política, segundo o Direito de Timor- Leste.\n2 -  Não se consideram de natureza política:\na)  O genocídio, os crimes contra a Humanidade, os crimes de guerra e infracções graves segundo as Convenções de Genebra de 1949;\nb)  Os actos referidos na Convenção contra a Tortura e Outras Penas ou Tratamentos Cruéis, Desumanos ou Degradantes, adoptada pela Assembleia das Nações Unidas em 17 de Dezembro de 1984;\nc)  Os crimes contra a vida de titulares de órgãos de soberania ou de altos cargos públicos ou de pessoas a quem for devida especial protecção segundo o direito internacional;\nd)  Os actos de pirataria aérea e marítima;\ne)  Outros crimes a que seja retirada natureza política por tratado de que Timor-Leste seja parte."
+   }
+  },
+  {
+   "id": "TL-H115-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO I OBJECTO, PRINCÍPIOS  E  REGRAS  GERAIS"
+   },
+   "heading": {
+    "pt": "Extinção do procedimento penal"
+   },
+   "text": {
+    "pt": "1 - A cooperação não é admissível se, em Timor-Leste ou noutro Estado em que tenha sido instaurado procedimento pelo mesmo facto:\na)  O processo tiver terminado com sentença absolutória transitada em julgado ou com decisão de arquivamento;\nb)  A sentença condenatória se encontrar cumprida ou não puder ser cumprida segundo o Direito do Estado em que foi proferida;\nc)  O procedimento se encontrar extinto por outro motivo, salvo se este se encontrar previsto em tratado internacional como não obstando à cooperação por parte do Estado requerido.\n2 - O disposto nas alíneas a) e b) do número anterior não se aplica se a autoridade estrangeira que formula o pedido o justificar para fins de revisão da sentença e os fundamentos desta forem idênticos aos admitidos no Direito de Timor- Leste.\n3 - O disposto na alínea a) do n.º 1 não obsta à cooperação com fundamento na reabertura de processo arquivado previsto na lei."
+   }
+  },
+  {
+   "id": "TL-H115-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO I OBJECTO, PRINCÍPIOS  E  REGRAS  GERAIS"
+   },
+   "heading": {
+    "pt": "Concurso de casos de admissibilidade e de inadmissibilidade da cooperação"
+   },
+   "text": {
+    "pt": "1 -  Se o facto imputado à pessoa contra a qual é instaurado procedimento estiver previsto em várias disposições do Direito Penal de Timor-Leste, o pedido de cooperação só é atendido na parte que diz respeito às infracções relativamente às quais seja admissível o pedido e desde que o Estado que o requer dê garantias de que observará as condições fixadas para a cooperação.\n2 -   A cooperação é, porém, excluída se o facto estiver previsto em várias disposições do Direito Penal de Timor-Leste ou estrangeiro e o pedido não possa ser satisfeito em virtude de uma disposição legal que o abranja na sua totalidade e que constitua motivo de recusa da cooperação."
+   }
+  },
+  {
+   "id": "TL-H115-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO I OBJECTO, PRINCÍPIOS  E  REGRAS  GERAIS"
+   },
+   "heading": {
+    "pt": "Reduzida importância da infracção"
+   },
+   "text": {
+    "pt": "A cooperação pode ser recusada se a reduzida importância da infracção não a justificar."
+   }
+  },
+  {
+   "id": "TL-H115-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO I OBJECTO, PRINCÍPIOS  E  REGRAS  GERAIS"
+   },
+   "heading": {
+    "pt": "Protecção do segredo"
+   },
+   "text": {
+    "pt": "1 – O Estado requerido, se tal lhe for solicitado mantém a confidencialidade do pedido de auxílio do seu conteúdo e dos documentos que o instruem, bem como da concessão desse auxílio. Se o pedido não puder ser cumprido sem quebra da confidencialidade, o Estado requerido informa o Estado requerente, o qual decide então, se o pedido deve, mesmo assim, ser executado.\n2-  Na execução de um pedido de cooperação formulado a Timor-Leste observam-se, também, as disposições do Direito de Timor-Leste em que o segredo seja protegido.\n3 - O disposto no número anterior aplica-se a informações que, segundo o pedido, devam ser prestadas por pessoas não implicadas no procedimento penal estrangeiro."
+   }
+  },
+  {
+   "id": "TL-H115-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO I OBJECTO, PRINCÍPIOS  E  REGRAS  GERAIS"
+   },
+   "heading": {
+    "pt": "Direito aplicável"
+   },
+   "text": {
+    "pt": "1 -  Produzem efeitos em Timor-Leste:\na) Os motivos de interrupção ou de suspensão da prescrição segundo o Direito do Estado que formula o pedido;\nb)  A queixa apresentada em tempo útil a uma autoridade estrangeira, quando for igualmente exigida pelo Direito de Timor-Leste.\n2 -  Se apenas o Direito de Timor-Leste exigir queixa, nenhuma medida processual penal pode ser imposta ou executada em Timor-Leste no caso de oposição do respectivo titular."
+   }
+  },
+  {
+   "id": "TL-H115-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO I OBJECTO, PRINCÍPIOS  E  REGRAS  GERAIS"
+   },
+   "heading": {
+    "pt": "Detenção no estrangeiro"
+   },
+   "text": {
+    "pt": "1 -  A prisão preventiva sofrida no estrangeiro ou a detenção decretada no estrangeiro, em consequência de uma das formas de cooperação previstas no presente diploma são levadas em conta no âmbito do processo timorense ou imputadas na pena, como se a privação da liberdade tivesse ocorrido em Timor-Leste.\n2 -  Com vista a possibilitar a tomada em consideração da prisão preventiva ou da pena já cumpridas em Timor-Leste, são prestadas as informações necessárias."
+   }
+  },
+  {
+   "id": "TL-H115-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO I OBJECTO, PRINCÍPIOS  E  REGRAS  GERAIS"
+   },
+   "heading": {
+    "pt": "Indemnização"
+   },
+   "text": {
+    "pt": "A lei de Timor-Leste aplica-se à indemnização devida por detenção ou prisão ilegal ou injustificada ou por outros danos sofridos pelo suspeito e pelo arguido:\na)  No decurso de procedimento instaurado em Timor-Leste para efectivação de um pedido de cooperação formulado a Timor-Leste;\nb)  No decurso de procedimento instaurado no estrangeiro para efectivação de um pedido de cooperação formulado por uma autoridade timorense."
+   }
+  },
+  {
+   "id": "TL-H115-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO I OBJECTO, PRINCÍPIOS  E  REGRAS  GERAIS"
+   },
+   "heading": {
+    "pt": "Concurso de pedidos"
+   },
+   "text": {
+    "pt": "1 - Se a cooperação for solicitada por vários Estados, relativamente ao mesmo ou a diferentes factos, esta é concedida em favor do Estado que assegure melhor os interesses da realização da justiça no caso concreto e da reinserção social do suspeito, do arguido ou do condenado.\n2 – A decisão do pedido que melhor assegure os interesses da realização da justiça no caso concreto e da reinserção social do suspeito, do arguido ou do condenado deve tomar em consideração, nomeadamente:\na)  Se os pedidos respeitarem aos mesmos factos, o local onde a infracção se consumou ou onde foi praticado o facto principal;\nb)  Se os pedidos respeitarem a factos diferentes, sucessivamente, a gravidade da infracção, segundo a lei timorense, a data do pedido, a nacionalidade ou residência do extraditando, bem como outras circunstâncias concretas, designadamente a existência de um tratado ou a possibilidade de reextradição entre os Estados requerentes.\n2 -  O disposto no número anterior:\na)  Cede perante a regra de prevalência da jurisdição internacional, nos termos do n.º 2 do artigo 1.º;\nb)  Não se aplica ao auxílio judiciário mútuo em matéria penal."
+   }
+  },
+  {
+   "id": "TL-H115-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO I OBJECTO, PRINCÍPIOS  E  REGRAS  GERAIS"
+   },
+   "heading": {
+    "pt": "Regra da especialidade"
+   },
+   "text": {
+    "pt": "1 -   A pessoa que, em consequência de um acto de cooperação, comparecer em Timor-Leste para intervir em processo penal como suspeito, arguido ou condenado não pode ser perseguida, julgada, detida ou sujeita a qualquer outra restrição da liberdade por facto anterior à sua presença em território nacional, diferente do que origina o pedido de cooperação formulado por autoridade timorense.\n2 -  A pessoa que, nos termos do número anterior, comparecer perante uma autoridade estrangeira não pode ser perseguida, detida, julgada ou sujeita a qualquer outra restrição da liberdade por facto ou condenação anteriores à sua saída do território timorense, diferentes dos determinados no pedido de cooperação.\n3 -  Antes de autorizada a transferência a que se refere o número anterior, o Estado que formula o pedido deve prestar as garantias necessárias ao cumprimento desta regra.\n4 –  Esta imunidade cessa quando:\na)   A pessoa em causa, tendo a possibilidade de abandonar o território timorense ou estrangeiro, o não faz dentro de 45 dias ou regressa voluntariamente a um desses territórios;\nb) O Estado que autoriza a transferência, ouvido previamente o suspeito, o arguido ou o condenado, consentir na derrogação da regra da especialidade.\n5 -  O disposto nos números 1 e 2 não exclui a possibilidade de solicitar a extensão da cooperação a factos diferentes dos que fundamentaram o pedido, mediante novo pedido apresentado e instruído nos termos deste diploma.\n6 - No caso referido no número anterior, é obrigatória a apresentação de auto donde constem as declarações da pessoa que beneficia da regra da especialidade.\n7 - No caso de o pedido ser apresentado a um Estado estrangeiro, o auto a que se refere o número anterior é lavrado perante o Supremo Tribunal de Justiça."
+   }
+  },
+  {
+   "id": "TL-H115-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO I OBJECTO, PRINCÍPIOS  E  REGRAS  GERAIS"
+   },
+   "heading": {
+    "pt": "Casos de não aplicação da regra da especialidade"
+   },
+   "text": {
+    "pt": "1 -  A imunidade referida nos números 1 e 2 do artigo anterior cessa também nos casos em que, por tratado de que Timor- Leste seja parte, não haja lugar ao benefício da regra da especialidade.\n2 - Quando a cessação da imunidade decorra de renúncia da pessoa que beneficia desta regra, deve essa renúncia resultar de declaração pessoal, prestada perante juiz, que demonstre que a pessoa a exprimiu voluntariamente e em plena consciência das consequências do seu acto, com assistência de defensor, que lhe deve ser nomeado caso não tenha advogado constituído.\n3 - Quando a pessoa em causa deva prestar declarações em território nacional, no seguimento de pedido apresentado a Timor-Leste ou formulado por uma autoridade timorense, as declarações são prestadas perante o Supremo Tribunal de Justiça.\n4 - Sem prejuízo do disposto no número anterior, a renúncia de pessoa que compareça em Timor-Leste em consequência de um acto de cooperação solicitado pela autoridade timorense é prestada no processo em que deva produzir efeito, quando as autoridades timorenses, após a entrega da pessoa, tiverem conhecimento superveniente de factos por ela praticados anteriormente a essa entrega."
+   }
+  },
+  {
+   "id": "TL-H115-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO I OBJECTO, PRINCÍPIOS  E  REGRAS  GERAIS"
+   },
+   "heading": {
+    "pt": "Recusa de cooperação"
+   },
+   "text": {
+    "pt": "1 -  Pode ser negada a cooperação quando o facto que a motiva for objecto de processo pendente ou quando esse facto deva ou possa ser também objecto de procedimento da competência de uma autoridade judiciária timorense.\n2 - Pode ainda ser negada a cooperação quando, tendo em conta as circunstâncias do facto, o deferimento do pedido possa implicar consequências graves para a pessoa visada, em razão da idade, estado de saúde ou de outros motivos pessoais."
+   }
+  },
+  {
+   "id": "TL-H115-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO I OBJECTO, PRINCÍPIOS  E  REGRAS  GERAIS"
+   },
+   "heading": {
+    "pt": "Non bis in idem"
+   },
+   "text": {
+    "pt": "Quando for aceite um pedido de cooperação que implique a delegação do procedimento em favor de uma autoridade judiciária estrangeira, não pode instaurar-se nem continuar em Timor-Leste procedimento pelo mesmo facto que determinou o pedido, nem executar-se sentença cuja execução é delegada numa autoridade estrangeira."
+   }
+  },
+  {
+   "id": "TL-H115-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO II PROCESSO  EM  GERAL"
+   },
+   "heading": {
+    "pt": "Tramitação do pedido"
+   },
+   "text": {
+    "pt": "1 -  Para a recepção e transmissão dos pedidos de cooperação, bem como para todas as comunicações que aos mesmos digam respeito é designada, como Autoridade Central, a Procuradoria-Geral da República.\n2 - O Procurador-Geral da República submete o pedido de cooperação formulado a Timor-Leste ao Ministro da Justiça com vista a decisão sobre a sua admissibilidade.\n3 - O pedido de cooperação formulado por uma autoridade de Timor-Leste é remetido ao Ministro da Justiça pelo Procurador-Geral da República.\n4 - O disposto no número 1 não prejudica os contactos directos relativos a pedidos de auxílio judiciário mútuo em matéria penal."
+   }
+  },
+  {
+   "id": "TL-H115-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO II PROCESSO  EM  GERAL"
+   },
+   "heading": {
+    "pt": "Formas de transmissão do pedido"
+   },
+   "text": {
+    "pt": "1 - Quando disponíveis, e mediante acordo entre os Estados requerente e requerido, podem utilizar-se na transmissão dos pedidos os meios telemáticos adequados, nomeadamente a telecópia, desde que estejam garantidas a autenticidade e confidencialidade do pedido e a fiabilidade dos dados transmitidos.\n2 - O disposto no número anterior não prejudica o recurso às vias urgentes, previstas no n.º 2 do artigo 27.º."
+   }
+  },
+  {
+   "id": "TL-H115-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO II PROCESSO  EM  GERAL"
+   },
+   "heading": {
+    "pt": "Requisitos do pedido"
+   },
+   "text": {
+    "pt": "1 -  O pedido de cooperação deve indicar:\na)  A autoridade de que emana e a autoridade a quem se dirige;\nb)  O objecto e motivos do pedido;\nc)  A qualificação jurídica dos factos que motivam o procedimento;\nd)   A identificação do suspeito, arguido ou condenado, da pessoa cuja extradição ou transferência se requer e a da testemunha ou perito a quem devam pedir-se declarações;\ne)  A narração dos factos proporcional à importância do acto de cooperação;\nf)   O texto das disposições legais aplicáveis no Estado que o formula;\ng) Quaisquer documentos relativos aos factos.\n2 - A autoridade competente pode exigir que um pedido formalmente irregular ou incompleto seja modificado ou completado, sem prejuízo da adopção de medidas provisórias, quando estas não possam esperar pela regularização.\n3 – Em auxílio judiciário mútuo em matéria penal, o requisito da alínea f) do n.º 1 pode ser dispensado."
+   }
+  },
+  {
+   "id": "TL-H115-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO II PROCESSO  EM  GERAL"
+   },
+   "heading": {
+    "pt": "Decisão sobre admissibilidade"
+   },
+   "text": {
+    "pt": "1 - A decisão do Ministro da Justiça que declara admissível o pedido não vincula a autoridade judiciária.\n2 -   A decisão que declara inadmissível o pedido de cooperação é fundamentada e não admite recurso.\n3 -  A decisão a que se refere o número anterior e que recusa o pedido de cooperação é comunicada pela Autoridade Central à autoridade nacional ou estrangeira que o formulou."
+   }
+  },
+  {
+   "id": "TL-H115-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO II PROCESSO  EM  GERAL"
+   },
+   "heading": {
+    "pt": "Competência interna em matéria de cooperação internacional"
+   },
+   "text": {
+    "pt": "1 - A competência das autoridades de Timor-Leste para a formulação de um pedido de cooperação ou para a execução de um pedido formulado a Timor-Leste determina-se pelas disposições dos títulos seguintes.\n2 - São subsidiariamente aplicáveis o Código de Processo Penal e respectiva legislação complementar, bem como a legislação relativa ao ilícito de mera ordenação social."
+   }
+  },
+  {
+   "id": "TL-H115-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO II PROCESSO  EM  GERAL"
+   },
+   "heading": {
+    "pt": "Despesas"
+   },
+   "text": {
+    "pt": "1 -   A execução de um pedido de cooperação é, em regra, gratuita.\n2 - Constituem, porém, encargo do Estado ou da entidade judiciária internacional que o formula:\na)  As indemnizações e remunerações de testemunhas e peritos, bem como as despesas de viagem e estada;\nb)  As despesas do envio ou entrega de coisas;\nc)   As despesas da transferência de pessoas para o território do Estado requerente ou para a sede da entidade judiciária internacional;\nd)    As despesas com o trânsito de uma pessoa do território de um Estado estrangeiro ou da sede da entidade judiciária internacional para terceiro Estado;\ne)   As despesas efectuadas com o recurso à teleconferência;\nf)   Outras despesas consideradas relevantes pelo Estado requerido, em função dos meios humanos e tecnológicos envolvidos.\n3 - Para os efeitos da alínea a) do número anterior, pode ser abonado um adiantamento à testemunha ou ao perito, a mencionar na notificação e a reembolsar finda a diligência.\n4 -  Mediante acordo entre Timor-Leste e o Estado estrangeiro ou a entidade judiciária internacional interessados no pedido, pode derrogar-se o disposto no n.º 2."
+   }
+  },
+  {
+   "id": "TL-H115-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO II PROCESSO  EM  GERAL"
+   },
+   "heading": {
+    "pt": "Transferência de pessoas"
+   },
+   "text": {
+    "pt": "1 -  A transferência de pessoas detidas ou condenadas a penas ou medidas de segurança privativas da liberdade efectuase pelos serviços do Ministério da Justiça, em acordo com a autoridade do Estado estrangeiro em que se encontra a pessoa visada ou para onde a mesma deve ser transferida, relativamente ao meio de transporte, data, local e hora de entrega.\n2 - A transferência efectua-se no mais curto prazo possível após a data da decisão que a determina.\n3 -  O disposto nos números anteriores aplica-se à transferência respeitante a pedido formulado por uma entidade judiciária internacional."
+   }
+  },
+  {
+   "id": "TL-H115-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO II PROCESSO  EM  GERAL"
+   },
+   "heading": {
+    "pt": "Entrega de objectos e valores"
+   },
+   "text": {
+    "pt": "1 -   Se o pedido de cooperação respeitar a entrega de objectos ou valores, exclusivamente ou como complemento de outro pedido, podem estes ser remetidos quando não sejam indispensáveis à prova de factos constitutivos de infracção, cujo conhecimento for da competência das autoridades timorenses.\n2 - É ressalvada a possibilidade de remessa diferida ou sob condição de restituição.\n3 - São ressalvados os direitos de terceiros de boa fé, bem como os dos proprietários ou possuidores e os do Estado, quando os objectos e valores possam ser declarados perdidos a seu favor.\n4 - Em caso de oposição, os objectos e valores só serão remetidos após decisão judicial favorável, transitada em julgado.\n5 - Tratando-se de pedido de extradição, a entrega de coisas referidas no n.º 1 pode efectuar-se mesmo que a extradição não se efective, nomeadamente por fuga ou morte do extraditando."
+   }
+  },
+  {
+   "id": "TL-H115-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO II PROCESSO  EM  GERAL"
+   },
+   "heading": {
+    "pt": "Medidas provisórias urgentes"
+   },
+   "text": {
+    "pt": "1 -  Em caso de urgência, as autoridades judiciárias estrangeiras podem comunicar directamente com as autoridades judiciárias timorenses, ou por intermédio da Organização Internacional de Polícia Criminal - INTERPOL - ou de órgãos centrais competentes para a cooperação policial internacional, para solicitarem a adopção de uma medida cautelar ou para a prática de um acto que não admita demora, expondo os motivos da urgência e observando os requisitos referidos no artigo 21.º.\n2 - O pedido é transmitido por via postal, electrónica ou telegráfica ou por qualquer outro meio que permita o seu registo por escrito e que seja admitido pela lei de Timor- Leste.\n3 - As autoridades judiciárias timorenses, se considerarem o pedido admissível, dão-lhe satisfação, sem prejuízo de o submeterem à decisão do Ministro da Justiça, através da Autoridade Central, as matérias que este diploma faça depender da sua prévia apreciação ou, não sendo isso possível, ratificação.\n4 - Quando, nos termos deste artigo, a cooperação envolver autoridades timorenses e estrangeiras de diferente natureza, o pedido é efectuado através da Autoridade Central."
+   }
+  },
+  {
+   "id": "TL-H115-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  GERAIS / CAPÍTULO II PROCESSO  EM  GERAL"
+   },
+   "heading": {
+    "pt": "Destino do pedido"
+   },
+   "text": {
+    "pt": "1 -   A decisão definitiva da autoridade judiciária que não atender o pedido de cooperação é comunicada à autoridade estrangeira que o formulou, pelas vias referidas no artigo\n19.º.\n2 -   Satisfeito um pedido de cooperação, a autoridade judiciária envia, quando for caso disso, os respectivos autos à autoridade estrangeira, nos termos previstos neste diploma."
+   }
+  },
+  {
+   "id": "TL-H115-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO I DISPOSIÇÃO  GERAL"
+   },
+   "heading": {
+    "pt": "Tipos de extradição"
+   },
+   "text": {
+    "pt": "1.   A extradição activa verifica-se quando o Estado Timorense pede a entrega de uma pessoa ao Estado estrangeiro para a prossecução do procedimento criminal ou para o cumprimento da pena.\n2.   A extradição passiva ocorre quando o Estado estrangeiro solicita a entrega de uma pessoa ao Estado Timorense para os efeitos referidos no número anterior."
+   }
+  },
+  {
+   "id": "TL-H115-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Fim e fundamento"
+   },
+   "text": {
+    "pt": "1 - A extradição pode ter lugar para procedimento penal ou para cumprimento de pena ou medida de segurança privativas da liberdade, por crime cujo julgamento seja da competência dos tribunais do Estado requerente.\n2 - Para qualquer desses efeitos, só é admissível a entrega da pessoa reclamada no caso de crime, ainda que tentado, punível pela lei timorense e pela lei do Estado requerente, com pena ou medida privativas da liberdade de duração máxima não inferior a um ano.\n3 -  Se a extradição tiver por fundamento vários factos distintos, cada um destes factos punível pela lei do Estado requerente e pela lei timorense com uma pena privativa de liberdade e se algum ou alguns deles for punível com pena ou medida privativa da liberdade de duração máxima inferior a um ano, pode também conceder-se a extradição por estes últimos.\n4 -  Quando for pedida para cumprimento de pena ou medida de segurança privativas da liberdade, a extradição pode ser concedida se o tempo por cumprir não for inferior a seis meses.\n5 - O disposto no presente artigo não obsta à extradição quando sejam inferiores os limites mínimos estabelecidos em tratado de que Timor-Leste seja parte."
+   }
+  },
+  {
+   "id": "TL-H115-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Casos em que é excluída a extradição"
+   },
+   "text": {
+    "pt": "1 - Para além dos casos referidos nos artigos 5.º a 7.º, a extradição é excluída quando:\na)  O crime tiver sido cometido no território de Timor-Leste;\nb)  A pessoa reclamada tiver nacionalidade timorense e encontrar-se em território de Timor-Leste;\nc) A pessoa reclamada tiver idade inferior a 16 anos;\nd) Não estiver assegurado que a pessoa reclamada seja sujeita a um processo justo e equitativo, de acordo com os padrões reconhecidos pelo direito internacional.\n2 - Quando for negada a extradição, nos termos do número anterior ou das alíneas d) e e) do n.º 1 do artigo 5.º é instaurado, em Timor-Leste, procedimento penal pelos factos que fundamentam o pedido, sendo solicitados ao Estado requerente os elementos necessários.\n3 - A qualidade de nacional é apreciada no momento em que seja tomada a decisão sobre a extradição."
+   }
+  },
+  {
+   "id": "TL-H115-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Crimes cometidos em terceiro Estado"
+   },
+   "text": {
+    "pt": "No caso de crimes cometidos em território de outro Estado que não o Estado requerente, pode ser concedida a extradição quando esta estiver em harmonia com a lei processual penal de Timor-Leste ou quando o Estado requerente comprovar que aquele terceiro Estado não reclama o agente da infracção."
+   }
+  },
+  {
+   "id": "TL-H115-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Reextradição"
+   },
+   "text": {
+    "pt": "1 - O Estado requerente não pode reextraditar para terceiro Estado a pessoa que lhe foi entregue por efeito de extradição.\n2 - Cessa a proibição do número anterior quando:\na)   Nos termos estabelecidos para o pedido de extradição, for solicitada e prestada a correspondente autorização, ouvido previamente o extraditado; ou\nb)  O extraditado, tendo a possibilidade de abandonar o território do Estado requerente, não o faz dentro de 45 dias ou, tendo-o abandonado, aí voluntariamente regressar.\n3 - Para o efeito da alínea a) do número anterior, pode solicitarse o envio de declaração da pessoa reclamada relativa à sua reextradição.\n4 - A proibição de reextradição cessa também nos casos em que, por tratado internacional de que Timor-Leste seja Parte, não seja necessário o consentimento do Estado requerido.\n5 - Quando este efeito decorra do consentimento da pessoa em causa, aplica-se o disposto no número seguinte.\n6 - As declarações da pessoa reclamada, a que haja lugar por força dos número 3, 4 e 5, são prestadas perante o Supremo Tribunal de Justiça, observando-se, quanto ao n.º 4, as formalidades previstas no artigo 16.º."
+   }
+  },
+  {
+   "id": "TL-H115-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Extradição diferida"
+   },
+   "text": {
+    "pt": "1 - Não obsta à concessão da extradição a existência, em tribunais timorenses, de processo penal contra a pessoa reclamada ou a circunstância de esta se encontrar a cumprir pena privativa da liberdade por infracções diversas das que fundamentaram o pedido.\n2 -  Nos casos do número anterior, pode diferir-se a entrega do extraditado para quando o processo ou o cumprimento da pena terminarem.\n3 -  É também causa de adiamento da entrega a verificação, por perito médico, de enfermidade que ponha em perigo a vida do extraditado."
+   }
+  },
+  {
+   "id": "TL-H115-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Entrega temporária"
+   },
+   "text": {
+    "pt": "No caso do n.º 1 do artigo anterior, a pessoa reclamada pode ser entregue temporariamente para a prática de actos processuais, designadamente o julgamento, que o Estado requerente demonstre não poderem ser adiados sem grave prejuízo, desde que isso não prejudique o andamento do processo pendente em Timor-Leste e o Estado requerente se comprometa a que, terminados esses actos, a pessoa reclamada seja restituída sem condições."
+   }
+  },
+  {
+   "id": "TL-H115-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Concurso de pedidos de extradição"
+   },
+   "text": {
+    "pt": "1 - No caso de diversos pedidos de extradição da mesma pessoa, a decisão sobre o pedido a que deva ser dada preferência tem em conta:\na)  Se os pedidos respeitarem aos mesmos factos, o local onde a infracção se consumou ou onde foi praticado o facto principal;\nb)   Se os pedidos respeitarem a factos diferentes, sucessivamente, a gravidade da infracção, segundo a lei timorense, a data do pedido, a nacionalidade ou residência do extraditando, bem como outras circunstâncias concretas, designadamente a existência de um tratado ou a possibilidade de reextradição entre os Estados requerentes.\n2 -   O disposto no número anterior entende-se sem prejuízo da cooperação de Timor-Leste com entidades judiciárias internacionais estabelecidas no âmbito de tratados que vinculem Timor-Leste.\n3 - O disposto nos números anteriores é aplicável, com as devidas adaptações, para efeitos de manutenção da detenção provisória."
+   }
+  },
+  {
+   "id": "TL-H115-A37",
+   "no": 37,
+   "noLabel": {
+    "pt": "Artigo 37.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Detenção provisória"
+   },
+   "text": {
+    "pt": "1 - Em caso de urgência, e como acto prévio a um pedido formal de extradição, pode solicitar-se a detenção provisória da pessoa a extraditar.\n2 -   A decisão sobre a detenção e a sua manutenção é conforme à lei de Timor-Leste.\n3 - O pedido indica a existência do mandado de detenção ou decisão condenatória contra a pessoa reclamada, contém um resumo dos factos constitutivos da infracção, com indicação do momento e do lugar da sua prática, e refere as disposições legais aplicáveis e os dados disponíveis acerca da identidade, nacionalidade e localização daquela pessoa.\n4 - Na transmissão do pedido observa-se o disposto no artigo\n27.º 5 - A detenção provisória cessa se o pedido de extradição não for recebido no prazo de 20 dias a contar da mesma, podendo, no entanto, prolongar-se até 40 dias, se razões justificáveis, invocadas pelo Estado requerente, o justificarem.\n6 - A detenção pode ser substituída por outras medidas de coacção, nos termos previstos no Código de Processo Penal.\n7 - O disposto no n.º 5 não prejudica nova detenção e a extradição, se o pedido for ulteriormente recebido.\n8 - O pedido de detenção provisória só pode ser atendido quando não se suscitarem dúvidas sobre a competência da autoridade requerente e contiver os elementos referidos no n.º 3."
+   }
+  },
+  {
+   "id": "TL-H115-A38",
+   "no": 38,
+   "noLabel": {
+    "pt": "Artigo 38.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Detenção não directamente solicitada"
+   },
+   "text": {
+    "pt": "É lícito às autoridades de polícia criminal efectuarem a detenção de indivíduos que, segundo informações oficiais, designadamente da INTERPOL, sejam procurados por autoridades estrangeiras para efeito de procedimento ou de cumprimento de pena por factos que notoriamente justifiquem a extradição."
+   }
+  },
+  {
+   "id": "TL-H115-A39",
+   "no": 39,
+   "noLabel": {
+    "pt": "Artigo 39.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Extradição com consentimento do extraditando"
+   },
+   "text": {
+    "pt": "1 -  A pessoa detida para efeito de extradição pode declarar que consente na sua entrega ao Estado requerente ou à entidade judiciária internacional e que renuncia ao processo de extradição regulado nos artigos 50.º a 57.º, depois de advertida de que tem direito a este processo.\n2 -  A declaração é assinada pelo extraditando e pelo seu defensor ou advogado constituído.\n3 -  O juiz verifica se estão preenchidas as condições para que a extradição possa ser concedida, ouve o declarante para se certificar se a declaração resulta da sua livre determinação e, em caso afirmativo, homologa-a, ordenando a sua entrega ao Estado requerente, de tudo se lavrando auto.\n4 -  A declaração, homologada nos termos do número anterior, é irrevogável.\n5 -  O acto judicial de homologação equivale à decisão final do processo de extradição.\n6 -  Salvo tratado que dispense a apresentação do pedido de extradição, o acto de homologação tem lugar após a decisão do Ministro da Justiça favorável ao seguimento do pedido, caso em que o processo prossegue para efeitos daquela homologação judicial."
+   }
+  },
+  {
+   "id": "TL-H115-A40",
+   "no": 40,
+   "noLabel": {
+    "pt": "Artigo 40.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Medidas de coacção não detentivas"
+   },
+   "text": {
+    "pt": "Na pendência do processo e até ao trânsito em julgado da decisão final, é correspondentemente aplicável o disposto no n.º 6 do artigo 37.º."
+   }
+  },
+  {
+   "id": "TL-H115-A41",
+   "no": 41,
+   "noLabel": {
+    "pt": "Artigo 41.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Fuga do extraditado"
+   },
+   "text": {
+    "pt": "O extraditado que, depois de entregue ao Estado requerente ou à entidade judiciária internacional, se evadir antes de extinto o procedimento penal ou de cumprida a pena e voltar ou for encontrado em Timor-Leste, será de novo detido e entregue ao mesmo Estado ou entidade, mediante mandado de detenção da autoridade estrangeira competente, salvo no caso de ter havido violação das condições em que a extradição foi concedida."
+   }
+  },
+  {
+   "id": "TL-H115-A42",
+   "no": 42,
+   "noLabel": {
+    "pt": "Artigo 42.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Trânsito"
+   },
+   "text": {
+    "pt": "1 -  Pode ser facultado o trânsito, pelo território ou pelo espaço aéreo nacional, de uma pessoa extraditada de um Estado estrangeiro para outro, desde que não se oponham motivos de ordem pública e se trate de infracção justificativa de extradição, segundo a lei timorense.\n2 -  O trânsito é autorizado mediante pedido do Estado que nele estiver interessado.\n3 -  Se for utilizado transporte aéreo e não estiver prevista uma aterragem em território nacional, é suficiente uma comunicação do Estado interessado na extradição.\n4 -  Em caso de aterragem imprevista, observa-se o disposto no n.º 2.\n5 -  É mantida a detenção do extraditado em trânsito enquanto permanecer em território nacional.\n6 -  O pedido identifica devidamente o extraditado em trânsito, contém, com as necessárias adaptações, os elementos referidos no n.º 3 do artigo 37.º e é dirigido ao Ministro da Justiça pelas vias previstas no presente diploma.\n7 - A decisão sobre o pedido deve ser tomada no mais curto prazo e comunicada de imediato ao Estado requerente pela mesma via por que o pedido tenha sido feito.\n8 -   As condições em que o trânsito se processará e a autoridade que nele superintenderá devem constar da decisão que o autorize."
+   }
+  },
+  {
+   "id": "TL-H115-A43",
+   "no": 43,
+   "noLabel": {
+    "pt": "Artigo 43.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Conteúdo e instrução do pedido de extradição"
+   },
+   "text": {
+    "pt": "1 -  Além dos elementos referidos no artigo 21.º, o pedido de extradição deve incluir:\na)   Demonstração de que a pessoa a extraditar está sujeita à jurisdição penal do Estado requerente;\nb)   Prova, no caso de infracção cometida em terceiro Estado, de que este não reclama o extraditando por causa dessa infracção;\nc)  Garantia formal de que a pessoa reclamada não será extraditada para terceiro Estado, nem detida para procedimento penal, para cumprimento de pena ou para outro fim, por factos diversos dos que fundamentarem o pedido.\n2 -  Ao pedido de extradição devem ser juntos os seguintes elementos:\na)  Mandado de detenção da pessoa reclamada, emitido pela autoridade competente;\nb)   Certidão ou cópia autenticada da decisão que ordenou o mandado de detenção;\nc)   Certidão ou cópia autenticada da decisão condenatória, no caso de extradição para cumprimento da pena, bem como documento comprovativo da pena a cumprir, se esta não corresponder à duração da pena imposta na decisão condenatória;\nd) Cópia dos textos legais relativos à prescrição do procedimento penal ou da pena, conforme o caso;\ne)    Declaração da autoridade competente relativa a motivos de suspensão ou interrupção do prazo da prescrição, segundo a lei do Estado requerente, se for caso disso;\nf)  Cópia dos textos legais relativos à possibilidade de recurso da decisão ou de efectivação do novo julgamento, no caso de condenação em processo cuja audiência de julgamento tenha decorrido na ausência da pessoa reclamada."
+   }
+  },
+  {
+   "id": "TL-H115-A44",
+   "no": 44,
+   "noLabel": {
+    "pt": "Artigo 44.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Elementos complementares"
+   },
+   "text": {
+    "pt": "1 - Quando o pedido estiver incompleto ou não vier acompanhado de elementos suficientes para sobre ele se decidir, são os mesmos solicitados, fixando-se prazo para o seu envio, o qual poderá ser prorrogado mediante razões justificadas invocadas pelo Estado requerente.\n2 - A falta dos elementos solicitados nos termos do número anterior poderá determinar o arquivamento do processo, no fim do prazo fixado.\n3 - Podendo, no entanto, prosseguir quando esses elementos forem apresentados.\n4 - Se o pedido se referir a pessoa que já se encontre detida para fins de extradição, o arquivamento previsto no número anterior determina a imediata restituição à liberdade, sendo correspondentemente aplicável o disposto no n.º 7 do\nartigo 37.º."
+   }
+  },
+  {
+   "id": "TL-H115-A45",
+   "no": 45,
+   "noLabel": {
+    "pt": "Artigo 45.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Natureza do processo de extradição"
+   },
+   "text": {
+    "pt": "1 -  O processo de extradição é urgente e compreende a fase administrativa e a fase judicial.\n2 -  A fase administrativa é destinada à apreciação do pedido de extradição pelo Ministro da Justiça para o efeito de decidir se ele pode ter seguimento ou se deve ser liminarmente indeferido por razões de ordem política ou de oportunidade ou conveniência.\n3 - A fase judicial é da exclusiva competência do Supremo Tribunal de Justiça e destina-se a decidir, com audiência do interessado, sobre a concessão da extradição, por procedência das suas condições de forma e de fundo, não sendo admitida prova alguma sobre os factos imputados ao extraditando."
+   }
+  },
+  {
+   "id": "TL-H115-A46",
+   "no": 46,
+   "noLabel": {
+    "pt": "Artigo 46.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Representação do Estado requerente no processo de extradição"
+   },
+   "text": {
+    "pt": "1 -   O Estado estrangeiro que o solicite a Timor-Leste pode ser admitido a participar na fase judicial do processo de extradição, através de representante designado para o efeito.\n2 - Se não acompanhar o pedido de extradição, o pedido de participação é dirigido ao Supremo Tribunal de Justiça, através da Autoridade Central.\n3 -  A   Autoridade Central submete o pedido de participação ao Ministro da Justiça, podendo ser indeferido se não estiver garantida a reciprocidade.\n4 -   A participação a que se refere o n.º 1 tem em vista possibilitar ao Estado requerente o contacto directo com o processo, com observância das regras relativas ao segredo de justiça, bem como fornecer ao Tribunal os elementos que este entenda solicitar."
+   }
+  },
+  {
+   "id": "TL-H115-A47",
+   "no": 47,
+   "noLabel": {
+    "pt": "Artigo 47.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Processo administrativo"
+   },
+   "text": {
+    "pt": "1 - Logo que receba o pedido de extradição, e verificada a sua regularidade formal, a Autoridade Central, quando o considere devidamente instruído, elabora informação no prazo máximo de 20 dias e submete-o à apreciação do Ministro da Justiça.\n2 - O Ministro da Justiça decide do pedido nos 10 dias subsequentes.\n3 -  Em caso de indeferimento do pedido o processo é arquivado, procedendo-se à comunicação a que se refere o n.º 3 do\nartigo 22.º.\n4 -  A  Autoridade Central adopta as medidas necessárias para a vigilância da pessoa reclamada."
+   }
+  },
+  {
+   "id": "TL-H115-A48",
+   "no": 48,
+   "noLabel": {
+    "pt": "Artigo 48.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Processo judicial"
+   },
+   "text": {
+    "pt": "1 - Para o processo judicial de extradição é competente o Supremo Tribunal de Justiça.\n2 -  O julgamento é da competência da secção criminal."
+   }
+  },
+  {
+   "id": "TL-H115-A49",
+   "no": 49,
+   "noLabel": {
+    "pt": "Artigo 49.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Início do processo"
+   },
+   "text": {
+    "pt": "1 - O pedido de extradição que deva prosseguir é remetido, conjuntamente com os elementos que o instruírem e respectiva decisão, ao Ministério Público no Supremo Tribunal de Justiça.\n2 - Dentro das quarenta e oito horas subsequentes, o Ministério Público promove o cumprimento do pedido."
+   }
+  },
+  {
+   "id": "TL-H115-A50",
+   "no": 50,
+   "noLabel": {
+    "pt": "Artigo 50.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Despacho liminar e detenção do extraditando"
+   },
+   "text": {
+    "pt": "1 - Efectuada a distribuição, o processo é imediatamente concluso para o juiz competente para, no prazo de 10 dias, proferir despacho liminar sobre a suficiência dos elementos que instruem o pedido e sobre a sua viabilidade.\n2-  Se entender que o processo deve ser logo arquivado, o relator faz submeter os autos, com o seu parecer escrito, a visto de cada um dos juízes-adjuntos por cinco dias, a fim de se decidir na primeira sessão.\n3 - Quando o processo deva prosseguir, é ordenada a entrega ao Ministério Público do mandado de detenção do extraditando, a fim de providenciar pela sua execução.\n4 - No caso de serem necessárias informações complementares, é ordenada apenas a vigilância do extraditando pelas autoridades competentes podendo, porém, efectuar-se desde logo a sua detenção se se mostrar necessária e houver sérios indícios de que o pedido de extradição deva proceder."
+   }
+  },
+  {
+   "id": "TL-H115-A51",
+   "no": 51,
+   "noLabel": {
+    "pt": "Artigo 51.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Prazo de detenção"
+   },
+   "text": {
+    "pt": "1 - A detenção do extraditando deve cessar e ser substituída por outra medida de coacção processual se a decisão do Supremo Tribunal de Justiça não for proferida dentro dos 65 dias posteriores à data em que foi efectivada.\n2 -  Se não for admissível medida de coacção não detentiva, o prazo referido no número anterior é prorrogado até ao limite máximo de 25 dias, dentro do qual deve ser obrigatoriamente proferida a decisão do Supremo Tribunal de Justiça."
+   }
+  },
+  {
+   "id": "TL-H115-A52",
+   "no": 52,
+   "noLabel": {
+    "pt": "Artigo 52.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Apresentação do detido"
+   },
+   "text": {
+    "pt": "1 - A autoridade que efectuar a detenção do extraditando comunica-a de imediato, pela via mais rápida e que permita o registo por escrito, ao Ministério Público junto do Supremo Tribunal de Justiça.\n2 - O extraditando é apresentado ao Ministério Público, juntamente com as coisas que lhe forem apreendidas, para audição pessoal no prazo máximo de quarenta e oito horas após a detenção.\n3 - O juiz competente procede à audição, nomeando previamente um defensor ao extraditando, se não tiver advogado constituído.\n4 - A notificação do extraditando para este acto deve ser pessoal e com advertência de que poderá fazer-se acompanhar de advogado constituído e de intérprete."
+   }
+  },
+  {
+   "id": "TL-H115-A53",
+   "no": 53,
+   "noLabel": {
+    "pt": "Artigo 53.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Audição do extraditando"
+   },
+   "text": {
+    "pt": "1 -  Na presença do Ministério Público e do defensor ou do advogado do extraditando, e com intervenção do intérprete, quando necessário, o juiz competente procede à identificação do detido, elucidando-o depois sobre o direito de se opor à extradição ou de consentir nela e nos termos em que o pode fazer, bem como sobre a faculdade de renunciar ao benefício da regra da especialidade, nos termos do direito convencional aplicável ao caso.\n2 - No caso do extraditando declarar que consente na sua entrega ao Estado requerente, é correspondentemente aplicável o disposto nos números 2 a 5 do artigo 39.º.\n3 -  Se se opuser à extradição, o juiz aprecia os fundamentos da oposição se ele os quiser expor, tudo lavrando em auto.\n4 – Existindo no caso a faculdade de renúncia ao benefício da regra da especialidade do n.º 1, é lavrado em auto o teor da informação prestada sobre aquela regra da especialidade, bem como a declaração do extraditando, sendo correspondentemente aplicável o disposto nos números 2 a 5 do artigo 39.º 5 -  É igualmente transcrita em auto a informação a que se refere o número anterior sempre que, nos termos do direito convencional aplicável, a renúncia ao benefício da especialidade possa ainda ser prestada perante a autoridade judiciária requerente, após a entrega da pessoa extraditada.\n6 - O Ministério Público e o defensor ou advogado do extraditando podem sugerir perguntas ao detido, que o juiz formulará se as considerar adequadas.\n7 - O disposto nos números 4 e 5 é igualmente aplicável à reextradição."
+   }
+  },
+  {
+   "id": "TL-H115-A54",
+   "no": 54,
+   "noLabel": {
+    "pt": "Artigo 54.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Oposição do extraditando"
+   },
+   "text": {
+    "pt": "1 -   Após a audição do extraditando, o processo é facultado ao seu defensor ou advogado constituído para, em oito dias, deduzir por escrito oposição fundamentada ao pedido de extradição e indicar meios de prova admitidos pela lei de Timor-Leste, sendo, porém, o número de testemunhas limitado a 10.\n2 -  A oposição só pode fundamentar-se em não ser o detido a pessoa reclamada ou em não se verificarem os pressupostos da extradição.\n3 - Apresentada a oposição ou findo o prazo em que o devia ser, o processo segue com vista por 5 dias ao Ministério Público para requerer o que tiver por conveniente, com o limite referido no número anterior quanto à indicação de testemunhas.\n4 -  Havendo coisas apreendidas, tanto o extraditando como o Ministério Público podem pronunciar-se sobre o seu destino.\n5 -  Os meios de prova oferecidos podem ser substituídos até ao dia anterior àquele em que devam produzir-se, desde que a substituição não envolva adiamento."
+   }
+  },
+  {
+   "id": "TL-H115-A55",
+   "no": 55,
+   "noLabel": {
+    "pt": "Artigo 55.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Produção da prova"
+   },
+   "text": {
+    "pt": "1 - As diligências requeridas e as que o juiz entender necessárias, como para decidir sobre o destino de coisas apreendidas, devem ser efectivadas no prazo máximo de 15 dias, com a presença do extraditando, do defensor ou advogado constituído e do intérprete, se necessário, bem como do Ministério Público.\n2 - Terminada a produção da prova, o Ministério Público, o defensor ou o advogado do extraditando têm, sucessivamente, vista do processo por 5 dias, para alegações."
+   }
+  },
+  {
+   "id": "TL-H115-A56",
+   "no": 56,
+   "noLabel": {
+    "pt": "Artigo 56.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Decisão final"
+   },
+   "text": {
+    "pt": "Se o extraditando não tiver apresentado oposição escrita, ou depois de produzidas as alegações nos termos do número 2 do artigo anterior, o juiz procede, em 10 dias, à decisão, nos termos da lei processual penal."
+   }
+  },
+  {
+   "id": "TL-H115-A57",
+   "no": 57,
+   "noLabel": {
+    "pt": "Artigo 57.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Entrega do extraditado"
+   },
+   "text": {
+    "pt": "1 -  É título necessário para a entrega do extraditado a certidão da decisão, transitada em julgado, que ordenar a extradição.\n2 -   Após o trânsito em julgado da decisão, o Ministério Público procede à respectiva comunicação aos serviços competentes do Ministério da Justiça, disso dando conhecimento à Autoridade Central.\n3 - A data da entrega é estabelecida até ao limite de 20 dias a contar do trânsito."
+   }
+  },
+  {
+   "id": "TL-H115-A58",
+   "no": 58,
+   "noLabel": {
+    "pt": "Artigo 58.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Prazo para remoção do extraditado"
+   },
+   "text": {
+    "pt": "1 -  O extraditado deve ser removido do território timorense na data que for acordada, nos termos do artigo anterior.\n2 -  Se ninguém aparecer a receber o extraditado na data referida no número anterior, será o mesmo restituído à liberdade, decorridos 20 dias sobre aquela data.\n3 -  O prazo referido no número anterior é prorrogável até ao limite máximo de 20 dias, quando razões de força maior, designadamente doença verificada nos termos do n.º 3 do\nartigo 33.º, impedirem a remoção dentro desse prazo.\n4 -  Pode deixar de ser atendido novo pedido de extradição da pessoa que tenha deixado de ser removida no prazo referido no n.º 2 ou, havendo prorrogação, decorrido o prazo desta.\n5 -  Após a entrega da pessoa são efectuadas as necessárias comunicações ao Tribunal e à Autoridade Central."
+   }
+  },
+  {
+   "id": "TL-H115-A59",
+   "no": 59,
+   "noLabel": {
+    "pt": "Artigo 59.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Forma da detenção provisória"
+   },
+   "text": {
+    "pt": "1 -   A detenção provisória é ordenada pelo juiz após certificarse da autenticidade, da regularidade e da admissibilidade do pedido, sendo, para o efeito, entregue mandado ao Ministério Público.\n2 -   A entidade que proceder à detenção apresenta o detido ao Ministério Público junto do Supremo Tribunal de Justiça, no prazo máximo de quarenta e oito horas após a detenção.\n3 -  A detenção é imediatamente comunicada à Autoridade Central, sendo emitido mandado de libertação quando deva cessar nos termos do n.º 5 do artigo 37.º"
+   }
+  },
+  {
+   "id": "TL-H115-A60",
+   "no": 60,
+   "noLabel": {
+    "pt": "Artigo 60.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Prazos"
+   },
+   "text": {
+    "pt": "1 - Recebido o pedido de extradição de pessoa detida, o processo administrativo é ultimado no prazo máximo de 15 dias.\n2 -  No caso da decisão do Ministro da Justiça ser favorável ao prosseguimento, o pedido é imediatamente remetido, por intermédio do Procurador-Geral da República, ao Ministério Público para promover imediatamente o seu cumprimento.\n3 -  A detenção do extraditando deve cessar e ser substituída por outra medida de coacção processual se a apresentação do pedido em juízo não ocorrer dentro dos 60 dias posteriores à data em que foi efectivada.\n4 -  A distribuição do processo no Supremo Tribunal de Justiça é imediata.\n5 -  A decisão do Ministro da Justiça que indefere o pedido é imediatamente remetida, por intermédio do Procurador- Geral da República, ao Ministério Público, para os efeitos da libertação do detido."
+   }
+  },
+  {
+   "id": "TL-H115-A61",
+   "no": 61,
+   "noLabel": {
+    "pt": "Artigo 61.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Competência e forma da detenção não directamente solicitada"
+   },
+   "text": {
+    "pt": "1 - A autoridade que efectuar uma detenção nos termos do\nartigo 38.º apresenta o detido ao Ministério Público junto do Supremo Tribunal de Justiça, para aí promover a audição judicial daquele.\n2 - No caso de ser confirmada, a detenção é comunicada imediatamente à Autoridade Central e, pela via mais rápida, à autoridade estrangeira a quem ela interessar, para que informe, urgentemente e pela mesma via, se irá ser formulado o pedido de extradição, solicitando-se-lhe ainda a observância dos prazos previstos no n.º 5 do artigo 37.º 3 - O detido será posto em liberdade 20 dias após a data da detenção se, entretanto, não chegar a informação referida no número anterior, ou 40 dias após a data da detenção se, tendo havido informação positiva, o pedido de extradição não for recebido nesse prazo."
+   }
+  },
+  {
+   "id": "TL-H115-A62",
+   "no": 62,
+   "noLabel": {
+    "pt": "Artigo 62.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Medidas de coacção não detentivas e competência"
+   },
+   "text": {
+    "pt": "As medidas de coacção não detentivas, quando admitidas nos casos de detenção provisória e de detenção não directamente solicitada, são da competência do Supremo Tribunal de Justiça."
+   }
+  },
+  {
+   "id": "TL-H115-A63",
+   "no": 63,
+   "noLabel": {
+    "pt": "Artigo 63.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Detenção posterior à fuga do extraditado"
+   },
+   "text": {
+    "pt": "1 -  O mandado de detenção no caso de fuga do extraditado é recebido pela Autoridade Central e deve conter ou ser acompanhado dos elementos necessários para se saber que se trata de pessoa anteriormente extraditada por Timor- Leste, que se evadiu antes de extinto o procedimento penal ou a pena.\n2 -  O mandado de detenção é remetido ao Ministério Público junto do Supremo Tribunal de Justiça."
+   }
+  },
+  {
+   "id": "TL-H115-A64",
+   "no": 64,
+   "noLabel": {
+    "pt": "Artigo 64.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Execução do pedido"
+   },
+   "text": {
+    "pt": "1 -  Requerido o cumprimento do mandado de detenção, o juiz competente ordena a respectiva execução depois de verificar a sua regularidade e que se refere à pessoa já extraditada.\n2 -  Nos oito dias posteriores à detenção, o extraditado pode deduzir oposição escrita à sua reentrega ao Estado requerente, com fundamento em que este violou as condições em que a extradição foi concedida, oferecendo logo as provas mas sendo limitado a cinco o número de testemunhas.\n3 - Deduzida a oposição, seguem-se, na parte aplicável, os termos dos números 3 e 5 do artigo 54.º e no que respeita à produção da prova e decisão final."
+   }
+  },
+  {
+   "id": "TL-H115-A65",
+   "no": 65,
+   "noLabel": {
+    "pt": "Artigo 65.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO II EXTRADIÇÃO  PASSIVA"
+   },
+   "heading": {
+    "pt": "Reentrega do extraditado"
+   },
+   "text": {
+    "pt": "1 - O Ministério Público promove a reentrega do extraditado no prazo máximo de 15 dias.\n2 -  A certidão da decisão, transitada em julgado, que ordenar a extradição é substituída pelo mandado de detenção devidamente cumprido."
+   }
+  },
+  {
+   "id": "TL-H115-A66",
+   "no": 66,
+   "noLabel": {
+    "pt": "Artigo 66.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO III EXTRADIÇÃO  ACTIVA"
+   },
+   "heading": {
+    "pt": "Competência e processo"
+   },
+   "text": {
+    "pt": "1 - Compete ao Ministro da Justiça formular o pedido de extradição de pessoa contra a qual exista processo pendente em tribunal timorense, ao Estado estrangeiro em cujo território ela se encontre.\n2 - O pedido, depois de devidamente instruído, deve ser transmitido pelas vias previstas neste diploma.\n3 - Compete à Autoridade Central organizar o processo, com base em requerimento do Ministério Público junto do Supremo Tribunal de Justiça.\n4 - O Ministro da Justiça pode solicitar ao Estado estrangeiro, ao qual tenha apresentado um pedido de extradição, a participação do Estado de Timor-Leste, através de representante, no processo de extradição."
+   }
+  },
+  {
+   "id": "TL-H115-A67",
+   "no": 67,
+   "noLabel": {
+    "pt": "Artigo 67.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO III EXTRADIÇÃO  ACTIVA"
+   },
+   "heading": {
+    "pt": "Reextradição"
+   },
+   "text": {
+    "pt": "À reextradição, pedida por Timor-Leste, são correspondentemente aplicáveis os números 4 e 5 do artigo 33.º."
+   }
+  },
+  {
+   "id": "TL-H115-A68",
+   "no": 68,
+   "noLabel": {
+    "pt": "Artigo 68.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO III EXTRADIÇÃO  ACTIVA"
+   },
+   "heading": {
+    "pt": "Difusão internacional do pedido de detenção provisória"
+   },
+   "text": {
+    "pt": "1 - O mandado judicial de detenção provisória com vista à extradição é remetido à Autoridade Central pelo Ministério Público junto do Supremo Tribunal de Justiça.\n2 - A Autoridade Central remete o mandado ao Gabinete Nacional da INTERPOL, dando disso conhecimento ao Supremo Tribunal de Justiça."
+   }
+  },
+  {
+   "id": "TL-H115-A69",
+   "no": 69,
+   "noLabel": {
+    "pt": "Artigo 69.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO III EXTRADIÇÃO  ACTIVA"
+   },
+   "heading": {
+    "pt": "Comunicação"
+   },
+   "text": {
+    "pt": "Concedida a extradição, a Autoridade Central comunica o facto ao Supremo Tribunal de Justiça."
+   }
+  },
+  {
+   "id": "TL-H115-A70",
+   "no": 70,
+   "noLabel": {
+    "pt": "Artigo 70.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO IV DISPOSIÇÃO  FINAL"
+   },
+   "heading": {
+    "pt": "Gratuitidade e férias"
+   },
+   "text": {
+    "pt": "1 -  Os processos de extradição são gratuitos, sem prejuízo do disposto nas alíneas b) a d) do n.º 2 e no n.º 4 do artigo 24.º.\n2 -  Os processos de extradição têm natureza urgente e correm mesmo em férias."
+   }
+  },
+  {
+   "id": "TL-H115-A71",
+   "no": 71,
+   "noLabel": {
+    "pt": "Artigo 71.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO V REGRAS  ESPECIAIS  RELATIVAS  AO  PROCESSO SIMPLIFICADO  DE  EXTRADIÇÃO"
+   },
+   "heading": {
+    "pt": "Âmbito e finalidades"
+   },
+   "text": {
+    "pt": "As disposições do presente capítulo regulamentam o processo de extradição, nos casos em que a pessoa reclamada dá o seu consentimento."
+   }
+  },
+  {
+   "id": "TL-H115-A72",
+   "no": 72,
+   "noLabel": {
+    "pt": "Artigo 72.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II EXTRADIÇÃO / CAPÍTULO V REGRAS  ESPECIAIS  RELATIVAS  AO  PROCESSO SIMPLIFICADO  DE  EXTRADIÇÃO"
+   },
+   "heading": {
+    "pt": "Autoridade competente e prazos"
+   },
+   "text": {
+    "pt": "1 -    A declaração de consentimento na extradição é comunicada directamente pelo juiz competente à autoridade requerente que solicitou a detenção provisória, no prazo máximo de 10 dias após a detenção.\n2 - No caso de o extraditando declarar que consente na sua entrega ao Estado requerente, o juiz informa-o do sentido da renúncia à regra da especialidade, nos casos em que esta for admissível, e dos efeitos do consentimento na extradição, bem como do momento e dos termos em que o pode fazer, tudo se lavrando no auto.\n3 - O juiz profere decisão homologatória do consentimento e procede à respectiva comunicação no prazo máximo de 20 dias após a data em que foi prestado o consentimento referido no n.º 1.\n4 - Se o considerar necessário, o juiz solicita à autoridade requerente informações complementares, ouvindo novamente a pessoa detida após a obtenção dessas informações, antes de proferir decisão.\n5 - Os prazos previstos nos números 1 e 3 contam-se a partir do momento da prestação do consentimento, se este for dado após o decurso do prazo referido no n.º 1.\n6 -  É correspondentemente aplicável o disposto no artigo 39.º 7 - O disposto nos números anteriores, no que se refere aos prazos e às comunicações, é aplicável aos casos em que Timor-Leste seja o Estado requerente."
+   }
+  },
+  {
+   "id": "TL-H115-A73",
+   "no": 73,
+   "noLabel": {
+    "pt": "Artigo 73.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRANSMISSÃO  DE  PROCESSOS  PENAIS / CAPÍTULO I DELEGAÇÃO  DO  PROCEDIMENTO  PENAL  NAS AUTORIDADES  JUDICIÁRIAS TIMORENSES"
+   },
+   "heading": {
+    "pt": "Princípio"
+   },
+   "text": {
+    "pt": "A pedido de um Estado estrangeiro pode ser instaurado, ou continuar em Timor-Leste, procedimento penal por um facto praticado fora do território timorense, nos termos dos artigos seguintes."
+   }
+  },
+  {
+   "id": "TL-H115-A74",
+   "no": 74,
+   "noLabel": {
+    "pt": "Artigo 74.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRANSMISSÃO  DE  PROCESSOS  PENAIS / CAPÍTULO I DELEGAÇÃO  DO  PROCEDIMENTO  PENAL  NAS AUTORIDADES  JUDICIÁRIAS TIMORENSES"
+   },
+   "heading": {
+    "pt": "Condições especiais"
+   },
+   "text": {
+    "pt": "1 - Para que possa ser instaurado, ou continuar em Timor- Leste, procedimento penal por facto praticado fora do território timorense é necessária a verificação das seguintes condições, para além das condições gerais previstas neste diploma:\na)   O recurso à extradição esteja excluído;\nb)   O Estado estrangeiro dê garantias de que não procederá penalmente, pelo mesmo facto, contra o suspeito ou arguido, no caso de o mesmo vir a ser definitivamente julgado por sentença de um tribunal timorense;\nc)   O procedimento penal tenha por objecto um facto que constitua crime segundo a lei do Estado estrangeiro e segundo a lei de Timor-Leste;\nd)    A pena ou a medida de segurança privativas da liberdade correspondentes ao facto sejam de duração máxima não inferior a um ano;\ne)   O suspeito ou o arguido tenha nacionalidade de Timor- Leste ou, tratando-se de estrangeiros ou apátridas, tenham a sua residência habitual em território timorense;\nf)   A aceitação do pedido se justifique pelo interesse da boa administração da justiça ou pela melhor reinserção social do suspeito ou do arguido, no caso de virem a ser condenados.\n2 - Pode ainda aceitar-se a instauração ou a continuação de procedimento penal em Timor-Leste, verificadas as condições do número anterior:\na)  Quando o suspeito ou arguido se encontrar a ser processado penalmente ou tiver sido condenado em Timor-Leste por outro facto a que corresponda pena ou medida de segurança de gravidade igual ou superior às referidas na alínea d) do número anterior e seja garantida a sua presença em juízo;\nb)  Se o Estado requerente considerar que a presença do suspeito ou do arguido não pode ser assegurada perante os seus tribunais, podendo sê-lo em Timor- Leste;\nc) Se o Estado estrangeiro considerar que não existem condições para executar uma eventual condenação, mesmo recorrendo à extradição, e que tais condições se verificam em Timor-Leste.\n3 - As disposições dos números anteriores não se aplicam se a reacção criminal que motiva o pedido for da competência dos tribunais timorenses, nos termos da legislação penal e processual penal de Timor-Leste."
+   }
+  },
+  {
+   "id": "TL-H115-A75",
+   "no": 75,
+   "noLabel": {
+    "pt": "Artigo 75.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRANSMISSÃO  DE  PROCESSOS  PENAIS / CAPÍTULO I DELEGAÇÃO  DO  PROCEDIMENTO  PENAL  NAS AUTORIDADES  JUDICIÁRIAS TIMORENSES"
+   },
+   "heading": {
+    "pt": "Direito aplicável"
+   },
+   "text": {
+    "pt": "Ao facto que é objecto do procedimento penal instaurado ou continuado em Timor-Leste, nas condições referidas no artigo anterior, é aplicada a reacção criminal prevista na lei de Timor- Leste, excepto se a lei do Estado estrangeiro que formula o pedido for mais favorável."
+   }
+  },
+  {
+   "id": "TL-H115-A76",
+   "no": 76,
+   "noLabel": {
+    "pt": "Artigo 76.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRANSMISSÃO  DE  PROCESSOS  PENAIS / CAPÍTULO I DELEGAÇÃO  DO  PROCEDIMENTO  PENAL  NAS AUTORIDADES  JUDICIÁRIAS TIMORENSES"
+   },
+   "heading": {
+    "pt": "Efeitos da aceitação do pedido relativamente ao Estado que o formula"
+   },
+   "text": {
+    "pt": "1 -  A aceitação, por Timor-Leste, do pedido formulado pelo Estado estrangeiro implica a renúncia, por este, ao procedimento relativo ao facto.\n2 -   Instaurado, ou continuado, em Timor-Leste, procedimento penal pelo facto, o Estado estrangeiro recupera o direito de proceder penalmente pelo mesmo facto após comunicação de Timor-Leste que o arguido se ausentou do território nacional."
+   }
+  },
+  {
+   "id": "TL-H115-A77",
+   "no": 77,
+   "noLabel": {
+    "pt": "Artigo 77.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRANSMISSÃO  DE  PROCESSOS  PENAIS / CAPÍTULO I DELEGAÇÃO  DO  PROCEDIMENTO  PENAL  NAS AUTORIDADES  JUDICIÁRIAS TIMORENSES"
+   },
+   "heading": {
+    "pt": "Tramitação do pedido"
+   },
+   "text": {
+    "pt": "1 -  O pedido formulado pelo Estado estrangeiro é acompanhado do original ou cópia autenticada do processo a transmitir, caso exista, e é submetido pelo Procurador-Geral da República a apreciação do Ministro da Justiça.\n2 -   Se o Ministro da Justiça decidir que o pedido é admissível, o expediente é remetido ao Supremo Tribunal de Justiça, que ordena imediatamente notificação para comparência do suspeito ou do arguido, bem como a do advogado constituído, se o houver.\n3 - Se o suspeito ou o arguido não comparecerem, o tribunal verifica se a notificação foi feita pela forma legal e nomeia defensor oficioso, na falta de advogado constituído ou se este também não aparecer, de tudo se lavrando auto.\n4 - O juiz, oficiosamente ou a requerimento do Ministério Público, do suspeito, do arguido ou do seu defensor, pode ordenar a repetição da notificação a que se refere o n.º 2.\n5 - O suspeito, o arguido ou seu defensor são convidados a exporem as suas razões contra ou a favor da aceitação do pedido, de igual faculdade gozando o Ministério Público.\n6 - Se necessário, o juiz procede ou manda proceder às diligências de prova que repute indispensáveis, por sua iniciativa ou a requerimento do Ministério Público, do suspeito, do arguido ou do seu defensor, fixando, para o efeito, um prazo não superior a 30 dias.\n7 - Efectuadas as diligências ou esgotado o prazo a que se refere o número anterior, o Ministério Público e o suspeito ou arguido podem pronunciar-se no prazo de 10 dias, alegando o que tiverem por conveniente.\n8 -  O juiz decide sobre o pedido no prazo de oito dias.\n9 -   Na pendência do pedido, o juiz sujeita o arguido à prestação de termo de identidade e residência, sem prejuízo da possibilidade de adopção de outras medidas de coacção e garantia patrimonial previstas no Código de Processo Penal."
+   }
+  },
+  {
+   "id": "TL-H115-A78",
+   "no": 78,
+   "noLabel": {
+    "pt": "Artigo 78.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRANSMISSÃO  DE  PROCESSOS  PENAIS / CAPÍTULO I DELEGAÇÃO  DO  PROCEDIMENTO  PENAL  NAS AUTORIDADES  JUDICIÁRIAS TIMORENSES"
+   },
+   "heading": {
+    "pt": "Efeitos da decisão sobre o pedido"
+   },
+   "text": {
+    "pt": "Em caso de aceitação do pedido, o juiz, conforme os casos:\na) Ordena a remessa dos autos à autoridade judiciária competente para instauração ou continuação do procedimento penal;\nb)   Pratica os actos necessários à continuação do processo, se este relevar da sua competência."
+   }
+  },
+  {
+   "id": "TL-H115-A79",
+   "no": 79,
+   "noLabel": {
+    "pt": "Artigo 79.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRANSMISSÃO  DE  PROCESSOS  PENAIS / CAPÍTULO I DELEGAÇÃO  DO  PROCEDIMENTO  PENAL  NAS AUTORIDADES  JUDICIÁRIAS TIMORENSES"
+   },
+   "heading": {
+    "pt": "Convalidação dos actos praticados no estrangeiro"
+   },
+   "text": {
+    "pt": "A decisão judicial que ordena a continuação do processo penal deve declarar a convalidação dos actos praticados no processo transmitido, como se tivessem sido praticados perante as autoridades judiciárias de Timor-Leste, salvo se se tratar de actos inadmissíveis face à legislação processual penal timorense."
+   }
+  },
+  {
+   "id": "TL-H115-A80",
+   "no": 80,
+   "noLabel": {
+    "pt": "Artigo 80.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRANSMISSÃO  DE  PROCESSOS  PENAIS / CAPÍTULO I DELEGAÇÃO  DO  PROCEDIMENTO  PENAL  NAS AUTORIDADES  JUDICIÁRIAS TIMORENSES"
+   },
+   "heading": {
+    "pt": "Revogação da decisão"
+   },
+   "text": {
+    "pt": "1 - A autoridade judiciária pode revogar a decisão, a requerimento do Ministério Público, do suspeito, do arguido ou do defensor, quando, na pendência do processo:\na)   Houver conhecimento superveniente de qualquer uma das causas de inadmissibilidade da cooperação previstas neste diploma; ou\nb)  Não possa assegurar-se a comparência do arguido em julgamento ou para execução de sentença privativa de liberdade, nos casos em que o arguido se ausentou do território nacional, previstos na presente lei."
+   }
+  },
+  {
+   "id": "TL-H115-A81",
+   "no": 81,
+   "noLabel": {
+    "pt": "Artigo 81.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRANSMISSÃO  DE  PROCESSOS  PENAIS / CAPÍTULO I DELEGAÇÃO  DO  PROCEDIMENTO  PENAL  NAS AUTORIDADES  JUDICIÁRIAS TIMORENSES"
+   },
+   "heading": {
+    "pt": "Comunicações"
+   },
+   "text": {
+    "pt": "1 -  São comunicadas à Autoridade Central, para notificação ao Estado estrangeiro que formulou o pedido:\na) A decisão sobre a admissibilidade deste;\nb) A decisão que revoga a anterior;\nc) A sentença proferida no processo;\nd) Qualquer outra decisão que lhe ponha termo.\n2 - A notificação é acompanhada de certidão ou cópia autenticada das decisões referidas no número anterior."
+   }
+  },
+  {
+   "id": "TL-H115-A82",
+   "no": 82,
+   "noLabel": {
+    "pt": "Artigo 82.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRANSMISSÃO  DE  PROCESSOS  PENAIS / CAPÍTULO I DELEGAÇÃO  DO  PROCEDIMENTO  PENAL  NAS AUTORIDADES  JUDICIÁRIAS TIMORENSES"
+   },
+   "heading": {
+    "pt": "Competência territorial"
+   },
+   "text": {
+    "pt": "Salvo no caso de se encontrar já definida a competência territorial, aplica-se aos actos de cooperação internacional previstos no presente capítulo o disposto no Código de Processo Penal."
+   }
+  },
+  {
+   "id": "TL-H115-A83",
+   "no": 83,
+   "noLabel": {
+    "pt": "Artigo 83.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRANSMISSÃO  DE  PROCESSOS  PENAIS / CAPÍTULO II DELEGAÇÃO  NUM  ESTADO  ESTRANGEIRO  DO PROCEDIMENTO  PENAL"
+   },
+   "heading": {
+    "pt": "Princípio"
+   },
+   "text": {
+    "pt": "A instauração de procedimento penal ou a continuação de procedimento instaurado em Timor-Leste por facto que constitua crime segundo o Direito de Timor-Leste, podem ser delegadas num Estado estrangeiro que as aceite, nas condições referidas nos artigos seguintes."
+   }
+  },
+  {
+   "id": "TL-H115-A84",
+   "no": 84,
+   "noLabel": {
+    "pt": "Artigo 84.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRANSMISSÃO  DE  PROCESSOS  PENAIS / CAPÍTULO II DELEGAÇÃO  NUM  ESTADO  ESTRANGEIRO  DO PROCEDIMENTO  PENAL"
+   },
+   "heading": {
+    "pt": "Condições especiais"
+   },
+   "text": {
+    "pt": "1 - A delegação da instauração de procedimento penal ou da sua continuação num Estado estrangeiro dependem da verificação das condições gerais previstas no presente diploma e ainda das seguintes condições especiais:\na)  Que o facto integre crime segundo a legislação de Timor- Leste e segundo a legislação daquele Estado;\nb)  Que a reacção criminal privativa da liberdade seja de duração máxima não inferior a um ano;\nc)   Que o suspeito ou o arguido tenham a nacionalidade do Estado estrangeiro ou, sendo nacionais de um terceiro Estado ou apátridas, ali tenham a residência habitual;\nd)   Quando a delegação se justificar pelo interesse da boa administração da justiça ou pela melhor reinserção social em caso de condenação.\n2 - Verificadas as condições a que se refere o número anterior, pode ainda ter lugar a delegação:\na) Quando o suspeito ou o arguido estiverem a cumprir sentença no Estado estrangeiro por crime mais grave do que o cometido em Timor-Leste;\nb) Quando, em conformidade com a lei do Estado estrangeiro, não possa ser obtida a extradição do suspeito ou do arguido ou, quando solicitada, ela for negada e estes tenham residência habitual nesse Estado;\nc)  Quando o suspeito ou o arguido forem extraditados para o Estado estrangeiro por outros factos e seja previsível que a delegação do processo criminal permita assegurar melhor reinserção social.\n3 - A delegação pode ainda efectuar-se, independentemente da nacionalidade do agente, quando Timor-Leste considerar que a presença do arguido em audiência de julgamento não pode ser assegurada, podendo todavia sê-lo no Estado estrangeiro.\n4 -    Excepcionalmente, a delegação pode efectuar-se independentemente da residência habitual, quando as circunstâncias do caso o aconselharem, designadamente para evitar que o julgamento não possa efectivar-se quer em Timor- Leste quer noutro Estado. Nomeadamente, para evitar aquelas situações em que o julgamento não se pode realizar quer em Timor-Leste quer noutro Estado."
+   }
+  },
+  {
+   "id": "TL-H115-A85",
+   "no": 85,
+   "noLabel": {
+    "pt": "Artigo 85.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRANSMISSÃO  DE  PROCESSOS  PENAIS / CAPÍTULO II DELEGAÇÃO  NUM  ESTADO  ESTRANGEIRO  DO PROCEDIMENTO  PENAL"
+   },
+   "heading": {
+    "pt": "Processo de delegação"
+   },
+   "text": {
+    "pt": "1 - O tribunal competente para conhecer do facto aprecia a necessidade da delegação, a requerimento do Ministério Público, do suspeito ou do arguido, com audiência contraditória, na qual se expõem as razões para solicitar ou denegar esta forma de cooperação internacional.\n2 - O Ministério Público bem como o suspeito ou o arguido podem responder ao requerimento a que se refere o n.º 1 no prazo de 10 dias, quando não sejam os requerentes.\n3 -   Após a resposta ou decorrido o prazo para a mesma, o juiz decide, no prazo de oito dias, da procedência ou improcedência do pedido.\n4 -  Se o suspeito ou o arguido estiverem no estrangeiro, podem, por si ou pelo seu representante legal ou advogado, pedir a delegação do procedimento penal directamente ou através de uma autoridade do Estado estrangeiro ou de autoridade consular timorense, que o encaminharão para a Autoridade Central.\n5 - A decisão transitada favorável ao pedido determina a suspensão do prazo de prescrição, bem como da continuação do processo penal instaurado, sem prejuízo dos actos e diligências de carácter urgente, e é transmitida através do Procurador-Geral da República para apreciação do Ministro da Justiça, remetendo-se cópia autenticada de todo o processado."
+   }
+  },
+  {
+   "id": "TL-H115-A86",
+   "no": 86,
+   "noLabel": {
+    "pt": "Artigo 86.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRANSMISSÃO  DE  PROCESSOS  PENAIS / CAPÍTULO II DELEGAÇÃO  NUM  ESTADO  ESTRANGEIRO  DO PROCEDIMENTO  PENAL"
+   },
+   "heading": {
+    "pt": "Transmissão do pedido"
+   },
+   "text": {
+    "pt": "O pedido do Ministro da Justiça ao Estado estrangeiro é apresentado pelas vias previstas no presente diploma."
+   }
+  },
+  {
+   "id": "TL-H115-A87",
+   "no": 87,
+   "noLabel": {
+    "pt": "Artigo 87.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRANSMISSÃO  DE  PROCESSOS  PENAIS / CAPÍTULO II DELEGAÇÃO  NUM  ESTADO  ESTRANGEIRO  DO PROCEDIMENTO  PENAL"
+   },
+   "heading": {
+    "pt": "Efeitos da delegação"
+   },
+   "text": {
+    "pt": "1 - Aceite, pelo Estado estrangeiro, a delegação para a instauração ou continuação do procedimento penal, não pode instaurar-se novo processo em Timor-Leste pelo mesmo facto.\n2 -   A suspensão da prescrição do procedimento penal mantémse até que o Estado estrangeiro ponha termo ao processo, incluindo a execução da sentença.\n3 -Timor-Leste recupera, porém, o direito de proceder penalmente pelo facto se:\na)   O Estado estrangeiro comunicar que não pode levar até ao fim o procedimento delegado;\nb)  Houver conhecimento superveniente de qualquer causa que impediria o pedido de delegação, nos termos do presente diploma.\n4 -   A sentença proferida no processo instaurado ou continuado no Estado estrangeiro que aplique pena ou medida de segurança é inscrita no registo criminal e produz efeitos como se tivesse sido proferida por um tribunal timorense.\n5 - O disposto no número anterior aplica-se a qualquer decisão que, no processo estrangeiro, lhe ponha termo."
+   }
+  },
+  {
+   "id": "TL-H115-A88",
+   "no": 88,
+   "noLabel": {
+    "pt": "Artigo 88.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRANSMISSÃO  DE  PROCESSOS  PENAIS / CAPÍTULO III DISPOSIÇÃO  COMUM"
+   },
+   "heading": {
+    "pt": "Custas"
+   },
+   "text": {
+    "pt": "1 -    As custas eventualmente devidas no processo estrangeiro, anteriormente à aceitação do pedido de delegação em Timor-Leste, acrescem às devidas no processo timorense e são neste cobradas, sem reembolso àquele Estado.\n2 - Timor-Leste informa o Estado estrangeiro das custas devidas no processo, anteriormente à aceitação, por aquele, do pedido de delegação do procedimento, não se exigindo o seu reembolso."
+   }
+  },
+  {
+   "id": "TL-H115-A89",
+   "no": 89,
+   "noLabel": {
+    "pt": "Artigo 89.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO I EXECUÇÃO  DE  SENTENÇAS  PENAIS ESTRANGEIRAS"
+   },
+   "heading": {
+    "pt": "Princípio"
+   },
+   "text": {
+    "pt": "1 - As sentenças penais estrangeiras, transitadas em julgado, podem ser executadas em Timor-Leste, nas condições previstas neste diploma.\n2 -O pedido de delegação é formulado pelo Estado da condenação."
+   }
+  },
+  {
+   "id": "TL-H115-A90",
+   "no": 90,
+   "noLabel": {
+    "pt": "Artigo 90.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO I EXECUÇÃO  DE  SENTENÇAS  PENAIS ESTRANGEIRAS"
+   },
+   "heading": {
+    "pt": "Condições especiais de admissibilidade"
+   },
+   "text": {
+    "pt": "1 - O pedido de execução, em Timor-Leste, de uma sentença penal estrangeira só é admissível quando, para além das condições gerais estabelecidas neste diploma, se verificarem as seguintes:\na)    A sentença condenar por factos criminosos em que são competentes os tribunais do Estado estrangeiro;\nb)   Se a condenação resultar de julgamento na ausência do condenado, desde que o mesmo tenha tido a possibilidade legal de requerer novo julgamento ou de interpor recurso da sentença;\nc)  Não contenha disposições contrárias aos princípios fundamentais do ordenamento jurídico timorense;\nd)  O facto não seja objecto de procedimento penal em Timor-Leste;\ne)   O facto seja também previsto como crime pela legislação penal timorense;\nf)   O condenado seja timorense, estrangeiro ou apátrida que resida habitualmente em Timor-Leste;\ng)  A execução da sentença em Timor-Leste se justifique pelo interesse da melhor reinserção social do condenado ou da reparação do dano causado pelo crime;\nh)  O Estado estrangeiro dê garantias de que, cumprida a sentença em Timor-Leste, considerará extinta a responsabilidade penal do condenado;\n(i)      A duração das penas ou medidas de segurança impostas na sentença não seja inferior a um ano;\nj)    O condenado der o seu consentimento, tratando-se de reacção criminal privativa de liberdade.\n2 - Sem prejuízo do número anterior, pode ainda executar-se uma sentença estrangeira se o condenado cumprir, em Timor-Leste, condenação por facto distinto do estabelecido na sentença cuja execução é pedida.\n3 - A execução de sentença estrangeira que impõe reacção criminal privativa de liberdade é também admissível, ainda que não se verifiquem as condições das alíneas g) e j) do n.º 1, quando, em caso de evasão para Timor-Leste ou noutra situação em que a pessoa aí se encontre, tiver sido negada a extradição do condenado pelos factos constantes da sentença.\n4 - O disposto no número anterior é também aplicável, mediante acordo entre Timor-Leste e o Estado interessado, ouvida previamente a pessoa em causa, aos casos em que houver lugar à aplicação de uma medida de expulsão posterior ao cumprimento da pena.\n5 - A condição referida na alínea (i) do n.º 1 pode ser dispensada em casos especiais, designadamente se o estado de saúde do condenado ou razões de ordem familiar ou profissional assim aconselharem."
+   }
+  },
+  {
+   "id": "TL-H115-A91",
+   "no": 91,
+   "noLabel": {
+    "pt": "Artigo 91.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO I EXECUÇÃO  DE  SENTENÇAS  PENAIS ESTRANGEIRAS"
+   },
+   "heading": {
+    "pt": "Execução de decisões proferidas por autoridades administrativas"
+   },
+   "text": {
+    "pt": "1 -  É também possível a execução de decisões finais proferidas em processos por infracções penais, bem como de infracções que constituam ilícito de mera ordenação social, cujos processos admitam recurso judicial, desde que o interessado tenha tido a possibilidade de recorrer a uma instância judicial.\n2 -  A transmissão do pedido de execução efectua-se conforme o disposto nos tratados de que Timor-Leste seja parte ou, na sua falta, através da Autoridade Central, nos termos previstos neste diploma."
+   }
+  },
+  {
+   "id": "TL-H115-A92",
+   "no": 92,
+   "noLabel": {
+    "pt": "Artigo 92.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO I EXECUÇÃO  DE  SENTENÇAS  PENAIS ESTRANGEIRAS"
+   },
+   "heading": {
+    "pt": "Limites da execução"
+   },
+   "text": {
+    "pt": "1 -  A execução da sentença estrangeira limita-se:\na)    À pena ou medida de segurança que implique privação da liberdade, ou pena pecuniária se, neste caso, forem encontrados em Timor-Leste bens do condenado suficientes para garantir, no todo ou em parte, essa execução;\nb)   À perda de produtos, objectos e instrumentos do crime;\nc) À indemnização civil, constante da mesma, se o interessado a requerer.\n2 -    A execução das custas do processo limita-se às que forem devidas ao Estado requerente.\n3 -   A execução da pena pecuniária importa a sua conversão em dólares americanos, segundo o câmbio oficial do dia em que for proferida a decisão de revisão e confirmação.\n4 - As sanções acessórias e as medidas de segurança de interdição de profissões, actividades e direitos só se executam se puderem ter eficácia prática em Timor-Leste."
+   }
+  },
+  {
+   "id": "TL-H115-A93",
+   "no": 93,
+   "noLabel": {
+    "pt": "Artigo 93.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO I EXECUÇÃO  DE  SENTENÇAS  PENAIS ESTRANGEIRAS"
+   },
+   "heading": {
+    "pt": "Documentos e tramitação do pedido"
+   },
+   "text": {
+    "pt": "1 -   O pedido é submetido, pela Autoridade Central, à apreciação do Ministro da Justiça.\n2 -  O pedido é acompanhado de certidão ou cópia autenticada da sentença a executar e, se for caso disso, de declaração de consentimento do condenado, bem como de informação relativa à duração da prisão preventiva ou ao tempo de cumprimento da sanção criminal até à apresentação do pedido.\n3 - Quando a sentença respeitar a várias pessoas ou impuser diferentes reacções criminais, o pedido é acompanhado de certidão ou cópia autenticada da parte da sentença a que concretamente se refere a execução.\n4 -  Se o Ministro da Justiça considerar o pedido admissível, o expediente é remetido, por intermédio do Procurador-Geral da República, ao Ministério Público junto do Supremo Tribunal de Justiça, para promover o procedimento de revisão e confirmação da sentença.\n5 - O Ministério Público requer a audição do condenado ou do seu defensor para que se pronunciem sobre o pedido, salvo se o consentimento já tiver sido prestado nos termos do n.º 1, ou se tiver sido ele a requerer a delegação da execução ao Estado da condenação."
+   }
+  },
+  {
+   "id": "TL-H115-A94",
+   "no": 94,
+   "noLabel": {
+    "pt": "Artigo 94.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO I EXECUÇÃO  DE  SENTENÇAS  PENAIS ESTRANGEIRAS"
+   },
+   "heading": {
+    "pt": "Revisão e confirmação da sentença estrangeira"
+   },
+   "text": {
+    "pt": "1 -  A força executiva da sentença estrangeira depende de prévia revisão e confirmação, segundo o disposto no Código de Processo Penal e o previsto nas alíneas a) e c) do n.º 2 do artigo 5.º do presente diploma.\n2 - Quando se pronunciar pela revisão e confirmação, o tribunal:\na)   Está vinculado à matéria de facto considerada provada na sentença estrangeira;\nb)  Não pode converter uma pena privativa de liberdade em pena pecuniária;\nc)   Não pode agravar, em caso algum, a reacção estabelecida na sentença estrangeira.\n3 -  Em caso de omissão, obscuridade ou insuficiência da matéria de facto, o tribunal pede as informações necessárias, sendo a confirmação negada quando não for possível obtê-las.\n4 - O procedimento de cooperação regulado no presente capítulo tem carácter urgente e corre mesmo em férias.\n5 -  Se respeitar a pessoa que se encontre detida, o pedido é decidido no prazo de seis meses, contados da data em que tiver dado entrada no tribunal."
+   }
+  },
+  {
+   "id": "TL-H115-A95",
+   "no": 95,
+   "noLabel": {
+    "pt": "Artigo 95.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO I EXECUÇÃO  DE  SENTENÇAS  PENAIS ESTRANGEIRAS"
+   },
+   "heading": {
+    "pt": "Direito aplicável e efeitos da execução"
+   },
+   "text": {
+    "pt": "1 - A execução de uma sentença estrangeira faz-se em conformidade com a legislação de Timor-Leste.\n2 - As sentenças estrangeiras executadas em Timor-Leste produzem os mesmos efeitos que a lei timorense às sentenças proferidas pelos tribunais nacionais.\n3 - O Estado estrangeiro que solicita a execução é o único competente para decidir do recurso de revisão da sentença exequenda.\n4 - A amnistia, o perdão genérico e o indulto podem ser concedidos tanto pelo Estado estrangeiro como por Timor- Leste.\n5 - O Supremo Tribunal de Justiça põe termo à execução quando:\na)   Tiver conhecimento de que o condenado foi beneficiado com amnistia, perdão ou indulto que tenham extinguido a pena e as sanções acessórias;\nb)   A execução respeitar a pena pecuniária e o condenado a tiver pago no Estado requerente.\n6 -  O indulto e o perdão genérico parciais ou a substituição da pena por outra são levados em conta na execução.\n7 -  O Estado estrangeiro deve informar o tribunal da execução de qualquer decisão que implique a cessação desta, nos termos do n.º 5.\n8 - O início da execução em Timor-Leste implica renúncia do Estado estrangeiro à execução da sentença, salvo se o condenado se evadir, caso em que recupera o seu direito de execução ou, tratando-se de pena pecuniária, a partir do momento em que for informado da não execução, total ou parcial, dessa pena."
+   }
+  },
+  {
+   "id": "TL-H115-A96",
+   "no": 96,
+   "noLabel": {
+    "pt": "Artigo 96.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO I EXECUÇÃO  DE  SENTENÇAS  PENAIS ESTRANGEIRAS"
+   },
+   "heading": {
+    "pt": "Estabelecimento prisional para execução da sentença"
+   },
+   "text": {
+    "pt": "1 - Transitada em julgado a decisão que confirma a sentença estrangeira e que implique cumprimento de reacção criminal privativa da liberdade, o Ministério Público providencia pela execução de mandado de condução ao estabelecimento prisional mais próximo do local da residência ou da última residência em Timor-Leste do condenado.\n2 -  Não sendo possível determinar o local da residência ou da última residência da pessoa condenada, esta dará entrada em estabelecimento prisional situado na área do distrito judicial de Díli."
+   }
+  },
+  {
+   "id": "TL-H115-A97",
+   "no": 97,
+   "noLabel": {
+    "pt": "Artigo 97.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO I EXECUÇÃO  DE  SENTENÇAS  PENAIS ESTRANGEIRAS"
+   },
+   "heading": {
+    "pt": "Tribunal competente para a execução"
+   },
+   "text": {
+    "pt": "Para a execução da sentença revista e confirmada é competente o Supremo Tribunal de Justiça."
+   }
+  },
+  {
+   "id": "TL-H115-A98",
+   "no": 98,
+   "noLabel": {
+    "pt": "Artigo 98.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO II EXECUÇÃO  NO  ESTRANGEIRO  DE  SENTENÇAS PENAIS  DE  TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Condições da delegação"
+   },
+   "text": {
+    "pt": "1 - Pode ser delegada num Estado estrangeiro a execução de uma sentença penal de Timor-Leste quando, para além das condições gerais previstas neste diploma:\na)  O condenado for nacional desse Estado, ou de um terceiro Estado ou apátrida e tenha residência habitual naquele Estado;\nb) O condenado for timorense, desde que resida habitualmente no Estado estrangeiro;\nc)   Não for possível ou não se julgar aconselhável obter a extradição para cumprimento da sentença timorense;\nd)  Existirem razões para crer que a delegação permitirá melhor reinserção social do condenado;\ne)    O condenado, tratando-se de reacção criminal privativa da liberdade, informado das consequências da execução no estrangeiro, der o seu consentimento;\nf)    A duração da pena ou medida de segurança impostas na sentença não for inferior a um ano, podendo, no entanto, mediante acordo com o Estado estrangeiro, dispensar-se esta condição em casos especiais, designadamente em função do estado de saúde do condenado ou de outras razões de ordem familiar ou profissional.\n2 - Verificadas as condições do número anterior, a delegação é ainda admissível se o condenado estiver a cumprir reacção criminal privativa da liberdade no Estado estrangeiro por facto distinto dos que motivaram a condenação em Timor- Leste.\n3 -  A execução no estrangeiro de sentença timorense que impõe reacção criminal privativa de liberdade é também admissível, ainda que não se verifiquem as condições das alíneas d) e e) do n.º 1, quando o condenado se encontrar no território do Estado estrangeiro e a extradição não for possível ou for negada, pelos factos constantes da sentença.\n4 - O disposto no número anterior pode também aplicar-se sempre que as circunstâncias do caso o aconselhem, mediante acordo com o Estado estrangeiro, quando houver lugar à aplicação de pena acessória de expulsão.\n5 - A delegação está subordinada à condição de não agravação, no Estado estrangeiro, da reacção imposta na sentença timorense."
+   }
+  },
+  {
+   "id": "TL-H115-A99",
+   "no": 99,
+   "noLabel": {
+    "pt": "Artigo 99.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO II EXECUÇÃO  NO  ESTRANGEIRO  DE  SENTENÇAS PENAIS  DE  TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Delegação da execução pecuniária"
+   },
+   "text": {
+    "pt": "Não existindo em Timor-Leste bens suficientes para garantirem a execução de pena pecuniária na sua totalidade, é admitida a delegação relativamente à parte que faltar."
+   }
+  },
+  {
+   "id": "TL-H115-A100",
+   "no": 100,
+   "noLabel": {
+    "pt": "Artigo 100.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO II EXECUÇÃO  NO  ESTRANGEIRO  DE  SENTENÇAS PENAIS  DE  TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Efeitos da delegação"
+   },
+   "text": {
+    "pt": "1 - A aceitação, pelo Estado estrangeiro, da delegação da execução implica renúncia de Timor-Leste à execução da sentença.\n2 - Aceite a delegação da execução, o tribunal suspende-a desde a data do seu início naquele Estado até ao integral cumprimento ou até que ele comunique não poder assegurar o cumprimento.\n3 - No acto da entrega da pessoa condenada, o Estado estrangeiro é informado do tempo de privação de liberdade já cumprido em Timor-Leste, bem como do tempo ainda por cumprir.\n4 -  O disposto no n.º 1 não obsta a que Timor-Leste recupere o seu direito de execução da sentença, nos casos em que o condenado se evadir ou, tratando-se de pena pecuniária, a partir do momento em que for informado da não execução, total ou parcial, dessa pena."
+   }
+  },
+  {
+   "id": "TL-H115-A101",
+   "no": 101,
+   "noLabel": {
+    "pt": "Artigo 101.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO II EXECUÇÃO  NO  ESTRANGEIRO  DE  SENTENÇAS PENAIS  DE  TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Processo da delegação"
+   },
+   "text": {
+    "pt": "1 - O pedido de delegação da execução de sentença num Estado estrangeiro é formulado ao Ministro da Justiça pelo Procurador-Geral da República:\na)   A pedido daquele Estado;\nb)  Por iniciativa do Ministério Público; ou\nc)  A requerimento do condenado, do assistente ou da parte civil, neste último caso circunscrito à execução da indemnização civil constante da sentença.\n2 -  O Ministro da Justiça decide no prazo de 15 dias.\n3 -  Se o Ministro da Justiça o considerar admissível, o pedido é transmitido de imediato, pela Autoridade Central ao Ministério Público junto do Supremo Tribunal de Justiça, para que promova o respectivo procedimento.\n4 - Quando for necessário o consentimento do condenado, deve o mesmo ser prestado perante aquele tribunal, salvo se ele se encontrar no estrangeiro, caso em que pode ser prestado perante uma autoridade consular timorense ou perante uma autoridade judiciária estrangeira.\n5 -   Se o condenado se encontrar em Timor-Leste, o Ministério Público requer a sua notificação para, em 10 dias, dizer o que entender, quando não for ele a deduzir o pedido.\n6 -   A falta de resposta do condenado equivale a concordância com o pedido, disso devendo ser advertido no acto da notificação.\n7 - Para os efeitos dos nºs 4 e 6, é expedida carta rogatória à autoridade estrangeira ou enviado ofício à autoridade consular timorense, fixando-se, em ambos os casos, prazo para o seu cumprimento.\n8 - O Supremo Tribunal de Justiça procede às diligências que reputar necessárias para a decisão, incluindo, para o efeito, a apresentação do processo da condenação, se este não lhe tiver sido já remetido."
+   }
+  },
+  {
+   "id": "TL-H115-A102",
+   "no": 102,
+   "noLabel": {
+    "pt": "Artigo 102.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO II EXECUÇÃO  NO  ESTRANGEIRO  DE  SENTENÇAS PENAIS  DE  TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Prazos"
+   },
+   "text": {
+    "pt": "1 - O procedimento de cooperação regulado no presente capítulo é urgente e corre mesmo em férias.\n2 - Se o pedido respeitar a execução de sentença que impõe reacção privativa de liberdade, é o mesmo decidido no prazo de seis meses, contados da data em que tiver dado entrada no tribunal."
+   }
+  },
+  {
+   "id": "TL-H115-A103",
+   "no": 103,
+   "noLabel": {
+    "pt": "Artigo 103.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO II EXECUÇÃO  NO  ESTRANGEIRO  DE  SENTENÇAS PENAIS  DE  TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Apresentação do pedido"
+   },
+   "text": {
+    "pt": "1 -   A decisão favorável à delegação determina a apresentação de pedido do Ministro da Justiça ao Estado estrangeiro, através da Autoridade Central, acompanhado dos seguintes documentos:\na)   Certidão ou cópia autenticada da sentença timorense, com menção do trânsito em julgado;\nb)  Declaração relativa à duração da privação de liberdade já decorrida, até ao momento do pedido;\nc)  Declaração do consentimento do condenado, quando exigida.\n2 - Se a autoridade estrangeira competente para a execução comunicar que o pedido é aceite, a Autoridade Central solicita ser informada daquela execução até total cumprimento."
+   }
+  },
+  {
+   "id": "TL-H115-A104",
+   "no": 104,
+   "noLabel": {
+    "pt": "Artigo 104.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO III DESTINO  DE  MULTAS  E  COISAS  APREENDIDAS  E MEDIDAS  CAUTELARES"
+   },
+   "heading": {
+    "pt": "Destino das multas e das coisas apreendidas"
+   },
+   "text": {
+    "pt": "1 -    A importância das penas pecuniárias resultante da execução da sentença estrangeira reverte para o Estado Timorense.\n2 -  Se o Estado da condenação o solicitar, pode aquela importância ser-lhe entregue se, nas mesmas circunstâncias, igual procedimento fosse adoptado em relação a Timor-Leste.\n3 -  O disposto nos números anteriores aplica-se reciprocamente ao caso de delegação, no Estado estrangeiro, da execução de sentença timorense.\n4 -  As coisas apreendidas em resultado de decisão que decrete a sua perda revertem para o Estado da execução, mas podem ser entregues ao Estado da condenação, a seu pedido, se para este revestirem particular interesse e estiver garantida a reciprocidade."
+   }
+  },
+  {
+   "id": "TL-H115-A105",
+   "no": 105,
+   "noLabel": {
+    "pt": "Artigo 105.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO III DESTINO  DE  MULTAS  E  COISAS  APREENDIDAS  E MEDIDAS  CAUTELARES"
+   },
+   "heading": {
+    "pt": "Medidas de coacção"
+   },
+   "text": {
+    "pt": "1 -   A requerimento do Ministério Público, o Supremo Tribunal de Justiça, no processo de revisão e confirmação de sentença estrangeira para fins de execução de reacção criminal privativa da liberdade, pode sujeitar o condenado que se encontre em Timor-Leste a medida de coacção que considere adequada.\n2 -  Se tiver sido aplicada prisão preventiva e a mesma não tiver sido confirmada, é revogada.\n3 -    A prisão preventiva pode ser substituída por outra medida de coacção, nos termos da lei processual penal."
+   }
+  },
+  {
+   "id": "TL-H115-A106",
+   "no": 106,
+   "noLabel": {
+    "pt": "Artigo 106.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO III DESTINO  DE  MULTAS  E  COISAS  APREENDIDAS  E MEDIDAS  CAUTELARES"
+   },
+   "heading": {
+    "pt": "Medidas cautelares"
+   },
+   "text": {
+    "pt": "A requerimento do Ministério Público, o juiz pode ordenar as medidas cautelares necessárias à conservação e manutenção de coisas apreendidas, de forma a assegurar a execução da sentença relativa à perda."
+   }
+  },
+  {
+   "id": "TL-H115-A107",
+   "no": 107,
+   "noLabel": {
+    "pt": "Artigo 107.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO III DESTINO  DE  MULTAS  E  COISAS  APREENDIDAS  E MEDIDAS  CAUTELARES"
+   },
+   "heading": {
+    "pt": "Medidas cautelares no estrangeiro"
+   },
+   "text": {
+    "pt": "1 - Com o pedido de delegação de execução de sentença timorense num Estado estrangeiro pode ser solicitada a aplicação de medidas de coacção relativamente a condenado que se encontre nesse Estado.\n2 - O disposto no número anterior aplica-se a medidas cautelares destinadas a assegurar a execução da decisão de perda de coisas."
+   }
+  },
+  {
+   "id": "TL-H115-A108",
+   "no": 108,
+   "noLabel": {
+    "pt": "Artigo 108.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO IV TRANSFERÊNCIA  DE  PESSOAS  CONDENADAS / SECÇÃO I DISPOSIÇÕES  COMUNS"
+   },
+   "heading": {
+    "pt": "Âmbito"
+   },
+   "text": {
+    "pt": "O presente capítulo regula a execução de sentenças penais que implique a transferência de pessoa condenada a pena ou medida privativas de liberdade, quando a transferência se efectue a pedido dessa pessoa ou mediante o seu consentimento."
+   }
+  },
+  {
+   "id": "TL-H115-A109",
+   "no": 109,
+   "noLabel": {
+    "pt": "Artigo 109.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO IV TRANSFERÊNCIA  DE  PESSOAS  CONDENADAS / SECÇÃO I DISPOSIÇÕES  COMUNS"
+   },
+   "heading": {
+    "pt": "Princípios"
+   },
+   "text": {
+    "pt": "1 -  Observadas as condições gerais e as dos artigos seguintes, uma pessoa condenada em pena ou sujeita a medida de segurança privativas da liberdade por um tribunal estrangeiro pode ser transferida para Timor-Leste para cumprimento das mesmas.\n2 -  Do mesmo modo e para os mesmos fins, pode ser transferida para o estrangeiro uma pessoa condenada ou sujeita a medida de segurança privativa da liberdade por um tribunal timorense.\n3 -   A transferência pode ser pedida pelo Estado estrangeiro ou por Timor-Leste, em qualquer dos casos a requerimento ou com consentimento expresso da pessoa interessada.\n4 -   A transferência depende ainda de acordo entre o Estado em que foi proferida a decisão que aplicou a pena ou a medida de segurança e o Estado a quem é solicitada a execução."
+   }
+  },
+  {
+   "id": "TL-H115-A110",
+   "no": 110,
+   "noLabel": {
+    "pt": "Artigo 110.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO IV TRANSFERÊNCIA  DE  PESSOAS  CONDENADAS / SECÇÃO I DISPOSIÇÕES  COMUNS"
+   },
+   "heading": {
+    "pt": "Informação às pessoas condenadas"
+   },
+   "text": {
+    "pt": "Os serviços prisionais informam as pessoas condenadas que possam beneficiar da faculdade de solicitarem a sua transferência."
+   }
+  },
+  {
+   "id": "TL-H115-A111",
+   "no": 111,
+   "noLabel": {
+    "pt": "Artigo 111.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO IV TRANSFERÊNCIA  DE  PESSOAS  CONDENADAS / SECÇÃO II TRANSFERÊNCIA  PARA  O  ESTRANGEIRO"
+   },
+   "heading": {
+    "pt": "Informações e documentos de apoio"
+   },
+   "text": {
+    "pt": "1 - Se a pessoa exprimir o desejo de ser transferida para um Estado estrangeiro, a Autoridade Central comunica-o a esse Estado, com vista à obtenção do seu acordo, com as seguintes informações:\na)    Nome, data de nascimento, naturalidade e nacionalidade dessa pessoa;\nb)   Sendo caso disso, a sua residência naquele Estado;\nc)   Uma exposição dos factos que fundamentam a sentença;\nd)    A natureza, a duração e a data de início do cumprimento da pena ou da medida.\n2 -  São também enviados ao Estado estrangeiro os seguintes elementos:\na)   Certidão ou cópia autenticada da sentença e do texto das disposições legais aplicadas;\nb)  Declaração relativa ao tempo da pena ou medida já cumpridos, incluindo informações sobre prisão preventiva, redução da pena ou medida e sobre qualquer outro acto relativo à execução da sentença, bem como informação relativa à duração da pena por cumprir;\nc)  Declaração de consentimento da pessoa interessada para efeitos de transferência;\nd)   Sendo caso disso, qualquer relatório médico ou social sobre a pessoa interessada, sobre o tratamento de que foi objecto em Timor-Leste e quaisquer recomendações sobre o prosseguimento desse tratamento no Estado estrangeiro."
+   }
+  },
+  {
+   "id": "TL-H115-A112",
+   "no": 112,
+   "noLabel": {
+    "pt": "Artigo 112.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO IV TRANSFERÊNCIA  DE  PESSOAS  CONDENADAS / SECÇÃO II TRANSFERÊNCIA  PARA  O  ESTRANGEIRO"
+   },
+   "heading": {
+    "pt": "Competência interna para formular o pedido"
+   },
+   "text": {
+    "pt": "1 -  Compete ao Ministério Público junto do Supremo Tribunal de Justiça, por sua iniciativa ou a requerimento da pessoa interessada, dar seguimento ao pedido de transferência.\n2 -  O pedido é apresentado no mais curto prazo possível após o trânsito da sentença, obtido o consentimento da pessoa interessada.\n3 - O pedido, devidamente informado, é enviado pela Autoridade Central ao Ministro da Justiça para apreciação.\n4 - Se as circunstâncias do caso o aconselharem, o Ministro da Justiça pode pedir informações, a apresentar no prazo de 10 dias, à Autoridade Central e aos serviços prisionais.\n5 - A pessoa interessada na transferência é informada, por escrito, das decisões tomadas a seu respeito."
+   }
+  },
+  {
+   "id": "TL-H115-A113",
+   "no": 113,
+   "noLabel": {
+    "pt": "Artigo 113.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO IV TRANSFERÊNCIA  DE  PESSOAS  CONDENADAS / SECÇÃO II TRANSFERÊNCIA  PARA  O  ESTRANGEIRO"
+   },
+   "heading": {
+    "pt": "Pedido apresentado pelo Estado estrangeiro e documentos de apoio"
+   },
+   "text": {
+    "pt": "1 -  Se a pessoa exprimiu o desejo de ser transferida junto de um Estado estrangeiro, deve esse Estado, com o pedido, enviar os seguintes documentos:\na)   Declaração indicando que o condenado é nacional desse Estado ou aí tem a sua residência habitual;\nb)  Cópia das disposições legais de que resulte que os factos provados na sentença timorense constituem uma infracção igualmente punível segundo o direito desse Estado;\nc)  Quaisquer outros documentos com interesse para a apreciação do pedido.\n2 -  Salvo no caso de rejeição liminar do pedido, é enviado ao Estado estrangeiro um relatório especial sobre o modo e resultados da execução."
+   }
+  },
+  {
+   "id": "TL-H115-A114",
+   "no": 114,
+   "noLabel": {
+    "pt": "Artigo 114.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO IV TRANSFERÊNCIA  DE  PESSOAS  CONDENADAS / SECÇÃO II TRANSFERÊNCIA  PARA  O  ESTRANGEIRO"
+   },
+   "heading": {
+    "pt": "Decisão sobre o pedido"
+   },
+   "text": {
+    "pt": "1 -  Se o Ministro da Justiça o considerar admissível, o pedido é transmitido, pela Autoridade Central, ao Ministério Público junto do Supremo Tribunal de Justiça.\n2 -  O Ministério Público promove a audição pelo juiz da pessoa a transferir, observando-se, para o efeito, o disposto no Código de Processo Penal quanto ao interrogatório de arguido detido.\n3 -  O tribunal decide sobre o pedido, depois de se assegurar de que o consentimento da pessoa visada, para fins de transferência, foi voluntário e consciente.\n4 - É assegurada a possibilidade de verificação, por agente consular ou outro funcionário designado de acordo com o Estado estrangeiro, da prestação do consentimento em conformidade com o número anterior."
+   }
+  },
+  {
+   "id": "TL-H115-A115",
+   "no": 115,
+   "noLabel": {
+    "pt": "Artigo 115.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO IV TRANSFERÊNCIA  DE  PESSOAS  CONDENADAS / SECÇÃO II TRANSFERÊNCIA  PARA  O  ESTRANGEIRO"
+   },
+   "heading": {
+    "pt": "Efeitos de transferência para um Estado estrangeiro"
+   },
+   "text": {
+    "pt": "1 -   A transferência de uma pessoa para um Estado estrangeiro suspende a execução da sentença em Timor-Leste.\n2 - É excluída a possibilidade da execução da sentença em Timor-Leste, após a transferência da pessoa interessada, se o Estado estrangeiro comunicar que a mesma sentença foi considerada cumprida por decisão judicial.\n3 -  Sempre que o tribunal aplicar amnistia, perdão ou indulto, o Estado estrangeiro é disso informado através da Autoridade Central."
+   }
+  },
+  {
+   "id": "TL-H115-A116",
+   "no": 116,
+   "noLabel": {
+    "pt": "Artigo 116.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO IV TRANSFERÊNCIA  DE  PESSOAS  CONDENADAS / SECÇÃO III TRANSFERÊNCIA  PARA TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Pedido de transferência para Timor-Leste"
+   },
+   "text": {
+    "pt": "1 -  Se uma pessoa condenada ou sujeita a medida de segurança num Estado estrangeiro exprimiu o desejo de ser transferida para Timor-Leste, o Procurador-Geral da República comunica ao Ministro da Justiça os elementos a que se refere o artigo 118.º, enviados por aquele Estado, com vista à apreciação do pedido.\n2 - O número anterior aplica-se também ao caso em que o pedido é apresentado pelo Estado estrangeiro.\n3 -  O Ministro da Justiça pode pedir informações, a apresentar no prazo de 10 dias, à Autoridade Central e aos serviços prisionais."
+   }
+  },
+  {
+   "id": "TL-H115-A117",
+   "no": 117,
+   "noLabel": {
+    "pt": "Artigo 117.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO IV TRANSFERÊNCIA  DE  PESSOAS  CONDENADAS / SECÇÃO III TRANSFERÊNCIA  PARA TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Requisitos especiais da transferência para Timor-Leste"
+   },
+   "text": {
+    "pt": "1 - Aceite o pedido de transferência para Timor-Leste, o expediente é enviado, pela Autoridade Central, ao Ministério Público junto do Supremo Tribunal de Justiça, para revisão e confirmação de sentença estrangeira.\n2 - Transitada em julgado a decisão que revê e confirma a sentença estrangeira, a Autoridade Central comunica-a ao Estado que formulou o pedido, para efectivação da transferência."
+   }
+  },
+  {
+   "id": "TL-H115-A118",
+   "no": 118,
+   "noLabel": {
+    "pt": "Artigo 118.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO IV TRANSFERÊNCIA  DE  PESSOAS  CONDENADAS / SECÇÃO IV INFORMAÇÕES  SOBRE  A  EXECUÇÃO  E  TRÂNSITO"
+   },
+   "heading": {
+    "pt": "Informações relativas à execução"
+   },
+   "text": {
+    "pt": "1 -  São fornecidas ao Estado que pediu a transferência todas as informações relativas à execução da sentença, nomeadamente:\na)  Quando esta se considere cumprida, por decisão judicial;\nb)  Se a pessoa transferida se evadir antes de terminada a mesma execução.\n2 - A pedido do Estado que solicitou a transferência, é-lhe fornecido um relatório especial sobre o modo e os resultados da execução."
+   }
+  },
+  {
+   "id": "TL-H115-A119",
+   "no": 119,
+   "noLabel": {
+    "pt": "Artigo 119.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  DE  SENTENÇAS  PENAIS / CAPÍTULO IV TRANSFERÊNCIA  DE  PESSOAS  CONDENADAS / SECÇÃO IV INFORMAÇÕES  SOBRE  A  EXECUÇÃO  E  TRÂNSITO"
+   },
+   "heading": {
+    "pt": "Trânsito"
+   },
+   "text": {
+    "pt": "Pode ser autorizado o trânsito, por território timorense, de pessoa transferida de um Estado estrangeiro para outro, a pedido de qualquer desses Estados, aplicando-se correspondentemente o disposto no artigo 42.º"
+   }
+  },
+  {
+   "id": "TL-H115-A120",
+   "no": 120,
+   "noLabel": {
+    "pt": "Artigo 120.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V VIGILÂNCIA  DE  PESSOAS CONDENADAS  OU LIBERTA DAS  CONDICIONALMENTE / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Princípios"
+   },
+   "text": {
+    "pt": "1 -  É admitida, nos termos dos artigos seguintes, a cooperação para vigilância de pessoas condenadas ou libertadas condicionalmente que residam habitualmente em território do Estado a quem essa cooperação é pedida.\n2 - A cooperação a que se refere o número anterior tem por objectivos:\na)   Favorecer a reinserção social do condenado, através da adopção de medidas adequadas;\nb)  Vigiar o seu comportamento durante a execução da pena."
+   }
+  },
+  {
+   "id": "TL-H115-A121",
+   "no": 121,
+   "noLabel": {
+    "pt": "Artigo 121.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V VIGILÂNCIA  DE  PESSOAS CONDENADAS  OU LIBERTA DAS  CONDICIONALMENTE / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Objecto"
+   },
+   "text": {
+    "pt": "1 - A cooperação regulada no presente título pode consistir numa das seguintes modalidades:\na)  Vigilância da pessoa condenada;\nb)  Vigilância e eventual execução de sentença; ou\nc)  Execução integral da sentença.\n2 -  Formulado pedido relativo a uma das modalidades referidas no número anterior, este pode ser recusado em favor de outra modalidade que, no caso concreto, seja preferível, se a proposta for aceite pelo Estado que formulou o pedido."
+   }
+  },
+  {
+   "id": "TL-H115-A122",
+   "no": 122,
+   "noLabel": {
+    "pt": "Artigo 122.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V VIGILÂNCIA  DE  PESSOAS CONDENADAS  OU LIBERTA DAS  CONDICIONALMENTE / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Legitimidade"
+   },
+   "text": {
+    "pt": "A cooperação depende de pedido do Estado em que for proferida a decisão."
+   }
+  },
+  {
+   "id": "TL-H115-A123",
+   "no": 123,
+   "noLabel": {
+    "pt": "Artigo 123.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V VIGILÂNCIA  DE  PESSOAS CONDENADAS  OU LIBERTA DAS  CONDICIONALMENTE / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Dupla incriminação"
+   },
+   "text": {
+    "pt": "A infracção que motiva o pedido de cooperação deve ser punível pela lei do Estado que o formula e pela do Estado a quem o pedido é formulado."
+   }
+  },
+  {
+   "id": "TL-H115-A124",
+   "no": 124,
+   "noLabel": {
+    "pt": "Artigo 124.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V VIGILÂNCIA  DE  PESSOAS CONDENADAS  OU LIBERTA DAS  CONDICIONALMENTE / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Recusa facultativa"
+   },
+   "text": {
+    "pt": "No caso de o pedido ser apresentado a Timor-Leste, a cooperação pode ser recusada quando, para além das condições gerais estabelecidas no presente diploma:\na)  A decisão que motiva o pedido resultar de julgamento na ausência do arguido em que não lhe tenha sido garantida a possibilidade legal de requerer novo julgamento ou de interpor recurso da sentença;\nb)   A decisão for incompatível com os princípios que presidem à aplicação do direito penal timorense, nomeadamente se o agente da infracção, dada a sua idade, não puder ser sujeito a procedimento penal."
+   }
+  },
+  {
+   "id": "TL-H115-A125",
+   "no": 125,
+   "noLabel": {
+    "pt": "Artigo 125.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V VIGILÂNCIA  DE  PESSOAS CONDENADAS  OU LIBERTA DAS  CONDICIONALMENTE / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Apresentação de pedido a Timor-Leste"
+   },
+   "text": {
+    "pt": "1 -  O pedido formulado a Timor-Leste é submetido, através da Autoridade Central, a apreciação do Ministro da Justiça.\n2 - O Ministro da Justiça pode solicitar informações aos serviços competentes para acompanhamento das medidas impostas na sentença.\n3 - Se o Ministro da Justiça aceitar o pedido, a Autoridade Central transmite-o ao Ministério Público junto do Supremo Tribunal de Justiça, para decisão judicial sobre a sua admissibilidade."
+   }
+  },
+  {
+   "id": "TL-H115-A126",
+   "no": 126,
+   "noLabel": {
+    "pt": "Artigo 126.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V VIGILÂNCIA  DE  PESSOAS CONDENADAS  OU LIBERTA DAS  CONDICIONALMENTE / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Informações"
+   },
+   "text": {
+    "pt": "1 -   A decisão relativa ao pedido de cooperação é imediatamente comunicada pela Autoridade Central ao Estado requerente, com indicação, em caso de recusa, total ou parcial, dos motivos que a fundamentam.\n2 - Em caso de aceitação do pedido, a Autoridade Central informa o Estado requerente de qualquer circunstância susceptível de afectar o cumprimento das medidas de vigilância ou a execução da sentença."
+   }
+  },
+  {
+   "id": "TL-H115-A127",
+   "no": 127,
+   "noLabel": {
+    "pt": "Artigo 127.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V VIGILÂNCIA  DE  PESSOAS CONDENADAS  OU LIBERTA DAS  CONDICIONALMENTE / CAPÍTULO II VIGILÂNCIA"
+   },
+   "heading": {
+    "pt": "Medidas de vigilância"
+   },
+   "text": {
+    "pt": "1 - O Estado estrangeiro que solicitar apenas a vigilância dá conhecimento das condições impostas ao condenado e, sendo caso disso, das medidas com que este deve conformar-se durante o período de prova.\n2 - Aceite o pedido, o tribunal adapta, se necessário, as medidas prescritas às previstas na lei de Timor-Leste.\n3 - Em nenhum caso as medidas aplicadas em Timor-Leste podem agravar, quer pela sua natureza, quer pela sua duração, as prescritas na decisão proferida no Estado estrangeiro."
+   }
+  },
+  {
+   "id": "TL-H115-A128",
+   "no": 128,
+   "noLabel": {
+    "pt": "Artigo 128.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V VIGILÂNCIA  DE  PESSOAS CONDENADAS  OU LIBERTA DAS  CONDICIONALMENTE / CAPÍTULO II VIGILÂNCIA"
+   },
+   "heading": {
+    "pt": "Consequências da aceitação do pedido"
+   },
+   "text": {
+    "pt": "A aceitação do pedido de vigilância implica os seguintes deveres:\na) De assegurar a colaboração das autoridades e organismos que, em território timorense, têm por função vigiar e assistir as pessoas condenadas;\nb) De informar o Estado requerente de todas as medidas tomadas e sua aplicação."
+   }
+  },
+  {
+   "id": "TL-H115-A129",
+   "no": 129,
+   "noLabel": {
+    "pt": "Artigo 129.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V VIGILÂNCIA  DE  PESSOAS CONDENADAS  OU LIBERTA DAS  CONDICIONALMENTE / CAPÍTULO II VIGILÂNCIA"
+   },
+   "heading": {
+    "pt": "Revogação e cessação"
+   },
+   "text": {
+    "pt": "1 - No caso do interessado ficar sujeito à revogação de suspensão condicional, por motivo de novo procedimento penal ou de condenação por nova infracção, ou por falta de observância das obrigações impostas, são fornecidas, oficiosamente, e sem demora, ao Estado requerente as informações necessárias.\n2 - Após a cessação do período de vigilância, são fornecidas ao Estado requerente as informações necessárias."
+   }
+  },
+  {
+   "id": "TL-H115-A130",
+   "no": 130,
+   "noLabel": {
+    "pt": "Artigo 130.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V VIGILÂNCIA  DE  PESSOAS CONDENADAS  OU LIBERTA DAS  CONDICIONALMENTE / CAPÍTULO II VIGILÂNCIA"
+   },
+   "heading": {
+    "pt": "Competência do Estado que formula o pedido"
+   },
+   "text": {
+    "pt": "O Estado estrangeiro que formula o pedido é o único competente para apreciar, em face das informações e pareceres fornecidos, se a pessoa condenada satisfez ou não as condições que lhe foram impostas e para delas extrair as consequências previstas na sua própria legislação, informando da decisão que tomar."
+   }
+  },
+  {
+   "id": "TL-H115-A131",
+   "no": 131,
+   "noLabel": {
+    "pt": "Artigo 131.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V VIGILÂNCIA  DE  PESSOAS CONDENADAS  OU LIBERTA DAS  CONDICIONALMENTE / CAPÍTULO III VIGILÂNCIA  E  EXECUÇÃO  DE  SENTENÇA"
+   },
+   "heading": {
+    "pt": "Consequência da revogação da suspensão condicional"
+   },
+   "text": {
+    "pt": "1 -   Decidida a revogação da suspensão condicional no Estado estrangeiro, Timor-Leste adquire competência para executar a sentença, se aquele Estado lho pedir.\n2 - A execução processa-se de acordo com a lei de Timor- Leste, após verificação da autenticidade do pedido e da sua conformidade com as condições fixadas neste diploma para revisão e confirmação de sentença estrangeira.\n3 - Timor-Leste deve enviar um documento certificativo da execução.\n4 - O tribunal substitui, sendo caso disso, a reacção criminal imposta no Estado requerente pela pena ou medida previstas na lei de Timor-Leste por uma infracção idêntica.\n5 - No caso referido no número anterior, a pena ou medida corresponderá, tanto quanto possível, pela sua natureza, à imposta na decisão exequenda, não podendo, porém, exceder o máximo previsto pela lei de Timor-Leste nem agravar, pela sua natureza ou pela sua duração, a reacção criminal imposta na sentença do Estado estrangeiro."
+   }
+  },
+  {
+   "id": "TL-H115-A132",
+   "no": 132,
+   "noLabel": {
+    "pt": "Artigo 132.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V VIGILÂNCIA  DE  PESSOAS CONDENADAS  OU LIBERTA DAS  CONDICIONALMENTE / CAPÍTULO III VIGILÂNCIA  E  EXECUÇÃO  DE  SENTENÇA"
+   },
+   "heading": {
+    "pt": "Competência para a liberdade condicional"
+   },
+   "text": {
+    "pt": "O tribunal timorense é o único competente em matéria de liberdade condicional."
+   }
+  },
+  {
+   "id": "TL-H115-A133",
+   "no": 133,
+   "noLabel": {
+    "pt": "Artigo 133.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V VIGILÂNCIA  DE  PESSOAS CONDENADAS  OU LIBERTA DAS  CONDICIONALMENTE / CAPÍTULO III VIGILÂNCIA  E  EXECUÇÃO  DE  SENTENÇA"
+   },
+   "heading": {
+    "pt": "Amnistia, perdão genérico e indulto"
+   },
+   "text": {
+    "pt": "A amnistia, o perdão genérico e o indulto podem ser concedidos tanto pelo Estado estrangeiro como por Timor- Leste."
+   }
+  },
+  {
+   "id": "TL-H115-A134",
+   "no": 134,
+   "noLabel": {
+    "pt": "Artigo 134.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V VIGILÂNCIA  DE  PESSOAS CONDENADAS  OU LIBERTA DAS  CONDICIONALMENTE / CAPÍTULO IV COOPERAÇÃO  SOLICITADA  POR  TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Regime"
+   },
+   "text": {
+    "pt": "1 -  Aceite o pedido formulado por Timor-Leste, a Autoridade Central dá conhecimento do facto aos serviços competentes, para acompanhamento das medidas impostas na sentença, com vista ao estabelecimento de contactos directos com os congéneres estrangeiros.\n2 - Ao pedido de cooperação formulado por Timor-Leste são aplicáveis, com as necessárias adaptações, as disposições dos capítulos anteriores."
+   }
+  },
+  {
+   "id": "TL-H115-A135",
+   "no": 135,
+   "noLabel": {
+    "pt": "Artigo 135.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V VIGILÂNCIA  DE  PESSOAS CONDENADAS  OU LIBERTA DAS  CONDICIONALMENTE / CAPÍTULO V DISPOSIÇÕES  COMUNS"
+   },
+   "heading": {
+    "pt": "Conteúdo do pedido"
+   },
+   "text": {
+    "pt": "1 - O pedido de cooperação é instruído nos termos do artigo\n21.º, com as especialidades constantes dos números seguintes.\n2 - O pedido de vigilância deve conter:\na)   Menção das razões que motivam a vigilância;\nb)  Especificação das medidas de vigilância decretadas;\nc)   Informações sobre a natureza e a duração das medidas de vigilância cuja aplicação é requerida;\nd)   Informações sobre a personalidade do condenado e o seu comportamento no Estado requerente, antes e depois de proferida decisão relativa à vigilância.\n3 - O pedido de vigilância e execução é acompanhado da decisão que impôs a reacção criminal e da decisão que determinar a revogação da condição suspensiva da condenação ou da sua execução.\n4 - O carácter executório das duas decisões é certificado segundo as formas prescritas pela lei do Estado requerente.\n5 - Quando a decisão de executar substituir uma outra sem reproduzir a exposição dos factos, deve ser junta a que contenha essa exposição.\n6 - No caso de se entender que as informações fornecidas pelo Estado requerente são insuficientes para dar satisfação ao pedido, são solicitadas informações complementares, podendo fixar-se um prazo para o efeito."
+   }
+  },
+  {
+   "id": "TL-H115-A136",
+   "no": 136,
+   "noLabel": {
+    "pt": "Artigo 136.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V VIGILÂNCIA  DE  PESSOAS CONDENADAS  OU LIBERTA DAS  CONDICIONALMENTE / CAPÍTULO V DISPOSIÇÕES  COMUNS"
+   },
+   "heading": {
+    "pt": "Tramitação e decisão do pedido"
+   },
+   "text": {
+    "pt": "1 -  Aos pedidos de cooperação regulados no presente título, e em tudo o que nele não estiver especialmente previsto, são aplicáveis, com as devidas adaptações, as disposições relativas à execução de sentenças penais, em particular no que respeita à apreciação do Ministro da Justiça, à competência dos tribunais de Timor-Leste e respectivo processo e aos efeitos da execução.\n2 - As disposições relativas ao consentimento não têm aplicação quando estiver em causa unicamente um pedido de vigilância.\n3 - O Ministro da Justiça pode pedir informações à Autoridade Central com vista à decisão sobre o pedido."
+   }
+  },
+  {
+   "id": "TL-H115-A137",
+   "no": 137,
+   "noLabel": {
+    "pt": "Artigo 137.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V VIGILÂNCIA  DE  PESSOAS CONDENADAS  OU LIBERTA DAS  CONDICIONALMENTE / CAPÍTULO V DISPOSIÇÕES  COMUNS"
+   },
+   "heading": {
+    "pt": "Custas e despesas"
+   },
+   "text": {
+    "pt": "1 -   A pedido do Estado requerente, serão cobradas as custas e despesas do processo nesse Estado produzidas, as quais devem ser devidamente indicadas.\n2 - Em caso de cobrança, não é obrigatório o reembolso ao Estado requerente, com excepção dos honorários devidos a peritos.\n3 - As despesas com a vigilância e a execução não são reembolsadas pelo Estado requerente."
+   }
+  },
+  {
+   "id": "TL-H115-A138",
+   "no": 138,
+   "noLabel": {
+    "pt": "Artigo 138.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO I DISPOSIÇÕES  COMUNS  ÀS  DIFERENTES MODALIDADES  DE  AUXÍLIO"
+   },
+   "heading": {
+    "pt": "Princípio e âmbito"
+   },
+   "text": {
+    "pt": "1 - O auxílio compreende a comunicação de informações, de actos processuais e de outros actos públicos admitidos pelo Direito de Timor-Leste, quando se afigurarem necessários à realização das finalidades do processo, bem como os actos necessários à apreensão ou à recuperação de instrumentos, objectos ou produtos da infracção.\n2 - O auxílio compreende, nomeadamente:\na)   A notificação de actos e entrega de documentos;\nb)   A obtenção de meios de prova;\nc)   As revistas, buscas, apreensões, exames e perícias;\nd) A notificação e audição de suspeitos, arguidos, testemunhas ou peritos;\ne)  O trânsito de pessoas;\nf)   As informações sobre o Direito de Timor-Leste ou estrangeiro e as relativas aos antecedentes penais de suspeitos, arguidos e condenados.\n3 - Quando as circunstâncias do caso o aconselharem, mediante acordo entre Timor-Leste e o Estado estrangeiro ou entidade judiciária internacional, a audição prevista na alínea d) do n.º 2 pode efectuar-se com recurso a meios de telecomunicação em tempo real, nos termos da legislação processual penal de Timor-Leste, sem prejuízo do disposto no n.º 10.\n4 - No âmbito do auxílio, mediante autorização do Ministro da Justiça ou em conformidade com o previsto em tratados internacionais de que Timor-Leste seja parte, pode haver comunicação directa de simples informações relativas a assuntos de carácter penal entre autoridades timorenses e estrangeiras que actuem como auxiliares das autoridades judiciárias.\n5 - O Ministro da Justiça pode autorizar a deslocação com vista à participação de autoridades judiciárias e de órgãos de polícia criminal estrangeiros em actos de carácter processual penal que devam realizar-se em território timorense.\n6 - A participação referida no número anterior é admitida exclusivamente a título de coadjuvação da autoridade judiciária ou da polícia criminal timorense competente para o acto, onde a sua presença e direcção é sempre obrigatória, observando-se as disposições da lei processual penal, e sob condição de reciprocidade, de tudo se fazendo referência nos autos.\n7 - O disposto no artigo 27.º é extensivo às diligências da competência das autoridades de polícia criminal, realizadas nas condições e dentro dos limites definidos pelo Código de Processo Penal.\n8 -   A competência a que se refere o n.º 5 pode ser delegada na Autoridade Central ou, quando a deslocação respeitar exclusivamente à autoridade ou órgão de polícia criminal, no director da polícia de investigação.\n9 - O disposto no n.º 5 é correspondentemente aplicável aos pedidos de auxílio formulados por Timor-Leste.\n10 - O disposto neste artigo não prejudica a aplicação de disposições mais favoráveis de tratados de que Timor-Leste seja parte."
+   }
+  },
+  {
+   "id": "TL-H115-A139",
+   "no": 139,
+   "noLabel": {
+    "pt": "Artigo 139.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO I DISPOSIÇÕES  COMUNS  ÀS  DIFERENTES MODALIDADES  DE  AUXÍLIO"
+   },
+   "heading": {
+    "pt": "Direito aplicável"
+   },
+   "text": {
+    "pt": "1 -  O pedido de auxílio solicitado a Timor-Leste é cumprido em conformidade com a lei timorense.\n2 -  Quando o Estado estrangeiro o solicite expressamente, o auxílio pode ser prestado em conformidade com a legislação desse Estado, desde que não contrarie os princípios fundamentais do Direito de Timor-Leste e não cause graves prejuízos aos intervenientes no processo.\n3 - O auxílio é recusado se respeitar a acto não permitido pela legislação timorense ou susceptível de implicar sanções de carácter penal ou disciplinar."
+   }
+  },
+  {
+   "id": "TL-H115-A140",
+   "no": 140,
+   "noLabel": {
+    "pt": "Artigo 140.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO I DISPOSIÇÕES  COMUNS  ÀS  DIFERENTES MODALIDADES  DE  AUXÍLIO"
+   },
+   "heading": {
+    "pt": "Medidas de coacção"
+   },
+   "text": {
+    "pt": "1 -  Quando os actos visados implicarem recurso a medidas de coacção, apenas podem ser praticados se os factos expostos no pedido constituírem infracção também prevista no Direito de Timor-Leste e são cumpridos em conformidade com este.\n2 -  As medidas de coacção são ainda admitidas em caso de não punibilidade do facto em Timor-Leste, se se destinarem à prova de uma causa de exclusão de culpa da pessoa contra a qual o procedimento foi instaurado."
+   }
+  },
+  {
+   "id": "TL-H115-A141",
+   "no": 141,
+   "noLabel": {
+    "pt": "Artigo 141.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO I DISPOSIÇÕES  COMUNS  ÀS  DIFERENTES MODALIDADES  DE  AUXÍLIO"
+   },
+   "heading": {
+    "pt": "Proibição de utilizar as informações obtidas"
+   },
+   "text": {
+    "pt": "1 -  As informações obtidas para utilização no processo indicado no pedido do Estado estrangeiro não podem ser utilizadas fora dele.\n2 -  Excepcionalmente, e a pedido do Estado estrangeiro, ou de entidade judiciária internacional, o Ministro da Justiça, mediante parecer do Procurador-Geral da República, pode consentir na utilização das informações noutros processos penais.\n3 -  A autorização de consultar um processo timorense, conferida a um Estado estrangeiro que nele intervém como lesado, está sujeita às condições referidas nos números anteriores."
+   }
+  },
+  {
+   "id": "TL-H115-A142",
+   "no": 142,
+   "noLabel": {
+    "pt": "Artigo 142.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO I DISPOSIÇÕES  COMUNS  ÀS  DIFERENTES MODALIDADES  DE  AUXÍLIO"
+   },
+   "heading": {
+    "pt": "Confidencialidade"
+   },
+   "text": {
+    "pt": "1 - Se um Estado estrangeiro ou uma entidade judiciária internacional o solicitar, é mantida a confidencialidade do pedido de auxílio, do seu conteúdo e dos documentos que o instruam, bem como da concessão desse auxílio.\n2 - Se o pedido não puder ser cumprido sem quebra da confidencialidade, a autoridade timorense informa a autoridade interessada para que decida se o pedido deve, mesmo assim, ser executado."
+   }
+  },
+  {
+   "id": "TL-H115-A143",
+   "no": 143,
+   "noLabel": {
+    "pt": "Artigo 143.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO II PEDIDO  DE  AUXÍLIO"
+   },
+   "heading": {
+    "pt": "Legitimidade"
+   },
+   "text": {
+    "pt": "Podem solicitar auxílio as autoridades ou entidades estrangeiras competentes para o procedimento segundo o direito do respectivo Estado ou da respectiva organização internacional."
+   }
+  },
+  {
+   "id": "TL-H115-A144",
+   "no": 144,
+   "noLabel": {
+    "pt": "Artigo 144.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO II PEDIDO  DE  AUXÍLIO"
+   },
+   "heading": {
+    "pt": "Conteúdo e documentos de apoio"
+   },
+   "text": {
+    "pt": "Além das indicações e documentos a que se refere o artigo\n21.º, o pedido é acompanhado:\na)   No caso de notificação, de menção do nome e residência do destinatário ou de outro local em que possa ser notificado, da sua qualidade processual e da natureza do documento a notificar;\nb)   Nos casos de revista, busca, apreensão, entrega de objectos ou valores, exames e perícias, de uma declaração certificando que são admitidos pela lei do Estado requerente ou pelo estatuto da entidade judiciária internacional;\nc)   Da menção de determinadas particularidades do processo ou de requisitos que o Estado estrangeiro ou entidade judiciária deseje que sejam observados, incluindo a confidencialidade e prazos de cumprimento."
+   }
+  },
+  {
+   "id": "TL-H115-A145",
+   "no": 145,
+   "noLabel": {
+    "pt": "Artigo 145.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO II PEDIDO  DE  AUXÍLIO"
+   },
+   "heading": {
+    "pt": "Processo"
+   },
+   "text": {
+    "pt": "1 -  Os pedidos de auxílio que revistam a forma de carta rogatória podem ser transmitidos directamente entre autoridades judiciárias competentes, sem prejuízo da possibilidade de recurso às vias previstas no artigo 27.º 2 -  A decisão de cumprimento das cartas rogatórias dirigidas a autoridades timorenses é da competência do juiz ou do Ministério Público, nos termos da legislação processual penal.\n3 - Recebida carta rogatória que não deva ser cumprida pelo Ministério Público, é-lhe dada vista para opor ao cumprimento o que julgar conveniente.\n4 -  O cumprimento das cartas rogatórias é recusado nos casos seguintes:\na)  Quando a autoridade rogada não tiver competência para a prática do acto, sem prejuízo da transmissão da carta rogatória à autoridade judiciária competente, se esta for timorense;\nb)   Quando a solicitação se dirigir a acto que a lei proíba ou que seja contrário à ordem pública timorense;\nc)   Quando a execução da carta rogatória for atentatória da soberania ou da segurança do Estado;\nd)   Quando o acto implicar execução de decisão de tribunal estrangeiro sujeita a revisão e confirmação e a decisão se não mostrar revista e confirmada.\n5 -  Os restantes pedidos, nomeadamente os relativos ao envio de certificado de registo criminal, à verificação de identidade ou à simples obtenção de informações, podem ser directamente transmitidos às autoridades e entidades competentes e, uma vez satisfeitos, comunicados pela mesma forma.\n6 -  O disposto no n.º 4 é aplicável, com as devidas adaptações, aos pedidos que não revistam a forma de carta rogatória.\n7 - O disposto no n.º 3 é correspondentemente aplicável às rogatórias dirigidas às autoridades estrangeiras, emitidas pelas autoridades judiciárias timorenses competentes, sendo passadas sempre que estas entidades entenderem que são necessárias à prova de algum facto essencial para a acusação ou para a defesa."
+   }
+  },
+  {
+   "id": "TL-H115-A146",
+   "no": 146,
+   "noLabel": {
+    "pt": "Artigo 146.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO III ACTOS  PARTICULARES  DE  AUXÍLIO INTERNACIONAL"
+   },
+   "heading": {
+    "pt": "Notificação de actos e entrega de documentos"
+   },
+   "text": {
+    "pt": "1 -   A autoridade timorense competente procede à notificação de actos processuais e de decisões que lhe forem enviadas, para o efeito, pela autoridade estrangeira.\n2 - A notificação pode fazer-se por simples comunicação ao destinatário por via postal ou, se a autoridade estrangeira o solicitar expressamente, por qualquer outra forma compatível com a legislação nacional.\n3 -   A prova da notificação faz-se através de documento datado e assinado pelo destinatário ou por declaração da autoridade timorense que certifique o facto, a forma e a data da notificação.\n4 - Considera-se efectuada a notificação se a aceitação ou recusa do acto forem confirmadas por escrito.\n5 - Se a notificação não puder ser efectuada, a autoridade estrangeira é disso informada, indicando-se as razões.\n6 -  O disposto nos números anteriores não obsta à notificação directa de pessoa que se encontre no território do Estado estrangeiro, nos termos previstos em tratado internacional de que Timor-Leste seja parte."
+   }
+  },
+  {
+   "id": "TL-H115-A147",
+   "no": 147,
+   "noLabel": {
+    "pt": "Artigo 147.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO III ACTOS  PARTICULARES  DE  AUXÍLIO INTERNACIONAL"
+   },
+   "heading": {
+    "pt": "Notificação para comparência"
+   },
+   "text": {
+    "pt": "1 - O pedido de notificação destinado a comparência de uma pessoa em processo estrangeiro na qualidade de suspeito, arguido, testemunha ou perito não obriga o destinatário da notificação.\n2 -   A pessoa notificada é advertida, no acto da notificação, do direito de recusar a comparência.\n3 -    A autoridade timorense recusa a notificação se esta contiver cominação de sanções ou quando não estiverem asseguradas as medidas necessárias à segurança da pessoa.\n4 - O consentimento para a comparência é dado através de declaração livre escrita.\n5 - O pedido de notificação indica as remunerações e indemnizações, bem como as despesas de viagem e estada a conceder, e deve ser transmitido com antecedência razoável, de forma a ser recebido até 50 dias antes da data em que a pessoa deve comparecer.\n6 - Em caso de urgência, pode admitir-se o encurtamento do prazo referido no número anterior.\n7 - As remunerações, indemnizações e despesas a que se refere o n.º 5 são calculadas em função do lugar da residência da pessoa que aceita comparecer e conforme as tarifas previstas pela lei do Estado em cujo território a diligência deve efectuar-se."
+   }
+  },
+  {
+   "id": "TL-H115-A148",
+   "no": 148,
+   "noLabel": {
+    "pt": "Artigo 148.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO III ACTOS  PARTICULARES  DE  AUXÍLIO INTERNACIONAL"
+   },
+   "heading": {
+    "pt": "Entrega temporária de detidos ou presos"
+   },
+   "text": {
+    "pt": "1 - Uma pessoa detida ou presa em Timor-Leste pode ser entregue temporariamente a uma autoridade estrangeira para os fins do artigo anterior, desde que dê o seu consentimento e estejam garantidas a manutenção da detenção e a sua restituição às autoridades timorenses na data por estas estabelecida ou quando a comparência da pessoa já não for necessária.\n2 - Sem prejuízo do disposto no número anterior, a entrega não é admitida quando:\na)   A presença da pessoa detida ou presa for necessária num processo penal timorense;\nb)  A entrega puder implicar o prolongamento da prisão preventiva;\nc)  Atentas as circunstâncias do caso, a autoridade judiciária timorense considere inconveniente a entrega.\n3 - Ao pedido a que se refere o presente artigo aplica-se o disposto no artigo 19.º 4 - O tempo em que a pessoa estiver fora de Timor-Leste é computado para efeitos de prisão preventiva ou de cumprimento de reacção criminal imposta no processo penal timorense.\n5 - Se a pena imposta à pessoa entregue nos termos deste artigo expirar enquanto ela se encontrar no território de um Estado estrangeiro, será a mesma restituída à liberdade, passando, a partir de então, a gozar do estatuto de pessoa não detida.\n6 - O Ministro da Justiça pode subordinar a concessão de auxílio a determinadas condições, que especificará."
+   }
+  },
+  {
+   "id": "TL-H115-A149",
+   "no": 149,
+   "noLabel": {
+    "pt": "Artigo 149.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO III ACTOS  PARTICULARES  DE  AUXÍLIO INTERNACIONAL"
+   },
+   "heading": {
+    "pt": "Transferência temporária de detidos ou presos para efeitos de investigação"
+   },
+   "text": {
+    "pt": "1 - O disposto no artigo anterior é ainda aplicável aos casos em que, mediante acordo, uma pessoa detida ou presa em Timor-Leste seja transferida para o território de outro Estado, para fins de realização de acto de investigação em processo timorense.\n2 - Ao pedido de auxílio formulado a Timor-Leste é correspondentemente aplicável o disposto no número anterior."
+   }
+  },
+  {
+   "id": "TL-H115-A150",
+   "no": 150,
+   "noLabel": {
+    "pt": "Artigo 150.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO III ACTOS  PARTICULARES  DE  AUXÍLIO INTERNACIONAL"
+   },
+   "heading": {
+    "pt": "Salvo-conduto"
+   },
+   "text": {
+    "pt": "1 - A pessoa que comparecer no território de um Estado estrangeiro, nos termos da presente lei, não pode ser:\na)  Detida, perseguida ou punida, nem sujeita a qualquer outra restrição da sua liberdade individual, por factos anteriores à sua partida do território nacional diferentes dos determinados no pedido de cooperação;\nb) Obrigada, sem o seu consentimento, a prestar depoimento ou declaração em processo diferente daquele a que se refere o pedido.\n2 -  A imunidade prevista no número anterior cessa quando a pessoa permanecer voluntariamente no território do Estado estrangeiro por mais de 45 dias após a data em que a sua presença já não for necessária, ou, tendo-o abandonado, a ele regressar voluntariamente.\n3 -  O disposto nos números anteriores é correspondentemente aplicável à pessoa que resida habitualmente no estrangeiro e que entre em Timor-Leste em consequência de uma notificação para acto de processo penal."
+   }
+  },
+  {
+   "id": "TL-H115-A151",
+   "no": 151,
+   "noLabel": {
+    "pt": "Artigo 151.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO III ACTOS  PARTICULARES  DE  AUXÍLIO INTERNACIONAL"
+   },
+   "heading": {
+    "pt": "Trânsito"
+   },
+   "text": {
+    "pt": "1 -   Ao trânsito de pessoa detida num Estado estrangeiro que deva comparecer num terceiro Estado para participar em acto ou diligência processual é correspondentemente aplicável o disposto no artigo 42.º 2 - A detenção da pessoa em trânsito não se mantém se o Estado que autorizou a transferência pedir, entretanto, a sua restituição à liberdade."
+   }
+  },
+  {
+   "id": "TL-H115-A152",
+   "no": 152,
+   "noLabel": {
+    "pt": "Artigo 152.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO III ACTOS  PARTICULARES  DE  AUXÍLIO INTERNACIONAL"
+   },
+   "heading": {
+    "pt": "Envio de objectos, valor, documentos ou processos"
+   },
+   "text": {
+    "pt": "1 -  A pedido das autoridades estrangeiras competentes, os objectos, em especial os documentos e valores susceptíveis de apreensão segundo o Direito de Timor-Leste, podem ser colocados à disposição daquelas se se revelarem de interesse para decisão.\n2 -  Os objectos e valores provenientes de uma infracção podem ser restituídos aos seus proprietários, mesmo sem dependência de procedimento instaurado no Estado requerente.\n3 -  Pode ser autorizado o envio de processos penais ou outros, com fundado interesse para um processo estrangeiro, invocado no pedido de auxílio, com a condição de serem restituídos no prazo que for estabelecido pela autoridade timorense competente.\n4 - O envio de objectos, valores, processos ou documentos pode ser adiado se estes forem necessários para as finalidades de um processo em curso.\n5 - Em substituição dos processos e documentos pedidos podem ser enviadas cópias autenticadas; no entanto, se a autoridade estrangeira pedir expressamente o envio dos originais, o pedido é satisfeito na medida do possível, observada a condição de restituição a que se refere o n.º 3."
+   }
+  },
+  {
+   "id": "TL-H115-A153",
+   "no": 153,
+   "noLabel": {
+    "pt": "Artigo 153.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO III ACTOS  PARTICULARES  DE  AUXÍLIO INTERNACIONAL"
+   },
+   "heading": {
+    "pt": "Produtos, objectos e instrumentos do crime"
+   },
+   "text": {
+    "pt": "1 -  A pedido de autoridade estrangeira competente, podem ser efectuadas diligências destinadas a averiguar se quaisquer produtos do crime alegadamente praticado se encontram em Timor-Leste, comunicando-se os resultados dessas diligências.\n2 -   Na formulação do pedido, a autoridade estrangeira informa das razões pelas quais entende que esses produtos se podem encontrar em Timor-Leste.\n3 -  A autoridade timorense providencia pelo cumprimento de decisão que decrete a perda de produtos do crime, proferida pelo tribunal estrangeiro, observando-se correspondentemente o disposto no título IV, na parte aplicável.\n4 -   Quando a autoridade estrangeira comunicar a sua intenção de pretender a execução da decisão a que se refere o número anterior, a autoridade timorense pode tomar as medidas permitidas pelo Direito de Timor-Leste para prevenir qualquer transacção, transmissão ou disposição dos bens que sejam ou possam ser afectados por essa decisão.\n5 - As disposições do presente artigo são aplicáveis aos objectos e instrumentos do crime."
+   }
+  },
+  {
+   "id": "TL-H115-A154",
+   "no": 154,
+   "noLabel": {
+    "pt": "Artigo 154.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO III ACTOS  PARTICULARES  DE  AUXÍLIO INTERNACIONAL"
+   },
+   "heading": {
+    "pt": "Entregas controladas ou vigiadas"
+   },
+   "text": {
+    "pt": "1 - Pode ser autorizada, caso a caso, pelo Ministério Público, perante o pedido de um ou mais Estados estrangeiros, nomeadamente se previsto em instrumento convencional, a não actuação dos órgãos de polícia criminal, no âmbito de investigações criminais transnacionais relativas a infracções que admitam extradição, com a finalidade de proporcionar, em colaboração com o Estado ou Estados estrangeiros, a identificação e responsabilização criminal do maior número de agentes da infracção.\n2 - O direito de agir e a direcção e controlo das operações de investigação criminal conduzidas no âmbito do número anterior cabem às autoridades timorenses, sem prejuízo da devida colaboração com as autoridades estrangeiras competentes.\n3 - A autorização concedida nos termos do n.º 1 não prejudica o exercício da acção penal pelos factos aos quais a lei timorense é aplicável e só é concedida quando:\na) Seja assegurado pelas autoridades estrangeiras competentes que a sua legislação prevê as sanções penais adequadas contra os agentes e que a acção penal será exercida;\nb) Seja garantida pelas autoridades estrangeiras competentes a segurança de substâncias ou bens em causa contra riscos de fuga ou extravio; e\nc) As autoridades estrangeiras competentes se comprometam a comunicar, com urgência, informação pormenorizada sobre os resultados da operação e os pormenores da acção desenvolvida por cada um dos agentes da prática das infracções, especialmente dos que agiram em Timor-Leste.\n4 - Ainda que concedida a autorização mencionada anteriormente, os órgãos de polícia criminal intervêm se as margens de segurança tiverem diminuído sensivelmente ou se se verificar qualquer circunstância que dificulte a futura detenção dos agentes ou apreensão de substâncias ou bens; se esta intervenção não tiver sido comunicada previamente à entidade que concedeu a autorização, é-o nas vinte e quatro horas seguintes, mediante relato escrito.\n5 - Por acordo com o país de destino, quando se estiver perante substâncias proibidas ou perigosas em trânsito, estas podem ser substituídas parcialmente por outras inócuas, de tal se lavrando o respectivo auto.\n6 - O não cumprimento das obrigações assumidas pelas autoridades estrangeiras pode constituir fundamento de recusa de autorização em pedidos futuros.\n7 - Os contactos internacionais são efectuados através da polícia de investigação criminal, pelo Gabinete Nacional da INTERPOL.\n8 - Qualquer outra entidade que receba pedidos de entregas controladas, nomeadamente entidades alfandegárias, e sem prejuízo do tratamento da informação de índole aduaneira, deve dirigir imediatamente esses pedidos à polícia de investigação criminal, para efeitos de execução."
+   }
+  },
+  {
+   "id": "TL-H115-A155",
+   "no": 155,
+   "noLabel": {
+    "pt": "Artigo 155.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO III ACTOS  PARTICULARES  DE  AUXÍLIO INTERNACIONAL"
+   },
+   "heading": {
+    "pt": "Acções encobertas"
+   },
+   "text": {
+    "pt": "1 –  A polícia de investigação criminal de outros Estados pode desenvolver acções encobertas em Timor-Leste, com estatuto idêntico ao dos polícias de investigação criminal timorenses, nos termos da legislação aplicável.\n2 -  A actuação referida no número anterior depende de pedido baseado em tratado internacional e da observância do princípio da reciprocidade, nos termos da legislação aplicável.\n3 - É competente para a recepção dos pedidos de acções encobertas a polícia de investigação criminal, que os apresentará ao Supremo Tribunal de Justiça, para autorização."
+   }
+  },
+  {
+   "id": "TL-H115-A156",
+   "no": 156,
+   "noLabel": {
+    "pt": "Artigo 156.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO III ACTOS  PARTICULARES  DE  AUXÍLIO INTERNACIONAL"
+   },
+   "heading": {
+    "pt": "Intercepção de telecomunicações"
+   },
+   "text": {
+    "pt": "1 - Pode ser autorizada a intercepção de telecomunicações realizadas em Timor-Leste, a pedido das autoridades competentes de Estado estrangeiro, desde que tal esteja previsto em tratado internacional e se trate de situação em que tal intercepção seria admissível, nos termos da lei processual penal, em caso nacional semelhante.\n2 -  É competente para a recepção dos pedidos de intercepção a polícia de investigação criminal, que os apresentará ao Supremo Tribunal de Justiça, para autorização.\n3 - O despacho referido no número anterior inclui autorização para a transmissão imediata da comunicação para o Estado requerente, se tal procedimento estiver previsto no tratado internacional com base no qual é feito o pedido."
+   }
+  },
+  {
+   "id": "TL-H115-A157",
+   "no": 157,
+   "noLabel": {
+    "pt": "Artigo 157.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO III ACTOS  PARTICULARES  DE  AUXÍLIO INTERNACIONAL"
+   },
+   "heading": {
+    "pt": "Informações constantes do registo criminal"
+   },
+   "text": {
+    "pt": "A comunicação de pedidos de registo criminal é efectuada aos serviços de identificação criminal."
+   }
+  },
+  {
+   "id": "TL-H115-A158",
+   "no": 158,
+   "noLabel": {
+    "pt": "Artigo 158.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO III ACTOS  PARTICULARES  DE  AUXÍLIO INTERNACIONAL"
+   },
+   "heading": {
+    "pt": "Informações sobre sentenças"
+   },
+   "text": {
+    "pt": "1 - Podem também ser solicitadas informações ou cópias de sentenças ou medidas posteriores, bem como de qualquer outra informação relevante com as mesmas relacionadas, relativamente a nacionais do Estado requerente.\n2 - Os pedidos efectuados nos termos do número anterior são comunicados através da Autoridade Central."
+   }
+  },
+  {
+   "id": "TL-H115-A159",
+   "no": 159,
+   "noLabel": {
+    "pt": "Artigo 159.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI AUXÍLIO  JUDICIÁRIO  MÚTUO  EM  MATÉRIA  PENAL / CAPÍTULO III ACTOS  PARTICULARES  DE  AUXÍLIO INTERNACIONAL"
+   },
+   "heading": {
+    "pt": "Encerramento do processo de cooperação"
+   },
+   "text": {
+    "pt": "1 - Quando a autoridade encarregada da execução do pedido a considerar finda, envia os autos e outros documentos à autoridade estrangeira que o formulou.\n2 - Se a autoridade estrangeira considerar incompleta a execução do pedido, pode devolvê-lo para ser completado, especificando as razões da devolução.\n3 - O pedido é completado se a autoridade timorense considerar procedentes as razões indicadas para a devolução."
+   }
+  },
+  {
+   "id": "TL-H115-A160",
+   "no": 160,
+   "noLabel": {
+    "pt": "Artigo 160.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VII DISPOSIÇÃO  FINAL"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "O presente diploma entra em vigor 60 dias após a sua publicação."
+   }
+  }
+ ]
+}

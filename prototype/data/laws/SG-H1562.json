@@ -1,0 +1,282 @@
+{
+ "id": "SG-H1562",
+ "title": {
+  "zh": null,
+  "en": "Financial Procedure Act 1966",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p20",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act FPA1966",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 15,
+ "chars": 11940,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/FPA1966?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 15 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1562-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Financial Procedure Act 1966."
+   }
+  },
+  {
+   "id": "SG-H1562-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2.—(1) In this Act, unless the context otherwise requires —\n“accounting officer” includes every public officer who is charged with the duty of collecting, receiving, or accounting for, or who in fact collects, receives or accounts for, any public moneys, or who is charged with the duty of disbursing, or who does in fact disburse, any public moneys, and every public officer who is charged with the receipt, custody or disposal of, or the accounting for, public stores or who in fact receives, holds or disposes of public stores;\n“Consolidated Fund” means the Consolidated Fund constituted by Article 145 of the Constitution;\n“financial year” means a period of 12 months ending on 31 March in any year;\n“public moneys” means all revenue, loan, trust and other moneys and all bonds, debentures, and other securities whatsoever raised or received by or on account of Singapore;\n“public stores” means chattels which are the property of or in the possession of or under the control of Singapore;\n“statutory expenditure” has the meaning given by Article 148(4) of the Constitution;\n“Treasury” means the Minister charged with the responsibility for finance and includes any officer under the administrative control or direction of the Minister.\n[15/2021]\n(2) Unless expressly provided otherwise in this Act, any word or expression in this Act that is defined in sections 2 and 11 of the Significant Infrastructure Government Loan Act 2021 has the meaning given to the word or expression by those sections.\n[15/2021]"
+   }
+  },
+  {
+   "id": "SG-H1562-A2.001",
+   "no": 2.001,
+   "noLabel": {
+    "en": "2A."
+   },
+   "chapter": {
+    "en": "PART 1A ACCOUNTANT-GENERAL"
+   },
+   "heading": {
+    "en": "Appointment of Accountant-General"
+   },
+   "text": {
+    "en": "2A.—(1) The President may appoint an Accountant‑General in accordance with the advice of the Public Service Commission unless the President, acting in his or her discretion, does not concur with that advice.\n(2) The remuneration and other terms of service of the Accountant‑General must not be altered to his or her disadvantage during his or her continuance in office."
+   }
+  },
+  {
+   "id": "SG-H1562-A2.002",
+   "no": 2.002,
+   "noLabel": {
+    "en": "2B."
+   },
+   "chapter": {
+    "en": "PART 1A ACCOUNTANT-GENERAL"
+   },
+   "heading": {
+    "en": "Duties of Accountant-General"
+   },
+   "text": {
+    "en": "2B.—(1) The Accountant-General is responsible for the supervision and administration of the Government accounting system, including financial and accounting records and procedures for the receipt, custody, investment, safekeeping and payment of public moneys and the purchase, custody and disposal of public property.\n(2) The Accountant-General must perform such other duties and exercise such other powers as may be prescribed by or under any written law."
+   }
+  },
+  {
+   "id": "SG-H1562-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 ACCOUNTING OFFICERS"
+   },
+   "heading": {
+    "en": "Duties of accounting officers"
+   },
+   "text": {
+    "en": "3. Every accounting officer shall be subject to the provisions of this Act and any regulations made thereunder and must perform such duties, keep such records and render such accounts as may be prescribed by or under this Act or by instructions issued by the Treasury in matters of financial and accounting procedure not inconsistent therewith."
+   }
+  },
+  {
+   "id": "SG-H1562-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 ACCOUNTING OFFICERS"
+   },
+   "heading": {
+    "en": "Bank accounts"
+   },
+   "text": {
+    "en": "4. No accounting officer shall open any public or official account in respect of public moneys of Singapore in any bank without the authority in writing of the Minister, and no bank shall permit an overdraft on any public or official account in respect of public moneys of Singapore unless the same be authorised by the Minister or under the authority of any written law."
+   }
+  },
+  {
+   "id": "SG-H1562-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Powers of Minister"
+   },
+   "text": {
+    "en": "5. The Minister shall, subject to the provisions of the Constitution and of this Act, have the management of the Consolidated Fund and the supervision, control and direction of all matters relating to the financial affairs of Singapore which are not assigned to any other Minister by any other law."
+   }
+  },
+  {
+   "id": "SG-H1562-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Consolidated Fund accounts"
+   },
+   "text": {
+    "en": "6. There shall be maintained by the Treasury in respect of the Consolidated Fund 2 separate accounts:\n(a)an account to be called the Consolidated Revenue Account in which account shall be kept all moneys in the Fund other than such moneys as are mentioned in paragraph (b);\n(b)an account to be called the Consolidated Loan Account in which account shall be kept all moneys received by way of loan upon the public credit of Singapore and that are not to refinance an earlier borrowing under the Significant Infrastructure Government Loan Act 2021.\n[15/2021]"
+   }
+  },
+  {
+   "id": "SG-H1562-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Custody and investment of public moneys"
+   },
+   "text": {
+    "en": "7.—(1) All public moneys shall be kept with such bank or banks as the Minister shall from time to time direct.\n(2) All such moneys paid into a bank shall be deemed to be the property of Singapore lent by Singapore to the bank.\n(3) Subject to subsection (4), moneys standing to the credit of Singapore with any bank, or otherwise held by Singapore may be invested by the Minister —\n(a)on deposit in any bank;\n(b)in gold and other bullion;\n(c)in securities of, or guaranteed by, any government or international financial institution;\n(d)in any of the stocks, funds, securities or investments; or\n(e)as otherwise authorised by law,\nand such investments together with the interest and any other income received therefrom shall form either —\n(f)part of the Consolidated Fund;\n(g)part of any fund created by any law; or\n(h)part of any deposit account constituted under section 8,\nas the case may be.\n(4) Moneys referred to in subsection (3) shall not be invested by the Minister in any stock, bond, fund or security issued by the Government of Singapore.\n(5) Interest and any other income received from the investment of any moneys in accordance with subsection (3) shall be accounted in the Consolidated Revenue Account, except that where it is so provided in any law or under the terms of any trust, or the Minister so directs, the interest and any other income received from the investment of any moneys standing to the credit of any trust account shall be paid to the credit of such trust account.\n(6) All costs, expenses and charges incurred in relation to making any investment under subsection (3) shall be charged on and paid out of the Consolidated Fund without further authority other than this section.\n(7) Notwithstanding subsection (3), moneys specified in the Schedule and paid to the credit of any deposit account constituted under section 8 shall be invested by the Minister on deposit in any bank.\n(8) Interest received from the investment of any moneys in accordance with subsection (7) shall be paid, in such manner and at such rate as the Minister may direct, to the credit of the deposit account to which it relates and any balance of interest not so paid to the credit of any deposit account shall be paid into the Consolidated Revenue Account.\n(9) The Minister may at any time, by order in the Gazette, add to or vary the Schedule."
+   }
+  },
+  {
+   "id": "SG-H1562-A7.001",
+   "no": 7.001,
+   "noLabel": {
+    "en": "7A."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Capital injections to statutory corporations"
+   },
+   "text": {
+    "en": "7A.—(1) Notwithstanding section 7, the Minister may invest by way of capital injection in any statutory corporation out of a capital contribution appropriated by Parliament from the Consolidated Fund by written law.\n(2) Except as otherwise expressly provided in any written law, the Minister, after consultation with the Minister charged with the responsibility for the statutory corporation concerned, shall determine the terms and conditions under which the capital injection under this section shall be made, and may from time to time vary such terms and conditions.\n(3) Without prejudice to subsection (2), the Minister may from time to time, on behalf of the Government, subscribe for or otherwise acquire shares or other securities in the statutory corporation in which moneys are invested by way of capital injection under this section.\n(4) Nothing in this section shall prevent the investment of moneys by the Government in any statutory corporation in accordance with the Development Fund Act 1959 or the Developmental Investment Fund Act 2000.\n(5) In this section —\n“capital contribution” includes money provided, or to be provided, to a statutory corporation for —\n(a)the purchase of assets to be held or owned by the statutory corporation; or\n(b)the development of assets held or owned by the statutory corporation;\n“statutory corporation” means any body corporate established by or under written law to perform or discharge any public function."
+   }
+  },
+  {
+   "id": "SG-H1562-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Deposit accounts"
+   },
+   "text": {
+    "en": "8.—(1) The Minister shall establish such deposit accounts as may be necessary for the proper accounting of moneys received subject to a trust or for the proper accounting of moneys received not being revenues of Singapore.\n(2) The following moneys shall be paid to the credit of the deposit account to which they relate:\n(a)all moneys deposited with any accounting officer, not being revenues of Singapore;\n(b)all moneys received from the sale to any person or department of any articles purchased or produced, or for work paid for, with moneys standing to the credit of a deposit account;\n(c)all moneys paid by any person for the purpose of any deposit account.\n(3) Subject to the provisions of any law and the terms of any trust, the Minister shall in respect of any such deposit account or class of deposit accounts specify the persons by whom and the manner in which such account or class of accounts shall be controlled.\n(4) Subject to the provisions of any law and the terms of any trust, the Minister may direct that any deposit account shall be closed and thereupon, after all liabilities of the account have been met, the account shall be closed accordingly.\n(5) Subject to the provisions of any law and the terms of any trust, the Minister may direct that any moneys standing to the credit of any deposit account which are not required for the purposes of that account and the balance of moneys standing to the credit of a deposit account closed under subsection (4) shall be paid into the Consolidated Revenue Account."
+   }
+  },
+  {
+   "id": "SG-H1562-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Advance accounts"
+   },
+   "text": {
+    "en": "9. The Minister shall establish such advance accounts as may be necessary for the proper accounting of moneys approved for the purpose of making advances by a Supply or Supplementary Supply law."
+   }
+  },
+  {
+   "id": "SG-H1562-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Government funds"
+   },
+   "text": {
+    "en": "10. There shall be paid into any Government fund created by any law —\n(a)such sums as may from time to time be appropriated by any written law for the purposes of any such fund, either out of the Consolidated Revenue Account or out of the Consolidated Loan Account, as the case may be;\n(b)revenues of Singapore allocated by any written law thereto;\n(c)all repayments of loans made out of any such fund and all interest thereon;\n(d)all moneys received from the sale to any person or department of any articles purchased or produced, or for work paid for, with moneys standing to the credit of any such fund; and\n(e)all moneys paid by any person for the purpose of any such fund."
+   }
+  },
+  {
+   "id": "SG-H1562-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Contingencies Fund"
+   },
+   "text": {
+    "en": "11.—(1) A Contingencies Fund is hereby created consisting of moneys from time to time appropriated thereto from the Consolidated Fund.\n(2) The Minister may, if he or she is satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists and for which funds cannot be provided under section 17(4) and if the President, acting in his or her discretion, concurs with the making of an advance for such need, make advances from the Contingencies Fund to meet that need."
+   }
+  },
+  {
+   "id": "SG-H1562-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Payment of moneys from Consolidated Fund"
+   },
+   "text": {
+    "en": "12.—(1) No moneys shall be withdrawn from the Consolidated Fund except in the manner provided by this section.\n(2) The Minister shall by warrant authorise the issue from the Consolidated Fund of sums to meet the due cost of any service charged upon the Consolidated Fund, and such sums shall be accounted in the Consolidated Revenue Account:\nProvided that this subsection shall not apply to sums issued from the Consolidated Fund to meet the cost of any service charged upon the Consolidated Fund which —\n(a)is authorised by law to be met from moneys accounted in the Consolidated Loan Account; and\n(b)is withdrawn from the Consolidated Fund in accordance with subsection (4).\n[Act 3 of 2024 wef 26/02/2024]\n(3) (a) The Minister may by warrant authorise the issue from the Consolidated Fund of sums to meet expenditure —\n[Act 3 of 2024 wef 26/02/2024]\n(i)appropriated by a Supply or Supplementary Supply law or any other law or approved by resolution of Parliament in accordance with Article 148A(2) of the Constitution; or\n(ii)approved by resolution of Parliament in accordance with Article 148B(1) of the Constitution with which the President concurs:\nProvided that the aggregate of such sums under each head of expenditure shall not exceed the total sum so approved."
+   }
+  }
+ ]
+}

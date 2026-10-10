@@ -1,0 +1,215 @@
+{
+ "id": "SG-H1156",
+ "title": {
+  "zh": null,
+  "en": "Deposit Insurance Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p15",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation DIA2005-RG2",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 14,
+ "chars": 15138,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/DIA2005-RG2?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 14 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 3 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1156-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Deposit Insurance Regulations."
+   }
+  },
+  {
+   "id": "SG-H1156-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“Accounting Standards” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);\n“advocate and solicitor” means an advocate and solicitor of the Supreme Court who has in force a practising certificate;\n“associated company” has the same meaning as the term “associate” defined in the Accounting Standards;\n“banking corporation” means — (a) any bank licensed by the Authority under the Banking Act (Cap. 19); or (b) any entity licensed, registered, approved or otherwise regulated as a bank in the country of establishment;\n“classified”, in relation to a credit facility, means any credit facility which has been categorised by a Scheme member as “substandard”, “doubtful” or “loss” pursuant to any notice in writing issued by the Authority under any written law;\n“company” and “corporation” have the same respective meanings as in section 4(1) of the Companies Act (Cap. 50);\n“counterparty related to the Scheme member” includes any holding company, subsidiary or associated company of the Scheme member, and any subsidiary or associated company of any holding company of the Scheme member;\n“credit facility” means —\n(a)the granting by a Scheme member of advances, loans and other facilities whereby a customer of the Scheme member has access to funds or financial guarantees; or\n(b)the incurring by a Scheme member of other liabilities on behalf of a customer;\n“debt security” includes any debenture, bond or note;\n“eligible asset” means any of the assets listed in the First Schedule which may be included by a Scheme member for the purposes of computing the asset maintenance ratio under regulation 6;\n“eligible pledged asset” has the meaning given to it by regulation 6(3);\n“foreign bank” means a full bank which is incorporated in a jurisdiction other than Singapore and operating branches or offices located within Singapore;\n“holding company” and “subsidiary” have the same respective meanings as in section 5 of the Companies Act;\n“housing loan” means a credit facility granted to an individual for the purchase of residential property where the credit facility is secured on that property;\n“investment grade” means any of the following credit ratings issued by the respective credit rating agencies:\n(a)BBB-minus or better by Fitch, Inc.;\n(b)Baa or better by Moody's Investor Services;\n(c)BBB-minus or better by Standard and Poor's Corporation;\n“merchant bank” means a merchant bank approved under section 28 of the Monetary Authority of Singapore Act (Cap. 186);\n“minimum cash balances” means the minimum cash balances maintained on deposit with the Authority by a bank as reserves against its deposit and other liabilities under section 39 of the Banking Act (Cap. 19);\n“minimum liquid assets” means the minimum amount or amounts of liquid assets held by a bank under section 38 of the Banking Act;\n“practising certificate” means a certificate issued by the Registrar under section 25 of the Legal Profession Act (Cap. 161);\n“share” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);\n“Singapore Government Securities” means any debt securities issued by the Government under any written law."
+   }
+  },
+  {
+   "id": "SG-H1156-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Premium year"
+   },
+   "text": {
+    "en": "3.—(1) Subject to paragraph (2), for the purposes of the definition of “premium year” in section 2(1) of the Act, the Authority hereby prescribes the premium year to be the period beginning on 1st April of any year and ending on 31st March of the following year.\n(2) Where the effective date appointed under section 30(5) of the Act is after 1st April of any year, the first premium year shall be the period beginning on the effective date and ending on 31st March of the following year."
+   }
+  },
+  {
+   "id": "SG-H1156-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Definition of SIBOR"
+   },
+   "text": {
+    "en": "4. For the purposes of the definition of “SIBOR” in section 8(14) of the Act, the Authority hereby prescribes “SIBOR” to be the 3-month Singapore Dollar Singapore Interbank Offer Rate as determined by the Association of Banks in Singapore."
+   }
+  },
+  {
+   "id": "SG-H1156-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Asset maintenance requirement for foreign banks"
+   },
+   "text": {
+    "en": "5.—(1) Every Scheme member which is a foreign bank shall maintain in relation to its insured deposit base, assets in Singapore for meeting its liabilities in respect of insured deposits placed with it, in the manner specified in paragraph (2).\n(2) For the purposes of paragraph (1), the foreign bank shall at all times maintain an asset maintenance ratio of not less than 1 as determined in accordance with regulation 6."
+   }
+  },
+  {
+   "id": "SG-H1156-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Computation of asset maintenance ratio"
+   },
+   "text": {
+    "en": "6.—(1) For the purposes of regulation 5(2) and subject to paragraphs (2) and (3), the asset maintenance ratio shall be calculated in accordance with the following formula:\nwhere A\nis the value of any eligible asset or eligible pledged asset which —\n(a)is reflected as an asset in the books of the Scheme member in relation to its operations in Singapore;\n(b)is free from any prior encumbrances;\n(c)does not arise or result from any contractual or other arrangements with, or investments in, a counterparty related to the Scheme member; and\n(d)is not used to meet any requirements in relation to minimum liquid assets or minimum cash balances;\nB\nis the percentage applicable to a particular eligible asset or an eligible pledged asset specified in the second column of the First or Second Schedule, as the case may be; and\nC\nis the insured deposit base of the Scheme member —\n(a)as at 31st December of the preceding year; or\n(b)in the case where the foreign bank becomes a Scheme member during the course of a premium year or an exemption from the requirement to be a Scheme member granted to the foreign bank is withdrawn during the course of a premium year, as at the date on which the foreign bank becomes a Scheme member.\n(2) For the purposes of paragraph (1), an eligible asset or eligible pledged asset shall be valued in the following manner:\n(a)an eligible asset shall be valued at its carrying value;\n(b)an eligible pledged asset shall be valued at its market value.\n(3) For the purposes of paragraph (1), an eligible pledged asset shall comprise any of the following types of assets, in respect of which the Scheme member has granted, on such terms and conditions as may be agreed with the Agency, a security interest, other than a contingent security interest, in favour of the Fund:\n(a)any Singapore dollar note or coin kept in Singapore;\n(b)any Singapore Government Securities or debt securities issued by a statutory body in Singapore and guaranteed by the Government;\n(c)any deposit placed with the Authority, after deducting any moneys due to the Authority;\n(d)any debt securities issued by a statutory body in Singapore which are not guaranteed by the Government;\n(e)any debt securities (other than those of a banking corporation or a merchant bank) which have a long-term rating of investment grade;\n(f)any shares listed on a securities exchange and issued by a company (other than a banking corporation, a merchant bank or a counterparty related to the Scheme member) incorporated in Singapore; and\n(g)such shares listed on a securities exchange and issued by a company (other than a banking corporation, a merchant bank or a counterparty related to the Scheme member) established or incorporated outside Singapore as may be permitted by the Authority for inclusion in the computation of the asset maintenance ratio.\n(4) For the purposes of paragraph (3), where the Agency appoints an advocate and solicitor to act on its behalf in any particular transaction with a Scheme member to create a security interest over an eligible pledged asset, the Agency shall be entitled to claim costs on a full indemnity basis for the appointment of the advocate and solicitor from that Scheme member."
+   }
+  },
+  {
+   "id": "SG-H1156-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Determination of premium rates"
+   },
+   "text": {
+    "en": "7.—(1) For the purposes of determining the premium rates applicable to Scheme members for any premium year, all Scheme members shall be classified into the categories specified in the first column of the Table in the Third Schedule.\n(2) The premium rate applicable to each category is specified in the second column of the Table in the Third Schedule.\n(3) For the purposes of determining the category in which a foreign bank shall be classified, the Authority shall compute the asset maintenance ratio of the foreign bank.\n(4) For the purposes of computing the asset maintenance ratio under paragraph (3), the Authority shall apply —\n(a)in the case where —\n(i)the foreign bank becomes a Scheme member during the course of a premium year; or\n(ii)an exemption from the requirement to be a Scheme member granted to the foreign bank pursuant to section 6 of the Act is withdrawn during the course of a premium year,\nthe average of the numerator of the formula for computing the asset maintenance ratio set out in regulation 6 for the last 3 months before it becomes a Scheme member over the insured deposit base as at the date it becomes a Scheme member; or\n(b)in any other case, the average of the numerator of the formula for computing the asset maintenance ratio set out in regulation 6 for the last 3 months of the preceding year over the insured deposit base as at 31st December of the preceding year.\n(5) A Scheme member which is incorporated in Singapore shall be classified in the same category as a foreign bank with an asset maintenance ratio of more than 5."
+   }
+  },
+  {
+   "id": "SG-H1156-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Computation of premium contributions"
+   },
+   "text": {
+    "en": "8.—(1) Subject to regulation 9(1), the Authority shall calculate the amount of premium contribution payable by a Scheme member for any premium year as the product of the premium rate applicable to the Scheme member and the insured deposit base of the Scheme member as at 31st December of the preceding year.\n(2) Subject to regulation 9(2), where —\n(a)a full bank or finance company becomes a Scheme member during the course of a premium year; or\n(b)an exemption from the requirement to be a Scheme member granted to a full bank or finance company pursuant to section 6 of the Act is withdrawn during the course of a premium year,\nthe Authority shall impose on that full bank or finance company, as the case may be, a premium contribution which is pro-rated according to the number of months, or any part thereof, remaining for that premium year.\n(3) For the purposes of calculating the premium contribution of a full bank or finance company referred to in paragraph (2), the Authority shall apply the insured deposit base of the full bank or finance company, as the case may be, as at the date on which the full bank or finance company becomes a Scheme member."
+   }
+  },
+  {
+   "id": "SG-H1156-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Minimum premium contribution"
+   },
+   "text": {
+    "en": "9.—(1) Subject to paragraphs (2) and (3), for any premium year, a Scheme member shall pay a minimum premium contribution of $2,500.\n(2) In the case where —\n(a)a full bank or finance company becomes a Scheme member during the course of a premium year; or\n(b)an exemption from the requirement to be a Scheme member granted to a full bank or finance company pursuant to section 6 of the Act is withdrawn during the course of a premium year,\nthe minimum premium contribution that the full bank or finance company, as the case may be, shall pay shall be pro-rated according to the number of months, or any part thereof, remaining for that premium year.\n(3) Where the first premium year does not commence from 1st April, the minimum premium contribution that a Scheme member shall pay for the first premium year shall be pro-rated according to the number of months, or any part thereof, comprised in the first premium year."
+   }
+  },
+  {
+   "id": "SG-H1156-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Size of Fund"
+   },
+   "text": {
+    "en": "10.—(1) The target fund size of the Fund is 0.3% of the aggregate of the insured deposit base of every Scheme member.\n(2) Without prejudice to any other factors that may be relevant in the determination of any variation to the premium rates, where the Fund achieves or exceeds the target fund size specified in paragraph (1), the Authority and the Agency may conduct a joint review of the premium rates."
+   }
+  },
+  {
+   "id": "SG-H1156-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Payment of compensation from Fund"
+   },
+   "text": {
+    "en": "11.—(1) Where an insured depositor is entitled to compensation in respect of moneys placed with a failed Scheme member under the CPFIS, the Agency may pay such compensation to the Central Provident Fund Board for the benefit of the insured depositor or into an equivalent account with another Scheme member in which the compensation is to be held in a manner equivalent to the manner of holding the original moneys.\n(2) Where an insured depositor is entitled to compensation in respect of an insured deposit held under a trust, the Agency may pay such compensation —\n(a)directly to the insured depositor;\n(b)into an account in the name of the insured depositor opened with another Scheme member; or\n(c)into an equivalent trust account held with another Scheme member.\n(3) Where an insured depositor is entitled to compensation in respect of an insured deposit held under a client account, the Agency may pay such compensation —\n(a)directly to the insured depositor;\n(b)into an account in the name of the insured depositor opened with another Scheme member; or\n(c)into an equivalent client account held with another Scheme member."
+   }
+  },
+  {
+   "id": "SG-H1156-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulations 2 and 6\nEligible Assets\nFirst column\nSecond column\nType of Asset\nPercentage\n1.Any Singapore dollar note or coin kept in Singapore\n85%\n2.Any Singapore Government Securities\n85%\n3.Any deposit placed with the Authority, after deducting any moneys due to the Authority\n85%\n4.Any outstanding amount due to a Scheme member under a housing loan granted to a resident of Singapore which is denominated in Singapore dollars and not classified\n85%\n5.Any outstanding amount due to a Scheme member under a credit facility, other than a housing loan, granted to a resident of Singapore (other than a banking corporation or a merchant bank) which is denominated in Singapore dollars and not classified\n70%\n6.Any immovable property in Singapore\n60%"
+   }
+  },
+  {
+   "id": "SG-H1156-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 6\nEligible Pledged Assets\nFirst column\nSecond column\nAsset Category\nPercentage\n1.Any Singapore dollar note or coin kept in Singapore\n100%\n2.Any Singapore Government Securities or debt securities issued by a statutory body in Singapore and guaranteed by the Government\n100%\n3.Any deposit placed with the Authority, after deducting any moneys due to the Authority\n100%\n4.Any debt securities issued by a statutory body in Singapore not guaranteed by the Government\n95%\n5.Any debt securities (other than those of a banking corporation or a merchant bank) which have a long-term rating of investment grade\n90%\n6.Any shares listed on a securities exchange and issued by a company (other than a banking corporation, a merchant bank or a counterparty related to the Scheme member) which is incorporated in Singapore\n70%\n7.Any shares listed on a securities exchange and issued by a company (other than a banking corporation, a merchant bank or a counterparty related to the Scheme member) which is established or incorporated outside Singapore\n55%"
+   }
+  },
+  {
+   "id": "SG-H1156-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulation 7\nTable — Premium Rates\nApplicable To Scheme Members\nFirst column\nSecond column\nCategory of Scheme members\nPremium Rate\n1.A Scheme member which is —\n0.03%\n(a)incorporated in Singapore; or\n(b)a foreign bank with an asset maintenance ratio of more than 5\n2.A Scheme member which is a foreign bank with an asset maintenance ratio of more than 2 but not more than 5\n0.04%\n3.A Scheme member which is a foreign bank with an asset maintenance ratio of 2 or less\n0.08%\n[G.N. Nos. S 8/2006; S242/2007]"
+   }
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "SG-H488",
+ "title": {
+  "zh": null,
+  "en": "Census of Population and Agriculture (Consolidation) Orders",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p06",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CA1973-OR1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 724,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CA1973-OR1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 1 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H488-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Census Act\n(Chapter 35, Section 3)\nCensus of Population and\nAgriculture (Consolidation) Orders\nO 1\nREVISED EDITION 1990\n(25th March 1992)\nThe following Orders have been made under section 3 of the Act directing the taking of a census of —\n(a) the population of Singapore on the night of —\nDate\nG.N.\n1st April 1931\n1956/30\n[26th September 1930]\n30th June 1936\n(Municipality of Singapore)\n1400/36\n[22nd May 1936]\n23rd September 1947\nS 254/47\n[1st August 1947]\n17th June 1957\nS 97/57\n[5th April 1957]\n22nd June 1970\n1079/70\n[3rd April 1970]\n24th June 1980\n726/80\n[29th February 1980]\n30th June 1990\n1125/90\n[30th March 1990]\n(b) agriculture throughout Singapore\nwith effect from 1st November 1973\n2869/73\n[21st September 1973]."
+   }
+  }
+ ]
+}

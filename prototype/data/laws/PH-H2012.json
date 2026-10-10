@@ -1,0 +1,64 @@
+{
+ "id": "PH-H2012",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Republic Act Numbered Seventeen Hundred Eighty-Four, Entitled “An Act Appropriating Five Million Pesos for the Relief and Aid of Fire Victims in Catbalogan, Province of Samar”",
+  "orig": "An Act to Amend Republic Act Numbered Seventeen Hundred Eighty-Four, Entitled “An Act Appropriating Five Million Pesos for the Relief and Aid of Fire Victims in Catbalogan, Province of Samar”"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p28",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1959-06-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2277",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 2071,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1959/ra_2277_1959.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1959/ra_2277_1959.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 3 条，缺 2）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H2012-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section one of Republic Act Numbered Seventeen hundred eighty-four is hereby amended to read as follows:\nSec. 1 . There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of five million pesos for the relief and aid of fire victims in Catbalogan, Province of Samar: Provided, However, That out of the said sum, the amount of three million pesos shall be set aside and used for reclaiming foreshore lands bordering the Municipality of Catbalogan, Province of Samar. The remaining two million pesos shall be distributed by the Philippine National Red Cross as relief and aid to the fire victims in said municipality under such terms and conditions as may be just and equitable.\"\nSection 2 . The said Act is hereby further amended by inserting two new sections between sections one and two thereof to read as follows:\nSec. 1 - A . Subject to pertinent provisions of law and regulations enforced, authority is hereby granted to the Office of the District Engineer, Province of Samar, to undertake and carry out the reclamation by dredging, filling and/or by other means, any foreshore lands bordering the Municipality of Catbalogan, Province of Samar.\nSec. 1 - B . Any and all lands reclaimed as herein provided, shall be the property of the Municipality of Catbalogan, Province of Samar: Provided, That such lands shall be leased, sold or disposed of, giving priority to the fire victims of Catbalogan, Samar, in the year nineteen hundred and fifty-seven whose annual income is less than two thousand pesos, and shall be leased, sold or disposed of in any other manner in accordance with existing laws, except that the new foreshore along the reclaimed lands shall continue to be the property of the National Government: Provided, further, That the proceeds thereof shall constitute as a trust fund to be used for the repair and improvements of the area destroyed by the conflagration in a manner as the Municipal Council of Catbalogan shall determine.\""
+   }
+  },
+  {
+   "id": "PH-H2012-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1959."
+   }
+  }
+ ]
+}

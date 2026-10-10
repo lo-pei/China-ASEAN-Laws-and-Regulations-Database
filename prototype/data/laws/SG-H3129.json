@@ -1,0 +1,104 @@
+{
+ "id": "SG-H3129",
+ "title": {
+  "zh": null,
+  "en": "Medicines (General Sale List) Order 2016",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p39",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MA1975-S544-2016",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1015,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MA1975-S544-2016?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 5 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3129-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. This Order is the Medicines (General Sale List) Order 2016 and come into operation on 1 November 2016."
+   }
+  },
+  {
+   "id": "SG-H3129-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In this Order, “Chinese proprietary medicine”, “homoeopathic medicine”, “medicated oil and balm”, “quasi‑medicinal product” and “traditional medicine” have the same meanings as in the Medicines (Traditional Medicines, Homoeopathic Medicines and other Substances) (Exemption) Order (O 6)."
+   }
+  },
+  {
+   "id": "SG-H3129-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "General sale list"
+   },
+   "text": {
+    "en": "3.—(1) A medicinal product which, in the opinion of the Minister, can with reasonable safety be sold or supplied otherwise than by or under the supervision of a pharmacist is that of a description or class set out in the Schedule.\n(2) For the purposes of section 26 of the Act, items 1 to 5 of the Schedule are medicinal products in the automatic machine section of the general sale list."
+   }
+  },
+  {
+   "id": "SG-H3129-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Revocation"
+   },
+   "text": {
+    "en": "4. The Medicines (General Sale List) Order (O 13) is revoked."
+   }
+  },
+  {
+   "id": "SG-H3129-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nParagraph 3\nGeneral sale list\n1.Chinese proprietary medicine\n2.Homoeopathic medicine\n3.Medicated oil and balm\n4.Quasi‑medicinal product\n5.Traditional medicine"
+   }
+  }
+ ]
+}

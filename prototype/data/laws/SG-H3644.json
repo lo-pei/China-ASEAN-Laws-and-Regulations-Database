@@ -1,0 +1,954 @@
+{
+ "id": "SG-H3644",
+ "title": {
+  "zh": null,
+  "en": "Significant Investments Review Act 2024",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p46",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act SIRA2024",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 57,
+ "chars": 129058,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/SIRA2024?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 57 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3644-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title and commencement"
+   },
+   "text": {
+    "en": "1. This Act is the Significant Investments Review Act 2024 and comes into operation on a date that the Minister appoints by notification in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H3644-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Purpose of Act"
+   },
+   "text": {
+    "en": "2. The purpose of this Act is to protect the national security interests of Singapore by regulating significant investments in, and control of, critical entities."
+   }
+  },
+  {
+   "id": "SG-H3644-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "General interpretation"
+   },
+   "text": {
+    "en": "3. In this Act —\n“appointed authority” means a public officer, or a body, appointed under section 7(1);\n“authorised officer” means an individual appointed under section 5(1) or 8(1);\n“competent authority” means the public officer, or the body, appointed under section 4(1);\n“designated entity” means an entity that has been designated under section 17(1) as a designated entity;\n“entity” means any sole proprietorship, partnership, corporation or other body of persons, whether corporate or unincorporate, and includes a trust;\n“Guidelines on Fit and Proper Criteria” means the Guidelines on Fit and Proper Criteria mentioned in section 54;\n“Minister” means the Minister charged by the Prime Minister with the responsibility for this Act under Article 30(1) of the Constitution;\n“public authority” means —\n(a)any Ministry, department of the Government or Organ of State; or\n(b)any body established or constituted by or under any public Act to perform a public function, but excludes a Town Council;\n“relevant Minister” has the meaning assigned to that term in section 6(2);\n“Town Council” means a Town Council established under section 4 of the Town Councils Act 1988."
+   }
+  },
+  {
+   "id": "SG-H3644-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Competent authority"
+   },
+   "text": {
+    "en": "4.—(1) The Minister may appoint a public officer, or a body established or constituted by or under any public Act to perform a public function (except a Town Council), to be the competent authority for the purposes of this Act.\n(2) The competent authority is responsible for the administration of this Act, and may perform such duties as are imposed, and may exercise such powers as are conferred, on the competent authority by this Act, subject to any general or special directions of the Minister."
+   }
+  },
+  {
+   "id": "SG-H3644-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Authorised officers appointed by competent authority and delegation by competent authority"
+   },
+   "text": {
+    "en": "5.—(1) The competent authority may, in relation to this Act or any provision of this Act, appoint any of the following individuals to be an authorised officer to administer this Act, either generally or for any particular provision:\n(a)a public officer;\n(b)an employee of a public authority;\n(c)a public officer performing duties in a public authority under a secondment arrangement making available temporarily to the public authority the services of the public officer.\n(2) Every authorised officer appointed under subsection (1)(b) is deemed to be a public servant for the purposes of the Penal Code 1871.\n(3) The competent authority may, for any reason that appears to the competent authority to be sufficient, at any time revoke any appointment as an authorised officer made by the competent authority.\n(4) The competent authority may delegate the exercise of all or any of the powers conferred, or the performance of all or any of the duties imposed, on the competent authority by any provision of this Act (except the power of delegation conferred by this subsection) to an authorised officer, and any reference in a provision of this Act to the competent authority includes a reference to such an authorised officer.\n(5) A delegation under subsection (4) by the competent authority may be general or for a particular case and is subject to any conditions or limitations that are set out in this Act or that the competent authority may specify."
+   }
+  },
+  {
+   "id": "SG-H3644-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Transfer of functions and powers of Minister"
+   },
+   "text": {
+    "en": "6.—(1) This section applies if the Minister has designated an entity under section 17(1).\n(2) The Prime Minister may direct that all or any of the functions and powers of the Minister under Part 3 (other than section 17 and Division 6) and section 38 be transferred to another Minister (called in this Act the relevant Minister) in respect of the designated entity.\n(3) If any functions and powers of the Minister have been transferred with the Prime Minister’s direction under subsection (2) —\n(a)the relevant Minister may, in respect of the designated entity, perform the functions and exercise the powers so transferred in place of the Minister; and\n(b)any reference to the Minister in the following provisions of this Act includes, in respect of that entity, the relevant Minister mentioned in that subsection:\n(i)Part 3, other than section 17 and Division 6;\n(ii)Part 4, other than sections 41, 42 and 45.\n(4) A transfer of functions and powers under subsection (2) is subject to any conditions and restrictions that the Prime Minister may determine.\n(5) The Prime Minister may —\n(a)revoke any direction given under subsection (2); or\n(b)vary any of the conditions or restrictions mentioned in subsection (4).\n(6) The following matters must be notified in the Gazette as soon as practicable:\n(a)any direction given under subsection (2);\n(b)any condition or restriction determined under subsection (4);\n(c)any revocation of a direction under subsection (5)(a);\n(d)any variation of a condition or restriction under subsection (5)(b).\n(7) Regulations may be made under section 57 to provide for saving and transitional provisions when any transfer of functions and powers under subsection (2) is revoked under subsection (5)(a)."
+   }
+  },
+  {
+   "id": "SG-H3644-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Appointed authorities"
+   },
+   "text": {
+    "en": "7.—(1) A relevant Minister may appoint a public officer, or a body established or constituted by or under any public Act to perform a public function (except a Town Council), to be an appointed authority for the purposes of all or any of the provisions of this Act for which the relevant Minister may act.\n(2) An appointed authority is responsible for the administration of the provisions of this Act for which purpose the appointed authority was appointed, and may perform such duties as are imposed, and may exercise such powers as are conferred, on the appointed authority by this Act, subject to any general or special directions of the relevant Minister.\n(3) If a relevant Minister does not appoint an appointed authority under subsection (1), then, the competent authority —\n(a)is responsible for the administration of the provisions of this Act in respect of the functions and powers transferred to the relevant Minister under section 6(2); and\n(b)may perform such duties as are imposed, and may exercise such powers as are conferred, on the appointed authority by this Act,\nsubject to any general or special directions of the relevant Minister.\n(4) If a direction in relation to a relevant Minister is revoked under section 6(5)(a), the appointment of any appointed authority appointed by that relevant Minister is also treated as revoked."
+   }
+  },
+  {
+   "id": "SG-H3644-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Authorised officers appointed by appointed authority and delegation by appointed authority"
+   },
+   "text": {
+    "en": "8.—(1) An appointed authority may, in relation to this Act or any provision of this Act, appoint any of the following individuals to be an authorised officer to administer this Act, either generally or for any particular provision, in respect of which the relevant Minister of the appointed authority may act:\n(a)a public officer;\n(b)an employee of a public authority;\n(c)a public officer performing duties in a public authority under a secondment arrangement making available temporarily to the public authority the services of the public officer.\n(2) Every authorised officer appointed under subsection (1)(b) is deemed to be a public servant for the purposes of the Penal Code 1871.\n(3) An appointed authority may, for any reason that appears to the appointed authority to be sufficient, at any time revoke any appointment as an authorised officer made by the appointed authority.\n(4) If the appointment of an appointed authority is revoked, the appointment of each authorised officer appointed by that appointed authority is also treated as revoked.\n(5) An appointed authority may delegate the exercise of all or any of the powers conferred, or the performance of all or any of the duties or duties imposed, on the appointed authority by any provision of this Act (except the power of delegation conferred by this subsection) to an authorised officer appointed by the appointed authority under subsection (1), and any reference in a provision of this Act to the appointed authority includes a reference to such an authorised officer.\n(6) A delegation under subsection (5) by an appointed authority may be general or for a particular case and is subject to any conditions or limitations that are set out in this Act or that the appointed authority may specify."
+   }
+  },
+  {
+   "id": "SG-H3644-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Delegation by Minister, etc."
+   },
+   "text": {
+    "en": "9.—(1) The Minister may delegate the performance or exercise of any of his or her functions or powers under this Act (except the power to make regulations under section 57(1)) to any of the following persons by written notice to the person:\n(a)any of the following office‑holders in his or her Ministry:\n(i)a Second Minister;\n(ii)a Senior Minister of State;\n(iii)a Minister of State;\n(iv)a Senior Parliamentary Secretary;\n(v)a Parliamentary Secretary;\n(b)the competent authority appointed by the Minister under section 4.\n(2) A delegation by the Minister under subsection (1) may be general or for a particular case and is subject to any conditions or limitations that are set out in this Act or that the Minister may specify.\n(3) The Minister may, in delegating the performance or exercise of any of his or her functions or powers to the competent authority under subsection (1)(b), authorise the competent authority to subdelegate the performance or exercise of the function or power to an authorised officer appointed by the competent authority under section 5 (called in this Act a subdelegate).\n(4) A subdelegation by the competent authority of the performance or exercise of a function or power delegated to it by the Minister under subsection (1)(b) to a subdelegate is subject to the same restrictions, and has the same effect, as if the subdelegate were the delegate."
+   }
+  },
+  {
+   "id": "SG-H3644-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Delegation by relevant Minister, etc."
+   },
+   "text": {
+    "en": "10.—(1) A relevant Minister may delegate the performance or exercise of any of his or her functions or powers under this Act (except the power to make regulations under section 57(2)), either generally or specially, to any of the following persons by written notice to the person:\n(a)any of the following office‑holders in his or her Ministry:\n(i)a Second Minister;\n(ii)a Senior Minister of State;\n(iii)a Minister of State;\n(iv)a Senior Parliamentary Secretary;\n(v)a Parliamentary Secretary;\n(b)the appointed authority appointed by the relevant Minister under section 7.\n(2) A delegation by the relevant Minister under subsection (1) may be general or for a particular case and is subject to any conditions or limitations that are set out in this Act or that the relevant Minister may specify.\n(3) A relevant Minister may, in delegating the performance or exercise of any of his or her functions or powers to the appointed authority under subsection (1)(b), authorise the appointed authority to subdelegate the performance or exercise of the function or power to an authorised officer appointed by the appointed authority under section 8 (also called in this Act a subdelegate).\n(4) A subdelegation by the appointed authority of the performance or exercise of a function or power delegated to it by the relevant Minister under subsection (1)(b) to a subdelegate is subject to the same restrictions, and has the same effect, as if the subdelegate were the delegate."
+   }
+  },
+  {
+   "id": "SG-H3644-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Power of delegate, etc."
+   },
+   "text": {
+    "en": "11.—(1) A delegate or subdelegate who purports to perform a function or exercise a power under delegation or subdelegation under section 9 or 10 —\n(a)is taken to perform the function or exercise the power in accordance with the terms of the delegation or subdelegation (as the case may be), unless the contrary is shown; and\n(b)must produce evidence of his or her authority to perform the function or exercise the power, if reasonably requested to do so.\n(2) A subdelegate to whom a function or power of the Minister or the relevant Minister is subdelegated under section 9(3) or 10(3) (as the case may be) is not authorised to further delegate that function or power to anyone else."
+   }
+  },
+  {
+   "id": "SG-H3644-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "12. Except where otherwise expressly provided, this Part applies to, and in relation to —\n(a)all individuals, whether resident in Singapore or not and whether citizens of Singapore or not; and\n(b)all bodies corporate or unincorporate, whether incorporated, formed, established, or carrying on business in Singapore or not."
+   }
+  },
+  {
+   "id": "SG-H3644-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "13.—(1) In this Part —\n“acquisition” includes an agreement to acquire, but does not include —\n(a)an acquisition by will or by operation of law; or\n(b)an acquisition by way of enforcement of a loan security;\n“arrangement” includes any formal or informal scheme, arrangement or understanding, and any trust whether express or implied;\n“business trust” has the meaning given by section 2 of the Business Trusts Act 2004;\n“chief executive officer”, in relation to a corporation, means a person, by whatever name called, who —\n(a)is in the direct employment of, or acting for or by arrangement with, the corporation; and\n(b)is principally responsible for the management and conduct of the business of the corporation;\n“control” includes control as a result of, or by means of, any agreement, arrangement, understanding or practice, whether or not having legal or equitable force and whether or not based on legal or equitable rights;\n“corporation” has the meaning given by section 4(1) of the Companies Act 1967;\n“decrease”, in relation to the holding of equity interest, includes a decrease to a point of nil;\n“designation date”, in relation to a designated entity, means the date on which the entity is designated as a designated entity under section 17(1);\n“director” has the meaning given by section 4(1) of the Companies Act 1967;\n“equity interest” means —\n(a)in relation to a corporation — a voting share in that corporation;\n(b)in relation to an entity other than a corporation — any right or interest, whether legal or equitable, in that entity, by whatever name called, which gives the holder of that right or interest voting power in that entity;\n(c)in relation to a business trust — a unit in that business trust; and\n(d)in relation to a trust other than a business trust — any right or interest (whether legal or equitable) in that trust, by whatever name called, which gives the holder of that right or interest voting power in that trust;\n“increase”, in relation to the holding of equity interest, includes an increase from a starting point of nil;\n“indirect controller”, in relation to an entity, means any person, whether acting alone or together with any other person, and whether with or without holding equity interests or controlling the voting power in the entity —\n(a)whose directions, instructions or wishes —\n(i)the directors or other officers of the entity;\n(ii)the trustee‑manager (in the case of an entity that is a business trust); or\n(iii)the trustee (in the case of an entity that is a trust other than a business trust),\nare accustomed or under an obligation, whether formal or informal, to act in accordance with; or\n(b)who is in a position to determine the policy of the entity,\nbut does not include —\n(c)any person who is —\n(i)a director or other officer of the entity;\n(ii)the trustee‑manager (in the case of an entity that is a business trust); or\n(iii)the trustee (in the case of an entity that is a trust other than a business trust); or\n(d)any person whose directions, instructions or wishes —\n(i)the directors or other officers of the entity;\n(ii)the trustee‑manager (in the case of an entity that is a business trust); or\n(iii)the trustee (in the case of an entity that is a trust other than a business trust),\nare accustomed to act in accordance with by reason only that they act on advice given by the person in that person’s professional capacity;\n“limited liability partnership” has the meaning given by section 2(1) of the Limited Liability Partnerships Act 2005;\n“liquidator” includes the Official Receiver when acting as the liquidator of a corporation;\n“officer”, in relation to a corporation, includes —\n(a)a director or secretary of, or a person employed in an executive capacity by, the corporation;\n(b)any receiver or manager, or any receiver and manager, of any part of the undertaking of the corporation, appointed under a power contained in any instrument or by the High Court or by creditors;\n(c)any liquidator of the corporation appointed in a voluntary winding up or by the General Division of the High Court or by creditors; and\n(d)any judicial manager of the corporation appointed by the General Division of the High Court under Part 7 of the Insolvency, Restructuring and Dissolution Act 2018;\n“Official Receiver” has the meaning given by section 2(1) of the Insolvency, Restructuring and Dissolution Act 2018;\n“related corporation”, in relation to a corporation, means another corporation that is deemed under section 15(2) to be related to that corporation;\n“share”, in relation to a corporation, means a share in the share capital of the corporation and includes stock into which all or any of the share capital of the corporation has been converted;\n“treasury share” has the meaning given by section 4(1) of the Companies Act 1967;\n“trust” includes a business trust;\n“trustee‑manager”, in relation to a business trust, has the meaning given by section 2 of the Business Trusts Act 2004;\n“unit” has the meaning given by section 2 of the Business Trusts Act 2004;\n“unitholder” means a person who holds units in a business trust;\n“unregistered company” has the meaning given by section 245(1) of the Insolvency, Restructuring and Dissolution Act 2018;\n“voting share” has the meaning given by section 4(1) of the Companies Act 1967 but does not include a treasury share.\n(2) A reference in this Part to the control of a percentage of the voting power in an entity is a reference to the control, whether direct or indirect, of that percentage of the total number of votes that might be cast in —\n(a)a general meeting of the entity;\n(b)in the case of an entity that is a business trust — a general meeting of the unitholders of the business trust; or\n(c)in the case of an entity that is a trust other than a business trust — a general meeting of the beneficiaries of the trust.\n(3) In ascertaining a person’s control of the percentage of the total number of votes that might be cast at a general meeting mentioned in subsection (2), the number of votes that the person is entitled to cast at the general meeting by reason of having been appointed a proxy or representative to vote at the meeting is to be disregarded.\n(4) In this Part —\n(a)a reference to the business or undertaking of an entity that is a business trust means the business or undertaking carried on by the trustee‑manager of the business trust on behalf of the business trust; and\n(b)a reference to the business or undertaking of an entity that is a trust (other than business trust) means the business or undertaking carried on by the trustee of the trust on behalf of the trust."
+   }
+  },
+  {
+   "id": "SG-H3644-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "What holding an equity interest means"
+   },
+   "text": {
+    "en": "14.—(1) A person holds an equity interest under this Part if the person —\n(a)has or is deemed to have an equity interest in accordance with subsections (2) to (8); or\n(b)otherwise has a legal or equitable interest in that equity interest,\nexcept for any interest prescribed by regulations made under section 57 as an interest that is to be disregarded.\n(2) Subject to subsection (3), a person has an equity interest if the person has authority (whether formal or informal, or express or implied) to dispose of, or to exercise control over the disposal of, that equity interest.\n(3) It is immaterial that the authority of a person to dispose of, or to exercise control over the disposal of, the equity interest is, or is capable of being made, subject to restraint or restriction.\n(4) It is immaterial, for the purposes of determining whether a person has an equity interest, that the interest cannot be related to a particular share, an interest or a right that gives its holder voting power, or a unit of a business trust, as the case may be.\n(5) A person is deemed to have an equity interest if —\n(a)any property held in trust consists of or includes the equity interest; and\n(b)the person knows, or has reasonable grounds for believing, that the person has an interest under that trust.\n(6) A person is also deemed to have an equity interest in an entity if that person —\n(a)has entered into a contract to purchase the equity interest;\n(b)has a right, otherwise than by reason of having an interest under a trust, to have the equity interest transferred to (or to the order of) that person, whether the right is exercisable presently or in the future and whether on the fulfilment of a condition or not;\n(c)has the right to acquire the equity interest under an option, whether the right is exercisable presently or in the future and whether on the fulfilment of a condition or not; or\n(d)is entitled (otherwise than by reason of having been appointed as proxy or representative) to vote at —\n(i)a general meeting of the entity;\n(ii)in the case of an entity that is a business trust — a general meeting of the unitholders of the business trust; or\n(iii)in the case of an entity that is a trust other than a business trust — a general meeting of the beneficiaries of the trust in question,\nto exercise or control the exercise of a right attached to the equity interest, not being an equity interest in which that person has a legal or equitable interest.\n(7) A person is not to be deemed as not having an equity interest by reason only that the person has the equity interest jointly with another person.\n(8) An equity interest is not to be disregarded by reason only of —\n(a)its remoteness;\n(b)the manner in which it arose; or\n(c)the fact that the exercise of a right conferred by the equity interest is, or is capable of being made, subject to restraint or restriction.\n(9) Regulations made under section 57 may provide that any equity interest is to be disregarded for the purposes of this section or any subsection of this section."
+   }
+  },
+  {
+   "id": "SG-H3644-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Meaning of “associate”"
+   },
+   "text": {
+    "en": "15.—(1) In this Part, a person (A) is an associate of another person (B) if —\n(a)A is the spouse, or a parent, step‑parent or remoter lineal ancestor, or a son, stepson, daughter, stepdaughter or remoter issue, or a brother or sister, of B;\n(b)A is a partner of B in a partnership or limited liability partnership;\n(c)A is a corporation of which B is an officer;\n(d)B is a corporation of which A is an officer;\n(e)A and B are officers of the same corporation;\n(f)A is an employee of B;\n(g)B is an employee of A;\n(h)A and B are employees of the same employer;\n(i)A is the trustee of a discretionary trust if B (or another person who is an associate of B by virtue of any paragraph, except this paragraph and paragraphs (j) and (r)) benefits, or is capable (whether by exercise of a power of appointment or otherwise) of benefitting, under the trust, either directly or through interposed entities or trusts;\n(j)B is the trustee of a discretionary trust if A (or another person who is an associate of A by virtue of any paragraph, except this paragraph and paragraphs (i) and (r)) benefits, or is capable (whether by exercise of a power of appointment or otherwise) of benefitting, under the trust, either directly or through interposed entities or trusts;\n(k)A is a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of B or, if B is a corporation, of the directors of B;\n(l)B is a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of A or, if A is a corporation, of the directors of A;\n(m)A is a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of B or, if B is a corporation, of the directors of B;\n(n)B is a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of A or, if A is a corporation, of the directors of A;\n(o)A is a related corporation of B or B is a related corporation of A;\n(p)A is a corporation in which B, alone or together with other associates of B as described in paragraphs (b) to (o), is in a position to control not less than 20% of the voting power in A;\n(q)B is a corporation in which A, alone or together with other associates of A as described in paragraphs (b) to (o), is in a position to control not less than 20% of the voting power in B;\n(r)A is a person with whom B enters, or proposes to enter, into an agreement or arrangement (whether oral or in writing and whether express or implied) that relates to any of the following matters:\n(i)A and B being in a position, by acting together, to control any of the voting power in an entity;\n(ii)A and B acting together with respect to the acquisition, holding or disposal of equity interests or other interests in an entity;\n(iii)the power of A and B, by acting together, to appoint or remove —\n(A)a director of an entity;\n(B)in the case of an entity that is a business trust — a director of the trustee‑manager of a business trust; or\n(C)in the case of an entity that is a trust other than a business trust and if the trustee of the trust is a corporation — a director of the trustee;\n(iv)the situation where one or more of the directors of —\n(A)an entity;\n(B)in the case of an entity that is a business trust — the trustee‑manager of the business trust; or\n(C)in the case of an entity that is a trust other than a business trust and if the trustee of the trust is a corporation — the trustee of the trust,\nare accustomed or under an obligation (whether formal or informal) to act in accordance with the directions, instructions or wishes of A and B acting together;\n(s)A controls more than half of the voting power of a holding company of B;\n(t)B controls more than half of the voting power of a holding company of A; or\n(u)A is related to B in such other manner as may be prescribed by regulations made under section 57.\n(2) A corporation (A) and another corporation (B) are deemed to be related to each other for the purposes of this section if A is —\n(a)the holding company of B;\n(b)a subsidiary of B; or\n(c)a subsidiary of the holding company of B.\n(3) For the purposes of this section, a corporation (A) is deemed to be a subsidiary of another corporation (B) if —\n(a)B controls the composition of the board of directors of A;\n(b)B controls more than half of the voting power of A; or\n(c)A is a subsidiary of any corporation which is B’s subsidiary.\n(4) For the purposes of subsection (3)(a), the composition of A’s board of directors is deemed to be controlled by B if, by the exercise of some power exercisable by B without the consent or concurrence of any other person, B can appoint or remove all or a majority of the directors, and for the purposes of this provision, B is deemed to have power to make such an appointment if —\n(a)a person cannot be appointed as a director without the exercise in the person’s favour by B of such a power; or\n(b)a person’s appointment as a director follows necessarily from that person being a director or other officer of B.\n(5) In determining whether one corporation (A) is the subsidiary of another corporation (B) —\n(a)any shares held or power exercisable by B in a fiduciary capacity is treated as not held or exercisable by B;\n(b)subject to paragraphs (c) and (d), any shares held or power exercisable —\n(i)by any person as a nominee for B (except if B is concerned only in a fiduciary capacity); or\n(ii)by, or by a nominee for, a subsidiary of B, not being a subsidiary which is concerned only in a fiduciary capacity,\nis to be treated as being held or exercisable by B;\n(c)any shares held or exercisable by any person by virtue of the provisions of any debentures of A, or of a trust deed for securing any issue of such debentures, are to be disregarded; and\n(d)any shares held or exercisable by, or by a nominee for, B or its subsidiary (not being held or exercisable as mentioned in paragraph (c)) is to be treated as not held or exercisable by B if the ordinary business of B or its subsidiary (as the case may be) includes the lending of money and the shares are so held or power is so exercisable by way of security only for the purposes of a transaction entered into in the ordinary course of that business.\n(6) A reference in this section to the holding company of a company or other corporation is a reference to a corporation of which the last mentioned company or corporation is a subsidiary.\n(7) For the purposes of this section, the Depository is not to be regarded as a holding company of a corporation by reason only of the shares it holds in that corporation as a bare trustee.\n(8) Regulations made under section 57 may provide that any person or class of persons are not associates of another person for the purposes of any provision of this Part.\n(9) In this section —\n“Depository” has the meaning given by section 81SF of the Securities and Futures Act 2001;\n“officer”, in relation to a corporation, means a director or secretary of, or any person employed in an executive capacity by, the corporation."
+   }
+  },
+  {
+   "id": "SG-H3644-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Meanings of “Level A controller”, “Level B controller”, “Level C controller”, “Level D controller”, “Level Y controller” and “Level Z controller”"
+   },
+   "text": {
+    "en": "16.—(1) In this Part —\n“Level A controller”, in relation to a designated entity, means a person who, alone or together with the person’s associates —\n(a)holds Level A% or more, but less than Level B% (if Level A% is less than Level B%), of the total equity interests in the designated entity; or\n(b)is in a position to control Level A% or more, but less than Level B% (if Level A% is less than Level B%), of the voting power in the designated entity;\n“Level B controller”, in relation to a designated entity, means a person who, alone or together with the person’s associates —\n(a)holds Level B% or more, but less than Level C% (if Level B% is less than Level C%), of the total equity interests in the designated entity; or\n(b)is in a position to control Level B% or more, but less than Level C% (if Level B% is less than Level C%), of the voting power in the designated entity;\n“Level C controller”, in relation to a designated entity, means a person who, alone or together with the person’s associates —\n(a)holds Level C% or more, but less than Level D% (if Level C% is less than Level D%), of the total equity interests in the designated entity; or\n(b)is in a position to control Level C% or more, but less than Level D% (if Level C% is less than Level D%), of the voting power in, the designated entity;\n“Level D controller”, in relation to a designated entity, means a person who, alone or together with the person’s associates —\n(a)holds Level D% or more of the total equity interests in the designated entity; or\n(b)is in a position to control Level D% or more of the voting power in the designated entity;\n“Level Y controller”, in relation to a designated entity, means a person who, alone or together with the person’s associates —\n(a)holds Level Y% or more, but less than Level Z% (if Level Y% is less than Level Z%), of the total equity interests in the designated entity; or\n(b)is in a position to control Level Y% or more, but less than Level Z% (if Level Y% is less than Level Z%), of the voting power in the designated entity;\n“Level Z controller”, in relation to a designated entity, means a person who, alone or together with the person’s associates —\n(a)holds Level Z% or more of the total equity interests in the designated entity; or\n(b)is in a position to control Level Z% or more of the voting power in the designated entity.\n(2) For the purposes of subsection (1) and section 18(2) —\n“Level A%” means —\n(a)unless paragraph (b) applies, 5%; or\n(b)such other percentage (less than or equal to Level B%) as may be prescribed from time to time;\n“Level B%” means —\n(a)unless paragraph (b) applies, 12%; or\n(b)such other percentage (less than or equal to Level C%) as may be prescribed from time to time;\n“Level C%” means —\n(a)unless paragraph (b) applies, 25%; or\n(b)such other percentage (less than or equal to Level D%) as may be prescribed from time to time;\n“Level D%” means —\n(a)unless paragraph (b) applies, 50%; or\n(b)such other percentage as may be prescribed from time to time;\n“Level Y%” means —\n(a)unless paragraph (b) applies, 50%; or\n(b)such other percentage (less than or equal to Level Z%) as may be prescribed from time to time;\n“Level Z%” means —\n(a)unless paragraph (b) applies, 75%; or\n(b)such other percentage as may be prescribed from time to time.\n(3) The Minister may, for the purpose of paragraph (b) of the definitions of “Level A%”, “Level B%”, “Level C%”, “Level D%”, “Level Y%” and “Level Z%” mentioned in subsection (2), prescribe —\n(a)different percentages in respect of —\n(i)different designated entities;\n(ii)different classes of designated entities; or\n(iii)different designated entities within a class of designated entities; and\n(b)the same percentage for all or any of the definitions."
+   }
+  },
+  {
+   "id": "SG-H3644-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Designation of designated entity"
+   },
+   "text": {
+    "en": "17.—(1) The Minister may designate —\n(a)any entity incorporated, formed or established in Singapore;\n(b)any entity that carries out any activity in Singapore; or\n(c)any entity that provides any goods and services to any person in Singapore,\nif the Minister considers that the designation is necessary in the interest of Singapore’s national security.\n(2) Before the Minister designates any entity under subsection (1), the Minister must, unless the Minister considers that it is not practicable or desirable to do so in any particular case —\n(a)give notice of the Minister’s intention to designate the entity to the entity concerned; and\n(b)give the entity at least 14 days after the date of the notice to make written representations on the proposed designation.\n(3) Once a designation is made under subsection (1), the Minister must, as far as practicable and without delay, give notice of the designation —\n(a)to the entity that is designated; and\n(b)to any other person who, in the Minister’s opinion, ought to have notice of the designation.\n(4) The Minister may cancel a designation under subsection (1) at any time.\n(5) Any designation under subsection (1), and any cancellation of a designation under subsection (4), must be notified in the Gazette as soon as practicable."
+   }
+  },
+  {
+   "id": "SG-H3644-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Notice to Minister by Level A controller"
+   },
+   "text": {
+    "en": "18.—(1) If a person becomes, on or after the designation date, a Level A controller of a designated entity, that person must, within 7 days after becoming the Level A controller, give notice in writing to the Minister of that fact.\n(2) Subsection (1) does not apply if Level A% is equal to Level B%, Level C% or Level D%.\n(3) A person who contravenes subsection (1) shall be guilty of an offence.\n(4) In any proceedings for an offence in relation to a contravention of subsection (1), it is a defence for the accused to prove that the accused —\n(a)was not aware of the contravention when it occurred; and\n(b)notified the Minister of the contravention within a period of 14 days after becoming aware of the contravention.\n(5) In any proceedings for an offence in relation to a contravention of subsection (1), it is also a defence for the accused to prove that, though the accused was aware of the contravention —\n(a)the contravention occurred as a result of an increase in the holding of equity interest, or in the voting power controlled, by any of the associates of the accused, in the designated entity;\n(b)the accused has no agreement or arrangement (whether oral or in writing and whether express or implied) with that associate with respect to the acquisition, holding or disposal of equity interests or other interests, or under which they act together in exercising their voting power, in relation to the designated entity; and\n(c)the accused notified the Minister of the contravention within a period of 7 days after the contravention.\n(6) Except as provided in subsections (4) and (5), it is not a defence in any proceedings for an offence in relation to a contravention of subsection (1) to prove that the accused did not intend to or did not knowingly contravene subsection (1)."
+   }
+  },
+  {
+   "id": "SG-H3644-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Approvals of Minister in relation to equity interests and control of voting power in certain cases"
+   },
+   "text": {
+    "en": "19.—(1) Except with the prior written approval of the Minister, on or after the designation date —\n(a)a person must not become a Level B controller, Level C controller or Level D controller of a designated entity; and\n(b)a Level Y controller or Level Z controller of a designated entity must not cease to be a Level Y controller or Level Z controller of the designated entity.\n(2) Subsection (1) does not apply if the transaction through which a person becomes a Level B controller, Level C controller or Level D controller, or ceases to be a Level Y controller or Level Z controller, is entered into before the designation date.\n(3) Except with the prior written approval of the Minister, a person must not, on or after the designation date, become an indirect controller of a designated entity.\n(4) A person must not, on or after the designation date, acquire, as a going concern, the business or undertaking or any part of the business or undertaking of a designated entity unless the person and —\n(a)the designated entity;\n(b)in the case of a designated entity that is a business trust — the trustee‑manager of the business trust; or\n(c)in the case of a designated entity that is a trust other than a business trust — the trustee of the trust,\nhave obtained the prior written approval of the Minister.\n(5) On an application for approval under subsection (1)(a) or (3), the Minister may approve the application if the Minister is satisfied that —\n(a)the person who is to become a Level B controller, Level C controller or Level D controller or an indirect controller of a designated entity, and every associate of that person that the Minister knows is an associate, is a fit and proper person under the Guidelines on Fit and Proper Criteria;\n(b)having regard to the influence of —\n(i)the person mentioned in paragraph (a); and\n(ii)every associate of that person,\nthe designated entity will continue to carry on its business or undertaking; and\n(c)it is not against the national security interests of Singapore to do so.\n(6) On an application for approval under subsection (1)(b), the Minister may approve the application if the Minister is satisfied that —\n(a)the designated entity of which the applicant is a Level Y controller or Level Z controller will continue to carry on its business or undertaking despite the applicant ceasing to be a Level Y controller or Level Z controller of the designated entity; and\n(b)it is not against the national security interests of Singapore to do so.\n(7) On an application for approval under subsection (4), the Minister may approve the application if the Minister is satisfied that —\n(a)the person acquiring the business or undertaking, or part of the business or undertaking, is a fit and proper person under the Guidelines on Fit and Proper Criteria;\n(b)the acquisition will not affect the security and reliability of the business or undertaking of the designated entity in Singapore; and\n(c)it is not against the national security interests of Singapore to do so.\n(8) An approval of the Minister under this section may be granted subject to any conditions that the Minister considers appropriate to impose.\n(9) Any condition imposed by the Minister under subsection (8) has effect despite the provisions of any other written law or anything contained in the memorandum or articles of association, trust deed, or other constitution, of the designated entity in relation to which the application for approval under subsection (1), (3) or (4) is made.\n(10) A person who contravenes —\n(a)subsection (1), (3) or (4); or\n(b)any condition imposed under subsection (8),\nshall be guilty of an offence.\n(11) In any proceedings for an offence in relation to a contravention of subsection (1), it is a defence for the accused to prove that —\n(a)the accused was not aware of the contravention when it occurred;\n(b)the accused notified the Minister of the contravention within a period of 14 days after becoming aware of the contravention; and\n(c)if the Minister issued any direction under section 22, 23 or 24 relating to the contravention —\n(i)the accused complied with the direction within the period determined by the Minister under any of those sections; or\n(ii)the period determined by the Minister under any of those sections for the compliance of the direction has not expired.\n(12) In any proceedings for an offence in relation to a contravention of subsection (1), it is also a defence for the accused to prove that even though the accused was aware of the contravention —\n(a)the contravention occurred as a result of an increase or decrease in the holding of equity interest, or in the voting power controlled, by any of the associates of the accused, in the designated entity;\n(b)the accused has no agreement or arrangement (whether oral or in writing and whether express or implied) with that associate with respect to the acquisition, holding or disposal of equity interests or other interests, or under which they act together in exercising their voting power, in relation to the designated entity;\n(c)the accused took all reasonable steps to notify the Minister of the contravention within a period of 7 days after the contravention; and\n(d)if the Minister issued any direction under section 22, 23 or 24 relating to the contravention —\n(i)the accused complied with the direction within the period determined by the Minister under any of those sections; or\n(ii)the period determined by the Minister under any of those sections for the compliance of the direction has not expired.\n(13) In any proceedings for an offence in relation to a contravention of subsection (3), it is a defence for the accused to prove that —\n(a)the accused was not aware of the contravention when it occurred;\n(b)the accused notified the Minister of the contravention within a period of 14 days after the contravention; and\n(c)if the Minister issued any direction under section 22, 23 or 24 relating to the contravention —\n(i)the accused complied with the direction within the period determined by the Minister under any of those sections; or\n(ii)the period determined by the Minister under any of those sections for the compliance of the direction has not expired.\n(14) Except as provided in subsections (11), (12) and (13), it is not a defence in any proceedings for an offence in relation to a contravention of subsection (1) or (3) to prove that the accused did not intend to or did not knowingly contravene subsection (1) or (3), as the case may be."
+   }
+  },
+  {
+   "id": "SG-H3644-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Duty of designated entity to report changes of equity and control of certain persons"
+   },
+   "text": {
+    "en": "20.—(1) A designated entity that becomes aware that —\n(a)a person has, on or after the designation date, become a Level A controller, Level B controller, Level C controller or Level D controller of the designated entity;\n(b)a Level Y controller or Level Z controller of the designated entity has, on or after the designation date, ceased to be a Level Y controller or Level Z controller (as the case may be) of the designated entity;\n(c)a person has, on or after the designation date, become an indirect controller of the designated entity; or\n(d)a person has, on or after the designation date, acquired, as a going concern, the business or undertaking or any part of the business or undertaking of the designated entity,\nmust inform the Minister in writing within 7 days after becoming aware of that fact.\n(2) A designated entity that contravenes subsection (1) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3644-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Void transactions"
+   },
+   "text": {
+    "en": "21.—(1) A transaction that is completed in contravention of section 19(1), (3) or (4) is void.\n(2) Any person materially affected by the fact that a transaction is void under subsection (1) or (12) may apply to the Minister for a validation notice in relation to the transaction.\n(3) The Minister may issue a validation notice —\n(a)on an application under subsection (2); or\n(b)on the Minister’s own initiative, if the Minister is satisfied that it is in the interest of Singapore’s national security to validate the transaction.\n(4) The Minister may issue a validation notice under subsection (3)(a) in relation to a transaction that is completed in contravention of section 19(1)(a), (3) or (4) if the Minister is satisfied that —\n(a)the person who is to become a Level B controller, Level C controller, Level D controller or indirect controller of the designated entity and every person that the Minister knows is an associate of that person, or who is acquiring the business or undertaking, or part of the business or undertaking, is a fit and proper person under the Guidelines on Fit and Proper Criteria;\n(b)having regard to the influence of —\n(i)the person mentioned in paragraph (a); and\n(ii)every person that the Minister knows is an associate of that person,\nthe designated entity will continue to carry on its business or undertaking; and\n(c)it is not against the national security interests of Singapore to do so.\n(5) The Minister may issue a validation notice under subsection (3)(a) in relation to a transaction that is completed in contravention of section 19(1)(b) if the Minister is satisfied that —\n(a)the designated entity of which the Level Y controller or Level Z controller has (but for subsection (1)) ceased to be a Level Y controller or Level Z controller will continue to carry on its business or undertaking despite the cessation; and\n(b)it is not against the national security interests of Singapore to do so.\n(6) The Minister may issue a validation notice under subsection (3)(a) in relation to a transaction that is void under subsection (12) if the Minister is satisfied that it is not against the national security interests of Singapore to do so.\n(7) The effect of a validation notice issued under subsection (3) is that the transaction to which it relates is not void.\n(8) A validation notice may be issued under subsection (3) subject to any conditions that the Minister considers appropriate to specify in the validation notice.\n(9) Without limiting the conditions that may be imposed under subsection (8), the Minister may, when specifying any condition under that subsection, further specify that the consequence of a breach of that condition (called in this section a relevant condition) is that the transaction in respect of which the validation notice was issued is void.\n(10) A validation notice issued under subsection (3) must be —\n(a)notified to each person who applied for the validation notice, if any; and\n(b)published in the Gazette.\n(11) A person who had applied for a validation notice under subsection (2) and who fails to comply with any condition specified in the validation notice under subsection (8) shall be guilty of an offence.\n(12) If a person who applies for a validation notice breaches a relevant condition specified in the validation notice, the transaction in respect of which the validation notice is issued is void."
+   }
+  },
+  {
+   "id": "SG-H3644-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Remedial directions in respect of increase in equity interests, etc."
+   },
+   "text": {
+    "en": "22.—(1) This section applies if the Minister is satisfied that —\n(a)any condition of approval of an application under section 19 imposed on a person (other than a condition imposed for an approval of an application under section 19(1)(b)) has not been complied with;\n(b)a person has provided false or misleading information or documents in connection with an application for approval under section 19(1)(a), (3) or (4);\n(c)in the case of a person who had obtained the Minister’s approval under section 19(5) or (7) —\n(i)the person or any associate of that person has ceased to be a fit and proper person under the Guidelines on Fit and Proper Criteria;\n(ii)that having regard to the influence of the person or of any associate of the person, the designated entity is no longer likely to continue to carry on its business or undertaking; or\n(iii)it is against the national security interests of Singapore to allow the person to continue to be a Level B controller, Level C controller, Level D controller or indirect controller of the designated entity, or to allow the person to continue to own or manage the business or undertaking, or the part of the business or undertaking, of the designated entity that was acquired, as the case may be; or\n(d)the Minister would not have granted an approval to a person under section 19(5) or (7) had the Minister been aware, at the time of approval, of circumstances relevant to the person’s application for such approval.\n(2) If this section applies, the Minister may do any one or more of the following:\n(a)in the case of a Level B controller, Level C controller or Level D controller of a designated entity —\n(i)direct the person to take any steps that are necessary, within the period specified by the Minister, to cease to be a Level B controller, Level C controller or Level D controller (as the case may be) of the designated entity;\n(ii)direct the transfer or disposal (whether generally or to a specified person) of all or any of the equity interests in the designated entity held by the person or any of the person’s associates (called in this section and section 25 the section 22(2) equity interests), within the period, and subject to any conditions, that the Minister considers appropriate; or\n(iii)direct that the transfer or disposal of all or any of the section 22(2) equity interests be restricted, subject to any conditions that the Minister considers appropriate;\n(b)in the case of an indirect controller of a designated entity, direct the person, or direct —\n(i)the designated entity;\n(ii)in the case of a designated entity that is a business trust — the trustee‑manager of the business trust; or\n(iii)in the case of a designated entity that is a trust other than a business trust — the trustee of the trust,\nto take any steps that are necessary, within the period specified by the Minister, to cease to be such an indirect controller or to cause the person to cease to be such an indirect controller, as the case may be;\n(c)in the case of a person who acquired, as a going concern, a business or undertaking or a part of a business or undertaking mentioned in section 19(4), direct the person to transfer or dispose of all or any part of the business or undertaking within the period, and subject to any conditions, that the Minister considers appropriate;\n(d)make any other direction that the Minister considers appropriate.\n(3) Before issuing any direction to a person under subsection (2), the Minister must —\n(a)unless the Minister decides that it is not practicable or desirable to do so, give the person written notice of the Minister’s intention to issue the direction and specify a date by which the person may make written representations with regard to the direction; and\n(b)consider every written representation from the person received on or before the date specified under paragraph (a).\n(4) The Minister may, at any time, revoke, vary or discharge any direction under subsection (2) or suspend the operation of any such direction.\n(5) A person who fails to comply with a direction under subsection (2) (including a direction that is varied under subsection (4)) within the period specified by the Minister, shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3644-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Remedial directions in respect of decrease in equity interests, etc."
+   },
+   "text": {
+    "en": "23.—(1) This section applies if the Minister is satisfied that —\n(a)any condition of approval imposed on a person (called in this section a defaulter) for an approval of an application under section 19(1)(b)) has not been complied with;\n(b)a person (also called in this section a defaulter) has provided false or misleading information or documents in connection with an application for approval under section 19(1)(b);\n(c)in the case of a person (also called in this section a defaulter) who had obtained the Minister’s approval under section 19(6), the designated entity is no longer likely to continue to carry on its business or undertaking because the defaulter ceased to be a Level Y controller or Level Z controller of the designated entity, as the case may be; or\n(d)the Minister would not have granted an approval to the defaulter under section 19(6) had the Minister been aware, at the time of approval, of circumstances relevant to the person’s application for such approval.\n(2) If, as a result of a person (called in this subsection the transferee) acquiring any equity interests from a defaulter who is a Level Y controller or Level Z controller of a designated entity (called in this section and section 25 the section 23(2) equity interests), the defaulter ceases to be a Level Y controller or a Level Z controller (as the case may be), the Minister may do any one or more of the following:\n(a)direct the transferee to take any steps that are necessary, within the period specified by the Minister, to cease to hold all or any of the section 23(2) equity interests;\n(b)direct the defaulter to take any steps that are necessary, within the period specified by the Minister, to resume being a Level Y controller or Level Z controller, as the case may be;\n(c)direct that the steps mentioned in paragraph (a) or (b) are taken within the period specified by the Minister, and subject to any conditions, that the Minister considers appropriate;\n(d)direct that the transfer or disposal of all or any of the section 23(2) equity interests be restricted, subject to any conditions that the Minister considers appropriate;\n(e)make any other direction that the Minister considers appropriate.\n(3) Before issuing any direction to a person under subsection (2), the Minister must —\n(a)unless the Minister decides that it is not practicable or desirable to do so, give the person written notice of the Minister’s intention to issue the direction and specify a date by which the person may make written representations with regard to the direction; and\n(b)consider every written representation from the person received on or before the date specified under paragraph (a).\n(4) The Minister may, at any time, revoke, vary or discharge any direction under subsection (2), or suspend the operation of any such direction.\n(5) A person who fails to comply with a direction under subsection (2) (including a direction that is varied under subsection (4)) within the period specified by the Minister, shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3644-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Remedial directions in respect of breach of conditions of validation notice"
+   },
+   "text": {
+    "en": "24.—(1) This section applies if the Minister is satisfied that —\n(a)any condition specified in a validation notice under section 21(8) has not been complied with, where the validation notice does not specify that the consequence of breach of the condition is that the transaction in respect of which the validation notice was issued is void;\n(b)a person has provided false or misleading information or documents in connection with an application for a validation notice under section 21(2);\n(c)in the case of a person who had applied for a validation notice under section 21(2) and the Minister had issued a validation notice under section 21(4) in relation to a transaction that is completed in contravention of section 19(1)(a), (3) or (4) —\n(i)the person or any associate of the person has ceased to be a fit and proper person under the Guidelines on Fit and Proper Criteria;\n(ii)that having regard to the influence of the person or of any associate of the person, the designated entity is no longer likely to continue to carry on its business or undertaking; or\n(iii)it is against the national security interests of Singapore to allow the person to continue to be a Level B controller, Level C controller, Level D controller or indirect controller of the designated entity, or to allow the person to continue to own or manage the business or undertaking, or the part of the business or undertaking, of the designated entity that was acquired, as the case may be;\n(d)in the case of a person who had applied for a validation notice under section 21(2) and the Minister had issued a validation notice under section 21(5) in relation to a transaction that is completed in contravention of section 19(1)(b), the designated entity is no longer likely to continue to carry on its business or undertaking because the person ceased to be a Level Y controller or Level Z controller of the designated entity, as the case may be; or\n(e)the Minister would not have issued a validation notice to a person under section 21(4) or (5) had the Minister been aware, at the time of issuance, of circumstances relevant to the person’s application for the validation notice.\n(2) If this section applies, the Minister may do any one or more of the following:\n(a)if the person to whom the validation notice was issued is a Level B controller, Level C controller or Level D controller of a designated entity —\n(i)direct the person to take any steps that are necessary, within the period specified by the Minister, to cease to be a Level B controller, Level C controller or Level D controller (as the case may be) of the designated entity;\n(ii)direct the transfer or disposal (whether generally or to a specified person) of all or any of the equity interests in the designated entity held by the person or any of the person’s associates (called in this section and section 25 the section 24(2) equity interests), within the time, and subject to any conditions, that the Minister considers appropriate; or\n(iii)direct that the transfer or disposal of all or any of the section 24(2) equity interests be restricted, subject to any conditions that the Minister considers appropriate;\n(b)if the person to whom the validation notice was issued is an indirect controller of a designated entity, direct the person, or direct —\n(i)the designated entity;\n(ii)in the case of a designated entity that is a business trust — the trustee‑manager of the business trust; or\n(iii)in the case of a designated entity that is a trust other than a business trust — the trustee of the trust,\nto take any steps that are necessary, within the period specified by the Minister, to cease to be such an indirect controller or to cause the person to cease to be such an indirect controller, as the case may be;\n(c)if the person to whom the validation notice was issued is a person who acquired, as a going concern, a business or undertaking or any part of a business or undertaking of a designated entity, direct the person to transfer or dispose of all or any part of the business or undertaking within the time, and subject to any conditions, that the Minister considers appropriate;\n(d)if the person to whom the validation notice was issued is a person who ceased to be a Level Y controller or Level Z controller of a designated entity, direct the person to take any steps that are necessary, within the period specified by the Minister, to resume being a Level Y controller or Level Z controller, as the case may be;\n(e)make any other direction that the Minister considers appropriate.\n(3) Before issuing any direction to a person under subsection (2), the Minister must —\n(a)unless the Minister decides that it is not practicable or desirable to do so, give the person written notice of the Minister’s intention to issue the direction and specify a date by which the person may make written representations with regard to the direction; and\n(b)consider every written representation from the person received on or before the date specified under paragraph (a).\n(4) The Minister may, at any time, revoke, vary or discharge any direction under subsection (2), or suspend the operation of any such direction.\n(5) A person who fails to comply with a direction under subsection (2) (including a direction that is varied under subsection (4)) within the period specified by the Minister, shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3644-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Effect of remedial directions, etc."
+   },
+   "text": {
+    "en": "25.—(1) If any direction is issued under section 22(2), 23(2) or 24(2) and has not been carried out, revoked, discharged or suspended —\n(a)the voting rights in respect of the section 22(2) equity interests, section 23(2) equity interests or section 24(2) equity interests that are subject to the direction are not exercisable, unless the Minister expressly permits those rights to be exercised;\n(b)the voting power that the person to whom the direction is issued controls, whether alone or together with that person’s associates, in the designated entity is not exercisable, unless the Minister expressly permits that power to be exercised;\n(c)no equity interest in the designated entity is to be issued or offered (whether by way of dividends, rights, bonus or otherwise) in respect of the section 22(2) equity interests, section 23(2) equity interests or section 24(2) equity interests that are subject to the direction, unless the Minister expressly permits that issue or offer; and\n(d)no amount may be paid (whether by way of dividends, profits, income or otherwise) in respect of the section 22(2) equity interests, section 23(2) equity interests or section 24(2) equity interests that are subject to the direction, unless the Minister expressly authorises that payment.\n(2) Subsection (1) and any direction issued under section 22(2), 23(2) or 24(2) have effect, despite —\n(a)the provisions of any other written law;\n(b)anything in any listing rules as defined in section 2(1) of the Securities and Futures Act 2001; and\n(c)the provisions of the memorandum or articles of association, trust deed or other constitution of the designated entity in question.\n(3) Any issue or offer of equity interests in contravention of subsection (1)(c) is void.\n(4) Any payment made in contravention of subsection (1)(d) is void.\n(5) Subsection (1)(d) does not apply in the event of the winding up, dissolution or termination of the designated entity, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H3644-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Restrictions on voluntary winding up, etc."
+   },
+   "text": {
+    "en": "26.—(1) Despite any other written law —\n(a)a designated entity that is a corporation or limited liability partnership cannot be wound up voluntarily without the consent of the Minister;\n(b)a designated entity that is a partnership cannot be dissolved —\n(i)by a partner giving notice to the other partner or partners (as the case may be) of the partner’s intention to dissolve the partnership; or\n(ii)by the partners agreeing to dissolve the partnership,\nwithout the consent of the Minister;\n(c)a designated entity that is a business trust cannot be wound up voluntarily without the consent of the Minister;\n(d)a designated entity that is a trust (other than a business trust) cannot be wound up or terminated voluntarily without the consent of the Minister;\n(e)a person must not make any application under section 210 of the Companies Act 1967 or section 71 of the Insolvency, Restructuring and Dissolution Act 2018 in relation to a designated entity that is a corporation, unless that person has served 14 days’ notice in writing of that person’s intention to make that application on the Minister;\n(f)no judicial management order under Part 7 of the Insolvency, Restructuring and Dissolution Act 2018 may be made in relation to a designated entity that is a corporation without the consent of the Minister;\n(g)no interim judicial manager or judicial manager may be appointed under section 94 of the Insolvency, Restructuring and Dissolution Act 2018 in respect of a designated entity that is a corporation without the consent of the Minister;\n(h)a person must not take any step to enforce any security over —\n(i)the property of a designated entity; or\n(ii)in the case of a designated entity that is a trust (including a business trust) — the trust property of the trust,\nunless that person has served 14 days’ notice in writing of that person’s intention to take that step on the Minister; and\n(i)a person must not take any step to execute or enforce any judgment or order of court obtained against a designated entity unless that person has served 14 days’ notice in writing of that person’s intention to take that step on the Minister.\n(2) The Minister must be a party to —\n(a)any proceedings relating to the making of an order under section 210 of the Companies Act 1967 or section 71 of the Insolvency, Restructuring and Dissolution Act 2018 in relation to a designated entity that is a corporation;\n(b)any proceedings relating to the making of a judicial management order under Part 7 of the Insolvency, Restructuring and Dissolution Act 2018 in relation to a designated entity that is a corporation;\n(c)any proceedings under the Insolvency, Restructuring and Dissolution Act 2018 relating to the winding up of the affairs of a designated entity that is a company or an unregistered company;\n(d)any proceedings under the Limited Liability Partnerships Act 2005 relating to the winding up of the affairs of a designated entity that is a limited liability partnership; and\n(e)any proceedings before any court for the dissolution, winding up or termination (as the case may be) of any designated entity that is an entity not mentioned in paragraph (c) or (d).\n(3) A court must, when deciding any proceedings mentioned in subsection (2), take into consideration any representations made by the Minister in those proceedings."
+   }
+  },
+  {
+   "id": "SG-H3644-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Approval of chief executive officer, director, etc., of designated entity"
+   },
+   "text": {
+    "en": "27.—(1) Subject to subsections (5) and (6) —\n(a)an individual may not be appointed as a chief executive officer, director, or chairperson of the board of directors of a designated entity that is a corporation;\n(b)an individual may not be appointed as a manager, or become a partner, of a designated entity that is a limited liability partnership; and\n(c)an individual may not become a partner of a designated entity that is a partnership,\nwithout the Minister’s approval upon an application made by the designated entity concerned.\n(2) An application under subsection (1) must be made in the form and manner prescribed.\n(3) Without affecting any other matter that the Minister may consider relevant, the Minister may, in determining whether to grant his or her approval under subsection (4), have regard to any criteria that the Minister may specify by written notice to the designated entity.\n(4) The Minister may —\n(a)approve the application under subsection (1), with or without conditions; or\n(b)refuse the application.\n(5) If a designated entity that is a corporation has obtained the Minister’s approval under subsection (4)(a) to appoint an individual as the designated entity’s chief executive officer, director, or chairperson of the board of directors, the individual may, without the Minister’s approval, be re‑appointed as chief executive officer, director, or chairperson of the board of directors (as the case may be) of the designated entity immediately upon the expiry of the individual’s term of appointment.\n(6) If a designated entity that is a limited liability partnership has obtained the Minister’s approval under subsection (4)(a) to appoint an individual as the designated entity’s manager, the individual may, without the Minister’s approval, be re‑appointed as manager of the designated entity immediately upon the expiry of the individual’s term of appointment.\n(7) A designated entity that, without reasonable excuse, contravenes subsection (1) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3644-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Removal of chief executive officer, director, etc."
+   },
+   "text": {
+    "en": "28.—(1) This section applies if —\n(a)an individual has been appointed by a designated entity as a chief executive officer, director, chairperson of the board of directors or manager, or becomes a partner of a designated entity, without the approval of the Minister under section 27(4)(a);\n(b)any condition of approval of an application under section 27(1) has been breached; or\n(c)the Minister considers it necessary in the interest of Singapore’s national security that any individual appointed as chief executive officer, director, chairperson of the board of directors or manager, or that becomes a partner of a designated entity, should not act as such chief executive officer, director, chairperson, manager or partner (as the case may be) of the designated entity.\n(2) If this section applies, the Minister may (despite the provisions of any other written law) by written notice direct the designated entity to remove the individual within the period specified by the Minister in the notice —\n(a)from employment with the designated entity;\n(b)as chief executive officer, director, or chairperson of the board of directors, of the designated entity; or\n(c)as manager or partner of the designated entity.\n(3) Before directing a designated entity to remove an individual under subsection (2), the Minister must give both the designated entity and the individual an opportunity to be heard.\n(4) The Minister may at any time, by written notice to a designated entity, require the designated entity to notify the Minister of any change to any particulars (such as but not limited to residence in Singapore or elsewhere, or nature of appointment) of its chief executive officer, director, chairperson of the board of directors, manager or partner specified in the notice.\n(5) A designated entity that, without reasonable excuse, fails to comply with a written notice under subsection (2) shall be guilty of an offence.\n(6) A designated entity that, without reasonable excuse, contravenes any requirement imposed under subsection (4), shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part of a day during which the offence continues after conviction; or\n(b)in any other case, to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction.\n(7) No civil or criminal liability is incurred by a designated entity, or any person acting on behalf of the designated entity, in respect of anything done (including any notification made) or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of the obligations of the designated entity under this section."
+   }
+  },
+  {
+   "id": "SG-H3644-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Meaning and effect of special administration order"
+   },
+   "text": {
+    "en": "29.—(1) A special administration order is an order of the Minister, made in accordance with section 30, in relation to a designated entity directing that during the period the order is in force, the affairs, business and property of that designated entity are to be managed by a person appointed by the Minister (which may be the competent authority or an appointed authority) —\n(a)for securing one or more of the purposes specified in subsection (2); and\n(b)in a manner that protects the interests of the shareholders, unitholders or beneficiaries (as the case may be), and the creditors, of the designated entity.\n(2) For the purposes of subsection (1)(a), the purposes are —\n(a)the security and reliability of the business, undertaking or activities of the designated entity in Singapore;\n(b)the survival of the designated entity of the whole or any part of its business or undertaking, as a going concern;\n(c)the transfer to another person, or (as respects different parts of its business or undertaking) to 2 or more different persons, as a going concern, of so much of the business or undertaking of the designated entity as is necessary to ensure that the obligations of the designated entity in carrying out its business, undertaking or activities may be properly carried out; and\n(d)the carrying out of the obligations of the designated entity under or in respect of the business, undertaking or activities of the designated entity pending the making of the transfer, as a going concern, of the business or undertaking of the designated entity to any other person or persons.\n(3) The Minister may make regulations under section 57 for giving effect to this Division, including —\n(a)regulations governing the transfer of a business or undertaking of a designated entity mentioned in subsection (2)(c); and\n(b)if a special administration order is made, regulations for applying, omitting or modifying the provisions of Part 7 of the Insolvency, Restructuring and Dissolution Act 2018."
+   }
+  },
+  {
+   "id": "SG-H3644-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Power to make special administration order, etc."
+   },
+   "text": {
+    "en": "30.—(1) If the Minister is satisfied that any one or more of the grounds specified in subsection (2) are satisfied in relation to that designated entity, the Minister may make any one or more of the following orders:\n(a)a special administration order in relation to that designated entity;\n(b)an order requiring —\n(i)the designated entity;\n(ii)in the case of a designated entity that is a business trust — the trustee‑manager of the business trust; or\n(iii)in the case of a designated entity that is a trust other than a business trust — the trustee of the trust,\nto immediately take any action or to do or not do any act or thing in relation to the business or undertaking of the designated entity that the Minister considers necessary;\n(c)an order appointing a person to advise —\n(i)the designated entity;\n(ii)in the case of a designated entity that is a business trust — the trustee‑manager of the business trust; or\n(iii)in the case of a designated entity that is a trust other than a business trust — the trustee of the trust,\nin the proper conduct of the business or undertaking of the designated entity.\n(2) For the purposes of subsection (1), the grounds specified are the following:\n(a)the Minister considers it to be in the interest of the security and reliability of the carrying on of the business, undertaking or activities of the designated entity;\n(b)the Minister considers it to be in the interest of Singapore’s national security.\n(3) The Minister may make a special administration order in relation to a designated entity despite the commencement of (as applicable) —\n(a)any proceedings relating to the making of an order under section 210 of the Companies Act 1967 or section 71 of the Insolvency, Restructuring and Dissolution Act 2018 in relation to the designated entity, being a corporation;\n(b)any proceedings relating to the making of a judicial management order under Part 7 of the Insolvency, Restructuring and Dissolution Act 2018 in relation to the designated entity, being a corporation;\n(c)any meeting convened under section 94(7) of the Insolvency, Restructuring and Dissolution Act 2018 in respect of the designated entity, being a corporation;\n(d)any proceedings under the Insolvency, Restructuring and Dissolution Act 2018 relating to the winding up of the affairs of the designated entity, being a company or an unregistered company;\n(e)any proceedings under the Limited Liability Partnerships Act 2005 relating to the winding up of the affairs of the designated entity, being a limited liability partnership; or\n(f)any proceedings before any court for the dissolution, winding up or termination (as the case may be) of the designated entity, being an entity not mentioned in paragraph (d) or (e).\n(4) Notice of any order under subsection (1) must be given immediately by the Minister to any persons, and in any manner, determined by the Minister.\n(5) The Minister may at any time (whether or not the appointment of the person has terminated) fix the remuneration and expenses of a person appointed by an order under subsection (1)(c) to be paid by —\n(a)the designated entity;\n(b)if the designated entity is a business trust — the trustee‑manager of the business trust; or\n(c)if the designated entity is a trust other than a business trust — the trustee of the trust.\n(6) If —\n(a)the Minister issues an order under subsection (1) to —\n(i)a designated entity;\n(ii)the trustee‑manager of the business trust (in the case of a designated entity that is a business trust); or\n(iii)the trustee of the trust (in the case of a designated entity that is a trust other than a business trust); and\n(b)the designated entity, the trustee‑manager of the business trust, or the trustee of the trust (as the case may be) fails to comply with that order,\nthe designated entity, the trustee‑manager of the business trust, or the trustee of the trust (as the case may be) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3644-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Transfer of property, etc., under special administration order"
+   },
+   "text": {
+    "en": "31.—(1) Without limiting sections 29 and 30, a special administration order may provide for the following matters:\n(a)the transfer to one or more prescribed transferees of —\n(i)the property, rights and liabilities of a designated entity;\n(ii)in the case of a designated entity that is a business trust — the property of the business trust, and the rights held and the liabilities incurred by the trustee‑manager of the business trust in its capacity as trustee‑manager of the business trust; or\n(iii)in the case of a designated entity that is a trust other than a business trust — the property of the trust, and the rights held and the liabilities incurred by the trustee of the trust in his or her capacity as trustee of the trust,\nto one or more prescribed transferees;\n(b)matters that are consequential or related to any such transfer.\n(2) If the Minister makes a special administration order providing for any matter mentioned in subsection (1), the Minister must, within the period specified in subsection (4), by notification in the Gazette, establish a scheme for determining the amount of any compensation payable by the prescribed transferee to the designated entity, the trustee‑manager of the business, or the trustee of the trust (as the case may be) for the transfer of the property, rights and liabilities.\n(3) A scheme established under subsection (2) may provide for —\n(a)the manner in which any compensation or consideration is to be assessed, including methods of calculation, valuation dates and matters to be taken into account or disregarded when making valuations;\n(b)the assessment to be made by an independent valuer appointed by the Minister; and\n(c)the remuneration and expenses of the independent valuer.\n(4) Subject to subsection (5), the period specified for the purposes of subsection (2) is —\n(a)within 6 months after the date of the making of the special administration order; or\n(b)if an application for reconsideration of the making of the special administration order has been made under section 38(1) and the Minister makes an order under section 38(3)(b) or (c) —\n(i)if no appeal is made against the order made under section 38(3)(b) or (c) — within 6 months after the date on which the order under section 38(3)(b) or (c) is made; or\n(ii)if an appeal is made against the order made under section 38(3)(b) or (c) and the Reviewing Tribunal dismisses the appeal under section 43(3)(a) — within 6 months after the date on which the Reviewing Tribunal dismisses the appeal.\n(5) The period specified in subsection (4) may be extended by agreement of the prescribed transferee and the designated entity, the trustee‑manager of the business trust, or the trustee of the trust, as the case may be.\n(6) In this section, “prescribed transferee” means —\n(a)the competent authority;\n(b)an appointed authority; or\n(c)a person nominated by the Minister."
+   }
+  },
+  {
+   "id": "SG-H3644-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Directions if national security interests affected"
+   },
+   "text": {
+    "en": "32.—(1) This section applies to any entity that satisfies any of the following conditions:\n(a)the entity is incorporated, formed or established in Singapore;\n(b)the entity carries out any activity in Singapore;\n(c)the entity provides any goods and services to any person in Singapore.\n(2) This section applies if —\n(a)a person (X) —\n(i)acquires any equity interest in the entity;\n(ii)acquires control of any voting power in the entity;\n(iii)disposes of any equity interest in the entity;\n(iv)disposes of control of any voting power in the entity;\n(v)becomes an indirect controller of the entity; or\n(vi)acquires the business or undertaking, or any part of the business or undertaking, of the entity,\n(each called in this section the transaction); and\n(b)that entity has acted against the national security interests of Singapore within a period of 2 years after the transaction.\n(3) If this section applies, the Minister may, within a period of 2 years and 30 days after the transaction, publish a notice in the Gazette (called in this Act a review notice) —\n(a)describing the transaction to which the notice relates;\n(b)stating X’s name and the name of the entity; and\n(c)stating that the Minister is reviewing the transaction.\n(4) The Minister may cancel a review notice at any time by publishing a notice in the Gazette to that effect.\n(5) When the Minister has published, and has not cancelled, a review notice in relation to an entity, the Minister may at any time —\n(a)direct the transfer or disposal (whether generally or to a specified person) of all or any of the equity interests in the entity held by X or any of X’s associates (called in this section and section 33 the section 32(5) equity interests), within the period, and subject to any conditions, that the Minister considers appropriate;\n(b)direct that the transfer or disposal of all or any of the section 32(5) equity interests be restricted, subject to any conditions that the Minister considers appropriate;\n(c)direct X to transfer or dispose (whether generally or to a specified person) of the control of voting power in the entity, within the period, and subject to any conditions, that the Minister considers appropriate;\n(d)direct —\n(i)the entity;\n(ii)in the case of an entity that is a business trust — the trustee‑manager of the business trust; or\n(iii)in the case of an entity that is a trust other than a business trust — the trustee of the trust,\nto take any steps that are necessary, within the period specified by the Minister, to cause X to cease to have control of any voting power in the entity or to be an indirect controller of the entity, as the case may be;\n(e)direct X to transfer or dispose (whether generally or to a specified person) of all or any part of the business or undertaking, within the period, and subject to any conditions, that the Minister considers appropriate;\n(f)direct —\n(i)the entity;\n(ii)in the case of an entity that is a business trust — the trustee‑manager of the business trust; or\n(iii)in the case of an entity that is a trust other than a business trust — the trustee of the trust,\nto restrict the disclosure of any information relating to the affairs of the entity to any person; or\n(g)make any other direction that the Minister considers appropriate.\n(6) Before issuing any direction to a person under subsection (5), the Minister must —\n(a)unless the Minister decides that it is not practicable or desirable to do so, give the person written notice of the Minister’s intention to issue the direction and specify a date by which the person may make written representations with regard to the direction; and\n(b)consider every written representation from the person received on or before the date specified under paragraph (a).\n(7) The Minister may, at any time, revoke, vary or discharge any direction under subsection (5) or suspend the operation of any such direction.\n(8) A person who fails to comply with a direction under subsection (5) (including a direction that is varied under subsection (7)) within the period specified by the Minister, shall be guilty of an offence.\n(9) For the purposes of subsection (2)(b), a certificate issued by the Minister charged with the responsibility for internal security, stating that that Minister is satisfied that the entity mentioned in the certificate has acted against the national security interests of Singapore, is conclusive evidence that the entity has so acted."
+   }
+  },
+  {
+   "id": "SG-H3644-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Effect of directions issued if Singapore’s national security interests affected"
+   },
+   "text": {
+    "en": "33.—(1) If any direction is issued under section 32(5), then, until the direction is carried out or is revoked, discharged or suspended —\n(a)the voting rights in respect of the section 32(5) equity interests are not exercisable, unless the Minister expressly permits those rights to be exercised;\n(b)the voting power that the person to whom the direction is issued controls, whether alone or together with that person’s associates, in the entity is not exercisable, unless the Minister expressly permits that power to be exercised;\n(c)no equity interest in the entity is to be issued or offered (whether by way of dividends, rights, bonus or otherwise) in respect of the specified equity interests, unless the Minister expressly permits that issue or offer; and\n(d)no amount may be paid (whether by way of dividends, profits, income or otherwise) in respect of the section 32(5) equity interests, unless the Minister expressly authorises that payment.\n(2) Subsection (1) and any direction issued under section 32(5) have effect, despite —\n(a)the provisions of any other written law;\n(b)anything in any listing rules as defined in section 2(1) of the Securities and Futures Act 2001; and\n(c)the provisions of the memorandum or articles of association, trust deed or other constitution of the designated entity in question.\n(3) Any issue or offer of equity interests in contravention of subsection (1)(c) is void.\n(4) Any payment made in contravention of subsection (1)(d) is void.\n(5) Subsection (1)(d) does not apply in the event of a winding up, dissolution or termination of the entity, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H3644-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Power of Minister to obtain information relating to this Part"
+   },
+   "text": {
+    "en": "34.—(1) The Minister, the competent authority, or an appointed authority (called in this section the requesting authority) may, by written notice —\n(a)direct any entity to provide to the requesting authority any information relating to any holding of equity interests or control of voting power in the entity for the purposes of this Part; or\n(b)direct any entity to obtain from any of its shareholders, partners, unitholders or beneficiaries (as the case may be) (called in this section a relevant person) and to provide to the requesting authority, any information relating to the relevant person that may be required to ascertain or investigate into any holding of equity interests or control of voting power in the entity for the purposes of this Part.\n(2) Without limiting subsection (1)(b), the notice in that subsection may require the entity to obtain and provide the following information:\n(a)whether the relevant person holds an equity interest in the entity, as beneficial owner or as trustee;\n(b)if the relevant person holds the equity interest in the entity as trustee, to indicate as far as that relevant person is able to —\n(i)the person for whom that relevant person holds the interest (either by name or by other particulars sufficient to enable that person to be identified); and\n(ii)the nature of that person’s interest.\n(3) The requesting authority may, by written notice, require any shareholder, partner, unitholder or beneficiary (as the case may be) (X) of any entity, or any person (Y) that appears from information provided under this subsection or subsection (1) to hold an equity interest in the entity, to provide to the requesting authority any information relating to X or Y (as the case may be) that may be required for the purpose of ascertaining or investigating into any holding of equity interests or control of voting power in the entity.\n(4) Without limiting subsection (3), the notice in that subsection may require X or Y to provide the following information:\n(a)whether X or Y holds the equity interest in the entity as beneficial owner or as trustee;\n(b)if X or Y holds the equity interest in the entity as trustee, to indicate as far as X or Y can —\n(i)the person (Z) for whom X or Y holds the equity interest (either by name or by other particulars sufficient to enable Z to be identified); and\n(ii)the nature of Z’s equity interest;\n(c)whether any equity interests or voting power is the subject of an agreement or arrangement described in section 15(1)(r) and, if so, to give particulars of the agreement or arrangement and the parties to it.\n(5) A person that —\n(a)fails to comply with a written notice under subsection (1) or (3);\n(b)in purported compliance with such notice, knowingly or recklessly provides any document or information that is false or misleading in a material particular; or\n(c)intentionally alters, suppresses or destroys any document or information which the person has been required by such notice to provide,\nshall be guilty of an offence and shall be liable on conviction —\n(d)in the case of an individual, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part of a day during which the offence continues after conviction; or\n(e)in any other case, to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H3644-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Provision of documents and other information"
+   },
+   "text": {
+    "en": "35.—(1) Without limiting section 34, the Minister, the competent authority, or an appointed authority (called in this section the requesting authority) may by notice require any person to provide, within a reasonable period specified in the notice, all documents and information relating to any matter as are reasonably required by the requesting authority to carry out the functions or duties assigned to the requesting authority by or under this Act, which are within the knowledge of that person or are in that person’s custody or under that person’s control.\n(2) The power to require a person to provide any document or information under subsection (1) includes the power —\n(a)to require that person, or any person who is or was an officer or employee of that person, to provide an explanation of the document or information;\n(b)if the document or information is not provided, to require that person to state, to the best of that person’s knowledge and belief, where it is; and\n(c)if the information is recorded otherwise than in legible form, to require the information to be made available to the requesting authority in legible form.\n(3) A person who, without reasonable excuse, fails to comply with a notice under subsection (1) shall be guilty of an offence.\n(4) A person who —\n(a)intentionally alters, suppresses or destroys any document or information which the person is required by a notice under subsection (1) to provide; or\n(b)in providing any document or information required under subsection (1), makes any statement which the person knows to be false in a material particular or recklessly makes such a statement,\nshall be guilty of an offence.\n(5) If a person fails to comply with a notice under subsection (1), the court may, on the application of the requesting authority, make any order that the court thinks fit to secure compliance with the notice and any such order may provide that all the costs or expenses of and incidental to the application are to be borne by such person or by any officer of an entity who is responsible for the failure.\n(6) The requesting authority through an authorised officer may, at any time after the expiry of the period specified in the notice mentioned in subsection (1), enter any building or place where the requesting authority has reason to believe that any document or information, in respect of which the requesting authority has given the notice, may be found, and seize or take extracts or copies of any such document or information.\n(7) The requesting authority is entitled without payment to keep any document or information, or any copy or extract thereof, provided to it under subsection (1) or obtained under subsection (6).\n(8) Except in the performance of the person’s functions or duties or when required to do so by any court or under any written law, no person who is or has been a member, an officer, an employee or an agent of the requesting authority or a member of a committee of the requesting authority may disclose any information relating to the affairs of the requesting authority or of any other person which has been obtained by the person in the performance of the person’s functions or duties.\n(9) A person who contravenes subsection (8) shall be guilty of an offence.\n(10) A person who is guilty of an offence under subsection (3), (4) or (9) shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both; or\n(b)in any other case, to a fine not exceeding $100,000."
+   }
+  },
+  {
+   "id": "SG-H3644-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 3 CONTROL OF DESIGNATED ENTITIES AND OTHER ENTITIES"
+   },
+   "heading": {
+    "en": "Penalties under this Part"
+   },
+   "text": {
+    "en": "36.—(1) A person who is guilty of an offence under this Part for which no penalty is expressly provided shall be liable on conviction —\n(a)if the offender is an individual —\n(i)to a fine not exceeding —\n(A)in the case of an offence under section 18(3), 19(10), 20(2) or 21(11), or an offence under section 32(8) if the offender is a person mentioned in section 32(2)(a), the higher of the following amounts:\n(AA)the transaction value;\n(AB)$500,000; or\n(B)in any other case, $500,000; or\n(ii)to imprisonment for a term not exceeding 3 years,\nor to both and, in the case of a continuing offence, to a further fine not exceeding $50,000 for every day or part of a day during which the offence continues after conviction; or\n(b)if the offender is not an individual, to a fine not exceeding —\n(i)in the case of an offence under section 18(3), 19(10), 20(2) or 21(11), or an offence under section 32(8) if the offender is a person mentioned in section 32(2)(a), the higher of the following amounts:\n(A)the transaction value;\n(B)$1 million; or\n(ii)in any other case, the higher of the following amounts:\n(A)10% of the annual turnover of the offender’s business;\n(B)$1 million,\nand, in the case of a continuing offence, to a further fine not exceeding $100,000 for every day or part of a day during which the offence continues after conviction.\n(2) For the purposes of this section —\n(a)the transaction value is —\n(i)in the case of an offence under section 18(3) — if the offender became a Level A controller of a designated entity by acquiring any equity interest or voting power in any entity — the value of the consideration for that acquisition;\n(ii)in the case of an offence under section 19(10) —\n(A)the value of the consideration for the acquisition of any equity interests or voting power in any entity by which the offender became a Level B controller, Level C controller, Level D controller or indirect controller of a designated entity;\n(B)the value of the consideration for the transfer or disposal of any equity interests or voting power in any entity by which the offender ceased to be a Level Y controller or Level Z controller of a designated entity; or\n(C)the value of the consideration for the acquisition by the offender of the business or undertaking, or the part of the business or undertaking, as a going concern;\n(iii)in the case of an offence under section 20(2) —\n(A)the value of the consideration for the acquisition of any equity interests or voting power in any entity by which a person became a Level A controller, Level B controller, Level C controller, Level D controller or indirect controller of the relevant designated entity;\n(B)the value of the consideration for the transfer or disposal of any equity interests or voting power in any entity by which a person ceased to be a Level Y controller or Level Z controller of the relevant designated entity; or\n(C)the value of the consideration for the acquisition of the business or undertaking, or part of the business or undertaking, of the relevant designated entity acquired by a person;\n(iv)in the case of an offence under section 21(11) — if the offender is a party to the transaction to which the validation notice relates (being an acquisition, transfer or disposal mentioned in sub‑paragraph (ii)(A), (B) or (C)) — the value of that transaction determined in the manner set out in sub‑paragraph (ii)(A), (B) or (C); or\n(v)in the case of an offence under section 32(8) — if the offender is the person mentioned in section 32(2)(a), the value of the consideration for the acquisition or disposal mentioned in section 32(2)(a)(i), (ii), (iii), (iv) or (vi); and\n(b)the annual turnover of a person’s business is ascertained from the person’s latest audited accounts.\n(3) To avoid doubt, the value of a transaction that is void under section 21(1) or (12) is to be determined as if the transaction were not void."
+   }
+  },
+  {
+   "id": "SG-H3644-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 4 RECONSIDERATION, APPEALS AND JUDICIAL REVIEW"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "37. In this Part —\n“appealable decision” means any of the following decisions of the Minister:\n(a)a designation of an entity under section 17(1);\n(b)a refusal to approve an application for approval under section 19(1), (3) or (4);\n(c)a condition imposed under section 19(8);\n(d)a refusal to issue a validation notice under section 21(3)(a);\n(e)a condition imposed under section 21(8);\n(f)a direction under section 22(2), 23(2) or 24(2);\n(g)a refusal to approve an application under section 27(4)(b);\n(h)a direction of removal under section 28(2);\n(i)a decision to make any order under section 30(1);\n(j)a direction under section 32(5) or a variation of a direction under section 32(7);\n“appellant” means the following in relation to an appealable decision:\n(a)the designated entity, if the appealable decision is within paragraph (a) of the definition of “appealable decision”;\n(b)the person who applied for approval under section 19(1), (3) or (4), if the appealable decision is within paragraph (b) of the definition of “appealable decision”;\n(c)the person on whom the condition was imposed under section 19(8), if the appealable decision is within paragraph (c) of the definition of “appealable decision”;\n(d)the person who applied for the validation notice under section 21(2), if the appealable decision is within paragraph (d) of the definition of “appealable decision”;\n(e)the person on whom the condition was imposed under section 21(8), if the appealable decision is within paragraph (e) of the definition of “appealable decision”;\n(f)the person to whom the direction was issued under section 22(2), 23(2) or 24(2), if the appealable decision is within paragraph (f) of the definition of “appealable decision”;\n(g)the designated entity who applied for approval under section 27(1), if the appealable decision is within paragraph (g) of the definition of “appealable decision”;\n(h)the individual in relation to whom the application for appointment was refused under section 27(4)(b), if the appealable decision is within paragraph (g) of the definition of “appealable decision”;\n(i)the individual who was removed under section 28(2), if the appealable decision is within paragraph (h) of the definition of “appealable decision”;\n(j)the person affected by the order under section 30(1), if the appealable decision is within paragraph (i) of the definition of “appealable decision”;\n(k)the person to whom the direction was issued under section 32(5) or in relation to whom the direction was varied under section 32(7), if the appealable decision is within paragraph (j) of the definition of “appealable decision”;\n(l)any other person aggrieved by the appealable decision."
+   }
+  },
+  {
+   "id": "SG-H3644-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 4 RECONSIDERATION, APPEALS AND JUDICIAL REVIEW"
+   },
+   "heading": {
+    "en": "Reconsideration by Minister of appealable decision"
+   },
+   "text": {
+    "en": "38.—(1) An appellant may apply to the Minister for reconsideration of an appealable decision (called in this Part the initial appealable decision).\n(2) An appellant must apply under subsection (1) —\n(a)in a prescribed manner; and\n(b)before the time specified in the initial appealable decision, being a time that must not be later than the 14th day after the initial appealable decision was given to the appellant.\n(3) Upon receiving an application under subsection (1) for reconsideration, the Minister must —\n(a)wholly cancel the initial appealable decision;\n(b)substitute the initial appealable decision, with another appealable decision (called in this Part the substitute appealable decision) that the Minister might have made under this Act; or\n(c)affirm the initial appealable decision.\n(4) When a substitute appealable decision is made by the Minister under subsection (3)(b), the Minister must immediately give the appellant the substitute appealable decision in the same manner as the initial appealable decision.\n(5) When an initial appealable decision is cancelled by the Minister under subsection (3)(a) or affirmed under subsection (3)(c), or a substitute appealable decision is made under subsection (3)(b), the Minister must give notice (as the case may be) of —\n(a)the cancellation or affirmation (as the case may be) to every person given the initial appealable decision; or\n(b)the making of a substitute appealable decision to the appellant who applied for reconsideration of the initial appealable decision.\n(6) There is to be no further reconsideration after a decision under subsection (3).\n(7) An application to reconsider the Minister’s initial appealable decision does not affect the operation of that decision or prevent the taking of action to implement that decision, and the initial appealable decision to be reconsidered must be complied with unless the determination of the reconsideration indicates otherwise."
+   }
+  },
+  {
+   "id": "SG-H3644-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 4 RECONSIDERATION, APPEALS AND JUDICIAL REVIEW"
+   },
+   "heading": {
+    "en": "Appeal to Reviewing Tribunal"
+   },
+   "text": {
+    "en": "39.—(1) Subject to subsection (2) and section 44(1), an appellant who is aggrieved by an initial appealable decision affirmed on reconsideration under section 38 or a substitute appealable decision made on reconsideration under section 38 may, on payment of such fee as may be prescribed, appeal to a Reviewing Tribunal in accordance with this Part.\n(2) No appeal may be made under this Part to a Reviewing Tribunal unless the appellant has first applied under section 38(1) to the Minister to reconsider the initial appealable decision and the Minister has substituted or affirmed that decision under section 38(3).\n(3) An initial appealable decision affirmed on reconsideration under section 38 continues to take effect despite any appeal under subsection (1) against the decision and remains in effect until the decision is reversed on appeal.\n(4) A substitute appealable decision made on reconsideration under section 38 takes effect despite any appeal under subsection (1) against the decision and remains in effect until the decision is reversed on appeal."
+   }
+  },
+  {
+   "id": "SG-H3644-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 4 RECONSIDERATION, APPEALS AND JUDICIAL REVIEW"
+   },
+   "heading": {
+    "en": "Reviewing Tribunals — composition"
+   },
+   "text": {
+    "en": "40.—(1) One or more bodies each called a Reviewing Tribunal is established by this section.\n(2) Every Reviewing Tribunal consists of 3 individuals, each of whom is appointed by the President on the advice of the Cabinet subject to subsections (3) and (4).\n(3) An individual must not be, or be appointed as, a member of any Reviewing Tribunal if he or she is not a citizen of Singapore.\n(4) The chairperson of every Reviewing Tribunal must be a Supreme Court Judge.\n(5) A member of a Reviewing Tribunal must vacate office at the end of a period of 3 years starting the day of his or her appointment, but is eligible for reappointment.\n(6) A member of a Reviewing Tribunal may resign his or her office by giving notice in writing to the President.\n(7) In the performance of his or her functions and duties under this Act, the members of a Reviewing Tribunal each have the same protection and immunity as a Judge of the High Court.\n(8) The proceedings of a Reviewing Tribunal are deemed to be judicial proceedings and every member of the Reviewing Tribunal is deemed to be a public servant within the meaning of the Penal Code 1871."
+   }
+  },
+  {
+   "id": "SG-H3644-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 4 RECONSIDERATION, APPEALS AND JUDICIAL REVIEW"
+   },
+   "heading": {
+    "en": "Reviewing Tribunal — remuneration and other terms"
+   },
+   "text": {
+    "en": "41.—(1) The Minister may pay to the members of a Reviewing Tribunal out of moneys provided by Parliament any remuneration or allowances that the Minister may, with the approval of the President, fix.\n(2) The remuneration and other terms of service of each member of a Reviewing Tribunal must not be altered to his or her disadvantage during his or her continuance in office as such."
+   }
+  },
+  {
+   "id": "SG-H3644-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 4 RECONSIDERATION, APPEALS AND JUDICIAL REVIEW"
+   },
+   "heading": {
+    "en": "Reviewing Tribunal — resources"
+   },
+   "text": {
+    "en": "42.—(1) All expenses of every Reviewing Tribunal are to be defrayed out of moneys provided by Parliament.\n(2) The Minister must appoint a Secretary to the Reviewing Tribunals and any other public officers that are necessary for a Reviewing Tribunal to discharge its functions under this Act."
+   }
+  },
+  {
+   "id": "SG-H3644-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 4 RECONSIDERATION, APPEALS AND JUDICIAL REVIEW"
+   },
+   "heading": {
+    "en": "Reviewing Tribunal — function"
+   },
+   "text": {
+    "en": "43.—(1) It is the function and duty of every Reviewing Tribunal to consider and determine any appeal made under section 39 and served on the Secretary to the Reviewing Tribunals.\n(2) A Reviewing Tribunal may summarily dismiss any appeal which it determines to be frivolous or vexatious.\n(3) A Reviewing Tribunal may determine an appeal made to the Reviewing Tribunal by —\n(a)dismissing the appeal and confirming the decision appealed against; or\n(b)revoking the decision appealed against.\n(4) Every Reviewing Tribunal has to carry out its work expeditiously.\n(5) A Reviewing Tribunal’s decision under subsection (3) is final."
+   }
+  },
+  {
+   "id": "SG-H3644-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 4 RECONSIDERATION, APPEALS AND JUDICIAL REVIEW"
+   },
+   "heading": {
+    "en": "Procedure before Reviewing Tribunal"
+   },
+   "text": {
+    "en": "44.—(1) Except where a Reviewing Tribunal, having regard to all the circumstances, is satisfied that it is equitable to do so, the Reviewing Tribunal must not consider or determine any appeal that is made more than 30 days after the Minister affirmed the initial appealable decision or substituted the initial appealable decision with the substitute appealable decision (as the case may be) upon reconsideration under section 38(3).\n(2) A Reviewing Tribunal may at any stage in the appeal proceedings, and without calling for a defence from the Minister whose decision is appealed against, dismiss an appeal made to or before it if the Reviewing Tribunal is satisfied that —\n(a)the appellant is not a person entitled to appeal under section 39;\n(b)the bringing of the appeal is or the proceedings of the appeal are frivolous or vexatious, which may include taking into account whether the appellant has habitually and persistently, and without any reasonable ground, made vexatious appeals to the Reviewing Tribunal; or\n(c)the appellant has, without reasonable excuse, failed to comply with the time delimited by any provision of rules made under section 45 for the submission of any notice, document or other information in the appeal proceedings, or with any direction of the Reviewing Tribunal under those rules.\n(3) Subject to rules made under section 45, every Reviewing Tribunal is entitled to determine its own procedure in relation to any appeal under section 39 made to or before the Reviewing Tribunal."
+   }
+  },
+  {
+   "id": "SG-H3644-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 4 RECONSIDERATION, APPEALS AND JUDICIAL REVIEW"
+   },
+   "heading": {
+    "en": "Rules for Reviewing Tribunal proceedings"
+   },
+   "text": {
+    "en": "45.—(1) Rules may be made by the Minister to prescribe the practice and procedure to be followed on, or in connection with, the hearing or consideration of any proceedings or appeal (including, if applicable, the mode and burden of proof and the admissibility of evidence) before a Reviewing Tribunal.\n(2) In particular, the rules made under subsection (1) may include —\n(a)requiring persons making an appeal to take any preliminary steps, and to make any disclosures, that may be specified in the rules for the purpose of facilitating a determination whether the making of the appeal is frivolous or vexatious;\n(b)enabling or requiring a Reviewing Tribunal to hear or consider any proceedings or appeal without the person who brought the appeal having been given full particulars of the reasons for any conduct which is the subject of the proceedings or appeal;\n(c)the need to secure that matters which are the subject of proceedings or appeals brought before or made to a Reviewing Tribunal are properly heard and considered;\n(d)prescribing the circumstances and manner in which appeals in relation to the same decision, or involve the same or similar issues, may be consolidated or heard together;\n(e)enabling or requiring a Reviewing Tribunal to take any steps in exercise of their jurisdiction in the absence of any person (including the person bringing the proceedings or making the appeal and any legal representative of the person);\n(f)enabling or requiring a Reviewing Tribunal to give a summary of any evidence taken in its absence to the person by whom the proceedings were brought or (as the case may be) to the person who made the appeal;\n(g)securing that information is not disclosed to an extent, or in a manner, that is contrary to the national security interests of Singapore, the prevention or detection of serious crime, the economic wellbeing of Singapore or the continued discharge of the functions of any of the intelligence services of Singapore; and\n(h)providing for the manner in which the interests of a person who has made an appeal under section 39 are to be represented, such as for the appointment in accordance with the rules, by such person as may be determined in accordance with the rules, of a person to represent those interests.\n(3) All rules made under subsection (1) must be presented to Parliament as soon as possible after publication in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H3644-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 4 RECONSIDERATION, APPEALS AND JUDICIAL REVIEW"
+   },
+   "heading": {
+    "en": "Limited judicial review"
+   },
+   "text": {
+    "en": "46.—(1) Every determination, order and other decision of a Reviewing Tribunal or any Minister (including a certificate issued under section 32(9)) made or purportedly made under this Act —\n(a)is final; and\n(b)is not to be challenged, appealed against, reviewed, quashed or called in question in any court, except in regard to any question relating to compliance with any procedural requirement of this Act or the regulations or rules governing that determination, order and other decision.\n(2) A determination, an order and other decision includes a determination, an order and other decision purportedly made, proposed to be made, or required to be made, under this Act or any regulations or rules if there were not an excess of jurisdiction or a failure to exercise jurisdiction, in the making of the determination, order or other decision."
+   }
+  },
+  {
+   "id": "SG-H3644-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 5 ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Purposes for which enforcement powers are exercisable"
+   },
+   "text": {
+    "en": "47.—(1) An authorised officer or a police officer may exercise the powers set out in section 48 for any of the following purposes:\n(a)to determine compliance with this Act, including whether an offence under this Act has been committed;\n(b)to determine compliance with any condition of designation of a designated entity;\n(c)to determine compliance with any direction, notice or order issued under this Act;\n(d)to determine whether information provided to the Minister, a relevant Minister, the competent authority, an appointed authority or an authorised officer under a provision of this Act is correct.\n(2) A police officer may exercise the powers set out in sections 48, 49 and 50 for the purpose of determining whether there is any ground for taking action against any person under section 32, including —\n(a)whether any person has —\n(i)acquired any equity interest in any entity;\n(ii)acquired control of any voting power in any entity;\n(iii)disposed of any equity interest in any entity;\n(iv)disposed of control of any voting power in any entity;\n(v)become an indirect controller of any entity; or\n(vi)acquired the business or undertaking, or any part of the business or undertaking, of any entity; and\n(b)whether any entity has acted against the national security interests of Singapore.\n(3) For the purposes of this Part —\n(a)a Commercial Affairs Officer appointed under section 64(1) of the Police Force Act 2004 may —\n(i)exercise the powers conferred on a police officer by section 48 for any of the purposes mentioned in subsection (1); and\n(ii)exercise the powers conferred on a police officer by sections 48, 49 and 50 for the purpose mentioned in subsection (2); and\n(b)a reference in sections 48, 49, 50 and 52 to a police officer includes a reference to a Commercial Affairs Officer."
+   }
+  },
+  {
+   "id": "SG-H3644-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 5 ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Power to obtain information"
+   },
+   "text": {
+    "en": "48.—(1) An authorised officer or a police officer may by written notice require any person to provide, within a reasonable period specified in the notice, and in any form and manner that may be specified in the notice, any document or information that —\n(a)relates to any matter that the authorised officer or police officer considers necessary for any of the purposes mentioned in section 47(1) or (2); and\n(b)is —\n(i)within the knowledge of that person; or\n(ii)in the custody or under the control of that person.\n(2) Without limiting subsection (1), an authorised officer or a police officer may require —\n(a)any individual who is or was an officer, employee or agent of any entity; or\n(b)any other individual in Singapore whom the authorised officer or police officer (as the case may be) has reason to believe to be acquainted with any facts or circumstances relevant to any of the purposes mentioned in section 47(1) or (2),\nto attend before the authorised officer or police officer to answer any question (to the best of that individual’s knowledge, information and belief) and to provide any document or information.\n(3) The power under subsection (1) or (2) or section 49(2)(g) to require a person or an individual to provide any document or information includes the power —\n(a)to require that person, or any individual who is or was an officer or agent or a representative of the person, to provide an explanation of the document or information;\n(b)if the document or information is not provided, to require that person or individual to state, to the best of the knowledge and belief of that person or individual, where it is;\n(c)if the document or information is recorded otherwise than in legible form, to require the document or information to be made available to the authorised officer or police officer in legible form; and\n(d)if the document or information is stored in a computer or other electronic device, and the person or individual is reasonably suspected to have knowledge of or access to any username, password or other authentication information required to gain access to the document or information, to require the person or individual to provide assistance (not limited to providing any username, password or other authentication information) to gain access to the computer or electronic device and the document or information therein.\n(4) The power under subsection (2) or section 49(2)(g) to require an individual to answer a question includes the power to require the individual to answer the question immediately or at such place and time specified in writing.\n(5) Any statement made by any individual in answer to a question under subsection (4) must —\n(a)be reduced to writing;\n(b)be read over to the individual;\n(c)if the individual does not understand English, be interpreted in a language that the individual understands; and\n(d)after correction (if necessary), be signed by that individual.\n(6) An authorised officer or a police officer is entitled without payment to keep any document or information, or any copy or extract thereof, provided to the authorised officer or police officer under subsection (1)."
+   }
+  },
+  {
+   "id": "SG-H3644-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 5 ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Powers of entry of premises without warrant"
+   },
+   "text": {
+    "en": "49.—(1) A police officer may enter at any reasonable time any premises which the police officer reasonably believes to be or may be —\n(a)owned or occupied by an entity; or\n(b)where any activity is being or has been conducted, promoted or carried on, by any entity,\nand do all or any of the activities mentioned in subsection (2) for any of the purposes mentioned in section 47(1) or (2).\n(2) A police officer may, after entering any premises mentioned in subsection (1), do all or any of the following:\n(a)examine any thing or observe any activity conducted in or on the premises;\n(b)make a still or moving image or recording of any thing in or on the premises;\n(c)inspect any document on the premises and take extracts from, or make copies of, any such document;\n(d)take into or onto the premises such equipment and materials as the police officer requires for the purpose of exercising his or her powers in relation to the premises;\n(e)operate electronic equipment in or on the premises;\n(f)search or cause to be searched any individual or any thing found in or on the premises for, and seize, any document or thing which the police officer believes on reasonable grounds —\n(i)is evidential material relevant to, or is intended to be used for the purpose of committing —\n(A)an offence under this Act or the regulations; or\n(B)any act against the national security interests of Singapore; and\n(ii)it is necessary to secure the document or thing in order to prevent it from being concealed, lost or destroyed;\n(g)require any individual found in the premises to answer any question (to the best of that individual’s knowledge, information and belief), and to provide any document or information, about any matter relevant to any purpose mentioned in section 47(1) or (2).\n(3) The power under subsection (2)(e) to operate electronic equipment in or on any premises includes the power —\n(a)to use a disk, tape or other storage device that is in or on the premises and can be used with the equipment or in association with the equipment;\n(b)to operate electronic equipment in or on the premises to put the relevant data in documentary form and remove the documents so produced from the premises; and\n(c)to operate electronic equipment in or on the premises to transfer the relevant data to a disk, tape or other storage device that —\n(i)is brought to the premises for the exercise of the power; or\n(ii)is in or on the premises and the use of which for that purpose has been agreed in writing by the occupier of the premises,\nand to remove the disk, tape or other storage device from the premises.\n(4) A police officer may be assisted by other individuals in exercising enforcement powers under this section if that assistance is necessary and reasonable."
+   }
+  },
+  {
+   "id": "SG-H3644-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 5 ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Powers of entry of premises under warrant"
+   },
+   "text": {
+    "en": "50.—(1) A police officer may apply to a court for a warrant and the court may issue such a warrant if it is satisfied that —\n(a)there are reasonable grounds for suspecting that there are, on any premises, documents —\n(i)the production of which has been required under section 48; and\n(ii)which have not been produced as required;\n(b)there are reasonable grounds for suspecting that —\n(i)there are, on any premises, documents which the police officer has power under section 48 to require to be produced; and\n(ii)if the documents were required to be produced, they would not be produced but would be concealed, removed, tampered with or destroyed; or\n(c)a police officer or a person assisting the police officer has attempted to enter the premises in the exercise of his or her powers under section 49 but has been unable to do so and that there are reasonable grounds for suspecting that there are, on the premises, documents the production of which could have been required under that section.\n(2) A warrant under this section authorises a named officer, and any other persons that the police officer may require to assist him or her, to do all or any of the following:\n(a)to enter the premises specified in the warrant, using such force as is reasonably necessary for the purpose;\n(b)to search any person on those premises if there are reasonable grounds for believing that that person has in his or her possession any document, equipment or article that has a bearing on the investigation;\n(c)to search the premises and take copies of, or extracts from, any document appearing to be of a kind in respect of which the application under subsection (1) was granted (the relevant kind);\n(d)to take possession of any document appearing to be of the relevant kind if —\n(i)such action appears to be necessary for preserving the document or preventing interference with it; or\n(ii)it is not reasonably practicable to take copies of the document on the premises;\n(e)to take any other step that appears to be necessary for the purpose mentioned in paragraph (d)(i);\n(f)to require any person to provide an explanation of any document appearing to be of the relevant kind or to state, to the best of the person’s knowledge and belief, where it may be found;\n(g)to require any information that is stored in any electronic form and is accessible from the premises and that he or she considers relates to any matter relevant to the investigation, to be produced in a form —\n(i)in which it can be taken away; or\n(ii)in which it is visible and legible;\n(h)to remove from those premises for examination any equipment or article that relates to any matter relevant to the investigation.\n(3) If, in the case of a warrant under subsection (1)(b), the court is satisfied that it is reasonable to suspect that there are also on the premises other documents relating to the investigation concerned, the warrant may also authorise the actions mentioned in subsection (2) to be taken in relation to any such document.\n(4) If possession of any document is taken under subsection (2)(d) or (3), the named officer may, at the request of the person from whom possession of the document was taken, provide such person with a copy of the document.\n(5) A named officer may allow any equipment or article that has a bearing on an investigation and that may be removed from any premises for examination under subsection (2)(h) to be retained on those premises subject to any conditions that the named officer may require.\n(6) A warrant issued under this section —\n(a)must indicate the subject matter and purpose of the investigation; and\n(b)continues in force until the end of one month beginning from the day on which it is issued.\n(7) The powers conferred by this section must not be exercised except upon production of a warrant issued under this section.\n(8) A person entering any premises by virtue of a warrant under this section may take with the person such equipment as appears to the person to be necessary.\n(9) If there is no one at the premises when the named officer proposes to execute such a warrant, the named officer must, before executing it —\n(a)take such steps as are reasonable in all the circumstances to inform the occupier of the intended entry; and\n(b)if the occupier is informed, give the occupier or the occupier’s legal or other representative a reasonable opportunity to be present when the warrant is executed.\n(10) If the named officer is unable to inform the occupier of the intended entry, the named officer must, when executing the warrant, leave a copy of the warrant in a prominent place on the premises.\n(11) On leaving any premises which the named officer has entered by virtue of a warrant under this section, the named officer must, if the premises are unoccupied or the occupier is temporarily absent, leave them as effectively secured as the named officer found them.\n(12) Any document of which possession is taken under subsection (2)(d) or (3) may be retained for a period of not more than 3 months.\n(13) In this section —\n“named officer” means a police officer named in the warrant;\n“occupier”, in relation to any premises, means a person whom the police officer reasonably believes is the occupier of those premises."
+   }
+  },
+  {
+   "id": "SG-H3644-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 5 ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Application of Criminal Procedure Code 2010"
+   },
+   "text": {
+    "en": "51. Sections 370, 371 and 372 of the Criminal Procedure Code 2010 apply, with the necessary modifications, when an authorised officer seizes any thing under this Part."
+   }
+  },
+  {
+   "id": "SG-H3644-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 5 ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Offences under this Part"
+   },
+   "text": {
+    "en": "52.—(1) A person who, without reasonable excuse, fails to do anything required of the person —\n(a)by an authorised officer or a police officer under section 48(1) or (2); or\n(b)by a police officer under section 49(2)(g),\nshall be guilty of an offence.\n(2) A person —\n(a)who intentionally alters, suppresses or destroys any document, information or article which the person has been required by an authorised officer or a police officer under section 48(1) or (2), or by a police officer under section 49(2)(g), to provide; or\n(b)who, in providing any document, information or article required by an authorised officer or a police officer under section 48(1) or (2), or by a police officer under section 49(2)(g), makes any statement which the person knows or ought reasonably to know that, or is reckless as to whether, it is false or misleading in a material particular,\nshall be guilty of an offence.\n(3) A person who is guilty of an offence under subsection (1) or (2) shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part of a day during which the offence continues after conviction; or\n(b)in any other case, to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction.\n(4) In any proceedings for an offence under subsection (1), it is a defence for the accused to prove, on a balance of probabilities, that the person —\n(a)does not possess the document, information or article required; or\n(b)has taken all reasonable steps available to the person to obtain the document, information or article required and has been unable to obtain it.\n(5) To avoid doubt, for the purposes of subsection (1), it is a reasonable excuse for a person to refuse or fail to provide any information, produce any document or article or answer any question if doing so might tend to incriminate that person."
+   }
+  },
+  {
+   "id": "SG-H3644-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART 5 ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "53.—(1) Subject to subsection (2), the Minister may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —\n(a)in the case of an offence to which section 36(1)(a)(i)(A) applies — $250,000;\n(b)in the case of an offence to which section 36(1)(b)(i) or (ii) applies — $500,000; or\n(c)in any other case — one half of the amount of the maximum fine that is prescribed for the offence.\n(2) If the functions and powers of the Minister in respect of a designated entity have been transferred to a relevant Minister under section 6(2), the relevant Minister may compound any offence specified in subsection (3) that is prescribed by the relevant Minister as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —\n(a)in the case of an offence to which section 36(1)(a)(i)(A) applies — $250,000;\n(b)in the case of an offence to which section 36(1)(b)(i) or (ii) applies — $500,000; or\n(c)in any other case — one half of the amount of the maximum fine that is prescribed for the offence.\n(3) For the purposes of subsection (2), the offences specified are —\n(a)any offence under Part 3 that is committed by or in relation to the designated entity;\n(b)any offence under section 52(1)(a) involving the failure to do anything required by an authorised officer appointed by the relevant Minister’s appointed authority; and\n(c)any offence under section 52(2) relating to any matter specified in that provision connected with a requirement of an authorised officer appointed by the relevant Minister’s appointed authority.\n(4) On payment of the sum of money under subsection (1) or (2), no further proceedings are to be taken against that person in respect of the offence.\n(5) All sums collected under this section must be paid into the Consolidated Fund.\n(6) In this section, “relevant Minister’s appointed authority” means the appointed authority appointed by the relevant Minister under section 7(1)."
+   }
+  },
+  {
+   "id": "SG-H3644-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Guidelines on Fit and Proper Criteria"
+   },
+   "text": {
+    "en": "54.—(1) For the purpose of determining whether a person is a fit and proper person under this Act or any provision of this Act, the Minister may issue or adopt Guidelines on Fit and Proper Criteria.\n(2) If the functions and powers of the Minister in respect of a designated entity have been transferred to a relevant Minister under section 6(2), then, for the purpose of determining whether a person is a fit and proper person under this Act or any provision of this Act in relation to that designated entity, the relevant Minister may issue or adopt Guidelines on Fit and Proper Criteria.\n(3) The Minister or relevant Minister may, at any time, vary or revoke the Guidelines on Fit and Proper Criteria issued by the Minister or relevant Minister (as the case may be) mentioned in subsection (1) or (2), or any part of the Guidelines.\n(4) The Minister or relevant Minister (as the case may be) must —\n(a)ensure that the Guidelines on Fit and Proper Criteria, or their variation or revocation, are published on the prescribed website;\n(b)specify in the publication, the date on which the Guidelines on Fit and Proper Criteria, or their variation or revocation, take effect; and\n(c)ensure that the Guidelines on Fit and Proper Criteria (including any variation to them) remain available to the public for access and inspection without charge.\n(5) To avoid doubt, the Guidelines on Fit and Proper Criteria mentioned in subsections (1) and (2) are deemed not to be subsidiary legislation.\n(6) To avoid doubt, the Guidelines on Fit and Proper Criteria do not prevent any other matter or evidence that may be relevant to be taken into account in determining whether a person is or is not a fit and proper person."
+   }
+  },
+  {
+   "id": "SG-H3644-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "55."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Protection from personal liability"
+   },
+   "text": {
+    "en": "55. No liability shall be incurred by the competent authority, an appointed authority, any authorised officer, a member of or any other person acting under the direction of the competent authority or an appointed authority, for anything which is done or purported to be done in good faith and with reasonable care in —\n(a)the exercise or purported exercise of any power under this Act; or\n(b)the performance or purported performance of any function or duty under this Act."
+   }
+  },
+  {
+   "id": "SG-H3644-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "56."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "56.—(1) The Minister may, by order in the Gazette, exempt any person or class of persons from all or any of the provisions of this Act, either generally or in a particular case and subject to such conditions as the Minister may impose.\n(2) If the functions and powers of the Minister in respect of a designated entity have been transferred to a relevant Minister under section 6(2), that relevant Minister may, by order in the Gazette —\n(a)exempt that designated entity from part or all of the provisions mentioned in section 6(3)(b), subject to such conditions as the relevant Minister may impose; and\n(b)exempt any person or class of persons from part or all of the provisions mentioned in section 6(3)(b), in relation to that designated entity, subject to such conditions as the relevant Minister may impose."
+   }
+  },
+  {
+   "id": "SG-H3644-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "57."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "57.—(1) The Minister may make regulations prescribing matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.\n(2) If the functions and powers of the Minister in respect of a designated entity have been transferred to a relevant Minister under section 6(2), that relevant Minister may make regulations —\n(a)prescribing, in respect of that designated entity, matters required or permitted to be prescribed under sections 14(1) and (9), 16(2) and (3), 29(3) and 54(4)(a); and\n(b)prescribing the offences that may be compoundable under section 53(2)."
+   }
+  }
+ ]
+}

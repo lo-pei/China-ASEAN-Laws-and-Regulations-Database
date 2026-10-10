@@ -1,0 +1,68 @@
+{
+ "id": "SG-H2824",
+ "title": {
+  "zh": null,
+  "en": "Insurance (Prescribed Interests under Section 34(6)) Regulations 2023",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p36",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation IA1966-S75-2023",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1270,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/IA1966-S75-2023?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 2 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2824-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Insurance (Prescribed Interests under Section 34(6)) Regulations 2023 and come into operation on 17 February 2023."
+   }
+  },
+  {
+   "id": "SG-H2824-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Prescribed interests to which section 34 of Act does not apply"
+   },
+   "text": {
+    "en": "2.—(1) For the purposes of section 34(6)(c) of the Act, the following interests are prescribed interests to which section 34 of the Act does not apply:\n(a)any interest acquired, directly or indirectly, using any policy asset of an insurance fund established and maintained under the Act by a direct insurer licensed to carry on life business for its participating policies;\n(b)any interest held, directly or indirectly, as a policy asset of an insurance fund mentioned in sub‑paragraph (a);\n(c)any interest that is acquired, directly or indirectly, using any underlying asset of an insurance fund established and maintained under the Act by a direct insurer licensed to carry on life business for its investment‑linked policies;\n(d)any interest that is held, directly or indirectly, as an underlying asset of an insurance fund mentioned in sub‑paragraph (c).\n(2) In this regulation —\n“policy asset” means an asset of an insurance fund held for the benefit of policyholders in that fund;\n“underlying asset” means an asset of an insurance fund to which reference is made when calculating the value of an investment‑linked policy."
+   }
+  }
+ ]
+}

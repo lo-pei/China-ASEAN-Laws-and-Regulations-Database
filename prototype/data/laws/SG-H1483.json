@@ -1,0 +1,198 @@
+{
+ "id": "SG-H1483",
+ "title": {
+  "zh": null,
+  "en": "Feeding Stuffs Act 1965",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p19",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act FSA1965",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 12,
+ "chars": 11014,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/FSA1965?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 12 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1483-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Feeding Stuffs Act 1965."
+   }
+  },
+  {
+   "id": "SG-H1483-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“Agency” means the Singapore Food Agency established by the Singapore Food Agency Act 2019;\n“animal feed” means organic or mineral substances or mixtures of such substances used for the feeding of animals;\n“authorised officer” means any person appointed under section 3(2) by the Director‑General to be an authorised officer;\n“compound feed” means products which, when administered in the quantities prescribed, are adequate under normal management conditions to afford to normal animals of the species and class concerned the full range of nutritional ingredients in their diet necessary for the breeding or rearing of exemplary specimens of animals;\n“Director-General” means the Director‑General, Food Administration appointed under section 3(1) of the Sale of Food Act 1973;\n“feed concentrate” means such feed as is designed to supplement or balance the basic ingredients of a feed ratio to afford normal animals full nourishment and includes mineral mixtures;\n“simple feed” means a livestock feed which has been declared by the Minister, by notification in the Gazette, to be a simple feed within the meaning of this Act;\n“statutory statement” means a written statement furnished under section 5.\n[11/2019]"
+   }
+  },
+  {
+   "id": "SG-H1483-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Administration of Act and appointment of authorised officer, etc."
+   },
+   "text": {
+    "en": "3.—(1) The Director‑General shall be responsible for the administration of this Act, subject to the general or special directions of the Minister.\n(2) The Director‑General may in writing appoint any public officer or any officer of the Agency or any other statutory authority, or an auxiliary police officer appointed under the Police Force Act 2004, to be an authorised officer for the purposes of this Act and any rules made thereunder.\n[11/2019]\n(3) The Director‑General may delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act (except the power of delegation conferred by this subsection) to any authorised officer.\n[11/2019]\n(4) The Director‑General may, for any reason that appears to the Director‑General to be sufficient, at any time revoke a person’s appointment as an authorised officer.\n[11/2019]\n(5) An auxiliary police officer who is appointed as an authorised officer under subsection (2) does not, by virtue only of the appointment, become an employee or agent of the Agency.\n[11/2019]"
+   }
+  },
+  {
+   "id": "SG-H1483-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Licence to import, manufacture, etc., animal feeds"
+   },
+   "text": {
+    "en": "4.—(1) The Director‑General may issue a licence to any person to import, manufacture, process for sale or sell simple feeds, feed concentrates or compound feeds upon an application made in the prescribed form and the payment of such fees as may be prescribed.\n(2) A licence shall be subject to such conditions as may be prescribed and such other conditions as the Director‑General may, in his discretion, impose.\n(3) The Director‑General may, in his discretion, at any time, revoke or suspend a licence.\n(4) No person shall import, manufacture, process for sale or sell simple feeds, feed concentrates or compound feeds without a licence issued by the Director‑General.\n(5) Any person who acts in contravention of subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H1483-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Obligation to furnish statutory statement by purchaser"
+   },
+   "text": {
+    "en": "5. Every person who sells animal feeds shall furnish to the purchaser on or before delivery or as soon as possible a written statement in the prescribed form which shall contain such particulars as may be prescribed."
+   }
+  },
+  {
+   "id": "SG-H1483-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Manufacturer to give warranty"
+   },
+   "text": {
+    "en": "6. A manufacturer of simple feeds, feed concentrates or compound feeds shall give to every purchaser a warranty in the prescribed form which shall contain such particulars as may be prescribed."
+   }
+  },
+  {
+   "id": "SG-H1483-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Right of purchaser to have sample taken"
+   },
+   "text": {
+    "en": "7. The purchaser of any animal feed shall on payment of the prescribed fees be entitled to —\n(a)have a sample of the article taken by an authorised officer and analysed; and\n(b)receive a certificate of the result of the analysis."
+   }
+  },
+  {
+   "id": "SG-H1483-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Powers of authorised officer"
+   },
+   "text": {
+    "en": "8.—(1) Any authorised officer may at any time enter and examine any land, building or premises for the purpose of ascertaining whether —\n(a)that land, building or premises is being used for the purpose of the manufacture, processing for sale or sale of simple feeds, feed concentrates and compound feeds; or\n(b)any offence under this Act or any rules made thereunder has been or is being committed.\n(2) An authorised officer may at any time enter —\n(a)any premises used for the storage, manufacture and sale of animal feeds; or\n(b)any vehicle used for the transport of animal feeds,\nfor the purpose of inspecting the condition of —\n(c)storage compartments; and\n(d)animal feeds and taking samples thereof.\n(3) The Director‑General or an authorised officer may arrest without warrant any person committing or attempting to commit or whom he reasonably suspects of being engaged in committing or attempting to commit any offence under this Act or any rules made thereunder, if —\n(a)the person refuses to furnish his name and address or furnishes an address out of Singapore; or\n(b)there are reasonable grounds for believing that the person has furnished a false name or address or that the person is likely to abscond.\n[11/2019]\n(4) The Director‑General or an authorised officer making an arrest without warrant must without unnecessary delay bring the person arrested before a Magistrate’s Court.\n[11/2019]"
+   }
+  },
+  {
+   "id": "SG-H1483-A8.001",
+   "no": 8.001,
+   "noLabel": {
+    "en": "8A."
+   },
+   "heading": {
+    "en": "Other powers of investigation"
+   },
+   "text": {
+    "en": "8A.—(1) For the purpose of investigating any offence under this Act or any rules made thereunder, the Director‑General or an authorised officer may —\n(a)require any person in Singapore whom the Director‑General or authorised officer (as the case may be) has reason to believe to be acquainted with any facts or circumstances relevant to that investigation —\n(i)to furnish any document or information in that person’s possession; or\n(ii)to attend before the Director‑General or authorised officer to answer any question to the best of that person’s knowledge, information and belief; or\n(b)examine orally any person supposed to be acquainted with the facts and circumstances of the case.\n[11/2019]\n(2) The person mentioned in subsection (1)(b) is bound to state truly the facts and circumstances with which the person is acquainted concerning the case except only that the person may decline to make, with regard to any fact or circumstance, a statement which would have a tendency to expose the person to a criminal charge or to penalty or forfeiture.\n[11/2019]\n(3) Any statement made by any person in answer to a question under subsection (1) must —\n(a)be reduced to writing;\n(b)be read over to the person;\n(c)if the person does not understand English, be interpreted in a language that the person understands; and\n(d)after correction (if necessary), be signed by the person.\n[11/2019]\n(4) If any person fails to attend before the Director‑General or an authorised officer as required under subsection (1), the Director‑General or authorised officer may report the failure to a Magistrate who may issue a warrant to secure the attendance of that person as required by the order.\n[11/2019]"
+   }
+  },
+  {
+   "id": "SG-H1483-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Fees, etc., payable to Agency"
+   },
+   "text": {
+    "en": "9. All fees, charges and moneys collected under this Act or any rules made thereunder (except composition sums) must be paid to the Agency.\n[11/2019]"
+   }
+  },
+  {
+   "id": "SG-H1483-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Penalty"
+   },
+   "text": {
+    "en": "10.—(1) Any person who fails to furnish a statutory statement as is required under section 5 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.\n(2) Any manufacturer who does not supply a warranty as is required under section 6 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.\n(3) Any manufacturer who furnishes a warranty containing statements that are incorrect or inaccurate shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.\n(4) In any case where in any simple feed, feed concentrate or compound feed which has been sold, it is found on analysis to contain any ingredient deleterious or dangerous to animals, the seller, manufacturer or proprietor, as the case may be, shall be deemed to be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.\n(5) Any person who —\n(a)fraudulently tampers with any animal feed so as to procure that any sample of it taken or submitted for analysis under this Act does not correctly represent the article; or\n(b)tampers or interferes with any sample submitted for analysis under this Act,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.\n(6) Any owner of, or person entrusted for the time being with the charge and custody of, simple feeds, feed concentrates or compound feeds who —\n(a)refuses to allow any authorised officer to take samples as he thinks fit; or\n(b)otherwise wilfully delays or obstructs any authorised officer in the execution of his duties under this Act,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H1483-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Rules"
+   },
+   "text": {
+    "en": "11.—(1) The Minister may make rules for or with respect to any purpose which is considered by him necessary for carrying out the provisions of this Act and for prescribing any matter which is authorised or required under this Act to be prescribed.\n(2) Without prejudice to the generality of subsection (1), the Minister may by such rules provide for —\n(a)the regulation and control of the manufacture, preparation, marketing or importation of simple feeds, feed concentrates or compound feeds;\n(b)the therapeutic substances that may be added to simple feeds, feed concentrates or compound feeds;\n(c)the particulars that shall be contained in a warranty given by a manufacturer and the limits within which such particulars may differ from the actual nature, quality or amounts of the ingredients of the simple feeds, feed concentrates or compound feeds;\n(d)the method of taking samples and their analysis;\n(e)the forms for licences and for other purposes for use in connection with this Act; and\n(f)the prescribing of fees and charges for the purposes of this Act.\n(3) Such rules may —\n(a)prescribe that any act or omission in contravention of the provisions of any rule is an offence;\n(b)provide for the imposition of penalties which shall not exceed a fine of $500 or imprisonment for a term of 6 months or both; and\n(c)provide that, in addition to such fine and imprisonment, the penalty may extend to the cancellation or suspension of a licence.\n(4) The Minister may, in lieu of making any rules prescribing forms which by this Act are required to be or may be prescribed, authorise the Director‑General to prescribe such forms as he thinks fit.\n(5) All such rules shall be published in the Gazette and shall be presented to Parliament as soon as possible after publication."
+   }
+  }
+ ]
+}

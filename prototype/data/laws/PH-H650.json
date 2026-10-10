@@ -1,0 +1,74 @@
+{
+ "id": "PH-H650",
+ "title": {
+  "zh": null,
+  "en": "An Act Further Amending Section Sixteen Hundred and Seventy-five of the Revised Administrative Code, Fixing the Salaries of Provincial Fiscals",
+  "orig": "An Act Further Amending Section Sixteen Hundred and Seventy-five of the Revised Administrative Code, Fixing the Salaries of Provincial Fiscals"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p09",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1951-06-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 661",
+ "officialCode": null,
+ "topics": [
+  "administrative"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1443,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1951/ra_661_1951.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1951/ra_661_1951.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H650-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section sixteen hundred and seventy-five of the Revised Administrative Code, as amended, is further amended so as to read as follows:\n\"Section 1675. Salaries of provincial fiscals.-The provincial fiscals shall receive the salaries hereinbelow fixed:\n\"(a) In first class A provinces six thousand six hundred pesos.\n\"(b) In first class B provinces, six thousand three hundred pesos.\n\"(c) In first class provinces, six thousand pesos.\n\"(d) In second class provinces, five thousand seven hundred pesos.\n\"(e) In third class provinces, five thousand one hundred pesos.\n\"(f) In fourth class provinces, four thousand eight hundred pesos.\n\"(g) In fifth class provinces, four thousand two hundred pesos.\n\"(h) In all other provinces below the fifth class the salary should be three thousand six hundred pesos per annum.\n\" Provided, That vacancies left by provincial fiscals who retired or may retire under Act Numbered Two thousand five hundred and eighty-nine, entitled 'An Act providing for a gratuity by reason of retirement to officers and employees of the Philippine Government who have rendered satisfactory service during six continuous years or more, and for other purposes,' or any other retirement Act that may hereafter be enacted, shall be filled in accordance with the provision of this section.\""
+   }
+  },
+  {
+   "id": "PH-H650-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The provisions, of this Act shall apply to the specially organized provinces."
+   }
+  },
+  {
+   "id": "PH-H650-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect on July 1, 1951.\nApproved, June 16, 1951."
+   }
+  }
+ ]
+}

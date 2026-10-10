@@ -1,0 +1,2250 @@
+{
+ "id": "TL-H214",
+ "title": {
+  "zh": "市政选举法",
+  "en": null,
+  "orig": "Lei Eleitoral Municipal"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p04",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "amended",
+ "promulgatedDate": "2021-11-04",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "据公报标题，本法经 Lei n.º 7/2026 修改；本库收录的是本法原始公布文本，修改后的合并本未另行收录。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 22/2021",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 138,
+ "chars": 99300,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2021/serie_1/SERIE_I_NO_44.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 138 条；逐字取自官方公报 PDF（public/docs/2021/serie_1/SERIE_I_NO_44.pdf）第 1157–1183 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 【据公报标题，本法经 《第7/2026号法律》 修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H214-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO  E  PRINCÍPIOS  GERAIS Secção I Âmbito"
+   },
+   "heading": {
+    "pt": "Âmbito"
+   },
+   "text": {
+    "pt": "A presente lei regula a eleição do Presidente do Município, do Vice-Presidente do Município, e dos deputados da Assembleia Municipal.\nSecção II\nCapacidade Eleitoral Ativa"
+   }
+  },
+  {
+   "id": "TL-H214-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO  E  PRINCÍPIOS  GERAIS Secção I Âmbito"
+   },
+   "heading": {
+    "pt": "Capacidade eleitoral ativa"
+   },
+   "text": {
+    "pt": "Gozam de capacidade eleitoral ativa os cidadãos timorenses, maiores de dezassete anos, inscritos no recenseamento eleitoral."
+   }
+  },
+  {
+   "id": "TL-H214-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO  E  PRINCÍPIOS  GERAIS Secção I Âmbito"
+   },
+   "heading": {
+    "pt": "Incapacidade eleitoral ativa"
+   },
+   "text": {
+    "pt": "Não gozam de capacidade eleitoral ativa:\na)   Os interditos por sentença judicial, transitada em julgado;\nb)  Os notória e publicamente reconhecidos como dementes, ainda que não interditos por sentença, mas cujo processo se haja instaurado."
+   }
+  },
+  {
+   "id": "TL-H214-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO  E  PRINCÍPIOS  GERAIS Secção I Âmbito"
+   },
+   "heading": {
+    "pt": "Direito de voto"
+   },
+   "text": {
+    "pt": "São eleitores dos órgãos representativos dos municípios os LEI  N.º 22 /2021 de  4  de  Novembro LEI   ELEITORAL   MUNICIPAL A Constituição da República Democrática de Timor-Leste prescreve no n.º 1 do artigo 65.º que os órgãos eleitos de soberania e do poder local são escolhidos através de eleições, mediante sufrágio universal, livre, direto, secreto, pessoal e periódico.\nNo n.º 1 do artigo 72.º da Constituição, determina-se que o poder local é constituído por pessoas coletivas de território dotadas de órgãos representativos, com o objetivo de organizar a participação do cidadão na solução dos problemas próprios da sua comunidade e promover o desenvolvimento local, sem prejuízo da participação do Estado.\nUma vez reunidas as condições necessárias à plena autonomia dos Municípios, deverão convocar-se as eleições para o Presidente e Vice-Presidente do Município e para a Assembleia Municipal. cidadãos com capacidade eleitoral ativa, inscritos no recenseamento eleitoral numa das unidades geográficas de recenseamento compreendidas no território desse município.\nSecção III\nCapacidade eleitoral passiva"
+   }
+  },
+  {
+   "id": "TL-H214-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO  E  PRINCÍPIOS  GERAIS Secção I Âmbito"
+   },
+   "heading": {
+    "pt": "Capacidade eleitoral passiva"
+   },
+   "text": {
+    "pt": "São elegíveis para os órgãos representativos dos municípios, em cujas unidades geográficas de recenseamento se encontrem inscritos, os cidadãos com capacidade eleitoral ativa que não se encontrem judicialmente proibidos de exercer essas funções e se encontrem na plenitude das suas faculdades mentais."
+   }
+  },
+  {
+   "id": "TL-H214-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO  E  PRINCÍPIOS  GERAIS Secção I Âmbito"
+   },
+   "heading": {
+    "pt": "Inelegibilidades"
+   },
+   "text": {
+    "pt": "1.  Não podem ser candidatos aos órgãos representativos municipais:\na) Os titulares dos órgãos de soberania;\nb) O Provedor de Direitos Humanos e Justiça e os Provedores-Adjuntos;\nc) Os magistrados judiciais e do Ministério Público, em efetividade de funções;\nd) Os membros dos Conselhos Superiores da Magistratura e do Ministério Público;\ne) Os membros da Comissão Nacional de Eleições; f) Os militares dos quadros permanentes, em serviço efetivo, bem como os agentes dos serviços e forças de segurança, enquanto prestarem serviço ativo;\ng) Os Inspetores e funcionários das Inspeções Gerais do Estado, das Finanças e da Administração Estatal em efetividade de funções;\nh) Os funcionários e agentes da Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas em efetividade de funções.\n2.   Não podem ser candidatos aos órgãos representativos dos municípios onde desempenhem a sua atividade profissional os funcionários e agentes dos serviços municipais em efetividade de funções.\nSecção IV\nEstatuto dos Candidatos"
+   }
+  },
+  {
+   "id": "TL-H214-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO  E  PRINCÍPIOS  GERAIS Secção I Âmbito"
+   },
+   "heading": {
+    "pt": "Dispensa de funções"
+   },
+   "text": {
+    "pt": "Durante a campanha eleitoral, os candidatos efetivos têm direito a dispensa do exercício das respetivas funções profissionais, sejam elas públicas ou privadas, contando esse tempo para todos os efeitos, incluindo direito à retribuição, como tempo de serviço efetivo."
+   }
+  },
+  {
+   "id": "TL-H214-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO  E  PRINCÍPIOS  GERAIS Secção I Âmbito"
+   },
+   "heading": {
+    "pt": "Suspensão de funções"
+   },
+   "text": {
+    "pt": "Os presidentes e os vice-presidentes dos municípios que se candidatarem às eleições, suspendem as suas funções a partir da data do início da campanha eleitoral, continuando a receber a retribuição do cargo e a habitar casa de função, havendo, contando-se o período da suspensão como tempo de serviço para todos os efeitos."
+   }
+  },
+  {
+   "id": "TL-H214-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO  E  PRINCÍPIOS  GERAIS Secção I Âmbito"
+   },
+   "heading": {
+    "pt": "Imunidades"
+   },
+   "text": {
+    "pt": "1.   Durante o processo eleitoral, nenhum candidato pode ser sujeito a prisão preventiva, a não ser em caso de flagrante delito por crime doloso a que corresponda pena de prisão superior a três anos.\n2.   Movido procedimento criminal contra algum candidato e depois de proferido despacho de acusação ou pronúncia, o processo só pode prosseguir após a proclamação dos resultados eleitorais.\n3.   Fica suspenso o prazo de prescrição legalmente estabelecido enquanto o processo não puder prosseguir, em consequência do disposto no número anterior."
+   }
+  },
+  {
+   "id": "TL-H214-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Círculos eleitorais"
+   },
+   "text": {
+    "pt": "Para efeito de eleição dos órgãos previstos no artigo 1.º, o território do respetivo município constitui um círculo eleitoral único."
+   }
+  },
+  {
+   "id": "TL-H214-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Modo de eleição"
+   },
+   "text": {
+    "pt": "Os titulares dos órgãos representativos dos municípios são eleitos por sufrágio universal, direto, secreto e periódico e por listas, apresentadas em relação a cada órgão."
+   }
+  },
+  {
+   "id": "TL-H214-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Data das eleições"
+   },
+   "text": {
+    "pt": "1.  O dia das eleições para os órgãos representativos dos municípios é marcado por decreto do Governo com, pelo menos, noventa dias de antecedência.\n2.  O dia das eleições é o mesmo em todos os municípios, sendo esse dia feriado nos municípios onde as mesmas tiverem lugar, assim também no caso da segunda votação, sem prejuízo do regime previsto nas disposições transitórias para o processo de instituição dos municípios.\n3.  O Secretariado Técnico da Administração Eleitoral (doravante designado STAE) faz publicar, no Jornal da República, nos oito dias seguintes aos da publicação do decreto que marca a data das eleições para os titulares dos órgãos municipais, o calendário das operações eleitorais, remetendo uma cópia para a Comissão Nacional de Eleições, para o Supremo Tribunal de Justiça, para os tribunais distritais e para os órgãos de comunicação social.\nSecção II\nEleição da Assembleia Municipal"
+   }
+  },
+  {
+   "id": "TL-H214-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Organização das listas"
+   },
+   "text": {
+    "pt": "1.    As listas de candidatos a deputados municipais, para além dos candidatos efetivos, devem indicar candidatos suplentes em número não inferior a um terço, arredondado por excesso.\n2.    As listas de candidatos, efetivos e suplentes, a deputados municipais devem incluir, pelo menos, uma mulher por cada conjunto de três candidatos, sob pena de rejeição.\n3.   O STAE publica, no Jornal da República, até oito dias após a publicação do Decreto do Governo que convoca as eleições para os órgãos representativos dos municípios, um Aviso indicando:\na) O número de cidadãos recenseados em cada município;\nb) O número de deputados municipais a eleger, em cada município, de acordo com o estabelecido na Lei do Poder Local e da Descentralização Administrativa.\n4. Os candidatos de cada lista consideram-se ordenados segundo a sequência constante da respetiva declaração de candidatura."
+   }
+  },
+  {
+   "id": "TL-H214-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Poder de apresentação de candidaturas"
+   },
+   "text": {
+    "pt": "1. Apenas os partidos políticos ou coligações podem apresentar candidaturas para a eleição de deputados municipais.\n2.  Nenhum partido político ou coligação pode apresentar mais de uma lista de candidatos em cada município, nem os partidos coligados podem apresentar candidaturas próprias para a eleição nos municípios em que se encontrem coligados.\n3.    Só podem exercer o direito de apresentação de candidatura para a Assembleia Municipal os partidos políticos e coligações que se encontrem registadas junto do Supremo Tribunal de Justiça.\n4. Ninguém pode ser candidato a deputado municipal simultaneamente em listas apresentadas por diferentes partidos ou coligações."
+   }
+  },
+  {
+   "id": "TL-H214-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Candidaturas de coligações"
+   },
+   "text": {
+    "pt": "1.    Até ao vigésimo dia posterior ao da publicação do Decreto do Governo que convoque eleições para os órgãos representativos dos municípios, dois ou mais partidos podem constituir coligações para fins eleitorais com o objetivo de apresentarem conjuntamente uma lista única à eleição daqueles órgãos.\n2.   A constituição de coligações deve constar de documento subscrito pelos representantes dos órgãos competentes dos partidos políticos, deve ser anunciada publicamente em dois jornais diários nacionais e ser comunicada à Comissão Nacional de Eleições, mediante a junção do aludido documento e com a menção da respetiva denominação, sigla, bandeira e emblema, para apreciação e registo.\n3.  As coligações para fins eleitorais não constituem individualidade distinta dos partidos políticos que as integram e deixam de existir logo que sejam proclamados, pelo Supremo Tribunal de Justiça, os resultados definitivos das eleições."
+   }
+  },
+  {
+   "id": "TL-H214-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Apreciação e certificação das coligações"
+   },
+   "text": {
+    "pt": "1.  No dia seguinte ao da comunicação da constituição da coligação, a Comissão Nacional de Eleições verifica a observância dos requisitos estabelecidos no n.º 2 do artigo anterior, a legalidade das denominações, siglas e símbolos, bem como a sua identificação ou semelhança com as de outros partidos ou coligações, devendo comunicar a sua decisão no prazo de 72 horas.\n2.  A decisão prevista no número anterior é imediatamente afixada no quadro de avisos da Comissão Nacional de Eleições, sendo remetida cópia da mesma ao Supremo Tribunal de Justiça e ao STAE.\n3.   Os representantes de qualquer partido ou coligação podem interpor recurso da decisão prevista no n.º 1, para o Supremo Tribunal de Justiça, no prazo de vinte e quatro horas, contadas da publicitação da decisão prevista no número anterior, devendo este decidir do recurso no prazo de 48 horas.\n4.   A Comissão Nacional de Eleições, independentemente de requerimento, emite certidão da legalidade e registo da coligação, a fim de a mesma instruir o processo de candidatura, e envia-a aos signatários do requerimento de constituição da coligação, ao Supremo Tribunal de Justiça e ao STAE."
+   }
+  },
+  {
+   "id": "TL-H214-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Local e prazo de apresentação"
+   },
+   "text": {
+    "pt": "As listas de candidatos à Assembleia Municipal são apresentadas perante o Supremo Tribunal de Justiça, até ao trigésimo dia posterior ao da publicação do decreto que convoca as eleições para os órgãos representativos dos municípios."
+   }
+  },
+  {
+   "id": "TL-H214-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Requisitos formais de apresentação de candidaturas"
+   },
+   "text": {
+    "pt": "1.  A apresentação de candidatura à Assembleia Municipal consiste na entrega de uma declaração em que se manifesta a vontade de apresentar os candidatos a deputados municipais e uma declaração de aceitação de cada candidato.\n2.    A declaração é, ainda, acompanhada de fotocópia do cartão de eleitor e de declaração médica comprovativa de que os candidatos se encontram na plenitude das suas faculdades mentais.\n3.    A declaração é, ainda, instruída com fotocópia autenticada do cartão de eleitor do representante da candidatura.\n4.   No ato de apresentação o candidato junta a declaração de candidatura, por si assinada, na qual declara, sob compromisso de honra, que não está abrangido por qualquer inelegibilidade, que aceita a candidatura e designa, identificando, o representante da mesma."
+   }
+  },
+  {
+   "id": "TL-H214-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Representantes das candidaturas à Assembleia Municipal"
+   },
+   "text": {
+    "pt": "Na apresentação das candidaturas, os candidatos são representados pelas pessoas por eles designadas."
+   }
+  },
+  {
+   "id": "TL-H214-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Admissão das candidaturas"
+   },
+   "text": {
+    "pt": "1.  O Supremo Tribunal de Justiça, assim que receber as candidaturas à Assembleia Municipal, inicia a verificação da regularidade dos processos, da autenticidade dos documentos e da elegibilidade dos candidatos a deputados municipais.\n2.   Para efeito do disposto no número anterior, o Presidente do Supremo Tribunal de Justiça é apoiado pelos serviços do STAE.\n3.   São rejeitados os candidatos inelegíveis ou que não gozem de capacidade eleitoral passiva.\n4.     As irregularidades processuais verificadas são notificadas, de imediato, ao representante da candidatura a que as mesmas respeitem, para que proceda à respetiva supressão, no prazo de quarenta e oito horas.\n5.   A decisão é proferida até dez dias após o termo do prazo para a apresentação de candidaturas, abrange todas as candidaturas e é imediatamente notificada aos representantes das candidaturas, à Comissão Nacional de Eleições e ao STAE."
+   }
+  },
+  {
+   "id": "TL-H214-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Recurso"
+   },
+   "text": {
+    "pt": "1.    Da decisão relativa à apresentação das listas de candidatos à Assembleia Municipal ou relativamente a qualquer um dos candidatos a deputados municipais, cabe recurso para o Supremo Tribunal de Justiça, a interpor no prazo de vinte e quatro horas.\n2.    O requerimento de interposição do recurso, do qual constam os seus fundamentos, é acompanhado de todos os elementos de prova.\n3.  O recurso é decidido no prazo de dois dias a contar do termo do prazo referido no n.° 1."
+   }
+  },
+  {
+   "id": "TL-H214-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Sorteio das candidaturas à Assembleia Municipal"
+   },
+   "text": {
+    "pt": "1.  No dia seguinte ao da publicação das candidaturas à Assembleia Municipal definitivamente admitidas, o presidente do Supremo Tribunal de Justiça realiza o sorteio das candidaturas que se apresentaram em cada um dos municípios, na presença dos candidatos ou dos seus representantes que compareçam ao sorteio, para o efeito de lhes atribuir uma ordem nos boletins de voto.\n2.   Do resultado do sorteio é lavrada ata que é, de imediato, afixada à porta do edifício onde funciona o Supremo Tribunal de Justiça, sendo enviada cópia à Comissão Nacional de Eleições e ao STAE.\n3.   O STAE promove a divulgação pública das candidaturas à Assembleia Municipal definitivamente admitidas, nomeadamente através dos meios de comunicação social, durante três dias consecutivos, sendo obrigatória a publicação das mesmas no Jornal da República."
+   }
+  },
+  {
+   "id": "TL-H214-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Desistência e substituição de candidatos"
+   },
+   "text": {
+    "pt": "1.  É lícita a desistência de qualquer candidato a deputado municipal, mediante declaração por ele subscrita, com a assinatura reconhecida perante notário, mantendo-se, porém, a validade da lista apresentada.\n2.  Há lugar à substituição de candidatos, que desistam da respetiva candidatura, até vinte e um dias antes das eleições.\n3.   Em caso de morte ou doença de candidato que determine impossibilidade física ou psíquica, a sua substituição pode ser feita até setenta e duas horas antes das eleições, junto do Supremo Tribunal de Justiça, mediante entrega dos documentos comprovativos da morte ou doença do mesmo, bem como dos documentos previstos no artigo 18.º relativos ao substituto.\n4.  A substituição é facultativa, passando os substitutos a figurar na lista na posição ocupada pelo candidato substituído."
+   }
+  },
+  {
+   "id": "TL-H214-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Desistência de lista"
+   },
+   "text": {
+    "pt": "É lícita a desistência de lista de candidatos à Assembleia Municipal até setenta e duas horas antes do dia das eleições, mediante comunicação do respetivo representante ao Supremo Tribunal de Justiça, e imediatamente depois à Comissão Nacional de Eleições e ao STAE."
+   }
+  },
+  {
+   "id": "TL-H214-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Critério de eleição dos deputados municipais"
+   },
+   "text": {
+    "pt": "1.   A eleição dos deputados municipais faz-se de acordo com o método de representação proporcional correspondente à média mais alta de Hondt, obedecendo às seguintes regras:\na) Apura-se em separado o número de votos recebidos por cada lista no círculo eleitoral respetivo;\nb) O número de votos apurados por cada lista é dividido sucessivamente por um, dois, três, quatro, cinco, etc., sendo os quocientes alinhados pela ordem decrescente da sua grandeza numa série de tantos termos quantos os mandatos que estiverem em causa;\nc) Os mandatos pertencem às listas a que correspondem os termos da série estabelecida pela regra anterior, recebendo cada uma das listas tantos mandatos quantos os termos na série;\nd) No caso de restar um só mandato para distribuir e de os termos seguintes da série serem iguais e de listas diferentes, o mandato cabe à lista que tiver obtido o menor número de votos.\n2.   Dentro de cada lista de deputados municipais, os mandatos são conferidos aos candidatos pela ordem de precedência, indicada na ordem de candidatura.\n3.   As listas que obtiverem menos de 4% do total dos votos válidos, excluídos os votos em branco, não têm direito à atribuição de mandatos.\nSecção III\nEleição do Presidente do Município e do Vice-Presidente do Município"
+   }
+  },
+  {
+   "id": "TL-H214-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Organização da lista"
+   },
+   "text": {
+    "pt": "1.  As candidaturas a Presidente do Município e a Vice- Presidente do Município apresentam-se sob a forma de lista única plurinominal.\n2.    As listas de candidatos a Presidente do Município e a Vice- Presidente do Município não incluem candidatos suplentes."
+   }
+  },
+  {
+   "id": "TL-H214-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Poder de apresentação de candidaturas a Presidente do"
+   },
+   "text": {
+    "pt": "Município e a Vice-Presidente do Município\n1.  As candidaturas a Presidente do Município e a Vice- Presidente do Município são apresentadas conjunta e simultaneamente pelos partidos políticos, coligações de partidos políticos ou grupos de cidadãos eleitores.\n2.   Nenhum partido político, coligação ou grupo de cidadãos pode apresentar mais de um candidato a Presidente do Município e a Vice-Presidente do Município, em cada município, nem os partidos coligados podem apresentar candidaturas próprias para a eleição do Presidente do Município e do Vice-Presidente do Município, nos municípios em que se encontrem coligados.\n3.    Nenhum cidadão pode ser proponente de mais de uma lista de candidatos para a eleição do Presidente do Município e do Vice-Presidente do Município.\n4.  Os partidos políticos e as coligações podem incluir nas suas listas candidatos independentes, desde que como tal declarados.\n5.    Só podem exercer o direito de apresentação de candidatura para Presidente do Município e Vice-Presidente do Município, os partidos políticos e coligações que se encontrem registadas junto do Supremo Tribunal de Justiça.\n6.    Ninguém pode ser candidato a Presidente do Município e Vice-Presidente do Município simultaneamente em listas apresentadas por diferentes partidos, coligações ou grupos de cidadãos."
+   }
+  },
+  {
+   "id": "TL-H214-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Candidaturas de coligações e certificação das coligações"
+   },
+   "text": {
+    "pt": "O disposto nos artigos 15.º e 16.º é aplicável à formação de coligações de partidos políticos para a apresentação de candidatos a Presidente do Município e a Vice-Presidente do Município."
+   }
+  },
+  {
+   "id": "TL-H214-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Candidaturas apresentadas por grupos de cidadãos"
+   },
+   "text": {
+    "pt": "1.   As listas apresentadas por grupos de cidadãos são identificadas por uma denominação, por uma sigla e por um símbolo que não se confundam com os dos partidos políticos.\n2.    As listas de candidatos a Presidente do Município e Vice- Presidente do Município apresentadas por grupos de cidadãos são subscritas por, pelo menos, 5% dos eleitores inscritos no recenseamento eleitoral na unidade geográfica de recenseamento correspondente ao município.\n3.   Os proponentes devem fazer prova de recenseamento na área do município a cujo órgão respeita a candidatura, nos termos dos números seguintes.\n4.    As listas de candidatos propostas por grupos de cidadãos devem conter, em relação a cada um dos proponentes, os seguintes elementos:\na) Nome completo;\nb) Número do cartão de eleitor e respetiva fotocópia;\nc) Assinatura conforme ao cartão de eleitor;\nd) Endereço do eleitor.\n5.  O Supremo Tribunal de Justiça promove a verificação da autenticidade das assinaturas e identificação dos proponentes da iniciativa, sendo apoiado nesta tarefa pelos serviços do STAE.\n6.   Sem prejuízo do disposto no número anterior, o Supremo Tribunal de Justiça pode promover a verificação da autenticidade das assinaturas e da identificação dos proponentes da iniciativa por amostragem."
+   }
+  },
+  {
+   "id": "TL-H214-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Local e prazo de apresentação"
+   },
+   "text": {
+    "pt": "As candidaturas a Presidente do Município e a Vice-Presidente do Município são apresentadas perante o Supremo Tribunal de Justiça, até ao trigésimo dia posterior ao da publicação do Decreto que convoca as eleições para os órgãos representativos dos municípios."
+   }
+  },
+  {
+   "id": "TL-H214-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Requisitos formais de apresentação de candidaturas"
+   },
+   "text": {
+    "pt": "1.    A apresentação de candidaturas a Presidente do Município e a Vice-Presidente do Município consiste na entrega de uma declaração conjunta em que se manifesta a vontade de apresentar o candidato a Presidente do Município e o candidato a Vice-Presidente do Município, acompanhada da declaração de aceitação da candidatura subscrita por cada um dos candidatos.\n2.   A declaração é, ainda, acompanhada de fotocópia do cartão de eleitor e de declaração médica comprovativa de que cada um daqueles candidatos se encontra na plenitude das suas faculdades mentais.\n3.    A declaração é, ainda, instruída com fotocópia autenticada do cartão de eleitor do representante da candidatura.\n4.  No ato de apresentação da candidatura, os candidatos a Presidente do Município e a Vice-Presidente do Município juntam a declaração de candidatura, por si assinada, na qual declaram, sob compromisso de honra, que não estão abrangidos por qualquer inelegibilidade, que aceitam a candidatura e designam, identificando, o representante único de ambas as candidaturas."
+   }
+  },
+  {
+   "id": "TL-H214-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Representante dos candidatos a Presidente do Município e a"
+   },
+   "text": {
+    "pt": "Vice-Presidente do Município Na apresentação da candidatura, os candidatos a Presidente do Município e a Vice-Presidente do Município são representados pela pessoa designada pelo candidato a Presidente do Município."
+   }
+  },
+  {
+   "id": "TL-H214-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Admissão das candidaturas"
+   },
+   "text": {
+    "pt": "1.  O Supremo Tribunal de Justiça, assim que receber as candidaturas a Presidente do Município e Vice-Presidente do Município, inicia a verificação da regularidade dos processos, da autenticidade dos documentos e da elegibilidade dos candidatos a Presidente do Município e a Vice-Presidente do Município.\n2.   Para efeito do disposto no número anterior, o Presidente do Supremo Tribunal de Justiça é apoiado pelos serviços do STAE.\n3.    São rejeitados os candidatos inelegíveis ou que não gozem de capacidade eleitoral passiva.\n4.    As irregularidades processuais verificadas são notificadas, de imediato, ao representante da candidatura a que as mesmas respeitem, para que proceda à respetiva supressão, no prazo de quarenta e oito horas.\n5.   A decisão é proferida até dez dias após o termo do prazo para a apresentação de candidaturas, abrange todas as candidaturas e é imediatamente notificada aos representantes, à Comissão Nacional de Eleições e ao STAE."
+   }
+  },
+  {
+   "id": "TL-H214-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Recurso"
+   },
+   "text": {
+    "pt": "1.  Da decisão relativa à apresentação das candidaturas a Presidente do Município e a Vice-Presidente do Município cabe recurso para o Supremo Tribunal de Justiça, a interpor no prazo de vinte e quatro horas.\n2.   O requerimento de interposição do recurso, do qual constam os seus fundamentos, é acompanhado de todos os elementos de prova.\n3.  O recurso é decidido no prazo de dois dias a contar do termo do prazo referido no n.° 1."
+   }
+  },
+  {
+   "id": "TL-H214-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Sorteio das candidaturas a Presidente do Município e a"
+   },
+   "text": {
+    "pt": "Vice-Presidente do Município\n1.  No dia seguinte ao da publicação das candidaturas definitivamente admitidas, o Presidente do Supremo Tribunal de Justiça realiza o sorteio das candidaturas, que se apresentaram em cada um dos municípios, na presença dos candidatos ou dos seus representantes que compareçam ao sorteio, para o efeito de lhes atribuir uma ordem nos boletins de voto.\n2.   Do resultado do sorteio é lavrada ata que é, de imediato, afixada à porta do edifício onde funciona o Supremo Tribunal de Justiça, sendo enviada cópia à Comissão Nacional de Eleições e ao STAE.\n3.   O STAE promove a divulgação pública das candidaturas a Presidente do Município e a Vice-Presidente do Município definitivamente admitidas, nomeadamente através dos meios de comunicação social, durante três dias consecutivos, sendo obrigatória a publicação das mesmas no Jornal da República."
+   }
+  },
+  {
+   "id": "TL-H214-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Desistência e substituição de candidatos"
+   },
+   "text": {
+    "pt": "1.   É lícita a desistência de qualquer candidato a Presidente do Município e a Vice-Presidente do Município, mediante declaração subscrita pelo próprio, com a assinatura reconhecida perante notário.\n2.   Há lugar à substituição de candidatos que desistam da respetiva candidatura, até vinte e um dias antes das eleições, a promover pelo partido político, coligação ou grupo de cidadãos responsável pela apresentação da respetiva candidatura."
+   }
+  },
+  {
+   "id": "TL-H214-A37",
+   "no": 37,
+   "noLabel": {
+    "pt": "Artigo 37.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Critério de eleição do Presidente do Município"
+   },
+   "text": {
+    "pt": "1.   É eleito Presidente do Município o candidato que obtiver mais de metade dos votos validamente expressos, excluídos os votos em branco.\n2.  Se nenhum dos candidatos obtiver mais de metade dos votos validamente expressos tem lugar uma segunda votação, na qual participam apenas as duas listas mais votadas que não tenham retirado a candidatura.\n3.  A segunda votação realiza-se 30 dias após a primeira votação."
+   }
+  },
+  {
+   "id": "TL-H214-A38",
+   "no": 38,
+   "noLabel": {
+    "pt": "Artigo 38.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SISTEMA  ELEITORAL Secção I Organização dos círculos eleitorais, regime e marcação da eleição"
+   },
+   "heading": {
+    "pt": "Critério de eleição do Vice-Presidente do Município"
+   },
+   "text": {
+    "pt": "É eleito Vice-Presidente do Município o respetivo candidato apresentado na candidatura do Presidente do Município eleito."
+   }
+  },
+  {
+   "id": "TL-H214-A39",
+   "no": 39,
+   "noLabel": {
+    "pt": "Artigo 39.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Período da campanha eleitoral"
+   },
+   "text": {
+    "pt": "1.   O período da campanha eleitoral tem a duração de quinze dias e termina dois dias antes do dia designado para as eleições.\n2.   No caso de segunda votação, a campanha eleitoral tem a duração de oito dias e termina dois dias antes do dia designado para as eleições.\n3.    Durante os dois dias que antecedem o ato eleitoral e no dia da sua realização, enquanto durar o processo de votação, é proibida a realização de qualquer atividade de campanha ou propaganda eleitoral."
+   }
+  },
+  {
+   "id": "TL-H214-A40",
+   "no": 40,
+   "noLabel": {
+    "pt": "Artigo 40.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Promoção, realização e âmbito da campanha eleitoral"
+   },
+   "text": {
+    "pt": "1.    A promoção e realização da campanha eleitoral cabem sempre aos candidatos e aos partidos políticos, coligações ou grupos de cidadãos eleitores proponentes, sem prejuízo da participação ativa dos demais cidadãos.\n2.   Dez dias úteis antes do período da campanha eleitoral, as candidaturas, os partidos políticos ou coligações partidárias devem obrigatoriamente fornecer à Comissão Nacional de Eleições o calendário das atividades das suas respetivas campanhas, com indicação de onde as mesmas decorrerão.\n3.   Caso haja coincidência de local ou horário de atividades de campanha das candidaturas, partidos políticos ou coligações partidárias, a Comissão Nacional de Eleições notifica as candidaturas, os partidos políticos ou as coligações coincidentes para concordância mútua sobre o horário e local.\n4.   Caso não haja concordância de ceder local ou horário, a Comissão Nacional de Eleições procede a um sorteio para resolver a situação.\n5.   A Comissão Nacional de Eleições informa a Polícia e a Administração Municipal da calendarização definitiva das atividades de campanha eleitoral."
+   }
+  },
+  {
+   "id": "TL-H214-A41",
+   "no": 41,
+   "noLabel": {
+    "pt": "Artigo 41.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Princípios da campanha eleitoral"
+   },
+   "text": {
+    "pt": "1.  A campanha eleitoral é conduzida no respeito pelos seguintes princípios:\na) Liberdade de propaganda eleitoral;\nb) Igualdade de oportunidades e de tratamento das diversas candidaturas;\nc) Imparcialidade das entidades públicas perante as candidaturas;\nd) Transparência e fiscalização das contas eleitorais.\n2.   Compete à Comissão Nacional de Eleições diligenciar no sentido de garantir o respeito pelos princípios supra enunciados, desde a data de publicação do Decreto que marca a data da realização da eleição até ao dia da publicação dos resultados eleitorais definitivos no Jornal da República.\nSecção II\nPropaganda eleitoral"
+   }
+  },
+  {
+   "id": "TL-H214-A42",
+   "no": 42,
+   "noLabel": {
+    "pt": "Artigo 42.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Propaganda eleitoral"
+   },
+   "text": {
+    "pt": "Entende-se por «propaganda eleitoral» toda a atividade que vise direta ou indiretamente promover candidaturas, seja dos candidatos, dos partidos políticos, dos titulares dos seus órgãos ou seus agentes, das coligações, dos grupos de cidadãos proponentes ou de quaisquer outras pessoas, nomeadamente a publicação de textos ou imagens que exprimam ou reproduzam o conteúdo dessa atividade."
+   }
+  },
+  {
+   "id": "TL-H214-A43",
+   "no": 43,
+   "noLabel": {
+    "pt": "Artigo 43.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Igualdade de oportunidades das candidaturas"
+   },
+   "text": {
+    "pt": "Os candidatos, os partidos políticos, coligações e grupos de cidadãos eleitores proponentes têm direito a efetuar livremente e nas melhores condições a sua propaganda eleitoral, devendo as entidades públicas e privadas proporcionar-lhes igual tratamento, nos termos previstos na lei."
+   }
+  },
+  {
+   "id": "TL-H214-A44",
+   "no": 44,
+   "noLabel": {
+    "pt": "Artigo 44.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Neutralidade e imparcialidade"
+   },
+   "text": {
+    "pt": "1.  Os órgãos do Estado, do Poder Local, dos Sucos e das demais pessoas coletivas de direito público e as pessoas coletivas de direito privado concessionárias de serviços públicos não podem intervir direta ou indiretamente na campanha eleitoral nem praticar atos que de algum modo favoreçam ou prejudiquem uma candidatura ou uma entidade proponente em detrimento ou vantagem de outra, devendo assegurar a igualdade de tratamento e a imparcialidade em qualquer intervenção nos procedimentos eleitorais.\n2.  Os funcionários e agentes das entidades previstas no número anterior observam, no exercício das suas funções, rigorosa neutralidade perante as diversas candidaturas e respetivas entidades proponentes.\n3.   É vedada a exibição de símbolos, siglas, designações ou outros elementos de propaganda por titulares dos órgãos, funcionários e agentes das entidades referidas no n.º 1 durante o exercício das suas funções.\n4.   Os funcionários e agentes dos órgãos ou entidades previstos no n.º 1 podem participar nas atividades de campanha eleitoral fora dos respetivos horários de expediente."
+   }
+  },
+  {
+   "id": "TL-H214-A45",
+   "no": 45,
+   "noLabel": {
+    "pt": "Artigo 45.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Liberdade de informação e de expressão"
+   },
+   "text": {
+    "pt": "Não pode ser imposta qualquer limitação à expressão de princípios políticos, económicos e sociais, sem prejuízo de eventual responsabilidade civil ou criminal dos seus autores."
+   }
+  },
+  {
+   "id": "TL-H214-A46",
+   "no": 46,
+   "noLabel": {
+    "pt": "Artigo 46.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Imparcialidade dos meios de comunicação social"
+   },
+   "text": {
+    "pt": "1.    Os órgãos de comunicação social que façam a cobertura da campanha eleitoral devem dar um tratamento jornalístico não discriminatório às diversas candidaturas.\n2.  Nos programas que não sejam expressamente de propaganda eleitoral, a rádio e a televisão não poderão transmitir, explícita ou implicitamente, qualquer preferência partidária, seja esta através de mensagens orais ou visuais, em forma do uso de cores ou simbologia que possam ser facilmente associadas a determinado candidato, partido político, coligação partidária ou grupo de cidadãos eleitores proponentes de candidaturas.\n3.  O preceituado no número anterior não é aplicável às publicações doutrinárias ou quaisquer meios de comunicação ou difusão que sejam propriedade de partidos políticos, coligações ou grupos de cidadãos proponentes, desde que tal facto conste expressamente do respetivo estatuto editorial."
+   }
+  },
+  {
+   "id": "TL-H214-A47",
+   "no": 47,
+   "noLabel": {
+    "pt": "Artigo 47.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Liberdade de reunião e manifestação"
+   },
+   "text": {
+    "pt": "1.    Durante o período de campanha eleitoral e sem necessidade de autorização prévia, os candidatos, os partidos políticos e as coligações partidárias podem organizar reuniões, manifestações, comícios, encontros e desfiles de forma pacífica e não utilizando armas.\n2.   Os cortejos e os desfiles podem realizar-se em qualquer dia, até às 18 horas e 30 minutos, respeitando-se apenas os limites impostos pela liberdade de trabalho e de trânsito e pela manutenção da ordem pública, bem como os decorrentes do período de descanso dos cidadãos.\n3.    Durante o período de campanha eleitoral, nenhuma pessoa, autoridade ou instituição pode proibir ou impedir a realização das atividades de campanha política que estejam previstas pelo calendário definitivo das atividades de campanha eleitoral, previsto no n.º 5 do artigo 40.º."
+   }
+  },
+  {
+   "id": "TL-H214-A48",
+   "no": 48,
+   "noLabel": {
+    "pt": "Artigo 48.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Propaganda sonora"
+   },
+   "text": {
+    "pt": "1.   A propaganda sonora não carece de autorização nem de comunicação às autoridades administrativas, sem prejuízo dos níveis de ruído deverem respeitar um limite razoável.\n2.   Não é admissível a realização de propaganda sonora entre as 18 horas e 30 minutos e as 8 horas da manhã seguinte."
+   }
+  },
+  {
+   "id": "TL-H214-A49",
+   "no": 49,
+   "noLabel": {
+    "pt": "Artigo 49.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Propaganda gráfica"
+   },
+   "text": {
+    "pt": "1.   A afixação de cartazes não carece de autorização nem de comunicação às autoridades administrativas.\n2.   Não é permitida a afixação de cartazes nem a realização de inscrições ou pinturas murais em locais de interesse histórico, em monumentos, em templos e edifícios religiosos, em edifícios públicos ou privados em que se encontrem instalados órgãos ou serviços da administração pública ou onde funcionarem centros de votação, nos sinais de trânsito ou nas placas de sinalização rodoviária."
+   }
+  },
+  {
+   "id": "TL-H214-A50",
+   "no": 50,
+   "noLabel": {
+    "pt": "Artigo 50.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Materiais não-biodegradáveis"
+   },
+   "text": {
+    "pt": "Não é admitida em caso algum a afixação de cartazes ou inscrições com colas ou tintas persistentes nem a utilização de materiais não-biodegradáveis."
+   }
+  },
+  {
+   "id": "TL-H214-A51",
+   "no": 51,
+   "noLabel": {
+    "pt": "Artigo 51.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Denominações, siglas e símbolos"
+   },
+   "text": {
+    "pt": "1.  Cada partido ou coligação proponente utiliza sempre, durante a campanha eleitoral, a denominação, a sigla e o símbolo respetivos, que devem corresponder integralmente aos constantes do registo do Supremo Tribunal de Justiça, e os grupos de cidadãos eleitores proponentes a denominação, a sigla e o símbolo fixados no final da fase de apresentação da respetiva candidatura.\n2.  Os candidatos, os partidos políticos, as coligações partidárias e os grupos de cidadãos proponentes não podem utilizar nomes ou símbolos das instituições do Estado, das forças de segurança ou das forças armadas nas suas atividades e nos materiais de propaganda eleitoral."
+   }
+  },
+  {
+   "id": "TL-H214-A52",
+   "no": 52,
+   "noLabel": {
+    "pt": "Artigo 52.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Esclarecimento cívico"
+   },
+   "text": {
+    "pt": "Cabe aos órgãos de administração eleitoral promover, no âmbito da respetiva competência legal, através dos meios de comunicação social, públicos e privados, o esclarecimento objetivo dos cidadãos sobre o significado das eleições para a vida do País, sobre o processo eleitoral e sobre o sistema eleitoral e processo de votação."
+   }
+  },
+  {
+   "id": "TL-H214-A53",
+   "no": 53,
+   "noLabel": {
+    "pt": "Artigo 53.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Limpeza da propaganda eleitoral"
+   },
+   "text": {
+    "pt": "1.   Os candidatos, os partidos políticos e as coligações devem retirar todos os materiais de propaganda eleitoral usados durante a campanha eleitoral, no prazo de uma semana a contar desde o dia seguinte ao da realização das eleições.\n2.    Os candidatos, os partidos políticos e as coligações devem retirar todos os materiais de propaganda eleitoral usados durante a campanha eleitoral que se encontrem num raio de cem metros dos locais onde funcionarão os centros de votação até vinte e quatro horas antes do início das operações de votação.\n3.   Caso os materiais de propaganda eleitoral não sejam retirados no prazo previsto, a Comissão Nacional de Eleições solicitará às autoridades locais e policiais que se proceda à sua remoção.\n4.   O custo das operações de limpeza dos materiais de propaganda eleitoral será suportado pelos candidatos, partidos políticos e coligações partidárias que violem o estabelecido nos números anteriores."
+   }
+  },
+  {
+   "id": "TL-H214-A54",
+   "no": 54,
+   "noLabel": {
+    "pt": "Artigo 54.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Queixas e ilícitos criminais"
+   },
+   "text": {
+    "pt": "1. Os candidatos, os partidos políticos, as coligações partidárias e os grupos de cidadãos proponentes de candidaturas que vejam afetados os seus direitos de campanha podem apresentar queixa perante a Comissão Nacional de Eleições, nos termos que esta fixar em regulamento expressamente aprovado para o efeito.\n2.    A Comissão Nacional de Eleições participará ao Ministério Público quaisquer atos suscetíveis de configurar ilícito eleitoral de que tome conhecimento.\nSecção III\nFinanciamento das campanhas eleitorais"
+   }
+  },
+  {
+   "id": "TL-H214-A55",
+   "no": 55,
+   "noLabel": {
+    "pt": "Artigo 55.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Regime"
+   },
+   "text": {
+    "pt": "O financiamento das campanhas eleitorais para os órgãos representativos dos municípios é regulado pelas disposições constantes da presente secção."
+   }
+  },
+  {
+   "id": "TL-H214-A56",
+   "no": 56,
+   "noLabel": {
+    "pt": "Artigo 56.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Regime de tratamento das receitas e das despesas"
+   },
+   "text": {
+    "pt": "1.   As receitas e as despesas da campanha eleitoral constam de contas próprias, restritas à respetiva campanha, e devem prever:\na) A discriminação das receitas resultantes de:\ni.     As contribuições dos partidos políticos que apoiam a candidatura; ii.   As contribuições dos candidatos; iii.  O produto das atividades de angariação de fundos desenvolvidas pelos candidatos, partidos políticos, coligações ou grupos de cidadãos proponentes; iv.   As subvenções do Estado;\nv.  O produto de empréstimos contraídos em instituições de crédito estabelecidas no país; vi.   Os donativos de pessoas singulares.\nb) A discriminação das despesas, o que inclui:\ni.   As despesas com recursos humanos; ii.   As despesas com a aquisição de bens e serviços; iii.   Os encargos financeiros com empréstimos; iv. Outras despesas associadas com as atividades próprias de campanha.\nc) A discriminação das operações de capital, referentes a:\ni.   Créditos; ii.   Débitos.\n2.  A utilização dos bens afetos ao património do partido político, bem como a colaboração de militantes, simpatizantes e de apoiantes, não são consideradas nem como receitas, nem como despesas de campanha.\n3.    Às contas previstas nos números anteriores correspondem contas bancárias especificamente constituídas para o efeito, onde são depositadas as respetivas receitas e movimentadas todas as despesas relativas à campanha."
+   }
+  },
+  {
+   "id": "TL-H214-A57",
+   "no": 57,
+   "noLabel": {
+    "pt": "Artigo 57.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Receitas de campanha"
+   },
+   "text": {
+    "pt": "1.   As atividades da campanha eleitoral só podem ser financiadas por:\na) As contribuições dos partidos políticos que apoiam a candidatura;\nb) As contribuições dos candidatos;\nc) O produto das atividades de angariação de fundos desenvolvidas pelos candidatos, partidos políticos, coligações ou grupos de cidadãos proponentes;\nd) As subvenções do Estado;\ne) O produto de empréstimos contraídos em instituições de crédito estabelecidas no país; f) Os donativos de pessoas singulares.\n2.   As contribuições financeiras para a campanha eleitoral só podem ser entregues aos beneficiários em cheque, depósito bancário ou transferência bancária e devem ser documentalmente comprovadas.\n3.    As contribuições dos partidos políticos são comprovadas por documentos emitidos pelos órgãos competentes, com a indicação de quem as prestou.\n4.  Os donativos das pessoas singulares e as contribuições dos candidatos são documentadas por escrito assinado pelo doador e pelo administrador de financiamento eleitoral.\n5.  Quando se trate de donativos em espécie, o respetivo documento comprovativo, assinado pelo doador e por quem for responsável pela administração do financiamento eleitoral, deve discriminar completamente o seu número ou quantidade, o seu objeto e o valor a ele atribuído, o qual não pode ser inferior ao seu valor de mercado.\n6.   As receitas produzidas por atividades de angariação de fundos são discriminadas com referência à atividade, ao local e à data ou período da sua realização."
+   }
+  },
+  {
+   "id": "TL-H214-A58",
+   "no": 58,
+   "noLabel": {
+    "pt": "Artigo 58.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Receitas proibidas"
+   },
+   "text": {
+    "pt": "É proibido aos candidatos, partidos políticos e coligações partidárias aceitar donativos de:\na)   Empresas públicas;\nb)  Sociedades com capital exclusivo ou maioritariamente do Estado;\nc)   Empresas concessionárias de serviços públicos;\nd)  Pessoas coletivas de utilidade pública ou dedicadas a atividades de beneficência ou de fins religiosos;\ne)   Associações profissionais, sindicais ou patronais;\nf)   Fundações;\ng)   Governos ou pessoas singulares ou coletivas estrangeiras."
+   }
+  },
+  {
+   "id": "TL-H214-A59",
+   "no": 59,
+   "noLabel": {
+    "pt": "Artigo 59.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Despesas da campanha eleitoral"
+   },
+   "text": {
+    "pt": "1.   Consideram se despesas de campanha eleitoral as efetuadas pelas candidaturas, com intuito ou benefício eleitoral, dentro dos seis meses imediatamente anteriores à data do ato eleitoral respetivo.\n2.   As despesas de campanha eleitoral são discriminadas por categorias, com a junção de documento certificativo em relação a cada ato de despesa.\n3.   As despesas com a realização da campanha eleitoral, por cada lista de candidatos, em cada município, não podem ultrapassar oitocentas e setenta vezes o salário mínimo nacional.\n4.  O valor previsto no número anterior eleva-se em quatrocentas e trinta e cinco vezes o salário mínimo nacional se se realizar uma segunda votação."
+   }
+  },
+  {
+   "id": "TL-H214-A60",
+   "no": 60,
+   "noLabel": {
+    "pt": "Artigo 60.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Apreciação e fiscalização"
+   },
+   "text": {
+    "pt": "1.  Os candidatos, os partidos políticos e as coligações partidárias devem apresentar as contas da campanha eleitoral à Comissão Nacional de Eleições que as verificará dentro dos trinta dias seguintes ao dia da eleição, acompanhadas de extrato dos movimentos bancários da conta de campanha.\n2.   As contas devem registar todos os movimentos desde os seis meses que antecedem a data da publicação do decreto que designa a data das eleições até aos dois dias seguintes ao dia das eleições.\n3.    As contas dos candidatos, partidos políticos e coligações partidárias referentes à campanha eleitoral devem ser publicadas gratuitamente no Jornal da República, até ao quadragésimo quinto dia posterior à data de realização do último ato eleitoral, acompanhado do parecer da Comissão Nacional de Eleições.\n4.  A Comissão Nacional de Eleições verifica as contas no prazo de trinta dias e dará cumprimento ao disposto no número anterior.\n5.  A Comissão Nacional de Eleições pode contratar especialistas externos para a assistir."
+   }
+  },
+  {
+   "id": "TL-H214-A61",
+   "no": 61,
+   "noLabel": {
+    "pt": "Artigo 61.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAMPANHA  E  PROPAGANDA  ELEITORAL Secção I Campanha eleitoral"
+   },
+   "heading": {
+    "pt": "Responsabilidade pelas contas"
+   },
+   "text": {
+    "pt": "Os representantes das candidaturas para a Assembleia Municipal e para o Presidente do Município e Vice-Presidente do Município, previstos nos artigos 19.º e 32.º, são responsáveis pela elaboração e apresentação das respetivas contas de campanha, perante a Comissão Nacional de Eleições."
+   }
+  },
+  {
+   "id": "TL-H214-A62",
+   "no": 62,
+   "noLabel": {
+    "pt": "Artigo 62.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Definição"
+   },
+   "text": {
+    "pt": "Designa-se por centro de votação o local onde o eleitor exerce o seu direito de voto, podendo este centro compreender uma ou mais estações de voto."
+   }
+  },
+  {
+   "id": "TL-H214-A63",
+   "no": 63,
+   "noLabel": {
+    "pt": "Artigo 63.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Local de funcionamento"
+   },
+   "text": {
+    "pt": "1.   Em cada suco deverá funcionar pelo menos um centro de votação, podendo o STAE, em função do número de eleitores ou da distância verificada entre as aldeias que compõem o suco, determinar a criação de mais centros de votação, salvaguardando sempre no decurso do processo eleitoral em questão o regular exercício do direito de voto, sem prejuízo da sua confidencialidade.\n2.  Sempre que o número de eleitores o justifique, em cada centro de votação poderá funcionar mais do que uma estação de voto."
+   }
+  },
+  {
+   "id": "TL-H214-A64",
+   "no": 64,
+   "noLabel": {
+    "pt": "Artigo 64.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Divulgação dos locais de funcionamento"
+   },
+   "text": {
+    "pt": "1.  O STAE, nos trinta dias que antecedem o dia da eleição, deverá publicar no Jornal da República a lista completa dos locais de funcionamento dos centros de votação e estações de voto, enviando cópia daquela informação à Comissão Nacional de Eleições e assegurando, posteriormente, a sua divulgação através dos órgãos de comunicação social.\n2.    A cada centro de votação será atribuído um código formado por três algarismos e a cada estação de voto corresponderá um código formado por quatro algarismos, dos quais os três primeiros representam o código do centro de votação, e o quarto o número da respetiva estação de voto, permitindo-se, por esta via, a identificação individualizada de cada centro de votação e de cada estação de voto.\n3.    Os códigos devem constar nas urnas e nas listas de eleitores, bem como nas atas de funcionamento, contagem e apuramento dos votos."
+   }
+  },
+  {
+   "id": "TL-H214-A65",
+   "no": 65,
+   "noLabel": {
+    "pt": "Artigo 65.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Instalação dos Centros de Votação"
+   },
+   "text": {
+    "pt": "1.   Os centros de votação são instalados em edifícios públicos, de preferência escolas públicas, que ofereçam condições de segurança e de acesso aos eleitores.\n2.   Na ausência de edifícios públicos que ofereçam as condições previstas no número anterior, serão requisitados pelo STAE a sede do suco ou os centros comunitários.\n3.    Na impossibilidade de serem assegurados os locais referidos no presente artigo, o STAE providenciará uma estrutura na qual possa ser instalado o centro de votação e as respetivas estações de voto, informando a Comissão Nacional de Eleições acerca das eventuais alterações."
+   }
+  },
+  {
+   "id": "TL-H214-A66",
+   "no": 66,
+   "noLabel": {
+    "pt": "Artigo 66.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Localizações proibidas"
+   },
+   "text": {
+    "pt": "É proibida a instalação e funcionamento do centro de votação em:\na)   Instalações de unidades policiais;\nb)   Instalações de unidades militares;\nc)   Residência dos membros dos órgãos dos sucos;\nd)   Residência privada;\ne)   Edifício que seja propriedade de um partido político;\nf)   Locais de culto ou destinados ao culto."
+   }
+  },
+  {
+   "id": "TL-H214-A67",
+   "no": 67,
+   "noLabel": {
+    "pt": "Artigo 67.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Divulgação do local de votação"
+   },
+   "text": {
+    "pt": "1.   O eleitor exerce o respetivo direito de voto num dos centros de votação instalados na unidade geográfica de recenseamento eleitoral em que se encontre inscrito.\n2.    Para efeitos do previsto no número anterior, o STAE divulga a lista dos eleitores por cada uma das unidades geográficas de recenseamento eleitoral.\n3.    A divulgação deve decorrer durante o período de sete dias, a contar da data da publicação prevista no n.º 1 do artigo\n64.º."
+   }
+  },
+  {
+   "id": "TL-H214-A68",
+   "no": 68,
+   "noLabel": {
+    "pt": "Artigo 68.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Apoio às atividades eleitorais"
+   },
+   "text": {
+    "pt": "1.   Cabe às administrações locais prestar todo o apoio logístico requerido pelos serviços locais do STAE, no decurso de todo o processo eleitoral, bem como desenvolver as diligências necessárias à mobilidade dos eleitores no dia da eleição.\n2.   Os funcionários que prestem apoio no âmbito das operações eleitorais são acreditados pelo STAE e devem exibir, em permanência, a credencial que lhes seja emitida."
+   }
+  },
+  {
+   "id": "TL-H214-A69",
+   "no": 69,
+   "noLabel": {
+    "pt": "Artigo 69.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Horário de funcionamento"
+   },
+   "text": {
+    "pt": "1.   No dia da eleição, os centros de votação abrem às 6 horas e encerram após o término da contagem dos votos, funcionando ininterruptamente.\n2.   No dia da eleição, as estações de voto abrem às 7 horas e encerram às 15 horas, funcionando ininterruptamente durante esse horário.\n3.   Depois da hora de encerramento apenas podem votar os eleitores que se encontrem em fila de espera para exercer o seu direito de voto, facto que é verificado pelos dois controladores de fila e comunicado ao secretário da estação de voto em apreço.\nSecção II\nOficiais eleitorais"
+   }
+  },
+  {
+   "id": "TL-H214-A70",
+   "no": 70,
+   "noLabel": {
+    "pt": "Artigo 70.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Definição"
+   },
+   "text": {
+    "pt": "São oficiais eleitorais os cidadãos nacionais que, tendo sido previamente selecionados pelo STAE, asseguram o funcionamento dos centros de votação e estações de voto durante o processo eleitoral."
+   }
+  },
+  {
+   "id": "TL-H214-A71",
+   "no": 71,
+   "noLabel": {
+    "pt": "Artigo 71.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Processo de designação"
+   },
+   "text": {
+    "pt": "O processo de designação dos oficiais eleitorais observa a tramitação que for estabelecida pelo regulamento especificamente aprovado para o efeito pela Comissão Nacional de Eleições, sob proposta do STAE."
+   }
+  },
+  {
+   "id": "TL-H214-A72",
+   "no": 72,
+   "noLabel": {
+    "pt": "Artigo 72.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Requisitos para a seleção dos oficiais eleitorais"
+   },
+   "text": {
+    "pt": "1.   Só poderão desempenhar as funções de oficial eleitoral as pessoas que cumulativamente preencham os seguintes requisitos:\na) Tenham cidadania timorense;\nb) Saibam ler e escrever;\nc) Estejam inscritos no recenseamento eleitoral.\n2.  Os oficiais eleitorais que desempenhem as funções de Presidente de Centro de Votação ou de Secretário da Estação de Voto devem possuir a escolaridade obrigatória.\n3.  Os oficiais eleitorais exercem, preferencialmente, as respetivas funções nas estações de voto e centros de votação localizados na unidade geográfica de recenseamento eleitoral em que se encontrem inscritos.\n4.  Ninguém pode ser obrigado a exercer funções de oficial eleitoral contra sua livre e expressa vontade.\n5.  Os cidadãos pré-selecionados, com vista ao exercício de funções de oficial eleitoral, serão submetidos a prévia formação ministrada pelo STAE."
+   }
+  },
+  {
+   "id": "TL-H214-A73",
+   "no": 73,
+   "noLabel": {
+    "pt": "Artigo 73.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Formação dos oficiais eleitorais"
+   },
+   "text": {
+    "pt": "1.    A formação dos oficiais eleitorais, referida no artigo anterior, será ministrada nos termos a definir pelo STAE, sob a supervisão da Comissão Nacional de Eleições.\n2.   Os representantes e os fiscais das candidaturas, bem como os observadores credenciados para o efeito, poderão, de igual modo, acompanhar e observar a formação sem que lhes assista, todavia, qualquer direito de intervenção.\n3.   Concluída a formação, o STAE envia à Comissão Nacional de Eleições a relação completa dos oficiais eleitorais considerados aptos para o desempenho das respetivas funções e afixa Aviso com essa informação na porta do seu edifício sede, bem como nas correspondentes delegações territoriais.\n4.  Os oficiais eleitorais não poderão iniciar as respetivas funções sem assinarem uma declaração de compromisso nos termos da qual assumem o compromisso de guardar sigilo em relação aos factos, informações e procedimentos eleitorais de que venham a tomar conhecimento no exercício das suas funções e de não celebrarem quaisquer contratos que os coloquem em situação de incompatibilidade e conflito de interesses.\n5.    A declaração referida no número anterior é elaborada pelo STAE e vincula o oficial eleitoral até à conclusão do processo eleitoral em questão.\n6.   Os oficiais eleitorais desempenham as respetivas funções em regime contratual de prestação de serviços."
+   }
+  },
+  {
+   "id": "TL-H214-A74",
+   "no": 74,
+   "noLabel": {
+    "pt": "Artigo 74.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Direitos e deveres dos oficiais eleitorais"
+   },
+   "text": {
+    "pt": "1.  No dia da eleição e enquanto durar a sua atividade, as funções dos oficiais eleitorais prevalecem sobre quaisquer outras.\n2.   No exercício das suas funções, os oficiais eleitorais estão vinculados ao cumprimento dos seguintes deveres:\na) Frequentar as ações de formação ministradas pelo STAE;\nb) Manter um comportamento de neutralidade e imparcialidade em relação a todas as candidaturas;\nc) Garantir o sigilo quanto a todas as informações de que venham a ter conhecimento no exercício das suas funções;\nd) Executar, com diligência, as suas tarefas até à conclusão do processo de votação e apuramento dos resultados.\n3.   O incumprimento de deveres legais ou contratuais pelos oficiais eleitorais implica a sua responsabilização, nos termos da lei penal e civil."
+   }
+  },
+  {
+   "id": "TL-H214-A75",
+   "no": 75,
+   "noLabel": {
+    "pt": "Artigo 75.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Incompatibilidades"
+   },
+   "text": {
+    "pt": "Não podem ser designados oficiais eleitorais:\na)   O Presidente da República;\nb)  Os Deputados;\nc)   Os membros do Governo;\nd)  Os funcionários públicos;\ne)  Os membros das FALINTIL - Forças de Defesa de Timor- Leste, doravante designadas por F-FDTL, e da Polícia Nacional de Timor-Leste, doravante designada por PNTL;\nf)   Os magistrados judiciais e do Ministério Público;\ng)   As autoridades religiosas;\nh)   Os membros da Comissão Nacional de Eleições;\n(i)    O Provedor de Direitos Humanos e Justiça e os Provedores- Adjuntos;\nj)   Os candidatos às eleições;\nk)   Os fiscais das candidaturas;\nl)   Os dirigentes dos partidos políticos."
+   }
+  },
+  {
+   "id": "TL-H214-A76",
+   "no": 76,
+   "noLabel": {
+    "pt": "Artigo 76.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Oficiais eleitorais"
+   },
+   "text": {
+    "pt": "1.   Cada centro de votação é dirigido por um presidente, que responde pelo centro de votação e correspondentes estações de voto.\n2.   Cada estação de voto é composta por:\na) Um secretário, responsável pela estação de voto, que coordena os trabalhos dos demais oficiais eleitorais da respetiva estação;\nb) Quatro oficiais verificadores de identificação;\nc) Um oficial controlador do boletim de voto;\nd) Um oficial controlador da urna eleitoral;\ne) Um oficial controlador para aplicação da tinta indelével; f) Dois oficiais controladores de fila.\n3.   A estação de voto exige um mínimo de cinco oficiais eleitorais para funcionar."
+   }
+  },
+  {
+   "id": "TL-H214-A77",
+   "no": 77,
+   "noLabel": {
+    "pt": "Artigo 77.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Presidente do centro de votação"
+   },
+   "text": {
+    "pt": "Compete ao presidente do centro de votação:\na)   Assegurar o bom funcionamento do centro de votação e correspondentes estações de voto, nos termos da lei, dos regulamentos e dos códigos de conduta em vigor;\nb)   Fazer uso do voto de qualidade de que dispõe nas decisões ou deliberações que os oficiais eleitorais tenham que tomar sempre que se verifique um empate na votação;\nc)  Aferir se estão reunidas as condições necessárias para retomar as operações eleitorais que tenham sido interrompidas por ocorrência anormal, calamidade natural ou perturbação da ordem pública;\nd)   Requisitar a presença das forças de manutenção da ordem pública e suspender as operações eleitorais em caso de tumultos, agressões ou violência, que venham a verificarse, quer no local do centro de votação quer nas imediações daquele;\ne)   Mandar retirar as forças de manutenção da ordem pública quando a sua presença já não se justifique;\nf)    Mandar afixar as listas de candidatos admitidos à eleição na entrada de cada estação de voto;\ng)   Dirigir a contagem de votos no centro de votação;\nh)   Assinar a ata com os resultados da contagem dos votos no centro de votação;\n(i)   Organizar os fiscais das candidaturas que assinarão a ata do processo eleitoral;\nj)  Encaminhar as urnas para a assembleia de apuramento municipal;\nk)  Desempenhar as demais funções que lhe são atribuídas por lei ou regulamento."
+   }
+  },
+  {
+   "id": "TL-H214-A78",
+   "no": 78,
+   "noLabel": {
+    "pt": "Artigo 78.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Secretário da estação de voto"
+   },
+   "text": {
+    "pt": "Compete ao secretário da estação de voto:\na)  Declarar aberta a estação de voto e verificar a identidade e as credenciais dos oficiais eleitorais, dos fiscais das candidaturas, dos observadores e dos profissionais dos órgãos de comunicação social;\nb)   Dirigir o processo de verificação das cabines de voto e dos documentos de trabalho da estação de voto;\nc)   Mostrar as urnas vazias aos oficiais da mesa, aos fiscais das candidaturas, aos observadores, solicitando, logo de seguida, a um dos oficiais verificadores de identificação e ao oficial controlador do boletim de voto que procedam à selagem das urnas, registando-se, em ata, os números dos selos correspondentes;\nd)   Afixar na estação de voto, em local visível, o edital com a identificação dos oficiais eleitorais que nesta exerçam funções;\ne)   Garantir a liberdade de voto de todos os eleitores;\nf)   Garantir a manutenção da ordem na estação de voto de modo a assegurar o bom funcionamento das operações eleitorais;\ng)  Mandar sair da estação de voto os cidadãos que ali não possam votar ou os que já tenham votado;\nh)  Não admitir na estação de voto os eleitores que se apresentem manifestamente alcoolizados ou sob o efeito de estupefacientes ou que sejam portadores de arma ou qualquer tipo de objeto contundente;\n(i)    Proibir qualquer tipo de propaganda dentro da estação de voto e num raio de cem metros relativamente ao local de funcionamento da estação de voto;\nj)    Autorizar, a pedido do eleitor, a entrega de novo boletim de voto porque este se enganou no seu preenchimento ou, por inadvertência, o deteriorou, devendo a ocorrência ser registada na respetiva ata;\nk)   Carimbar com a palavra cancelado o boletim de voto que foi devolvido pelo eleitor que haja solicitado novo boletim nos termos da alínea anterior, assinando-o e guardando-o no envelope respetivo;\nl)    Prestar os esclarecimentos necessários, a pedido do eleitor e na presença dos oficiais da mesa, dos fiscais das candidaturas e dos observadores eleitorais, acerca do processo de votação, sem contudo influenciar a opção de voto dos presentes;\nm)  Perguntar aos fiscais das candidaturas se têm reclamações e recebê-las, assim como os protestos a que haja lugar;\nn)   Assinar, em conjunto com todos os oficiais da estação de voto, os protestos referidos na alínea anterior;\no)   Desempenhar as demais funções que lhe são atribuídas por lei ou regulamento."
+   }
+  },
+  {
+   "id": "TL-H214-A79",
+   "no": 79,
+   "noLabel": {
+    "pt": "Artigo 79.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Oficial verificador de identificação"
+   },
+   "text": {
+    "pt": "Compete ao oficial verificador de identificação:\na)  Identificar o eleitor através do exame do cartão de eleitor atualizado ou, na ausência deste, do bilhete de identidade ou do passaporte timorense, igualmente atualizados;\nb)  Verificar se o eleitor cumpre o requisito legalmente exigido de idade mínima de dezassete anos feitos até ao dia da eleição;\nc)    Inspecionar as mãos do eleitor de modo a garantir que este ainda não votou para a eleição em causa;\nd)   Examinar se o cartão de eleitor está atualizado e se o nome do eleitor consta da lista de eleitores do suco onde o eleitor pretende votar;\ne)   Informar o oficial controlador do boletim de voto se o eleitor tem direito a que lhe seja entregue o boletim de voto;\nf)   Desempenhar as demais funções que lhe são atribuídas por lei ou regulamento."
+   }
+  },
+  {
+   "id": "TL-H214-A80",
+   "no": 80,
+   "noLabel": {
+    "pt": "Artigo 80.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Oficial controlador do boletim de voto"
+   },
+   "text": {
+    "pt": "Compete ao oficial controlador do boletim de voto:\na)   Carimbar e assinar o verso do boletim de voto;\nb)   Entregar o boletim de voto ao eleitor;\nc)   Indicar e encaminhar o eleitor para a cabine de voto;\nd)   Entregar ao eleitor novo boletim de voto, a pedido deste, em caso de deterioração ou erro no seu preenchimento, depois de devidamente autorizado pelo secretário da estação de voto;\ne)    Informar o secretário da estação de voto sobre a inutilização do primeiro boletim de voto, conforme descrito na alínea anterior;\nf)   Desempenhar as demais funções que lhe são atribuídas por lei ou regulamento."
+   }
+  },
+  {
+   "id": "TL-H214-A81",
+   "no": 81,
+   "noLabel": {
+    "pt": "Artigo 81.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Oficial controlador da urna eleitoral"
+   },
+   "text": {
+    "pt": "Compete ao oficial controlador da urna eleitoral:\na)   Assegurar a integridade e segurança da urna eleitoral;\nb)   Certificar-se de que o eleitor coloca apenas um boletim de voto na urna eleitoral;\nc)  Desempenhar as demais funções que lhe são atribuídas por lei ou regulamento."
+   }
+  },
+  {
+   "id": "TL-H214-A82",
+   "no": 82,
+   "noLabel": {
+    "pt": "Artigo 82.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Oficial controlador da aplicação de tinta indelével"
+   },
+   "text": {
+    "pt": "Compete ao oficial controlador da aplicação de tinta indelével:\na)   Marcar com tinta indelével o dedo indicador da mão direita do eleitor, até a altura da cutícula, depois de este ter exercido o seu direito de voto, certificando-se que a tinta indelével secou;\nb)  Não sendo possível marcar o indicador da mão direita, o oficial escolhe outro dedo da mesma mão e, na sua falta, da mão esquerda;\nc)   Pedir ao eleitor que abandone a estação de voto depois de ter votado;\nd)  Desempenhar as demais funções que lhe são atribuídas por lei ou regulamento."
+   }
+  },
+  {
+   "id": "TL-H214-A83",
+   "no": 83,
+   "noLabel": {
+    "pt": "Artigo 83.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Oficial controlador de fila"
+   },
+   "text": {
+    "pt": "Compete ao oficial controlador de fila:\na)   Promover a organização da fila de eleitores que se encontram à espera de votar de modo a que apenas as pessoas autorizadas entrem na estação de voto;\nb)  Pedir ao eleitor que tenha o cartão de eleitor atualizado à vista, ou documento que o substitua, com o propósito de o exibir junto do oficial verificador de identificação;\nc)   Verificar às 15 horas do dia da eleição qual o último eleitor que se encontra na fila de acesso à estação de voto, de modo a que, nos termos da lei, não se admita a votação de outrem para além daquele último;\nd)  Desempenhar as demais funções que lhe são atribuídas por lei ou regulamento."
+   }
+  },
+  {
+   "id": "TL-H214-A84",
+   "no": 84,
+   "noLabel": {
+    "pt": "Artigo 84.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Substituição dos oficiais eleitorais"
+   },
+   "text": {
+    "pt": "1.  Se no dia da eleição e até trinta minutos antes da hora marcada para a abertura dos trabalhos, na estação de voto não estiverem presentes os oficiais eleitorais indispensáveis ao regular funcionamento daquela, o presidente do respetivo centro de votação deverá designar substitutos de entre os eleitores recenseados no suco, onde funcione o centro de votação, que tenham reconhecida idoneidade e preencham os requisitos previstos no n.º 1 do artigo 72.º.\n2.   No decurso dos trabalhos eleitorais, se se verificar a falta de um dos oficiais eleitorais, o presidente do centro de votação pode substituí-lo por qualquer eleitor de reconhecida idoneidade que aí se encontre, mediante a concordância da maioria dos oficiais eleitorais e fiscais das candidaturas presentes.\n3.   Na ausência do presidente do centro de votação, este é substituído pelo secretário da primeira estação de voto do respetivo centro de votação que, por sua vez, é substituído por um dos verificadores de identificação da respetiva estação de voto.\n4.     Após a substituição, considera-se sem efeito a designação dos oficiais eleitorais faltosos, devendo o presidente do centro de votação comunicar os seus nomes ao STAE.\n5.   Todas as substituições devem constar expressamente da ata da estação de voto.\nSecção III\nFiscais das candidaturas, observadores eleitorais e órgãos de comunicação social"
+   }
+  },
+  {
+   "id": "TL-H214-A85",
+   "no": 85,
+   "noLabel": {
+    "pt": "Artigo 85.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Fiscais das candidaturas, partidos políticos e coligações partidárias"
+   },
+   "text": {
+    "pt": "1.   São fiscais das candidaturas, para efeitos do presente diploma, os cidadãos eleitores indicados pelos representantes daquelas ao ato eleitoral, que se encontrem devidamente credenciados, com o propósito de acompanharem o processo eleitoral em curso.\n2.  Cada candidatura pode requerer ao STAE, através do respetivo representante, a acreditação de um fiscal por cada estação de voto, para acompanhar as operações de votação, e de um fiscal para acompanhar as operações de contagem e apuramento dos centros de votação e de um fiscal para acompanhar o apuramento municipal.\n3.  Por cada fiscal indicado, as candidaturas, através dos respetivos representantes, poderão indicar um suplente.\n4.  Os fiscais das candidaturas devem:\na) Representar a candidatura, partido político ou coligação partidária que os selecionou, no centro de votação indicado na sua credencial, de acordo com o código que lhes foi atribuído;\nb) Assinar as atas das operações eleitorais, sendo que apenas se admite a assinatura de um fiscal por cada candidatura;\nc) Apresentar protesto, por escrito, em caso de ocorrência de situações que considere irregulares.\n5.   Os fiscais das candidaturas só poderão exercer as respetivas funções nas estações de voto, centros de votação ou assembleias de apuramento municipal para onde tenham sido designados e exibindo, permanentemente, a credencial emitida pelo STAE.\n6.   Os fiscais das candidaturas gozam das imunidades atribuídas aos oficiais eleitorais, enquanto se encontrarem no exercício das respetivas funções.\n7.   Os fiscais das candidaturas beneficiam da prerrogativa de votar na estação de voto em que se encontrem a desempenhar funções, desde que se encontrem recenseados numa das unidades geográficas de recenseamento eleitoral localizadas no círculo eleitoral."
+   }
+  },
+  {
+   "id": "TL-H214-A86",
+   "no": 86,
+   "noLabel": {
+    "pt": "Artigo 86.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Observador eleitoral"
+   },
+   "text": {
+    "pt": "1.   É observador eleitoral, para efeitos do presente diploma, a pessoa singular que represente uma organização nacional ou internacional, de cariz não partidário, e que requeira o seu registo enquanto tal ao STAE e por este seja aceite para efeitos de acompanhamento do processo eleitoral em curso.\n2.  Não poderão ser acreditados como observadores os cidadãos que hajam sido condenados pela prática de crime eleitoral nos últimos cinco anos ou que em atos eleitorais anteriores não hajam cumprido o código de conduta dos observadores eleitorais.\n3.   Durante o exercício das respetivas funções os observadores eleitorais deverão exibir as respetivas credenciais, emitidas pelo STAE.\n4.   O STAE assegura a realização de, pelo menos, uma ação de formação destinada aos observadores que hajam sido acreditados.\n5.   Os observadores eleitorais nacionais podem votar numa estação de voto do município em que se encontrem a desempenhar funções, desde que se encontrem recenseados numa das unidades geográficas de recenseamento eleitoral localizadas no respetivo círculo eleitoral."
+   }
+  },
+  {
+   "id": "TL-H214-A87",
+   "no": 87,
+   "noLabel": {
+    "pt": "Artigo 87.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Órgãos de comunicação social"
+   },
+   "text": {
+    "pt": "1.    São órgãos de comunicação social, para efeitos da presente lei, a imprensa escrita, as estações de radiodifusão e de televisão, públicas ou privadas, credenciados pelo STAE, que se proponham realizar a cobertura noticiosa do processo eleitoral em Timor-Leste.\n2.    Sem prejuízo do que se estabelece no número seguinte, só podem ser acreditados como profissionais de comunicação social as pessoas que tenham carteira profissional de jornalista ou tenham contrato de trabalho com órgão de comunicação social.\n3.  Não poderão ser acreditados, como profissionais da comunicação social, os profissionais que trabalhem para publicações doutrinárias ou quaisquer meios de comunicação ou difusão que sejam propriedade de partidos políticos, coligações ou grupos de cidadãos proponentes, desde que tal facto conste expressamente do respetivo estatuto editorial.\n4.    Os profissionais de comunicação social que desejem realizar a cobertura noticiosa das operações eleitorais deverão manter, sempre, visível a credencial emitida pelo STAE.\n5.  Os profissionais de comunicação social acreditados nos termos do presente artigo podem votar numa estação de voto do município em que se encontrem a desempenhar funções, desde que se encontrem recenseados numa das unidades geográficas de recenseamento eleitoral localizadas no respetivo círculo eleitoral."
+   }
+  },
+  {
+   "id": "TL-H214-A88",
+   "no": 88,
+   "noLabel": {
+    "pt": "Artigo 88.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Credenciação e formação"
+   },
+   "text": {
+    "pt": "1.    Os fiscais das candidaturas, partidos políticos e coligações partidárias, os observadores eleitorais e os órgãos de comunicação social devem credenciar-se junto do STAE.\n2.   Da decisão de não acreditação cabe recurso para a Comissão Nacional de Eleições, a interpor no prazo de vinte e quatro horas, contadas da notificação de indeferimento do requerimento de acreditação, a qual decide no prazo de vinte e quatro horas.\n3.    O STAE assegura a realização de, pelo menos, uma ação de formação destinada aos fiscais de candidatura, partidos políticos e coligações, observadores e profissionais de comunicação social, sob a supervisão da Comissão Nacional de Eleições.\n4.  Para efeitos do previsto no n.º 1 do presente artigo, os respetivos regulamentos e códigos de conduta são propostos pelo STAE e aprovados por decreto do Governo.\nSecção IV\nBoletim de voto"
+   }
+  },
+  {
+   "id": "TL-H214-A89",
+   "no": 89,
+   "noLabel": {
+    "pt": "Artigo 89.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Boletins de voto"
+   },
+   "text": {
+    "pt": "1.  Os boletins de voto são impressos em papel liso e não transparente.\n2.    Os boletins de voto são de forma retangular, com a dimensão apropriada para neles caber a indicação de todas as listas submetidas à votação."
+   }
+  },
+  {
+   "id": "TL-H214-A90",
+   "no": 90,
+   "noLabel": {
+    "pt": "Artigo 90.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Características dos boletins de voto para a assembleia municipal"
+   },
+   "text": {
+    "pt": "1.   Em cada boletim de voto relativo ao círculo eleitoral respetivo consta o símbolo gráfico da assembleia municipal e são dispostos horizontalmente, em colunas verticais correspondentes, uns abaixo dos outros, pela ordem resultante do sorteio, os elementos identificativos das diversas candidaturas.\n2.   São elementos identificativos as denominações, as siglas e os símbolos das entidades proponentes das candidaturas concorrentes, que reproduzem os constantes do registo existente no Supremo Tribunal de Justiça.\n3.    Cada símbolo ocupa no boletim de voto a área definida por decreto do Governo, respeitando, em qualquer caso, as proporções dos registos no Supremo Tribunal de Justiça.\n4.    Em caso de coligação, o símbolo de cada um dos partidos que a integra ocupa no boletim de voto a dimensão definida por decreto do Governo, salvaguardando-se que todos os símbolos ocupem áreas idênticas nos boletins de voto.\n5.   Em cada coluna, na linha correspondente a cada lista, figura um quadrado em branco destinado a ser assinalado ou perfurado com a escolha do eleitor."
+   }
+  },
+  {
+   "id": "TL-H214-A91",
+   "no": 91,
+   "noLabel": {
+    "pt": "Artigo 91.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Características dos boletins de voto para Presidente do"
+   },
+   "text": {
+    "pt": "Município e Vice-Presidente do Município\n1.    Em cada boletim de voto relativo ao círculo eleitoral respetivo consta o símbolo gráfico do Presidente do Município e Vice-Presidente do Município e são dispostos horizontalmente, em colunas verticais correspondentes, uns abaixo dos outros, pela ordem resultante do sorteio, os elementos identificativos das diversas candidaturas.\n2.  São elementos identificativos o nome do candidato e a respetiva fotografia.\n3.  Cada fotografia ou símbolo gráfico ocupa no boletim de voto a área definida por decreto do Governo.\n4.   Em cada coluna, na linha correspondente a cada lista, figura um quadrado em branco destinado a ser perfurado com a escolha do eleitor."
+   }
+  },
+  {
+   "id": "TL-H214-A92",
+   "no": 92,
+   "noLabel": {
+    "pt": "Artigo 92.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Composição e impressão"
+   },
+   "text": {
+    "pt": "1.  Os modelos dos boletins de voto são aprovados pela Comissão Nacional de Eleições, mediante proposta do STAE.\n2.    A impressão dos boletins de voto e a aquisição do restante material destinado ao ato eleitoral são encargo do STAE.\n3.   O Supremo Tribunal de Justiça remete ao STAE e à Comissão Nacional de Eleições, até ao sexagésimo dia anterior ao da realização da eleição:\na) As denominações, as siglas, os símbolos, e respetivo número de ordenação no sorteio das candidaturas, das entidades proponentes das candidaturas admitidas à Assembleia Municipal destinadas à produção do boletim de voto para a eleição deste órgão;\nb) O nome e as fotografias dos candidatos admitidos à eleição para Presidente do Município e Vice-Presidente do Município, e respetivo número de ordenação no sorteio das candidaturas, destinadas à produção do boletim de voto para a eleição destes órgãos."
+   }
+  },
+  {
+   "id": "TL-H214-A93",
+   "no": 93,
+   "noLabel": {
+    "pt": "Artigo 93.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Exposição e reclamação dos boletins de voto"
+   },
+   "text": {
+    "pt": "1.   Depois de aprovadas pela Comissão Nacional de Eleições, sob proposta do STAE, as provas tipográficas dos boletins de voto devem ser expostas na entrada dos edifícios dos serviços nacionais e desconcentrados daqueles, pelo período de vinte e quatro horas.\n2.  Durante o período de exposição, os representantes das candidaturas podem reclamar das provas tipográficas dos boletins de voto, com fundamento no incumprimento do disposto nos artigos 22.º, 23.º, 35.º, 36.º, 90.º e 91.º da presente lei.\n3.    A Comissão Nacional de Eleições decide, em vinte e quatro horas, as reclamações que lhe sejam submetidas nos termos previstos no número anterior, cabendo recurso da decisão da mesma, para o Supremo Tribunal de Justiça, no prazo de vinte e quatro horas, o qual é decidido em igual prazo."
+   }
+  },
+  {
+   "id": "TL-H214-A94",
+   "no": 94,
+   "noLabel": {
+    "pt": "Artigo 94.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORGANIZAÇÃO DO PROCESSO DE VOTAÇÃO Secção I Centros de Votação"
+   },
+   "heading": {
+    "pt": "Distribuição dos boletins de voto"
+   },
+   "text": {
+    "pt": "1.  Os boletins de voto são distribuídos pelos serviços do STAE, de acordo com o calendário das operações eleitorais.\n2.    São remetidos às delegações territoriais do STAE, em urna eleitoral selada, boletins de voto em número igual ao dos correspondentes eleitores mais 10%.\n3.  As operações de distribuição dos boletins de voto são supervisionadas pela Comissão Nacional de Eleições e a respetiva segurança será garantida pela Polícia Nacional de Timor-Leste."
+   }
+  },
+  {
+   "id": "TL-H214-A95",
+   "no": 95,
+   "noLabel": {
+    "pt": "Artigo 95.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PROCESSO DE VOTAÇÃO Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Direito e dever de votar"
+   },
+   "text": {
+    "pt": "1.  Votar é um direito e um dever cívico de cada cidadão no pleno gozo dos seus direitos civis e políticos.\n2.  Os responsáveis pelas empresas ou serviços do setor público ou privado, em atividade no dia da eleição, devem conceder aos respetivos trabalhadores dispensa do serviço, sem prejuízo do seu direito à retribuição.\n3.   Os funcionários e agentes do Estado, os agentes da Polícia Nacional de Timor-Leste e os membros das F-FDTL que prestem serviço no dia das eleições, no âmbito do processo eleitoral, exercem o seu direito de voto na área geográfica em que se encontram a trabalhar.\n4.   Para efeitos do número anterior, as entidades empregadoras dos funcionários que prestam serviço no dia das eleições devem apresentar ao STAE, até quinze dias antes da data designada para a eleição, uma relação completa com os nomes dos funcionários, as fotocópias dos respetivos cartões de eleitor e a menção dos sucos onde os mesmos prestarão serviço.\n5.   Os trabalhadores ou prestadores de serviços que assegurem apoio operacional às missões de observação eleitoral gozam do direito previsto no n.º 3, desde que para o efeito o chefe da missão de observação cumpra o disposto no número anterior.\n6.  Os eleitores internados em hospital ou estabelecimento prisional exercem o seu direito de voto por meio de processo de votação ambulante, conforme regulamento específico a aprovar por decreto do Governo."
+   }
+  },
+  {
+   "id": "TL-H214-A96",
+   "no": 96,
+   "noLabel": {
+    "pt": "Artigo 96.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PROCESSO DE VOTAÇÃO Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Liberdade e segredo de voto"
+   },
+   "text": {
+    "pt": "1.   O voto é exercido livremente e ninguém pode ser obrigado a revelar, dentro ou fora do centro de votação ou estação de voto, em quem votou ou em quem vai votar.\n2.    A cabine de voto deve ser posicionada de modo a que se garanta a confidencialidade de voto do eleitor.\n3.    É proibida a captação de imagens do interior das cabines de voto enquanto o eleitor estiver a perfurar ou a assinalar a sua escolha no respetivo boletim de voto.\nSecção II\nFuncionamento dos centros de votação e das estações de voto"
+   }
+  },
+  {
+   "id": "TL-H214-A97",
+   "no": 97,
+   "noLabel": {
+    "pt": "Artigo 97.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PROCESSO DE VOTAÇÃO Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Abertura dos centros de votação e das estações de voto"
+   },
+   "text": {
+    "pt": "1.   Os centros de votação abrem às 6 horas, e as estações de voto às 7 horas, do dia marcado para a realização da eleição, encontrando-se presente a maioria dos oficiais eleitorais.\n2.    Sem prejuízo do disposto quanto às operações preliminares, serão nulas quaisquer operações eleitorais realizadas antes da hora de abertura dos centros de votação e das estações de voto e sem que se encontre presente a maioria dos oficiais eleitorais.\n3.   Sem prejuízo do disposto no n.º 2 do artigo 106.º, as estações de voto encerram às 15 horas."
+   }
+  },
+  {
+   "id": "TL-H214-A98",
+   "no": 98,
+   "noLabel": {
+    "pt": "Artigo 98.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PROCESSO DE VOTAÇÃO Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Continuidade das operações eleitorais"
+   },
+   "text": {
+    "pt": "1.  Sem prejuízo do disposto no artigo seguinte, a votação processa-se sem interrupção e de acordo com o horário de funcionamento estabelecido na presente lei.\n2.   Durante o período de votação, os membros da PNTL, das F-FDTL, e dos serviços de inteligência não poderão encontrar-se no interior das estações de voto, salvo se a votação houver sido interrompida por razões de segurança ou grave perturbação da ordem pública.\n3.  Os membros das forças identificadas no número anterior deverão manter-se a uma distância de, pelo menos, vinte e cinco metros dos locais onde decorram votações."
+   }
+  },
+  {
+   "id": "TL-H214-A99",
+   "no": 99,
+   "noLabel": {
+    "pt": "Artigo 99.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PROCESSO DE VOTAÇÃO Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Interrupção das operações eleitorais"
+   },
+   "text": {
+    "pt": "1.   As operações eleitorais só podem ser interrompidas, sob pena de nulidade e repetição da votação, nos seguintes casos:\na) Ocorrência de grave perturbação da ordem pública que afete a liberdade do voto e o regular funcionamento dos trabalhos eleitorais no centro de votação e na estação de voto;\nb) Ocorrência de grave calamidade.\n2.    As operações só são retomadas depois do presidente do centro de votação verificar a existência de condições que garantam a boa prossecução do processo de votação.\n3.   Sempre que os membros das forças identificadas no n.º 2 do artigo anterior se encontrem presentes em serviço no interior das estações de voto, as operações de votação são interrompidas, documentando-se esse facto na ata da estação de voto.\nSecção III\nOperações preliminares à votação"
+   }
+  },
+  {
+   "id": "TL-H214-A100",
+   "no": 100,
+   "noLabel": {
+    "pt": "Artigo 100.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PROCESSO DE VOTAÇÃO Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Elementos de trabalho da estação de voto"
+   },
+   "text": {
+    "pt": "O STAE assegura em cada estação de voto o fornecimento dos materiais eleitorais necessários, designadamente os constantes do Anexo I à presente lei, da qual faz parte integrante."
+   }
+  },
+  {
+   "id": "TL-H214-A101",
+   "no": 101,
+   "noLabel": {
+    "pt": "Artigo 101.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PROCESSO DE VOTAÇÃO Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Operações preliminares"
+   },
+   "text": {
+    "pt": "1.  Os oficiais eleitorais devem apresentar-se no local de funcionamento da estação de voto uma hora antes da prevista no n.º 1 do artigo 97.º, com vista a proceder à preparação de todo o material necessário à realização da eleição.\n2.   O secretário da estação de voto declara aberta a estação de voto e verifica a identidade e credenciais dos restantes oficiais eleitorais, fiscais das candidaturas e observadores eleitorais.\n3.  Cabe também ao secretário da estação de voto afixar em local visível o edital com a identificação dos oficiais eleitorais que exercem funções na estação de voto e da relação de candidaturas admitidas.\n4.   O secretário da estação de voto, acompanhado dos oficiais eleitorais que nesta exercem funções, procedem à verificação das cabines de voto e dos documentos de trabalho da estação de voto, na presença dos fiscais das candidaturas e dos observadores eleitorais, quando faltarem vinte minutos para a abertura dos centros de votação e estações de voto.\n5.   De seguida, o secretário da estação de voto deve mostrar as urnas vazias aos oficiais da mesa, aos fiscais das candidaturas e aos observadores presentes, após o que solicita a um dos oficiais verificadores de identificação e ao oficial controlador do boletim de voto que procedam à selagem da urna, lendo em voz alta os números constantes nos selos aplicados na urna e procedendo ao seu registo na ata das operações eleitorais.\n6.   Os oficiais eleitorais exercem o respetivo direito de voto dez minutos antes da abertura da estação de voto, na presença dos fiscais das candidaturas, observadores eleitorais e profissionais da comunicação social que se encontrem presentes.\nSecção IV\nOperações de votação"
+   }
+  },
+  {
+   "id": "TL-H214-A102",
+   "no": 102,
+   "noLabel": {
+    "pt": "Artigo 102.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PROCESSO DE VOTAÇÃO Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Ordem da votação"
+   },
+   "text": {
+    "pt": "1.  Os eleitores votam pela ordem de chegada ao centro de votação ou estação de voto dispondo-se em fila.\n2.  O secretário da estação de voto deve conceder prioridade de votação aos eleitores encarregues dos serviços eleitorais, nomeadamente fiscais e observadores eleitorais, do serviço de proteção e segurança do centro de votação, aos notoriamente doentes e, ainda, aos fisicamente incapacitados e grávidas."
+   }
+  },
+  {
+   "id": "TL-H214-A103",
+   "no": 103,
+   "noLabel": {
+    "pt": "Artigo 103.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PROCESSO DE VOTAÇÃO Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Procedimento da votação"
+   },
+   "text": {
+    "pt": "1.  O eleitor começa por identificar-se com o cartão de eleitor atualizado, que é examinado por um dos oficiais verificadores de identificação a fim de confirmar se o mesmo consta da lista de eleitores daquela área geográfica de recenseamento.\n2.   Caso o eleitor não disponha do cartão de eleitor no dia da eleição, pode exercer o direito de voto apresentando o bilhete de identidade da República Democrática de Timor- Leste ou passaporte timorense, desde que os seus dados constem na lista de eleitores daquela área geográfica de recenseamento.\n3.   Uma vez identificado na lista de eleitores, o nome do eleitor é traçado, facto que indicará que aquele eleitor já cumpriu o seu direito de voto.\n4.    Caso o eleitor não conste na lista de eleitores do centro de votação onde pretende votar, mas seja portador de cartão de eleitor atualizado e cuja inscrição correspondente à área geográfica de recenseamento eleitoral onde aquele se encontra instalado, este é incluído na “Lista Adicional de Eleitores”, e na qual passam a registar-se os seguintes dados:\na) Nome do eleitor em questão;\nb) Número do cartão de eleitor;\nc) Morada completa;\nd) Assinatura do eleitor.\n5.  O oficial verificador de identificação afere, também, se o eleitor tem dezassete anos completos até à data da eleição e se as mãos daquele não apresentam marcas de tinta indelével, confirmando deste modo que o mesmo ainda não votou.\n6.   De seguida é entregue ao eleitor o boletim de voto carimbado e assinado no verso pelo oficial controlador de boletim de voto.\n7.  Posteriormente o eleitor dirige-se à cabine de voto e aí exerce o seu direito, perfurando no boletim de voto o quadrado correspondente à candidatura escolhida, após o que deve dobrar o boletim de voto em quatro e dirigir-se à mesa onde se encontra a urna na qual depositará o boletim de voto.\n8.   Se o eleitor se enganar no preenchimento do boletim de voto ou se o deteriorar, pode pedir outro boletim ao oficial controlador de boletim de voto, devolvendo-lhe o primeiro exemplar, que é rubricado e cancelado pelo secretário da estação de voto, com a aposição do carimbo “Cancelado” na parte da frente do boletim.\n9.   Concluída a votação, o oficial controlador de aplicação de tinta indelével marca o dedo indicador da mão direita do eleitor, de modo a manchar a cutícula, para garantir que o eleitor exerce o direito de voto uma única vez.\n10.  Não sendo possível marcar o indicador da mão direita, o oficial escolhe outro dedo da mesma mão e, na sua falta, da mão esquerda.\n11. Depois de votar, o eleitor deve sair da estação de voto, exceto se pretender apresentar qualquer reclamação ou protesto.\n12. Os funcionários e agentes do Estado que prestem serviço no dia das eleições, no âmbito do processo eleitoral, exercem o seu direito de voto na área geográfica onde se encontram a prestar aquele serviço, desde que constem da lista de eleitores prevista no n.º 4 do artigo 95.º."
+   }
+  },
+  {
+   "id": "TL-H214-A104",
+   "no": 104,
+   "noLabel": {
+    "pt": "Artigo 104.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PROCESSO DE VOTAÇÃO Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Votação de eleitor com necessidades especiais"
+   },
+   "text": {
+    "pt": "Os cidadãos cegos, ou afetados por doença ou limitação física que os impeça de votarem sozinhos, podem ser acompanhados por outro cidadão eleitor, por si escolhido, que é obrigado a manter sigilo quanto ao sentido do voto."
+   }
+  },
+  {
+   "id": "TL-H214-A105",
+   "no": 105,
+   "noLabel": {
+    "pt": "Artigo 105.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PROCESSO DE VOTAÇÃO Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Dúvidas, reclamações e protestos"
+   },
+   "text": {
+    "pt": "1.  Qualquer eleitor ou fiscal de candidatura, no período de funcionamento da estação de voto, pode suscitar dúvidas sobre o decurso do processo eleitoral e apresentar reclamação ou protesto relativos às operações eleitorais.\n2.    As dúvidas, reclamações e protestos, apresentados durante a votação ou após o encerramento desta, são analisados imediatamente pelos oficiais eleitorais, podendo estes, caso se justifique, consultar o STAE.\n3.    As reclamações têm de ser objeto de deliberação dos oficiais eleitorais e aprovadas no mínimo por cinco deles.\n4.  As deliberações previstas no número anterior são comunicadas aos reclamantes que, se entenderem, podem recorrer da mesma para o Supremo Tribunal de Justiça."
+   }
+  },
+  {
+   "id": "TL-H214-A106",
+   "no": 106,
+   "noLabel": {
+    "pt": "Artigo 106.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PROCESSO DE VOTAÇÃO Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Encerramento da votação"
+   },
+   "text": {
+    "pt": "1.   A admissão de eleitores na fila para votar na estação de voto faz-se até às 15 horas.\n2.   Depois das 15 horas apenas poderão votar os eleitores que já se encontrem na fila da estação de voto.\n3.   O secretário da estação de voto declara encerrada a votação logo que tenham votado todos os eleitores inscritos ou, depois das 15 horas, assim que tenham votado todos os eleitores presentes na fila da estação de voto."
+   }
+  },
+  {
+   "id": "TL-H214-A107",
+   "no": 107,
+   "noLabel": {
+    "pt": "Artigo 107.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Início da contagem"
+   },
+   "text": {
+    "pt": "O centro de votação dá início às operações de contagem e de apuramento inicial dos resultados logo após o encerramento da votação."
+   }
+  },
+  {
+   "id": "TL-H214-A108",
+   "no": 108,
+   "noLabel": {
+    "pt": "Artigo 108.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Abertura das urnas"
+   },
+   "text": {
+    "pt": "1.   Depois de encerrada a votação e decididos os protestos e as reclamações, o secretário da estação de voto conta os boletins não utilizados e inutiliza-os carimbando-os com a expressão “não utilizado”.\n2.   O secretário da estação de voto, de igual modo, conta os boletins de voto cancelados e aqueles que hajam sido encontrados perdidos na estação de voto carimbando, estes últimos, com a expressão “abandonados”.\n3.    Contados os boletins de voto não utilizados e os boletins de voto cancelados, são anotados os totais na ata das operações da estação de voto e guardados no envelope de “boletins não utilizados” e no envelope de “boletins de votos cancelados”, respetivamente.\n4.    Cabe ao secretário da estação de voto proceder à contagem do número de eleitores assinalados na lista de eleitores do suco em que votaram, registando esse número na ata, a qual deverá indicar, ainda:\na) A identificação dos oficiais eleitorais que asseguraram as operações eleitorais na estação de voto;\nb) O número de protestos e reclamações apresentadas perante os oficiais eleitorais;\nc) O número de boletins de voto recebidos na estação de voto;\nd) O número de boletins de voto utilizados;\ne) O número de boletins de voto cancelados; f) O número de boletins de voto rejeitados;\ng) O número de boletins de voto abandonados;\nh) A indicação da ocorrência de eventuais incidentes, designadamente a suspensão das operações eleitorais e o horário em que a mesma se verificou; (i) O horário de abertura e de encerramento da estação de voto; j) A identidade dos fiscais das candidaturas que tenham desempenhado as respetivas funções na estação de voto;\nk) Os códigos dos selos das urnas de voto que serão enviadas para as operações de contagem de votos e da estação de voto.\n5.    A ata da estação de voto é assinada pelos oficiais eleitorais que na mesma hajam exercido as suas funções, bem como pelos fiscais de candidatura que tenham fiscalizado as operações de votação.\n6.  O secretário da estação de voto, auxiliado pelos demais oficiais eleitorais, transporta as urnas, a ata de funcionamento da estação de voto e o material referido nos números anteriores até ao local escolhido pelo presidente dentro do centro de votação para que se proceda à contagem dos votos e ao apuramento dos resultados.\n7.   Para efeitos do número anterior, o presidente do centro de votação deve escolher o lugar mais apropriado e espaçoso, dentro daquele centro, com vista a possibilitar que os fiscais das candidaturas, partidos políticos e coligações partidárias e os observadores eleitorais possam acompanhar os trabalhos e o apuramento dos resultados eleitorais.\n8.    Antes de abrir a urna, o presidente do centro de votação lê em voz alta o número dos selos de segurança e pede aos fiscais que verifiquem os números dos selos da urna.\n9.   A urna é aberta na presença dos oficiais eleitorais, fiscais das candidaturas, partidos políticos e coligações partidárias, observadores e demais cidadãos que ali estejam presentes."
+   }
+  },
+  {
+   "id": "TL-H214-A109",
+   "no": 109,
+   "noLabel": {
+    "pt": "Artigo 109.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Contagem dos votos"
+   },
+   "text": {
+    "pt": "1.    A contagem dos votos deve ser ininterrupta e obedece aos seguintes procedimentos:\na) Uma vez aberta a urna, o presidente do centro de votação retira os boletins da urna, desdobra-os, colocaos com o reverso para cima sobre a mesa, verifica se estão devidamente carimbados e assinados, conta e anota o respetivo número na ata;\nb) O presidente do centro de votação separa e conta os boletins que, encontrando-se no interior da urna eleitoral, não se encontram assinados ou carimbados pelo oficial controlador do boletim de voto, carimbandoos com a expressão “rejeitado” e introduzindo-os no envelope destinado a recolher os votos rejeitados;\nc) De seguida, o presidente do centro de votação mistura todos os boletins de estações de voto e separa-os em blocos de cinquenta;\nd) O presidente faz a leitura dos votos em voz alta, mostra cada voto aos presentes e separa por grupos os votos válidos por candidatura, os votos nulos, os votos em branco e os votos rejeitados;\ne) Contam-se, de seguida, os votos válidos por candidatura; f) As dúvidas e os protestos relativos à contagem são decididos por maioria de pelo menos seis oficiais eleitorais;\ng) Depois de decididas as dúvidas e os protestos, caso o reclamante não concorde com a decisão, tem o direito de apresentar reclamação, em formulário disponível na estação de voto, ficando com uma cópia do mesmo;\nh) Se forem apresentadas reclamações, os originais das mesmas são introduzidos, juntamente com os boletins de voto reclamados, no envelope de “boletins de voto reclamados”; (i) Concluída a contagem dos votos válidos contam-se os votos reclamados caso existam.\nSecção II\nApuramento inicial dos resultados"
+   }
+  },
+  {
+   "id": "TL-H214-A110",
+   "no": 110,
+   "noLabel": {
+    "pt": "Artigo 110.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Voto válido"
+   },
+   "text": {
+    "pt": "Considera-se válido o voto sempre que, no boletim, conste de forma clara e inequívoca a intenção do eleitor, sem prejuízo do que se estabelece quanto aos votos nulos."
+   }
+  },
+  {
+   "id": "TL-H214-A111",
+   "no": 111,
+   "noLabel": {
+    "pt": "Artigo 111.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Voto em branco"
+   },
+   "text": {
+    "pt": "1.  Considera-se voto em branco o correspondente a boletim de voto, introduzido na urna de voto, que não se encontre perfurado.\n2.  Os votos em branco serão carimbados com a expressão “votos em branco”, sendo contados e introduzidos no envelope destinado aos votos em branco."
+   }
+  },
+  {
+   "id": "TL-H214-A112",
+   "no": 112,
+   "noLabel": {
+    "pt": "Artigo 112.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Voto nulo"
+   },
+   "text": {
+    "pt": "1.   Voto nulo é aquele que corresponde a um boletim de voto no qual:\na) Tenha sido perfurado em mais do que um quadrado ou quando se verifiquem dúvidas sobre qual o quadrado perfurado ou assinalado;\nb) Tenha sido perfurado ou assinalado o quadrado correspondente a uma candidatura que tenha desistido das eleições;\nc) Tenha sido feito qualquer corte, desenho ou rasura ou tenha sido escrita qualquer palavra;\nd) Tenha sido feita qualquer marca que identifique o eleitor.\n2.   Não se considera nulo o boletim de voto nos casos em que, mesmo que a perfuração exceda o limite do retângulo da candidatura escolhida, seja percetível o sentido de voto do eleitor e a perfuração não atinja o espaço destinado a outra candidatura.\n3.   Os votos nulos serão carimbados com a expressão “votos nulos”, sendo contados e introduzidos no envelope destinado aos votos nulos."
+   }
+  },
+  {
+   "id": "TL-H214-A113",
+   "no": 113,
+   "noLabel": {
+    "pt": "Artigo 113.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Voto rejeitado"
+   },
+   "text": {
+    "pt": "1.  Voto rejeitado é aquele que corresponde a um boletim de voto que haja ou não sido perfurado ou assinalado pelo eleitor, mas que não se encontre assinado, no verso, pelo oficial controlador do boletim de voto.\n2.  Os votos rejeitados serão carimbados com a expressão “rejeitados”, sendo contados e introduzidos no envelope destinado aos votos rejeitados."
+   }
+  },
+  {
+   "id": "TL-H214-A114",
+   "no": 114,
+   "noLabel": {
+    "pt": "Artigo 114.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Votos reclamados"
+   },
+   "text": {
+    "pt": "Os votos reclamados são todos aqueles que hajam sido objeto de reclamação por parte dos fiscais das candidaturas, designadamente no que se refere à interpretação do sentido de voto do eleitor ou da sua validade ou nulidade."
+   }
+  },
+  {
+   "id": "TL-H214-A115",
+   "no": 115,
+   "noLabel": {
+    "pt": "Artigo 115.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Ata do centro de votação"
+   },
+   "text": {
+    "pt": "1.  As operações de contagem e apuramento inicial dos resultados serão documentadas através de ata do centro de votação, da qual constará:\na) Os nomes e os números de cartão de eleitor do presidente do centro de votação e dos secretários das respetivas estações de voto;\nb) A hora do início e encerramento das operações de contagem e apuramento inicial dos resultados;\nc) Os códigos dos selos de segurança das urnas de votos enviadas pelas estações de voto;\nd) As deliberações aprovadas pelos oficiais eleitorais que conduziram as operações de contagem dos votos e apuramento inicial dos resultados;\ne) O número total de eleitores que exerceram o respetivo direito de voto naquele centro de votação; f) O número total de boletins de voto entregues às estações de votos compreendidas no centro de votação;\ng) O número total de boletins de voto não utilizados pelas estações de voto compreendidas no centro de votação;\nh) O número total de boletins de voto cancelados pelas estações de voto compreendidas no centro de votação; (i) O número total de boletins de voto abandonados nas estações de voto compreendidas no centro de votação; j) O número de votos válidos obtidos por cada lista;\nk) O número de votos em branco, votos nulos e votos rejeitados; l) O número de votos reclamados;\nm) A indicação da eventual diferença entre o número de votos existentes na urna de voto e o número de eleitores assinalados como votantes nos cadernos eleitorais;\nn) O número de reclamações e protestos apresentados no decurso das operações de contagem e apuramento inicial de resultados, com a respetiva apensação à ata;\no) Os códigos dos selos de segurança das urnas eleitorais em que serão introduzidos os materiais referidos no\nartigo 116.º.\n2.  A ata do centro de votação é obrigatoriamente assinada pelo presidente do centro de votação e pelos secretários das correspondentes estações de voto e facultativamente assinada por um fiscal de cada candidatura, que se encontre presente.\n3.   O presidente do centro de votação entrega uma cópia da ata do centro de votação aos fiscais das candidaturas e ordena a afixação de um exemplar na porta de entrada do edifício onde houver funcionado o centro de votação."
+   }
+  },
+  {
+   "id": "TL-H214-A116",
+   "no": 116,
+   "noLabel": {
+    "pt": "Artigo 116.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Encerramento da contagem e apuramento inicial"
+   },
+   "text": {
+    "pt": "1.   Depois de redigida e aprovada a ata do centro de votação, o presidente do centro de votação introduz numa urna eleitoral as reclamações que hajam sido apresentadas às operações de votação, contagem ou apuramento inicial dos resultados, os votos reclamados e a ata do centro de votação.\n2.  Serão introduzidos numa urna eleitoral, distinta da mencionada no n.º 1:\na) Os envelopes de “votos válidos”, “votos nulos”, “votos em brancos”, “votos rejeitados”, “boletins de votos cancelados”, “boletins de voto abandonados”, bem como o número correspondente aos “boletins de voto não utilizados”;\nb) Os envelopes contendo as declarações de compromisso, a lista de presença dos oficiais eleitorais, a lista de eleitores, a lista adicional de eleitores e a lista de eleitores em serviço;\nc) Os selos não utilizados e os carimbos.\n3.  As urnas, depois de nelas colocados os materiais, são seladas e ficam sob a responsabilidade dos secretários das estações de voto, competindo ao presidente do centro de votação o encaminhamento das urnas para a assembleia de apuramento municipal.\n4.    A Polícia Nacional de Timor-Leste garante a segurança dos centros de votação durante o processo de contagem dos votos e apuramento inicial dos resultados, bem como do transporte dos materiais eleitorais dos centros de votação para as assembleias de apuramento municipal.\n5.  Os fiscais das candidaturas e os observadores eleitorais poderão acompanhar, através dos próprios meios, o transporte das urnas contendo os materiais eleitorais, dos centros de votação para as assembleias de apuramento municipal.\nSecção III\nApuramento municipal"
+   }
+  },
+  {
+   "id": "TL-H214-A117",
+   "no": 117,
+   "noLabel": {
+    "pt": "Artigo 117.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Apuramento dos resultados municipais"
+   },
+   "text": {
+    "pt": "O apuramento dos resultados municipais compete a uma assembleia de apuramento municipal, cuja composição é estabelecida pela presente lei, e que inicia os seus trabalhos logo que receba, pelo menos, cinco atas de centros de votação."
+   }
+  },
+  {
+   "id": "TL-H214-A118",
+   "no": 118,
+   "noLabel": {
+    "pt": "Artigo 118.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Composição da assembleia de apuramento municipal"
+   },
+   "text": {
+    "pt": "1.   A assembleia de apuramento municipal é composta pelos seguintes membros:\na) Delegado municipal da CNE, que supervisiona o ato de apuramento de resultados;\nb) Diretor municipal do STAE, que preside à assembleia;\nc) Quatro funcionários do STAE, designados por despacho do Diretor-Geral;\nd) Os presidentes dos centros de votação da área do município.\n2.   Poderão assistir às operações de apuramento municipal de resultados:\na) Os fiscais das candidaturas que hajam sido expressamente acreditados para esse efeito;\nb) Quaisquer observadores eleitorais;\nc) Os profissionais da comunicação social acreditados para acompanhar o processo eleitoral."
+   }
+  },
+  {
+   "id": "TL-H214-A119",
+   "no": 119,
+   "noLabel": {
+    "pt": "Artigo 119.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Operações de apuramento municipal"
+   },
+   "text": {
+    "pt": "1.    Uma vez constituída a assembleia de apuramento municipal, inicia-se a receção das urnas na área para o efeito destinada e designada de “Área de Receção”.\n2.   Na área de receção o presidente lê os números dos selos em voz alta e procede à abertura das urnas, uma por uma, devendo, em seguida, os membros da assembleia de apuramento municipal, devidamente organizados para esse efeito, confirmar o conteúdo das mesmas utilizando o modelo de formulário designado por “Termo de entrega de urna eleitoral”.\n3.   Caso se confirme que todo o material se encontra na urna, o presidente do centro de votação correspondente e o presidente da assembleia de apuramento municipal assinam o “Termo de entrega de urna” sendo entregue uma cópia deste termo ao presidente do centro de votação.\n4.   Caso se verifique que não está no interior da urna todo o material referido, o presidente do centro de votação correspondente justifica por escrito, no campo destinado a observações constante do “Termo de entrega de urna”, qual o motivo da falta verificada e apõe no mesmo a respetiva assinatura.\n5.  No caso referido no número anterior o presidente da assembleia de apuramento municipal, anota no “Termo de entrega de urna” que tomou conhecimento da falta verificada e, de seguida, assina o correspondente termo, entregando cópia deste ao presidente do centro de votação e fazendo constar na ata da assembleia de apuramento municipal o ocorrido para conhecimento e decisão da assembleia de apuramento nacional.\n6.   Posteriormente extrai da urna a ata original do centro de votação, o envelope contendo os votos reclamados e o envelope contendo as reclamações, caso existam.\n7.   Dentro da urna do centro de votação ficam o envelope que contém os boletins de voto válidos, o envelope com os boletins de voto não utilizados, o envelope com os boletins de voto cancelados, o envelope com os votos nulos, o envelope com os votos em branco, o envelope com os votos rejeitados e o envelope com os boletins de voto abandonados.\n8.  A assembleia de apuramento municipal decide as reclamações, os votos reclamados e procede à reconciliação de todas as atas dos centros de votação mediante a soma dos totais indicados nas atas daqueles centros de votação, com as correções eventualmente decorrentes das decisões das reclamações e dos votos reclamados.\n9.  As operações da assembleia de apuramento municipal decorrem de forma ininterrupta e deverão ser concluídas no prazo de quarenta e oito horas.\n10.  Concluídas todas as operações de apuramento municipal, reúnem-se as atas de apuramento inicial que deverão ser colocadas dentro de uma urna que ficará à guarda do STAE.\n11. Cabe à polícia garantir a segurança das operações de apuramento municipal."
+   }
+  },
+  {
+   "id": "TL-H214-A120",
+   "no": 120,
+   "noLabel": {
+    "pt": "Artigo 120.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Ata da assembleia de apuramento municipal"
+   },
+   "text": {
+    "pt": "1.   Das operações realizadas pela assembleia de apuramento municipal é lavrada ata que indicará:\na) Os nomes e os números de cartão de eleitor dos membros da assembleia de apuramento municipal;\nb) A hora do início e encerramento das operações de apuramento municipal;\nc) As deliberações aprovadas pela assembleia de apuramento municipal;\nd) O número total de eleitores que exerceram o respetivo direito no círculo municipal;\ne) O número total de boletins de voto entregues aos centros de votação da área do círculo municipal; f) O número total de boletins de voto não utilizados nas operações de votação na área do círculo municipal;\ng) O número total de boletins de voto cancelados na área do círculo municipal;\nh) O número total de boletins de voto abandonados na área do círculo municipal; (i) O número de votos válidos obtidos por cada candidato ou lista, no círculo municipal; j) O número de votos em branco, votos nulos e votos rejeitados, no círculo municipal;\nk) O número de votos reclamados, no círculo municipal; l) A indicação da eventual diferença entre o número de votos existentes nas urnas de voto e o número de eleitores assinalados como votantes nos cadernos eleitorais do círculo municipal;\nm) O número de reclamações e protestos apresentados no decurso das operações de apuramento municipal, com a respetiva apensação à ata;\nn) Os códigos dos selos de segurança das urnas eleitorais que serão enviadas à Comissão Nacional de Eleições.\n2.   A ata da assembleia de apuramento municipal poderá ser impressa a partir do modelo eletrónico fornecido pelo STAE e aprovado pela Comissão Nacional de Eleições.\n3.   A ata da assembleia de apuramento municipal será válida depois de assinada pelo presidente da assembleia de apuramento municipal e pelo delegado municipal da Comissão Nacional de Eleições que tiver supervisionado os trabalhos da assembleia, sendo eficaz logo que seja afixada na porta do edifício onde a assembleia de apuramento municipal haja reunido.\n4.  O original da ata da assembleia de apuramento municipal será enviado à Comissão Nacional de Eleições, em Díli, sendo fornecido um exemplar da mesma ao fiscal de cada candidatura que se encontre presente."
+   }
+  },
+  {
+   "id": "TL-H214-A121",
+   "no": 121,
+   "noLabel": {
+    "pt": "Artigo 121.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Destino dos materiais e documentos eleitorais"
+   },
+   "text": {
+    "pt": "1.   Todos os materiais, equipamentos e documentos relativos às operações eleitorais ficarão sob a guarda do STAE.\n2.  O STAE não poderá quebrar os selos das urnas eleitorais onde se encontram os documentos das operações de votação e apuramento inicial e municipal dos resultados, pelo período de um ano, exceto em cumprimento de ordem do Supremo Tribunal de Justiça.\n3.   Findo o período de um ano, o STAE procede à destruição de todos os documentos eleitorais que se encontrem sob a sua guarda, exceto as listas de eleitores, as atas das estações de voto e as atas dos centros de votação, que deverão ser remetidas ao Arquivo Nacional.\n4.  O STAE deverá, ainda, remeter ao Arquivo Nacional uma cópia dos modelos de boletins de voto utilizados em cada círculo eleitoral.\nSecção IV\nValidação da eleição e proclamação dos resultados"
+   }
+  },
+  {
+   "id": "TL-H214-A122",
+   "no": 122,
+   "noLabel": {
+    "pt": "Artigo 122.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Competência da Comissão Nacional de Eleições"
+   },
+   "text": {
+    "pt": "A Comissão Nacional de Eleições, depois de recebidas todas as atas das assembleias de apuramento municipal, procede, em setenta e duas horas, à decisão das reclamações apresentadas das operações de apuramento municipal e à elaboração da tabela nacional das eleições."
+   }
+  },
+  {
+   "id": "TL-H214-A123",
+   "no": 123,
+   "noLabel": {
+    "pt": "Artigo 123.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Tabela nacional da eleição"
+   },
+   "text": {
+    "pt": "Da tabela nacional da eleição, a elaborar pela Comissão Nacional de eleições, no prazo indicado no artigo anterior, constará, em relação a cada círculo:\na)   O número total de eleitores inscritos;\nb)  O número total de votantes;\nc)   O número total de votos nulos;\nd)   O número total de votos em branco;\ne)   O número total de votos cancelados;\nf)   O número total de boletins abandonados;\ng)   O número total de votos rejeitados;\nh)   O número total de votos atribuídos a cada candidatura;\n(i)  O número de mandatos atribuídos a cada candidatura admitida para a eleição para a Assembleia Municipal;\nj)   O nome dos candidatos eleitos para Presidente do Município e Vice-Presidente do Município ou o nome das duas listas de candidatos concorrentes em segunda votação;\nk)   O nome e número de inscrição no recenseamento eleitoral de cada um dos candidatos eleitos para os órgãos municipais, com menção do respetivo partido político, coligação ou grupo de cidadãos proponente."
+   }
+  },
+  {
+   "id": "TL-H214-A124",
+   "no": 124,
+   "noLabel": {
+    "pt": "Artigo 124.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Ata da Comissão Nacional de Eleições"
+   },
+   "text": {
+    "pt": "1.   A Comissão Nacional de Eleições lavra ata dos respetivos trabalhos, da qual faz constar:\na) As decisões relativas às reclamações relativas às operações de apuramento municipal;\nb) Todos os elementos quantitativos enumerados no artigo anterior.\n2.    A ata da Comissão Nacional de Eleições será imediatamente afixada na porta da sede nacional desta e de todas as suas representações territoriais, pelo período de vinte e quatro horas, remetendo cópia ao STAE.\n3.  Findo o prazo referido no número anterior a Comissão Nacional de Eleições remete ao Supremo Tribunal de Justiça a tabela nacional da eleição, acompanhada das atas das operações de apuramento municipal."
+   }
+  },
+  {
+   "id": "TL-H214-A125",
+   "no": 125,
+   "noLabel": {
+    "pt": "Artigo 125.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Validação da eleição e proclamação dos resultados"
+   },
+   "text": {
+    "pt": "1.    Depois de decididos todos os recursos para si interpostos, designadamente os interpostos das decisões da Comissão Nacional de Eleições, o Supremo Tribunal de Justiça, no prazo máximo de quarenta e oito horas, analisa a documentação remetida por aquela, em cumprimento do n.º 3 do artigo anterior, e julga, por acórdão, a validade das eleições para os órgãos representativos dos municípios e, através do seu presidente, proclama os resultados definitivos no prazo máximo de setenta e duas horas, anunciando obrigatoriamente:\na) O número total de eleitores inscritos;\nb) O número total de votantes;\nc) O número total de votos nulos;\nd) O número total de votos em branco;\ne) O número total de votos cancelados; f) O número total de boletins abandonados;\ng) O número total de votos rejeitados;\nh) O número total de votos atribuídos a cada candidatura; (i) O número de mandatos atribuídos a cada candidatura admitida para a eleição para a Assembleia Municipal; j) O nome do candidato eleito para Presidente do Município e respetivo Vice-Presidente ou as duas listas candidatas a Presidente do Município concorrentes em segunda votação;\nk) O nome e o número de inscrição no recenseamento eleitoral de cada um dos candidatos eleitos para os órgãos municipais, com menção do respetivo partido político, coligação ou grupo de cidadãos proponente.\n2.   O Acórdão do Supremo Tribunal de Justiça é enviado à Comissão Nacional de Eleições e ao STAE e é publicado no Jornal da República.\nSecção V\nSegunda votação"
+   }
+  },
+  {
+   "id": "TL-H214-A126",
+   "no": 126,
+   "noLabel": {
+    "pt": "Artigo 126.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Segunda votação de concorrentes a Presidente do Município"
+   },
+   "text": {
+    "pt": "1.   Sendo necessária a realização de segunda votação para a eleição do Presidente do Município, nos termos do artigo\n37.º, o Presidente do Supremo Tribunal de Justiça realiza, no mesmo dia e posteriormente ao anúncio previsto no n.º 1 do artigo anterior, o sorteio das candidaturas das duas listas concorrentes para o efeito de lhes atribuir a respetiva ordem nos boletins de voto.\n2.   Do resultado do sorteio é lavrada ata que é, de imediato, afixada à porta do edifício onde funciona o Supremo Tribunal de Justiça, sendo enviada cópia à Comissão Nacional de Eleições e ao STAE."
+   }
+  },
+  {
+   "id": "TL-H214-A127",
+   "no": 127,
+   "noLabel": {
+    "pt": "Artigo 127.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI CONTAGEM  DOS  VOTOS  E  APURAMENTO  INICIAL DOS  RESULTADOS Secção I Contagem"
+   },
+   "heading": {
+    "pt": "Estações de voto e fiscais"
+   },
+   "text": {
+    "pt": "1.  Para a segunda votação mantém-se o número e o local de funcionamento dos centros de votação anteriormente determinados e a composição das estações de voto.\n2.  Os candidatos ou os respetivos representantes podem designar fiscais das candidaturas até dez dias antes da realização da segunda votação, entendendo-se, se não o fizerem, que confirmam os designados para a primeira votação."
+   }
+  },
+  {
+   "id": "TL-H214-A128",
+   "no": 128,
+   "noLabel": {
+    "pt": "Artigo 128.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII CONTENCIOSO ELEITORAL"
+   },
+   "heading": {
+    "pt": "Direito de recurso contencioso"
+   },
+   "text": {
+    "pt": "As decisões das reclamações apresentadas contra irregularidades ocorridas no decurso da votação, do apuramento inicial, do apuramento municipal e da elaboração do Mapa Nacional da Eleição podem ser objeto de recurso, nos termos fixados pela presente lei."
+   }
+  },
+  {
+   "id": "TL-H214-A129",
+   "no": 129,
+   "noLabel": {
+    "pt": "Artigo 129.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII CONTENCIOSO ELEITORAL"
+   },
+   "heading": {
+    "pt": "Legitimidade para recorrer"
+   },
+   "text": {
+    "pt": "1. Os recursos previstos no artigo anterior podem ser interpostos pelos reclamantes cujas reclamações não hajam sido atendidas, bem como por qualquer candidato, partido político ou coligação que nisso demonstre interesse atendível.\n2.  Os candidatos, partidos políticos e coligações exercem o respetivo direito de recurso para o Supremo Tribunal de Justiça através do respetivo representante de candidatura que para o efeito poderá constituir mandatário judicial."
+   }
+  },
+  {
+   "id": "TL-H214-A130",
+   "no": 130,
+   "noLabel": {
+    "pt": "Artigo 130.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII CONTENCIOSO ELEITORAL"
+   },
+   "heading": {
+    "pt": "Tribunal competente"
+   },
+   "text": {
+    "pt": "O recurso contencioso dos atos eleitorais é interposto perante o Supremo Tribunal de Justiça."
+   }
+  },
+  {
+   "id": "TL-H214-A131",
+   "no": 131,
+   "noLabel": {
+    "pt": "Artigo 131.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII CONTENCIOSO ELEITORAL"
+   },
+   "heading": {
+    "pt": "Prazo de interposição de recurso"
+   },
+   "text": {
+    "pt": "Os recursos de contencioso eleitoral são interpostos no prazo de vinte e quatro horas, contadas da notificação da decisão da reclamação apresentada ou da afixação da tabela nacional da eleição."
+   }
+  },
+  {
+   "id": "TL-H214-A132",
+   "no": 132,
+   "noLabel": {
+    "pt": "Artigo 132.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII CONTENCIOSO ELEITORAL"
+   },
+   "heading": {
+    "pt": "Tramitação processual"
+   },
+   "text": {
+    "pt": "1.    A petição de recurso especifica os respetivos fundamentos de facto e de direito e é acompanhada de todos os elementos de prova ou de requerimento solicitando ao Tribunal que os requisite.\n2.    A interposição de recurso pode ser feita pessoalmente, nos serviços do Supremo Tribunal de Justiça.\n3.  Apresentado o recurso, o processo é imediatamente concluso ao presidente do Tribunal, a fim de ser designado, por sorteio, um relator, de entre os juízes nacionais.\n4.  Os representantes das candidaturas intervenientes na eleição, a Comissão Nacional de Eleições e o STAE são imediatamente notificados para, querendo, se pronunciarem quanto aos fundamentos de facto ou de direito e pedido do recurso interposto, no prazo de vinte e quatro horas.\n5.    Findo o prazo referido no número anterior, o relator elabora, no prazo de vinte e quatro horas, projeto de Acórdão que é de imediato distribuído aos juízes nacionais do Supremo Tribunal de Justiça.\n6.  O plenário de juízes nacionais do Supremo Tribunal de Justiça decide definitivamente, em Acórdão, no prazo de vinte e quatro horas, contadas do termo do prazo indicado no número anterior, os recursos para si interpostos.\n7.   O incumprimento do disposto no n.º 4 gera a nulidade do Acórdão, decidida em plenário dos juízes nacionais do Supremo Tribunal de Justiça, em consequência da reclamação apresentada por quem não tenha podido exercer o direito de audição prévia e, apenas, com esse fundamento, no prazo de vinte e quatro horas, contadas a partir da leitura pública do Acórdão.\n8.   O Supremo Tribunal de Justiça notifica os representantes de todas as candidaturas apresentadas no círculo eleitoral a que o recurso respeita, a Comissão Nacional de Eleições e o STAE da hora e local em que decorrerá a leitura do Acórdão, entregando-lhes cópia do mesmo, após a aludida leitura."
+   }
+  },
+  {
+   "id": "TL-H214-A133",
+   "no": 133,
+   "noLabel": {
+    "pt": "Artigo 133.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII CONTENCIOSO ELEITORAL"
+   },
+   "heading": {
+    "pt": "Efeitos da decisão"
+   },
+   "text": {
+    "pt": "1.   A votação em qualquer centro de votação e a votação em todo o círculo eleitoral só poderão ser julgadas nulas se as irregularidades ou ilegalidades verificadas puderem influir no resultado geral da eleição do respetivo órgão municipal.\n2.   Declarada a nulidade da votação num ou mais centros de votação, os atos eleitorais correspondentes são repetidos no terceiro sábado posterior à decisão, havendo lugar, em qualquer caso, a uma nova assembleia de apuramento municipal."
+   }
+  },
+  {
+   "id": "TL-H214-A134",
+   "no": 134,
+   "noLabel": {
+    "pt": "Artigo 134.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Isenções"
+   },
+   "text": {
+    "pt": "São isentos do pagamento de quaisquer taxas, impostos ou custas, os documentos destinados a instruir processos de candidaturas, os reconhecimentos notariais em documentos para fins eleitorais e as reclamações ou recursos a que se refere a presente lei."
+   }
+  },
+  {
+   "id": "TL-H214-A135",
+   "no": 135,
+   "noLabel": {
+    "pt": "Artigo 135.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Regulamentação"
+   },
+   "text": {
+    "pt": "O Governo aprova, por decreto, os regulamentos necessários à boa execução da presente lei."
+   }
+  },
+  {
+   "id": "TL-H214-A136",
+   "no": 136,
+   "noLabel": {
+    "pt": "Artigo 136.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Exercício do direito de voto"
+   },
+   "text": {
+    "pt": "1.    Enquanto perdurar a impossibilidade de realização da eleição dos órgãos representativos do Poder Local simultaneamente em todos os círculos eleitorais, o exercício do direito de voto dependerá da inscrição do eleitor no recenseamento eleitoral, numa das unidades geográficas de recenseamento eleitoral do círculo eleitoral onde se propõe exercer aquele direito, com, pelo menos, trezentos e sessenta e cinco dias de antecedência em relação à data da eleição.\n2.   O disposto no número anterior não se aplica aos eleitores que exerçam o direito de voto pela primeira vez."
+   }
+  },
+  {
+   "id": "TL-H214-A137",
+   "no": 137,
+   "noLabel": {
+    "pt": "Artigo 137.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Tribunal de Recurso"
+   },
+   "text": {
+    "pt": "Enquanto o Supremo Tribunal de Justiça não iniciar funções, as competências que lhe são atribuídas pela presente lei são exercidas pelo Tribunal de Recurso."
+   }
+  },
+  {
+   "id": "TL-H214-A138",
+   "no": 138,
+   "noLabel": {
+    "pt": "Artigo 138.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

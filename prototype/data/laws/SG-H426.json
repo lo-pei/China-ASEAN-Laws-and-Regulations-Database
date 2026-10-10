@@ -1,0 +1,1548 @@
+{
+ "id": "SG-H426",
+ "title": {
+  "zh": null,
+  "en": "Carbon Pricing Act 2018",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p06",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act CPA2018",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 96,
+ "chars": 134741,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/CPA2018?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 96 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 5 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H426-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Carbon Pricing Act 2018."
+   }
+  },
+  {
+   "id": "SG-H426-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "General interpretation"
+   },
+   "text": {
+    "en": "2.—(1) In this Act, unless the context otherwise requires —\n“accredited external auditor” means any person accredited by the Agency as an accredited external auditor in accordance with regulations;\n“Agency” means the National Environment Agency established by the National Environment Agency Act 2002;\n“Appeal Panel” means an Appeal Panel mentioned in section 38;\n“appellant” means any person that makes an appeal under Part 6 against a decision of the Agency;\n“authorised officer” means an authorised officer appointed under section 6(2);\n“carbon credit” means a fixed-price carbon credit or an eligible international carbon credit;\n[Act 37 of 2022 wef 01/01/2024]\n“carbon dioxide equivalence”, in relation to any greenhouse gas, means the mass of the greenhouse gas multiplied by its global warming potential set out opposite the greenhouse gas in the third column of the First Schedule;\n“carbon price” means the value of a fixed-price carbon credit;\n[Act 37 of 2022 wef 01/01/2024]\n“electronic record” has the meaning given by the Electronic Transactions Act 2010;\n“electronic transactions service” means any electronic transactions service provided for in regulations;\n“eligible international carbon credit” has the meaning given by section 33A;\n[Act 37 of 2022 wef 01/01/2024]\n“emissions report” means an emissions report mentioned in section 11, and includes a verified emissions report;\n“excluded GHG emission” means any GHG emission that is —\n(a)a greenhouse gas specified in the first column of Part 3 of the Second Schedule; and\n(b)emitted in the circumstances described in the second column of Part 3 of that Schedule opposite the greenhouse gas;\n“first emissions threshold” means the first emissions threshold specified in Part 1 of the Second Schedule;\n“fixed-price carbon credit” means a carbon credit mentioned in section 26;\n[Act 37 of 2022 wef 01/01/2024]\n“fixed-price carbon credit registry account” or “FPCC registry account” means a registry account for a taxable facility of a registered person that is opened by the Agency in the Fixed‑Price Carbon Credits Registry under section 31;\n[Act 37 of 2022 wef 01/01/2024]\n“GHG emission”, in relation to any business facility, means any greenhouse gas emitted into the atmosphere directly from the business facility;\n“greenhouse gas” means any greenhouse gas specified in the first column of the First Schedule and having the chemical formula specified in the second column of that Schedule opposite the greenhouse gas;\n“international carbon credit” means a certificate representing one tonne of GHG emissions reductions or removals measured in tCO2e, generated from any project or programme outside Singapore;\n[Act 37 of 2022 wef 01/01/2024]\n“international carbon credit registry account” or “ICC registry account” means a registry account for a taxable facility of a registered person that is opened by the Agency in the International Carbon Credits Registry under section 33D;\n[Act 37 of 2022 wef 01/01/2024]\n“Minister” means —\n(a)except as provided in paragraph (b), the Minister charged with the responsibility for sustainability and the environment; and\n(b)for the purposes of Division 1A of Part 5, the Minister charged with the responsibility for trade and industry;\n[Act 37 of 2022 wef 01/01/2024]\n“monitoring plan” includes a monitoring plan that is revised under section 13(4), except in section 12(3)(a);\n“non-reckonable GHG emission” means any GHG emission that is —\n(a)a greenhouse gas specified in the first column of Part 2 of the Second Schedule; and\n(b)emitted in the circumstances described in the second column of Part 2 of that Schedule opposite the greenhouse gas;\n“public authority” means —\n(a)an Organ of State or a public officer of the Organ of State;\n(b)a ministry or department of the Government or a public officer of the ministry or department; or\n(c)a public authority established under any public Act for a public purpose or an officer or an employee of the public authority;\n“reckonable GHG emission” means any GHG emission other than a non-reckonable GHG emission;\n“registered person” means a person registered under section 7;\n[Deleted by Act 37 of 2022 wef 01/01/2024]\n“regulations” means regulations made under section 76;\n“reportable facility” means a business facility that is registered as a reportable facility under section 7;\n“reporting period” means any period mentioned in section 11 as a reporting period;\n“second emissions threshold” means the second emissions threshold specified in Part 1 of the Second Schedule;\n“tax” means the carbon tax imposed under this Act;\n“taxable facility” means a business facility that is registered as a taxable facility under section 7;\n“tCO2e” means metric tonnes of carbon dioxide equivalence;\n“verified emissions report” means an emissions report verified under section 12.\n(2) In this Act —\n(a)a reference to a business facility of a registered person is a reference to a business facility that is registered as a reportable facility or a taxable facility of the registered person, as the case may be;\n(b)a reference to a reportable facility of a registered person is a reference to a business facility that is registered as a reportable facility of the registered person; and\n(c)a reference to a taxable facility of a registered person is a reference to a business facility that is registered as a taxable facility of the registered person.\n(3) In this Act —\n(a)a reference to a verified emissions report that is inaccurate includes a reference to a verified emissions report that is based on a monitoring plan that is inaccurate; and\n(b)a reference to a monitoring plan that is inaccurate includes a reference to a monitoring plan that has not been revised under section 13(4) in the prescribed circumstances, as from any date as may be prescribed (not being a date earlier than the date of those prescribed circumstances)."
+   }
+  },
+  {
+   "id": "SG-H426-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Meaning of “business facility”"
+   },
+   "text": {
+    "en": "3.—(1) A business facility is a single site at which any business activity is carried out.\n(2) In this Act, “business activity” means any activity or series of activities (including ancillary activities) —\n(a)that involves the emission of greenhouse gas; and\n(b)that forms a single undertaking or enterprise, having regard to any circumstances prescribed.\n(3) For the purpose of subsection (1), where a business activity is a series of activities that is carried out at more than one parcel of land, the business activity is treated for the purposes of this Act as carried out at a single site if the same person has operational control over the business activity, and —\n(a)the parcels of land are contiguous, adjacent or adjoining, or separated only by any road or pathway (whether or not providing access to the business facility), or drain or waterway; or\n(b)where paragraph (a) does not apply, there is a dependency between the activities carried out on the parcels of land, having regard to any circumstances prescribed.\n(4) A series of activities may be treated as forming a single undertaking or enterprise for the purpose of subsection (2)(b) even if —\n(a)any one of the activities in the series is, or any 2 or more activities in the series are, capable of being carried out as a separate and distinct business activity; or\n(b)the activities in the series are from more than one industry sector to which this Act applies.\n(5) To avoid doubt, there can be more than one business facility at any parcel of land for the purposes of this Act."
+   }
+  },
+  {
+   "id": "SG-H426-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Meaning of “operational control”"
+   },
+   "text": {
+    "en": "4.—(1) A person has operational control over a business facility if the person has the authority to introduce and implement, for the business activity carried out at the business facility (including a business activity that is carried out wholly or partly by a related party of the person), one or more of the following:\n(a)operating policies;\n(b)health and safety policies;\n(c)environmental policies.\n(2) Only one person can have operational control over a business facility at any one time.\n(3) If more than one person satisfies subsection (1) at any one time, then the person that has the greatest authority to introduce and implement the policies mentioned in that subsection is taken for the purposes of this Act, to have operational control over the business facility."
+   }
+  },
+  {
+   "id": "SG-H426-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATION AND ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Application of Act"
+   },
+   "text": {
+    "en": "5.—(1) This Act applies only to industry sectors prescribed.\n(2) Except as provided in subsection (3), this Act binds the Government.\n(3) Nothing in this Act renders the Government liable to prosecution for an offence under this Act.\n(4) To avoid doubt, a person is not immune from prosecution for any offence under this Act by reason only that the person is engaged to provide services to or on behalf of the Government."
+   }
+  },
+  {
+   "id": "SG-H426-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATION AND ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Administration of Act"
+   },
+   "text": {
+    "en": "6.—(1) The Agency is responsible for the administration and enforcement of this Act, subject to the general or special directions of the Minister.\n(2) The Agency may appoint, by name or office, any officer or employee of the Agency to be an authorised officer to carry out such function or duty, or exercise such power, conferred on an authorised officer under this Act, as the Agency may specify."
+   }
+  },
+  {
+   "id": "SG-H426-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 REGISTRATION OF PERSONS AND BUSINESS FACILITIES"
+   },
+   "heading": {
+    "en": "Obligation to apply to register as registered person, and to register business facility as reportable facility and taxable facility"
+   },
+   "text": {
+    "en": "7.—(1) Where the total amount of reckonable GHG emissions of a business facility has a carbon dioxide equivalence that attains the first emissions threshold (or higher) in any year (called in this Part a trigger year), then the person mentioned in subsection (1A) must apply to the Agency —\n(a)to be registered as a registered person;\n(b)to register the business facility as a reportable facility of the registered person; and\n(c)if the carbon dioxide equivalence of the total amount of reckonable GHG emissions from the business facility also attains the second emissions threshold (or higher) in the same trigger year, to register the business facility as a taxable facility of the registered person.\n[Act 37 of 2022 wef 01/01/2024]\n(1A) The person for the purpose of subsection (1) is the person having operational control over the business facility on 31 December of the trigger year.\n[Act 37 of 2022 wef 01/01/2024]\n(2) Subsection (1)(a) does not apply if —\n(a)the person is already a registered person; or\n(b)the business facility will cease to be under the operational control of the person by the time the person must make the application under section 8.\n(3) Subsection (1)(b) does not apply if the business facility is already registered as a reportable facility of the registered person.\n(4) Subsection (1)(c) does not apply if the business facility is already registered as a taxable facility of the registered person.\n(5) Without affecting subsection (1), where —\n(a)a person (X) —\n(i)is a registered person of a business facility that is a reportable facility, or both a reportable facility and a taxable facility; or\n(ii)is not a registered person of a business facility but had operational control over the business facility on 31 December of a trigger year in relation to the business facility; and\n(b)X transfers operational control over the business facility to another person (Y),\nthen Y must apply to the Agency —\n(c)to be registered as a registered person; and\n(d)to register the business facility as a reportable facility or as both a reportable facility and a taxable facility (as the case may be), of Y.\n[Act 37 of 2022 wef 01/01/2024]\n(6) Subsection (5)(c) does not apply if Y is already a registered person.\n[Act 37 of 2022 wef 01/01/2024]\n(7) To avoid doubt, a business facility may be registered as a reportable facility, or both a reportable facility and a taxable facility, of more than one registered person.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 REGISTRATION OF PERSONS AND BUSINESS FACILITIES"
+   },
+   "heading": {
+    "en": "Applications for registration"
+   },
+   "text": {
+    "en": "8.—(1) An application for a registration under section 7 must —\n(a)be made —\n(i)where section 7(1) applies — no later than 30 June of the year immediately after the trigger year; and\n(ii)in the case of an application by Y under section 7(5) —\n(A)if, in the year immediately before the year of the transfer, the total amount of reckonable GHG emissions from the business facility has a carbon dioxide equivalence that does not attain the second emissions threshold — no later than 30 June of the year immediately after the year of the transfer;\n(B)if —\n(BA)at the time X transfers operational control to Y, the business facility is not registered as a taxable facility of X; and\n(BB)in the year immediately before the year of the transfer, the total amount of reckonable GHG emissions from the business facility has a carbon dioxide equivalence that attains the second emissions threshold (or higher),\nno later than the later of the following:\n(BC)30 June of the year of the transfer;\n(BD)30 days after the date of the transfer; and\n(C)if, at the time X transfers operational control to Y, the business facility is registered as a taxable facility of X — no later than 30 days after the date of the transfer;\n[Act 37 of 2022 wef 01/01/2024]\n(b)identify the person and the business facility in question;\n(c)contain any information prescribed by regulations for assessing applications made under this section, and any other information required by the Agency to assess the particular application; and\n(d)be in the form and manner required by the Agency.\n(2) Upon an application being made under this section, the Agency must register the person as a registered person, and the business facility as a reportable facility or taxable facility of the registered person (as the case may be), unless the application is incomplete or not made in accordance with subsection (1).\n(3) To avoid doubt, the Agency may treat an application to register a business facility as a taxable facility as also an application to register the business facility as a reportable facility, if the business facility is not already registered as a reportable facility.\n(4) A registration under this section is in force as follows:\n(a)subject to paragraph (b), starting on 1 January of the year immediately after the trigger year for the registration, until deregistration under section 10;\n(b)for a registration pursuant to section 7(5), starting on the date of the transfer of operational control, until deregistration under section 10.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 REGISTRATION OF PERSONS AND BUSINESS FACILITIES"
+   },
+   "heading": {
+    "en": "Entitlement to apply to deregister as taxable facility, reportable facility, and as registered person, etc."
+   },
+   "text": {
+    "en": "9.—(1) A registered person may apply to the Agency to deregister a business facility as a taxable facility of the registered person if —\n(a)the registered person ceases to have operational control over the business facility;\n(aa)the registered person has operational control over the business facility but has ceased to operate the business facility and has no intention of resuming its business activity within the next 36 months after such cessation;\n[Act 37 of 2022 wef 01/01/2024]\n(b)the total amount of reckonable GHG emissions from the business facility has a carbon dioxide equivalence that does not attain the second emissions threshold for each of 3 consecutive years; or\n(c)where any modification (including by way of additions and removals) to any work process at the business facility, or to any building or infrastructure of the business facility, is completed and —\n(i)the total amount of reckonable GHG emissions from the business facility in the year in which the modification is completed has a carbon dioxide equivalence that does not attain the second emissions threshold; and\n(ii)the total amount of reckonable GHG emissions from the business facility has a carbon dioxide equivalence that is unlikely to attain the second emissions threshold in each of the 2 consecutive years immediately following.\n(2) Without affecting subsection (1)(a), a registered person must give the Agency advance written notice of the date that the operational control that the person has over the business facility is to cease, at least 45 days before that date.\n(3) A registered person may apply to the Agency to deregister a business facility as a reportable facility of the registered person if —\n(a)the registered person ceases to have operational control over the business facility;\n(aa)the registered person has operational control over the business facility but has ceased to operate the business facility and has no intention of resuming its business activity within the next 36 months after such cessation;\n[Act 37 of 2022 wef 01/01/2024]\n(b)the total amount of reckonable GHG emissions from the business facility has a carbon dioxide equivalence that does not attain the first emissions threshold for each of 3 consecutive years; or\n(c)where any modification (including by way of additions and removals) to any work process at the business facility, or to any building or infrastructure of the business facility, is completed and —\n(i)the total amount of reckonable GHG emissions from the business facility in the year in which the modification is completed has a carbon dioxide equivalence that does not attain the first emissions threshold; and\n(ii)the total amount of reckonable GHG emissions from the business facility has a carbon dioxide equivalence that is unlikely to attain the first emissions threshold in each of the 2 consecutive years immediately following.\n(4) A registered person may apply to the Agency to deregister as such if there is no longer any business facility registered as a reportable facility of the registered person.\n(5) The Agency may, on its own volition, deregister any registered person as such, and any business facility registered as a reportable facility or taxable facility of the person as such, if the Agency is satisfied that the person has been wound up or dissolved or has otherwise ceased to exist.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 REGISTRATION OF PERSONS AND BUSINESS FACILITIES"
+   },
+   "heading": {
+    "en": "Applications to deregister"
+   },
+   "text": {
+    "en": "10.—(1) An application for deregistration under section 9 must —\n(a)identify the registered person and the business facility in question;\n(b)contain any information prescribed by regulations for assessing applications made under this section, and any other information required by the Agency to assess the particular application; and\n(c)be in the form and manner required by the Agency.\n(2) The Agency may refuse to accept any application that is incomplete or not made in accordance with subsection (1).\n(3) To avoid doubt, a deregistration of a business facility as a taxable facility or reportable facility of a registered person does not affect any obligation or liability that the registered person acquired or incurred, or that accrued to the registered person, under this Act in relation to the taxable facility or reportable facility (as the case may be) before the deregistration as such.\n(4) Except where section 9(5) applies, the Agency must not deregister a registered person as such if the registered person has not discharged all obligations and liabilities under this Act (whether under Part 4 or 5 or otherwise) that the person acquired or incurred, or that accrued to the person, in relation to a taxable facility or reportable facility of the person as a registered person.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 4 GHG EMISSIONS REPORTING REQUIREMENTS"
+   },
+   "heading": {
+    "en": "Emissions reports"
+   },
+   "text": {
+    "en": "11.—(1) Where a registered person has for any part of a year operational control over a business facility that is a reportable facility of the registered person, the registered person must submit to the Agency for the Agency’s approval, an emissions report for that business facility for that year (year R).\n[Act 37 of 2022 wef 01/01/2024]\n(2) The emissions report must set out the GHG emissions (other than excluded GHG emissions) of the business facility for the reporting period for year R.\n[Act 37 of 2022 wef 01/01/2024]\n(2A) For the purposes of subsection (2), the reporting period for year R is the whole or the part of year R (as the case may be) for which the business facility is under the operational control of the registered person.\n[Act 37 of 2022 wef 01/01/2024]\n(2B) To avoid doubt, where operational control over a business facility is transferred one or more times in a year, there is for that year a reporting period for the business facility as a reportable facility of each registered person having operational control over the business facility in that year.\n[Act 37 of 2022 wef 01/01/2024]\n(2C) Where operational control over a business facility is transferred to a person (Y) in any year, Y may, with the approval of the Agency, treat the reporting period for that year for the business facility as a reportable facility of Y, as including the reporting period or reporting periods for that year for the business facility as a reportable facility of one or more persons having operational control over the business facility before Y (each X) in that year.\n[Act 37 of 2022 wef 01/01/2024]\n(2D) Where the Agency has approved the treatment mentioned in subsection (2C), subsection (1) applies to Y instead of X in relation to any reporting period treated as the reporting period for the year for the business facility as a reportable facility of Y.\n[Act 37 of 2022 wef 01/01/2024]\n(3) To avoid doubt, the obligation to submit an emissions report in accordance with this Part arises at the end of the reporting period for which the emissions report must be submitted."
+   }
+  },
+  {
+   "id": "SG-H426-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 4 GHG EMISSIONS REPORTING REQUIREMENTS"
+   },
+   "heading": {
+    "en": "Emissions reports required to be verified"
+   },
+   "text": {
+    "en": "12.—(1) Subject to subsection (3), where the business facility is a taxable facility of a registered person, an emissions report mentioned in section 11 for the business facility must —\n(a)be prepared based on a monitoring plan specified in section 13(1);\n(b)subject to subsection (2), be verified by an accredited external auditor; and\n(c)when the emissions report is submitted under section 11 to the Agency for the Agency’s approval, be accompanied by a report by the accredited external auditor of its verification.\n(2) The emissions report in subsection (1) need not be verified by the accredited external auditor insofar as it relates to any non‑reckonable GHG emission of the business facility.\n(3) The emissions report in subsection (1) need not be verified insofar as it relates to any reporting period, or any part of a reporting period, that falls —\n(a)before the approval of the Agency under section 13 for the monitoring plan; or\n(b)after the deregistration of the business facility as a taxable facility of the registered person."
+   }
+  },
+  {
+   "id": "SG-H426-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 4 GHG EMISSIONS REPORTING REQUIREMENTS"
+   },
+   "heading": {
+    "en": "Monitoring plans"
+   },
+   "text": {
+    "en": "13.—(1) For the purpose of section 12(1)(a), the monitoring plan for a business facility that is a taxable facility of a registered person must —\n(a)set out the basis on which the registered person ensures the quality of the data required for the computations necessary for an emissions report for the business facility; and\n(b)be submitted to and approved by the Agency.\n(2) Before granting an approval under subsection (1)(b), the Agency may, in any of the following circumstances, in writing direct the registered person to have its monitoring plan first assessed by an external auditor:\n(a)the Agency considers that specialised technical knowledge is required to assess any process at the business facility;\n(b)the Agency disagrees with the registered person on any matter set out in the monitoring plan,\nand the registered person must comply with the direction.\n(3) Where subsection (2) applies, the registered person must submit to the Agency, within the time specified in the direction under that subsection, the report by the external auditor containing the external auditor’s assessment.\n(4) The registered person must, in the prescribed circumstances, revise a monitoring plan approved by the Agency.\n(5) Where the Agency approves any monitoring plan (including one rectified or recomputed under section 14(1) or 15(2)), the Agency must specify the date (whether a date before, on or after the date on which the approval is actually granted) from which the monitoring plan has effect for the purposes of section 12(1)(a).\n(5A) Where the circumstances described in section 7(5) apply and X has a monitoring plan for the business facility as a taxable facility of X that is approved by the Agency under this section —\n(a)the Agency must provide Y with the monitoring plan; and\n(b)the monitoring plan —\n(i)is treated for the purposes of subsection (1) as if it had been submitted to the Agency and approved by the Agency as a monitoring plan for the business facility as a taxable facility of Y, from and including the date of the transfer of operational control over the business facility from X to Y; and\n(ii)is treated for the purposes of section 15 as if it had been prepared by Y.\n[Act 37 of 2022 wef 01/01/2024]\n(5B) Nothing in subsection (5A) prevents the monitoring plan (as on the day immediately before the date of the transfer of operational control) from continuing to be a monitoring plan for the business facility as a taxable facility of X for the purpose of X complying with any of X’s obligations under this section and sections 12, 14 and 15.\n[Act 37 of 2022 wef 01/01/2024]\n(6) Any approval or deemed approval under this section for a monitoring plan for a taxable facility of a registered person ceases to be valid in relation to that registered person with effect from the deregistration of that taxable facility as such.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 4 GHG EMISSIONS REPORTING REQUIREMENTS"
+   },
+   "heading": {
+    "en": "Inaccuracies, etc., in emissions reports and monitoring plans, etc., identified by Agency"
+   },
+   "text": {
+    "en": "14.—(1) The Agency may, in respect of any incomplete or inaccurate emissions report or monitoring plan, in writing direct the registered person to do all of the following, within the time period specified in the direction or a longer time as the Agency may allow in any particular case:\n(a)carry out any rectification or recomputation as the Agency may require;\n(b)resubmit the report or plan for the Agency’s approval,\nand the registered person must comply with the direction.\n(2) The Agency may, in respect of —\n(a)any verification of an emissions report by an accredited external auditor; or\n(b)any report by an accredited external auditor of a verification in paragraph (a),\nthat does not comply with any requirement imposed under this Act, in writing direct the registered person submitting the emissions report to have the emissions report re‑verified by the accredited external auditor or the report of the accredited external auditor rectified, or both, within the time period specified in the direction or a longer time as the Agency may allow in any particular case; and the registered person must comply with the direction.\n(3) The Agency may, in respect of —\n(a)any assessment of a monitoring plan by an external auditor; or\n(b)any report by an external auditor of an assessment in paragraph (a),\nthat does not comply with any requirement imposed under this Act, in writing direct the registered person submitting the monitoring plan to have the monitoring plan re‑assessed or the report of the external auditor rectified, or both, within the time period specified in the direction or a longer time as the Agency may allow in any particular case; and the registered person must comply with the direction."
+   }
+  },
+  {
+   "id": "SG-H426-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 4 GHG EMISSIONS REPORTING REQUIREMENTS"
+   },
+   "heading": {
+    "en": "Inaccuracies, etc., in emissions reports and monitoring plans identified by registered person"
+   },
+   "text": {
+    "en": "15.—(1) Where a registered person discovers any error or omission in any emissions report or monitoring plan prepared by the registered person (whether or not already approved by the Agency), the registered person must notify the Agency of the error or omission within 7 working days after the discovery and provide the following in the notification:\n(a)a description of —\n(i)the error or omission, and the correction that is to be made or, where applicable, that has been made; and\n(ii)the circumstances that led to the error or omission;\n(b)where applicable, the GHG emissions of the business facility of the registered person to which the emissions report relates, and their respective amounts, represented by the error or omission.\n(2) Upon receipt of a notification under subsection (1), the Agency may in writing direct the registered person to resubmit for the Agency’s approval, within the period specified in the direction or a longer time as the Agency may allow in any particular case, a rectified or recomputed emissions report or monitoring plan that incorporates corrections specified by the Agency in the direction; and the registered person must comply with the direction.\n(3) The Agency may, in the direction under subsection (2), also require, as the case may be —\n(a)the rectified or recomputed emissions report to be verified by an accredited external auditor; or\n(b)the rectified or recomputed monitoring plan to be assessed by an external auditor,\nand for the registered person to submit a report of the verification by the accredited external auditor, or the assessment by the external auditor to the Agency, together with the rectified or recomputed emissions report or monitoring plan."
+   }
+  },
+  {
+   "id": "SG-H426-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Carbon tax"
+   },
+   "text": {
+    "en": "16.—(1) A tax, called the carbon tax, is charged on the total amount of reckonable GHG emissions in any year (called in this Act an emissions year) of a business facility that is a taxable facility of any registered person in that year.\n[Act 37 of 2022 wef 01/01/2024]\n(1A) For the purpose of subsection (1), the total amount of reckonable GHG emissions of the business facility is as set out in the emissions report or the part of the emissions report for the reporting period, or the emissions reports or the parts of the emissions reports for the reporting periods, for that year for the business facility, that is or are verified under section 12 and approved by the Agency.\n[Act 37 of 2022 wef 01/01/2024]\n(2) Subsection (1) does not apply if the total amount of the reckonable GHG emissions in that emissions year does not attain the second emissions threshold.\n[Act 37 of 2022 wef 01/01/2024]\n(3) The amount of the tax charged under subsection (1) is calculated based on the formula A × B, where —\n(a)A is the carbon dioxide equivalence of the total amount of the reckonable GHG emissions mentioned in subsection (1), rounded up to the nearest metric tonne; and\n(b)B is the carbon tax rate specified in Part 1 of the Third Schedule.\n(4) The tax charged under subsection (1) accrues as a liability of the registered person having operational control over the taxable facility at the end of the reporting period or (if there is more than one) the last reporting period for the emissions year, and must be paid by the registered person in accordance with this Part.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Payment of tax and penalty"
+   },
+   "text": {
+    "en": "17.—(1) The tax for an emissions year must be paid —\n(a)against an assessment pursuant to section 21(1) or (2), by the later of —\n(i)30 September of the year immediately following the emissions year; or\n[Act 37 of 2022 wef 01/01/2024]\n(ii)30 days after the date of service on the registered person of the notice of assessment; and\n(b)against any other assessment, within 30 days after the date of service on the registered person of the notice of assessment.\n[Act 37 of 2022 wef 01/01/2024]\n(2) The payment under subsection (1) must be made —\n(a)subject to subsection (3A), by the surrender of fixed‑price carbon credits; or\n[Act 37 of 2022 wef 01/01/2024]\n(b)if, at the time of payment, the FPCC registry account for the taxable facility in relation to which the tax is charged is suspended or closed, in the form and manner required by the Agency.\n[Act 37 of 2022 wef 01/01/2024]\n(3) Subject to subsection (3A), the number of fixed‑price carbon credits that must be surrendered under subsection (2)(a) is the number assessed by the Agency to have a total carbon price equal to the amount of tax charged.\n[Act 37 of 2022 wef 01/01/2024]\n(3A) Despite subsections (2)(a) and (3) and subject to section 33B, one eligible international carbon credit may be surrendered in place of one fixed-price carbon credit, in respect of such tax for such emissions year as may be prescribed.\n[Act 37 of 2022 wef 01/01/2024]\n(3B) Where any tax is required to be paid pursuant to a revision of an assessment under section 23 —\n(a)the number of fixed-price carbon credits (at the carbon price applicable to the year in which they are to be purchased for the payment) that must be surrendered under subsection (2)(a) is the number assessed by the Agency to have a total carbon price equal to the amount of the tax, rounded down to the nearest whole number of such fixed‑price carbon credits; and\n(b)subsection (3A) does not apply except in the circumstances and to the extent prescribed.\n[Act 37 of 2022 wef 01/01/2024]\n(4) If a registered person fails to make full payment of the tax in accordance with subsection (2) within the time specified under subsection (1) —\n(a)a financial penalty of 5% of the amount of tax assessed and remaining unpaid, is payable in addition to the tax that remains unpaid;\n(b)the Agency must serve a demand note on the registered person and if payment is not made within 30 days after the date of the service of the demand note, the Agency may proceed to enforce payment of the tax and penalty under this Act; and\n(c)despite paragraphs (a) and (b), if the amount of tax remaining unpaid is not paid within 60 days after the imposition of the financial penalty under paragraph (a), an additional financial penalty of 1% of the amount of tax remaining unpaid is payable for each completed month that the tax remains unpaid, but not exceeding triple the amount of tax remaining unpaid in total.\n(5) The amount of tax remaining unpaid and any financial penalty must be paid to the Agency in the form and manner required by the Agency."
+   }
+  },
+  {
+   "id": "SG-H426-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Relief or remission from tax or penalty"
+   },
+   "text": {
+    "en": "18.—(1) The Agency may, if the Agency thinks that it is just and equitable to do so, and upon such conditions as the Agency may impose, give to any registered person any relief or remission from —\n(a)the tax or any part of the tax to which the registered person has been assessed to be liable; or\n(b)any financial penalty or part of any financial penalty to which the registered person is liable under section 17(4).\n(2) The Minister may, upon such conditions as the Minister may impose, give to any registered person any relief or remission from —\n(a)the tax or any part of the tax to which the registered person has been assessed to be liable; or\n(b)any financial penalty or part of any financial penalty to which the registered person is liable under section 17(4)."
+   }
+  },
+  {
+   "id": "SG-H426-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Refund of tax, etc."
+   },
+   "text": {
+    "en": "19.—(1) Where —\n(a)a registered person has surrendered fixed‑price carbon credits, or both fixed‑price carbon credits and eligible international carbon credits, for any tax charged in relation to a taxable facility of the registered person; and\n[Act 37 of 2022 wef 01/01/2024]\n(b)the tax charged is reduced as a result of —\n(i)any relief or remission given to a registered person under section 18; or\n(ii)any revision under section 23 to an assessment of tax,\nthe registered person may apply to the Agency for a refund of the amount of tax so reduced.\n(2) For the purpose of subsection (1), if —\n(a)the registered person continues to hold an FPCC registry account for the taxable facility; and\n[Act 37 of 2022 wef 01/01/2024]\n(b)the revision was to correct an error that was not on the part of the Agency,\nthen, the Agency must effect the refund by crediting the FPCC registry account for the taxable facility with the number of fixed‑price carbon credits with a total carbon price equal to the amount of tax so reduced.\n[Act 37 of 2022 wef 01/01/2024]\n(2A) To avoid doubt, the fixed-price carbon credits refunded under subsection (2) must be at the carbon price applicable for the purchase of fixed‑price carbon credits in the year in which the refund is made.\n[Act 37 of 2022 wef 01/01/2024]\n(2B) Where the amount of the refund results in there being a fraction of a fixed‑price carbon credit mentioned in subsection (2A), the resulting number of fixed‑price carbon credits is to be rounded down to the nearest whole number of such fixed‑price carbon credits.\n[Act 37 of 2022 wef 01/01/2024]\n(2C) No claim may be brought against the Government or the Agency for any value represented by the fraction of a fixed‑price carbon credit mentioned in subsection (2B).\n[Act 37 of 2022 wef 01/01/2024]\n(3) An application under subsection (1) must be made within 4 years after the date on which the relief or remission is given, or the revision is made, as the case may be.\n(4) Where any refund has been erroneously made or any fixed‑price carbon credit erroneously credited pursuant to subsection (1) or (2), the registered person refunded or whose FPCC registry account was credited with the fixed‑price carbon credit must pay to the Agency an amount equal to the amount of the erroneous refund or the carbon price of the fixed‑price carbon credit erroneously credited, upon demand being made by the Agency within 4 years after the date of the erroneous refund or credit.\n[Act 37 of 2022 wef 01/01/2024]\n(5) Nothing in this section operates to extend any time limit for an appeal or to validate any objection or appeal that is otherwise invalid, or to authorise the revision of any assessment or other matter that has become final and conclusive."
+   }
+  },
+  {
+   "id": "SG-H426-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Recovery of tax and penalty, etc."
+   },
+   "text": {
+    "en": "20.—(1) Despite the provisions of any other written law —\n(a)any tax remaining unpaid;\n(b)any financial penalty imposed under section 17(4);\n(c)any amount demanded under section 17(4) that is not paid within the time specified in the demand; and\n(d)any amount of refund erroneously made or any amount equal to the carbon price of any fixed‑price carbon credit erroneously credited, mentioned in section 19,\nis recoverable as a debt due to the Government and the Agency may, in the name of the Agency, sue for such tax, financial penalty or amount.\n[Act 37 of 2022 wef 01/01/2024]\n(2) For the purposes of section 33(2) of the Limitation Act 1959, any financial penalty imposed under section 17(4) is treated as interest on tax.\n(3) To avoid doubt, section 6(4) of the Limitation Act 1959 does not apply to any financial penalty imposed under section 17(4)."
+   }
+  },
+  {
+   "id": "SG-H426-A20.001",
+   "no": 20.001,
+   "noLabel": {
+    "en": "20A."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Interpretation of this Division"
+   },
+   "text": {
+    "en": "20A.—(1) In this Division —\n“allowance”, in relation to a taxable facility that is eligible for an allowance for an emissions year, means the amount by which the total amount of reckonable GHG emissions of the taxable facility in the emissions year may be reduced for the purpose only of determining the amount of the tax chargeable for the emissions year, in accordance with an award of allowances given by the Minister under section 20E;\n“public body” and “responsible Minister”, in relation to a public body, have the meanings given by section 2(1) of the Public Sector (Governance) Act 2018.\n[Act 37 of 2022 wef 01/01/2024]\n(2) In this Division, a person is from the public sector if the person is a public officer or an employee of a public body.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A20.002",
+   "no": 20.002,
+   "noLabel": {
+    "en": "20B."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Application of this Division"
+   },
+   "text": {
+    "en": "20B. This Division applies in relation to any emissions year in the period from and including 1 January 2024 up to and including such date as the Minister may prescribe under section 20F.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A20.003",
+   "no": 20.003,
+   "noLabel": {
+    "en": "20C."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Reduction of reckonable GHG emissions chargeable to tax"
+   },
+   "text": {
+    "en": "20C. Despite section 16(3), where a taxable facility is eligible for any allowance for any emissions year, the amount of the tax chargeable under section 16(1) for that emissions year is calculated based on the formula (A – C) × B, where —\n(a)A and B have the meanings given by section 16(3)(a) and (b), respectively;\n(b)C is the allowance for the taxable facility for the emissions year; and\n(c)(A – C) is rounded up to the nearest metric tonne.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A20.004",
+   "no": 20.004,
+   "noLabel": {
+    "en": "20D."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Taxable facilities eligible for allowances"
+   },
+   "text": {
+    "en": "20D.—(1) A taxable facility of a registered person is eligible for allowances if —\n(a)the registered person is in the business of making exports or making supplies to another person who is in the business of making exports, and the taxable facility is used in connection with that business of the registered person; and\n(b)the Minister determines that that business of the registered person is of sufficient economic or strategic importance to the growth, expansion, development or wellbeing of the Singapore economy, to justify an award of allowances for the taxable facility.\n[Act 37 of 2022 wef 01/01/2024]\n(2) The Minister must notify the registered person of a taxable facility that is eligible for allowances of that fact, and grant the registered person an award of allowances for the taxable facility.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A20.005",
+   "no": 20.005,
+   "noLabel": {
+    "en": "20E."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Awards of allowances"
+   },
+   "text": {
+    "en": "20E.—(1) The Minister must, in an award of allowances for any taxable facility, specify —\n(a)the emissions years in respect of which the taxable facility is entitled to allowances; and\n(b)the methodology by which the amount of allowance for each such emissions year is to be calculated.\n[Act 37 of 2022 wef 01/01/2024]\n(2) In devising the methodology for any emissions year, the Minister may —\n(a)adopt or take into consideration any or any combination of the following sub-paragraphs (including any part thereof):\n(i)the whole or any part (with or without modification) of any matter relevant to GHG emissions or intensity, or energy use or efficiency, including any internationally‑recognised benchmark;\n(ii)any other matter that the Minister considers appropriate for the purpose of incentivising the continued reduction in the GHG emissions of the taxable facility; and\n(b)provide for a maximum amount of allowance for any emissions year, determined —\n(i)by prescribing that the tax chargeable for an emissions year (calculated based on the formula (A – C) × B in section 20C) must not, when divided by A for that emissions year, result in an amount that is less than the amount specified by the Minister in the award for this purpose; or\n(ii)in any other manner that the Minister considers appropriate to incentivise the continued reduction in GHG emissions of the taxable facility.\n[Act 37 of 2022 wef 01/01/2024]\n(3) For the purposes of subsection (2), the Minister may devise different methodologies for —\n(a)different taxable facilities;\n(b)different classes of taxable facilities;\n(c)different emissions years (including with respect to the same taxable facility); or\n(d)different circumstances.\n[Act 37 of 2022 wef 01/01/2024]\n(4) The Minister may at any time, in respect of any emissions year for which a taxable facility is entitled to an allowance under an award of allowances, amend the award of allowances by —\n(a)modifying the methodology specified for the emissions year; or\n(b)substituting some other methodology for the emissions year,\nin any circumstances that the Minister thinks appropriate, including where the original methodology ceases to be internationally‑recognised, or ceases to be valid or applicable, or ceases to have or is reduced in its relevance, in relation to the registered person or the business for which the taxable facility is used.\n[Act 37 of 2022 wef 01/01/2024]\n(5) The modified or substituted methodology must not be applied in respect of any emissions year for which the Agency has made an assessment of tax under Division 2 of Part 5, but may be so applied if the assessment is being revised under section 23.\n[Act 37 of 2022 wef 01/01/2024]\n(6) The Minister must, in respect of each emissions year mentioned in subsection (1)(a), determine the amount of the allowance for that emissions year in accordance with the methodology mentioned in subsection (1)(b) for that emissions year.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A20.006",
+   "no": 20.006,
+   "noLabel": {
+    "en": "20F."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "20F. The Minister may make regulations for any matter that is necessary, required or permitted to be prescribed to give effect to this Division, and the regulations may make different provisions for —\n(a)different persons or business facilities;\n(b)different classes of persons or business facilities;\n(c)different emissions years (including with respect to the same taxable facility); or\n(d)different circumstances.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A20.007",
+   "no": 20.007,
+   "noLabel": {
+    "en": "20G."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Assignment of function or power to public body"
+   },
+   "text": {
+    "en": "20G.—(1) The Minister may assign any of his or her functions and powers under this Division to any public body.\n[Act 37 of 2022 wef 01/01/2024]\n(2) Where the public body is not one for which the Minister is the responsible Minister, the Minister must consult the responsible Minister for the public body on the assignment.\n[Act 37 of 2022 wef 01/01/2024]\n(3) An assignment under this section —\n(a)must be made by order in the Gazette;\n(b)may be general or limited;\n(c)may be subject to conditions that are consistent with the nature of the assigned function or power;\n(d)may be to 2 or more public bodies at the same time; and\n(e)does not prevent the Minister from carrying out or exercising the assigned function or power.\n[Act 37 of 2022 wef 01/01/2024]\n(4) Upon an assignment being made under this section —\n(a)the public body, when carrying out the function or exercising the power assigned to it, is treated as carrying out a function or exercising a power conferred on the public body under the Act that establishes it; and\n(b)the public body must carry out the function or exercise the power assigned to it in accordance with any directions given by the Minister.\n[Act 37 of 2022 wef 01/01/2024]\n(5) A member of the public body who is not from the public sector must not be involved in the carrying out of a function or the exercise of a power assigned to the public body.\n[Act 37 of 2022 wef 01/01/2024]\n(6) The public body must not delegate a function or power assigned to it, to any of its members, or to any other person, who is not from the public sector.\n[Act 37 of 2022 wef 01/01/2024]\n(7) Without affecting any obligation as to secrecy or other restriction against the disclosure of information imposed by any law or contract —\n(a)a member of the public body who is from the public sector; or\n(b)a person who has been delegated a function or power assigned to the public body,\nthat receives or obtains any information for the purposes of this Division, must not disclose or provide access to such information to a member of the public body, or any other person, who is not from the public sector.\n[Act 37 of 2022 wef 01/01/2024]\n(8) Subsection (7) does not apply to the following information:\n(a)information the disclosure of which has been approved by the Minister;\n(b)information relating to a person —\n(i)for which consent for disclosure has been obtained from the person; or\n(ii)that is already in the possession of the public body;\n(c)information that is publicly available.\n[Act 37 of 2022 wef 01/01/2024]\n(9) The public body may carry out a function or exercise a power assigned to it despite the absence of a quorum at any meeting of the public body because of subsection (5) or (7), and the absence of a quorum does not affect the validity of anything done by the public body at the meeting.\n[Act 37 of 2022 wef 01/01/2024]\n(10) This section does not permit the assignment of —\n(a)any power to make subsidiary legislation; and\n(b)the power of assignment in this section.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Assessments by Agency"
+   },
+   "text": {
+    "en": "21.—(1) Upon approving a verified emissions report for a reporting period, or the verified emissions reports for the reporting periods, for an emissions year for a taxable facility, the Agency must assess —\n(a)the tax charged under section 16(1) for the emissions year; and\n[Act 37 of 2022 wef 01/01/2024]\n(b)the number of carbon credits that the registered person must surrender to pay the tax.\n[Act 37 of 2022 wef 01/01/2024]\n(2) Where the Agency is of the opinion that a registered person is liable to pay the tax for an emissions year and —\n(a)any verified emissions report for a reporting period for the emissions year has not been submitted for the Agency’s approval as required by section 11(1); or\n(b)any such verified emissions report submitted is incomplete or inaccurate such that, or for any other reason, the Agency is unable to approve the same before 15 August of the year immediately following the emissions year,\nthe Agency may, to the best of the Agency’s judgment, assess the matters in subsection (1).\n[Act 37 of 2022 wef 01/01/2024]\n(3) In making an assessment under subsection (2), the Agency may have regard to any verified emissions report (whether or not approved by the Agency) previously submitted to the Agency for the business facility to which the tax relates, and if there is no such verified emissions report, the Agency may have regard to —\n(a)emissions reports submitted for the business facility as a reportable facility;\n(b)energy use reports submitted under the Energy Conservation Act 2012 for the business facility; or\n(c)any other document which may assist the Agency in determining or estimating the total amount of reckonable GHG emissions of the business facility as a taxable facility for the emissions year in question.\n[Act 37 of 2022 wef 01/01/2024]\n(4) An assessment under subsection (2) does not affect any liability of any registered person under this Act in relation to the registered person’s failure to submit a verified emissions report or a registered person’s submission of a verified emissions report that is incomplete or inaccurate.\n[Act 37 of 2022 wef 01/01/2024]\n(5) Upon making an assessment under subsection (1) or (2), the Agency must serve a notice of assessment on the registered person liable to pay the tax that sets out the matters in subsection (1).\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Advance assessments"
+   },
+   "text": {
+    "en": "22.—(1) Despite section 21, where the Agency is notified that a registered person will cease, or is otherwise of the opinion that a registered person has ceased or is likely to cease, to have operational control over a taxable facility, the Agency may, to the best of the Agency’s judgment, assess the matters mentioned in section 21(1) for the taxable facility in relation to any emissions year for which the Agency has not issued an assessment under section 21(1) or (2) for the taxable facility.\n[Act 37 of 2022 wef 01/01/2024]\n(2) In making an assessment under subsection (1), the Agency may have regard to any verified emissions report (whether or not approved by the Agency) previously submitted to the Agency for the taxable facility.\n(3) Where, in relation to a business facility that is a taxable facility, no verified emissions report for the business facility as a taxable facility is available for the purpose of subsection (2), the Agency may have regard to —\n(a)emissions reports submitted for the business facility as a reportable facility;\n(b)energy use reports submitted under the Energy Conservation Act 2012 for the business facility; or\n(c)any other document which may assist the Agency in determining or estimating the total amount of reckonable GHG emissions of the business facility as a taxable facility for the emissions year in question.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Revision of assessments"
+   },
+   "text": {
+    "en": "23.—(1) The Agency may revise any assessment (whether made under section 21 or 22 and whether revised previously under this section) if —\n(a)the Agency is of the opinion that the assessment is no longer accurate, including —\n(i)where the Agency approves a verified emissions report after an assessment under section 21(2); or\n(ii)where the Agency approves any change to an approved verified emissions report on which the assessment was based; or\n(b)the registered person on whom the notice of assessment has been served raises any objection to the assessment, and, upon consideration of such objection, the Agency agrees with the objection.\n(1A) Despite subsection (1)(b), a registered person may not raise any objection to an assessment in respect of any amount of allowance (as defined in section 20A) included in the notice of assessment for the registered person.\n[Act 37 of 2022 wef 01/01/2024]\n(2) A revision under subsection (1)(a) must be made within 4 years after the date of the service of the notice of assessment for the assessment sought to be revised.\n(3) For the purpose of subsection (1)(b), the registered person must submit a written notice of objection to the Agency —\n(a)within 30 days after the date of the service of the notice of assessment for the assessment sought to be revised; and\n(b)stating precisely the grounds of objections.\n(4) If the Agency is satisfied that there is any good reason to do so, the Agency may extend the period mentioned in subsection (3)(a).\n(5) For the purpose of considering any notice of objection, the Agency may —\n(a)require the registered person that gave the notice —\n(i)to provide such particulars as the Agency may consider necessary with respect to the GHG emissions of the taxable facility in question; and\n(ii)to produce all books or other documents in its custody relating to such GHG emissions; and\n(b)summon any person that the Agency thinks is able to give evidence respecting the assessment to attend before the Agency or any authorised officer, who may examine the person on oath or otherwise.\n(6) If the Agency refuses to revise an assessment pursuant to subsection (1)(b), the Agency must serve on the registered person a notice of refusal to revise the assessment.\n(7) Upon revising an assessment under subsection (1), the Agency must serve on the registered person a notice of assessment for the assessment as revised, for the matters mentioned in section 21(1)."
+   }
+  },
+  {
+   "id": "SG-H426-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Waiver of small assessments"
+   },
+   "text": {
+    "en": "24. Where it appears to the Agency that the amount of any tax or additional tax for any emissions year in relation to a taxable facility does not exceed an amount that is 5 times the carbon price applicable for the purchase of fixed-price carbon credits in the year immediately after the emissions year, or any higher amount as may be prescribed in substitution, the Agency may waive the assessment of such tax.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Mistakes in assessment"
+   },
+   "text": {
+    "en": "25. If the provisions of this Act are in substance and effect complied with, no assessment, charge or demand for any tax is to be quashed or affected by reason of any mistake in —\n(a)the name of any registered person liable to pay the tax; or\n(b)the amount of tax assessed as charged."
+   }
+  },
+  {
+   "id": "SG-H426-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Fixed-price carbon credits"
+   },
+   "text": {
+    "en": "26.—(1) The carbon price of a fixed‑price carbon credit is specified in Part 2 of the Third Schedule.\n[Act 37 of 2022 wef 01/01/2024]\n(2) Except as permitted under this Act, a fixed‑price carbon credit cannot be sold, transferred, assigned or otherwise disposed of or dealt with.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Crediting of fixed-price carbon credits"
+   },
+   "text": {
+    "en": "27.—(1) Subject to section 32, the Agency must credit into the FPCC registry account for a taxable facility of a registered person, any number of fixed‑price carbon credits that the registered person applies and pays for, in relation to that FPCC registry account.\n[Act 37 of 2022 wef 01/01/2024]\n(2) A registered person may apply to the Agency to transfer any fixed‑price carbon credit from an FPCC registry account for any of its taxable facilities to the FPCC registry account for any of its other taxable facilities.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Surrender of fixed-price carbon credits"
+   },
+   "text": {
+    "en": "28.—(1) Subject to section 32, a registered person may surrender one or more fixed‑price carbon credits in the FPCC registry account for a taxable facility of the registered person, in payment of the tax payable by the registered person in relation to the taxable facility.\n[Act 37 of 2022 wef 01/01/2024]\n(2) The Agency must, in respect of every fixed‑price carbon credit surrendered under subsection (1), remove the fixed‑price carbon credit from the FPCC registry account, and the registered person is treated as having paid the tax in relation to the taxable facility, to the extent of the total carbon price of the fixed‑price carbon credits so surrendered and removed.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Cancellation of fixed-price carbon credits"
+   },
+   "text": {
+    "en": "29.—(1) Where —\n(a)a registered person has failed to pay any tax in accordance with section 17 in relation to any taxable facility of the registered person; and\n(b)the registered person has any fixed‑price carbon credit in the FPCC registry account for that taxable facility,\nthe Agency may cancel the fixed‑price carbon credit and remove it from the FPCC registry account, and the registered person is treated as having paid the tax in relation to the taxable facility to the extent of the carbon price of the fixed‑price carbon credit so cancelled and removed.\n[Act 37 of 2022 wef 01/01/2024]\n(2) Where any fixed‑price carbon credit in an FPCC registry account for a taxable facility of a registered person has been obtained by the registered person through fraud or any other unlawful means, the Agency may cancel the fixed‑price carbon credit and remove it from the FPCC registry account.\n[Act 37 of 2022 wef 01/01/2024]\n(3) A registered person that has any fixed‑price carbon credit cancelled and removed under subsection (2) —\n(a)is not treated as having paid any tax in relation to the taxable facility to which the FPCC registry account relates, to the extent of the carbon price of the fixed‑price carbon credit; and\n[Act 37 of 2022 wef 01/01/2024]\n(b)is not entitled to any refund on the fixed‑price carbon credit.\n[Act 37 of 2022 wef 01/01/2024]\n(4) The Agency must not exercise the power under subsection (1) or (2) without prior notice to the registered person.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Refunds on fixed-price carbon credits"
+   },
+   "text": {
+    "en": "30. A registered person is not entitled to any refund on any fixed-price carbon credit except to the extent permitted by section 33.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Opening of fixed-price carbon credit registry account"
+   },
+   "text": {
+    "en": "31. For the purpose of Division 3, the Agency must open, for each taxable facility of a registered person, a registry account in the Fixed‑Price Carbon Credits Registry and assign a unique identifier to the registry account.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A31.001",
+   "no": 31.001,
+   "noLabel": {
+    "en": "31A."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Conversion of fixed-price carbon credits upon change in carbon price"
+   },
+   "text": {
+    "en": "31A.—(1) Where in any year (year X) —\n(a)a registered person has in its FPCC registry account any fixed-price carbon credits purchased at the carbon price for year X-1; and\n(b)the carbon price for year X differs from the carbon price for the year X-1,\nthe Agency must convert the fixed-price carbon credits purchased at the carbon price for year X-1 into such number of fixed‑price carbon credits as if they had been purchased in year X, by applying the formula\nwhere —\n(c)R is the number of fixed-price carbon credits in the account that were purchased at the carbon price for year X-1;\n(d)S is the carbon price for the purchase of fixed‑price carbon credits in year X-1; and\n(e)T is the carbon price for the purchase of fixed‑price carbon credits in year X.\n(2) Where the adjustment under subsection (1) results in there being a fraction of a fixed-price carbon credit, the resulting number of fixed‑price carbon credits is to be rounded down to the nearest whole number of such fixed‑price carbon credits.\n(3) No claim may be brought against the Government or the Agency for any value represented by the fraction of a fixed‑price carbon credit mentioned in subsection (2).\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Suspension of fixed-price carbon credit registry account"
+   },
+   "text": {
+    "en": "32.—(1) The Agency may suspend an FPCC registry account for a taxable facility of a registered person for a period not exceeding one year, if the Agency reasonably believes that —\n(a)any information given in relation to the registration of the taxable facility was false or misleading in any material particular;\n(b)there has been unauthorised access to the account;\n(c)the account is used or intended to be used for purposes of a criminal offence; or\n(d)any fixed‑price carbon credit in the account was obtained through fraud or any other unlawful means.\n[Act 37 of 2022 wef 01/01/2024]\n(2) For so long as an FPCC registry account is suspended —\n(a)no fixed‑price carbon credits may be purchased and credited into the account;\n[Act 37 of 2022 wef 01/01/2024]\n(b)no fixed‑price carbon credits in the account may be transferred to another FPCC registry account under section 27(2) or surrendered under section 28; and\n[Act 37 of 2022 wef 01/01/2024]\n(c)section 17(2)(b) applies to any tax required to be paid during the period of suspension.\n[Act 37 of 2022 wef 01/01/2024]\n(3) If the Agency is satisfied that there is good reason to do so, the Agency may —\n(a)extend the period of the suspension for any further period or periods, each not exceeding one year; or\n(b)lift the suspension before the period of suspension expires.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Closing of fixed-price carbon credit registry account"
+   },
+   "text": {
+    "en": "33.—(1) The Agency may close an FPCC registry account for a taxable facility of a registered person in any of the following circumstances:\n(a)upon the application of the registered person, if the taxable facility is deregistered as such;\n(b)if the Agency is satisfied that the account has been, is being or is intended to be used for the commission of any criminal offence;\n(c)if the account has been inactive for 5 years from the last transaction carried out on the account;\n(d)if the person for whom the account was opened has ceased to be registered as a registered person;\n(e)in any other circumstances as may be prescribed.\n[Act 37 of 2022 wef 01/01/2024]\n(2) Before closing the FPCC registry account, the Agency must give the registered person written notice of the Agency’s intention to do so if —\n(a)unless otherwise prescribed, the proposed closure is pursuant to subsection (1)(c) or (d); or\n(b)the proposed closure is pursuant to circumstances prescribed under subsection (1)(e), and this subsection is prescribed as applying with respect to those circumstances.\n[Act 37 of 2022 wef 01/01/2024]\n(3) The written notice under subsection (2) must state —\n(a)the consequences of closing the FPCC registry account mentioned in subsection (6); and\n[Act 37 of 2022 wef 01/01/2024]\n(b)the date by which any written objection to the proposed closure must be given to the Agency, which must be a date at least 30 days after the date of the service of the notice.\n(4) The Agency must not close the FPCC registry account if the Agency receives a written objection from the registered person to the proposed closure by the date mentioned in subsection (3)(b), unless the Agency is satisfied that the objection is frivolous or vexatious or has been withdrawn.\n[Act 37 of 2022 wef 01/01/2024]\n(5) The Agency may close the FPCC registry account if the Agency does not receive a written objection from the registered person by the date mentioned in subsection (3)(b).\n[Act 37 of 2022 wef 01/01/2024]\n(6) Upon closing the FPCC registry account of the registered person under this section, the Agency must —\n(a)cancel any fixed‑price carbon credit remaining in the FPCC registry account and remove it from the FPCC registry account; and\n[Act 37 of 2022 wef 01/01/2024]\n(b)refund the registered person an amount equal to the carbon price of the fixed‑price carbon credit cancelled and removed.\n[Act 37 of 2022 wef 01/01/2024]\n(7) A registered person is not entitled to a refund under subsection (6) if the cancellation and removal resulted from the closure of the FPCC registry account under subsection (1)(b).\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A33.001",
+   "no": 33.001,
+   "noLabel": {
+    "en": "33A."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Eligible international carbon credit"
+   },
+   "text": {
+    "en": "33A. An eligible international carbon credit is an international carbon credit that —\n(a)meets the prescribed criteria; and\n(b)is accepted as an eligible international carbon credit by the Agency in accordance with any direction of the Minister.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A33.002",
+   "no": 33.002,
+   "noLabel": {
+    "en": "33B."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "Surrender of eligible international carbon credits"
+   },
+   "text": {
+    "en": "33B.—(1) For the purpose of section 17(3A), the total number of eligible international carbon credits surrendered must not exceed the prescribed limit.\n(2) Despite subsection (1), the Minister may permit eligible international carbon credits to be surrendered in excess of the prescribed limit in any particular case or class of cases.\n(3) Where an eligible international carbon credit is surrendered in place of a fixed‑price carbon credit for the purpose of paying any tax in relation to a taxable facility, the registered person of the taxable facility is treated as having paid the tax to the extent of the carbon price of the fixed‑price carbon credit that the eligible international carbon credit has been surrendered in place of.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A33.003",
+   "no": 33.003,
+   "noLabel": {
+    "en": "33C."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "No refunds, etc., on excess eligible international carbon credit surrendered"
+   },
+   "text": {
+    "en": "33C. Where eligible international carbon credits are surrendered in excess of the prescribed limit under section 33B in connection with the tax chargeable on the reckonable GHG emissions of a taxable facility for any emissions year —\n(a)the number of eligible international carbon credits surrendered in excess of the prescribed limit are not treated as surrendered for the purpose of paying the tax for that emissions year, and may not be treated as having been surrendered for the purpose of paying any tax for any prior or subsequent emissions year; and\n(b)no claim may be brought against the Government or the Agency for any value represented by the number of eligible international carbon credits surrendered in excess of the prescribed limit.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A33.004",
+   "no": 33.004,
+   "noLabel": {
+    "en": "33D."
+   },
+   "chapter": {
+    "en": "PART 5 CARBON PRICING"
+   },
+   "heading": {
+    "en": "ICC Registry and ICC registry accounts"
+   },
+   "text": {
+    "en": "33D. The Agency may establish, maintain and manage an International Carbon Credits Registry, and open and close ICC registry accounts for registered persons in such registry for purposes connected with the surrender of eligible international carbon credits in place of fixed‑price carbon credits in connection with the payment of any tax under this Act.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 6 APPEALS"
+   },
+   "heading": {
+    "en": "Appeals to Minister"
+   },
+   "text": {
+    "en": "34.—(1) A registered person that is aggrieved by a decision of the Agency —\n(a)refusing to deregister a business facility as a taxable facility of the registered person;\n(b)refusing to approve a verified emissions report or a monitoring plan for a business facility of the registered person;\n(c)refusing to refund any tax under section 19(1) or credit any fixed‑price carbon credit into the registered person’s FPCC registry account under section 19(2); or\n[Act 37 of 2022 wef 01/01/2024]\n(d)refusing to revise any assessment relating to the registered person pursuant to section 23,\nmay appeal against the decision to the Minister.\n(2) An appeal under subsection (1) must be made by lodging with the Minister a written notice of appeal within 30 days after the date of service of the Agency’s decision appealed against.\n(3) The notice of appeal must provide adequate details of the grounds for the appeal.\n(4) For the purpose of determining an appeal, the Minister may require any person to provide to the Minister such information within the person’s knowledge, and any document in the person’s possession or under the person’s control, as the Minister considers relevant to the appeal.\n(5) Where the Minister considers that an appeal under subsection (1) involves issues of such nature or complexity that it ought to be considered and determined by persons with particular technical or other specialised knowledge, the Minister may establish an Appeal Panel to consider and determine the appeal."
+   }
+  },
+  {
+   "id": "SG-H426-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 6 APPEALS"
+   },
+   "heading": {
+    "en": "Effect of appeal, etc."
+   },
+   "text": {
+    "en": "35. An appeal under section 34 does not suspend the effect of the decision appealed against unless otherwise provided in this Act, or allowed by the Minister subject to such conditions as the Minister may impose (including any condition for the provision of security)."
+   }
+  },
+  {
+   "id": "SG-H426-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 6 APPEALS"
+   },
+   "heading": {
+    "en": "Disposal of appeal"
+   },
+   "text": {
+    "en": "36.—(1) Upon receipt of a notice of appeal under section 34, the Minister may dismiss the appeal if the Minister considers it to be trivial, frivolous or vexatious.\n(2) Upon considering an appeal, the Minister or an Appeal Panel (as the case may be) may determine the appeal by —\n(a)confirming, varying or reversing any decision of the Agency on appeal; or\n(b)directing the Agency to reconsider the decision of the Agency on appeal.\n(3) Unless section 37 applies, the determination of the Minister or an Appeal Panel under this Part is final."
+   }
+  },
+  {
+   "id": "SG-H426-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 6 APPEALS"
+   },
+   "heading": {
+    "en": "Appeals to General Division of High Court"
+   },
+   "text": {
+    "en": "37.—(1) The appellant or the Agency may appeal to the General Division of the High Court from the decision of the Minister or an Appeal Panel under this Part upon any question of law or of mixed law and fact.\n[40/2019]\n(2) Subsection (1) does not apply where the decision of the Minister or the Appeal Panel results in a change of less than 250 tCO2e × R in the amount of tax charged, where R is the carbon tax rate used to determine the tax chargeable for the emissions year in question.\n[Act 37 of 2022 wef 01/01/2024]\n(3) The procedure governing and the costs of any such appeal to the General Division of the High Court are as provided for in the Rules of Court.\n[40/2019]\n(4) The General Division of the High Court must hear and determine any such appeal and may confirm, vary or annul the decision of the Minister or the Appeal Panel (as the case may be) on appeal and make any further or other order on such appeal, whether as to costs or otherwise, as the General Division of the High Court considers fit.\n[40/2019]\n(5) There is a further right of appeal from decisions of the General Division of the High Court under this section as exists in the case of decisions made by the General Division of the High Court in the exercise of its original civil jurisdiction.\n[40/2019]"
+   }
+  },
+  {
+   "id": "SG-H426-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 6 APPEALS"
+   },
+   "heading": {
+    "en": "Composition and procedure of Appeal Panel"
+   },
+   "text": {
+    "en": "38.—(1) An Appeal Panel established under section 34(5) must comprise at least 3 individuals, at least one of whom has particular technical or other specialised knowledge in respect of the issues in the appeal.\n(2) The Minister must appoint one of the individuals of the Appeal Panel as the Chairperson of the Appeal Panel.\n(3) In establishing an Appeal Panel, the Minister may provide for —\n(a)the terms and conditions of the membership of the Appeal Panel, including the remuneration and allowances (if any) of any member of the Appeal Panel (which are to form part of the expenses of the Agency);\n(b)the procedure to be adopted by the Appeal Panel in considering any appeal referred to it; and\n(c)any other matter that the Minister considers incidental or expedient for the proper and efficient conduct of an appeal by the Appeal Panel.\n(4) An Appeal Panel is independent in the performance of its functions."
+   }
+  },
+  {
+   "id": "SG-H426-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 6 APPEALS"
+   },
+   "heading": {
+    "en": "Powers of Appeal Panel"
+   },
+   "text": {
+    "en": "39.—(1) An Appeal Panel has the powers, rights and privileges vested in a District Court on the hearing of an appeal, including —\n(a)enforcing the attendance of witnesses and their examination on oath or otherwise;\n(b)compelling the production of documents; and\n(c)awarding any costs or expenses as may be prescribed.\n(2) A summons signed by any member of the Appeal Panel authorised by the Appeal Panel for this purpose, is to be equivalent to any formal procedure capable of being issued in an action for enforcing the attendance of witnesses and compelling the production of documents.\n(3) A witness before an Appeal Panel is entitled to the same immunities and privileges as if the witness were a witness before a District Court.\n(4) Every member of the Appeal Panel, when and so long as the member acts as such, enjoys the same judicial immunity as is enjoyed by a District Judge.\n(5) No appeal or proceeding before an Appeal Panel and no act of the Appeal Panel is affected merely because at the relevant time —\n(a)there was a vacancy in the membership of the Appeal Panel, including a vacancy arising from a failure to appoint a member;\n(b)there was some defect or irregularity existing in the appointment or continuance in office of an individual purporting to be a member of the Appeal Panel; or\n(c)there was an irregularity in the Appeal Panel’s procedure that does not affect the merits of the determination made."
+   }
+  },
+  {
+   "id": "SG-H426-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 7 RECORDS AND REGISTERS"
+   },
+   "heading": {
+    "en": "Maintenance of records"
+   },
+   "text": {
+    "en": "40.—(1) Every registered person, accredited external auditor, and external auditor assessing any monitoring plan under section 13, must keep and maintain complete and accurate records containing such information and documents, and in accordance with such requirements, as may be prescribed.\n(2) The persons mentioned in subsection (1) must keep their respective records for at least the prescribed period and must, during the prescribed period —\n(a)make such records available for inspection by any authorised officer, as requested by the authorised officer; and\n(b)submit to any authorised officer any such records, and such other information and document, as requested by the authorised officer."
+   }
+  },
+  {
+   "id": "SG-H426-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 7 RECORDS AND REGISTERS"
+   },
+   "heading": {
+    "en": "Registers to be kept and maintained by Agency"
+   },
+   "text": {
+    "en": "41.—(1) The Agency must keep and maintain one or more registers, in which is or are entered such particulars as the Agency may determine, for the following:\n(a)registered persons;\n(b)reportable facilities of registered persons;\n(c)taxable facilities of registered persons;\n(d)FPCC registry accounts in the Fixed‑Price Carbon Credits Registry;\n[Act 37 of 2022 wef 01/01/2024]\n(e)ICC registry accounts in the International Carbon Credits Registry.\n[Act 37 of 2022 wef 01/01/2024]\n(2) Without affecting subsection (1), the Agency must enter the following particulars into the register of FPCC registry accounts for each FPCC registry account:\n(a)the taxable facility and registered person to which the FPCC registry account relates;\n[Act 37 of 2022 wef 01/01/2024]\n(b)the number and carbon price of the fixed‑price carbon credits credited into the FPCC registry account, and the date of the crediting;\n[Act 37 of 2022 wef 01/01/2024]\n(c)the number and carbon price of the fixed‑price carbon credits surrendered by the registered person, and the date of the surrender;\n[Act 37 of 2022 wef 01/01/2024]\n(d)the number and carbon price of the fixed‑price carbon credits in the FPCC registry account that are cancelled by the Agency, and the date of the cancellation;\n[Act 37 of 2022 wef 01/01/2024]\n(e)such other information as may be prescribed.\n[Act 37 of 2022 wef 01/01/2024]\n(2A) Without affecting subsection (1), the Agency must enter the following particulars into the register of ICC registry accounts for each ICC registry account:\n(a)the taxable facility and registered person to which the ICC registry account relates;\n(b)the number and details of the eligible international carbon credits surrendered in connection with the payment of any tax in relation to the taxable facility;\n(c)such other information as may be prescribed.\n[Act 37 of 2022 wef 01/01/2024]\n(3) Any register mentioned in subsection (1) may be kept and maintained electronically.\n(4) Where there is a deregistration under section 10, or an FPCC registry account is suspended under section 32 or closed under section 33, the Agency may —\n(a)remove the relevant register entry and the particulars under it, from the relevant register; or\n(b)indicate the fact of such deregistration, suspension or closure against the relevant register entry in the relevant register.\n[Act 37 of 2022 wef 01/01/2024]\n(5) Without affecting subsection (4), if the Agency is satisfied that —\n(a)any registered person is wound up or dissolved;\n(b)any registered person has ceased to have operational control over any reportable facility or taxable facility of the registered person; or\n(c)any reportable facility or taxable facility has ceased to be under the operational control of any person,\nthe Agency may —\n(d)remove the relevant register entry and the particulars under it, from the relevant register; or\n(e)indicate that fact against the relevant register entry in the relevant register."
+   }
+  },
+  {
+   "id": "SG-H426-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 7 RECORDS AND REGISTERS"
+   },
+   "heading": {
+    "en": "Correcting or updating register on Agency’s initiative"
+   },
+   "text": {
+    "en": "42.—(1) Subject to subsection (2), the Agency may correct or update any particulars of any registered person, reportable facility, taxable facility, FPCC registry account or ICC registry account entered in the relevant register if the Agency is satisfied that there is evidence of a conflict between the particulars and other information relating to the same —\n(a)in the possession or under the control of the Agency; or\n(b)obtained from such ministry or department of the Government, or statutory body or other body corporate, as may be prescribed.\n[Act 37 of 2022 wef 01/01/2024]\n(2) Except under prescribed circumstances, before the Agency corrects or updates any particulars under subsection (1), the Agency must —\n(a)inform the registered person to whom the particulars relate of the proposed correction or update; and\n(b)subject to subsection (3), obtain consent from the registered person to the proposed correction or update.\n(3) The Agency need not obtain the consent in subsection (2)(b) if the Agency is satisfied that any refusal of consent is frivolous or vexatious."
+   }
+  },
+  {
+   "id": "SG-H426-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 7 RECORDS AND REGISTERS"
+   },
+   "heading": {
+    "en": "Correcting or updating register on request"
+   },
+   "text": {
+    "en": "43.—(1) A registered person may apply to the Agency to correct an error or omission of any particulars entered in a register maintained by the Agency.\n(2) The Agency may, upon receiving an application under subsection (1), correct the error or omission if the Agency is satisfied that the error is typographical or clerical in nature.\n(3) The decision made by the Agency on whether to correct any error or omission under subsection (2) is final."
+   }
+  },
+  {
+   "id": "SG-H426-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 7 RECORDS AND REGISTERS"
+   },
+   "heading": {
+    "en": "Obligation to update changes to particulars"
+   },
+   "text": {
+    "en": "44.—(1) Whenever a change is made or occurs in any prescribed particulars registered in respect of a registered person, or a reportable facility, a taxable facility, an FPCC registry account or an ICC registry account of a registered person, the registered person must notify the Agency of the change in accordance with subsection (2).\n[Act 37 of 2022 wef 01/01/2024]\n(2) The notice mentioned in subsection (1) must —\n(a)specify the nature and date of the change;\n(b)contain such other information as may be prescribed;\n(c)be lodged within 14 days after the change, or any longer period as the Agency may allow in any particular case; and\n(d)be in such form and manner as the Agency may specify.\n(3) The Agency may require any notice required by this section to be verified in such manner and by such person as the Agency considers fit.\n(4) Upon verifying the notice, the Agency must update the register with the change in the particulars mentioned in the notice."
+   }
+  },
+  {
+   "id": "SG-H426-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 8 ADMINISTRATION AND ENFORCEMENT, ETC."
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "45. In this Part, unless the context otherwise requires —\n“computer” and “computer output” have the meanings given by section 2(1) of the Computer Misuse Act 1993;\n“document” includes, in addition to a document in writing —\n(a)any map, plan, graph or drawing;\n(b)any photograph;\n(c)any label, marking or other writing which identifies or describes anything of which it forms a part, or to which it is attached by any means;\n(d)any disc, tape, soundtrack or other device in which sounds or other data (not being visual images) are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced from it;\n(e)any film (including microfilm), negative, tape, disc or other device in which one or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced from it; and\n(f)any paper or other material on which there are marks, impressions, figures, letters, symbols or perforations having a meaning for persons qualified to interpret them;\n“writing” includes any mode of representing or reproducing words, figures, drawings or symbols in a visible form."
+   }
+  },
+  {
+   "id": "SG-H426-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 8 ADMINISTRATION AND ENFORCEMENT, ETC."
+   },
+   "heading": {
+    "en": "Entering premises, etc., to monitor compliance"
+   },
+   "text": {
+    "en": "46.—(1) Subject to subsection (2), for the purpose of administering or enforcing this Act or determining whether this Act has been complied with, an authorised officer may —\n(a)enter any premises —\n(i)during normal business hours without notice; or\n(ii)at any other time after giving at least 6 hours’ previous notice to the occupier of the premises (unless the occupier of the premises has consented to a shorter period of notice); and\n(b)exercise any of the powers set out in sections 47 and 48.\n(2) Before exercising the power of entry under subsection (1), the authorised officer must —\n(a)declare the office of the authorised officer; and\n(b)produce to the person against whom the authorised officer is acting such identification card as the Agency may direct authorised officers to carry."
+   }
+  },
+  {
+   "id": "SG-H426-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 8 ADMINISTRATION AND ENFORCEMENT, ETC."
+   },
+   "heading": {
+    "en": "Power to demand names and addresses on entering premises"
+   },
+   "text": {
+    "en": "47.—(1) An authorised officer who enters premises under section 46 may require any person found on the premises to —\n(a)give the person’s name and address and any other proof of identity; and\n(b)provide any other particulars,\nas the authorised officer may require for the purposes of this Act.\n(2) A person who, upon being required by the authorised officer to give the person’s name and address or other proof of identity or to provide any particulars under subsection (1) —\n(a)refuses to do so;\n(b)wilfully misstates the person’s name and address or proof of identity; or\n(c)provides false particulars,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H426-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 8 ADMINISTRATION AND ENFORCEMENT, ETC."
+   },
+   "heading": {
+    "en": "Power to search premises, etc."
+   },
+   "text": {
+    "en": "48.—(1) Without affecting section 49, an authorised officer who enters premises under section 46 has full and free access to the premises and any thing at the premises, and may exercise all or any of the following powers:\n(a)search the premises for any thing that may relate to compliance with this Act;\n(b)examine any activity conducted on the premises that may relate to compliance with this Act;\n(c)examine and check the operation of any thing on the premises that may relate to compliance with this Act;\n(d)take any photograph or make any video or audio recording or sketch on the premises of any such activity or thing;\n(e)carry out any inspection or test that may relate to compliance with this Act;\n(f)with such assistants and workmen as the authorised officer considers necessary —\n(i)affix or bring onto the premises any meter or instrument and take any reading from the meter or instrument; or\n(ii)take any reading from any meter or instrument on the premises;\n(g)require any person at the premises to do one or both of the following:\n(i)provide any information within the knowledge of that person;\n(ii)take reasonable steps to provide any document;\n(h)inspect any document, computer, computer program, computer software or computer output on the premises that may relate to compliance with this Act;\n(i)without payment, make copies of or take extracts from any such document, computer, computer program, computer software or computer output;\n(j)take onto the premises such equipment and materials as the authorised officer requires for the purpose of exercising any power under this section;\n(k)without payment, take possession of any thing on the premises where, in the opinion of the authorised officer —\n(i)the examination, inspection, checking, copying of or extraction from any part of such thing cannot reasonably be performed without taking possession;\n(ii)such thing may be interfered with or destroyed unless possession is taken; or\n(iii)such thing may be required as evidence in proceedings for a contravention of this Act or in proceedings for the recovery of any tax or penalty or in proceedings by way of an appeal against an assessment.\n(2) An authorised officer may, in addition to the powers in subsection (1) —\n(a)require any person who is able to operate any thing at the premises to do so for the purpose of enabling the authorised officer to ascertain whether it, or a disc, tape or other storage device that can be used with or is associated with it, contains information that is relevant to assessing compliance with this Act;\n(b)if such information is found in exercise of the power in paragraph (a) —\n(i)require the information to be provided in documentary form, and keep or copy the documents so provided; or\n(ii)transfer, or require the transfer of, the information to a disc, tape or other storage device, and remove it from the premises; and\n(c)in respect of any thing that the authorised officer takes possession of, require any person at the premises to provide the authorised officer with or grant the authorised officer access to any information, code, software or technology required to operate or access data contained in such thing, or to retransform, unscramble or decrypt data contained in such thing into readable and comprehensive format or text.\n(3) A person who, without reasonable excuse, fails, neglects or refuses to comply with a requirement of an authorised officer under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H426-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 8 ADMINISTRATION AND ENFORCEMENT, ETC."
+   },
+   "heading": {
+    "en": "Power to require persons to provide information and documents"
+   },
+   "text": {
+    "en": "49.—(1) For the purposes of administering or enforcing this Act or determining whether this Act has been complied with, an authorised officer may by written notice require any person to do one or both of the following:\n(a)to provide any authorised officer with any information within the knowledge of that person;\n(b)to provide any authorised officer with any document in the possession or under the control of the person.\n(2) The notice in subsection (1) may —\n(a)specify a time and place at which the person must provide the information or document, in the form and manner specified in the notice; or\n(b)require the person to attend personally before any authorised officer, at a place and time specified in the notice, to provide the information or document, in the form and manner specified in the notice.\n(3) To avoid doubt and without affecting subsections (1) and (2), the reference to a person in those subsections includes any energy supplier for the purpose of obtaining any information or document from the energy supplier in respect of the energy consumption data of any person or business facility that the energy supplier supplies energy to.\n(4) A person that, without reasonable excuse, fails, neglects or refuses to comply with a notice of an authorised officer under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction.\n(5) In this section, “energy supplier” means any of the following:\n(a)any gas licensee under the Gas Act 2001;\n(b)any supplier of oil, fuel or other type of energy."
+   }
+  },
+  {
+   "id": "SG-H426-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 8 ADMINISTRATION AND ENFORCEMENT, ETC."
+   },
+   "heading": {
+    "en": "General power to require information or documents"
+   },
+   "text": {
+    "en": "50.—(1) The power of an authorised officer to require a person to provide any information or document under section 48 or 49 includes the power —\n(a)to require the person, or any person who is or was an officer or employee of that person, to provide an explanation of the information or document;\n(b)if the information or document is not provided, to require that person to state, to the best of the person’s knowledge and belief, from whom the information or document may be obtained or where it is;\n(c)if the information is recorded otherwise than in legible form, without payment, to require the information to be provided in legible form; and\n(d)in the case of a document, without payment —\n(i)to inspect, copy, or take extracts from, the document and, in relation to a document kept in electronic form, to inspect, copy, or take extracts from, the document in legible form;\n(ii)to take possession of the document if in the opinion of the authorised officer —\n(A)the inspection, copying or extraction cannot reasonably be performed without taking possession of the document;\n(B)the document may be interfered with or destroyed unless possession of the document is taken; or\n(C)the document may be required as evidence in proceedings for an offence under this Act or in proceedings for the recovery of any tax or penalty, or in proceedings by way of an appeal against an assessment; and\n(iii)for the purposes of sub-paragraph (ii), to require the person to provide the authorised officer with or grant the authorised officer access to any information, code, software or technology required to access the document or data contained in the document, or to retransform, unscramble or decrypt data contained in the document into readable and comprehensive format or text.\n(2) A statement made by any person providing information under section 48(1)(g) or 49(2)(b) must —\n(a)be reduced to writing;\n(b)be read over to the person;\n(c)if the person does not understand English, be interpreted in a language that the person understands; and\n(d)after correction (if necessary) be signed by the person.\n(3) A person is not obliged under section 48 or 49 to provide (including through the production of a document) —\n(a)any information that the person is under any statutory obligation (other than sections 128, 128A, 129 and 131 of the Evidence Act 1893) to observe secrecy; or\n(b)any information subject to legal privilege.\n(4) The generality of the term “reasonable excuse” in sections 48(3) and 49(4) is not affected by subsection (3).\n(5) Except as provided under subsection (3), it is not a defence to a charge under section 48(3) or 49(4) for a failure to provide any information or document sought in accordance with the provision, that the person is under a duty of secrecy in respect of that information or the contents of that document (called in this section a displaced duty of secrecy).\n(6) A person that in good faith complies with a requirement or notice to provide any information or document is not to be treated as being in breach of a displaced duty of secrecy.\n(7) No civil or criminal action for a breach of a displaced duty of secrecy, other than a criminal action for an offence under section 53(b), lies against a person —\n(a)for providing any information or document if the person did so in good faith in compliance with a requirement or notice under section 48 or 49; or\n(b)for doing or omitting to do any act if the person did or omitted to do the act in good faith and as a result of complying with such a requirement or notice."
+   }
+  },
+  {
+   "id": "SG-H426-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 8 ADMINISTRATION AND ENFORCEMENT, ETC."
+   },
+   "heading": {
+    "en": "Additional powers in determining if person or business facility is registrable"
+   },
+   "text": {
+    "en": "51.—(1) Without affecting sections 46 to 50, an authorised officer may, for the purpose of ascertaining whether any person or any business facility is required to be registered under Part 3, by written notice, require the person to —\n(a)carry out any test or inspection specified in the notice; and\n(b)provide to any authorised officer a report of such test or inspection, within the time specified in the notice.\n(2) A person that, without reasonable excuse, fails to comply with a notice of an authorised officer under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000."
+   }
+  },
+  {
+   "id": "SG-H426-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 8 ADMINISTRATION AND ENFORCEMENT, ETC."
+   },
+   "heading": {
+    "en": "Obstructing Agency or authorised officer"
+   },
+   "text": {
+    "en": "52. A person that at any time hinders or obstructs the Agency or any authorised officer in the performance or execution of the duty of the Agency or authorised officer, or of any thing which the Agency or authorised officer is empowered or required to do, under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H426-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART 8 ADMINISTRATION AND ENFORCEMENT, ETC."
+   },
+   "heading": {
+    "en": "False statements, forging of documentation, etc."
+   },
+   "text": {
+    "en": "53. A person that —\n(a)makes or causes to be made any entry in a record, register or other document required to be kept under this Act which the person knows is false or misleading in any material particular; or\n(b)in response to any requirement or notice of an authorised officer under this Part, provides any information, document or statement that the person knows is false or misleading in any material particular,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H426-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART 8 ADMINISTRATION AND ENFORCEMENT, ETC."
+   },
+   "heading": {
+    "en": "Offences relating to registrations"
+   },
+   "text": {
+    "en": "54.—(1) A person that fails to apply to register as a registered person where required by section 7 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.\n(2) A person that fails to apply to register a business facility under the person’s operational control as a reportable facility where required by section 7 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.\n(3) A person that fails to apply to register a business facility under the person’s operational control as a taxable facility where required by section 7 shall be guilty of an offence and shall be liable on conviction to a fine that is the total of the following:\n(a)10% of the tax for which the person would have been liable had the business facility been registered as a taxable facility;\n(b)an amount not exceeding $10,000,\nand to a further penalty of $50 for every day or part of a day during which the offence continues after conviction.\n(4) A person that, in relation to an application for registration under this Act, makes or causes to be made any statement or declaration that the person knows is false or misleading in any material particular, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.\n(5) A person that, without reasonable excuse, fails to comply with section 9(2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H426-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "55."
+   },
+   "chapter": {
+    "en": "PART 8 ADMINISTRATION AND ENFORCEMENT, ETC."
+   },
+   "heading": {
+    "en": "Offences relating to submissions of unverified emissions reports"
+   },
+   "text": {
+    "en": "55.—(1) A person that fails to submit an emissions report, not being a verified emissions report, in accordance with section 11 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000, and to a further penalty of $50 for every day or part of a day during which the offence continues after conviction.\n(2) Without affecting subsection (1), a person that submits an emissions report, not being a verified emissions report, that is inaccurate shall be guilty of an offence and shall be liable on conviction to —\n(a)a fine not exceeding $10,000; and\n(b)in the case of a second or subsequent offence, to a fine not exceeding $20,000.\n(3) Subsection (2) does not apply to any inaccuracy notified to the Agency under section 15(1)."
+   }
+  },
+  {
+   "id": "SG-H426-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "56."
+   },
+   "chapter": {
+    "en": "PART 8 ADMINISTRATION AND ENFORCEMENT, ETC."
+   },
+   "heading": {
+    "en": "Offences relating to submissions of verified emissions reports"
+   },
+   "text": {
+    "en": "56.—(1) A person that fails to submit a verified emissions report in accordance with sections 11 and 12 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000, and to a further penalty of $50 for every day or part of a day during which the offence continues after conviction.\n(2) Without affecting subsection (1) and subject to subsections (3), (4) and (5), a person that —\n(a)submits a verified emissions report that is inaccurate; or\n(b)gives any incorrect information (including in the form of any document) in relation to any matter affecting the person’s liability to tax arising out of the verified emissions report,\nshall be guilty of an offence and shall be liable on conviction to a fine that is equal to the tax undercharged as a result of the inaccurate verified emissions report or incorrect information.\n(3) Despite subsection (2), if the inaccurate verified emissions report was submitted or the incorrect information given without reasonable excuse or through negligence, then the person shall be liable on conviction to —\n(a)a fine of an amount equal to double the tax undercharged as a result of the inaccurate verified emissions report or incorrect information; and\n[Act 37 of 2022 wef 01/01/2024]\n(b)a further fine of an amount not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.\n[Act 37 of 2022 wef 01/01/2024]\n(4) Despite subsection (2), if the inaccurate verified emissions report was submitted or the incorrect information given wilfully with intent to evade the tax or any part of the tax, then the person shall be liable on conviction to —\n(a)a fine of an amount equal to triple the tax undercharged as a result of the inaccurate verified emissions report or incorrect information; and\n[Act 37 of 2022 wef 01/01/2024]\n(b)a further fine of an amount not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.\n[Act 37 of 2022 wef 01/01/2024]\n(5) Despite subsection (2), if —\n(a)the inaccurate verified emissions report or incorrect information was prepared by or through the perpetration of any fraud, art or contrivance; and\n(b)the inaccurate verified emissions report was submitted or the incorrect information given wilfully with intent to evade the tax or any part of the tax,\nthen the person shall be liable on conviction to —\n(c)a fine of an amount equal to quadruple the tax undercharged as a result of the inaccurate verified emissions report or incorrect information; and\n[Act 37 of 2022 wef 01/01/2024]\n(d)a further fine of an amount not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both.\n[Act 37 of 2022 wef 01/01/2024]\n(6) Subsection (2) does not apply, including in relation to subsection (3), to any inaccuracy notified to the Agency under section 15(1).\n(7) In any proceedings for an offence under this section, it is not a defence for a defendant to prove that the verified emissions report was approved by the Agency."
+   }
+  },
+  {
+   "id": "SG-H426-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "57."
+   },
+   "chapter": {
+    "en": "PART 8 ADMINISTRATION AND ENFORCEMENT, ETC."
+   },
+   "heading": {
+    "en": "Offences relating to monitoring plans"
+   },
+   "text": {
+    "en": "57.—(1) A person that fails to submit a monitoring plan in accordance with section 13 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.\n(2) Without affecting subsection (1), a person that submits a monitoring plan that is inaccurate shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.\n(3) Subsection (2) does not apply to any inaccuracy notified to the Agency under section 15(1).\n(4) In any proceedings for an offence under subsection (2), it is not a defence for a defendant to prove that the monitoring plan was approved by the Agency."
+   }
+  },
+  {
+   "id": "SG-H426-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "58."
+   },
+   "chapter": {
+    "en": "PART 8 ADMINISTRATION AND ENFORCEMENT, ETC."
+   },
+   "heading": {
+    "en": "Other offences relating to emissions reports and monitoring plans"
+   },
+   "text": {
+    "en": "58. A person that fails to comply with any direction of the Agency under section 13(2), 14 or 15(2) served on the person, or fails to comply with section 15(1), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000."
+   }
+  },
+  {
+   "id": "SG-H426-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "59."
+   },
+   "chapter": {
+    "en": "PART 8 ADMINISTRATION AND ENFORCEMENT, ETC."
+   },
+   "heading": {
+    "en": "Offence relating to failure to pay tax"
+   },
+   "text": {
+    "en": "59. A person that, in accordance with a demand note served on the person under section 17(4)(b), fails to pay the tax specified in the demand note, shall be guilty of an offence and shall be liable on conviction to a fine that is triple the amount of tax specified in the demand note as being outstanding."
+   }
+  },
+  {
+   "id": "SG-H426-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "60."
+   },
+   "chapter": {
+    "en": "PART 8 ADMINISTRATION AND ENFORCEMENT, ETC."
+   },
+   "heading": {
+    "en": "Offences by authorised and unauthorised persons"
+   },
+   "text": {
+    "en": "60. A person (P) that —\n(a)being appointed for the due administration of this Act —\n(i)demands from any person an amount in excess of the authorised assessment of tax, or any carbon credits in excess of the authorised assessment of the number of carbon credits required to pay the tax;\n(ii)withholds for P’s own use or otherwise, any amount collected in payment of any carbon credit or as tax, or any part of such amount;\n(iii)gives a false return, whether verbal or in writing, of any number of carbon credits credited by, surrendered to or cancelled by P, or any amount collected by P as payment for any carbon credit, or any amount of tax collected or received by P; or\n(iv)defrauds any person, embezzles any money or otherwise uses P’s appointment to deal wrongly with the Agency or any other person; or\n(b)not being authorised under this Act to do so, sells or credits, or purports to sell or credit any carbon credits, or collects or attempts to collect tax under this Act,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both."
+   }
+  },
+  {
+   "id": "SG-H426-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "61."
+   },
+   "chapter": {
+    "en": "PART 8 ADMINISTRATION AND ENFORCEMENT, ETC."
+   },
+   "heading": {
+    "en": "Offences relating to appeals"
+   },
+   "text": {
+    "en": "61.—(1) A person that, without reasonable excuse, fails to comply with a requirement of the Minister under section 34(4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.\n(2) A person that is duly summoned to attend before an Appeal Panel under section 39(2) and, without reasonable excuse, does not so attend shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H426-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "62."
+   },
+   "chapter": {
+    "en": "PART 8 ADMINISTRATION AND ENFORCEMENT, ETC."
+   },
+   "heading": {
+    "en": "Offences relating to records and registers"
+   },
+   "text": {
+    "en": "62.—(1) A person that fails to comply with section 40 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent offence, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.\n(2) A person that fails to comply with section 44(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000."
+   }
+  },
+  {
+   "id": "SG-H426-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "63."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Notices and other documents may be given by authorised officer"
+   },
+   "text": {
+    "en": "63.—(1) All notices and other documents of any nature that the Agency is empowered to give under this Act may, subject to the direction of the Agency, be given by any authorised officer on behalf of the Agency.\n(2) Where any such notice or document mentioned in subsection (1) requires authentication, the signature or an official facsimile of the signature of any authorised officer affixed to the notice or document is sufficient authentication."
+   }
+  },
+  {
+   "id": "SG-H426-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "64."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Inaccuracies in document"
+   },
+   "text": {
+    "en": "64.—(1) No misnomer or inaccurate description of any person, place or thing named or described in any document prepared, issued or served under, by virtue of or for the purposes of this Act affects the operation of this Act in any way as respects that person, place or thing if that person, place or thing is so designated in the document as to be identifiable.\n(2) No proceedings taken under or by virtue of this Act are invalid for want of form."
+   }
+  },
+  {
+   "id": "SG-H426-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "65."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Evidence"
+   },
+   "text": {
+    "en": "65.—(1) The contents of any record, register or document prepared, issued or served by the Agency or any authorised officer under or for the purposes of this Act are presumed to be correct until the contrary is proved.\n(2) The Minister may prescribe for any record, register or document kept by the Agency or any authorised officer for the purposes of this Act to be public documents, in whole or in part.\n(3) Copies of or extracts from any record, register or document mentioned in subsection (1) that are —\n(a)certified by an officer or employee of the Agency to be true copies or extracts, as the case may be; and\n(b)signed by the officer or employee with the name and official title of the officer or employee,\nare admissible in evidence as proof of the contents of or extracts from the record, register or document.\n(4) In any suit under this section, a certificate signed by an authorised officer stating the name of the registered person and the amount of any tax, financial penalty or amount due from the registered person is sufficient evidence of the amount so due until the contrary is proved."
+   }
+  },
+  {
+   "id": "SG-H426-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "66."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Disclosure of information"
+   },
+   "text": {
+    "en": "66. The Agency may provide any information or document obtained under this Act by the Agency or any authorised officer, to any of the public officers or statutory bodies set out in the Fourth Schedule for the purpose of enabling the performance or discharge by the public officer or statutory body of the functions or duties of the public officer or statutory body generally or as specified in that Schedule."
+   }
+  },
+  {
+   "id": "SG-H426-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "67."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "67.—(1) A document that is permitted or required under this Act to be served on a person may be served as described in this section.\n(2) A document permitted or required under this Act to be served on an individual may be served —\n(a)by giving it to the individual personally;\n(b)by sending it by prepaid registered post to the address specified by the individual for the service of documents or, if no address is so specified, the individual’s residential address or business address;\n(c)by leaving it at the individual’s residential address with an adult apparently resident there, or at the individual’s business address with an adult apparently employed there;\n(d)by affixing a copy of the document in a conspicuous place at the individual’s residential address or business address;\n(e)by sending it by fax to the fax number last known to the person giving or serving the document as the fax number for the service of documents on the individual;\n(f)by sending it by email to the individual’s email address; or\n(g)by transmitting an electronic record of it to an account that the individual has with any electronic transactions service.\n(3) A document permitted or required under this Act to be served on a partnership (other than a limited liability partnership) may be served —\n(a)by giving it to any partner or other like officer of the partnership;\n(b)by leaving it at, or by sending it by prepaid registered post to, the partnership’s business address;\n(c)by sending it by fax to the fax number used at the partnership’s business address;\n(d)by sending it by email to the partnership’s email address; or\n(e)by transmitting an electronic record of it to an account that the partnership has with any electronic transactions service.\n(4) A document permitted or required under this Act to be served on a body corporate (including a limited liability partnership) or an unincorporated association may be served —\n(a)by giving it to the secretary or other like officer of the body corporate or unincorporated association or the limited liability partnership’s manager;\n(b)by leaving it at, or by sending it by prepaid registered post to, the body corporate’s or unincorporated association’s registered office or principal office in Singapore;\n(c)by sending it by fax to the fax number used at the body corporate’s or unincorporated association’s registered office or principal office in Singapore;\n(d)by sending it by email to the body corporate’s or unincorporated association’s email address; or\n(e)by transmitting an electronic record of it to an account that the body corporate or unincorporated association has with any electronic transactions service.\n(5) Service of a document under this section takes effect —\n(a)if the document is sent by fax and a notification of successful transmission is received, on the day of transmission;\n(b)if the document is sent by email, at the time that the email becomes capable of being retrieved by the person to whom it is sent;\n(c)if the document is sent by prepaid registered post, 2 days after the day the document was posted (even if it is returned undelivered); and\n(d)if the document is sent through any electronic transactions service, at the time when the electronic record of the document enters the person’s account with the electronic transactions service.\n(6) A document may be served on a person under this Act by email only with that person’s prior written consent.\n(7) This section does not apply to documents to be served in proceedings in court.\n(8) In this section —\n“business address” means —\n(a)in the case of an individual, the individual’s usual or last known place of business in Singapore; or\n(b)in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore;\n“document” includes a direction, order or notice permitted or required under this Act to be served;\n“email address” means the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act;\n“residential address” means an individual’s usual or last known place of residence in Singapore."
+   }
+  },
+  {
+   "id": "SG-H426-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "68."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Offences by corporations"
+   },
+   "text": {
+    "en": "68.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that —\n(a)an officer, employee or agent of the corporation engaged in that conduct within the scope of the actual or apparent authority of the officer, employee or agent; and\n(b)the officer, employee or agent had that state of mind,\nis evidence that the corporation had that state of mind.\n(2) Where a corporation commits an offence under this Act, a person —\n(a)who is —\n(i)an officer of the corporation; or\n(ii)an individual involved in the management of the corporation and in a position to influence the conduct of the corporation in relation to the commission of the offence; and\n(b)who —\n(i)consented or connived, or conspired with others, to effect the commission of the offence;\n(ii)is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the corporation; or\n(iii)knew or ought reasonably to have known that the offence by the corporation (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,\nshall be guilty of the same offence as is the corporation, and shall be liable on conviction to be punished accordingly.\n(3) A person mentioned in subsection (2) may rely on a defence that would be available to the corporation if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the corporation would bear.\n(4) To avoid doubt, this section does not affect the application of —\n(a)Chapters 5 and 5A of the Penal Code 1871; or\n(b)the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence.\n(5) To avoid doubt, subsection (2) also does not affect the liability of the corporation for an offence under this Act, and applies whether or not the corporation is convicted of the offence.\n(6) In this section —\n“corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act 2005;\n“officer”, in relation to a corporation, means any director, partner, chief executive, manager, secretary or other similar officer of the corporation, and includes —\n(a)any person purporting to act in any such capacity; and\n(b)for a corporation whose affairs are managed by its members, any of those members as if the member were a director of the corporation;\n“state of mind” of a person includes —\n(a)the knowledge, intention, opinion, belief or purpose of the person; and\n(b)the person’s reasons for the intention, opinion, belief or purpose."
+   }
+  },
+  {
+   "id": "SG-H426-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "69."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Offences by unincorporated associations or partnerships"
+   },
+   "text": {
+    "en": "69.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that —\n(a)an employee or agent of the unincorporated association or partnership engaged in that conduct within the scope of the actual or apparent authority of the employee or agent; and\n(b)the employee or agent had that state of mind,\nis evidence that the unincorporated association or partnership had that state of mind.\n(2) Where an unincorporated association or a partnership commits an offence under this Act, a person —\n(a)who is —\n(i)an officer of the unincorporated association or a member of its governing body;\n(ii)a partner in the partnership; or\n(iii)an individual involved in the management of the unincorporated association or partnership and in a position to influence the conduct of the unincorporated association or partnership (as the case may be) in relation to the commission of the offence; and\n(b)who —\n(i)consented or connived, or conspired with others, to effect the commission of the offence;\n(ii)is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the unincorporated association or partnership; or\n(iii)knew or ought reasonably to have known that the offence by the unincorporated association or partnership (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,\nshall be guilty of the same offence as is the unincorporated association or partnership, and shall be liable on conviction to be punished accordingly.\n(3) A person mentioned in subsection (2) may rely on a defence that would be available to the unincorporated association or partnership if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the unincorporated association or partnership would bear.\n(4) To avoid doubt, this section does not affect the application of —\n(a)Chapters 5 and 5A of the Penal Code 1871; or\n(b)the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence.\n(5) To avoid doubt, subsection (2) also does not affect the liability of an unincorporated association or a partnership for an offence under this Act, and applies whether or not the unincorporated association or partnership is convicted of the offence.\n(6) In this section —\n“officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes —\n(a)any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; and\n(b)any person purporting to act in any such capacity;\n“partner” includes a person purporting to act as a partner;\n“state of mind” of a person includes —\n(a)the knowledge, intention, opinion, belief or purpose of the person; and\n(b)the person’s reasons for the intention, opinion, belief or purpose."
+   }
+  },
+  {
+   "id": "SG-H426-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "70."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Power of court to order cause of contravention to be remedied"
+   },
+   "text": {
+    "en": "70.—(1) Where any person is convicted of an offence under this Act, the court may, in addition to or instead of imposing any fine or imprisonment or both, order the person to take, within the time specified in the order (or within any further time as the court may allow), such steps as may be so specified to remedy the contravention or any matter resulting from the contravention.\n(2) Subject to subsection (3), where an order is made under subsection (1), the convicted person is not liable under this Act in respect of the continuation of the contravention during the time specified in the order or allowed by the court to remedy the matters in respect of which the contravention occurred.\n(3) If the order under subsection (1) is not complied with by the person to whom the order is given, the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 for every day or part of a day during which the non‑compliance continues after the date of conviction for the offence mentioned in that subsection."
+   }
+  },
+  {
+   "id": "SG-H426-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "71."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "71.—(1) An officer of the Agency authorised by the Agency to compound offences may compound any offence under this Act that is prescribed as a compoundable offence, by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:\n(a)one half of the amount of the maximum fine that is prescribed for the offence;\n(b)$5,000.\n(2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence under this Act."
+   }
+  },
+  {
+   "id": "SG-H426-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "72."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Payment of moneys into Consolidated Fund"
+   },
+   "text": {
+    "en": "72. All sums collected under this Act in connection with the payment of tax, as financial penalty, or in composition of any offence, must be paid into the Consolidated Fund."
+   }
+  },
+  {
+   "id": "SG-H426-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "73."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Amendment of Schedules"
+   },
+   "text": {
+    "en": "73.—(1) The Minister may, by order in the Gazette, amend, add to or vary the First, Second or Fourth Schedule.\n(2) The Minister may, in any order made under subsection (1), make any saving or transitional provision as may be necessary or expedient.\n(3) Every order made under subsection (1) must be presented to Parliament as soon as possible after publication in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H426-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "74."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Exemptions"
+   },
+   "text": {
+    "en": "74. The Minister may, by order in the Gazette and with or without conditions, exempt —\n(a)any or any class or description of business facility from all or any of the provisions of this Act, wholly or to any extent; or\n[Act 37 of 2022 wef 01/01/2024]\n(b)any or any class or description of persons from compliance with all or any of the provisions of this Act, wholly or to any extent.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "75."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Extensions of time"
+   },
+   "text": {
+    "en": "75.—(1) A person that, in any particular case, is unable to do any thing that the person is required to do under this Act within the time specified for it may apply in writing to the Agency for an extension of time.\n(2) The Agency may grant an extension of time (whether for the same or less than the period of extension applied for), upon being satisfied that there are good reasons to do so.\n(3) The Agency may grant the extension of time under subsection (2) after the time sought to be extended has expired, but only if the application by the person was made to the Agency before the expiry of the time sought to be extended.\n[Act 37 of 2022 wef 01/01/2024]\n(4) Where subsection (3) applies, the Agency must extend the time to a date after the date of the decision of the Agency on the application and, to avoid doubt, time is treated as extended so long as the Agency has not made its decision.\n[Act 37 of 2022 wef 01/01/2024]\n(5) The Agency may grant one or more extensions of time under and in accordance with this section.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "76."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "76.—(1) The Minister may make regulations necessary or expedient for carrying out the purposes and provisions of this Act (other than Division 1A of Part 5).\n[Act 37 of 2022 wef 01/01/2024]\n(2) Without limiting subsection (1), the Minister may make regulations for or with respect to all or any matter in the Fifth Schedule.\n(3) Regulations may make different provisions for —\n(a)different persons or business facilities;\n(b)different classes of persons or business facilities; or\n(c)different circumstances.\n(4) The Minister may, in making any regulations, provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $50,000 or with imprisonment for a term not exceeding 2 years or with both."
+   }
+  },
+  {
+   "id": "SG-H426-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "77."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Incorporation by reference"
+   },
+   "text": {
+    "en": "77.—(1) Regulations may incorporate by reference —\n(a)wholly or partially;\n(b)with or without any addition, omission or substitution; or\n(c)specifically or by reference,\nany code of practice, standard, requirement, specification or other document (called in this section the material) that relates to any subject matter of any regulations.\n(2) The incorporation by reference may be of the material —\n(a)as in force or published at a particular time, or from time to time; and\n(b)whether issued by the Agency, or by any standards-setting or other organisation, or any other person.\n(3) Unless otherwise provided in the regulations, where any material is incorporated by reference in the regulations under subsection (1) —\n(a)the material is treated for all purposes as forming part of the regulations; and\n(b)for any incorporation by reference of the material as in force or published from time to time, every amendment to the material that is made by the Agency, organisation or person issuing the material is treated as forming part of the regulations from the time the amendment takes effect.\n(4) If any provision in any material is inconsistent with any provision of this Act, such provision in the material, to the extent of the inconsistency —\n(a)is to have effect subject to this Act; or\n(b)having regard to this Act, is not to have effect.\n(5) Where any material is incorporated by reference in any regulations, the Agency must give notice in the Gazette stating —\n(a)that the material is incorporated in the regulations, and the date on which the relevant provision in the regulations takes effect;\n(b)that the material is available for inspection, free of charge, and the place at which such material may be inspected;\n(c)that copies of the material can be purchased, and the place where the copies can be purchased; and\n(d)if copies of the material are available in other ways, the details of where or how the copies can be accessed or obtained.\n(6) Where any material is incorporated by reference as in force or published from time to time in any regulations is amended or revoked, the Agency must give notice in the Gazette stating —\n(a)that the material is amended or revoked, and the date on which the amendment or revocation takes effect; and\n(b)for an amendment —\n(i)that the amendment to the material, or the material as amended, is available for inspection, free of charge, and the place at which such amendment or amended material may be inspected;\n(ii)that copies of the amendment to the material, or the material as amended, can be purchased, and the place where the copies of the amendment or the amended material can be purchased; and\n(iii)if copies of the amendment to the material, or the material as amended, are available in other ways, the details of where or how the copies of the amendment or the amended material can be accessed or obtained.\n(7) In addition, for the purposes of subsections (5)(b) and (6)(b)(i), the Agency must cause a copy of every material, amendment or amended material referred to, to be made available for inspection by members of the public without charge at any of its offices during normal office hours.\n(8) To avoid doubt, any part of the material that is not incorporated by reference under subsection (1) does not have any legislative effect."
+   }
+  },
+  {
+   "id": "SG-H426-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "78."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Advisory guidelines"
+   },
+   "text": {
+    "en": "78.—(1) The Agency may issue advisory guidelines for the purposes of providing practical guidance or certainty in respect of any one or more requirements imposed under this Act.\n(2) The advisory guidelines may —\n(a)be of general or specific application; or\n(b)specify that different provisions of the advisory guidelines apply to different circumstances, or are applicable to different persons or classes of persons.\n(3) The Agency may amend or revoke the whole or part of any advisory guidelines issued under subsection (1).\n(4) Advisory guidelines issued or amended under this section do not have any legislative effect.\n(5) Where a person fails to comply with any provision of an advisory guideline issued under this section applicable to the person, this does not of itself render the person liable to criminal proceedings; but the failure may, whether in civil or criminal proceedings, be relied upon by any party to the proceedings as tending to establish or to negate any liability that is in question in the proceedings."
+   }
+  },
+  {
+   "id": "SG-H426-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "79."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Saving and transitional provisions"
+   },
+   "text": {
+    "en": "79.—(1) Where —\n(a)a corporation is a registered corporation on 31 December 2018 under the Energy Conservation Act 2012; and\n(b)the corporation submitted in 2018 a monitoring plan under section 26C of that Act for any business activity or premises, or part of a business activity or premises,\nthen, as from and including 1 January 2019 —\n(c)the corporation is treated as a registered person for the purposes of this Act;\n(d)the business activity or premises or part is treated as both a reportable facility and a taxable facility of the corporation as a registered person for the purposes of this Act; and\n(e)the monitoring plan submitted under that Act is treated as if it were a monitoring plan submitted under this Act, and if approved under that Act as if it had been approved under this Act.\n(2) Where —\n(a)the reckonable GHG emissions from any business activity or premises, or part of a business activity or premises, under the operation control of a corporation attained 2,000 tCO2e (or higher) in 2017; and\n(b)as at 31 December 2018 —\n(i)the corporation continues to have operational control over the business activity, premises or part; and\n(ii)the corporation is a registered corporation under the Energy Conservation Act 2012,\nthen, as from and including 1 January 2019 —\n(c)the corporation is treated as a registered person for the purposes of this Act; and\n(d)the business activity or premises or part is treated as a reportable facility of the corporation as a registered person for the purposes of this Act.\n(3) For the purposes of this Act, the first reporting period under section 11 for a corporation mentioned in subsection (1) or (2) is the year 2019, and the corporation is not required to submit any report under section 27 of the Energy Conservation Act 2012 in relation to paragraph (c) of that section for any period prescribed under that section, or any part of such period, from 1 January 2019 onwards.\n[80"
+   }
+  },
+  {
+   "id": "SG-H426-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nSections 2(1) and 73(1)\nGreenhouse gases and global warming potential\nFirst column\nSecond column\nThird column\nGreenhouse gas\nChemical formula of greenhouse gas\nGlobal warming potential\n1.Carbon dioxide\nCO2\n1\n2.Methane\nCH4\n28\n3.Nitrous oxide\nN2O\n265\n4.Nitrogen trifluoride\nNF3\n16,100\n5.Sulphur hexafluoride\nSF6\n23,500\n6.The following\nhydrofluorocarbons (HFCs):\n(a)HFC-23\nCHF3\n12,400\n(b)HFC-32\nCH2F2\n677\n(c)HFC-41\nCH3F\n116\n(d)HFC-125\nCHF2CF3\n3,170\n(e)HFC-134\nCHF2CHF2\n1,120\n(f)HFC-134a\nCH2FCF3\n1,300\n(g)HFC-143\nCH2FCHF2\n328\n(h)HFC-143a\nCH3CF3\n4,800\n(i)HFC-152\nCH2FCH2F\n16\n(j)HFC-152a\nCH3CHF2\n138\n(k)HFC-161\nCH3CH2F\n4\n(l)HFC-227ca\nCF3CF2CHF2\n2,640\n(m)HFC-227ea\nCF3CHFCF3\n3,350\n(n)HFC-236cb\nCH2FCF2CF3\n1,210\n(o)HFC-236ea\nCHF2CHFCF3\n1,330\n(p)HFC-236fa\nCF3CH2CF3\n8,060\n(q)HFC-245ca\nCH2FCF2CHF2\n716\n(r)HFC-245cb\nCF3CF2CH3\n4,620\n(s)HFC-245ea\nCHF2CHFCHF2\n235\n(t)HFC-245eb\nCH2FCHFCF3\n290\n(u)HFC-245fa\nCHF2CH2CF3\n858\n(v)HFC-263fb\nCH3CH2CF3\n76\n(w)HFC-272ca\nCH3CF2CH3\n144\n(x)HFC-329p\nCHF2CF2CF2CF3\n2,360\n(y)HFC-365mfc\nCH3CF2CH2CF3\n804\n(z)HFC-43-10mee\nCF3CHFCHFCF2CF3\n1,650\n(za)HFC-1132a\nCH2=CF2\n1\n(zb)HFC-1141\nCH2=CHF\n1\n(zc)(Z)-HFC-1225ye\nCF3CF=CHF(Z)\n1\n(zd)(E)-HFC-1225ye\nCF3CF=CHF(E)\n1\n(ze)(Z)-HFC-1234ze\nCF3CH=CHF(Z)\n1\n(zf)HFC-1234yf\nCF3CF=CH2\n1\n(zg)(E)-HFC-1234ze\ntrans-CF3CH=CHF\n1\n(zh)(Z)-HFC-1336\nCF3CH=CHCF3(Z)\n2\n(zi)HFC-1243zf\nCF3CH=CH2\n1\n(zj)HFC-1345zfc\nC2F5CH=CH2\n1\n(zk)3,3,4,4,5,5,6,6,6-\nNonafluorohex-1-ene\nC4F9CH=CH2\n1\n(zl)3,3,4,4,5,5,6,6,7,7,8,8,8-Tridecafluorooct-\n1-ene\nC6F13CH=CH2\n1\n(zm)3,3,4,4,5,5,6,6,7,7,\n8,8,9,9,10,10,10-\nHeptadecafluorodec-\n1-ene\nC8F17CH=CH2\n1\n7.The following\nperfluorocarbons (PFCs):\n(a)PFC-14\nCF4\n6,630\n(b)PFC-116\nC2F6\n11,100\n(c)PFC-c216\nc-C3F6\n9,200\n(d)PFC-218\nC3F8\n8,900\n(e)PFC-318\nc-C4F8\n9,540\n(f)PFC-31-10\nC4F10\n9,200\n(g)Perfluorocyclopentene\nc-C5F8\n2\n(h)PFC-41-12\nn-C5F12\n8,550\n(i)PFC-51-14\nn-C6F14\n7,910\n(j)PFC-61-16\nn-C7F16\n7,820\n(k)PFC-71-18\nC8F18\n7,620\n(l)PFC-91-18\nC10F18\n7,190\n(m)Perfluorodecalin (cis)\nZ-C10F18\n7,240\n(n)Perfluorodecalin (trans)\nE-C10F18\n6,290\n(o)PFC-1114\nCF2=CF2\n1\n(p)PFC-1216\nCF3CF=CF2\n1\n(q)Perfluorobuta-1,\n3-diene\nCF2=CFCF=CF2\n1\n(r)Perfluorobut-1-ene\nCF3CF2CF=CF2\n1\n(s)Perfluorobut-2-ene\nCF3CF=CFCF3\n2\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nSections 2(1) and 73(1)\nMatters relating to emissions thresholds\nand reporting of GHG emissions\nPart 1\nEMISSIONS THRESHOLDS\n1.The first emissions threshold is 2,000 tCO2e.\n2.The second emissions threshold is 25,000 tCO2e.\nPart 2\nNON-RECKONABLE GHG EMISSIONS\nFirst column\nSecond column\nGreenhouse gas\nCircumstances of emission\n1.[Deleted by Act 37 of 2022 wef 01/01/2024]\n2.Sulphur hexafluoride\nEmitted in the course of manufacturing, installing, using or disposing of any electrical equipment.\n3.Carbon dioxide\n(a)Used and emitted in the course of purging.\n(b)Used and emitted in the course of blasting.\n(c)Emitted in the course of using any lubricant or paraffin wax.\n(d)Emitted in the combustion of any of the following:\n(i)biodiesels;\n(ii)biogasoline;\n(iii)charcoal;\n(iv)landfill gas;\n(v)sludge gas;\n(vi)sulphite lyes (Black Liquor);\n(vii)wood or wood waste;\n(viii)other biogas;\n(ix)other liquid biofuel;\n(x)other primary solid biomass.\n4.Any hydrofluorocarbon\nEmitted in the course of using any refrigeration and air‑conditioning equipment for non‑manufacturing purposes.\n4A.The following hydrofluorocarbons:\nEmitted in any circumstances.\n(a)HFC-227ca (CF3CF2CHF2)\n(b)HFC-245cb (CF3CF2CH3)\n(c)HFC-245ea (CHF2CHFCHF2)\n(d)HFC-245eb (CH2FCHFCF3)\n(e)HFC-263fb (CH3CH2CF3)\n(f)HFC-272ca (CH3CF2CH3)\n(g)HFC-329p (CHF2CF2CF2CF3)\n(h)HFC-1132a (CH2=CF2)\n(i)HFC-1141 (CH2=CHF)\n(j)(Z)-HFC-1225ye (CF3CF=CHF(Z))\n(k)(E)-HFC-1225ye (CF3CF=CHF(E))\n(l)(Z)-HFC-1234ze (CF3CH=CHF(Z))\n(m)HFC-1234yf (CF3CF=CH2)\n(n)(E)-HFC-1234ze\n(trans-CF3CH=CHF)\n(o)(Z)-HFC-1336 (CF3CH=CHCF3(Z))\n(p)HFC-1243zf (CF3CH=CH2)\n(q)HFC-1345zfc (C2F5CH=CH2)\n(r)3,3,4,4,5,5,6,6,6-Nonafluorohex-1-ene\n(C4F9CH=CH2)\n(s)3,3,4,4,5,5,6,6,7,7,8,8,\n8-Tridecafluorooct-1-ene\n(C6F13CH=CH2)\n(t)3,3,4,4,5,5,6,6,7,7,8,8,\n9,9,10,10,10-Heptadecafluorodec-1-ene\n(C8F17CH=CH2)\n5.Any perfluorocarbon\nEmitted in the course of using any refrigeration and air-conditioning equipment for non-manufacturing purposes.\n5A.The following perfluorocarbons:\nEmitted in any circumstances.\n(a)PFC-c216 (c-C3F6)\n(b)Perfluorocyclopentene\n(c-C5F8)\n(c)PFC-61-16 (n-C7F16)\n(d)PFC-71-18 (C8F18)\n(e)PFC-91-18 (C10F18)\n(f)Perfluorodecalin (cis)\n(Z-C10F18)\n(g)Perfluorodecalin (trans)\n(E-C10F18)\n(h)PFC-1114 (CF2=CF2)\n(i)PFC-1216 (CF3CF=CF2)\n(j)Perfluorobuta-1,3-diene\n(CF2=CFCF=CF2)\n(k)Perfluorobut-1-ene\n(CF3CF2CF=CF2)\n(l)Perfluorobut-2-ene\n(CF3CF=CFCF3)\n6.Any greenhouse gas\n(a)Emitted in the course of using any fire protection equipment.\n(b)Emitted as a fugitive emission (excluding flaring and venting).\n(c)Emitted in the course of using any vehicle to transport any person or goods.\n(d)Emitted in the course of using any fuel on which excise duty is payable, or which is exempt from the payment of excise duty, under the Customs Act 1960.\n(e)Emitted in the course of carrying out Agriculture, Forestry and Other Land Use (AFOLU) activities.\n[Act 37 of 2022 wef 01/01/2024]\nPart 3\nEXCLUDED GHG EMISSIONS\nFirst column\nSecond column\nGreenhouse gas\nCircumstances of emission\n1. Any greenhouse gas\n(a)Emitted in the course of using any vehicle to transport any person or goods.\n(b)Emitted in the course of carrying out Agriculture, Forestry and Other Land Use (AFOLU) activities.\n[S 160/2021]"
+   }
+  },
+  {
+   "id": "SG-H426-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nSections 16(3)(b) and 26(1)\nMatters relating to carbon tax\nPart 1\nCARBON TAX RATE\n1.The carbon tax rate is as follows:\n(a)for carbon tax for GHG emissions in 2023 or any earlier emissions year — $5/tCO2e;\n(b)for carbon tax for GHG emissions in 2024 or 2025 — $25/tCO2e;\n(c)for carbon tax for GHG emissions in 2026 or any later emissions year — $45/tCO2e.\n[Act 37 of 2022 wef 01/01/2024]\nPart 2\nCARBON PRICE\n1.Subject to section 31A, a fixed-price carbon credit has a value as follows:\n(a)for any fixed-price carbon credit purchased in 2024 or any earlier year — $5;\n(b)for any fixed-price carbon credit purchased in 2025 or 2026 — $25;\n(c)for any fixed-price carbon credit purchased in 2027 or any later year — $45.\n[Act 37 of 2022 wef 01/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H426-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE\nSections 66 and 73(1)\nPersons to whom information\nmay be disclosed\n1. The Minister charged with responsibility for environmental protection, and any public officer assisting the Minister in the performance of any official duties of that Minister.\n2. The Minister charged with responsibility for economic planning and development, and any public officer assisting the Minister in the performance of any official duties of that Minister.\n3. The Minister charged with responsibility for coordinating policies associated with climate change, and any public officer assisting the Minister in the performance of any official duties of that Minister.\n3A. The Minister charged with responsibility for taxation and revenue (policy, administration and estimates), and any public officer assisting the Minister in the performance of any official duties of that Minister.\n[S 846/2022 wef 01/11/2022]\n4. Any member, officer or employee of the Agency.\n5. Any member, officer or employee of the Energy Market Authority of Singapore established by the Energy Market Authority of Singapore Act 2001.\n6. Any member, officer or employee of the Economic Development Board established by the Economic Development Board Act 1961.\n[S 770/2021]"
+   }
+  },
+  {
+   "id": "SG-H426-A900004",
+   "no": 900004,
+   "noLabel": {
+    "en": "FIFTH SCHEDULE"
+   },
+   "text": {
+    "en": "FIFTH SCHEDULE\nSection 76(2)\nMatters for or in respect of which\nregulations may be made\n1. In relation to Part 1 —\n(a)the circumstances in which or the criteria by which any activity or series of activities (including ancillary activities) will form part of a single undertaking or enterprise;\n(b)the activities which are attributable to or are treated as being attributable to any particular industry sector;\n(c)the circumstances in which there is a dependency between activities carried out on different parcels of land; and\n(d)the circumstances in which one person is related to another person.\n2. In relation to Part 4 —\n(a)the form of any application, report, plan or other document mentioned in this Act;\n(b)the preparation of any application, report, plan or other document mentioned in this Act, including the person that must prepare the same and any criteria and qualifications that the person must satisfy;\n(c)the information and documents to be included in or to accompany any application, report, plan or other document mentioned in this Act;\n(d)without affecting sub-paragraph (c), in relation to any emissions report or monitoring plan, the methods, or criteria for the methods, by which the amounts of emissions, reductions, removals, offsets, energy production, energy consumption or any other matters are to be measured or determined, including any one or more of the following:\n(i)conditions relating to the use of different methods or criteria;\n(ii)rating systems for those methods;\n(iii)the particular rating given to each of those methods;\n(e)the period within which any application, report, plan or other document mentioned in this Act is to be submitted (including at prescribed intervals);\n(f)the manner in which any application, report, plan or other document mentioned in this Act is to be submitted, including the person that must submit the same and any criteria and qualifications that the person must satisfy;\n(g)the accreditation by the Agency of an external auditor carrying out any verification of any emissions report under section 12;\n(h)the criteria and qualifications that an external auditor carrying out any assessment of a monitoring plan under section 13, must satisfy;\n(i)the manner in which any verification or assessment required under this Act must be carried out, and the duties and obligations of an accredited external auditor or external auditor in carrying out the verification or assessment;\n(j)the duties and obligations of any registered person in relation to any verification or assessment of an accredited external auditor or external auditor (whether before, during or after the verification or assessment); and\n(k)the appointment of any person (called in this sub‑paragraph the manager) to assist a person in complying with the obligations of the person under this Act, including —\n(i)the appointment, training, criteria and qualifications of the manager;\n(ii)the functions and duties of the manager; and\n(iii)the powers of the manager, being necessary powers for the discharge of the manager’s functions and duties.\n3. In relation to Part 5 —\n(a)the form and manner in which, and any person by whom, any of the following applications may be made:\n(i)for fixed‑price carbon credits;\n[Act 37 of 2022 wef 01/01/2024]\n(ii)to transfer fixed‑price carbon credits from one FPCC registry account to another;\n[Act 37 of 2022 wef 01/01/2024]\n(iii)to surrender fixed‑price carbon credits;\n[Act 37 of 2022 wef 01/01/2024]\n(iv)for a refund under section 19;\n(v)to close an FPCC registry account or an ICC registry account;\n[Act 37 of 2022 wef 01/01/2024]\n(b)the form and manner in which payment for fixed‑price carbon credits must be made;\n[Act 37 of 2022 wef 01/01/2024]\n(ba)the criteria for eligible international carbon credits, and the acceptance by the Agency of eligible international carbon credits;\n[Act 37 of 2022 wef 01/01/2024]\n(bb)the time and manner in which or the process by which any eligible international carbon credit must be surrendered, and the circumstances in which any eligible international carbon credit may be treated as surrendered; and\n[Act 37 of 2022 wef 01/01/2024]\n(c)the time within which any application in sub-paragraph (a), or the payment in sub-paragraph (b), must be made.\n4. In relation to Part 6 —\n(a)the form of, and the manner of lodging, notices of appeals, and the procedure to be adopted by and proceedings of an Appeal Panel (including in the absence of members of the Appeal Panel); and\n(b)the conduct of hearings of appeals (including the place and time at which appeals may be heard).\n5. In relation to an electronic transactions service —\n(a)the provision of the electronic transactions service for any one or more of the following purposes:\n(i)for any person to submit or serve any application, information or document on the Agency;\n(ii)for the Agency to serve any notice or other document on any person under this Act;\n(iii)for the Agency to publish or supply any application, information or document to any person;\n(iv)for any other prescribed purpose;\n(b)the manner in which and the persons by whom the electronic transactions service may be used;\n(c)that any prescribed application, document or information must be submitted to or served on the Agency only through the electronic transactions service;\n(d)that any prescribed application, information or document, submitted to a prescribed public authority in the prescribed manner, is treated as having been submitted through the electronic transactions service to the Agency;\n(e)the circumstances and the manner in which any error or omission in any application, information or document submitted, served, published or supplied through the electronic transactions service may be corrected;\n(f)despite the Evidence Act 1893, the admissibility of electronic records, and copies and print‑outs of such records, of any application, information or document submitted, served, published or supplied through the electronic transactions service, as evidence of the facts contained in the record, copy or print‑out; and\n(g)any other matter necessary or incidental to the use, maintenance or management of the electronic transactions service.\n6. Any fees and charges payable for an application under, or for any purpose of, this Act.\n7. Any other matter that is necessary, required or permitted to be prescribed to give effect to this Act."
+   }
+  }
+ ]
+}

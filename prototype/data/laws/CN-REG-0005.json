@@ -1,0 +1,117 @@
+{
+ "id": "CN-REG-0005",
+ "title": {
+  "zh": "保护海底电缆规定",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p12",
+ "language": "zh",
+ "level": "decree",
+ "category": "行政法规",
+ "status": "active",
+ "promulgatedDate": "1973-05-30",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ITEM",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 454,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\行政法规\\保护海底电缆规定_19730530.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，（一）至（五），共 5 条；来源为项目数据资源中的官方汇编文件（保护海底电缆规定_19730530.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-REG-0005-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "（一）"
+   },
+   "text": {
+    "zh": "保护海底电缆是加强海防建设的重要措施。各舰艇部队、交通航运、水产打捞、海洋调查、沿海社队等有关部门，要经常教育所属人员明确保护海底电缆的重要意义，提高警惕，严防破坏。"
+   }
+  },
+  {
+   "id": "CN-REG-0005-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "（二）"
+   },
+   "text": {
+    "zh": "舰艇、商船、外轮等舰船锚泊，捕捞作业，要避开敷设有海底电缆的禁区抛锚(靠近码头的海缆登陆区可搞水面浮体标志)。海底勘察和码头建筑等大型工程要事先和当地驻军领导机关联系，以便采取相应措施，妥善解决。"
+   }
+  },
+  {
+   "id": "CN-REG-0005-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "（三）"
+   },
+   "text": {
+    "zh": "船锚或捕捞工具，因意外钩到海底电缆时，应将电缆慢慢提到水面，取下船锚(或钩挂物)，查其确无损伤后把电缆放进海中；电缆提不到水面时，不得将电缆拖断或砍断，必要时可放弃船锚(或钩挂物)。"
+   }
+  },
+  {
+   "id": "CN-REG-0005-A4",
+   "no": 4,
+   "noLabel": {
+    "zh": "（四）"
+   },
+   "text": {
+    "zh": "钩到或损伤电缆均要在该处做好水面浮体标志，并将位置和受损情况及时报告当地政府领导机关，或有关部门负责处理。"
+   }
+  },
+  {
+   "id": "CN-REG-0005-A5",
+   "no": 5,
+   "noLabel": {
+    "zh": "（五）"
+   },
+   "text": {
+    "zh": "任何单位、船只和个人，不得擅自打捞、切断、撤收和盗窃海底电缆，否则以破坏论处。\n海底电缆遭受损伤或破坏后，当地公安、武装部门应大力协助使用单位，迅速查清原因。如因工作失职或措施不当而造成损坏者，损坏单位应负责赔偿并对肇事者进行批评教育，情节严重者应给予处分。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "decree",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "保护海底电缆规定"
+  },
+  "promulgatedDate": "1973-05-30",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "行政法规"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

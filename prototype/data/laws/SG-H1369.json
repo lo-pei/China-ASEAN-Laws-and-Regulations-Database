@@ -1,0 +1,626 @@
+{
+ "id": "SG-H1369",
+ "title": {
+  "zh": null,
+  "en": "Environmental Public Health (Food Hygiene) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p17",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation EPHA1987-RG16",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 37,
+ "chars": 36781,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/EPHA1987-RG16?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 37 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1369-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Environmental Public Health (Food Hygiene) Regulations."
+   }
+  },
+  {
+   "id": "SG-H1369-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“catering establishment” means a catering establishment as described in the First Schedule to the Act;\n[S 674/2011 wef 15/02/2012]\n“chilled fresh”, in relation to raw meat and uncooked fish, means raw meat or uncooked fish, as the case may be, that is stored in a refrigerated facility at a temperature not below 0º C and not above 4º C;\n[S 222/2000 wef 01/05/2000 ]\n“cooked food” means any food which is wholly or partially cooked or raw food which is ordinarily consumed raw;\n“food hygiene officer”, in relation to any licensed premises, means a person who, for the purpose of ensuring the standard of hygiene and sanitation in the licensed premises, is responsible for —\n(a)supervising and overseeing any person who is engaged in the sale or preparation for sale of any food in the licensed premises; and\n(b)auditing the personal and food hygiene practices and the cleaning operations in the licensed premises;\n[S 522/2010 wef 27/09/2010]\n“frozen”, in relation to raw meat, means raw meat stored in a refrigerated facility at a temperature not above –12º C;\n[S 222/2000 wef 01/05/2000 ]\n“licence” means a licence or permit referred to in section 32, 33, 34, 35 or 36 of the Act;\n“licensed premises” means the premises, showboard, stall or vehicle specified in a licence;\n“licensee” means a person who holds a valid licence and includes any nominee appointed by a licensee under regulation 7(1);\n“preparation”, in relation to the preparation for sale of food, includes the manufacture, packing, delivery, carriage, storage and serving of food and “prepare” shall be construed accordingly;\n“raw meat” does not include raw fish and uncooked fish;\n[S 222/2000 wef 01/05/2000 ]\n“street vendor” means a person who holds a valid licence to sell or expose for sale any food or goods in any showboard or stall, which is erected along a road, lane, alley, back-lane or footway;\n“thawed frozen”, in relation to raw meat, means raw meat frozen and then thawed at a temperature not above 4ºC;\n[S 222/2000 wef 01/05/2000]\n“uncooked fish” means raw fish that is intended to be consumed raw.\n[S 222/2000 wef 01/05/2000 ]"
+   }
+  },
+  {
+   "id": "SG-H1369-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART II LICENCES"
+   },
+   "heading": {
+    "en": "Application for licence"
+   },
+   "text": {
+    "en": "3. An application for a licence shall be —\n(a)made in writing in such form as the Director-General may require; and\n[S 622/2004 wef 15/10/2004]\n(b)in the case of a food establishment or private market or a stall in a food establishment or private market, accompanied by a scaled plan showing the complete layout and boundaries of the food establishment, private market or stall.\n[S 522/2010 wef 27/09/2010]"
+   }
+  },
+  {
+   "id": "SG-H1369-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART II LICENCES"
+   },
+   "heading": {
+    "en": "Form of licence"
+   },
+   "text": {
+    "en": "4. A licence shall be in such form as the Director-General may determine.\n[S 622/2004 wef 15/10/2004]"
+   }
+  },
+  {
+   "id": "SG-H1369-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART II LICENCES"
+   },
+   "heading": {
+    "en": "Restriction on use, etc., of licensed premises"
+   },
+   "text": {
+    "en": "5.—(1) Every licensee shall use the licensed premises only for the purpose for which the licence is granted.\n(2) No licensee of a food establishment, temporary fair or private market shall sell or prepare for sale any food or sell any goods in any place outside the food establishment, temporary fair or private market.\n[S 522/2010 wef 27/09/2010]\n(3) No licensee of a stall shall prepare for sale any food in any place outside his stall or, in the case of a stall within a food establishment, outside his stall or the kitchen as shown in the approved layout of the food establishment.\n(4) Except with the prior approval in writing of the Director-General, no licensee shall alter the layout of the licensed premises which has been approved by the Director-General.\n[S 622/2004 wef 15/10/2004]\n(5) No licensee shall cause or permit any stall which is not shown in the layout of the licensed premises approved by the Director-General to be set up for the sale or preparation for sale of any food or the sale of any goods within the licensed premises unless he has obtained the prior approval in writing of the Director-General.\n[S 622/2004 wef 15/10/2004]\n(6) No licensee of a food establishment, temporary fair or private market shall cause or permit any person to sell or prepare for sale any food or sell any goods in any stall in the licensed premises unless such person holds a licence to operate the stall.\n[S 522/2010 wef 27/09/2010]\n(7) Where the Director-General has specified the time during which the licensee may conduct business, the licensee shall not conduct or allow or cause any business to be conducted outside such time.\n[S 622/2004 wef 15/10/2004]"
+   }
+  },
+  {
+   "id": "SG-H1369-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART II LICENCES"
+   },
+   "heading": {
+    "en": "Display of licence"
+   },
+   "text": {
+    "en": "6.—(1) A licensee holding a licence referred to in section 32, 33, 34 or 36 of the Act shall cause his licence to be exhibited at all times —\n(a)in any conspicuous and accessible position within the licensed premises; or\n(b)if so directed by the Director-General, in such places within the licensed premises as the Director-General considers fit.\n[S 522/2010 wef 27/09/2010]\n(2) A licensee who is permitted to carry out food catering shall insert his licence number in all advertisements relating to his food catering business.\n(3) For the purposes of this regulation, “advertisement” includes any notice, invoice, circular, pamphlet or other document and any announcement made —\n(a)by means of producing or transmitting sound or light and whether for aural or visual reception or both; or\n(b)in any other manner whatsoever."
+   }
+  },
+  {
+   "id": "SG-H1369-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART II LICENCES"
+   },
+   "heading": {
+    "en": "Nominees and assistants"
+   },
+   "text": {
+    "en": "7.—(1) Where a street vendor or the licensee of a stall or pitch in a market is unable for any reasonable cause to be present at the licensed premises to conduct or superintend his business, he shall, with the prior written approval of the Director-General, or if the market is a private market, with the prior written approval of the licensee of the private market, appoint a nominee in his place.\n[S 622/2004 wef 15/10/2004]\n(2) A nominee appointed by a licensee under paragraph (1) shall observe or comply with any of the provisions of these Regulations required to be observed or complied with by the licensee.\n(3) Every street vendor or licensee of a stall or pitch in a market shall obtain the prior written approval of the Director-General or, if the market is a private market, the prior written approval of the licensee of the private market, before allowing any person to assist him to sell or prepare for sale any food or sell any goods.\n[S 622/2004 wef 15/10/2004]\n(4) The Director-General may exempt any licensee or class of licensees from the provisions of paragraphs (1) and (3).\n[S 622/2004 wef 15/10/2004]"
+   }
+  },
+  {
+   "id": "SG-H1369-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART II LICENCES"
+   },
+   "heading": {
+    "en": "Change of address"
+   },
+   "text": {
+    "en": "8.—(1) A licensee shall notify the Director-General in writing of any change of his residential address within 7 days of such change.\n[S 622/2004 wef 15/10/2004]\n(2) Where a licensee who has changed his residential address makes a report of the change under section 8 of the National Registration Act (Cap. 201) within 7 days thereof, he shall be deemed to have complied with paragraph (1)."
+   }
+  },
+  {
+   "id": "SG-H1369-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART II LICENCES"
+   },
+   "heading": {
+    "en": "Fees payable"
+   },
+   "text": {
+    "en": "9. The fees payable under these Regulations in relation to a licence shall be as specified in the Environmental Public Health (Licence Fees) Regulations (Rg 4).\n[S 622/2004 wef 15/10/2004]"
+   }
+  },
+  {
+   "id": "SG-H1369-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART II LICENCES"
+   },
+   "heading": {
+    "en": "Registration of foodhandlers"
+   },
+   "text": {
+    "en": "10.—(1) Every licensee shall register with the Director-General, his assistant or employee who is engaged in the sale or preparation for sale of any food.\n[S 622/2004 wef 15/10/2004]\n(2) The Director-General may register a person under paragraph (1) subject to such terms and conditions as the Director-General may think fit.\n[S 622/2004 wef 15/10/2004]"
+   }
+  },
+  {
+   "id": "SG-H1369-A10.001",
+   "no": 10.001,
+   "noLabel": {
+    "en": "10A."
+   },
+   "chapter": {
+    "en": "PART II LICENCES"
+   },
+   "heading": {
+    "en": "Appointment of food hygiene officer in licensed premises"
+   },
+   "text": {
+    "en": "10A.—(1) A licensee of a food establishment, if so directed by the Director-General, shall employ a food hygiene officer for the food establishment.\n(2) A licensee of a food establishment shall not employ a food hygiene officer who is already employed as a food hygiene officer for another food establishment.\n(3) A food hygiene officer shall attend such course (including a refresher course) as the Director-General may require.\n(4) A licensee of a food establishment shall not employ and shall cease to employ a food hygiene officer who does not successfully complete such course as the Director-General may require under paragraph (3) within such time as the Director-General may specify or such extended period of time as the Director-General may allow.\n[S 522/2010 wef 27/09/2010]"
+   }
+  },
+  {
+   "id": "SG-H1369-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART II LICENCES"
+   },
+   "heading": {
+    "en": "Licensee not to sell raw meat or uncooked fish in certain conditions"
+   },
+   "text": {
+    "en": "11. No licensee shall sell at his licensed premises —\n(a)raw meat, unless the raw meat is chilled fresh, frozen or thawed frozen; and\n(b)uncooked fish, unless the uncooked fish is chilled fresh.\n[S 222/2000 wef 01/05/2000 ]"
+   }
+  },
+  {
+   "id": "SG-H1369-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART III FOOD HYGIENE"
+   },
+   "heading": {
+    "en": "Storage and refrigeration of food"
+   },
+   "text": {
+    "en": "12. Every person who is engaged in the sale or preparation for sale of food shall ensure that —\n(a)any cupboard, cabinet, room or enclosed space used for the storage of food shall not be used to store, place, deposit or keep any thing other than food and such cupboard, cabinet, room or enclosed space is kept clean, dry, cool and well ventilated and is so constructed as to protect the food from contamination by dirt, dust, vermin or insects;\n(b)where raw food and cooked food are stored or placed in the same cupboard, cabinet, showcase, chiller, freezer, cold room or any other refrigerated or non-refrigerated facility, the raw food, other than raw food which is ordinarily consumed raw, shall be stored or placed on a shelf below that of the cooked food;\n(c)any chiller, freezer, cold room or other refrigerated facility used for the storage of food is kept clean, properly maintained and in good working order;\n(d)any chiller, freezer, cold room or other refrigerated facility used for the storage of food is equipped with a suitable thermometer or other efficient temperature measuring device and such thermometer or temperature measuring device shall be properly maintained and in good working order; and\n(e)food stored or placed in any chiller, freezer, cold room or other refrigerated facility is maintained at the temperature as specified in the Schedule for the food."
+   }
+  },
+  {
+   "id": "SG-H1369-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART III FOOD HYGIENE"
+   },
+   "heading": {
+    "en": "Packaging of food"
+   },
+   "text": {
+    "en": "13. Every person who is engaged in the sale or preparation for sale of food shall ensure that —\n(a)packed food is packed in a clean package or wrapper and such package or wrapper shall be made of material which will not contaminate the food and which does not contain any ingredient which may be absorbed by or is likely to pass into the food;\n(b)food is not packed in any paper with written or printed matter thereon in any manner whereby such food can come into contact with such written or printed matter;\n(c)no staple, clip, pin or other metallic thing is used to fasten, seal or wrap the receptacle or wrapper of any food for sale;\n(d)no object is packed together with any food unless the object is separately wrapped and the wrapper is of a material that —\n(i)will not contaminate the food;\n(ii)does not contain any ingredient which is likely to be absorbed by or pass into the food;\n(iii)is not of such appearance as to resemble and be likely to be mistaken for the food;\n(e)food is not enclosed, carried or stored in any bag, sack or other similar receptacle which has at any time contained or has been used for the conveyance of any poison as defined in the Poisons Act (Cap. 234) or any material which may render such food unsound or unfit for human consumption; and\n(f)raw meat that is thawed frozen is suitably wrapped or packed and a label is affixed to the wrapper or package stating in printed letters of not less than 5 millimetres in height —\n(i)the date on which the meat is thawed;\n[S 222/2000 wef 01/05/2000]\n(ii)the words “thawed from frozen meat”;\n[S 222/2000 wef 01/05/2000]\n(iii)the words “keep chilled, do not re-freeze”; and\n(iv)the words “to be consumed within 3 days from (the date referred to in sub-paragraph (i))”.\n[S 222/2000 wef 01/05/2000]"
+   }
+  },
+  {
+   "id": "SG-H1369-A13.001",
+   "no": 13.001,
+   "noLabel": {
+    "en": "13A."
+   },
+   "chapter": {
+    "en": "PART III FOOD HYGIENE"
+   },
+   "heading": {
+    "en": "Sale and supply of catered food"
+   },
+   "text": {
+    "en": "13A.—(1) Subject to paragraph (2), no licensee of a catering establishment shall sell or supply any food for consumption which has been maintained at a temperature not below 5°C and not above 60°C for an aggregate period exceeding 4 hours after it was first prepared for consumption.\n(2) Paragraph (1) shall not apply in relation to any prepacked food which is sold or supplied —\n(a)sealed in its original packaging or wrapping; and\n(b)stored in accordance with any storage condition specified on its packaging or wrapping.\n(3) Any licensee who contravenes paragraph (1) shall be guilty of an offence.\n(4) Nothing in this regulation shall affect any obligation of a licensee of a catering establishment under the Act to ensure that any food sold or supplied by him is fit for human consumption.\n(5) In this regulation and regulation 13B —\n(a)food is first prepared for consumption —\n(i)in the case of food which is cooked, when any component of the food is first wholly or partially cooked;\n(ii)in the case of food which is ordinarily consumed raw, when any component of the food is first sliced, peeled or otherwise prepared for consumption; or\n(iii)in the case of prepacked food, when the packaging or wrapping of the prepacked food is first opened,\nand in the case of food which consists of any combination of food referred to in sub-paragraph (i), (ii) or (iii), at the earliest time that any component of the food is first prepared for consumption, determined in accordance with sub-paragraph (i), (ii) or (iii), as the case may be; and\n(b)“prepacked food” means any food packed or made up in advance ready for sale in a package or wrapper and which is subject to the labelling requirements of regulation 5 of the Food Regulations (Cap. 283, Rg 1) and not exempted by regulation 6 of those Regulations.\n[S 674/2011 wef 15/02/2012]"
+   }
+  },
+  {
+   "id": "SG-H1369-A13.002",
+   "no": 13.002,
+   "noLabel": {
+    "en": "13B."
+   },
+   "chapter": {
+    "en": "PART III FOOD HYGIENE"
+   },
+   "heading": {
+    "en": "Time-stamping of catered food"
+   },
+   "text": {
+    "en": "13B.—(1) Subject to paragraph (6), every licensee of a catering establishment shall, when preparing any food —\n(a)that is sold or supplied packed in a package or wrapper, affix to each package or wrapper containing the food a label that meets the requirements in paragraph (2);\n(b)that is laid out at one or more fixed locations by the licensee, ensure that at least one sign that meets the requirements in paragraph (3) is displayed in a prominent, conspicuous and unobstructed manner near each location where the food is laid out; and\n(c)that is to be laid out at one or more fixed locations by another person, supply to that person at least one sign that meets the requirements in paragraph (3) for each location where the food is to be laid out.\n(2) A label referred to in paragraph (1)(a) shall —\n(a)state clearly in the manner specified in paragraph (4), in relation to whichever item of food was prepared earliest —\n(i)the date and time the food was first prepared for consumption; and\n(ii)the date and time by which the food should be consumed, as determined in accordance with paragraph (5);\n(b)be printed or written in the English language in a legible and indelible manner;\n(c)be printed or written with each letter in a font size not less than 3 mm in height; and\n(d)be securely and prominently affixed on each package or wrapper in an unobstructed manner.\n(3) A sign referred to in paragraph (1)(b) and (c) for any location where the food is laid out or to be laid out shall —\n(a)state clearly in the manner specified in paragraph (4), in relation to whichever item of food at that location was prepared earliest —\n(i)the date and time the food was first prepared for consumption; and\n(ii)the date and time by which the food should be consumed, as determined in accordance with paragraph (5);\n(b)be printed or written in the English language in a legible and indelible manner;\n(c)be printed or written with each letter in a font size not less than 10 mm in height; and\n(d)be at least 297 mm in length and 210 mm in breadth.\n(4) The dates and times referred to in paragraphs (2)(a) and (3)(a) shall be stated in the following manner:\n“FOOD READY-TO-EAT ON (the date referred to in paragraph (2)(a)(i) or (3)(a)(i)) AT (the time referred to in paragraph (2)(a)(i) or (3)(a)(i)).\nCONSUME BY (the date referred to in paragraph (2)(a)(ii) or (3)(a)(ii)) AT (the time referred to in paragraph (2)(a)(ii) or (3)(a)(ii)).”.\n(5) The date and time referred to in paragraphs (2)(a)(ii) and (3)(a)(ii) shall be not later than upon the expiry of a period of 4 hours in aggregate during which the food was maintained at a temperature not below 5 °C and not above 60 °C after it was first prepared for consumption.\n(6) Paragraph (1) shall not apply in relation to any prepacked food which is sold or supplied —\n(a)sealed in its original packaging or wrapping; and\n(b)stored in accordance with any storage condition specified on its packaging or wrapping.\n(7) Nothing in this regulation shall prohibit the addition in any language of such matter descriptive of the food or of any other information, provided that such addition is not contrary to or in modification of the particulars required by this regulation to be written or printed on a label or sign.\n(8) Any person who —\n(a)without reasonable excuse, contravenes paragraph (1);\n(b)knowingly or recklessly makes a false or misleading statement in a label or sign required under paragraph (1)(a), (b) or (c); or\n(c)knowingly or recklessly provides information to be included in a label or sign required under paragraph (1)(a), (b) or (c) that is false or misleading,\nshall be guilty of an offence.\n(9) Any person who, without reasonable excuse —\n(a)defaces, obstructs, removes or misuses; or\n(b)forges or alters,\nany label or sign referred to in paragraph (1)(a), (b) or (c) shall be guilty of an offence\n[S 674/2011 wef 15/02/2012]"
+   }
+  },
+  {
+   "id": "SG-H1369-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART III FOOD HYGIENE"
+   },
+   "heading": {
+    "en": "Frozen meat to be thawed in approved manner"
+   },
+   "text": {
+    "en": "14. A person engaged in the sale or preparation for sale of any raw meat that has been frozen shall only thaw the meat in a chiller maintained at a temperature not below 0ºC and not above 4ºC, or in such other manner as may be approved by the Director-General in writing.\n[S 222/2000 wef 01/05/2000]\n[S 622/2004 wef 15/10/2004]"
+   }
+  },
+  {
+   "id": "SG-H1369-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART III FOOD HYGIENE"
+   },
+   "heading": {
+    "en": "Storage of raw meat and uncooked fish"
+   },
+   "text": {
+    "en": "15. Any person who is engaged in the sale or preparation for sale of any raw meat or uncooked fish shall —\n(a)in the case of raw meat that has been frozen, store the raw meat in a freezer, cold room or other refrigerated facility at all times;\n(b)in the case of raw meat that is chilled fresh or thawed frozen, store the raw meat in a chiller at all times; and\n(c)in the case of uncooked fish, store the uncooked fish in a chiller at all times.\n[S 222/2000 wef 01/05/2000]"
+   }
+  },
+  {
+   "id": "SG-H1369-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART III FOOD HYGIENE"
+   },
+   "heading": {
+    "en": "Transport of food"
+   },
+   "text": {
+    "en": "16.—(1) No person shall use any vehicle which is not clean for the carriage or delivery of food for sale.\n(2) No person shall carry, place or deposit or allow to be carried, placed or deposited in any vehicle carrying food for sale any dirt or any other material which may contaminate the food or affect the wholesomeness or cleanliness of the food carried therein.\n(3) No person shall carry in any vehicle any cooked food for sale unless such food is so enclosed or contained in a receptacle so constructed as to prevent the food from being contaminated.\n(4) No person shall carry any cooked food for sale through the streets unless it is protected from likely contamination in covered receptacles or by other effectual means."
+   }
+  },
+  {
+   "id": "SG-H1369-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART III FOOD HYGIENE"
+   },
+   "heading": {
+    "en": "Food unfit for human consumption"
+   },
+   "text": {
+    "en": "17.—(1) No person shall bring into or prepare in or permit to be brought into or prepared in any licensed premises any food which is unsound or unfit for human consumption.\n(2) No person shall sell or have in his possession for sale any food which is not clean or which contains any matter foreign to the nature of such food.\n(3) Every person who sells any cooked food shall protect from likely contamination such food by placing the food in covered receptacles or by other effectual means.\n(4) Except where a licensee of a catering establishment prepares food at premises appointed by a consumer for that consumer’s consumption or use, no person shall sell any food that is not cooked or prepared in a licensed premises.\n[S 674/2011 wef 15/02/2012]\n(5) The Director-General or any authorised officer may require any person engaged in the sale or preparation for sale of food to produce such document or information on the source of supply of the food as the Director-General or authorised officer may require.\n[S 622/2004 wef 15/10/2004]\n(6) A person who makes any statement or furnishes any information under paragraph (5) which is false in any material particular or is misleading by reason of the omission of any material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000."
+   }
+  },
+  {
+   "id": "SG-H1369-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART III FOOD HYGIENE"
+   },
+   "heading": {
+    "en": "Frozen food not to be thawed and re-frozen"
+   },
+   "text": {
+    "en": "18. A person who is engaged in the sale or preparation for sale of food shall ensure that food sold in the frozen state is not thawed and re-frozen for sale."
+   }
+  },
+  {
+   "id": "SG-H1369-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART III FOOD HYGIENE"
+   },
+   "heading": {
+    "en": "Restriction on sale of food"
+   },
+   "text": {
+    "en": "19. No person who is engaged in the sale or preparation for sale of food shall —\n(a)sell any cooked food which has been dropped, placed or stored on any counter, bar, floor or any place unless it is protected from or is so wrapped as to protect the article of food from likely contamination;\n(b)sell food left over by any person or which has been served to another person;\n(c)sell food in or with disposable crockery which has been used to contain food or any other thing or which has been used by any person;\n(d)supply any drinking straw which has been used by any person;\n(e)sell food with any wrapper, package or any other thing which has been used before to wrap, pack or hold other food;\n[S 522/2010 wef 27/09/2010]\n(f)sell food in or with any crockery which has not been cleaned after the crockery has been used; and\n[S 522/2010 wef 27/09/2010]\n(g)sell any prepacked food after the expiry date shown on the package or which has been stored in a condition which contradicts the storage condition specified on the package or the label.\n[S 522/2010 wef 27/09/2010]"
+   }
+  },
+  {
+   "id": "SG-H1369-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART III FOOD HYGIENE"
+   },
+   "heading": {
+    "en": "Sale and preparation of food"
+   },
+   "text": {
+    "en": "20.—(1) No person, who is engaged in the sale or preparation for sale of food, shall use for any purpose pertaining to his trade —\n(a)any water other than water from a tap connected to the water mains of the Public Utilities Board; or\n(b)any water from a tap or other source within a toilet.\n(2) No person shall sell or prepare for sale any food —\n(a)in any toilet or in any place which is being used for dwelling purposes;\n(b)in any place where any noxious, toxic or offensive matter or any other material is placed or deposited or permitted to be placed or deposited whereby such food is likely to be contaminated;\n(c)in any place where any work is carried on whereby such food is likely to be contaminated; and\n(d)on the ground or floor of the licensed premises.\n(3) Every person who is engaged in the sale or preparation for sale of any food shall ensure that all receptacles, appliances, implements, utensils, tools of trade, benches, fittings, machinery, and any other thing used for or in connection with the sale or preparation of such food are kept clean."
+   }
+  },
+  {
+   "id": "SG-H1369-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART III FOOD HYGIENE"
+   },
+   "heading": {
+    "en": "Cleanliness of equipment, etc."
+   },
+   "text": {
+    "en": "21. Every person who is engaged in the sale or preparation for sale of food shall not —\n(a)wipe or polish any apparatus, appliance, utensil, receptacle, or any food with any cloth other than a clean cloth kept solely for the purpose;\n(b)use any crockery, utensil or appliance which has been applied to his mouth unless such crockery, utensil or appliance is thoroughly washed and cleaned before being used;\n(c)use or have in his possession for use any crockery, utensil or appliance which is chipped, broken, cracked or damaged;\n(d)use unclean water to wash any food, crockery, utensil or any other thing;\n(e)stack up crockery, utensils, containers or receptacles containing food in such manner as to contaminate the food;\n(f)use the same chopping board, fork, tongs, scoop, glove or other implement to handle raw food and cooked food; and\n(g)use the same fork, tongs, scoop, glove or other implement, which is used to handle raw food or cooked food, as the case may be, to handle any other thing whereby the wholesomeness, cleanliness or freedom from contamination of such food may be endangered."
+   }
+  },
+  {
+   "id": "SG-H1369-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART III FOOD HYGIENE"
+   },
+   "heading": {
+    "en": "Upkeep of licensed premises"
+   },
+   "text": {
+    "en": "22. Every person who is engaged in the sale or preparation for sale of food shall ensure that —\n(a)the drains and gullies in the kitchen or food preparation area of the licensed premises used by him are maintained in such a state as to be free from foul odours and to allow free flow of water;\n(b)drink crates and gas cylinders are not placed, deposited, stored or kept in the licensed premises used by him in such a manner as to hinder or cause obstruction to the work flow;\n(c)there is a proper system for the collection and removal of soiled or dirty utensils from the dining or refreshment area of the licensed premises used by him and such soiled or dirty utensils are not left or allowed to accumulate on the table, floor or anywhere in the dining or refreshment area or any public place;\n(d)the tables, floor or any part of the dining or refreshment area of the licensed premises used by him are kept free of food scrap or refuse;\n[S 522/2010 wef 27/09/2010]\n(e)the tables are cleaned with a clean cloth kept for that purpose; and\n[S 522/2010 wef 27/09/2010]\n(f)the air cleaning system or hood and flue system of the licensed premises is kept clean, properly maintained and in good working order.\n[S 522/2010 wef 27/09/2010]"
+   }
+  },
+  {
+   "id": "SG-H1369-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART III FOOD HYGIENE"
+   },
+   "heading": {
+    "en": "Personal cleanliness"
+   },
+   "text": {
+    "en": "23.—(1) Every person who is engaged in the sale or preparation for sale of food shall not during such sale or preparation —\n(a)handle with his bare hands any cooked food but shall use a clean fork, tongs, scoop or other suitable implement, or wear clean gloves;\n(b)apply his fingers to his mouth, eye, ear, nose or scalp;\n(c)use his breath to open any bag or wrapper;\n(d)wipe his hands on his clothing or with any other material other than a clean towel;\n(e)place, so that it can come into contact with food for sale, any substance, material or article which is unclean or likely to contaminate such food or which has been in contact with his mouth;\n(f)cough, spit, sneeze or expel mucus from his nose; and\n(g)smoke, or use tobacco or snuff or any other preparation or chew tobacco or betel nuts.\n(2) Every person who is engaged in the sale or preparation for sale of food shall —\n(a)wear clean attire and keep his body clean;\n(b)protect or cover with water-proof dressing any open cut or lesion or graze on his hand;\n(c)keep his finger nails clean and short; and\n(d)upon every occasion before commencing such sale or preparation, or after visiting any urinal, water closet or other similar convenience and before resuming such sale or preparation wash his hands thoroughly with soap and clean water."
+   }
+  },
+  {
+   "id": "SG-H1369-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART III FOOD HYGIENE"
+   },
+   "text": {
+    "en": "24. [Deleted by S 522/2010 wef 27/09/2010]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1369-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART III FOOD HYGIENE"
+   },
+   "heading": {
+    "en": "Food hygiene course"
+   },
+   "text": {
+    "en": "25. No person shall engage in the sale or preparation for sale of any food unless he has successfully completed such course (including a refresher course) on food hygiene as the Director-General may require within such time as the Director-General may specify or such extended period of time as the Director-General may allow.\n[S 522/2010 wef 27/09/2010]"
+   }
+  },
+  {
+   "id": "SG-H1369-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART IV MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Maintenance of licensed premises"
+   },
+   "text": {
+    "en": "26. Every person who is engaged in the sale or preparation for sale of food or the sale of any goods shall ensure that —\n(a)the licensed premises used by him is kept clean;\n(b)the licensed premises used by him is free of infestation by rodent, cockroaches or other vermin;\n(c)the licensed premises used by him is properly maintained and kept in good repair;\n(d)the licensed premises used by him is free of any discarded or unwanted boxes, containers or other things;\n(e)only article of bedding or clothing or any article for use in connection with the business is placed, or stored in the licensed premises used by him and such articles shall be placed or stored only in store rooms or cupboards provided for that purpose; and\n(f)nothing for use in connection with the sale or preparation for sale of food or the sale of any goods is placed or stored in any place outside the licensed premises used by him."
+   }
+  },
+  {
+   "id": "SG-H1369-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART IV MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Cleanliness around stall or pitch"
+   },
+   "text": {
+    "en": "27. Every licensee of a stall or a pitch in a market shall keep any avenue, passage or space immediately in front of, behind or by the side of his stall or pitch clean."
+   }
+  },
+  {
+   "id": "SG-H1369-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART IV MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Obstruction in market"
+   },
+   "text": {
+    "en": "28. No person shall cause any obstruction in any market or in any street, passage or approach to any market with any vehicle, goods, or other things."
+   }
+  },
+  {
+   "id": "SG-H1369-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART IV MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Live animal"
+   },
+   "text": {
+    "en": "29.—(1) Except as provided in paragraphs (3) and (5), no person shall —\n(a)bring any live animal into, or cause or permit any live animal to be brought into or kept in, any licensed premises; or\n(b)cause or permit any live animal to be kept in any place which is abutting, or which opens directly into, any licensed premises.\n(2) Subject to paragraphs (4) and (6), where any premises are licensed as a food establishment or private market, the licensee shall, if so directed by the Director-General or any authorised officer, cause to be displayed in a conspicuous place at the licensed premises a sufficient number of suitable notices to the effect that live animals are prohibited within the licensed premises.\n(3) Notwithstanding paragraph (1), the licensee of a food establishment or private market may permit any guide dog accompanying a blind or visually impaired person to be brought into the dining or refreshment area or any toilet of the licensed premises if the guide dog is —\n(a)kept under proper control;\n(b)restrained from straying or causing annoyance or nuisance to any person or animal, or damage to any property; and\n(c)held in a leash.\n(4) Where the licensee of a food establishment or private market permits guide dogs accompanying blind or visually impaired persons to be brought into his licensed premises under paragraph (3), the notice referred to in paragraph (2) shall specify that guide dogs are permitted within the licensed premises.\n(5) Notwithstanding paragraph (1), where any premises are licensed as a food establishment where pets are allowed, any person may bring into, or cause or permit to be brought into, the dining or refreshment area or any toilet of the licensed premises any animal which is kept as a pet if the animal is —\n(a)kept under proper control;\n(b)restrained from straying or causing annoyance or nuisance to any person or animal, or damage to any property; and\n(c)where the animal is a dog, held in a leash.\n(6) Paragraph (2) shall not apply to any licensed premises referred to in paragraph (5).\n(7) Subject to paragraph (8), no person shall feed any guide dog or cause or permit any guide dog to be fed in any licensed premises.\n(8) Where any animal is brought into any licensed premises where pets are allowed, no person shall feed the animal or cause the animal to be fed using any crockery, utensil, container, receptacle, appliance or implement which is or will be used for the consumption of any food by a human being.\n(9) Where —\n(a)there is an outbreak of an infectious or animal-borne disease; or\n(b)it is necessary in the interest of public health that any licensed premises should not be used as —\n(i)a food establishment or private market where guide dogs are permitted; or\n(ii)a food establishment where pets are allowed,\nthen, notwithstanding paragraphs (3) and (5), the Director-General or an authorised officer may, by notice in writing, direct any licensee not to allow in his licensed premises any guide dog or animal kept as a pet.\n(10) Where the licensee of any licensed premises referred to in paragraph (3) or (5) has breached any restriction or condition subject to which the licence was granted, the Director-General or an authorised officer may, by notice in writing, direct the licensee not to allow in his licensed premises any guide dog or animal kept as a pet.\n(11) Where a notice referred to in paragraph (9) or (10) has been issued in respect of any licensed premises, the provisions of paragraph (1) (without the exception) and paragraph (2) shall apply in relation to the licensed premises from the date of the notice for such period as the Director-General shall determine.\n(12) Where any notice referred to in paragraph (9) or (10) has been issued in respect of any licensed premises, the Director-General shall, as soon as practicable, cause to be published in the Gazette a notification that the provisions of paragraph (1) (without the exception) and paragraph (2) shall apply in relation to the licensed premises from the date of the notice for the period referred to in paragraph (11).\n(13) In this regulation —\n“animal” includes bird;\n“animal-borne disease” includes any disease that —\n(a)afflicts any animal; or\n(b)is or can be transmitted by any animal, whether to a human being or another animal;\n“guide dog” means a dog that is specially trained to aid a particular blind or visually impaired person.\n[S 872/2005 wef 31/12/2005]"
+   }
+  },
+  {
+   "id": "SG-H1369-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART IV MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Toilet facilities"
+   },
+   "text": {
+    "en": "30.—(1) Every licensee of a food establishment or private market shall ensure that there are provided for use a sufficient number of water closets, urinals and wash-basins in the toilet.\n(2) Every licensee of a food establishment or private market shall ensure that —\n(a)the toilet in the licensed premises used by him is kept clean, properly maintained and in good repair;\n(b)the toilet is not used for storage of any matter, article or thing which is not for use in connection with the toilet;\n(c)the toilet is provided with toilet paper, soap or liquid detergent, litter bin or receptacle and clean towel or hand dryer; and\n(d)the sanitary fittings, appliances and facilities are maintained in good working order, condition and repair.\n(3) Every licensee of a food establishment or private market shall —\n(a)if so directed by the Director-General or any authorised officer, engage a toilet caretaker to ensure that the toilet is clean at all times; and\n[S 622/2004 wef 15/10/2004]\n(b)maintain such record and schedule of cleaning of the toilet as may be directed by the Director-General or any authorised officer.\n[S 622/2004 wef 15/10/2004]"
+   }
+  },
+  {
+   "id": "SG-H1369-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART IV MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Refuse disposal"
+   },
+   "text": {
+    "en": "31.—(1) Every licensee holding a licence referred to in section 33 or 34 of the Act shall —\n(a)provide an adequate number of impervious receptacles with airtight coverings (which shall be kept closed) and of sufficient capacity to receive all refuse, rubbish or other waste produced upon the licensed premises used by him to hawk, sell or expose for sale any food or goods of any kind;\n(b)deposit or cause or permit to be deposited any refuse, rubbish or other waste discarded by him in such receptacle referred to in sub-paragraph (a) that is lined with a plastic bag used for that purpose, except for waste of a size that cannot be accommodated in such receptacle; and\n(c)ensure that the plastic bag containing the refuse, rubbish or other waste discarded is not torn or damaged and is securely fastened before he places or deposits it in a refuse bin centre or in such place as may be directed by the Director-General or any authorised officer for collection.\n(2) Every licensee of a food establishment, temporary fair or private market shall —\n(a)provide an adequate number of impervious receptacles with airtight coverings (which shall be kept closed) and of sufficient capacity to receive all refuse, rubbish or other waste produced upon the licensed premises used by the licensee as a food establishment, temporary fair or private market, unless such receptacles are already provided by a licensee holding a licence under section 33 or 34 of the Act;\n(b)ensure that any refuse, rubbish or other waste discarded by him or any other person in those licensed premises is deposited in such receptacle referred to in sub-paragraph (a) that is lined with a plastic bag used for that purpose, except for waste of a size that cannot be accommodated in such receptacle; and\n(c)ensure that the plastic bag containing the refuse, rubbish or other waste discarded is not torn or damaged and is securely fastened before it is placed or deposited in a refuse bin centre or in such place as may be directed by the Director-General or any authorised officer for collection.\n[S 522/2010 wef 27/09/2010]"
+   }
+  },
+  {
+   "id": "SG-H1369-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART IV MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Register on licensed premises"
+   },
+   "text": {
+    "en": "32. Every licensee shall maintain in his licensed premises a register in such form and for such purpose in connection with the licence as the Director-General may determine.\n[S 622/2004 wef 15/10/2004]"
+   }
+  },
+  {
+   "id": "SG-H1369-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART IV MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Penalty"
+   },
+   "text": {
+    "en": "33.—(1) Any person who contravenes or fails to comply with any of the provisions of these Regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.\n(2) A licensee who would have been guilty of an offence if anything had been done or omitted by him personally shall be guilty of that offence and shall be liable to the same penalty if that thing had been done or omitted to be done by his employee or assistant in the course of his business or in the scope of his employment unless he proves to the satisfaction of the court that the offence was committed without his knowledge and that he took all reasonable precautions to prevent the commission of the offence."
+   }
+  },
+  {
+   "id": "SG-H1369-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRegulation 12(e)\nTemperatures for Storage of Food\nType of food\nTemperature\n(1) Frozen meat\nnot above -12º C\n(2) Ice-cream\nnot above -2º C\n(3) Chilled fresh meat and uncooked fish\nnot below 0º C and not above 4º C\n(4) Thawed frozen meat\nnot below 0º C and not above 4º C\n(5) Dairy products and any other product that is required to be stored at a chilled temperature as stated on its product label\nnot above 7º C.\n[S 222/2000 wef 01/05/2000]"
+   }
+  }
+ ]
+}

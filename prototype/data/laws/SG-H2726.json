@@ -1,0 +1,78 @@
+{
+ "id": "SG-H2726",
+ "title": {
+  "zh": null,
+  "en": "Infrastructure Protection (Protected Places) (No. 7) Order 2020",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p34",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation IPA2017-S284-2020",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1229,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/IPA2017-S284-2020?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2726-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. This Order is the Infrastructure Protection (Protected Places) (No. 7) Order 2020 and comes into operation on 17 April 2020."
+   }
+  },
+  {
+   "id": "SG-H2726-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Premises declared to be protected place"
+   },
+   "text": {
+    "en": "2. The premises described in the second column of the Schedule are declared to be a protected place for the purposes of the Act, and the person specified in the first column of that Schedule is designated as the authority of the protected place."
+   }
+  },
+  {
+   "id": "SG-H2726-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nParagraph 2\nFirst Column\nSecond Column\nThe Authority\nProtected Place\nPresident, Sembcorp Industries Limited\nSEMBCORP GAS PTE LTD\nAll that area comprised in part of State Land Lot 00969P (Part) in Mukim No. 34 occupied by “SEMBCORP GAS PTE LTD” containing an area of about 14,045 square metres and bounded approximately as follows:\nCommencing at the north-easternmost corner at a point 26,244.379 metres North and 12,966.788 metres East of the Singapore Land Authority SVY 21 Datum, the boundary runs anti‑clockwise along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n26,244.379\n12,966.788\n26,059.503\n13,019.569\n26,085.397\n13,089.286\n26,264.755\n13,038.087\nto the point of commencement.\nThe boundaries of “SEMBCORP GAS PTE LTD” are more particularly delineated in the Survey Plan No. SCA2016‑50/A3/GA‑B set out below."
+   }
+  }
+ ]
+}

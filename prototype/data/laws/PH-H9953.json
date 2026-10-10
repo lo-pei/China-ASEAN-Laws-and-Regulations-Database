@@ -1,0 +1,74 @@
+{
+ "id": "PH-H9953",
+ "title": {
+  "zh": null,
+  "en": "An Act Declaring May 18 of Every Year as the National Higher Education Day",
+  "orig": "An Act Declaring May 18 of Every Year as the National Higher Education Day"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p141",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2021-01-29",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 11522",
+ "officialCode": null,
+ "topics": [
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1435,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2021/ra_11522_2021.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2021/ra_11522_2021.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H9953-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "National Higher Education Day. - The eighteenth (18th) day of May of every year is hereby declared as the \"National Higher Education Day\" in commemoration of the founding anniversary of the Commission on Higher Education (CHED).\nTo ensure a meaningful observance of this special working day as herein declared, all heads of government agencies and instrumentalities, including government-owned and controlled corporations, local government units, public and private educational institutions, employers in the private sector, and industry associations, shall encourage and afford sufficient time and opportunities for their students or employees to engage and participate in any activity conducted within the premises of their schools, offices or establishments in celebration of the \"National Higher Education Day\"."
+   }
+  },
+  {
+   "id": "PH-H9953-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Lead Agency. - The CHED shall be the lead agency in charge of the preparation and implementation of its annual program of activities and advocacy program for the observance of the \"National Higher Education Day\".\nAll higher education institutions shall also provide full support and assistance to the preparation of the annual program of activities and events to be conducted by CHED in observance of the event pursuant to this Act."
+   }
+  },
+  {
+   "id": "PH-H9953-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation, whichever comes earlier."
+   }
+  }
+ ]
+}

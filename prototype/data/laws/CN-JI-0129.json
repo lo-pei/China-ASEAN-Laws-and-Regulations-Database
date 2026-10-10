@@ -1,0 +1,100 @@
+{
+ "id": "CN-JI-0129",
+ "title": {
+  "zh": "最高人民法院关于第二审人民法院在审理过程中可否对当事人的违法行为径行制裁等问题的批复",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p07",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "1990-07-25",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "最高人民法院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ITEM",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 172,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于第二审人民法院在审理过程中可否对当事人的违法行为径行制裁等问题的批复_19900725.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，一、至三、，共 3 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于第二审人民法院在审理过程中可否对当事人的违法行为径行制裁等问题的批复_19900725.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0129-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "一、"
+   },
+   "text": {
+    "zh": "第二审人民法院在审理案件过程中，认为当事人有违法行为应予依法制裁而原审人民法院未予制裁的，可以径行予以民事制裁。"
+   }
+  },
+  {
+   "id": "CN-JI-0129-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "二、"
+   },
+   "text": {
+    "zh": "当事人不服人民法院民事制裁决定而向上一级人民法院申请复议的，该上级人民法院无论维持、变更或者撤销原决定，均应制作民事制裁决定书。"
+   }
+  },
+  {
+   "id": "CN-JI-0129-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "三、"
+   },
+   "text": {
+    "zh": "人民法院复议期间，被制裁人请求撤回复议申请的，经过审查，应当采取通知的形式，准予撤回申请或者驳回其请求。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于第二审人民法院在审理过程中可否对当事人的违法行为径行制裁等问题的批复"
+  },
+  "issuingBody": {
+   "zh": "最高人民法院"
+  },
+  "promulgatedDate": "1990-07-25",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

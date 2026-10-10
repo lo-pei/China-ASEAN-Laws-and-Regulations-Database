@@ -1,0 +1,146 @@
+{
+ "id": "SG-H2265",
+ "title": {
+  "zh": null,
+  "en": "Income Tax (Gains from Short-term Transactions of Shares in Private Real Property Company) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p29",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ITA1947-RG31",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 8,
+ "chars": 5207,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ITA1947-RG31?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 8 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2265-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Income Tax (Gains from Short-term Transactions of Shares in Private Real Property Company) Regulations."
+   }
+  },
+  {
+   "id": "SG-H2265-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Consideration of shares acquired under certain circumstances"
+   },
+   "text": {
+    "en": "2. For the purposes of computing the amount of any gain or loss under section 10G of the Act of any person arising from the disposal of any shares in a relevant company, the following provisions shall apply:\n(a)where the shares were acquired by him by way of gift inter vivos or settlement without any consideration, the shares shall be deemed to have been acquired by him at a consideration equal to the net asset value of the shares as at the end of the accounting period of the relevant company immediately before the shares were so acquired by him;\n(b)where the shares were acquired by him —\n(i)as a surviving joint owner by the operation of the right of survivorship upon the death of any other joint owner of the shares; or\n(ii)as a beneficiary under a will in consequence of the death of the testator, or as a person entitled to succeed beneficially to the estate of an intestate under any written law in consequence of the death of the intestate,\nthe shares shall be deemed to have been acquired by him at a consideration equal to the amount paid by the deceased for the shares."
+   }
+  },
+  {
+   "id": "SG-H2265-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Deduction of expenses"
+   },
+   "text": {
+    "en": "3. For the purposes of ascertaining any gain under section 10G of the Act of any person arising from the disposal of any shares in a relevant company to which section 10G(1) of the Act applies, there shall be deducted, subject to regulation 4, all outgoings and expenses wholly and exclusively incurred by the person in the production of such gain, including ―\n(a)the acquisition price of the shares;\n(b)any sum payable by way of interest upon any money borrowed by the person where the Comptroller is satisfied that the interest was payable on capital employed to acquire the shares;\n(c)any legal costs incurred for the acquisition or disposal of the shares; and\n(d)any amount paid in respect of stamp duty for the acquisition or disposal of the shares."
+   }
+  },
+  {
+   "id": "SG-H2265-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Deduction of certain expenses not allowed"
+   },
+   "text": {
+    "en": "4. For the purposes of ascertaining the gain of any person under regulation 3, no deduction shall be allowed in respect of any outgoings and expenses referred to in regulation 3(b) which were incurred for any basis period during which any income (other than income to which section 10G of the Act applies) was derived from the investment of the shares."
+   }
+  },
+  {
+   "id": "SG-H2265-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Timing of acquisition of shares by way of inheritance"
+   },
+   "text": {
+    "en": "5. For the purposes of section 10G of the Act, where any person has disposed of any interest in shares in a relevant company which was acquired by him —\n(a)as a beneficiary under a will in consequence of the death of the testator; or\n(b)as a person entitled to succeed beneficially to the estate of an intestate under any written law in consequence of the death of the intestate,\nhe shall be deemed to have acquired the interest at the same time the deceased acquired the interest in the shares."
+   }
+  },
+  {
+   "id": "SG-H2265-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Timing of acquisition of shares by right of survivorship"
+   },
+   "text": {
+    "en": "6. For the purposes of section 10G of the Act, where any person has disposed of any interest in shares in a relevant company which was acquired by him as a surviving joint owner by the operation of the right of survivorship upon the death of any other joint owner of the shares, he shall be deemed to have acquired the interest at the same time the deceased acquired the interest in the shares."
+   }
+  },
+  {
+   "id": "SG-H2265-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Exemption from tax of gains on disposal of shares in property dealing or development company"
+   },
+   "text": {
+    "en": "7. Section 10G of the Act shall not apply to any disposal of shares in a relevant company where —\n(a)the relevant company is carrying on the trade of property dealing or business of real property development the income from which is chargeable to tax under section 10(1)(a) of the Act; and\n(b)all the real property owned by the relevant company constitutes the trading stock of its trade or business."
+   }
+  },
+  {
+   "id": "SG-H2265-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Exemption from tax of gains on disposal of shares consequent on matrimonial proceedings"
+   },
+   "text": {
+    "en": "8.—(1) Section 10G of the Act shall not apply to —\n(a)any disposal of shares in a relevant company consequent on any matrimonial proceedings to —\n(i)the other party to the matrimonial proceedings;\n(ii)any child of the marriage or former marriage of the parties to those proceedings; or\n(iii)both the other party and any such child; and\n(b)any disposal of shares in a relevant company to any party other than those specified in sub-paragraph (a) in compliance with any order of court for the division of matrimonial assets arising from or relating to those proceedings.\n(2) For the purposes of paragraph (1), a disposal of shares shall be regarded as made consequent on any matrimonial proceedings if —\n(a)the disposal of shares is made as a result of compliance with any order of court for the division of matrimonial assets arising from or relating to those proceedings; or\n(b)in the absence of any such order of court, the Comptroller is satisfied, having regard to all the other circumstances in which the shares are disposed of, that the disposal of shares is made directly as a result of those proceedings.\n(3) In this regulation —\n“child of a marriage or former marriage” includes a step-child of the marriage or former marriage and a child adopted during that marriage or former marriage in accordance with any written law relating to adoption;\n“matrimonial proceedings” means —\n(a)proceedings according to the Muslim law for a certificate of divorce; or\n(b)proceedings for a decree of divorce, judicial separation or nullity of marriage under the Women’s Charter (Cap. 353)."
+   }
+  }
+ ]
+}

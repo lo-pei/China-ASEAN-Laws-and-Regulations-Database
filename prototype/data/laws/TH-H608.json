@@ -1,0 +1,104 @@
+{
+ "id": "TH-H608",
+ "title": {
+  "zh": null,
+  "en": null,
+  "orig": "พระราชบัญญัติยกฐานะศาลแขวงกบินทร์บุรีเป็นศาลจังหวัด พุทธศักราช 2481"
+ },
+ "country": "TH",
+ "countryName": "泰国",
+ "layer": "intl",
+ "pack": "th-p07",
+ "language": "th",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1938-03-06",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国务委员会办公室（OCS）",
+ "docNumber": "ยศ003-1B-0001",
+ "officialCode": "ยศ003-1B-0001",
+ "topics": [
+  "other"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 677,
+ "source": {
+  "name": "泰国国务委员会办公室（Office of the Council of State, สำนักงานคณะกรรมการกฤษฎีกา）法律检索系统",
+  "url": "https://searchlaw.ocs.go.th/council-of-state/#/public/doc/a0NWVUFQLy91NGl6R0V2a201N3R2dz09"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 6 条；逐字取自 泰国国务委员会办公室（Office of the Council of State, สำนักงานคณะกรรมการกฤษฎีกา）法律检索系统官方详情页（https://searchlaw.ocs.go.th/council-of-state/#/public/doc/a0NWVUFQLy91NGl6R0V2a201N3R2dz09），未改写、未摘译、未节选；原文语言：泰语（th）。 条文抬头依官方原件为「มาตรา N」（第 N 条）体例，本库照录官方写法；编/章/节/款标题依原件「บรรพ …」「ลักษณะ …」「หมวด …」「ส่วน …」层级还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TH-H608-A1",
+   "no": 1,
+   "noLabel": {
+    "th": "มาตรา 1"
+   },
+   "text": {
+    "th": "มาตรา ๑ พระราชบัญญัตินี้ให้เรียกว่า “พระราชบัญญัติยกฐานะศาลแขวงกบินทร์บุรีเป็นศาลจังหวัด พุทธศักราช ๒๔๘๑”"
+   }
+  },
+  {
+   "id": "TH-H608-A2",
+   "no": 2,
+   "noLabel": {
+    "th": "มาตรา 2"
+   },
+   "text": {
+    "th": "มาตรา ๒ ให้ใช้พระราชบัญญัตินี้ตั้งแต่วันประกาศในราชกิจจานุเบกษาเป็นต้นไป"
+   }
+  },
+  {
+   "id": "TH-H608-A3",
+   "no": 3,
+   "noLabel": {
+    "th": "มาตรา 3"
+   },
+   "text": {
+    "th": "มาตรา ๓ ให้ยกฐานะศาลแขวงกบินทร์บุรีขึ้นเป็นศาลจังหวัด แต่จะเปิดทำการเป็นศาลจังหวัดเมื่อใด จะได้มีพระราชกฤษฎีกาประกาศอีกชั้นหนึ่ง"
+   }
+  },
+  {
+   "id": "TH-H608-A4",
+   "no": 4,
+   "noLabel": {
+    "th": "มาตรา 4"
+   },
+   "text": {
+    "th": "มาตรา ๔ ให้ศาลจังหวัดกบินทร์บุรีมีเขตตลอดท้องที่อำเภอกบินทร์บุรี และอำเภออรัญญประเทศ ในจังหวัดปราจีนบุรี"
+   }
+  },
+  {
+   "id": "TH-H608-A5",
+   "no": 5,
+   "noLabel": {
+    "th": "มาตรา 5"
+   },
+   "text": {
+    "th": "มาตรา ๕ บรรดาคดีเกินอำนาจศาลแขวงกบินทร์บุรีซึ่งค้างพิจารณาในศาลจังหวัดปราจีนบุรี ในวันที่เปิดทำการเป็นศาลจังหวัดดังระบุไว้ในมาตรา ๓ นั้น ให้คงพิจารณาพิพากษาต่อไปในศาลจังหวัดปราจีนบุรี"
+   }
+  },
+  {
+   "id": "TH-H608-A6",
+   "no": 6,
+   "noLabel": {
+    "th": "มาตรา 6"
+   },
+   "text": {
+    "th": "มาตรา ๖ ให้รัฐมนตรีว่าการกระทรวงยุติธรรมมีหน้าที่รักษาการให้เป็นไปตามพระราชบัญญัตินี้"
+   }
+  }
+ ]
+}

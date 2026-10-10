@@ -1,0 +1,198 @@
+{
+ "id": "SG-H3096",
+ "title": {
+  "zh": null,
+  "en": "Maritime Conventions Act 1911",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p39",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act MCA1911",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 10,
+ "chars": 6358,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/MCA1911?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 10 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。其中 2 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3096-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PROVISIONS AS TO COLLISIONS, ETC."
+   },
+   "heading": {
+    "en": "Rule as to division of loss"
+   },
+   "text": {
+    "en": "1.—(1) Where, by the fault of 2 or more ships, damage or loss is caused to one or more of those ships, to their cargoes or freight, or to any property on board, the liability to make good the damage or loss shall be in proportion to the degree in which each ship was in fault, except that if, having regard to all the circumstances of the case, it is not possible to establish different degrees of fault, the liability shall be apportioned equally.\n(2) Nothing in this section shall operate so as to render any ship liable for any loss or damage to which her fault has not contributed.\n(3) Nothing in this section shall affect the liability of any person under a contract of carriage or any contract, or shall be construed as imposing any liability upon any person from which he is exempted by any contract or by any provision of law, or as affecting the right of any person to limit his liability in the manner provided by law.\n(4) For the purposes of this Act, “freight” includes passage money and hire, and references to damage or loss caused by the fault of a ship shall be construed as including references to any salvage or other expenses, consequent upon that fault, recoverable at law by way of damages."
+   }
+  },
+  {
+   "id": "SG-H3096-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PROVISIONS AS TO COLLISIONS, ETC."
+   },
+   "heading": {
+    "en": "Damages for personal injuries"
+   },
+   "text": {
+    "en": "2.—(1) Where loss of life or personal injuries are suffered by any person on board a ship owing to the fault of that ship and of any other ship or ships, the liability of the owners of the ships shall be joint and several.\n(2) Nothing in this section —\n(a)shall be construed as depriving any person of any right of defence on which, independently of this section, he might have relied in an action brought against him by the person injured, or any person or persons entitled to sue in respect of such loss of life; or\n(b)shall affect the right of any person to limit his liability in cases to which this section relates in the manner provided by law."
+   }
+  },
+  {
+   "id": "SG-H3096-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PROVISIONS AS TO COLLISIONS, ETC."
+   },
+   "heading": {
+    "en": "Right of contribution"
+   },
+   "text": {
+    "en": "3.—(1) Where loss of life or personal injuries are suffered by any person on board a ship owing to the fault of that ship and any other ship or ships, and a proportion of the damages is recovered against the owners of one of the ships which exceeds the proportion in which she was in fault, they may recover by way of contribution the amount of the excess from the owners of the other ship or ships to the extent to which those ships were respectively in fault.\n(2) No amount shall be recovered under subsection (1) which could not, by reason of any statutory or contractual limitation of, or exemption from, liability, or which could not for any other reason, have been recovered in the first instance as damages by the persons entitled to sue therefor.\n(3) In addition to any other remedy provided by law, the persons entitled to any such contribution as aforesaid shall, for the purpose of recovering the same, have, subject to the provisions of this Act, the same rights and powers as the persons entitled to sue for damages in the first instance."
+   }
+  },
+  {
+   "id": "SG-H3096-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PROVISIONS AS TO COLLISIONS, ETC."
+   },
+   "text": {
+    "en": "4. [Omitted in 2004 Revised Edition]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3096-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 1 PROVISIONS AS TO COLLISIONS, ETC."
+   },
+   "heading": {
+    "en": "Jurisdiction in cases of loss of life or personal injury"
+   },
+   "text": {
+    "en": "5. Any enactment which confers on any court admiralty jurisdiction in respect of damage shall have effect as though references to such damage included references to damages for loss of life or personal injury, and accordingly proceedings in respect of such damages may be brought in rem (against the thing) or in personam (against the person)."
+   }
+  },
+  {
+   "id": "SG-H3096-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 PROVISIONS AS TO SALVAGE"
+   },
+   "heading": {
+    "en": "General duty to render assistance to persons in danger at sea"
+   },
+   "text": {
+    "en": "6.—(1) The master or person in charge of a ship shall, so far as he can do so without serious danger to his own ship, her crew and passengers (if any), render assistance to every person, even if such person be a subject of a foreign State at war with Singapore, who is found at sea in danger of being lost, and, if he fails to do so, he shall be guilty of an offence.\n(2) Compliance by the master or person in charge of a ship with the provisions of this section shall not affect his right or the right of any other person to salvage."
+   }
+  },
+  {
+   "id": "SG-H3096-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 PROVISIONS AS TO SALVAGE"
+   },
+   "text": {
+    "en": "7. [Repealed by Act 3 of 2019]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3096-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Limitation of actions"
+   },
+   "text": {
+    "en": "8.—(1) No action shall be maintainable to enforce any claim or lien against a ship or her owners in respect of any damage or loss to another ship, her cargo or freight, or any property on board her, or damages for loss of life or personal injuries suffered by any person on board her, caused by the fault of the former ship, whether such ship be wholly or partly in fault, unless proceedings therein are commenced within 2 years from the date when the damage, loss or injury was caused.\n[3/2019]\n(2) An action shall not be maintainable under this Act to enforce any contribution in respect of an overpaid proportion of any damages for loss of life or personal injuries unless proceedings therein are commenced within one year from the date of payment.\n(3) Notwithstanding subsections (1) and (2), any court having jurisdiction to deal with an action to which this section relates —\n(a)may, in accordance with the Rules of Court, extend any such period, to such extent and on such conditions as it thinks fit; and\n(b)shall, if satisfied that there has not during such period been any reasonable opportunity of arresting the defendant ship within the jurisdiction of the court, or within the territorial waters of the country to which the plaintiff’s ship belongs or in which the plaintiff resides or has his principal place of business, extend any such period to an extent sufficient to give such reasonable opportunity."
+   }
+  },
+  {
+   "id": "SG-H3096-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Application of Act"
+   },
+   "text": {
+    "en": "9.—(1) This Act shall extend throughout His Majesty’s dominions and to any territories under his protection, and to Cyprus.\n(2) This Act shall not extend to the Dominion of Canada, the Commonwealth of Australia, the Dominion of New Zealand, the Union of South Africa, and Newfoundland.\n(3) This Act shall not apply in any case in which proceedings have been taken before the passing thereof and all such cases shall be determined as though this Act had not been passed.\n(4) This Act shall apply to any persons other than the owners responsible for the fault of the ship as though the expression “owners” included such persons.\n(5) In any case where, by virtue of any charter or demise, or for any other reason, the owners are not responsible for the navigation and management of the ship, this Act shall be read as though for references to the owners there were substituted references to the charterers or other persons for the time being so responsible."
+   }
+  },
+  {
+   "id": "SG-H3096-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Short title and construction"
+   },
+   "text": {
+    "en": "10. This Act may be cited as the Maritime Conventions Act 1911, and shall be construed as one with the Merchant Shipping Act 1995."
+   }
+  }
+ ]
+}

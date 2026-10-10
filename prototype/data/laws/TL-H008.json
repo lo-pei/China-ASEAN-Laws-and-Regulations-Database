@@ -1,0 +1,211 @@
+{
+ "id": "TL-H008",
+ "title": {
+  "zh": "Fronteiras Marítimas do Território da República Democrática de Timor-Leste",
+  "en": null,
+  "orig": "Fronteiras Marítimas do Território da República Democrática de Timor-Leste"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2002-08-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 7/2002",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 13,
+ "chars": 6983,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2002_2005/leis_parlamento_nacional/7_2002.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 13 条；逐字取自官方公报 PDF（public/docs/2002_2005/leis_parlamento_nacional/7_2002.pdf）第 —–— 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H008-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Definições"
+   },
+   "text": {
+    "pt": "Para efeitos da presente lei:\na)   “Linhas de base” significa as linhas de base a partir das quais se mede a largura do mar territorial, tal como referido nos artigos 2.º e 3.º da presente lei;\nb)   “Zona contígua” significa a zona contígua de Timor-Leste, tal como referida no artigo 6.º da presente lei;\nc)   “Plataforma continental” significa a plataforma continental de Timor-Leste, tal como descrita no artigo 8.º da presente lei;\nd)   “Território de Timor-Leste” inclui a parte oriental da ilha de Timor, o enclave de Oe-Cusse Ambeno, a ilha de Ataúro e o ilhéu de Jaco, bem como outras ilhas e formações naturais que constituam dependências susceptíveis de apropriação;\ne)   “Zona económica exclusiva” significa a zona marítima para além do mar territorial de Timor- Leste e a este adjacente, tal como estabelecida pelo artigo 7.º da presente lei;\nf)    “Águas interiores” significa as águas interiores do território de Timor-Leste, tal como referidas no artigo 4.º da presente lei;\ng)   “Linha de baixa-mar” significa a linha de baixa-mar das costas do território de Timor-Leste, tal como é revelada nas cartas oficiais de maior escala reconhecidas oficialmente pelo Governo de Timor- Leste;\nh)   “Ministro” significa o Ministro que por designação do Primeiro-Ministro tenha competência na matéria dos espaços e fronteiras marítimos de Timor-Leste e da jurisdição sobre eles;\n(i)    “Milha náutica” significa a Milha Náutica Internacional de 1852 metros;\nj)    “Mar territorial” significa o mar territorial de Timor-Leste, tal como é referido no artigo 5.º da presente lei."
+   }
+  },
+  {
+   "id": "TL-H008-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Linha de base normal"
+   },
+   "text": {
+    "pt": "1.     Sem prejuízo do disposto no artigo 3.º, a linha de base normal para medir a largura do mar territorial de Timor-Leste é a linha da baixa-mar ao longo da costa do território de Timor-Leste.\n2.   As instalações portuárias permanentes mais ao largo da costa, que façam parte integrante do sistema portuário, são consideradas como fazendo parte da costa."
+   }
+  },
+  {
+   "id": "TL-H008-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "heading": {
+    "pt": "Rios e baías"
+   },
+   "text": {
+    "pt": "1.   Se um rio desaguar directamente no mar, a linha de base é uma recta traçada através da foz do rio entre os pontos limites da linha de baixa-mar das suas margens.\n2.   Sem prejuízo das normas de direito internacional aplicáveis, se a sinuosidade da costa formar uma baía, a linha de base será um segmento de recta traçado entre os pontos naturais da entrada da baía na linha de baixa-mar.\n3.   O número anterior não se aplica às “baías históricas”, podendo o Ministro declarar uma baía como “baía histórica” e definir os limites exteriores da baía em causa."
+   }
+  },
+  {
+   "id": "TL-H008-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "heading": {
+    "pt": "Águas interiores"
+   },
+   "text": {
+    "pt": "O limite exterior das águas interiores do território de Timor-Leste é a linha de base a partir da qual se mede a largura do mar territorial de Timor-Leste."
+   }
+  },
+  {
+   "id": "TL-H008-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "heading": {
+    "pt": "Mar territorial"
+   },
+   "text": {
+    "pt": "O limite exterior do mar territorial de Timor-Leste é definido por uma linha em que cada um dos pontos se situa a uma distância de doze milhas náuticas do ponto mais próximo da linha de base."
+   }
+  },
+  {
+   "id": "TL-H008-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "heading": {
+    "pt": "Zona contígua"
+   },
+   "text": {
+    "pt": "O limite exterior da zona contígua de Timor-Leste é definido por uma linha em que cada um dos pontos se situa a uma distância de vinte e quatro milhas náuticas do ponto mais próximo da linha de base."
+   }
+  },
+  {
+   "id": "TL-H008-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "heading": {
+    "pt": "Zona económica exclusiva"
+   },
+   "text": {
+    "pt": "O limite exterior da zona económica exclusiva de Timor-Leste é definido por uma linha em que cada um dos pontos se situa a uma distância de duzentas milhas náuticas do ponto mais próximo da linha de base."
+   }
+  },
+  {
+   "id": "TL-H008-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "heading": {
+    "pt": "Plataforma continental"
+   },
+   "text": {
+    "pt": "O limite exterior da plataforma continental de Timor-Leste é definido por uma linha em que cada um dos pontos se situa a uma distância de duzentas milhas náuticas do ponto mais próximo da linha de base ou pelo bordo exterior da margem continental, no caso de a margem continental se encontrar a uma distância da linha de base superior a duzentas milhas náuticas."
+   }
+  },
+  {
+   "id": "TL-H008-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "heading": {
+    "pt": "Sobreposição de títulos sobre espaços marítimos"
+   },
+   "text": {
+    "pt": "Sem prejuízo do disposto nos artigos 5.º a 8.º, caso se verifique sobreposição entre os títulos de Timor-Leste e de Estados vizinhos sobre espaços marítimos, a questão da delimitação será resolvida através dos meios pacíficos de resolução de controvérsias, de acordo com o disposto no artigo 33.º da Carta das Nações Unidas, tomando em consideração os princípios e regras de direito internacional relativos à delimitação de espaços marítimos."
+   }
+  },
+  {
+   "id": "TL-H008-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "heading": {
+    "pt": "Soberania, direitos soberanos e jurisdição"
+   },
+   "text": {
+    "pt": "1.   A soberania de Timor-Leste abrange, para além do seu território e águas interiores, o mar territorial e o espaço aéreo sobre o mar territorial, bem como o leito e o subsolo deste.\n2.   Na sua zona contígua, o Estado de Timor-Leste exerce a fiscalização necessária para:\na)   Evitar as infracções às leis a regulamentos aduaneiros, fiscais, de imigração ou sanitários no seu território ou no seu mar territorial;\nb)   Reprimir as infracções às leis e regulamentos no seu território ou no seu mar territorial.\n3.   Na sua zona económica exclusiva, o Estado de Timor-Leste tem:\na)   Direitos soberanos para fins de exploração e aproveitamento, conservação e gestão dos recursos naturais, vivos ou não vivos, das águas sobrejacentes ao leito do mar, do leito do mar e seu subsolo e os respeitantes a outras actividades com vista à exploração e aproveitamento da zona económica exclusiva de Timor-Leste para fins económicos, como a produção de energia a partir da água, das correntes e dos ventos;\nb)   Jurisdição no que se refere a\n(i)    Colocação e utilização de ilhas artificiais, instalações e estruturas; (ii)   Investigação científica marinha; e (iii)  Protecção e preservação do meio marinho;\nc)   Outros direitos e deveres reconhecidos pelo direito internacional.\n4.   O Estado de Timor-Leste exerce direitos soberanos sobre a plataforma continental para efeitos de exploração e aproveitamento dos seus recursos naturais, assim como outros direitos reconhecidos pelo direito internacional.\n5. Os direitos soberanos exercidos pelo Estado de Timor-Leste sobre a plataforma continental são independentes da sua ocupação, real ou fictícia, ou de qualquer declaração expressa."
+   }
+  },
+  {
+   "id": "TL-H008-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "heading": {
+    "pt": "Cartas topográficas e coordenadas geográficas"
+   },
+   "text": {
+    "pt": "O Parlamento Nacional elaborará, em prazo razoável, sob sua iniciativa ou mediante proposta de lei, cartas de escala ou escalas adequadas à determinação da posição das linhas de limite exterior e de delimitação do mar territorial, da zona económica exclusiva e da plataforma continental ou, quando apropriado, listas de coordenadas geográficas de pontos em que conste especificamente a origem geodésica dessas linhas, às quais deve ser dada devida publicidade, depositando-se um exemplar de cada uma dessas cartas ou listas junto do Secretário-Geral das Nações Unidas, assim que recebidos na ordem jurídica interna os instrumentos de direito internacional a que alude o artigo seguinte."
+   }
+  },
+  {
+   "id": "TL-H008-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "heading": {
+    "pt": "Direito internacional"
+   },
+   "text": {
+    "pt": "Os órgãos de soberania competentes promoverão, em prazo razoável, através dos mecanismos constitucionais e legais apropriados, a aprovação, adesão e ratificação dos tratados, convenções, acordos e protocolos existentes em matéria de Direito do Mar, sobretudo a Convenção das Nações Unidas sobre o Direito do Mar celebrada, a 10 de Dezembro de 1982, em Montego Bay (México) e o Acordo relativo à Aplicação da Parte XI da mesma Convenção das Nações Unidas sobre o Direito do Mar, de 10 de Dezembro de 1982."
+   }
+  },
+  {
+   "id": "TL-H008-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "heading": {
+    "pt": "Efeitos"
+   },
+   "text": {
+    "pt": "A presente lei produz efeitos desde o dia 20 de Maio de 2002."
+   }
+  }
+ ]
+}

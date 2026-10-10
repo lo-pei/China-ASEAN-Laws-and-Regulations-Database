@@ -1,0 +1,74 @@
+{
+ "id": "PH-H1921",
+ "title": {
+  "zh": "对《关税海关法典》的修改",
+  "en": "An Act to Amend Section One Hundred Four, Schedule XV, Chapter 83, Heading Numbered 83.07 and 83.15 of Republic Act Numbered Nineteen Hundred and Thirty-Seven, Otherwise Known as the Tariff and Customs Code of the Philippines",
+  "orig": "An Act to Amend Section One Hundred Four, Schedule XV, Chapter 83, Heading Numbered 83.07 and 83.15 of Republic Act Numbered Nineteen Hundred and Thirty-Seven, Otherwise Known as the Tariff and Customs Code of the Philippines"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p27",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1959-05-06",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2184",
+ "officialCode": null,
+ "topics": [
+  "tax"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 991,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1959/ra_2184_1959.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1959/ra_2184_1959.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1921-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section one hundred four, Schedule XV, Chapter 83, Heading 83.07 of Republic Act Numbered Nineteen hundred and thirty-seven is hereby amended to read as follows:\n\"83.07 Lamps and Lighting fitting and parts thereof, of base metal (excluding switches, electric lamp holders, electric lamps for vehicles, electric battery or magneto lamps, and other articles falling within Chapter 85):\nA. Kerosene air pressure lamps and parts thereof:\n1. Assembled ad val. 65%\n2. Unassembled ad val. 20%\nB. Miners’ lamps and parts thereof ad val. 35%\nC. Others ad val. 100%\""
+   }
+  },
+  {
+   "id": "PH-H1921-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section one hundred four, Schedule XV, Chapter 83, Heading 83.15 of the same Act is hereby amended to read as follows:\n\"83.15 Welding electrodes, rods or tubes, solder in wire or roads, coated or cored with flux materials; prepared metal brazing plate of a kind used in metallurgy:\nA. Mild steel welding electrodes, coated with flux ad val. 100%\nB. Other ad val. 10%\""
+   }
+  },
+  {
+   "id": "PH-H1921-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: May 6, 1959."
+   }
+  }
+ ]
+}

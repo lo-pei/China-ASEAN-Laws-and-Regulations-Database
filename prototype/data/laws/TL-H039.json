@@ -1,0 +1,172 @@
+{
+ "id": "TL-H039",
+ "title": {
+  "zh": "Feriados Nacionais及 Datas Oficiais Comemorativas",
+  "en": null,
+  "orig": "Feriados Nacionais e Datas Oficiais Comemorativas"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "amended",
+ "promulgatedDate": "2005-08-10",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "据公报标题，本法经 Lei n.º 3/2016 修改；本库收录的是本法原始公布文本，修改后的合并本未另行收录。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 10/2005",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 10,
+ "chars": 6569,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2002_2005/leis_parlamento_nacional/10_2005.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 10 条；逐字取自官方公报 PDF（public/docs/2002_2005/leis_parlamento_nacional/10_2005.pdf）第 —–— 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 【据公报标题，本法经 《第3/2016号法律》 修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H039-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Âmbito de aplicação"
+   },
+   "text": {
+    "pt": "A presente lei, aplicando-se a todos e quaisquer regimes de trabalho dos sectores público e privado, estabelece o regime jurídico dos feriados, datas oficiais comemorativas e tolerâncias de ponto."
+   }
+  },
+  {
+   "id": "TL-H039-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Feriados nacionais"
+   },
+   "text": {
+    "pt": "1. São feriados nacionais com data fixa, em cada ano:\na) O dia 1 de Janeiro, como Dia de Ano Novo;\nb) O dia 1 de Maio, como Dia Mundial do Trabalhador;\nc) O dia 20 de Maio, como Dia da Restauração da Independência;\nd) O dia 30 de Agosto, como Dia da Consulta Popular;\ne) O dia 1 de Novembro, como Dia de Todos-os-Santos;\nf) O dia 2 de Novembro, como Dia de Todos-os-Fiéis Defuntos;\ng) O dia 12 de Novembro, como Dia Nacional da Juventude;\nh) O dia 28 de Novembro, como Dia da Proclamação da Independência;\n(i) O dia 7 de Dezembro, como Dia dos Heróis Nacionais;\nj) O dia 8 de Dezembro, como Dia da Nossa Senhora da Imaculada Conceição e Padroeira de Timor-Leste;\nl) O dia 25 de Dezembro, como Dia de Natal.\n2. São feriados nacionais de data variável, em cada ano:\na) A Sexta-Feira Santa, inserida nas comemorações cristãs da Páscoa;\nb) O Idul Fitri, como o dia que marca, para os muçulmanos, o fim do Ramadão;\nc) A Festa do Corpo de Deus;\nd) O Idul Adha, como dia de sacrifício para os muçulmanos.\n3. As datas concretas dos feriados previstos no número anterior são fixadas anualmente, no mês de Janeiro do ano a que digam respeito, por despacho do membro do Governo responsável pela área do trabalho.\n4. O feriado nacional equipara-se a dia de serviço efectivo, estando o trabalhador dispensado de comparecer ao serviço, sem perda do vencimento correspondente e de quaisquer outros direitos ou regalias resultantes da relação de trabalho.\n5. O trabalhador que, por qualquer motivo, preste serviço em dia de feriado nacional tem direito a compensação, em condições a definir por diploma normativo do Governo.\n6. O disposto nos números anteriores não se aplica aos funcionários escalados para trabalhar em dias feriados por virtude de regime de trabalho por turnos ou necessidade de assegurar a prestação de serviços públicos essenciais."
+   }
+  },
+  {
+   "id": "TL-H039-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "heading": {
+    "pt": "Comemorações do Dia da Proclamação da Independência"
+   },
+   "text": {
+    "pt": "Constitui dever cívico de todos os cidadãos, em especial os estudantes e os funcionários e agentes do Estado, participar nos festejos e cerimónias comemorativas do dia da Proclamação da Independência que tenham lugar nos serviços públicos ou estabelecimentos de ensino, públicos ou privados."
+   }
+  },
+  {
+   "id": "TL-H039-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "heading": {
+    "pt": "Feriados locais"
+   },
+   "text": {
+    "pt": "Pode haver feriados locais, a decretar, em condições a definir por lei, pelos órgãos competentes do poder local."
+   }
+  },
+  {
+   "id": "TL-H039-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "heading": {
+    "pt": "Datas oficiais comemorativas"
+   },
+   "text": {
+    "pt": "1. São datas oficiais comemorativas com data fixa:\na) O dia 1 de Junho, como Dia Internacional da Criança;\nb) O dia 20 de Agosto, como Dia das Forças Armadas de Libertação Nacional de Timor-Leste (FALINTIL);\nc) O dia 3 de Novembro, como Dia Nacional da Mulher;\nd) O dia 10 de Dezembro, como Dia Internacional dos Direitos Humanos.\n2. São datas oficiais comemorativas de data variável, em cada ano:\na) A Quarta-Feira de Cinzas;\nb) A Quinta-Feira Santa, inserida nas comemorações cristãs da Páscoa;\nc) O dia da Ascensão de Jesus Cristo ao Céu.\n3. As datas previstas nos números anteriores não são consideradas feriados, podendo, no entanto, ser objecto de tolerância de ponto, nos termos do artigo 7.o."
+   }
+  },
+  {
+   "id": "TL-H039-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "heading": {
+    "pt": "Cláusulas nulas"
+   },
+   "text": {
+    "pt": "São nulas e de nenhum efeito quaisquer cláusulas inseridas em contratos individuais de trabalho ou instrumentos de regulamentação colectiva que estabeleçam feriados diferentes dos previstos na presente lei."
+   }
+  },
+  {
+   "id": "TL-H039-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "heading": {
+    "pt": "Tolerância de ponto"
+   },
+   "text": {
+    "pt": "1. Tolerância de ponto é a faculdade geral de os trabalhadores ou dado conjunto de trabalhadores de determinado serviço, empresa ou organismo não comparecerem ao trabalho ou dele se ausentarem durante parte da jornada diária de trabalho, mediante autorização superior prévia, sem perda de remuneração e quaisquer direitos ou regalias inerentes à relação de trabalho.\n2. A tolerância de ponto só pode ser concedida:\na) Por ocasião de data oficial comemorativa;\nb) Por virtude de acontecimento nacional ou facto relevante relacionado com o serviço, empresa ou organismo em que os trabalhadores se integrem;\nc) Por motivo de celebração de data religiosa por trabalhador que professe religião cujas datas festivas não estejam contempladas na presente lei como feriados nacionais ou datas oficiais comemorativas.\n3. A tolerância de ponto dispensa do serviço, pelo período fixado, os trabalhadores abrangidos que dela pretendam disfrutar, mas não impede os restantes de, querendo, se apresentarem ao serviço.\n4. A tolerância de ponto é atribuída mediante despacho escrito, que deve ser publicitado através de afixação nos locais de estilo do local de trabalho e comunicação antecipada, quando possível, a todos os trabalhadores interessados.\n5. O despacho escrito que determinar a tolerância de ponto deve indicar o universo de trabalhadores abrangidos e o período de tempo em que estejam dispensados do serviço.\n6. Têm competência para conceder tolerância de ponto:\na) A respectiva entidade patronal, no caso dos trabalhadores do sector privado ou àquela vinculados por contrato individual de trabalho;\nb) O Presidente da República, no caso dos funcionários e agentes integrados nos respectivos serviços de apoio;\nc) O Presidente do Parlamento Nacional, no caso dos funcionários e agentes adstritos aos respectivos serviços de apoio;\nd) O Primeiro-Ministro, no caso dos funcionários e agentes dos ministérios ou serviços deles dependentes, bem como dos institutos e organismos integrados na administração indirecta do Estado;\ne) O Conselho Superior da Magistratura Judicial, no caso dos funcionários judiciais, e o Conselho Superior do Ministério Público, no caso dos funcionários que prestem serviço sujeitos às ordens e directrizes dos órgãos do Ministério Público;\nf) O Provedor de Direitos Humanos e Justiça, relativamente ao pessoal que preste serviço na Provedoria de Direitos Humanos e Justiça.\n7. A decisão de conceder ou não tolerância de ponto constitui poder discricionário, insusceptível de reclamação ou recurso, das entidades enumeradas no número anterior."
+   }
+  },
+  {
+   "id": "TL-H039-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "heading": {
+    "pt": "Disposição transitória"
+   },
+   "text": {
+    "pt": "Enquanto não for definida, por decreto-lei ou decreto do Governo, a compensação a que se referem o n.o 5 do artigo 2.o da presente lei e o n.o 2 do artigo 51.o da Lei n.o 8/2004, de 16 de Junho, mantém-se plenamente em vigor, para os trabalhadores do sector privado, o disposto no n.o 7 do artigo\n13.o do Regulamento da UNTAET n.o 2002/5, de 1 de Maio."
+   }
+  },
+  {
+   "id": "TL-H039-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "heading": {
+    "pt": "Norma revogatória"
+   },
+   "text": {
+    "pt": "São expressamente revogados:\na) O artigo 4.o da Directiva da UNTAET n.o 2000/4, de 30 de Junho, alterada pelas Directivas da UNTAET n.os 2001/9, de 18 de Julho, e 2002/2, de 5 de Março;\nb) A Ordem Executiva da UNTAET n.o 2000/1, de 10 de Julho."
+   }
+  },
+  {
+   "id": "TL-H039-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia imediato ao da sua publicação."
+   }
+  }
+ ]
+}

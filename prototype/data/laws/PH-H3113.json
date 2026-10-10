@@ -1,0 +1,483 @@
+{
+ "id": "PH-H3113",
+ "title": {
+  "zh": null,
+  "en": "An Act to Ensure the Safety and Purity of Foods, Drugs, and Cosmetics Being Made Available to the Public by Creating the Food and Drug Administration Which Shall Administer and Enforce the Laws Pertaining Thereto",
+  "orig": "An Act to Ensure the Safety and Purity of Foods, Drugs, and Cosmetics Being Made Available to the Public by Creating the Food and Drug Administration Which Shall Administer and Enforce the Laws Pertaining Thereto"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p44",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1963-06-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 3720",
+ "officialCode": null,
+ "topics": [
+  "health"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 34,
+ "chars": 51990,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1963/ra_3720_1963.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 34 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1963/ra_3720_1963.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3113-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act shall be known as the \"Food, Drug, and Cosmetic Act.\"\nDeclaration of Policy"
+   }
+  },
+  {
+   "id": "PH-H3113-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "chapter": {
+    "en": "CHAPTER II"
+   },
+   "text": {
+    "en": "It is hereby declared the policy of the State to insure safe and good quality supply of food, drug and cosmetic, and to regulate the production, sale, and traffic of the same to protect the health of the people."
+   }
+  },
+  {
+   "id": "PH-H3113-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "chapter": {
+    "en": "CHAPTER II"
+   },
+   "text": {
+    "en": "In the implementation of the foregoing policy, the Government shall in accordance with the provisions of this Act:\n(a) Establish standards and quality measures for food, drug, and cosmetic.\n(b) Adopt measures to insure pure and safe supply of food, drug, and cosmetic in the country.\nCreation of the Food and Drug Administration"
+   }
+  },
+  {
+   "id": "PH-H3113-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "chapter": {
+    "en": "CHAPTER III"
+   },
+   "text": {
+    "en": "To carry out the provisions of this Act, there is hereby created an office to be called the Food and Drug Administration in the Department of Health. Said Administration shall be under the Office of the Secretary and shall have the following functions, powers and duties:\n(a) To administer and supervise the implementation of this Act and of the rules and regulations issued pursuant to the same.\n(b) To provide for the collection of samples of food, drug and cosmetic.\n(c) To analyze and inspect food, drug and cosmetic in connection with the implementation of this Act.\n(d) To establish analytical data to serve as basis for the preparation of food, drug and cosmetic standards, and to recommend standards of identity, purity, quality and fill of container.\n(e) To issue certificate of compliance with technical requirements to serve as basis for the issuance of license and spot-check for compliance with regulations regarding operation of food, drug and cosmetic manufacturers and establishments.\n(f) To levy, assess and collect fees for inspection, analysis and testing of products and materials submitted in compliance with the provisions of this Act.\n(g) To certify batches of anti-biotic and anti-biotic preparations in compliance with the provisions of this Act."
+   }
+  },
+  {
+   "id": "PH-H3113-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "chapter": {
+    "en": "CHAPTER III"
+   },
+   "text": {
+    "en": "The Food and Drug Administration shall have the following Divisions:\n(a) Inspection and Licensing Division, which shall have charge of the inspection of food, drug, and cosmetic establishments engaged in their manufacture and sale.\n(b) Laboratory Division, which shall conduct all the tests, analyses and trials of products covered by this Act."
+   }
+  },
+  {
+   "id": "PH-H3113-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "chapter": {
+    "en": "CHAPTER III"
+   },
+   "text": {
+    "en": "The Food and Drug Administration shall have a Food and Drug Administrator who shall be appointed by the Secretary of Health subject to the Civil Service rules and regulations. The compensation of said official shall be determined by the Secretary of Health."
+   }
+  },
+  {
+   "id": "PH-H3113-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "chapter": {
+    "en": "CHAPTER III"
+   },
+   "text": {
+    "en": "The Secretary of Health shall provide for the additional personnel needed to carry out the functions and duties of the Food and Drug Administration."
+   }
+  },
+  {
+   "id": "PH-H3113-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "chapter": {
+    "en": "CHAPTER III"
+   },
+   "text": {
+    "en": "The powers, functions and duties of the Division of Food and Drug Testing of the Bureau of Research and Laboratories and the Board of Food Inspection, all personnel in the Bureau of Health Services who are engaged in food and drug control work, together with all their equipment, supplies, records, files, personnel and balance of appropriations are transferred to the Food and Drug Administration.\nBoard of Food and Drug Inspection"
+   }
+  },
+  {
+   "id": "PH-H3113-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "chapter": {
+    "en": "CHAPTER IV"
+   },
+   "text": {
+    "en": "The Board of Food Inspection is hereby converted into the Board of Food and Drug Inspection which shall consist of:\n(a) A representative of the Department of Health to be designated by the Secretary of Health, as Chairman;\n(b) A representative of the Department of Agriculture and Natural Resources;\n(c) A representative of the Department of Commerce and Industry;\n(d) An authorized designate of the Commissioner of Customs;\n(e) An authorized representative of the Office of the Solicitor-General;\n(f) A technical member to be designated by the Food and Drug Administrator with the approval of the Secretary of Health.\n(g) The President of the Philippine Medical Association of his authorized representative;\n(h) The President of the Philippine Dental Association or his authorized representative; and\n(i) The President of the Philippine Pharmaceutical Association or his authorized representative.\nEach member of the Board as well as the Board secretary shall receive a per diem of twenty pesos per meeting, hearing or investigation actually attended, but in no case shall the total per diem exceed two hundred pesos each per month.\nIt shall be the duty of the Board, conformably with the rules and regulations, to hold hearings and conduct investigations relative to matters touching the administration of this Act, to investigate processes of food, drug and cosmetic manufacture and to submit reports to the Food and Drug Administrator, recommending food and drug standards for adoption. Said Board shall also perform such additional functions, properly within the scope of the administration hereof, as may be assigned to it by the Food and Drug Administrator. The decisions of the Board shall be advisory to the Food and Drug Administrator.\nDefinitions"
+   }
+  },
+  {
+   "id": "PH-H3113-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "chapter": {
+    "en": "CHAPTER V"
+   },
+   "text": {
+    "en": "For the purposes of this Act, the term:\n(a) \"Board\" means the Board of Food and Drug Inspection.\n(b) \"Secretary\" means the Secretary of Health.\n(c) \"Department\" means the Department of Health.\n(d) \"Person\" includes individual, partnership, corporation and association.\n(e) \"Food\" means (1) articles used for food or drink for man, (2) chewing gum, and (3) articles used for components of any such article.\n(f) \"Drug\" means (1) articles recognized in the official United States Pharmacopoeia, official Homeopathic Pharmacopoeia of the United States, or official National Formulary, or any supplement to any of them; and (2) articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or other animals; and (3) articles (other than food) intended to affect the structure or any function of the body of man or animals; and (4) articles intended for use as a component of any articles specified in clauses (1), (2), or (3), but not include devices or their components, parts, or accessories.\n(g) \"Device\" means instruments, apparatus, or contrivances, including their components, parts, and accessories, intended (1) for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or animals; or (2) to affect the structure or any function of the body of man or animals.\n(h) \"Cosmetic\" means (1) articles intended to be rubbed, poured, sprinkled, or sprayed on, introduced into, or otherwise applied to the human body or any part thereof for cleansing, beautifying, promoting attractiveness, or altering the appearance, and (2) articles intended for use as a component of any such articles.\n(i) \"Label\" means a display of written, printed, or graphic matter upon the immediate container of any article and a requirement made by or under authority of this Act that any word, statement, or other information appearing on the label shall not be considered to be complied with unless such word, statement, or other information also appears on the outside container or wrapper, if any there be, of the retail package of such article, or is easily legible through the outside container or wrapper.\n(j) \"Immediate container\" does not include package liners.\n(k) \"Labeling\" means all labels and other written, printed, or graphic matter (1) upon any article or any of its containers or wrappers, or (2) accompanying such article.\n(l) \"New drugs\" mean:\n(1) any drug the composition of which is such that said drug is not generally recognized, among experts qualified by scientific training and experience to evaluate the safety of drugs, as safe for use under the conditions prescribed, recommended, or suggested in the labeling thereof.\n(2) any drug the composition of which is such that said drug, as a result of investigations to determine its safety for use under such conditions, has become so recognized, but which has not, otherwise than in such investigations, been used to a material extent or for a material time under such conditions.\n(m) If an article is alleged to be misbranded because the labeling is misleading, then in determining whether the labeling is misleading there shall be taken into account (among other things) not only representations made or suggested by statement, word, design, device, or any combination thereof, but also the extent to which the labeling fails to reveal facts material in the light of such representations or material with respect to consequences which may result from the use of the article to which the labeling relates under the conditions of use prescribed in the labeling thereof or under such conditions of use as are customary or usual.\n(n) \"Food additive\" means any substance the intended use of which results or may reasonably be expected to result, directly or indirectly, in its becoming a component or otherwise affecting the characteristics of any food (including any substance intended for use in producing, manufacturing, packing, processing, preparing, treating, packaging, transporting, or holding food; and including any source of radiation intended for any such use), if such substance is not generally recognized, among experts qualified by scientific training and experience to evaluate its safety, as having been adequately shown through scientific procedures to be safe under the conditions of its intended use.\nProhibited Acts and Penalties\nPROHIBITED ACTS"
+   }
+  },
+  {
+   "id": "PH-H3113-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "chapter": {
+    "en": "CHAPTER VI"
+   },
+   "text": {
+    "en": "The following acts and the causing thereof are hereby prohibited: (a) The manufacture, sale, offering for sale or transfer of any food, drug, device or cosmetic that is adulterated or misbranded.\n(b) The adulteration or misbranding of any food, drug, device, or cosmetic.\n(c) The refusal to permit entry or inspection as authorized by Section twenty-seven hereof or to allow samples to be collected.\n(d) The giving of a guaranty or undertaking referred to in Section twelve (b) hereof which guaranty or undertaking is false, except by a person who relied upon a guaranty or undertaking to the same effect signed by, and containing the name and address of, the person residing in the Philippines from whom he received in good faith the food, drug, device, or cosmetic or the giving of a guaranty or undertaking referred to in Section twelve (b) which guaranty or undertaking is false.\n(e) Forging, counterfeiting, simulating, or falsely representing or without proper authority using any mark, stamp, tag label, or other identification device authorized or required by regulations promulgated under the provisions of this Act.\n(f) The using by any person to his own advantage, or revealing, other than to the Secretary or officers or employees of the Department or to the courts when relevant in any judicial proceeding under this Act, any information acquired under authority of Section nine, or concerning any method or process which as a trade secret is entitled to protection.\n(g) The alteration, mutilation, destruction, obliteration, or removal of the whole or any part of the labeling of, or the doing of any other act with respect to, a food, drug, device, or cosmetic, if such act is done while such article is held for sale (whether or not the first sale) and results in such article being adulterated or misbranded.\n(h) The use, on the labeling of any drug or in any advertising relating to such drug, of any representation or suggestion that an application with respect to such drug is effective under Section twenty-one hereof, or that such drug complies with the provisions of such section.\n(i) The use, in labeling, advertising or other sales promotion of any reference to any report or analysis furnished in compliance with Section twenty-six hereof.\nPENALTIES"
+   }
+  },
+  {
+   "id": "PH-H3113-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "chapter": {
+    "en": "CHAPTER VI"
+   },
+   "text": {
+    "en": "(a) Any person who violates any of the provisions of Section eleven hereof shall, upon conviction, be subject to imprisonment of not less than six months and one day, but not more than five years, or a fine of not less than one thousand pesos, or both such imprisonment and fine, in the discretion of the Court.\n(b) No person shall be subject to the penalties of subsection (a) of this section (1) for having sold, offered for sale or transferred any article and delivered it, if such delivery was made in good faith, unless he refuses to furnish on request of the Board of Food and Drug Inspection or an officer or employee duly designated by the Secretary, the name and address of the person from whom he purchased or received such article and copies of all documents, if any there be, pertaining to the delivery of the article to him; (2) for having violated Section eleven (a) if he established a guaranty or undertaking signed by, and containing the name and address of, the person residing in the Philippines from whom he received in good faith the article, or (3) for having violated Section eleven (a), where the violation exists because the article is adulterated by reason of containing a coal-tar color not permissible under regulations promulgated by the Secretary under this Act, if such person establishes a guaranty or undertaking signed by, and containing the name and address, of the manufacturer of the coal-tar color, to the effect that such color is permissible, under applicable regulations promulgated by the Secretary under this Act.\n(c) Any article of food, drug, device, or cosmetic that is adulterated or misbranded when introduced into the domestic commerce may be seized and held in custody pending proceedings pursuant to Section twenty-six (d) hereof, without a hearing or court order, when the Secretary has probable cause to believe from facts found by him or any officer or employee of the Food and Drug Administration that the misbranded article is dangerous to health, or that the labeling of the misbranded articles is fraudulent, or would be in a material respect misleading to the injury or damage of the purchaser or consumer.\nDefinition and Standards for Food"
+   }
+  },
+  {
+   "id": "PH-H3113-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "chapter": {
+    "en": "CHAPTER VII"
+   },
+   "text": {
+    "en": "Whenever in the judgment of the Secretary such action will promote honesty and fair dealing in the interest of consumers, he shall, upon recommendation of the Food and Drug Administrator, promulgate regulations fixing and establishing for any food, under its common or usual name so far as practicable, a reasonable definition and standard of identity, a reasonable standard of quality, and/or reasonable standards of fill of container: Provided , That no definition and standard of identity and no standard of quality shall be established for fresh or dried fruits, fresh or dried vegetables.\nADULTERATED FOOD"
+   }
+  },
+  {
+   "id": "PH-H3113-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "chapter": {
+    "en": "CHAPTER VII"
+   },
+   "text": {
+    "en": "A food shall be deemed to be adulterated: (a) (1) If it bears or contains any poisonous or deleterious substance which may render it injurious to health; but in case the substance is not an added substance such food shall not be considered adulterated under this clause if the quantity of such substance in such food does not ordinarily render it injurious to health;\n(2) if it bears or contains any added poisonous or added deleterious substance other then one which is a pesticide chemical in or a raw agricultural commodity for which tolerances have been established and it conforms to such tolerances;\n(3) if it consists in whole or in part of any filthy, putrid, or decomposed substance, or if it is otherwise unfit for food:\n(4) if it has been prepared, packed, or held under unsanitary conditions whereby it may have become contaminated with filth, or whereby, it may have been rendered injurious to health;\n(5) if it is, in whole or in part, the product of a diseased animal or of an animal which has died otherwise than by slaughter;\n(6) if its container is composed, in whole or in part, of any poisonous or deleterious substance which may render the contents injurious to health.\n(b) (1) If any valuable constituent has been, in whole or in part, omitted or abstracted therefrom and same has not been substituted by any healthful equivalent of such constituent;\n(2) if any substance injurious to health has been added or substituted;\n(3) if damage or inferiority has been concealed in any manner; and\n(4) if any substance has been added thereto or mixed or packed therewith so as to increase its bulk or weight, or reduce its quality or strength, or make it appear better or of greater value than it is.\n(c) If it bears or contains a coal-tar color other than one which is permissible under existing regulations;\n(d) If it is confectionery, and it bears or contains any alcohol or non-nutritive article or substance except harmless coloring, harmless flavoring, harmless resinous glass less coloring, harmless flavoring, harmless resinous glass not in excess of four-tenths of one per centum, natural gum and pectin: Provided , That this paragraph shall not apply to any confectionery by reason of its containing less than one-half of one per centum by volume of alcohol derived solely from the use of flavoring extracts, or to any chewing gum by reason of its containing harmless non-nutritive masticatory substances;\n(e) If it is oleomargarine or margarine or butter and any of the raw material used therein consists in whole or in part of any filthy, putrid or decomposed substance, or such oleomargarine, margarine or butter is otherwise unfit for food.\nMISBRANDED FOOD"
+   }
+  },
+  {
+   "id": "PH-H3113-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "chapter": {
+    "en": "CHAPTER VII"
+   },
+   "text": {
+    "en": "A food shall be deemed to be misbranded:\n(a) If its labeling is false or misleading in any particular;\n(b) If it is offered for sale under the name of another food;\n(c) If it is an imitation of another food, unless its label bears in types of uniform size and prominence, the word \"imitation\" and, immediately thereafter, the name of the food imitated;\n(d) If its container is so made, formed, or filled as to be misleading;\n(e) If in package form unless it bears a label containing (1) the name and place of business of the manufacturer, packer, distributor; and (2) an accurate statement of the quantity of the contents in terms of weight, measure, numerial count: Provided , That under clause (2) of this paragraph reasonable variations shall be permitted, and exemptions as to small packages shall be established, by regulations prescribed by the Secretary.\n(f) If any word, statement, or other information required by or under authority of this Act to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling), and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use.\n(g) If it purports to be or is represented as a food for which a definition and standard of identity has been prescribed unless (1) it conforms to such definition and standard, and (2) its label bears the name of the food specified in the definition and standard, and, insofar as may be required by such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food.\n(h) If it purports to be or is represented as\n(1) A food for which a standard of quality has been prescribed by regulations as provided by Section thirteen, and its quality falls below such standard, unless its label bears, in such manner and form as such regulations specify, a statement that it falls below such standard; or\n(2) a food for which a standard or standards of fill of container have been prescribed by regulations as provided by Section thirteen and it falls below the standard of fill of container applicable thereto, unless its label bears, in such manner and form as such regulations specify, statement that if falls below such standard.\n(i) If it is not subject to the provisions of paragraph (g) of this section unless its label bears (1) the common or usual name of the food, if there be any, and (2) in case it is fabricated from two or more ingredients, the common or usual name of each such ingredient; except that spices, flavorings, and colorings, other than those sold as such, may be designated as spices, flavorings and colorings without naming each: Provided , That to the extent that compliance with the requirements of clause (2) of this paragraph is impracticable or results in deception or unfair competition, exemptions shall be established by regulations promulgated by the Secretary.\n(j) If it purports to be or is represented for special dietary uses, unless its label bears such information concerning its vitamin, mineral and other dietary properties as the Secretary determined to be, and by regulations prescribes as necessary in order fully to inform purchasers as to its value for such uses.\n(k) If it bears or contains any artificial flavoring, artificial coloring, or chemical preservative, unless it bears labeling stating that fact: Provided , That to the extent that compliance with the requirements of this paragraph is impracticable, exemptions shall be established by regulations promulgated by the Secretary. The provisions of this paragraph or paragraphs (g) and (i) with respect to artificial coloring shall not apply in the case of butter, cheese or ice cream.\nEmergency Permit Control"
+   }
+  },
+  {
+   "id": "PH-H3113-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "chapter": {
+    "en": "CHAPTER VII"
+   },
+   "text": {
+    "en": "(a) Whenever the Secretary finds after investigation that the sale or distribution in domestic commerce of any class of food may be injurious to health, and that such injurious nature cannot be adequately determined after such articles have entered domestic commerce, he shall promulgate regulations also in accordance with the recommendations of the Food and Drug Administrator providing for the issuance, to manufacturers, processors, or packers of such class of food in such locality, of permits to which shall be attached such conditions governing the manufacture, processing, or packing of such class of food, for such temporary period of time, as may be necessary to protect the public health; and after the effective date of such regulations, and during such temporary period, no person shall manufacture, sell or offer for sale or transfer any such food manufactured, processed, or packed by any such manufacturer, processor, or packer unless such manufacturer, processor or packer holds a permit issued by the Secretary as provided by such regulations.\n(b) The Secretary is authorized to suspend immediately upon notice any permit issued under authority of this section if it is found that any of the conditions of the permit have been violated.\n(c) Any officer or employee duly designated by the Secretary shall have access to any factory or establishment, the operator of which holds a permit from the Secretary, for the purpose of ascertaining whether or not the conditions of the permit are being complied with, and denial of access for such inspection shall be ground for suspension of the permit until such access is freely given by the operator.\nTolerances for Poisonous Ingredients in Food\nCOAL-TAR COLOR FOR FOOD"
+   }
+  },
+  {
+   "id": "PH-H3113-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "chapter": {
+    "en": "CHAPTER VII"
+   },
+   "text": {
+    "en": "(a) Any poisonous or deleterious substance added to any food, shall be deemed to be unsafe except when such substance is required or cannot be avoided in its production or manufacture. In such case the Secretary shall promulgate, upon recommendation of the Food and Drug Administrator, regulations limiting the quantity therein to such extent as he finds necessary for the protection of public health, and any quantity exceeding the limits so fixed shall also be deemed to be unsafe. In determining the quantity of such added substance to be tolerated in different articles of food the Secretary shall take into account the extent to which the use of such article is required or cannot be avoided in the production or manufacture of such article and the other ways in which the consumer may be affected by the same or other poisonous or deleterious substances.\n(b) The Secretary shall, upon recommendation of the Food and Drug Administrator, promulgate regulations providing for the listing of coal-tar colors which are harmless and suitable for use in food.\nDrug and Devices\nADULTERATED DRUGS AND DEVICES"
+   }
+  },
+  {
+   "id": "PH-H3113-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "chapter": {
+    "en": "CHAPTER VIII"
+   },
+   "text": {
+    "en": "A drug or device shall be deemed to be adulterated: (a) (1) If it consists in whole or in part of any filthy, putrid, decomposed substance; or (2) if it has been prepared, packed, or held under insanitary conditions contaminated with filth or whereby it may have been rendered injurious to health; or (3) if it is a drug and its container is composed, in whole or in part, of any poisonous or deleterious substance which may render the contents injurious to health; or (4) if it is a drug and it bears or contains, for purposes of coloring only, a coal-tar color other than a permissible one.\n(b) If it purports to be or is represented as a drug the name of which is recognized in an official compendium, and its strength differs from, or its quality or purity falls below, the standard set forth in such compendium, except that whenever tests or methods of assay as are prescribed are, in the judgment of the Secretary, insufficient for the making of such determination the Secretary, shall promulgate, upon recommendation of the Food and Drug Administrator, regulations prescribing appropriate tests or methods of assay in accordance with which such determination as to strength, quality or purity shall be made. No drug defined in an official compendium shall be deemed to be adulterated under this paragraph because it differs from the standard of strength, quality or purity in strength, quality, or purity from such standards is plainly stated on its label.\n(c) If it is not subject to the provisions of paragraph (b) of this section and its strength differs from, or its purity of quality falls below, that which it purports or its represented to possess.\n(d) If it is a drug and any substance has been (1) mixed or packed therewith so as to reduce its quality or strength or (2) substituted wholly or in part therefor.\nMISBRANDED DRUGS AND DEVICES"
+   }
+  },
+  {
+   "id": "PH-H3113-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "chapter": {
+    "en": "CHAPTER VIII"
+   },
+   "text": {
+    "en": "A drug or device shall be deemed to be misbranded: (a) If its labeling is false or misleading in any particular.\n(b) If in a package form unless it bears a label containing (1) the name and place of business of the manufacturer, packer, or distributor; (2) an accurate statement of the quantity of the contents in terms of weight, measure, or numerical count: Provided , That reasonable variations shall be permitted and exemptions as to small packages shall be established by regulations prescribed by the Secretary.\n(c) If any word, statement, or other information required by or under authority of this Act to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use.\n(d) If it is for use by man and contains any quantity of the narcotic or hypnotic substance alpha-eucaine, barbituric acid, beta-eucaine, bromal, cannabis, cabromal, chloral, coca, cocaine, codeine, heroin, marihuana, morphine, opium, paraldehyde, peyote, or sulfonmethane; or any chemical derivative of such substance, which derivative has been recommended by the Secretary, after investigation, and by regulations, designated as, habit forming; unless its label bears the name, and quantity or proportion of such substance or derivative and in juxtaposition therewith the statement \"Warning May be habit forming.\"\n(e) If it is a drug and is not designated solely by a name recognized in an official compendium unless its label bears (1) the common or usual name of the drug, if such there be; and (2) in case it is fabricated from two or more ingredients, the common or usual name of each active ingredient, including the quantity, kind, and proportion of any alcohol, and also including whether active or not, the name and quantity of proportion of any bromides, ether, chloroform, acetanilid, acetophenetidin, amidopyrine, antipyrine, atropine, hyoscine, hyoscyamine, arsenic, digitalis, digitalis glucosides mercury, ouabain, strophantin, strychnine, thyroid, or any derivative or preparation of any such substances, contained therein: Provided , That where compliance with this paragraph in impracticable, exemptions shall, upon recommendation of the Food and Drug Administrator, be established by regulations promulgated by the Secretary.\n(f) Unless its labeling bears (1) adequate directions for use; and (2) such adequate warnings against use in those pathological conditions or by children where its use may be dangerous to health, or against unsafe dosage or methods or duration of administration or application, in such manner and form, as necessary for the protection of users: Provided , That where any requirement of clause (1) of this paragraph, as applied to any drug or device, is not necessary for the protection of the public health, the Secretary shall, upon recommendation of the Food and Drug Administrator, promulgate regulations exempting such drug or device from such requirement.\n(g) If it purports to be a drug the name of which is recognized in an official compendium, unless it is packaged and labeled as prescribed therein: Provided , That the method of packing may be modified with the consent of the Secretary.\n(h) If it has been found by the Secretary to be a drug liable to determination, unless it is packaged in such form and manner, and its label bears a statement of such precautions, as the Secretary shall by regulations require as necessary for the protection of the public health.\n(i) (1) If it is a drug and its container is so made, formed, or filled as to be misleading; or\n(2) if it is an imitation of another drug; or\n(3) if it is offered for sale under the name of another drug.\n(j) If it is dangerous to health when used in the dosage, or with the frequency of duration prescribed, recommended or suggested in the labeling thereof.\n(k) If it is, or purports to be, or is represented as a drug composed wholly or partly of any kind of penicillin, streptomycin, chlortetracycline, chloramphenicol, bacitracin, or any other anti-biotic drug, or any derivative thereof, unless (1) it is from a batch with respect to which a certificate of release has been issued pursuant to Section twenty-two (a), and (2) such certificate of release is in effect with respect to such drug: Provided , That this paragraph shall not apply to any drug or class of drugs exempted by regulations promulgated under Section twenty-one (a), (b) and (c).\nEXEMPTION IN CASE OF DRUGS AND DEVICES"
+   }
+  },
+  {
+   "id": "PH-H3113-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "chapter": {
+    "en": "CHAPTER VIII"
+   },
+   "text": {
+    "en": "(a) The Secretary is hereby directed to promulgate regulations exempting from any labeling or packaging requirement of this Act drugs and devices which are, in accordance with the practice of the trade, to be processed, labeled, or repacked in substantial quantities at establishments other than those where originally processed or packed, on condition that such drugs and devices are not adulterated or misbranded, under the provisions of this Act upon removal from such processing, labeling, or repacking establishment.\n(b) (1) Drugs intended for use by man which:\n(A) are habit-forming\n(B) because of its toxicity or other potentiality for harmful effect, or the method of its use is not safe for use except under the supervision of a practitioner licensed by law to administer such drug;\n(C) are new drugs whose application are limited to investigational use shall be dispensed only (1) upon a written prescription of a practitioner licensed by law to administer such drug, or (2) upon an oral prescription of such practitioner which is reduced promptly to writing and filed by the pharmacist, or (3) by refilling any such written or oral prescription if such refilling is authorized by the prescriber either in the original prescription or by oral order which is reduced promptly to writing and filed by the pharmacist. The act of dispensing a drug contrary to the provisions of this paragraph shall be deemed to be an act which results in the drug being misbranded while held for sale.\n(2) Any drug dispensed by filling or refilling a written prescription of a practitioner licensed by law to administer such drug shall be exempt from the requirements of Section nineteen, except paragraphs (a), (1), (2) and (3), and the packaging requirements of paragraphs (g) and (h), if the drug bears a label containing the name and address of the dispenser, the serial number and date of the prescription or of its filling, the name of prescriber, and, if stated in the prescription the name of the patient, and the directions of use and cautionary statements, if any, contained in such prescription.\n(3) The Secretary may by regulation remove drugs subject to Section nineteen (d) and Section twenty-one from the requirements of Subsection (b) (1) of this Section, when such requirements are not necessary for the protection of the public health.\n(4) A drug which is subject to subsection (b) (1) of this section shall be deemed to be misbranded if at any time prior to dispensing, its label fails to bear the statement \"Caution: Food, Drug and Cosmetics Law prohibits dispensing without prescription.\" A drug to which subsection (b) (1) of this Section does not apply shall be deemed to be misbranded if at any time prior to dispensing, its label bears the caution statement quoted in the preceding sentence.\nNEW DRUGS"
+   }
+  },
+  {
+   "id": "PH-H3113-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "chapter": {
+    "en": "CHAPTER VIII"
+   },
+   "text": {
+    "en": "(a) No person shall manufacture, sell, offer for the sale or transfer any new drug, unless an application filed pursuant to subsection (b) is effective with respect to such drug.\n(b) Any person may file with the Secretary, thru the Food and Drug Administration, an application with respect to any drug subject to the provisions of subsection (a). Such persons shall permit to the Secretary thru the Food and Drug Administration as a part of the application (1) full reports of investigations which have been made to show whether or not such drug is safe for use; (2) a full list of the articles used as components of such drug; (3) a full statement of the composition of such drug; (4) a full description of the methods used in and the facilities and controls used for the manufacture, processing, and packing of such drug; (5) such samples of such drug and of the articles used as components hereof as the Secretary may require; and (6) specimens of the labeling proposed to be used for such drug.\n(c) Within one hundred and eighty days after the filing of an application under this subsection, or such additional period as may be agreed upon by the Secretary and the applicant, the Secretary shall either (1) approve the application if he then finds that none of the grounds for denying approval specified in subsection (d) applies, or (2) give the applicant notice of an opportunity for a hearing before the Secretary under subsection (d) on the question whether such application is approvable.\n(d) If the Secretary finds, after due notice to the applicant and giving him an opportunity for a hearing, that (1) the investigation, reports of which are required to be submitted to the Secretary pursuant to subsection (b), do not include adequate tests by all methods reasonably applicable to show whether or not such drug is safe for use under the conditions prescribed, recommended, or suggested in the proposed labeling thereof; (2) the results of such tests show that such drug is unsafe for use under such conditions or do not show that such drug is safe for use under such conditions; (3) the methods used in, and the facilities and controls used for the manufacture, processing, and packing of such drug are inadequate to preserve its identity, strength, quality, and purity; or (4) upon the basis of the information submitted to him as part of the application, or upon the basis of any other information before him with respect to such drug, he has insufficient information to determine whether such drug is safe for use under such conditions; or (5) evaluated on the basis of the information submitted to him as part of the application, and any other information before him with respect to such drug, there is a lack of substantial evidence that the drug will have the effect it purports or is represented to have under the conditions of use prescribed, recommended, or suggested in the proposed labeling thereof; or (6) based on a fair evaluation of all material facts, such labeling is false or misleading in any particular; he shall issue an order refusing to approve the application.\n(e) The effectiveness of an application with respect to any drug shall, after due notice and opportunity for hearing to the applicant, by order of the Secretary be suspended if the Secretary finds (1) that clinical experience, tests by new methods, or tests by methods not deemed reasonably applicable when such application became effective show that such drug is unsafe for use under the conditions of use upon the basis of which the application became effective, or (2) that the application contains any untrue statement of a material fact. The order shall state the findings upon which it is based.\n(f) An order refusing to permit an application with respect to any drug to become effective shall be revoked whenever the Secretary finds that the facts so require.\n(g) The Secretary shall promulgate regulations for exempting from the operation of this section drugs intended solely for investigational use by experts qualified by scientific training and experience to investigate the safety and effectiveness of drugs.\nCertification of Drugs containing Penicillin, Streptomycin, Chlortetracycline, Chloramphenicol or Bacitracin."
+   }
+  },
+  {
+   "id": "PH-H3113-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "chapter": {
+    "en": "CHAPTER IX"
+   },
+   "text": {
+    "en": "(a) The Secretary, pursuant to regulations promulgated by him shall provide for the certification of batches of drugs composed wholly or partly of any kind of penicillin, streptomycin, chlortetracycline, chloramphenicol, bacitracin, or any anti-biotic drug, or any derivative thereof. A batch of such drug shall be certified if such drug has such characteristics of identity, strength, quality and purity, as the Secretary prescribes in such regulations as necessary to adequately insure safety and efficacy of use, but shall not otherwise be certified. Prior to the effective date of such regulations the Secretary, in lieu of certification, shall issue a release for any batch which, in his judgment, may be released without risk as to the safety and efficacy of its use. Such release shall prescribe the date of its expiration and other conditions under which it shall cease to be effective as to such batch and as to portions thereof. For purposes of this section and of Section nineteen (k), the term \"anti-biotic drug\" means any drug intended for use by man containing any quantity of any chemical substance which is produced by micro-organism and which has the capacity to inhibit or destroy micro-organism in dilute solution (including the chemically synthesized equivalent of any such substance).\n(b) Whenever in the judgment of the Secretary, the requirements of this section and of Section nineteen (k) with respect to any drug or class of drugs are not necessary to insure safety and efficacy of use, the Secretary shall promulgate regulations exempting such drug or class of drugs from such requirements.\n(c) The Secretary shall promulgate regulations exempting from the requirement of this section and of Section nineteen (k), (1) drugs which are to be stored, processed labeled, or repacked at establishments other than those where manufactured, on condition that such drugs comply with all such requirements upon removal from such establishments; (2) drugs which conform to applicable standards of identity, strength, quality, and purity prescribed by these regulations and are intended for use in manufacturing other drugs; and (3) drugs which are intended for investigational use by experts qualified by scientific training and experience to investigate the safety and efficacy of drugs.\nCosmetics\nADULTERATED COSMETICS"
+   }
+  },
+  {
+   "id": "PH-H3113-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "chapter": {
+    "en": "CHAPTER X"
+   },
+   "text": {
+    "en": "A cosmetic shall be deemed to be adulterated: (a) If it bears or contains any poisonous or deleterious substances which may render it injurious to users under the conditions of use prescribed in the labeling thereof, or under the conditions of use as are customary or usual: Provided , That this provision shall not apply to coal-tar hair dye, the label of which bears the following legend conspicuous displayed thereon: \"Caution: This product contains ingredients which may cause skin irritation on certain individuals and a preliminary test according to accompanying directions should first be made. This product must not be used for dyeing the eyelashes or eyebrows; to do so may cause blindness\", and the labeling of which bears adequate directions for such preliminary testing. For the purposes of this paragraph and paragraph (e) the term \"hair dye\" shall not include eyelash dyes or eyebrow dyes.\n(b) If it consists in whole or in part of any filthy, putrid, or decomposed substance.\n(c) If it has been prepared, packed, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health.\n(d) If its container is composed, in whole or in part, of any poisonous or deleterious substance which may render the contents injurious to health.\n(e) If it is not a hair dye and it bears or contains a coal-tar color other than one which is permissible.\nMISBRANDED COSMETIC"
+   }
+  },
+  {
+   "id": "PH-H3113-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "chapter": {
+    "en": "CHAPTER X"
+   },
+   "text": {
+    "en": "A cosmetic shall be deemed to be misbranded:\n(a) If its labeling is false or misleading in any particular.\n(b) If in package form unless it bears a label containing (1) the name and place of business of the manufacturer, packer, or distributor; and (2) an accurate statement of the quantity of the contents in terms of weight, measure, of numerical count: Provided , That under reasonable variations shall be permitted and exemptions as to small packages shall be established by regulations prescribed by the Secretary.\n(c) If any word, statement, or other information required by or under authority of this Act, to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use.\n(d) If its container is so made, formed, or filled as to be misleading.\nREGULATIONS MAKING EXEMPTIONS"
+   }
+  },
+  {
+   "id": "PH-H3113-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "chapter": {
+    "en": "CHAPTER X"
+   },
+   "text": {
+    "en": "The Secretary shall promulgate regulations exempting from any labeling requirements of this Act cosmetic which are, in accordance with the practice of the trade, to be processed, labeled, or repacked in substantial quantities at establishments other than those where originally processed or packed, on condition that such cosmetics are not adulterated or misbranded under the provisions of this Act upon removal from such processing, labeling, repacking establishment.\nGeneral Administration Provisions, Regulations, Hearings and Institution of Criminal Action"
+   }
+  },
+  {
+   "id": "PH-H3113-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "chapter": {
+    "en": "CHAPTER XI"
+   },
+   "text": {
+    "en": "(a) Except as otherwise provided in this section, the Secretary of Health shall, upon recommendation of the Food and Drug Administrator, issue rules and regulations as may be necessary to enforce effectively the provisions of this Act.\n(b) The Commissioner of Customs, the Commissioner of Internal Revenue and the Secretary of Health shall jointly prescribe regulations for the efficient enforcement of the provisions of Section thirty, except as otherwise provided therein. Such regulations shall be promulgated upon the recommendation of the Food and Drug Administrator and shall take effect at such time, after due notice, as the Secretary of Health shall determine.\n(c) Hearings authorized or required by this Act shall be conducted by the Board of Food and Drug Inspection which shall submit its recommendation to the Food and Drug Administrator.\n(d) When it appears to the Food and Drug Administrator from the report of the Food and Drug Laboratory that any article of food or any drug, or cosmetic secured pursuant to Section twenty-eight of this Act is adulterated or misbranded, he shall cause notice thereof to be given to the person or persons concerned and such person or persons shall be given an opportunity to be heard before the Board of Food and Drug Inspection and to submit evidence impeaching the correctness of the finding or charge in question.\n(e) When a violation of any provisions of this Act comes to the knowledge of the Food and Drug Administrator of such character that a criminal prosecution ought to be instituted against the offender, he shall certify the facts to the Secretary of Justice through the Secretary of Health, together with the chemist's report, the findings of the Board of Food and Drug Inspection, or other documentary evidence on which the charge is based.\n(f) Nothing in this Act shall be construed as requiring the Food and Drug Administrator to certify for prosecution pursuant to sub-paragraph (e) hereof, minor violations of this Act whenever he believes that public interest will be adequately served by a suitable written notice or warning.\nFACTORY INSPECTION"
+   }
+  },
+  {
+   "id": "PH-H3113-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "chapter": {
+    "en": "CHAPTER XI"
+   },
+   "text": {
+    "en": "(a) For purposes of enforcement of this Act, officers or employees duly designated by the Secretary, upon presenting appropriate credentials to the owner, operator, or agent in charge, are authorized (1) to enter, at reasonable hours, any factory, warehouse, or establishment in which food, drugs, devices or cosmetics are manufactured, processed, packed or held, for introduction into domestic commerce or are held after such introduction, or to enter any vehicle being used to transport or hold such food, drugs, devices, or cosmetics, in domestic commerce; and (2) to inspect, in a reasonable manner, such factory, warehouse, establishment, or vehicle and all pertinent equipment, finished and unfinished materials, containers, and labeling therein."
+   }
+  },
+  {
+   "id": "PH-H3113-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "chapter": {
+    "en": "CHAPTER XI"
+   },
+   "text": {
+    "en": "(a) If the officer or employee making any such inspection of a factory, warehouse or other establishment has obtained any sample in the course of the inspection, upon completion of the inspection and prior to leaving the premises he shall give to the owner, operator, or agent in charge a receipt describing the samples obtained.\n(b) Whenever in the course of any such inspection of a factory or other establishment where food is manufactured, processed, or packed, the officer or employee making the inspection obtains a sample of any such food, and an analysis is made of such sample for the purpose of ascertaining whether such food consists in whole or in part of any filthy, putrid or decomposed substance, or is otherwise unfit for food, a copy of the results of such analysis shall be furnished promptly to the owner, operator, or agent in charge.\nPUBLICITY"
+   }
+  },
+  {
+   "id": "PH-H3113-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "chapter": {
+    "en": "CHAPTER XI"
+   },
+   "text": {
+    "en": "(a) The Secretary may cause to be disseminated information regarding food, drugs, devices, or cosmetics in situations involving, in the opinion of the Secretary, imminent danger to health, or gross deception of the consumer. Nothing in this Section shall be construed to prohibit the Secretary from collecting, reporting, and illustrating the results of the investigations of the Department.\nImports and Exports"
+   }
+  },
+  {
+   "id": "PH-H3113-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "chapter": {
+    "en": "CHAPTER XII"
+   },
+   "text": {
+    "en": "(a) The Commissioner of Customs shall cause to be delivered to the Food and Drug Administration samples taken at random from every incoming shipment of food, drugs, devices, and cosmetics which are being imported or offered for import into the Philippines giving notice thereof to the owner or consignee. The quantity of such samples shall be fixed by regulation issued by the Secretary. If it appears from the examination of such samples or otherwise that (1) such article has been manufactured, processed, or packed under insanitary conditions, or (2) such article is forbidden or restricted from sale in the country in which it was produced or from which it was produced or from which it was exported, or (3) such article is adulterated, misbranded, or in violation of Section twenty-one, then the Food and Drug Administrator shall so inform the Commissioner of Customs and such article shall be refused admission, except as provided in subsection (b) of this section. The Commissioner of Customs shall then cause the destruction of any such article refused admission unless such article is exported, under regulations prescribed by the Commissioner of Customs, within ninety days of the date of notice of such refusal or within such additional time as may be permitted pursuant to such regulations. If the food, drugs, devices, and cosmetics being imported or offered for import into the Philippines arrives at a port of entry other than Manila, the collection of such samples shall be the responsibility of the Regional Health Director having jurisdiction over the port of entry and such samples shall be forwarded to the Food and Drug Administration.\n(b) Pending decision as to the admission of an article being imported or offered for import, the Commissioner of Customs may authorize delivery of such article to the owner or consignee upon execution by him of a good and sufficient bond providing for the payment of such liquidated damages in the event of default as may be required pursuant to regulations of the Commissioner of Customs. If it appears to the Secretary that an article included within the provisions of clause (3) of subsection (a) of this section can, by relabeling or other action, be brought into compliance with the Act or rendered other than a food, drug, device, or cosmetic, final determination as to admission of such article may be deferred, and upon filing to timely written application by the owner or consignee, and the execution by him of a bond as provided in the preceding provisions of this subsection, the Secretary may, in accordance with regulations, authorize the applicant to perform such relabeling or other actions specified in such authorization with regulations (including destruction or export of rejected articles or portions thereof, as may be specified in the Secretary's authorization). All such relabeling or other action pursuant to such authorization shall be in accordance with regulations and be under the supervision of an office or employee of the Bureau of Customs designated by the Commissioner of Customs and a duly authorized representative of the Food and Drug Administrator.\n(c) All expenses (including travel, per diem or subsistence, and salaries) of officers or employees of the Philippines in connection with the destruction provided for in subsection (a) of this section and the supervision of the relabeling or other action authorized under the provisions of subsection (b) of this section, the amount of such expenses to be determined in accordance with regulations, and all expenses in connection with the storage, cargo, or labor with respect to any article refused admission under subsection (a) of this section, shall be paid by the owner or consignee, and in default of such payment, shall constitute a lien against any future importations made by such owner or consignee.\n(d) A food, drug, device, or cosmetic intended for export shall not be deemed to be adulterated or misbranded under this Act if it (1) conforms with the specifications of the foreign purchaser, (2) is not conflict with laws of the country to which it is intended for export, and (3) is labelled on the outside of the shipping package to show that it is intended for export. But if such article is sold or offered for sale in domestic commerce, this subsection shall not exempt it from any of the provisions of this Act.\nFinancing"
+   }
+  },
+  {
+   "id": "PH-H3113-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31."
+   },
+   "chapter": {
+    "en": "CHAPTER XIII"
+   },
+   "text": {
+    "en": "The amount of one million pesos is hereby appropriated from any funds in the National Treasury not otherwise appropriated to augment the funds transferred to this Office under Section eight for the implementation of this Act. All income derived from fees authorized in Section Four of this Act shall accrue to the General Fund.\nRepealing Clause and Effectivity"
+   }
+  },
+  {
+   "id": "PH-H3113-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32."
+   },
+   "chapter": {
+    "en": "CHAPTER XIV"
+   },
+   "text": {
+    "en": "If any provision of this Act or the application of such provision to any person or circumstance is held invalid, the remainder of this Act or the application of such provision to other persons of circumstances should not be affected thereby."
+   }
+  },
+  {
+   "id": "PH-H3113-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33."
+   },
+   "chapter": {
+    "en": "CHAPTER XIV"
+   },
+   "text": {
+    "en": "Section eleven hundred and nine to Section eleven hundred twenty-nine of the Administrative Code, and such other laws, executive orders, rules and regulations inconsistent with the provisions of this Act are repealed."
+   }
+  },
+  {
+   "id": "PH-H3113-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34."
+   },
+   "chapter": {
+    "en": "CHAPTER XIV"
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
+   }
+  }
+ ]
+}

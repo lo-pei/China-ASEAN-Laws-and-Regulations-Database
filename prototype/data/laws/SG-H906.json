@@ -1,0 +1,52 @@
+{
+ "id": "SG-H906",
+ "title": {
+  "zh": null,
+  "en": "Creation of PSA Corporation Auxiliary Police Force",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p12",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation PFA1958-S459-1997",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 401,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/PFA1958-S459-1997?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 1 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H906-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Police Force Act\n(CHAPTER 235)\nCreation of PSA Corporation Auxiliary Police Force\nIt is hereby notified for general information that, in exercise of the powers conferred by section 71(1) of the Police Force Act, the Commissioner of Police, with the approval of the Minister for Home Affairs, has authorised the creation of the PSA Corporation Auxiliary Police Force, with effect from 1st October 1997."
+   }
+  }
+ ]
+}

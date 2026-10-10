@@ -1,0 +1,81 @@
+{
+ "id": "SG-H1701",
+ "title": {
+  "zh": null,
+  "en": "Health Products (Supply of Medical Devices — Exemption) Order 2022",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p21",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation HPA2007-S688-2022",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 541,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/HPA2007-S688-2022?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1701-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. This Order is the Health Products (Supply of Medical Devices — Exemption) Order 2022 and comes into operation on 1 September 2022."
+   }
+  },
+  {
+   "id": "SG-H1701-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Exemption in relation to supply by retail"
+   },
+   "text": {
+    "en": "2. Section 15(1) of the Act does not apply to the supply by retail by a person of any of the following medical devices imported before 1 September 2022:\n(a)a particulate respirator;\n(b)any protective gear;\n(c)a surgical mask;\n(d)a thermometer for measuring human body temperature."
+   }
+  },
+  {
+   "id": "SG-H1701-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Revocation"
+   },
+   "text": {
+    "en": "3. The Health Products (Import, Wholesale and Supply of Medical Devices — Exemption) Order 2020 (G.N. No. S 78/2020) is revoked."
+   }
+  }
+ ]
+}

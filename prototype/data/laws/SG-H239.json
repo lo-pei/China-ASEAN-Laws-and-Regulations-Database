@@ -1,0 +1,133 @@
+{
+ "id": "SG-H239",
+ "title": {
+  "zh": null,
+  "en": "Apportionment Act 1928",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p03",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act AA1928",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 7,
+ "chars": 3016,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/AA1928?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 7 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H239-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Apportionment Act 1928."
+   }
+  },
+  {
+   "id": "SG-H239-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act —\n“annuities” includes salaries and pensions;\n“dividends” includes (besides dividends strictly so called) all payments made by the name of dividend, bonus or otherwise out of the revenue of trading or other public companies, divisible between all or any of the members of the respective companies, whether the payments are usually made or declared at any fixed times or otherwise; and all that divisible revenue shall, for the purposes of this Act, be deemed to have accrued by equal daily increment during and within the period for or in respect of which the payment of the same revenue is declared or expressed to be made, but does not include payments in the nature of a return or reimbursement of capital;\n“rents” includes all periodical payments or renderings in lieu of or in the nature of rent."
+   }
+  },
+  {
+   "id": "SG-H239-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Rents, etc., to accrue from day to day"
+   },
+   "text": {
+    "en": "3. All rents, annuities, dividends and other periodical payments in the nature of income (whether reserved or made payable under an instrument in writing or otherwise) shall, like interest on money lent, be considered as accruing from day to day, and shall be apportionable in respect of time accordingly."
+   }
+  },
+  {
+   "id": "SG-H239-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Apportioned part of rent, etc., to be payable when next entire portion due"
+   },
+   "text": {
+    "en": "4. The apportioned part of any such rent, annuity, dividend or other payment shall be payable or recoverable —\n(a)in the case of a continuing rent, annuity, or other such payment, when the entire portion of which such apportioned part forms part becomes due and payable, and not before; and\n(b)in the case of a rent, annuity, or other such payment determined by re-entry, death, or otherwise, when the next entire portion of the same would have been payable if the same had not so determined, and not before."
+   }
+  },
+  {
+   "id": "SG-H239-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Remedies for recovering apportioned parts"
+   },
+   "text": {
+    "en": "5.—(1) All persons and their respective executors, administrators and assigns, and also the executors, administrators and assigns respectively of persons whose interests determine with their own deaths, shall have such or the same remedies for recovering such apportioned parts as aforesaid when payable (allowing proportionate parts of all just allowances) as they respectively would have had for recovering the entire portions as aforesaid if entitled thereto, respectively.\n(2) Persons liable to pay rents reserved out of or charged on lands or tenements, and the same lands or tenements, shall not be resorted to for any such apportioned part forming part of an entire or continuing rent as aforesaid specifically, but the entire or continuing rent, including such apportioned part, shall be recovered and received by the person who, if the rent had not been apportionable under this Act or otherwise, would have been entitled to the entire or continuing rent, and the apportioned part shall be recoverable from such person by the executors or other parties entitled under this Act to the same by suit."
+   }
+  },
+  {
+   "id": "SG-H239-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Exclusion of policies of assurance"
+   },
+   "text": {
+    "en": "6. Nothing in this Act shall render apportionable any annual sums made payable in policies of assurance of any description."
+   }
+  },
+  {
+   "id": "SG-H239-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Exclusion by express stipulation"
+   },
+   "text": {
+    "en": "7. This Act shall not extend to any case in which it is expressly stipulated that no apportionment shall take place."
+   }
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "id": "PH-H1269",
+ "title": {
+  "zh": null,
+  "en": "An Act to Provide Means for Increasing the Highway Special Fund",
+  "orig": "An Act to Provide Means for Increasing the Highway Special Fund"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p17",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1956-06-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1435",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 4964,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1956/ra_1435_1956.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 6 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1956/ra_1435_1956.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1269-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section one hundred and forty-two of the National Internal Revenue Code, as amended, is further amended to read as follows:\n\"Sec. 142. Specific Tax on manufactured oils and other fuels.— On refined and manufactured mineral oils and motor fuels, there shall be collected the following taxes:\n\"(a) Kerosene or petroleum, per liter of volume capacity, two and one-half centavos;\n\"(b) Lubricating oils, per liter of volume capacity, seven centavos;\n\"(c) Naptha, gasoline, and all other similar products of distillation, per liter of volume capacity, eight centavos; and \"(d) On denatured alcohol to be used for motive power, per liter of volume capacity, one centavo: Provided, That if the denatured alcohol is mixed with gasoline, the specific tax on which has already been paid, only the alcohol content shall be subject to the tax herein prescribed. For the purpose of this subsection, the removal of denatured alcohol of not less than one hundred eighty degrees proof (ninety per centum absolute alcohol) shall be deemed to have been removed for motive power, unless shown to the contrary.\n\"Whenever any of the oils mentioned above are, during the five years from June eighteen, nineteen hundred and fifty-two, used in agriculture and aviation, fifty per centum of the specific tax paid thereon shall be refunded by the Collector of Internal Revenue upon the submission of the following:\n\"(1) A sworn affidavit of the producer and two disinterested persons proving that the said oils were actually used in agriculture, or in lieu thereof.\n\"(2) Should the producer belong to any producers’ association or federation, duly registered with the Securities and Exchange Commission, the affidavit of the president of the association or federation, attesting to the fact that the oils were actually used in agriculture.\n\"(3) In the case of aviation oils, a sworn certificate satisfactory to the Collector proving that the said oils were actually used in aviation: Provided, That no such refunds shall be granted in respect to the oils used in aviation by citizens and corporations of foreign countries which do not grant equivalent refunds or exemptions in respect to similar oils used in aviation by citizens and corporations of the Philippines.\""
+   }
+  },
+  {
+   "id": "PH-H1269-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section one hundred and forty-five of the National Internal Revenue Code, as amended, is further amended to read as follows:\n\"Sec. 145. Specific Tax on Diesel fuel oil. — On fuel oil commercially known as diesel fuel oil, and on all similar fuel oils, having more or less the same generating power, there shall be collected, per metric ton, one peso.\""
+   }
+  },
+  {
+   "id": "PH-H1269-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The proceeds of the increased taxes accruing to the Highway Special Fund, as a result of the amendment of sections one hundred and forty-two and one hundred and forty-five of the National Internal Revenue Code as above provided, shall be set aside exclusively for amortizing loans or bonds that may have been authorized for the construction, reconstruction or improvement of highways including bridges as well as for liquidating toll bridges constructed from revolving funds authorized under Act Numbered Thirty-five hundred, as amended, whenever such liquidation is recommended by the Secretary of Public Works and Communications and approved by the President."
+   }
+  },
+  {
+   "id": "PH-H1269-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Municipal boards or councils may, notwithstanding the provisions of sections one hundred and forty-two and one hundred and forty-five of the National Internal Revenue Code, as hereinabove amended, levy an additional tax of not exceeding twenty-five per cent of the rates fixed in said sections, on manufactured oils sold or distributed within the limits of the city or municipality: Provided, That municipal taxes heretofore levied by cities through city ordinances on gasoline, airplane fuel, lubricating oil and other fuels, are hereby ratified and declared valid. The method of collecting said additional tax shall be prescribed by the municipal board or council concerned."
+   }
+  },
+  {
+   "id": "PH-H1269-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "The proceeds of the additional tax on manufactured oils shall accrue to the road and bridge funds of the political subdivision for whose benefit the tax is collected: Provided, However, That whenever any oils mentioned above are used by miners or forest concessionaires in their operations, twenty-five per centum of the specific tax paid thereon shall be refunded by the Collector of Internal Revenue upon submission of proof of actual use of oils and under similar conditions enumerated in subparagraphs one and two of section one hereof, amending section one hundred forty-two of the Internal Revenue Code: Provided, further, That no new road shall be constructed unless the routes or location thereof shall have been approved by the Commissioner of Public Highways after a determination that such road can be made part of an integral and articulated route in the Philippine Highway System, as required in section twenty-six of the Philippine Highway Act of 1953."
+   }
+  },
+  {
+   "id": "PH-H1269-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1956."
+   }
+  }
+ ]
+}

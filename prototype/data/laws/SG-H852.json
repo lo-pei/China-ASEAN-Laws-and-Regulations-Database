@@ -1,0 +1,107 @@
+{
+ "id": "SG-H852",
+ "title": {
+  "zh": null,
+  "en": "Copyright (Royalties for Musical Records) Regulations 2021",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p11",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CA2021-RG1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 3714,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CA2021-RG1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 5 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H852-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations are the Copyright (Royalties for Musical Records) Regulations 2021."
+   }
+  },
+  {
+   "id": "SG-H852-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "What is retail selling price of record"
+   },
+   "text": {
+    "en": "2.—(1) For the purposes of these Regulations, the retail selling price of a record is —\n(a)the price that is marked by the manufacturer of the record, on the label of the record, as the price at which the record is to be sold to the public;\n(b)if sub‑paragraph (a) does not apply, the price specified in an appropriate price list issued by the manufacturer of the record as the price at which the record is to be sold to the public; or\n(c)if sub‑paragraphs (a) and (b) do not apply, the highest price at which other identical records have been ordinarily sold to the public in Singapore.\n(2) For the purposes of paragraph (1) —\n(a)a reference to the label of a record includes a reference to the label on the container of the record; and\n(b)2 or more records are identical if they embody the same sound recording and bear an identical label."
+   }
+  },
+  {
+   "id": "SG-H852-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Royalty payable for sole musical work included in record"
+   },
+   "text": {
+    "en": "3.—(1) This regulation prescribes the amount of royalty payable under section 260(1)(f) of the Act in respect of a musical work that is the sole musical work included in a record.\n(2) Subject to any apportionment under regulation 5(3), the amount payable in respect of the musical work is the higher of the following amounts:\n(a)one cent;\n(b)the amount obtained by performing the following steps:\n(i)find out the retail selling price of the record;\n(ii)calculate what is 5% of that price.\n(3) If the amount obtained under paragraph (2)(b) includes a fraction of a cent —\n(a)any fraction of a cent that is less than half a cent is to be treated as half a cent; and\n(b)any fraction of a cent that is more than half a cent is to be treated as a whole cent."
+   }
+  },
+  {
+   "id": "SG-H852-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Royalty payable for musical work included in record with other musical works"
+   },
+   "text": {
+    "en": "4.—(1) This regulation prescribes the amount of royalty payable under section 260(1)(f) of the Act in respect of a musical work that is included in a record with other musical works (whether or not those other musical works are copyright works).\n(2) Subject to any apportionment under regulation 5(3), the amount payable in respect of the musical work is the higher of the following amounts:\n(a)one cent;\n(b)the amount obtained by performing the following steps:\n(i)find out the retail selling price of the record;\n(ii)calculate what is 5% of that price;\n(iii)divide the result in sub‑paragraph (ii) by the total number of musical works included in the record.\n(3) If the amount obtained under paragraph (2)(b) includes a fraction of a cent —\n(a)any fraction of a cent that is less than half a cent is to be treated as half a cent; and\n(b)any fraction of a cent that is more than half a cent is to be treated as a whole cent."
+   }
+  },
+  {
+   "id": "SG-H852-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Royalty payable for inclusion of literary or dramatic work in musical record"
+   },
+   "text": {
+    "en": "5.—(1) This regulation prescribes the amount of royalty payable under section 261(2)(g) of the Act in respect of a literary or dramatic work included in a record of a performance of a musical work in the manner described in section 261(1) of the Act.\n(2) If —\n(a)the musical work is a copyright work; and\n(b)the same person is the copyright owner of both the musical work and the literary or dramatic work,\nno further amount needs to be paid in respect of the literary or dramatic work.\n(3) If —\n(a)the musical work is a copyright work; and\n(b)different persons own the copyrights in the musical work and the literary or dramatic work,\nthe amount payable in respect of the musical work under regulation 3 or 4 is to be apportioned between the copyright owners in the manner —\n(c)agreed by them; or\n(d)in default of agreement, decided by a Copyright Tribunal.\n(4) If the musical work is not a copyright work, the amount payable in respect of the literary or dramatic work is the amount that would have been payable under regulation 3 in respect of the musical work had the musical work been a copyright work."
+   }
+  }
+ ]
+}

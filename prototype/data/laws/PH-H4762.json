@@ -1,0 +1,94 @@
+{
+ "id": "PH-H4762",
+ "title": {
+  "zh": null,
+  "en": "An Act Changing the Date for the Submission of the Integrated Reorganization Plan and Delineating the Powers of the Review Commission, Further Amending Section Four of Republic Act Numbered Fifty-Four Hundred and Thirty-Five, as Amended By Republic Act Numbered Sixty-One Hundred and Seventy-Two.",
+  "orig": "An Act Changing the Date for the Submission of the Integrated Reorganization Plan and Delineating the Powers of the Review Commission, Further Amending Section Four of Republic Act Numbered Fifty-Four Hundred and Thirty-Five, as Amended By Republic Act Numbered Sixty-One Hundred and Seventy-Two."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p67",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1971-05-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6175",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 2126,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1971/ra_6175_1971.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1971/ra_6175_1971.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文存在同号重出的条款（第 4 条）：该处官方页面确有两段均标同一 Section 号，本库照录其 `no` 值（不改动官方编号），条文 `id` 以 `_2`「_3」后缀保证唯一。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4762-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section four of Republic Act Numbered Fifty-four hundred and thirty-five, as amended by Republic Act Numbered Sixty-one hundred and seventy-two, is hereby further amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H4762-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "The Commission shall submit an integrated reorganization plan to the President not later than December 31, 1970, and the President shall, at anytime thereafter but not later than forty calendar days niter the opening of the third regular session of the Seventh Congress, submit the same to Congress with or without modifications, together with a declaration that such reorganization is necessary to accomplish the purposes of Section one hereof. No reorganization plan shall become effective unless expressly approved by Congress which must either accept or reject it in toto \"Upon approval of the reorganization plan or plans by Congress, the President shall forthwith implement the same by issuing the necessary executive order or orders subject to the limits of the Appropriations Act for the fiscal year during which the implementation is expected.\""
+   }
+  },
+  {
+   "id": "PH-H4762-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The Review Commission created by the President pursuant to Republic Act Numbered Sixty-one hundred and seventy-two shall perform the following functions:\na. To assist the President on the review and revision of the integrated reorganization plan and in its presentation to Congress;\nb. To undertake further review, assessment, and improvement of the reorganization proposals in relation to the views and reactions of the various sectors of the community; and\nc. To perform such other functions as may be necessary to achieve the purposes of reorganization."
+   }
+  },
+  {
+   "id": "PH-H4762-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "To carry out the provisions of this Act the sum of six hundred thousand pesos and any unexpended balance of the amount of three hundred thousand pesos appropriated under Republic Act Numbered Sixty-one hundred and seventy-two or so much thereof as may be necessary to cover the expenses of the Commission up to the thirtieth day of June, nineteen hundred and seventy-two are appropriated out of any funds in the National Treasury not otherwise appropriated."
+   }
+  },
+  {
+   "id": "PH-H4762-A4_2",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, May 5, 1971."
+   }
+  }
+ ]
+}

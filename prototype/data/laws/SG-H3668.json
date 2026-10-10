@@ -1,0 +1,814 @@
+{
+ "id": "SG-H3668",
+ "title": {
+  "zh": null,
+  "en": "Small Claims Tribunals Act 1984",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p46",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act SCTA1984",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 49,
+ "chars": 41335,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/SCTA1984?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 49 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 3 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3668-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Small Claims Tribunals Act 1984."
+   }
+  },
+  {
+   "id": "SG-H3668-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2.—(1) In this Act, unless the context otherwise requires —\n“claim” means a claim lodged with a tribunal under section 15;\n“claimant” means a person who lodges a claim with a tribunal and includes any person who becomes a party to the proceedings on any claim in the capacity of a claimant;\n“Community Mediation Centre” means a Community Mediation Centre established under section 3 of the Community Mediation Centres Act 1997;\n“court” means any court of competent jurisdiction in Singapore;\n“court‑appointed mediator” means an individual who is appointed by the Presiding Judge of the State Courts to be a mediator for the purposes of this Act;\n“party” means a claimant or respondent and any person joined as a third party;\n“prescribed extended limit” means $30,000 or such other sum as the Minister may, after consultation with the Chief Justice, prescribe by order in the Gazette;\n“prescribed limit” means $20,000 or such other sum as the Minister may, after consultation with the Chief Justice, prescribe by order in the Gazette;\n“Registrar” means the registrar, a deputy registrar or an assistant registrar for the tribunals;\n“Registry” means the Registry of Small Claims Tribunals established under section 13;\n“respondent” means any person against whom a claim is made and any person who becomes a party to the proceedings on any claim in the capacity of a respondent;\n“rules” means rules made under section 47;\n“specified claim” means a claim specified in the Schedule;\n“tribunal” means a Small Claims Tribunal constituted under section 4 of the State Courts Act 1970;\n“tribunal magistrate” means a tribunal magistrate designated under section 4(2) or appointed under section 4(3)(a);\n“work order” means an order to rectify a defect in goods or any damage to property, or to make good any deficiency in the performance of services, by doing such work or attending to such matters (including the replacement of goods or parts thereof) as may be specified in the order.\n[5/2014; 33/2018]\n(2) For the purposes of this Act, the value of a claim relating to a contract means —\n(a)in the case where the nature of the claim is for the rescission of the contract — the value of the contract;\n(b)in the case where the nature of the claim is for the recovery of a progress payment due under the contract — the value of the contract; and\n(c)in any other case — the quantum of the claim.\n[33/2018]"
+   }
+  },
+  {
+   "id": "SG-H3668-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Establishment of tribunals"
+   },
+   "text": {
+    "en": "3. The President may, under section 4 of the State Courts Act 1970, constitute one or more Small Claims Tribunals as the President thinks fit to exercise the jurisdiction in respect of claims created by this Act.\n[5/2014]"
+   }
+  },
+  {
+   "id": "SG-H3668-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Tribunal magistrates"
+   },
+   "text": {
+    "en": "4.—(1) A tribunal is to be presided over by a tribunal magistrate designated under subsection (2) or appointed under subsection (3)(a).\n[33/2018]\n(2) The Presiding Judge of the State Courts may designate a District Judge or a Magistrate as a tribunal magistrate.\n[33/2018]\n(3) The President may, on the recommendation of the Chief Justice, by instrument in writing —\n(a)appoint a qualified person (as defined in section 2(1) of the Legal Profession Act 1966) as a tribunal magistrate; and\n(b)revoke that appointment at any time.\n[33/2018]\n(4) An individual appointed under subsection (3)(a) as a tribunal magistrate holds office for the term specified in the instrument of appointment, and may be re‑appointed.\n[33/2018]\n(5) Any individual designated under subsection (2) or appointed under subsection (3)(a) may, although the period of the individual’s designation or appointment has expired, or the individual’s designation or appointment has been revoked, sit as a tribunal magistrate for the purpose of giving judgment or otherwise in relation to any case heard by the individual as a tribunal magistrate.\n[33/2018]"
+   }
+  },
+  {
+   "id": "SG-H3668-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Jurisdiction of tribunal"
+   },
+   "text": {
+    "en": "5.—(1) Subject to the provisions of this Act, a tribunal has the jurisdiction to hear and determine any claim which —\n(a)is a specified claim; and\n(b)is served in Singapore on the respondent under section 19(1).\n[33/2018]\n(2) The jurisdiction of a tribunal does not extend to a claim —\n(a)in respect of damage caused to any property by an accident arising out of or in connection with the use of a motor vehicle; or\n(b)which the State Courts have no jurisdiction to hear and determine.\n[5/2014]\n(3) Except where this Act expressly provides otherwise, the jurisdiction of a tribunal does not extend to a claim —\n(a) the value of which exceeds the prescribed limit; or\n(b)after the expiry of 2 years after the date on which the cause of action accrued.\n[33/2018]\n(4) Subject to subsections (1) and (2), a tribunal has jurisdiction to hear and determine any claim the value of which exceeds the prescribed limit but does not exceed the prescribed extended limit, if the parties to the claim so agree by a memorandum signed by them.\n[33/2018]\n(5) Where a tribunal is of the opinion that a claim lodged with it pursuant to section 15(1) is beyond its jurisdiction, the tribunal must discontinue the proceedings and advise the claimant and respondent accordingly."
+   }
+  },
+  {
+   "id": "SG-H3668-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Exclusion of other jurisdictions"
+   },
+   "text": {
+    "en": "6.—(1) Where a claim has been lodged with a tribunal, no proceedings relating to that claim may be brought before any other court except —\n(a)where the proceedings before that court were commenced before the claim was lodged with the tribunal; or\n(b)where the claim before the tribunal has been withdrawn or abandoned.\n(2) No claim may be brought before a tribunal if proceedings relating to that claim are pending in or have been heard and determined by any other court.\n(3) For the purposes of this section, a claim is deemed to have been lodged with a tribunal when section 15 has been complied with."
+   }
+  },
+  {
+   "id": "SG-H3668-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Transfer of claims"
+   },
+   "text": {
+    "en": "7. Despite section 5, a tribunal may, at any time if it is of the opinion that a claim ought to be dealt with by any other court, transfer the proceedings to that court whereupon the practice and procedure of that court applies."
+   }
+  },
+  {
+   "id": "SG-H3668-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "No division of claims"
+   },
+   "text": {
+    "en": "8. A claim must not be split or divided and pursued in separate proceedings before a tribunal for the sole purpose of bringing the sum claimed in each of such proceedings within the jurisdiction of a tribunal."
+   }
+  },
+  {
+   "id": "SG-H3668-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Abandonment of part of claim to give tribunal jurisdiction"
+   },
+   "text": {
+    "en": "9.—(1) Where the value of a claim exceeds the prescribed limit and no agreement is reached between the parties thereto as to an extension of the jurisdiction of the tribunal under section 5(4), the claimant may abandon the excess, and thereupon the tribunal has jurisdiction to hear and determine the claim.\n(2) Where the tribunal has jurisdiction to hear and determine a claim by virtue of subsection (1), an order of the tribunal under this Act in relation to that claim is in full discharge of all demands in respect of that claim."
+   }
+  },
+  {
+   "id": "SG-H3668-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Transfer of counterclaim from tribunal to court"
+   },
+   "text": {
+    "en": "10.—(1) Where any counterclaim or any set‑off and counterclaim in proceedings before a tribunal is a monetary claim which is not within the jurisdiction of the tribunal, any party in those proceedings may apply to an appropriate court, within such time as may be prescribed by the rules of that court, for an order that the whole proceedings, or the proceedings on the counterclaim or set‑off and counterclaim, be transferred to that court.\n(2) On any such application, the court may order —\n(a)that the whole proceedings be transferred to that court;\n(b)that the whole proceedings be heard before a tribunal; or\n(c)that the proceedings on the counterclaim or set‑off and counterclaim be transferred to that court and that the claim by the claimant and the defence thereto other than the set‑off (if any) be heard before a tribunal.\n(3) Where an order is made under subsection (2)(c) and judgment on the claim is given for the claimant, execution or enforcement thereon must, unless the court at any time otherwise orders, be stayed until the proceedings transferred to that court have been concluded.\n[Act 25 of 2021 wef 01/04/2022]\n(4) Where no application is made under subsection (1) or where on such an application it is ordered that the whole proceedings be heard before a tribunal, the tribunal has jurisdiction to hear the proceedings despite any other provisions of this Act."
+   }
+  },
+  {
+   "id": "SG-H3668-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Costs in transferred cases"
+   },
+   "text": {
+    "en": "11.—(1) Where any proceedings on a claim or counterclaim or set‑off and counterclaim are transferred under section 7 or 10 from a tribunal to another court, the costs of the proceedings both before and after the transfer are, subject to any order of the tribunal made in relation to any proceedings before the transfer, in the discretion of the court to which the proceedings are transferred.\n(2) The court mentioned in subsection (1) may make orders with respect thereto and as to the scales on which the costs of the proceedings are to be taxed; and the costs of the whole proceedings must be taxed in the court."
+   }
+  },
+  {
+   "id": "SG-H3668-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Functions of tribunal"
+   },
+   "text": {
+    "en": "12.—(1) The primary function of a tribunal is to attempt to bring the parties to a dispute to an agreed settlement.\n(2) Where an agreed settlement is reached, a tribunal may make one or more of the orders which it is empowered to make under section 35.\n(3) If it appears to a tribunal that it is impossible to reach a settlement under subsection (1) within a reasonable time, the tribunal must proceed to determine the dispute.\n(4) A tribunal must determine the dispute according to the substantial merits and justice of the case, and in doing so must have regard to the law but is not bound to give effect to strict legal forms or technicalities."
+   }
+  },
+  {
+   "id": "SG-H3668-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Registry"
+   },
+   "text": {
+    "en": "13.—(1) There is established and maintained a Registry of Small Claims Tribunals in which all records of the tribunals must be kept.\n(2) The record of a tribunal consists of —\n(a)claims lodged with the tribunal by claimants;\n(b)summaries of the facts of the issues in dispute in respect of those claims as determined and recorded by the tribunal during the hearing of the claims; and\n(c)orders made by the tribunal in relation to those claims.\n(3) Any party to the claim is, upon payment of a prescribed fee, entitled to a copy of the record of a tribunal and such record is admissible in evidence before any other court for the purposes of any proceedings before that court.\n(4) The record of a tribunal relating to any claim must be kept for a period of one year after the date of the order made by the tribunal in relation to the claim or, where there is an appeal against the order to the General Division of the High Court, one year after the conclusion of the appeal.\n[40/2019]"
+   }
+  },
+  {
+   "id": "SG-H3668-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Registrar, deputy registrars, assistant registrars and other officers"
+   },
+   "text": {
+    "en": "14.—(1) The registrar of the State Courts is the registrar for the tribunals.\n[33/2018]\n(2) The Chief Justice may appoint deputy registrars, assistant registrars and other officers for the proper functioning of the tribunals.\n[33/2018]"
+   }
+  },
+  {
+   "id": "SG-H3668-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Lodging claims"
+   },
+   "text": {
+    "en": "15.—(1) Proceedings before a tribunal must be commenced by lodging a claim with the Registrar.\n(2) A claim must be in writing in the prescribed form and must be signed by the claimant.\n(3) The Registrar may permit a claim to be made orally and cause it to be reduced to writing.\n(4) After the claim has been reduced to writing, it must be read over and explained to the claimant and, if confirmed correct by the claimant, must be signed by the claimant and a copy of the claim must be given to the claimant.\n(5) In any joint or representative claim —\n(a)the Registrar may permit the claim to be filed even though it has not been signed by all the claimants or persons represented on condition that all the claimants or such persons must do so before the date of hearing; and\n(b)the name of a claimant or person represented who has not so signed the claim before the hearing may, if a tribunal so directs, be deleted from the claim and the amount of the claim reduced accordingly.\n(6) The Registrar may, in accordance with the rules, permit a claim to be lodged by electronic facsimile or any other prescribed electronic means."
+   }
+  },
+  {
+   "id": "SG-H3668-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Contents of claim"
+   },
+   "text": {
+    "en": "16. A claim must contain —\n(a)the name and address of each claimant and, in the case of a representative claim, the name and address of each person represented;\n(b)the name and address of each respondent;\n(c)the sum of money claimed by each claimant or person represented; and\n(d)such other particulars of the claim as are reasonably sufficient to inform the respondent of the ground for the claim and the manner in which the amount claimed by each claimant or person represented has been calculated."
+   }
+  },
+  {
+   "id": "SG-H3668-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Powers of Registrar"
+   },
+   "text": {
+    "en": "17.—(1) The Registrar must, when a claim has been filed, invite all the parties to the dispute for consultation with a view to effecting a settlement acceptable to all the parties.\n(2) Where such a settlement is made, the Registrar must, at the request of the claimant, make an order under section 35 that gives effect to the terms of the settlement and the order has effect as if it were an order of a tribunal made under that section.\n(3) Where at the consultation the Registrar is of the opinion that a claim or counterclaim lodged is outside the jurisdiction of a tribunal, the Registrar must discontinue the proceedings and advise the claimant and respondent accordingly.\n(4) Any person aggrieved by a decision of the Registrar made under subsection (3) may within one month appeal to a tribunal which may make an order confirming, reversing or varying the decision of the Registrar.\n(5) If a claimant fails to appear at the consultation, by himself or herself or by a representative pursuant to section 23(2), the Registrar may make an order dismissing the claim or, where there is a counterclaim by the respondent, make any order which a tribunal may make under section 35.\n(6) If a respondent fails to appear at the consultation, by himself or herself or by a representative pursuant to section 23(2), the claimant may apply to the Registrar for any order which a tribunal may make under section 35 to be made against the respondent.\n(7) Upon an application under subsection (6), the Registrar must grant the claimant the order if the Registrar is satisfied that the claimant is entitled thereto and that a copy of the written claim and notice of consultation have been served on the respondent.\n(8) Any order made by the Registrar under subsection (5) or (7) has effect as if it were an order of a tribunal made under section 35.\n(9) Any person aggrieved by an order of the Registrar made under subsection (5), (6) or (7) may apply to the Registrar for the order to be set aside.\n(10) An application made under subsection (9) must be made within one month after the consultation or such further period as the Registrar may allow.\n(11) Section 23 applies to a consultation under this section or section 18, subject to the modification that a reference in section 23 to proceedings before a tribunal is a reference to the consultation.\n[33/2018]"
+   }
+  },
+  {
+   "id": "SG-H3668-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Consultation before Registrar by electronic means"
+   },
+   "text": {
+    "en": "18.—(1) The Registrar may, on such conditions as the Registrar may impose, permit the consultation to be conducted by telephone, videophone or any other electronic means (called in this section electronic means).\n(2) The Registrar may at any time direct any consultation by electronic means to cease and order the parties to appear (personally or by a representative permitted under section 23(2)) at a designated place for the consultation.\n[33/2018]\n(3) Any order made by the Registrar at the consultation by electronic means may be set aside on the application of any person aggrieved by that order if the Registrar is satisfied that either party has been impersonated or that any person who participated in the consultation did not have authority to represent the party concerned.\n(4) An application made under subsection (3) must be made within one month after the order was made or such further period as the Registrar may allow."
+   }
+  },
+  {
+   "id": "SG-H3668-A18.001",
+   "no": 18.001,
+   "noLabel": {
+    "en": "18A."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Referral of cases to Community Mediation Centre, etc."
+   },
+   "text": {
+    "en": "18A.—(1) The Registrar or a tribunal may refer a claim to a Community Mediation Centre or any other person for mediation, with or without the consent of the parties to the claim.\n[33/2018]\n(2) The Registrar or the tribunal may, in making a referral under subsection (1) —\n(a)order all or any of the parties to the claim to attend (personally or by a representative permitted under section 23(2)) before a mediator of the Community Mediation Centre, or that other person, at the time and place specified in the order;\n(b)give any direction necessary for and incidental to the proper carrying into effect of the referral; and\n(c)order that all further proceedings on the claim under this Act be stayed pending the mediation.\n[33/2018]\n(3) Section 23 applies to a mediation required under this section, subject to the modification that a reference in section 23 to proceedings before a tribunal is a reference to the mediation.\n[33/2018]\n(4) This section has effect despite any other written law.\n[33/2018]"
+   }
+  },
+  {
+   "id": "SG-H3668-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Service of claim and notice of hearing"
+   },
+   "text": {
+    "en": "19.—(1) Where a claim is not settled under section 17 or 18, or in a mediation required by the Registrar under section 18A, the Registrar must —\n(a)fix a place and date for hearing the claim and give notice thereof in the prescribed form to the claimant; and\n(b)as soon as is reasonably practicable, cause a copy of the written claim and a notice in the prescribed form of the place and date of hearing to be served on —\n(i)the respondent; and\n(ii)every person who appears from the claim form to have a sufficient interest in the settlement of the dispute to which the claim relates.\n[33/2018]\n(2) The Registrar may summon any person to appear before a tribunal if, in the Registrar’s opinion, the presence of the person is necessary to enable the tribunal to determine the questions in dispute in the claim.\n(3) Service of a copy of the written claim and the notice of hearing and of a summons or any document that is to be served on any person in any proceedings before a tribunal may be effected by such person as may be appointed by the Registrar for the purpose."
+   }
+  },
+  {
+   "id": "SG-H3668-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Claim may be admitted by telephone or in writing"
+   },
+   "text": {
+    "en": "20.—(1) The Registrar may, on such conditions as the Registrar may impose, permit a respondent, at any time before an order on the claim has been made by the Registrar or the tribunal, to admit the claim against the respondent orally by telephone.\n(2) The Registrar may accept any admission to the claim in writing by the respondent if such admission is received before any order on the claim had been made by the Registrar or the tribunal.\n(3) The Registrar may reject an admission purportedly made under subsection (1) or (2) and direct the respondent to appear (personally or by a representative permitted under section 23(2)) at the consultation or before a tribunal.\n[33/2018]\n(4) If the Registrar is satisfied that an admission under subsection (1) or (2) is in order, the Registrar may make an order under section 35 against the respondent and the order has effect as if it were an order of a tribunal under that section.\n(5) Any order made by the Registrar under subsection (4) may be set aside on the application of the respondent if the Registrar is satisfied that the admission was not made by the respondent or with the respondent’s authority.\n(6) An application under subsection (5) must be made within one month after the date of the order or such further period as the Registrar may allow."
+   }
+  },
+  {
+   "id": "SG-H3668-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Parties"
+   },
+   "text": {
+    "en": "21.—(1) Subject to subsection (2), the claimant and the respondent and every person to whom notice of a claim has been served under section 19(1)(b) are parties to the proceedings on that claim.\n(2) A tribunal may, at any time, order that the name of a person who appears to it to have been improperly joined as a party be struck out from the proceedings."
+   }
+  },
+  {
+   "id": "SG-H3668-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Hearing to be informal"
+   },
+   "text": {
+    "en": "22.—(1) Proceedings before a tribunal are to be conducted in an informal manner.\n(2) A tribunal, when dealing with a claim, is to adopt a judge‑led approach, that is to say, the tribunal —\n(a)is to identify the relevant issues in the claim; and\n(b)is to ensure that the relevant evidence is adduced by the parties to the proceedings before the tribunal.\n[33/2018]\n(3) In adopting a judge-led approach, a tribunal may, at any time, on its own initiative or on the application of any party to the proceedings before the tribunal, direct any party or parties to those proceedings to appear before the tribunal, for the tribunal to make such order or give such direction as the tribunal thinks fit, for the just, expeditious and economical disposal of the claim.\n[33/2018]\n(4) A tribunal may, on its own initiative or at the request of any party, summon any person to do either or both of the following:\n(a)give evidence in any proceedings before a tribunal;\n(b)produce any document, record or thing which is relevant in any proceedings before a tribunal.\n[33/2018]\n(5) A tribunal may inquire into any matter which the tribunal considers relevant to a claim, whether or not the matter is raised by a party to the claim.\n[33/2018]"
+   }
+  },
+  {
+   "id": "SG-H3668-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Right of audience"
+   },
+   "text": {
+    "en": "23.—(1) Subject to this section, a party to proceedings before a tribunal must present the party’s own case.\n(2) Subject to subsection (3), where a party to proceedings before a tribunal is —\n(a)the Government, a public officer may present the case on its behalf;\n(b)a Town Council established under the Town Councils Act 1988, one of the full‑time employees of the Town Council or of its management agent may present the case on its behalf;\n(c)a body corporate, one of its officers or full‑time employees may present the case on its behalf;\n(d)a partnership, one of its partners or full‑time employees may present the case on its behalf;\n(e)an unincorporated association, one of the members of its governing body, or one of its full‑time employees, may present the case on behalf of the unincorporated association;\n(f)a management corporation under the Land Titles (Strata) Act 1967, a member of its council or a full‑time employee of its managing agent may present the case on its behalf;\n(g)the Council of the Singapore Business Federation as referred to in the Singapore Business Federation Act 2001, one of the members of the Council or any employee of the Federation duly authorised by the Council may present the case on the Council’s behalf;\n(h)a minor and is, in the opinion of the Registrar or tribunal, unable to present his or her own case, the minor’s parent or guardian or any other person as may be approved by the Registrar or tribunal may present the case on the minor’s behalf;\n(i)a person who is not resident in Singapore and who is unable to remain in Singapore until the hearing of the case, any other person who is duly authorised by the firstmentioned person in writing may, with the approval of the Registrar or tribunal, present the case on the firstmentioned person’s behalf; and\n(j)a person who is, in the opinion of the Registrar or tribunal, unable to present his or her own case by reason of old age, illiteracy or infirmity of mind or body, any other person who is duly authorised by the firstmentioned person in writing or who is approved by the Registrar or tribunal may present the case on the firstmentioned person’s behalf.\n[40/2001; 33/2018]\n(3) No party to any proceedings before a tribunal may be represented by an advocate and solicitor or, except as provided by subsection (2), an agent, whether paid or otherwise.\n(4) A tribunal or the Registrar must, before permitting a person to act as a representative under subsection (2), be satisfied that the person has sufficient knowledge of the case and sufficient authority to bind the party whom the person represents.\n[33/2018]\n(5) In this section, “officer”, for a body corporate, means —\n(a)in the case of a limited liability partnership, a partner, manager or other similar officer of the limited liability partnership; and\n(b)in the case of any other body corporate, a director, chief executive, manager, secretary or other similar officer of the body corporate.\n[33/2018]"
+   }
+  },
+  {
+   "id": "SG-H3668-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Proceedings conducted in private unless tribunal orders otherwise"
+   },
+   "text": {
+    "en": "24.—(1) Subject to subsection (2), all proceedings before a tribunal are to be conducted in private.\n[33/2018]\n(2) A tribunal may, on its own initiative or on the application of any party to the proceedings, and in such manner as may be prescribed, do any of the following:\n(a)allow one or more individuals to assist in resolving the claim amicably through mediation or conciliation;\n(b)allow one or more individuals of skill and experience in the matter to which the proceedings relate to sit with the tribunal and act as assessors;\n(c)allow any individual whom the tribunal deems fit to observe the hearing of the claim.\n[33/2018]"
+   }
+  },
+  {
+   "id": "SG-H3668-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Proceedings before tribunal conducted by electronic means, etc."
+   },
+   "text": {
+    "en": "25.—(1) A tribunal may, on such conditions as it may impose, permit proceedings before the tribunal to be conducted by telephone, videophone or any other electronic means (called in this section electronic means).\n(2) The tribunal may at any time direct any proceedings before it conducted by electronic means to cease and order the parties to appear (personally or by a representative permitted under section 23(2)) at a designated place for the hearing.\n[33/2018]\n(3) Any order made by the tribunal at the proceedings before it by electronic means may be set aside on the application of a person aggrieved by that order if the tribunal is satisfied that either party has been impersonated or that any person who participated in the hearing did not have authority to represent the party concerned.\n(4) An application made under subsection (3) must be made within one month after the order was made or such further period as the tribunal may allow."
+   }
+  },
+  {
+   "id": "SG-H3668-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Claims may be heard together"
+   },
+   "text": {
+    "en": "26.—(1) Subject to subsection (2), where 2 or more claims are filed and it appears to a tribunal that —\n(a)a common question of fact or law arises in both or all of them;\n(b)the claims arose out of the same cause of action; or\n(c)it would be in the interests of justice,\nthe tribunal may order that such claims (called in this section the common group of claims) be heard at the same time.\n[33/2018]\n(2) The aggregate value of the common group of claims must not exceed —\n(a)in the case where section 5(4) applies to any claim in the common group of claims, the prescribed extended limit; and\n(b)in any other case, the prescribed limit.\n[33/2018]\n(3) The power conferred by this section may be exercised by a tribunal even though the hearing of any claim in the common group of claims has begun.\n[33/2018]"
+   }
+  },
+  {
+   "id": "SG-H3668-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Representative claims"
+   },
+   "text": {
+    "en": "27.—(1) Subject to subsections (2) and (3), if 2 or more persons have claims against the same respondent, such claims may be brought in the name of one of such persons as the representative of some or all of them.\n[33/2018]\n(2) The aggregate value of the claims of persons represented in a representative claim must not exceed —\n(a)in the case where section 5(4) applies to any of those persons’ claims, the prescribed extended limit; and\n(b)in any other case, the prescribed limit.\n[33/2018]\n(3) A tribunal may, if at any stage of the proceedings it considers that a representative claim may prejudice the respondent, order that the claims of all or any of the persons represented be heard separately.\n(4) Each person represented in a representative claim is deemed to have authorised the representative on the person’s behalf to —\n(a)call and give evidence and make submissions to a tribunal on any matter arising during the hearing of the claim;\n(b)file affidavits, statements or other documents;\n(c)agree to an adjournment or change of venue;\n(d)agree to a settlement of the claim on such terms as the representative thinks fit;\n(e)amend or abandon the claim; and\n(f)act generally in as full and free a manner as such claimant may act on his or her own behalf.\n(5) The authority deemed to be given to a representative by subsection (4) must not be withdrawn except by permission of the tribunal.\n[Act 25 of 2021 wef 01/04/2022]\n(6) A tribunal may, at any time before determining any claim, grant permission to any person to join in the claim as a person represented on such terms as it may think fit.\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3668-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Evidence"
+   },
+   "text": {
+    "en": "28.—(1) A tribunal is not bound by the rules of evidence but may inform itself on any matter in such manner as it thinks fit.\n(2) Evidence tendered to a tribunal by or on behalf of a party to any proceedings need not be given on oath but the tribunal may, at any stage of the proceedings, require that such evidence or any part thereof be given on oath whether orally or in writing.\n(3) A tribunal may, on its own initiative, seek and receive such other evidence and make such other investigations and inquiries as it thinks fit.\n(4) All evidence and information received and ascertained by the tribunal under subsection (3) must be disclosed to every party.\n(5) For the purposes of subsection (2), a tribunal magistrate is empowered to administer an oath.\n[33/2018]\n(6) A tribunal may require any written evidence given in the proceedings before the tribunal to be verified by statutory declaration.\n[33/2018]\n(7) A tribunal is not required to keep a record of the evidence given in any proceedings before the tribunal but must make —\n(a)a summary for the purposes of section 13(2); and\n(b)notes of the proceedings.\n[33/2018]"
+   }
+  },
+  {
+   "id": "SG-H3668-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "When party fails to appear"
+   },
+   "text": {
+    "en": "29. If a party to the proceedings on a claim before a tribunal fails, without reasonable excuse, to attend (personally or by a representative permitted under section 23(2)) those proceedings, the tribunal may —\n(a)in the case where the absent party is the claimant —\n(i)dismiss the claim; or\n(ii)where the proceedings include a counterclaim by the respondent, hear, and make an order under section 35 on, the counterclaim; or\n(b)in the case where the absent party is the respondent — hear, and make an order under section 35 on, the claim and (where the proceedings include a counterclaim by the respondent) the counterclaim.\n[33/2018]"
+   }
+  },
+  {
+   "id": "SG-H3668-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Control of procedure"
+   },
+   "text": {
+    "en": "30. Subject to this Act and to the rules, a tribunal has control of its own procedure in the hearing of claims and, in the exercise of that control, must have regard to the principles of natural justice."
+   }
+  },
+  {
+   "id": "SG-H3668-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "text": {
+    "en": "31. [Repealed by Act 33 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3668-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "text": {
+    "en": "32. [Repealed by Act 33 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3668-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Adjournments"
+   },
+   "text": {
+    "en": "33. A tribunal may at any time, either of its own motion or on the application of any party, adjourn the hearing of proceedings on a claim on such terms as it thinks fit."
+   }
+  },
+  {
+   "id": "SG-H3668-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Withdrawal of claim"
+   },
+   "text": {
+    "en": "34. A claimant may at any time withdraw the claimant’s claim whether or not a tribunal has heard the claim."
+   }
+  },
+  {
+   "id": "SG-H3668-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Orders of tribunal"
+   },
+   "text": {
+    "en": "35.—(1) A tribunal may, as regards any claim within its jurisdiction, make one or more of the following orders, subject to such conditions (whether as to the time for, or mode of, compliance or otherwise) as the tribunal thinks fit to impose:\n(a)an order requiring a party to pay money to another party;\n(b)a work order against a party;\n(c)an order requiring a party to do anything under a work order within such time as may be specified in the order and, in default of that party complying with that order, to pay money to a person specified in the order;\n(d)an order dismissing the whole or part of the claim;\n(e)an order to vary a work order;\n(f)an order requiring a party to pay costs to another party;\n(g)where the claim is for unpaid rent for any premises under a contract specified in paragraph 1(c) of the Schedule, an order for the delivery of vacant possession of the premises;\n(h)any ancillary order necessary to give effect to any order made by the tribunal.\n[33/2018]\n(2) The total value of a money order or work order made under subsection (1) must not exceed —\n(a)in the case where section 5(4) applies, the prescribed extended limit; and\n(b)in any other case, the prescribed limit.\n[33/2018]\n(3) A tribunal may correct an order made by the tribunal within 14 days after the date on which the order is made, or correct a statement of the tribunal’s grounds for making the order within 14 days after the date on which the statement is issued by the tribunal, to the extent necessary to rectify any of the following:\n(a)a clerical mistake;\n(b)an error arising from an accidental slip or omission;\n(c)a material miscalculation of figures, or a material mistake in the description of any person, thing or matter, mentioned in the order or statement;\n(d)a defect of form.\n[33/2018]\n(4) In this section, “money order” means an order under subsection (1)(a).\n[33/2018]"
+   }
+  },
+  {
+   "id": "SG-H3668-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "heading": {
+    "en": "Enforcement of section 35(1) order"
+   },
+   "text": {
+    "en": "36. Each of the following orders may be enforced in the same manner as a judgment or an order made by a District Court:\n(a)an order made by a tribunal under section 35(1);\n(b)an order made by the Registrar under section 17(2), (5) or (7) or 20(4), read with section 35(1).\n[33/2018]"
+   }
+  },
+  {
+   "id": "SG-H3668-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS"
+   },
+   "text": {
+    "en": "37. [Repealed by Act 33 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3668-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 3 APPEAL"
+   },
+   "heading": {
+    "en": "Appeal on point of law"
+   },
+   "text": {
+    "en": "38.—(1) Any party to proceedings before a tribunal may appeal to the General Division of the High Court against an order made by the tribunal under section 35(1) —\n(a)on any ground involving a question of law; or\n(b)on the ground that the claim was outside the jurisdiction of the tribunal.\n[33/2018; 40/2019]\n(2) An appeal lies to the General Division of the High Court under this section only if permission to appeal is given by the District Court.\n[43/2005; 40/2019]\n[Act 25 of 2021 wef 01/04/2022]\n(3) Where a proposed appeal against an order made by a tribunal does not satisfy subsection (1)(a) or (b), a District Court may, in addition to refusing permission under subsection (2) and subject to such directions as the District Court thinks fit —\n(a)order that the matter be remitted to that tribunal for its reconsideration; or\n(b)order a rehearing of the matter by a different tribunal.\n[33/2018]\n[Act 25 of 2021 wef 01/04/2022]\n(4) Any order of a District Court under subsection (2) or (3) is final and is not subject to an appeal.\n[33/2018]"
+   }
+  },
+  {
+   "id": "SG-H3668-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 3 APPEAL"
+   },
+   "heading": {
+    "en": "Powers of General Division of High Court on appeal"
+   },
+   "text": {
+    "en": "39.—(1) On an appeal under section 38, the General Division of the High Court may —\n(a)allow the appeal, and set aside or vary the tribunal’s order;\n(b)subject to such directions as the General Division of the High Court thinks fit, remit the matter to the tribunal for reconsideration, or order a rehearing of the matter by a different tribunal; or\n(c)dismiss the appeal.\n[33/2018; 40/2019]\n(2) On an appeal under section 38, the General Division of the High Court may make such order as to costs and expenses as the General Division of the High Court thinks fit, but may not —\n(a)reverse or vary any determination made by a tribunal on questions of fact; or\n(b)receive further evidence.\n[40/2019]\n(3) A decision of the General Division of the High Court under subsection (1) is final and is not subject to any appeal.\n[40/2019]"
+   }
+  },
+  {
+   "id": "SG-H3668-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Order of tribunal to be final"
+   },
+   "text": {
+    "en": "40. An order of a tribunal is final and binding on all parties to the proceedings in which the order is made and, except as provided in section 38, no appeal lies in respect of the order."
+   }
+  },
+  {
+   "id": "SG-H3668-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Setting aside of order"
+   },
+   "text": {
+    "en": "41.—(1) Any order of —\n(a)the tribunal made under section 25(3), 29(a)(i) or 35(1) read with section 29(a)(ii) or (b);\n(b)the Registrar made under section 17(9), 18(3) or 20(5),\nmay, on the application of a person aggrieved by that order, be set aside by the tribunal and the tribunal may make such further order as it thinks just.\n[33/2018]\n(2) An application under subsection (1) must be made within one month after the date on which the order was made or such further period as the tribunal may allow."
+   }
+  },
+  {
+   "id": "SG-H3668-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Appeal does not operate as stay of execution or enforcement"
+   },
+   "text": {
+    "en": "42.—(1) An appeal against an order made by a tribunal under section 35 (called in this section a tribunal’s section 35 order) does not operate as a stay of execution or enforcement of that order, unless the tribunal, a District Court or the General Division of the High Court orders otherwise.\n[33/2018; 40/2019]\n[Act 25 of 2021 wef 01/04/2022]\n(2) A stay of execution or enforcement of a tribunal’s section 35 order is subject to such conditions as the tribunal, a District Court or the General Division of the High Court (as the case may be) thinks fit to impose, including conditions as to costs, payment into the tribunal, District Court or General Division of the High Court (as the case may be) or the giving of security.\n[33/2018; 40/2019]\n[Act 25 of 2021 wef 01/04/2022]\n(3) The General Division of the High Court may order a stay of execution or enforcement of a tribunal’s section 35 order only if —\n(a)a District Court has given permission under section 38(2) to appeal against the tribunal’s section 35 order; and\n[Act 25 of 2021 wef 01/04/2022]\n(b)no application was made to the tribunal or any District Court for a stay of execution or enforcement of the tribunal’s section 35 order.\n[33/2018; 40/2019]\n[Act 25 of 2021 wef 01/04/2022]\n(4) Any order made under this section on an application for a stay of execution or enforcement of a tribunal’s section 35 order is final and is not subject to an appeal.\n[33/2018]\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3668-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Contempt of tribunal"
+   },
+   "text": {
+    "en": "43.—(1) Any person who —\n(a)assaults, wilfully insults or obstructs a tribunal magistrate or any witness or officer of a tribunal during a sitting of a tribunal or while the tribunal magistrate, witness or officer is on his or her way to or from such a sitting;\n(b)assaults or wilfully insults or obstructs any person in attendance at a sitting of a tribunal;\n(c)wilfully interrupts or otherwise misbehaves at a sitting of a tribunal; or\n(d)without lawful excuse, disobeys any order or direction of a tribunal (not being an order mentioned in section 35) during a sitting of the tribunal,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months.\n[33/2018]\n(2) A tribunal may by oral order exclude from a sitting of the tribunal any person whose behaviour in the opinion of the tribunal constitutes an offence under subsection (1) whether or not such person is charged with the offence.\n[33/2018]\n(3) The Registrar or officer under the Registrar’s control or any police officer may take such steps as are reasonably necessary to enforce such exclusion."
+   }
+  },
+  {
+   "id": "SG-H3668-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Protection from personal liability"
+   },
+   "text": {
+    "en": "44.—(1) The following individuals have and enjoy the same protection that a Magistrate has and enjoys under the State Courts Act 1970:\n(a)a tribunal magistrate;\n(b)the Registrar, when exercising the jurisdiction and powers of a tribunal.\n[33/2018]\n(2) No liability shall lie personally against an officer of a State Court or a court-appointed mediator who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act.\n[33/2018]"
+   }
+  },
+  {
+   "id": "SG-H3668-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Publication of orders"
+   },
+   "text": {
+    "en": "45. The Registrar must cause to be published, in such manner as the Minister from time to time directs, such particulars relating to proceedings in tribunals as the Minister specifies in the direction."
+   }
+  },
+  {
+   "id": "SG-H3668-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Person not precluded from filing claim in court"
+   },
+   "text": {
+    "en": "46. Nothing in this Act is to be construed as precluding a person from lodging a claim that is within the jurisdiction of a tribunal in any other court if that person elects to institute proceedings in that other court to hear and determine that claim."
+   }
+  },
+  {
+   "id": "SG-H3668-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Rules"
+   },
+   "text": {
+    "en": "47.—(1) The Rules Committee appointed under section 80(3) of the Supreme Court of Judicature Act 1969 may make rules to —\n(a)regulate the practice and procedure of tribunals and the enforcement of orders of the tribunals;\n(b)prescribe such things, including fees or costs, as are required by this Act to be prescribed; and\n(c)prescribe such matters as are necessary for carrying out the provisions of this Act.\n(2) Without limiting subsection (1), the rules may provide for the following:\n(a)the form of documents to be issued by tribunals and the sealing of documents;\n(b)the form and content of documents to be used by parties and intending parties, and the service of documents and the giving of notices by such persons;\n(c)the functions, powers and duties of the tribunals, the Registrar and other officers of the Registry in relation to —\n(i)the service of documents and giving of notices;\n(ii)the enlargement of dates of hearing; and\n(iii)the adjournment of proceedings;\n(d)the withdrawal and amendment of claims;\n(e)the summoning of witnesses and the payment of witnesses from public funds or otherwise;\n(f)the commission of offences by, and punishment of, persons who refuse to give evidence or obey a summons to witness;\n(g)the transfer of proceedings from a court to a tribunal and from a tribunal to a court;\n(h)the manner and the conditions under which appeals may be brought against orders made by tribunals;\n(i)regulating and prescribing the procedure to be followed on appeals from a tribunal to the General Division of the High Court.\n[40/2019]"
+   }
+  },
+  {
+   "id": "SG-H3668-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nSections 2(1) and 35(1)(g)\nSpecified claims\n1. The following are specified claims for the purposes of section 5(1)(a):\n(a)a claim relating to a contract for the sale of goods or the provision of services;\n(b)a claim in tort relating to damage caused to any property (other than a claim mentioned in section 4 of the Community Disputes Resolution Act 2015);\n(c)a claim relating to a contract for the lease of residential premises that does not exceed 2 years;\n(d)a claim by an owner developer for the recovery of any charge or interest mentioned in section 22(1) of the Building (Strata Management) Act 2004;\n[Act 12 of 2020 wef 01/10/2025]\n(e)a claim by a management corporation for the recovery of any contribution or interest mentioned in section 40(6) of the Building (Strata Management) Act 2004;\n[Act 12 of 2020 wef 01/10/2025]\n(f)a claim by the Housing and Development Board for the recovery of any improvement contribution, interest or penalty mentioned in section 83 of the Housing and Development Act 1959;\n(g)a claim by the Council of the Singapore Business Federation for the recovery of any subscription mentioned in section 12(4) of the Singapore Business Federation Act 2001;\n(h)a claim by a Town Council for the recovery of any improvement contribution, interest or penalty mentioned in section 36 of the Town Councils Act 1988;\n(i)a claim by a Town Council for the recovery of any charge, fee, expense or penalty mentioned in section 73 of the Town Councils Act 1988.\n2. For the purposes of paragraph 1(a), a contract to buy or sell foreign currency notes made with a person who has in force a licence under the Payment Services Act 2019 that entitles the person to carry on a business of providing a money‑changing service is deemed to be a contract for the provision of services.\n[33/2018; 2/2019]"
+   }
+  }
+ ]
+}

@@ -1,0 +1,224 @@
+{
+ "id": "SG-H3700",
+ "title": {
+  "zh": null,
+  "en": "Terrorism (Suppression of Misuse of Radioactive Material) Act 2017",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p46",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2017",
+ "effectiveDate": "2022-07-01",
+ "versionDate": null,
+ "amendedNote": "2020 Revised Edition（2021-12-31 生效）；非正式合并版 version in force from 2022-07-01",
+ "issuingBody": null,
+ "docNumber": "Act TSMRMA2017",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 14,
+ "chars": 12442,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/TSMRMA2017?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 14 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3700-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Terrorism (Suppression of Misuse of Radioactive Material) Act 2017."
+   }
+  },
+  {
+   "id": "SG-H3700-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“armed conflict” does not include internal disturbances and tensions, such as riots, isolated and sporadic acts of violence, and other acts of a similar nature;\n“Convention” means the International Convention for the Suppression of Acts of Nuclear Terrorism done in New York on 13 April 2005;\n“Convention country” means a foreign country that is a Party to the Convention;\n“Convention device” means —\n(a)an explosive or incendiary device that releases or disseminates radioactive material or emits radiation; or\n(b)a device that releases or disseminates radioactive material or emits radiation, and that may, owing to its radiological properties, cause —\n(i)the death of, or serious bodily injury to, any individual; or\n(ii)substantial damage to property or to the environment;\n“conveyance” includes any vessel, vehicle, train, aircraft or other mode of transport;\n“country” includes a State or territory;\n“government” means the government of a country, and includes the legislature and judiciary of the country;\n“ionising radiation” means any electromagnetic radiation or corpuscular radiation that gives rise to the formation of ion pairs on interaction with matter;\n“military forces of a State” means —\n(a)the armed forces of a country, which are organised, trained and equipped under its internal law for the primary purpose of national defence or security;\n(b)civilians who direct or organise the official activities of those armed forces; or\n(c)civilians acting in support of the official activities of those armed forces, if those civilians are under the formal command, control and responsibility of those forces;\n“nuclear facility” means —\n(a)any nuclear reactor (including a nuclear reactor installed on any vessel, vehicle, aircraft or space object for use as an energy source for propelling that vessel, vehicle, aircraft or space object, or for any other purpose); or\n(b)any plant or conveyance used for the production, storage, processing or transport of radioactive material;\n“nuclear material” means —\n(a)plutonium, except plutonium with an isotopic concentration of plutonium‑238 exceeding 80%;\n(b)uranium‑233;\n(c)uranium containing uranium‑233 or uranium‑235 or both in such an amount that the abundance ratio of the sum of those isotopes to uranium‑238 is greater than the ratio of uranium‑235 to uranium‑238 occurring in nature;\n(d)uranium with an isotopic concentration equal to that occurring in nature, but not in the form of ore or ore residue; or\n(e)any material containing one or more of the materials mentioned in paragraphs (a) to (d);\n“nuclear terrorism offence” means —\n(a)an offence under section 4, 5, 6, 7, 8, 9 or 10;\n(b)an abetment of or a conspiracy to commit an offence under section 4, 5, 6, 7, 8 or 9; or\n(c)an act by a person that would make the person liable for an offence mentioned in paragraph (a) by virtue of section 34 or 35 of the Penal Code 1871;\n“radioactive material” means any nuclear material or any other radioactive substance;\n“radioactive substance” means any substance —\n(a)that contains one or more nuclides that undergo spontaneous disintegration accompanied by the emission of one or more types of ionising radiation; and\n(b)that, owing to its radiological or fissile properties, may cause —\n(i)the death of, or serious bodily injury to, any individual; or\n(ii)substantial damage to property or to the environment."
+   }
+  },
+  {
+   "id": "SG-H3700-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "3. This Act does not apply to the following activities:\n(a)the activities of armed forces during an armed conflict, as those terms are understood under international humanitarian law, which are governed by that law;\n(b)the activities undertaken by military forces of a State in the exercise of their official duties, to the extent that those activities are governed by other rules of international law."
+   }
+  },
+  {
+   "id": "SG-H3700-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Possessing radioactive material or Convention device"
+   },
+   "text": {
+    "en": "4. A person shall be guilty of an offence, and shall be liable on conviction to imprisonment for a term which may extend to life imprisonment, if —\n(a)the person, intentionally and without lawful authority, possesses any radioactive material or Convention device; and\n(b)the person intends that the radioactive material or Convention device be used to cause —\n(i)the death of, or serious bodily injury to, any individual; or\n(ii)substantial damage to property or to the environment."
+   }
+  },
+  {
+   "id": "SG-H3700-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Making Convention device"
+   },
+   "text": {
+    "en": "5. A person shall be guilty of an offence, and shall be liable on conviction to imprisonment for a term which may extend to life imprisonment, if —\n(a)the person, intentionally and without lawful authority, makes any Convention device; and\n(b)the person intends that the Convention device be used to cause —\n(i)the death of, or serious bodily injury to, any individual; or\n(ii)substantial damage to property or to the environment."
+   }
+  },
+  {
+   "id": "SG-H3700-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Using radioactive material or Convention device"
+   },
+   "text": {
+    "en": "6.—(1) A person shall be guilty of an offence if —\n(a)the person, intentionally and without lawful authority, uses in any way any radioactive material or Convention device; and\n(b)the person intends the use of the radioactive material or Convention device —\n(i)to cause the death of, or serious bodily injury to, any individual;\n(ii)to cause substantial damage to property or to the environment; or\n(iii)to compel any other person, or any international organisation or government, to do or refrain from doing any act.\n(2) A person guilty of an offence under subsection (1) shall on conviction —\n(a)in any case where the person intends the use of the radioactive material or Convention device to cause the death of any individual, and death is caused — be subject to the same punishment as an act under section 300(a) of the Penal Code 1871; or\n(b)in any other case — be punished with imprisonment for life."
+   }
+  },
+  {
+   "id": "SG-H3700-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Using or damaging nuclear facility"
+   },
+   "text": {
+    "en": "7.—(1) A person shall be guilty of an offence if —\n(a)the person, intentionally and without lawful authority, uses or damages a nuclear facility in a manner that causes, or creates a risk of, the release of radioactive material; and\n(b)the person intends the use of, or damage to, the nuclear facility —\n(i)to cause the death of, or serious bodily injury to, any individual;\n(ii)to cause substantial damage to property or to the environment; or\n(iii)to compel any other person, or any international organisation or government, to do or refrain from doing any act.\n(2) A person guilty of an offence under subsection (1) shall on conviction —\n(a)in any case where the person intends the use of, or damage to, the nuclear facility to cause the death of any individual, and death is caused — be subject to the same punishment as an act under section 300(a) of the Penal Code 1871; or\n(b)in any other case — be punished with imprisonment for life."
+   }
+  },
+  {
+   "id": "SG-H3700-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Threatening to do act that would be offence under section 6 or 7"
+   },
+   "text": {
+    "en": "8. Any person who threatens to do any act that would be an offence under section 6 or 7 shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 10 years."
+   }
+  },
+  {
+   "id": "SG-H3700-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Demands relating to radioactive material, Convention device or nuclear facility"
+   },
+   "text": {
+    "en": "9. A person (called in this section the offender) shall be guilty of an offence, and shall be liable on conviction to imprisonment for a term not exceeding 10 years, if —\n(a)the offender, intentionally and without lawful authority, demands that another person —\n(i)make available to the offender, or to any other person, any radioactive material, Convention device or nuclear facility; or\n(ii)give the offender, or any other person, access to any radioactive material, Convention device or nuclear facility; and\n(b)the demand is made or accompanied by the use of force or by threats of any kind."
+   }
+  },
+  {
+   "id": "SG-H3700-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Attempting to commit offence under section 4, 5, 6 or 7"
+   },
+   "text": {
+    "en": "10. Any person who attempts to commit an offence under section 4, 5, 6 or 7, or attempts to cause such an offence to be committed, and in such attempt does any act towards the commission of the offence, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 15 years."
+   }
+  },
+  {
+   "id": "SG-H3700-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Extraterritoriality"
+   },
+   "text": {
+    "en": "11. Any person who, outside Singapore, commits an act that, if committed in Singapore, would constitute a nuclear terrorism offence is deemed to commit the act in Singapore and may be proceeded against, charged, tried and punished accordingly."
+   }
+  },
+  {
+   "id": "SG-H3700-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Assistance under Mutual Assistance in Criminal Matters Act 2000"
+   },
+   "text": {
+    "en": "12.—(1) For the purposes of the provision of assistance under Part 3 of the Mutual Assistance in Criminal Matters Act 2000 to a Convention country for a criminal matter involving a relevant offence of that country, the relevant offence is deemed not to be an offence of a political character.\n(2) In this section —\n“criminal matter” has the meaning given by section 2(1) of the Mutual Assistance in Criminal Matters Act 2000;\n“relevant offence”, in relation to a Convention country, means an offence against the law of that country that consists of or includes conduct which, if the conduct occurred in Singapore, would constitute a nuclear terrorism offence."
+   }
+  },
+  {
+   "id": "SG-H3700-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Extradition"
+   },
+   "text": {
+    "en": "13.—(1) Every nuclear terrorism offence is deemed to be an extradition offence for the purposes of Parts 3, 4 and 5 of the Extradition Act 1968.\n[Act 17 of 2022 wef 01/07/2022]\n(2) For the purposes of the Extradition Act 1968, the term “extradition offence”, in relation to a Convention country that is a declared Commonwealth territory, is deemed to include a relevant offence.\n[Act 17 of 2022 wef 01/07/2022]\n(3) Where no extradition treaty is in force between Singapore and a Convention country that is not a declared Commonwealth territory —\n(a)a notification in the Gazette under section 4 of the Extradition Act 1968 may be made applying that Act as if there were an extradition treaty between Singapore and that Convention country; but\n(b)subject to subsection (4), where the Extradition Act 1968 is applied under paragraph (a), that Act has effect in relation to that Convention country as if the only extradition offences under that Act were the relevant offences of that country.\n[Act 17 of 2022 wef 01/07/2022]\n[Act 17 of 2022 wef 01/07/2022]\n(4) Subsection (3) does not affect any other notification made under section 4 of the Extradition Act 1968.\n(5) Where —\n(a)an extradition treaty is in force between Singapore and a Convention country; and\n(b)the treaty does not provide for the extradition of persons accused of or convicted of a relevant offence of that country,\na notification in the Gazette under section 4 of the Extradition Act 1968 may be made applying that Act in relation to that country as if the treaty provided for the matter mentioned in paragraph (b).\n(6) Where a notification mentioned in subsection (5) is made, any limitation, condition, exception or qualification specified in any other notification made under section 4 of the Extradition Act 1968, or in any Order in Council mentioned in section 3 of that Act, in relation to the Convention country mentioned in subsection (5), to the extent that the limitation, condition, exception or qualification prevents the relevant offence from being considered an extradition offence in relation to that country, is to be disregarded in the application of that Act in relation to that country.\n[Act 17 of 2022 wef 01/07/2022]\n(7) For the purposes of the Extradition Act 1968 —\n(a)any act, wherever committed, is deemed to be an offence within the jurisdiction of a Convention country that is a declared Commonwealth territory, if that act is a relevant offence of that Convention country;\n[Act 17 of 2022 wef 01/07/2022]\n(b)any act, wherever committed, is deemed to be an offence within the jurisdiction of a Convention country that is not a declared Commonwealth territory, and in relation to which the Extradition Act 1968 has been applied by a notification in the Gazette under section 4 of that Act, if that act is a relevant offence of that Convention country; and\n[Act 17 of 2022 wef 01/07/2022]\n(c)any such offence is deemed not to be an offence of a political character.\n(8) In this section —\n“declared Commonwealth territory” has the meaning given by section 2(1) of the Extradition Act 1968;\n[Act 17 of 2022 wef 01/07/2022]\n“relevant offence”, in relation to a Convention country, means an offence against the law of that country where the act or omission constituting the offence or the equivalent act or omission would, if it took place in Singapore —\n(a)constitute a nuclear terrorism offence; or\n(b)be a nuclear terrorism offence if the description of the offence contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence."
+   }
+  },
+  {
+   "id": "SG-H3700-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "No prosecution without Public Prosecutor’s consent"
+   },
+   "text": {
+    "en": "14. A prosecution under this Act must not be instituted except by or with the consent of the Public Prosecutor."
+   }
+  }
+ ]
+}

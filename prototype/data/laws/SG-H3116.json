@@ -1,0 +1,68 @@
+{
+ "id": "SG-H3116",
+ "title": {
+  "zh": null,
+  "en": "Medical Registration (Term of Office) Order 2004",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p39",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MRA1997-S506-2004",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 486,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MRA1997-S506-2004?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 2 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3116-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. This Order may be cited as the Medical Registration (Term of Office) Order 2004 and shall come into operation on 25th August 2004."
+   }
+  },
+  {
+   "id": "SG-H3116-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Term of office of member"
+   },
+   "text": {
+    "en": "2. A person elected on 4th November 2004 as a member of the Medical Council to take the place of a member of the Medical Council —\n(a)who was appointed or elected before 24th January 2003; and\n(b)whose term of office has expired,\nshall hold office for a term of 24 months and 15 days, from 6th November 2004 to 20th November 2006 (both dates inclusive)."
+   }
+  }
+ ]
+}

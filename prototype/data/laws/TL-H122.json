@@ -1,0 +1,484 @@
+{
+ "id": "TL-H122",
+ "title": {
+  "zh": "罢工法",
+  "en": null,
+  "orig": "Lei da Greve"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p03",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2012-02-29",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 5/2012",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 28,
+ "chars": 15246,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2012/serie_1/serie1_no8.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 28 条；逐字取自官方公报 PDF（public/docs/2012/serie_1/serie1_no8.pdf）第 5709–5713 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H122-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Objeto"
+   },
+   "text": {
+    "pt": "A presente lei estabelece o regime jurídico da greve."
+   }
+  },
+  {
+   "id": "TL-H122-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Noção"
+   },
+   "text": {
+    "pt": "1.   Para efeitos da presente lei, greve é a abstenção coletiva voluntária, total ou parcial, concertada e temporária, da prestação de trabalho, contínua ou interpolada, por parte dos trabalhadores.\n2.   Não é considerada greve qualquer forma de redução ou alteração, coletiva, concertada e temporária, dos ritmos e métodos de trabalho, que não impliquem abstenção de trabalho, as quais são passíveis de responsabilidade disciplinar nos termos da legislação laboral."
+   }
+  },
+  {
+   "id": "TL-H122-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Âmbito de aplicação"
+   },
+   "text": {
+    "pt": "A presente lei é aplicável a todos os trabalhadores, incluindo os funcionários e agentes da administração pública, salvo o disposto no artigo 6.º."
+   }
+  },
+  {
+   "id": "TL-H122-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Direito à greve"
+   },
+   "text": {
+    "pt": "1.   A greve constitui, nos termos da Constituição, um direito dos trabalhadores.\n2.   O direito à greve é exercido pelos trabalhadores para defesa e promoção de interesses sócio-profissionais.\n3.   Compete aos trabalhadores definir o âmbito e a natureza dos interesses a defender através da greve."
+   }
+  },
+  {
+   "id": "TL-H122-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Liberdade de adesão à greve"
+   },
+   "text": {
+    "pt": "1.   Os trabalhadores são livres de individualmente aderir ou não à greve.\n2.   Os trabalhadores não podem sofrer discriminação nem, por qualquer forma, ser prejudicados, nomeadamente nas suas relações com a entidade empregadora ou nos seus direitos sindicais, por motivo de adesão ou não adesão a uma greve.\n3.   São nulos os atos, de qualquer natureza, que contrariem o disposto no número anterior."
+   }
+  },
+  {
+   "id": "TL-H122-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Proibição do exercício do direito à greve"
+   },
+   "text": {
+    "pt": "Não é permitido o exercício do direito à greve nas seguintes áreas e aos seguintes trabalhadores:\na)   Forças Militares;\nb)   Forças Policiais;\nc)   Serviço Nacional de Inteligência;\nd)   Agentes e trabalhadores da administração prisional."
+   }
+  },
+  {
+   "id": "TL-H122-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Limitações ao exercício do direito à greve"
+   },
+   "text": {
+    "pt": "1.   O direito à greve por parte dos trabalhadores dos portos, aeroportos, transportes aéreos e marítimos, bem como de outros serviços que produzam bens ou prestem serviços indispensáveis às Forças Armadas e às Forças Policiais, deve ser exercido de modo a não pôr em causa a defesa e o interesse nacional.\n2.   Com vista à preservação desses objetivos, o exercício do direito à greve por parte dos trabalhadores referidos no número anterior, obedece ao seguinte regime:\na)   O prazo de negociações a que se refere o n.° 4 do artigo\n8.° é dilatado para 30 dias;\nb)   A intervenção da Comissão da Função Pública, adiante designada de CFP, e da Inspeção Geral do Trabalho, adiante designada de IGT, prevista no artigo 13.°, com vista a uma solução por acordo, é obrigatória.\n3.   Em caso de greve dos trabalhadores a que se refere o presente artigo, estes ficam obrigados a tomar todas as providências para assegurar, durante a greve, a realização das atividades necessárias à satisfação das necessidades essenciais da população e da defesa nacional, nos termos do artigo 18.°.\n4.   O exercício do direito à greve pode ser suspenso mediante resolução do Conselho de Ministros, desde que se verifiquem alterações da ordem pública e a medida se mostre necessária e adequada ao restabelecimento da normalidade.\n5.   A resolução referida no número anterior especificará os estabelecimentos, serviços e categorias profissionais abrangidos, bem como a duração da suspensão por período não superior a 60 dias, sem prejuízo de prorrogação por iguais períodos mediante prévia autorização do Parlamento Nacional.\nCapítulo II\nDeclaração e proteção da greve"
+   }
+  },
+  {
+   "id": "TL-H122-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Negociações para tentativa de acordo"
+   },
+   "text": {
+    "pt": "1.   Os trabalhadores não devem recorrer à greve sem previamente tentarem resolver o conflito por via de acordo.\n2.   A declaração de greve deve ser obrigatoriamente precedida da apresentação à entidade empregadora respetiva, por escrito, das reivindicações dos trabalhadores.\n3.   A entidade empregadora deve apresentar aos representantes dos trabalhadores, por escrito, a sua resposta às reivindicações, no prazo de cinco dias, salvo se prazo superior for concedido pelos trabalhadores.\n4.   Se o não fizer durante esse prazo, ou, caso o faça, se após um período de negociações de vinte dias não se chegar a acordo, os trabalhadores são livres de declarar a greve nos termos do artigo seguinte."
+   }
+  },
+  {
+   "id": "TL-H122-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Competência para declarar a Ggreve"
+   },
+   "text": {
+    "pt": "1.   O recurso à greve é decidido pelos trabalhadores e respetivas organizações sindicais.\n2.   Sem prejuízo do direito reconhecido às organizações sindicais no número anterior, as assembleias de trabalhadores podem decidir do recurso à greve, por voto secreto, desde que na respetiva empresa, órgão ou serviço, a maioria dos trabalhadores não esteja representada por organizações sindicais e que a assembleia seja expressamente convocada para o efeito por 20% dos trabalhadores.\n3.   As assembleias referidas no número anterior deliberam validamente desde que participe na votação a maioria dos trabalhadores da empresa e que a declaração de greve seja aprovada pela maioria absoluta dos votantes."
+   }
+  },
+  {
+   "id": "TL-H122-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Representação dos trabalhadores"
+   },
+   "text": {
+    "pt": "1.   Os trabalhadores em greve são representados pela organização ou organizações sindicais ou por uma comissão eleita para o efeito, no caso a que se refere o n.° 2 do artigo\n9.°.\n2.   Cabe à organização, ou organizações sindicais, ou à comissão eleita representar os trabalhadores grevistas junto da entidade empregadora e da CFP e da IGT."
+   }
+  },
+  {
+   "id": "TL-H122-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Pré-aviso de greve"
+   },
+   "text": {
+    "pt": "1.   Decidida a greve, nos termos do artigo 9.°, a organização sindical ou a assembleia de trabalhadores, consoante os casos, devem dirigir à entidade empregadora e às estruturas competentes da CFP e da IGT, por meios idóneos, nomeadamente por escrito, um pré-aviso de greve, com um prazo mínimo de cinco dias.\n2.   O pré-aviso deve conter, no mínimo, os seguintes elementos:\na)   Os fundamentos e objetivos da greve;\nb)   A indicação dos estabelecimentos, serviços e categorias profissionais abrangidos pela greve;\nc)   A indicação das organizações sindicais ou comissão eleita;\nd)   A data, hora do início e o período de duração da greve;\ne)   Proposta de definição de serviços necessários à segurança, proteção e manutenção dos equipamentos e instalações da empresa, estabelecimento,  órgào ou serviço.\n3.   Nas situações a que se refere o artigo 18.º, o prazo de préaviso é de 10 dias e deve conter uma proposta de prestação de serviços mínimos."
+   }
+  },
+  {
+   "id": "TL-H122-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Formalidade dos atos"
+   },
+   "text": {
+    "pt": "A apresentação dos documentos referidos na presente lei, nomeadamente as reivindicações e a respetiva resposta, a comunicação da convocação da assembleia de trabalhadores, e a comunicação da declaração de greve, deve ser certificada pela entidade a que se destina, com a passagem de documento comprovativo, mencionando a data da prática do ato."
+   }
+  },
+  {
+   "id": "TL-H122-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Conciliação e mediação"
+   },
+   "text": {
+    "pt": "1.   Os serviços competentes da CFP e da IGT ou do organismo administrativo de coordenação do setor em que se enquadra a atividade da empresa, órgão ou serviço podem proceder, por sua iniciativa ou a pedido de qualquer das partes, a diligências com vista à solução do conflito, bem como à garantia de funcionamento dos serviços essenciais referidos no artigo 18.°.\n2.   Nas reuniões de conciliação é obrigatória a presença de todas as partes envolvidas no conflito."
+   }
+  },
+  {
+   "id": "TL-H122-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Proibição de mudança de equipamentos"
+   },
+   "text": {
+    "pt": "Durante o período de pré-aviso e enquanto durar a greve, não é permitido às entidades empregadoras retirar do local de trabalho quaisquer máquinas ou instrumentos de trabalho podendo, contudo, tomar as medidas necessárias para a conservação e manutenção desses equipamentos e instrumentos."
+   }
+  },
+  {
+   "id": "TL-H122-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Piquetes de greve"
+   },
+   "text": {
+    "pt": "1.   A organização sindical ou a comissão de greve podem organizar piquetes, devidamente identificados, que funcionarão nos limites exteriores dos locais de trabalho, para desenvolver atividades tendentes a persuadir os trabalhadores a aderirem à greve, por meios pacíficos, sem prejuízo do reconhecimento da liberdade de trabalho dos não aderentes.\n2.   Os grevistas que impedirem a prestação de trabalho pelos trabalhadores que não tenham aderido à greve, ou que contra estes exerçam intimidações ou violência, estão sujeitos a responsabilidade penal nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H122-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Proibição de substituição dos grevistas"
+   },
+   "text": {
+    "pt": "A entidade empregadora não pode, durante a greve, substituir os grevistas por pessoas que à data da apresentação das reivindicações, nos termos do artigo 8.º, não trabalhassem no respetivo estabelecimento ou serviço, nem pode, desde aquela data, admitir novos trabalhadores para esse fim, sem prejuízo do disposto no n.° 8 do artigo 18.°.\nCapítulo III\nObrigações dos trabalhadores durante a greve"
+   }
+  },
+  {
+   "id": "TL-H122-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Proteção e acesso às instalações"
+   },
+   "text": {
+    "pt": "1.   Durante a greve, as organizações sindicais e os trabalhadores são obrigados a garantir os serviços necessários à segurança, proteção e manutenção dos equipamentos e instalações da empresa,   órgão ou serviço.\n2.   Durante a greve, são vedados o acesso e a permanência dos trabalhadores grevistas no interior dos locais de trabalho abrangidos com exceção dos trabalhadores que não tenham aderido à greve, dos representantes das organizações sindicais ou da comissão de greve e daqueles que estejam empenhados nas operações de conservação e manutenção desses equipamentos e instalações."
+   }
+  },
+  {
+   "id": "TL-H122-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Obrigações durante a greve"
+   },
+   "text": {
+    "pt": "1.   Nas empresas ou estabelecimentos que se destinem à satisfação de necessidades sociais impreteríveis, bem como em todos os setores, órgãos ou serviços da Administração Pública,  ficam as organizações sindicais e os trabalhadores obrigados a assegurar, durante a greve, a prestação dos serviços mínimos indispensáveis para garantir a satisfação daquelas necessidades.\n2.   Para efeitos do disposto no número anterior, consideramse, nomeadamente, empresas ou estabelecimentos que se destinam à satisfação de necessidades impreteríveis, os relativos a:\na)   Telecomunicações;\nb)   Farmácias e transporte de medicamentos;\nc)   Serviços de abastecimento e distribuição de combustíveis;\nd)   Transportes coletivos de passageiros, cargas e descargas de animais, géneros alimentares deterioráveis e de bens essenciais;\ne)   Meios de comunicação social;\nf)   Serviços médicos e hospitalares;\ng)   Bombeiros;\nh)   Segurança civil;\n(i)   Serviços bancários;\nj)   Serviços funerários;\nk)   Recolha de lixo;\nl)   Serviços de atendimento ao público que assegurem a satisfação de necessidades cuja prestação incumba ao Estado.\n3.   Os serviços mínimos previstos no n.° 1 podem ser definidos por convenção coletiva ou por acordo com os representantes dos trabalhadores.\n4.   Não havendo acordo anterior ao pré-aviso quanto à definição dos serviços mínimos previstos no n.°1, a CFP e a IGT convocam os representantes dos trabalhadores referidos no artigo 10.° e os representantes dos empregadores, tendo em vista a negociação de um acordo quanto aos serviços mínimos e quanto aos meios necessários para os assegurar.\n5.   Na falta de acordo até ao termo do quinto dia posterior ao pré-aviso de greve, a definição dos serviços e dos meios referidos no número anterior é estabelecida por despacho conjunto, devidamente fundamentado, do Presidente da Comissão da Função Pública, membro do Governo responsável pela área do Trabalho e do ministro responsável pelo setor de atividade, com observância dos princípios da necessidade, da adequação e da proporcionalidade.\n6.   O despacho previsto no número anterior produz efeitos imediatamente após a sua notificação aos representantes referidos no n.° 4 e deve ser afixado nas instalações da empresa,  estabelecimentos, órgãos ou serviços, nos locais habitualmente destinados à informação dos trabalhadores.\n7.   Os representantes dos trabalhadores a que se refere o\nartigo 10.° devem designar os trabalhadores que ficam adstritos à prestação dos serviços referidos no n.° 1 e no n.° 1 do artigo 17.°, até quarenta e oito horas antes do início do período de greve, e, se não o fizerem, deve a entidade empregadora proceder a essa designação.\n8.   No caso de incumprimento das obrigações previstas nos n.°s 1 e 7 bem como em casos de justificado interesse nacional e a título excecional, o Conselho de Ministros pode, mediante resolução do Governo, determinar a requisição civil com vista a garantir o funcionamento das empresas ou estabelecimentos, órgãos e serviços referidos nos números anteriores, pelo período de duração da greve.\n9.   A decisão de requisição torna-se eficaz com a sua difusão pelos meios de comunicação social."
+   }
+  },
+  {
+   "id": "TL-H122-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Termo da greve"
+   },
+   "text": {
+    "pt": "A greve termina por deliberação das entidades que a tiverem declarado, por acordo entre as partes ou automaticamente pelo final do prazo para que foi declarada, cessando imediatamente os efeitos previstos no artigo 20.°."
+   }
+  },
+  {
+   "id": "TL-H122-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Efeitos da greve"
+   },
+   "heading": {
+    "pt": "Suspensão da relação jurídico-laboral"
+   },
+   "text": {
+    "pt": "1.   A greve suspende, durante o tempo em que se mantiver, a relação jurídico-laboral, nomeadamente no que se refere ao direito à remuneração e ao dever de obediência, mantendo-se, contudo, os deveres de lealdade e respeito mútuos.\n2.   A suspensão da relação jurídico-laboral, por motivo de greve, não prejudica os direitos dos trabalhadores relativamente a:\na)  Férias;\nb)   Segurança social;\nc)   Antiguidade e efeitos dela decorrentes.\n3.   Os efeitos suspensivos da greve não se verificam em relação aos trabalhadores que se encontrem a prestar serviços mínimos."
+   }
+  },
+  {
+   "id": "TL-H122-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Efeitos da greve"
+   },
+   "heading": {
+    "pt": "Proibição de transferência e despedimento"
+   },
+   "text": {
+    "pt": "Durante o período de pré-aviso, enquanto durar a greve e até 90 dias após o seu termo, a entidade empregadora não pode transferir nem despedir os trabalhadores grevistas, excetuando por razões disciplinares nos termos da legislação laboral."
+   }
+  },
+  {
+   "id": "TL-H122-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Efeitos da greve"
+   },
+   "heading": {
+    "pt": "Suspensão de prazos"
+   },
+   "text": {
+    "pt": "Durante a greve, suspendem-se os prazos relativos a:\na)   Prescrição das sanções disciplinares;\nb)   Instauração e prática de atos de processo disciplinar;\nc)   Estágio de trabalhadores.\nCapítulo V\nLock-out"
+   }
+  },
+  {
+   "id": "TL-H122-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Efeitos da greve"
+   },
+   "text": {
+    "pt": "Proibição do “Lock-out”\n1.   É proibido o lock-out.\n2.   Considera-se lock-out qualquer decisão unilateral da entidade empregadora, que se traduz na paralisação total ou parcial da empresa, do órgão ou serviço, ou na interdição do acesso aos locais de trabalho a alguns ou à totalidade dos trabalhadores e, ainda, na recusa em fornecer-lhes trabalho, condições e instrumentos de trabalho, que determine ou possa determinar a paralisação de todos, ou alguns setores da empresa, do órgão ou serviço ou que, em qualquer caso, vise atingir finalidades alheias à normal atividade da empresa, do órgão ou serviço."
+   }
+  },
+  {
+   "id": "TL-H122-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Infrações e sanções"
+   },
+   "heading": {
+    "pt": "Inobservância da Lei"
+   },
+   "text": {
+    "pt": "1.   A greve declarada ou executada com inobservância do disposto na presente lei faz incorrer os trabalhadores grevistas no regime de faltas injustificadas, sem prejuízo da responsabilidade civil e criminal que ao caso couber.\n2.   Sem prejuízo do disposto no número anterior e de outras penas mais graves previstas na lei, os organizadores de uma greve declarada ou executada com inobservância do disposto no presente diploma, proibida ou cujo exercício tenha sido suspenso, são punidos com pena de prisão até 6 meses ou multa."
+   }
+  },
+  {
+   "id": "TL-H122-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Infrações e sanções"
+   },
+   "heading": {
+    "pt": "Ameaças ou coação à greve"
+   },
+   "text": {
+    "pt": "Aquele que declarar, exercer ou impedir a efetivação de uma greve por meios violentos, ameaças, coação ou qualquer meio fraudulento, é punido com pena de multa de USD 1,000.00 (mil dólares americanos) a USD 5,000.00 (cinco mil dólares americanos), se pena mais grave não couber nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H122-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Infrações e sanções"
+   },
+   "text": {
+    "pt": "“Lock-out” e violação dos direitos dos trabalhadores\n1.   A violação do disposto no n.º 2 do artigo 5.º, nos artigos\n14.°, 16.°, e 21.° da presente lei é punida com pena de multa de USD 5,000.00 (cinco mil dólares americanos) a USD 50,000.00 (cinquenta mil dólares americanos), sem prejuízo da aplicação de sanção mais grave se por lei a ela houver lugar.\n2.   A violação do disposto no artigo 23.º é punida com pena de prisão até 1 ano ou com pena de multa de USD 5,000.00 (cinco mil dólares americanos) a USD 50,000.00 (cinquenta mil dólares americanos), sem prejuízo da aplicação de sanção mais grave se por lei a ela houver lugar."
+   }
+  },
+  {
+   "id": "TL-H122-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Infrações e sanções"
+   },
+   "heading": {
+    "pt": "Tribunais competentes"
+   },
+   "text": {
+    "pt": "Compete aos tribunais judiciais competentes, nos termos gerais do direito, julgar todos as questões decorrentes da aplicação desta lei."
+   }
+  },
+  {
+   "id": "TL-H122-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII Disposições finais"
+   },
+   "heading": {
+    "pt": "Entrada em Vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

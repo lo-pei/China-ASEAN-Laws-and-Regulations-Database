@@ -1,0 +1,74 @@
+{
+ "id": "PH-H5443",
+ "title": {
+  "zh": null,
+  "en": "An Act Declaring September Nine of Every Year a Special Non-Working Public Holiday in the City of Cebu and the Province of Cebu With Its Component Cities and a Special Working Public Holiday in the Rest of the Country, in Honor of the Late President Sergio Osmeña, Sr., amending thereby Batas Pambansa Bilang 937",
+  "orig": "An Act Declaring September Nine of Every Year a Special Non-Working Public Holiday in the City of Cebu and the Province of Cebu With Its Component Cities and a Special Working Public Holiday in the Rest of the Country, in Honor of the Late President Sergio Osmeña, Sr., amending thereby Batas Pambansa Bilang 937"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p77",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1990-05-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6953",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 451,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1990/ra_6953_1990.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1990/ra_6953_1990.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H5443-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "September Nine of every year is hereby declared a special non-working public holiday in the City of Cebu and the Province of Cebu with its component cities and a special working public holiday in the rest of the country, in honor of the late President Sergio Osmeña, Sr."
+   }
+  },
+  {
+   "id": "PH-H5443-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Batas Pambansa Bilang 937 is hereby amended accordingly."
+   }
+  },
+  {
+   "id": "PH-H5443-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect fifteen (15) days following its publication in two (2) national newspapers of general circulation."
+   }
+  }
+ ]
+}

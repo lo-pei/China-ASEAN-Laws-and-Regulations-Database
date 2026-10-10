@@ -1,0 +1,289 @@
+{
+ "id": "SG-H3583",
+ "title": {
+  "zh": null,
+  "en": "Price Control Act 1950",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p45",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act PCA1950",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 19,
+ "chars": 17670,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/PCA1950?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 19 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3583-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Price Control Act 1950."
+   }
+  },
+  {
+   "id": "SG-H3583-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, and in any rule or order made thereunder, unless the context otherwise requires —\n“commission agent” means a person who acts as agent for another in relation to the purchase or sale of goods and is remunerated or to be remunerated by way of commission on the price, and includes an agent remunerated or to be remunerated partly by commission and partly in some other manner;\n“controlled article” means any goods or classes of goods declared to be controlled articles under section 5(a);\n“goods” includes all chattels personal other than things in action and money;\n“maximum price” means the maximum price at which, under the provisions of this Act, goods may be sold;\n“offence under this Act” includes any act or omission declared to be an offence under this Act by any order or rule made under sections 5 and 18;\n“Price Controller” means an officer appointed Price Controller under section 3 and includes any person appointed by the Minister to act in the place of the Price Controller during the Price Controller’s absence from Singapore or his inability from illness or other causes to perform the duties of his office;\n“Price Inspector” means any person appointed under section 3(2) and includes a Chief Price Inspector and an Assistant Price Inspector;\n“price-regulated goods” means goods in respect of which maximum prices have been fixed under section 4 and includes services for which a maximum has been fixed under that section;\n“officer of customs” has the same meaning as in the Customs Act 1960;\n“sell”, with its grammatical variations and cognate expressions, includes an agreement to sell and an offer to sell, and an offer to sell shall be deemed to include the exposing of goods for sale, the publication of a price list, the furnishing of a quotation, or any other act or notification whatsoever by which willingness to enter into any transaction of sale is expressed;\n“selling price” means the actual net price charged to the purchaser of the goods concerned, less all discounts or other allowances;\n“trader” includes any person who carries on the business of selling goods and any person carrying on business in the course of which he supplies goods for the purpose of, or in pursuance of a contract made by him for work, labour and materials."
+   }
+  },
+  {
+   "id": "SG-H3583-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Appointment of Price Controller and other officers"
+   },
+   "text": {
+    "en": "3.—(1) The Minister may appoint a Price Controller and such Deputy Price Controllers and Assistant Price Controllers as he may think fit.\n(2) The Price Controller may appoint such Chief Price Inspectors, Price Inspectors or Assistant Price Inspectors for such areas as he may think fit.\n(3) The Minister may appoint advisory committees to advise the Price Controller on questions relating to the exercise of all or any of the powers conferred on the Price Controller by sections 4, 5 and 8."
+   }
+  },
+  {
+   "id": "SG-H3583-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Prices and charges"
+   },
+   "text": {
+    "en": "4.—(1) The Price Controller may from time to time by order published in the Gazette —\n(a)fix maximum prices, which may include charges for delivery, for the sale of any goods either by declaring the maximum sale price, or by prescribing that the sale price of the goods shall not exceed the price which they cost the seller, plus a stated sum or a stated percentage of that cost price, or by prescribing the manner in which the maximum sale price of the goods shall be ascertained;\n(b)fix the maximum charge that may be made by any person for any service in relation to the supply, repair, maintenance, packing, carriage or storage of goods, which shall include the provision of such materials as may be specified in the order;\n(c)fix the maximum price, or prescribe the manner in which the maximum price shall be ascertained, of any secondhand goods, whether for sale by persons who trade in those goods, or by the private owners of those goods; and\n(d)prescribe what shall constitute a wholesale or retail quantity or transaction either generally or in respect of any special class or classes of goods.\n(2) Under this section the Price Controller may fix a maximum price or charge for service in respect of any goods for one area which differs from the maximum price or the charge for services fixed for another area in respect of like or similar goods."
+   }
+  },
+  {
+   "id": "SG-H3583-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Control of movement, export and import of and dealing in specified goods"
+   },
+   "text": {
+    "en": "5. The Price Controller with the prior approval of the Minister may by order published in the Gazette —\n(a)declare any goods or classes of goods to be controlled articles;\n(b)prohibit the purchase, sale or barter of any controlled article for the purpose of resale in or export from any area specified without his written permission;\n(c)prohibit or control the import or export of any controlled article for the purpose of resale in or export from any area specified without his written permission;\n(d)prohibit or control the movement of controlled articles between any specified areas;\n(e)limit the wholesale or retail dealing in any controlled article to persons holding licences or permits therefor under this Act or any rules made thereunder;\n(f)restrict the sale of any controlled article either by any individual or generally by all persons dealing in the article in any manner in which he thinks fit;\n(g)prescribe such forms as he may think necessary in connection with the matters referred to in paragraphs (a) to (f); and\n(h)declare any act or omission in contravention of the provisions of any order to be an offence under this Act and prescribe penalties therefor provided that no penalty so prescribed shall exceed the maximum penalty prescribed by section 16 in corresponding circumstances."
+   }
+  },
+  {
+   "id": "SG-H3583-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Orders to be presented to Parliament"
+   },
+   "text": {
+    "en": "6. Any order made by the Price Controller under section 4, 5 or 8 shall be published in the Gazette and shall be presented to Parliament as soon as possible after publication and if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of one month from the date when an order was so presented annulling the order or any part thereof as from a specified date, the order or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to anything previously done thereunder or to the making of a new order."
+   }
+  },
+  {
+   "id": "SG-H3583-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Seller to display list of prices"
+   },
+   "text": {
+    "en": "7. Any person who deals in any price-regulated goods shall display in English and in any other language ordered by the Price Controller, in a prominent manner and in a conspicuous position so that it can be easily read and is clearly legible to customers in those parts of his business premises where price-regulated goods are dealt in, a list of the current maximum prices of the price-regulated goods in which he deals and any such person who fails to do so shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3583-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Controller may order display of prices of any goods or class of goods"
+   },
+   "text": {
+    "en": "8. The Price Controller may by order published in the Gazette from time to time require any person who sells by retail any goods or class of goods specified in the order to exhibit clearly and conspicuously in such manner as may be prescribed the price demanded by him for the sale of those goods and any person failing to comply with any such order shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3583-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Offence to sell above fixed price"
+   },
+   "text": {
+    "en": "9.—(1) Any person who sells any price-regulated goods or performs any service at a price which exceeds the maximum price fixed therefor shall be guilty of an offence.\n(2) Any person who knowingly purchases or offers to purchase any price-regulated goods or who knowingly pays or offers to pay for a service a charge which exceeds the maximum charge fixed therefor shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3583-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Refusal to sell goods"
+   },
+   "text": {
+    "en": "10. Any person carrying on a business in the course of which price‑regulated goods are normally sold and who has in his possession a stock of such goods, who —\n(a)falsely denies that he has those goods in his possession; or\n(b)refuses, except with the permission of the Price Controller, to sell those goods in reasonable quantities,\nshall be guilty of an offence:\nProvided that it shall be a good defence to a charge under paragraph (b) that the accused had reasonable grounds for believing that the purchaser was unable or unwilling to make immediate payment of the price of the goods in cash."
+   }
+  },
+  {
+   "id": "SG-H3583-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "General powers of Price Controller"
+   },
+   "text": {
+    "en": "11. The Price Controller or any Deputy Price Controller or any person authorised in writing by any of them is hereby empowered —\n(a)to enter and inspect any premises in the occupation or under the control of any trader, manufacturer, producer, commission agent, clearing and forwarding agent or auctioneer;\n(b)to examine any books, accounts or other documents relating to the trade or business of any trader, manufacturer, producer, commission agent, clearing and forwarding agent or auctioneer, and to require a copy of any such book, account or other document or of the record of any transaction duly certified by the trader, manufacturer, producer, commission agent, clearing and forwarding agent or auctioneer to be produced to him, and further to require that any of those books, accounts or other documents be deposited at his office for examination; and where any of those books, accounts or other documents or records are in a language other than the English language and he is satisfied that the trader, manufacturer, producer, commission agent, clearing and forwarding agent or auctioneer can provide or obtain a translation thereof in the English language, to require such a translation;\n(c)to require in such manner as he may consider sufficient, any trader, manufacturer, producer, commission agent, clearing and forwarding agent or auctioneer to furnish verbally or in writing and in such form as may be required any information in relation to his trade or business; and\n(d)to require any trader, manufacturer, producer or commission agent to submit to him samples of any goods in which he deals."
+   }
+  },
+  {
+   "id": "SG-H3583-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Powers of arrest and seizure"
+   },
+   "text": {
+    "en": "12.—(1) A Price Inspector if so authorised by the Price Controller or any Deputy Price Controller in writing or any police officer or officer of customs if so authorised by the Price Controller in writing may —\n(a)arrest without warrant any person whom he reasonably suspects of having committed an offence under this Act if such person refuses to furnish his name and address or furnishes an address outside Singapore or there are reasonable grounds for believing that he has furnished a false name or address or that he is likely to abscond:\nProvided that when any person has been arrested as aforesaid he shall be thereafter dealt with as provided by section 64 of the Criminal Procedure Code 2010; and\n(b)seize any article which he considers it necessary to seize in relation to the evidence necessary to establish the commission of any such offence.\n[15/2010]\n(2) A Price Inspector if so authorised by the Price Controller or a Deputy Price Controller and any police officer not below the rank of sergeant may without the order of the Public Prosecutor exercise the special powers in relation to police investigations given by the Criminal Procedure Code 2010 in any arrestable case.\n(3) Any prosecution in respect of an offence under this Act may be conducted by the Public Prosecutor or by a Deputy Public Prosecutor or, with the authorisation of the Public Prosecutor, by the Price Controller or by any officer appointed under this Act or under the Control of Essential Supplies Act 1973 or by any police officer not below the rank of sergeant.\n[15/2010]"
+   }
+  },
+  {
+   "id": "SG-H3583-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Offence to obstruct authorities"
+   },
+   "text": {
+    "en": "13. Any person who obstructs any person authorised under this Act to enter and inspect any premises or to examine any books, accounts or other documents, or any person who refuses or delays or fails to produce any books, accounts or other documents or certified copies or translations thereof relating to his trade or business, or who refuses to furnish any information or furnishes false information upon demand being made by a person authorised by this Act, or any person who fails to comply with any order given under this Act, shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3583-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Saving"
+   },
+   "text": {
+    "en": "14. No proceedings shall be instituted under this Act against any person duly authorised in that behalf by the Price Controller who has knowingly purchased goods at a price in excess of that fixed, or in excess of the permitted price, or who has paid a charge for a service in excess of the fixed charge, with the intention of procuring evidence for the purpose of prosecuting the seller for an offence under this Act."
+   }
+  },
+  {
+   "id": "SG-H3583-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Attempts and abetments"
+   },
+   "text": {
+    "en": "15.—(1) Any person attempting to commit or abetting the commission of an offence under this Act shall be guilty of an offence.\n(2) The expressions “attempting to commit” and “abetting the commission of” an offence used in subsection (1) have the same meaning as they have in the Penal Code 1871."
+   }
+  },
+  {
+   "id": "SG-H3583-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Penalties"
+   },
+   "text": {
+    "en": "16.—(1) Any person, other than a body corporate, but including a director or officer of a body corporate, who commits an offence under this Act shall be liable, where no other penalty is specifically provided for such an offence, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 2 years or to both, and in the case of a second or subsequent offence to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 5 years or to both.\n(2) Any body corporate which commits an offence under this Act shall be liable on conviction to a fine not exceeding $10,000 and in the case of a second or subsequent offence to a fine not exceeding $20,000.\n(3) Where a trader or commission agent is convicted of an offence under this Act the court by which he is so convicted may, in addition to any other penalty, make an order debarring him or any firm of which he is a partner or any corporation of which he is an officer, from carrying on business for such period as the court may determine. Any person who fails to comply with any such order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding one year or to both.\n(4) Where a person charged with an offence under this Act is a body corporate every person who, at the time of the commission of the offence, was a director or officer of the body corporate may be charged jointly in the same proceedings with the body corporate, and where the body corporate is convicted of the offence, every such director or officer shall be deemed to be guilty of that offence unless he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of the offence.\n(5) In any proceedings under subsection (4) jointly against a body corporate and a director or officer thereof for an offence under this Act any evidence that the body corporate was guilty of the offence shall be deemed to be evidence that the director or officer was guilty of that offence.\n(6) Any person who would have been liable under any of the provisions of this Act to any penalty for anything done or omitted if the thing had been done or omitted by him personally shall be liable to the same penalty if the thing has been done or omitted by his partner, agent or servant, unless he proves to the satisfaction of the court that he took all reasonable precautions to prevent the doing or omission of the thing.\n(7) A District Court shall have power to try any offence under this Act and may impose the full penalty provided by this Act or by any order or rule made under this Act."
+   }
+  },
+  {
+   "id": "SG-H3583-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "heading": {
+    "en": "Delegation of powers"
+   },
+   "text": {
+    "en": "17. The Price Controller may in writing delegate all or any of his powers, duties or functions under the provisions of this Act to any Deputy Price Controller, Assistant Price Controller, or any other person approved by the Minister, and may at any time revoke or vary such a delegation:\nProvided that no such delegation shall be deemed to divest the Price Controller of all or any of his powers, duties or functions and he may if he thinks fit exercise such powers, duties or functions, notwithstanding the fact that he has so delegated them."
+   }
+  },
+  {
+   "id": "SG-H3583-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "heading": {
+    "en": "Rules"
+   },
+   "text": {
+    "en": "18.—(1) The Minister may from time to time make rules generally to give effect to the provisions of this Act and by such rules may confer upon the Price Controller such powers as he thinks fit.\n(2) Without prejudice to the generality of subsection (1) the Minister may by such rules —\n(a)provide for the keeping of books of account and other records relating to any trade or business in the course of which price-regulated goods or controlled articles are sold;\n(b)prescribe the manner in which such books and records shall be disposed of or preserved;\n(c)prescribe such invoices as he may think fit to be supplied to purchasers by any person selling price-regulated goods or controlled articles;\n(d)empower the Price Controller to certify any fact in relation to any sale of price‑regulated goods or controlled articles and provide for the admissibility of any such certificate in evidence in any proceedings instituted under this Act;\n(e)prescribe marks or labels to be affixed to price-regulated goods or controlled articles or containers of such price‑regulated goods or controlled articles indicating the quality, grade, price or place of origin of such price‑regulated goods or controlled articles; and\n(f)declare any act or omission in contravention of the provisions of any rule to be an offence under this Act and prescribe penalties therefor:\nProvided that no penalty so prescribed shall exceed the maximum penalty prescribed by section 16 in corresponding circumstances.\n(3) Any rules made by the Minister under this Act shall be published in the Gazette.\n(4) Such rules shall be presented to Parliament as soon as possible after publication.\n(5) Such rules shall remain in force until disapproved or altered by a resolution of Parliament.\n(6) Any rule altered by a resolution of Parliament shall come into force as altered from the date of the passing of the resolution and shall have the same force and effect as if enacted in this Act."
+   }
+  },
+  {
+   "id": "SG-H3583-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "heading": {
+    "en": "Forms"
+   },
+   "text": {
+    "en": "19. The Price Controller may prescribe forms for use under this Act."
+   }
+  }
+ ]
+}

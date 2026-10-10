@@ -1,0 +1,64 @@
+{
+ "id": "PH-H929",
+ "title": {
+  "zh": "对《国家国内税收法典》的修改",
+  "en": "An Act to Amend Section Twenty-One of Commonwealth Act Numbered Four Hundred Sixty-Six, Otherwise Known as the National Internal Revenue Code, as Amended",
+  "orig": "An Act to Amend Section Twenty-One of Commonwealth Act Numbered Four Hundred Sixty-Six, Otherwise Known as the National Internal Revenue Code, as Amended"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p13",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1954-06-15",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1094",
+ "officialCode": null,
+ "topics": [
+  "tax"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 4036,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1954/ra_1094_1954.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1954/ra_1094_1954.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H929-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section twenty-one of the National Internal Revenue Code, as amended, is further amended to read as follows:\n\"Sec. 21. Rates of tax on citizens or residents. -There shall be levied, assessed, collected, and paid annually upon the entire net income received by the preceding taxable year from all sources by every individual, a citizen or resident of the Philippines, a tax equal to the sum of the following:\n\"Five per centum per annum upon the amount by which such total net income does not exceed two thousand pesos;\n\"Eight per centum per annum upon the amount by which such total net income exceed two thousand pesos and does not exceed four thousand pesos;\n\"Twelve per centum per annum upon the amount by which such total net income exceeds two thousand pesos;\n\"Sixteen per centum per annum upon the amount by which such total net income exceed six thousand pesos and does not exceed eight thousand pesos;\n\"Twenty per centum per annum upon the amount by which such total net income exceeds eight thousand pesos and does not exceed ten thousand pesos;\n\"Twenty-four per centum per annum upon the amount by which such total net income exceeds ten thousand pesos; and does not exceed twenty thousand pesos;\n\"Thirty per centum per annum upon the amount by which such total net income exceeds twenty thousand pesos and does not exceed thirty thousand pesos;\n\"Thirty-six per centum per annum upon the amount by which such total net income exceeds thirty thousand pesos and does not exceed forty thousand pesos;\n\"Forty per centum per annum upon the amount by which such total net income exceeds forty thousand pesos and does not exceed fifty thousand pesos;\n\"Forty-two per centum per annum upon the amount by which such total net income exceeds fifty thousand pesos and does not exceed sixty thousand pesos;\n\"Forty-four per centum per annum upon the amount by which such total net income exceeds sixty thousand pesos and does not exceed seventy thousand pesos;\n\"Forty-six per centum per annum upon the amount by which such total net income exceeds seventy thousand pesos and does not exceed eighty thousand pesos;\n\"Forty-eight per centum per annum upon the amount by which such total net income exceeds eighty thousand pesos and does not exceed ninety thousand pesos;\n\"Fifty per centum per annum upon the amount by which such total net income exceeds ninety thousand pesos and does not exceed one hundred thousand pesos;\n\"Fifty-two per centum per annum upon the amount by which such total net income exceeds one hundred thousand pesos and does not exceed one hundred and twenty thousand pesos;\n\"Fifty-three per centum per annum upon the amount by which such total net income exceeds one hundred and twenty thousand pesos and does not exceed one hundred and forty thousand pesos;\n\"Fifty-four per centum per annum upon the amount by which such total net income exceeds one hundred and forty thousand pesos and does not exceed one hundred and sixty thousand pesos;\n\"Fifty-five per centum per annum upon the amount by which such total net income exceeds one hundred and sixty thousand pesos and does not exceed one two hundred thousand pesos;\n\"Fifty-six per centum per annum upon the amount by which such total net income exceeds two hundred thousand pesos and does not exceed one two hundred and fifty thousand pesos;\n\"Fifty-seven per centum per annum upon the amount by which such total net income exceeds two hundred and fifty thousand pesos and does not exceed three hundred thousand pesos;\n\"Fifty-nine per centum per annum upon the amount by which such total net income exceeds three hundred thousand pesos and does not exceed four hundred thousand pesos;\n\"Sixty per centum per annum upon the amount by which such total net income exceeds five hundred thousand pesos.\""
+   }
+  },
+  {
+   "id": "PH-H929-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval; Provided, However , That the rates of hereinabove fixed shall apply to income to received from January first, nineteen hundred and fifty-four, to December thirty-first, nineteen hundred and fifty-five.\nApproved: June 15, 1954."
+   }
+  }
+ ]
+}

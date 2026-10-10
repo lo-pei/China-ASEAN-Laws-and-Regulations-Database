@@ -1,0 +1,194 @@
+{
+ "id": "PH-H4568",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Republic Act Numbered Forty-Six Hundred Forty-Five, Known as the Charter of the City of Olongapo",
+  "orig": "An Act Amending Republic Act Numbered Forty-Six Hundred Forty-Five, Known as the Charter of the City of Olongapo"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p65",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1969-06-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 5972",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 15,
+ "chars": 12539,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1969/ra_5972_1969.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 15 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1969/ra_5972_1969.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 22 条，缺 14、15、16、17、18、19、20、21）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号。 源文存在同号重出的条款（第 7 条）：该处官方页面确有两段均标同一 Section 号，本库照录其 `no` 值（不改动官方编号），条文 `id` 以 `_2`「_3」后缀保证唯一。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4568-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section seven of Republic Act Numbered Forty-six hundred forty-five is hereby amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H4568-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "Income, receipts and profits derived from sale and/or administration of alienable and disposable lands of the public domain.—All incomes, receipts and profits derived from the sale, disposition and/or administration of alienable and disposable lands of the public domain within the City of Olongapo shall accrue to a special fund of the city, notwithstanding any provision of law to the contrary, to be used exclusively to finance, directly or indirectly, the public works projects of the City of Olongapo, and shall not be used as a source of funds for the general budget of the City. Direct appropriation of funds from said Special Fund shall be established and made in accordance with a long-term development plan listing projects qualified herein and duly approved by the City Council, upon recommendation by the City Mayor: Provided, That unless such a long term development plan for the City of Olongapo is officially approved by the City Council, no appropriation from the said Special Fund may be legally made: Provided, further, That interests and dividends earned by the indirect use of said Special Fund to finance development projects may be used for the general budget of the City.\""
+   }
+  },
+  {
+   "id": "PH-H4568-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The same Act is further amended by inserting Section seven-A between sections seven and eight thereof to read as follows:\n\"Section 7-A. Lands exempted from public auction. —All commercial and residential lands within the City shall be exempted from the requirement of sale by public auction and the actual and/or legal possessor thereof, shall be given priority in acquiring the lands they occupy notwithstanding the provision of any law to the contrary.\""
+   }
+  },
+  {
+   "id": "PH-H4568-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Subsection (e), section ten of the same Act is hereby amended to read as follows:\n\"(e) To see that the executive officers and employees of the City properly discharge their respective duties and file administrative charges in accordance with the Civil Service Law against erring employees or officials who are receiving fully their salaries from the City and appointed by him or whose appointment is vested in him by the Decentralization Act and other laws, except the chief of police, notwithstanding the provision of any law to the contrary.\""
+   }
+  },
+  {
+   "id": "PH-H4568-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Section twenty-two of the same Act is amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H4568-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "text": {
+    "en": "Officers not to engage in certain transactions. —It shall be unlawful for any city officer, directly or indirectly, individually or as a member of a firm, to engage in any business transaction, with the city or with any of its authorized officials, boards, agents or attorneys whereby money is to be paid, directly or indirectly, out of the resources of the city to such person or firm.\""
+   }
+  },
+  {
+   "id": "PH-H4568-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Section twenty-five of the same Act is hereby amended to read as follows:\n\"Section 25. The city fiscal—His powers, duties and compensation. —There shall be a city fiscal, who shall be the chief prosecuting officer of the city. There shall be eight assistant city fiscals, who shall be known as the first, second, third, fourth and fifth assistant city fiscals, respectively, and three assistant city fiscals with equal rank. The city fiscal and his assistants shall each receive the salary provided for in existing laws to be payable from national funds: Provided, however, That their salaries shall be paid from city funds until such time as the appropriation of the same has been included in the annual Appropriations Act. The city fiscal shall, subject to the general supervision of the Secretary of Justice, have the following general powers and duties:\n\"(a) He shall investigate all charges of crimes, misdemeanors, and violations of laws and city ordinances and prepare the necessary information or make the necessary complaints against the persons accused. He may conduct such investigation by taking oral evidence of reputed witnesses and for this purpose may, by subpoena or subpoena duces tecum summon witnesses to appear and testify under oath before him, or produce documents and other evidence before him, and the attendance of, or the production of documents and other evidence by an absent or recalcitrant witness may be enforced by application for \"warrant of arrest to the city court or the Court of First Instance.\n\"(b) He shall have charge of the prosecution of all crimes, misdemeanors and violations of laws and city ordinances triable in the Court of First Instance of Zambales and the city court, and shall discharge all the duties in respect to criminal prosecution enjoined by law upon provincial fiscals.\n\"(c) He shall cause to be investigated the causes of sudden deaths which have not been satisfactorily explained and when there is suspicion that the cause arose from unlawful acts or omissions of other persons or from foul play. For that purposes he may cause autopsies to be made in case it is deemed necessary and shall be entitled to demand and receive for the purpose of such investigation or autopsies the aid of the city health officer.\n\"(d) He shall at all times render such professional services as the Mayor or City Council may require, and shall have such powers and perform such duties as maybe prescribed by law or ordinances.\""
+   }
+  },
+  {
+   "id": "PH-H4568-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Paragraph (k) is hereby inserted between paragraph (j) and Section twenty nine of the same Act.\n\"(k) He and his representatives shall have the power to arrest violators of health laws, ordinances, rules and regulations and to recommend the revocation or suspension of the permits of the different establishments to the City Mayor for violation of health laws, ordinances, rules and regulations.\""
+   }
+  },
+  {
+   "id": "PH-H4568-A7_2",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "Section thirty of the same Act is hereby amended to read as follows:\n\"Section 30. The Deputy Chief of Police. —There shall be a deputy chief of police whose duties shall be to act as chief in the absence or incapacity of the chief of police and, under the direction of the chief of police to look after the discipline of the police force and perform such other duties as may be imposed upon him by the chief or prescribed by law or ordinance. He shall receive a compensation of not less than ten thousand two hundred pesos per annum.\""
+   }
+  },
+  {
+   "id": "PH-H4568-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "Section thirty-five of the same Act is hereby amended to read as follows:\n\"Section 35. Deputy Chief of the Fire Department. —There shall be a deputy chief of the fire department whose duties shall be to act as chief in the absence or incapacity of the chief of the fire department, and, under the direction of the chief of the fire department, to look after the discipline of the fire force and perform such duties as may be imposed upon him by the chief or prescribe by law or ordinance. He shall receive a compensation of not less than four thousand two hundred pesos per annum.\""
+   }
+  },
+  {
+   "id": "PH-H4568-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "text": {
+    "en": "Section eighty-two of the same Act is hereby amended to read as follows:\n\"Section 82. Regular and Acting Judges of City Court. —There shall be a city court for the City of Olongapo consisting of five branches, for which a presiding and four other judges shall be appointed, to be known, respectively, as judge of the first, second, third, fourth, and fifth branches. The city judges shall each receive a salary in accordance with existing laws: Provided, That such salaries shall be paid by the National Government.\n\"One judge shall be designated by the Secretary of Justice to try traffic cases exclusively. When the public interest so requires, the Secretary of Justice may designate any of the judges to hold sessions at night.\n\"The city court shall have the same jurisdiction in civil and criminal cases and the same incidental powers as are at present conferred by law upon municipal courts and such additional jurisdiction and powers as may hereafter be conferred upon them by law.\n\"In cases of absence, sickness or incapacity of any of the judges of any of the city court and in case of any vacancies in such offices, the Secretary of Justice may designate any municipal judge of any municipality in the Province of Zambales to act as judge of the city court of the City of Olongapo, with all the powers of a regular judge of said court, but such acting judge shall not receive any additional compensation during the time he is acting as such.\""
+   }
+  },
+  {
+   "id": "PH-H4568-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "text": {
+    "en": "Section eighty-three of the same Act is hereby amended to read as follows:\n\"Section 83. Clerks and employees of the City Court. —There shall be a Clerk of Court who shall be assisted by such number of deputies and other personnel as the exigencies of the service demand. The Clerk of Court, his deputies and other employees of the City Court shall be appointed by the City Mayor, in accordance with the Civil Service Law, rules and regulations.\n\"The Clerk of Court shall have charge of all properties, records and exhibits and such documents and papers of the Court. He shall keep the seal of the Court and affix it to all orders, judgments, certificates, records, and other documents issued by the Court. He shall keep a docket of the trials in the Court, wherein he shall record in a summary manner the names of the parties and the various proceedings in civil and criminal cases, the name of the defendant, the charge against him, the names of the witnesses, the date of the arrest, the appearance of the defendant, together with the fines and costs adjudged or collected in accordance with the judgment. He shall be notary public ex officio, and for purposes of this section, the Clerk of Court shall be head of office with the rank and salary of an assistant chief of a city department.\n\"The Clerk of the City Court shall, at the same time, be sheriff of the City and shall as such have the same powers and duties conferred by existing law to provincial sheriffs. The City Council may provide for such number of clerks in the Office of the Clerk of Court as the needs of the service may demand and their salaries shall conform to the rates prescribed under existing laws.\""
+   }
+  },
+  {
+   "id": "PH-H4568-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "text": {
+    "en": "The same Act is further amended by inserting Section twenty-five-A between sections twenty-five and twenty-six thereof to read as follows:\n\"Section 25-A. The City Legal Officer. —There shall be a city legal officer who shall be appointed by the City Mayor from among members of the Bar in the City of Olongapo.\n\"The City Legal Officer shall have the rank, salary and privileges of a city department head and shall have the following powers and duties:\n\"(a) He shall personally or through any assistant represent the City in all civil cases wherein the City or any officer thereof, in his official capacity is a party, and shall prosecute and defend civil actions related to or connected with any city officer or interest: Provided, however, That the City Fiscal or any of his assistants shall assist him in such cases when requested by the City Mayor.\n\"(b) He shall, when directed by the Mayor, institute and prosecute in the City's interest, a suit on any bond, lease, or other contract and upon any breach or violation thereof.\n\"(c) He shall give his opinion in writing when requested by the Mayor or the City Council or any heads of the city departments through the City Mayor upon any question relating to the City.\n\"(d) He shall, when requested, attend meetings of the Council, draw up ordinances, contracts, bonds, leases, and other instruments involving any interest of the City, and inspect and pass upon such instruments already drawn.\n\"(e) He shall attend to other cases and he may be appointed as counsel de officio by any court.\n\"(f) He shall, whenever it is brought to his knowledge that any city officer or employee is guilty of neglect or misconduct in office, or that any person, firm or corporation holding or exercising any franchise or public privilege from the City has failed to comply with any condition, or to pay any consideration mentioned in the grant of such franchise or privilege, investigate or cause to be investigated the same and report to the Mayor.\n\"(g) He shall have the power to administer oaths and to act as notary public ex officio.\n\"(h) He shall have such other powers and perform such other duties as may be assigned to him by the City Mayor or as provided by law or ordinance.\""
+   }
+  },
+  {
+   "id": "PH-H4568-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "text": {
+    "en": "The same Act is further amended by inserting Section one hundred fourteen-A between sections one hundred fourteen and one hundred fifteen thereof to read as follows:\n\"Section 114-A. Repealing Clause .—All laws, executive orders and proclamations or parts thereof inconsistent with any of the provisions of this Act are hereby repealed or modified accordingly.\""
+   }
+  },
+  {
+   "id": "PH-H4568-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, June 21, 1969."
+   }
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "id": "CN-JI-0380",
+ "title": {
+  "zh": "最高人民法院关于审理物业服务纠纷案件适用法律若干问题的解释",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p10",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2009-04-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "最高人民法院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 390,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于审理物业服务纠纷案件适用法律若干问题的解释_20201229.doc",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，第一条至第五条，共 5 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于审理物业服务纠纷案件适用法律若干问题的解释_20201229.doc）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0380-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "第一条"
+   },
+   "text": {
+    "zh": "业主违反物业服务合同或者法律、法规、管理规约，实施妨碍物业服务与管理的行为，物业服务人请求业主承担停止侵害、排除妨碍、恢复原状等相应民事责任的，人民法院应予支持。"
+   }
+  },
+  {
+   "id": "CN-JI-0380-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "第二条"
+   },
+   "text": {
+    "zh": "物业服务人违反物业服务合同约定或者法律、法规、部门规章规定，擅自扩大收费范围、提高收费标准或者重复收费，业主以违规收费为由提出抗辩的，人民法院应予支持。\n业主请求物业服务人退还其已经收取的违规费用的，人民法院应予支持。"
+   }
+  },
+  {
+   "id": "CN-JI-0380-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "第三条"
+   },
+   "text": {
+    "zh": "物业服务合同的权利义务终止后，业主请求物业服务人退还已经预收，但尚未提供物业服务期间的物业费的，人民法院应予支持。"
+   }
+  },
+  {
+   "id": "CN-JI-0380-A4",
+   "no": 4,
+   "noLabel": {
+    "zh": "第四条"
+   },
+   "text": {
+    "zh": "因物业的承租人、借用人或者其他物业使用人实施违反物业服务合同，以及法律、法规或者管理规约的行为引起的物业服务纠纷，人民法院可以参照关于业主的规定处理。"
+   }
+  },
+  {
+   "id": "CN-JI-0380-A5",
+   "no": 5,
+   "noLabel": {
+    "zh": "第五条"
+   },
+   "text": {
+    "zh": "本解释自2009年10月1日起施行。\n本解释施行前已经终审，本解释施行后当事人申请再审或者按照审判监督程序决定再审的案件，不适用本解释。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于审理物业服务纠纷案件适用法律若干问题的解释"
+  },
+  "issuingBody": {
+   "zh": "最高人民法院"
+  },
+  "promulgatedDate": "2009-04-20",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

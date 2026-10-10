@@ -1,0 +1,52 @@
+{
+ "id": "SG-H230",
+ "title": {
+  "zh": null,
+  "en": "Appointment of Licensing Officer",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p03",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation SGQA1970-N1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 339,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/SGQA1970-N1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 1 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H230-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Sand and Granite Quarries Act\n(CHAPTER 284, Section 3)\nAppointment of Licensing Officer\nN 1\nREVISED EDITION 2001\n(31st January 2001)\n[26th May 1999]\nThe Minister for National Development has appointed the Director, Business Development Division, Building and Construction Authority, to be the Licensing Officer for the purposes of the Act."
+   }
+  }
+ ]
+}

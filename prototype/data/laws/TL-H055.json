@@ -1,0 +1,537 @@
+{
+ "id": "TL-H055",
+ "title": {
+  "zh": "法律Serviço Militar",
+  "en": null,
+  "orig": "Lei do Serviço Militar"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2007-02-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 3/2007",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 36,
+ "chars": 14350,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2007/serie_1/serie1_no3.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 36 条；逐字取自官方公报 PDF（public/docs/2007/serie_1/serie1_no3.pdf）第 1681–1686 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H055-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Conceito e objectivos do serviço militar"
+   },
+   "text": {
+    "pt": "1.   Constitui dever de todos os cidadãos timorenses a participação na defesa da independência, soberania e integridade territorial.\n2.   O serviço militar integra-se no contributo para a defesa da Pátria, no âmbito militar, a prestar pelos cidadãos, nos termos da presente lei.\n3.   O serviço militar, além de constituir um instrumento de promoção da unidade nacional e de desenvolvimento da consciência patriótica, serve ainda a valorização cívica, cultural, física e profissional dos cidadãos que o cumprem."
+   }
+  },
+  {
+   "id": "TL-H055-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Serviço Militar"
+   },
+   "text": {
+    "pt": "O serviço militar tem carácter universal na fase de recenseamento, podendo ser chamados à prestação de serviço militar e ao cumprimento das obrigações militares dele decorrentes, todos os cidadãos timorenses dos 18 aos 30 anos de idade."
+   }
+  },
+  {
+   "id": "TL-H055-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "heading": {
+    "pt": "Situação do serviço militar"
+   },
+   "text": {
+    "pt": "O serviço militar abrange as seguintes situações:\na) Reserva de recrutamento;\nb) Serviço efectivo;\nc) Reserva de disponibilidade;\nd) Reserva territorial."
+   }
+  },
+  {
+   "id": "TL-H055-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "heading": {
+    "pt": "Reserva de recrutamento"
+   },
+   "text": {
+    "pt": "A reserva de recrutamento é constituída pelos cidadãos sujeitos a obrigações militares, desde o recenseamento militar até à sua incorporação ou alistamento na reserve territorial."
+   }
+  },
+  {
+   "id": "TL-H055-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "heading": {
+    "pt": "Serviço efectivo"
+   },
+   "text": {
+    "pt": "1.   O serviço efectivo é a situação dos cidadãos enquanto permanecem ao serviço das Forças Armadas.\n2.   O serviço efectivo abrange:\na) Serviço efectivo normal;\nb) Serviço efectivo nos quadros permanentes;\nc) Serviço efectivo em regime de contrato;\nd) Serviço efectivo decorrente de convocação ou mobilização.\n3.   O serviço efectivo normal compreende a prestação de serviço nas Forças Armadas por cidadãos recenseados e sujeitos ao cumprimento das obrigações militares, tendo início no acto de incorporação e termina com a passagem à situação de disponibilidade.\n4.    O serviço efectivo nos quadros permanentes compreende a prestação de serviço pelos cidadãos que, tendo ingressado na carreira militar, se encontram vinculados às Forças Armadas com carácter de permanência.\n5.    O serviço efectivo em regime de contrato, compreende a prestação de serviço pelos cidadãos que continuam ao serviço por um período de tempo limitado, a fixar em legislação especial, com vista a satisfação de necessidades das Forças Armadas ou ao seu eventual recrutamento para os quadros permanentes, de acordo com os quantitativos fixados.\n6.    O serviço efectivo decorrente de convocação ou mobilização é prestado nos termos dos artigos 26º e 27º da presente lei.\n7.    O estatuto dos militares nas diversas situações de serviço efectivo é definido em lei especial.\n8.  Compete ao Ministro da Defesa, face às necessidades apresentadas pelas Forças Armadas, definir anualmente o pessoal a admitir em regime de contrato."
+   }
+  },
+  {
+   "id": "TL-H055-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "heading": {
+    "pt": "Reserva de disponibilidade"
+   },
+   "text": {
+    "pt": "1.   A reserva de disponibilidade é constituída pelos cidadãos que prestaram serviço efectivo, a partir da data em que cessaram essa prestação e até aos 30 anos de idade.\n2.   A disponibilidade é o período subsequente ao termo de serviço efectivo e destina-se a permitir o aumento dos efectivos das Forças Armadas, por convocação ou mobilização, até aos quantitativos tidos por adequados."
+   }
+  },
+  {
+   "id": "TL-H055-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "heading": {
+    "pt": "Reserva territorial"
+   },
+   "text": {
+    "pt": "A reserva territorial é constituída pelos cidadãos que, não tendo cumprido o serviço efectivo, se mantêm sujeitos a obrigações militares.\nCapítulo II\nRecrutamento Militar\nSecção I\nDisposições Gerais"
+   }
+  },
+  {
+   "id": "TL-H055-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "heading": {
+    "pt": "Definição e operações do recrutamento militar"
+   },
+   "text": {
+    "pt": "1.   O recrutamento militar é o conjunto de operações necessárias à obtenção de meios humanos para ingresso nas Forças Armadas.\n2.   O recrutamento compreende as seguintes operações:\na) Recenseamento militar;\nb) Classificação e selecção;\nc) Distribuição e alistamento."
+   }
+  },
+  {
+   "id": "TL-H055-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "heading": {
+    "pt": "Definição de quantitativos a recrutar"
+   },
+   "text": {
+    "pt": "Compete ao Conselho de Ministros, sob proposta do Ministro da Defesa:\na)   Definir os quantitativos anuais de pessoal a incorporar nas Forças Armadas;\nb)   Orientar, aprovar e coordenar os assuntos gerais relativos ao recrutamento militar.\nSecção II\nRecrutamento"
+   }
+  },
+  {
+   "id": "TL-H055-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "heading": {
+    "pt": "Recenseamento military"
+   },
+   "text": {
+    "pt": "1.   O recenseamento militar é a operação do recrutamento  que tem por finalidade  obter a informação de todos os cidadãos que atingem, em cada ano, a idade do início das obrigações militares.\n2.   Constitui obrigação dos cidadãos, a cumprir pelos próprios ou pelos seus representantes legais, apresentarem-se ao recenseamento militar no ano em que completem 18 anos de idade.\n3.   Deve ser dada publicidade pelos meios de comunicação social ao dever de inscrição no recenseamento militar e a publicidade deste dever é realizada com a maior divulgação possível nos seguintes órgãos:\na) Órgãos competentes do Ministério da Defesa;\nb) Administrações distritais;\nc) Embaixadas e Consulados de Timor-Leste."
+   }
+  },
+  {
+   "id": "TL-H055-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "heading": {
+    "pt": "Locais de recenseamento militar"
+   },
+   "text": {
+    "pt": "Os cidadãos, pessoalmente ou através dos seus representantes legais, apresentam-se ao recenseamento militar nos locais a seguir indicados:\na)   Sede das administrações distritais;\nb)   Delegações territoriais do Ministério de Defesa, se as houver;\nc)   Missão consular da área de residência, para os cidadãos residentes no estrangeiro."
+   }
+  },
+  {
+   "id": "TL-H055-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "heading": {
+    "pt": "Informação a prestar no acto de apresentação ao recenseamento"
+   },
+   "text": {
+    "pt": "No acto de apresentação ao recenseamento, o cidadão deve ser informado sobre os objectivos do serviço militar e os deveres dele decorrentes."
+   }
+  },
+  {
+   "id": "TL-H055-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "heading": {
+    "pt": "Não apresentação ao recenseamento militar"
+   },
+   "text": {
+    "pt": "O cidadão que não se apresente ao recenseamento militar no período e local indicados, deve apresentar-se, para efeitos de regularização da situação militar, no órgão de recenseamento competente ou nos postos consulares respectivos, conforme resida dentro ou fora do país, sendo considerado faltoso ao recenseamento militar, o cidadão que não justifique a falta no prazo de 30 dias após a data limite de recenseamento."
+   }
+  },
+  {
+   "id": "TL-H055-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "heading": {
+    "pt": "Classificação e selecção"
+   },
+   "text": {
+    "pt": "1.   Os cidadãos recenseados são convocados, com uma antecedência mínima de 45 dias, para efectuarem as provas de classificação e selecção para efeitos da sua avaliação física e psicotécnica.\n2.   As provas de classificação e selecção têm por finalidade:\na)   Determinação do grau de aptidão psicofísica dos cidadãos para efeitos de prestação do service militar, em resultado do qual é atribuída uma das seguintes classificações:\n(i)    Apto; (ii)   Inapto; (iii)   Aguarda classificação.\nb)   Agrupamento dos cidadãos classificados de aptos em famílias de especialidades ou classes, de acordo com as respectivas aptidões físicas, psíquicas, técnicas, profissionais e outras, tendo em vista a sua futura distribuição pelas diferentes componentes, escalões, especialidades ou classes das Forças Armadas.\n3.   Os cidadãos considerados aptos podem facultar elementos sobre as suas preferências, em termos de componentes, de especialidades e de área geográfica de cumprimento do service militar, os quais serão tidos em consideração sempre que deles não resultem prejuízos para as necessidades das Forças Armadas.\n4.   Da classificação referida na alínea a) do nº 2 do presente artigo pode ser interposto recurso nas condições estabelecidas em regulamentação própria.\n5.   No final das provas de classificação e selecção, os cidadãos considerados aptos são proclamados recrutas.\n6.   Para efeitos do disposto nas alíneas a) e b) do nº 2 do presente artigo, os organismos públicos ou privados são obrigados a dispensar os cidadãos abrangidos que se encontrem na sua dependência."
+   }
+  },
+  {
+   "id": "TL-H055-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "heading": {
+    "pt": "Não apresentação nas provas de classificação e selecção"
+   },
+   "text": {
+    "pt": "O cidadão que não se apresente às provas de classificação e selecção para que foi convocado e não justifique a falta no prazo de 30 dias, ou se recuse a realizar algumas daquelas provas, é considerado compelido à prestação do serviço militar, cumprindo todo o serviço efectivo normal, caso seja considerado apto."
+   }
+  },
+  {
+   "id": "TL-H055-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "heading": {
+    "pt": "Distribuição"
+   },
+   "text": {
+    "pt": "A distribuição consiste na atribuição quantitativa e qualitativa dos recrutas pelas components das Forças Armadas, segundo as necessidades destas, devendo, sempre que possível, ter-se em conta o disposto no nº 3, do artigo 14º."
+   }
+  },
+  {
+   "id": "TL-H055-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "heading": {
+    "pt": "Alistamento"
+   },
+   "text": {
+    "pt": "1.   O alistamento é a atribuição nominal dos cidadãos a cada componente das Forças Armadas ou reserva territorial.\n2.   Os critérios para a determinação dos cidadãos que integram a reserva territorial são objecto de regulamentação própria."
+   }
+  },
+  {
+   "id": "TL-H055-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "heading": {
+    "pt": "Adiamento das obrigações militares"
+   },
+   "text": {
+    "pt": "Constituem motivos de adiamento das provas de classificação e selecção:\na)   Frequência de curso em estabelecimento de ensino superior ou equiparado, no país ou no estrangeiro, sendo o limite máximo do adiamento o dia 31 de Dezembro do ano em que o cidadão complete 28 anos de idade;\nb)   Ter residência legal no estrangeiro com carácter permanente e contínuo, iniciada anteriormente ao ano em que o cidadão complete 18 anos de idade;\nc)   Invocação de qualidade cujo estatuto legal o determine."
+   }
+  },
+  {
+   "id": "TL-H055-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "heading": {
+    "pt": "Dispensa e isenção de obrigações militares"
+   },
+   "text": {
+    "pt": "Podem requerer dispensa de cumprimento do serviço militar, sendo alistados directamente na reserva territorial:\na)   Os filhos ou irmãos de cidadãos falecidos em consequência do cumprimento de obrigações militares;\nb)   Os filhos únicos que tenham a seu cargo pais incapacitados por deficiência física ou psíquica;\nc)   O cidadão que tenha a seu exclusivo cargo cônjuge, ascendente, ou descendente, irmão ou sobrinho menor de 18 anos, ou pessoa que criou e educou.\nd)   Doença prolongada comprovada por autoridade pública competente."
+   }
+  },
+  {
+   "id": "TL-H055-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "heading": {
+    "pt": "Exclusão temporária"
+   },
+   "text": {
+    "pt": "Constitui motivo de exclusão temporária da prestação do serviço militar, o cumprimento de pena de prisão ou sujeição a medidas de segurança que, pela sua natureza, sejam incompatíveis com a presença nas fileiras.\nCapítulo III\nServiço efectivo nas Forças Armadas"
+   }
+  },
+  {
+   "id": "TL-H055-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "heading": {
+    "pt": "Serviço efectivo normal"
+   },
+   "text": {
+    "pt": "O serviço efectivo normal compreende:\na)   Incorporação;\nb)   A preparação militar geral;\nc)   O período nas fileiras."
+   }
+  },
+  {
+   "id": "TL-H055-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "heading": {
+    "pt": "Incorporação"
+   },
+   "text": {
+    "pt": "1.   A incorporação consiste na apresentação dos cidadãos recrutas nas unidades e estabelecimentos militares das componentes das Forças Armadas em que foram alistados.\n2.   A incorporação tem lugar, normalmente, no ano em que o cidadão completa 20 anos de idade.\n3.   O cidadão recruta que não se apresente à incorporação na unidade ou estabelecimento militar para que foi convocado e não justifique a falta cometida no prazo de 30 dias é considerado refractário."
+   }
+  },
+  {
+   "id": "TL-H055-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "heading": {
+    "pt": "Preparação militar geral"
+   },
+   "text": {
+    "pt": "1.   A preparação militar geral consiste na formação básica dos incorporados, adequada às características de cada componente das Forças Armadas e termina com o acto do juramento de bandeira.\n2.   O juramento de bandeira é um acto solene, com tropas em parada, sempre prestado perante a Bandeira Nacional."
+   }
+  },
+  {
+   "id": "TL-H055-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "heading": {
+    "pt": "Período nas fileiras"
+   },
+   "text": {
+    "pt": "O período nas fileiras inicia-se com a incorporação e abrange a preparação militar geral e a preparação complementar, quando deva ter lugar, e o serviço prestado nas unidades ou estabelecimentos militares."
+   }
+  },
+  {
+   "id": "TL-H055-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "heading": {
+    "pt": "Duração do serviço efectivo"
+   },
+   "text": {
+    "pt": "1.   O serviço efectivo normal tem a duração de 18 meses e tem início no acto de incorporação, sem prejuízo do disposto nos nºs 2 e 4 do presente artigo.\n2.   A passagem à situação de disponibilidade de classes, categorias ou especialidades, em excesso nas fileiras, pode ser antecipada, em condições a estabelecer por regulamento.\n3.    Sempre que as necessidades de defesa nacional não estejam suficientemente asseguradas pelo conjunto de regimes de prestação de serviço efectivo referidos nos números anteriores, o Conselho de Ministros, sob proposta do Ministro da Defesa, pode, a título excepcional, determinar a extensão do período do serviço efectivo normal previsto no nº 1 do presente artigo, até ao limite de 12 meses.\n4.   Para efeitos do disposto do número anterior, o critério de determinação dos cidadãos a permanecer nas fileiras para além do período previsto no nº 1 do presente artigo exclui, por ordem de prioridade, aqueles que sejam:\na) Casados;\nb) Responsáveis por encargos de família;\n5.   Em caso de necessidade de escolha dentro de cada grupo referido nas alíneas a) e b) do número anterior, utiliza-se o critério da idade, preferindo-se os mais velhos aos mais novos."
+   }
+  },
+  {
+   "id": "TL-H055-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "heading": {
+    "pt": "Serviço efectivo decorrente de convocação"
+   },
+   "text": {
+    "pt": "1.   Os cidadãos na situação de disponibilidade podem ser convocados para prestação de service efectivo, nas seguintes situações:\na)   Para efeitos de reciclagem, treinos, exercícios ou manobras militares;\nb)   Para fazer face a situações de perigo de guerra ou de agressão, iminente ou efectiva, por forces estrangeiras enquanto não for decretada a mobilização militar geral.\n2.   Podem ser dispensados da prestação de serviço efectivo, para além dos casos contemplados em diplomas próprios, os cidadãos que exercem funções legalmente consideradas indispensáveis ao funcionamento de serviços públicos essenciais e de actividades privadas imprescindíveis à vida do País.\n3.   Durante a prestação de serviço nos termos da alínea a), do nº 1, do presente artigo, os cidadãos conservam os seus direitos no posto de trabalho, incluindo o direito à retribuição e a férias."
+   }
+  },
+  {
+   "id": "TL-H055-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "heading": {
+    "pt": "Serviço efectivo decorrente de mobilização militar"
+   },
+   "text": {
+    "pt": "1.   Os cidadãos nas situações de disponibilidade podem ser mobilizados para prestar service efectivo nas Forças Armadas perante a declaração de estado de sítio;\n2.   Aos cidadãos abrangidos pelo serviço efectivo decorrente de mobilização militar, é aplicável o disposto no nº 2, do artigo anterior."
+   }
+  },
+  {
+   "id": "TL-H055-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Disposições complementares"
+   },
+   "heading": {
+    "pt": "Obrigações gerais dos cidadãos"
+   },
+   "text": {
+    "pt": "Enquanto estiverem sujeitos às obrigações militares definidas pela presente lei, os cidadãos com idades compreendidas entre os 18 aos 30 anos têm os seguintes deveres:\na)   Dar conhecimento das alterações de residência à entidade militar de que dependem;\nb)   Comunicar à entidade referida na alínea anterior, a obtenção de habilitações literárias, técnicas, profissionais e outras que correspondam à aquisição de conhecimentos com interesse para as Forças Armadas;\nc)   Apresentar-se nos dias, horas e locais legalmente determinados pela autoridade militar competente."
+   }
+  },
+  {
+   "id": "TL-H055-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Disposições complementares"
+   },
+   "heading": {
+    "pt": "Outros direitos e deveres"
+   },
+   "text": {
+    "pt": "1.   Nenhum cidadão pode ser prejudicado na sua colocação, nos seus benefícios sociais ou no emprego em virtude do cumprimento das obrigações militares estabelecidas na presente lei.\n2.   Aos cidadãos em cumprimento de serviço efectivo são reconhecidos outros direitos e deveres constantes de respectivo estatuto."
+   }
+  },
+  {
+   "id": "TL-H055-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Disposições complementares"
+   },
+   "heading": {
+    "pt": "Condicionantes na obtenção de emprego"
+   },
+   "text": {
+    "pt": "É vedada a admissão ou o acesso ao emprego em instituições do Estado ou em outras entidades públicas de cidadãos que estejam em situação de incumprimento das normas previstas na presente lei."
+   }
+  },
+  {
+   "id": "TL-H055-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Disposições complementares"
+   },
+   "heading": {
+    "pt": "Isenção de emolumentos"
+   },
+   "text": {
+    "pt": "São isentos de emolumentos os actos necessários à organização dos processos para fins militares, incluindo os efectuados pelos estabelecimentos de ensino e serviços públicos."
+   }
+  },
+  {
+   "id": "TL-H055-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Disposições complementares"
+   },
+   "heading": {
+    "pt": "Situação civil e criminal"
+   },
+   "text": {
+    "pt": "Os registos civis e criminais devem facultar às entidades competentes os pedidos de informação que as mesmas lhe solicitarem para os fins previstos na presente lei."
+   }
+  },
+  {
+   "id": "TL-H055-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Disposições complementares"
+   },
+   "heading": {
+    "pt": "Juramento de bandeira"
+   },
+   "text": {
+    "pt": "Os cidadãos incorporados no serviço militar prestam um juramento de bandeira que os vincula, quer no serviço efectivo, quer após a disponibilidade, nos termos da seguinte fórmula:\n\"Eu__________________________ juro por Deus e por minha honra consagrar todas as minhas energias e a minha vida à defesa da pátria, da Constituição da República e da soberania nacional.\""
+   }
+  },
+  {
+   "id": "TL-H055-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Disposições finais e transitórias"
+   },
+   "heading": {
+    "pt": "Regulamentação"
+   },
+   "text": {
+    "pt": "Compete ao Governo regulamentar a presente lei."
+   }
+  },
+  {
+   "id": "TL-H055-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Disposições finais e transitórias"
+   },
+   "heading": {
+    "pt": "Legislação revogada"
+   },
+   "text": {
+    "pt": "É revogada toda a legislação que disponha contrariamente ao previsto na presente lei."
+   }
+  },
+  {
+   "id": "TL-H055-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Disposições finais e transitórias"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor 60 dias após a sua publicação."
+   }
+  }
+ ]
+}

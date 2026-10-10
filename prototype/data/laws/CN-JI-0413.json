@@ -1,0 +1,130 @@
+{
+ "id": "CN-JI-0413",
+ "title": {
+  "zh": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（一）",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p10",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2006-03-27",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "最高人民法院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 317,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（一）_20140220.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，第一条至第六条，共 6 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（一）_20140220.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0413-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "第一条"
+   },
+   "text": {
+    "zh": "公司法实施后，人民法院尚未审结的和新受理的民事案件，其民事行为或事件发生在公司法实施以前的，适用当时的法律法规和司法解释。"
+   }
+  },
+  {
+   "id": "CN-JI-0413-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "第二条"
+   },
+   "text": {
+    "zh": "因公司法实施前有关民事行为或者事件发生纠纷起诉到人民法院的，如当时的法律法规和司法解释没有明确规定时，可参照适用公司法的有关规定。"
+   }
+  },
+  {
+   "id": "CN-JI-0413-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "第三条"
+   },
+   "text": {
+    "zh": "原告以公司法第二十二条第二款、第七十四条第二款规定事由，向人民法院提起诉讼时，超过公司法规定期限的，人民法院不予受理。"
+   }
+  },
+  {
+   "id": "CN-JI-0413-A4",
+   "no": 4,
+   "noLabel": {
+    "zh": "第四条"
+   },
+   "text": {
+    "zh": "公司法第一百五十一条规定的180日以上连续持股期间，应为股东向人民法院提起诉讼时，已期满的持股时间；规定的合计持有公司百分之一以上股份，是指两个以上股东持股份额的合计。"
+   }
+  },
+  {
+   "id": "CN-JI-0413-A5",
+   "no": 5,
+   "noLabel": {
+    "zh": "第五条"
+   },
+   "text": {
+    "zh": "人民法院对公司法实施前已经终审的案件依法进行再审时，不适用公司法的规定。"
+   }
+  },
+  {
+   "id": "CN-JI-0413-A6",
+   "no": 6,
+   "noLabel": {
+    "zh": "第六条"
+   },
+   "text": {
+    "zh": "本规定自公布之日起实施。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（一）"
+  },
+  "issuingBody": {
+   "zh": "最高人民法院"
+  },
+  "promulgatedDate": "2006-03-27",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

@@ -1,0 +1,440 @@
+{
+ "id": "SG-H765",
+ "title": {
+  "zh": null,
+  "en": "Community Mediation Centres Act 1997",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p10",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act CMCA1997",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 25,
+ "chars": 19745,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/CMCA1997?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 25 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H765-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Community Mediation Centres Act 1997."
+   }
+  },
+  {
+   "id": "SG-H765-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2.—(1) In this Act, unless the context otherwise requires —\n“Community Mediation Centre” means a Community Mediation Centre established under section 3;\n“Director” means a person holding office or duly acting as Director of a Community Mediation Centre;\n“functions” includes powers, authorities and duties;\n“mediation” includes —\n(a)the undertaking of any activity for the purpose of promoting the discussion and settlement of disputes;\n(b)the bringing together of the parties to any dispute for that purpose, either at the request of one of the parties to the dispute or on the initiative of a Director; and\n(c)the follow-up of any matter that is the subject of any such discussion or settlement;\n“mediation session” means a meeting in accordance with this Act between 2 or more parties who are in dispute on any matter;\n“mediator”, in relation to a Community Mediation Centre, means —\n(a)the Director of the Centre; or\n(b)any person for the time being appointed under section 8 as a mediator for the Centre.\n(2) A reference in this Act to the exercise of a function includes, where the function is a duty, a reference to the performance of the duty.\n(3) A reference in this Act to the parties to a mediation session includes a reference to the parties to a dispute in respect of which an application for a mediation session is duly made, but does not include a reference to the mediator conducting the mediation session.\n(4) A reference in this Act to the conduct of a mediation session by a mediator includes a reference to the conduct of a mediation session in the presence, or under the supervision, of the mediator."
+   }
+  },
+  {
+   "id": "SG-H765-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 COMMUNITY MEDIATION CENTRES"
+   },
+   "heading": {
+    "en": "Establishment of Community Mediation Centres"
+   },
+   "text": {
+    "en": "3. Community Mediation Centres are established at any premises that the Minister may, by order in the Gazette, determine and must be operated in accordance with this Act for the purpose of providing mediation services."
+   }
+  },
+  {
+   "id": "SG-H765-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 COMMUNITY MEDIATION CENTRES"
+   },
+   "heading": {
+    "en": "Directors"
+   },
+   "text": {
+    "en": "4. The Minister must appoint a Director for each Community Mediation Centre and the same person may be the Director for more than one Community Mediation Centre."
+   }
+  },
+  {
+   "id": "SG-H765-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 COMMUNITY MEDIATION CENTRES"
+   },
+   "heading": {
+    "en": "Delegation by Director"
+   },
+   "text": {
+    "en": "5.—(1) The Director of a Community Mediation Centre may authorise any member of the staff, employee or officer of the Centre to exercise such of the Director’s functions (except for this power of authorisation) as the Director thinks fit, and the Director may revoke wholly or in part any such authorisation.\n(2) A function which is authorised to be exercised under this section may, while the authorisation remains unrevoked, be exercised from time to time in accordance with the terms of the authorisation.\n(3) An authorisation under this section may be made subject to conditions or limitations.\n(4) Despite any authorisation under this section, the Director may continue to exercise all or any of the functions to which the authorisation relates.\n(5) Any act or thing done in the exercise of a function by a person authorised under this section to exercise the function has the same force and effect as if done by the Director."
+   }
+  },
+  {
+   "id": "SG-H765-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 COMMUNITY MEDIATION CENTRES"
+   },
+   "heading": {
+    "en": "Place of operation of Community Mediation Centres"
+   },
+   "text": {
+    "en": "6.—(1) The principal office of a Community Mediation Centre must be at the premises specified in relation to the Centre in the order under section 3.\n(2) The activities of a Community Mediation Centre may be conducted at its principal office or at any other places that its Director may approve from time to time."
+   }
+  },
+  {
+   "id": "SG-H765-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 COMMUNITY MEDIATION CENTRES"
+   },
+   "heading": {
+    "en": "Records"
+   },
+   "text": {
+    "en": "7.—(1) The Director of a Community Mediation Centre must ensure that such records relating to the activities of the Centre are made and kept as are necessary or appropriate to enable a proper evaluation of Community Mediation Centres under section 16 to be made.\n(2) The records of a Community Mediation Centre relating to any dispute before a mediator in the Centre must be kept for a period of 3 years after the date the dispute is settled before the mediator, or the date of withdrawal from or termination of the mediation, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H765-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 COMMUNITY MEDIATION CENTRES"
+   },
+   "heading": {
+    "en": "Mediators"
+   },
+   "text": {
+    "en": "8.—(1) The Minister may, on the recommendation of the Director of a Community Mediation Centre, appoint any person (other than the Director) as a mediator for the Centre and may revoke the appointment.\n(2) A mediator appointed under subsection (1) is entitled to be paid such remuneration as the Minister may determine and must abide by the terms of any Code of Conduct as the Minister may approve."
+   }
+  },
+  {
+   "id": "SG-H765-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 MEDIATION"
+   },
+   "heading": {
+    "en": "Provision of mediation services"
+   },
+   "text": {
+    "en": "9.—(1) The Director of a Community Mediation Centre is responsible for the provision of mediation services and for the operation and management of the Centre.\n(2) Each mediation session must be conducted by one or more mediators assigned for the purpose by the Director.\n(3) Subject to sections 15, 15A and 15B and the Community Disputes Resolution Act 2015, a dispute must not be accepted for mediation except with the consent of the Director of a Community Mediation Centre who may decline to consent to the acceptance of any dispute for mediation under this Act at the Centre.\n[7/2015; 33/2018]\n[Act 43 of 2024 wef 24/03/2025]\n(4) A mediation session may be terminated at any time by the mediator or by the Director."
+   }
+  },
+  {
+   "id": "SG-H765-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 MEDIATION"
+   },
+   "heading": {
+    "en": "Conduct of mediation sessions"
+   },
+   "text": {
+    "en": "10.—(1) The procedure for starting and conducting a mediation session at a Community Mediation Centre is to be determined by its Director.\n(2) Mediation sessions must be conducted with as little formality and technicality, and with as much expedition, as possible.\n(3) The rules of evidence do not apply to mediation sessions.\n(4) A dispute may not be adjudicated or arbitrated upon at a mediation session.\n(5) A mediation session must be conducted in the absence of the public, but persons who are not parties to a mediation session may, with the permission of the Director and the parties, be present at or participate in a mediation session."
+   }
+  },
+  {
+   "id": "SG-H765-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 MEDIATION"
+   },
+   "heading": {
+    "en": "Disputes"
+   },
+   "text": {
+    "en": "11.—(1) Subject to sections 9(3), 15 and 15A and the Community Disputes Resolution Act 2015, any person may refer to a mediator of a Community Mediation Centre for mediation a case concerning a family, social or community dispute that does not involve a seizable offence under any written law.\n[7/2015; 33/2018]\n(2) A mediation session may be started or continued whether or not the dispute is justiciable before any court, tribunal or body and whether or not the dispute is the subject of any legal proceedings.\n(3) For the purposes of this Act, persons may be treated as being in dispute on any matter if they are not in agreement on the matter (whether or not any relevant negotiations are still in progress)."
+   }
+  },
+  {
+   "id": "SG-H765-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 MEDIATION"
+   },
+   "heading": {
+    "en": "Mediation to be voluntary"
+   },
+   "text": {
+    "en": "12.—(1) Attendance at and participation in a mediation session is voluntary.\n(2) A party to a mediation session may withdraw from the mediation session at any time.\n(2A) Subsections (1) and (2) do not apply to a mediation session that takes place because of a referral under any of the following provisions:\n(a)section 15;\n(b)section 13M or 30 of the Community Disputes Resolution Act 2015;\n(c)section 18A of the Small Claims Tribunals Act 1984.\n[Act 43 of 2024 wef 24/03/2025]\n(3) Attendance at, participation in or withdrawal from, a mediation session conducted under this Act does not affect any rights or remedies that a party to a dispute has apart from this Act."
+   }
+  },
+  {
+   "id": "SG-H765-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 MEDIATION"
+   },
+   "heading": {
+    "en": "Settlement or agreement to be reduced to writing"
+   },
+   "text": {
+    "en": "13.—(1) The terms of any settlement or agreement reached at, or drawn up pursuant to, a mediation session must, if the mediator thinks fit, be reduced to writing and signed by or on behalf of the parties to the mediation session.\n(2) No settlement or agreement is binding on the parties to a mediation session unless it has been reduced to writing with a statement signed by or on behalf of the parties to this effect."
+   }
+  },
+  {
+   "id": "SG-H765-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 MEDIATION"
+   },
+   "heading": {
+    "en": "Representation by agent"
+   },
+   "text": {
+    "en": "14.—(1) A party to a mediation session is not entitled to be represented by an agent unless —\n(a)it appears to the Director that —\n(i)an agent should be permitted to facilitate mediation; and\n(ii)the agent proposed to be appointed has sufficient knowledge of the matter in dispute to enable the agent to represent the party effectively; and\n(b)the Director so approves.\n(1A) Despite subsection (1), in the case of a mediation mentioned in section 12(2A), the Director must not approve the representation of a party by an agent unless —\n(a)the party authorises the agent in writing to represent the party at the mediation session and to agree on the party’s behalf to the terms of any settlement or agreement reached at, or drawn up under, the mediation session; and\n(b)the agent signifies in writing that he or she is willing to represent the party at the mediation session.\n[Act 43 of 2024 wef 24/03/2025]\n(2) Subsection (1) does not prevent —\n(a)where a body corporate is a party to a mediation session — an officer of the body corporate;\n(b)where a corporation that is a body corporate constituted under section 10A of the Land Titles (Strata) Act 1967 is a party to a mediation session — a council or committee member or its managing agent;\n(c)where a statutory body is a party to a mediation session — an officer of the statutory body; or\n(d)where a society registered under section 4 or 4A of the Societies Act 1966 is a party to a mediation session — an officer of the society as defined in section 2 of that Act,\nfrom representing that company, corporation, body corporate or society, as the case may be.\n[4/2010]\n(3) Where a Director approves of the representation of a party by an agent, the approval of the Director may be given subject to any conditions that the Director considers reasonable to ensure that any other party to the mediation session is not substantially disadvantaged by the agent appearing at the mediation session and, where the Director does so, the entitlement of the agent to represent the party is subject to compliance by the agent with those conditions.\n(4) This section does not apply to a claim referred to a mediator of a Community Mediation Centre under section 18A of the Small Claims Tribunals Act 1984.\n[33/2018]"
+   }
+  },
+  {
+   "id": "SG-H765-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 MEDIATION"
+   },
+   "heading": {
+    "en": "Referral of cases by Magistrate"
+   },
+   "text": {
+    "en": "15.—(1) Despite any provision of this Act or any written law, a Magistrate who receives a complaint made by a private person under section 151 of the Criminal Procedure Code 2010 may, if —\n(a)the offence is one for which a summons must ordinarily issue in the first instance according to the fourth column of the First Schedule to the Criminal Procedure Code 2010; and\n(b)the Magistrate is of the opinion, from the nature of the case or the attitude of the parties or both, that the matter may more appropriately be resolved by mediation,\nrefer the complaint to a mediator of a Community Mediation Centre for mediation with or without the consent of both the complainant and the person complained against.\n[6/2004; 15/2010]\n(2) In making any referral under subsection (1), the Magistrate may order the complainant or the person complained against to attend (personally or by a representative permitted under section 14) before a mediator of a Community Mediation Centre —\n(a)at a time and place to be specified in the Magistrate’s order; and\n(b)in a case where the mediation is to be conducted by electronic communication, video conference or other electronic means, at a time to be specified in the Magistrate’s order and in accordance with the electronic means specified in the Magistrate’s order.\n[Act 43 of 2024 wef 24/03/2025]\n(3) In a referral by a Magistrate under this section, the mediator of a Community Mediation Centre must record and notify the Magistrate of the outcome of the mediation to enable the Magistrate to take any further action that the Magistrate thinks fit under the provisions of the Criminal Procedure Code 2010."
+   }
+  },
+  {
+   "id": "SG-H765-A15.001",
+   "no": 15.001,
+   "noLabel": {
+    "en": "15A."
+   },
+   "chapter": {
+    "en": "PART 3 MEDIATION"
+   },
+   "heading": {
+    "en": "Referral of cases under Small Claims Tribunals Act 1984"
+   },
+   "text": {
+    "en": "15A.—(1) Where a claim is referred by a specified person to a mediator of a Community Mediation Centre under section 18A of the Small Claims Tribunals Act 1984 —\n(a)a party to the claim who is required to attend the mediation under that section may do so personally or by a representative permitted under section 23(2) of that Act; and\n(b)the mediator must record and notify the specified person of the outcome of the mediation.\n[33/2018]\n(2) In this section, “specified person” means a tribunal or the Registrar as defined in section 2(1) of the Small Claims Tribunals Act 1984.\n[33/2018]"
+   }
+  },
+  {
+   "id": "SG-H765-A15.002",
+   "no": 15.002,
+   "noLabel": {
+    "en": "15B."
+   },
+   "chapter": {
+    "en": "PART 3 MEDIATION"
+   },
+   "heading": {
+    "en": "Referral of cases under Community Disputes Resolution Act 2015"
+   },
+   "text": {
+    "en": "15B.—(1) Where a complaint or dispute is referred by a specified person under section 13M of the Community Disputes Resolution Act 2015 to a mediator of a Community Mediation Centre —\n(a)a party to the complaint or dispute who is required to attend the mediation under section 13M of that Act may do so personally or by a representative in accordance with that section; and\n(b)the mediator must record and notify the specified person of the outcome of the mediation.\n(2) Where a claim is referred by the Registrar or a tribunal judge under section 30 of the Community Disputes Resolution Act 2015 to a mediator of a Community Mediation Centre —\n(a)a party to the complaint or dispute who is required to attend the mediation under section 30 of that Act may do so personally or by a representative in accordance with that section; and\n(b)the mediator must record and notify the Registrar or tribunal judge (as the case may be) of the outcome of the mediation.\n(3) In this section —\n“Registrar” has the meaning given by section 2 of the Community Disputes Resolution Act 2015;\n“specified person” means a person mentioned in section 13M(2) of the Community Disputes Resolution Act 2015;\n“tribunal judge” means a District Judge designated as a tribunal judge for the Community Disputes Resolution Tribunals under section 14(1)(b) of the Community Disputes Resolution Act 2015.\n[Act 43 of 2024 wef 24/03/2025]"
+   }
+  },
+  {
+   "id": "SG-H765-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Evaluation"
+   },
+   "text": {
+    "en": "16. The Minister may cause or arrange for an evaluation to be made, at such times and in respect of such periods as the Minister thinks fit, of the Community Mediation Centres and of their operation and activities."
+   }
+  },
+  {
+   "id": "SG-H765-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Exoneration from liability"
+   },
+   "text": {
+    "en": "17.—(1) No matter or thing done or omitted to be done by —\n(a)a mediator; or\n(b)a Director or any member of the staff, employee or officer of a Community Mediation Centre,\nshall, if the matter or thing was done in good faith for the purpose of executing the provisions of this Act and did not involve any fraud or wilful misconduct, subject any of them to any action, liability, claim or demand.\n(2) No person shall be concerned to inquire whether or not any circumstance has arisen requiring or authorising a person to act in the office of a Director, and anything done or omitted to be done by that person while so acting is as valid and effectual and has the same consequences as if it had been done or omitted to be done by that Director."
+   }
+  },
+  {
+   "id": "SG-H765-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Order to attend court or order to produce documents in litigation or arbitration"
+   },
+   "text": {
+    "en": "18.—(1) A registrar must not, for the purpose of any court proceedings which relate to or are connected with a dispute referred to a mediator of a Community Mediation Centre, issue —\n(a)an order for the attendance before the court of the mediator, the Director or any member of the staff, employee or officer of the Community Mediation Centre; or\n[Act 25 of 2021 wef 01/04/2022]\n(b)an order for the production to the court of any of the records or documents of the Centre,\nunless the registrar is satisfied that, having regard to all the circumstances of the case, the attendance or production is necessary for the fair disposal of the case or to save costs.\n[42/2005]\n[Act 25 of 2021 wef 01/04/2022]\n(2) Where an order is made by the registrar under subsection (1)(b), it is sufficient compliance for the Centre to produce certified true copies of any of the records or documents and such copies are, subject to section 19, admissible as evidence of the facts stated or contained therein.\n(3) In this section —\n“court” includes an arbitral tribunal;\n“registrar” means —\n(a)the Registrar, the Deputy Registrar or an Assistant Registrar of the Supreme Court, in any case where proceedings are taken in the General Division of the High Court (other than the Family Division thereof), the Appellate Division of the High Court or the Court of Appeal;\n(b)the registrar, the deputy registrar or an assistant registrar of the Family Justice Courts, in any case where proceedings are taken in the Family Division of the High Court, a Family Court or a Youth Court; or\n(c)the registrar or a deputy registrar of the State Courts, in any case where proceedings are taken in a State Court.\n[27/2014; 40/2019]\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H765-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Privilege"
+   },
+   "text": {
+    "en": "19.—(1) Subject to subsection (2), the like privilege with respect to defamation that exists with respect to judicial proceedings and a document produced in judicial proceedings exists with respect to —\n(a)a mediation session; or\n(b)a document or other material sent to, or produced at, a Community Mediation Centre for the purpose of enabling a mediation session to be arranged.\n(2) The privilege conferred by subsection (1) does not extend to a publication made otherwise than —\n(a)at a mediation session;\n(b)as provided by subsection (1)(b); or\n(c)as provided by section 20.\n(3) Evidence of anything said or of any admission made in a mediation session is not admissible in any proceedings before any court, tribunal or body.\n(4) A document prepared for the purposes of, or in the course of, or pursuant to, a mediation session, or any copy thereof is not admissible in evidence in any proceedings before any court, tribunal or body.\n(5) Subsections (3) and (4) do not apply with respect to any evidence or document —\n(a)where the persons in attendance at or named during the mediation session and, in the case of a document, all persons named in the document, consent to admission of the evidence or document;\n(b)in proceedings instituted with respect to any act or omission in connection with which a disclosure has been made under section 20(c); or\n(c)if the court is satisfied that, having regard to all the circumstances of the case, the admission of the evidence or document is necessary for the fair disposal of the case or to save costs.\n(6) In this section, “mediation session” includes any step taken —\n(a)in the course of making arrangements for a mediation session; or\n(b)in the course of the follow-up of a mediation session."
+   }
+  },
+  {
+   "id": "SG-H765-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Secrecy"
+   },
+   "text": {
+    "en": "20. A person who is a mediator, a Director, a member of the staff of a Community Mediation Centre or a person making an evaluation under section 16 or carrying out research mentioned in paragraph (e) may disclose information obtained in connection with the administration or execution of this Act only as follows:\n(a)with the consent of the person from whom the information was obtained;\n(b)in connection with the administration or execution of this Act;\n(c)where there are reasonable grounds to believe that disclosure is necessary to prevent or minimise the danger of injury to any person or damage to any property;\n(d)where the disclosure is reasonably required for the purpose of referring any party or parties to a mediation session to any person, agency, organisation or other body and the disclosure is made with the consent of the parties to the mediation session for the purpose of aiding in the resolution of a dispute between those parties or assisting any such parties in any other manner;\n(e)where the disclosure does not reveal the identity of a person without the person’s consent and is reasonably required for the purposes of research carried out by, or with the approval of, the Director or an evaluation under section 16;\n(f)in accordance with any order of the court or a requirement imposed by or under any written law."
+   }
+  },
+  {
+   "id": "SG-H765-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "text": {
+    "en": "21. [Repealed by Act 16 of 2016]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H765-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Public servants"
+   },
+   "text": {
+    "en": "22. The Director and all members of the staff, employees and officers of Community Mediation Centres are deemed to be public servants for the purposes of the Penal Code 1871."
+   }
+  },
+  {
+   "id": "SG-H765-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Power to make regulations"
+   },
+   "text": {
+    "en": "23.—(1) The Minister may make regulations to —\n(a)regulate the practice and procedure of Community Mediation Centres;\n(b)provide for the training and accreditation of mediators of Community Mediation Centres; and\n(c)prescribe all matters as are necessary or expedient for the proper administration, or to achieve the objects and purposes, of this Act.\n(2) All regulations made under this section must be presented to Parliament as soon as possible after publication in the Gazette."
+   }
+  }
+ ]
+}

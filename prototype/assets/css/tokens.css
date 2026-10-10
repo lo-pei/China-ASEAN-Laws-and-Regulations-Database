@@ -1,0 +1,142 @@
+/* ==========================================================================
+   中国—东盟法律法规数据库 (CALR) · Design Tokens
+   主题：浅色 / 深色 / 跟随系统（html[data-theme] 只取 light|dark，system 由脚本解析）
+   配色：蓝白体系，无金色装饰；蓝色为唯一品牌强调色
+   ========================================================================== */
+
+:root {
+  /* --- 蓝色家族（唯一品牌强调色，亮度提高） --- */
+  --calr-navy-900: #0B1B2B;
+  --calr-navy-800: #10263C;
+  --calr-navy-700: #14304D;
+  --calr-blue-700: #1D4ED8;
+  --calr-blue-600: #2563EB;
+  --calr-blue-500: #3B82F6;
+  --calr-blue-400: #60A5FA;
+  --calr-blue-300: #93C5FD;
+  --calr-blue-100: #DBEAFE;
+  --calr-blue-50: #EFF6FF;
+
+  /* --- 中性（浅色底：#F2F3F6 冷调浅灰 + #FFFFFF 纯白，全站只用这两个底色） --- */
+  --calr-white: #FFFFFF;
+  --calr-cream-50: #F2F3F6;
+  --calr-cream-100: #EBEDF2;
+  --calr-gray-50: #F2F3F6;
+  --calr-gray-100: #EAECF1;
+  --calr-gray-200: #E2E5EB;
+  --calr-gray-300: #CFD3DB;
+  --calr-gray-400: #9AA1AD;
+  --calr-gray-500: #6A7280;
+  --calr-gray-700: #3A3F49;
+  --calr-gray-800: #22262E;
+  --calr-gray-900: #12151A;
+
+  /* --- 语义（金色已移除；警示色改为琥珀，仅用于状态，不作装饰） --- */
+  --calr-accent: var(--calr-blue-600);
+  --calr-success: #10B981;
+  --calr-warning: #F59E0B;
+  --calr-danger: #EF4444;
+  --calr-info: var(--calr-blue-600);
+  --calr-highlight: #FEF3C7;
+
+  --calr-success-bg: #ECFDF5;
+  --calr-warning-bg: #FFFBEB;
+  --calr-danger-bg: #FEF2F2;
+  --calr-info-bg: #EFF6FF;
+
+  /* 语义色的小号文字替代值（满足 WCAG 2.1 AA ≥4.5:1） */
+  --calr-success-text: #047857;
+  --calr-warning-text: #B45309;
+  --calr-danger-text: #B91C1C;
+  --calr-info-text: #1D4ED8;
+  --touch-min: 44px;
+
+  /* --- 语义化界面令牌（浅色） --- */
+  --bg-page: var(--calr-gray-50);
+  --bg-surface: var(--calr-white);
+  --bg-surface-alt: var(--calr-gray-50);
+  --bg-subtle: var(--calr-blue-50);
+  /* 区块交替底色：用于首页内容区之间的区分 */
+  --bg-band: #F2F3F6;
+  --bg-header: #123F73;
+  --bg-footer: #0E3563;
+  --text-primary: var(--calr-gray-900);
+  --text-secondary: var(--calr-gray-500);
+  --text-inverse: #FFFFFF;
+  --text-link: var(--calr-blue-600);
+  --border: #E2E5EB;
+  --border-strong: #CFD3DB;
+  --focus-ring: 0 0 0 3px rgba(37, 99, 235, 0.28);
+
+  /* --- 字体 --- */
+  --font-sans: "Inter", "HarmonyOS Sans SC", "MiSans", "PingFang SC", "Microsoft YaHei UI", "Microsoft YaHei", "Source Han Sans SC", "Noto Sans SC", "Segoe UI", system-ui, sans-serif;
+  --font-brand: "Inter", "HarmonyOS Sans SC", "MiSans", "PingFang SC", "Microsoft YaHei UI", "Microsoft YaHei", system-ui, sans-serif;
+  --font-mono: "Cascadia Mono", "Consolas", "Courier New", monospace;
+  --font-serif-law: "Times New Roman", "Songti SC", "SimSun", serif;
+  --fs-display: 34px;
+  --fs-h1: 26px;
+  --fs-h2: 20px;
+  --fs-h3: 16px;
+  --fs-body: 15px;
+  --fs-small: 13px;
+  --fs-mini: 12px;
+  --lh-body: 1.75;
+
+  /* --- 尺寸 --- */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-pill: 999px;
+  --shadow-sm: 0 1px 2px rgba(15, 23, 42, .06);
+  --shadow-md: 0 6px 16px rgba(15, 23, 42, .10);
+  --shadow-lg: 0 16px 36px rgba(15, 23, 42, .16);
+  --container: 1140px;
+  --gutter: 32px;
+  --header-h: 64px;
+  --transition: 220ms cubic-bezier(.4, 0, .2, 1);
+  --sidebar-w: 320px;
+  --filter-w: 248px;
+}
+
+/* --- 深色主题（较柔和的炭灰蓝，不再用近黑） --- */
+html[data-theme="dark"] {
+  --bg-page: #1C222B;
+  --bg-surface: #262C36;
+  --bg-surface-alt: #212730;
+  --bg-subtle: #27313F;
+  --bg-band: #1A212A;
+  --bg-header: #20262F;
+  --bg-footer: #1A1F27;
+  --text-primary: #E8EDF4;
+  --text-secondary: #9FAAB9;
+  --text-inverse: #E8EDF4;
+  --text-link: var(--calr-blue-400);
+  --border: #363D49;
+  --border-strong: #454D5A;
+  --focus-ring: 0 0 0 3px rgba(96, 165, 250, 0.36);
+  --calr-blue-50: #232C3A;
+  --calr-blue-100: #2C3A4F;
+  --calr-gray-50: #212730;
+  --calr-gray-100: #2A313B;
+  --calr-gray-200: #363D49;
+  --calr-highlight: #3E3416;
+  --calr-success: #34D399;
+  --calr-warning: #FBBF24;
+  --calr-danger: #F87171;
+  --calr-info: var(--calr-blue-400);
+  --calr-success-bg: #1D3A32;
+  --calr-warning-bg: #3A321A;
+  --calr-danger-bg: #3B2325;
+  --calr-info-bg: #232C3A;
+  --calr-success-text: #6EE7B7;
+  --calr-warning-text: #FCD34D;
+  --calr-danger-text: #FCA5A5;
+  --calr-info-text: #93C5FD;
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, .28);
+  --shadow-md: 0 6px 16px rgba(0, 0, 0, .34);
+  --shadow-lg: 0 16px 36px rgba(0, 0, 0, .42);
+}
+
+/* --- 大字模式（法规阅读） --- */
+html[data-fontsize="large"] { --fs-body: 17px; --lh-body: 1.9; }
+html[data-fontsize="xlarge"] { --fs-body: 19px; --lh-body: 2.0; }

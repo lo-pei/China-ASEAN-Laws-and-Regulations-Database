@@ -1,0 +1,357 @@
+{
+ "id": "SG-H3207",
+ "title": {
+  "zh": null,
+  "en": "Merchant Shipping (Tonnage) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p40",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MSA1995-RG12",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 21,
+ "chars": 28718,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MSA1995-RG12?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 21 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 3 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3207-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Merchant Shipping (Tonnage) Regulations."
+   }
+  },
+  {
+   "id": "SG-H3207-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“amidships” means the midpoint of the length (as defined below);\n“Certifying Authority” means the Director of Marine and any other organisation authorised by the Minister under the Merchant Shipping (Authorised Organisations) Regulations 1996 (G.N. No. S 44/96);\n[S 63/96 wef 02/02/1996]\n“Contracting State” means a State which is a party to the Convention;\n“Convention” means the International Convention on Tonnage Measurement of Ships, 1969 signed in London on 23rd June 1969, and any amendment thereto which has come into force and has been accepted by the Government;\n“Director” means the Director of Marine appointed under section 6 of the Act;\n“existing ship” means a ship which is not a new ship;\n“gross tonnage” means the measure of the overall size of a ship determined in accordance with these Regulations;\n“length” means 96% of the total length on a waterline at 85% of the least moulded depth measured from the top of the keel, or the length from the fore side of the stem to the axis of the rudder stock on the waterline, if that be greater. In ships designed with a rake of keel the waterline on which this length is measured shall be parallel to the designed waterline;\n“net tonnage” means the measure of the useful capacity of a ship determined in accordance with these Regulations;\n“new ship” means a ship the keel of which is laid, or which is at a similar stage of construction, on or after 18th July 1982."
+   }
+  },
+  {
+   "id": "SG-H3207-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART I GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "3.—(1) Unless expressly provided otherwise, these Regulations shall apply to the following ships registered or to be registered as Singapore ships:\n(a)new ships of 24 metres in length and above;\n(b)existing ships of 24 metres in length and above which undergo alterations or modifications on or after 18th July 1982 which the Director considers to be a substantial variation in their existing gross tonnage;\n(c)new ships of less than 24 metres in length registered before 6th September 1985 and existing ships, if the owner so requests;\n(d)all existing ships of 24 metres in length and above after 17th July 1994, except that such ships, apart from those mentioned in sub-paragraphs (b) and (c), shall retain their then existing tonnages for the purpose of the application to them of the requirements of other existing Regulations made under the Act;\n(e)new ships of less than 24 metres in length registered on or after 6th September 1985; and\n(f)new ships of less than 24 metres in length registered before 6th September 1985 and existing ships of less than 24 metres in length, which undergo alterations or modifications on or after 6th September 1985 which the Director considers to be a substantial variation in their existing gross tonnage.\n(2) An existing ship of 24 metres in length and above which is registered as a Singapore ship before 18th July 1994 and a new ship of less than 24 metres in length registered as a Singapore ship before 6th September 1985 and an existing ship of less than 24 metres in length may have its gross and net tonnages determined in accordance with the provisions of the tonnage regulations of any maritime nation which were acceptable to the Director prior to 6th September 1985 and these tonnages shall not be re-determined except in accordance with Part II or with the approval of the Director.\n(3) Every Singapore ship which has its gross and net tonnages determined in accordance with Part II shall not have its gross and net tonnages re-determined unless it is in accordance with the provisions of these Regulations."
+   }
+  },
+  {
+   "id": "SG-H3207-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART I GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Interim scheme for tonnage measurement for certain ships"
+   },
+   "text": {
+    "en": "4.—(1) A Singapore ship which is required to have its tonnages determined in accordance with Part II may, at the request of the owner, use the gross tonnage determined in accordance with the provisions of the tonnage regulations of any maritime nation which were acceptable to the Director prior to 6th September 1985 for the purpose of application of the provisions of the Merchant Shipping (Safety Convention) Regulations [Rg 11] and the Merchant Shipping (Non-Convention Ships) Safety Regulations [Rg 9] or any Regulations replacing these Regulations, if —\n(a)the keel of the ship is laid or is at a similar stage of construction not later than 31st December 1985 in respect of all the provisions of those Regulations;\n(b)the keel of the ship is laid or is at a similar stage of construction after 31st December 1985 but before 18th July 1994, only in respect of Regulation 3 of Chapter IV of the Merchant Shipping (Safety Convention) Regulations; and\n(c)the keel of the ship is laid or is at a similar stage of construction after 31st December 1985, only in respect of the provisions of those Regulations applying to cargo ships of less than 1,600 tons gross tonnage (determined as provided above) and until 18th July 1994.\n(2) For a Singapore ship to which paragraph (1) applies, its certificates or other documents issued in accordance with the provisions of those Regulations stated in that paragraph shall show only the gross tonnage as determined under that paragraph with the following footnote:\n“The above gross tonnage has been measured in accordance with tonnage rules which were acceptable to the Government of Singapore prior to the coming into force of the International Convention on Tonnage Measurement of Ships 1969.”.\n(3) In the case of a Singapore ship to which paragraph 1(b) applies, the entry specified in paragraph (2) shall be made only in its Cargo Ship Safety Radiotelephony Certificate."
+   }
+  },
+  {
+   "id": "SG-H3207-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART I GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Director to be notified of alteration or modification of ships"
+   },
+   "text": {
+    "en": "5.—(1) Where —\n(a)a new ship of less than 24 metres in length registered before 6th September 1985 or an existing ship is to undergo any alteration or modification in the construction; or\n(b)a ship which has been issued with a tonnage certificate under the provisions of these Regulations is to undergo alterations in the arrangement, construction, capacity, use of spaces, total number of passengers the ship is permitted to carry as indicated in the ship’s passenger certificate, assigned load line or permitted draught of the ship such as would result in an increase in the gross or net tonnage of the ship, its owner or his representative shall give to the Director prior notification in writing of the intended alteration or modification. The notification shall include details of the nature and extent of the alterations or modifications.\n(2) If the owner of a ship or his representative fails to comply with the requirements of paragraph (1), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000."
+   }
+  },
+  {
+   "id": "SG-H3207-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART I GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Application for determination of tonnages"
+   },
+   "text": {
+    "en": "6.—(1) Application for the determination of the tonnage of a ship shall be made to the Certifying Authority by or on behalf of the owner of the ship.\n(2) The owner of the ship or his representative shall make the ship available for measurement by the Certifying Authority and afford all necessary facilities for its inspection and measurement and shall furnish to the Certifying Authority with such plans, drawings, calculations, specifications and other documents relating to the ship as the Certifying Authority may require."
+   }
+  },
+  {
+   "id": "SG-H3207-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART I GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Issue of certificate"
+   },
+   "text": {
+    "en": "7.—(1) The Certifying Authority shall issue to every ship the gross and net tonnages of which have been determined in accordance with Part II —\n(a)an International Tonnage Certificate (1969) where the length of the ship is 24 metres and above;\n(b)a Singapore Tonnage Certificate where the length of the ship is less than 24 metres.\n(2) The International Tonnage Certificate (1969) and the Singapore Tonnage Certificate shall be in the Forms I and II, respectively, set out in the First Schedule."
+   }
+  },
+  {
+   "id": "SG-H3207-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART I GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Issue of certificate by government of another Contracting State"
+   },
+   "text": {
+    "en": "8.—(1) The Director may request the government of a Contracting State to determine the gross and net tonnages of a Singapore ship or a ship intended to be registered in Singapore to which the Convention applies and issue an International Tonnage Certificate (1969) to the ship in accordance with the Convention.\n(2) The Director may, at the request of the government of a Contracting State, determine the gross and net tonnages of a ship flying the flag of that State and issue an International Tonnage Certificate (1969) to the ship in accordance with the Convention.\n(3) A certificate issued under paragraph (1) or (2) shall be treated as if it were issued under these Regulations."
+   }
+  },
+  {
+   "id": "SG-H3207-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART I GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Cancellation of certificates"
+   },
+   "text": {
+    "en": "9.—(1) Unless decided by the Director otherwise, a certificate issued under these Regulations shall cease to be valid and shall be surrendered to the Director for cancellation if alterations have taken place in the arrangement, construction, capacity, use of spaces total number of passengers the ship is permitted to carry as indicated in the ship’s passenger certificate, assigned load line or permitted draught of the ship, such as would result in an increase in the gross tonnage or net tonnage.\n(2) The International Tonnage Certificate (1969) held by a foreign registered ship at the time of its transfer to the Singapore registry shall remain in force until the expiry of a period of 3 months from the date of the transfer or until the Certifying Authority issues a new International Tonnage Certificate (1969) to replace it, whichever occurs earlier."
+   }
+  },
+  {
+   "id": "SG-H3207-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART I GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Inspection"
+   },
+   "text": {
+    "en": "10.—(1) A ship flying the flag of a Contracting State shall be subject when in Singapore to inspection by the Director. Such inspection shall be limited to the purpose of verifying —\n(a)that the ship is provided with a valid International Tonnage Certificate (1969); and\n(b)that the main characteristics of the ship correspond to the data given in the certificate.\n(2) Any such inspection shall not cause any delay to the ship.\n(3) If the inspection reveals that the main characteristics of the ship differ from those entered in the International Tonnage Certificate (1969) so as to lead to an increase in the gross tonnage or the net tonnage, the government of the State whose flag the ship is flying shall be informed by the Director without delay."
+   }
+  },
+  {
+   "id": "SG-H3207-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART II REGULATIONS FOR DETERMINING GROSS AND NET TONNAGES OF SHIPS"
+   },
+   "heading": {
+    "en": "Determination of gross and net tonnages to be in accordance with this Part"
+   },
+   "text": {
+    "en": "11.—(1) The gross tonnage and the net tonnage shall be determined in accordance with the provisions of this Part.\n(2) The gross tonnage and the net tonnage of novel types of craft whose constructional features are such as to render the application of the provisions of these Regulations unreasonable or impracticable shall be as determined by the Director."
+   }
+  },
+  {
+   "id": "SG-H3207-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART II REGULATIONS FOR DETERMINING GROSS AND NET TONNAGES OF SHIPS"
+   },
+   "heading": {
+    "en": "Definition of terms used in this Part"
+   },
+   "text": {
+    "en": "12.—(1) Upper Deck:\nThe upper deck is the uppermost complete deck exposed to weather and sea, which has permanent means of weathertight closing of all openings in the weather part thereof, and below which all openings in the sides of the ship are fitted with permanent means of watertight closing. In a ship having a stepped upper deck, the lowest line of the exposed deck and the continuation of that line parallel to the upper part of the deck is taken as the upper deck.\n(2) Moulded Depth:\n(a) The moulded depth is the vertical distance measured from the top of the keel to the underside of the upper deck at side. In wood and composite ships the distance is measured from the lower edge of the keel rabbet. Where the form at the lower part of the midship section is of a hollow character, or where thick garboards are fitted, the distance is measured from the point where the line of the flat of the bottom continued inwards cuts the side of the keel.\n(b) In ships having rounded gunwales, the moulded depth shall be measured to the point of intersection of the moulded lines of the deck and side shell plating, the lines extending as through the gunwales were of angular design.\n(c) Where the upper deck is stepped and the raised part of the deck extends over the point at which the moulded depth is to be determined, the moulded depth shall be measured to a line of reference extending from the lower part of the deck along a line parallel with the raised part.\n(3) Breadth:\nThe Breadth is the maximum breadth of the ship, measured amidships to the moulded line of the frame in a ship with a metal shell and to the outer surface of the hull in a ship with a shell of any other material.\n(4) Enclosed Spaces:\nEnclosed spaces are all those spaces which are bounded by the ship’s hull, by fixed or portable partitions or bulkheads, by decks or coverings other than permanent or movable awnings. No break in a deck, nor any opening in the ship’s hull, in a deck or in a covering of a space, or in the partitions or bulkheads of a space, nor the absence of a partition or bulkhead, shall preclude a space from being included in the enclosed space.\n(5) Excluded Spaces:\nNotwithstanding the meaning assigned to “enclosed spaces” in paragraph (4), the spaces referred to in sub-paragraphs (a) to (e) shall be called excluded spaces and shall not be included in the volume of enclosed spaces, except that any such space which fulfils at least one of the following 3 conditions shall be treated as an enclosed space:\n— the space is fitted with shelves or other means for securing cargo or stores;\n— the openings are fitted with any means of closure;\n— the construction provides any possibility of such openings being closed:\n(a)\n(i)A space within an erection opposite an end opening extending from deck to deck except for a curtain plate of a depth not exceeding by more than 25 millimetres the depth of the adjoining deck beams, such opening having a breadth equal to or greater than 90% of the breadth of the deck at the line of the opening of the space. This provision shall be applied so as to exclude from the enclosed spaces only the space between the actual end opening and a line drawn parallel to the line or face of the opening at a distance from the opening equal to one-half of the width of the deck at the line of the opening (Figure 1 in the Second Schedule).\n(ii)Should the width of the space because of any arrangement, except by convergence of the outside plating, become less than 90% of the breadth of the deck, only the space between the line of the opening and a parallel line drawn through the point where the athwartships width of the space becomes equal to, or less than, 90% of the breadth of the deck shall be excluded from the volume of enclosed spaces (Figures 2, 3 and 4 in the Second Schedule).\n(iii)Where an interval which is completely open except for bulwarks or open rails separates any two spaces, the exclusion of one or both of which is permitted under sub‑paragraph (a)(i) or (ii), such exclusion shall not apply if the separation between the two spaces is less than the least half breadth of the deck in way of the separation (Figures 5 and 6 in the Second Schedule).\n(b)A space under an overhead deck covering open to the sea and weather, having no other connection on the exposed sides with the body of the ship than the stanchions necessary for its support. In such a space, open rails or a bulwark and curtain plate may be fitted or stanchions fitted at the ship’s side, provided that the distance between the top of the rails or the bulwark and the curtain plate is not less than 0.75 metres or one-third of the height of the space, whichever is the greater (Figure 7 in the Second Schedule).\n(c)A space in a side-to-side erection directly in way of opposite side openings not less in height than 0.75 metres or one-third of the height of the erection, whichever is the greater. If the opening in such an erection is provided on one side only, the space to be excluded from the volume of enclosed spaces shall be limited inboard from the opening to a maximum of one-half of the breadth of the deck in way of the opening (Figure 8 in the Second Schedule).\n(d)A space in an erection immediately below an uncovered opening in the deck overhead, provided that such an opening is exposed to the weather and the space excluded from enclosed spaces is limited to the area of the opening (Figure 9 in the Second Schedule).\n(e)A recess in the boundary bulkhead of an erection which is exposed to the weather and the opening of which extends from deck to deck without means of closing, provided that the interior width is not greater than the width at the entrance and its extension into the erection is not greater than twice the width of its entrance (Figure 10 in the Second Schedule).\n(6) Passengers:\nA passenger is every person other than:\n(a)the master and the members of the crew or other persons employed or engaged in any capacity on board a ship on the business of that ship; and\n(b)a child under one year of age.\n(7) Cargo Spaces:\nCargo spaces to be included in the computation of net tonnage are enclosed spaces appropriated for the transport of cargo which is to be discharged from the ship, provided that such spaces have been included in the computation of gross tonnage. Such cargo spaces shall be certified by permanent marking with the letters CC (cargo compartment) to be so positioned that they are readily visible and not to be less than 100 millimetres in height.\n(8) Weathertight:\nWeathertight means that in any sea conditions water will not penetrate into the ship.\n(9) Passenger Ship:\nA passenger ship is a ship certified to carry more than 12 passengers."
+   }
+  },
+  {
+   "id": "SG-H3207-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART II REGULATIONS FOR DETERMINING GROSS AND NET TONNAGES OF SHIPS"
+   },
+   "heading": {
+    "en": "Measurement and calculation"
+   },
+   "text": {
+    "en": "13.—(1) All measurement used in the calculation of volumes shall be taken to the nearest centimetre.\n(2) The volumes shall be calculated by generally accepted methods for the space concerned and with an accuracy acceptable to the Certifying Authority.\n(3) The calculation shall be sufficiently detailed to permit easy checking."
+   }
+  },
+  {
+   "id": "SG-H3207-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART II REGULATIONS FOR DETERMINING GROSS AND NET TONNAGES OF SHIPS"
+   },
+   "heading": {
+    "en": "Calculation of volumes"
+   },
+   "text": {
+    "en": "14.—(1) All volumes included in the calculation of gross and net tonnages shall be measured, irrespective of the fitting of insulation or the like, to the inner side of the shell or structural boundary plating in ships constructed of metal, and to the outer surface of the shell or to the inner side of structural boundary surfaces in ships constructed of any other material.\n(2) Volumes of appendages shall be included in the total volume.\n(3) Volumes of spaces open to the sea may be excluded from the total volume."
+   }
+  },
+  {
+   "id": "SG-H3207-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART II REGULATIONS FOR DETERMINING GROSS AND NET TONNAGES OF SHIPS"
+   },
+   "heading": {
+    "en": "Gross tonnage"
+   },
+   "text": {
+    "en": "15. The gross tonnage (GT) of a ship shall be determined by the following formula:\nwhere: V =\nTotal volume of all enclosed spaces of the ship in cubic metres,\nK1 =\n0.2 + 0.02 Log10 V (or as specified in the Third Schedule)."
+   }
+  },
+  {
+   "id": "SG-H3207-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART II REGULATIONS FOR DETERMINING GROSS AND NET TONNAGES OF SHIPS"
+   },
+   "heading": {
+    "en": "Net tonnage"
+   },
+   "text": {
+    "en": "16.—(1) The net tonnage (NT) of a ship shall be determined by the following formula:\nin which formula:\n(a)the factor shall not be taken as greater than unity;\n(b)the term K2Vc shall not be taken as less than 0.25 GT; and\n(c)NT shall not be taken as less than 0.30 GT, and in which:\nVc =\ntotal volume of cargo spaces in cubic metres,\nK2 =\n0.2 + 0.02 log10Vc (or as specified in the Third Schedule),\nK3 =\nD =\nmoulded depth amidships in metres as defined in regulation 12(2),\nd =\nmoulded draught amidships in metres as defined in paragraph (2),\nN1 =\nnumber of passengers in cabins with not more than 8 berths,\nN2 =\nnumber of other passengers,\nN1 + N2 =\ntotal number of passengers the ship is permitted to carry as indicated in the ship’s passenger certificate; when N1 + N2 is less than 13, N1 and N2 shall be taken as zero,\nGT =\ngross tonnage of the ship as determined in accordance with regulation 15.\n(2) The moulded draught “d” referred to in paragraph (1) shall be one of the following draughts:\n(a)for ships to which the International Convention on Load Lines in force applies, the draught corresponding to the Summer Load Line (other than timber load lines) assigned in accordance with that Convention;\n(b)for passenger ships, the draught corresponding to the deepest subdivision load line assigned in accordance with the International Convention for the Safety of Life at Sea in force or any regulations made under the Act;\n(c)for ships to which the International Convention on Load Lines does not apply but which have been assigned a load line in compliance with any regulations made under the Act, the draught corresponding to the summer load line so assigned;\n(d)for ships to which no load line has been assigned but the draught of which is restricted, the maximum permitted draught;\n(e)for other ships, 75% of the moulded depth amidships as defined in regulation 12(2)."
+   }
+  },
+  {
+   "id": "SG-H3207-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART II REGULATIONS FOR DETERMINING GROSS AND NET TONNAGES OF SHIPS"
+   },
+   "heading": {
+    "en": "Tonnage of segregated ballast tanks"
+   },
+   "text": {
+    "en": "17. Where segregated ballast tanks complying with Regulation 13 of Annex 1 of the International Convention for the Prevention of Pollution from Ships, 1973 as modified by the Protocol of 1978 relating to the Convention are provided in oil tankers, an entry may be made on the International Tonnage Certificate (1969) or the Singapore Tonnage Certificate indicating the total tonnage of the tanks. The tonnage of the segregated ballast tanks shall be calculated according to the following formula:\nwhere: V =\ntotal volume of all enclosed spaces of the ship in cubic metres,\nK1 =\n0.2 + 0.02 log10 V (or as specified in the Third Schedule).\nVb =\nthe total volume of segregated ballast tanks in cubic metres measured in accordance with regulation 14."
+   }
+  },
+  {
+   "id": "SG-H3207-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART II REGULATIONS FOR DETERMINING GROSS AND NET TONNAGES OF SHIPS"
+   },
+   "heading": {
+    "en": "Change of net tonnage"
+   },
+   "text": {
+    "en": "18.—(1) When the characteristics of a ship, such as V, Vc, d, N1 or N2 as defined in regulations 15 and 16, are altered and where such an alteration results in an increase in its net tonnage as determined in accordance with regulation 16, the net tonnage of the ship corresponding to the new characteristics shall be determined and shall be applied without delay.\n(2) A ship to which load lines referred to in regulation 16(2)(a) and (b) are concurrently assigned shall be given only one net tonnage as determined in accordance with the provisions of regulation 16 and that tonnage shall be the tonnage applicable to the appropriate assigned load line for the trade in which the ship is engaged.\n(3) When the characteristics of a ship such as V, Vc, d, N1 or N2 as defined in regulations 15 and 16 are altered or when the appropriate assigned load line referred to in paragraph (2) is altered due to the change of the trade in which the ship is engaged, and where such an alteration results in a decrease in its net tonnage as determined in accordance with regulation 16, a new International Tonnage Certificate (1969) or a new Singapore Tonnage Certificate incorporating the net tonnage so determined shall not be issued until 12 months have elapsed from the date on which the current Certificate was issued:\nProvided that this requirement shall not apply —\n(a)if the ship is transferred to the flag of another State; or\n(b)if the ship undergoes alterations or modifications which are deemed by the Director to be of a major character such as the removal of a superstructure which requires an alteration of the assigned load line."
+   }
+  },
+  {
+   "id": "SG-H3207-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 7\nFORM I\nMERCHANT SHIPPING ACT\n(CHAPTER 179)\nMERCHANT SHIPPING (TONNAGE) REGULATIONS\nINTERNATIONAL TONNAGE CERTIFICATE (1969)\n(Official seal).\nIssued under the provisions of the International Convention on Tonnage Measurement of Ships 1969 under the authority of the Government of the Republic of Singapore.\nName of Ship\nOfficial Number\nPort of Registry\n*Date\n*Date on which the keel was laid or the ship was at a similar stage of construction (Article 2 (6) of the Convention), or date on which the ship underwent alterations or modifications of a major character (Article 3 (2) (b) of the Convention), as appropriate.\nMAIN DIMENSIONS.\nLength\n(Article 2 (8) of\nthe Convention)\nBreadth\n(Regulation 2 (3)\nof the Convention)\nMoulded Depth\namidships to Upper Deck\n(Regulation 2 (2)\nof the Convention)\nThe Tonnages of the ship are:\nGROSS TONNAGE ……………………………………\nNET TONNAGE ……………………………………….\nTHIS IS TO CERTIFY that the tonnages of this ship have been determined in accordance with the provisions of the International Convention of Tonnage Measurement of Ships 1969.\nIssued at\n………....……………\n(place of issue of certificate)\n…..…..... 19 ...\n(date of issue)\nThe undersigned declares that he is duly authorised by the Government of the Republic of Singapore to issue this Certificate.\n…………………………….…………….\n(signature of the authorised person issuing\nthe certificate and seal of issuing authority)\n(Reverse side of Certificate)\nSPACES INCLUDED IN TONNAGE\nGROSS TONNAGE\nNET TONNAGE\nName of Space\nLocation\nLength\nName of Space\nLocation\nLength\nUnderdeck\nNUMBER OF PASSENGERS\n(Regulation 4 (1)\nof the Convention)\nNumber of passengers in cabins with not more than 8 berths _________________\nNumber of other passengers\n_________________________________\nEXCLUDED SPACES\n(Regulation 2 (5)\nof the Convention)\nAn asterisk (*) should be added to those spaces listed above which comprise both enclosed and excluded spaces.\nMOULDED DRAUGHT\n(Regulation 4 (2)\nof the Convention)\nDate and place of original measurement _____________________________________\nDate and place of last previous remeasurement ________________________________\nREMARKS:\nFORM II\nMERCHANT SHIPPING ACT\n(CHAPTER 179)\nMERCHANT SHIPPING (TONNAGE) REGULATIONS\nSINGAPORE TONNAGE CERTIFICATE\n(Official seal).\nIssued under the provisions of the Merchant Shipping (Tonnage) Regulations under the authority of the Government of the Republic of Singapore.\nName of Ship\nOfficial Number\nPort of Registry\n*Date\nMAIN DIMENSIONS.\nLength\n(Regulation 2)\nBreadth\n(Regulation 12 (3))\nMoulded Depth\namidships to Upper Deck\n(Regulation 12 (12))\n*Date on which the keel was laid or the ship was at a similar stage of construction (Regulation (2)), or date on which the ship underwent alterations or modifications of a major character (Regulation 3 (1) (f)), as appropriate.\nThe Tonnages of the ship determined in accordance with\nthe Provisions of the Merchant Shipping (Tonnage)\nRegulations are:\nGROSS TONNAGE: …………………….…………..\nNET TONNAGE: ……………………………………\nIssued at\n………………………………...\n(place of issue of certificate)\n….............. 19 ..\n(date of issue)\n………………………………………………......\n(signature of the authorised person issuing\nthe certificate and seal of issuing authority)\n(Reverse side of Certificate)\nSPACES INCLUDED IN TONNAGE\nGROSS TONNAGE\nNET TONNAGE\nName of Space\nLocation\nLength\nName of Space\nLocation\nLength\nUnderdeck\nNUMBER OF PASSENGERS\n(Regulation 16 (1))\nNumber of passengers in cabins with not more than 8 berths _________________\nNumber of other passengers\n_________________________________\nEXCLUDED SPACES\n(Regulation 12 (5))\nAn asterisk (*) should be added to those spaces listed above which comprise both enclosed and excluded spaces.\nMOULDED DRAUGHT\n(Regulation 16 (2))\nDate and place of original measurement _____________________________________\nDate and place of last previous remeasurement ________________________________\nREMARKS:"
+   }
+  },
+  {
+   "id": "SG-H3207-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 12(5)\nExcluded spaces\nIn the following figures:\nO = excluded space\nC = enclosed space\nI = space to be considered as an enclosed space\nHatched in parts to be included as enclosed spaces.\nB =breadth of the deck in way of the opening.\nIn ships with rounded gunwales the breadth is measured as indicated in Figure 11."
+   }
+  },
+  {
+   "id": "SG-H3207-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulations 15, 16 and 17.\nCOEFFICIENTS K1 AND K2\nV or VC = Volume in cubic metres\nV or Vc\nK1 or K2\nV or Vc\nK1 or K2\nV or Vc\nK1 or K2\nV or Vc\nK1 or K2\n10\n0.2200\n45 000\n0.2931\n330 000\n0.3104\n670 000\n0.3165\n20\n0.2260\n50 000\n0.2940\n340 000\n0.3106\n680 000\n0.3166\n30\n0.2295\n55 000\n0.2948\n350 000\n0.3109\n690 000\n0.3168\n40\n0.2320\n60 000\n0.2956\n360 000\n0.3111\n700 000\n0.3169\n50\n0.2340\n65 000\n0.2963\n370 000\n0.3114\n710 000\n0.3170\n60\n0.2356\n70 000\n0.2969\n380 000\n0.3116\n720 000\n0.3171\n70\n0.2369\n75 000\n0.2975\n390 000\n0.3118\n730 000\n0.3173\n80\n0.2381\n80 000\n0.2981\n400 000\n0.3120\n740 000\n0.3174\n90\n0.2391\n85 000\n0.2986\n410 000\n0.3123\n750 000\n0.3175\n100\n0.2400\n90 000\n0.2991\n420 000\n0.3125\n760 000\n0.3176\n200\n0.2460\n95 000\n0.2996\n430 000\n0.3127\n770 000\n0.3177\n300\n0.2495\n100 000\n0.3000\n440 000\n0.3129\n780 000\n0.3178\n400\n0.2520\n110 000\n0.3008\n450 000\n0.3131\n790 000\n0.3180\n500\n0.2540\n120 000\n0.3016\n460 000\n0.3133\n800 000\n0.3181\n600\n0.2556\n130 000\n0.3023\n470 000\n0.3134\n810 000\n0.3182\n700\n0.2569\n140 000\n0.3029\n480 000\n0.3136\n820 000\n0.3183\n800\n0.2581\n150 000\n0.3035\n490 000\n0.3138\n830 000\n0.3184\n900\n0.2591\n160 000\n0.3041\n500 000\n0.3140\n840 000\n0.3185\n1 000\n0.2600\n170 000\n0.3046\n510 000\n0.3142\n850 000\n0.3186\n2 000\n0.2660\n180 000\n0.3051\n520 000\n0.3143\n860 000\n0.3187\n3 000\n0.2695\n190 000\n0.3056\n530 000\n0.3145\n870 000\n0.3188\n4 000\n0.2720\n200 000\n0.3060\n540 000\n0.3146\n880 000\n0.3189\n5 000\n0.2740\n210 000\n0.3064\n550 000\n0.3148\n890 000\n0.3190\n6 000\n0.2756\n220 000\n0.3068\n560 000\n0.3150\n900 000\n0.3191\n7 000\n0.2769\n230 000\n0.3072\n570 000\n0.3151\n910 000\n0.3192\n8 000\n0.2781\n240 000\n0.3076\n580 000\n0.3153\n920 000\n0.3193\n9 000\n0.2791\n250 000\n0.3080\n590 000\n0.3154\n930 000\n0.3194\n10 000\n0.2800\n260 000\n0.3083\n600 000\n0.3156\n940 000\n0.3195\n15 000\n0.2835\n270 000\n0.3086\n610 000\n0.3157\n950 000\n0.3196\n20 000\n0.2860\n280 000\n0.3089\n620 000\n0.3158\n960 000\n0.3194\n25 000\n0.2880\n290 000\n0.3092\n630 000\n0.3160\n970 000\n0.3197\n30 000\n0.2895\n300 000\n0.3095\n640 000\n0.3161\n980 000\n0.3198\n35 000\n0.2909\n310 000\n0.3098\n650 000\n0.3163\n990 000\n0.3199\n40 000\n0.2920\n320 000\n0.3101\n660 000\n0.3164\n1 000 000\n0.3200\nCoefficients K1 or K2 at intermediate values of V or Vc shall be obtained by linear interpolation."
+   }
+  }
+ ]
+}

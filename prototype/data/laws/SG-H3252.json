@@ -1,0 +1,351 @@
+{
+ "id": "SG-H3252",
+ "title": {
+  "zh": null,
+  "en": "Moneylenders (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Rules 2009",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p41",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MA2008-R2",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 24,
+ "chars": 50865,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MA2008-R2?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 24 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3252-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Rules are the Moneylenders (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Rules 2009."
+   }
+  },
+  {
+   "id": "SG-H3252-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Rules —\n“agent”, in relation to a borrower, means the individual acting on behalf of or for the benefit of the borrower;\n“beneficial owner”, in relation to a borrower, means —\n(a)an individual who ultimately owns or controls the borrower, or any one of 2 or more individuals who, acting together, ultimately own or control the borrower;\n(b)an individual who exercises ultimate effective control over the borrower, or any one of 2 or more individuals who, acting together, exercise ultimate effective control over the borrower; or\n(c)a person on whose behalf a relevant loan is obtained by the borrower;\n“borrower” means the person to whom, or the legal arrangement to which, a moneylender grants or intends to grant a relevant loan;\n“business relation” means the opening or maintenance of a loan account for a borrower;\n“CDD measures”, or customer due diligence measures, means initial CDD measures, ongoing CDD measures, and the measures referred to in rule 6A(1);\n“connected party” —\n(a)in relation to a borrower which is an entity (other than a partnership, limited partnership or limited liability partnership) — means a director of the entity, or an individual having executive authority in the entity;\n(b)in relation to a borrower which is a partnership, limited partnership or limited liability partnership — means any partner or manager of the partnership, limited partnership or limited liability partnership; or\n(c)in relation to a borrower which is a legal arrangement — means any individual having executive authority (if any) in the arrangement;\n“country” includes territory;\n“domestic politically‑exposed person” means an individual who is or has been entrusted with a prominent public function in Singapore;\n“entity” means a sole proprietorship, a partnership, a limited partnership, a limited liability partnership, a corporation sole or a company, or any other association or body of persons corporate or unincorporate;\n“FATF” means the intergovernmental body known as the Financial Action Task Force created in 1989;\n“foreign politically‑exposed person” means an individual who is or has been entrusted with a prominent public function in a country outside Singapore;\n“initial CDD measures”, or initial customer due diligence measures, means —\n(a)the process of identifying, and obtaining the information necessary to identify and verify the identities of, a borrower, the agent of a borrower, the connected parties of a borrower, and the beneficial owner of a borrower; and\n(b)the process of understanding, and obtaining the information necessary to understand, the purpose of a loan;\n“legal arrangement” means an express trust or other similar arrangement;\n“moneylender” means a moneylender who is a licensee or an exempt moneylender;\n“officer” has the meaning given by section 89(5) of the Act;\n“ongoing CDD measures”, or ongoing customer due diligence measures, means the measures set out in Part 2 of the Schedule;\n“politically‑exposed person” means —\n(a)a domestic politically‑exposed person;\n(b)a foreign politically‑exposed person; or\n(c)a politically‑exposed person of an international organisation;\n“politically‑exposed person of an international organisation” means an individual who is or has been entrusted with a prominent public function in an international organisation;\n“proliferation financing” means the financing of proliferation of weapons of mass destruction;\n“prominent public function” includes the role held by a head of state, head of government, government minister, senior civil or public servant, senior judicial or military official, senior executive of a state-owned corporation, senior political party official, member of a legislature, or member of the senior management of an international organisation;\n“reasonable measure” means an appropriate measure that is commensurate with the risk of money laundering, terrorism financing or proliferation financing;\n“relevant foreign regulatory authority”, in relation to a moneylender, means an authority of a country outside Singapore exercising any function in respect of the moneylender that corresponds to a regulatory function of the Registrar under the Act;\n“relevant law enforcement authority” means the Singapore Police Force, the Central Narcotics Bureau or the Corrupt Practices Investigation Bureau;\n“relevant loan” means a loan of an aggregate value exceeding $3,000 or its equivalent value expressed in any other currency.\n(2) In these Rules, a reference to a financial institution supervised by the Authority does not include a person who is exempted from being licensed, approved, registered or otherwise regulated by the Authority under any written law."
+   }
+  },
+  {
+   "id": "SG-H3252-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Application of these Rules"
+   },
+   "text": {
+    "en": "3. These Rules apply to every moneylender who grants secured or unsecured loans to the general public."
+   }
+  },
+  {
+   "id": "SG-H3252-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "General principles"
+   },
+   "text": {
+    "en": "4.—(1) A moneylender must exercise due diligence in accordance with these Rules when dealing with any borrower, or any agent or beneficial owner of a borrower.\n(2) A moneylender must conduct the moneylender’s business in such a manner as to guard against the grant of any loan that is, may be connected with or facilitates money laundering, terrorism financing or proliferation financing.\n(3) A moneylender must assist and cooperate with the relevant law enforcement authorities in detecting and preventing —\n(a)money laundering;\n(b)terrorism financing; and\n(c)proliferation financing."
+   }
+  },
+  {
+   "id": "SG-H3252-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Internal policies, procedures and controls"
+   },
+   "text": {
+    "en": "5.—(1) A moneylender must develop and implement internal policies, procedures and controls to enable the moneylender to effectively manage and mitigate any risks of money laundering, terrorism financing or proliferation financing —\n(a)identified under rule 5B; or\n(b)notified to the moneylender by the Registrar or any relevant law enforcement authority.\n(2) The moneylender must —\n(a)monitor the implementation of the policies, procedures and controls mentioned in paragraph (1); and\n(b)enhance those policies, procedures and controls where necessary, if a higher risk of money laundering, terrorism financing or proliferation financing is —\n(i)identified under rule 5B; or\n(ii)notified to the moneylender by the Registrar or any relevant law enforcement authority.\n(3) The moneylender must ensure that the policies, procedures and controls mentioned in paragraph (1) (including those enhanced under paragraph (2)) are —\n(a)approved by the senior management of the moneylender; and\n(b)communicated to the employees and officers of the moneylender.\n(4) The policies, procedures and controls mentioned in paragraph (1) include those relating to —\n(a)CDD measures;\n(b)record keeping;\n(c)detection of unusual or suspicious applications or transactions, and the making of disclosures under section 45(1) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992 or Part 3 of the Terrorism (Suppression of Financing) Act 2002;\n(d)audit of the policies, procedures and controls;\n(e)compliance management arrangements;\n(f)the hiring, appointment and training of employees and officers; and\n(g)measures to determine if a borrower, an agent of a borrower, any connected party of a borrower, or any beneficial owner of a borrower is a politically‑exposed person.\n(5) In formulating the policies, procedures and controls mentioned in paragraph (1) or enhancing them under paragraph (2), a moneylender must take into consideration any threat of money laundering, terrorism financing or proliferation financing that may arise from the use of new or developing technologies, especially those that favour anonymity.\n(6) Any moneylender who contravenes paragraph (1), (2)(a) or (b), (3)(a) or (b) or (5) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3252-A5.001",
+   "no": 5.001,
+   "noLabel": {
+    "en": "5A."
+   },
+   "heading": {
+    "en": "Group policy"
+   },
+   "text": {
+    "en": "5A.—(1) A moneylender that is a company incorporated in Singapore with one or more branches or subsidiaries (whether located or incorporated in Singapore or elsewhere) must —\n(a)develop a group policy to —\n(i)prevent money laundering, terrorism financing and proliferation financing; and\n(ii)manage and mitigate the risks of money laundering, terrorism financing and proliferation financing; and\n(b)extend the group policy to all of those branches and subsidiaries.\n(2) Where the moneylender has a branch or subsidiary in a country outside Singapore that has laws for the prevention of money laundering, terrorism financing or proliferation financing that differ from those of Singapore —\n(a)the moneylender must require the management of that branch or subsidiary to apply the more stringent of the laws, to the extent that the law of the country outside Singapore permits; and\n(b)where the management of that branch or subsidiary is unable to fully apply the more stringent law — the moneylender must report this to the Registrar and must, instead of sub‑paragraph (a) —\n(i)perform such additional measures as are appropriate to managing the risks of money laundering, terrorism financing and proliferation financing; and\n(ii)comply with such directions as may be given by the Registrar.\n(3) Any moneylender who contravenes paragraph (1)(a) or (b) or (2)(a) or (b) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3252-A5.002",
+   "no": 5.002,
+   "noLabel": {
+    "en": "5B."
+   },
+   "heading": {
+    "en": "Assessment of risks"
+   },
+   "text": {
+    "en": "5B.—(1) A moneylender must take appropriate steps to identify, assess and understand the risks of money laundering, terrorism financing and proliferation financing arising from the business of moneylending carried on by the moneylender, relative to —\n(a)the borrowers and their agents, connected parties and beneficial owners;\n(b)the countries the borrowers and their agents, connected parties and beneficial owners reside or operate in;\n(c)the countries the moneylender has operations in;\n(d)the products, services, transactions and manner by which the loans are disbursed and repaid; and\n(e)the size of the moneylender’s business.\n(2) The steps mentioned in paragraph (1) include —\n(a)documenting the moneylender’s risk assessments;\n(b)considering all the relevant risks before determining the level of the overall risk and the appropriate type and extent of mitigation to be applied;\n(c)keeping the risk assessments up to date;\n(d)having appropriate mechanisms to provide any information required by the Registrar under paragraph (3); and\n(e)before launching a new product or new business practice (including a new manner for disbursing or repaying loans), or using a new or developing technology for any new or existing product, identifying and assessing the risks that may arise in relation to the product, practice or technology, and taking appropriate measures to mitigate such risks.\n(3) The Registrar may, by written notice to a moneylender, require the moneylender to provide, within the time specified in the notice, any information obtained by the moneylender from taking the steps mentioned in paragraph (1), and the moneylender must comply with the notice.\n(4) Any moneylender who contravenes paragraph (1) or (3) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3252-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Initial and ongoing CDD measures"
+   },
+   "text": {
+    "en": "6.—(1) A moneylender must perform initial CDD measures in respect of a borrower when the moneylender —\n(a)intends to grant, or is considering the grant of, a relevant loan to the borrower;\n(b)suspects that the borrower or any agent, connected party or beneficial owner of the borrower is engaged in money laundering, terrorism financing or proliferation financing; or\n(c)has doubts about the veracity or adequacy of any information previously obtained from the borrower.\n(2) To avoid doubt, where a moneylender (called in this rule the acquiring moneylender) acquires, either in whole or in part, the business of another moneylender (whether in Singapore or elsewhere), the acquiring moneylender must perform initial CDD measures on the customers who become the borrowers of the acquiring moneylender as a result of the acquisition, except where the acquiring moneylender —\n(a)has acquired at the same time all corresponding customer records (including customer identification information) and has no doubt or concern about the veracity or adequacy of the information so acquired; and\n(b)has conducted due diligence enquiries that have not raised any doubt on the part of the acquiring moneylender as to the adequacy of measures for the prevention of money laundering, terrorism financing and proliferation financing previously adopted in relation to the business or the part of the business acquired by the acquiring moneylender.\n(3) A moneylender must perform the initial CDD measures mentioned in paragraphs (1) and (2) by complying with the requirements specified in rule 6C and Part 1 of the Schedule.\n(4) A moneylender must perform ongoing CDD measures at the times and in the manner specified in rule 6C and Part 2 of the Schedule.\n(5) For the purposes of paragraph (1)(a), where a moneylender suspects that 2 or more loans are or may be related, linked or the result of a deliberate restructuring of an otherwise single relevant loan into smaller transactions in order to evade the thresholds provided for in these Rules, the moneylender must aggregate them and treat them as a single relevant loan.\n(6) Any moneylender who contravenes paragraph (1), (2), (3), (4) or (5) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3252-A6.001",
+   "no": 6.001,
+   "noLabel": {
+    "en": "6A."
+   },
+   "heading": {
+    "en": "Customer screening"
+   },
+   "text": {
+    "en": "6A.—(1) For the purposes of —\n(a)ensuring compliance with the laws for the prevention of money laundering, terrorism financing and proliferation financing; and\n(b)determining if there are any risks of money laundering, terrorism financing or proliferation financing in any business relation or transaction or proposed business relation or transaction,\na moneylender must —\n(c)evaluate every borrower and every agent, connected party and beneficial owner of a borrower, to determine if they are terrorists or terrorist entities within the meaning of the Terrorism (Suppression of Financing) Act 2002; and\n(d)screen every borrower and every agent, connected party and beneficial owner of a borrower, against —\n(i)any lists and information provided by the Registrar and any relevant law enforcement authority; and\n(ii)any other source of information relating to money laundering, terrorism financing or proliferation financing, as the Registrar may direct.\n(2) A moneylender must carry out the measures in paragraph (1) —\n(a)at the time the moneylender intends to grant, or is considering the grant of, a relevant loan to a borrower;\n(b)on a periodic basis after the moneylender establishes a business relation with a borrower;\n(c)whenever there is a change of or an update to the lists and information provided by the Registrar or any relevant law enforcement authority to the moneylender; and\n(d)whenever there is any change to an agent of a borrower, a connected party of a borrower or a beneficial owner of a borrower.\n(3) A moneylender must also carry out the measures in paragraph (1) in accordance with rule 6C.\n(4) A moneylender must document the results of the evaluation and screening of, and any determination made by the moneylender concerning the risks of money laundering, terrorism financing or proliferation financing in relation to, a borrower or any agent, connected party or beneficial owner of a borrower.\n(5) A moneylender who contravenes paragraph (1)(c) or (d), (2), (3) or (4) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3252-A6.002",
+   "no": 6.002,
+   "noLabel": {
+    "en": "6B."
+   },
+   "heading": {
+    "en": "Existing borrowers"
+   },
+   "text": {
+    "en": "6B.—(1) A moneylender must also perform the measures mentioned in paragraph (2) in accordance with that paragraph, on each existing borrower, and each agent, connected party or beneficial owner of an existing borrower, based on the moneylender’s own assessment of materiality and risks of money laundering, terrorism financing and proliferation financing, and taking into account —\n(a)any CDD measures previously performed on that borrower, agent, connected party or beneficial owner;\n(b)the time those measures were last applied; and\n(c)the adequacy of the documents and information obtained from such previous application.\n(2) For the purposes of paragraph (1), the moneylender must —\n(a)perform those initial CDD measures that are applicable to the borrower, agent, connected party or beneficial owner, in accordance with rule 6(3);\n(b)perform those ongoing CDD measures that are applicable to the borrower, agent, connected party or beneficial owner, in accordance with rule 6(4); and\n(c)perform those measures referred to in rule 6A(1) that are applicable to the borrower, agent, connected party or beneficial owner, in accordance with rule 6A(2), (3) and (4).\n(3) A moneylender who contravenes paragraph (1) or (2)(a), (b) or (c) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3252-A6.003",
+   "no": 6.003,
+   "noLabel": {
+    "en": "6C."
+   },
+   "heading": {
+    "en": "General obligations for all CDD measures"
+   },
+   "text": {
+    "en": "6C. In performing any CDD measure, a moneylender must —\n(a)pay special attention to all complex transactions, unusually large transactions, or unusual patterns of transactions that have no apparent or visible economic or lawful purpose; and\n(b)to the extent possible, inquire into the background and purpose of those transactions, and document the findings with a view to making this information available to the relevant law enforcement authorities should the need arise."
+   }
+  },
+  {
+   "id": "SG-H3252-A6.004",
+   "no": 6.004,
+   "noLabel": {
+    "en": "6D."
+   },
+   "heading": {
+    "en": "Simplified CDD measures"
+   },
+   "text": {
+    "en": "6D.—(1) A moneylender may, instead of performing initial CDD measures in accordance with rule 6(3), or ongoing CDD measures in accordance with rule 6(4), on a particular borrower or an agent, a connected party or a beneficial owner of the borrower, perform simplified CDD measures on the borrower, agent, connected party or beneficial owner, if —\n(a)the moneylender is of the view that the risks of money laundering, terrorism financing and proliferation financing are low;\n(b)either —\n(i)the moneylender has obtained the prior written approval of the Registrar to do so; or\n(ii)the borrower, agent, connected party or beneficial owner comes within a class or description of borrowers, or agents, connected parties or beneficial owners of borrowers, designated by the Registrar for the purposes of this paragraph;\n(c)the moneylender documents —\n(i)the details of the risk assessment undertaken; and\n(ii)the nature of the simplified CDD measures applied;\n(d)the simplified CDD measures are commensurate with the level of the risks of money laundering, terrorism financing and proliferation financing identified by the moneylender; and\n(e)where sub‑paragraph (b)(i) applies, the moneylender complies with all conditions and restrictions imposed by the Registrar when giving the written approval.\n(2) The Registrar must not grant written approval under paragraph (1)(b)(i) if the borrower, or any agent, connected party or beneficial owner of the borrower, is from or in a country outside Singapore —\n(a)in relation to which the FATF has called for countermeasures; or\n(b)known to have inadequate measures for the prevention of money laundering, terrorism financing or proliferation financing.\n(3) The Registrar may refuse to grant written approval under paragraph (1)(b)(i) if the Registrar is satisfied that —\n(a)the risks of money laundering, terrorism financing or proliferation financing are high; or\n(b)the simplified CDD measures proposed by the moneylender will not effectively achieve the objective of any CDD measure.\n(4) In this rule, simplified CDD measures are such measures as the moneylender considers adequate to effectively identify and verify the identities of the borrower and the agent, connected parties and beneficial owner of the borrower."
+   }
+  },
+  {
+   "id": "SG-H3252-A6.005",
+   "no": 6.005,
+   "noLabel": {
+    "en": "6E."
+   },
+   "heading": {
+    "en": "Enhanced CDD measures for politically‑exposed persons"
+   },
+   "text": {
+    "en": "6E.—(1) A moneylender must, in addition to the obligations under these Rules, perform the measures referred to in paragraph (2) on a borrower, if the moneylender knows or has reasonable grounds to believe that —\n(a)the borrower or the borrower’s agent (if any) is a politically‑exposed person; or\n(b)where the borrower is an entity or a legal arrangement, the borrower has a connected party or beneficial owner who is a politically‑exposed person.\n(2) The measures mentioned in paragraph (1) are —\n(a)documenting, during the course of the business relation or when undertaking a transaction with or for the borrower, each movement of funds in the account used for disbursing or repaying a loan, and assessing the likelihood of the account being used in connection with any of the following activities:\n(i)money laundering;\n(ii)terrorism financing;\n(iii)proliferation financing; and\n(b)establishing by appropriate and reasonable means the source of wealth and source of funds of the borrower or beneficial owner.\n(3) A moneylender who —\n(a)has identified any borrower or any agent, connected party or beneficial owner of a borrower to be a politically‑exposed person; or\n(b)subsequently comes to know that any borrower or any agent, connected party or beneficial owner of a borrower is or was a politically‑exposed person,\nmust obtain a decision from the moneylender’s senior management on whether to establish or maintain the business relation with the borrower.\n(4) The moneylender must keep a written record of the moneylender’s findings and the basis of a decision under paragraph (3), and must produce these to a relevant law enforcement authority upon demand.\n(5) A moneylender may adopt a risk-based approach in the application of measures under this rule in relation to —\n(a)a domestic politically‑exposed person;\n(b)a politically‑exposed person of an international organisation; or\n(c)a politically‑exposed person who has stepped down from a prominent public function, taking into consideration the level of influence the person continues to exercise after stepping down from that function.\n(6) Paragraph (5) does not apply if the moneylender knows or ought reasonably to know that the business relation or transaction in question presents a high risk of money laundering, terrorism financing or proliferation financing.\n(7) A moneylender who contravenes paragraph (1), (3) or (4) shall be guilty of an offence.\n(8) In this rule, each reference to a politically‑exposed person, includes a reference to a family member or close associate of the person.\n(9) In this rule, “family member”, in relation to a politically‑exposed person, means a parent, a step‑parent, a child, a stepchild, an adopted child, a spouse, a sibling, a stepsibling or an adopted sibling of the person.\n(10) In this rule, a person, (A), is a close associate of a politically‑exposed person, (B), if —\n(a)A is a partner of B;\n(b)A is an employee or employer of B;\n(c)A is an officer of any corporation of which B is an officer;\n(d)A is an employee of an individual of whom B is an employee;\n(e)A is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of B;\n(f)B is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of A;\n(g)A is a person with whom B has an agreement or arrangement, whether oral or in writing and whether express or implied, to act together to apply for or obtain a loan from a moneylender; or\n(h)A is closely connected with B socially or professionally in any manner not specified in sub‑paragraphs (a) to (g)."
+   }
+  },
+  {
+   "id": "SG-H3252-A6.006",
+   "no": 6.006,
+   "noLabel": {
+    "en": "6F."
+   },
+   "heading": {
+    "en": "Enhanced CDD measures in other cases"
+   },
+   "text": {
+    "en": "6F.—(1) A moneylender must also perform the measures referred to in rule 6E(2) in respect of —\n(a)all complex or unusually large relevant loans or unusual patterns of relevant loans that have no apparent or visible economic or lawful purpose;\n(b)relevant loans granted to any person —\n(i)from or in countries outside Singapore in relation to which the FATF has called for countermeasures, as notified by the Registrar; or\n(ii)from or in countries outside Singapore known to have inadequate measures for the prevention of money laundering, terrorism financing or proliferation financing —\n(A)as determined by the moneylender; or\n(B)as notified to moneylenders generally by the Registrar, a relevant law enforcement authority or a relevant foreign regulatory authority; and\n(c)any other categories of borrowers, agents, connected parties or beneficial owners of borrowers, or relevant loans which the moneylender considers may present, or are notified by the Registrar, a relevant law enforcement authority or a relevant foreign regulatory authority as presenting, a high risk of money laundering, terrorism financing or proliferation financing.\n(2) A moneylender must, in performing the measures under paragraph (1), take into account the requirements of the Act, any subsidiary legislation made under the Act, and any regulations made under section 2 of the United Nations Act 2001.\n(3) A moneylender who contravenes paragraph (1) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3252-A6.007",
+   "no": 6.007,
+   "noLabel": {
+    "en": "6G."
+   },
+   "heading": {
+    "en": "Performance of CDD measures by third parties"
+   },
+   "text": {
+    "en": "6G.—(1) Except as provided in paragraph (2), a moneylender must not rely on a third party to perform any CDD measure.\n(2) A moneylender may rely on a specified third party to perform initial CDD measures, if and only if —\n(a)the moneylender has obtained the prior written approval of the Registrar to do so; and\n(b)the moneylender complies with all conditions and restrictions imposed by the Registrar when giving the approval.\n(3) The Registrar may refuse to grant approval under paragraph (2)(a) unless the moneylender can satisfy the Registrar that —\n(a)the specified third party is subject to, and supervised for compliance with, requirements relating to the prevention of money laundering, terrorism financing and proliferation financing, consistent with standards set by the FATF, and has adequate measures in place to comply with those requirements;\n(b)the specified third party is not one which moneylenders have been precluded by the Registrar from relying on to perform CDD measures;\n(c)the information to be obtained by the specified third party from performing CDD measures can be relayed to the moneylender without delay;\n(d)the specified third party is able and willing to provide without delay, upon the request of the moneylender, any document obtained by the specified third party from performing any CDD measure; and\n(e)the moneylender has taken appropriate steps to identify, assess and understand the risks of money laundering, terrorism financing and proliferation financing particular to any country outside Singapore that the specified third party operates in (if applicable).\n(4) A moneylender who relies on a specified third party to perform any CDD measures must obtain from the specified third party the information obtained by the specified third party from those measures as soon as practicable after the specified third party has performed those measures.\n(5) To avoid doubt, despite relying on a specified third party to perform any CDD measure, the moneylender remains responsible for the performance of that measure under these Rules.\n(6) A moneylender who contravenes paragraph (1) or (4) shall be guilty of an offence.\n(7) In this rule, “specified third party” means —\n(a)a bank in Singapore licensed under section 7 of the Banking Act 1970;\n(b)a merchant bank licensed under section 55S of the Banking Act 1970;\n(c)a finance company licensed under section 6 of the Finance Companies Act 1967;\n(d)a financial adviser licensed under section 10 of the Financial Advisers Act 2001, except one which is licensed only in respect of the financial advisory service specified in paragraph 2 of the Second Schedule to that Act (namely, advising others by issuing or promulgating research analyses or research reports, whether in electronic, print or other form, concerning any investment product);\n(e)a holder of a capital markets services licence granted under section 86 of the Securities and Futures Act 2001;\n(f)a person who is exempt from holding a financial adviser’s licence under section 20(1)(g) of the Financial Advisers Act 2001 read with regulation 27(1)(d) of the Financial Advisers Regulations (Rg 2), except one who is exempt only in respect of the financial advisory service specified in paragraph 2 of the Second Schedule to that Act (namely, advising others by issuing or promulgating research analyses or research reports, whether in electronic, print or other form, concerning any investment product); or\n(g)any other person that the Registrar may specify."
+   }
+  },
+  {
+   "id": "SG-H3252-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Suspicious transaction reporting"
+   },
+   "text": {
+    "en": "7.—(1) Where, in any particular case —\n(a)a moneylender is unable to complete performing the CDD measures for any reason;\n(b)a borrower is unable or unwilling to provide any information requested by the moneylender, or decides to withdraw the application for a loan when requested to provide information;\n(c)a loan is granted, to be granted or would have been granted to a person —\n(i)whom the moneylender knows or ought reasonably to know is a politically‑exposed person; or\n(ii)from or in a country outside Singapore known to have inadequate measures for the prevention of money laundering, terrorism financing or proliferation financing —\n(A)as determined by the moneylender; or\n(B)as notified to moneylenders generally by the Registrar, a relevant law enforcement authority or a relevant foreign regulatory authority;\n(d)a loan is part of an unusual pattern of loans with no apparent economic or lawful purpose; or\n(e)any other circumstance exists for the making of a disclosure under section 45(1) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992 or Part 3 of the Terrorism (Suppression of Financing) Act 2002,\nthe moneylender concerned —\n(f)if a business relation has yet to be entered into, must not enter into one with the borrower concerned; and\n(g)if the transaction or loan in question has yet to be entered into or granted, must not enter into the transaction or grant the loan.\n(2) In addition, the moneylender must —\n(a)document the basis for the moneylender’s determination as to whether a disclosure under section 45(1) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992 or Part 3 of the Terrorism (Suppression of Financing) Act 2002 should be made; and\n(b)where the moneylender has made a disclosure mentioned in sub‑paragraph (a) —\n(i)submit a copy of the document by which the disclosure is made to the Registrar; and\n(ii)keep a record of the transaction in question, together with the findings of the moneylender and analysis done by the moneylender concerning the transaction, for a period of at least 5 years beginning on the date of the transaction.\n(3) This rule does not affect the moneylender’s duty of disclosure under section 45(1) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992 and Part 3 of the Terrorism (Suppression of Financing) Act 2002.\n(4) Any moneylender who contravenes paragraph (1)(f) or (g) or (2)(a) or (b) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3252-A7.001",
+   "no": 7.001,
+   "noLabel": {
+    "en": "7A."
+   },
+   "heading": {
+    "en": "Tipping‑off"
+   },
+   "text": {
+    "en": "7A. Where a moneylender reasonably believes that a borrower, or any agent, connected party or beneficial owner of a borrower, may be engaged in money laundering, terrorism financing or proliferation financing, and the moneylender has reasonable grounds to believe that the performance of any CDD measure will tip‑off that person, the moneylender —\n(a)need not perform that CDD measure; but\n(b)must comply immediately with section 45(1) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992 or Part 3 of the Terrorism (Suppression of Financing) Act 2002 (as the case may be)."
+   }
+  },
+  {
+   "id": "SG-H3252-A7.002",
+   "no": 7.002,
+   "noLabel": {
+    "en": "7B."
+   },
+   "heading": {
+    "en": "Record keeping"
+   },
+   "text": {
+    "en": "7B.—(1) A moneylender must prepare, maintain and retain records on all relevant loans granted by the moneylender and all applications received by the moneylender for relevant loans, in such a way as to —\n(a)enable any single transaction of the moneylender to be reconstructed (including the amount of principal and interest and the type of currency) so as to provide, if necessary, evidence for prosecution of any criminal activity;\n(b)enable the Registrar and any relevant law enforcement authority, as well as both the internal and external auditors of the moneylender, to review the business relations of the moneylender, the moneylender’s transactions, and information obtained from performing CDD measures, and to assess the level of the moneylender’s compliance with these Rules; and\n(c)enable the moneylender to comply with any duty under any written law to provide a record on a relevant loan, or any information in the record, to the Registrar or any relevant law enforcement authority by the time prescribed by or imposed pursuant to the written law or, if no time is so prescribed or imposed, within a reasonable time.\n(2) Subject to paragraph (4) and any other requirements prescribed by or imposed pursuant to any written law, a moneylender must, for the purposes of paragraph (1) —\n(a)retain, until a date that is at least 5 years after the end date in relation to a borrower —\n(i)any information obtained from performing CDD measures on the borrower or any agent, connected party or beneficial owner of the borrower, including the moneylender’s assessment of the information and the results of any screening under rule 6A; and\n(ii)any information or document relating to the borrower or any agent, connected party or beneficial owner of the borrower; and\n(b)retain any information or document relating to a single transaction, including any information needed to explain and reconstruct the transaction, until a date that is at least 5 years after the date on which the relevant loan concerned is fully repaid or on which the contract for the relevant loan is otherwise terminated.\n(3) A moneylender may retain documents and information as originals or copies, in paper or electronic form or on microfilm, except that the moneylender must ensure that the form in which any document or information is retained is admissible as evidence in a court.\n(4) Without affecting any duty imposed by or pursuant to any other written law, a moneylender must, if requested or required by a relevant law enforcement authority in Singapore, retain all records of documents and information on a relevant loan —\n(a)which pertain to a matter under investigation by the authority; or\n(b)which is the subject of a disclosure made under section 45(1) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992 or Part 3 of the Terrorism (Suppression of Financing) Act 2002.\n(5) A moneylender who contravenes paragraph (2)(a) or (b) or (4) shall be guilty of an offence.\n(6) For the purposes of paragraph (2)(a) —\n“end date”, in relation to a borrower, means —\n(a)where, as at 1 May 2024, the borrower has a subsisting relevant loan granted by the moneylender — the first date after 1 May 2024 on which the borrower no longer has any subsisting relevant loan granted by the moneylender; or\n(b)where, after 1 May 2024, the moneylender grants a relevant loan to the borrower on a date (called in this paragraph the grant date) on which the borrower has no subsisting relevant loan granted by the moneylender — the first date after the grant date on which the borrower no longer has any subsisting relevant loan granted by the moneylender;\n“subsisting relevant loan” means a relevant loan that has not been fully repaid or the contract for which has not been otherwise terminated.\n(7) For the purposes of paragraphs (2) and (6), where a moneylender suspects that 2 or more loans are or may be related, linked or the result of a deliberate restructuring of an otherwise single relevant loan into smaller transactions in order to evade the thresholds provided for in these Rules, the moneylender must aggregate them and treat them as a single relevant loan."
+   }
+  },
+  {
+   "id": "SG-H3252-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Audit and compliance"
+   },
+   "text": {
+    "en": "8.—(1) For the purposes of rule 5(4)(d), a moneylender must implement and maintain an audit function that is —\n(a)adequately resourced and independent; and\n(b)able to regularly assess the effectiveness of the internal policies, procedures and controls of the moneylender, and the moneylender’s compliance with these Rules.\n(2) For the purposes of rule 5(4)(e), a moneylender must —\n(a)develop compliance management arrangements to continually review and update internal policies, procedures and controls for the prevention of money laundering, terrorism financing and proliferation financing; and\n(b)appoint an employee or officer in a management position as the compliance officer in relation to the prevention of money laundering, terrorism financing and proliferation financing.\n(3) The moneylender must grant the moneylender’s compliance officer, as well as any other persons appointed to assist the compliance officer, timely access to all borrower records and other relevant information which they may require to discharge their functions for the purposes of these Rules.\n(4) The moneylender must also ensure that the compliance officer, and any other persons appointed to assist the compliance officer, are suitably qualified and have adequate resources to discharge their functions under these Rules.\n(5) Any moneylender who contravenes paragraph (1), (2)(a) or (b), (3) or (4) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3252-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Employees and officers"
+   },
+   "text": {
+    "en": "9.—(1) For the purposes of rule 5(4)(f), a moneylender must —\n(a)implement screening procedures for the hiring and appointment of fit and proper persons as employees and officers;\n(b)ensure that the moneylender’s employees and officers, whether in Singapore or elsewhere, are given appropriate training on —\n(i)the laws for the prevention of money laundering, terrorism financing and proliferation financing, including these Rules, the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992, the Terrorism (Suppression of Financing) Act 2002 and the United Nations Act 2001;\n(ii)prevailing methods of, and trends in, money laundering, terrorism financing and proliferation financing; and\n(iii)the moneylender’s internal policies, procedures and controls for the prevention of money laundering, terrorism financing and proliferation financing, including the roles and responsibilities of employees and officers of the moneylender in relation to those internal policies, procedures and controls; and\n(c)ensure that the employees and officers mentioned in sub‑paragraph (b) are given regular training to keep abreast of changes to the matters in sub‑paragraph (b)(i), (ii) and (iii).\n(2) Any moneylender who contravenes paragraph (1) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3252-A9.001",
+   "no": 9.001,
+   "noLabel": {
+    "en": "9A."
+   },
+   "heading": {
+    "en": "Personal data"
+   },
+   "text": {
+    "en": "9A.—(1) Subject to paragraph (2), a moneylender need not provide an individual who is a borrower, an agent of a borrower, a connected party of a borrower or a beneficial owner of a borrower, with access to —\n(a)any personal data of the individual that is in the possession or under the control of the moneylender; or\n(b)any information about the ways in which the personal data of the individual under sub‑paragraph (a) has been or may have been used or disclosed by the moneylender.\n(2) The moneylender must, on the request of an individual mentioned in paragraph (1), provide the individual with access to any of the following personal data of the individual that is in the possession or under the control of the moneylender:\n(a)name, including any alias;\n(b)unique identification number (such as an identity card number, birth certificate number or passport number);\n(c)residential address and contact telephone number;\n(d)date of birth;\n(e)nationality;\n(f)other information of a factual nature.\n(3) Subject to paragraph (4), a moneylender need not comply with any request by an individual who is a borrower, an agent of a borrower, a connected party of a borrower or a beneficial owner of a borrower to correct an error or omission in the personal data of the individual that is in the possession of or under the control of the moneylender.\n(4) A moneylender must as soon as practicable, upon the request of an individual mentioned in paragraph (3), correct any error or omission in any personal data mentioned in paragraph (2)(a) to (f) concerning that individual, but only if the moneylender is satisfied that there are reasonable grounds for the request.\n(5) Paragraphs (2) and (4) are subject to the terms of any agreement between the moneylender and the borrower entered into before 1 September 2015.\n(6) A moneylender who contravenes paragraph (2) or (4) shall be guilty of an offence.\n(7) In this rule, “individual” includes, in the case of a deceased individual, the personal representative of the deceased individual."
+   }
+  },
+  {
+   "id": "SG-H3252-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Power to issue guidelines and directions"
+   },
+   "text": {
+    "en": "10.—(1) The Registrar may, from time to time, issue any guidelines that the Registrar considers appropriate to provide guidance on the measures for the prevention of money laundering, terrorism financing and proliferation financing to be implemented by moneylenders or generally under these Rules.\n(2) The Registrar may, from time to time, issue written directions to any moneylender to comply with any requirements that the Registrar may specify in the written directions for the prevention of money laundering, terrorism financing or proliferation financing.\n(3) Without limiting paragraph (2), written directions may be issued —\n(a)with respect to the standards to be maintained by a moneylender in the conduct of the moneylender’s business to give effect to the provisions of these Rules;\n(b)where any moneylender is contravening, is likely to contravene or has contravened any provision of these Rules, to require the moneylender —\n(i)to comply with that provision or to cease contravention of that provision;\n(ii)to take any action necessary to enable the moneylender to conduct the moneylender’s business in accordance with sound principles for the prevention of money laundering, terrorism financing and proliferation financing; or\n(iii)to make good any default committed by the moneylender; or\n(c)for any other purpose specified in these Rules.\n(4) Every moneylender who has been issued any written direction under paragraph (2) must comply with the written direction.\n(5) The Registrar may, at any time, vary or revoke any guideline or written direction issued under this rule."
+   }
+  },
+  {
+   "id": "SG-H3252-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "General penalty"
+   },
+   "text": {
+    "en": "11. Any person who is guilty of an offence under these Rules shall be liable on conviction to a fine not exceeding $100,000."
+   }
+  },
+  {
+   "id": "SG-H3252-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRules 2(1) and 6(3) and (4)\nCustomer Due Diligence Measures\nPart 1\nINITIAL CDD MEASURES\nIdentification and verification of identity of borrowers\n1.—(1) A moneylender must establish the identity of each borrower for the purposes of rule 6(1) and (2).\n(2) For the purposes of sub‑paragraph (1), the moneylender must obtain and record at least the following information of the borrower and the borrower’s agent (if any):\n(a)full name, including any alias;\n(b)the identity card number, birth certificate number or passport number (in the case of an individual), or the incorporation number or registration number (in the case of a borrower that is a body corporate or unincorporate);\n(c)either current residential address, or current address of principal place of business or registered office, as well as current telephone number;\n(d)the date of birth, incorporation or registration (as the case may be); and\n(e)the nationality or place of incorporation or registration (as the case may be).\n(3) Where the borrower is an entity or a legal arrangement, the moneylender must also identify the legal form, constitution and powers of the entity or legal arrangement.\n(4) Where the borrower is an entity or a legal arrangement, the moneylender must also establish the identities of all the connected parties of the borrower by obtaining and recording at least the following information of each connected party:\n(a)full name, including any aliases;\n(b)the identity card number, birth certificate number or passport number.\n(5) The moneylender must —\n(a)verify the identities of the borrower and the borrower’s agent (if any), as well as the connected parties mentioned in sub‑paragraph (4), using reliable and independent documents, data and information;\n(b)verify the authority of the borrower’s agent by obtaining at least the appropriate documentary evidence of the appointment of the agent by the borrower to act on the borrower’s behalf, and the specimen signature of the agent; and\n(c)retain a copy of all documents, data and information used in establishing and verifying the matters referred to in sub‑paragraphs (a) and (b).\n(6) A moneylender need not comply with any requirement of this paragraph to the extent that the moneylender has carried out the same under rule 9 of the Moneylenders Rules 2009.\nIdentification and verification of identity of beneficial owners\n2.—(1) Subject to sub‑paragraph (4), a moneylender must inquire if the borrower has any beneficial owner.\n(2) Where the moneylender becomes aware pursuant to the inquiry or otherwise that the borrower has one or more beneficial owners, the moneylender must identify every beneficial owner and take reasonable measures to verify the identity of each beneficial owner, using reliable and independent documents, data and information.\n(3) In the case of a borrower which is an entity or legal arrangement, the moneylender must take reasonable measures to understand the nature of the borrower’s business as well as the ownership and control structure of the borrower.\n(4) Where the borrower is an entity, the moneylender must identify and take reasonable measures to verify the identities of the beneficial owners in sub‑paragraph (2) —\n(a)by identifying the individuals (whether acting alone or together) who ultimately own the entity;\n(b)to the extent that there is a doubt whether any individual ultimately owns the entity, or where no individual ultimately owns the entity, by identifying the individuals (if any, and whether acting alone or together) who exercise control over the entity through other means; and\n(c)where no individual is identified under sub‑paragraph (a) or (b), by identifying the individuals having executive authority in the entity.\n(5) Where the borrower is a legal arrangement, the moneylender must identify and take reasonable measures to verify the identities of the beneficial owners in sub‑paragraph (2) —\n(a)if the borrower is an express trust, by identifying the settlor, the trustees, the protector (if any), the beneficiaries or class of beneficiaries, and any other individual who exercises ultimate effective control over the trust (including through a chain of control or ownership); and\n(b)if the borrower is any other legal arrangement, by identifying persons in equivalent or similar positions as those described in sub‑paragraph (a).\n(6) A moneylender need not inquire if there exists any beneficial owner in relation to a borrower where the borrower is —\n(a)[an entity listed on the Singapore Exchange;]\n(b)an entity listed on a stock exchange outside Singapore that is subject to —\n(i)regulatory disclosure requirements; and\n(ii)requirements, imposed through the rules of the stock exchange, any law or other enforceable means, for adequate transparency in respect of the entity’s beneficial owners;\n(c)a financial institution supervised by the Authority;\n(d)a financial institution incorporated or established outside Singapore that is subject to and supervised for compliance with requirements for the prevention of money laundering, terrorism financing and proliferation financing consistent with standards set by the FATF; or\n(e)an investment vehicle, the managers of which are financial institutions —\n(i)supervised by the Authority; or\n(ii)incorporated or established outside Singapore, and subject to and supervised for compliance with requirements for the prevention of money laundering, terrorism financing and proliferation financing consistent with standards set by the FATF,\nunless the moneylender has doubts about the veracity of any information obtained from performing any CDD measure, or suspects that the investment vehicle or the relevant loan required by such investment vehicle is connected with money laundering, terrorism financing or proliferation financing.\n(7) For the purposes of sub‑paragraph (6), a moneylender must keep a written record of the basis for the moneylender’s determination that a borrower is of a type specified in that sub-paragraph.\nPurpose of loan\n3. When processing an application for a loan, a moneylender must understand the purpose for the loan and, where appropriate, obtain from the borrower, information as to the purpose.\nFace-to-face verification\n4.—(1) A moneylender must not undertake any relevant loan without having face‑to‑face contact with the borrower or the agent of the borrower.\n(2) Sub‑paragraph (1) does not apply if, and only if —\n(a)the moneylender had previously performed initial CDD measures on the borrower when undertaking a relevant loan to the same borrower through face-to-face contact with the borrower or agent of the borrower;\n(b)the moneylender has in place policies and procedures to address any risks of money laundering, terrorism financing and proliferation financing associated with undertaking a loan without having face-to-face contact with the borrower or agent of the borrower; and\n(c)the moneylender performs initial CDD measures on the borrower that are at least as stringent as those applied when undertaking a loan through face-to-face contact with the borrower or agent of the borrower.\n(3) In sub‑paragraph (1), the reference to the “borrower”, where the borrower is a legal arrangement, is a reference to the trustee of the legal arrangement or, if the trustee is an entity, an officer of the trustee.\nPart 2\nONGOING CDD MEASURES\n1. A moneylender must monitor, on an ongoing basis, every business relation of the moneylender.\n2. A moneylender must, during the course of a business relation with a borrower, scrutinise transactions undertaken by the borrower throughout the course of the business relation to ensure that the transactions are consistent with the moneylender’s knowledge of the borrower, the borrower’s business and risk profile and, where appropriate, the source of the borrower’s funds.\n3. A moneylender must ensure that all information obtained from performing initial and ongoing CDD measures is kept up to date and relevant through regular reviews, particularly in cases where there is a high risk of money laundering, terrorism financing or proliferation financing.\n4. Where —\n(a)there are reasonable grounds to suspect that a business relation with a borrower is connected to any of the following activities:\n(i)money laundering;\n(ii)terrorism financing;\n(iii)proliferation financing; but\n(b)the moneylender considers it appropriate to retain the borrower in question,\nthe moneylender must —\n(c)substantiate the moneylender’s reasons for retaining the borrower and document those reasons;\n(d)subject the business relation in question to commensurate measures to mitigate the risk of money laundering, terrorism financing or proliferation financing, including performing the following at an increased frequency:\n(i)ongoing CDD measures;\n(ii)the measures referred to in rule 6E(2); and\n(e)obtain the approval of the moneylender’s senior management to retain the borrower.\n5. For the purposes of performing the measures in this Part, a moneylender must put in place and implement adequate systems and processes, commensurate with the size and complexity of the business of the moneylender, in order to —\n(a)monitor the business relations of the moneylender; and\n(b)detect and report suspicious or complex transactions, unusually large transactions, or unusual patterns of transactions."
+   }
+  }
+ ]
+}

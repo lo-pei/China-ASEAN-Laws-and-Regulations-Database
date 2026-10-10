@@ -1,0 +1,154 @@
+{
+ "id": "PH-H4822",
+ "title": {
+  "zh": null,
+  "en": "An Act Prohibiting Certain Acts Inimical to Civil Aviation, and for Other Purposes.",
+  "orig": "An Act Prohibiting Certain Acts Inimical to Civil Aviation, and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p68",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1971-06-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6235",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 11,
+ "chars": 6064,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1971/ra_6235_1971.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 11 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1971/ra_6235_1971.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4822-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "It shall be unlawful for any person to compel a change in the course or destination of an aircraft of Philippine registry, or to seize or usurp the control thereof, while it is in flight. An aircraft is in flight from the moment all its external doors are closed following embarkation until any of such doors is opened for disembarkation.\nIt shall likewise be unlawful for any person to compel an aircraft of foreign registry to land in Philippine territory or to seize or usurp the control thereof while it is within the said territory."
+   }
+  },
+  {
+   "id": "PH-H4822-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Any person violating any provision of the foregoing section shall be punished by an imprisonment of not less than twelve years but not more than twenty years, or by a fine of not less than twenty thousand pesos but not more than forty thousand pesos.\nThe penalty of imprisonment of fifteen years to death, or a fine of not less than twenty-five thousand pesos but not more than fifty thousand pesos shall be imposed upon any person committing such violation under any of the following circumstances:\n1. Whenever he has fired upon the pilot, member of the crew or passenger of the aircraft;\n2. Whenever he has exploded or attempted to explode any bomb or explosive to destroy the aircraft; or\n3. Whenever the crime is accompanied by murder, homicide, serious physical injuries or rape."
+   }
+  },
+  {
+   "id": "PH-H4822-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "It shall be unlawful for any person, natural or juridical, to ship, load or carry in any passenger aircraft operating as a public utility within the Philippines, and explosive, flammable, corrosive or poisonous substance or material."
+   }
+  },
+  {
+   "id": "PH-H4822-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "The shipping, loading or carrying of any substance or material mentioned in the preceding section in any cargo aircraft operating as a public utility within the Philippines shall be in accordance with regulations issued by the Civil Aeronautics Administration."
+   }
+  },
+  {
+   "id": "PH-H4822-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "As used in this Act\n(1) \"Explosive\" shall mean any substance, either solid or liquid, mixture or single compound, which by chemical reaction liberates heat and gas at high speed and causes tremendous pressure resulting in explosion. The term shall include but not limited to dynamites, firecrackers, blasting caps, black powders, bursters, percussions, cartridges and other explosive materials, except bullets for firearm.\n(2) \"Flammable\" is any substance or material that is highly combustible and self-igniting by chemical reaction and shall include but not limited to acrolein, allene, aluminum dyethyl monochloride, and other aluminum compounds, ammonium chlorate and other ammonium mixtures and other similar substances or materials.\n(3) \"Corrosive\" is any substance or material, either liquid, solid or gaseous, which through chemical reaction wears away, impairs or consumes any object. It shall include but not limited to alkaline battery fluid packed with empty storage battery, allyl chloroformate, allytrichlorosilane, ammonium dinitro-orthocresolate and other similar materials and substances.\n(4) \"Poisonous\" is any substance or materials, except medicinal drug, either liquid, solid or gaseous, which through chemical reactions kills, injuries or impairs a living organism or person, and shall include but not limited to allyl isothiocyanate, ammunition (chemical, non-explosive but containing Class A, B or poison), aniline oil, arsine, bromobenzyle cyanide, bromoacetone and other similar substances or materials."
+   }
+  },
+  {
+   "id": "PH-H4822-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Any violation of Section three hereof shall be punishable by an imprisonment of at least five years but not more than ten years or by a fine of not less than ten thousand pesos but not more than twenty thousand pesos: Provided , That if the violation is committed by a juridical person, the penalty shall be imposed upon the manager, representative, director, agent or employee who violated, or caused, directed, cooperated or participated in the violation thereof: Provided , further , That in case the violation is committed in the interest of a foreign corporation legally doing business in the Philippines, the penalty shall be imposed upon its resident agent, manager, representative or director responsible for such violation and in addition thereto, the license of said corporation to do business in the Philippines shall be revoked.\nAny violation of Section four hereof shall be an offense punishable with the minimum of the penalty provided in the next preceding paragraph."
+   }
+  },
+  {
+   "id": "PH-H4822-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "For any death or injury to persons or damage to property resulting from a violation of Sections three and four hereof, the person responsible therefor may be held liable in accordance with the applicable provisions of the Revised Penal Code."
+   }
+  },
+  {
+   "id": "PH-H4822-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "Aircraft companies which operate as public utilities or operators of aircraft which are for hire are authorized to open and investigate suspicious packages and cargoes in the presence of the owner or shipper, or his authorized representatives if present; in order to help the authorities in the enforcement of the provisions of this Act: Provided , That if the owner, shipper or his representative refuses to have the same opened and inspected, the airline or air carrier is authorized to refuse the loading thereof."
+   }
+  },
+  {
+   "id": "PH-H4822-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "text": {
+    "en": "Every ticket issued to a passenger by the airline or air carrier concerned shall contain among others the following condition printed thereon: \"Holder hereof and his hand-carried luggage(s) are subject to search for, and seizure of, prohibited materials or substances. Holder refusing to be searched shall not be allowed to board the aircraft,\" which shall constitute a part of the contract between the passenger and the air carrier."
+   }
+  },
+  {
+   "id": "PH-H4822-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "text": {
+    "en": "The Civil Aeronautics Administration is hereby directed to promulgate within one month after the approval of this Act such regulations as are provided in Section four hereof and cause the publication of such rules and regulations in the Official Gazette and in a newspaper of national circulation for at least once a week for three consecutive weeks. Such regulations shall take effect fifteen days after publication in the Official Gazette."
+   }
+  },
+  {
+   "id": "PH-H4822-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "text": {
+    "en": "This Act shall take effect after the publication mentioned in the preceding section.\nApproved: June 19, 1971"
+   }
+  }
+ ]
+}

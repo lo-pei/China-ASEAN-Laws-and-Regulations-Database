@@ -1,0 +1,382 @@
+{
+ "id": "SG-H212",
+ "title": {
+  "zh": null,
+  "en": "Apostille Act 2020",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p03",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act AA2020",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 22,
+ "chars": 20261,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/AA2020?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 22 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H212-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Apostille Act 2020."
+   }
+  },
+  {
+   "id": "SG-H212-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“Convention” means the Hague Convention Abolishing the Requirement of Legalisation for Foreign Public Documents, done at the Hague on 5 October 1961, the English text of which is set out in the First Schedule;\n“Convention State” means a State Party to the Convention other than Singapore, but does not include —\n(a)any State Party that objected to Singapore’s accession to the Convention; and\n(b)any State Party whose accession to the Convention Singapore objected to;\n“Model Certificate” means the model certificate set out in the Annex to the Convention."
+   }
+  },
+  {
+   "id": "SG-H212-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Purpose"
+   },
+   "text": {
+    "en": "3.—(1) The purpose of this Act is to give effect to the Convention.\n(2) Part 2 —\n(a)exempts foreign public documents (as defined in that Part) from any requirement of legalisation; and\n(b)provides for the effect of certificates issued under the Convention and facilitates (but does not require) their use.\n(3) Part 3 provides for certificates to be issued under the Convention for Singapore public documents (as defined in that Part)."
+   }
+  },
+  {
+   "id": "SG-H212-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Act binds Government"
+   },
+   "text": {
+    "en": "4. This Act binds the Government."
+   }
+  },
+  {
+   "id": "SG-H212-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF ORIGIN OF FOREIGN PUBLIC DOCUMENTS"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "5. This Part applies to a foreign public document sought to be produced in Singapore for any purpose, including —\n(a)the purposes of proceedings in any court or tribunal; and\n(b)the purposes of exercising any power or right, or performing any function, duty or obligation, under or pursuant to any written law or rule of law."
+   }
+  },
+  {
+   "id": "SG-H212-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF ORIGIN OF FOREIGN PUBLIC DOCUMENTS"
+   },
+   "heading": {
+    "en": "What is a foreign public document"
+   },
+   "text": {
+    "en": "6. In this Part, “foreign public document” —\n(a)means —\n(i)a document executed in the territory of a Convention State and falling within any of the following categories:\n(A)a document emanating from an authority or official connected with the courts or tribunals of that State, including a document emanating from a public prosecutor, a clerk of a court or a process‑server;\n(B)an administrative document;\n(C)a notarial act;\n(D)an official certificate that is placed on a document signed by a person in his or her private capacity (for example, an official certificate recording the registration of a document or the fact that the document was in existence on a certain date, or an official or a notarial authentication of a signature); or\n(ii)a document (including a document that is not signed, sealed or stamped) that —\n(A)emanates from a Convention State; and\n(B)is treated as a public document by the law of that State; but\n(b)does not include a document executed by a diplomatic or consular agent."
+   }
+  },
+  {
+   "id": "SG-H212-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF ORIGIN OF FOREIGN PUBLIC DOCUMENTS"
+   },
+   "heading": {
+    "en": "What is meant by the origin of a foreign public document"
+   },
+   "text": {
+    "en": "7. In this Part, a reference to the origin of a foreign public document, or of a document purporting to be a foreign public document, is a reference to the following aspects of the document:\n(a)the authenticity of the signature on the document;\n(b)the capacity in which the person signing the document has acted;\n(c)where appropriate, the identity of the seal or stamp that the document bears."
+   }
+  },
+  {
+   "id": "SG-H212-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF ORIGIN OF FOREIGN PUBLIC DOCUMENTS"
+   },
+   "heading": {
+    "en": "What is legalisation of a foreign public document"
+   },
+   "text": {
+    "en": "8. In this Part, “legalisation”, in relation to a foreign public document, means the formality by which the diplomatic or consular agents of Singapore certify the origin of a foreign public document."
+   }
+  },
+  {
+   "id": "SG-H212-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF ORIGIN OF FOREIGN PUBLIC DOCUMENTS"
+   },
+   "heading": {
+    "en": "Legalisation not required for foreign public documents"
+   },
+   "text": {
+    "en": "9.—(1) Legalisation is not required, and may not be performed, in relation to a foreign public document.\n(2) This section applies despite any written law or rule of law to the contrary."
+   }
+  },
+  {
+   "id": "SG-H212-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF ORIGIN OF FOREIGN PUBLIC DOCUMENTS"
+   },
+   "heading": {
+    "en": "What is a Convention certificate (also known as an apostille)"
+   },
+   "text": {
+    "en": "10. In this Part, “Convention certificate”, in relation to a foreign public document or a document purporting to be a foreign public document, means a certificate issued —\n(a)to certify the document for the purposes of the Convention; and\n(b)by an authority that, at the time of issuing the certificate, is designated by the State in which territory the document was executed, or from which the document emanates, as competent to issue the certificate in respect of the document."
+   }
+  },
+  {
+   "id": "SG-H212-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF ORIGIN OF FOREIGN PUBLIC DOCUMENTS"
+   },
+   "heading": {
+    "en": "Effect of Convention certificate if used"
+   },
+   "text": {
+    "en": "11.—(1) This section applies if a document purporting to be a Convention certificate (called in this section the purported certificate) is placed on or attached to a document purporting to be a foreign public document (called in this section the certified document).\n(2) Subject to subsection (3), the origin of the certified document is presumed to be sufficiently proven.\n(3) Subsection (2) does not apply —\n(a)if the contrary is proven;\n(b)if it is proven that the certified document is not in fact a foreign public document;\n(c)if it is proven that the purported certificate is not in fact a Convention certificate in relation to the certified document; or\n(d)if, and to the extent that, it is proven that —\n(i)the purported certificate suffers from any of the following defects:\n(A)the certificate is not in, or substantially in, the form of the Model Certificate;\n(B)any information required by the Model Certificate is omitted (unless the omitted information is not applicable to the certified document);\n(C)the purported certificate has been damaged, tampered with or modified;\n(D)the purported certificate is no longer placed on or attached to the certified document; and\n(ii)the defect affects the authenticity or reliability of the purported certificate in relation to the certified document."
+   }
+  },
+  {
+   "id": "SG-H212-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF ORIGIN OF FOREIGN PUBLIC DOCUMENTS"
+   },
+   "heading": {
+    "en": "Use of Convention certificate generally not mandatory"
+   },
+   "text": {
+    "en": "12.—(1) Subject to subsection (2), a person seeking to prove the origin of a foreign public document —\n(a)is not required to do so by means of a Convention certificate; and\n(b)is not required to comply with any more rigorous formality.\n(2) A person seeking to prove the origin of a specified foreign public document —\n(a)may be required to do so by means of a Convention certificate; but\n(b)is not required to comply with any more rigorous formality.\n(3) This section applies despite any written law or rule of law to the contrary.\n(4) In this section —\n“more rigorous formality” means a formality that is more rigorous than placing a Convention certificate on, or attaching a Convention certificate to, a foreign public document;\n“specified foreign public document” means a foreign public document falling within any of the following classes:\n(a)any class of documents for which legalisation is or may be required by or under any written law or any practice before the date of Singapore’s accession to the Convention;\n(b)any class of documents that did not exist before the date of Singapore’s accession to the Convention."
+   }
+  },
+  {
+   "id": "SG-H212-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF ORIGIN OF FOREIGN PUBLIC DOCUMENTS"
+   },
+   "heading": {
+    "en": "Other modes of proof, etc., not affected"
+   },
+   "text": {
+    "en": "13. Nothing in this Part prevents a foreign public document (or any aspect thereof) from being proven, produced, certified or accepted in any manner permitted by any other law."
+   }
+  },
+  {
+   "id": "SG-H212-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 CERTIFICATION OF SINGAPORE PUBLIC DOCUMENTS"
+   },
+   "heading": {
+    "en": "What is a Singapore public document"
+   },
+   "text": {
+    "en": "14. In this Part, “Singapore public document” —\n(a)means —\n(i)a document executed in Singapore and falling within any of the following categories:\n(A)a document emanating from an authority or official connected with the courts or tribunals of Singapore, including a document emanating from a public prosecutor, a clerk of a court or a process‑server;\n(B)an administrative document;\n(C)a notarial act;\n(D)an official certificate that is placed on a document signed by a person in his or her private capacity (for example, an official certificate recording the registration of a document or the fact that the document was in existence on a certain date, or an official or a notarial authentication of a signature); or\n(ii)a document (including a document that is not signed, sealed or stamped) that is prescribed to be a Singapore public document; but\n(b)does not include any of the following documents:\n(i)a document executed by a diplomatic or consular agent;\n(ii)a prescribed private document."
+   }
+  },
+  {
+   "id": "SG-H212-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 CERTIFICATION OF SINGAPORE PUBLIC DOCUMENTS"
+   },
+   "heading": {
+    "en": "What is a competent authority"
+   },
+   "text": {
+    "en": "15. In this Part, an authority specified in the first column of the Second Schedule is a competent authority in relation to the Singapore public documents specified opposite the authority in the second column of that Schedule."
+   }
+  },
+  {
+   "id": "SG-H212-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 CERTIFICATION OF SINGAPORE PUBLIC DOCUMENTS"
+   },
+   "heading": {
+    "en": "Certification of public document executed in Singapore"
+   },
+   "text": {
+    "en": "16.—(1) Subject to section 17, a competent authority must issue a certificate for a Singapore public document on the request of —\n(a)the person who signed the document; or\n(b)any bearer of the document.\n(2) The certificate must be —\n(a)numbered and dated in the prescribed manner;\n(b)in the form of the Model Certificate, subject to any prescribed modifications; and\n(c)placed on, or attached to, the Singapore public document or a copy thereof in the prescribed manner.\n(3) Regulations may provide for a certificate to be issued in electronic form, whether or not the underlying public document is also in electronic form."
+   }
+  },
+  {
+   "id": "SG-H212-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 CERTIFICATION OF SINGAPORE PUBLIC DOCUMENTS"
+   },
+   "heading": {
+    "en": "Grounds for refusing to issue certificate"
+   },
+   "text": {
+    "en": "17.—(1) An authority must refuse to issue a certificate for a document under section 16 if any of the following grounds apply:\n(a)the document is not a Singapore public document;\n(b)there are reasonable grounds for the authority to believe that the document is forged or falsified;\n(c)the authority is not competent to issue the certificate;\n(d)the person requesting for the certificate fails to provide any prescribed information or any other information required by the authority;\n(e)the prescribed fee is not paid;\n(f)any prescribed ground.\n(2) A competent authority may refuse to issue a certificate for a public document if any of the following grounds apply:\n(a)the authority is unable to verify the authenticity of the signature, seal or stamp on the document;\n(b)any prescribed ground."
+   }
+  },
+  {
+   "id": "SG-H212-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 CERTIFICATION OF SINGAPORE PUBLIC DOCUMENTS"
+   },
+   "heading": {
+    "en": "Register of certificates"
+   },
+   "text": {
+    "en": "18.—(1) A competent authority must keep a register of every certificate it issues.\n(2) The register must be kept in the prescribed manner and must record, in respect of each certificate —\n(a)the number and date of the certificate;\n(b)the name of the person who signed the certified Singapore public document and the capacity in which he or she acted;\n(c)if applicable, the name of the authority that affixed the seal or stamp on the certified Singapore public document; and\n(d)any other information that may be prescribed.\n(3) Regulations must provide for the means by which a person may verify the authenticity of a document purporting to be a certificate issued by a competent authority.\n(4) Regulations may provide for a joint register to be kept by 2 or more competent authorities."
+   }
+  },
+  {
+   "id": "SG-H212-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Amendment of Second Schedule"
+   },
+   "text": {
+    "en": "19.—(1) The Minister may, by order in the Gazette, amend the Second Schedule.\n(2) Without limiting subsection (1), an order under that subsection may specify, in the second column of the Second Schedule —\n(a)all or a specified class of Singapore public documents opposite an authority in the first column; and\n(b)the same class of Singapore public documents opposite 2 or more authorities in the first column."
+   }
+  },
+  {
+   "id": "SG-H212-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "20. The Minister may make regulations —\n(a)to prescribe any matter required or permitted to be prescribed under Part 3;\n(b)to prescribe any fees for the purposes of Part 3; and\n(c)generally for the purposes of this Act."
+   }
+  },
+  {
+   "id": "SG-H212-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nSection 2\nThe Hague Convention Abolishing the\nRequirement of Legalisation for\nForeign Public Documents\nThe States signatory to the present Convention,\nDesiring to abolish the requirement of diplomatic or consular legalisation for foreign public documents,\nHave resolved to conclude a Convention to this effect and have agreed upon the following provisions:\nArticle 1\nThe present Convention shall apply to public documents which have been executed in the territory of one Contracting State and which have to be produced in the territory of another Contracting State.\nFor the purposes of the present Convention, the following are deemed to be public documents:\n(a)documents emanating from an authority or an official connected with the courts or tribunals of the State, including those emanating from a public prosecutor, a clerk of a court or a process‑server (“huissier de justice”);\n(b)administrative documents;\n(c)notarial acts;\n(d)official certificates which are placed on documents signed by persons in their private capacity, such as official certificates recording the registration of a document or the fact that it was in existence on a certain date and official and notarial authentications of signatures.\nHowever, the present Convention shall not apply:\n(a)to documents executed by diplomatic or consular agents;\n(b)to administrative documents dealing directly with commercial or customs operations.\nArticle 2\nEach Contracting State shall exempt from legalisation documents to which the present Convention applies and which have to be produced in its territory. For the purposes of the present Convention, legalisation means only the formality by which the diplomatic or consular agents of the country in which the document has to be produced certify the authenticity of the signature, the capacity in which the person signing the document has acted and, where appropriate, the identity of the seal or stamp which it bears.\nArticle 3\nThe only formality that may be required in order to certify the authenticity of the signature, the capacity in which the person signing the document has acted and, where appropriate, the identity of the seal or stamp which it bears, is the addition of the certificate described in Article 4, issued by the competent authority of the State from which the document emanates.\nHowever, the formality mentioned in the preceding paragraph cannot be required when either the laws, regulations, or practice in force in the State where the document is produced or an agreement between two or more Contracting States have abolished or simplified it, or exempt the document itself from legalisation.\nArticle 4\nThe certificate referred to in the first paragraph of Article 3 shall be placed on the document itself or on an “allonge”; it shall be in the form of the model annexed to the present Convention.\nIt may, however, be drawn up in the official language of the authority which issues it. The standard terms appearing therein may be in a second language also. The title “Apostille (Convention de La Haye du 5 octobre 1961)” shall be in the French language.\nArticle 5\nThe certificate shall be issued at the request of the person who has signed the document or of any bearer.\nWhen properly filled in, it will certify the authenticity of the signature, the capacity in which the person signing the document has acted and, where appropriate, the identity of the seal or stamp which the document bears.\nThe signature, seal and stamp on the certificate are exempt from all certification.\nArticle 6\nEach Contracting State shall designate by reference to their official function, the authorities who are competent to issue the certificate referred to in the first paragraph of Article 3.\nIt shall give notice of such designation to the Ministry of Foreign Affairs of the Netherlands at the time it deposits its instrument of ratification or of accession or its declaration of extension. It shall also give notice of any change in the designated authorities.\nArticle 7\nEach of the authorities designated in accordance with Article 6 shall keep a register or card index in which it shall record the certificates issued, specifying:\n(a)the number and date of the certificate,\n(b)the name of the person signing the public document and the capacity in which he has acted, or in the case of unsigned documents, the name of the authority which has affixed the seal or stamp.\nAt the request of any interested person, the authority which has issued the certificate shall verify whether the particulars in the certificate correspond with those in the register or card index.\nArticle 8\nWhen a treaty, convention or agreement between two or more Contracting States contains provisions which subject the certification of a signature, seal or stamp to certain formalities, the present Convention will only override such provisions if those formalities are more rigorous than the formality referred to in Articles 3 and 4.\nArticle 9\nEach Contracting State shall take the necessary steps to prevent the performance of legalisations by its diplomatic or consular agents in cases where the present Convention provides for exemption.\nArticle 10\nThe present Convention shall be open for signature by the States represented at the Ninth Session of the Hague Conference on Private International Law and Iceland, Ireland, Liechtenstein and Turkey.\nIt shall be ratified, and the instruments of ratification shall be deposited with the Ministry of Foreign Affairs of the Netherlands.\nArticle 11\nThe present Convention shall enter into force on the sixtieth day after the deposit of the third instrument of ratification referred to in the second paragraph of Article 10.\nThe Convention shall enter into force for each signatory State which ratifies subsequently on the sixtieth day after the deposit of its instrument of ratification.\nArticle 12\nAny State not referred to in Article 10 may accede to the present Convention after it has entered into force in accordance with the first paragraph of Article 11. The instrument of accession shall be deposited with the Ministry of Foreign Affairs of the Netherlands.\nSuch accession shall have effect only as regards the relations between the acceding State and those Contracting States which have not raised an objection to its accession in the six months after the receipt of the notification referred to in sub‑paragraph (d) of Article 15. Any such objection shall be notified to the Ministry of Foreign Affairs of the Netherlands.\nThe Convention shall enter into force as between the acceding State and the States which have raised no objection to its accession on the sixtieth day after the expiry of the period of six months mentioned in the preceding paragraph.\nArticle 13\nAny State may, at the time of signature, ratification or accession, declare that the present Convention shall extend to all the territories for the international relations of which it is responsible, or to one or more of them. Such a declaration shall take effect on the date of entry into force of the Convention for the State concerned.\nAt any time thereafter, such extensions shall be notified to the Ministry of Foreign Affairs of the Netherlands.\nWhen the declaration of extension is made by a State which has signed and ratified, the Convention shall enter into force for the territories concerned in accordance with Article 11. When the declaration of extension is made by a State which has acceded, the Convention shall enter into force for the territories concerned in accordance with Article 12.\nArticle 14\nThe present Convention shall remain in force for five years from the date of its entry into force in accordance with the first paragraph of Article 11, even for States which have ratified it or acceded to it subsequently.\nIf there has been no denunciation, the Convention shall be renewed tacitly every five years.\nAny denunciation shall be notified to the Ministry of Foreign Affairs of the Netherlands at least six months before the end of the five year period.\nIt may be limited to certain of the territories to which the Convention applies.\nThe denunciation will only have effect as regards the State which has notified it. The Convention shall remain in force for the other Contracting States.\nArticle 15\nThe Ministry of Foreign Affairs of the Netherlands shall give notice to the States referred to in Article 10, and to the States which have acceded in accordance with Article 12, of the following:\n(a)the notifications referred to in the second paragraph of Article 6;\n(b)the signatures and ratifications referred to in Article 10;\n(c)the date on which the present Convention enters into force in accordance with the first paragraph of Article 11;\n(d)the accessions and objections referred to in Article 12 and the date on which such accessions take effect;\n(e)the extensions referred to in Article 13 and the date on which they take effect;\n(f)the denunciations referred to in the third paragraph of Article 14.\nANNEX TO THE CONVENTION\nModel of certificate\nThe certificate will be in the form of a square with sides at least 9 centimetres long\nAPOSTILLE\n(Convention de La Haye du 5 octobre 1961)\n1.Country: …………………………………………………………………………….………......\nThis public document\n2.has been signed by …………………………..…………….…………………………………\n3.acting in the capacity of ………………………………..……………………….…………..\n4.bears the seal/stamp of …………………………………………………………………..…\n…………………………………………………………………..…………………………………..\nCertified\n5.at ………………….……………………….\n6.the ………….………………………..….\n7.by …………………………………………………………………………………………………..\n…………………………………………………………………..…………………………………..\n8.No: ……………………………\n9.Seal/Stamp:\n………………………………….…………..\n10.Signature:\n……………..…………………………….."
+   }
+  },
+  {
+   "id": "SG-H212-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nSections 15 and 19\nCompetent authorities for certifying\nSingapore public documents\nFirst column\nSecond column\nAuthority\nDocuments that\nauthority may certify\n1.Singapore Academy of Law\nAny Singapore public document"
+   }
+  }
+ ]
+}

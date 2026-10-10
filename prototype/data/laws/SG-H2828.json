@@ -1,0 +1,576 @@
+{
+ "id": "SG-H2828",
+ "title": {
+  "zh": null,
+  "en": "Insurance (Valuation and Capital) Regulations 2004",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p36",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation IA1966-S498-2004",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 36,
+ "chars": 80004,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/IA1966-S498-2004?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 36 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 7 篇以 900000+ 序号随同收录。其中 6 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2828-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Insurance (Valuation and Capital) Regulations 2004 and shall come into operation on 23rd August 2004."
+   }
+  },
+  {
+   "id": "SG-H2828-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations, unless the context otherwise requires —\n“Accounting Standards” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);\n“aggregate limit”, in relation to a contract of reinsurance entered into between an SPRV and a ceding insurer, means the maximum amount payable to the ceding insurer under that contract;\n[S 845/2018 wef 01/01/2019]\n[Deleted by S 233/2013 wef 18/04/2013]\n“appointed day” means the date of commencement of these Regulations;\n[Deleted by S 233/2013 wef 18/04/2013]\n[Deleted by S 137/2020 wef 31/03/2020]\n“ceding insurer” means an insurer that enters into a contract of reinsurance with an SPRV;\n[S 845/2018 wef 01/01/2019]\n“collective investment scheme” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);\n[Deleted by S 137/2020 wef 31/03/2020]\n“counterparty” means any person who is under a financial obligation to the insurer;\n“debt security” includes any debenture, bond or note;\n[Deleted by S 137/2020 wef 31/03/2020]\n“equity security” includes any stock, share, depository receipt or unit in a collective investment scheme;\n[Deleted by S 137/2020 wef 31/03/2020]\n[Deleted by S 137/2020 wef 31/03/2020]\n“fully funded”, in relation to an SPRV, means —\n(a)in the case of any contract of reinsurance entered into between the SPRV and a ceding insurer that specifies an aggregate limit, that the assets held on trust or otherwise held under the terms of that contract by or on behalf of the SPRV for the benefit of the ceding insurer are not at any time less than the potential liabilities of the SPRV under all reasonably foreseeable scenarios, taking into account the aggregate limit of that contract and the expenses that the SPRV expects to incur; and\n(b)in the case of any contract of reinsurance entered into between the SPRV and a ceding insurer that does not specify an aggregate limit, that the assets held on trust or otherwise held under the terms of that contract by or on behalf of the SPRV for the benefit of the ceding insurer are not at any time less than the potential liabilities of the SPRV under all reasonably foreseeable scenarios, taking into account the obligations of the SPRV towards the ceding insurer under that contract and the expenses that the SPRV expects to incur;\n[S 845/2018 wef 01/01/2019]\n[Deleted by S 137/2020 wef 31/03/2020]\n“general fund” means an insurance fund established and maintained by a licensed insurer under section 17(1) of the Act for general business;\n[S 137/2020 wef 31/03/2020]\n[Deleted by S 137/2020 wef 31/03/2020]\n“insurance securitisation”, in relation to an SPRV, means any debt or other financing arrangement entered into by the SPRV with an investor, where repayment of the principal or interest (or both) to the investor is contingent upon the occurrence or non-occurrence of an event, upon which the ceding insurer is exposed to financial loss under contracts of insurance or reinsurance that the ceding insurer has issued;\n[S 845/2018 wef 01/01/2019]\n“investment-linked fund” means an insurance fund for investment-linked policies established and maintained under section 17(1A) of the Act;\n[Deleted by S 137/2020 wef 31/03/2020]\n“MAS Notice 129” means the notice commonly known as MAS Notice 129 issued by the Authority under sections 36(3), 36(3A), 37(1)(b) and 64(2) of the Act, as amended from time to time, and includes any notice that replaces it;\n[S 845/2018 wef 01/01/2019]\n“MAS Notice 130” means the notice commonly known as MAS Notice 130 issued by the Authority under sections 36(3), 36(3A) and 64(2) of the Act, as amended from time to time, and includes any notice that replaces it;\n[S 845/2018 wef 01/01/2019]\n“MAS Notice 131” means the notice commonly known as MAS Notice 131 issued by the Authority under sections 36(3), 36(3A) and 64(2) of the Act, as amended from time to time, and includes any notice that replaces it;\n[S 845/2018 wef 01/01/2019]\n“MAS Notice 133” means the notice commonly known as MAS Notice 133 issued by the Authority under sections 18 and 64(2) of the Act, as amended from time to time, and includes any notice that replaces it;\n[S 137/2020 wef 31/03/2020]\n“MAS Notice 212” means the notice commonly known as MAS Notice 212 issued by the Authority under sections 36(3), 36(3A) and 64(2) of the Act, as amended from time to time, and includes any notice that replaces it;\n[S 845/2018 wef 01/01/2019]\n“minimum condition liability”, in relation to a participating fund, means the sum of —\n(a)the liability (net of reinsurance) in respect of each non-participating policy of the fund determined in the manner provided in regulation 20(1); and\n[S 845/2018 wef 01/01/2019]\n(b)the liability (net of reinsurance) in respect of each participating policy of the fund determined in accordance with the manner provided in regulation 20(1) for determining the liability (net of reinsurance) in respect of a non-participating policy, but does not include any provision for non-guaranteed benefits;\n[S 845/2018 wef 01/01/2019]\n[Deleted by S 137/2020 wef 31/03/2020]\n“mortgage insurance policy” means a policy that protects against losses on mortgage loans arising from default by borrowers;\n[S 733/2007 wef 01/01/2008]\n“mortgage insurer” means an insurer licensed under the Act which has liabilities in respect of mortgage insurance policies;\n[S 733/2007 wef 01/01/2008]\n[S 233/2013 wef 18/04/2013]\n“net premiums written” means the net amount of premiums written by an insurer after deduction of return premiums and payments in respect of reinsurance business ceded;\n[S 733/2007 wef 01/01/2008]\n“non-participating fund” means an insurance fund established and maintained under section 17(2) of the Act which comprises wholly of non-participating policies;\n“ordinary share” means any share other than a preference share;\n“participating fund” means an insurance fund established and maintained under section 17(2) of the Act which comprises wholly or partly of participating policies;\n“policy assets”, in relation to a participating fund, means the total assets of the fund as at valuation date less —\n(a)the balance in the surplus account established and maintained in accordance with regulation 22; and\n(b)all liabilities of the fund (except liabilities in respect of the policies comprised in the participating fund);\n[S 845/2018 wef 01/01/2019]\n[Deleted by S 112/2012 wef 28/03/2012]\n“preference share”, in relation to a licensed insurer incorporated in Singapore, has the same meaning as in section 4(1) of the Companies Act (Cap. 50);\n[S 233/2013 wef 18/04/2013]\n[Deleted by S 137/2020 wef 31/03/2020]\n[Deleted by S 137/2020 wef 31/03/2020]\n[Deleted by S 137/2020 wef 31/03/2020]\n“reinsurance recoverables” means any amount that an insurer is entitled to recover, but has yet to recover, from its reinsurance counterparty in respect of claims that have been paid by the insurer;\n“share”, in relation to a licensed insurer incorporated in Singapore, has the same meaning as in section 4(1) of the Companies Act (Cap. 50);\n[S 233/2013 wef 18/04/2013]\n“short-term policy” means —\n(a)a short-term accident and health policy; or\n(b)a policy issued by a licensed insurer as part of the insurer’s life business that has a remaining term of not more than one year in the determination of its liabilities in accordance with MAS Notice 133;\n[S 137/2020 wef 31/03/2020]\n“Special Purpose Reinsurance Vehicle” or “SPRV” means an insurer licensed under section 8 of the Act as a reinsurer to carry on life or general business or both classes of business and —\n(a)is created for the sole purpose of entering into contracts of reinsurance with one or more ceding insurers; and\n(b)at all times fully funds its obligations under the contracts of reinsurance with the ceding insurer or insurers mentioned in paragraph (a) through insurance securitisation;\n[S 845/2018 wef 01/01/2019]\n[Deleted by S 137/2020 wef 31/03/2020]\n“total risk requirement” has the meaning set out in the First Schedule;\n[S 137/2020 wef 31/03/2020]\n[Deleted by S 112/2012 wef 28/03/2012]\n“trade credit insurer” means an insurer licensed under the Act which has liabilities in respect of trade credit insurance policies;\n[S 112/2012 wef 28/03/2012]\n[S 233/2013 wef 18/04/2013]\n[Deleted by S 233/2013 wef 18/04/2013]\n“trade credit insurance policy” means a policy that protects against the risks of loss of an insured arising from —\n(a)the insolvency or default (otherwise than through insolvency) of the debtor of the insured; and\n(b)the debtor failing to pay for goods or services as a result of the insolvency or default;\n[S 233/2013 wef 18/04/2013]\n“unit”, in relation to a collective investment scheme, has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);\n“valuation date” means the date on which the assets and liabilities of a licensed insurer are valued.\n[S 233/2013 wef 18/04/2013]\n(2) In these regulations —\n(a)any reference to a policy of a participating, non-participating or investment-linked fund shall be construed as a reference to a policy in respect of which the participating, non-participating or investment-linked fund, as the case may be, is established or maintained by an insurer under the Act; and\n(b)any reference to a licensed insurer incorporated in Singapore includes a licensed insurer which is a society registered under the Co-operative Societies Act (Cap. 62).\n[S 233/2013 wef 18/04/2013]"
+   }
+  },
+  {
+   "id": "SG-H2828-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART II FINANCIAL REQUIREMENT BEFORE LICENSING, FUND SOLVENCY REQUIREMENT AND CAPITAL ADEQUACY REQUIREMENT"
+   },
+   "heading": {
+    "en": "Paid-up capital requirement"
+   },
+   "text": {
+    "en": "3.—(1) For the purposes of section 8(3)(b) of the Act, the Authority shall not license an applicant as a direct insurer or reinsurer under section 8 of the Act unless the applicant has a paid-up ordinary share capital (or its equivalent recognised by the Authority as applicable to the applicant under the laws of the country or territory in which the applicant is incorporated, formed or established) of no less than —\n(a)in the case of an applicant applying to be a direct insurer carrying on only one of the types of insurance business listed in the Second Schedule, $5 million;\n[S 137/2020 wef 31/03/2020]\n(b)in the case of an applicant applying to be a direct insurer other than a direct insurer referred to in sub-paragraph (a), $10 million; and\n(c)in the case of an applicant applying to be a reinsurer, $25 million.\n[S 845/2018 wef 01/01/2019]\n[S 137/2020 wef 31/03/2020]\n(2) The requirement in paragraph (1) does not apply in relation to —\n(a)an applicant applying to be licensed under section 8 of the Act as a direct insurer to carry on marine mutual insurance business only; or\n(b)an applicant —\n(i)created for the sole purpose of entering into contracts of reinsurance with one or more insurers; and\n(ii)applying to be licensed under section 8 of the Act as a reinsurer, where its obligations under the contracts of reinsurance mentioned in sub-paragraph (i) entered into by the applicant as a licensed reinsurer are to be at all times fully funded through insurance securitisation.\n[S 845/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2828-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART II FINANCIAL REQUIREMENT BEFORE LICENSING, FUND SOLVENCY REQUIREMENT AND CAPITAL ADEQUACY REQUIREMENT"
+   },
+   "heading": {
+    "en": "Fund solvency requirement and capital adequacy requirement"
+   },
+   "text": {
+    "en": "4.—(1) For the purposes of section 18(1)(a) of the Act, the fund solvency requirement in respect of an insurance fund established and maintained by a licensed insurer under the Act is that the total assets of the fund must not at any time be less than the total liabilities of the fund.\n(2) The fund solvency requirement of an adjusted fund is that the financial resources of the adjusted fund must not at any time be less than —\n(a)the amount of the total risk requirement of the adjusted fund at the higher solvency intervention level; and\n(b)the amount of the total risk requirement of the adjusted fund at the lower solvency intervention level.\n(3) For the purposes of section 18(1)(b) of the Act, the capital adequacy requirement of a licensed insurer is that the financial resources of the insurer must not at any time be less than —\n(a)the higher of the following:\n(i)the amount of the total risk requirement of the licensed insurer at the higher solvency intervention level;\n(ii)$5 million; and\n(b)the higher of the following:\n(i)the amount of the total risk requirement of the licensed insurer at the lower solvency intervention level;\n(ii)$5 million.\n(4) A licensed insurer must immediately give written notice to the Authority when the insurer becomes aware that the fund solvency requirement mentioned in paragraph (1) or (2), or the capital adequacy requirement mentioned in paragraph (3), is not satisfied or is not likely to be satisfied in accordance with section 18(1) of the Act.\n(5) A licensed insurer is not excused from giving written notice to the Authority under paragraph (4) on the ground that the disclosure of any information in the written notice may tend to incriminate the insurer.\n(6) Where a licensed insurer claims, before giving written notice to the Authority under paragraph (4), that any information in the notice may tend to incriminate the insurer, that information is not admissible in evidence against the insurer in criminal proceedings, except for proceedings for an offence under section 18(6) of the Act.\n(7) Where the Authority is notified by a licensed insurer or becomes aware that the financial resources of the adjusted fund, or the financial resources of the insurer, are less than or likely to be less than the amount of the total risk requirement of the adjusted fund or licensed insurer (as the case may be) at the higher solvency intervention level, the Authority may issue a direction to the insurer for all or any of the following purposes:\n(a)requiring the insurer —\n(i)to satisfy the fund solvency requirement of the adjusted fund, or the capital adequacy requirement of the licensed insurer (as the case may be) by the end of the period determined by the Authority;\n(ii)to submit to the Authority a plan on how the insurer intends to satisfy that requirement; and\n(iii)to submit to the Authority the financial statements of the insurer on a monthly basis or at other interval required by the Authority, until the insurer has continuously satisfied that requirement for a period determined by the Authority;\n(b)directing the insurer to carry on its business in any manner and in accordance with any condition imposed by the Authority.\n(8) Where the Authority is notified by a licensed insurer or becomes aware that the financial resources of an adjusted fund of the insurer, or the financial resources of the insurer, are less than or likely to be less than the amount of the total risk requirement of the adjusted fund or licensed insurer (as the case may be) at the lower solvency intervention level, the Authority may issue a direction to the insurer for all or any of the following purposes:\n(a)requiring the insurer —\n(i)to stop renewing any existing policy or issuing any new policy in respect of one or more classes of insurance business;\n(ii)to satisfy the fund solvency requirement of the adjusted fund, or the capital adequacy requirement of the licensed insurer (as the case may be) by the end of the period determined by the Authority;\n(iii)to submit to the Authority a plan on how the insurer intends to satisfy that requirement; and\n(iv)to submit to the Authority the financial statements of the insurer on a monthly basis or at other interval required by the Authority, until the insurer has continuously satisfied that requirement for a period determined by the Authority;\n(b)directing the insurer to carry on its business in any manner and in accordance with any condition imposed by the Authority.\n(9) To avoid doubt, paragraph (8) does not affect any power of the Authority to cancel the licence of any insurer.\n(10) Where the Authority has issued a direction to a licensed insurer under paragraph (7) or (8) —\n(a)the fund solvency requirement under paragraph (2) does not apply in relation to the adjusted fund in respect of which the direction was issued to the insurer; or\n(b)the capital adequacy requirement mentioned in paragraph (3) does not apply in relation to the insurer,\nas the case may be, during the period of validity of the direction.\n(11) In this regulation, an adjusted fund is —\n(a)a participating fund established and maintained by a licensed insurer under the Act that relates to Singapore policies;\n(b)a participating fund established and maintained by a licensed insurer under the Act that relates to offshore policies;\n(c)the aggregate of the following insurance funds (if any) established and maintained by a licensed insurer under the Act that relate to Singapore policies:\n(i)a non-participating fund;\n(ii)an investment-linked fund;\n(iii)a general fund; or\n(d)the aggregate of the following insurance funds (if any) established and maintained by a licensed insurer under the Act that relate to offshore policies:\n(i)a non-participating fund;\n(ii)an investment-linked fund;\n(iii)a general fund.\n(12) In this regulation —\n“financial resources” means any asset or other resources specified in MAS Notice 133 to be eligible for the purpose of meeting the total risk requirement of an adjusted fund or a licensed insurer, as the case may be;\n“higher solvency intervention level”, in relation to the amount of the total risk requirement of an adjusted fund or a licensed insurer, is the amount specified in MAS Notice 133 as the higher solvency intervention level;\n“lower solvency intervention level”, in relation to the amount of the total risk requirement of an adjusted fund or a licensed insurer, is the amount specified in MAS Notice 133 as the lower solvency intervention level.\n(13) This regulation does not apply to a captive insurer, an SPRV and a marine mutual insurer.\n[S 137/2020 wef 31/03/2020]"
+   }
+  },
+  {
+   "id": "SG-H2828-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART III OTHER FINANCIAL REQUIREMENTS"
+   },
+   "heading": {
+    "en": "Reduction in paid-up ordinary share capital or redemption of preference shares"
+   },
+   "text": {
+    "en": "5.—(1) A licensed insurer incorporated in Singapore shall not reduce its paid-up ordinary share capital or redeem any preference share without the prior written approval of the Authority.\n[S 233/2013 wef 18/04/2013]\n(2) A licensed insurer incorporated outside Singapore shall not reduce its paid-up ordinary share capital (or its equivalent recognised by the Authority as applicable to the insurer under the laws of the country or territory in which the insurer is incorporated, formed or established) without giving prior notice to the Authority.\n[S 233/2013 wef 18/04/2013]"
+   }
+  },
+  {
+   "id": "SG-H2828-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART III OTHER FINANCIAL REQUIREMENTS"
+   },
+   "text": {
+    "en": "6. [Deleted by S 137/2020 wef 31/03/2020]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2828-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART IV RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "7. This Part applies to the recognition and valuation of the assets of an insurance fund established and maintained under section 17 of the Act.\n[S 845/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2828-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART IV RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Recognition and valuation of assets generally"
+   },
+   "text": {
+    "en": "8. Unless otherwise specified in this Part or any direction issued by the Authority, an asset of an insurance fund is to be recognised and valued by a licensed insurer in accordance with the Accounting Standards.\n[S 845/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2828-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART IV RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Equity securities"
+   },
+   "text": {
+    "en": "9.—(1) A licensed insurer shall value an equity security as follows:\n(a)where it is listed on a securities exchange, at its market value; or\n(b)where it is not listed on any securities exchange, at its net realisable value.\n[S 233/2013 wef 18/04/2013]\n(2) In determining the net realisable value of an equity security which is not listed on a securities exchange, the insurer shall take into account —\n(a)the amount of consideration it would receive by selling the equity security; and\n(b)the net tangible asset value of the equity security."
+   }
+  },
+  {
+   "id": "SG-H2828-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART IV RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Debt securities"
+   },
+   "text": {
+    "en": "10.—(1) A licensed insurer shall value a debt security as follows:\n(a)where it is listed on any securities exchange, at its market value; or\n(b)where it is not listed on any securities exchange, at its net realisable value.\n[S 233/2013 wef 18/04/2013]\n(2) In determining the net realisable value of a debt security that is not listed on a securities exchange, the insurer shall take into account —\n(a)the prevailing interest rate;\n(b)the likelihood of default by the issuer; and\n(c)the cash flows that are expected to arise from the debt security."
+   }
+  },
+  {
+   "id": "SG-H2828-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART IV RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Land and buildings"
+   },
+   "text": {
+    "en": "11.—(1) A licensed insurer shall value any land or building at its estimated market value.\n[S 233/2013 wef 18/04/2013]\n(2) In estimating the market value of any land or building, the insurer shall take into account —\n(a)the last available valuation report made by a qualified property valuer;\n(b)the prevailing market for the land or building; and\n(c)any damage or improvement affecting the land or building from the date of the last available valuation report.\n(3) An insurer shall obtain a new valuation from a qualified property valuer —\n(a)when the value of the land or building has been substantially impaired by any event; and\n(b)in any event, at least once every 3 years.\n(4) For the purposes of paragraph (3), the qualified property valuer shall conduct a physical inspection of the land or building in providing the valuation.\n[S 112/2012 wef 28/03/2012]"
+   }
+  },
+  {
+   "id": "SG-H2828-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART IV RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Loans"
+   },
+   "text": {
+    "en": "12. A licensed insurer shall value loans made to other persons by aggregating the principal amounts outstanding under all loans less any allowance for impairment losses.\n[S 233/2013 wef 18/04/2013]\n[S 845/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2828-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART IV RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Cash and deposits"
+   },
+   "text": {
+    "en": "13.—(1) A licensed insurer shall value any cash or deposit with a financial institution, other than a negotiable certificate of deposit, at the nominal amount of such cash or deposit after deducting any amount deemed uncollectible from the financial institution.\n[S 233/2013 wef 18/04/2013]\n(2) A licensed insurer shall value a negotiable certificate of deposit at its market value.\n[S 233/2013 wef 18/04/2013]"
+   }
+  },
+  {
+   "id": "SG-H2828-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART IV RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Outstanding premiums and agents’ balances"
+   },
+   "text": {
+    "en": "14. A licensed insurer shall value the outstanding premiums and agents’ balances by aggregating the principal amounts outstanding after deducting any allowance for impairment losses.\n[S 233/2013 wef 18/04/2013]\n[S 845/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2828-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART IV RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Deposits withheld by cedants"
+   },
+   "text": {
+    "en": "15. A licensed insurer shall value deposits withheld by cedants by aggregating the amounts of deposits outstanding after deducting any amount deemed uncollectible from the cedant.\n[S 233/2013 wef 18/04/2013]"
+   }
+  },
+  {
+   "id": "SG-H2828-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART IV RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Reinsurance recoverables"
+   },
+   "text": {
+    "en": "16. A licensed insurer shall value reinsurance recoverables by aggregating the amounts of reinsurance recoverables outstanding after deducting any allowance for impairment losses.\n[S 233/2013 wef 18/04/2013]\n[S 845/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2828-A16.001",
+   "no": 16.001,
+   "noLabel": {
+    "en": "16A."
+   },
+   "chapter": {
+    "en": "PART IV RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Reinsurers’ share of policy liabilities"
+   },
+   "text": {
+    "en": "16A.—(1) A licensed insurer must recognise, as assets of an insurance fund established and maintained under section 17 of the Act for the general business of the insurer, the reinsurers’ share of premium liabilities, and the reinsurers’ share of claim liabilities, in respect of the policies of the insurance fund.\n(2) A licensed insurer must calculate the reinsurers’ share of premium liabilities mentioned in paragraph (1) as the amount of premium liabilities (gross of reinsurance) less the amount of premium liabilities (net of reinsurance).\n(3) A licensed insurer must determine the amount of premium liabilities (gross of reinsurance) and the amount of premium liabilities (net of reinsurance) mentioned in paragraph (2) in the manner provided in regulations 19A(2)(a) and 19(1)(a), respectively.\n(4) A licensed insurer must calculate the reinsurers’ share of claim liabilities mentioned in paragraph (1) as the amount of claim liabilities (gross of reinsurance) less the amount of claim liabilities (net of reinsurance).\n(5) A licensed insurer must determine the amount of claim liabilities (gross of reinsurance) and the amount of claim liabilities (net of reinsurance) mentioned in paragraph (4) in the manner provided in regulations 19A(2)(b) and 19(1)(b), respectively.\n(6) A licensed insurer must make separate calculations of the reinsurers’ share of premium liabilities and the reinsurers’ share of claim liabilities for each line of business that is carried on by the insurer and that is described in the following Form (whichever is applicable):\n(a)in the case of a licensed insurer who is not a captive insurer, an SPRV or a marine mutual insurer — Form G1 in Appendix B to MAS Notice 129;\n(b)in the case of a captive insurer — Form G1 in Appendix B to MAS Notice 130;\n(c)in the case of an SPRV — Form G1 in Appendix B to MAS Notice 131;\n(d)in the case of a marine mutual insurer — Form G1 in Appendix B to MAS Notice 212.\n(7) A licensed insurer carrying on life business must recognise, as an asset of a participating fund, non-participating fund or investment-linked fund, the reinsurers’ share of policy liabilities in respect of the following, respectively:\n(a)the policies of the participating fund;\n(b)the policies of the non-participating fund;\n(c)the policies of the investment-linked fund.\n(8) A licensed insurer carrying on life business must calculate the reinsurers’ share of policy liabilities in respect of the policies of a participating fund mentioned in paragraph (7)(a) as the value derived from the formula A − B, where —\n(a)A is the sum of —\n(i)the liability (gross of reinsurance) in respect of each non-participating policy of the participating fund, determined in the manner provided in regulation 20A(3); and\n(ii)the liability (gross of reinsurance) in respect of each participating policy of the participating fund, which is the value derived from the formula (W + X) − Y, where —\n(A)W is the value of the expected future payments arising from the guaranteed benefits of the policy (including any expense that the insurer expects to incur in administering the policy and settling any claim against the policy);\n(B)X is any provision for any adverse deviation from the expected experience; and\n(C)Y is the value of future receipts arising from the policy; and\n(b)B is the minimum condition liability of the participating fund.\n(9) A licensed insurer carrying on life business must calculate the reinsurers’ share of policy liabilities in respect of the policies of a non-participating fund mentioned in paragraph (7)(b), which is the value determined in the manner provided in regulation 20A(8) less the value determined in the manner provided in regulation 20(5).\n(10) A licensed insurer carrying on life business must calculate the reinsurers’ share of policy liabilities in respect of the policies of an investment-linked fund mentioned in paragraph (7)(c), which is the value determined in the manner provided in regulation 20A(8) less the value determined in the manner provided in regulation 20(5).\n[S 845/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2828-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART V RECOGNITION AND VALUATION OF LIABILITIES"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "17. This Part applies to the recognition and valuation of the liabilities of an insurance fund established and maintained under section 17 of the Act.\n[S 845/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2828-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART V RECOGNITION AND VALUATION OF LIABILITIES"
+   },
+   "heading": {
+    "en": "Recognition and valuation of liabilities generally"
+   },
+   "text": {
+    "en": "18.—(1) Unless otherwise specified in this Part or in any direction issued under the Act —\n(a)a liability of an insurance fund is to be recognised by a licensed insurer in accordance with the Accounting Standards; and\n(b)a liability of an insurance fund is to be valued by a licensed insurer in accordance with the Accounting Standards and sound actuarial principles.\n[S 845/2018 wef 01/01/2019]\n(2) The Authority may, by notice in writing to a licensed insurer, specify the bases, methodologies and other details of a technical nature to be complied with in relation to the determination of liabilities in respect of a policy and in respect of an insurance fund.\n[S 233/2013 wef 18/04/2013]\n[S 845/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2828-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART V RECOGNITION AND VALUATION OF LIABILITIES"
+   },
+   "heading": {
+    "en": "Valuation of liabilities of general business (net of reinsurance)"
+   },
+   "text": {
+    "en": "19.—(1) A licensed insurer must calculate the liabilities (net of reinsurance) in respect of policies of an insurance fund established and maintained under section 17 of the Act for the general business of the insurer as the sum of —\n(a)premium liabilities (net of reinsurance), which is an amount not less than the higher of the following:\n(i)the unearned premiums reserves (net of reinsurance) of the fund, which is the aggregate of unearned premium reserves (net of reinsurance) for each policy of the fund determined in the manner provided in paragraph (8);\n(ii)the unexpired risk reserves (net of reinsurance), which is the sum of the value of the expected future payments arising from future events insured under policies in force as at the valuation date (including any expense expected to be incurred in administering the policies and settling claims against those policies) and —\n(A)in the case of a captive insurer, an SPRV or a marine mutual insurer, any provision for any adverse deviation from the expected experience; or\n[S 137/2020 wef 31/03/2020]\n(B)in any other case, any provision for any adverse deviation from the expected experience, calculated based on the 75 per cent level of sufficiency; and\n(b)claim liabilities (net of reinsurance), which is an amount not less than the value derived from the formula A + B, where —\n(i)A is the value of the expected future payments in relation to claims incurred prior to the valuation date (including any expense expected to be incurred in settling the claims) and that fall due for payment after the valuation date, whether or not the claims have been reported to the insurer; and\n(ii)B is —\n(A)in the case of a captive insurer, an SPRV or a marine mutual insurer, any provision for any adverse deviation from the expected experience; or\n[S 137/2020 wef 31/03/2020]\n(B)in any other case, any provision for any adverse deviation from the expected experience, calculated based on the 75 per cent level of sufficiency.\n(2) In determining the amount of unearned premium reserves (net of reinsurance) of an insurance fund mentioned in paragraph (1)(a)(i), a marine mutual insurer must treat every insurance policy that it issues as a marine and aviation policy.\n(3) In determining the unexpired risk reserves (net of reinsurance) mentioned in paragraph (1)(a)(ii) and claim liabilities (net of reinsurance) mentioned in paragraph (1)(b), the licensed insurer must —\n(a)make separate estimates of the gross incurred claims and recoveries from the reinsurance counterparty; and\n(b)take into account the likelihood of default by the reinsurance counterparty and any non-reinsurance recovery such as salvage and subrogation.\n(4) A licensed insurer may, instead of determining the unexpired risk reserves (net of reinsurance) mentioned in paragraph (1)(a)(ii) and claim liabilities (net of reinsurance) mentioned in paragraph (1)(b) in the manner provided in paragraph (3), determine the same using claims data that is net of reinsurance if there is no material change in —\n(a)the manner in which liabilities are reinsured during the period to which the data used to determine the unexpired risk reserves (net of reinsurance) and claim liabilities (net of reinsurance) relates; and\n(b)the manner in which liabilities are reinsured at the valuation date.\n(5) A licensed insurer must make separate calculations of the premium liabilities (net of reinsurance), the unexpired risk reserves (net of reinsurance) and the claim liabilities (net of reinsurance) for each line of business that is carried on by the insurer and that is described in the following Form (whichever is applicable):\n(a)in the case of a licensed insurer who is not a captive insurer, an SPRV or a marine mutual insurer — Form G1 in Appendix B to MAS Notice 129;\n(b)in the case of a captive insurer — Form G1 in Appendix B to MAS Notice 130;\n(c)in the case of an SPRV — Form G1 in Appendix B to MAS Notice 131;\n(d)in the case of a marine mutual insurer — Form G1 in Appendix B to MAS Notice 212.\n(6) For the purposes of paragraph (5), a licensed insurer must calculate the premium liabilities (net of reinsurance), the unexpired risk reserves (net of reinsurance) and the claim liabilities (net of reinsurance) for each line of business in the following manner:\n(a)the premium liabilities (net of reinsurance) is an amount not less than the unexpired risk reserves (net of reinsurance);\n(b)the unexpired risk reserves (net of reinsurance) is the value derived from the formula A + B, after allowing for the effect of diversification (if any) at the level of the relevant insurance fund mentioned in paragraph (1), where —\n(i)A is the value of the expected future payments arising from future events insured under policies in force as at the valuation date (including any expense expected to be incurred in administering the policies and settling claims against the policies); and\n(ii)B is –—\n(A)in the case of a captive insurer, an SPRV or a marine mutual insurer, any provision for any adverse deviation from the expected experience; or\n[S 137/2020 wef 31/03/2020]\n(B)in any other case, any provision for any adverse deviation from the expected experience, calculated based on the 75 per cent level of sufficiency;\n(c)the claim liabilities (net of reinsurance) is an amount not less than the value derived from the formula A + B, after allowing for the effect of diversification (if any) at the level of the relevant insurance fund mentioned in paragraph (1), where —\n(i)A is the value of the expected future payments in relation to claims incurred prior to the valuation date (including any expense expected to be incurred in settling the claims) and that fall due for payment after the valuation date, whether or not they have been reported to the insurer; and\n(ii)B is —\n(A)in the case of a captive insurer, an SPRV or a marine mutual insurer, any provision for any adverse deviation from the expected experience; or\n[S 137/2020 wef 31/03/2020]\n(B)in any other case, any provision for any adverse deviation from the expected experience, calculated based on the 75 per cent level of sufficiency.\n(7) In respect of the general business of an insurer (other than a captive insurer, an SPRV or a marine mutual insurer), the amount of premium liabilities (net of reinsurance) and claim liabilities (net of reinsurance) as at the end of an accounting period for each line of business that is carried on by the insurer and that is described in Form G1 in Appendix B to MAS Notice 129 must not be less than the corresponding amount of premium liabilities (net of reinsurance) and claim liabilities (net of reinsurance) as valued by the actuary appointed under section 37(1)(a) of the Act.\n(8) The amount of unearned premium reserves (net of reinsurance) for a policy in respect of general business must be —\n(a)subject to sub-paragraphs (b) and (c) and paragraph (9), an amount calculated on a basis not less accurate than the 1/24th method;\n(b)in the case of a direct insurer that underwrites risks relating to cargo policies, an amount not less than 25% of the net premiums written in the accounting period for those policies or an amount calculated on a basis not less accurate than the 1/24th method; or\n(c)in the case of an insurer that carries on the business of reinsurance of liabilities under insurance policies —\n(i)an amount not less than 25% of the net premiums written in the accounting period in the case of marine and aviation policies and 40% of the net premiums written in the accounting period in other cases; or\n(ii)an amount calculated on a basis not less accurate than the 1/24th method.\n(9) The amount of unearned premium reserves (net of reinsurance) for a policy in respect of general business must be calculated —\n(a)where the 1/24th method or some other more accurate method is used, using an amount of net premiums written that is reduced by the actual commissions payable; or\n(b)in any other case, using an amount of net premiums written without any deduction for commissions payable from the net premiums.\n(10) In this regulation, “marine and aviation policy” means a policy of insurance —\n(a)upon goods, merchandise or property of any description transported on board vessels, aircraft or other means of conveyance, including incidental transit before and after shipment;\n(b)upon the freight of, or any other interest in or relating to vessels, aircraft or other means of conveyance;\n(c)upon vessels or aircraft, or upon machinery, tackle furniture or equipment of vessels or aircraft;\n(d)against damage arising out of or in connection with the use of vessels or aircraft, including third-party risks; or\n(e)against risks incidental to the construction, repair or docking of vessels, including third-party risks.\n[S 845/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2828-A19.001",
+   "no": 19.001,
+   "noLabel": {
+    "en": "19A."
+   },
+   "chapter": {
+    "en": "PART V RECOGNITION AND VALUATION OF LIABILITIES"
+   },
+   "heading": {
+    "en": "Recognition and valuation of liabilities of general business (gross of reinsurance)"
+   },
+   "text": {
+    "en": "19A.—(1) A licensed insurer must recognise, as a liability of an insurance fund established and maintained under section 17 of the Act for the general business of the insurer, the liabilities (gross of reinsurance) in respect of the policies of the insurance fund.\n(2) The licensed insurer must calculate the liabilities mentioned in paragraph (1) as the sum of —\n(a)premium liabilities (gross of reinsurance), which is an amount not less than the higher of the following:\n(i)the unearned premium reserves (gross of reinsurance) of the fund, which is the aggregate of unearned premium reserves (gross of reinsurance) for each policy of the fund determined in the manner provided in paragraph (7);\n(ii)the unexpired risk reserves (gross of reinsurance), which is the sum of the value of the expected future payments arising from future events insured under policies in force as at the valuation date (including any expense expected to be incurred in administering the policies and settling claims against those policies) and —\n(A)in the case of a captive insurer, an SPRV or a marine mutual insurer, any provision for any adverse deviation from the expected experience; or\n[S 137/2020 wef 31/03/2020]\n(B)in any other case, any provision for any adverse deviation from the expected experience, calculated based on the 75 per cent level of sufficiency; and\n(b)claim liabilities (gross of reinsurance), which is an amount not less than the value derived from the formula A + B, where —\n(i)A is the value of the expected future payments in relation to claims incurred prior to the valuation date (including any expense expected to be incurred in settling the claims) and that fall due for payment after the valuation date, whether or not the claims have been reported to the insurer; and\n(ii)B is —\n(A)in the case of a captive insurer, an SPRV or a marine mutual insurer, any provision for any adverse deviation from the expected experience; or\n[S 137/2020 wef 31/03/2020]\n(B)in any other case, any provision for any adverse deviation from the expected experience, calculated based on the 75 per cent level of sufficiency.\n(3) In determining the amount of unearned premium reserves (gross of reinsurance) of an insurance fund mentioned in paragraph (2)(a)(i), a marine mutual insurer must treat every insurance policy that it issues as a marine and aviation policy.\n(4) In determining the unexpired risk reserves (gross of reinsurance) mentioned in paragraph (2)(a)(ii) and claim liabilities (gross of reinsurance) mentioned in paragraph (2)(b), a licensed insurer must take into account any non-reinsurance recovery such as salvage and subrogation.\n(5) A licensed insurer must make separate calculations of the premium liabilities (gross of reinsurance), the unexpired risk reserves (gross of reinsurance) and the claim liabilities (gross of reinsurance) for each line of business that is carried on by the insurer and that is described in the following Form (whichever is applicable):\n(a)in the case of a licensed insurer who is not a captive insurer, an SPRV or a marine mutual insurer — Form G1 in Appendix B to MAS Notice 129;\n(b)in the case of a captive insurer — Form G1 in Appendix B to MAS Notice 130;\n(c)in the case of an SPRV — Form G1 in Appendix B to MAS Notice 131;\n(d)in the case of a marine mutual insurer — Form G1 in Appendix B to MAS Notice 212.\n(6) For the purposes of paragraph (5), the licensed insurer must calculate the premium liabilities (gross of reinsurance), the unexpired risk reserves (gross of reinsurance) and the claim liabilities (gross of reinsurance) for each line of business in the following manner:\n(a)the premium liabilities (gross of reinsurance) must be an amount not less than the unexpired risk reserves (gross of reinsurance);\n(b)the unexpired risk reserves (gross of reinsurance) is the value derived from the formula A + B, after allowing for the effect of diversification (if any) at the level of the insurance fund mentioned in paragraph (1), where —\n(i)A is the value of the expected future payments arising from future events insured under policies in force as at the valuation date (including any expense expected to be incurred in administering the policies and settling claims against the policies); and\n(ii)B is —\n(A)in the case of a captive insurer, an SPRV or a marine mutual insurer, any provision for any adverse deviation from the expected experience; or\n[S 137/2020 wef 31/03/2020]\n(B)in any other case, any provision for any adverse deviation from the expected experience, calculated based on the 75 per cent level of sufficiency;\n(c)the claim liabilities (gross of reinsurance) must be an amount not less than the value derived from the formula A + B, after allowing for the effect of diversification (if any) at the level of the insurance fund mentioned in paragraph (1), where —\n(i)A is the value of the expected future payments in relation to claims incurred prior to the valuation date (including any expense expected to be incurred in settling the claims) and that fall due for payment after the valuation date, whether or not the claims have been reported to the insurer; and\n(ii)B is —\n(A)in the case of a captive insurer, an SPRV or a marine mutual insurer, any provision for any adverse deviation from the expected experience; or\n[S 137/2020 wef 31/03/2020]\n(B)in any other case, any provision for any adverse deviation from the expected experience, calculated based on the 75 per cent level of sufficiency.\n(7) A licensed insurer must calculate the amount of unearned premium reserves (gross of reinsurance) for a policy in respect of general business as —\n(a)in the case of a direct insurer that underwrites risks relating to cargo policies —\n(i)an amount not less than 25% of the gross premiums written in the accounting period for those policies; or\n(ii)an amount calculated on a basis not less accurate than the 1/24th method;\n(b)in the case of an insurer that carries on the business of reinsurance of liabilities under insurance policies —\n(i)an amount not less than —\n(A)25% of the gross premiums written in the accounting period in the case of marine and aviation policies; or\n(B)40% of the gross premiums written in the accounting period in other cases; or\n(ii)an amount calculated on a basis not less accurate than the 1/24th method; or\n(c)in any other case, subject to paragraph (8), an amount calculated on a basis not less accurate than the 1/24th method.\n(8) A licensed insurer must calculate the amount of unearned premium reserves (gross of reinsurance) for a policy in respect of general business —\n(a)where the 1/24th method or a more accurate method is used, using an amount of gross premiums written which is reduced by the actual commissions payable; or\n(b)in any other case, using an amount of gross premiums written without any deduction for commissions payable from the gross premiums.\n(9) In this regulation, “marine and aviation policy” has the meaning given by regulation 19(10).\n[S 845/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2828-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART V RECOGNITION AND VALUATION OF LIABILITIES"
+   },
+   "heading": {
+    "en": "Valuation of liabilities of life business (net of reinsurance)"
+   },
+   "text": {
+    "en": "20.—(1) Subject to paragraph (4), a licensed insurer shall value the liability (net of reinsurance) in respect of a non-participating policy as the value of expected future payments arising from the policy, including any expense that the insurer expects to incur in administering the policy and settling any relevant claims and any provision made for any adverse deviation from the expected experience, less expected future receipts arising from the policy.\n[S 233/2013 wef 18/04/2013]\n[S 845/2018 wef 01/01/2019]\n(2) Subject to paragraph (4), a licensed insurer shall value the liability (net of reinsurance) in respect of an investment-linked policy as the sum of —\n(a)the unit reserves, calculated as the value of the underlying assets backing the units relating to the policy; and\n(b)the non-unit reserves, calculated as the value of expected future payments arising from the policy (other than those relating to the unit reserves), including any expense that the insurer expects to incur in administering the policies and settling the relevant claims and any provision made for any adverse deviation from the expected experience, less expected future receipts arising from the policy (other than those relating to the unit reserves).\n[S 233/2013 wef 18/04/2013]\n[S 845/2018 wef 01/01/2019]\n(3) Subject to paragraphs (4) and (7), a licensed insurer shall value the liability (net of reinsurance) in respect of a participating policy as the sum of —\n(a)the value of expected future payments arising from guaranteed benefits of the policy, including any expense that the insurer expects to incur in administering the policies and settling the relevant claims, less expected future receipts arising from guaranteed benefits of the policy;\n(b)the value of expected payments arising from non-guaranteed benefits of the policy in respect of —\n(i)future allocations by way of bonus under section 17(6)(b) of the Act; and\n(ii)future allocations to the surplus account under section 17(6)(c) of the Act; and\n[S 884/2005 wef 31/12/2005]\n(c)any provision made for any adverse deviation from the expected experience.\n[S 884/2005 wef 31/12/2005]\n[S 233/2013 wef 18/04/2013]\n[S 845/2018 wef 01/01/2019]\n(4) A licensed insurer shall not value the liability (net of reinsurance) in respect of any policy to be less than zero, unless there are moneys due to the insurer when the policy is terminated on valuation date, in which event the value of the liability (net of reinsurance) in respect of that policy may be negative to the extent of the amount due to the insurer.\n[S 233/2013 wef 18/04/2013]\n[S 845/2018 wef 01/01/2019]\n(5) A licensed insurer shall calculate the liability (net of reinsurance) in respect of the policies of a non-participating fund or an investment-linked fund as the sum of the liability (net of reinsurance) in respect of each policy of that fund determined in the manner provided in paragraph (1) or (2), respectively.\n[S 233/2013 wef 18/04/2013]\n[S 845/2018 wef 01/01/2019]\n(6) A licensed insurer must calculate the liability (net of reinsurance) in respect of the policies of a participating fund as the highest of the following:\n(a)the sum of the liability (net of reinsurance) in respect of each policy of the fund determined in the manner provided in paragraphs (1) and (3);\n(b)the minimum condition liability of the fund;\n(c)the value of policy assets of the fund less the reinsurers’ share of policy liabilities determined in the manner provided in regulation 16A(8).\n[S 845/2018 wef 01/01/2019]\n(7) Where the liability (net of reinsurance) in respect of the policies of a participating fund determined in the manner provided in paragraph (6) is greater than the sum of the liability (net of reinsurance) in respect of each policy of the fund as determined in the manner provided in paragraphs (1) and (3), the insurer shall make such adjustments as may be necessary to the components for the valuation of the liability (net of reinsurance) in respect of a participating policy referred to in paragraph (3)(b), for all or part of the participating policies of the fund such that the sum of the liability (net of reinsurance) in respect of each policy of the fund equals the value determined in paragraph (6).\n[S 845/2018 wef 01/01/2019]\n(8) Despite anything in this regulation, a licensed insurer may use the method mentioned in paragraph (11) (called in this regulation the simplified method) to determine the value of the liabilities (net of reinsurance) in respect of the short-term policies issued as part of the insurer’s life business, if —\n(a)the insurer has verified (in accordance with paragraph (9)) that using the simplified method results in a value that is not less than the value determined in the manner provided in paragraphs (1) to (7) (as applicable); and\n(b)the insurer has determined that using the simplified method is appropriate, taking into consideration the risks covered by each policy and any other factors that may be relevant.\n[S 137/2020 wef 31/03/2020]\n(9) The verification mentioned in paragraph (8) must be carried out once in the year in which the valuation under paragraphs (1) to (7) is to be carried out, and —\n(a)in a case where the licensed insurer uses the simplified method for the purpose of preparing the “Annual Returns” mentioned in MAS Notice 129 for that year — as part of the actuarial investigation under section 37 of the Act; or\n(b)in a case where the licensed insurer uses the simplified method for the purpose of preparing any of the “Quarterly Returns” mentioned in MAS Notice 129 for that year — before the first time in that year it uses that method.\n[S 137/2020 wef 31/03/2020]\n(10) The Authority may require the licensed insurer to provide documentary evidence in support of the insurer’s verification under paragraph (8).\n[S 137/2020 wef 31/03/2020]\n(11) In this regulation, the simplified method to determine the value of the liabilities (net of reinsurance) in respect of the short-term policies mentioned in paragraph (8) is the totalling of the following:\n(a)the premium liabilities (net of reinsurance) of the policies, being an amount that is not less than the higher of the following:\n(i)the unearned premiums reserves (net of reinsurance) of the policies, being an amount that is the aggregate of the unearned premium reserves (net of reinsurance) for each policy determined in the manner provided in paragraph (14);\n(ii)the unexpired risk reserves (net of reinsurance) of the policies, being an amount that is the aggregate of the expected future payments arising from future events insured under each policy in force as at the valuation date (including any expense expected to be incurred in administering the policy and settling claims against the policy) and any provision for any adverse deviation from the expected experience, calculated based on 75 per cent level of sufficiency;\n(b)the claim liabilities (net of reinsurance) of the policies, being an amount that is not less than the value derived from the formula A + B, where —\n(i)A is the aggregate of the expected future payments in relation to claims under each policy incurred before the valuation date (including any expense expected to be incurred in settling the claims) and that fall due for payment after the valuation date, whether or not the claims have been reported to the insurer; and\n(ii)B is any provision for any adverse deviation from the expected experience, calculated based on 75 per cent level of sufficiency.\n[S 137/2020 wef 31/03/2020]\n(12) In determining the unexpired risk reserves (net of reinsurance) of the policies mentioned in paragraph (11)(a)(ii) and claim liabilities (net of reinsurance) of the policies mentioned in paragraph (11)(b), the licensed insurer must —\n(a)make separate estimates of the gross incurred claims and recoveries from the reinsurance counterparty; and\n(b)take into account the likelihood of default by the reinsurance counterparty and any non-reinsurance recovery such as salvage and subrogation.\n[S 137/2020 wef 31/03/2020]\n(13) A licensed insurer may, instead of determining the unexpired risk reserves (net of reinsurance) of the policies mentioned in paragraph (11)(a)(ii) and claim liabilities (net of reinsurance) of the policies mentioned in paragraph (11)(b) in the manner provided in paragraph (12), determine the same using claims data that is net of reinsurance if there is no material change in —\n(a)the manner in which liabilities are reinsured during the period to which the data used to determine the unexpired risk reserves (net of reinsurance) and claim liabilities (net of reinsurance) relates; and\n(b)the manner in which liabilities are reinsured at the valuation date.\n[S 137/2020 wef 31/03/2020]\n(14) For the purposes of paragraph (11)(a)(i), the amount of unearned premium reserves (net of reinsurance) for a short-term policy must be —\n(a)subject to sub-paragraph (b) and paragraph (15), an amount calculated on a basis not less accurate than the 1/24th method; or\n(b)in the case of an insurer that carries on the business of reinsurance of liabilities under insurance policies —\n(i)an amount not less than 40% of the net premiums written in the accounting period for the policy; or\n(ii)an amount calculated on a basis not less accurate than the 1/24th method.\n[S 137/2020 wef 31/03/2020]\n(15) Where the simplified method is used, the amount of unearned premium reserves (net of reinsurance) for a short-term policy must be calculated —\n(a)in a case where the 1/24th method or some other more accurate method is used — using an amount of net premiums written for the policy that is reduced by the actual commissions payable for the policy; or\n(b)in any other case — using an amount of net premiums written for the policy without any deduction for commissions payable from the net premiums for the policy.\n[S 137/2020 wef 31/03/2020]\n[S 845/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2828-A20.001",
+   "no": 20.001,
+   "noLabel": {
+    "en": "20A."
+   },
+   "chapter": {
+    "en": "PART V RECOGNITION AND VALUATION OF LIABILITIES"
+   },
+   "heading": {
+    "en": "Recognition and valuation of liabilities of life business (gross of reinsurance)"
+   },
+   "text": {
+    "en": "20A.—(1) A licensed insurer carrying on life business (called in this regulation a licensed insurer) must recognise, as a liability of a participating fund, non-participating fund or investment-linked fund, the liability (gross of reinsurance) in respect of the policies of the fund.\n(2) Subject to paragraph (5), a licensed insurer must calculate the liability (gross of reinsurance) in respect of a participating policy as the value derived from the formula (A + B + C) − D, where —\n(a)A is the value of the expected future payments arising from the guaranteed benefits of the policy (including any expense that the insurer expects to incur in administering the policy and settling any claim against the policy);\n(b)B is the value of the expected future payments arising from the non-guaranteed benefits of the policy in respect of —\n(i)future allocations by way of bonus under section 17(6)(b) of the Act; and\n(ii)future allocations to the surplus account under section 17(6)(c) of the Act;\n(c)C is any provision made for any adverse deviation from the expected experience; and\n(d)D is the value of the expected future receipts arising from the guaranteed benefits of the policy.\n(3) Subject to paragraph (5), a licensed insurer must calculate the liability (gross of reinsurance) in respect of a non-participating policy as the value derived from the formula (A + B) − C, where —\n(a)A is the value of expected future payments arising from the policy (including any expense that the insurer expects to incur in administering the policy and settling any claim against the policy);\n(b)B is any provision made for any adverse deviation from the expected experience; and\n(c)C is the value of the expected future receipts arising from the policy.\n(4) Subject to paragraph (5), a licensed insurer must calculate the liability (gross of reinsurance) in respect of an investment-linked policy as the sum of —\n(a)the unit reserves, which is the value of the underlying assets backing the units relating to the policy; and\n(b)the non-unit reserves, which is the value derived by the formula (A + B) − C, where —\n(i)A is the value of the expected future payments arising from the policy (including any expense expected to be incurred in administering the policy and settling any claim against the policy), other than payments relating to the unit reserves;\n(ii)B is any provision made for any adverse deviation from the expected experience; and\n(iii)C is the value of the expected future receipts arising from the policy, other than receipts relating to the unit reserves.\n(5) Subject to paragraph (6), a licensed insurer must not value the liability (gross of reinsurance) in respect of any policy mentioned in paragraph (2), (3) or (4) to be less than zero unless there are moneys due to the insurer when the policy is terminated on the valuation date.\n(6) Where there are moneys due to a licensed insurer when a policy is terminated on valuation, the licensed insurer may value the liability (gross of reinsurance) in respect of the policy as negative to the extent of the amount due to the insurer.\n(7) A licensed insurer must calculate the liability (gross of reinsurance) in respect of the policies of a participating fund as the sum of the following:\n(a)the liability (net of reinsurance) in respect of those policies determined in the manner provided in regulation 20(6);\n(b)the reinsurers’ share of policy liabilities in respect of those policies determined in the manner provided in regulation 16A(8).\n(8) A licensed insurer must calculate the liability (gross of reinsurance) in respect of the policies of a non-participating fund or an investment-linked fund as the sum of the liability (gross of reinsurance) in respect of each policy of that fund determined in the manner provided in paragraph (3) or (4), respectively.\n(9) Despite anything in this regulation, a licensed insurer may use the method mentioned in paragraph (12) (called in this regulation the simplified method) to determine the value of the liabilities (gross of reinsurance) in respect of the short-term policies issued as part of the insurer’s life business, if —\n(a)the insurer has verified (in accordance with paragraph (10)) that using the simplified method results in a value that is not less than the value determined in the manner provided in paragraphs (1) to (8) (as applicable); and\n(b)the insurer has determined that using the simplified method is appropriate, taking into consideration the risks covered by each policy and any other factors that may be relevant.\n[S 137/2020 wef 31/03/2020]\n(10) The verification mentioned in paragraph (9) must be carried out once in the year in which the valuation under paragraphs (1) to (8) is to be carried out, and —\n(a)in a case where the licensed insurer uses the simplified method for the purpose of preparing the “Annual Returns” mentioned in MAS Notice 129 for that year — as part of the actuarial investigation under section 37 of the Act; or\n(b)in a case where the licensed insurer uses the simplified method for the purpose of preparing the “Quarterly Returns” mentioned in MAS Notice 129 for that year — before the first time in that year it uses that method.\n[S 137/2020 wef 31/03/2020]\n(11) The Authority may require the licensed insurer to provide documentary evidence in support of the insurer’s verification under paragraph (9).\n[S 137/2020 wef 31/03/2020]\n(12) In this regulation, the simplified method to determine the value of the liabilities (gross of reinsurance) in respect of the short-term policies mentioned in paragraph (9) is the totalling of the following:\n(a)the premium liabilities (gross of reinsurance) of the policies, being an amount that is not less than the higher of the following:\n(i)the unearned premiums reserves (gross of reinsurance) of the policies, being an amount that is the aggregate of the unearned premium reserves (gross of reinsurance) for each policy determined in the manner provided in paragraph (14);\n(ii)the unexpired risk reserves (gross of reinsurance) of the policies, being an amount that is the aggregate of the expected future payments arising from future events insured under each policy in force as at the valuation date (including any expense expected to be incurred in administering the policy and settling claims against the policy) and any provision for any adverse deviation from the expected experience, calculated based on 75 per cent level of sufficiency;\n(b)the claim liabilities (gross of reinsurance) of the policies, being an amount that is not less than the value derived from the formula A + B, where —\n(i)A is the aggregate of the expected future payments in relation to claims under each policy incurred before the valuation date (including any expense expected to be incurred in settling the claims) and that fall due for payment after the valuation date, whether or not the claims have been reported to the insurer; and\n(ii)B is any provision for any adverse deviation from the expected experience, calculated based on 75 per cent level of sufficiency.\n[S 137/2020 wef 31/03/2020]\n(13) In determining the unexpired risk reserves (gross of reinsurance) of the policies mentioned in paragraph (12)(a)(ii) and claim liabilities (gross of reinsurance) of the policies mentioned in paragraph (12)(b), a licensed insurer must take into account any non-reinsurance recovery such as salvage and subrogation.\n[S 137/2020 wef 31/03/2020]\n(14) For the purposes of paragraph (12)(a)(i), the amount of unearned premium reserves (gross of reinsurance) for a short-term policy must be —\n(a)in the case of an insurer that carries on the business of reinsurance of liabilities under insurance policies —\n(i)an amount not less than 40% of the gross premiums written in the accounting period for the policy; or\n(ii)an amount calculated on a basis not less accurate than the 1/24th method; or\n(b)in any other case — subject to paragraph (15), an amount calculated on a basis not less accurate than the 1/24th method.\n[S 137/2020 wef 31/03/2020]\n(15) Where the simplified method is used, the amount of unearned premium reserves (gross of reinsurance) for a short-term policy must be calculated —\n(a)where the 1/24th method or some other more accurate method is used — using an amount of gross premiums written for the policy that is reduced by the actual commissions payable for the policy; or\n(b)in any other case — using an amount of gross premiums written for the policy without any deduction for commissions payable from the gross premiums for the policy.\n[S 137/2020 wef 31/03/2020]\n[S 845/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2828-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART V RECOGNITION AND VALUATION OF LIABILITIES"
+   },
+   "heading": {
+    "en": "Treatment in relation to reinsurance arrangement with head office and branch"
+   },
+   "text": {
+    "en": "21.—(1) On or before 31 December 2021, where a licensed insurer incorporated outside Singapore treats the liabilities in respect of any policy of its insurance business in Singapore as liabilities of, or part of the liabilities of, the head office or a branch outside Singapore of the insurer, the insurer may make a deduction in respect of such liabilities, when valuing such liabilities, where the following conditions are satisfied:\n(a)there is a written arrangement between the head office or branch outside Singapore and the branch in Singapore, stating that the insurer treats the liabilities of the insurance business of the branch in Singapore as liabilities of, or part of the liabilities of, the head office or branch outside Singapore of the insurer; and\n(b)any release of reinsurance deposit retained by the branch in Singapore under any such arrangement is to be released only in accordance with the written arrangement.\n[S 233/2013 wef 18/04/2013]\n[S 137/2020 wef 31/03/2020]\n(2) Where a licensed insurer makes a deduction in accordance with paragraph (1), the insurer shall —\n(a)regard the written arrangement between the branch in Singapore and the head office or branch outside of Singapore as a contract of reinsurance of those liabilities; and\n(b)the head office or branch outside Singapore shall be treated as if it were a separate insurer.\n[S 233/2013 wef 18/04/2013]\n(3) On or after 1 January 2022, where a licensed insurer incorporated outside Singapore treats the liabilities in respect of any policy of its insurance business in Singapore as liabilities of, or part of the liabilities of, the head office or a branch outside Singapore of the insurer, the insurer may make a deduction in respect of such liabilities, when valuing such liabilities, if the following conditions are satisfied:\n(a)there is a written arrangement between the head office or branch outside Singapore and the branch in Singapore, stating that the insurer treats the liabilities of the insurance business of the branch in Singapore as liabilities of, or part of the liabilities of, the head office or branch outside Singapore of the insurer;\n(b)any release of reinsurance deposit retained by the branch in Singapore under any such arrangement is to be released only in accordance with the written arrangement;\n(c)any other condition specified in MAS Notice 133.\n[S 137/2020 wef 31/03/2020]"
+   }
+  },
+  {
+   "id": "SG-H2828-A21.001",
+   "no": 21.001,
+   "noLabel": {
+    "en": "21A."
+   },
+   "chapter": {
+    "en": "PART V RECOGNITION AND VALUATION OF LIABILITIES"
+   },
+   "heading": {
+    "en": "Treatment in relation to reinsurance arrangement with subsidiary of insurer"
+   },
+   "text": {
+    "en": "21A. On or after 1 January 2022, where a licensed insurer treats the liabilities in respect of any policy of its insurance business in Singapore as liabilities of, or part of the liabilities of, a subsidiary of the insurer, the insurer may make a deduction in respect of the liabilities, when valuing the liabilities, if the conditions specified in MAS Notice 133 are satisfied.\n[S 137/2020 wef 31/03/2020]"
+   }
+  },
+  {
+   "id": "SG-H2828-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART VI MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Surplus account"
+   },
+   "text": {
+    "en": "22.—(1) For the purpose of section 17(6)(a) of the Act, a direct insurer licensed to carry on life business shall establish and maintain a surplus account —\n(a)by keeping the assets of the surplus account for a participating fund separate from other assets of the fund; and\n(b)by identifying the particular assets that form part of the surplus account in its books, accounts and records.\n[S 233/2013 wef 18/04/2013]\n(2) [Deleted by S 845/2018 wef 01/01/2019]\n(3) For any participating fund established on or after 1st January 2005, the insurer shall assign, as the balance in the surplus account, the value of zero at the establishment of the fund.\n(4) For the purposes of section 17(7) of the Act, the insurer may, in addition to an allocation made under section 17(6)(c) of the Act, make the following allocations to the surplus account:\n(a)an amount relating to investment income earned on assets representing the balance in the surplus account;\n(b)a recovery of any amount transferred out of the surplus account on or after 1st January 2005 under paragraph (7) if it has not been transferred back into the surplus account previously;\n[S 137/2020 wef 31/03/2020]\n(c)an amount that does not exceed 1/9th of the amount of tax payable (under section 43(9) of the Income Tax Act (Cap. 134)) on the amount allocated under section 17(6)(b) of the Act.\n[S 137/2020 wef 31/03/2020]\n(5) The amount of a participating fund allocated under section 17(6)(b) of the Act by way of bonus to participating policies is —\n(a)where the allocation is not immediately paid out but is accrued as additional future obligations under the policies — the increase in the minimum condition liability of the participating fund as a result of the allocation; or\n[S 137/2020 wef 31/03/2020]\n(b)where the allocation is immediately paid out when the allocation is made — the actual amount paid out to policyholders.\n[S 137/2020 wef 31/03/2020]\n[S 845/2018 wef 31/12/2018]\n(6) The insurer may transfer any asset which is not part of the participating fund to the surplus account where such transfer is made —\n(a)to comply with paragraph (9);\n(b)to satisfy the fund solvency requirement of the participating fund; or\n(c)to reduce the likelihood that the fund solvency requirement of the participating fund is breached.\n(7) Where the liability (net of reinsurance) in respect of the policies of the participating fund of the insurer as calculated in the manner provided in regulation 20(6) is more than the policy assets of the fund, the insurer shall immediately transfer out of the surplus account an amount no less than the difference between the liability (net of reinsurance) in respect of the policies of the fund and the policy assets of the fund so as to meet any deficiency of policy assets in satisfying the liability (net of reinsurance) in respect of policies of the fund.\n[S 845/2018 wef 01/01/2019]\n(7A) In paragraph (7), a reference to the policy assets of a fund is a reference to the policy assets of the fund less the reinsurers’ share of policy liabilities determined in the manner provided in regulation 16A(8).\n[S 845/2018 wef 01/01/2019]\n(8) The insurer shall deduct from the surplus account —\n(a)any amount withdrawn from the fund in accordance with section 17(9) of the Act;\n(b)any expense or loss relating to the investment of assets in the surplus account; and\n(c)where the balance in the surplus account is negative, the interest that would have been earned on such negative balance calculated, on a monthly basis, using the average rate of investment return on the policy assets of the fund, subject to a minimum rate of zero.\n(9) Where the balance in the surplus account is negative, the insurer shall immediately make payment into the surplus account so that the balance in the surplus account is at least zero.\n(10) In paragraph (5), “minimum condition liability”, in relation to a participating fund, means the sum of —\n(a)the liability (net of reinsurance) in respect of each non-participating policy of the fund determined in the manner provided in regulation 20(1) but does not include the application of regulation 20(4); and\n[S 845/2018 wef 01/01/2019]\n(b)the liability (net of reinsurance) in respect of each participating policy of the fund determined in accordance with the manner provided in regulation 20(1) for determining the liability (net of reinsurance) in respect of a non-participating policy, but does not include the application of regulation 20(4) and any provision for non-guaranteed benefits.\n[S 845/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2828-A22.001",
+   "no": 22.001,
+   "noLabel": {
+    "en": "22A."
+   },
+   "chapter": {
+    "en": "PART VI MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Contingency reserves"
+   },
+   "text": {
+    "en": "22A.—(1) Subject to paragraphs (2) and (3), a mortgage insurer and a trade credit insurer shall, in accordance with the requirements specified in the Third Schedule, establish and maintain contingency reserves in each insurance fund established and maintained under section 17(1) of the Act by the mortgage insurer or trade credit insurer.\n[S 845/2018 wef 01/01/2019]\n[S 137/2020 wef 31/03/2020]\n(2) Notwithstanding paragraph (1), where the mortgage insurer does not have any claim liabilities (net of reinsurance) and premium liabilities (net of reinsurance) in respect of all the mortgage insurance policies, the mortgage insurer may withdraw the contingency reserves held in respect of mortgage insurance policies.\n[S 112/2012 wef 28/03/2012]\n[S 845/2018 wef 01/01/2019]\n(3) A trade credit insurer who is a captive insurer may, for the purposes of establishing and maintaining contingency reserves in an insurance fund in accordance with the Third Schedule, disregard the net premiums written, underwriting profit earned, net claims incurred and net premiums earned in respect of any trade credit insurance policy comprised in the insurance fund if the trade credit insurance policy is written by the captive insurer to cover an in-house risk.\n[S 845/2018 wef 01/01/2019]\n[S 137/2020 wef 31/03/2020]\n(4) In paragraph (3), “in-house risk”, in relation to a trade credit insurance policy written by a captive insurer, means a risk of a related corporation of the captive insurer that may ultimately result in losses affecting only the related corporation (and no other party) if the related corporation had not insured the risk with the captive insurer, and includes any risk where the captive insurer is only responsible for insuring the related corporation’s share of the risk in an insured.\n[S 845/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2828-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART VI MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Revocation"
+   },
+   "text": {
+    "en": "23. The Insurance Regulations (Rg 1) and the Insurance (Investment-Linked Life Insurance) Regulations (Rg 4) are revoked."
+   }
+  },
+  {
+   "id": "SG-H2828-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART VI MISCELLANEOUS PROVISIONS"
+   },
+   "text": {
+    "en": "24. [Deleted by S 845/2018 wef 01/01/2019]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2828-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 2(1)\nTotal risk requirement\nTotal risk requirement\n1. The total risk requirement of an adjusted fund of an insurer, or (in the case of a licensed insurer incorporated in Singapore) arising from assets and liabilities of an insurer that do not belong to any insurance fund established and maintained by the insurer under the Act (including assets and liabilities of any of the insurer’s branches located outside Singapore) is to be calculated in accordance with MAS Notice 133 and comprises the following components:\n(a)Component 1 (C1) requirement relating to insurance risks of the insurer’s life and general businesses;\n(b)Component 2 (C2) requirement relating to market risks, credit risks and risks arising from the mismatch, in terms of interest rate sensitivity and currency exposure, of the assets and liabilities of the insurer;\n(c)the risk requirement relating to operational risk of the insurer as described in MAS Notice 133.\n2. The total risk requirement of a licensed insurer is the aggregate of the total risk requirements of every adjusted fund of the insurer and, where the insurer is a licensed insurer incorporated in Singapore, the total risk requirement arising from assets and liabilities of the insurer that do not belong to any insurance fund established and maintained by the insurer under the Act (including assets and liabilities of any of the insurer’s branches located outside Singapore).\n3. In the case of a licensed insurer incorporated in Singapore, in determining the total risk requirement arising from assets and liabilities of an insurer that do not belong to any insurance fund established and maintained by the insurer under the Act, the value of such assets and liabilities (including that arising from insurance business) is to be determined in accordance with Parts IV and V of these Regulations.\n[S 137/2020 wef 31/03/2020]"
+   }
+  },
+  {
+   "id": "SG-H2828-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 3(1)(a)\nTypes of insurance business\n1. Business concerned with investment-linked policies only.\n2. Business concerned with short-term accident and health policies only.\n[S 137/2020 wef 31/03/2020]"
+   }
+  },
+  {
+   "id": "SG-H2828-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulation 22A\nContingency reserves\nDefinitions\n1. In this Schedule —\n“net claims incurred” means the sum of —\n(a)the net claims settled in an accounting period; and\n(b)the claim liabilities (net of reinsurance) at the end of the accounting period less the claim liabilities (net of reinsurance) at the beginning of the accounting period;\n“net premiums earned” means the sum of —\n(a)the net premiums written in an accounting period; and\n(b)the premium liabilities (net of reinsurance) at the beginning of the accounting period less the premium liabilities (net of reinsurance) at the end of the accounting period;\n“threshold amount” —\n(a)in relation to the contingency reserves for an accounting period for a mortgage insurer, means 400% of the highest of the following amounts:\n(i)the amount of the net premiums written for that accounting period;\n(ii)the amount of the net premiums written for the preceding accounting period;\n(iii)the amount of the net premiums written for the accounting period preceding the accounting period referred to in sub-paragraph (ii); and\n(b)in relation to the contingency reserves for an accounting period for a trade credit insurer, means 150% of the highest of the following amounts:\n(i)the amount of the net premiums written for that accounting period;\n(ii)the amount of the net premiums written for the preceding accounting period;\n(iii)the amount of the net premiums written for the accounting period preceding the accounting period referred to in sub-paragraph (ii);\n(iv)the amount of the net premiums written for the accounting period preceding the accounting period referred to in sub-paragraph (iii);\n(v)the amount of the net premiums written for the accounting period preceding the accounting period referred to in sub-paragraph (iv).\nContingency reserves requirement for mortgage insurer\n2.—(1) At the end of each accounting period and subject to sub-paragraphs (6) and (7), a mortgage insurer must transfer to the contingency reserves 50% of the net premiums earned in that period in respect of mortgage insurance policies.\n(2) Subject to sub-paragraphs (3) and (4), any transfer to the contingency reserves may be withdrawn —\n(a)at the end of an accounting period; and\n(b)to the extent that the net claims incurred by the insurer in respect of mortgage insurance policies exceed 35% of the net premiums earned by the insurer in respect of mortgage insurance policies during that accounting period.\n(3) Any withdrawal under sub-paragraph (2) is to be attributed to transfers made to the contingency reserves on a first-in, first-out basis such that all withdrawals under sub-paragraph (2) are attributed to transfers in the order that they have been made to the contingency reserves, beginning with the earliest transfer.\n(4) Where the amount to be withdrawn under sub-paragraph (2) exceeds the outstanding value of the transfer that it is to be attributed to under sub-paragraph (3) (being the balance remaining after deducting withdrawals that had been attributed to that transfer previously), the excess amount is to be attributed to the transfer immediately following the aforementioned transfer, and so on until the withdrawal has been fully attributed to one or more transfers.\n(5) Where a mortgage insurer has made a transfer to the contingency reserves under sub-paragraph (1) in respect of an accounting period (the particular accounting period), the mortgage insurer must, at the end of 10 contiguous accounting periods following the particular accounting period, withdraw from the contingency reserves an amount that is equal to the difference between —\n(a)the transfer to the contingency reserves made in respect of the particular accounting period; and\n(b)the aggregate of the amounts withdrawn under sub-paragraph (2) and attributable to the transfer in respect of the particular accounting period in accordance with sub-paragraphs (3) and (4),\nand such withdrawal is to be regarded as attributed to that transfer for the purpose of sub-paragraph (3).\n(6) Where the amount of contingency reserves maintained by a mortgage insurer at the end of an accounting period is equal to or above the threshold amount for that accounting period after taking into account any withdrawal to be made under sub-paragraphs (2) and (5) only, a mortgage insurer is not required to make the transfer under sub-paragraph (1).\n(7) Where, in respect of any accounting period, after taking into account —\n(a)any withdrawal to be made under sub-paragraphs (2) and (5) in respect of that accounting period; and\n(b)any transfer to be made under sub-paragraph (1) in respect of that accounting period,\nthe amount of contingency reserves maintained by a mortgage insurer would exceed the threshold amount for that accounting period, the amount that the insurer must transfer for the purpose of sub-paragraph (1) is reduced by an amount that is equal to the extent by which the contingency reserves would exceed the threshold amount.\nContingency reserves requirement for trade credit insurer\n3.—(1) Subject to sub-paragraphs (3) and (4), at the end of each accounting period, a trade credit insurer must transfer to the contingency reserves —\n(a)where the amount of contingency reserves maintained by a trade credit insurer is less than one-third of the threshold amount at the end of an accounting period — the higher of the following amounts:\n(i)12% of the net premiums written in that period in respect of trade credit insurance policies;\n(ii)50% of underwriting profit earned during that period in respect of trade credit insurance policies; or\n(b)where the amount of contingency reserves maintained by a trade credit insurer is equal to or more than one-third of the threshold amount at the end of an accounting period — the lower of the following amounts:\n(i)12% of the net premiums written in that period in respect of trade credit insurance policies;\n(ii)50% of underwriting profit earned during that period in respect of trade credit insurance policies.\n(2) Any transfer to the contingency reserves may be withdrawn at the end of an accounting period and to the extent that the net claims incurred by the insurer in respect of trade credit insurance policies exceed the net premiums earned by the insurer in respect of trade credit insurance policies during that accounting period.\n(3) Where the amount of contingency reserves maintained by a trade credit insurer at the end of an accounting period is equal to or above the threshold amount for that accounting period after taking into account any withdrawal to be made under sub-paragraph (2), a trade credit insurer is not required to make the transfer under sub-paragraph (1).\n(4) Where, in respect of any accounting period, after taking into account —\n(a)any withdrawal to be made under sub-paragraph (2) in respect of that accounting period; and\n(b)any transfer to be made under sub-paragraph (1) in respect of that accounting period,\nthe amount of contingency reserves maintained by a trade credit insurer would exceed the threshold amount for the accounting period, the amount which the insurer must transfer for the purpose of sub-paragraph (1) is reduced by an amount that is equal to the extent by which the contingency reserves would exceed the threshold amount.\n[S 137/2020 wef 31/03/2020]"
+   }
+  },
+  {
+   "id": "SG-H2828-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2828-A900004",
+   "no": 900004,
+   "noLabel": {
+    "en": "FIFTH SCHEDULE"
+   },
+   "text": {
+    "en": "FIFTH SCHEDULE"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2828-A900005",
+   "no": 900005,
+   "noLabel": {
+    "en": "SIXTH SCHEDULE"
+   },
+   "text": {
+    "en": "SIXTH SCHEDULE"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2828-A900006",
+   "no": 900006,
+   "noLabel": {
+    "en": "SEVENTH SCHEDULE"
+   },
+   "text": {
+    "en": "SEVENTH SCHEDULE"
+   },
+   "status": "repealed"
+  }
+ ]
+}

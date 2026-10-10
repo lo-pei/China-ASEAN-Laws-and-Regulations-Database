@@ -1,0 +1,140 @@
+{
+ "id": "CN-JI-0260",
+ "title": {
+  "zh": "最高人民法院关于涉外民商事案件诉讼管辖若干问题的规定",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p08",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2020-12-29",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "最高人民法院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 7,
+ "chars": 550,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于涉外民商事案件诉讼管辖若干问题的规定_20201229.doc",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，第一条至第七条，共 7 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于涉外民商事案件诉讼管辖若干问题的规定_20201229.doc）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0260-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "第一条"
+   },
+   "text": {
+    "zh": "第一审涉外民商事案件由下列人民法院管辖：\n（一）国务院批准设立的经济技术开发区人民法院；\n（二）省会、自治区首府、直辖市所在地的中级人民法院；\n（三）经济特区、计划单列市中级人民法院；\n（四）最高人民法院指定的其他中级人民法院；\n（五）高级人民法院。\n上述中级人民法院的区域管辖范围由所在地的高级人民法院确定。"
+   }
+  },
+  {
+   "id": "CN-JI-0260-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "第二条"
+   },
+   "text": {
+    "zh": "对国务院批准设立的经济技术开发区人民法院所作的第一审判决、裁定不服的，其第二审由所在地中级人民法院管辖。"
+   }
+  },
+  {
+   "id": "CN-JI-0260-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "第三条"
+   },
+   "text": {
+    "zh": "本规定适用于下列案件：\n（一）涉外合同和侵权纠纷案件；\n（二）信用证纠纷案件；\n（三）申请撤销、承认与强制执行国际仲裁裁决的案件；\n（四）审查有关涉外民商事仲裁条款效力的案件；\n（五）申请承认和强制执行外国法院民商事判决、裁定的案件。"
+   }
+  },
+  {
+   "id": "CN-JI-0260-A4",
+   "no": 4,
+   "noLabel": {
+    "zh": "第四条"
+   },
+   "text": {
+    "zh": "发生在与外国接壤的边境省份的边境贸易纠纷案件，涉外房地产案件和涉外知识产权案件，不适用本规定。"
+   }
+  },
+  {
+   "id": "CN-JI-0260-A5",
+   "no": 5,
+   "noLabel": {
+    "zh": "第五条"
+   },
+   "text": {
+    "zh": "涉及香港、澳门特别行政区和台湾地区当事人的民商事纠纷案件的管辖，参照本规定处理。"
+   }
+  },
+  {
+   "id": "CN-JI-0260-A6",
+   "no": 6,
+   "noLabel": {
+    "zh": "第六条"
+   },
+   "text": {
+    "zh": "高级人民法院应当对涉外民商事案件的管辖实施监督，凡越权受理涉外民商事案件的，应当通知或者裁定将案件移送有管辖权的人民法院审理。"
+   }
+  },
+  {
+   "id": "CN-JI-0260-A7",
+   "no": 7,
+   "noLabel": {
+    "zh": "第七条"
+   },
+   "text": {
+    "zh": "本规定于2002年3月1日起施行。本规定施行前已经受理的案件由原受理人民法院继续审理。\n本规定发布前的有关司法解释、规定与本规定不一致的，以本规定为准。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于涉外民商事案件诉讼管辖若干问题的规定"
+  },
+  "issuingBody": {
+   "zh": "最高人民法院"
+  },
+  "promulgatedDate": "2020-12-29",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

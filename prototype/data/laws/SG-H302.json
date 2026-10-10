@@ -1,0 +1,972 @@
+{
+ "id": "SG-H302",
+ "title": {
+  "zh": null,
+  "en": "Banking Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p04",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation BA1970-RG5",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 60,
+ "chars": 112635,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/BA1970-RG5?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 60 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 4 篇以 900000+ 序号随同收录。其中 6 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H302-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Banking Regulations."
+   }
+  },
+  {
+   "id": "SG-H302-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“Accounting Standards” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);\n[S 170/2006 wef 24/03/2006]\n[Deleted by S 511/2019 wef 01/08/2019]\n“credit derivative” means any swap, option or other financial derivative the purpose of which is to secure a profit or avoid a loss by reference to the performance by a third party of certain specified obligations or to the change in creditworthiness of the third party;\n[Deleted by S 473/2021 wef 01/07/2021]\n[Deleted by S 473/2021 wef 01/07/2021]\n[Deleted by S 473/2021 wef 01/07/2021]\n“fund management” has the same meaning as in Part II of the Second Schedule to the Securities and Futures Act (Cap. 289);\n[S 170/2006 wef 24/03/2006]\n[Deleted by S 473/2021 wef 01/07/2021]\n“group”, in relation to a corporation, means a group within the meaning of the Accounting Standards, of which the corporation is a part;\n[S 170/2006 wef 24/03/2006]\n“liabilities”, in relation to the policies of an insurance fund maintained by an insurer, means such liabilities and expenses of the insurer as are attributable to the business to which the insurance fund relates, but excludes any levy payable by that insurer under section 37 of the Deposit Insurance and Policy Owners’ Protection Schemes Act (Cap. 77B);\n[S 473/2021 wef 01/07/2021]\n“market day”, in relation to a share traded on a securities exchange, means any day which the securities exchange is open for trading;\n[S 473/2021 wef 01/07/2021]\n[Deleted by S 511/2019 wef 01/08/2019]\n“NCD” means negotiable certificate of deposit;\n“overseas bank” means a company incorporated, formed or established outside Singapore which carries on banking business only outside Singapore and is not licensed under the Act;\n“place of booking”, in relation to a bond or an NCD issue, means the jurisdiction in which the branch or office of the issuer which is issuing the bond or NCD, as the case may be, is located;\n“prohibited business” has the same meaning as in section 32(7) of the Act;\n“property corporation” means any body corporate where —\n(a)more than 50% of the total turnover of the body corporate is derived from property-related activities; or\n(b)more than 50% of the total assets of the body corporate comprises interests in or rights over immovable property situate in Singapore, other than such immovable property or any part thereof which is used —\n(i)as premises for the conduct of any business carried on by the body corporate;\n(ii)for the business of a hotel, hostel, serviced apartment, boarding house, lodging house or dormitory; or\n[S 511/2019 wef 01/08/2019]\n(iii)for community, charity or educational purposes;\n“property-related activities” means —\n(a)the construction of or the causing of the construction of any building on, over or under land in Singapore for the purpose of sale by the person carrying out or causing such construction, of any right or interest in the land which would be appurtenant to such building, other than a building or part thereof constructed for use —\n(i)for the business of a hotel, hostel, serviced apartment, boarding house, lodging house or dormitory; or\n[S 511/2019 wef 01/08/2019]\n(ii)for community, charity or educational purposes;\n(b)the acquisition or holding of any interest in or right over immovable property situate in Singapore for the purposes of rental, or for the purposes of securing a profit from its sale, other than such immovable property or part thereof —\n(i)used or to be used by the person acquiring or holding the immovable property for occupation by himself or any member of his family or as premises for any business carried on by him;\n[S 511/2019 wef 01/08/2019]\n(ii)used or to be used for the business of a hotel, hostel, serviced apartment, boarding house, lodging house or dormitory; or\n[S 511/2019 wef 01/08/2019]\n(iii)used or to be used for community, charity or educational purposes;\n(c)the financing of any activity referred to in paragraph (a) or (b);\n(d)the making of loans to any property corporation;\n(e)the acquisition or holding as beneficial owner of shares or debentures issued by any property corporation; and\n(f)the acquisition or holding as beneficial owner of debentures the payment of principal or interest on which is contingent, directly or indirectly, on the turnover, profits or cashflow from any activity under paragraph (a), (b), (c), (d) or (e);\n“property sector exposure”, in relation to a bank in Singapore, means the aggregate of —\n(a)amounts outstanding to the bank under credit facilities granted to any property corporation or to any related corporation of a property corporation for use by the property corporation;\n(b)amounts outstanding to the bank under credit facilities granted to any person other than a property corporation —\n(i)in the case where such person is a corporation, for the purpose of financing or facilitating the property-related activities of that person or its related corporations; and\n(ii)in any other case, for the purpose of financing or facilitating the property-related activities of that person;\n(c)amounts of debentures beneficially held by the bank and issued by any property corporation;\n(d)amounts of debentures beneficially held by the bank and issued by any person other than a property corporation, where the payment of principal or interest is contingent, whether in whole or in part, on the turnover, profits or cashflow from any property-related activity;\n(e)amounts paid by the bank for securities transferred to it pursuant to a repurchase transaction between the bank and a property corporation, on terms that require the future transfer of equivalent securities by the bank to the property corporation;\n(f)amounts of contingent liabilities incurred by the bank —\n(i)in respect of any obligation of a property corporation; or\n(ii)in respect of any obligation of any other person, where such obligation is undertaken in connection with property-related activities;\n(g)where the bank has entered into any agreement (including a credit derivative agreement) with any other party under which the other party would secure a benefit or avoid a loss where there is —\n(i)a failure by a property corporation to perform its obligations;\n(ii)a decline in the creditworthiness of a property corporation; or\n(iii)a failure by any person other than a property corporation to perform its obligations where such obligations are undertaken in connection with property-related activities,\nthe highest amount of such benefit or loss as may be secured or avoided, as the case may be, except to the extent that such amount constitutes part of any amounts under paragraph (f); and\n(h)amounts payable to the bank by any property corporation under a bill of exchange or promissory note,\nbut does not include any amounts in respect of —\n(A)credit facilities granted to the Government or to any statutory board;\n(B)Singapore Government Securities or bonds issued by any statutory board;\n(C)debentures held pursuant to an agreement entered into by the bank for the underwriting of an issue of such debentures, for a period not exceeding 8 weeks from the date of the launch of the issue;\n(D)loans, debentures or other assets forming the subject matter of a securitisation transaction where the criteria determined by the Authority for effecting a clean sale of assets by the bank have been complied with; or\n(E)any instrument or transaction described in paragraphs (a) to (h) to the extent that the bank would be indemnified or otherwise protected from losses that may be incurred by it under that instrument or transaction pursuant to a guarantee issued by any other bank or any credit derivative entered into by the bank with any person other than a property corporation;\n“Singapore Government Securities” means securities issued by the Government under any written law;\n[Deleted by S 511/2019 wef 01/08/2019]\n“total eligible assets”, in relation to a bank in Singapore, means the aggregate of —\n(a)amounts outstanding to the bank under credit facilities granted to any person other than a bank or an overseas bank;\n(b)amounts of debentures beneficially held by the bank and issued by any other person who is not a bank or an overseas bank;\n(c)amounts paid by the bank for securities transferred to it pursuant to a repurchase transaction between the bank and any other party who is not a bank or an overseas bank, on terms that require the future transfer of equivalent securities by the bank to the other party;\n(d)amounts of contingent liabilities incurred by the bank —\n(i)in respect of any obligation of a property corporation; or\n(ii)in respect of any obligation of any other person, where such obligation is undertaken in connection with property-related activities;\n(e)where the bank has entered into any agreement (including a credit derivative agreement) with any other party under which the other party would secure a benefit or avoid a loss where there is —\n(i)a failure by a property corporation to perform its obligations;\n(ii)a decline in the creditworthiness of a property corporation; or\n(iii)a failure by any person other than a property corporation to perform its obligations where such obligations are undertaken in connection with property-related activities,\nthe highest amount of such benefit or loss as may be secured or avoided, as the case may be, except to the extent that such amount constitutes part of any amounts under paragraph (d); and\n(f)amounts payable to the bank by any person, other than a bank or an overseas bank, under a bill of exchange or promissory note,\nbut does not include any amounts in respect of —\n(A)in the case of a bank incorporated in Singapore, any instrument or transaction described in paragraphs (a) to (f) not forming part of the bank’s business in Singapore, except to the extent that such instrument or transaction forms part of the property sector exposure of the bank; or\n(B)in the case of a bank incorporated outside Singapore, any instrument or transaction described in paragraphs (a) to (f) not forming part of the bank’s business in Singapore."
+   }
+  },
+  {
+   "id": "SG-H302-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART II CONTROL OF DEPOSIT-TAKING ACTIVITIES"
+   },
+   "heading": {
+    "en": "Exemption from section 4A(1) of Act"
+   },
+   "text": {
+    "en": "3.—(1) Section 4A (1) of the Act shall not apply to —\n(a)any holder of a capital markets services licence under the Securities and Futures Act (Cap. 289) if, and only if, the acceptance of the deposit is solely incidental to the carrying on of the business for which the licence was granted;\n(b)any advocate and solicitor, foreign lawyer who is registered under the Legal Profession Act (Cap. 161), Singapore law practice, Joint Law Venture, Formal Law Alliance, Qualifying Foreign Law Practice or licensed foreign law practice, if, and only if, the acceptance of the deposit is solely incidental to the practice of his or its legal practice; and\n[S 444/2016 wef 30/09/2016]\n(c)any insurer licensed under the Insurance Act (Cap. 142) if, and only if, the acceptance of the deposit is solely incidental to the carrying on of the business for which the insurer was licensed.\n[S 444/2016 wef 30/09/2016]\n[S 473/2021 wef 01/07/2021]\n(2) In this regulation, “Formal Law Alliance”, “Joint Law Venture”, “licensed foreign law practice”, “Qualifying Foreign Law Practice” and “Singapore law practice” have the same meanings as in section 2(1) of the Legal Profession Act.\n[S 444/2016 wef 30/09/2016]"
+   }
+  },
+  {
+   "id": "SG-H302-A3.001",
+   "no": 3.001,
+   "noLabel": {
+    "en": "3A."
+   },
+   "chapter": {
+    "en": "PART II CONTROL OF DEPOSIT-TAKING ACTIVITIES"
+   },
+   "heading": {
+    "en": "Exemption from section 4A(1) and (2) of Act"
+   },
+   "text": {
+    "en": "3A.—(1) Subject to paragraph (3), section 4A(1) of the Act shall not apply to any foreign entity in respect of any deposit accepted in Singapore, on behalf of the foreign entity by its agent bank, from any qualifying depositor in Singapore.\n[S 511/2019 wef 01/08/2019]\n(2) Subject to paragraph (3), section 4A(2) of the Act shall not apply to any agent bank of a foreign entity in respect of —\n(a)any offer or invitation to make any deposit, or to enter or offer to enter into any agreement to make any deposit, with the foreign entity; or\n(b)any advertisement containing such offer or invitation,\nwhere such offer, invitation or advertisement is made or issued to qualifying depositors in Singapore by the agent bank on behalf of the foreign entity.\n[S 511/2019 wef 01/08/2019]\n(3) An agent bank which accepts or solicits deposits from a qualifying depositor on behalf of a foreign entity in the circumstances specified in paragraph (1) or (2) shall provide the following information to the qualifying depositor, in writing, when soliciting or accepting any deposit from the qualifying depositor:\n(a)the name of the foreign entity;\n(b)the jurisdiction where the deposit account would be opened;\n(c)the class of licence or registration, or the type of approval or other instrument of regulation, that the foreign entity holds or has obtained in the jurisdiction where the deposit account would be opened;\n(d)a statement to the effect that the class of licence or registration, or the type of approval or other instrument of regulation, permits the foreign entity to accept deposits in the jurisdiction where the deposit account would be opened; and\n(e)a statement to the effect that the deposit account would not be subject to the supervisory oversight of the Authority but that of the relevant supervisory authority in the jurisdiction where the deposit account would be opened and maintained.\n[S 511/2019 wef 01/08/2019]\n(4) In this regulation, unless the context otherwise requires —\n“agent bank”, in relation to a foreign entity, means a bank in Singapore or merchant bank which is a branch or subsidiary of the foreign entity;\n“foreign entity” means any corporation established or incorporated outside Singapore that is licensed, registered, approved or otherwise regulated to carry on banking business under the laws of the jurisdiction in which it is established or incorporated;\n[S 170/2006 wef 24/03/2006]\n[S 511/2019 wef 01/08/2019]\n“qualifying depositor” means —\n(a)an individual, a trustee or a person within the meaning of section 4A(1)(a)(i), (iii) or (iv) (as the case may be) of the Securities and Futures Act (Cap. 289);\n(b)a corporation with net assets or net group assets exceeding $10 million in value (or its equivalent in a foreign currency) or such other amount as the Authority may prescribe under section 4A(1)(a)(ii) of the Securities and Futures Act in place of the first amount, as determined by —\n(i)the most recent audited balance‑sheet of the corporation (whether on an individual or on a group basis); or\n(ii)where the corporation is not required to prepare audited financial statements regularly under the Companies Act (Cap. 50), a balance‑sheet of the corporation (whether on an individual or on a group basis) certified by the corporation as giving a true and fair view of the state of affairs of the corporation and its group (where applicable) as of the date of the balance‑sheet, which date must be within the preceding 12 months; or\n(c)a corporation which acts as a trustee for the customers of a person carrying on the business of fund management with total assets under management exceeding $10 million in value (or its equivalent in a foreign currency).\n[S 511/2019 wef 01/08/2019]"
+   }
+  },
+  {
+   "id": "SG-H302-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART II CONTROL OF DEPOSIT-TAKING ACTIVITIES"
+   },
+   "heading": {
+    "en": "Application of section 4A(2) of Act"
+   },
+   "text": {
+    "en": "4. For the purposes of section 4A(2) of the Act, in determining whether an offer, invitation or advertisement is made or issued to the public or any section of the public in Singapore, regard shall be had to the following considerations:\n(a)whether the offer, invitation or advertisement contains any information specifically relevant to Singapore;\n(b)whether the offer, invitation or advertisement is published in any newspaper, magazine, journal or other periodical publication, or in any broadcast media, which is principally for circulation or reception in Singapore;\n(c)whether the offer, invitation or advertisement contains a prominent notice that no deposit shall be accepted from persons in Singapore, and whether such notice is viewed with or before the advertisement;\n(d)whether reasonable steps are taken to guard against acceptance of deposits from persons in Singapore; or\n(e)whether the offer, invitation or advertisement, directly or indirectly, states that deposits in Singapore currency shall be accepted."
+   }
+  },
+  {
+   "id": "SG-H302-A4.001",
+   "no": 4.001,
+   "noLabel": {
+    "en": "4A."
+   },
+   "chapter": {
+    "en": "PART II CONTROL OF DEPOSIT-TAKING ACTIVITIES"
+   },
+   "heading": {
+    "en": "Prescribed deposit"
+   },
+   "text": {
+    "en": "4A. For the purposes of section 4B(4)(b) of the Act, a sum of money paid by a person (“A”) to another person (“B”) or any other person as an agent of A is prescribed as a deposit made by A with B, if it is paid for the purpose of making funds of A available to B and under the following arrangement:\n(a)the payment is made to enable B or the agent to purchase an asset on behalf of A, being an asset that exists at the time of the purchase;\n(b)B purchases the asset from A at a price (the marked-up price) that is greater than the sum of money paid by A, and sells the asset;\n(c)A and B, respectively, do not derive any gain or suffer any loss from any movement in the market value of the asset other than the difference between the marked-up price and the sum of money paid by A (which represents the return to A for making funds available to B); and\n(d)no part of the marked-up price is required to be paid by B to A until after the date of sale of the asset by B.\n[S 238/2007 wef 11/06/2007]"
+   }
+  },
+  {
+   "id": "SG-H302-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART II CONTROL OF DEPOSIT-TAKING ACTIVITIES"
+   },
+   "heading": {
+    "en": "Application of section 4B(6)(e) of Act"
+   },
+   "text": {
+    "en": "5.—(1) Subject to regulation 6, for the purposes of section 4B(4) of the Act, “deposit” does not include —\n(a)a sum paid by or on behalf of any person in consideration for the issue to him by the recipient of —\n(i)bonds or NCDs denominated in any foreign currency;\n(ii)bonds or NCDs denominated in Singapore dollars with an original maturity period of not less than 12 months; or\n(iii)bonds or NCDs denominated in Singapore dollars with an original maturity period of less than 12 months and issued with a denomination of not less than $200,000;\n(b)a sum paid by or on behalf of any person whose total net personal assets exceed in value $2 million (or its equivalent in foreign currency) at the time of the payment, whose financial assets (net of any related liabilities) exceed in value $1 million (or its equivalent in foreign currency) at the time of payment, or whose income in the preceding 12 months is not less than $300,000 (or its equivalent in foreign currency) at the time of the payment, in consideration for the issue to him by the recipient of bonds or NCDs denominated in Singapore dollars with an original maturity period of less than 12 months;\n[S 511/2019 wef 01/08/2019]\n(c)a sum paid by or on behalf of a company whose total net assets exceed $10 million in value or its equivalent in foreign currency as determined by the last audited balance-sheet of the company in consideration for the issue to the company, by the recipient, of bonds or NCDs denominated in Singapore dollars with an original maturity period of less than 12 months;\n(d)a sum paid by or on behalf of an officer of the recipient, a close relative of an officer of the recipient or a close relative of the recipient (if the recipient is a natural person), in consideration for the issue to the payer by the recipient, of bonds or NCDs denominated in Singapore dollars with an original maturity of less than 12 months;\n(e)a sum paid by or on behalf of any person in consideration of the issue to him of Singapore Government Securities; or\n(f)a sum paid by or on behalf of any person in consideration of the issue to him of bonds issued by any statutory board.\n[S 511/2019 wef 01/08/2019]\n(2) In determining the value of a person’s total net personal assets for the purposes of paragraph (1)(b), the value of the person’s primary residence is taken to be the lower of the following:\n(a)the value calculated by deducting any outstanding amounts in respect of any credit facility that is secured by the residence from the estimated fair market value of the residence;\n(b)$1 million.\n[S 511/2019 wef 01/08/2019]"
+   }
+  },
+  {
+   "id": "SG-H302-A5.001",
+   "no": 5.001,
+   "noLabel": {
+    "en": "5A."
+   },
+   "chapter": {
+    "en": "PART II CONTROL OF DEPOSIT-TAKING ACTIVITIES"
+   },
+   "heading": {
+    "en": "Prescribed international financial institution"
+   },
+   "text": {
+    "en": "5A. The following institutions are prescribed as international financial institutions for the purposes of section 5(2)(g) of the Act:\n(a)African Development Bank;\n(b)Asian Development Bank;\n(ba)Asian Infrastructure Investment Bank;\n[S 511/2019 wef 01/08/2019]\n(c)Bank for International Settlements;\n(d)Caribbean Development Bank;\n(e)Council of Europe Development Bank;\n(f)European Bank for Reconstruction and Development;\n(g)European Central Bank;\n(h)European Investment Bank;\n(i)Inter-American Development Bank;\n(j)Islamic Development Bank;\n(ja)New Development Bank;\n[S 511/2019 wef 01/08/2019]\n(k)Nordic Investment Bank; and\n(l)World Bank Group.\n[S 238/2007 wef 11/06/2007]"
+   }
+  },
+  {
+   "id": "SG-H302-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART II CONTROL OF DEPOSIT-TAKING ACTIVITIES"
+   },
+   "heading": {
+    "en": "Additional disclosure requirements for exemption under regulation 5"
+   },
+   "text": {
+    "en": "6.—(1) Without prejudice to any disclosure requirements under any other written law, for the purposes of qualifying for the exemption under regulation 5, bonds or NCDs denominated in Singapore dollars which are issued with a denomination of less than $200,000, shall have contained —\n(a)in any prospectus and any profile statement in respect of its issue; or\n(b)where such documents are not required in respect of its issue, in an information memorandum to be issued, circulated or distributed in respect of its issue,\nthe additional information set out in paragraph (2).\n(2) The additional information required to be disclosed under paragraph (1) are —\n(a)a statement of the place of booking of the issue;\n(b)where the name of the issuer contains the word “bank”, “finance” or any of its derivatives in any language and —\n(i)the place of booking of the issue is not Singapore; or\n(ii)the issuer is not regulated or authorised by the Authority under any written law,\na statement that the branch or office of the issuer at which the issue is booked is not subject to regulation or supervision in Singapore;\n(c)where repayment under the bond or NCD is secured (whether by mortgage, charge, guarantee or other means), a statement of the nature of the security, the name of the mortgagor, chargor or guarantor, as the case may be, and whether such person is regulated or authorised by the Authority under any written law; and\n(d)where repayment under the bond or NCD is not secured (whether by mortgage, charge, guarantee or other means), a statement that repayment is not secured by any means."
+   }
+  },
+  {
+   "id": "SG-H302-A6.027",
+   "no": 6.027,
+   "noLabel": {
+    "en": "6AA."
+   },
+   "chapter": {
+    "en": "PART IIAA USE OF BANK NAME, LOGO OR TRADE MARK"
+   },
+   "heading": {
+    "en": "Exemptions from section 5A of Act"
+   },
+   "text": {
+    "en": "6AA.—(1) A person who, in the course of any profession, vocation, trade or business, uses the name, logo or trade mark of a bank incorporated in Singapore (other than a foreign-owned bank incorporated in Singapore) is exempt from section 5A(1) of the Act if —\n(a)the person uses the bank’s name, logo or trade mark in connection with an event that is —\n(i)organised by the person; and\n(ii)sponsored by the bank; and\n(b)the bank permits the person to use the bank’s name, logo or trade mark in connection with the event.\n(2) A bank incorporated in Singapore (other than a foreign-owned bank incorporated in Singapore) that causes or knowingly permits a person to use the bank’s name, logo or trade mark in the course of the person’s profession, vocation, trade or business is exempt from section 5A(2) of the Act if —\n(a)the bank causes or permits the person to use the bank’s name, logo or trade mark only in connection with an event that is —\n(i)organised by the person; and\n(ii)sponsored by the bank; and\n(b)the board of directors of the bank approves the person’s use of the bank’s name, logo or trade mark in connection with the event.\n(3) A person who, in the course of any profession, vocation, trade or business, uses the name, logo or trade mark of a foreign-owned bank incorporated in Singapore is exempt from section 5A(1) of the Act if —\n(a)the bank permits the person to use the bank’s name, logo or trade mark;\n(b)the bank has not entered into any partnership, joint venture or other arrangement with the person to carry on any business prescribed by regulation 23G or 23I; and\n(c)the person is not an entity in which the bank acquired or holds a major stake for which the bank is exempt from section 32 of the Act under regulation 7B.\n(4) A foreign-owned bank incorporated in Singapore that causes or knowingly permits a person to use the bank’s name, logo or trade mark in the course of the person’s profession, vocation, trade or business is exempt from section 5A(2) of the Act if —\n(a)the bank has not entered into any partnership, joint venture or other arrangement with the person to carry on any business prescribed by regulation 23G or 23I; and\n(b)the person is not an entity in which the bank acquired or holds a major stake for which the bank is exempt from section 32 of the Act under regulation 7B.\n[S 473/2021 wef 01/07/2021]"
+   }
+  },
+  {
+   "id": "SG-H302-A6.001",
+   "no": 6.001,
+   "noLabel": {
+    "en": "6A."
+   },
+   "chapter": {
+    "en": "PART IIA MINIMUM CAPITAL REQUIREMENTS"
+   },
+   "heading": {
+    "en": "Minimum capital requirements for wholesale banks"
+   },
+   "text": {
+    "en": "6A.—(1) For the purposes of section 9(1)(a) of the Act, a company that intends to carry on banking business in Singapore as a bank incorporated in Singapore must not be granted a wholesale banking licence unless its paid-up capital is not less than $100 million.\n[S 810/2020 wef 01/10/2020]\n(2) In this regulation, “wholesale banking licence” means a licence to transact banking business, the conditions of which require the holder of that licence to comply with such guidelines as may be issued by the Authority in relation to the operation of wholesale banks; and includes a “restricted banking licence” granted by the Authority before 29th June 2001.\n[S 360/2009 wef 03/08/2009]"
+   }
+  },
+  {
+   "id": "SG-H302-A6.002",
+   "no": 6.002,
+   "noLabel": {
+    "en": "6B."
+   },
+   "chapter": {
+    "en": "PART IIB EXCLUSION OF LIMITS ON EQUITY INVESTMENTS"
+   },
+   "heading": {
+    "en": "Exclusion from operation of section 31 of Act for stabilising action during offer"
+   },
+   "text": {
+    "en": "6B.—(1) Section 31 of the Act shall not apply, during the specified period, in respect of any equity investment in a single company acquired or held by any bank incorporated in Singapore or bank incorporated outside Singapore when acting as a stabilising bank in relation to an offer of securities issued by the company, where —\n(a)an over-allotment option has been made giving the bank the right to purchase a number of securities equivalent to the number of securities over-allotted —\n(i)in a case where more than one tranche of securities is offered at different prices, at or below the issue price for each tranche; or\n(ii)in any other case, at or below the issue price; and\n(b)the total number of securities subscribed for or purchased by the bank as a result of its stabilising action does not exceed the number of securities over-allotted.\n[S 360/2009 wef 03/08/2009]\n[S 473/2021 wef 01/07/2021]\n(2) In this regulation, unless the context otherwise requires —\n“approved exchange”, “overseas exchange” and “securities” have the meanings given by section 2(1) of the Securities and Futures Act (Cap. 289);\n[S 473/2021 wef 01/07/2021]\n“closing date” has the same meaning as in regulation 2 of the Securities and Futures (Market Conduct) (Exemptions) Regulations 2006 (G.N. No. S 148/2006);\n“dealer” means a person who is the holder of a capital markets services licence under the Securities and Futures Act (Cap. 289) to deal in securities, and includes a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities;\n“issue price”, in relation to securities being offered under an offer, means the price at which the securities are being offered for subscription or purchase;\n“issuer” has the same meaning as in regulation 2 of the Securities and Futures (Market Conduct) (Exemptions) Regulations 2006;\n“offer” has the same meaning as in regulation 2 of the Securities and Futures (Market Conduct) (Exemptions) Regulations 2006;\n“over-allotment” has the same meaning as in regulation 2 of the Securities and Futures (Market Conduct) (Exemptions) Regulations 2006;\n[Deleted by S 473/2021 wef 01/07/2021]\n[Deleted by S 473/2021 wef 01/07/2021]\n[Deleted by S 473/2021 wef 01/07/2021]\n“relevant specified products” has the meaning given by regulation 2 of the Securities and Futures (Market Conduct) (Exemptions) Regulations 2006;\n[S 473/2021 wef 01/07/2021]\n“specified period” means a period of 30 calendar days —\n(a)from the date of commencement of dealing in the stabilised securities on an approved exchange; or\n[S 473/2021 wef 01/07/2021]\n(b)where the stabilised securities are listed on both an approved exchange and an overseas exchange, from the earlier of the dates of commencement of dealing in the stabilised securities on these exchanges;\n[S 473/2021 wef 01/07/2021]\n“stabilised securities”, in relation to any stabilising action, means the securities in respect of which the stabilising action has been, is being or will be taken, as the case may be;\n“stabilising action”, in relation to an offer, means the action taken in Singapore or elsewhere by a stabilising bank, or by a dealer on behalf of the stabilising bank, to buy, or to offer or agree to buy, any relevant specified products on the securities market, in order to stabilise or maintain the market price of such securities in Singapore or elsewhere;\n[S 473/2021 wef 01/07/2021]\n“stabilising bank”, in relation to an offer, means a bank in Singapore —\n(a)which is appointed in writing by the issuer of an offer to take any stabilising action in respect of the offer; and\n(b)whose appointment under paragraph (a) is notified to the approved exchange on which the relevant specified products are or are intended to be listed before the closing date of the offer.\n[S 360/2009 wef 03/08/2009]\n[S 401/2008 wef 11/08/2008]\n[S 473/2021 wef 01/07/2021]"
+   }
+  },
+  {
+   "id": "SG-H302-A6.003",
+   "no": 6.003,
+   "noLabel": {
+    "en": "6C."
+   },
+   "chapter": {
+    "en": "PART IIB EXCLUSION OF LIMITS ON EQUITY INVESTMENTS"
+   },
+   "heading": {
+    "en": "Exclusion from operation of section 31 of Act for investment in certain businesses"
+   },
+   "text": {
+    "en": "6C. Section 31 of the Act does not apply in respect of any equity investment in a single company acquired or held, by a bank incorporated in Singapore or a bank incorporated outside Singapore, for the purposes of carrying on any business prescribed in regulation 23G(1).\n[S 473/2021 wef 01/07/2021]"
+   }
+  },
+  {
+   "id": "SG-H302-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART III EXCLUSION OF CERTAIN INVESTMENTS AND WHOLLY-OWNED SUBSIDIARIES"
+   },
+   "heading": {
+    "en": "Exclusion of certain entities from operation of section 32 of Act"
+   },
+   "text": {
+    "en": "7.—(1) The Authority hereby excludes, from the operation of section 32 of the Act —\n(a)any entity which carries on a business prescribed in regulation 23F(1) (whether as its principal business or otherwise); or\n[S 473/2021 wef 01/07/2021]\n(b)any other entity whose principal business is that of investing in any entity referred to in sub-paragraph (a).\n[S 56/2011 wef 14/02/2011]\n[S 370/2010 wef 05/07/2010]\n[S 473/2021 wef 01/07/2021]\n(2) The exclusion in paragraph (1) shall not apply to an entity which is —\n(a)not carrying on any substantial business or not in operation;\n(b)carrying on the business of engaging in property-related activities;\n(c)carrying on the business of factoring, leasing equipment or otherwise purchasing debt obligations from others; or\n(d)an entity, or an entity within a class of entities, specified by the Authority by notice in writing by reference to a bank or a class of banks.\n[S 473/2021 wef 01/07/2021]\n[S 473/2021 wef 01/07/2021]\n[S 473/2021 wef 01/07/2021]"
+   }
+  },
+  {
+   "id": "SG-H302-A7.001",
+   "no": 7.001,
+   "noLabel": {
+    "en": "7A."
+   },
+   "chapter": {
+    "en": "PART III EXCLUSION OF CERTAIN INVESTMENTS AND WHOLLY-OWNED SUBSIDIARIES"
+   },
+   "heading": {
+    "en": "Exclusion of wholly-owned subsidiaries of bank held primarily for segregating risks arising from carrying on business prescribed in regulation 23G"
+   },
+   "text": {
+    "en": "7A.—(1) Subject to paragraph (2), the Authority hereby excludes from the operation of section 32 of the Act any wholly-owned subsidiary of a bank in Singapore acquired or held primarily for the purpose of segregating risks that arises from the carrying on of any business prescribed in regulation 23G(1) so as to prevent such risks from affecting the financial soundness and stability of the bank.\n(2) The exclusion under paragraph (1) of any wholly-owned subsidiary of a bank in Singapore from the operation of section 32 of the Act applies if, and only if —\n(a)the bank has an agreement with the wholly-owned subsidiary to allow the Authority and any person appointed by the Authority, at any time, to obtain any information from the wholly-owned subsidiary and to inspect the books of the wholly-owned subsidiary;\n(b)where the wholly-owned subsidiary is a financial institution regulated by an overseas regulatory authority, the bank is satisfied, from its own due diligence or from having taken professional advice, that the Authority and any person appointed by the Authority are not prohibited from obtaining any information from, or inspecting the books of, the wholly-owned subsidiary; and\n(c)the bank ensures that the wholly-owned subsidiary of the bank carries on its business in a manner that satisfies such conditions relating to the operations or activities of the wholly-owned subsidiary as the Authority may impose, from time to time, by notice in writing.\n(3) For the purpose of this regulation, a company is a wholly-owned subsidiary of a bank if none of the members of the company, or none of the persons holding any ownership interest in the company, is a person other than the bank.\n[S 56/2011 wef 14/02/2011]"
+   }
+  },
+  {
+   "id": "SG-H302-A7.002",
+   "no": 7.002,
+   "noLabel": {
+    "en": "7B."
+   },
+   "chapter": {
+    "en": "PART III EXCLUSION OF CERTAIN INVESTMENTS AND WHOLLY-OWNED SUBSIDIARIES"
+   },
+   "heading": {
+    "en": "Exclusion of entity carrying on business under section 30(1)(a), (b) or (c) of Act, etc., from section 32 of Act"
+   },
+   "text": {
+    "en": "7B.—(1) Subject to paragraphs (2), (3) and (4), section 32 of the Act does not apply to an entity that carries on —\n(a)a business prescribed in regulation 23G(1) or 23H(1); or\n(b)a business of investing in any entity that carries on a business prescribed in regulation 23G(1) or 23H(1).\n(2) In each case mentioned in the following sub-paragraphs, paragraph (1) applies only if the corresponding condition is satisfied:\n(a)in a case where the entity carries on a business mentioned in paragraph (1)(a) and other businesses — each of such other businesses is a business mentioned in section 30(1)(a), (b) or (c) of the Act, or a business prescribed for the purposes of section 30(1)(d) of the Act that is similar in economic substance and risk to a business mentioned in section 30(1)(a), (b) or (c) of the Act;\n(b)in a case where the entity carries on a business mentioned in paragraph (1)(b) and other businesses —\n(i)at least one of such other businesses is a business prescribed in regulation 23G(1) or 23H(1); and\n(ii)each of such other businesses is a business mentioned in sub-paragraph (a).\n(3) In addition to the condition mentioned in paragraph (2), paragraph (1) applies only if —\n(a)the aggregate non-financial business size of the bank concerned, after acquiring or holding a major stake in the entity, does not exceed —\n(i)in the case of a bank incorporated in Singapore —\n(A)10% of its capital funds; and\n(B)10% of the capital funds of its bank group; or\n(ii)in the case of the branches and offices located within Singapore of a bank incorporated outside Singapore — 1.5% of the assets that are reflected as assets in the balance sheet of those branches and offices (less net inter-bank lending);\n(b)the bank puts in place risk management and governance policies and procedures that are commensurate with the risks posed by all the businesses carried on by the entity;\n(c)the policies and procedures mentioned in sub-paragraph (b) have been approved by —\n(i)in the case of a bank incorporated in Singapore — the board of directors of the bank;\n(ii)in the case of the branches and offices located within Singapore of a bank incorporated outside Singapore, the head office of which has never carried on a materially similar business before — the board of directors of the bank; or\n(iii)in the case of the branches and offices located within Singapore of a bank incorporated outside Singapore, the head office of which has carried on or is carrying on a materially similar business — by an authorised person of the bank;\n(d)the bank notifies the Authority of the following matters:\n(i)a description of all the businesses carried on by the entity;\n(ii)any regulation or licensing requirement that the entity is or will be subject to, whether in Singapore or elsewhere;\n(iii)the nature and extent of the major stake in the entity acquired or held by the bank;\n(iv)the date on which the major stake in the entity is acquired by the bank, or (if applicable) the date on which the entity is incorporated, formed or established by the bank,\nat least 14 days before the earliest of the following:\n(v)any public announcement that the bank intends to acquire the major stake in the entity, or (if applicable) incorporate, form or establish the entity;\n(vi)the entry of the bank into any agreement to acquire the major stake in the entity, or (if applicable) incorporate, form or establish the entity;\n(vii)the date on which the major stake in the entity is acquired by the bank, or (if applicable) the date on which the entity is incorporated, formed or established by the bank;\n(e)the bank notifies the Authority of any change to the matters in relation to which information had been provided in the notification mentioned in sub-paragraph (d), before making the change or as soon as the bank becomes aware of the change;\n(f)the bank obtains prior approval from the Authority for the issuance by the bank of any guarantee, indemnity, letter of comfort or any other letter that imposes similar obligations on the bank as a guarantee or indemnity, or similar expectations on the bank as a letter of comfort, in respect of any business carried on by the entity;\n(g)where the entity is or is to be a subsidiary of the bank —\n(i)the bank has an agreement with the entity to allow the Authority and any person appointed by the Authority, at any time, to obtain any information from the entity and to inspect the books of the entity; and\n(ii)where the entity is regulated by a regulatory authority in a foreign country or territory, the bank is satisfied, from its own due diligence or based on professional advice, that the Authority and any person appointed by the Authority are not prohibited from obtaining any information from, or inspecting the books of, the entity; and\n(h)where the entity is a related corporation of the bank, the entity does not use the bank’s name, logo or trade mark in the course of the business.\n(4) A bank in Singapore must, starting on the date of its acquisition of a major stake in any entity and during the period in which it holds such major stake —\n(a)submit a report to the Authority within 30 days after the last day of every quarter, or a later date approved by the Authority in writing, containing the information specified in the Second Schedule; and\n(b)provide any other information that the Authority may require, in relation to any entity in which the bank acquired or holds a major stake under this regulation.\n(5) The Authority may —\n(a)having regard to the specific circumstances of a bank in Singapore, including whether the risk management and governance policies and procedures of the bank in Singapore are sufficiently robust to effectively monitor and manage the risks of the entity; or\n(b)if any condition or requirement imposed on a bank in Singapore is not satisfied by the bank at any time,\nissue to the bank a written declaration that paragraph (1) does not apply to the bank in relation to any entity specified in the declaration on or after a specified date.\n(6) Where a written declaration is issued under paragraph (5), paragraph (1) does not apply to the bank in Singapore on or after the specified date with respect to the specified entity.\n(7) In this regulation —\n“aggregate non-financial business size”, “authorised person”, “capital funds”, “net inter-bank lending” and “quarter” have the meanings given to those terms by regulation 23G(7);\n“regulatory authority”, in relation to a foreign country or territory, means an authority of the foreign country or territory exercising any function that corresponds to a regulatory function of the Authority under the Act, the Monetary Authority of Singapore Act (Cap. 186) or any of the written laws set out in the Schedule to that Act.\n[S 473/2021 wef 01/07/2021]"
+   }
+  },
+  {
+   "id": "SG-H302-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART IV PROPERTY SECTOR EXPOSURE"
+   },
+   "heading": {
+    "en": "Property sector exposure limit"
+   },
+   "text": {
+    "en": "8.—(1) The property sector exposure of a bank in Singapore shall not exceed 35% of the total eligible assets of that bank.\n(2) Notwithstanding paragraph (1), the Authority may, if it considers appropriate in the particular circumstances of a bank in Singapore, require the property sector exposure of that bank not to exceed such other percentage as it may determine, for such period and subject to such conditions as it may determine.\n(3) Any bank which contravenes this regulation shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine of $10,000 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H302-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART IV PROPERTY SECTOR EXPOSURE"
+   },
+   "heading": {
+    "en": "Submission of returns"
+   },
+   "text": {
+    "en": "9.—(1) Every bank in Singapore shall, within 14 days from 31st March, 30th June, 30th September and 31st December of each year, submit a return to the Authority on its property sector exposure in the form set out in the First Schedule.\n[S 473/2021 wef 01/07/2021]\n(2) If the last day for submission under paragraph (1) is not a business day, the bank may submit the return on the next following business day.\n[S 473/2021 wef 01/07/2021]"
+   }
+  },
+  {
+   "id": "SG-H302-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART VI EXCLUSION OF NON-BENEFICIAL INTERESTS IN OR RIGHTS OVER IMMOVABLE PROPERTY"
+   },
+   "heading": {
+    "en": "Exclusion of non-beneficial interests in or rights over immovable property from section 33 of Act"
+   },
+   "text": {
+    "en": "11. For the purposes of determining the aggregate value of the interest in or right over immovable property referred to in section 33(1) or (1A) of the Act, there shall be excluded such portion of the value of any interest in or right over immovable property or any part thereof held for the benefit of persons other than the bank pursuant to an obligation imposed under any written law, rule of law, contract or order of court.\n[S 473/2021 wef 01/07/2021]"
+   }
+  },
+  {
+   "id": "SG-H302-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART VII COMPUTATION OF MAJOR STAKES"
+   },
+   "heading": {
+    "en": "Meaning of “affiliated entity”"
+   },
+   "text": {
+    "en": "12.—(1) In this Part and Part VIII, “affiliated entity”, in relation to a bank, means —\n(a)any subsidiary of the bank;\n(b)any entity in which the bank and its subsidiaries hold in the aggregate a beneficial interest in not less than 20% of the share capital, accumulated funds or contributed capital;\n[S 511/2019 wef 01/08/2019]\n(c)any entity in which the bank and its subsidiaries control in the aggregate not less than 20% of the voting power;\n[S 511/2019 wef 01/08/2019]\n(d)any other entity where the management of the entity is accustomed or under an obligation, whether formal or informal, to act in accordance with the bank’s directions, instructions or wishes, or where the bank is in a position to determine the policy of the entity; or\n[S 511/2019 wef 01/08/2019]\n(e)any subsidiary of an entity referred to in sub-paragraph (b), (c) or (d).\n[S 511/2019 wef 01/08/2019]\n(2) Notwithstanding paragraph (1)(a), (b), (c) or (e), any beneficial interest in the share capital, accumulated funds or contributed capital of, or control of voting power in, an entity that is —\n(a)acquired by a bank or any entity referred to in paragraph (1) (referred to in this paragraph as the relevant entity) pursuant to an arrangement with a person who has a trading account with the relevant entity, and transferred to the trading account of that person within 2 market days from the date of acquisition; or\n(b)acquired or held by the relevant entity in the course of satisfaction of debts due to it and disposed of at the earliest suitable opportunity,\nshall be excluded for the purpose of determining whether the entity is an affiliated entity of the bank.\n[S 511/2019 wef 01/08/2019]\n(3) Notwithstanding paragraph (1)(c), any control of voting power in an entity that is held by the bank or its subsidiary —\n(a)for the benefit of any person other than the bank or its subsidiary, or any other affiliated entity of the bank (referred to in this paragraph as the beneficiary) pursuant to an obligation imposed under any written law, rule of law, contract or order of court; and\n(b)used or exercised by the bank or its subsidiary primarily for the benefit of the beneficiary,\nshall be excluded for the purpose of determining whether the entity is an affiliated entity of the bank, unless —\n(i)the control of voting power in the entity is held by a bank’s subsidiary that is an insurer licensed under the Insurance Act (Cap. 142), through —\n(A)any insurance fund established and maintained under the Insurance Act for its general business;\n(B)any insurance fund established and maintained under the Insurance Act (Cap. 142) for its non-participating policies;\n(C)any insurance fund established and maintained under the Insurance Act for its participating policies, and which relates to assets held other than for the purpose of meeting the liabilities in respect of the policies of the insurance fund; or\n(D)any insurance fund established and maintained under the Insurance Act for its investment-linked policies, and which relates to assets held other than for the purpose of meeting those liabilities in respect of the policies of the insurance fund, the values of which are dependent on the value of the underlying assets; or\n[S 473/2021 wef 01/07/2021]\n(ii)the Authority (having regard to the specific circumstances of the case including whether the bank or its subsidiaries has investment and voting policies that comply with guidelines issued by the Authority) is of the opinion that the control of voting power in the entity is in fact not being used or exercised primarily for the benefit of the beneficiary, and the Authority issues a declaration by notice in writing to the bank that such control of voting power in the entity shall, with effect from the date of the declaration, be included for the purpose of determining whether that entity is an affiliated entity of the bank.\n[S 511/2019 wef 01/08/2019]\n[S 511/2019 wef 01/08/2019]\n(4) Notwithstanding paragraph (1)(e), where an entity referred to in paragraph (1)(b) or (c) is not an affiliated entity of the bank by virtue of paragraph (2) or (3), its subsidiary shall correspondingly not be regarded as an affiliated entity of the bank.\n[S 511/2019 wef 01/08/2019]"
+   }
+  },
+  {
+   "id": "SG-H302-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART VII COMPUTATION OF MAJOR STAKES"
+   },
+   "heading": {
+    "en": "Holding by affiliated entity deemed to be holding by bank"
+   },
+   "text": {
+    "en": "13.—(1) In determining whether a bank holds a major stake in an entity as defined in section 32(7) of the Act —\n(a)any beneficial interest in the share capital, accumulated funds or contributed capital of an entity held by an affiliated entity of the bank shall be deemed to be a beneficial interest in that share capital, accumulated funds or contributed capital held by that bank;\n[S 511/2019 wef 01/08/2019]\n(b)any control of voting power in an entity held by an affiliated entity of the bank shall be deemed to be a control of such voting power held by that bank; and\n[S 511/2019 wef 01/08/2019]\n(c)any interest in an entity (where the management of the entity is accustomed or under an obligation, whether formal or informal, to act in accordance with the bank’s directions, instructions or wishes, or where the bank is in a position to determine the policy of the entity) held by an affiliated entity of the bank shall be deemed to be an interest held by that bank.\n[S 511/2019 wef 01/08/2019]\n[S 511/2019 wef 01/08/2019]\n(2) Paragraph (1) shall not apply to any beneficial interest in the share capital, accumulated funds or contributed capital of, control of voting power in, or interest in, an entity that is acquired or held by an affiliated entity and transferred or disposed of by the affiliated entity in the manner referred to in regulation 12(2)(a) or (b).\n[S 511/2019 wef 01/08/2019]\n(3) Paragraph (1)(b) or (c) shall not apply to any control of voting power or interest in an entity that is held by an affiliated entity of a bank —\n(a)for the benefit of any person other than the affiliated entity, the bank or any other affiliated entity of the bank (referred to in this paragraph as the beneficiary), pursuant to an obligation imposed under any written law, rule of law, contract or order of court; and\n(b)used or exercised by that affiliated entity primarily for the benefit of the beneficiary,\nunless —\n(i)that affiliated entity is an insurer licensed under the Insurance Act (Cap. 142), and it holds the control of voting power or interest in the entity through any of the insurance funds specified in regulation 12(3)(i)(A) to (D); or\n[S 511/2019 wef 01/08/2019]\n[S 473/2021 wef 01/07/2021]\n(ii)the Authority (having regard to the specific circumstances of the case including whether the affiliated entity has investment and voting policies that comply with guidelines issued by the Authority) is of the opinion that the control of voting power or interest in the entity is in fact not being used or exercised primarily for the benefit of the beneficiary, and the Authority issues a declaration by notice in writing to the bank that paragraph (1)(b) or (c), as the case may be, shall, with effect from the date of the declaration apply to the control of voting power or interest in the entity held by that affiliated entity.\n[S 511/2019 wef 01/08/2019]\n[S 511/2019 wef 01/08/2019]"
+   }
+  },
+  {
+   "id": "SG-H302-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART VII COMPUTATION OF MAJOR STAKES"
+   },
+   "heading": {
+    "en": "Affiliated entity over which the bank has no effective control"
+   },
+   "text": {
+    "en": "14.—(1) Where an entity falls within the definition of “affiliated entity” under regulation 12(1)(a), (b), (c) or (e), but not regulation 12(1)(d), and the Authority is satisfied that —\n(a)the affiliated entity is not under the effective control of the bank; and\n(b)the bank is not exposed to any material risk by virtue of —\n(i)that affiliated entity’s beneficial interest in the share capital, accumulated funds or contributed capital of other entities;\n(ii)that affiliated entity’s control of voting power in other entities; or\n(iii)that affiliated entity’s interest in other entities,\n[S 511/2019 wef 01/08/2019]\nthe Authority may, by notice in writing to the bank, declare that regulation 13(1) shall not apply to any beneficial interest in the share capital, accumulated funds or contributed capital of any entity, any control of voting power in any entity, or any interest in any entity, held by that affiliated entity, and in such event, regulation 13(1) shall not apply accordingly with effect from the date specified in the declaration, until such time as the declaration is revoked.\n[S 511/2019 wef 01/08/2019]\n(2) The Authority may upon making a declaration under paragraph (1) and from time to time, impose such conditions as the Authority considers appropriate and if any of the conditions are not complied with at any time, the Authority may revoke the declaration by notice in writing to the bank.\n(2A) The Authority may vary or revoke any condition imposed under paragraph (2).\n[S 511/2019 wef 01/08/2019]\n(3) Without prejudice to paragraph (2), the Authority may, by notice in writing to a bank, revoke a declaration made under paragraph (1) if the Authority is satisfied that —\n(a)the affiliated entity has come under the effective control of the bank; or\n(b)the bank has become exposed to material risk by virtue of —\n(i)that affiliated entity’s beneficial interest in the share capital, accumulated funds or contributed capital of other entities;\n(ii)that affiliated entity’s control of voting power in other entities; or\n(iii)that affiliated entity’s interest in other entities,\n[S 511/2019 wef 01/08/2019]\nand in such event, regulation 13(1) shall apply to that affiliated entity accordingly with effect from the date specified in the notice of revocation.\n(4) Without prejudice to paragraph (3), a declaration under paragraph (1) shall automatically be revoked if and when the affiliated entity falls within the definition of “affiliated entity” under regulation 12(1)(d), whether or not that affiliated entity continues to fall within the definition of “affiliated entity” under regulation 12(1)(a), (b), (c) or (e)."
+   }
+  },
+  {
+   "id": "SG-H302-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART VIII LIMITATION OF MUTUAL SHAREHOLDINGS"
+   },
+   "heading": {
+    "en": "Definitions of this Part"
+   },
+   "text": {
+    "en": "15. In this Part —\n“holding company” has the same meaning as in section 5 of the Companies Act (Cap. 50);\n“major stake” has the same meaning as in section 32(7) of the Act;\n[S 511/2019 wef 01/08/2019]\n[Deleted by S 511/2019 wef 01/08/2019]\n“qualified major stake entity”, in relation to a bank, means an affiliated entity of the bank in which the bank holds a major stake.\n[S 511/2019 wef 01/08/2019]\n[Deleted by S 511/2019 wef 01/08/2019]"
+   }
+  },
+  {
+   "id": "SG-H302-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART VIII LIMITATION OF MUTUAL SHAREHOLDINGS"
+   },
+   "heading": {
+    "en": "Limitation of mutual shareholdings"
+   },
+   "text": {
+    "en": "16.—(1) No qualified major stake entity of a bank incorporated in Singapore shall acquire or hold shares in the bank which has the effect of enabling it, whether alone or jointly with other qualified major stake entities of the bank, to control more than 2% of the voting power in the bank.\n[S 511/2019 wef 01/08/2019]\n(2) No qualified major stake entity of a bank incorporated in Singapore shall acquire or hold shares in any holding company of the bank which has the effect of enabling it, whether alone or jointly with other qualified major stake entities of the bank, to control more than 2% of the voting power in the holding company.\n[S 511/2019 wef 01/08/2019]\n(3) No qualified major stake entity of a bank incorporated in Singapore shall acquire or hold shares in the bank and any of the holding companies of the bank which has the effect of enabling it, whether alone or jointly with other qualified major stake entities of the bank, to control —\n(a)any percentage of the voting power in the bank; and\n(b)any percentage of the voting power in any of the holding companies of the bank,\nsuch that the sum total of the percentages referred to in sub-paragraphs (a) and (b) (notwithstanding that they are percentages of voting powers in different companies) exceeds 2.\n[S 511/2019 wef 01/08/2019]\n(4) No bank incorporated in Singapore shall cause or knowingly permit any of its qualified major stake entities to acquire or hold shares in the bank or any holding company of the bank in contravention of paragraphs (1), (2) or (3).\n[S 511/2019 wef 01/08/2019]\n(5) For the purposes of determining whether there is a contravention of paragraph (1), (2), (3) or (4), any control of voting power in a bank or any holding company of the bank that is held by a qualified major stake entity of that bank —\n(a)for the benefit of any person other than the qualified major stake entity or any other qualified major stake entity of that bank (referred to in this paragraph as the beneficiary), pursuant to an obligation imposed under any written law, rule of law, contract or order of court; and\n(b)used or exercised by the qualified major stake entity for the benefit of the beneficiary,\nshall be disregarded, unless —\n(i)the qualified major stake entity is an insurer licensed under the Insurance Act (Cap. 142), and the control of voting power is held by it through any of the insurance funds specified in regulation 12(3)(i)(A) to (D); or\n[S 473/2021 wef 01/07/2021]\n(ii)the Authority (having regard to the specific circumstances of the case including whether the qualified major stake entity has investment and voting policies that comply with guidelines issued by the Authority) is of the opinion that the control of voting power in the bank or holding company of the bank is in fact not being used or exercised primarily for the benefit of the beneficiary, and the Authority issues a declaration by notice in writing to the qualified major stake entity that such control of voting power in the bank or holding company of the bank shall, with effect from the date of the declaration, be included for the purpose of determining whether there is a contravention of paragraph (1), (2), (3) or (4).\n[S 511/2019 wef 01/08/2019]"
+   }
+  },
+  {
+   "id": "SG-H302-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART VIII LIMITATION OF MUTUAL SHAREHOLDINGS"
+   },
+   "heading": {
+    "en": "Qualified major stake entity over which the bank has no effective control"
+   },
+   "text": {
+    "en": "17.—(1) Where a qualified major stake entity falls within the definition of “affiliated entity” of a bank under regulation 12(1)(a), (b), (c) or (e) but not regulation 12(1)(d), and the Authority is satisfied that —\n(a)the entity is not under the effective control of the bank; and\n[S 511/2019 wef 01/08/2019]\n(b)the bank is not exposed to any material risk by virtue of —\n(i)that entity’s beneficial interest in the share capital, accumulated funds or contributed capital of other entities;\n(ii)that entity’s control of voting power in other entities; or\n(iii)that entity’s interest in other entities,\n[S 511/2019 wef 01/08/2019]\nthe Authority may, by notice in writing to the bank, declare that any shares held by that entity in the bank or any holding company of the bank, shall be excluded for the purpose of determining whether there is a contravention of regulation 16(1), (2), (3) or (4) and in such event, the exclusion shall take effect from the date specified in the declaration until such time as the declaration is revoked.\n[S 511/2019 wef 01/08/2019]\n(2) The Authority may upon making a declaration under paragraph (1) and from time to time, impose such conditions as the Authority considers appropriate and if any of the conditions are not complied with at any time, the Authority may revoke the declaration by notice in writing to the bank.\n(2A) The Authority may vary or revoke any condition imposed under paragraph (2).\n[S 511/2019 wef 01/08/2019]\n(3) Without prejudice to paragraph (2), the Authority may, by notice in writing to a bank, revoke a declaration made under paragraph (1) if the Authority is satisfied that —\n(a)the entity has come under the effective control of the bank; or\n[S 511/2019 wef 01/08/2019]\n(b)the bank has become exposed to material risk by virtue of —\n(i)that entity’s beneficial interest in the share capital, accumulated funds or contributed capital of other entities;\n(ii)that entity’s control of voting power in other entities; or\n(iii)that entity’s interest in other entities,\n[S 511/2019 wef 01/08/2019]\nand in such event, any shares held by that entity in the bank or any holding company of the bank shall, with effect from the date specified in the notice of revocation, be included for the purpose of determining whether there is a contravention of regulation 16(1), (2), (3) or (4).\n[S 511/2019 wef 01/08/2019]\n(4) Without prejudice to paragraph (3), a declaration under paragraph (1) shall automatically be revoked if and when the entity falls within the definition of “affiliated entity” under regulation 12(1)(d), whether or not the entity continues to fall within the definition of “affiliated entity” under regulation 12(1)(a), (b), (c) or (e).\n[S 511/2019 wef 01/08/2019]\n[S 511/2019 wef 01/08/2019]"
+   }
+  },
+  {
+   "id": "SG-H302-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART VIII LIMITATION OF MUTUAL SHAREHOLDINGS"
+   },
+   "heading": {
+    "en": "Offences, penalties and defences"
+   },
+   "text": {
+    "en": "18.—(1) Any person who contravenes regulation 16 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine of $2,500 for every day or part thereof during which the offence continues after conviction.\n(2) A qualified major stake entity of a bank shall not be guilty of an offence in respect of a contravention of regulation 16(1), (2) or (3) if the qualified major stake entity proves that —\n(a)it became a qualified major stake entity of the bank by virtue of, or the contravention resulted from, circumstances beyond its control; or\n(b)it had, at the time of its acquisition or holding of shares in the bank or any holding company of the bank, reasonable grounds for believing that such acquisition or holding would not result in a contravention of regulation 16(1), (2) or (3), as the case may be,\nand it had, within 14 days of becoming aware of the contravention, notified the Authority in writing of the contravention and taken such action as directed by the Authority within such time as may be determined by the Authority.\n[S 511/2019 wef 01/08/2019]\n(3) A bank shall not be guilty of an offence in respect of a contravention of regulation 16(4) if the bank proves that —\n(a)the contravention resulted from circumstances beyond its control; or\n(b)it did not know and had no reason to suspect that there was an acquisition or holding of shares in itself or any of its holding companies by its qualified major stake entity or entities which would result in it being in contravention of regulation 16(4),\n[S 511/2019 wef 01/08/2019]\nand it had, within 14 days of becoming aware of the contravention, notified the Authority in writing of that contravention, and taken such action as directed by the Authority within such time as may be determined by the Authority.\n(4) Except as provided in paragraphs (2) and (3), it shall not be a defence for a person charged with an offence in respect of a contravention of regulation 16 to prove that the person did not intend to or did not knowingly contravene regulation 16."
+   }
+  },
+  {
+   "id": "SG-H302-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART VIII LIMITATION OF MUTUAL SHAREHOLDINGS"
+   },
+   "heading": {
+    "en": "Grace period for mutual shareholdings"
+   },
+   "text": {
+    "en": "19.—(1) Where a qualified major stake company of a bank would, but for this paragraph, be guilty of an offence under regulation 18(1) by virtue of its shareholding in the bank or any of the bank’s holding companies immediately before 5th May 2004, it shall not be so liable under that regulation until 17th July 2006 provided that it does not do any act that causes an increase in such shareholding.\n(2) Where a bank would, but for this paragraph, be guilty of an offence under regulation 18(1) by virtue of its qualified major stake company’s shareholding in itself or any of its holding companies immediately before 5th May 2004, it shall not be so liable under that regulation until 17th July 2006 provided that it does not cause or permit its qualified major stake company to do any act that causes an increase in such shareholding."
+   }
+  },
+  {
+   "id": "SG-H302-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART IX PRESCRIBED BUSINESSES"
+   },
+   "heading": {
+    "en": "Definitions of this Part"
+   },
+   "text": {
+    "en": "20. In this Part —\n“asset” includes any commodity as defined in section 2 of the Securities and Futures Act;\n[S 622/2005 wef 29/09/2005]\n[S 473/2021 wef 01/07/2021]\n“bank group”, in relation to a bank incorporated in Singapore, means a group of entities comprising —\n(a)the bank;\n(b)every subsidiary of the bank;\n(c)every branch of the bank; and\n(d)every other entity that is treated as part of the bank’s group of entities for accounting purposes according to the Accounting Standards;\n[S 473/2021 wef 01/07/2021]\n“building” means any immovable property that has undergone development as defined in section 3 of the Planning Act (Cap. 232);\n“foreclosed property”, in relation to a bank in Singapore or major stake entity, means the whole or any part of any residential, commercial or industrial land or building that has been acquired by the bank or entity, as the case may be, acting in its capacity as the mortgagee of the whole or that part of the land or building, as the case may be, pursuant to an action for foreclosure;\n[S 511/2019 wef 01/08/2019]\n“investment property”, in relation to a bank in Singapore or major stake entity, means the whole or any part of any residential, commercial or industrial land or building that has been acquired or is held by the bank or entity, as the case may be, as an investment;\n[S 511/2019 wef 01/08/2019]\n“land” means any immovable property that has not undergone development as defined in section 3 of the Planning Act (Cap. 232);\n[Deleted by S 511/2019 wef 01/08/2019]\n“major stake entity”, in relation to a bank in Singapore, means —\n(a)in the case of a bank incorporated in Singapore — any entity in which the bank holds, directly or indirectly, a major stake; and\n(b)in the case of branches and offices located within Singapore of a bank incorporated outside Singapore — any entity in which the bank incorporated outside Singapore holds, directly or indirectly, a major stake that is reflected as an investment in the balance sheet of those branches and offices;\n[S 473/2021 wef 01/07/2021]\n“property enhancement” means —\n(a)in relation to a building, the carrying out of any works for the refurbishment, improvement or alteration of, or addition to, the building which —\n(i)do not amount to demolition or reconstruction of the building; and\n(ii)do not vary the gross floor area of the building by more than 20%; and\n(b)in relation to any part of a building, the carrying out of any works for the refurbishment, improvement or alteration of, or addition to, that part of the building which —\n(i)do not amount to demolition or reconstruction of that part of the building; and\n(ii)do not vary the gross floor area of that part of the building by more than 20%;\n“property management”, in relation to the whole or any part of any land or building, means the maintenance and management of the whole or that part of the land or building, as the case may be, and includes the procurement of security services and lease and tenancy administration in relation to the whole or that part of the land or building, as the case may be, but does not include property enhancement."
+   }
+  },
+  {
+   "id": "SG-H302-A20.001",
+   "no": 20.001,
+   "noLabel": {
+    "en": "20A."
+   },
+   "chapter": {
+    "en": "PART IX PRESCRIBED BUSINESSES"
+   },
+   "heading": {
+    "en": "Prescribed businesses to which section 12(1) of Act applies"
+   },
+   "text": {
+    "en": "20A.—(1) For the purpose of section 12(2)(c) of the Act, the following businesses mentioned in section 30(1)(b) of the Act are prescribed as businesses to which section 12(1) of the Act applies:\n(a)the business of providing a money‑changing service;\n[S 840/2019 wef 28/01/2020]\n(b)the business of providing a cross‑border money transfer service.\n[S 840/2019 wef 28/01/2020]\n(2) In this regulation, “cross-border money transfer service” and “money-changing service” have the meanings given by section 2(1) of the Payment Services Act 2019 (Act 2 of 2019).\n[S 840/2019 wef 28/01/2020]"
+   }
+  },
+  {
+   "id": "SG-H302-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART IX PRESCRIBED BUSINESSES"
+   },
+   "heading": {
+    "en": "Prescribed business relating to property management and property enhancement"
+   },
+   "text": {
+    "en": "21. For the purposes of section 30(1)(d) of the Act, the Authority hereby prescribes the following property-related businesses as businesses that any bank in Singapore may carry on, or enter into any partnership, joint venture or other arrangement with any person to carry on:\n(a)the business of providing property management services in relation to —\n(i)any investment property that has been acquired or is held by —\n(A)in the case of a bank incorporated in Singapore, any entity in its bank group; or\n(B)in the case of the branches and offices located within Singapore of a bank incorporated outside Singapore, the bank incorporated outside Singapore, where the investment property is reflected as an asset in the balance sheet of those branches and offices;\n[S 473/2021 wef 01/07/2021]\n(ii)any foreclosed property that has been acquired or is held by —\n(A)in the case of a bank incorporated in Singapore, any entity in its bank group; or\n(B)in the case of the branches and offices located within Singapore of a bank incorporated outside Singapore, the bank incorporated outside Singapore, where the foreclosed property is reflected as an asset in the balance sheet of those branches and offices; or\n[S 473/2021 wef 01/07/2021]\n(iii)the whole or any part of any building that is occupied and used —\n(A)by the bank for the carrying on of any business or class of business referred to in section 30(1) of the Act; or\n(B)in the case of a bank incorporated in Singapore, by any entity in its bank group for the carrying on of that entity’s business;\n[S 511/2019 wef 01/08/2019]\n[S 473/2021 wef 01/07/2021]\n(b)the business of managing and coordinating property enhancement works in relation to —\n(i)any property referred to in paragraph (a)(i) or (ii) that is a building; or\n(ii)any building referred to in paragraph (a)(iii).\n[S 473/2021 wef 01/07/2021]"
+   }
+  },
+  {
+   "id": "SG-H302-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART IX PRESCRIBED BUSINESSES"
+   },
+   "heading": {
+    "en": "Prescribed alternative financing business"
+   },
+   "text": {
+    "en": "22.—(1) For the purposes of section 30(1)(d) of the Act, and subject to paragraph (2), the business of purchasing and selling assets is prescribed as a business that any bank in Singapore may carry on, or enter into any partnership, joint venture or other arrangement with any person to carry on, if such business is carried on under the following arrangement:\n(a)the bank, at the request of and for the purpose of financing the purchase of each of those assets by a customer, purchases the asset from the seller in circumstances where the asset is existing at the time of the purchase;\n(b)the bank sells the asset to the customer;\n(c)the customer is under a legal obligation to the bank to take delivery of the asset;\n(d)the amount payable by the customer for the asset (the marked-up price) is greater than the amount paid by the bank for the asset (the original price), and the difference between the marked-up price and original price is the profit or return to the bank for providing such financing to the customer;\n(e)the bank does not derive any gain or suffer any loss from any movement in the market value of the asset other than as part of the profit or return referred to in sub-paragraph (d); and\n(f)the marked-up price or any part thereof is not required to be paid until after the date of the sale.\n[S 325/2006 wef 12/06/2006]\n(2) The bank shall notify the Authority of its —\n(a)intention to commence the business referred to in paragraph (1); or\n(b)commencement of such business within 14 days after the commencement of such business.\n[S 622/2005 wef 29/09/2005]"
+   }
+  },
+  {
+   "id": "SG-H302-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART IX PRESCRIBED BUSINESSES"
+   },
+   "heading": {
+    "en": "Prescribed purchase and sale business"
+   },
+   "text": {
+    "en": "23.—(1) For the purposes of section 30(1)(d) of the Act, and subject to paragraph (2), the business of purchasing and selling assets is prescribed as a business that any bank in Singapore may carry on, or enter into any partnership, joint venture or other arrangement with any person to carry on, if such business is carried on under the following arrangement:\n(a)for the purpose of making funds of a customer available to a bank, the customer appoints the bank or any other person as agent, to purchase on his behalf, an asset for an amount of money (the original price), in circumstances where the asset is existing at the time of the purchase;\n[S 18/2009 wef 19/01/2009]\n(b)[Deleted by S 18/2009 wef 19/01/2009]\n(c)the bank purchases the asset from the customer at a price (the marked-up price) that is greater than the original price, and sells the asset or appoints the customer, or any other person as an agent of the bank, to sell the asset on its behalf;\n[S 18/2009 wef 19/01/2009]\n(d)the bank and customer, respectively, do not derive any gain or suffer any loss from any movement in the market value of the asset other than the difference between the marked-up price and the original price (which represents the profit or return to the customer for making funds available to the bank); and\n(e)the marked-up price or any part thereof is not required to be paid by the bank to the customer until after the date of sale of the asset by the bank.\n[S 18/2009 wef 19/01/2009]\n(2) The bank shall notify the Authority of its —\n(a)intention to commence the business referred to in paragraph (1); or\n(b)commencement of such business within 14 days after the commencement of such business.\n[S 325/2006 wef 12/06/2006]"
+   }
+  },
+  {
+   "id": "SG-H302-A23.001",
+   "no": 23.001,
+   "noLabel": {
+    "en": "23A."
+   },
+   "chapter": {
+    "en": "PART IX PRESCRIBED BUSINESSES"
+   },
+   "heading": {
+    "en": "Prescribed inter-bank purchase and sale business"
+   },
+   "text": {
+    "en": "23A.—(1) For the purposes of section 30(1)(d) of the Act, and subject to paragraph (3), the business of purchasing and selling assets is prescribed as a business that any bank in Singapore may carry on, or enter into any partnership, joint venture or other arrangement with any person to carry on, if such business is carried on under the following arrangement:\n(a)for the purpose of making funds of the bank (“A”) available to another bank or merchant bank (“B”), A purchases, or appoints B or any other person as an agent of A to purchase on its behalf, an asset for an amount of money (the original price), in circumstances where the asset is existing at the time of the purchase;\n(b)B purchases the asset from A at a price (the marked-up price) that is greater than the original price, and sells the asset, or appoints A, or any other person as an agent of B, to sell the asset on its behalf;\n(c)A and B, respectively, do not derive any gain or suffer any loss from any movement in the market value of the asset other than the difference between the marked-up price and the original price (which represents the profit or return to A for making funds available to B); and\n(d)the marked-up price or any part thereof is not required to be paid by B to A until after the date of sale of the asset by B.\n(2) For the purposes of section 30(1)(d) of the Act, and subject to paragraph (3), the arrangement set out in paragraph (1), in circumstances where the roles of A and B are reversed, is prescribed as a business that any bank in Singapore may carry on or enter into any partnership, joint venture or other arrangement with any person to carry on.\n(3) The bank shall notify the Authority of its —\n(a)intention to commence the business referred to in paragraph (1); or\n(b)commencement of such business within 14 days after the commencement of such business.\n[S 18/2009 wef 19/01/2009]"
+   }
+  },
+  {
+   "id": "SG-H302-A23.002",
+   "no": 23.002,
+   "noLabel": {
+    "en": "23B."
+   },
+   "chapter": {
+    "en": "PART IX PRESCRIBED BUSINESSES"
+   },
+   "heading": {
+    "en": "Prescribed leasing business"
+   },
+   "text": {
+    "en": "23B.—(1) For the purposes of section 30(1)(d) of the Act, and subject to paragraph (2), the business of leasing assets (whether in the form of movable or immovable property) is prescribed as a business that any bank in Singapore may carry on, or enter into any partnership, joint venture or other arrangement with any person to carry on, if such business is carried on under the following arrangement:\n(a)the bank, or the bank’s agent, purchases an asset at the request of a customer for an amount of money (the original price) for the purposes of financing the use or purchase, or both, of the asset by the customer;\n(b)the bank, or the bank’s agent, leases the asset to the customer;\n(c)in a case where the asset is not in existence at the time the bank, or the bank’s agent, leases the asset to the customer, an amount of money (the advance payment) may be paid by the customer to the bank, or the bank’s agent, for the subsequent use of the asset;\n(d)an amount of money (the rental) is paid by the customer to the bank, or the bank’s agent, for the lease of the asset;\n(e)the bank, or the bank’s agent, appoints the customer, or a third party, to take on the obligations in connection with the use of the asset, including its maintenance and insurance;\n(f)in the event of an early termination of the lease, the customer, or a third party, shall purchase the asset from the bank, or the bank’s agent, at a price determined at the start of the lease (the early termination price);\n(g)upon expiry of the lease —\n(i)where the aggregate of all rental and advance payments made under the lease is greater than the original price, the bank, or the bank’s agent, shall, whether with or without consideration, transfer the ownership of the asset to the customer or a third party;\n(ii)where the aggregate of all rental and advance payments made under the lease is equal to or less than the original price, the customer or a third party shall purchase the asset from the bank, or the bank’s agent, at a sale price determined at the start of the lease (the sale price), which amount shall be consideration for the transfer of the asset;\n(h)the total amount payable by the customer and such third party referred to in either sub-paragraph (f) or (g), if any, for the asset comprising —\n(i)the advance payment;\n(ii)the rental; and\n(iii)the sale price or early termination price,\nis greater than the original price, and the difference between the total amount payable and original price is the profit or return to the bank for providing such financing to the customer;\n(i)the bank, or the bank’s agent, does not derive any gain or suffer any loss from any movement in the market value of the asset, including total loss of the asset, other than as part of the profit or return referred to in sub-paragraph (h).\n(2) The bank shall notify the Authority of its —\n(a)intention to commence the business referred to in paragraph (1); or\n(b)commencement of such business within 14 days after the commencement of such business.\n[S 18/2009 wef 19/01/2009]"
+   }
+  },
+  {
+   "id": "SG-H302-A23.003",
+   "no": 23.003,
+   "noLabel": {
+    "en": "23C."
+   },
+   "chapter": {
+    "en": "PART IX PRESCRIBED BUSINESSES"
+   },
+   "heading": {
+    "en": "Prescribed joint purchase and periodic sale business"
+   },
+   "text": {
+    "en": "23C.—(1) For the purposes of section 30(1)(d) of the Act, and subject to paragraph (2), the business of jointly purchasing and selling (on a periodic basis) assets (whether in the form of movable or immovable property) is prescribed as a business that any bank in Singapore may carry on, or enter into any partnership, joint venture or other arrangement with any person, if such business is carried on under the following arrangement:\n(a)the bank, or the bank’s agent, jointly purchases an asset with the customer at the request of the customer and contributes an amount of money towards the purchase price (the contribution) for the purposes of financing the use or purchase, or both, of the asset by the customer;\n(b)the bank, or the bank’s agent —\n(i)sells a portion of its share of the asset on a periodic basis to the customer for an amount of money determined at the start of the arrangement (the redemption); and\n(ii)leases the unsold portion of its share of the asset to the customer for an amount of money determined at the start of the arrangement (the rental);\n(c)in a case where the asset is not in existence at the time of the joint purchase and the bank, or the bank’s agent, leases the unsold portion of its share of the asset to the customer, an amount of money (the advance payment) may be paid by the customer to the bank, or the bank’s agent, for the subsequent use of that portion of the asset;\n(d)the bank, or the bank’s agent, appoints the customer, or a third party, to take on the obligations in connection with the use of the asset, including its maintenance and insurance;\n(e)in the event of an early termination of the arrangement, the customer shall purchase from the bank, or the bank’s agent, the remainder of the unsold portion of the bank’s, or the bank’s agent’s, share of the asset at a price determined at the start of the arrangement (the early termination price);\n(f)upon expiry of the arrangement, the customer shall have purchased from the bank, or the bank’s agent, the whole of the bank’s, or the bank’s agent’s, share of the asset and obtained full ownership of the asset;\n(g)the total amount payable by the customer for the asset comprising —\n(i)the advance payment;\n(ii)the redemption;\n(iii)the rental; and\n(iv)the early termination price,\nis greater than the contribution, and the difference between the total amount payable and the contribution is the profit or return to the bank for providing such financing to the customer;\n(h)the bank, or the bank’s agent, does not derive any gain or suffer any loss from any movement in the market value of the asset, including total loss of the asset, other than as part of the profit or return referred to in sub-paragraph (g), except in circumstances provided in sub-paragraph (i); and\n(i)in a case where the customer is unable to pay the bank, or the bank’s agent, the early termination price, the bank, or the bank’s agent, may sell the asset to a third party at a price lower than the outstanding amount payable by the customer.\n(2) The bank shall notify the Authority of its —\n(a)intention to commence the business referred to in paragraph (1); or\n(b)commencement of such business within 14 days after the commencement of such arrangement.\n[S 203/2009 wef 07/05/2009]"
+   }
+  },
+  {
+   "id": "SG-H302-A23.004",
+   "no": 23.004,
+   "noLabel": {
+    "en": "23D."
+   },
+   "chapter": {
+    "en": "PART IX PRESCRIBED BUSINESSES"
+   },
+   "heading": {
+    "en": "Prescribed purchase and sale business at spot price"
+   },
+   "text": {
+    "en": "23D.—(1) For the purposes of section 30(1)(d) of the Act, and subject to paragraph (2), the business of purchasing and selling assets at spot price is prescribed as a business that any bank in Singapore may carry on, or enter into any partnership, joint venture or other arrangement with any person to carry on, if such business is carried on under the following arrangement:\n(a)for the purposes of effecting payment resulting from the carrying on of any business by the bank under section 30(1)(a), (b) or (c) of the Act —\n(i)the bank undertakes to purchase an asset from a customer (bank purchase undertaking);\n(ii)the customer undertakes to purchase an asset from the bank (customer purchase undertaking);\n(iii)the bank undertakes to sell an asset to a customer (bank sale undertaking); or\n(iv)the customer undertakes to sell an asset to the bank (customer sale undertaking),\nfor an amount of money determined at the time the undertaking is given by the bank or the customer, as the case may be (the agreed price);\n(b)where the bank purchase undertaking is exercised by the customer, or the customer sale undertaking is exercised by the bank, the bank will purchase the asset from the customer at the agreed price in circumstances where the asset is existing at the time of the purchase, and immediately sells the asset to a third party at spot price;\n(c)where the customer purchase undertaking is exercised by the bank, or the bank sale undertaking is exercised by the customer, the bank will purchase the asset from a third party at spot price in circumstances where the asset is existing at the time of the purchase, and immediately sells the asset to the customer at the agreed price;\n(d)the bank does not take physical delivery of the asset; and\n(e)the bank does not derive any gain or suffer any loss from any movement in the market value of the asset other than the difference between the spot price and the agreed price.\n(2) The bank shall notify the Authority of its —\n(a)intention to commence the business referred to in paragraph (1); or\n(b)commencement of such business within 14 days after the commencement of such business.\n[S 203/2009 wef 07/05/2009]"
+   }
+  },
+  {
+   "id": "SG-H302-A23.005",
+   "no": 23.005,
+   "noLabel": {
+    "en": "23E."
+   },
+   "chapter": {
+    "en": "PART IX PRESCRIBED BUSINESSES"
+   },
+   "heading": {
+    "en": "Prescribed procurement business"
+   },
+   "text": {
+    "en": "23E.—(1) For the purposes of section 30(1)(d) of the Act, and subject to paragraph (2), the business of procuring and selling assets (whether in the form of movable or immovable property) is prescribed as a business that any bank in Singapore may carry on, or enter into any partnership, joint venture or other arrangement with any person to carry on, if such business is carried on under the following arrangement:\n(a)the bank, or the bank’s agent, at the request of the customer and for the purposes of financing the procurement and the use or purchase, or both, of an asset by the customer, commissions the customer to construct the asset in accordance with the customer’s specifications for an amount of money (the purchase price);\n(b)contemporaneously with the commissioning referred to in sub-paragraph (a) —\n(i)the bank, or the bank’s agent, and the customer enter into an arrangement prescribed under regulation 23B where the asset is not in existence at the time the asset is leased to the customer (the lease arrangement); or\n(ii)the customer gives an undertaking to the bank, or the bank’s agent, to purchase the asset from the bank, or the bank’s agent, immediately after the transfer of the ownership of the asset to the bank, or the bank’s agent, by the customer under sub-paragraph (e)(i) (the purchase undertaking);\n(c)the customer procures the construction of the asset by a third party;\n(d)the bank, or the bank’s agent, makes payment of the purchase price to the customer on a periodic basis (the progress payment);\n(e) one of the following takes place:\n(i)the customer transfers the ownership of the asset to the bank, or the bank’s agent, on a mutually agreed date on or after the completion of the construction of the asset by the third party;\n(ii)the customer refunds all progress payments to the bank, or the bank’s agent, and the lease arrangement or the purchase undertaking, as the case may be, is cancelled; or\n(iii)the bank, or the bank’s agent, agrees to the substitution of the asset that is the subject of the lease arrangement or the purchase undertaking with a comparable asset, and the customer transfers the ownership of the comparable asset to the bank, or the bank’s agent, on a mutually agreed date;\n(f)the bank, or the bank’s agent, does not take physical delivery of the asset or the comparable asset;\n(g)at the end of the arrangement, the bank, or the bank’s agent, transfers ownership of the asset, or of the comparable asset, to the customer pursuant to the lease arrangement or the purchase undertaking, except in the circumstances referred to in sub-paragraph (e)(ii);\n(h)the amount payable by the customer for the asset, or the comparable asset, is greater than the purchase price, and the difference between the total amount payable and the purchase price is the profit or return to the bank for providing such financing to the customer; and\n(i)the bank, or the bank’s agent, does not derive any gain or suffer any loss from any movement in the market value of the asset, including from the total loss of the asset, other than the profit or return referred to in sub-paragraph (h).\n(2) The bank shall notify the Authority of its —\n(a)intention to commence the business referred to in paragraph (1); or\n(b)commencement of such business within 14 days after the commencement of such business.\n[S 214/2010 wef 13/04/2010]"
+   }
+  },
+  {
+   "id": "SG-H302-A23.006",
+   "no": 23.006,
+   "noLabel": {
+    "en": "23F."
+   },
+   "chapter": {
+    "en": "PART IX PRESCRIBED BUSINESSES"
+   },
+   "heading": {
+    "en": "Prescribed private equity or venture capital business"
+   },
+   "text": {
+    "en": "23F.—(1) For the purposes of section 30(1)(d) of the Act and subject to paragraphs (3) and (4), a business (not being a business referred to in section 30(1)(a), (b) or (c) of the Act) which —\n(a)is carried on by a company or the trustee of a trust; and\n(b)satisfies the requirement in paragraph (2),\nis prescribed as a business that any bank in Singapore may carry on, or with whom a bank in Singapore may enter into any partnership, joint venture or any other arrangement to carry on, whether in Singapore or elsewhere.\n(2) The business referred to in paragraph (1) is one which the bank in Singapore has determined to have potential for high growth or value creation.\n(3) The reference to a company or trustee of a trust in paragraph (1) excludes a company or trustee which —\n(a)is not carrying on any substantial business or not in operation;\n(b)is carrying on the business of engaging in property-related activities; or\n(c)is carrying on the business of factoring, leasing equipment or otherwise purchasing debt obligations from others.\n(4) The bank in Singapore shall, when carrying on a business prescribed in paragraph (1), limit its total net book value of all such businesses —\n(a)where the bank is incorporated in Singapore, to —\n(i)10% of its capital funds or such other percentage as the Authority may approve in any particular case; and\n(ii)10% of the capital funds of its bank group or such other percentage as the Authority may approve in any particular case (where applicable); and\n[S 473/2021 wef 01/07/2021]\n(b)where the bank consists of the branches and offices located within Singapore of a bank incorporated outside Singapore, to 1.5% of the assets that are reflected as assets in the balance sheet of those branches and offices (less net inter-bank lending) or such other percentage as the Authority may approve in any particular case.\n[S 473/2021 wef 01/07/2021]\n[S 473/2021 wef 01/07/2021]\n(5) [Deleted by S 473/2021 wef 01/07/2021]\n(6) In this regulation, unless the context otherwise requires —\n[Deleted by S 473/2021 wef 01/07/2021]\n[Deleted by S 473/2021 wef 01/07/2021]\n“capital funds” —\n(a)in relation to a bank incorporated in Singapore, means the capital of the bank that is used for the purposes of calculating the bank’s capital adequacy requirements under section 10 of the Act; or\n(b)in relation to the bank group of a bank incorporated in Singapore, means the capital of the bank group that is used for the purposes of calculating the bank group’s capital adequacy requirements under section 10 of the Act;\n(c)[Deleted by S 473/2021 wef 01/07/2021]\n[S 473/2021 wef 01/07/2021]\n“net inter-bank lending”, in relation to the branches and offices located within Singapore of a bank incorporated outside Singapore, means the total lending by those branches and offices to —\n(a)other branches and offices located outside Singapore of the bank incorporated outside Singapore; and\n(b)other banks and merchant banks,\nless the total borrowing by those branches and offices from —\n(c)other branches and offices of the bank located outside Singapore; and\n(d)other banks and merchant banks.\n[S 473/2021 wef 01/07/2021]"
+   }
+  },
+  {
+   "id": "SG-H302-A23.007",
+   "no": 23.007,
+   "noLabel": {
+    "en": "23G."
+   },
+   "chapter": {
+    "en": "PART IX PRESCRIBED BUSINESSES"
+   },
+   "heading": {
+    "en": "Prescribed related or complementary business"
+   },
+   "text": {
+    "en": "23G.—(1) For the purposes of section 30(1)(d) of the Act and subject to paragraphs (2) to (6), the following businesses are prescribed as businesses that any bank in Singapore may carry on, or enter into any partnership, joint venture or other arrangement with any person to carry on:\n(a)any business of operating an online location where consumer goods or services are sold to consumers by persons other than the bank;\n(b)any business of selling consumer goods or services on an online location;\n(c)any business of buying, selling or trading any commodity;\n(d)any business of providing financing under an Islamic financing arrangement endorsed by any Shari’ah council or body, or by any committee formed for the purpose of providing guidance on compliance with Shari’ah law;\n(e)any business of providing sales services (including customer prospecting, customer engagement and after-sales services), marketing services or administrative services to any regulated financial institution which is a related corporation of the bank;\n(f)any business of providing advice on the social impact or environmental impact of a person’s investments or activities;\n(g)any business of selling software (including accounting software and risk analytics software) originally developed or commissioned by the bank for a core financial business of the bank;\n(h)any business of referring potential buyers to a seller of goods or services, where the bank is not involved in the supply of goods or services;\n(i)any business of leasing any building or part of a building;\n(j)any business which is incidental to a business mentioned in sub-paragraphs (a) to (i).\n(2) A bank in Singapore may carry on any business prescribed in paragraph (1) only if —\n(a)the business is related or complementary to a core financial business of the bank;\n(b)the bank puts in place risk management and governance policies and procedures that are commensurate with the risks posed by the business;\n(c)the policies and procedures mentioned in sub-paragraph (b) have been approved by —\n(i)in the case of a bank incorporated in Singapore — the board of directors of the bank;\n(ii)in the case of the branches and offices located within Singapore of a bank incorporated outside Singapore, the head office of which has never carried on a materially similar business before — the board of directors of the bank; or\n(iii)in the case of the branches and offices located within Singapore of a bank incorporated outside Singapore, the head office of which has carried on or is carrying on a materially similar business — by an authorised person of the bank;\n(d)the bank notifies the Authority, in accordance with paragraph (3), of the following matters:\n(i)a description of the business;\n(ii)any regulation or licensing requirement that the business is or will be subject to, whether in Singapore or elsewhere;\n(iii)the nature of the bank’s investment in the business and the amount of such investment;\n(iv)the date on which the bank intends to start carrying on the business;\n(v)any partnership, joint venture or other arrangement into which the bank has entered to carry on the business;\n(e)the bank notifies the Authority of any change to the matters in relation to which information had been provided in the notification mentioned in sub-paragraph (d), before making the change or as soon as the bank becomes aware of the change;\n(f)the bank obtains prior approval from the Authority for the issuance of any guarantee, indemnity, letter of comfort or any other letter that imposes similar obligations on the bank as a guarantee or indemnity, or similar expectations on the bank as a letter of comfort, in respect of the business; and\n(g)in the case of a bank that enters into any partnership, joint venture or other arrangement with a related corporation of the bank to carry on a business prescribed in paragraph (1), the related corporation of the bank does not use the bank’s name, logo or trade mark in the course of the business.\n(3) The notification under paragraph (2)(d) must be submitted at least 14 days before the earliest of the following:\n(a)any public announcement that the bank intends to carry on, or enter into any partnership, joint venture or other arrangement with any person to carry on, the business;\n(b)the entry of the bank into any partnership, joint venture or arrangement with any person to carry on the business;\n(c)the date on which the bank starts carrying on the business, or the date on which any partnership, joint venture or other arrangement entered into by the bank to carry on the business comes into effect.\n(4) In addition to the conditions in paragraph (2), a bank in Singapore may carry on any business under paragraph (1) only if its aggregate non-financial business size does not exceed —\n(a)in the case of a bank incorporated in Singapore —\n(i)10% of its capital funds; and\n(ii)10% of the capital funds of its bank group; or\n(b)in the case of the branches and offices located within Singapore of a bank incorporated outside Singapore — 1.5% of the assets that are reflected as assets in the balance sheet of those branches and offices (less net inter-bank lending).\n(5) A bank in Singapore must —\n(a)submit a report to the Authority within 30 days after the end of every quarter or any other time as may be approved in writing by the Authority, containing the information specified in the Second Schedule; and\n(b)provide any other information that the Authority may require in relation to any business prescribed in paragraph (1) that is carried on by the bank.\n(6) A bank in Singapore that carries on any business prescribed in paragraph (1) must comply with any other conditions or restrictions that the Authority may impose, from time to time, by written notice in relation to its carrying on of such business.\n(7) In this regulation, unless the context otherwise requires —\n“aggregate non-financial business size”, in relation to a bank in Singapore, means the total balance sheet asset value or total exposures (whichever is higher), or any other measure that the Authority may specify by written notice, of —\n(a)all businesses prescribed in paragraph (1) carried on by the bank;\n(b)all businesses prescribed in regulation 23I(1) carried on by the bank;\n(c)all businesses carried on by any major stake entity of the bank that is acquired or held by the bank in accordance with regulation 7B;\n(d)all businesses prescribed in paragraph (1) carried on by any major stake entity of the bank, where —\n(i)the bank has obtained the prior approval of the Authority under section 32 of the Act to acquire or hold a major stake in the entity; and\n(ii)the approval under sub-paragraph (i) is subject to conditions that include the bank having to treat the balance sheet asset value or exposures (whichever is higher) of such businesses as part of its aggregate non-financial business size;\n(e)all businesses for which the Authority has granted approval to the bank under section 30(1)(e) of the Act and the approval is subject to conditions that include the bank having to treat the balance sheet asset value or exposures (whichever is higher) of such businesses as part of its aggregate non-financial business size; and\n(f)all businesses carried on by any major stake entity of the bank, other than a business mentioned in section 30(1)(a), (b), (c) or (d) of the Act, where —\n(i)the bank has obtained the approval of the Authority under section 32 of the Act to acquire or hold a major stake in the entity; and\n(ii)the approval under sub-paragraph (i) is subject to conditions that include the bank having to treat the balance sheet asset value or exposures (whichever is higher) of such businesses as part of its aggregate non-financial business size;\n“authorised person”, in relation to the branches and offices located within Singapore of a bank incorporated outside Singapore, means one or more persons, or a committee of persons, authorised by the board of directors of the bank to approve the risk management and governance policies and procedures of the business carried on by those branches and offices;\n“capital funds” means —\n(a)in relation to a bank incorporated in Singapore — the capital of the bank that is used for the purposes of calculating its capital adequacy requirements under section 10 of the Act; or\n(b)in relation to the bank group of a bank incorporated in Singapore — the capital of the bank group that is used for the purposes of calculating the bank group’s capital adequacy requirements under section 10 of the Act;\n“commodity” has the meaning given by section 2(1) of the Securities and Futures Act;\n“consumer goods or services” means goods or services which are ordinarily supplied for private use or consumption;\n“core financial business”, in relation to a bank, means a core business activity that the bank carries out based on its particular business model which is either —\n(a)a business mentioned in section 30(1)(a), (b) or (c) of the Act; or\n(b)a business prescribed under section 30(1)(d) of the Act that is similar to any of the businesses mentioned in section 30(1)(a), (b) and (c) of the Act in terms of economic substance and risk;\n“net inter-bank lending”, in relation to the branches and offices located within Singapore of a bank incorporated outside Singapore, means the total lending by those branches and offices to —\n(a)other branches and offices located outside Singapore of the bank incorporated outside Singapore; and\n(b)other banks and merchant banks,\nless the total borrowing by those branches and offices from —\n(c)other branches and offices of the bank located outside Singapore; and\n(d)other banks and merchant banks;\n“quarter” means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October of any year.\n[S 473/2021 wef 01/07/2021]"
+   }
+  },
+  {
+   "id": "SG-H302-A23.008",
+   "no": 23.008,
+   "noLabel": {
+    "en": "23H."
+   },
+   "chapter": {
+    "en": "PART IX PRESCRIBED BUSINESSES"
+   },
+   "heading": {
+    "en": "Prescribed related or complementary business that is non-revenue generating, etc."
+   },
+   "text": {
+    "en": "23H.—(1) For the purposes of section 30(1)(d) and subject to paragraph (2), any business that is related or complementary to a core financial business of a bank in Singapore is prescribed as a business that the bank may carry on, or enter into any partnership, joint venture or other arrangement with any person to carry on, if —\n(a)the business is one from which the bank in Singapore does not receive or intend to receive any revenue;\n(b)the business is one that has no asset value recorded on the balance sheet of the bank in Singapore; and\n(c)the business is one that does not result in any exposure for the bank in Singapore.\n(2) A bank in Singapore that carries on any business prescribed in paragraph (1) must comply with any other conditions or restrictions that the Authority may impose, from time to time, by written notice in relation to its carrying on of such business.\n(3) In this regulation, “core financial business” has the meaning given by regulation 23G(7).\n[S 473/2021 wef 01/07/2021]"
+   }
+  },
+  {
+   "id": "SG-H302-A23.009",
+   "no": 23.009,
+   "noLabel": {
+    "en": "23I."
+   },
+   "chapter": {
+    "en": "PART IX PRESCRIBED BUSINESSES"
+   },
+   "heading": {
+    "en": "Saving provision for businesses carried on before 1 July 2021"
+   },
+   "text": {
+    "en": "23I.—(1) For the purposes of section 30(1)(d) of the Act and subject to paragraphs (2) to (5), any business prescribed by regulation 23G(1) in force immediately before 1 July 2021, and carried on immediately before that date —\n(a)by a bank in Singapore; or\n(b)by a partnership, joint venture or other arrangement that a bank in Singapore has entered into with another person,\nis prescribed as a business that that bank may —\n(c)carry on; or\n(d)enter into a partnership, joint venture or other arrangement with another person to carry on.\n(2) A bank in Singapore may carry on any business prescribed in paragraph (1) only if —\n(a)the business is related or complementary to any of the core financial business which is carried on by the bank;\n(b)the bank puts in place risk management and governance policies and procedures that are commensurate with the risks posed by the business;\n(c)the policies and procedures mentioned in sub-paragraph (b) have been approved by —\n(i)in the case of a bank incorporated in Singapore — the board of directors of the bank;\n(ii)in the case of the branches and offices located within Singapore of a bank incorporated outside Singapore, the head office of which has never carried on a materially similar business before — the board of directors of the bank; or\n(iii)in the case of the branches and offices located within Singapore of a bank incorporated outside Singapore, the head office of which has carried on or is carrying on a materially similar business — by an authorised person of the bank;\n(d)the bank notifies the Authority of any change to the business or the partnership, joint venture or arrangement under which the bank carries on the business, before making the change;\n(e)the bank obtains prior approval from the Authority for the issuance of any guarantee, indemnity, letter of comfort or any other letter that imposes similar obligations on the bank as a guarantee or indemnity, or similar expectations on the bank as a letter of comfort, in respect of the business; and\n(f)in the case of a bank that enters into any partnership, joint venture or other arrangement with a related corporation of the bank to carry on a business prescribed in paragraph (1), the related corporation of the bank does not use the bank’s name, logo or trade mark in the course of the business.\n(3) A bank in Singapore may carry on any business under paragraph (1) only if its aggregate non-financial business size does not exceed —\n(a)in the case of a bank incorporated in Singapore —\n(i)10% of its capital funds; and\n(ii)10% of the capital funds of its bank group; or\n(b)in the case of the branches and offices located within Singapore of a bank incorporated outside Singapore — 1.5% of the assets that are reflected as assets in the balance sheet of those branches and offices (less net inter-bank lending).\n(4) A bank in Singapore that carries on any business prescribed in paragraph (1) must —\n(a)submit a report to the Authority within 30 days after the end of every quarter or any other time as may be approved in writing by the Authority, containing the information specified in the Second Schedule; and\n(b)provide any other information that the Authority may require in relation to any business prescribed in paragraph (1) that is carried on by the bank.\n(5) A bank in Singapore that carries on any business prescribed in paragraph (1) must comply with any other conditions or restrictions that the Authority may impose, from time to time, by written notice in relation to its carrying on of such business.\n(6) In this regulation, “aggregate non-financial business size”, “authorised person”, “capital funds”, “net inter-bank lending” and “quarter” have the meanings given by regulation 23G(7).\n[S 473/2021 wef 01/07/2021]"
+   }
+  },
+  {
+   "id": "SG-H302-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART X EXPOSURES AND CREDIT FACILITIES"
+   },
+   "text": {
+    "en": "24. [Deleted by S 473/2021 wef 01/07/2021]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H302-A24.001",
+   "no": 24.001,
+   "noLabel": {
+    "en": "24A."
+   },
+   "chapter": {
+    "en": "PART X EXPOSURES AND CREDIT FACILITIES"
+   },
+   "heading": {
+    "en": "Valuation of equity investments"
+   },
+   "text": {
+    "en": "24A. For the purposes of section 31 of the Act in relation to a bank incorporated in Singapore, the valuation of any equity investment in a single company shall be —\n(a)in the case where revaluation gains with respect to the equity investment are permitted by the Authority to be included in the computation of the bank’s capital funds, the sum of —\n(i)the cost of the equity investment; and\n(ii)the revaluation gains with respect to the equity investment; and\n[S 661/2013 wef 25/10/2013]\n(b)in any other case, the cost of the equity investment less revaluation losses and diminution in value with respect to the equity investment, if any.\n[S 370/2010 wef 05/07/2010]"
+   }
+  },
+  {
+   "id": "SG-H302-A24.002",
+   "no": 24.002,
+   "noLabel": {
+    "en": "24B."
+   },
+   "chapter": {
+    "en": "PART X EXPOSURES AND CREDIT FACILITIES"
+   },
+   "heading": {
+    "en": "Valuation of immovable property"
+   },
+   "text": {
+    "en": "24B. For the purposes of section 33 of the Act in relation to a bank incorporated in Singapore, the valuation of immovable property shall be —\n(a)in the case where revaluation gains with respect to immovable property are permitted by the Authority to be included in the computation of the bank’s capital funds, the sum of the cost of the immovable property and 45% of revaluation gains with respect to the immovable property; and\n(b)in any other case, the cost of the immovable property less revaluation losses and diminution in value with respect to the immovable property, if any.\n[S 370/2010 wef 05/07/2010]"
+   }
+  },
+  {
+   "id": "SG-H302-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART XI TRANSFER OF BUSINESS AND SHARES AND RESTRUCTURING OF BANK"
+   },
+   "heading": {
+    "en": "Particulars to be published"
+   },
+   "text": {
+    "en": "25. For the purposes of section 55C(2)(d) of the Act, the transferor shall publish the following particulars:\n(a)the names of the transferor and the transferee;\n(b)a summary of the transfer, including a description of the nature and the effect of the transfer; and\n(c)the addresses of the respective offices of the transferor and transferee at which, and the period during which, the report referred to in section 55C(2)(a) of the Act would be kept for inspection by any person who may be affected by the transfer.\n[S 238/2007 wef 11/06/2007]"
+   }
+  },
+  {
+   "id": "SG-H302-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART XI TRANSFER OF BUSINESS AND SHARES AND RESTRUCTURING OF BANK"
+   },
+   "text": {
+    "en": "26. [Deleted by S 810/2020 wef 01/10/2020]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H302-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART XI TRANSFER OF BUSINESS AND SHARES AND RESTRUCTURING OF BANK"
+   },
+   "text": {
+    "en": "27. [Deleted by S 810/2020 wef 01/10/2020]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H302-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART XI TRANSFER OF BUSINESS AND SHARES AND RESTRUCTURING OF BANK"
+   },
+   "text": {
+    "en": "28. [Deleted by S 810/2020 wef 01/10/2020]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H302-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART XII DEPOSIT LIABILITIES OF BANK"
+   },
+   "heading": {
+    "en": "Liabilities which are included in deposit liabilities of bank"
+   },
+   "text": {
+    "en": "29. For the purposes of section 62(3)(b) of the Act, “deposit liabilities”, in relation to a bank, include the liabilities of a bank to a person under the following arrangement:\n(a)the person pays a sum of money to his agent or the bank for the purpose of making his funds available to the bank and to enable his agent or the bank to purchase an asset on his behalf, being an asset that exists at the time of the purchase;\n(b)the bank purchases the asset from the person at a price (the marked-up price) that is greater than the sum of money paid by the person, and sells the asset;\n(c)the person and the bank, respectively, do not derive any gain or suffer any loss from any movement in the market value of the asset other than the difference between the marked-up price and the sum of money paid by the person (which represents the return to the person for making his funds available to the bank); and\n(d)no part of the marked-up price is required to be paid by the bank to the person until after the date of sale of the asset by the bank.\n[S 473/2021 wef 01/07/2021]"
+   }
+  },
+  {
+   "id": "SG-H302-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART XII DEPOSIT LIABILITIES OF BANK"
+   },
+   "heading": {
+    "en": "Liabilities which are not included in deposit liabilities of bank"
+   },
+   "text": {
+    "en": "30. For the purposes of section 62 (3) (ii) of the Act, “deposit liabilities”, in relation to a bank, do not include the liabilities of a bank in respect of a sum of money paid to the bank by or on behalf of any person in consideration for the issue to him by the bank of bonds or NCDs.\n[S 473/2021 wef 01/07/2021]"
+   }
+  },
+  {
+   "id": "SG-H302-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART XIII MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Definition of “subsidiary” in section 48AA of Act"
+   },
+   "text": {
+    "en": "31.—(1) For the purpose of the definition of “subsidiary” in section 48AA(5) of the Act, an entity (called in this regulation S) is a subsidiary of another entity (called in this regulation A) if —\n(a)A —\n(i)controls the composition of the board of directors of S; or\n(ii)controls more than half of the voting power in S; or\n(b)S is a subsidiary of an entity which is a subsidiary of A.\n(2) For the purpose of paragraph (1)(a)(i), A is treated as having control of the composition of the board of directors of S if A has any power, exercisable by A without the consent or concurrence of any other person, to appoint or remove all or a majority of —\n(a)the directors of S; or\n(b)the equivalent of the directors of S.\n(3) For the purposes of paragraph (1)(a), in determining whether A controls the composition of the board of directors of S, or controls more than half of the voting power in S —\n(a)any power exercisable by A in a fiduciary capacity is to be disregarded;\n(b)subject to sub‑paragraphs (c) and (d), any power exercisable —\n(i)by a nominee for A (except where A is concerned only in a fiduciary capacity); or\n(ii)by a subsidiary of A or a nominee for the subsidiary (except where the subsidiary is concerned only in a fiduciary capacity),\nis to be treated as exercisable by A;\n(c)any power exercisable by any person by virtue of the provisions of any debentures of S or of a trust deed for securing any issue of any debentures of S is to be disregarded; and\n(d)any power exercisable by, or by a nominee for, A or its subsidiary (not being a power exercisable as mentioned in sub‑paragraph (c)) is not to be treated as exercisable by A if —\n(i)the ordinary business of A or its subsidiary (as the case may be) includes the lending of money; and\n(ii)the power is exercisable by way of security only for the purpose of a transaction entered into in the ordinary course of that business.\n[S 511/2019 wef 01/08/2019]"
+   }
+  },
+  {
+   "id": "SG-H302-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART XIII MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Prescribed appointments for bank incorporated in Singapore"
+   },
+   "text": {
+    "en": "32.—(1) The following appointments are prescribed as appointments in a bank incorporated in Singapore to which section 53A(1)(d) of the Act applies:\n(a)the chief financial officer;\n(b)the chief risk officer;\n(c)the head of treasury;\n(d)the members of the Nominating Committee.\n(2) In this regulation, “head of treasury”, in relation to a bank incorporated in Singapore, means any person, by whatever name described, who —\n(a)is in the direct employment of, or acting for or by arrangement with, the bank; and\n(b)is principally responsible for the management and conduct of the treasury operations of the bank.\n[S 511/2019 wef 01/08/2019]"
+   }
+  },
+  {
+   "id": "SG-H302-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART XIII MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Prescribed appointment for bank in Singapore of bank incorporated outside Singapore"
+   },
+   "text": {
+    "en": "33.—(1) The appointment of the head of treasury is prescribed as an appointment for the bank in Singapore of a bank incorporated outside Singapore to which section 53A(2)(b) of the Act applies.\n(2) In this regulation, “head of treasury”, in relation to the bank in Singapore of a bank incorporated outside Singapore, means any person, by whatever name described, who —\n(a)is in the direct employment of, or acting for or by arrangement with, the bank in Singapore; and\n(b)is principally responsible for the management and conduct of the treasury operations of the bank in Singapore.\n[S 511/2019 wef 01/08/2019]"
+   }
+  },
+  {
+   "id": "SG-H302-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART XIII MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Prescribed term"
+   },
+   "text": {
+    "en": "34. For the purposes of section 53A(5)(b) of the Act, a term of 3 years is prescribed as the maximum term for which a person appointed under section 53A(1)(a) of the Act as a director of a bank incorporated in Singapore may hold such office or appointment.\n[S 511/2019 wef 01/08/2019]"
+   }
+  },
+  {
+   "id": "SG-H302-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART XIII MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Risk management of bank"
+   },
+   "text": {
+    "en": "35.—(1) A bank must, in a manner that is commensurate with the nature, scale and complexity of its business —\n(a)implement effective internal controls to regularly identify, measure, evaluate, monitor, report and control risks associated with the business activities of the bank;\n(b)ensure that compliance of the bank with the internal controls mentioned in sub‑paragraph (a) is audited by an internal audit process of the bank;\n(c)where any officer, committee, sub‑committee or group of persons has a discretionary power to commit the bank to any financial undertaking or to expose the bank to any business risk —\n(i)establish limits on the discretionary power that are appropriate, having regard to the business activities of the bank; and\n(ii)set out the limits mentioned in sub‑paragraph (i) in writing;\n(d)keep documentation sufficient to demonstrate —\n(i)compliance by the bank with the internal controls mentioned in sub‑paragraph (a); and\n(ii)compliance by each officer, committee, sub‑committee or group of persons who has a discretionary power with the limits mentioned in sub‑paragraph (c)(i).\n(2) Any bank which contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine of $25,000 for every day or part of a day during which the offence continues after conviction.\n[S 511/2019 wef 01/08/2019]"
+   }
+  },
+  {
+   "id": "SG-H302-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART XIII MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Compoundable offences"
+   },
+   "text": {
+    "en": "36. The following offences may be compounded by the Authority in accordance with section 69 of the Act:\n(a)any offence (other than a continuing offence) under the Act or any regulations made under the Act which is punishable with a fine only;\n(b)any offence (other than a continuing offence) under section 4(2), 4A(4), 5(3), 17(2), 18(3)(a), 28(7), 47(4) or (6), 50(7) or (8), 52(2)(a), 55N(2)(a) or 57(7) of the Act;\n[S 473/2021 wef 01/07/2021]\n(c)any offence under section 66(1) of the Act, where the non‑compliance by the bank mentioned in that provision constitutes a compoundable offence under paragraph (a) or (b);\n[S 511/2019 wef 01/08/2019]\n[S 473/2021 wef 01/07/2021]\n(d)any offence (other than a continuing offence) under section 55Z(5)(a), section 28(7) (as applied by section 55ZD(2)), section 47(4) or (6) (as applied by section 55ZI), section 50(7) or (8) (as applied by section 55ZJ(1)), section 52(2)(a) (as applied by section 55ZJ(1)) or section 55N(2)(a) (as applied by section 55ZK(1)) of the Act;\n[S 473/2021 wef 01/07/2021]\n(e)any offence under section 66(1) of the Act, where the non-compliance by the merchant bank mentioned in that provision constitutes a compoundable offence under paragraph (a) or (d).\n[S 473/2021 wef 01/07/2021]"
+   }
+  },
+  {
+   "id": "SG-H302-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 9\nQuarterly reporting for section 35 of Banking Act\nName of Bank: __________\nProperty sector exposure ratio as at __________ (month and year)\nAll figures to nearest S$’000\nItem\nNumerator\n1.\nProperty sector exposure from credit facilities to property corporations\n2.\nProperty sector exposure from credit facilities to corporations other than property corporations\n3.\nProperty sector exposure from credit facilities to individuals\n4.\nProperty sector exposure from debt instruments\n5.\nProperty sector exposure from guarantees to borrowers\n6.\nProperty sector exposure from performance bonds and qualifying certificate guarantees\n7.\nOther property sector exposure from contingent liabilities\nTotal of property sector exposure numerator (A)\nDenominator\n8.\nTotal non-bank loans\n9.\nTotal non-bank debt instruments\n10.\nTotal contingent liabilities (items 5 + 6 + 7)\nTotal property sector exposure denominator (B)\nProperty sector exposure ratio (A divided by B)\n%\nOther Figures\n11.\nOwner-occupied housing loans\n[S 473/2021 wef 01/07/2021]"
+   }
+  },
+  {
+   "id": "SG-H302-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulations 7B(4)(a), 23G(5)(a) and 23I(4)(a)\nInformation for quarterly reports to be submitted\nby bank in Singapore to Authority\n1. The quarterly reports to be submitted by a bank in Singapore to the Authority must contain the following information in relation to that quarter:\n(a)balance sheet asset value, revenue numbers, and exposures of each of the following businesses:\n(i)each business prescribed by regulation 23G(1) carried on by the bank;\n(ii)each business prescribed by regulation 23I(1) carried on by the bank;\n(iii)each business carried on by any major stake entity of the bank mentioned in regulation 7B(1);\n(iv)each business prescribed in regulation 23G(1) carried on by any major stake entity of the bank, where —\n(A)the bank has obtained the approval of the Authority under section 32 of the Act to acquire or hold a major stake in the entity; and\n(B)the approval granted by the Authority mentioned in sub-paragraph (A) is subject to conditions that include the bank having to treat the balance sheet asset value or exposures (whichever is higher) of the business as part of its aggregate non-financial business size;\n(v)each business for which the Authority has granted approval to the bank under section 30(1)(e) of the Act and the approval is subject to conditions that include the bank having to treat the balance sheet asset value or exposures (whichever is higher) of the business as part of its aggregate non-financial business size;\n(vi)each business carried on by any major stake entity of the bank, other than a business mentioned in section 30(1)(a), (b), (c) or (d) of the Act, where —\n(A)the bank has obtained the approval of the Authority under section 32 of the Act to acquire or hold a major stake in the entity; and\n(B)the approval granted by the Authority mentioned in sub-paragraph (A) is subject to conditions that include the bank having to treat the balance sheet asset value or exposures (whichever is higher) of the business as part of its aggregate non-financial business size;\n(b)the aggregate non-financial business size, as defined in regulation 23G(7), of the bank;\n(c)the bank’s utilisation of the regulatory limits prescribed in regulation 23G(4).\n2. In this Schedule, “major stake entity” has the meaning given by regulation 20.\n[S 473/2021 wef 01/07/2021]"
+   }
+  },
+  {
+   "id": "SG-H302-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H302-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "status": "repealed"
+  }
+ ]
+}

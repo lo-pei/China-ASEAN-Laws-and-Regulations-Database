@@ -1,0 +1,474 @@
+{
+ "id": "SG-H1594",
+ "title": {
+  "zh": null,
+  "en": "Fisheries Act 1966",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p20",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act FA1966",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 27,
+ "chars": 21971,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/FA1966?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 27 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1594-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Fisheries Act 1966."
+   }
+  },
+  {
+   "id": "SG-H1594-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“Agency” means the Singapore Food Agency established by the Singapore Food Agency Act 2019;\n“authorised officer” means any person appointed by the Director‑General to be an authorised officer under section 3(2);\n“Director-General” means the Director‑General, Food Administration appointed under section 3(1) of the Sale of Food Act 1973;\n“estuarine waters” means waters extending from the mouth of a river to the uppermost point upstream penetrated by sea water at the highest tide of the year and references to estuarine fishing and estuarine fisheries shall be construed accordingly;\n“fish” includes any of the varieties of marine, brackish water or fresh water fishes, crustacea, aquatic mollusca, turtles, marine sponges, trepang and any other form of aquatic life and the young and eggs thereof;\n“fish culturist” means any person culturing or cultivating fish for profit and includes fish pond operators and aquarists;\n“fish dealer” includes any person engaged in buying (except for personal consumption), selling, exposing for sale, consigning or exhibiting fish, whether living, fresh or processed, in any manner, or any person engaged in processing fish;\n“fish pond” means any enclosed area of water whether fresh or otherwise, which is used or intended for use in the cultivation, storage or capture of fish, and includes estuarine prawn ponds;\n“fishing stakes” means any device used for the capture of fish which is made up of poles or other supports permanently fixed into the ground and enclosed by ramie, rattan, wire or other screening material, so designed as to lead fish into the enclosures, or any device using a net or other screening material that is anchored permanently or impermanently;\n“fishing vessel” includes any ship or boat or any other description of vessel used for fishing or the transport of fish or fishing materials;\n“inland waters” means any rivers, streams, lakes, ponds and other waters, whether private or otherwise, other than maritime and estuarine waters and references to inland fishing and inland fisheries shall be construed accordingly;\n“maritime waters” means that part of the seas adjacent to Singapore, both within and outside territorial waters, whether or not citizens of Singapore have by international law the exclusive right of fishing therein; and where that part is defined by the terms of any convention, treaty or arrangement between Singapore and any other country includes the part so defined and references to maritime fishing and maritime fisheries shall be construed accordingly;\n“master” includes every person, except a pilot, having command or charge of any vessel;\n“processed fish” means fish that has been cured, cooked, frozen or preserved in any manner and includes any product derived or manufactured wholly or partly from fish, and reference to “processing fish” shall be construed accordingly.\n[11/2019]"
+   }
+  },
+  {
+   "id": "SG-H1594-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Administration of Act and appointment of authorised officer, etc."
+   },
+   "text": {
+    "en": "3.—(1) The Director‑General shall be responsible for the administration of this Act, subject to the general or special directions of the Minister.\n(2) The Director‑General may in writing appoint any public officer or any officer of the Agency or any other statutory authority, or an auxiliary police officer appointed under the Police Force Act 2004, to be an authorised officer for the purposes of this Act.\n[11/2019]\n(3) The Director‑General may delegate all or any of the powers conferred or duties imposed upon him by this Act (except the power of delegation conferred by this subsection) to any authorised officer.\n[11/2019]\n(4) The Director‑General may, for any reason that appears to the Director‑General to be sufficient, at any time revoke a person’s appointment as an authorised officer.\n[11/2019]\n(5) An auxiliary police officer who is appointed as an authorised officer under subsection (2) does not, by virtue only of the appointment, become an employee or agent of the Agency.\n[11/2019]"
+   }
+  },
+  {
+   "id": "SG-H1594-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Public servants"
+   },
+   "text": {
+    "en": "4. All officers appointed under the provisions of this Act shall be deemed to be public servants for the purposes of the Penal Code 1871."
+   }
+  },
+  {
+   "id": "SG-H1594-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Identification card to be produced"
+   },
+   "text": {
+    "en": "5.—(1) Every authorised officer when exercising any powers under this Act shall —\n(a)if not in uniform, declare his office; and\n(b)on demand, produce to any person affected by the exercise of those powers such identification card as the Director‑General may direct to be carried by the authorised officers.\n(2) It shall not be an offence for any person to refuse to comply with any request, demand or order made or given by any authorised officer, or by any police officer not in uniform, who fails to declare his office and refuses to produce his identification card on demand being made by that person."
+   }
+  },
+  {
+   "id": "SG-H1594-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 LICENCES"
+   },
+   "heading": {
+    "en": "Licences"
+   },
+   "text": {
+    "en": "6.—(1) The Director‑General may, subject to the provisions of this Act, issue to any person a licence, on such terms and conditions as the Director‑General may specify exempting him from any prohibition or obligation imposed by the provisions of this Act.\n(2) The Director‑General may —\n(a)refuse to issue a licence under this section;\n(b)vary or impose additional conditions; or\n(c)revoke any licence already issued.\n(3) Any person aggrieved by such a refusal, variation or revocation may appeal to the Minister whose decision shall be final.\n(4) No action or proceeding shall be maintainable in any court of law in respect of such a refusal, variation or revocation."
+   }
+  },
+  {
+   "id": "SG-H1594-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 LICENCES"
+   },
+   "heading": {
+    "en": "Validity of licences"
+   },
+   "text": {
+    "en": "7.—(1) Any licence issued under this Act shall be valid only for the period, place or purpose specified in the licence.\n(2) Every licence issued under this Act shall expire on 31 December of the year in which it is issued, unless the contrary is stated in the licence.\n(3) Licences issued under this Act shall not be transferable."
+   }
+  },
+  {
+   "id": "SG-H1594-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 LICENCES"
+   },
+   "heading": {
+    "en": "Partners"
+   },
+   "text": {
+    "en": "8.—(1) Two or more persons carrying on business in partnership shall not be required to obtain more than one licence under this Act in respect of that partnership.\n(2) In the case of a licence issued under this Act in respect of a partnership, the names of all the partners, and, from time to time, the names of new partners, shall be disclosed to and approved by the Director-General.\n(3) If the names under subsection (2) are approved by the Director‑General, they shall be entered in the licence.\n(4) A licence issued to 2 or more persons shall not expire upon the death or retirement from business of any one or more of the partners."
+   }
+  },
+  {
+   "id": "SG-H1594-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 4 OFFENCES"
+   },
+   "heading": {
+    "en": "Wilful damage to fishing implements"
+   },
+   "text": {
+    "en": "9. Any person who wilfully damages or destroys fishing stakes, nets, lures or fishing implements shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H1594-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 4 OFFENCES"
+   },
+   "heading": {
+    "en": "Prohibition on use of poisons or explosives"
+   },
+   "text": {
+    "en": "10.—(1) Any person who, except under the authority of a licence issued under this Act, uses any poisonous or explosive substance with intent to stupefy, poison or kill fish shall be guilty of an offence.\n(2) Any person who is found in possession of fish which have been captured with the aid of any poisonous or explosive substance and does not give a satisfactory account as to how he came to be in possession thereof shall be guilty of an offence.\n(3) When any poisonous or explosive substance by which fish can be stupefied, poisoned or killed is found in the possession or control of any person in the neighbourhood of any waters shortly after the use of such a substance in the waters, the person shall be presumed until the contrary is proved to have made use of the substance for those purposes.\n(4) Any person in a fishing boat who is found to be in possession or control of any poisonous or explosive substance without a licence shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H1594-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 4 OFFENCES"
+   },
+   "heading": {
+    "en": "Landing or selling fish illegally caught"
+   },
+   "text": {
+    "en": "11. Any person who lands or sells fish caught by methods prohibited, or within areas prohibited, by this Act shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H1594-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 4 OFFENCES"
+   },
+   "heading": {
+    "en": "Use of trawl-nets"
+   },
+   "text": {
+    "en": "12.—(1) No person shall use, operate or assist in the operation of a trawl-net in the territorial waters of Singapore.\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to imprisonment for a presumptive minimum term of not less than 3 months and not exceeding 3 years.\n[15/2019]\n(3) Where it is proved to the satisfaction of a court that any vessel, net, instrument or appliance has been —\n(a)used in the commission of an offence under subsection (1); and\n(b)seized by an authorised officer or police officer,\nthe court shall, on the written application of the Public Prosecutor, make an order for the forfeiture of the vessel, net, instrument or appliance, notwithstanding that no person may have been convicted of the offence."
+   }
+  },
+  {
+   "id": "SG-H1594-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 4 OFFENCES"
+   },
+   "heading": {
+    "en": "Penalties"
+   },
+   "text": {
+    "en": "13.—(1) Any person who commits an offence under this Act shall be liable, if no special penalty is provided, on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.\n(2) Any person who —\n(a)does or attempts to do or causes or permits to be done or abets an act contrary to, or fails to comply with, the provisions of this Act; or\n(b)is in breach of the restrictions or conditions subject to which any licence has been issued,\nshall be guilty of an offence and shall be liable on conviction, if no special penalty is provided, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.\n(3) Where an offence is continued after conviction, there shall be payable by the offender for every day during which the offence continues a fine not exceeding $50, and where the offence continues for a period exceeding 10 days after conviction the offender shall be liable to a term of imprisonment not exceeding 6 months."
+   }
+  },
+  {
+   "id": "SG-H1594-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 4 OFFENCES"
+   },
+   "heading": {
+    "en": "Forfeiture"
+   },
+   "text": {
+    "en": "14. Any vessel, vehicle, fishing stake, net, instrument or appliance used in the commission of any offence under this Act and any fish caught or found, or any processed fish found in contravention of the provisions of this Act may be forfeited to the Director‑General and, if so forfeited, shall be disposed of in such manner as the Director‑General may direct."
+   }
+  },
+  {
+   "id": "SG-H1594-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 4 OFFENCES"
+   },
+   "heading": {
+    "en": "Sale of fish pending result of prosecution"
+   },
+   "text": {
+    "en": "15.—(1) Any fish seized by an authorised officer or police officer in accordance with the provisions of this Act may be sold immediately.\n(2) The proceeds of sale under subsection (1) shall be held to abide the result of any prosecution or claim.\n(3) Where there is no prosecution or claim, the proceeds of sale shall be paid to the person from whom the fish was seized and if that person cannot be ascertained, the proceeds of sale shall be paid to the Agency.\n[11/2019]"
+   }
+  },
+  {
+   "id": "SG-H1594-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 4 OFFENCES"
+   },
+   "heading": {
+    "en": "Confiscation of vessel, etc."
+   },
+   "text": {
+    "en": "16.—(1) A Magistrate may order the confiscation of any vessel, vehicle, fishing stake, net, instrument or appliance used in the commission of any offence.\n(2) A Magistrate may order the removal and destruction of any offending fishing stakes or part thereof, and any costs incurred in effecting their removal and destruction shall be borne by the owner of the fishing stakes."
+   }
+  },
+  {
+   "id": "SG-H1594-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 OFFENCES"
+   },
+   "heading": {
+    "en": "Responsibility of partners"
+   },
+   "text": {
+    "en": "17. When a licence is granted to 2 or more persons carrying on business in partnership, each of them shall be liable for any act or omission of the other or others unless he proves to the satisfaction of the court that he had no knowledge of, or that he in no way directly or indirectly contributed to, the commission of the act or the making of the omission by the other or others."
+   }
+  },
+  {
+   "id": "SG-H1594-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 OFFENCES"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "18.—(1) The Director‑General may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $1,000.\n(2) The Minister may make rules to prescribe the offences which may be compounded.\n(3) On payment of such sum of money, no further proceedings are to be taken against that person in respect of the offence.\n[11/2019]\n(4) All composition sums collected under this section must be paid into the Consolidated Fund.\n[11/2019]"
+   }
+  },
+  {
+   "id": "SG-H1594-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 OFFENCES"
+   },
+   "heading": {
+    "en": "Offence committed by employee"
+   },
+   "text": {
+    "en": "19. Where an offence under this Act is committed by an employee, the employer, in the course of whose employment the employee was at the time of committing the offence, shall also be guilty of the offence unless the employer proves to the satisfaction of the court —\n(a)that he used diligence to secure compliance with this Act; and\n(b)that the offence was committed without his knowledge, consent or connivance."
+   }
+  },
+  {
+   "id": "SG-H1594-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 OFFENCES"
+   },
+   "heading": {
+    "en": "Offences committed by body corporate, etc."
+   },
+   "text": {
+    "en": "20. Where an offence under this Act has been committed by a body corporate, a partnership or an unincorporated association of persons, any person who, at the time of the commission of the offence, was a director, manager, partner, secretary or other similar officer thereof, or who was purporting to act in any such capacity, shall also be guilty of that offence and shall be liable to be proceeded against and punished accordingly unless he proves —\n(a)that the offence was committed without his knowledge, consent or connivance; and\n(b)that he had exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances."
+   }
+  },
+  {
+   "id": "SG-H1594-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 OFFENCES"
+   },
+   "heading": {
+    "en": "Jurisdiction of court"
+   },
+   "text": {
+    "en": "21. Notwithstanding any provision to the contrary in the Criminal Procedure Code 2010, a District Court and a Magistrate’s Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of any offence under this Act."
+   }
+  },
+  {
+   "id": "SG-H1594-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 OFFENCES"
+   },
+   "heading": {
+    "en": "Jurisdiction of court to try offences committed outside territorial waters"
+   },
+   "text": {
+    "en": "22. Notwithstanding the provisions of any written law to the contrary, any offence under this Act (other than subsidiary legislation made thereunder) committed outside the territorial waters of Singapore by —\n(a)citizens of Singapore;\n(b)persons ordinarily resident in Singapore; or\n(c)the crew or owners of fishing vessels registered in Singapore whether or not the crew or owners are citizens of Singapore or resident in Singapore,\nshall be triable in any court in Singapore as if the offence had been committed in Singapore."
+   }
+  },
+  {
+   "id": "SG-H1594-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Powers of officers"
+   },
+   "text": {
+    "en": "23.—(1) Any authorised officer or police officer may without warrant —\n(a)stop, search and detain any vessel or vehicle which he has reason to believe is being used for fishing or carrying fish or fishing materials contrary to the provisions of this Act and may seize that vessel or vehicle and any engine, fish, processed fish, fishing nets, instruments, fishing materials or other appliances found therein;\n(b)search and examine any fishing stakes, nets, instruments, fishing materials or other appliances used in catching fish and effect the removal and destruction of any unlicensed fishing stakes;\n(c)search, examine and investigate into the operation of any fish ponds;\n(d)arrest any person found committing or attempting to commit or abetting the commission of an offence under this Act; and\n(e)enter and search any place or premises in which he reasonably suspects that there is to be found any fish or fishing materials contrary to the provisions of this Act and may seize, remove or detain at the risk of the owner any engine, fish, processed fish, fishing nets, instruments, fishing materials or other appliances found in such place or premises.\n(2) For the purpose of exercising his power under this Act, any authorised officer or police officer may, with such assistance as he thinks necessary, break open any door, window, lock, fastener, compartment, box, container or other thing."
+   }
+  },
+  {
+   "id": "SG-H1594-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "24.—(1) Where for the purposes of this Act any document is to be served on any person, that document may be served —\n(a)by delivering a copy thereof personally to the person to be served;\n(b)if the document is to be served on the master of a vessel, by leaving it for him on board that vessel with the person who is or appears to be in command or charge of the vessel;\n(c)by fixing a copy of the document to any conspicuous part of his house or his business premises; or\n(d)by registered letter to his last place of residence.\n(2) A document which is to be served on the master of a fishing vessel licensed under the provisions of the rules made under this Act may —\n(a)if the master cannot be found, be served on the managing owner of the vessel;\n(b)if there is no managing owner, be served on some agent of the owner residing in Singapore; or\n(c)where no such agent is known, be served by affixing a copy thereof to the mast of the vessel."
+   }
+  },
+  {
+   "id": "SG-H1594-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "25.—(1) The Director‑General may, with the approval of the Minister, exempt from the provisions of this Act, either absolutely or conditionally —\n(a)any person attached to a scientific institution who fishes only for the purposes of scientific research; or\n(b)any person who fishes for personal consumption.\n(2) The Director‑General may, with the approval of the Minister, exempt any person from payment of or reduce the fees for any licence issued or for any service performed under this Act."
+   }
+  },
+  {
+   "id": "SG-H1594-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Fees, etc., payable to Agency"
+   },
+   "text": {
+    "en": "26. All fees, charges and moneys collected under this Act or any rules made thereunder (except composition sums) must be paid to the Agency.\n[11/2019]"
+   }
+  },
+  {
+   "id": "SG-H1594-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Rules"
+   },
+   "text": {
+    "en": "27.—(1) The Minister may make rules for the purpose of carrying out the provisions of this Act.\n(2) Without prejudice to the generality of subsection (1), rules may be made —\n(a)to regulate or prohibit the erection, maintenance, working, repair or lighting of fishing stakes in maritime and estuarine waters;\n(b)to regulate or prohibit any method of fishing or the use of any fish traps or fishing nets;\n(c)to provide for the licensing, control, supervision and protection of any fishery and of the cultivation of fish or any particular species of fish;\n(d)to set out requirements and procedures for document control and recording by any fishery or persons involved in the cultivation of fish so as to monitor the supply of fish in Singapore for human consumption, including —\n(i)the information that must be collected about the fish or a particular species of fish;\n(ii)the periods for which the information must be kept; and\n(iii)how, when and to whom that information must be reported;\n(e)to prescribe the species or the minimum weights and sizes of fish which may be cultured, captured or taken for the purposes of sale, processing, consumption, consignment, rearing or sport;\n(f)to prescribe the mesh size and sizes of nets which may be used for the capture of any particular species of fish or for any method of fishing;\n(g)to prescribe and control the types, dimensions and specifications of vessels which may be used for the capture of any particular species of fish or for any method of fishing;\n(h)to prescribe the areas and the periods of time in the year within which any particular species or size of fish may be killed or captured or any particular method of fishing is prohibited or restricted;\n(i)to prohibit, except in accordance with the terms and conditions of a licence, the killing or capture of fish or any particular species or size of fish in any specified area;\n(j)to require the supply by any person concerned in the capture of fish or by any fish culturist or fish dealer of such information as may be necessary to determine the measures to be taken to improve the fishing industry and trade or for the compilation of fishery statistics;\n(k)to prescribe areas where fish may be landed;\n(l)to regulate and control the landing, collection, transportation, marketing and distribution of fish and to appoint any person, organisation or board as may be necessary to effect such regulation and control;\n(m)to prescribe and control areas which may be used as fishing ports or harbours or areas where fishing vessels may be allowed to moor;\n(n)to prescribe and control the route or routes to be used by fishing vessels within territorial waters;\n(o)to regulate and control by licensing the use of ponds, pools, lakes, swamps, foreshores and any inland waters for the cultivation of fish;\n(p)to regulate or prohibit any method of cultivation of fish;\n(q)to regulate and control the sale or exhibition of fish or any competition held in respect of fish, including the licensing of premises for such purposes;\n(r)to register fishermen, fish culturists, fish dealers or any person connected with fishing or the fishing industry;\n(s)to license fishing vessels, fishing stakes, fishing nets, gear and equipment, and the like;\n(t)to regulate or prohibit the import, export or transhipment of any species of fish if the Minister is of the opinion that such species of fish may pose a threat to the ecological balance or integrity of fisheries, or to public safety;\n(u)to regulate or prohibit the construction of any bunds, slides, dams or other barriers or obstruction in inland and estuarine waters;\n(v)to regulate or prohibit the deposit or discharge of any solid, liquid or gaseous substances whether beneficial or detrimental to fish;\n(w)to control the arrival and departure of fishing vessels including the issue of port clearances;\n(x)to inspect and survey fishing vessels with regard to seaworthiness and fitness for any particular method of fishing prior to licensing and to impose such conditions as may be necessary;\n(y)to prescribe and regulate lifesaving appliances to be carried by fishing vessels including lifebuoys, lifejackets, firefighting equipment, light, sound and visual signals, medicines, and the like;\n(z)to prescribe and regulate the minimum and maximum number and grade of persons to be carried on board any fishing vessel;\n(za)to prescribe the standards by which certificates of competency, including masters’ certificates, mates’ certificates, helmsmen’s certificates, engine-drivers’ certificates and other grades of certificates, may be awarded to persons who reach these standards or pass the required examinations;\n(zb)to prescribe fees for any licence to be issued or for any other service performed under this Act;\n(zc)to prescribe the forms for any licence, registration or certificate or authorise the Director‑General to prescribe such forms as he may think fit;\n(zd)to regulate the conditions of employment of fishermen on board fishing vessels, the discharge or repatriation of fishermen, apprenticeship, training, discipline and conduct on board ship, and the like; and\n(ze)to provide for the conduct of inquiries and investigations into casualties or accidents of fishing vessels including casualties or accidents due to incompetence, negligence, or insubordination and to regulate the liability of fishing boat owners in respect of such casualties or accidents including the loss of life or goods or injury or damage to life or goods.\n[11/2019]"
+   }
+  }
+ ]
+}

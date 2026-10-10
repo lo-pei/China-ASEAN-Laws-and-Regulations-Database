@@ -1,0 +1,64 @@
+{
+ "id": "PH-H558",
+ "title": {
+  "zh": null,
+  "en": "An Act to Raise Revenue By Raising From Two to Five Pesos the Charge for the Certificate of Transfer of Large Cattle, By Amending Further Section Five Hundred Twenty-Eight of the Revised Administrative Code",
+  "orig": "An Act to Raise Revenue By Raising From Two to Five Pesos the Charge for the Certificate of Transfer of Large Cattle, By Amending Further Section Five Hundred Twenty-Eight of the Revised Administrative Code"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p07",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1950-08-31",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 568",
+ "officialCode": null,
+ "topics": [
+  "administrative"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1078,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1950/ra_568_1950.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1950/ra_568_1950.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H558-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section five hundred twenty-eight of the Revised Administrative Code, as amended by Republic Act Numbered Two hundred thirty-one, is further amended to read as follows:\n\"Section 528. Charge for certificate of transfer-Disposal of the proceeds. - Each certificate of transfer shall bear printed on its face a form of stamp of the value of five pesos, which shall be duly cancelled with the seal of the city, municipality or municipal district concerned. The certificate required by this section shall be paid for by the buyer, and the money received therefor shall, in cities and organized municipalities, be paid into the city or municipal treasury, and in the case of municipal districts, into the provincial treasury for the benefit of the municipal district concerned.\""
+   }
+  },
+  {
+   "id": "PH-H558-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval but unless otherwise expressly extended by Congress, the increased charge provided for in this Act shall continue in force and effect only until December 31, 1952, after which Period the actual rates of charge shall again be in force.\nApproved, August 31, 1950."
+   }
+  }
+ ]
+}

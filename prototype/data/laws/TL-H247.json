@@ -1,0 +1,1466 @@
+{
+ "id": "TL-H247",
+ "title": {
+  "zh": "市政财政法",
+  "en": null,
+  "orig": "Lei das Finanças Municipais"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p04",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2023-05-31",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 16/2023",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 89,
+ "chars": 65545,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2023/serie_1/SERIE I N. 20 NORMAL.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 89 条；逐字取自官方公报 PDF（public/docs/2023/serie_1/SERIE I N. 20 NORMAL.pdf）第 1003–1021 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H247-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I OBJETO"
+   },
+   "heading": {
+    "pt": "Objeto"
+   },
+   "text": {
+    "pt": "A presente lei estabelece o regime de enquadramento orçamental e financeiro dos municípios."
+   }
+  },
+  {
+   "id": "TL-H247-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II AUTONOMIA FINANCEIRA"
+   },
+   "heading": {
+    "pt": "Âmbito"
+   },
+   "text": {
+    "pt": "1.  Os municípios têm finanças próprias, cuja gestão compete aos respetivos órgãos.\n2.   A tutela sobre a gestão financeira dos municípios só pode ser exercida segundo as formas e nos casos previstos na lei, salvaguardando sempre a democraticidade e a autonomia do poder local.\n3.   O regime financeiro dos municípios corresponde, designadamente, aos seguintes poderes dos seus órgãos representativos:\na) Elaborar, aprovar, alterar e executar planos e orçamentos;\nb) Elaborar e aprovar relatórios de atividades e de contas;\nc) Dispor de receitas próprias, incluindo o lançamento, liquidação, cobrança e gestão das mesmas, assim como das demais receitas legalmente destinadas aos municípios;\nd) Executar as despesas orçamentadas e autorizadas nos termos da lei;\ne) Recorrer ao crédito a conceder pelo Estado, nos termos do presente diploma.\n4.   São nulas as deliberações ou decisões dos órgãos representativos dos municípios que criem impostos e também aquelas que criem ou lancem taxas não previstas por ato legislativo prévio.\n5.  Os titulares dos órgãos representativos dos municípios que cobrem receitas nos casos previstos no número anterior são solidária e financeiramente responsáveis perante os contribuintes, salvo se houverem votado contra a deliberação e o registarem em ata."
+   }
+  },
+  {
+   "id": "TL-H247-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Princípios fundamentais"
+   },
+   "text": {
+    "pt": "Os orçamentos municipais respeitam os princípios da anualidade, unidade e universalidade, não compensação, não consignação, especificação, equilíbrio, equidade intergeracional, transparência, publicidade, economia, eficiência e eficácia, responsabilidade e orçamentação por programas."
+   }
+  },
+  {
+   "id": "TL-H247-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Anualidade"
+   },
+   "text": {
+    "pt": "1.   O orçamento municipal é anual.\n2.   O ano orçamental corresponde ao ano civil.\n3.    A elaboração do orçamento municipal é limitada pelo quadro plurianual de programação orçamental, tendo em conta:\na) As dotações necessárias para a realização das despesas obrigatórias, previstas no presente diploma;\nb) As grandes opções do plano de desenvolvimento municipal e a programação financeira plurianual do Estado, estabelecida na Lei das Grandes Opções do Plano.\n4. Os orçamentos municipais integram os programas, os subprogramas, as atividades e os projetos que impliquem encargos plurianuais, os quais evidenciam a despesa total prevista para cada ano e, com caráter indicativo, para pelo menos os dois anos seguintes.\n5.  O princípio da anualidade não impede a Assembleia Municipal de autorizar a existência de um período complementar de execução orçamental, nos termos estabelecidos na presente lei."
+   }
+  },
+  {
+   "id": "TL-H247-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Unidade e universalidade"
+   },
+   "text": {
+    "pt": "1.  O orçamento municipal é unitário e compreende todas as receitas e todas as despesas dos serviços integrados na administração municipal.\n2.   Os municípios não podem cobrar receita ou executar despesa que não esteja prevista ou inscrita no orçamento municipal.\n3.   O orçamento municipal deve apresentar o total das responsabilidades financeiras resultantes dos compromissos plurianuais cuja natureza impeça a contabilização direta do respetivo montante total no ano em que os compromissos são assumidos ou os bens em causa postos à disposição do município."
+   }
+  },
+  {
+   "id": "TL-H247-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Não compensação"
+   },
+   "text": {
+    "pt": "Todas as receitas e despesas são previstas pela importância integral, sem dedução ou compensação alguma."
+   }
+  },
+  {
+   "id": "TL-H247-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Não consignação"
+   },
+   "text": {
+    "pt": "1.  Não pode afetar-se o produto de quaisquer receitas à cobertura de determinadas despesas.\n2.   Excetuam-se do disposto no número anterior:\na) As receitas que correspondam a transferências provenientes de organizações internacionais, ao abrigo de programas de cooperação, ou de outros organismos públicos que se destinem a financiar, total ou parcialmente, determinadas despesas;\nb) As receitas que correspondam a subsídios, donativos ou legados de particulares que por vontade destes devam ser afetos à cobertura de determinadas despesas;\nc) As receitas que sejam, por razão especial, afetadas a determinadas despesas por expressa estatuição legal ou contratual;\nd) As receitas destinadas aos sucos que, com o acordo dos respetivos conselhos de suco, lhes sejam confiadas para o exercício de funções municipais ou para a realização de projetos de interesse municipal.\n3.  As normas que, nos termos do disposto na alínea c) do número anterior, consignem receitas a determinadas despesas têm caráter excecional e temporário."
+   }
+  },
+  {
+   "id": "TL-H247-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Especificação"
+   },
+   "text": {
+    "pt": "1.  O orçamento municipal especifica suficientemente as receitas nele previstas a as despesas nele inscritas.\n2.   As receitas previstas são suficientemente especificadas de acordo com uma classificação económica.\n3.  As despesas são especificadas de acordo com uma classificação orgânica, económica e funcional.\n4.  As despesas são ainda estruturadas por programas orçamentais.\n5.    No orçamento municipal é inscrita uma dotação provisional, denominada reserva de contingência, destinada a satisfazer despesas urgentes e imprevistas, de montante não inferior a 2 % e não superior a 5 % do total da despesa.\n6.  São nulos os créditos orçamentais que possibilitem a existência de dotações para utilização confidencial ou para fundos secretos.\n7.   A estrutura da classificação económica das receitas e das classificações económica e funcional das despesas é aprovada por decreto-lei."
+   }
+  },
+  {
+   "id": "TL-H247-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Equilíbrio"
+   },
+   "text": {
+    "pt": "1.   O orçamento municipal prevê as receitas necessárias para cobrir todas as despesas.\n2.    As despesas correntes não podem ser superiores às receitas correntes."
+   }
+  },
+  {
+   "id": "TL-H247-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Equidade intergeracional"
+   },
+   "text": {
+    "pt": "O orçamento municipal subordina-se ao princípio da justa repartição de benefícios e encargos entre gerações e implica a apreciação nesse plano da incidência orçamental:\na)   Dos objetivos, medidas e ações previstas pelo plano de desenvolvimento municipal e pelo plano anual de atividades;\nb) Do investimento em infraestruturas, financiado pelo município;\nc)  Do investimento na capacitação humana, financiado pelo município;\nd)   Dos encargos com os passivos financeiros do município;\ne)  Das necessidades de financiamento das associações de municípios;\nf)   Dos encargos vencidos e não liquidados a fornecedores."
+   }
+  },
+  {
+   "id": "TL-H247-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Transparência"
+   },
+   "text": {
+    "pt": "1.   O Estado e os municípios estão subordinados ao dever de informação mútua, para garantia da estabilidade orçamental e da solidariedade recíproca, designadamente através do órgão previsto no artigo 32.º da presente lei.\n2.   As associações de municípios estão sujeitas ao princípio enunciado pelo número anterior."
+   }
+  },
+  {
+   "id": "TL-H247-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Publicidade"
+   },
+   "text": {
+    "pt": "1.   São obrigatoriamente publicitados nos quadros de aviso dos municípios, no portal da internet de âmbito nacional dedicado à atividade municipal, e caso exista, no portal da internet próprio de cada município, os seguintes instrumentos de gestão, incluindo as suas respetivas alterações e atualizações:\na) O plano de desenvolvimento municipal;\nb) O plano anual de atividades municipal;\nc) O orçamento municipal;\nd) Os relatórios de execução orçamental;\ne) Os relatórios periódicos de atividades e de desempenho dos programas orçamentais; f) O relatório anual de atividades;\ng) A conta geral do município.\n2.  Os órgãos representativos dos municípios prestam aos cidadãos, de forma acessível e rigorosa, informação sobre a sua situação financeira.\n3.   As associações de municípios estão sujeitas às previsões constantes dos números anteriores."
+   }
+  },
+  {
+   "id": "TL-H247-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Economia, eficiência e eficácia"
+   },
+   "text": {
+    "pt": "A assunção de compromissos e a realização de despesa pelos municípios está sujeita aos princípios da economia, eficiência e eficácia, que consistem na utilização do mínimo de recursos para assegurar serviços públicos de qualidade, alcançar os melhores resultados com a menor despesa, e na utilização dos recursos mais adequados para atingir o objetivo definido."
+   }
+  },
+  {
+   "id": "TL-H247-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Responsabilidade"
+   },
+   "text": {
+    "pt": "1.  Os municípios são responsáveis pelo cumprimento dos compromissos por si assumidos.\n2.   Os titulares dos órgãos municipais e dos cargos de direção e chefia municipal são responsáveis pelas operações de execução orçamental por si autorizadas e ou por si executadas, nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H247-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Orçamentação por programas"
+   },
+   "text": {
+    "pt": "O orçamento municipal estrutura-se por programas, nos termos estabelecidos pela presente lei.\nSecção II\nProcesso orçamental"
+   }
+  },
+  {
+   "id": "TL-H247-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Plano de desenvolvimento municipal"
+   },
+   "text": {
+    "pt": "1.  O plano de desenvolvimento municipal é o instrumento de planeamento estratégico para um período de execução de cinco anos que define os objetivos de desenvolvimento económico e social a atingir no território do município no respetivo período e identifica as principais ações e medidas a realizar pelo município para a concretização dos referidos objetivos, acautelando a proteção e a valorização dos recursos naturais e ambientais do território municipal e os interesses culturais locais.\n2.   O plano de desenvolvimento municipal deve compatibilizarse com os orientações e metas estratégicas estabelecidas no Plano Estratégico de Desenvolvimento Nacional.\n3.   O plano de desenvolvimento municipal especifica as ações e medidas a realizar em cada posto administrativo.\n4.   O Presidente do Município apresenta a proposta de plano de desenvolvimento municipal à aprovação da Assembleia Municipal, no prazo de 30 dias após a sua instalação."
+   }
+  },
+  {
+   "id": "TL-H247-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Quadro plurianual de programação orçamental"
+   },
+   "text": {
+    "pt": "1.   O quadro plurianual de programação orçamental estabelece os limites da despesa global do município e de cada programa orçamental para o ano orçamental seguinte e para os quatro anos subsequentes, em consonância com os objetivos estabelecidos no plano de desenvolvimento municipal.\n2.   O quadro plurianual de programação orçamental estabelece ainda as projeções da receita para o ano orçamental seguinte e para os quatro anos subsequentes.\n3.   O limite da despesa global para o ano orçamental seguinte é vinculativo e os restantes limites e projeções são indicativos.\n4.   O Presidente do Município apresenta à Assembleia Municipal a proposta do quadro plurianual de programação orçamental no mesmo prazo da apresentação da proposta do plano de desenvolvimento municipal e são ambos debatidos em simultâneo."
+   }
+  },
+  {
+   "id": "TL-H247-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Plano anual de atividades municipal"
+   },
+   "text": {
+    "pt": "1.  O processo orçamental inicia-se com a apresentação do plano anual de atividades municipal, elaborado e apresentado pelo Presidente do Município à Assembleia Municipal até 15 de setembro do ano que antecede.\n2.   O plano anual de atividades municipal especifica as medidas políticas, administrativas e orçamentais destinadas a executar o plano de desenvolvimento municipal em cada ano, estrutura-se por programas, subprogramas e atividades, definindo para estes:\na) Indicadores de desempenho;\nb) Encargos financeiros previstos para o respetivo ano;\nc) Rúbricas orçamentais por onde devem ser pagos os correspondentes encargos, com indicação expressa da parte assegurada e inscrita no orçamento e, se for caso disso, das fontes de financiamento previstas e ainda não garantidas;\nd) Datas previstas para o início e conclusão das atividades.\n3.   O plano anual de atividades municipal identifica os projetos de capital a executar e apresenta para cada um, o disposto nas alíneas a) a d) do número anterior, a despesa total prevista com os mesmos, e no caso de projetos com incidência plurianual, a especificação da despesa prevista para cada ano.\n4.   O plano anual de atividades municipal inclui um projeto de atualização do quadro plurianual de programação orçamental para o período remanescente de execução do plano de desenvolvimento municipal.\n5.   A  Assembleia Municipal discute e vota o plano anual de atividades municipal no prazo máximo de 20 dias, contados da data da sua apresentação pelo Presidente do Município."
+   }
+  },
+  {
+   "id": "TL-H247-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Apresentação da proposta de orçamento municipal"
+   },
+   "text": {
+    "pt": "1.  O Presidente do Município apresenta à Assembleia Municipal, até 15 de novembro de cada ano, a proposta de orçamento municipal para o ano financeiro seguinte.\n2.  O prazo referido no número anterior não se aplica nos casos em que:\na) Os órgãos representativos do município se encontrem dissolvidos;\nb) A instalação dos órgãos representativos do município ocorra no quarto trimestre do ano.\n3.  Nos casos previstos no número anterior, a proposta de orçamento municipal para o ano seguinte é apresentada à Assembleia Municipal, pelo Presidente do Município, no prazo de 45 dias contados da data da respetiva instalação."
+   }
+  },
+  {
+   "id": "TL-H247-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Apresentação de parecer sobre a proposta de orçamento municipal"
+   },
+   "text": {
+    "pt": "Caso exista parecer sobre a proposta de orçamento municipal emitido pelo membro do Governo responsável pela área das finanças públicas, é o mesmo apresentado conjuntamente com a proposta de orçamento municipal, nos termos dos n.ºs 3 e 4 do artigo 24.º e da alínea d) do n.º 6 do artigo 88.º da Lei n.º 23/ 2021, de 11 de novembro, Lei do Poder Local e da Descentralização Administrativa."
+   }
+  },
+  {
+   "id": "TL-H247-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Discussão e votação"
+   },
+   "text": {
+    "pt": "1.  A proposta de orçamento municipal é discutida e votada nos termos previstos na Lei do Poder Local e da Descentralização Administrativa e no regimento da Assembleia Municipal.\n2.   A votação da proposta de orçamento municipal realiza-se no prazo máximo de 30 dias após a sua apresentação à Assembleia Municipal.\n3.   A proposta de orçamento municipal é obrigatoriamente discutida e votada em plenário, de acordo com a tramitação definida pelo regimento da Assembleia Municipal.\n4.    A assembleia municipal promove as audições que considere relevantes para a apreciação e votação da proposta de orçamento municipal, sendo obrigatória a audição do Conselho Consultivo Municipal.\n5.  A Assembleia Municipal não pode aprovar alterações à proposta de orçamento municipal, salvo se as mesmas houverem sido apresentadas pelo Presidente do Município durante o prazo previsto no n.º 2.\n6.  O Plenário da Assembleia Municipal pode aprovar a prorrogação do prazo previsto no n.º 2, por período não superior a cinco dias, verificando-se a apresentação de quaisquer propostas de alteração à proposta inicial de orçamento municipal.\n7.   As propostas de alteração ao orçamento municipal podem ser aprovadas como recomendações ao Presidente do Município."
+   }
+  },
+  {
+   "id": "TL-H247-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Publicação do orçamento municipal"
+   },
+   "text": {
+    "pt": "1.  O Presidente do Município assegura a publicitação da versão integral do orçamento municipal, até ao quinto dia posterior ao da respetiva aprovação final pela Assembleia Municipal:\na) No quadro de aviso da sede do município;\nb) No quadro de aviso dos postos administrativos do município;\nc) No portal da internet dedicado à atividade dos municípios;\nd) No Jornal da República.\n2.  No prazo previsto no número anterior, o Presidente do Município remete ao membro do Governo responsável pela área das finanças públicas a versão final do orçamento municipal e certidão da ata que documente a sessão da Assembleia Municipal em que o mesmo tenha sido aprovado."
+   }
+  },
+  {
+   "id": "TL-H247-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Vigência do orçamento municipal"
+   },
+   "text": {
+    "pt": "1.   O orçamento municipal, depois de publicitado conforme o disposto no n.º 1 do artigo anterior, vigora entre 1 de janeiro e 31 de dezembro de cada ano.\n2.   O período de vigência do orçamento municipal é prorrogado quando se verifique:\na) A rejeição da proposta de orçamento municipal;\nb) A instalação dos órgãos representativos dos municípios no quarto trimestre do ano;\nc) A dissolução dos órgãos municipais;\nd) A não votação da proposta de orçamento municipal por parte da Assembleia Municipal.\n3.   Durante o período transitório em que se mantiver a prorrogação da vigência do orçamento municipal respeitante ao ano anterior, a execução do orçamento das despesas obedece ao princípio da utilização por duodécimos das verbas fixadas nas tabelas orçamentais que as especificam, de acordo com a classificação orgânica.\n4.    As operações de receita e de despesa executadas ao abrigo do regime transitório são imputadas às contas respeitantes ao novo ano financeiro, iniciado em 1 de janeiro.\nSecção III\nConteúdo e estrutura"
+   }
+  },
+  {
+   "id": "TL-H247-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Conteúdo formal e estrutura"
+   },
+   "text": {
+    "pt": "1.   O orçamento municipal apresenta a previsão anual das receitas e das despesas e define o limite máximo das despesas a serem realizadas pelo município durante o ano orçamental, bem como as projeções de receitas e despesas para os dois anos subsequentes.\n2.  A orçamentação das receitas do orçamento municipal é realizada até ao segundo grau da classificação económica.\n3.   A orçamentação das despesas é realizada até ao primeiro grau da classificação orgânica e da estrutura por programas e ao segundo grau das classificações económica e funcional.\n4.   O orçamento municipal é composto pelo articulado e pelas tabelas orçamentais.\n5.   O articulado do orçamento municipal contém, designadamente:\na) A aprovação das tabelas orçamentais;\nb) A autorização para a cobrança de taxas e contribuições pelo município;\nc) A aprovação do montante máximo que o município pode contrair através de empréstimo, bem como as condições gerais a que se devem subordinar as respetivas operações;\nd) A aprovação das transferências para os sucos.\n6.   O orçamento municipal contém as seguintes tabelas:\na) Tabela I – Receita e despesa global do município;\nb) Tabela II – Receita por classificação económica;\nc) Tabela III – Despesa por classificação económica;\nd) Tabela IV – Despesa por classificação orgânica e estruturada por programas;\ne) Tabela V – Despesa por classificação funcional; f) Tabela VI - Repartição dos programas e medidas pelos postos administrativos;\ng) Tabela VII - Transferências para os sucos.\n7.   Com a proposta de orçamento municipal, o Presidente do Município apresenta à Assembleia Municipal um relatório contendo a apresentação e a justificação da política orçamental proposta, incluindo uma análise aos seguintes domínios:\na) Descrição sumária do orçamento da receita;\nb) Descrição sumária do orçamento da despesa;\nc) Identificação do valor da dívida, encargos com o respetivo serviço e situação do município em matéria de cumprimento dos limites de endividamento municipal;\nd) Descrição da situação patrimonial do município;\ne) Descrição da política de recursos humanos, com indicação de eventuais alterações ao quadro de pessoal e recrutamento de recursos humanos; f) Descrição sumária das opções relativas à execução do plano de desenvolvimento municipal e respetiva articulação com as opções da proposta de orçamento municipal;\ng) Descrição da estratégia de colaboração com os sucos;\nh) Descrição da estratégia de colaboração com organizações não governamentais.\n8.   Com a proposta de orçamento municipal, o Presidente do Município apresenta igualmente à Assembleia Municipal os desenvolvimentos orçamentais do orçamento municipal, os quais apresentam as receitas e despesas especificadas até aos níveis máximos de desagregação, de acordo com a estrutura por programas e as classificações orgânica e económica."
+   }
+  },
+  {
+   "id": "TL-H247-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Harmonização com os planos"
+   },
+   "text": {
+    "pt": "O orçamento municipal é desenvolvido de harmonia com o plano de desenvolvimento municipal e plano anual de atividades municipal."
+   }
+  },
+  {
+   "id": "TL-H247-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Despesas obrigatórias"
+   },
+   "text": {
+    "pt": "No orçamento municipal são obrigatoriamente inscritas:\na)   As dotações necessárias ao cumprimento das obrigações decorrentes de lei ou contrato;\nb) As dotações destinadas ao pagamento de encargos resultantes de sentenças judiciais;\nc)   Outras dotações determinadas por lei."
+   }
+  },
+  {
+   "id": "TL-H247-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Previsão anual da receita de indemnizações, locações, heranças, legados e doações"
+   },
+   "text": {
+    "pt": "A quantificação da previsão das receitas municipais a inscrever no orçamento municipal com origem em futuros recebimentos de indemnizações civis, heranças, legados, doações e rendimentos da locação de bens móveis e imóveis é determinada com base no valor total anual efetivamente recebido pelo município por conta de cada uma dessas fontes de receita no exercício orçamental anterior, podendo a previsão para cada fonte de receita ser majorada até 25% do valor anual recebido."
+   }
+  },
+  {
+   "id": "TL-H247-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Programas"
+   },
+   "text": {
+    "pt": "1.  Um programa orçamental corresponde à definição de objetivos gerais e ao correspondente agrupamento das despesas que concorrem, de forma articulada e complementar, para a concretização de um ou vários resultados gerais, relativos a uma ou mais políticas públicas, fazendo necessariamente parte integrante de um conjunto de indicadores de desempenho.\n2.  Cada programa orçamental divide-se em um ou mais subprogramas, que são objetivos específicos com vista à produção de resultados a atingir, desagregando-se os subprogramas por atividades, e projetos, que são um conjunto de ações que concorrem para a produção de resultados.\n3.   Os objetivos e resultados dos programas estão vinculados aos definidos no plano de desenvolvimento municipal, os subprogramas estão vinculados aos respetivos programas, e as atividades e projetos estão vinculadas aos respetivos subprogramas.\n4.   As atividades e projetos estão vinculadas ao respetivo subprograma, correspondem a unidades básicas de realização dos subprogramas, e detalham os processos, tarefas ou atos materiais a serem executados para a produção dos resultados definidos.\n5. Cada programa, subprograma, atividade e projeto é acompanhado por indicadores de avaliação do desempenho, que medem diretamente o desempenho dos processos, tarefas ou ações principais, e permitem avaliar a economia, eficiência e eficácia da sua realização.\n6.  Os programas orçamentais com financiamento específico da Administração Central ou dos parceiros para o desenvolvimento devem identificar os programas locais ou comunitários que lhes estão associados.\n7.  As regras sobre a definição concreta e estruturação dos programas orçamentais são aprovadas por decreto-lei.\nSecção IV\nAlterações orçamentais"
+   }
+  },
+  {
+   "id": "TL-H247-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Alterações ao orçamento municipal"
+   },
+   "text": {
+    "pt": "1.  O Presidente do Município pode apresentar à Assembleia Municipal propostas de alteração do orçamento municipal em vigor, quando as circunstâncias o justifiquem.\n2. Constitui alteração orçamental qualquer alteração ao articulado ou aos valores expressos nas tabelas das receitas e despesas do orçamento municipal\n3.  A estrutura e o conteúdo das propostas de alteração orçamental seguem a estrutura e o conteúdo do orçamento municipal, com as necessárias adaptações.\n4.   Aplica-se à proposta de alteração do orçamento municipal o disposto sobre a discussão e votação do orçamento municipal, com as devidas adaptações"
+   }
+  },
+  {
+   "id": "TL-H247-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO MUNICIPAL Secção I Princípios orçamentais"
+   },
+   "heading": {
+    "pt": "Proposta de aumento da despesa"
+   },
+   "text": {
+    "pt": "A proposta de alteração orçamental que determinar o aumento de despesas para o ano financeiro em curso deve prever uma dotação orçamental suficiente para cobrir as respetivas despesas e indicar qual a proporção de financiamento dessa dotação, a partir de:\na)   Receitas a transferir pela Administração Central ao abrigo do Fundo de Descentralização Administrativa;\nb)  Receitas provenientes de empréstimos concedidos pelo Estado;\nc)   Aplicação de excedente de saldo de gerência de exercício orçamental anterior."
+   }
+  },
+  {
+   "id": "TL-H247-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV RELAÇÕES ENTRE AS FINANÇAS LOCAIS E AS FINANÇAS NACIONAIS"
+   },
+   "heading": {
+    "pt": "Coordenação das finanças locais com as finanças nacionais"
+   },
+   "text": {
+    "pt": "1.    A coordenação das finanças dos municípios com as finanças do Estado tem especialmente em conta o desenvolvimento equilibrado de todo o país.\n2.   Os municípios têm o direito de ser auscultados, através da sua associação representativa nacional:\na) Antes da preparação do Orçamento Geral do Estado, designadamente quanto à participação dos mesmos nos recursos públicos;\nb) Sobre a proposta de lei de Orçamento Geral do Estado apresentada pelo Governo ao Parlamento Nacional e suas propostas de alteração."
+   }
+  },
+  {
+   "id": "TL-H247-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV RELAÇÕES ENTRE AS FINANÇAS LOCAIS E AS FINANÇAS NACIONAIS"
+   },
+   "heading": {
+    "pt": "Conselho de Coordenação Financeira"
+   },
+   "text": {
+    "pt": "1.  O Conselho de Coordenação Financeira é um órgão de coordenação, com a missão de assegurar uma coordenação institucional mais eficiente e eficaz entre o Poder Central e o Poder Local, em matéria de relação entre finanças locais e finanças nacionais, assim como a troca mútua de informação.\n2.   O Conselho de Coordenação Financeira é composto pelo:\na) Primeiro-Ministro, que preside ao órgão;\nb) Membro do Governo responsável pela área das finanças públicas;\nc) Membro do Governo responsável pelo Poder Local e Descentralização Administrativa.\nd) Presidente de cada um dos Municípios.\n3.  Compete ao Conselho de Coordenação Financeira partilhar informação entre os seus membros, nomeadamente sobre as seguintes matérias:\na) Projeções e evolução dos principais agregados macro económicos com influência no desempenho orçamental e financeiro do Estado e dos Municípios;\nb) Desempenho do Fundo Petrolífero de Timor-Leste;\nc) Desempenho do Fundo Mineiro;\nd) Evolução da programação orçamental e financeira do Estado, estabelecida nas Grandes Opções do Plano do Estado;\ne) Evolução da programação financeira plurianual dos Municípios; f) Proposta de lei das Grandes Opções do Plano;\ng) Proposta de lei de Orçamento Geral do Estado;\nh) Política orçamental do Governo, e em especial quanto às medidas com impacto na receita fiscal; (i) Evolução da execução orçamental do Estado e dos Municípios; j) Conta Geral do Estado e contas anuais dos Municípios.\n4.  O Conselho de Coordenação Financeira reúne ordinariamente duas vezes por ano, até 15 de março e até 15 de setembro, antes da apresentação da proposta de lei das Grandes Opções do Plano e da proposta de lei do Orçamento Geral do Estado, e extraordinariamente, por iniciativa do seu presidente ou de um terço dos seus membros.\n5.  Em razão da matéria, podem participar nas reuniões do Conselho de Coordenação Financeira, sem direito de voto, outros membros do Governo, responsáveis de entidades públicas e outros dirigentes da administração pública e técnicos das respetivas áreas de especialidade.\n6.  O apoio técnico e administrativo ao funcionamento do Conselho de Coordenação Financeira é assegurado pelo ministério com atribuições em matéria de Poder Local e Descentralização Administrativa."
+   }
+  },
+  {
+   "id": "TL-H247-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV RELAÇÕES ENTRE AS FINANÇAS LOCAIS E AS FINANÇAS NACIONAIS"
+   },
+   "heading": {
+    "pt": "Participação dos municípios nos recursos públicos"
+   },
+   "text": {
+    "pt": "1.    A participação de cada município nos recursos públicos é determinada nos termos e de acordo com os critérios previstos na presente lei.\n2.   Os critérios mencionados no número anterior devem visar:\na) Adequar os recursos de cada nível de administração às respetivas atribuições e competências;\nb) Promover a correção das desigualdades entre os municípios, designadamente de diferentes capacidades na arrecadação da receita ou de diferentes necessidades de despesa."
+   }
+  },
+  {
+   "id": "TL-H247-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV RELAÇÕES ENTRE AS FINANÇAS LOCAIS E AS FINANÇAS NACIONAIS"
+   },
+   "heading": {
+    "pt": "Cooperação técnica e financeira"
+   },
+   "text": {
+    "pt": "1.   O Governo pode aprovar programas de cooperação técnica e financeira com os municípios para a prossecução de políticas e programas de desenvolvimento e coesão territorial, de incentivo ao associativismo autárquico e de atuação de caráter supramunicipal, bem como para a implementação de políticas globais ou setoriais no domínio da inovação ou que impliquem a reforma estrutural de setores económicos ou sociais.\n2.   Sem prejuízo do disposto no número anterior, o Governo toma ainda as providências orçamentais necessárias à concessão de auxílios financeiros aos municípios que se encontrem nas seguintes situações:\na) Calamidade pública;\nb) Municípios negativamente afetados por investimento da responsabilidade da Administração Central;\nc) Circunstâncias graves que afetem drasticamente a operacionalidade das infraestruturas e dos serviços municipais de proteção civil;\nd) Reconversão de áreas urbanas degradadas quando o seu peso relativo transcenda a capacidade e a responsabilidade do município.\n3.   O Governo publica no portal da internet dedicado à atividade municipal, trimestralmente, a listagem dos acordos de cooperação técnica e financeira e de auxílio financeiro celebrados por cada ministério, bem como os respetivos montantes e prazos.\n4.  O regime jurídico de cooperação técnica e financeira e o regime de concessão de auxílios financeiros aos municípios são regulados por decreto-lei."
+   }
+  },
+  {
+   "id": "TL-H247-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV RELAÇÕES ENTRE AS FINANÇAS LOCAIS E AS FINANÇAS NACIONAIS"
+   },
+   "heading": {
+    "pt": "Tutela inspetiva"
+   },
+   "text": {
+    "pt": "A tutela sobre a gestão patrimonial e financeira dos municípios abrange todos os serviços integrados na administração municipal e nas associações de municípios, sendo meramente inspetiva e só podendo ser exercida nos termos e nas formas previstas na lei, sem prejuízo da democraticidade e autonomia do poder local."
+   }
+  },
+  {
+   "id": "TL-H247-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Receitas"
+   },
+   "text": {
+    "pt": "Constituem receitas dos municípios:\na)   As transferências correntes do Orçamento Geral do Estado;\nb)   Os montantes transferidos para o município, ao abrigo da contratualização da execução de programas e projetos;\nc)   As transferências realizadas pela Administração Central ao abrigo de acordos de delegação de competências;\nd) Os montantes cobrados por conta da aplicação de taxas municipais;\ne)   Os montantes arrecadados pela aplicação de coimas;\nf)   Os montantes arrecadados ao abrigo de quaisquer contratos públicos;\ng)   Os montantes recebidos por conta de indemnizações civis;\nh)  O produto de heranças, legados e doações feitas a favor do município;\n(i)  O produto de empréstimos que sejam concedidos ao município pelo Estado;\nj)   O produto da locação de bens móveis e imóveis;\nk)  Os montantes provenientes de juros de depósitos bancários;\nl)   Outras receitas atribuídas por lei aos municípios.\nSecção II\nRepartição de recursos públicos entre o Estado e os municípios"
+   }
+  },
+  {
+   "id": "TL-H247-A37",
+   "no": 37,
+   "noLabel": {
+    "pt": "Artigo 37.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Participação dos municípios nas receitas do Estado"
+   },
+   "text": {
+    "pt": "Os municípios beneficiam de uma transferência financeira anual do Estado, designada por Fundo do Poder Local, correspondente ao somatório dos seguintes valores:\na)  20% do Rendimento Sustentável Estimado do Fundo Petrolífero aprovado para o ano financeiro em curso;\nb)  20% da receita total dos impostos diretos e indiretos não petrolíferos do Estado, inscrita no Orçamento Geral do Estado vigente;\nc)  20% da receita anual do Fundo Mineiro, inscrita no Orçamento Geral do Estado vigente."
+   }
+  },
+  {
+   "id": "TL-H247-A38",
+   "no": 38,
+   "noLabel": {
+    "pt": "Artigo 38.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Distribuição do Fundo do Poder Local"
+   },
+   "text": {
+    "pt": "1.  O Fundo do Poder Local é repartido da seguinte forma:\na) 50% como Fundo Geral Municipal;\nb) 50% como Fundo de Coesão Territorial;\n2.   A participação geral de cada Município no Fundo do Poder Local resulta da soma das parcelas referentes ao Fundo Geral Municipal e ao Fundo de Coesão."
+   }
+  },
+  {
+   "id": "TL-H247-A39",
+   "no": 39,
+   "noLabel": {
+    "pt": "Artigo 39.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Fundo Geral Municipal"
+   },
+   "text": {
+    "pt": "1.   O Fundo Geral Municipal corresponde a uma transferência financeira do Estado que visa dotar os municípios de condições financeiras adequadas ao desempenho das suas atribuições, em função dos respetivos níveis de funcionamento e investimento.\n2.   O Fundo Geral Municipal é repartido de acordo com os seguintes critérios:\na) 30% igual para todos os municípios;\nb) 20% na razão direta do número de eleitores recenseados no território de cada município;\nc) 20% na razão direta da área de cada município;\nd) 15% na razão direta do número de sucos existentes na área do município;\ne) 15% na razão direta do número de aldeias existentes na área do município.\n3.  Os critérios previstos no número anterior são regulamentados por decreto-lei."
+   }
+  },
+  {
+   "id": "TL-H247-A40",
+   "no": 40,
+   "noLabel": {
+    "pt": "Artigo 40.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Fundo de Coesão Territorial"
+   },
+   "text": {
+    "pt": "1.  O Fundo de Coesão Territorial visa reforçar a coesão do território nacional, fomentando a correção de assimetrias em benefício dos municípios menos desenvolvidos onde existam situações de desigualdade relativamente às correspondentes médias nacionais.\n2.   Os critérios de distribuição do Fundo de Coesão Territorial pelos municípios são os seguintes:\na) Dimensão da rede viária municipal existente em cada território municipal;\nb) Dimensão do sistema público de captação, abastecimento e distribuição de água para consumo humano existente em cada território municipal;\nc) Dimensão do sistema público de recolha, drenagem e tratamento de esgotos, águas residuais e pluviais existente em cada território municipal;\nd) Dimensão do sistema público de captação, abastecimento e distribuição de água para fins agrícolas existente em cada território municipal;\ne) Número de crianças e jovens inscritos nos estabelecimentos de educação pré-escolar e ensino básico existentes em cada território municipal; f) Número de utentes inscritos nos centros de saúde existentes em cada território municipal.\n3.  Os critérios previstos no número anterior e a respetiva fórmula de distribuição são regulamentados por decretolei."
+   }
+  },
+  {
+   "id": "TL-H247-A41",
+   "no": 41,
+   "noLabel": {
+    "pt": "Artigo 41.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Fundo de Descentralização Administrativa"
+   },
+   "text": {
+    "pt": "1.  Para além das transferências obrigatórias realizadas ao abrigo do disposto no artigo 37.º, o Governo prevê no Orçamento Geral do Estado um fundo designado por Fundo de Descentralização Administrativa.\n2.   O Fundo de Descentralização Administrativa destina-se a financiar as competências que hajam sido transferidas ou delegadas pela Administração Central para os municípios nos domínios da educação, saúde e solidariedade social.\n3.   As verbas a transferir para os municípios ao abrigo dos programas de cooperação técnica e financeira previstos no artigo 34.º são inscritos no Fundo de Descentralização Administrativa.\n4.  Os critérios e a fórmula de distribuição do Fundo de Descentralização Administrativa são aprovados por decreto-lei."
+   }
+  },
+  {
+   "id": "TL-H247-A42",
+   "no": 42,
+   "noLabel": {
+    "pt": "Artigo 42.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Identificação das transferências para os municípios no Orçamento Geral do Estado"
+   },
+   "text": {
+    "pt": "O Orçamento Geral do Estado identifica e desagrega, por município, os valores a transferir por conta do Fundo Geral Municipal, do Fundo de Coesão Territorial e do Fundo da Descentralização Administrativa."
+   }
+  },
+  {
+   "id": "TL-H247-A43",
+   "no": 43,
+   "noLabel": {
+    "pt": "Artigo 43.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Transferências financeiras para os municípios"
+   },
+   "text": {
+    "pt": "1.   São anualmente inscritos no Orçamento Geral do Estado os montantes das transferências financeiras previstas no\nartigo 37.º, os quais são transferidos pelo Ministério das Finanças para os municípios em duas prestações anuais, realizando-se a primeira transferência no prazo máximo de 30 dias após a entrada em vigor da respetiva lei do Orçamento Geral do Estado e a segunda transferência até ao dia 30 de junho, sem prejuízo do disposto nos números seguintes.\n2.   Os montantes relativos a transferências para os municípios em execução de acordos de delegação de competências são inscritos nos orçamentos municipais como receitas correntes e transferidos por duodécimos até ao dia 10 do mês correspondente.\n3.   Os montantes previstos no artigo 39.º podem ser repartidos entre receitas correntes e de capital.\n4.   A lei do Orçamento Geral do Estado pode autorizar o membro das Governo responsável pela área das finanças públicas a antecipar a transferência por duodécimos a que alude o n.º 2.\n5.    Os critérios e fórmulas de distribuição do Fundo de Coesão Territorial e do Fundo de Descentralização Administrativa devem ser previamente conhecidos, por forma a que se possa, em tempo útil, solicitar a sua eventual correção."
+   }
+  },
+  {
+   "id": "TL-H247-A44",
+   "no": 44,
+   "noLabel": {
+    "pt": "Artigo 44.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Dedução das transferências"
+   },
+   "text": {
+    "pt": "1.   As transferências financeiras da Administração Central para os municípios podem ser objeto de penhora judicial, até ao montante máximo de 20% de cada duodécimo.\n2.    A penhora das transferências financeiras da Administração Central para os municípios observa o regime processual da penhora de créditos.\nSecção III\nEndividamento municipal"
+   }
+  },
+  {
+   "id": "TL-H247-A45",
+   "no": 45,
+   "noLabel": {
+    "pt": "Artigo 45.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Princípios orientadores"
+   },
+   "text": {
+    "pt": "O endividamento municipal deve orientar-se por princípios de rigor e eficiência, prosseguindo os seguintes objetivos:\na)   Minimização dos custos diretos e indiretos numa perspetiva de longo prazo;\nb)  Garantia de uma distribuição equilibrada de custos pelos vários orçamentos anuais;\nc)  Prevenção de excessiva concentração temporal de amortização;\nd)   Não exposição a riscos excessivos."
+   }
+  },
+  {
+   "id": "TL-H247-A46",
+   "no": 46,
+   "noLabel": {
+    "pt": "Artigo 46.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Endividamento líquido municipal"
+   },
+   "text": {
+    "pt": "1.   O endividamento líquido municipal corresponde à diferença entre a soma dos passivos, qualquer que seja a sua forma, incluindo nomeadamente os empréstimos contraídos, os contratos de locação financeira e as dívidas a fornecedores, e a soma dos ativos, nomeadamente o saldo de caixa, os depósitos a instituições financeiras, as aplicações de tesouraria e os créditos sobre terceiros.\n2.  Para efeitos do disposto no número anterior, não são considerados créditos sobre terceiros os créditos que não sejam reconhecidos por ambas as partes."
+   }
+  },
+  {
+   "id": "TL-H247-A47",
+   "no": 47,
+   "noLabel": {
+    "pt": "Artigo 47.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Limite do endividamento líquido municipal"
+   },
+   "text": {
+    "pt": "1.  O montante do endividamento líquido total de cada município, em 31 de dezembro de cada ano, não pode exceder 110% do valor correspondente das receitas provenientes do Fundo Geral Municipal.\n2.   Quando um município não cumpra o disposto no número anterior, deve reduzir, em cada ano subsequente, pelo menos 10% do montante que excede o seu limite de endividamento líquido, até que aquele limite seja cumprido.\n3.   O incumprimento do disposto no número anterior implica a dissolução da Assembleia Municipal e a perda de mandato do Presidente do Município, nos termos definidos pelo regime de tutela administrativa estabelecido na Lei n.º 23/ 2021, de 10 de novembro."
+   }
+  },
+  {
+   "id": "TL-H247-A48",
+   "no": 48,
+   "noLabel": {
+    "pt": "Artigo 48.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Regime de crédito"
+   },
+   "text": {
+    "pt": "1.   Os municípios não podem contrair empréstimos ou utilizar a abertura de crédito junto de quaisquer instituições autorizadas por lei a conceder crédito, bem como emitir quaisquer títulos de dívida pública.\n2.   Os municípios podem requerer ao Governo a concessão de empréstimos por parte do Estado, conforme previsto no\nartigo 90.º da Lei n.º 2/2022, de 10 de fevereiro, cujos termos seguem o regime do presente diploma.\n3.   Os empréstimos previstos no número anterior, obrigatoriamente denominados em dólares americanos, não podem ter uma maturidade superior a 10 anos.\n4.  O pedido de autorização de contração de empréstimos, dirigido à Assembleia Municipal pelo Presidente do Município, é obrigatoriamente acompanhado de informação sobre as condições praticadas pelo Estado e do mapa demonstrativo da capacidade de endividamento do município.\n5.  É vedado aos municípios a concessão de créditos a quaisquer pessoas singulares ou pessoas coletivas, públicas ou privadas.\n6.   Pelos empréstimos concedidos aos municípios, o Estado não pode cobrar uma taxa de juro superior ao valor da inflação no ano da concessão do empréstimo."
+   }
+  },
+  {
+   "id": "TL-H247-A49",
+   "no": 49,
+   "noLabel": {
+    "pt": "Artigo 49.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Limite geral dos empréstimos aos municípios"
+   },
+   "text": {
+    "pt": "O montante global dos empréstimos concedidos pelo Estado a cada município não pode ultrapassar o valor correspondente às transferências previstas na lei do Orçamento Geral do Estado, ao abrigo do Fundo do Poder Local, para esse município no ano da contração do empréstimo."
+   }
+  },
+  {
+   "id": "TL-H247-A50",
+   "no": 50,
+   "noLabel": {
+    "pt": "Artigo 50.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Saneamento financeiro"
+   },
+   "text": {
+    "pt": "1.   Os municípios que se encontrem em situação de desequilíbrio financeiro conjuntural devem contrair empréstimos para saneamento financeiro, tendo em vista a reprogramação da dívida e a consolidação de passivos.\n2.  Os pedidos de empréstimo para o saneamento financeiro dos municípios são instruídos com um estudo fundamentado sobre a situação financeira do município e um plano de saneamento financeiro para o período a que respeita o empréstimo.\n3.    Os documentos referidos no número anterior são aprovados pela Assembleia Municipal, sob proposta do Presidente do Município.\n4.  Durante o período de vigência do empréstimo para o saneamento financeiro do município, o Presidente do Município envia à Assembleia Municipal e ao Ministério das Finanças um relatório trimestral sobre a execução do plano de saneamento financeiro.\n5.  Durante o período de execução do plano de saneamento financeiro, os municípios estão impedidos de:\na) Iniciar procedimentos de recrutamento de funcionários e trabalhadores, salvo os previstos no plano de saneamento financeiro;\nb) Iniciar procedimentos de aquisição externa de bens ou serviços, salvo os que se encontrem previstos no plano de saneamento financeiro;\nc) Iniciar procedimentos de contratualização externa para a execução de empreitadas de obras públicas.\n6.   O incumprimento das disposições previstas no plano de saneamento financeiro ou do disposto nos n.os 4 e 5 implicam a instauração de um procedimento inspetivo, nos termos previstos pelo regime de tutela administrativa."
+   }
+  },
+  {
+   "id": "TL-H247-A51",
+   "no": 51,
+   "noLabel": {
+    "pt": "Artigo 51.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Proibição da assunção de compromissos dos municípios pelo Estado"
+   },
+   "text": {
+    "pt": "O Estado não pode assumir responsabilidade pelas obrigações dos municípios, nem assumir os compromissos que decorram dessas obrigações."
+   }
+  },
+  {
+   "id": "TL-H247-A52",
+   "no": 52,
+   "noLabel": {
+    "pt": "Artigo 52.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Proibição da assunção de dívidas e prestação de garantias pelos municípios"
+   },
+   "text": {
+    "pt": "Os municípios não podem emitir ou aceitar títulos cambiários, assumir dívidas de terceiros ou prestar garantias ao cumprimento de créditos de terceiros, sejam os mesmos pessoas coletivas ou singulares, públicas ou privadas.\nSecção IV\nTaxas municipais"
+   }
+  },
+  {
+   "id": "TL-H247-A53",
+   "no": 53,
+   "noLabel": {
+    "pt": "Artigo 53.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Criação das taxas municipais"
+   },
+   "text": {
+    "pt": "1.   A presente lei cria as taxas municipais previstas no artigo\n54.º, a aplicar pelos municípios.\n2.  O lançamento tributário das taxas municipais é realizado nos termos do artigo 56.º"
+   }
+  },
+  {
+   "id": "TL-H247-A54",
+   "no": 54,
+   "noLabel": {
+    "pt": "Artigo 54.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Incidência objetiva"
+   },
+   "text": {
+    "pt": "As taxas municipais incidem sobre as utilidades prestadas aos particulares geradas pelas atividades dos municípios ou resultantes da realização de investimentos municipais, designadamente:\na)  Realização, manutenção e reforço de infraestruturas urbanísticas;\nb)  Concessão de licenças de loteamento e de licenças de obras de urbanização, de execução de obras particulares, de ocupação da via pública por motivo de obras e de utilização de edifícios, bem como de obras para ocupação ou utilização do solo, subsolo e espaço aéreo do domínio público municipal;\nc)   Ocupação ou utilização do solo, subsolo e espaço aéreo do domínio público municipal e aproveitamento dos bens de utilidade pública;\nd)   Prestação de serviços ao público;\ne)   Ocupação e utilização de locais reservados nos mercados e feiras;\nf)   Aferição e conferição de pesos, medidas e aparelhos de medição quando oficialmente qualificados e autorizados para o efeito;\ng)   Estacionamento de veículos em parques ou outros locais a esse fim destinados;\nh)  Autorização para o emprego de meios de publicidade destinados a propaganda comercial;\n(i)    Utilização de quaisquer instalações destinadas ao conforto, comodidade ou recreio público;\nj)  Enterramento, concessão de terrenos e uso de jazigos, ossários e outras instalações em cemitérios municipais;\nk)  Conservação e tratamento de esgotos;\nl)   Licenciamento sanitário de instalações;\nm)  Ressarcimento dos prejuízos causados ao município pela exploração de inertes na respetiva área;\nn)  Captação, abastecimento, tratamento e distribuição de água;\no)   Captação, drenagem e tratamento de águas residuais;\np)   Recolha, depósito e tratamento de resíduos sólidos e óleos usados;\nq)   Transporte coletivo de pessoas e mercadorias;\nr)   Distribuição de energia elétrica em baixa tensão;\ns)  Concessão de qualquer outra licença ou autorização da competência dos municípios;\nt)  Instalação, substituição ou renovação dos ramais domiciliários de ligação aos sistemas públicos de distribuição de água e de drenagem de águas residuais e esgotos;\nu)   Registos determinados por lei;\nv)   Quaisquer outras utilidades previstas na lei."
+   }
+  },
+  {
+   "id": "TL-H247-A55",
+   "no": 55,
+   "noLabel": {
+    "pt": "Artigo 55.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Incidência subjetiva"
+   },
+   "text": {
+    "pt": "1.  O município é o sujeito ativo da relação jurídico-tributária geradora da obrigação de pagamento de taxa.\n2.  O sujeito passivo é a pessoa singular ou coletiva que, nos termos do disposto nos regulamentos municipais, está vinculado ao cumprimento da obrigação de pagamento de uma taxa."
+   }
+  },
+  {
+   "id": "TL-H247-A56",
+   "no": 56,
+   "noLabel": {
+    "pt": "Artigo 56.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Lançamento e determinação do quantitativo das taxas municipais"
+   },
+   "text": {
+    "pt": "1.   O lançamento de taxas pelos municípios está subordinado aos princípios da:\na) Equivalência jurídica, segundo a qual o valor da taxa deve ser proporcional, não ultrapassando o custo da atividade pública local ou o benefício auferido pelo particular;\nb) Justa repartição dos encargos públicos, já que a criação de taxas respeita o princípio da prossecução do interesse público local e a satisfação das necessidades financeiras dos municípios para a prossecução das respetivas atribuições;\nc) Publicidade, na medida em que os regulamentos municipais só se tornam eficazes após publicação no Jornal da República.\n2.   As taxas municipais incidem sobre utilidades prestadas aos particulares geradas pela atividade dos municípios ou resultantes da realização de investimentos municipais.\n3.   O lançamento das taxas e a fixação do respetivo quantitativo é aprovada por regulamento da Assembleia Municipal, sob proposta do Presidente do Município.\n4.  A proposta prevista no número anterior deve ser acompanhada de relatório justificativo dos valores propostos para cada taxa, designadamente do montante do custo inerente aos bens, serviços ou utilidades fornecidas pelo município.\n5.  Caso exista parecer sobre a proposta de regulamento municipal emitido pelo membro do Governo responsável pela área das finanças públicas, nos termos dos n.ºs 3 e 4 do artigo 24.º e da alínea d) do n.º 6 do artigo 88.º da Lei n.º 23/2021, de 11 de novembro, Lei do Poder Local e da Descentralização Administrativa, é o mesmo apresentado conjuntamente com a referida proposta.\n6. Os regulamentos municipais que dispõem sobre o lançamento de taxas e fixação dos respetivos quantitativos contêm obrigatoriamente, sob pena de nulidade:\na) A indicação da base de incidência objetiva e subjetiva;\nb) O valor ou a fórmula de cálculo do valor das taxas a cobrar;\nc) O regime de eventuais isenções objetivas ou subjetivas;\nd) O pagamento e outras formas de extinção da prestação tributária;\ne) O regime de pagamento em prestações, caso seja admitido.\n7.   É proibida a aprovação de dispositivos regulamentares que estabeleçam mecanismos automáticos de atualização das taxas municipais, designadamente por indexação ao valor anual da inflação.\n8.  Os regulamentos que dispõem sobre o lançamento de taxas municipais e fixam os respetivos quantitativos são publicados no Jornal da República.\n9.   Os regulamentos que dispõem sobre o lançamento de taxas municipais, incluindo as respetivas alterações, são publicitados em permanência nos quadros de aviso do município e no portal da internet dedicado à atividade municipal, sendo disponibilizados para consulta dos cidadãos sempre que estes o requeiram."
+   }
+  },
+  {
+   "id": "TL-H247-A57",
+   "no": 57,
+   "noLabel": {
+    "pt": "Artigo 57.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Liquidação das taxas municipais"
+   },
+   "text": {
+    "pt": "1.   A liquidação das taxas municipais consiste na determinação do montante a pagar e resulta da aplicação dos indicadores previstos nos regulamentos municipais que dispõem sobre o lançamento e a fixação dos respetivos quantitativos.\n2.  Os valores que sejam apurados no âmbito dos procedimentos de liquidação de taxas são arredondados, por excesso, para a segunda casa decimal.\n3.   O direito de liquidar as taxas caduca se a liquidação não for validamente notificada ao sujeito passivo no prazo de dois anos a contar da data em que ocorreu o facto tributário."
+   }
+  },
+  {
+   "id": "TL-H247-A58",
+   "no": 58,
+   "noLabel": {
+    "pt": "Artigo 58.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Procedimento de liquidação das taxas municipais"
+   },
+   "text": {
+    "pt": "1.   A liquidação das taxas municipais consta de documento próprio, no qual se deve fazer referência aos seguintes elementos:\na) Identificação do sujeito passivo;\nb) Discriminação do facto sujeito a tributação;\nc) Referência ao dispositivo regulamentar que fundamenta o direito de liquidação e cobrança de taxa;\nd) Cálculo do montante a pagar, por aplicação conjugada do previsto nas alíneas b) e c).\n2.  O documento mencionado no número anterior designa-se nota de liquidação/guia de receita e faz parte do processo administrativo que documenta o facto tributário.\n3.   A liquidação de taxas que não sejam precedidas de processos administrativos faz-se nos respetivos documentos de cobrança."
+   }
+  },
+  {
+   "id": "TL-H247-A59",
+   "no": 59,
+   "noLabel": {
+    "pt": "Artigo 59.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Notificação da liquidação"
+   },
+   "text": {
+    "pt": "1.   A liquidação é pessoalmente notificada ao sujeito passivo, através da entrega de cópia da nota de liquidação/guia de receita, com indicação do prazo de pagamento voluntário e de requerimento de revisão.\n2.   O período de pagamento voluntário coincide com o período para a apresentação de requerimento de revisão e é de 15 dias.\n3.  Não sendo possível notificar pessoalmente o sujeito passivo, a administração municipal afixa a notificação no quadro de aviso da sede de suco correspondente à unidade geográfica de recenseamento eleitoral daquele, pelo período de 15 dias.\n4.  A liquidação considera-se efetuada na data em que a notificação da mesma for assinada pelo sujeito passivo ou no quinto dia posterior ao da afixação da notificação de liquidação no quadro de aviso da sede do suco em que aquele se encontre recenseado para efeitos eleitorais."
+   }
+  },
+  {
+   "id": "TL-H247-A60",
+   "no": 60,
+   "noLabel": {
+    "pt": "Artigo 60.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Revisão da liquidação"
+   },
+   "text": {
+    "pt": "1.   Verificando-se que na liquidação das taxas se cometeram erros ou omissões imputáveis aos serviços, pode haver lugar à revisão do ato de liquidação pelos serviços municipais, determinada pelo Presidente do Município ou através de requerimento apresentado pelo sujeito passivo, no prazo previsto no artigo anterior, com fundamento em erro ou omissão de facto ou de direito.\n2.   O requerimento de revisão de liquidação oficiosa, apresentado pelo sujeito passivo, deve ser instruído com todos os elementos de prova necessários à demonstração da procedência do mesmo e com a prestação de garantia de valor não inferior à quantia liquidada e que é objeto de requerimento de revisão.\n3.    A garantia prevista no número anterior pode ser prestada sob qualquer das formas previstas no Código Civil para as garantias especiais das obrigações, por garantia bancária ou seguro-caução, sob pena de rejeição liminar do requerimento de revisão da liquidação de taxa, salvo demonstração de que o sujeito passivo não dispõe de meios económicos suficientes para a prestação de garantia.\n4.   Recai sobre o sujeito passivo o ónus da prova de todos os factos que alegar em sede de requerimento de revisão de liquidação e da prestação da garantia prevista no número anterior ou da insuficiência de meios económicos para a poder prestar.\n5.  Sem prejuízo da responsabilidade contraordenacional a que haja lugar, sempre que o erro do ato de liquidação for da responsabilidade do próprio sujeito passivo, designadamente por falta ou inexatidão de declaração a cuja apresentação estivesse obrigado nos termos da lei ou dos regulamentos municipais, é este responsável pelas despesas que a sua conduta tenha causado.\n6.   Quando, por erro imputável aos serviços municipais, tenha sido liquidada e cobrada quantia superior à devida, devem os serviços restituir a quantia indevidamente paga, acrescida de juros calculados à taxa legal correspondente ao valor da inflação e contados ao dia.\n7.  Não há lugar a liquidação adicional ou a restituição de quantias quando o seu quantitativo seja igual ou inferior a US$ 2."
+   }
+  },
+  {
+   "id": "TL-H247-A61",
+   "no": 61,
+   "noLabel": {
+    "pt": "Artigo 61.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Liquidação adicional"
+   },
+   "text": {
+    "pt": "1.   A revisão de um ato de liquidação do qual resultar prejuízo para o município obriga os serviços municipais a promover oficiosamente uma liquidação adicional.\n2.   O sujeito passivo é notificado do procedimento de liquidação adicional nos termos e para os efeitos do disposto no artigo\n57.º.\n3.   Ao processo de liquidação adicional é aplicável o disposto no artigo anterior em tudo o que se refira às garantias de defesa do sujeito passivo."
+   }
+  },
+  {
+   "id": "TL-H247-A62",
+   "no": 62,
+   "noLabel": {
+    "pt": "Artigo 62.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Pagamento em prestações"
+   },
+   "text": {
+    "pt": "1.   Os regulamentos municipais que procedem ao lançamento das taxas e à fixação dos respetivos quantitativos podem autorizar os presidentes dos municípios a deferir requerimentos, apresentados pelos sujeitos passivos, de pagamento das taxas em prestações, com fundamento na incapacidade económica do sujeito passivo.\n2.   Os termos em que o Presidente do Município pode autorizar o pagamento de taxas em prestações é definido no regulamento municipal que fixar o quantitativo das taxas municipais.\n3.   Sem prejuízo do disposto nos números anteriores, é proibido o pagamento de prestações por períodos superiores a doze meses consecutivos.\n4.   A falta de pagamento, injustificado, de qualquer prestação implica o vencimento da totalidade da quantia e a extração de título executivo para cobrança coerciva."
+   }
+  },
+  {
+   "id": "TL-H247-A63",
+   "no": 63,
+   "noLabel": {
+    "pt": "Artigo 63.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Cobrança coerciva"
+   },
+   "text": {
+    "pt": "Encontrando-se esgotado o prazo para a apresentação de requerimento de revisão sem que a taxa liquidada tenha sido paga ou verificando-se a rejeição liminar do requerimento de revisão da liquidação, os serviços do município extraem certidão de dívida iniciando o processo de execução para o pagamento de quantia certa, nos termos e com a tramitação prevista no regime aplicável à execução de dívidas fiscais ao Estado.\nSecção V\nCoimas municipais"
+   }
+  },
+  {
+   "id": "TL-H247-A64",
+   "no": 64,
+   "noLabel": {
+    "pt": "Artigo 64.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Autorização para a tipificação de ilícitos de mera ordenação"
+   },
+   "text": {
+    "pt": "social e respetivas sanções\n1.   Os municípios podem determinar que a violação das normas constantes dos regulamentos municipais seja sancionada com coimas.\n2.   A conexão entre os ilícitos de mera ordenação social e as respetivas coimas deve ser estabelecida de acordo com a gravidade dos factos e apreciada em abstrato em função da proteção do interesse público local."
+   }
+  },
+  {
+   "id": "TL-H247-A65",
+   "no": 65,
+   "noLabel": {
+    "pt": "Artigo 65.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Sentido e extensão da autorização"
+   },
+   "text": {
+    "pt": "Os regulamentos municipais podem, em matéria de ilícito de mera ordenação social:\na)  Prever um regime de atribuição de responsabilidade por factos praticados em nome pessoal ou em nome ou por conta de outrem;\nb)  Criar regras de atribuição de responsabilidade para os titulares dos órgãos de administração de pessoas coletivas que não cumpram o dever de pôr termo aos ilícitos de mera ordenação social;\nc)   Determinar a responsabilidade a título de dolo, negligência e na forma tentada;\nd)  Ressalvar o cumprimento do dever violado nas infrações por omissão, não obstante o pagamento da coima ou o cumprimento de sanções acessórias;\ne)    Fixar em cinco anos o prazo de prescrição do procedimento de contraordenação e das respetivas sanções."
+   }
+  },
+  {
+   "id": "TL-H247-A66",
+   "no": 66,
+   "noLabel": {
+    "pt": "Artigo 66.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Limites das coimas"
+   },
+   "text": {
+    "pt": "As coimas previstas para o incumprimento de disposições constantes dos regulamentos municipais não podem exceder os seguintes limites:\na)    As coimas previstas como sanção para ações ou omissões de pessoas singulares não podem ser inferiores a US$ 2,5 e superiores a US$ 1.500;\nb)   As coimas previstas como sanção para ações ou omissões de pessoas coletivas não podem ser inferiores a US$ 5 e superiores a US$ 3.000."
+   }
+  },
+  {
+   "id": "TL-H247-A67",
+   "no": 67,
+   "noLabel": {
+    "pt": "Artigo 67.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Procedimento de aplicação de coimas"
+   },
+   "text": {
+    "pt": "1.   A coima é a sanção aplicável a todo o facto ilícito e censurável que preencha um tipo legal classificado como ilícito de mera ordenação social.\n2.   O processo de aplicação de coimas obedece aos princípios gerais do direito sancionatório previstos na Constituição.\n3.   O processamento das contraordenações e a aplicação das coimas compete ao diretor da administração municipal.\n4.  O agente da infração é obrigatoriamente notificado da decisão administrativa que lhe aplicar coima, da qual constam, sob pena de nulidade:\na) A identificação do autor da infração e dos eventuais coparticipantes;\nb) A descrição do facto imputado e as provas que sustentam a imputação;\nc) As normas que hajam sido violadas e as normas que fixam a coima;\nd) O valor da coima;\ne) A possibilidade de recorrer hierarquicamente da decisão de aplicação da coima, no prazo de 15 dias, para o Presidente do Município.\n5.  As coimas voluntariamente pagas no prazo de recurso hierárquico são reduzidas a metade do seu valor."
+   }
+  },
+  {
+   "id": "TL-H247-A68",
+   "no": 68,
+   "noLabel": {
+    "pt": "Artigo 68.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Notificação da decisão de aplicação de coimas"
+   },
+   "text": {
+    "pt": "A notificação da decisão de aplicação de coimas segue o regime previsto no artigo 57.º para a notificação da nota de liquidação/ guia de receita, com as devidas adaptações."
+   }
+  },
+  {
+   "id": "TL-H247-A69",
+   "no": 69,
+   "noLabel": {
+    "pt": "Artigo 69.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Recurso da decisão de aplicação de coimas"
+   },
+   "text": {
+    "pt": "1.  Verificando-se que no processo de aplicação de coimas se cometeram erros ou omissões imputáveis aos serviços, pode haver lugar à revisão da decisão de aplicação de coimas, pelos serviços municipais, determinada pelo Presidente do Município ou através de recurso hierárquico apresentado pelo agente a quem a infração é imputada, no prazo de 15 dias, com fundamento em erro ou omissão de facto ou de direito.\n2.  O recurso hierárquico deve ser instruído com todos os elementos de prova necessários à demonstração da procedência do mesmo, incumbindo ao recorrente assegurar a presença das testemunhas eventualmente arroladas na data e local designados para a respetiva audição.\n3.   O Presidente do Município profere decisão administrativa final no prazo de 30 dias contados da data da interposição do recurso.\n4.   A falta de decisão proferida no prazo previsto no número anterior equivale ao deferimento tácito do recurso interposto.\n5.   A decisão do Presidente do Município que indefira o recurso não pode agravar o montante da coima aplicada ao recorrente pela decisão administrativa, sendo notificada, nos termos do disposto no artigo 57.º, para que o recorrente proceda ao pagamento voluntário da coima, no prazo de cinco dias.\n6.    Até ao termo do prazo previsto para o pagamento voluntário da coima, cabe recurso para o tribunal judicial de primeira instância com competência territorial sobre a área do município."
+   }
+  },
+  {
+   "id": "TL-H247-A70",
+   "no": 70,
+   "noLabel": {
+    "pt": "Artigo 70.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RECEITAS DOS MUNICÍPIOS Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Cobrança coerciva"
+   },
+   "text": {
+    "pt": "Os serviços municipais instauram processo de execução para o pagamento de quantia certa, nos termos e com a tramitação prevista no regime aplicável à execução de dívidas fiscais ao Estado, para a cobrança coerciva de todas as decisões que apliquem coimas já transitadas em julgado que não se encontrem devidamente pagas."
+   }
+  },
+  {
+   "id": "TL-H247-A71",
+   "no": 71,
+   "noLabel": {
+    "pt": "Artigo 71.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Regras da execução orçamental"
+   },
+   "text": {
+    "pt": "Nas respetivas execuções orçamentais, os municípios devem respeitar as seguintes regras:\na)   As receitas só podem ser liquidadas e arrecadadas se tiverem sido objeto de inscrição orçamental adequada;\nb)   A cobrança de receitas pode, no entanto, ser efetuada para além dos valores inscritos no orçamento;\nc)   As receitas liquidadas e não cobradas até 31 de dezembro devem ser contabilizadas pelas correspondentes rubricas do orçamento do ano em que a cobrança se efetuar;\nd)   As despesas só podem ser cativadas, assumidas, autorizadas e pagas se, para além de serem legais, estiverem inscritas no orçamento e com dotação igual ou superior ao cabimento e ao compromisso, respetivamente;\ne)  As dotações orçamentais da despesa a realizar com a compensação em receitas legalmente consignadas podem ser autorizadas até à concorrência das importâncias arrecadadas;\nf)   As ordens de pagamento de despesa caducam em 31 de dezembro do ano a que respeitam, devendo o pagamento dos encargos regularmente assumidos e não pagos até essa data ser processado por conta das verbas adequadas do orçamento que estiver em vigor no momento em que se proceda ao seu pagamento;\ng)   O credor pode requerer o pagamento dos encargos referidos na alínea anterior no prazo, improrrogável, de dois anos, a contar de 31 de dezembro do ano a que respeita o crédito;\nh)  Os serviços municipais, no prazo improrrogável previsto na alínea anterior, devem tomar a iniciativa de satisfazer os encargos, vencidos e não pagos, sempre que não seja imputável ao credor a razão do não pagamento."
+   }
+  },
+  {
+   "id": "TL-H247-A72",
+   "no": 72,
+   "noLabel": {
+    "pt": "Artigo 72.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Etapas da despesa"
+   },
+   "text": {
+    "pt": "Os municípios executam a despesa de acordo com as seguintes etapas sucessivas:\na)   Autorização de despesa;\nb)  Verificação da inscrição e cabimento orçamental;\nc)  Assunção do compromisso;\nd)   Liquidação da despesa;\ne)   Autorização do pagamento;\nf)   Realização do pagamento."
+   }
+  },
+  {
+   "id": "TL-H247-A73",
+   "no": 73,
+   "noLabel": {
+    "pt": "Artigo 73.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Registos contabilísticos"
+   },
+   "text": {
+    "pt": "1.   Os municípios possuem contabilidade organizada e registam as suas operações orçamentais, financeiras e patrimoniais de acordo com as normas de um plano de contabilidade.\n2.   O plano de contabilidade é aprovado por decreto-lei."
+   }
+  },
+  {
+   "id": "TL-H247-A74",
+   "no": 74,
+   "noLabel": {
+    "pt": "Artigo 74.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Arrecadação de receita"
+   },
+   "text": {
+    "pt": "1.   Nenhum funcionário ou agente da administração municipal deve guardar ou manter na sua posse quantias pecuniárias resultantes da arrecadação de receitas municipais enquanto aguarda a respetiva transferência para a conta do município, salvo autorização escrita do Presidente do Município.\n2.    A totalidade das receitas arrecadadas por conta das receitas municipais é depositada nas contas bancárias do município.\n3.  Os serviços depositam os montantes pecuniários que diariamente sejam arrecadados por conta de receitas municipais."
+   }
+  },
+  {
+   "id": "TL-H247-A75",
+   "no": 75,
+   "noLabel": {
+    "pt": "Artigo 75.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Utilização de fundos públicos municipais"
+   },
+   "text": {
+    "pt": "1.  É proibida aos titulares dos órgãos municipais e aos funcionários e agentes dos serviços municipais a má utilização de fundos e recursos públicos ou a sua utilização ilegítima ou imprópria.\n2.   Os serviços da administração municipal só podem realizar despesa após a emissão de Aviso de Autorização de Despesa, emitida pelo diretor da administração municipal, através do qual este certifica a existência de previsão e dotação orçamental e a respetiva legalidade.\n3.    A emissão de um Aviso de Autorização de Despesa depende da disponibilidade de fundos e do mesmo deve constar o respetivo prazo de validade.\n4.  O diretor da administração municipal pode a qualquer momento revogar um Aviso de Autorização de Despesa sempre que seja desejável no interesse de uma gestão financeira prudente.\n5.  Os municípios só podem efetivar os pagamentos das despesas para as quais hajam sido emitidos Avisos de Autorização de Despesa."
+   }
+  },
+  {
+   "id": "TL-H247-A76",
+   "no": 76,
+   "noLabel": {
+    "pt": "Artigo 76.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Contas bancárias do município"
+   },
+   "text": {
+    "pt": "1.  O Presidente do Município é responsável pelas contas bancárias do município, para depósito das quantias e valores recebidos por conta das receitas municipais.\n2.  As contas bancárias previstas no número anterior são tituladas pelo município e só podem ser mobilizadas com a assinatura conjunta do Presidente do Município e do diretor da administração municipal.\n3.  A efetivação do pagamento de quaisquer despesas de valor superior duas vezes ao do salário mínimo nacional só pode realizar-se através de cheque ou transferência bancária.\n4.  O depósito das quantias e valores recebidos por conta do financiamento de outros Estados ou de organizações internacionais a projetos desenvolvidos pelos municípios é realizado numa conta bancária especificamente aberta para esse efeito.\n5.   O pagamento de despesas realizadas por conta da execução de projetos com financiamento internacional só pode realizar-se através de cheque ou transferência bancária, se o respetivo valor for superior ao do salário mínimo nacional.\n6.  Cada projeto que obtenha financiamento por parte de Estados estrangeiros ou organizações internacionais tem obrigatoriamente associada uma conta bancária própria."
+   }
+  },
+  {
+   "id": "TL-H247-A77",
+   "no": 77,
+   "noLabel": {
+    "pt": "Artigo 77.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Pagamento dos salários dos funcionários municipais"
+   },
+   "text": {
+    "pt": "1.   O município é responsável pelo pagamento das retribuições dos titulares dos respetivos órgãos representativos e dos funcionários e agentes do respetivo quadro de pessoal.\n2.  Os municípios asseguram a retenção na fonte e outras deduções salariais legalmente previstas, aquando do pagamento das retribuições mensais previstas no número anterior, entregando-as posteriormente às entidades competentes nos prazos e de acordo com os procedimentos previstos nas respetivas leis."
+   }
+  },
+  {
+   "id": "TL-H247-A78",
+   "no": 78,
+   "noLabel": {
+    "pt": "Artigo 78.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Sistemas de informação"
+   },
+   "text": {
+    "pt": "1.    Os municípios utilizam sistemas e tecnologias de informação na gestão municipal, designadamente para fins de planeamento, orçamentação, gestão financeira, contabilística e patrimonial, ou prestação de serviços e bens públicos ao cidadão.\n2.   Os sistemas informáticos utilizados, adquiridos ou desenvolvidos pelos ou para os municípios, são independentes dos sistemas de informação da Administração Central, mas têm de garantir a interoperabilidade e a compatibilidade de sistemas, assim como a funcionalidade de interligação, com os sistemas relevantes da Administração Central.\n3.    Para efeitos da execução de acordos de transferência ou de delegação de atribuições e competências entre o Governo e os municípios, estes utilizam os sistemas informáticos disponibilizados pela Administração Central."
+   }
+  },
+  {
+   "id": "TL-H247-A79",
+   "no": 79,
+   "noLabel": {
+    "pt": "Artigo 79.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII CONTABILIDADE, PRESTAÇÃO E AUDITORIA DAS CONTAS MUNICIPAIS"
+   },
+   "heading": {
+    "pt": "Apreciação das contas"
+   },
+   "text": {
+    "pt": "1.  A conta geral do município é apreciada e votada pela Assembleia Municipal, durante o mês de março do ano seguinte àquele a que respeita.\n2.   No mesmo período, a Assembleia Municipal aprecia e vota o relatório de atividades anual."
+   }
+  },
+  {
+   "id": "TL-H247-A80",
+   "no": 80,
+   "noLabel": {
+    "pt": "Artigo 80.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII CONTABILIDADE, PRESTAÇÃO E AUDITORIA DAS CONTAS MUNICIPAIS"
+   },
+   "heading": {
+    "pt": "Conta Geral do município"
+   },
+   "text": {
+    "pt": "1.   A Conta Geral do Município é um documento que apresenta as receitas cobradas e as despesas realizadas pelo município durante um ano orçamental, e informação sobre a respetiva situação financeira e patrimonial.\n2.  A Conta Geral do Município é composta pelo relatório, pelas tabelas e pelos elementos informativos.\n3.  O relatório contém uma análise global da execução orçamental e da situação financeira e patrimonial do município no ano orçamental de referência.\n4.   As tabelas da Conta Geral do Município referidas no n.º 2 integram:\na) As tabelas orçamentais do orçamento municipal, com a informação relativa à execução orçamental verificada em cada tabela orçamental;\nb) Uma tabela com a identificação dos empréstimos contratualizados com o Estado;\nc) Uma tabela com a identificação da execução financeira de cada programa orçamental;\nd) Uma tabela com a identificação dos passivos do município, datas de vencimento e juros já vencidos;\ne) Uma tabela com a identificação dos montantes transferidos para os Sucos;\n5.   Os elementos informativos referidos no n.º 2 integram:\na) Informação sobre a receita efetivamente cobrada por cada tipo de receita prevista no artigo 36.º;\nb) As demonstrações contabilísticas financeiras do ano financeiro de referência, preparadas de acordo com o plano de contabilidade aplicável;\nc) Os extratos bancários das contas bancárias tituladas pelo município;\nd) Inventário do património municipal;\ne) Informação sobre alterações orçamentais, incluindo por utilização da reserva de contingência."
+   }
+  },
+  {
+   "id": "TL-H247-A81",
+   "no": 81,
+   "noLabel": {
+    "pt": "Artigo 81.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII CONTABILIDADE, PRESTAÇÃO E AUDITORIA DAS CONTAS MUNICIPAIS"
+   },
+   "heading": {
+    "pt": "Relatórios trimestrais de atividades, de desempenho dos"
+   },
+   "text": {
+    "pt": "programas orçamentais e da execução orçamental\n1.  O Presidente do Município apresenta à Assembleia Municipal um relatório trimestral sobre a execução do plano anual de atividades municipal, o qual especifica, para o período de referência:\na) A identificação dos programas, subprogramas, atividades e projetos, dos respetivos objetivos e indicadores de desempenho;\nb) A descrição das atividades e dos projetos realizados;\nc) A identificação do serviço municipal ou administração de posto administrativo responsável pela execução da atividade ou projeto;\nd) A execução dos indicadores de desempenho dos programas orçamentais, subprogramas, atividades e projetos;\ne) A descrição dos objetivos e dos resultados atingidos; f) A despesa cumulativa com as atividades e projetos realizados;\ng) A descrição e análise da execução física e financeira de cada projeto de capital, com indicação das razões que motivam a não execução ou atrasos na execução dos projetos programados.\n2.   Conjuntamente com o relatório previsto no número anterior, o Presidente do Município apresenta à Assembleia Municipal um relatório trimestral sobre a execução do orçamento municipal, o qual especifica, para o período de referência:\na) A execução da receita, desagregada por classificação económica;\nb) A execução da despesa, desagregada por classificação económica e estrutura orgânica do município;\nc) A execução da despesa por programa e subprograma orçamental;\nd) Justificação para os desvios entre as receitas e despesas previstas e realizadas;\ne) A execução das transferências para os Sucos.\n3.  O Presidente do Município apresenta o relatório à Assembleia Municipal até ao 15.º dia posterior ao fim do trimestre a que o relatório se reporta."
+   }
+  },
+  {
+   "id": "TL-H247-A82",
+   "no": 82,
+   "noLabel": {
+    "pt": "Artigo 82.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII CONTABILIDADE, PRESTAÇÃO E AUDITORIA DAS CONTAS MUNICIPAIS"
+   },
+   "heading": {
+    "pt": "Relatório de atividades anual"
+   },
+   "text": {
+    "pt": "Conjuntamente com a Conta Geral do Município, o Presidente do Município apresenta à Assembleia Municipal, um relatório de atividades anual, o qual apresenta a informação prevista no n.º 1 do artigo 77.º relativa à execução do plano de atividades anual anterior, assim como uma análise da situação financeira do município, onde são referidos, nomeadamente, os seguintes aspetos:\na)   Desvios entre as receitas e despesas previstas e realizadas;\nb)   Evolução do endividamento;\nc)  Relação entre as receitas e as despesas correntes e as receitas e as despesas de capital;\nd)   A execução física e financeira dos projetos municipais;\ne)  A análise ao desempenho dos recursos humanos do município."
+   }
+  },
+  {
+   "id": "TL-H247-A83",
+   "no": 83,
+   "noLabel": {
+    "pt": "Artigo 83.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII CONTABILIDADE, PRESTAÇÃO E AUDITORIA DAS CONTAS MUNICIPAIS"
+   },
+   "heading": {
+    "pt": "Envio da Conta Geral do Município à Câmara de Contas do"
+   },
+   "text": {
+    "pt": "Tribunal Superior Administrativo, Fiscal e de Contas A Conta Geral do Município é enviada pelo Presidente do Município, para julgamento da Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas, até ao final do mês de maio do ano seguinte àquele a que respeita."
+   }
+  },
+  {
+   "id": "TL-H247-A84",
+   "no": 84,
+   "noLabel": {
+    "pt": "Artigo 84.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Notificações e comunicações"
+   },
+   "text": {
+    "pt": "1.   Todas as notificações e comunicações previstas na presente lei devem ser redigidas em português ou tétum.\n2.   As notificações e comunicações referidas no n.º 1 podem ser efetuadas por via protocolar ou comunicação eletrónica, mediante registo, ou por qualquer outro meio de comprovadamente fazer chegar as notificações e comunicações às partes interessadas.\n3.   Para efeitos do disposto no número anterior, as comunicações podem ainda ser entregues diretamente na sede dos serviços municipais, contra recibo."
+   }
+  },
+  {
+   "id": "TL-H247-A85",
+   "no": 85,
+   "noLabel": {
+    "pt": "Artigo 85.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Data das notificações e das comunicações"
+   },
+   "text": {
+    "pt": "1.   As notificações e comunicações consideram-se feitas:\na) No dia útil imediatamente seguinte à data do registo de entrega por via protocolar, do registo da expedição da comunicação eletrónica ou do registo da entrega da notificação ou comunicação por outro meio, nos termos do n.º 2 do artigo anterior;\nb) Na data da entrega, quando entregues nos serviços da entidade, no caso previsto no n.° 3 do artigo anterior.\n2.   Quando um prazo termine em sábado, domingo, feriado ou dia em que tenha sido concedida tolerância de ponto, transfere-se o termo do mesmo para o dia útil imediatamente seguinte."
+   }
+  },
+  {
+   "id": "TL-H247-A86",
+   "no": 86,
+   "noLabel": {
+    "pt": "Artigo 86.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Contagem dos prazos"
+   },
+   "text": {
+    "pt": "Os prazos estabelecidos na presente lei são contínuos, não se suspendendo aos sábados, domingos e feriados, com exceção dos prazos que estabelecem garantias dos particulares previstos nas Secções IV e V do Capítulo V da presente lei, os quais suspendem-se aos sábados, domingos e feriados."
+   }
+  },
+  {
+   "id": "TL-H247-A87",
+   "no": 87,
+   "noLabel": {
+    "pt": "Artigo 87.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Casos omissos"
+   },
+   "text": {
+    "pt": "Aos casos omissos no presente diploma, aplica-se subsidiariamente e com as devidas adaptações, a Lei n.º 2/ 2022, de 10 de fevereiro."
+   }
+  },
+  {
+   "id": "TL-H247-A88",
+   "no": 88,
+   "noLabel": {
+    "pt": "Artigo 88.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Regulamentação"
+   },
+   "text": {
+    "pt": "O Governo aprova, no prazo de 180 dias, os diplomas necessários à regulamentação e aplicação da presente lei."
+   }
+  },
+  {
+   "id": "TL-H247-A89",
+   "no": 89,
+   "noLabel": {
+    "pt": "Artigo 89.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

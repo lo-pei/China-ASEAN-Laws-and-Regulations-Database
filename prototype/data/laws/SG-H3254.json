@@ -1,0 +1,810 @@
+{
+ "id": "SG-H3254",
+ "title": {
+  "zh": null,
+  "en": "Moneylenders Rules 2009",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p41",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MA2008-R1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 48,
+ "chars": 61857,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MA2008-R1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 48 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3254-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 LICENSING OF MONEYLENDERS"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Rules are the Moneylenders Rules 2009."
+   }
+  },
+  {
+   "id": "SG-H3254-A1.001",
+   "no": 1.001,
+   "noLabel": {
+    "en": "1A."
+   },
+   "chapter": {
+    "en": "PART 1 LICENSING OF MONEYLENDERS"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "1A.—(1) In these Rules —\n“business loan” means a loan granted by a licensee to any of the following:\n(a)a company incorporated under the Companies Act 1967 or any corresponding previous legislation, and carrying on business for, at least one year before the grant of the loan;\n(b)a limited liability partnership registered under the Limited Liability Partnerships Act 2005, and carrying on business for, at least one year before the grant of the loan;\n(c)a person registered under the Business Names Registration Act 2014 or any corresponding previous legislation, and carrying on business under the business name in respect of which the person is registered for, at least one year before the grant of the loan;\n“excluded person” means an individual —\n(a)who has submitted a written request, in such form and manner as the Registrar may specify, to the designated credit bureau to be excluded from obtaining any unsecured loan (except a debt consolidation loan) from a licensee after the date of the submission of the request; and\n(b)whose request has not been withdrawn in such form and manner as the Registrar may specify;\n“revolving credit loan” means a loan on revolving credit that may be drawn down subject to a limit approved by the moneylender who granted the loan and which may be repaid at any time and from time to time in any amount.\n(2) In these Rules —\n(a)a reference to a loan granted to a person includes a reference to a loan granted to that person and one or more other persons, whether jointly or otherwise;\n(b)a reference to an application for a loan made by a person includes a reference to an application made by that person and one or more other persons; and\n(c)a reference to a person’s share of the amount of a loan is a reference to —\n(i)where the loan is a revolving credit loan granted solely to that person or jointly to that person and one or more other persons — the maximum amount that may be drawn down under the loan;\n(ii)where the loan is a revolving credit loan granted otherwise than jointly to that person and one or more other persons — the amount derived by multiplying the maximum amount that may be drawn down under the loan by the percentage of the loan that the person is liable for under the contract for the loan;\n(iii)where the loan is not a revolving credit loan and is granted solely to that person or jointly to that person and one or more other persons — the whole amount of the loan; and\n(iv)where the loan is not a revolving credit loan and is granted otherwise than jointly to that person and one or more other persons — the amount derived by multiplying the whole amount of the loan by the percentage of the loan that the person is liable for under the contract for the loan.\n(3) In these Rules, a reference to a person’s share of the outstanding amount of a loan is a reference to —\n(a)where the loan is a revolving credit loan, except in Part 3A —\n(i)granted solely to that person or jointly to that person and one or more other persons — the maximum amount that may be drawn down under the loan; and\n(ii)granted otherwise than jointly to that person and one or more other persons — the amount derived by multiplying the maximum amount that may be drawn down under the loan by the percentage of the loan that the person is liable for under the contract for the loan;\n(b)where the loan is a revolving credit loan in Part 3A —\n(i)granted solely to that person or jointly to that person and one or more other persons — the outstanding balance of the loan; and\n(ii)granted otherwise than jointly to that person and one or more other persons — the amount derived by multiplying the outstanding balance of the loan by the percentage of the loan that the person is liable for under the contract for the loan; and\n(c)where the loan (not being a revolving credit loan) is —\n(i)granted solely to that person or jointly to that person and one or more other persons — the outstanding balance of the loan; and\n(ii)granted otherwise than jointly to that person and one or more other persons — the amount derived by multiplying the outstanding balance of the loan by the percentage of the loan that the person is liable for under the contract for the loan."
+   }
+  },
+  {
+   "id": "SG-H3254-A1.002",
+   "no": 1.002,
+   "noLabel": {
+    "en": "1B."
+   },
+   "chapter": {
+    "en": "PART 1 LICENSING OF MONEYLENDERS"
+   },
+   "heading": {
+    "en": "Forms"
+   },
+   "text": {
+    "en": "1B. The Forms to be used for the purposes of these Rules are those set out on the website of the Ministry of Law at https://www.mlaw.gov.sg/rom, and any reference in these Rules to a numbered form is to be construed as a reference to the current version of the form bearing the corresponding number which is displayed at that website."
+   }
+  },
+  {
+   "id": "SG-H3254-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 LICENSING OF MONEYLENDERS"
+   },
+   "heading": {
+    "en": "Particulars to be provided for applications"
+   },
+   "text": {
+    "en": "2.—(1) Before approving an application for the issue or renewal of a licence, the Registrar may require the applicant to produce such evidence as the Registrar may reasonably specify to determine if there exists any ground for refusing the application under section 8 of the Act.\n(2) Without limiting paragraph (1), the Registrar may require the applicant to produce —\n(a)particulars of the bank account of the applicant;\n(b)particulars of any director or substantial shareholder of the applicant;\n(c)particulars of any person who has taken part, is taking part or will be taking part (whether directly or indirectly), in the management of the applicant’s business of moneylending; and\n(d)particulars of any assistant employed or engaged, or who will be employed or engaged, by the applicant.\n(3) Without limiting paragraph (1), the Registrar may require any person who is or will be taking part (whether directly or indirectly) in the management of the applicant’s business of moneylending to take and pass a written test on the person’s knowledge and understanding of the requirements relating to the management of the business of moneylending which are imposed by or under the Act.\n(4) The test under paragraph (3) is to be conducted in such manner and on such date as the Registrar determines.\n(5) Before approving a place of business for moneylending under section 11 of the Act, the Registrar may require the applicant for the issue of a licence or the licensee (as the case may be) to produce such evidence as the Registrar may reasonably specify to determine if there exists any ground for not approving that place of business under section 11 of the Act.\n(6) Without limiting paragraph (5), the Registrar may require the applicant or licensee to produce particulars of the place and evidence of its ownership or occupation of the place."
+   }
+  },
+  {
+   "id": "SG-H3254-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 LICENSING OF MONEYLENDERS"
+   },
+   "heading": {
+    "en": "Security deposit"
+   },
+   "text": {
+    "en": "3.—(1) For the purposes of sections 5(6)(c), 6(4)(c) and 11(3)(c) of the Act, the amount of deposit in respect of each place of business is $20,000.\n(2) A security deposit placed with the Accountant-General under section 5(6)(c), 6(4)(c) or 11(3)(c) of the Act for any place of business must, unless the Registrar has given notice under section 12(2) of the Act of the Registrar’s intention to forfeit the deposit or any part of it, be returned to the licensee on the cessation of the licensee’s business of moneylending at the place.\n(3) Where, after having given the notice mentioned in paragraph (2), the Registrar does not forfeit the deposit or forfeits a part of it, the Registrar must return the deposit or the part of the deposit (as the case may be) which is not forfeited to the licensee.\n(4) Where a licensee —\n(a)ceases to conduct a business of moneylending at a place; and\n(b)applies for approval under section 11 of the Act to carry on the business at another place,\nthe security deposit for the firstmentioned place may be transferred and placed with the Accountant‑General as the security deposit for the second‑mentioned place, unless the Registrar has forfeited the deposit or has given notice under section 12(2) of the Act of the Registrar’s intention to forfeit the deposit."
+   }
+  },
+  {
+   "id": "SG-H3254-A3.001",
+   "no": 3.001,
+   "noLabel": {
+    "en": "3A."
+   },
+   "chapter": {
+    "en": "PART 1 LICENSING OF MONEYLENDERS"
+   },
+   "heading": {
+    "en": "Minimum paid-up capital for licensees"
+   },
+   "text": {
+    "en": "3A. For the purposes of section 7(1)(a) and (b) and (2) of the Act, the prescribed amount is $100,000."
+   }
+  },
+  {
+   "id": "SG-H3254-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 LICENSING OF MONEYLENDERS"
+   },
+   "heading": {
+    "en": "Form of licence"
+   },
+   "text": {
+    "en": "4. A licence issued under section 5 of the Act or renewed under section 6 of the Act must be in the form determined by the Registrar."
+   }
+  },
+  {
+   "id": "SG-H3254-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 1 LICENSING OF MONEYLENDERS"
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "5.—(1) The non‑refundable application fee payable under section 5(4)(b) of the Act in respect of an application for the issue of a licence is $600.\n(2) The licence fee for the issue or renewal of a licence under section 9(1) of the Act is $1,500 for every period of 12 months (or part of 12 months) of the licence.\n(3) The licence fee for each additional place of business of a licensee under section 9(3) of the Act is $1,500 for every period of 12 months (or part of 12 months) remaining of the period of the licence from the date of approval of that place of business for moneylending under section 11 of the Act.\n(4) If the period remaining of the licence from the date mentioned in paragraph (3) is less than 12 months, the fee of $1,500 mentioned in that paragraph is to be reduced by an amount to be computed as where A is the number of months remaining of the period of the licence from the date mentioned in paragraph (3) (a period of less than one month being treated as a full month).\n(5) A non‑refundable registration fee of $130 must be paid to the Registrar for each person who takes the written test mentioned in rule 2(3)."
+   }
+  },
+  {
+   "id": "SG-H3254-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 REGULATION OF BUSINESS OF MONEYLENDING"
+   },
+   "heading": {
+    "en": "Principal place of business"
+   },
+   "text": {
+    "en": "6.—(1) An applicant for the issue of a licence which intends to conduct its business of moneylending at 2 or more places of business must, when applying to the Registrar under section 11 of the Act for approval of the places of business for moneylending, notify the Registrar in writing which of those places will be its principal place of business.\n(2) A licensee which intends to conduct its business of moneylending at any place of business in addition to any place or places of business already approved under section 11 of the Act must, when applying to the Registrar under that section for approval of the additional place of business for moneylending, notify the Registrar in writing which of those places will be its principal place of business.\n(3) A licensee which intends to change its principal place of business for the conduct of its business of moneylending must notify the Registrar in writing of this before carrying out the change."
+   }
+  },
+  {
+   "id": "SG-H3254-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 REGULATION OF BUSINESS OF MONEYLENDING"
+   },
+   "heading": {
+    "en": "Replacement licence"
+   },
+   "text": {
+    "en": "7.—(1) A licensee must apply to the Registrar for a replacement licence reflecting the correct particulars in any of the following circumstances:\n(a)if the licensee intends to change its principal place of business;\n(b)if the licensee intends to conduct its business of moneylending under a different name.\n(2) An application under paragraph (1) must be made in writing not later than 7 business days before the change is due to take effect.\n(3) A licensee who no longer has access to the licence electronically issued to the licensee may apply to the Registrar for a duplicate of the licence, and the Registrar may issue the duplicate electronically."
+   }
+  },
+  {
+   "id": "SG-H3254-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 REGULATION OF BUSINESS OF MONEYLENDING"
+   },
+   "heading": {
+    "en": "Licensee to inform borrower of terms of loan"
+   },
+   "text": {
+    "en": "8. For the purposes of section 32(1) of the Act, every licensee must, before granting any loan to a borrower, inform the borrower in writing as to all of the following matters:\n(a)the nominal interest rate for the loan expressed as a percentage per month, and the amount of interest for the loan;\n(b)that interest will be computed on the monthly outstanding balance of the principal;\n(c)the date or day when the interest on the principal will be credited to the loan account as payable;\n(d)the nominal interest rate for late interest (if any), expressed as a percentage per month;\n(e)that late interest (if any) will be computed on the monthly outstanding balance of the amount of principal or interest or both that is overdue;\n(f)whether any permitted fees will be charged and, if so, what the permitted fees are, how they are or will be computed and the circumstances under which they will be charged;\n(g)in the case of a term loan —\n(i)the frequency of the instalment payments if the borrower does not default on any payment;\n(ii)the amount of each such instalment payment;\n(iii)the portions of each such instalment payment that will be appropriated to repayment of the principal and payment of the interest (excluding late interest); and\n(iv)the total number of instalments and the total amount the borrower will pay over the entire term of the loan if the borrower does not default on any payment."
+   }
+  },
+  {
+   "id": "SG-H3254-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 REGULATION OF BUSINESS OF MONEYLENDING"
+   },
+   "heading": {
+    "en": "Loan application"
+   },
+   "text": {
+    "en": "9.—(1) A licensee must not grant a loan to a borrower unless it has received from the borrower a duly completed application form which states all of the following:\n(a)particulars of the borrower, namely —\n(i)if the borrower is an individual — the borrower’s full name (including any alias), date of birth, personal identification number (such as his or her NRIC number, birth certificate number or passport number), nationality, residential address, email address (if any) and telephone number;\n(ii)if the borrower is a body corporate — its name, address of its place of business or registered office, email address (if any), telephone number, date and place of incorporation and incorporation number, and the names, personal identification numbers and residential addresses of its substantial shareholders, directors and persons employed in an executive capacity; or\n(iii)if the borrower is a partnership, limited liability partnership or unincorporated association — its name, address of its place of business or registered office, email address (if any), telephone number, date and place of registration and registration number, the names, personal identification numbers and residential addresses of its partners who are individuals (if applicable) and persons employed in an executive capacity, and the names, places of incorporation, incorporation numbers and addresses of the places of business or registered offices of its partners which are corporations (if applicable);\n(b)the particulars mentioned in sub‑paragraph (a) of the surety;\n(c)if the borrower is an individual — the total income of the borrower during the 3 months immediately preceding the month in which the application for the loan is made;\n(d)the amount of the loan applied for;\n(e)whether the borrower is applying for a business loan.\n(2) The licensee must —\n(a)require the borrower to provide either or a combination of the following in support of all the information provided in the loan application form:\n(i)genuine, complete and up‑to‑date documents that authenticate the information;\n(ii)the same or supporting information relating to the borrower maintained by a public body, and obtained by the borrower from the public body either directly or through an Internet platform provided by the Government Technology Agency for the sharing of information maintained by one or more public bodies with persons (such as the Internet platform commonly known as “Myinfo”); and\n(b)verify the information provided in the loan application form against the documents or information mentioned in sub‑paragraph (a)(i) or (ii), as the case may be.\n(3) The licensee must extend a copy of the duly completed loan application form to the borrower, and another copy thereof to the borrower’s surety (if any), at the time the loan is granted.\n(4) A licensee which contravenes paragraph (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.\n(5) This rule does not affect —\n(a)any duty of the moneylender to obtain any information that may be necessary to enable the moneylender to comply with section 66(1) and (4)(a)(i) of the Act and rules 19, 20 and 21; and\n(b)the provisions of the Moneylenders (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Rules 2009.\n(6) In this rule —\n“Government Technology Agency” means the Government Technology Agency established by section 3 of the Government Technology Agency Act 2016;\n“public body” means a body corporate established by a public Act for the purposes of a public function but excludes a Town Council established under section 4 of the Town Councils Act 1988."
+   }
+  },
+  {
+   "id": "SG-H3254-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 REGULATION OF BUSINESS OF MONEYLENDING"
+   },
+   "heading": {
+    "en": "Note of contract for loan"
+   },
+   "text": {
+    "en": "10. The note of a contract for a loan mentioned in section 33(1)(a) of the Act must be in Form 1 or a form which includes all the terms and particulars in that Form, whether worded in the same way or differently but to the same effect."
+   }
+  },
+  {
+   "id": "SG-H3254-A10.001",
+   "no": 10.001,
+   "noLabel": {
+    "en": "10A."
+   },
+   "chapter": {
+    "en": "PART 2 REGULATION OF BUSINESS OF MONEYLENDING"
+   },
+   "heading": {
+    "en": "Repayment instalments and intervals"
+   },
+   "text": {
+    "en": "10A.—(1) Every contract for a loan must provide for the payment of equal instalments at equal intervals of time.\n(2) Paragraph (1) does not apply to any of the following loans:\n(a)any revolving credit loan;\n(b)any secured loan;\n(c)any business loan."
+   }
+  },
+  {
+   "id": "SG-H3254-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 REGULATION OF BUSINESS OF MONEYLENDING"
+   },
+   "heading": {
+    "en": "Maximum rate of interest and late interest"
+   },
+   "text": {
+    "en": "11.—(1) The maximum rate of interest mentioned in section 36(1) of the Act is the nominal interest rate of 4% per month.\n(2) The interest charged on the loan is to be computed based on the monthly outstanding balance of principal remaining after deducting from the original principal the total payments made by or on behalf of the borrower which are appropriated to principal.\n(3) The maximum rate of late interest mentioned in section 36(1) of the Act is the nominal interest rate of 4% per month.\n(4) The late interest is to be computed based on the monthly outstanding balance of the amount of principal or interest or both that is overdue.\n(5) To avoid doubt, late interest is charged only on an amount that has fallen due and is not paid."
+   }
+  },
+  {
+   "id": "SG-H3254-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 REGULATION OF BUSINESS OF MONEYLENDING"
+   },
+   "heading": {
+    "en": "Permitted fees"
+   },
+   "text": {
+    "en": "12.—(1) For the purposes of section 35 of the Act, a licensee may impose in respect of every loan (other than a business loan) granted by the licensee, the following costs, charges and expenses that have been agreed to by the borrower:\n(a)a fee for each occasion of late repayment of principal or late payment of interest (including any late interest), but not exceeding an aggregate of $60 per month;\n(b)a fee, not exceeding 10% of the principal of the loan, that is payable when a loan is granted;\n(c)legal costs incurred for the recovery of the loan, as may be ordered by a court to be paid to the licensee.\n(2) For the purposes of section 35 of the Act, a licensee may impose in respect of every business loan granted by the licensee, the following costs, charges and expenses that have been agreed to by the borrower:\n(a)a fee for each occasion of late repayment of principal or late payment of interest (including any late interest);\n(b)a fee for each occasion the terms of the contract for the loan are varied at the request of the borrower;\n(c)a fee for every cheque drawn by or on behalf of the borrower which is dishonoured by the bank on which it is drawn when presented by the licensee;\n(d)a fee for every unsuccessful deduction from a bank account through interbank GIRO for payment by or on behalf of a borrower to the licensee;\n(e)in the case of a term loan, a fee for the early redemption (whether partial or in full) of the loan, and a fee for the early termination of the contract (whether due to the default of the borrower, redemption of the loan or otherwise) for the loan;\n(f)legal costs incurred for the recovery of the loan, as may be ordered by a court to be paid to the licensee."
+   }
+  },
+  {
+   "id": "SG-H3254-A12.001",
+   "no": 12.001,
+   "noLabel": {
+    "en": "12A."
+   },
+   "chapter": {
+    "en": "PART 2 REGULATION OF BUSINESS OF MONEYLENDING"
+   },
+   "heading": {
+    "en": "Maximum amount for aggregate of interest, late interest and permitted fees"
+   },
+   "text": {
+    "en": "12A. Despite rules 11 and 12, a licensee must not recover from a borrower of a loan, on account of interest, late interest or any fee permitted under rule 12(1)(a) or (b), an aggregate amount exceeding —\n(a)in the case of a revolving credit loan granted on or after 30 November 2018 — the amount that has been drawn down and not repaid at the time of the recovery; or\n(b)in any other case — the principal of the loan."
+   }
+  },
+  {
+   "id": "SG-H3254-A12.002",
+   "no": 12.002,
+   "noLabel": {
+    "en": "12B."
+   },
+   "chapter": {
+    "en": "PART 2 REGULATION OF BUSINESS OF MONEYLENDING"
+   },
+   "heading": {
+    "en": "Non-application of rules 11 and 12A to business loans"
+   },
+   "text": {
+    "en": "12B. Rules 11(1) and (3) and 12A do not apply to a business loan granted by a licensee."
+   }
+  },
+  {
+   "id": "SG-H3254-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 REGULATION OF BUSINESS OF MONEYLENDING"
+   },
+   "heading": {
+    "en": "Statements of account"
+   },
+   "text": {
+    "en": "13.—(1) The statement of account for a loan required under section 34(1) of the Act to be supplied by a licensee to every borrower must be in Form 2 and must contain the following particulars:\n(a)the business name of the licensee;\n(b)the address and telephone number of the place of business of the licensee at which the loan was granted;\n(c)the date on which the loan was granted, the principal or credit limit of the loan, the nominal interest rate and the amount of interest charged;\n(d)in the case of a revolving credit loan, a list of the amount and date of every drawdown during the statement period;\n(e)a list of every item of interest (including late interest) and permitted fees (if any) payable by the borrower, the amount of each item, and the date each amount was payable during the statement period;\n(f)a list of payments in respect of the loan received by the licensee during the statement period;\n(g)the portions of each payment mentioned in sub‑paragraph (f) appropriated to the repayment of principal, the payment of interest (including late interest) and the payment of permitted fees (if any);\n(h)the total principal, interest (including late interest) and permitted fees (if any) outstanding as at the date the statement is prepared.\n(2) In paragraph (1), “statement period”, in relation to a statement of account for a loan, means the period starting on the date on which the loan was granted and ending on the date on which the statement of account is prepared."
+   }
+  },
+  {
+   "id": "SG-H3254-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 2 REGULATION OF BUSINESS OF MONEYLENDING"
+   },
+   "heading": {
+    "en": "Receipt for payment"
+   },
+   "text": {
+    "en": "14.—(1) For the purposes of section 34(6) of the Act, a licensee who receives a cash payment from or on behalf of a borrower under a contract for a loan must set out in the English language in the receipt issued by the licensee under section 34(4) of the Act, the following additional information:\n(a)the loan account number of the loan;\n(b)the portions of the payment appropriated to the repayment of the principal, the payment of interest (including late interest) and the payment of permitted fees (if any);\n(c)the outstanding amount of the loan (including interest, late interest and any permitted fees) as at the date that the receipt is issued.\n(2) A licensee who receives any payment other than in cash from or on behalf of a borrower under a contract for a loan must, within 7 business days after the date of the payment, issue to the borrower a receipt which sets out in the English language —\n(a)the business name of the licensee and the address of the place of business of the licensee at which the loan was granted;\n(b)the amount paid and the date of the payment;\n(c)the loan account number of the loan;\n(d)the portions of the payment appropriated to the repayment of principal, the payment of interest (including late interest) and the payment of permitted fees (if any); and\n(e)the outstanding amount of the loan (including interest, late interest and any permitted fees) as at the date that the receipt is issued.\n(3) The receipt mentioned in paragraph (2) may be delivered —\n(a)by prepaid post to such address in Singapore, or by electronic communication to such email address, as specified by the borrower; or\n(b)by any other means agreed between the licensee and the borrower for the delivery of the receipt.\n(4) Any licensee who, without reasonable excuse, contravenes paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000."
+   }
+  },
+  {
+   "id": "SG-H3254-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 2 REGULATION OF BUSINESS OF MONEYLENDING"
+   },
+   "heading": {
+    "en": "Cash account book"
+   },
+   "text": {
+    "en": "15.—(1) The cash account book mentioned in section 38(1)(c)(i) of the Act must be in Form 3 and kept in electronic form.\n(2) The amount of every sum received or paid by a licensee in respect of its business of moneylending must be entered in the cash account book —\n(a)at the time of the receipt or payment; and\n(b)in a chronological order.\n(3) The accounts of a licensee in the cash account book must be balanced on a daily basis, and the accounts for each day must be so balanced not later than 14 days from the end of the month in which that day falls.\n(4) A licensee which contravenes paragraph (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H3254-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 2 REGULATION OF BUSINESS OF MONEYLENDING"
+   },
+   "heading": {
+    "en": "Loan account book"
+   },
+   "text": {
+    "en": "16.—(1) The loan account book mentioned in section 38(1)(c)(ii) of the Act must be in Form 4 and kept in electronic form.\n(2) A licensee must keep or cause to be kept its loan account book in the following manner:\n(a)a separate account must be kept for each loan in the book;\n(b)the accounts for the loans must be kept in a chronological order;\n(c)the loans must be numbered consecutively in the book;\n(d)every amount of repayment or sum paid to account —\n(i)must be entered in the book as it occurs together with the date of its occurrence and a reference to the relevant entry of the cash account book mentioned in section 38(1)(c)(i) of the Act; and\n(ii)must be appropriated in the book to principal, interest (including late interest) and permitted fees (if any);\n(e)when a loan is fully repaid or settled, an entry to that effect must be made in the book and its account must be closed;\n(f)when a loan is renewed, an entry must be made to that effect in the book, the account for the loan before its renewal must be closed and the balance transferred to the account of the renewed loan.\n(3) A licensee which contravenes paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H3254-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 2 REGULATION OF BUSINESS OF MONEYLENDING"
+   },
+   "heading": {
+    "en": "List of borrowers"
+   },
+   "text": {
+    "en": "17.—(1) The list of borrowers mentioned in section 38(1)(c)(iii) of the Act must set out the following particulars of every borrower to whom the licensee has granted one or more loans:\n(a)the name of the borrower in full;\n(b)the borrower’s personal identification number (such as the borrower’s NRIC number, birth certificate number or passport number) or incorporation or registration number (as the case may be);\n(c)the account number or numbers of the loan or loans.\n(2) The licensee must enter or cause to be entered in the list of borrowers the names of the borrowers in an alphabetical order according to their surnames.\n(3) The list of borrowers must be kept in electronic form.\n(4) A licensee which contravenes paragraph (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H3254-A17.001",
+   "no": 17.001,
+   "noLabel": {
+    "en": "17A."
+   },
+   "chapter": {
+    "en": "PART 2 REGULATION OF BUSINESS OF MONEYLENDING"
+   },
+   "heading": {
+    "en": "Statements under section 38(5) of Act"
+   },
+   "text": {
+    "en": "17A.—(1) A licensee must submit to the Registrar, not later than 14 days after the end of each quarter of a year starting from the first day of January, April, July or October of the year —\n(a)the statement mentioned in section 38(5)(a) of the Act for that quarter; and\n(b)the statement mentioned in section 38(5)(b) of the Act for that quarter.\n(2) The statement mentioned in section 38(5)(a) of the Act must be in Form 5.\n(3) The statement mentioned in section 38(5)(b) of the Act must be in Form 6.\n(4) Each statement mentioned in section 38(5) of the Act must be submitted to the Registrar using the electronic filing system which is to be accessed through the website specified by the Registrar for the purposes of this paragraph.\n(5) Any statement submitted by means of the electronic filing system is considered to have been submitted to and received by the Registrar if the last byte of the transmission containing the statement (as the case may be) is received by the server designated by the Registrar for the receipt of such transmissions.\n(6) Any licensee who submits to the Registrar any statement by means of the electronic filing system may produce a record of transmission issued through the electronic filing system together with a copy of the notification of acceptance of the transmission by the Registrar as evidence of —\n(a)the submission of the statement; and\n(b)the date and time the submission took place.\n(7) In the event of any failure or unavailability of or interruption to the electronic filing system, any statement mentioned in section 38(5) of the Act must, during the period of such failure, unavailability or interruption, be submitted in such manner as the Registrar may specify for the purposes of this paragraph."
+   }
+  },
+  {
+   "id": "SG-H3254-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 UNSECURED LOANS"
+   },
+   "heading": {
+    "en": "Definitions of this Part"
+   },
+   "text": {
+    "en": "18.—(1) In this Part —\n“affiliated corporation”, in relation to a moneylender that is a corporation, means —\n(a)its related corporation incorporated in Singapore; or\n(b)its related corporation incorporated outside Singapore that has a branch or office in Singapore;\n“debt consolidation loan” means a loan granted by a licensee to a borrower under a debt consolidation scheme, for the purpose of enabling the borrower to repay all outstanding amounts owed by the borrower under all loans granted to the borrower by all licensees;\n“debt consolidation scheme” means a scheme under which —\n(a)a voluntary welfare organisation negotiates with a licensee on behalf of a borrower to obtain a debt consolidation loan from the licensee; and\n(b)the borrower undertakes not to apply for another loan from the same licensee or any other licensee for the duration of the scheme;\n“foreign borrower” means a borrower who holds any of the following passes:\n(a)a work pass issued under section 7 of the Employment of Foreign Manpower Act 1990;\n(b)a dependant’s pass issued under regulation 11 of the Immigration Regulations (Rg 1);\n(c)a visit pass issued under regulation 12 of the Immigration Regulations that permits the holder to remain in Singapore for a continuous period of more than 90 days;\n(d)a student’s pass issued under regulation 14 of the Immigration Regulations;\n“moneylender” means a licensed moneylender or an exempt moneylender;\n“permanent resident” means the holder of a valid entry permit issued under section 10 of the Immigration Act 1959;\n“related corporation” has the meaning given by the Companies Act 1967;\n“Singapore borrower” means a borrower who is a citizen of Singapore or a permanent resident;\n“unsecured loan” means any loan given without security or, in respect of any loan given with security, any part of the loan which exceeds the market value of the assets constituting the security at the time of the application for the loan;\n“voluntary welfare organisation” means —\n(a)any organisation that is a sector member as defined in section 2 of the National Council of Social Service Act 1992;\n[S 543/2026 wef 01/08/2026]\n(b)an institution that is registered as a charity under section 7 of the Charities Act 1994; or\n(c)an institution of a public character as defined in section 40 of the Charities Act 1994.\n(2) In this Part, a reference to a loan granted by an affiliated corporation of a moneylender means, in the case of an affiliated corporation referred to in paragraph (b) of the definition of “affiliated corporation”, a loan granted using the branch or office of the affiliated corporation in Singapore."
+   }
+  },
+  {
+   "id": "SG-H3254-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 UNSECURED LOANS"
+   },
+   "heading": {
+    "en": "Unsecured loans by exempt moneylenders for persons with minimum income or assets"
+   },
+   "text": {
+    "en": "19.—(1) Subject to paragraph (2), an exempt moneylender must not grant any unsecured loan to a Singapore borrower, if the total of the following exceeds $3,000:\n(a)the Singapore borrower’s share of the amount of the unsecured loan;\n(b)the Singapore borrower’s share of the outstanding amount of every unsecured loan previously granted by the exempt moneylender (including, if the exempt moneylender is a corporation, its affiliated corporation) to the Singapore borrower.\n(2) Paragraph (1) does not apply if the annual income of the Singapore borrower is at least $20,000, or the total net personal assets of the Singapore borrower exceeds $2 million.\n(3) Any exempt moneylender who, without reasonable excuse, contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)in the case where the offender is an individual — to a fine not exceeding $10,000; and\n(b)in any other case — to a fine not exceeding $20,000."
+   }
+  },
+  {
+   "id": "SG-H3254-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 UNSECURED LOANS"
+   },
+   "heading": {
+    "en": "Unsecured loans by exempt moneylenders for persons with annual income of at least $20,000"
+   },
+   "text": {
+    "en": "20.—(1) An exempt moneylender must not grant any unsecured loan to a Singapore borrower if this will result in the outstanding unsecured loan amount of the Singapore borrower exceeding —\n(a)in a case where the annual income of the Singapore borrower is at least $30,000 — 4 months’ income of the borrower; or\n(b)in a case where the annual income of the Singapore borrower is at least $20,000 but less than $30,000 — 2 months’ income of the borrower.\n(2) For the purposes of this rule, the outstanding unsecured loan amount of a Singapore borrower is the total of the following:\n(a)the Singapore borrower’s share of the amount of the unsecured loan mentioned in paragraph (1);\n(b)the Singapore borrower’s share of the outstanding amount of every unsecured loan previously granted by the exempt moneylender (including, if the exempt moneylender is a corporation, its affiliated corporation) to the Singapore borrower.\n(3) In determining whether the outstanding unsecured loan amount of a Singapore borrower exceeds the amount of income mentioned in paragraph (1)(a) or (b), any interest (including late interest) and fees (including late payment fees) imposed by the exempt moneylender or its affiliated corporation are to be disregarded.\n(4) Any exempt moneylender who, without reasonable excuse, contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)in a case where the offender is an individual, to a fine not exceeding $10,000; and\n(b)in any other case, to a fine not exceeding $20,000.\n(5) This rule does not apply if the Singapore borrower has an annual income of at least $120,000 or has total net personal assets which exceed $2 million."
+   }
+  },
+  {
+   "id": "SG-H3254-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 UNSECURED LOANS"
+   },
+   "heading": {
+    "en": "Unsecured loans by licensees"
+   },
+   "text": {
+    "en": "21.—(1) A licensee must not grant any unsecured loan (except a debt consolidation loan) to a Singapore borrower whose annual income is less than $20,000 if the total of the following amounts exceeds $3,000:\n(a)the Singapore borrower’s share of the amount of the unsecured loan;\n(b)the outstanding unsecured loan amount of the Singapore borrower.\n(2) A licensee must not grant any unsecured loan (except a debt consolidation loan) to a Singapore borrower or foreign borrower whose annual income is at least $20,000 if the total of the following amounts exceeds 6 months’ income of the Singapore borrower or foreign borrower, as the case may be:\n(a)the Singapore borrower’s or foreign borrower’s share of the amount of the unsecured loan;\n(b)the outstanding unsecured loan amount of the Singapore borrower or foreign borrower.\n(3) A licensee must not grant any unsecured loan (except a debt consolidation loan) to a foreign borrower whose annual income is less than $10,000 if the total of the following amounts exceeds $500:\n(a)the foreign borrower’s share of the amount of the unsecured loan;\n(b)the outstanding unsecured loan amount of the foreign borrower.\n(4) A licensee must not grant any unsecured loan (except a debt consolidation loan) to a foreign borrower whose annual income is at least $10,000 but less than $20,000 if the total of the following amounts exceeds $3,000:\n(a)the foreign borrower’s share of the amount of the unsecured loan;\n(b)the outstanding unsecured loan amount of the foreign borrower.\n(5) A licensee which, without reasonable excuse, contravenes paragraph (1), (2), (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.\n(6) In paragraphs (1) to (4) —\n“6 months’ income”, in relation to a Singapore borrower or foreign borrower, means where Y is the total income of the Singapore borrower or foreign borrower during the 3 months immediately preceding the month in which the application for the unsecured loan is made;\n“annual income”, in relation to a Singapore borrower or foreign borrower, means where Y is the total income of the Singapore borrower or foreign borrower during the 3 months immediately preceding the month in which the application for the unsecured loan is made;\n“outstanding unsecured loan amount”, in relation to a Singapore borrower or foreign borrower, means the amount reflected in the credit report obtained under section 66(5)(b) of the Act in relation to the Singapore borrower or foreign borrower as the aggregate of the Singapore borrower’s or foreign borrower’s share of the outstanding amount (excluding any interest, late interest or fee) of every unsecured loan previously granted by a licensee to the Singapore borrower or foreign borrower, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H3254-A21.001",
+   "no": 21.001,
+   "noLabel": {
+    "en": "21A."
+   },
+   "chapter": {
+    "en": "PART 3 UNSECURED LOANS"
+   },
+   "heading": {
+    "en": "No unsecured loan to excluded person"
+   },
+   "text": {
+    "en": "21A.—(1) A licensee must not grant an unsecured loan (except a debt consolidation loan) to an individual if the credit report obtained by the licensee under section 66(5)(b) of the Act in relation to the individual reflects that the individual is an excluded person.\n(2) A licensee which contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000."
+   }
+  },
+  {
+   "id": "SG-H3254-A21.002",
+   "no": 21.002,
+   "noLabel": {
+    "en": "21B."
+   },
+   "chapter": {
+    "en": "PART 3 UNSECURED LOANS"
+   },
+   "heading": {
+    "en": "Prohibition of foreign sureties for unsecured loans"
+   },
+   "text": {
+    "en": "21B.—(1) A licensee must not grant an unsecured loan for which a person who is not a citizen of Singapore or a permanent resident is or is proposed to be a surety.\n(2) A licensee who grants an unsecured loan in contravention of paragraph (1) —\n(a)knowing that a surety for that loan is not a citizen of Singapore or a permanent resident; or\n(b)recklessly or negligently failing to ascertain whether a surety for that loan is a citizen of Singapore or a permanent resident,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000."
+   }
+  },
+  {
+   "id": "SG-H3254-A21.003",
+   "no": 21.003,
+   "noLabel": {
+    "en": "21C."
+   },
+   "chapter": {
+    "en": "PART 3 UNSECURED LOANS"
+   },
+   "heading": {
+    "en": "Restrictions on unsecured loans to foreign borrowers"
+   },
+   "text": {
+    "en": "21C.—(1) A licensee must not grant any applicable unsecured loan to a foreign borrower whose annual income is below $30,000 if, at the time the licensee intends to grant that loan, the aggregate of the outstanding loan amounts for all foreign borrowers of the licensee, each whose annual income is below $30,000, is $80,000 or more.\n(2) A licensee must not, in an applicable year, grant applicable unsecured loans to more than 35 foreign borrowers each whose annual income is below $40,000.\n(3) For the purposes of paragraphs (1) and (2), where a licensee grants an applicable unsecured loan to a foreign borrower as a joint borrower with any other person, the foreign borrower is regarded as one foreign borrower.\n(4) For the purposes of paragraph (2), a foreign borrower to whom a licensee grants one or more applicable unsecured loans in an applicable year is regarded as one foreign borrower.\n(5) A licensee who grants an applicable unsecured loan to a foreign borrower knowing that, or recklessly or negligently failing to ascertain whether, the granting of that loan is in contravention of paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.\n(6) In this rule —\n“annual income” has the meaning given by rule 21(6);\n“applicable unsecured loan” means any unsecured loan except a debt consolidation loan;\n“applicable year” means —\n(a)the period of 12 months starting on 1 January 2023; and\n(b)every 12‑month period after the end of the period in paragraph (a);\n“outstanding loan amount”, in relation to a foreign borrower, means the amount reflected in the loan account book kept, or caused to be kept, by the licensee under section 38(1)(c)(ii) of the Act as the aggregate of the foreign borrower’s share of the outstanding amount (excluding any interest, late interest or fee) of every applicable unsecured loan previously granted by that licensee to that foreign borrower."
+   }
+  },
+  {
+   "id": "SG-H3254-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 3 UNSECURED LOANS"
+   },
+   "heading": {
+    "en": "Merger or consolidation of, or acquisition by, moneylender"
+   },
+   "text": {
+    "en": "22.—(1) Subject to paragraph (2), a moneylender who has granted a loan to a Singapore borrower or foreign borrower must give written notice to the Registrar before the moneylender or (if it is a corporation) any of its affiliated corporations —\n(a)merges or consolidates with another moneylender that has granted a loan to that Singapore borrower or foreign borrower; or\n(b)acquires all the shares in, or the business of, another moneylender that has granted a loan to that Singapore borrower or foreign borrower.\n(2) Paragraph (1) does not apply to —\n(a)a merger or consolidation between a licensee (or any of its affiliated corporations) and another licensee; or\n(b)the acquisition by a licensee (or any of its affiliated corporations) of all the shares in, or the business of, another licensee.\n(3) Any moneylender who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)in the case where the offender is an individual — to a fine not exceeding $10,000; and\n(b)in any other case — to a fine not exceeding $20,000."
+   }
+  },
+  {
+   "id": "SG-H3254-A22.001",
+   "no": 22.001,
+   "noLabel": {
+    "en": "22A."
+   },
+   "chapter": {
+    "en": "PART 3A RULES FOR PURPOSES OF PART 3A OF ACT"
+   },
+   "heading": {
+    "en": "Prescribed period of notice for application by designated credit bureau to cancel designation"
+   },
+   "text": {
+    "en": "22A. For the purposes of section 59(1) of the Act, the prescribed period is 12 months."
+   }
+  },
+  {
+   "id": "SG-H3254-A22.002",
+   "no": 22.002,
+   "noLabel": {
+    "en": "22B."
+   },
+   "chapter": {
+    "en": "PART 3A RULES FOR PURPOSES OF PART 3A OF ACT"
+   },
+   "heading": {
+    "en": "Prescribed information to be obtained by licensee"
+   },
+   "text": {
+    "en": "22B. The following information in relation to a loan is prescribed for the purposes of section 66(1)(d) of the Act:\n(a)if the applicant is an individual —\n(i)whether the applicant —\n(A)is employed or self‑employed;\n(B)is a platform worker within the meaning given by section 5(1) of the Platform Workers Act 2024; or\n(C)is unemployed and is not a platform worker;\n(ii)the total income of the applicant during the 3 months immediately preceding the month in which the application for the loan is made; and\n(iii)whether the applicant is an excluded person;\n(b)if the applicant is not an individual — whether it is a corporation, an unincorporated association, a partnership, a limited liability partnership or other entity;\n(c)in addition to the information required to be obtained under section 66A(2)(a) read with section 66(1) of the Act, the following information relating to any proposed surety for the loan:\n(i)the amount of the loan that the proposed surety is to be liable for under the contract for the loan in the event of default by the borrower;\n(ii)if the proposed surety is not an individual — whether it is a corporation, an unincorporated association, a partnership, a limited liability partnership or other entity."
+   }
+  },
+  {
+   "id": "SG-H3254-A22.003",
+   "no": 22.003,
+   "noLabel": {
+    "en": "22C."
+   },
+   "chapter": {
+    "en": "PART 3A RULES FOR PURPOSES OF PART 3A OF ACT"
+   },
+   "heading": {
+    "en": "Prescribed time for submitting information to designated credit bureau and requesting for credit report, etc."
+   },
+   "text": {
+    "en": "22C.—(1) For the purposes of section 66(3) of the Act, the prescribed time is within the day on which the application mentioned in that provision is received.\n(2) For the purposes of section 66(5)(a) of the Act, the prescribed time is within the day on which the loan application mentioned in that provision is received.\n(3) For the purposes of section 66(5)(b) of the Act, the prescribed time is within one day before the loan mentioned in that provision is granted.\n(4) For the purposes of section 66(7)(b) of the Act, the prescribed time is within the day on which the licensee declines to grant the loan mentioned in that provision.\n(5) For the purposes of section 68(1) of the Act —\n(a)the time within which information relating to any repayment of a loan or any instalment of repayment of a loan must be submitted is 7 business days after the repayment or instalment of repayment is made; and\n(b)the time within which information relating to the writing off of any debt arising from a loan granted by a licensee must be submitted is 7 business days after the licensee writes off the debt in the licensee’s book."
+   }
+  },
+  {
+   "id": "SG-H3254-A22.079",
+   "no": 22.079,
+   "noLabel": {
+    "en": "22CA."
+   },
+   "chapter": {
+    "en": "PART 3A RULES FOR PURPOSES OF PART 3A OF ACT"
+   },
+   "heading": {
+    "en": "Prescribed credit bureau"
+   },
+   "text": {
+    "en": "22CA. For the purposes of section 69(3A)(b)(i) of the Act, each of the following is a prescribed credit bureau:\n(a)Credit Association of Singapore (UEN T05SS0239E);\n(b)Dun & Bradstreet (Singapore) Pte. Ltd. (UEN 200003058W);\n(c)Experian Credit Services Singapore Pte. Ltd. (UEN 198302653E);\n(d)Singapore Commercial Credit Bureau Pte. Ltd. (UEN 200507319E)."
+   }
+  },
+  {
+   "id": "SG-H3254-A22.08",
+   "no": 22.08,
+   "noLabel": {
+    "en": "22CB."
+   },
+   "chapter": {
+    "en": "PART 3A RULES FOR PURPOSES OF PART 3A OF ACT"
+   },
+   "heading": {
+    "en": "Prescribed person"
+   },
+   "text": {
+    "en": "22CB. For the purposes of section 69(3A)(b)(ii) of the Act, each of the following is a prescribed person:\n(a)Adullam Life Counselling (UEN T13SS0070F);\n(b)Arise2Care Community Services Limited (UEN 201632622G);\n(c)Association of Muslim Professionals (UEN 199105100D);\n(d)Blessed Grace Social Services Limited (UEN 201407233M);\n(e)Credit Counselling Singapore (UEN 201607267C)."
+   }
+  },
+  {
+   "id": "SG-H3254-A22.004",
+   "no": 22.004,
+   "noLabel": {
+    "en": "22D."
+   },
+   "chapter": {
+    "en": "PART 3A RULES FOR PURPOSES OF PART 3A OF ACT"
+   },
+   "heading": {
+    "en": "Prescribed period for investigation and correction, etc., of borrower information by licensee"
+   },
+   "text": {
+    "en": "22D.—(1) For the purposes of section 71(2)(b) of the Act, the period within which the licensee in question must conduct and complete the investigation relating to borrower information is 3 business days after receiving a request for correction of that borrower information under section 71(1) of the Act.\n(2) For the purposes of section 71(2)(c) of the Act, the period within which a licensee must correct the borrower information in question and send the corrected borrower information to the designated credit bureau is 3 business days after completing the investigation mentioned in section 71(2)(b) of the Act in relation to that borrower information.\n(3) For the purposes of section 71(3)(b) of the Act, the period within which a licensee must conduct and complete the investigation relating to borrower information on the request of the designated credit bureau is 3 business days after receiving the request under section 78(3)(b) of the Act in relation to that borrower information.\n(4) For the purposes of section 71(3)(c) of the Act, the period within which a licensee must correct the borrower information mentioned in section 71(3)(c)(i) of the Act and send the corrected borrower information to the designated credit bureau is 3 business days after completing the investigation relating to that borrower information."
+   }
+  },
+  {
+   "id": "SG-H3254-A22.005",
+   "no": 22.005,
+   "noLabel": {
+    "en": "22E."
+   },
+   "chapter": {
+    "en": "PART 3A RULES FOR PURPOSES OF PART 3A OF ACT"
+   },
+   "heading": {
+    "en": "Contents, preparation and delivery of credit report"
+   },
+   "text": {
+    "en": "22E.—(1) For the purposes of section 74(1)(a) of the Act, the information to be contained in a credit report in relation to a person (called in this rule the loan applicant) is as follows:\n(a)if the loan applicant is an individual —\n(i)the loan applicant’s full name (including any alias), personal identification number (such as his or her NRIC number, birth certificate number or passport number) and nationality;\n(ii)whether the loan applicant —\n(A)is employed or self‑employed;\n(B)is a platform worker within the meaning given by section 5(1) of the Platform Workers Act 2024; or\n(C)is unemployed and is not a platform worker; and\n(iii)the total income of the loan applicant during the 3 months immediately preceding the month in which the application for the loan is made;\n(b)if the loan applicant is not an individual —\n(i)the loan applicant’s name and Unique Entity Number (UEN); and\n(ii)whether it is a corporation, an unincorporated association, a partnership, a limited liability partnership or other entity;\n(c)the following particulars relating to every loan previously granted by a licensee to the loan applicant that is outstanding:\n(i)for every instalment of repayment of the loan that has fallen due, whether or not the instalment was paid on time;\n(ii)the loan applicant’s share of the outstanding amount of the loan (including any interest, late interest and fees);\n(d)the aggregate of the loan applicant’s share of the outstanding amount of every secured loan previously granted by a licensee to the loan applicant, both including and excluding any interest, late interest and fees;\n(e)the aggregate of the loan applicant’s share of the outstanding amount of every unsecured loan previously granted by a licensee to the loan applicant, both including and excluding any interest, late interest and fees;\n(f)where the loan applicant is a surety in relation to any outstanding secured loan previously granted by a licensee to another person — the aggregate of the outstanding amount of every such loan that the loan applicant may be liable for under the contract for the loan, both including and excluding any interest, late interest and fees;\n(g)where the loan applicant is a surety in relation to any outstanding unsecured loan previously granted by a licensee to another person — the aggregate of the outstanding amount of every such loan that the loan applicant may be liable for under the contract for the loan, both including and excluding any interest, late interest and fees;\n(h)if the loan applicant is an individual —\n(i)where the designated credit bureau has been informed by a licensee that the loan applicant is an excluded person — that the loan applicant is an excluded person;\n(ii)the aggregate of the loan applicant’s share of the amount of every unsecured loan for which there is any pending application made to a licensee by the loan applicant; and\n(iii)the maximum amount that may comprise the loan applicant’s share of the loan applied for, beyond which the licensee who requested the credit report may contravene rule 21(1), (2), (3) or (4) (whichever is applicable) by granting the loan, as computed by the designated credit bureau using the latest information on the income of the loan applicant obtained and submitted by that licensee;\n(i)the date and time of the request for the credit report in question.\n(2) In paragraph (1), a reference to a loan previously granted by a licensee to a loan applicant or for which a loan applicant is a surety is a reference to a loan so granted —\n(a)before the request for a credit report in relation to the loan applicant is received; and\n(b)by a person who was a licensee at the time the loan was granted and on 30 November 2018, whether or not the person is still a licensee at the time the request for the credit report is received.\n(3) For the purposes of section 74(1)(b) and (3)(a) of the Act, the time within which the designated credit bureau must prepare and deliver the credit report requested for by a licensee under section 66(5)(a) of the Act is one day after receiving the request."
+   }
+  },
+  {
+   "id": "SG-H3254-A22.131",
+   "no": 22.131,
+   "noLabel": {
+    "en": "22EA."
+   },
+   "chapter": {
+    "en": "PART 3A RULES FOR PURPOSES OF PART 3A OF ACT"
+   },
+   "heading": {
+    "en": "Prescribed information that business report must not contain"
+   },
+   "text": {
+    "en": "22EA.—(1) For the purposes of section 74A(2) of the Act, a business report in relation to a licensee must not contain any personal information relating to an applicant for a loan, borrower or surety that was not provided to the designated credit bureau by the licensee.\n(2) In this rule —\n“officer” has the meaning given by section 89(5) of the Act;\n“personal information” means —\n(a)if the applicant for a loan, borrower or surety is an individual — the individual’s full name (including any alias), date of birth, personal identification number (namely his or her NRIC number, birth certificate number, foreign identification number or passport number), nationality, residential address, email address (if any) and telephone number;\n(b)if the applicant for a loan, borrower or surety is a limited liability partnership —\n(i)its name, address of its place of business or registered office, email address (if any), telephone number, date and place of registration and registration number;\n(ii)the names, personal identification numbers (namely NRIC number, birth certificate number, foreign identification number or passport number) and residential addresses of its officers and employees; and\n(iii)the names, places of incorporation, incorporation numbers and addresses of the places of business or registered offices of its partners which are corporations, if any;\n(c)if the applicant for a loan, borrower or surety is a body corporate (other than a limited liability partnership) —\n(i)its name, address of its place of business or registered office, email address (if any), telephone number, date and place of incorporation and incorporation number;\n(ii)the names, personal identification numbers (namely NRIC number, birth certificate number, foreign identification number or passport number) and residential addresses of its officers, employees and substantial shareholders who are individuals, if any; and\n(iii)the names, places of incorporation, incorporation numbers and addresses of the places of business or registered offices of its substantial shareholders which are corporations, if any;\n(d)if the applicant for a loan, borrower or surety is a partnership (other than a limited liability partnership) —\n(i)its name, address of its place of business or registered office, email address (if any), telephone number, date and place of registration and registration number;\n(ii)the names, personal identification numbers (namely NRIC number, birth certificate number, foreign identification number or passport number) and residential addresses of its partners who are individuals (if any) and its employees; and\n(iii)the names, places of incorporation, incorporation numbers and addresses of the places of business or registered offices of its partners which are corporations, if any; and\n(e)if the applicant for a loan, borrower or surety is an unincorporated association (other than a partnership) —\n(i)its name, address of its place of business or registered office, email address (if any), telephone number, date and place of registration and registration number;\n(ii)the names, personal identification numbers (namely NRIC number, birth certificate number, foreign identification number or passport number) and residential addresses of its members who are individuals (if any) and its officers and employees; and\n(iii)the names, places of incorporation, incorporation numbers and addresses of the places of business or registered offices of its members which are corporations, if any."
+   }
+  },
+  {
+   "id": "SG-H3254-A22.006",
+   "no": 22.006,
+   "noLabel": {
+    "en": "22F."
+   },
+   "chapter": {
+    "en": "PART 3A RULES FOR PURPOSES OF PART 3A OF ACT"
+   },
+   "heading": {
+    "en": "Contents of loan information report"
+   },
+   "text": {
+    "en": "22F.—(1) For the purposes of section 77(1)(b) of the Act, the information to be contained in a loan information report is as follows:\n(a)if the person who has requested for a loan information report under section 77(1) of the Act (called in this rule the requestor) is an individual — the requestor’s full name (including any alias), personal identification number (such as his or her NRIC number, birth certificate number or passport number) and nationality;\n(b)if the requestor is not an individual —\n(i)the requestor’s name and its Unique Entity Number (UEN); and\n(ii)whether it is a corporation, an unincorporated association, a partnership, a limited liability partnership or other entity;\n(c)the following particulars relating to every loan previously granted by a licensee to the requestor that is outstanding:\n(i)the name of the licensee;\n(ii)for every instalment of repayment of the loan that has fallen due, whether or not the instalment was paid on time;\n(iii)the requestor’s share of the outstanding amount of the loan (including any interest, late interest and fees);\n(d)the aggregate of the requestor’s share of the outstanding amount of every secured loan previously granted by a licensee to the requestor, both including and excluding any interest, late interest and fees;\n(e)the aggregate of the requestor’s share of the outstanding amount of every unsecured loan previously granted by a licensee to the requestor, both including and excluding any interest, late interest and fees;\n(f)the aggregate of the requestor’s share of the amount of every unsecured loan for which there is any pending application made to a licensee by the requestor;\n(g)the date and time of the request for the loan information report in question.\n(2) In paragraph (1), a reference to a loan previously granted by a licensee to a requestor is a reference to a loan so granted —\n(a)before the request for the loan information report in relation to the requestor is received; and\n(b)by a person who was a licensee at the time the loan was granted and on 30 November 2018, whether or not the person is still a licensee at the time the request for the loan information report is received."
+   }
+  },
+  {
+   "id": "SG-H3254-A22.007",
+   "no": 22.007,
+   "noLabel": {
+    "en": "22G."
+   },
+   "chapter": {
+    "en": "PART 3A RULES FOR PURPOSES OF PART 3A OF ACT"
+   },
+   "heading": {
+    "en": "Prescribed manner and means of communications between licensees and designated credit bureau"
+   },
+   "text": {
+    "en": "22G.—(1) The designated credit bureau must provide an electronic service for —\n(a)the submission of information, requests and declarations by licensees to the designated credit bureau under the following sections of the Act:\n(i)section 66(3), (5)(a) and (7)(a)(i) and (ii) and (b);\n(ii)section 66A(5)(a) and (6); and\n(b)the delivery of credit reports by the designated credit bureau to licensees under section 74(1)(b) and (3)(a) of the Act.\n(2) For the purposes of the electronic service, the designated credit bureau must assign to every licensee —\n(a)an authentication code; and\n(b)an account with the electronic service.\n(3) Every licensee must submit any information, request or declaration mentioned in paragraph (1)(a) to the designated credit bureau by transmitting an electronic record of the information, request or declaration to the designated credit bureau through the electronic service.\n(4) The information, request or declaration is treated as having been submitted at the time when the electronic record is capable of being retrieved by the designated credit bureau.\n(5) The designated credit bureau must deliver any credit report to the licensee who has requested for it by transmitting an electronic record of the credit report to the licensee’s account with the electronic service.\n(6) The credit report is treated as having been delivered at the time when the electronic record of the credit report enters the licensee’s account with the electronic service.\n(7) Despite paragraphs (3) and (5), in the event of any failure or unavailability of or interruption of service affecting the electronic service, and during the period of such failure, unavailability or interruption —\n(a)the information, request or declaration required to be submitted by a licensee to the designated credit bureau must be submitted by sending the information, request or declaration —\n(i)by email to the email address of the designated credit bureau; or\n(ii)by fax to the fax number of the designated credit bureau; and\n(b)the credit report required to be delivered by the designated credit bureau to a licensee must be delivered by sending the credit report —\n(i)by email to the email address of the licensee; or\n(ii)by fax to the fax number of the licensee.\n(8) The submission of any information, request or declaration under paragraph (1)(a) or delivery of any credit report under paragraph (1)(b) by email takes effect —\n(a)if the information, request, declaration or credit report is sent by email — at the time that the email becomes capable of being retrieved by the intended recipient of the email; or\n(b)if the information, request, declaration or credit report is sent by fax — at the time a notification of successful transmission is received by the sender.\n(9) For the purposes of section 78(4) of the Act —\n(a)the prescribed means mentioned in that provision is by sending a request to conduct an investigation relating to borrower information (called in this rule an investigation request) —\n(i)by ordinary or registered post to the principal place of business of the licensee in question; or\n(ii)by email to the email address of the licensee in question; and\n(b)the prescribed time mentioned in that provision is —\n(i)3 business days after the sending of the investigation request by ordinary or registered post; or\n(ii)one business day after the sending of the investigation request by email.\n(10) In this rule —\n“account with the electronic service”, in relation to any licensee, means a computer account within the electronic service that is assigned by the designated credit bureau to the licensee for the storage and retrieval of electronic records relating to the licensee;\n“authentication code”, in relation to any licensee, means an identification or identifying code, a password or any other authentication method or procedure that is assigned to the licensee for the purposes of identifying and authenticating the access to and use of the electronic service by the licensee;\n“electronic record” has the meaning given by section 2(1) of the Electronic Transactions Act 2010;\n“email address” —\n(a)in relation to the designated credit bureau — means the last email address given by the designated credit bureau to the licensee concerned as the email address for the submission of information, requests or declarations; or\n(b)in relation to a licensee — means the last email address given by the licensee to the designated credit bureau for the delivery of credit reports or the service of investigation requests;\n“fax number” —\n(a)in relation to the designated credit bureau — means the last fax number given by the designated credit bureau to the licensee concerned as the fax number for the submission of information, requests or declarations; or\n(b)in relation to a licensee — means the last fax number given by the licensee to the designated credit bureau as the fax number for the delivery of credit reports."
+   }
+  },
+  {
+   "id": "SG-H3254-A22.008",
+   "no": 22.008,
+   "noLabel": {
+    "en": "22H."
+   },
+   "chapter": {
+    "en": "PART 3A RULES FOR PURPOSES OF PART 3A OF ACT"
+   },
+   "heading": {
+    "en": "Information to be kept by designated credit bureau relating to correction of data"
+   },
+   "text": {
+    "en": "22H. The following information to be kept by the designated credit bureau is prescribed for the purposes of section 78(7)(f) of the Act:\n(a)in the case of data that is corrected pursuant to a request under section 78(1) of the Act — the date on which the designated credit bureau informed the person who submitted the request of the outcome of the request;\n(b)if the data in question was corrected —\n(i)the date on which the data was corrected;\n(ii)a record of the data in question immediately before it was corrected;\n(iii)a record of the corrected data; and\n(iv)if the error or omission in the data in question occurred or arose out of or in the course of processing the data in question by the designated credit bureau, or as a result of any malfunction in the information technology system used by the designated credit bureau — a brief description of any preventive measure taken by the designated credit bureau to avoid a recurrence of the error or omission in question."
+   }
+  },
+  {
+   "id": "SG-H3254-A22.009",
+   "no": 22.009,
+   "noLabel": {
+    "en": "22I."
+   },
+   "chapter": {
+    "en": "PART 3A RULES FOR PURPOSES OF PART 3A OF ACT"
+   },
+   "heading": {
+    "en": "Events to be notified by designated credit bureau to Registrar"
+   },
+   "text": {
+    "en": "22I. In addition to the events mentioned in section 79(1)(a) to (d) of the Act, the designated credit bureau must notify the Registrar as soon as practicable after the designated credit bureau becomes aware of any investigation into any offence under any written law (whether in Singapore or elsewhere) —\n(a)commenced against the designated credit bureau; or\n(b)in which the designated credit bureau is to assist."
+   }
+  },
+  {
+   "id": "SG-H3254-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Certificate of exemption"
+   },
+   "text": {
+    "en": "23. Every certificate of exemption granted by the Minister under section 91(1) of the Act must be in the form approved by the Minister."
+   }
+  },
+  {
+   "id": "SG-H3254-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Fees for exemption"
+   },
+   "text": {
+    "en": "24. The following fees are payable for exemptions granted under section 91(1) of the Act and any extension thereof granted under section 91(2) of the Act:\n(a)a fee of $3,000 for every one year (or part of one year) of the period of exemption or extension where the person exempted intends to grant only personal or consumer loans to individuals;\n(b)a fee of $1,000 for every one year (or part of one year) of the period of exemption or extension where the person exempted intends to grant loans other than those specified in paragraph (a);\n(c)a fee of $4,000 for every one year (or part of one year) of the period of exemption or extension where the person exempted intends to grant loans mentioned in paragraphs (a) and (b)."
+   }
+  },
+  {
+   "id": "SG-H3254-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Search fee"
+   },
+   "text": {
+    "en": "25. A fee of $25 is chargeable for every application to the Registrar for information as to whether a person is or was licensed or exempted under the Act, the period of a licence or exemption, and the conditions of an exemption."
+   }
+  },
+  {
+   "id": "SG-H3254-A25.001",
+   "no": 25.001,
+   "noLabel": {
+    "en": "25A."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Registrar’s notices, letters, correspondences, etc."
+   },
+   "text": {
+    "en": "25A.—(1) For the purposes of the Act and these Rules, any notice, letter and other correspondence from the Registrar may be sent to any of the persons mentioned in paragraph (2) by the following means:\n(a)by ordinary or registered mail to the registered office of the person (if the person is a company), the principal place of business of the person (if the person is a licensee), or the residential address last notified by the person;\n(b)to the person’s email address last notified by the person.\n(2) The persons mentioned in paragraph (1) are as follows:\n(a)a person whose licence is revoked or has expired;\n(b)an exempt moneylender;\n(c)the designated credit bureau or subsequent designated credit bureau as defined in section 54 of the Act;\n(d)a statutory manager as defined in section 54 of the Act;\n(e)an auditor appointed under section 82(1) of the Act.\n(3) In this rule, a reference to the registered office of a person which is a company is a reference to the registered office that the person is required to have under section 142 of the Companies Act 1967."
+   }
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "id": "SG-H3692",
+ "title": {
+  "zh": null,
+  "en": "Supply Act 2026",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p46",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act SA2026",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 2410,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/SA2026?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 4 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3692-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title and commencement"
+   },
+   "text": {
+    "en": "1. This Act is the Supply Act 2026 and comes into operation on 1 April 2026."
+   }
+  },
+  {
+   "id": "SG-H3692-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Supply from Consolidated Fund"
+   },
+   "text": {
+    "en": "2.—(1) A sum of not more than $158,962,520,000 is authorised to be issued from the Consolidated Fund for the period starting 1 April 2026 and ending 31 March 2027.\n(2) The sum in subsection (1) is appropriated for the Heads of Expenditure for the public service specified in the Schedule."
+   }
+  },
+  {
+   "id": "SG-H3692-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Supply from Development Fund"
+   },
+   "text": {
+    "en": "3.—(1) A sum of not more than $49,014,559,600 is authorised to be issued from the Development Fund for the period starting 1 April 2026 and ending 31 March 2027.\n(2) The sum in subsection (1) is appropriated for development purposes under the Heads of Expenditure specified in the Schedule."
+   }
+  },
+  {
+   "id": "SG-H3692-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nSections 2(2) and 3(2)\nHeads of Expenditure for which\nsums are appropriated\nHead\nTitle\nAppropriation\nfrom\nConsolidated\nFund\nAppropriation\nfrom\nDevelopment\nFund\nTotal\nappropriations\n$\n$\n$\nB\nAttorney‑General’s Chambers\n306,697,200\n2,242,700\n308,939,900\nC\nAuditor‑General’s Office\n48,279,100\n876,000\n49,155,100\nD\nCabinet Office\n1,200,000\n...\n1,200,000\nE\nJudicature\n415,644,700\n12,333,800\n427,978,500\nF\nParliament\n50,739,900\n12,792,700\n63,532,600\nG\nPresidential Councils\n1,724,400\n...\n1,724,400\nI\nMinistry of Social and Family Development\n5,822,529,800\n259,759,300\n6,082,289,100\nJ\nMinistry of Defence\n23,343,497,600\n2,454,719,600\n25,798,217,200\nK\nMinistry of Education\n15,473,381,200\n1,185,000,000\n16,658,381,200\nL\nMinistry of Sustainability and the Environment\n2,890,738,400\n820,076,600\n3,710,815,000\nM\nMinistry of Finance\n1,252,309,600\n68,615,100\n1,320,924,700\nN\nMinistry of Foreign Affairs\n614,402,500\n46,700,000\n661,102,500\nO\nMinistry of Health\n20,035,377,700\n2,467,566,400\n22,502,944,100\nP\nMinistry of Home Affairs\n9,242,695,600\n2,672,087,400\n11,914,783,000\nQ\nMinistry of Digital Development and Information\n2,993,365,900\n119,025,200\n3,112,391,100\nR\nMinistry of Law\n417,819,500\n287,047,600\n704,867,100\nS\nMinistry of Manpower\n3,920,999,400\n178,690,100\n4,099,689,500\nT\nMinistry of National Development\n8,640,058,800\n13,613,535,500\n22,253,594,300\nU\nPrime Minister’s Office\n716,873,400\n123,553,300\n840,426,700\nV\nMinistry of Trade and Industry\n1,861,722,800\n10,705,745,500\n12,567,468,300\nW\nMinistry of Transport\n3,109,174,200\n13,306,280,300\n16,415,454,500\nX\nMinistry of Culture, Community and Youth\n2,407,711,100\n677,912,500\n3,085,623,600\nZ\nFinancial Transfers\n55,395,577,200\n...\n55,395,577,200\nTotal\n158,962,520,000\n49,014,559,600\n207,977,079,600"
+   }
+  }
+ ]
+}

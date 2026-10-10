@@ -1,0 +1,68 @@
+{
+ "id": "TL-H083",
+ "title": {
+  "zh": "Primeira 修改，por Apreciação Parlamentar，刑法典 (Aprovado pelo Decreto-《第19/2009号法律》，)",
+  "en": null,
+  "orig": "Primeira Alteração, por Apreciação Parlamentar, do Código Penal (Aprovado pelo Decreto-Lei n.° 19/2009, de 8 de Abril)"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2009-07-15",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 6/2009",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 3406,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2009/serie_1/serie1_no25.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自官方公报 PDF（public/docs/2009/serie_1/serie1_no25.pdf）第 3302–3303 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H083-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Alteração ao Código Penal"
+   },
+   "text": {
+    "pt": "O artigo 141.º do Código Penal aprovado pelo artigo 1.° do Decreto-lei n.° 19/2009, de 8 de Abril, dele anexo, passa a ter a seguinte redacção:\n“Artigo 141.º (...)\n1.   (...)\n2.   (...)\n3.   (...)\n4.   O disposto nos números anteriores não se aplica quando a interrupção da gravidez constituir, de acordo com o estado dos conhecimentos e experiência médicos, e após terem sido levadas a cabo todas as acções possíveis para salvar a vida da mulher grávida e a do feto ou embrião, o único meio para remover perigo de morte da mulher grávida, desde que efectuada, mediante certificação médica, por médico ou outro profissional de saúde sob sua direcção em estabelecimento de saúde público ou oficialmente reconhecido, e com o consentimento da mulher grávida.\n5.   A verificação das circunstâncias referidas no número anterior é certificada em atestado médico escrito e assinado por um painel de três médicos, em data anterior à da interrupção, do qual não faz parte o médico que realiza ou supervisiona a realização da interrupção da gravidez.\n6.   O consentimento é prestado por escrito em documento assinado pela mulher grávida – após ouvir, se possível, o cônjuge ou aquele que com ela viva em condições análogas às dos cônjuges – ou por outrem a seu rogo, sempre que possível com antecedência de dois dias em relação à data da interrupção.\n7.   No caso de a mulher grávida ser menor, o consentimento é prestado pelo representante legal.\n8.   No caso de a mulher grávida maior ou emancipada ser ou estar psiquicamente incapaz, o consentimento é prestado, respectiva e sucessivamente, pelo cônjuge ou aquele que com ela viva em condições análogas às dos cônjuges, pelo representante legal, por ascendente ou descendente, ou, na sua falta, por quaisquer parentes da linha colateral.\n9.   Quando não for possível obter o atestado médico referido no n.° 5, e/ou não for possível obter o consentimento nos termos dos n.°s 6 a 8,  e a realização da interrupção for urgente e inadiável, o médico decide em consciência face à situação, socorrendo-se, sempre que possível, do parecer de outros médicos.\n10.  O painel referido no n. ° 5 é constituído por médicos possuidores de conhecimentos adequados para a avaliação das circunstâncias que justificam a interrupção da gravidez, dele fazendo parte, sempre que possível, um médico ginecologista/obstetra.\n11.  Os médicos que emitem o atestado médico e os médicos que realizam ou supervisionam a realização da interrupção da gravidez devem prestar todos os esclarecimentos necessários à mulher grávida e, se for o caso, às pessoas referidas nos n. °s 7 e 8, designadamente o método de interrupção a utilizar, os efeitos da interrupção, as eventuais consequências para a saúde física e psíquica da mulher grávida.\n12.  É reconhecido aos médicos e demais profissionais de saúde o direito à objecção de consciência relativamente a quaisquer actos respeitantes à interrupção da gravidez.\n13.   Os médicos e demais profissionais de saúde que invoquem a objecção de consciência devem garantir a imediata intervenção nos actos necessários, bem como o imediato acompanhamento da mulher grávida, por outro profissional de saúde.\n14.   A objecção de consciência é expressa e comunicada, através de documento escrito e assinado, ao responsável clínico do estabelecimento de saúde onde o objector presta serviço."
+   }
+  },
+  {
+   "id": "TL-H083-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

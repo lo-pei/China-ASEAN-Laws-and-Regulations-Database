@@ -1,0 +1,970 @@
+{
+ "id": "SG-H2780",
+ "title": {
+  "zh": null,
+  "en": "Insolvency, Restructuring and Dissolution (Judicial Management) Regulations 2020",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p35",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation IRDA2018-S606-2020",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 58,
+ "chars": 39760,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/IRDA2018-S606-2020?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 58 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2780-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Insolvency, Restructuring and Dissolution (Judicial Management) Regulations 2020 and come into operation on 30 July 2020."
+   }
+  },
+  {
+   "id": "SG-H2780-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations, unless the context otherwise requires —\n“application for a judicial management order” means an application made to the Court under section 91 of the Act for an order that a company should be placed under the judicial management of a judicial manager;\n“company” has the meaning given by section 88(1) of the Act;\n“Filing of Documents Regulations” means the Insolvency, Restructuring and Dissolution (Filing, Lodgment and Submission of Documents) Regulations 2020 (G.N. No. S 586/2020);\n“judicial manager” has the meaning given by section 88(1) of the Act.\n(2) For the purposes of these Regulations, a company “enters judicial management” or is “in judicial management” within the meanings given to those terms in section 88(2)(a), (b), (c), (d) and (e) of the Act."
+   }
+  },
+  {
+   "id": "SG-H2780-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Forms"
+   },
+   "text": {
+    "en": "3. The Forms to be used for the purposes of these Regulations are those set out on the Internet website of the Ministry of Law at https://www.mlaw.gov.sg, and any reference in these Regulations to a numbered form (where the number may include alphanumeric characters) is construed as a reference to the current version of the form bearing the corresponding number that is displayed at that website."
+   }
+  },
+  {
+   "id": "SG-H2780-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 JUDICIAL MANAGEMENT BY ORDER OF COURT"
+   },
+   "heading": {
+    "en": "Notice of special resolution"
+   },
+   "text": {
+    "en": "4. For the purpose of section 91(1) of the Act, a copy of the resolution of the members or board of directors of a company to make an application for a judicial management order in relation to the company must be lodged by the company or directors (as the case may be) with the Registrar of Companies in accordance with the Filing of Documents Regulations."
+   }
+  },
+  {
+   "id": "SG-H2780-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 3 JUDICIAL MANAGEMENT BY RESOLUTION OF CREDITORS"
+   },
+   "heading": {
+    "en": "Notice of intention to appoint interim judicial manager required under section 94(2) of Act"
+   },
+   "text": {
+    "en": "5. For the purposes of section 94(2) of the Act, the written notice of a company’s intention to appoint an interim judicial manager must be in accordance with Form JM‑1."
+   }
+  },
+  {
+   "id": "SG-H2780-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 JUDICIAL MANAGEMENT BY RESOLUTION OF CREDITORS"
+   },
+   "heading": {
+    "en": "Notice of appointment of interim judicial manager"
+   },
+   "text": {
+    "en": "6.—(1) For the purposes of section 94(5)(a) of the Act, the written notice of the appointment of an interim judicial manager must be in accordance with Form JM‑2.\n(2) The written notice must be lodged with the Registrar of Companies in accordance with the provisions of the Filing of Documents Regulations."
+   }
+  },
+  {
+   "id": "SG-H2780-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 JUDICIAL MANAGEMENT BY RESOLUTION OF CREDITORS"
+   },
+   "heading": {
+    "en": "Filing, inspection and adjudication of proof of debt for purposes of meeting under section 94(7) of Act"
+   },
+   "text": {
+    "en": "7.—(1) For the purpose of adjudication of proofs of debt under section 94(4)(c) of the Act, the company must state in the notice convening a meeting of the creditors under section 94(7) of the Act (called in these Regulations the pre‑appointment meeting of creditors) —\n(a)the manner in which a creditor is to file a proof of debt in respect of any debt owed by the company to the creditor with the interim judicial manager;\n(b)the period within which the proof is to be filed; and\n(c)that the proof is solely for the purpose of entitling the creditor to vote at the pre‑appointment meeting of creditors.\n(2) If a creditor does not file the creditor’s proof of debt in respect of any debt owed by the company to the creditor in the manner and within the period stated in the notice, the creditor is not entitled to vote (whether in person or by proxy) in respect of that debt at the pre‑appointment meeting of creditors.\n(3) The interim judicial manager must examine every proof of debt filed by a creditor and the grounds of the debt, and must admit or reject the proof in whole or in part, or require further evidence in support of it, for the purpose of voting at the pre‑appointment meeting of creditors.\n(4) A creditor (A) who has filed a proof of debt may object to one or more of the following:\n(a)the rejection by the interim judicial manager of the whole or any part of A’s proof of debt;\n(b)the admission by the interim judicial manager of the whole or any part of a proof of debt filed by another creditor.\n(5) If a creditor disagrees with the interim judicial manager’s decision in relation to a matter mentioned in paragraph (4), the creditor may, within 7 days after the date of the pre‑appointment meeting of creditors, file a notice of disagreement regarding that decision with the interim judicial manager, stating the reason for the creditor’s disagreement.\n(6) In hearing any application under section 115(1)(c) of the Act, the Court may take into consideration any notice of disagreement filed by a creditor under paragraph (5)."
+   }
+  },
+  {
+   "id": "SG-H2780-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 JUDICIAL MANAGEMENT BY RESOLUTION OF CREDITORS"
+   },
+   "heading": {
+    "en": "Quorum"
+   },
+   "text": {
+    "en": "8.—(1) At the pre‑appointment meeting of creditors, the creditors may not act for any purpose unless there are present (either in person or by proxy) at the meeting —\n(a)at least 3 creditors entitled to vote; or\n(b)all the creditors entitled to vote if the number of the creditors entitled to vote does not exceed 3.\n(2) Paragraph (1) does not apply to the appointment by the creditors of a chairperson, the proving of debts and the adjournment of the meeting.\n(3) If after half an hour from the time appointed for the pre‑appointment meeting of creditors, a quorum of creditors is not present (either in person or by proxy), the meeting must be adjourned —\n(a)in a case where no chairperson is appointed — to the same day in the following week at the same time and place; or\n(b)in a case where a chairperson is appointed — to another day that the chairperson may appoint (which is not less than 5 days and not more than 10 days after the day from which the meeting was adjourned) and at a time and place that the chairperson may determine.\n(4) If after half an hour from the time appointed for the adjourned meeting, a quorum of creditors is not present (either in person or by proxy), the adjourned meeting must be adjourned —\n(a)in a case where no chairperson is appointed — to another day and at a time and place that the interim judicial manager may determine; or\n(b)in a case where a chairperson is appointed — to another day and at a time and place that the chairperson may determine.\n(5) Where a chairperson is appointed for a meeting mentioned in paragraph (3) or (4), the chairperson must issue to the creditors —\n(a)in a case mentioned in paragraph (3)(b) — a notice of adjournment of the pre‑appointment meeting of creditors in accordance with Form JM‑3; or\n(b)in a case mentioned in paragraph (4)(b) — a notice of proceedings at an adjourned pre‑appointment meeting of creditors in accordance with Form JM‑4.\n(6) Where no chairperson is appointed for a meeting mentioned in paragraph (3) or (4), the interim judicial manager must issue to the creditors —\n(a)in a case mentioned in paragraph (3)(a) — a notice of adjournment of the pre‑appointment meeting of creditors in accordance with Form JM‑3; or\n(b)in a case mentioned in paragraph (4)(a) — a notice of proceedings at an adjourned pre‑appointment meeting of creditors in accordance with Form JM‑4.\n(7) The list of creditors assembled to be used at every meeting must be in accordance with Form JM‑5."
+   }
+  },
+  {
+   "id": "SG-H2780-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 JUDICIAL MANAGEMENT BY RESOLUTION OF CREDITORS"
+   },
+   "heading": {
+    "en": "Adjournment of pre-appointment meeting of creditors"
+   },
+   "text": {
+    "en": "9.—(1) Subject to paragraph (2), the chairperson of a pre‑appointment meeting of creditors may, with the consent of the meeting, adjourn it from time to time and from place to place.\n(2) If the meeting is adjourned under paragraph (1) —\n(a)the chairperson must issue to the creditors a notice of adjournment of the pre‑appointment meeting of creditors in accordance with Form JM‑3; and\n(b)the adjourned meeting must be held at the same place as the original place of meeting unless in the resolution for adjournment another place is specified."
+   }
+  },
+  {
+   "id": "SG-H2780-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 4 NOTICE OF APPOINTMENT OF JUDICIAL MANAGER"
+   },
+   "heading": {
+    "en": "Information to be given by judicial manager under section 105 of Act"
+   },
+   "text": {
+    "en": "10.—(1) For the purposes of section 105(1)(a) of the Act, the following document must be lodged with the Official Receiver and the Registrar of Companies in accordance with the provisions of the Filing of Documents Regulations:\n(a)in a case where the judicial manager was appointed by the Court under section 91(1) of the Act — a copy of the judicial management order;\n(b)in a case where the judicial manager was appointed by the creditors of the company under section 94(11)(e) of the Act — a written notice of the appointment in accordance with Form JM‑6.\n(2) For the purposes of section 105(1)(b) and (c) of the Act, the notice of the judicial management order must be in accordance with Form JM‑7.\n(3) The notice of the judicial management order or the notice of the appointment of the judicial manager may be sent to the company —\n(a)personally;\n(b)by prepaid registered post addressed to the secretary of the company at the company’s registered office; or\n(c)by electronic means in accordance with section 442 of the Act."
+   }
+  },
+  {
+   "id": "SG-H2780-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 5 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "11.—(1) Unless otherwise provided in this Part, this Part applies to —\n(a)a proof of debt filed by a creditor of a company for the purposes of voting at a pre‑appointment meeting of creditors convened under section 94(7) of the Act; and\n(b)a proof of debt filed by a creditor of a company in judicial management.\n(2) For the purpose of paragraph (1)(a) —\n(a)a reference in this Part to a judicial manager is to be read as a reference to an interim judicial manager appointed under section 94(3) of the Act;\n(b)a reference in this Part to a company in judicial management is to be read as a reference to a company that has appointed an interim judicial manager under section 94(3) of the Act;\n(c) a reference in this Part to a company entering judicial management is to be read as a reference to a company appointing an interim judicial manager under section 94(3) of the Act;\n(d)a reference in this Part to the date on which a company enters judicial management is to be read as a reference to the date of appointment of an interim judicial manager under section 94(3) of the Act;\n(e)regulation 12 does not apply;\n(f)regulation 16 applies as if the words “unless the Court otherwise orders” were omitted; and\n(g)regulation 22 applies as if the words “, subject to any order of the Court made to the contrary,” were omitted."
+   }
+  },
+  {
+   "id": "SG-H2780-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 5 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Proof of debts"
+   },
+   "text": {
+    "en": "12. In a judicial management, every creditor must prove the creditor’s debt, unless the Court in any particular judicial management gives directions that any creditor or class of creditors is to be admitted without proof."
+   }
+  },
+  {
+   "id": "SG-H2780-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 5 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Mode of proof"
+   },
+   "text": {
+    "en": "13. A debt must be proved by filing with the judicial manager by any of the following means a declaration verifying the debt:\n(a)delivery by electronic means in accordance with section 442 of the Act;\n(b)sending through the post;\n(c)any other means agreed between the judicial manager and the creditor of the company filing the proof."
+   }
+  },
+  {
+   "id": "SG-H2780-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 5 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Verification by proof"
+   },
+   "text": {
+    "en": "14. A declaration proving a debt may be made by the creditor, or by any person authorised by or on behalf of the creditor."
+   }
+  },
+  {
+   "id": "SG-H2780-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 5 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Contents of proof"
+   },
+   "text": {
+    "en": "15.—(1) A declaration proving a debt must be in accordance with Form JM‑8.\n(2) A proof of debt must state the following matters:\n(a)the creditor’s name and address (including an electronic mail address, if available);\n(b)the total amount of the creditor’s claim as at the date on which the company entered judicial management;\n(c)whether the amount claimed includes interest within the meaning of section 222(4) of the Act and, if so —\n(i)the amount of interest that has accrued as at the date on which the company entered judicial management;\n(ii)the rate of interest; and\n(iii)the period for which the interest was calculated;\n(d)whether or not the amount claimed includes goods and services tax and, if so, the amount of the tax;\n(e)the particulars of how and when the debt was incurred by the company;\n(f)the particulars of any security held by the creditor, the date on which the security was given and the value at which the secured creditor assesses the security;\n(g)the name, address and authority of the person filing the proof, if that person is not the creditor.\n(3) The documents substantiating the claim specified in the proof of debt must accompany the proof of debt."
+   }
+  },
+  {
+   "id": "SG-H2780-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 5 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Costs of proof"
+   },
+   "text": {
+    "en": "16. A creditor must bear the costs of proving the creditor’s debt in a judicial management unless the Court otherwise orders."
+   }
+  },
+  {
+   "id": "SG-H2780-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 5 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Discount"
+   },
+   "text": {
+    "en": "17. A creditor proving the creditor’s debt must deduct from the debt all trade discounts, but the creditor is not compelled to deduct any discount (not exceeding 5% on the net amount of the creditor’s claim) that the creditor may have agreed to allow for payment in cash."
+   }
+  },
+  {
+   "id": "SG-H2780-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 5 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Periodical payments"
+   },
+   "text": {
+    "en": "18.—(1) Subject to paragraph (2), in a case where any rent or other payment falls due at stated periods, and the company enters judicial management at any time other than any of those periods, the person or persons entitled to the rent or payment may prove for a proportionate part of the rent or payment up to (and including) the date of the company’s entry into judicial management as if the rent or payment grew due from day to day.\n(2) Where a company in judicial management remains in occupation of premises demised to the company, nothing in these Regulations affects the right of the landlord of the premises to claim payment from the company of rent during the period of the company’s occupation."
+   }
+  },
+  {
+   "id": "SG-H2780-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 5 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Prescribed rate of interest under section 222 of Act"
+   },
+   "text": {
+    "en": "19. For the purposes of section 222(1) and (2)(b)(ii) of the Act, the prescribed rate of interest for interest allowed on a debt is the rate of interest on judgment debts provided for under the Rules of Court for the time being in force."
+   }
+  },
+  {
+   "id": "SG-H2780-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 5 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Proof of debt filed by licensed moneylenders"
+   },
+   "text": {
+    "en": "20.—(1) A moneylender licensed under the Moneylenders Act (Cap. 188) (called in this regulation a licensed moneylender) filing a proof of debt in respect of a loan made by the licensed moneylender as a licensed moneylender must, within 14 days after the date of filing of the proof of debt, file a copy of the following documents in respect of the loan:\n(a)the note of the contract for the loan, mentioned in section 20(1)(a) of that Act;\n(b)the statement of account mentioned in section 21(1) of that Act, that was last supplied to the company before the company entered judicial management.\n(2) A reference in paragraph (1) to a licensed moneylender filing a proof of debt is a reference to a person who, at the time the loan mentioned in that paragraph is granted, is a licensed moneylender, whether or not the person continues to be so licensed at the time the proof of debt is filed."
+   }
+  },
+  {
+   "id": "SG-H2780-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 5 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Workmen’s wages"
+   },
+   "text": {
+    "en": "21.—(1) In a case where it appears that there are numerous claims for wages by workmen or other persons employed by the company, it is sufficient if one proof in accordance with Form JM‑8 for all the claims is made either by a foreman or by some other person or trade union recognised by the company on behalf of such creditors.\n(2) The proof must be accompanied by a schedule (which forms part of the proof) that sets out the following information relating to each of the creditors:\n(a)his or her name;\n(b)his or her personal identification number or passport number;\n(c)his or her address;\n(d)the amount owed to him or her and the amount of each component of wages or salary due to him or her.\n(3) Any proof made in compliance with this regulation has the same effect as if separate proofs had been made by each of the workmen or other persons employed by the company."
+   }
+  },
+  {
+   "id": "SG-H2780-A21.001",
+   "no": 21.001,
+   "noLabel": {
+    "en": "21A."
+   },
+   "chapter": {
+    "en": "PART 5 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Platform worker’s earnings"
+   },
+   "text": {
+    "en": "21A.—(1) In a case where it appears that there are numerous claims for earnings by platform workers who have provided any platform service for a company that is a platform operator, it is sufficient if one proof in accordance with Form JM‑8 for all the claims is made by a platform work association recognised by the company on behalf of such creditors.\n(2) The proof must be accompanied by a schedule (which forms part of the proof) that sets out the following information relating to each of the creditors:\n(a)his or her name;\n(b)his or her personal identification number or passport number;\n(c)his or her address;\n(d)the amount owed to him or her and the amount of each component of earnings due to him or her.\n(3) Any proof made in compliance with this regulation has the same effect as if separate proofs had been made by each of the platform workers who have provided any platform service for the company.\n(4) In this regulation, “earnings”, “platform operator”, “platform service”, “platform worker” and “platform work association” have the meanings given by the Platform Workers Act 2024.\n[S 961/2024 wef 01/01/2025]"
+   }
+  },
+  {
+   "id": "SG-H2780-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 5 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Production of bills of exchange and promissory notes"
+   },
+   "text": {
+    "en": "22. Where a creditor seeks to prove in respect of a bill of exchange, promissory note or other negotiable instrument or security on which the company is liable, the bill of exchange, promissory note, instrument or security must, subject to any order of the Court made to the contrary, be produced to the judicial manager and be marked by the judicial manager before the proof may be admitted either for voting or for any purpose."
+   }
+  },
+  {
+   "id": "SG-H2780-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Notice of first meeting of creditors"
+   },
+   "text": {
+    "en": "23. The judicial manager must give notice of the date fixed by him or her for the meeting of creditors under section 107(1) of the Act (called in these Regulations the first meeting of creditors) by advertisement in an English local daily newspaper."
+   }
+  },
+  {
+   "id": "SG-H2780-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Form of notice of first meeting of creditors"
+   },
+   "text": {
+    "en": "24. The notice of first meeting of creditors must be in accordance with Form JM‑9 and the notice must state the period mentioned in regulation 45(1) within which the creditors must file their proofs in order to entitle them to vote at that meeting."
+   }
+  },
+  {
+   "id": "SG-H2780-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Notice of first meeting of creditors to officers of company"
+   },
+   "text": {
+    "en": "25.—(1) The judicial manager must give to each director, and any other officer of the company who in the judicial manager’s opinion ought to attend the first meeting of creditors, 7 days’ notice in accordance with Form JM‑10 of the time and place appointed for the meeting.\n(2) The notice may be delivered —\n(a)personally;\n(b)by prepaid registered post; or\n(c)by electronic means in accordance with section 442 of the Act.\n(3) It is the duty of every director or officer who receives the notice of first meeting of creditors to attend if so required by the judicial manager, and if any such director or officer fails to attend, the judicial manager must report the failure to the Court."
+   }
+  },
+  {
+   "id": "SG-H2780-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Mode of delivery of statement of proposals"
+   },
+   "text": {
+    "en": "26. For the purposes of section 107(1)(a) and (2)(a) of the Act, the statement of the judicial manager’s proposal or a copy of that statement required to be delivered to a creditor or member of the company (as the case may be) may be delivered —\n(a)personally;\n(b)by prepaid registered post; or\n(c)by electronic means in accordance with section 442 of the Act."
+   }
+  },
+  {
+   "id": "SG-H2780-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Summary of statement of affairs"
+   },
+   "text": {
+    "en": "27.—(1) The judicial manager must also, as soon as practicable, send to each creditor mentioned in the statement of affairs of the company, a summary of the statement of affairs including —\n(a)the causes of the company’s inability or likely inability to pay its debts; and\n(b)any observation on the statement of affairs that the judicial manager may think fit to make.\n(2) The proceedings at a meeting are not invalidated by reason of any summary required by these Regulations not having been sent or received before the meeting."
+   }
+  },
+  {
+   "id": "SG-H2780-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Judicial manager’s meeting of creditors"
+   },
+   "text": {
+    "en": "28.—(1) In addition to the first meeting of creditors, the judicial manager in any judicial management may from time to time, subject to the provisions of the Act and the control of the Court, summon, hold and conduct a meeting of the creditors (called in these Regulations a judicial manager’s meeting of creditors) for the purpose of ascertaining the creditors’ wishes in all matters relating to the judicial management.\n(2) The notice calling for a judicial manager’s meeting of creditors must be in accordance with Form JM‑11."
+   }
+  },
+  {
+   "id": "SG-H2780-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Application of regulations as to meetings"
+   },
+   "text": {
+    "en": "29.—(1) Unless the nature of the subject matter or the context otherwise requires, regulations 30 to 50 relating to meetings apply to the first meeting of creditors and a judicial manager’s meeting of creditors.\n(2) However, the regulations mentioned in paragraph (1) take effect subject to, and without affecting, any provision of the Act."
+   }
+  },
+  {
+   "id": "SG-H2780-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Summoning of judicial manager’s meeting of creditors"
+   },
+   "text": {
+    "en": "30.—(1) When summoning any judicial manager’s meeting of creditors, the judicial manager must —\n(a)give not less than 7 days’ notice of the time and place of the meeting in an English local daily newspaper; and\n(b)not less than 7 days before the day appointed for the meeting, send by post, or by electronic means in accordance with section 442 of the Act, to every person appearing by the company’s books to be a creditor of the company, a notice of the meeting of creditors.\n(2) The notice to each creditor must be sent to the address given in the creditor’s proof, or, if the creditor has not proved, to the address given in the statement of affairs of the company, or to any other address that may be known to the judicial manager.\n(3) To avoid doubt, the address given in the creditor’s proof, to which a notice is sent, includes an electronic address provided in the proof by the creditor for delivery of a notice by electronic means.\n(4) The judicial manager may, if the judicial manager thinks fit, require a director or an officer of the company to attend any meeting of creditors, and must give the director or officer not less than 7 days’ notice of the meeting of creditors.\n(5) The notice mentioned in paragraph (4) may be delivered —\n(a)personally;\n(b)by prepaid registered post; or\n(c)by electronic means in accordance with section 442 of the Act.\n(6) It is the duty of every director or officer who receives the notice of meeting of creditors to attend if so required by the judicial manager, and if any such director or officer fails to attend, the judicial manager must report the failure to the Court.\n(7) This regulation does not apply to the first meeting of creditors."
+   }
+  },
+  {
+   "id": "SG-H2780-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Place of meeting of creditors"
+   },
+   "text": {
+    "en": "31. Every meeting of creditors must be held at a place that is in the opinion of the judicial manager most convenient for the majority in value of the creditors."
+   }
+  },
+  {
+   "id": "SG-H2780-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Costs of summoning meeting of creditors"
+   },
+   "text": {
+    "en": "32.—(1) The costs incurred by the judicial manager in summoning a meeting of creditors at the request of another person must be paid by that person.\n(2) The person that requests the judicial manager to summon a meeting of creditors must, before the meeting is summoned, deposit with the judicial manager a sum that may be required by the judicial manager as security for the payment of the costs.\n(3) The costs of summoning a meeting of creditors (whether or not the meeting is summoned by the judicial manager at the request of another person) including all disbursements for printing, stationery, postage and the hire of room, is to be calculated at the following rate for each creditor to whom notice is required to be sent:\n(a)$10 per creditor for the first 50 creditors;\n(b)$6 per creditor for the next 50 creditors;\n(c)$4 per creditor for any number of creditors after the first 100.\n(4) The costs must be repaid out of the assets of the company if the Court so orders, or if the creditors by resolution so direct."
+   }
+  },
+  {
+   "id": "SG-H2780-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Chairperson of meeting"
+   },
+   "text": {
+    "en": "33.—(1) The judicial manager, or a person nominated by the judicial manager, is to be the chairperson of any meeting of creditors, other than a meeting of creditors mentioned in paragraph (2).\n(2) At a meeting of creditors that is summoned by the judicial manager at the request of another person, the chairperson is to be a person that the meeting by resolution appoints."
+   }
+  },
+  {
+   "id": "SG-H2780-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Ordinary resolution of creditors"
+   },
+   "text": {
+    "en": "34. At a meeting of creditors, a resolution is deemed to be passed when a majority in number and value of the creditors present (either in person or by proxy) and voting on the resolution have voted in favour of the resolution."
+   }
+  },
+  {
+   "id": "SG-H2780-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Quorum"
+   },
+   "text": {
+    "en": "35.—(1) The creditors at a meeting of creditors may not act for any purpose unless there are present (either in person or by proxy) at the meeting —\n(a)at least 3 creditors entitled to vote; or\n(b)all the creditors entitled to vote if the number of the creditors entitled to vote does not exceed 3.\n(2) Paragraph (1) does not apply to the appointment of a chairperson, the proving of debts and the adjournment of the meeting.\n(3) If after half an hour from the time appointed for the meeting, a quorum of creditors is not present (either in person or by proxy), the meeting must be adjourned —\n(a)in a case of a meeting summoned by the judicial manager at the request of another person and no chairperson is appointed for the meeting — to the same day in the following week at the same time and place; or\n(b)in a case of a meeting where the judicial manager (or his or her nominee) is, or another person is appointed to be, the chairperson for the meeting — to another day that the chairperson may appoint (which is not less than 5 days and not more than 10 days after the day from which the meeting was adjourned), and at a time and place that the chairperson may determine.\n(4) If after half an hour from the time appointed for the adjourned meeting, a quorum of creditors is not present (either in person or by proxy), the adjourned meeting must be adjourned —\n(a)in a case of a meeting summoned by the judicial manager at the request of another person and no chairperson is appointed for the meeting — to another day and at a time and place that the judicial manager may determine; or\n(b)in a case of a meeting where the judicial manager (or his or her nominee) is, or another person is appointed to be, the chairperson for the meeting — to another day and at a time and place that the chairperson may determine.\n(5) Where the judicial manager (or his or her nominee) is, or another person is appointed to be, the chairperson for a meeting mentioned in paragraph (3) or (4), the chairperson must issue to the creditors —\n(a)in a case mentioned in paragraph (3)(b), a notice of adjournment of the meeting of creditors in accordance with Form JM‑3; or\n(b)in a case mentioned in paragraph (4)(b), a notice of proceedings at an adjourned meeting of creditors in accordance with Form JM‑4.\n(6) Where a meeting mentioned in paragraph (3) or (4) is summoned by the judicial manager at the request of another person and no chairperson is appointed, the judicial manager must issue to the creditors —\n(a)in a case mentioned in paragraph (3)(a) — a notice of adjournment of the meeting of creditors in accordance with Form JM‑3; or\n(b)in a case mentioned in paragraph (4)(a) — a notice of proceedings at an adjourned meeting of creditors in accordance with Form JM‑4.\n(7) The list of creditors assembled to be used at every meeting must be in accordance with Form JM‑5."
+   }
+  },
+  {
+   "id": "SG-H2780-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Adjournment of meeting"
+   },
+   "text": {
+    "en": "36.—(1) Subject to paragraph (2), the chairperson of a meeting may, with the consent of the meeting, adjourn the meeting from time to time and from place to place.\n(2) If the meeting is adjourned under paragraph (1) —\n(a)the chairperson must issue to the creditors a notice of adjournment of meeting of creditors in accordance with Form JM‑3; and\n(b)the adjourned meeting must be held at the same place as the original place of meeting unless in the resolution for adjournment another place is specified or unless the Court otherwise orders."
+   }
+  },
+  {
+   "id": "SG-H2780-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Creditors entitled to vote"
+   },
+   "text": {
+    "en": "37.—(1) In the case of a first meeting of creditors or of an adjournment of that meeting, a person is not entitled to vote as a creditor unless the person has duly filed with the judicial manager not later than the period mentioned for that purpose in the notice summoning the meeting or adjourned meeting (as the case may be) a proof of the debt that the person claims to be due to the person from the company.\n(2) Paragraph (1) does not affect the power of the chairperson under regulation 40 to admit or reject, in whole or in part, a proof of debt for the purpose of voting."
+   }
+  },
+  {
+   "id": "SG-H2780-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Cases in which creditors may not vote"
+   },
+   "text": {
+    "en": "38.—(1) A creditor may not vote —\n(a)in respect of any unliquidated or contingent debt;\n(b)in respect of any debt the value of which is not ascertained; or\n(c)subject to paragraph (2), in respect of any debt on or secured by a current bill of exchange or promissory note held by the creditor.\n(2) Despite paragraph (1)(c), a creditor may vote in respect of a debt mentioned in that provision if the creditor is willing to —\n(a)treat the liability of every person (being a person against whom a bankruptcy order has not been made or which has not gone into liquidation) who is liable on the bill or note antecedently to the company as a security in the creditor’s hands; and\n(b)estimate the value of the security and deduct it from the creditor’s proof for the purpose of voting at the creditors’ meeting."
+   }
+  },
+  {
+   "id": "SG-H2780-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Votes of secured creditors"
+   },
+   "text": {
+    "en": "39.—(1) For the purpose of voting, a secured creditor —\n(a)must, unless the secured creditor surrenders the secured creditor’s security, state in the secured creditor’s proof the particulars of the security, the date on which the security was given, and the value at which the secured creditor assesses the security; and\n(b)is entitled to vote only in respect of the balance (if any) due to the secured creditor after deducting the value of the secured creditor’s security.\n(2) If the secured creditor votes in respect of the secured creditor’s whole debt, the secured creditor is deemed to have surrendered the secured creditor’s security, unless the Court on application is satisfied that the omission to value the security has arisen from inadvertence."
+   }
+  },
+  {
+   "id": "SG-H2780-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Admission and rejection of proofs for purpose of voting"
+   },
+   "text": {
+    "en": "40.—(1) The chairperson has power to admit or reject, in whole or in part, a proof for the purpose of voting, but the chairperson’s decision is subject to appeal to the Court.\n(2) If the chairperson is in doubt whether a proof is to be admitted or rejected, the chairperson must mark it as objected to and allow the creditor to vote subject to the vote being declared invalid in the event of the objection being sustained."
+   }
+  },
+  {
+   "id": "SG-H2780-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Statement of security"
+   },
+   "text": {
+    "en": "41. For the purpose of voting at any meeting in a judicial management, a secured creditor must submit to the judicial manager before the meeting a statement giving the particulars of the secured creditor’s security, the date on which it was given and the value at which the secured creditor assesses it."
+   }
+  },
+  {
+   "id": "SG-H2780-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Minutes of meeting"
+   },
+   "text": {
+    "en": "42.—(1) The chairperson must cause minutes of the proceedings at the meeting to be drawn up and fairly entered in a book kept for that purpose and the minutes must be signed by that chairperson or the chairperson of the next ensuing meeting.\n(2) A list of creditors assembled at every meeting must be made and kept in accordance with Form JM‑5."
+   }
+  },
+  {
+   "id": "SG-H2780-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Copy of resolution to be lodged"
+   },
+   "text": {
+    "en": "43. A judicial manager must lodge with the Registrar of Companies, in accordance with the provisions of the Filing of Documents Regulations, a copy certified by the judicial manager of every resolution of a meeting of creditors held."
+   }
+  },
+  {
+   "id": "SG-H2780-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 6 MEETING OF CREDITORS IN RELATION TO COMPANY IN JUDICIAL MANAGEMENT"
+   },
+   "heading": {
+    "en": "Copy of proposals, revised proposals and report of result of meeting of creditors"
+   },
+   "text": {
+    "en": "44.—(1) For the purposes of sections 107(1) and 110(2) of the Act, the judicial manager must lodge a copy of the statement of proposals or revised proposals (as the case may be) with the Registrar of Companies in accordance with the provisions of the Filing of Documents Regulations.\n(2) For the purposes of sections 108(4) and 110(5) of the Act, the judicial manager must lodge a notice of the result of a meeting of creditors on the proposals or revised proposals (as the case may be) with the Registrar of Companies in accordance with the provisions of the Filing of Documents Regulations."
+   }
+  },
+  {
+   "id": "SG-H2780-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 7 ADMISSION AND REJECTION OF PROOFS"
+   },
+   "heading": {
+    "en": "Notice to creditors to prove"
+   },
+   "text": {
+    "en": "45.—(1) For the purposes of section 108 of the Act, the judicial manager in any judicial management must from time to time fix a day (that must not be less than 10 days after the date of the notice) on or before which the creditors of the company are to prove their debts or claims.\n(2) The judicial manager must give notice of the day mentioned in paragraph (1) —\n(a)in an English local daily newspaper in accordance with Form JM‑12; and\n(b)in writing in accordance with Form JM‑13 —\n(i)to every person who to the judicial manager’s knowledge claims to be a creditor of the company and who has not proved the person’s debt; or\n(ii)to every person mentioned in the statement of affairs as a creditor who has not proved the person’s debt.\n(3) For the purpose of paragraph (2)(b), the written notice may be sent by the following means:\n(a)delivery by electronic means in accordance with section 442 of the Act;\n(b)sending through the post."
+   }
+  },
+  {
+   "id": "SG-H2780-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 7 ADMISSION AND REJECTION OF PROOFS"
+   },
+   "heading": {
+    "en": "Examination of proof"
+   },
+   "text": {
+    "en": "46.—(1) The judicial manager must examine every proof of debt filed with the judicial manager and the grounds of the debt, and must in writing admit or reject the proof, in whole or in part, or require further evidence in support of the proof.\n(2) If the judicial manager rejects (whether in whole or in part) a proof filed by a creditor, the judicial manager must state in writing in accordance with Form JM‑14 to the creditor the grounds of the rejection."
+   }
+  },
+  {
+   "id": "SG-H2780-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 7 ADMISSION AND REJECTION OF PROOFS"
+   },
+   "heading": {
+    "en": "Appeal by creditor"
+   },
+   "text": {
+    "en": "47.—(1) The Court may, on the application of a creditor who is dissatisfied with the decision of the judicial manager in respect of a proof, by order reverse or vary the decision.\n(2) Subject to the Court’s power to extend the time, no application to the Court for an order to reverse or vary the decision of the judicial manager rejecting a proof filed with the judicial manager by a creditor, or a person claiming to be a creditor, may be entertained, unless notice of the application is given before the expiration of 21 days after the date of the service of the notice of rejection."
+   }
+  },
+  {
+   "id": "SG-H2780-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 7 ADMISSION AND REJECTION OF PROOFS"
+   },
+   "heading": {
+    "en": "Expunging proof at instance of judicial manager"
+   },
+   "text": {
+    "en": "48. If the judicial manager thinks that a proof has been improperly admitted, the Court may, on the application of the judicial manager, after notice to the creditor who made the proof, expunge the proof or reduce its amount."
+   }
+  },
+  {
+   "id": "SG-H2780-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 7 ADMISSION AND REJECTION OF PROOFS"
+   },
+   "heading": {
+    "en": "Expunging proof at instance of creditor"
+   },
+   "text": {
+    "en": "49. The Court may also expunge or reduce a proof upon the application of a creditor if the judicial manager declines to interfere in the matter."
+   }
+  },
+  {
+   "id": "SG-H2780-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 7 ADMISSION AND REJECTION OF PROOFS"
+   },
+   "heading": {
+    "en": "Oaths"
+   },
+   "text": {
+    "en": "50.—(1) For the purposes of any of the judicial manager’s duties in relation to proofs, the judicial manager may administer oaths and take affidavits.\n(2) In this regulation, a judicial manager includes an interim judicial manager."
+   }
+  },
+  {
+   "id": "SG-H2780-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 8 DISCLAIMER"
+   },
+   "heading": {
+    "en": "Notice of disclaimer under section 230 of Act"
+   },
+   "text": {
+    "en": "51.—(1) For the purposes of section 230(1) of the Act, the notice to be given by a judicial manager to disclaim onerous property (called in this Part the notice of disclaimer) must be in Form JM‑15.\n(2) The judicial manager must state in the notice of disclaimer that the company disclaims all the company’s interests in the property, and the notice must contain the following information or particulars:\n(a)the title “Notice of disclaimer under section 230 of the Insolvency, Restructuring and Dissolution Act 2018 (Act 40 of 2018)”;\n(b)the name of the company;\n(c)the name of the judicial manager and his or her contact details;\n(d)a brief description of the property being disclaimed and, if the property is land, the full address of the property;\n(e)whether the property being disclaimed is onerous property of the kind described in section 230(2)(a) or (b)(i), (ii) or (iii) of the Act, and how the property is such onerous property;\n(f)the date of the disclaimer."
+   }
+  },
+  {
+   "id": "SG-H2780-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 8 DISCLAIMER"
+   },
+   "heading": {
+    "en": "Service of copy of notice of disclaimer on interested persons"
+   },
+   "text": {
+    "en": "52.—(1) The judicial manager disclaiming any onerous property must, within 14 days after the date of the notice of disclaimer, serve a copy of the notice on —\n(a)in a case where the property is an unprofitable contract under section 230(2)(a) of the Act — any person who, to the judicial manager’s knowledge, is a party to the contract or has an interest under the contract;\n(b)in a case where the property is of a leasehold nature mentioned in section 231 of the Act — any person who is claiming under the company as sub‑lessee or mortgagee mentioned in section 231(1) of the Act; and\n(c)in any case — any person who (to the judicial manager’s knowledge) —\n(i)claims an interest in the disclaimed property; or\n(ii)is under a liability in respect of the disclaimed property, not being a liability discharged by the disclaimer.\n(2) The copy of the notice of disclaimer may be served on a person mentioned in paragraph (1) —\n(a)personally;\n(b)by prepaid registered post; or\n(c)by electronic means in accordance with section 442 of the Act.\n(3) If subsequently, it comes to the judicial manager’s knowledge that any person has an interest in the disclaimed property that would have entitled the person to receive a copy of the notice of disclaimer under paragraph (1), the judicial manager must then as soon as reasonably practicable serve on that person a copy of the notice.\n(4) Without affecting paragraphs (1) and (3), the judicial manager may at any time serve a copy of the notice of disclaimer on any person who, in the judicial manager’s opinion, ought to be informed of the disclaimer."
+   }
+  },
+  {
+   "id": "SG-H2780-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART 8 DISCLAIMER"
+   },
+   "heading": {
+    "en": "Application by person interested in property"
+   },
+   "text": {
+    "en": "53. For the purposes of section 230(4)(b)(i) of the Act, the application in writing must contain the following information or particulars:\n(a)the name of the company in judicial management;\n(b)a brief description of the property and, if the property is land, the full address of the property;\n(c)the nature of the interest which the person has in the property;\n(d)the date of the application."
+   }
+  },
+  {
+   "id": "SG-H2780-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Constitution, meetings, etc., of committee of creditors"
+   },
+   "text": {
+    "en": "54.—(1) The creditors at the meeting summoned under section 107 of the Act may, after approving the judicial manager’s proposal (with or without modifications), appoint a committee of creditors under section 109 of the Act (called in this regulation the committee), consisting of not less than 5 persons and not more than 7 persons —\n(a)one of whom must be an employee of the company (other than a director or former director) to represent the employees of the company but if those employees belong to a trade union, the trade union may, pursuant to section 116 of the Act, represent those employees; and\n(b)one of whom must be a shareholder of the company to represent the shareholders.\n(2) The employee or shareholder representative appointed under paragraph (1) is entitled to attend all meetings of the committee but is not entitled to vote as a member of the committee.\n(3) At the meeting summoned under section 107 of the Act, the committee must —\n(a)elect from its members a chairperson, who is entitled to vote; and\n(b)decide upon a quorum.\n(4) At a meeting of the committee, all questions must be decided by a resolution in writing signed by a majority in number of the members entitled to vote.\n(5) Any vacancy in the committee is to be filled at the discretion of the committee.\n(6) The committee must hold a meeting at least once every 14 days unless it resolves otherwise.\n(7) If the committee is dissatisfied with the extent or the nature of information provided to it by the judicial manager, it may make representations by way of an application to the Court and the Court, if satisfied that the representations are well‑founded, may give any directions to the judicial manager that the Court considers appropriate."
+   }
+  },
+  {
+   "id": "SG-H2780-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "55."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Notification and advertisement of appointment of replacement judicial manager"
+   },
+   "text": {
+    "en": "55.—(1) If a judicial manager is appointed under section 98(1) or 104(5) of the Act or an interim judicial manager is appointed under section 98(1) of the Act, the judicial manager or interim judicial manager (as the case may be) must —\n(a)lodge with the Registrar of Companies a copy of the order of the Court within 3 days after the date of the order; and\n(b)send to every creditor of the company (so far as the creditor’s address is known) a notice of the order of the Court in accordance with Form JM‑16 within 28 days after the date of the order.\n(2) If a judicial manager is appointed under section 98(2) of the Act, the judicial manager must —\n(a)lodge with the Registrar of Companies a written notice of the appointment within 3 days after the date of his or her appointment; and\n(b)send to every creditor of the company (so far as the creditor’s address is known) a written notice of the appointment within 28 days after the date of his or her appointment.\n(3) The written notice mentioned in paragraph (2) must be given in accordance with Form JM‑17."
+   }
+  },
+  {
+   "id": "SG-H2780-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "56."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Prescribed value under section 234(1)(c) of Act"
+   },
+   "text": {
+    "en": "56. For the purposes of section 234(1)(c)(i) and (ii) of the Act, the prescribed value is $500."
+   }
+  },
+  {
+   "id": "SG-H2780-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "57."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Fees for lodgment or filing of documents"
+   },
+   "text": {
+    "en": "57.—(1) A fee of $20 is payable to the Official Receiver for the lodgment or filing of any of the following documents with the Official Receiver:\n(a)a statutory declaration of an interim judicial manager required to be lodged under section 94(3)(e) of the Act;\n(b)a written notice of the appointment of an interim judicial manager required to be lodged under section 94(5)(a) of the Act;\n(c)a copy of a judicial management order or a written notice of the appointment of a judicial manager, required to be lodged under section 105(1)(a) of the Act;\n(d)a copy of an order made under section 108(5) of the Act effecting a company’s discharge from judicial management, required to be lodged under section 108(7) of the Act;\n(e)a notice of the expiry or extension of the term of a judicial manager required to be filed under section 111(7)(c) of the Act;\n(f)a copy of an order made under section 112(2) of the Act effecting a company’s discharge from judicial management, required to be lodged under section 112(3) of the Act;\n(g)a copy of an order effecting a company’s discharge from judicial management or interim judicial management under section 115(3)(d) of the Act, required to be lodged under section 115(5) of the Act.\n(2) The Permanent Secretary of the Ministry of Law may, in his or her discretion, waive, refund or remit wholly or in part any fee payable under paragraph (1).\n[S 593/2022 wef 15/07/2022]"
+   }
+  }
+ ]
+}

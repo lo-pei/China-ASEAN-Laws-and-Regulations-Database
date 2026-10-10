@@ -1,0 +1,74 @@
+{
+ "id": "PH-H4212",
+ "title": {
+  "zh": null,
+  "en": "An Act Creating Three Positions of Assistant Provincial Fiscal for the Province of Davao del Norte, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended",
+  "orig": "An Act Creating Three Positions of Assistant Provincial Fiscal for the Province of Davao del Norte, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p59",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1968-06-15",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 5411",
+ "officialCode": null,
+ "topics": [
+  "administrative"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 636,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1968/ra_5411_1968.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1968/ra_5411_1968.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4212-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section sixteen hundred seventy-four of the Administrative Code, as amended, is further amended by inserting after the subparagraph relative to the number of assistant provincial fiscals in the Province of Davao the following subparagraph:\n\"Davao del Norte, three assistant provincial fiscals;\""
+   }
+  },
+  {
+   "id": "PH-H4212-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The incumbent assistant provincial fiscal who has chosen to serve the Province of Davao del Norte pursuant to Section seven of Republic Act Numbered Forty-eight hundred sixty-seven shall continue as such under the province of his choice, without need of a new appointment."
+   }
+  },
+  {
+   "id": "PH-H4212-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
+   }
+  }
+ ]
+}

@@ -1,0 +1,263 @@
+{
+ "id": "SG-H945",
+ "title": {
+  "zh": null,
+  "en": "Criminal Procedure Code (Reformative Training) Regulations 2018",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p12",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CPC2010-S723-2018",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 17,
+ "chars": 25013,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CPC2010-S723-2018?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 17 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H945-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Criminal Procedure Code (Reformative Training) Regulations 2018 and come into operation on 31 October 2018."
+   }
+  },
+  {
+   "id": "SG-H945-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“Commissioner” means the Commissioner of Prisons appointed under section 20 of the Prisons Act (Cap. 247);\n“Committee” means a Reformative Training Centre Review Committee established under regulation 5;\n“detainee” means any person who is detained in a reformative training centre pursuant to a sentence of reformative training imposed under section 305 of the Code;\n“Minister” means the Minister charged with the responsibility for law and order;\n“recall”, in relation to a person released from a reformative training centre under a supervision order, means to require the person to report to that or any other reformative training centre;\n“recall order” means a recall order issued by a Committee, the Commissioner, or an authorised person mentioned in regulation 13(1)(b), under regulation 13(1) requiring a person released from a reformative training centre to report to a reformative training centre specified in the recall order to be re‑detained there;\n“relevant person” means —\n(a)a detainee;\n(b)a person released under a supervision order; or\n(c)a person released from day to day, pursuant to a direction under regulation 15(1);\n“revoked Regulations” means the Criminal Procedure Code (Reformative Training) Regulations 2010 (G.N. No. S 802/2010) as in force immediately before 31 October 2018;\n“RTC date”, for a person sentenced to reformative training, means the date the sentence of reformative training takes effect;\n“Superintendent” means a Superintendent of Prisons appointed under section 20 of the Prisons Act for a reformative training centre;\n“supervision order” means a supervision order issued under regulation 4(2) by a Committee;\n“supervision period”, in relation to a person who is subject to a supervision order, means the period starting from the date the person is released from a reformative training centre and ending on the earliest of the following days:\n(a)the day that is the end of 4 years after the person’s RTC date;\n(b)the day the person is discharged from the supervision order under regulation 12(4);\n(c)the day the supervision period under the supervision order comes to an end as specified in regulation 14(b);\n“Visiting Justice” means a member of the Board of Visiting Justices appointed under section 79 of the Prisons Act."
+   }
+  },
+  {
+   "id": "SG-H945-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "3. These Regulations apply to every person who, on or after 31 October 2018 —\n(a)is sentenced to reformative training;\n(b)is a detainee whose sentence of reformative training is imposed before, on or after that date;\n(c)is, or is by virtue of regulation 17(1) treated as, subject to a supervision order;\n(d)is, or is by virtue of regulation 17(2) treated as, recalled under regulation 13(1)(a), or is recalled under regulation 13(1)(b); or\n(e)is, or is by virtue of regulation 17(5) treated as, unlawfully at large under regulation 13(10) or 15(9)."
+   }
+  },
+  {
+   "id": "SG-H945-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Detention in reformative training centre"
+   },
+   "text": {
+    "en": "4.—(1) Subject to paragraph (2), a person sentenced to reformative training must be detained in a reformative training centre until a Committee for the centre releases the person under a supervision order.\n(2) A Committee for a reformative training centre —\n(a)may release, under a supervision order, a person sentenced to reformative training, only after —\n(i)in the case of a person sentenced to reformative training on or after 31 October 2018, the person has served the minimum period of detention as specified by the court under section 305(6) of the Code; or\n(ii)in the case of a person sentenced to reformative training before that date, the person has been detained in the reformative training centre for a period of 18 months after the person’s RTC date; and\n(b)must release, under a supervision order, a person sentenced to reformative training, after the person has been detained in the reformative training centre for a period of 3 years after the person’s RTC date.\n(3) For the purposes of section 305(8)(a) of the Code, the period of detention under a sentence of reformative training must not extend beyond 54 months after the date the sentence takes effect, in any case where the person sentenced to reformative training is recalled pursuant to a recall order, after the person was released under a supervision order."
+   }
+  },
+  {
+   "id": "SG-H945-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Reformative Training Centre Review Committee"
+   },
+   "text": {
+    "en": "5.—(1) The Minister may establish —\n(a)one Reformative Training Centre Review Committee for one or more than one reformative training centre; or\n(b)more than one Reformative Training Centre Review Committee for one reformative training centre.\n(2) The functions of a Committee for a reformative training centre are as follows:\n(a)to determine the suitability of a detainee of the centre for release under a supervision order;\n(b)to determine the suitability of a person released from the centre under a supervision order to be discharged from the supervision order;\n(c)to determine whether to recall a person released from the centre under a supervision order, if the person breaches any requirement specified in the supervision order;\n(d)to recommend to the Commissioner, or an authorised person mentioned in regulation 15(1), whether to make a direction under regulation 15(1).\n(3) Before making any determination or recommendation under paragraph (2) in relation to a relevant person, a Committee for the reformative training centre in which the relevant person is detained, or from which the relevant person is released, may require the Superintendent of the centre to submit a report (in respect of the relevant person) to assist the Committee in making the determination or recommendation.\n(4) Every Committee, in exercising its functions under these Regulations, must act in accordance with any general or special directions of the Minister, and must consider any report submitted under paragraph (3)."
+   }
+  },
+  {
+   "id": "SG-H945-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Constitution of Committee"
+   },
+   "text": {
+    "en": "6.—(1) Every Committee consists of such number (being at least 3) of Visiting Justices as the Minister may determine, each of whom is appointed by the Minister.\n(2) The Minister must appoint one member of a Committee as the chairperson, and another as the deputy chairperson, of the Committee."
+   }
+  },
+  {
+   "id": "SG-H945-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Appointment of Committee member"
+   },
+   "text": {
+    "en": "7.—(1) A Committee member holds office for 3 years or such shorter period as the Minister may specify in any particular case.\n[S 809/2025 wef 19/12/2025]\n(2) A Committee member is eligible for re‑appointment.\n(3) A Committee member may at any time resign from his or her office by notice in writing to the Minister.\n(4) The Minister may at any time revoke the appointment of any Committee member, or fill any vacancy in the membership of any Committee."
+   }
+  },
+  {
+   "id": "SG-H945-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Quorum"
+   },
+   "text": {
+    "en": "8.—(1) The quorum for a meeting of a Committee is 3 members.\n(2) The chairperson of a Committee must preside at every meeting of the Committee at which the chairperson is present.\n(3) If the chairperson of a Committee is absent from a meeting, the deputy chairperson of the Committee, if present at the meeting, must preside at the meeting.\n(4) If both the chairperson and deputy chairperson of a Committee are absent from a meeting, the remaining members of the Committee must elect from among themselves one member to preside at the meeting of the Committee (called in these Regulations the presiding Committee member)."
+   }
+  },
+  {
+   "id": "SG-H945-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Committee proceedings"
+   },
+   "text": {
+    "en": "9.—(1) A Committee sits in private, but is not required to meet in person.\n(2) A meeting of a Committee may be held —\n(a)by a quorum of the members, being assembled together at the time and place appointed for the meeting; or\n(b)by means of audio, audio and visual, or electronic communication, provided that —\n(i)all of the members who wish to participate in the meeting have access to the technology needed to participate in the meeting; and\n(ii)a quorum of members can simultaneously communicate with each other throughout the meeting.\n(3) A Committee —\n(a)is not required to conduct any hearing;\n(b)may invite any person who, in the Committee’s opinion, can give information, in respect of any particular matter, which is likely to be of assistance to the Committee in making any determination or recommendation; and\n(c)is not required to interview any relevant person, or any other person, before making any determination or recommendation mentioned in regulation 5(2), but may do so if the Committee considers it necessary.\n(4) Subject to these Regulations, a Committee may determine its own procedure.\n(5) Every determination or recommendation of a Committee is secret, and must not be disclosed to any person other than a public officer who is authorised by the Minister, the Commissioner, or an authorised person mentioned in regulation 15(1), to prepare, see or comment on the determination or recommendation."
+   }
+  },
+  {
+   "id": "SG-H945-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Giving of determination or recommendation"
+   },
+   "text": {
+    "en": "10.—(1) All questions for the determination or recommendation of a Committee are to be decided by a majority of the votes of the Committee members present and voting.\n(2) If there is an equality of votes at a meeting of a Committee, the person who presides at the meeting (whether the chairperson or deputy chairperson of the Committee, or the presiding Committee member) has a casting vote.\n(3) The determination or recommendation of a Committee may be accompanied by any dissenting view of a Committee member who voted against the determination or recommendation.\n(4) A Committee member participating in a meeting in accordance with regulation 9(2)(b) is taken to be present at the meeting."
+   }
+  },
+  {
+   "id": "SG-H945-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Commissioner or authorised person to consider recommendation"
+   },
+   "text": {
+    "en": "11. The Commissioner, or an authorised person mentioned in regulation 15(1), must consider, but is not required to follow, any recommendation given by a Committee."
+   }
+  },
+  {
+   "id": "SG-H945-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Supervision period after release from reformative training centre"
+   },
+   "text": {
+    "en": "12.—(1) A person subject to a supervision order —\n(a)is under the supervision of a person determined by the Superintendent of the centre; and\n(b)during the supervision period, must comply with every requirement specified in that supervision order.\n(2) Without limiting the requirements that may be specified in a supervision order, a supervision order may require the person subject to the order to do all or any of the following during the supervision period:\n(a)to attend such counselling, therapy, test, assessment or other activity, for the purpose of facilitating the person’s rehabilitation and reintegration into society, and at such time and place, as may be specified in that order;\n(b)to present himself or herself, and to provide a specimen of his or her urine or hair for testing, at such time and place as may be specified in that order;\n(c)to remain indoors at the person’s place of residence or such other place, and at such time, as may be specified in that order;\n(d)to allow the Superintendent, or any officer authorised by the Superintendent, to enter the person’s place of residence, or any other place the person is required to remain at, to determine the person’s compliance with any requirement of that order or for any purpose relating to the person’s rehabilitation;\n(e)for the purpose of enabling the electronic monitoring of the person’s whereabouts —\n(i)to wear any electronic transmitting device on such part of his or her person as may be specified by the Superintendent;\n(ii)to allow the Superintendent, or any officer authorised by the Superintendent, to enter the person’s place of residence, or any other place the person is required to remain at, to install, inspect, maintain, repair or retrieve any electronic monitoring device;\n(iii)to comply with all requirements to ensure the proper functioning of any electronic monitoring device issued to the person, or installed at the person’s place of residence or any other place the person is required to remain at;\n(iv)not to tamper with any electronic monitoring device issued to the person or installed at the person’s place of residence, or any other place the person is required to remain at, or otherwise prevent or obstruct the electronic monitoring of the person’s whereabouts;\n(v)to inform the Superintendent, or any other person designated by the Superintendent, immediately of any malfunction, damage or loss of the electronic monitoring device;\n(vi)to respond promptly to any telephone call from the centre set up to monitor persons who have been issued with the electronic monitoring device; and\n(vii)to comply with all reporting requirements imposed on the person.\n(3) A Committee may, at any time, modify or cancel any of the requirements specified in the supervision order.\n(4) A Committee may, at any time, order that a person who is subject to a supervision order be discharged from the supervision order before the end of the supervision period.\n(5) Any person discharged from the supervision order under paragraph (4) ceases to be subject to these Regulations."
+   }
+  },
+  {
+   "id": "SG-H945-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Recall orders"
+   },
+   "text": {
+    "en": "13.—(1) Where a person who is released from a reformative training centre subject to a supervision order fails, during the person’s supervision period, to comply with any requirement for the time being specified in the supervision order, the person may be recalled to that or any other reformative training centre before the end of that supervision period by a recall order issued by —\n(a)the Committee of that or any other reformative training centre; or\n(b)the Commissioner, or a person authorised by the Commissioner to issue a recall order (called in this regulation the authorised person), if the Commissioner or authorised person agrees with the recommendation of the Superintendent of that or any other reformative training centre to recall the person.\n(2) Every recall order issued under paragraph (1) recalling a person to a reformative training centre must state the date on which the person must report to the reformative training centre for re‑detention.\n(3) A recall order issued by the Committee may order the re‑detention of a person in a reformative training centre for —\n(a)a period ending no later than 3 years after the person’s RTC date; or\n(b)a period ending no later than 6 months after the date the person is re‑detained under the recall order,\nwhichever period in sub‑paragraph (a) or (b) ends later.\n(4) A recall order issued by the Commissioner or authorised person may order the re‑detention of a person in a reformative training centre, in respect of a failure to comply with any requirement for the time being specified in the person’s supervision order, for —\n(a)a period no longer than 10 days for a single failure; or\n(b)if there are 2 or more failures, a period no longer than 10 days for each such failure but not exceeding 30 days in total.\n(5) Nothing in this regulation prevents a Committee from issuing a recall order in respect of a person, being a person in respect of whom the Commissioner, or authorised person, has earlier issued a recall order for failing to comply with a requirement specified in the person’s supervision order, if the Committee is satisfied that the person has failed to comply with any other requirement for the time being specified in the person’s supervision order.\n(6) Despite paragraph (3), a recall order issued by a Committee in respect of a person in the circumstances in paragraph (5) may, if the person is re‑detained under a recall order earlier issued by the Commissioner or authorised person, order a longer re‑detention of the person in a reformative training centre, for —\n(a)a period ending no later than 3 years after the person’s RTC date; or\n(b)a period ending no later than 6 months after the date the person is so re‑detained under the recall order earlier issued by the Commissioner or authorised person,\nwhichever period in sub‑paragraph (a) or (b) ends later.\n(7) Despite any recall order ordering that a person be re‑detained in a reformative training centre —\n(a)the Committee may, at any time before the end of the applicable period specified in paragraph (3) or (6), release the person under a supervision order; and\n(b)regulation 12 applies to the person so released as it applies to a person released under regulation 4.\n(8) Despite paragraphs (3)(b) and (6)(b), a recall order issued by the Committee must not order the re‑detention of a person in a reformative training centre for a period extending beyond 54 months after the person’s RTC date.\n(9) If a recall order is issued in relation to a person and the person fails to report to a reformative training centre under the recall order —\n(a)in the case of a person sentenced to reformative training before 31 October 2018, the recall order ceases to have effect at the end of 4 years after the person’s RTC date; and\n(b)in any other case, the recall order ceases to have effect only at the end of 54 months after the person’s RTC date.\n(10) A person recalled under this regulation to a reformative training centre who does not report to the reformative training centre on the date specified in the recall order is treated as unlawfully at large."
+   }
+  },
+  {
+   "id": "SG-H945-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Effect of recall order on supervision period"
+   },
+   "text": {
+    "en": "14. A recall order issued in respect of a person subject to a supervision order has the following effect:\n(a)for a recall order issued by the Commissioner, or an authorised person mentioned in regulation 13(1)(b), the supervision period under the supervision order does not end when the person reports to the reformative training centre concerned to be re‑detained, but is suspended —\n(i)from the time the person is a detainee because of the re‑detention; and\n(ii)until the time that re‑detention under the recall order ends;\n(b)for a recall order issued by a Committee, the supervision period under the supervision order ends —\n(i)when the person reports to the reformative training centre concerned to be re‑detained; or\n(ii)when the recall order is issued by the Committee in the circumstances mentioned in regulation 13(5), if the person is already a detainee in a reformative training centre because of an earlier recall order issued by the Commissioner or an authorised person mentioned in regulation 13(1)(b)."
+   }
+  },
+  {
+   "id": "SG-H945-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Release to engage in employment, educational course, etc."
+   },
+   "text": {
+    "en": "15.—(1) Despite regulation 4, the Commissioner or a person authorised by the Commissioner to make a direction under this regulation (called in this regulation the authorised person) may, from time to time, on the recommendation of a Committee, direct that a detainee be released from day to day to engage in such employment (including self‑employment), educational course, occupational training or other activity, as specified by the Commissioner or the authorised person.\n(2) Any direction made under paragraph (1) has effect for a period to be fixed by the Commissioner or authorised person, and may be subject to such conditions and restrictions as the Commissioner or authorised person may impose.\n(3) The conditions and restrictions that the Commissioner or authorised person may impose under paragraph (2) on a person released under paragraph (1) include the following conditions and restrictions:\n(a)the person must not leave the reformative training centre without the approval of the Superintendent of the centre;\n(b)the person must not be absent, without good cause, from the employment, educational course, occupational training or other activity specified by the Commissioner or authorised person under paragraph (1);\n(c)the person must immediately after completing the person’s employment, educational course, occupational training or activity for the day —\n(i)return to the reformative training centre and report to the officer designated by the Superintendent; or\n(ii)if the Commissioner or authorised person grants leave to the person under paragraph (5), return to the specified place;\n(d)the person must provide a specimen of the person’s urine or hair for testing at such time and place as may be required by the Superintendent;\n(e)the person must not commit any act of gross misconduct or insubordination;\n(f)the person must not commit any offence.\n(4) The Commissioner or authorised person may at any time revoke any direction made under paragraph (1).\n(5) Where the Commissioner or authorised person has directed that a person be released under paragraph (1), the Commissioner or authorised person may, subject to such conditions and restrictions as the Commissioner or authorised person thinks fit, grant leave to the person to spend the period during which the person is released at such place as the Commissioner or authorised person may specify (called in this regulation the specified place).\n(6) The conditions and restrictions that the Commissioner or authorised person may impose under paragraph (5) on a person granted leave under that paragraph include the following conditions and restrictions:\n(a)the person must remain indoors at the specified place at such times as the Superintendent may specify;\n(b)the person must wear such electronic transmitting device on such part of his or her person as the Superintendent may specify;\n(c)the person must allow the Superintendent, or any person authorised by the Superintendent, to enter at any time the specified place to install, inspect, maintain, repair or retrieve any electronic monitoring device;\n(d)the person must comply with all requirements to ensure the proper functioning of any electronic monitoring device issued to the person or installed at the specified place;\n(e)the person must not tamper with any electronic monitoring device issued to the person or installed at the specified place, or otherwise prevent or obstruct the electronic monitoring of the person’s whereabouts;\n(f)the person must inform the Superintendent, or any other person designated by the Superintendent, immediately of any malfunction, damage or loss of the electronic monitoring device;\n(g)the person must respond promptly to any telephone call from the centre set up to monitor persons who have been issued with the electronic monitoring device;\n(h)the person must comply with all reporting requirements imposed on the person.\n(7) The Commissioner or authorised person may at any time revoke any leave granted to a person under paragraph (5).\n(8) While any direction for the release of a person under paragraph (1), or any leave granted to a person under paragraph (5), is in force, the Superintendent of the reformative training centre at which the person is detained must release the person at such times and for such periods as are necessary to give effect to the direction or grant of leave (as the case may be).\n(9) If any person released pursuant to a direction made under paragraph (1), or granted leave under paragraph (5), remains at large without lawful excuse or fails to return to the reformative training centre from which the person was released, after such direction or leave has been revoked, the person is unlawfully at large.\n(10) Every person released from a reformative training centre under this regulation continues to be in the custody of the Superintendent of the centre while so released."
+   }
+  },
+  {
+   "id": "SG-H945-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Revocation"
+   },
+   "text": {
+    "en": "16. The Criminal Procedure Code (Reformative Training) Regulations 2010 (G.N. No. S 802/2010) are revoked."
+   }
+  },
+  {
+   "id": "SG-H945-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "heading": {
+    "en": "Transitional provisions"
+   },
+   "text": {
+    "en": "17.—(1) If the period of the supervision of a person under regulation 4 of the revoked Regulations does not end before 31 October 2018 —\n(a)the person is, on and after that date, to be treated as subject to a supervision order;\n(b)the period of supervision continues to run as if regulation 12 had been in force when the period of supervision started; and\n(c)any requirement specified in a notice given to the person before that date under regulation 4 of the revoked Regulations continues to apply on and after that date, as if it is a requirement specified in a supervision order under regulation 12.\n(2) On and after 31 October 2018 —\n(a)a person recalled under regulation 5(1) of the revoked Regulations is to be treated as recalled under regulation 13(1)(a); and\n(b)an order under regulation 5(1) of the revoked Regulations is to be treated as a recall order issued by the Committee under regulation 13(1)(a).\n(3) If the period during which a direction made under regulation 7(1) of the revoked Regulations is to have effect does not end before 31 October 2018 —\n(a)the direction is, on and after that date, to be treated as a direction made under regulation 15(1);\n(b)the period continues to run as if regulation 15(1) had been in force when the period started; and\n(c)any conditions and restrictions imposed before that date under regulation 7(2) of the revoked Regulations continue to apply, on and after that date, as if they are conditions and restrictions imposed under regulation 15(2).\n(4) If leave is granted before 31 October 2018 under regulation 7(4) of the revoked Regulations to a detainee, and the period of the leave does not end before that date —\n(a)the leave is, on and after that date, to be treated as leave granted under regulation 15(5);\n(b)the period continues to run as if regulation 15(5) had been in force when the period started; and\n(c)any conditions and restrictions imposed before that date under regulation 7(4) of the revoked Regulations continue to apply, on and after that date, as if they are conditions and restrictions imposed under regulation 15(5).\n(5) A person who, immediately before 31 October 2018, is deemed under regulation 5(2) or 7(7) of the revoked Regulations to be unlawfully at large is, on and after that date, to be treated as unlawfully at large under regulation 13(10) or 15(9), as the case may be."
+   }
+  }
+ ]
+}

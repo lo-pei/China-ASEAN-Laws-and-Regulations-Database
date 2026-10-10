@@ -1,0 +1,74 @@
+{
+ "id": "PH-H6682",
+ "title": {
+  "zh": "设立Puerto Princesa市",
+  "en": "An Act Creating the City of Puerto Princesa",
+  "orig": "An Act Establishing a Separate City Schools Division Office in the City of Puerto Princesa, Province of Palawan, Amending for the Purpose Republic Act Numbered Five Thousand Nine Hundred Six, Entitled \"An Act Creating the City of Puerto Princesa\""
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p95",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1996-09-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 8204",
+ "officialCode": null,
+ "topics": [
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1019,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1996/ra_8204_1996.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1996/ra_8204_1996.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 22 条，缺 3、4、5、6、7、8、9、10、11、12、13、14、15、16、17、18、19、20、21）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H6682-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section 22, Article VI of Republic Act No. 5906 is hereby amended to read as follows:\n\"ARTICLE VI. Relation to Bureaus and Other Offices.\n\""
+   }
+  },
+  {
+   "id": "PH-H6682-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "text": {
+    "en": "The Department of Education, Culture and Sports. – The Secretary of Education, Culture and Sports shall exercise the same jurisdiction and powers in the city as elsewhere in the Philippines, and the city schools superintendent shall be the head of the city schools. He shall have all the powers and duties in respect to the schools of the city as are vested in division superintendents in respect to schools of their division: Provided, That salaries of the supervisors, principals, teachers, and other operational expenses of the primary, intermediate, high schools, and other public schools in the city shall be borne by the national government: Provided, further , That the powers and duties of the local government as contained in the Local Government Code in support of the schools shall not be abridged, curtailed or diminished.\""
+   }
+  },
+  {
+   "id": "PH-H6682-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

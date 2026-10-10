@@ -1,0 +1,146 @@
+{
+ "id": "SG-H128",
+ "title": {
+  "zh": null,
+  "en": "Administration of Muslim Law (Muslim Converts) Rules",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p02",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation AMLA1966-R3",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 8,
+ "chars": 2651,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/AMLA1966-R3?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 8 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H128-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Rules may be cited as the Administration of Muslim Law (Muslim Converts) Rules."
+   }
+  },
+  {
+   "id": "SG-H128-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Rules, unless the context otherwise requires —\n“Muslim Convert” means a person who is registered under rule 5(2) as one who has converted to the Muslim religion;\n“syahadah” means the declaration of Islamic faith."
+   }
+  },
+  {
+   "id": "SG-H128-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Restrictions to conversion"
+   },
+   "text": {
+    "en": "3.—(1) No person shall be converted to the Muslim religion except in accordance with the Muslim law, and the provisions of the Act and these Rules.\n(2) No person below the age of 18 years shall be converted to the Muslim religion without the consent of his parents or guardian."
+   }
+  },
+  {
+   "id": "SG-H128-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Registration Officer"
+   },
+   "text": {
+    "en": "4. The Majlis shall appoint an officer, to be called the Registration Officer, for the purposes of these Rules."
+   }
+  },
+  {
+   "id": "SG-H128-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Registration of Muslim Converts"
+   },
+   "text": {
+    "en": "5.—(1) The Registration Officer shall —\n(a)record in duplicate, in such form as the Majlis shall determine, the personal particulars of any person who wishes to be converted to the Muslim religion; and\n(b)explain to the person the following:\n(i)the 5 pillars of Islam;\n(ii)the 6 tenets of Islam; and\n(iii)the Muslim burial rites.\n(2) The Registration Officer shall register a person as one who has converted to the Muslim religion upon his recitation of the syahadah in the presence of 2 male adult Muslim witnesses and the Registration Officer.\n(3) After the registration of the person under paragraph (2) as a Muslim Convert —\n(a)the 2 witnesses referred to in that paragraph and the Registration Officer shall sign the form referred to in paragraph (1)(a); and\n(b)the Registration Officer shall issue a conversion certificate in such form as may be approved by the Majlis to the Muslim Convert.\n(4) The Majlis shall maintain a register of the names of all persons converted to the Muslim religion within Singapore together with the following particulars in respect of each of their conversion:\n(a)the date of conversion;\n(b)the Muslim name of the Muslim Convert, if applicable; and\n(c)the personal particulars of the 2 witnesses referred to in paragraph (2)."
+   }
+  },
+  {
+   "id": "SG-H128-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Form to be forwarded to Chief Executive of Majlis"
+   },
+   "text": {
+    "en": "6. The Registration Officer shall —\n(a)forward to the Chief Executive of the Majlis as soon as possible, but not later than one week following the registration of a Muslim Convert, the form referred to in rule 5(1)(a); and\n[S 805/2017 wef 01/01/2018]\n(b)retain a duplicate of the form.\n[S 805/2017 wef 01/01/2018]"
+   }
+  },
+  {
+   "id": "SG-H128-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Provision of course"
+   },
+   "text": {
+    "en": "7. The Majlis shall provide, or cause to be provided, for the benefit of each Muslim Convert a course on the fundamentals of the Muslim religion free of charge."
+   }
+  },
+  {
+   "id": "SG-H128-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Change of name in identity card"
+   },
+   "text": {
+    "en": "8. A Muslim Convert may apply to the Commissioner of National Registration to have his name in his identity card changed on the production of the conversion certificate issued under rule 5(3)(b).\n[G.N. No. S 351/2007]"
+   }
+  }
+ ]
+}

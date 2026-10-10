@@ -1,0 +1,68 @@
+{
+ "id": "SG-H3042",
+ "title": {
+  "zh": null,
+  "en": "Liquor Control (Supply and Consumption) (Trading Hours) Order 2015",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p38",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation LCSCA2015-S187-2015",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 870,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/LCSCA2015-S187-2015?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 2 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3042-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. This Order may be cited as the Liquor Control (Supply and Consumption) (Trading Hours) Order 2015 and comes into operation on 1 April 2015."
+   }
+  },
+  {
+   "id": "SG-H3042-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Trading hours in Liquor Control Zones"
+   },
+   "text": {
+    "en": "2. Despite the trading hours specified in any Class 3A, Class 3B or Class 4 liquor licence for licensed premises in a Liquor Control Zone, the daily trading hours for these licensed premises are as follows:\n(a)beginning at 7 a.m. and ending immediately before 10.30 p.m. on any Monday, Tuesday, Wednesday, Thursday or Friday;\n(b)beginning at 7 a.m. and ending immediately before 7 p.m. on any Saturday or Sunday;\n(c)despite sub-paragraphs (a) and (b), where any of those days is a public holiday —\n(i)the daily trading hours begin at 7 a.m. and end immediately before 7 p.m. on the eve of the public holiday; and\n(ii)the daily trading hours begin at 7 a.m. and end immediately before 7 p.m. on each day that is a public holiday."
+   }
+  }
+ ]
+}

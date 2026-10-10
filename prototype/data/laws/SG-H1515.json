@@ -1,0 +1,107 @@
+{
+ "id": "SG-H1515",
+ "title": {
+  "zh": null,
+  "en": "Fees (Translation of Documents — Ministry of Manpower) Order",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p19",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation FeA1920-OR41",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1382,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/FeA1920-OR41?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 5 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1515-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Order may be cited as the Fees (Translation of Documents — Ministry of Manpower) Order."
+   }
+  },
+  {
+   "id": "SG-H1515-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Fees for certified translations"
+   },
+   "text": {
+    "en": "2. The following fees for certified translations of documents and the certification of translated documents shall be leviable by the Ministry of Manpower:\n(a)In respect of documents for use in enquiries held under Part XV of the Employment Act (Cap. 91) …\n$3 per folio or part thereof and $1 for every additional folio or part thereof.\n(b)In respect of other documents —\n(i)for translations from Chinese, Tamil, Malayalam or Malay into English —\nfor the first 30 lines or less …\n$12\nand for every additional 30 lines or part thereof …\n$6\n(ii)for translations from English into Chinese, Tamil, Malayalam or Malay —\nfor the first 100 Chinese characters or Tamil, Malayalam or Malay words or less …\n$16\nand for every additional 100 characters or words or part thereof …\n$8."
+   }
+  },
+  {
+   "id": "SG-H1515-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Uncertified translations"
+   },
+   "text": {
+    "en": "3. Fees at one-third of the rates laid down in paragraph 2(b) shall be levied for uncertified translations which the Commissioner for Labour may, in his discretion, agree to undertake."
+   }
+  },
+  {
+   "id": "SG-H1515-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Fees payable in advance"
+   },
+   "text": {
+    "en": "4. Fees shall be payable in advance before translations are supplied."
+   }
+  },
+  {
+   "id": "SG-H1515-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Discretion of Commissioner"
+   },
+   "text": {
+    "en": "5. The Commissioner for Labour may, in his discretion, either —\n(a)refuse to undertake the translation of any document; or\n(b)remit any fee for the translation of any document, which, in his opinion, is directly connected with the work of the Ministry of Manpower."
+   }
+  }
+ ]
+}

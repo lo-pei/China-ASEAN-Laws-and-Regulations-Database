@@ -1,0 +1,68 @@
+{
+ "id": "SG-H2070",
+ "title": {
+  "zh": null,
+  "en": "Income Tax (Exemption of Foreign Income) (No. 4) Order 2018",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p26",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ITA1947-S503-2018",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 644,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ITA1947-S503-2018?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 2 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2070-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Order is the Income Tax (Exemption of Foreign Income) (No. 4) Order 2018."
+   }
+  },
+  {
+   "id": "SG-H2070-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "2.—(1) Income comprising dividends of US$3,800,000 received in Singapore by Lodgis Hospitality Holdings Pte. Ltd. (a company incorporated in Singapore) on 12 September 2017 from Madrid Holdings (BVI) Limited and Prime Value Asia Limited (both companies incorporated in the British Virgin Islands), is exempt from tax.\n(2) The exemption in sub‑paragraph (1) is subject to the terms and conditions specified in paragraphs 3 and 4 of the letter of approval dated 25 July 2018 addressed to Deloitte & Touche LLP, the tax agent of Lodgis Hospitality Holdings Pte. Ltd."
+   }
+  }
+ ]
+}

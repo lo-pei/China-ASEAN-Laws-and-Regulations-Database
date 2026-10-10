@@ -1,0 +1,81 @@
+{
+ "id": "SG-H1919",
+ "title": {
+  "zh": null,
+  "en": "Income Tax (Approved Unit Trust) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p24",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ITA1947-RG12",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 4789,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ITA1947-RG12?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1919-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1.—(1) These Regulations may be cited as the Income Tax (Approved Unit Trust) Regulations.\n(2) These Regulations shall apply to the income of an approved unit trust derived on or after 1st July 1989."
+   }
+  },
+  {
+   "id": "SG-H1919-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Gains or profits of an approved unit trust"
+   },
+   "text": {
+    "en": "2.—(1) This regulation shall apply for the purposes of ascertaining the chargeable income or the net amount of any gains or profits not chargeable to tax of an approved unit trust for the basis period for any year of assessment (referred to in this regulation as the relevant basis period).\n(2) The amount of any gains or profits, wherever derived, from —\n(a)the disposal of securities and chargeable to tax shall be an amount equal to 10% of the total amount of such gains or profits;\n(b)the disposal of securities and not chargeable to tax shall be an amount equal to 90% of the total amount of such gains or profits.\n(3) The amount of any loss, wherever arising, from the disposal of securities to be deductible —\n(a)against gains or profits from the disposal of securities chargeable to tax shall be an amount equal to 10% of the total amount of such loss;\n(b)against gains or profits from the disposal of securities not chargeable to tax shall be an amount equal to 90% of the total amount of such loss.\n(4) The Comptroller shall determine the manner and extent to which any losses are to be deducted.\n(5) There shall be allowed as a deduction in such manner and to such extent as the Comptroller shall determine, against gains or profits or added to losses from the disposal of securities determined under paragraph (2) or (3) —\n(a)half of the expenses paid in respect of the management of investments in the relevant basis period to any person who is a resident of or has a permanent establishment in Singapore (referred to in this regulation as the management expenses); and\n(b)any other expenses which are to be deducted.\n(6) The other half of the management expenses shall be available as a deduction against interest and dividends and the amount of the deduction shall be ascertained by the formula\nwhere A\nis the other half of the management expenses paid in respect of the relevant basis period;\nB\nis the total interest and dividends chargeable to tax in the relevant basis period;\nC\nis the total investment income (whether chargeable to tax or not) for the relevant basis period:\nProvided that the amount allowed as a deduction under this paragraph for any year of assessment shall not exceed the total interest and dividends chargeable to tax in the relevant basis period.\n(7) Where the amount of any expenses or loss is in excess of the gains or profits chargeable or not chargeable to tax respectively, any such excess shall not be available as a deduction against any other income.\n(8) Any amount provided for the diminution in the value of securities or any amount written off against the value of securities before disposal shall not be deductible."
+   }
+  },
+  {
+   "id": "SG-H1919-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Determination of gains or profits"
+   },
+   "text": {
+    "en": "3. For the purposes of determining the gains or profits from the disposal of securities —\n(a)the cost of the shares on which entitlements to rights issues or options are based shall be reduced by any proceeds arising from the disposal of such entitlements or options;\n(b)where the proceeds arising from the disposal of entitlements to rights issues or options exceed the cost of the shares on which the entitlements or options are based, the portion of the excess chargeable to tax shall be 10%;\n(c)where shares are exchanged for any other shares, in circumstances other than those referred to in paragraph (e), the first-mentioned shares shall be deemed to have been disposed of on the date of acceptance by the approved unit trust of the offer to exchange the shares;\n(d)the average unit cost of each share after a bonus issue or share split shall be determined by dividing the cost of the original shares upon which the bonus shares or shares arising from the share split are based by —\n(i)in the case of a share split, the total number of the split shares;\n(ii)in the case of a bonus issue, the total number of the original and bonus shares;\n(e)where shares held by the approved unit trust are compulsorily acquired in part for money and in part for shares or wholly for shares in the take-over or reconstruction of a company to which those shares relate —\n(i)if the acquisition is wholly for shares, the cost of the new shares exchanged as consideration for the acquired shares shall be deemed to be the cost of the acquired shares; or\n(ii)if the acquisition is in part for shares and in part for money, the cost of the new shares shall be deemed to be the cost of the acquired shares reduced by the amount of the payment in money and, if the amount paid in money exceeds the cost of the acquired shares, the portion of the excess chargeable to tax shall be 10%; and\n(f)any reference to “shares” shall include stocks."
+   }
+  }
+ ]
+}

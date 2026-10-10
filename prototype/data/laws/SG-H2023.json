@@ -1,0 +1,68 @@
+{
+ "id": "SG-H2023",
+ "title": {
+  "zh": null,
+  "en": "Income Tax (Exemption of Foreign Income) (No. 11) Order 2017",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p26",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ITA1947-S593-2017",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1179,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ITA1947-S593-2017?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 2 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2023-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Order is the Income Tax (Exemption of Foreign Income) (No. 11) Order 2017."
+   }
+  },
+  {
+   "id": "SG-H2023-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "2.—(1) Dividends received in Singapore by Wan Hai International Pte. Ltd. (a company incorporated in Singapore) during the period starting on 1 June 2016 and ending on 31 May 2021 from Wan Hai Lines (United Arab Emirates) LLC (a company incorporated in the United Arab Emirates) and paid out of profits from the business of ship agency are exempt from tax.\n(2) The exemption in sub‑paragraph (1) is subject to the following conditions:\n(a)Wan Hai International Pte. Ltd. is an approved company for the purposes of section 43ZF of the Act on the date that it receives the dividends mentioned in sub‑paragraph (1);\n(b)Wan Hai International Pte. Ltd. is able to track the source of the dividends mentioned in sub‑paragraph (1).\n(3) In this paragraph —\n“approved company” and “related company” have the same meanings as in section 43ZF(8) of the Act;\n“ship agency” means the activities performed by Wan Hai Lines (United Arab Emirates) LLC on behalf of any related company of Wan Hai International Pte. Ltd. in relation to the vessels, masters and crews, cargoes and customers of such related company."
+   }
+  }
+ ]
+}

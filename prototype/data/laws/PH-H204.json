@@ -1,0 +1,64 @@
+{
+ "id": "PH-H204",
+ "title": {
+  "zh": null,
+  "en": "An Act Setting a New Time Limit Within Which Imperfect or Incomplete Titles Covering Lands of the Public Domain May be Judicially Confirmed, Amending for This Purpose Sections Forty-Five and Forty-Seven of the Public Land Act, as Amended by Commonwealth Act Numbered Two Hundred and Ninety-Two",
+  "orig": "An Act Setting a New Time Limit Within Which Imperfect or Incomplete Titles Covering Lands of the Public Domain May be Judicially Confirmed, Amending for This Purpose Sections Forty-Five and Forty-Seven of the Public Land Act, as Amended by Commonwealth Act Numbered Two Hundred and Ninety-Two"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p02",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1947-06-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 106",
+ "officialCode": null,
+ "topics": [
+  "judiciary"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 2866,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1947/ra_106_1947.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1947/ra_106_1947.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H204-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section one of Commonwealth Act Numbered Sixty-three is amended to read as follows:\n\"Sec. 1. How citizenship may be lost. — A Filipino citizen may lose his citizenship in any of the following ways and/or events:\n\"(1) By naturalization in foreign country;\n\"(2) By express renunciation of citizenship;\n\"(3) By subscribing to an oath of allegiance to support the constitution or laws of a foreign country upon attaining twenty-one years of age or more: Provided, However, That a Filipino may not divest himself of Philippine citizenship in any manner while the Republic of the Philippines is at war with any country;\n\"(4) By rendering services to, or accepting commission in, the armed forces of a foreign country: Provided, That the rendering of service to, or the acceptance of such commission in, the armed forces of a foreign country, and the taking of an oath of allegiance incident thereto, with the consent of the Republic of the Philippines, shall not divest a Filipino of his Philippine citizenship if either of the following circumstances is present:\n\"(a) The Republic of the Philippines has a defensive and/or offensive pact of alliance with the said foreign country; or \"(b) The said foreign country maintains armed forces on Philippine territory with the consent of the Republic of the Philippines: Provided, That the Filipino citizen concerned, at the time of rendering said service, or acceptance of said commission, and taking the oath of allegiance incident thereto, states that he does so only in connection with his service to said foreign country: And Provided, finally, That any Filipino citizen who is rendering service to, or is commissioned in, the armed forces of a foreign country under any of the circumstances mentioned in paragraph (a) and (b), shall not be permitted to participate nor vote in any election of the Republic of the Philippines during the period of his service to, or commission in, the armed forces of said foreign country. Upon his discharge from the service of the said foreign country, he shall be automatically entitled to the full enjoyment of his civil and political rights as a Filipino citizen;\n\"(5) By cancellation of the certificates of naturalization;\n\"(6) By having been declared by competent authority, a deserter of the Philippine armed forces in time of war, unless subsequently, a plenary pardon or amnesty has been granted; and \"(7) In the case of a woman, upon her marriage to a foreigner if, by virtue of the laws in force in her husband’s country, she acquires his nationality.\""
+   }
+  },
+  {
+   "id": "PH-H204-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval, but the benefits thereunder shall accrue to persons who, prior thereto, have lost Philippine citizenship under the provisions of Commonwealth Act Numbered Sixty-three but come within the proviso of paragraph (4) of section one of said Act as herein amended.\nApproved: June 2, 1947"
+   }
+  }
+ ]
+}

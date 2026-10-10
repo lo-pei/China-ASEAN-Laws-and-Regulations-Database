@@ -1,0 +1,94 @@
+{
+ "id": "PH-H1949",
+ "title": {
+  "zh": null,
+  "en": "An Act to Provide for National Tax Census",
+  "orig": "An Act to Amend Sections One and Four of Republic Act Numbered Twenty Hundred Seventy, Entitled “An Act to Provide for National Tax Census”"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p27",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1959-05-15",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2212",
+ "officialCode": null,
+ "topics": [
+  "tax"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 4304,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1959/ra_2212_1959.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1959/ra_2212_1959.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文存在同号重出的条款（第 1 条）：该处官方页面确有两段均标同一 Section 号，本库照录其 `no` 值（不改动官方编号），条文 `id` 以 `_2`「_3」后缀保证唯一。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1949-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section one of Republic Act Numbered Twenty hundred seventy is amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H1949-A1_2",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Every resident of the Philippines over eighteen years of age, every guardian of minors and executor or administrator of estates and every corporation, joint stock company, partnership, joint account or association, whether domestic or resident foreign, shall within the month of February of 1962, and thereafter within the same month every four years, file with the city or municipal treasurer in such form as the Commissioner of Internal Revenue, with the approval of the Secretary of Finance, shall prescribe, without charge to such resident corporation, joint stock company, partnership, joint account or association, a statement under oath showing: in the case of a corporation, joint stock company, partnership, joint account or association: (1) the name of the business or businesses engaged in, (2) form of organization, (3) name and nationality of president, (4) name and nationality of manager thereof and (5) list of stockholders, partners or members of associations with their respective holdings; in the case of individuals: (1) name, (2) age, (3) sex, (4) nationality (if alien, the number of the Alien Registration Certificate), and aliases used, or authorized to be used, if any, (5) address, (6) occupation, (7) place of business, (8) wife’s or husband’s name, age, sex, occupation and place of business, and (9) the members of his family, age and sex; and in both cases: (1) real property owned, stating the nature thereof, location and assessed value thereof, and the annual gross income therefrom during the preceding year, (2) property held under lease stating also the nature, location and assessed value thereof and the annual income during the preceding year, (3) businesses subject to tax giving the nature and location thereof and the annual gross receipts or earnings during the preceding year, (4) stocks in corporations or shares in partnership or associations, (5) inventories of assets particularly machineries and buildings, merchandise on hand, unfinished goods and raw materials on hand, short and long-term receivables, and investments in stocks and bonds, (6) professions or occupations, stating the kind and location thereof and the annual salaries or gross receipts or earnings during the preceding year, and (7) personal properties except those worth less than five hundred pesos: Provided, However , That persons who failed to file their tax census declaration on or before October 21, 1958 are required to do so up to February 28, 1960, without incurring any penalty: Provided, further, That administrative or other fines imposed upon and collected from persons who filed their declarations after October 21, 1958 shall be refunded, without the necessity of any written claims for credit as provided for in section three hundred nine of the National Internal Revenue Code, and administrative or other fines imposed and unpaid are hereby remitted. This statement shall be prepared in quadruplicate. One copy shall be retained by the city or municipal treasurer who shall transmit the original and two copies to the Regional Director concerned, who shall send the original to the Commissioner of Internal Revenue and a copy to the Director of the Census and Statistics.\n\"The Commissioner of Internal Revenue may, in meritorious cases, grant a reasonable extension of thirty days for filing the statement required in this Act.\""
+   }
+  },
+  {
+   "id": "PH-H1949-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section four of Republic Act Numbered Twenty hundred and seventy is hereby amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H1949-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "The statements furnished the Commissioner of Internal Revenue shall be consolidated by the Bureau of Internal Revenue into a tax census, copies of which shall be transmitted to the Secretary of Finance for statistical purposes, with the end in view of formulating tax policies and recommending reforms in the tax system and in revenue administration to achieve efficiency and honesty in the collection of taxes. The Secretary of Finance shall submit to Congress within five months after the last day set for filing the return a report on said tax census and the extent to which such census has been compiled, tabulated and analyzed in relation to actual revenue collections.’"
+   }
+  },
+  {
+   "id": "PH-H1949-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: May 15, 1959."
+   }
+  }
+ ]
+}

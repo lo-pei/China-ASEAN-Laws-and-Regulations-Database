@@ -1,0 +1,842 @@
+{
+ "id": "TL-H155",
+ "title": {
+  "zh": "法律Combate ao Tráfico Ilícito de Drogas",
+  "en": null,
+  "orig": "Lei de Combate ao Tráfico Ilícito de Drogas"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p03",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2017-01-25",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 2/2017",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 50,
+ "chars": 42810,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2017/serie_1/SERIE_I_NO_4.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 50 条；逐字取自官方公报 PDF（public/docs/2017/serie_1/SERIE_I_NO_4.pdf）第 60–83 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H155-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Objeto"
+   },
+   "text": {
+    "pt": "A presente lei estabelece o regime jurídico aplicável ao tráfico e ao consumo ilícitos de estupefacientes e de substâncias psicotrópicas."
+   }
+  },
+  {
+   "id": "TL-H155-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Definições"
+   },
+   "text": {
+    "pt": "Para os efeitos da presente lei, entende-se por:\na) “Convenção de 1961”, a Convenção única sobre os Estupefacientes de 1961, com as alterações introduzidas pelo Protocolo de 1972;\nb)  “Convenção de 1971”, a Convenção sobre as Substâncias Psicotrópicas de 1971;\nc)   “Convenção de 1988”, a Convenção contra o Tráfico Ilícito de Estupefacientes e Substâncias Psicotrópicas, de 20 de Dezembro de 1988;\nd)   “Droga”, qualquer das plantas, substâncias ou preparados abrangidos pelas tabelas I a IV constantes do Anexo II à presente lei, da qual faz parte integrante;\ne)  “Precursor”, qualquer das substâncias frequentemente utilizadas no fabrico ilícito de estupefacientes e substâncias psicotrópicas compreendidas nas tabelas V e VI constantes do Anexo II à presente lei, da qual faz parte integrante;\nf)  “Pessoas coletivas e entidades equiparadas”, qualquer entidade que tenha esse estatuto segundo a lei aplicável, nomeadamente pessoas coletivas de direito privado, ainda que irregularmente constituídas, sociedades civis, associações de facto, bem como entidades públicas empresariais e entidades concessionárias de serviços públicos, com exceção do Estado, de outras pessoas coletivas públicas agindo no exercício dos seus poderes públicos e das organizações internacionais de direito público;\ng)   “Preparado”, uma solução ou uma mistura, sólida ou líquida, que inclua um ou vários estupefacientes ou substâncias, bem como um ou vários estupefacientes ou substâncias em forma dosificada;\nh)  “Toxicodependente”, pessoa que tem dependência, física ou psicológica, de drogas;\n(i)   “Tráfico ilícito”, as infrações previstas nos artigos 7.º e 8.º da presente lei."
+   }
+  },
+  {
+   "id": "TL-H155-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Âmbito de aplicação"
+   },
+   "text": {
+    "pt": "1.  Ficam sujeitos ao regime previsto na presente lei as plantas, as substâncias e os preparados compreendidos nas tabelas I a IV anexas à presente lei, da qual fazem parte integrante.\n2.   Ficam também sujeitos ao regime previsto na presente lei os equipamentos, os materiais e as substâncias que possam ser utilizados no cultivo, na produção ou no fabrico ilícito de drogas compreendidos nas tabelas V e VI anexas à presente lei, da qual fazem parte integrante.\n3.   As tabelas referidas nos números anteriores podem ser alteradas por lei ou atualizadas de acordo com as alterações aprovadas pelos órgãos próprios da Organização das Nações Unidas."
+   }
+  },
+  {
+   "id": "TL-H155-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Critérios gerais para a elaboração das tabelas"
+   },
+   "text": {
+    "pt": "1.  A tabela I engloba plantas, substâncias e preparados compreendidos nas tabelas I, II e IV da Convenção de\n1961.\n2.  A tabela II engloba plantas, substâncias e preparados compreendidos nas tabelas I, II e III da Convenção de\n1971.\n3.   A tabela III engloba plantas, substâncias e preparados compreendidos na tabela III da Convenção de 1961.\n4.  A tabela IV engloba plantas, substâncias e preparados compreendidos na tabela IV da Convenção de 1971.\n5.   A tabela V engloba substâncias compreendidas na tabela I da Convenção de 1988.\n6.   A tabela VI engloba substâncias compreendidas na tabela II da Convenção de 1988."
+   }
+  },
+  {
+   "id": "TL-H155-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Critérios específicos para a elaboração das tabelas"
+   },
+   "text": {
+    "pt": "1.   As tabelas I a IV constantes do Anexo II à presente lei são elaboradas de acordo com os critérios específicos constantes dos números seguintes.\n2.    As tabelas I e II classificam-se em I-A, I-B e I-C e em II-A, II-B e II-C, nos seguintes termos:\na) A tabela I-A inclui:\ni.  O ópio e outros compostos dos quais se possam obter opiáceos naturais extraídos da papoila (Papaver Somniferum); ii.   Alcaloides com efeitos narcótico-analgésicos que possam ser extraídos da papoila; iii. Substâncias obtidas dos produtos acima referidos, por transformação química; substâncias obtidas através de processos de síntese, que se assemelhem aos opiáceos acima referidos, tanto na sua composição química como nos seus efeitos; possíveis produtos intermediários com grandes possibilidades de serem utilizados na síntese de opiáceos.\nb) A tabela I-B inclui:\ni.  Folhas de coca e alcaloides que possuam efeito estimulante sobre o sistema nervoso central e que possam ser extraídos daquelas folhas; ii.   Substâncias com efeitos similares obtidas através de processos químicos a partir dos alcaloides acima mencionados através de síntese.\nc) A tabela I-C inclui o cânhamo (Cannabis Sativa), produtos seus derivados, substâncias obtidas por meio de síntese e que se lhe assemelhem tanto na sua composição química como nos seus efeitos;\nd) A tabela II-A inclui qualquer substância natural ou sintética que possa provocar alucinações ou distorções sensoriais graves;\ne) A tabela II-B inclui substâncias do tipo anfetamínico que possuam efeitos estimulantes sobre o sistema nervoso central; f) A tabela II-C inclui substâncias do tipo barbitúrico de ação curta, de rápida absorção ou assimilação, assim como outras substâncias de tipo hipnótico não barbitúrico.\n3.   A tabela III constante do Anexo II à presente lei inclui preparados que contenham substâncias inscritas na tabela I quando tais preparados, pela sua composição quantitativa e qualitativa e modalidade do respetivo uso, apresentem risco de abuso.\n4.   A tabela IV constante do Anexo II à presente lei inclui os barbitúricos de ação lenta que possuam comprovados efeitos antipiréticos e as substâncias de tipo ansiolítico que, pela sua composição quantitativa e qualitativa e modalidade do respetivo uso, apresentem risco de abuso.\n5.  As tabelas V e VI constantes do Anexo II à presente lei incluem as substâncias que possam ser utilizadas para o fabrico ilícito de estupefacientes ou substâncias psicotrópicas.\n6.   As substâncias incluídas nas tabelas referidas nos números anteriores são indicadas pela denominação comum em língua portuguesa e pela denominação ou nome químico."
+   }
+  },
+  {
+   "id": "TL-H155-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Atividades sujeitas ao controlo"
+   },
+   "text": {
+    "pt": "1.   O cultivo, a produção, o fabrico, o emprego, o comércio, a distribuição, a importação, a exportação, o trânsito, o transporte, a publicidade, o uso ou a detenção por qualquer título de plantas, substâncias e preparados indicados nas tabelas I a IV ficam sujeitos aos licenciamentos, condicionamentos, autorizações e ao sistema de fiscalização do respetivo cumprimento pelos serviços competentes do Ministério da Saúde, nos termos a definir em diploma próprio.\n2.   A produção, o fabrico, o emprego, o comércio, a distribuição, a importação, a exportação, o trânsito, o transporte, a publicidade, o uso ou a detenção a qualquer título de substâncias inscritas nas tabelas V e VI ficam sujeitos aos licenciamentos, aos condicionamentos, às autorizações e ao sistema de fiscalização do respetivo cumprimento pelos serviços competentes do Ministério do Comércio, Indústria e Ambiente, nos termos a definir em diploma próprio.\n3.  Para o desempenho das funções de fiscalização, podem os serviços referidos nos números anteriores recorrer à colaboração e intervenção de outras entidades, nomeadamente dos serviços de alfândega e dos órgãos de polícia criminal."
+   }
+  },
+  {
+   "id": "TL-H155-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Tráfico e outras infrações"
+   },
+   "heading": {
+    "pt": "Tráfico e atividades ilícitas"
+   },
+   "text": {
+    "pt": "1.  Quem, sem se encontrar autorizado, cultivar, produzir, fabricar, extrair, preparar, oferecer, puser à venda, vender, distribuir, comprar, ceder ou por qualquer título receber, proporcionar a outrem, transportar, importar, exportar, fizer transitar ou ilicitamente detiver, fora dos casos previstos no artigo 26.º, plantas, substâncias ou preparados compreendidos nas tabelas I a III é punido com pena de prisão de 5 a 15 anos.\n2.   Quem, tendo autorização mas agindo em contrário da mesma, ilicitamente praticar os atos referidos no número anterior é punido com pena de prisão de 6 a 16 anos.\n3.   Tratando-se de substâncias ou preparados compreendidos na tabela IV, o agente é punido com pena de prisão:\na) De 1 a 5 anos, no caso do n.º 1;\nb) De 2 a 8 anos, no caso do n.º 2."
+   }
+  },
+  {
+   "id": "TL-H155-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Tráfico e outras infrações"
+   },
+   "heading": {
+    "pt": "Precursores"
+   },
+   "text": {
+    "pt": "1. Quem, sem se encontrar autorizado, produzir, fabricar, importar, exportar, transitar, transportar, comercializar ou distribuir equipamentos, materiais ou substâncias inscritas nas tabelas V e VI, sabendo que são ou vão ser utilizados no cultivo, na produção ou no fabrico ilícitos de plantas, de substâncias ou de preparados compreendidos nas tabelas I a IV é punido com pena de prisão de 2 a 10 anos.\n2.  Quem, sem se encontrar autorizado, detiver, a qualquer título, equipamentos, materiais ou substâncias inscritas nas tabelas V e VI, sabendo que são ou vão ser utilizados no cultivo, na produção ou no fabrico ilícitos de plantas, de substâncias ou de preparados compreendidos nas tabelas I a IV é punido com pena de prisão de 1 a 8 anos.\n3.   Quem, tendo autorização mas agindo em contrário da mesma, praticar os atos referidos nos n.ºs 1 e 2, é punido com pena de prisão:\na) De 3 a 12 anos, no caso do n.º 1;\nb) De 2 a 10 anos, no caso do n.º 2."
+   }
+  },
+  {
+   "id": "TL-H155-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Tráfico e outras infrações"
+   },
+   "heading": {
+    "pt": "Agravação"
+   },
+   "text": {
+    "pt": "As penas previstas nos artigos 7.º e 8.º são agravadas de dois terços nos seus limites mínimo e máximo, se o agente:\na)   Distribuir ou tentar distribuir as plantas, substâncias ou os preparados por um grande número de pessoas;\nb)  Entregar ou tentar entregar as substâncias ou preparados a menores ou a doentes mentais;\nc)  Utilizar a colaboração, por qualquer forma, de menores, pessoas com doença mental ou ainda de pessoas que se encontrem ao seu cuidado para tratamento, educação, instrução, vigilância ou guarda;\nd)  Estiver incumbido da prevenção ou repressão dos crimes de produção, de tráfico ou de consumo de estupefacientes e substâncias psicotrópicas;\ne)  For funcionário da justiça ou dos postos de fronteira, dos serviços alfandegários, dos serviços prisionais e de reinserção social, dos serviços de correios, dos estabelecimentos de ensino e educação, dos serviços de ação social, sendo o facto praticado no exercício da sua profissão;\nf)    Praticar os factos em instalações de serviços ou instituições de tratamento de consumidores, de reinserção social ou de ação social, em estabelecimento prisional, unidade militar, instalação policial ou de segurança pública, estabelecimento de educação ou em outros locais especialmente destinados à prática de atividades educativas, desportivas, recreativas ou sociais;\ng)  Corromper, alterar ou adulterar, por manipulação ou mistura, plantas, substâncias ou preparados, aumentando o perigo para a vida ou para a integridade física de outrem;\nh)   Fizer da prática do crime modo de vida;\n(i)  Obteve ou procurava obter avultada compensação remuneratória;\nj)   Detiver, ameaçar com ou fizer uso de arma ou utilizar máscara ou disfarce;\nk)    Praticar os factos no âmbito de uma organização criminosa à qual pertença;\nl)    Participar em outras atividades ilegais facilitadas pela prática da infração;\nm)   Participar em outras atividades criminosas organizadas de âmbito internacional."
+   }
+  },
+  {
+   "id": "TL-H155-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Tráfico e outras infrações"
+   },
+   "heading": {
+    "pt": "Associação criminosa"
+   },
+   "text": {
+    "pt": "1.  Quem promover, fundar ou financiar grupo, organização ou associação de duas ou mais pessoas que, atuando concertadamente, vise praticar algum dos crimes previstos nos artigos 7.º e 8.º é punido com pena de prisão de 10 a 25 anos.\n2.   Quem prestar colaboração, directa ou indireta, aderir ou apoiar grupo, organização ou associação referidos no número anterior é punido com pena de prisão de 5 a 15 anos.\n3.   Incorre na pena de 12 a 25 anos de prisão quem chefiar ou dirigir grupo, organização ou associação referidos no n.º 1."
+   }
+  },
+  {
+   "id": "TL-H155-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Tráfico e outras infrações"
+   },
+   "heading": {
+    "pt": "Tráfico de menor gravidade"
+   },
+   "text": {
+    "pt": "1.  Se a ilicitude dos factos referidos nos artigos 7.º e 8.º se mostrar consideravelmente diminuída, tendo em conta nomeadamente os meios utilizados, a modalidade ou as circunstâncias da ação, a quantidade e a qualidade, a pena é de:\na) Prisão de 1 a 5 anos, no caso de plantas, substâncias ou preparados compreendidos nas tabelas I a III, V e VI;\nb) Prisão até 3 anos ou multa, no caso de substâncias ou de preparados compreendidos na tabela IV.\n2.   Na ponderação da ilicitude consideravelmente diminuída nos termos do número anterior, deve considerar-se especialmente o facto de a quantidade das plantas, substâncias ou dos preparados encontrados na disponibilidade do agente não exceder cinco vezes a quantidade constante do mapa da quantidade de referência de uso diário constante do Anexo I à presente lei, da qual faz parte integrante."
+   }
+  },
+  {
+   "id": "TL-H155-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Tráfico e outras infrações"
+   },
+   "heading": {
+    "pt": "Traficante-consumidor"
+   },
+   "text": {
+    "pt": "Quando, pela prática de algum dos factos referidos no artigo\n7.º, o agente tiver por finalidade exclusiva conseguir plantas, substâncias ou preparados para uso pessoal, a pena é de:\na)   Prisão até 2 anos ou multa, no caso de plantas, substâncias ou preparados compreendidos nas tabelas I a III;\nb)  Prisão até 1 ano ou multa, no caso de substâncias ou de preparados compreendidos na tabela IV."
+   }
+  },
+  {
+   "id": "TL-H155-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Tráfico e outras infrações"
+   },
+   "heading": {
+    "pt": "Detenção indevida de utensílio ou equipamento"
+   },
+   "text": {
+    "pt": "Quem detiver indevidamente qualquer utensílio ou equipamento, com intenção de fumar, de inalar, de ingerir, de injetar ou por outra forma utilizar plantas, substâncias ou preparados compreendidos nas tabelas I a IV é punido com pena de prisão até 3 meses ou com pena de multa até 60 dias."
+   }
+  },
+  {
+   "id": "TL-H155-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Tráfico e outras infrações"
+   },
+   "heading": {
+    "pt": "Abandono de seringas"
+   },
+   "text": {
+    "pt": "Quem, em lugar público ou aberto ao público, em lugar privado mas de uso comum, abandonar seringa utilizada no consumo de drogas, estupefacientes ou outras substâncias psicotrópicas, ou abandonar qualquer outro instrumento utilizado para os mesmos fins e que seja suscetível de causar ofensa na saúde ou no corpo de terceira pessoa é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias."
+   }
+  },
+  {
+   "id": "TL-H155-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Tráfico e outras infrações"
+   },
+   "heading": {
+    "pt": "Abuso do exercício de profissão"
+   },
+   "text": {
+    "pt": "1.   As penas previstas no n.º 2 e na alínea b) do n.º 3 do artigo\n7.º, bem como no artigo 8.º são aplicadas ao médico que passe receitas, ministre ou entregue substâncias ou preparados aí indicados com fim não terapêutico.\n2.   As mesmas penas são aplicadas ao farmacêutico ou ao seu substituto que vender ou entregar aquelas substâncias ou preparados para fim não terapêutico.\n3.  O farmacêutico, o ajudante técnico de farmácia ou o técnico de saúde que violar as normas sobre a dispensa de medicamentos e o aviamento de receitas respeitantes a plantas, a substâncias ou a preparados compreendidos nas tabelas I a IV, é punido com pena de prisão até 3 anos ou com pena de multa.\n4.   O enfermeiro, a parteira ou técnico de saúde que ministrar, sem receita médica, mas com finalidade terapêutica, plantas, substâncias ou preparados compreendidos nas tabelas I a IV, é punido com pena de prisão até 1 ano ou com pena de multa.\n5.  A entrega de plantas, substâncias ou de preparados compreendidos nas tabelas I a IV a menor ou a doente mental manifesto, em violação de proibições legais, por médico, farmacêutico, ajudante técnico de farmácia ou técnico de saúde, é punida com pena de prisão até 1 ano ou com pena de multa até 120 dias."
+   }
+  },
+  {
+   "id": "TL-H155-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Tráfico e outras infrações"
+   },
+   "heading": {
+    "pt": "Incitamento ao uso ilícito de estupefacientes e de substâncias psicotrópicas"
+   },
+   "text": {
+    "pt": "1.  Quem incitar outrem, em público ou em privado, ou por qualquer modo facilitar o uso ilícito de plantas, de substâncias ou de preparados compreendidos nas tabelas I a III é punido com pena de prisão até 3 anos ou com pena de multa.\n2.   Tratando-se de substâncias ou preparados compreendidos na tabela IV, a pena é de prisão até 1 ano ou de multa até 120 dias.\n3.    As penas previstas nos números anteriores são agravadas de um terço nos seus limites mínimo e máximo nos casos previstos nas alíneas b), d), f) e g) do artigo 9.º."
+   }
+  },
+  {
+   "id": "TL-H155-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Tráfico e outras infrações"
+   },
+   "heading": {
+    "pt": "Tráfico e consumo em lugares públicos ou de reunião"
+   },
+   "text": {
+    "pt": "1.    Quem, sendo proprietário, gerente, diretor ou, por qualquer título, explorar hotel, restaurante, café, taberna, quiosque, clube, casa ou recinto de reunião, de espetáculo ou de diversão, consentir ou, conhecendo os factos, não tomar medidas para evitar que esse lugar seja utilizado para a produção, o tráfico ou uso ilícito de plantas, substâncias ou preparados compreendidos nas tabelas I a IV é punido com pena de prisão de 2 a 8 anos.\n2.   Quem, tendo ao seu dispor edifício, recinto vedado ou veículo, o converte ou consente que se converta em lugar que seja habitualmente utilizado para a produção ou o tráfico ilícitos ou onde as pessoas habitualmente se entreguem ao consumo ilícito de plantas, substâncias ou preparados compreendidos nas tabelas I a IV é punido com pena de prisão de 1 a 5 anos.\n3.  Sem prejuízo do disposto nos números anteriores, aquele que, depois de notificado nos termos do número seguinte, não tomar as medidas adequadas para evitar que aqueles lugares sejam utilizados para o tráfico ou para o consumo de plantas, substâncias ou preparados incluídos nas tabelas I a IV é punido com pena de prisão até 5 anos.\n4.  O disposto no número anterior só é aplicável após duas apreensões de plantas, substâncias ou preparados, realizadas pelo Ministério Público ou por órgão de polícia criminal, devidamente notificada às pessoas referidas nos n.ºs 1 e 2, ainda que sem identificação dos detentores.\n5. Verificado o disposto no número anterior, a autoridade competente para a investigação dá conhecimento dos factos à autoridade administrativa que concedeu a autorização de abertura do estabelecimento a fim de ser ordenado o seu encerramento, sem prejuízo da aplicação das coimas que forem devidas nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H155-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Tráfico e outras infrações"
+   },
+   "heading": {
+    "pt": "Atenuação especial ou dispensa de pena"
+   },
+   "text": {
+    "pt": "No caso de prática dos factos descritos nos artigos 7.º e 8.º, pode a pena ser especialmente atenuada ou haver lugar à dispensa de pena se o agente voluntariamente prestar às autoridades competentes para efeitos de investigação e produção de provas informações que permitam:\na)  No caso de grupos, de organizações ou de associações, recolher provas decisivas para a identificação ou captura de outros responsáveis;\nb)   Identificar as conexões, inclusive conexões internacionais, com outros grupos criminosos organizados;\nc)  Identificar as infrações em que os grupos criminosos organizados participaram ou podem vir a participar;\nd)  Privar grupos criminosos organizados dos seus recursos ou dos produtos do crime."
+   }
+  },
+  {
+   "id": "TL-H155-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Tráfico e outras infrações"
+   },
+   "heading": {
+    "pt": "Desobediência qualificada"
+   },
+   "text": {
+    "pt": "1.  Quem, depois de advertido das consequências penais da sua conduta, se opuser a atos de fiscalização ou se negar a exibir os documentos que lhe forem solicitados pelas autoridades competentes respeitantes ao controlo das plantas, substâncias ou preparados compreendidos nas tabelas constantes do Anexo II à presente lei é punido com a pena correspondente ao crime de desobediência qualificada.\n2.   Incorre em igual pena o responsável pela guarda de plantas, substâncias ou preparados compreendidos nas tabelas constantes do Anexo II à presente lei que, em violação das obrigações impostas por lei, não efectue a participação urgente da sua subtração ou extravio."
+   }
+  },
+  {
+   "id": "TL-H155-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Tráfico e outras infrações"
+   },
+   "heading": {
+    "pt": "Responsabilidade penal das pessoas coletivas e equiparadas"
+   },
+   "text": {
+    "pt": "1.   As pessoas coletivas e entidades equiparadas são responsáveis pelos crimes previstos nos artigos 7.º e 8.º da presente lei, quando estes forem cometidos em seu benefício por qualquer pessoa, quer agindo individualmente, quer na qualidade de membro de órgão da pessoa coletiva em questão, que nela detenha uma posição de autoridade.\n2.  Para efeitos do disposto no número anterior, detém uma posição de autoridade quem tiver poderes:\na) De representação dessa pessoa coletiva;\nb) Para tomar decisões em nome dessa pessoa coletiva;\nc) De fiscalização dessa pessoa coletiva.\n3.   As pessoas coletivas e entidades equiparadas são ainda responsáveis sempre que a falta de supervisão ou de fiscalização por parte de uma pessoa referida no n.º 1 tenha possibilitado a prática dos crimes aí referidos, por pessoa sob a sua autoridade, em benefício dessa pessoa coletiva.\n4.    A responsabilidade das pessoas coletivas nos termos dos números anteriores não exclui a responsabilidade individual dos respetivos agentes, nem depende da responsabilização destes.\n5.   A responsabilidade das entidades referidas nos números anteriores é excluída quando o agente tiver atuado contra ordens ou instruções expressas de quem de direito."
+   }
+  },
+  {
+   "id": "TL-H155-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Tráfico e outras infrações"
+   },
+   "heading": {
+    "pt": "Sanções aplicáveis às pessoas coletivas"
+   },
+   "text": {
+    "pt": "1.   Às entidades declaradas responsáveis nos termos do artigo anterior, são aplicáveis as seguintes penas principais:\na) Multa, fixada em dias, no mínimo de 100 dólares americanos e no máximo de 1000 dólares americanos;\nb) Dissolução judicial.\n2.   A cada dia de multa corresponde uma quantia entre 100 dólares americanos e 1000 dólares americanos.\n3.   Se a multa for aplicada a uma associação sem personalidade jurídica, responde por ela o património comum e, na sua falta ou insuficiência, solidariamente, o património de cada um dos associados.\n4.    A pena de dissolução judicial só será decretada quando as entidades referidas no n.º 1 tenham sido criadas com a intenção, exclusiva ou predominante, de praticar os crimes aí previstos ou quando a prática reiterada de tais crimes mostre que a entidade está a ser utilizada, exclusiva ou predominantemente, para esse efeito, quer pelos seus membros, quer por quem exerça a respetiva administração.\n5.   Às entidades referidas no n.º 1 podem ainda ser aplicadas as seguintes penas acessórias:\na) Proibição do exercício de certas profissões ou atividades por um período de 1 a 10 anos;\nb) Injunção judiciária tendo em vista cessar a atividade ilícita ou evitar as suas consequências, no prazo que o tribunal determinar;\nc) Privação do direito a subsídios, subvenções ou incentivos públicos por um período de 1 a 5 anos;\nd) Encerramento de estabelecimento por um período de 3 meses a 5 anos;\ne) Encerramento definitivo de estabelecimento, quando deva ser aplicada pena de multa superior a 600 dias; f) Publicidade da decisão condenatória.\n6.  O encerramento do estabelecimento não constitui justa causa para o despedimento dos trabalhadores nem fundamento para a suspensão ou redução do pagamento das respetivas remunerações.\n7.   Sempre que for aplicada a pena de publicidade da decisão condenatória, esta é efetivada, a expensas da condenada, em meio de comunicação social a determinar pelo tribunal, bem como através da fixação de edital, por período não inferior a 30 dias, no próprio estabelecimento comercial ou industrial ou no local de exercício da atividade, por forma bem visível ao público."
+   }
+  },
+  {
+   "id": "TL-H155-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Tráfico e outras infrações"
+   },
+   "heading": {
+    "pt": "Expulsão de estrangeiros"
+   },
+   "text": {
+    "pt": "Em caso de condenação por crime previsto no presente diploma, se o condenado for estrangeiro, o tribunal pode ordenar a sua expulsão do País, por período não superior a 20 anos."
+   }
+  },
+  {
+   "id": "TL-H155-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Tráfico e outras infrações"
+   },
+   "heading": {
+    "pt": "Perda de objetos ou produtos do crime"
+   },
+   "text": {
+    "pt": "1.   São declarados perdidos a favor do Estado as substâncias, os preparados, bem como os objetos e instrumentos que serviram ou se destinavam à prática de um crime previsto na presente lei ou que por ela tenham sido produzidos, sem prejuízo dos direitos de terceiros de boa-fé.\n2.  São igualmente declarados perdidos a favor do Estado todos os objetos, direitos e vantagens que, através do crime, hajam sido adquiridos ou entrado na posse dos seus agentes, para si ou para outrem, nomeadamente bens móveis e imóveis, aeronaves, barcos, veículos, depósitos bancários, outros valores ou quaisquer outros bens de fortuna, sem prejuízo dos direitos de terceiros de boa-fé.\n3.  O disposto nos números anteriores tem lugar ainda que nenhuma pessoa determinada possa ser punida pelo facto."
+   }
+  },
+  {
+   "id": "TL-H155-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Tráfico e outras infrações"
+   },
+   "heading": {
+    "pt": "Defesa de direitos de terceiros de boa-fé"
+   },
+   "text": {
+    "pt": "1.   O terceiro que invoque a titularidade de coisas, direitos ou objetos sujeitos a apreensão ou outras medidas legalmente previstas aplicadas a arguidos por infrações previstas na presente lei pode deduzir no processo a defesa dos seus direitos, através de requerimento em que alegue a sua boafé, indicando logo todos os elementos de prova.\n2.   Entende-se por boa-fé a ignorância desculpável de que os objetos estivessem nas situações previstas no n.º 1 do artigo anterior.\n3.   O requerimento a que se refere o n.º 1 é autuado por apenso, notificando-se o Ministério Público para, em dez dias, deduzir oposição.\n4.    Realizadas as diligências que considerar necessárias, o juiz decide.\n5.   Se, quanto à titularidade dos objetos, coisas ou direitos, a questão se revelar complexa ou susceptível de causar perturbação ao normal andamento do processo, pode o juiz remeter o terceiro para os meios cíveis."
+   }
+  },
+  {
+   "id": "TL-H155-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Tráfico e outras infrações"
+   },
+   "heading": {
+    "pt": "Destino dos bens declarados perdidos a favor do Estado"
+   },
+   "text": {
+    "pt": "1.  Os objetos, direitos ou vantagens declarados perdidos a favor do Estado, nos termos do artigo 23.º, revertem para o Tesouro, que o inscreverá enquanto receita no Orçamento Geral do Estado.\n2.   Sem prejuízo do disposto no número anterior, a autoridade judiciária competente pode decidir dar um destino diferente aos veículos automóveis apreendidos, nomeadamente podendo atribuí-los a órgão de polícia criminal ou outra entidade que, para o efeito, o solicite.\n3.  Não são alienados os bens, objetos ou instrumentos declarados perdidos a favor do Estado que, pela sua natureza ou características, possam vir a ser utilizados na prática de outras infrações, devendo ser destruídos no caso de não oferecerem interesse criminalístico, científico ou didático."
+   }
+  },
+  {
+   "id": "TL-H155-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Consumo ilícito, toxicodependência e tratamento"
+   },
+   "heading": {
+    "pt": "Consumo ilícito"
+   },
+   "text": {
+    "pt": "1.   Quem consumir ilicitamente ou, para seu exclusivo consumo pessoal, cultivar, produzir, fabricar, extrair, preparar, adquirir ou detiver ilicitamente plantas, substâncias ou preparados compreendidos nas tabelas I a IV, é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias.\n2.  Se a quantidade de plantas, substâncias ou preparados referidos no número anterior exceder cinco vezes a quantidade constante do mapa de quantidade de referência de uso diário anexo à presente lei, a pena é de prisão até 2 anos ou de multa até 240 dias.\n3.  No caso do n.º 1, se o agente for consumidor ocasional, pode ser dispensado de pena."
+   }
+  },
+  {
+   "id": "TL-H155-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Consumo ilícito, toxicodependência e tratamento"
+   },
+   "heading": {
+    "pt": "Tratamento voluntário ou espontâneo"
+   },
+   "text": {
+    "pt": "1.  O consumidor de plantas, estupefacientes ou substâncias psicotrópicas que solicite a assistência de qualquer médico ou instituição de saúde, pública ou privada, tem a garantia de anonimato e de tratamento individualizado.\n2.   Tratando-se de consumidor menor, interdito ou inabilitado, a assistência solicitada pelos seus representantes legais será prestada nas mesmas condições.\n3.  Os médicos, técnicos e restante pessoal que assistam o paciente estão sujeitos ao dever de segredo profissional, não estando obrigados a denúncia, a depor em tribunal ou a prestar informações sobre a natureza e evolução do tratamento ou sobre a identidade do paciente.\n4.  Sem prejuízo do disposto no número anterior, qualquer médico pode assinalar aos serviços de saúde os casos de abuso de plantas, substâncias estupefacientes ou psicotrópicas que constate no exercício da sua atividade profissional, quando entenda que se justificam medidas de tratamento ou de assistência no interesse do consumidor, dos seus familiares ou da comunidade."
+   }
+  },
+  {
+   "id": "TL-H155-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Consumo ilícito, toxicodependência e tratamento"
+   },
+   "heading": {
+    "pt": "Atendimento e tratamento de consumidores"
+   },
+   "text": {
+    "pt": "1.  Incumbe ao Ministério da Saúde desenvolver as ações necessárias à prestação de atendimento gratuito a toxicodependentes e outros consumidores, que se apresentem voluntariamente.\n2.  Os cidadãos sujeitos a tratamento no âmbito de processo em curso ou de suspensão de execução de pena, nos termos da presente lei, têm acesso urgente aos serviços de saúde competentes.\n3.   O Ministério da Saúde pode estabelecer acordos e protocolos com entidades privadas idóneas para atendimento e tratamento de consumidores de estupefacientes ou substâncias psicotrópicas."
+   }
+  },
+  {
+   "id": "TL-H155-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Consumo ilícito, toxicodependência e tratamento"
+   },
+   "heading": {
+    "pt": "Suspensão da pena e obrigação de tratamento"
+   },
+   "text": {
+    "pt": "1.    Se da prova recolhida ou mediante exame médico adequado resultarem indícios seguros de que o arguido é toxicodependente, a aplicação da pena de prisão pode ser suspensa, desde que o arguido se sujeite voluntariamente a tratamento médico ou a internamento em estabelecimento apropriado, o que comprovará pela forma e nas datas que o tribunal determinar.\n2.   A sujeição do toxicodependente a tratamento ou internamento durante o período de suspensão da pena é executada com vigilância e apoio dos serviços de reinserção social em articulação com os serviços de saúde.\n3.   Se durante o período de suspensão da execução da pena de prisão o toxicodependente não se sujeitar a tratamento ou a internamento, ou não cumprir qualquer dos outros deveres impostos pelo tribunal, aplica-se o disposto no Código Penal para a falta de cumprimento desses deveres.\n4.  Quando a suspensão for revogada, o cumprimento da pena de prisão tem lugar em zona apropriada do estabelecimento prisional."
+   }
+  },
+  {
+   "id": "TL-H155-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Consumo ilícito, toxicodependência e tratamento"
+   },
+   "heading": {
+    "pt": "Toxicodependentes em prisão preventiva ou em cumprimento de pena"
+   },
+   "text": {
+    "pt": "Se o estado de toxicodependência for detetado quando a pessoa se encontrar detida, em prisão preventiva ou em cumprimento da pena de prisão ou medida de segurança de internamento, os órgãos de polícia criminal ou os serviços prisionais comunicam o facto à autoridade judiciária competente, garantindo a assistência médica ao toxicode pendente e os meios adequados ao seu tratamento."
+   }
+  },
+  {
+   "id": "TL-H155-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Direito subsidiário"
+   },
+   "heading": {
+    "pt": "Perícia médico-legal"
+   },
+   "text": {
+    "pt": "1.  No decurso do inquérito, logo que o Ministério Público tenha conhecimento de que o arguido é toxicodependente à data dos factos que lhe são imputados, ordena a realização urgente de perícia médico-legal.\n2.    Na perícia pode recorrer-se a análise de sangue e urina ou outra que se mostre necessária.\n3.   A perícia médico-legal tem por finalidade determinar:\na) O estado de toxicodependência do arguido, atenta a natureza dos produtos consumidos pelo arguido;\nb) O estado físico e psíquico do arguido no momento da realização da perícia médico-legal."
+   }
+  },
+  {
+   "id": "TL-H155-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Direito subsidiário"
+   },
+   "heading": {
+    "pt": "Buscas e revistas em lugares públicos e transportes"
+   },
+   "text": {
+    "pt": "1.   Os órgãos de polícia criminal podem proceder de imediato a buscas aos lugares públicos ou aos meios de transporte, mesmo sem prévia autorização do Ministério Público, sempre que tiverem fundadas razões para crer que aí se praticam ou que sirvam à prática de crimes previstos na presente lei, efetuando as revistas pessoais, as vistorias de bagagem e as apreensões que se mostrarem necessárias.\n2.   A realização das diligências referidas no número anterior é, sob pena de nulidade, imediatamente comunicada ao Ministério Público e por este apreciada em ordem à sua validação, a efetuar no prazo máximo de 72 horas."
+   }
+  },
+  {
+   "id": "TL-H155-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Direito subsidiário"
+   },
+   "heading": {
+    "pt": "Revista e perícia"
+   },
+   "text": {
+    "pt": "1.   Quando houver indícios de que alguém oculta ou transporta no seu corpo plantas, substâncias ou preparados compreendidos nas tabelas I a IV, o órgão de polícia criminal efetua revista e, se necessário, procede à perícia.\n2.   O suspeito pode ser conduzido a estabelecimento hospitalar ou a outro estabelecimento adequado e aí permanecer pelo tempo estritamente necessário à realização da perícia.\n3.  Na falta de consentimento do suspeito, a realização de revista ou de perícia depende de prévia autorização do Ministério Público, devendo este, sempre que possível, presidir à diligência.\n4.   Quem, depois de devidamente advertido das consequências penais do seu ato, se recusar a ser submetido a revista ou a perícia autorizada nos termos do número anterior é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias."
+   }
+  },
+  {
+   "id": "TL-H155-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Direito subsidiário"
+   },
+   "heading": {
+    "pt": "Medida de coação"
+   },
+   "text": {
+    "pt": "1.  Se o crime imputado for punível com pena de prisão de máximo superior a 3 anos e o arguido tiver sido considerado toxicodependente, nos termos do artigo 31.º, pode o juiz impor, sem prejuízo do disposto no Código de Processo Penal, a obrigação de tratamento em estabelecimento adequado, onde deve apresentar-se no prazo que lhe for fixado.\n2.  A obrigação de tratamento é comunicada ao respetivo estabelecimento de saúde, podendo o juiz solicitar o apoio dos serviços de reinserção social para acompanhamento do arguido toxicodependente.\n3.  O arguido comprova perante o tribunal o cumprimento da obrigação, na forma e tempo que lhe forem fixados.\n4.   A prisão preventiva não é imposta a arguido que tenha em curso um programa de tratamento de toxicodependência, salvo se existirem, em concreto, necessidades cautelares de especial relevância.\n5.   Se a prisão preventiva tiver de ser ordenada, executa-se em zona apropriada do estabelecimento prisional."
+   }
+  },
+  {
+   "id": "TL-H155-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Regras especiais"
+   },
+   "heading": {
+    "pt": "Investigação criminal"
+   },
+   "text": {
+    "pt": "1.   Presume-se deferida à Polícia Científica de Investigação Criminal a competência para a investigação dos crimes tipificados nos artigos 7.º, 8.º, 10.º e 15.º da presente lei e dos demais que lhe sejam participados ou de que colha notícia.\n2.  Presume-se deferida à Polícia Nacional de Timor-Leste a competência para a investigação dos seguintes crimes, praticados nas respetivas áreas de jurisdição, quando lhe forem participados ou deles colha notícia:\na) Do crime previsto e punido no artigo 7.º, quando ocorram situações de distribuição direta aos consumidores, a qualquer título, das plantas, substâncias ou preparados nele referidas;\nb) Dos crimes previstos e punidos nos artigos 11.º, 12.º,\n13.º, 14.º, 16.º, 17.º, 19.º e 26.º da presente lei."
+   }
+  },
+  {
+   "id": "TL-H155-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Regras especiais"
+   },
+   "heading": {
+    "pt": "Cooperação internacional"
+   },
+   "text": {
+    "pt": "Em observância da Convenção de 1988, no tocante a extradição, auxílio judiciário mútuo, execução de sentenças penais estrangeiras e transmissão de processos criminais, aplicam-se subsidiariamente as disposições da Lei n.º 15/2011, de 26 de outubro, sobre Cooperação Judiciária Internacional Penal, e os demais instrumentos internacionais a que Timor-Leste esteja obrigado ou se venha a obrigar."
+   }
+  },
+  {
+   "id": "TL-H155-A37",
+   "no": 37,
+   "noLabel": {
+    "pt": "Artigo 37.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Regras especiais"
+   },
+   "heading": {
+    "pt": "Exame e destruição das plantas, substâncias ou preparados"
+   },
+   "text": {
+    "pt": "1.   As plantas, as substâncias e os preparados apreendidos são examinados laboratorialmente, no mais curto prazo de tempo possível, por ordem da autoridade judiciária competente.\n2.    Após o exame laboratorial, o técnico de laboratório procede à recolha, à identificação, acondicionamento, pesagem e selagem de uma amostra.\n3.     A amostra fica guardada em cofre no organismo que procede à investigação, até decisão final.\n4.    No prazo de cinco dias após a junção do relatório do exame laboratorial, o magistrado judicial ou do Ministério Público, consoante a fase processual, ordena a destruição da droga remanescente, despacho que será cumprido em período não superior a trinta dias.\n5.   Até à sua destruição, a droga fica guardada em cofre-forte.\n6.    A destruição da droga faz-se por incineração, na presença de um magistrado, de um funcionário designado para o efeito e de um técnico de laboratório, lavrando-se o auto respetivo.\n7.   Numa mesma operação de incineração podem realizar-se destruições de droga apreendida em vários processos.\n8.   Após o trânsito em julgado da decisão final, o tribunal ordena a destruição da amostra guardada em cofre, o que se fará com observância do disposto no n.º 6, sendo remetida cópia do auto respetivo.\n9.  Pode ser solicitada ao juiz competente no processo a cedência de substâncias apreendidas, para fins didáticos, de formação ou de investigação criminal, nomeadamente para adestramento de cães.\n10. No caso previsto no número anterior, poderá ser fixado prazo para a devolução da droga cedida ou autorizado que o organismo proceda à sua destruição nos termos do n.º 6, logo que desnecessária ou inútil, com informação para o processo."
+   }
+  },
+  {
+   "id": "TL-H155-A38",
+   "no": 38,
+   "noLabel": {
+    "pt": "Artigo 38.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Regras especiais"
+   },
+   "heading": {
+    "pt": "Informações sobre valores e fortunas de suspeitos"
+   },
+   "text": {
+    "pt": "1.  Podem ser pedidas a quaisquer entidades, públicas ou privadas, informações ou a apresentação de documentos respeitantes a bens, depósitos ou quaisquer outros valores pertencentes a indivíduos suspeitos ou arguidos da prática dos crimes previstos na presente lei, com vista à sua apreensão e perda para o Estado.\n2.   O pedido das informações ou da apresentação dos documentos não pode ser recusado por quaisquer entidades, públicas ou privadas, nomeadamente pelas instituições bancárias ou financeiras, por sociedades civis ou comerciais, bem como por quaisquer repartições de registo ou fiscais, desde que o pedido se mostre individualizado, suficientemente concretizado e com indicação das referências do processo respetivo.\n3.   O pedido a que se referem os números anteriores é formulado pelo Ministério Público, devendo ser apresentado através do Banco Central de Timor-Leste se respeitar a instituições bancárias."
+   }
+  },
+  {
+   "id": "TL-H155-A39",
+   "no": 39,
+   "noLabel": {
+    "pt": "Artigo 39.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Regras especiais"
+   },
+   "heading": {
+    "pt": "Substâncias estupefacientes e psicotrópicas em trânsito"
+   },
+   "text": {
+    "pt": "1.   Pode ser autorizado, caso a caso, pelo Ministério Público a não atuação de órgão de polícia criminal sobre os portadores de substâncias estupefacientes ou psicotrópicas em trânsito por Timor-Leste, com a finalidade de proporcionar, em colaboração com o país ou países destinatários e outros eventuais países de trânsito, a identificação e arguição do maior número de participantes nas diversas operações de tráfico e distribuição, mas sem prejuízo do exercício da ação penal pelos factos aos quais a lei timorense é aplicável.\n2.    A autorização só é concedida, a pedido do país destinatário, se:\na) For conhecido detalhadamente o itinerário provável dos portadores e a identificação suficiente destes;\nb) For garantida pelas autoridades competentes dos países de destino ou de trânsito a segurança das substâncias contra riscos de fuga ou de extravio;\nc) For assegurado pelas autoridades competentes dos países de destino ou de trânsito que a sua legislação prevê sanções penais adequadas contra os arguidos e que a ação penal será exercida;\nd) As autoridades competentes dos países de destino ou de trânsito se comprometerem a comunicar, com urgência, informação pormenorizada sobre os resultados da operação e qual a ação desenvolvida por cada um dos agentes da prática dos crimes, especialmente dos que agiram em Timor-Leste.\n3.   Apesar de concedida a autorização mencionada nos números anteriores, o órgão de investigação criminal competente intervém se as margens de segurança tiverem diminuído sensivelmente, se se verificar alteração imprevista de itinerário ou qualquer outra circunstância que dificulte a futura apreensão das substâncias e a captura dos arguidos.\n4.   Se a intervenção a que se refere o número anterior não tiver sido comunicada previamente ao Ministério Público, é-o nas 24 horas seguintes, mediante relato escrito.\n5.  O não cumprimento das obrigações assumidas pelos países de destino ou de trânsito pode constituir fundamento de recusa de autorização em pedidos futuros.\n6.  Os contactos internacionais são efetuados através do Departamento da Interpol da Polícia Científica de Investigação Criminal.\n7.   Qualquer outra entidade que receba pedidos a que se refere o presente artigo, deve remetê-los ao Departamento da Interpol da Polícia Científica de Investigação Criminal, para efeitos de execução.\n8.    A autorização dos pedidos é da competência do magistrado do Ministério Público competente do distrito judicial de Díli."
+   }
+  },
+  {
+   "id": "TL-H155-A40",
+   "no": 40,
+   "noLabel": {
+    "pt": "Artigo 40.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Regras especiais"
+   },
+   "heading": {
+    "pt": "Conduta não punível"
+   },
+   "text": {
+    "pt": "1.  Não é punível a conduta de funcionário de investigação criminal ou de terceiro atuando sob controlo de uma autoridade policial que, para fins de inquérito, e sem revelação da sua qualidade e identidade, aceitar, diretamente ou por intermédio de um terceiro, a entrega de estupefacientes ou substâncias psicotrópicas.\n2.   A conduta referida no número anterior depende de prévia autorização do Ministério Público, a conceder por um período determinado.\n3.   Em caso de urgência relativa à aquisição da prova, a conduta referida no n.º 1 é realizada mesmo antes da obtenção da autorização do Ministério Público, mas deve ser comunicada a este para validação no primeiro dia útil posterior à realização daquela conduta e validada no prazo de cinco dias, sob pena de nulidade da prova.\n4.   A autoridade de polícia criminal faz o relato da intervenção do funcionário ou de terceiro à autoridade judiciária competente no prazo máximo de 48 horas após o seu termo.\n5.   A proteção da identidade das pessoas referidas no n.º 1 mantém-se em segredo de justiça, mesmo após o trânsito em julgado da decisão final, incluindo a de arquivamento, por um período de vinte anos."
+   }
+  },
+  {
+   "id": "TL-H155-A41",
+   "no": 41,
+   "noLabel": {
+    "pt": "Artigo 41.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Regras especiais"
+   },
+   "heading": {
+    "pt": "Informadores"
+   },
+   "text": {
+    "pt": "1.   Nenhum funcionário de investigação criminal, declarante ou testemunha, é obrigado a revelar ao tribunal a identificação de um informador ou de pessoa que tenha colaborado com a polícia na descoberta de crime previsto na presente lei.\n2.   Se, no decurso da audiência de julgamento, o tribunal se convencer que o informador ou a pessoa que colaborou com a polícia transmitiu dados ou informações que sabia ou devia saber serem falsos, pode ordenar a revelação da sua identidade e a sua inquirição em audiência.\n3.   O juiz que presida à audiência de julgamento pode decidir a exclusão ou restrição da publicidade da audiência durante a revelação da identidade e a inquirição referidas no número anterior."
+   }
+  },
+  {
+   "id": "TL-H155-A42",
+   "no": 42,
+   "noLabel": {
+    "pt": "Artigo 42.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Regras especiais"
+   },
+   "heading": {
+    "pt": "Amostras pedidas por entidades estrangeiras"
+   },
+   "text": {
+    "pt": "1.  Podem ser enviadas amostras de substâncias que tenham sido apreendidas, a solicitação de entidades estrangeiras, para fins científicos ou de investigação, mesmo na pendência do processo.\n2.   O pedido é apresentado através da entidade coordenadora do combate à droga que o transmite à autoridade judiciária competente, que decide sobre a sua satisfação."
+   }
+  },
+  {
+   "id": "TL-H155-A43",
+   "no": 43,
+   "noLabel": {
+    "pt": "Artigo 43.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Regras especiais"
+   },
+   "heading": {
+    "pt": "Comunicação de decisões"
+   },
+   "text": {
+    "pt": "1.   São comunicadas à entidade coordenadora do combate à droga todas as apreensões de plantas, substâncias e preparados compreendidos nas tabelas I a IV.\n2.   Os tribunais enviam à entidade coordenadora do combate à droga cópia das decisões proferidas em processo-crime por infrações previstas na presente lei.\n3.   Os tribunais enviam também aos Serviços de Saúde a cópia a que se refere o número anterior quando as decisões digam respeito a médicos, a farmacêuticos, a ajudantes técnicos de farmácia e outros técnicos de saúde."
+   }
+  },
+  {
+   "id": "TL-H155-A44",
+   "no": 44,
+   "noLabel": {
+    "pt": "Artigo 44.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Disposições finais"
+   },
+   "heading": {
+    "pt": "Atividades de prevenção"
+   },
+   "text": {
+    "pt": "1.  Compete ao Governo planear, executar e avaliar ações, medidas e programas específicos de prevenção do consumo de droga, tendo em conta a sua natureza pluridisciplinar.\n2.   Para efeitos de prevenção e tratamento da toxicodependência e de proteção da saúde pública, podem ser criadas estruturas e programas sócio sanitários, nomeadamente, centros de acolhimento, espaços móveis de prevenção de doenças transmissíveis, equipas de apoio de rua e programas de substituição de estupefacientes ou de substâncias psicotrópicas.\n3.  Compete especialmente ao Ministério da Educação e ao Ministério da Saúde, juntamente com a entidade coordenadora do combate à droga:\na) Integrar nos currículos escolares a vertente básica da educação para a saúde, com incidência específica na prevenção do consumo de droga;\nb) Providenciar no sentido de que a formação inicial e contínua dos professores os habilite a acompanhar e desenvolver tal vertente;\nc) Desenvolver programas específicos de prevenção primária de toxicodependência em meio escolar."
+   }
+  },
+  {
+   "id": "TL-H155-A45",
+   "no": 45,
+   "noLabel": {
+    "pt": "Artigo 45.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Disposições finais"
+   },
+   "heading": {
+    "pt": "Entidade coordenadora do combate à droga"
+   },
+   "text": {
+    "pt": "1.   A entidade coordenadora do combate à droga é o organismo especialmente incumbido de coordenar as ações de todas as entidades nacionais que prossigam objetivos de combate à droga e de promover e assegurar a cooperação com entidades estrangeiras no combate ao tráfico ilícito.\n2.   Compete ainda à entidade coordenadora do combate à droga acompanhar a aplicação das disposições das convenções que Timor-Leste tenha ratificado ou venha a ratificar em matéria de substâncias estupefacientes e psicotrópicas.\n3.    A entidade coordenadora do combate à droga é criada pelo Governo, por decreto-lei, que determina a sua composição, estrutura e modo de funcionamento."
+   }
+  },
+  {
+   "id": "TL-H155-A46",
+   "no": 46,
+   "noLabel": {
+    "pt": "Artigo 46.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Disposições finais"
+   },
+   "heading": {
+    "pt": "Representação internacional"
+   },
+   "text": {
+    "pt": "À entidade coordenadora do combate à droga cabe assegurar, em articulação com o Ministério da Justiça e o Ministério dos Negócios Estrangeiros, a representação de Timor-Leste a nível internacional, de modo que as matérias da cooperação sejam tratadas e as delegações integradas por representantes indicados pelos organismos respetivos, segundo as suas competências específicas."
+   }
+  },
+  {
+   "id": "TL-H155-A47",
+   "no": 47,
+   "noLabel": {
+    "pt": "Artigo 47.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Disposições finais"
+   },
+   "heading": {
+    "pt": "Relatório anual"
+   },
+   "text": {
+    "pt": "1.   O Governo apresenta anualmente ao Parlamento Nacional, até 30 de junho de cada ano, um relatório sobre a situação do País em matéria de toxicodependência e tráfico de drogas.\n2.  O relatório tem por fim fornecer ao Parlamento Nacional informação pormenorizada sobre a situação do País em matéria de toxicodependência e tráfico de drogas, bem como sobre as atividades desenvolvidas pelos serviços públicos com intervenção nas áreas da prevenção primária, do tratamento, da reinserção social de toxicodependentes e da prevenção e repressão do tráfico de drogas."
+   }
+  },
+  {
+   "id": "TL-H155-A48",
+   "no": 48,
+   "noLabel": {
+    "pt": "Artigo 48.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Disposições finais"
+   },
+   "heading": {
+    "pt": "Atualização do mapa da quantidade de referência de uso diário"
+   },
+   "text": {
+    "pt": "O mapa da quantidade de referência de uso diário constante do Anexo I à presente lei, deve ser atualizado sempre que a evolução dos conhecimentos científicos o justifique em relação a plantas, a substâncias ou a preparados compreendidos nas tabelas I a IV de consumo mais frequente, sob proposta do Ministério da Saúde e do Ministério da Justiça, ouvidos o Conselho Superior da Magistratura Judicial, o Conselho Superior do Ministério Público e os órgãos de polícia criminal relevantes."
+   }
+  },
+  {
+   "id": "TL-H155-A49",
+   "no": 49,
+   "noLabel": {
+    "pt": "Artigo 49.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Disposições finais"
+   },
+   "heading": {
+    "pt": "Regulamentação posterior"
+   },
+   "text": {
+    "pt": "A regulamentação a que se referem os n.ºs 1 e 2 do artigo 6.º e o n.º 3 do artigo 45.º deve ser adotada no prazo máximo de um ano a contar da entrada em vigor da presente lei."
+   }
+  },
+  {
+   "id": "TL-H155-A50",
+   "no": 50,
+   "noLabel": {
+    "pt": "Artigo 50.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Disposições finais"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

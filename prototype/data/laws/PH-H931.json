@@ -1,0 +1,74 @@
+{
+ "id": "PH-H931",
+ "title": {
+  "zh": null,
+  "en": "An Act Further Amending Section Fifty-Eight of Act Numbered Four Hundred Ninety-Six, Known as the “Land Registration Act,” to Facilitate Dealings in Lands Sold by the Government Pending Approval of the Subdivision Surveys",
+  "orig": "An Act Further Amending Section Fifty-Eight of Act Numbered Four Hundred Ninety-Six, Known as the “Land Registration Act,” to Facilitate Dealings in Lands Sold by the Government Pending Approval of the Subdivision Surveys"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p13",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1954-06-15",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1096",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 773,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1954/ra_1096_1954.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1954/ra_1096_1954.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H931-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section fifty-eight of Act Numbered Four hundred ninety-six, known as the Land Registration Act, is hereby further amended by adding at the end thereof the following additional paragraph:\n\"For the purpose of securing loans from banking and credit institutions, the foregoing prohibition against the acceptance for registration or annotation of a subsequent deed or other voluntary instrument shall not apply in the case of deeds of sale duly executed by the Government or any of its instrumentalities, with respect to portions of lands registered in the name of the Republic of the Philippines.\""
+   }
+  },
+  {
+   "id": "PH-H931-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "All laws and regulations, or parts thereof inconsistent with the provisions of this Act, are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H931-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval Approved: June 15, 1954."
+   }
+  }
+ ]
+}

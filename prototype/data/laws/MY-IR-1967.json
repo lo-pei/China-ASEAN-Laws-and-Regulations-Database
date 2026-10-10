@@ -1,0 +1,1587 @@
+{
+ "id": "MY-IR-1967",
+ "title": {
+  "zh": "马来西亚《1967年工业关系法》",
+  "en": "Industrial Relations Act 1967",
+  "orig": null
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "fulltext",
+ "pack": "my-2",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1967",
+ "effectiveDate": "1967-08-07",
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚国会",
+ "docNumber": "Act 177",
+ "officialCode": null,
+ "topics": [
+  "labor",
+  "dispute"
+ ],
+ "coverage": "full",
+ "structureMode": null,
+ "structure": [
+  {
+   "en": "Part I PRELIMINARY",
+   "articles": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "en": "Part II PROTECTION OF RIGHTS OF WORKMEN AND EMPLOYERS AND THEIR TRADE UNIONS",
+   "articles": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "en": "Part III RECOGNITION AND SCOPE OF REPRESENTATION OF TRADE UNIONS",
+   "articles": [
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "en": "Part IV COLLECTIVE BARGAINING AND COLLECTIVE AGREEMENTS",
+   "articles": [
+    17,
+    18,
+    19,
+    20,
+    21
+   ]
+  },
+  {
+   "en": "Part V CONCILIATION",
+   "articles": [
+    22,
+    23,
+    24,
+    25
+   ]
+  },
+  {
+   "en": "Part VI REPRESENTATIONS ON DISMISSALS",
+   "articles": [
+    26
+   ]
+  },
+  {
+   "en": "Part VII INDUSTRIAL COURT",
+   "articles": [
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42
+   ]
+  },
+  {
+   "en": "Part VIII INVESTIGATION AND INQUIRY",
+   "articles": [
+    43,
+    44,
+    45,
+    46
+   ]
+  },
+  {
+   "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM",
+   "articles": [
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66
+   ]
+  },
+  {
+   "en": "Part X MISCELLANEOUS",
+   "articles": [
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79
+   ]
+  },
+  {
+   "en": "SCHEDULES",
+   "articles": [
+    80,
+    81
+   ]
+  }
+ ],
+ "articleCount": 81,
+ "chars": 91696,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia (LOM, lom.agc.gov.my)",
+  "url": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，含 Section 1 至 Section 63 及字母编号条（2a–2b、8a、10a、19a–19b、23a、33a–33b、51a–51f、60a），共 79 条；并收录 first Schedule、second Schedule 共 2 个附表（与条文连续编号）。版本：Reprint — Industrial Relations Act 1967 (Act 177), incorporating all amendments up to 1 March 2010 (Commissioner of Law Revision)。已剔除封面页、Arrangement of Sections 目录与文末 LIST(S) OF AMENDMENTS／SECTIONS AMENDED 修订沿革表（该沿革表不属于法律正文）；正文脚注（*NOTE—…）与条文内但书照录。官方条号存在跳号：缺 4–6（原条文已删除，官方目录不再列明）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "MY-IR-1967-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1"
+   },
+   "chapter": {
+    "en": "Part I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "(1) This Act may be cited as the Industrial Relations Act 1967.\n(2) (Omitted)."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2"
+   },
+   "chapter": {
+    "en": "Part I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "In this Act, unless the context otherwise requires— “award” means an award made by the Court in respect of any trade dispute or matter referred to it or any decision or order made by it under this Act; “Board” means the Board of Inquiry appointed under Part VIII; “Chairman” means the Chairman of a division of the Court constituted under section 23;\n“collective agreement” means an agreement in writing concluded between an employer or a trade union of employers on the one hand and a trade union of workmen on the other relating to the terms and conditions of employment and work of workmen or concerning relations between such parties; “collective bargaining” means negotiating with a view to the conclusion of a collective agreement; “Committee” means the Committee of Investigation appointed under Part VIII; “contract of employment” means any agreement, whether oral or in writing and whether express or implied, whereby one person agrees to employ another as a workman and that other agrees to serve his employer as a workman; “Court” means the Industrial Court appointed under Part VII and includes, unless the contrary intention appears, any Court under section 22 constituted for the purpose of dealing with any trade dispute or matter referred to it, and any division thereof; “Director General” means the Director General for Industrial Relations and includes any other officer acting on his behalf; “Director General of Trade Unions” means the Director General of Trade Unions appointed under section 3 of the Trade Unions Act 1959 [Act 262]; “Division” means a Division of the Court as constituted under section 23; “employer” means any person or body of persons, whether corporate or unincorporate, who employs a workman under a contract of employment, and includes the Government and any statutory authority, unless otherwise expressly stated in this Act; “essential service” means any service specified in the First Schedule; “government” means the Federal Government or the Government of a State;\n“industry” means any business, trade, undertaking, manufacture or calling of employers, and includes any calling, service, employment, handicraft or industrial occupation or avocation of workmen; “injury” includes injury to a person in respect of his business, occupation, employment or other source of income and any actionable wrong; “intimidate” means to cause in the mind of a person a reasonable apprehension of injury to him or to any member of his family or to any of his dependants, or of violence or damage to any person or property; “lock-out” means—\n(a) the closing of a place of employment; or\n(b) the suspension of work; or\n(c) the refusal by an employer to continue to employ any number of workmen employed by him, in furtherance of a trade dispute, done with a view to compelling those workmen to accept terms or conditions of or affecting employment; “maliciously” means the doing of a wrongful act intentionally without just cause or excuse, whether or not in furtherance of a trade dispute; “Minister” means the Minister charged with the responsibility for human resources; “officer of a trade union” means “officer” as defined under any written law relating to the registration of trade unions; “party”, with reference to a trade dispute, means a trade union of workmen acting for all or any number of its members in the trade dispute, or an employer acting for himself in the trade dispute, or a trade union of employers acting for all or any number of its members in the trade dispute; “prescribed” means prescribed by regulations made under this Act;\n“President” means the President of the Court appointed under this Act; “public health service” means any medical or health service and includes any hospital, clinic, sanatorium or other related institution for the care of the sick or any system of public conservancy or sanitation; “Registrar” means the Registrar of the Court appointed under this Act and includes a Deputy Registrar and an Assistant Registrar; “statutory authority” means an authority or body established, appointed or constituted by any written law, and includes any local authority; “strike” means the cessation of work by a body of workmen acting in combination, or a concerted refusal or a refusal under a common understanding of a number of workmen to continue to work or to accept employment, and includes any act or omission by a body of workmen acting in combination or under a common understanding, which is intended to or does result in any limitation, restriction, reduction or cessation of or dilatoriness in the performance or execution of the whole or any part of the duties connected with their employment; “trade dispute” means any dispute between an employer and his workmen which is connected with the employment or non-employment or the terms of employment or the conditions of work of any such workmen; “trade union” means any trade union registered under any law relating to the registration of trade unions; “workman” means any person, including an apprentice, employed by an employer under a contract of employment to work for hire or reward and for the purposes of any proceedings in relation to a trade dispute includes any such person who has been dismissed, discharged or retrenched in connection with or as a consequence of that dispute or whose dismissal, discharge or retrenchment has led to that dispute."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 2a"
+   },
+   "chapter": {
+    "en": "Part I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Appointment of Director General for Industrial Relations"
+   },
+   "text": {
+    "en": "(1) The Yang di-Pertuan Agong shall appoint a Director General for Industrial Relations who shall have the general direction, control, and supervision of all matters relating to industrial relations.\n(2) The Yang di-Pertuan Agong—\n(a) shall appoint a Deputy Director General for Industrial Relations; and\n(b) may appoint such number of Directors of Industrial Relations, Principal Assistant Directors of Industrial Relations, Assistant Directors of Industrial Relations and Industrial Relations Officers as he considers necessary or expedient for the purposes of carrying out and giving effect to the provisions of this Act.\n(2a) The persons appointed under subsections (1) and (2) shall be persons from the Industrial Relations Officers Scheme of Service and such appointments shall be published in the Gazette.\n(3) The Director General shall, in addition to the powers, duties and functions conferred on him under this Act, exercise such other powers, discharge such other duties and perform such other functions as may be necessary or expedient for the purposes of carrying out and giving effect to the provisions of this Act.\n(4) Subject to such limitations, if any, as may be prescribed, an officer appointed under subsection (2) shall exercise all the powers, discharge all the duties and perform all the functions of the Director General under this Act, and every power so exercised, duty so discharged and function so performed shall be deemed to have been duly exercised, discharged and performed for the purposes of this Act."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 2b"
+   },
+   "chapter": {
+    "en": "Part I PRELIMINARY"
+   },
+   "heading": {
+    "en": "All officers to be public servants"
+   },
+   "text": {
+    "en": "All officers appointed under section 2a shall be deemed to be public servants for the purposes of the Penal Code [Act 574]."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 3"
+   },
+   "chapter": {
+    "en": "Part II PROTECTION OF RIGHTS OF WORKMEN AND EMPLOYERS AND THEIR TRADE UNIONS"
+   },
+   "heading": {
+    "en": "Expression “trade union”"
+   },
+   "text": {
+    "en": "For the purposes of this Part, the expression “trade union” includes an association that has applied to be registered as a trade union."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 4"
+   },
+   "chapter": {
+    "en": "Part II PROTECTION OF RIGHTS OF WORKMEN AND EMPLOYERS AND THEIR TRADE UNIONS"
+   },
+   "heading": {
+    "en": "Rights of workmen and employers"
+   },
+   "text": {
+    "en": "(1) No person shall interfere with, restrain or coerce a workman or an employer in the exercise of his rights to form and assist in the formation of and join a trade union and to participate in its lawful activities.\n(2) No trade union of workmen and no trade union of employers shall interfere with each other in the establishment, functioning or administration of that trade union.\n(3) No employer or trade union of employers and no person acting on behalf of such employer or such trade union shall support any trade union of workmen by financial or other means, with the object of placing it under the control or influence of such employer or such trade union of employers. Prohibition on employers and their trade unions in respect of certain acts"
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 5"
+   },
+   "chapter": {
+    "en": "Part II PROTECTION OF RIGHTS OF WORKMEN AND EMPLOYERS AND THEIR TRADE UNIONS"
+   },
+   "heading": {
+    "en": "Prohibition on employers and their trade unions in respect of certain"
+   },
+   "text": {
+    "en": "(1) No employer or trade union of employers, and no person acting on behalf of an employer or such trade union shall—\n(a) impose any condition in a contract of employment seeking to restrain the right of a person who is a party to the contract to join a trade union, or to continue his membership in a trade union;\n(b) refuse to employ any person on the ground that he is or is not a member or an officer of a trade union;\n(c) discriminate against any person in regard to employment, promotion, any condition of employment or working\nconditions on the ground that he is or is not a member or officer of a trade union;\n(d) dismiss or threaten to dismiss a workman, injure or threaten to injure him in his employment or alter or threaten to alter his position to his prejudice by reason that the workman—\n(i) is or proposes to become, or seeks to persuade any other person to become, a member or officer of a trade union; or\n(ii) participates in the promotion, formation or activities of a trade union; or\n(e) induce a person to refrain from becoming or to cease to be a member or officer of a trade union by conferring or offering to confer any advantage on or by procuring or offering to procure any advantage for any person.\n(2) Subsection (1) shall not be deemed to preclude an employer from—\n(a) refusing to employ a person for proper cause, or not promoting a workman for proper cause, or suspending, transferring, laying-off or discharging a workman for proper cause;\n(b) requiring at any time that a person who is or has been appointed or promoted to a managerial, an executive or a security position shall cease to be or not become a member or officer of a trade union catering for workmen other than those in a managerial, an executive or a security position; or\n(c) requiring that any workman employed in confidential capacity in matters relating to staff relations shall cease to be or not become a member or officer of a trade union."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 6"
+   },
+   "chapter": {
+    "en": "Part II PROTECTION OF RIGHTS OF WORKMEN AND EMPLOYERS AND THEIR TRADE UNIONS"
+   },
+   "heading": {
+    "en": "Leave on trade union business"
+   },
+   "text": {
+    "en": "A workman intending to carry out his duties or to exercise his rights as an officer of a trade union shall apply in writing to his employer for leave of absence stating the durations of and the purposes for which such leave is applied for and the employer\nshall grant the application for leave if the duration of the leave applied for is for a period that is no longer than what is reasonably required for the purposes stated in the application:\nProvided that a workman shall not be entitled to leave with pay for the duration of his absence if the purposes for which he is absent from work are not to represent the members of his trade union in relation to industrial matters concerning his employer."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 7"
+   },
+   "chapter": {
+    "en": "Part II PROTECTION OF RIGHTS OF WORKMEN AND EMPLOYERS AND THEIR TRADE UNIONS"
+   },
+   "heading": {
+    "en": "Prohibition on workmen and their trade unions in respect of certain acts"
+   },
+   "text": {
+    "en": "No workman or trade union of workmen and no person acting on behalf of such trade union shall—\n(a) except with the consent of the employer, persuade at the employer’s place of business during working hours a workman of the employer to join or refrain from joining a trade union:\nProvided that this paragraph shall not be deemed to apply to any act by a workman employed in the same undertaking where the act does not interfere with his normal duties;\n(b) intimidate any person to become or refrain from becoming or to continue to be or to cease to be a member or officer of a trade union; or\n(c) induce any person to refrain from becoming or cease to be a member or officer of a trade union by conferring or offering to confer on any person or by procuring or offering to procure any advantage."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 8"
+   },
+   "chapter": {
+    "en": "Part II PROTECTION OF RIGHTS OF WORKMEN AND EMPLOYERS AND THEIR TRADE UNIONS"
+   },
+   "heading": {
+    "en": "Reference of complaint to Industrial Court"
+   },
+   "text": {
+    "en": "(1) Any complaint of any contravention of section 4, 5, or 7 may be lodged in writing to the Director General setting out all the facts and circumstances constituting the complaint.\n(1a) Where a complaint in subsection (1) relates to the dismissal of a workman, the provisions of section 20 shall apply to the exclusion of subsections 8(2) to (4).\n(2) The Director General upon receiving any complaint under subsection (1) may take such steps or make such enquiries as he considers necessary or expedient to resolve the complaint; where the complaint is not resolved the Director General shall notify the Minister.\n(2a) Upon receipt of a notification under subsection (2), the Minister may, if he thinks fit, refer the complaint to the Court for hearing.\n(3) The Court shall thereupon conduct a hearing in accordance with this Act and may make such award as may be deemed necessary or appropriate.\n(4) This section shall not apply in circumstances where there is a contravention of section 59 and proceedings have been commenced before a court in respect of an offence under subsection 59(1); where, while proceedings are pending under this section, proceedings arising out of the same circumstances are commenced before a court in respect of an offence under subsection 59(1), the proceedings under this section shall not be proceeded with further. Employer may provide information on collective bargaining and trade dispute to his workmen"
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 8a"
+   },
+   "chapter": {
+    "en": "Part II PROTECTION OF RIGHTS OF WORKMEN AND EMPLOYERS AND THEIR TRADE UNIONS"
+   },
+   "heading": {
+    "en": "Employer may provide information on collective bargaining and trade"
+   },
+   "text": {
+    "en": "Nothing in this Act shall be construed as preventing an employer from conveying to his workmen, in such manner as he may deem appropriate, any information on any matter pertaining to any collective bargaining or trade dispute involving such workmen and the trade union acting for them."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 9"
+   },
+   "chapter": {
+    "en": "Part III RECOGNITION AND SCOPE OF REPRESENTATION OF TRADE UNIONS"
+   },
+   "heading": {
+    "en": "Claim for recognition"
+   },
+   "text": {
+    "en": "(1) No trade union of workmen the majority of whose membership consists of workmen who are not employed in any of the following capacities that is to say— *note—The amendments made to this section by section 9 of Act A484 came into force on 15-09-1980, vide p.u. (b) 452/1980.\n(a) managerial capacity;\n(b) executive capacity;\n(c) confidential capacity; or\n(d) security capacity, may seek recognition or serve an invitation under section 13 in respect of workmen employed in any of the above-mentioned capacities.\n(1a) Any dispute arising at any time, whether before or after recognition has been accorded, as to whether any workman or workmen are employed in a managerial, executive, confidential or security capacity may be referred to the Director General by a trade union of workmen or by an employer or by a trade union of employers.\n(1b) The Director General, upon receipt of a reference under subsection (1a), may take such steps or make such enquiries as he may consider necessary or expedient to resolve the matter.\n(1c) Where the matter is not resolved under subsection (1b) the Director General shall notify the Minister.\n(1d) Upon receipt of the notification under subsection (1c), the Minister shall give his decision as to whether any workman or workmen are employed in a managerial, executive, confidential or security capacity and communicate in writing the decision to the trade union of workmen, to the employer and to the trade union of employers concerned. (2) Subject to subsection (1), a trade union of workmen may serve on an employer or on a trade union of employers in writing in the prescribed form a claim for recognition in respect of the workmen or any class of workmen employed by such employer or by the members of such trade union of employers.\n(3) An employer or a trade union of employers upon whom a claim for recognition has been served shall, within twenty-one days after the service of the claim—\n(a) accord recognition; or\n(b) if recognition is not accorded, notify the trade union of\nworkmen concerned in writing the grounds for not according recognition.\n(c) (Deleted by Act A1322).\n(3a) Upon according recognition to the trade union of workmen concerned under paragraph (3)(a), the employer or the trade union of employers concerned shall notify the Director General.\n(4) Where the trade union of workmen concerned receives a notification under paragraph (3)(b), or where the employer or trade union of employers concerned fails to comply with subsection (3), the trade union of workmen may, within fourteen days—\n(a) of the receipt of the notification; or\n(b) after the twenty-one day period in subsection (3) has lapsed, report the matter in writing to the Director General, failing which the claim for recognition shall be deemed to have been withdrawn.\n(4a) Upon receipt of a report under subsection (4), the Director General may take such steps or make such enquiries to ascertain—\n(a) the competence of the trade union of workmen concerned to represent any workmen or class of workmen in respect of whom the recognition is sought to be accorded; and\n(b) by way of secret ballot, the percentage of the workmen or class of workmen, in respect of whom recognition is being sought, who are members of the trade union of workmen making the claim.\n(4b) For the purpose of carrying out his functions under subsection (1b) or (4a) the Director General—\n(a) shall have the power to require the trade union of workmen, the employer, or the trade union of employers concerned to furnish such information as he may consider necessary or relevant within the period specified in the requirement;\n(b) may refer to the Director General of Trade Unions for him to ascertain the competence of the trade union of workmen concerned to represent any workmen or\nclass of workmen in respect of whom recognition is sought to be accorded, and the performance of duties and functions by the Director General of Trade Unions under this paragraph shall be deemed to be a performance of his duties and functions under the written law relating to the registration of trade unions; and\n(c) may enter any place of employment where any workmen in respect of whom a claim for recognition is sought to be accorded are being employed to examine any records or documents or to conduct secret ballot.\n(4c) Upon ascertaining the matter under subsection (4a), the Director General shall notify the Minister.\n(5) Upon receipt of a notification under subsection (4c) the Minister shall give his decision thereon; where the Minister decides that recognition is to be accorded, such recognition shall be deemed to be accorded by the employer or trade union of employers concerned, as the case may be, as from such date as the Minister may specify.\n(6) A decision of the Minister under subsection (1d) or (5) shall be final and shall not be questioned in any court."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 10"
+   },
+   "chapter": {
+    "en": "Part III RECOGNITION AND SCOPE OF REPRESENTATION OF TRADE UNIONS"
+   },
+   "heading": {
+    "en": "Prohibition of strike, lock-out, picketing and termination of service pending recognition of a trade union"
+   },
+   "text": {
+    "en": "(1) No workman shall go on strike or do anything which is rendered lawful by virtue of the proviso to subsection 40(1) for whatever reason during the pendency of proceedings under section 9, or after the decision of the Minister thereunder by reason of any dissatisfaction with such decision.\n(2) No employer shall declare a lock-out or terminate the services of a workman once a trade union of workmen has served on the employer or a trade union of employers to which the employer belongs, a claim for recognition under subsection 9(2) in respect of workmen or a class of workmen:\nProvided that this restriction shall not apply—\n(a) where a dismissal is effected on disciplinary grounds;\n(b) where the claim for recognition is deemed to have been withdrawn under subsection 9(4) or has been decided by the Minister under subsection 9(5); or\n(c) where a termination is due to retirement, expiry of a fixed term contract, non-confirmation of a probationer or being medically boarded out.\n(3) For the purpose of subsection (2) “lock-out” includes—\n(a) the closing of a place of employment;\n(b) the suspension of work; or\n(c) the refusal by an employer to continue to employ any number of workmen employed by him, effected during the pendency of proceedings under section 9."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 10a"
+   },
+   "chapter": {
+    "en": "Part III RECOGNITION AND SCOPE OF REPRESENTATION OF TRADE UNIONS"
+   },
+   "heading": {
+    "en": "No other claims after trade union has made a claim"
+   },
+   "text": {
+    "en": "Where a claim for recognition by a trade union in respect of workmen or a class of workmen has been made under section 9, no other trade union of workmen shall make a claim for recognition under that section or be accorded recognition in respect of the same workmen or class of workmen until the claim is resolved under paragraph 9(3)(a) or deemed to have been withdrawn under subsection 9(4), or decided by the Minister under subsection 9(5)."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 11"
+   },
+   "chapter": {
+    "en": "Part III RECOGNITION AND SCOPE OF REPRESENTATION OF TRADE UNIONS"
+   },
+   "heading": {
+    "en": "Trade unions accorded recognition"
+   },
+   "text": {
+    "en": "Where a trade union has been accorded recognition in respect of any workman or class of workmen whether by a decision of the Minister or otherwise no other trade union shall make any claim for recognition in respect of the same workman or class of workmen unless a period of three years has elapsed after such recognition has been accorded or the trade union which has been accorded recognition is no longer in existence."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 12"
+   },
+   "chapter": {
+    "en": "Part III RECOGNITION AND SCOPE OF REPRESENTATION OF TRADE UNIONS"
+   },
+   "heading": {
+    "en": "Trade unions not accorded recognition"
+   },
+   "text": {
+    "en": "Where a claim for recognition—\n(a) has been withdrawn by the trade union of workmen\nconcerned after a report has been made by the trade union of workmen to the Director General under subsection 9(4); or\n(b) has been decided by the Minister under subsection 9(5), resulting in the trade union of workmen concerned not being accorded recognition, such trade union shall not make any further claim for recognition in respect of the same workmen or class of workmen until six months have elapsed from the date of such withdrawal or decision."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 13"
+   },
+   "chapter": {
+    "en": "Part IV COLLECTIVE BARGAINING AND COLLECTIVE AGREEMENTS"
+   },
+   "heading": {
+    "en": "Collective bargaining"
+   },
+   "text": {
+    "en": "(1) Where a trade union of workmen has been accorded recognition by an employer or a trade union of employers—\n(a) the trade union of workmen may invite the employer or trade union of employers to commence collective bargaining; or\n(b) the employer or the trade union of employers may invite the trade union of workmen to commence collective bargaining.\n(2) The invitation under subsection (1) shall be in writing and shall set out the proposals for a collective agreement.\n(2a) A proposal for a collective agreement may provide for one or more of the following:\n(a) provision for training to enhance skills and knowledge of the workmen;\n(b) provision for an annual review of the wage system; and\n(c) provision for a performance-based remuneration system.\n(3) Notwithstanding subsection (1), no trade union of workmen\nmay include in its proposals for a collective agreement a proposal in relation to any of the following matters, that is to say—\n(a) the promotion by an employer of any workman from a\nlower grade or category to a higher grade or category;\n(b) the transfer by an employer of a workman within the organization of an employer’s profession, business, trade or work, provided that such transfer does not entail a change to the detriment of a workman in regard to his terms of employment;\n(c) the employment by an employer of any person that he\nmay appoint in the event of a vacancy arising in his establishment;\n(d) the termination by an employer of the services of a workman by reason of redundancy or by reason of the reorganization of an employer’s profession, business, trade or work or the criteria for such termination;\n(e) the dismissal and reinstatement of a workman by an employer;\n(f) the assignment or allocation by an employer of duties or specific tasks to a workman that are consistent or compatible with the terms of his employment:\nProvided that nothing in this subsection shall prohibit a trade union of workmen to raise in the course of any discussion with an employer or trade union of employers (whether or not the discussion is in the course of any collective bargaining) questions of a general character relating to the procedures of promotion of workmen notwithstanding that such questions do not form part of the proposals aforesaid.\n(4) The employer, trade union of employers or trade union of workmen to whom invitation under subsection (1) has been made shall, within fourteen days from the receipt of the invitation, reply in writing to the party who has made the invitation notifying acceptance or otherwise of the invitation.\n(5) Where an invitation to commence collective bargaining has been made and a reply notifying acceptance has been given the parties shall commence collective bargaining within thirty days from the date of receipt of the reply notifying acceptance of the invitation.\n(6) Where an invitation to commence collective bargaining has been made and the invitation has been refused or not been accepted within fourteen days, or where no collective bargaining has commenced within thirty days from the date of receipt of the reply notifying acceptance of such invitation, the party making the invitation may notify the Director General in writing, whereupon the Director General may take such steps as may be necessary or expedient with a view to bringing the parties to commence collective bargaining without undue delay.\n(7) If after such steps, as aforesaid, have been taken, there is still refusal to commence collective bargaining, a trade dispute shall be deemed to exist upon the matters set out in the invitation.\n(8) Where a trade union of workmen considers that an employer or a trade union of employers has refused to allow without just cause or excuse any question referred to under the proviso to subsection (3) to be raised in the course of any discussion, the trade union of workmen may, within one month of such refusal, make representations in writing to the Minister who may, before giving any direction thereon, give an opportunity to the employer or his trade union and the trade union of workmen to be heard; and the direction of the Minister shall be final and conclusive."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 14"
+   },
+   "chapter": {
+    "en": "Part IV COLLECTIVE BARGAINING AND COLLECTIVE AGREEMENTS"
+   },
+   "heading": {
+    "en": "Collective agreements"
+   },
+   "text": {
+    "en": "(1) A collective agreement shall be in writing and signed by the parties to the agreement or by persons authorized in that behalf.\n(2) A collective agreement shall set out the terms of the agreement and shall, where appropriate—\n(a) name the parties thereto;\n(b) specify the period it shall continue in force which shall\nnot be less than three years from the date of commencement of the agreement;\n(c) prescribe the procedure for its modification and termination; and\n(d) unless there exists appropriate machinery established by virtue of an agreement between the parties for the settlement of disputes, prescribe the procedure for\nthe adjustment of any question that may arise as to the implementation or interpretation of the agreement and reference of any such question to the Court for a decision.\n(3) Any term or condition of employment, contained in a collective agreement, which is less favourable than or in contravention of the provisions of any written law applicable to workmen covered by the said collective agreement, shall be void and of no effect to that extent and the provisions of such written law shall be substituted thereof."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 15"
+   },
+   "chapter": {
+    "en": "Part IV COLLECTIVE BARGAINING AND COLLECTIVE AGREEMENTS"
+   },
+   "heading": {
+    "en": "(Deleted)"
+   },
+   "text": {
+    "en": "(Deleted by Act A1322)."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 16"
+   },
+   "chapter": {
+    "en": "Part IV COLLECTIVE BARGAINING AND COLLECTIVE AGREEMENTS"
+   },
+   "heading": {
+    "en": "Deposit of collective agreements"
+   },
+   "text": {
+    "en": "(1) A signed copy of the collective agreement shall be jointly deposited by the parties with the Registrar within one month from the date on which the agreement has been entered into and the Registrar shall thereupon bring it to the notice of the Court for its cognizance.\n(2) The Court may in its discretion—\n(a) refuse to take cognizance of the collective agreement deposited under subsection (1) if it is of the opinion that the agreement does not comply with section 14; or\n(b) before taking cognizance of the collective agreement deposited under subsection (1), require that such part thereof as does not comply with section 14 shall be amended in such manner as the Court may direct.\n(3) If any party to the collective agreement fails to carry out such direction the Court may, notwithstanding any other power exercisable under this Act, amend the copy of the collective agreement in the manner directed after giving the parties a reasonable opportunity of being heard and the agreement so amended shall be deemed to be the collective agreement between the parties.\n(4) (Omitted).\n(5) Except in the case provided under subsection (3), the powers of the Court under this section may be exercised by the President sitting alone or, in the case of a Division, by the Chairman sitting alone."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 17"
+   },
+   "chapter": {
+    "en": "Part IV COLLECTIVE BARGAINING AND COLLECTIVE AGREEMENTS"
+   },
+   "heading": {
+    "en": "Effect of collective agreement"
+   },
+   "text": {
+    "en": "(1) A collective agreement which has been taken cognizance of by the Court shall be deemed to be an award and shall be binding on—\n(a) the parties to the agreement including in any case where a party is a trade union of employers, all members of the trade union to whom the agreement relates and their successors, assignees or transferees; and\n(b) all workmen who are employed or subsequently employed in the undertaking or part of the undertaking to which the agreement relates.\n(2) As from such date and for such period as may be specified in the collective agreement it shall be an implied term of the contract between the workmen and employers bound by the agreement that the rates of wages to be paid and the conditions of employment to be observed under the contract shall be in accordance with the agreement unless varied by a subsequent agreement or a decision of the Court."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 18"
+   },
+   "chapter": {
+    "en": "Part V CONCILIATION"
+   },
+   "heading": {
+    "en": "Reference of disputes for conciliation"
+   },
+   "text": {
+    "en": "(1) Where a trade dispute exists or is apprehended, that dispute, if not otherwise resolved, may be reported to the Director General by—\n(a) an employer who is a party to the dispute or a trade union of employers representing him in the dispute; or\n(b) a trade union of workmen which is a party to the dispute.\n(2) The Director General shall consider any dispute reported to him under subsection (1) and take such steps as may be necessary or expedient for promoting an expeditious settlement thereof:\nProvided that where the dispute relates to the dismissal of a workman, section 20 shall apply.\n(3) Where a trade dispute exists or is apprehended, which in his opinion is not likely to be settled by negotiation between the parties, the Director General may, if he deems it necessary in the public interest, take such steps as may be necessary or expedient for promoting a settlement thereof whether or not the trade dispute has been reported to him.\n(4) The steps taken by the Director General under subsection (2) or (3) shall include reference of the dispute for settlement to any appropriate machinery which already exists by virtue of an agreement between or applicable to the parties to the dispute, unless—\n(a) the dispute has already been referred to such machinery and there has been a failure to reach a settlement; or\n(b) in his opinion it is unlikely that the dispute will be promptly settled through such machinery.\n(5) Where, after having taken the steps under subsection (2) or (3), the Director General is satisfied that there is no likelihood of the trade dispute being settled, he shall notify the Minister accordingly."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 19"
+   },
+   "chapter": {
+    "en": "Part V CONCILIATION"
+   },
+   "heading": {
+    "en": "Information, documents and compulsory conference for conciliation"
+   },
+   "text": {
+    "en": "(1) Where a trade dispute has been reported to the Director General under subsection 18(1) or where the Director General has taken steps under subsection (3) of that section, the party reporting the dispute and, if directed to do so by the Director General, the other party shall furnish to the Director General within such period as may be specified in the direction all the necessary information relating to the matters in dispute, together with, wherever possible and appropriate, an agreed statement setting out the points, if any, on which they have already reached agreement and the points on which there is still disagreement.\n(2) The Director General may, if he deems it necessary or expedient, direct any person engaged in or connected directly or indirectly with the trade dispute in respect of which steps have been taken under section 18 to attend a conference to be presided over by the Director General or such person as he may appoint at such time and place as may be specified in the direction."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 19a"
+   },
+   "chapter": {
+    "en": "Part V CONCILIATION"
+   },
+   "heading": {
+    "en": "The Minister may conciliate in any trade dispute"
+   },
+   "text": {
+    "en": "Notwithstanding the provisions of this Part, the Minister may, at any time, if he considers it necessary or expedient, take such steps as may be necessary to conciliate in any trade dispute."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 19b"
+   },
+   "chapter": {
+    "en": "Part V CONCILIATION"
+   },
+   "heading": {
+    "en": "Representation in conciliation proceedings"
+   },
+   "text": {
+    "en": "(1) In any conciliation proceedings under this Part—\n(a) an employer who is a party to the trade dispute may—\n(i) represent himself or be represented by his duly authorized employee;\n(ii) where he is a member of a trade union of employers, be represented by any officer or employee of such trade union of employers; or\n(iii) notwithstanding anything to the contrary contained in any written law relating to the registration of trade unions, be represented by any official of an organization of employers registered in Malaysia (not being a trade union of employers); and\n(b) a trade union of workmen which is a party to the trade dispute may be represented by an officer or employee of such trade union, or, notwithstanding anything to the contrary contained in any written law relating to the registration of trade unions, by any official of an organization of workmen registered in Malaysia (not being a trade union of workmen).\n(2) Save as provided in subsection (1), a party to a trade dispute shall not, in any conciliation proceedings under this Part, be represented by an advocate, adviser, consultant or by any other person whatsoever."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 20"
+   },
+   "chapter": {
+    "en": "Part VI REPRESENTATIONS ON DISMISSALS"
+   },
+   "heading": {
+    "en": "Representations on dismissals"
+   },
+   "text": {
+    "en": "(1) Where a workman, irrespective of whether he is a member of a trade union of workmen or otherwise, considers that he has been dismissed without just cause or excuse by his employer, he may make representations in writing to the Director General to be reinstated in his former employment; the representations may be filed at the office of the Director General nearest to the place of employment from which the workman was dismissed.\n(1a) The Director General shall not entertain any representations under subsection (1) unless such representations are filed within sixty days of the dismissal:\nProvided that where a workman is dismissed with notice he may file a representation at any time during the period of such notice but not later than sixty days from the expiry thereof.\n(2) Upon receipt of the representations the Director General shall take such steps as he may consider necessary or expedient so that an expeditious settlement thereof is arrived at; where the Director General is satisfied that there is no likelihood of the representations being settled, he shall notify the Minister accordingly.\n(3) Upon receiving the notification of the Director General under subsection (2), the Minister may, if he thinks fit, refer the representations to the Court for an award.\n(4) Where an award has been made under subsection (3), the award shall operate as a bar to any action for damages by the workman in any court in respect of wrongful dismissal.\n(5) This section shall not apply to the dismissal of a workman in circumstances arising out of a contravention of section 59 where proceedings have been commenced before a court in respect of an offence under subsection 59(1); where, while proceedings are pending under this section, proceedings arising out of the same dismissal are commenced before a court in respect of an offence under subsection 59(1), the proceedings under this section shall not be proceeded with further.\n(6) In any proceedings under subsection (2)—\n(a) an employer may—\n(i) represent himself or be represented by his duly authorized employee;\n(ii) where he is a member of a trade union of employers, be represented by any officer or employee of such trade union employers; or\n(iii) notwithstanding anything to the contrary contained in any written law relating to the registration of trade unions, be represented by any official of an organization of employers registered in Malaysia (not being a trade union of employers); and\n(b) a workman may—\n(i) represent himself;\n(ii) where he is a member of a trade union of workmen, be represented by any officer or employee of such trade union of workmen; or\n(iii) notwithstanding anything to the contrary contained in any written law relating to the registration of trade unions, be represented by any official of an organization of workmen registered in Malaysia (not being a trade union of workmen).\n(7) Save as provided in subsection (6), a workman or employer shall not be represented by an advocate, adviser, consultant or by any other person whatsoever.\n(8) For the purpose of carrying out his functions under this section the Director General—\n(a) shall have the power to direct either party to furnish to him, within such period as may be specified in that direction, such information as he may consider necessary or relevant; and\n(b) may, if he deems it necessary or expedient, direct any person engaged in or connected directly or indirectly with the dismissals to attend a conference to be presided over by the Director General or such person as he may appoint at such time and place as may be specified in the direction.\n(9) Where a workman who has made a representation under subsection (1) attends none of the conferences under paragraph (8)(b) without any reasonable excuse, the representation shall be deemed to have been withdrawn."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 21"
+   },
+   "chapter": {
+    "en": "Part VII INDUSTRIAL COURT"
+   },
+   "heading": {
+    "en": "Industrial Court"
+   },
+   "text": {
+    "en": "(1) For the purposes of this Act, there shall be an Industrial Court which shall consist of—\n(a) a President who shall be appointed by the Yang di-Pertuan Agong; and\n(b) a panel of persons representing employers and a panel of persons representing workmen all of whom shall be appointed by the Minister:\nProvided that before appointing the panels the Minister may consult such organizations representing employers and workmen respectively as he may think fit.\n(2) During the absence of or inability to act from illness or any other cause by the President, the Yang di-Pertuan Agong may appoint another person to exercise the powers or perform the functions of the President and, notwithstanding that the President may have resumed the duties of his office, the person so appointed may continue to exercise the powers or perform the functions for the purpose of completing the hearing of and determining any trade dispute or matter commenced before him.\n(3) The appointments made in subsections (1) and (2) shall be published in the Gazette and shall specify, if any, the terms and conditions upon which they are made.\n(4) The Minister shall remove from a panel referred to in paragraph (1)(b) a person who has declined to constitute the Court when selected to do so, or has absented himself, when selected, from the proceedings of the Court, unless he has shown reasonable cause for so declining or absenting himself; and the Minister may at any time without assigning any reason thereof revoke the appointment of any person to such panel."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 22"
+   },
+   "chapter": {
+    "en": "Part VII INDUSTRIAL COURT"
+   },
+   "heading": {
+    "en": "Constitution of the Court"
+   },
+   "text": {
+    "en": "(1) For the purpose of dealing with any trade dispute referred to it, the Court, except where otherwise provided by this Act, shall be constituted of the President and two members selected by the President, one from each of the panels specified in subsection 21(1).\n(2) If any member other than the President is unable to attend or continue to attend any proceedings of the Court or ceases to be a member, the President may select another member from the appropriate panel to fill the vacancy.\n(3) The Court may with the consent of the parties to the dispute act notwithstanding any vacancy in its number or in the absence of any member other than the President from any hearing or any part thereof and no act, proceeding or award of the Court shall be called in question or invalidated by reason of any such vacancy or absence.\n(4) Any member of the Court constituted under this section whose appointment expires during the proceedings of the Court shall for the purpose of the proceedings continue to be a member of the Court and the term of his appointment shall be deemed to have been extended until the final disposal of the trade dispute or matter.\n(5) Notwithstanding the foregoing subsections, for the purpose of dealing with any reference to the Court under subsection 20(3) or any application for reference to the High Court under subsection 33a(1), the Court may be constituted by the President sitting alone."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 23"
+   },
+   "chapter": {
+    "en": "Part VII INDUSTRIAL COURT"
+   },
+   "heading": {
+    "en": "Divisions of the Court"
+   },
+   "text": {
+    "en": "(1) The Court may sit in two or more Divisions with the same or different Chairman.\n(2) The Yang di-Pertuan Agong may by notification in the Gazette appoint any person to be a Chairman of any Division of the Court.\n(3) Any Division shall be constituted of a Chairman and two\nmembers selected by the President, one from each of the panels specified in subsection 21(1).\n(4) Notwithstanding the foregoing subsections, for the purpose of dealing with any reference to the Court under subsection 20(3) or any application for reference to the High Court under subsection 33a(1), a Division may be constituted by the Chairman sitting alone.\n(5) The Court may, with the consent of the parties to the dispute, act notwithstanding any vacancy in its number or in the absence of any member other than the Chairman from any hearing or any part thereof and no act, proceeding or award of the Court shall be called in question or be invalidated by reason of any such vacancy or absence.\n(6) During the absence of or inability to act from illness or any other cause by the Chairman, the Yang di-Pertuan Agong may appoint another person to exercise the powers or perform the functions of the Chairman and, notwithstanding that the Chairman may have resumed the duties of his office, the person so appointed may continue to exercise the powers or perform the functions for the purpose of completing the hearing of and determining any trade dispute or matter commenced before him."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 23a"
+   },
+   "chapter": {
+    "en": "Part VII INDUSTRIAL COURT"
+   },
+   "heading": {
+    "en": "Qualification of President and Chairman of Industrial Court"
+   },
+   "text": {
+    "en": "(1) A person is qualified for appointment as President under paragraph 21(1)(a) and as Chairman under subsection 23(2) if, for the seven years preceding his appointment, he has been an advocate and solicitor within the meaning of the Legal Profession Act 1976 [Act 166] or a member of the judicial and legal service of the Federation or of the legal service of a State, or sometimes one and sometimes another.\n(2) (Deleted by Act A1322)."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 24"
+   },
+   "chapter": {
+    "en": "Part VII INDUSTRIAL COURT"
+   },
+   "heading": {
+    "en": "Protection and immunity to members of the Court"
+   },
+   "text": {
+    "en": "(1) Every person appointed under sections 21 and 23, in the performance of his duties and functions, shall be deemed\nto be a public servant within the meaning of the Penal Code [Act 574].\n(2) Notwithstanding anything to the contrary in any written law, no member of the Court shall be compelled by any court to appear as a witness or party in any proceedings before that Court in relation to any act, matter or thing performed by him as a member of the Court under this Act."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 25"
+   },
+   "chapter": {
+    "en": "Part VII INDUSTRIAL COURT"
+   },
+   "heading": {
+    "en": "Registrar and officers"
+   },
+   "text": {
+    "en": "(1) There shall be appointed a Registrar, a Deputy Registrar and such number of Assistant Registrars, of the Court and other officers and staff as may from time to time be considered necessary or expedient for the purposes of this Act.\n(2) The duties of the Registrar, Deputy Registrar, Assistant Registrars, and other officers and staff of the Court shall, subject to this Act and the rules made thereunder, be as the President directs."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 26"
+   },
+   "chapter": {
+    "en": "Part VII INDUSTRIAL COURT"
+   },
+   "heading": {
+    "en": "Reference of trade disputes to the Court"
+   },
+   "text": {
+    "en": "(1) Where a trade dispute exists or is apprehended, the Minister may, if that dispute is not otherwise resolved, refer the dispute to the Court on the joint request in writing to the Minister by the trade union of workmen which is a party to the dispute and the employer who is a party to the dispute or a trade union of employers which is a party to the dispute.\n(2) The Minister may of his own motion or upon receiving the notification of the Director General under subsection 18(5) refer any trade dispute to the Court if he is satisfied that it is expedient so to do:\nProvided that in the case of a trade dispute in any Government service or in the service of any statutory authority, reference shall not be made except with the consent of the Yang di-Pertuan Agong or State Authority as the case may require.\n(3) If there exists in any industry any arrangement for the settlement of trade disputes, made in pursuance of an agreement between an employer or a trade union of employers and a trade\nunion of workmen, the Minister shall not refer the trade dispute to the Court in accordance with subsections (1) and (2) unless there has been a failure to obtain a settlement by means of those arrangements or in his opinion it is unlikely that the dispute will be expeditiously settled through such arrangements."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 27"
+   },
+   "chapter": {
+    "en": "Part VII INDUSTRIAL COURT"
+   },
+   "heading": {
+    "en": "Appearance and representation at proceedings before the Court"
+   },
+   "text": {
+    "en": "(1) In any proceedings before the Court a party may—\n(a) where the party is a trade union, be represented by an\nofficer or employee of the trade union;\n(b) where the party is an employer, appear himself personally or be represented by his duly authorized employee, or by an officer or employee of a trade union of employers of which he is a member;\n(c) where the party is a workman, appear himself personally or where he is a member of a trade union of workmen, be represented by an officer or employee of the trade union;\n(d) where the party is a trade union, or an employer, or a\nworkman, be represented with the permission of the President or the Chairman, by an advocate, or, notwithstanding anything to the contrary contained in any written law relating to the registration of trade unions, by any official of an organization (not being a trade union) of employers or of workmen, as the case may be, registered in Malaysia.\n(2) If any question arises before the Court as to whether the person representing a party under subsection (1) is—\n(a) an officer or employee of the trade union which he represents;\n(b) a duly authorized employee of the employer whom he represents; or\n(c) an official of an organization mentioned in paragraph (1)(d), the question shall be determined by the President or the Chairman, whose decision thereon shall be final."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 28"
+   },
+   "chapter": {
+    "en": "Part VII INDUSTRIAL COURT"
+   },
+   "heading": {
+    "en": "Power of President to regulate procedure and proceedings"
+   },
+   "text": {
+    "en": "Save as otherwise expressly herein provided and subject to any regulations that may be made in that behalf, the President may regulate the procedure and proceedings of the Court as he thinks fit and, with the approval of the Minister, make rules governing such procedure and proceedings."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 29"
+   },
+   "chapter": {
+    "en": "Part VII INDUSTRIAL COURT"
+   },
+   "heading": {
+    "en": "Power of the Court"
+   },
+   "text": {
+    "en": "The Court may, in any proceedings before it—\n(a) order that any party be joined, substituted or struck off;\n(b) summon before it the parties to any such proceedings and any other person who in its opinion is connected with the proceedings;\n(c) take evidence on oath or affirmation and compel the production before it of books, papers, documents and things;\n(d) hear and determine the matter before it notwithstanding the failure of any party to submit any written statement whether of case or reply to the Court within such time as may be prescribed by the President or in the absence of any party to the proceedings who has been served with a notice or summons to appear;\n(e) conduct its proceedings or any part thereof in private;\n(f) after consultation with the Minister, call in the aid of one or more experts;\n(fa) order a case to be struck off or reinstated; and\n(g) generally direct and do all such things as are necessary or expedient for the expeditious determination of the matter before it."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 30"
+   },
+   "chapter": {
+    "en": "Part VII INDUSTRIAL COURT"
+   },
+   "heading": {
+    "en": "Awards"
+   },
+   "text": {
+    "en": "(1) The Court shall have power in relation to a trade dispute referred to it or in relation to a reference to it under\nsubsection 20(3), to make an award (including an interim award) relating to all or any of the issues.\n(2) Where the Court is not unanimous on any question or matter to be determined, a decision shall be taken by a majority of members and, if there is no majority decision, by the President or Chairman.\n(3) The Court shall make its award without delay and where practicable within thirty days from the date of reference to it of the trade dispute or of a reference to it under subsection 20(3).\n(4) In making its award in respect of a trade dispute, the Court shall have regard to the public interest, the financial implications and the effect of the award on the economy of the country, and on the industry concerned, and also to the probable effect in related or similar industries.\n(5) The Court shall act according to equity, good conscience and the substantial merits of the case without regard to technicalities and legal form.\n(5a) In making its award, the Court may take into consideration any agreement or code relating to employment practices between organizations representative of employers and workmen respectively where such agreement or code has been approved by the Minister.\n(6) In making its award, the Court shall not be restricted to the specific relief claimed by the parties or to the demands made by the parties in the course of the trade dispute or in the matter of the reference to it under subsection 20(3) but may include in the award any matter or thing which it thinks necessary or expedient for the purpose of settling the trade dispute or the reference to it under subsection 20(3).\n(6a) Notwithstanding subsection (6), the Court in making an award in relation to a reference to it under subsection 20(3) shall take into consideration the factors specified in the Second Schedule.\n(7) An award may specify the period during which it shall continue in force, and may be retrospective to such date as is specified in the award:\nProvided that the retrospective date of the award may not, except in the case of a decision of the Court under section 33 or an order of the Court under paragraph 56(2)(c) or an award of the Court for the reinstatement of a workman on a reference to it in respect of the dismissal of a workman, be earlier than six months from the date on which the dispute was referred to the Court.\n(8) The award of the Court shall be signed by the President or the Chairman of any Division or in the event of the President or the Chairman for any reason being unable to sign the award by the remaining members.\n(9) The Court may rectify in any award any clerical error or mistake arising from any accidental slip or omission."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 31"
+   },
+   "chapter": {
+    "en": "Part VII INDUSTRIAL COURT"
+   },
+   "heading": {
+    "en": "Agreement during proceeding"
+   },
+   "text": {
+    "en": "In the event of an agreement being reached during the proceedings before the Court, the Court in making its award may, subject to this Act, have regard to the terms of the agreement; and in the event of an agreement being reached before the Court commences its proceedings, the Court may be constituted by the President or Chairman sitting alone for the purpose of recording the terms of such agreement."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 32"
+   },
+   "chapter": {
+    "en": "Part VII INDUSTRIAL COURT"
+   },
+   "heading": {
+    "en": "Effect of an award"
+   },
+   "text": {
+    "en": "(1) Any award made by the Court under this Act shall be binding on—\n(a) all parties to the dispute or the reference to the Court under subsection 20(3) appearing or represented before the Court and all parties joined or substituted or summoned to appear or be represented before the Court as parties to the dispute or the reference to the Court under subsection 20(3);\n(b) any successor, assignee or transferee of any employer or trade union of employers and any successor to any trade union of workmen which is a party to the dispute as aforesaid;\n(c) all workmen who were employed in the undertaking or part of the undertaking to which the dispute relates on the date of the dispute and all workmen who subsequently became employed in that undertaking or part thereof; and\n(d) all members of a trade union of employers to whom the dispute relates and to which dispute the trade union is a party and the successors, assignees or transferees of such members.\n(2) As from the date of the award or as from such date and for such period as may be specified therein, it shall be an implied term of the contract between the workmen and employers bound by the award that the rates of wages to be paid and the conditions of employment to be observed under the contract shall be in accordance with the award or decision unless varied by a subsequent award or agreement between the parties.\n(3) (Deleted by Act A484)."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 33"
+   },
+   "chapter": {
+    "en": "Part VII INDUSTRIAL COURT"
+   },
+   "heading": {
+    "en": "Interpretation and variation of awards and agreements"
+   },
+   "text": {
+    "en": "(1) If any question arises as to the interpretation of any award or collective agreement taken cognizance of by the Court, the Minister may refer the question, or any party bound by the award or agreement may apply, to the Court for a decision on the question.\n(2) The Court may, upon the application of any party, by order vary any of the terms of an award or agreement if it considers it desirable so to do for the purpose solely of removing ambiguity or uncertainty.\n(3) The parties bound by the award or agreement shall be afforded a reasonable opportunity of being heard.\n(4) The decision of the Court shall be binding in the same manner as the original award or agreement.\n(5) The expression “Court” for the purpose of this section, means the Court by which the award was made or any other Court specially constituted under section 22 or 23 for the purpose."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 33a"
+   },
+   "chapter": {
+    "en": "Part VII INDUSTRIAL COURT"
+   },
+   "heading": {
+    "en": "Reference to the High Court on a question of law"
+   },
+   "text": {
+    "en": "(1) Where the Court has made an award under subsection 30(1) it may, in its discretion, on the application of any party to the proceedings in which the award was made, refer to the High Court a question of law—\n(a) which arose in the course of the proceedings;\n(b) the determination of which by the Court has affected the award;\n(c) which, in the opinion of the Court, is of sufficient importance to merit such reference; and\n(d) the determination of which by the Court raises, in the opinion of the Court, sufficient doubt to merit such reference.\n(2) Where an application under subsection (1) has been granted by the Court, compliance with the award in respect of which the application has been granted shall be stayed pending the disposal of the reference by the High Court, unless the Court otherwise directs in respect of the whole or a part of the award.\n(3) An application under this section shall be made within thirty days of the date on which the award was made.\n(4) Where a question has been referred to the High Court under this section, the Court shall forward the record of its proceedings to the Registrar of the High Court who shall thereupon appoint and notify to the parties to the proceedings the time and place for its hearing.\n(5) The High Court shall hear and determine the question referred to it under this section as if the reference were an appeal to the High Court against the award of the Court, and may, consequently, confirm, vary, substitute or quash the award, or make such other order as it considers just or necessary.\n(6) A decision of the High Court under subsection (5) shall have the same force and effect as an award of the Court has under section 32, and may be enforced as if it were an award of the Court.\n(7) A decision of the High Court under subsection (5) shall be final and conclusive, and no such decision shall be challenged, appealed against, reviewed, quashed or called in question in any other court or before any other authority, judicial or otherwise, whatsoever."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 33b"
+   },
+   "chapter": {
+    "en": "Part VII INDUSTRIAL COURT"
+   },
+   "heading": {
+    "en": "Award, decision or order of the Court to be final and conclusive"
+   },
+   "text": {
+    "en": "(1) Subject to this Act and section 33a, an award, decision or order of the Court under this Act (including the decision of the Court whether to grant or not to grant an application under subsection 33a(1)) shall be final and conclusive, and shall not be challenged, appealed against, reviewed, quashed or called in question in any court.\n(2) Subject to section 33a, no award of the Court for the reinstatement or reemployment of a workman shall be subject to any stay of proceedings by any court."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 34"
+   },
+   "chapter": {
+    "en": "Part VIII INVESTIGATION AND INQUIRY"
+   },
+   "heading": {
+    "en": "Investigation and inquiry into trade disputes"
+   },
+   "text": {
+    "en": "Where any trade dispute exists or is apprehended, the Minister may, without prejudice to Parts V and VII, appoint a Committee of Investigation or a Board of Inquiry and may refer to the Committee or Board any matter appearing to him to be connected with or relevant to the dispute."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 35"
+   },
+   "chapter": {
+    "en": "Part VIII INVESTIGATION AND INQUIRY"
+   },
+   "heading": {
+    "en": "Committee"
+   },
+   "text": {
+    "en": "(1) A Committee may consist of one or more persons appointed by the Minister.\n(2) A Committee shall as soon as possible after its appointment, investigate the causes and circumstances of any trade dispute or matter referred to it and report thereon to the Minister."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 36"
+   },
+   "chapter": {
+    "en": "Part VIII INVESTIGATION AND INQUIRY"
+   },
+   "heading": {
+    "en": "Board"
+   },
+   "text": {
+    "en": "(1) A Board may consist of a chairman and such other persons as the Minister thinks fit or may consist of one person.\n(2) A Board may act notwithstanding any vacancy in its number.\n(3) The Minister may make rules regulating the procedure of any Board, including rules as to the summoning and payment of expenses of witnesses, quorum and calling for documents.\n(4) A person may be represented in proceedings before a Board, with the permission of the chairman, by any officer or employee of a trade union of employers or workmen, or, notwithstanding anything to the contrary contained in any written law relating to the registration of trade unions, by any official of an organization (not being a trade union) of employers or of workmen registered in Malaysia, or by an advocate.\n(5) A Board may, subject to the rules made under this section, require any person to furnish, in writing or otherwise, such particulars as the Board may require and to attend before the Board and give evidence on oath or affirmation."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 37"
+   },
+   "chapter": {
+    "en": "Part VIII INVESTIGATION AND INQUIRY"
+   },
+   "heading": {
+    "en": "Reports"
+   },
+   "text": {
+    "en": "(1) A Board shall, either in public or in private at its discretion, inquire into any matter referred to it and report thereon to the Minister.\n(2) A Board may, if it thinks fit, make interim reports.\n(3) Any report of a Board shall be laid as soon as may be before the Dewan Rakyat.\n(4) The Minister may, whether before or after any such report has been laid before the Dewan Rakyat, publish or cause to be published from time to time, in such manner as he thinks fit, any information obtained or conclusions arrived at by the Board as a result or in the course of its inquiry:\nProvided that there shall not be included in any report or publication made or authorized by the Board or the Minister any\ninformation obtained by the Board in the course of its inquiry as to any trade union, business or organization which is not available otherwise than through evidence given at the inquiry, except with the consent of the trade union, business or organization in question, nor shall any individual member of the Board or any person concerned in the inquiry, disclose any such information without such consent.\n(5) Any member of a Board or other person concerned in any inquiry who discloses any information in contravention of subsection (4) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one thousand ringgit."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 38"
+   },
+   "chapter": {
+    "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM"
+   },
+   "heading": {
+    "en": "Pupils not to take part in trade disputes"
+   },
+   "text": {
+    "en": "(1) No pupil as defined in the Education Act 1996 [Act 550], other than a lawful member of a trade union, shall—\n(a) do any act in contemplation or furtherance of a trade dispute;\n(b) instigate or incite any other person to take part in or continue or to support by money or otherwise or to do any other act in contemplation or furtherance of any strike or lock-out; or\n(c) take part in or be a member of any meeting or assembly of more than five persons called for the purpose of instigating or inciting any person to take part in or continue or to support by money or otherwise or to do any other act in contemplation or furtherance of any strike or lockout.\n(2) The Minister of Education may, by notice in writing, require the governors or managers of any school to expel any pupil convicted or found guilty of an offence against this section and thereupon the governors or managers shall expel the pupil or cause him to be expelled accordingly.\n(3) A pupil who has been expelled from a school by the governors or managers thereof in pursuance of a notice given under this section shall not thereafter—\n(a) enter the premises of the school; or\n(b) become a pupil of any other school without the permission of the Minister of Education."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 39"
+   },
+   "chapter": {
+    "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM"
+   },
+   "heading": {
+    "en": "Intimidation"
+   },
+   "text": {
+    "en": "Any person who in furtherance of a trade dispute and with a view to compelling any other person to abstain from doing or to do any act which such other person has a legal right to do or abstain from doing, wrongfully and without legal authority—\n(a) uses violence to or intimidates such other person or any member of his household, or injures his property;\n(b) persistently follows such other person about from place to place;\n(c) hides any tool, clothes, or other property owned or used by such other person, or deprives him of or hinders him in the use thereof;\n(d) watches or besets the house or other place where such\nother person resides, or works, or carries on business, or happens to be, or the approach to such house or place; or\n(e) follows such other person with two or more persons in\na disorderly manner in or through any street or road, shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding one year or to a fine not exceeding one thousand ringgit or to both."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 40"
+   },
+   "chapter": {
+    "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM"
+   },
+   "heading": {
+    "en": "Picketing"
+   },
+   "text": {
+    "en": "(1) Without prejudice to section 39, it shall be unlawful for one or more persons acting on his or their behalf or on behalf of a trade union or of an employer in furtherance of a trade dispute to attend at or near any place:\nProvided that it shall not be unlawful for one or more workmen\nto attend at or near the place where the workman works and where a trade dispute involving such workman exists only for the purpose of peacefully—\n(i) obtaining or communicating information; or\n(ii) persuading or inducing any workman to work or abstain from working, and subject to such attendance being not in such numbers or otherwise in such manner as to be calculated—\n(a) to intimidate any person;\n(b) to obstruct the approach thereto or egress therefrom; or\n(c) to lead to a breach of the peace.\n(2) Any officer or employee of the trade union to which the workmen referred to in the proviso to subsection (1) belong, may be present with such workmen solely for the purpose of maintaining good order and discipline and ensuring that such workmen comply with the requirements of the said proviso.\n(2a) No workman shall go on picket—\n(a) during the pendency of the proceedings of a Board of Inquiry appointed by the Minister under Part VIII involving such workman and employer and within seven days after the conclusion of such proceedings;\n(b) after a trade dispute or matter involving such workman and such employer has been referred to the Court and the parties concerned have been notified of such reference; and\n(c) after the Yang di-Pertuan Agong or State Authority, in the case of a trade dispute relating to any Government sevice or the service of any statutory authority, has withheld consent to the reference of the dispute to the Court under subsection 26(2), and the parties concerned have been notified thereof.\n(3) Any person who acts in contravention of subsection (1) or (2a) shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding one year or to a fine not exceeding one thousand ringgit or to both."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 41"
+   },
+   "chapter": {
+    "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM"
+   },
+   "heading": {
+    "en": "Breach of contract liable to injure person or property"
+   },
+   "text": {
+    "en": "Any person who wilfully and maliciously breaks a contract of service or of hiring knowing or having reason to believe that the probable consequences of his so doing, either alone or in combination with others, will be to endanger human life or the efficient operation of any public health service, or cause serious bodily injury, or to expose valuable property whether real or personal to destruction or serious damage, shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding one year or to a fine not exceeding one thousand ringgit or to both."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 42"
+   },
+   "chapter": {
+    "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM"
+   },
+   "heading": {
+    "en": "Conspiracy in trade disputes"
+   },
+   "text": {
+    "en": "(1) An agreement or combination by two or more persons to do or procure to be done any act in contemplation or furtherance of a trade dispute between employers and workmen shall not be punishable as a conspiracy if the act committed by one person would not be punishable as a crime.\n(2) An act done in pursuance of an agreement or combination by two or more persons, if done in contemplation or furtherance of a trade dispute, shall not be actionable unless the act, if done without any such agreement or combination, would be actionable.\n(3) Nothing in this section shall exempt from punishment any person guilty of a conspiracy for which a punishment is awarded by any written law.\n(4) Nothing in this section shall affect the law relating to riot, unlawful assembly, breach of the peace, or sedition or any offence against the Yang di-Pertuan Agong or any State Authority.\n(5) A crime for the purposes of this section means an offence for the commission of which the offender is liable, under the law making the offence punishable, to be imprisoned either absolutely or at the discretion of a court as an alternative to some other punishment."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 43"
+   },
+   "chapter": {
+    "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM"
+   },
+   "heading": {
+    "en": "Restrictions on strikes and lock-outs in essential services"
+   },
+   "text": {
+    "en": "(1) No workman in any essential service shall go on strike—\n(a) without giving to the employer notice of strike, within forty-two days before striking;\n(b) within twenty-one days of giving such notice; or\n(c) before the expiry of the date of strike specified in any such notice aforesaid.\n(2) No employer carrying on any essential service shall lock-out any of his workmen—\n(a) without giving him notice of lock-out, within forty-two days before locking out;\n(b) within twenty-one days of giving such notice; or\n(c) before the expiry of the date of lock-out specified in any such notice as aforesaid.\n(3) The notice referred to in subsections (1) and (2) shall be given in such manner as may be prescribed.\n(4) Any employer who receives from any person employed by him any notice referred to in subsection (1) or gives to any person employed by him any notice referred to in subsection (2), shall forthwith report to the Director General the particulars of the notice received or given."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 44"
+   },
+   "chapter": {
+    "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM"
+   },
+   "heading": {
+    "en": "Prohibition of strikes and lock-outs"
+   },
+   "text": {
+    "en": "No workman shall go on strike and no employer of any such workman shall declare a lock-out—\n(a) during the pendency of the proceedings of a Board of Inquiry appointed by the Minister under Part VIII involving such workman and employer and seven days after the conclusion of such proceedings;\n(b) after a trade dispute or matter involving such workman and such employer has been referred to the Court and the parties concerned have been notified of such reference;\n(c) after the Yang di-Pertuan Agong or State Authority, in the case of a trade dispute relating to any Government service or the service of any statutory authority, has withheld consent to the reference of the dispute to the Court under subsection 26(2), and the parties concerned have been notified thereof;\n(d) in respect of any of the matters covered by a collective agreement taken cognizance of by the Court in accordance with section 16 or by an award; or\n(e) in respect of any of the matters covered under subsection 13(3)."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 45"
+   },
+   "chapter": {
+    "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM"
+   },
+   "heading": {
+    "en": "Illegal strikes and lock-outs"
+   },
+   "text": {
+    "en": "(1) A strike or a lock-out shall be deemed to be illegal if—\n(a) it is declared or commenced or continued in contravention of section 43 or 44 or of any provision of any other written law; or\n(b) it has any other object than the furtherance of a trade dispute—\n(i) between the workmen on strike and their employer; or\n(ii) between the employer who declared the lock-out and his workmen.\n(2) A lock-out declared in consequence of an illegal strike or strike declared in consequence of an illegal lock-out shall not be deemed to be illegal."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 46"
+   },
+   "chapter": {
+    "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM"
+   },
+   "heading": {
+    "en": "Penalty for illegal strikes and lock-outs"
+   },
+   "text": {
+    "en": "(1) Any workman who commences, continues or otherwise acts in furtherance of a strike which is illegal under this Act shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding one year or to a fine not exceeding one thousand ringgit or to both and a further fine of fifty ringgit for every day during which such offence may continue.\n(2) Any employer who commences, continues or otherwise acts in furtherance of a lock-out which is illegal under this Act shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding one year or to a fine not exceeding one thousand ringgit or to both and a further fine of fifty ringgit for every day during which such offence may continue."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 47"
+   },
+   "chapter": {
+    "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM"
+   },
+   "heading": {
+    "en": "Penalty for instigation"
+   },
+   "text": {
+    "en": "Any person who instigates or incites others to take part in, or otherwise acts in furtherance of, a strike or lock-out which is illegal under this Act, or who instigates or incites others to withhold their labour or services knowing or having reason to believe that the probable consequences of such action will be to endanger human life or the efficient operation of any public health service or cause serious bodily injury or expose valuable property whether real or personal to destruction or serious damage, shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding one year or to a fine not exceeding one thousand ringgit or to both."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 48"
+   },
+   "chapter": {
+    "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM"
+   },
+   "heading": {
+    "en": "Penalty for giving financial aid to illegal strikes and lock-outs"
+   },
+   "text": {
+    "en": "Any person who knowingly expends or applies any money in direct furtherance or support of any illegal strike or lock-out shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding six months or to a fine not exceeding five hundred ringgit or to both."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 49"
+   },
+   "chapter": {
+    "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM"
+   },
+   "heading": {
+    "en": "Protection of persons refusing to take part in illegal strikes or lock-outs"
+   },
+   "text": {
+    "en": "No person refusing to take part or to continue to take part in any strike or lock-out which is by this Act declared to be illegal shall be, by reason of such refusal or by reason of any action taken by him under this section, subject to expulsion from any trade union, or to any fine or penalty, or to the deprivation of any right or benefit to which he or his legal personal representatives would otherwise be entitled, or be liable to be placed in any respect either directly or indirectly under any disability or at any disadvantage as compared with other members of the union, anything to the contrary in the rules of a trade union notwithstanding."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 50"
+   },
+   "chapter": {
+    "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM"
+   },
+   "heading": {
+    "en": "Offences seizable, and no bail to be granted"
+   },
+   "text": {
+    "en": "(1) Every offence under this Part shall be a seizable offence for the purposes of any written law relating to criminal procedure.\n(2) Notwithstanding any other written law, bail shall not be granted to an accused person arrested for or charged with an offence under this Part and in respect of whom the Public Prosecutor certifies in writing that it is not in the public interest to grant bail to such accused person."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 51"
+   },
+   "chapter": {
+    "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM"
+   },
+   "heading": {
+    "en": "(Deleted) Part iXa investigation and prosecution"
+   },
+   "text": {
+    "en": "(Deleted by Act A1322). Part iXa investigation and prosecution"
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 51a"
+   },
+   "chapter": {
+    "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM"
+   },
+   "heading": {
+    "en": "Investigation officers"
+   },
+   "text": {
+    "en": "the Director General may appoint such number of investigation officers, from amongst the officers appointed under section 2a, as may be necessary for the purposes of this Act."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 51b"
+   },
+   "chapter": {
+    "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM"
+   },
+   "heading": {
+    "en": "Authority card"
+   },
+   "text": {
+    "en": "(1) There shall be issued to each investigation officer an authority card which shall be signed by the Director General.\n(2) Whenever an investigation officer exercises any of the powers under this Act, he shall on demand produce to the person against whom the power is being exercised the authority card issued to him under subsection (1)."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 51c"
+   },
+   "chapter": {
+    "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM"
+   },
+   "heading": {
+    "en": "Power to conduct investigation"
+   },
+   "text": {
+    "en": "(1) Where an investigation officer has reason to suspect that a person has committed an offence against this Act, he may make such investigation as he thinks expedient for the due administration of this Act.\n(2) Whenever it appears to any Magistrate upon written information and after such enquiry as he thinks necessary, that there is reasonable cause to believe that in any place or building\nthere is any object, article, material, thing, book or other document, which may be used as evidence of the commission of an offence against this Act, he may by warrant empower the investigation officer to enter the place or building, by force if necessary, and thereto search for, seize, take possession of and detain any such object, article, material, thing, book or other document."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 51d"
+   },
+   "chapter": {
+    "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM"
+   },
+   "heading": {
+    "en": "Power to examine persons"
+   },
+   "text": {
+    "en": "(1) An investigation officer may for the purpose of enforcing this Act, do all or any of the following:\n(a) order any person orally or in writing to attend before him for the purpose of being examined orally by the investigation officer in relation to any matter which may, in the opinion of the investigation officer, assist in the investigation into the offence;\n(b) order any person orally or in writing to produce before the investigation officer books, other documents, property, articles, or things which may, in the opinion of the investigation officer, assist in the investigation into the offence; or\n(c) by written notice require any person to furnish a statement in writing made on oath or affirmation setting out all such information which may be required under the notice, being information which, in the opinion of the investigation officer, would be of assistance in the investigation into the offence.\n(2) A person to whom an order under paragraph (1)(a) or (b), or a written notice under paragraph 1(c), has been given shall comply with the terms of such order or written notice, as the case may be, and, in particular—\n(a) a person to whom an order under paragraph 1(a) has been given shall attend in accordance with the terms of the order to be examined, and shall continue to so attend from day to day as directed by the investigation officer until the examination is completed, and shall during such examination disclose all information which is within his knowledge, or which is available to him, or which capable of being obtained by him, in respect of the matter in relation to which he is being examined, whether or\nnot any question is put to him with regard thereto, and where any question is put to him he shall answer the same truthfully and to the best of his knowledge and belief, and shall not refuse to answer any question on the ground that it tends to incriminate him or his spouse;\n(b) a person to whom an order has been given under paragraph (1)(b) shall not conceal, hide, destroy, alter, remove from or send out of Malaysia, or deal with expend, or dispose of, any book, other document, property, article, or thing specified in the order, or alter or deface any entry in any such book or other document, or cause the same to be done, or assist or conspire to the same; and\n(c) a person to whom a written notice has been given under paragraph (1)(c) shall, in his statement made on oath or affirmation, furnish and disclose truthfully all information required under the notice which is within his knowledge, or which is available to him, or which is capable of being obtained by him, and shall not fail to furnish or disclose the same on the ground that it tends to incriminate him or his spouse.\n(3) A person to whom an order or a written notice is given under subsection (1) shall comply with such order or notice and with the provisions of subsection (2) in relation thereto, nothwithstanding the provisions of any written law, whether enacted before or after the commencement of this Act, or of any oath, undertaking or requirement of secrecy, to the contrary, or of any obligation under any contract, agreement or arrangement, whether express or implied, to the contrary.\n(4) Where any person discloses any information or produces any book, other document, property, article, or thing, pursuant to subsections (1) and (2), neither the first-mentioned person, nor any other person on whose behalf or direction or as whose agent or employee, the first-mentioned person may be acting, shall, on account of such disclosure or production, be liable to any prosecution for any offence under or by virtue of any law, or to any proceeding or claim in any form or of any description by any person under or by virtue of any agreement or arrangment, or otherwise howsoever.\n(5) An investigation officer may seize, take possession of and retain for such duration as he deems necessary, any book,\nother document, property, article or thing produced before him in the course of an investigation under subsection (1), or search the person who is being examined by him under paragraph (1)(a), or who is producing anything to him under paragraph (1)(b), for ascertaining whether anything relevant to the investigation is concealed, or is otherwise, upon such person.\n(6) An examination under paragraph (1)(a) shall be reduced into writing by the investigation officer and shall be read to and signed by the person being examined, and where such person refuses to sign the record, the investigation officer shall endorse thereon under his hand the fact of such refusal and the reasons thereof, if any, stated by the person examined.\n(7) The record of an examination under paragraph (1)(a), or a written statement on oath or affirmation made pursuant to paragraph (1)(c), or any book, other document, property, article or thing produced under paragraph (1)(b) or otherwise in the course of an examination under paragraph (1)(a) or under a written statement on oath or affirmation made pursuant to paragraph (1)(c), shall, notwithstanding any written law or rule of law to the contrary, be admissible in evidence in any proceedings in any court—\n(a) for, or in relation to, an offence under this Act;\n(b) for, or in relation to, any other matter under this Act; or\n(c) for, or in relation to, any offence under any other written law, regardless whether such proceedings are against the person who was examined, or who produced the book, other document, property, article or thing, or who made the written statement on oath or affirmation, or against any other person.\n(8) A person who—\n(a) makes, orally or in writing, or signs any declaration, return, certificate or other document required by this Act which is untrue or incorrect in any particular; or\n(b) fails or refuses to furnish or produce any declaration, return, certificate or other document required by this Act to be furnished or produced, shall be guilty of an offence."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 51e"
+   },
+   "chapter": {
+    "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM"
+   },
+   "heading": {
+    "en": "Prosecution"
+   },
+   "text": {
+    "en": "No prosecution shall be instituted for an offence under this Act or any regulations made under this Act except by or with the consent in writing of the Public Prosecutor."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 51f"
+   },
+   "chapter": {
+    "en": "Part IX TRADE DISPUTES, STRIKES AND LOCK-OUTS AND MATTERS ARISING THEREFROM"
+   },
+   "heading": {
+    "en": "Offence by bodies corporate, etc."
+   },
+   "text": {
+    "en": "where an offence under this Act has been committed by a body, whether corporate or unincorporated—\n(a) in the case of a body corporate, any person who was a director, manager, secretary or any other officer responsible for the management of the body corporate at the time of the commission of the offence;\n(b) in the case of a partnership or sole proprietor, every partner in the partnership or the sole proprietor at the time of the commission of the offence;\n(c) in the case of trade union, the President, Secretary, Treasurer or other officer of the trade union at the time of the commission of the offence; or\n(d) in the case of a society or any other unincorporated body, the President, Chairman, Secretary, Treasurer or other similar officer of the society or unincorporated body at the time of the commission of the offence, may be charged severally or jointly in the same proceedings as the body corporate, partnership, sole proprietor, trade union, society or unincorporated body and shall be deemed to have committed the offence unless he proves that the offence was committed without his knowledge or connivance or that he took all reasonable precautions or that he had exercised due diligence to prevent the commission of the offence."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Section 52"
+   },
+   "chapter": {
+    "en": "Part X MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "(1) Parts II, III, IV, V and VI shall not apply to any Government service or to any service of any statutory authority\nor to any workman employed by Government or by any statutory authority.\n(2) The provisions of this Act relating to trade dispute other than subsection 26(2) and subsection 30(4) shall apply to any matter referred to or brought to the notice of the Court under this Act."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Section 53"
+   },
+   "chapter": {
+    "en": "Part X MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Appointment of public officer"
+   },
+   "text": {
+    "en": "The Minister may appoint any public officer as he thinks fit to exercise any power vested in him or to perform any duty imposed on him under this Act."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Section 54"
+   },
+   "chapter": {
+    "en": "Part X MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Exclusion of evidence as to certain matters"
+   },
+   "text": {
+    "en": "(1) Where a trade dispute relates to matters as to which negotiation or conciliation proceedings have taken place under this Act, no evidence shall be given in the proceedings before the Court as to such negotiation or conciliation proceedings other than a written statement in relation thereto agreed to and signed by the parties to the dispute.\n(2) In a proceeding before the Court on a reference to the Court under subsection 20(3), no evidence shall be given of any proceeding before the Director General under subsection 20(2) other than a written statement in relation thereto agreed to and signed by the parties to the reference.\n(3) No evidence shall be given in proceedings before the Court with regard to any offer relating to any matter connected with the trade dispute made without prejudice by any person or trade union except with the consent of that person or trade union.\n(4) The exclusion specified in subsections (1), (2) and (3) shall also be applicable in any proceedings before any other court."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Section 55"
+   },
+   "chapter": {
+    "en": "Part X MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Secrecy"
+   },
+   "text": {
+    "en": "(1) The Court may in any proceedings direct—\n(a) that any information, book, paper, document or thing\ntendered in evidence shall not be disclosed or published in any newspaper or otherwise; and\n(b) that any such evidence shall be taken in private and that no person who is not expressly permitted by the Court to be present shall be present during the taking of that evidence.\n(2) Any person who discloses or publishes any information, book, paper, document or thing in contravention of this section shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding one year or to a fine not exceeding one thousand ringgit or to both."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Section 56"
+   },
+   "chapter": {
+    "en": "Part X MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Non-compliance with award or collective agreement"
+   },
+   "text": {
+    "en": "(1) Any complaint that any term of any award or of any collective agreement which has been taken cognizance of by the Court has not been complied with may be lodged with the Court in writing by any trade union or person bound by such award or agreement.\n(2) The Court may, upon receipt of the complaint,—\n(a) make an order directing any party—\n(i) to comply with any term of the award or collective agreement; or\n(ii) to cease or desist from doing any act in contravention of any term of the award or collective agreement;\n(b) make such order as it deems fit to make proper rectification or restitution for any contravention of any term of such award or collective agreement; or\n(c) make such order as it considers desirable to vary or set aside upon special circumstances any term of the award or collective agreement.\n(2a) Nowithstanding the provisions of subsection 33(1), the Court shall, upon making the order under subsection (2), have the power to interpret any matter relating to the complaint made.\n(3) Any person who fails to comply with an order of the Court under subsection (2) shall be guilty of an offence and shall, on\nconviction, be liable to a fine not exceeding two thousand ringgit or to imprisonment for a term not exceeding one year or to both and a further fine of five hundred ringgit for every day during which such offence continues.\n(4) Where any sum of money is payable by any person, or, where anything, other than the payment of money is required to be done or not to be done by any person by virtue of an order made by the Court under subsection (2), and such order has not been complied with by the person to whom it is addressed, the Registrar of the Court may, at the request of either party, send a certified copy thereof to the Senior Assistant Registrar of the High Court or the Registrar of the Sessions Court having jurisdiction in the place to which the order relates or in the place where the order was made and the said Senior Assistant Registrar or Registrar, as the case may be, shall cause the said copy to be recorded and thereupon the said order shall for all purposes be enforceable as a judgment of the High Court or the Sessions Court, as the case may be, in accordance with such rules of court as may be applicable or in such manner as it may deem just or expedient:\nProvided that no sale of immovable property shall, for the purposes of such enforcement, be ordered except by the High Court."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "Section 57"
+   },
+   "chapter": {
+    "en": "Part X MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "(Deleted)"
+   },
+   "text": {
+    "en": "(Deleted by Act A484)."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "Section 58"
+   },
+   "chapter": {
+    "en": "Part X MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Contempt"
+   },
+   "text": {
+    "en": "(1) Where any such offence as is described in section 174, 175, 176, 177, 178, 179, 181 or 228 of the Penal Code is committed in the view or presence of the Court, or where any person misbehaves himself in Court, the Court may cause the offender to be detained in custody or direct any police officer or public officer to remove such offender from the Court.\n(2) At any time before rising on the same day, the Court may take cognizance of any such offence or misbehaviour, and punish the offender with a fine not exceeding one hundred ringgit, or, in default of payment of such fine, with imprisonment for a term not exceeding one month, unless such fine is sooner paid.\n(3) In every such case the Court shall record the facts constituting the offence, the statement, if any, made by the offender, and the finding and sentence.\n(4) The Court dealing with an offender under this section may discharge the offender or remit the punishment on his submission to the order of the Court or on his making an apology to the satisfaction of the Court.\n(5) No appeal shall lie from the decision of the Court under this section.\n(6) In this section the expression “Court” includes any Board appointed under Part VIII."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "Section 59"
+   },
+   "chapter": {
+    "en": "Part X MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Injuring a workman on account of certain acts"
+   },
+   "text": {
+    "en": "(1) Subject to subsection 5(2), it shall be an offence to dismiss a workman or injure or threaten to injure him in his employment or alter or threaten to alter his position to his prejudice, by reason of the circumstances that the workman—\n(a) is, or proposes to become, an officer or member of a trade union or of an association that has applied to be registered as a trade union;\n(b) is entitled to the benefit of a collective agreement or an award;\n(c) has appeared or proposes to appear as a witness, or has given or proposes to give any evidence in any proceeding under this Act;\n(d) being a member of a trade union which is seeking to improve working conditions, is dissatisfied with such working conditions;\n(e) is a member of a trade union which has served an invitation under section 13 or which is a party to negotiations under this Act or to a trade dispute which has been reported to the Director General in accordance with Part V or Part VII;\n(f) has absented himself from work without leave for the purpose of carrying out his duties or exercising his rights as an officer of a trade union where he applied for leave\nin accordance with section 6 before he absented himself and leave was unreasonably deferred or withheld; or\n(g) being a member of a panel appointed under section 21 has absented himself from work for the purpose of performing his functions and duties as a member of the Court and has notified the employer before he absented himself.\n(2) An employer who contravenes any of the provisions of subsection (1) shall be guilty of an offence and shall be liable, on conviction, to imprisonment for a term not exceeding one year or to a fine not exceeding two thousand ringgit or to both.\n(3) Where an employer has been convicted of an offence punishable under subsection (2) the court by which the employer is convicted may order the employer to pay the workman the amount of any wages lost by him and also, where appropriate, direct the employer to reinstate the workman in his former position or a similar position.\n(4) Where an amount ordered to be paid under subsection (3) is not paid in accordance with the order, the amount or so much thereof as remains unpaid shall be recoverable as if it were a fine, notwithstanding that the said amount may be in excess of the ordinary jurisdiction of the court, and the amount so recovered shall be paid to the workman entitled under the order.\n(5) Any employer who fails to comply with a direction given under subsection (3) shall be guilty of an offence and shall be liable, on conviction, to imprisonment for a term not exceeding two years or to a fine not exceeding five thousand ringgit or to both."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "Section 60"
+   },
+   "chapter": {
+    "en": "Part X MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "General penalties"
+   },
+   "text": {
+    "en": "(1) Any person who contravenes—\n(a) any provision of this Act;\n(b) any summons, order or direction given or made under this Act, shall be guilty of an offence and shall, on conviction, where no express penalty is provided, be liable to imprisonment for a term\nnot exceeding two years or to a fine not exceeding five thousand ringgit or to both:\nProvided that no contravention of any provision of Parts II, III (other than sections 9 and 10) or IV (other than subsection 13(8) and subsection 16(1)) shall be deemed to be an offence punishable under this section.\n(2) Any person who attempts to commit any offence punishable under this Act, or abets the commission of such offence, shall be punished with the punishment provided for that offence. Protection of Director General and other officers"
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "Section 60a"
+   },
+   "chapter": {
+    "en": "Part X MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Protection of Director for General and other officers"
+   },
+   "text": {
+    "en": "No action or prosecution shall be brought, instituted or maintained in any court against—\n(a) the Director General or any other officer duly appointed or authorized under this Act for or on account of or in respect of any act ordered or done in good faith for the purpose of carrying into effect this Act and any regulations made under this Act; and\n(b) any other person for or on account of or in respect of any act done or purported to be done by him under the order, direction or instruction of the Director General or any other officer duly appointed under this Act if the act was done in good faith and in a reasonable belief that it was necessary for the purpose intended to be served thereby."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "Section 61"
+   },
+   "chapter": {
+    "en": "Part X MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Schedule"
+   },
+   "text": {
+    "en": "The Minister may from time to time add to, vary or alter the First Schedule or Second Schedule by notification in the Gazette."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "Section 62"
+   },
+   "chapter": {
+    "en": "Part X MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "The Minister may make regulations for the purpose of carrying out or giving effect to this Act and in particular without prejudice to the generality of the foregoing, the regulations may—\n(a) prescribe fees to be charged in respect of all proceedings under this Act;\n(b) authorize the making of orders with respect to the costs and expenses including the expenses of witnesses of proceedings before the Court or Board;\n(c) prescribe allowances payable to members of the Court, a Committee or a Board;\n(d) provide for the exhibiting of any of the terms of an order or award on the premises of an employer bound by the order or award;\n(e) provide for the manner in which and the person by and\nto whom notice of strike or lock-out may be given, and the manner in which such notices shall be communicated;\n(f) regulate the procedure and proceedings of the Court;\n(fa) provide for the procedures relating to a claim for recognition by a trade union of workmen; and\n(g) provide for anything which may be prescribed under\nthis Act."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "Section 63"
+   },
+   "chapter": {
+    "en": "Part X MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Repeal and savings"
+   },
+   "text": {
+    "en": "The following written laws are hereby repealed. No. Short Title F. of M. 37 of 1948 Industrial Courts Ordinance 1948. G.N. 2569/1941 Industrial Courts and Court of Inquiry Rules 1941. F. of M. 4 of 1949 Trade Disputes Ordinance 1949. L.N. 421/1951 Trade Disputes (Notice) Regulations 1951. L.N. 355/1965 Essential (Trade Disputes in the Essential Services) Regulations 1965. P.U. 94/1967 Modification of Laws (Trade Disputes) (Extension to Borneo States) Order 1967. P.U. 95/1967 Modification of Laws (Industrial Courts) (Modification and Extension to Borneo States) Order 1967.\nProvided—\n(a) all proceedings, acts and awards commenced, done or made under the written laws hereby repealed shall have effect for all purposes as if these proceedings, acts or awards were commenced, done or made under this Act and as if this Act had then been in force;\n(b) the Court or Tribunal before which the proceedings were commenced shall continue in existence and the terms of appointment of all members thereof, including the President and the Chairman, shall be deemed to have been extended until the final disposal of the subject matter of the proceedings and that any vacancies in the Court or Tribunal shall be filled in accordance with this Act as if the Court or Tribunal had been appointed under this Act;\n(c) all agreements deposited under any written law repealed shall be deemed to be collective agreements deposited with and taken cognizance of by the Court under this Act."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "first Schedule"
+   },
+   "chapter": {
+    "en": "SCHEDULES"
+   },
+   "text": {
+    "en": "ESSENTIAL SERVICES [Section 2] 1. Banking services. 2. Electricity services. 3. Fire services. 4. Port, dock, harbour and airport services and undertakings, including stevedoring, lighterage, cargo handling, pilotage and storing or bulking of commodities. 5. Postal services. 6. Prison services. 7. Production, refining, storage, supply and distribution of fuel and lubricants. 8. Public health services. 8a. Public waste management services.\n9. Radio communication services, including broadcasting and television services. 10. Telegraph, telephone and telecommunication services. 11. Transport services by land, water or air. 12. Water services. 13. Any service provided by any of the following Departments of Government:\n(i) Chemistry.\n(ii) Civil Aviation.\n(iii) Customs and Excise.\n(iv) Immigration.\n(v) Marine.\n(vi) Meteorology.\n(vii) Printing. 14. Services which are connected with, or related to, or which assist towards, the maintenance and functioning of the armed forces and the Royal Malaysian Police Force. 15. Businesses and industries which are connected with the defence and\nsecurity of Malaysia. 16. Any section of any service, on the working of which the safety of the employees therein or of the establishment relating thereto depends. 17. Industries declared by the Minister by notification in the Gazette as industries essential to the economy of Malaysia."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  {
+   "id": "MY-IR-1967-A81",
+   "no": 81,
+   "noLabel": {
+    "en": "second Schedule"
+   },
+   "chapter": {
+    "en": "SCHEDULES"
+   },
+   "text": {
+    "en": "factors for consideration in making an award in relation to a reference under subsection 20(3) [subsection 30(6a)] 1. In the event that backwages are to be given, such backwages shall not exceed twenty-four months’ backwages from the date of dismissal based on the last-drawn salary of the person who has been dismissed without just cause or excuse; 2. In the case of a probationer who has been dismissed without just cause or excuse, any backwages given shall not exceed twelve months’ backwages from the date of dismissal based on his last-drawn salary;\n3. Where there is post-dismissal earnings, a percentage of such earnings, to be decided by the Court, shall be deducted from the backwages given; 4. Any relief given shall not include any compensation for loss of future earnings; and 5. Any relief given shall take into account contributory misconduct of the workman."
+   },
+   "sourceUrl": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  }
+ ],
+ "fulltextMeta": {
+  "country": "MY",
+  "level": "law",
+  "status": "active",
+  "topics": [
+   "labor",
+   "dispute"
+  ],
+  "title": {
+   "zh": "马来西亚《1967年工业关系法》",
+   "en": "Industrial Relations Act 1967"
+  },
+  "docNumber": "Act 177",
+  "issuingBody": {
+   "zh": "马来西亚国会",
+   "en": "Parliament of Malaysia"
+  },
+  "promulgatedDate": "1967",
+  "promulgatedDatePrecision": "year",
+  "effectiveDate": "1967-08-07",
+  "coverage": "full",
+  "source": {
+   "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia (LOM, lom.agc.gov.my)",
+   "url": "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20177.pdf"
+  },
+  "summary": {
+   "zh": "规定雇主与职工会之间的关系、职工会的承认、集体谈判与劳动争议的处理，并设立工业法庭。",
+   "en": "Governs relations between employers and trade unions, recognition of trade unions, collective bargaining and the settlement of trade disputes, and establishes the Industrial Court."
+  }
+ },
+ "summary": {
+  "zh": "规定雇主与职工会之间的关系、职工会的承认、集体谈判与劳动争议的处理，并设立工业法庭。",
+  "en": "Governs relations between employers and trade unions, recognition of trade unions, collective bargaining and the settlement of trade disputes, and establishes the Industrial Court."
+ }
+}

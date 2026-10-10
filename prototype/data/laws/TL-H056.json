@@ -1,0 +1,107 @@
+{
+ "id": "TL-H056",
+ "title": {
+  "zh": "Orçamento Rectificativo 国家总预算 para o Ano Fiscal de 2006-2007",
+  "en": null,
+  "orig": "Orçamento Rectificativo do Orçamento Geral do Estado para o Ano Fiscal de 2006-2007"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2007-03-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 4/2007",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 953,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2007/serie_1/serie1_no5.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自官方公报 PDF（public/docs/2007/serie_1/serie1_no5.pdf）第 1712–1720 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H056-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Orçamento Rectificativo"
+   },
+   "text": {
+    "pt": "A presente lei aprova o Orçamento Rectificativo do Orçamento Geral do Estado para o Ano Fiscal de 2006-2007."
+   }
+  },
+  {
+   "id": "TL-H056-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Dotações"
+   },
+   "text": {
+    "pt": "Os valores constantes dos anexos à Lei do Orçamento, relativos às dotações atribuídas para o Ano Fiscal de 2006-2007, são rectificados de acordo com as Tabelas em anexo e que fazem parte integrante da presente lei."
+   }
+  },
+  {
+   "id": "TL-H056-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "heading": {
+    "pt": "Financiamento dos Órgãos Autónomos"
+   },
+   "text": {
+    "pt": "O artigo 12.º da Lei n.º 4/2006, de 21 de Agosto, que aprovou o OGE, passa a ter a seguinte redacção:\n“O financiamento de capital de desenvovimento dos Órgãos Autónomos constitui investimento público e, como tal, não depende, total ou parcialmente, das receitas próprias daqueles órgãos e, por isso, o Governo continuará a subvencioná-los. “"
+   }
+  },
+  {
+   "id": "TL-H056-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "heading": {
+    "pt": "Transferências do Fundo Petrolífero"
+   },
+   "text": {
+    "pt": "Nos termos e para os efeitos do disposto no artigo 7.º, da Lei n° 4/2006 de 21 Agosto, o montante das transferências do fundo petrolífero para o Ano Fiscal de 2006-2007 não execederá $272.834 milhões."
+   }
+  },
+  {
+   "id": "TL-H056-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação no Jornal da República."
+   }
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "id": "SG-H1467",
+ "title": {
+  "zh": null,
+  "en": "Factories (Safety Training Courses) Order",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p19",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation WSHA2006-OR12",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2843,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/WSHA2006-OR12?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1467-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Order may be cited as the Factories (Safety Training Courses) Order."
+   }
+  },
+  {
+   "id": "SG-H1467-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Persons to attend safety training courses"
+   },
+   "text": {
+    "en": "2. The occupier of a factory shall ensure that the classes or description of persons employed in the factory set out in the first column of the Schedule attend the safety training courses conducted by the Occupational Safety and Health Training and Promotion Centre or other training institutions approved by the Chief Inspector set out opposite thereto in the second column thereof."
+   }
+  },
+  {
+   "id": "SG-H1467-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nClasses or description of persons\nSafety training courses\n(1)Construction Workers:\nConstruction Safety Orientation Course.\nany worker employed in manual labour to carry out construction work in building and engineering construction worksites\n(2)Manhole Workers:\nSafety Orientation Course (Manhole).\nany worker who is carrying out work in manholes or confined spaces in building and engineering construction worksites\n(3)Manhole Supervisors:\nSafety Instruction Course (Manhole).\nany person who is appointed as a manhole supervisor to supervise work carried out in manholes or confined spaces in building and engineering construction worksites\n(4)Formwork Supervisors:\nFormwork Safety Course for Supervisors.\nany person who is appointed as a formwork supervisor to supervise the construction, erection, alteration or dismantling of formwork structures in building and engineering construction worksites\n(5)Project Managers:\nConstruction Safety Course for Project Managers.\nany person who is appointed as a project manager to be in charge of all construction activities in building and engineering construction worksites of a contract sum of $10 million or more\n(6)Oil and Petrochemical Industry Workers:\nOil and Petrochemical Safety Orientation Course for Workers.\nany worker who is carrying out work in a factory of the oil and petrochemical industry\n(7)Oil and Petrochemical Industry Supervisors:\nOil and Petrochemical Industry Supervisors Safety Course.\nany person who supervises any process or work carried out in a factory of the oil and petrochemical industry\n(8)Forklift Operators:\nForklift Driver’s Training Course.\nany person who drives or operates a forklift truck in a factory\n(9)Metalworking Industry Workers:\nSafety Orientation Course for Workers (Metalworking).\nany worker employed in manual labour to carry out work in a factory engaged in the manufacture of basic metals, fabricated metal products, machinery or equipment and electrical machinery and apparatus\n[S 673/2002 wef 01/06/2003]\n(10)Metalworking Industry Supervisors:\nBasic Industrial Safety and Health Course for Supervisors.\nany person who supervises any process or work carried out in a factory engaged in the manufacture of basic metals, fabricated metal products, machinery or equipment and electrical machinery and apparatus\n[S 673/2002 wef 01/06/2003]"
+   }
+  }
+ ]
+}

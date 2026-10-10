@@ -1,0 +1,94 @@
+{
+ "id": "SG-H3599",
+ "title": {
+  "zh": null,
+  "en": "Public Service (Monthly Variable Component and Non-pensionable Annual Allowance) Act 1988",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p45",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act PSMVCNAAA1988",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1669,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/PSMVCNAAA1988?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 4 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3599-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Public Service (Monthly Variable Component and Non-pensionable Annual Allowance) Act 1988."
+   }
+  },
+  {
+   "id": "SG-H3599-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act —\n“monthly variable component” means the aggregate of the annual wage increases for the years 1982 to 1984 payable pursuant to the recommendations of the National Wages Council;\n“public service” means service under the Government and includes —\n(a)service as the holder of any public office or service as a Member of Parliament; and\n(b)service under any statutory body or authority designated by the Minister by notification in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H3599-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Power of Minister to vary monthly variable component and non‑pensionable annual allowance"
+   },
+   "text": {
+    "en": "3.—(1) The Minister may, by order in the Gazette, vary in such manner as may be specified in the order —\n(a)the rates of the monthly variable component; and\n(b)the amount of the 13th month non‑pensionable annual allowance,\npayable to the public service.\n(2) When any order under subsection (1) comes into force, the Government and any designated statutory body or authority must give effect to the order.\n(3) Any term or condition of employment in the public service (including any collective agreement) imposing any liability to pay —\n(a)rates of monthly variable component; or\n(b)the amount of the 13th month non‑pensionable annual allowance,\nin excess of the rates or amount specified in the order is, to the extent of the excess, void and of no effect so long as the order remains in force."
+   }
+  },
+  {
+   "id": "SG-H3599-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Pensions not to be affected"
+   },
+   "text": {
+    "en": "4. All pensions, gratuities and other allowances to be granted under the Pensions Act 1956 and the Parliamentary Pensions Act 1978 to any person must be computed as if the monthly variable component applicable to that person had not been reduced by virtue of any order made or continued in force under this Act."
+   }
+  }
+ ]
+}

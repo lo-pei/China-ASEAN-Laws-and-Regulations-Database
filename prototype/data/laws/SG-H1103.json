@@ -1,0 +1,72 @@
+{
+ "id": "SG-H1103",
+ "title": {
+  "zh": null,
+  "en": "Denomination and Characteristics of the Currency Note",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p14",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CA1967-S303-2007",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 3436,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CA1967-S303-2007?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 3 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1103-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Currency Act\nChapter 69\nPursuant to section 17(5) of the Currency Act, it is hereby notified for general information that the denomination and characteristics of the currency note to be issued on 27th June 2007 by the Monetary Authority of Singapore are as shown in the Schedule."
+   }
+  },
+  {
+   "id": "SG-H1103-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nDenomination\nSize\nDesign\nPredominant and Secondary Colours\nFront\nBack\nFront\nBack\n$20\nLength — 149mm\nWidth — 72mm\nThe front design features the portrait of Singapore’s first President, the late Encik Yusof bin Ishak. The word “SINGAPORE” is printed on the bottom centre portion. There are 2 see-through windows — one on the upper left-hand corner and the other at the bottom right-hand corner. The complex clear window on the upper left-hand corner has a multi-tonal Singapore Arms. The clear window at the bottom right-hand corner is embossed with the numeral “20” in its centre, with repetitive pattern of the numeral “20” at the top and bottom of the window. The shadow image of the President’s portrait is on the left-hand side of the note. The denomination numeral “20” is located at the upper middle portion. The Singapore Lion symbol in gold patch with the words “TWENTY DOLLARS” and the image of the Singapore Arms is located above the words “THIS NOTE IS LEGAL TENDER”. The signature and seal of Mr Goh Chok Tong, Chairman, Monetary Authority of Singapore, are below the words “TWENTY DOLLARS”. The security thread in the shape of Singapore island is at the lower centre of the note. Sprays of the orchid “Dendrobium Puan Noor Aishah” that was named after the wife of the first President are located at the left-hand side of the portrait. One set of the asymmetrical serial number appears horizontal on the left-hand side while the other set appears vertical on the right-hand side. The Braille pattern is at the top right-hand corner.\nThe back design features a symbol of long-lasting currency interchangeability agreement between Brunei Darussalam and Singapore, comprising 2 interlocking “C” in the centre with the words “Brunei Darussalam Singapore Currency Interchangeability Agreement 1967 — 2007”. At the centre of the symbol are the state crests of both countries and the words “FORTY YEARS”. At the left-hand side of the interlocking “C” symbol, the Esplanade and skyline of the Singapore financial district are depicted. On the right-hand side of the interlocking “C” symbol, the Sultan Haji Omar ‘Ali Saifuddien Mosque of Brunei with the Royal Barge and the water village are depicted. The Singapore Lion symbol is at the lower-left above the embossed window. The Brunei Bird of Paradise symbol is located near the scene of the water village. At the bottom of the note, the words “SINGAPORE” and “BRUNEI DARUSSALAM” are located on the left corner and right corner of the green band respectively. The colour switching feature on the lower left and right edge of the note will change from red to gold colour at varying angles. The denomination numeral “20” is located at the top left-hand corner and at the lower-right above the words “Brunei Darussalam”. The 2 see-through windows located at the front of the note can also be seen from the back.\nPredominant Colour: Orange\nSecondary Colours: Yellow, Brown, Green and Red\nPredominant Colour: Orange\nSecondary Colours: Brown, Green and Red"
+   }
+  },
+  {
+   "id": "SG-H1103-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\n(a)Front Design of the $20 Polymer Portrait Note.\n(b)Back Design of the $20 Polymer Portrait Note.\nActual size: 149 mm x 72 mm"
+   }
+  }
+ ]
+}

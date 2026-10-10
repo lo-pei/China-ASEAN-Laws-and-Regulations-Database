@@ -1,0 +1,84 @@
+{
+ "id": "PH-H5679",
+ "title": {
+  "zh": "设立Tacloban市",
+  "en": "An Act Establishing a National High School in the District of Panalaron, City of Tacloban, Province of Leyte, to Be Known as the Panalaron National High School and Appropriating Funds Therefor",
+  "orig": "An Act Establishing a National High School in the District of Panalaron, City of Tacloban, Province of Leyte, to Be Known as the Panalaron National High School and Appropriating Funds Therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p80",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1992-02-10",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 7191",
+ "officialCode": null,
+ "topics": [
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 524,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7191_1992.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1992/ra_7191_1992.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H5679-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There shall be established a national high school in the District of Panalaron, City of Tacloban, Province of Leyte, to be known as the Panalaron National High School."
+   }
+  },
+  {
+   "id": "PH-H5679-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The Secretary of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purposes of this Act."
+   }
+  },
+  {
+   "id": "PH-H5679-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The amount necessary for the implementation of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter."
+   }
+  },
+  {
+   "id": "PH-H5679-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

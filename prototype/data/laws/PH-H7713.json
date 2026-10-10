@@ -1,0 +1,84 @@
+{
+ "id": "PH-H7713",
+ "title": {
+  "zh": null,
+  "en": "An act increasing the number of Regional Trial Court Branches in the Province of Quezon and Lucena City from thirteen (13) branches to fourteen (14) branches by creating a new branch with seat at Catanauan, Quezon, amending for the purpose subparagraph 8 and paragraph (E) of Section 14 of Batas",
+  "orig": "An act increasing the number of Regional Trial Court Branches in the Province of Quezon and Lucena City from thirteen (13) branches to fourteen (14) branches by creating a new branch with seat at Catanauan, Quezon, amending for the purpose subparagraph 8 and paragraph (E) of Section 14 of Batas"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p109",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2004-02-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 9247",
+ "officialCode": null,
+ "topics": [
+  "judiciary"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 2886,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9247_2004.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2004/ra_9247_2004.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文存在同号重出的条款（第 1 条）：该处官方页面确有两段均标同一 Section 号，本库照录其 `no` 值（不改动官方编号），条文 `id` 以 `_2`「_3」后缀保证唯一。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H7713-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Short Title . -"
+   }
+  },
+  {
+   "id": "PH-H7713-A1_2",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Paragraph (e) and Subparagraph 8 of Section 14 of Batas Pambansa Blg. 120 is hereby amended to read as follows:\n\"SEC. 14. Regional Trial Courts.\n'(e) Eighty-three Regional Trial Judges shall be commissioned for the Fourth Judicial Region. There shall be:\nFourteen branches (Branches I to XIV) for the province of Batangas and the cities of Lipa and Batangas, Branches I to IV with seats at Batangas City. Branch V at Lemery, Branches VI to VIII at Tanauan, Branches IX to XI at Balayan. Branches XII and XIII at Lipa, and Branch XIV at Nasugbu;\nNine branches (Branches XV to XXIII) for the province of Cavite and the cities of Cavite, Tagaytay and Trece Martires, Branch XV with seat at Naic, Branches XVI and XVII at Cavite City, Branch XVIII at Tagaytay City, Branch XIX at Bacoor, Branches XX to XXII at Imus, and Branch XXIII at Trece Martirez;\nFourteen branches (Branches XXIV to XXXVII) for the province of Laguna and the city of San Pablo, Branches XXVI and XXV with seats at Biñan, Branches XXVI to XXVIII at Sta. Cruz, Branches XXIX to XXXII at San Pablo City, Branch XXXIII at Siniloan, and Branches XXXIV to XXXVII at Calamba;\nOne branch (Branch XXXVIII) for the province of Marinduque, with seat at Boac;\nFive branches (Branches XXXIX to XLIII) for the province of Mindoro Oriental, Branches XXXIX and XL with seats at Calapan, Branches XLI and XLII at Pinamalayan, and Branch XLIII at Roxas;\nThree branches (Branches XLIV to XLVI) for the province of Mindoro Occidental, Branch XLVI with seat at Mamburao, and Branches XLV and XLVI at San Jose;\nSix branches (Branches XLVII to LII) for the province of Palawan and the city of Puerto Princesa, with seats at Puerto Princesa City;\nFourteen branches (Branches LIII) to LXV and Branch LXXXIII) for the province of Quezon and the City of Lucena, Branches LIII to LX with seats at Lucena City, Branches LXI and LXII at Gumaca, Branch LXIII at Calauag, Branch LXIV at Mauban, Branch LXV at Infanta, and Branch LXXXIII at Catanauan;\nOne branch (Branch LXVI), for the province of Aurora, with seat at Baler;\nFourteen branches (Branches LXVII to LXXX) for the province of Rizal except the cities and municipalities embraced within the National Capital Judicial Region, Branches LXVII to LXX with seats at Binangonan, Branches LXXI to LXXIV at Antipolo, Branches LXXV to LXXVII at San Mateo, and Branches LXXVIII to LXXX at Morong; and Two branches (Branches LXXXI and LXXXII) for the province of Romblon, Branch LXXXI with seat at Romblon, and Branche LXXXII at Oidiongan.\""
+   }
+  },
+  {
+   "id": "PH-H7713-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The Chief Justice of the Supreme Court in coordination with the Secretary of the Department of Justice shall immediately include in its program the operationalizaton of the new Regional Trial Court in Catanauan, Quezon, the funding of which shall be included in the annual General Appropriations Act."
+   }
+  },
+  {
+   "id": "PH-H7713-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

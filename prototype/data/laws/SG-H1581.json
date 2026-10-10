@@ -1,0 +1,107 @@
+{
+ "id": "SG-H1581",
+ "title": {
+  "zh": null,
+  "en": "Fire Safety (Alarm Monitoring Services) Regulations 2020",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p20",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation FSA1993-S777-2020",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 2845,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/FSA1993-S777-2020?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 5 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1581-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Fire Safety (Alarm Monitoring Services) Regulations 2020 and come into operation 14 September 2020."
+   }
+  },
+  {
+   "id": "SG-H1581-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Application fee"
+   },
+   "text": {
+    "en": "2. The application fee for the purposes of section 49(1)(b)(ii) of the Act is $239.\n[S 491/2023 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1581-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Criteria for fit and proper person"
+   },
+   "text": {
+    "en": "3. For the purposes of section 50(4) of the Act, the criteria and requirements that the licensing officer may consider in determining whether an applicant is a fit and proper person include the following:\n(a)whether the applicant or any responsible officer of the applicant has been convicted of, or is the subject of investigations for having committed, an offence involving fraud or dishonesty;\n(b)whether the applicant or any responsible officer of the applicant has been convicted of an offence that involved a finding that the applicant or responsible officer had acted fraudulently or dishonestly;\n(c)whether the applicant or any responsible officer of the applicant is an undischarged bankrupt or has made an arrangement or a composition with any creditor.\n[S 491/2023 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1581-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Fee for member’s attendance at building in absence of fire"
+   },
+   "text": {
+    "en": "4.—(1) A fee of $175 is payable by a licensee for each instance one or more members attend at a building in respect of which the licensee provides alarm monitoring services —\n(a)to deploy any equipment or device for extinguishing, or protecting life and property from, any fire at the building; and\n(b)in response to a request made to the Commissioner for the attendance at the building.\n(2) Paragraph (1) does not apply where there is a fire at the building at the time the member or members attend at the building.\n(3) Where the fee in paragraph (1) is paid in respect of the attendance by a member or members at the building, no fee under item 6 of the Schedule to the Fees (Singapore Civil Defence Force) Order 2014 (G.N. No. S 582/2014) is payable in relation to the same attendance of that member or those members.\n(4) In this regulation, “request” means the transmission, on a communication link, of a signal from an alarm system to the alarm monitoring network kept by the Force."
+   }
+  },
+  {
+   "id": "SG-H1581-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Notice of ceasing business"
+   },
+   "text": {
+    "en": "5.—(1) Where a licensee intends to stop providing alarm monitoring services from an alarm monitoring station, the licensee must notify the Commissioner and every affected subscriber of that fact no later than 2 months before the intended date of stopping the alarm monitoring services.\n(2) A licensee who, without reasonable excuse, contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.\n(3) In this regulation, “affected subscriber”, in relation to a licensee who intends to stop providing alarm monitoring services from an alarm monitoring station, means a person who has engaged the licensee to provide alarm monitoring services, which the licensee provides from that alarm monitoring station."
+   }
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "id": "SG-H3327",
+ "title": {
+  "zh": null,
+  "en": "National Registry of Diseases (Chronic Kidney Failure Notification) Regulations 2011",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p42",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation NRDA2007-S98-2011",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 7,
+ "chars": 11274,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/NRDA2007-S98-2011?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 7 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 3 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3327-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the National Registry of Diseases (Chronic Kidney Failure Notification) Regulations 2011 and shall come into operation on 1st March 2011."
+   }
+  },
+  {
+   "id": "SG-H3327-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations, unless the context otherwise requires —\n“chronic kidney failure”, in relation to a patient, refers to the state when —\n(a)the Glomerular Filtration Rate (GFR) (corrected to the body surface area of 1.73m2) of the patient is less than 15 ml/min;\n(b)the serum creatinine level of the patient is more than or equal to 500 µmol/L or 5.7mg/dl; or\n(c)the patient’s kidney function has deteriorated to the extent that, in the opinion of a medical practitioner responsible for the management of his care, the patient requires treatment for kidney failure,\nand the patient is not, in the opinion of a medical practitioner responsible for the management of his care, suffering from acute kidney failure;\n“patient” means a person to whom a notification referred to in regulation 3 relates;\n“treatment for chronic kidney failure” means any treatment for kidney failure administered to a patient suffering from chronic kidney failure;\n“treatment for kidney failure” means any of the following modalities of treatment:\n(a)haemodialysis and its related modalities (including chronic haemofiltration and chronic haemodiafiltration);\n(b)peritoneal dialysis;\n(c)kidney transplantation (including follow-up medical treatment post-transplant);\n(d)conservative medical management.\n(2) In these Regulations —\n(a)any reference to the date of commencement of treatment for chronic kidney failure of a patient at a healthcare institution shall be a reference to the date on which the patient first receives any modality of such treatment at that healthcare institution; and\n(b)any reference to the date of change of modality of treatment for chronic kidney failure of a patient at a healthcare institution shall be a reference to the date on which the patient first receives a different modality of such treatment from that which he was previously receiving at that healthcare institution."
+   }
+  },
+  {
+   "id": "SG-H3327-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Form, time and manner of notification for chronic kidney failure"
+   },
+   "text": {
+    "en": "3. For the purposes of section 6(1) of the Act, a notification by the manager of a healthcare institution to the Registrar under that section shall —\n(a)contain, in relation to the patient, the information specified in the First Schedule;\n(b)be made in the appropriate Form or Listing specified in the Second Schedule, which Form or Listing may be downloaded from the Registry’s Internet website at http://www.nrdo.gov.sg or obtained from the office of the Registry during such hours as the office is open for business;\n(c)be sent to the Registrar —\n(i)by hand (including by courier);\n(ii)by registered mail; or\n(iii)by using such secure electronic notification system as may be approved by the Registrar; and\n(d)be made within the following time:\n(i)in the case of a patient diagnosed with chronic kidney failure at the healthcare institution, not later than 3 months after that diagnosis is made;\n(ii)in the case of a patient who undergoes kidney transplantation at the healthcare institution, not later than 3 months after the completion of any transplant operation;\n(iii)in the case of a patient who undergoes treatment for chronic kidney failure (other than kidney transplantation) at the healthcare institution —\n(A)which commenced before 1st March 2011 and continues on or after that date, not later than 31st May 2011; or\n(B)which commenced on or after 1st March 2011, not later than 3 months after the date of commencement of the treatment;\n(iv)in the case of a patient who undergoes a change of modality of treatment for chronic kidney failure at the healthcare institution, not later than one month after the date of change of modality of such treatment."
+   }
+  },
+  {
+   "id": "SG-H3327-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Collection of additional information under section 7 of Act"
+   },
+   "text": {
+    "en": "4. Upon receiving a notification referred to in regulation 3 from the manager of a healthcare institution, the Registrar or an authorised Registry officer may, for the purposes of section 7(1) of the Act, require the manager to provide all or any of the additional information specified in the Third Schedule concerning the patient."
+   }
+  },
+  {
+   "id": "SG-H3327-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 3(a)\nInformation to be Submitted\nWith Notification\n1. Identification number of patient (NRIC number, passport number, Foreign Identification Number or hospital registration number).\n2. Name of patient.\n3. Date of birth or age of patient (if date of birth is unknown).\n4. Gender of patient."
+   }
+  },
+  {
+   "id": "SG-H3327-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 3(b)\nForms of Notification\n1. Diagnosis of or commencement of treatment for chronic kidney failure notification form at http://www.nrdo.gov.sg.\n2. Change of modality of treatment or change of healthcare institution form at http://www.nrdo.gov.sg.\n3. Kidney transplant form at http://www.nrdo.gov.sg.\n4. Listings of patients diagnosed with or undergoing treatment for chronic kidney failure.\n5. Listings of patients undergoing or who have undergone haemodialysis or peritoneal dialysis.\n6. Listings of patients who have undergone kidney transplantation.\n7. Listings of patients with Glomerular Filtration Rate (GFR) (corrected to the body surface area of 1.73m2) of less than 15 ml/min or with serum creatinine level of more than or equal to 500 µmol/L or 5.7mg/dl."
+   }
+  },
+  {
+   "id": "SG-H3327-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulation 4\nAdditional Information\nPart I\nfor Diagnosis of or Commencement of Treatment\nfor Chronic Kidney Failure\n1. Referring or treating healthcare institution:\n(a)referral clinic or centre;\n(b)current centre;\n(c)date treatment started at current centre;\n(d)current modality of treatment.\n2. Particulars of patient:\n(a)ethnic group(s);\n(b)citizenship or resident status;\n(c)country of birth;\n(d)highest education level;\n(e)religion;\n(f)residential postal code.\n3. Diagnostic information:\n(a)primary renal disease leading to chronic kidney failure;\n(b)date reached chronic kidney failure;\n(c)Glomerular Filtration Rate (GFR) at diagnosis;\n(d)serum creatinine level at diagnosis;\n(e)height of patient at diagnosis (including date);\n(f)weight of patient at diagnosis (including date);\n(g)Glomerular Filtration Rate (GFR) at first dialysis;\n(h)serum creatinine level at first dialysis;\n(i)height of patient at first dialysis (including date);\n(j)weight of patient at first dialysis (including date).\n4. Co-morbid conditions (including type(s), date(s) of diagnosis, and hepatitis status).\n5. Current status of patient:\n(a)living or deceased;\n(b)where patient is deceased, the date, place and cause of death.\n6. Rehabilitation status and quality of life:\n(a)limitation on or preclusion from transplant.\nPart II\nfor Change of Healthcare Institution or\nChange of Modality of Treatment\n1. Particulars of patient:\n(a)clinic or centre from which the patient was referred;\n(b)highest education level;\n(c)religion;\n(d)residential postal code.\n2. Information on change of healthcare institution (where applicable):\n(a)healthcare institution transferred from;\n(b)new healthcare institution;\n(c)date treatment started at new healthcare institution.\n3. Information on change of modality (where applicable):\n(a)new modality of treatment.\n4. Transplantation (where applicable as the new modality of treatment):\n(a)date of transplant;\n(b)place of transplant follow-up;\n(c)date of first follow-up treatment (post-transplant).\n5. Current status of patient:\n(a)living or deceased;\n(b)where the patient is deceased, the date, place and cause of death.\nPart III\nfor Transplant Patients\n1. Referring or treating healthcare institution:\n(a)referral clinic or centre;\n(b)current centre;\n(c)date of first follow-up treatment (post-transplant).\n2. Particulars of patient:\n(a)citizenship or resident status;\n(b)ethnic group(s);\n(c)country of birth;\n(d)highest education level;\n(e)religion;\n(f)residential postal code.\n3. Dialysis history:\n(a)whether patient was on dialysis prior to transplant.\n4. Glomerular Filtration Rate (GFR) at time of transplant:\n(a)serum creatinine level at time of transplant (including date);\n(b)height of patient at time of transplant (including date);\n(c)weight of patient at time of transplant (including date);\n(d)Glomerular Filtration Rate (GFR) at time of transplant (including date).\n5. Transplant information:\n(a)date of transplant;\n(b)place where patient underwent transplant;\n(c)where transplant was done overseas, country and centre where patient underwent transplant;\n(d)graft number.\n6. Donor information:\n(a)gender;\n(b)ethnic group(s);\n(c)date of birth or age (if date of birth is unknown);\n(d)whether donor is living or deceased;\n(e)in respect of living donor: relationship of living donor to recipient; and\n(f)in respect of deceased donor: whether donor’s heart was beating or non-beating at the point the kidney was removed from the donor’s body.\n7. Graft status:\n(a)whether graft is functioning;\n(b)if graft is functioning, current serum creatinine level, Glomerular Filtration Rate (GFR), and height and weight of the patient (including date);\n(c)if graft is not functioning, date and cause of graft loss.\nPart IV\nfor Patients Undergoing Treatment\n1. Treating healthcare institution:\n(a)current centre;\n(b)date treatment started at current centre.\n2. Particulars of patient:\n(a)citizenship or resident status;\n(b)ethnic group(s);\n(c)country of birth;\n(d)highest education level;\n(e)religion;\n(f)residential postal code.\n3. Co-morbid conditions (including type(s) and date(s) of diagnosis and hepatitis status).\n4. Current status of patient:\n(a)living or deceased;\n(b)where the patient is deceased, the date, place and cause of death.\n5. Rehabilitation status and quality of life:\n(a)limitation on or preclusion from transplant.\n6. Nutrition:\n(a)last serum albumin level (including date);\n(b)laboratory method used.\n7. Anaemia:\n(a)last haemoglobin level (including date);\n(b)erythropoietin stimulating agent administered, if any (including type and dosage);\n(c)transferrin saturation (including date);\n(d)serum ferritin level (including date).\n8. Mineral metabolism:\n(a)serum calcium level (including date);\n(b)serum phosphate level (including date);\n(c)serum immunoreactive parathyroid hormone level (including date);\n(d)corrected calcium level (including date).\n9. Haemodialysis data:\n(a)dialysis prescription:\n(i)frequency of haemodialysis sessions;\n(ii)duration of each dialysis session;\n(b)vascular access:\n(i)current vascular access;\n(c)adequacy:\n(i)last urea reduction ratio (including date, pre-dialysis urea and post-dialysis urea);\n(ii)last Kt/V (where K is the dialyzer clearance, t is the time and V is the volume of water in patient’s body) (including date).\n10. Peritoneal Dialysis data:\n(a)adequacy of peritoneal dialysis:\n(i)last weekly total Kt/V (including date);\n(ii)residual creatinine clearance at last total creatinine clearance measurement (including date);\n(b)peritoneal dialysis outcome:\n(i)ever had peritonitis (including date of first episode);\n(c)technique survival:\n(i)cause of permanent transfer from peritoneal dialysis to haemodialysis (where applicable);\n(ii)date of permanent transfer from peritoneal dialysis to haemodialysis (where applicable).\n11. Post-Transplant data:\n(a)graft status:\n(i)whether graft is functioning;\n(ii)if graft is functioning, current serum creatinine level, Glomerular Filtration Rate (GFR), and height and weight of the patient (including date);\n(iii)if graft is not functioning, date and cause of graft loss."
+   }
+  }
+ ]
+}

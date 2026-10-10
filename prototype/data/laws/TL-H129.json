@@ -1,0 +1,94 @@
+{
+ "id": "TL-H129",
+ "title": {
+  "zh": "Primeira 修改 à《第9/2011号法律》，核准Orgânica 审计法院Tribunal Administrativo，Fiscal及Contas，及 Segunda 修改 à《第13/2009号法律》，关于 Orçamento及 Gestão Financeira",
+  "en": null,
+  "orig": "Primeira Alteração à Lei nº 9/2011, de 17 de Agosto, que aprova a Orgânica da Câmara de Contas do Tribunal Administrativo, Fiscal e de Contas, e Segunda Alteração à Lei nº 13/2009, de 21 de Outubro, sobre Orçamento e Gestão Financeira"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p03",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2013-08-07",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "本法系对《第9/2011号法律》、《第13/2009号法律》的修改。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 4/2013",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1928,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2013/serie_1/serie1_no27.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自官方公报 PDF（public/docs/2013/serie_1/serie1_no27.pdf）第 6665–6675 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 【本法系对《第9/2011号法律》、《第13/2009号法律》的修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H129-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Objecto"
+   },
+   "text": {
+    "pt": "A presente lei altera a Lei nº 9/2011, de 17 de Agosto, que aprova a Orgânica da Câmara de Contas do Tribunal Administrativo, Fiscal e de Contas, e a Lei nº 13/2009, de 21 de Outubro, sobre Orçamento e Gestão Financeira."
+   }
+  },
+  {
+   "id": "TL-H129-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Alteração à Lei n.º 9/2011, de 17 de Agosto"
+   },
+   "text": {
+    "pt": "O artigo 32.º da Lei n.º 9/2011, de 17 de Agosto, que aprova a Orgânica da Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas, passa a ter a seguinte redacção:\n“Artigo 32.º […]\n1.   [...].\na)   [...]\nb)   Os contratos de qualquer natureza celebrados pelas entidades sujeitas à jurisdição da Câmara de Contas que excedam o valor de $5.000.000,00 (cinco milhões de dólares);\nc)   As minutas finais de contratos a celebrar por escritura pública ou cujos encargos, ou parte deles, tenham de ser satisfeitos no acto da sua celebração, respeitantes às entidades referidas na alínea anterior, que excedam o valor de $5.000.000,00 (cinco milhões de dólares);\nPARLAMENTO  NACIONAL  :\nLEI N.º 4/2013/III Primeira Alteração à Lei nº 9/2011, de 17 de Agosto, que aprova a Orgânica da Câmara de Contas do Tribunal Administrativo, Fiscal e de Contas, e Segunda Alteração à Lei nº 13/2009, de 21 de Outubro, sobre Orçamento e Gestão Financeira..............................................................................6665\nd)   […]\n2.   [...].\n3.   [...].\n4.   [...].\n5.   [...].”"
+   }
+  },
+  {
+   "id": "TL-H129-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "heading": {
+    "pt": "Alteração à Lei n.º 13/2009, de 21 de Outubro"
+   },
+   "text": {
+    "pt": "O artigo 45.º da Lei n.º 13/2009, de 21 de Outubro, alterada pela Lei nº 9/2011, de 17 de Agosto, passa a ter a seguinte redacção:\n“Artigo 45.º […]\n1.   O Governo apresenta ao Parlamento Nacional e à Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas o Relatório sobre a Conta Geral do Estado, no prazo de sete meses a contar do termo do ano financeiro, que integra um relatório contendo o conjunto dos balanços financeiros compilados pelo Tesouro, compatíveis com os padrões internacionais de contabilidade.\n2.   […]\n3.   [...]”"
+   }
+  },
+  {
+   "id": "TL-H129-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "id": "PH-H9685",
+ "title": {
+  "zh": null,
+  "en": "An Act Reapportioning the First Legislative District of the Province of South Cotabato Thereby Creating the Lone Legislative District of General Santos City",
+  "orig": "An Act Reapportioning the First Legislative District of the Province of South Cotabato Thereby Creating the Lone Legislative District of General Santos City"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p138",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2019-03-11",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 11243",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1345,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11243_2019.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2019/ra_11243_2019.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H9685-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Reapportioning of the First Legislative District. - The First Legislative District of the Province of South Cotabato is hereby reapportioned in order to create the Lone Legislative District of General Santos City to commence in the next national and local elections after the effectivity of this Act. The Legislative Districts of the Province shall now be composed of the following:\n(a) First Legislative District:\n(1) Polomolok\n(2) Tampakan\n(3) Tupi\n(b) Second Legislative District:\n(1) Koronadal City\n(2) Banga\n(3) Lake Sebu\n(4) Norala\n(5) Santo Niño\n(6) Surallah\n(7) Tantangan\n(8) T’Boli\n(c) Third Legislative District:\n(1) General Santos City."
+   }
+  },
+  {
+   "id": "PH-H9685-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Holdover. - The incumbent Representatives of the present First and Second Legislative Districts of the Province of South Cotabato shall continue to represent the districts until the new Representatives shall have been elected and qualified."
+   }
+  },
+  {
+   "id": "PH-H9685-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Rules and Regulations. - The Commission on Elections shall issue the necessary rules and regulations to implement this Act within thirty (30) days after its effectivity."
+   }
+  },
+  {
+   "id": "PH-H9685-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Repealing Clause. - All laws, rules and regulations which are inconsistent with this Act are hereby repealed, amended or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H9685-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
+   }
+  }
+ ]
+}

@@ -1,0 +1,1396 @@
+{
+ "id": "SG-H2994",
+ "title": {
+  "zh": null,
+  "en": "Legal Profession (Law Practice Entities) Rules 2015",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p38",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation LPA1966-S699-2015",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 86,
+ "chars": 143777,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/LPA1966-S699-2015?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 86 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 3 篇以 900000+ 序号随同收录。其中 2 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2994-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Rules may be cited as the Legal Profession (Law Practice Entities) Rules 2015 and come into operation on 18 November 2015."
+   }
+  },
+  {
+   "id": "SG-H2994-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Rules, unless the context otherwise requires —\n“appellate court” means the court to which an appeal against a decision of the Singapore International Commercial Court is to be made under section 29C of the Supreme Court of Judicature Act 1969;\n[S 752/2022 wef 01/10/2022]\n“Central Provident Fund Board” means the Central Provident Fund Board constituted under section 3 of the Central Provident Fund Act (Cap. 36);\n“client account” has the same meaning as in rule 2(1) of the Legal Profession (Solicitors’ Accounts) Rules (R 8);\n“conveyancing account”, “conveyancing (CPF) account” and “conveyancing money” have the same meanings as in rule 2(2) of the Conveyancing and Law of Property (Conveyancing) Rules 2011 (G.N. No. S 391/2011);\n“equity holding director”, in relation to a law corporation or a foreign law practice constituted as a corporation, means a director of the law corporation or foreign law practice who holds equity interests in the law corporation or foreign law practice (as the case may be);\n[S 480/2018 wef 01/08/2018]\n“foreign group practice” means 2 or more licensed foreign law practices which practise in mutual cooperation, and which expressly practise as a group under a group name;\n[S 480/2018 wef 01/08/2018]\n“relevant appeal”, “relevant proceedings” and “Singapore International Commercial Court” have the same meanings as in section 36O(1) of the Act;\n“section 36P(1A) proceedings” means any relevant proceedings, relevant appeal, or proceedings that are preliminary to any relevant proceedings or relevant appeal, prescribed by the Legal Profession (Representation in Singapore International Commercial Court) Rules 2014 (G.N. No. S 851/2014) for the purposes of section 36P(1A) of the Act;\n[S 752/2022 wef 01/10/2022]\n“Singapore group practice” means 2 or more Singapore law practices which practise in mutual cooperation, and which expressly practise as a group under a group name, and includes a group practice (however constituted) referred to in rule 41(15).\n[S 480/2018 wef 01/08/2018]\n(2) For the purposes of these Rules, a law corporation and a law firm (being a sole proprietorship) are related if —\n(a)every shareholder of the law corporation is the sole proprietor, a consultant or an employee of the law firm; and\n(b)every director, consultant or employee of the law corporation is the sole proprietor, a consultant or an employee of the law firm.\n(3) For the purposes of these Rules, a law corporation and a law firm (being a partnership of 2 or more solicitors) are related if —\n(a)every shareholder of the law corporation is a partner, a consultant or an employee of the law firm; and\n(b)every director, consultant or employee of the law corporation is a partner, a consultant or an employee of the law firm.\n(4) For the purposes of these Rules, a law corporation and a limited liability law partnership are related if —\n(a)either of the following applies:\n(i)the limited liability law partnership is the sole shareholder of the law corporation;\n(ii)every shareholder of the law corporation is a partner, a consultant or an employee of the limited liability law partnership; and\n(b)every director, consultant or employee of the law corporation is a partner, a consultant or an employee of the limited liability law partnership.\n(5) For the purposes of these Rules, 2 law corporations are related if —\n(a)either of the following applies:\n(i)the first law corporation is the sole shareholder of the second law corporation;\n(ii)every shareholder of the second law corporation is either or both of the following:\n(A)a shareholder of the first law corporation;\n(B)a director, a consultant or an employee of the first law corporation; and\n(b)every director, consultant or employee of the second law corporation is a director, a consultant or an employee of the first law corporation."
+   }
+  },
+  {
+   "id": "SG-H2994-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Threshold requirements for Singapore law practice"
+   },
+   "text": {
+    "en": "3.—(1) Every Singapore law practice must satisfy all of the following requirements (called in these Rules the general threshold requirements):\n(a)the number of solicitors practising in the Singapore law practice is at least 2 times the total number of regulated foreign lawyers (if any) who practise in, are directors, partners or shareholders in, or share in the profits of, the Singapore law practice;\n(b)the number of solicitors who are partners, directors or managers (as the case may be) of the Singapore law practice is at least 2 times the total number of regulated foreign lawyers (if any) who are partners or directors (as the case may be) of the Singapore law practice;\n(c)the managing partner, managing director or manager (as the case may be) of the Singapore law practice is a solicitor;\n(d)the regulated foreign lawyers (if any) who practise in, who are directors, partners or shareholders in, or who share in the profits of, the Singapore law practice, and the foreign law practices (if any) which have approval under section 176(9) of the Act to be shareholders in or to share in the profits of the Singapore law practice, collectively —\n(i)are entitled to exercise or control the exercise of not more than one‑third of the total voting rights exercisable in respect of the management of the Singapore law practice;\n(ii)are entitled to exercise or control the exercise of not more than one‑third of the total voting rights exercisable by the partners or shareholders (as the case may be) of the Singapore law practice; and\n(iii)hold not more than one‑third of the total value of equity interests in the Singapore law practice;\n(e)the regulated non‑practitioners (if any) in the Singapore law practice —\n(i)are entitled to exercise or control the exercise of not more than 25% of the total voting rights exercisable in respect of the management of the Singapore law practice;\n(ii)are entitled to exercise or control the exercise of not more than 25% of the total voting rights exercisable by the partners or shareholders (as the case may be) in the Singapore law practice; and\n(iii)hold not more than 25% of the total value of equity interests in the Singapore law practice;\n(f)where there are one or more regulated foreign lawyers who practise in, who are directors, partners or shareholders in, or who share in the profits of, the Singapore law practice, or one or more foreign law practices which have approval under section 176(9) of the Act to be shareholders in or to share in the profits of the Singapore law practice, and there are one or more regulated non‑practitioners in the Singapore law practice, all of them collectively —\n(i)are entitled to exercise or control the exercise of not more than 35% of the total voting rights exercisable in respect of the management of the Singapore law practice;\n(ii)are entitled to exercise or control the exercise of not more than 35% of the total voting rights exercisable by the partners or shareholders (as the case may be) in the Singapore law practice; and\n(iii)hold not more than 35% of the total value of equity interests in the Singapore law practice.\n(2) Every Singapore law practice that distributes its profits to any person who is not a solicitor practising in the Singapore law practice must satisfy all of the following requirements (called in these Rules the profit threshold requirements):\n(a)the total amount of payments made by the Singapore law practice, during any financial year of the Singapore law practice, to all of the following does not exceed one‑third of the total profits of the Singapore law practice during that financial year, based on the audited financial statement of the Singapore law practice for that financial year:\n(i)foreign lawyers (if any) who have approval under section 176(1) of the Act to share in the profits of the Singapore law practice;\n(ii)foreign law practices (if any) which have approval under section 176(9) of the Act to share in the profits of the Singapore law practice;\n(b)the total amount of payments made by the Singapore law practice, during any financial year of the Singapore law practice, to regulated non‑practitioners (if any) who have been registered under section 36G of the Act to share in the profits of the Singapore law practice does not exceed 25% of the total profits of the Singapore law practice during that financial year, based on the audited financial statement of the Singapore law practice for that financial year;\n(c)where —\n(i)there are one or more foreign lawyers or foreign law practices who or which have approval under section 176(1) or (9), as the case may be, of the Act to share in the profits of the Singapore law practice; and\n(ii)there are one or more regulated non‑practitioners (if any) who have been registered under section 36G of the Act to share in the profits of the Singapore law practice,\nthe total amount of payments made by the Singapore law practice, during any financial year of the Singapore law practice, to all of them, collectively, does not exceed 35% of the total profits of the Singapore law practice during that financial year, based on the audited financial statement of the Singapore law practice for that financial year.\n(3) In paragraphs (1) and (2), “solicitor” means a solicitor practising in a Singapore law practice who —\n(a)has in force a practising certificate; and\n(b)is not a nominee of any foreign law practice or foreign lawyer in respect of the management of, or the control of any voting power or equity interest in, the Singapore law practice.\n(4) For the purposes of paragraph (3), a solicitor is deemed to be a nominee of a foreign law practice or foreign lawyer if that solicitor is accustomed, or under an obligation whether formal or informal, to act in accordance with the directions, instructions or wishes of that foreign law practice or foreign lawyer."
+   }
+  },
+  {
+   "id": "SG-H2994-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 LAW FIRMS"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "4. This Part applies to every law firm."
+   }
+  },
+  {
+   "id": "SG-H2994-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 LAW FIRMS"
+   },
+   "heading": {
+    "en": "Licensing of law firm"
+   },
+   "text": {
+    "en": "5.—(1) An application under section 131(1) of the Act for the issue of a law firm licence, and the approval of the name or proposed name of a law firm, must be made in such form as the Director of Legal Services may require, and must be accompanied by —\n(a)such documents, particulars and information as the Director of Legal Services may require; and\n(b)the appropriate fee specified in the First Schedule.\n(2) The Director of Legal Services may, in the interests of the legal profession or the public, reject the application.\n(3) If, at any time after a law firm licence is issued under section 131(3) of the Act, the Director of Legal Services is satisfied that the application for the licence, or any certificate or other document accompanying that application, contains any substantially false statement or a suppression of any material fact, or that any such certificate or document was obtained by fraud or misrepresentation, the Director of Legal Services may cancel the licence.\n(4) For the purposes of section 131(4) of the Act, a law firm licence issued to a law firm is subject to the condition that the law firm satisfies all general threshold requirements and all profit threshold requirements so long as the licence is in force.\n(5) The prescribed date for the purposes of section 131(7) of the Act is 18 November 2015.\n(6) With effect from 18 November 2015, any application which was made before that date under rule 4(2) of the revoked Legal Profession (Naming of Law Firms) Rules (R 16, 1997 Ed.) as in force immediately before that date, and which is pending immediately before that date, is to be treated, on and after that date, as an application under section 131(1) of the Act.\n(7) The Society may transfer to the Director of Legal Services the particulars of and any documents relating to any application referred to in paragraph (6)."
+   }
+  },
+  {
+   "id": "SG-H2994-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 LAW FIRMS"
+   },
+   "heading": {
+    "en": "Name of law firm"
+   },
+   "text": {
+    "en": "6.—(1) For the purposes of section 132(1) of the Act, the Director of Legal Services must not approve the name or proposed name of a law firm if, in the opinion of the Director of Legal Services, the name or proposed name —\n(a)is misleading or detracts from the dignity of the legal profession;\n(b)is so similar to the name of another law practice entity, Singapore group practice or foreign group practice as to be likely to be confused with that other law practice entity, Singapore group practice or foreign group practice; or\n(c)is inconsistent with any rules made under section 71(2) of the Act.\n(2) The name of a law firm cannot be changed without the prior approval in writing of the Director of Legal Services."
+   }
+  },
+  {
+   "id": "SG-H2994-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 LAW FIRMS"
+   },
+   "heading": {
+    "en": "Language of name of law firm"
+   },
+   "text": {
+    "en": "7. The name of a law firm must be stated in the English language; but the name may, with the approval in writing of the Director of Legal Services, also be stated in any of the other official languages."
+   }
+  },
+  {
+   "id": "SG-H2994-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 LAW FIRMS"
+   },
+   "heading": {
+    "en": "Contents of name of law firm"
+   },
+   "text": {
+    "en": "8.—(1) The name of a law firm may —\n(a)consist of the name or part of the name of any existing sole proprietor or existing partner of the law firm;\n(b)consist of the names or parts of the names of 2 or more of the existing partners of the law firm; or\n(c)with the approval of the Director of Legal Services, consist wholly or partly of the name or part of the name of any former sole proprietor or former partner of the law firm.\n(2) The name or part of the name of any existing sole proprietor or existing partner of a law firm which is to constitute the name of the law firm must be in accordance with the name of that sole proprietor or partner that appears in the practising certificate of that sole proprietor or partner at the time of the application under section 131(1) of the Act."
+   }
+  },
+  {
+   "id": "SG-H2994-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 LAW FIRMS"
+   },
+   "heading": {
+    "en": "Initials and acronyms"
+   },
+   "text": {
+    "en": "9.—(1) Subject to paragraph (2), the name of a law firm must not consist of any acronym or solely of initials, but may include the initials or part of the initials of any existing or former sole proprietor or partner of the law firm.\n(2) Subject to rule 10, the name of a law firm may, in a logo of the law firm, be stated in the form of an acronym or by initials only."
+   }
+  },
+  {
+   "id": "SG-H2994-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 LAW FIRMS"
+   },
+   "heading": {
+    "en": "Name of law firm not to be descriptive of services provided"
+   },
+   "text": {
+    "en": "10.—(1) Subject to paragraph (2), the name of a law firm must not contain any words which are descriptive of the services provided by, or the areas of practice of, the law firm.\n(2) The words “A Law Firm” or “Advocates and Solicitors” may appear immediately after the name of a law firm."
+   }
+  },
+  {
+   "id": "SG-H2994-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 LAW FIRMS"
+   },
+   "heading": {
+    "en": "Notification of change of particulars"
+   },
+   "text": {
+    "en": "11. Every law firm must, within 7 days after any change in any of the following particulars or in such other particulars of the law firm as the Director of Legal Services may require in any specific case, notify the Director of Legal Services of such change:\n(a)the particulars of its sole proprietor or partners;\n(b)the address of its registered office;\n(c)the number of its branch offices in Singapore or elsewhere (if any);\n(d)its telephone number and email address.\n[S 480/2018 wef 01/08/2018]"
+   }
+  },
+  {
+   "id": "SG-H2994-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 LAW FIRMS"
+   },
+   "heading": {
+    "en": "Submission of lodged documents"
+   },
+   "text": {
+    "en": "12. Every law firm must, within 7 days after lodging any document with the Registrar of Businesses, submit to the Director of Legal Services a copy of the lodged document, if required by the Director of Legal Services to do so."
+   }
+  },
+  {
+   "id": "SG-H2994-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 LAW FIRMS"
+   },
+   "heading": {
+    "en": "Appeal against decision of Director of Legal Services"
+   },
+   "text": {
+    "en": "13.—(1) An appeal under section 134(1) of the Act against a decision of the Director of Legal Services must be made within 28 days after the date of the decision that is appealed against.\n(2) The appeal must be made in writing and must specify the grounds on which it is made."
+   }
+  },
+  {
+   "id": "SG-H2994-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 LIMITED LIABILITY LAW PARTNERSHIPS"
+   },
+   "heading": {
+    "en": "Licensing of limited liability law partnership"
+   },
+   "text": {
+    "en": "14.—(1) An application under section 138(1) of the Act for the issue of a limited liability law partnership licence, and the approval of the name or proposed name of a limited liability law partnership, must be made in such form as the Director of Legal Services may require and must be accompanied by —\n(a)such documents, particulars and information as the Director of Legal Services may require; and\n(b)the appropriate fee specified in the First Schedule.\n(2) The Director of Legal Services may, in the interests of the legal profession or the public, reject the application.\n(3) If, at any time after a limited liability law partnership licence is issued under section 138(3) of the Act, the Director of Legal Services is satisfied that the application for the licence, or any certificate or other document accompanying that application, contains any substantially false statement or a suppression of any material fact, or that any such certificate or document was obtained by fraud or misrepresentation, the Director of Legal Services may cancel the licence.\n(4) For the purposes of section 138(4) of the Act, a limited liability law partnership licence issued to a limited liability law partnership is subject to the condition that the limited liability law partnership satisfies all general threshold requirements and all profit threshold requirements so long as the licence is in force.\n(5) The prescribed date for the purposes of section 138(7) and (9) of the Act is 18 November 2015."
+   }
+  },
+  {
+   "id": "SG-H2994-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 LIMITED LIABILITY LAW PARTNERSHIPS"
+   },
+   "heading": {
+    "en": "Name of limited liability law partnership"
+   },
+   "text": {
+    "en": "15.—(1) The name of a limited liability law partnership must be stated in the English language; but the name may, with the approval in writing of the Director of Legal Services, also be stated in any of the other official languages.\n(2) For the purposes of section 139(1) of the Act, the Director of Legal Services must not approve the name or proposed name of a limited liability law partnership if, in the opinion of the Director of Legal Services, the name or proposed name —\n(a)is misleading or detracts from the dignity of the legal profession;\n(b)is so similar to the name of another law practice entity, Singapore group practice or foreign group practice as to be likely to be confused with that other law practice entity, Singapore group practice or foreign group practice; or\n(c)is inconsistent with any rules made under section 71(2) of the Act.\n(3) The name of a limited liability law partnership cannot be changed without the prior approval in writing of the Director of Legal Services.\n(4) With effect from 18 November 2015, any application which was made before that date for the approval in writing of the Council under the repealed section 81R(3) of the Act as in force immediately before that date, and which is pending immediately before that date, is to be treated, on and after that date, as an application for the approval in writing of the Director of Legal Services under paragraph (3).\n(5) The Society may transfer to the Director of Legal Services the particulars of and any documents relating to any application referred to in paragraph (4)."
+   }
+  },
+  {
+   "id": "SG-H2994-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 LIMITED LIABILITY LAW PARTNERSHIPS"
+   },
+   "heading": {
+    "en": "Primary business"
+   },
+   "text": {
+    "en": "16. The primary business of a limited liability law partnership is the supply of legal services."
+   }
+  },
+  {
+   "id": "SG-H2994-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 LIMITED LIABILITY LAW PARTNERSHIPS"
+   },
+   "heading": {
+    "en": "Partners"
+   },
+   "text": {
+    "en": "17. Every partner of a limited liability law partnership must be —\n(a)a solicitor who has in force a practising certificate;\n(b)a foreign lawyer —\n(i)who —\n(A)is registered under section 36B or 36C of the Act, and practises in the limited liability law partnership; or\n(B)is registered under section 36D of the Act in relation to the limited liability law partnership; and\n(ii)who has approval under section 176(1) of the Act to be a partner in the limited liability law partnership; or\n(c)an individual registered under section 36G of the Act as a regulated non‑practitioner."
+   }
+  },
+  {
+   "id": "SG-H2994-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 LIMITED LIABILITY LAW PARTNERSHIPS"
+   },
+   "heading": {
+    "en": "Notification of transfer of business"
+   },
+   "text": {
+    "en": "18.—(1) Every limited liability law partnership to which the business of a law firm or law corporation has been transferred must, within 7 days after the transfer, give notice in writing to every client of the law firm or law corporation of the transfer and that with effect from the date of the transfer —\n(a)the limited liability law partnership replaces the law firm or law corporation as the provider of legal services to the client;\n(b)the possession of any documents held by the law firm or law corporation for or on behalf of that client are transferred to the limited liability law partnership to be held for or on behalf of that client; and\n(c)any money or funds held by the law firm or law corporation for or on account of that client are transferred to the limited liability law partnership to be held for or on account of that client.\n(2) Every client to whom a notice under paragraph (1) has been given must, if the client objects to any of the matters referred to in paragraph (1)(a), (b) or (c), notify the limited liability law partnership of such objection within 14 days after the receipt of the notice.\n(3) Every client who does not give notice of the client’s objection under paragraph (2) is to be treated as having consented to the matters specified in paragraph (1)(a), (b) and (c)."
+   }
+  },
+  {
+   "id": "SG-H2994-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 LIMITED LIABILITY LAW PARTNERSHIPS"
+   },
+   "heading": {
+    "en": "Notification of change of particulars"
+   },
+   "text": {
+    "en": "19. Every limited liability law partnership must, within 7 days after any change in any of the following particulars or in such other particulars of the limited liability law partnership as the Director of Legal Services may require in any specific case, notify the Director of Legal Services of such change:\n(a)the particulars of its partners;\n(b)the address of its registered office;\n(c)the number of its branch offices in Singapore or elsewhere (if any);\n(d)its telephone number and email address.\n[S 480/2018 wef 01/08/2018]"
+   }
+  },
+  {
+   "id": "SG-H2994-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 LIMITED LIABILITY LAW PARTNERSHIPS"
+   },
+   "heading": {
+    "en": "Submission of lodged documents"
+   },
+   "text": {
+    "en": "20. Every limited liability law partnership must, within 7 days after lodging any document with the Registrar of Limited Liability Partnerships, submit to the Director of Legal Services a copy of the lodged document, if required by the Director of Legal Services to do so."
+   }
+  },
+  {
+   "id": "SG-H2994-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 LIMITED LIABILITY LAW PARTNERSHIPS"
+   },
+   "heading": {
+    "en": "Accounts"
+   },
+   "text": {
+    "en": "21. The following Rules relating to the keeping of accounts by solicitors apply, with the necessary modifications, to limited liability law partnerships:\n(a)the Legal Profession (Deposit Interest) Rules (R 5);\n(b)the Legal Profession (Solicitors’ Accounts) Rules (R 8);\n(c)the Legal Profession (Solicitors’ Trust Accounts) Rules (R 9);\n(d)the Legal Profession (Accountant’s Report) Rules (R 10)."
+   }
+  },
+  {
+   "id": "SG-H2994-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 3 LIMITED LIABILITY LAW PARTNERSHIPS"
+   },
+   "heading": {
+    "en": "Relationship between client and limited liability law partnership with related law corporation"
+   },
+   "text": {
+    "en": "22. Section 141(1) and (2) of the Act does not prevent a regulated legal practitioner who is a partner, an officer or an employee of a limited liability law partnership from practising concurrently in a law corporation that is related to the limited liability law partnership."
+   }
+  },
+  {
+   "id": "SG-H2994-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 3 LIMITED LIABILITY LAW PARTNERSHIPS"
+   },
+   "heading": {
+    "en": "Holding of shares in related law corporation"
+   },
+   "text": {
+    "en": "23.—(1) The exception to section 142(3)(a) of the Act is that a solicitor who is a partner or an employee of a limited liability law partnership may hold shares in a law corporation that is related to the limited liability law partnership.\n(2) The exception to section 142(5)(a)(i) of the Act is that a regulated foreign lawyer who is a partner or an employee of a limited liability law partnership may hold shares in a law corporation that is related to the limited liability law partnership.\n(3) The exception to section 142(5)(b)(i) of the Act is that a regulated non‑practitioner who is a partner or an employee of a limited liability law partnership may hold shares in a law corporation that is related to the limited liability law partnership."
+   }
+  },
+  {
+   "id": "SG-H2994-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 3 LIMITED LIABILITY LAW PARTNERSHIPS"
+   },
+   "heading": {
+    "en": "Concurrent appointments in limited liability law partnership and in related law corporation"
+   },
+   "text": {
+    "en": "24.—(1) Section 142(3)(b) of the Act does not apply to a solicitor who holds concurrent appointments as —\n(a)a partner or an employee of a limited liability law partnership; and\n(b)a director, a consultant or an employee of a law corporation that is related to the limited liability law partnership.\n(2) Section 142(5)(a)(ii) of the Act does not apply to a regulated foreign lawyer who holds concurrent appointments as —\n(a)a partner or an employee of a limited liability law partnership; and\n(b)a director, a consultant or an employee of a law corporation that is related to the limited liability law partnership.\n(3) Section 142(5)(b)(ii) of the Act does not apply to a regulated non‑practitioner who holds concurrent appointments as —\n(a)a partner or an employee of a limited liability law partnership; and\n(b)a director or an employee of a law corporation that is related to the limited liability law partnership."
+   }
+  },
+  {
+   "id": "SG-H2994-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 3 LIMITED LIABILITY LAW PARTNERSHIPS"
+   },
+   "heading": {
+    "en": "Appeal against decision of Director of Legal Services"
+   },
+   "text": {
+    "en": "25.—(1) An appeal under section 146(1) of the Act against a decision of the Director of Legal Services must be made within 28 days after the date of the decision that is appealed against.\n(2) The appeal must be made in writing and must specify the grounds on which it is made."
+   }
+  },
+  {
+   "id": "SG-H2994-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 LAW CORPORATIONS"
+   },
+   "heading": {
+    "en": "Licensing of law corporation"
+   },
+   "text": {
+    "en": "26.—(1) An application under section 153(1) of the Act for the issue of a law corporation licence, and the approval of the name or proposed name of a law corporation, must be made in such form as the Director of Legal Services may require and must be accompanied by —\n(a)such documents, particulars and information as the Director of Legal Services may require; and\n(b)the appropriate fee specified in the First Schedule.\n(2) The Director of Legal Services may, in the interests of the legal profession or the public, reject the application.\n(3) If, at any time after a law corporation licence is issued under section 153(3) of the Act, the Director of Legal Services is satisfied that the application for the licence, or any certificate or other document accompanying that application, contains any substantially false statement or a suppression of any material fact, or that any such certificate or document was obtained by fraud or misrepresentation, the Director of Legal Services may cancel the licence.\n(4) For the purposes of section 153(4) of the Act, a law corporation licence issued to a law corporation is subject to the condition that the law corporation satisfies all general threshold requirements and all profit threshold requirements so long as the licence is in force.\n(5) The prescribed date for the purposes of section 153(7) and (9) of the Act is 18 November 2015."
+   }
+  },
+  {
+   "id": "SG-H2994-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 4 LAW CORPORATIONS"
+   },
+   "heading": {
+    "en": "Memorandum and articles of association, or constitution"
+   },
+   "text": {
+    "en": "27. The memorandum and articles of association, or constitution, of a law corporation must provide for the matters specified in the Second Schedule."
+   }
+  },
+  {
+   "id": "SG-H2994-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 4 LAW CORPORATIONS"
+   },
+   "heading": {
+    "en": "Application for alteration of memorandum or articles of association, or constitution"
+   },
+   "text": {
+    "en": "28.—(1) Every law corporation must, before amending any provision of its memorandum or articles of association, or constitution, relating to or affecting the matters specified in the Second Schedule, apply to the Director of Legal Services for approval of the proposed amendment.\n(2) An application under paragraph (1) must be made in such form as the Director of Legal Services may require, and must be accompanied by such documents, particulars and information as the Director of Legal Services may require."
+   }
+  },
+  {
+   "id": "SG-H2994-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 4 LAW CORPORATIONS"
+   },
+   "heading": {
+    "en": "Name of law corporation"
+   },
+   "text": {
+    "en": "29.—(1) The name of a law corporation must be stated in the English language; but the name may, with the approval in writing of the Director of Legal Services, also be stated in any of the other official languages.\n(2) For the purposes of section 154(1) of the Act, the Director of Legal Services must not approve the name or proposed name of a law corporation if, in the opinion of the Director of Legal Services, the name or proposed name —\n(a)is misleading or detracts from the dignity of the legal profession;\n(b)is so similar to the name of another law practice entity, Singapore group practice or foreign group practice as to be likely to be confused with that other law practice entity, Singapore group practice or foreign group practice; or\n(c)is inconsistent with any rules made under section 71(2) of the Act.\n(3) Despite paragraph (2), the Director of Legal Services may approve, as the name or proposed name of a law corporation, a name which, in the opinion of the Director of Legal Services, is so similar to that of another Singapore law practice as to be likely to be confused with it, if the law corporation and the Singapore law practice are related.\n(4) The name of a law corporation cannot be changed without the prior approval in writing of the Director of Legal Services.\n(5) With effect from 18 November 2015, any application which was made before that date for the approval in writing of the Council under the repealed section 81C(5) of the Act as in force immediately before that date, and which is pending immediately before that date, is to be treated, on and after that date, as an application for the approval in writing of the Director of Legal Services under paragraph (4).\n(6) The Society may transfer to the Director of Legal Services the particulars of and any documents relating to any application referred to in paragraph (5)."
+   }
+  },
+  {
+   "id": "SG-H2994-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 4 LAW CORPORATIONS"
+   },
+   "heading": {
+    "en": "Notification of transfer of business"
+   },
+   "text": {
+    "en": "30.—(1) Every law corporation to which the business of a law firm or limited liability law partnership has been transferred must, within 7 days after the transfer, give notice in writing to every client of the law firm or limited liability law partnership of the transfer and that with effect from the date of the transfer —\n(a)the law corporation replaces the law firm or limited liability law partnership as the provider of legal services to the client;\n(b)the possession of any documents held by the law firm or limited liability law partnership for or on behalf of that client are transferred to the law corporation to be held for or on behalf of that client; and\n(c)any money or funds held by the law firm or limited liability law partnership for or on account of that client are transferred to the law corporation to be held for or on account of that client.\n(2) Every client to whom a notice under paragraph (1) has been given must, if the client objects to any of the matters referred to in paragraph (1)(a), (b) or (c), notify the law corporation of such objection within 14 days after the receipt of the notice.\n(3) Every client who does not give any notice of the client’s objection under paragraph (2) is to be treated as having consented to the matters specified in paragraph (1)(a), (b) and (c)."
+   }
+  },
+  {
+   "id": "SG-H2994-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 4 LAW CORPORATIONS"
+   },
+   "heading": {
+    "en": "Notification of change of particulars"
+   },
+   "text": {
+    "en": "31. Every law corporation must, within 7 days after any change in any of the following particulars or in such other particulars of the law corporation as the Director of Legal Services may require in any specific case, notify the Director of Legal Services of such change:\n(a)the particulars of its directors and shareholders;\n(b)the address of its registered office;\n(c)the number of its branch offices in Singapore or elsewhere (if any);\n(d)its telephone number and email address.\n[S 480/2018 wef 01/08/2018]"
+   }
+  },
+  {
+   "id": "SG-H2994-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 4 LAW CORPORATIONS"
+   },
+   "heading": {
+    "en": "Submission of lodged documents"
+   },
+   "text": {
+    "en": "32. Every law corporation must, within 7 days after lodging any document with the Registrar of Companies, submit to the Director of Legal Services a copy of the lodged document, if required by the Director of Legal Services to do so."
+   }
+  },
+  {
+   "id": "SG-H2994-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 4 LAW CORPORATIONS"
+   },
+   "heading": {
+    "en": "Accounts"
+   },
+   "text": {
+    "en": "33. The following Rules relating to the keeping of accounts by solicitors apply, with the necessary modifications, to law corporations:\n(a)the Legal Profession (Deposit Interest) Rules (R 5);\n(b)the Legal Profession (Solicitors’ Accounts) Rules (R 8);\n(c)the Legal Profession (Solicitors’ Trust Accounts) Rules (R 9);\n(d)the Legal Profession (Accountant’s Report) Rules (R 10)."
+   }
+  },
+  {
+   "id": "SG-H2994-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 4 LAW CORPORATIONS"
+   },
+   "heading": {
+    "en": "Relationship between client and law corporation with related Singapore law practice"
+   },
+   "text": {
+    "en": "34. Section 156(1) and (2) of the Act does not prevent a regulated legal practitioner who is an officer or employee of a law corporation from practising concurrently in a Singapore law practice that is related to the law corporation."
+   }
+  },
+  {
+   "id": "SG-H2994-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 4 LAW CORPORATIONS"
+   },
+   "heading": {
+    "en": "Concurrent appointments in law corporation and in related Singapore law practice"
+   },
+   "text": {
+    "en": "35.—(1) The exception to section 157(3)(a) of the Act is that a solicitor who is a director or an employee of a law corporation may hold shares in another law corporation that is related to the law corporation.\n(2) Section 157(3)(b) of the Act does not apply to a solicitor who holds concurrent appointments as —\n(a)a director, a consultant or an employee of a law corporation; and\n(b)a director, a consultant or an employee of another law corporation that is related to the law corporation.\n(3) Section 157(3)(c) of the Act does not apply to a solicitor who holds concurrent appointments as —\n(a)a director or an employee of a law corporation; and\n(b)a partner, a consultant or an employee of a law firm or limited liability law partnership that is related to the law corporation.\n(4) Section 157(3)(d) of the Act does not apply to a solicitor who holds concurrent appointments as —\n(a)a director or an employee of a law corporation; and\n(b)the sole proprietor of a law firm that is related to the law corporation.\n(5) The exception to section 157(5)(a)(i) of the Act is that a regulated foreign lawyer who is a director or an employee of a law corporation may hold shares in another law corporation that is related to the law corporation.\n(6) Section 157(5)(a)(ii) of the Act does not apply to a regulated foreign lawyer who holds concurrent appointments as —\n(a)a director, a consultant or an employee of a law corporation; and\n(b)a director, a consultant or an employee of another law corporation that is related to the law corporation.\n(7) Section 157(5)(a)(iii) of the Act does not apply to a regulated foreign lawyer who holds concurrent appointments as —\n(a)a director or an employee of a law corporation; and\n(b)a partner, a consultant or an employee of a law firm or limited liability law partnership that is related to the law corporation.\n(8) The exception to section 157(5)(b)(i) of the Act is that a regulated non‑practitioner who is a director or an employee of a law corporation may hold shares in another law corporation that is related to the law corporation.\n(9) Section 157(5)(b)(ii) of the Act does not apply to a regulated non‑practitioner who holds concurrent appointments as —\n(a)a director or an employee of a law corporation; and\n(b)a director or an employee of another law corporation that is related to the law corporation.\n(10) Section 157(5)(b)(iii) of the Act does not apply to a regulated non‑practitioner who holds concurrent appointments as —\n(a)a director or an employee of a law corporation; and\n(b)a partner or an employee of a law firm or limited liability law partnership that is related to the law corporation."
+   }
+  },
+  {
+   "id": "SG-H2994-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 4 LAW CORPORATIONS"
+   },
+   "heading": {
+    "en": "Holding of shares in law corporation with related Singapore law practice"
+   },
+   "text": {
+    "en": "36.—(1) For the purposes of section 159(2) of the Act, all the shares in a law corporation may be held by another law corporation, or by a limited liability law partnership, that is related to the law corporation.\n(2) The exception to section 159(4)(a) of the Act is that a person who holds shares in a law corporation may hold shares in another law corporation that is related to the law corporation.\n(3) Section 159(4)(b) of the Act does not apply to a director, a consultant or an employee of a law corporation who holds shares in another law corporation that is related to the law corporation.\n(4) Section 159(4)(c) of the Act does not apply to a partner, a consultant or an employee of a law firm or limited liability law partnership who holds shares in a law corporation that is related to the law firm or limited liability law partnership (as the case may be).\n(5) Section 159(4)(d) of the Act does not apply to a sole proprietor of a law firm who holds shares in a law corporation that is related to the law firm."
+   }
+  },
+  {
+   "id": "SG-H2994-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 4 LAW CORPORATIONS"
+   },
+   "heading": {
+    "en": "Holding of shares in law corporation by foreign lawyer, foreign law practice or regulated non-practitioner"
+   },
+   "text": {
+    "en": "37.—(1) For the purposes of section 159(2) of the Act, any of the following persons may hold shares in a law corporation:\n(a)any foreign lawyer —\n(i)who —\n(A)is registered under section 36B or 36C of the Act, and practises in the law corporation; or\n(B)is registered under section 36D of the Act in relation to the law corporation; and\n(ii)who has approval under section 176(1) of the Act to be a shareholder of the law corporation;\n(b)any foreign law practice to which the Director of Legal Services has granted approval under section 176(9) of the Act to be a shareholder of the law corporation;\n(c)an individual registered under section 36G of the Act as a regulated non‑practitioner.\n(2) For the purposes of section 159(2) of the Act —\n(a)the persons (if any) referred to in paragraph (1)(a) and the persons (if any) referred to in paragraph (1)(b), collectively, must not hold more than one‑third of the total number of shares in the law corporation;\n(b)the persons (if any) referred to in paragraph (1)(c) must not hold more than 25% of the total number of shares in the law corporation; and\n(c)where there are one or more persons referred to in paragraph (1)(a) and (b), and one or more persons referred to in paragraph (1)(c), who hold shares in the law corporation, all of them, collectively, must not hold more than 35% of the total number of shares in the law corporation.\n(3) A foreign lawyer referred to in paragraph (1)(a) ceases to be eligible to hold shares in a law corporation if —\n(a)the registration of the foreign lawyer under section 36B, 36C or 36D of the Act is cancelled or suspended under section 36H(6) or 98 of the Act, or is cancelled under section 36I(8) of the Act; or\n(b)the approval under section 176(1) of the Act in respect of the foreign lawyer lapses under section 176(3) of the Act, is cancelled under section 177(3) of the Act, or is cancelled or suspended under section 98 of the Act.\n(4) A foreign law practice referred to in paragraph (1)(b) ceases to be eligible to hold shares in a law corporation if the approval under section 176(9) of the Act in respect of the foreign law practice is cancelled under section 177(7) of the Act.\n(5) A regulated non‑practitioner referred to in paragraph (1)(c) ceases to be eligible to hold shares in the law corporation if —\n(a)the registration of the regulated non‑practitioner under section 36G of the Act is cancelled or suspended under section 36H(6) of the Act, or is cancelled under section 36I(8) of the Act; or\n(b)the regulated non‑practitioner is ordered under section 98 of the Act read with section 82B(3) of the Act to divest himself or herself of any shares he or she may have in the law corporation.\n(6) Where a foreign lawyer, foreign law practice or regulated non‑practitioner has ceased to be eligible to hold shares in a law corporation, the Director of Legal Services may, upon an application made by the foreign lawyer, foreign law practice, regulated non‑practitioner or law corporation, grant the foreign lawyer, foreign law practice or regulated non‑practitioner a grace period of not more than 2 years to transfer the shares of the foreign lawyer, foreign law practice or regulated non‑practitioner in the law corporation.\n(7) Where a foreign lawyer or regulated non‑practitioner who holds shares in a law corporation dies, is adjudged a bankrupt or becomes incapable to act by reason of mental or physical disability, the Director of Legal Services may allow the executor or administrator of the estate of the foreign lawyer or regulated non‑practitioner, or any other person, to hold the shares of the foreign lawyer or regulated non‑practitioner in the law corporation for a grace period of not more than 2 years.\n(8) The grace period of not more than 2 years referred to in paragraph (7) commences —\n(a)in the case of death, from the date the executor or administrator is appointed or the date the probate or letters of administration are granted, whichever is the later;\n(b)in the case of bankruptcy, from the date the foreign lawyer or regulated non‑practitioner is adjudged a bankrupt; or\n(c)in the case of incapacity by reason of mental or physical disability, from the date the foreign lawyer or regulated non‑practitioner becomes incapable to act.\n(9) The foreign lawyer, foreign law practice or regulated non‑practitioner referred to in paragraph (6) or the executor, administrator or other person referred to in paragraph (7) must not, during the grace period of 2 years, exercise any voting rights attached to the shares in the law corporation or take part or be concerned in the management or practice of the law corporation."
+   }
+  },
+  {
+   "id": "SG-H2994-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 4 LAW CORPORATIONS"
+   },
+   "heading": {
+    "en": "Savings and transitional provisions for certain approvals required by person holding shares in law corporation"
+   },
+   "text": {
+    "en": "38.—(1) Every approval of the Council under the repealed section 81H(4) of the Act as in force immediately before 18 November 2015 (being an approval in force immediately before that date) is to be treated, on and after that date, as an approval of the Director of Legal Services under section 159(4) of the Act.\n(2) With effect from 18 November 2015, any application which was made before that date for the approval of the Council under the repealed section 81H(4) of the Act as in force immediately before that date, and which is pending immediately before that date, is to be treated, on and after that date, as an application for the approval of the Director of Legal Services under section 159(4) of the Act.\n(3) The Society may transfer to the Director of Legal Services —\n(a)the particulars of and any documents relating to any approval of the Council referred to in paragraph (1); and\n(b)the particulars of and any documents relating to any application referred to in paragraph (2)."
+   }
+  },
+  {
+   "id": "SG-H2994-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 4 LAW CORPORATIONS"
+   },
+   "heading": {
+    "en": "Appeal against decision of Director of Legal Services"
+   },
+   "text": {
+    "en": "39.—(1) An appeal under section 162(1) of the Act against a decision of the Director of Legal Services must be made within 28 days after the date of the decision that is appealed against.\n(2) The appeal must be made in writing and must specify the grounds on which it is made."
+   }
+  },
+  {
+   "id": "SG-H2994-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 5 SINGAPORE GROUP PRACTICES"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "40.—(1) This Part applies to all Singapore law practices within a Singapore group practice.\n[S 480/2018 wef 01/08/2018]\n(2) Without prejudice to any other written law or rule of law, this Part governs —\n(a)the relationship between the Singapore law practices in a Singapore group practice; and\n[S 480/2018 wef 01/08/2018]\n(b)the dealings of those Singapore law practices with clients and other persons outside the Singapore group practice.\n[S 480/2018 wef 01/08/2018]\n(3) [Deleted by S 480/2018 wef 01/08/2018]"
+   }
+  },
+  {
+   "id": "SG-H2994-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 5 SINGAPORE GROUP PRACTICES"
+   },
+   "heading": {
+    "en": "Approval of formation and name of Singapore group practice"
+   },
+   "text": {
+    "en": "41.—(1) The sole proprietors, partners and directors of the Singapore law practices which wish to practise as a Singapore group practice must apply to the Director of Legal Services for —\n(a)approval to form the Singapore group practice; and\n(b)approval of the proposed name of the Singapore group practice (including the manner in which that name will be used in conjunction with the name of each Singapore law practice in the Singapore group practice).\n[S 480/2018 wef 01/08/2018]\n[S 480/2018 wef 01/08/2018]\n(2) An application under paragraph (1) must be made in such form as the Director of Legal Services may require, and must be accompanied by —\n(a)such documents, particulars and information as the Director of Legal Services may require; and\n(b)the appropriate fee specified in the First Schedule.\n(3) The Director of Legal Services may, on receiving an application under paragraph (1), approve the formation and name of a Singapore group practice, subject to such conditions as the Director of Legal Services may think fit to impose in any particular case.\n(4) If an approval under paragraph (3) is granted, the Director of Legal Services must issue the applicants a certificate of approval.\n(5) A Singapore law practice must not practise as a member of a Singapore group practice unless —\n(a)there are at least 2 Singapore law practices constituting the Singapore group practice; and\n[S 480/2018 wef 01/08/2018]\n(b)the Director of Legal Services approves under paragraph (3) the formation and name of the Singapore group practice.\n[S 480/2018 wef 01/08/2018]\n(6) The Director of Legal Services must not approve a proposed name of a Singapore group practice if, in the opinion of the Director of Legal Services, the proposed name —\n(a)is misleading or detracts from the dignity of the legal profession;\n(b)is so similar to the name of another law practice entity, Singapore group practice or foreign group practice as to be likely to be confused with that other law practice entity, Singapore group practice or foreign group practice; or\n(c)is inconsistent with any rules made under section 71(2) of the Act.\n(7) The name of a Singapore group practice cannot be changed without the prior approval in writing of the Director of Legal Services.\n(8) Despite paragraphs (6) and (7), where the Director of Legal Services is satisfied that the name of a Singapore group practice has been approved (whether through inadvertence or otherwise and whether originally or by change of name) in contravention of paragraph (6), or that any Singapore law practice has withdrawn from a Singapore group practice —\n(a)the Director of Legal Services may direct that the name of the Singapore group practice be changed to such other name as the Director of Legal Services may approve; and\n(b)the Singapore group practice must comply with that direction within 6 weeks after the date of that direction or such longer period as the Director of Legal Services may allow.\n[S 480/2018 wef 01/08/2018]\n(9) If a Singapore group practice fails to comply with any direction under paragraph (8), the sole proprietors, partners and directors of the Singapore law practices constituting the Singapore group practice must immediately cease to practise under the name of the Singapore group practice.\n[S 480/2018 wef 01/08/2018]\n(10) Any Singapore law practice which joins or withdraws from a Singapore group practice must, within 7 days after such joining or withdrawal, notify the Director of Legal Services of such joining or withdrawal.\n[S 480/2018 wef 01/08/2018]\n(11) Every Singapore group practice must, within 7 days after any change in such particulars of the Singapore group practice as the Director of Legal Services may require in any specific case, notify the Director of Legal Services of such change.\n(12) Where a Singapore group practice ceases to be constituted by at least 2 Singapore law practices (for example, after the withdrawal of any Singapore law practice from the Singapore group practice) —\n(a)the Singapore group practice is dissolved; and\n(b)a Singapore law practice which had constituted the Singapore group practice must cease to hold itself out as a member of the Singapore group practice.\n[S 480/2018 wef 01/08/2018]\n(13) If, at any time after the Director of Legal Services has approved under paragraph (3) the formation and name of a Singapore group practice, the Director of Legal Services is satisfied that the application for the approval, or any certificate or other document accompanying that application, contains any substantially false statement or a suppression of any material fact, or that any such certificate or document was obtained by fraud or misrepresentation —\n(a)the Director of Legal Services may cancel the approval; and\n(b)upon the cancellation of the approval, the certificate of approval issued in respect of the approval ceases to be in force.\n(14) The Director of Legal Services must maintain a register of Singapore group practices and the Singapore law practices in each Singapore group practice.\n[S 480/2018 wef 01/08/2018]\n(15) Every group practice the name of which was approved by the Council under rule 6 of the revoked Legal Profession (Group Practice) Rules (R 19, 2001 Ed.) as in force before 18 November 2015, and which continues to exist immediately before that date, is to be treated, on and after that date, as a Singapore group practice the formation and name of which are approved by the Director of Legal Services under paragraph (3).\n(16) The Society may transfer to the Director of Legal Services the particulars of any group practice referred to in paragraph (15) (including the particulars of the Singapore law practices in that group practice), and the Director of Legal Services may, upon receiving those particulars, issue an approval under paragraph (3) in respect of that group practice, without any action on the part of that group practice or the sole proprietors, partners and directors of the Singapore law practices in that group practice.\n[S 480/2018 wef 01/08/2018]\n(17) With effect from 18 November 2015, any application which was made before that date under rule 6(4) of the revoked Legal Profession (Group Practice) Rules as in force immediately before that date, and which is pending immediately before that date, is to be treated, on and after that date, as an application under paragraph (1).\n(18) The Society may transfer to the Director of Legal Services the particulars of and any documents relating to any application referred to in paragraph (17)."
+   }
+  },
+  {
+   "id": "SG-H2994-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 5 SINGAPORE GROUP PRACTICES"
+   },
+   "heading": {
+    "en": "Purpose of Singapore group practice"
+   },
+   "text": {
+    "en": "42.—(1) The purpose of a Singapore group practice is to enable the Singapore law practices in the Singapore group practice to come together in mutual cooperation without being partners of each other.\n[S 480/2018 wef 01/08/2018]\n(2) Subject to any other written law or rule of law, a Singapore law practice in a Singapore group practice may instruct another Singapore law practice in the Singapore group practice to undertake work entrusted by a client to the instructing Singapore law practice, unless the client gives any written instruction to the contrary.\n[S 480/2018 wef 01/08/2018]\n(3) A solicitor in a Singapore law practice in a Singapore group practice may, if the solicitor is a commissioner for oaths or notary public, attest to any document requiring the attestation of any client of another Singapore law practice in the Singapore group practice.\n[S 480/2018 wef 01/08/2018]"
+   }
+  },
+  {
+   "id": "SG-H2994-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 5 SINGAPORE GROUP PRACTICES"
+   },
+   "heading": {
+    "en": "Description of Singapore group practice"
+   },
+   "text": {
+    "en": "43.—(1) A Singapore group practice must bear a name which describes the Singapore group practice as a Singapore group practice.\n(2) The Director of Legal Services may waive the requirement under paragraph (1) in any particular case.\n(3) A Singapore law practice which is not a member of a Singapore group practice must not describe itself as a Singapore group practice.\n[S 480/2018 wef 01/08/2018]\n(4) A Singapore law practice in a Singapore group practice may in the course of its professional undertakings and in any document in which its name appears, including its letterheads, nameplates and business calling cards, use the name of the Singapore group practice in conjunction with its own name.\n[S 480/2018 wef 01/08/2018]"
+   }
+  },
+  {
+   "id": "SG-H2994-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 5 SINGAPORE GROUP PRACTICES"
+   },
+   "heading": {
+    "en": "Management of Singapore group practice"
+   },
+   "text": {
+    "en": "44.—(1) A Singapore group practice may be managed by a person (called in this rule and rules 45 and 46 the manager) who —\n(a)need not be any Singapore law practice in the Singapore group practice; and\n(b)need not be a sole proprietor, partner or director of any Singapore law practice in the Singapore group practice.\n[S 480/2018 wef 01/08/2018]\n(2) The manager may provide, or the Singapore law practices in a Singapore group practice may otherwise share, the infrastructure and management services which may be required for the efficient and proper functioning of the Singapore group practice.\n[S 480/2018 wef 01/08/2018]\n(3) In this rule —\n“infrastructure” includes the premises in which a Singapore group practice operates, furnishings, law books, office and related equipment and paraphernalia, utilities, and electronic services for the purpose of searches and research;\n“management services” includes all aspects of the management of a Singapore group practice, such as the hiring and termination of secretarial, clerical and other staff or agents of the Singapore group practice, but does not include any aspect which a Singapore law practice in the Singapore group practice has by these Rules or by contract agreed to provide for itself.\n[S 480/2018 wef 01/08/2018]"
+   }
+  },
+  {
+   "id": "SG-H2994-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 5 SINGAPORE GROUP PRACTICES"
+   },
+   "heading": {
+    "en": "Bank account"
+   },
+   "text": {
+    "en": "45.—(1) Where a Singapore group practice does not have a manager, the Singapore law practices in the Singapore group practice may open and operate a common office account.\n[S 480/2018 wef 01/08/2018]\n(2) Where a Singapore group practice has a manager, the Singapore law practices in the Singapore group practice may open and operate a common office account for the purpose of meeting common expenses not borne by the manager.\n[S 480/2018 wef 01/08/2018]\n(3) Each Singapore law practice in a Singapore group practice must maintain, separately from the other Singapore law practices in the Singapore group practice —\n(a)its own client account;\n(b)if it holds or receives (or will hold or receive) any conveyancing money, its own conveyancing account; and\n(c)if it is appointed to act for the Central Provident Fund Board in any conveyancing transaction, its own conveyancing (CPF) account.\n[S 480/2018 wef 01/08/2018]"
+   }
+  },
+  {
+   "id": "SG-H2994-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 5 SINGAPORE GROUP PRACTICES"
+   },
+   "heading": {
+    "en": "Separate liability"
+   },
+   "text": {
+    "en": "46.—(1) Each Singapore law practice in a Singapore group practice —\n(a)is liable for the debts and liabilities of that Singapore law practice; and\n(b)must keep the manager (if any) of and other Singapore law practices in the Singapore group practice, and the estates of the manager (if any) and of every sole proprietor or partner of any other Singapore law practice (being a law firm) in the Singapore group practice, indemnified against those debts and liabilities and against all actions, proceedings, costs, claims and demands in respect of those debts and liabilities.\n[S 480/2018 wef 01/08/2018]\n[S 480/2018 wef 01/08/2018]\n(2) Each Singapore law practice in a Singapore group practice must bear its own professional indemnity insurance premiums, accountancy and audit costs, and, where applicable, professional and similar subscriptions and levies payable to the Society and the Academy.\n[S 480/2018 wef 01/08/2018]"
+   }
+  },
+  {
+   "id": "SG-H2994-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 5 SINGAPORE GROUP PRACTICES"
+   },
+   "heading": {
+    "en": "Incapacity or death of sole proprietor"
+   },
+   "text": {
+    "en": "47. The sole proprietor of a law firm in a Singapore group practice must appoint in writing, for each matter in which the sole proprietor acts, a solicitor in another Singapore law practice in the Singapore group practice to act in place of the sole proprietor in the event of the sole proprietor’s incapacity or death.\n[S 480/2018 wef 01/08/2018]"
+   }
+  },
+  {
+   "id": "SG-H2994-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 5 SINGAPORE GROUP PRACTICES"
+   },
+   "heading": {
+    "en": "Appeal against decision of Director of Legal Services"
+   },
+   "text": {
+    "en": "48.—(1) Any person who is aggrieved by a decision of the Director of Legal Services under this Part may, within 28 days after the date of the decision, appeal to the Minister.\n(2) The appeal must be made in writing and must specify the grounds on which it is made.\n(3) In determining an appeal under this rule, the Minister may —\n(a)confirm, vary or reverse the decision of the Director of Legal Services; or\n(b)direct the Director of Legal Services to reconsider the decision."
+   }
+  },
+  {
+   "id": "SG-H2994-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Licence required to provide legal services"
+   },
+   "text": {
+    "en": "49. A foreign law practice must not provide any legal services in or from Singapore unless it is licensed under Division 4 of Part IXA of the Act to provide such legal services."
+   }
+  },
+  {
+   "id": "SG-H2994-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Permitted areas of legal practice"
+   },
+   "text": {
+    "en": "50.—(1) For the purposes of the definition of “permitted areas of legal practice” in section 168(1) of the Act, the areas of legal practice to be excluded from the ambit of that definition are as follows:\n(a)constitutional and administrative law;\n(b)conveyancing;\n(c)criminal law;\n(d)family law;\n(e)succession law, including matters relating to wills, intestate succession and probate and administration;\n(f)trust law, in any case where the settlor is an individual;\n(g)appearing or pleading in any court in Singapore, representing a client in any proceedings instituted in such a court or giving advice, the main purpose of which is to advise the client on the conduct of such proceedings, except where such appearance, pleading, representation or advice is otherwise permitted under the Act or rule 52(3) to (6), 57(2), (3) and (4) or 59(6), (7) and (8) or any other written law;\n(h)appearing in any hearing before a quasi-judicial or regulatory body, authority or tribunal in Singapore, except where such appearance is otherwise permitted under the Act or any other written law.\n(2) Sub‑paragraphs (a) and (c) of paragraph (1) do not exclude, from the ambit of the definition of “permitted areas of legal practice” in section 168(1) of the Act, the giving of advice on any area of legal practice referred to in those sub-paragraphs the main purpose of which is to advise a business entity on commercial and corporate law.\n(3) In this rule —\n“business entity” means any sole proprietorship, partnership or body corporate, with or without limited liability, which engages in any business;\n“conveyancing” does not include any securitisation transaction involving immovable property or the giving of advice on land law in the course of advisory work on a commercial transaction;\n“quasi-judicial or regulatory body, authority or tribunal” does not include any body, authority or tribunal specified in the Third Schedule;\n“securitisation transaction” has the same meaning as in section 262(3) of the Securities and Futures Act (Cap. 289)."
+   }
+  },
+  {
+   "id": "SG-H2994-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Application for Joint Law Venture licence"
+   },
+   "text": {
+    "en": "51.—(1) A Joint Law Venture may be constituted by —\n(a)a partnership between a foreign law practice and a Singapore law practice; or\n(b)the incorporation of a company under Singapore law, with the shares in the company being held by a foreign law practice and a Singapore law practice or by their respective nominees.\n(2) The following conditions apply to an application by a foreign law practice and a Singapore law practice for a Joint Law Venture licence under section 169(1) of the Act:\n(a)the foreign law practice and the Singapore law practice must have relevant legal expertise and experience which are acceptable to the Director of Legal Services in any of the following areas of legal practice:\n(i)banking law;\n(ii)finance law;\n(iii)corporate law;\n(iv)arbitration;\n(v)intellectual property law;\n(vi)maritime law;\n(vii)any other areas of legal practice that facilitate or assist in the growth and development of the Singapore economy;\n(b)the foreign law practice must have 5 or more foreign lawyers resident in Singapore, each of whom has at least 5 years of relevant legal expertise and experience in any of the areas of legal practice referred to in sub-paragraph (a);\n(c)at least 2 of the foreign lawyers referred to in sub‑paragraph (b) must be equity partners in the foreign law practice or, in the case of a foreign law practice constituted as a corporation, equity holding directors of the foreign law practice;\n[S 480/2018 wef 01/08/2018]\n(d)the Singapore law practice must have 5 or more solicitors, each of whom has at least 5 years of relevant legal expertise and experience in any of the areas of legal practice referred to in sub-paragraph (a);\n(e)at least 2 of the solicitors referred to in sub-paragraph (d) must be equity partners in the Singapore law practice or, in the case of a law corporation, equity holding directors of the law corporation;\n[S 480/2018 wef 01/08/2018]\n(f)if the Joint Law Venture is to be constituted as a partnership, and the foreign law practice is not a Qualifying Foreign Law Practice, the number of equity partners in the foreign law practice who are resident in Singapore must not at any time be greater than the number of equity partners in the Singapore law practice;\n(g)if the Joint Law Venture is to be constituted as a corporation, and the foreign law practice is not a Qualifying Foreign Law Practice, the number of directors nominated by the foreign law practice must not at any time be greater than the number of directors nominated by the Singapore law practice;\n(h)the foreign law practice and the Singapore law practice have entered into a written agreement to jointly manage the Joint Law Venture and, if requested, must submit a copy of such agreement to the Director of Legal Services;\n(i)the foreign law practice and the Singapore law practice must submit an agreed written business plan describing the objectives of the Joint Law Venture and the implementation of the business plan (including plans to transfer legal and other related skills, expertise, know-how or technology of the foreign law practice to the Singapore law practice).\n(3) For the purposes of determining whether a solicitor or foreign lawyer satisfies the period of relevant legal expertise and experience required under paragraph (2), the following periods must be disregarded:\n(a)any period spent attending any course of instruction, course of study or postgraduate education not required to satisfy any applicable requirements relating to continuing professional development; and\n(b)any period spent in serving any articles, period of pupillage, practice training period or other period of supervised training in relation to the practice of law (by whatever name called).\n(4) The Director of Legal Services must notify the applicants in writing of the decision of the Director of Legal Services under section 169(2) of the Act.\n(5) If an application for a Joint Law Venture licence under section 169(1) of the Act is granted, the Director of Legal Services must issue the applicants a Joint Law Venture licence.\n(6) If, at any time after a Joint Law Venture licence is issued under section 169 of the Act, the Director of Legal Services is satisfied that the application for the licence, or any certificate or other document accompanying that application, contains any substantially false statement or a suppression of any material fact, or that any such certificate or document was obtained by fraud or misrepresentation, the Director of Legal Services may cancel the licence.\n(7) The prescribed date for the purposes of section 169(12) and (14) of the Act is 18 November 2015."
+   }
+  },
+  {
+   "id": "SG-H2994-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Privileges and conditions relevant to Joint Law Venture licence"
+   },
+   "text": {
+    "en": "52.—(1) Subject to the provisions of these Rules, a Joint Law Venture may —\n(a)practise in the areas of legal practice mutually agreed between the constituent law practices constituting the Joint Law Venture;\n(b)market or publicise itself as a single service provider competent to provide legal services in all areas which the constituent law practices are qualified to provide; and\n(c)bill its clients as if it were a single law practice.\n(2) A Joint Law Venture must not practise Singapore law except —\n(a)in the permitted areas of legal practice; and\n(b)through —\n(i)a solicitor who practises in the constituent Singapore law practice of the Joint Law Venture;\n(ii)a solicitor registered under section 36E of the Act who practises in the Joint Law Venture or its constituent foreign law practice; or\n(iii)a foreign lawyer registered under section 36B of the Act who practises in the Joint Law Venture, its constituent foreign law practice or its constituent Singapore law practice.\n(3) Despite paragraph (2), a Joint Law Venture may do all or any of the following through an individual in paragraph (4):\n(a)appear and plead in any relevant proceedings, or in any proceedings that are preliminary to any relevant proceedings;\n[S 254/2022 wef 01/04/2022]\n(b)appear and plead in the appellate court in any relevant appeal, or in any proceedings that are preliminary to any relevant appeal;\n[S 1052/2020 wef 02/01/2021]\n[S 254/2022 wef 01/04/2022]\n[S 752/2022 wef 01/10/2022]\n(c)represent any party to —\n(i)any relevant proceedings or relevant appeal in any matter concerning those proceedings or that appeal, as the case may be; or\n(ii)any proceedings that are preliminary to any relevant proceedings or relevant appeal in any matter concerning those preliminary proceedings;\n[S 254/2022 wef 01/04/2022]\n(d)give advice, prepare documents and provide any other assistance in relation to or arising out of any relevant proceedings, any relevant appeal, or any proceedings that are preliminary to any relevant proceedings or relevant appeal.\n[S 254/2022 wef 01/04/2022]\n(4) For the purposes of paragraph (3), the individual is —\n(a)a solicitor who practises in the constituent Singapore law practice of the Joint Law Venture;\n(b)a solicitor registered under section 36E of the Act who practises in the Joint Law Venture or its constituent foreign law practice; or\n(c)a foreign lawyer granted full registration under section 36P of the Act who —\n(i)is also registered under section 36B or 36C of the Act; and\n(ii)practises in the Joint Law Venture, its constituent foreign law practice or its constituent Singapore law practice.\n(4A) Despite paragraph (3), a Joint Law Venture may not, in any section 36P(1A) proceedings, do any of the following through an individual in paragraph (4)(b):\n(a)plead any matter without the permission of the Singapore International Commercial Court or the appellate court (as the case may be) under rule 14(1A)(a) of the Legal Profession (Regulated Individuals) Rules 2015 (G.N. No. S 701/2015);\n(b)make a submission on any matter of Singapore law.\n[S 752/2022 wef 01/10/2022]\n(4B) Despite paragraph (3), a Joint Law Venture may not, in any section 36P(1A) proceedings, do any of the following through an individual in paragraph (4)(c):\n(a)plead any matter without the permission of the Singapore International Commercial Court or the appellate court (as the case may be) under section 36P(1A)(a) of the Act;\n(b)make a submission on any matter of Singapore law.\n[S 752/2022 wef 01/10/2022]\n(5) Despite paragraph (2), a Joint Law Venture may do all or any of the following through a foreign lawyer granted restricted registration under section 36P of the Act who is also registered under section 36B or 36C of the Act and practises in the Joint Law Venture, its constituent foreign law practice or its constituent Singapore law practice:\n(a)appear in any relevant proceedings, solely for the purposes of making submissions on such matters of foreign law as are permitted by the Singapore International Commercial Court or the appellate court, in accordance with the Rules of Court 2021 (G.N. No. S 914/2021);\n[S 1052/2020 wef 02/01/2021]\n[S 255/2022 wef 01/04/2022]\n[S 752/2022 wef 01/10/2022]\n(b)appear in the appellate court in any relevant appeal, solely for the purposes of making submissions on such matters of foreign law as are permitted by the Singapore International Commercial Court or the appellate court, in accordance with the Rules of Court 2021;\n[S 1052/2020 wef 02/01/2021]\n[S 255/2022 wef 01/04/2022]\n[S 752/2022 wef 01/10/2022]\n(c)give advice and prepare documents, solely for the purposes of making submissions, in any relevant proceedings or relevant appeal, on such matters of foreign law as are permitted by the Singapore International Commercial Court or the appellate court, in accordance with the Rules of Court 2021.\n[S 1052/2020 wef 02/01/2021]\n[S 255/2022 wef 01/04/2022]\n[S 752/2022 wef 01/10/2022]\n(6) A constituent foreign law practice of a Joint Law Venture must not practise law in or from Singapore, or do all or any of the things referred to in paragraphs (3)(a) to (d) and (5)(a), (b) and (c), except through the Joint Law Venture.\n(7) The number of solicitors registered under section 36E of the Act to practise Singapore law in a Joint Law Venture or its constituent foreign law practice must not at any time exceed —\n(a)in any case where the constituent foreign law practice is a Qualifying Foreign Law Practice, 4 times the total number of the following:\n(i)foreign lawyers registered under section 36B or 36C of the Act who practise in the Joint Law Venture or its constituent law practices;\n(ii)foreign lawyers registered under section 36D of the Act in relation to the constituent Singapore law practice of the Joint Law Venture; or\n[S 480/2018 wef 01/08/2018]\n(iii)[Deleted by S 480/2018 wef 01/08/2018]\n(b)in any other case, the total number of the following:\n(i)foreign lawyers registered under section 36B or 36C of the Act who practise in the Joint Law Venture or its constituent law practices;\n(ii)foreign lawyers registered under section 36D of the Act in relation to the constituent Singapore law practice of the Joint Law Venture.\n[S 480/2018 wef 01/08/2018]\n(iii)[Deleted by S 480/2018 wef 01/08/2018]\n(8) For the purposes of ascertaining the total number of foreign lawyers referred to in paragraph (7), “foreign lawyer” means any foreign lawyer who has practised law for not less than 3 years in any period after being authorised or registered to practise law.\n(9) Subject to paragraph (10) and the profit threshold requirements, a constituent foreign law practice of the Joint Law Venture may share in the profits of the constituent Singapore law practice of the Joint Law Venture.\n(10) Where a Joint Law Venture was constituted under a Joint Law Venture licence issued pursuant to an application for that licence made before 1 June 2012 under rule 4 of the revoked Legal Profession (International Services) Rules 2008 (G.N. No. S 481/2008) as in force before 18 November 2015, the total amount of payments made by the constituent Singapore law practice of the Joint Law Venture, during any financial year of that Singapore law practice, to the constituent foreign law practice of the Joint Law Venture under paragraph (9) must not exceed 49% of the total profits of that Singapore law practice during that financial year arising from the permitted areas of legal practice, based on the audited financial statement of that Singapore law practice for that financial year.\n(11) A solicitor may concurrently be —\n(a)a partner or director of a Joint Law Venture;\n(b)a partner or director of the constituent Singapore law practice of the Joint Law Venture; and\n(c)a partner or director of the constituent foreign law practice of the Joint Law Venture.\n(12) A foreign lawyer who is not a solicitor may, with the approval of the Director of Legal Services, concurrently be —\n(a)a partner or director of a Joint Law Venture or its constituent foreign law practice; and\n(b)a partner or director of the constituent Singapore law practice of the Joint Law Venture.\n(13) It is a condition of an approval under paragraph (12) that the constituent Singapore law practice of the Joint Law Venture satisfies all general threshold requirements and all profit threshold requirements so long as the approval is in force.\n(14) The Director of Legal Services must not grant an approval under paragraph (12) unless the Director of Legal Services is satisfied, at that time, that —\n(a)the constituent Singapore law practice of the Joint Law Venture satisfies all general threshold requirements; and\n(b)there is no actual or potential conflict of interests, if the foreign lawyer is allowed to concurrently be —\n(i)a partner or director of the Joint Law Venture or its constituent foreign law practice; and\n(ii)a partner or director of the constituent Singapore law practice of the Joint Law Venture.\n(15) The Director of Legal Services may cancel an approval granted to a foreign lawyer under paragraph (12) if the Director of Legal Services is satisfied, at that time, that —\n(a)the constituent Singapore law practice of the Joint Law Venture does not satisfy any of the general threshold requirements or profit threshold requirements; or\n(b)there is, or will be, any actual or potential conflict of interests, should the foreign lawyer continue to concurrently be —\n(i)a partner or director of the Joint Law Venture or its constituent foreign law practice; and\n(ii)a partner or director of the constituent Singapore law practice of the Joint Law Venture.\n(16) Every Joint Law Venture must maintain, throughout the period while its Joint Law Venture licence is in force, one or more insurance policies which provide indemnity against loss arising from claims in respect of civil liability in connection with the provision of legal services in or from Singapore by the Joint Law Venture.\n(17) The insurance policies referred to in paragraph (16) must be of similar coverage terms and for at least the amount required under any rules made under section 75A of the Act in respect of Singapore law practices or such other amount as may be specified by the Director of Legal Services.\n(18) The directors of a Joint Law Venture which is a limited company must ensure that every invoice or official correspondence of the Joint Law Venture bears the statement that it is incorporated with limited liability.\n(19) No material modification is to be made to an agreement referred to in rule 51(2)(h) or a business plan submitted under rule 51(2)(i) without the prior written approval of the Director of Legal Services.\n(20) The conditions in rule 51(2) continue to apply for so long as the Joint Law Venture licence is in force.\n(21) The Joint Law Venture must submit an annual report of its performance, containing such information as the Director of Legal Services may require, to the Director of Legal Services within 3 months after the end of each period of 12 months commencing from such date as the Director of Legal Services may specify.\n(22) Every Joint Law Venture must, within 7 days after lodging any document with the Registrar of Businesses, the Registrar of Limited Liability Partnerships or the Registrar of Companies, submit to the Director of Legal Services a copy of the lodged document, if required by the Director of Legal Services to do so."
+   }
+  },
+  {
+   "id": "SG-H2994-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Transitional provision for foreign law practices"
+   },
+   "text": {
+    "en": "53. Despite rules 52(6), 57(8) and 59(10), a Qualifying Foreign Law Practice or licensed foreign law practice which has become a constituent foreign law practice of a Joint Law Venture may, except as otherwise agreed with the constituent Singapore law practice in the Joint Law Venture, continue to provide as a Qualifying Foreign Law Practice or licensed foreign law practice (as the case may be) legal services for which instructions were received by that Qualifying Foreign Law Practice or licensed foreign law practice (as the case may be) before the date of issue of the Joint Law Venture licence."
+   }
+  },
+  {
+   "id": "SG-H2994-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Application for Formal Law Alliance licence"
+   },
+   "text": {
+    "en": "54.—(1) The following conditions apply to an application by one or more foreign law practices and one or more Singapore law practices for a Formal Law Alliance licence under section 170(1) of the Act:\n(a)each foreign law practice and each Singapore law practice must have relevant legal expertise and experience which are acceptable to the Director of Legal Services in any of the following areas of legal practice:\n(i)banking law;\n(ii)finance law;\n(iii)corporate law;\n(iv)technology law;\n(v)telecommunications law;\n(vi)arbitration;\n(vii)intellectual property law;\n(viii)maritime law;\n(ix)any other areas of legal practice that facilitate or assist in the growth and development of the Singapore economy;\n(b)each foreign law practice must have 5 or more foreign lawyers resident in Singapore, each of whom has at least 5 years of relevant legal expertise and experience in any of the areas of legal practice referred to in sub‑paragraph (a);\n(c)at least 2 of the foreign lawyers referred to in sub‑paragraph (b) must be equity partners in the foreign law practice or, in the case of a foreign law practice constituted as a corporation, equity holding directors of the foreign law practice;\n[S 480/2018 wef 01/08/2018]\n(d)each Singapore law practice must have 5 or more solicitors, each of whom has at least 5 years of relevant legal expertise and experience in any of the areas of legal practice referred to in sub‑paragraph (a);\n(e)at least 2 of the solicitors referred to in sub‑paragraph (d) must be equity partners in the Singapore law practice or, in the case of a law corporation, equity holding directors of the law corporation;\n[S 480/2018 wef 01/08/2018]\n(f)the applicants have entered into a written agreement to form a Formal Law Alliance and, if requested, must submit a copy of such agreement to the Director of Legal Services; and\n(g)the applicants must submit an agreed written business plan describing the objectives of the Formal Law Alliance and the implementation of the business plan (including plans to transfer legal and other related skills, expertise, know-how or technology of any foreign law practice which is a member of the Formal Law Alliance to any Singapore law practice which is a member of the Formal Law Alliance).\n(2) For the purposes of determining whether a solicitor or foreign lawyer satisfies the period of relevant legal expertise and experience required under paragraph (1), the following periods must be disregarded:\n(a)any period spent attending any course of instruction, course of study or postgraduate education not required to satisfy any applicable requirements relating to continuing professional development; and\n(b)any period spent in serving any articles, period of pupillage, practice training period or other period of supervised training in relation to the practice of law (by whatever name called).\n(3) The Director of Legal Services must notify the applicants in writing of the decision of the Director of Legal Services under section 170(2) of the Act.\n(4) If an application for a Formal Law Alliance licence under section 170(1) of the Act is granted, the Director of Legal Services must issue the applicants a Formal Law Alliance licence.\n(5) If, at any time after a Formal Law Alliance licence is issued under section 170 of the Act, the Director of Legal Services is satisfied that the application for the licence, or any certificate or other document accompanying that application, contains any substantially false statement or a suppression of any material fact, or that any such certificate or document was obtained by fraud or misrepresentation, the Director of Legal Services may cancel the licence.\n(6) The prescribed date for the purposes of section 170(10) and (12) of the Act is 18 November 2015."
+   }
+  },
+  {
+   "id": "SG-H2994-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "55."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Privileges and conditions relevant to Formal Law Alliance licence"
+   },
+   "text": {
+    "en": "55.—(1) Subject to the provisions of these Rules, a Formal Law Alliance may —\n(a)market or publicise itself as a single service provider competent to provide legal services in all areas which the law practices that are its members are qualified to provide; and\n(b)bill its clients as if it were a single law practice.\n(2) A foreign lawyer registered under section 36C of the Act who practises in a Qualifying Foreign Law Practice or licensed foreign law practice which is a member of the Formal Law Alliance may prepare all the documents in a transaction involving the law or regulatory regime of more than one country or territory, except that any legal opinion relating to Singapore law must be given by —\n(a)a solicitor who has in force a practising certificate; or\n(b)a foreign lawyer registered under section 36B of the Act,\nwho is permitted under the Act or any rules made under the Act to render such a legal opinion.\n[S 480/2018 wef 01/08/2018]\n(3) A solicitor may, with the approval of the Director of Legal Services, concurrently be —\n(a)a partner, director or shareholder of a Singapore law practice which is a member of a Formal Law Alliance; and\n(b)a partner, director or shareholder of a foreign law practice which is a member of the Formal Law Alliance.\n(4) It is a condition of an approval under paragraph (3) that the Singapore law practice satisfies all general threshold requirements and all profit threshold requirements so long as the approval is in force.\n(5) The Director of Legal Services must not grant an approval under paragraph (3) unless the Director of Legal Services is satisfied, at that time, that —\n(a)the Singapore law practice satisfies all general threshold requirements; and\n(b)there is no actual or potential conflict of interests, if the solicitor is allowed to concurrently be —\n(i)a partner, director or shareholder of the Singapore law practice; and\n(ii)a partner, director or shareholder of the foreign law practice.\n(6) The Director of Legal Services may cancel an approval granted to a solicitor under paragraph (3) if the Director of Legal Services is satisfied, at that time, that —\n(a)the Singapore law practice does not satisfy any of the general threshold requirements or profit threshold requirements; or\n(b)there is, or will be, any actual or potential conflict of interests, should the solicitor continue to concurrently be —\n(i)a partner, director or shareholder of the Singapore law practice; and\n(ii)a partner, director or shareholder of the foreign law practice.\n(7) No material modification is to be made to an agreement referred to in rule 54(1)(f) or a business plan submitted under rule 54(1)(g) without the prior written approval of the Director of Legal Services.\n(8) The conditions in rule 54(1) continue to apply for so long as the Formal Law Alliance licence is in force.\n(9) The Formal Law Alliance must submit an annual report of its performance, containing such information as the Director of Legal Services may require, to the Director of Legal Services within 3 months after the end of each period of 12 months commencing from such date as the Director of Legal Services may specify."
+   }
+  },
+  {
+   "id": "SG-H2994-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "56."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Application for Qualifying Foreign Law Practice licence"
+   },
+   "text": {
+    "en": "56.—(1) The Director of Legal Services must notify an applicant for a Qualifying Foreign Law Practice licence in writing of the decision of the Director of Legal Services under section 171(2) of the Act.\n(2) If an application for a Qualifying Foreign Law Practice licence under section 171(1) of the Act is granted, the Director of Legal Services must issue the applicant a Qualifying Foreign Law Practice licence for such period as the Director of Legal Services may specify in the licence.\n(3) If, at any time after a Qualifying Foreign Law Practice licence is issued under section 171 of the Act, the Director of Legal Services is satisfied that the application for the licence, or any certificate or other document accompanying that application, contains any substantially false statement or a suppression of any material fact, or that any such certificate or document was obtained by fraud or misrepresentation, the Director of Legal Services may cancel the licence.\n(4) The prescribed date for the purposes of section 171(7) and (9) of the Act is 18 November 2015."
+   }
+  },
+  {
+   "id": "SG-H2994-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "57."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Privileges and conditions relevant to Qualifying Foreign Law Practice licence"
+   },
+   "text": {
+    "en": "57.—(1) A Qualifying Foreign Law Practice must not practise Singapore law except —\n(a)in the permitted areas of legal practice; and\n(b)through a solicitor registered under section 36E of the Act, or a foreign lawyer registered under section 36B of the Act, who practises in the Qualifying Foreign Law Practice.\n(2) Despite paragraph (1), a Qualifying Foreign Law Practice may do all or any of the following through an individual in paragraph (3):\n(a)appear and plead in any relevant proceedings, or in any proceedings that are preliminary to any relevant proceedings;\n[S 254/2022 wef 01/04/2022]\n(b)appear and plead in the appellate court in any relevant appeal, or in any proceedings that are preliminary to any relevant appeal;\n[S 1052/2020 wef 02/01/2021]\n[S 254/2022 wef 01/04/2022]\n[S 752/2022 wef 01/10/2022]\n(c)represent any party to —\n(i)any relevant proceedings or relevant appeal in any matter concerning those proceedings or that appeal, as the case may be; or\n(ii)any proceedings that are preliminary to any relevant proceedings or relevant appeal in any matter concerning those preliminary proceedings;\n[S 254/2022 wef 01/04/2022]\n(d)give advice, prepare documents and provide any other assistance in relation to or arising out of any relevant proceedings, any relevant appeal, or any proceedings that are preliminary to any relevant proceedings or relevant appeal.\n[S 254/2022 wef 01/04/2022]\n(3) For the purposes of paragraph (2), the individual is —\n(a)a solicitor registered under section 36E of the Act who practises in the Qualifying Foreign Law Practice; or\n(b)a foreign lawyer granted full registration under section 36P of the Act who —\n(i)is also registered under section 36B or 36C of the Act; and\n(ii)practises in the Qualifying Foreign Law Practice.\n(3A) Despite paragraph (2), a Qualifying Foreign Law Practice may not, in any section 36P(1A) proceedings, do any of the following through an individual in paragraph (3)(a):\n(a)plead any matter without the permission of the Singapore International Commercial Court or the appellate court (as the case may be) under rule 14(1A)(a) of the Legal Profession (Regulated Individuals) Rules 2015;\n(b)make a submission on any matter of Singapore law.\n[S 752/2022 wef 01/10/2022]\n(3B) Despite paragraph (2), a Qualifying Foreign Law Practice may not, in any section 36P(1A) proceedings, do any of the following through an individual in paragraph (3)(b):\n(a)plead any matter without the permission of the Singapore International Commercial Court or the appellate court (as the case may be) under section 36P(1A)(a) of the Act;\n(b)make a submission on any matter of Singapore law.\n[S 752/2022 wef 01/10/2022]\n(4) Despite paragraph (1), a Qualifying Foreign Law Practice may do all or any of the following through a foreign lawyer granted restricted registration under section 36P of the Act who is also registered under section 36B or 36C of the Act and practises in the Qualifying Foreign Law Practice:\n(a)appear in any relevant proceedings, solely for the purposes of making submissions on such matters of foreign law as are permitted by the Singapore International Commercial Court or the appellate court, in accordance with the Rules of Court 2021;\n[S 1052/2020 wef 02/01/2021]\n[S 255/2022 wef 01/04/2022]\n[S 752/2022 wef 01/10/2022]\n(b)appear in the appellate court in any relevant appeal, solely for the purposes of making submissions on such matters of foreign law as are permitted by the Singapore International Commercial Court or the appellate court, in accordance with the Rules of Court 2021;\n[S 1052/2020 wef 02/01/2021]\n[S 255/2022 wef 01/04/2022]\n[S 752/2022 wef 01/10/2022]\n(c)give advice and prepare documents, solely for the purposes of making submissions, in any relevant proceedings or relevant appeal, on such matters of foreign law as are permitted by the Singapore International Commercial Court or the appellate court, in accordance with the Rules of Court 2021.\n[S 1052/2020 wef 02/01/2021]\n[S 255/2022 wef 01/04/2022]\n[S 752/2022 wef 01/10/2022]\n(5) The number of solicitors registered under section 36E of the Act to practise Singapore law in a Qualifying Foreign Law Practice must not at any time exceed 4 times the total number of foreign lawyers registered under section 36B or 36C of the Act who practise in the Qualifying Foreign Law Practice.\n[S 480/2018 wef 01/08/2018]\n(6) For the purposes of ascertaining the total number of foreign lawyers referred to in paragraph (5), “foreign lawyer” means any foreign lawyer who has practised law for not less than 3 years in any period after being authorised or registered to practise law.\n(7) A Qualifying Foreign Law Practice may be —\n(a)a joint applicant for a Joint Law Venture licence or a Formal Law Alliance licence; and\n(b)a constituent foreign law practice of a Joint Law Venture or a member of a Formal Law Alliance.\n(8) Where a Qualifying Foreign Law Practice is a constituent foreign law practice of a Joint Law Venture, the Qualifying Foreign Law Practice must not practise law in or from Singapore except through the Joint Law Venture.\n(9) Except as provided in rules 52(11) and 55(3), a solicitor who is a partner, a director or an employee of a Qualifying Foreign Law Practice must not become a partner, a director or an employee of a Singapore law practice.\n(10) Every Qualifying Foreign Law Practice must maintain, throughout the period while its Qualifying Foreign Law Practice licence is in force, one or more insurance policies which provide indemnity against loss arising from claims in respect of civil liability in connection with the provision of legal services in or from Singapore by the Qualifying Foreign Law Practice.\n(11) The insurance policies referred to in paragraph (10) must be of similar coverage terms and for at least the amount required under any rules made under section 75A of the Act in respect of Singapore law practices or such other amount as may be specified by the Director of Legal Services.\n(12) The Qualifying Foreign Law Practice must submit an annual report of its performance, containing such information as the Director of Legal Services may require, to the Director of Legal Services within 3 months after the end of each period of 12 months commencing from such date as the Director of Legal Services may specify.\n(13) Every Qualifying Foreign Law Practice must, within 7 days after lodging any document with the Registrar of Businesses, the Registrar of Limited Liability Partnerships or the Registrar of Companies, submit to the Director of Legal Services a copy of the lodged document, if required by the Director of Legal Services to do so."
+   }
+  },
+  {
+   "id": "SG-H2994-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "58."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Application for foreign law practice licence"
+   },
+   "text": {
+    "en": "58.—(1) The Director of Legal Services must notify an applicant for a foreign law practice licence in writing of the decision of the Director of Legal Services under section 172(2) of the Act.\n(2) If an application for a foreign law practice licence under section 172(1) of the Act is granted, the Director of Legal Services must issue the applicant a foreign law practice licence.\n(3) If, at any time after a foreign law practice licence is issued under section 172 of the Act, the Director of Legal Services is satisfied that the application for the licence, or any certificate or other document accompanying that application, contains any substantially false statement or a suppression of any material fact, or that any such certificate or document was obtained by fraud or misrepresentation, the Director of Legal Services may cancel the licence.\n(4) The prescribed date for the purposes of section 172(6) and (8) of the Act is 18 November 2015."
+   }
+  },
+  {
+   "id": "SG-H2994-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "59."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Privileges and conditions applicable to foreign law practice licence"
+   },
+   "text": {
+    "en": "59.—(1) Subject to paragraphs (6), (7), (8) and (10), a licensed foreign law practice —\n(a)may practise Singapore law only in relation to a relevant agreement; and\n(b)must not practise Singapore law except through a solicitor registered under section 36E of the Act, or a foreign lawyer registered under section 36B of the Act, who practises in the licensed foreign law practice.\n(2) Subject to paragraphs (6), (7), (8) and (10), a solicitor registered under section 36E of the Act to practise Singapore law in a licensed foreign law practice, or a foreign lawyer registered under section 36B of the Act who practises Singapore law in a licensed foreign law practice, may practise Singapore law in the licensed foreign law practice only in relation to a relevant agreement.\n(3) Paragraphs (1) and (2) only apply to practice of Singapore law which is necessitated by reason that it is proposed, under the relevant agreement, that Singapore will be the place of the arbitration or that Singapore law will apply.\n(4) Paragraphs (1) and (2) only apply —\n(a)in a case where it is proposed that Singapore will be the place of the arbitration under the relevant agreement, and the arbitration is international within the meaning of section 5(2) of the International Arbitration Act (Cap. 143A); or\n(b)in a case where it is proposed that Singapore law will apply under the relevant agreement, and any one or more of the following circumstances exist:\n(i)every party to the relevant agreement is incorporated, resident or has its place of business outside Singapore;\n(ii)the subject matter of the relevant agreement —\n(A)is most closely connected to a place located outside Singapore; or\n(B)has no physical connection to Singapore;\n(iii)the obligations under the relevant agreement are to be performed entirely outside Singapore.\n(5) The privileges conferred by paragraphs (1) and (2) —\n(a)apply in addition to anything permitted under section 35 of the Act; but\n(b)do not include any privilege to practise Singapore law in any area of legal practice that is excluded from the ambit of the definition of “permitted areas of legal practice” by rule 50.\n(6) Despite paragraphs (1), (2) and (5), a licensed foreign law practice may do all or any of the following through an individual in paragraph (7):\n(a)appear and plead in any relevant proceedings, or in any proceedings that are preliminary to any relevant proceedings;\n[S 254/2022 wef 01/04/2022]\n(b)appear and plead in the appellate court in any relevant appeal, or in any proceedings that are preliminary to any relevant appeal;\n[S 1052/2020 wef 02/01/2021]\n[S 254/2022 wef 01/04/2022]\n[S 752/2022 wef 01/10/2022]\n(c)represent any party to —\n(i)any relevant proceedings or relevant appeal in any matter concerning those proceedings or that appeal, as the case may be; or\n(ii)any proceedings that are preliminary to any relevant proceedings or relevant appeal in any matter concerning those preliminary proceedings;\n[S 254/2022 wef 01/04/2022]\n(d)give advice, prepare documents and provide any other assistance in relation to or arising out of any relevant proceedings, any relevant appeal, or any proceedings that are preliminary to any relevant proceedings or relevant appeal.\n[S 254/2022 wef 01/04/2022]\n(7) For the purposes of paragraph (6), the individual is —\n(a)a solicitor registered under section 36E of the Act who practises in the licensed foreign law practice; or\n(b)a foreign lawyer granted full registration under section 36P of the Act who —\n(i)is also registered under section 36B or 36C of the Act; and\n(ii)practises in the licensed foreign law practice.\n(7A) Despite paragraph (6), a licensed foreign law practice may not, in any section 36P(1A) proceedings, do any of the following through an individual in paragraph (7)(a):\n(a)plead any matter without the permission of the Singapore International Commercial Court or the appellate court (as the case may be) under rule 14(1A)(a) of the Legal Profession (Regulated Individuals) Rules 2015;\n(b)make a submission on any matter of Singapore law.\n[S 752/2022 wef 01/10/2022]\n(7B) Despite paragraph (6), a licensed foreign law practice may not, in any section 36P(1A) proceedings, do any of the following through an individual in paragraph (7)(b):\n(a)plead any matter without the permission of the Singapore International Commercial Court or the appellate court (as the case may be) under section 36P(1A)(a) of the Act;\n(b)make a submission on any matter of Singapore law.\n[S 752/2022 wef 01/10/2022]\n(8) Despite paragraphs (1), (2) and (5), a licensed foreign law practice may do all or any of the following through a foreign lawyer granted restricted registration under section 36P of the Act who is also registered under section 36B or 36C of the Act and practises in the licensed foreign law practice:\n(a)appear in any relevant proceedings, solely for the purposes of making submissions on such matters of foreign law as are permitted by the Singapore International Commercial Court or the appellate court, in accordance with the Rules of Court 2021;\n[S 1052/2020 wef 02/01/2021]\n[S 255/2022 wef 01/04/2022]\n[S 752/2022 wef 01/10/2022]\n(b)appear in the appellate court in any relevant appeal, solely for the purposes of making submissions on such matters of foreign law as are permitted by the Singapore International Commercial Court or the appellate court, in accordance with the Rules of Court 2021;\n[S 1052/2020 wef 02/01/2021]\n[S 255/2022 wef 01/04/2022]\n[S 752/2022 wef 01/10/2022]\n(c)give advice and prepare documents, solely for the purposes of making submissions, in any relevant proceedings or relevant appeal, on such matters of foreign law as are permitted by the Singapore International Commercial Court or the appellate court, in accordance with the Rules of Court 2021.\n[S 1052/2020 wef 02/01/2021]\n[S 255/2022 wef 01/04/2022]\n[S 752/2022 wef 01/10/2022]\n(9) A licensed foreign law practice may be —\n(a)a joint applicant for a Joint Law Venture licence or a Formal Law Alliance licence; and\n(b)a constituent foreign law practice of a Joint Law Venture or a member of a Formal Law Alliance.\n(10) Where a licensed foreign law practice is a constituent foreign law practice of a Joint Law Venture —\n(a)the licensed foreign law practice must not practise law in or from Singapore except through the Joint Law Venture;\n(b)despite paragraphs (1), (2) and (5), the licensed foreign law practice (in its capacity as the constituent foreign law practice of the Joint Law Venture) is entitled to the privileges of a constituent foreign law practice of a Joint Law Venture; and\n(c)despite paragraphs (1), (2) and (5), a solicitor registered under section 36E of the Act who practises in the licensed foreign law practice, or a foreign lawyer registered under section 36B of the Act who practises in the licensed foreign law practice, may practise Singapore law in the licensed foreign law practice (in its capacity as the constituent foreign law practice of the Joint Law Venture) only in the permitted areas of legal practice.\n(11) Every licensed foreign law practice must maintain, throughout the period while its foreign law practice licence is in force, one or more insurance policies which provide indemnity against loss arising from claims in respect of civil liability in connection with the provision of legal services in or from Singapore by the foreign law practice.\n(12) The insurance policies referred to in paragraph (11) must be of similar coverage terms and for at least the amount required under any rules made under section 75A of the Act in respect of Singapore law practices or such other amount as may be specified by the Director of Legal Services.\n(13) Every licensed foreign law practice must, within 7 days after lodging any document with the Registrar of Businesses, the Registrar of Limited Liability Partnerships or the Registrar of Companies, submit to the Director of Legal Services a copy of the lodged document, if required by the Director of Legal Services to do so.\n(14) In this rule —\n“arbitration agreement” has the same meaning as in section 2 of the International Arbitration Act;\n“place of the arbitration” means the juridical seat of the arbitration;\n“practise Singapore law”, in relation to a relevant agreement, means rendering a legal opinion on Singapore law, or drafting any document, necessary to conclude the relevant agreement;\n“relevant agreement” means an arbitration agreement, or an agreement containing or incorporating an arbitration agreement."
+   }
+  },
+  {
+   "id": "SG-H2994-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "60."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Application of this Division"
+   },
+   "text": {
+    "en": "60.—(1) This Division applies to all licensed foreign law practices within a foreign group practice.\n(2) Without prejudice to any other written law or rule of law, this Division governs —\n(a)the relationship between the licensed foreign law practices in a foreign group practice; and\n(b)the dealings of those licensed foreign law practices with clients and other persons outside the foreign group practice."
+   }
+  },
+  {
+   "id": "SG-H2994-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "61."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "text": {
+    "en": "61. [Deleted by S 480/2018 wef 01/08/2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2994-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "62."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Approval of formation and name of foreign group practice"
+   },
+   "text": {
+    "en": "62.—(1) The sole proprietors, partners and directors of the licensed foreign law practices which wish to practise as a foreign group practice must apply to the Director of Legal Services for —\n(a)approval to form the foreign group practice; and\n(b)approval of the proposed name of the foreign group practice (including the manner in which that name will be used in conjunction with the names of each licensed foreign law practice in the foreign group practice).\n[S 480/2018 wef 01/08/2018]\n(2) An application under paragraph (1) must be made in such form as the Director of Legal Services may require, and must be accompanied by —\n(a)such documents, particulars and information as the Director of Legal Services may require; and\n(b)the appropriate fee specified in the First Schedule.\n(3) The Director of Legal Services may, on receiving an application under paragraph (1), approve the formation and name of a foreign group practice, subject to such conditions as the Director of Legal Services may think fit to impose in any particular case.\n(4) If an approval under paragraph (3) is granted, the Director of Legal Services must issue the applicants a certificate of approval.\n(5) A licensed foreign law practice must not practise as a member of a foreign group practice unless the Director of Legal Services approves under paragraph (3) the formation and name of the foreign group practice.\n(6) The Director of Legal Services must not approve a proposed name of a foreign group practice if, in the opinion of the Director of Legal Services, the proposed name —\n(a)is misleading or detracts from the dignity of the legal profession;\n(b)is so similar to the name of another law practice entity, Singapore group practice or foreign group practice as to be likely to be confused with that other law practice entity, Singapore group practice or foreign group practice; or\n(c)is inconsistent with any rules made under section 71(2) of the Act.\n(7) The name of a foreign group practice cannot be changed without the prior approval in writing of the Director of Legal Services.\n(8) Despite paragraphs (6) and (7), where the Director of Legal Services is satisfied that the name of a foreign group practice has been approved (whether through inadvertence or otherwise and whether originally or by change of name) in contravention of paragraph (6), or that any licensed foreign law practice has withdrawn from a foreign group practice —\n(a)the Director of Legal Services may direct that the name of the foreign group practice be changed to such other name as the Director of Legal Services may approve; and\n(b)the foreign group practice must comply with that direction within 6 weeks after the date of that direction or such longer period as the Director of Legal Services may allow.\n(9) If a foreign group practice fails to comply with any direction under paragraph (8), the sole proprietors, partners and directors of the licensed foreign law practices constituting the foreign group practice must immediately cease to practise under the name of the foreign group practice.\n[S 480/2018 wef 01/08/2018]\n(10) Any licensed foreign law practice which joins or withdraws from a foreign group practice must, within 7 days after such joining or withdrawal, notify the Director of Legal Services of such joining or withdrawal.\n(11) Every foreign group practice must, within 7 days after any change in such particulars of the foreign group practice as the Director of Legal Services may require in any specific case, notify the Director of Legal Services of such change.\n(12) If, at any time after the Director of Legal Services has approved under paragraph (3) the formation and name of a foreign group practice, the Director of Legal Services is satisfied that the application for the approval, or any certificate or other document accompanying that application, contains any substantially false statement or a suppression of any material fact, or that any such certificate or document was obtained by fraud or misrepresentation —\n(a)the Director of Legal Services may cancel the approval; and\n(b)upon the cancellation of the approval, the certificate of approval issued in respect of the approval ceases to be in force.\n(13) The Director of Legal Services must maintain a register of foreign group practices and the licensed foreign law practices in each foreign group practice."
+   }
+  },
+  {
+   "id": "SG-H2994-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "63."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Purpose of foreign group practice"
+   },
+   "text": {
+    "en": "63.—(1) The purpose of a foreign group practice is to enable the licensed foreign law practices in the foreign group practice to come together in mutual cooperation without being partners of each other.\n(2) Subject to any other written law or rule of law, a licensed foreign law practice in a foreign group practice may instruct another licensed foreign law practice in the foreign group practice to undertake work entrusted by a client to the instructing licensed foreign law practice, unless the client gives any written instruction to the contrary."
+   }
+  },
+  {
+   "id": "SG-H2994-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "64."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Description of foreign group practice"
+   },
+   "text": {
+    "en": "64.—(1) A foreign group practice must bear a name which describes the foreign group practice as a foreign group practice.\n(2) The Director of Legal Services may waive the requirement under paragraph (1) in any particular case.\n(3) A licensed foreign law practice which is not a member of a foreign group practice must not describe itself as a foreign group practice.\n(4) A licensed foreign law practice in a foreign group practice may in the course of its professional undertakings and in any document in which its name appears, including its letterheads, nameplates and business calling cards, use the name of the foreign group practice in conjunction with its own name."
+   }
+  },
+  {
+   "id": "SG-H2994-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "65."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Management of foreign group practice"
+   },
+   "text": {
+    "en": "65.—(1) A foreign group practice may be managed by a person (called in this rule and rules 66 and 67 the manager) who —\n(a)need not be any licensed foreign law practice in the foreign group practice; and\n(b)need not be a sole proprietor, partner or director of any licensed foreign law practice in the foreign group practice.\n[S 480/2018 wef 01/08/2018]\n(2) The manager may provide, or the licensed foreign law practices in a foreign group practice may otherwise share, the infrastructure and management services which may be required for the efficient and proper functioning of the foreign group practice.\n(3) In this rule —\n“infrastructure” includes the premises in which a foreign group practice operates, furnishings, law books, office and related equipment and paraphernalia, utilities, and electronic services for the purpose of searches and research;\n“management services” includes all aspects of the management of a foreign group practice, such as the hiring and termination of secretarial, clerical and other staff or agents of the foreign group practice, but does not include any aspect which a licensed foreign law practice in the foreign group practice has by these Rules or by contract agreed to provide for itself."
+   }
+  },
+  {
+   "id": "SG-H2994-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "66."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Bank account"
+   },
+   "text": {
+    "en": "66.—(1) Where a foreign group practice does not have a manager, the licensed foreign law practices in the foreign group practice may open and operate a common office account.\n(2) Where a foreign group practice has a manager, the licensed foreign law practices in the foreign group practice may open and operate a common office account for the purpose of meeting common expenses not borne by the manager.\n(3) Where any licensed foreign law practice in a foreign group practice is required to maintain a client account, each such licensed foreign law practice in the foreign group practice must maintain, separately from the other such licensed foreign law practices in the foreign group practice, its own client account."
+   }
+  },
+  {
+   "id": "SG-H2994-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "67."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Separate liability"
+   },
+   "text": {
+    "en": "67.—(1) Each licensed foreign law practice in a foreign group practice —\n(a)is liable for the debts and liabilities of that licensed foreign law practice; and\n(b)must keep the manager (if any) of and other licensed foreign law practices in the foreign group practice, and the estates of the manager (if any) and of every sole proprietor or partner of any other licensed foreign law practice (being a sole proprietorship or partnership) in the foreign group practice, indemnified against those debts and liabilities and against all actions, proceedings, costs, claims and demands in respect of those debts and liabilities.\n[S 480/2018 wef 01/08/2018]\n(2) Each licensed foreign law practice in a foreign group practice must bear its own professional indemnity insurance premiums, accountancy and audit costs, and, where applicable, professional and similar subscriptions and levies payable to the Society and the Academy.\n(3) Paragraph (2) does not apply to a licensed foreign law practice if the licensed foreign law practice —\n(a)is a barrister’s chambers;\n(b)practises only foreign law; and\n(c)does not do anything referred to in rule 59(6)(a) to (d) or (8)(a), (b) or (c)."
+   }
+  },
+  {
+   "id": "SG-H2994-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "68."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Incapacity or death of sole proprietor"
+   },
+   "text": {
+    "en": "68.—(1) The sole proprietor of a licensed foreign law practice in a foreign group practice must appoint in writing another firm in the foreign group practice to act in place of the sole proprietor in the event of the sole proprietor’s incapacity or death.\n(2) Paragraph (1) does not apply to a licensed foreign law practice if the licensed foreign law practice is a barrister’s chambers."
+   }
+  },
+  {
+   "id": "SG-H2994-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "69."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Notice of establishment, or cessation of operations, of representative office"
+   },
+   "text": {
+    "en": "69.—(1) A notice under section 173(1) of the Act —\n(a)must be given by a foreign law practice which establishes a representative office in Singapore in such form as the Director of Legal Services may require;\n(b)must contain the following particulars:\n(i)the name and nationality of the foreign law practice;\n(ii)the date of establishment of the representative office;\n(iii)the address of the representative office;\n(iv)the telephone number and email address of the representative office;\n[S 480/2018 wef 01/08/2018]\n(v)the name, nationality, designation and contact information of at least one representative (being an individual accountable for the activities of the representative office) of the foreign law practice working in the representative office;\n(vi)the name, nationality and designation of any other individual working in the representative office; and\n(c)must be accompanied by the appropriate fee specified in the First Schedule.\n(2) A notice under section 173(2) of the Act —\n(a)must be given by a foreign law practice which ceases to operate its representative office in Singapore in such form as the Director of Legal Services may require; and\n(b)must contain the following particulars:\n(i)the name and nationality of the foreign law practice;\n(ii)the date on which the foreign law practice ceases to operate its representative office in Singapore;\n(iii)if the foreign law practice has 2 or more representative offices in Singapore, the address, telephone number and email address of the representative office which the foreign law practice ceases to operate in Singapore.\n[S 480/2018 wef 01/08/2018]\n(3) The Director of Legal Services must, on receiving a notice under section 173(1) of the Act from a foreign law practice which establishes a representative office in Singapore —\n(a)register the representative office in the register maintained under section 173(3) of the Act; and\n(b)issue the representative office a certificate of registration.\n(4) The Director of Legal Services must, on receiving a notice under section 173(2) of the Act from a foreign law practice which ceases to operate a representative office in Singapore —\n(a)cancel the registration under paragraph (3)(a) of the representative office; and\n(b)upon the cancellation of the registration, the certificate of registration issued in respect of the registration ceases to be in force.\n(5) The prescribed date for the purposes of section 173(5) of the Act is 18 November 2015.\n(6) With effect from 18 November 2015, any application which was made before that date by a foreign law practice for a representative office licence under the repealed section 130F of the Act as in force immediately before that date, and which is pending immediately before that date, is to be treated, on and after that date, as a notice under section 173(1) of the Act of the establishment on or after that date by that foreign law practice of a representative office in Singapore.\n(7) The Attorney-General may transfer to the Director of Legal Services the particulars of and documents relating to any application referred to in paragraph (6)."
+   }
+  },
+  {
+   "id": "SG-H2994-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "70."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Application for approval under section 176(1) of Act"
+   },
+   "text": {
+    "en": "70.—(1) Every Singapore law practice must apply to the Director of Legal Services for approval under section 176(1) of the Act, before entering into any arrangement that may result in a foreign lawyer registered under section 36B, 36C or 36D of the Act —\n(a)becoming a director, partner or shareholder of the Singapore law practice; or\n(b)sharing in the profits of the Singapore law practice.\n(2) The following are conditions of an application under paragraph (1):\n(a)the Singapore law practice satisfies all general threshold requirements;\n(b)the foreign lawyer has successfully completed a legal practice management course referred to in section 75C(1)(a) of the Act.\n(3) Despite paragraph (2)(b), the Director of Legal Services may waive the requirement under that provision, if the Director of Legal Services is satisfied that the foreign lawyer —\n(a)has any qualification or accreditation which indicates that the foreign lawyer has attained skills equivalent to those attainable on the successful completion of a legal practice management course referred to in section 75C(1)(a) of the Act; or\n(b)has sufficient experience and expertise in the management of a law practice entity.\n(4) On receiving an application under paragraph (1), the Director of Legal Services may —\n(a)approve the application subject to such conditions as the Director of Legal Services thinks fit; or\n(b)reject the application on such grounds as the Director of Legal Services thinks fit.\n(5) The Director of Legal Services must notify the applicant in writing of the decision of the Director of Legal Services under paragraph (4).\n(6) If an approval under section 176(1) of the Act is granted, the Director of Legal Services must issue the applicant a certificate of approval.\n(7) Without prejudice to any other powers of the Director of Legal Services to cancel an approval under section 176(1) of the Act, the Director of Legal Services may cancel such an approval if —\n(a)the Singapore law practice, or the foreign lawyer, fails to comply with any undertaking given to the Director of Legal Services upon making the application or with any condition of the approval;\n(b)the partner or director of the Singapore law practice who gave any such undertaking fails to comply with that undertaking or with any condition of the approval; or\n(c)the Singapore law practice, the foreign lawyer or a partner or director of the Singapore law practice applies in writing for such cancellation."
+   }
+  },
+  {
+   "id": "SG-H2994-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "71."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Conditions of approval under section 176(1) of Act"
+   },
+   "text": {
+    "en": "71.—(1) Subject to paragraphs (2) to (7), a foreign lawyer to whom an approval under section 176(1) of the Act has been granted must comply with the following conditions:\n(a)the foreign lawyer must not be a managing partner, a managing director or a manager of any Singapore law practice;\n(b)while the approval remains in force —\n(i)the foreign lawyer must not be a partner, a director, a shareholder, an employee or a consultant in any foreign law practice; and\n(ii)the foreign lawyer must not be a nominee of any foreign law practice, or of any other foreign lawyer, in respect of the management of, or the control of any voting power or equity interest in, any Singapore law practice.\n(2) A foreign lawyer who is granted an approval under section 176(1) of the Act to be a partner, director or shareholder in, or to share in the profits of, a Singapore law practice —\n(a)may, while the approval under section 176(1) of the Act remains in force, with the approval of the Director of Legal Services under this sub-paragraph, concurrently be a partner, a director, a shareholder, an employee or a consultant of a foreign law practice; and\n(b)may, while the approval under section 176(1) of the Act remains in force, with the approval of the Director of Legal Services under this sub-paragraph, concurrently be a nominee of a foreign law practice, or of any other foreign lawyer, in respect of the management of, or the control of any voting power or equity interest in, the Singapore law practice.\n(3) It is a condition of an approval under paragraph (2)(a) or (b) that the Singapore law practice satisfies all general threshold requirements and all profit threshold requirements so long as the approval is in force.\n(4) The Director of Legal Services must not grant an approval under paragraph (2)(a) unless the Director of Legal Services is satisfied, at that time, that —\n(a)the Singapore law practice satisfies all general threshold requirements; and\n(b)there is no actual or potential conflict of interests, if the foreign lawyer is allowed to concurrently —\n(i)be a partner, a director, a shareholder, an employee or a consultant (as the case may be) of the foreign law practice; and\n(ii)be a partner, director or shareholder in, or share in the profits of, the Singapore law practice.\n(5) The Director of Legal Services may cancel an approval granted to a foreign lawyer under paragraph (2)(a) if the Director of Legal Services is satisfied, at that time, that —\n(a)the Singapore law practice does not satisfy any of the general threshold requirements or profit threshold requirements; or\n(b)there is, or will be, any actual or potential conflict of interests, should the foreign lawyer continue to concurrently —\n(i)be a partner, a director, a shareholder, an employee or a consultant (as the case may be) of the foreign law practice; and\n(ii)be a partner, director or shareholder in, or share in the profits of, the Singapore law practice.\n(6) The Director of Legal Services must not grant an approval under paragraph (2)(b) unless the Director of Legal Services is satisfied, at that time, that —\n(a)the Singapore law practice satisfies all general threshold requirements; and\n(b)there is no actual or potential conflict of interests, if the foreign lawyer is allowed to concurrently —\n(i)be a nominee of the foreign law practice, or of the other foreign lawyer, in respect of the management of, or the control of the voting power or equity interest in, the Singapore law practice; and\n(ii)be a partner, director or shareholder in, or share in the profits of, the Singapore law practice.\n(7) The Director of Legal Services may cancel an approval granted to a foreign lawyer under paragraph (2)(b) if the Director of Legal Services is satisfied, at that time, that —\n(a)the Singapore law practice does not satisfy any of the general threshold requirements or profit threshold requirements; or\n(b)there is, or will be, any actual or potential conflict of interests, should the foreign lawyer continue to concurrently —\n(i)be a nominee of the foreign law practice, or of the other foreign lawyer, in respect of the management of, or the control of the voting power or equity interest in, the Singapore law practice; and\n(ii)be a partner, director or shareholder in, or share in the profits of, the Singapore law practice.\n(8) It is a condition of an approval under section 176(1) of the Act granted pursuant to an application made by a Singapore law practice that the Singapore law practice satisfies all general threshold requirements and all profit threshold requirements so long as the approval is in force.\n(9) Despite paragraph (8), where an approval under the repealed section 130L(1) of the Act as in force before 18 November 2015 was granted pursuant to an application for that approval made before 1 June 2012 by a Singapore law practice, and that approval is deemed under section 176(4) of the Act to be an approval under section 176(1) of the Act, the conditions of that approval are as follows (instead of the general threshold requirements and the profit threshold requirements):\n(a)the total value of equity interests in the Singapore law practice held by foreign lawyers (whether individually or collectively) as shareholders or partners of the Singapore law practice must not exceed 25% of the total value of equity interests in the Singapore law practice;\n(b)foreign lawyers (whether individually or collectively) must not, directly or indirectly, have a controlling interest in the Singapore law practice;\n(c)except as provided in rule 52(10), the total amount of payments made by the Singapore law practice to foreign lawyers, during any financial year of the Singapore law practice, as directors’ remuneration, as shareholders’ or partners’ dividends, or under any other profit sharing arrangement, must not exceed 25% of the total amount of payments made by the Singapore law practice, during that financial year, as directors’ remuneration, as shareholders’ or partners’ dividends, or under any other profit sharing arrangement.\n(10) For the purposes of paragraph (9)(b), foreign lawyers have a controlling interest in a Singapore law practice if —\n(a)foreign lawyers and nominees of foreign lawyers (whether individually or collectively) are entitled to exercise or control the exercise of more than 25% of the total voting rights exercisable by the shareholders or partners (as the case may be) in the Singapore law practice; or\n(b)the majority of the partners, directors or managers (as the case may be) of the Singapore law practice are, in any matter relating to the management of the Singapore law practice, foreign lawyers or nominees of foreign lawyers (whether individually or collectively).\n(11) Despite paragraph (8), where an approval under the repealed section 130L(1) of the Act as in force before 18 November 2015 was granted pursuant to an application for that approval made on or after 1 June 2012 but before 18 November 2015 by a Singapore law practice, and that approval is deemed under section 176(4) of the Act to be an approval under section 176(1) of the Act, it is a condition of that approval that the Singapore law practice satisfies all of the following requirements (instead of the general threshold requirements and the profit threshold requirements) so long as the approval is in force:\n(a)the foreign collaboration (general) requirements in rule 3A(1) of the revoked Legal Profession (International Services) Rules 2008 (G.N. No. S 481/2008) as in force immediately before 18 November 2015;\n(b)the foreign collaboration (profit) requirement in rule 3A(2) of those Rules as in force immediately before 18 November 2015.\n(12) For the purposes of paragraphs (1)(b)(ii), (2)(b), (6)(b)(i), (7)(b)(i) and (10)(b), a person is a nominee of a foreign law practice or foreign lawyer if that person is accustomed, or under an obligation (whether formal or informal), to act in accordance with the directions, instructions or wishes of that foreign law practice or foreign lawyer.\n(13) Every foreign lawyer to whom approval under section 176(1) of the Act has been granted must maintain, throughout the period while such approval is in force, adequate insurance policies which provide indemnity against loss arising from claims in respect of civil liability in connection with the foreign lawyer’s practice in the Singapore law practice.\n(14) The insurance policies referred to in paragraph (13) must be of similar coverage terms and for at least the amount required under any rules made under section 75A of the Act in respect of solicitors or such other amount as may be specified by the Director of Legal Services.\n(15) Paragraph (13) does not apply to a foreign lawyer to whom approval under section 176(1) of the Act has been granted if the Singapore law practice has provided for its insurance policies to cover the foreign lawyer to the extent required under that paragraph.\n(16) In this rule, “manager” —\n(a)in relation to a body corporate or partnership, means the principal executive officer of the body corporate or partnership for the time being, by whatever name called and whether or not the principal executive officer is a director or partner of the body corporate or partnership; and\n(b)in relation to a limited liability partnership, has the same meaning as in section 2(1) of the Limited Liability Partnerships Act (Cap. 163A)."
+   }
+  },
+  {
+   "id": "SG-H2994-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "72."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Application for, and condition of, approval under section 176(9) of Act"
+   },
+   "text": {
+    "en": "72.—(1) Every Singapore law practice must, before entering into any arrangement with a foreign law practice that may result in the foreign law practice —\n(a)becoming a shareholder in the Singapore law practice, if the Singapore law practice is a law corporation; or\n(b)sharing in the profits of the Singapore law practice,\napply to the Director of Legal Services for the approval of the Director of Legal Services under section 176(9) of the Act.\n(2) It is a condition of an application under paragraph (1) that the Singapore law practice satisfies all general threshold requirements.\n(3) On receiving an application under paragraph (1), the Director of Legal Services may —\n(a)approve the application subject to such conditions as the Director of Legal Services thinks fit; or\n(b)reject the application on such grounds as the Director of Legal Services thinks fit.\n(4) The Director of Legal Services must notify the applicant in writing of the decision of the Director of Legal Services under paragraph (3).\n(5) If an approval under section 176(9) of the Act is granted, the Director of Legal Services must issue the applicant a certificate of approval.\n(6) It is a condition of an approval under section 176(9) of the Act granted pursuant to an application made by a Singapore law practice that the Singapore law practice satisfies all general threshold requirements and all profit threshold requirements so long as the approval is in force.\n(7) Despite paragraph (6), where an approval under the repealed section 130L(6) of the Act as in force before 18 November 2015 was granted pursuant to an application for that approval made before that date by a Singapore law practice, and that approval is deemed under section 176(11) of the Act to be an approval under section 176(9) of the Act, it is a condition of that approval that the Singapore law practice satisfies all of the following requirements (instead of the general threshold requirements and the profit threshold requirements) so long as the approval is in force:\n(a)the foreign collaboration (general) requirements in rule 3A(1) of the revoked Legal Profession (International Services) Rules 2008 (G.N. No. S 481/2008) as in force immediately before that date;\n(b)the foreign collaboration (profit) requirement in rule 3A(2) of those Rules as in force immediately before that date.\n(8) Without prejudice to any other powers of the Director of Legal Services to cancel an approval under section 176(9) of the Act, the Director of Legal Services may cancel such an approval if —\n(a)the Singapore law practice, or the foreign law practice, fails to comply with any undertaking given to the Director of Legal Services upon making the application or with any condition of the approval;\n(b)the partner or director of the Singapore law practice who gave any such undertaking fails to comply with that undertaking or with any condition of the approval; or\n(c)the Singapore law practice, the foreign law practice or a partner or director of the Singapore law practice applies in writing for such cancellation."
+   }
+  },
+  {
+   "id": "SG-H2994-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "73."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Cancellation of approval under section 176(1) or (9) of Act in certain circumstances"
+   },
+   "text": {
+    "en": "73.—(1) If, at any time after a foreign lawyer has been granted an approval under section 176(1) of the Act, the Director of Legal Services is satisfied that the application for the approval, or any certificate or other document accompanying that application, contains any substantially false statement or a suppression of any material fact, or that any such certificate or document was obtained by fraud or misrepresentation —\n(a)the Director of Legal Services may cancel the approval; and\n(b)upon the cancellation of the approval, the foreign lawyer’s certificate of approval under section 176(1) of the Act ceases to be in force.\n(2) If, at any time after a foreign law practice has been granted an approval under section 176(9) of the Act, the Director of Legal Services is satisfied that the application for the approval, or any certificate or other document accompanying that application, contains any substantially false statement or a suppression of any material fact, or that any such certificate or document was obtained by fraud or misrepresentation —\n(a)the Director of Legal Services may cancel the approval; and\n(b)upon the cancellation of the approval, the certificate of approval issued under section 176(9) of the Act ceases to be in force.\n(3) For the purposes of this rule, it is irrelevant whether any application for approval referred to in paragraph (1) or (2), or any certificate or other document accompanying that application, was made before, on or after 18 November 2015."
+   }
+  },
+  {
+   "id": "SG-H2994-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "74."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Forms and fees"
+   },
+   "text": {
+    "en": "74.—(1) Every application for a licence or an approval under Division 4 of Part IXA of the Act, or for a renewal of any such licence or approval must be accompanied by the appropriate fee specified in the First Schedule.\n(2) Any licence or certificate issued under Division 4 of Part IXA of the Act or this Part must be in such form as the Director of Legal Services may determine.\n(3) All forms used for the purposes of Division 4 of Part IXA of the Act or this Part must be completed in the English language and in accordance with such directions as may be specified in the form or by the Director of Legal Services.\n(4) The Director of Legal Services may refuse to issue under Division 4 of Part IXA of the Act or this Part any licence, certificate, letter or other document, if the appropriate fee specified in the First Schedule has not been paid.\n(5) Where strict compliance with any form (used for the purposes of Division 4 of Part IXA of the Act or this Part) is not possible, the Director of Legal Services may allow for the necessary modifications to be made to that form, or for the requirements of that form to be complied with in such other manner as the Director of Legal Services thinks fit.\n(6) The fees referred to in paragraph (1) are not refundable.\n(7) Despite paragraph (6), the Director of Legal Services may waive or remit the whole or any part of any fee referred to in paragraph (1) in any particular case."
+   }
+  },
+  {
+   "id": "SG-H2994-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "75."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Period of validity and renewal of licence or approval"
+   },
+   "text": {
+    "en": "75.—(1) The following licences and approval are prescribed for the purposes of section 178(2) of the Act:\n(a)Joint Law Venture licence;\n(b)Formal Law Alliance licence;\n(c)foreign law practice licence;\n(d)approval under section 176(1) or (9) of the Act.\n(2) A Qualifying Foreign Law Practice licence is prescribed for the purposes of section 178(3) of the Act.\n(3) The provisions of these Rules apply, with the necessary modifications, to an application for the renewal of a Qualifying Foreign Law Practice licence as they apply to an application for any such licence."
+   }
+  },
+  {
+   "id": "SG-H2994-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "76."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Power to waive or modify conditions or requirements"
+   },
+   "text": {
+    "en": "76.—(1) The Director of Legal Services may, at any time in the discretion of the Director of Legal Services, waive or modify any condition imposed by the Director of Legal Services under —\n(a)Division 4 of Part IXA of the Act; or\n(b)this Part or any other rules made under section 184 of the Act.\n(2) Before modifying under paragraph (1) any condition of any licence issued or approval granted to a person, the Director of Legal Services must —\n(a)give that person written notice of the intention of the Director of Legal Services to do so;\n(b)specify the time (being not less than 14 days after the date of service of the notice on that person) within which written representations may be made to the Director of Legal Services with respect to the proposed modification of the condition; and\n(c)consider any such written representations made by that person."
+   }
+  },
+  {
+   "id": "SG-H2994-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "77."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Power to require information, etc."
+   },
+   "text": {
+    "en": "77. The Director of Legal Services may require any Joint Law Venture, Formal Law Alliance, foreign law practice, representative office, Singapore law practice, foreign lawyer or solicitor to provide the Director of Legal Services with such documents, particulars or information as the Director of Legal Services considers necessary for the purposes of ascertaining whether —\n(a)any of the provisions of Division 4 of Part IXA of the Act or of this Part or any other rules made under section 184 of the Act, or any of the conditions imposed under that Division or under this Part or those rules, have been complied with;\n(b)any licence issued under Division 4 of Part IXA of the Act should be cancelled; or\n(c)any approval under section 176(1) or (9) of the Act, or under this Part, should be cancelled."
+   }
+  },
+  {
+   "id": "SG-H2994-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "78."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Register"
+   },
+   "text": {
+    "en": "78.—(1) The Director of Legal Services is to keep, in such form and manner as the Director of Legal Services thinks fit, one or more registers of —\n(a)Joint Law Ventures;\n(b)Formal Law Alliances;\n(c)Qualifying Foreign Law Practices;\n(d)licensed foreign law practices;\n(e)representative offices;\n(f)foreign law practices granted the approval of the Director of Legal Services under section 176(9) of the Act; and\n(g)foreign lawyers granted the approval of the Director of Legal Services under section 176(1) of the Act.\n(2) The Director of Legal Services may, subject to such conditions as the Director of Legal Services thinks fit —\n(a)allow any person to inspect a register; or\n(b)make any information in a register available to a person in such form and manner as the Director of Legal Services thinks fit.\n[S 480/2018 wef 01/08/2018]\n[S 776/2024 wef 11/10/2024]\n(3) Every Joint Law Venture, Formal Law Alliance, Qualifying Foreign Law Practice and licensed foreign law practice (each called in this paragraph the practice) must, within 7 days after any change in any of the following particulars or in such other particulars of the practice as the Director of Legal Services may require in any specific case, notify the Director of Legal Services in writing of that change:\n(a)the name and nationality of the practice;\n(b)the address of the practice, including the registered address of all of its offices and places of business in Singapore;\n(c)the telephone number and email address of the practice;\n[S 480/2018 wef 01/08/2018]\n(d)the name, nationality and designation of any solicitor or foreign lawyer working in the practice.\n[S 480/2018 wef 01/08/2018]\n(4) Every Singapore law practice must notify the Director of Legal Services in writing —\n(a)of any change in the name, nationality and designation of any foreign lawyer working in the Singapore law practice within 7 days after such change; and\n(b)of any change in any of the following particulars of any foreign law practice granted an approval under section 176(9) of the Act to be a shareholder in, or to share in the profits of, the Singapore law practice, within 7 days after such change:\n(i)the name and nationality of the foreign law practice;\n(ii)the address of the foreign law practice, including the registered address of all of the offices and places of business of the foreign law practice in Singapore;\n(iii)the telephone number and email address of the foreign practice;\n[S 480/2018 wef 01/08/2018]\n(iv)the name, nationality and designation of any solicitor or foreign lawyer working in the foreign law practice.\n(5) Every foreign law practice with a representative office in Singapore must notify the Director of Legal Services in writing of any change in any of the following particulars of the representative office within 7 days after such change:\n(a)the name and nationality of the foreign law practice;\n(b)the address of the representative office;\n(c)the telephone number and email address of the representative office;\n[S 480/2018 wef 01/08/2018]\n(d)the name, nationality, designation and contact information of any existing representative (being an individual accountable for the activities of the representative office) of the foreign law practice working in the representative office;\n(e)the name, nationality and designation of any other individual working in the representative office.\n(6) The Director of Legal Services may —\n(a)correct any error in a register;\n(b)make any necessary alteration to a register as a result of any change in circumstances or particulars or as authorised under any provision of the Act; and\n(c)upon the request of any Joint Law Venture, Formal Law Alliance, foreign law practice, representative office, Singapore law practice, foreign lawyer or solicitor, remove the name of that person or entity from a register."
+   }
+  },
+  {
+   "id": "SG-H2994-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "79."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "text": {
+    "en": "79. [Deleted by S 480/2018 wef 01/08/2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2994-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "80."
+   },
+   "chapter": {
+    "en": "PART 6 JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES AND FOREIGN INTERESTS IN SINGAPORE LAW PRACTICES"
+   },
+   "heading": {
+    "en": "Appeal against decision of Director of Legal Services"
+   },
+   "text": {
+    "en": "80.—(1) An appeal under section 180(1) of the Act against a decision of the Director of Legal Services must be made within 28 days after the date of the decision that is appealed against.\n(2) The appeal must be made in writing and must specify the grounds on which it is made."
+   }
+  },
+  {
+   "id": "SG-H2994-A81",
+   "no": 81,
+   "noLabel": {
+    "en": "81."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Sharing of premises"
+   },
+   "text": {
+    "en": "81.—(1) Without prejudice to sections 169(7) and 170(7) of the Act and rule 44, a Singapore law practice must not share, occupy or use premises jointly with any unauthorised person, unless the prior approval in writing of the Director of Legal Services is obtained.\n(2) Without prejudice to sections 169(7) and 170(7) of the Act and rule 65, a Qualifying Foreign Law Practice, licensed foreign law practice or representative office must not share, occupy or use premises jointly with any unauthorised person, unless the prior approval in writing of the Director of Legal Services is obtained.\n(3) Every written approval of the Council under rule 9 of the revoked Legal Profession (Professional Conduct) Rules (R 1, 2010 Ed.) as in force immediately before 18 November 2015 (being a written approval in force immediately before that date) is to be treated, on and after that date, as an approval in writing of the Director of Legal Services under paragraph (1).\n(4) With effect from 18 November 2015, any application which was made before that date for the written approval of the Council under rule 9 of the revoked Legal Profession (Professional Conduct) Rules as in force immediately before that date, and which is pending immediately before that date, is to be treated, on and after that date, as an application for the approval in writing of the Director of Legal Services under paragraph (1).\n(5) The Society may transfer to the Director of Legal Services —\n(a)the particulars of and any documents relating to any written approval of the Council referred to in paragraph (3); and\n(b)the particulars of and any documents relating to any application referred to in paragraph (4)."
+   }
+  },
+  {
+   "id": "SG-H2994-A82",
+   "no": 82,
+   "noLabel": {
+    "en": "82."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Consultation with Council"
+   },
+   "text": {
+    "en": "82. The Director of Legal Services may, if the Director of Legal Services considers it appropriate, consult the Council in relation to the exercise by the Director of Legal Services of any power, duty or function under these Rules."
+   }
+  },
+  {
+   "id": "SG-H2994-A83",
+   "no": 83,
+   "noLabel": {
+    "en": "83."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Amendment and issuance of certificates, etc."
+   },
+   "text": {
+    "en": "83. The Director of Legal Services may, on application by any Singapore law practice, Joint Law Venture, Formal Law Alliance, foreign law practice, representative office, solicitor or foreign lawyer and on payment of the appropriate fee specified in the First Schedule —\n(a)amend or issue a licence, certificate of approval or certificate of registration issued under Part IXA of the Act or under these Rules.\n[S 776/2024 wef 11/10/2024]\n(b)[Deleted by S 776/2024 wef 11/10/2024]"
+   }
+  },
+  {
+   "id": "SG-H2994-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRules 5(1)(b), 14(1)(b), 26(1)(b), 41(2)(b), 62(2)(b), 69(1)(c), 74(1) and (4) and 83\nFees\n1.\nApplication fee for application under section 131(1) of the Act for issue of law firm licence and approval of name or proposed name of law firm\n$950\n2.\nFee for law firm licence\n$50\n3.\nApplication fee for application under section 138(1) of the Act for issue of limited liability law partnership licence and approval of name or proposed name of limited liability law partnership\n$950\n4.\nFee for limited liability law partnership licence\n$50\n5.\nApplication fee for application under section 153(1) of the Act for issue of law corporation licence and approval of name or proposed name of law corporation\n$950\n6.\nFee for law corporation licence\n$50\n7.\nApplication fee for application under rule 41(1) for approval to form Singapore group practice and approval of name or proposed name of Singapore group practice\n$950\n8.\nFee for certificate of approval of Singapore group practice\n$50\n9.\nApplication fee for application under section 169(1) of the Act for Joint Law Venture licence\n$6,000\n10.\nFee for Joint Law Venture licence\n$50\n11.\nApplication fee for application under section 170(1) of the Act for Formal Law Alliance licence\n$3,400\n12.\nFee for Formal Law Alliance licence\n$50\n13.\nApplication fee for application under section 171(1) of the Act for Qualifying Foreign Law Practice licence, or for the renewal of any such licence\n$20,000\n14.\nFee for Qualifying Foreign Law Practice licence or for the renewal of any such licence, for a period of 5 years or shorter\n$1,000\n15.\nApplication fee for application under section 172(1) of the Act for foreign law practice licence\n$3,400\n16.\nFee for foreign law practice licence\n$50\n17.\nApplication fee for application under rule 62(1) for approval to form foreign group practice and approval of name or proposed name of foreign group practice\n$950\n18.\nFee for certificate of approval of foreign group practice\n$50\n19.\nFee for notice under section 173(1) of the Act of establishment of representative office\n$450\n20.\nFee for certificate of registration of representative office\n$50\n21.\nApplication fee for application for approval under section 176(1) or (9) of the Act\n$1,100\n22.\nFee for certificate of approval under section 176(1) or (9) of the Act\n$50\n23.\n[Deleted by S 776/2024 wef 11/10/2024]\n24.\nApplication fee for application under rule 83 —\n$50\n(a)to amend a licence, certificate of approval or certificate of registration issued under Part IXA of the Act or under these Rules\n(b)[Deleted by S 776/2024 wef 11/10/2024]\n[S 776/2024 wef 11/10/2024]\n[S 480/2018 wef 01/08/2018]\n[S 776/2024 wef 11/10/2024]"
+   }
+  },
+  {
+   "id": "SG-H2994-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRules 27 and 28(1)\nMatters to be provided in memorandum and articles of association, or constitution, of law corporation\n1. The primary object of the law corporation is to supply legal services.\n2. The chairman and the managing director of the law corporation must each be a solicitor who has in force a practising certificate.\n3. Every director (other than the chairman and the managing director) of the law corporation must be —\n(a)a solicitor who has in force a practising certificate;\n(b)a foreign lawyer —\n(i)who —\n(A)is registered under section 36B or 36C of the Act, and practises in the law corporation; or\n(B)is registered under section 36D of the Act in relation to the law corporation; and\n(ii)who has approval under section 176(1) of the Act to be a director in the law corporation; or\n(c)an individual registered under section 36G of the Act as a regulated non-practitioner.\n4. The office of the chairman, the managing director or a director who is a solicitor becomes vacant if the chairman, managing director or director (as the case may be) ceases to practise as a solicitor.\n5. The office of a director who is a foreign lawyer becomes vacant if —\n(a)the registration of the foreign lawyer under section 36B, 36C or 36D of the Act is cancelled or suspended under section 36H(6) or 98 of the Act, or is cancelled under section 36I(8) of the Act; or\n(b)the approval under section 176(1) of the Act in respect of the foreign lawyer lapses under section 176(3) of the Act, is cancelled under section 177(3) of the Act, or is cancelled or suspended under section 98 of the Act.\n6. The office of a director who is a regulated non-practitioner becomes vacant if —\n(a)the registration of the regulated non-practitioner under section 36G of the Act is cancelled or suspended under section 36H(6) of the Act, or is cancelled under section 36I(8) of the Act; or\n(b)the regulated non-practitioner is ordered under section 98 of the Act read with section 82B(3) of the Act to divest himself or herself of any shares he or she may have in the law corporation.\n7. The shares of the law corporation must be held in accordance with section 159 of the Act and rules 3, 36 and 37.\n8. A solicitor ceases to be eligible to hold shares in the law corporation if the solicitor ceases to practise as a solicitor.\n9. A foreign lawyer ceases to be eligible to hold shares in the law corporation if —\n(a)the registration of the foreign lawyer under section 36B, 36C or 36D of the Act is cancelled or suspended under section 36H(6) or 98 of the Act, or is cancelled under section 36I(8) of the Act; or\n(b)the approval under section 176(1) of the Act in respect of the foreign lawyer lapses under section 176(3) of the Act, is cancelled under section 177(3) of the Act, or is cancelled or suspended under section 98 of the Act.\n10. A regulated non-practitioner ceases to be eligible to hold shares in the law corporation if —\n(a)the registration of the regulated non-practitioner under section 36G of the Act is cancelled or suspended under section 36H(6) of the Act, or is cancelled under section 36I(8) of the Act; or\n(b)the regulated non-practitioner is ordered under section 98 of the Act read with section 82B(3) of the Act to divest himself or herself of any shares he or she may have in the law corporation.\n11. The business of the law corporation, in so far as it relates to legal services, must be under the control and management of all the directors who are solicitors or regulated foreign lawyers.\n12. A person must not transfer or dispose of any shares in the law corporation without the prior approval of the directors.\n13. The directors must not grant their approval for a transfer or disposal of any shares in the law corporation if such transfer or disposal will result in a contravention of any requirement in the Act or these Rules relating to the holding, transfer or disposal of shares in a law corporation.\n14. The manner and terms of the transfer or disposal of any shares in the law corporation in the event that the person holding those shares contravenes section 159(4) of the Act, ceases to be eligible to hold those shares, or is required under section 98 of the Act read with section 82B(3) of the Act, or under section 177 of the Act, to divest those shares, must be provided for.\n15. The memorandum or articles of association, or the provisions of the constitution, relating to the manner and terms of any transfer or disposal of shares referred to in paragraph 14 are subject to the approval of the Director of Legal Services.\n16. The memorandum or articles of association, or the provisions of the constitution, relating to the matters specified in the Act and these Rules must not be amended without the prior approval of the Director of Legal Services."
+   }
+  },
+  {
+   "id": "SG-H2994-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRule 50(3)\nSpecified quasi‑judicial and regulatory bodies, authorities and tribunals\n1. An Appeal Advisory Committee constituted under section 88 of the Business Trusts Act (Cap. 31A).\n2. An Appeal Advisory Committee constituted under section 91 of the Financial Advisers Act (Cap. 110).\n3. An Appeal Advisory Committee constituted under section 49G of the Insurance Act (Cap. 142).\n4. An Appeal Advisory Committee constituted under section 310 of the Securities and Futures Act (Cap. 289).\n5. An Appeal Advisory Committee constituted under section 51 of the Trust Companies Act (Cap. 336).\n6. The Securities Industry Council established under section 138(1) of the Securities and Futures Act in relation to any enquiry conducted under section 138(4) or 139(10) of that Act.\n7. The following committees established under Rules issued by the Singapore Exchange Limited (SGX):\n(a)SGX‑ST disciplinary committee established under the Singapore Exchange Securities Trading Limited (SGX‑ST) Rules;\n(b)CDP disciplinary committee established under the Central Depository (Pte) Limited (CDP) Clearing Rules;\n(c)SGX‑DT disciplinary committee established under the Futures Trading Rules of Singapore Exchange Derivatives Trading Limited (SGX‑DT);\n(d)SGX‑DC disciplinary committee established under the Singapore Exchange Derivatives Clearing Limited (SGX‑DC) Clearing Rules;\n(e)SGX appeals committee referred to in the Singapore Exchange Securities Trading Limited (SGX‑ST) Rules, Central Depository (Pte) Limited (CDP) Clearing Rules, Futures Trading Rules of Singapore Exchange Derivatives Trading Limited (SGX‑DT) and Singapore Exchange Derivatives Clearing Limited (SGX‑DC) Clearing Rules;\n(f)Catalist disciplinary committee established under Rules of Catalist;\n(g)Catalist appeals committee established under Rules of Catalist."
+   }
+  }
+ ]
+}

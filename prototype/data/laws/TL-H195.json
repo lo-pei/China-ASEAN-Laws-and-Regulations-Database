@@ -1,0 +1,81 @@
+{
+ "id": "TL-H195",
+ "title": {
+  "zh": "Autoriza o Governo a proceder à 修改民事诉讼法典",
+  "en": null,
+  "orig": "Autoriza o Governo a proceder à alteração do Código de Processo Civil"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p04",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2021-03-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 3/2021",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1173,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2021/serie_1/SERIE_I_NO_10.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自官方公报 PDF（public/docs/2021/serie_1/SERIE_I_NO_10.pdf）第 277–278 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H195-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Objeto"
+   },
+   "text": {
+    "pt": "É concedida ao Governo autorização para alterar o regime da fase de saneamento do processo civil contido nos artigos 385.º a 388.º do Código de Processo Civil, aprovado p elo Decreto- Lei n.º 1/2006, de 21 de fevereiro."
+   }
+  },
+  {
+   "id": "TL-H195-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Sentido"
+   },
+   "text": {
+    "pt": "A alteração legislativa autorizada deve configurar-se de modo a dar maior flexibilidade, dentro da fase de saneamento do processo civil, ao momento de preparação da audiência de discussão e julgamento, conferindo-se ao tribunal o poder de escolher o esquema processual mais adequado às caraterísticas e circunstâncias do concreto litígio."
+   }
+  },
+  {
+   "id": "TL-H195-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "heading": {
+    "pt": "Extensão"
+   },
+   "text": {
+    "pt": "A intervenção legislativa autorizada regulará os aspetos seguintes:\na)  Previsão de esquemas alternativos de preparação da audiência final de discussão e julgamento, designadamente LEI  N.º  3 /2021 de  2  de  Março AUTORIZA   O   GOVERNO   A   PROCEDER   À ALTERAÇÃO   DO   CÓDIGO   DE   PROCESSO   CIVIL A presente lei autoriza o Governo a alterar o Código de Processo Civil, tendo em vista conferir maior flexibilidade, dentro da fase de saneamento do processo, ao momento de preparação da audiência de discussão e julgamento. São duas as principais alterações que o Governo fica autorizado a introduzir no Código"
+   }
+  }
+ ]
+}

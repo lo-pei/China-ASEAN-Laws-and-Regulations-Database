@@ -1,0 +1,104 @@
+{
+ "id": "PH-H7024",
+ "title": {
+  "zh": "对《地方政府法典 1991》的修改",
+  "en": "An Act Amending Section 41(B) of Republic Act No. 7160, Otherwise known as the Local Government Code of 1991",
+  "orig": "An Act Amending Section 41(B) of Republic Act No. 7160, Otherwise known as the Local Government Code of 1991"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p100",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1998-02-25",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 8554",
+ "officialCode": null,
+ "topics": [
+  "administrative"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 1119,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8554_1998.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 6 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1998/ra_8554_1998.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H7024-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The Carigara School of Fisheries in the Municipality of Carigara, Province of Leyte, is hereby converted into a college, to be known as the Carigara College of Fisheries, hereinafter referred to as the College."
+   }
+  },
+  {
+   "id": "PH-H7024-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The College, in addition to the present secondary education offered by the existing high school, shall provide higher vocational and technical courses and training in the field of fisheries leading to the degrees of fisheries and marine engineering."
+   }
+  },
+  {
+   "id": "PH-H7024-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The College shall be under the administration and supervision of the Commission on Higher Education as a CHED supervised Higher Education Institution (CHEI)."
+   }
+  },
+  {
+   "id": "PH-H7024-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "All personnel, records and assets, as well as liabilities of the Carigara School of Fisheries, are hereby transferred to and absorbed by the Carigara College of Fisheries."
+   }
+  },
+  {
+   "id": "PH-H7024-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Carigara School of Fisheries. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act."
+   }
+  },
+  {
+   "id": "PH-H7024-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

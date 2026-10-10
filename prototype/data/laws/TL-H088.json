@@ -1,0 +1,519 @@
+{
+ "id": "TL-H088",
+ "title": {
+  "zh": "Divisão Administrativa do Território",
+  "en": null,
+  "orig": "Divisão Administrativa do Território"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p03",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "amended",
+ "promulgatedDate": "2009-10-07",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "据公报标题，本法经 Lei n.º 4/2016、Lei n.º 14/2021、Lei n.º 14/2023、Lei n.º 19/2023 修改；本库收录的是本法原始公布文本，修改后的合并本未另行收录。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 11/2009",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 30,
+ "chars": 7124,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2009/serie_1/serie1_no35.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 30 条；逐字取自官方公报 PDF（public/docs/2009/serie_1/serie1_no35.pdf）第 —–— 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 【据公报标题，本法经 《第4/2016号法律》、《第14/2021号法律》、《第14/2023号法律》、《第19/2023号法律》 修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H088-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I PRINCÍPIOS GERAIS"
+   },
+   "heading": {
+    "pt": "Criação de Municípios"
+   },
+   "text": {
+    "pt": "O território de Timor-Leste divide-se administrativamente em municípios, sendo que cada um destes compreende uma unidade de poder local, nos termos da Constituição."
+   }
+  },
+  {
+   "id": "TL-H088-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I PRINCÍPIOS GERAIS"
+   },
+   "heading": {
+    "pt": "Conceito"
+   },
+   "text": {
+    "pt": "Os municípios são pessoas colectivas de território, dotadas de autonomia administrativa e financeira e de órgãos representativos eleitos, que visam a prossecução dos interesses das populações respectivas, em benefício da unidade nacional e do desenvolvimento local."
+   }
+  },
+  {
+   "id": "TL-H088-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I PRINCÍPIOS GERAIS"
+   },
+   "heading": {
+    "pt": "Fronteira com Estado estrangeiro"
+   },
+   "text": {
+    "pt": "A delimitação das fronteiras dos municípios por ocasião da divisão administrativa do território não implica reconhecimento de fronteiras com Estado estrangeiro, que se dá nos termos da Constituição."
+   }
+  },
+  {
+   "id": "TL-H088-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II MUNICÍPIOS DE TIMOR-LESTE"
+   },
+   "text": {
+    "pt": "1.   São municípios de Timor-Leste os de:\na)   Aileu;\nb)   Ainaro;\nc)   Baucau;\nd)   Bobonaro;\ne)   Covalima;\nf)   Dili;\ng)   Ermera;\nh)  Lautém;\n(i)   Liquiçá;\nj)   Manatuto;\nk)   Manufahi;\nl)   Oe-Cusse Ambeno;\nm)   Viqueque.\n2.   Os municípios compõem-se da área territorial dos distritos e são implementados de acordo com a lei do poder local."
+   }
+  },
+  {
+   "id": "TL-H088-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II MUNICÍPIOS DE TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Município de Aileu"
+   },
+   "text": {
+    "pt": "A área denominada Distrito de Aileu e os sub-distritos de Aileu, Laulara, Liquidoe e Remexio, passam a constituir o Município de Aileu, com sede administrativa em Aileu."
+   }
+  },
+  {
+   "id": "TL-H088-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II MUNICÍPIOS DE TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Município de Ainaro"
+   },
+   "text": {
+    "pt": "A área denominada Distrito de Ainaro e os sub-distritos de Hato Udo, Ainaro, Hatu Builico e Maubisse, passam a constituir o Município de Ainaro, com sede administrativa em Ainaro."
+   }
+  },
+  {
+   "id": "TL-H088-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II MUNICÍPIOS DE TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Município de Baucau"
+   },
+   "text": {
+    "pt": "A área denominada Distrito de Baucau e os sub-distritos de Baguia, Baucau, Laga, Quelicai, Vemasse e Venilale, passam a constituir o Município de Baucau, com sede administrativa em Baucau."
+   }
+  },
+  {
+   "id": "TL-H088-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II MUNICÍPIOS DE TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Município de Bobonaro"
+   },
+   "text": {
+    "pt": "A área denominada Distrito de Bobonaro e os sub-distritos de Atabae, Balibó, Bobonaro, Cailaco, Lolotoe e Maliana, passam a constituir o Município de Bobonaro, com sede administrativa em Maliana."
+   }
+  },
+  {
+   "id": "TL-H088-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II MUNICÍPIOS DE TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Município de Covalima"
+   },
+   "text": {
+    "pt": "A área denominada Distrito de Covalima e os sub-distritos de Fatululik, Fatumea, Fohorém, Maucatar, Suai, Tilomar e Zumalai, passam a constituir o Município de Covalima, com sede administrativa em Suai."
+   }
+  },
+  {
+   "id": "TL-H088-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II MUNICÍPIOS DE TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Município de Dili"
+   },
+   "text": {
+    "pt": "A área denominada Distrito de Dili e os sub-distritos de Ataúro, Cristo-Rei, Dom Aleixo, Nain Feto, Metinaro e Vera Cruz, passam a constituir o Município de Dili, com sede administrativa em Dili."
+   }
+  },
+  {
+   "id": "TL-H088-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II MUNICÍPIOS DE TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Município de Ermera"
+   },
+   "text": {
+    "pt": "A área denominada Distrito de Ermera e os sub-distritos de Atsabe, Ermera, Hatolia, Letefoho e Railaco, passam a constituir o Município de Ermera, com sede administrativa em Gleno."
+   }
+  },
+  {
+   "id": "TL-H088-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II MUNICÍPIOS DE TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Município de Lautém"
+   },
+   "text": {
+    "pt": "A área denominada Distrito de Lautém, o Ilhéu de Jaco e os sub-distritos de Iliomar, Lautém, Lospalos, Luro e Tutuala, passam a constituir o Município de Lautém, com sede administrativa em Lospalos."
+   }
+  },
+  {
+   "id": "TL-H088-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II MUNICÍPIOS DE TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Município de Liquiçá"
+   },
+   "text": {
+    "pt": "A área denominada Distrito de Liquiçá e os sub-distritos de Bazartete, Liquiçá e Maubara, passam a constituir o Município de Liquiçá, com sede administrativa em Liquiçá."
+   }
+  },
+  {
+   "id": "TL-H088-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II MUNICÍPIOS DE TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Município de Manatuto"
+   },
+   "text": {
+    "pt": "A área denominada Distrito de Manatuto e os sub-distritos de Natarbora, Lacló, Laclubar, Laleia, Manatuto e Soibada, passam a constituir o Município de Manatuto, com sede administrativa em Manatuto."
+   }
+  },
+  {
+   "id": "TL-H088-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II MUNICÍPIOS DE TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Município de Manufahi"
+   },
+   "text": {
+    "pt": "A área denominada Distrito de Manufahi e os sub-distritos de Alas, Fatuberliu, Same e Turiscai, passam a constituir o Município de Manufahi, com sede administrativa em Same."
+   }
+  },
+  {
+   "id": "TL-H088-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II MUNICÍPIOS DE TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Município de Oe-Cusse Ambeno"
+   },
+   "text": {
+    "pt": "1.     A área denominada Distrito de Oe-Cusse e os sub-distritos de Nítibe, Oesilo, Pante Macassar e Pássabe, passam a constituir o Município de Oe-Cusse Ambeno, com sede administrativa em Pante Macassar.\n2.    O Município de Oe-Cusse Ambeno rege-se por uma política administrativa e um regime económico especiais, a definir em lei."
+   }
+  },
+  {
+   "id": "TL-H088-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II MUNICÍPIOS DE TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Município de Viqueque"
+   },
+   "text": {
+    "pt": "A área denominada Distrito de Viqueque e os sub-distritos de Lacluta, Ossú, Uatolari, Uatucarbau e Viqueque, passam a constituir o Município de Viqueque, com sede administrativa em Viqueque."
+   }
+  },
+  {
+   "id": "TL-H088-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II MUNICÍPIOS DE TIMOR-LESTE"
+   },
+   "heading": {
+    "pt": "Capital da Nação"
+   },
+   "text": {
+    "pt": "Dili é a capital da República Democrática de Timor-Leste."
+   }
+  },
+  {
+   "id": "TL-H088-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CRIAÇÃO, MODIFICAÇÃO E EXTINÇÃO DE MUNICÍPIOS"
+   },
+   "heading": {
+    "pt": "Critérios"
+   },
+   "text": {
+    "pt": "A criação, modificação e extinção de municípios depende de lei e deve ter em conta:\na)   A vontade da maioria das populações abrangidas, manifestada em consulta popular;\nb)   A preservação da homogeneidade etnolinguística e identidade cultural local;\nc)   Um equilíbrio do potencial e recursos para o desenvolvimento;\nd)   Factores geográficos, demográficos, económicos, sociais, culturais e administrativos;\ne)   Interesses de ordem nacional e regional ou local em causa;\nf)    A existência de um centro administrativo que permita a instalação dos órgãos municipais;\ng)   A comprovação de que as receitas do município de origem e do novo município são suficientes para a prossecução das atribuições que lhe estiverem cometidas."
+   }
+  },
+  {
+   "id": "TL-H088-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CRIAÇÃO, MODIFICAÇÃO E EXTINÇÃO DE MUNICÍPIOS"
+   },
+   "heading": {
+    "pt": "Requisitos de criação"
+   },
+   "text": {
+    "pt": "A criação de novos municípios, bem como a manutenção dos actuais, exige a verificação cumulativa dos seguintes requisitos:\na)   Na área do futuro município, o número de residentes deve ser superior a trinta mil;\nb)  A área do futuro município cuja criação seja pretendida deve ser superior a trezentos quilómetros quadrados."
+   }
+  },
+  {
+   "id": "TL-H088-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CRIAÇÃO, MODIFICAÇÃO E EXTINÇÃO DE MUNICÍPIOS"
+   },
+   "heading": {
+    "pt": "Criação e modificação de municípios"
+   },
+   "text": {
+    "pt": "1)   Podem ser criados novos municípios através de:\na)   Fusão de dois ou mais municípios;\nb)   Cisão de um município em dois ou mais municípios.\n2)   Os municípios podem modificar-se por integração de parte de um município em outro."
+   }
+  },
+  {
+   "id": "TL-H088-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CRIAÇÃO, MODIFICAÇÃO E EXTINÇÃO DE MUNICÍPIOS"
+   },
+   "heading": {
+    "pt": "Iniciativa de modificação ou criação"
+   },
+   "text": {
+    "pt": "1.   Qualquer iniciativa para propor a modificação ou criação de um município bem como do respectivo nome ou sede administrativa pode partir:\na)   Da subscrição de petição por no mínimo trinta por cento dos eleitores do município envolvido;\nb)   De decisão da maioria absoluta da Assembleia Municipal;\nc)   De proposta do Conselho de Ministros;\nd)   De membro do Parlamento Nacional.\n2.     Apenas é admitida uma iniciativa de modificação ou criação de município durante o período do mandato dos órgãos municipais, nos termos da lei eleitoral dos municípios.\n3.   A iniciativa deve dispor sobre as fronteiras, o nome do município, bem como sobre a sua sede administrativa.\n4.   A modificação ou criação de município não pode ocorrer nos seis meses que antecedam as eleições nacionais ou municipais."
+   }
+  },
+  {
+   "id": "TL-H088-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CRIAÇÃO, MODIFICAÇÃO E EXTINÇÃO DE MUNICÍPIOS"
+   },
+   "heading": {
+    "pt": "Fronteiras municipais"
+   },
+   "text": {
+    "pt": "1.    Um município pode fazer fronteira com mais de um município, caso não seja criado junto à orla marítima ou à fronteira com país vizinho, e ser geograficamente contínuo.\n2.   Cabe ao Governo, pelo órgão responsável pela Administração Estatal e Ordenamento do Território, realizar a descrição topográfica das fronteiras dos municípios delimitadas pela presente lei."
+   }
+  },
+  {
+   "id": "TL-H088-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CRIAÇÃO, MODIFICAÇÃO E EXTINÇÃO DE MUNICÍPIOS"
+   },
+   "heading": {
+    "pt": "Sede Administrativa"
+   },
+   "text": {
+    "pt": "Cada município dispõe de um centro administrativo que deve situar-se no local com maior número de infra-estruturas e maior concentração populacional."
+   }
+  },
+  {
+   "id": "TL-H088-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CRIAÇÃO, MODIFICAÇÃO E EXTINÇÃO DE MUNICÍPIOS"
+   },
+   "heading": {
+    "pt": "Regulamentação de critérios"
+   },
+   "text": {
+    "pt": "Compete ao Governo regulamentar os critérios e procedimentos destinados à criação, modificação ou extinção de municípios."
+   }
+  },
+  {
+   "id": "TL-H088-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Instalação do Município"
+   },
+   "text": {
+    "pt": "Compete ao Governo promover as diligências e praticar os actos necessários à instalação dos Municípios e aos Administradores de Distrito prosseguir na Administração Municipal até à instalação da primeira Assembleia Municipal."
+   }
+  },
+  {
+   "id": "TL-H088-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Extinção das actuais administrações distritais e sub- distritais"
+   },
+   "text": {
+    "pt": "1.   Ficam extintas as administrações distritais e sub-distritais actuais sediadas na área do respectivo município.\n2.   O património, os direitos e obrigações e o pessoal das administrações distritais transferem-se automaticamente para os serviços dependentes dos órgãos do poder local e ficam sujeitos à respectiva reorganização."
+   }
+  },
+  {
+   "id": "TL-H088-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Órgãos do poder local"
+   },
+   "text": {
+    "pt": "Os órgãos do poder local e a sua organização e eleição são determinados pela lei do poder local e pela lei eleitoral municipal."
+   }
+  },
+  {
+   "id": "TL-H088-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Revogações"
+   },
+   "text": {
+    "pt": "É revogada toda a legislação contrária à presente lei."
+   }
+  },
+  {
+   "id": "TL-H088-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

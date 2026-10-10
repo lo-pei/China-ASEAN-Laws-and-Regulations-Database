@@ -1,0 +1,199 @@
+{
+ "id": "SG-H640",
+ "title": {
+  "zh": null,
+  "en": "Civil Defence Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p08",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CDA1986-RG1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 10,
+ "chars": 2592,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CDA1986-RG1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 10 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H640-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Civil Defence Regulations."
+   }
+  },
+  {
+   "id": "SG-H640-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I ORGANISATION"
+   },
+   "heading": {
+    "en": "Ranks"
+   },
+   "text": {
+    "en": "2. The ranks in the Singapore Civil Defence Force in order of seniority shall be as follows:\n(a)Officers:\n(i)Commissioner;\n(ii)Deputy Commissioner;\n(iii)Colonel;\n(iv)Lieutenant-Colonel;\n(v)Major;\n(vi)Captain;\n(vii)Lieutenant; and\n(viii)Second Lieutenant.\n(b)Servicemen:\n(i)Senior Warrant Officer;\n(ii)Warrant Officer I;\n(iii)Warrant Officer II;\n(iv)Staff Sergeant;\n(v)Sergeant;\n(vi)Corporal;\n(vii)Lance-Corporal; and\n(viii)Private."
+   }
+  },
+  {
+   "id": "SG-H640-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART I ORGANISATION"
+   },
+   "heading": {
+    "en": "Uniform, badges of rank, equipment, etc., issued"
+   },
+   "text": {
+    "en": "3. The uniform and badges of rank to be worn by members and equipment or other property to be issued to members shall be determined by the Commissioner."
+   }
+  },
+  {
+   "id": "SG-H640-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART I ORGANISATION"
+   },
+   "heading": {
+    "en": "Care and maintenance of uniform, equipment, etc., issued"
+   },
+   "text": {
+    "en": "4. A member shall look after and maintain any uniform, equipment or other property issued to him and he may be required to account for it at any time by the Commissioner or by an officer acting on behalf of the Commissioner."
+   }
+  },
+  {
+   "id": "SG-H640-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART I ORGANISATION"
+   },
+   "heading": {
+    "en": "Training"
+   },
+   "text": {
+    "en": "5. A member shall attend such course of instruction and undergo such training as may be required by the Commissioner."
+   }
+  },
+  {
+   "id": "SG-H640-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART II DISCIPLINE"
+   },
+   "heading": {
+    "en": "Members to obey lawful orders"
+   },
+   "text": {
+    "en": "6. Every member shall obey all lawful orders whether given verbally or in writing and shall obey and comply with all Regulations, Rules, General Orders, Standing Orders and directives made under the Act."
+   }
+  },
+  {
+   "id": "SG-H640-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART II DISCIPLINE"
+   },
+   "heading": {
+    "en": "Restriction on receipt of articles of value"
+   },
+   "text": {
+    "en": "7. No member shall, by reason of his being such a member, receive any gift or article of value as a present without the prior approval in writing of the Commissioner."
+   }
+  },
+  {
+   "id": "SG-H640-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART II DISCIPLINE"
+   },
+   "heading": {
+    "en": "Restriction on meetings and petitions"
+   },
+   "text": {
+    "en": "8. No meeting of members shall be held nor shall any petition be written by or on behalf of any member concerning any matter affecting the discipline or promotions of the members."
+   }
+  },
+  {
+   "id": "SG-H640-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART II DISCIPLINE"
+   },
+   "heading": {
+    "en": "Restriction on public announcements concerning Force"
+   },
+   "text": {
+    "en": "9. No member shall publish or cause to be published or otherwise make public any information concerning the Force without the prior approval in writing of the Commissioner."
+   }
+  },
+  {
+   "id": "SG-H640-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART III MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Legal proceedings"
+   },
+   "text": {
+    "en": "10.—(1) If any legal proceedings are instituted against a member in connection with any matter arising out of his official duties, he shall forthwith report the legal proceedings to the Commissioner. The member shall not enter into any negotiations with the complainant with a view to compounding an offence without the prior sanction of the Commissioner.\n(2) No member shall take any step to institute legal proceedings on his own behalf in connection with any matters whatsoever arising out of his official duties without the previous consent of the Commissioner.\n(3) A member may apply for legal aid in proceedings taken by or against him arising from matters connected with the performance of his official duties but no charges incurred through employing such aid shall be paid by the Government unless the prior sanction of the Government to such employment has been obtained."
+   }
+  }
+ ]
+}

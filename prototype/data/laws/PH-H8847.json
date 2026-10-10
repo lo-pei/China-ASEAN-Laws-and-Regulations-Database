@@ -1,0 +1,84 @@
+{
+ "id": "PH-H8847",
+ "title": {
+  "zh": null,
+  "en": "Labor Code of the Philippines",
+  "orig": "An Act Strengthening Tripartism, Amending for the Purpose Article 275 of Presidential Decree No. 442, as Amended, Otherwise Known as the \"Labor Code of the Philippines\""
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p126",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2013-03-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 10395",
+ "officialCode": null,
+ "topics": [
+  "labor"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 3931,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2013/ra_10395_2013.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2013/ra_10395_2013.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H8847-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Article 275 of the Labor Code is hereby amended to read as follows:\n\"ART. 275. Tripartism, Tripartite Conferences, and Tripartite Industrial Peace Councils. – (a) Tripartism in labor relations is hereby declared a State policy. Towards this end, workers and employers shall, as far as practicable, be represented in decision and policy-making bodies of the government.\n\"(b) The Secretary of Labor and Employment or his duly authorized representatives may from time to time call a national, regional, or industrial tripartite conference of representatives of government, workers and employers, and other interest groups as the case may be, for the consideration and adoption of voluntary codes of principles designed to promote industrial peace based on social justice or to align labor movement relations with established priorities in economic and social development. In calling such conference, the Secretary of Labor and Employment may consult with accredited representatives of workers and employers.\n\"(c) A National Tripartite Industrial Peace Council (NTIPC) shall be established, headed by the Secretary of Labor and Employment, with twenty (20) representatives each from the labor and employers’ sectors to be designated by the President at regular intervals. For this purpose, a sectoral nomination, selection, and recall process shall be established by the DOLE in consultation with the sectors observing the ‘most representative’ organization criteria of ILO Convention No. 144.\n\"Tripartite Industrial Peace Councils (TIPCs) at the regional or industry level shall also be established with representatives from government, workers and employers to serve as a continuing forum for tripartite advisement and consultation in aid of streamlining the role of government, empowering workers’ and employers’ organizations, enhancing their respective rights, attaining industrial peace, and improving productivity.\n\"The TIPCs shall have the following functions:\n\"(1) Monitor the full implementation and compliance of concerned sectors with the provisions of all tripartite instruments, including international conventions and declarations, codes of conduct, and social accords;\n\"(2) Participate in national, regional or industry-specific tripartite conferences which the President or the Secretary of Labor and Employment may call from time to time;\n\"(3) Review existing labor, economic and social policies and evaluate local and international developments affecting them;\n\"(4) Formulate, for submission to the President or to Congress, tripartite views, recommendations and proposals on labor, economic, and social concerns, including the presentation of tripartite positions on relevant bills pending in Congress;\n\"(5) Advise the Secretary of Labor and Employment in the formulation or implementation of policies and legislation affecting labor and employment;\n\"(6) Serve as a communication channel and a mechanism for undertaking joint programs among government, workers, employers and their organizations toward enhancing labor-management relations; and \"(7) Adopt its own program of activities and rules, consistent with development objectives.\n\"All TIPCs shall be an integral part of the organizational structure of the NTIPC.\n\"The operations of all TIPCs shall be funded from the regular budget of the DOLE.\""
+   }
+  },
+  {
+   "id": "PH-H8847-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Implementing Rules and Regulations. – The Secretary of Labor and Employment shall promulgate the necessary rules and regulations to implement the provisions of this Act."
+   }
+  },
+  {
+   "id": "PH-H8847-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Repealing Clause. – Presidential Decree No. 442, as amended, otherwise known as the \"Labor Code of the Philippines\", and all other acts, laws, presidential issuances, rules and regulations inconsistent herewith are hereby repealed, amended or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H8847-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least two (2) newspapers of national circulation."
+   }
+  }
+ ]
+}

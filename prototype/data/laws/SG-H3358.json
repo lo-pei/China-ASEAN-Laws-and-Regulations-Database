@@ -1,0 +1,146 @@
+{
+ "id": "SG-H3358",
+ "title": {
+  "zh": null,
+  "en": "Notaries Public Act 1959",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p42",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act NPA1959",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 8,
+ "chars": 4783,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/NPA1959?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 8 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3358-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Notaries Public Act 1959."
+   }
+  },
+  {
+   "id": "SG-H3358-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“notary public” means a person who has been appointed as a notary public under section 3 but does not include any person whose appointment has been revoked under section 5;\n“Senate” means the Senate of the Singapore Academy of Law constituted under the Singapore Academy of Law Act 1988."
+   }
+  },
+  {
+   "id": "SG-H3358-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Appointment of notaries public"
+   },
+   "text": {
+    "en": "3.—(1) The Senate may, from time to time, appoint fit and proper persons to be notaries public for a period not exceeding 12 months.\n(2) No person shall be appointed as a notary public unless he is a practising advocate and solicitor in Singapore and has so practised for not less than 7 years.\n(3) The Senate shall not make any appointment under this section without consulting the Council of the Law Society of Singapore constituted under the Legal Profession Act 1966.\n(4) In making any appointment under this section, the Senate shall have regard to the number of notaries public already practising in the place where the applicant proposes to practise and to the convenience of the inhabitants of that place, but, subject to this, the Senate shall have absolute discretion in making or refusing to make any such appointment and there shall be no appeal from its decision.\n(5) If it appears to the Senate that any notary public is about to be absent from Singapore for a period exceeding one month, the Senate may appoint any person, being a practising advocate and solicitor in Singapore, to be a notary public temporarily during the absence of that notary public from Singapore.\n(6) No temporary appointment of a notary public shall have effect for a period longer than 12 months and any such appointment shall lapse on the death or on the return to Singapore of the notary public on account of whose departure from Singapore the appointment was made.\n(7) Every appointment under subsection (1) or subsection (5) and the lapse of every temporary appointment under subsection (6) shall be published in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H3358-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Privileges of notaries public"
+   },
+   "text": {
+    "en": "4.—(1) Every notary public shall have and may exercise within Singapore all the powers and functions which are ordinarily exercised by notaries public in England.\n(2) Except for the purposes of and to the extent necessary to give effect to subsection (3), powers under subsection (1) shall not include power to administer any oath or affirmation in connection with any affidavit or statutory declaration which is executed for the purpose of being used in any court or place within Singapore or to take or attest any such affidavit or statutory declaration.\n(3) Without prejudice to the generality of the powers and functions conferred by subsection (1), a notary public may —\n(a)administer any oath or affirmation in connection with any affidavit or statutory declaration which is executed —\n(i)for the purpose of confirming or proving the due execution of any document;\n(ii)by any master or member of the crew of any vessel in respect of any matter concerning the vessel; or\n(iii)for the purpose of being used in any court or place outside Singapore;\n(b)take or attest any affidavit or statutory declaration referred to in paragraph (a); and\n(c)have and exercise such other powers and functions as may be prescribed."
+   }
+  },
+  {
+   "id": "SG-H3358-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Misconduct of notaries public"
+   },
+   "text": {
+    "en": "5. If it appears to the Senate that any person being a notary public —\n(a)has become a bankrupt or has made an arrangement with his creditors;\n(b)has been struck off the roll of advocates and solicitors of Singapore; or\n(c)has been found to be guilty of such professional or other misconduct as, in the opinion of the Senate, renders him unfit to practise as a notary public,\nthe Senate shall by order revoke the appointment of the person and shall cause the order to be published in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H3358-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Revocation of appointment of notary public under special circumstances"
+   },
+   "text": {
+    "en": "6. The Senate may, by notification in the Gazette, revoke the appointment of a notary public if the notary public requests that his appointment be revoked."
+   }
+  },
+  {
+   "id": "SG-H3358-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Penalty for exercise of functions of notary public by unauthorised persons"
+   },
+   "text": {
+    "en": "7. Any person who exercises within Singapore any of the functions of a notary public otherwise than in accordance with the provisions of this Act shall be guilty of an offence and shall be liable on conviction before a District Judge to a fine not exceeding $10,000.\n[20/2007]"
+   }
+  },
+  {
+   "id": "SG-H3358-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Rules"
+   },
+   "text": {
+    "en": "8.—(1) The Chief Justice, after consultation with the Senate, may make rules —\n(a)for the guidance and control of persons entitled to exercise the functions of a notary public under this Act;\n(b)to fix the fees payable to notaries public;\n(c)to fix the fees payable to the Singapore Academy of Law by any person on appointment as a notary public, and on renewal of such appointment; and\n(d)prescribing the powers and functions of notaries public.\n(2) All rules made under this section shall be published in the Gazette, and shall come into force on the date of such publication or on such later date as may be specified in the rules."
+   }
+  }
+ ]
+}

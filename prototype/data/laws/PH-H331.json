@@ -1,0 +1,84 @@
+{
+ "id": "PH-H331",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Sections Fifty-Three, Ninety-One and Ninety-Two of the National Defense Act, as Amended",
+  "orig": "An Act to Amend Sections Fifty-Three, Ninety-One and Ninety-Two of the National Defense Act, as Amended"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p04",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1948-06-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 237",
+ "officialCode": null,
+ "topics": [
+  "defence"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1887,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1948/ra_237_1948.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1948/ra_237_1948.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H331-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section fifty-three of Commonwealth Act Numbered One is amended to read as follows:\n\"Sec. 53. Young men shall be required to register for military training in the armed forces in the calendar year in which they will attain twenty years of age. This class of training shall be known as trainee instruction and shall be given for such periods, at such time, and under such regulations as the President may from time to time prescribe. Except for those trainees selected for duty with elements of the Regular Force, the period of trainee instruction shall not exceed ten months. In no case shall the period of trainee instruction extend beyond eighteen months except with the specific consent of trainee.\""
+   }
+  },
+  {
+   "id": "PH-H331-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section ninety-one of Commonwealth Act Numbered One, as amended, is hereby further amended to read as follows:\n\"Sec. 91. Young men undergoing trainee instruction shall receive five centavos per day, in addition to meals and barracks accommodations, medical attention, clothing and transportation: Provided, That any trainee who may serve with the colors longer than ten months, except for those who may be required by regulations to serve additional periods as a result of their own misconduct or unauthorized absences during the course of their normal trainee instruction, shall receive, over and above normal pay and allowances provided for trainees, the sum of five pesos for each additional month so served.\""
+   }
+  },
+  {
+   "id": "PH-H331-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Section ninety-two of Commonwealth Act Numbered One, as amended, is hereby further amended to read as follows:\n\"Sec. 92. Individuals undergoing training in the grade of probationary second lieutenant shall receive pay as provided in the preceding section for trainees of more than ten months service, except that they shall receive such allowances in cash or in kind as the Chief of Staff may prescribe.\""
+   }
+  },
+  {
+   "id": "PH-H331-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 9, 1948."
+   }
+  }
+ ]
+}

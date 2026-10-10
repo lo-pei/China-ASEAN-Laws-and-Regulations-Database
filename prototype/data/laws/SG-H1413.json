@@ -1,0 +1,91 @@
+{
+ "id": "SG-H1413",
+ "title": {
+  "zh": null,
+  "en": "Estate Duty (Remission for Deaths in Quick Succession) Order 2005",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p18",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation EDA1929-S896-2005",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 3039,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/EDA1929-S896-2005?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 4 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1413-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Order may be cited as the Estate Duty (Remission for Deaths in Quick Succession) Order 2005."
+   }
+  },
+  {
+   "id": "SG-H1413-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definition"
+   },
+   "text": {
+    "en": "2. In this Order, “assessed value”, in relation to property, means the value of the property assessed by the Commissioner in accordance with the Act for the purpose of determining the estate duty payable in respect of that property."
+   }
+  },
+  {
+   "id": "SG-H1413-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Remission of estate duty for deaths in quick succession"
+   },
+   "text": {
+    "en": "3.—(1) In the case of any 2 persons both dying on or after 1st January 2006, the later death occurring not more than 24 months after the earlier death, where ––\n(a)any property or interest therein had passed on the death of the earlier deceased to the later deceased;\n(b)such property or interest, including any property shown to the satisfaction of the Commissioner to be property wholly converted from the first-mentioned property or interest, passes on the death of the later deceased (referred to in this Order as the transferred property);\n(c)estate duty is assessed to be payable on the transferred property or part thereof both on the earlier death and the later death; and\n(d)the estate duty on the transferred property or part thereof on the earlier death has not been fully deducted under section 28(1) of the Act or fully remitted under section 49 of the Act,\nthere shall be allowed, from the estate duty payable on the estate of the later deceased, a remission of estate duty of the amount determined in accordance with the formula —\nwhere A\nis the assessed value of that part of the transferred property on which estate duty has been paid on the earlier death or the assessed value of the same part of the transferred property on which estate duty is payable on the later death, whichever is the lower;\nB\nis the assessed value of the estate of the later deceased;\nC\nis the amount of the estate duty payable on the estate of the later deceased; and\nP\nis the percentage of remission at the applicable rate set out in the Schedule.\n(2) The amount of remission of estate duty allowed under this Order in respect of any transferred property or part thereof shall be reduced by the amount of any deduction of estate duty allowed for the same property or part thereof on the same death under section 28(1) of the Act.\n(3) In this paragraph, a reference to transferred property does not include a reference to ––\n(a)any gift inter vivos under section 7(1)(c) of the Act either by the earlier deceased or the later deceased; or\n(b)any interest in expectancy in the estate of the later deceased which falls into possession more than 24 months after the date of the earlier death, where an option under section 25(1) of the Act was made to pay the estate duty in respect of that interest when the interest falls into possession."
+   }
+  },
+  {
+   "id": "SG-H1413-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nParagraph 3(1)\nRates of remission of estate duty for deaths\nin quick succession\nPeriod between date of earlier death and date of later death\nPercentage of remission\n6 months or less\n100%\nMore than 6 months but not more than 12 months\n75%\nMore than 12 months but not more than 18 months\n50%\nMore than 18 months but not more than 24 months\n25%\nMore than 24 months\n0%"
+   }
+  }
+ ]
+}

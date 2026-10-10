@@ -1,0 +1,84 @@
+{
+ "id": "PH-H1037",
+ "title": {
+  "zh": null,
+  "en": "An Act Creating the Municipality of Ma-Ayon in the Province of Capiz",
+  "orig": "An Act Creating the Municipality of Ma-Ayon in the Province of Capiz"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p14",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1955-03-30",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1203",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 770,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1955/ra_1203_1955.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1955/ra_1203_1955.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1037-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The \"arrabal\" of Ma-ayon of the Municipality of Pontevedra, Province of Capiz, is hereby separated from the Municipality of Pontevedra and created into a new and separate municipality to be known as the Municipality of Ma-ayon."
+   }
+  },
+  {
+   "id": "PH-H1037-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The said new Municipality of Ma-ayon shall include the following barrios: Ma-ayon, Fernandez, Piña, Balighot, Batabat, Guia, Tuburan, and Canapi-an Sun."
+   }
+  },
+  {
+   "id": "PH-H1037-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Upon the approval of this Act or as soon thereafter as practicable, the President of the Philippines shall appoint the elective officials of the new municipality who shall hold office until their successors shall have been duly elected in the general elections next following the approval of this Act and have qualified."
+   }
+  },
+  {
+   "id": "PH-H1037-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: March 30, 1955."
+   }
+  }
+ ]
+}

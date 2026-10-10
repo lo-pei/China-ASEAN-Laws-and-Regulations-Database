@@ -1,0 +1,75 @@
+{
+ "id": "PH-H6641",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Section One of Republic Act Numbered Seventy-one Hundred Sixty Three, Entitled: \"An Act Granting Progressive Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain, for Commercial Purposes, Radio Broadcasting Stations and Television Stations in Metro Manila and in Regions I, VI and VII, and for Other Purposes\", for the Purpose of Extending Its Operations Throughout the Philippines",
+  "orig": "An Act Amending Section One of Republic Act Numbered Seventy-one Hundred Sixty Three, Entitled: \"An Act Granting Progressive Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain, for Commercial Purposes, Radio Broadcasting Stations and Television Stations in Metro Manila and in Regions I, VI and VII, and for Other Purposes\", for the Purpose of Extending Its Operations Throughout the Philippines"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p94",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1995-09-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 8162",
+ "officialCode": null,
+ "topics": [
+  "investment",
+  "trade"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 945,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1995/ra_8162_1995.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1995/ra_8162_1995.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文存在同号重出的条款（第 1 条）：该处官方页面确有两段均标同一 Section 号，本库照录其 `no` 值（不改动官方编号），条文 `id` 以 `_2`「_3」后缀保证唯一。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H6641-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section 1 of Republic Act No. 7163 is hereby amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H6641-A1_2",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Nature and Scope of Franchise. - Subject to the provisions of the Constitution and applicable laws, rules and regulations, there is hereby granted to the Progressive Broadcasting Corporation, hereunder referred to as the grantee, its successors or assigns, the franchise to construct, install, operate and maintain, for commercial purposes and in the public interest, radio broadcasting stations and television stations throughout the Philippines with the corresponding technological auxiliaries or facilities for special broadcast and other program and distribution services and relay stations and to install radio communication facilities for the grantee's private use in its broadcast services.\""
+   }
+  },
+  {
+   "id": "PH-H6641-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation in the Philippines."
+   }
+  }
+ ]
+}

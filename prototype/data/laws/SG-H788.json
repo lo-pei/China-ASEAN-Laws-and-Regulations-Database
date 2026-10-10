@@ -1,0 +1,724 @@
+{
+ "id": "SG-H788",
+ "title": {
+  "zh": null,
+  "en": "Competition (Appeals) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p10",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CA2004-RG5",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 43,
+ "chars": 37667,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CA2004-RG5?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 43 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H788-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Competition (Appeals) Regulations."
+   }
+  },
+  {
+   "id": "SG-H788-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“application for interim relief” means an application made under regulation 34;\n“Board” means the Competition Appeal Board established under section 72(1) of the Act, and includes a committee of the Board constituted under section 72(10) of the Act for the purpose of hearing an appeal made under section 71(1) of the Act;\n“Board’s address for service” means the address for service of documents on the Board referred to in regulation 4;\n“Board’s website” means the Internet website of the Board referred to in regulation 5;\n“Chairman” means the Chairman of the Board appointed under section 72(5) of the Act;\n“Presiding Board Member” means the Chairman or a member of the Board presiding at a meeting of the Board or the hearing of an appeal;\n“register” means the register of orders and decisions of the Board established and maintained by the Secretary pursuant to regulation 3(d);\n“register of practitioners” means the annual register kept under section 27 of the Legal Profession Act (Cap. 161);\n“Secretary” means the secretary to the Board appointed by the Minister under section 72(7) of the Act;\n“working day” means any day except a Saturday, Sunday or public holiday."
+   }
+  },
+  {
+   "id": "SG-H788-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Responsibilities of Secretary"
+   },
+   "text": {
+    "en": "3. The Secretary shall act in accordance with such instructions as may be given by the Chairman or the Board from time to time and shall, in particular, be responsible for —\n(a)the acceptance, transmission, service and custody of documents in accordance with these Regulations;\n(b)the establishment and maintenance of a list of all notices of appeal lodged with the Board;\n(c)the keeping of a record of the proceedings of the Board in such form as the Chairman may direct;\n(d)the establishment and maintenance of a register in which all orders and decisions of the Board shall be registered; and\n(e)the certification that any order, direction or decision is an order, or a direction or decision, of the Board or a Presiding Board Member, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H788-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Board’s address for service"
+   },
+   "text": {
+    "en": "4. Any document to be lodged with, sent to or served on the Board shall be addressed to the “Secretary to the Competition Appeal Board” and sent to the following address in a manner prescribed in regulation 37(4):\n(a)100 High Street, #04-04, The Treasury, Singapore 179434; or\n(b)such other address as may be notified, from time to time, in the Gazette and on the Board’s website."
+   }
+  },
+  {
+   "id": "SG-H788-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Board’s website"
+   },
+   "text": {
+    "en": "5. The Board’s website shall be at http://www.cab.gov.sg or such other online location as may be notified, from time to time, in such manner as the Chairman may direct."
+   }
+  },
+  {
+   "id": "SG-H788-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Representation"
+   },
+   "text": {
+    "en": "6. In proceedings before the Board, a party may be represented by —\n(a)an advocate and solicitor named in the register of practitioners and having in force a practising certificate issued under the Legal Profession Act (Cap. 161); or\n(b)any other person allowed by the Board to appear on behalf of that party."
+   }
+  },
+  {
+   "id": "SG-H788-A6.001",
+   "no": 6.001,
+   "noLabel": {
+    "en": "6A."
+   },
+   "chapter": {
+    "en": "PART IA APPEALABLE DECISIONS"
+   },
+   "heading": {
+    "en": "Appealable decisions under section 71 of Act"
+   },
+   "text": {
+    "en": "6A. The following decisions are decisions prescribed for the purpose of the definition of “decision” in section 71(3) of the Act:\n(a)a decision for or in relation to the cancellation of a block exemption in respect of an agreement; and\n(b) a decision for or in relation to a refusal to vary, substitute or release a commitment accepted under section 60A of the Act."
+   }
+  },
+  {
+   "id": "SG-H788-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART II APPEALS"
+   },
+   "heading": {
+    "en": "Commencement of appeals"
+   },
+   "text": {
+    "en": "7.—(1) [Deleted by S 350 of 2007]\n(2) An appeal to the Board shall be made by lodging a notice of appeal in accordance with regulation 8.\n(3) Where an appeal from a decision of the Commission is —\n(a)as to whether the section 34 prohibition has been infringed;\n(b)as to whether the section 47 prohibition has been infringed;\n(c)on a direction given under section 67 of the Act in relation to the section 34 prohibition or the section 47 prohibition;\n(d)on a direction given under section 69 of the Act (including the imposition of any financial penalty or as to the amount of any such financial penalty) in relation to a decision that the section 34 prohibition or the section 47 prohibition has been infringed; or\n(e)for or in relation to the cancellation of a block exemption in respect of an agreement,\nthe notice of appeal shall be lodged within 2 months of the date on which the appellant was notified of the contested decision or the date of publication of the decision, whichever is the earlier.\n[S 350/2007 wef 01/07/2007]\n(3A) Where an appeal from a decision of the Commission is —\n(a)as to whether the section 54 prohibition will be or has been infringed;\n(b)on a direction given under section 58A of the Act in relation to the section 54 prohibition;\n(c)on a direction given under section 67 of the Act in relation to the section 54 prohibition;\n(d)on a direction given under section 69 of the Act in relation to a decision that the section 54 prohibition will be infringed;\n(e)on a direction given under section 69 of the Act (including the imposition of any financial penalty or as to the amount of any such financial penalty) in relation to a decision that the section 54 prohibition has been infringed; or\n(f)for or in relation to a refusal to vary, substitute or release a commitment accepted under section 60A of the Act,\nthe notice of appeal shall be lodged within 4 weeks of the date on which the appellant was notified of the contested decision or the date of publication of the decision, whichever is the earlier.\n[S 350/2007 wef 01/07/2007]\n(4) The Board may, on the application of the appellant, in its discretion extend the time limit provided under paragraph (3) for the lodgment of the notice of appeal.\n(5) On receiving the notice of appeal, the Secretary shall forward a copy thereof to each of the other parties concerned."
+   }
+  },
+  {
+   "id": "SG-H788-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART II APPEALS"
+   },
+   "heading": {
+    "en": "Notice of appeal"
+   },
+   "text": {
+    "en": "8.—(1) The notice of appeal —\n(a)shall state —\n(i)the name and address of the appellant;\n(ii)the name and address of the appellant’s authorised representative or legal representative; and\n(iii)an address in Singapore for the service of documents;\n(b)shall contain —\n(i)a concise statement of the facts;\n(ii)a summary of the grounds for appealing against or with respect to the contested decision of the Commission, identifying, in particular —\n(A)the statutory provision under which the appeal is brought;\n(B)the extent (if any) to which the appellant contends that the decision was based on an error of fact or was wrong in law; and\n(C)the extent (if any) to which the appellant is appealing against the Commission’s exercise of discretion in making the contested decision;\n(iii)a succinct presentation of the arguments of fact or law supporting each ground of appeal; and\n(iv)the relief or directions (if any) sought by the appellant;\n(c)shall be signed and dated by the appellant, or on his behalf by his authorised representative or legal representative; and\n(d)shall be accompanied by —\n(i)a copy of the contested decision; and\n(ii)the appropriate fee specified in the Schedule.\n(2) Unless the Board otherwise directs, the appellant shall lodge the duly signed original of the notice of appeal and its accompanying documents with the Board together with 5 copies thereof, each certified by the appellant, or his authorised representative or legal representative, to be in conformity with the original.\n(3) An appellant shall not raise or rely on any ground of appeal which is not stated in the notice of appeal during the hearing of the appeal except with the permission of the Board."
+   }
+  },
+  {
+   "id": "SG-H788-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART II APPEALS"
+   },
+   "heading": {
+    "en": "Defective notices of appeal"
+   },
+   "text": {
+    "en": "9.—(1) If the Board considers that a notice of appeal is not lodged in accordance with regulation 8, is materially incomplete, unduly prolix or lacking in clarity, the Board may give such directions to the appellant as may be necessary to remedy the notice.\n(2) The Board may, if it considers that the efficient conduct of the appeal proceedings so requires, instruct the Secretary to defer forwarding a copy of the notice of appeal to the other parties concerned until after the directions given under paragraph (1) have been complied with."
+   }
+  },
+  {
+   "id": "SG-H788-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART II APPEALS"
+   },
+   "heading": {
+    "en": "Power to reject"
+   },
+   "text": {
+    "en": "10.—(1) The Board may, after giving the parties an opportunity to be heard, reject an appeal in whole or in part at any stage in the appeal proceedings if —\n(a)it considers that the notice of appeal discloses no valid ground of appeal;\n(b)it considers that the appellant is not a party or person referred to in section 71(1) or (1A) of the Act;\n(c)it is satisfied that the appellant has habitually and persistently, and without any reasonable ground —\n(i)instituted vexatious proceedings before the Board; or\n(ii)made vexatious applications in any proceedings before the Board; or\n(d)the appellant fails to comply with any provision of these Regulations, or any direction, practice direction or order of the Board.\n(2) Where the Board rejects an appeal, it may, without prejudice to its powers under section 73(8) of the Act, make such consequential order as it considers appropriate."
+   }
+  },
+  {
+   "id": "SG-H788-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART II APPEALS"
+   },
+   "heading": {
+    "en": "Amendment of notice of appeal"
+   },
+   "text": {
+    "en": "11.—(1) The appellant may, with the permission of the Board, amend his notice of appeal.\n(2) Where the Board grants permission under paragraph (1), it may do so on such terms or conditions as it thinks fit to impose, and it shall give such further or consequential directions as it may consider necessary.\n(3) The Board shall not grant permission to amend a notice of appeal in order to add a new ground of appeal unless the Board is satisfied that —\n(a)such ground is based on any matter of fact or law which came to light after the notice of appeal was lodged;\n(b)it was not practicable to include such ground in the notice of appeal; or\n(c)there are exceptional circumstances to do so."
+   }
+  },
+  {
+   "id": "SG-H788-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART II APPEALS"
+   },
+   "heading": {
+    "en": "Withdrawal of appeal"
+   },
+   "text": {
+    "en": "12.—(1) The appellant may, with the permission of the Board, withdraw his appeal.\n(2) Where the Board grants permission under paragraph (1), it may —\n(a)order the appellant to pay the costs of the Commission and the Board incurred up to the time his appeal is withdrawn; and\n(b)do so on such other terms or conditions as it thinks fit to impose, including requiring the Secretary to publish a notice of the withdrawal of the appeal on the Board’s website or in such other manner as the Board may direct."
+   }
+  },
+  {
+   "id": "SG-H788-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART II APPEALS"
+   },
+   "heading": {
+    "en": "Appeal number, etc."
+   },
+   "text": {
+    "en": "13. On receiving a notice of appeal, the Secretary shall —\n(a)affix to the notice an official stamp showing the date on which the notice was received;\n(b)enter the appeal in a list and assign a number thereto, which shall constitute the title of the appeal;\n(c)inform the appellant of the title of the appeal; and\n(d)subject to regulations 9 and 10, forward a copy of the notice of appeal to the Commission."
+   }
+  },
+  {
+   "id": "SG-H788-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART II APPEALS"
+   },
+   "heading": {
+    "en": "Defence"
+   },
+   "text": {
+    "en": "14.—(1) The Commission shall send to the Board a defence —\n(a)in the case of an appeal referred to in regulation 7(3), within 6 weeks of the date on which the Commission received a copy of the notice of appeal; and\n(b)in the case of an appeal referred to in regulation 7(3A), within 4 weeks of the date on which the Commission received a copy of the notice of appeal.\n[S 350/2007 wef 01/07/2007]\n(2) The defence —\n(a)shall state —\n(i)the name and address of the Commission;\n(ii)the name and address of the Commission’s legal representative; and\n(iii)an address in Singapore for the service of documents;\n(b)shall contain —\n(i)a succinct presentation of the arguments of fact or law upon which the Commission will rely; and\n(ii)the relief or directions (if any) sought by the Commission; and\n(c)shall be signed and dated by a duly authorised officer or the legal representative of the Commission.\n(3) The Commission shall send the duly signed original of the defence and its accompanying documents to the Secretary together with 5 copies thereof, each certified by a duly authorised officer or the legal representative of the Commission to be in conformity with the original.\n(4) The Board may, on the application of the Commission, in its discretion extend the time limit provided under paragraph (1) for the sending of the defence.\n(5) On receiving the defence, the Secretary shall forward a copy to the appellant."
+   }
+  },
+  {
+   "id": "SG-H788-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART II APPEALS"
+   },
+   "heading": {
+    "en": "Defective defence"
+   },
+   "text": {
+    "en": "15.—(1) If the Board considers that a defence is not sent in accordance with regulation 14, is materially incomplete, unduly prolix or lacking in clarity, the Board may give such directions to the Commission as may be necessary to remedy the defence.\n(2) The Board may, if it considers that the efficient conduct of the appeal proceedings so requires, instruct the Secretary to defer forwarding a copy of the defence to the appellant until after the directions given under paragraph (1) have been complied with."
+   }
+  },
+  {
+   "id": "SG-H788-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART II APPEALS"
+   },
+   "heading": {
+    "en": "Amendment of defence"
+   },
+   "text": {
+    "en": "16.—(1) The Commission may, with the permission of the Board, amend its defence.\n(2) Where the Board grants permission under paragraph (1), it may do so on such terms or conditions as it thinks fit to impose, and it shall give such further or consequential directions as it may consider necessary.\n(3) The Board shall not grant permission to amend a defence unless the Board is satisfied that —\n(a)there exists any matter of fact or law which came to light after the defence was sent to the Board;\n(b)it was not practicable to include in or omit from the defence, as the case may be, the subject-matter of the amendment proposed by the Commission; or\n(c)there are exceptional circumstances to do so."
+   }
+  },
+  {
+   "id": "SG-H788-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART II APPEALS"
+   },
+   "heading": {
+    "en": "Publication of summary of appeal"
+   },
+   "text": {
+    "en": "17.—(1) Subject to regulations 9 and 10, the Secretary shall, as soon as practicable, upon receipt of a notice of appeal publish a notice to that effect on the Board’s website and in such other manner as the Chairman may direct.\n(2) The notice to be published under paragraph (1) shall state —\n(a)that a notice of appeal has been received;\n(b)the name of the appellant;\n(c)the decision of the Commission to which the appeal relates; and\n(d)the particulars of the relief sought by the appellant."
+   }
+  },
+  {
+   "id": "SG-H788-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART II APPEALS"
+   },
+   "heading": {
+    "en": "Consolidation, etc."
+   },
+   "text": {
+    "en": "18.—(1) Where 2 or more appeal proceedings are pending in relation to the same decision of the Commission, or involve the same or similar issues, the Board may at any time, on the request of a party or of its own initiative, order that the proceedings or any particular issue or matter raised in the proceedings be consolidated or heard together.\n(2) Before making an order under paragraph (1), the Board shall invite all the parties to the relevant proceedings to make their submissions thereon."
+   }
+  },
+  {
+   "id": "SG-H788-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART II APPEALS"
+   },
+   "heading": {
+    "en": "Directions"
+   },
+   "text": {
+    "en": "19.—(1) The Board may at any time, whether at a case management conference or otherwise, on the request of a party or of its own initiative, give one or more of the directions referred to in paragraph (2), or such other directions as it thinks fit to secure the just, expeditious and economical conduct of the appeal proceedings.\n(2) Without prejudice to the generality of paragraph (1), the Board may give directions —\n(a)as to the manner in which the proceedings are to be conducted, including any time limits to be observed in the conduct of the oral hearing;\n(b)that the parties file a reply, rejoinder or other additional pleadings or particulars;\n(c)for the preparation and exchange of skeletal arguments;\n(d)for the filing by the appellant or the Commission of a core bundle or core bundles comprising a copy of every document on which the appellant or the Commission (as the case may be) rely, including the written statements of all witnesses of fact and expert witnesses (if any);\n(e)requiring any person to attend the hearing and give evidence or to produce documents;\n(f)as to the evidence which may be required or admitted in proceedings before the Board and the extent to which it shall be oral or written;\n(g)as to the submission of witness statements or expert reports before the hearing;\n(h)as to the examination or cross-examination of witnesses;\n(i)as to the abridgement or extension of any time limit;\n(j)to enable the decision which is the subject of the appeal to be referred back in whole or in part to the Commission;\n(k)for the disclosure between, or the production by, the parties of documents or classes of documents;\n(l)for the appointment and instruction of experts, whether by the Board or by the parties, and the manner in which expert evidence is to be given;\n(m)for the award of costs or expenses, including any allowance payable to persons in connection with their attendance before the Board; and\n(n)for hearing a person who is not a party where, in any proceedings, it is proposed to make an order or give a direction in relation to that person.\n(3) The Board may, in particular, of its own initiative —\n(a)put questions to the parties and the witnesses;\n(b)invite the parties to make written or oral submissions on certain aspects of the proceedings;\n(c)ask the parties or third parties for information or particulars;\n(d)ask for any document relating to the appeal to be produced; and\n(e)summon the parties or their representatives to meetings.\n(4) A request by a party for directions shall be —\n(a)made in writing as soon as practicable; and\n(b)served by the Secretary on any other party who may be affected by such directions, as determined by the Board after taking into account the submissions (if any) of the parties."
+   }
+  },
+  {
+   "id": "SG-H788-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART II APPEALS"
+   },
+   "heading": {
+    "en": "Case management conference"
+   },
+   "text": {
+    "en": "20.—(1) The Board may at any time, on the request of a party or of its own initiative, give directions for a case management conference to be held where it appears to the Board that any appeal proceedings would be facilitated by holding such a conference and, in particular —\n(a)to ensure the efficient conduct of the proceedings;\n(b)to determine the points on which the parties have to present further arguments or which call for further evidence to be produced;\n(c)to clarify the terms of the orders sought by the parties, their arguments of fact and law and the points at issue between them;\n(d)to ensure that all agreements reached between the parties about the matters in issue and the conduct of the proceedings are recorded; or\n(e)to facilitate the settlement of the proceedings.\n(2) Unless the Board otherwise directs, a case management conference shall be held as soon as practicable after the filing of the defence by the Commission.\n(3) A case management conference shall be held in private unless the Board otherwise directs."
+   }
+  },
+  {
+   "id": "SG-H788-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART II APPEALS"
+   },
+   "heading": {
+    "en": "Timetable for oral hearing"
+   },
+   "text": {
+    "en": "21. As soon as practicable, the Board shall —\n(a)set a timetable outlining the steps to be taken by the parties in preparation for the oral hearing of the appeal, whether pursuant to the directions of the Board or otherwise;\n(b)fix the date for the oral hearing;\n(c)notify the parties in writing of the date and place for the oral hearing and of any timetable for that hearing; and\n(d)if it considers it necessary for the expeditious disposal of the appeal, send the parties a report which contains a summary of the factual context of the case and the parties’ principal submissions."
+   }
+  },
+  {
+   "id": "SG-H788-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART II APPEALS"
+   },
+   "heading": {
+    "en": "Evidence"
+   },
+   "text": {
+    "en": "22.—(1) The Board —\n(a)shall have control of the evidence at the hearing of an appeal;\n(b)shall not be bound by the provisions of the Evidence Act (Cap. 97) or by any other written law relating to evidence; and\n(c)may give directions as to —\n(i)the issues on which it requires evidence;\n(ii)the nature of the evidence which it requires to decide those issues; and\n(iii)the manner in which the evidence is to be placed before the Board.\n(2) The Board may admit or exclude evidence, whether or not the evidence was available when the contested decision was made.\n(3) The Board may require any witness to give evidence on oath or affirmation, or by way of affidavit.\n(4) The Board may allow a witness to give evidence through a video link or by other means.\n(5) The Board may dispense with the need to call a witness to give oral evidence if a witness statement has been submitted in respect of that witness.\n(6) The Board may, at any time before notifying the appellant of its decision, call for such further evidence or explanation from all or any of the parties to be given, in the presence of the other party or parties, as it may consider necessary."
+   }
+  },
+  {
+   "id": "SG-H788-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART II APPEALS"
+   },
+   "heading": {
+    "en": "Summoning of witnesses"
+   },
+   "text": {
+    "en": "23.—(1) Subject to paragraphs (2) and (3), the Board may at any time, on the request of a party or of its own initiative, issue a summons requiring any person in Singapore to do either or both of the following:\n(a)attend as a witness before the Board, at the time and place set out in the summons;\n(b)answer any question, or produce any document or other material in his possession or under his control, which relate to any issue or matter in question in the appeal proceedings.\n(2) A request by a party for the issue of a summons under this regulation shall be made to the Secretary with the appropriate fee specified in the Schedule, and shall state —\n(a)the name and address of the witness to be called; and\n(b)the facts upon which the witness is to be examined and the reasons for the examination, the documents required to be produced by the witness and the reasons for their production, or both.\n(3) No person may be required to attend in compliance with a summons under this regulation unless —\n(a)he has been served personally with the summons by the person requiring him to attend before the Board; and\n(b)he is paid such sum as would be recoverable in respect of his attendance if the proceedings were proceedings before a District Court."
+   }
+  },
+  {
+   "id": "SG-H788-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART II APPEALS"
+   },
+   "heading": {
+    "en": "Failure to comply with directions"
+   },
+   "text": {
+    "en": "24. If a party to any appeal proceedings fails to comply with any direction given by the Board in accordance with these Regulations, the Board may, if it considers that the justice of the case so requires, order that such party be debarred from taking any further part in the proceedings without the permission of the Board."
+   }
+  },
+  {
+   "id": "SG-H788-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Hearing to be in public"
+   },
+   "text": {
+    "en": "25. The hearing of any appeal shall be in public except as to any part where the Board is satisfied that it will be considering —\n(a)information the disclosure of which would, in its opinion, be contrary to the public interest;\n(b)commercial information the disclosure of which, in its opinion, would or may significantly harm the legitimate business interests of the undertaking to which it relates; or\n(c)information relating to the private affairs of an individual the disclosure of which, in its opinion, would or may significantly harm the interests of the individual."
+   }
+  },
+  {
+   "id": "SG-H788-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Procedure at hearing of appeals"
+   },
+   "text": {
+    "en": "26.—(1) Appeal proceedings shall be opened and directed by the Presiding Board Member, who shall be responsible for the proper conduct of the hearing of any appeal.\n(2) The Board shall, so far as it appears to it to be appropriate, seek to avoid undue formality in its proceedings and shall conduct the hearing of an appeal in such manner as it considers to be appropriate for the clarification of the issues before it and generally for the just, expeditious and economical conduct of the proceedings.\n(3) Unless the Board otherwise directs, no expert or witness of fact shall be heard unless the relevant expert report or witness statement has been submitted before the hearing of an appeal and in accordance with any direction of the Board.\n(4) The Board may limit the cross-examination of witnesses to any extent or in any manner it considers appropriate.\n(5) If, at the time appointed for the hearing of an appeal, any party to the proceedings does not appear, the Board may, if it is satisfied that the party has been duly notified of the hearing, proceed with the hearing and make such order as it thinks fit.\n(6) The record of the proceedings of any appeal shall be signed by the Presiding Board Member."
+   }
+  },
+  {
+   "id": "SG-H788-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Adjournment"
+   },
+   "text": {
+    "en": "27.—(1) The Board may, in its discretion, adjourn any hearing on any ground and may fix a date for a further hearing.\n(2) The Board may, on the conclusion of a hearing, adjourn for any period of time for the purpose of considering its decision."
+   }
+  },
+  {
+   "id": "SG-H788-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Requests for confidential treatment"
+   },
+   "text": {
+    "en": "28.—(1) A request for the confidential treatment of a document or part of a document filed in connection with any appeal proceedings before the Board —\n(a)shall be made in writing by the person who submitted the document no later than 14 days after the filing of such a document;\n(b)shall, where the request relates to part of a document, state the relevant words, figures or passages for which confidentiality is claimed; and\n(c)shall contain the reasons for the request, and where the request relates to part of a document, the reasons specific to each part thereof.\n(2) The person making the request shall provide to the Board a non-confidential version of the document if so directed by the Secretary.\n(3) The Board shall not consider any request for confidential treatment that does not comply with paragraph (1), unless the Board considers that the circumstances are exceptional.\n(4) The Board may grant confidential treatment in relation to any document or part thereof on such terms and conditions as it thinks fit.\n(5) In the event of a dispute as to whether confidential treatment should be granted, the Board shall decide the matter after hearing the parties, taking into account the matters referred to in regulation 25(a), (b) and (c)."
+   }
+  },
+  {
+   "id": "SG-H788-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Decision of Board"
+   },
+   "text": {
+    "en": "29.—(1) The Board may, in its discretion, direct that its decision in any appeal be notified to the parties concerned in the following manner:\n(a)by the Secretary giving a copy of the written decision to the parties which is duly signed by all the members of the Board who heard the appeal, including the Presiding Board Member; or\n(b)orally before the parties by —\n(i)the Presiding Board Member; or\n(ii)in the absence of the Presiding Board Member, any other member of the Board who heard the appeal,\nand it shall not be necessary for all the members of the Board who heard the appeal to reassemble merely for the purpose of notifying the parties of the decision.\n(2) Where the decision of the Board is the decision of a majority, that fact shall be stated.\n(3) The Secretary shall enter the decision of the Board in the register.\n(4) The Chairman shall arrange for the decision of the Board to be published in such manner as he considers appropriate."
+   }
+  },
+  {
+   "id": "SG-H788-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Costs"
+   },
+   "text": {
+    "en": "30.—(1) The Board may, in relation to any appeal proceedings, award costs in its discretion.\n(2) The power to award costs under paragraph (1) includes the power to direct any party to pay to the Board such sum as may be appropriate in reimbursement of any costs incurred by the Board in connection with the summoning of witnesses."
+   }
+  },
+  {
+   "id": "SG-H788-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Interest"
+   },
+   "text": {
+    "en": "31.—(1) If the Board imposes, confirms or varies any financial penalty, the Board may, in addition, order that interest be paid on the amount of any such penalty from such date, not being a date earlier than the date upon which the notice of appeal was lodged in accordance with regulations 7 and 8, and at such rate as the Board considers appropriate.\n(2) Unless the Board otherwise directs, the rate of interest shall not exceed the rate prescribed in the Rules of Court 2021 (G.N. No. S 914/2021) in respect of judgment debts.\n[S 406/2022 wef 26/05/2022]\n(3) Any interest ordered to be paid under paragraph (1) shall form part of the penalty payable and be enforced according to section 85 of the Act."
+   }
+  },
+  {
+   "id": "SG-H788-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Consent orders"
+   },
+   "text": {
+    "en": "32.—(1) If all the parties to an appeal agree on the terms on which to settle all or any part of the proceedings, they may request the Board to make a consent order.\n(2) A request for a consent order shall be made by sending to the Secretary —\n(a)a draft consent order;\n(b)a consent order impact statement which is in accordance with paragraph (3); and\n(c)a statement signed by all the parties to the proceedings, or their authorised representatives or legal representatives, requesting that an order be made in the terms of the draft consent order.\n(3) A consent order impact statement shall provide an explanation of the draft consent order, including —\n(a)an explanation of the circumstances giving rise to the draft consent order;\n(b)the relief to be obtained if the order is made; and\n(c)the anticipated effects on competition of that relief.\n(4) In respect of any request for a consent order, the Board may, as it thinks fit, after hearing the parties —\n(a)make the order in the terms requested;\n(b)invite the parties to vary the terms and make the order in the terms as varied; or\n(c)refuse to make any order."
+   }
+  },
+  {
+   "id": "SG-H788-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Power to make interim orders and directions"
+   },
+   "text": {
+    "en": "33.—(1) The Board may, on the application of a party or of its own initiative, make an order on an interim basis —\n(a)suspending in whole or part the effect of any decision which is the subject matter of the appeal proceedings before it; or\n(b)granting any remedy which the Board would have the power to grant in its final decision.\n(2) Without prejudice to the generality of paragraph (1), if the Board considers that it is necessary as a matter of urgency for the purpose of —\n(a)preventing serious, irreparable damage to a particular person or class of persons; or\n(b)protecting the public interest,\nthe Board may give such directions as it considers appropriate for that purpose.\n(3) The Board shall exercise its power under this regulation taking into account all the relevant circumstances, including —\n(a)the urgency of the matter;\n(b)the effect on the party making the request if the relief sought is not granted; and\n(c)the effect on competition if the relief is granted.\n(4) Any order or direction under this regulation is subject to the Board’s further order, direction or final decision."
+   }
+  },
+  {
+   "id": "SG-H788-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART III GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Application for interim relief"
+   },
+   "text": {
+    "en": "34.—(1) A party shall apply for an order under regulation 33(1) or a direction under regulation 33(2) by lodging an application for interim relief in the form which is in accordance with paragraph (2) with the Board together with the appropriate fee specified in the Schedule.\n(2) An application for interim relief shall state —\n(a)the subject matter of the relevant proceedings;\n(b)in the case of a request for a direction pursuant to regulation 33(2), the circumstances giving rise to the urgency;\n(c)the factual and legal grounds establishing a preliminary case for the grant of interim relief by the Board; and\n(d)the relief sought.\n(3) On receiving an application for interim relief, the Secretary shall send a copy thereof to each of the other parties to the proceedings and inform them of the date by which they may submit written or oral submissions to the Board.\n(4) The Board shall fix a date for the hearing of the application for interim relief and give the parties such directions as may be necessary for dealing with the application for interim relief.\n(5) The Board may, for the purposes of this regulation, join any third party to the proceedings.\n(6) Subject to paragraph (7), the Board shall, before making an order or direction for interim relief against a person who is not a party to the proceedings, invite that person to make his submissions thereon.\n(7) If the urgency of the case so requires, the Board may grant the application for interim relief before receiving the submissions of all the parties concerned, including the person referred to in paragraph (6)."
+   }
+  },
+  {
+   "id": "SG-H788-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART IV MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Constitution of committee"
+   },
+   "text": {
+    "en": "35.—(1) The summons to be issued by the Secretary under section 72(10) of the Act shall contain succinct particulars of the case or cases in respect of which the members of the Board are summoned to constitute a committee of the Board for the purposes of giving effect to the provisions of Part IV of the Act.\n(2) Any member of the Board who has been summoned under section 72(10) of the Act and whose personal interests may be affected by the result of the case or who for any reason may be unavailable shall, within 48 hours of receipt of the summons, notify the Secretary to that effect and withdraw from the committee.\n(3) Upon receipt of the notification referred to in paragraph (2), the Secretary shall summon another member of the Board in accordance with paragraph (1) in place of the withdrawing member to constitute the committee of the Board."
+   }
+  },
+  {
+   "id": "SG-H788-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART IV MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Meetings of Board"
+   },
+   "text": {
+    "en": "36. The Board shall meet for any purpose under these Regulations at such times and places as the Presiding Board Member may determine."
+   }
+  },
+  {
+   "id": "SG-H788-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART IV MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "37.—(1) Personal service of a document may be effected —\n(a)by leaving with the person to be served a copy of the document; or\n(b)in such other manner as may be agreed between the party serving and the party to be served.\n(2) Where, by virtue of any provision of these Regulations, a document is required to be served personally on any person and is unable to be so served, the party serving may make an application to the Board for an order for substituted service of the document.\n(3) The Board may, if it appears that it is impracticable for any reason to serve that document personally on that person, make an order for substituted service of that document and direct the steps to be taken to bring the document to the notice of the person to be served.\n(4) Any document required to be sent to or served on any person for the purpose of any proceedings under these Regulations, other than by personal service, may be —\n(a)delivered personally at his appropriate address;\n(b)sent to him at his appropriate address by ordinary post; or\n(c)sent to him by facsimile or electronic mail or other similar means.\n(5) Where —\n(a)a document is to be served by the Board; and\n(b)the Board is unable to serve it,\nthe Board shall send a notice of non-service, stating the attempted method of service, to the other parties to the proceedings.\n(6) Where it appears to the Board that there is a good reason to authorise service by a method not permitted by these Regulations, the Board may, on the request of a party or of its own initiative, make an order permitting and specifying an alternative method of service, and specifying when the document is deemed to be served.\n(7) The Board may dispense with service of a document if the interests of justice so require.\n(8) A document which is sent or served in accordance with these Regulations shall, except where express provision has been made, be treated as if it had been received by or served on that person —\n(a)in the case of personal delivery, on the day of delivery;\n(b)when sent by ordinary post, on the second working day after it was posted;\n(c)in the case of a facsimile transmitted on a working day before 4 p.m., on that day, or in any other case, on the working day after the day on which it is transmitted; or\n(d)in the case of electronic mail or similar means, on the second working day after the day on which it is transmitted.\n(9) If a document (other than a facsimile) is served after 5 p.m. on a working day or on any day other than a working day, the document shall be treated as having been served on the next working day.\n(10) For the purposes of paragraph (4) and subject to paragraphs (11) and (12), the appropriate address of a person shall be —\n(a)in the case of an appellant, the address for service stated in his notice of appeal;\n(b)in the case of the Commission, the address for service stated in its defence;\n(c)in any other case, the usual or last known address of the place of residence or business of the person,\nor such other address as may be subsequently notified to the Board.\n(11) Anything required to be sent to or served on a body corporate is duly sent or served if it is sent to or served on the chairman or president of the body or the secretary, treasurer or other similar officer thereof at its registered or principal office for the time being.\n(12) Anything required to be sent or delivered to or served on a partnership is duly sent, delivered or served if it is sent or delivered to or served on any one of the partners for the time being.\n(13) The Secretary —\n(a)shall, at the request of the Board; or\n(b)may, at the request of any party,\ncertify the steps taken to serve a document pursuant to this regulation, including the date and manner of service."
+   }
+  },
+  {
+   "id": "SG-H788-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART IV MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "38.—(1) Unless otherwise directed by the Board, the fee specified in the Schedule shall be paid to the Board, in such manner as the Board may direct, at the time that the relevant document, request or application is lodged or made.\n(2) Where the cheque or authorisation for the payment of any fee referred to in paragraph (1) is subsequently dishonoured and payment is not received by the Board within 7 days thereof, the notice of appeal, request for issue of a summons or application for interim relief to which that fee relates shall be deemed as not having been lodged or made."
+   }
+  },
+  {
+   "id": "SG-H788-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART IV MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Time"
+   },
+   "text": {
+    "en": "39.—(1) A period expressed in days, weeks or months after or from the happening of an event or the doing of any act or thing shall exclude the day on which the event happens or the act or thing is done.\n(2) A period expressed in weeks or months shall end with the expiry of whichever day in the last week or month is the same day of the week or the month as the day on which the event or the act or thing after or from which the period is to be calculated happens or is done.\n(3) If, in a period expressed in months, the day on which it should expire does not occur in the last month, the period shall end with the expiry of the last day of that month.\n(4) Where the time specified by the Board or these Regulations for doing any act expires on a Saturday, Sunday or public holiday, the act is in time if done on the next following working day."
+   }
+  },
+  {
+   "id": "SG-H788-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART IV MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Irregularities"
+   },
+   "text": {
+    "en": "40.—(1) Any irregularity resulting from a failure to comply with any provision of these Regulations before the Board has reached its decision shall not of itself render the proceedings void.\n(2) Where any such irregularity comes to the attention of the Board, the Board shall give such directions as it thinks just to cure or waive the irregularity before reaching its decision if it considers that any person may have been prejudiced by the irregularity and, in any other case, may do so.\n(3) The following may be corrected at any time by the Chairman or the Presiding Board Member, as the case may be, by certificate under his hand:\n(a)clerical mistakes in any document recording a direction, an order or a decision of the Board or the Presiding Board Member, or any proceedings under these Regulations; or\n(b)errors arising in such a document from an accidental slip or omission."
+   }
+  },
+  {
+   "id": "SG-H788-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART IV MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "General powers of Board"
+   },
+   "text": {
+    "en": "41.—(1) Subject to the provisions of the Act and these Regulations, the Board may regulate its own procedure.\n(2) The Board may issue practice directions in relation to the procedures provided for by these Regulations."
+   }
+  },
+  {
+   "id": "SG-H788-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRegulations 8(1)(d)(ii), 23(2), 34(1) and 38(1)\nFees\n1. Filing a notice of appeal\n$500\n2. Issue of summons —\n(a) request made less than 3 days before the day fixed for the hearing\n$50\n(b) any other request\n$20\n3. Filing an application for interim relief\n$100."
+   }
+  }
+ ]
+}

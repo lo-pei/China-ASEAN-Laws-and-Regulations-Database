@@ -1,0 +1,270 @@
+{
+ "id": "SG-H2974",
+ "title": {
+  "zh": null,
+  "en": "Land Transport Authority of Singapore (Electronic Service System) Rules 2019",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p37",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation LTASA1995-S417-2019",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 15,
+ "chars": 16214,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/LTASA1995-S417-2019?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 15 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2974-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Rules are the Land Transport Authority of Singapore (Electronic Service System) Rules 2019 and come into operation on 3 June 2019."
+   }
+  },
+  {
+   "id": "SG-H2974-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Rules —\n“Corppass” means the identity authentication service known as Singapore Corporate Access, by which an entity authenticates its identity in order to carry out an online transaction with the Government or a public authority;\n[S 493/2022 wef 30/06/2022]\n“Corppass credential” means any username, password or 2‑factor authentication detail required to authenticate, using Corppass, the identity of an entity;\n[S 493/2022 wef 30/06/2022]\n“Customer Service Centre” means the customer service centre established and run by the Authority, which address is specified at http://www.lta.gov.sg;\n“electronic service agent” means an electronic service agent registered under rule 5(1);\n“electronic service system” means the system providing for electronic service established under section 43 of the Act;\n“entity” means a sole proprietorship, a partnership (other than a limited liability partnership), a body corporate (including a limited liability partnership) or an unincorporated association;\n“LTA-assigned authentication code” means an authentication code assigned by the Authority under rule 3(3) that allows a person to access and use the electronic service system for additional purposes than if the person authenticated the person’s access and use of the electronic service system with a Corppass or Singpass credential;\n[S 493/2022 wef 30/06/2022]\n“Singpass” means the identity authentication service known as Singapore Personal Access, by which an individual authenticates the individual’s identity in order to carry out an online transaction with the Government or a public authority;\n[S 493/2022 wef 30/06/2022]\n“Singpass credential” means any username, password or 2‑factor authentication detail required to authenticate, using Singpass, the identity of an individual;\n[S 493/2022 wef 30/06/2022]\n“specified legislation” means —\n(a)the Act and any subsidiary legislation made under the Act; and\n(b)any Act mentioned in the Fifth Schedule to the Act and any subsidiary legislation made under the Act so mentioned."
+   }
+  },
+  {
+   "id": "SG-H2974-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 ACCESS TO ELECTRONIC SERVICE SYSTEM"
+   },
+   "heading": {
+    "en": "Accounts and authentication codes"
+   },
+   "text": {
+    "en": "3.—(1) The Authority assigns an account to access and use the electronic service system to each person with a Singpass credential or a Corppass credential.\n[S 493/2022 wef 30/06/2022]\n(2) A person (being an individual) may use his or her Singpass credential as an authentication code to access and use the electronic service system —\n(a)with his or her account; or\n(b)on behalf of an entity with the entity’s account, if the entity has so authorised the person.\n[S 493/2022 wef 30/06/2022]\n(3) The Authority may, on application by a person in such manner as the Authority may require, assign the person one or more LTA‑assigned authentication codes."
+   }
+  },
+  {
+   "id": "SG-H2974-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 ACCESS TO ELECTRONIC SERVICE SYSTEM"
+   },
+   "heading": {
+    "en": "Suspending or cancelling account or LTA-assigned authentication code"
+   },
+   "text": {
+    "en": "4.—(1) The Authority may suspend or cancel an account assigned under rule 3(1) or an LTA‑assigned authentication code.\n(2) The Authority may exercise its powers under paragraph (1) if —\n(a)the Authority is satisfied that —\n(i)the person assigned the account had contravened a provision of specified legislation, a condition to use the electronic service system, or a condition to the LTA‑assigned authentication code being assigned;\n[S 493/2022 wef 30/06/2022]\n(ii)the person assigned the account had knowingly or recklessly provided false or misleading information in the person’s application for an LTA‑assigned authentication code, or in any application, notice or other document served through the electronic service system; or\n[S 493/2022 wef 30/06/2022]\n(iii)the person no longer needs to access the electronic service system; or\n(b)the person applies to the Authority, in such manner as the Authority may require, to suspend or cancel access to the person’s account or LTA‑assigned authentication code.\n(3) The Authority must notify the person assigned the account of any suspension or cancellation done under that paragraph, together with the reason for it.\n[S 493/2022 wef 30/06/2022]"
+   }
+  },
+  {
+   "id": "SG-H2974-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 3 ELECTRONIC SERVICE AGENTS"
+   },
+   "heading": {
+    "en": "Registration of electronic service agents"
+   },
+   "text": {
+    "en": "5.—(1) The Authority may, on application by any person in such manner as the Authority may require, register that person as an electronic service agent.\n(2) To determine whether to register a person as an electronic service agent, the Authority may consider any relevant matters, including —\n(a)whether the person is unfit to be an electronic service agent, which is to be determined in accordance with the matters specified in rule 7;\n(b)whether the person is carrying on any business which involves serving, on behalf of other persons, any application, notice or other document through the electronic service system;\n(c)whether the person has any prior relevant experience in serving, on behalf of other persons, any application, notice or other document through the electronic service system or the electronic service provided under section 33B of the Road Traffic Act (Cap. 276) immediately before 3 June 2019; and\n(d)the person’s ability to be a reliable and efficient electronic service agent.\n(3) The registration under paragraph (1) may be subject to such conditions as the Authority may determine, including —\n(a)to give security in such form and of such amount as the Authority may determine to secure compliance with the conditions;\n(b)to keep any record and account relating to the use of the electronic service system; or\n(c)that the person may only serve specified types of applications, notices or other documents on behalf of other persons.\n(4) The Authority must keep and maintain a register of electronic service agents, in which must be entered the particulars of every electronic service agent as the Authority considers appropriate."
+   }
+  },
+  {
+   "id": "SG-H2974-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 ELECTRONIC SERVICE AGENTS"
+   },
+   "heading": {
+    "en": "Suspending or cancelling registration of electronic service agent"
+   },
+   "text": {
+    "en": "6.—(1) The Authority may suspend or cancel the registration of an electronic service agent if —\n(a)the electronic service agent fails to use the electronic service system for a continuous period of 90 days (including Sundays and public holidays);\n(b)the Authority is satisfied that the electronic service agent had contravened a provision of specified legislation, a condition to use the electronic service system, or a condition to the electronic service agent being registered;\n(c)the Authority is satisfied that the electronic service agent had knowingly or recklessly provided false or misleading information when applying for registration, or in any application, notice or other document served through the electronic service system;\n(d)the electronic service agent no longer carries on a business which involves serving, on behalf of other persons, any application, notice or other document through the electronic service system;\n(e)any tax or fee payable by the electronic service agent (including a tax or fee payable on behalf of another person) under any specified legislation is outstanding;\n(f)the electronic service agent is unfit to be an electronic service agent, which is to be determined in accordance with the matters specified in rule 7;\n(g)the Authority is satisfied that the electronic service agent is unable to be a reliable and efficient electronic service agent; or\n(h)the electronic service agent applies to the Authority, in such manner as the Authority may require, to suspend or cancel the electronic service agent’s registration.\n(2) The Authority must notify the electronic service agent mentioned in paragraph (1) of any suspension or cancellation done under that paragraph, together with the reason for it."
+   }
+  },
+  {
+   "id": "SG-H2974-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 ELECTRONIC SERVICE AGENTS"
+   },
+   "heading": {
+    "en": "Fitness to be electronic service agent"
+   },
+   "text": {
+    "en": "7. For the purposes of rules 5(2)(a) and 6(1)(f), the Authority may consider any relevant matters to determine whether a person is unfit to be an electronic service agent, including —\n(a)whether the person is convicted of, or is reasonably suspected of having committed, an offence that involves fraud, dishonesty or moral turpitude;\n(b)whether the person —\n(i)has been, or is likely to become, wound up or otherwise dissolved;\n(ii)has had, or is likely to have, a receiver, receiver and manager or judicial manager appointed in respect of the person’s property; or\n(iii)if an individual, is, or is likely to become, an undischarged bankrupt; and\n(c)whether the person —\n(i)has been struck off a register kept under the Companies Act (Cap. 50) or the Limited Liability Partnerships Act (Cap. 163A); or\n(ii)has been registered under the Business Names Registration Act 2014 (Act 29 of 2014) or the Limited Partnerships Act (Cap. 163B) and had that registration cancelled or ceased."
+   }
+  },
+  {
+   "id": "SG-H2974-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 ELECTRONIC SERVICE AGENTS"
+   },
+   "heading": {
+    "en": "Authorising and revoking authority of electronic service agent"
+   },
+   "text": {
+    "en": "8.—(1) A person who intends to authorise an electronic service agent to serve an application, notice or other document through the electronic service system on that person’s behalf must do so in the following manner:\n(a)for an application under rule 35(2) of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules (Cap. 276, R 5), in any manner permitted by law;\n(b)for any other case, by so authorising on the physical copy of the application, notice or other document that is required under rule 9 to be delivered to the Authority or an officer of the Authority administering any relevant land transport legislation.\n(2) For the purposes of section 43(3)(b) of the Act, unless the Chief Executive otherwise permits, a person who intends to revoke an electronic service agent’s authority must inform the Chief Executive by —\n(a)revoking the electronic service agent’s authority in writing under the person’s hand; and\n(b)personally delivering the written revocation to the Customer Service Centre.\n(3) In considering whether to permit a person to inform the Chief Executive in a manner other than that specified in paragraph (2), the Chief Executive must be satisfied that —\n(a)the person is unable to inform the Chief Executive in the specified manner; and\n(b)the person is able to inform the Chief Executive in another manner that the person intended the revocation."
+   }
+  },
+  {
+   "id": "SG-H2974-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 ELECTRONIC SERVICE AGENTS"
+   },
+   "heading": {
+    "en": "Physical copy of documents served by electronic service agent to be delivered"
+   },
+   "text": {
+    "en": "9.—(1) An electronic service agent that serves any application, notice or other document on behalf of another person through the electronic service system must deliver a physical copy of that application, notice or other document to the Customer Service Centre.\n(2) If —\n(a)an electronic service agent serves an application to temporarily transfer the registration of a vehicle under rule 25(4) or 26(1) of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules through the electronic service system; and\n(b)the other party to the temporary transfer that is being applied for is also an electronic service agent,\nthe electronic service agent who serves the application must deliver a physical copy of the application to the Customer Service Centre.\n(3) An electronic service agent who must deliver a physical copy of an application, notice or other document under paragraph (1) or (2) must do so not later than —\n(a)7 days after the application, notice or other document was served through the electronic service system; or\n(b)such longer period as the Authority or officer of the Authority administering any relevant land transport legislation (called in this rule an officer) who was served the application, notice or other document may allow.\n(4) Paragraphs (1) and (2) do not apply in respect of any application, notice or other document served through the electronic service system, if the Authority or officer on whom the application, notice or other document is to be served directs so in writing."
+   }
+  },
+  {
+   "id": "SG-H2974-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 ELECTRONIC SERVICE AGENTS"
+   },
+   "heading": {
+    "en": "Change of particulars of electronic service agent"
+   },
+   "text": {
+    "en": "10. An electronic service agent must, in the manner specified by the Authority —\n(a)notify the Authority of any change in any particulars provided in the electronic service agent’s application to be registered as an electronic service agent; and\n(b)notify the Authority or the officer of the Authority administering any relevant land transport legislation if the electronic service agent’s authority to act on behalf of any person in any matter is revoked."
+   }
+  },
+  {
+   "id": "SG-H2974-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 ELECTRONIC SERVICE AGENTS"
+   },
+   "heading": {
+    "en": "Inspection of records and accounts"
+   },
+   "text": {
+    "en": "11.—(1) Where an electronic service agent must keep any record or account as a condition of the electronic service agent’s registration, the Authority or a person authorised in writing by the Authority may, by a notice served on the electronic service agent, require the electronic service agent to make the record or account available for the Authority or person’s inspection.\n(2) The electronic service agent must give such reasonable assistance as the Authority or person may require for the inspection."
+   }
+  },
+  {
+   "id": "SG-H2974-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 4 AUTHORISATION OF ELECTRONIC SERVICE"
+   },
+   "heading": {
+    "en": "Authorisation to serve documents through electronic service system"
+   },
+   "text": {
+    "en": "12.—(1) For the purposes of section 43A(4)(f) of the Act, a document in relation to a matter specified in the First Schedule is authorised to be served through the electronic service system on the Authority.\n(2) For the purposes of section 43A(2)(h), (3)(f) and (4)(f) of the Act, a document in relation to a matter specified in the Second Schedule is authorised to be served through the electronic service system on an individual or entity."
+   }
+  },
+  {
+   "id": "SG-H2974-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Saving and transitional provisions"
+   },
+   "text": {
+    "en": "13.—(1) Every person who, immediately before 3 June 2019, is registered as an electronic service agent under section 33A of the Road Traffic Act, continues as if, and is treated as, an electronic service agent registered under rule 5(1) of these Rules.\n(2) Where an application to be registered as an electronic service agent under section 33A of the Road Traffic Act is made before 3 June 2019, and the application is pending immediately before that date, the application is treated as an application to be registered as an electronic service agent made under rule 5(1) of these Rules.\n(3) Where the registration of an electronic service agent is suspended under rule 4 of the revoked Rules immediately before 3 June 2019, the suspension continues as if, and is treated as, the suspension of the registration of an electronic service agent under rule 6(1) of these Rules.\n(4) Where an application to suspend or cancel the registration of an electronic service agent is made under rule 5(1) of the revoked Rules immediately before 3 June 2019, and the application is pending immediately before that date, the application is treated as an application to suspend or cancel the registration of an electronic service agent made under rule 6(1)(h) of these Rules.\n(5) An authorisation by a person for an electronic service agent to be his or her agent for any matter done in accordance with rule 10(1) of the revoked Rules immediately before 3 June 2019 continues as if, and is treated as, an authorisation of an electronic service agent done in accordance with rule 8(1) of these Rules.\n(6) An authentication code assigned to a person under section 33B(2) of the Road Traffic Act immediately before 3 June 2019 continues as if, and is treated as, an LTA‑assigned authentication code assigned to that person under rule 3(3) of these Rules.\n(7) Where an account or authentication code is suspended under rule 12 of the revoked Rules immediately before 3 June 2019, the suspension continues as if, and is treated as, the suspension of the access to the electronic service system under rule 4(1) of these Rules.\n(8) Where an application to suspend or cancel an account or authentication code is made under rule 13(1) of the revoked Rules immediately before 3 June 2019, and the application is pending immediately before that date, the application is treated as an application to suspend or cancel an account or an LTA‑assigned authentication code made under rule 4(2)(b) of these Rules.\n(9) In this rule, “revoked Rules” means the Road Traffic (Electronic Service) Rules 2006 (G.N. No. S 121/2006) as in force immediately before 3 June 2019."
+   }
+  },
+  {
+   "id": "SG-H2974-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRule 12(1)\nMatters in which related documents\nare authorised to be served on Authority\nDescription\nApplicable rule\n1.Application for LTA‑assigned authentication code\n3(3)\n2.Application to suspend or cancel account or LTA‑assigned authentication code\n4(2)(b)\n3.Application to register as electronic service agent\n5(1)\n4.Application to suspend or cancel registration of electronic service agent\n6(1)(h)\n5.Notice of change of particulars or revocation of electronic service agent’s authority\n10"
+   }
+  },
+  {
+   "id": "SG-H2974-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRule 12(2)\nMatters in which related documents\nare authorised to be served on individual or entity\nDescription\nApplicable rule\n1.Notice that account or LTA‑assigned authentication code is suspended or cancelled\n4(3)\n2.Notice that electronic service agent’s registration is suspended or cancelled\n6(2)\n3.Requirement to make record or account available for inspection\n11(1)"
+   }
+  }
+ ]
+}

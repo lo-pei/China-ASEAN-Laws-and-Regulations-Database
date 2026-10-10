@@ -1,0 +1,888 @@
+{
+ "id": "SG-H860",
+ "title": {
+  "zh": null,
+  "en": "Coroners Act 2010",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p11",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act CA2010",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 54,
+ "chars": 48807,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/CA2010?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 54 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 3 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H860-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Coroners Act 2010."
+   }
+  },
+  {
+   "id": "SG-H860-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2.—(1) In this Act, unless the context otherwise requires —\n“body” means a dead person, and includes any part of a person (whether or not the identity of the person concerned is known when the part is discovered or is later determined) —\n(a)without which no person can live; or\n(b)discovered in such circumstances or such state that it is probable that the person is dead,\nbut does not include a foetus or a stillborn child within the meaning of the Registration of Births and Deaths Act 2021;\n[Act 2 of 2024 wef 16/04/2024]\n“cause of death” includes not only the apparent cause of death as ascertainable by inspection or examination of the body, but also all matters necessary to enable an opinion to be formed as to the manner in which the deceased came by his or her death;\n“Coroner” means a Coroner appointed under section 3(1), and includes the State Coroner;\n“forensic pathologist” means a pathologist appointed under section 4(1) as a forensic pathologist;\n“Health Sciences Authority” means the Health Sciences Authority established under section 3 of the Health Sciences Authority Act 2001;\n“healthcare practitioner” means a person providing any of the services specified in the First Schedule, but does not include a medical practitioner;\n“hospital” means any premises used or intended to be used for the reception, lodging, treatment and care of persons who require medical treatment or care or who suffer from any disease, injury or disability of mind or body, and includes a maternity home and a nursing home;\n“inquiry” means an inquiry into any death held by a Coroner under Part 6;\n“investigation” means an investigation into a death conducted by a police officer, a Coroner or a forensic pathologist, and includes any post-mortem examination;\n“medical clinic” means any premises used or intended to be used by a medical practitioner, a healthcare practitioner or any other person —\n(a)for the diagnosis or treatment of persons suffering from, or believed to be suffering from, any disease, injury or disability of mind or body; or\n(b)for curing or alleviating any abnormal condition of the human body by the application of any apparatus, equipment, instrument or device,\nbut does not include a hospital;\n“medical practitioner” means a registered medical practitioner under the Medical Registration Act 1997 who has in force a practising certificate issued under that Act;\n“medical treatment or care” includes any operation or any surgical, diagnostic or therapeutic procedure;\n“pathologist” means a medical practitioner who is registered as a specialist in pathology under the Medical Registration Act 1997;\n“place of custody” means any place in which any person may lawfully be held, confined, detained or committed;\n“properly interested person” means —\n(a)any person who is a spouse or next-of-kin of the deceased;\n(b)any person who is a personal representative of the deceased; or\n(c)any other person who, in the opinion of the Coroner, should be regarded as a properly interested person by reason of any particular interest in an inquiry;\n“Registrar-General” means the Registrar-General of Births and Deaths appointed under the Registration of Births and Deaths Act 2021;\n[Act 2 of 2024 wef 16/04/2024]\n“reportable death” means any death the circumstances of which are set out in the Second Schedule;\n“Singapore-registered aircraft” means an aircraft registered in Singapore under the Air Navigation Act 1966;\n“Singapore-registered vessel” means a vessel registered in Singapore under the Merchant Shipping Act 1995;\n“State Coroner” means the State Coroner appointed under section 3(1).\n(2) For the purposes of this Act, a person is in official custody while he or she is —\n(a)held, confined, detained or committed under any written law in any place of custody;\n(b)proceeding to or from any such place of custody in the company of a police officer or other person charged with the person’s custody; or\n(c)being taken into or escaping from such custody."
+   }
+  },
+  {
+   "id": "SG-H860-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Appointment of State Coroner and Coroners"
+   },
+   "text": {
+    "en": "3.—(1) The President may, on the recommendation of the Chief Justice, appoint a State Coroner and such other Coroners as are necessary for the proper administration of this Act.\n(2) Only —\n(a)a judicial officer appointed under the State Courts Act 1970 may be appointed a Coroner; and\n(b)a District Judge appointed under that Act may be appointed the State Coroner.\n[5/2014]\n(3) The State Coroner is charged with the general administration of this Act and the exercise of the functions and duties imposed upon the State Coroner by this Act.\n(4) The State Coroner may authorise or appoint any person to assist him or her in the exercise of his or her functions and duties under this Act whether generally or in any particular case.\n(5) Where the State Coroner is temporarily unable, whether by illness, absence or any other reason, to perform the State Coroner’s functions and duties for any period, the Presiding Judge of the State Courts appointed under the State Courts Act 1970 may appoint another Coroner to act as State Coroner for that period.\n[5/2014]\n(6) All appointments made under subsection (1) must be published in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H860-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Appointment of forensic pathologists"
+   },
+   "text": {
+    "en": "4.—(1) The Chief Executive of the Health Sciences Authority may appoint any pathologist as a forensic pathologist for the purposes of this Act.\n(2) All appointments made under subsection (1) must be published in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H860-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 REPORTING OF DEATH AND PRESERVING OF RECORDS"
+   },
+   "heading": {
+    "en": "Obligation to report death"
+   },
+   "text": {
+    "en": "5.—(1) Any person who becomes aware of a death which is, or appears to be, a reportable death must, as soon as reasonably practicable, make a report of the death to a police officer.\n(2) Any person who, without reasonable excuse, the burden of proving which is on the accused in a prosecution, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding one month or to both.\n(3) Nothing in this section or section 6 derogates from any other obligation to report a death under any other written law."
+   }
+  },
+  {
+   "id": "SG-H860-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 REPORTING OF DEATH AND PRESERVING OF RECORDS"
+   },
+   "heading": {
+    "en": "Reporting of death occurring in official custody"
+   },
+   "text": {
+    "en": "6.—(1) Where a person dies —\n(a)in the course of being arrested or detained by any person in the exercise, or purported exercise, of any power of arrest or detention under any written law; or\n(b)while he or she is in official custody,\nit is the duty of —\n(c)the person exercising the power of arrest or detention;\n(d)the person in charge of the place of custody where the deceased died; or\n(e)if the deceased was outside the place of custody when he or she died, the person in whose official custody the deceased was at the time of his or her death,\nas the case may be, to prepare and submit to a police officer a report of the death within 24 hours upon the person becoming aware of that death.\n(2) A report under subsection (1) is not required where the death is the result of the lawful execution of a death sentence.\n(3) Any person who, without reasonable excuse, the burden of proving which is on the accused in a prosecution, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H860-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 REPORTING OF DEATH AND PRESERVING OF RECORDS"
+   },
+   "heading": {
+    "en": "Reporting of death by police officer"
+   },
+   "text": {
+    "en": "7. Every police officer who —\n(a)comes across; or\n(b)receives any information about,\na death which is, or appears to be, a reportable death must, as soon as reasonably practicable, make a report at a police station giving details of any information which the police officer obtains with regard to the death."
+   }
+  },
+  {
+   "id": "SG-H860-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 REPORTING OF DEATH AND PRESERVING OF RECORDS"
+   },
+   "heading": {
+    "en": "Duty to preserve medical records by persons in charge of hospital, medical clinic and place of custody"
+   },
+   "text": {
+    "en": "8.—(1) Where a person dies —\n(a)while in any hospital or medical clinic for medical treatment or care; or\n(b)while he or she is in official custody,\nthe person in charge of the hospital, medical clinic or place of custody (as the case may be) must preserve all medical records, healthcare records and any other document pertaining to the medical treatment or care of the deceased as are in the possession of the hospital, medical clinic or place of custody for such period as may be prescribed.\n(2) Any person who, without reasonable excuse, the burden of proving which is on the accused in a prosecution, fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H860-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 REPORTING OF DEATH AND PRESERVING OF RECORDS"
+   },
+   "heading": {
+    "en": "Body not to be moved"
+   },
+   "text": {
+    "en": "9.—(1) In the case of a reportable death, a person must not remove, or in any manner alter the position of, a body unless the removal or moving of the body is —\n(a)authorised by a police officer; or\n(b)necessary for the purpose of preventing any destruction or damage to the body.\n(2) Any person who, without reasonable excuse, the burden of proving which is on the accused in a prosecution, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H860-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 INVESTIGATIONS INTO DEATHS"
+   },
+   "heading": {
+    "en": "Investigations into deaths"
+   },
+   "text": {
+    "en": "10.—(1) A police officer who comes across or receives any information about any death which is, or appears to be, a reportable death must —\n(a)if the body is in Singapore, proceed immediately to the spot where the body is lying or the death is believed to have occurred; and\n(b)use his or her best endeavours to investigate the cause of and circumstances connected with the death of the deceased.\n(2) If the police officer is unable to comply with subsection (1), the police officer must immediately inform his or her superior officer who must depute some other police officer who must comply with that subsection.\n(3) Any police officer who has seen the body may —\n(a)cause the body to be removed to any place that the police officer may direct, pending an order of a Coroner to release the body; or\n(b)secure and preserve the scene where the body was found, pending further investigations."
+   }
+  },
+  {
+   "id": "SG-H860-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 INVESTIGATIONS INTO DEATHS"
+   },
+   "heading": {
+    "en": "Police officer to report to Coroner"
+   },
+   "text": {
+    "en": "11.—(1) After a police officer has started investigations into a death, he or she must, as soon as reasonably practicable, inform a Coroner of the death and any particulars concerning the cause of death which have come to the police officer’s knowledge.\n(2) The police officer investigating into the cause of death must —\n(a)from time to time, furnish the Coroner with any further particulars concerning the death that may subsequently come to the police officer’s knowledge, together with the name of any person who has been arrested and charged in connection with the death; and\n(b)comply with any directions that the Coroner may give concerning the investigation."
+   }
+  },
+  {
+   "id": "SG-H860-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 INVESTIGATIONS INTO DEATHS"
+   },
+   "heading": {
+    "en": "Preliminary investigation by Coroner"
+   },
+   "text": {
+    "en": "12.—(1) As soon as possible after a death is reported to a Coroner, the Coroner is to make a preliminary investigation into the cause of and circumstances connected with the death, including whether the death was due to natural causes.\n(2) In the preliminary investigation, a Coroner need not view the body, but may, if the Coroner thinks it necessary, do so —\n(a)at the place where the body is lying, or any other place to which the body has been moved; or\n(b)by a live video link, or by any other means that the State Coroner may approve which reasonably allows the Coroner to view and identify the body.\n(3) If after the preliminary investigation, a Coroner considers that the death was due to natural causes and that it is unnecessary to hold an inquiry, the Coroner may issue an order under section 22 for the release of the body.\n[Act 31 of 2021 wef 02/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H860-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 INVESTIGATIONS INTO DEATHS"
+   },
+   "heading": {
+    "en": "Police officer to report to Public Prosecutor in certain cases"
+   },
+   "text": {
+    "en": "13. In any investigation under section 10, where a person has been or may be arrested and charged in connection with the death, the police officer investigating into the cause of death must —\n(a)as soon as reasonably practicable, inform the Public Prosecutor of the particulars concerning the cause of death which have come to the police officer’s knowledge; and\n(b)comply with any directions that the Public Prosecutor may give concerning the investigation."
+   }
+  },
+  {
+   "id": "SG-H860-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 INVESTIGATIONS INTO DEATHS"
+   },
+   "heading": {
+    "en": "Duty of police officer to investigate cause of death if directed by Public Prosecutor"
+   },
+   "text": {
+    "en": "14. A police officer must investigate into the cause of any death if directed to do so by the Public Prosecutor."
+   }
+  },
+  {
+   "id": "SG-H860-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 INVESTIGATIONS INTO DEATHS"
+   },
+   "heading": {
+    "en": "Power of police officer to investigate"
+   },
+   "text": {
+    "en": "15. In investigating into any death, a police officer may exercise all or any of the powers conferred on him or her by the Criminal Procedure Code 2010 or any other written law in relation to investigations into an arrestable offence."
+   }
+  },
+  {
+   "id": "SG-H860-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 INVESTIGATIONS INTO DEATHS"
+   },
+   "heading": {
+    "en": "Coroner or Public Prosecutor may direct forensic pathologist to investigate"
+   },
+   "text": {
+    "en": "16.—(1) When a Coroner or the Public Prosecutor receives information about the death of any person, the Coroner or the Public Prosecutor may, if he or she considers it appropriate to do so, direct —\n(a)a forensic pathologist to investigate the cause of and circumstances connected with the death; and\n(b)that a copy of all medical records, healthcare records and such other documents as may be relevant to the case be furnished by the person in charge of the hospital, medical clinic or place of custody mentioned in section 8 or any other person in possession thereof to the forensic pathologist.\n(2) The forensic pathologist must regularly inform the police officer investigating the death, the Coroner and the Public Prosecutor about the progress of his or her investigations and findings."
+   }
+  },
+  {
+   "id": "SG-H860-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 INVESTIGATIONS INTO DEATHS"
+   },
+   "heading": {
+    "en": "Powers of forensic pathologist"
+   },
+   "text": {
+    "en": "17.—(1) A forensic pathologist making an investigation under section 16 may —\n(a)view the body at the place where the body is lying or order the body to be removed to some more convenient place and view the body at that place;\n(b)require any medical practitioner or healthcare practitioner to furnish, within such time as the forensic pathologist may specify —\n(i)a detailed report, to the best of the medical practitioner’s or healthcare practitioner’s knowledge, on the medical treatment or care rendered to the deceased before that person’s death;\n(ii)such medical records or healthcare records pertaining to the medical treatment or care of the deceased as the forensic pathologist may require; and\n(iii)any other information, substance or thing pertaining to the medical treatment or care of the deceased in the possession of the medical practitioner or healthcare practitioner which the forensic pathologist considers necessary for the purposes of the investigation;\n(ba)request the Registrar to furnish, within such time as the forensic pathologist may specify, any information pertaining to the medical history, treatment or care of the deceased in the possession of the Registry that the forensic pathologist considers necessary for the purposes of the investigation; and\n(c)request the Coroner to direct the police to provide such assistance as the forensic pathologist may require to investigate the cause of and circumstances connected with the death.\n(2) Any medical practitioner or healthcare practitioner who is required by a forensic pathologist under subsection (1)(b) to provide any report, record, information, substance or thing and who —\n(a)without reasonable excuse, fails to provide the report, record, information, substance or thing;\n(b)provides any report, record or information which he or she knows or believes to be false or incomplete; or\n(c)tampers or destroys, or causes or permits the tampering or destruction of, any report, record, substance or thing pertaining to the medical treatment or care of the deceased,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.\n(3) The Registrar, or any Registry officer, agent of the Registry or other person who acts under the direction of the Registrar —\n(a)must comply with a request under subsection (1)(ba) to furnish information to the forensic pathologist, despite any restriction on the disclosure of information imposed by section 8 of the National Registry of Diseases Act 2007; and\n(b)is not by so doing to be treated as being in breach of any such restriction, despite anything to the contrary in that section.\n(4) In this section, “agent of the Registry”, “Registrar”, “Registry” and “Registry officer” have the meanings given by the National Registry of Diseases Act 2007."
+   }
+  },
+  {
+   "id": "SG-H860-A17.001",
+   "no": 17.001,
+   "noLabel": {
+    "en": "17A."
+   },
+   "chapter": {
+    "en": "PART 3 INVESTIGATIONS INTO DEATHS"
+   },
+   "heading": {
+    "en": "Minister may issue certificate in certain cases"
+   },
+   "text": {
+    "en": "17A.—(1) Subject to subsection (5), where a reportable death has occurred and the Minister is satisfied that all of the following conditions are met, the Minister may issue a Minister’s certificate for the release of the body in respect of the deceased:\n(a)the deceased —\n(i)had sustained an injury, contracted a disease or suffered a condition, outside Singapore, that resulted or apparently resulted in his or her death; or\n(ii)was, immediately before his or her death —\n(A)a current or former head of state of a foreign State;\n(B)a current or former head of government of a foreign State;\n(C)a government minister of a foreign State;\n(D)a government official of a foreign State;\n(E)a spouse or child of a person mentioned in sub‑paragraph (A), (B) or (C) or of a diplomatic agent of a foreign State;\n(b)a foreign State (called in this section the requesting State) makes a request in the prescribed manner for a Minister’s certificate to be issued in respect of the deceased and gives any undertaking regarding the retention or transport of the body or any other matter that the Minister may require;\n(c)in the circumstances, and having regard to any undertaking given by the requesting State, it is not in the public interest for the provisions of this Act to apply or continue to apply in respect of the deceased.\n(2) In considering whether to issue a Minister’s certificate, the Minister may —\n(a)have regard to information from any investigation that has been or is being carried out by a forensic pathologist under section 16 on the cause of and circumstances connected with the death;\n(b)direct a forensic pathologist to investigate the apparent cause of or circumstances connected with the death, upon which the forensic pathologist has the powers mentioned in section 17(1)(a), (b) and (ba) as if the forensic pathologist were making an investigation under section 16;\n(c)direct the police to provide any assistance that the forensic pathologist may require to carry out the investigation mentioned in paragraph (b); and\n(d)direct that a copy of all medical records, healthcare records and any other documents that may be relevant to the case be provided by the person in charge of the hospital, medical clinic or place of custody mentioned in section 8 or any other person in possession thereof to the forensic pathologist mentioned in paragraph (b).\n(3) If a Minister’s certificate is issued in respect of a deceased at any time after the death has been reported under section 5 and before the Coroner issues a certificate mentioned in section 42, then as from the date of the Minister’s certificate —\n(a)any investigation by any police officer or forensic pathologist under this Part for the purpose of ascertaining the cause of and circumstances connected with the death must stop;\n(b)if a post-mortem examination under section 18 has not been conducted, the post‑mortem examination must not be conducted;\n(c)despite sections 24 and 25, no inquiry may be held in respect of the death and the Public Prosecutor must not make any order or direction under section 26, but if an inquiry has begun but is not completed, the Coroner is to stop the inquiry and not resume the inquiry except in accordance with subsection (4);\n(d)if the body has not been released, the body must be released immediately to the requesting State without an order of a Coroner under section 22; and\n(e)there is no need for the Coroner to issue a certificate under section 42 in respect of the death.\n(4) If the Minister revokes a Minister’s certificate, then as from the date of the revocation —\n(a)any investigation (including any post-mortem examination) or inquiry under this Act into the death of the deceased is to resume from the stage at which the investigation or inquiry was stopped;\n(b)the body of the deceased must not be released to the requesting State under subsection (3)(d), but remains under the Coroner’s control under section 22;\n(c)if the body has been so released, the Coroner resumes control of the body under section 22 unless the body has been buried, cremated or transported out of Singapore; and\n(d)a police officer may cause the body to be removed to any place that the police officer may direct, pending an order of the Coroner to release the body.\n(5) To avoid doubt, this section does not affect the operation of —\n(a)the Diplomatic and Consular Relations Act 2005*; or\n(b)section 11 of the Visiting Forces Act 1960*.\n[*Updated to be consistent with the 2020 Revised Edition]\n(6) In this section —\n“child” means a person below 21 years of age;\n“diplomatic agent” means a person who is accredited in any State or territory as the head of a mission or a member of the diplomatic staff of a mission;\n“foreign State” means a State or territory outside Singapore;\n“Minister’s certificate” means a certificate issued under subsection (1).\n[Act 31 of 2021 wef 02/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H860-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 POST-MORTEM EXAMINATION AND POWERS OF CORONER TO ORDER BURIAL, CREMATION OR EXHUMATION"
+   },
+   "heading": {
+    "en": "When post-mortem examination necessary"
+   },
+   "text": {
+    "en": "18.—(1) In a case of a death reported to a Coroner under section 11, the Coroner may, after consulting a pathologist, order a post-mortem examination to be conducted if the Coroner is of the opinion that a post-mortem examination is necessary in the circumstances to establish the manner and cause of death.\n(2) Despite subsection (1), a Coroner must order a post‑mortem examination to be conducted if the Coroner is directed to do so by the Public Prosecutor in any particular case."
+   }
+  },
+  {
+   "id": "SG-H860-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 POST-MORTEM EXAMINATION AND POWERS OF CORONER TO ORDER BURIAL, CREMATION OR EXHUMATION"
+   },
+   "heading": {
+    "en": "Conduct of post-mortem examination"
+   },
+   "text": {
+    "en": "19.—(1) A post-mortem examination may only be performed by —\n(a)a pathologist; or\n(b)a medical practitioner under the supervision of a pathologist.\n(2) A pathologist who conducts or supervises a post-mortem examination may —\n(a)perform or cause to be performed any operation on the body that the pathologist thinks necessary, including causing any part or contents of the body or any other substance or thing to be retained for the purpose of determining the manner or cause of death; and\n(b)where necessary, appoint any person who in the pathologist’s opinion is qualified to make a special examination by way of an analysis, test or otherwise of any part or contents of the body or of any other substance or thing, and send such part, contents, substance or thing to that person for special examination.\n(3) The Coroner or the forensic pathologist investigating a case (if any) may direct the person performing a post-mortem examination to cause to be retained any part or contents of the body or any other substance or thing which appears to the Coroner or forensic pathologist to be relevant in establishing the manner or cause of death."
+   }
+  },
+  {
+   "id": "SG-H860-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 POST-MORTEM EXAMINATION AND POWERS OF CORONER TO ORDER BURIAL, CREMATION OR EXHUMATION"
+   },
+   "heading": {
+    "en": "Post-mortem examination report and special examination report"
+   },
+   "text": {
+    "en": "20.—(1) A pathologist who has conducted or supervised any post‑mortem examination must —\n(a)draw up, or cause to be drawn up, a report of the findings of the post-mortem examination and of the conclusions which he or she draws from it;\n(b)certify as to the medical cause of death; and\n(c)date and sign the report and send it to the Coroner who ordered the post-mortem examination.\n(2) Where a person has been appointed under section 19(2)(b), he or she must draw up a report of the findings of his or her special examination, date and sign the report and send it to the Coroner who ordered the post-mortem examination.\n(3) The post-mortem examination report made under subsection (1) and any special examination report made under subsection (2) are admissible as evidence, and are prima facie evidence of the facts stated therein, at any inquiry held under this Act.\n(4) The pathologist who conducted or supervised the post‑mortem examination or any person appointed under section 19(2)(b), if summoned by the Coroner as a witness in an inquiry, may be asked to give evidence as to his or her opinion upon any matter arising out of the examination conducted or supervised by him or her and as to how in his or her opinion the deceased came by his or her death."
+   }
+  },
+  {
+   "id": "SG-H860-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 POST-MORTEM EXAMINATION AND POWERS OF CORONER TO ORDER BURIAL, CREMATION OR EXHUMATION"
+   },
+   "heading": {
+    "en": "Power of Coroner to order exhumation"
+   },
+   "text": {
+    "en": "21. A Coroner may, and if directed to do so by the Public Prosecutor under section 26(2) must, order the exhumation of a body, or the remains of a body, for the purpose of discharging any of the Coroner’s duties, or exercising any of the Coroner’s powers under this Act."
+   }
+  },
+  {
+   "id": "SG-H860-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 POST-MORTEM EXAMINATION AND POWERS OF CORONER TO ORDER BURIAL, CREMATION OR EXHUMATION"
+   },
+   "heading": {
+    "en": "Power of Coroner to order release for burial, cremation, etc."
+   },
+   "text": {
+    "en": "22.—(1) Where a death which is, or appears to be, a reportable death has been reported to a Coroner and the body is in Singapore, the Coroner has control of the body until the earlier of the following occurs:\n(a)the Minister issues a certificate in respect of the body under section 17A(1), unless the Minister’s certificate is revoked and the Coroner resumes control of the body by virtue of section 17A(4)(c);\n(b)the Coroner issues an order to release the body under subsection (3).\n[Act 31 of 2021 wef 02/05/2023]\n(2) If a post-mortem examination has been ordered on the body, the Coroner may issue the order under subsection (3) only after the post‑mortem examination has been concluded.\n(3) The Coroner may, whether or not he or she considers that an inquiry is necessary, order the release of a body —\n(a)for burial or cremation;\n(b)for the body to be transported out of Singapore; or\n(c)for the retention of the body for use in any manner in accordance with law,\nand if the Coroner so orders, must issue a certificate of his or her order to release the body.\n(4) Where a reportable death has occurred or is suspected to have occurred and the body is in Singapore, any person who, without reasonable excuse, the burden of proving which is on the accused in a prosecution —\n(a)buries, cremates, transports out of Singapore or otherwise uses or disposes of that body; or\n(b)causes that body to be buried, cremated, transported out of Singapore or otherwise used or disposed of,\nwithout the certificate of the Minister mentioned in subsection (1)(a) that has not been revoked or the order of a Coroner under subsection (3), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.\n[Act 31 of 2021 wef 02/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H860-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 POST-MORTEM EXAMINATION AND POWERS OF CORONER TO ORDER BURIAL, CREMATION OR EXHUMATION"
+   },
+   "heading": {
+    "en": "Coroner to report to Public Prosecutor if body is released without inquiry"
+   },
+   "text": {
+    "en": "23. In every case where a body is released by an order of a Coroner under section 22 and no inquiry is held, the Coroner must report the facts to the Public Prosecutor with the Coroner’s reasons for not holding an inquiry."
+   }
+  },
+  {
+   "id": "SG-H860-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 5 CIRCUMSTANCES UNDER WHICH INQUIRY IS HELD"
+   },
+   "heading": {
+    "en": "Jurisdiction of Coroner to hold inquiry"
+   },
+   "text": {
+    "en": "24.—(1) A Coroner has the jurisdiction to hold an inquiry to determine the cause of death of any person where —\n(a)the body of the person is found in Singapore;\n(b)the death occurred in Singapore;\n(c)the cause of the death occurred in Singapore;\n[Act 16 of 2026 wef 30/09/2026]\n(d)the death occurred on board, or as a result of an occurrence on board, a Singapore‑registered aircraft or Singapore‑registered vessel;\n[Act 16 of 2026 wef 30/09/2026]\n(e)the death occurred (even if outside Singapore) on board, or as a result of an occurrence on board, a cross-border train when the person, at the time of death, was on a journey to or from somewhere in Singapore, and that cross-border train enters or returns to Singapore with the body of the deceased; or\n[Act 16 of 2026 wef 30/09/2026]\n(f)the cause or suspected cause of the death (even if it occurred outside Singapore) is connected with a cross-border incident and the body of the deceased is sent to Singapore pursuant to incident management operations.\n[Act 16 of 2026 wef 30/09/2026]\n(2) The Coroner has the jurisdiction under subsection (1)(b), (c) and (d) despite the absence of a body.\n(3) In this section —\n“cross-border railway” and “cross-border train” have the meanings given by section 3(1) of the Cross-Border Railways (Border Control Co-location) Act 2026;\n“cross-border incident” and “incident management operations” have the meanings given by section 6(2) of the Cross-Border Railways (Border Control Co-location) Act 2026.\n[Act 16 of 2026 wef 30/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H860-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 5 CIRCUMSTANCES UNDER WHICH INQUIRY IS HELD"
+   },
+   "heading": {
+    "en": "Duty of Coroner to hold inquiry"
+   },
+   "text": {
+    "en": "25.—(1) A Coroner must hold an inquiry into any death which occurred in Singapore where —\n(a)a person dies while in official custody;\n(b)the death was the result of the lawful execution of a death sentence in accordance with section 313(1)(m) of the Criminal Procedure Code 2010;\n[Act 41 of 2022 wef 28/06/2024]\n(c)the Public Prosecutor so requires under section 26; or\n(d)the death occurred in any of the circumstances set out in the Third Schedule, unless the Coroner is satisfied that the death was due to natural causes.\n(2) A Coroner may decide not to hold an inquiry, in any other case in which the Coroner has jurisdiction, if he or she is satisfied that —\n(a)the death was due to natural causes and it is unnecessary to do so; or\n(b)in the circumstances, it is not necessary in the public interest to do so.\n(3) In deciding whether to hold an inquiry, a Coroner may have regard to the following matters:\n(a)in the case of a death that appears to have been unnatural or violent, whether or not it appears to have been due to the action or inaction of any other person;\n(b)the extent to which the drawing of attention to the circumstances of the death may be likely to reduce the chances of the occurrence of other deaths in similar circumstances;\n(c)the desire of any member of the immediate family of the deceased that an inquiry should be conducted;\n(d)whether or not the death occurred outside Singapore where the death is not one mentioned in section 24(1)(e) or (f), or was caused by matters arising outside Singapore;\n[Act 16 of 2026 wef 30/09/2026]\n(e)whether or not an inquiry or investigation into the death has been or will be conducted by a coroner or a corresponding authority of a foreign country;\n(f)any other matter the Coroner thinks fit.\n(4) A Coroner who decides not to hold an inquiry into a death under subsection (2) must report the facts to the Public Prosecutor with the Coroner’s reasons for not holding an inquiry."
+   }
+  },
+  {
+   "id": "SG-H860-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 5 CIRCUMSTANCES UNDER WHICH INQUIRY IS HELD"
+   },
+   "heading": {
+    "en": "Power of Public Prosecutor to require inquiry"
+   },
+   "text": {
+    "en": "26.—(1) The Public Prosecutor may, in any case where a Coroner has jurisdiction and the Public Prosecutor is satisfied that an inquiry is necessary or desirable, require the Coroner to hold an inquiry into the death of any person.\n(2) The Public Prosecutor may direct that a body be exhumed if the Public Prosecutor is of the opinion that it is necessary to do so for the purposes of the inquiry.\n(3) Even though proceedings at any inquiry may have been concluded by a Coroner, where it appears to the Public Prosecutor that further investigations are necessary, the Public Prosecutor may direct the Coroner to re‑open the inquiry and make further investigations, and the Coroner must comply with those directions and then proceed in the same manner as if the proceedings at the inquiry had not been concluded."
+   }
+  },
+  {
+   "id": "SG-H860-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 6 INQUIRIES INTO DEATH"
+   },
+   "heading": {
+    "en": "Purpose of inquiry"
+   },
+   "text": {
+    "en": "27.—(1) The purpose of an inquiry into the death of any person is to inquire into the cause of and circumstances connected with the death and, for that purpose, the proceedings and evidence at the inquiry must be directed to ascertaining the following matters insofar as they may be ascertained:\n(a)the identity of the deceased;\n(b)how, when and where the deceased came by his or her death.\n(2) A Coroner at an inquiry is not to frame a finding in such a way as to determine any question of criminal, civil or disciplinary liability but is not inhibited in the discharge of his or her functions by any likelihood of liability being inferred from facts that the Coroner determines or recommendations that the Coroner makes.\n(3) At the conclusion of the inquiry, the Coroner is to record his or her findings as to the matters referred to in paragraphs (a) and (b) of subsection (1)."
+   }
+  },
+  {
+   "id": "SG-H860-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 6 INQUIRIES INTO DEATH"
+   },
+   "heading": {
+    "en": "Pre-inquiry review"
+   },
+   "text": {
+    "en": "28.—(1) A pre-inquiry review may be held by a Coroner before the commencement of an inquiry.\n(2) The purpose of a pre-inquiry review is to settle the following matters with a view to expediting the inquiry:\n(a)the filing of the investigation papers and any post-mortem examination report or special examination report made under section 20 for the inquiry;\n(b)any issues of fact or law for the inquiry;\n(c)the witnesses to be called to the inquiry;\n(d)the filing of any conditioned statements to be admitted in evidence in the inquiry;\n(e)the date of the inquiry;\n(f)any other application to be made for the inquiry.\n(3) A pre-inquiry review and any application made to the Coroner at the pre-inquiry review may be heard by live video link, or by any other means that the State Coroner may approve."
+   }
+  },
+  {
+   "id": "SG-H860-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 6 INQUIRIES INTO DEATH"
+   },
+   "heading": {
+    "en": "Notice of inquiry"
+   },
+   "text": {
+    "en": "29.—(1) A Coroner who is to hold a pre-inquiry review or an inquiry may cause a notice to be served on any properly interested person.\n(2) Any such notice must state the date, time and place of the pre‑inquiry review or inquiry and must be served on any properly interested person within a reasonable period."
+   }
+  },
+  {
+   "id": "SG-H860-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 6 INQUIRIES INTO DEATH"
+   },
+   "heading": {
+    "en": "Summoning of witnesses and production of documents"
+   },
+   "text": {
+    "en": "30.—(1) A Coroner has and may exercise all the powers of a Magistrate’s Court with regard to —\n(a)summoning and compelling the attendance of witnesses and requiring them to give evidence; and\n(b)the production of any document or thing,\nat any inquiry held by the Coroner.\n(2) Every summons to appear, warrant of arrest or summons to produce must be in writing signed by the Coroner and must bear the seal of the court.\n(3) Such summons to appear or summons to produce must ordinarily be served by a police officer, but the Coroner may, if he or she sees fit, direct it to be served by some other person.\n(4) The provisions of section 38, Part 6 and section 235 of the Criminal Procedure Code 2010 apply, with the necessary modifications, in relation to summonses to appear, warrants of arrest and summonses to produce issued by a Coroner."
+   }
+  },
+  {
+   "id": "SG-H860-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 6 INQUIRIES INTO DEATH"
+   },
+   "heading": {
+    "en": "Inquiries to be made public"
+   },
+   "text": {
+    "en": "31.—(1) An inquiry is to be held in open court, unless a Coroner is of the opinion that it is in the interests of justice, propriety, public order or public security, or there is other sufficient reason, that the public be excluded from the inquiry or any part of the inquiry.\n(2) Whenever an inquiry or part of an inquiry is not held in open court, the Coroner must report his or her reasons for not so holding it to the Public Prosecutor."
+   }
+  },
+  {
+   "id": "SG-H860-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 6 INQUIRIES INTO DEATH"
+   },
+   "heading": {
+    "en": "Assessors"
+   },
+   "text": {
+    "en": "32.—(1) A Coroner may, if he or she considers it appropriate to do so, appoint not more than 2 assessors with skill and experience in the matter to which the inquiry relates to assist him or her in the hearing of any inquiry.\n(2) Any assessor appointed under subsection (1) may sit with the Coroner in the hearing of the inquiry and has the power to advise but not to determine any matter relating to the inquiry.\n(3) The remuneration of any assessor sitting in an inquiry is payable out of moneys provided by Parliament, at such rate as may be prescribed."
+   }
+  },
+  {
+   "id": "SG-H860-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 6 INQUIRIES INTO DEATH"
+   },
+   "heading": {
+    "en": "Evidence by conditioned statements"
+   },
+   "text": {
+    "en": "33.—(1) Despite anything in any written law, a written statement made by any person summoned as a witness in any inquiry is admissible as evidence at the inquiry to the same extent and to the same effect as oral evidence by the person, if the following conditions are satisfied:\n(a)the statement appears to be signed by the person who made it;\n(b)the statement contains a declaration by the person to the effect that it is true to the best of his or her knowledge and belief and that he or she made the statement knowing that, if it were given in evidence, he or she would be liable to prosecution if he or she stated in it anything he or she knew to be false or did not believe to be true.\n(2) The following provisions also apply to any written statement given in evidence under this section:\n(a)if the statement is made by a person below 21 years of age, it must state his or her age;\n(b)if it is made by a person who cannot read it, it must be read to him or her before he or she signs it and must be accompanied by a declaration by the person who read the statement to him or her, stating that it was so read;\n(c)if it refers to any other document as an exhibit, it must be accompanied by a copy of that document or by information that will enable the Coroner to inspect that document or a copy of it.\n(3) Where a written statement made by any witness is admitted in evidence under this section in an inquiry (called in this Act a conditioned statement), the Coroner may call the person to give evidence."
+   }
+  },
+  {
+   "id": "SG-H860-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 6 INQUIRIES INTO DEATH"
+   },
+   "heading": {
+    "en": "Reading over evidence and correction"
+   },
+   "text": {
+    "en": "34.—(1) The conditioned statement (if any) of a witness in an inquiry must be read over to him or her.\n(2) If the witness denies the correctness of any part of the conditioned statement, the Coroner may, instead of correcting the conditioned statement, make a memorandum on it of the objection made to it by the witness and must add any remarks that the Coroner thinks necessary.\n(3) If the witness does not understand English, the conditioned statement must be interpreted for him or her into the language in which it was given or in a language which the witness understands."
+   }
+  },
+  {
+   "id": "SG-H860-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 6 INQUIRIES INTO DEATH"
+   },
+   "heading": {
+    "en": "Questioning of witnesses"
+   },
+   "text": {
+    "en": "35.—(1) Any properly interested person, and any other person who has the permission of the Coroner to do so, may examine a witness in person or by counsel.\n(2) Where at any inquiry the report of the pathologist who has conducted or supervised a post-mortem examination of the body or the report of a person who has made a special examination under section 19(2)(b) is received in evidence, any person mentioned in subsection (1) who desires to examine the maker of that report may require the Coroner to summon that person as a witness, and the Coroner must do so."
+   }
+  },
+  {
+   "id": "SG-H860-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 6 INQUIRIES INTO DEATH"
+   },
+   "heading": {
+    "en": "Manner of recording evidence"
+   },
+   "text": {
+    "en": "36.—(1) The evidence given in any inquiry is to be recorded by the Coroner in writing or in any other suitable form of recording whereby the evidence can be reduced to a readable form.\n(2) Evidence recorded in writing or, if it is not recorded in writing, the transcript of the evidence recorded, must be in English and signed by the Coroner, and forms part of the record of the inquiry.\n(3) Evidence may be recorded in the form of question and answer or in the form of a narrative, as the Coroner thinks fit."
+   }
+  },
+  {
+   "id": "SG-H860-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 6 INQUIRIES INTO DEATH"
+   },
+   "heading": {
+    "en": "Rules of evidence not applicable"
+   },
+   "text": {
+    "en": "37. A Coroner holding an inquiry is not bound by the rules of evidence and may conduct an inquiry in any manner the Coroner reasonably thinks fit."
+   }
+  },
+  {
+   "id": "SG-H860-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 6 INQUIRIES INTO DEATH"
+   },
+   "heading": {
+    "en": "Adjournment of inquiry"
+   },
+   "text": {
+    "en": "38. A Coroner holding an inquiry in any place may adjourn the inquiry to another day and order the adjourned inquiry to be held in the same or any other place."
+   }
+  },
+  {
+   "id": "SG-H860-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 6 INQUIRIES INTO DEATH"
+   },
+   "heading": {
+    "en": "Adjournment of inquiry when criminal proceedings commenced"
+   },
+   "text": {
+    "en": "39.—(1) If, before the conclusion of an inquiry by a Coroner, any person is charged with any offence under —\n(a)Chapter 16 of the Penal Code 1871;\n(b)section 64, 65 or 66 of the Road Traffic Act 1961; or\n(c)Part 4 of the Workplace Safety and Health Act 2006,\nin relation to an act which caused or could have caused the death which is the subject of the inquiry, the Coroner is to adjourn the inquiry until after the conclusion of the criminal proceedings.\n(2) Where a Coroner resumes an inquiry after the conclusion of the criminal proceedings mentioned in subsection (1), the Coroner is to continue with the inquiry from the stage at which it was adjourned, provided that at the resumed inquiry no finding is to be made which is inconsistent with the result of those criminal proceedings.\n(3) If, having regard to the result of the criminal proceedings mentioned in subsection (1), there has been a finding in those proceedings as to the cause of and circumstances connected with the death, and the Coroner decides not to resume the inquiry, the Coroner is to —\n(a)endorse the Coroner’s record and the certificate required under section 42 accordingly; and\n(b)send to the Public Prosecutor and the Commissioner of Police each a copy of the certificate mentioned in section 42.\n(4) Where an inquiry is adjourned under subsection (1), it is the duty of —\n(a)the District Judge or Magistrate before whom the criminal proceedings mentioned in subsection (1) are concluded; or\n(b)the Registrar of the Supreme Court, in the case of any criminal proceedings before the General Division of the High Court or the Court of Appeal,\nto inform the Coroner responsible for holding the inquiry of the result of the criminal proceedings in relation to the subject of the inquiry.\n[40/2019]\n(5) In this section, “criminal proceedings” means the proceedings before —\n(a)a Magistrate at any committal proceeding;\n(b)any court by which a person is tried; or\n(c)any court before which an appeal from the decision of the court mentioned in paragraph (b) is heard,\nand criminal proceedings are not to be deemed to be concluded until no further appeal can be made in the course of them."
+   }
+  },
+  {
+   "id": "SG-H860-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 6 INQUIRIES INTO DEATH"
+   },
+   "heading": {
+    "en": "Adjournment of inquiry when commission or committee appointed under Inquiries Act 2007"
+   },
+   "text": {
+    "en": "40.—(1) If, before the conclusion of an inquiry by a Coroner, a commission of inquiry or committee of inquiry is appointed under the Inquiries Act 2007 to inquire into any matter relating to the cause of or circumstances connected with the death which is the subject of the Coroner’s inquiry, the Coroner is to adjourn his or her inquiry until after the conclusion of the inquiry by that commission or committee.\n(2) Where a Coroner resumes his or her inquiry after the conclusion of the inquiry by the commission or committee mentioned in subsection (1), the Coroner is to continue with his or her inquiry from the stage at which it was adjourned, and may have regard to any report or finding by the commission or committee which the Coroner considers relevant to his or her inquiry.\n(3) If, having regard to the report of the inquiry by the commission or committee mentioned in subsection (1), there has been a finding in that inquiry as to the cause of and circumstances connected with the death, and the Coroner decides not to resume his or her inquiry, the Coroner is to —\n(a)endorse the Coroner’s record and the certificate required under section 42 accordingly; and\n(b)send to the Public Prosecutor and the Commissioner of Police each a copy of the certificate mentioned in section 42."
+   }
+  },
+  {
+   "id": "SG-H860-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 6 INQUIRIES INTO DEATH"
+   },
+   "heading": {
+    "en": "Change of Coroner"
+   },
+   "text": {
+    "en": "41. If a Coroner —\n(a)who has viewed a body or has authorised the release of the body is unable to hold the inquiry himself or herself;\n(b)is at any time unable to complete the inquiry himself or herself; or\n(c)is unable to re-open an inquiry previously concluded by himself or herself when so directed by the Public Prosecutor under section 26(3),\nanother Coroner may hold, continue or re-open the inquiry (as the case may be) and may proceed as if that other Coroner had viewed the body or recorded all the evidence at the inquiry himself or herself."
+   }
+  },
+  {
+   "id": "SG-H860-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 6 INQUIRIES INTO DEATH"
+   },
+   "heading": {
+    "en": "Coroner’s certificate"
+   },
+   "text": {
+    "en": "42.—(1) Where an inquiry is held into the death of any person, the Coroner must complete and sign a certificate setting out the cause of death as found at the inquiry and must, within 48 hours after the conclusion of the inquiry, forward a copy of the certificate to —\n(a)the Registrar-General, together with such other particulars as are required by the Registrar‑General for the purpose of registering the death under the Registration of Births and Deaths Act 2021; and\n[Act 2 of 2024 wef 16/04/2024]\n(b)the Public Prosecutor.\n(2) In any case where a reportable death has occurred in Singapore and the Coroner has decided not to hold an inquiry into the death under section 25(2), the Coroner must, after considering the results of the investigations into the death —\n(a)complete and sign a certificate setting out the cause of death based on the evidence before him or her; and\n(b)within 48 hours after signing the certificate, forward a copy of the certificate to the Registrar-General and the Public Prosecutor in accordance with subsection (1).\n(3) To avoid doubt, a Coroner may issue a certificate under this section in the absence of a body."
+   }
+  },
+  {
+   "id": "SG-H860-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 6 INQUIRIES INTO DEATH"
+   },
+   "heading": {
+    "en": "Forwarding transcripts of evidence, etc."
+   },
+   "text": {
+    "en": "43. At the conclusion of any inquiry, including an adjourned inquiry which is not resumed, the Coroner must, at the request of the Public Prosecutor, deliver to the Public Prosecutor —\n(a)the transcript of the evidence recorded and conditioned statements admitted at the inquiry;\n(b)any exhibit produced in evidence; and\n(c)a list signed by the Coroner of all exhibits produced in evidence."
+   }
+  },
+  {
+   "id": "SG-H860-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Obstruction of Coroner, etc."
+   },
+   "text": {
+    "en": "44.—(1) Any person who wilfully obstructs, resists or delays a Coroner or a forensic pathologist in the performance and execution of his or her duty or of anything which he or she is empowered or required to do under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.\n(2) In this section, “Coroner” includes any person authorised or appointed under section 3(4) and any person lawfully assisting a Coroner in the performance and execution of the Coroner’s duties or functions under this Act."
+   }
+  },
+  {
+   "id": "SG-H860-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Admissibility of evidence in subsequent judicial proceedings"
+   },
+   "text": {
+    "en": "45. No oral testimony or conditioned statement admitted under section 33 in the course of an inquiry is admissible in any subsequent judicial or disciplinary proceedings as evidence of any fact stated therein, other than proceedings for an offence under this Act or an offence of giving or fabricating false evidence under any written law."
+   }
+  },
+  {
+   "id": "SG-H860-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Payment of allowance to witnesses"
+   },
+   "text": {
+    "en": "46. A Coroner holding an inquiry may order payment out of the Consolidated Fund to any of the witnesses as the Coroner thinks fit, of the expenses incurred by them in attending that inquiry and also compensation for their trouble and loss of time, subject to any rules that may be prescribed under the Criminal Procedure Code 2010 in relation to the payment of witnesses’ expenses."
+   }
+  },
+  {
+   "id": "SG-H860-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Amendment of Schedules"
+   },
+   "text": {
+    "en": "47.—(1) The Minister may, by order in the Gazette, amend, add to or vary the First, Second or Third Schedule.\n(2) The Minister may, in any order made under subsection (1), make such incidental, consequential or supplementary provision as may be necessary or expedient.\n(3) Any order made under subsection (1) must be presented to Parliament as soon as possible after publication in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H860-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "48. The Minister may, by order in the Gazette, exempt any person or class of persons from all or any of the provisions of this Act, subject to such terms and conditions as may be prescribed."
+   }
+  },
+  {
+   "id": "SG-H860-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "49.—(1) The Minister may, from time to time, make regulations generally for carrying out or giving effect to the purposes and provisions of this Act.\n(2) Without limiting subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:\n(a)the procedure or practice for the conduct of any inquiry before a Coroner, including provisions relating to the mode of taking or recording evidence during an inquiry;\n(b)the rate for remuneration of assessors appointed to assist a Coroner;\n(c)the prescribing of anything required or permitted to be prescribed under this Act."
+   }
+  },
+  {
+   "id": "SG-H860-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Saving and transitional provisions"
+   },
+   "text": {
+    "en": "50.—(1) A person who, immediately before 2 January 2011, was a Coroner appointed under section 10 of the Subordinate Courts Act (Cap. 321, 2007 Revised Edition) as in force immediately before 2 January 2011 is deemed to be a Coroner appointed under section 3(1) of this Act.\n[5/2014]\n(2) The provisions of this Act apply in relation to any investigation or inquiry into the death of any person conducted on or after 2 January 2011, whether the death of the person occurred before, on or after 2 January 2011."
+   }
+  },
+  {
+   "id": "SG-H860-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nSections 2(1) and 47(1)\nServices provided by\nhealthcare practitioner\n1.Medical, dental or nursing services.\n2.Pharmacy services.\n3.Ambulance services.\n4.Services provided by optometrists and opticians.\n5.Services provided by traditional Chinese medicine practitioners.\n6.Services provided by podiatrists, chiropractors, osteopaths, physiotherapists, acupuncturists, naturopaths and services in other alternative healthcare fields."
+   }
+  },
+  {
+   "id": "SG-H860-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nSections 2(1) and 47(1)\nReportable deaths\n1.Death in Singapore of a person whose identity is not known.\n2.Any death in Singapore that was unnatural or violent.\n3.Any death in Singapore that resulted or is suspected to have resulted, directly or indirectly, from an accident.\n4.Any death in Singapore that occurred, directly or indirectly, as a result of any medical treatment or care.\n5.Death in Singapore of a person while the person was in official custody, except death as a result of the lawful execution of a death sentence.\n6.Death in Singapore of a person where the person was, before his or her death, in official custody and where the death was related, or suspected to be related, to that custody.\n7.Any death in Singapore occurring apparently or possibly as a consequence of any law enforcement operation.\n8.Any death in Singapore occurring as a result of any accident or dangerous occurrence at a workplace to which the Workplace Safety and Health Act 2006 applies.\n9.Any death in Singapore involving a public vehicle, commercial transport vehicle, rapid transit system or other mode of public transport.\n10.Any death on board a Singapore-registered vessel or a Singapore‑registered aircraft while in flight.\n10A.Any death mentioned in section 24(1)(e) or (f).\n[Act 16 of 2026 wef 30/09/2026]\n11.Any death in Singapore that was caused or suspected to have been caused by an unlawful act or omission.\n12.Any death in Singapore the manner or cause of which is unknown.\n13.Any death in Singapore that occurred under suspicious circumstances."
+   }
+  },
+  {
+   "id": "SG-H860-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nSections 25(1) and 47(1)\nDeaths for which inquiry must be held\n1.Death in Singapore of a person whose identity is not known.\n2.[Deleted by S 255/2023 wef 02/05/2023]\n3.Death in Singapore of a person where the person was, before his or her death, in official custody and where the death was related, or suspected to be related, to that custody.\n4.Any death in Singapore occurring apparently or possibly as a consequence of any law enforcement operation.\n5.Any death in Singapore occurring as a result of any accident or dangerous occurrence at a workplace to which the Workplace Safety and Health Act 2006 applies.\n6.[Deleted by S 255/2023 wef 02/05/2023]\n7.Any death in Singapore that was caused or suspected to have been caused by an unlawful act or omission.\n8.Any death in Singapore the manner or cause of which is unknown.\n9.Any death in Singapore that occurred under suspicious circumstances."
+   }
+  }
+ ]
+}

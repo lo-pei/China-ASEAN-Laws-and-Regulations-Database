@@ -1,0 +1,292 @@
+{
+ "id": "SG-H3500",
+ "title": {
+  "zh": null,
+  "en": "Pension Fund Act 1995",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p44",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act PFA1995",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 16,
+ "chars": 8987,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/PFA1995?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 16 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3500-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Pension Fund Act 1995."
+   }
+  },
+  {
+   "id": "SG-H3500-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“Minister” means the Minister for Finance;\n“public service” means service, whether in a civil or military capacity, under the Government of Singapore and includes —\n(a)service as a Member of the Legislative Assembly or Parliament (including an office‑holding Member);\n(b)service as a member of the Special Constabulary constituted by the Police Force Act 2004;\n(c)service as a volunteer in the Singapore Armed Forces or the Singapore Civil Defence Force; and\n(d)any other service that has been determined to be public service for the purposes of the Pensions Act 1956;\n“Singapore” means —\n(a)in relation to any period ending before 3 June 1959 — the Colony of Singapore; or\n(b)in relation to any period beginning on or after 3 June 1959 and ending before 9 August 1965 — the State of Singapore;\n“superannuation scheme” means a scheme providing for the payment of any pension, gratuity, allowance or other benefit on death, superannuation, resignation, retirement or discharge to persons who have been in the public service in Singapore or to the legal personal representatives or dependants of those persons."
+   }
+  },
+  {
+   "id": "SG-H3500-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 PENSION FUND"
+   },
+   "heading": {
+    "en": "Establishment of Pension Fund"
+   },
+   "text": {
+    "en": "3.—(1) A fund called the Pension Fund is established, into which must be paid all moneys specified under section 4.\n(2) The Minister is responsible for the administration of the Pension Fund.\n(3) The Pension Fund is deemed to be a Government fund for the purposes of any other written law."
+   }
+  },
+  {
+   "id": "SG-H3500-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 PENSION FUND"
+   },
+   "heading": {
+    "en": "Moneys payable into Pension Fund"
+   },
+   "text": {
+    "en": "4.—(1) There must be paid into the Pension Fund —\n(a)the sums appropriated from the Consolidated Fund and authorised to be paid into the Pension Fund by any written law to enable the Pension Fund to meet the liabilities of the Pension Fund;\n(b)all revenues of Singapore allocated by written law to the Pension Fund; and\n(c)the net income from investments of moneys in the Pension Fund authorised to be made by this Act or any other written law.\n(2) For the purposes of subsection (1)(c), the net income from investments is the amount ascertained by adding to, or deducting from, the income received from investments of moneys in the Pension Fund any profit derived or loss sustained (as the case may be) from the realisation of the investments."
+   }
+  },
+  {
+   "id": "SG-H3500-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 PENSION FUND"
+   },
+   "heading": {
+    "en": "Investment"
+   },
+   "text": {
+    "en": "5. All moneys belonging to the Pension Fund may be deposited in a bank and may be invested in any investment authorised under section 7 of the Financial Procedure Act 1966."
+   }
+  },
+  {
+   "id": "SG-H3500-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATION OF PENSION FUND"
+   },
+   "heading": {
+    "en": "Application of moneys in Pension Fund"
+   },
+   "text": {
+    "en": "6.—(1) The moneys in the Pension Fund may only be withdrawn and applied to meet any one or more of the following purposes:\n(a)the payment of any pension, gratuity, allowance or other like benefit granted or deemed to be granted under any provision of any written law specified in the Schedule to persons who have been in the public service in Singapore, or to their legal personal representatives or dependants, on the death, superannuation, resignation, retirement or discharge of those persons;\n(b)the payment of any disability pension, injury allowance, gratuity or compensation under any provision of any written law specified in the Schedule to persons who have been in the public service in Singapore, or to their legal personal representatives or dependants, in respect of injuries received in and which are attributable to that service;\n(c)the payment of any sum ex gratia or any pension, gratuity, allowance, compensation, subsidy or other like benefit pursuant to a prescribed superannuation scheme;\n(d)the payment of any gratuity on the death or retirement of persons appointed as members of the local staff of any diplomatic mission of Singapore;\n(e)any other expenses relating to the granting of any pension, gratuity, allowance, compensation or other like benefit which is mentioned in paragraphs (a) and (b) and expressly provided by written law to be met out of the Pension Fund.\n(2) The Minister may, by order in the Gazette, amend the Schedule."
+   }
+  },
+  {
+   "id": "SG-H3500-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATION OF PENSION FUND"
+   },
+   "heading": {
+    "en": "Expenses"
+   },
+   "text": {
+    "en": "7. All expenses arising from or incidental to the administration of, and the investment and management of moneys in, the Pension Fund are charged on and payable out of the Fund."
+   }
+  },
+  {
+   "id": "SG-H3500-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATION OF PENSION FUND"
+   },
+   "heading": {
+    "en": "Deficiencies"
+   },
+   "text": {
+    "en": "8.—(1) Where the moneys in the Pension Fund are insufficient to pay any pension, gratuity, allowance, compensation or other like benefit at the time when the payment becomes due, the deficiency is charged on and payable out of the Consolidated Fund.\n(2) Subsection (1) applies only to any pension, gratuity, allowance, compensation or other like benefit in respect of persons who have been in the public service in Singapore which —\n(a)prior to 1 April 1995, was charged on the Consolidated Fund; or\n(b)is provided for under any written law enacted on or after 1 April 1995."
+   }
+  },
+  {
+   "id": "SG-H3500-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATION OF PENSION FUND"
+   },
+   "heading": {
+    "en": "Surpluses in Pension Fund"
+   },
+   "text": {
+    "en": "9.—(1) The Minister may, by warrant under his or her hand authorise the transfer to the Consolidated Fund any moneys in the Pension Fund which, in the opinion of the Minister, are not required to meet the liabilities of the Pension Fund.\n(2) The Minister may, by warrant under his or her hand authorise the transfer to the SAVER‑Premium Fund established under section 205B of the Singapore Armed Forces Act 1972 any moneys in the Pension Fund that the Minister may determine as the value of that part of the Pension Fund relating to all those servicemen in the Singapore Armed Forces who opted in favour of joining the SAVER Plan or Premium Plan established under section 205A of the Singapore Armed Forces Act 1972.\n(3) The Minister may, by warrant under his or her hand authorise the transfer to the INVEST Fund established under section 12 of the Home Affairs Uniformed Services Superannuation Act 2001 any moneys in the Pension Fund that the Minister may determine as the value of that part of the Pension Fund relating to all those public officers who opted in favour of joining the INVEST Plan established under that Act and to all public officers who opted in favour of joining the Occupational Superannuation Scheme under the Prevention of Corruption Act 1960."
+   }
+  },
+  {
+   "id": "SG-H3500-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATION OF PENSION FUND"
+   },
+   "heading": {
+    "en": "Withdrawals"
+   },
+   "text": {
+    "en": "10.—(1) Moneys must not be withdrawn from the Pension Fund unless they are charged on the Fund or authorised to be withdrawn under this Act.\n(2) A payment must not be made out of the Pension Fund unless the payment is authorised by the Minister."
+   }
+  },
+  {
+   "id": "SG-H3500-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 4 ACCOUNTING AND AUDIT"
+   },
+   "heading": {
+    "en": "Accounts to be kept"
+   },
+   "text": {
+    "en": "11. The Minister must cause to be kept proper accounts and records of all transactions and affairs relating to the Pension Fund and must do all things necessary to ensure that all payments out of the Fund are correctly made and properly authorised and that adequate control is maintained over the assets and receipts of the Fund."
+   }
+  },
+  {
+   "id": "SG-H3500-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 4 ACCOUNTING AND AUDIT"
+   },
+   "heading": {
+    "en": "Financial statements and audit"
+   },
+   "text": {
+    "en": "12.—(1) The Minister must, as soon as practicable after the close of each financial year, cause to be prepared and submitted financial statements in respect of that year to the Auditor-General who must audit and report on them.\n(2) In this section, the financial year of the Pension Fund begins on 1 April of each year and ends on 31 March of the succeeding year."
+   }
+  },
+  {
+   "id": "SG-H3500-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 4 ACCOUNTING AND AUDIT"
+   },
+   "heading": {
+    "en": "Periodic examination of Pension Fund"
+   },
+   "text": {
+    "en": "13.—(1) For successive periods of any duration, not exceeding 5 years, that the Minister may determine in each case, an examination of the Pension Fund must be made by a person appointed by the Minister.\n(2) Despite subsection (1), where an amendment is made —\n(a)to the Schedule or to any written law specified in the Schedule; or\n(b)to any prescribed superannuation scheme or to any regulations relating to that scheme,\nand the amendment affects the cost of benefits payable under the law or scheme or creates an initial unfunded liability, the Minister must, for the purposes of section 4(1)(a), appoint a person to make an examination and report on the state of the Pension Fund.\n(3) The person appointed under subsection (1) or (2) must, at the end of the examination, report to the Minister the state of the Pension Fund having regard to its prospective liabilities and the probable annual provisions required by the Fund to meet those liabilities.\n(4) The Minister must cause a copy of every such report to be presented to Parliament forthwith after receiving it."
+   }
+  },
+  {
+   "id": "SG-H3500-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 4 ACCOUNTING AND AUDIT"
+   },
+   "heading": {
+    "en": "Application of Financial Procedure Act 1966"
+   },
+   "text": {
+    "en": "14. Unless otherwise expressly provided in this Act, the provisions of the Financial Procedure Act 1966 and any of its regulations apply to the Pension Fund."
+   }
+  },
+  {
+   "id": "SG-H3500-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 4 ACCOUNTING AND AUDIT"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "15. The Minister may make regulations prescribing all matters that are required to be prescribed or are necessary or expedient for carrying out or giving effect to this Act."
+   }
+  },
+  {
+   "id": "SG-H3500-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nSections 6 and 13(2)\n1.Civil Defence Act 1986\n2.Civil List and Gratuity Act 1970\n3.Internal Security (Injury Allowances) Regulations\n4.Municipal (Firemen’s Injuries) Provident Fund Rules, 1956\n5.Parliament (Privileges, Immunities and Powers) Act 1962\n6.Parliamentary Pensions Act 1978\n7.Pensions Act 1956\n8.Police Force Act 2004, more particularly the Police Regulations\n9.Public Service Commission (Pension) Regulations\n10.Section 206(1) of the Singapore Armed Forces Act 1972\n11.Singapore City Council Superannuation Fund for Subordinate Employees Rules 1954\n12.Widows’ and Orphans’ Pension Act 1904\n13.Work Injury Compensation Act 2019 or the Work Injury Compensation Act (Cap. 354, 2009 Revised Edition) repealed by that Act\n[27/2019; 4/2021]"
+   }
+  }
+ ]
+}

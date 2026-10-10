@@ -1,0 +1,211 @@
+{
+ "id": "SG-H3013",
+ "title": {
+  "zh": null,
+  "en": "Legal Profession (Solicitors’ Trust Accounts) Rules",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p38",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation LPA1966-R9",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 13,
+ "chars": 6742,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/LPA1966-R9?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 13 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3013-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Rules may be cited as the Legal Profession (Solicitors’ Trust Accounts) Rules."
+   }
+  },
+  {
+   "id": "SG-H3013-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Rules, unless the context otherwise requires —\n“approved finance company” means any finance company registered under the Finance Companies Act (Cap. 108) which is approved by the Minister to accept deposits of client’s money for the purposes of these Rules;\n“bank” has the same meaning as in the Banking Act (Cap. 19);\n“client account” means a current or deposit account which —\n(a)is maintained in the name of a solicitor at a bank or with an approved finance company;\n(b)has the word “client” appearing in its title; and\n(c)is kept and operated in accordance with the provisions of the Legal Profession (Solicitors’ Accounts) Rules (R 8);\n“solicitor-trustee” means a solicitor who is the sole trustee or a co-trustee only with one or more of his partners or employees;\n“trust account” means a current or deposit account which —\n(a)is maintained in the name of a solicitor at a bank or with an approved finance company solely for money subject to a particular trust of which the solicitor is a solicitor-trustee; and\n(b)has the word “trustee” or “executor” appearing in its title or which is otherwise clearly designated as a trust account."
+   }
+  },
+  {
+   "id": "SG-H3013-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Trust accounts"
+   },
+   "text": {
+    "en": "3. Subject to rule 9, every solicitor-trustee who holds or receives money subject to a trust of which he is a solicitor-trustee, other than money which is paid into a client account as permitted by the Legal Profession (Solicitors’ Accounts) Rules, shall without delay pay such money into the trust account of the particular trust."
+   }
+  },
+  {
+   "id": "SG-H3013-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Moneys to be paid into trust account"
+   },
+   "text": {
+    "en": "4. There may be paid into a trust account —\n(a)money subject to the particular trust;\n(b)such money belonging to the solicitor-trustee or to a co-trustee as may be necessary for the purpose of opening or maintaining the account; or\n(c)money to replace any sum which for any reason may have been drawn from the account in contravention of rule 8."
+   }
+  },
+  {
+   "id": "SG-H3013-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Cheque or draft which includes trust money to be paid into client account"
+   },
+   "text": {
+    "en": "5. Where a solicitor holds or receives a cheque or draft which includes money subject to a trust or trusts of which the solicitor is solicitor-trustee, he shall pay it into a client account as permitted by the Legal Profession (Solicitors’ Accounts) Rules (R 8)."
+   }
+  },
+  {
+   "id": "SG-H3013-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "No money other than money under rules 3 and 4 to be paid into trust account"
+   },
+   "text": {
+    "en": "6.—(1) No money, other than money which under rules 3 and 4 a solicitor is required or permitted to pay into a trust account, shall be paid into a trust account.\n(2) It shall be the duty of a solicitor into whose trust account any money has been paid in contravention of this rule to withdraw the money without delay on discovery."
+   }
+  },
+  {
+   "id": "SG-H3013-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Moneys which may be drawn from trust account"
+   },
+   "text": {
+    "en": "7. There may be drawn from a trust account —\n(a)money properly required for payment in the execution of the particular trust;\n(b)money to be transferred to a client account;\n(c)such money, not being money subject to the particular trust, as may have been paid into the account under rule 4(b); or\n(d)money which has (for any reason) been paid into the account in contravention of rule 6."
+   }
+  },
+  {
+   "id": "SG-H3013-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Council to authorise withdrawal"
+   },
+   "text": {
+    "en": "8. No money, other than money drawn from a trust account under rule 7, shall be so drawn unless the Council upon an application made to it by the solicitor specifically authorises in writing such withdrawal."
+   }
+  },
+  {
+   "id": "SG-H3013-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Where solicitor under no obligation to pay money into trust account"
+   },
+   "text": {
+    "en": "9. Notwithstanding the provisions of these Rules, a solicitor shall not be under obligation to pay into a trust account money subject to a trust of which he is the solicitor-trustee which is received by him —\n(a)in the form of cash and which is immediately paid to a third party in the form of cash in the execution of the trust; or\n(b)in the form of a cheque or draft and which is immediately endorsed over to a third party in the execution of the trust without being passed by the solicitor through a bank account or an account maintained with an approved finance company."
+   }
+  },
+  {
+   "id": "SG-H3013-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Books and accounts"
+   },
+   "text": {
+    "en": "10.—(1) Every solicitor-trustee shall at all times keep properly written up in the English language such books and accounts as may be necessary —\n(a)to show separately in respect of each trust of which he is the solicitor-trustee all his dealings with money received, held or paid by him on account of that trust; and\n(b)to distinguish the same from money received, held or paid by him on any other accounts.\n(2) Every solicitor-trustee shall preserve for a period of at least 6 years from the date of the last entry therein all books and accounts kept by him under this rule."
+   }
+  },
+  {
+   "id": "SG-H3013-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Power of Council to require production of books of account, etc."
+   },
+   "text": {
+    "en": "11.—(1) In order to ascertain whether these Rules have been complied with, the Council acting —\n(a)on its own motion; or\n(b)on a written complaint lodged with it by a third party,\nmay require any solicitor-trustee to produce at a time and place to be fixed by the Council, all books of account, bank pass books, loose-leaf bank statements, statements of account, vouchers and documents relating to all or any of the trusts of which he is the solicitor-trustee for the inspection of any person appointed by the Council, and that person shall prepare for the information of the Council a report on the result of such inspection.\n(2) Such report may be used as a basis for proceedings under the Act.\n(3) Upon being required to do so, a solicitor-trustee shall produce such books of account, bank pass books, loose-leaf bank statements, statements of account, vouchers and documents at the time and place fixed.\n(4) Before making any appointment under paragraph (1), the Council shall consider any objection made by any such solicitor-trustee to the appointment of a particular person on personal or other proper grounds.\n(5) Before instituting an inspection on a written complaint lodged with it by any person, the Council —\n(a)shall require prima facie evidence that a ground of complaint exists; and\n(b)may require the payment by that person to the Council of a reasonable sum to be fixed by it to cover the costs of the inspection, and the costs of the solicitor-trustee against whom the complaint is made.\n(6) The Council may deal with any sum so paid in such manner as it thinks fit.\n(7) In this rule, “bank pass book” and “bank statement” mean, respectively, a pass book and a statement issued by a bank in respect of any client account maintained at such bank, and includes a pass book and a statement issued by an approved finance company in respect of a client account maintained at such finance company."
+   }
+  },
+  {
+   "id": "SG-H3013-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Requirements of Council — how made"
+   },
+   "text": {
+    "en": "12. Every requirement to be made by the Council of a solicitor-trustee under these Rules —\n(a)shall be made in writing under the hand of the Director or a member of the Council designated by the Council for the purpose; and\n(b)may be served on the solicitor-trustee by sending the document by registered post to his usual or last known address."
+   }
+  },
+  {
+   "id": "SG-H3013-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Saving"
+   },
+   "text": {
+    "en": "13. Nothing in these Rules shall deprive a solicitor of any recourse or right, whether by way of lien, set-off, counter-claim, charge or otherwise, against moneys standing to the credit of a trust account.\n[G.N. Nos. S 203/85; S 381/98]"
+   }
+  }
+ ]
+}

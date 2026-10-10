@@ -1,0 +1,94 @@
+{
+ "id": "PH-H3444",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing for the Establishment of Regional Branches of the Philippine Normal College and Authorizing the Appropriation of Funds Therefor",
+  "orig": "An Act Providing for the Establishment of Regional Branches of the Philippine Normal College and Authorizing the Appropriation of Funds Therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p48",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1965-06-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4242",
+ "officialCode": null,
+ "topics": [
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1412,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1965/ra_4242_1965.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1965/ra_4242_1965.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3444-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There are hereby established regional branches of the Philippine Normal College in the Jolo-Tawi-Tawi area, Marinduque, Agusan, Isabela and Negros Occidental."
+   }
+  },
+  {
+   "id": "PH-H3444-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The Board of Trustees of the Philippine Normal College is hereby authorized to open each year a branch in a place recommended by the college president and plan the administration and supervision of such a branch under the direct control of the college president."
+   }
+  },
+  {
+   "id": "PH-H3444-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The head of the regional branch shall be a vice-president who, together with the instructional staff and the administrative personnel, including representatives of the administrative officer, auditor, chief accountant, registrar and property officer of the college, shall be appointed by the Board of Trustees upon recommendation of the college president."
+   }
+  },
+  {
+   "id": "PH-H3444-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "The initial sum of five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to be expended in the discretion of the Board of Trustees to carry out the purposes of this Act. For the succeeding four years, a similar amount is hereby authorized to be appropriated each year for the same purpose. Thereafter, the necessary funds needed for the operation and maintenance of these regional branches of the Philippine Normal College shall be included in the annual General Appropriations Act."
+   }
+  },
+  {
+   "id": "PH-H3444-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
+   }
+  }
+ ]
+}

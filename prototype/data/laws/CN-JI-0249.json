@@ -1,0 +1,77 @@
+{
+ "id": "CN-JI-0249",
+ "title": {
+  "zh": "最高人民法院关于如何处理人民检察院提出的暂缓执行建议问题的批复",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p08",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2000-07-10",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 242,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于如何处理人民检察院提出的暂缓执行建议问题的批复_20000710.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，整篇作为一条录入，共 1 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于如何处理人民检察院提出的暂缓执行建议问题的批复_20000710.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0249-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "全文"
+   },
+   "text": {
+    "zh": "最高人民法院\n关于如何处理人民检察院提出的\n暂缓执行建议问题的批复\n法释〔2000〕16号\n（2000年6月30日最高人民法院审判委员会第1121次会议通过 2000年7月10日最高人民法院公告公布 自2000年7月15日起施行）\n广东省高级人民法院：\n你院粤高法民〔1998〕186号《关于检察机关对法院生效民事判决建议暂缓执行是否采纳的请示》收悉。经研究，答复如下：\n根据《中华人民共和国民事诉讼法》的规定，人民检察院对人民法院生效民事判决提出暂缓执行的建议没有法律依据。\n此复。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于如何处理人民检察院提出的暂缓执行建议问题的批复"
+  },
+  "promulgatedDate": "2000-07-10",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

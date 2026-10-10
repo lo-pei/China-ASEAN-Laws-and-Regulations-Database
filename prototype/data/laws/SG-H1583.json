@@ -1,0 +1,800 @@
+{
+ "id": "SG-H1583",
+ "title": {
+  "zh": null,
+  "en": "Fire Safety (Building and Pipeline Fire Safety) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p20",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation FSA1993-RG1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 48,
+ "chars": 53620,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/FSA1993-RG1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 48 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 2 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1583-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Fire Safety (Building and Pipeline Fire Safety) Regulations.\n[S 545/2013 wef 01/09/2013]"
+   }
+  },
+  {
+   "id": "SG-H1583-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“area of refuge” means an area within a building designed for evacuees from the building or an adjoining building to take refuge in the event of a fire emergency;\n[S 769/2020 wef 14/09/2020]\n“area of special risk” means an area where there is a risk of explosion or rapid spread of fire due to the presence of flammable liquids, gases or explosive materials;\n[Deleted by S 545/2013 wef 01/09/2013]\n“compartment wall” means a wall that is designed and constructed to a specific fire resistance rating to prevent the spread of fire and smoke through it;\n“design guidelines” means guidelines accepted by the Commissioner as suitable for the design and evaluation of fire safety works or any part thereof, including any alternative solution;\n“elements of structure” means —\n(a)a member forming part of the structural frame of a building or any beam or column but not a member forming part of a roof structure only;\n(b)a load bearing wall or load bearing part of a wall;\n(c)a floor, including a compartment floor, other than the lowest floor (in contact with the ground) of a building;\n(d)an external wall;\n(e)a separating wall;\n(f)a compartment wall; and\n(g)a structure enclosing a protected shaft (protecting structure);\n“fire certificate” means a certificate issued by the Commissioner under section 35 of the Act;\n[S 387/2022 wef 31/12/2021]\n“Fire Command Centre” means a room within any premises which is specifically designated for the purpose of command and control of operations in the event of fire or other emergencies and fitted with the necessary equipment;\n“fire damper” means a device installed in an air distribution system which is designed to close automatically to restrict the passage of fire and heat;\n[Deleted by S 545/2013 wef 01/09/2013]\n“fire extinguishing system” means a system designed for extinguishing a fire;\n“fire lift” means a lift which is adequately protected from fire and which is meant for the exclusive use of firemen in an emergency without interference from the landing call points;\n“fire lift lobby” means a protected and ventilated lobby into which a fire lift opens and from which direct access to a protected staircase can be made for the purpose of fire fighting;\n“fire resistance rating” means the minimum period of time during which an element of structure or building element may be expected to function satisfactorily while subject to a recognised standard fire test;\n“fire safety engineering design brief” means a document prepared by a fire safety engineer to secure in-principle agreement with the Commissioner on the conceptual fire safety engineering design, which shall include —\n(a)the fire performance requirements to be achieved;\n(b)requisite fire scenarios;\n(c)methodologies adopted in undertaking the fire safety designs of the building or the relevant pipeline, as the case may be; and\n[S 545/2013 wef 01/09/2013]\n(d)an outline of the trial concept design;\n“fire safety engineering report” means a document prepared by a fire safety engineer containing the final design of the fire safety works, commissioning requirements, details of installation and testing, other implementation details, expected fire risks and system performance over the life cycle of the building or the relevant pipeline, as the case may be;\n[S 545/2013 wef 01/09/2013]\n“fireman access panel” means an opening in the external wall of a building to enable firemen to gain access into the building during fire fighting operations;\n“means of escape” means a continuous and unobstructed way of exit from any point in a building or structure to a safe and open area at ground level;\n“occupant load” means the total number of persons that may occupy a building or part thereof at any one time;\n“operations and maintenance manual” means a document prepared by a fire safety engineer containing instructions for the owner or occupier of a building or pipeline owner (as the case may be) on how to operate and maintain the fire safety measures used in the alternative solution, the limitations of such measures and the restrictions to be placed on usage of the building or relevant pipeline (as the case may be);\n[S 545/2013 wef 01/09/2013]\n“prescribed fees” means the relevant fees prescribed in Part VI;\n[S 545/2013 wef 01/09/2013]\n“pressurisation system” means a mechanical ventilation system that introduces positive differential pressure to a space or room to prevent smoke ingress in a fire emergency;\n[S 769/2020 wef 14/09/2020]\n“smoke control system” means an engineered smoke control system, a smoke purging system, a smoke vent or a ductless jet fan system, described in Chapter 7 of the Fire Code;\n[S 769/2020 wef 14/09/2020]\n“smoke detector” means a device which is used for detecting the presence of visible or invisible products of combustion, and which would automatically initiate a signal upon detecting the presence of these products;\n[S 769/2020 wef 14/09/2020]\n“smoke-free lobby” means a lobby area located at any entrance to an exit staircase, that is designed to prevent or minimise the entry of smoke into the staircase.\n[S 769/2020 wef 14/09/2020]"
+   }
+  },
+  {
+   "id": "SG-H1583-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART II ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Application for approval of plans of fire safety works"
+   },
+   "text": {
+    "en": "3. For the purposes of section 55(1) of the Act, an application for the approval of plans of any fire safety works shall be in such form as the Commissioner may provide and shall be accompanied by the prescribed fees and by the following documents:\n(a)the following plans of fire safety works:\n(i)building plans (where the fire safety works relate to any building) or relevant pipeline plans (where the fire safety works relate to any relevant pipeline);\n[S 545/2013 wef 01/09/2013]\n(ii)air-conditioning and mechanical ventilation plans; and\n(iii)fire protection plans;\n(b)a notification signed by the applicant of the appointment of —\n(i)the qualified person who prepared the plans of fire safety works; and\n(ii)where the plans of fire safety works contain any alternative solution, the fire safety engineer who prepared or supervised the preparation of the plans,\nand a confirmation of such appointment signed by the qualified person and, where applicable, the fire safety engineer;\n[S 545/2013 wef 01/09/2013]\n(c)the applicable declaration form set out on the website at https://www.scdf.gov.sg;\n[S 769/2020 wef 14/09/2020]\n(d)where the plans of fire safety works contain any alternative solution, the additional following documents:\n(i)a fire safety engineering design brief;\n(ii)a fire safety engineering report, including detailed specifications and drawings of the final design of fire safety works;\n(iii)an operations and maintenance manual for the building or relevant pipeline, as the case may be, to which the fire safety works relate;\n[S 545/2013 wef 01/09/2013]\n(iv)a notification signed by the applicant of the appointment of a peer reviewer and a confirmation of such appointment signed by the peer reviewer; and\n(v)a peer reviewer’s report as to whether the alternative solution satisfies the fire performance requirements in the Fire Code;\n[S 545/2013 wef 01/09/2013]\n[S 769/2020 wef 14/09/2020]\n(e)where the plans of fire safety works involve the use of any building materials or equipment not specified in the Fire Code — a description of the nature and type of all the building materials or equipment to be used in the fire safety works;\n[S 769/2020 wef 14/09/2020]\n(f)other documentary evidence in support of any documents in paragraphs (a) to (e), and such other documents as the Commissioner may require to decide the application.\n[S 769/2020 wef 14/09/2020]\n[S 387/2022 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1583-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART II ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Preparation of plans for approval"
+   },
+   "text": {
+    "en": "4.—(1) All plans of fire safety works accompanying any application for approval of plans under section 55(1) of the Act shall —\n(a)where the plans do not contain any alternative solution, be prepared and signed by an appropriate qualified person as determined in accordance with the Second Schedule to the Building Control Regulations 2003 (G.N. No. S 666/2003);\n(b)where the plans contain any alternative solution —\n(i)be prepared and signed by a qualified person who is a fire safety engineer, or be prepared by a qualified person under the supervision of a fire safety engineer and signed by both the qualified person and the fire safety engineer; and\n(ii)be certified by a peer reviewer that the alternative solution therein satisfies the fire performance requirements in the Fire Code;\n(c)be submitted —\n(i)on standard metric size sheets of the international A series and have on every sheet an outlined rectangular space measuring 150mm x 100mm provided at its top right hand corner for official stamps and endorsement; or\n(ii)in such electronic form stored in such medium as the Commissioner may determine; and\n(d)be accompanied by such standard forms as the Commissioner may require.\n[S 387/2022 wef 31/12/2021]\n(2) Where the plans of fire safety works are submitted in electronic form, the qualified person and, where applicable, the fire safety engineer shall —\n(a)authenticate the plans in electronic form in such manner as the Commissioner may require; and\n(b)ensure that such plans are visible or are capable of being displayed in a clear and intelligible manner on a suitably light background.\n(3) The Commissioner may require additional sets of plans or enlarged details, specifications or other information thereof or other documents relating thereto to be submitted to him.\n(4) This regulation shall not apply to the plans of fire safety works which relate to minor alterations or additions as set out in the Schedule to any building or part of a building in respect of which a temporary fire permit or a fire safety certificate is issued (whether before, on or after 14 September 2020).\n[S 769/2020 wef 14/09/2020]\n(5) The plans referred to in paragraph (4) shall be —\n(a)certified by a qualified person appointed in respect of such fire safety works;\n(b)lodged with the Commissioner;\n(c)in such form as the Commissioner considers necessary; and\n(d)accompanied by such other documents as the Commissioner may require."
+   }
+  },
+  {
+   "id": "SG-H1583-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART II ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Non-acceptance of plans"
+   },
+   "text": {
+    "en": "5. The Commissioner may refuse to accept any application for approval of plans of fire safety works and may return the application or plans where —\n(a)the plans are not such as are prescribed by these Regulations;\n(b)he has not received an application in the appropriate form or any such application does not contain the particulars required therein; or\n(c)such fees as prescribed by these Regulations have not been paid."
+   }
+  },
+  {
+   "id": "SG-H1583-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART II ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Scale of plans"
+   },
+   "text": {
+    "en": "6.—(1) All plans of fire safety works submitted under section 55(1) of the Act shall be drawn to the following scales:\n(a)Site plan — 1:500;\n(b)Key or location plan — 1:1,000; and\n(c)Plan of a building or relevant pipeline to which the fire safety works relate — 1:100 except where the size of the building or relevant pipeline is too large for the plan to be drawn on the required standard size paper, the Commissioner may allow the plan to be prepared to a scale not smaller than 1:200.\n[S 545/2013 wef 01/09/2013]\n[S 387/2022 wef 31/12/2021]\n(2) The scales and grid references shall be indicated on all plans, sections and other drawings."
+   }
+  },
+  {
+   "id": "SG-H1583-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART II ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Particulars to be shown on plans"
+   },
+   "text": {
+    "en": "7.—(1) Where the fire safety works relate to any building, the building plans submitted under section 55(1) of the Act shall consist of a location plan, a site plan, a floor plan of each storey, a roof plan of the building and sectional and elevational drawings of the building and shall be prepared in accordance with the provisions of the Building Control Act 1989, the Building Control Regulations 2003 (G.N. No. S 666/2003) and these Regulations.\n[S 545/2013 wef 01/09/2013]\n[S 387/2022 wef 31/12/2021]\n(2) In addition to the requirements prescribed under the Building Control Act 1989 and the Building Control Regulations 2003, the appropriate plans shall contain or clearly identify and show in distinct colours the following:\n(a)on the location plan —\n(i)the coloured location of the lot relative to neighbouring lots; and\n(ii)the various roads constituting the access layout to the lot;\n(b)on the site plan —\n(i)the means of access to the site and to the perimeter of each building for fire fighting vehicles and equipment;\n(ii)distances between each building or fire safety works and the relevant lot boundaries, other proposed or existing buildings or installations on the site;\n(iii)the location of existing and proposed internal fire-hydrants on the site; and\n(iv)any other feature on or in the vicinity of the site which is likely to be a fire hazard or is likely to cause obstruction to fire fighting vehicles and equipment and rescue operations;\n(c)on every floor plan and roof plan —\n(i)clear statements indicating the proposed or existing use of every part;\n(ii)details of all openings and voids penetrating floors including their usage, dimensions and the nature and arrangement of enclosing walls and barricades;\n(iii)clear statements indicating the design occupant load for that storey or roof for which means of escape in case of fire have been provided in accordance with the Fire Code;\n(iv)the fire resistance ratings of all elements of structure, fire doors, shutters, dampers and such other fire safety measures;\n(v)details of all means of escape to the external at ground level from every part of the floor such as exit doors, corridors, passageways, aisles, gangways, balconies, lobbies, ramps, exit passageways, escape and fire fighting staircases and areas of refuge;\n(vi)locations of all existing and proposed fire lifts, fire lift lobbies, the Fire Command Centre, water tank rooms and generator rooms;\n[S 769/2020 wef 14/09/2020]\n(vii)locations of all areas designated for the storage of flammable liquids or gases, boiler rooms, transformer rooms and any other area of special risk;\n(viii)the types and extent of provision of fire detection and alarm systems and voice communications systems;\n(ix)the types, extent of provision and locations of existing or proposed regulated fire safety products;\n[S 769/2020 wef 14/09/2020]\n(x)the type and extent of provision of sprinklers systems, wet and dry rising mains and other fire extinguishing systems; and\n[S 769/2020 wef 14/09/2020]\n(xi)the type and extent of provision of smoke control and ventilation systems and their related air or smoke shafts;\n(d)cross-sectional views which are necessary to fully describe all details and configurations of the proposed building or part thereof and of the proposed fire safety works and shall include the following:\n(i)the full height of each storey and the depth of ceiling space;\n(ii)details of all openings and voids penetrating floors including their dimensions, usage and height of enclosing walls and barricades;\n(iii)details of the junction between the roof and any compartment walls;\n(iv)the dimensions of treads and rises of staircases;\n(v)the dimensions of openings in external walls;\n(vi)the clear height of all structures or projections directly above the access for fire fighting vehicles and equipment;\n(vii)the clear distance of the external wall from the fire fighting vehicles and equipment access, lot boundary, adjacent buildings and other structures;\n(viii)the types of materials used in and the thickness of all walls, floors, roofs, ceilings, beams and other related parts of the building; and\n(ix)enlarged details of curtain walling at the junction with the typical floor slab to show the provision of fire stopping or fire cavity barriers;\n(e)elevational details including —\n(i)the provisions of fireman access panels on the external walls and claddings; and\n(ii)the clear distance of the external wall from the fire fighting vehicles and equipment access, lot boundary, adjacent buildings and other structures; and\n(f)such other details, particulars or information relating to the building or fire safety works as the Commissioner may require.\n[S 387/2022 wef 31/12/2021]\n(3) Where the fire safety works relate to any relevant pipeline, the relevant pipeline plans submitted under section 55(1) of the Act shall, in addition to complying with paragraphs (1) and (2) (with the necessary modifications) —\n(a)include a fully-dimensioned site plan, with layout plans, elevations and sectional views, including (where the relevant pipeline or any existing relevant pipeline within the same pipetrack or piperack is an underground pipeline) the underground plans, elevations and sectional views of such underground pipelines; and\n(b)contain the following details in respect of the relevant pipeline and all other existing relevant pipelines located within the same pipetrack or piperack as the relevant pipeline:\n(i)details of the relevant pipeline, including the capacity, thickness, material type, size, joints and connections, labelling and colour code;\n(ii)types and quantity of petroleum and flammable materials to be conveyed between each consecutive pair of emergency isolation valves on the relevant pipeline, and the respective flow rate, pressure, temperature and Safety Data Sheet relating to each type of petroleum or flammable material conveyed;\n(iii)location and details of the emergency isolation valves and procedures to handle surge pressures;\n(iv)location and details of leakage monitoring, detection and control systems (such as systems to shut-off relevant pumps and isolation valves automatically) and over-pressure protection system (such as automatic depressurisation and venting systems); and\n(v)location and details of fire protection systems and measures (such as fire hydrant and fire water monitors), other safety systems and measures (such as secondary containment for the entire pipeline or pipeline corridor) and ancillary safety equipment.\n[S 545/2013 wef 01/09/2013]\n[S 387/2022 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1583-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART II ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Particulars to be shown on plans for air-conditioning, mechanical ventilation and fire protection works"
+   },
+   "text": {
+    "en": "8.—(1) Plans to be submitted for air-conditioning, mechanical ventilation and fire protection works shall include the following:\n(a)key features of the building in which the system is to be installed, including the particulars listed in regulations 6 and 7;\n(b)a schematic diagram of the overall system showing clearly the key features and their functions, relative locations in the building, lots, sizes, capacities and other essential information including the air distribution design arrangement in the case of air-conditioning and mechanical ventilation systems;\n(c)the layout of the system on every floor plan showing clearly the various parts and their functions, locations, arrangements, sizes, capacities and other essential information;\n(d)necessary cross-sectional views as superimposed on the building or part thereof to fully describe the details and configurations of the system;\n(e)a colour scheme to clearly distinguish the various distinct parts of the system and the different systems from one another;\n(f)for air-conditioning and mechanical ventilation systems such additional details as —\n(i)the volumetric rate of flow of air at each point of inlet and outlet of each system including those serving protected staircases, exit passageways, lobbies, areas of refuge, the Fire Command Centre, fire pump rooms, generator rooms, rooms used for the storage of flammable liquids or gas or other areas of special risk;\n(ii)the location of fire compartment walls, floors and air shafts;\n(iii)the location of fire dampers;\n(iv)the location of smoke detectors; and\n(v)the location and function of other fire precautionary features.\n(2) Where required by the Commissioner, such plans submitted shall be accompanied by —\n(a)a report identifying and describing each system installed in the building and its design, features and operational arrangements; and\n(b)design calculations."
+   }
+  },
+  {
+   "id": "SG-H1583-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART II ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Additional requirements"
+   },
+   "text": {
+    "en": "9. In addition to the plans and specifications required by regulations 7 and 8, the Commissioner may require the applicant to produce computations, test reports and such other information as may be necessary to determine compliance with these Regulations."
+   }
+  },
+  {
+   "id": "SG-H1583-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART II ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Approval, disapproval and rejection of plans"
+   },
+   "text": {
+    "en": "10.—(1) Where the Commissioner approves any plans of fire safety works under section 55(3)(a) of the Act, he shall in writing notify the applicant and the qualified person who prepared the plans of his approval and of any terms and conditions on which such approval has been granted.\n[S 387/2022 wef 31/12/2021]\n(2) Where any plans of fire safety works are —\n(a)disapproved under section 55(3)(b) of the Act;\n[S 387/2022 wef 31/12/2021]\n(b)rejected under section 55(4) of the Act; or\n[S 387/2022 wef 31/12/2021]\n(c)approved under section 55(5) of the Act,\n[S 387/2022 wef 31/12/2021]\nthe Commissioner shall in writing notify the applicant and the qualified person who prepared those plans."
+   }
+  },
+  {
+   "id": "SG-H1583-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART II ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Return of plans"
+   },
+   "text": {
+    "en": "11.—(1) Where any plans of fire safety works have been approved or disapproved, the Commissioner may retain one set and return the remaining sets of the plans to the applicant.\n(2) Where any plans of fire safety works are rejected under section 55(4) of the Act or where they are withdrawn by the applicant before or after the approval, the Commissioner may return the plans to the applicant.\n[S 387/2022 wef 31/12/2021]\n(3) Where any plans of fire safety works are to be returned pursuant to this regulation, the Commissioner shall in writing notify the applicant to collect the plans within 14 days from the date of the notification from such place as the Commissioner may specify.\n(4) Where any plans of fire safety works to be returned by the Commissioner are not collected within the period referred to in paragraph (3), the Commissioner may dispose of the plans in any manner as he thinks fit."
+   }
+  },
+  {
+   "id": "SG-H1583-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART III DUTIES OF QUALIFIED PERSONS, FIRE SAFETY ENGINEERS AND PERSONS FOR WHOM WORKS ARE CARRIED OUT"
+   },
+   "heading": {
+    "en": "Duty to prepare plans"
+   },
+   "text": {
+    "en": "12.—(1) For the purposes of section 55(2) of the Act, every appointed qualified person and, where applicable, every appointed fire safety engineer shall —\n(a)give or show correctly and clearly all particulars and information that are required to be given or shown on a plan which is signed by him and is submitted under the Act and shall not misrepresent or exclude those particulars or information on or from the plan, as the case may be; and\n(b)ensure that all plans or specifications are in conformity with the provisions of the Act, these Regulations and the Fire Code.\n[S 387/2022 wef 31/12/2021]\n(2) Where the plans of fire safety works contain any alternative solution, the appointed fire safety engineer shall, in addition —\n(a)conform to design guidelines and codes of practice approved by the Commissioner in designing the alternative solution or any part thereof, subject to any deviation or modification approved by the Commissioner;\n(b)make available to the Commissioner such documents, fire safety engineering software models or tools, and information used in the fire safety engineering software models as the Commissioner may require; and\n(c)assist the peer reviewer to obtain such reports and other documents from relevant bodies or testing laboratories as the peer reviewer may require to assess the alternative solution."
+   }
+  },
+  {
+   "id": "SG-H1583-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART III DUTIES OF QUALIFIED PERSONS, FIRE SAFETY ENGINEERS AND PERSONS FOR WHOM WORKS ARE CARRIED OUT"
+   },
+   "heading": {
+    "en": "Duty to supervise works"
+   },
+   "text": {
+    "en": "13. For the purposes of section 57(5) of the Act, every appointed qualified person and, where applicable, every appointed fire safety engineer shall —\n(a)[Deleted by S 769/2020 wef 14/09/2020]\n(b)on completion of the works, submit a copy of his certificate of supervision in a standard form to the Commissioner; and\n(c)keep a proper record of all reports, requests and correspondence relating to the design or implementation of fire safety works, and furnish the Commissioner with a copy of such document as the Commissioner may, from time to time, require.\n[S 387/2022 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1583-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART III DUTIES OF QUALIFIED PERSONS, FIRE SAFETY ENGINEERS AND PERSONS FOR WHOM WORKS ARE CARRIED OUT"
+   },
+   "heading": {
+    "en": "Change of qualified person or fire safety engineer"
+   },
+   "text": {
+    "en": "14.—(1) Where there is a change of a qualified person or fire safety engineer employed or engaged to prepare any plan for fire safety works or to supervise the same and such change is made after the plan has been submitted under the Act, the qualified person or fire safety engineer whose services are being terminated shall notify the Commissioner in writing of the termination of his services within 14 days of such termination.\n(2) With effect from the date of the termination, no work concerning fire safety works shall be carried out, commenced or resumed unless another qualified person or fire safety engineer has notified the Commissioner in writing of his appointment as the qualified person or fire safety engineer to supervise the works under regulation 13."
+   }
+  },
+  {
+   "id": "SG-H1583-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART III DUTIES OF QUALIFIED PERSONS, FIRE SAFETY ENGINEERS AND PERSONS FOR WHOM WORKS ARE CARRIED OUT"
+   },
+   "heading": {
+    "en": "Offences by qualified person or fire safety engineer"
+   },
+   "text": {
+    "en": "15. Every qualified person and, where applicable, every fire safety engineer who submitted any plan or specification under the Act or who is required to supervise any works concerning fire safety under these Regulations shall be guilty of an offence if he, without reasonable cause —\n(a)misrepresents any relevant particulars or information required to be shown or given on such plan or specifications under the Act or these Regulations or excludes therefrom such particulars or information if such plan or specifications has or have been accepted or approved by, or submitted to the Commissioner under the Act or these Regulations;\n(b)submits an incorrect certificate of supervision to the Commissioner under regulation 13(b); or\n(c)contravenes any of the provisions of regulation 12, 13 or 14."
+   }
+  },
+  {
+   "id": "SG-H1583-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART III DUTIES OF QUALIFIED PERSONS, FIRE SAFETY ENGINEERS AND PERSONS FOR WHOM WORKS ARE CARRIED OUT"
+   },
+   "heading": {
+    "en": "Duties of owner or occupier prior to commencement of fire safety works"
+   },
+   "text": {
+    "en": "16.—(1) Before the commencement, carrying out or resumption of any fire safety works, the persons referred to in paragraph (2) shall —\n(a)ascertain that all the plans of the fire safety works which are required by or under the Act to be submitted to the Commissioner have been approved by the Commissioner and that such approval has not been withdrawn and is still valid; and\n(b)ensure that such works are to be supervised at all times by a qualified person and, where the works use any alternative solution, a fire safety engineer.\n(2) The following persons shall comply with paragraph (1):\n(a)in the case of fire safety works which relate to a relevant pipeline, the pipeline owner of the section of the relevant pipeline; and\n(b)in the case of other fire safety works, the owner or occupier of the premises in which such works are to be commenced, carried out or resumed.\n[S 545/2013 wef 01/09/2013]"
+   }
+  },
+  {
+   "id": "SG-H1583-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART IV OCCUPATION OF BUILDINGS AND USE OF RELEVANT PIPELINES"
+   },
+   "heading": {
+    "en": "Application for fire safety certificate"
+   },
+   "text": {
+    "en": "17.—(1) On completion of any fire safety works, the person for whom the fire safety works were carried out shall, except for any fire safety works referred to in regulation 4(4), apply to the Commissioner for —\n(a)a fire safety certificate; or\n(b)a temporary fire permit.\n(2) An application for a fire safety certificate or a temporary fire permit shall be in such form as the Commissioner may provide and shall be accompanied by —\n(a)a certificate by the qualified person and, where applicable, the fire safety engineer who supervised the fire safety works in accordance with the approved plans for fire safety works stating that all the requirements under the Act and these Regulations have been complied with;\n(b)a certificate by a registered inspector prepared under regulation 11(1) of the Fire Safety (Registered Inspectors) Regulations (Rg 2); and\n(c)other documentary evidence in support of the application and such other documents as the Commissioner may require to decide the application.\n[S 769/2020 wef 14/09/2020]\n(3) Paragraph (2) shall not apply to any application submitted by the Housing and Development Board, the Land Transport Authority of Singapore and such other public authority whose qualified persons have been authorised by the Commissioner to perform the functions and duties of the Commissioner under section 3(3) of the Act.\n(4) The Commissioner may grant a fire safety certificate in respect of a building or relevant pipeline or part thereof in respect of which fire safety works have been carried out where —\n(a)the fire safety works have been completed in accordance with the provisions of the Act and these Regulations;\n(b)the certificate of supervision referred to in regulation 13(b) has been submitted by the qualified person and, where applicable, the fire safety engineer to the Commissioner;\n(c)all the written directions given by the Commissioner to the applicant under section 55(3) of the Act and to the appropriate qualified persons or fire safety engineer who supervised the carrying out of the fire safety works or part thereof under section 57(5) of the Act have been complied with;\n[S 387/2022 wef 31/12/2021]\n(d)all the requirements either shown, implied or endorsed on the approved plans have been complied with; and\n(e)such other certificate or document as may be required by the Commissioner has been submitted.\n[S 545/2013 wef 01/09/2013]"
+   }
+  },
+  {
+   "id": "SG-H1583-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART IV OCCUPATION OF BUILDINGS AND USE OF RELEVANT PIPELINES"
+   },
+   "heading": {
+    "en": "Temporary fire permit"
+   },
+   "text": {
+    "en": "18.—(1) A fire safety certificate shall not be granted in respect of any building or relevant pipeline where —\n(a)there are minor requirements still to be complied with under the Act or these Regulations;\n(b)any of the written directions or requirements shown or endorsed on the plans have not been fully complied with;\n(c)there are minor deviations or departures from any approved plan of fire safety works; or\n(d)the fire safety works have not been fully completed.\n[S 545/2013 wef 01/09/2013]\n(2) Notwithstanding paragraph (1), the Commissioner may, if he is satisfied that the non-compliance, deviation or non-completion of fire safety works is neither of a serious nature nor in any way detrimental to the well being and safety of the persons who may occupy the building or part thereof or who may be in the vicinity of the relevant pipeline, as the case may be, grant a temporary fire permit for the occupation or use of the building or the use of the relevant pipeline, as the case may be.\n[S 545/2013 wef 01/09/2013]\n(3) A temporary fire permit may be granted where —\n(a)the certificate of supervision referred to in regulation 13(b) has been submitted by the qualified person and, where applicable, the fire safety engineer to the Commissioner; and\n(b)any other certificate or document as may be required by the Commissioner have been submitted."
+   }
+  },
+  {
+   "id": "SG-H1583-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART IV OCCUPATION OF BUILDINGS AND USE OF RELEVANT PIPELINES"
+   },
+   "heading": {
+    "en": "Application for temporary fire permit for part of building"
+   },
+   "text": {
+    "en": "19. If an application for a temporary fire permit relates to a part of a building, the qualified person shall separate or cause to be separated those areas under construction from the areas to which the application relates by means of proper hoardings acceptable to the Commissioner."
+   }
+  },
+  {
+   "id": "SG-H1583-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART IV OCCUPATION OF BUILDINGS AND USE OF RELEVANT PIPELINES"
+   },
+   "heading": {
+    "en": "Inspection and provision of facilities for tests"
+   },
+   "text": {
+    "en": "20. The person for whom fire safety works were carried out shall open or cause to be opened the premises for inspection by the Commissioner and shall make available, at the request of the Commissioner and at the expense of that person, equipment, machines or other devices necessary to facilitate the inspection or tests to be carried out by the Commissioner for the purpose of issuing a fire safety certificate or temporary fire permit."
+   }
+  },
+  {
+   "id": "SG-H1583-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART IV OCCUPATION OF BUILDINGS AND USE OF RELEVANT PIPELINES"
+   },
+   "heading": {
+    "en": "Application for change of use"
+   },
+   "text": {
+    "en": "21.—(1) No person shall carry out any change of use of any premises unless an application for approval is made to the Commissioner under section 61 of the Act and such approval is obtained.\n[S 387/2022 wef 31/12/2021]\n(2) An application for approval referred to in paragraph (1) shall be accompanied by plans of fire safety works prepared for the purpose of the application.\n(3) Paragraph (2) shall not apply to an application for approval of temporary change of use for the purpose of stage shows, promotional activities, exhibitions, trade fairs or carnivals.\n(4) An application for approval of such temporary change of use as referred to in paragraph (3) shall be made in such form as the Commissioner may determine and shall be accompanied by the prescribed fees and the following documents:\n(a)site plan;\n(b)floor plan showing or containing the proposed or existing use of every part;\n(c)layout plan showing or containing —\n(i)the purpose of the intended usage;\n(ii)clear statements indicating the details of the proposed activities; and\n(iii)the design and material of any temporary structure to be erected for the activities; and\n(d)such other information as the Commissioner may require."
+   }
+  },
+  {
+   "id": "SG-H1583-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART IV OCCUPATION OF BUILDINGS AND USE OF RELEVANT PIPELINES"
+   },
+   "heading": {
+    "en": "Fire safety works to comply with these Regulations, Fire Code, etc."
+   },
+   "text": {
+    "en": "22. All fire safety works shall be designed, installed, tested, inspected, operated and maintained in accordance with these Regulations, the Fire Code and any instructions that have been issued by the Commissioner under these Regulations."
+   }
+  },
+  {
+   "id": "SG-H1583-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART IV OCCUPATION OF BUILDINGS AND USE OF RELEVANT PIPELINES"
+   },
+   "heading": {
+    "en": "Use of plastic materials"
+   },
+   "text": {
+    "en": "23. Plastic materials used for coverings and insulation purposes shall conform to the type and standards acceptable to the Commissioner and shall be of a type which shall not if burnt emit toxic gases beyond such values as may be prescribed by the Commissioner."
+   }
+  },
+  {
+   "id": "SG-H1583-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART IV OCCUPATION OF BUILDINGS AND USE OF RELEVANT PIPELINES"
+   },
+   "heading": {
+    "en": "Tests of materials and equipment"
+   },
+   "text": {
+    "en": "24. The Commissioner may direct that materials, construction or structural assemblies, installations, equipment and components be tested at the expense of the owner, if it is necessary in his opinion to determine whether the materials, construction or structural assemblies, installations, equipment and components meet the requirements of the Act and the regulations made thereunder."
+   }
+  },
+  {
+   "id": "SG-H1583-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART V FIRE CERTIFICATE"
+   },
+   "heading": {
+    "en": "Application for fire certificate"
+   },
+   "text": {
+    "en": "25.—(1) An application for the issue or renewal of the fire certificate under section 35 of the Act shall be made to the Commissioner in such form as may be provided by the Commissioner and shall be accompanied by —\n(a)the prescribed fees;\n(b)such certifications as the Commissioner may require from the relevant qualified persons that they have examined the building or part thereof and that the fire safety works in the building are in good working condition and in conformity with the Act and the regulations made thereunder; and\n(c)such other information that the Commissioner may require.\n[S 387/2022 wef 31/12/2021]\n(1A) An application for the issue of a fire certificate under paragraph (1) must be made —\n(a)where a certificate of statutory completion or a temporary occupation permit is issued in respect of the building before the building is designated to be subject to section 35 of the Act — within 12 months after the building is so designated; or\n[S 387/2022 wef 31/12/2021]\n(b)where a certificate of statutory completion or a temporary occupation permit is issued in respect of the building after the building is designated to be subject to section 35 of the Act — within 12 months after the date on which the certificate of statutory completion or temporary occupation permit is issued, whichever is earlier.\n[S 769/2020 wef 14/09/2020]\n[S 387/2022 wef 31/12/2021]\n(2) An application for the renewal of a fire certificate under paragraph (1) shall be made at least 2 months before the expiry of the fire certificate.\n(3) Where an application for the issue or renewal of a fire certificate is made under paragraph (1), the Commissioner may refuse to issue or renew the fire certificate or may issue or renew the fire certificate on such terms and conditions as he thinks fit.\n(4) For the purpose of paragraph (1A), the date that a building is designated to be subject to section 35 of the Act is —\n(a)where the building was designated under the revoked Fire Safety (Fire Certificate) (Designated Buildings) Order 2016 (G.N. No. S 97/2016) and is designated under the Fire Safety (Fire Certificate — Designated Buildings) Notification 2020 (G.N. No. S 766/2020) — the date that the building was designated under the revoked Fire Safety (Fire Certificate) (Designated Buildings) Order 2016; and\n(b)where the building is only designated under the Fire Safety (Fire Certificate — Designated Buildings) Notification 2020 — the date that the building is so designated.\n[S 769/2020 wef 14/09/2020]\n[S 387/2022 wef 31/12/2021]\n(5) In this regulation, “certificate of statutory completion” and “temporary occupation permit” have the meanings given by section 2(1) of the Building Control Act 1989.\n[S 769/2020 wef 14/09/2020]\n[S 387/2022 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1583-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART V FIRE CERTIFICATE"
+   },
+   "heading": {
+    "en": "Validity of fire certificate"
+   },
+   "text": {
+    "en": "26. A fire certificate shall be valid for such period not exceeding 3 years as may be specified in the fire certificate and may be renewed.\n[S 769/2020 wef 14/09/2020]"
+   }
+  },
+  {
+   "id": "SG-H1583-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART V FIRE CERTIFICATE"
+   },
+   "heading": {
+    "en": "Revocation of fire certificate"
+   },
+   "text": {
+    "en": "27. The Commissioner may revoke any fire certificate where there is —\n(a)a breach of any of the terms and conditions of the certificate;\n(b)any misrepresentation of a material fact in the application for the fire certificate or accompanying plans or documents upon the basis of which the certificate was issued or renewed; or\n(c)knowledge that the fire hazards within the building or part thereof, for which the fire certificate was issued or renewed, have increased without adequate fire safety measures being taken to the satisfaction of the Commissioner."
+   }
+  },
+  {
+   "id": "SG-H1583-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART V FIRE CERTIFICATE"
+   },
+   "heading": {
+    "en": "False or inaccurate certificate"
+   },
+   "text": {
+    "en": "28. A qualified person who submits to the Commissioner any certification referred to in regulation 25(1)(b) which —\n(a)is false; or\n(b)without reasonable cause, contains any misrepresentation of a material fact,\nshall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H1583-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART V FIRE CERTIFICATE"
+   },
+   "text": {
+    "en": "29. [Deleted by S 769/2020 wef 14/09/2020]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1583-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART VI FEES"
+   },
+   "heading": {
+    "en": "Issue or renewal of fire certificate"
+   },
+   "text": {
+    "en": "30.—(1) The fee for each application for the issue or renewal of a fire certificate in respect of any building or part thereof shall be —\n(a)$11 for each storey or part thereof of the building lawfully used or intended to be used for residential (landed or non-landed) purposes; and\n[S 545/2013 wef 01/11/2013]\n(b)$33 for each storey or part thereof of the building lawfully used or intended to be used for non-residential purposes.\n[S 172/2010 wef 29/03/2010]\n[S 545/2013 wef 01/11/2013]\n(2) If the application for the issue or renewal of a fire certificate is refused under regulation 25(3) or if the fire certificate is revoked under regulation 27, the fee paid under paragraph (1) shall not be refundable."
+   }
+  },
+  {
+   "id": "SG-H1583-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART VI FEES"
+   },
+   "heading": {
+    "en": "Additional copy of notice or certificate"
+   },
+   "text": {
+    "en": "31. The fee for each additional copy of any notice or certificate issued under the Act or these Regulations shall be $11.\n[S 545/2013 wef 01/11/2013]"
+   }
+  },
+  {
+   "id": "SG-H1583-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART VI FEES"
+   },
+   "heading": {
+    "en": "Fees for approval of plans"
+   },
+   "text": {
+    "en": "32.—(1) Subject to paragraphs (1C) and (2), the fee payable for an application for approval of plans of fire safety works which relate to the installation of fire safety measures under Part 4 of the Act is —\n(a)where the plans contain any prescribed fire safety measure (whether or not required under the Fire Code or by the Commissioner under section 36 or 55(3)(c) of the Act) — $160 for every 100 square metres (or part of 100 square metres) of floor area; and\n[S 387/2022 wef 31/12/2021]\n(b)in any other case — $100 for every 100 square metres (or part of 100 square metres) of floor area.\n[S 769/2020 wef 14/09/2020]\n[S 387/2022 wef 31/12/2021]\n(1A) Subject to paragraphs (1B), (1C) and (2), the fee payable for an application for approval of plans of fire safety works which relate to relevant pipeline works under Part 4 of the Act shall be —\n(a)if the relevant pipeline or any part thereof is located within a tunnel or other shelter, $160 for every 100 square metres or part thereof of that tunnel or shelter; or\n[S 328/2015 wef 01/08/2015]\n(b)in any other case, $90 per application.\n[S 545/2013 wef 01/09/2013]\n[S 328/2015 wef 01/08/2015]\n[S 769/2020 wef 14/09/2020]\n[S 387/2022 wef 31/12/2021]\n(1B) The fee under paragraph (1A)(a) shall not apply to an application for approval of plans of fire safety works which relate to relevant pipeline works if —\n(a)that application is made together with an application for approval of plans of fire safety works which relate to the installation of fire safety measures under Part 4 of the Act (referred to in this paragraph as “the other application”); and\n[S 387/2022 wef 31/12/2021]\n(b)the area of any tunnel or shelter in which the relevant pipeline or part thereof is located has already been included in the calculation of the fee under paragraph (1) for the other application.\n[S 545/2013 wef 01/09/2013]\n(1C) Where the plans of fire safety works involve the use of any building materials or equipment not specified in the Fire Code, an additional fee of $145 is payable for the application for approval of those plans.\n[S 769/2020 wef 14/09/2020]\n(2) Where the Commissioner has under section 55(3)(b) of the Act disapproved any plan referred to in paragraph (1) or (1A), the person who submitted the plan may revise and resubmit the plan for approval upon payment of the following fees:\n(a)in the case of a revised plan which —\n(i)contains the same location plan, site plan and gross area as the disapproved plan;\n(ii)is a first revision of the disapproved plan;\n(iii)has been revised only in respect of fire safety measures or the relevant pipeline works, as the case may be, in order to comply with the provisions of the Act, these Regulations and the Fire Code adopted under section 106 of the Act and does not include any other changes; and\n[S 545/2013 wef 01/09/2013]\n[S 387/2022 wef 31/12/2021]\n(iv)has been submitted within 90 days of the date of the notification of disapproval or such further period as the Commissioner may allow,\n25% of the fee specified in paragraph (1) or (1A), as the case may be; and\n[S 545/2013 wef 01/09/2013]\n(b)in any other case, the fee specified in paragraph (1) or (1A), as the case may be.\n[S 545/2013 wef 01/09/2013]\n[S 387/2022 wef 31/12/2021]\n(3) The fee payable for an application for approval of plans of fire safety works which relate to fire protection works or minor works under Part 4 of the Act shall be —\n(a)$90 for each storey of a building; or\n[S 328/2015 wef 01/08/2015]\n(b)if the fire protection works are not located (wholly or partly) within any building, $90 per application.\n[S 545/2013 wef 01/09/2013]\n[S 328/2015 wef 01/08/2015]\n[S 387/2022 wef 31/12/2021]\n(4) In this regulation, “prescribed fire safety measure” means —\n(a)an area of refuge;\n(b)an automatic fire alarm system;\n(c)an emergency voice communication system;\n(d)a Fire Command Centre;\n(e)a fire lift or fire escape bed lift;\n(f)a fire sprinkler or water mist system;\n(g)a pressurisation system;\n(h)a rising main or breeching inlet;\n(i)a smoke control system; or\n(j)a smoke-free approach to exit staircase or smoke-free lobby.\n[S 769/2020 wef 14/09/2020]"
+   }
+  },
+  {
+   "id": "SG-H1583-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART VI FEES"
+   },
+   "heading": {
+    "en": "Approval for deviation from plans"
+   },
+   "text": {
+    "en": "33. The fee payable for an application for approval of fire safety works which has departed or deviated from an approved plan of the fire safety works shall be —\n(a)$90 for each storey of a building shown in respect of which the departure or deviation is made or to be made; or\n[S 328/2015 wef 01/08/2015]\n(b)$90 per submission in respect of any departure or deviation from plans for relevant pipeline works.\n[S 545/2013 wef 01/09/2013]\n[S 328/2015 wef 01/08/2015]"
+   }
+  },
+  {
+   "id": "SG-H1583-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART VI FEES"
+   },
+   "heading": {
+    "en": "Approval for alterations or additions to existing buildings"
+   },
+   "text": {
+    "en": "34.—(1) The fee payable for an application for approval of plans of fire safety works which relate to the alterations or additions to an existing building shall be $90 for each storey of a building shown in respect of which the alterations or additions are to be made.\n[S 545/2013 wef 01/09/2013]\n[S 328/2015 wef 01/08/2015]\n(2) Where the application for approval of plans for installation of fire safety measures also involves increasing the floor area of a building, an additional fee of $160 shall be payable for every increase in the floor area by 100 square metres or part thereof.\n[S 328/2015 wef 01/08/2015]\n(3) The fee payable for an application for approval of plans which relate to alterations to a relevant pipeline shall be $90.\n[S 545/2013 wef 01/09/2013]\n[S 328/2015 wef 01/08/2015]"
+   }
+  },
+  {
+   "id": "SG-H1583-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART VI FEES"
+   },
+   "heading": {
+    "en": "Fee for lodgment of plan relating to minor alterations or additions to existing buildings"
+   },
+   "text": {
+    "en": "35. Any owner of an existing building or any part thereof who lodges any plan of fire safety works which relate to minor alterations or additions to such building or such part thereof under regulation 4(5) shall pay a fee of $90.\n[S 545/2013 wef 01/09/2013]\n[S 328/2015 wef 01/08/2015]"
+   }
+  },
+  {
+   "id": "SG-H1583-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART VI FEES"
+   },
+   "heading": {
+    "en": "Fee for application for modification or waiver"
+   },
+   "text": {
+    "en": "36. The fee payable for an application for modification or waiver of a requirement relating to fire safety under section 59(1) of the Act shall be $160 in respect of each requirement to which the application relates.\n[S 545/2013 wef 01/09/2013]\n[S 328/2015 wef 01/08/2015]\n[S 387/2022 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1583-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART VI FEES"
+   },
+   "heading": {
+    "en": "Fee for change of use and temporary change of use"
+   },
+   "text": {
+    "en": "37.—(1) The fee payable for an application for approval of change of use as referred to in regulation 21(1) shall be $90 for each storey of a building.\n[S 328/2015 wef 01/08/2015]\n(2) The fee payable for an application for approval of temporary change of use as referred to in regulation 21(4) shall be $60.\n[S 545/2013 wef 01/11/2013]\n[S 328/2015 wef 01/08/2015]\n[S 752/2023 wef 24/11/2023]"
+   }
+  },
+  {
+   "id": "SG-H1583-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART VI FEES"
+   },
+   "text": {
+    "en": "38. [Deleted by S 769/2020 wef 14/09/2020]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1583-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART VI FEES"
+   },
+   "heading": {
+    "en": "Inspection of plans"
+   },
+   "text": {
+    "en": "39.—(1) The fee for inspecting a plan kept in the office of the Commissioner shall be $22 for a set of plans inspected.\n[S 545/2013 wef 01/11/2013]\n(2) The fee for a request for information, necessitating the inspection by staff of the office of the Commissioner of any plan kept by the Commissioner or records related thereto, shall be $27 for each plan or record inspected by the staff.\n[S 545/2013 wef 01/11/2013]"
+   }
+  },
+  {
+   "id": "SG-H1583-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART VI FEES"
+   },
+   "heading": {
+    "en": "Copying of plans"
+   },
+   "text": {
+    "en": "40. The fee for copying a plan kept in the office of the Commissioner shall be $27 for a set of plans copied.\n[S 545/2013 wef 01/11/2013]"
+   }
+  },
+  {
+   "id": "SG-H1583-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART VI FEES"
+   },
+   "heading": {
+    "en": "Certification of true copies of plans"
+   },
+   "text": {
+    "en": "41. The fee for an endorsement by the Commissioner that copies of plans of any fire safety works are true copies of those plans kept in his office shall be $5 for each copy or sheet of plans."
+   }
+  },
+  {
+   "id": "SG-H1583-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART VI FEES"
+   },
+   "heading": {
+    "en": "No refund of fees"
+   },
+   "text": {
+    "en": "42. Fees paid under these Regulations shall not be refundable."
+   }
+  },
+  {
+   "id": "SG-H1583-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART VI FEES"
+   },
+   "heading": {
+    "en": "Waiver of fees"
+   },
+   "text": {
+    "en": "43. The Commissioner may, in his discretion, waive any fee or part thereof payable under these Regulations."
+   }
+  },
+  {
+   "id": "SG-H1583-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART VII MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Penalty"
+   },
+   "text": {
+    "en": "44. Any person who —\n(a)without reasonable excuse, refuses or neglects to do anything that the person is required to do under regulation 16(1), 19, 20, 22, 23, 25(2), 46(2) or 47; or\n[S 387/2022 wef 19/05/2022]\n(b)without reasonable excuse, acts in contravention of regulation 21(1),\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.\n[S 769/2020 wef 14/09/2020]"
+   }
+  },
+  {
+   "id": "SG-H1583-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART VII MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Responsibility for failure of fire safety works"
+   },
+   "text": {
+    "en": "45. Notwithstanding that a plan, specification or design calculation relating to fire safety works has been approved, the responsibility for a failure of the fire safety works whether in the course of its construction or after its completion shall prima facie lie with the qualified person and, where the plans contain any alternative solution, the fire safety engineer who prepared or supervised the preparation of and signed such plans, specifications or design calculation or who supervised the fire safety works under these Regulations."
+   }
+  },
+  {
+   "id": "SG-H1583-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART VII MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Application to exempted fire safety works"
+   },
+   "text": {
+    "en": "46.—(1) The provisions of the Act and these Regulations shall, with the necessary modifications, apply to fire safety works exempted under the Fire Safety (Exemption) (Temporary Buildings in Construction Sites) Order (O 2).\n(2) Every person for whom such fire safety works are carried out and every qualified person appointed in respect of such fire safety works shall comply with the conditions of the exemption under the Fire Safety (Exemption) (Temporary Buildings in Construction Sites) Order."
+   }
+  },
+  {
+   "id": "SG-H1583-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART VII MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Application of Fire Code to certain exempted fire safety works"
+   },
+   "text": {
+    "en": "47. Any person who carries out any fire safety works exempted under the Fire Safety (Installation of EV Chargers — Exemption) Order 2022 (G.N. No. S 386/2022) must ensure that the fire safety works are designed, installed, tested, inspected, operated and maintained in accordance with the Fire Code.\n[S 387/2022 wef 19/05/2022]\n[S 106/2026 wef 16/03/2026]"
+   }
+  },
+  {
+   "id": "SG-H1583-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRegulation 4(4)\nMinor alterations or additions\nnot requiring approval of plans\n1. The following minor alterations or additions that are within or in relation to an individual unit in a building and that satisfy paragraphs 4, 5, 6 and 7, where applicable:\n(a)partition works arising from change of use to ancillary usage as a pantry, a toilet, a store room of not more than 20 square metres, an ancillary office or other similar use, without increase in occupancy load;\n(b)replacement or addition of any electromechanical locking device to any non-fire rated exit or exit access door, including a unit door;\n(c)replacement, relocation or addition of any roller shutter, swing or sliding door for any non-fire rated exit or exit access door, including a unit door;\n(d)replacement, relocation or addition of any raised floor with a depth of not more than 150 millimetres that does not result in a total area of raised floor within the individual unit exceeding 200 square metres;\n(e)replacement, relocation or addition of any false ceiling;\n(f)replacement, relocation or addition of any kitchen fire suppression system;\n(g)replacement, relocation or addition of any flammable material cabinet where the maximum allowable quantity is limited to 500 litres per control unit;\n(h)replacement or relocation of any pipeline that conveys any flammable or combustible liquid or gas;\n(i)relocation, replacement or addition of any fire alarm subpanel serving an individual unit;\n(j)any internal partition works within an individual unit.\n2. The following minor alterations or additions that are to the interior of a building other than an excluded building and that satisfy paragraphs 4, 5, 6 and 7, where applicable:\n(a)replacement, relocation or addition of any portable fire extinguisher, hose reel, exit sign or emergency lighting;\n(b)replacement, relocation or addition of any fire alarm bell, manual call point, detector and strobe light;\n(c)replacement, relocation or addition of any one-way emergency voice communication component;\n(d)replacement or relocation of any fire alarm panel;\n(e)replacement of any dedicated fire hose reel pump or water tank;\n(f)replacement, relocation or addition of any sprinkler;\n(g)replacement, relocation, addition or extension of any air-conditioning or mechanical ventilation duct and fan that is not fire-rated or part of the fire safety system.\n3. The following alterations or additions that are outside of a building and that satisfy paragraphs 4, 5, 6 and 7, where applicable:\n(a)construction of any open-sided linkway that is not more than 5 metres in width, and not used for commercial activities;\n(b)construction of any standalone pedestrian underpass that is not more than 5 metres in width, and not used for commercial activities;\n(c)construction of any overhead bridge (whether or not enclosed) that is not more than 5 metres in width, and not used for commercial activities;\n(d)installation of any solar panel at the roof of a building only;\n(e)construction of any outdoor display area.\n3A. The installation of any electric motorcycle battery swap station that —\n(a)involves the erection, extension, alteration, addition or repair of a building;\n(b)is not within a petrol station; and\n(c)satisfies paragraphs 4, 5, 6 and 7, where applicable.\n[S 106/2026 wef 16/03/2026]\n4. Any minor alterations or additions must not —\n(a)affect the fire resistance of any element of structure;\n(b)affect any, or involve the erection or installation of any form of, fire compartmentation (including fire resisting walls or doors in the building);\n(c)pose additional fire hazard to the building;\n(d)affect the wet or dry riser or landing valve;\n(e)involve change of use except ancillary usage as a pantry, a toilet, a store room of not more than 20 square metres, an ancillary office or other similar use, without any increase in occupancy load;\n(f)involve an increase in floor area; or\n(g)involve conservation projects.\n5. Any partition works or internal partition works to an individual unit other than a shop or an office must not result in a room with a floor area exceeding 200 square metres.\n6. Any minor alterations or additions to any air-conditioning or mechanical ventilation system must not involve the replacement or relocation of any duct or fan in relation to any of the following:\n(a)exit staircases and internal exit passageways;\n(b)pressurisation of internal corridors in hotels and premises used for healthcare purposes;\n(c)smoke-free lobbies or fire lift lobbies;\n(d)fire pump rooms, generator rooms, Fire Command Centre or rooms involving storage or use of flammable and explosive substances;\n(e)engineered smoke control systems;\n(f)smoke purging systems.\n7. Any minor alterations or additions to a fire protection system or fire alarm system must not —\n(a)involve the replacement, relocation or addition of any sprinkler classified under OH3S or high hazard;\n(b)involve the replacement, relocation or addition of more than 9 sprinkler heads; or\n(c)involve the replacement, relocation or addition of sprinklers or detectors along any common area of a building with sleeping risks such as hospitals, hotels and worker dormitories.\n8. In this Schedule —\n“battery”, in relation to an electric motorcycle, means a rechargeable energy storage system which can be recharged with electricity externally so as to derive power to propel an electric motorcycle equipped with that rechargeable energy storage system;\n[S 106/2026 wef 16/03/2026]\n“electric motorcycle” means a motorcycle that is —\n(a)propelled wholly or partly by electricity, whether or not designed or adapted to be capable, in at least some circumstances or situations, of safely driving itself; and\n(b)equipped with a battery;\n[S 106/2026 wef 16/03/2026]\n“electric motorcycle battery swap station” means a device —\n(a)that is used to store one or more swappable batteries to enable the exchange of a swappable battery that is depleted in whole or in part with a swappable battery that is fully charged; and\n(b)that stores only swappable batteries used for electric motorcycles,\nwhether or not the device is capable of transferring electricity from a supply source to the swappable batteries stored in the device;\n[S 106/2026 wef 16/03/2026]\n“excluded building” means any building —\n(a)where there can be a large congregation of the general public, such as religious premises;\n(b)used for childcare or healthcare purposes, where the occupants have impaired mobility or are vulnerable in the event of a fire emergency; or\n(c)with high fire loads or hazards;\n“individual unit”, in relation to a building, means —\n(a)any room designated as a shop or an office in an approved building plan under a temporary fire permit or fire safety certificate; or\n(b)any room with a floor area of not more than 200 square metres in an approved building plan under a temporary fire permit or fire safety certificate;\n[S 769/2020 wef 14/09/2020]\n[G.N Nos S 165/94; S128/96; S 254/97; S 434/97; S 361/98; S 341/99; S 181/2000; S 334/2004]\n[S 106/2026 wef 16/03/2026]\n“swappable battery”, in relation to an electric motorcycle, means a battery of the electric motorcycle that, if depleted in whole or in part, is designed to be removed from the electric motorcycle and exchanged for a recharged battery for the purpose of the propulsion of the electric motorcycle.\n[S 106/2026 wef 16/03/2026]"
+   }
+  }
+ ]
+}

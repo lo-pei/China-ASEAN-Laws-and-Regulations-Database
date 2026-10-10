@@ -1,0 +1,84 @@
+{
+ "id": "PH-H10325",
+ "title": {
+  "zh": null,
+  "en": "National Baptist Day",
+  "orig": "An Act Declaring the Second Thursday of January of Every Year a Special Working Holiday to be Known as \"National Baptist Day\""
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p147",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2022-07-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 11897",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 788,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2022/ra_11897_2022.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2022/ra_11897_2022.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10325-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act shall be known as the \"National Baptist Day Act.\""
+   }
+  },
+  {
+   "id": "PH-H10325-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "It is hereby the declared policy of the State to recognize the Baptists for the continuous pursuit of their evangelical mission to contribute to nation-building by establishing Christian schools that instill academic excellence and build character in individuals, and churches that proclaim, teach and share biblical principles for the betterment of society."
+   }
+  },
+  {
+   "id": "PH-H10325-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "To recognize the important contribution of the Baptists in nation-building, the State shall promote the observance of the second Thursday of January of every year as \"National Baptist Day\" and proclaim the same as a special working holiday."
+   }
+  },
+  {
+   "id": "PH-H10325-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
+   }
+  }
+ ]
+}

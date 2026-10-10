@@ -1,0 +1,527 @@
+{
+ "id": "SG-H355",
+ "title": {
+  "zh": null,
+  "en": "Building Control (Buildability and Productivity) Regulations 2011",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p05",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation BCA1989-S199-2011",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 41,
+ "chars": 73005,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/BCA1989-S199-2011?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 41 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 16 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H355-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Building Control (Buildability and Productivity) Regulations 2011 and shall come into operation 15th July 2011.\n[S 729/2014 wef 01/11/2014]"
+   }
+  },
+  {
+   "id": "SG-H355-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“accredited”, in relation to a fabrication facility or a fabrication method, means that the fabrication facility or the fabrication method is accredited by a body specified in the Code of Practice;\n[S 729/2015 wef 01/12/2015]\n“alternative solution”, in relation to any relevant building works, means an outcome‑based solution to facilitate innovation at the design and construction stages and achieve productivity outcomes, being —\n(a)one of the deemed acceptable solutions for those relevant building works that meets the high prefabrication requirements set out in the Code of Practice; or\n(b)an open solution for those relevant building works adopting innovative design and construction techniques that meets productivity improvement requirements set out in the Code of Practice;\n[S 819/2019 wef 15/12/2019]\n“approved buildability detailed design and implementation plan” means a buildability detailed design and implementation plan approved by the Commissioner of Building Control under section 5(3) of the Act;\n[S 689/2017 wef 15/12/2017]\n“approved productivity concept implementation plan” means a productivity concept implementation plan approved by the Commissioner of Building Control under section 5(3) of the Act;\n[S 689/2017 wef 15/12/2017]\n“biometric authentication system” means an electronic system capable of identifying or authenticating the identity of a person using distinguishing physiological traits of the person such as finger prints, palm shapes or facial features;\n[S 729/2014 wef 01/11/2014]\n“buildability detailed design and implementation plan” means a plan (of the building works of a building) which describes and defines the types, extent of use and details of the building systems, building components and buildable features to be implemented for the building works of the building, for the purpose of —\n(a)computing the buildable design score or structural design score, as the case may be, with respect to the design of the building works; and\n(b)where applicable, ascertaining compliance with the requirements under regulations 4A and 4B with respect to the design of the building works;\n[S 729/2014 wef 01/11/2014]\n“buildable design score” means the score relating to the extent to which a design of building works affects the ease of implementation of the building works, computed in accordance with the Buildable Design Appraisal System as set out in the Code of Practice;\n[S 522/2013 wef 01/09/2013]\n[Deleted by S 729/2014 wef 01/11/2014]\n“building plans” means the building plans referred to in regulation 4(1)(a)(i) of the Building Control Regulations 2003 (G.N. No. S 666/2003);\n“Code of Practice” means the Code of Practice on Buildability issued by the Building and Construction Authority;\n“constructability implementation plan”, in relation to the building works of a building, means a document which describes and defines the type, extent of use and details of construction techniques and processes, plant, equipment and innovative methods and systems to be implemented for the building works of the building for the purpose of computing the constructability score with respect to the building works;\n[S 522/2013 wef 01/09/2013]\n“constructability score” means the score relating to the extent to which an adoption of construction techniques and processes affects the productivity level of any building works, computed in accordance with the Constructability Appraisal System as set out in the Code of Practice;\n“Construction Productivity Data” means data required for the purpose of assessing the productivity level of any building works, which includes the following:\n(a)manpower utilisation;\n(b)construction output; and\n(c)documentation relating to the construction of the building works;\n“Deemed Acceptable Proposal” means a proposal for the use of prefabrication technologies in any relevant building works that satisfies a deemed acceptable solution mentioned in paragraph (a) of the definition of “alternative solution”;\n[S 819/2019 wef 15/12/2019]\n“detailed structural plans” means the detailed structural plans referred to in regulation 4(1)(a)(ii) of the Building Control Regulations 2003;\n“Government Land Sales Programme” means a programme under which State land is sold by a statutory board referred to in the First Schedule or the Government and through a public selection process;\n[S 729/2014 wef 01/11/2014]\n[S 522/2013 wef 01/09/2013]\n“gross floor area” has the same meaning as “floor area” in rule 2 of the Planning (Development) Rules 2008 (G.N. No. S 113/2008);\n[S 579/2022 wef 01/08/2022]\n“immaterial changes” has the same meaning as in regulation 2 of the Building Control Regulations 2003 (G.N. No. S 666/2003);\n[S 522/2013 wef 01/09/2013]\n“industrial building” means any building that is constructed or used, or is to be constructed or used, primarily for —\n(a)the manufacturing, altering, repairing, ornamenting, finishing, cleaning, washing, packing, canning, adapting, breaking up or demolishing of any article or part of an article;\n(b)the getting, processing or treatment of any minerals;\n(c)the manufacturing, preparation, brewing, packing or storage of any foodstuff or beverage;\n(d)the storage of any goods; or\n(e)the carrying out of any printing works;\n[S 729/2014 wef 01/11/2014]\n“integrated digital delivery”, in relation to any building works, means the use of digital technology by any of the following persons to enable the digital integration of work processes in respect of the building works:\n(a)the developer of the building works;\n(b)a builder appointed under section 8(1)(c) of the Act in respect of the building works;\n(c)a qualified person appointed under section 8(1)(a) or 11(1)(d)(i) of the Act in respect of the building works;\n[S 506/2022 wef 30/06/2022]\n“integrated digital delivery implementation plan” means a plan (of the building works of a building) that describes the types, extent of use and details of the integrated digital delivery essential use cases mentioned in regulation 3A(1) to be adopted in respect of the building works, for the purpose of enabling the digital integration of work processes;\n[S 506/2022 wef 30/06/2022]\n“office” has the same meaning as in rule 2 of the Planning (Use Classes) Rules (R 2);\n[S 70/2017 wef 28/02/2017]\n[S 579/2022 wef 31/12/2021]\n“office building” means any building that is constructed for use solely or partly as an office;\n[S 70/2017 wef 28/02/2017]\n“prefabricated architectural system” means a wall system or component (including finishes for walls) that is —\n(a)manufactured or constructed outside the premises of the building works; and\n(b)then installed in a building under building works;\n[S 506/2022 wef 30/06/2022]\n“prefabricated bathroom unit” means a bathroom unit (complete with finishes for walls and floors) which is —\n(a)constructed and assembled; or\n(b)manufactured and assembled,\nin an accredited fabrication facility, in accordance with any accredited fabrication method, and then installed in a building under building works;\n[S 729/2015 wef 01/12/2015]\n“prefabricated mechanical, electrical or plumbing system” means a mechanical, electrical or plumbing component or equipment that is —\n(a)manufactured or assembled in an accredited fabrication facility in accordance with an accredited fabrication method; and\n(b)then installed in a building under building works;\n[S 506/2022 wef 30/06/2022]\n“prefabricated prefinished volumetric construction” means a construction method whereby freestanding volumetric modules (complete with finishes for walls, floors and ceilings) are —\n(a)constructed and assembled; or\n(b)manufactured and assembled,\nin an accredited fabrication facility, in accordance with any accredited fabrication method, and then installed in a building under building works;\n[S 729/2015 wef 01/12/2015]\n“prefabricated structural system” means a structural system or component that —\n(a)comprises any combination of beams, columns and slabs;\n(b)is manufactured or constructed outside the premises of the building works; and\n(c)is then installed in a building under building works;\n[S 506/2022 wef 30/06/2022]\n“prefabricated systems” means building systems or components that are manufactured or constructed outside the premises of the building works and assembled at those premises for the purposes of those building works;\n[S 729/2014 wef 01/11/2014]\n“productivity concept implementation plan” means a plan (of the building works of a building) which describes and demonstrates the types, extent of use and details of the construction methods, construction systems, construction processes, construction management, buildable features and innovative features to be implemented for the building works, for the purpose of achieving site productivity improvement;\n[S 689/2017 wef 15/12/2017]\n“Project Productivity Improvement Plan” means a plan for the use of innovative designs and construction techniques in any relevant building works that satisfies an open solution mentioned in paragraph (b) of the definition of “alternative solution”;\n[S 819/2019 wef 15/12/2019]\n“relevant building works” means the building works referred to in regulation 3(1), (2), (3), (4) or (4A), as the case may be;\n[S 522/2013 wef 01/09/2013]\n[S 729/2014 wef 01/11/2014]\n“residential (non‑landed) building” means any non‑landed building that is constructed for use solely or partly as a residence or private dwelling;\n[S 729/2014 wef 01/11/2014]\n“specified person”, in relation to any building works, means —\n(a)a qualified person appointed under section 8(1)(a) or 11(1)(d)(i) of the Act in respect of the building works; and\n(b)for building works in respect of which planning permission is submitted on or after 30 April 2022, unless the qualified person mentioned in paragraph (a) has the applicable qualification mentioned in sub-paragraph (i), (ii) or (iii), in addition the following person or persons:\n(i)if the building works involve any mechanical or plumbing component or equipment but no electrical component or equipment — a registered professional engineer qualified to practise in the branch of mechanical engineering under the Professional Engineers Act 1991;\n(ii)if the building works involve any electrical component or equipment but no mechanical or plumbing component or equipment — a registered professional engineer qualified to practise in the branch of electrical engineering under the Professional Engineers Act 1991;\n(iii)if the building works involve both any mechanical or plumbing component or equipment and any electrical component or equipment — both a registered professional engineer qualified to practise in the branch of mechanical engineering and a registered professional engineer qualified to practise in the branch of electrical engineering, under the Professional Engineers Act 1991;\n[S 335/2022 wef 30/04/2022]\n“specified prefabricated structural system” means any or any combination of the following:\n(a)a prefabricated structural system known as advanced precast concrete system where concrete components (comprising at least 2 precast concrete elements that are integrated together) are —\n(i)constructed or manufactured outside the premises of the building works; and\n(ii)then installed in a building under building works by being affixed with mechanical connections to other concrete components;\n(b)a prefabricated structural system using a product known as mass engineered timber that is —\n(i)made of wood engineered to improve its structural integrity over its natural form;\n(ii)constructed or manufactured outside the premises of the building works; and\n(iii)then installed in a building under building works;\n(c)prefabricated prefinished volumetric construction;\n(d)structural steel construction;\n(e)any other prefabricated structural system that the Commissioner of Building Control may approve;\n[S 506/2022 wef 30/06/2022]\n“State land” has the same meaning as in section 2 of the Singapore Land Authority Act 2001;\n[S 522/2013 wef 01/09/2013]\n[S 579/2022 wef 31/12/2021]\n“structural steel construction” means a construction method whereby a building or a part of the building is constructed using composite steel and concrete deck floors that are —\n(a)connected to steel beams or steel trusses; and\n(b)supported by steel columns, composite steel columns or precast concrete columns;\n[S 70/2017 wef 28/02/2017]\n[Deleted by S 729/2014 wef 01/11/2014]\n“submission requirements” means the requirements specified in the Requirements on Submission of Construction Productivity Data issued by the Building and Construction Authority;\n“super-structural works” means structural works carried out in respect of the ground floor and all floors above the ground floor;\n[S 506/2022 wef 30/06/2022]\n“system formwork” means any framing, mould, support or surface that is —\n(a)prefabricated and modularised outside the premises of the building works; and\n(b)then assembled at those premises for the purpose of defining the shape of concrete until the concrete is self-supporting;\n[S 506/2022 wef 30/06/2022]\n“total super‑structural floor area” means the total constructed floor area of the building consisting of the ground floor and all floors above the ground floor, but excluding any floor area constructed for use as a roof or car park.\n[S 729/2014 wef 01/11/2014]"
+   }
+  },
+  {
+   "id": "SG-H355-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "3.—(1) Subject to paragraphs (2) and (5) —\n(a)regulations 4, 6, 7, 11 and 13 (except insofar as they relate to an alternative solution) apply to any building works in respect of which an application for planning permission is submitted to the competent authority under the Planning Act 1998 on or after 15 July 2011 but before 15 December 2019 and which involve a gross floor area of 2,000 square metres or more; and\n[S 579/2022 wef 31/12/2021]\n(b)regulations 4, 6, 7, 11 and 13 apply to any building works in respect of which an application for planning permission is submitted to the competent authority under the Planning Act 1998 on or after 15 December 2019 and which involve a gross floor area of 5,000 square metres or more.\n[S 819/2019 wef 15/12/2019]\n[S 579/2022 wef 31/12/2021]\n(1A) Regulation 4, except for regulation 4(3)(b), shall not apply to building works consisting of repairs, alterations or additions to an existing building.\n[S 522/2013 wef 01/09/2013]\n(2) Regulations 4(3)(b), 6, 7, 11 and 13 do not apply to building works consisting of repairs, alterations or additions to an existing building (whether carried out within or outside the existing building) unless —\n(a)the gross floor area of the existing floor to be reconstructed;\n(b)the increase in the gross floor area of the existing building that will result from the building works; or\n(c)the sum of the gross floor areas mentioned in sub‑paragraphs (a) and (b),\nis —\n(d)2,000 square metres or more for building works in respect of which an application for planning permission is submitted on or after 15 July 2011 but before 15 December 2019; or\n(e)5,000 square metres or more for building works in respect of which an application for planning permission is submitted on or after 15 December 2019.\n[S 819/2019 wef 15/12/2019]\n(3) Subject to paragraphs (4), (5) and (6), regulations 5, 8, 9, 10, 12 and 14 shall apply to any building works in respect of which an application for planning permission is submitted on or after 15th July 2011 and which involve a gross floor area of 5,000 square metres or more.\n[S 819/2019 wef 15/12/2019]\n(4) Regulations 5, 8, 9, 10, 12 and 14 shall not apply to building works consisting of repairs, alterations or additions to an existing building (whether carried out within or outside the existing building) in respect of which an application for planning permission is submitted on or after 15th July 2011 unless —\n(a)the gross floor area of the existing floor to be reconstructed;\n(b)the increase in the gross floor area of the existing building that will result from the building works; or\n(c)the sum of sub-paragraphs (a) and (b),\nis 5,000 square metres or more.\n(4A) Subject to paragraphs (5) and (6), regulations 4A and 4B shall apply to any building works (other than repairs, alterations or additions to an existing building) in respect of which an application for planning permission is submitted on or after 1 November 2014.\n[S 729/2014 wef 01/11/2014]\n[S 819/2019 wef 15/12/2019]\n(5) These Regulations shall also not apply to any building works relating to —\n(a)any culvert, bridge, underpass, tunnel, earth retaining or stabilising structure, slipway, dock, wharf or jetty;\n(b)any theme park;\n(c)any place of worship;\n(d)any power station; or\n(e)any waste processing or treatment plant.\n(6) Regulations 4A, 5, 5A, 7, 8, 12 and 14 do not apply where the plans of the relevant building works contain any alternative solution.\n[S 819/2019 wef 15/12/2019]"
+   }
+  },
+  {
+   "id": "SG-H355-A3.001",
+   "no": 3.001,
+   "noLabel": {
+    "en": "3A."
+   },
+   "heading": {
+    "en": "Integrated digital delivery essential use cases"
+   },
+   "text": {
+    "en": "3A.—(1) The integrated digital delivery essential use cases mentioned in regulations 2 (definition of “integrated digital delivery implementation plan”) and 4B(8), to be adopted in relation to building works of a building, are the following:\n(a)to use digital technology to request information or facilitate communication, in relation to any issue arising from the building works;\n(b)to conduct an integrated concurrent engineering meeting in relation to the building works using digital technology and BIM;\n(c)to utilise a BIM model, a digital 3 dimensional model or an immersive technology to visualise, seek feedback about and validate the design of the building;\n(d)to use digital technology to submit and obtain approval relating to the design of the building or any component involved in the building works;\n(e)to prepare documents relating to the building works based on information primarily generated from a BIM model;\n(f)to estimate costs at various stages of the building works based on information generated from a BIM model;\n(g)to use digital technology to plan the prefabrication production schedule of the building works, and digitally track and monitor the production, delivery and installation of prefabricated components;\n(h)to use digital scheduling to plan and monitor the construction activities of the building works;\n(i)to use digital solutions or digital scanning to track and monitor the progress of the building works;\n(j)to use digital solutions to record the observations from site inspections of the building works and track the necessary follow-up actions taken;\n(k)to use digital checklists or digital dashboards to manage and track the defects of the building works and the rectification of those defects;\n(l)to use digital technology to generate and digitally hand over —\n(i)a digital model of a physical asset that is built as part of the building works; and\n(ii)any other documents relating to the physical asset, including but not limited to the following:\n(A)the as-built records;\n(B)the manufacturer’s specifications and warranties;\n(C)the operation and maintenance manuals;\n(m)to set up a digital platform to integrate other technologies to perform the operations or maintenance of a physical asset that is built as part of the building works;\n(n)to set up a digital platform to monitor the real-time performance and track the key operating parameters of a physical asset that is built as part of the building works.\n(2) In this regulation, “building information modelling” or “BIM”, in relation to a building, means a digital representation of the physical or functional characteristics of the building.\n[S 506/2022 wef 30/06/2022]"
+   }
+  },
+  {
+   "id": "SG-H355-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Minimum buildable design score or alternative solution"
+   },
+   "text": {
+    "en": "4.—(1) Every qualified person appointed under section 8(1)(a) or 11(1)(d)(i) of the Act and every developer, in respect of any relevant building works, must ensure that the building works are designed and carried out such that —\n(a)where the plans of the relevant building works do not contain any alternative solution — the buildable design score of the building works is not less than the minimum buildable design score referred to in paragraph (2) or (3), as the case may be; or\n(b)where the plans of the relevant building works contain any alternative solution — either the requirements of the deemed acceptable solution or the requirements of the open solution are met.\n[S 819/2019 wef 15/12/2019]\n(2) The minimum buildable design score for any relevant building works which relate to any building to be built on any State land which is sold under the Government Land Sales Programme on or after 15 October 2013 but before 1 November 2014 shall be —\n(a)in the case where the building works relate to any building to be built for one category of building use, the minimum buildable design score for that category of building use specified for any building on such State land as set out according to the category of building use in the Code of Practice; or\n(b)in the case where the building works relate to any building to be built for mixed categories of building use, the sum of the minimum buildable design scores for each of the categories of building use specified for any building on such State land as set out according to the category of building use in the Code of Practice pro-rated in proportion to the percentage of gross floor area of the building works relating to the building to be built for building use for that category.\n[S 729/2014 wef 01/11/2014]\n(3) The minimum buildable design score for any relevant building works which relate to any building on any land, other than State land sold under the Government Land Sales Programme on or after 15 October 2013 but before 1 November 2014, shall be —\n(a)in the case where the building works relate to any building to be built —\n(i)where the building is to be built for one category of building use, the minimum buildable design score for that category of building use specified for any building on such land as set out according to the category of building use in the Code of Practice; or\n(ii)where the building is to be built for mixed categories of building use, the sum of the minimum buildable design scores for each of the categories of building use specified for any building on such land as set out according to the category of building use in the Code of Practice pro-rated in proportion to the percentage of gross floor area of the building works relating to the building to be built for building use for that category; or\n(b)in the case where the building works consists of repairs, alterations or additions to an existing building —\n(i)where the repairs, alterations or additions involve one type of building works and are implemented for one category of building use, the minimum buildable design score for that type of building works corresponding to that category of building use specified for any building on such land as set out according to the type of building works against the category of building use in the Code of Practice; or\n(ii)where the repairs, alterations or additions involve mixed types of building works and are implemented for mixed categories of building use, the sum of the minimum buildable design scores for each of the types of building works which is implemented for the corresponding category of building use specified for any building on such land as set out according to the type of building works against the category of building use in the Code of Practice pro-rated in proportion to the percentage of gross floor area of the building works relating to the building which consist of repairs, alterations or additions involving that type of building works.\n[S 729/2014 wef 01/11/2014]\n[S 522/2013 wef 01/09/2013]\n[S 819/2019 wef 15/12/2019]"
+   }
+  },
+  {
+   "id": "SG-H355-A4.001",
+   "no": 4.001,
+   "noLabel": {
+    "en": "4A."
+   },
+   "heading": {
+    "en": "Mandatory buildable systems and standard components"
+   },
+   "text": {
+    "en": "4A. Every qualified person appointed under section 8(1)(a) or 11(1)(d)(i) of the Act and every developer, in respect of any relevant building works, shall ensure that the building works are designed and carried out such that the building implements or incorporates the building systems and standard components applicable to the category of building use specified in the Second Schedule which applies to that building.\n[S 729/2014 wef 01/11/2014]"
+   }
+  },
+  {
+   "id": "SG-H355-A4.002",
+   "no": 4.002,
+   "noLabel": {
+    "en": "4B."
+   },
+   "heading": {
+    "en": "Minimum productivity requirements"
+   },
+   "text": {
+    "en": "4B.—(1) Every qualified person appointed under section 8(1)(a) or 11(1)(d)(i) of the Act and every developer, in respect of any relevant building works referred to in paragraph (2), (3), (3A), (3B), (4), (4A), (4B), (4C), (5), (6), (7), (7A) or (8), shall ensure that the building works are designed and carried out such that the building works satisfy the requirements referred to in paragraph (2), (3), (3A), (3B), (4), (4A), (4B), (4C), (5), (6), (7), (7A) or (8), as the case may be.\n[S 125/2017 wef 01/04/2017]\n[S 689/2017 wef 15/12/2017]\n[S 583/2018 wef 25/09/2018]\n[S 506/2022 wef 30/06/2022]\n[S 990/2022 wef 22/12/2022]\n(2) Where the relevant building works relate to any building to be built for use as a residential (non‑landed) building on any State land which is sold under the Government Land Sales Programme on or after 1 November 2014 —\n(a)the building or the component of the building that is a residential (non‑landed) building, as the case may be, must incorporate the minimum number of prefabricated bathroom units specified in the Third Schedule; and\n(b)each of the prefabricated bathroom units must conform to the requirements set out in the Code of Practice in relation to prefabricated bathroom units.\n(3) Where the relevant building works relate to any building to be built for use as an industrial building on any State land which is sold under the Government Land Sales Programme on or after 1 November 2014 and before 1 May 2017, the building must incorporate the minimum level of use of prefabricated systems specified in Part 1 of the Fourth Schedule.\n[S 125/2017 wef 01/04/2017]\n(3A) Where the relevant building works relate to any building to be built for use as an industrial building on any State land which is sold under the Government Land Sales Programme on or after 1 May 2017 but before 30 June 2022, the building must incorporate the minimum level of use of prefabricated systems specified in Part 2 of the Fourth Schedule.\n[S 125/2017 wef 01/04/2017]\n[S 506/2022 wef 30/06/2022]\n(3B) Where the relevant building works relate to any building to be built for use as an industrial building on any State land that is sold under the Government Land Sales Programme on or after 30 June 2022, the building must incorporate the minimum level of use of —\n(a)prefabricated architectural systems;\n(b)prefabricated mechanical, electrical or plumbing systems;\n(c)prefabricated structural systems; and\n(d)system formwork,\nspecified in Part 3 of the Fourth Schedule.\n[S 506/2022 wef 30/06/2022]\n(4) Where the relevant building works relate to any building to be built for use as a residential (non‑landed) building on any State land which is sold under the Government Land Sales Programme on or after 1 November 2014 but before 30 June 2022, and that land is situated wholly or partly within the area described in the Fifth Schedule —\n(a)the building or the component of the building that is a residential (non‑landed) building, as the case may be, must incorporate the minimum level of use of prefabricated prefinished volumetric construction specified in the Sixth Schedule; and\n(b)the prefabricated prefinished volumetric construction which is used must conform to the requirements set out in the Code of Practice in relation to prefabricated prefinished volumetric construction.\n[S 729/2014 wef 01/11/2014]\n[S 506/2022 wef 30/06/2022]\n(4A) Where the relevant building works relate to any building to be built for use as a hotel building on any State land which is sold under the Government Land Sales Programme on or after 1 September 2018 but before 30 June 2022, and that land is situated wholly or partly within the area described in the Tenth Schedule —\n(a)the building, or the aggregate of the component of the building that is a hotel building and the component of the building that is a residential (non‑landed) building, as the case may be, must incorporate the minimum level of use of prefabricated prefinished volumetric construction specified in the Sixth Schedule; and\n(b)the prefabricated prefinished volumetric construction which is used must conform to the requirements set out in the Code of Practice in relation to prefabricated prefinished volumetric construction.\n[S 583/2018 wef 25/09/2018]\n[S 506/2022 wef 30/06/2022]\n(4B) Where the relevant building works relate to any building to be built for use as a residential (non-landed) building on any State land that is sold under the Government Land Sales Programme on or after 30 June 2022, and that land is situated wholly or partly within the area described in the Eleventh Schedule —\n(a)the building or the component of the building that is a residential (non-landed) building (as the case may be) must incorporate the minimum level of use of —\n(i)prefabricated mechanical, electrical or plumbing systems;\n(ii)prefabricated prefinished volumetric construction; and\n(iii)system formwork,\nspecified in the Twelfth Schedule;\n(b)the prefabricated mechanical, electrical or plumbing systems that are used must conform to the requirements set out in the Code of Practice in relation to prefabricated mechanical, electrical or plumbing systems; and\n(c)the prefabricated prefinished volumetric construction that is used must conform to the requirements set out in the Code of Practice in relation to prefabricated prefinished volumetric construction.\n[S 506/2022 wef 30/06/2022]\n(4C) Where the relevant building works relate to any building to be built for use as a hotel building on any State land that is sold under the Government Land Sales Programme on or after 30 June 2022, and that land is situated wholly or partly within the area described in the Thirteenth Schedule —\n(a)the building, or the aggregate of the component of the building that is a hotel building and the component of the building that is a residential (non-landed) building (as the case may be) must incorporate the minimum level of use of —\n(i)prefabricated mechanical, electrical or plumbing systems;\n(ii)prefabricated prefinished volumetric construction; and\n(iii)system formwork,\nspecified in the Twelfth Schedule;\n(b)the prefabricated mechanical, electrical or plumbing systems that are used must conform to the requirements set out in the Code of Practice in relation to prefabricated mechanical, electrical or plumbing systems; and\n(c)the prefabricated prefinished volumetric construction that is used must conform to the requirements set out in the Code of Practice in relation to prefabricated prefinished volumetric construction.\n[S 506/2022 wef 30/06/2022]\n(5) Where the relevant building works relate to any building to be built for use as an office building on any State land which is sold under the Government Land Sales Programme on or after 28 February 2017, and that land is situated wholly or partly within the area described in the Seventh Schedule, the building or the office component of the building, as the case may be, must incorporate the minimum level of use of structural steel construction specified in the Eighth Schedule.\n[S 70/2017 wef 28/02/2017]\n(6) Where the relevant building works relate to any building to be built on any State land which is sold under the Government Land Sales Programme on or after 15 December 2017 but before 30 June 2022, and that land is situated wholly or partly within the area described in the Ninth Schedule, the building works must be carried out in accordance with the approved productivity concept implementation plan for those building works.\n[S 689/2017 wef 15/12/2017]\n[S 506/2022 wef 30/06/2022]\n(7) Where the relevant building works relate to any building to be built on any State land that is sold under the Government Land Sales Programme on or after 30 June 2022, and that land is situated wholly or partly within the area described in the Fourteenth Schedule —\n(a)the building works must be carried out in accordance with the approved productivity concept implementation plan for those building works;\n(b)the building works must incorporate the minimum level of use of —\n(i)prefabricated architectural systems;\n(ii)prefabricated mechanical, electrical or plumbing systems;\n(iii)specified prefabricated structural systems;\n(iv)system formwork;\nspecified in the Fifteenth Schedule; and\n(c)the prefabricated mechanical, electrical or plumbing systems that are used must conform to the requirements set out in the Code of Practice in relation to prefabricated mechanical, electrical or plumbing systems.\n[S 506/2022 wef 30/06/2022]\n(7A) Where the relevant building works relate to any building to be built for use as a hotel building or a residential (non-landed) building on any State land that is sold under the Government Land Sales Programme on or after 22 December 2022, and that land is situated wholly or partly within the area described in the Sixteenth Schedule —\n(a)all of the following requirements must be satisfied:\n(i)the building, or the aggregate of the component of the building that is a hotel building and the component of the building that is a residential (non-landed) building (as the case may be) incorporates the minimum level of use of —\n(A)prefabricated mechanical, electrical or plumbing systems;\n(B)prefabricated prefinished volumetric construction; and\n(C)system formwork,\nspecified in the Twelfth Schedule;\n(ii)the prefabricated mechanical, electrical or plumbing systems that are used conform to the requirements set out in the Code of Practice in relation to prefabricated mechanical, electrical or plumbing systems;\n(iii)the prefabricated prefinished volumetric construction that is used conforms to the requirements set out in the Code of Practice in relation to prefabricated prefinished volumetric construction; or\n(b)the building works must be carried out in accordance with the approved productivity concept implementation plan for those building works.\n[S 990/2022 wef 22/12/2022]\n(8) Where the relevant building works relate to any building to be built on any State land that is sold under the Government Land Sales Programme on or after 30 June 2022 —\n(a)the building works must adopt any 5 of the integrated digital delivery essential use cases mentioned in regulation 3A(1); and\n(b)the adoption of the integrated digital delivery essential use cases must be in accordance with the requirements set out in the Code of Practice in relation to integrated digital delivery.\n[S 506/2022 wef 30/06/2022]"
+   }
+  },
+  {
+   "id": "SG-H355-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Minimum constructability score"
+   },
+   "text": {
+    "en": "5. Every builder appointed under section 8(1)(c) of the Act, in respect of any relevant building works, shall ensure that construction of the building works, including those carried out on any land which is sold on or after 15 October 2013 but before 1 November 2014 under the Government Land Sales Programme, is not less than the applicable minimum constructability score for the relevant gross floor area of the building works relating to any building as set out in the Code of Practice.\n[S 522/2013 wef 01/09/2013]\n[S 729/2014 wef 01/11/2014]"
+   }
+  },
+  {
+   "id": "SG-H355-A5.001",
+   "no": 5.001,
+   "noLabel": {
+    "en": "5A."
+   },
+   "heading": {
+    "en": "Submission of buildability detailed design and implementation plan for approval"
+   },
+   "text": {
+    "en": "5A.—(1) For the purposes of section 5(1) of the Act, the plans of building works for which an application for approval is to be made to the Commissioner of Building Control shall include the buildability detailed design and implementation plan.\n(2) The buildability detailed design and implementation plan shall include the following:\n(a)the floor plan of each storey of the building (including any basement storey) that clearly marks out —\n(i)the structural floor area and wall length for every structural system and wall system of that storey;\n(ii)the area of any finishes for walls, floors and ceilings of that storey, indicating —\n(A)the types of finishes; and\n(B)the offsite finishes; and\n(iii)any buildable feature, including the area of every mechanical, electrical or plumbing system;\n[S 335/2022 wef 30/04/2022]\n(b)the roof plan of the building that clearly marks out —\n(i)the structural floor area and wall length for every structural system and wall system of the roof;\n(ii)the area of any finishes for walls, floors and ceilings of the roof, indicating —\n(A)the types of finishes; and\n(B)the offsite finishes; and\n(iii)any buildable feature, including the area of every mechanical, electrical or plumbing system;\n[S 335/2022 wef 30/04/2022]\n(c)the elevation plans and sectional plans of the building that clearly mark out —\n(i)the types of structural systems, wall system and buildable features, including the area of every mechanical, electrical or plumbing system; and\n(ii)the area of any finishes for walls, floors and ceilings of the building, indicating —\n(A)the types of finishes; and\n(B)the offsite finishes;\n[S 335/2022 wef 30/04/2022]\n(d)where applicable, the dimensions of the building components, the type and extent of repetition of prefabricated components, the connection and details of prefabricated components, details on the prefabricated reinforcement and the locations of all buildable features to be constructed for the building works;\n[S 335/2022 wef 30/04/2022]\n(e)such other details as may be required by the Commissioner of Building Control.\n[S 729/2014 wef 01/11/2014]"
+   }
+  },
+  {
+   "id": "SG-H355-A5.002",
+   "no": 5.002,
+   "noLabel": {
+    "en": "5B."
+   },
+   "heading": {
+    "en": "Submission of productivity concept implementation plan for approval"
+   },
+   "text": {
+    "en": "5B.—(1) For the purposes of section 5(1) of the Act —\n(a)the plans of building works mentioned in regulation 4B(6) or (7) for which an application for approval is to be made to the Commissioner of Building Control must include the productivity concept implementation plan; and\n(b)the plans of building works mentioned in regulation 4B(7A) for which an application for approval is to be made to the Commissioner of Building Control may include the productivity concept implementation plan.\n[S 990/2022 wef 22/12/2022]\n(2) The productivity concept implementation plan must include the following:\n(a)the details of the proposed construction methods and construction systems to be implemented for the building works;\n(b)the level of use of —\n(i)buildable features;\n(ii)offsite finishes;\n(iii)prefabricated architectural systems;\n(iv)prefabricated mechanical, electrical or plumbing systems; and\n(v)specified prefabricated structural systems,\nfor the proposed construction system;\n[S 506/2022 wef 30/06/2022]\n(c)the details of the proposed construction process and construction management to be implemented for the building works;\n(d)the details of any innovative features to be implemented for the building works;\n(e)the details of how productivity improvement can be achieved from implementing the productivity concept implementation plan;\n(f)such other documents or information as may be required by the Commissioner of Building Control.\n[S 689/2017 wef 15/12/2017]"
+   }
+  },
+  {
+   "id": "SG-H355-A5.003",
+   "no": 5.003,
+   "noLabel": {
+    "en": "5C."
+   },
+   "heading": {
+    "en": "Submission of integrated digital delivery implementation plan for approval"
+   },
+   "text": {
+    "en": "5C.—(1) For the purposes of section 5(1) of the Act, the plans of building works mentioned in regulation 4B(8) for which an application for approval is to be made to the Commissioner of Building Control must include the integrated digital delivery implementation plan.\n(2) The integrated digital delivery implementation plan must include the following:\n(a)the details of the 5 integrated digital delivery essential use cases mentioned in regulation 3A(1) that are to be adopted in respect of the building works;\n(b)such other documents or information as may be required by the Commissioner of Building Control.\n[S 506/2022 wef 30/06/2022]"
+   }
+  },
+  {
+   "id": "SG-H355-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Submission of buildable design score or alternative solution"
+   },
+   "text": {
+    "en": "6. Every developer shall, at the time of application for approval of building plans under section 5(1) of the Act, submit the following documents to the Commissioner of Building Control:\n(a) where the plans of the building works do not contain any alternative solution — a document (in such form as may be required by the Commissioner of Building Control) as to the buildable design score of the building works which bears an endorsement, by every specified person in respect of the building works, that the buildable design score of the building works is not less than the minimum buildable design score referred to in regulation 4(2) or (3), as the case may be;\n[S 819/2019 wef 15/12/2019]\n[S 335/2022 wef 30/04/2022]\n(aa)where the plans of the building works contain any alternative solution — a Deemed Acceptable Proposal or Project Productivity Improvement Plan that —\n(i)complies with the requirements specified in the Code of Practice; and\n(ii)bears an endorsement, by every specified person in respect of the building works, that the building works meet either the requirements of the deemed acceptable solution or the requirements of the open solution, as the case may be;\n[S 819/2019 wef 15/12/2019]\n[S 335/2022 wef 30/04/2022]\n(b)where regulation 4A applies, a document (in such form as may be required by the Commissioner of Building Control) which bears an endorsement, by every specified person in respect of the building works, that the building works satisfy the requirement under that regulation;\n[S 335/2022 wef 30/04/2022]\n(c)where regulation 4B applies, a document (in such form as may be required by the Commissioner of Building Control) which bears an endorsement, by every specified person in respect of the building works, that the building works satisfy the applicable requirements under that regulation.\n[S 729/2014 wef 01/11/2014]\n[S 522/2013 wef 01/09/2013]\n[S 819/2019 wef 15/12/2019]\n[S 335/2022 wef 30/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H355-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Submission of structural buildable design score"
+   },
+   "text": {
+    "en": "7. In addition to the requirements under regulation 6, if an application for approval of the detailed structural plans of any proposed building works under section 5(1) of the Act is made before an application for approval of the building plans, then the person making the application shall, at the time the application for approval of the detailed structural plans of the building works is made, submit the following documents to the Commissioner of Building Control:\n(a)a document (in such form as may be required by the Commissioner of Building Control) which bears an endorsement, by every specified person in respect of the building works, as to the buildable design score of the building works relating to the structural elements of the building works;\n[S 335/2022 wef 30/04/2022]\n(b)where regulation 4A applies, a document (in such form as may be required by the Commissioner of Building Control) which bears an endorsement, by every specified person in respect of the building works, that the building works satisfy the requirement under that regulation;\n[S 335/2022 wef 30/04/2022]\n(c)where regulation 4B applies, a document (in such form as may be required by the Commissioner of Building Control) which bears an endorsement, by every specified person in respect of the building works, that the building works satisfy the applicable requirements under that regulation.\n[S 729/2014 wef 01/11/2014]\n[S 522/2013 wef 01/09/2013]\n[S 335/2022 wef 30/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H355-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Submission of constructability score"
+   },
+   "text": {
+    "en": "8.—(1) Every builder referred to in regulation 5 shall submit the constructability score to the Commissioner of Building Control at the time of application for permit to carry out structural works under section 6(1) of the Act or within such time after the grant of the permit as the Commissioner of Building Control may, in his discretion, allow.\n(2) The submission of the constructability score referred to in paragraph (1) shall be accompanied by —\n(a)a constructability implementation plan of the building works which shall include the floor plan of each storey of the building with respect to the building works, including the basement storeys, the roof plan of the building and the elevation plans and sectional plans of the building which clearly mark out —\n(i)the types of construction techniques and processes, plant, equipment, innovative methods and systems and materials which will be used for that storey, roof or building, as the case may be; and\n(ii)details on the extent of adoption of each construction technique and process, plant, equipment, innovative method and system or material; and\n(b)such document or information as the Commissioner of Building Control may determine.\n[S 522/2013 wef 01/09/2013]"
+   }
+  },
+  {
+   "id": "SG-H355-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Site records of construction techniques and processes"
+   },
+   "text": {
+    "en": "9.—(1) Every builder appointed under section 8(1)(c) of the Act, in respect of any relevant building works, shall keep and maintain the following at the premises on which the building works are carried out:\n(a)a progress report on the types of construction techniques and processes (including photographs evidencing the adoption of the construction techniques and process) adopted for the purpose of ensuring that the building works are constructed in accordance with —\n(i)where the plans of the building works do not contain any alternative solution — the minimum constructability score referred to in regulation 5; or\n(ii)where the plans of the building works contain any alternative solution — the Deemed Acceptable Proposal or Project Productivity Improvement Plan submitted under regulation 6(aa);\n[S 819/2019 wef 15/12/2019]\n(b)records of the construction processes put in place for the building works; and\n(c)such other document, report and record as the Commissioner of Building Control may determine.\n[S 819/2019 wef 15/12/2019]\n(2) The builder shall, at every 3-monthly interval after the date of the grant of the permit to carry out structural works under section 6(1) of the Act until completion of the building works, submit the following items to the Commissioner of Building Control:\n(a)the progress report referred to in paragraph (1)(a); and\n(b)records of the construction processes put in place for the building works, referred to in paragraph (1)(b).\n[S 522/2013 wef 01/09/2013]\n(3) The builder shall make available, at the request of the Commissioner of Building Control, any document, report or record referred to in paragraph (1) for his inspection.\n[S 522/2013 wef 01/09/2013]"
+   }
+  },
+  {
+   "id": "SG-H355-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Collection and submission of Construction Productivity Data"
+   },
+   "text": {
+    "en": "10. Every builder appointed under section 8(1)(c) of the Act, in respect of any relevant building works, shall —\n(a)install and operate a biometric authentication system at the premises on which the building works are carried out for the purposes of collecting the Construction Productivity Data; and\n(b)submit the Construction Productivity Data of the building works to the Commissioner of Building Control in accordance with the submission requirements on a monthly basis and at such times as may be required by the Commissioner of Building Control.\n[S 729/2014 wef 01/11/2014]\n[S 522/2013 wef 01/09/2013]\n[S 819/2019 wef 15/12/2019]"
+   }
+  },
+  {
+   "id": "SG-H355-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Departure and deviation from approved plans"
+   },
+   "text": {
+    "en": "11.—(1) Despite regulation 18 of the Building Control Regulations 2003 (G.N. No. S 666/2003), a person who wishes to make any change to the following must apply to the Commissioner of Building Control for approval under section 5A(1) of the Act:\n(a)the approved buildability detailed design and implementation plan of any building works;\n(b)a Deemed Acceptable Proposal or Project Productivity Improvement Plan submitted to the Commissioner of Building Control;\n(c)the approved plan of the building works if the change affects —\n(i)the buildable design score; or\n(ii)if the plan contains an alternative solution, whether the requirements of the alternative solution will be met.\n(2) The application referred to in paragraph (1) must —\n(a)be accompanied by —\n(i)the amended buildability detailed design and implementation plan;\n(ii)the amended plan of the building works;\n(iii)the amended Deemed Acceptable Proposal; or\n(iv)the amended Project Productivity Improvement Plan,\nas the case may be, showing clearly the departures or deviations; and\n(b)bear an endorsement, by every specified person in respect of the building works, that —\n(i)where the plans of the building works do not contain any alternative solution — the building works are designed such that the buildable design score of the building works is not less than the minimum buildable design score; and\n(ii)where the plans of the building works contain any alternative solution — the building works are designed to meet either the requirements of the deemed acceptable solution or the requirements of the open solution.\n[S 819/2019 wef 15/12/2019]\n[S 335/2022 wef 30/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H355-A11.001",
+   "no": 11.001,
+   "noLabel": {
+    "en": "11A."
+   },
+   "heading": {
+    "en": "Departure and deviation from approved productivity concept implementation plans"
+   },
+   "text": {
+    "en": "11A.—(1) Despite regulation 18 of the Building Control Regulations 2003 (G.N. No. S 666/2003), any person who wishes to make any change to the approved productivity concept implementation plan of any building works mentioned in regulation 4B(6), (7) or (7A)(b) must apply to the Commissioner of Building Control under section 5A(1) of the Act.\n[S 506/2022 wef 30/06/2022]\n[S 990/2022 wef 22/12/2022]\n(2) The application mentioned in paragraph (1) must be accompanied by the amended productivity concept implementation plan showing clearly the departures or deviations.\n[S 689/2017 wef 15/12/2017]"
+   }
+  },
+  {
+   "id": "SG-H355-A11.002",
+   "no": 11.002,
+   "noLabel": {
+    "en": "11B."
+   },
+   "heading": {
+    "en": "Departure and deviation from approved integrated digital delivery implementation plans"
+   },
+   "text": {
+    "en": "11B.—(1) Despite regulation 18 of the Building Control Regulations 2003, any person who wishes to make any change to the integrated digital delivery implementation plan of any building works mentioned in regulation 4B(8) must apply to the Commissioner of Building Control under section 5A(1) of the Act.\n(2) The application mentioned in paragraph (1) must be accompanied by the amended integrated digital delivery implementation plan showing clearly the departures or deviations.\n[S 506/2022 wef 30/06/2022]"
+   }
+  },
+  {
+   "id": "SG-H355-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Departure and deviation from adopted construction techniques and processes"
+   },
+   "text": {
+    "en": "12. Every builder referred to in regulation 5 who wishes to depart or deviate from any construction technique or process adopted for the purpose of computing the constructability score referred to in regulation 8 shall —\n(a)at least 3 working days prior to carrying into effect such departure or deviation —\n(i)notify the Commissioner of Building Control of his intention and the departure or deviation; and\n(ii)submit the recomputed constructability score resulting from the departure or deviation and the constructability implementation plan in respect of the recomputed constructability score to the Commissioner of Building Control; and\n[S 522/2013 wef 01/09/2013]\n(b)ensure that, notwithstanding the departure or deviation, the construction of the building works is carried out such that the constructability score of the building works is not less than the minimum constructability score referred to in regulation 5."
+   }
+  },
+  {
+   "id": "SG-H355-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Submission of record plans"
+   },
+   "text": {
+    "en": "13.—(1) On completion of the building works, the developer must, at the time mentioned in paragraph (1A), submit the following to the Commissioner of Building Control:\n(a)where the plans of the building works do not contain any alternative solution — the buildable design score of the building works as completed (called in this regulation the record plans of buildable design score);\n(b)where the plans of the building works contain any alternative solution — the record plans of the Deemed Acceptable Proposal or Project Productivity Improvement Plan (as the case may be) for the building works as completed.\n[S 819/2019 wef 15/12/2019]\n(1A) The time for the submission of the documents mentioned in paragraph (1) is —\n(a)at the time of application for a temporary occupation permit in respect of the building works; or\n(b)in a case where no application is made for a temporary occupation permit, at the time of application for a certificate of statutory completion in respect of the building works.\n[S 819/2019 wef 15/12/2019]\n(2) The submission of the record plans of buildable design score referred to in paragraph (1)(a) shall —\n(a)bear an endorsement by every specified person in respect of the building works that the record plans of buildable design score of the building works is not less than the minimum buildable design score referred to in regulation 4(2) or (3), as the case may be;\n[S 729/2014 wef 01/11/2014]\n[S 335/2022 wef 30/04/2022]\n(aa)be accompanied by the buildability detailed design and implementation plan of the building works as completed;\n[S 522/2013 wef 01/09/2013]\n[S 729/2014 wef 01/11/2014]\n(ab)where regulation 4B(2) applies, be accompanied by a manufacturer’s manual —\n(i)which relates to the prefabricated bathroom units that are incorporated in the building, or the component of the building that is a residential (non‑landed) building; and\n(ii)which contains the information specified in the Code of Practice relating to prefabricated bathroom units; and\n[S 729/2014 wef 01/11/2014]\n(b)be accompanied by such documents as the Commissioner of Building Control may determine.\n[S 729/2014 wef 01/11/2014]\n[S 819/2019 wef 15/12/2019]\n(3) The submission of the record plans of the Deemed Acceptable Proposal or Project Productivity Improvement Plan referred to in paragraph (1)(b) must —\n(a)bear an endorsement by every specified person in respect of the building works that the record plans of the Deemed Acceptable Proposal or Project Productivity Improvement Plan meet the requirements of the deemed acceptable solution or the requirements of the open solution, as the case may be; and\n[S 335/2022 wef 30/04/2022]\n(b)be accompanied by such documents as the Commissioner of Building Control may determine.\n[S 819/2019 wef 15/12/2019]\n[S 819/2019 wef 15/12/2019]"
+   }
+  },
+  {
+   "id": "SG-H355-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Submission of certificate of compliance of constructability score"
+   },
+   "text": {
+    "en": "14.—(1) On completion of the building works, the developer shall submit a certificate in such form as may be required by the Commissioner of Building Control (referred to in this regulation as the certificate of compliance of constructability score) to the Commissioner of Building Control at the following time:\n(a)at the time of application for a temporary occupation permit in respect of the building works; or\n(b)in a case where no application is made for a temporary occupation permit, at the time of application for a certificate of statutory completion in respect of the building works.\n(2) The submission of the certificate of compliance of constructability score referred to in paragraph (1) shall bear an endorsement by the builder referred to in regulation 5 that the construction of the building works has been carried out such that the constructability score of the building works is not less than the minimum constructability score."
+   }
+  },
+  {
+   "id": "SG-H355-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Penalty"
+   },
+   "text": {
+    "en": "15. Any person who contravenes regulation 4, 4A, 4B, 5, 6, 8, 9, 10, 11, 12, 13 or 14 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.\n[S 729/2014 wef 01/11/2014]\n[S 819/2019 wef 15/12/2019]"
+   }
+  },
+  {
+   "id": "SG-H355-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Revocation"
+   },
+   "text": {
+    "en": "16. The Building Control (Buildable Design) Regulations (Cap. 29, Rg 8) are revoked."
+   }
+  },
+  {
+   "id": "SG-H355-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "heading": {
+    "en": "Savings and transitional provision"
+   },
+   "text": {
+    "en": "17. Notwithstanding regulation 16, the revoked Building Control (Buildable Design) Regulations in force immediately before 15th July 2011 shall continue to apply to building works, in respect of which an application for planning permission under the Planning Act (Cap. 232) has been submitted to the competent authority before 15th July 2011."
+   }
+  },
+  {
+   "id": "SG-H355-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 2\nList of statutory boards\n1. Housing and Development Board\n2. Jurong Town Corporation\n3. Land Transport Authority of Singapore\n4. Singapore Land Authority\n5. Urban Redevelopment Authority.\n[S 522/2013 wef 01/09/2013]\n[S 729/2014 wef 01/11/2014]"
+   }
+  },
+  {
+   "id": "SG-H355-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 4A\nMandatory building systems\nand standard components\nBuilding systems and standard components\nApplicable category of building use\n1.Drywall\nUse as a residential (non-landed) building\n2.Standard door size\nUse as a residential (non-landed) building\n3.Standard precast refuse chute\nUse as a residential (non-landed) building\n4.Standard floor height\nAll categories of building use\n5.Standard precast staircase\nAll categories of building use\n6.Standard precast household shelter\nUse as a residential (non-landed) building\n7.Welded mesh for cast-on-site concrete floor\nAll categories of building use\n8.Prefabricated and pre-insulated duct for air-conditioning system\nAll categories of building use\n9.Standard prefabricated bathroom unit\nUse as a residential (non-landed) building for which planning permission is submitted on or after 30 April 2022\n[S 335/2022 wef 30/04/2022]\n[S 729/2015 wef 01/12/2015]\n[S 729/2014 wef 01/11/2014]"
+   }
+  },
+  {
+   "id": "SG-H355-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulation 4B(2)\nMinimum number of prefabricated bathroom units\nin residential (non‑landed) building\n1. The minimum number of prefabricated bathroom units shall be 65% of the total number of bathroom units in the building or the residential (non‑landed) component of the building.\n[S 729/2014 wef 01/11/2014]"
+   }
+  },
+  {
+   "id": "SG-H355-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE\nRegulation 4B(3), (3A) and (3B)\nPart 1\nMINIMUM LEVEL OF USE OF PREFABRICATED SYSTEMS FOR\nBUILDINGS SOLD UNDER THE GOVERNMENT LAND SALES\nPROGRAMME ON OR AFTER 1 NOVEMBER 2014 AND BEFORE\n1 MAY 2017\n1. The minimum level of use of prefabricated systems is as follows:\nFor buildings with a gross floor area that is less than 5,000 square metres\nFor buildings with a gross floor area that is equal to or more than 5,000 square metres but less than 25,000 square metres\nFor buildings with a gross floor area that is equal to or more than 25,000 square metres\n(a)In respect of total structural floor area of the building works\n0%\n20%\n35%\n(b)In respect of total wall length of the building works\n0%\n35%\n50%\nPart 2\nMINIMUM LEVEL OF USE OF PREFABRICATED SYSTEMS FOR\nBUILDINGS SOLD UNDER THE GOVERNMENT LAND SALES\nPROGRAMME ON OR AFTER 1 MAY 2017 BUT BEFORE 30 JUNE 2022\n1. The minimum level of use of prefabricated systems is as follows:\nFor buildings with a gross floor area that is less than 5,000 square metres\nFor buildings with a gross floor area that is equal to or more than 5,000 square metres but less than 25,000 square metres\nFor buildings with a gross floor area that is equal to or more than 25,000 square metres\n(a)In respect of total structural floor area of the building works\n0%\n25%\n40%\n(b)In respect of total wall length of the building works\n0%\n45%\n60%\n[S 125/2017 wef 01/04/2017]\n[S 506/2022 wef 30/06/2022]\nPart 3\nMINIMUM LEVEL OF USE OF PREFABRICATED SYSTEMS FOR\nBUILDINGS SOLD UNDER THE GOVERNMENT LAND SALES\nPROGRAMME ON OR AFTER 30 JUNE 2022\n1. The minimum level of use for each of the prefabricated systems mentioned in the first column is set out in the second column:\nFirst column\nSecond column\nFor buildings with a gross floor area that is less than 5,000 square metres\nFor buildings with a gross floor area that is equal to or more than 5,000 square metres but less than 25,000 square metres\nFor buildings with a gross floor area that is equal to or more than 25,000 square metres\n(a)Prefabricated architectural systems in respect of the total wall length of the building works\n0%\n70%\n80%\n(b)Prefabricated mechanical, electrical or plumbing systems in respect of the total qualifying area in the development as specified in the Code of Practice\n0%\n40%\n50%\n(c)Prefabricated structural systems in respect of the total structural floor area of the building works\n0%\n30%\n60%\n(d)System formwork in respect of the total cast-in-place area of super-structural works\n0%\n70%\n70%\n[S 506/2022 wef 30/06/2022]"
+   }
+  },
+  {
+   "id": "SG-H355-A900004",
+   "no": 900004,
+   "noLabel": {
+    "en": "FIFTH SCHEDULE"
+   },
+   "text": {
+    "en": "FIFTH SCHEDULE\nRegulation 4B(4)\n1. Shaded area in Map 1 at Jurong West Street 41\nMAP 1\n2. Shaded area in Map 2 at Yishun Avenue 4/Yishun Ring Road\nMAP 2\n[S 729/2014 wef 01/11/2014]\n3. Shaded area in Map 3 at West Coast Vale\nMAP 3\n[S 252/2015 wef 01/05/2015]\n4. Shaded area in Map 4 at Clementi Avenue 1\nMAP 4\n[S 572/2015 wef 01/10/2015]\n5. Shaded area in Map 5 at Bukit Batok West Avenue 6\nMAP 5\n[S 56/2016 wef 01/03/2016]\n6. Shaded area in Map 6 at Fernvale Road\nMAP 6\n[S 395/2016 wef 16/08/2016]\n7. Shaded area in Map 7 at Perumal Road\nMAP 7\n[S 572/2016 wef 11/11/2016]\n8. Shaded area in Map 8 at West Coast Vale\nMAP 8\n[S 572/2016 wef 11/11/2016]\n9. Shaded area in Map 9 at Upper Serangoon Road\nMAP 9\n[S 572/2016 wef 11/11/2016]\n10. Shaded area in Map 10 at Stirling Road\nMAP 10\n[S 572/2016 wef 11/11/2016]\n11. Shaded area in Map 11 at Toh Tuck Road\nMAP 11\n[S 70/2017 wef 28/02/2017]\n12. Shaded area in Map 12 at Tampines Avenue 10\nMAP 12\n[S 70/2017 wef 28/02/2017]\n13. Shaded area in Map 13 at Serangoon North Avenue 1\nMAP 13\n[S 70/2017 wef 28/02/2017]\n14. Shaded area in Map 14 at Woodleigh Lane\nMAP 14\n[S 70/2017 wef 28/02/2017]\n15. Shaded area in Map 15 at Yishun Avenue 9\nMAP 15\n[S 70/2017 wef 28/02/2017]\n16. Shaded area in Map 16 at Sengkang Central\nMAP 16\n[S 431/2017 wef 01/08/2017]\n17. Shaded area in Map 17 at Jiak Kim Street\nMAP 17\n[S 431/2017 wef 01/08/2017]\n18. Shaded area in Map 18 at West Coast Vale\nMAP 18\n[S 431/2017 wef 01/08/2017]\n19. [Deleted by S 781/2019 wef 28/11/2019]\n20. Shaded area in Map 20 at Silat Avenue\nMAP 20\n[S 431/2017 wef 01/08/2017]\n21. Shaded area in Map 21 at Dairy Farm Road\nMAP 21\n[S 288/2018 wef 18/05/2018]\n22. Shaded area in Map 22 at Jalan Jurong Kechil\nMAP 22\n[S 288/2018 wef 18/05/2018]\n23. Shaded area in Map 23 at Sims Drive\nMAP 23\n[S 288/2018 wef 18/05/2018]\n24. Shaded area in Map 24 at Clementi Avenue 1\nMAP 24\n[S 288/2018 wef 18/05/2018]\n25. Shaded area in Map 25 at Kampong Java Road\nMAP 25\n[S 583/2018 wef 25/09/2018]\n26. Shaded area in Map 26 at Middle Road\nMAP 26\n[S 583/2018 wef 25/09/2018]\n27. Shaded area in Map 27 at Dairy Farm Walk\nMAP 27\n[S 583/2018 wef 25/09/2018]\n28. Shaded area in Map 28 at Tan Quee Lan Street\nMAP 28\n[S 583/2018 wef 25/09/2018]\n29. Shaded area in Map 29 at Bernam Street\nMAP 29\n[S 392/2019 wef 27/05/2019]\n30. Shaded area in Map 30 at Dunman Road\nMAP 30\n[S 392/2019 wef 27/05/2019]\n31. [Deleted by S 506/2022 wef 30/06/2022]\n32. Shaded area in Map 32 at Irwell Bank Road\nMAP 32\n[S 721/2019 wef 30/10/2019]\n33. Shaded area in Map 33 at Fernvale Lane\nMAP 33\n[S 721/2019 wef 30/10/2019]\n34. Shaded area in Map 34 at Tanah Merah Kechil Link\nMAP 34\n[S 335/2020 wef 30/04/2020]\n35. Shaded area in Map 35 at Northumberland Road\nMAP 35\n[S 863/2020 wef 09/10/2020]\n36. Shaded area in Map 36 at Ang Mo Kio Avenue 1\nMAP 36\n[S 863/2020 wef 09/10/2020]\n37. Shaded area in Map 37 at Tengah Garden Walk\nMAP 37\n[S 863/2020 wef 09/10/2020]\n38. Shaded area in Map 38 at Lentor Central\nMAP 38\n[S 863/2020 wef 09/10/2020]\n39. Shaded area in Map 39 at Slim Barracks Rise (Parcel A)\nMAP 39\n[S 257/2021 wef 08/04/2021]\n40. Shaded area in Map 40 at Slim Barracks Rise (Parcel B)\nMAP 40\n[S 257/2021 wef 08/04/2021]\n41. Shaded area in Map 41 at Jalan Tembusu\nMAP 41\n[S 257/2021 wef 08/04/2021]\n42. Shaded area in Map 42 at Tampines Street 62 (Parcel A)\nMAP 42\n[S 257/2021 wef 08/04/2021]\n43. [Deleted by S 506/2022 wef 30/06/2022]\n44. Shaded area in Map 44 at Lentor Hills Road (Parcel A)\nMAP 44\n[S 703/2021 wef 20/09/2021]\n45. [Deleted by S 506/2022 wef 30/06/2022]\n46. Shaded area in Map 46 at Pine Grove (Parcel A)\nMAP 46\n[S 703/2021 wef 20/09/2021]\n47. [Deleted by S 506/2022 wef 30/06/2022]\n48. Shaded area in Map 48 at Bukit Batok West Avenue 8\nMAP 48\n[S 703/2021 wef 20/09/2021]"
+   }
+  },
+  {
+   "id": "SG-H355-A900005",
+   "no": 900005,
+   "noLabel": {
+    "en": "SIXTH SCHEDULE"
+   },
+   "text": {
+    "en": "SIXTH SCHEDULE\nRegulation 4B(4)(a) and (4A)(a)\nMinimum level of use of\nprefabricated prefinished volumetric construction\nfor buildings on land situated within\narea described in FIFTH AND TENTH SCHEDULES\n1. The minimum level of use of prefabricated prefinished volumetric construction shall be 65% of the total super-structural floor area.\n[S 729/2014 wef 01/11/2014]\n[S 583/2018 wef 25/09/2018]"
+   }
+  },
+  {
+   "id": "SG-H355-A900006",
+   "no": 900006,
+   "noLabel": {
+    "en": "SEVENTH SCHEDULE"
+   },
+   "text": {
+    "en": "SEVENTH SCHEDULE\nRegulation 4B(5)\n1. Shaded area in Map 1 at Beach Road\nMAP 1\n2. [Deleted by S 506/2022 wef 30/06/2022]"
+   }
+  },
+  {
+   "id": "SG-H355-A900007",
+   "no": 900007,
+   "noLabel": {
+    "en": "EIGHTH SCHEDULE"
+   },
+   "text": {
+    "en": "EIGHTH SCHEDULE\nRegulation 4B(5)\nMinimum level of use of structural steel\nconstruction for buildings on land situated within\narea described in Seventh Schedule\n1. The minimum level of use of structural steel construction is 80% of the total office floor area of a building.\n2. In paragraph 1, “total office floor area”, in relation to a building, means the total super‑structural floor area of the building less any floor area that is not constructed for use as an office.\n[S 70/2017 wef 28/02/2017]"
+   }
+  },
+  {
+   "id": "SG-H355-A900008",
+   "no": 900008,
+   "noLabel": {
+    "en": "NINTH SCHEDULE"
+   },
+   "text": {
+    "en": "NINTH SCHEDULE\nRegulation 4B(6)\n1. Shaded area in Map 1 at Hillview Rise\nMAP 1\n[S 689/2017 wef 15/12/2017]\n2. [Deleted by S 506/2022 wef 30/06/2022]\n3. Shaded area in Map 3 at Canberra Drive\nMAP 3\n[S 781/2019 wef 28/11/2019]\n4. Shaded area in Map 4 at Canberra Drive\nMAP 4\n[S 781/2019 wef 28/11/2019]\n5. Shaded area in Map 5 at Marina View\nMAP 5\n[S 781/2019 wef 28/11/2019]\n6. [Deleted by S 506/2022 wef 30/06/2022]\n7. Shaded area in Map 7 at Jalan Anak Bukit\nMAP 7\n[S 335/2020 wef 30/04/2020]"
+   }
+  },
+  {
+   "id": "SG-H355-A900009",
+   "no": 900009,
+   "noLabel": {
+    "en": "TENTH SCHEDULE"
+   },
+   "text": {
+    "en": "TENTH SCHEDULE\nRegulation 4B(4A)\n1. Shaded area in Map 1 at Club Street\nMAP 1\n[S 583/2018 wef 25/09/2018]\n2. [Deleted by S 506/2022 wef 30/06/2022]"
+   }
+  },
+  {
+   "id": "SG-H355-A900010",
+   "no": 900010,
+   "noLabel": {
+    "en": "ELEVENTH SCHEDULE"
+   },
+   "text": {
+    "en": "ELEVENTH SCHEDULE\nRegulation 4B(4B) and Twelfth Schedule\n1. [Deleted by S 123/2023 wef 14/03/2023]\n2. Shaded area in Map 2 at Bukit Batok West Avenue 5\nMAP 2\n3. Shaded area in Map 3 at Lentor Gardens\nMAP 3\n4. Shaded area in Map 4 at Pine Grove (Parcel B)\nMAP 4\n[S 506/2022 wef 30/06/2022]\n5. Shaded area in Map 5 at Clementi Avenue 1\nMAP 5\n[S 827/2022 wef 21/10/2022]\n6. Shaded area in Map 6 at Tampines Avenue 11\nMAP 6\n[S 827/2022 wef 21/10/2022]\n7. Shaded area in Map 7 at Jalan Tembusu\nMAP 7\n[S 123/2023 wef 14/03/2023]\n8. Shaded area in Map 8 at Lorong 1 Toa Payoh\nMAP 8\n[S 123/2023 wef 14/03/2023]\n9. Shaded area in Map 9 at Plantation Close\nMAP 9\n[S 658/2023 wef 09/10/2023]\n10. Shaded area in Map 10 at Holland Drive\nMAP 10\n[S 658/2023 wef 09/10/2023]\n11. Shaded area in Map 11 at Tampines Street 95\nMAP 11\n[S 658/2023 wef 09/10/2023]\n12. Shaded area in Map 12 at Zion Road (Parcel B)\nMAP 12\n[S 658/2023 wef 09/10/2023]\n13. Shaded area in Map 13 at River Valley Green (Parcel B)\nMAP 13\n[S 202/2024 wef 12/03/2024]\n14. Shaded area in Map 14 at Media Circle\nMAP 14\n[S 202/2024 wef 12/03/2024]\n15. Shaded area in Map 15 at Jalan Loyang Besar\nMAP 15\n[S 202/2024 wef 12/03/2024]\n16. Shaded area in Map 16 at Dairy Farm Walk\nMAP 16\n[S 202/2024 wef 12/03/2024]\n17. Shaded area in Map 17 at Tengah Garden Avenue\nMAP 17\n[S 202/2024 wef 12/03/2024]\n18. Shaded area in Map 18 at Tampines Street 94\nMAP 18\n[S 202/2024 wef 12/03/2024]\n19. Shaded area in Map 19 at Chuan Grove\nMAP 19\n20. Shaded area in Map 20 at Lakeside Drive\nMAP 20\n[S 257/2025 wef 08/04/2025]\n21. Shaded area in Map 21 at Chuan Grove\nMAP 21\n[S 257/2025 wef 08/04/2025]\n22. Shaded area in Map 22 at Telok Blangah Road\nMAP 22\n[S 257/2025 wef 08/04/2025]\n23. Shaded area in Map 23 at Woodlands Drive 17\nMAP 23\n[S 546/2025 wef 26/08/2025]\n24. Shaded area in Map 24 at Tanjong Rhu Road\nMAP 24\n[S 546/2025 wef 26/08/2025]\n25. Shaded area in Map 25 at Lentor Central\nMAP 25\n[S 546/2025 wef 26/08/2025]\n26. Shaded area in Map 26 at New Upper Changi Road\nMAP 26\n[S 72/2026 wef 23/02/2026]\n27. Shaded area in Map 27 at Chuan Grove\nMAP 27\n[S 547/2026 wef 05/08/2026]\n28. Shaded area in Map 28 at Tanjong Rhu Close\nMAP 28\n[S 547/2026 wef 05/08/2026]\n29. Shaded area in Map 29 at Berlayar Close\nMAP 29\n[S 547/2026 wef 05/08/2026]\n30. Shaded area in Map 30 at Jurong East Avenue 1\nMAP 30\n[S 547/2026 wef 05/08/2026]"
+   }
+  },
+  {
+   "id": "SG-H355-A900011",
+   "no": 900011,
+   "noLabel": {
+    "en": "TWELFTH SCHEDULE"
+   },
+   "text": {
+    "en": "TWELFTH SCHEDULE\nRegulation 4B(4B), (4C) and (7A)\nMinimum level of use of prefabricated mechanical, electrical or plumbing systems, prefabricated prefinished volumetric construction and system formwork for buildings on land situated within area described in Eleventh Schedule, Thirteenth Schedule or Sixteenth Schedule\n1. The minimum level of use of prefabricated mechanical, electrical or plumbing systems is 65% of the total qualifying area in the development as specified in the Code of Practice.\n2. The minimum level of use of prefabricated prefinished volumetric construction is 65% of the total super-structural floor area.\n3. The minimum level of use of system formwork is 70% of the total cast-in-place area of super-structural works.\n[S 506/2022 wef 30/06/2022]\n[S 990/2022 wef 22/12/2022]"
+   }
+  },
+  {
+   "id": "SG-H355-A900012",
+   "no": 900012,
+   "noLabel": {
+    "en": "THIRTEENTH SCHEDULE"
+   },
+   "text": {
+    "en": "THIRTEENTH SCHEDULE\nRegulation 4B(4C) and Twelfth Schedule\n1. Shaded area in Map 1 at River Valley Road\nMAP 1\n[S 506/2022 wef 30/06/2022]"
+   }
+  },
+  {
+   "id": "SG-H355-A900013",
+   "no": 900013,
+   "noLabel": {
+    "en": "FOURTEENTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTEENTH SCHEDULE\nRegulation 4B(7) and Fifteenth Schedule\n1. Shaded area in Map 1 at Woodlands Avenue 2\nMAP 1\n2. Shaded area in Map 2 at Hillview Rise\nMAP 2\n3. Shaded area in Map 3 at Lentor Hills Road (Parcel B)\nMAP 3\n4. Shaded area in Map 4 at Lentor Central\nMAP 4\n5. Shaded area in Map 5 at Bukit Timah Link\nMAP 5\n[S 506/2022 wef 30/06/2022]\n6. Shaded area in Map 6 at Lentor Central\nMAP 6\n[S 827/2022 wef 21/10/2022]\n7. Shaded area in Map 7 at Senja Close\nMAP 7\n[S 827/2022 wef 21/10/2022]\n8. [Deleted by S 123/2023 wef 14/03/2023]\n9. Shaded area in Map 9 at Marina Gardens Lane\nMAP 9\n[S 827/2022 wef 21/10/2022]\n10. Shaded area in Map 10 at Lentor Gardens\nMAP 10\n[S 123/2023 wef 14/03/2023]\n11. Shaded area in Map 11 at Champions Way\nMAP 11\n[S 123/2023 wef 14/03/2023]\n12. Shaded area in Map 12 at Media Circle\nMAP 12\n[S 123/2023 wef 14/03/2023]\n13. Shaded area in Map 13 at Punggol Walk\nMAP 13\n[S 123/2023 wef 14/03/2023]\n14. Shaded area in Map 14 at Marina Gardens Crescent\nMAP 14\n[S 123/2023 wef 14/03/2023]\n15. Shaded area in Map 15 at Jurong Lake District\nMAP 15\n[S 123/2023 wef 14/03/2023]\n16. Shaded area in Map 16 at Orchard Boulevard\nMAP 16\n[S 658/2023 wef 09/10/2023]\n17. Shaded area in Map 17 at Upper Thomson Road (Parcel A)\nMAP 17\n[S 658/2023 wef 09/10/2023]\n18. Shaded area in Map 18 at Zion Road (Parcel A)\nMAP 18\n[S 658/2023 wef 09/10/2023]\n19. Shaded area in Map 19 at Upper Thomson Road (Parcel B)\nMAP 19\n[S 658/2023 wef 09/10/2023]\n20. Shaded area in Map 20 at De Souza Avenue\nMAP 20\n[S 658/2023 wef 09/10/2023]\n21. Shaded area in Map 21 at River Valley Green (Parcel A)\nMAP 21\n[S 202/2024 wef 12/03/2024]\n22. Shaded area in Map 22 at Canberra Crescent\nMAP 22\n[S 202/2024 wef 12/03/2024]\n23. Shaded area in Map 23 at Margaret Drive\nMAP 23\n[S 202/2024 wef 12/03/2024]\n24. Shaded area in Map 24 at Bayshore Road\nMAP 24\n[S 202/2024 wef 12/03/2024]\n25. Shaded area in Map 25 at Faber Walk\nMAP 25\n[S 705/2024 wef 12/09/2024]\n26. Shaded area in Map 26 at Woodlands Drive 17\nMAP 26\n[S 705/2024 wef 12/09/2024]\n27. Shaded area in Map 27 at River Valley Green (Parcel C)\nMAP 27\n[S 705/2024 wef 12/09/2024]\n28. Shaded area in Map 28 at Holland Link\nMAP 28\n[S 705/2024 wef 12/09/2024]\n29. Shaded area in Map 29 at Holland Plain\nMAP 29\n[S 705/2024 wef 12/09/2024]\n30. Shaded area in Map 30 at Marina Gardens Lane\nMAP 30\n[S 705/2024 wef 12/09/2024]\n31. Shaded area in Map 31 at Media Circle (Parcel A)\nMAP 31\n[S 705/2024 wef 12/09/2024]\n32. Shaded area in Map 32 at Media Circle (Parcel B)\nMAP 32\n[S 705/2024 wef 12/09/2024]\n33. Shaded area in Map 33 at Chencharu Close\nMAP 33\n[S 705/2024 wef 12/09/2024]\n34. Shaded area in Map 34 at Dunearn Road\nMAP 34\n[S 257/2025 wef 08/04/2025]\n35. Shaded area in Map 35 at Sembawang Road\nMAP 35\n[S 257/2025 wef 08/04/2025]\n36. Shaded area in Map 36 at Hougang Central\nMAP 36\n[S 257/2025 wef 08/04/2025]\n37. Shaded area in Map 37 at Dorset Road\nMAP 37\n[S 257/2025 wef 08/04/2025]\n38. Shaded area in Map 38 at Bukit Timah Road\nMAP 38\n[S 546/2025 wef 26/08/2025]\n39. Shaded area in Map 39 at Bedok Rise\nMAP 39\n[S 546/2025 wef 26/08/2025]\n40. Shaded area in Map 40 at Cross Street\nMAP 40\n[S 546/2025 wef 26/08/2025]\n41. Shaded area in Map 41 at Dover Road\nMAP 41\n[S 546/2025 wef 26/08/2025]\n42. Shaded area in Map 42 at Dairy Farm Walk\nMAP 42\n[S 546/2025 wef 26/08/2025]\n43. Shaded area in Map 43 at Dunearn Road\nMAP 43\n[S 546/2025 wef 26/08/2025]\n44. Shaded area in Map 44 at Kallang Avenue\nMAP 44\n[S 546/2025 wef 26/08/2025]\n45. Shaded area in Map 45 at Miltonia Close\nMAP 45\n[S 546/2025 wef 26/08/2025]\n46. Shaded area in Map 46 at Telok Ayer Street\nMAP 46\n[S 546/2025 wef 26/08/2025]\n47. Shaded area in Map 47 at Morrison Lane\nMAP 47\n[S 72/2026 wef 23/02/2026]\n48. Shaded area in Map 48 at Town Hall Link\nMAP 48\n[S 72/2026 wef 23/02/2026]\n49. Shaded area in Map 49 at Bayshore Drive\nMAP 49\n[S 72/2026 wef 23/02/2026]\n50. Shaded area in Map 50 at Peck Hay Road\nMAP 50\n[S 72/2026 wef 23/02/2026]\n51. Shaded area in Map 51 at Canberra Drive\nMAP 51\n[S 72/2026 wef 23/02/2026]\n52. Shaded area in Map 52 at Berlayar Drive\nMAP 52\n[S 72/2026 wef 23/02/2026]\n53. Shaded area in Map 53 at Lorong Puntong\nMAP 53\n[S 72/2026 wef 23/02/2026]\n54. Shaded area in Map 54 at Sembawang Drive\nMAP 54\n[S 72/2026 wef 23/02/2026]\n55. Shaded area in Map 55 at Kitchener Link\nMAP 55\n[S 72/2026 wef 23/02/2026]\n56. Shaded area in Map 56 at Orchard Boulevard\nMAP 56\n[S 547/2026 wef 05/08/2026]\n57. Shaded area in Map 57 at Serangoon North View\nMAP 57\n[S 547/2026 wef 05/08/2026]\n58. Shaded area in Map 58 at East Coast Road\nMAP 58\n[S 547/2026 wef 05/08/2026]\n59. Shaded area in Map 59 at Plymouth Avenue/Dunearn Road\nMAP 59\n[S 547/2026 wef 05/08/2026]\n60. Shaded area in Map 60 at De Souza Avenue\nMAP 60\n[S 547/2026 wef 05/08/2026]\n61. Shaded area in Map 61 at Holland Plain\nMAP 61\n[S 547/2026 wef 05/08/2026]"
+   }
+  },
+  {
+   "id": "SG-H355-A900014",
+   "no": 900014,
+   "noLabel": {
+    "en": "FIFTEENTH SCHEDULE"
+   },
+   "text": {
+    "en": "FIFTEENTH SCHEDULE\nRegulation 4B(7)\nMinimum level of use of specified prefabricated structural systems, prefabricated architectural systems, prefabricated mechanical, electrical or plumbing systems, and system formwork for buildings on land situated within area described in Fourteenth Schedule\n1. The minimum level of use of prefabricated architectural systems is 80% of the total wall length of the building works.\n2. The minimum level of use of prefabricated mechanical, electrical or plumbing systems is 65% of the qualifying area in the development as specified in the Code of Practice.\n3. The minimum level of use of specified prefabricated structural systems is 65% of the total structural floor area of the building works.\n4. The minimum level of use of system formwork is 70% of the total cast-in-place areas of super-structural works.\n[S 506/2022 wef 30/06/2022]"
+   }
+  },
+  {
+   "id": "SG-H355-A900015",
+   "no": 900015,
+   "noLabel": {
+    "en": "SIXTEENTH SCHEDULE"
+   },
+   "text": {
+    "en": "SIXTEENTH SCHEDULE\nRegulation 4B(7A) and Twelfth Schedule\n1. Shaded area in Map 1 at Plantation Close\n[S 658/2023 wef 09/10/2023]\nMAP 1\n2. Shaded area in Map 2 at Tampines Street 62 (Parcel B)\nMAP 2\n[S 123/2023 wef 14/03/2023]\n[S 990/2022 wef 22/12/2022]"
+   }
+  }
+ ]
+}

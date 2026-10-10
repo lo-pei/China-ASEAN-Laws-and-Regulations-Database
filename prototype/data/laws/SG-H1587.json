@@ -1,0 +1,91 @@
+{
+ "id": "SG-H1587",
+ "title": {
+  "zh": null,
+  "en": "Fire Safety (Exemption) (Temporary Buildings in Construction Sites) Order",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p20",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation FSA1993-OR2",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 3392,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/FSA1993-OR2?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 4 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1587-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Order may be cited as the Fire Safety (Exemption) (Temporary Buildings in Construction Sites) Order."
+   }
+  },
+  {
+   "id": "SG-H1587-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In this Order, unless the context otherwise requires, “builder”, “building works” and “temporary building” have the same meanings as in the Building Control Act 1989.\n[S 493/2023 wef 31/12/2021]\n(2) In this Order, unless the context otherwise requires, any reference to the person for whom the fire safety works are to be or have been carried out shall be read as a reference to the builder of the permanent buildings in connection with which the temporary buildings are required."
+   }
+  },
+  {
+   "id": "SG-H1587-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "3. Subject to the conditions specified in the Schedule, sections 55, 56 and 60 of the Act and regulation 17 of the Fire Safety (Building and Pipeline Fire Safety) Regulations (Rg 1) shall not apply to fire safety works in any temporary building that is —\n(a)a worker’s quarters, site office, store, containerised energy storage system, builder’s shed or other shed;\n[S 758/2023 wef 24/11/2023]\n(b)required in connection with any building works relating to permanent buildings; and\n(c)situated within the boundaries of the site of the building works.\n[S 493/2023 wef 31/12/2021]\n[S 493/2023 wef 07/07/2023]"
+   }
+  },
+  {
+   "id": "SG-H1587-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nParagraph 3\nConditions of exemption\n1. The person for whom the fire safety works are to be carried out shall appoint a qualified person in respect of those works.\n2. The qualified person referred to in paragraph 1 shall, in addition to his duties under the Act and any regulations made thereunder —\n(a)design and prepare the plans for the fire safety works in accordance with the technical code of practice for Fire Safety in Temporary Buildings and such other guidelines as may, from time to time, be issued by the Commissioner and certify in such form as the Commissioner may require that the plans are prepared in accordance with the Act and any regulations made thereunder and with these conditions;\n(b)take all reasonable steps and exercise due diligence in supervising and inspecting the fire safety works to ensure that such works are being carried out in accordance with the Act and any regulations made thereunder and with these conditions; and\n(c)upon completion of the fire safety works, certify in such form as the Commissioner may require that the fire safety works have been inspected and completed in accordance with the Act and any regulations made thereunder and with these conditions, and furnish that certificate, together with the plans and the certificate referred to in sub-paragraph (a), to the person for whom the fire safety works have been carried out.\n3. The person for whom the fire safety works have been carried out shall —\n(a)ensure that all the plans and certificates referred to in paragraph 2(c) are at all times kept available for inspection at the site office where the temporary building to which they relate is situated;\n(b)submit those plans and certificates for inspection by the Commissioner if the Commissioner so directs;\n(c)ensure that the fire safety works and the temporary buildings to which they relate are maintained in accordance with all relevant guidelines issued by the Commissioner; and\n(d)demolish the temporary building before or upon completion of the building works relating to the permanent building at the site where the temporary building is situated, or at any time as the Commissioner may direct.\n[G.N. No. S 255/97]"
+   }
+  }
+ ]
+}

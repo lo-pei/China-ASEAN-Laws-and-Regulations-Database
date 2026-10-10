@@ -1,0 +1,746 @@
+{
+ "id": "TL-H117",
+ "title": {
+  "zh": "Prevençã及Combate 洗钱与恐怖融资法律制度",
+  "en": null,
+  "orig": "Regime Jurídico da Prevenção e do Combate ao Branqueamento de Capitais e ao Financiamento do Terrorismo"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p03",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "amended",
+ "promulgatedDate": "2011-12-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "据公报标题，本法经 Lei n.º 5/2013 修改；本库收录的是本法原始公布文本，修改后的合并本未另行收录。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 17/2011",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 44,
+ "chars": 35859,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2011/serie_1/SERIE1_NO_46.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 44 条；逐字取自官方公报 PDF（public/docs/2011/serie_1/SERIE1_NO_46.pdf）第 5555–5565 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 【据公报标题，本法经 《第5/2013号法律》 修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H117-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS / SECÇÃO I OBJECTO  E  DEFINIÇÕES"
+   },
+   "heading": {
+    "pt": "Objecto"
+   },
+   "text": {
+    "pt": "A presente lei aprova o regime jurídico da prevenção e do combate ao branqueamento de capitais provenientes de actividades ilícitas e ao financiamento do terrorismo."
+   }
+  },
+  {
+   "id": "TL-H117-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS / SECÇÃO I OBJECTO  E  DEFINIÇÕES"
+   },
+   "heading": {
+    "pt": "Âmbito de aplicação"
+   },
+   "text": {
+    "pt": "1.   Estão sujeitas às disposições da presente lei as entidades referidas no artigo 3.º.\n2.   Os crimes de branqueamento de capitais e o financiamento do terrorismo são os previstos e punidos nos termos da legislação penal aplicável."
+   }
+  },
+  {
+   "id": "TL-H117-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS / SECÇÃO I OBJECTO  E  DEFINIÇÕES"
+   },
+   "heading": {
+    "pt": "Entidades financeiras e não financeiras"
+   },
+   "text": {
+    "pt": "1.   São entidades financeiras abrangidas pela presente lei as seguintes:\na)   Quaisquer instituições de crédito, incluindo as instituições de micro - finanças;\nb)   Sociedades seguradoras, incluindo as de investimento e corretagem com elas relacionadas;\nc)   Sociedades financeiras e de locação financeira;\nd)    Entidades emissoras e ou gestoras de cartões de crédito ou débito;\ne)   Qualquer pessoa singular ou colectiva que exerça profissionalmente a actividade de compra e venda ou câmbio de moeda;\nf)   Qualquer pessoa singular ou colectiva que  exerça profissionalmente a actividade de transferência de fundos;\ng)  Qualquer pessoa que exerça outras actividades e operações a indicar pela Autoridade de Supervisão competente.\n2.    São entidades não financeiras abrangidas pela presente lei as seguintes:\na)   Casinos, incluindo casinos operados através da Internet;\nb)  Quaisquer pessoas cuja actividade consista na prestação de serviços financeiros ou que intervenham ou assistam em operações financeiras ou imobiliárias, em representação do cliente, sem prejuízo do sigilo profissional\nc)   Contabilistas, auditores independentes e consultores fiscais;\nd)   Quaisquer outras actividades e profissões que venham a ser designadas por lei."
+   }
+  },
+  {
+   "id": "TL-H117-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS / SECÇÃO II UNIDADE  DE  INFORMAÇÃO  FINANCEIRA"
+   },
+   "heading": {
+    "pt": "Criação"
+   },
+   "text": {
+    "pt": "É criada, junto do Banco Central de Timor-Leste, a Unidade de Informação Financeira, adiante abreviadamente designada por UIF."
+   }
+  },
+  {
+   "id": "TL-H117-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS / SECÇÃO II UNIDADE  DE  INFORMAÇÃO  FINANCEIRA"
+   },
+   "heading": {
+    "pt": "Natureza, Organização e Funcionamento"
+   },
+   "text": {
+    "pt": "A natureza, organização e funcionamento da UIF são estabelecidas por Decreto-Lei."
+   }
+  },
+  {
+   "id": "TL-H117-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS / SECÇÃO II UNIDADE  DE  INFORMAÇÃO  FINANCEIRA"
+   },
+   "heading": {
+    "pt": "Competências da UIF"
+   },
+   "text": {
+    "pt": "A UIF tem as competências que lhe são conferidas nos termos da presente lei e demais legislação aplicável."
+   }
+  },
+  {
+   "id": "TL-H117-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II PREVENÇÃO / SECÇÃO I DEVERES  GERAIS"
+   },
+   "heading": {
+    "pt": "Obrigação de declarar o transporte de moeda ou títulos ao portador negociáveis"
+   },
+   "text": {
+    "pt": "1.   Qualquer pessoa singular que, ao entrar ou sair do território de Timor-Leste, transporte dinheiro ou títulos ao portador negociáveis de montante igual ou superior a 10.000,00 dólares norte-americanos deve declarar o montante transportado às autoridades alfandegárias.\n2.    As cópias das declarações apresentadas são imediatamente transmitidas pelas autoridades alfandegárias à UIF.\n3.   A autoridade alfandegária apreende o montante da moeda ou dos títulos ao portador negociáveis não declarados, no todo ou em parte, sempre que existam fundadas suspeitas de branqueamento de capitais ou de financiamento de terrorismo ou quando for apresentada uma declaração falsa.\n4.   A autoridade judicial competente aprecia, no prazo máximo de três dias úteis, a apreensão de valores feita nos termos do número anterior.\n5.   Da decisão da autoridade judicial competente que confirme a apreensão constam de forma clara as características dos valores apreendidos e das circunstâncias da apreensão."
+   }
+  },
+  {
+   "id": "TL-H117-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II PREVENÇÃO / SECÇÃO II DEVERES  DAS  INSTITUIÇÕES  FINANCEIRAS"
+   },
+   "heading": {
+    "pt": "Transparência das transacções financeiras"
+   },
+   "text": {
+    "pt": "1.    Só podem estabelecer-se no território nacional as entidades bancárias que nele mantenham presença física ou integrem um grupo financeiro registado em país ou território sujeito a supervisão eficaz e consolidada.\n2.   As entidades financeiras devem recusar estabelecer ou continuar relações comerciais com entidades bancárias registadas em jurisdições onde não se encontrem fisicamente presentes ou que não sejam parte de um grupo financeiro registado em país ou território sujeito a supervisão eficaz e consolidada.\n3.   Em caso algum é permitida a abertura ou manutenção de contas anónimas, de contas sob nomes manifestamente fictícios ou de cadernetas anónimas.\n4.   As entidades financeiras não podem iniciar ou manter relações comerciais ou realizar transacções com entidades financeiras num país estrangeiro se este permitir que as contas sejam utilizadas por bancos de fachada."
+   }
+  },
+  {
+   "id": "TL-H117-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II PREVENÇÃO / SECÇÃO II DEVERES  DAS  INSTITUIÇÕES  FINANCEIRAS"
+   },
+   "heading": {
+    "pt": "Transparência de pessoas colectivas e dos centros de"
+   },
+   "text": {
+    "pt": "interesses colectivos sem personalidade jurídica\n1.   Sem prejuízo dos deveres de registo, declaração e publicidade previstos na Lei das Sociedades Comerciais, no Código de Registo Comercial e demais legislação aplicável, as pessoas colectivas registadas em território nacional devem prestar, sempre que lhes for solicitado pela autoridade competente, a informação adequada e necessária para identificar os beneficiários efectivos e a sua estrutura de controlo.\n2.  Nos casos em que sejam emitidas acções ao portador, nos termos da lei, os titulares de tais acções estão obrigados a depositá-las junto da pessoa colectiva que as tenha emitido ou, quando exista, num registo de acções.\n3.   A lei determina a forma de registo da informação relativa aos beneficiários efectivos e ao controlo dos centros de interesses colectivos sem personalidade jurídica."
+   }
+  },
+  {
+   "id": "TL-H117-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II PREVENÇÃO / SECÇÃO II DEVERES  DAS  INSTITUIÇÕES  FINANCEIRAS"
+   },
+   "heading": {
+    "pt": "Identificação de clientes por entidades financeiras e não financeiras"
+   },
+   "text": {
+    "pt": "1.   As entidades referidas no artigo 3.º devem identificar os seus clientes e beneficiários efectivos, e verificar a respectiva identidade através de documentos provenientes de fontes independentes, dados ou informação, quando:\na)   Efectuem transacções ocasionais, em montante igual ou superior a 10.000,00 dólares norte-americanos, executadas numa única ou em várias transacções, que pareçam estar ligadas;\nb)   Existam dúvidas sobre a veracidade ou adequação dos dados de identificação do cliente;\nc)   Existam fundadas suspeitas de branqueamento de capitais ou de financiamento de terrorismo.\n2.    As entidades referidas no artigo 3.º procedem à recolha de informação no que diz respeito aos fins e à intenção da relação negocial.\n3.    As entidades referidas no artigo 3.º procedem à identificação e verificação da identidades dos seus clientes da seguinte forma:\na)   A identificação de pessoas singulares e a verificação da sua identidade inclui o nome completo e o número de identificação nacional;\nb)   A identificação de pessoas colectivas inclui a verificação da firma ou denominação social, sede, identificação dos titulares dos órgãos sociais, registos da sociedade ou prova semelhante do seu estatuto jurídico, tipo social e estrutura societária ;\nc)   A identificação de instrumentos jurídicos relevantes,\nd)   As entidades referidas no artigo 3.º identificam o beneficiário efectivo e adoptam todas as medidas necessárias para verificar a sua identidade, incluindo a identificação das pessoas singulares que tenham poderes de controlo, bem como a identificação da pessoa singular que seja responsável pela direcção da pessoa colectiva.\n4.   Nos casos em que existam dúvidas sobre se o cliente referido no n.º 1 age por conta própria, as entidades referidas no artigo 3.º verificam a identidade da pessoa ou pessoas em nome ou por conta de quem o cliente actua.\n5. Quando estabeleçam relações negociais ou realizam transacções com um cliente que não se encontre fisicamente presente, as entidades referidas no artigo 3.º devem tomar medidas específicas adequadas a fazer face ao risco acrescido de branqueamento de capitais e de financiamento de terrorismo.\n6.   As entidades referidas no artigo 3.º tomam as medidas adequadas a determinar se sobre o cliente ou o beneficiário efectivo recaem especiais deveres decorrentes das funções ou cargos que exerçam ou da titularidade de cargos políticos, nos termos da lei.\n8.  No que respeita a relações bancárias internacionais, as entidades financeiras devem:\na)   Verificar a identidade das instituições correspondentes, com as quais têm relações de correspondência bancária;\nb)   Recolher informação sobre a natureza das actividades da instituição correspondente;\nc)   Com base na informação disponível, avaliar a reputação da instituição correspondente e a natureza da supervisão a que esta sujeita;\nd)   Avaliar os controlos aplicados pela instituição correspondente no que se refere ao combate ao branqueamento de capitais e financiamento do terrorismo;\ne)   No caso de um pagamento através de uma conta, assegurar que a instituição correspondente verificou a identidade do cliente, aplicou mecanismos para o controlo contínuo destes clientes, e tem a capacidade para recolher a identificação relevante sob um pedido;\nf)   Cumprir as instruções emitidas pela autoridade competente.\n9.   As entidades referidas no artigo 3.º não financeiras só devem manter uma relação negocial quando possam cumprir os deveres de diligência referidos nos números anteriores.\n10.  As disposições do presente artigo são aplicáveis a todos os clientes de entidades financeiras já existentes antes da aprovação da presente lei."
+   }
+  },
+  {
+   "id": "TL-H117-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II PREVENÇÃO / SECÇÃO II DEVERES  DAS  INSTITUIÇÕES  FINANCEIRAS"
+   },
+   "heading": {
+    "pt": "Deveres especiais de identificação"
+   },
+   "text": {
+    "pt": "1.   As companhias de seguros, agentes e corretores que exerçam actividades na área de seguro devem identificar os seus clientes e verificar a sua identidade, nos termos estabelecidos no artigo anterior, sempre que o montante do prémio anual a ser pago ultrapasse 1.000,00 dólares norte-americanos, se o pagamento for realizado num só pagamento anual superior a 2.500,00 dólares norteamericanos ou, no caso de contratos de seguro de reforma celebrados em relação a um contrato de trabalho ou uma actividade profissional do segurado, quando tais contratos contenham uma cláusula de resgate e possam ser utilizados como garantia para um empréstimo.\n2.   Os casinos devem verificar a identidade dos clientes que efectuem transacções de valor igual ou superior a 1.000,00 dólares norte-americanos, nos termos estabelecidos no artigo anterior.\n3.   Os negociantes em metais preciosos e em pedras preciosas, devem identificar os seus clientes, nos termos estabelecidos no artigo anterior, sempre que recebam pagamentos em dinheiro em montante igual ou superior a 5.000,00 dólares norte-americanos.\n4.   Os agentes imobiliários e os corretores imobiliários devem identificar as partes, nos termos estabelecidos no artigo anterior quando envolvidos em transacções que respeitem à compra e venda e à compra para revenda de imobiliário.\n5.   As entidades referidas nos números anteriores devem sempre identificar os seus clientes e verificar a sua identidade quando existam fundadas suspeitas de branqueamento de capitais ou de financiamento de terrorismo."
+   }
+  },
+  {
+   "id": "TL-H117-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II PREVENÇÃO / SECÇÃO II DEVERES  DAS  INSTITUIÇÕES  FINANCEIRAS"
+   },
+   "heading": {
+    "pt": "Programas internos de prevenção e combate ao"
+   },
+   "text": {
+    "pt": "branqueamento de capitais e ao financiamento do terrorismo\n1.  As entidades referidas no artigo 3.º devem promover e implementar programas destinados à prevenção e ao branqueamento de capitais e ao financiamento do terrorismo no âmbito da política de contratação, da formação profissional contínua e da auditoria interna.\n2.   As entidades referidas no artigo 3.º designam um funcionário responsável por assegurar internamente o cumprimento das regras e procedimentos previstos na presente lei.\n3.   A autoridade de supervisão competente pode, através de regulamento, determinar a adopção pelas entidades referidas no artigo 3.º de medidas específicas adequadas ao risco de branqueamento de capitais considerando o volume de negócios, nos termos da lei.”"
+   }
+  },
+  {
+   "id": "TL-H117-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II PREVENÇÃO / SECÇÃO II DEVERES  DAS  INSTITUIÇÕES  FINANCEIRAS"
+   },
+   "heading": {
+    "pt": "Deveres relativos a transferências electrónicas"
+   },
+   "text": {
+    "pt": "1.  As instituições financeiras, cuja actividade inclua transferências electrónicas, devem obter e verificar o nome completo, o número da conta, ou quando não exista, o número de referência que acompanha a transferência, e o domicílio, ou no caso de ausência do domicílio, o número nacional de identificação ou data e local de nascimento, incluindo, quando necessário, o nome da instituição financeira, do ordenante de tais transferências, sendo a informação incluída na mensagem ou formulário de pagamento que acompanha a transferência.\n2.   As instituições a que se refere o número anterior devem recolher toda a informação e transmiti-la, quando actuarem como intermediários numa cadeia de pagamentos.\n3.   O Banco Central pode emitir instruções no que diz respeito a transferências transfronteiriças, integradas num ficheiro único de transferências.\n4.   Os números 1 e 2 do presente artigo não se aplicam às transferências efectuadas através de cartão de débito ou de crédito, sempre que o número do cartão de débito ou de crédito acompanhe a transferência, nem são aplicáveis a transferências entre instituições financeiras, onde, quer o ordenante quer  o beneficiário sejam instituições financeiras actuando por conta própria.\n5.   Se as instituições a que se refere o número 1 receberem dinheiro ou transferências de valores que não contenham informação completa do ordenante, devem tomar as medidas necessárias para obter e verificar essas informações junto da instituição que emitiu a ordem ou do beneficiário e, se estes não facultarem as mesmas, devem recusar a aceitação da transferência e enviar um relatório à UIF."
+   }
+  },
+  {
+   "id": "TL-H117-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II PREVENÇÃO / SECÇÃO II DEVERES  DAS  INSTITUIÇÕES  FINANCEIRAS"
+   },
+   "heading": {
+    "pt": "Controlo especial de certas transacções"
+   },
+   "text": {
+    "pt": "1.   As entidades referidas no artigo 3.º estão obrigadas a um dever especial de controlo das transacções que envolvam montantes anormalmente elevados, não habituais ou sem origem económica e lícita aparente.\n2.   As entidades referidas no artigo 3.º estão obrigadas a um dever especial de controlo das relações negociais e transacções com pessoas singulares e colectivas ou centros de interesses colectivos sem personalidade jurídica, com origem ou destino em países ou territórios provenientes de ou para países não sujeitos a supervisão eficaz e consolidada.\n3.   As entidades referidas no artigo 3.º devem manter registos da informação específica no que respeita às transacções referidas nos nºs 1 e 2 e a identidade de todas as partes envolvidas, sendo o relatório mantido como especificado no artigo 15.º que deve ser comunicado à UIF sempre que solicitado ou a outra entidade de supervisão competente, nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H117-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II PREVENÇÃO / SECÇÃO II DEVERES  DAS  INSTITUIÇÕES  FINANCEIRAS"
+   },
+   "heading": {
+    "pt": "Arquivo de registos"
+   },
+   "text": {
+    "pt": "1.    As entidades referidas no artigo 3.º mantêm arquivos que contenham, num sistema adequado de registo, disponível para consulta pela UIF ou outra entidade competente, as seguintes informações:\na)   Cópias dos documentos de identificação dos clientes, proprietários ou representantes dos beneficiários efectivos, obtidas nos termos das disposições do presente Capítulo, fichas das contas e correspondência pelo período de, pelo menos, cinco anos após a relação negocial terminar;\nb)   Informação obtida nos termos das disposições do presente Capítulo, que possibilite a reconstrução das transacções efectuadas pelos clientes e os relatórios escritos elaborados nos termos do artigo anterior, pelo período de pelo menos cinco anos após a realização da transacção;\nc)   Arquivos de todos os relatórios enviados à UIF, pelo período de pelo menos cinco anos contados da data do envio do relatório;\nd)  Uma cópia do retorno de informação fornecido pela UIF em resposta aos relatórios sobre transacções suspeitas durante cinco anos a contar do recebimento dessa informação.\n2.   A autoridade de supervisão competente pode, através de regulamentos ou ordens internas, determinar o tipo e extensão das medidas a ser tomadas para cumprimento das obrigações estabelecidas no presente artigo pelas instituições financeiras, tendo em consideração o risco de branqueamento de capitais e de financiamento do terrorismo e o volume de negócios."
+   }
+  },
+  {
+   "id": "TL-H117-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II PREVENÇÃO / SECÇÃO II DEVERES  DAS  INSTITUIÇÕES  FINANCEIRAS"
+   },
+   "heading": {
+    "pt": "Prevenção do branqueamento de capitais e financiamento do"
+   },
+   "text": {
+    "pt": "terrorismo nas entidades financeiras e não financeiras\n1.    As entidades referidas no artigo 3.º desenvolvem programas destinados à prevenção do branqueamento de capitais e do financiamento de terrorismo que incluam:\na)  Directrizes, procedimentos e controlos internos, incluindo dispositivos apropriados para verificar o seu cumprimento e procedimentos adequados para assegurar critérios exigentes  de contratação de empregados;\nb)   Formação contínua para chefias e empregados de forma a melhorar a identificação de transacções e acções que possam estar ligadas ao branqueamento de capitais ou ao financiamento do terrorismo e instruí-los quanto aos procedimentos a adoptar em tais casos;\nc)   Regulamentos de auditoria interna para verificar a conformidade e adequação dos programas internos com as medidas estabelecidas na lei.\n3.  A autoridade de supervisão competente pode emitir orientações relativas ao tipo e extensão das medidas adequadas ao cumprimento das disposições do presente artigo, tendo em consideração o risco de branqueamento de capitais e de financiamento de terrorismo."
+   }
+  },
+  {
+   "id": "TL-H117-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II PREVENÇÃO / SECÇÃO II DEVERES  DAS  INSTITUIÇÕES  FINANCEIRAS"
+   },
+   "heading": {
+    "pt": "Cumprimento das obrigações por subsidiárias e filiais"
+   },
+   "text": {
+    "pt": "1.  As instituições financeiras devem requerer que as suas subsidiárias e filiais no estrangeiro cumpram o disposto nos artigos 10.º a 16.º, na medida em que as leis e regulamentos locais o permitam.\n2.  Se as leis e os regulamentos locais não permitirem o cumprimento do previsto no número anterior, as entidades financeiras devem informar as autoridades de supervisão competentes."
+   }
+  },
+  {
+   "id": "TL-H117-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II PREVENÇÃO / SECÇÃO II DEVERES  DAS  INSTITUIÇÕES  FINANCEIRAS"
+   },
+   "heading": {
+    "pt": "Casinos"
+   },
+   "text": {
+    "pt": "Os casinos apenas podem operar depois de devidamente licenciados pela autoridade competente, nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H117-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II PREVENÇÃO / SECÇÃO II DEVERES  DAS  INSTITUIÇÕES  FINANCEIRAS"
+   },
+   "heading": {
+    "pt": "Organizações sem fins lucrativos"
+   },
+   "text": {
+    "pt": "Qualquer organização sem fins lucrativos que recolha, receba, conceda ou transfira fundos como parte da sua actividade fica sujeita à supervisão do Ministério das Finanças, que pode aprovar regulamentos para assegurar que estas organizações não sejam de qualquer forma utilizadas para fins de branqueamento de capitais ou financiamento do terrorismo."
+   }
+  },
+  {
+   "id": "TL-H117-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DETECÇÃO  DO  BRANQUEAMENTO  DE  CAPITAIS  E DO  FINANCIAMENTO  DE  TERRORISMO / SECÇÃO I FUNÇÕES  E  DEVERES  DA  UIF"
+   },
+   "heading": {
+    "pt": "Confidencialidade"
+   },
+   "text": {
+    "pt": "1.   Todos os funcionários e agentes da UIF estão sujeitos a um especial dever de confidencialidade em relação a qualquer informação obtida no âmbito ou por causa das suas funções, mesmo depois da cessação dessas funções, só podendo tal informação ser usada para os fins previstos na presente lei.\n2. A violação do disposto no número anterior gera responsabilidade disciplinar e criminal, nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H117-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DETECÇÃO  DO  BRANQUEAMENTO  DE  CAPITAIS  E DO  FINANCIAMENTO  DE  TERRORISMO / SECÇÃO I FUNÇÕES  E  DEVERES  DA  UIF"
+   },
+   "heading": {
+    "pt": "Acesso à informação"
+   },
+   "text": {
+    "pt": "1.    A UIF pode solicitar a qualquer entidade ou pessoa sujeita à obrigação de informar, nos termos do artigo 22.º, qualquer informação adicional que julgue necessária à realização das suas funções.\n2.   A UIF pode aceder a informação em local que pertença ou esteja sob a custódia das entidades referidas no artigo 3.º, que seja necessária para a realização das suas funções, mediante prévia autorização judicial, nos termos previstos na legislação processual penal.\n3.   A aplicação dos anteriores números 1 e 2 encontra-se sujeita às restrições constantes do n.º 2 do Artigo 23.º.\n4.   A UIF pode ainda solicitar qualquer informação adicional que julgue útil para a realização das suas funções,\na)   Às autoridades policiais;\nb)   Às autoridades de supervisão;\nc)   A outros serviços do Estado; e\nd)   Nos termos das disposições aplicáveis, às autoridades judiciárias."
+   }
+  },
+  {
+   "id": "TL-H117-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DETECÇÃO  DO  BRANQUEAMENTO  DE  CAPITAIS  E DO  FINANCIAMENTO  DE  TERRORISMO / SECÇÃO I FUNÇÕES  E  DEVERES  DA  UIF"
+   },
+   "heading": {
+    "pt": "Violação da obrigação de informar"
+   },
+   "text": {
+    "pt": "As autoridades de supervisão competentes são informadas pela UIF do não cumprimento pelas entidades referidas no\nartigo 3.º das obrigações previstas nos nºs 1 e 2 do artigo 21.º."
+   }
+  },
+  {
+   "id": "TL-H117-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DETECÇÃO  DO  BRANQUEAMENTO  DE  CAPITAIS  E DO  FINANCIAMENTO  DE  TERRORISMO / SECÇÃO II TRANSACÇÕES  SUSPEITAS"
+   },
+   "heading": {
+    "pt": "Dever de comunicação"
+   },
+   "text": {
+    "pt": "1.   Existindo fundadas suspeitas de que certos fundos ou bens são produto de actividades criminosas, ou estão relacionados ou que vão ser utilizados para o financiamento do terrorismo, ou tenham conhecimento de um facto ou de uma actividade que possa indiciar a prática do crime de branqueamento de capitais ou de financiamento do terrorismo, as entidades referidas no artigo 3.º devem comunicá-lo de imediato à UIF, mediante relatório, nos termos do artigo 25º, ainda que se trate de tentativa de realização de uma transacção.\n2.    Os advogados, consultores jurídicos e outros profissionais jurídicos independentes não estão obrigados a comunicar à UIF informação recebida de um cliente, ou no exercício de defesa ou representação desse cliente, inclusivamente nos casos em que se trate de conselhos relativos à forma de instaurar ou evitar um processo judicial, quer a informação tenha sido recebida antes, durante ou depois do processo.\n3.  Os comerciantes de pedras e metais preciosos devem informar a UIF sobre transacções suspeitas de valor igual ou superior a 10.000,00 dólares norte-americanos.\n4.   As agências imobiliárias e os corretores imobiliários devem informar a UIF de operações suspeitas quando envolvidos em transacções de compra e venda e à compra para revenda em nome de um cliente."
+   }
+  },
+  {
+   "id": "TL-H117-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DETECÇÃO  DO  BRANQUEAMENTO  DE  CAPITAIS  E DO  FINANCIAMENTO  DE  TERRORISMO / SECÇÃO II TRANSACÇÕES  SUSPEITAS"
+   },
+   "heading": {
+    "pt": "Suspensão de transacções"
+   },
+   "text": {
+    "pt": "1.  As entidades referidas no artigo 3.º devem abster-se de realizar transacções que suspeitem estar relacionadas com o branqueamento de capitais ou o financiamento do terrorismo, comunicando as suas suspeitas à UIF.\n2.    A UIF pode solicitar ao Ministério Público a suspensão da transacção por um período não superior a 3 dias úteis, sempre que tal se justifique nos termos da presente lei.\n3.    Nos casos em que não seja possível evitar a realização da transacção referida no n.º 1, as instituições financeiras comunicam à UIF aquela transacção bem como todas as informações sobre os ordenantes e beneficiários efectivos."
+   }
+  },
+  {
+   "id": "TL-H117-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DETECÇÃO  DO  BRANQUEAMENTO  DE  CAPITAIS  E DO  FINANCIAMENTO  DE  TERRORISMO / SECÇÃO II TRANSACÇÕES  SUSPEITAS"
+   },
+   "heading": {
+    "pt": "Proibição de divulgação de informação confidencial"
+   },
+   "text": {
+    "pt": "As entidades referidas no artigo 3.º, bem como os seus funcionários e agentes não podem divulgar ou de qualquer forma facultar informação que tenham prestado ou se preparem para prestar à UIF, bem como informações sobre a investigação pela prática dos crimes de branqueamento de capitais e financiamento de terrorismo."
+   }
+  },
+  {
+   "id": "TL-H117-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DETECÇÃO  DO  BRANQUEAMENTO  DE  CAPITAIS  E DO  FINANCIAMENTO  DE  TERRORISMO / SECÇÃO II TRANSACÇÕES  SUSPEITAS"
+   },
+   "heading": {
+    "pt": "Denúncia obrigatória"
+   },
+   "text": {
+    "pt": "A UIF comunica à Procuradoria-Geral da República toda a informação relevante sempre que disponha de indícios da prática de crime, a fim de ser instaurado o procedimento adequado."
+   }
+  },
+  {
+   "id": "TL-H117-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III SUPERVISÃO  E  REGIME  SANCIONATÓRIO / SECÇÃO I AUTORIDADES  DE  SUPERVISÃO"
+   },
+   "heading": {
+    "pt": "Funções e Competências"
+   },
+   "text": {
+    "pt": "1.    As autoridades de supervisão competentes asseguram o cumprimento pelas instituições financeiras e actividades e profissões não financeiras dos requisitos estabelecidos no Capítulo II da presente lei.\n2.  Nos termos da presente lei, as autoridades de supervisão podem:\na)  Adoptar as medidas necessárias para estabelecer critérios adequados de idoneidade e reputação para a posse, controlo, ou participação, directa ou indirecta, na administração, gestão ou actividades de uma instituição financeira ou de um casino;\nb)  Regular e supervisionar as instituições financeiras e casinos no cumprimento das obrigações referidas nos Capítulos II e III, podendo proceder a realização de auditorias no local;\nc)  Emitir instruções, directrizes ou recomendações que garantam o cumprimento pelas instituições financeiras e actividades e profissões não financeiras das obrigações  constantes dos Capítulos II e III;\nd)   Cooperar e partilhar informação com outras autoridades competentes, e facultar assistência em investigações e procedimentos ou processos judiciais relativos aos casos de branqueamento de capitais, crimes subjacentes e financiamento do terrorismo;\ne)   Assegurar que as instituições financeiras, as suas filiais e sucursais, que sejam detidas maioritariamente por estrangeiros, adoptam e aplicam medidas adequadas ao cumprimento da presente lei;\nf)   Informar de imediato a UIF de quaisquer transacções suspeitas ou factos que possam estar relacionados com o branqueamento de capitais ou o financiamento do terrorismo;\ng)   Promover a cooperação com as autoridades homólogas estrangeiras, nos termos da lei ;\nh)   Manter estatísticas relativas às medidas adoptadas e sanções impostas no âmbito do presente Capítulo."
+   }
+  },
+  {
+   "id": "TL-H117-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III SUPERVISÃO  E  REGIME  SANCIONATÓRIO / SECÇÃO I AUTORIDADES  DE  SUPERVISÃO"
+   },
+   "heading": {
+    "pt": "Disposições especiais sobre remessas de dinheiro"
+   },
+   "text": {
+    "pt": "ou serviços de transferência de valores Qualquer pessoa ou entidade que pretenda ocupar-se, a título profissional, de serviços de remessa ou transferência de dinheiro ou valores deve solicitar a respectiva inscrição junto do Banco Central de Timor-Leste, que deve estabelecer as condições mínimas do exercício desta actividade."
+   }
+  },
+  {
+   "id": "TL-H117-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III SUPERVISÃO  E  REGIME  SANCIONATÓRIO / SECÇÃO I AUTORIDADES  DE  SUPERVISÃO"
+   },
+   "heading": {
+    "pt": "Registo de outras actividades e profissões não financeiras"
+   },
+   "text": {
+    "pt": "O exercício de actividade ou profissão não financeiras está sujeito a registo, nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H117-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III SUPERVISÃO  E  REGIME  SANCIONATÓRIO / SECÇÃO II REGIME  SANCIONATÓRIO"
+   },
+   "heading": {
+    "pt": "Contra-Ordenações"
+   },
+   "text": {
+    "pt": "O incumprimento das obrigações ou deveres ou a inobservância dos procedimentos estabelecidos nos Capítulos II e III da presente lei constitui contra-ordenação."
+   }
+  },
+  {
+   "id": "TL-H117-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III SUPERVISÃO  E  REGIME  SANCIONATÓRIO / SECÇÃO II REGIME  SANCIONATÓRIO"
+   },
+   "heading": {
+    "pt": "Sanções administrativas"
+   },
+   "text": {
+    "pt": "1.  As contra-ordenações previstas no artigo anterior são punidas com coima entre 5.000,00 e 500.000,00 dólares norteamericanos.\n2.    A lei define a competência para a instauração e instrução do processo contra - ordenacional bem como para a aplicação de coimas às entidades referidas no artigo 3.º.\n3.    A infracção das obrigações estabelecidas nos Capítulos II e III da presente lei pelas entidades referidas no artigo 3.º pode dar lugar à aplicação pela autoridade competente de uma ou várias das seguintes sanções acessórias:\na)   Advertência escrita;\nb)   Ordenar o cumprimento de instruções específicas;\nc)   Ordenar a apresentação de relatórios regulares sobre as medidas que estão a ser aplicadas;\nd)  Proibir o exercício de funções profissionais por um período de 6 meses a 3 anos;\ne)  Substituir ou restringir os poderes de gerentes, directores ou proprietários em controlo, incluindo a nomeação de um administrador ad hoc por um período de 6 meses a 3 anos;\nf)   Suspender, restringir ou retirar a licença e proibir a continuação da actividade ou profissão por um período de 6 meses a 3 anos .\n3.     As sanções que proíbam, total ou parcialmente, os gerentes ou administradores de uma pessoas colectiva, total ou parcialmente de realizarem negócios nos termos do n.º 3 do presente artigo, bem como o levantamento de tais proibições, são comunicadas pela autoridade competente à Direcção Nacional de Registos e Notariado para efeitos de inscrição no registo comercial."
+   }
+  },
+  {
+   "id": "TL-H117-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III SUPERVISÃO  E  REGIME  SANCIONATÓRIO / SECÇÃO II REGIME  SANCIONATÓRIO"
+   },
+   "heading": {
+    "pt": "Violação dos deveres por parte das entidades financeiras e não financeiras"
+   },
+   "text": {
+    "pt": "1.   Comete uma infracção, punível com coima entre 250,00 e\n150.000,00 dólares norte-americanos, no caso de pessoas singulares, e entre 1.250,00 e 750.000,00 dólares norteamericanos, no caso das pessoas colectivas, quem com dolo ou negligência:\na)   Não declarar moeda corrente ou instrumentos negociáveis ao portador em montante igual ou superior a\n10.000,00 dólares norte-americanos ou o equivalente em moeda com curso legal ou que apresente uma declaração falsa;\nb)  Iniciar ou manter relações comerciais com entidades bancárias ou financeiras que se encontrem sedeadas ou sejam filiais de entidades sedeadas em país ou território não sujeito a supervisão eficaz e consolidada.\nc)  Iniciar ou manter relações comerciais com entidade financeira correspondente num país estrangeiro onde seja permitida a utilização das suas contas através de bancos de fachada.\nd)   Estabelecer em Timor-Leste um banco sem que no território nacional mantenha presença física e que não seja filial de um grupo financeiro regulado;\ne)   Não mantiver informação adequada, precisa e actual sobre o beneficiário efectivo e a estrutura de controlo das pessoas colectivas e centros de interesses colectivos sem personalidade jurídica nos termos da presente lei;\nf)  Não exigir a identificação dos clientes e não aplicar medidas adequadas de gestão de risco tal como estabelecido nos termos da presente lei;\ng)   Não adoptar as medidas de controlo e não mantiver os registos previstos na presente lei;\nh)   Não facultar o acesso à informação ou aos registos de forma oportuna quando o mesmo seja solicitado pela autoridade competente, nos termos da lei;\n(i)   Não submeter relatórios à UIF nos termos do previsto no artigo 23.º;\nj)    Não recusar a realização de uma transacção quando tal seja exigido nos termos do artigo 24.º;\nk)   Divulgar a um cliente ou a terceira pessoa a informação referida no artigo 25.º.\n2.    Às pessoas singulares que violem um dos deveres descritos no número anterior pode ainda ser aplicada a sanção acessória de proibição do exercício da actividade ou profissão por um período de 6 meses a 3 anos.\n3.  As sanções impostas pela violação dos nºs 1 e 2 não prejudicam a aplicação de outras sanções e de medidas previstas na lei.\n4.  A aplicação de qualquer das sanções previstas no n.º 1 depende de prévio processo de averiguações, garantindose o direito ao contraditório e à defesa."
+   }
+  },
+  {
+   "id": "TL-H117-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV INVESTIGAÇÃO  E  SEGREDO  PROFISSIONAL / SECÇÃO I INVESTIGAÇÃO"
+   },
+   "heading": {
+    "pt": "Técnicas especiais de investigação"
+   },
+   "text": {
+    "pt": "1.  Com a finalidade de obter provas de branqueamento de capitais ou de financiamento do terrorismo e localizar os produtos do crime, as autoridades judiciais podem ordenar, por um período determinado:\na)  O controlo de contas bancárias e de outras contas semelhantes;\nb)   O acesso a sistemas de computadores, redes informáticas e servidores;\nc)   A colocação de comunicação sob vigilância ou a sua interceptação;\nd)   A gravação auditiva ou de vídeo ou a recolha de fotografias de actos ou conversações;\ne)   A intercepção de correspondência.\n2.   Estas técnicas estão sujeitas à autorização da autoridade judicial competente e só podem ser utilizadas quando existam fundadas suspeitas que tais contas, linhas de telefone, sistemas de computador e redes informáticas ou documentos, são ou podem ser utilizados por pessoas suspeitas de participar em actividades de branqueamento de capitais e de financiamento do terrorismo, e estão sujeitas ao cumprimento dos requisitos estabelecidos nos artigos 168.º a 180.º do Código de Processo Penal."
+   }
+  },
+  {
+   "id": "TL-H117-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV INVESTIGAÇÃO  E  SEGREDO  PROFISSIONAL / SECÇÃO I INVESTIGAÇÃO"
+   },
+   "heading": {
+    "pt": "Ocultação da identidade e protecção da testemunha"
+   },
+   "text": {
+    "pt": "1.  O Juiz pode, por sua própria iniciativa ou a pedido do Ministério Público ou da própria testemunha, determinar que:\na)   A identidade não seja incluída no auto de declarações se houver fundados receios de que a testemunha pode sofrer graves danos se for revelada a sua identidade;\nb)   A identidade de uma testemunha seja mantida em segredo se se concluir que a testemunha, um seu familiar ou um dos seus associados podem correr riscos por causa do seu testemunho.\n2.  A identidade da testemunha só será ocultada se a investigação do crime assim o requerer e os outros métodos de investigação se revelem inadequados para a descoberta da verdade.\n3.   No caso previsto no n.º 1, as declarações são prestadas nos termos do artigo 230.º do Código de Processo Penal ou por vídeo-conferência, com ocultação da fisionomia da testemunha.\n4.   As declarações referidas no número anterior são sempre prestadas na ausência do arguido, nos termos do n.º 1 do\nartigo 76.º do Código de Processo Penal.\n5.   O disposto no presente artigo não prejudica o previsto no Código de Processo Penal e na Lei n.º 2/2009 de 6 de Maio sobre protecção de testemunhas."
+   }
+  },
+  {
+   "id": "TL-H117-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V MEDIDAS / SECÇÃO I MEDIDAS  PROVISÓRIAS  E  DEFINITIVAS"
+   },
+   "heading": {
+    "pt": "Medidas provisórias"
+   },
+   "text": {
+    "pt": "1.   O tribunal pode, por sua própria iniciativa, ou a pedido do Ministério Público, impor medidas provisórias incluindo o congelamento ou a apreensão, com a intenção de preservar a disponibilidade de fundos ou bens que possa vir a estar sujeitos a perda nos termos  do artigo 43.º.\n2.   O disposto no número anterior aplica-se sem prejuízo dos direitos de terceiros de boa-fé.\n3.   A aplicação destas medidas pode terminar a qualquer momento por ordem do tribunal que as ordenou, por sua própria iniciativa ou a pedido do Ministério Público, ou das pessoas que reivindicam o direito de propriedade dos fundos ou bens."
+   }
+  },
+  {
+   "id": "TL-H117-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V MEDIDAS / SECÇÃO I MEDIDAS  PROVISÓRIAS  E  DEFINITIVAS"
+   },
+   "heading": {
+    "pt": "Congelamento de bens associados com o financiamento do terrorismo"
+   },
+   "text": {
+    "pt": "1.  Os fundos e outros activos económicos de terroristas, daqueles que financiam o terrorismo e das organizações terroristas designadas pelo Conselho de Segurança das Nações Unidas, nos termos do Capítulo VII da Carta das Nações Unidas, ou designadas na Resolução nº. 1373 (2001), do Conselho de Segurança das Nações Unidas ou de Resoluções subsequentes, devem ser congelados de acordo com as instruções do Banco Central ou por outra forma que a lei preveja.\n2.   As instruções referidas no número anterior devem definir os termos, condições e limites do prazo de congelamento de bens e são publicadas no Jornal da República.\n3.   As entidades referidas no artigo 3.º onde tais fundos e outros activos económicos se encontrem devem proceder de imediato ao seu congelamento.\n4.  As entidades referidas no artigo 3.º devem informar de imediato a UIF e, no caso de instituições financeiras reguladas pelo Banco Central, também esta entidade, da existência de capitais ligados a terroristas, organizações terroristas ou indivíduos ou entidades associadas ou aquelas que pertencem a tais indivíduos ou organizações conforme as listas elaboradas pelo Conselho de Segurança das Nações Unidas ou na Resolução nº. 1373 (2001) do Conselho de Segurança das Nações Unidas ou outras Resoluções subsequentes.\n5.   O incumprimento das obrigações referidas nos números anteriores pelas entidades referidas no artigo 3.º, onde tais fundos e outros activos económicos se encontrem é punida com coima entre 500,00 e 5.000,00 dólares norte-americanos por dia.\n6.   Qualquer pessoa ou organização cujos fundos ou outros activos económicos sejam congelados nos termos do presente artigo pode requerer que o seu nome seja retirado da lista bem como a restituição de fundos ou outros activos económicos, ao Banco Central ou à autoridade competente que ordenou o congelamento, nos 30 dias subsequentes à publicação da lista.\n7.    Da decisão que negue provimento à exclusão da lista ou à devolução dos fundos ou outros activos económicos cabe recurso para os tribunais."
+   }
+  },
+  {
+   "id": "TL-H117-A37",
+   "no": 37,
+   "noLabel": {
+    "pt": "Artigo 37.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V MEDIDAS / SECÇÃO II CRIMES"
+   },
+   "heading": {
+    "pt": "Branqueamento de capitais"
+   },
+   "text": {
+    "pt": "O branqueamento de capitais constitui crime e é punível nos termos do artigo 313.º do Código Penal."
+   }
+  },
+  {
+   "id": "TL-H117-A38",
+   "no": 38,
+   "noLabel": {
+    "pt": "Artigo 38.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V MEDIDAS / SECÇÃO II CRIMES"
+   },
+   "heading": {
+    "pt": "Financiamento de terrorismo"
+   },
+   "text": {
+    "pt": "O financiamento do terrorismo constitui crime e é punível nos termos do artigo 133.º do Código Penal."
+   }
+  },
+  {
+   "id": "TL-H117-A39",
+   "no": 39,
+   "noLabel": {
+    "pt": "Artigo 39.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V MEDIDAS / SECÇÃO II CRIMES"
+   },
+   "heading": {
+    "pt": "Circunstâncias agravantes do crime de branqueamento de capitais"
+   },
+   "text": {
+    "pt": "1.    As penas previstas no artigo 313º do Código Penal podem ser aumentadas de um terço nos seus limites mínimo e máximo, nos termos da lei penal:\na)   Se ao crime subjacente for aplicável pena de prisão que exceda o limite máximo previsto nos artigos anteriores;\nb)   Se o crime é cometido no exercício de actividade comercial ou económica;\nc)   Se o crime é cometido no âmbito das actividades de um grupo criminoso organizado;\nd)   Se a quantia objecto de branqueamento é superior a\n500.000,00 dólares norte-americanos;\ne)  Se a intenção for a de promover a continuação da actividade criminal.\n8.  Da aplicação do disposto no número anterior não pode resultar condenação em pena superior a 25 anos."
+   }
+  },
+  {
+   "id": "TL-H117-A40",
+   "no": 40,
+   "noLabel": {
+    "pt": "Artigo 40.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V MEDIDAS / SECÇÃO II CRIMES"
+   },
+   "heading": {
+    "pt": "Circunstâncias agravantes do financiamento de terrorismo"
+   },
+   "text": {
+    "pt": "1.    As penas previstas no artigo 133.º do Código Penal podem ser podem ser aumentadas de um terço nos seus limites mínimo e máximo, nos termos da lei penal:\na)   Se o crime for cometido no exercício de actividade comercial ou económica;\nb)   Se o crime é cometido no âmbito das actividades de um grupo criminoso organizado.\n9.  Da aplicação do disposto no número anterior não pode resultar condenação em pena superior a 25 anos."
+   }
+  },
+  {
+   "id": "TL-H117-A41",
+   "no": 41,
+   "noLabel": {
+    "pt": "Artigo 41.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V MEDIDAS / SECÇÃO II CRIMES"
+   },
+   "heading": {
+    "pt": "Circunstâncias atenuantes"
+   },
+   "text": {
+    "pt": "1.  As disposições constantes da lei penal em relação a circunstâncias atenuantes aplicam-se aos crimes previstos na presente lei.\n2.   As penas previstas nos artigos 313.º e 133.º do Código Penal podem ser especialmente atenuadas nos termos do\nartigo 57.º do Código Penal se o autor do crime prestar às autoridades judiciais informações que permitam:\na)   Prevenir ou limitar os efeitos do crime;\nb)   Identificar, perseguir ou acusar outros agentes do crime;\nc)   Obter provas;\nd)   Impedir a prática de outros crimes de branqueamento de capitais ou de financiamento do terrorismo;\ne)   Privar grupos criminosos organizados dos seus recursos ou dos proventos do crime."
+   }
+  },
+  {
+   "id": "TL-H117-A42",
+   "no": 42,
+   "noLabel": {
+    "pt": "Artigo 42.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V MEDIDAS / SECÇÃO II CRIMES"
+   },
+   "heading": {
+    "pt": "Responsabilidade das pessoas colectivas"
+   },
+   "text": {
+    "pt": "1.  Qualquer pessoa colectiva por conta de quem ou para quem o beneficio do branqueamento de capitais ou através de quem o financiamento do terrorismo foi cometido, por intermédio de pessoa singular, actuando individualmente ou como membro de um órgão da pessoa colectiva, que aí tenha uma posição principal, baseada no poder de representação dessa pessoa colectiva,  ou autoridade para tomar decisões em nome da pessoa colectiva, ou que exerça controlo no âmbito da pessoa colectiva, no exercício de tais poderes, é punida com multa em montante até cinco vezes o valor da quantia branqueada, independentemente da condenação destes indivíduos como agentes ou cúmplices na prática do crime.\n2.   Além dos casos previstos no número anterior , uma pessoa colectiva pode ser responsabilizada quando, por falta de supervisão ou controlo, tornou possível a prática dos crimes de branqueamento de capitais ou de financiamento do terrorismo em seu benefício e através de pessoa singular que tenha actuado sob a sua autoridade.\n3.  Às pessoas colectivas podem ainda ser aplicadas as seguintes sanções acessórias:\na)   Impedimento, por um período de seis meses a três anos, de continuar a exercer directa ou indirectamente certas actividades económicas:\nb)   Colocação sob supervisão judicial;\nc)   Encerramento das actividades que serviram para a prática do crime por um período entre seis meses a três anos;\nd)   Sujeição a processo de dissolução;\ne)   Publicação da sentença condenatória a suas expensas."
+   }
+  },
+  {
+   "id": "TL-H117-A43",
+   "no": 43,
+   "noLabel": {
+    "pt": "Artigo 43.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V MEDIDAS / SECÇÃO III MEDIDAS  DEFINITIVAS"
+   },
+   "heading": {
+    "pt": "Perda a favor do Estado"
+   },
+   "text": {
+    "pt": "1.   São declarados perdidos a favor do Estado:\na)   Proventos do crime, capitais e bens, ou outros bens de valor equivalente;\nb)   Fundos e propriedade objecto do crime;\nc)   Instrumentos do crime;\nd)  Fundos ou bens com os quais o produto do crime tenha sido misturado.\n2.  As medidas referidas no número anterior podem ser aplicadas a qualquer pessoa proprietária dos bens, ou que se encontre na sua posse, com excepção dos casos em que o proprietário possa provar que os adquiriu através do pagamento do um preço justo, em troca da prestação de serviços de igual valor ou por qualquer outro meio legítimo e prove que não tinha conhecimento da origem ilícita dos mesmos.\n3.  A decisão identifica os bens, fundos e propriedades em questão de forma que permita a sua  identificação e localização."
+   }
+  },
+  {
+   "id": "TL-H117-A44",
+   "no": 44,
+   "noLabel": {
+    "pt": "Artigo 44.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V MEDIDAS / SECÇÃO III MEDIDAS  DEFINITIVAS"
+   },
+   "heading": {
+    "pt": "Invalidade de negócios jurídicos"
+   },
+   "text": {
+    "pt": "1.   O tribunal declara a invalidade de qualquer negócio jurídico,"
+   }
+  }
+ ]
+}

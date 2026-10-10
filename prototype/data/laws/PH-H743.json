@@ -1,0 +1,74 @@
+{
+ "id": "PH-H743",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Twenty-eight of Republic Act Numbered Four Hundred Nine, Known as the Revised Charter of the City of Manila",
+  "orig": "An Act to Amend Section Twenty-eight of Republic Act Numbered Four Hundred Nine, Known as the Revised Charter of the City of Manila"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p10",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1953-06-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 900",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1748,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1953/ra_900_1953.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1953/ra_900_1953.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 28 条，缺 3、4、5、6、7、8、9、10、11、12、13、14、15、16、17、18、19、20、21、22、23、24、25、26、27）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H743-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section twenty-eight of Republic Act Numbered Four hundred nine, known as the Revised Charter of the City of Manila, is hereby amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H743-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "text": {
+    "en": "The Bureau of Public Schools. —The Director of Public Schools shall exercise the same jurisdiction and powers in the city as elsewhere in the Philippines, and the city superintendent of schools shall have all the powers and duties in respect to the schools of the city as are vested in division superintendents in respect to the schools of their divisions.\n\"The Municipal Board shall have the same powers in respect to the establishment of schools in Manila as are conferred by law on municipal councils.\n\"The clerical force and assistants and laborers in the Office of the Superintendent of City Schools shall be paid by the city, as well as the office expenses for supplies and materials incident to carrying on said office. The Municipal Board may provide for additional compensations for the Superintendent of City Schools and for other national school officials, teachers and employees in the Division of City Schools so that the Superintendent of City Schools may have a total salary equal to that of a city Department Head of the same importance and the salaries of all other officials and employees in the Division of City Schools performing similar duties and rendering the same kind and amount of work in the city may be equalized. For purposes of Republic Act Numbered Six hundred sixty, the combined salaries received from the National Government and from the city by the Superintendent of City Schools and other national officials, teachers1 and employees in his office shall be considered as their base pay.\""
+   }
+  },
+  {
+   "id": "PH-H743-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
+   }
+  }
+ ]
+}

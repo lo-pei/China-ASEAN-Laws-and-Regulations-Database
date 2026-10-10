@@ -1,0 +1,1178 @@
+{
+ "id": "SG-H850",
+ "title": {
+  "zh": null,
+  "en": "Copyright (Collective Management Organisations) Regulations 2023",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p11",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CA2021-S704-2023",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 71,
+ "chars": 47943,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CA2021-S704-2023?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 71 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H850-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Copyright (Collective Management Organisations) Regulations 2023 and come into operation on 1 May 2024."
+   }
+  },
+  {
+   "id": "SG-H850-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations —\n“cessation order” means a cessation order made under section 465;\n“CMO” has the meaning given by section 459 as modified by regulation 4;\n“exclusive”, in relation to a membership agreement between a CMO and a member, means a membership agreement under which —\n(a)the CMO becomes the rights owner of the member’s portfolio;\n(b)the CMO is granted an exclusive licence or exclusive authority (as the case may be) to give permission to use the member’s portfolio;\n(c)the CMO becomes the exclusive agent of the member in managing the member’s portfolio; or\n(d)the CMO is granted other exclusive rights in relation to the management of the member’s portfolio,\nand “non-exclusive” has a corresponding meaning;\n“financial penalty” means a financial penalty imposed under section 463;\n“financial year”, in relation to a CMO, means a financial year of the CMO;\n“key officer”, in relation to a CMO, means an individual who —\n(a)is or purports to be involved in the management of the business of the CMO; or\n(b)sits or purports to sit on the board of directors, executive committee or any other management committee of the CMO;\n“members”, in relation to a CMO, has the meaning given by regulation 3(2);\n“partner collecting society”, in relation to a CMO, has the meaning given by regulation 3(1)(a);\n“permission” has the meaning given by section 458;\n“portfolio” means —\n(a)in relation to a CMO — the works and performances collectively managed by the CMO (whether as the rights owner or with the authority of the rights owners) —\n(i)for the collective benefit of its members; or\n(ii)under a representation agreement; and\n(b)in relation to a member of a CMO — the works and performances managed by the CMO under the membership agreement between the CMO and the member;\n“regulatory action” means a financial penalty, regulatory direction or cessation order;\n“regulatory direction” means a direction given under section 464;\n“representation agreement” has the meaning given by regulation 3(1)(b);\n“tariff” means any sum (however named) paid to a CMO for permission to use the whole or any part of its portfolio, whether under a tariff scheme or otherwise;\n“user”, in relation to a CMO, means a person who has been granted permission by the CMO to use the whole or any part of the CMO’s portfolio, whether under a tariff scheme or otherwise;\n“website”, in relation to a CMO, means the website that the CMO is required to set up and maintain under regulation 37.\n(2) A reference to a section in these Regulations is a reference to a section of the Act."
+   }
+  },
+  {
+   "id": "SG-H850-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Meanings of “representation agreement” and “partner collecting society”; partner collecting societies not to be regarded as CMO members"
+   },
+   "text": {
+    "en": "3.—(1) In these Regulations —\n(a)“partner collecting society”, in relation to a CMO, means a person who is in a representation agreement with the CMO (whether as the authorising party or the authorised party); and\n(b)“representation agreement” means an agreement under which party X (the authorising party), who is managing the use of works or performances on behalf of other persons, authorises party Y (the authorised party) to manage the use of those works or performances.\n(2) In these Regulations, “members”, in relation to a CMO, means the authors, makers, publishers, performers and rights owners mentioned in section 459(1)(c)(ii), but not —\n(a)the CMO itself;\n(b)the CMO’s partner collecting societies; and\n(c)the authors, makers, publishers, performers and rights owners whose works or performances are managed by the CMO only by virtue of a representation agreement."
+   }
+  },
+  {
+   "id": "SG-H850-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 DEFINITION OF COLLECTIVE MANAGEMENT ORGANISATION"
+   },
+   "heading": {
+    "en": "Excluded persons"
+   },
+   "text": {
+    "en": "4.—(1) This regulation prescribes excluded persons for the purposes of section 459(1)(f).\n(2) An entity is an excluded person if —\n(a)the entity provides a subscription service that primarily provides a subscriber with access to digital content on demand; and\n(b)but for providing that service, the entity would not be a collective management organisation under section 459(1)(a) to (e).\n(3) An entity is an excluded person if —\n(a)the entity is part of a group;\n(b)the entity manages a set of works or performances exclusively for the entities in that group;\n(c)every rights owner for that set of works or performances is an entity in that group; and\n(d)but for managing that set of works or performances, the entity would not be a collective management organisation under section 459(1)(a) to (e).\n(4) For the purposes of paragraph (3) —\n(a)2 or more entities are part of a group if all of them are substantially linked to one another;\n(b)X and Y are substantially linked if X controls 75% or more of the voting power in Y; and\n(c)if X is (including by one or more applications of this paragraph) substantially linked to Y and Y is substantially linked to Z, then X is also substantially linked to Z."
+   }
+  },
+  {
+   "id": "SG-H850-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Establishment of class licence"
+   },
+   "text": {
+    "en": "5.—(1) A single class licence is established for all entities carrying on business as CMOs.\n(2) This Part prescribes the conditions of the class licence.\n(3) To avoid doubt, individuals are not licensed to carry on business as CMOs."
+   }
+  },
+  {
+   "id": "SG-H850-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "CMO must offer non-exclusive membership"
+   },
+   "text": {
+    "en": "6. A CMO must not enter into an exclusive membership agreement with a person unless the CMO has, before entering into the agreement —\n(a)given a written explanation to the person —\n(i)that the person has the option of entering into a membership agreement that is non‑exclusive but otherwise on the same terms; and\n(ii)of the consequences of entering into the exclusive membership agreement; and\n(b)offered to the person an opportunity to enter into a membership agreement that is non‑exclusive but otherwise on the same terms."
+   }
+  },
+  {
+   "id": "SG-H850-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Membership must be based on written agreement"
+   },
+   "text": {
+    "en": "7.—(1) A CMO must not accept a person as a member without entering into a written membership agreement with the person, which agreement must comply with this Division.\n(2) Any amendment to the membership agreement must be made in writing.\n(3) The CMO must give a person (being a member) a copy of the person’s membership agreement —\n(a)when the person first becomes a member; or\n(b)within 7 days after the person makes a written request for a copy.\n(4) After any amendment to the membership agreement between a CMO and a member (but not after any amendment to the membership policy, the distribution policy or the dispute resolution policy), the CMO must give the member a copy of the amended membership agreement or the amended part of the membership agreement."
+   }
+  },
+  {
+   "id": "SG-H850-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Membership agreement to specify certain matters"
+   },
+   "text": {
+    "en": "8.—(1) The membership agreement must be clear about the works and performances that the CMO will manage under the membership agreement, for example —\n(a)by specifying the title or a description of each work or performance that the CMO will manage; or\n(b)if applicable, by specifying that the CMO will manage every work or performance of the member.\n(2) The membership agreement must specify the nature of the rights that the CMO will exercise over each work or performance that the CMO will manage under the agreement, including —\n(a)whether the CMO becomes the rights owner or is only acting with the authority of the member (being the rights owner);\n(b)the duration for which the rights are granted; and\n(c)if the CMO is only acting with the authority of the member — the scope of that authority.\n(3) The membership agreement must specify the conditions under which, and the process by which, the agreement may be terminated.\n(4) To avoid doubt, the membership agreement may provide for other matters that are not inconsistent with this Part."
+   }
+  },
+  {
+   "id": "SG-H850-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Membership agreement to incorporate membership, distribution and dispute resolution policies"
+   },
+   "text": {
+    "en": "9.—(1) The membership agreement must —\n(a)incorporate, by express reference, the CMO’s membership policy, distribution policy and dispute resolution policy; and\n(b)provide that those policies prevail over any inconsistent term of the membership agreement.\n(2) To avoid doubt, paragraph (1)(b) does not prevent a policy from providing, in accordance with regulation 17(b), 27(b) or 31(b) (as the case may be), that it is subject to a membership agreement."
+   }
+  },
+  {
+   "id": "SG-H850-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "CMO must establish membership policy"
+   },
+   "text": {
+    "en": "10.—(1) A CMO must establish a membership policy in accordance with this Division.\n(2) A CMO must comply with its membership policy so far as the policy gives effect to this Division.\n(3) To avoid doubt, paragraph (2) does not affect any remedy that a person may have against the CMO if the CMO does not comply with its membership policy."
+   }
+  },
+  {
+   "id": "SG-H850-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Members must approve amendments to membership policy"
+   },
+   "text": {
+    "en": "11. The membership policy must provide that —\n(a)it may only be amended by a general meeting of members; and\n(b)any amendment is void to the extent that it is inconsistent with these Regulations."
+   }
+  },
+  {
+   "id": "SG-H850-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Membership criteria"
+   },
+   "text": {
+    "en": "12. The membership policy must —\n(a)specify the criteria to be a member of the CMO; and\n(b)prohibit the CMO from accepting a person as a member except in accordance with those criteria."
+   }
+  },
+  {
+   "id": "SG-H850-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Specifying members’ rights to use, and waive tariff collection for, own portfolio"
+   },
+   "text": {
+    "en": "13. The membership policy must —\n(a)specify whether a member may continue to use the member’s portfolio and, if so —\n(i)specify the circumstances where the member may continue to use the member’s portfolio; and\n(ii)provide that any specified use is in addition to any other use permitted under the member’s membership agreement; and\n(b)specify whether the CMO may, with the authority of a member, waive the collection of tariffs for the use of the member’s portfolio and, if so, in what circumstances."
+   }
+  },
+  {
+   "id": "SG-H850-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Members may vary or terminate grants of rights to CMO"
+   },
+   "text": {
+    "en": "14.—(1) The membership policy —\n(a)must provide that a member has the right to vary or terminate the rights granted to the CMO in respect of the member’s portfolio, including by varying an exclusive membership agreement to become a non‑exclusive membership agreement;\n(b)must require a member to give notice (which must not be less than 3 months or more than 9 months) before exercising the right; and\n(c)must not provide for any other restriction on the right except as permitted by this regulation.\n(2) The membership policy must provide that, if the CMO has validly given permission to use a work or performance in a member’s portfolio —\n(a)the permission remains valid and binding on the member even if the member subsequently varies or terminates the rights granted to the CMO in respect of the work or performance; but\n(b)the member will cease to be bound by the permission when any of the following events happen:\n(i)18 months have passed after the variation or termination took effect;\n(ii)the permission (being limited in duration) expires;\n(iii)the permission is superseded by fresh permission given by the member to the user after the variation or termination took effect.\n(3) The membership policy must provide that, when a member gives notice to vary or terminate the rights granted to the CMO in relation to a work or performance in the member’s portfolio, the member must give to the CMO, in the notice of variation or termination, the member’s contact information for the purposes of this paragraph.\n(4) The CMO must, within 14 days after the date on which it received the member’s notice of termination or variation, send a written notice to every user who on that date had valid permission from the CMO to use the work or performance.\n(5) The CMO’s notice must state —\n(a)the nature of the variation or termination;\n(b)the date on which the variation or termination will take effect;\n(c)the title or a description of the work or performance;\n(d)the duration of the permission previously given by the CMO; and\n(e)the contact information of the member given under paragraph (3)."
+   }
+  },
+  {
+   "id": "SG-H850-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Members to be informed"
+   },
+   "text": {
+    "en": "15.—(1) The membership policy must provide for how the CMO deals with a request by a member for information.\n(2) The membership policy must require the CMO to inform each member about the following matters:\n(a)an amendment to the membership policy;\n(b)an amendment to the distribution policy;\n(c)an amendment to the dispute resolution policy;\n(d)changes to key officers of the CMO;\n(e)changes to the constitutional documents of the CMO;\n(f)a financial penalty imposed on the CMO or any of its officers;\n(g)a regulatory direction made against the CMO or any of its officers;\n(h)a cessation order made against the CMO;\n(i)the outcome of any reconsideration application or appeal relating to a financial penalty, regulatory direction or cessation order made against the CMO or any of its officers."
+   }
+  },
+  {
+   "id": "SG-H850-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Procedure for general meetings of members"
+   },
+   "text": {
+    "en": "16.—(1) The membership policy must provide for —\n(a)general meetings of members; and\n(b)the procedure for general meetings of members, which must comply with this regulation.\n(2) The procedure must require a general meeting of members to be called at least once every financial year.\n(3) The procedure —\n(a)must provide for the right of a member to call for a general meeting of members; and\n(b)may impose conditions on the exercise of the right (for example, by requiring notice or by providing that the right may only be exercised by members who collectively have a specified proportion of the total voting rights).\n(4) The procedure must specify the notice required for a proposed resolution at a general meeting of members.\n(5) The procedure must specify the quorum for a general meeting of members.\n(6) The procedure must allow a member to attend and vote in a general meeting of members by remote means, and may require a member to give notice for this purpose.\n(7) The procedure must provide for every member to have the right to vote at a general meeting of members, and may provide for different voting rights for different classes of members.\n(8) The procedure must provide for the method of voting at general meetings of members, and must in particular provide for voting by proxy (which may be subject to limits).\n(9) The procedure must provide that it may be amended by a general meeting of members and not otherwise.\n(10) To avoid doubt, the procedure may provide for any other matter that is necessary or expedient for the holding of general meetings of members."
+   }
+  },
+  {
+   "id": "SG-H850-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Other matters"
+   },
+   "text": {
+    "en": "17. The membership policy may —\n(a)provide for any other matter not inconsistent with this Part; and\n(b)provide that a membership agreement may derogate from the membership policy in respect of any matter —\n(i)for which provision is not required by this Division; and\n(ii)that the membership policy expressly specifies is subject to derogation."
+   }
+  },
+  {
+   "id": "SG-H850-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "CMO must distribute tariffs, etc., according to distribution policy"
+   },
+   "text": {
+    "en": "18.—(1) A CMO must establish a distribution policy in accordance with this Division.\n(2) A CMO must comply with its distribution policy so far as the policy gives effect to this Division.\n(3) To avoid doubt, paragraph (2) does not affect any remedy that a person may have against the CMO if the CMO does not comply with its distribution policy."
+   }
+  },
+  {
+   "id": "SG-H850-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Members must approve amendments to distribution policy"
+   },
+   "text": {
+    "en": "19. The distribution policy must provide that —\n(a)it may only be amended by a general meeting of members; and\n(b)any amendment is void to the extent that it is inconsistent with these Regulations."
+   }
+  },
+  {
+   "id": "SG-H850-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Calculation of total amount to be distributed"
+   },
+   "text": {
+    "en": "20.—(1) The distribution policy must provide for the method that the CMO will use to calculate how much of its tariffs will be distributed to members.\n(2) The distribution policy must describe any deductions that the CMO will make from its tariffs before distributing the tariffs to members."
+   }
+  },
+  {
+   "id": "SG-H850-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Calculation of amount to be distributed to each member"
+   },
+   "text": {
+    "en": "21.—(1) The distribution policy must provide for the method that the CMO will use to calculate the amount to be distributed to each member, and the method must comply with this regulation.\n(2) The method to calculate the amount to be distributed to a member —\n(a)must as far as practicable be based on the actual use of the member’s portfolio; but\n(b)may be based on the estimated use of the member’s portfolio to the extent that it is not practicable to find out the actual use.\n(3) For the purposes of paragraph (2)(b), relevant matters in deciding whether it is not practicable to find out the actual use of a member’s portfolio include —\n(a)whether finding out the actual use imposes a heavy administrative burden on the user;\n(b)whether any users are unable or refuse to cooperate with the CMO in finding out the actual use; and\n(c)whether the member’s portfolio is used by users for private or domestic purposes or in private or domestic settings.\n(4) If the method is based on estimated use, the distribution policy must specify how the use is estimated.\n(5) The method must continue to take into account any use of a member’s portfolio after the member has given notice to vary or terminate the rights granted to the CMO."
+   }
+  },
+  {
+   "id": "SG-H850-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Ordinary frequency and manner of distribution"
+   },
+   "text": {
+    "en": "22.—(1) The distribution policy must provide for —\n(a)the frequency at which distributions are ordinarily made, which must comply with this regulation; and\n(b)the manner in which distributions are ordinarily made.\n(2) A CMO must distribute a tariff received during a financial year within 6 months (or any longer period that may be specified in the distribution policy) after the end of the financial year.\n(3) Paragraph (2) does not apply to the extent that —\n(a)the CMO is unable to make a distribution despite its best efforts; and\n(b)the CMO’s inability to make the distribution is a result of the conduct of a user (for example, the user fails to provide information about its use of the CMO’s portfolio despite the CMO’s best efforts to collect that information)."
+   }
+  },
+  {
+   "id": "SG-H850-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Dealing with monies that CMO is unable to distribute"
+   },
+   "text": {
+    "en": "23.—(1) The distribution policy must require the CMO to do the following in relation to tariffs that the CMO is unable to distribute according to its distribution policy:\n(a)keep a record of those tariffs, including the reasons for being unable to distribute those tariffs;\n(b)take specified steps towards distributing those tariffs (for example, by identifying the members who are entitled to a distribution);\n(c)safeguard those tariffs until they are distributed or otherwise dealt with in accordance with the distribution policy;\n(d)inform members about the steps taken under sub‑paragraph (b), and the amount safeguarded under sub‑paragraph (c) for each financial year.\n(2) The distribution policy may allow the CMO to use those tariffs for purposes specified in the distribution policy, but only if the CMO remains unable to distribute those tariffs despite taking the steps mentioned in paragraph (1)(b)."
+   }
+  },
+  {
+   "id": "SG-H850-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "CMO must collect usage information"
+   },
+   "text": {
+    "en": "24. The distribution policy must require the CMO to —\n(a)do its best to collect (whether from its users or otherwise) accurate and timely information about the use of its portfolio, including —\n(i)the following information for each tariff scheme operated by the CMO:\n(A)general information about the users of the scheme;\n(B)how often permission is granted under each class of case to which the scheme applies;\n(C)the categories of rights for which permission is granted under the scheme;\n(D)how often permission is granted for each category of rights;\n(ii)for every member’s portfolio, the information referred to in regulation 25(1)(a), (b) and (d); and\n(iii)any information that the CMO is required to give to a member pursuant to regulation 25(4); and\n(b)if required by a member, explain to the member the efforts it has taken to collect that information."
+   }
+  },
+  {
+   "id": "SG-H850-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Information to members about usage of portfolios and distributions of tariffs"
+   },
+   "text": {
+    "en": "25.—(1) The distribution policy must require the CMO to give the following information to a member when making a distribution to the member:\n(a)general information about the users and usage of the member’s portfolio;\n(b)information about the period of use for each work or performance in the member’s portfolio;\n(c)how the distributed amount was calculated for each work or performance in the member’s portfolio;\n(d)for each tariff scheme operated by the CMO that applies to a work or performance in the member’s portfolio —\n(i)how often permission is granted under each class of case to which the scheme applies;\n(ii)the categories of rights for which permission is granted under the scheme; and\n(iii)how often permission is granted for each category of rights.\n(2) The distribution policy must require the CMO to provide the information collected under regulation 24(a)(i) to a member if so requested by the member.\n(3) The distribution policy may provide that, when the CMO makes a distribution to a member, the CMO must give to the member any other information required by the distribution policy.\n(4) However, the distribution policy may provide that the CMO is not required to give any information under this regulation if —\n(a)the CMO does not have the information because of the conduct of a user (for example, the user fails to provide information about its use of the CMO’s portfolio despite the CMO’s best efforts to collect that information); and\n(b)the CMO explains to the member the efforts it has taken to collect that information."
+   }
+  },
+  {
+   "id": "SG-H850-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Opportunity to question basis of distribution"
+   },
+   "text": {
+    "en": "26.—(1) The distribution policy must require the CMO to do the following after making a distribution to a member and giving the member the information required under regulation 25:\n(a)give the member an opportunity to, within a specified period (which must not be shorter than 60 days or longer than 90 days) after the date on which the member is given the information under regulation 25 —\n(i)ask for information about how the distribution to the member was calculated (for example, information about how the use of the member’s portfolio was estimated); and\n(ii)dispute the amount that should have been distributed;\n(b)provide any information asked for under sub‑paragraph (a)(i);\n(c)deal with any dispute in accordance with its dispute resolution policy.\n(2) However, the distribution policy may provide that the CMO is not required to give any information if —\n(a)the CMO does not have the information because of the conduct of a user (for example, the user fails to provide information about its use of the CMO’s portfolio despite the CMO’s best efforts to collect that information); and\n(b)the CMO explains to the member the efforts it has taken to collect that information."
+   }
+  },
+  {
+   "id": "SG-H850-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Other matters"
+   },
+   "text": {
+    "en": "27. The distribution policy may —\n(a)provide for any other matter not inconsistent with this Part; and\n(b)provide that a membership agreement may derogate from the distribution policy in respect of any matter —\n(i)for which provision is not required by this Division; and\n(ii)that the distribution policy expressly specifies is subject to derogation."
+   }
+  },
+  {
+   "id": "SG-H850-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "CMO must deal with disputes with members and users in accordance with dispute resolution policy"
+   },
+   "text": {
+    "en": "28.—(1) A CMO must establish a dispute resolution policy in accordance with this Division.\n(2) A CMO must comply with its dispute resolution policy so far as the policy gives effect to this Division.\n(3) To avoid doubt, paragraph (2) does not affect any remedy that a person may have against the CMO if the CMO does not comply with its dispute resolution policy."
+   }
+  },
+  {
+   "id": "SG-H850-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Members must approve amendments to dispute resolution policy"
+   },
+   "text": {
+    "en": "29. The dispute resolution policy must provide that —\n(a)it may only be amended by a general meeting of members; and\n(b)any amendment is void to the extent that it is inconsistent with these Regulations."
+   }
+  },
+  {
+   "id": "SG-H850-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Matters to be provided for in dispute resolution policy"
+   },
+   "text": {
+    "en": "30.—(1) This regulation applies only in relation to a dispute between —\n(a)a member, user or intending user; and\n(b)the CMO.\n(2) The dispute resolution policy must provide for a named individual to which, and the procedure by which, the member, user or intending user may give a notice of dispute (including any supporting information and documents) to the CMO.\n(3) The dispute resolution policy must require the CMO to act in good faith and reasonably in —\n(a)investigating the matters raised in a notice of dispute;\n(b)deciding on the dispute; and\n(c)otherwise dealing with the dispute.\n(4) The dispute resolution policy must require the CMO to give its decision on a notice of dispute —\n(a)in writing; and\n(b)in the case of an adverse decision, with reasons.\n(5) The dispute resolution policy may provide for any internal recourse (for example, an appeal) against the CMO’s decision on the dispute.\n(6) The dispute resolution policy must require that any decision made under any internal recourse against the CMO’s decision on the dispute is given —\n(a)in writing; and\n(b)in the case of an adverse decision, with reasons.\n(7) The dispute resolution policy must require the CMO to give a final decision on a dispute (after any internal recourse) within 60 days or any shorter specified period after the notice of dispute is given.\n(8) The dispute resolution policy may make different provisions for different classes of disputes.\n(9) The dispute resolution policy must provide that it does not affect any rights of the CMO or a person who gives a notice of dispute (including the right of either of them to refer the dispute to a Copyright Tribunal)."
+   }
+  },
+  {
+   "id": "SG-H850-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Other matters"
+   },
+   "text": {
+    "en": "31. The dispute resolution policy may —\n(a)provide for any other matter not inconsistent with this Part; and\n(b)provide that a membership agreement may derogate from the dispute resolution policy in respect of any matter —\n(i)for which provision is not required by this Division; and\n(ii)that the dispute resolution policy expressly specifies is subject to derogation."
+   }
+  },
+  {
+   "id": "SG-H850-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Direction to mediate"
+   },
+   "text": {
+    "en": "32.—(1) IPOS may give a direction to a CMO to mediate a dispute between the CMO and a member, user or intending user.\n(2) A direction may only be made after the CMO has given its decision on the dispute, and any internal recourse against the decision has been exhausted, in accordance with the CMO’s dispute resolution policy.\n(3) The CMO must comply with the direction unless the other party to the dispute refuses or fails to take part in the mediation."
+   }
+  },
+  {
+   "id": "SG-H850-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Governance requirements"
+   },
+   "text": {
+    "en": "33.—(1) A CMO that is a company must provide in its constitution that —\n(a)the appointment of a director of the CMO must, in addition to any other requirements in the Companies Act 1967 or its constitution, be approved by a general meeting of members; and\n(b)a director of the CMO may be removed by a general meeting of members (in addition to any other means provided for by the Companies Act 1967 or the CMO’s constitution).\n(2) A CMO must provide in its constitutional documents that a person is disqualified from being a key officer of the CMO if —\n(a)the person is disqualified under any written law from being a director of a company;\n(b)the person was a key officer of another CMO at the time that other CMO was issued with a cessation order (excluding a cessation order that was set aside after reconsideration or appeal); and\n(c)the person was removed as a key officer of another CMO under a regulatory direction (excluding a regulatory direction that was set aside after reconsideration or appeal).\n(3) A CMO must provide in its constitutional documents that a disqualification mentioned in paragraph (2)(b) and (c) expires 3 years after the cessation order or regulatory direction, as the case may be.\n(4) A CMO must comply with its constitutional documents to the extent that they give effect to this regulation."
+   }
+  },
+  {
+   "id": "SG-H850-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "CMO must keep financial records"
+   },
+   "text": {
+    "en": "34.—(1) A CMO must keep proper financial records, which must include records of —\n(a)the tariffs received by the CMO;\n(b)the deductions the CMO made from those tariffs; and\n(c)the distributions from those tariffs, including —\n(i)the members who received distributions; and\n(ii)the information that the distribution policy requires the CMO to give a member when making a distribution.\n(2) A CMO must keep the financial records for a financial year for 6 years after the end of that financial year."
+   }
+  },
+  {
+   "id": "SG-H850-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "CMO must allow inspection of financial records"
+   },
+   "text": {
+    "en": "35.—(1) A CMO must permit a member to inspect the CMO’s financial records (but not records that relate specifically to other members’ portfolios) at least once every financial year.\n(2) A CMO may require a member to pay a fee for inspecting the CMO’s financial records, but only if the fee is provided for by the membership policy."
+   }
+  },
+  {
+   "id": "SG-H850-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "CMO must make transparency report"
+   },
+   "text": {
+    "en": "36.—(1) For every financial year, a CMO must make a transparency report and present the report to a general meeting of members within the next financial year.\n(2) A CMO’s report for a financial year must contain —\n(a)the CMO’s financial statements for that financial year, which must include —\n(i)a balance sheet or a statement of assets and liabilities; and\n(ii)an income and expenditure account (including a breakdown of its operating expenditure);\n(b)information about the CMO’s activities for that financial year;\n(c)the following information in relation to the tariffs collected by the CMO for that financial year:\n(i)the total amount of those tariffs;\n(ii)the proportion of those tariffs attributable to —\n(A)each tariff scheme operated by the CMO and each class of case to which each tariff scheme applies; and\n(B)each category of rights managed by the CMO (for example, the right to perform in public);\n(iii)the amount and type of deductions made by the CMO from those tariffs, and the particulars of any social, cultural or education services for which the deductions were made;\n(iv)the total amount attributed and distributed to the CMO’s members;\n(v)the total amount attributed but not distributed to the CMO’s members;\n(d)information about the total remuneration (including non‑monetary benefits) paid to the officers and employees of the CMO for that financial year; and\n(e)if the CMO has one or more partner collecting societies, the following information:\n(i)the names of the partner collecting societies;\n(ii)the dates of the representation agreements between the CMO and its respective partner collecting societies;\n(iii)the total amount paid by the CMO to all its partner collecting societies in that financial year;\n(iv)the total amount paid to the CMO by all its partner collecting societies in that financial year;\n(v)the total deductions (if any) made by the CMO’s partner collecting societies under their representation agreements with the CMO (for example, deductions for management fees)."
+   }
+  },
+  {
+   "id": "SG-H850-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "CMO must set up website"
+   },
+   "text": {
+    "en": "37. A CMO must set up and maintain an Internet website for the purposes of these Regulations."
+   }
+  },
+  {
+   "id": "SG-H850-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "CMO must publish detailed information about portfolio"
+   },
+   "text": {
+    "en": "38.—(1) Subject to regulation 39, a CMO must publish information about its portfolio on its website in accordance with this regulation.\n(2) There must be a list of every work and performance in the CMO’s portfolio.\n(3) For each work in the CMO’s portfolio, the following information must be stated:\n(a)the title or a description of the work;\n(b)in the case of an authorial work — the name of the author;\n(c)the name of the rights owner;\n(d)the categories of rights managed by the CMO in relation to the work;\n(e)the restrictions (if any) on the rights managed by the CMO in relation to the work;\n(f)whether the CMO is managing the work on an exclusive basis.\n(4) For each performance in the CMO’s portfolio, the following information must be stated:\n(a)the title or a description of the performance;\n(b)the name of the performer;\n(c)the name of the rights owner;\n(d)the categories of rights managed by the CMO in relation to the performance;\n(e)the restrictions (if any) on the rights managed by the CMO in relation to the performance;\n(f)whether the CMO is managing the performance on an exclusive basis.\n(5) Information published under this regulation must be kept up to date.\n(6) Information published under this regulation is deemed to be up to date if —\n(a)the information was updated within the last 3 months and was accurate when it was last updated; and\n(b)the CMO’s website —\n(i)states the date on which the information was last updated; and\n(ii)states the matters required by regulation 40(5)."
+   }
+  },
+  {
+   "id": "SG-H850-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "CMOs may publish less detailed information if users are indemnified"
+   },
+   "text": {
+    "en": "39.—(1) A CMO may, instead of complying with regulation 38 —\n(a)publish on its website the information required by this regulation; and\n(b)provide an indemnity to every user of the CMO in accordance with this regulation.\nInformation\n(2) The information required is a list of —\n(a)every member of the CMO; and\n(b)every partner collecting society of the CMO (but not a partner collecting society that is not an authorising party under its representation agreement with the CMO).\n(3) The CMO may also publish a list of works and performances that are not a part of its portfolio.\n(4) Information published under paragraph (2) or (3) must be kept up to date.\n(5) Information published under paragraph (2) or (3) is deemed to be up to date if —\n(a)the information was updated within the last 3 months and was accurate when it was last updated; and\n(b)the CMO’s website —\n(i)states the date on which the information was last updated; and\n(ii)states the matters required by regulation 40(5).\nIndemnity\n(6) The CMO must indemnify a user against any liability incurred by the user for a rights infringement arising from the user’s use of a work or performance if —\n(a)the work or performance is apparently within the CMO’s portfolio; and\n(b)the use of the work or performance is otherwise in accordance with the user agreement.\n(7) A work or performance is apparently within the CMO’s portfolio if —\n(a)on the date falling 3 months before the date on which the user agreement is entered into —\n(i)the author, maker, publisher or performer who made or gave the work or performance, or the rights owner of the work or performance, fell within the list mentioned in paragraph (2) or a representation agreement mentioned in that paragraph; and\n(ii)the work or performance was not in any list published under paragraph (3);\n(b)the user agreement does not expressly exclude the use of the work or performance;\n(c)the user agreement does not state all the information mentioned in regulation 38(3) or (4) (as the case may be) for every work or performance that the user is granted permission to use; and\n(d)the CMO did not, at any time before the user agreement was entered into, give the user any confirmation, in response to a request made in accordance with regulation 40, that the work or performance is not part of its portfolio.\n(8) The indemnity required by paragraph (1) must extend to indemnifying the user against —\n(a)any costs ordered against the user; and\n(b)any costs reasonably incurred by the user,\nin connection with actual or contemplated proceedings for the rights infringement.\n(9) The indemnity required by this regulation must be provided for in the user agreement.\n(10) The user agreement may provide for the indemnity to be subject to —\n(a)reasonable conditions in relation to the manner in which, and time within which, claims under the indemnity are to be made;\n(b)reasonable conditions enabling the CMO to take over the conduct of any proceedings that affect the amount of the CMO’s liability to indemnify the user; and\n(c)a maximum amount.\n(11) For the purposes of paragraph (10)(c), any provision for a maximum amount —\n(a)must be reasonable; and\n(b)is deemed to be unreasonable if it is less than the amount of damages and costs ordered by a court against a user for a rights infringement that falls within the terms of the indemnity.\n(12) In this regulation, “user agreement” means the agreement between the CMO and a user under which the CMO grants the user permission to use the CMO’s portfolio."
+   }
+  },
+  {
+   "id": "SG-H850-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "CMO must provide confirmation and proof about portfolio"
+   },
+   "text": {
+    "en": "40.—(1) A CMO must, on a request by any person, provide —\n(a)confirmation that a particular work or performance is or is not part of the CMO’s portfolio; or\n(b)proof that a particular work or performance is part of the CMO’s portfolio.\n(2) The request must be sent to the email address specified by the CMO under paragraph (5).\n(3) Subject to paragraph (4), the CMO must provide the requested confirmation or proof —\n(a)within 14 days after receiving the request; or\n(b)if a shorter time is specified by the CMO under paragraph (5) — within that time.\n(4) If —\n(a)there are exceptional circumstances; and\n(b)the CMO is unable to provide the requested confirmation or proof within the time required by paragraph (3) despite its best efforts,\nthe CMO must —\n(c)inform the requestor before the expiry of that time; and\n(d)provide the requested confirmation or proof within a reasonable time.\n(5) A CMO must publish on its website —\n(a)the email address for the purposes of paragraph (2); and\n(b)a statement that it will ordinarily respond to requests under paragraph (1) within the time specified on its website (which must not exceed 14 days)."
+   }
+  },
+  {
+   "id": "SG-H850-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "CMO must publish other key information and documents"
+   },
+   "text": {
+    "en": "41.—(1) A CMO must publish the following information and documents on its website:\n(a)the CMO’s membership policy;\n(b)information about the process to apply to be a member of the CMO (for example, any membership fees payable by a member, the forms required and the timelines for an application);\n(c)a list of all tariff schemes formulated or operated by the CMO;\n(d)for each tariff scheme formulated or operated by the CMO —\n(i)the classes of cases in which the CMO is willing to grant, or procure the grant of, permission to use the works or performances managed by the CMO; and\n(ii)the standard terms (for example, the standard tariff and any applicable discount) on which the CMO is willing to grant, or procure the grant of, that permission;\n(e)every transparency report required by regulation 36 for the last 6 financial years;\n(f)the names of the key officers of the CMO;\n(g)the constitutional documents of the CMO;\n(h)an up-to-date list of all representation agreements that the CMO has entered into;\n(i)the CMO’s distribution policy;\n(j)the CMO’s dispute resolution policy.\n(2) For the purposes of paragraph (1)(h), a list is deemed to be up to date if —\n(a)the list was updated within the last 3 months and was accurate when it was last updated; and\n(b)the CMO’s website states the date on which the list was last updated."
+   }
+  },
+  {
+   "id": "SG-H850-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 3 CLASS LICENCE FOR COLLECTIVE MANAGEMENT ORGANISATIONS"
+   },
+   "heading": {
+    "en": "Email for service"
+   },
+   "text": {
+    "en": "42. A CMO must provide to IPOS an email address at which IPOS may serve documents on the CMO for the purposes of the Act."
+   }
+  },
+  {
+   "id": "SG-H850-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Power to require documents and information"
+   },
+   "text": {
+    "en": "43.—(1) If IPOS has reason to believe that a person is carrying on business as a CMO, IPOS may, by written notice, require the person (or, in the case of an entity, a key officer of the entity) to produce any information or document to assist IPOS in ascertaining whether the person is in fact carrying on business as a CMO.\n(2) IPOS must not require the production of any information or document that is subject to legal privilege.\n(3) A person who fails to comply with a written notice under paragraph (1) commits an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H850-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Purpose"
+   },
+   "text": {
+    "en": "44. This Division prescribes the procedure for a person to make representations to IPOS before IPOS takes regulatory action against the person."
+   }
+  },
+  {
+   "id": "SG-H850-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Notice of intention to take regulatory action"
+   },
+   "text": {
+    "en": "45.—(1) If IPOS intends to take regulatory action against a person, IPOS must give written notice of its intention to the person (called in this regulation and regulation 46 the affected person).\n(2) The written notice must state —\n(a)IPOS’s intention to take regulatory action against the affected person;\n(b)in the case of a financial penalty — the amount of the financial penalty;\n(c)in the case of a regulatory direction — the terms of the regulatory direction;\n(d)in the case of a cessation order — whether the cessation order has effect indefinitely or for a specified period;\n(e)the grounds for taking the regulatory action;\n(f)a description of the evidence supporting those grounds; and\n(g)that representations may be made to IPOS within 21 days after the date of the written notice (or such longer period as IPOS may specify)."
+   }
+  },
+  {
+   "id": "SG-H850-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Time for making representations, etc."
+   },
+   "text": {
+    "en": "46.—(1) The affected person may make representations to IPOS within the time specified in the written notice.\n(2) IPOS may, on its own initiative or on a written application by the affected person, extend the time within which representations may be made.\n(3) IPOS may extend time even if the time specified in the written notice has lapsed.\n(4) If the affected person does not make any representations within the time specified in the written notice or extended under paragraph (2), IPOS may proceed to take the intended regulatory action."
+   }
+  },
+  {
+   "id": "SG-H850-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "How to make representations"
+   },
+   "text": {
+    "en": "47.—(1) Representations must be submitted to IPOS.\n(2) Representations must be made in the form prescribed on IPOS’s website.\n(3) Representations may be accompanied by supporting documents."
+   }
+  },
+  {
+   "id": "SG-H850-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Fact finding, etc."
+   },
+   "text": {
+    "en": "48. IPOS may, by written notice, direct a representor to do all or any of the following within a specified period (which may be extended by IPOS):\n(a)make a statutory declaration in support of the representations;\n(b)give IPOS any information or document related to the regulatory action (but not any information or document that is subject to legal privilege);\n(c)explain any matter relating to the regulatory action."
+   }
+  },
+  {
+   "id": "SG-H850-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Summary rejection in certain cases"
+   },
+   "text": {
+    "en": "49.—(1) IPOS may reject any representations without considering their merits if —\n(a)the representations were not made in accordance with this Division;\n(b)the representor did not comply with any directions under regulation 48; or\n(c)IPOS considers the representations to be frivolous or vexatious.\n(2) If IPOS rejects any representations under paragraph (1), IPOS must give written notice to the representor of —\n(a)the rejection; and\n(b)the provision in paragraph (1) under which the representations were rejected."
+   }
+  },
+  {
+   "id": "SG-H850-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Notice of decision"
+   },
+   "text": {
+    "en": "50. Subject to regulation 49, IPOS must consider any representations and —\n(a)proceed to take the intended regulatory action with or without any modification; or\n(b)give the representor written notice that IPOS has decided not to take any regulatory action."
+   }
+  },
+  {
+   "id": "SG-H850-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Purpose"
+   },
+   "text": {
+    "en": "51. This Division prescribes the procedure for a person to apply under section 466 for IPOS’s reconsideration of a decision to take regulatory action against the person."
+   }
+  },
+  {
+   "id": "SG-H850-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Notice of right to apply for reconsideration"
+   },
+   "text": {
+    "en": "52.—(1) This regulation applies if IPOS makes a decision to take regulatory action against a person (called in this regulation and regulation 53 the affected person).\n(2) The written notice of IPOS’s decision must state that the affected person may, within 21 days after the date of the written notice (or such longer period as IPOS may specify), apply to IPOS to reconsider the decision."
+   }
+  },
+  {
+   "id": "SG-H850-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Time for making reconsideration application"
+   },
+   "text": {
+    "en": "53.—(1) The affected person may apply to IPOS for the reconsideration of a decision within the time specified in the written notice.\n(2) IPOS may, on its own initiative or on a written application by the affected person, extend the time within which a reconsideration application may be made.\n(3) IPOS may extend time even if the time specified in the written notice has lapsed."
+   }
+  },
+  {
+   "id": "SG-H850-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "How to make reconsideration application"
+   },
+   "text": {
+    "en": "54.—(1) A reconsideration application must be submitted to IPOS.\n(2) A reconsideration application must be made in the form prescribed on IPOS’s website.\n(3) A reconsideration application may be accompanied by supporting documents.\n(4) A reconsideration application must be accompanied by a fee of $500."
+   }
+  },
+  {
+   "id": "SG-H850-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "55."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Fact finding, etc."
+   },
+   "text": {
+    "en": "55. IPOS may, by written notice, direct an applicant for reconsideration to do all or any of the following within a specified period (which may be extended by IPOS):\n(a)make a statutory declaration in support of the application;\n(b)give IPOS any information or document related to the regulatory action (but not any information or document that is subject to legal privilege);\n(c)explain any matter relating to the regulatory action."
+   }
+  },
+  {
+   "id": "SG-H850-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "56."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Withdrawal of reconsideration application"
+   },
+   "text": {
+    "en": "56.—(1) An applicant for reconsideration may, by writing to IPOS, withdraw the application at any time before being informed of IPOS’s decision on the application.\n(2) The reconsideration application is treated as withdrawn at the time the written withdrawal is submitted to IPOS."
+   }
+  },
+  {
+   "id": "SG-H850-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "57."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Time for deciding on reconsideration application"
+   },
+   "text": {
+    "en": "57.—(1) IPOS must make its decision on a reconsideration application —\n(a)if no direction is given under regulation 55 — within 3 months after the date on which the application was made; or\n(b)if one or more directions are given under regulation 55 — within 3 months after the expiry of the specified period or all the specified periods for compliance (including any extension), as the case may be.\n(2) To avoid doubt, paragraph (1) applies to a confirmation under regulation 58."
+   }
+  },
+  {
+   "id": "SG-H850-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "58."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Summary confirmation of original decision in certain cases"
+   },
+   "text": {
+    "en": "58.—(1) IPOS may confirm a decision without considering the merits of a reconsideration application if —\n(a)the application was not made in accordance with this Division;\n(b)the applicant did not comply with any directions under regulation 55; or\n(c)IPOS considers the application to be frivolous or vexatious.\n(2) If IPOS confirms a decision under paragraph (1), IPOS must give written notice to the applicant of —\n(a)the confirmation; and\n(b)the provision in paragraph (1) under which the decision was confirmed.\n(3) If a confirmation under paragraph (1) may be appealed to the Minister under section 467, IPOS must also inform the applicant that an appeal may be made within 21 days after the date of the confirmation."
+   }
+  },
+  {
+   "id": "SG-H850-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "59."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Notice of reconsidered decision"
+   },
+   "text": {
+    "en": "59.—(1) Subject to regulation 58, IPOS must consider a reconsideration application and give written notice to the applicant of IPOS’s reconsidered decision.\n(2) If the reconsidered decision may be appealed to the Minister under section 467, IPOS must also inform the applicant that an appeal may be made within 21 days after the date of the reconsidered decision."
+   }
+  },
+  {
+   "id": "SG-H850-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "60."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Purpose"
+   },
+   "text": {
+    "en": "60. This Division prescribes the procedure to appeal to the Minister under section 467 after IPOS has reconsidered a decision under section 466."
+   }
+  },
+  {
+   "id": "SG-H850-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "61."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Time for appeal"
+   },
+   "text": {
+    "en": "61.—(1) A person may appeal to the Minister within the time specified under regulation 58(3) or 59(2), as the case may be.\n(2) The Minister may, on his or her own initiative or on a written application by a person who intends to make an appeal, extend the time within which an appeal may be made.\n(3) The Minister may extend time even if the time specified under regulation 58(3) or 59(2) (as the case may be) has lapsed."
+   }
+  },
+  {
+   "id": "SG-H850-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "62."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "How to appeal"
+   },
+   "text": {
+    "en": "62.—(1) An appeal must be submitted to the Minister.\n(2) An appeal must be made in the form prescribed on IPOS’s website.\n(3) An appeal may be accompanied by supporting documents.\n(4) An appeal must be accompanied by a fee of $800."
+   }
+  },
+  {
+   "id": "SG-H850-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "63."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Fact finding, etc."
+   },
+   "text": {
+    "en": "63. The Minister may, by written notice, direct an appellant to do all or any of the following within a specified period (which may be extended by the Minister):\n(a)make a statutory declaration in support of the appeal;\n(b)give the Minister any information or document related to the decision under appeal (but not any information or document that is subject to legal privilege);\n(c)explain any matter relating to the regulatory action."
+   }
+  },
+  {
+   "id": "SG-H850-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "64."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Withdrawal of appeal"
+   },
+   "text": {
+    "en": "64.—(1) An appellant may, by writing to the Minister, withdraw the appeal at any time before being informed of the Minister’s decision on the appeal.\n(2) The appeal is treated as withdrawn at the time the written withdrawal is submitted to the Minister."
+   }
+  },
+  {
+   "id": "SG-H850-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "65."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Summary confirmation of decision in certain cases"
+   },
+   "text": {
+    "en": "65.—(1) The Minister may confirm a decision appealed against without considering the merits of the appeal if —\n(a)the appeal was not made in accordance with this Division;\n(b)the appellant did not comply with any directions under regulation 63; or\n(c)the Minister considers the appeal to be frivolous or vexatious.\n(2) If the Minister confirms a decision under paragraph (1), the Minister must cause the appellant to be given written notice of —\n(a)the confirmation; and\n(b)the provision in paragraph (1) under which the decision was confirmed."
+   }
+  },
+  {
+   "id": "SG-H850-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "66."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEDURES RELATING TO REGULATORY ACTION"
+   },
+   "heading": {
+    "en": "Notice of decision on appeal"
+   },
+   "text": {
+    "en": "66. Subject to regulation 65, the Minister must cause an appellant to be notified of the Minister’s decision on the appeal and the reasons for the decision."
+   }
+  },
+  {
+   "id": "SG-H850-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "67."
+   },
+   "chapter": {
+    "en": "PART 5 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Service of documents by IPOS on CMOs"
+   },
+   "text": {
+    "en": "67.—(1) For the purposes of Division 2 of Part 9 of the Act and these Regulations —\n(a)IPOS may serve a document on a CMO by sending the document by email to the email address provided by the CMO under regulation 42; and\n(b)a document sent by email in accordance with sub‑paragraph (a) is deemed to have been served on the CMO at the time the email becomes capable of being retrieved.\n(2) To avoid doubt, paragraph (1) does not prevent IPOS from serving a document on a CMO in any other way."
+   }
+  },
+  {
+   "id": "SG-H850-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "68."
+   },
+   "chapter": {
+    "en": "PART 5 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Submission of documents to IPOS"
+   },
+   "text": {
+    "en": "68.—(1) For the purposes of these Regulations, a document may be submitted to IPOS only by the following means:\n(a)by delivering it to an officer of IPOS at the address specified for this purpose on IPOS’s website;\n(b)by sending it by ordinary post or prepaid registered post to the address specified for this purpose on IPOS’s website;\n(c)by sending it by email to the email address specified for this purpose on IPOS’s website;\n(d)by any other means that IPOS may allow in a particular case.\n(2) For the purposes of these Regulations —\n(a)a document delivered in accordance with paragraph (1)(a) is deemed to have been submitted to IPOS on the day of delivery;\n(b)a document sent by ordinary post in accordance with paragraph (1)(b) is deemed to have been submitted to IPOS on the day after it would in the ordinary course of post be delivered, unless it is returned undelivered;\n(c)a document sent by registered post in accordance with paragraph (1)(b) is deemed to have been submitted to IPOS 2 days after the day it was posted, whether or not it is returned undelivered; and\n(d)a document sent by email in accordance with paragraph (1)(c) is deemed to have been submitted to IPOS at the time the email becomes capable of being retrieved."
+   }
+  },
+  {
+   "id": "SG-H850-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "69."
+   },
+   "chapter": {
+    "en": "PART 5 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Submission of documents to Minister under Division 4 of Part 4"
+   },
+   "text": {
+    "en": "69. For the purposes of Division 4 of Part 4 —\n(a)a document may be submitted to the Minister only by sending it by email to the email address specified for this purpose on IPOS’s website; and\n(b)a document sent by email in accordance with paragraph (a) is deemed to have been submitted to the Minister at the time the email becomes capable of being retrieved."
+   }
+  },
+  {
+   "id": "SG-H850-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "70."
+   },
+   "chapter": {
+    "en": "PART 5 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "IPOS’s website"
+   },
+   "text": {
+    "en": "70. For the purposes of these Regulations, IPOS’s website is https://www.ipos.gov.sg."
+   }
+  },
+  {
+   "id": "SG-H850-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "71."
+   },
+   "chapter": {
+    "en": "PART 5 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Waiver, etc., of fees"
+   },
+   "text": {
+    "en": "71. IPOS may waive, refund or remit the whole or any part of any fee paid or payable under these Regulations."
+   }
+  }
+ ]
+}

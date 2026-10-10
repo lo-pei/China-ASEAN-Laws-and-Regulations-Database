@@ -1,0 +1,64 @@
+{
+ "id": "PH-H3566",
+ "title": {
+  "zh": null,
+  "en": "The Revised Election Code",
+  "orig": "An Act to Amend Republic Act Numbered One Hundred Eighty Entitled \"The Revised Election Code\""
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p50",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1965-06-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4364",
+ "officialCode": null,
+ "topics": [
+  "administrative"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 921,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1965/ra_4364_1965.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1965/ra_4364_1965.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3566-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Republic Act Numbered One Hundred eighty is hereby amended by inserting between Sections five and six thereof a new section, which shall read as follows:\n\"Sec. 5-A. Any provision of existing law to the contrary notwithstanding, the Commission on Elections may authorize the payment of compensation from appropriations provided for election to its officials and employees, and those assigned thereto, except the Chairman and members of the said Commission, for overtime services rendered on Saturdays, Sundays and holidays, or after required office hours on regular working days in connection with election, at rates to be fixed by the Commission on Elections which shall not exceed the rates of their regular monthly compensation. Such additional compensation shall not exceed, for any one month, the equivalent of their regular monthly compensation.\""
+   }
+  },
+  {
+   "id": "PH-H3566-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
+   }
+  }
+ ]
+}

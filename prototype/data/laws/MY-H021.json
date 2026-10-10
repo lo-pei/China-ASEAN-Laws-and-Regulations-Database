@@ -1,0 +1,393 @@
+{
+ "id": "MY-H021",
+ "title": {
+  "zh": "2018年销售税法",
+  "en": "SALES TAX ACT 2018",
+  "orig": null
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-p02",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2018",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "InvestMalaysia（马来西亚投资发展局 MIDA 政府门户, investmalaysia.gov.my）法律",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 33,
+ "chars": 12475,
+ "source": {
+  "name": "InvestMalaysia（马来西亚投资发展局 MIDA 政府门户, investmalaysia.gov.my）法律法规栏目",
+  "url": "https://www.investmalaysia.gov.my/media/0v1bli45/sales-tax-act-2018.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "全文，共 33 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "MY-H021-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Article 2"
+   },
+   "text": {
+    "en": "In the definition of “taxable person”, substitute for the  words “a registered manufacturer or a manufacturer” the words “a registered seller or a seller”.\nSales Tax                                            113\n(1) Provisions of this Act\n(2) Modifications"
+   }
+  },
+  {
+   "id": "MY-H021-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Article 8"
+   },
+   "heading": {
+    "en": "Substitute for section 8 the following section:"
+   },
+   "text": {
+    "en": "“Imposition and scope of sales tax\n8. (1) Sales tax shall be charged on low value goods sold by a taxable person.\n(2) The Minister may, by order published in the Gazette, determine low value goods based on the following criteria:\n(a) goods or class of goods;\n(b) the price of goods; and\n(c) the manner in which the goods are brought into Malaysia.\n(3) Any order made under subsection (2) shall be laid before the Dewan Rakyat.\n(4) This Act shall be construed as one with the Customs Act 1967 and the Excise Act 1976 with regard to the goods brought into Malaysia including goods in transit and the movement of goods under customs control or excise control.\n(5) Where there is any incon sistency between the provisions of the Customs Act 1967 or the Excise Act 1976 and the provisions of this Act, the provisions of this Act shall prevail.”."
+   }
+  },
+  {
+   "id": "MY-H021-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Article 9"
+   },
+   "heading": {
+    "en": "Substitute for section 9 the following section:"
+   },
+   "text": {
+    "en": "“Determination of sale value of low value goods\n9. The sale value of low value goods on which sales tax is payable shall be the price of low value goods not including any tax, fee or other charges imposed on the low value goods.”."
+   }
+  },
+  {
+   "id": "MY-H021-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Article 10"
+   },
+   "heading": {
+    "en": "1. In subsection (1)—"
+   },
+   "text": {
+    "en": "(a) substitute for the words “the taxable goods sold, used or disposed of or imported” the words “the low value goods sold”; and\n(b) substitute for the words “the sale value of the taxable goods” the words “the sale value of the low value goods”.\n2. Delete subsections (4), (5) and (6)."
+   }
+  },
+  {
+   "id": "MY-H021-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Article 11"
+   },
+   "heading": {
+    "en": "Substitute for section 11 the following section:"
+   },
+   "text": {
+    "en": "“Sales tax due\n11. The sales tax chargeable under section 8 shall be due at the time when the low value goods are sold by the taxable person.”.\nPart IV (except as otherwise provided)\n1. Substitute for the words “taxable goods” the words “low value goods”.\n2. Substitute for the word “manufacturer” the word “seller”.\n114                                    Laws of Malaysia                           ACT 806\n(1) Provisions of this Act\n(2) Modifications\n3. Substitute for the words “registered manufacturer” the words “registered seller”.\n4. Substitute for the word “manufacture” the word “sell”."
+   }
+  },
+  {
+   "id": "MY-H021-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Article 12"
+   },
+   "text": {
+    "en": "1. In paragraph 3 (b), substitute for the words “the manufacturer’s registration” the words “the seller’s registration”.\n2. Delete subsection (4)."
+   }
+  },
+  {
+   "id": "MY-H021-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Article 17"
+   },
+   "text": {
+    "en": "Substitute for the word “manufacturing” the word “selling”."
+   }
+  },
+  {
+   "id": "MY-H021-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Article 18"
+   },
+   "text": {
+    "en": "Substitute for the words “section 13 or 14” the words “section 13”."
+   }
+  },
+  {
+   "id": "MY-H021-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Article 19"
+   },
+   "text": {
+    "en": "1. In subsection (1), substitute for the words “the manufacturer’s registration” the words “the seller’s registration”.\n2. Substitute for subsection (3) the following subsection:\n“(3) Where the Director General is satisfied that on the date on which a seller was registered under section 13, the seller was not liable to be registered under section 12 or has ceased to sell low value goods, the Director General may cancel the registration of the seller with effect from the date as determined by the Director General in the notification in writing to such seller.”.\n3. Delete subsection (4).\nPart V except as otherwise provided)\n1. Substitute for the words “taxable goods” the words “low value goods”.\n2. Substitute for the word “manufacturer” the word “seller”.\n3. Substitute for the words “registered manufacturer” the words “registered seller”.\n4. Substitute for the word “manufacture” the word “sell”."
+   }
+  },
+  {
+   "id": "MY-H021-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Article 21"
+   },
+   "text": {
+    "en": "1. Substitute for the shoulder note the following shoulder note:\n“Invoice and document”.\n2. In subsection (1), substitute for the words “an invoice” the words “an invoice or any document”.\n3. In subsection (2), substitute for the words “No invoice” the words “No invoice or document”."
+   }
+  },
+  {
+   "id": "MY-H021-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Article 22"
+   },
+   "text": {
+    "en": "1. Substitute for the shoulder note the following shoulder note:\n“Production of invoice or document by computer”.\n2. Substitute for the words “For the purposes of any provision under this Act relating to an invoice, a registered manufacturer shall be treated as having issued an invoice to a purchaser” the words “For the purposes of any Sales Tax                                            115\n(1) Provisions of this Act\n(2) Modifications provision under this Act relating t o an invoice or a document issued under subsection 21(1), a registered seller shall be treated as having issued an invoice or a document under subsection 21(1) to a purchaser”."
+   }
+  },
+  {
+   "id": "MY-H021-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Article 24"
+   },
+   "heading": {
+    "en": "1. Substitute for subsection (1) the following subsection:"
+   },
+   "text": {
+    "en": "“(1) Each taxable person shall keep up to date complete and true written records of all transactions which affect or may affect his liability to sales tax.”.\n2. Substitute for subsection (2) the following subsection:\n“(2) Any record kept under this section shall be preserved for a period of seven years from the latest date to which the record relates.”.\n3. Delete subsection (4).\n4. In subsection (6), substitute for the words “subsection (1), (2), (3) or (4)” the words “subsection (1), (2) or (3)”."
+   }
+  },
+  {
+   "id": "MY-H021-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Article 25"
+   },
+   "heading": {
+    "en": "1. Substitute for subsection (1) the following subsection:"
+   },
+   "text": {
+    "en": "“(1) The first taxable period of every taxable person shall begin from the date he should have been registered under section 13 and end on the last day of the following two months and the subsequent taxable period shall be a period of three months ending on the last day of any month of any calendar year.\n2. Delete subsection (2).\n3. In subsection (5), substitute for the words “subsection (1), (2) or (4)” the words “subsection (1) or (4)”."
+   }
+  },
+  {
+   "id": "MY-H021-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Article 26"
+   },
+   "text": {
+    "en": "1. Delete subsection (4).\n2. In subsection (6), substitute for the words “subsections (1), (2), (3) and\n(4)” the words “subsections (1), (2) and (3)”.\n3. In subsection (7), substitute for the words “subsection (1), (2), (3) or (4)” the words “subsection (1), (2) or (3)”."
+   }
+  },
+  {
+   "id": "MY-H021-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Article 27"
+   },
+   "text": {
+    "en": "1. Delete subsections (4), (5) and (6).\n2. In subsection (8), substitute for the words “under subsection (1), (2), (4),\n(6) or (7)” the words “under subsection (1), (2) or (7)”.\n3. In subsection (9), substitute for the words “under subsection (1), (2), (6) or (8)” the words “under subsection (1), (2) or (8)”."
+   }
+  },
+  {
+   "id": "MY-H021-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Article 28"
+   },
+   "text": {
+    "en": "1. Substitute the words “the invoice” the words “the invoice or document”.\n2. In subsection (2), substitute for the words “an invoice” the words “an invoice or a document”.\n3. In subsection (3), substitute for the words “is an invoice” the words “is an invoice or a document”.\n116                                    Laws of Malaysia                           ACT 806\n(1) Provisions of this Act\n(2) Modifications"
+   }
+  },
+  {
+   "id": "MY-H021-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Article 29"
+   },
+   "text": {
+    "en": "Delete subsection (2)."
+   }
+  },
+  {
+   "id": "MY-H021-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Article 31"
+   },
+   "text": {
+    "en": "In subsection (3), insert after the words “registered post”  the words “or by electronic means”."
+   }
+  },
+  {
+   "id": "MY-H021-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Article 33"
+   },
+   "heading": {
+    "en": "Substitute for section 33 the following section:"
+   },
+   "text": {
+    "en": "“Low value goods subject to customs or excise control not to be delivered until sales tax has been paid in full\n33. Where it appears to an officer of sales tax that the sales tax on the low value goods—\n(a) has not been charged;\n(b) has been charged at a rate  lower than the rate as fixed under\nsection 10; or\n(c) has not been paid, no person shall be entitled to obtain delivery of such low value goods from customs control or excise control until the amount of sales tax on the low value goods under paragraph (a), (b) or (c) has been paid in full.”.\nPart VI (except as otherwise provided) Substitute for the words “registered manufacturer” the words “registered seller”."
+   }
+  },
+  {
+   "id": "MY-H021-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Article 35"
+   },
+   "text": {
+    "en": "1. Substitute for the words “taxable goods manufactured or imported” wherever appearing the words “sale of low value goods”.\n2. Substitute for the words “taxable goods” wherever appearing the words “low value goods”."
+   }
+  },
+  {
+   "id": "MY-H021-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Article 35"
+   },
+   "text": {
+    "en": "A In subsection (1), substitute for the words “refund of sales tax under paragraph 35(3)(c) or has made a deduction under section 23 or 41 A” the words “refund of sales tax under section 39”."
+   }
+  },
+  {
+   "id": "MY-H021-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Article 39"
+   },
+   "text": {
+    "en": "Substitute for subsections (1) and (2) the following subsections:\n“(1) The refund of whole or any part of the amount of sales tax, which has been paid to the  Director General by the registered seller, may be made or claimed under prescribed circumstances.\n(2) Notwithstanding subsection (1), the Director General may withhold the whole or any part of the amount to be refunded under subsection (1) to be  credited to any following or subsequent taxable period and the Director General shall treat the amount credited as payment or part payment received from the registered seller.”."
+   }
+  },
+  {
+   "id": "MY-H021-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Article 62"
+   },
+   "text": {
+    "en": "In subsection (3), substitute for the words “require the supplier or, on the supplier’s default” the words “require the seller or, on the seller’s default”.\nSales Tax                                            117\n(1) Provisions of this Act\n(2) Modifications"
+   }
+  },
+  {
+   "id": "MY-H021-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Article 64"
+   },
+   "text": {
+    "en": "1. Substitute for the words “manufacturer or importer” the words “manufacturer, importer or seller”.\n2. Substitute for the words “taxable goods” the words “low value goods”."
+   }
+  },
+  {
+   "id": "MY-H021-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Article 69"
+   },
+   "text": {
+    "en": "In subsection (1), substitute for the words “section 13 and 14” the words “section 13”"
+   }
+  },
+  {
+   "id": "MY-H021-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Article 70"
+   },
+   "text": {
+    "en": "In subsection (1), substitute for the words “taxable goods” the words “low value goods”."
+   }
+  },
+  {
+   "id": "MY-H021-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "Article 74"
+   },
+   "text": {
+    "en": "1. In paragraph (1)(a), substitute for the word “manufacturer” the word “seller”.\n2. In paragraph (1)(e), delete the words “or customs ruling is made under\nsection 43”."
+   }
+  },
+  {
+   "id": "MY-H021-A83",
+   "no": 83,
+   "noLabel": {
+    "en": "Article 83"
+   },
+   "text": {
+    "en": "In paragraph ( c), substitute for the words “taxable goods” the words “low value goods”.\nPart XII (except as otherwise provided)\n1. Substitute for the words “taxable goods” the words “low value goods”.\n2. Substitute for the word “manufacturer” the word “seller”.\n3. Substitute for the words “registered manufacturer” the words “registered seller”.\n4. Substitute for the word “manufacture” the word “sell”."
+   }
+  },
+  {
+   "id": "MY-H021-A86",
+   "no": 86,
+   "noLabel": {
+    "en": "Article 86"
+   },
+   "text": {
+    "en": "A 1. Substitute for the shoulder note the following shoulder note:\n“Evasion of sales tax on low value goods”.\n2. In subsection (1), substitute for the words “importation of taxable goods” the words “low value goods sold”."
+   }
+  },
+  {
+   "id": "MY-H021-A88",
+   "no": 88,
+   "noLabel": {
+    "en": "Article 88"
+   },
+   "text": {
+    "en": "Substitute for the words “section 10, 36 or 39” the words “section 39”."
+   }
+  },
+  {
+   "id": "MY-H021-A88",
+   "no": 88,
+   "noLabel": {
+    "en": "Article 88"
+   },
+   "text": {
+    "en": "A Substitute for the words “section 23, 35A or 41A” the words “section 35A”."
+   }
+  },
+  {
+   "id": "MY-H021-A98",
+   "no": 98,
+   "noLabel": {
+    "en": "Article 98"
+   },
+   "text": {
+    "en": "In subsection (1), substitute for the words “the taxable goods that have been sold, manufactured, purchased or acquired” the words “the low value goods that have been sold”."
+   }
+  },
+  {
+   "id": "MY-H021-A99",
+   "no": 99,
+   "noLabel": {
+    "en": "Article 99"
+   },
+   "text": {
+    "en": "1. Substitute for the shoulder note the following shoulder note:\n“Registered seller to submit audit certificate”.\n2. Substitute for the words “the registered manufacturer’s production and sale of taxable goods manufactured” the words “low value goods sold”.\n118 LAWS OF MALAYSIA Act 806 SALES TAX ACT 2018 LIST OF AMENDMENTS Amending law Short title In force from Act 812 Finance Act 2018 01-01-2019 Act A1578 Sales Tax (Amendment) Act 2018 02-01-2019 Act A1596 Sales Tax (Amendment) Act 2019 01-01-2020 Act 823 Finance Act 2019 01-07-2020 Act A1631 Sales Tax (Amendment) Act 2020 01-01-2021 Act A1671 Sales Tax (Amendment) Act 2022 01-01-2023 Act 851 Finance (No. 2) Act 2023 See section 110 of Act 851 Act A1718 Sales Tax (Amendment) Act 2024 01-12-2024 Act 863 Measures for The Collection, Administration and Enforcement of Tax Act 2024 01-01-2025 119 LAWS OF MALAYSIA Act 806 SALES TAX ACT 2018 LIST OF SECTIONS AMENDED Section Amending authority In force from 2 Act A1596 Act A1718 01-01-2020 01-12-2024 3 Act A1596 01-01-2020 9 Act 812 Act A1596 01-01-2019 01-01-2020 10 Act 851 30-12-2023 Part IIIA Act A1671 01-01-2023 11A Act A1671 Act 851 01-01-2023 30-12-2023 11B Act A1671 Act 851 01-01-2023 30-12-2023 11C Act A1671 01-01-2023 11D Act A1671 01-01-2023 11E Act 851 30-12-2023 13 Act 851 01-01-2024 14 Act 851 01-01-2024 17 Act A1631 01-01-2021 19 Act A1671 01-01-2023 23 Act 851 30-12-2023 26 Act A1596 Act 851 Act 863 01-01-2020 01-01-2024 01-01-2025 120                                     Laws of Malaysia                          ACT 806 Section Amending authority In force from 27 Act 812 Act A1631 Act 863 01-01-2019 01-01-2021 01-01-2025 27A Act A1596 01-01-2020 31 Act A1631 01-01-2021 32 Act A1631 01-01-2021 Heading of Part VI Act 812 01-01-2019 35A Act A1631 01-01-2021 39 Act 851 01-01-2024 41A Act 812 Act A1596 01-01-2019 01-01-2020 43 Act 851 01-01-2024 49 Act A1718 01-12-2024 49A Act A1718 01-12-2024 50 Act A1718 01-12-2024 54 Act A1718 01-12-2024 57 Act A1718 01-12-2024 57A Act A1671 01-01-2023 Part IXA Act 823 01-07-2020 69 Act A1631 01-01-2021 69A Act A1631 01-01-2021 72A Act A1578 02-01-2019 72B Act A1631 01-01-2021 74A Act A1631 01-01-2021 82 Act 812 Act 851 01-01-2019 01-01-2024 84A Act A1596 01-01-2020 86A Act A1596 01-01-2020 88A Act 812 Act A1631 01-01-2019 01-01-2021 Sales Tax                                            121 Section Amending authority In force from 90 Act 851 01-01-2024 91 Act A1671 01-01-2023 96 Act 851 01-01-2024 97 Act A1631 01-01-2021 98 Act A1631 01-01-2021 101A Act A1596 01-01-2020 106 Act A1671 Act 851 01-01-2023 01-01-2024 106A Act A1671 01-01-2023 106B Act A1671 01-01-2023 Schedule Act A1671 Act 851 Act 863 01-01-2023 30-12-2023 01-01-2025"
+   }
+  }
+ ]
+}

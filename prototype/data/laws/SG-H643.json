@@ -1,0 +1,81 @@
+{
+ "id": "SG-H643",
+ "title": {
+  "zh": null,
+  "en": "Civil Defence Shelter (Exemption) Order",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p08",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CDSA1997-OR2",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1004,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CDSA1997-OR2?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H643-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Order may be cited as the Civil Defence Shelter (Exemption) Order."
+   }
+  },
+  {
+   "id": "SG-H643-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In this Order —\n“developer” means Bukit Timah Hill Development Pte Ltd;\n“proposed development” means the proposed construction of a housing development within the meaning of the Housing Developers (Control and Licensing) Act (Cap. 130), which is intended for strata subdivision under the Land Titles (Strata) Act (Cap. 158)."
+   }
+  },
+  {
+   "id": "SG-H643-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "3. The developer is exempted from section 3(2) of the Act in respect of the proposed development on Lots 5802 and 5803 Mk 17 at 6 Mar Thoma Road, Singapore, subject to the following conditions:\n(a)an application for planning permission in respect of the proposed development shall be made to the competent authority within 6 months of the date of this Order, and written permission in respect of the application is granted by the competent authority; and\n(b)the developer shall comply with the laws of Singapore which are applicable to the carrying out of the proposed development.\n[G.N. No. S 297/2000]"
+   }
+  }
+ ]
+}

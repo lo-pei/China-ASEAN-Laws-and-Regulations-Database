@@ -1,0 +1,94 @@
+{
+ "id": "PH-H1983",
+ "title": {
+  "zh": null,
+  "en": "An Act to Authorized the Printing and Issue of Semi-Postal Stamps and a Souvenir Sheet to Commemorate and Help Raise Funds for the 10th World Jamboree",
+  "orig": "An Act to Authorized the Printing and Issue of Semi-Postal Stamps and a Souvenir Sheet to Commemorate and Help Raise Funds for the 10th World Jamboree"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p28",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1959-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2247",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 949,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1959/ra_2247_1959.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1959/ra_2247_1959.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1983-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "To commemorate and raise funds for the 10th World Jamboree, the Postmaster General, subject to the approval of the Department Head, is hereby authorized to order the printing and issuance of semi-postal stamps and souvenir sheet."
+   }
+  },
+  {
+   "id": "PH-H1983-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The Postmaster General, after agreement with the officials of the 10th World Jamboree, will fix the number of denominations, the quantities, the postage value, the additional amounts and the selling price to the public of each of said stamps and souvenir sheets."
+   }
+  },
+  {
+   "id": "PH-H1983-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The excess of all amounts derived from the sale of the issue over the postage value of the stamps and souvenir sheets sold shall be turned over to the 10th World Jamboree organization."
+   }
+  },
+  {
+   "id": "PH-H1983-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "The Postmaster General shall, out of the postage value sales of the issue, reimburse all amounts advanced or deposited by the 10th World Jamboree for the cost of printing of the stamps and other expenses."
+   }
+  },
+  {
+   "id": "PH-H1983-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1959."
+   }
+  }
+ ]
+}

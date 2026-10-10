@@ -1,0 +1,133 @@
+{
+ "id": "SG-H327",
+ "title": {
+  "zh": null,
+  "en": "Boy Scouts Association Act 1926",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p04",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act BSAA1926",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 7,
+ "chars": 1691,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/BSAA1926?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 7 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H327-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Boy Scouts Association Act 1926."
+   }
+  },
+  {
+   "id": "SG-H327-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless there is something repugnant in the subject or context —\n“Association” means the Boy Scouts Association incorporated under the Royal Charter granted on 4 January 1912;\n“boy scout” means a boy scout recognised as such under the constitution, by-laws or rules of the Association, and includes also all officers of the Association."
+   }
+  },
+  {
+   "id": "SG-H327-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Restriction on sale of badges, etc., of Association"
+   },
+   "text": {
+    "en": "3. No person, other than the Association, shall sell or expose for sale any badge, token or emblem specifically adopted for use by boy scouts under the by-laws or rules of the Association."
+   }
+  },
+  {
+   "id": "SG-H327-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Restriction on use of badges, etc., of Association"
+   },
+   "text": {
+    "en": "4. No person, not being a boy scout, shall publicly wear, carry or bear in such a manner as to convey the impression that he is a boy scout, any badge, token or emblem specifically adopted for use by boy scouts under the by-laws or rules of the Association."
+   }
+  },
+  {
+   "id": "SG-H327-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Wrongful exercise of authority by boy scouts"
+   },
+   "text": {
+    "en": "5. No boy scout shall seek or attempt, by virtue of his wearing, carrying or bearing any badge, token or emblem of the Association, or badge, token or emblem purporting or appearing to be such, to enforce or exercise authority otherwise than in accordance with and as authorised by the by-laws or rules of the Association."
+   }
+  },
+  {
+   "id": "SG-H327-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "No person falsely to claim connection with Association"
+   },
+   "text": {
+    "en": "6. No person shall form, organise, or work in connection with, or be concerned in forming, organising, or working in connection with, any corps or body which without due authority granted under the Royal Charter of the Association claims or purports to be “boy scouts”, or otherwise to be connected with the Association."
+   }
+  },
+  {
+   "id": "SG-H327-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Penalties"
+   },
+   "text": {
+    "en": "7. Any person who contravenes any of the provisions of this Act shall be guilty of an offence, and on summary conviction thereof before a Magistrate’s Court shall be liable to a fine not exceeding $200."
+   }
+  }
+ ]
+}

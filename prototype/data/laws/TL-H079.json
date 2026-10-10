@@ -1,0 +1,474 @@
+{
+ "id": "TL-H079",
+ "title": {
+  "zh": "Protecção de Testemunhas",
+  "en": null,
+  "orig": "Protecção de Testemunhas"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2009-05-06",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 2/2009",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 27,
+ "chars": 16815,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2009/serie_1/serie1_no17.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 27 条；逐字取自官方公报 PDF（public/docs/2009/serie_1/serie1_no17.pdf）第 3152–3157 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H079-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Objecto"
+   },
+   "text": {
+    "pt": "1 –   A presente lei regula a aplicação de medidas para a protecção de testemunhas, em processo civil e penal, quando a vida, a integridade física ou psíquica, a liberdade ou bens patrimoniais de valor consideravelmente elevado da testemunha sejam postos em perigo por causa do seu contributo para a prova dos factos ou descoberta da verdade material que constituam objecto do processo.\n2 – As medidas a que se refere o número anterior podem abranger o cônjuge, os ascendentes, os descendentes ou os irmãos das testemunhas e outras pessoas que lhes sejam próximas.\n3 – As medidas previstas na presente lei têm natureza excepcional e só podem ser aplicadas se, em concreto, se mostrarem necessárias e adequadas à protecção das pessoas e à realização das finalidades do processo.\n4 – É assegurada a realização do contraditório que garanta o justo equilíbrio entre as partes, o direito de defesa e a descoberta da verdade material."
+   }
+  },
+  {
+   "id": "TL-H079-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Definições"
+   },
+   "text": {
+    "pt": "Para efeitos da presente lei, considera-se:\na)   “Testemunha”, qualquer pessoa que, independentemente do seu estatuto face à lei processual, disponha de informação ou de conhecimento necessários à revelação, percepção ou apreciação de factos que constituam objecto do processo, de cuja utilização resulte um perigo para si ou para o seu cônjuge, ascendentes, descendentes, irmãos ou outras pessoas que lhe sejam próximas, nos termos dos nºs 1 e 2 do artigo anterior;\nb)  “Intimidação”, toda a pressão ou ameaça, directa, indirecta ou potencial, que alguém exerça sobre a testemunha com o objectivo de condicionar o seu depoimento ou declarações;\nc)  “Teleconferência”, depoimentos ou declarações tomados sem a presença física da testemunha e com a intervenção de meios técnicos de transmissão à distância, em tempo real, tanto do som como de imagens animadas;\nd)  “Elementos de identificação”, quaisquer elementos que, isolados ou conjuntamente com outros, permitam individualizar uma pessoa, distinguindo-a das demais;\ne)   “Residência”, local do domicílio ou local escolhido para a testemunha poder ser contactada;\nf)  “Valor consideravelmente elevado”, aquele que exceder\n50.000 dólares norte-americanos."
+   }
+  },
+  {
+   "id": "TL-H079-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Recursos"
+   },
+   "text": {
+    "pt": "1 -  É reduzido a metade o prazo para interposição de recursos das decisões previstas no presente diploma, os quais sobem de imediato e em separado.\n2 – O recurso da decisão de aplicação de uma medida de protecção de testemunhas não tem efeito suspensivo.\n3 – O provimento do recurso da decisão de aplicação de uma medida de protecção de testemunhas torna inválido o depoimento e obriga à repetição do acto."
+   }
+  },
+  {
+   "id": "TL-H079-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II OCULTAÇÃO E TELECONFERÊNCIA"
+   },
+   "heading": {
+    "pt": "Ocultação da testemunha"
+   },
+   "text": {
+    "pt": "1 – Oficiosamente ou a requerimento das partes, do Ministério Público, do lesado ou da testemunha, o tribunal pode decidir que a prestação de declarações ou de depoimento que deva ter lugar em acto processual público ou sujeito a contraditório decorra com ocultação da imagem ou com distorção da voz, ou de ambas, de modo a evitar-se o reconhecimento da testemunha.\n2 – A decisão deve fundar-se em factos ou circunstâncias que revelem intimidação ou elevado risco de intimidação da testemunha e mencionará o âmbito da ocultação da sua imagem, da distorção da voz ou de ambas.\n3 – Em caso de aplicação da medida de ocultação da testemunha não pode haver lugar a acareação."
+   }
+  },
+  {
+   "id": "TL-H079-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II OCULTAÇÃO E TELECONFERÊNCIA"
+   },
+   "heading": {
+    "pt": "Teleconferência"
+   },
+   "text": {
+    "pt": "1 – Oficiosamente ou a requerimento das partes, do Ministério Público, do lesado ou da testemunha e sempre que ponderosas razões de protecção o justifiquem, o tribunal pode decidir que a prestação de declarações ou de depoimento que deva ter lugar em acto processual público ou sujeito a contraditório decorra com recurso à teleconferência.\n2 – A teleconferência pode ser efectuada com a ocultação da imagem ou com distorção da voz, ou de ambas, de modo a evitar-se o reconhecimento da testemunha."
+   }
+  },
+  {
+   "id": "TL-H079-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II OCULTAÇÃO E TELECONFERÊNCIA"
+   },
+   "heading": {
+    "pt": "Local"
+   },
+   "text": {
+    "pt": "A prestação de depoimento ou de declarações a transmitir à distância deverá ocorrer em edifício público, sempre que possível em instalações judiciárias, policiais ou prisionais, que permitam a colocação dos meios técnicos necessários."
+   }
+  },
+  {
+   "id": "TL-H079-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II OCULTAÇÃO E TELECONFERÊNCIA"
+   },
+   "heading": {
+    "pt": "Acesso ao local"
+   },
+   "text": {
+    "pt": "O tribunal poderá limitar o acesso ao local da prestação do depoimento ou das declarações ao pessoal técnico, funcionários ou elementos de segurança que considere estritamente indispensáveis."
+   }
+  },
+  {
+   "id": "TL-H079-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II OCULTAÇÃO E TELECONFERÊNCIA"
+   },
+   "heading": {
+    "pt": "Compromisso"
+   },
+   "text": {
+    "pt": "Sempre que se pretenda evitar o reconhecimento da testemunha através da voz e da imagem ou não deva ser revelada a sua identidade, o pessoal técnico que intervenha no acto prestará compromisso de não divulgação do local ou de elementos de identificação da testemunha, sob a cominação da punição pelo crime de desobediência qualificada."
+   }
+  },
+  {
+   "id": "TL-H079-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II OCULTAÇÃO E TELECONFERÊNCIA"
+   },
+   "heading": {
+    "pt": "Magistrado acompanhante"
+   },
+   "text": {
+    "pt": "O juiz que presidir ao acto deverá assegurar a presença de um magistrado judicial no local da produção do depoimento ou das declarações, a quem caberá, designadamente:\na)    Identificar e ajuramentar a testemunha cuja identidade não deva ser revelada ou cujo reconhecimento se pretende evitar;\nb)    Receber o compromisso a que se refere o artigo anterior;\nc)   Assegurar a liberdade e espontaneidade do depoimento ou das declarações;\nd)   Providenciar pela percepção nítida das perguntas por parte da testemunha e pela transmissão das respostas em tempo real;\ne)   Servir de interlocutor do juiz que presidir ao acto, alertandoo para qualquer incidente que surja durante a prestação do depoimento ou das declarações;\nf)   Garantir a autenticidade do registo videográfico, que deve ser junto ao processo;\ng)   Tomar todas as medidas preventivas disciplinares e coactivas legalmente admissíveis que se mostrarem adequadas a garantir as limitações de acesso ao local e, de um modo geral, a segurança de quantos aí se encontrem."
+   }
+  },
+  {
+   "id": "TL-H079-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II OCULTAÇÃO E TELECONFERÊNCIA"
+   },
+   "heading": {
+    "pt": "Perguntas"
+   },
+   "text": {
+    "pt": "As perguntas a que a testemunha deva responder durante a produção de prova poderão ser formuladas nos termos da lei processual, mas sempre por intermédio do juiz que presidir ao acto."
+   }
+  },
+  {
+   "id": "TL-H079-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II OCULTAÇÃO E TELECONFERÊNCIA"
+   },
+   "heading": {
+    "pt": "Reconhecimento"
+   },
+   "text": {
+    "pt": "Se, durante a prestação do depoimento ou das declarações, for necessário o reconhecimento de pessoas, documentos ou objectos, é facultada à testemunha a respectiva visualização."
+   }
+  },
+  {
+   "id": "TL-H079-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II OCULTAÇÃO E TELECONFERÊNCIA"
+   },
+   "heading": {
+    "pt": "Não revelação de identidade"
+   },
+   "text": {
+    "pt": "Sempre que não deva ser revelada a identidade da testemunha, cabe especialmente ao juiz que preside ao acto evitar a formulação de perguntas que induzam a testemunha a fornecer indirectamente a sua identidade."
+   }
+  },
+  {
+   "id": "TL-H079-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II OCULTAÇÃO E TELECONFERÊNCIA"
+   },
+   "heading": {
+    "pt": "Acesso ao som e à imagem"
+   },
+   "text": {
+    "pt": "1 – No caso de ocultação da imagem e da voz da testemunha, deverá facultar-se ao juiz que presidir ao acto, ou ao colectivo de juízes, o acesso, em exclusivo, ao som e à imagem não distorcidos, se os meios técnicos disponíveis o permitirem.\n2 – Será sempre assegurada a comunicação autónoma e directa entre o juiz que preside ao acto e o magistrado acompanhante, bem como entre o interveniente processual que presta depoimento ou declarações e o seu mandatário."
+   }
+  },
+  {
+   "id": "TL-H079-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II OCULTAÇÃO E TELECONFERÊNCIA"
+   },
+   "heading": {
+    "pt": "Imediação"
+   },
+   "text": {
+    "pt": "Os depoimentos e declarações prestados por teleconferência, nos termos do presente diploma, consideram-se, para todos os efeitos, como tendo tido lugar na presença do juiz ou do tribunal."
+   }
+  },
+  {
+   "id": "TL-H079-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III RESERVA DO CONHECIMENTO DA IDENTIDADE DA TESTEMUNHA"
+   },
+   "heading": {
+    "pt": "Pressupostos"
+   },
+   "text": {
+    "pt": "1 - A não revelação da identidade da testemunha pode ter lugar durante ou em todas as fases do processo, se estiverem reunidas cumulativamente as seguintes condições:\na)   A testemunha, o seu cônjuge, ascendentes, descendentes, irmãos ou outras pessoas que lhe sejam próximas correrem um grave perigo de atentado contra a vida, a integridade física ou psíquica, a liberdade ou bens patrimoniais de valor consideravelmente elevado;\nb)  Não ser fundadamente posta em dúvida a credibilidade da testemunha;\nc)  O depoimento ou as declarações constituírem um contributo probatório de relevo.\n2 -  Para além de cumpridas as condições previstas no número anterior, a aplicação da medida de não revelação da identidade das testemunhas apenas pode ter lugar quando:\na)   Esteja em causa crime a que corresponda pena máxima, abstractamente aplicável, superior a cinco anos de prisão;\nb)   Esteja em causa a tutela de menores;\nc)   Estejam em causa bens patrimoniais de valor consideravelmente elevado."
+   }
+  },
+  {
+   "id": "TL-H079-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III RESERVA DO CONHECIMENTO DA IDENTIDADE DA TESTEMUNHA"
+   },
+   "heading": {
+    "pt": "Competência"
+   },
+   "text": {
+    "pt": "1 – A aplicação da medida de não revelação da identidade da testemunha é decidida pelo juiz do processo, oficiosamente ou a requerimento.\n2 –  Em sede de inquérito, a aplicação da medida de não revelação da identidade da testemunha pode ser requerida pelo Ministério Público.\n3 -  Em sede de processo judicial, a não revelação da identidade da testemunha pode ser requerida por qualquer das partes, pelo Ministério Público, pelo arguido ou pelo lesado.\n4 – O requerimento contém a indicação dos fundamentos para a não revelação da identidade da testemunha no caso concreto e a indicação das provas que devam ser produzidas."
+   }
+  },
+  {
+   "id": "TL-H079-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III RESERVA DO CONHECIMENTO DA IDENTIDADE DA TESTEMUNHA"
+   },
+   "heading": {
+    "pt": "Processo complementar de não revelação de identidad"
+   },
+   "text": {
+    "pt": "1 – Para a apreciação do pedido de não revelação de identidade é organizado um processo complementar, secreto e urgente, em separado, ao qual apenas tem acesso o juiz do processo e quem ele autorizar.\n2 – Apresentado o pedido de não revelação de identidade ou sendo o processo complementar iniciado oficiosamente, o juiz ordena a realização das diligências que repute necessárias.\n3 – Finda a realização das diligências previstas no número anterior, o juiz notifica as partes dos fundamentos do pedido e para, no prazo de cinco dias, querendo, se pronunciarem por escrito, podendo nesse prazo requerer novas diligências.\n4 – O juiz assegura a guarda e a confidencialidade do processo complementar, não podendo constar da notificação referida no número anterior quaisquer elementos susceptíveis de revelar a identidade da testemunha a abranger pela medida de protecção.\n5 – A oportunidade de realização de novas diligências é livremente decidida pelo juiz.\n6 – A decisão que conceda a medida estabelece uma designação codificada à testemunha, pela qual passará a ser referenciada no processo, sendo a designação comunicada à autoridade judiciária com competência na fase em que o processo se encontre.\n7 – A medida é revogada pelo juiz, a requerimento do Ministério Público, da testemunha ou da parte interessada na não aplicação da medida de não revelação da identidade da testemunha, logo que se mostre desnecessária, desde que realizadas as diligências convenientes e ouvido o Ministério Público, se este não for o requerente.\n8 – A decisão de um juiz sobre o pedido de não revelação de identidade impede-o de intervir posteriormente no processo principal."
+   }
+  },
+  {
+   "id": "TL-H079-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III RESERVA DO CONHECIMENTO DA IDENTIDADE DA TESTEMUNHA"
+   },
+   "heading": {
+    "pt": "Audição de testemunhas e valor probatório"
+   },
+   "text": {
+    "pt": "1 – A testemunha a quem for concedida a medida de não revelação de identidade pode prestar depoimento ou declarações com recurso à ocultação de imagem, à distorção de voz ou à teleconferência, nos termos do disposto nos artigos 4.º e 5.º.\n2 – Nenhuma decisão condenatória poderá fundar-se exclusivamente no depoimento ou nas declarações produzidas por uma ou mais testemunhas cuja identidade não tenha sido revelada."
+   }
+  },
+  {
+   "id": "TL-H079-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV MEDIDAS E PROGRAMAS ESPECIAIS DE SEGURANÇA"
+   },
+   "heading": {
+    "pt": "Medidas pontuais de segurança"
+   },
+   "text": {
+    "pt": "1 – Sempre que ponderosas razões de segurança o justifiquem, estando em causa crimes cuja pena máxima abstractamente aplicável seja superior a cinco anos de prisão, a tutela de menores ou bens patrimoniais de valor consideravelmente elevado, sem prejuízo de outras medidas de protecção previstas no presente diploma, a testemunha poderá beneficiar de medidas pontuais de segurança, nomeadamente das seguintes:\na)  Poder indicar no processo residência diferente da residência habitual ou que não coincida com os lugares de domicílio previstos na lei civil;\nb) Ter assegurado o reembolso imediato pelas despesas realizadas com as deslocações para prestar depoimento ou declarações;\nc)  Dispor de compartimento, eventualmente vigiado e com segurança, nas instalações judiciárias ou policiais a que tenha de se deslocar e no qual possa permanecer sem a companhia de outros intervenientes no processo;\nd)  Beneficiar de protecção policial, extensiva ao cônjuge, ascendentes, descendentes, irmãos ou outras pessoas que lhe sejam próximas.\n2 – Em processo de natureza criminal, as medidas previstas no número anterior são ordenadas oficiosamente pelo Ministério Público, durante o inquérito, ou a requerimento da testemunha ou do seu representante legal ou por proposta das autoridades de polícia e, posteriormente ao inquérito, pelo juiz do processo, oficiosamente ou a requerimento do Ministério Público.\n3 - Em processo de natureza cível, as medidas previstas no n.o 1 são ordenadas pelo juiz, oficiosamente ou a requerimento do Ministério Público, da testemunha ou do seu representante legal.\n4 – A autoridade judiciária realiza as diligências necessárias para avaliar a necessidade e adequação da medida no caso concreto.\n5 – De três em três meses, a autoridade judiciária procede ao reexame da decisão, mantendo-a, modificando-a ou revogando as medidas aplicadas.\n6 – A protecção policial referida na alínea d) do n.º 1 é, em regra, assegurada por corporação policial."
+   }
+  },
+  {
+   "id": "TL-H079-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV MEDIDAS E PROGRAMAS ESPECIAIS DE SEGURANÇA"
+   },
+   "heading": {
+    "pt": "Programa especial de segurança"
+   },
+   "text": {
+    "pt": "A testemunha, o seu cônjuge, ascendentes, descendentes, irmãos ou outras pessoas que lhe sejam próximas podem beneficiar de um programa especial de segurança durante a pendência do processo ou mesmo depois de este se encontrar findo, se estiverem reunidas cumulativamente as seguintes condições:\na)    O depoimento ou as declarações disserem respeito a crimes cuja pena máxima abstractamente aplicável seja superior a cinco anos de prisão;\nb)  Existir grave perigo para a vida, a integridade física ou psíquica ou a liberdade;\nc)    O depoimento ou as declarações constituírem um contributo que se presuma ou se tenha revelado essencial para a descoberta da verdade."
+   }
+  },
+  {
+   "id": "TL-H079-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV MEDIDAS E PROGRAMAS ESPECIAIS DE SEGURANÇA"
+   },
+   "heading": {
+    "pt": "Conteúdo do programa especial de segurança"
+   },
+   "text": {
+    "pt": "1 –  O programa especial de segurança inclui a aplicação de uma ou várias medidas administrativas e de polícia de protecção e apoio, eventualmente complementadas por regras de comportamento a observar pelo beneficiário, convenientemente articuladas.\n2 – Para efeitos do disposto no número anterior, constituem medidas de protecção e apoio, entre outras, as seguintes:\na)  Concessão de protecção policial, com o âmbito e pelo tempo que for determinado;\nb)   Fornecimento de documentos emitidos oficialmente de que constem elementos de identificação diferentes dos que antes constassem ou devessem constar dos documentos substituídos;\nc)   Concessão de nova habitação, no País ou no estrangeiro, pelo tempo que for determinado;\nd) Transporte gratuito da pessoa do beneficiário, do agregado familiar e dos respectivos haveres para o local da nova habitação;\ne)  Criação de condições para a angariação de meios de subsistência;\nf)  Concessão de um subsídio de subsistência por um período limitado;\ng)   Alteração do aspecto fisionómico ou da aparência do corpo do beneficiário.\n3 – Se o programa especial de segurança incluir regras de comportamento, a sua inobservância dolosa implica a supressão do programa."
+   }
+  },
+  {
+   "id": "TL-H079-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV MEDIDAS E PROGRAMAS ESPECIAIS DE SEGURANÇA"
+   },
+   "heading": {
+    "pt": "Comissão de Programas Especiais de Segurança"
+   },
+   "text": {
+    "pt": "1 – É criada a Comissão de Programas Especiais de Segurança, na dependência directa do Ministro da Justiça, à qual cabe estabelecer e assegurar a efectivação dos programas especiais de segurança.\n2 – A Comissão de Programas Especiais de Segurança é constituída por um presidente e por um secretário, nomeados pelo Ministro da Justiça, um magistrado judicial e um magistrado do Ministério Público, indicados respectivamente pelo Conselho Superior da Magistratura e pelo Conselho Superior do Ministério Público, por um representante nomeado pela Secretaria de Estado da Segurança indicado pelo respectivo Secretário de Estado e por um representante do Provedor dos Direitos Humanos e Justiça, por este designado.\n3 – As decisões da Comissão de Programas Especiais de Segurança são tomadas por maioria simples de votos, tendo o presidente voto de qualidade.\n4 – Os membros da Comissão de Programas Especiais de Segurança são nomeados por um período de três anos, podendo este ser renovado por igual período de tempo até ao limite de duas renovações."
+   }
+  },
+  {
+   "id": "TL-H079-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV MEDIDAS E PROGRAMAS ESPECIAIS DE SEGURANÇA"
+   },
+   "heading": {
+    "pt": "Procedimento"
+   },
+   "text": {
+    "pt": "1 – Sempre que possível, organiza-se um único processo confidencial para cada programa especial de protecção, o qual abrange a testemunha e as pessoas referidas no artigo\n20.º.\n2 -  À Comissão de Programas Especiais de Segurança é devida a mais pronta e eficaz colaboração de todas as entidades públicas, com vista ao estabelecimento e execução do programa.\n3 – O estabelecimento do programa depende da concordância do beneficiário, o qual deve assinar declaração aceitando e comprometendo-se a respeitar o programa.\n4 – O programa especial de protecção pode ser alterado sempre que necessário e é obrigatoriamente revisto com a periodicidade que nele se determinar."
+   }
+  },
+  {
+   "id": "TL-H079-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV MEDIDAS E PROGRAMAS ESPECIAIS DE SEGURANÇA"
+   },
+   "heading": {
+    "pt": "Impedimentos"
+   },
+   "text": {
+    "pt": "A intervenção pessoal num determinado processo constitui impedimento relativamente a esse processo, para integrar a Comissão de Programas Especiais de Segurança, no que respeitar ao estabelecimento e aplicação de programas."
+   }
+  },
+  {
+   "id": "TL-H079-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V DISPOSIÇÕES FINAIS"
+   },
+   "heading": {
+    "pt": "Regulamentação e execução"
+   },
+   "text": {
+    "pt": "1 – No prazo de noventa dias a contar da entrada em vigor do presente diploma, o Governo providencia pela tomada de medidas de carácter organizativo e técnico e assegura as infra-estruturas e outros meios tecnológicos necessários à aplicação da presente lei.\n2 – As medidas previstas nos artigos anteriores podem ser requeridas e adoptadas a partir da data da entrada em vigor do presente diploma e nas demais condições previstas na legislação regulamentar da presente lei."
+   }
+  },
+  {
+   "id": "TL-H079-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V DISPOSIÇÕES FINAIS"
+   },
+   "heading": {
+    "pt": "Norma revogatória"
+   },
+   "text": {
+    "pt": "São revogadas todas as disposições legais contrárias ao disposto no presente diploma."
+   }
+  },
+  {
+   "id": "TL-H079-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V DISPOSIÇÕES FINAIS"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "O presente diploma entra em vigor no sexagésimo dia posterior ao da sua publicação."
+   }
+  }
+ ]
+}

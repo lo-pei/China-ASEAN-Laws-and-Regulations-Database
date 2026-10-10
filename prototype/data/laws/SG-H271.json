@@ -1,0 +1,130 @@
+{
+ "id": "SG-H271",
+ "title": {
+  "zh": null,
+  "en": "Attorney-General (Additional Functions) Act 2014",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p04",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act AGAFA2014",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 7,
+ "chars": 4502,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/AGAFA2014?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 7 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H271-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Attorney-General (Additional Functions) Act 2014."
+   }
+  },
+  {
+   "id": "SG-H271-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“administrative decision” means a decision of an administrative character which is, is proposed to be, or is required to be, made (whether or not in the exercise of a discretion and whether before, on or after 1 January 2015) under any public Act;\n“instrument of legislative character” includes an instrument of legislative character made before 1 January 2015 under any public Act;\n“judicial review” includes proceedings instituted by way of —\n(a)an application in respect of an administrative decision for a Mandatory Order, Prohibiting Order or Quashing Order, or in respect of an instrument of legislative character for a Quashing Order; or\n(b)an application for a declaration or an injunction, or any other suit or action, relating to or arising out of any administrative decision or instrument of legislative character;\n“relevant statutory board” means any statutory board specified in the Schedule;\n“statutory board” means a body corporate or unincorporate established by or under any public Act to perform or discharge a public function."
+   }
+  },
+  {
+   "id": "SG-H271-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Representing relevant statutory boards in judicial review and related court proceedings"
+   },
+   "text": {
+    "en": "3.—(1) The Attorney‑General may represent a relevant statutory board in —\n(a)a judicial review instituted by any person in respect of an administrative decision or instrument of legislative character of the relevant statutory board; and\n(b)any proceedings in court (however instituted) for a liquidated sum, damages, equitable relief or restitution if a Mandatory Order, Prohibiting Order, Quashing Order or declaration is made pursuant to the judicial review,\nif —\n(c)the relevant statutory board makes a request to the Attorney‑General for such representation;\n(d)the Minister charged with the responsibility for the relevant statutory board consents to such representation;\n(e)the Attorney‑General is of the opinion that the Government and the relevant statutory board have no conflicting interests in the matter; and\n(f)the Attorney‑General is of the opinion that such representation is not contrary to the public interest.\n(2) Any decision made by the Attorney‑General to, or not to, represent a relevant statutory board pursuant to subsection (1) is final and conclusive."
+   }
+  },
+  {
+   "id": "SG-H271-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Representing relevant statutory boards in other court proceedings"
+   },
+   "text": {
+    "en": "4.—(1) The Attorney‑General may represent a relevant statutory board in other proceedings in court (however instituted) not mentioned in section 3(1), if —\n(a)the relevant statutory board makes a request to the Attorney‑General for such representation;\n(b)the Minister charged with the responsibility for the relevant statutory board consents to such representation;\n(c)the Attorney‑General is of the opinion that the Government and the relevant statutory board have no conflicting interests in the matter; and\n(d)the Attorney‑General is of the opinion that the proceedings concern a matter of public importance.\n(2) Any decision made by the Attorney‑General to, or not to, represent a relevant statutory board pursuant to subsection (1) is final and conclusive."
+   }
+  },
+  {
+   "id": "SG-H271-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "5. The Attorney‑General may require a relevant statutory board to pay a fee of such reasonable amount as the Attorney‑General determines for representing the relevant statutory board in any proceedings in court mentioned in section 3 or 4, and that fee is to be a charge on the funds of that statutory board."
+   }
+  },
+  {
+   "id": "SG-H271-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Amendment of Schedule"
+   },
+   "text": {
+    "en": "6. The President may, by order in the Gazette, amend the Schedule."
+   }
+  },
+  {
+   "id": "SG-H271-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nSections 2 and 6\nRelevant statutory boards\n1.Accounting and Corporate Regulatory Authority\n2.Building and Construction Authority\n3.[Deleted by Act 14 of 2022 wef 01/08/2022]\n4.Central Provident Fund Board\n5.Civil Aviation Authority of Singapore\n5A.Communicable Diseases Agency\n[Act 4 of 2025 wef 01/04/2025]\n6.Energy Market Authority of Singapore\n6A.Gambling Regulatory Authority of Singapore\n[Act 14 of 2022 wef 01/08/2022]\n7.Health Sciences Authority\n8.Housing and Development Board\n9.Info-communications Media Development Authority\n10.Inland Revenue Authority of Singapore\n11.Intellectual Property Office of Singapore\n12.Land Transport Authority of Singapore\n13.Maritime and Port Authority of Singapore\n14.Monetary Authority of Singapore\n15.National Environment Agency\n16.National Heritage Board\n17.National Parks Board\n18.Presidential Elections Committee\n19.Public Transport Council\n20.Public Utilities Board\n21.Singapore Food Agency\n22.Singapore Land Authority\n23.Skills and Workforce Development Agency\n[Act 17 of 2026 wef 01/07/2026]\n24.Urban Redevelopment Authority\n[11/2019; S 753/2018; S 871/2018]"
+   }
+  }
+ ]
+}

@@ -1,0 +1,1418 @@
+{
+ "id": "SG-H2768",
+ "title": {
+  "zh": null,
+  "en": "Insolvency, Restructuring and Dissolution (Bankruptcy) Regulations 2020",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p35",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation IRDA2018-S587-2020",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 86,
+ "chars": 61501,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/IRDA2018-S587-2020?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 86 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2768-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Insolvency, Restructuring and Dissolution (Bankruptcy) Regulations 2020 and come into operation on 30 July 2020."
+   }
+  },
+  {
+   "id": "SG-H2768-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations, unless the context otherwise requires —\n“Bankruptcy Estates Account” means the Bankruptcy Estates Account kept by the Official Assignee under section 28 of the Act;\n“Court” includes the Registrar when exercising the powers of the General Division of the High Court under the Act or the Personal Insolvency Rules;\n[S 1049/2020 wef 02/01/2021]\n“creditor’s bankruptcy application” includes a bankruptcy application made under section 287 of the Act by a nominee of a voluntary arrangement under Part 14 of the Act or a creditor bound by such voluntary arrangement;\n“estate”, in relation to a trustee, means the estate of a bankrupt that is being or that has been administered by the trustee;\n“Filing of Documents Regulations” means the Insolvency, Restructuring and Dissolution (Filing, Lodgment and Submission of Documents) Regulations 2020 (G.N. No. S 586/2020);\n“Personal Insolvency Rules” means the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020 (G.N. No. S 585/2020).\n(2) In these Regulations, any reference to the Official Assignee does not include a reference to a trustee in bankruptcy, and any reference to a trustee in bankruptcy does not include a reference to the Official Assignee.\n(3) In these Regulations —\n(a)any reference to Part 3 of the Act is a reference to only those provisions in —\n(i)Division 1 of that Part concerning the Official Assignee; and\n(ii)Division 2 of that Part; and\n(b)any reference to Part 22 of the Act is a reference to that Part only in the case of a debtor who is an individual."
+   }
+  },
+  {
+   "id": "SG-H2768-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Forms"
+   },
+   "text": {
+    "en": "3. The Forms to be used for the purposes of these Regulations are those set out on the Internet website of the Ministry of Law at https://www.mlaw.gov.sg, and any reference in these Regulations to a numbered form (where such number may include alphanumeric characters) is to be construed as a reference to the current version of the form bearing the corresponding number which is displayed at that website."
+   }
+  },
+  {
+   "id": "SG-H2768-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Notices to be in writing"
+   },
+   "text": {
+    "en": "4. All notices required to be given by Part 3 or Parts 13 to 22 of the Act or these Regulations must be in writing, unless the Court otherwise orders."
+   }
+  },
+  {
+   "id": "SG-H2768-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Proof of posting of notice by Official Assignee"
+   },
+   "text": {
+    "en": "5. Where, by any provision of Part 3 or Parts 13 to 22 of the Act or these Regulations, any notice is required to be sent by the Official Assignee, the sending of the notice may be proved by a signed statement, by the Official Assignee or any officer appointed under section 16(4)(a) of the Act who sent it, that the notice was duly sent."
+   }
+  },
+  {
+   "id": "SG-H2768-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 OFFICIAL ASSIGNEE"
+   },
+   "heading": {
+    "en": "Use of proxies by Official Assignee"
+   },
+   "text": {
+    "en": "6. Where the Official Assignee holds any proxy and cannot conveniently attend any meeting of creditors at which the proxy might be used, the Official Assignee may in writing depute a person in the employment or under the official control of the Official Assignee, or a public officer, to attend the meeting and use the proxy on the Official Assignee’s behalf in any manner that the Official Assignee may direct."
+   }
+  },
+  {
+   "id": "SG-H2768-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 OFFICIAL ASSIGNEE"
+   },
+   "heading": {
+    "en": "Removal of special manager"
+   },
+   "text": {
+    "en": "7.—(1) Where a special manager has been appointed under section 379 of the Act, the Official Assignee may at any time remove the special manager if the special manager’s employment seems unnecessary or unprofitable to the estate.\n(2) The Official Assignee must remove a special manager if so required by a special resolution of the creditors of the estate."
+   }
+  },
+  {
+   "id": "SG-H2768-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 OFFICIAL ASSIGNEE"
+   },
+   "heading": {
+    "en": "Deposits payable to Official Assignee"
+   },
+   "text": {
+    "en": "8.—(1) In the case of each of the following applications, the appropriate deposit must be paid to the Official Assignee by the person making the application before the application is made:\n(a)a creditor’s bankruptcy application under section 307 of the Act (including an amended creditor’s bankruptcy application where the Court orders a substitution of an applicant creditor under the Personal Insolvency Rules);\n(b)a debtor’s bankruptcy application under section 308 of the Act;\n(c)an application under section 324 of the Act for the appointment of the Official Assignee as the interim receiver of the property of a debtor or any part of the property of a debtor;\n(d)an application under section 419 of the Act for the administration in bankruptcy of the estate of a deceased debtor.\n(2) In this regulation, “appropriate deposit” means the appropriate deposit specified in the Insolvency, Restructuring and Dissolution (Official Assignee’s Fees) Regulations 2020 (G.N. No. S 590/2020)."
+   }
+  },
+  {
+   "id": "SG-H2768-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 TRUSTEE IN BANKRUPTCY"
+   },
+   "heading": {
+    "en": "Provisions as to security"
+   },
+   "text": {
+    "en": "9.—(1) Where a trustee in bankruptcy has been appointed, the following provisions as to security (including any fresh security required under section 38(1)(b) of the Act) have effect:\n(a)the security must be given by the trustee in bankruptcy in the form of a banker’s guarantee or a performance bond or guarantee issued by an insurer licensed under the Insurance Act (Cap. 142);\n(b)the Official Assignee must fix the amount of the security to be given by the trustee in bankruptcy, and may from time to time, as the Official Assignee thinks fit, increase or diminish the amount of security which the trustee in bankruptcy may have given;\n(c)the cost of giving the required security must be borne by the trustee in bankruptcy personally.\n(2) The Official Assignee must not discharge the security given by the trustee in bankruptcy until the Official Assignee is satisfied that the trustee in bankruptcy has faithfully performed his or her duties during the course of his or her trusteeship until the date of cessation of his or her office."
+   }
+  },
+  {
+   "id": "SG-H2768-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 TRUSTEE IN BANKRUPTCY"
+   },
+   "heading": {
+    "en": "Report of trustee in bankruptcy"
+   },
+   "text": {
+    "en": "10.—(1) Unless otherwise directed by the Official Assignee, a trustee in bankruptcy must, not later than one month after the end of every 12 months during the relevant bankruptcy period, submit to the Official Assignee and the creditors’ committee (if any), a written report of the trustee in bankruptcy’s administration of the bankruptcy.\n(2) The report under paragraph (1) must contain particulars of —\n(a)the total amount of debts owed to creditors who have filed proofs of debt;\n(b)the property of the bankrupt comprised in the bankrupt’s estate and the status of the realisation of such property;\n(c)the monthly contribution and target contribution for the bankruptcy;\n(d)the payments that have been made by the bankrupt to the bankrupt’s estate;\n(e)any other payments that have been made to the bankrupt’s estate;\n(f)any payments that have been made out of the bankrupt’s estate; and\n(g)such other information relating to the administration of the bankruptcy by the trustee in bankruptcy as is required by the Official Assignee.\n(3) In this regulation, “relevant bankruptcy period” means —\n(a)in a case where the bankruptcy is a repeat bankruptcy — the period between the date of the making of the bankruptcy order and the seventh anniversary of the administration date (both dates inclusive); or\n(b)in any other case — the period between the date of the making of the bankruptcy order and the fifth anniversary of the administration date (both dates inclusive)."
+   }
+  },
+  {
+   "id": "SG-H2768-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 TRUSTEE IN BANKRUPTCY"
+   },
+   "heading": {
+    "en": "Payment by trustee in bankruptcy to Bankruptcy Estates Account"
+   },
+   "text": {
+    "en": "11.—(1) Except as otherwise provided by these Regulations or the Personal Insolvency Rules or directed by the Court, every trustee in bankruptcy must pay into the Bankruptcy Estates Account without deduction all moneys received by the trustee in bankruptcy from the bankrupt’s assets or coming into his or her possession as trustee in bankruptcy.\n(2) Subject to paragraph (3), a trustee in bankruptcy may keep, with such bank as the Official Assignee may approve, a separate account for the purpose of making such payments as may be necessary in the course of the administration of the bankrupt’s estate.\n(3) The balance standing in the bank account mentioned in paragraph (2) must not exceed $2,000 at any time unless the prior permission of the Official Assignee has been obtained.\n(4) Where the cash balance standing to the credit of the bank account mentioned in paragraph (2) exceeds $2,000 or the amount which the Official Assignee may have permitted under paragraph (3), the excess must be remitted to the Bankruptcy Estates Account at the end of every week.\n(5) Every remittance under paragraph (1) or (4) must be made by cheque crossed “Official Assignee, credit of Bankruptcy Estates Account” and must be accompanied by a statement of account.\n(6) Section 29 of the Act applies to moneys paid into the Bankruptcy Estates Account by a trustee in bankruptcy as it applies to moneys paid into that account by the Official Assignee under section 28 of the Act.\n(7) All necessary disbursements made by a trustee in bankruptcy on account of the bankrupt’s estate must, upon an application made by the trustee in bankruptcy to the Official Assignee, be repaid to the trustee in bankruptcy out of any moneys standing to the credit of the bankrupt’s estate in the Bankruptcy Estates Account.\n(8) For the purpose of declaring a dividend, a trustee in bankruptcy may apply to the Official Assignee for funds available for the purpose standing to the credit of the bankrupt’s estate in the Bankruptcy Estates Account.\n(9) The application mentioned in paragraph (8) must be supported by a certified list of creditors showing the amount of their proofs and the moneys they are due to receive by way of dividend.\n(10) The Official Assignee is in no case liable for any payment made on the requisition of a trustee in bankruptcy.\n(11) Where the Court orders a trustee in bankruptcy to pay all moneys received by him or her from the bankrupt’s assets or coming into his or her possession as trustee in bankruptcy into a bank account other than the Bankruptcy Estates Account, any interest earned in respect of such moneys must, unless the Court otherwise directs, be remitted by the trustee in bankruptcy to the Bankruptcy Estates Account at such time as may be determined by the Official Assignee."
+   }
+  },
+  {
+   "id": "SG-H2768-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 TRUSTEE IN BANKRUPTCY"
+   },
+   "heading": {
+    "en": "Trustee in bankruptcy to notify Official Assignee of constitution of creditors’ committee"
+   },
+   "text": {
+    "en": "12. Where, at a meeting of creditors summoned by a trustee in bankruptcy under section 330 of the Act, a creditors’ committee is appointed under section 331 of the Act, the trustee in bankruptcy must notify the Official Assignee of the constitution of the creditors’ committee and any subsequent change in the constitution of the creditors’ committee."
+   }
+  },
+  {
+   "id": "SG-H2768-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 TRUSTEE IN BANKRUPTCY"
+   },
+   "heading": {
+    "en": "Removal of trustee in bankruptcy by creditors’ meeting"
+   },
+   "text": {
+    "en": "13.—(1) Where a trustee in bankruptcy has been directed by the Court or requested in writing under section 330(2) of the Act to summon a meeting of creditors for the purpose of removing the trustee in bankruptcy, the trustee in bankruptcy must, no later than 3 days after being so directed or receiving the written request (as the case may be), serve a notice summoning the meeting of creditors to —\n(a)the Official Assignee; and\n(b)every creditor who has proved the creditor’s debt at least 2 months before the date fixed for the meeting.\n(2) The notice summoning the meeting of creditors must state —\n(a)the purpose of the meeting; and\n(b)the date fixed for the meeting, which must not be later than 2 months after the date of that notice.\n(3) The trustee in bankruptcy must, not later than one month before the date fixed for the meeting of creditors, serve on the persons mentioned in paragraph (1)(a) and (b) —\n(a)a notice stating the name of any person who is proposed to be appointed in place of the trustee in bankruptcy; and\n(b)a report of the trustee in bankruptcy containing particulars of —\n(i)the total amount of debts owed to creditors who have filed proofs of debt;\n(ii)the property of the bankrupt comprised in the bankrupt’s estate and the status of the realisation of such property;\n(iii)the monthly contribution and target contribution for the bankruptcy;\n(iv)the payments that have been made by the bankrupt to the bankrupt’s estate;\n(v)any other payments that have been made to the bankrupt’s estate;\n(vi)any payments that have been made out of the bankrupt’s estate;\n(vii)any outstanding work to be done in relation to the administration of the bankruptcy; and\n(viii)such other information relating to the administration of the bankruptcy by the trustee in bankruptcy as is required by the Official Assignee.\n(4) Where it is decided by special resolution passed at the meeting of creditors that the trustee in bankruptcy be removed or a new trustee in bankruptcy be appointed, the chairperson of the meeting of creditors must, within 3 days after the resolution is passed, serve a notice of the resolution on the Official Assignee."
+   }
+  },
+  {
+   "id": "SG-H2768-A13.001",
+   "no": 13.001,
+   "noLabel": {
+    "en": "13A."
+   },
+   "chapter": {
+    "en": "PART 3 TRUSTEE IN BANKRUPTCY"
+   },
+   "heading": {
+    "en": "Remuneration sought by trustee in bankruptcy"
+   },
+   "text": {
+    "en": "13A.—(1) For the purposes of section 41(4)(a) of the Act, the prescribed manner for the trustee to notify the creditor of the remuneration sought by the trustee is by notice in Form BR-18 sent to the creditor —\n(a)by registered post to the creditor’s usual or last known place of residence or business or at any address furnished by the creditor; or\n(b)by electronic means in accordance with section 442(1) of the Act.\n(2) For the purposes of section 41(4)(b) of the Act —\n(a)the prescribed manner for the creditor to object to the remuneration is by notice in Form BR-19 sent to the trustee; and\n(b)the prescribed time is —\n(i)if the notice was sent to the creditor under paragraph (1)(a) — 21 days after the day the notice is delivered; or\n(ii)if the notice was sent to the creditor under paragraph (1)(b) — 21 days after the day the notice is deemed to be delivered under section 442(3) or (4) of the Act.\n[S 689/2023 wef 01/11/2023]"
+   }
+  },
+  {
+   "id": "SG-H2768-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 4 INTERIM RECEIVER"
+   },
+   "heading": {
+    "en": "Repayment of deposit to applicant for order appointing interim receiver, etc."
+   },
+   "text": {
+    "en": "14. Where the Official Assignee has been appointed as the interim receiver of a debtor’s property under section 324 of the Act and the debtor is subsequently adjudged bankrupt —\n(a)the costs and expenses incurred by the Official Assignee as such interim receiver are deemed to be part of the costs and expenses incurred by the Official Assignee within the meaning of section 352(1)(a) of the Act and are to be paid according to the priority specified in respect of such costs and expenses by the Act; and\n(b)the Official Assignee may, out of such moneys received by the Official Assignee, repay to the person who applied for the appointment of the interim receiver any deposit paid by such person under regulation 8."
+   }
+  },
+  {
+   "id": "SG-H2768-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 5 PRESCRIBED VALUE FOR PURPOSES OF SECTION 274 OF ACT"
+   },
+   "heading": {
+    "en": "Prescribed value for purposes of section 274(1)(f) of Act"
+   },
+   "text": {
+    "en": "15. For the purposes of section 274(1)(f) of the Act, the prescribed value is $1,000."
+   }
+  },
+  {
+   "id": "SG-H2768-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Meetings summoned by trustee of bankrupt’s estate"
+   },
+   "text": {
+    "en": "16.—(1) When a meeting of a bankrupt’s creditors is summoned by the trustee of the bankrupt’s estate under section 330(1) of the Act or when requested to do so under section 330(2) of the Act, the trustee must fix the date and time of the meeting and send a notice to each creditor at —\n(a)the address given in the creditor’s proof of debt filed with the trustee; or\n(b)if the creditor has not filed a proof of debt with the trustee — the address given in the bankrupt’s statement of affairs or the creditor’s last known address as notified to the trustee.\n(2) The notice of meeting mentioned in paragraph (1) must be sent to the creditors at least 3 days before the day appointed for the meeting.\n(3) The notice of meeting mentioned in paragraph (1) must be in Form BR‑1.\n(4) Proxy forms must be sent together with every notice of meeting sent under paragraph (1)."
+   }
+  },
+  {
+   "id": "SG-H2768-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Meetings summoned by Court"
+   },
+   "text": {
+    "en": "17.—(1) Where the Court orders a meeting of creditors of a bankrupt to be summoned under section 330(2) of the Act, the person who applied for the order of the Court must send a sealed copy of the order in Form BR‑2 to the trustee of the bankrupt’s estate.\n(2) The trustee of the bankrupt’s estate must summon the meeting as the Court orders and, not less than 3 days before the meeting, send a copy of the order of the Court to each creditor at —\n(a)the address given in the creditor’s proof of debt filed with the trustee; or\n(b)if the creditor has not filed a proof of debt with the trustee — the address given by the bankrupt in the bankrupt’s statement of affairs or the creditor’s last known address as notified to the trustee."
+   }
+  },
+  {
+   "id": "SG-H2768-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Creditors’ committees in bankruptcy of partnership"
+   },
+   "text": {
+    "en": "18. In the bankruptcy of a partnership, each set of separate creditors may appoint its own creditors’ committee, and a committee appointed by the joint creditors is deemed to have been appointed also by any set of separate creditors who do not appoint a separate committee."
+   }
+  },
+  {
+   "id": "SG-H2768-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Non-receipt of notice by creditor"
+   },
+   "text": {
+    "en": "19. Unless the Court otherwise orders, the proceedings at a meeting of creditors are valid even if some creditors have not received the notice summoning the meeting."
+   }
+  },
+  {
+   "id": "SG-H2768-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Chairperson of meeting"
+   },
+   "text": {
+    "en": "20. Unless the Court otherwise orders, the chairperson of a meeting of a bankrupt’s creditors is —\n(a)where the Official Assignee is appointed as the trustee of the bankrupt’s estate — the Official Assignee or a person nominated by the Official Assignee; or\n(b)where a trustee in bankruptcy is appointed as the trustee of the bankrupt’s estate — the trustee in bankruptcy."
+   }
+  },
+  {
+   "id": "SG-H2768-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Costs of creditors’ meeting"
+   },
+   "text": {
+    "en": "21.—(1) Unless the Court otherwise orders —\n(a)the costs of summoning and holding a meeting of a bankrupt’s creditors under section 330(1) of the Act or ordered by the Court under section 330(2) of the Act are to be paid out of the estate of the bankrupt as an expense of the bankruptcy; and\n(b)the costs of summoning and holding a meeting of a bankrupt’s creditors by the request of the bankrupt’s creditors under section 330(2) of the Act are to be paid by the creditor or creditors who made the request.\n(2) The creditor or creditors mentioned in paragraph (1)(b) must —\n(a)at the time of summoning the meeting, make full payment of the costs; or\n(b)before the meeting is summoned, deposit with the trustee of the bankrupt’s estate the sum required by the trustee as security for the payment of the costs.\n(3) The trustee of the bankrupt’s estate is not required to act without paragraph (2) having been complied with."
+   }
+  },
+  {
+   "id": "SG-H2768-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Orders or directions for meetings"
+   },
+   "text": {
+    "en": "22. The Court may, either on its own motion or on the application of a bankrupt, a creditor or the chairperson of a meeting of the bankrupt’s creditors summoned under section 330 of the Act, make or give any of the following orders or directions in relation to the meeting:\n(a)that the proceedings at the meeting are invalid due to any creditor not having received the notice summoning the meeting;\n(b)that the chairperson of any subsequent meeting is to be a person that the meeting by ordinary resolution appoints to be the chairperson of the subsequent meeting;\n(c)that the costs of summoning and holding the meeting are to be payable by one or more persons specified by the Court."
+   }
+  },
+  {
+   "id": "SG-H2768-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Quorum"
+   },
+   "text": {
+    "en": "23.—(1) Unless the quorum is formed at a meeting of creditors, the meeting is competent to act only for the following purposes:\n(a)the appointment of a chairperson;\n(b)the admission by the chairperson of creditors’ proofs of debt, for the purpose of their entitlement to vote;\n(c)the adjournment of the meeting.\n(2) The quorum for a meeting of creditors is the following number of creditors present in person or by proxy, being persons entitled to vote at the meeting:\n(a)if the number of creditors of the bankrupt in question exceeds 3 creditors — 3 creditors;\n(b)if the number of creditors of the bankrupt in question does not exceed 3 creditors — all the creditors."
+   }
+  },
+  {
+   "id": "SG-H2768-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Adjournment"
+   },
+   "text": {
+    "en": "24.—(1) The chairperson of a meeting of creditors may in his or her discretion adjourn the meeting to a time and place that the chairperson thinks is appropriate —\n(a)if, within half an hour from the time appointed for the meeting, the quorum mentioned in regulation 23(2) is not formed; or\n(b)for any other reason.\n(2) The chairperson of a meeting of creditors must adjourn the meeting if the meeting so resolves, to a time and place that the chairperson thinks is appropriate."
+   }
+  },
+  {
+   "id": "SG-H2768-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Proxies"
+   },
+   "text": {
+    "en": "25.—(1) A creditor may vote either in person or by proxy at a meeting of creditors.\n(2) A person below 18 years of age must not be appointed as a proxy at a creditors’ meeting.\n(3) No form of proxy may be used for the purposes of any meeting of creditors except that which is sent out with the notice summoning the meeting.\n(4) A proxy given by a creditor under this regulation is sufficiently executed if it is signed by a person in the creditor’s employment having a general authority to sign for the creditor, or by the creditor’s authorised agent if the creditor is resident abroad.\n(5) The creditor’s authority mentioned in paragraph (4) —\n(a)must be in writing; and\n(b)if required by the chairperson of the meeting in question, must be produced to the chairperson.\n(6) A creditor may give a general proxy in Form BR‑3 to the creditor’s manager or clerk or any other person in the creditor’s regular employment, in which case the instrument of proxy must state the relation in which the person to act under the general proxy stands to the creditor.\n(7) A creditor may give a special proxy in Form BR‑4 to any person to vote at any specified meeting or adjournment of the specified meeting for or against any specific resolution.\n(8) A creditor may appoint the trustee of the bankrupt’s estate in question to act as the creditor’s general or special proxy."
+   }
+  },
+  {
+   "id": "SG-H2768-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Where creditor is blind or incapable of writing"
+   },
+   "text": {
+    "en": "26. The proxy of a creditor who is blind or incapable of writing may be accepted for a meeting of creditors if —\n(a)the creditor has placed the creditor’s mark upon or signed it in the presence of a witness;\n(b)the witness has added the signature, description and residence of the witness to the creditor’s mark or signature;\n(c)all insertions in the proxy are in the handwriting of the witness; and\n(d)the witness has certified at the foot of the proxy that all the insertions were made by the witness at the creditor’s request and in the presence of the creditor before the creditor attached the creditor’s mark or signature."
+   }
+  },
+  {
+   "id": "SG-H2768-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Use and retention of proxies"
+   },
+   "text": {
+    "en": "27.—(1) A proxy of a creditor may not be used at a meeting of creditors unless the proxy is deposited with the chairperson of the meeting not later than 4 p.m. on the day before the meeting or adjourned meeting at which it is to be used.\n(2) A proxy given for a particular meeting of creditors may be used at any adjournment of that meeting.\n(3) Proxies used for voting at any meeting of creditors under this Division must be retained by the chairperson of the meeting."
+   }
+  },
+  {
+   "id": "SG-H2768-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Proxy-holder with financial interest"
+   },
+   "text": {
+    "en": "28.—(1) No person acting under either a general or a special proxy may vote in favour of any resolution at any meeting of creditors under this Division if the resolution would directly or indirectly place the person or the person’s partner or employer in a position to receive any remuneration out of the estate of the bankrupt otherwise than as a creditor rateably with the other creditors of the bankrupt.\n(2) For the purposes of paragraph (1), a person is a partner of another person if a partnership within the meaning of sections 1 and 2 of the Partnership Act (Cap. 391) subsists between them."
+   }
+  },
+  {
+   "id": "SG-H2768-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Entitlement to vote"
+   },
+   "text": {
+    "en": "29.—(1) A person is not entitled to vote as a creditor at any meeting of creditors unless —\n(a)the person has duly proved the person’s debt under regulation 30; and\n(b)the person’s proof of debt has been duly filed under regulation 46 before the time appointed for the meeting.\n(2) A creditor may not vote at a meeting of creditors in respect of —\n(a)any debt for an unliquidated amount; or\n(b)any debt the value of which is not ascertained,\nunless the chairperson of the meeting agrees to put upon the debt an estimated minimum value for the purpose of entitlement to vote and admits the proof of the debt for this purpose.\n(3) For the purpose of voting —\n(a)a secured creditor must, unless the secured creditor surrenders the secured creditor’s security, state in the secured creditor’s proof of the debt the particulars of the security, the date when the security was given and the value at which the secured creditor assesses it; and\n(b)the secured creditor is entitled to vote only in respect of the balance (if any) due to the secured creditor after deducting the value of the security.\n(4) If a secured creditor votes in respect of the secured creditor’s whole debt, the secured creditor is deemed to have surrendered the secured creditor’s security unless the Court, on application, is satisfied that the omission to value the security has arisen from inadvertence.\n(5) A creditor may not vote in respect of a debt on, or secured by, a current bill of exchange or promissory note, unless the creditor is willing to —\n(a)treat the liability of every person (being a person against whom a bankruptcy order has not been made or which has not gone into liquidation) who is liable on the bill or note antecedently to the bankrupt in question as a security in the creditor’s hands; and\n(b)estimate the value of the security and deduct it from the creditor’s proof for the purpose of entitlement to vote in a meeting of creditors (but not for dividend).\n(6) If a bankruptcy order is made against one partner of a firm, any creditor to whom that partner is indebted jointly with the other partners in the firm or any of them may prove the creditor’s debt for the purpose of voting at any meeting of creditors, and is entitled to vote at the meeting."
+   }
+  },
+  {
+   "id": "SG-H2768-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Admission and rejection of proofs of debt"
+   },
+   "text": {
+    "en": "30.—(1) The chairperson of a meeting of creditors has the power to admit or reject a proof of debt (or any part of the proof) for the purpose of voting at the meeting, but the chairperson’s decision is subject to appeal to the Court.\n(2) An appeal against the chairperson’s decision under paragraph (1) must be made within 14 days after the admission or rejection of the proof of debt (or any part of the proof).\n(3) If the chairperson is in doubt whether a creditor’s proof of debt (or any part of the proof) should be admitted or rejected, the chairperson must mark the proof as objected to and allow the creditor to vote, subject to the vote (or any part of the vote) being declared invalid if the objection to the proof is sustained.\n(4) If the chairperson’s decision is reversed or varied on an appeal to the Court under this regulation, or a creditor’s vote (or any part of the vote) is declared invalid, the Court may order that another meeting be summoned or make any other order that the Court thinks just.\n(5) The chairperson is not personally liable for costs incurred by any person in respect of an appeal to the Court under this regulation."
+   }
+  },
+  {
+   "id": "SG-H2768-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Record of proceedings"
+   },
+   "text": {
+    "en": "31.—(1) The chairperson at any creditors’ meeting must cause minutes of the proceedings at the meeting, signed by the chairperson, to be retained by the chairperson as part of the records of the bankruptcy.\n(2) The chairperson must also cause to be made up and kept a list of all the creditors who attended the meeting.\n(3) The minutes of the meeting must include a record, and the particulars, of every resolution passed at the meeting."
+   }
+  },
+  {
+   "id": "SG-H2768-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Prescribed particulars and information for statement of affairs"
+   },
+   "text": {
+    "en": "32. For the purposes of section 332(3)(a) and (c) of the Act, the following particulars and information are to be contained in a bankrupt’s statement of affairs:\n(a)details of the bankrupt’s assets, including —\n(i)the bankrupt’s bank accounts, sundry debtors, property (whether real or personal) and contingent assets; and\n(ii)any of the bankrupt’s property that was disposed of within the period of 5 years ending on the day of the making of the bankruptcy application on which the bankrupt is adjudged bankrupt;\n(b)details of the bankrupt’s creditors, debts and other liabilities, including —\n(i)the bankrupt’s preferential, secured, unsecured and contingent debts; and\n(ii)the circumstances in which the debts were incurred;\n(c)information on any previous bankruptcy order made against the bankrupt under the Act or any previous written law relating to bankruptcy;\n(d)details of any legal proceedings that are pending and to which the bankrupt is a party;\n(e)the bankrupt’s age;\n(f)details of the bankrupt’s education and vocational qualifications;\n(g)details of the bankrupt’s current income, including —\n(i)the amount of income from the bankrupt’s current employment; and\n(ii)any other sources of income, and the amount of income from each source;\n(h)details of the bankrupt’s current employment and past employment during the 5 years immediately preceding the submission of the statement of affairs, including the identity of each employer and the duration of each employment;\n(i)details of any directorship in, or other position in the management of, a corporation previously held by the bankrupt;\n(j)details of the bankrupt’s current and past trade or business during the 5 years immediately preceding the submission of the statement of affairs;\n(k)details of the bankrupt’s spouse and dependants, including —\n(i)the identity and age of the spouse and each dependant; and\n(ii)the amount of income earned by the spouse (whether from employment or otherwise);\n(l)details of the monthly expenses necessary for the maintenance of the bankrupt and the bankrupt’s family."
+   }
+  },
+  {
+   "id": "SG-H2768-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Submission and filing of statement of affairs"
+   },
+   "text": {
+    "en": "33. A bankrupt must submit to the trustee of the bankrupt’s estate a copy of the bankrupt’s statement of affairs in Form BR-5 and a copy of any supplementary information specified in any direction issued under section 332(4)(c) of the Act."
+   }
+  },
+  {
+   "id": "SG-H2768-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Proof of information in statement of affairs"
+   },
+   "text": {
+    "en": "34. The trustee of a bankrupt’s estate may, at any time after the bankrupt files the statement of the bankrupt’s affairs or submits any supplementary information directed to be submitted, direct the bankrupt to submit proof of any of the matters in the statement or in the supplementary information (as the case may be)."
+   }
+  },
+  {
+   "id": "SG-H2768-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Extension of time to file statement of affairs, etc."
+   },
+   "text": {
+    "en": "35.—(1) A bankrupt may make a written request to the trustee of the bankrupt’s estate to be released from the bankrupt’s duty to file a statement of affairs under section 332 of the Act or for an extension of time to file the statement of affairs.\n(2) Where a request made under paragraph (1) is refused by the trustee, the bankrupt may make an application to the Court for the release or extension (as the case may be) in accordance with the Personal Insolvency Rules."
+   }
+  },
+  {
+   "id": "SG-H2768-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Accounts of bankrupt’s business to be submitted to trustee of bankrupt’s estate"
+   },
+   "text": {
+    "en": "36. A bankrupt must, upon the request of the trustee of the bankrupt’s estate, submit to the administrator the following accounts, which relate to any business that the bankrupt had engaged in, and covering a period not exceeding 3 years immediately preceding the date of the bankruptcy order in question:\n(a)trading accounts;\n(b)profit and loss accounts;\n(c)cash and goods accounts;\n(d)any other accounts."
+   }
+  },
+  {
+   "id": "SG-H2768-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Settled list of debtors to estate"
+   },
+   "text": {
+    "en": "37. The notice required under section 338(2) of the Act to be given by the trustee of a bankrupt’s estate to persons supposed to be indebted to the estate must be in Form BR‑6."
+   }
+  },
+  {
+   "id": "SG-H2768-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Notice, etc., of determination of monthly contribution and target contribution"
+   },
+   "text": {
+    "en": "38.—(1) The notice of the determination of a bankrupt’s monthly contribution and target contribution which is required to be served under section 339(1)(b) of the Act must be in Form BR‑7.\n(2) The explanation of a trustee in bankruptcy’s basis for making a determination which is required to be served under section 339(3) of the Act must be in Form BR‑8."
+   }
+  },
+  {
+   "id": "SG-H2768-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Notice of issue of certificate reducing monthly contribution and target contribution, etc."
+   },
+   "text": {
+    "en": "39.—(1) Where an application is made by a bankrupt under section 342(1) of the Act to reduce the bankrupt’s monthly contribution and target contribution, the trustee of the bankrupt’s estate may, for the purpose of considering the application, direct that the bankrupt submit to the trustee any one or more of the following as may be applicable:\n(a)proof of any increase in the number of members of the bankrupt’s family;\n(b)proof of any change in the income of the bankrupt’s spouse;\n(c)proof of any illness of the bankrupt;\n(d)proof of any matter, such proof being necessary, in the opinion of the administrator, for considering the bankrupt’s application.\n(2) The certificate issued under section 342(1) of the Act must be in Form BR-9."
+   }
+  },
+  {
+   "id": "SG-H2768-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Review by Official Assignee of administration by trustee in bankruptcy"
+   },
+   "text": {
+    "en": "40.—(1) The report of a trustee in bankruptcy’s administration of a bankruptcy mentioned in section 344(1) of the Act must be in Form BR-10.\n(2) The Official Assignee must, immediately upon the issue of a certificate under section 344(3) of the Act, serve a copy of the certificate on the bankrupt, the trustee in bankruptcy and every creditor who has filed a proof of debt."
+   }
+  },
+  {
+   "id": "SG-H2768-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Manner of giving notice of bankruptcy order, etc."
+   },
+   "text": {
+    "en": "41.—(1) The trustee of a bankrupt’s estate must send a notice informing the persons mentioned in section 347(1)(a) and (b) of the Act of the bankruptcy order and the time within which creditors are required to file their proofs of debt.\n(2) The notice mentioned in paragraph (1) must be sent by certified post —\n(a)to each person mentioned in section 347(1)(a) of the Act at the person’s address given in the bankrupt’s statement of affairs or supplementary information (if any); and\n(b)to each person mentioned in section 347(1)(b) of the Act at the address last notified to the trustee by that person or the bankrupt."
+   }
+  },
+  {
+   "id": "SG-H2768-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Manner and contents of proof of debt"
+   },
+   "text": {
+    "en": "42.—(1) Every creditor of a bankrupt must prove the creditor’s debt by filing a proof of debt with the trustee of the bankrupt’s estate.\n(2) A proof of debt required to be filed with the trustee under paragraph (1) must state the following matters:\n(a)the creditor’s name, address, and electronic mail address (if any);\n(b)the total amount of the creditor’s claim as at the date of the bankruptcy order under which the bankrupt is adjudged bankrupt;\n(c)whether the amount claimed includes interest as defined under section 356(4) of the Act and, if so, the actual amount of interest that has accrued as at the date of the bankruptcy order under which the bankrupt is adjudged bankrupt and the rate at which and the period for which the interest was calculated;\n(d)whether or not the claim includes goods and services tax and, if so, the amount of such tax;\n(e)particulars of how and when the debt was incurred by the bankrupt;\n(f)particulars of any security held by the creditor, the date when the security was given and the value at which the creditor assesses the security;\n(g)the name, authority, address and electronic mail address (if any) of the person (if not the creditor) submitting the proof of debt.\n(3) A proof of debt required to be filed with the Official Assignee must be filed in accordance with the Filing of Documents Regulations.\n(4) If the proof of debt is filed in accordance with regulation 12(1) of the Filing of Documents Regulations, a copy of each document substantiating the claim specified in the proof of debt —\n(a)must be filed in accordance with that provision together with the proof of debt; or\n(b)where the Official Assignee is of the opinion that a creditor will incur unreasonable expense or suffer unreasonable inconvenience in complying with sub‑paragraph (a), must be sent to the Official Assignee within 14 days after the date of filing of the proof of debt, in the manner specified by the Official Assignee in any practice directions issued by the Official Assignee.\n(5) If the proof of debt is filed in accordance with regulation 12(2) of the Filing of Documents Regulations, a copy of each document substantiating the claim specified in the proof of debt must accompany the proof of debt.\n(6) Unless the trustee of a bankrupt’s estate allows otherwise or the Court otherwise orders, a bill of exchange, promissory note, or other negotiable instrument or security or a copy of the bill of exchange, promissory note or other negotiable instrument or security (certified by the creditor or the creditor’s authorised representative to be a true copy) in respect of which the creditor seeks to prove must be produced to the trustee before the proof of debt is admitted, either for voting or for dividend.\n(7) The trustee may at any time call for further evidence of the claim to be provided by a creditor who has filed a proof of debt with the trustee."
+   }
+  },
+  {
+   "id": "SG-H2768-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Workmen’s wages"
+   },
+   "text": {
+    "en": "43.—(1) Where it appears from a bankrupt’s statement of affairs that there are numerous claims for wages by persons (each called in this regulation a creditor) employed by the bankrupt, it is sufficient if a combined proof for all the claims is filed by the bankrupt, a foreman or by some other person on behalf of the creditors.\n(2) Subject to paragraph (3), the proof must be accompanied by a schedule (which forms part of the proof) that sets out the amounts severally due to the creditors and the following information relating to each creditor:\n(a)his or her name\n(b)his or her personal identification number or passport number;\n(c)his or her address, and electronic mail address (if any);\n(d)the amount due to him or her.\n(3) Where the proof is submitted to the Official Assignee electronically, the schedule mentioned in paragraph (2) must be sent to the Official Assignee within 14 days after the submission of the proof.\n(4) Any proof filed in compliance with this regulation has the same effect as if separate proofs had been made by each of the creditors."
+   }
+  },
+  {
+   "id": "SG-H2768-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Proof of debt filed by licensed moneylenders"
+   },
+   "text": {
+    "en": "44.—(1) A moneylender licensed under the Moneylenders Act (Cap. 188) (called in this regulation a licensed moneylender) filing a proof of debt under regulation 42 in respect of one or more loans made by the licensed moneylender as a licensed moneylender must, within 14 days after the date of filing of the proof of debt, file a copy of the following documents in respect of each loan:\n(a)the note of the contract for the loan, mentioned in section 20(1)(a) of that Act;\n(b)the statement of account mentioned in section 21(1) of that Act, that was last supplied to the bankrupt before the date of the bankruptcy order in question.\n(2) A reference in paragraph (1) to a licensed moneylender filing a proof of debt is a reference to a person who, at the time the loan mentioned in that paragraph is granted, is a licensed moneylender, whether or not the person continues to be so licensed at the time the proof of debt is filed."
+   }
+  },
+  {
+   "id": "SG-H2768-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Cost of proving"
+   },
+   "text": {
+    "en": "45. A creditor must bear the cost of proving the creditor’s debt unless the Court otherwise orders."
+   }
+  },
+  {
+   "id": "SG-H2768-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Time for lodging proofs"
+   },
+   "text": {
+    "en": "46. A proof of debt intended to be used at a meeting of a bankrupt’s creditors must be filed with the trustee of the bankrupt’s estate at least 3 days before the time fixed for the meeting."
+   }
+  },
+  {
+   "id": "SG-H2768-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Inspection of proofs"
+   },
+   "text": {
+    "en": "47. The trustee of a bankrupt’s estate must, upon payment of the prescribed fee, allow a proof of debt filed with the trustee to be inspected by, or provide details of the proof to, any of the following persons:\n(a)any creditor who has filed the creditor’s proof of debt (unless the creditor’s proof has been wholly rejected for purposes of dividend or otherwise);\n(b)the bankrupt;\n(c)any person acting on behalf of any creditor mentioned in paragraph (a) or the bankrupt."
+   }
+  },
+  {
+   "id": "SG-H2768-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Discounts"
+   },
+   "text": {
+    "en": "48. A creditor proving the creditor’s debt must deduct from the creditor’s claim all trade and other discounts which would have been available to the bankrupt but for the bankruptcy of the bankrupt, except any discount for immediate, early or cash settlement."
+   }
+  },
+  {
+   "id": "SG-H2768-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Debt in foreign currency"
+   },
+   "text": {
+    "en": "49.—(1) For the purpose of proving a debt incurred or payable in a currency other than Singapore dollars, the amount of the debt is to be converted into Singapore dollars at the rate of exchange made available by the Monetary Authority of Singapore (established under the Monetary Authority of Singapore Act (Cap. 186)) and prevailing on the date of the bankruptcy order in question.\n(2) Where no rate of exchange prevailing on the date of the bankruptcy order in question is made available by the Monetary Authority of Singapore, the applicable rate is the rate of exchange prevailing on the date of the bankruptcy order as determined by the trustee of the bankrupt’s estate."
+   }
+  },
+  {
+   "id": "SG-H2768-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Periodical payments"
+   },
+   "text": {
+    "en": "50. In a case where any rent or other payment falls due on a day of any stated period, and the bankruptcy order in question is made on a day other than that day, any person entitled to the rent or payment may prove for a proportionate part of the rent or payment up to (and including) the date of the bankruptcy order, as if the rent or payment grew due from day to day."
+   }
+  },
+  {
+   "id": "SG-H2768-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Prescribed rate of interest under section 356(1) and (2)(b)(ii) of Act"
+   },
+   "text": {
+    "en": "51. For the purposes of section 356(1) and (2)(b)(ii) of the Act, the prescribed rate of interest for interest allowed on a debt is the rate of interest on judgment debts provided for under the Rules of Court for the time being in force."
+   }
+  },
+  {
+   "id": "SG-H2768-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Debt payable at future time"
+   },
+   "text": {
+    "en": "52. A creditor may prove for a debt not payable at the date of commencement of bankruptcy as if it were payable presently, and may receive any dividend equally with the other creditors, deducting from the dividend only a rebate of interest at the rate of interest prescribed in regulation 51 from the date of declaration of the dividend to the date when the debt would have become payable according to the terms on which it was contracted."
+   }
+  },
+  {
+   "id": "SG-H2768-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Secured creditors"
+   },
+   "text": {
+    "en": "53.—(1) If a secured creditor realises the secured creditor’s security, the secured creditor may prove for the balance due to the secured creditor after deducting the net amount realised.\n(2) If a secured creditor surrenders the secured creditor’s security to the trustee of the bankrupt’s estate in question for the general benefit of the creditors, the secured creditor may prove for the whole debt due to the secured creditor."
+   }
+  },
+  {
+   "id": "SG-H2768-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Amendment of valuation on satisfaction of trustee"
+   },
+   "text": {
+    "en": "54.—(1) Without limiting rule 124 of the Personal Insolvency Rules, where a secured creditor has valued the secured creditor’s security, the secured creditor may at any time amend the valuation (called in this regulation the previous valuation) and proof on showing to the satisfaction of the trustee of the bankrupt’s estate in question that —\n(a)the previous valuation and proof were made bona fide on a mistaken estimate; or\n(b)the security has diminished or increased in value since the previous valuation.\n(2) Every amendment under paragraph (1) must be made at the cost of the secured creditor.\n(3) Where a valuation of a security has been amended in accordance with paragraph (1) and the amended valuation is higher than the previous valuation, the secured creditor must immediately repay any surplus dividend which the secured creditor has received in excess of that to which the secured creditor would have been entitled on the amended valuation.\n(4) Subject to paragraph (5), where a valuation of a security has been amended in accordance with paragraph (1) and the amended valuation is lower than the previous valuation, the secured creditor is entitled to be paid out of any moneys for the time being available for dividend any dividend or share of dividend which the secured creditor failed to receive by reason of the inaccuracy of the previous valuation, before those moneys are made applicable to the payment of any future distribution.\n(5) The secured creditor mentioned in paragraph (4) is not entitled to disturb the distribution of any dividend declared before the date of the amendment of the valuation under paragraph (1)."
+   }
+  },
+  {
+   "id": "SG-H2768-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "55."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Realisation of security"
+   },
+   "text": {
+    "en": "55. If a creditor, after having valued the creditor’s security, subsequently realises it, or if it is realised under section 349 of the Act, the net amount realised —\n(a)must be substituted for the amount of any valuation previously made by the creditor; and\n(b)must be treated in all respects as an amended valuation made by the creditor."
+   }
+  },
+  {
+   "id": "SG-H2768-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "56."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Maximum amount receivable by creditor"
+   },
+   "text": {
+    "en": "56. Subject to section 349 of the Act, a creditor may not in any case receive more than 100 cents in the dollar and interest as provided by the Act."
+   }
+  },
+  {
+   "id": "SG-H2768-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "57."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Application of proceeds of sale of mortgaged property"
+   },
+   "text": {
+    "en": "57.—(1) The moneys arising from a sale of immovable property directed by the Court upon an application by a mortgagee of the property under the Personal Insolvency Rules must be applied in the following order of priority, and any surplus must be paid to the trustee of the bankrupt’s estate in question:\n(a)firstly in payment of the costs, charges and expenses of the trustee arising from the application to the Court under those Rules and the conduct of the sale;\n(b)secondly in payment and satisfaction, so far as will extend, of what is found due to the mortgagee of the property for principal, interest and costs.\n(2) Where the moneys arising from the sale of the property are insufficient to pay and satisfy what is found due to the mortgagee of the property, the mortgagee is entitled to prove as a creditor for the deficiency and receive dividends on the deficiency rateably with the other creditors, but not so as to disturb any dividend then already declared."
+   }
+  },
+  {
+   "id": "SG-H2768-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "58."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Adjudication and notice to creditor"
+   },
+   "text": {
+    "en": "58.—(1) The trustee of a bankrupt’s estate must examine every proof of debt filed with the trustee and the grounds of the debt, and in writing admit or reject the proof in whole or in part or require further evidence or information in support of the proof.\n(2) Any further evidence or information mentioned in paragraph (1) which is required by the trustee must be submitted by the creditor in question within such time as the trustee may reasonably require.\n(3) Where a creditor’s proof has been admitted by the trustee, the notice of dividend to the creditor is sufficient notification to the creditor of the admission.\n(4) Where a creditor’s proof has been rejected by the trustee in whole or in part —\n(a)the trustee must issue the trustee’s notice of rejection of the proof of debt to the creditor in Form BR-11 stating the grounds of the rejection; and\n(b)the creditor may, within 14 days after the date of the trustee’s notice of rejection mentioned in sub-paragraph (a), submit further evidence and information to the trustee in support of the proof.\n(5) The trustee must examine the further evidence and information submitted by the creditor under paragraph (4)(b) and, within 21 days after the expiry of the 14 days mentioned in that provision —\n(a)issue the trustee’s notice of confirmation of the trustee’s decision; or\n(b)issue the trustee’s notice of revocation of the trustee’s decision, and admit the proof in question in whole or in part or vary its amount.\n(6) The notice of confirmation or notice of revocation mentioned in paragraph (5) must be in Form BR-12.\n(7) Without affecting paragraphs (4)(b) and (5), if the trustee considers that a proof has been wrongly rejected in whole or in part, the trustee may on his or her own motion and within 21 days after the date of the trustee’s notice of rejection mentioned in paragraph (4)(a) issue a notice of revocation of the trustee’s decision in Form BR‑12, and may admit the proof in whole or in part or vary its amount."
+   }
+  },
+  {
+   "id": "SG-H2768-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "59."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Withdrawal or variation of proof"
+   },
+   "text": {
+    "en": "59. A creditor’s proof filed with the trustee of a bankrupt’s estate may at any time, by agreement between the creditor and the trustee, be withdrawn or varied as to the amount claimed."
+   }
+  },
+  {
+   "id": "SG-H2768-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "60."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Expunging of proof by trustee"
+   },
+   "text": {
+    "en": "60. If it appears to the trustee of a bankrupt’s estate that a proof has been wrongly admitted, the trustee may, by notice to the creditor who filed the proof, expunge the proof or vary its amount."
+   }
+  },
+  {
+   "id": "SG-H2768-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "61."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Acceptance of composition or scheme by joint and separate creditors"
+   },
+   "text": {
+    "en": "61. The joint creditors and each set of separate creditors may severally accept proposals for compositions or schemes."
+   }
+  },
+  {
+   "id": "SG-H2768-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "62."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Voting on composition or scheme by firm and by individual partners"
+   },
+   "text": {
+    "en": "62.—(1) Where proposals for compositions or schemes are made by a firm, and by the partners in the firm individually —\n(a)the proposal made to the joint creditors must be considered and voted upon by the joint creditors apart from all separate creditors; and\n(b)the proposal made to each set of separate creditors must be considered and voted upon by that set of separate creditors apart from all other creditors.\n(2) The proposals may vary in character and amount."
+   }
+  },
+  {
+   "id": "SG-H2768-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "63."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Forms in respect of proposal and terms of resolution"
+   },
+   "text": {
+    "en": "63.—(1) Every proposal for a composition must be in Form BR‑13.\n(2) Every proposal for a scheme must be in Form BR-14.\n(3) The letter mentioned in section 357(5) and (6) of the Act by which a creditor assents to or dissents from a composition or scheme must be in Form BR-15.\n(4) Every resolution for a composition or scheme or instrument embodying the terms of a proposed composition or scheme must, in addition to the other particulars required to be stated, specify the manner, if any, in which the payments of the composition or scheme are to be secured."
+   }
+  },
+  {
+   "id": "SG-H2768-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "64."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Action upon issue of certificate of discharge or annulment under section 358 of Act"
+   },
+   "text": {
+    "en": "64. When a certificate of discharge or certificate of annulment is issued by the Official Assignee under section 358 of the Act in respect of a bankrupt, the trustee of the bankrupt’s estate must, upon receiving payment of all fees and percentages payable, put the person or persons to whom under the composition or scheme the bankrupt’s property is to be assigned, into possession of the bankrupt’s property."
+   }
+  },
+  {
+   "id": "SG-H2768-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "65."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Effect of annulment of composition or scheme"
+   },
+   "text": {
+    "en": "65. Upon the annulment of a composition or scheme, the bankruptcy order is reinstated."
+   }
+  },
+  {
+   "id": "SG-H2768-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "66."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Provision for disputed claims"
+   },
+   "text": {
+    "en": "66.—(1) Where under a composition or scheme, provision is made for the payment of any moneys to the creditors, and any claim in respect of which a proof has been filed is disputed, the trustee of the bankrupt’s estate in question must make provision for the amount which would be payable if the claim was established.\n(2) On the determination of the dispute, the trustee must pay such of the amount provided for under paragraph (1) to the person or persons who are, according to the Act and these Regulations, entitled to the amount."
+   }
+  },
+  {
+   "id": "SG-H2768-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "67."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Proofs of debts in composition or scheme"
+   },
+   "text": {
+    "en": "67.—(1) A person claiming to be a creditor under a composition or scheme who has not proved the person’s debt before the approval of the composition or scheme must file the proof of the person’s debt with the trustee of the bankrupt’s estate in question.\n(2) The trustee must admit or reject the proof in whole or in part in accordance with these Regulations.\n(3) No person is entitled to enforce payment of any sum payable under a composition or scheme unless the person has proved the person’s debt and the person’s proof has been admitted."
+   }
+  },
+  {
+   "id": "SG-H2768-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "68."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Notice of disclaimer under section 373 of Act"
+   },
+   "text": {
+    "en": "68.—(1) For the purposes of section 373(1) of the Act, the notice to be given by a trustee of a bankrupt’s estate to disclaim onerous property (called in this Division the notice of disclaimer) must be in Form BR-16.\n(2) The trustee must state in the notice of disclaimer that the trustee disclaims all the bankrupt’s interests in the property, and the notice must contain the following information or particulars:\n(a)the title “Notice of disclaimer under section 373 of the Insolvency, Restructuring and Dissolution Act 2018 (Act 40 of 2018)”;\n(b)the identity of the bankrupt;\n(c)the identity of the trustee and, if the trustee is not the Official Assignee, the trustee’s contact details;\n(d)a brief description of the property being disclaimed and, if the property is land, the full address of the property;\n(e)whether the property being disclaimed is onerous property of the kind described in section 373(2)(a) or (b)(i), (ii) or (iii) of the Act, and how the property is such onerous property;\n(f)the date of the disclaimer."
+   }
+  },
+  {
+   "id": "SG-H2768-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "69."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Service of copy of notice of disclaimer on interested persons"
+   },
+   "text": {
+    "en": "69.—(1) The trustee of a bankrupt’s estate disclaiming any onerous property must, within 14 days after the date of the notice of disclaimer, serve a copy of the notice to —\n(a)in a case where the property is an unprofitable contract under section 373(2)(a) of the Act — any person who, to the trustee’s knowledge, is a party to the contract or has an interest under the contract;\n(b)in a case where the property is of a leasehold nature mentioned in section 374 of the Act — any person who is claiming under the bankrupt as sub-lessee or mortgagee mentioned in section 374(1) of the Act; and\n(c)in any case — any person who (to the trustee’s knowledge) —\n(i)claims an interest in the disclaimed property; or\n(ii)is under a liability in respect of the disclaimed property, not being a liability discharged by the disclaimer.\n(2) If subsequently, it comes to the trustee’s knowledge that any person has such an interest in the disclaimed property that would have entitled the person to receive a copy of the notice of disclaimer under paragraph (1), the trustee must then as soon as reasonably practicable serve on that person a copy of the notice."
+   }
+  },
+  {
+   "id": "SG-H2768-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "70."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Application by person interested in property"
+   },
+   "text": {
+    "en": "70. For the purposes of section 373(4)(b)(i) of the Act, the application in writing must contain the following information or particulars:\n(a)the identity of the bankrupt;\n(b)a brief description of the property and, if the property is land, the full address of the property;\n(c)the nature of the interest which the person has in the property; and\n(d)the date of the application."
+   }
+  },
+  {
+   "id": "SG-H2768-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "71."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Summary of administration of bankrupt’s estate"
+   },
+   "text": {
+    "en": "71. For the purposes of section 384(2)(c) of the Act, the summary of the administration of a bankrupt’s estate must contain particulars of —\n(a)the total amount of debts owed to creditors who have filed proofs of debt;\n(b)the property of the bankrupt comprised in the bankrupt’s estate and the status of realisation of such property;\n(c)the monthly contribution and target contribution for the bankruptcy;\n(d)the payments that have been made by the bankrupt to the bankrupt’s estate;\n(e)any other payments that have been made to the bankrupt’s estate;\n(f)any payments that have been made out of the bankrupt’s estate; and\n(g)any outstanding work to be done in relation to the administration of the bankruptcy."
+   }
+  },
+  {
+   "id": "SG-H2768-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "72."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Accounts of special manager"
+   },
+   "text": {
+    "en": "72. When the accounts submitted by a special manager for the duration of the special manager’s appointment as such are approved by the Official Assignee, the totals of the receipts and payments must be added to the Official Assignee’s accounts."
+   }
+  },
+  {
+   "id": "SG-H2768-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "73."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Removal of special manager"
+   },
+   "text": {
+    "en": "73.—(1) The Official Assignee may remove a special manager if the employment of the special manager appears unnecessary or unprofitable to the estate.\n(2) The Official Assignee must remove a special manager if so required by a special resolution of the creditors of the estate, or if the special manager fails to keep up his or her security as directed by the Official Assignee."
+   }
+  },
+  {
+   "id": "SG-H2768-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "74."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Notice of intended dividend"
+   },
+   "text": {
+    "en": "74.—(1) Before declaring a dividend to creditors of a bankrupt’s estate, the trustee of the bankrupt’s estate must —\n(a)cause a notice of the trustee’s intention to do so (called in this Division the notice of intended dividend) to be published in a local newspaper or in any other manner that the trustee thinks fit; and\n(b)send the notice of intended dividend to the last known address of every creditor mentioned in the bankrupt’s statement of affairs who has not proved the creditor’s debt.\n(2) The notice of intended dividend —\n(a)must be in Form BR-17; and\n(b)must specify the latest date by which a creditor’s proof may be filed, beyond which the creditor cannot prove the creditor’s debt in the bankruptcy according to section 347(2) of the Act."
+   }
+  },
+  {
+   "id": "SG-H2768-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "75."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Provision for dividend"
+   },
+   "text": {
+    "en": "75.—(1) A creditor who has made, or who intends to make, any of the following applications must, in writing and within 14 days after the date of a notice of intended dividend sent to the creditor under regulation 74, inform the trustee of the bankrupt’s estate of the application or intention:\n(a)an application to the Court or trustee under section 347(3) or (4) of the Act, respectively, for an extension of the period during which the creditor may prove the creditor’s debt;\n(b)an application to the Court under rule 127(1) of the Personal Insolvency Rules against the decision of the trustee in rejecting the creditor’s proof in whole or in part;\n(c)an application to the Court under rule 128(1) of the Personal Insolvency Rules against the decision of the trustee in expunging the creditor’s proof of debt or varying its amount.\n(2) A creditor who intends to provide any further evidence or information in support of the creditor’s proof under regulation 58(4)(b) must, in writing and within 7 days after the date of a notice of dividend sent to the creditor under regulation 74, inform the trustee of such intention.\n(3) Where paragraph (1) or (2) applies, the trustee must make provision for the dividend payable upon the creditor’s proof in the event that the creditor succeeds in the creditor’s application, or the trustee issues a revocation of the trustee’s decision upon the trustee’s examination of the further evidence or information submitted by the creditor under regulation 58(4)(b), as the case may be.\n(4) The trustee must declare, out of the provision made under paragraph (3) for that creditor’s proof, or any part of the provision that the creditor is not properly entitled, a dividend payable to the other creditors whose proofs have been admitted, if —\n(a)the creditor has informed the trustee of the creditor’s application, or the creditor’s intention to make the application, mentioned in paragraph (1)(a), (b) or (c), as the case may be, and —\n(i)no such application is made within the time allowed to the creditor to make the application; or\n(ii)the application is dismissed in whole or in part; or\n(b)the creditor has informed the trustee of the creditor’s intention to submit further evidence or information in support of the creditor’s proof under regulation 58(4)(b), and —\n(i)no such further evidence or information is submitted within the time allowed to the creditor to so submit; or\n(ii)upon the trustee’s examination of the further evidence or information submitted by the creditor, the trustee issues a confirmation of the trustee’s decision or issues a notice of revocation of the trustee’s decision without admitting the creditor’s proof in full."
+   }
+  },
+  {
+   "id": "SG-H2768-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "76."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Declaration of dividend"
+   },
+   "text": {
+    "en": "76.—(1) Subject to regulation 75(3), after the expiration of 14 days after the date of the notice of intended dividend sent by a trustee of a bankrupt’s estate, the trustee must proceed to declare a dividend, and send to each creditor a notice of dividend specifying the percentage of dividend payable and the amount of dividend payable to the creditor.\n(2) If after the payment of dividend, any creditor’s proof which has been admitted is withdrawn or expunged or the amount of it is realised, the creditor must repay to the trustee of the bankrupt’s estate in question for the credit of the estate any amount overpaid by way of dividend.\n(3) If it becomes necessary, in the opinion of the trustee of a bankrupt’s estate, to postpone the declaration of the dividend, the trustee may postpone the declaration of dividend as the trustee thinks fit."
+   }
+  },
+  {
+   "id": "SG-H2768-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "77."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Production of bills of exchange, etc."
+   },
+   "text": {
+    "en": "77. Subject to section 70 of the Bills of Exchange Act (Cap. 23), a bill of exchange, promissory note, or other negotiable instrument or security upon which proof has been made must, unless the Court on special grounds dispenses with its production, be exhibited to the trustee of the bankrupt’s estate in question before payment of any dividend on the proof, and the amount of dividend paid must be endorsed on the instrument."
+   }
+  },
+  {
+   "id": "SG-H2768-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "78."
+   },
+   "chapter": {
+    "en": "PART 6 BANKRUPTCY ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Separate firms"
+   },
+   "text": {
+    "en": "78.—(1) If any 2 or more of the members of a partnership constitute a separate and independent firm, the creditors of such firm are treated as a separate set of creditors and subject to the same rules as the separate creditors of any individual member of the partnership.\n(2) Where any surplus remains after the administration of the assets of the separate firm, the surplus must be carried over to the separate estates of the partners in that firm according to their respective rights in that firm."
+   }
+  },
+  {
+   "id": "SG-H2768-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "79."
+   },
+   "chapter": {
+    "en": "PART 7 ANNULMENT AND DISCHARGE"
+   },
+   "heading": {
+    "en": "Security for debts and expenses of bankruptcy"
+   },
+   "text": {
+    "en": "79.—(1) This regulation sets out the extent to which debts and expenses of a bankruptcy are to be paid or secured for the purposes of section 392(1)(b) of the Act, and the manner in which security is to be given.\n(2) For the purposes of section 392(1)(b) of the Act, all debts of the bankruptcy which have been proved, and all expenses of the bankruptcy, must be —\n(a)paid in full;\n(b)secured in full; or\n(c)paid in part or secured in part such that no part of any debt or expense is neither paid nor secured.\n(3) For the purposes of section 392(1)(b) of the Act, if a debt is disputed (regardless of whether the debt has been proved), or a creditor who has proved a debt can no longer be traced, the bankrupt must give security to satisfy any sum that may subsequently be proved to be due to the creditor and any expenses of the bankruptcy related to the debt as may be incurred.\n(4) Where security is given by a bankrupt in the case of a creditor who cannot be traced, the Court may, on a subsequent application by the bankrupt, order that the security be released if —\n(a)the particulars of the creditor, the debt and the security have been advertised in any manner that the Court thinks fit; and\n(b)no claim on the security is made within 12 months after the date of the advertisement (or the first advertisement, if more than one).\n(5) For the purposes of paragraphs (2) and (3), debts, expenses or any other sum may be secured by payment of money into court, a bond entered into with a surety or an undertaking by a solicitor."
+   }
+  },
+  {
+   "id": "SG-H2768-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "80."
+   },
+   "chapter": {
+    "en": "PART 7 ANNULMENT AND DISCHARGE"
+   },
+   "heading": {
+    "en": "Bankrupt to give information of property acquired after discharge"
+   },
+   "text": {
+    "en": "80. Where a bankrupt is discharged conditionally upon payments being made out of income that may be subsequently due to the bankrupt or property devolving upon or acquired by the bankrupt after the bankrupt’s discharge and the condition has not been satisfied, the bankrupt must give the trustee of the bankrupt’s estate any information required by the trustee with respect to the bankrupt’s income or property acquired by the bankrupt after the bankrupt’s discharge that is required by the trustee."
+   }
+  },
+  {
+   "id": "SG-H2768-A81",
+   "no": 81,
+   "noLabel": {
+    "en": "81."
+   },
+   "chapter": {
+    "en": "PART 7 ANNULMENT AND DISCHARGE"
+   },
+   "heading": {
+    "en": "Report supporting trustee in bankruptcy’s request to issue certificate of discharge"
+   },
+   "text": {
+    "en": "81. A trustee in bankruptcy must, when requesting the Official Assignee to issue a certificate of discharge under section 395 of the Act, submit to the Official Assignee a report setting out the reasons why the bankrupt in question ought to be discharged."
+   }
+  },
+  {
+   "id": "SG-H2768-A82",
+   "no": 82,
+   "noLabel": {
+    "en": "82."
+   },
+   "chapter": {
+    "en": "PART 7 ANNULMENT AND DISCHARGE"
+   },
+   "heading": {
+    "en": "Discharge by certificate of Official Assignee"
+   },
+   "text": {
+    "en": "82. Before issuing a certificate of discharge under section 395 of the Act, the Official Assignee must, where there are funds available in the estate of the bankrupt in question, reserve a reasonable sum for the costs of the bankruptcy application and declare dividends to the creditors who have proved their debts to the satisfaction of the trustee of the bankrupt’s estate without the necessity of advertising for further claims."
+   }
+  },
+  {
+   "id": "SG-H2768-A83",
+   "no": 83,
+   "noLabel": {
+    "en": "83."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Duties of executor"
+   },
+   "text": {
+    "en": "83.—(1) When an administration order under section 419 of the Act has been made in respect of the estate of a deceased debtor, the legal representative of the debtor must immediately —\n(a)lodge with the Official Assignee an account in duplicate of the legal representative’s dealings with and administration of the deceased’s estate; and\n(b)provide the Official Assignee in duplicate —\n(i)a list of the creditors; and\n(ii)a statement of the assets and liabilities and of any other particulars of the affairs of the deceased that are required by the Official Assignee.\n(2) Every account, list or statement to be lodged or provided under this regulation must as far as practicable be made and verified by affidavit."
+   }
+  },
+  {
+   "id": "SG-H2768-A84",
+   "no": 84,
+   "noLabel": {
+    "en": "84."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Advances to Official Assignee"
+   },
+   "text": {
+    "en": "84.—(1) The Accountant-General may, on the application of the Official Assignee, make to the Official Assignee advances out of the Bankruptcy Estates Account to meet current expenses.\n(2) The Official Assignee must pay all moneys advanced to the Official Assignee under this regulation to an account at some bank approved by the Minister.\n(3) The account must be kept in the name of the Official Assignee and entitled the “General Purposes Account” from which the Official Assignee must make all payments necessary to be made on account of the various estates under the Official Assignee’s control, debiting each estate with the amount paid on its account."
+   }
+  },
+  {
+   "id": "SG-H2768-A85",
+   "no": 85,
+   "noLabel": {
+    "en": "85."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Expenses of sale"
+   },
+   "text": {
+    "en": "85. When property forming part of a bankrupt’s estate is sold by the trustee of the bankrupt’s estate through an auctioneer or other agent, the gross proceeds of the sale must be paid over by the auctioneer or agent, and the charges and expenses connected with the sale must afterwards be paid to the auctioneer or agent on production of the necessary allocatur."
+   }
+  }
+ ]
+}

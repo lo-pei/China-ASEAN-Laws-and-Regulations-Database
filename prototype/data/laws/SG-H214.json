@@ -1,0 +1,62 @@
+{
+ "id": "SG-H214",
+ "title": {
+  "zh": null,
+  "en": "Application of Section 75 to Foreign States",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p03",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation TMA1998-N2",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 784,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/TMA1998-N2?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 2 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H214-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Trade Marks Act\n(CHAPTER 332, Section 75(4))\nApplication of Section 75 to Foreign States\nN 2\nREVISED EDITION 1990\n(25th March 1992)\n[31st December 1959]\nThe President has declared that section 75 of the Trade Marks Act shall be applicable to the foreign States set out in the Schedule so long as in the case of each State this notification continues in force with respect to that State."
+   }
+  },
+  {
+   "id": "SG-H214-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nAustria.\nLichtenstein.\nBelgium.\nLuxembourg.\nBrazil.\nMexico.\nBulgaria.\nMonaco.\nCuba.\nMorocco.\nCzechoslovakia.\nNetherlands.\nDenmark.\nNorway.\nDominican Republic.\nPoland.\nEgypt.\nPortugal.\nFinland.\nRomania.\nFrance.\nSpain.\nGermany.\nSweden.\nGreece.\nSwitzerland.\nHungary.\nSyria.\nIndonesia.\nTunisia.\nIreland.\nTurkey.\nIsrael.\nUnited States of America.\nItaly.\nVietnam.\nJapan.\nYugoslovia.\nLebanon."
+   }
+  }
+ ]
+}

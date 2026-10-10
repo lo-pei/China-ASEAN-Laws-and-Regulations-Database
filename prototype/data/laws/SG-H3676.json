@@ -1,0 +1,1372 @@
+{
+ "id": "SG-H3676",
+ "title": {
+  "zh": null,
+  "en": "State Courts Act 1970",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p46",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act SCA1970",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 85,
+ "chars": 69141,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/SCA1970?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 85 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 12 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3676-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the State Courts Act 1970.\n[5/2014]"
+   }
+  },
+  {
+   "id": "SG-H3676-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“action” means a civil proceeding commenced by summons or in any other manner prescribed by Rules of Court;\n“commissioner for oaths” means a commissioner for oaths appointed under section 68 of the Supreme Court of Judicature Act 1969;\n“Coroner” has the meaning given by section 2(1) of the Coroners Act 2010;\n“District Court limit” means $250,000 or any other amount specified by an order under section 30;\n“judicial officer” means a District Judge, Magistrate or registrar;\n“Magistrate’s Court limit” means $60,000 or any other amount specified by an order under section 52(3);\n“prescribed” means prescribed by Rules of Court;\n“registrar” means the registrar of the State Courts and includes a deputy registrar;\n“Rules of Court” means Rules of Court made under this Act and includes forms;\n“seal” includes stamp.\n[14/2010; 5/2014; 27/2014]"
+   }
+  },
+  {
+   "id": "SG-H3676-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 CONSTITUTION"
+   },
+   "heading": {
+    "en": "State Courts"
+   },
+   "text": {
+    "en": "3.—(1) There are within Singapore the following subordinate courts called the State Courts:\n(a)District Courts;\n(b)Magistrates’ Courts;\n(c)Coroners’ Courts;\n(d)Small Claims Tribunals;\n(e)Employment Claims Tribunals.\n[21/2016]\n(1A) The District Courts and Magistrates’ Courts have the jurisdiction conferred by this Act and any other written law.\n[21/2016]\n(2) The Small Claims Tribunals have the jurisdiction conferred by the Small Claims Tribunals Act 1984 and any other written law.\n(3) [Deleted by Act 33 of 2018]\n(4) The Coroners’ Courts have the jurisdiction that is conferred by the Coroners Act 2010 and any other written law.\n[14/2010]\n(5) The Employment Claims Tribunals have the jurisdiction that is conferred by the Employment Claims Act 2016 and any other written law.\n[21/2016]"
+   }
+  },
+  {
+   "id": "SG-H3676-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 CONSTITUTION"
+   },
+   "heading": {
+    "en": "Constitution of State Courts"
+   },
+   "text": {
+    "en": "4. The President may constitute under appropriate names so many State Courts as the President thinks fit.\n[5/2014]\n[Act 25 of 2021 wef 01/04/2022]\n[S 759/2022]"
+   }
+  },
+  {
+   "id": "SG-H3676-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 CONSTITUTION"
+   },
+   "heading": {
+    "en": "Seals of courts"
+   },
+   "text": {
+    "en": "5. The State Courts are to have and use as occasion may require a seal or seals of such nature as the Chief Justice may, by notification in the Gazette, prescribe.\n[5/2014]"
+   }
+  },
+  {
+   "id": "SG-H3676-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 CONSTITUTION"
+   },
+   "heading": {
+    "en": "Process of courts"
+   },
+   "text": {
+    "en": "6. Subject to Rules of Court, all writs, summonses, warrants, orders, notices and other mandatory processes issued by the State Courts must be signed by a judicial officer and must bear the seal of the court issuing the same.\n[5/2014]"
+   }
+  },
+  {
+   "id": "SG-H3676-A6.001",
+   "no": 6.001,
+   "noLabel": {
+    "en": "6A."
+   },
+   "chapter": {
+    "en": "PART 2 CONSTITUTION"
+   },
+   "heading": {
+    "en": "Sittings of State Courts"
+   },
+   "text": {
+    "en": "6A.—(1) Subject to subsection (2), every State Court is to sit on every day of the year except on Saturdays, Sundays and public holidays.\n[5/2014]\n(2) Despite subsection (1), a judicial officer may lawfully sit on a Saturday, Sunday or public holiday or during a vacation authorised under section 61 if —\n(a)the Presiding Judge of the State Courts, with the concurrence of the Chief Justice, has directed the judicial officer to sit on that day or during that vacation; or\n(b)in the opinion of the judicial officer, the business to be despatched is extremely urgent.\n[5/2014]\n(3) Every State Court is to sit at such times and at such places as the Chief Justice may from time to time appoint.\n[5/2014]\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3676-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 CONSTITUTION"
+   },
+   "heading": {
+    "en": "Sittings in private, etc."
+   },
+   "text": {
+    "en": "7.—(1) The place in which any State Court is held is deemed an open and public court to which the public generally may have access.\n[5/2014]\n(2) A State Court has the power to hear any matter or proceeding or any part thereof in private if the court is satisfied that it is expedient in the interests of justice, public safety, public security or propriety, the national interest or national security of Singapore, or for other sufficient reason to do so.\n[5/2014; 19/2018]\n[Act 25 of 2021 wef 01/04/2022]\n(2AA) Any application for a matter or proceeding to be held in private, on the grounds that it is expedient in the national interest or national security of Singapore to do so, is to be heard in private.\n[Act 25 of 2021 wef 01/04/2022]\n(2AB) A State Court has the power to hear any application mentioned in subsection (2AA), or any part of such an application, otherwise than in private, if the court is satisfied that —\n(a)it is expedient in the interests of justice to hear the application or part of the application otherwise than in private; and\n(b)it is not prejudicial to the national interest or national security of Singapore to hear the application or part of the application otherwise than in private.\n[Act 25 of 2021 wef 01/04/2022]\n(2A) A State Court may, in any matter or proceeding or any part thereof tried or held or to be tried or held before it, if satisfied that it is expedient in the interests of justice, public safety, public security or propriety, the national interest or national security of Singapore, or for other sufficient reason to do so, order that —\n(a)the name, address or photograph of any witness;\n[Act 25 of 2021 wef 01/04/2022]\n(b)any evidence or any other thing likely to lead to the identification of such witness by a person other than the party to that matter or proceeding; or\n[Act 25 of 2021 wef 01/04/2022]\n(c)any information that, if disclosed, may be prejudicial to the national interest or national security of Singapore,\nwhich is contained in any court document intended to be produced before the court, be removed or be sufficiently redacted.\n[15/2010; 5/2014]\n[Act 25 of 2021 wef 01/04/2022]\n(3) A State Court may at any time order that no person is to —\n(a)publish the name, address or photograph of any witness in any matter or proceeding or any part thereof tried or held or to be tried or held before it, or any evidence or any other thing likely to lead to the identification of any such witness;\n[Act 25 of 2021 wef 01/04/2022]\n(b)do any other act which is likely to lead to the identification of any witness mentioned in paragraph (a); or\n[15/2010; 5/2014]\n[Act 25 of 2021 wef 01/04/2022]\n(c)publish any information relating to any matter or proceeding before the court that, if disclosed, may be prejudicial to the national interest or national security of Singapore.\n[Act 25 of 2021 wef 01/04/2022]\n(4) Any person who acts in contravention of any order under subsection (2A) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.\n[15/2010]\n(5) A State Court that hears the whole or any part of any matter or proceeding in private may, in its discretion, permit any of the following individuals to be present in the courtroom while that matter or proceeding is heard in private:\n(a)any journalist who reports news for a newspaper or a broadcasting service;\n(b)any individual whom the court determines has a sufficient interest in that matter or proceeding;\n(c)any other individual that the court specifies in any particular case.\n[19/2018]\n[Act 25 of 2021 wef 01/04/2022]\n(6) For the purposes of subsection (2), the matters that a State Court may consider, when deciding whether it is expedient in the interests of justice, public safety, public security or propriety, the national interest or national security of Singapore, or for other sufficient reason, to hear the whole or any part of any matter or proceeding in private, include the following matters:\n(a)whether the defence of any accused person in that matter or proceeding will be prejudiced by the presence of any member of the public in the courtroom;\n(b)whether any accused person or witness in that matter or proceeding has any legitimate interest in privacy that needs to be protected;\n(c)whether the object of that matter or proceeding will be defeated by publicity if that matter or proceeding is heard in open court;\n(d)whether any accused person or witness in that matter or proceeding has any legitimate interest in protecting the confidentiality of any information that may be disclosed during the hearing of that matter or proceeding;\n(e)whether any information that may be disclosed during the hearing of that matter or proceeding will be prejudicial to the interests of Singapore.\n[19/2018]\n[Act 25 of 2021 wef 01/04/2022]\n(7) In this section —\n“broadcasting service” has the meaning given by section 2(1) of the Broadcasting Act 1994;\n“newspaper” has the meaning given by section 2(1) of the Newspaper and Printing Presses Act 1974.\n[19/2018]"
+   }
+  },
+  {
+   "id": "SG-H3676-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 CONSTITUTION"
+   },
+   "heading": {
+    "en": "State Court may conduct hearing through electronic means of communication"
+   },
+   "text": {
+    "en": "8.—(1) Without limiting section 7, a State Court may conduct the hearing of any matter or proceeding (other than a matter or proceeding prescribed by the Rules of Court or the Criminal Procedure Rules) through a live video link, a live television link, a live audio link or any other electronic means of communication approved by the Chief Justice.\n[Act 25 of 2021 wef 01/04/2022]\n(2) Subsection (1) does not affect the operation of section 26A of the Administration of Justice (Protection) Act 2016, section 62A of the Evidence Act 1893 and section 281 of the Criminal Procedure Code 2010.\n[46/2018]\n[Act 25 of 2021 wef 01/04/2022]\n(3) A State Court must not conduct any part of a hearing of a matter through a live audio link only, without an accompanying live video link or live television link —\n(a)where oral evidence is given during that part of the hearing (including in a trial of an offence) in a criminal proceeding;\n(b)where oral evidence is given during that part of the hearing (including in a trial of an action) in a civil proceeding, unless all the parties consent; or\n(c)where the matter is prescribed by the Rules of Court or the Criminal Procedure Rules.\n[Act 25 of 2021 wef 01/04/2022]\n(4) For the purposes of subsection (3), a court is not considered to have conducted a part of a hearing of a matter through a live audio link only and without an accompanying live video link or live television link, by reason only of a temporary disruption in the accompanying live video link or live television link that was insignificant and which did not affect the court’s duty to conduct proceedings fairly.\n[Act 25 of 2021 wef 01/04/2022]\n(5) A State Court must not conduct a hearing of a matter or proceeding in the manner provided under subsection (1), if to do so would be inconsistent with the court’s duty to ensure that the hearing is conducted fairly to all parties.\n[Act 25 of 2021 wef 01/04/2022]\n(6) A State Court is deemed to be sitting at a place appointed under section 6A(3) when the court conducts a hearing of a matter or proceeding in the manner provided under subsection (1) (whether any judicial officer of the court is situated in Singapore or outside Singapore).\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3676-A8.001",
+   "no": 8.001,
+   "noLabel": {
+    "en": "8A."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Appointment of Presiding Judge of State Courts"
+   },
+   "text": {
+    "en": "8A.—(1) For the purposes of the administration of this Act, the President may, on the recommendation of the Chief Justice, appoint a Supreme Court Judge or a Judicial Commissioner to be the Presiding Judge of the State Courts for such period as the Chief Justice may recommend.\n[5/2014; 40/2019]\n(2) Despite any other written law, the Presiding Judge of the State Courts may sit in any State Court and act as a judge (however described) thereof, in which case the Presiding Judge has all the jurisdiction, power and privileges of such a judge.\n[5/2014]\n(3) A Supreme Court Judge or a Judicial Commissioner may, during the period of his or her appointment as the Presiding Judge of the State Courts, continue to sit in the General Division of the High Court, the Appellate Division of the High Court or the Court of Appeal in accordance with the Constitution.\n[5/2014; 40/2019]\n(4) Any person appointed to be the Presiding Judge of the State Courts is, although the period of his or her appointment as such has expired or his or her appointment as such has been revoked, in relation to any case heard by him or her as a judge (however described) of a State Court, to continue to sit as such a judge for the purpose of giving judgment or otherwise.\n[5/2014]"
+   }
+  },
+  {
+   "id": "SG-H3676-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Appointments and qualifications of District Judges"
+   },
+   "text": {
+    "en": "9.—(1) Subject to section 8A, a District Court is to be presided over by a District Judge appointed by the President on the recommendation of the Chief Justice.\n[5/2014]\n(2) [Deleted by Act 5 of 2014]\n(3) A person must not be appointed to be or to act as a District Judge unless he or she has been for not less than 7 years a qualified person as defined in section 2 of the Legal Profession Act 1966.\n[5/2014]\n(3A) Despite subsection (3), a person may be appointed to be or to act as a District Judge if —\n(a)the person has been for not less than 5 years a qualified person as defined in section 2 of the Legal Profession Act 1966; and\n(b)the Chief Justice, after having regard to the qualifications and experience of the person, is of the opinion that the person is suitable to be appointed as a District Judge.\n[5/2014]\n(4) Any person appointed to be or to act as a District Judge is, although the period of his or her appointment has expired or his or her appointment has been revoked, to sit as a District Judge for the purpose of giving judgment or otherwise in relation to any case heard by him or her.\n(5) Every person appointed to be or to act as a District Judge is ex officio a Magistrate."
+   }
+  },
+  {
+   "id": "SG-H3676-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Appointments and qualifications of Magistrates"
+   },
+   "text": {
+    "en": "10.—(1) The President may, on the recommendation of the Chief Justice, appoint any fit and proper person to be a Magistrate.\n[14/2010]\n(2) A person must not be appointed to be or to act as a Magistrate unless he or she has been for not less than 3 years a qualified person as defined in section 2 of the Legal Profession Act 1966.\n[14/2010; 5/2014]\n(3) Despite subsection (2), a person may be appointed to be or to act as a Magistrate if —\n(a)the person has been for not less than one year a qualified person as defined in section 2 of the Legal Profession Act 1966; and\n(b)the Chief Justice, after having regard to the qualifications and experience of the person, is of the opinion that the person is suitable to be appointed as a Magistrate.\n[5/2014]"
+   }
+  },
+  {
+   "id": "SG-H3676-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Justices of the Peace"
+   },
+   "text": {
+    "en": "11.—(1) The President may, by warrant under his or her hand, appoint fit and proper persons to be Justices of the Peace.\n(2) Justices of the Peace have and may exercise such powers and perform such duties of a Magistrate as may be conferred on them by any written law."
+   }
+  },
+  {
+   "id": "SG-H3676-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Appointments and qualifications of registrar and deputy registrars of State Courts"
+   },
+   "text": {
+    "en": "12.—(1) There are to be appointed by the Chief Justice a registrar and so many deputy registrars as may be necessary for the State Courts.\n[5/2014]\n(2) A person must not be appointed to be or to act as registrar unless he or she is a qualified person as defined in section 2 of the Legal Profession Act 1966, except that the Chief Justice may, in his or her discretion, appoint any person who is not a qualified person under that Act.\n(3) The registrar and the deputy registrars are ex officio commissioners for oaths."
+   }
+  },
+  {
+   "id": "SG-H3676-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Powers and duties of deputy registrars"
+   },
+   "text": {
+    "en": "13. Subject to Rules of Court, all the powers and duties conferred and imposed on the registrar may be exercised by a deputy registrar."
+   }
+  },
+  {
+   "id": "SG-H3676-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "State Court officers"
+   },
+   "text": {
+    "en": "14. There are to be attached to the State Courts such commissioners for oaths, interpreters, clerks, bailiffs, process servers and other officers as may appear to the Chief Justice to be necessary for the administration of justice and the due execution of all powers and duties which are vested in the State Courts.\n[5/2014]"
+   }
+  },
+  {
+   "id": "SG-H3676-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Powers and duties of certain State Court officers, etc."
+   },
+   "text": {
+    "en": "15.—(1) The bailiffs and process servers are to —\n(a)execute all writs, summonses, warrants, orders, notices and other mandatory processes of the State Courts given to them;\n(b)make a return of the same together with the manner of the execution thereof to the court from which the process issued; and\n(c)arrest and receive all such persons and property as are committed to the custody of the State Courts.\n[5/2014]\n[Act 25 of 2021 wef 01/04/2022]\n(2) The registrar may engage any auxiliary police officer appointed under the Police Force Act 2004*, any security agency, a provider of transport and of warehousing, a valuer, an estate agent, a broker, a solicitor or any other appropriate person to assist the bailiffs in the discharge of the bailiffs’ duties.\n[*Updated to be consistent with the 2020 Revised Edition]\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3676-A15.001",
+   "no": 15.001,
+   "noLabel": {
+    "en": "15A."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Solicitor, etc., authorised to act as bailiff"
+   },
+   "text": {
+    "en": "15A.—(1) Subject to any directions that may be given by the Presiding Judge of the State Courts, the registrar may authorise a solicitor or a person employed by a solicitor to exercise the powers and perform the duties of a bailiff during such period or on such occasion as the registrar thinks fit and subject to such terms and conditions as the registrar may determine.\n[4/2010; 5/2014]\n(2) Section 68(2) applies to a solicitor or person authorised under subsection (1) as it applies to an officer of a State Court.\n[5/2014]"
+   }
+  },
+  {
+   "id": "SG-H3676-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Special powers of bailiffs"
+   },
+   "text": {
+    "en": "16. The bailiffs in executing any enforcement order for seizure and sale of property, any other enforcement order or any writ of distress may effect an entry into any building, and for that purpose, if necessary, may break open any outer or inner door or window of the building or any receptacle therein, using such force as is reasonably necessary to effect an entry.\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3676-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Oaths of judicial officers and certain other officers"
+   },
+   "text": {
+    "en": "17.—(1) All judicial officers and any other officers of the State Courts as may be required by the Chief Justice, before exercising the functions of their respective offices, are to take and subscribe the appropriate oath of office and allegiance set out in the Schedule.\n[5/2014]\n(2) The oath mentioned in subsection (1) may be taken and subscribed before the Presiding Judge of the State Courts, the Presiding Judge of the Family Justice Courts, a Supreme Court Judge or a Judicial Commissioner.\n[4/2010; 5/2014; 27/2014; 40/2019]\n(2A) To avoid doubt, where an oath is required to be taken and subscribed under subsection (1), a person may take and subscribe the oath by appearing before the Presiding Judge of the State Courts, the Presiding Judge of the Family Justice Courts, a Supreme Court Judge or a Judicial Commissioner through a live video link or live television link created using a remote communication technology that allows the Presiding Judge of the State Courts, Presiding Judge of the Family Justice Courts, Supreme Court Judge or Judicial Commissioner (as the case may be) to —\n(a)maintain visual contact and communicate with the person taking the oath, and any interpreter present, throughout the process;\n(b)confirm the identity of the person taking the oath and any interpreter present; and\n(c)verify by inspection the oath to be subscribed.\n[Act 25 of 2023 wef 01/12/2023]\n(3) Where the oath is taken before the Presiding Judge of the State Courts, he or she is to —\n(a)enter in the record of the State Courts that the oath was duly administered and taken before him or her; and\n(b)transmit a certified copy of the entry to the Registrar of the Supreme Court.\n[4/2010; 5/2014]\n(4) Where the oath is taken before the Presiding Judge of the Family Justice Courts, he or she is to —\n(a)enter in the record of the Family Justice Courts that the oath was duly administered and taken before him or her;\n(b)transmit a certified copy of the entry to the Registrar of the Supreme Court; and\n(c)transmit a certified copy of the entry to the Presiding Judge of the State Courts.\n[27/2014]"
+   }
+  },
+  {
+   "id": "SG-H3676-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Appointments and revocations to be gazetted"
+   },
+   "text": {
+    "en": "18. All appointments and revocations made under this Part must be published in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H3676-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "General civil jurisdiction"
+   },
+   "text": {
+    "en": "19.—(1) A District Court exercising civil jurisdiction is a court of record.\n(2) Subject to subsections (3) and (4), a District Court has all the jurisdiction of the General Division of the High Court to hear and try any action in personam where —\n(a)the defendant is served with an originating claim or any other originating process —\n(i)in Singapore in the manner prescribed by Rules of Court; or\n(ii)outside Singapore in the circumstances authorised by and in the manner prescribed by Rules of Court; or\n[Act 25 of 2021 wef 01/04/2022]\n(b)the defendant submits to the jurisdiction of a District Court.\n[31/2010; 40/2019]\n(3) Subject to section 28A of the Supreme Court of Judicature Act 1969 and any order under subsection (1) thereof, a District Court’s jurisdiction under subsection (2) does not include —\n(a)any supervisory jurisdiction or revisionary jurisdiction;\n(b)any jurisdiction relating to the judicial review of any act done or decision made by any person or authority, including the issue of any of the following prerogative orders:\n(i)a Mandatory Order;\n(ii)a Prohibiting Order;\n(iii)a Quashing Order;\n(iv)an Order for Review of Detention;\n(c)any jurisdiction vested exclusively in the General Division of the High Court, in a Family Court, in a Youth Court, in any other State Court, or in any judicial, quasi‑judicial or administrative tribunal, by written law;\n[Act 23 of 2019 wef 01/04/2022]\n(ca)any jurisdiction to hear and try an action in passing off; and\n[Act 23 of 2019 wef 01/04/2022]\n(d)any jurisdiction expressly excluded by written law.\n[31/2010; 5/2014; 27/2014; 40/2019]\n(4) Subject to sections 22 and 23, a District Court’s jurisdiction under subsection (2) does not include jurisdiction to hear and try any action where —\n(a)the amount claimed in the action exceeds the District Court limit; or\n(b)any remedy or relief sought in the action is in respect of a subject matter the value of which exceeds the District Court limit.\n[31/2010]\n(5) [Deleted by Act 27 of 2014]\n(6) Without limiting subsection (2), a District Court has such jurisdiction as is vested in it by any other written law."
+   }
+  },
+  {
+   "id": "SG-H3676-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "text": {
+    "en": "20. [Repealed by Act 31 of 2010]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3676-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "text": {
+    "en": "21. [Repealed by Act 31 of 2010]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3676-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Abandonment of part of claim to give District Court jurisdiction"
+   },
+   "text": {
+    "en": "22.—(1) Where —\n(a)the amount claimed in an action exceeds the District Court limit, or any remedy or relief sought in an action is in respect of a subject matter the value of which exceeds the District Court limit; and\n(b)a District Court would have jurisdiction under section 19(2) to hear and try the action if the amount or value (as the case may be) did not exceed the District Court limit,\nthe claimant may abandon the excess amount or that remedy or relief, as the case may be, and thereupon a District Court has jurisdiction under section 19(2) to hear and try the action, except that the claimant cannot in that action —\n(c)recover an amount exceeding the District Court limit; and\n(d)obtain any remedy or relief in respect of the subject matter the value of which exceeds the District Court limit.\n[31/2010]\n[Act 25 of 2021 wef 01/04/2022]\n(2) Where a District Court has jurisdiction to hear and try an action by virtue of this section, the judgment of the court in the action is a full discharge of all demands in respect of the cause of action."
+   }
+  },
+  {
+   "id": "SG-H3676-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Jurisdiction by agreement in certain actions"
+   },
+   "text": {
+    "en": "23. Where the parties to an action agree, by a memorandum signed by them or their respective solicitors, a District Court has jurisdiction under section 19(2) to hear and try the action even though —\n(a)the amount claimed in the action exceeds the District Court limit; or\n(b)any remedy or relief sought in the action is in respect of a subject matter the value of which exceeds the District Court limit.\n[31/2010]"
+   }
+  },
+  {
+   "id": "SG-H3676-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "text": {
+    "en": "24. [Repealed by Act 26 of 2005]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3676-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Jurisdiction in actions for recovery of immovable property"
+   },
+   "text": {
+    "en": "25. Without limiting section 19, a District Court has jurisdiction under section 19(2) to hear and try any action for the recovery of immovable property with or without a claim for rent or mesne profits and whether or not the title to the property is in dispute, where —\n(a)the annual value of the property appearing in the Valuation List prepared under section 10 of the Property Tax Act 1960 does not exceed the District Court limit;\n(b)the annual rent payable by the tenant does not exceed the District Court limit or the monthly rent payable by the tenant does not exceed one-twelfth of the District Court limit; or\n(c)if the annual value, annual rent or monthly rent cannot be ascertained, the last transacted price of the property does not exceed 10 times the District Court limit.\n[31/2010]"
+   }
+  },
+  {
+   "id": "SG-H3676-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Equity jurisdiction"
+   },
+   "text": {
+    "en": "26. Without limiting section 19, a District Court has jurisdiction under section 19(2) to hear and try any of the following proceedings:\n(a)[Deleted by Act 27 of 2014]\n(b)proceedings for the execution of any trust or for a declaration that a trust subsists, where the amount or value of the property subject, or alleged to be subject, to the trust does not exceed the District Court limit;\n(c)proceedings for foreclosure or redemption of any mortgage or for enforcing any charge or lien, where the amount owing in respect of the mortgage, charge or lien does not exceed the District Court limit;\n(d)proceedings for the specific performance, or for the rectification, delivery up or cancellation of any agreement for the sale, purchase or lease of any property, where, in the case of a sale or purchase, the purchase money or, in the case of a lease, the amount or value of the property does not exceed the District Court limit;\n(e)[Deleted by Act 27 of 2014]\n(f)proceedings for the dissolution or winding up of any partnership (other than a limited liability partnership registered under the Limited Liability Partnerships Act 2005), whether or not the existence of the partnership is in dispute, where the amount or value of all the assets of the partnership does not exceed the District Court limit;\n(g)proceedings for relief against fraud or mistake where the damage sustained or the amount or value of the estate or fund in respect of which relief is sought does not exceed the District Court limit.\n[31/2010; 27/2014]"
+   }
+  },
+  {
+   "id": "SG-H3676-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "text": {
+    "en": "27. [Repealed by Act 27 of 2014]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3676-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Jurisdiction to issue writ of distress"
+   },
+   "text": {
+    "en": "28. A District Court has jurisdiction under the Distress Act 1934 in all cases where the amount of rent distrained or to be distrained does not exceed the District Court limit."
+   }
+  },
+  {
+   "id": "SG-H3676-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Jurisdiction to grant relief by interpleader"
+   },
+   "text": {
+    "en": "29.—(1) Without limiting section 19, a District Court has jurisdiction under section 19(2) to grant relief by way of interpleader —\n(a)where a bailiff of a District Court is charged with the execution of any writ or order of the Court and claim is made to any money or other movable property taken or intended to be taken in execution of the writ or order, or to the proceeds or value of any such property, by any person other than the person against whom the writ or order was issued or made; and\n(b)where the person seeking relief is under liability for any debt, money, or other movable property of which the amount or value does not exceed the District Court limit and for or in respect of which the person has been or expects to be sued by 2 or more parties making adverse claims thereto.\n[31/2010]\n(2) If it appears to the General Division of the High Court that any proceedings in the General Division of the High Court by way of interpleader, in which the amount in dispute or value of the subject matter does not exceed the District Court limit, may be more conveniently tried in a District Court, the General Division of the High Court may at any time order that the proceedings be transferred to a District Court.\n[40/2019]"
+   }
+  },
+  {
+   "id": "SG-H3676-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Variation of District Court limit"
+   },
+   "text": {
+    "en": "30. The President may, after consulting the Chief Justice, by order vary the District Court limit mentioned in any of the foregoing provisions."
+   }
+  },
+  {
+   "id": "SG-H3676-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Powers of District Court same as General Division of High Court"
+   },
+   "text": {
+    "en": "31.—(1) A District Court, as regards any action within its jurisdiction, is in any proceedings before it —\n(a)to grant such relief, redress or remedy or combination of remedies, either absolute or conditional; and\n(b)to give such and the like effect to every ground of defence or counterclaim equitable or legal,\nas ought to be granted or given in the like action by the General Division of the High Court and in as full and ample a manner.\n[40/2019]\n(2) Without limiting subsection (1), a District Court, as regards any action within its jurisdiction, has power —\n(a)to grant an injunction whether or not any other relief is or could be claimed;\n(b)to make binding declarations of rights whether or not any consequential relief is or could be claimed; and\n(c)to order medical examination of a person who is a party to any proceedings where the physical or mental condition of the person is relevant to any matter in question in the proceedings.\n[31/2010]"
+   }
+  },
+  {
+   "id": "SG-H3676-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Powers of District Judge in chambers"
+   },
+   "text": {
+    "en": "32. A District Judge has power in any civil proceeding pending in a District Court to make any order or to exercise any authority or jurisdiction which, if it related to a proceeding pending in the General Division of the High Court, might be made or exercised by a Judge sitting in chambers in the General Division of the High Court.\n[31/2010; 40/2019]"
+   }
+  },
+  {
+   "id": "SG-H3676-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Assessors"
+   },
+   "text": {
+    "en": "33.—(1) In any proceedings, a District Judge may, if he or she thinks fit on the application of any party, or on his or her own motion, summon to his or her assistance, in such manner that is prescribed by Rules of Court, one or more persons of skill and experience in the matter to which the proceedings relate who may be willing to sit with the District Judge and act as assessors.\n(2) Subject to subsection (3), the remuneration of assessors for sitting under this section is to be at such rate as may be prescribed by Rules of Court and is to be costs in the proceedings unless otherwise ordered by the District Judge.\n(3) Where one or more assessors are summoned for the purposes of this section otherwise than on the application of a party to the proceedings, the remuneration of any such assessor is payable out of moneys provided by Parliament.\n(4) Where any person is proposed to be summoned as an assessor, objection to the person, either personally or in respect of the person’s qualification, may be taken by any party in the prescribed manner."
+   }
+  },
+  {
+   "id": "SG-H3676-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Jurisdiction of registrar"
+   },
+   "text": {
+    "en": "34. Any jurisdiction and powers conferred on a District Court by this Act or any other written law relating to civil proceedings may be exercised, to the extent authorised by this Act or any other written law or Rules of Court, by the registrar."
+   }
+  },
+  {
+   "id": "SG-H3676-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Division of causes of action"
+   },
+   "text": {
+    "en": "35. A cause of action must not be divided for the purpose of bringing 2 or more actions."
+   }
+  },
+  {
+   "id": "SG-H3676-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Examination of witnesses abroad in District Court cases"
+   },
+   "text": {
+    "en": "36.—(1) The General Division of the High Court, on application made in the manner prescribed by Rules of Court, has the same power to issue a request or an order to examine witnesses abroad for the purpose of civil proceedings in a District Court as it has for the purpose of an action or matter in the General Division of the High Court.\n[40/2019]\n(2) Where such an application is made, the General Division of the High Court may, if it thinks fit, order the proceedings to be transferred to the General Division of the High Court.\n[40/2019]"
+   }
+  },
+  {
+   "id": "SG-H3676-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "text": {
+    "en": "37. [Repealed by Act 26 of 2005]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3676-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "text": {
+    "en": "38. [Repealed by Act 26 of 2005]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3676-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Costs of certain actions commenced in General Division of High Court which could have been commenced in a State Court"
+   },
+   "text": {
+    "en": "39.—(1) Where an action is commenced in the General Division of the High Court which could have been commenced in a State Court, then, subject to subsections (3) and (4), the claimant —\n(a)if he or she recovers a sum not exceeding the District Court limit, is not entitled to any more costs of the action than those to which he or she would have been entitled if the action had been brought in a District Court; and\n(b)if he or she recovers a sum not exceeding the Magistrate’s Court limit, is not entitled to any more costs of the action than those to which he or she would have been entitled if the action had been brought in a Magistrate’s Court.\n[31/2010; 5/2014; 40/2019]\n[Act 25 of 2021 wef 01/04/2022]\n(2) For the purposes of subsection (1)(a) and (b), a claimant is treated as recovering the full amount recoverable in respect of his or her claim without regard to any deduction made in respect of contributory negligence on his or her part or otherwise in respect of matters not falling to be taken into account in determining whether the action could have been commenced in a State Court.\n[5/2014]\n[Act 25 of 2021 wef 01/04/2022]\n(3) Where a claimant is entitled to costs on the State Courts scale only, the Registrar of the Supreme Court has the same power of allowing any items of costs as a District Judge or Magistrate would have had if the action had been brought in a State Court.\n[5/2014]\n[Act 25 of 2021 wef 01/04/2022]\n(4) In any action, the General Division of the High Court, if satisfied —\n(a)that there was sufficient reason for bringing the action in the General Division of the High Court; or\n(b)that the defendant or one of the defendants objected to the transfer of the action to a State Court,\nmay make an order allowing the costs or any part of the costs thereof on the scale of the General Division of the High Court or on the State Courts scale as it may direct.\n[5/2014; 40/2019]\n(5) This section does not apply in the case of any proceedings by the Government.\n(6) This section does not affect any question as to costs if it appears to the General Division of the High Court that there was reasonable ground for supposing the amount recoverable in respect of the claimant’s claim to be in excess of the amount recoverable in an action commenced in a State Court.\n[5/2014; 40/2019]\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3676-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "text": {
+    "en": "40. [Repealed by Act 26 of 2005]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3676-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Allocation of proceedings to General Division of High Court"
+   },
+   "text": {
+    "en": "41.—(1) The Chief Justice may, where he or she considers it necessary or expedient to improve efficiency in the administration of justice and to provide for more speedy disposal of proceedings commenced in the District Courts, by order direct such class or classes or description of proceedings as may be specified in the order to be heard and determined by the General Division of the High Court.\n[40/2019]\n(2) Any order under subsection (1) may make such incidental provision for the transfer of the proceedings to the General Division of the High Court (including matters relating to procedure and costs) as the Chief Justice thinks fit.\n[40/2019]"
+   }
+  },
+  {
+   "id": "SG-H3676-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Finality of judgments and orders of District Court"
+   },
+   "text": {
+    "en": "42. Every judgment and order of a District Court exercising civil jurisdiction is, except as provided by this Act, any other written law or Rules of Court, final and conclusive between the parties."
+   }
+  },
+  {
+   "id": "SG-H3676-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Satisfaction of judgments and orders for payment of money"
+   },
+   "text": {
+    "en": "43.—(1) Where a judgment is given or an order is made by a District Court under which any sum of money is payable, whether by way of satisfaction of the claim or counterclaim in the proceedings or by way of costs or otherwise, the Court may, as it thinks fit, order the money to be paid either —\n(a)in one sum, whether immediately or within a period fixed by the Court; or\n(b)by the instalments payable at the times fixed by the Court.\n(2) If at any time it appears to the satisfaction of a District Court that any party to any proceedings is unable from any cause to pay any sum recovered against the party (whether by way of satisfaction of the claim or counterclaim in the proceedings or by way of costs or otherwise) or any instalment thereof, the Court may, in its discretion, suspend or stay any judgment or order given or made in the proceedings —\n(a)for such time and on such terms as the Court thinks fit; and\n(b)from time to time until it appears that the cause of inability has ceased.\n(3) Where an order for payment by instalments is made, the payment is to be made into court and no enforcement may issue, except with the permission of the District Court.\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3676-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Enforcement of judgments of District Courts"
+   },
+   "text": {
+    "en": "44. Subject to section 43(3), a judgment or an order of a District Court may be enforced in any manner prescribed by Rules of Court."
+   }
+  },
+  {
+   "id": "SG-H3676-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Execution of deed or indorsement of negotiable instrument"
+   },
+   "text": {
+    "en": "45.—(1) If a judgment or order of a District Court is for the execution of a deed, or signing of a document, or for the indorsement of a negotiable instrument, and the party ordered to execute, sign or indorse such instrument is absent, neglects or refuses to do so, any party interested in having the same executed, signed or indorsed, may —\n(a)prepare a deed, document or indorsement of the instrument in accordance with the terms of the judgment or order; and\n(b)tender the same to a District Court for execution upon the proper stamp, if any is required by law,\nand the signature thereof by the registrar, by order of the District Court, has the same effect as the execution, signing or indorsement thereof by the party ordered to execute.\n(2) Nothing in this section shall be held to abridge the powers of a District Court to proceed by attachment against any person neglecting or refusing to execute, sign or indorse any such instrument."
+   }
+  },
+  {
+   "id": "SG-H3676-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "text": {
+    "en": "46. [Repealed by Act 15 of 1993]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3676-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "General provision relating to civil appeals"
+   },
+   "text": {
+    "en": "47. Subject to the provisions of the Supreme Court of Judicature Act 1969 relating to civil appeals from the State Courts to the General Division of the High Court, Rules of Court are to regulate and prescribe the procedure on appeals from a District Court exercising civil jurisdiction to the General Division of the High Court.\n[5/2014; 40/2019]"
+   }
+  },
+  {
+   "id": "SG-H3676-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Agreement not to appeal"
+   },
+   "text": {
+    "en": "48.—(1) An appeal cannot be brought against a decision of a District Court exercising civil jurisdiction, where the parties have agreed in writing signed by or on behalf of each party that the decision is final, unless the party seeking to appeal proves that —\n(a)the decision is affected by fraud or illegality; or\n(b)there was a fundamental breach of the rules of natural justice in the proceedings resulting in the decision.\n(2) An agreement mentioned in subsection (1) —\n(a)may be made before or after the decision to which the agreement relates is made; and\n(b)may relate to part of a decision, in which case references in subsection (1) to a decision are to be read as references to that part of the decision.\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3676-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Appeal not to operate as stay of execution or enforcement"
+   },
+   "text": {
+    "en": "49.—(1) An appeal from a District Court exercising civil jurisdiction does not operate as a stay of execution or enforcement or of proceedings under the judgment or order appealed from, unless the District Court or the General Division of the High Court so orders.\n[40/2019]\n[Act 25 of 2021 wef 01/04/2022]\n(2) No intermediate act or proceeding is invalidated except so far as the General Division of the High Court may direct.\n[40/2019]\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3676-A49.001",
+   "no": 49.001,
+   "noLabel": {
+    "en": "49A."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Oral hearing not needed generally"
+   },
+   "text": {
+    "en": "49A.—(1) Subject to subsection (2), a District Court may decide any matter in its civil jurisdiction without hearing oral arguments, other than a matter prescribed by the Rules of Court.\n(2) Subsection (1) does not allow any part of a proceeding where oral evidence is given (including any part of a trial of an action) to be conducted without an oral hearing, unless all the parties consent.\n(3) Subject to subsection (4), a District Court may, in any matter that the court may decide without hearing oral arguments, direct that the matter be heard in an asynchronous manner by exchange of written correspondence with the party or parties using such means of communications as directed by the court.\n(4) A District Court must not hear a matter in an asynchronous manner if to do so would be inconsistent with the court’s duty to ensure that the proceedings are conducted fairly to all parties.\n(5) To avoid doubt, this section does not affect the power of a District Court to hear oral arguments before deciding any matter that may be decided without hearing oral arguments.\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3676-A49.002",
+   "no": 49.002,
+   "noLabel": {
+    "en": "49B."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Summary dismissal of certain matters"
+   },
+   "text": {
+    "en": "49B.—(1) A District Judge sitting in a District Court may, on his or her own motion, summarily dismiss any appeal made against a decision of the registrar relating to civil proceedings, if the District Judge is satisfied of any of the following:\n(a)every issue in the appeal has already been decided by a District Court or a higher court in an earlier matter in which the appellant was involved, and the appeal therefore has no merit;\n(b)such conditions as may be prescribed by the Rules of Court are met.\n(2) Before summarily dismissing any appeal under subsection (1), a District Judge sitting in a District Court must —\n(a)give the appellant a reasonable opportunity to show cause why the appeal should not be summarily dismissed; and\n(b)consider any representations of the appellant.\n(3) In this section, “appeal” includes part of an appeal.\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3676-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Jurisdiction of District Courts exercising criminal jurisdiction"
+   },
+   "text": {
+    "en": "50.—(1) Subject to subsection (2), a District Court exercising criminal jurisdiction has —\n(a)the jurisdiction and powers conferred on it by the Criminal Procedure Code 2010 and any other written law; and\n(b)without limiting paragraph (a), the power to order medical examination of a person who is an accused in any criminal proceedings where the physical or mental condition of the person is relevant to any matter in question in the proceedings.\n[31/2010]\n(2) The criminal jurisdiction of a District Court is exercisable where the offence is committed —\n(a)within Singapore;\n(b)on board any ship or aircraft registered in Singapore;\n(c)by any person who is a citizen of Singapore on the high seas or on any aircraft; and\n(d)in any place or by any person if it is provided in any written law that the offence is triable in Singapore."
+   }
+  },
+  {
+   "id": "SG-H3676-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Criminal jurisdiction of Magistrates’ Courts"
+   },
+   "text": {
+    "en": "51.—(1) Subject to subsection (2), a Magistrate’s Court exercising criminal jurisdiction has —\n(a)the jurisdiction and powers conferred on it by the Criminal Procedure Code 2010 and any other written law; and\n(b)without limiting paragraph (a), the power to order medical examination of a person who is an accused in any criminal proceedings where the physical or mental condition of the person is relevant to any matter in question in the proceedings.\n[31/2010]\n(2) The criminal jurisdiction of a Magistrate’s Court is exercisable where the offence is committed —\n(a)within Singapore;\n(b)on board any ship or aircraft registered in Singapore;\n(c)by any person who is a citizen of Singapore on the high seas or on any aircraft; and\n(d)in any place or by any person if it is provided in any written law that the offence is triable in Singapore."
+   }
+  },
+  {
+   "id": "SG-H3676-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Civil jurisdiction of Magistrates’ Courts"
+   },
+   "text": {
+    "en": "52.—(1) Subject to subsection (1A), a Magistrate’s Court has all the jurisdiction of the General Division of the High Court to hear and try any action in personam where —\n(a)the defendant is served with an originating claim or any other originating process —\n(i)in Singapore in the manner prescribed by Rules of Court; or\n(ii)outside Singapore in the circumstances authorised by and in the manner prescribed by Rules of Court; or\n[Act 25 of 2021 wef 01/04/2022]\n(b)the defendant submits to the jurisdiction of a Magistrate’s Court.\n[31/2010; 40/2019]\n(1A) The jurisdiction of a Magistrate’s Court under subsection (1) does not include jurisdiction to hear and try any action where —\n(a)there is no claim for any sum of money;\n(aa)the action is in passing off;\n[Act 23 of 2019 wef 01/04/2022]\n(b)the amount claimed in the action exceeds the Magistrate’s Court limit; or\n(c)any remedy or relief sought in the action, in addition or as an alternative to the amount claimed in the action, is in respect of a subject matter the value of which exceeds the Magistrate’s Court limit.\n[31/2010]\n(1B) A Magistrate’s Court has, in any proceedings within its jurisdiction under subsection (1) —\n(a)the power —\n(i)to grant such relief, redress or remedy or combination of remedies, either absolute or conditional; and\n(ii)to give such and the like effect to every ground of defence or counterclaim equitable or legal,\nas ought to be granted or given in the like action by the General Division of the High Court and in as full and ample a manner;\n(b)without limiting paragraph (a), the power —\n(i)to grant an injunction;\n(ii)to make binding declarations of rights; and\n(iii)to order medical examination of a person who is a party to any proceedings where the physical or mental condition of the person is relevant to any matter in question in the proceedings;\n(c)the power to make any order or to exercise any authority or jurisdiction which, if it related to a proceeding pending in the General Division of the High Court, might be made or exercised by a Judge sitting in chambers in the General Division of the High Court; and\n(d)the powers conferred on a District Court by —\n(i)sections 43 and 49A; and\n[Act 25 of 2021 wef 01/04/2022]\n(ii)section 12 of the Civil Law Act 1909.\n[31/2010; 40/2019]\n(2) In exercising its jurisdiction under subsection (1) or powers under subsection (1B), a Magistrate’s Court is subject to the same limitations and provisions as are applicable to a District Court under this Act.\n[31/2010]\n(3) The President may, after consulting the Chief Justice, by order vary the Magistrate’s Court limit."
+   }
+  },
+  {
+   "id": "SG-H3676-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "text": {
+    "en": "53. [Repealed by Act 26 of 2005]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3676-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Judgments and orders of Magistrates’ Courts"
+   },
+   "text": {
+    "en": "54. Every judgment or order of a Magistrate’s Court in the exercise of its civil jurisdiction has the same effect (for purposes of appeal or otherwise) and is to be enforced in the same manner as if it were given or made by a District Court."
+   }
+  },
+  {
+   "id": "SG-H3676-A54.027",
+   "no": 54.027,
+   "noLabel": {
+    "en": "54AA."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Agreement not to appeal"
+   },
+   "text": {
+    "en": "54AA.—(1) An appeal cannot be brought against a decision of a Magistrate’s Court exercising civil jurisdiction, where the parties have agreed in writing signed by or on behalf of each party that the decision is final, unless the party seeking to appeal proves that —\n(a)the decision is affected by fraud or illegality; or\n(b)there was a fundamental breach of the rules of natural justice in the proceedings resulting in the decision.\n(2) An agreement mentioned in subsection (1) —\n(a)may be made before or after the decision to which the agreement relates is made; and\n(b)may relate to part of a decision, in which case references in subsection (1) to a decision are to be read as references to that part of the decision.\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3676-A54.001",
+   "no": 54.001,
+   "noLabel": {
+    "en": "54A."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "General power to transfer from Magistrate’s Court to District Court"
+   },
+   "text": {
+    "en": "54A.—(1) Where it appears to a District Court, on the application of a party to any civil proceedings pending in a Magistrate’s Court, that the proceedings, by reason of its involving some important question of law, or being a test case, or for any other sufficient reason, should be tried in the District Court, it may order the proceedings to be transferred to the District Court.\n(2) An order under subsection (1) may be made on such terms as the court sees fit."
+   }
+  },
+  {
+   "id": "SG-H3676-A54.002",
+   "no": 54.002,
+   "noLabel": {
+    "en": "54B."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "General power to transfer from State Courts to General Division of High Court"
+   },
+   "text": {
+    "en": "54B.—(1) Where it appears to the General Division of the High Court, on the application of a party to any civil proceedings pending in a State Court, that the proceedings, by reason of its involving some important question of law, or being a test case, or for any other sufficient reason, should be tried in the General Division of the High Court, it may order the proceedings to be transferred to the General Division of the High Court.\n[5/2014; 40/2019]\n(2) An order under subsection (1) may be made on such terms as the court sees fit.\nExplanation.— The intended enforcement overseas of any judgment obtained in the General Division of the High Court, under any enforcement arrangements currently in force, would ordinarily be sufficient reason for transferring the proceedings to the General Division of the High Court.\n[40/2019]"
+   }
+  },
+  {
+   "id": "SG-H3676-A54.003",
+   "no": 54.003,
+   "noLabel": {
+    "en": "54C."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "General power to transfer from General Division of High Court to State Courts"
+   },
+   "text": {
+    "en": "54C.—(1) A party to any civil proceedings pending in the General Division of the High Court may for any sufficient reason at any time apply to the General Division of the High Court for an order that the proceedings be transferred to a State Court.\n[5/2014; 40/2019]\n(2) Subject to subsection (3), the General Division of the High Court may, if it thinks fit, and on such terms as it sees fit, and either on its own motion or on application, order that the proceedings be transferred accordingly despite any other provision of this Act.\n[40/2019]\n(3) An order under subsection (2) may only be made in respect of such proceedings as could have been commenced in the State Court to which the application relates, if the value of the claim had been within the District Court limit or the Magistrate’s Court limit, as the case may be.\nExplanation.— The fact that the proceedings fall within the civil jurisdiction of the State Courts would not, by itself, ordinarily constitute sufficient reason for transferring the proceedings to the State Courts, if enforcement overseas is intended of any judgment obtained in the General Division of the High Court under any enforcement arrangements currently in force.\n[5/2014; 40/2019]"
+   }
+  },
+  {
+   "id": "SG-H3676-A54.004",
+   "no": 54.004,
+   "noLabel": {
+    "en": "54D."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "General power to transfer from District Court to Magistrate’s Court"
+   },
+   "text": {
+    "en": "54D.—(1) A party to any civil proceedings pending in the District Court may for any sufficient reason at any time apply to the District Court for an order that the proceedings be transferred to a Magistrate’s Court.\n(2) Subject to subsection (3), the District Court may, if it thinks fit, and on such terms as it sees fit, and either on its own motion or on application, order that the proceedings be transferred accordingly despite any other provision of this Act.\n(3) An order under subsection (2) may only be made in respect of such proceedings as could have been commenced in the Magistrate’s Court if the value of the claim had been within the Magistrate’s Court limit."
+   }
+  },
+  {
+   "id": "SG-H3676-A54.005",
+   "no": 54.005,
+   "noLabel": {
+    "en": "54E."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Transfer of counterclaim from State Courts to General Division of High Court"
+   },
+   "text": {
+    "en": "54E.—(1) Where, in any civil proceedings pending in a State Court, any counterclaim or set-off and counterclaim of any defendant involves a matter beyond the District Court limit, any party to the proceedings may apply to the General Division of the High Court, within such time as may be prescribed by Rules of Court, for an order that the whole proceedings, or the proceedings on the counterclaim or set-off and counterclaim, be transferred to the General Division of the High Court.\n[5/2014; 40/2019]\n(2) On any application under subsection (1) or on its own motion, the General Division of the High Court may, as it thinks fit, and on such terms as it sees fit, order —\n(a)that the whole proceedings be transferred to the General Division of the High Court;\n(b)that the whole proceedings be tried in the State Courts; or\n(c)that the proceedings on the counterclaim or set-off and counterclaim be transferred to the General Division of the High Court and that the proceedings on the claimant’s claim and the defence thereto other than the set‑off (if any) be tried in the State Courts.\n[5/2014; 40/2019]\n[Act 25 of 2021 wef 01/04/2022]\n(3) Where an order is made under subsection (2)(c), and judgment on the claim is given for the claimant, enforcement thereon, unless the General Division of the High Court at any time otherwise orders, is to be stayed until the proceedings transferred to the General Division of the High Court have been concluded.\n[40/2019]\n[Act 25 of 2021 wef 01/04/2022]\n(4) Where no application is made under subsection (1) or where it is ordered that the whole proceedings be tried in the State Courts, the State Court has jurisdiction to try the proceedings, despite any other provision of this Act.\n[5/2014]"
+   }
+  },
+  {
+   "id": "SG-H3676-A54.006",
+   "no": 54.006,
+   "noLabel": {
+    "en": "54F."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Transfer of counterclaim from Magistrate’s Court to District Court"
+   },
+   "text": {
+    "en": "54F.—(1) Where, in any civil proceedings pending in a Magistrate’s Court, any counterclaim or set-off and counterclaim of any defendant involves a matter beyond the Magistrate’s Court limit, any party to the proceedings may apply to the District Court, within such time as may be prescribed by Rules of Court, for an order that the whole proceedings, or the proceedings on the counterclaim or set‑off and counterclaim, be transferred to the District Court.\n(2) On any application under subsection (1) or on its own motion, the District Court may, as it thinks fit, and on such terms as it sees fit, order —\n(a)that the whole proceedings be transferred to a District Court;\n(b)that the whole proceedings be tried in a Magistrate’s Court; or\n(c)that the proceedings on the counterclaim or set-off and counterclaim be transferred to a District Court and that the proceedings on the claimant’s claim and the defence thereto other than the set-off (if any) be tried in a Magistrate’s Court.\n[Act 25 of 2021 wef 01/04/2022]\n(3) Where an order is made under subsection (2)(c), and judgment on the claim is given for the claimant, enforcement thereon, unless the District Court at any time otherwise orders, is to be stayed until the proceedings transferred to the District Court have been concluded.\n[Act 25 of 2021 wef 01/04/2022]\n(4) Where no application is made under subsection (1) or where it is ordered that the whole proceedings be tried in a Magistrate’s Court, the Magistrate’s Court has jurisdiction to try the proceedings, despite any other provision of this Act."
+   }
+  },
+  {
+   "id": "SG-H3676-A54.007",
+   "no": 54.007,
+   "noLabel": {
+    "en": "54G."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Costs in cases transferred from one court to another"
+   },
+   "text": {
+    "en": "54G.—(1) Where proceedings are ordered to be transferred —\n(a)from the General Division of the High Court to a State Court;\n(b)from a State Court to the General Division of the High Court; or\n(c)from one State Court to another,\nthe costs of the whole proceedings both before and after the transfer, subject to any order made by the court which ordered the transfer, are in the discretion of the court to which the proceedings are transferred, and that court has power to make orders with respect thereto and as to the scales on which the costs of the several parts of the proceedings are to be paid.\n[5/2014; 40/2019]\n(2) As regards so much of the proceedings in any action transferred from the General Division of the High Court to a State Court as takes place in the General Division of the High Court before the transfer —\n(a)the costs thereof are subject to section 39; and\n(b)the powers of the General Division of the High Court under section 39(4) to make an order allowing costs on the scale of the General Division of the High Court or on the State Courts scale are, subject to any order of the General Division of the High Court, exercisable by the State Court.\n[5/2014; 40/2019]"
+   }
+  },
+  {
+   "id": "SG-H3676-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "55."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "text": {
+    "en": "55. [Repealed by Act 27 of 2014]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3676-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "56."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "text": {
+    "en": "56. [Repealed by Act 14 of 2010]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3676-A56.001",
+   "no": 56.001,
+   "noLabel": {
+    "en": "56A."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "text": {
+    "en": "56A. [Repealed by Act 15 of 2010]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3676-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "57."
+   },
+   "chapter": {
+    "en": "PART 5 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Registry of State Courts"
+   },
+   "text": {
+    "en": "57.—(1) The Registry of the State Courts is to be open on every day of the year except on Saturdays, Sundays and public holidays.\n[5/2014]\n(2) Despite subsection (1), the registrar may lawfully sit or carry out the business of the Registry on a Saturday, Sunday or public holiday if —\n(a)the Presiding Judge of the State Courts, with the concurrence of the Chief Justice, has directed the registrar to do so on that day; or\n(b)in the opinion of the registrar, the business to be despatched is extremely urgent.\n[4/2010; 5/2014]\n(3) The office hours of the Registry are such times as the Presiding Judge of the State Courts, with the concurrence of the Chief Justice, may from time to time direct.\n[4/2010; 5/2014]"
+   }
+  },
+  {
+   "id": "SG-H3676-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "58."
+   },
+   "chapter": {
+    "en": "PART 5 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Nature of business at any sitting"
+   },
+   "text": {
+    "en": "58. At any sitting of a District Court or a Magistrate’s Court both civil and criminal proceedings may be tried."
+   }
+  },
+  {
+   "id": "SG-H3676-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "59."
+   },
+   "chapter": {
+    "en": "PART 5 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Distribution of business"
+   },
+   "text": {
+    "en": "59. The distribution of business in the State Courts is to be made in accordance with the directions, which may be of a general or a particular nature, that may be given by the Presiding Judge of the State Courts, with the concurrence of the Chief Justice.\n[4/2010; 5/2014]"
+   }
+  },
+  {
+   "id": "SG-H3676-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "60."
+   },
+   "chapter": {
+    "en": "PART 5 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Office of State Court"
+   },
+   "text": {
+    "en": "60.—(1) There shall be attached to each State Court or a number of State Courts an office, under whatever name, for the purpose of carrying out the work or business in such Court or Courts.\n[5/2014]\n(2) Subject to any directions that may be given by the Chief Justice from time to time, the Presiding Judge of the State Courts is responsible for the apportionment of the work among the several officers in any such office.\n[4/2010; 5/2014]"
+   }
+  },
+  {
+   "id": "SG-H3676-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "61."
+   },
+   "chapter": {
+    "en": "PART 5 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Vacations for District and Magistrates’ Courts"
+   },
+   "text": {
+    "en": "61. The Chief Justice may authorise vacations for District Courts and Magistrates’ Courts in the exercise of their civil jurisdiction not exceeding 15 days in any calendar year."
+   }
+  },
+  {
+   "id": "SG-H3676-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "62."
+   },
+   "chapter": {
+    "en": "PART 5 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "List of touts"
+   },
+   "text": {
+    "en": "62.—(1) The Presiding Judge of the State Courts may —\n(a)frame and publish a list of persons proved to his or her satisfaction, by evidence of general repute or otherwise, to act as touts or unauthorised advisers to suitors or other persons; and\n(b)alter and amend the list.\n[4/2010; 5/2014]\n(2) The Presiding Judge of the State Courts may, by general or special order, exclude from the precincts of the State Courts any person whose name is included in the list, except that when the person is a party to or a witness in any proceedings in a State Court, then he or she is allowed to remain for such time as is necessary.\n[4/2010; 5/2014]\n(3) A person’s name must not be included in the list until the person has been heard or had an opportunity of being heard against such inclusion.\n(4) An appeal lies to a Judge sitting in chambers in the General Division of the High Court from an order made by the Presiding Judge of the State Courts to include a person’s name in the list.\n[4/2010; 5/2014; 40/2019]\n(5) The decision of the Judge is final.\n[40/2019]\n(6) A copy of the list is to be kept hung up in the office or offices of the State Courts and must be published in the Gazette.\n[5/2014]\n(7) A person whose name appears in the list of touts under section 73 of the Supreme Court of Judicature Act 1969, or the list of touts under section 39 of the Family Justice Act 2014, is deemed to be included in the list under this section, and vice versa.\n[27/2014]"
+   }
+  },
+  {
+   "id": "SG-H3676-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "63."
+   },
+   "chapter": {
+    "en": "PART 5 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Impounding documents"
+   },
+   "text": {
+    "en": "63.—(1) A State Court may order any document produced before it in any proceedings to be impounded.\n[5/2014]\n(2) The document which has been impounded must not be delivered out of the custody of the court or inspected except on an order signed by a judicial officer.\n(3) The court that impounded the document may direct the document to be sent to the Attorney-General, the Commissioner of Stamp Duties or any other officer of the Government."
+   }
+  },
+  {
+   "id": "SG-H3676-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "64."
+   },
+   "chapter": {
+    "en": "PART 5 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Disqualification of judicial officers"
+   },
+   "text": {
+    "en": "64.—(1) Except with the approval of the Chief Justice, a judicial officer —\n(a)shall not be capable of —\n(i)accepting or taking any other office of emolument; or\n(ii)carrying on any business either directly or indirectly; and\n(b)must not accept any fees of office, perquisites, emoluments or advantages, other than the judicial officer’s salary and allowances.\n[31/2010]\n(2) Without limiting subsection (1), a judicial officer may, with the approval of the Chief Justice —\n(a)be appointed to any commission of inquiry, committee of inquiry or other judicial, quasi-judicial or administrative tribunal, or hold any office in any institution or society for charitable purposes or for the advancement or encouragement of art, science, education or other knowledge; and\n(b)receive an allowance or other honorarium in respect of that appointment or office.\n[31/2010]"
+   }
+  },
+  {
+   "id": "SG-H3676-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "65."
+   },
+   "chapter": {
+    "en": "PART 5 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Judicial officers not to act where interested"
+   },
+   "text": {
+    "en": "65. A judicial officer must not, except with the approval of the Chief Justice and with the consent of the parties, investigate, try or commit for trial any proceedings to which the judicial officer is a party or in which the judicial officer is personally interested."
+   }
+  },
+  {
+   "id": "SG-H3676-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "66."
+   },
+   "chapter": {
+    "en": "PART 5 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Officers of court not to bid at sales under any written law"
+   },
+   "text": {
+    "en": "66. An officer of the State Courts having any duty to perform in connection with the sale of any property under any written law must not, directly or indirectly, purchase or bid for the property.\n[5/2014]"
+   }
+  },
+  {
+   "id": "SG-H3676-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "67."
+   },
+   "chapter": {
+    "en": "PART 5 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Misconduct of officers"
+   },
+   "text": {
+    "en": "67.—(1) Without affecting any written law and rules governing the conduct and discipline of public officers, if any officer of a State Court is charged —\n(a)with extortion or misconduct while acting under colour of the process of the court; or\n(b)with not duly paying or accounting for any money levied by him or her under the authority of this Act or Rules of Court,\nit is lawful for a District Judge nominated by the Presiding Judge of the State Courts to inquire into the matter in a summary manner.\n[4/2010; 5/2014]\n(2) For the purpose of any such inquiry, the District Judge may summon and enforce the attendance of all necessary parties in the like manner as the attendance of witnesses in any case may be enforced.\n(3) On any such inquiry, the District Judge may make such order as he or she thinks just for the repayment of the money extorted or the due payment of the money levied, and for the payment of damages and costs, and also, if he or she thinks fit, may impose such fine upon the officer, not exceeding $100 for each offence, as appears to the District Judge to be adequate.\n(4) If it is found by a District Judge that any officer, while employed in carrying out his or her duties under this Act or Rules of Court or in exercising any of the powers thereof, has wilfully and corruptly exacted or accepted any fee or reward, other than any fees that are for the time being allowed under this Act or Rules of Court, that officer shall, in addition to being liable for damages under subsection (3), be incapable of being an officer of the State Courts.\n[5/2014]\n(5) An appeal lies to the Chief Justice from an order made by the District Judge under this section.\n(6) The decision of the Chief Justice is final."
+   }
+  },
+  {
+   "id": "SG-H3676-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "68."
+   },
+   "chapter": {
+    "en": "PART 5 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Protection of judicial and other officers"
+   },
+   "text": {
+    "en": "68.—(1) A judicial officer shall not be liable to be sued for any act done by the judicial officer in the discharge of his or her judicial duty whether or not within the limits of his or her jurisdiction, provided that the judicial officer at the time in good faith believed himself or herself to have jurisdiction to do or order the act complained of.\n(2) No officer of a State Court charged with the duty of executing any writ, summons, warrant, order, notice or other mandatory process of the State Courts shall be liable to be sued —\n(a)for the execution of or attempting to execute such writ, summons, warrant, order, notice or other mandatory process; or\n(b)in respect of any damage caused to any property in effecting or attempting to effect execution,\nunless the officer knowingly acted in excess of the authority conferred upon him or her by such writ, summons, warrant, order, notice or other mandatory process of the court in question.\n[5/2014]\n(3) An officer of a State Court is not to be deemed to have acted knowingly in excess of his or her authority merely by reason of the existence of a dispute as to the ownership of any property seized under any enforcement order or writ of distress.\n[5/2014]\n[Act 25 of 2021 wef 01/04/2022]\n(4) No judicial officer, officer of a State Court or court‑appointed mediator shall be liable to be sued for an act done by him or her for the purposes of any mediation or other alternative dispute resolution process conducted by him or her in a State Court, if the act —\n(a)was done in good faith; and\n(b)did not involve any fraud or wilful misconduct on his or her part.\n[31/2010; 5/2014]"
+   }
+  },
+  {
+   "id": "SG-H3676-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "69."
+   },
+   "chapter": {
+    "en": "PART 5 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Rules of Court"
+   },
+   "text": {
+    "en": "69.—(1) The Rules Committee appointed under section 80(3) of the Supreme Court of Judicature Act 1969 may make Rules of Court regulating and prescribing the procedure and the practice to be followed in the District Courts and the Magistrates’ Courts in the exercise of their civil jurisdiction and any matters incidental to or relating to any such procedure or practice.\n(2) The power to make Rules of Court extends to all matters of procedure or practice, or matters relating to or concerning the effect or operation in law of any procedure or practice or the enforcement of judgments or orders, in any case within the cognizance of the District Courts and Magistrates’ Courts in the exercise of the civil jurisdiction as to which Rules of Court have been or might lawfully be made for cases within the cognizance of the General Division of the High Court.\n[40/2019]\n(3) Without limiting subsections (1) and (2), the power to make Rules of Court extends to —\n(a)prescribing the office or offices where process may be issued and business other than the hearing of proceedings transacted;\n(b)prescribing the circumstances and procedure by which proceedings may be transferred from one court to another;\n(c)prescribing what part of the business which may be transacted and of the jurisdiction and powers which may be exercised by a District Judge or Magistrate in court or in chambers may be transacted or exercised by the registrar (including provisions for and concerning appeals from decisions of the registrar);\n(d)directing interest to be paid on debts, including judgment debts, or on sums found due in an administration action, except that the rate of interest must not in any case exceed 8% per annum unless it has been otherwise agreed between parties;\n(e)regulating —\n(i)the issue of judgment debtor summonses for the discovery of a judgment debtor’s property or means and the procedure and practice relating thereto; and\n(ii)the making of orders against judgment debtors for the payment, by instalments or otherwise, of sums due under judgments and orders and the enforcement thereof by committal;\n(f)requiring any party at whose instance —\n(i)any enforcement order;\n[Act 25 of 2021 wef 01/04/2022]\n(ii)any order of arrest or committal;\n(iii)any order of attachment of property; or\n(iv)any order to bring up a prisoner as a witness,\nis issued, to deposit from time to time a sum of money to provide for the expenses of executing the order and of bringing the person to be arrested or the person ordered to be committed before the court or to prison and of his or her subsistence while in the custody of the bailiff or in prison and of keeping possession of the property attached;\n[Act 25 of 2021 wef 01/04/2022]\n(g)enabling proceedings —\n(i)to be commenced in a State Court against the estate of a deceased person (whether by the appointment of a person to represent the estate or otherwise) where no grant of probate or letters of administration has been made;\n(ii)purporting to have been commenced in a State Court by or against a person to be treated, if he or she was dead at their commencement, as having been commenced by or against (as the case may be) his or her estate whether or not a grant of probate or letters of administration was made before their commencement; and\n(iii)commenced or treated as commenced in a State Court by or against the estate of a deceased person to be maintained (whether by substitution of parties, amendment or otherwise) by or against (as the case may be) a person appointed to represent the estate or, if a grant of probate or letters of administration is or has been made, by or against the personal representatives;\n(h)prescribing the manner in which money in a court is to be dealt with and in particular —\n(i)prescribing that money in court may be kept at a bank, to be approved by the Accountant-General, in the official name of the registrar;\n(ii)regulating the manner in which the court’s bank account is to be operated;\n(iii)requiring the registrar to pay from time to time to the Accountant-General or into the court’s bank account all moneys not required for meeting current demands and to pay to the Accountant-General all sums which have been in the court’s bank account for such period as may be prescribed;\n[Act 25 of 2021 wef 01/04/2022]\n(i)prescribing the books, registers and accounts required to be kept by the registrar and bailiffs; and\n[5/2014]\n[Act 25 of 2021 wef 01/04/2022]\n(j)prescribing anything that is required or permitted under this Act to be prescribed by Rules of Court.\n[Act 25 of 2021 wef 01/04/2022]\n(3A) The Rules of Court may, instead of providing for any matter, refer to any provision made or to be made for that matter by practice directions issued for the time being by the registrar.\n[Act 25 of 2021 wef 01/04/2022]\n(4) All Rules of Court made under this section must be presented to Parliament as soon as possible after publication in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H3676-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "70."
+   },
+   "chapter": {
+    "en": "PART 6 SUPPLEMENTAL"
+   },
+   "heading": {
+    "en": "Conversion of pending petitions to writs of summons and originating summonses"
+   },
+   "text": {
+    "en": "70.—(1) Where —\n(a)under any written law any civil action or application may be commenced in or made to a District Court, a Magistrate’s Court or the registrar (called in this section the Court); and\n(b)the provisions under any written law by virtue of which such an action or application was required to be commenced or made by way of a petition have been amended such as to require that any such action or application must, as from the date appointed for the coming into operation of the amendment, be commenced or made by way of a writ of summons or an originating summons,\nthen, if any such action or application that has been commenced or made before that date by way of a petition is still pending before the Court on or after that date, the Court may, if it thinks just and expedient, order that the action or application (called in this section a pending action or application) be converted to and be continued as an action or application commenced or made by way of a writ of summons or an originating summons, as is appropriate.\n(2) The Presiding Judge of the State Courts, with the concurrence of the Chief Justice, may, where the Presiding Judge considers it necessary or expedient to improve efficiency in the administration of justice, by order direct that any class or description of pending actions or applications before the Court be converted to and be continued as actions or applications commenced or made by way of a writ of summons or an originating summons, as is appropriate.\n[4/2010; 5/2014]\n(3) Where pursuant to subsection (1) or (2) any pending action or application has been converted to an action or application commenced or made by way of a writ of summons or an originating summons —\n(a)the action or application is to be continued in accordance with the provisions of the relevant written law and the practice and procedure as are in force and applicable in relation to that action or application at the time of the conversion; and\n(b)the Court may give to the parties to the action or application such directions as to the conduct and costs of the action or application as it thinks just and expedient for the purpose of facilitating the conversion of the action or application to an action or application commenced or made by way of a writ of summons or an originating summons (as the case may be) and its continuance as such."
+   }
+  },
+  {
+   "id": "SG-H3676-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nSection 17(1)\nForms of oaths and affirmations\n1. OATHS OF OFFICE AND ALLEGIANCE OF A JUDICIAL OFFICER\nI, , having been appointed to the office of do solemnly swear (or affirm) that I will faithfully discharge my judicial duties and I will do right to all manner of people after the laws and usages of the Republic of Singapore without fear or favour, affection or ill will to the best of my ability, and I will be faithful and bear true allegiance to the Republic of Singapore.\nTaken and subscribed before me at this day of .\nOfficer Administering the Oath\n2. OATH OF OFFICE OF AN INTERPRETER\nI, , having been appointed an interpreter of the Court do solemnly swear (or affirm) that I will faithfully interpret, translate and transcribe from the language into the English language and from the English language into the language to the best of my knowledge, skill and ability and without fear or favour, affection or ill will.\nTaken and subscribed before me at this day of .\nOfficer Administering the Oath\n3. OATH OF OFFICE OF OTHER OFFICER OF A COURT\nI, , having been appointed to the office of in the Court do solemnly swear (or affirm) that I will not use or exercise my office corruptly during the time that I remain therein, neither will I take or accept by any means whatsoever any fee or reward from any person or persons, but will truly and faithfully and with convenient speed execute the duties assigned to me and will make true and faithful returns as to the manner and time of the execution of all writs, summonses, warrants, orders, notices and other mandatory processes given to me.\nTaken and subscribed before me at this day of .\nOfficer Administering the Oath"
+   }
+  }
+ ]
+}

@@ -1,0 +1,410 @@
+{
+ "id": "SG-H612",
+ "title": {
+  "zh": null,
+  "en": "Civil Aviation Authority of Singapore (Airport Master Plan) Rules 2009",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p08",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CAASA2009-S458-2009",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 23,
+ "chars": 24873,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CAASA2009-S458-2009?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 23 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H612-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Rules may be cited as the Civil Aviation Authority of Singapore (Airport Master Plan) Rules 2009 and shall come into operation on 1st October 2009."
+   }
+  },
+  {
+   "id": "SG-H612-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Rules, unless the context otherwise requires —\n“approve” means to approve under section 48(1) of the Act, and “approved” and “approval” shall be construed accordingly;\n“final master plan”, in relation to an airport, means the draft master plan approved and in force for that airport, and includes a master plan that is deemed under section 48(5) of the Act to be so approved;\n“master plan” means a master plan for an airport;\n“planning period” has the meaning assigned to it by rule 3;\n“proposal” means a proposal for amendments to a final master plan for an airport that is in force;\n“regulatory period” means —\n(a)the period starting from 1st July 2009 and ending on 31st March 2012, which is the first regulatory period; and\n(b)thereafter, every subsequent period of 5 years each;\n“working day” means a day that is not a Saturday, a Sunday or a public holiday."
+   }
+  },
+  {
+   "id": "SG-H612-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Meaning of “planning period”"
+   },
+   "text": {
+    "en": "3.—(1) Each draft master plan and final master plan of an airport must relate to the period the airport licence for that airport is granted, which shall be called the planning period.\n[S 109/2020 wef 15/02/2020]\n(2) For the purposes of the application of these Rules to a draft master plan or final master plan for an airport, it is to be assumed that the lease or leases held by the airport licensee for the airport will continue in force for the duration of the planning period of the plan."
+   }
+  },
+  {
+   "id": "SG-H612-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION OF DRAFT MASTER PLANS"
+   },
+   "heading": {
+    "en": "Draft master plan to be submitted on acquisition of airport site"
+   },
+   "text": {
+    "en": "4. Except as otherwise provided in rules 19 and 20, if ––\n(a)an airport licensee acquires the lease or leases for the whole or part of the airport site of an airport; and\n(b)a final master plan for the airport is not in force at the time of such acquisition,\nthe airport licensee must submit to the Authority, in writing, a draft master plan for the airport within a period of 6 months after the date of such acquisition or if the Authority, by written notice given to the airport licensee, allows a longer period, within that longer period."
+   }
+  },
+  {
+   "id": "SG-H612-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION OF DRAFT MASTER PLANS"
+   },
+   "heading": {
+    "en": "Periodic review of final master plan"
+   },
+   "text": {
+    "en": "5.—(1) If a final master plan (referred to in this rule as the original plan) for an airport is in force, the airport licensee for the airport must —\n(a)at least once during the first regulatory period applicable to the airport licensee; and\n(b)at least once during every subsequent regulatory period applicable to the airport licensee,\nsubmit to the Authority, in writing, a draft master plan that is expressed to replace the original plan.\n(2) Any draft master plan under paragraph (1) must be submitted at least 9 months before the start of the next regulatory period.\n[S 109/2020 wef 15/02/2020]\n(3) When the draft master plan referred to in paragraph (1) becomes a final master plan for the airport, the original plan ceases to be in force."
+   }
+  },
+  {
+   "id": "SG-H612-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION OF DRAFT MASTER PLANS"
+   },
+   "heading": {
+    "en": "Replacement of final master plan"
+   },
+   "text": {
+    "en": "6.—(1) Without prejudice to rule 5, if a final master plan (referred to in this rule as the original plan) for an airport is in force, the Authority may, by written notice given to the airport licensee for the airport, direct the airport licensee to submit to the Authority, in writing, a draft master plan that is expressed to replace the original plan.\n(2) The airport licensee who receives a written notice under paragraph (1) must comply with the direction therein —\n(a)within 4 months after the day on which the notice was given; or\n(b)if the Authority, by written notice given to the airport licensee, allows a longer period, within that longer period."
+   }
+  },
+  {
+   "id": "SG-H612-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION OF DRAFT MASTER PLANS"
+   },
+   "heading": {
+    "en": "Proposals to amend final master plan"
+   },
+   "text": {
+    "en": "7.—(1) If a final master plan for an airport is in force, the airport licensee for the airport may at any time submit to the Authority, in writing, proposals to amend the final master plan which the airport licensee considers expedient.\n(2) Proposals for amendment to a final master plan under paragraph (1) may relate to the whole of the area which is the subject of the final master plan or any part thereof but must be submitted at least 4 months before the amendments are intended to take effect."
+   }
+  },
+  {
+   "id": "SG-H612-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION OF DRAFT MASTER PLANS"
+   },
+   "heading": {
+    "en": "Contents of draft master plan, etc."
+   },
+   "text": {
+    "en": "8.—(1) Every draft master plan for an airport operated or to be operated by an airport licensee, and every proposal for an airport, must consist of —\n(a)a written statement accompanied by an executive summary endorsed by the chief executive officer of the airport licensee;\n(b)such drawings and maps prepared to scale as the Authority may approve;\n[S 109/2020 wef 15/02/2020]\n(ba)a list of all major airport developments to be undertaken during the planning period; and\n[S 109/2020 wef 15/02/2020]\n(c)any other relevant reports or documents,\nsetting out the provisions, specifications and particulars in relation to the draft master plan or proposal, and such other information and materials as are necessary to explain and illustrate the draft master plan or proposal, as the case may be.\n(2) Without prejudice to the generality of paragraph (1), every draft master plan for an airport operated or to be operated by an airport licensee and every proposal must contain —\n(a)the airport licensee’s development objectives for the airport;\n(b)the airport licensee’s planning principles and assumptions;\n(c)the airport licensee’s assessment of the future needs of civil aviation users of the airport, and other users of the airport, for airport services and facilities relating to that airport;\n(d)the airport licensee’s intentions for land use, showing the proposed land use zoning and interim land uses (if any) for the planning period of the draft master plan and related development of the airport site, including in particular any major airport development at the airport site and for any adjacent area that may become part of the airport site;\n(e)the airport licensee’s provision of airport services and facilities relating to the airport to the users of any area adjacent to the airport site;\n(f)the airport licensee’s airport development plan that specifies the following:\n(i)any infrastructure enhancement or development proposal such as, but not limited to, airport capacity expansion, and the estimated time of starting and completion of the infrastructure enhancement or development proposal;\n(ii)particulars of each major airport development to be undertaken during the planning period of the draft master plan, which must take into account the Authority’s development plans for the airport, in the following phases:\n(A)for the first 10 years of the planning period, the particulars must include the proposed schematic layout plans and estimated completion timelines of each major airport development;\n(B)for the next 10 years of the planning period, the particulars must include the proposed conceptual layouts and estimated completion timelines of each major airport development;\n(C)for the remainder of the planning period, the particulars must include the high-level conceptual plans of each major airport development;\n[S 109/2020 wef 15/02/2020]\n(g)the airport licensee’s assessment of the future capacity of the key airport systems and infrastructure;\n(h)the flight templates at the airport;\n(i)the airport licensee’s assessment of environmental issues that might reasonably be expected to be associated with the implementation of the plan; and\n(j)the airport licensee’s plans for dealing with the environmental issues mentioned in sub-paragraph (i) (including plans for ameliorating or preventing environmental impacts).\n(3) A draft master plan or proposal must, in relation to the landside part of the airport, where possible, describe proposals for land use and related planning, zoning or development in an amount of detail equivalent to that required by, and using terminology (including definitions) consistent with that applying in, written law that is in force governing land use planning, zoning and development."
+   }
+  },
+  {
+   "id": "SG-H612-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART III CONSULTATION"
+   },
+   "heading": {
+    "en": "Duty of airport licensee to consult"
+   },
+   "text": {
+    "en": "9.—(1) Before submitting to the Authority a draft master plan for an airport under rule 4, 5(1) or 6(1) or a proposal for amendments to the final master plan for an airport under rule 7(1), the airport licensee for the airport must unless otherwise directed by the Authority in any connection with any particular draft master plan or proposal, consult in writing the Urban Redevelopment Authority or such other public authority with responsibility for town planning or use of land of its intention to give the Authority the draft master plan or proposal, as the case may be.\n(2) In addition, the Authority may require the airport licensee to do the following at its expense before submitting to the Authority the draft master plan or proposal for amendments to a final master plan:\n(a)give notice to such persons or class of persons specified in a list given by the Authority under paragraph (3) —\n(i)stating that the airport licensee has prepared a preliminary version of the draft master plan or proposal;\n(ii)stating that copies of the preliminary version will be available for inspection and purchase (at a reasonable price approved by the Authority) by these persons during normal office hours throughout the period of 60 working days after the publication of the notice;\n(iii)specifying the place or places where the copies will be available for inspection and purchase; and\n(iv)inviting these persons to give written objections to and representations about the preliminary version of the draft master plan or proposal to the airport licensee within 15 working days after receiving the notice, or such longer period as the Authority may specify in any particular case; and\n(b)make copies of the preliminary version available for inspection and purchase by such persons or class of persons as the Authority may specify under paragraph (3) in accordance with the notice.\n(3) The Authority must, at the same time it makes a requirement of an airport licensee under paragraph (2), give to the airport licensee, in writing, a list specifying the persons or class of persons to whom the airport licensee must give notice under paragraph (2)(a)."
+   }
+  },
+  {
+   "id": "SG-H612-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART III CONSULTATION"
+   },
+   "heading": {
+    "en": "Objections and representations"
+   },
+   "text": {
+    "en": "10. If any person (including the Urban Redevelopment Authority or such other public authority with responsibility for town planning or use of land) has given written objections to or representations about the preliminary version of a draft master plan or proposal in accordance with the notice under rule 9, the draft master plan submitted to the Authority under rule 4, 5(1) or 6(1), or the proposal for amendments submitted to the Authority under rule 7(1), as the case may be, must be accompanied by —\n(a)copies of those objections and representations; and\n(b)a written report signed on behalf of the airport licensee ––\n(i)listing the names of those persons;\n(ii)summarising those objections and representations; and\n(iii)demonstrating that the airport licensee has had due regard to those objections and representations."
+   }
+  },
+  {
+   "id": "SG-H612-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART IV APPROVAL PROCESS"
+   },
+   "heading": {
+    "en": "Review of airport licensee’s draft master plan or proposals"
+   },
+   "text": {
+    "en": "11.—(1) Upon receipt from an airport licensee of any draft master plan submitted under rule 4, 5(1) or 6(1), or any proposal for amendments submitted under rule 7(1), the Authority must, within a period of 4 months after receiving the draft master plan or proposal, as the case may be, review the draft master plan or proposal with a view to ––\n(a)approving the draft master plan or the proposal; or\n(b)refusing to approve the draft master plan or the proposal,\nand to that end, may do anything it considers necessary or convenient for the purposes of the review, but subject to these Rules.\n(2) Subject to these Rules, the Authority may conduct any such review in the manner it considers appropriate and, in particular, may —\n(a)consult with any person;\n(b)receive submissions from those persons it considers appropriate;\n(c)hold seminars or workshops; or\n(d)conduct hearings.\n(3) In conducting any such review, the Authority is not bound by rules of evidence but may inform itself of any matter in any manner it considers appropriate."
+   }
+  },
+  {
+   "id": "SG-H612-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART IV APPROVAL PROCESS"
+   },
+   "heading": {
+    "en": "Requiring person to give evidence or produce documents"
+   },
+   "text": {
+    "en": "12.—(1) For the purposes of a review under rule 11, the Authority may require a person, by written notice provided to the person, to do any one or more of the following:\n(a)attend before the Authority and answer questions which, in the opinion of the Authority, are relevant to the review;\n(b)provide to the Authority, in the manner specified in the notice, any document specified in the notice which is in the person’s possession or control and which, in the opinion of the Authority, is relevant to the review;\n(c)provide to the Authority, in the manner specified in the notice, a document prepared in the manner and containing such information as is specified in the notice and which, in the opinion of the Authority, is relevant to the review;\n(d)provide to the Authority, in the manner specified in the notice, any other information specified in the notice which, in the opinion of the Authority, is relevant to the review.\n(2) If a person is required under paragraph (1) to attend before the Authority and answer questions, the Authority may determine whether the person may be represented by another person."
+   }
+  },
+  {
+   "id": "SG-H612-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART IV APPROVAL PROCESS"
+   },
+   "heading": {
+    "en": "Use of documents or information"
+   },
+   "text": {
+    "en": "13.—(1) The Authority ––\n(a)may examine, take possession of, make copies of and take extracts from any document provided under a requirement referred to in rule 12(1)(b) or (c);\n(b)may retain that document for so long as is necessary for the purposes of the review; and\n(c)must allow a person who would be entitled to inspect the document if it were not in the possession of the Authority to inspect it, make a copy of it or take an extract from it at any reasonable time.\n(2) The Authority may give directions prohibiting or restricting —\n(a)the publication of any answer, document or other information provided to it under a requirement referred to in rule 12(1);\n(b)a part of any such answer, document or other information; and\n(c)a copy of, or an extract from, any such answer, document, other information or part thereof.\n(3) The Authority may communicate to any person as the Authority considers appropriate any answer, document or other information provided under a requirement referred to in rule 12(1), or part of any such answer, document or other information, except where ––\n(a)a direction in respect of the answer, document, other information or part thereof has been given under paragraph (2) and its provision to that person would contravene the direction; or\n(b)the answer, document, other information or part thereof is or contains information which could cause damage to the commercial interests of a person and the Authority determines that such damage or the possibility of such damage outweighs the public benefit that would arise from its publication.\n(4) Any person who contravenes a direction under paragraph (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both."
+   }
+  },
+  {
+   "id": "SG-H612-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART IV APPROVAL PROCESS"
+   },
+   "heading": {
+    "en": "Hearings"
+   },
+   "text": {
+    "en": "14.—(1) Before holding a hearing referred to in rule 11(2)(d), the Authority must give reasonable notice of the hearing to such consumers or users of airport services and facilities provided by the airport licensee concerned as the Authority determines.\n(2) The notice of a hearing is to specify ––\n(a)the purpose of the hearing; and\n(b)the time and place at which the hearing is to be held.\n(3) The Authority may determine whether any person wishing to appear before the Authority at a hearing may be represented by another person.\n(4) Subject to paragraph (5), a hearing is to be held in public.\n(5) If the Authority is satisfied that it would be in the public interest to do so or that any evidence or document to be presented at the hearing is, or is likely to be, of a confidential or commercially sensitive nature, the Authority must ––\n(a)direct that the hearing or part of the hearing is to take place in private and give directions as to the persons who may be present; and\n(b)give directions prohibiting or restricting the publication of evidence or a document presented at the hearing or a part of any such evidence or document.\n(6) Any person who contravenes a direction under paragraph (5) shall be guilty of an offence.\n(7) The Authority may communicate to any person as it considers appropriate any evidence or document presented at a hearing, or part of any such evidence or document, except where —\n(a)a direction in respect of the evidence, document, or part thereof has been given under paragraph (5)(b) and its provision to that person would contravene the direction; or\n(b)the evidence, document, or part thereof is or contains information which could cause damage to the commercial interests of a person and the Authority determines that such damage or the possibility of such damage outweighs the public benefit that would arise from its publication."
+   }
+  },
+  {
+   "id": "SG-H612-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART IV APPROVAL PROCESS"
+   },
+   "heading": {
+    "en": "Approval of draft master plan"
+   },
+   "text": {
+    "en": "15.—(1) As soon as practicable after deciding whether to approve a draft master plan for an airport submitted under rule 4, 5(1) or 6(1), or any proposal for amendments to a final master plan in force for an airport submitted under rule 7(1), the Authority must notify the airport licensee of the airport in writing of its decision.\n(2) If the Authority refuses to approve any such draft master plan for an airport or any such proposal for an airport, the Authority must notify the airport licensee of the airport in writing of the Authority’s reasons for the refusal.\n(3) If the Authority refuses to approve any such draft master plan for an airport or any such proposal for an airport, the Authority may, by written notice given to the airport licensee of the airport, direct the airport licensee to submit to the Authority, in writing, a fresh draft master plan, or a fresh proposal for amendments to the final master plan in force, for the airport.\n(4) The fresh draft master plan or fresh proposals under paragraph (3) must be submitted to the Authority ––\n(a)within 30 days after the day on which the written notice under paragraph (3) was given; or\n(b)if the Authority, by such written notice given to the airport licensee, allows a longer period, within that longer period,\nand rules 11 to 14 shall apply to the fresh draft master plan or fresh proposals with such modifications as are necessary."
+   }
+  },
+  {
+   "id": "SG-H612-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART IV APPROVAL PROCESS"
+   },
+   "heading": {
+    "en": "Publication of approved plans and proposals"
+   },
+   "text": {
+    "en": "16.—(1) Subject to paragraph (3), if the Authority approves a draft master plan for an airport or any proposal for amendments to a final master plan in force for an airport, the airport licensee for the airport must —\n(a)give notice to such persons or class of persons specified in a list given under rule 9(3) —\n(i)stating that its draft master plan has or its proposals have been approved;\n(ii)stating that copies of the plan or proposal will be available for inspection and purchase (at a reasonable price approved by the Authority) by those persons during normal office hours while the plan remains in force; and\n(iii)specifying the place or places where the copies will be available for inspection and purchase; and\n(b)make copies of the plan or proposals available for inspection and purchase (at a reasonable price approved by the Authority) by those persons in accordance with the notice.\n(2) The airport licensee must comply with paragraph (1) —\n(a)within 30 days after the day on which the draft master plan or the proposals, as the case may be, were approved; or\n(b)if the Authority, by written notice given to the airport licensee, allows a longer period, within that longer period.\n(3) The airport licensee need not comply with paragraph (1) if the Authority, upon being satisfied that it would not be in the public interest to do so or that any contents of the final master plan is, or is likely to be, of a confidential or commercially sensitive nature, directs otherwise."
+   }
+  },
+  {
+   "id": "SG-H612-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART IV APPROVAL PROCESS"
+   },
+   "heading": {
+    "en": "When final master plan takes effect, etc."
+   },
+   "text": {
+    "en": "17.—(1) Where the Authority approves a draft master plan for an airport, the draft master plan becomes the final master plan in force for that airport when the final master plan takes effect.\n(2) Every final master plan for an airport takes effect —\n(a)if at the time it is approved no existing final master plan is in force for that airport, on the day specified in the approval; and\n(b)if at the time it is approved, an existing final master plan is in force for the airport and is to be replaced, on the day specified in the approval to replace that existing final master plan.\n(3) When the Authority approves of any proposal for amendments to a final master plan for an airport referred to in rule 7(1) or 18, the final master plan in force for that airport shall have effect as amended as from the date of the approval or deemed approval."
+   }
+  },
+  {
+   "id": "SG-H612-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART V MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Minor variations of final master plan"
+   },
+   "text": {
+    "en": "18.—(1) This rule applies if —\n(a)a final master plan is in force for an airport;\n(b)the airport licensee for the airport submits to the Authority under rule 7(1) a proposal for amendments to the final master plan comprising additions and alterations thereto; and\n(c)those additions and alterations are minor variations.\n(2) The Authority must either approve the proposal or refuse to approve such a proposal.\n(3) If the Authority neither approves, nor refuses to approve, the proposal before the end of the period of 60 working days after the day on which the Authority received the proposal, the Authority shall be deemed, at the end of that period, to have approved the proposal under section 48 of the Act.\n(4) As soon as practicable after deciding whether to approve the proposal with a minor variation, the Authority must notify the airport licensee concerned in writing of its decision.\n(5) If the Authority refuses to approve the variation, the Authority must notify the airport licensee concerned in writing of its reasons for the refusal.\n(6) If the Authority approves the proposal, the final master plan is varied accordingly.\n(7) If any question arises as to whether any proposed additions or alterations are minor variations within the meaning of this rule, the Authority’s assessment shall be conclusive as to whether the proposed additions or alterations are or are not minor variations within the meaning of this rule.\n(8) Rules 9 to 16 shall not apply to a proposal for amendments to a final master plan to which this rule applies."
+   }
+  },
+  {
+   "id": "SG-H612-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART V MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Transfer of lease during approval process"
+   },
+   "text": {
+    "en": "19.—(1) If the lease or leases for the whole of the airport site for an airport is transferred and before that transfer, a draft master plan for the airport is or proposals are submitted to the Authority, and immediately before the transfer the Authority has not made a decision whether to approve the draft master plan or proposals, the transferee is taken ––\n(a)to have submitted the draft plan or proposals to the Authority immediately after the transfer; and\n(b)to have adopted the draft master plan or proposals as its own,\nunless, within 60 days after the transfer, the transferee gives the Authority a written undertaking to submit to the Authority an alternative draft master plan or alternative proposals for the airport.\n(2) A draft or final master plan for an airport does not cease to be in force if the lease or leases for the airport are transferred, and in that event, the transferee is taken to have adopted the plan as its own."
+   }
+  },
+  {
+   "id": "SG-H612-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART V MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Expiry of lease during approval process"
+   },
+   "text": {
+    "en": "20.—(1) If the lease or leases for the whole of the airport site for an airport expire and before that expiry, a draft master plan for the airport is or proposals are submitted to the Authority, and immediately before the expiry of the lease or leases the Authority has not made a decision whether to approve the draft master plan or proposals, the airport licensee who, upon renewal of the lease or leases or otherwise, acquires the fresh lease or leases for that airport site shall be taken ––\n(a)to have submitted the draft plan or proposals to the Authority immediately after the expiry of the lease or leases; and\n(b)to have adopted the draft master plan or proposals as its own,\nunless, within 60 days after the expiry of the lease or leases, the airport licensee gives the Authority a written undertaking to submit to the Authority an alternative draft master plan or alternative proposals for the airport.\n(2) A draft or final master plan for an airport does not cease to be in force upon the expiry of the lease or leases for the airport, and in that event, the airport licensee who, upon renewal of the lease or leases or otherwise, acquires the fresh lease or leases for that airport site shall be taken to have adopted the plan as its own."
+   }
+  },
+  {
+   "id": "SG-H612-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART V MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Scale of master plan"
+   },
+   "text": {
+    "en": "21. The Authority may, where it considers expedient, prepare any drawings and map comprised in the final master plan for an airport or any part of such drawings and map to a suitable scale which differs from the scale approved for that drawings and map by the Authority under rule 8(1)(b)."
+   }
+  },
+  {
+   "id": "SG-H612-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART V MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Description of maps"
+   },
+   "text": {
+    "en": "22. The maps and other documents comprised in any draft master plan shall be identified on the face thereof by the titles conferred on them by the Authority."
+   }
+  },
+  {
+   "id": "SG-H612-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART V MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Interpretation of master plans"
+   },
+   "text": {
+    "en": "23.—(1) In these Rules, where there is any contradiction, discrepancy or inconsistency between particulars shown on maps comprised in a draft master plan or final master plan relating to the same area, the map which is to a larger scale shall prevail.\n(2) Where there is any contradiction, discrepancy or inconsistency between a map comprised in a draft master plan or final master plan and the written statement thereof, such written statement shall prevail."
+   }
+  }
+ ]
+}

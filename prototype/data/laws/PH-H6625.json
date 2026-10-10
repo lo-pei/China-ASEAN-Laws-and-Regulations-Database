@@ -1,0 +1,64 @@
+{
+ "id": "PH-H6625",
+ "title": {
+  "zh": null,
+  "en": "An Act Granting Philippine Citizenship to Fabio Enrique Bardales Posas",
+  "orig": "An Act Granting Philippine Citizenship to Fabio Enrique Bardales Posas"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p94",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1995-08-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 8146",
+ "officialCode": null,
+ "topics": [
+  "administrative"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1402,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1995/ra_8146_1995.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1995/ra_8146_1995.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H6625-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Fabio Enrique Bardales Posas is hereby granted Philippine citizenship with all the rights, duties, privileges and prerogatives incident to, and conferred by, Philippine citizenship under the Constitution and the laws of the Republic of the Philippines.\nUpon the taking and registration of the following oath of allegiance, the said Fabio Enrique Bardales Posas shall enter into the full enjoyment of the Philippine citizenship as herein provided:\n\"I, ____________________, do solemnly swear that I renounce absolutely and forever all allegiance and fidelity to any foreign prince, potentate, state or sovereignty, and particularly to the government of Honduras which up to this time I am a subject or citizen; that I will support and defend the Constitution of the Philippines and that I will obey the laws, legal orders and decrees promulgated by the duly constituted authorities of the Republic of the Philippines; and I hereby declare that I recognize the supreme authority of the government of the Republic of the Philippines and will render true faith and allegiance thereto; and that I impose this obligation upon myself voluntarily without mental reservation or purpose of evasion.\n\"So help me God.\"\nThe oath of allegiance shall be recorded in the Civil Registry of the City of Manila within sixty (60) days from the date of the approval of this Act."
+   }
+  },
+  {
+   "id": "PH-H6625-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

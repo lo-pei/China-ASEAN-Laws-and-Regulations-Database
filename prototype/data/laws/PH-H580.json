@@ -1,0 +1,94 @@
+{
+ "id": "PH-H580",
+ "title": {
+  "zh": "关于武装部队的法",
+  "en": "An Act Increasing the Armed Forces of the Philippines and Appropriating Funds Therefor",
+  "orig": "An Act Increasing the Armed Forces of the Philippines and Appropriating Funds Therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p08",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1951-01-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 591",
+ "officialCode": null,
+ "topics": [
+  "defence"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 2868,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1951/ra_591_1951.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1951/ra_591_1951.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H580-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There is hereby appropriated out of any funds in the Philippine Treasury not otherwise appropriated an additional sum of twenty-five million eight hundred and forty-seven thousand five hundred eighty pesos for the Armed Forces of the Philippines for the organization, equipping, maintenance and operation of ten additional battalion combat teams of the Armed Forces of the Philippines, as hereunder specified;\nSALARIES AND WAGES\n1.\nBase and longevity pay of officers P621,800.00\n2.\nQuarters allowance of officers 101,360.00\n3.\nSubsistence allowance of officers at the rate of P1 each per day 73,300.00\n4.\nBase pay of enlisted men 3,126,640.00\n5.\nQuarters allowance of enlisted men 537,500.00\n6.\nSubsistence allowance of enlisted men at the rate of P1 each per day 1,572,470.00\n7.\nClothing allowance of enlisted men 1,152,920.00 Total for salaries and wages P7,185,990.00 SUNDRY EXPENSES\n8.\nEquipment and supplies, including maintenance and operational cost P14,802,090.00\n(a) Quartermaster P1,455,000.00\n(b) Signal corps 812,500.00\n(c) Medical service 158,150.00\n(d) Corps of engineers 376,440.00\n(e) Weapons and armaments; combat vehicles and motor transport equipment; ammunition; supplies and maintenance parts 12,000,000.00 Total P14,802,090.00\n9.\nHousing facilities and maintenance for officers and enlisted men on actual field operations 936,000.00\n10.\nExpenses for hospitalization of personnel 101,500.00\n11.\nIntelligence and counter-intelligence, including miscellaneous and contingent expenses 1,000,000.00 Total for sundry expenses P16,866,590.00 SPECIAL PURPOSE\n12.\nAdditional subsistence of P1 per day each for officers and enlisted men on actual field operations P1,795,000.00 Total for special purpose P1,795,000.00 SUMMARY Total for salaries and wages P7,185,990.00 Total for sundry expenses 16,866,590.00 Total for special purpose 1,795.000.00 Total P25,847,580.00"
+   }
+  },
+  {
+   "id": "PH-H580-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "No portion of the appropriation provided in this Act shall be used for the purchase of staff cars, nor for the payment of any expenses for, or of the salary of, any officer or member of the Armed Forces who has been detailed to any office or employment or assigned to duties outside of the Department of National Defense."
+   }
+  },
+  {
+   "id": "PH-H580-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Any balance from said appropriations may be used to defray expenses for the subsistence, hospitalization, and rehabilitation of captured or surrendered dissidents only."
+   }
+  },
+  {
+   "id": "PH-H580-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "The appropriations authorized in this Act for equipment and supplies, or so much thereof remaining unexpended, shall not be available for expenditure except for purposes mentioned in section three hereof, whenever the equipment are and supplies for which said appropriations are intended are obtainable under the provisions of the military assistance pact between the Government of the Republic of the Philippines and the Government of the United States."
+   }
+  },
+  {
+   "id": "PH-H580-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

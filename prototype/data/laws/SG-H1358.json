@@ -1,0 +1,321 @@
+{
+ "id": "SG-H1358",
+ "title": {
+  "zh": null,
+  "en": "Environmental Public Health (Crematoria) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p17",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation EPHA1987-RG6",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 22,
+ "chars": 14439,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/EPHA1987-RG6?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 22 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 2 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1358-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Environmental Public Health (Crematoria) Regulations."
+   }
+  },
+  {
+   "id": "SG-H1358-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“ashes” means the cremated remains of a corpse;\n“caretaker” means a person appointed by the licensee or the Director-General, as the case may be, to take charge of a crematorium;\n“corpse” means the body or remains of a deceased person or stillborn child, whether decomposed or otherwise, but does not include ashes;\n[S 417/2022 wef 29/05/2022]\n“crematorium” means a place used for the purpose of burning or cremating a corpse and includes every part of such premises;\n[Deleted by S 417/2022 wef 29/05/2022]\n“licence” means a licence issued under section 67 of the Act;\n“licensee” means the holder of a licence;\n[Deleted by S 417/2022 wef 29/05/2022]\n“medical practitioner” means a registered medical practitioner under the Medical Registration Act 1997 who holds a valid practising certificate granted under that Act;\n[S 417/2022 wef 29/05/2022]\n“RBDA” means the Registration of Births and Deaths Act 2021, or the repealed Registration of Births and Deaths Act 1937 that was in force immediately before 29 May 2022;\n[S 417/2022 wef 29/05/2022]\n“stillbirth” has the meaning given by section 2(1) of the Registration of Births and Deaths Act 2021;\n[S 417/2022 wef 29/05/2022]\n“stillborn child” has the meaning given by section 2(1) of the Registration of Births and Deaths Act 2021.\n[S 417/2022 wef 29/05/2022]\n[Deleted by S 270/2005 wef 29/04/2005]"
+   }
+  },
+  {
+   "id": "SG-H1358-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "text": {
+    "en": "3. [Deleted by S 270/2005 wef 29/04/2005]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1358-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Application for licence"
+   },
+   "text": {
+    "en": "4.—(1) Every application for a licence for the establishment of a crematorium shall be in such form as the Director-General may require.\n[S 270/2005 wef 29/04/2005]\n(2) A licensee shall surrender his licence upon its expiry, revocation, cancellation or suspension to the Director-General or an authorised officer.\n[S 270/2005 wef 29/04/2005]\n(3) The fee payable for the grant or renewal of a licence shall be $170.\n[S 270/2005 wef 29/04/2005]"
+   }
+  },
+  {
+   "id": "SG-H1358-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Sole purpose of crematoria"
+   },
+   "text": {
+    "en": "5.—(1) No crematorial building shall be used for a purpose other than for the cremation of corpses.\n(2) The crematorial building shall be separated from all other structures, erections or buildings by at least 6 metres.\n(3) The crematorial building shall be of a permanent nature with concrete or brick walls and the floors shall be made of strong impervious material.\n(4) All waste water shall be discharged into a sewer or other approved sewage treatment plant.\n(5) Every crematorium shall be provided with adequate and functional toilet facilities and facilities for washing."
+   }
+  },
+  {
+   "id": "SG-H1358-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Fuel used for cremator"
+   },
+   "text": {
+    "en": "6. No fuel other than electricity, gas or oil may be used for the purpose of firing any cremator."
+   }
+  },
+  {
+   "id": "SG-H1358-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Prohibited cremations"
+   },
+   "text": {
+    "en": "7.—(1) The licensee or an authorised officer must not allow a corpse to be cremated if —\n(a)in the case of a deceased person —\n(i)it is known that the deceased person has left a written direction to the contrary; or\n(ii)the deceased person has not been identified; or\n(b)paragraph (2) is not satisfied.\n(2) Before a corpse is cremated, the death or stillbirth (as the case may be) must have been registered under the RBDA or, in the absence of such registration, a medical practitioner must have issued a written confirmation of the death or stillbirth, as the case may be.\n[S 417/2022 wef 29/05/2022]"
+   }
+  },
+  {
+   "id": "SG-H1358-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Application for cremation"
+   },
+   "text": {
+    "en": "8.—(1) An application for a permit to cremate a corpse and the permit to cremate a corpse shall be in such form as the Director-General may require.\n[S 270/2005 wef 29/04/2005]\n(2) The application must be made by —\n(a)in the case of a deceased person —\n(i)the executor of the estate of the deceased person or the nearest surviving relative of the deceased person;\n(ii)a person who is duly authorised to do so by any person mentioned in sub-paragraph (i); or\n(iii)any other person who has given sufficient reason to the Director-General as to why the application is not being made by any of the persons mentioned in sub-paragraphs (i) and (ii); and\n(b)in the case of a stillborn child —\n(i)the nearest surviving relative of the stillborn child, or a person who is duly authorised to do so by that relative; or\n(ii)any other person who has given sufficient reason to the Director-General as to why the application is not being made by any of the persons mentioned in sub-paragraph (i).\n[S 417/2022 wef 29/05/2022]"
+   }
+  },
+  {
+   "id": "SG-H1358-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "text": {
+    "en": "9. [Deleted by S 417/2022 wef 29/05/2022]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1358-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Register of cremations"
+   },
+   "text": {
+    "en": "10.—(1) A register of cremations shall be kept in every crematorium, which shall be in such form as the Director-General may require, and shall contain the following particulars for each cremation at the crematorium:\n(a)the serial number and date of the cremation;\n[S 417/2022 wef 29/05/2022]\n(b)[Deleted by S 417/2022 wef 29/05/2022]\n(c) where the cremation is for a deceased person — the name, identity card number, address, occupation, age, sex and marital status of the deceased person;\n[S 417/2022 wef 29/05/2022]\n(d)the date of death or stillbirth, as the case may be;\n[S 417/2022 wef 29/05/2022]\n(da)the cause of death of the deceased person or stillborn child, as the case may be;\n[S 417/2022 wef 29/05/2022]\n(e)the name, identity card number and address of the person who applied for the cremation under regulation 8;\n(f)the document number of the certificate of death or stillbirth issued under the RBDA, or (where such certificate has not been issued) the document number of the written confirmation mentioned in regulation 7(2) that is issued, for the death or stillbirth, as the case may be;\n[S 417/2022 wef 29/05/2022]\n(g)[Deleted by S 417/2022 wef 29/05/2022]\n(h)the manner in which the ashes were disposed of.\n[S 270/2005 wef 29/04/2005]\n[S 417/2022 wef 29/05/2022]\n[S 417/2022 wef 29/05/2022]\n(2) The particulars relating to each cremation shall be entered in the register immediately after the cremation has taken place, except that the entry relating to the disposal of the ashes shall be completed as soon as the ashes have been disposed of in accordance with regulation 15.\n[S 417/2022 wef 29/05/2022]\n(3) All applications, certificates and other documents relating to every cremation shall be preserved for 7 years from the date of the cremation to which they relate.\n[S 84/2007 wef 01/03/2007]\n(4) The register of cremations shall be kept for such period of time as the Director-General may direct.\n[S 270/2005 wef 29/04/2005]\n(5) A copy of the register of cremations shall be kept at the office of the Director-General and every copy shall be the property of the Director-General.\n[S 270/2005 wef 29/04/2005]\n(6) The details of cremations carried out in every month shall be entered in the register of cremations at the office of the Director-General not later than the seventh day of the following month.\n[S 270/2005 wef 29/04/2005]"
+   }
+  },
+  {
+   "id": "SG-H1358-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Inspection of register of cremations"
+   },
+   "text": {
+    "en": "11.—(1) The Director-General or an authorised officer may —\n(a)at any time enter and inspect a crematorium;\n(b)examine any book, register of cremations or any other document relating to the crematorium; and\n(c)require from the licensee or caretaker or any other person such information as he may think necessary to determine whether the crematorium has been established and used, managed, maintained or operated or every cremation has been carried out in accordance with the provisions of the Act and these Regulations.\n[S 270/2005 wef 29/04/2005]\n(2) Any of the officers mentioned in paragraph (1) may make or cause to be made copies of or extracts from such books, registers or documents.\n(3) The licensee or caretaker or any other person who, being required by such officer under paragraph (1) to furnish information, without reasonable excuse fails to comply with the requisition shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H1358-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Unauthorised cremations"
+   },
+   "text": {
+    "en": "12.—(1) The licensee shall ensure that all necessary precautions are taken to prevent unauthorised cremations from being carried out at the crematorium.\n(2) The crematorium shall be available daily for the cremation of corpses (irrespective of race or religion) between the hours of 9 a.m. and 6 p.m.\n[S 417/2022 wef 29/05/2022]\n(3) An authorised officer, the licensee or caretaker shall be present at the crematorium at all times whenever a cremation is in progress.\n[S 270/2005 wef 29/04/2005]"
+   }
+  },
+  {
+   "id": "SG-H1358-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Cleanliness"
+   },
+   "text": {
+    "en": "13. The crematorium and every part thereof shall be kept clean to the satisfaction of the Director-General.\n[S 270/2005 wef 29/04/2005]"
+   }
+  },
+  {
+   "id": "SG-H1358-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Ashes"
+   },
+   "text": {
+    "en": "14. Every crematorium shall be provided with proper facilities for the retention or disposal of ashes after cremation."
+   }
+  },
+  {
+   "id": "SG-H1358-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Collection and disposal of ashes"
+   },
+   "text": {
+    "en": "15.—(1) Where the cremation was applied for under regulation 8, the ashes may be collected within 14 days after the cremation by —\n(a)the person who applied for the cremation; or\n(b)any other person who has given sufficient reason to the Director-General as to why the person should be permitted to collect the ashes instead of the person who applied for the cremation.\n(2) Where the cremation was permitted under regulation 16, the ashes may be collected within 14 days after the cremation by —\n(a)the executor of the estate of the deceased person, if any;\n(b)any surviving relative of the deceased person or stillborn child; or\n(c)any other person who has given sufficient reason to the Director-General as to why the person should be permitted to collect the ashes instead of the persons mentioned in sub-paragraph (a) or (b).\n(3) If the ashes mentioned in paragraph (1) or (2) are not collected within 14 days after the date of cremation, the ashes may be disposed of by the licensee, an authorised officer or any other person authorised by the Director-General, at a geographical area or location designated for that purpose.\n(4) Where a cremation was carried out before 20 June 2025 and the ashes are not collected within 14 days after the date of cremation, the ashes may be disposed of, on or after 20 June 2025, in the manner provided under paragraph (3).\n[S 416/2025 wef 20/06/2025]"
+   }
+  },
+  {
+   "id": "SG-H1358-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Cremation of exhumed corpse"
+   },
+   "text": {
+    "en": "16. The cremation of an exhumed corpse may be permitted by the Director-General subject to such conditions as he may impose in an exhumation licence.\n[S 270/2005 wef 29/04/2005]\n[S 417/2022 wef 29/05/2022]"
+   }
+  },
+  {
+   "id": "SG-H1358-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "heading": {
+    "en": "Caskets"
+   },
+   "text": {
+    "en": "17. The casket containing a corpse shall —\n(a)be of wood or other material approved by the Director-General; and\n(b)have no glass or metal grip, lining, fastening or other similar attachments, or any other form of packing.\n[S 270/2005 wef 29/04/2005]\n[S 417/2022 wef 29/05/2022]"
+   }
+  },
+  {
+   "id": "SG-H1358-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "18. The fees for cremation at the Mandai Crematorium and Columbarium Complex, the Mandai North Crematorium and the Choa Chu Kang Crematorium shall be as follows:\n(a)for the cremation of the corpse of a stillborn child, or a deceased child below 10 years of age\n$50\n(b)for the cremation of the corpse of any other deceased person\n$100\n[S 417/2022 wef 29/05/2022]\n[S 270/2005 wef 29/04/2005]\n[S 530/2010 wef 01/10/2010]\n[S 502/2025 wef 15/08/2025]"
+   }
+  },
+  {
+   "id": "SG-H1358-A18.001",
+   "no": 18.001,
+   "noLabel": {
+    "en": "18A."
+   },
+   "heading": {
+    "en": "Late payment interest rate"
+   },
+   "text": {
+    "en": "18A.—(1) If any fee payable under regulation 18 is not paid in full by the date on which payment is due, an amount equal to simple interest, at the rate of 4.5%-point above the 3-month compounded SORA, is payable on the amount outstanding for the period mentioned in paragraph (2).\n(2) The period on which the interest in paragraph (1) is to be levied —\n(a)starts from the date the payment of the fee or part of it is in arrears; and\n(b)ends on the date the payment is fully made.\n(3) In this regulation —\n“3-month compounded SORA”, in relation to a period, means —\n(a)if the period or a part of the period falls within the 6-month period beginning on 1 April of a calendar year, then, for the period or the part (as the case may be) — the compounded average of the SORA values for a 3-month period computed by the Monetary Authority of Singapore using the prescribed methodology, and published —\n(i)on its Internet website at http://www.mas.gov.sg; or\n(ii)where the website is unavailable to the public, in any other form that is readily accessible by the public,\non either of the following days:\n(iii)if 1 March of that calendar year is a business day — that day;\n(iv)if 1 March of that calendar year is not a business day — the last business day in February of that calendar year; or\n(b)if the period or a part of the period falls within the 6-month period beginning on 1 October of a calendar year, then, for the period or the part (as the case may be) — the compounded average of the SORA values for a 3-month period computed by the Monetary Authority of Singapore using the prescribed methodology, and published —\n(i)on its Internet website at http://www.mas.gov.sg; or\n(ii)where the website is unavailable to the public, in any other form that is readily accessible by the public,\non either of the following days:\n(iii)if 1 September of that calendar year is a business day — that day;\n(iv)if 1 September of that calendar year is not a business day — the last business day in August of that calendar year;\n“business day” means any day other than a Saturday, Sunday or public holiday;\n“prescribed methodology” means the methodology set out in the document called “Compounded Singapore Overnight Rate Average Index (“SORA Index”), Compounded SORA and MAS Floating Rate Notes (“MAS FRN”): A User Guide” dated 16 March 2021;\n“Singapore Overnight Rate Average” or “SORA” means the volume-weighted average rate of borrowing transactions in the unsecured overnight interbank Singapore dollar cash market in Singapore between 8 a.m. and 6.15 p.m., as published by the Monetary Authority of Singapore —\n(a)on its Internet website at http://www.mas.gov.sg; or\n(b)where the website is unavailable to the public, in any other form that is readily accessible by the public.\n[S 260/2024 wef 01/04/2024]"
+   }
+  },
+  {
+   "id": "SG-H1358-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "heading": {
+    "en": "Offences"
+   },
+   "text": {
+    "en": "19. No person shall —\n(a)carry out, permit or take part in the cremation of any corpse except in accordance with these Regulations;\n(b)make any false declaration or representation or sign any false document with a view to procuring the cremation of any corpse; or\n[S 417/2022 wef 29/05/2022]\n(c)with intent to conceal the commission or impede the prosecution of any offence, procure or attempt to procure the cremation of any corpse; or with such intent make any declaration or issue any document under these Regulations.\n[S 417/2022 wef 29/05/2022]"
+   }
+  },
+  {
+   "id": "SG-H1358-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "heading": {
+    "en": "Penalty"
+   },
+   "text": {
+    "en": "20. Any person who contravenes or fails to comply with any of the provisions of these Regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000."
+   }
+  },
+  {
+   "id": "SG-H1358-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nDeleted by S 270/2005 wef 29/04/2005.\n[G.N. Nos. S 282/73; S 120/78; S 98/83; S 130/86; S 505/89; S 472/91; S 250/95; S 266/96; S 311/96; S 359/97]"
+   }
+  }
+ ]
+}

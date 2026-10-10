@@ -1,0 +1,78 @@
+{
+ "id": "SG-H1061",
+ "title": {
+  "zh": null,
+  "en": "Customs (Motor Vehicles with Special Purpose Licences) (Exemption) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p13",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CA1960-RG11",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2183,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CA1960-RG11?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1061-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Customs (Motor Vehicles with Special Purpose Licences) (Exemption) Regulations."
+   }
+  },
+  {
+   "id": "SG-H1061-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Exemption from special tax"
+   },
+   "text": {
+    "en": "2.—(1) No special tax imposed under section 17 of the Act shall be chargeable in respect of any motor vehicle described in the second column of the Schedule, the registered owner of which is the company set out opposite thereto in the first column of the Schedule and which bears the chassis number set out opposite thereto in the third column thereof, subject to the conditions in paragraph (2) being complied with.\n(2) The motor vehicle referred to in paragraph (1) shall —\n(a)be used only for the purpose of conducting research and development activities and testing in Singapore;\n(b)be issued with a special purpose licence;\n(c)have valid insurance cover for the period of the special purpose licence issued; and\n(d)display a motor vehicle number plate issued by the Registrar under the Road Traffic Act (Cap. 276) in such manner as he may require.\n(3) For the purpose of paragraph (2), “special purpose licence” means a special purpose licence issued under Part XII of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules (Cap. 276, R 5)."
+   }
+  },
+  {
+   "id": "SG-H1061-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nParagraph 2(1)\nFirst column\nSecond column\nThird column\nCompany\nType of vehicle\nVehicle chassis number\n1. DaimlerChrysler South East Asia Pte Ltd\n(a) Mercedes Benz E 220 CDI\nWDB2110082B116681\n(b) Mercedes Benz E 220 CDI\nWDB2110082B118876\n(c) Mercedes Benz ML320CDI\nWDC1641222A246574\n(d) Mercedes Benz S320CDI L\nWDD2211222A147333\n(e) Mercedes Benz S320CDI L\nWDD2211222A144097\n(f) Mercedes Benz S320CDI L\nWDD2211222A147445\n(g) Mercedes Benz S320CDI L\nWDD2211222A147548\n2. Diesel Tech Pte Ltd\n(a) Volkswagen Touareg 3.0 V6 TDI\nWVGZZZ7LZ7D067821\n(b) Volkswagen Passat 2.0 TDI\nWVWZZZ3CZ7E170564\n3. Kuok Oils & Grains Pte Ltd\nVolkswagen Passat\nWVWZZZ3CZ7P136910\n4. Robert Bosch (South East Asia) Pte Ltd\n(a) Volkswagen Touareg 3.0 V6 TDI\nWVGZZZ7LZ7D071775\n(b) Volkswagen Touran\nWVGZZZ1TZ7W051066\n5. Volkswagen Group Singapore Pte Ltd\n(a) Volkswagen Touareg 3.0 V6 TDI\nWVGZZZ7LZ7D065616\n(b) Volkswagen Touareg 3.0 V6 TDI\nWVGZZZ7LZ7D066438\n(c) Volkswagen Passat\nWVWZZZ3CZ7E160746\n[G.N. No. S 382/2007]"
+   }
+  }
+ ]
+}

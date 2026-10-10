@@ -1,0 +1,616 @@
+{
+ "id": "SG-H744",
+ "title": {
+  "zh": null,
+  "en": "Commodity Trading Regulations 2001",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p10",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CTA1992-S578-2001",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 37,
+ "chars": 73686,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CTA1992-S578-2001?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 37 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。其中 3 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H744-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Commodity Trading Regulations 2001 and shall come into operation on 28th November 2001."
+   }
+  },
+  {
+   "id": "SG-H744-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“accounts” —\n(a)means profit and loss accounts and balance-sheets; and\n(b)includes notes (other than auditor’s reports) attached to or intended to be read with the profit and loss accounts or balance-sheets;\n“bank” means any body corporate licensed to carry on banking business under the Banking Act (Cap. 19);\n“business day” means any day which the respective commodity market is open for trading or deliveries;\n“connected person”, in relation to a director of a body corporate, includes —\n(a)his spouse, son, adopted son, step-son, daughter, adopted daughter, step-daughter, father, mother, brother or sister; and\n(b)a firm, corporation or company in which any of the persons mentioned in paragraph (a) or the director is in a position to control not less than 20% of the voting power in the firm, corporation or company, whether such control is exercised individually or jointly;\n“contract confirmation note” means a statement sent by a commodity broker or a spot commodity broker to a customer when there is a change in the customer’s positions, showing the number of contracts involved, the price at which the contracts were transacted, commission charges and the net profits or losses on the transactions;\n“customer’s account” means a current or deposit account at a bank, merchant bank, clearing house, a commodity broker, spot commodity broker or any other person approved by the Board, in the name of the commodity broker, spot commodity broker or commodity pool operator, in the title of which the word “customer” appears;\n“long” means the purchase of a commodity contract or spot commodity contract to establish a position;\n“margin” means an amount of money or collateral deposited by the buyer or the seller of a commodity contract or spot commodity contract to ensure performance of the terms of the contract;\n“margin call” means a request from a commodity market, clearing house, commodity broker or spot commodity broker to a customer to deposit additional margins to meet a required minimum margin level;\n“mark-to-market” means the process whereby the daily closing price of a commodity contract is used to value all outstanding positions of that contract at the end of the day and to establish the resulting gains and losses;\n“merchant bank” means a merchant bank that is approved under the Monetary Authority of Singapore Act (Cap. 186);\n“net asset value” means the total assets minus total liabilities determined in accordance with generally accepted accounting principles with each contract position valued at the prevailing market price;\n“participant” means a person who has a direct financial interest in a commodity pool or a spot commodity pool;\n“position” means a commodity contract or spot commodity contract which is outstanding and has not been liquidated by an offsetting transaction or by delivery of the commodity underlying the contract or through settlement of the contract in accordance with the rules of a commodity market or any spot commodity market, or the practices of a commodity market or any spot commodity market;\n“property” includes movable and immovable property, and any estate, share and interest in any property, movable or immovable, and any debt, and anything in action, and any other right or interest, whether in possession or not;\n“securities” has the same meaning as in the Securities Industry Act (Cap. 289);\n“senior creditor” means a creditor who for the time being holds or is entitled to the senior debt;\n“senior debt” means the unpaid claims of all creditors for the time being of a commodity broker or spot commodity broker, however incurred;\n“short” means the sale of a commodity contract or spot commodity contract to establish a position;\n“Singapore Commodity Exchange” means the corporation known as Singapore Commodity Exchange Ltd;\n[S 100/2008 wef 27/02/2008]\n“stock market” has the same meaning as in the Securities Industry Act;\n“trading programme” means a system, method or programme which a commodity trading adviser may use to direct or guide a customer’s commodity contract account."
+   }
+  },
+  {
+   "id": "SG-H744-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Net capital"
+   },
+   "text": {
+    "en": "3.—(1) For the purposes of these Regulations —\n“current assets”, in relation to a commodity broker or spot commodity broker, means cash and other assets which are reasonably expected to be realised in cash or sold within a period of 12 months and shall —\n(a)exclude any unsecured commodity contract or spot commodity contract account containing a debit balance which has remained unpaid for more than one business day;\n(b)exclude all unsecured advances, loans and other receivables except for dividends, interest and commissions due within 30 days and receivables from merchandising incurred in the normal course of business due within 90 days;\n(c)exclude all assets doubtful of collection or realisation except for any reserves established therefor; and\n(d)include receivables from clearing houses and from the commodity broker or spot commodity broker arising out of commodity contract or spot commodity contract transactions, and shares and securities which are listed on a stock market and have not been suspended;\n“net capital”, in relation to a commodity broker or spot commodity broker, means the amount by which current assets exceed liabilities, and in determining net capital —\n(a)unrealised profits shall be added and unrealised losses shall be deducted in the accounts of the commodity broker or spot commodity broker, including unrealised profits and losses on fixed price commitments and forward contracts; and\n(b)all long and all short commodity contract or spot commodity contract positions shall be marked to their market value.\n(2) A loan or advance or any other form of receivable shall not be treated as “secured” unless —\n(a)the receivable is secured by collateral which is unencumbered and can be readily converted into cash; and\n(b)the commodity broker or spot commodity broker —\n(i)is in the possession or control of the collateral; or\n(ii)has a legally enforceable written security agreement executed by the debtor in his favour under which he shall have the power to readily sell or otherwise convert the collateral into cash.\n(3) A receivable referred to in paragraph (2) shall be considered only to the extent of the market value of such collateral after publication of such percentage deductions as are set out in regulation 4.\n(4) For the purposes of computing “net capital”, the term “liabilities” shall exclude —\n(a)liabilities of a commodity broker or spot commodity broker which are subordinated to the claims of all general creditors of the broker pursuant to a satisfactory subordination agreement as defined in paragraph (5);\n(b)the amount of money, securities and property due to customers which are held in segregated accounts in accordance with regulations 21 and 22 if such money, securities and property have been excluded from current assets in computing net capital; and\n(c)liabilities which would be classified as long term liabilities in accordance with generally accepted accounting principles to the extent of the net book value of plant, property and equipment used in the ordinary course of the broker’s business, provided that such plant, property and equipment are not included in current assets.\n(5) In paragraph (4)(a), “satisfactory subordination agreement” means an agreement between the commodity broker or spot commodity broker and his lender (referred to in these Regulations as the subordinated creditor) which shall be in such form and shall contain such terms as the Board may, from time to time, require.\n(6) Without prejudice to the generality of paragraph (5), a subordinated agreement shall contain the following terms:\n(a)the subordinated creditor will not claim or receive from the commodity broker or spot commodity broker by set-off or in any other manner, any subordinated debt unless and until all senior debt has been paid or the Board has given it prior written approval;\n(b)in the event of any payment or distribution of assets of the commodity broker or spot commodity broker, in cash, in kind or in securities (referred to in these Regulations as a distribution), upon any dissolution, winding-up, liquidation or re-organisation of the broker —\n(i)the senior creditors shall first be entitled to receive payment in full of the senior debt before the subordinated creditor receives any payment in respect of the subordinated debt; and\n(ii)any distribution to which the subordinated creditor would be entitled but for this paragraph shall be paid or delivered by the liquidator, Official Assignee in bankruptcy or any other person making the distribution directly to the senior creditors rateably according to their senior debt until they have been paid in full (taking into account other distributions to the senior creditors); and\n(c)if, notwithstanding sub-paragraphs (a) and (b), any distribution is received by the subordinated creditor in respect of the subordinated debt, such distribution shall be paid over to the senior creditors for application rateably against their senior debt until the senior debt has been paid in full (taking into account other distributions to the senior creditors), and until such payment in full is made, such distribution shall be held on trust for the senior creditors."
+   }
+  },
+  {
+   "id": "SG-H744-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Adjusted net capital"
+   },
+   "text": {
+    "en": "4.—(1) For the purposes of these Regulations, “adjusted net capital” means net capital less the following:\n(a)the amount by which any advances paid by the commodity broker or spot commodity broker on cash commodity contracts or spot commodity contracts and used in computing net capital exceeds 95% of the market value of the commodities covered by such contracts;\n(b)in the case of all inventories which are hedged by hedging positions in any commodity market, the amount by which the value of such inventories used in computing the net capital exceeds 95% of the market value of such inventories;\n(c)in the case of all inventories which are not hedged by any hedging positions in any market, the amount by which the value of such inventories in computing the net capital exceeds 80% of the market value of such inventories;\n(d)in the case of any Government security issued under the Government Securities Act (Cap. 121A) used by the commodity broker or spot commodity broker in computing the net capital, the amount by which the value of such security exceeds 100% of the market value of such security;\n(e)in the case of shares and other securities used by the commodity broker or spot commodity broker in computing the net capital, the amount by which the value of such shares or securities exceeds 90% of the market value of such shares or securities;\n(f)in the case of under-margined commodity contracts or spot commodity contracts accounts belonging to customers, the amount of money required for each account to meet the relevant maintenance margin requirements, if such amount has been outstanding (after call) for more than 3 business days, or there are no such relevant maintenance margin requirements then, when the original margin has been depleted by 50% or more, the amount of money required to restore the original margin if such amount has been outstanding (after call) for more than 3 business days; and\n(g)the relevant margin requirement on open commodity contracts or spot commodity contracts held in the proprietary accounts of the commodity broker or spot commodity broker which are hedged.\n(2) For the purpose of paragraph (1), if —\n(a)a deficit is excluded from current assets in accordance with that paragraph, such amount shall not be deducted to determine adjusted net capital; and\n(b)a customer has deposited any asset other than cash into his account, the value attributable to such asset to determine the adjusted net capital shall be the value attributable to the asset pursuant to the relevant margin rules of a commodity market or spot commodity market."
+   }
+  },
+  {
+   "id": "SG-H744-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Forms"
+   },
+   "text": {
+    "en": "5.—(1) The Board may, for the purposes of these Regulations, determine and design such forms as it may think fit and such forms shall be used in all cases in which they are applicable.\n(2) The Board may require for the completion of such forms by the insertion of or the attachment to the form of any document.\n(3) The forms may be modified by the Board as it thinks fit."
+   }
+  },
+  {
+   "id": "SG-H744-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART II LICENCES"
+   },
+   "heading": {
+    "en": "Manner of application for licence or approval"
+   },
+   "text": {
+    "en": "6.—(1) An application for a licence or renewal thereof shall be in such form as the Board may determine together with any annexures the Board may require and shall be enclosed in a sealed envelope and lodged with the Board.\n(2) An application for a licence shall be accompanied by —\n(a)a detailed statement of the applicant’s assets and liabilities signed by the applicant; or\n(b)in the case of an applicant which is a corporation, a copy certified by a director or the secretary of the corporation to be true copies of —\n(i)the last balance-sheet; and\n(ii)the last profit and loss account,\nincorporating the results of the last financial year, such documents (including every document required by law to be annexed or attached thereto) having been audited by the corporation’s auditors, and to be submitted with a copy of the report of the auditors, certified as a true copy as aforesaid.\n(3) An application for a licence or renewal thereof shall be accompanied by a self-addressed envelope (of the applicant) of such minimum size as the Board may require which is affixed with a postage stamp of such value as the Board may require.\n(4) An application for approval as a commodity market shall be in such form as the Board may determine and shall be accompanied by a copy of the rules and Memorandum and Articles of Association of the proposed commodity market, certified to be the true copies thereof by the person signing the application."
+   }
+  },
+  {
+   "id": "SG-H744-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART II LICENCES"
+   },
+   "heading": {
+    "en": "Change of address"
+   },
+   "text": {
+    "en": "7.—(1) Every person approved under section 5(2) of the Act as a commodity market, and every holder of a licence granted under section 14 of the Act shall, upon any change in the address of the principal place of business at which he carries on the business in respect of which the approval or licence is granted, immediately notify the Board of the new address in such form as may be determined by the Board.\n(2) Every person referred to in paragraph (1) shall immediately notify the Board in writing upon ceasing to carry on the business in respect of which the approval or licence is granted.\n(3) Every holder of a representative’s licence who ceases to be a representative of a spot commodity broker, commodity broker, commodity trading adviser, commodity pool operator or spot commodity pool operator in relation to whom the representative’s licence was issued, shall immediately so notify the Board in writing."
+   }
+  },
+  {
+   "id": "SG-H744-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART II LICENCES"
+   },
+   "heading": {
+    "en": "Register of licences, etc."
+   },
+   "text": {
+    "en": "8.—(1) The Board shall keep in such form as it thinks fit a register of the persons approved under section 5(2) of the Act and the holders of licences granted under section 14 of the Act specifying —\n(a)in relation to each person or licensee —\n(i)his name;\n(ii)the address of the principal place of business at which he carries on the business in respect of which the approval or licence is granted; and\n(iii)where the business is carried on under a name or style other than the name of the approved person or holder of the licence, the name or style under which the business is carried on; and\n(b)in relation to each holder of a representative’s licence —\n(i)his name;\n(ii)the name of the spot commodity broker, commodity broker, commodity trading adviser, commodity pool operator or spot commodity pool operator in relation to whom the licence was granted; and\n(iii)where the business of that broker, trading adviser or pool operator is carried on under a name or style other than the name of the broker, trading adviser or pool operator, the name or style under which that business is carried on.\n(2) Any person may, upon payment of the fee specified in the First Schedule, inspect and obtain extracts from the register kept under paragraph (1).\n(3) Any extract referred to in paragraph (2) purporting to be signed by an officer authorised by the Board shall be admissible as prima facie evidence in any legal proceedings under the Act."
+   }
+  },
+  {
+   "id": "SG-H744-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART II LICENCES"
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "9. The fees specified in the First Schedule shall be payable to the Board."
+   }
+  },
+  {
+   "id": "SG-H744-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART III ACCOUNTS AND AUDIT"
+   },
+   "heading": {
+    "en": "Accounts to be kept by brokers"
+   },
+   "text": {
+    "en": "10.—(1) Every commodity broker and spot commodity broker shall —\n(a)keep such accounting and other records as will sufficiently explain the transactions and reflect the financial position of the business of trading in commodity contracts or spot commodity contracts carried on by him and as will enable true and fair profit and loss accounts and balance-sheets to be prepared from time to time; and\n(b)keep such records in a manner as will enable them to be conveniently and properly audited.\n(2) Without prejudice to the generality of paragraph (1), every commodity broker and spot commodity broker shall keep records —\n(a)in sufficient detail to show particulars of —\n(i)all amounts received and paid by him, including, where applicable, amounts paid to and disbursed from a segregated trust account kept under regulation 21; and\n(ii)all purchases and sales of contracts made by him, and the charges and credits arising therefrom; and\n(b)in sufficient detail to show separately, particulars of all transactions by him with, or for the account of —\n(i)his customer; and\n(ii)himself.\n(3) Every commodity broker and spot commodity broker shall retain for a period of not less than 6 years —\n(a)the records kept in accordance with this regulation;\n(b)a copy of each contract made out by him as agent of every customer; and\n(c)a copy of each contract received by him or made out to himself as principal.\n(4) Records required to be kept by a commodity broker or spot commodity broker under this regulation shall be kept by making entries in a bound book, or by recording or storing the relevant matters in such electronic form as may be appropriate, or in any other manner as may be approved by the Board, and anything so entered, recorded or stored shall be deemed to have been effected by, or with the authority of, the broker.\n(5) Every commodity broker and spot commodity broker shall take —\n(a)reasonable precautions in guarding against falsification of any of the records referred to in this regulation, or damage or loss to any of the records; and\n(b)reasonable steps for facilitating the discovery of any such falsification, damage or loss.\n(6) A commodity broker or spot commodity broker who, without reasonable excuse, contravenes this regulation shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H744-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART III ACCOUNTS AND AUDIT"
+   },
+   "heading": {
+    "en": "Appointment of auditors"
+   },
+   "text": {
+    "en": "11.—(1) Every commodity broker and spot commodity broker shall appoint an auditor to audit his accounts (including all segregated trust accounts required to be kept by the broker under regulation 21).\n(2) Where for any reason the auditor ceases to act for the commodity broker or spot commodity broker, the broker shall, as soon as practicable thereafter, appoint another auditor to replace him."
+   }
+  },
+  {
+   "id": "SG-H744-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART III ACCOUNTS AND AUDIT"
+   },
+   "heading": {
+    "en": "Lodging annual accounts, etc."
+   },
+   "text": {
+    "en": "12.—(1) Every commodity broker and spot commodity broker shall in respect of each financial year —\n(a)prepare a true and fair profit and loss account and a balance-sheet made up to the last day of the financial year; and\n(b)lodge the profit and loss account and balance-sheet with the Board within 3 months (or such extension as may be permitted by the Board under paragraph (2)) after the end of the financial year, together with an auditor’s report on the profit and loss account and balance-sheet.\n(2) Where an application for the extension of the period specified in paragraph (1) is made by a broker to the Board, and the Board is satisfied that there are special reasons to allow the extension, the Board may extend that period by 3 months or such other period as the Board may think fit subject to such conditions as the Board thinks fit to impose.\n(3) Any commodity broker or spot commodity broker who fails to comply with paragraph (1), or with any condition imposed under paragraph (2), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H744-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART III ACCOUNTS AND AUDIT"
+   },
+   "heading": {
+    "en": "Reports by auditor to Board"
+   },
+   "text": {
+    "en": "13. If, during the performance of his duties as auditor for a commodity broker or spot commodity broker, an auditor —\n(a)becomes aware of any matter which in his opinion adversely affects or may adversely affect the financial position of the broker to a material extent; or\n(b)discovers evidence of a contravention by the broker of regulation 10, 21 or 22,\nhe shall, as soon as practicable, send to the Board a report in writing of the matter or the evidence of such contravention."
+   }
+  },
+  {
+   "id": "SG-H744-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART III ACCOUNTS AND AUDIT"
+   },
+   "heading": {
+    "en": "Profit and loss account and balance-sheet"
+   },
+   "text": {
+    "en": "14.—(1) Every commodity trading adviser, who is not a body corporate, shall prepare accounts in relation to his business as a trading adviser in the form determined by the Board in respect of each financial year.\n(2) The assets and liabilities of the business of a commodity trading adviser shall be brought into account in the balance-sheet at such amounts to be classified and described so that the balance-sheet gives a true and fair view of the state of affairs of the business as at the date to which it is made up.\n(3) Each account prepared under paragraph (1) shall be signed by the commodity trading adviser.\n(4) A commodity broker, spot commodity broker, commodity trading adviser or commodity pool operator, that is a corporation, shall prepare accounts in accordance with the provisions of the Companies Act (Cap. 50) in respect of each financial year and shall attach to such accounts a statement in the form required by the Board.\n(5) The statement referred to in paragraph (4) shall be signed by a director or the secretary of the corporation appointed for that purpose."
+   }
+  },
+  {
+   "id": "SG-H744-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART III ACCOUNTS AND AUDIT"
+   },
+   "heading": {
+    "en": "Form of auditor’s report"
+   },
+   "text": {
+    "en": "15. The auditor’s report required to be lodged under regulation 12(1) shall be in such form as the Board may determine and shall be accompanied by the documents necessary for due understanding of the report."
+   }
+  },
+  {
+   "id": "SG-H744-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART III ACCOUNTS AND AUDIT"
+   },
+   "heading": {
+    "en": "Control of take-overs of licensees, etc."
+   },
+   "text": {
+    "en": "16.—(1) No person shall enter into an agreement to acquire the shares of a person approved under section 5(2) of the Act as a commodity market, or a holder of a licence granted under section 14 of the Act, who is a body corporate, by virtue of which such first-mentioned person would, if the agreement is carried out, obtain effective control of the second-mentioned person or licensee, unless he has notified the Board of his intention to enter into the agreement and has obtained the approval of the Board in writing.\n(2) For the purposes of this regulation —\n(a)a person shall be regarded as entering into an agreement by virtue of which he would obtain effective control of a body corporate if the person alone, or acting together with any connected person, would be in a position to control not less than 20% of the voting power in the body corporate concerned or would hold interests in not less than 20% of the issued shares of the body corporate concerned; and\n(b)a reference to the voting power in a body corporate is a reference to the total number of votes that might be cast in the general meeting of the body corporate."
+   }
+  },
+  {
+   "id": "SG-H744-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART IV CONDUCT OF COMMODITY TRADING BUSINESS"
+   },
+   "heading": {
+    "en": "Minimum financial requirements for commodity brokers, etc."
+   },
+   "text": {
+    "en": "17.—(1) Every commodity broker and spot commodity broker shall not allow his adjusted net capital to fall, for 4 consecutive weeks, below the amount equal to or in excess of —\n(a)$250,000; or\n(b)10% of the amount of customer funds required to be segregated under these Regulations,\nwhichever is the higher.\n(2) In the case where a commodity broker is a member of a commodity market, if the adjusted net capital of such broker falls below $400,000 or is less than 12.5% of the amount of customer funds required to be segregated under these Regulations, whichever is the higher, he shall —\n(a)immediately inform the market concerned; and\n(b)immediately operate his business in such manner and on such conditions as the market may decide.\n(3) The commodity market referred to in paragraph (2) shall also notify the Board, which may review, affirm, modify or set aside the conditions stipulated by the market, and may in addition issue such directions to the commodity broker as it thinks fit, and the broker shall comply with the direction.\n(4) In the case where a commodity broker or spot commodity broker is not a member of a commodity market, if the adjusted net capital of such broker falls below $400,000 or is less than 12.5% of the amount of customer funds required to be segregated, whichever is the higher, he shall immediately —\n(a)notify the Board; and\n(b)operate his business in such manner and on such conditions as the Board may decide.\n(5) The Board may, after assessing the financial condition of any commodity broker or a spot commodity broker, including a member of a commodity market, direct the broker to meet such other financial requirements as the Board may determine."
+   }
+  },
+  {
+   "id": "SG-H744-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART IV CONDUCT OF COMMODITY TRADING BUSINESS"
+   },
+   "heading": {
+    "en": "Statements of financial condition, computation of adjusted net capital, etc."
+   },
+   "text": {
+    "en": "18.—(1) Every commodity broker and spot commodity broker shall prepare statements in the form determined by the Board in respect of each quarter for his business as a broker.\n(2) The assets and liabilities of the business shall be brought into account in the statements at such amounts to be classified and described such that the statements give a true and fair view of the state of affairs of the business.\n(3) Each statement prepared under paragraph (1) shall be signed by the commodity broker or spot commodity broker, or a director thereof and shall be lodged with the Board no later than 30 days after the end of each quarter.\n(4) If the adjusted net capital of a commodity broker or spot commodity broker, not being a member of a commodity market, falls below $400,000 or is less than 12.5% of the amount of customer funds required to be segregated, whichever is the higher, for 5 consecutive business days, he shall immediately submit the statements specified in this regulation to the Board on a weekly basis until the adjusted net capital of the broker exceeds $400,000 or is greater than 12.5% of the customer funds required to be segregated, for 8 consecutive weeks, following which the broker shall submit the statements quarterly.\n(5) The weekly statements required to be submitted under paragraph (4) shall be signed by the commodity broker or spot commodity broker, or a director thereof and shall be lodged with the Board no later than 3 business days after the end of each week.\n(6) Notwithstanding anything contained in regulation 17 and this regulation, a commodity broker or spot commodity broker who only trades in commodity contracts or spot commodity contracts for himself or for customers which are related corporations may, with the approval of the Board, maintain an adjusted net capital of not less than $25,000 in addition to an irrevocable letter of credit issued on his behalf by a bank acceptable to the Board for an amount of not less than $1 million made in favour of the Board or, with the approval of the Board, in favour of the commodity market of which the broker is a member.\n(7) In paragraph (6), “related corporation” shall have the meaning assigned to that expression in section 6 of the Companies Act (Cap. 50).\n[S 100/2008 wef 27/02/2008]"
+   }
+  },
+  {
+   "id": "SG-H744-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART IV CONDUCT OF COMMODITY TRADING BUSINESS"
+   },
+   "heading": {
+    "en": "Records to be kept by trading adviser and pool operator"
+   },
+   "text": {
+    "en": "19.—(1) Every commodity trading adviser and commodity pool operator shall keep such accounting and other records as will —\n(a)sufficiently explain the transactions and financial position of his business; and\n(b)enable true and fair profit and loss accounts and balance-sheets to be prepared from time to time,\nand shall cause these records to be kept in such a manner as to enable them to be conveniently and properly audited.\n(2) A commodity trading adviser shall be deemed to have failed to comply with paragraph (1), in relation to records, unless the records are kept in sufficient detail to show —\n(a)the particulars of all his clients (including their names and addresses);\n(b)a list or other record of all clients’ accounts directed by the trading adviser and of all transactions effected therefor;\n(c)copies of confirmation of each transaction mentioned in sub-paragraph (b), each contract confirmation note and each monthly statement received from a commodity broker;\n(d)powers of attorney and all other documents, or signed copies thereof, authorising the trading adviser to operate that client’s account on a discretionary basis;\n(e)a signed and dated acknowledgment from each client that he has received and understood the contents of the disclosure statement specified in Form 1 in the Second Schedule for the trading programme pursuant to which the trading adviser will direct his account or will guide his trading;\n(f)all other written agreements, or copies thereof, including risk disclosure documents entered into by the trading adviser with any of his clients;\n(g)the original or a copy of each report, letter, circular, memorandum, publication, writing, advertisement or other literature or advice distributed or caused to be distributed by the trading adviser to any existing or prospective client, showing the first date of its distribution;\n(h)an itemised record of all commodity contract transactions for the personal account of the trading adviser or of a director of the trading adviser, showing the transaction date, the quantity of contracts, the type of contracts and price, the delivery month, the commodity broker carrying the account, whether the contract was purchased or sold, and the gain or loss realised;\n(i)each confirmation of a commodity contract transaction and each monthly statement furnished by a commodity broker to the trading adviser relating to the personal account of the trading adviser, or to a personal account of a director of such trading adviser; and\n(j)books and records of all other transactions in all other business dealings in commodity contracts and of all cash market transactions by the trading adviser or any of his directors.\n(3) A commodity pool operator shall be deemed to have failed to comply with paragraph (1), in relation to records, unless the records are kept in sufficient detail to show —\n(a)an itemised daily record of each commodity contract transaction the date of such contract, the quantity of contracts, type of contract and price, delivery month, whether purchase or sale, the commodity broker carrying the account and the commodity trading adviser involved, if any, and the gain or loss realised;\n(b)a journal or other equivalent record showing all receipts and disbursements of money, securities and other property;\n(c)a signed and dated acknowledgment from every participant that he has received and understood the contents of the disclosure document as specified in Form 2 in the Second Schedule;\n(d)a subsidiary ledger or other equivalent record for each participant’s name and address and all funds, securities and other property that the pool has received from or distributed to each participant;\n(e)copies of each confirmation of a commodity contract transaction of the pool and each monthly statement for the pool received from a commodity broker;\n(f)all cancelled cheques, bank statements, journals, ledgers, invoices, computer generated records, data and memoranda prepared or received in connection with the operation of the pool;\n(g)the original or a copy of each report, letter, circular, memorandum, publication, writing, advertisement or other literature or advice distributed or caused to be distributed by the pool operator from any commodity trading adviser of the pool, showing the first date of distribution or receipt;\n(h)an itemised daily record of each commodity contract transaction of the pool operator for his own account and any of the directors of the pool operator, showing the transaction date, quantity of contracts, type of contract and price, delivery month, the commodity broker carrying the account, whether the contract was purchased or sold, and the gain or loss realised;\n(i)each confirmation of a commodity contract transaction and each monthly statement furnished by a commodity broker to the pool operator relating to a personal account of the pool operator or to a personal account of a director of the pool operator; and\n(j)books and records of all other transactions in all other activities in which the pool operator engages, including cancelled cheques, bank statements, journals, ledgers, invoices, computer generated records and all other records, data and memoranda which have been prepared in the course of engaging in those activities."
+   }
+  },
+  {
+   "id": "SG-H744-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART IV CONDUCT OF COMMODITY TRADING BUSINESS"
+   },
+   "heading": {
+    "en": "Reports by pool operator"
+   },
+   "text": {
+    "en": "20.—(1) Every commodity pool operator shall periodically distribute to each participant in each pool that he operates, within 30 days after the last date of the reporting period specified in paragraph (7) (hereinafter referred to as the reporting period), a profit and loss statement and a statement of changes in net asset value for that period.\n(2) The statements referred to in paragraph (1) shall be presented and computed in accordance with generally accepted accounting principles, and shall be signed by the pool operator or by 2 directors thereof.\n(3) The profit and loss statement referred to in paragraph (1) shall set out as separate items —\n(a)the total amount of realised net gain or loss on commodity contract positions liquidated during the reporting period;\n(b)the change in unrealised net gain or loss on contract positions during the reporting period;\n(c)the total amount of net gain or loss from all other transactions in which the pool engaged during the reporting period including interest and dividends earned;\n(d)the total amount of all management fees and advisory fees relating to the pool during the reporting period;\n(e)the total amount of all brokerage commissions relating to the pool during the reporting period; and\n(f)the total amount of all other expenses incurred or accrued by the pool during the reporting period.\n(4) The statement of changes in net asset value as referred to in paragraph (1) shall set out separately —\n(a)the net asset value of the pool as at the beginning of the reporting period;\n(b)the total amount of additions to the pool made during the reporting period;\n(c)the total amount of withdrawals from and redemption of participation units in the pool for the reporting period;\n(d)the total net income or loss of the pool during the reporting period;\n(e)the net asset value of the pool as at the end of the reporting period; and\n(f)the net asset value of each outstanding participation unit in the pool as at the end of the reporting period or the total value of each participant’s interest or share in the pool as at the end of the reporting period, whichever is applicable.\n(5) The statement of changes in net asset value shall also disclose any material dealings between the pool, the commodity pool operator, commodity trading adviser or commodity broker, or any director thereof that previously has not been disclosed in the pool’s disclosure document or any amendment thereto, or other statements or annual reports.\n(6) The statement of changes in net asset value shall be distributed —\n(a)at least monthly, in the case of pools with net assets of more than $500,000 at the beginning of the pool’s financial year; and\n(b)at least quarterly, in the case of pools with net assets of $500,000 or less.\n(7) Every commodity pool operator shall distribute an annual report to each participant in each pool that he operates, and shall file a copy of the annual report with the Board within 3 months after the end of the pool’s financial year or such extension of time as permitted by the Board subject to such conditions as the Board thinks fit to impose.\n(8) The annual report referred to in paragraph (7) shall contain the following:\n(a)the net asset value of the pool as at the end of each of the pool’s 2 preceding financial years;\n(b)the net asset value of each outstanding participation unit in the pool as at the end of each of the pool’s 2 preceding financial years, or the total value of each participant’s interest or share in the pool as at the end of each of the pool’s 2 preceding financial years, whichever is applicable; and\n(c)appropriate disclosure and such further material information as may be necessary to ensure the accuracy of the required statements.\n(9) The financial statements in the annual report shall be presented and computed in accordance with generally accepted accounting principles and shall be certified by an auditor.\n(10) The profit and loss statement required to be distributed under this regulation shall set out all brokerage commissions, management fees, advisory fees and incentive fees relating to the pool, interest income and expense, total realised net gain or loss from contracts and change in unrealised net gain or loss on contract positions during the pool’s financial year."
+   }
+  },
+  {
+   "id": "SG-H744-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART IV CONDUCT OF COMMODITY TRADING BUSINESS"
+   },
+   "heading": {
+    "en": "Segregation of customer’s funds by brokers"
+   },
+   "text": {
+    "en": "21.—(1) Every commodity broker and spot commodity broker shall —\n(a)treat and deal with all money, securities or property received by him from a customer to margin, guarantee or secure contracts in commodity trading or spot commodity trading, or accruing to a customer as a result of such trading, as belonging to that customer; and\n(b)account in a separate trust account, designated or evidenced as such, for all the money, securities or property received from the customer or accruing to the customer pursuant to sub-paragraph (a),\nand shall not commingle that money, security or property with his own funds or use them to margin, guarantee or to secure the contracts or extend the credit of any other customer or person other than the person for whom they are held.\n(2) Notwithstanding paragraph (1), the money, securities or property received by a commodity broker or spot commodity broker, from his customers may, for convenience and for the benefit of his customers, be commingled and deposited in the same account or accounts with —\n(a)any bank;\n(b)a clearing house, whether in or outside Singapore;\n(c)another commodity broker or spot commodity broker; or\n(d)any person who may be approved by the Board for the purpose.\n(3) Subject to regulation 22, a commodity broker or spot commodity broker shall not withdraw money received by him and deposited in a separate trust account as referred to in paragraph (1), otherwise than for the purpose of —\n(a)making a payment to, or in accordance with the instructions of, a person entitled to the money;\n(b)purchasing, margining, guaranteeing, securing, transferring, adjusting or settling dealings in commodity contracts or spot commodity contracts effected by the broker on the instructions of a customer of the broker;\n(c)defraying brokerage and other proper charges incurred in respect of dealings in the commodity contracts or spot commodity contracts effected by the broker on the instructions of a customer of the broker;\n(d)reimbursing himself to the extent of any residual financial interest that he may have in the account as is referred in paragraph (4);\n(e)investing the money in such manner as may be permitted under these Regulations or otherwise by the Board; or\n(f)making a payment that is otherwise authorised under law.\n(4) Notwithstanding paragraph (1), a commodity broker or spot commodity broker may have a residual financial interest in a customer’s trust account and may from time to time advance from his own funds sufficient money to prevent any or all of his customers’ trust accounts from becoming under-margined.\n(5) The Board may exempt a commodity broker, spot commodity broker, or any class of brokers or any transaction or class of transactions relating to trading in commodity contracts or spot commodity contracts from the requirements in paragraph (1), subject to such terms and conditions as, in the opinion of the Board, provides reasonable protection for customers."
+   }
+  },
+  {
+   "id": "SG-H744-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART IV CONDUCT OF COMMODITY TRADING BUSINESS"
+   },
+   "heading": {
+    "en": "Segregated accounts"
+   },
+   "text": {
+    "en": "22.—(1) All customer’s moneys shall be segregated as belonging to customers and separately accounted for.\n(2) Any customer’s moneys received shall be paid without delay into a customer’s account unless authorised otherwise by the customer concerned.\n(3) Every commodity broker, spot commodity broker and commodity pool operator shall maintain accounts in such a way that the outstanding balance can be easily and readily identified with —\n(a)each customer’s transaction; and\n(b)the respective dates on which each transaction occurred.\n(4) Every commodity broker, spot commodity broker and commodity pool operator shall at all times keep such books and accounts as may be necessary —\n(a)to show all his dealings with all his customer’s moneys held, received or paid by him, and any other money dealt by the broker or pool operator through his customers’ accounts;\n(b)to distinguish such money held, received or paid by him on account of every customer; and\n(c)to distinguish such money from his own money or other money held, received or paid by him on any other account.\n(5) All customers’ moneys when deposited with any bank, merchant bank, a commodity broker, spot commodity broker or any other person approved by the Board, shall be deposited under an account name which clearly identifies such moneys as customers’ moneys and shows that such moneys are segregated in the manner required under regulation 21.\n(6) Every commodity broker, spot commodity broker and commodity pool operator shall obtain and retain in his files acknowledgment from such bank, merchant bank, such other commodity broker, spot commodity broker or such other person approved by the Board, that he was informed that the customer’s moneys deposited therein belong to customers and are being held in accordance with these Regulations.\n(7) A commodity broker or spot commodity broker may hold any of his customers’ moneys in any of the following forms:\n(a)in any Government securities within the meaning of the Government Securities Act (Cap. 121A);\n(b)in any debt instruments of the government of the country in which is situated the commodity market or Singapore Commodity Exchange where the commodity broker or spot commodity broker normally transacts his business; and\n(c)in any other securities or instruments as may be approved by the Board.\n(8) A commodity broker or spot commodity broker holding any of his customers’ moneys other than in a form of deposit with a bank or merchant bank shall keep a record of such accounts.\n(9) The record referred to in paragraph (8) shall include the following:\n(a)the dates of all transactions made;\n(b)the names of the persons through whom the transactions were made;\n(c)the amount of money involved in each transaction;\n(d)a description of each transaction;\n(e)the place, if any, where each customer’s moneys, securities and properties are being kept;\n(f)the date on which the subject-matter of each transaction was released or otherwise disposed of and the amount of money received from each realisation or disposition, if any; and\n(g)the name of the person to whom (and through whom, if any) the subject-matter of each transaction was disposed of.\n(10) All securities and properties held or received by a commodity broker, spot commodity broker or commodity pool operator, on account of a customer in connection with any commodity contracts or spot commodity contracts concluded or to be concluded, or cleared or to be cleared, on any commodity market or spot commodity market, shall be separately accounted for and segregated as belonging to the customer.\n(11) Every commodity broker, spot commodity broker or commodity pool operator shall at all times keep such books and accounts as may be necessary —\n(a)to show all his dealings with customers’ securities and properties held or received by him;\n(b)to distinguish such securities and properties held or received by him on account of each customer; and\n(c)to distinguish such securities and properties from his own securities and properties and other securities and properties held or received by him.\n(12) Every commodity broker and spot commodity broker shall compute as at the close of each business day —\n(a)the total amount of customer funds on deposit in segregated accounts on behalf of customers;\n(b)the total amount of such customer funds required by the Act and these Regulations to be kept in deposit in segregated accounts on behalf of such customers; and\n(c)the amount of his residual interest in such customer funds,\nand such computation must be completed prior to noon on the next business day and must be kept, together with all supporting data."
+   }
+  },
+  {
+   "id": "SG-H744-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART IV CONDUCT OF COMMODITY TRADING BUSINESS"
+   },
+   "text": {
+    "en": "23. [Deleted by S 100/2008 wef 27/02/2008]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H744-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART IV CONDUCT OF COMMODITY TRADING BUSINESS"
+   },
+   "heading": {
+    "en": "Issues of contract confirmation"
+   },
+   "text": {
+    "en": "24.—(1) A commodity broker or spot commodity broker shall, not later than 2 business days after any transaction in commodity trading, furnish to his customers a written confirmation of each contract executed by the broker on behalf of that customer.\n(2) The written confirmation referred to in paragraph (1) shall include the following information:\n(a)the name or style under which the broker carries on his business, and the address of the principal place at which he carries on business;\n(b)where the broker is dealing as principal, a statement that he is acting as such;\n(c)the name and address of the person to whom the broker gives the confirmation;\n(d)the day on which the transaction took place and the name of the commodity market or spot commodity market in which the transaction took place;\n(e)an itemised list of the quantity or amount and the types of contracts that are the subject of the confirmation;\n(f)the price per unit of the contract concerned;\n(g)the amount of the consideration; and\n(h)the rate and amount of commission (if any) charged.\n(3) The requirement in paragraph (1) shall not apply if the customer is a commodity broker or spot commodity broker."
+   }
+  },
+  {
+   "id": "SG-H744-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART IV CONDUCT OF COMMODITY TRADING BUSINESS"
+   },
+   "heading": {
+    "en": "Monthly confirmation statements"
+   },
+   "text": {
+    "en": "25.—(1) Every commodity broker and spot commodity broker shall furnish in writing to each customer, at the close of the last business day of each month, or at any regular monthly date selected by the broker, but not less frequently than once every 3 months, a statement which clearly shows for each customer —\n(a)the position and price at which each commodity contract or spot commodity contract is acquired;\n(b)the net unrealised profits or losses in all positions marked to the market;\n(c)the amount of funds belonging to the customer kept with the broker; and\n(d)a detailed accounting of all financial charges and credits to the customer’s account during that month, including all funds received from or disbursed to the customer and realised profits and losses belonging to the customer,\nbut such statement need not include accounts in which there are neither positions at the end of the period or any changes to the account balance since the furnishing of the prior statement.\n(2) The requirements in paragraph (1) shall not apply if the customer is a commodity broker or spot commodity broker."
+   }
+  },
+  {
+   "id": "SG-H744-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART IV CONDUCT OF COMMODITY TRADING BUSINESS"
+   },
+   "heading": {
+    "en": "Conduct of business of pool operator"
+   },
+   "text": {
+    "en": "26.—(1) No commodity pool operator shall, directly or indirectly, solicit, accept or receive funds, securities or other property from a prospective participant for a pool that he operates or intends to operate unless the pool operator delivers or causes to be delivered to the prospective participant a disclosure document containing the following information:\n(a)particulars relating to —\n(i)the name and address of the pool operator, and the name and address, if any, of his main business office, his telephone number and the form of organisation of the pool operator;\n(ii)the name of the person who will make the trading decisions for the pool including the name of any commodity trading adviser;\n(iii)if known, the name of the commodity broker through whom the pool will execute its trades;\n(iv)the types of contracts the pool operator intends that the pool will trade in, with a description of any restriction or limitations on such trading established by the pool operator; and\n(v)a risk disclosure statement in Form 2 in the Second Schedule;\n(b)any actual or potential conflict of interest regarding any aspect of the pool on the part of —\n(i)the pool operator or any of his directors;\n(ii)the pool’s commodity trading adviser or any director of the trading adviser if the trading adviser is a corporation; or\n(iii)any commodity broker through which the pool’s trades will be executed or any of the broker’s directors,\nand including in the description of such conflict, any arrangement whereby the pool operator, his trading advisers, or the directors of such pool operator or trading adviser may benefit, directly or indirectly, from the maintenance of the pool’s account with any commodity broker;\n(c)the actual performance record of the pool operator, in the following manner:\n(i)a table showing at least quarterly the following information, current as of a date not more than 3 months preceding the date of the record:\n(A)the initial net asset value of the pool for the period, which shall be the previous period’s ending net asset value;\n(B)all additions, whether voluntary or involuntary, during the period;\n(C)all withdrawals and redemptions, whether voluntary or involuntary, during the period;\n(D)the net performance of the pool for the period, which shall be the change in the net asset value, net of additions, withdrawals and redemptions;\n(E)the ending net asset value of the pool for the period, which shall be the initial net asset value plus or minus additions, withdrawals and redemptions and net performance;\n(F)the rate of return for the period, which shall be calculated by dividing the net performance by the initial net asset value; and\n(G)the number of participation units outstanding at the end of the period; and\n(ii)a description of the material differences among the pools for which past performance is disclosed;\n(d)the actual performance record of the pool’s commodity trading advisers;\n(e)a complete description of each kind of expense which the pool operator knows or ought reasonably to know has been incurred by the pool for its preceding financial year or is expected to be incurred by the pool in its current financial year, including, but not limited to, fees for management, trading advice, brokerage commissions, legal advice, accounting services and organisational services and, in particular —\n(i)the pool operator shall specify the actual dollar amount of each such expense for the pool’s preceding financial year and, wherever possible, the estimated amount of each such expense for the pool’s current financial year;\n(ii)where any expense is determined by reference to a base amount term including, but not limited to, “net assets”, “gross profits”, “net profits” or “net gains”, the specific definition of each such term; and\n(iii)where any fee is based on an increase in the value of the pool, the pool operator shall specify how the increase is calculated, the period of time during which the increase is calculated, the fee to be charged at the end of that period and the value of the pool at the point where payment of the increased fee commences;\n(f)information relating to —\n(i)the minimum aggregate amount of funds that will be necessary for the pool to commence trading in commodity contracts, or if there is no such minimum amount, a statement to that effect;\n(ii)the maximum aggregate amount of funds that may be contributed to the pool, or if there is no such maximum amount, a statement to that effect;\n(iii)the maximum period of time for which the pool will hold funds prior to the commencement of any trading, or if there is no such period of time, a statement to that effect;\n(iv)the disposition of funds if the pool does not receive the necessary amount to commence trading, including the period of time within which the disposition will be made; and\n(v)where the pool operator deposits or invests funds received prior to the commencement of trading by the pool and if the pool operator intends to place those funds in an income-generating account or obligation, the name of the person to whom that income will be paid;\n(g)information relating to —\n(i)the manner in which the pool will fulfil its margin requirements, and where the pool will fulfil its margin requirements otherwise than by cash, a statement of disclosure as to —\n(A)the nature of such non-cash items; and\n(B)if those items generate income, the name of the person to whom that income will be paid; and\n(ii)the form in which pool funds not deposited as margin will be held after the commencement of trading by the pool, and where those funds will be held in assets other than cash, a statement to that effect;\n(h)a complete description of any restrictions upon the transferability of a participant’s interest in the pool, and where there are no such restrictions, a statement to that effect;\n(i)a complete description of the manner in which a participant may redeem his interest in the pool, and the description must specify —\n(i)the method of calculating the redemption value of a participant’s interest, including the cost associated therewith;\n(ii)the conditions under which a participant may redeem his interest including the terms of any notification required; and\n(iii)any restrictions on the redemption of a participant’s interest, or if there are no such restrictions, a statement to that effect;\n(j)the extent to which a participant may be held liable for obligations of the pool in excess of the funds contributed by the participant for the purchase of an interest in the pool;\n(k)the pool’s policies with respect to the payment of distributions from profits or capital and the pool’s policies with respect to the frequency of such payments;\n(l)a statement as to —\n(i)whether trading in commodity contracts will be done or is intended to be done for the proprietary account of —\n(A)the pool operator or any of his directors; or\n(B)the commodity trading adviser of the pool or any of their respective directors; and\n(ii)if any of the persons mentioned in this paragraph does not trade or intend to trade for their own account, a statement to that effect with respect to each such person; and\n(m)a statement that the pool operator shall provide all participants with a monthly or quarterly (whichever is applicable) statement of accounts and a certified annual report.\n(2) For the purposes of paragraph (1), no pool operator shall use any disclosure document which is dated more than 6 months preceding the date of its use.\n(3) The risk disclosure document required by section 32(2) of the Act to be provided by a commodity pool operator to a prospective client shall be in Form 2 in the Second Schedule."
+   }
+  },
+  {
+   "id": "SG-H744-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART IV CONDUCT OF COMMODITY TRADING BUSINESS"
+   },
+   "heading": {
+    "en": "Conduct of business of trading adviser"
+   },
+   "text": {
+    "en": "27.—(1) No commodity trading adviser shall solicit, accept or receive from an existing or prospective client any funds, securities or other property in the trading adviser’s name (or extend credit in lieu thereof) to purchase, margin, guarantee or secure any commodity contract of the client or prospective client unless he is licensed as a commodity broker or a commodity pool operator under the Act.\n(2) No commodity trading adviser shall solicit or enter into an agreement with a prospective client unless, he delivers or causes to be delivered to the prospective client, a disclosure document containing the following information:\n(a)particulars relating to —\n(i)the name and address of the trading adviser, and the name and address of his main business office, his business telephone number and the form of organisation of the trading adviser;\n(ii)a description of the trading programme;\n(iii)the name of the commodity broker, bank or merchant bank with which the trading adviser will require the client to maintain an account; and\n(iv)the types of commodity contracts the trading adviser intends to trade in, with a description of any restrictions or limitations on such trading established by the trading adviser;\n(b)the actual performance record of the trading adviser over the past 3 years, including a description of the material differences among those accounts to which the performance record relates;\n(c)a complete description of each fee which the trading adviser will charge the client and —\n(i)wherever possible, the dollar amount of each such fee;\n(ii)where any fee is determined by reference to a base amount term including, but not limited to, “net assets”, “gross profits”, “net profits” or “net gains”, the specific definition of each such term; and\n(iii)where any fee is based on an increase in the value of the client’s trading account, the trading adviser shall specify how that increase is calculated, the period of time during which the increase is calculated, the fee to be charged at the end of that period and the value of the account at the point in time where the payment of the increased fee commences;\n(d)any actual or potential conflict of interest on the part of the trading adviser or any of the directors thereof or on the part of any commodity broker with which the client will be required to maintain his account or any directors of the broker, and —\n(i)if there is any such conflict, a full description of the nature of the conflict; and\n(ii)if there is no such conflict, a statement to that effect with respect to each such person; and\n(e)a statement whether trading in commodity contracts will be done or is intended to be done by the trading adviser or any of his directors for his own account, and if any of the abovementioned persons does not trade or intend to trade in such contracts for his own account, a statement to that effect with respect to each such person.\n(3) For the purposes of paragraph (2), no commodity trading adviser shall use a disclosure document dated more than 6 months preceding the date of its use.\n(4) The risk disclosure document required by section 32(3) of the Act to be provided by a commodity trading adviser to a prospective client shall be in Form 1 in the Second Schedule."
+   }
+  },
+  {
+   "id": "SG-H744-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART IV CONDUCT OF COMMODITY TRADING BUSINESS"
+   },
+   "heading": {
+    "en": "Trading standards for brokers"
+   },
+   "text": {
+    "en": "28.—(1) A commodity broker or spot commodity broker shall not withhold or withdraw from the market any order or any part of an order from a client for his own benefit, the benefit of any connected person, or for the convenience of any other person.\n(2) A commodity broker or spot commodity broker shall not buy for his own account, accounts belonging to connected persons, or an account in which he has an interest (including any account over which he has discretion), if he has in hand orders to buy for others at the prevailing market price or at the same price.\n(3) A commodity broker or spot commodity broker shall not sell for his own account, being accounts to connected persons or an account in which he has an interest (including any account over which he has discretion), if he has in hand orders to sell for others at the prevailing market price or at the same price.\n(4) A commodity broker or spot commodity broker shall not knowingly take, directly or indirectly, the other side of an order from his client for his own account or for the accounts of connected persons, except with the client’s prior consent and in accordance with the rules of a commodity market as have been approved by the Board or any spot commodity market.\n(5) A commodity broker or spot commodity broker shall not divulge information relating to an order held by him, unless such disclosure —\n(a)is necessary for the effective execution of such order;\n(b)is in compliance with the rules of the relevant commodity market as have been approved by the Board or any spot commodity market; or\n(c)is made at the request of the Board.\n(6) Every commodity broker, spot commodity broker and their representatives shall not accept or agree to accept any power or authority from any person or any third party acting on behalf of such person to deal in any commodity market or spot commodity market for the account of such person, at the discretion of the broker or his representative, except in the following circumstances and upon the following terms and conditions:\n(a)at the request of a customer, a discretionary account accepted and operated only in circumstances when it is necessary to do so and at the request of the relevant customer;\n(b)the agreement for the operation of a discretionary account is duly executed by the customer, the broker and his representative, if any;\n(c)the agreement to operate a discretionary account contains the following statements which are printed in bold type and prominently displayed at the beginning of the agreement:\n(i)“This is a most important document, because it attaches personal liabilities to the customer. The customer is strongly advised to consult his accountant, bank manager, solicitor or other professional adviser prior to the customer’s execution of this document.”; and\n(ii)“The Singapore Commodity Exchange (or the name of the relevant market) has introduced certain guidelines for the operation of discretionary accounts, a copy of which will be made available to you upon request.”;\n(d)the broker explains fully to the customer, (before the agreement is executed), the statements contained in the agreement and the customer’s risks and liabilities thereunder;\n(e)the broker furnishes to the customer in writing at such times as are requested by the customer, full details of the transactions executed on the customer’s behalf and the positions and equity in the customer’s account; and\n(f)the broker ensures that all discretionary account orders are transmitted to the dealing room or trading floor in writing with the account designation clearly indicated on such orders.\n(7) The risk disclosure document required by section 32(1) of the Act to be provided by a commodity broker or spot commodity broker to a prospective client shall be in Form 3 in the Second Schedule."
+   }
+  },
+  {
+   "id": "SG-H744-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART V MISCELLANEOUS"
+   },
+   "text": {
+    "en": "29. [Deleted by S 100/2008 wef 27/02/2008]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H744-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART V MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Change of principal"
+   },
+   "text": {
+    "en": "30. A commodity broker’s representative, spot commodity broker’s representative, commodity trading adviser’s representative, commodity pool operator’s representative or spot commodity pool operator’s representative shall not change his principal in relation to which his licence was granted unless he has lodged a notice with the Board in such form as the Board may require."
+   }
+  },
+  {
+   "id": "SG-H744-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART V MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Time for document to be lodged"
+   },
+   "text": {
+    "en": "31. Where a document is required by these Regulations to be lodged with the Board but a period of time within which the document is to be lodged is not specified, the document shall be lodged within 14 days after the happening of the event to which the document relates."
+   }
+  },
+  {
+   "id": "SG-H744-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART V MISCELLANEOUS"
+   },
+   "text": {
+    "en": "32. [Deleted by S 100/2008 wef 27/02/2008]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H744-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART V MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Compliance with financial reporting requirements, etc."
+   },
+   "text": {
+    "en": "33. A person who is approved under section 5(2) of the Act as a commodity market, or who holds a licence granted under section 14 of the Act, and who —\n(a)is concurrently approved under section 28 of the Monetary Authority of Singapore Act (Cap. 186), or licensed under the Securities and Futures Act (Cap. 289) in respect of trading in futures contracts; and\n[S 100/2008 wef 27/02/2008]\n(b)is required under any of those Acts to maintain minimum financial requirements and to keep and furnish to the Monetary Authority of Singapore or any other person, accounting or other records, confirmation and risk disclosure statements and other documents,\nmay be treated by the Board as having complied with the equivalent financial requirements under the Act, and as having kept or furnished such equivalent records or statements or other documents referred to in the Act to the satisfaction of the Board."
+   }
+  },
+  {
+   "id": "SG-H744-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART V MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Offences"
+   },
+   "text": {
+    "en": "34. Any person who contravenes any provision of these Regulations for which no penalty is expressly provided shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000."
+   }
+  },
+  {
+   "id": "SG-H744-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART V MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Transitional provision"
+   },
+   "text": {
+    "en": "35.—(1) Notwithstanding the provisions of the Commodity Trading (Amendment) Regulations 2008 —\n(a)regulations 10 and 22(4), (6), (8), (9) and (11) in force immediately before 27th February 2008 shall continue to apply to a person who was a commodity futures broker immediately before that date; and\n(b)regulation 19 in force immediately before that date shall continue to apply to a person who was a commodity futures trading adviser immediately before that date,\nin relation to any transaction entered into before that date, for a period of 6 years from the date of the transaction.\n(2) Notwithstanding the provisions of the Commodity Trading (Amendment) Regulations 2008, regulation 25 in force immediately before 27th February 2008 shall continue to apply to a person who was a commodity futures broker immediately before that date, in relation to any transaction entered into before that date for a customer in respect of which a statement referred to in that regulation has yet to be furnished to the customer.\n(3) In this regulation, “commodity futures broker” and “commodity futures trading adviser” have the meanings given to those expressions in the Act in force immediately before 27th February 2008.\n[S 100/2008 wef 27/02/2008]"
+   }
+  },
+  {
+   "id": "SG-H744-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulations 8(2) and 9\nFees\n1. Application for or renewal of a licence as a commodity trading adviser\n$600\n2. Application for or renewal of a licence as a commodity pool operator or spot commodity pool operator\n$1,200\n3. Application for or renewal of a licence as a commodity broker or spot commodity broker\n$1,200\n4. Application for or renewal of a licence as a commodity broker’s representative, spot commodity broker’s representative, commodity pool operator’s representative, commodity trading adviser’s representative or spot commodity pool operator’s representative\n$100\n5. Inspection of or taking extracts from the register under regulation 8(2)\n$20\n6. Application for approval as a commodity market\n$2,000.\n[S 100/2008 wef 27/02/2008]"
+   }
+  },
+  {
+   "id": "SG-H744-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nFORM 1\nRegulations 19(2) and 27(4)\nCOMMODITY TRADING ACT\n(CHAPTER 48A)\nCOMMODITY TRADING REGULATIONS\nRISK DISCLOSURE STATEMENT THAT MUST BE\nFURNISHED BY A COMMODITY TRADING ADVISER\n1. This statement is provided to you in accordance with section 32(3) of the Commodity Trading Act.\n2. The intention of this statement is to inform you that the risk of loss of trading in commodity contracts can be substantial. You should therefore carefully consider whether such trading is suitable for you in light of your financial condition.\n3. In considering whether to trade or to authorise someone else to trade for you, you should be aware of the following:\n(a)if you purchase or sell a commodity contract, you may sustain a total loss of the initial margin funds and any additional funds that you deposit with your broker to establish or maintain your position. If the market moves against your position, you may be called upon by your broker to deposit a substantial amount of additional margin funds, on short notice, in order to maintain your position. If you do not provide the required funds within the prescribed time, your position may be liquidated at a loss, and you will be liable for any resulting deficit in your account;\n(b)under certain market conditions, you may find it difficult or impossible to liquidate a position;\n(c)the placement of contingent orders by you or your commodity trading adviser such as a “stop‑loss” or “stop‑limit” order, will not necessarily limit your losses to the intended amounts, since market conditions may make it difficult or impossible to execute such orders;\n(d)a “spread” position may not be less risky than a simple “long” or “short” position;\n(e)the high degree of leverage that is often obtainable in commodity contract can work against you as well as for you. The use of leverage can lead to large losses as well as gains;\n(f)in some cases, managed accounts, such as yours, are subject to substantial charges for management and advisory fees. It may be necessary for those accounts that are subject to these charges to make substantial trading profits to avoid depletion or exhaustion of their assets;\n(g)this brief statement cannot disclose all the risks and other significant aspects of the commodity markets. You should therefore carefully study trading in commodity contracts before you trade; and\n(h)a commodity trading adviser is prohibited from accepting funds in the adviser’s name from a client for trading in commodity contracts. You must place all funds for trading directly with a commodity broker or a bank account in your name.\nACKNOWLEDGMENT OF RECEIPT OF\nTHIS RISK DISCLOSURE STATEMENT\nThis acknowledges that I have received a copy of the RISK DISCLOSURE STATEMENT and understand its contents.\nSignature:_______________________\nFull Name:______________________\nDate:___________________________\n[S 100/2008 wef 27/02/2008]\nFORM 2\nRegulations 19(3) and 26(1) and (3)\nCOMMODITY TRADING ACT\n(CHAPTER 48A)\nCOMMODITY TRADING REGULATIONS\nRISK DISCLOSURE STATEMENT THAT MUST BE\nPROVIDED TO PARTICIPANTS IN A COMMODITY POOL\n1. This statement is provided in accordance with section 32(2) of the Commodity Trading Act.\n2. The intention of this statement is to inform you that the risk of loss in trading in commodity contracts can be substantial. You should therefore carefully consider whether your financial condition permits you to participate in a commodity pool. You may lose a substantial portion or even all of the money you place in the pool.\n3. In considering whether to participate in a commodity pool, you should be aware that trading in commodity contracts can quickly lead to large losses as well as gains. Such trading losses can sharply reduce the net asset value of the pool and consequently the value of your interest in the pool. Also, market conditions may make it difficult or impossible for the pool to liquidate a position.\n4. In some cases, commodity pools are subject to substantial charges for management, advisory and brokerage fees. It may be necessary for those pools that are subject to these charges to make substantial trading profits to avoid depletion or exhaustion of their assets.\n5. Foreign markets transactions may be carried out. Funds placed with a commodity pool operator for the purpose of participating in foreign markets, such as __________ or __________ transactions, may not enjoy the same level of protection as funds placed for the purpose of margining commodity contracts traded in commodity markets located in Singapore.\n6. This brief statement cannot disclose all the risks and other significant aspects of participating in a commodity pool. You should therefore carefully study commodity trading before you decide to participate in a commodity pool.\nNote:\nIf the potential liability of a participant in the pool is greater than the amount of the participant’s contribution for the purchase of an interest in the pool and profits earned thereon, whether distributed or not, the pool operator must make the additional following statement in the Risk Disclosure Statement, to be prominently disclosed as the last paragraph thereof:\n“Also, before you decide to participate in this pool, you should note that your potential liability as a participant in this pool for trading losses and other expenses of the pool is not limited to the amount of your contribution for the purchase of an interest in the pool and any profits earned thereon. A complete description of the liability of a participant in this pool is explained more fully in the Disclosure Document provided to you by the pool operator.”.\nACKNOWLEDGMENT OF RECEIPT OF\nTHIS RISK DISCLOSURE STATEMENT\nThis acknowledges that I have received a copy of the RISK DISCLOSURE STATEMENT and understand its contents.\nSignature:_______________________\nFull Name:______________________\nDate:___________________________\n[S 100/2008 wef 27/02/2008]\nFORM 3\nRegulation 28(7)\nCOMMODITY TRADING ACT\n(CHAPTER 48A)\nCOMMODITY TRADING REGULATIONS\nRISK DISCLOSURE STATEMENT REQUIRED TO BE\nFURNISHED BY A COMMODITY BROKER OR SPOT COMMODITY BROKER\n1. This statement is provided to you in accordance with section 32(1) of the Commodity Trading Act.\n2. The intention of this statement is to inform you that the risk of loss in trading in commodity contracts and in spot commodity contracts can be substantial. You should therefore carefully consider whether such trading is suitable for you in light of your financial condition.\n3. In considering whether to trade, you should be aware of the following:\n(a)Margin: You may sustain a total loss of the initial margin and any additional margins that you deposit to establish a position or maintain positions in the commodity market or spot commodity market. If the market moves against your positions, you may be called upon to deposit a substantial amount of additional margins, on short notice, in order to maintain your positions. If you do not provide the required margins within the prescribed time, your positions may be liquidated at a loss, and you will be liable for any resulting deficit in your account.\n(b)Liquidation of position: Under certain market conditions, you may find it difficult or impossible to liquidate a position.\n(c)Contingent orders: Placing contingent orders, such as “stop‑loss” or “stop‑limit” order, will not necessarily limit your losses to the intended amounts, since market conditions may make it impossible to execute such orders.\n(d)“Spread” position: A “spread” position may not be less risky than a simple “long” or “short” position.\n(e)Leverage: The high degree of leverage that is often obtainable trading in commodity contracts and spot commodity trading because of the small margin requirements can work against you as well as for you. The use of leverage can lead to large losses as well as gains.\n(f)Foreign markets transactions: Funds placed with a commodity broker or spot commodity broker for the purpose of participating in foreign markets, such as _________________________ or _________________________ transactions, may not enjoy the same level of protection as funds placed in commodity markets located in Singapore.\n4. This brief statement cannot disclose all the risks and other significant aspects of the commodity market. You should therefore carefully study trading in commodity contracts and spot commodity trading before you trade.\nACKNOWLEDGMENT OF RECEIPT OF\nTHIS RISK DISCLOSURE STATEMENT\nThis acknowledges that I received a copy of the RISK DISCLOSURE STATEMENT and understand its contents.\nSignature:_______________________\nFull Name:______________________\nDate:___________________________\n[S 100/2008 wef 27/02/2008]"
+   }
+  }
+ ]
+}

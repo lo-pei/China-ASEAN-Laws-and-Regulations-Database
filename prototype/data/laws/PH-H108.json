@@ -1,0 +1,85 @@
+{
+ "id": "PH-H108",
+ "title": {
+  "zh": null,
+  "en": "An Act to Authorize the President of the Philippines to enter into an agreement or agreements with the Government of the United States pursuant to United States Public Act Numbered Four Hundred and Fifty-Four, commonly called the \"Republic of the Philippines Military Assistance Act,\" and to issue the necessary rules and regulations to implement said act, and providing penalties for violations thereof",
+  "orig": "An Act to Authorize the President of the Philippines to enter into an agreement or agreements with the Government of the United States pursuant to United States Public Act Numbered Four Hundred and Fifty-Four, commonly called the \"Republic of the Philippines Military Assistance Act,\" and to issue the necessary rules and regulations to implement said act, and providing penalties for violations thereof"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p01",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1946-09-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 9",
+ "officialCode": null,
+ "topics": [
+  "criminal",
+  "defence"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1815,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1946/ra_9_1946.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1946/ra_9_1946.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H108-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The President of the Philippines is hereby authorized to enter into agreement or agreements with the President of the United States, or with any of the agencies or instrumentalities of the Government of the United States, regarding military assistance to the armed forces of the Republic of the Philippines, in the form of transfer of property and information, giving of technical advice and lending of personnel to instruct and train them, pursuant to the provisions of United States Public Act Numbered Four hundred and fifty-four, commonly called the \"Republic of the Philippines Military Assistance Act,\" under the terms and conditions provided in this Act."
+   }
+  },
+  {
+   "id": "PH-H108-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The President of the Philippines is hereby authorized to issue such rules and regulations as may be necessary and comparable to those customarily made by the United States, for the security of any article, plan or information received or acquired under the terms of this Act."
+   }
+  },
+  {
+   "id": "PH-H108-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Any officer, employee or agent of the Republic of the Philippines who shall, directly or indirectly, permit the use of any property received under the provisions of this Act or shall disclose any plan, specification or other information pertaining thereto, or any technical information furnished, for any purpose other than as set forth in the United States Public Act Numbered Four hundred and fifty-four or who shall violate the security of any plan or information received under the terms of this Act shall be punished as provided in the Articles of War (Commonwealth Act No. 408) or in Espionage Law (Commonwealth Act No. 616) or with imprisonment for not more than ten years or a fine of not more than ten thousand pesos, or both, in the discretion of the court, whichever of said penalties is higher."
+   }
+  },
+  {
+   "id": "PH-H108-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: September 2, 1946"
+   }
+  }
+ ]
+}

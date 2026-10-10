@@ -1,0 +1,81 @@
+{
+ "id": "SG-H1073",
+ "title": {
+  "zh": null,
+  "en": "Cybersecurity (Confidential Treatment of Information) Regulations 2018",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p14",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CA2018-S520-2018",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1679,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CA2018-S520-2018?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1073-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Cybersecurity (Confidential Treatment of Information) Regulations 2018 and come into operation on 31 August 2018."
+   }
+  },
+  {
+   "id": "SG-H1073-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Specified person"
+   },
+   "text": {
+    "en": "2. In these Regulations, “specified person” means a person who is —\n(a)the Commissioner, the Deputy Commissioner, an Assistant Commissioner, a cybersecurity officer or a person appointed or employed to assist the Commissioner;\n(b)an authorised officer appointed under section 6;\n(c)a member of an Appeals Advisory Panel established under section 18;\n(d)a cybersecurity technical expert appointed under section 22;\n(e)an assistant licensing officer; or\n(f)the Minister, or a person appointed or employed to assist the Minister."
+   }
+  },
+  {
+   "id": "SG-H1073-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Request for confidential treatment of information"
+   },
+   "text": {
+    "en": "3.—(1) For the purpose of section 43(5) of the Act, a claim that any information or, in the case of a document, any information contained in a document, furnished to a specified person is confidential information must —\n(a)identify the information claimed to be confidential information; and\n(b)be accompanied by a written statement giving reasons why the information is confidential information.\n(2) Without limiting paragraph (1), a claim relating to a document must be accompanied by —\n(a)a confidential version of the document containing and clearly identifying the information claimed to be confidential information; and\n(b)a redacted version of the document, in which the information claimed to be confidential information has been removed in such manner as will preserve the readability of the redacted version of the document.\n(3) If a person makes a claim under section 43(5) of the Act to a specified person that does not comply with paragraph (1) or (2), the specified person may disregard the claim."
+   }
+  }
+ ]
+}

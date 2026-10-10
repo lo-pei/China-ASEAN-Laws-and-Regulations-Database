@@ -1,0 +1,1322 @@
+{
+ "id": "SG-H1299",
+ "title": {
+  "zh": null,
+  "en": "Energy Conservation (Energy Management Practices) Regulations 2013",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p16",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ECA2012-S246-2013",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 82,
+ "chars": 163947,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ECA2012-S246-2013?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 82 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 5 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1299-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Energy Conservation (Energy Management Practices) Regulations 2013 and shall come into operation on 22nd April 2013."
+   }
+  },
+  {
+   "id": "SG-H1299-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“chief executive” means any person, by whatever name described, who is in the direct employment of, or acting for or by arrangement with, a corporation, and is principally responsible for the management and conduct of the business of the corporation;\n“energy” has the same meaning as in the Energy Conservation (Registrable Corporations) Order 2013 (G.N. No. S 248/2013);\n“energy commodity” has the same meaning as in the Energy Conservation (Registrable Corporations) Order 2013;\n“energy consumption” has the same meaning as “consumption of energy” in the Energy Conservation (Registrable Corporations) Order 2013;\n“energy-consuming system” means any piece of equipment or pieces of equipment working together to perform a task or support one or more processes which consume fuel or energy commodities, including but not limited to any of the following:\n(a)fuel combustion system;\n(b)heating, ventilation and air-conditioning system (including air handling system);\n(c)cooling system;\n(d)system used to produce or generate energy commodity or commodities;\n(e)system used for bonding, separation, conversion, treatment, testing or processing;\n(f)system used for pumping, movement, transportation, mixing or recovery;\n“feedstock” refers to any fuel or energy commodity that is used as raw material to produce products containing carbon;\n“greenhouse gas” refers to any of the gases as specified in the First Schedule;\n“manufacturing and manufacturing-related services” has the meaning given by paragraph 2 of the Energy Conservation (Registrable Corporations) Order 2013 (G.N. No. S 248/2013);\n[S 972/2020 wef 01/12/2020]\n“registrable corporation” has the same meaning as in the Energy Conservation (Registrable Corporations) Order 2013;\n“relevant business activity” means a business activity under the operational control of the registered corporation that —\n(a)resulted in the corporation’s registration; or\n(b)would have qualified the corporation as a registrable corporation if it was not already so registered;\n“specific energy consumption” means a measure of the energy consumption of the business activity or energy-consuming system, as the case may be, that is expressed —\n(a)by reference to a unit of production or service that is reasonably relevant to the business activity or energy-consuming system, its energy use, or both; and\n(b)providing a metric (number) and a measure (production unit or unit relevant to the service);\n[S 972/2020 wef 01/12/2020]\n“supply of electricity, gas, steam, compressed air and chilled water for air-conditioning” has the meaning given by paragraph 2 of the Energy Conservation (Registrable Corporations) Order 2013;\n[S 972/2020 wef 01/12/2020]\n“water supply and sewage and waste management” has the meaning given by paragraph 2 of the Energy Conservation (Registrable Corporations) Order 2013.\n[S 972/2020 wef 01/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H1299-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Circumstances in which activity or activities (including ancillary activities) will form part of single undertaking or enterprise"
+   },
+   "text": {
+    "en": "3.—(1) For the purposes of section 3(1)(b) of the Act, this regulation specifies the circumstances in which an activity, or a series of activities, will form part of a single undertaking or enterprise.\n(2) Activities that together produce one or more products or services (referred to in this regulation as the primary production process) will form part of a single undertaking or enterprise if the activities take place at a single site.\n(3) If there is another activity or series of activities (referred to in this regulation as the other production process) that —\n(a)is under the overall control of the corporation that has overall control of the primary production process; and\n(b)produces one or more other products or services for the primary production process (which are not used solely in the primary production process),\nthen provided that other production process takes place at the same site as the primary production process, all of the activities in the primary production process and the other production process will form part of a single undertaking or enterprise."
+   }
+  },
+  {
+   "id": "SG-H1299-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Activities to be attributable to same industry sector as principal activity"
+   },
+   "text": {
+    "en": "4.—(1) For the purposes of section 3(2) of the Act, this regulation specifies what activities that form part of a single undertaking or enterprise must be attributed to a particular industry sector.\n(2) If activities will form part of a single undertaking or enterprise under regulation 3, then unless paragraph (3) applies, all of the activities are attributable to the particular industry sector that the principal activity for the undertaking or enterprise is attributable to.\n(3) In this regulation, “principal activity”, in relation to a single undertaking or enterprise, means the activity that —\n(a)results in the production of a product or service that is produced for sale on the market; and\n(b)produces the most value for the single undertaking or enterprise out of any of the activities forming part of the single undertaking or enterprise."
+   }
+  },
+  {
+   "id": "SG-H1299-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION OF REGISTRABLE CORPORATION"
+   },
+   "heading": {
+    "en": "Registration of registrable corporation"
+   },
+   "text": {
+    "en": "5.—(1) An application to be registered as a registered corporation shall be made —\n(a)using the relevant form provided in the electronic service provided at http://www.nea.gov.sg; and\n(b)in the manner specified by the Director-General.\n(2) Every application referred to in paragraph (1) shall be accompanied by the following information and documents:\n(a)registered name of the corporation;\n(b)Singapore unique entity number of the corporation;\n(c)principal place of business;\n(d)name of the chief executive, and his designation, contact details and identification number;\n(e)name of corporation representative, and his designation, contact details and identification number;\n(f)name of energy manager(s) (if any), and his designation, contact details and identification number;\n(g)address of site of each business activity that qualifies the corporation as a registrable corporation, and that site’s electricity and gas account number (if any);\n(h)energy bills and other records (if any) of energy consumption, showing that the energy use of the business activity has attained the energy use threshold in at least 2 out of the 3 preceding calendar years;\n(i)the business profile of the corporation (if any);\n(j)signed statement from the chief executive, that the information submitted is accurate and complete; and\n(k)such other information or document as may be specified in the form provided or as may be required by the Director-General."
+   }
+  },
+  {
+   "id": "SG-H1299-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION OF REGISTRABLE CORPORATION"
+   },
+   "heading": {
+    "en": "Circumstances in which registered corporation may apply to cancel registration"
+   },
+   "text": {
+    "en": "6.—(1) For the purposes of section 25(1)(c) of the Act, this regulation specifies the circumstances in which a registered corporation may apply to the Director-General to cancel its registration.\n(2) A registered corporation may apply to cancel its registration if it has ceased its business activity and has no intention of resuming its business activity within the next 3 years."
+   }
+  },
+  {
+   "id": "SG-H1299-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION OF REGISTRABLE CORPORATION"
+   },
+   "heading": {
+    "en": "Application to cancel registration"
+   },
+   "text": {
+    "en": "7.—(1) For the purposes of section 25(1) of the Act and regulation 6, an application for cancellation of registration as a registered corporation shall be made —\n(a)using the relevant form provided in the electronic service provided at http://www.nea.gov.sg; and\n(b)in the manner specified by the Director-General.\n(2) Every application referred to in paragraph (1) shall be accompanied by the following information and documents:\n(a)registered name of the corporation;\n(b)Singapore unique entity number of the corporation (if any);\n(c)address of site of each relevant business activity;\n(d)grounds for cancelling the registration;\n(e)details of contact person (name, designation and contact details);\n(f)energy bills and other records (if any) showing the relevant energy consumption data, if the ground for cancelling the registration is the ground referred to in section 25(1)(b) of the Act;\n(g)notice of cessation of business activity submitted by the chief executive, if the ground for cancelling the registration is the ground referred to in regulation 6(2);\n(h)signed statement from the chief executive, that the information submitted is accurate and complete; and\n(i)such other information or documents as the Director-General may require."
+   }
+  },
+  {
+   "id": "SG-H1299-A7.027",
+   "no": 7.027,
+   "noLabel": {
+    "en": "7AA."
+   },
+   "chapter": {
+    "en": "PART 2AA REGISTRATION OF REGISTRABLE RELEVANT PERSON"
+   },
+   "heading": {
+    "en": "Definitions of this Part"
+   },
+   "text": {
+    "en": "7AA. In this Part —\n“CSC”, for a new building, means a certificate of statutory completion issued by the Commissioner of Building Control under the Building Control Act 1989 for the new building and, where more than one CSC is issued for the new building, the first CSC so issued;\n“new building” and “prescribed system” have the meanings given by regulation 7F;\n“TOP”, for a new building, means a temporary occupation permit issued by the Commissioner of Building Control under the Building Control Act 1989 for the new building and, where more than one TOP is issued for the new building, the first TOP so issued.\n[S 719/2025 wef 01/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.028",
+   "no": 7.028,
+   "noLabel": {
+    "en": "7AB."
+   },
+   "chapter": {
+    "en": "PART 2AA REGISTRATION OF REGISTRABLE RELEVANT PERSON"
+   },
+   "heading": {
+    "en": "Registration of registrable relevant person"
+   },
+   "text": {
+    "en": "7AB.—(1) For the purposes of section 23A(1) of the Act, an application by a registrable relevant person to be registered as a registered relevant person must be made —\n(a)using the relevant form provided in the electronic service provided at https://www.nea.gov.sg; and\n(b)in the manner specified by the Director-General.\n(2) An application mentioned in paragraph (1) must be accompanied by the following information and documents:\n(a)registered name of the registrable relevant person;\n(b)Singapore unique entity number of the registrable relevant person (if any);\n(c)principal place of business of the registrable relevant person;\n(d)name of the chief executive of the registrable relevant person and his or her designation, contact details and identification number;\n(e)name of at least one representative of the registrable relevant person and his or her designation, contact details and identification number;\n(f)address of site of each business activity or premises under the operational control of the registrable relevant person, which is served by a prescribed system (or any part of the system);\n(g)the business profile of the registrable relevant person (if any);\n(h)for any premises which is a new building under the operational control of the registrable relevant person and is served by a prescribed system (or any part of the system) —\n(i)the TOP or CSC (whichever is issued earlier) for the premises; and\n(ii)the date on which the TOP or CSC was issued (whichever is issued earlier);\n(i)signed statement from the chief executive of the registrable relevant person stating that the information submitted is accurate and complete;\n(j)any other information or document that may be specified in the form provided or that the Director-General may require.\n[S 719/2025 wef 01/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.029",
+   "no": 7.029,
+   "noLabel": {
+    "en": "7AC."
+   },
+   "chapter": {
+    "en": "PART 2AA REGISTRATION OF REGISTRABLE RELEVANT PERSON"
+   },
+   "heading": {
+    "en": "Period of application for registration for registrable relevant person"
+   },
+   "text": {
+    "en": "7AC. A registrable relevant person (X) who has operational control over any premises mentioned in regulation 7G(a) or any business activity mentioned in regulation 7G(b), which is served by a prescribed system (or any part of the system), must apply to the Director-General to be registered as a registered relevant person in accordance with the Fourth Schedule.\n[S 719/2025 wef 01/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.03",
+   "no": 7.03,
+   "noLabel": {
+    "en": "7AD."
+   },
+   "chapter": {
+    "en": "PART 2AA REGISTRATION OF REGISTRABLE RELEVANT PERSON"
+   },
+   "heading": {
+    "en": "Prescribed circumstances for purposes of section 25(1A)(c) of Act"
+   },
+   "text": {
+    "en": "7AD. For the purposes of section 25(1A)(c) of the Act, the prescribed circumstances, in relation to a registered relevant person, are that the registered relevant person —\n(a)has ceased or will cease to have operational control over the registered relevant person’s business activity or premises; and\n(b)has no intention of resuming operational control over the registered relevant person’s business activity or premises for the next 3 years.\n[S 719/2025 wef 01/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.031",
+   "no": 7.031,
+   "noLabel": {
+    "en": "7AE."
+   },
+   "chapter": {
+    "en": "PART 2AA REGISTRATION OF REGISTRABLE RELEVANT PERSON"
+   },
+   "heading": {
+    "en": "Application to cancel registration"
+   },
+   "text": {
+    "en": "7AE.—(1) For the purposes of section 25(1A) of the Act, an application by a registered relevant person to cancel the registered relevant person’s registration must be made —\n(a)using the relevant form provided in the electronic service provided at https://www.nea.gov.sg; and\n(b)in the manner specified by the Director-General.\n(2) An application mentioned in paragraph (1) must be accompanied by the following information and documents:\n(a)registered name of the registered relevant person;\n(b)Singapore unique entity number of the registered relevant person (if any);\n(c)address of site of each business activity or premises under the operational control of the registered relevant person, which is served by a prescribed system (or any part of the system);\n(d)grounds for cancelling the registration;\n(e)details of a contact person (name, designation and contact details);\n(f)records to show that the prescribed system (or any part of the system) serving the business activity or premises under the operational control of the registered relevant person is or is to be decommissioned, if the ground for cancelling the registration is the ground mentioned in section 25(1A)(b) of the Act;\n(g)notice of cessation of business activity signed by the chief executive of the registered relevant person, if the ground for cancelling the registration is the ground mentioned in regulation 7AD;\n(h)signed statement from the chief executive of the registered relevant person stating that the information submitted under this paragraph is accurate and complete;\n(i)any other information or document that the Director-General may require.\n[S 719/2025 wef 01/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.001",
+   "no": 7.001,
+   "noLabel": {
+    "en": "7A."
+   },
+   "chapter": {
+    "en": "PART 2A ENERGY MANAGEMENT PRACTICES FOR NEW VENTURES"
+   },
+   "heading": {
+    "en": "Definitions of this Part"
+   },
+   "text": {
+    "en": "7A. In this Part, unless the context otherwise requires —\n“best available technology” means technology that results in the best energy efficiency, use and consumption;\n“energy” has the same meaning as in paragraph 2 of the Energy Conservation (Registrable Corporations) Order 2013 (G.N. No. S 248/2013);\n“energy and material flows” means a method of computing —\n(a)the energy and materials provided for and released from the processes and energy‑consuming systems in a business activity; and\n(b)the energy conversions and energy use within the processes and energy‑consuming systems in the business activity;\n“energy commodity” has the same meaning as in paragraph 2 of the Energy Conservation (Registrable Corporations) Order 2013;\n[Deleted by S 972/2020 wef 01/12/2020]\n“post‑assessment design” means a design of a new venture facility that includes any energy efficiency opportunity identified in an energy efficiency opportunities assessment conducted in respect of the new venture.\n[S 972/2020 wef 01/12/2020]\n[Deleted by S 972/2020 wef 01/12/2020]\n[Deleted by S 972/2020 wef 01/12/2020]\n[S 605/2018 wef 01/10/2018]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.002",
+   "no": 7.002,
+   "noLabel": {
+    "en": "7B."
+   },
+   "chapter": {
+    "en": "PART 2A ENERGY MANAGEMENT PRACTICES FOR NEW VENTURES"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "7B.—(1) This Part applies to a new venture of any person (whether or not a registered corporation) that is a business activity where —\n(a)the estimated total energy to be consumed by the business activity equals or exceeds the threshold of 54 terajoules per calendar year, derived from one or more types of fuel or energy commodity specified in the First Schedule to the Energy Conservation (Registrable Corporations) Order 2013; and\n(b)the business activity is carried out at a single site and is attributable to one of the following industry sectors:\n(i)manufacturing and manufacturing‑related services;\n(ii)supply of electricity, gas, steam, compressed air and chilled water for air‑conditioning;\n(iii)water supply and sewage and waste management.\n(2) For the purposes of paragraph (1)(a), the estimated total energy to be consumed by the business activity —\n(a)must be calculated on the basis that the business activity is carried out at full capacity for 24 hours every day throughout the calendar year; and\n(b)must be derived from all fuel and energy commodities estimated to be used to provide or produce the energy to be consumed by the business activity, but excludes energy estimated to be produced from any fuel or energy commodity that is already accounted for in the estimated total figure.\n(3) If an estimated quantity of fuel to be used is to be converted to an amount of energy in joules, the conversion is to be done using —\n(a)the default net calorific values set out in the Second Schedule to the Energy Conservation (Registrable Corporations) Order 2013; or\n(b)the net calorific values specified by the person mentioned in paragraph (1) and approved by the Director‑General under paragraph (7).\n(4) If an estimated quantity of an energy commodity to be used is to be converted to an amount of energy in joules, the conversion is to be done using —\n(a)the default energy content values set out in the Third Schedule to the Energy Conservation (Registrable Corporations) Order 2013; or\n(b)the energy content values specified by the person mentioned in paragraph (1) and approved by the Director‑General under paragraph (7).\n(5) A person mentioned in paragraph (1) seeking to specify the net calorific value of a fuel must submit to the Director‑General a report by a laboratory containing the results of a test conducted in accordance with the relevant ASTM International, International Organization for Standardization (ISO) or other testing standards approved by the Director‑General to ascertain the net calorific value of the fuel concerned.\n(6) A person mentioned in paragraph (1) seeking to specify the energy content value of an energy commodity must submit to the Director‑General the method by which the person derived the energy content value.\n(7) The Director‑General may approve or reject the net calorific value or the energy content value sought to be specified by a person under paragraph (5) or (6), as the case may be.\n[S 605/2018 wef 01/10/2018]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.003",
+   "no": 7.003,
+   "noLabel": {
+    "en": "7C."
+   },
+   "chapter": {
+    "en": "PART 2A ENERGY MANAGEMENT PRACTICES FOR NEW VENTURES"
+   },
+   "heading": {
+    "en": "Energy efficiency opportunities assessment for new ventures"
+   },
+   "text": {
+    "en": "7C.—(1) A person required to conduct an energy efficiency opportunities assessment for a business activity of a new venture under this Part must determine the following:\n(a)the methods and processes of the business activity to be assessed;\n(b)the energy‑consuming systems of the business activity to be assessed;\n(c)the objective of the assessment;\n(d)the time period for the assessment;\n(e)the methods and processes to be used to conduct the assessment;\n(f)the individuals conducting the assessment, including each individual’s role and experience.\n(2) For the purpose of paragraph (1)(c), the objective of the energy efficiency opportunities assessment must include —\n(a)identifying the energy efficiency opportunities that are available in respect of the business activity, including taking into account any dependencies in respect of the processes and energy‑consuming systems of the business activity, after reviewing —\n(i)the optimum methods or processes of the business activity;\n(ii)the proposed energy‑consuming systems estimated to consume a total of at least 80% of the estimated annual energy consumption of the business activity, including the proposed location, arrangement and best operating practices of these energy‑consuming systems; and\n(iii)available alternative technology choices (including best available technology) for the business activity, and the proposed energy‑consuming systems mentioned in sub‑paragraph (ii);\n(b)assessing the technical and economic feasibility of implementing each such energy efficiency opportunity based on a comparison, between a case if the energy efficiency opportunity is implemented and a case if the efficiency opportunity is not implemented, of all the following:\n(i)the estimated investment and operation cost;\n(ii)the estimated annual energy savings;\n(iii)the estimated specific energy consumption;\n(iv)the estimated annual greenhouse gas emissions;\n(v)the estimated financial savings;\n(vi)the estimated returns on investment;\n(vii)other criteria, including non‑energy related benefits such as greater productivity or improved reliability, as may be appropriate; and\n(c)determining which such energy efficiency opportunities are to be included in the post‑assessment design of the new venture facility.\n(3) If any proposed energy‑consuming system mentioned in paragraph (2)(a)(ii) is replaced with another proposed energy‑consuming system during or after the energy efficiency opportunities assessment, a further energy efficiency opportunities assessment must be conducted in respect of the replacement energy‑consuming system —\n(a)if the replacement energy‑consuming system forms part of the proposed energy‑consuming systems estimated to consume a total of at least 80% of the estimated annual energy consumption of the business activity; and\n(b)in accordance with this regulation.\n(4) The energy efficiency opportunities assessment must be conducted —\n(a)on the basis that the business activity is carried out at full capacity for 24 hours every day throughout the calendar year; and\n(b)on the basis of sound and reliable information or documents, including information or documents from the supplier of the energy‑consuming systems mentioned in paragraph (2)(a)(ii) and replacement energy‑consuming system mentioned in paragraph (3), if any.\n[S 605/2018 wef 01/10/2018]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.004",
+   "no": 7.004,
+   "noLabel": {
+    "en": "7D."
+   },
+   "chapter": {
+    "en": "PART 2A ENERGY MANAGEMENT PRACTICES FOR NEW VENTURES"
+   },
+   "heading": {
+    "en": "Energy efficiency opportunities assessment report for new ventures"
+   },
+   "text": {
+    "en": "7D.—(1) The report on the energy efficiency opportunities assessment conducted under regulation 7C must include the following:\n(a)an executive summary that summarises the important findings of the energy efficiency opportunities assessment;\n(b)general information of the business activity assessed, including —\n(i)the type of business activity;\n(ii)the intended outputs of the business activity; and\n(iii)the estimated full capacity of the business activity and intended outputs of the business activity;\n(c)the matters mentioned in regulation 7C(1) (read with regulation 7C(2)), (3) and (4);\n(d)information about the post‑assessment design of the new venture facility within which the business activity assessed is to be conducted, comprising —\n(i)the proposed layout of the new venture facility;\n(ii)the proposed process flow diagram and energy and material flows in respect of the business activity;\n(iii)a description, and the proposed location and arrangement, of every proposed energy‑consuming system estimated to consume a total of at least 80% of the estimated annual energy consumption of the business activity;\n(iv)the estimated annual quantity and unit of measure, of each type of fuel or energy commodity to be used by the business activity, including each energy‑consuming system mentioned in sub‑paragraph (iii);\n(v)the net calorific value of each type of fuel and energy content value of each type of energy commodity to be used by the business activity;\n(vi)the estimated annual quantity and unit of measure of each intended output of the business activity, including from each energy‑consuming system mentioned in sub‑paragraph (iii);\n(vii)the estimated specific energy consumption of the business activity, including by each energy‑consuming system mentioned in sub‑paragraph (iii); and\n(viii)the estimated annual greenhouse gas emissions of the business activity, including from each energy‑consuming system mentioned in sub‑paragraph (iii);\n(e)the reasons for including or excluding the energy efficiency opportunities mentioned in regulation 7C(2)(a) in the post-assessment design of the new venture facility;\n(f)if any energy efficiency opportunity mentioned in regulation 7C(2)(a) is excluded in the post‑assessment design of the new venture facility —\n(i)the processes and energy‑consuming systems of the business activity in respect of the energy efficiency opportunity so excluded; and\n(ii)a comparison of the information mentioned in paragraph (1)(d)(iv) to (viii) between the processes and energy‑consuming systems mentioned in sub‑paragraph (i) so excluded with the processes and energy‑consuming systems included in the post‑assessment design;\n(g)if any energy efficiency opportunity mentioned in regulation 7C(2)(a) is included in the post‑assessment design of the new venture facility —\n(i)the processes and energy‑consuming systems of the business activity in respect of the energy efficiency opportunity so included; and\n(ii)a comparison of the information mentioned in paragraph (1)(d)(iv) to (viii) between the processes and energy‑consuming systems mentioned in sub‑paragraph (i) so included with any processes and energy‑consuming systems reviewed but excluded in the post‑assessment design of the new venture facility, if any;\n(h)such other information or document as the Director‑General may require.\n(2) The report specified in paragraph (1) —\n(a)must be signed by the person principally responsible for conducting the energy efficiency opportunities assessment;\n(b)must be endorsed by the chief executive of the person mentioned in regulation 7B(1);\n(c)must be made —\n(i)using the relevant form provided in the electronic service provided at http://www.nea.gov.sg; and\n(ii)in the manner specified by the Director‑General; and\n(d)may be submitted by an employee of, and authorised by, the person mentioned in regulation 7B(1).\n(3) Every application under section 31B(2) of the Act for a waiver of the application of section 26A(1) or (2) of the Act must —\n(a)be in writing;\n(b)state the reasons for the person’s inability to comply with the requirements; and\n(c)be accompanied by supporting documents.\n[S 605/2018 wef 01/10/2018]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.005",
+   "no": 7.005,
+   "noLabel": {
+    "en": "7E."
+   },
+   "chapter": {
+    "en": "PART 2A ENERGY MANAGEMENT PRACTICES FOR NEW VENTURES"
+   },
+   "heading": {
+    "en": "Records to be kept for new ventures"
+   },
+   "text": {
+    "en": "7E.—(1) A person mentioned in regulation 7B(1) must keep and maintain complete and accurate records of the information and documents in respect of the following for at least 5 years after the date of the certificate of statutory completion issued in respect of the new venture facility:\n(a)the matters mentioned in regulation 7C(1);\n(b)the energy efficiency opportunities identified in regulation 7C(2)(a);\n(c)the assessment of the technical and economic feasibility of implementing each energy efficiency opportunity mentioned in regulation 7C(2)(b);\n(d)the determination of the energy efficiency opportunities to be included in the post‑assessment design of the new venture facility;\n(e)any other matters relied on by the person in preparing the report submitted under regulation 7D.\n(2) In this regulation, “certificate of statutory completion” has the same meaning as in section 2(1) of the Building Control Act 1989.\n[S 619/2022 wef 31/12/2021]\n[S 605/2018 wef 01/10/2018]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.006",
+   "no": 7.006,
+   "noLabel": {
+    "en": "7F."
+   },
+   "chapter": {
+    "en": "PART 2B MINIMUM ENERGY EFFICIENCY STANDARDS FOR ENERGY-CONSUMING SYSTEMS"
+   },
+   "heading": {
+    "en": "Definitions of this Part"
+   },
+   "text": {
+    "en": "7F. In this Part, unless the context otherwise requires —\n“antifreeze” means any additive that prevents water from freezing by depressing the freezing point of water;\n“assessment report” means a report mentioned in section 26B(2)(b)(i) or (3)(b) of the Act;\n[S 719/2025 wef 01/12/2025]\n“booster pump” means a pump that is installed on a chilled water pipeline to overcome a drop in pressure in the chilled water pipeline, to prevent over-pressurising chilled water in any parallel pipeline;\n“building” has the meaning given by section 2 of the Planning Act 1998;\n[S 719/2025 wef 01/12/2025]\n“certificate of statutory completion” has the meaning given by section 2(1) of the Building Control Act 1989;\n[S 619/2022 wef 31/12/2021]\n“cooling tower” means any device in which atmospheric air is passed through sprayed water to lower the temperature of the sprayed water by evaporative cooling;\n“development” has the meaning given by section 3 of the Planning Act 1998;\n[S 719/2025 wef 01/12/2025]\n“end-to-end uncertainty”, in relation to a parameter of a prescribed system, means the combined uncertainty of —\n(a)every prescribed measuring instrument installed for the prescribed system for measuring that parameter; and\n[S 719/2025 wef 01/12/2025]\n(b)any accessory needed for the operation of those prescribed measuring instruments, including a current or voltage transformer;\n[S 719/2025 wef 01/12/2025]\n“energy management system”, in relation to a prescribed system, means a system that processes, analyses, displays and stores data collected from prescribed measuring instruments installed for the prescribed system;\n[S 719/2025 wef 01/12/2025]\n“energy performance”, in relation to a prescribed system, means —\n(a)the ratio of electrical power consumption (measured in kilowatts) to the refrigeration output (measured in kilowatts) of the prescribed system; or\n(b)the ratio of electrical energy consumption (measured in kilowatt-hours) to the refrigeration energy output (measured in kilowatt-hours) of the prescribed system;\n“gross floor area” has the same meaning as “floor area” in rule 2 of the Planning (Development) Rules 2008 (G.N. No. S 113/2008);\n[S 619/2022 wef 01/08/2022]\n“kWc”, in relation to a prescribed system, means the refrigeration output of the prescribed system, expressed in kilowatts;\n“monitoring report” means a report mentioned in section 26B(2)(b)(ii) of the Act;\n[S 719/2025 wef 01/12/2025]\n“new building” means a building or part of a building —\n(a)that is developed (other than by way of retrofitting) in either of the following circumstances:\n(i)where an application for planning permission for the development was or is submitted on or after 1 December 2020 under the Planning Act 1998;\n(ii)where the Minister charged with the responsibility for national development has authorised or authorises, on or after 1 December 2020 under section 21(6) of the Planning Act 1998, the carrying out of the development subject to a condition that plans of the development must be lodged with the competent authority before the development commences; and\n(b)which is served by a prescribed system that serves only the building or part of the building;\n[S 719/2025 wef 01/12/2025]\n[Deleted by S 719/2025 wef 01/12/2025]\n“prescribed measuring instrument” means a measuring instrument mentioned in regulation 7J(1);\n[S 719/2025 wef 01/12/2025]\n“prescribed system” means an energy-consuming system mentioned in regulation 7H;\n“qualified person” means —\n(a)an individual who is certified by the Institution of Engineers, Singapore as an energy efficiency opportunities assessor with systems-specific experience in chilled water systems; or\n(b)a professional engineer registered under the Professional Engineers Act 1991 in the branch of mechanical engineering, electrical engineering or chemical engineering, who has in force a practising certificate issued under that Act;\n[S 619/2022 wef 31/12/2021]\n“retrofit” has the meaning given by section 2(1) of the Building Control Act 1989;\n[S 719/2025 wef 01/12/2025]\n“specified AHRI Standard” means the AHRI Standard 551/591-SI-2018 published by the Air-Conditioning, Heating and Refrigeration Institute;\n“SS 591/2013” means the Singapore Standard 591:2013 — Code of Practice for long term measurement of central chilled water system energy efficiency, published by the Enterprise Singapore Board;\n“temporary occupation permit” has the meaning given by section 2(1) of the Building Control Act 1989;\n[S 619/2022 wef 31/12/2021]\n“water-cooled chilled water system” means a system comprising one or more of each of the following components:\n(a)a water-cooled chiller;\n(b)a chilled water pump for a water-cooled chiller;\n(c)a condenser water pump;\n(d)a cooling tower,\nwith interconnections and accessories (including thermal storage tanks, if any), operating together to produce chilled water, whether or not each component is situated in the same premises, and excludes any booster pump and other energy-consuming systems that use the chilled water produced, either directly or indirectly;\n“water-cooled chiller” means a factory-made and prefabricated assembly (whether or not it is shipped as one package) comprising one or more of each of the following:\n(a)a compressor;\n(b)a water-cooled condenser;\n(c)an evaporator,\nwith interconnections and accessories, designed to produce chilled water by using a vapour compression refrigeration cycle to remove heat from chilled water in the evaporator and reject the heat to water in the condenser;\n“water-cooled condenser” means a refrigeration system component where refrigerant vapour is condensed and the heat rejected to water, resulting in a rise in water temperature.\n[S 972/2020 wef 01/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.007",
+   "no": 7.007,
+   "noLabel": {
+    "en": "7G."
+   },
+   "chapter": {
+    "en": "PART 2B MINIMUM ENERGY EFFICIENCY STANDARDS FOR ENERGY-CONSUMING SYSTEMS"
+   },
+   "heading": {
+    "en": "Relevant person"
+   },
+   "text": {
+    "en": "7G. Section 26B(1) of the Act applies to a corporation that has operational control of —\n(a)any premises that are located within any land that is zoned as a Business 1 or Business 2 zone in the Master Plan under the Planning Act 1998; or\n[S 619/2022 wef 31/12/2021]\n(b)a business activity that is attributable to any of the following industry sectors:\n(i)manufacturing and manufacturing-related services;\n(ii)supply of electricity, gas, steam, compressed air and chilled water for air-conditioning;\n(iii)water supply and sewage and waste management.\n[S 972/2020 wef 01/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.008",
+   "no": 7.008,
+   "noLabel": {
+    "en": "7H."
+   },
+   "chapter": {
+    "en": "PART 2B MINIMUM ENERGY EFFICIENCY STANDARDS FOR ENERGY-CONSUMING SYSTEMS"
+   },
+   "heading": {
+    "en": "Prescribed energy-consuming system"
+   },
+   "text": {
+    "en": "7H. For the purposes of section 26B(2) of the Act, the prescribed energy-consuming system is a water-cooled chilled water system that —\n(a)is electrically driven;\n(b)comprises at least one chiller that produces, or the registered relevant person intends to be used to produce, chilled water without requiring the use of antifreeze;\n[S 719/2025 wef 01/12/2025]\n(c)has a total refrigeration capacity of 1055 kWc or more when rated —\n(i)at standard rating conditions in accordance with the specified AHRI Standard; or\n(ii)in accordance with the operational conditions required for the business activity; and\n[S 719/2025 wef 01/12/2025]\n(d)generates, or the registered relevant person intends to be used to generate, chilled water at a temperature of 3°C or higher,\nbut excludes any chiller or part of a chiller comprised in the water-cooled chilled water system that produces, or that the registered relevant person intends to be used for the production of, chilled water requiring the use of antifreeze, and any chilled water pump for that chiller or part and interconnections to the pump.\n[S 972/2020 wef 01/12/2020]\n[S 719/2025 wef 01/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.009",
+   "no": 7.009,
+   "noLabel": {
+    "en": "7I."
+   },
+   "chapter": {
+    "en": "PART 2B MINIMUM ENERGY EFFICIENCY STANDARDS FOR ENERGY-CONSUMING SYSTEMS"
+   },
+   "text": {
+    "en": "7I. [Deleted by S 719/2025 wef 01/12/2025]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1299-A7.01",
+   "no": 7.01,
+   "noLabel": {
+    "en": "7J."
+   },
+   "chapter": {
+    "en": "PART 2B MINIMUM ENERGY EFFICIENCY STANDARDS FOR ENERGY-CONSUMING SYSTEMS"
+   },
+   "heading": {
+    "en": "Prescribed measuring instruments"
+   },
+   "text": {
+    "en": "7J.—(1) For the purposes of section 26B(2) of the Act, the following are the prescribed measuring instruments for the purpose of assessing the energy efficiency of a prescribed system:\n(a)subject to paragraph (2) —\n(i)a permanent temperature sensor to measure the chilled water supply temperature of each water-cooled chiller in the prescribed system; and\n[S 719/2025 wef 01/12/2025]\n(ii)a permanent temperature sensor to measure the chilled water return temperature of each water-cooled chiller in the prescribed system;\n[S 719/2025 wef 01/12/2025]\n(b)subject to paragraphs (2) and (4), a permanent temperature sensor to measure the condenser water supply temperature of each water-cooled chiller in the prescribed system;\n[S 719/2025 wef 01/12/2025]\n(c)subject to paragraphs (2) and (4), a permanent temperature sensor to measure the condenser water return temperature of each water-cooled chiller in the prescribed system;\n[S 719/2025 wef 01/12/2025]\n(d)subject to paragraph (2), one or more permanent flowmeters by or from which the flowrate of the chilled water in each water-cooled chiller in the prescribed system may be measured or derived;\n[S 719/2025 wef 01/12/2025]\n(e)subject to paragraphs (2) and (4), one or more permanent flowmeters by or from which the flowrate of the condenser water in each water-cooled chiller in the prescribed system may be measured or derived;\n[S 719/2025 wef 01/12/2025]\n(f)one or more permanent power meters by which the total electrical energy and electrical power consumption of each of the following groups of equipment may be measured or derived:\n(i)the water-cooled chillers;\n(ii)the chilled water pumps;\n(iii)the condenser water pumps;\n(iv)the cooling towers.\n[S 719/2025 wef 01/12/2025]\n(2) Where water-cooled chillers share a common chilled water header or a common condenser water header —\n(a)a permanent temperature sensor may be installed at the common header for the chilled water or the condenser water, as the case may be —\n(i)instead of for each water-cooled chiller; or\n(ii)in addition to the permanent temperature sensors for each water-cooled chiller; and\n[S 719/2025 wef 01/12/2025]\n(b)if permanent temperature sensors are installed at the common headers to measure both the water supply and return temperatures for the chilled water or condenser water, a permanent flowmeter may be installed at any common header for the chilled water or condenser water, as the case may be —\n(i)instead of for each water-cooled chiller; or\n(ii)in addition to the permanent flowmeters for each water-cooled chiller.\n[S 719/2025 wef 01/12/2025]\n(3) In relation to each permanent temperature sensor mentioned in paragraph (1)(a), (b) or (c) —\n(a)a test plug or thermowell, with an open tip slightly larger than a diameter of 3.2 mm, must also be installed on the chilled water and condenser pipelines —\n(i)before and after each permanent temperature sensor; and\n(ii)at easily accessible locations, where possible; and\n(b)any thermowell installed must enable the permanent temperature sensor inserted in the thermowell to come into direct contact with the fluid in the pipeline.\n[S 719/2025 wef 01/12/2025]\n(4) Paragraph (1)(b), (c) and (e) does not apply if the amount or rate of heat rejection of the prescribed system may be derived from other temperature and flowrate measurements taken in the prescribed system.\n(5) The end-to-end uncertainty for each measurement from a prescribed measuring instrument must not exceed —\n(a)for a permanent temperature sensor — ±0.05°C;\n[S 719/2025 wef 01/12/2025]\n(b)for a permanent flowmeter — ±1%; and\n[S 719/2025 wef 01/12/2025]\n(c)for a permanent power meter — ±2%.\n[S 719/2025 wef 01/12/2025]\n(6) Where a registered relevant person satisfies the Director-General that it is not reasonably practicable to install a permanent flowmeter that complies with paragraph (5)(b), the registered relevant person may install a permanent flowmeter with an uncertainty for each measurement that does not exceed ±2%.\n[S 719/2025 wef 01/12/2025]\n(7) The overall end-to-end uncertainty of all the prescribed measuring instruments used in the prescribed system must not exceed ±5%.\n[S 719/2025 wef 01/12/2025]\n(8) For the purposes of paragraph (7), the overall end-to-end uncertainty of the prescribed measuring instruments is the number ascertained by calculating the square root of the formula A2 + B2 + C2, where —\n(a)A is the percentage end-to-end uncertainty of the difference between the chilled water supply and return temperatures, calculated in accordance with the formula where —\n(i)D is the end-to-end uncertainty of the chilled water supply temperature measurement;\n(ii)E is the end-to-end uncertainty of the chilled water return temperature measurement; and\n(iii)F is the smallest value of all values calculated for the prescribed system of the measured chilled water return temperatures less the measured chilled water supply temperatures for the water-cooled chillers in the prescribed system;\n(b)B is the percentage end-to-end uncertainty of the chilled water flowrate measurement; and\n(c)C is the percentage end-to-end uncertainty of power consumption measurement.\n[S 719/2025 wef 01/12/2025]\n(9) The percentage system heat balance for the prescribed system (calculated in accordance with paragraph B.2.2 of SS 591/2013) must be within ±5% for at least 80% of data points.\n[S 972/2020 wef 01/12/2020]\n[S 719/2025 wef 01/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.011",
+   "no": 7.011,
+   "noLabel": {
+    "en": "7K."
+   },
+   "chapter": {
+    "en": "PART 2B MINIMUM ENERGY EFFICIENCY STANDARDS FOR ENERGY-CONSUMING SYSTEMS"
+   },
+   "heading": {
+    "en": "Prescribed manner of assessment"
+   },
+   "text": {
+    "en": "7K.—(1) The assessment of the energy efficiency of a prescribed system must be carried out in the following manner:\n(a)the assessment must be based on measurements made by the prescribed measuring instruments —\n(i)collected at intervals of one minute and recorded in 3 decimal places or more;\n(ii)collected from the operation of the prescribed system over a continuous period of not less than 2 weeks (called in these Regulations the assessment period); and\n(iii)stored in an energy management system that stores and calculates the information specified in paragraph (3);\n[S 719/2025 wef 01/12/2025]\n(b)a qualified person must certify that regulation 7J is complied with in relation to every prescribed measuring instrument installed for the prescribed system and that the energy management system mentioned in sub-paragraph (a)(iii) accurately calculates the information specified in paragraph (3);\n[S 719/2025 wef 01/12/2025]\n(c)the qualified person mentioned in sub-paragraph (b) must separately verify the energy efficiency of the prescribed system calculated by the energy management system, using the measurements mentioned in sub-paragraph (a).\n[S 719/2025 wef 01/12/2025]\n(2) For the purpose of the assessment under paragraph (1), any measurements collected under sub-paragraph (a)(ii) of that paragraph for any period for which any part of a water-cooled chiller in the prescribed system is producing chilled water requiring the use of antifreeze, must be disregarded in the assessment of the energy efficiency of a prescribed system under that paragraph.\n[S 719/2025 wef 01/12/2025]\n(3) The information mentioned in paragraph (1)(a)(iii) and (b) comprises all of the following:\n(a)where any cooling tower of the prescribed system cools water from a source external to the prescribed system and any prescribed measuring instrument measures a parameter partially attributable to that external source — the heat gained by and heat lost from cooling water from that external source;\n[S 719/2025 wef 01/12/2025]\n(b)the electrical energy and electrical power consumed by all chilled water pumps in the prescribed system in pumping chilled water through all the evaporators in the prescribed system, based on the ratio of its flowrate to the total flowrate through the pumps, if applicable;\n(c)the electrical energy and electrical power consumed by all condenser water pumps in the prescribed system in pumping water through all the water-cooled condensers in the prescribed system, based on the ratio of its flowrate to the total flowrate through the pumps, if applicable;\n(d)the electrical energy and electrical power consumed by all cooling towers in the prescribed system in rejecting heat from water that passes through all the water-cooled condensers in the prescribed system, based on the ratio of its heat rejected to the total heat rejected by the cooling towers, if applicable;\n(e)the operating hours of the prescribed system;\n(f)the refrigeration output and refrigeration energy output of the chilled water, the rate and amount of heat removal from the condenser water, and the electrical energy and electrical power consumption of the prescribed system;\n[S 719/2025 wef 01/12/2025]\n(g)the energy performance of the following groups of equipment in the prescribed system:\n(i)the water-cooled chillers;\n(ii)the chilled water pumps;\n(iii)the condenser water pumps;\n(iv)the cooling towers;\n(h)the energy performance of the prescribed system;\n(i)the heat balance of the prescribed system, calculated in accordance with paragraph B.2.2 of SS 591/2013.\n(4) For the purposes of converting refrigeration output in refrigerant ton to kWc, the refrigeration output in unit of refrigerant ton must be multiplied by 3.517 kWc/RT.\n[S 972/2020 wef 01/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.287",
+   "no": 7.287,
+   "noLabel": {
+    "en": "7KA."
+   },
+   "chapter": {
+    "en": "PART 2B MINIMUM ENERGY EFFICIENCY STANDARDS FOR ENERGY-CONSUMING SYSTEMS"
+   },
+   "heading": {
+    "en": "Prescribed manner and period of monitoring"
+   },
+   "text": {
+    "en": "7KA.—(1) For the purposes of section 26B(2)(a)(ii) of the Act, the monitoring of the energy efficiency of a prescribed system (or any part of the system) serving any business activity or premises under the operational control of a registered relevant person, must be carried out using an energy management system which is capable of —\n(a)aggregating the measurements collected by the prescribed measuring instruments, for the purpose of generating a monitoring report in the format provided at https://www.nea.gov.sg; and\n(b)displaying all of the information listed in paragraph (2) in real time.\n(2) The information mentioned in paragraph (1)(b) is the following:\n(a)the operational status of the individual components of the prescribed system;\n(b)the positions, in a visual representation of the prescribed system, of the instruments of the prescribed system;\n(c)the temperature setpoints;\n(d)the percentage system heat balance, where applicable;\n(e)one-minute interval values of the following:\n(i)all the following measured parameters of each water-cooled chiller in the prescribed system:\n(A)the chilled water supply temperature;\n(B)the chilled water return temperature;\n(C)the condenser water supply temperature;\n(D)the condenser water return temperature;\n(E)the flowrate of the chilled water in the water-cooled chiller;\n(F)the flowrate of the condensed water in the water-cooled chiller;\n(ii)the refrigeration output and refrigeration energy output of the chilled water;\n(iii)the rate and amount of heat removal from the condenser water;\n(iv)the electrical energy and electrical power consumption of the prescribed system and the following groups of equipment in the prescribed system:\n(A)the water-cooled chillers;\n(B)the chilled water pumps;\n(C)the condenser water pumps;\n(D)the cooling towers;\n(v)the energy performance of the prescribed system and the groups of equipment in the prescribed system listed in sub-paragraph (iv).\n(3) For the purposes of section 26B(2)(a)(ii) of the Act, the prescribed period for the monitoring of the energy efficiency of a prescribed system is any continuous period of 14 days in every calendar year, beginning with the year (called in this Part year A) in which the assessment report is submitted under regulation 7MA.\n[S 719/2025 wef 01/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.012",
+   "no": 7.012,
+   "noLabel": {
+    "en": "7L."
+   },
+   "chapter": {
+    "en": "PART 2B MINIMUM ENERGY EFFICIENCY STANDARDS FOR ENERGY-CONSUMING SYSTEMS"
+   },
+   "heading": {
+    "en": "Minimum energy efficiency standard"
+   },
+   "text": {
+    "en": "7L. For the purposes of section 26B(3) of the Act, the prescribed minimum energy efficiency standard specified in the third column of Part 1 of the Fifth Schedule is the prescribed minimum energy efficiency standard for the prescribed system specified in the second column of Part 1 of the Fifth Schedule, serving the premises or the business activity specified in the first column of Part 1 of the Fifth Schedule, against that minimum energy efficiency standard.\n[S 719/2025 wef 01/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.013",
+   "no": 7.013,
+   "noLabel": {
+    "en": "7M."
+   },
+   "chapter": {
+    "en": "PART 2B MINIMUM ENERGY EFFICIENCY STANDARDS FOR ENERGY-CONSUMING SYSTEMS"
+   },
+   "heading": {
+    "en": "Requirements for assessment reports"
+   },
+   "text": {
+    "en": "7M.—(1) [Deleted by S 719/2025 wef 01/12/2025]\n(2) Any assessment report (whether under section 26B(2)(b)(i) or (3)(b) of the Act) on the prescribed system must include the following, where applicable:\n(a)details of the components of the prescribed system, including —\n(i)the unique identification of each component;\n(ii)the type of each component, including whether variable frequency drives are present;\n(iii)the installation year of each component;\n(iv)the refrigeration capacity of each chiller at standard rating conditions in accordance with the specified AHRI Standard or when rated in accordance with the operational conditions required for the business activity;\n[S 719/2025 wef 01/12/2025]\n(v)the input power to each chiller where the refrigeration output corresponds to refrigeration capacity of the chiller mentioned in sub-paragraph (iv);\n(vi)the chilled water supply temperature setpoint of each chiller;\n(vii)the designed difference in chilled water supply temperature and return temperature of each chiller;\n(viii)the rated performance of each chiller at standard rating conditions in accordance with the specified AHRI Standard or when rated in accordance with the operational conditions required for the business activity;\n[S 719/2025 wef 01/12/2025]\n(ix)the rated motor output power for each chilled water pump, condenser water pump and cooling tower fan;\n(x)the pump head of each chilled water pump and condenser water pump;\n(xi)the flowrate of each chilled water pump, condenser water pump and cooling tower;\n(xii)the rated pump efficiency for each chilled water pump and condenser water pump;\n(xiii)the rated fan efficiency for each cooling tower fan;\n(xiv)the rated motor efficiency for each chilled water pump, condenser water pump and cooling tower fan;\n(xv)an indication if the power consumption of each chilled water pump, condenser water pump and cooling tower fan is attributable only to the prescribed system; and\n(xvi)the schematic of the prescribed system, including all components of the system;\n(b)details of the prescribed measuring instruments installed, including —\n(i)the unique identification of each instrument;\n(ii)the type of each instrument;\n(iii)the parameter measured by each instrument;\n(iv)the location of each instrument;\n(v)the instrument range of each instrument;\n(vi)the frequency of measurement taken by each instrument;\n(vii)the end-to-end uncertainty of each measurement;\n(viii)the last calibration date of each instrument; and\n(ix)the location of each instrument superimposed on the schematic of the prescribed system;\n[S 719/2025 wef 01/12/2025]\n(c)the assessment period;\n(d)the information, documents or analyses relied upon by the qualified person in certifying the matters mentioned in regulation 7K(1)(b) and in conducting the verification in regulation 7K(1)(c);\n(e)the reasons given to the Director-General under section 31B of the Act or regulation 7J(6) for any waiver or modification of a requirement under section 26B of the Act or in this Part, if any;\n(f)the reasons for failing to comply with any requirement under section 26B of the Act or in this Part, if any;\n(g)such other information or document as the Director-General may require.\n[S 719/2025 wef 01/12/2025]\n(3) The report specified in paragraph (2) must be —\n(a)endorsed by the qualified person mentioned in regulation 7K(1)(b);\n(b)endorsed by the chief executive of the registered relevant person;\n[S 719/2025 wef 01/12/2025]\n(c)submitted in the manner specified by the Director-General; and\n(d)endorsed and submitted by an employee of the registered relevant person who is authorised by the registered relevant person for this purpose.\n[S 972/2020 wef 01/12/2020]\n[S 719/2025 wef 01/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.339",
+   "no": 7.339,
+   "noLabel": {
+    "en": "7MA."
+   },
+   "chapter": {
+    "en": "PART 2B MINIMUM ENERGY EFFICIENCY STANDARDS FOR ENERGY-CONSUMING SYSTEMS"
+   },
+   "heading": {
+    "en": "Prescribed period for submission of assessment reports"
+   },
+   "text": {
+    "en": "7MA. Where X in regulation 7AC is a registered relevant person, X must, in relation to each prescribed system (or any part of the system) serving the premises mentioned in regulation 7G(a) or business activity mentioned in regulation 7G(b) under the operational control of X, complete an assessment mentioned in section 26B(2)(a)(i) of the Act and submit an assessment report mentioned in section 26B(2)(b)(i) of the Act in accordance with the Fourth Schedule.\n[S 719/2025 wef 01/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.34",
+   "no": 7.34,
+   "noLabel": {
+    "en": "7MB."
+   },
+   "chapter": {
+    "en": "PART 2B MINIMUM ENERGY EFFICIENCY STANDARDS FOR ENERGY-CONSUMING SYSTEMS"
+   },
+   "heading": {
+    "en": "Requirements for monitoring reports"
+   },
+   "text": {
+    "en": "7MB.—(1) A monitoring report must be in the reporting format mentioned in regulation 7KA(1)(a).\n(2) The monitoring report must include the following measurements:\n(a)the total electrical energy consumed by the prescribed system;\n(b)the total system refrigeration energy output;\n(c)the total system heat rejection;\n(d)the average chilled water supply temperature;\n(e)the refrigeration energy output of the chilled water at each chilled water supply temperature;\n(f)the average energy performance of the following groups of equipment in the prescribed system:\n(i)the water-cooled chillers;\n(ii)the chilled water pumps;\n(iii)the condenser water pumps;\n(iv)the cooling towers;\n(g)the average energy performance of the prescribed system;\n(h)the operating hours of the prescribed system;\n(i)the heat balance of the prescribed system, calculated in accordance with paragraph B.2.2 of SS 591/2013;\n(j)any other information or document that the Director-General may require.\n(3) The monitoring report mentioned in paragraph (1) must be —\n(a)endorsed by the chief executive of the registered relevant person;\n(b)submitted in the manner specified by the Director-General; and\n(c)endorsed and submitted by an employee of the registered relevant person who is authorised by the registered relevant person for this purpose.\n[S 719/2025 wef 01/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.341",
+   "no": 7.341,
+   "noLabel": {
+    "en": "7MC."
+   },
+   "chapter": {
+    "en": "PART 2B MINIMUM ENERGY EFFICIENCY STANDARDS FOR ENERGY-CONSUMING SYSTEMS"
+   },
+   "heading": {
+    "en": "Prescribed period for submission of monitoring reports"
+   },
+   "text": {
+    "en": "7MC.—(1) A registered relevant person must submit a monitoring report in respect of a prescribed system —\n(a)if the prescribed system is in a new building (or any part of the building) under the operational control of the registered relevant person, and —\n(i)the assessment report for the prescribed system mentioned in regulation 7M is submitted to the Director-General on or before 30 June of year A (mentioned in regulation 7KA(3)) — by 30 June of year A + 1; and\n(ii)the assessment report for the prescribed system mentioned in regulation 7M is submitted after 30 June of year A — by 30 June of year A + 2; or\n(b)if the prescribed system is in any premises (or any part of the premises) under the operational control of the registered relevant person, that do not comprise a new building — by 30 June of year A + 1.\n(2) A registered relevant person must also submit a monitoring report by 30 June of each year subsequent to year A in paragraph (1), in relation to monitoring carried out for a continuous 14-day period in the year immediately before the year in which the report is required to be submitted under this paragraph.\n[S 719/2025 wef 01/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H1299-A7.014",
+   "no": 7.014,
+   "noLabel": {
+    "en": "7N."
+   },
+   "chapter": {
+    "en": "PART 2B MINIMUM ENERGY EFFICIENCY STANDARDS FOR ENERGY-CONSUMING SYSTEMS"
+   },
+   "heading": {
+    "en": "Requirements relating to keeping of records"
+   },
+   "text": {
+    "en": "7N.—(1) Records containing the following information must be kept for the purposes of section 29(1) of the Act:\n(a)all measurements mentioned in regulation 7K(1)(a) and information mentioned in regulation 7K(3);\n(b)all calculations mentioned in regulation 7K made by the qualified person in preparing the assessment report;\n(c)the drawings of the prescribed system plant room layout indicating details of the location of every prescribed measuring instrument and any test plug or thermowell;\n[S 719/2025 wef 01/12/2025]\n(d)all schematic drawings of the prescribed system;\n[S 719/2025 wef 01/12/2025]\n(e)all calibration certificates from accredited laboratories or factory calibration certificates from manufacturers for every prescribed measuring instrument;\n[S 719/2025 wef 01/12/2025]\n(f)all input parameters for every prescribed measuring instrument;\n[S 719/2025 wef 01/12/2025]\n(g)the technical specifications of each component of the prescribed system;\n(h)any other information relied on in preparing the assessment report.\n(2) For the purposes of section 29(2)(a) of the Act, the prescribed period to keep and maintain the records mentioned in paragraph (1) in relation to an assessment report is 5 years after the date the assessment report is submitted.\n(3) Without affecting paragraph (2), the measurements mentioned in regulation 7K(1)(a) and information mentioned in regulation 7K(3) must be kept in the energy management system for a period of at least 3 years after the date the assessment report is submitted.\n[S 972/2020 wef 01/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H1299-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 ENERGY MANAGEMENT PRACTICES OF REGISTERED CORPORATION"
+   },
+   "heading": {
+    "en": "Periodic reporting of energy use"
+   },
+   "text": {
+    "en": "8.—(1) A registered corporation shall submit an energy use report by 30th June of each year, which shall cover each business activity under the operational control of the registered corporation.\n(2) The report shall be prepared and reviewed by the energy manager and endorsed by the chief executive of the registered corporation, and shall be submitted by the energy manager using the electronic service provided at http://www.nea.gov.sg.\n(2A) The energy manager and the chief executive must use reasonable endeavours to ensure that the energy use report submitted was prepared based on accurate information.\n[S 960/2021 wef 22/12/2021]\n(3) The energy use report shall be made —\n(a)using the relevant form provided in the electronic service provided at http://www.nea.gov.sg; and\n(b)in the manner specified by the Director-General.\n(4) The energy use report shall contain, in respect of each relevant business activity, the following information relating to its operation during the preceding calendar year, or part thereof (if applicable) in the case of the first report submitted after registration:\n(a)quantity of each type of fuel or energy commodity in the inventory of the corporation as at 1st January and 31st December of that calendar year, and their net calorific value or energy content value, and unit of measure;\n(b)quantity of each type of fuel or energy commodity purchased or sold, or used for the purposes of producing or providing energy, during that calendar year, and their net calorific value or energy content value, and unit of measure, but excluding any fuel or energy commodity purchased, used or stored for the purposes of any emergency standby generator;\n(c)quantity of each type of fuel or energy commodity produced for the purposes of producing or providing energy, and their net calorific value or energy content value, and unit of measure;\n(d)in respect of energy-consuming systems forming part of the business activity, the aggregate energy consumption of which shall not be less than 80% of the total energy consumption of the business activity, the following information for each energy-consuming system:\n(i)type and description of energy-consuming system;\n(ii)type of fuel or energy commodity used;\n(iii)quantity and unit of measure of annual energy consumption;\n(iv)quantity and unit of measure of each intended output of the energy-consuming system;\n(v)specific energy consumption;\n(vi)predicted specific energy consumption calculated on the basis that the energy-consuming system is new and clean, if available; and\n(vii)the ratio of the specific energy consumption to the predicted specific energy consumption referred to in sub-paragraph (vi), if available;\n(e)specific energy consumption;\n(f)reasons for increase or decrease in specific energy consumption compared to that reported in the previous year to the extent necessary for a reasonable understanding of the significant factors that affected the energy efficiency of the business activity;\n(g)information relating to items listed in the second and third columns of the Second Schedule in respect of the processes or activities resulting in greenhouse gas emissions as listed in the first column thereof;\n(h)information on type, quantity and unit of measure of each fuel or energy commodity used as feedstock to produce products containing carbon;\n(i)basic process diagrams showing the energy-consuming systems and the general process and energy flow; and\n(j)such other information or document as may be required by the Director-General.\n(4A) Despite paragraph (4), if the relevant business activity to which the energy use report relates is a new venture that is a business activity (called in this regulation new business activity), then in the report —\n(a)the quantity of each type of fuel or energy commodity used for the purposes of producing or providing energy in respect of the new business activity, during the calendar year covered by the report, and their net calorific value or energy content value, and unit of measure, but excluding any fuel or energy commodity used for the purposes of any emergency standby generator, must be expressed as a measured value; and\n(b)the information mentioned in paragraph (4)(d) must include the information of every energy‑consuming system of the new business activity, the aggregate energy consumption of which is at least 80% of the total energy consumption of the new business activity.\n[S 605/2018 wef 01/10/2018]\n(5) The energy use report shall, in respect of every other business activity under the operational control of the corporation that is not a relevant business activity, state the following in relation to the operation of all such business activities during the preceding calendar year, or part thereof (if applicable) in the case of the first report submitted after registration:\n(a)the estimated aggregate energy consumption as a percentage of the corporation’s total energy consumption during the same period;\n(b)the estimated aggregate energy production as a percentage of the corporation’s total energy production during the same period; and\n(c)the estimated aggregate greenhouse gas emissions as a percentage of the corporation’s total greenhouse gas emissions during the same period.\n(6) Subject to paragraphs (6A) and (6B), any quantity or figure required in paragraph (4)(d)(iii) to (vi), (g) or (h) may be expressed either as a measured value or an estimated value.\n[S 605/2018 wef 01/10/2018]\n[S 960/2021 wef 22/12/2021]\n(6A) Despite paragraph (6), any quantity or figure required in paragraph (4)(d)(iii) to (vi) —\n(a)must, in respect of every energy‑consuming system of a new business activity, the aggregate energy consumption of which is at least 80% of the total energy consumption of the new business activity, be expressed as a measured value; and\n(b)may, in respect of the energy‑consuming systems of the new business activity not mentioned in sub‑paragraph (a), be expressed either as a measured value or an estimated value.\n[S 605/2018 wef 01/10/2018]\n(6B) Despite paragraph (6), any quantity or figure required in paragraph (4)(d)(v) must, in respect of every energy-consuming system of a relevant business activity installed on or after 1 January 2022, be expressed as a measured value.\n[S 960/2021 wef 22/12/2021]\n(6C) Any quantity or figure required in paragraph (4)(e) and reported on or after 1 January 2028 must, in respect of each relevant business activity, be expressed as a measured value.\n[S 960/2021 wef 22/12/2021]\n(7) The Director-General may extend the time prescribed in paragraph (1) for the submission of the report on such terms as he deems fit, if he is satisfied, on written application accompanied by supporting documents —\n(a)that the registered corporation required to submit the report is unable to comply with the requirement due to circumstances beyond the corporation’s reasonable control; or\n(b)that an extension of any such time would be otherwise appropriate having regard to the circumstances of the case.\n(8) Every application under section 31B(4) of the Act for a waiver of the application of section 27 of the Act requiring any quantity or figure to be expressed as a measured value (as defined in paragraph (9)) must —\n(a)be in writing;\n(b)state the reasons for the person’s inability to comply with the requirements; and\n(c)be accompanied by supporting documents.\n[S 605/2018 wef 01/10/2018]\n[S 960/2021 wef 22/12/2021]\n(9) In this regulation, unless the context otherwise requires, “measured value” means a value that is —\n(a)measured directly; or\n(b)derived from one or more measured variables relating to the following:\n(i)where sub-paragraph (a) of paragraph (4A) applies —\n(A)the quantity;\n(B)the net calorific value; or\n(C)the energy content value,\nof each type of fuel or energy commodity mentioned in that sub-paragraph;\n(ii)where paragraph (6) applies —\n(A)the annual energy consumption of the energy-consuming system;\n(B)the intended output of the energy-consuming system;\n(C)the specific energy consumption of the energy-consuming system;\n(D)the predicted specific energy consumption of the energy-consuming system;\n(E)the processes or activities of the relevant business activity that result in greenhouse gas emissions; or\n(F)each fuel or energy commodity used as feedstock in the relevant business activity to produce products containing carbon;\n(iii)where paragraph (6A) applies —\n(A)the annual energy consumption;\n(B)the intended output;\n(C)the specific energy consumption; or\n(D)the predicted specific energy consumption,\nof the energy-consuming system;\n(iv)where paragraph (6B) applies — the specific energy consumption of the energy-consuming system;\n(v)where paragraph (6C) applies — the specific energy consumption of the relevant business activity.\n[S 960/2021 wef 22/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1299-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 ENERGY MANAGEMENT PRACTICES OF REGISTERED CORPORATION"
+   },
+   "heading": {
+    "en": "Records to be kept"
+   },
+   "text": {
+    "en": "9.—(1) A registered corporation shall keep and maintain complete and accurate records of the information prescribed in paragraph (2) for not less than 5 years after the date of creation or receipt of the record.\n(2) The information referred to in paragraph (1) is as follows:\n(a)records of purchase of every type of fuel or energy commodity;\n(b)records of consumption of every type of fuel or energy commodity and other similar records;\n(c)detailed process diagrams showing the energy-consuming systems and the general process and energy flow and other similar records;\n(d)measurement data on energy consumption of energy-consuming systems or equipment and other similar records, as well as specifications and calibration records of measurement equipment or systems and other similar records;\n(e)measurement data on energy consumption of various systems or equipment before and after implementation of any energy efficiency measure and other similar records, as well as specifications and calibration records of measurement equipment or systems and other similar records; and\n(f)records relied upon by the corporation to provide the information referred to in regulation 8(4)(g) or (h).\n(3) The records kept and maintained pursuant to this regulation may be kept and maintained in electronic form."
+   }
+  },
+  {
+   "id": "SG-H1299-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 ENERGY MANAGEMENT PRACTICES OF REGISTERED CORPORATION"
+   },
+   "heading": {
+    "en": "Energy efficiency improvement plan"
+   },
+   "text": {
+    "en": "10.—(1) A registered corporation shall submit an energy efficiency improvement plan by 30th June of each year, covering each business activity under the operational control of the registered corporation.\n(2) The plan shall be prepared and reviewed by the energy manager and endorsed by the chief executive of the registered corporation, and shall be submitted by the energy manager using the electronic service provided at http://www.nea.gov.sg.\n(2A) The energy manager and the chief executive must use reasonable endeavours to ensure that the energy efficiency improvement plan submitted was prepared based on accurate information.\n[S 960/2021 wef 22/12/2021]\n(3) The energy efficiency improvement plan shall be made —\n(a)using the relevant form provided in the electronic service provided at http://www.nea.gov.sg; and\n(b)in the manner specified by the Director-General.\n(4) The plan shall cover a period of not less than one year and not more than 5 years, which shall start from 1st January of the year of submission.\n(5) The plan shall include the following information in respect of each relevant business activity:\n(a)description of energy efficiency measures to be implemented or completed, and the following information in respect of each measure:\n(i)estimated start and end dates;\n(ii)projected reduction in energy consumption together with underlying assumptions;\n(iii)projected improvement in specific energy consumption together with underlying assumptions;\n(iv)projected improvement in the ratios referred to in regulation 8(4)(d)(vii), if available, that would be affected by the measures;\n(v)estimated cost; and\n(vi)name of person responsible for implementation;\n(b)update on the progress of energy efficiency measures described in the previous energy efficiency improvement plan submitted; and\n(c)for each measure implemented before the end of the preceding year, the following information:\n(i)estimated or measured difference in energy consumption attributable to each measure;\n(ii)estimated or measured difference in specific energy consumption attributable to each measure;\n(iii)difference in ratios referred to in regulation 8(4)(d)(vii), if available, attributable to each measure; and\n(iv)description of how each difference referred to in sub-paragraph (i), (ii) or (iii) was measured and verified.\n(6) The plan shall include a description of energy efficiency measures to be implemented or completed in respect of each business activity that is not a relevant business activity.\n(7) Every application under section 31B(2) of the Act for a waiver of the application of section 28(1) of the Act shall —\n(a)be in writing;\n(b)state the reasons for the registered corporation’s inability to comply with the requirements; and\n(c)be accompanied by supporting documents.\n[S 752/2017 wef 01/01/2018]"
+   }
+  },
+  {
+   "id": "SG-H1299-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 ENERGY MANAGEMENT PRACTICES OF REGISTERED CORPORATION"
+   },
+   "heading": {
+    "en": "Appointment of energy manager"
+   },
+   "text": {
+    "en": "11.—(1) A registered corporation shall appoint from among its employees not less than one energy manager who shall possess the qualifications prescribed in paragraph (4).\n(2) Subject to paragraph (3), a registered corporation shall notify the Director-General of every appointment of an energy manager within 30 days after the appointment using the electronic service provided at http://www.nea.gov.sg.\n(3) A registered corporation shall notify the Director-General of the appointment of its first energy manager not later than 30 days after registration.\n(4) With effect from 1st April 2014, no person may be employed as an energy manager unless he —\n(a)holds a Singapore Certified Energy Manager (Professional Level) certificate issued by the Institution of Engineers, Singapore; or\n(b)holds such other qualification and experience which the Director-General may approve as being, in his opinion, substantially equivalent to any qualification referred to in sub-paragraph (a).\n(5) An application by a person under paragraph (4)(b) for approval of his qualification and experience to be appointed as an energy manager shall be made in writing and be accompanied by the following:\n(a)a copy of the applicant’s certificate showing his qualification as an energy manager;\n(b)a copy of the applicant’s university degree or equivalent qualification;\n(c)written evidence of the applicant’s practical experience in the work of energy management, which shall include details of the duration and a description of the practical experience; and\n(d)such other evidence or particulars as the Director-General considers necessary to determine the application.\n(6) A person who is aggrieved by the Director-General’s decision in refusing to grant an approval under paragraph (4)(b) may, within 30 days after the date he is notified of the Director-General’s decision, appeal to the Minister in writing.\n(7) The Minister may, after considering the appeal, dismiss or allow the appeal, unconditionally or subject to such conditions as he thinks fit, and the decision shall be confirmed, rescinded or varied in such manner as the Minister may decide.\n(8) The Minister may, in considering an appeal under paragraph (6), give the appellant an opportunity to make representations in writing.\n(9) The decision of the Minister in any appeal under paragraph (6) shall be final.\n(10) A person shall not be employed or act as an energy manager for more than one corporation at any point in time.\n(11) If an energy manager vacates his appointment —\n(a)the registered corporation shall, within 30 days after the vacation of the appointment, notify the Director-General of that fact using the electronic service provided at http://www.nea.gov.sg; and\n(b)if the energy manager who vacates his office is the only energy manager of a registered corporation, the registered corporation shall notify the Director-General of the appointment of the substitute energy manager within 90 days after the vacation of the appointment.\n(12) If the only energy manager of a registered corporation vacates his appointment, the corporation may designate another employee to perform the energy manager’s responsibilities pending the appointment of another energy manager.\n(13) Every application under section 31B(4) of the Act for a waiver of the application of section 30(1) of the Act shall —\n(a)be in writing;\n(b)state the reasons for the registered corporation’s inability to comply with the requirements; and\n(c)be accompanied by supporting documents (if any).\n[S 752/2017 wef 01/01/2018]"
+   }
+  },
+  {
+   "id": "SG-H1299-A11.001",
+   "no": 11.001,
+   "noLabel": {
+    "en": "11A."
+   },
+   "chapter": {
+    "en": "PART 3A ENERGY MANAGEMENT SYSTEM FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Definitions of this Part"
+   },
+   "text": {
+    "en": "11A.—(1) In this Part, unless the context otherwise requires —\n“accredited ISO 50001 certification” means the ISO 50001 certification issued by a certification body accredited by any of the following to perform the certification of an energy management system to the ISO 50001 standard:\n(a)the Singapore Accreditation Council;\n(b)any accreditation body that is a signatory to the International Accreditation Forum Multilateral Recognition Arrangement;\n“energy baseline” means a quantitative reference that is used as a baseline for comparing the energy performance of an SEU of a relevant business activity of a registered corporation, calculated on the basis of data derived over a period of time by that registered corporation;\n“energy management team” means a group of at least 2 individuals in a registered corporation, at least one of whom is an energy manager, authorised to implement an energy management system in respect of the relevant business activity of the registered corporation and responsible for improving the energy performance of that relevant business activity;\n“energy performance indicator value” means a numerical value which, when taken together with its measure or unit of energy performance, quantifies energy performance at a point in time or over a period of time;\n“energy target” means a quantifiable objective that relates to improving the energy performance of a relevant business activity or any EnMS SEU of a relevant business activity;\n“EnMS report” means a report relating to the performance of an energy management system in respect of any relevant business activity;\n“EnMS SEU” means an SEU to which an energy management system applies;\n“non-conformity”, in relation to an energy management system, means —\n(a)any non-conformity of the energy management system with any requirement in Division 2 for the energy management system; or\n(b)any failure on the part of the registered corporation to implement any part of the energy management system that complies with the requirements in Division 2;\n“objective” means a result that is targeted to be achieved by a registered corporation, due to its implementation of an energy management system;\n“SEU”, in relation to a relevant business activity of a registered corporation, means any of the following:\n(a)an energy-consuming system of the relevant business activity having significant energy use and mentioned in the energy use report submitted under regulation 8;\n(b)any other equipment, facility, system or process used in the relevant business activity that is not mentioned in the energy use report mentioned in paragraph (a);\n“top management” means the individual or individuals in a registered corporation principally responsible for the management and conduct of a relevant business activity, and may include any of the following:\n(a)the chief executive officer or equivalent;\n(b)the president or vice-president or equivalent;\n(c)the general manager of the relevant business activity or equivalent.\n(2) In this Part, the total energy consumed by a relevant business activity —\n(a)must be derived from all fuel and energy commodities used to provide or produce the energy consumed; but\n(b)excludes energy produced from any fuel or energy commodity that is already accounted for in the total figure.\n[S 960/2021 wef 22/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1299-A11.002",
+   "no": 11.002,
+   "noLabel": {
+    "en": "11B."
+   },
+   "chapter": {
+    "en": "PART 3A ENERGY MANAGEMENT SYSTEM FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Assessment cycles"
+   },
+   "text": {
+    "en": "11B.—(1) This regulation provides for the determination of the first assessment cycle and the assessment cycles after the first assessment cycle (each called in these Regulations a subsequent assessment cycle) for any relevant business activity of a registered corporation, in relation to the energy management system implemented for the relevant business activity.\n(2) The first assessment cycle is, as the case may be —\n(a)the year 2021, the year 2022 or the year X + 1, in relation to which the first EnMS report must be submitted under regulation 11J; or\n(b)the period of the ISO 50001 certification submitted under regulation 11J.\n(3) The subsequent assessment cycles are, as the case may be —\n(a)subject to paragraph (4), where an EnMS report is submitted for the first assessment cycle —\n(i)the period of 3 years commencing on the date on which the registered corporation receives a notice that an authorised officer is satisfied that there are no non-conformities in relation to the first assessment cycle; and\n(ii)each consecutive period of 3 years after that; and\n(b)where an accredited ISO 50001 certification is submitted in relation to the first assessment cycle —\n(i)the period of 3 years commencing on the date immediately after the date of expiry of the certification; and\n(ii)each consecutive period of 3 years after that.\n(4) If —\n(a)the registered corporation submits an EnMS report in respect of any assessment cycle; and\n(b)within the period of 3 years after that assessment cycle, the registered corporation obtains an accredited ISO 50001 certification for the energy management system in respect of the relevant business activity,\nthen the subsequent assessment cycles after that assessment cycle are —\n(c)the period of the ISO 50001 certification; and\n(d)each consecutive period of 3 years after the expiry of the ISO 50001 certification.\n[S 960/2021 wef 22/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1299-A11.003",
+   "no": 11.003,
+   "noLabel": {
+    "en": "11C."
+   },
+   "chapter": {
+    "en": "PART 3A ENERGY MANAGEMENT SYSTEM FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Prescribed business activity"
+   },
+   "text": {
+    "en": "11C. Every relevant business activity is a prescribed business activity for the purposes of section 27A of the Act.\n[S 960/2021 wef 22/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1299-A11.004",
+   "no": 11.004,
+   "noLabel": {
+    "en": "11D."
+   },
+   "chapter": {
+    "en": "PART 3A ENERGY MANAGEMENT SYSTEM FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Application of this Division"
+   },
+   "text": {
+    "en": "11D. An energy management system must satisfy the requirements in this Division unless the energy management system is certified to the ISO 50001 standard.\n[S 960/2021 wef 22/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1299-A11.005",
+   "no": 11.005,
+   "noLabel": {
+    "en": "11E."
+   },
+   "chapter": {
+    "en": "PART 3A ENERGY MANAGEMENT SYSTEM FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Obligations of top management of registered corporation"
+   },
+   "text": {
+    "en": "11E. An energy management system in respect of a relevant business activity of a registered corporation must provide for the top management of the registered corporation to —\n(a)inform all individuals in that registered corporation of —\n(i)the objectives of the energy management system, including the objectives and energy targets for the relevant business activity;\n(ii)the strategic interest of the registered corporation in improving the energy performance of the relevant business activity; and\n(iii)the commitment of the registered corporation to the continual improvement of the energy performance of, and the energy management system in respect of, the relevant business activity; and\n(b)establish an energy management team for the purposes of —\n(i)ensuring that the energy management system is implemented, maintained and continually improved;\n(ii)ensuring that the registered corporation or its top management (as the case may be) complies with the requirements mentioned in regulations 11F, 11G and 11H; and\n(iii)reporting on the performance of the energy management system, and the improvement of the energy performance of the relevant business activity, to the top management.\n[S 960/2021 wef 22/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1299-A11.006",
+   "no": 11.006,
+   "noLabel": {
+    "en": "11F."
+   },
+   "chapter": {
+    "en": "PART 3A ENERGY MANAGEMENT SYSTEM FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Annual energy review, establishment of criteria and performance evaluation"
+   },
+   "text": {
+    "en": "11F.—(1) An energy management system in respect of a relevant business activity of a registered corporation must provide for the registered corporation to conduct an annual energy review for the relevant business activity for the purposes of —\n(a)selecting one or more SEUs for the relevant business activity to which the energy management system applies, as follows:\n(i)the registered corporation must select one or more SEUs mentioned in paragraph (a) of the definition of “SEU” in regulation 11A(1), where the energy consumption of the SEU or the aggregate energy consumption of the SEUs (as the case may be) is 80% or more of the total energy consumption of the relevant business activity;\n(ii)in addition to the SEU or SEUs selected under sub‑paragraph (i), the registered corporation may select any one or more SEUs mentioned in paragraph (b) of the definition of “SEU” in regulation 11A(1);\n(b)determining an appropriate measure or unit of energy performance (expressed as a simple metric, ratio or model) and establishing a corresponding energy baseline for each EnMS SEU, to assess energy performance;\n(c)establishing objectives and energy targets, in relation to each EnMS SEU; and\n(d)assessing the feasibility of potential energy efficiency measures and preparing the energy efficiency improvement plan mentioned in regulation 10.\n(2) An energy management system in respect of a relevant business activity of a registered corporation must provide for the registered corporation, in relation to the operational matters of that relevant business activity —\n(a)to establish and review, when necessary, criteria specifying the standards to be met for the effective operation and maintenance of each EnMS SEU of the relevant business activity;\n(b)to inform the relevant operation and maintenance personnel of those criteria; and\n(c)to ensure that the operation and maintenance of each EnMS SEU of the relevant business activity are carried out in accordance with those criteria.\n(3) An energy management system in respect of a relevant business activity of a registered corporation, must provide for the registered corporation to —\n(a)evaluate the energy performance of each EnMS SEU of the relevant business activity by —\n(i)comparing a specific energy performance indicator value against its corresponding energy baseline —\n(A)on a monthly basis, if the EnMS SEU consumes 2% or more of the total energy consumption for that relevant business activity; or\n(B)at a frequency determined by the registered corporation, if the EnMS SEU consumes less than 2% of the total energy consumption for that relevant business activity; and\n(ii)carrying out an investigation to determine the cause or causes of any deviation from a projected energy performance indicator value that satisfies the criteria specified in its EnMS report for a significant deviation from that projected energy performance indicator value; and\n(b)if necessary, identify steps to be taken to address the cause or causes identified in sub-paragraph (a)(ii), with the aim of identifying practices that will improve one or more of the following:\n(i)the energy performance of the EnMS SEU in question;\n(ii)the energy performance of any other EnMS SEU of the relevant business activity;\n(iii)the performance of the energy management system in respect of the relevant business activity.\n(4) The Director-General may, in respect of an EnMS SEU that consumes 2% or more of the total energy consumption of a relevant business activity —\n(a)vary the frequency mentioned in paragraph (3)(a)(i) for one assessment cycle or any part of one assessment cycle; or\n(b)waive the requirement in paragraph (3)(a) to evaluate the energy performance of the EnMS SEU for one assessment cycle or any part of one assessment cycle,\nif the Director-General is satisfied, on a written application by the registered corporation accompanied by supporting documents, that the registered corporation is unable to comply with the requirement due to circumstances beyond the registered corporation’s reasonable control.\n[S 960/2021 wef 22/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1299-A11.007",
+   "no": 11.007,
+   "noLabel": {
+    "en": "11G."
+   },
+   "chapter": {
+    "en": "PART 3A ENERGY MANAGEMENT SYSTEM FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Management review of energy management system"
+   },
+   "text": {
+    "en": "11G.—(1) An energy management system in respect of a relevant business activity of a registered corporation, must provide for the top management of the registered corporation to —\n(a)conduct a management review of the energy management system at least once a year to assess its suitability and adequacy in achieving the objectives and energy targets set by the registered corporation for the relevant business activity; and\n(b)upon completion of each such review, take such steps as are necessary and reasonable to improve the suitability and adequacy of the energy management system in respect of the relevant business activity.\n(2) For the purpose of the management review in paragraph (1)(a), the energy management system must provide for the registered corporation to consider the following:\n(a)the results of all previous management reviews and any action taken following those reviews;\n(b)the results of all previous reviews carried out under regulation 11H(a) and (c) and any action taken following those reviews;\n(c)the results of the evaluation mentioned in regulation 11F(3)(a) and any steps mentioned in regulation 11F(3)(b);\n(d)all energy use reports submitted under regulation 8 and energy efficiency improvement plans submitted under regulation 10 in the current assessment cycle, including the extent of the accuracy of the information contained in those reports and plans;\n(e)whether, and if so, the extent to which the objectives and energy targets mentioned in regulations 11E(a)(i) and 11F(1)(c) have been met.\n[S 960/2021 wef 22/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1299-A11.008",
+   "no": 11.008,
+   "noLabel": {
+    "en": "11H."
+   },
+   "chapter": {
+    "en": "PART 3A ENERGY MANAGEMENT SYSTEM FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Non-conformities raised during compliance check"
+   },
+   "text": {
+    "en": "11H. An energy management system in respect of a relevant business activity of a registered corporation, must provide, in the event that a non-conformity is identified during a compliance check conducted by an authorised officer under section 35 of the Act, for the registered corporation to —\n(a)conduct a review to determine all causes of that non‑conformity and assess if similar non-conformities exist or could potentially occur;\n(b)within —\n(i)the period of 3 months after the date on which the registered corporation receives a written notice from the authorised officer concerning the non‑conformity; or\n(ii)where in any particular case the authorised officer is of the view that the registered corporation will require more than 3 months to correct that non‑conformity and address the cause or causes identified, any longer period specified by that authorised officer,\ncorrect that non-conformity and address the cause or causes identified in paragraph (a) with the aim of preventing that non‑conformity from occurring again, or other similar non‑conformities from occurring; and\n(c)conduct a second review to evaluate the effectiveness of any steps taken.\n[S 960/2021 wef 22/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1299-A11.009",
+   "no": 11.009,
+   "noLabel": {
+    "en": "11I."
+   },
+   "chapter": {
+    "en": "PART 3A ENERGY MANAGEMENT SYSTEM FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "EnMS reports, etc."
+   },
+   "text": {
+    "en": "11I.—(1) Subject to paragraph (2), a registered corporation must submit EnMS reports in accordance with this Division.\n(1A) Every EnMS report must be endorsed by the energy manager of the registered corporation in respect of the accuracy of the data of the EnMS report.\n[S 719/2025 wef 01/12/2025]\n(2) If the registered corporation obtains an accredited ISO 50001 certification for the energy management system in respect of a relevant business activity for the whole or any part of an assessment cycle for the relevant business activity, the registered corporation need not submit an EnMS report for that assessment cycle if the registered corporation submits the certification in accordance with regulations 11J, 11K and 11L.\n(3) Without affecting section 31A(2) of the Act, the registered corporation must not, in connection with the preparation of any EnMS report, rely on any information that is incomplete or inaccurate, and in particular, any energy use report submitted under regulation 8 or any energy efficiency improvement plan submitted under regulation 10, which the registered corporation has been notified by the Director-General to contain errors.\n[S 960/2021 wef 22/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1299-A11.01",
+   "no": 11.01,
+   "noLabel": {
+    "en": "11J."
+   },
+   "chapter": {
+    "en": "PART 3A ENERGY MANAGEMENT SYSTEM FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Time of submitting first EnMS report, etc."
+   },
+   "text": {
+    "en": "11J.—(1) The registered corporation must —\n(a)if the relevant business activity was under its operational control as a registered corporation on 31 December 2020; and\n(b)if the amount of energy consumed annually by the relevant business activity in at least 2 of the years 2018, 2019 and 2020 is 500 terajoules or more,\nsubmit to the Director-General on or before 31 December 2021 —\n(c)an EnMS report for the year 2021; or\n(d)(where regulation 11I(2) applies) its accredited ISO 50001 certification for the energy management system in respect of the relevant business activity that —\n(i)is effective for the whole or any part of the year 2021; and\n(ii)is effective up to and including at least 31 December 2021.\n(2) The registered corporation must —\n(a)if the relevant business activity was under its operational control as a registered corporation on 31 December 2020; and\n(b)if the amount of energy consumed annually by the relevant business activity in at least 2 of the years 2018, 2019 and 2020 is 54 terajoules or more but less than 500 terajoules,\nsubmit to the Director-General on or before 31 December 2022 —\n(c)an EnMS report for the year 2022; or\n(d) (where regulation 11I(2) applies) its accredited ISO 50001 certification for the energy management system in respect of the relevant business activity that —\n(i)is effective for the whole or any part of the year 2022; and\n(ii)is effective up to and including at least 31 December 2022.\n(3) The registered corporation must —\n(a)if the registered corporation was registered as such at any time in any year (X) subsequent to the year 2020;\n(b)if a relevant business activity comes under the operational control of the registered corporation at any time in any year (X) subsequent to the year 2020; or\n(c)if any business activity over which the registered corporation has operational control becomes a relevant business activity in any year (X) subsequent to the year 2020,\nsubmit to the Director-General on or before 31 December of the year X + 1 —\n(d)an EnMS report for the relevant business activity for the year X + 1; or\n(e)(where regulation 11I(2) applies) an accredited ISO 50001 certification for the relevant business activity that —\n(i)is effective for the whole or any part of the year X + 1; and\n(ii)is effective up to and including at least 31 December of the year X + 1.\n(4) Paragraphs (1), (2) and (3) do not apply if —\n(a)the registered corporation ceases to have operational control of the relevant business activity; or\n(b)the registration of the registered corporation is cancelled under section 25(2) of the Act,\nat any time on or before —\n(c)where paragraph (1) applies — 31 December 2021;\n(d)where paragraph (2) applies — 31 December 2022; and\n(e)where paragraph (3) applies — 31 December of the year X + 1.\n[S 960/2021 wef 22/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1299-A11.011",
+   "no": 11.011,
+   "noLabel": {
+    "en": "11K."
+   },
+   "chapter": {
+    "en": "PART 3A ENERGY MANAGEMENT SYSTEM FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Time of submitting subsequent EnMS reports, etc."
+   },
+   "text": {
+    "en": "11K.—(1) The registered corporation must, for any subsequent assessment cycle of the relevant business activity (called in this regulation the subject assessment cycle), submit to the Director‑General within the time provided in paragraph (2) —\n(a)an EnMS report for the subject assessment cycle; or\n(b) (where regulation 11I(2) applies) an accredited ISO 50001 certification for the energy management system in respect of the relevant business activity that is effective for the whole of the subject assessment cycle.\n(2) The time for the purposes of paragraph (1) is as follows:\n(a)for an EnMS report —\n(i)where an EnMS report was submitted for the assessment cycle immediately prior to the subject assessment cycle, at any time during the first 6 months of a period of 12 months that ends on the last day of the subject assessment cycle; or\nIllustration\nAssume the last day of the subject assessment cycle is 31 December 2023. The relevant period under this sub-paragraph is 1 January 2023 to 30 June 2023 (both dates inclusive).\n(ii)where an accredited ISO 50001 certification was submitted for the assessment cycle immediately prior to the subject assessment cycle, not later than the expiry of the period of 3 months after the date of expiry of that certification;\nIllustration\nAssume the date that the accredited ISO 50001 certification in question expires is 31 December 2023. The EnMS report for the subject assessment cycle (that commences on 1 January 2024) must be submitted on or before 31 March 2024.\n(b)for an accredited ISO 50001 certification — not later than the expiry of the period of 3 months from and including the effective date of the certification.\nIllustration\nAssume the date that the accredited ISO 50001 certification in question commences is 1 January 2024. The certification for the subject assessment cycle (that commences on 1 January 2024) must be submitted on or before 31 March 2024. This applies whether an EnMS report or an accredited ISO 50001 certification was submitted for the assessment cycle immediately prior to the subject assessment cycle.\n(3) The Director-General may extend the period provided in paragraph (2) on such terms as the Director-General thinks fit, if the Director-General is satisfied, on a written application by the registered corporation accompanied by supporting documents —\n(a)that the registered corporation is unable to comply with the requirement due to circumstances beyond the registered corporation’s reasonable control; or\n(b)that an extension of any such time would be otherwise appropriate having regard to the circumstances of the case.\n(4) Paragraph (1) does not apply if —\n(a)the registered corporation ceases to have operational control of the relevant business activity; or\n(b)the registration of the registered corporation is cancelled under section 25(2) of the Act,\nat any time on or before the last day of the period during which an EnMS report or an accredited ISO 50001 certification must be submitted under this regulation.\n[S 960/2021 wef 22/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1299-A11.012",
+   "no": 11.012,
+   "noLabel": {
+    "en": "11L."
+   },
+   "chapter": {
+    "en": "PART 3A ENERGY MANAGEMENT SYSTEM FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Mode of submitting EnMS report, etc."
+   },
+   "text": {
+    "en": "11L. The EnMS reports and the accredited ISO 50001 certifications must be submitted by the energy manager of the registered corporation —\n(a)using the electronic service provided at http://www.nea.gov.sg; or\n(b)in any other manner allowed by the Director-General.\n[S 960/2021 wef 22/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1299-A11.013",
+   "no": 11.013,
+   "noLabel": {
+    "en": "11M."
+   },
+   "chapter": {
+    "en": "PART 3A ENERGY MANAGEMENT SYSTEM FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Energy performance indicator values"
+   },
+   "text": {
+    "en": "11M.—(1) The registered corporation must express any energy performance indicator value or energy baseline stated in an EnMS report as an estimated value or a measured value, except for the following, which must be expressed as a measured value:\n(a)any system-level energy performance indicator value for any new energy-consuming system installed on or after 1 January 2022;\n(b)any plant-level energy performance indicator value reported on or after 1 January 2028.\n(2) In this regulation, “measured value” means a value that is measured directly or derived from one or more measured variables relating to the system or plant in question.\n[S 960/2021 wef 22/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1299-A11.014",
+   "no": 11.014,
+   "noLabel": {
+    "en": "11N."
+   },
+   "chapter": {
+    "en": "PART 3A ENERGY MANAGEMENT SYSTEM FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Application for waiver of application of section 27A of Act"
+   },
+   "text": {
+    "en": "11N. Every application by a registered corporation under section 31B(2) of the Act for the waiver of the application of section 27A of the Act to the registered corporation must —\n(a)be in writing;\n(b)state the reasons for the inability of the registered corporation to comply with section 27A of the Act; and\n(c)be accompanied by supporting documents.\n[S 960/2021 wef 22/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1299-A11.015",
+   "no": 11.015,
+   "noLabel": {
+    "en": "11O."
+   },
+   "chapter": {
+    "en": "PART 3A ENERGY MANAGEMENT SYSTEM FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Records to be kept for this Part"
+   },
+   "text": {
+    "en": "11O.—(1) A registered corporation must keep and maintain complete and accurate records of any information or records relied upon by the registered corporation in preparing an EnMS report under this Part for not less than 5 years after the date on which the report to which the information or records relate is submitted to the Director‑General.\n(2) The records kept and maintained pursuant to this regulation may be kept and maintained in electronic form.\n[S 960/2021 wef 22/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1299-A11.016",
+   "no": 11.016,
+   "noLabel": {
+    "en": "11P."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Definition of this Part"
+   },
+   "text": {
+    "en": "11P. In this Part, “specified power generation activity” means a relevant business activity to which Division 3 applies.\n[S 177/2023 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H1299-A11.017",
+   "no": 11.017,
+   "noLabel": {
+    "en": "11Q."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Prescribed business activity"
+   },
+   "text": {
+    "en": "11Q. Every relevant business activity is a prescribed business activity for the purposes of section 27B of the Act.\n[S 177/2023 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H1299-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Definitions of this Division"
+   },
+   "text": {
+    "en": "12.—(1) In this Division —\n“assessment period”, in relation to a relevant business activity, means —\n(a)the first assessment period relating to the first assessment for the relevant business activity; or\n(b)a subsequent assessment period relating to a subsequent assessment for the relevant business activity following the first assessment period mentioned in paragraph (a);\n“assessment report” means a report in respect of a first assessment or subsequent assessment, as the case may be;\n“energy” and “energy commodity” have the meanings given by paragraph 2 of the Energy Conservation (Registrable Corporations) Order 2013 (G.N. No. S 248/2013);\n“energy efficiency opportunities assessor” means an individual mentioned in regulation 21(a);\n“first assessment”, in relation to a relevant business activity, means an energy efficiency opportunities assessment conducted under regulation 14(1);\n“first assessment period” has the meaning given by regulation 14(2) or (3)(c) or (d), as the case may be;\n“reference period” has the meaning given by regulation 19(a);\n“subsequent assessment”, in relation to a relevant business activity, means an energy efficiency opportunities assessment that is conducted after a first assessment was conducted for the relevant business activity;\n“subsequent assessment period” means the period mentioned in regulation 15(2) or (3), as the case may be.\n[S 177/2023 wef 01/04/2023]\n(2) In this Division, the total energy consumed by a relevant business activity —\n(a)must be derived from all fuel and energy commodities used to provide or produce the energy consumed; but\n(b)excludes energy produced from any fuel or energy commodity that is already accounted for in the total figure.\n[S 898/2019 wef 01/01/2020]\n[S 177/2023 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H1299-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Application of this Division"
+   },
+   "text": {
+    "en": "13.—(1) This Division applies to every relevant business activity carried out by a registered corporation, except a specified power generation activity.\n[S 177/2023 wef 01/04/2023]\n(2) This Division does not apply to a registered corporation if —\n(a)in relation to a first assessment for a relevant business activity — the registered corporation ceases, before the expiry of the first assessment period for that relevant business activity, to have operational control of the relevant business activity;\n(b)in relation to a subsequent assessment for a relevant business activity — the registered corporation ceases, before the expiry of the subsequent assessment period for that relevant business activity, to have operational control of the relevant business activity; or\n(c)the registration of the registered corporation is cancelled under section 25(2) of the Act.\n[S 177/2023 wef 01/04/2023]\n(3) Regulations 18 and 20 do not apply in relation to an energy-consuming system that is an aircraft engine test cell.\n[S 898/2019 wef 01/01/2020]\n[S 177/2023 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H1299-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "First energy efficiency opportunities assessment"
+   },
+   "text": {
+    "en": "14.—(1) A registered corporation must, before the expiry of the first assessment period for each relevant business activity under its operational control —\n(a)conduct a first assessment for the relevant business activity; and\n(b)submit to the Director-General an assessment report in respect of the first assessment.\n(2) Subject to paragraph (3), the first assessment period for a relevant business activity is the period of 6 years starting on the day the registered corporation establishes operational control of the relevant business activity on or after 1 January 2020.\n(3) A registered corporation that established operational control of a relevant business activity before 1 January 2020 is taken to have complied with paragraph (1) if the registered corporation —\n(a)conducts a first assessment for the relevant business activity that satisfies the requirements in regulation 16; and\n(b)submits an assessment report that satisfies the requirements in regulation 22,\nin respect of the applicable first assessment period as follows:\n(c)where the registered corporation established operational control of the relevant business activity on or before 2 June 2017 — the period starting on 1 January 2016 or the day the registered corporation established operational control of the relevant business activity (whichever is later) and ending on 31 December 2021;\n(d)where the registered corporation established operational control of the relevant business activity after 2 June 2017 — the period of 6 years starting on the day the registered corporation established operational control of the relevant business activity.\n(4) For the purposes of paragraph (3), where the day on which the registered corporation establishes operational control of the relevant business activity falls on 29 February, the anniversary of that date in a year that is not a leap year is to be taken as 1 March.\n[S 898/2019 wef 01/01/2020]"
+   }
+  },
+  {
+   "id": "SG-H1299-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Subsequent energy efficiency opportunities assessments"
+   },
+   "text": {
+    "en": "15.—(1) A registered corporation must, where the total energy consumed by any relevant business activity under its operational control in at least 2 of the 3 calendar years in the applicable period for that relevant business activity —\n(a)is equal to or more than 500 terajoules of energy consumed per calendar year — comply with paragraph (2) in relation to that relevant business activity; or\n(b)is equal to or more than 54 terajoules, but is less than 500 terajoules, of energy consumed per calendar year — comply with paragraph (3) in relation to that relevant business activity.\n(2) In relation to a relevant business activity mentioned in paragraph (1)(a), the registered corporation must, before the expiry of the period of 6 years starting immediately after the end of the immediately preceding assessment period for the relevant business activity —\n(a)conduct a subsequent assessment for the relevant business activity; and\n(b)submit to the Director-General an assessment report in respect of the subsequent assessment.\n(3) In relation to a relevant business activity mentioned in paragraph (1)(b), the registered corporation must, if the Director-General by written notice requires —\n(a)conduct a subsequent assessment for the relevant business activity; and\n(b)submit to the Director-General an assessment report in respect of the subsequent assessment,\nbefore the expiry of the period of 6 years starting on the date of the written notice.\n(4) In this regulation —\n“applicable period” means —\n(a)in relation to the first assessment period for a relevant business activity over which the registered corporation established operational control on or before 2 June 2017 — the calendar years 2018, 2019 and 2020; or\n(b)in any other case — the 3 calendar years immediately before the last calendar year of the immediately preceding assessment period for a relevant business activity;\n“last calendar year” includes part of a calendar year.\n[S 898/2019 wef 01/01/2020]"
+   }
+  },
+  {
+   "id": "SG-H1299-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Requirements of energy efficiency opportunities assessments"
+   },
+   "text": {
+    "en": "16. A registered corporation required to conduct a first assessment or subsequent assessment for a relevant business activity must determine the following:\n(a)the methods and processes of the relevant business activity;\n(b)the energy-consuming systems of the relevant business activity in accordance with regulation 17;\n(c)the objective of the assessment in accordance with regulation 18;\n(d)the reference period of the assessment in accordance with regulation 19;\n(e)the methods and processes to be used to conduct the assessment in accordance with regulation 20;\n(f)the individuals conducting the assessment, including each individual’s role and experience, in accordance with regulation 21.\n[S 898/2019 wef 01/01/2020]"
+   }
+  },
+  {
+   "id": "SG-H1299-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Energy-consuming systems of relevant business activities"
+   },
+   "text": {
+    "en": "17. For the purposes of regulation 16(b), the energy-consuming systems of a relevant business activity include —\n(a)all energy-consuming systems, the aggregate energy consumption of which is not less than 80% of the total energy consumption of the relevant business activity during the reference period; and\n(b)any energy-consuming system that uses, directly or indirectly, energy produced by any energy-consuming system mentioned in paragraph (a).\n[S 898/2019 wef 01/01/2020]"
+   }
+  },
+  {
+   "id": "SG-H1299-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Objective of energy efficiency opportunities assessments"
+   },
+   "text": {
+    "en": "18.—(1) For the purposes of regulation 16(c), the objective of the first assessment or subsequent assessment (as the case may be) includes —\n(a)establishing the specific energy consumption of each energy-consuming system of the relevant business activity assessed;\n(b)identifying all energy efficiency opportunities that are available in respect of the relevant business activity, including taking into account any dependencies in respect of the processes and energy-consuming systems of the relevant business activity, after reviewing the matters in paragraph (2);\n(c)assessing the technical and economic feasibility of implementing each energy efficiency opportunity mentioned in sub-paragraph (b), based on a comparison of all the matters in paragraph (3) with the existing processes of, the equipment installed in and the configuration and existing operations of, each energy-consuming system;\n(d)establishing the reason or reasons why the implementation of any energy efficiency opportunity mentioned in sub-paragraph (b) is assessed to be not feasible; and\n(e)where no energy efficiency opportunities mentioned in sub-paragraph (b) are identified, establishing the reason or reasons why no energy efficiency opportunities have been identified.\n(2) The matters mentioned in paragraph (1)(b) are —\n(a)the existing processes of, equipment installed in and configuration of each energy-consuming system of the relevant business activity;\n(b)the existing operations, including the variables (including temperature, rate of flow, pressure and power) and production requirements, of —\n(i)the relevant business activity; and\n(ii)each energy-consuming system of the relevant business activity; and\n(c)the available alternative technology choices (including best available technology) for —\n(i)the relevant business activity;\n(ii)the optimum methods or processes of the relevant business activity; and\n(iii)the energy-consuming systems of the relevant business activity mentioned in regulation 17.\n(3) The matters mentioned in paragraph (1)(c) are —\n(a)the estimated investment and operation cost;\n(b)the estimated annual energy savings;\n(c)the estimated specific energy consumption of each energy-consuming system;\n(d)the estimated annual greenhouse gas emissions;\n(e)the estimated financial savings;\n(f)the estimated returns on investment, including the payback period; and\n(g)any other criterion, including any non-energy related benefits such as greater productivity or improved reliability, that the registered corporation considers appropriate.\n(4) In this regulation —\n“best available technology” means technology that results in the best energy efficiency, use and consumption;\n“payback period”, in relation to an energy efficiency opportunity mentioned in paragraph (1)(b), means the total investment cost of implementing the energy efficiency opportunity divided by the annual financial savings attributable to that investment.\n[S 898/2019 wef 01/01/2020]"
+   }
+  },
+  {
+   "id": "SG-H1299-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Reference period of energy efficiency opportunities assessments"
+   },
+   "text": {
+    "en": "19. For the purposes of regulation 16(d), the registered corporation —\n(a)may determine any reference period, being a period of 12 consecutive months that falls within an assessment period; but\n(b)must ensure that the operations of a relevant business activity during the determined reference period are representative of the typical day-to-day operations of the relevant business activity operating at its intended capacity.\n[S 898/2019 wef 01/01/2020]"
+   }
+  },
+  {
+   "id": "SG-H1299-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Methods and processes to be used for energy efficiency opportunities assessments"
+   },
+   "text": {
+    "en": "20.—(1) For the purposes of regulation 16(e), the first assessment or subsequent assessment (as the case may be) must, in relation to each energy-consuming system mentioned in regulation 17 —\n(a)establish the current energy performance of the energy-consuming system, based on material and energy flows data that is continuously measured for a period of not less than 2 weeks;\n(b)identify the relevant variables (including temperature, rate of flow, pressure and power) that affect the energy performance of the energy-consuming system;\n(c)in relation to each energy efficiency opportunity identified for the energy-consuming system or any part of the system, measure continuously, for a period of not less than 2 weeks, the following:\n(i)material and energy flows data for the energy-consuming system or part of the system, as the case may be;\n(ii)the variables mentioned in sub-paragraph (b) relating to the energy-consuming system or part of the system, as the case may be;\n(d)adopt the instrument types, the accuracies of the instruments used and the practices used for on-site measurements that are specified in any applicable testing method for the energy-consuming system, subject to any applicable standard adopted under section 79(1) of the Act;\n(e)use only data that relate to the assessment period for the energy-consuming system or part of the system, as the case may be; and\n(f)verify, using energy and mass balances, the usability (including completeness, accuracy and method of acquisition) of all data collected and used for the purposes of the assessment.\n(2) In this regulation, “material and energy flows data”, in relation to an energy-consuming system or part of the system, means —\n(a)data relating to the actual material and energy flows (including flows of fuel or energy commodities) in and out of the energy-consuming system or part of the system, as the case may be; or\n(b)where the data mentioned in sub-paragraph (a) cannot be measured or obtained, data derived from any variables (including temperature, pressure, power and material flow rates) relating to material and energy flows in and out of the energy-consuming system or part of the system, as the case may be.\n[S 898/2019 wef 01/01/2020]"
+   }
+  },
+  {
+   "id": "SG-H1299-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Individuals conducting energy efficiency opportunities assessments"
+   },
+   "text": {
+    "en": "21. For the purposes of regulation 16(f), the first assessment or subsequent assessment (as the case may be) must be conducted by —\n(a)at least one individual who is certified by the Institution of Engineers, Singapore as an energy efficiency opportunities assessor; and\n(b)at least one individual who is conversant with the energy-consuming systems of the relevant business activity mentioned in regulation 17.\n[S 898/2019 wef 01/01/2020]"
+   }
+  },
+  {
+   "id": "SG-H1299-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Requirements of assessment reports"
+   },
+   "text": {
+    "en": "22.—(1) The assessment report in respect of a first assessment or subsequent assessment (as the case may be) must include, in respect of each relevant business activity, the following:\n(a)an executive summary that summarises the important findings of the assessment, including the following:\n(i)the total energy consumption of the relevant business activity during the reference period;\n(ii)the energy consumption, expressed as a percentage of the total energy consumption of the relevant business activity, of each energy-consuming system;\n(iii)the energy-consuming systems identified for the purposes of regulation 17(a);\n(iv)the energy efficiency opportunities identified;\n(v)the proposed timeframe for implementing each energy efficiency opportunity identified and assessed to be feasible;\n(b)general information on —\n(i)the registered corporation;\n(ii)the energy efficiency opportunities assessor who is principally responsible for conducting the assessment; and\n(iii)any individual (including an individual mentioned in regulation 21(b)) who contributed to the assessment;\n(c)general information on the relevant business activity, including the following:\n(i)the type of business activity;\n(ii)the outputs of the relevant business activity;\n(d)information about the manner in which the assessment is conducted and the methodology used for the assessment, including —\n(i)the method of data collection and the degree of accuracy of that method; and\n(ii)the basis and degree of accuracy of any calculations or estimates, and the assumptions used for those calculations or estimates;\n(e)information about the energy efficiency opportunities identified, including —\n(i)considerations relating to the technology or practices chosen for each energy efficiency opportunity, as compared to the existing technology or practices used for or in the relevant business activity;\n(ii)the evaluation of all energy efficiency opportunities identified, including the ranking of those opportunities and the basis of, and criteria for, the ranking;\n(iii)the proposed timeframe for implementing the energy efficiency opportunities identified and assessed to be feasible; and\n(iv)any planned or intended changes to the scope or scale of the relevant business activity, and the estimated impact of those changes on the energy consumption of the relevant business activity;\n(f)information about the requirements mentioned in regulation 16.\n(2) Without limiting paragraph (1)(d), the information mentioned in paragraph (1)(d) includes the following:\n(a)the variables measured, or derived from variables measured, relating to the material and energy flows data mentioned in regulation 20;\n(b)the energy content of the fuel or energy commodity (called in this paragraph the energy input) consumed by each energy-consuming system mentioned in regulation 17(a);\n(c)the aggregate energy inputs of all energy-consuming systems mentioned in regulation 17(a);\n(d)block, process or energy flow diagrams that show the energy flows and interactions between any 2 or more energy-consuming systems;\n(e)a description of each energy-consuming system mentioned in regulation 17, including information relating to the energy input and output and specific energy consumption of the energy-consuming system;\n(f)the energy and mass balance —\n(i)within each energy-consuming system; and\n(ii)between any 2 or more energy-consuming systems;\n(g)process or energy flow diagrams that show the breakdown of the equipment comprising each energy-consuming system;\n(h)the specific energy consumption of each fuel or energy commodity used in each energy-consuming system over the timeframe specified in the assessment report;\n(i)the methodology for deriving the energy consumption of each energy-consuming system from the variables mentioned in sub-paragraph (a);\n(j)the data collected and used for the assessment, and the types of instruments or meters used to collect that data, including —\n(i)the accuracies of the instruments or meters; and\n(ii)the duration and frequencies of the measurements taken.\n(3) The assessment report mentioned in paragraph (1) must be —\n(a)signed by the energy efficiency opportunities assessor who is principally responsible for conducting the assessment;\n(aa)endorsed by the energy manager of the registered corporation as to the accuracy of the data in the assessment report;\n[S 719/2025 wef 01/12/2025]\n(b)endorsed by the chief executive of the registered corporation;\n(c)made —\n(i)using the relevant form set out in the electronic service provided at http://www.nea.gov.sg; and\n(ii)in the manner specified by the Director-General; and\n(d)submitted by a person authorised by the registered corporation using the electronic service provided at http://www.nea.gov.sg.\n(4) Every application under section 31B(2) of the Act for the waiver of the application of section 27B of the Act must —\n(a)be in writing;\n(b)state the reasons for the inability of the registered corporation to comply with section 27B of the Act; and\n(c)be accompanied by supporting documents.\n[S 898/2019 wef 01/01/2020]"
+   }
+  },
+  {
+   "id": "SG-H1299-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Records to be kept for this Division"
+   },
+   "text": {
+    "en": "23.—(1) A registered corporation must keep and maintain complete and accurate records of any information or records relied upon by the registered corporation in preparing the assessment report submitted under regulation 22(3) for not less than 10 years after the date the assessment report to which the information relates is submitted to the Director-General.\n(2) The records kept and maintained pursuant to this regulation may be kept and maintained in electronic form.\n[S 898/2019 wef 01/01/2020]\n[S 177/2023 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H1299-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Definitions of this Division"
+   },
+   "text": {
+    "en": "24.—(1) In this Division, unless the context otherwise requires —\n“assessable generating unit” means a gas or steam driven generating unit that must be covered in an energy efficiency opportunities assessment for an assessment period under regulation 27(2);\n“assessment period” means the first assessment period or a subsequent assessment period;\n“energy efficiency opportunities assessment report” means a report mentioned in regulation 33;\n“energy performance indicator” means a measure or unit of energy performance or a metric that demonstrates energy performance improvement;\n“first assessment period” means the assessment period mentioned in regulation 26(2);\n“gas or steam driven generating unit” means any generating unit that uses one or more gas turbines or steam turbines or a combination of any number of gas turbines and steam turbines for, or for purposes connected with, the production of electricity;\n“generating unit” has the meaning given by section 2(1) of the Electricity Act 2001;\n“monitoring parameter” means any variable that can affect the value of an energy performance indicator;\n“principal activity”, in relation to a business activity, means the activity that —\n(a)results in the production of a product or service that is produced for sale on the market; and\n(b)produces the most value for the business activity out of any of the activities forming part of the business activity;\n“specified component”, in relation to a gas or steam driven generating unit, means any of the following that is a component of the generating unit:\n(a)gas turbine;\n(b)heat recovery steam generator;\n(c)boiler;\n(d)steam turbine;\n(e)condenser;\n“subsequent assessment period” means any assessment period mentioned in regulation 26(3);\n“thermodynamic model”, in relation to a gas or steam driven generating unit, means a model or set of mathematical equations, that, upon the imputing of a set of parameters, is capable of —\n(a)simulating the operating conditions and energy performance of the generating unit and the components within the generating unit; and\n(b)quantifying the difference between the actual energy performance and the best possible energy performance of the generating unit and the components within the generating unit;\n“top management” means the individual or individuals in a registered corporation principally responsible for the management and conduct of a specified power generation activity, and may include any of the following:\n(a)the chief executive officer or equivalent;\n(b)the president or vice-president or equivalent;\n(c)the general manager of the specified power generation activity or equivalent;\n“validation report” means a report mentioned in regulation 30.\n(2) In this Division, the total energy consumed by a specified power generation activity —\n(a)must be derived from all fuel and energy commodities used to provide or produce the energy consumed; but\n(b)excludes energy produced from any fuel or energy commodity that is already accounted for in the total figure.\n[S 177/2023 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H1299-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Application of this Division"
+   },
+   "text": {
+    "en": "25. This Division applies in relation to any relevant business activity carried out by a registered corporation the principal activity of which —\n(a)is the generation, transmission or distribution of electricity; and\n(b)involves the operation of at least one gas or steam driven generating unit that has a designed power output of more than 10 megawatts.\n[S 177/2023 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H1299-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Assessment periods"
+   },
+   "text": {
+    "en": "26.—(1) This regulation provides for the determination of the first assessment period and the subsequent assessment periods of a specified power generation activity that is under the operational control of a registered corporation, in respect of which energy efficiency opportunities assessments must be conducted.\n(2) The first assessment period is —\n(a)where regulation 31(1) applies — the year 2024; and\n(b)where regulation 31(2) applies — the year described as year X + 1 in that provision.\n(3) The subsequent assessment periods are —\n(a)the year starting immediately after the end of the first assessment period; and\n(b)each consecutive year after that.\n[S 177/2023 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H1299-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Requirements of energy efficiency opportunities assessment"
+   },
+   "text": {
+    "en": "27.—(1) This regulation sets out the requirements of the energy efficiency opportunities assessments that must be conducted by a registered corporation for a specified power generation activity under the operational control of the registered corporation.\n(2) Subject to paragraph (3), the registered corporation must conduct an energy efficiency opportunities assessment for each assessment period of the specified power generation activity that covers every gas or steam driven generating unit used in the specified power generation activity in that assessment period that has a designed power output of more than 10 megawatts.\n(3) If the generating units mentioned in paragraph (2) would, in the assessment period, have in aggregate an energy consumption accounting for more than 80% of the total energy consumption of the specified power generation activity in the assessment period, then the energy efficiency opportunities assessment for the assessment period need only cover such of those generating units as would have in aggregate an energy consumption accounting for at least 80% of the total energy consumption of the specified power generation activity in the assessment period.\n(4) Where, in any assessment period for a specified power generation activity, for purposes of the specified power generation activity, a registered corporation begins commercial operation of a gas or steam driven generating unit that has a designed power output of more than 10 megawatts, then —\n(a)despite paragraph (2), the energy efficiency opportunities assessment for the specified power generation activity for the assessment period need not cover any such generating unit; and\n(b)for the purposes of paragraph (3), the energy consumed by any such generating unit may be excluded in computing the total energy consumption of the specified power generation activity in the assessment period.\n(5) The energy efficiency opportunities assessment for an assessment period must comprise —\n(a)quarterly reviews of the energy performance of each assessable generating unit and its specified components; and\n(b)at least one review a year of the quarterly reviews mentioned in sub-paragraph (a), by the top management of the registered corporation, in accordance with regulation 32.\n(6) The energy efficiency opportunities assessment need not be conducted for an assessment period if —\n(a)the registered corporation ceases to have operational control of the specified power generation activity in the assessment period; or\n(b)the registration of the registered corporation is cancelled under section 25(2) of the Act in the assessment period.\n[S 177/2023 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H1299-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Requirements of quarterly reviews of energy performance"
+   },
+   "text": {
+    "en": "28.—(1) In order to conduct the quarterly reviews of the energy performance of an assessable generating unit and its specified components mentioned in regulation 27(5)(a), the registered corporation must develop a thermodynamic model for the assessable generating unit.\n(2) In a quarterly review mentioned in paragraph (1), the registered corporation must, in relation to the period covered by the quarterly review, use information from the thermodynamic model to —\n(a)calculate the average, over each month, of all the values of all energy performance indicators of the assessable generating unit and its specified components (each called an average monthly EnPI value);\n(b)identify the following trends:\n(i)the values of all the monitoring parameters that the registered corporation considers significant against —\n(A)time; and\n(B)any other values of monitoring parameters that the registered corporation considers significant;\n(ii)significant deviations in the average monthly EnPI values from the best possible energy performance on a monthly basis;\n(c)evaluate and explain the impact of any trends identified in sub-paragraph (b) on the energy performance of the assessable generating unit and its specified components;\n(d)for each significant deviation from the best possible energy performance identified for the purpose of sub-paragraph (b), identify the energy and cost savings achievable if there were no deviation;\n(e)carry out an investigation using all the monitoring parameters that the registered corporation considers relevant to determine the cause or causes of any deviation mentioned in sub-paragraph (d); and\n(f)identify the steps to be taken to address the cause or causes identified in sub-paragraph (e) with the aim of identifying practices that will improve the energy performance of the assessable generating unit and its specified components.\n(3) For the purpose of any quarterly review mentioned in paragraph (1), the registered corporation must use normalised data that is comparable to and representative of the typical operating conditions of the assessable generating unit and its specified components.\n[S 177/2023 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H1299-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Requirements of thermodynamic model"
+   },
+   "text": {
+    "en": "29.—(1) For the purposes of regulation 28(1), a thermodynamic model for an assessable generating unit must be able to —\n(a)perform mass and energy balance calculations for the assessable generating unit and its specified components;\n(b)determine the actual and best possible energy performance of the assessable generating unit and each of its specified components, across different operating conditions;\n(c)estimate energy savings from the implementation of any energy efficiency opportunity in relation to the assessable generating unit and its specified components;\n(d)estimate the impact of implementing any energy efficiency opportunities on the energy performance of the assessable generating unit and its specified components;\n(e)use the value of one or more monitoring parameters that is or are measured directly to determine the value of an energy performance indicator; and\n(f)compute energy performance indicator values or monitoring parameter values at intervals of not more than 15 minutes.\n(2) Subject to paragraph (3), the thermodynamic model for an assessable generating unit must —\n(a)for the assessable generating unit — incorporate at least one energy performance indicator specified in the second column of the Third Schedule opposite the assessable generating unit; and\n(b)for each specified component of the assessable generating unit — incorporate at least one energy performance indicator specified in the second column of the Third Schedule opposite the specified component.\n(3) A registered corporation may, with the approval of the Director-General, in the thermodynamic model for an assessable generating unit —\n(a)for the assessable generating unit — incorporate any energy performance indicator not specified in the second column of the Third Schedule opposite the assessable generating unit, without incorporating any of the energy performance indicators so specified; and\n(b)for any of its specified components — incorporate any energy performance indicator not specified in the second column of the Third Schedule opposite that specified component, without incorporating any of the energy performance indicators so specified.\n(4) To avoid doubt —\n(a)a registered corporation may, in the thermodynamic model for an assessable generating unit, incorporate an energy performance indicator that is not specified in the second column of the Third Schedule opposite the assessable generating unit or specified component (as the case may be) in addition to the incorporation of any energy performance indicator so specified; and\n(b)the approval of the Director-General is not required for the incorporation of the energy performance indicator not so specified.\n[S 177/2023 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H1299-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Requirements of validation report"
+   },
+   "text": {
+    "en": "30.—(1) A registered corporation must submit a validation report for each thermodynamic model developed in accordance with regulation 29, containing the following information:\n(a)a description of the thermodynamic model developed and methodology used for developing the model for the assessable generating unit and its specified components to which the thermodynamic model relates;\n(b)supporting evidence that the thermodynamic model is accurate, and justification of the methodology used to validate the accuracy of the thermodynamic model;\n(c)a list of all the energy performance indicators incorporated for the assessable generating unit and its specified components to which the thermodynamic model relates;\n(d)the methodology and all directly measured monitoring parameters that will be used to determine the value of each energy performance indicator mentioned in paragraph (c);\n(e)a list of all monitoring parameters (other than monitoring parameters mentioned in paragraph (d)) that may be imputed in the thermodynamic model;\n(f)a list of all energy efficiency opportunities identified, if any;\n(g)in the case where the thermodynamic model incorporates for the assessable generating unit to which it relates, or for any of the specified components of the assessable generating unit, any energy performance indicator that is not specified in the second column of the Third Schedule opposite the assessable generating unit or such specified component (as the case may be) — justification for incorporating that energy performance indicator;\n(h)without affecting paragraph (g), in the case where no energy performance indicator specified in the second column of the Third Schedule opposite the assessable generating unit or specified component (as the case may be) has been incorporated in the thermodynamic model — the reason for the exclusion.\n[S 177/2023 wef 01/04/2023]\n[S 719/2025 wef 01/12/2025]\n(2) The validation report must be endorsed by the energy manager of the registered corporation in respect of the accuracy of the data in the validation report.\n[S 719/2025 wef 01/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H1299-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Time for completion of development of thermodynamic model and submission of validation report"
+   },
+   "text": {
+    "en": "31.—(1) A registered corporation that has operational control over a specified power generation activity at any time in the year 2023 must —\n(a)on or before 31 December 2023 — develop a thermodynamic model mentioned in regulation 29 for each assessable generating unit to be used in the first assessment period for the specified power generation activity; and\n(b)on or before 30 June 2024 — submit to the Director-General a validation report that satisfies the requirements under regulation 30.\n(2) If, in any year (X) subsequent to the year 2023 —\n(a)a registered corporation is registered as such and has operational control over a specified power generation activity;\n(b)a specified power generation activity comes under the operational control of a registered corporation; or\n(c)a business activity over which a registered corporation has operational control and that satisfies all of the following requirements attains the prescribed energy use threshold and becomes a specified power generation activity:\n(i)the principal activity of the business activity is the generation, transmission or distribution of electricity;\n(ii)the principal activity of the business activity involves the operation of at least one gas or steam driven generating unit that has a designed power output of more than 10 megawatts,\nthen the registered corporation must —\n(d)on or before 31 December of the year X — develop a thermodynamic model mentioned in regulation 29 for each assessable generating unit to be used in the first assessment period for the specified power generation activity; and\n(e)on or before 30 June of the year X + 1 — submit to the Director-General a validation report that satisfies the requirements under regulation 30.\n(3) For the purposes of paragraph (2) —\n(a)a business activity attains the prescribed energy use threshold in any year if the business activity attained the prescribed energy use threshold in at least 2 out of the 3 preceding years; and\n(b)the prescribed energy use threshold in any year is as prescribed pursuant to paragraph 3(2) of the Energy Conservation (Registrable Corporations) Order 2013 (G.N. No. S 248/2013) for that year.\n(4) Where in any year (Y) —\n(a)for the purposes of a specified power generation activity, a registered corporation begins commercial operation of a gas or steam driven generating unit that has a designed power output of more than 10 megawatts; and\n(b)any such generating unit will be an assessable generating unit in the assessment period for the year Y + 1,\nthe registered corporation must —\n(c)on or before 31 December of the year Y — complete the development of the thermodynamic model mentioned in regulation 29 for any such generating unit; and\n(d)on or before 30 June of the year Y + 1 — submit to the Director-General a validation report in respect of any such generating unit that satisfies the requirements under regulation 30.\n(5) The Director-General may extend the period provided in paragraph (1)(a) or (b), (2)(d) or (e) or (4)(c) or (d) on any terms that the Director-General thinks fit, if the Director-General is satisfied, on a written application by the registered corporation accompanied by supporting documents —\n(a)that the registered corporation is unable to comply with the requirement due to circumstances beyond the registered corporation’s reasonable control; or\n(b)that an extension of any such time would be otherwise appropriate having regard to the circumstances of the case.\n(6) Paragraphs (1)(a) and (b), (2)(d) and (e) and (4)(c) and (d) do not apply if —\n(a)the registered corporation ceases to have operational control of the specified power generation activity; or\n(b)the registration of the registered corporation is cancelled under section 25(2) of the Act,\nat any time on or before —\n(c)where paragraph (1)(a) applies — 31 December 2023;\n(d)where paragraph (1)(b) applies — 30 June 2024;\n(e)where paragraph (2)(d) applies — 31 December of the year X;\n(f)where paragraph (2)(e) applies — 30 June of the year X + 1;\n(g)where paragraph (4)(c) applies — 31 December of the year Y; and\n(h)where paragraph (4)(d) applies — 30 June of the year Y + 1.\n[S 177/2023 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H1299-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Requirements for top management review"
+   },
+   "text": {
+    "en": "32. The top management of a registered corporation must review the quarterly reviews mentioned in regulation 27(5)(a) at least once a year for the purpose of —\n(a)assessing the suitability and adequacy of the energy efficiency opportunities identified from the quarterly reviews in improving the energy performance of every assessable generating unit and its specified components, and the cost-effectiveness of such energy efficiency opportunities; and\n(b)taking all steps that are necessary and reasonable, upon the completion of each such review, to improve the energy performance of every assessable generating unit and its specified components.\n[S 177/2023 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H1299-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Requirements of energy efficiency opportunities assessment report"
+   },
+   "text": {
+    "en": "33.—(1) A registered corporation must submit an energy efficiency opportunities assessment report for each assessment period of a specified power generation activity under its operational control, which must contain all of the following information in respect of every quarterly review conducted in the assessment period:\n(a)a record of all the trends mentioned in regulation 28(2)(b) that were identified;\n(b)a description of the evaluation and explanations mentioned in regulation 28(2)(c);\n(c)a description of all the significant deviations from the best possible energy performance that were identified for the purpose of regulation 28(2)(b), and in respect of each deviation, the energy and cost savings achievable that were identified, if there were no deviation, mentioned in regulation 28(2)(d);\n(d)a description of all investigations mentioned in regulation 28(2)(e) that were carried out;\n(e)a description of all the steps mentioned in regulation 28(2)(f) that were identified to be taken.\n[S 177/2023 wef 01/04/2023]\n[S 719/2025 wef 01/12/2025]\n(2) The energy efficiency opportunities assessment report must be endorsed by the energy manager of the registered corporation in respect of the accuracy of the data in the energy efficiency opportunities assessment report.\n[S 719/2025 wef 01/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H1299-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Time of submitting energy efficiency opportunities assessment reports"
+   },
+   "text": {
+    "en": "34.—(1) A registered corporation must submit the energy efficiency opportunities assessment report for an assessment period on or before 30 June of the year immediately after the end of the assessment period.\n(2) The Director-General may extend the time prescribed to comply with paragraph (1) on any terms that the Director-General thinks fit, if the Director-General is satisfied, on a written application by the registered corporation accompanied by supporting documents —\n(a)that the registered corporation is unable to comply with paragraph (1) due to circumstances beyond the registered corporation’s reasonable control; or\n(b)that an extension of any such time would be otherwise appropriate having regard to the circumstances of the case.\n(3) Paragraph (1) does not apply if —\n(a)the registered corporation ceases to have operational control of the specified power generation activity; or\n(b)the registration of the registered corporation is cancelled under section 25(2) of the Act,\nat any time on or before the last day of the period during which an energy efficiency opportunities assessment report must be submitted under this regulation.\n[S 177/2023 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H1299-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Mode of submitting validation reports and energy efficiency opportunities assessment reports"
+   },
+   "text": {
+    "en": "35. Every validation report and energy efficiency opportunities assessment report must be submitted by the energy manager of the registered corporation —\n(a)using the electronic service provided at http://www.nea.gov.sg; or\n(b)in any other manner allowed by the Director-General.\n[S 177/2023 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H1299-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Application for waiver of application of section 27B of Act"
+   },
+   "text": {
+    "en": "36. Every application by a registered corporation under section 31B(2) of the Act for waiver of the application of section 27B of the Act to the registered corporation in respect of a specified power generation activity must —\n(a)be in writing;\n(b)state the reasons for the inability of the registered corporation to comply with section 27B of the Act; and\n(c)be accompanied by supporting documents.\n[S 177/2023 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H1299-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 4 ENERGY EFFICIENCY OPPORTUNITIES ASSESSMENTS FOR REGISTERED CORPORATIONS"
+   },
+   "heading": {
+    "en": "Records to be kept for this Division"
+   },
+   "text": {
+    "en": "37.—(1) A registered corporation must keep and maintain complete and accurate records of any information or records relied upon by the registered corporation in preparing a validation report or an energy efficiency opportunities assessment report for at least 5 years after the date the report to which the information or records relate is submitted to the Director-General.\n(2) The records kept and maintained under this regulation may be kept and maintained in electronic form.\n[S 177/2023 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H1299-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 2\nGreenhouse gases\n1. Carbon dioxide\n2. Methane\n3. Nitrous oxide\n4. Sulphur hexafluoride\n5. Nitrogen trifluoride\n6. A hydrofluorocarbon of a kind prescribed in Table 1\n7. A perfluorocarbon of a kind prescribed in Table 2.\nTable 1\nHydrofluorocarbons (HFCs)\nChemical Formula\nHFC-23\nCHF3\nHFC-32\nCH2F2\nHFC-41\nCH3F\nHFC-125\nCHF2CF3\nHFC-134\nCHF2CHF2\nHFC-134a\nCH2FCF3\nHFC-143\nCH2FCHF2\nHFC-143a\nCH3CF3\nHFC-152\nCH2FCH2F\nHFC-152a\nCH3CHF2\nHFC-161\nCH3CH2F\nHFC-227ea\nCF3CHFCF3\nHFC-236cb\nCH2FCF2CF3\nHFC-236ea\nCHF2CHFCF3\nHFC-236fa\nCF3CH2CF3\nHFC-245ca\nCH2FCF2CHF2\nHFC-245fa\nCHF2CH2CF3\nHFC-365mfc\nCH3CF2CH2CF3\nHFC-43-10mee\nCF3CHFCHFCF2CF3\nTable 2\nPerfluorocarbons (PFCs)\nChemical Formula\nPFC-14\nCF4\nPFC-116\nC2F6\nPFC-218\nC3F8\nPFC-318\nc-C4F8\nPFC-3-1-10\nC4F10\nPFC-4-1-12\nC5F12\nPFC-5-1-14\nC6F14"
+   }
+  },
+  {
+   "id": "SG-H1299-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 8(4)(g)\nData on processes and activities resulting in\ngreenhouse gas emissions\nFirst column\nSecond column\nThird column\nProcess or Activity\nData on processes and activities to be provided\nUnit of measure\nChemical Industry\n1.Acrylonitrile production\n(1)Type of process (For example, SOHIO process)\n(2)Amount of acrylonitrile produced\nTonne acrylonitrile produced\n(3)CO2 emission factor\nTonne CO2/tonne acrylonitrile produced\n(4)CH4 emission factor\nKilogramme CH4/tonne acrylonitrile produced\n2.Adipic acid production\n(1)Amount of adipic acid produced\nTonne\n(2)N2O emission factor\nKilogramme N2O/tonne adipic acid produced\n3.Ammonia production\n(1)Amount of ammonia produced\nTonne\n(2)Fuel requirement for ammonia production, by type of fuel\nGigajoule of fuel/tonne ammonia produced\n(3)Carbon content of fuel\nKilogramme carbon/Gigajoule\n(4)Carbon oxidation factor of fuel\nFraction\n(5)Amount of urea produced\nKilogramme\n4.Carbide production\n(1)Type of carbide produced (For example, silicon carbide [SiC], calcium carbide [CaC2])\n(2)If based on raw material used —\n(a)Raw material (For example, petroleum coke) consumption\nTonne\n(b)CO2 emission factor\nTonne CO2/tonne raw material used\n(c)CH4 emission factor\nKilogramme CH4/tonne raw material used\n(3)If based on carbide produced —\n(a)Amount of carbide produced\nTonne\n(b)CO2 emission factor\nTonne CO2/tonne carbide produced\n(c)CH4 emission factor\nKilogramme CH4/tonne carbide produced\n(4)Calcium carbide used in acetylene production\nTonne\n(5)CO2 emission factor\nTonne CO2/tonne carbide used in acetylene production\n5.Carbon black production\n(1)Type of process (For example, furnace black process, thermal black process, acetylene black process)\n(2)Amount of carbon black produced\nTonne carbon black produced\n(3)CO2 emission factor\nTonne CO2/tonne carbon black produced\n(4)CH4 emission factor\nKilogramme CH4/tonne carbon black produced\n6.Caprolactam, glyoxal and glyoxylic acid production\n(1)Type of chemical produced\n(2)Amount of chemical produced\nTonne\n(3)N2O emission factor\nKilogramme N2O/tonne chemical produced\n7.Ethylene dichloride (EDC)/ Vinyl chloride monomer (VCM) production\n(1)Type of process (For example, direct chlorination process, oxychlorination process, balanced process)\n(2)Amount of ethylene dichloride or vinyl chloride monomer produced\nTonne EDC produced or tonne VCM produced\n(3)CO2 emission factor\nTonne CO2/tonne EDC produced or tonne CO2/tonne VCM produced\n(4)CH4 emission factor\nKilogramme CH4/tonne EDC produced or kilogramme CH4/tonne VCM produced\n8.Ethylene oxide production\n(1)Type of process\n(2)Amount of ethylene oxide produced\nTonne ethylene oxide produced\n(3)CO2 emission factor\nTonne CO2/tonne ethylene oxide produced\n(4)CH4 emission factor\nKilogramme CH4/tonne ethylene oxide produced\n9.Ethylene production\n(1)Type of feedstock\n(2)Amount of ethylene produced\nTonne\n(3)CO2 emission factor\nTonne CO2/tonne ethylene produced\n(4)CH4 emission factor\nKilogramme CH4/tonne ethylene produced\n10.Fugitive emissions from oil and natural gas systems from venting, flaring, oil and natural gas production and upgrading, natural gas processing, natural gas transmission and storage, transport of oil, oil refining, oil and natural gas distribution\n(1)Type of fuel (oil, natural gas)\n(2)Type of activity\n(3)Type of greenhouse gas emitted\n(4)Amount of process or activity\nTonne or volume in cubic metres of process or activity\n(5)Emission factor\nTonne greenhouse gas/tonne or volume in cubic metres of process or activity\n11.HCFC-22 production\n(1)Amount of HCFC-22 produced\nKilogramme\n(2)HFC-23 emission factor\nKilogramme HFC-23/kilogramme HCFC-22 produced\n12.By-product emissions of greenhouse gases from production of fluorinated compounds other than HCFC-22\n(1)Type of greenhouse gas emitted as by-product from production of principal fluorinated compound\n(2)Type of principal fluorinated compound produced\n(3)Amount of principal fluorinated compound produced\nKilogramme\n(4)By-product emission factor\nKilogramme by-product gas emitted/kilogramme fluorinated compound produced\n13.Fugitive emissions from production of fluorinated compounds other than HCFC-22\n(1)Type of fluorinated compound produced\n(2)Amount of fluorinated compound produced\nKilogramme\n(3)Fugitive emission factor\nKilogramme fugitive gas emitted/kilogramme fluorinated compound produced\n14.Methanol production\n(1)Type of process (For example, conventional steam reforming process, combined steam reforming process)\n(2)Type of feedstock\n(3)Amount of methanol produced\nTonne\n(4)CO2 emission factor\nTonne CO2/tonne methanol produced\n(5)CH4 emission factor\nKilogramme CH4/tonne methanol produced\n15.Nitric acid production\n(1)Amount of nitric acid produced\nTonne\n(2)N2O emission factor\nKilogramme N2O/tonne nitric acid produced\n16.Soda ash production\n(1)If based on raw material used —\n(a)Amount of trona utilised\nTonne\n(b)CO2 emission factor\nTonne CO2/tonne trona utilised\n(2)If based on carbide produced —\n(a)Amount of natural soda ash produced\nTonne\n(b)CO2 emission factor\nTonne CO2/tonne natural soda ash produced\n17.Titanium dioxide production, including titanium slag, synthetic rutile and rutile titanium dioxide\n(1)Type of production\n(2)Amount of production\nTonne\n(3)CO2 emission factor\nTonne CO2/tonne produced\nElectronics Industry\n18.Integrated circuit or Semiconductor production\n(1)Type of fluorinated compound used\n(2)Type of process (For example, plasma etching thin film, cleaning chemical vapour deposition (CVD) tool chambers, furnace (diffusion), nitride removal (etching), cleaning of low k CVD reactors)\n(3)If consumption of fluorinated compound is non-metered —\n(a)Quantity of fluorinated compound purchased for use in the process\nKilogramme of fluorinated compound purchased for use in the process\n(b)Fraction of gas remaining in gas cylinder (heel) after use\nFraction\n(4)If consumption of fluorinated compound is metered —\nKilogramme of fluorinated compound fed into the process\nquantity of fluorinated compound fed into the process\n(5)Fraction of fluorinated compound destroyed\nFraction\n(6)Fraction of fluorinated compound volume used in processes with emission control technologies\nFraction\n(7)Fraction of fluorinated compound destroyed by the emission control technology\nFraction\n(8)Emission factor for by‑product emissions of CF4\nKilogramme by‑product emissions of CF4/kilogramme of fluorinated compound used in process\n(9)Emission factor for by‑product emissions of C2F6\nKilogramme by‑product emissions of C2F6/kilogramme of fluorinated compound used in process\n(10)Emission factor for by‑product emissions of C3F8\nKilogramme by‑product emissions of C3F8/kilogramme of fluorinated compound used in process\n(11)Type of abatement technology (For example, plasma abatement, cryogenic absorption, membrane separation, chemical-thermal abatement, thermal oxidation)\n19.Photovoltaic material production\n(1)Type of fluorinated compound used (For example, CF4, C2F6)\n(2)Fraction of annual plant production capacity utilisation\nFraction\n(3)Annual manufacturing design capacity\nMillion square metres of substrate processed\n(4)Fraction of photovoltaic material manufacture that uses fluorinated compounds\nFraction\n(5)Fluorinated compound emission factor\nGrams of fluorinated compound/square metres of substrate processed\n20.Thin-film-transistor (TFT) flat panel display production, liquid crystal display production\n(1)Type of fluorinated compound used (For example, CF4, NF3, SF6)\n(2)Fraction of annual plant production capacity utilisation\nFraction\n(3)Annual manufacturing design capacity\nGiga square metres of glass processed\n(4)Fluorinated compound emission factor\nGrams of fluorinated compound/square metres of glass processed\n21.Use of C6F14 as heat transfer fluid\n(1)Fraction of annual plant production capacity utilisation\nFraction\n(2)Annual manufacturing design capacity\nGiga square metres of silicon consumed\n(3)C6F14 emission factor\nKilogramme C6F14/square metres of silicon consumed\nMetal Industry\n22.Aluminium production\n(1)Type of technology (For example, Centre‑Worked Prebake [CWPB], Side-Worked Prebake [SWPB], Vertical Stud Soderberg [VSS], Horizontal Stud Soderberg [HSS])\n(2)Amount of aluminium produced\nTonne aluminium produced\n(3)CO2 emission factor\nTonne CO2/tonne aluminium produced\n(4)CF4 emission factor\nKilogramme CF4/tonne aluminium produced\n(5)C2F6 emission factor\nKilogramme C2F6/tonne aluminium produced\n23.Ferroalloys production\n(1)Type of ferroalloy\n(2)Amount of ferroalloy produced\nTonne ferroalloy produced\n(3)CO2 emission factor\nTonne CO2/tonne ferroalloy produced\n(4)CH4 emission factor\nKilogramme CH4/tonne ferroalloy produced\n24.Iron and steel production\n(1)Type of steelmaking method (For example, basic oxygen furnace, electric arc furnace, open hearth furnace, pig iron furnace [not converted into steel], direct reduced iron [DRI] production, sinter production, pellet production)\n(2)Amount of steel or iron production\nTonne crude steel, pig iron, DRI, sinter or pellet produced\n(3)CO2 emission factor\nTonne CO2/tonne production\n(4)CH4 emission factor\nKilogramme CH4/tonne production\n25.Lead production\n(1)Source and furnace type (For example, imperial smelt furnace production, direct smelting production, treatment of secondary raw materials)\n(2)Amount of lead produced\nTonne lead produced\n(3)CO2 emission factor\nTonne CO2/tonne lead produced\n26.Magnesium production\n(1)Type of raw material (magnesite, dolomite)\n(2)Amount of primary magnesium produced\nTonne primary magnesium produced\n(3)CO2 emission factor\nTonne CO2/tonne primary magnesium produced\n(4)Amount of magnesium casting\nTonne magnesium casting\n(5)SF6 emission factor\nKilogramme SF6/tonne magnesium casting\n27.Zinc production\n(1)Type of process (For example, waelz kiln, pyrometallurgical, electro-thermic)\n(2)Amount of zinc produced\nTonne zinc produced\n(3)CO2 emission factor\nTonne CO2/tonne zinc produced\nMineral Industry\n28.Cement production (if clinker used is produced in Singapore)\n(1)Each type of cement produced\n(2)Mass of each type of cement produced\nTonne\n(3)Clinker fraction in cement\nFraction\n(4)Imports for consumption of clinker\nTonne\n(5)Exports of clinker\nTonne\n(6)CO2 emission factor for the clinker in cement\nTonne CO2/tonne clinker\n29.Glass production\n(1)Total glass production\nTonne\n(2)CO2 emission factor for glass production\nTonne CO2/tonne glass\n(3)Average annual cullet ratio\nFraction\n30.Lime production\n(1)Type of lime produced\n(2)Mass of lime produced\nTonne\n(3)CO2 emission factor for lime production\nTonne CO2/tonne lime\n31.Other uses of carbonates in production, including ceramics production, non‑metallurgical magnesia production and use of soda ash in production\n(1)Type of process where carbonates are used\n(2)Mass of carbonate consumed\nTonne\n(3)Emission factor for carbonate consumption\nTonne CO2/tonne carbonate\nAdiabatic uses of SF6 and PFCs\n32.Adiabatic uses of SF6 and PFCs\n(1)Type of applications (For example, production of car tyres, production of shoe soles, production of tennis balls)\n(2)Type of greenhouse gas used\n(3)Quantity of the SF6 or PFCs used in producing this application type 3 years preceding current reporting year\nTonne\nManufacture and use of SF6 in sound-proof glazing\n33.Use of SF6 in manufacture of sound‑proof glazing\n(1)SF6 purchased to fill windows assembled in current reporting year\nTonne SF6\n(2)SF6 emission factor during assembly\nFraction\n34.Use of SF6 in installed sound‑proof glazing\n(1)Amount of SF6 in installed windows in current reporting year\nTonne SF6\n(2)Leakage emission factor\nFraction\n35.Disposal of SF6 in sound‑proof glazing\n(1)Amount left in windows at end of lifetime (disposed of in current reporting year)\nTonne SF6\n(2)Fraction of SF6 recovered\nFraction\nN2O Emissions from Medical Applications and in Aerosol Products\n36.N2O emissions from medical applications [For example, anaesthetic use, analgesic use, veterinary use] and in aerosol products\n(1)Type of applications (Medical applications, propellant in aerosol products)\n(2)Quantity of N2O supplied in this application type in current reporting year\nTonne\n(3)Quantity of N2O supplied in this application type in year preceding current reporting year\nTonne\n(4)N2O emission factor\nFraction\nSF6 and PFC Emissions from Use of Tracers and Production of Optical Cables\n37.SF6 and PFC emissions from use of tracers or production of optical cables\n(1)Type of applications\n(2)Type of greenhouse gas used\n(3)Quantity of SF6 or PFCs used in this application type in current reporting year\nTonne\n(4)Quantity of SF6 or PFCs used in this application type in year preceding current reporting year\nTonne\nUse of HFCs and PFCs as Substitutes for Ozone Depleting Substances\n38.Use of HFCs or PFCs as foam blowing agents to produce closed cell foam\n(1)Type of HFCs or PFCs used\n(2)Amount of HFC or PFC blown into closed cell foam\nTonne\n(3)Lifetime of closed cell foam\nYears\n(4)First year losses of the HFC or PFC — Foam manufacture and installation\nTonne\n(5)Second and subsequent years — Annual emission factor for the HFC or PFC (in-situ losses from foam use, as a percentage of the amount of HFC or PFC blown into closed cell foam)\nPercentage\n39.Use of HFCs or PFCs as foam blowing agents to produce open cell foam\n(1)Type of HFCs or PFCs used\n(2)Amount of HFC or PFC used to produce the foam\nTonne\n40.Use of HFCs and PFCs in aerosols\n(1)Type of HFCs or PFCs contained in aerosol products used\n(2)Quantity of HFCs or PFCs contained in aerosol products used\nTonne\n41.Use of HFCs and PFCs in fire protection equipment\n(1)Type of HFCs or PFCs used in the equipment\n(2)Amount of the HFC or PFC in the equipment used\nTonne\n(3)Amount of the HFC or PFC in equipment disposed\nTonne\n42.Use of HFCs or PFCs in refrigeration and air-conditioning equipment\n(1)Type of HFCs or PFCs used in the equipment\n(2)Amount of the HFC or PFC topped up in the equipment\nKilogramme\n(3)Amount of the HFC or PFC in equipment disposed\nTonne\n43.Use of HFCs and PFCs in solvents\n(1)Type of HFCs or PFCs used\n(2)Quantity of the HFC or PFC used\nTonne\n44.Other applications of HFCs and PFCs (For example, sterilisation equipment, tobacco expansion applications, solvents in the manufacture of adhesive coatings and inks)\n(1)Type of HFCs or PFCs used\n(2)Quantity of the HFC or PFC used\nTonne\n(3)Emission factor (loss occurred)\nFraction\nUse of Lubricants and Paraffin Waxes\n45.Use of lubricant\n(1)Amount of lubricant consumed\nTerajoule\n(2)Carbon content of lubricant\nTonne of Carbon/Terajoule\n(3)Fraction oxidised during use\nFraction\n46.Use of paraffin wax\n(1)Amount of paraffin wax consumed\nTerajoule\n(2)Carbon content of paraffin wax\nTonne of Carbon/Terajoule\n(3)Fraction oxidised during use\nFraction\nUse of SF6 in Airborne Warning and Control Systems\n47.Use of SF6 in Airborne Warning and Control Systems (AWACS)\n(1)Number of AWACS\n(2)SF6 emission factor\nKilogramme SF6/AWACS\nUse of SF6 in Electrical Equipment\n48.Use of SF6 in electrical equipment\n(1)Type of equipment (For example, sealed‑pressure, closed‑pressure, gas‑insulated transformers)\nSF6 emissions from manufacturing\n(2)Amount of SF6 used by equipment manufacturers\nTonne SF6\n(3)SF6 emission factor during manufacture\nFraction\nSF6 emissions during equipment installation\n(4)Capacity of new equipment filled onsite\nTonne SF6\n(5)SF6 emission factor during installation\nFraction\nSF6 emissions from equipment use\n(6)Capacity of installed equipment\nTonne SF6\n(7)SF6 emission factor during use\nFraction\nSF6 emissions from equipment disposal\n(8)Capacity of disposed equipment\nTonne SF6\n(9)Fraction of SF6 remaining at disposal\nFraction\nUse of SF6 in Particle Accelerators\n49.Use of SF6 in industrial and medical particle accelerators\n(1)Type of applications (For example, industrial accelerator [high voltage: 0.3-23 megavolts], industrial accelerator [low voltage: <0.3 megavolts], medical [radiotherapy])\n(2)Number of particle accelerators that use SF6\nNumber\n(3)SF6 charge factor\nKilogramme SF6/particle accelerator\n(4)SF6 emission factor\nFraction\n50.Use of SF6 in university and research particle accelerators\n(1)Number of university and research particle accelerators\nNumber\n(2)SF6 use factor\nFraction\n(3)SF6 charge factor\nKilogramme SF6/particle accelerator\n(4)SF6 emission factor\nFraction\nAny Other Process or Activity Resulting in Greenhouse Gas Emissions\n51.Any other process or activity resulting in greenhouse gas emissions\n(1)Type of process or activity\n(2)Amount of process or activity\nTonne raw material or product from the process or activity\n(3)Type of greenhouse gas emitted\n(4)Greenhouse gas emission factor(s)\nTonne greenhouse gas/tonne raw material or product from the process or activity."
+   }
+  },
+  {
+   "id": "SG-H1299-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulations 29(2), (3) and (4) and 30(1)(g) and (h)\nEnergy performance indicators for an assessable generating unit and its specified components\nFirst column\nSecond column\nAssessable generating unit or specified component\nEnergy performance indicator\n1.Generating unit\n(a)Generating unit thermal efficiency\n(b)Generating unit heat rate\n2.Gas turbine\n(a)Gas turbine heat rate\n(b)All of the following gas turbine component level indicators for every component in the gas turbine:\n(i)inlet air filter pressure drop;\n(ii)compressor isentropic efficiency;\n(iii)turbine isentropic efficiency\n3.Heat recovery steam generator\n(a)Efficiency of heat recovery\n(b)Heat recovery steam generator section level efficiency\n4.Boiler\n(a)Thermal efficiency;\n(b)Boiler section level efficiency\n5.Steam turbine\n(a)Steam turbine isentropic efficiency\n(b)Steam turbine section level isentropic efficiency\n6.Condenser\n(a)Condenser pressure\n[S 177/2023 wef 01/04/2023]\n[S 719/2025 wef 01/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H1299-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE\nRegulations 7AC and 7MA\nApplication to be registered relevant person\nand for submission of assessment report\nPart 1\nPRESCRIBED PERIODS\nX (in regulation 7AC or 7MA, as the case may be)\nApplications to be registered as a registered relevant person\nCompletion of assessment\nand submission of\nassessment report\n1.X has operational control over the premises mentioned in regulation 7G(a) that comprise a new building, and the new building is served by the prescribed system\nIf the date of issue of the TOP or CSC for the new building is —\n(a)1 December 2025 or earlier — by 1 June 2026; or\n(b)after 1 December 2025 — within 6 months of the date of issue of the TOP or CSC\nRegardless of the date of issue of the TOP or CSC for the new building, if —\n(a)only one person wholly occupies the premises — within 15 months of the date on which X is registered as a registered relevant person; or\n(b)2 or more persons occupy the premises — within 3 months after the earlier of the following:\n(i)the date on which X is registered as a registered relevant person, and more than 80% of the gross floor area of the new building (or, where more than one new building is being developed, the new buildings) that the prescribed system serves is occupied;\n(ii)the expiry of 36 months after the date on which X is registered as a registered relevant person\n2.Subject to item 5, X has operational control over the premises mentioned in regulation 7G(a) that do not comprise a new building, and the premises are served by the prescribed system\nBy 1 June 2030\nBy 30 June 2030\n3.Subject to item 5, X has, on the following dates, operational control over an applicable business activity that is not a chilled water business activity, and the business activity is served by the prescribed system:\n(a)X has operational control over the business activity before 1 December 2029\nBy 1 June 2030\nBy 30 June 2030\n(b)X has operational control over the business activity on or after 1 December 2029\nWithin 6 months of the date on which the prescribed system begins serving the business activity\nIf X is registered as a registered relevant person —\n(a)between 1 January and 30 May (both dates inclusive) of a calendar year — by 30 June of that calendar year; or\n(b)between 1 June and 31 December (both dates inclusive) of a calendar year — by 30 June of the calendar year following that calendar year on or after 1 December 2029\n4.Subject to item 5, X has operational control over a chilled water business activity and begins supplying the chilled water on the following dates, and the prescribed system is used to supply chilled water for purposes of the business activity:\n(a)X began supplying the chilled water before 1 December 2025\nIf such supply was —\n(a)only to registered corporations — by 1 June 2026; or\n(b)only to persons who are not registered corporations, or to both persons who are registered corporations and persons who are not registered corporations — by 1 June 2030\nIf such supply was —\n(a)only to registered corporations — by 30 June 2026; or\n(b)only to persons who are not registered corporations, or to both persons who are registered corporations and persons who are not registered corporations — by 30 June 2030\n(b)X begins supplying the chilled water on or after 1 December 2025\nIf such supply is —\n(a)only to registered corporations — within 6 months after X begins such supply; or\n(b)subject to item 5, only to persons who are not registered corporations, or to both persons who are registered corporations and persons who are not registered corporations — within 6 months of the date on which X begins such supply, or by 1 June 2030, if later\nIf X is registered as a registered relevant person —\n(a)between 1 January and 30 May (both dates inclusive) of a calendar year — by 30 June of that calendar year; or\n(b)between 1 June and 31 December (both dates inclusive) of a calendar year — by 30 June of the calendar year following that calendar year\n5.X is a registered corporation as follows:\n(a)X was registered as a registered corporation under section 23 of the Act before 1 December 2025 and remains a registered corporation on 1 December 2025\nBy 1 June 2026\nBy 30 June 2026\n(b)X is registered as a registered corporation under section 23 of the Act between 1 December 2025 and 30 November 2029 (both dates inclusive)\nWithin 6 months of the date on which X is registered as a registered corporation\nIf X is so registered —\n(a)between 1 January and 30 May (both dates inclusive) of a calendar year — by 30 June of that calendar year; or\n(b)between 1 June and 31 December (both dates inclusive) of a calendar year — by 30 June of the calendar year following that calendar year\nPart 2\nINTERPRETATION\n1. In Part 1 of this Schedule —\n“applicable business activity” means a business activity mentioned in regulation 7G(b);\n“chilled water business activity” means the business activity of supplying chilled water for air‑conditioning;\n“CSC” and “TOP” have the meanings given by regulation 7AA.\nPart 3\nAPPLICATION\n1. In item 1 of Part 1 of this Schedule, in determining the number of persons occupying the premises, any person occupying the premises only for the purposes of operating or maintaining the prescribed system is to be disregarded.\n2. In Part 1 of this Schedule, if —\n(a)item 1 or 2 applies to X; and\n(b)item 3 also applies to X,\nthen X must apply to be registered as a registered relevant person or submit the assessment report (as the case may be) at the earliest date applicable to X under those items for the application or submission, subject to the application of item 5.\n3. In Part 1 of this Schedule, if —\n(a)item 1 or 2 applies to X; and\n(b)item 4 also applies to X,\nthen X must apply to be registered as a registered relevant person or submit the assessment report (as the case may be) by the dates applicable to X under item 4 for the application or submission, subject to the application of item 5.\n[S 719/2025 wef 01/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H1299-A900004",
+   "no": 900004,
+   "noLabel": {
+    "en": "FIFTH SCHEDULE"
+   },
+   "text": {
+    "en": "FIFTH SCHEDULE\nRegulation 7L\nMinimum energy efficiency standards\nfor prescribed systems\nPart 1\nminimum energy efficiency STANDARDS\nFirst column\nSecond column\nThird column\nPremises or business activity\nPrescribed system\nMinimum energy efficiency standard\n1.Premises comprising a new building where —\n(a)an application for planning permission for the development of the building was or is submitted between 1 December 2020 and 30 March 2026 (both dates inclusive); or\n(b)the Minister charged with the responsibility for national development has authorised or authorises the carrying out of the development of the building between 1 December 2020 and 30 March 2026 (both dates inclusive)\nPrescribed system produces chilled water —\n(a)dedicated solely for space cooling in the building; and\n(b)only at one setpoint temperature at all times\nThe energy performance corresponding to the number ascertained in accordance with the formula 0.212 – G × 0.003\n2.Premises comprising a new building where —\n(a)an application for planning permission for the development of the building was or is submitted on or after 1 April 2026; or\n(b)the Minister charged with the responsibility for national development has authorised or authorises the carrying out of the development of the building on or after 1 April 2026\n(a)Prescribed system produces chilled water —\n(i)dedicated solely for space cooling in the building; and\n(ii)at a setpoint temperature between 3°C and 7°C\nThe energy performance corresponding to the number ascertained in accordance with the formula 0.200 – G × 0.003\n(b)Prescribed system produces chilled water —\n(i)dedicated solely for space cooling in the building; and\n(ii)at a setpoint temperature above 7°C\n0.179\n(c)Prescribed system produces chilled water —\n(i)dedicated solely for space cooling in the building; and\n(ii)at 2 or more setpoint temperatures\nThe energy performance corresponding to the refrigeration output or refrigeration energy output weighted‑average of the number ascertained in accordance with the formula 0.200 – G × 0.003 for each temperature at which chilled water is produced by the prescribed system, and any calculated value that is less than 0.179 is to be treated as 0.179\n3.Premises comprising a new building\n(a)Prescribed system produces chilled water —\n(i)that is not dedicated solely for space cooling in the building; and\n(ii)only at one setpoint temperature at all times\nThe energy performance corresponding to the number ascertained in accordance with the formula 0.212 – G × 0.003\n(b)Prescribed system produces chilled water —\n(i)that is not dedicated solely for space cooling in the building; and\n(ii)at 2 or more setpoint temperatures\nThe energy performance corresponding to the refrigeration output or refrigeration energy output weighted-average of the number ascertained in accordance with the formula 0.212 – G × 0.003 for each temperature at which chilled water is produced by the prescribed system\n4.Premises not comprising a new building\n(a)Prescribed system produces chilled water only at one setpoint temperature at all times\nThe energy performance corresponding to the number ascertained in accordance with the formula 0.212 – G × 0.003\n(b)Prescribed system produces chilled water at 2 or more setpoint temperatures\nThe energy performance corresponding to the refrigeration output or refrigeration energy output weighted‑average of the number ascertained in accordance with the formula 0.212 – G × 0.003 for each temperature at which chilled water is produced by the prescribed system\n5.Business activity attributable to an industry sector mentioned in regulation 7G(b)\n(a)Prescribed system produces chilled water only at one setpoint temperature at all times\nThe energy performance corresponding to the number ascertained in accordance with the formula 0.212 – G × 0.003\n(b)Prescribed system produces chilled water at 2 or more setpoint temperatures\nThe energy performance corresponding to the refrigeration output or refrigeration energy output weighted‑average of the number ascertained in accordance with the formula 0.212 – G × 0.003 for each temperature at which chilled water is produced by the prescribed system\nPart 2\nINTERPRETATION\n1. For the purposes of Part 1 of this Schedule, G is either of the following, measured in degrees Celsius:\n(a)in a case where the average temperature of the chilled water supply produced by the prescribed system during the assessment period is within 0.5°C of the setpoint temperature of the chilled water — the setpoint temperature rounded to the nearest 1°C;\n(b)in any other case — the average temperature of the chilled water supply rounded to the nearest 1°C.\n2. In Part 1 of this Schedule, “space cooling” means the process of treating air so as to simultaneously control its temperature, humidity, cleanliness and distribution to meet the requirements of the conditioned space.\nPart 3\nAPPLICATION\n1. Where items 2 and 5 of Part 1 of this Schedule both apply to a prescribed system, the prescribed minimum energy efficiency standard applicable to the prescribed system is the standard specified in item 2 of Part 1 of this Schedule.\n[S 719/2025 wef 01/12/2025]"
+   }
+  }
+ ]
+}

@@ -1,0 +1,530 @@
+{
+ "id": "SG-H429",
+ "title": {
+  "zh": null,
+  "en": "CareShield Life and Long-Term Care (ElderShield Scheme) Regulations 2021",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p06",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CLLTCA2019-S810-2021",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 32,
+ "chars": 30974,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CLLTCA2019-S810-2021?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 32 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 4 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H429-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the CareShield Life and Long‑Term Care (ElderShield Scheme) Regulations 2021 and come into operation on 1 November 2021."
+   }
+  },
+  {
+   "id": "SG-H429-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Application of these Regulations"
+   },
+   "text": {
+    "en": "2. These Regulations apply to every individual mentioned in section 11(1)(b) of the Act."
+   }
+  },
+  {
+   "id": "SG-H429-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 INSURANCE COVER AND RELATED PROVISIONS"
+   },
+   "heading": {
+    "en": "Insurance period"
+   },
+   "text": {
+    "en": "3. Each insurance period of an individual’s insurance cover under the ESH Scheme is a period of 12 months starting on the date of commencement or renewal of the individual’s insurance cover under the former ElderShield Scheme, unless the insurance cover is cancelled or terminated on an earlier date —\n(a)before the transfer date; or\n(b)on or after the transfer date in accordance with this Part."
+   }
+  },
+  {
+   "id": "SG-H429-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 INSURANCE COVER AND RELATED PROVISIONS"
+   },
+   "heading": {
+    "en": "Commencement of insurance cover"
+   },
+   "text": {
+    "en": "4. An individual’s insurance cover under the ESH Scheme is treated as having commenced on the date of commencement of the individual’s insurance cover under the former ElderShield Scheme."
+   }
+  },
+  {
+   "id": "SG-H429-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 INSURANCE COVER AND RELATED PROVISIONS"
+   },
+   "heading": {
+    "en": "End of insurance cover"
+   },
+   "text": {
+    "en": "5. For the purposes of section 12(3)(a) of the Act, an insured person’s insurance cover under the ESH Scheme ends if the insurance cover is cancelled or terminated in accordance with regulation 6 or 7."
+   }
+  },
+  {
+   "id": "SG-H429-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 INSURANCE COVER AND RELATED PROVISIONS"
+   },
+   "heading": {
+    "en": "Cancellation of insurance cover"
+   },
+   "text": {
+    "en": "6.—(1) The Board may cancel an individual’s insurance cover under the ESH Scheme if —\n(a)the Board finds that the insurance cover in respect of the individual has been issued in error (including because the individual dies on or before the date of commencement of the insurance cover, and the Board is notified of the individual’s death only after that date), and no claim has been accepted by the Administrator under section 16 of the Act in respect of the individual;\n(b)the Board finds that the individual was severely disabled before the commencement of the individual’s insurance cover under the ESH Scheme; or\n(c)the individual opts out of the ESH Scheme within 60 days beginning on the commencement of the individual’s insurance cover under the ESH Scheme, or within any other period as the Board may allow.\n(2) The cancellation under paragraph (1) takes effect on the date of commencement of the insurance cover issued in respect of the individual concerned, as if the insurance cover had not been issued."
+   }
+  },
+  {
+   "id": "SG-H429-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 INSURANCE COVER AND RELATED PROVISIONS"
+   },
+   "heading": {
+    "en": "Termination of insurance cover"
+   },
+   "text": {
+    "en": "7.—(1) The Board may terminate an individual’s insurance cover under the ESH Scheme if —\n(a)the individual —\n(i)fails to make the required premium payment for the individual’s insurance cover at the expiry of 75 days after the renewal date of the individual’s insurance cover (called in this Part the grace period); and\n(ii)has not made the minimum number of premium payments under the ESH Scheme such that the individual’s insurance cover under the ESH Scheme does not terminate by reason of the individual’s failure to pay the premium for any insurance period;\n(b)the individual dies;\n(c)the individual has fully claimed the benefits under the ESH Scheme;\n(d)the individual has requested to terminate his or her insurance cover under the ESH Scheme;\n(e)the individual’s insurance cover under the CSHL Scheme has commenced;\n[S 204/2024 wef 31/03/2024]\n(f)the Board, with the Minister’s approval, considers that the exceptional circumstances for the reinstatement of the individual’s insurance cover under regulation 8(1)(c) no longer apply;\n[S 204/2024 wef 31/03/2024]\n(g)the individual ceases to be a citizen of Singapore on or after 1 April 2024 and does not immediately become a permanent resident of Singapore; or\n[S 204/2024 wef 31/03/2024]\n(h)the individual ceases to be a permanent resident of Singapore on or after 1 April 2024 and does not immediately become a citizen of Singapore.\n[S 204/2024 wef 31/03/2024]\n(2) In the circumstances set out in paragraph (1), the Board may terminate an individual’s insurance cover —\n(a)where sub-paragraph (a) of that paragraph applies — on the date immediately after the last insurance period in which the individual has made the required premium payment;\n(b)where sub-paragraph (b) of that paragraph applies —\n(i)on the date immediately after the date on which the individual dies, if the individual has not made a successful claim under the ESH Scheme in accordance with section 16 of the Act; or\n(ii)on the date immediately after the date on which the Board is notified of the individual’s death if the individual has made a successful claim under the ESH Scheme in accordance with section 16 of the Act;\n(c)where sub-paragraph (c) of that paragraph applies —\n(i)if the month in which the last payout was made is not the same month in which the insurance period is to end — on the date immediately after the last day of the month in which the last payout was made; or\n(ii)if the month in which the last payout was made is the same month in which the insurance period is to end — on the date immediately after the last day of the insurance period in which the last payout was made;\n(d)in the circumstances set out in sub‑paragraph (d) of that paragraph — on the date immediately after the last day of the last insurance period in which the individual has made the required premium payment;\n[S 204/2024 wef 31/03/2024]\n(e)in the circumstances set out in sub‑paragraph (e) of that paragraph — on the day of the commencement of the individual’s insurance cover under the CSHL Scheme;\n[S 204/2024 wef 31/03/2024]\n(f)in the circumstances set out in sub-paragraph (g) of that paragraph — on the date immediately after the date on which the individual ceases to be a citizen of Singapore and does not immediately become a permanent resident of Singapore; and\n[S 204/2024 wef 31/03/2024]\n(g)in the circumstances set out in sub-paragraph (h) of that paragraph — on the date immediately after the date on which the individual ceases to be a permanent resident of Singapore and does not immediately become a citizen of Singapore.\n[S 204/2024 wef 31/03/2024]"
+   }
+  },
+  {
+   "id": "SG-H429-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 INSURANCE COVER AND RELATED PROVISIONS"
+   },
+   "heading": {
+    "en": "Reinstatement of insurance cover"
+   },
+   "text": {
+    "en": "8.—(1) The Board may reinstate the insurance cover of an individual whose insurance cover under the ESH Scheme was terminated in accordance with regulation 7 if —\n(a)in the event the termination was in accordance with regulation 7(1)(a) — the individual applies to reinstate his or her insurance cover within 180 days after the expiry of the grace period or a longer period that the Board may allow;\n(b)in the event the termination was in accordance with regulation 7(1)(e) — the individual’s insurance cover under the CSHL Scheme is subsequently cancelled;\n[S 814/2024 wef 30/10/2024]\n(ba)in the event the termination (whether before, on or after 30 October 2024) was in accordance with regulation 7(1)(g) or (h) — the individual is reinstated as a citizen of Singapore or a permanent resident of Singapore; or\n[S 814/2024 wef 30/10/2024]\n(c)the Board, with the Minister’s approval, considers that there are exceptional circumstances for the reinstatement of the individual’s insurance cover.\n(2) In deciding whether to reinstate an individual’s insurance cover under paragraph (1), the Board may require the individual to attend a disability assessment by an assessor.\n(3) Where the Board reinstates the insurance cover of an individual under paragraph (1)(ba), the insurance cover is reinstated on the date the individual is reinstated as a citizen of Singapore or a permanent resident of Singapore.\n[S 814/2024 wef 30/10/2024]"
+   }
+  },
+  {
+   "id": "SG-H429-A8.001",
+   "no": 8.001,
+   "noLabel": {
+    "en": "8A."
+   },
+   "chapter": {
+    "en": "PART 2 INSURANCE COVER AND RELATED PROVISIONS"
+   },
+   "heading": {
+    "en": "Payment of goodwill sum"
+   },
+   "text": {
+    "en": "8A.—(1) This regulation applies in relation to an individual —\n(a)who, on or after 1 April 2024, ceases to be a citizen of Singapore and does not immediately become a permanent resident of Singapore, or who ceases to be a permanent resident of Singapore and does not immediately become a citizen of Singapore;\n(b)whose insurance cover under the ESH Scheme was not issued in error, but was terminated (whether before, on or after 30 October 2024) under regulation 7(1)(g) or (h); and\n(c)who is a severely disabled individual whose claim under section 16 of the Act has been accepted by the Administrator (whether before, on or after 30 October 2024).\n(2) The Board may pay a goodwill sum to —\n(a)the individual; or\n(b)an approved payee nominated by the individual, or by the authorised applicant for the individual.\n(3) The goodwill sum may consist of one or more payments to be made at a frequency that the Board may determine.\n(4) The Board may suspend the payment of the goodwill sum where —\n(a)the Board is unable to make the payment because of insufficient information provided by the individual or the approved payee for such payment; or\n(b)in the case of payment to an approved payee, the approved payee lacks mental capacity or has died, and no new approved payee was nominated by the individual, or by the authorised applicant for the individual, as the case may be.\n(5) If the circumstances for the suspension of payment under paragraph (4) no longer exist, the Board may resume the payment of any remaining amount of the goodwill sum even if the individual’s insurance cover is reinstated under regulation 8.\n(6) Upon reinstatement of the individual’s insurance cover under regulation 8, if the insured person is entitled to the payment of one or more insured sums on or after the date of such reinstatement —\n(a)the whole amount of the goodwill sum is treated as the payment of the number of monthly insured sums which corresponds to that whole amount (called the relevant insured sums); and\n(b)the payment of any other insured sum under section 18(2) of the Act resumes only after the relevant insured sums are treated as paid under sub-paragraph (a).\n[S 814/2024 wef 30/10/2024]"
+   }
+  },
+  {
+   "id": "SG-H429-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 PREMIUMS"
+   },
+   "heading": {
+    "en": "Definitions for this Part"
+   },
+   "text": {
+    "en": "9. In this Part —\n“dependant”, in relation to a relevant CPF member, means —\n(a)the relevant CPF member’s spouse, child or parent;\n(b)the relevant CPF member’s sibling or grandparent, who is a citizen of Singapore or a permanent resident of Singapore; or\n(c)any other person whom the Board may approve as a dependant for the purposes of these Regulations;\n“relevant CPF member” has the meaning given by regulation 13."
+   }
+  },
+  {
+   "id": "SG-H429-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 PREMIUMS"
+   },
+   "heading": {
+    "en": "Obligation to pay premiums"
+   },
+   "text": {
+    "en": "10.—(1) For the purposes of section 14(1) of the Act, the insured person’s obligation to pay the premium in respect of an insurance period (P) ends when any of the following circumstances first occurs:\n(a)if the insured person became entitled to the payment of an insured sum in any month during the insurance period immediately before P, unless paragraph (2) applies;\n(b)where the insured person is required to pay a single lump sum premium or premiums for 10 insurance periods — the insured person has paid the single lump sum premium or premiums in respect of all the 10 insurance periods, as the case may be;\n(c)the insured person has paid the premium in respect of the insurance period that commences after the individual’s 65th birthday;\n(d)the insured person has made the minimum number of premium payments under the ESH Scheme such that the insured person’s insurance cover under the ESH Scheme does not terminate by reason of the insured person’s failure to pay the premium for any insurance period;\n(e)the termination of insurance cover under regulation 7.\n(2) If the insured person ceases to be entitled to the payment of an insured sum in any month during the insurance period immediately before P, the insured person must pay the premium in respect of P, unless —\n(a)his or her obligation to pay the premium has ended because of paragraph (1)(b), (c), (d) or (e); or\n(b)the insured person subsequently becomes entitled to the payment of an insured sum during the insurance period immediately before P.\n(3) Despite paragraph (1)(e), the insured’s person’s obligation to pay the premium in respect of P continues to apply if the reason for the termination is that his or her insurance cover under the CSHL Scheme has commenced, unless the Board, with the Minister’s approval, considers that there are exceptional circumstances for such obligation to end on an earlier date.\n(4) For the purposes of section 14(1) of the Act, an insured person’s obligation to pay premiums under the ESH Scheme is treated as ended if the insured person’s obligation to pay premiums under the former ElderShield Scheme ended before the transfer date.\n(5) In this regulation —\n(a)a reference to a premium paid under paragraph (1)(b), (c) or (d) includes a premium paid for the insured person’s insurance cover under the former ElderShield Scheme; and\n(b)P does not include the first insurance period of the insured person’s insurance cover under the ESH Scheme."
+   }
+  },
+  {
+   "id": "SG-H429-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 PREMIUMS"
+   },
+   "heading": {
+    "en": "Amount of premium"
+   },
+   "text": {
+    "en": "11. For the purposes of section 14(2) of the Act, the premium for each insurance period of an insured person’s insurance cover under the ESH Scheme is an amount specified on the Internet website at https://www.cpf.gov.sg.\n[S 806/2025 wef 01/01/2026]"
+   }
+  },
+  {
+   "id": "SG-H429-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 PREMIUMS"
+   },
+   "heading": {
+    "en": "Transfer of moneys to pay shortfall in premium"
+   },
+   "text": {
+    "en": "12.—(1) This regulation applies where the Board finds that —\n(a)there is any shortfall in the premium in respect of an insurance period paid under section 14(4) of the Act by an insured person, or by a relevant CPF member under Division 2 of this Part; and\n(b)the insured person or the relevant CPF member has paid moneys to an approved insurer in respect of the whole or any part of a supplement premium for a supplementary disability insurance policy under the CareShield Life and Long‑Term Care (Supplement Scheme) Regulations 2020 (G.N. No. S 850/2020).\n(2) The Board may require the approved insurer to transfer the whole or any part of the moneys mentioned in paragraph (1)(b) to the Board for the purpose of paying the shortfall in premium.\n(3) In this regulation —\n(a)a reference to a shortfall in the premium payable in paragraph (1)(a) includes a shortfall in the premium payable for the insured person’s insurance cover under the former ElderShield Scheme;\n(b)a reference to moneys paid to an approved insurer in paragraph (1)(b) includes money paid to the approved insurer in respect of the whole or any part of a premium for a severe disability insurance policy taken out with the approved insurer under the former ElderShield Supplement Scheme;\n(c)“approved insurer”, “supplementary disability insurance policy” and “supplement premium” have the meanings given by regulation 2 of the CareShield Life and Long‑Term Care (Supplement Scheme) Regulations 2020; and\n(d)“former ElderShield Supplement Scheme” means an insurance scheme established and maintained by the Ministry of Health before the transfer date for the purposes of allowing an individual insured under the former ElderShield Scheme to purchase a supplementary severe disability insurance policy from an approved insurer to provide additional severe disability insurance benefits over and above the former ElderShield Scheme."
+   }
+  },
+  {
+   "id": "SG-H429-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 PREMIUMS"
+   },
+   "heading": {
+    "en": "Payment of premium"
+   },
+   "text": {
+    "en": "13. For the purposes of section 14(4)(b) of the Act, the Board is entitled to deduct from the amount standing to an individual’s credit in that individual’s medisave account (called the relevant CPF member), the whole or any part of any premium payable by an insured person, if —\n(a)the insured person is a dependant of the relevant CPF member; and\n(b)subject to regulation 17(2), the Board has —\n(i)approved an application by the relevant CPF member under regulation 14 to pay that amount of premium from the relevant CPF member’s medisave account, and the approval is not cancelled under this Division; or\n(ii)appointed the relevant CPF member under regulation 15 to pay that amount of premium from the relevant CPF member’s medisave account, and the appointment is not cancelled under this Division."
+   }
+  },
+  {
+   "id": "SG-H429-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 PREMIUMS"
+   },
+   "heading": {
+    "en": "Approval of relevant CPF member to pay premium"
+   },
+   "text": {
+    "en": "14.—(1) The Board may approve a relevant CPF member for the purposes of regulation 13 on an application by the relevant CPF member.\n(2) The application must be —\n(a)in any form and manner required by the Board; and\n(b)supported by any document or information required by the Board.\n(3) The approval by the Board is subject to any condition that the Board considers appropriate."
+   }
+  },
+  {
+   "id": "SG-H429-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 PREMIUMS"
+   },
+   "heading": {
+    "en": "Appointment of relevant CPF member to pay premium"
+   },
+   "text": {
+    "en": "15.—(1) The Board may appoint a relevant CPF member to pay the whole or any part of the premium for an insurance period if —\n(a)the relevant CPF member has paid the whole or any part of the insured person’s premium in respect of a previous insurance period, including an insurance period of the insured person’s insurance cover under the former ElderShield Scheme; or\n(b)the relevant CPF member has, before the transfer date, authorised the Board to withdraw moneys standing to his or her credit in his or her medisave account for the payment of any premium under any severe disability insurance policy taken out with an approved insurer under the former ElderShield Scheme by the insured person.\n(2) The appointment by the Board is subject to any condition that the Board considers appropriate."
+   }
+  },
+  {
+   "id": "SG-H429-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 PREMIUMS"
+   },
+   "heading": {
+    "en": "Cancellation of approval or appointment upon written notice by relevant CPF member"
+   },
+   "text": {
+    "en": "16.—(1) A relevant CPF member may give written notice to the Board to cancel the approval under regulation 14 in respect of the relevant CPF member, or to object to the appointment of the relevant CPF member under regulation 15.\n(2) The written notice must be —\n(a)in any form and manner required by the Board; and\n(b)supported by any document or information required by the Board.\n(3) On cancellation of the approval or appointment after the written notice under paragraph (1), the Board may —\n(a)refund to the relevant CPF member’s medisave account, the whole or any part, as the Board may determine, of any amount deducted from the relevant CPF member’s medisave account to pay for any premium of an insured person;\n(b)pay into the medisave account of the relevant CPF member, the whole or any part, as the Board may determine, of the interest that would have been payable on the amount of the refund under sub‑paragraph (a) if that amount had not been deducted from the relevant CPF member’s medisave account; and\n(c)require payment of the resulting shortfall in the premiums under section 22(1) of the Act or in accordance with the other provisions of this Division."
+   }
+  },
+  {
+   "id": "SG-H429-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 PREMIUMS"
+   },
+   "heading": {
+    "en": "Cancellation of approval or appointment by Board"
+   },
+   "text": {
+    "en": "17.—(1) The Board may cancel the approval in respect of a relevant CPF member under regulation 14 or the appointment of a relevant CPF member under regulation 15, if —\n(a)the deduction from the relevant CPF member’s medisave account is in contravention of these Regulations; or\n(b)the insured person or the relevant CPF member made a false or an inaccurate representation to the Board, or provided the Board with any inaccurate, incorrect or misleading information, in connection with the application for payment of a premium for the insurance cover of an insured person under any of the following insurance schemes to be deducted from the relevant CPF member’s medisave account:\n(i)the CSHL Scheme;\n(ii)the ESH Scheme;\n(iii)a Supplement Scheme.\n(2) Despite the cancellation under paragraph (1), if the Board considers it appropriate in the circumstances of the case, the Board may —\n(a)deduct from the relevant CPF member’s medisave account an amount not exceeding the amount standing to the credit of the relevant CPF member in the medisave account to pay any part of the premium; and\n(b)permit any deficiency to be paid in any manner that the Board thinks fit, subject to any condition that the Board may impose.\n(3) Upon cancellation by the Board under paragraph (1) —\n(a)the relevant CPF member must, if required by the Board, refund to the relevant CPF member’s medisave account the amount withdrawn from that account, which would not have been withdrawn without the earlier approval or appointment (called the affected amount); or\n(b)the Board may —\n(i)refund from the Fund to the relevant CPF member’s medisave account the affected amount paid as premiums for the insured person’s insurance cover under the ESH Scheme; and\n(ii)require payment of the resulting shortfall in the premiums under section 22(1) of the Act or in accordance with the other provisions of this Division."
+   }
+  },
+  {
+   "id": "SG-H429-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 PREMIUMS"
+   },
+   "heading": {
+    "en": "Refund on cancellation of insurance cover"
+   },
+   "text": {
+    "en": "18. Where an individual’s insurance cover is cancelled under regulation 6, all premiums paid for the cancelled insurance cover are to be refunded from the Fund."
+   }
+  },
+  {
+   "id": "SG-H429-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 PREMIUMS"
+   },
+   "heading": {
+    "en": "Refund on termination of insurance cover"
+   },
+   "text": {
+    "en": "19.—(1) The Board may refund (without interest) from the Fund all premiums paid by or on behalf of the individual immediately before the date of termination referred to in regulation 7(2)(b) if —\n(a)no claim was accepted by the Administrator under section 16 of the Act before the date of termination; and\n(b)the insurance cover was terminated because of the death of the individual concerned, which occurred within a period of 60 days starting on the commencement date of the insurance cover.\n(2) The Board may refund (without interest) from the Fund the premiums paid by or on behalf of the individual for the last insurance period of the individual’s insurance cover under the ESH Scheme if the insurance cover was terminated because the individual’s insurance cover under the CSHL Scheme commenced in the same calendar year in which —\n(a)the individual’s insurance cover under the former ElderShield Scheme was renewed; or\n(b)the individual’s insurance cover under the ESH Scheme commenced or was renewed.\n(3) Despite paragraph (1), where the insurance cover was terminated because of the death of the individual concerned but the condition mentioned in paragraph (1)(b) is not satisfied, the Board may, with the Minister’s approval, refund (without interest) from the Fund the premiums mentioned in that paragraph in a particular case if —\n(a)no claim was accepted by the Administrator under section 16 of the Act before the date of termination; and\n(b)the Board is satisfied that there are extenuating circumstances for making such refund."
+   }
+  },
+  {
+   "id": "SG-H429-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 PREMIUMS"
+   },
+   "heading": {
+    "en": "Refund of excess premium"
+   },
+   "text": {
+    "en": "20. The Board may refund (without interest) from the Fund all or any part of the premiums paid by or on behalf of the individual if the Board finds that the premiums have been paid in excess of the amount that ought to have been paid."
+   }
+  },
+  {
+   "id": "SG-H429-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 PREMIUMS"
+   },
+   "heading": {
+    "en": "Administration of refund by Board"
+   },
+   "text": {
+    "en": "21.—(1) The Board may pay the whole or any part, as the Board may determine, of any refunded premium —\n(a)into the medisave account of the individual who paid the premium, or in cash or any cash equivalent to that individual, as the Board considers fit; or\n(b)into the medisave account of the insured person or in cash or any cash equivalent to the insured person, as the Board considers fit.\n(2) Where the refunded premium mentioned in paragraph (1) was paid by deduction from an individual’s medisave account, the Board may also pay into the individual’s medisave account, the whole or any part (as the Board may determine) of the interest that would have been payable on the amount of the refunded premium if that amount had not been deducted from the relevant medisave account.\n(3) The Board may deduct, from any premium to be refunded, any payment that the insured person is liable to make under the Act.\n(4) In this regulation, “cash equivalent”, in relation to any payment, includes payment by a cheque, a credit or debit card or any electronic funds transfer."
+   }
+  },
+  {
+   "id": "SG-H429-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 CLAIMS AND PAYOUTS"
+   },
+   "heading": {
+    "en": "Insured sum"
+   },
+   "text": {
+    "en": "22.—(1) For the purposes of section 12(2) of the Act, the insured sum applicable to an insured person under the ESH Scheme is —\n(a)for an individual whose insurance coverage under the former ElderShield Scheme commenced on or after 30 September 2007 (called in this regulation the ESH 400 Scheme) —\n(i)if the individual is required to pay premiums until the insurance period that commences after the individual’s 65th birthday — the insured sum specified in the First Schedule applicable to the individual;\n(ii)if the individual is required to pay premiums for 10 insurance periods — the insured sum specified in the Second Schedule applicable to the individual; and\n(iii)if the individual is required to pay a single lump sum premium — $400;\n(b)for an individual whose insurance coverage under the former ElderShield Scheme commenced on or after 30 September 2002 and before 30 September 2007 (called in this regulation the ESH 300 Scheme) —\n(i)if the individual is required to pay premiums until the insurance period that commences after the individual’s 65th birthday — the insured sum specified in the Third Schedule applicable to the individual;\n(ii)if the individual is required to pay premiums for 10 insurance periods — the insured sum specified in the Fourth Schedule applicable to the individual; and\n(iii)if the individual is required to pay a single lump sum premium — $300; and\n(c)for an individual under the ESH 300 Scheme who upgraded to the ESH 400 Scheme on or after 30 September 2007, an amount calculated using the formula:\n(2) The insured sum mentioned in paragraph (1)(a) and (c) is payable to an insured person monthly for a duration calculated using the formula 72 – C.\n(3) The insured sum mentioned in paragraph (1)(b) is payable to an insured person monthly for a duration calculated using the formula 60 – C.\n(4) In this regulation —\n(a)A is the number of insurance periods for which the individual has paid additional premiums to upgrade from the ESH 300 Scheme to the ESH 400 Scheme;\n(b)B is the total number of insurance periods for which the individual is required to pay additional premiums to upgrade from the ESH 300 Scheme to the ESH 400 Scheme; and\n(c)C is the number of months for which an insured person received payouts under the former ElderShield Scheme and the ESH Scheme."
+   }
+  },
+  {
+   "id": "SG-H429-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 CLAIMS AND PAYOUTS"
+   },
+   "heading": {
+    "en": "Refusal of claim due to severe disability arising from certain events or occurrences"
+   },
+   "text": {
+    "en": "23. For the purposes of section 16(4)(d) of the Act, the Administrator may refuse a claim if the insured person’s severe disability arises from any war, invasion, act of foreign enemies, hostility (whether war is declared or not), terrorist act, insurrection or military or usurped power."
+   }
+  },
+  {
+   "id": "SG-H429-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 CLAIMS AND PAYOUTS"
+   },
+   "heading": {
+    "en": "Prescribed circumstances for suspension of payment"
+   },
+   "text": {
+    "en": "24. For the purposes of section 19(1) of the Act, the following are the prescribed circumstances for the suspension of payment of an insured sum:\n(a)the Board is notified that the insured person concerned has died, but is of the opinion that the notification has to be verified;\n(b)the Board is unable to make the payment because of insufficient information provided by the insured person or approved payee for such payment;\n(c)in the case of a payment to an approved payee, the approved payee lacks mental capacity or has died, and no new approved payee has been nominated by the insured person or by the authorised applicant for the insured person, as the case may be;\n(d)it has come to the knowledge of the Board that there is a dispute as to whether an individual should be an approved payee in respect of an insured person, and the Board is of the opinion that it is appropriate in the circumstances to suspend such payment."
+   }
+  },
+  {
+   "id": "SG-H429-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 CLAIMS AND PAYOUTS"
+   },
+   "heading": {
+    "en": "Prescribed period under section 19(3) of Act"
+   },
+   "text": {
+    "en": "25. For the purposes of section 19(3) of the Act, the prescribed period in respect of any suspension of payment is 3 months."
+   }
+  },
+  {
+   "id": "SG-H429-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 CLAIMS AND PAYOUTS"
+   },
+   "heading": {
+    "en": "Recovery of benefit paid in excess"
+   },
+   "text": {
+    "en": "26.—(1) This regulation applies for the purposes of section 22(2) of the Act in relation to a benefit paid in excess.\n(2) The Board or the Administrator may direct the insured person or an approved payee who received the excess payment, to repay such excess to the Fund to set‑off against any insured sum payable to the insured person or the approved payee, as the case may be.\n(3) The Board or the Administrator may, with the Minister’s approval, write‑off the benefit paid in excess in a particular case if the Board or the Administrator (as the case may be) determines that there are extenuating circumstances for not requiring the excess payment to be repaid."
+   }
+  },
+  {
+   "id": "SG-H429-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 4 CLAIMS AND PAYOUTS"
+   },
+   "heading": {
+    "en": "Interest on benefit paid in excess"
+   },
+   "text": {
+    "en": "27. For the purposes of section 22(3) of the Act, the prescribed interest rate is 4% per annum."
+   }
+  },
+  {
+   "id": "SG-H429-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 22(1)(a)(i)\nInsured sum for individuals\nmentioned in regulation 22(1)(a)(i)\nindividuals aged 40 to 52 at commencement\nof insurance coverage under esh 400 scheme\nPolicy Year\nAge at Commencement of Insurance Coverage\nunder ESH 400 Scheme\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n51\n52\n5\n100\n6\n100\n100\n100\n100\n100\n133\n7\n100\n100\n100\n117\n117\n133\n133\n133\n153\n8\n100\n100\n117\n117\n117\n133\n133\n149\n151\n153\n175\n9\n100\n100\n117\n117\n133\n133\n133\n147\n149\n166\n170\n175\n201\n10\n117\n117\n133\n133\n145\n146\n147\n163\n166\n185\n192\n201\n231\n11\n133\n133\n144\n145\n158\n160\n163\n180\n185\n207\n217\n231\n265\n12\n143\n144\n156\n158\n172\n175\n180\n199\n207\n231\n245\n265\n304\n13\n154\n156\n169\n172\n187\n192\n199\n220\n231\n258\n277\n304\n349\n14\n166\n169\n182\n187\n203\n211\n220\n243\n258\n288\n313\n349\n400\n15\n179\n182\n197\n203\n221\n231\n243\n268\n288\n321\n354\n400\n16\n192\n197\n214\n221\n241\n253\n268\n296\n321\n358\n400\n17\n207\n214\n231\n241\n262\n277\n296\n328\n358\n400\n18\n223\n231\n250\n262\n285\n304\n328\n362\n400\n19\n240\n250\n270\n285\n310\n333\n362\n400\n20\n258\n270\n292\n310\n338\n365\n400\n21\n277\n292\n316\n338\n368\n400\n22\n298\n316\n342\n368\n400\n23\n321\n342\n370\n400\n24\n345\n370\n400\n25\n372\n400\n26\n400\nindividuals aged 53 to 64 at commencement OF\nINSURANCE COVERAGE UNDER ESH 400 SCHEME\nPolicy Year\nAge at Commencement of Insurance Coverage\nunder ESH 400 Scheme\n53\n54\n55\n56\n57\n58\n59\n60\n61\n62\n63\n64\n1\n100\n130\n160\n2\n100\n100\n100\n133\n200\n400\n3\n100\n100\n133\n133\n133\n231\n400\n4\n100\n100\n100\n133\n133\n175\n192\n231\n400\n5\n100\n133\n133\n133\n166\n175\n231\n277\n400\n6\n133\n156\n160\n166\n207\n231\n304\n400\n7\n156\n182\n192\n207\n258\n304\n400\n8\n182\n214\n231\n258\n321\n400\n9\n214\n250\n277\n321\n400\n10\n250\n292\n333\n400\n11\n292\n342\n400\n12\n342\n400\n13\n400"
+   }
+  },
+  {
+   "id": "SG-H429-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 22(1)(a)(ii)\nInsured sum for individuals\nmentioned in regulation 22(1)(a)(ii)\nPolicy Year\nAge at Commencement of Insurance Coverage\nunder ESH 400 Scheme\n56\n57\n58\n59\n60\n61\n62\n63\n64\n65\n66\n67\n68\n69\n4\n100\n100\n100\n100\n100\n100\n100\n100\n100\n100\n100\n100\n100\n100\n5\n133\n133\n133\n133\n133\n133\n133\n133\n133\n133\n133\n133\n133\n133\n6\n166\n166\n166\n166\n166\n166\n166\n166\n166\n166\n166\n166\n166\n166\n7\n207\n207\n207\n207\n207\n207\n207\n207\n207\n207\n207\n207\n207\n207\n8\n258\n258\n258\n258\n258\n258\n258\n258\n258\n258\n258\n258\n258\n258\n9\n321\n321\n321\n321\n321\n321\n321\n321\n321\n321\n321\n321\n321\n321\n10\n400\n400\n400\n400\n400\n400\n400\n400\n400\n400\n400\n400\n400\n400"
+   }
+  },
+  {
+   "id": "SG-H429-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulation 22(1)(b)(i)\nInsured sum for individuals\nmentioned in regulation 22(1)(b)(i)\nindividuals aged 40 to 52 at commencement of\ninsurance coverage under esh 300 scheme\nPolicy Year\nAge at Commencement of Insurance Coverage\nunder ESH 300 Scheme\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n51\n52\n6\n100\n7\n100\n100\n100\n115\n8\n100\n100\n112\n113\n115\n132\n9\n100\n100\n100\n111\n112\n125\n128\n132\n151\n10\n100\n100\n109\n110\n111\n122\n125\n139\n144\n151\n173\n11\n100\n100\n108\n109\n118\n120\n122\n135\n139\n155\n163\n173\n199\n12\n108\n108\n117\n118\n129\n132\n135\n149\n155\n173\n184\n199\n228\n13\n116\n117\n127\n129\n140\n144\n149\n165\n173\n193\n208\n228\n262\n14\n125\n127\n137\n140\n153\n158\n165\n182\n193\n216\n235\n262\n300\n15\n134\n137\n148\n153\n166\n173\n182\n201\n216\n241\n266\n300\n16\n144\n148\n160\n166\n181\n190\n201\n222\n241\n269\n300\n17\n155\n160\n173\n181\n197\n208\n222\n246\n269\n300\n18\n167\n173\n187\n197\n214\n228\n246\n271\n300\n19\n180\n187\n203\n214\n233\n250\n271\n300\n20\n193\n203\n219\n233\n253\n274\n300\n21\n208\n219\n237\n253\n276\n300\n22\n224\n237\n256\n276\n300\n23\n241\n256\n277\n300\n24\n259\n277\n300\n25\n279\n300\n26\n300\nindividuals aged 53 to 64 at commencement of\ninsurance coverage under esh 300 scheme\nPolicy Year\nAge at Commencement of Insurance Coverage\nunder ESH 300 Scheme\n53\n54\n55\n56\n57\n58\n59\n60\n61\n62\n63\n64\n1\n120\n2\n100\n150\n300\n3\n100\n100\n100\n173\n300\n4\n100\n100\n132\n144\n173\n300\n5\n100\n100\n100\n125\n132\n173\n208\n300\n6\n100\n117\n120\n125\n155\n173\n228\n300\n7\n117\n137\n144\n155\n193\n228\n300\n8\n137\n160\n173\n193\n241\n300\n9\n160\n187\n208\n241\n300\n10\n187\n219\n250\n300\n11\n219\n256\n300\n12\n256\n300\n13\n300"
+   }
+  },
+  {
+   "id": "SG-H429-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE\nRegulation 22(1)(b)(ii)\nInsured sum for individuals\nmentioned in regulation 22(1)(b)(ii)\nPolicy Year\nAge at Commencement of Insurance Coverage\nunder ESH 300 Scheme\n56\n57\n58\n59\n60\n61\n62\n63\n64\n65\n66\n67\n68\n69\n5\n100\n100\n100\n100\n100\n100\n100\n100\n100\n100\n100\n100\n100\n100\n6\n125\n125\n125\n125\n125\n125\n125\n125\n125\n125\n125\n125\n125\n125\n7\n155\n155\n155\n155\n155\n155\n155\n155\n155\n155\n155\n155\n155\n155\n8\n193\n193\n193\n193\n193\n193\n193\n193\n193\n193\n193\n193\n193\n193\n9\n241\n241\n241\n241\n241\n241\n241\n241\n241\n241\n241\n241\n241\n241\n10\n300\n300\n300\n300\n300\n300\n300\n300\n300\n300\n300\n300\n300\n300"
+   }
+  }
+ ]
+}

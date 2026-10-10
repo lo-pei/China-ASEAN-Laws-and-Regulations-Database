@@ -1,0 +1,52 @@
+{
+ "id": "MM-H073",
+ "title": {
+  "zh": "仲裁法_2016",
+  "en": "The Arbitration Law (Pyidaungsu Hluttaw Law No. 5, 2016)",
+  "orig": null
+ },
+ "country": "MM",
+ "countryName": "缅甸",
+ "layer": "intl",
+ "pack": "mm-p04",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2016-01-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "缅甸官方发布渠道",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 972,
+ "source": {
+  "name": "缅甸官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "文本未能可靠切分为条文（或原件为目录式排版），按整篇收录，未作改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "MM-H073-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "# The Arbitration Law (Pyidaungsu Hluttaw Law No. 5, 2016) > 本文件为自动采集的元数据头，随原始文件一同保存。\n> 原始文件未被改写；正文逐字照录于同目录下的原始文件。\n| 项目 | 内容 | | --- | --- | | 原文标题 | The Arbitration Law (Pyidaungsu Hluttaw Law No. 5, 2016) | | 中文译名 | 仲裁法 | | 英文译名 | Arbitration Law 2016 | | 法律领域 | 争议解决 | | 颁布机构 | 缅甸联邦议会；商务部门户发布 | | 官方来源 URL | https://servicetrade.gov.mm/service/law-detail/the-arbitration-law | | 数据抓取实际 URL | https://servicetrade.gov.mm/service/law-detail/the-arbitration-law | | 颁布日期 | 2016-01-05 | | 生效日期 | 未核实（来源未标注） | | 修订日期 | 未核实（来源未标注） | | 版本 | 官方公布文本 | | 原文语种 | en | | 来源类型 | 官方（缅甸政府 .gov.mm 门户） | | 抓取日期 | 2026-10-03 | | 本地文件 | 缅甸_仲裁法_2016_en.html | | 文件格式 | html | | 文件大小(字节) | 104587 | | 页数 |  | | 字数 | 9011 | | SHA-256 | a43199b6ae3d4434640e1d20b7b542e66c0062a349b515b641b35b24012290d2 | | HTTP 状态 | 200 | | HTTPS 证书校验 | verified | | 完整性/缺失范围 | 官方页面 HTML 全文（已保存 HTML 快照与 Markdown 转换，未改写） | | 备注 |  | | 采集说明 | 官方来源未提供可直接下载的 PDF；已保存网页 HTML 快照，并将全部可见文本机械转换为 Markdown（未改写、未摘要）。 |"
+   }
+  }
+ ]
+}

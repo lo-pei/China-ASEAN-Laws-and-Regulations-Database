@@ -1,0 +1,522 @@
+{
+ "id": "TL-H271",
+ "title": {
+  "zh": "竞争法",
+  "en": null,
+  "orig": "Lei da Concorrência"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p05",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2026-03-25",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 1/2026",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 30,
+ "chars": 28114,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2026/serie_1/SERIE_I_NO_12.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 30 条；逐字取自官方公报 PDF（public/docs/2026/serie_1/SERIE_I_NO_12.pdf）第 276–284 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H271-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Objeto"
+   },
+   "text": {
+    "pt": "A presente lei tem por objeto o estabelecimento do regime jurídico da concorrência."
+   }
+  },
+  {
+   "id": "TL-H271-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Âmbito"
+   },
+   "text": {
+    "pt": "1.    A presente lei é aplicável a todas as atividades económicas exercidas, com caráter permanente ou ocasional, nos setores privado, público e cooperativo.\n2.   A presente lei é ainda aplicável às práticas restritivas da concorrência que ocorram em território nacional ou que neste tenham ou possam ter efeitos.\n3.   Sem prejuízo do disposto no n.º 1, o Governo, por decretolei, pode excluir determinadas atividades da aplicação da presente lei."
+   }
+  },
+  {
+   "id": "TL-H271-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Definição de empresa"
+   },
+   "text": {
+    "pt": "1.    Considera-se empresa, para efeitos da presente lei, qualquer entidade que exerça uma atividade económica que consista na oferta de bens ou serviços, independentemente do seu estatuto jurídico e do seu modo de financiamento.\n2.  Considera-se como uma única empresa o conjunto de entidades que, embora juridicamente distintas, constituem uma unidade económica ou mantêm laços entre si de interdependência ou subordinação decorrentes, nomeadamente:\na) De uma participação maioritária de capital social;\nb) Da detenção de mais de metade dos votos atribuídos pela detenção de participações sociais;\nc) Da possibilidade de designar mais de metade dos membros do órgão de administração ou de fiscalização;\nd) Do poder de gerir os respetivos negócios."
+   }
+  },
+  {
+   "id": "TL-H271-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II APLICAÇÃO"
+   },
+   "heading": {
+    "pt": "Entidade competente"
+   },
+   "text": {
+    "pt": "1.   O respeito pelo regime jurídico da concorrência é assegurado pela entidade pública competente para a aplicação da presente lei, que, para o efeito, dispõe de poderes de supervisão, regulamentação e sancionatórios estabelecidos na presente lei e nos seus estatutos.\n2.  A lei que aprova os estatutos a que se refere o número anterior fixa o prazo para a instalação da entidade pública competente e para a nomeação do seu órgão de direção, que não poderá ser superior a 90 dias após a entrada em vigor da referida lei.\n3.  A entidade pública competente coopera com as demais autoridades reguladoras setoriais na aplicação da legislação da concorrência, nos termos previstos na lei, podendo, para o efeito, celebrar protocolos de cooperação bilaterais ou multilaterais.\n4.   Para efeitos da presente lei, a entidade pública competente para a aplicação do regime jurídico previsto na presente lei ao setor financeiro é o Banco Central de Timor-leste."
+   }
+  },
+  {
+   "id": "TL-H271-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II APLICAÇÃO"
+   },
+   "heading": {
+    "pt": "Cooperação"
+   },
+   "text": {
+    "pt": "Todas as entidades públicas, designadamente os serviços da Administração direta, indireta ou autónoma do Estado, bem como as autoridades reguladoras setoriais, têm o dever de participar à entidade pública competente para a aplicação da presente lei os factos suscetíveis de indiciarem práticas restritivas da concorrência de que tomem conhecimento."
+   }
+  },
+  {
+   "id": "TL-H271-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PRÁTICAS  RESTRITIVAS  DA  CONCORRÊNCIA"
+   },
+   "heading": {
+    "pt": "Práticas restritivas horizontais"
+   },
+   "text": {
+    "pt": "1.   São proibidos os acordos entre empresas, as práticas concertadas entre empresas e as decisões de associações de empresas, numa relação horizontal, que tenham por objeto ou como efeito impedir, falsear ou restringir de forma sensível a concorrência no todo ou em parte do mercado nacional, nomeadamente os que consistam em:\na) Fixar, de forma direta ou indireta, os preços de compra ou de venda ou quaisquer outras condições de transação;\nb) Limitar ou controlar a produção, a distribuição, o desenvolvimento técnico ou os investimentos;\nc) Repartir os mercados ou as fontes de abastecimento;\nd) Efetuar coligações ou desenvolver outras práticas concertadas de modo a obter vantagens, interferir ou influenciar resultados de concursos públicos para fornecimento de bens ou serviços;\ne) Limitar ou impedir o acesso de novas empresas no mercado.\n2.  São nulos os acordos entre empresas e as decisões de associações de empresas proibidos pelo número anterior, exceto nos casos em que se considerem justificados, nos termos do artigo 8.º.\n3.   Considera-se que a prática restritiva é de natureza horizontal quando o acordo, prática concertada ou decisão de associações de empresas ocorre entre empresas concorrentes ou, potencialmente, concorrentes que pertençam ao mesmo setor de produção, distribuição ou retalho no mercado de referência."
+   }
+  },
+  {
+   "id": "TL-H271-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PRÁTICAS  RESTRITIVAS  DA  CONCORRÊNCIA"
+   },
+   "heading": {
+    "pt": "Práticas restritivas verticais"
+   },
+   "text": {
+    "pt": "1.   Um acordo entre empresas numa relação vertical é proibido se tiver por efeito impedir ou diminuir substancialmente a concorrência num mercado, nomeadamente o que consista em:\na) Aplicar de forma sistemática ou ocasional condições discriminatórias de preços ou outras relativas a situações equivalentes;\nb) Recusar, direta ou indiretamente, a compra de bens e a prestação de serviços;\nc) Subordinar a celebração de contratos à aceitação de obrigações suplementares que, pela sua natureza ou usos comerciais, não tenham ligação com o objeto desses contratos;\nd) Subordinar as relações comerciais à aceitação de cláusulas e condições comerciais injustificáveis ou anticoncorrenciais;\ne) Impor aos distribuidores preços mínimos de revenda, descontos e condições de pagamento, quantidades mínimas ou máximas, margem de lucro ou quaisquer outras condições de comercialização com terceiros; f) Discriminar fornecedores ou consumidores de bens, mediante fixação diferenciada de preços, de condições operacionais de venda ou de prestações de serviços;\ng) Condicionar a venda de bens ou serviços à aquisição de outros bens ou serviços;\nh) Impor preços excessivos ou aumentar sem justa causa o preço de um bem ou serviço.\n2.  Considera-se uma “relação vertical” a relação entre uma empresa e os seus fornecedores, os seus clientes ou ambos."
+   }
+  },
+  {
+   "id": "TL-H271-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PRÁTICAS  RESTRITIVAS  DA  CONCORRÊNCIA"
+   },
+   "heading": {
+    "pt": "Justificação de acordos, práticas concertadas e decisões de"
+   },
+   "text": {
+    "pt": "associações de empresas\n1.   Podem ser considerados justificados os acordos entre empresas, as práticas concertadas entre empresas e as decisões de associações de empresas referidas nos artigos anteriores que contribuam para melhorar a produção ou a distribuição de bens ou serviços ou para promover o desenvolvimento técnico ou económico desde que, cumulativamente:\na) Reservem aos utilizadores desses bens ou serviços uma parte equitativa do benefício daí resultante;\nb) Não imponham às empresas em causa quaisquer restrições que não sejam indispensáveis para atingir esses objetivos;\nc) Não deem a essas empresas a possibilidade de eliminar a concorrência numa parte substancial do mercado dos bens ou serviços em causa.\n2.  Compete às empresas ou associações de empresas que invoquem o benefício da justificação fazer a prova do preenchimento das condições previstas no número anterior.\n3.    As práticas previstas nos artigos 6.º e 7.º podem ser objeto de avaliação prévia por parte da entidade pública competente para a aplicação da presente lei, segundo procedimento a estabelecer por regulamento a aprovar por essa entidade nos termos dos respetivos estatutos."
+   }
+  },
+  {
+   "id": "TL-H271-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PRÁTICAS  RESTRITIVAS  DA  CONCORRÊNCIA"
+   },
+   "heading": {
+    "pt": "Posição dominante"
+   },
+   "text": {
+    "pt": "1.  Considera-se que uma empresa tem poder de domínio no mercado quando tem o poder de controlar os preços, de excluir a concorrência ou de se comportar, numa medida apreciável, de forma independente dos seus concorrentes, clientes ou fornecedores.\n2.   Uma empresa é dominante num mercado quando:\na) Detém pelo menos 45% desse mercado;\nb) Detém pelo menos 35%, mas menos de 45%, desse mercado, exceto se puder demonstrar que não tem poder de mercado; ou\nc) Tiver menos de 35% desse mercado, mas tiver poder de mercado."
+   }
+  },
+  {
+   "id": "TL-H271-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PRÁTICAS  RESTRITIVAS  DA  CONCORRÊNCIA"
+   },
+   "heading": {
+    "pt": "Abuso de posição dominante"
+   },
+   "text": {
+    "pt": "1.   É proibida a exploração abusiva, por uma ou mais empresas, de uma posição dominante no mercado nacional ou numa parte substancial deste.\n2.  Pode ser considerada abusiva, nomeadamente, a prática de:\na) Impor, direta ou indiretamente, preços de compra ou de venda ou outras condições de transação não equitativas;\nb) Limitar a produção, a distribuição ou o desenvolvimento técnico em prejuízo dos consumidores;\nc) Aplicar condições desiguais a parceiros comerciais em prestações equivalentes, colocando-os em desvantagem na concorrência;\nd) Subordinar a celebração de contratos à aceitação, por parte dos outros contraentes, de prestações suplementares que, pela sua natureza ou pelos usos comerciais, não tenham relação com o objeto desses contratos;\ne) Recusar o acesso a uma rede ou a outras infraestruturas essenciais controladas pela empresa, contra remuneração adequada, a qualquer outra empresa, desde que, sem esse acesso, a outra empresa não consiga, por razões factuais ou legais, operar como concorrente da empresa em posição dominante no mercado, a montante ou a jusante, a menos que a empresa dominante demonstre que, por motivos operacionais ou outros, tal acesso é impossível em condições razoáveis."
+   }
+  },
+  {
+   "id": "TL-H271-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PRÁTICAS  RESTRITIVAS  DA  CONCORRÊNCIA"
+   },
+   "heading": {
+    "pt": "Abuso de dependência económica"
+   },
+   "text": {
+    "pt": "1.   É proibida a exploração abusiva do estado de dependência económica em que se encontre uma empresa fornecedora ou cliente por não dispor de alternativa equivalente em relação a uma ou mais empresas, na medida em que tal exploração seja suscetível de afetar o funcionamento do mercado ou a estrutura da concorrência.\n2.   Consideram-se abuso, entre outros, os seguintes casos:\na) A adoção de qualquer comportamento previsto nas alíneas a) a d) do n.º 2 do artigo anterior;\nb) A rutura injustificada, total ou parcial, de uma relação comercial estabelecida, tendo em consideração as relações comerciais anteriores, os usos reconhecidos no ramo da atividade económica e as condições contratuais acordadas.\n3.  Para efeitos do n.º 1, entende-se que uma empresa não dispõe de alternativa equivalente quando:\na) O fornecimento do bem ou serviço em questão, nomeadamente o serviço de distribuição, for assegurado por um número restrito de empresas;\nb) A empresa não puder obter condições idênticas de outros parceiros comerciais num prazo razoável."
+   }
+  },
+  {
+   "id": "TL-H271-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PRÁTICAS  RESTRITIVAS  DA  CONCORRÊNCIA"
+   },
+   "heading": {
+    "pt": "Abuso de poder de compra"
+   },
+   "text": {
+    "pt": "1.  É proibido o abuso do poder de compra no mercado ou numa parte substancial deste.\n2.  Considera-se “abuso de poder de compra” a influência exercida por uma empresa ou grupo de empresas na posição de comprador de um produto ou serviço para:\na) Obter condições mais favoráveis de um fornecedor;\nb) Impor um custo de oportunidade a longo prazo, incluindo prejuízos ou benefícios não obtidos, desproporcionados em relação a qualquer custo a longo prazo para a empresa ou grupo de empresas.\n3.   Sempre que a entidade pública competente para a aplicação da presente lei determine que um setor ou uma empresa está a sofrer ou é suscetível de sofrer abuso de poder de compra, pode controlar as atividades do setor ou da empresa, impondo requisitos prudenciais e de informação.\n4.    A entidade pública competente para a aplicação da presente lei pode exigir que setores ou indústrias com probabilidade de abuso do poder de compra elaborem um código de conduta vinculativo.\n5.   Ao analisar qualquer queixa relativa a abuso de poder de compra, a entidade pública competente para a aplicação da presente lei tem em conta:\na) A natureza e a determinação das condições contratuais entre as empresas envolvidas;\nb) Os encargos exigidos para garantir o acesso a infraestruturas indispensáveis à celebração ou execução do contrato;\nc) O preço pago aos fornecedores.\n6.  Os comportamentos que constituem abuso de poder de compra incluem:\na) Atrasos no pagamento de fornecedores sem justificação, em violação das condições de pagamento acordadas;\nb) Rescisão unilateral ou ameaças de rescisão de uma relação comercial sem aviso prévio ou com prazo de aviso excessivamente curto, sem justificação objetiva;\nc) Recusa de receber ou devolver bens ou partes deles, sem motivo justificado, em violação das condições contratuais acordadas;\nd) Transferência de custos para os fornecedores de bens ou serviços, impondo-lhes o financiamento de promoções;\ne) Transferência de riscos comerciais que deveriam ser suportados pelo comprador para os fornecedores; f) Exigência de condições preferenciais desfavoráveis aos fornecedores ou imposição de limitações aos fornecimentos a outros compradores;\ng) Redução dos preços de compra de forma significativa, quando existem dificuldades de substituição por compradores alternativos ou redução abaixo de níveis competitivos;\nh) Aumento dos preços dos fatores de produção com o objetivo de excluir concorrentes do mercado.\n7.   Na investigação de denúncias de abuso de poder de compra, a entidade pública competente para a aplicação da presente lei deve considerar qualquer acordo existente, escrito ou não, entre o comprador e o fornecedor.\n8.    A entidade pública competente para a aplicação da presente lei publicará o código de conduta, elaborado em consulta com as partes interessadas e organismos governamentais relevantes."
+   }
+  },
+  {
+   "id": "TL-H271-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PRÁTICAS  RESTRITIVAS  DA  CONCORRÊNCIA"
+   },
+   "heading": {
+    "pt": "Articulação com autoridades reguladoras setoriais"
+   },
+   "text": {
+    "pt": "1.   Sempre que a entidade pública competente para a aplicação da presente lei tome conhecimento de factos que possam configurar práticas restritivas da concorrência num setor regulado, dá imediato conhecimento à autoridade reguladora setorial competente, para que esta se pronuncie sobre a eventual violação da presente lei.\n2. Quando estiverem em causa práticas restritivas da concorrência em mercados regulados, a decisão da entidade pública competente para a aplicação da presente lei é precedida de parecer prévio não vinculativo da autoridade reguladora setorial, emitido sobre o projeto de decisão.\n3.   As decisões relativas a práticas nos mercados dos serviços postais e das telecomunicações estão sujeitas a parecer obrigatório e vinculativo da correspondente autoridade reguladora setorial.\n4.  Os pareceres previstos nos nos. 2 e 3 são apresentados no prazo máximo de 15 dias úteis após a sua solicitação, considerando-se que a não emissão no referido prazo equivale à não objeção ao sentido da decisão constante do projeto de decisão da entidade competente para a aplicação da presente lei.\n5.   A autoridade reguladora setorial, ao identificar questões que possam configurar violação da presente lei, deve informar imediatamente a entidade pública competente para a aplicação da presente lei, fornecendo os elementos essenciais para análise da possível prática restritiva da concorrência.\n6.   A entidade pública competente para a aplicação da presente lei pode suspender a sua decisão, mediante justificação devidamente fundamentada."
+   }
+  },
+  {
+   "id": "TL-H271-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CONTROLO  DE CONCENTRAÇÕES  DE  EMPRESAS"
+   },
+   "heading": {
+    "pt": "Concentração de empresas"
+   },
+   "text": {
+    "pt": "1.  Considera-se concentração de empresas a mudança duradoura de controlo sobre a totalidade ou parte de uma ou mais empresas, resultante:\na) Da fusão de empresas independentes;\nb) Da aquisição, direta ou indireta, do controlo total ou parcial do capital social ou de ativos de outras empresas por uma ou mais empresas.\n2.   A criação de uma empresa comum constitui uma concentração de empresas, desde que a empresa comum atue de forma duradoura como entidade económica autónoma.\n3.   Considera-se controlo a capacidade de exercer, de forma duradoura, influência determinante sobre a atividade de uma empresa, através de:\na) Aquisição do capital social;\nb) Aquisição de direitos sobre ativos;\nc) Aquisição de direitos que confiram influência sobre a gestão de uma empresa.\n4.   Não é considerada concentração:\na)    A aquisição de participações ou ativos por um administrador de insolvência, no âmbito de um processo de insolvência;\nb)   A aquisição de participações com funções meramente garantidoras."
+   }
+  },
+  {
+   "id": "TL-H271-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CONTROLO  DE CONCENTRAÇÕES  DE  EMPRESAS"
+   },
+   "heading": {
+    "pt": "Notificação prévia"
+   },
+   "text": {
+    "pt": "1.   As operações de concentração são sujeitas a notificação prévia quando realizadas nos setores de energia, transportes, serviços postais, telecomunicações e serviços financeiros e resultem na aquisição de controlo, direto ou indireto, de uma ou mais empresas com:\na) Mais de 25% de quota de mercado nacional;\nb) Receitas anuais combinadas superiores a US$ 10 milhões.\n2.   As operações de concentração devem ser notificadas à entidade pública competente para a aplicação da presente lei e às autoridades reguladoras dos setores referidos no número anterior após a conclusão do acordo e antes de serem realizadas.\n3.   É proibido realizar uma operação de concentração sujeita a notificação prévia sem que tenha sido efetuada a notificação à entidade pública competente para a aplicação da presente lei e obtida a respetiva decisão de não oposição.\n4.    Nos setores referidos no n.o 1, a decisão de não oposição está dependente de parecer obrigatório e vinculativo das correspondentes autoridades reguladoras setoriais.\n5.    O parecer previsto no número anterior deve ser comunicado à entidade pública competente para a aplicação da presente lei dentro dos 15 dias úteis seguintes à sua solicitação, considerando-se que é favorável o parecer não comunicado dentro desse prazo."
+   }
+  },
+  {
+   "id": "TL-H271-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CONTROLO  DE CONCENTRAÇÕES  DE  EMPRESAS"
+   },
+   "heading": {
+    "pt": "Apreciação das operações de concentração"
+   },
+   "text": {
+    "pt": "1.    As operações de concentração, notificadas nos termos do artigo anterior, são apreciadas com o objetivo de avaliar os seus efeitos sobre a estrutura da concorrência, tendo em vista a preservação e o desenvolvimento da concorrência efetiva no mercado nacional ou em uma parte substancial deste.\n2.   Na apreciação referida no número anterior, devem ser considerados, entre outros, os seguintes fatores:\na) A estrutura dos mercados relevantes e a presença de concorrência, seja por empresas estabelecidas nesses mercados ou em mercados distintos;\nb) A posição das empresas nos mercados relevantes, comparando o seu poder económico e financeiro com o dos seus principais concorrentes;\nc) O poder de mercado do comprador, de forma a evitar o reforço de situações de dependência económica, nos termos do artigo 11.º, em relação à empresa resultante da concentração;\nd) A concorrência potencial e as barreiras, de direito ou de facto, à entrada no mercado;\ne) As opções de escolha de fornecedores, clientes e utilizadores disponíveis; f) O acesso das empresas às fontes de abastecimento e aos mercados de escoamento;\ng) A estrutura das redes de distribuição existentes;\nh) A evolução da oferta e da procura dos produtos e serviços em causa; (i) A existência de direitos especiais ou exclusivos conferidos por lei ou pela natureza dos produtos ou serviços; j) O controlo de infraestruturas essenciais pelas empresas envolvidas e a possibilidade de acesso a essas infraestruturas para as empresas concorrentes;\nk) O progresso técnico e económico, desde que não constitua obstáculo à concorrência, quando a operação de concentração resultar em ganhos de eficiência que beneficiem os consumidores.\n3.   A empresa notificante pode, a qualquer momento, propor compromissos para assegurar a manutenção da concorrência efetiva.\n4.    A entidade pública competente para a aplicação da presente lei recusa os compromissos se considerar que as condições ou obrigações a serem assumidas são insuficientes ou inadequadas para evitar os obstáculos à concorrência que possam resultar da operação de concentração, ou se forem exequíveis de forma incerta."
+   }
+  },
+  {
+   "id": "TL-H271-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CONTROLO  DE CONCENTRAÇÕES  DE  EMPRESAS"
+   },
+   "heading": {
+    "pt": "Articulação com autoridades reguladoras setoriais no"
+   },
+   "text": {
+    "pt": "âmbito do controlo de concentrações\n1.   Sempre que uma operação de concentração tenha impacto num mercado regulado, a entidade pública competente para a aplicação da presente lei, antes de tomar uma decisão final, solicita à autoridade reguladora setorial competente que emita um parecer não vinculativo sobre a operação notificada, fixando um prazo razoável para tal, não inferior a 15 dias úteis.\n2.   A autorização de operações de concentração nos mercados da energia, transportes, serviços postais, telecomunicações e serviços financeiros está sujeita a parecer obrigatório e vinculativo da correspondente autoridade reguladora setorial.\n3. O disposto no n.º 1 não prejudica os poderes que as autoridades reguladoras setoriais, no âmbito das suas atribuições específicas, tenham legalmente para se pronunciarem sobre a concentração em questão.\n4.  Sem prejuízo do disposto no n.º 1, a falta de emissão do parecer no prazo estabelecido não impede a entidade pública competente para a aplicação da presente lei de tomar uma decisão final sobre o procedimento."
+   }
+  },
+  {
+   "id": "TL-H271-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CONTROLO  DE CONCENTRAÇÕES  DE  EMPRESAS"
+   },
+   "heading": {
+    "pt": "Decisão"
+   },
+   "text": {
+    "pt": "1.  São autorizadas as concentrações de empresas que não criem entraves significativos à concorrência efetiva no mercado nacional ou numa parte substancial deste.\n2.  No caso de uma operação de concentração criar entraves significativos à concorrência efetiva, a entidade pública competente para a aplicação da presente lei pode:\na) Recusar a aprovação;\nb) Aprovar a operação, se os compromissos assumidos pela empresa notificante forem adequados para resolver as preocupações concorrenciais suscitadas pela operação de concentração;\nc) Aprovar a operação, se ela reforçar significativamente a competitividade internacional das empresas envolvidas;\nd) Aprovar a operação, se forem cumpridos os pressupostos do artigo 8.º.\n3.    A entidade pública competente para a aplicação da presente lei pode ordenar a desistência ou reversão de uma operação de concentração que, estando sujeita à aprovação nos termos do artigo 15.º, não tenha sido notificada, caso isso resulte em entraves significativos à concorrência efetiva no mercado nacional ou numa parte substancial deste.\n4.    A entidade pública competente para a aplicação da presente lei notifica as empresas antes de adotar uma decisão sobre a operação de concentração, devendo:\na) Expor os fatos e fundamentos da decisão projetada;\nb) Conceder um prazo razoável, que, salvo em casos excecionais e devidamente justificados, não deve ser inferior a 30 dias úteis, para a empresa apresentar observações à entidade pública competente para a aplicação da presente lei;\nc) Apreciar as observações recebidas.\n5.   Sem prejuízo do disposto no número anterior, uma decisão de aprovação com compromissos, conforme a alínea b) do n.º 2, será precedida de uma consulta pública, permitindo que qualquer pessoa participe.\n6.    A entidade pública competente para a aplicação da presente lei pode estabelecer procedimentos, normas e diretrizes especificando o conteúdo da notificação da operação de concentração e os procedimentos relacionados com a sua aprovação, conforme o artigo 15.º."
+   }
+  },
+  {
+   "id": "TL-H271-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SUPERVISÃO  E  ACOMPANHAMENTO  DE MERCADOS"
+   },
+   "heading": {
+    "pt": "Estudos de mercado e inquéritos por setores económicos e por tipos de acordos"
+   },
+   "text": {
+    "pt": "1.   A entidade pública competente para a aplicação da presente lei pode realizar estudos de mercado e inquéritos por setores económicos e por tipos de acordos que se revelem necessários para:\na) A supervisão e o acompanhamento de mercados;\nb) A verificação de circunstâncias que indiciem distorções ou restrições de concorrência.\n2.    A conclusão dos estudos é publicada na página eletrónica da entidade pública competente para a aplicação da presente lei, podendo ser precedida de consulta pública a ser promovida por esta entidade.\n3.  Nos casos em que os estudos de mercado e inquéritos a que se refere o n.º 1 digam respeito a setores económicos regulados por autoridades reguladoras setoriais, a sua conclusão deve ser precedida de pedido de parecer vinculativo à respetiva autoridade reguladora setorial, fixando a entidade pública competente para a aplicação da presente lei um prazo de 15 dias úteis para a emissão do parecer.\n4.   A não emissão de parecer não vinculativo dentro do prazo estabelecido no número anterior não impede a entidade pública competente para a aplicação da presente lei de concluir o estudo de mercado e inquérito a que o pedido de parecer diga respeito.\n5.    A entidade pública competente para a aplicação da presente lei pode solicitar às empresas ou associações de empresas ou a quaisquer outras pessoas ou entidades todas as informações que considere relevantes."
+   }
+  },
+  {
+   "id": "TL-H271-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SUPERVISÃO  E  ACOMPANHAMENTO  DE MERCADOS"
+   },
+   "heading": {
+    "pt": "Recomendações"
+   },
+   "text": {
+    "pt": "1.   Quando a entidade pública competente para a aplicação da presente lei concluir pela existência de circunstâncias ou condutas que afetem a concorrência nos mercados ou setores económicos analisados, deve, no relatório de conclusão de estudos de mercado, inquérito setorial ou tipo de acordo ou no relatório de inspeções e auditorias:\na) Identificar quais as circunstâncias do mercado ou condutas das empresas ou associações de empresas que afetam a concorrência e em que medida;\nb) Indicar quais as medidas de caráter comportamental ou estrutural que considere apropriadas à sua prevenção, remoção ou compensação.\n2.   Sempre que o estudo e o respetivo relatório incidirem sobre um mercado submetido a regulação setorial, a entidade pública competente para a aplicação da presente lei deve dar conhecimento às autoridades reguladoras setoriais das circunstâncias ou condutas que afetem a concorrência e das possíveis medidas para corrigir a situação."
+   }
+  },
+  {
+   "id": "TL-H271-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI INFRAÇÕES  E  SANÇÕES"
+   },
+   "heading": {
+    "pt": "Qualificação"
+   },
+   "text": {
+    "pt": "Sem prejuízo da responsabilidade criminal e das medidas administrativas a que houver lugar, as infrações às normas previstas na presente lei que determinem a aplicação de coimas ou outras sanções constituem contraordenação punível nos termos do disposto no presente capítulo."
+   }
+  },
+  {
+   "id": "TL-H271-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI INFRAÇÕES  E  SANÇÕES"
+   },
+   "heading": {
+    "pt": "Normas aplicáveis"
+   },
+   "text": {
+    "pt": "O processo por infração ao disposto nos artigos 6.º, 7.º, 9.º a\n12.º e 15.º, n.º 3. rege-se pela presente lei e, subsidiariamente, pelo regime jurídico das contraordenações."
+   }
+  },
+  {
+   "id": "TL-H271-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI INFRAÇÕES  E  SANÇÕES"
+   },
+   "heading": {
+    "pt": "Procedimentos e sanções administrativas"
+   },
+   "text": {
+    "pt": "1.    A entidade pública competente para a aplicação da presente lei pode aplicar sanções administrativas às pessoas coletivas que violem o disposto na presente lei.\n2.    As sanções administrativas incluem coimas e outras medidas administrativas, tais como advertência ou ordens escritas.\n3.   As coimas são aplicadas pela entidade pública competente para a aplicação da presente lei.\n4.   Constitui infração punível com coima até 5% do volume de negócios do ano anterior, para cada uma das empresas envolvidas:\na) A não prestação de informação ou a prestação de informações falsas, inexatas ou incompletas, em resposta às solicitações relevantes para o objeto do processo à entidade pública competente para a aplicação da presente lei no uso dos seus poderes de supervisão ou sancionatórios;\nb) Não colaborar com a entidade pública competente para a aplicação da presente lei ou obstar ao exercício, por esta, dos poderes de inquérito e de inspeção com relevância para o objeto do processo;\nc) A falta injustificada de comparência de quem tenha sido regularmente notificado para participar em diligência processual.\n5.   Constitui infração punível com coima até 10% do volume de negócios do exercício anterior, aplicável a cada empresa que haja participado nas condutas proibidas descritas nos artigos 6.º, 7.º e 9.º a 12.º ou violado o disposto no n.º 3 do\nartigo 15.º.\n6.    A entidade pública competente para a aplicação da presente lei, previamente à imposição de quaisquer sanções, respeita sempre o princípio do contraditório, garantindo que durante a tramitação do processo administrativo é sempre assegurado ao infrator a apresentação dos argumentos que, na perspetiva deste, abonam em sua defesa.\n7.  Para os efeitos previstos no número anterior, a entidade pública competente para a aplicação da presente lei notifica o infrator previamente à adoção da decisão de aplicação de uma sanção administrativa, devendo:\na) Expor os factos e fundamentos da sanção administrativa;\nb) Conceder um prazo razoável que, salvo circunstâncias excecionais e devidamente justificadas, não deve ser inferior a 30 dias úteis, para a apresentar, presencialmente ou por escrito, observações à entidade pública competente para a aplicação da presente lei;\nc) Apreciar as observações que lhe sejam apresentadas.\n8.   A negligência é punível."
+   }
+  },
+  {
+   "id": "TL-H271-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI INFRAÇÕES  E  SANÇÕES"
+   },
+   "heading": {
+    "pt": "Determinação da medida das sanções"
+   },
+   "text": {
+    "pt": "Na determinação das sanções devem ser observados os seguintes critérios:\na)    A gravidade e a duração da infração;\nb)    Reiterada reincidência na prática restritiva;\nc)    Os danos causados aos concorrentes ou aos consumidores;\nd)   O benefício económico retirado da prática da contraordenação;\ne)   As circunstâncias atenuantes;\nf)   Outros fatores que a entidade pública competente para a aplicação da presente lei considere atendíveis."
+   }
+  },
+  {
+   "id": "TL-H271-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI INFRAÇÕES  E  SANÇÕES"
+   },
+   "heading": {
+    "pt": "Prescrição"
+   },
+   "text": {
+    "pt": "1.   O procedimento por infração dos artigos 6.º, 7.º, 9.º a 12.º e\n15.º, n.º 3, extingue-se por prescrição no prazo de:\na) Três anos, nos casos previstos no n.º 5 do artigo 23.º;\nb) Cinco anos, nos restantes casos.\n2.   O prazo de prescrição das sanções é de cinco anos a contar do dia em que se torna definitiva ou transitada em julgado a decisão que determinou a sua aplicação."
+   }
+  },
+  {
+   "id": "TL-H271-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI INFRAÇÕES  E  SANÇÕES"
+   },
+   "heading": {
+    "pt": "Recurso"
+   },
+   "text": {
+    "pt": "Das decisões da entidade pública competente para a aplicação da presente lei previstas na presente lei cabe recurso para os tribunais administrativos, fiscais e de contas, nos termos da Lei n.º 25/2021, de 2 de dezembro, Lei da Organização Judiciária, alterada pelas Leis n.ºs 12/2022, de 21 de dezembro, e 4/2025, de 28 de abril."
+   }
+  },
+  {
+   "id": "TL-H271-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Entidade pública transitoriamente competente"
+   },
+   "text": {
+    "pt": "Até à instalação da entidade pública competente, a aplicação da presente lei é atribuída temporariamente ao órgão responsável pela área do comércio e indústria, que exercerá as competências relativas à supervisão e à aplicação das disposições da presente lei."
+   }
+  },
+  {
+   "id": "TL-H271-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Norma revogatória"
+   },
+   "text": {
+    "pt": "São revogados os artigos 34.º e 35.º do Decreto-Lei n.º 15/ 2012, de 28 de março, sobre a Regulamentação do Setor das Telecomunicações, alterado pelo Decreto-Lei no. 31/2024, de 6 de setembro."
+   }
+  },
+  {
+   "id": "TL-H271-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Remissão para preceitos revogados"
+   },
+   "text": {
+    "pt": "Sempre que, em disposições ou cláusulas contratuais, se faça remissão para preceitos legais revogados pela presente lei, entende-se que a remissão vale para as correspondentes disposições da presente lei."
+   }
+  },
+  {
+   "id": "TL-H271-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor 180 dias após a data da sua publicação."
+   }
+  }
+ ]
+}

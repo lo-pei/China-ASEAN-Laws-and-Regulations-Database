@@ -1,0 +1,107 @@
+{
+ "id": "SG-H2920",
+ "title": {
+  "zh": null,
+  "en": "Judicial Proceedings (Regulation of Reports) Act 1960",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p37",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act JPRRA1960",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 2260,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/JPRRA1960?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 5 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2920-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Judicial Proceedings (Regulation of Reports) Act 1960."
+   }
+  },
+  {
+   "id": "SG-H2920-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Restriction on publication of reports"
+   },
+   "text": {
+    "en": "2.—(1) It shall not be lawful to print or publish, or cause or procure to be printed or published —\n(a)in relation to any judicial proceedings any indecent matter or indecent medical, surgical or physiological details being matter or details the publication of which would be calculated to injure public morals; or\n(b)in relation to any judicial proceedings for divorce, dissolution of marriage, nullity of marriage, judicial separation or restitution of conjugal rights, any particulars other than the following:\n(i)the names, addresses and occupations of the parties and witnesses;\n(ii)a concise statement of the charges, the defences and countercharges in support of which evidence has been given;\n(iii)submissions on any point of law arising in the course of the proceedings and the decision of the court on the submissions;\n(iv)the decision of the court and any observations made by the court in giving that decision.\n(2) Nothing in subsection (1)(b) shall be held to permit the publication of anything contrary to subsection (1)(a)."
+   }
+  },
+  {
+   "id": "SG-H2920-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Penalty"
+   },
+   "text": {
+    "en": "3. Any person who acts in contravention of section 2 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both:\nProvided that no person, other than the proprietor, editor, printer or publisher, shall be liable to be convicted under this Act."
+   }
+  },
+  {
+   "id": "SG-H2920-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Consent of Public Prosecutor"
+   },
+   "text": {
+    "en": "4. No prosecution for an offence under this Act shall be commenced without the consent of the Public Prosecutor."
+   }
+  },
+  {
+   "id": "SG-H2920-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Saving"
+   },
+   "text": {
+    "en": "5. Nothing in this Act shall apply to —\n(a)the printing of any pleading, transcript of evidence or other document for use in connection with any judicial proceedings or the communication thereof to persons concerned in the proceedings;\n(b)the printing or publishing of any notice or report in pursuance of the directions of the court; or\n(c)the printing or publishing of any matter in any separate volume or part of any bona fide series of law reports which do not form part of any other publication and consists solely of reports of proceedings in courts of law, or in any publication of a technical character bona fide intended for circulation among members of the legal or medical profession."
+   }
+  }
+ ]
+}

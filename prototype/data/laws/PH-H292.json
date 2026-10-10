@@ -1,0 +1,64 @@
+{
+ "id": "PH-H292",
+ "title": {
+  "zh": "经费拨款法",
+  "en": "An Act Appropriating the Sum of One Hundred Thousand Pesos to Defray the Expenses of the Training, Preparation and Participation of a Filipino Athletic Delegation in the Nineteen Hundred and Forty-Eight Olympics in London",
+  "orig": "An Act Appropriating the Sum of One Hundred Thousand Pesos to Defray the Expenses of the Training, Preparation and Participation of a Filipino Athletic Delegation in the Nineteen Hundred and Forty-Eight Olympics in London"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p03",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1948-03-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 198",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 543,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1948/ra_198_1948.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1948/ra_198_1948.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H292-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The sum of one hundred thousand pesos, or so much thereof as may be necessary, is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, as an aid to the Philippine Amateur Athletic Federation to defray the expenses of the selection, assembling, equipping, preparation and sending of a competent athletic delegation to represent the Philippines at the World Olympic Games to be held in London in the year nineteen hundred and forty-eight."
+   }
+  },
+  {
+   "id": "PH-H292-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: March 19, 1948"
+   }
+  }
+ ]
+}

@@ -1,0 +1,1762 @@
+{
+ "id": "SG-H3574",
+ "title": {
+  "zh": null,
+  "en": "Postal Services Act 1999",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p45",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act PSA1999",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 108,
+ "chars": 153982,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/PSA1999?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 108 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3574-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Postal Services Act 1999."
+   }
+  },
+  {
+   "id": "SG-H3574-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2.—(1) In this Act, unless the context otherwise requires —\n“addressee”, in relation to a postal article, means the person to whom the communication is addressed;\n“code of practice” means a code of practice issued or approved under section 23M or 24;\n“common property” and “limited common property” have the meanings given by section 2(1) of the Building (Strata Management) Act 2004;\n[Act 15 of 2026 wef 01/07/2026]\n“correspondent”, in relation to a postal article, means the sender or person to whom it is addressed;\n“delivery service provider”, in relation to an article or a thing mentioned in paragraph (a) of the definition of “parcel”, means a person that —\n(a)conveys any such article or thing from any place to a public parcel locker or vice versa; and\n(b)performs all incidental services of collecting, sorting, sending, despatching and placing in or collecting from a public parcel locker any such article or thing;\n“direct mail” means a letter consisting solely of advertising, marketing or publicity material and comprising an identical message (except for the addressee’s name, address and identifying number and other modifications which do not alter the nature of the message) which is sent to more than one addressee, to be conveyed and delivered at the address indicated by the sender on the letter itself or on its wrapping;\n“equipment” —\n(a)in relation to a public parcel locker — includes any appliance, apparatus or accessory used or intended to be used with the public parcel locker; or\n(b)in any other case — includes any appliance, apparatus or accessory used or intended to be used for postal purposes;\n“Housing and Development Board” means the Housing and Development Board established by section 3 of the Housing and Development Act 1959;\n“installation or plant used for posts” includes all buildings, lands, structures, machinery, equipment, boxes and receptacles used or intended for use in connection with the transmission of postal articles by post;\n“letter box” means any box or receptacle which the owner or occupier of any premises has provided or agreed to be used for the receipt of postal articles addressed to those premises;\n“mail bag” means any form of container or covering in which postal articles in the course of transmission by post are enclosed by a postal licensee in Singapore or a foreign postal administration for the purpose of conveyance by post, whether or not it contains any such articles;\n“parcel” means —\n(a)an article or a thing that is placed in a parcel locker for collection by an intended recipient, a person authorised by the intended recipient or a delivery service provider, as the case may be; or\n(b)a postal article which is posted at a post office in Singapore as a parcel in accordance with the provisions of this Act or is received at a post office in Singapore by parcel post;\n“parcel locker” means a box or receptacle that is provided or used for the receipt of parcels addressed to any person, but does not include a letter box or a posting box;\n“post” means any system for the collection, despatch, conveyance, sorting, handling and delivery of postal articles by or through a postal licensee;\n“post office” includes any building, house, room, vehicle or place used for the provision of any postal services;\n“postage” means the fee chargeable for the transmission by post of postal articles;\n“postage stamp” means any label or stamp for denoting any postage or other sum payable in respect of a postal article, and includes any adhesive postage stamp or stamp printed, impressed or otherwise indicated on a postal article, whether the postage stamp is issued under this Act or by the government of any other country;\n“postal article” means any article or thing transmissible by post but does not include any article or thing that the Postal Authority may prescribe to be not transmissible by post;\n“Postal Authority” means the person appointed under section 3 to be responsible for the administration of this Act;\n“postal licensee” means a person to whom a licence has been granted under section 6;\n“postal service” means any service for the conveyance of postal articles from one place to another by post, and includes the incidental services of receiving, collecting, sorting, sending, despatching and delivering any postal articles and any other services which relates to any of those services and is provided in conjunction with any of them;\n“posting box” includes any pillar box, wall box or other box or receptacle provided by or under the authority of a postal licensee for the purpose of receiving postal articles for transmission by post;\n“public parcel locker” means a parcel locker mentioned in section 23B(a);\n“public parcel locker network” has the meaning given by section 23B;\n“public parcel locker network operator” means a person appointed by the Postal Authority under section 23C(1);\n“public postal licensee” means a person designated by the Postal Authority under section 7;\n“public postal licensee’s installation or plant” means any installation or plant used for posts belonging to or used by a public postal licensee;\n“related installation”, in relation to a public parcel locker, includes any structure, equipment or cable used or intended for use with the public parcel locker;\n“related software”, in relation to a public parcel locker or a public parcel locker network, means any software used or intended to be used to operate the public parcel locker or public parcel locker network;\n“repealed Act” means the Telecommunication Authority of Singapore Act (Cap. 323, 1993 Revised Edition) repealed by the Info‑communications Development Authority of Singapore Act (Cap. 137A, 2000 Revised Edition);\n“sender”, in relation to a postal article, means a person whose communication it originates from;\n“standard of performance” means a standard of performance issued or approved under section 24;\n“TAS” means the Telecommunication Authority of Singapore reconstituted under the repealed Act;\n“Town Council” means a Town Council established by section 4 of the Town Councils Act 1988;\n“vessel” includes any ship, boat, air-cushioned vehicle or floating rig or platform used in any form of operations at sea or any other description of vessel.\n[34/2007; 10/2021]\n(2) In this Act, unless the context otherwise requires, “letter” means any communication in written form on any kind of physical medium (not exceeding 500 grams in weight) to be conveyed and delivered (otherwise than electronically) to a particular addressee or address indicated by the sender on the letter itself or on its wrapping, and includes a postal article containing such communication, but does not include any book, catalogue, newspaper or periodical.\n[34/2007; 10/2021]\n(3) For the purposes of subsection (2), any reference to communication to be conveyed or delivered otherwise than electronically is a reference to a communication to be conveyed or delivered otherwise than —\n(a)by means of a telecommunication system within the meaning of the Telecommunications Act 1999; or\n(b)by any other means but while in electronic form.\n[34/2007]\n(4) For the purposes of this Act —\n(a)the deposit of a postal article into any posting box of a postal licensee, or its delivery to any employee of a postal licensee or any agent authorised by the postal licensee to receive postal articles of that description on its behalf, is a delivery to the postal licensee;\n(b)the delivery of a postal article —\n(i)by leaving it at the premises to which it is addressed or redirected, unless the premises are a post office from which the postal article is to be collected;\n(ii)by depositing it into the letter box of the premises to which it is addressed or redirected; or\n(iii)to the addressee’s agent or to any other person considered to be authorised to receive the postal article,\nis a delivery to the addressee; and\n(c)a postal article is regarded to be in the course of transmission by post from the time of its being delivered to a postal licensee to the time of it being delivered to the addressee, or it being returned to the sender or otherwise disposed of under this Act.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1A POSTAL AUTHORITY"
+   },
+   "heading": {
+    "en": "Postal Authority"
+   },
+   "text": {
+    "en": "3.—(1) The Info-communications Media Development Authority, established by section 3 of the Info‑communications Media Development Authority Act 2016, is appointed as the Postal Authority.\n[22/2016]\n(2) The Postal Authority is responsible for the administration of this Act.\n[22/2016]"
+   }
+  },
+  {
+   "id": "SG-H3574-A3.001",
+   "no": 3.001,
+   "noLabel": {
+    "en": "3A."
+   },
+   "chapter": {
+    "en": "PART 1A POSTAL AUTHORITY"
+   },
+   "heading": {
+    "en": "Functions and duties of Postal Authority"
+   },
+   "text": {
+    "en": "3A.—(1) It is the function and duty of the Postal Authority —\n(a)to promote the efficiency and international competitiveness of the postal industry in Singapore;\n(b)to ensure that postal services are reasonably accessible to all people in Singapore, and are supplied as efficiently and economically as practicable and at performance standards that reasonably meet the social, industrial and commercial needs of Singapore;\n(c)to promote the development of postal systems and postal services in accordance with, as far as practicable, recognised international standard practice;\n(d)to promote and maintain fair and efficient market conduct between persons engaged in commercial activities connected with the operation and provision of postal systems and postal services for the conveyance of letters in Singapore;\n(e)to promote the effective participation of all sectors of the Singapore postal industry in markets, whether in Singapore or elsewhere;\n(f)to exercise licensing and regulatory functions in respect of postal systems and postal services in Singapore;\n(g)to exercise regulatory functions in respect of the determination and approval of prices, tariffs, charges and the provision of postal services and other related services;\n(h)to act internationally as the national body representative of Singapore in respect of postal matters;\n(i)to advise the Government on national needs and policies in respect of all postal matters and on matters pertaining to the Postal Authority generally; and\n(j)to further the advancement of technology relating to postal systems and postal services.\n[34/2007]\n(2) In discharging the functions and duties imposed on it by subsection (1), the Postal Authority is to have regard —\n(a)to efficiency and economy;\n(b)to the social, industrial and commercial needs of Singapore for postal services;\n(c)to the state of and trends in the development of postal systems and postal services and the evolution of standards and protocols used in the postal industry, both in Singapore and elsewhere;\n(d)to fostering the development and expansion of postal services in the world in collaboration with foreign postal administrations, other countries and international organisations;\n(e)to maintaining fair competition between persons engaged in the provision of postal systems and postal services for the conveyance of letters;\n(f)to enabling persons providing postal systems and postal services in Singapore to compete fairly in the provision of such systems and services outside Singapore;\n(g)to the provision of postal services at rates consistent with efficient service;\n(h)to the promotion of research and development in the field of postal systems and postal services; and\n(i)to collaboration with educational institutions for the promotion of technical education in the field of postal systems and postal services.\n[34/2007]\n(3) Additionally, it is the function and duty of the Postal Authority —\n(a)to promote the efficiency and ensure the security and reliability of the public parcel locker network;\n(b)to ensure that public parcel lockers are reasonably accessible to all people in Singapore, and are supplied as efficiently and economically as practicable and at performance standards that reasonably meet the social, industrial and commercial needs of Singapore;\n(c)to exercise regulatory functions in respect of the public parcel locker network in Singapore; and\n(d)to exercise regulatory functions in respect of the determination and approval of prices, tariffs and charges in relation to, and the provision of, public parcel lockers.\n[10/2021]\n(4) In discharging the functions and duties imposed on the Postal Authority by subsection (3), the Postal Authority is to have regard to the following matters:\n(a)efficiency and economy;\n(b)the social, industrial and commercial needs of Singapore for public parcel lockers;\n(c)the provision of public parcel lockers at rates consistent with efficient service.\n[10/2021]\n(5) The Postal Authority may undertake such other functions as the Minister may from time to time, by notification in the Gazette, assign to the Postal Authority, and in so doing, the Postal Authority is deemed to be fulfilling the purposes of this Act, and the provisions of this Act apply to the Postal Authority in respect of those functions.\n[34/2007]\n(6) Nothing in this section —\n(a)imposes on the Postal Authority, either directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject;\n(b)precludes the Postal Authority from interrupting, suspending or restricting any postal services provided by the Postal Authority;\n(c)precludes the Postal Authority from interrupting, suspending or restricting the installation or operation of any public parcel locker provided by the Postal Authority or a public parcel locker network operator; and\n(d)precludes the Postal Authority from ensuring the provision of any special service for any person or section of the public where the special service is required.\n[34/2007; 10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A3.002",
+   "no": 3.002,
+   "noLabel": {
+    "en": "3B."
+   },
+   "chapter": {
+    "en": "PART 1A POSTAL AUTHORITY"
+   },
+   "heading": {
+    "en": "Powers of Postal Authority"
+   },
+   "text": {
+    "en": "3B.—(1) Subject to the provisions of this Act, the Postal Authority may carry on any activities that appear to it to be advantageous, necessary or expedient for it to carry on for or in connection with the discharge of its functions and duties under this Act, and in particular, the Postal Authority may exercise any of the powers specified in the Schedule.\n[34/2007]\n(2) This section does not limit any power of the Postal Authority conferred by or under any other written law.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 EXCLUSIVE PRIVILEGE AND LICENSING, ETC.,OF POSTAL SERVICES"
+   },
+   "heading": {
+    "en": "Exclusive privilege with respect to conveyance, etc., of letters"
+   },
+   "text": {
+    "en": "4.—(1) As from 1 December 1999 and subject to this Act, the Postal Authority has the exclusive privilege of conveying from one place to another letters and performing all incidental services of receiving, collecting, sorting, sending, despatching and delivering letters.\n[34/2007]\n(2) Subject to the provisions of this Act, a person must not convey within Singapore any letter from one place to another (whether the place is within or outside Singapore), or perform any incidental services of receiving, collecting, sorting, sending, despatching and delivering letters, unless the person —\n(a)is the Postal Authority;\n(b)holds a postal licence authorising the person to do so; or\n(c)is acting as an employee or agent of the Postal Authority, or of a person who is authorised under a postal licence to do so.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 EXCLUSIVE PRIVILEGE AND LICENSING, ETC.,OF POSTAL SERVICES"
+   },
+   "heading": {
+    "en": "Exceptions to section 4"
+   },
+   "text": {
+    "en": "5.—(1) The privilege conferred by section 4 is not infringed by —\n(a)letters not exceeding 3 in number sent by a person for delivery by the person to another without hire, reward or other profit for receiving, carrying or delivering the letters;\n(b)any letter solely concerning the affairs of either correspondent by an employee of either correspondent;\n(c)the conveyance of any letter solely concerning any goods or other property which is to be delivered with the letter, without hire, reward or other profit for receiving, carrying or delivering the letter, if the letter is open to inspection and has thereon the words “Consignee’s letter” or other words to the same effect;\n(d)the conveyance from one place to another of —\n(i)any letter by direct mail;\n(ii)any letter by the sender personally; or\n(iii)any document in respect of which a method of service other than post is required or authorised by written law; and\n(e)the conveyance of any letter by —\n(i)intra‑organisational mailroom service; or\n(ii)messenger service.\n[34/2007; 10/2021]\n(2) The Minister may, after consulting the Postal Authority, by order in the Gazette, delete, vary or add to the exceptions in subsection (1).\n[34/2007]\n(3) In subsection (1)(e) —\n“intra‑organisational mailroom service” means a service comprising both of the following:\n(a)the conveyance, between 2 or more premises occupied by an organisation, of any letter addressed to the organisation or an officer or employee of the organisation;\n(b)the receiving, collecting and sorting, and the sending, despatching and delivery to the organisation or an officer or employee of the organisation, of a letter mentioned in paragraph (a);\n“messenger service” means a service comprising both of the following:\n(a)the receiving, collecting and sorting of any letter originating from an organisation or an officer or employee of an organisation (whether the organisation occupies one or more premises) and that is intended for delivery to an addressee who is not another officer or employee of the organisation;\n(b)the sending and despatching of a letter mentioned in paragraph (a) to a postal licensee for delivery to the addressee.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 EXCLUSIVE PRIVILEGE AND LICENSING, ETC.,OF POSTAL SERVICES"
+   },
+   "heading": {
+    "en": "Power to license conveyance of letters, etc."
+   },
+   "text": {
+    "en": "6.—(1) The Postal Authority may, with the consent of or in accordance with the terms of any general authority given by the Minister, grant a licence (called in this Act a postal licence) to any person or class of persons authorising the person or class of persons to do anything —\n(a)which would otherwise contravene section 4; and\n(b)which is specified in the licence,\nand any such postal licence may be granted without conditions or subject to any conditions that the Postal Authority thinks fit.\n[34/2007]\n(2) A licence granted under subsection (1) may be granted either to any person, class of persons or a particular person and may include (without affecting the power to impose conditions conferred by that subsection) conditions requiring the licensee —\n(a)to enter into agreements or arrangements with any person, class of persons or another postal licensee for —\n(i)the interconnection of, and access to, postal systems;\n(ii)the sharing of installation or plant used for posts belonging to any postal licensee; and\n(iii)any other purpose specified in the licence,\non any terms and conditions that may be agreed to by the licensee and the other persons or licensees or, in default of agreement, as may be determined by the Postal Authority;\n(b)to pay to the Postal Authority a fee on the grant of the licence or to pay to the Postal Authority periodic fees during the currency of the licence or both, of such amount as may be determined by or under the licence;\n(c)to comply with any direction given by the Postal Authority as to any matters that are specified in the licence or are of a description so specified;\n(d)to comply with codes of practice and standards of performance that are applicable to the licensee; and\n(e)to do or not to do such things as are specified in the licence or are of a description so specified.\n(3) Any payment required by subsection (2) to be rendered to the Postal Authority may be recovered by it in any court of competent jurisdiction as if it were a simple contract debt.\n(4) No person may question whether the grant of a licence under subsection (1) was, or was not, effected with the consent of or in accordance with the terms of a general authority given by the Minister, and the validity of a licence granted under that subsection must not be impugned on the ground that it was granted neither with the consent of nor in accordance with the terms of a general authority given by the Minister.\n(5) The grant of licences under this section is at the discretion of the Postal Authority.\n(6) Anything done under and in accordance with a licence granted under subsection (1) does not constitute an infringement of the privilege conferred by section 4."
+   }
+  },
+  {
+   "id": "SG-H3574-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 EXCLUSIVE PRIVILEGE AND LICENSING, ETC.,OF POSTAL SERVICES"
+   },
+   "heading": {
+    "en": "Designation of public postal licensees"
+   },
+   "text": {
+    "en": "7. The Postal Authority may, with the approval of the Minister, designate any postal licensee as a public postal licensee to perform all or any of the functions relating to the provision of postal services within the exclusive privilege of the Postal Authority under this Act."
+   }
+  },
+  {
+   "id": "SG-H3574-A7.001",
+   "no": 7.001,
+   "noLabel": {
+    "en": "7A."
+   },
+   "chapter": {
+    "en": "PART 2 EXCLUSIVE PRIVILEGE AND LICENSING, ETC.,OF POSTAL SERVICES"
+   },
+   "heading": {
+    "en": "Additional licence conditions for public postal licensees"
+   },
+   "text": {
+    "en": "7A.—(1) The conditions of a licence granted under section 6 to a public postal licensee may include conditions requiring the public postal licensee to enter into agreements or arrangements with any applicable person or class of applicable persons under which the public postal licensee delivers applicable postal articles to letter boxes on the terms and conditions that the public postal licensee and the applicable person agree to or, in default of agreement, that the Postal Authority may determine.\n[10/2021]\n(2) In subsection (1) —\n“applicable person” includes another postal licensee;\n“applicable postal article” means a postal article (other than a letter) that is sent and despatched by an applicable person to a public postal licensee for delivery to a letter box.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 EXCLUSIVE PRIVILEGE AND LICENSING, ETC.,OF POSTAL SERVICES"
+   },
+   "heading": {
+    "en": "Modification of licence conditions"
+   },
+   "text": {
+    "en": "8.—(1) Subject to this section, the Postal Authority may modify the conditions of a licence granted under section 6.\n(2) Before making modifications to the conditions of a licence of a postal licensee under this section, the Postal Authority must give notice to the licensee —\n(a)stating that it proposes to make the modifications in the manner specified in the notice;\n(b)stating the compensation payable for any damage caused by the modifications proposed, where the postal licensee is a public postal licensee; and\n(c)specifying the time (not being less than 28 days from the date of service of notice on such licensee) within which written representations with respect to the proposed modifications may be made.\n[34/2007]\n(3) Upon receipt of any written representation mentioned in subsection (2), the Postal Authority must consider the representation and may —\n(a)reject the representation; or\n(b)amend the proposed modifications or compensation payable in accordance with the representation, or otherwise,\nand, in either event, the Postal Authority must then issue a direction in writing to the licensee requiring that effect be given to the proposed modifications specified in the notice or to such modifications as subsequently amended by the Postal Authority within a reasonable time.\n(4) The Postal Authority must not enforce its direction —\n(a)during the period mentioned in section 56; and\n(b)while the appeal of the postal licensee is under consideration by the Minister.\n[34/2007]\n(5) If no written representation is received by the Postal Authority within the time specified in subsection (2) or if any written representation made under subsection (2) is subsequently withdrawn, the Postal Authority may forthwith carry out the modifications as specified in the notice given under subsection (2)."
+   }
+  },
+  {
+   "id": "SG-H3574-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 EXCLUSIVE PRIVILEGE AND LICENSING, ETC.,OF POSTAL SERVICES"
+   },
+   "heading": {
+    "en": "Suspension or cancellation of licence, etc."
+   },
+   "text": {
+    "en": "9.—(1) If the Postal Authority is satisfied that a person who is granted a licence under section 6 or any regulations made under this Act is contravening, or has contravened, whether by act or omission —\n(a)any of the conditions of the licence;\n(b)any provision of any code of practice or standard of performance;\n(c)any direction of the Postal Authority given under section 25, 26D or 26F(2); or\n(d)section 26B,\nthe Authority may, by written notice, do either or both of the following:\n(e)issue such written order to the person as it considers requisite for the purpose of securing compliance thereof;\n(f)require the payment, within a specified period, of a financial penalty of such amount not exceeding $1 million as it thinks fit.\n[34/2007]\n(2) Where the Postal Authority is satisfied that —\n(a)the person who is granted a postal licence is again likely to contravene, whether by act or omission, any condition, provision, direction or section mentioned in subsection (1);\n(b)the person who is granted a postal licence has gone into liquidation other than for the purpose of amalgamation or reconstruction;\n(c)the person who is granted a postal licence is no longer in a position to comply with the provisions of this Act or the terms or conditions of the person’s licence; or\n(d)the public interest so requires,\nthe Postal Authority may, in lieu of an order or a financial penalty under subsection (1)(e) or (f) or both, by written notice and without any compensation, do all or any of the following:\n(e)cancel the licence or part thereof;\n(f)suspend the licence or part thereof for such period as it thinks fit;\n(g)reduce the period for which the licence is to be in force.\n[34/2007]\n(3) An order under subsection (1)(e) —\n(a)must require the person concerned (according to the circumstances of the case) to do, or not to do, any things that are specified in the order or are of a description so specified therein;\n(b)takes effect at such time, being the earliest practicable time, as is determined by or under that order; and\n(c)may be revoked at any time by the Postal Authority.\n[34/2007]\n(4) A person who fails to comply with any order under subsection (1)(e) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both.\n[34/2007]\n(5) In any proceedings brought against a person for an offence under subsection (4), it is a defence for the person to prove that the person took all reasonable steps and exercised all due diligence to avoid contravening the order.\n(6) A financial penalty payable by a person by virtue of subsection (1) is recoverable by the Postal Authority as a debt due to the Postal Authority from that person; and the person’s liability to pay is not affected by the person’s licence ceasing (for any reason) to be in force."
+   }
+  },
+  {
+   "id": "SG-H3574-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 EXCLUSIVE PRIVILEGE AND LICENSING, ETC.,OF POSTAL SERVICES"
+   },
+   "heading": {
+    "en": "Residual power of Postal Authority to provide postal services"
+   },
+   "text": {
+    "en": "10.—(1) The Postal Authority may provide any postal service even though it has granted a licence to any person under section 6 in any of the following circumstances:\n(a)if the Postal Authority is of the opinion that a person licensed under section 6 has failed to discharge or is not discharging to the Postal Authority’s satisfaction the obligations imposed by the Postal Authority on that person in the licence;\n(b)to give effect to any direction of the Minister under section 45.\n(2) Where the Postal Authority undertakes the provision of postal services under subsection (1), sections 2, 10, 10A, 11, 12, 13, 18 to 21, 23, 27 to 34, 36 to 38, 40 to 44, 57 and 58 apply, with the necessary modifications, to the Postal Authority in respect of the provision of such services and the references to public postal licensees or postal licensees in those sections are then references to the Postal Authority.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A10.001",
+   "no": 10.001,
+   "noLabel": {
+    "en": "10A."
+   },
+   "chapter": {
+    "en": "PART 2 EXCLUSIVE PRIVILEGE AND LICENSING, ETC.,OF POSTAL SERVICES"
+   },
+   "heading": {
+    "en": "Charges and other terms for services provided by Postal Authority"
+   },
+   "text": {
+    "en": "10A.—(1) The Postal Authority may make, in relation to any service provided by the Postal Authority under this Act, a scheme or schemes for determining either or both of the following:\n(a)the charges which, except insofar as they are the subject of an agreement between the Postal Authority and a person availing himself, herself or itself of the service, are to be made by the Postal Authority;\n(b)the other terms and conditions which, except as provided, are to be applicable to the service.\n[34/2007]\n(2) A scheme made under this section may make different provision for different cases or classes of cases determined by, or in accordance with, the provisions of the scheme.\n[34/2007]\n(3) A charge exigible by virtue of this section may be recovered by the Postal Authority in any court of competent jurisdiction as if it were a simple contract debt.\n[34/2007]\n(4) A scheme or any amendment thereof made under this section comes into operation on a date that the Postal Authority determines.\n[34/2007]\n(5) Nothing in this section is to be construed as prohibiting the Postal Authority from levying any charge or collecting any dues for anything done or any service rendered by reason only of not being incorporated in a scheme and the rates, charges and fees payable to the Postal Authority for any service rendered must be in accordance with such rates, charges and fees as may, from time to time, be determined by the Postal Authority.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 POSTAL SERVICES AND SYSTEMS"
+   },
+   "heading": {
+    "en": "Postal remittance of money"
+   },
+   "text": {
+    "en": "11.—(1) A public postal licensee may provide for the remittance of any sum of money through the post or any electronic or other system established by or among foreign postal administrations and postal licensees, if the public postal licensee is authorised by its licence to do so.\n[34/2007; 10/2021]\n(2) A public postal licensee mentioned in subsection (1) may specify the documents to be used in connection with the remittances under subsection (1).\n[34/2007; 10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 POSTAL SERVICES AND SYSTEMS"
+   },
+   "heading": {
+    "en": "Documents to be deemed valuable securities"
+   },
+   "text": {
+    "en": "12. Any document specified by a public postal licensee mentioned in section 11(1) to be used for the remittance of money through the licensee is deemed to be a valuable security within the meaning of the Penal Code 1871.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 POSTAL SERVICES AND SYSTEMS"
+   },
+   "heading": {
+    "en": "Examination of postal articles"
+   },
+   "text": {
+    "en": "13. All postal articles received from outside Singapore may be examined while in the custody of a postal licensee by the Director‑General of Customs or any senior officer of customs, and may be opened by an employee of the licensee in the presence of the Director‑General of Customs or the senior officer of customs for the purpose of the examination.\n[4/2003; 34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 POSTAL SERVICES AND SYSTEMS"
+   },
+   "heading": {
+    "en": "Forfeiture of postal articles"
+   },
+   "text": {
+    "en": "14. Any postal article found upon any examination under section 13 to contain any dutiable goods, that postal article not having affixed thereto a true declaration of those goods, is liable to forfeiture by order of the Director‑General of Customs.\n[4/2003]"
+   }
+  },
+  {
+   "id": "SG-H3574-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 POSTAL SERVICES AND SYSTEMS"
+   },
+   "heading": {
+    "en": "Presumption as to importer"
+   },
+   "text": {
+    "en": "15. The addressee of any postal article containing any dutiable goods is presumed until the contrary is proved to have imported the same."
+   }
+  },
+  {
+   "id": "SG-H3574-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 POSTAL SERVICES AND SYSTEMS"
+   },
+   "heading": {
+    "en": "Letter boxes"
+   },
+   "text": {
+    "en": "16.—(1) The Postal Authority may, from time to time, do all or any of the following:\n(a)issue or approve the specifications relating to the number, place, dimensions and other characteristics of letter boxes;\n(b)approve the installation and use of any other mail delivery systems or arrangements;\n(c)amend or revoke any specifications issued or approved under paragraph (a) or any approval under paragraph (b).\n[34/2007]\n(2) Where any specifications are issued or approved, or amended or revoked by the Postal Authority under subsection (1), the Postal Authority must —\n(a)publish a notice of the issue, approval, amendment or revocation (as the case may be) of the specifications in any manner as will secure adequate publicity for the issue, approval, amendment or revocation;\n(b)specify in the notice mentioned in paragraph (a) the date of issue, approval, amendment or revocation, as the case may be; and\n(c)ensure that, so long as the specifications remain in force, the specifications, and all amendments to those specifications, are available for inspection by members of the public.\n[34/2007]\n(3) A developer of any residential building or commercial or industrial building must —\n(a)provide one letter box for each lot within any residential building or commercial or industrial building;\n(b)ensure that the letter boxes provided under paragraph (a) are numbered in numerical sequence; and\n(c)comply with all specifications issued, approved or amended by the Postal Authority under subsection (1).\n[34/2007; 10/2021]\n(4) Any developer who contravenes subsection (3) shall be guilty of an offence.\n[34/2007]\n(5) Where letter boxes are provided under subsection (3) for a residential building, or a commercial or industrial building, that is a subdivided building, the applicable person for the building must —\n(a)ensure that one letter box (whether provided under subsection (3) or under this subsection) continues to be provided for each lot within the building;\n(b)where any lot within the building is further subdivided into 2 or more lots, provide one letter box for each new lot;\n(c)ensure that the letter boxes —\n(i)are numbered, or continue to be numbered, in numerical sequence; and\n(ii)are at all times kept in a state of good and serviceable repair;\n(d)repair or replace without unreasonable delay any letter box which is damaged or otherwise unusable; and\n(e)comply with all specifications issued, approved or amended by the Postal Authority under subsection (1).\n[10/2021]\n(6) The applicable person for a building mentioned in subsection (5) may recover the costs reasonably incurred for providing a letter box for a new lot within the building under subsection (5)(b) from the subsidiary proprietor of the new lot or the person who is registered under the Land Titles Act 1993 as the proprietor of the fee simple, estate in perpetuity or leasehold estate of the new lot if —\n(a)the building is premises comprised in a strata title plan under the Land Titles (Strata) Act 1967; and\n(b)the letter box provided is not common property or limited common property of the building.\n[10/2021]\n(7) In the case of a residential building, or a commercial or industrial building, that is not a subdivided building, the person who is registered under the Land Titles Act 1993 as the proprietor of the fee simple, estate in perpetuity or leasehold estate of the building must —\n(a)ensure that the letter box provided for the building under subsection (3) is at all times kept in a state of good and serviceable repair;\n(b)where the letter box is damaged or otherwise unusable, repair or replace the letter box without unreasonable delay; and\n(c)comply with all specifications issued, approved or amended by the Postal Authority under subsection (1).\n[10/2021]\n(8) A person who contravenes subsection (5) or (7) shall be guilty of an offence.\n[10/2021]\n(9) It is the duty of —\n(a)the owner of any common property or limited common property (as the case may be) on which a letter box is situated, being a letter box which is provided for persons occupying the building or part thereof; and\n(b)the owner of a building where a letter box is provided for the owner or occupier of the building,\nto keep at all times the lawful access to the letter box clear from any obstruction by any vehicle, debris, box or object or any other thing which would prevent or impede the delivery of postal articles to that letter box by a postal licensee.\n[34/2007]\n(10) Where, in the opinion of the Postal Authority, the lawful access to any letter box mentioned in subsection (9) is not clear from any obstructions mentioned in that subsection, the Postal Authority may, by written notice, require the owner of the common property or limited common property, or the owner or occupier of the building mentioned in subsection (9)(b) (as the case may be) to undertake, within the time specified in that notice, any work or rectification steps to ensure that subsection (9) is complied with.\n[34/2007]\n(11) If any person on whom a notice under subsection (10) is served, without reasonable excuse, fails to comply with the requirements of that notice, that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $25 for every day or part of a day during which the offence continues after conviction.\n[34/2007]\n(12) To avoid doubt, subsections (9), (10) and (11) do not apply with respect to any sealing or locking of the aperture of a letter box by the person for whom the letter box is provided, or any closure or locking of any normal access to the letter box by or under lawful authority.\n[34/2007]\n(13) In this section —\n“applicable person”, for a residential building, or a commercial or industrial building, means —\n(a)in relation to a building that is premises comprised in a strata title plan under the Land Titles (Strata) Act 1967 —\n(i)where the letter boxes are common property of the building — the management corporation having control of that common property;\n(ii)where the letter boxes are limited common property of the building — the subsidiary management corporation established by the Building (Strata Management) Act 2004 having control of that limited common property; or\n[Act 15 of 2026 wef 01/07/2026]\n(iii)where the letter boxes are not common property or limited common property of the building — the management corporation having control of the common property of the building;\n(b)in relation to a building in a housing estate of the Housing and Development Board (called an HDB housing estate) —\n(i)where the building’s common property is in an HDB housing estate that is controlled, managed and maintained by a Town Council — that Town Council; or\n(ii)where the building’s common property is in an HDB housing estate that is not controlled, managed and maintained by a Town Council — the Housing and Development Board; or\n(c)in relation to a building that is a subdivided building other than a subdivided building mentioned in paragraph (a) or (b), every person who is registered under the Land Titles Act 1993 as the proprietor of the fee simple, estate in perpetuity or leasehold estate of a lot in that building;\n“commercial or industrial building” includes any shopping complex;\n“lot” means any stratum that satisfies all of the following requirements:\n(a)the stratum —\n(i)is within a parcel of any land, building and common property comprised or to be comprised in a strata title plan and is shown as a lot on the strata title plan, including a lot specified as an accessory lot on any such plan; or\n(ii)is within any land or building not comprised or not to be comprised in a strata title plan;\n(b)the stratum is used or intended to be used as a complete and separate unit for the purpose of habitation or business or for any other purpose;\n(c)a number has been allotted to the stratum by the Comptroller of Property Tax under section 51(1) of the Property Tax Act 1960;\n“owner” and “stratum” have the meanings given by section 2(1) of the Building (Strata Management) Act 2004;\n[Act 15 of 2026 wef 01/07/2026]\n“subdivided building” has the meaning given by section 3(1) of the Land Titles (Strata) Act 1967.\n[34/2007; 10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 POSTAL SERVICES AND SYSTEMS"
+   },
+   "heading": {
+    "en": "Administrative exemption from section 16"
+   },
+   "text": {
+    "en": "17.—(1) The Postal Authority may, where the Postal Authority is satisfied that all of the matters in subsection (2) apply, exempt —\n(a)a particular developer of a particular residential building or a particular commercial or industrial building from the application of section 16(3)(a); or\n(b)a particular applicable person for a particular residential building or a particular commercial or industrial building from the application of section 16(5)(a) or (b).\n[10/2021]\n(2) The matters mentioned in subsection (1) are the following:\n(a)that either of the following applies:\n(i)there is no suitable location in the particular residential building or the particular commercial or industrial building for letter boxes to be provided;\n(ii)having regard to the use or intended use of the particular residential building or the particular commercial or industrial building, there is no need for letter boxes to be provided;\n(b)appropriate alternative arrangements have been or will be made by the particular developer or particular applicable person for the receipt of postal articles.\n[10/2021]\n(3) An exemption under this section —\n(a)must be in writing and given to the particular developer or particular applicable person, as the case may be; and\n(b)need not be published in the Gazette.\n[10/2021]\n(4) In this section, “applicable person” has the meaning given by section 16(13).\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 POSTAL SERVICES AND SYSTEMS"
+   },
+   "heading": {
+    "en": "Posting boxes and postal label vending machines"
+   },
+   "text": {
+    "en": "18. A postal licensee may, with the approval of the Postal Authority, erect, relocate and remove any posting box and postal label vending machine in any public road, street or highway, or in any other public place.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 POSTAL SERVICES AND SYSTEMS"
+   },
+   "heading": {
+    "en": "Postage stamps"
+   },
+   "text": {
+    "en": "19.—(1) A person (other than the Postal Authority or a specified public postal licensee) must not provide or cause to be provided postage stamps that bear the word “Singapore” in any language.\n[10/2021]\n(2) Any person who contravenes subsection (1) shall be guilty of an offence.\n[34/2007]\n(3) Any postage stamp provided under subsection (1) may be of such kind and may denote such values as the Postal Authority or specified public postal licensee may determine.\n[34/2007; 10/2021]\n(4) Any postage stamp provided under this section must be used for the prepayment of any postage or other sum chargeable under this Act in respect of any postal article to be conveyed and delivered by or through the Postal Authority or the specified public postal licensee, except where the Postal Authority or specified public postal licensee determines that prepayment may be made in some other manner.\n[34/2007; 10/2021]\n(5) The design of every postage stamp provided by a specified public postal licensee under this section must be approved by the Postal Authority.\n[34/2007; 10/2021]\n(6) All philatelic archival materials produced by a specified public postal licensee belong to the Government, and all philatelic archival materials must be kept in such custody as the Government directs.\n[34/2007; 10/2021]\n(7) In subsection (6), “philatelic archival materials” includes —\n(a)philatelic stamps;\n(b)artworks, proofs, progressive sheets, printed sheets and printing plates of philatelic stamps; and\n(c)date stamps, slogan dies and other artifacts used in connection with the production of philatelic stamps.\n[34/2007]\n(8) The Minister may, after consulting the Postal Authority, by order in the Gazette, delete, vary or add to the items of “philatelic archival materials” specified in subsection (7).\n[34/2007]\n(9) In this section, “specified public postal licensee” means a public postal licensee that is authorised by the licence granted under section 6 to provide postage stamps that bear the word “Singapore” in any language.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 POSTAL SERVICES AND SYSTEMS"
+   },
+   "heading": {
+    "en": "Official marks to be prima facie evidence of certain facts denoted"
+   },
+   "text": {
+    "en": "20. In any proceedings for the recovery of any postage or other fee or sum payable in respect of a postal article —\n(a)the production of a postal article having thereon the official mark of a public postal licensee denoting that the article has been refused or that the addressee is dead or cannot be found is prima facie evidence of the fact so denoted; and\n(b)the person from whom any postal article purports to come is, until the contrary is proved, deemed to be the sender thereof."
+   }
+  },
+  {
+   "id": "SG-H3574-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 POSTAL SERVICES AND SYSTEMS"
+   },
+   "heading": {
+    "en": "Recovery of postage and other sums due in respect of postal articles"
+   },
+   "text": {
+    "en": "21.—(1) Where any postage or other fee or sum is not prepaid or fully prepaid in respect of a postal article posted for delivery in Singapore, a public postal licensee is entitled to be paid, as a condition of delivery, any fee, in addition to the amount of the postage or of the deficient postage payable in respect of the delivery of the article, that is payable in accordance with a determination made by a Postal Authority.\n(2) The official mark or label on a postal article denoting that any postage or other fee or sum is due in respect thereof to a public postal licensee or to the postal authority of any foreign country is prima facie evidence that the postage or other fee or sum denoted is so due."
+   }
+  },
+  {
+   "id": "SG-H3574-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 3 POSTAL SERVICES AND SYSTEMS"
+   },
+   "text": {
+    "en": "22. [Repealed by Act 34 of 2007]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3574-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 3 POSTAL SERVICES AND SYSTEMS"
+   },
+   "heading": {
+    "en": "Power to deal with postal articles sent in contravention of this Act"
+   },
+   "text": {
+    "en": "23.—(1) Any postal article sent by post which is suspected to be sent in contravention of this Act or any regulations made under this Act may be detained and opened by a public postal licensee or otherwise dealt with in accordance with the directions of the Postal Authority.\n[34/2007]\n(2) The detention of a postal article under subsection (1) does not exempt the sender from any proceedings which might have been taken if the postal article had been delivered in due course of post.\n(3) Any postal article sent in contravention of this Act or any regulations made under this Act must be destroyed, returned to the sender or dealt with in any other manner that the Postal Authority may direct.\n[34/2007]\n(4) The Postal Authority may, by written order, direct a postal licensee to detain and open all or any postal articles sent by any person or persons named in the order who are reasonably suspected of sending postal articles by post in contravention of this Act.\n[34/2007]\n(5) Upon receipt of an order under subsection (4), a postal licensee must detain and open the postal article or articles specified in the order, and any postal article found to have been sent in contravention of this Act must be dealt with in accordance with subsection (3).\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A23.001",
+   "no": 23.001,
+   "noLabel": {
+    "en": "23A."
+   },
+   "chapter": {
+    "en": "PART 3A PUBLIC PARCEL LOCKERS"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "23A. In this Part, unless the context otherwise requires —\n“authorised person”, for any provision of this Part, means a person authorised by the public parcel locker network operator for the purposes of that provision;\n“owner” —\n(a)in relation to any premises comprised in a strata title plan under the Land Titles (Strata) Act 1967, means —\n(i)in the case of a lot — the person who is registered as the subsidiary proprietor of the lot under that Act;\n(ii)in the case of any common property — the management corporation having control of that common property, or the person receiving any rent or charge for the maintenance and management of that common property; and\n(iii)in the case of any limited common property — the subsidiary management corporation established by the Building (Strata Management) Act 2004 having control of that limited common property, or the person receiving any rent or charge for the maintenance and management of that limited common property;\n[Act 15 of 2026 wef 01/07/2026]\n(b)in relation to a building in a housing estate of the Housing and Development Board (called an HDB housing estate), means —\n(i)in the case of a flat — any owner of the flat as defined in section 2(1) of the Housing and Development Act 1959;\n(ii)in the case of the building’s common property in an HDB housing estate that is controlled, managed and maintained by a Town Council — that Town Council; and\n(iii)in the case of the building’s common property in an HDB housing estate that is not controlled, managed and maintained by a Town Council — the Housing and Development Board;\n(c)in relation to a subdivided building other than a subdivided building mentioned in paragraph (a) or (b), means —\n(i)in the case of a lot — the person who is registered under the Land Titles Act 1993 as the proprietor of the fee simple, estate in perpetuity or leasehold estate of that lot; and\n(ii)in the case of the subdivided building’s common property — every person who is registered under the Land Titles Act 1993 as the proprietor of the fee simple, estate in perpetuity or leasehold estate of a lot in that building, or the person receiving any rent or charge for the maintenance or management of the common property;\n(d)in relation to any premises which are not subdivided, means any person who is registered under the Land Titles Act 1993 as the proprietor of the fee simple, estate in perpetuity or leasehold estate of those premises; and\n(e)in relation to any other premises or building, means the person for the time being receiving the rent of the premises or building, whether on the person’s own account or as agent, trustee or receiver, or who would receive such rent if the premises or building were let to a tenant, and includes the person whose name is entered in the Valuation List prepared under section 10 of the Property Tax Act 1960 as the owner of the premises or building, or a mortgagee in possession;\n“premises” has the meaning given by section 2(1) of the Building Control Act 1989;\n“relevant land” means any land adjoining any specified premises, that is owned or occupied by —\n(a)the Government, including any ministry, department, agency or Organ of State; or\n(b)any body corporate established by a public Act for a public function,\nbut excludes State land;\n“Singapore Land Authority” means the Singapore Land Authority established by section 3 of the Singapore Land Authority Act 2001;\n“specified day” means 14 May 2021;\n“specified premises” —\n(a)means any of the following:\n(i)the common property of a building in an HDB housing estate;\n(ii)a bus interchange within the meaning given by section 2 of the Bus Services Industry Act 2015;\n(iii)a railway commuter facility or railway premises within the meaning given by section 2 of the Rapid Transit Systems Act 1995;\n(iv)a community centre or club managed or run by the People’s Association established by section 2(1) of the People’s Association Act 1960;\n(v)any other premises that are prescribed by the Minister, by order in the Gazette, as specified premises; and\n(b)includes any State land adjoining any premises mentioned in paragraph (a).\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A23.002",
+   "no": 23.002,
+   "noLabel": {
+    "en": "23B."
+   },
+   "chapter": {
+    "en": "PART 3A PUBLIC PARCEL LOCKERS"
+   },
+   "heading": {
+    "en": "Exclusive privilege with respect to public parcel locker network"
+   },
+   "text": {
+    "en": "23B. The Postal Authority has the exclusive privilege of establishing, installing, operating and maintaining all of the following (collectively called the public parcel locker network):\n(a)parcel lockers located in or on any specified premises (called public parcel lockers);\n(b)related installations for any parcel locker mentioned in paragraph (a);\n(c)related software for any parcel locker mentioned in paragraph (a) or related installation mentioned in paragraph (b).\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A23.003",
+   "no": 23.003,
+   "noLabel": {
+    "en": "23C."
+   },
+   "chapter": {
+    "en": "PART 3A PUBLIC PARCEL LOCKERS"
+   },
+   "heading": {
+    "en": "Public parcel locker network operator"
+   },
+   "text": {
+    "en": "23C.—(1) The Postal Authority may appoint a person (called a public parcel locker network operator) to establish, install, operate and maintain the public parcel locker network or any part of the public parcel locker network, subject to any conditions that the Postal Authority thinks fit.\n[10/2021]\n(2) Anything done by the public parcel locker network operator under and in accordance with this Act and any conditions imposed under subsection (1) does not constitute an infringement of the privilege conferred on the Postal Authority under section 23B.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A23.004",
+   "no": 23.004,
+   "noLabel": {
+    "en": "23D."
+   },
+   "chapter": {
+    "en": "PART 3A PUBLIC PARCEL LOCKERS"
+   },
+   "heading": {
+    "en": "Residual power of Postal Authority with respect to public parcel locker network"
+   },
+   "text": {
+    "en": "23D.—(1) The Postal Authority may, despite the appointment of the public parcel locker network operator under section 23C(1), establish, install, operate and maintain the public parcel locker network or any part of the public parcel locker network —\n(a)if the Postal Authority is of the opinion that the public parcel locker network operator has failed to comply with the provisions of this Part or any condition imposed by the Postal Authority under section 23C(1); or\n(b)to give effect to any direction of the Minister under section 45.\n[10/2021]\n(2) Where the Postal Authority installs, operates and maintains the public parcel locker network or part of the public parcel locker network under subsection (1) —\n(a)sections 2, 23A, 23G to 23L, 23Q, 39A to 39J, 57(3) and 58 apply, with the necessary modifications, to the Postal Authority in respect of the installation, operation and maintenance of the public parcel locker network or part thereof; and\n(b)the references to the public parcel locker network operator in those sections are references to the Postal Authority.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A23.005",
+   "no": 23.005,
+   "noLabel": {
+    "en": "23E."
+   },
+   "chapter": {
+    "en": "PART 3A PUBLIC PARCEL LOCKERS"
+   },
+   "heading": {
+    "en": "Charges and other terms for public parcel locker network operated by Postal Authority"
+   },
+   "text": {
+    "en": "23E.—(1) The Postal Authority may, in respect of the public parcel locker network or part thereof operated by the Postal Authority under section 23D, determine either or both of the following:\n(a)the charges for the use of any public parcel locker, unless otherwise agreed by an agreement between the Postal Authority and a person using the public parcel locker;\n(b)the other terms and conditions which, except as provided in this Part, are to be applicable to the public parcel locker network or part thereof.\n[10/2021]\n(2) The Postal Authority may make different provision for different cases or classes of cases.\n[10/2021]\n(3) A charge payable under subsection (1)(a) may be recovered by the Postal Authority in any court of competent jurisdiction as if it were a simple contract debt.\n[10/2021]\n(4) Nothing in this section prohibits the Postal Authority from levying any charge or collecting any dues for anything done or any service rendered other than for the use of a public parcel locker; and the rates, charges and fees payable to the Postal Authority for any service rendered must be in accordance with any rates, charges and fees determined by the Postal Authority.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A23.006",
+   "no": 23.006,
+   "noLabel": {
+    "en": "23F."
+   },
+   "chapter": {
+    "en": "PART 3A PUBLIC PARCEL LOCKERS"
+   },
+   "heading": {
+    "en": "Installation, relocation and removal of public parcel lockers"
+   },
+   "text": {
+    "en": "23F. The public parcel locker network operator may, with the prior approval of the Postal Authority, install, relocate or remove any public parcel locker.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A23.007",
+   "no": 23.007,
+   "noLabel": {
+    "en": "23G."
+   },
+   "chapter": {
+    "en": "PART 3A PUBLIC PARCEL LOCKERS"
+   },
+   "heading": {
+    "en": "Power to enter and examine land other than State land"
+   },
+   "text": {
+    "en": "23G.—(1) This section applies whenever it appears to the public parcel locker network operator that it is or is probably necessary to exercise the powers conferred by this Part on the public parcel locker network operator in respect of any land (except State land) in relation to the installation of any public parcel locker or related installation.\n[10/2021]\n(2) The public parcel locker network operator or an authorised person may, after giving at least 3 hours’ prior notice to the occupier (if any) of the land mentioned in subsection (1) —\n(a)enter the land; and\n(b)do all necessary acts preparatory to the installation of any public parcel locker or related installation, so far as those acts may be possible without causing any damage or disturbance.\n[10/2021]\n(3) Where any damage or disturbance is caused by reason of the entry on the land under subsection (2), the public parcel locker network operator must pay compensation to the owner or occupier of the land.\n[10/2021]\n(4) Nothing in this section authorises any authorised person or any officer, employee or agent of the public parcel locker network operator —\n(a)to cut down or clear away any vegetation or any fence or other structure; or\n(b)to enter any building or any enclosure attached to any building.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A23.008",
+   "no": 23.008,
+   "noLabel": {
+    "en": "23H."
+   },
+   "chapter": {
+    "en": "PART 3A PUBLIC PARCEL LOCKERS"
+   },
+   "heading": {
+    "en": "Power to enter State land"
+   },
+   "text": {
+    "en": "23H.—(1) For the purpose of installing any public parcel locker or related installation, the public parcel locker network operator or an authorised person may, at any reasonable time —\n(a)enter any State land;\n(b)with the approval of the Postal Authority and the Singapore Land Authority, install on the State land any public parcel locker or related installation; and\n(c)carry out all necessary works in connection with paragraph (a) or (b).\n[10/2021]\n(2) Where any work mentioned in subsection (1) interferes with any improvements, buildings, growing trees or crops on the State land, the public parcel locker network operator must pay compensation for any damage or disturbance.\n[10/2021]\n(3) Where the State land is occupied under a licence for temporary occupation, the compensation must be paid to the occupant mentioned in the licence.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A23.009",
+   "no": 23.009,
+   "noLabel": {
+    "en": "23I."
+   },
+   "chapter": {
+    "en": "PART 3A PUBLIC PARCEL LOCKERS"
+   },
+   "heading": {
+    "en": "Power to enter specified premises, etc., for purposes of installing public parcel locker or related installation"
+   },
+   "text": {
+    "en": "23I.—(1) Subject to section 23J, the public parcel locker network operator may —\n(a)enter any specified premises or relevant land for the purposes of paragraph (b) or (c);\n(b)install any public parcel locker in or on the specified premises;\n(c)install any related installation in or on the specified premises or relevant land; and\n(d)take any other action as may be necessary to ensure the safety and efficiency of the public parcel locker or related installation, as the case may be.\n[10/2021]\n(2) Where any damage, disturbance or disability is caused by reason of any act done under subsection (1), the public parcel locker network operator must pay compensation to any person interested.\n[10/2021]\n(3) Any compensation payable under subsection (2) may include an annual payment for land, building or other immovable property used for the purpose of the public parcel locker or related installation, as the case may be.\n[10/2021]\n(4) The public parcel locker network operator does not acquire any right other than that of user only in respect of any land, building or other immovable property in or on which the public parcel locker network operator installs any public parcel locker or related installation under subsection (1).\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A23.01",
+   "no": 23.01,
+   "noLabel": {
+    "en": "23J."
+   },
+   "chapter": {
+    "en": "PART 3A PUBLIC PARCEL LOCKERS"
+   },
+   "heading": {
+    "en": "Procedure for purposes of section 23I"
+   },
+   "text": {
+    "en": "23J.—(1) Where the public parcel locker network operator intends to enter any specified premises or relevant land under section 23I(1), the public parcel locker network operator must —\n(a)give at least 14 days’ written notice to the owner or occupier of the specified premises or relevant land before entering that specified premises or relevant land, as the case may be; and\n(b)satisfy any other prescribed requirements.\n[10/2021]\n(2) The written notice given under subsection (1)(a) must state —\n(a)as fully and accurately as possible the nature and extent of the acts intended to be done; and\n(b)the time within which the owner or occupier of the specified premises or relevant land may lodge a written objection with the Postal Authority.\n[10/2021]\n(3) Where a written objection is lodged by the owner or occupier of the specified premises or relevant land (called in this section the objector) —\n(a)the Postal Authority must notify the public parcel locker network operator to resolve the dispute with the objector; and\n(b)the public parcel locker network operator must, upon receiving the Postal Authority’s notice under paragraph (a), take genuine steps to resolve the dispute with the objector.\n[10/2021]\n(4) If the public parcel locker network operator fails to resolve the dispute with the objector, the Postal Authority may, after giving each party a reasonable opportunity to be heard, decide on the written objection.\n[10/2021]\n(5) The Postal Authority may authorise, subject to the terms and conditions that the Postal Authority thinks fit, any of the acts mentioned in the notice given under subsection (1)(a) to be carried out.\n[10/2021]\n(6) The public parcel locker network operator may enter the specified premises or relevant land (as the case may be), and do all or any of the acts mentioned in the written notice given under subsection (1)(a) —\n(a)where no written objection is lodged within the period specified in the written notice — after the expiry of that period; or\n(b)where a written objection is lodged within the period specified in the written notice —\n(i)after the written objection is withdrawn;\n(ii)after the public parcel locker network operator resolves the dispute with the objector; or\n(iii)on the Postal Authority’s authorisation under subsection (5), subject to the terms and conditions (if any) imposed by the Postal Authority under that subsection.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A23.011",
+   "no": 23.011,
+   "noLabel": {
+    "en": "23K."
+   },
+   "chapter": {
+    "en": "PART 3A PUBLIC PARCEL LOCKERS"
+   },
+   "heading": {
+    "en": "Inspection, maintenance and repair of public parcel lockers and related installations"
+   },
+   "text": {
+    "en": "23K.—(1) For the purpose of inspecting, maintaining or repairing any public parcel locker or related installation, the public parcel locker network operator or an authorised person may, at any reasonable time —\n(a)enter any land or building, whether or not the public parcel locker or related installation (as the case may be) has been installed in or on the land or building, as the case may be; and\n(b)carry out all necessary inspection, maintenance or repair, causing as little damage as possible.\n[10/2021]\n(2) Where any damage, disturbance or disability is caused by reason of any act done under subsection (1), the public parcel locker network operator must pay compensation to any person adversely affected to the extent that compensation has not already been assessed under section 23I(2).\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A23.012",
+   "no": 23.012,
+   "noLabel": {
+    "en": "23L."
+   },
+   "chapter": {
+    "en": "PART 3A PUBLIC PARCEL LOCKERS"
+   },
+   "heading": {
+    "en": "Alteration, relocation, etc., of public parcel locker or related installation"
+   },
+   "text": {
+    "en": "23L.—(1) Where —\n(a)any public parcel locker or related installation has been installed in or on any specified premises or land under section 23H or 23I; and\n(b)the owner or occupier of the specified premises or land desires to use the specified premises or land in a manner which makes it necessary or convenient for the public parcel locker or related installation to be altered, removed, relocated or diverted,\nthe owner or occupier of the specified premises or land may request the public parcel locker network operator to alter, remove, relocate or divert the public parcel locker or related installation (as the case may be) accordingly.\n[10/2021]\n(2) The public parcel locker network operator may, at the request of the owner or occupier of the specified premises or land under subsection (1), alter, remove, relocate or divert the public parcel locker or related installation (as the case may be) if —\n(a)the public parcel locker network operator is satisfied that the alteration, removal, relocation or diversion is reasonable; and\n(b)the owner or occupier complies with any reasonable terms and conditions that the public parcel locker network operator may impose.\n[10/2021]\n(3) The terms and conditions mentioned in subsection (2)(b) may include terms and conditions relating to the payment by the owner or occupier of the specified premises or land of all costs and expenses necessary for the alteration, removal, relocation or diversion.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A23.013",
+   "no": 23.013,
+   "noLabel": {
+    "en": "23M."
+   },
+   "chapter": {
+    "en": "PART 3A PUBLIC PARCEL LOCKERS"
+   },
+   "heading": {
+    "en": "Provision of space or facility under code of practice"
+   },
+   "text": {
+    "en": "23M.—(1) Without affecting section 24, the Postal Authority may, for the purposes of this Part —\n(a)issue one or more codes of practice for or in connection with —\n(i)the installation, operation and maintenance of the public parcel locker network, including the charges and terms and conditions relating to the use and provision of public parcel lockers;\n(ii)the provision, maintenance and use of, and access to, space and facilities in or on any specified premises or relevant land for the operation of any public parcel locker or related installation; and\n(iii)the allocation of costs and expenses incurred for the provision, maintenance and use of, and access to, the space and facilities mentioned in sub‑paragraph (ii); and\n(b)amend, suspend or revoke the whole or any part of any code of practice issued under paragraph (a).\n[10/2021]\n(2) A code of practice issued under subsection (1) may, in particular —\n(a)require the developer, owner or occupier of any specified premises or relevant land to provide, maintain or give access to, at the expense of the developer, owner or occupier (as the case may be), any space or facility in or on the specified premises or relevant land for the installation, operation or maintenance of any public parcel locker or related installation; and\n(b)provide for any fees and charges that may be payable to the Postal Authority in relation to any application or request made to the Postal Authority under the code of practice.\n[10/2021]\n(3) If any provision in any code of practice issued under subsection (1) is inconsistent with any provision of this Act, that provision in that code of practice, to the extent of the inconsistency —\n(a)is to have effect subject to the provisions of this Act; or\n(b)having regard to this Act, is not to have effect.\n[10/2021]\n(4) Where any code of practice is issued, amended or revoked under subsection (1), the Postal Authority must —\n(a)publish a notice of the issue, amendment or revocation (as the case may be) of the code of practice in such manner as will secure adequate publicity for the issue, amendment or revocation;\n(b)specify in the notice in paragraph (a) the date of issue, amendment or revocation, as the case may be; and\n(c)ensure that, so long as the code of practice remains in force, copies of that code of practice, and all amendments to that code of practice, are made available, free of charge, to the persons to whom the code of practice applies.\n[10/2021]\n(5) No code of practice, no amendment to a code of practice and no revocation of any code of practice has any force or effect as a code of practice until the notice relating to that code of practice is published in accordance with subsection (4).\n[10/2021]\n(6) A code of practice issued under subsection (1) does not have legislative effect.\n[10/2021]\n(7) Subject to subsection (8), the public parcel locker network operator and every developer, owner or occupier of any specified premises or relevant land to whom any code of practice applies must comply, at that person’s expense, with that code of practice.\n[10/2021]\n(8) The Postal Authority may, either generally or for any period that the Postal Authority may specify, waive the application, to the public parcel locker network operator or any developer, owner or occupier of any specified premises or relevant land, of any code of practice issued under subsection (1) or any part of that code of practice.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A23.014",
+   "no": 23.014,
+   "noLabel": {
+    "en": "23N."
+   },
+   "chapter": {
+    "en": "PART 3A PUBLIC PARCEL LOCKERS"
+   },
+   "heading": {
+    "en": "Compliance with code of practice"
+   },
+   "text": {
+    "en": "23N.—(1) The Postal Authority may —\n(a)give a written notice to the public parcel locker network operator, or the developer, owner or occupier of any specified premises or relevant land, requiring compliance with any code of practice issued under section 23M(1); or\n(b)vary, suspend or revoke the whole or any part of the written notice given under paragraph (a).\n[10/2021]\n(2) To avoid doubt, the Postal Authority may give a written notice under subsection (1)(a) even though the written notice may affect the contractual obligations of the person to whom the written notice is given, whether the obligation relates to a contract made before, on or after the specified day.\n[10/2021]\n(3) No liability shall lie against any party to a contract made before, on or after the specified day for or in relation to any breach of the contract, where the breach is solely attributable to, or occasioned by, the compliance by that party with a written notice under subsection (1)(a).\n[10/2021]\n(4) Nothing in subsection (3) affects the operation of the Frustrated Contracts Act 1959.\n[10/2021]\n(5) Where —\n(a)any code of practice issued under section 23M(1) applies to a person who is the developer, owner or occupier of any specified premises or relevant land; and\n(b)the Postal Authority is satisfied that the person is contravening or has contravened (whether by act or omission) any provision of that code of practice,\nthe Postal Authority may issue a written order to that person for the purpose of securing compliance with that provision.\n[10/2021]\n(6) The written order under subsection (5) —\n(a)must require the person concerned to do, or to refrain from doing, anything that is, or is of a description, specified in the written order; and\n(b)takes effect at the time (being the earliest practicable time) determined by or under the written order.\n[10/2021]\n(7) The Postal Authority may vary, suspend or revoke the whole or any part of a written order issued under subsection (5).\n[10/2021]\n(8) A person mentioned in subsection (5) who, without reasonable excuse, fails to comply with a written order issued under that subsection shall be guilty of an offence.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A23.015",
+   "no": 23.015,
+   "noLabel": {
+    "en": "23O."
+   },
+   "chapter": {
+    "en": "PART 3A PUBLIC PARCEL LOCKERS"
+   },
+   "heading": {
+    "en": "Provision of space or facility, etc., by direction of Postal Authority"
+   },
+   "text": {
+    "en": "23O.—(1) Without affecting sections 23M and 23N, the Postal Authority may give a written direction mentioned in subsection (2) if the Postal Authority considers it necessary that —\n(a)any public parcel locker should be installed in or on any specified premises, whether completed or not; or\n(b)any relevant installation should be installed in or on any specified premises or relevant land, whether completed or not.\n[10/2021]\n(2) The written direction that the Postal Authority may give is any of the following:\n(a)to require the developer or owner of the specified premises or relevant land (as the case may be) to provide, at the developer’s or owner’s expense and within the period specified in the written direction —\n(i)any space or facility in or on that specified premises or relevant land; and\n(ii)access to that specified premises or relevant land,\nas the Postal Authority may specify in the written direction;\n(b)to require the public parcel locker network operator to install, within the period specified in the written direction, any public parcel locker or related installation in the space or facility mentioned in paragraph (a)(i) as the Postal Authority considers necessary.\n[10/2021]\n(3) A written direction under subsection (2) may include —\n(a)a requirement that the public parcel locker network operator must contribute (wholly or partly) to any costs and expenses incurred for the provision and use of any space or facility mentioned in subsection (2)(a)(i) as the Postal Authority may determine;\n(b)terms and conditions relating to the payment of costs and expenses necessary for any alteration, removal, relocation or diversion of any public parcel locker or related installation that may subsequently be required;\n(c)a requirement that the public parcel locker network operator, or the developer or owner of the specified premises or relevant land, take any specified measure in relation to the security and reliability of the public parcel locker network; or\n(d)any other requirement as the Postal Authority may specify.\n[10/2021]\n(4) To avoid doubt, the Postal Authority may give a written direction under subsection (2) even though the written direction may affect the contractual obligations of any person to whom the written direction is given, whether the obligation relates to a contract made before, on or after the specified day.\n[10/2021]\n(5) No liability shall lie against any party to a contract made before, on or after the specified day for or in relation to any breach of the contract, where the breach is solely attributable to, or occasioned by, the compliance by that party with any written direction given under subsection (2).\n[10/2021]\n(6) Nothing in subsection (5) affects the operation of the Frustrated Contracts Act 1959.\n[10/2021]\n(7) The Postal Authority may vary, suspend or revoke the whole or any part of a written direction given under subsection (2).\n[10/2021]\n(8) A person who, without reasonable excuse, fails to comply with any requirement in a written direction given under subsection (2) shall be guilty of an offence.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A23.016",
+   "no": 23.016,
+   "noLabel": {
+    "en": "23P."
+   },
+   "chapter": {
+    "en": "PART 3A PUBLIC PARCEL LOCKERS"
+   },
+   "heading": {
+    "en": "Disputes as to compensation"
+   },
+   "text": {
+    "en": "23P. If any dispute as to compensation arises under section 23G(3), 23H(2), 23I(2) or 23K(2), any aggrieved person may, by written application, request for a determination by the Postal Authority.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A23.017",
+   "no": 23.017,
+   "noLabel": {
+    "en": "23Q."
+   },
+   "chapter": {
+    "en": "PART 3A PUBLIC PARCEL LOCKERS"
+   },
+   "heading": {
+    "en": "Public parcel locker network operator not liable to pay fee, etc., for right to enter or use land or premises"
+   },
+   "text": {
+    "en": "23Q.—(1) Despite any written law, the public parcel locker network operator is not, when exercising the powers conferred by section 23G, 23H, 23I or 23K, liable for or required to pay any person any fee or charge for the right to enter or use any land or premises.\n[10/2021]\n(2) Despite any written law, where the developer, owner or occupier of any specified premises or relevant land is required, under a code of practice issued under section 23M(1), to provide, maintain or give access to any space or facility in or on the specified premises or relevant land, the public parcel locker network operator is not liable for or required to pay the developer, owner or occupier (as the case may be) any fee or charge for the right to enter or use that space or facility.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A23.018",
+   "no": 23.018,
+   "noLabel": {
+    "en": "23R."
+   },
+   "chapter": {
+    "en": "PART 3A PUBLIC PARCEL LOCKERS"
+   },
+   "heading": {
+    "en": "Power of Postal Authority to deal with parcels, etc., in public parcel lockers"
+   },
+   "text": {
+    "en": "23R.—(1) Where the Postal Authority knows or has reason to suspect that any parcel or other article or thing is or may be the subject of, or is or may have been used in, the commission of an offence under this Act or any regulations made under this Act, the Postal Authority may, by written order, direct the public parcel locker network operator —\n(a)to open and search any public parcel locker; and\n(b)to detain and open any parcel or other article or thing that is placed or found in the public parcel locker.\n[10/2021]\n(2) Where a person is reasonably suspected of having committed an offence under this Act or any regulations made under this Act, the Postal Authority may, by written order, direct the public parcel locker network operator —\n(a)to do all of the following:\n(i)open and search any public parcel locker;\n(ii)detain and open any parcel or other article or thing placed or believed to have been placed in the public parcel locker by that person; or\n(b)to prevent that person from placing any parcel or other article or thing in any public parcel locker.\n[10/2021]\n(3) The public parcel locker network operator must, upon receiving a written order made under subsection (2), comply with the written order.\n[10/2021]\n(4) A parcel, an article or a thing that is detained and opened under subsection (1) or (2)(a) must be destroyed, returned to the sender or dealt with in any other manner as the Postal Authority may direct.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 CODES OF PRACTICE AND DIRECTIONS"
+   },
+   "heading": {
+    "en": "Codes of practice, etc."
+   },
+   "text": {
+    "en": "24.—(1) The Postal Authority may, from time to time —\n(a)issue one or more codes of practice or standards of performance;\n(b)approve as a code of practice or standard of performance any document prepared by a person other than the Postal Authority if the Postal Authority considers the document suitable for this purpose; or\n(c)amend or revoke any code of practice or standard of performance issued under paragraph (a) or approved under paragraph (b),\nwith respect to all or any of the following:\n(d)the operation of postal systems;\n(e)the provision of postal services;\n(f)the activities and conduct of postal licensees in the provision of postal services;\n(g)agreements or arrangements between a public postal licensee and any applicable person or class of applicable persons under which the public postal licensee delivers applicable postal articles to letter boxes;\n(h)competition, abuse of a dominant position in the market for postal systems or postal services and fair market conduct in the provision of postal services in Singapore;\n(i)the acquisitions or consolidations involving a postal licensee and any other person (whether a postal licensee or otherwise);\n(j)the carrying out of the purposes and provisions of this Act and for the due administration of this Act.\n[10/2021]\n(2) In subsection (1)(g), “applicable person” and “applicable postal article” have the meanings given by section 7A(2).\n[10/2021]\n(3) A code of practice may, in particular, specify the duties and obligations of any person in relation to the person’s business operation insofar as it relates to the provision of postal services.\n[34/2007]\n(4) If any provision in any code of practice or standard of performance is inconsistent with any provision of this Act, the provision, to the extent of the inconsistency —\n(a)has effect subject to the provisions of this Act; and\n(b)having regard to the provisions of this Act, does not have effect.\n[34/2007]\n(5) Where a code of practice or standard of performance is issued, approved, amended or revoked by the Postal Authority under subsection (1), the Postal Authority must —\n(a)publish a notice of the issue, approval, amendment or revocation (as the case may be) of the code of practice or standard of performance in any manner that will secure adequate publicity for the issue, approval, amendment or revocation;\n(b)specify in the notice mentioned in paragraph (a) the date of issue, approval, amendment or revocation (as the case may be) and the place at and the time during which the code of practice or standard of performance which is the subject of the notice may be inspected; and\n(c)ensure that, so long as the code of practice or standard of performance remains in force, copies of that code or standard, and all amendments to that code or standard, are made available, free of charge, to the persons to whom the code or standard applies.\n[34/2007; 10/2021]\n(6) No code of practice or standard of performance, no amendment to an approved code of practice or standard of performance, and no revocation of any such approved code of practice or standard of performance, has any force or effect as an approved code of practice or standard of performance until the notice relating thereto is published in accordance with subsection (4).\n[34/2007]\n(7) Any code of practice or standard of performance issued or approved under this section does not have legislative effect.\n[34/2007]\n(8) Subject to subsection (8), every postal licensee must comply with the relevant codes of practice and standards of performance issued or approved under this section.\n[34/2007]\n(9) The Postal Authority may, either generally or for such time as the Postal Authority may specify, waive the application of any code of practice or standard of performance, or part thereof, issued or approved under this section to any postal licensee.\n[34/2007]\n(10) In this section, “dominant position” means a dominant position in any market for postal systems or postal services, whether in Singapore or elsewhere.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 CODES OF PRACTICE AND DIRECTIONS"
+   },
+   "heading": {
+    "en": "Directions affecting postal licensee"
+   },
+   "text": {
+    "en": "25.—(1) The Postal Authority may give directions to be observed by postal licensees —\n(a)to ensure the reliability of the provision of any postal service to the public;\n(b)to ensure fair and efficient market conduct by postal licensees;\n(c)to ensure the technical compatibility and safety of operation of any postal equipment or postal system;\n(d)to ensure the coordination and cooperation, on such terms as the Postal Authority may specify, with any other person in the use or sharing of any installation, plant or system, or part thereof, owned or used by the postal licensee for the provision of any postal service; or\n(e)in the public interest.\n[34/2007]\n(2) The Postal Authority may also give directions to be observed by a public postal licensee in relation to the implementation and performance of any agreement or arrangement mentioned in section 7A(1) under which the public postal licensee delivers applicable postal articles to letter boxes.\n[10/2021]\n(3) A direction under subsection (1) or (2) —\n(a)must require the postal licensee concerned (according to the circumstances of the case) to do, or not to do, any things that are specified in the direction or are of a description as specified therein;\n(b)takes effect at such time, being the earliest practicable time, as is determined by or under that direction; and\n(c)may be revoked at any time by the Postal Authority.\n[10/2021]\n(4) Before giving a direction to any postal licensee under subsection (1) or (2), the Postal Authority must, unless the Postal Authority in respect of any particular direction considers that it is not practicable or desirable, give notice —\n(a)stating that the Postal Authority proposes to make the direction and setting out its effect; and\n(b)specifying the time within which representations or objections to the proposed direction may be made,\nand must consider any representations or objections which are duly made.\n[10/2021]\n(5) Every postal licensee must comply with every direction of the Postal Authority given to the licensee under this section."
+   }
+  },
+  {
+   "id": "SG-H3574-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 CODES OF PRACTICE AND DIRECTIONS"
+   },
+   "heading": {
+    "en": "Advisory guidelines"
+   },
+   "text": {
+    "en": "26.—(1) The Postal Authority may make advisory guidelines about any aspect of postal services and postal systems.\n(2) Advisory guidelines, for example, may be made about —\n(a)any matter in respect of which codes of practice and standards of performance may be made under section 24; or\n(b)the use, construction, design or performance of anything relating to postal systems or postal services.\n[34/2007]\n(3) The Postal Authority must —\n(a)give a copy of each advisory guideline to the Minister; and\n(b)publish each advisory guideline in the way the Postal Authority thinks fit."
+   }
+  },
+  {
+   "id": "SG-H3574-A26.001",
+   "no": 26.001,
+   "noLabel": {
+    "en": "26A."
+   },
+   "chapter": {
+    "en": "PART 4A CONTROL OVER DESIGNATED POSTAL LICENSEES"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "26A.—(1) In this Part, unless the context otherwise requires —\n“12% controller”, in relation to a designated postal licensee, means a person, not being a 30% controller, who alone or together with the person’s associates —\n(a)holds 12% or more of the total number of voting shares in the designated postal licensee; or\n(b)is in a position to control 12% or more of the voting power in the designated postal licensee;\n“30% controller”, in relation to a designated postal licensee, means a person who alone or together with the person’s associates —\n(a)holds 30% or more of the total number of voting shares in the designated postal licensee; or\n(b)is in a position to control 30% or more of the voting power in the designated postal licensee;\n“associate” has the meaning given to that expression in regulations made under section 26H;\n“consolidation” means any transaction —\n(a)that results in a person —\n(i)becoming a 30% controller of a designated postal licensee;\n(ii)acquiring the business of a designated postal licensee (or any part thereof) as a going concern; or\n(iii)obtaining effective control over a designated postal licensee; or\n(b)that is prescribed by regulations made under section 26H, or that falls within a class of transactions prescribed in such regulations;\n“designated postal licensee” means a postal licensee —\n(a)which has been declared by the Postal Authority, by notification in the Gazette, to be a designated postal licensee for the purposes of this Part; or\n(b)which is within a class of postal licensees which has been declared by the Postal Authority, by notification in the Gazette, to be a designated class of postal licensees for the purposes of this Part;\n“effective control” has the meaning given to it in the code of practice mentioned in section 26C;\n“share” includes stock except where a distinction between stock and shares is expressed or implied;\n“treasury share” has the meaning given by section 4(1) of the Companies Act 1967;\n“voting share” has the meaning given by section 4(1) of the Companies Act 1967, but does not include a treasury share.\n[34/2007]\n(2) In relation to a designated postal licensee the whole or a portion of the share capital of which consists of stock, an interest of a person in any such stock is deemed to be an interest in an issued share in the designated postal licensee having the same nominal amount as the amount of that stock and having attached to it the same rights as are attached to that stock.\n[34/2007]\n(3) The Postal Authority may, by notification in the Gazette, vary or revoke any declaration of a designated postal licensee.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A26.002",
+   "no": 26.002,
+   "noLabel": {
+    "en": "26B."
+   },
+   "chapter": {
+    "en": "PART 4A CONTROL OVER DESIGNATED POSTAL LICENSEES"
+   },
+   "heading": {
+    "en": "Control of acquisition of designated postal licensee"
+   },
+   "text": {
+    "en": "26B.—(1) A designated postal licensee must give written notice, in the prescribed manner and within the prescribed period, to the Postal Authority on the occasion when a person, whether by a series of transactions over a period of time or otherwise —\n(a)first acquires 5% or more but less than 12% of the voting shares in the designated postal licensee; or\n(b)first controls 5% or more but less than 12% of the voting power in the designated postal licensee.\n[34/2007]\n(2) Subject to subsection (4), a person must not, whether through a series of transactions over a period of time or otherwise, become a 12% controller or a 30% controller of a designated postal licensee without obtaining the prior written approval of the Postal Authority in the prescribed manner and within the prescribed period.\n[34/2007]\n(3) A person must not enter into any other transaction that constitutes a consolidation with a designated postal licensee without obtaining the prior written approval of the Postal Authority in the prescribed manner and within the prescribed period.\n[34/2007]\n(4) To the extent that the holding of any shares or control of any voting power in a designated postal licensee under subsection (2) constitutes a consolidation with that designated postal licensee, the person and the designated postal licensee must, in addition to the approval required under that subsection, obtain the prior written approval of the Postal Authority in the prescribed manner and within the prescribed period.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A26.003",
+   "no": 26.003,
+   "noLabel": {
+    "en": "26C."
+   },
+   "chapter": {
+    "en": "PART 4A CONTROL OVER DESIGNATED POSTAL LICENSEES"
+   },
+   "heading": {
+    "en": "Power to issue code of practice relating to control of designated postal licensee"
+   },
+   "text": {
+    "en": "26C.—(1) Without limiting section 24, the Postal Authority may issue a code of practice under that section which specifies such matters as are generally necessary for carrying out the purposes and provisions of this Part and for the due administration thereof.\n[34/2007]\n(2) Without limiting subsection (1), the Postal Authority may specify in the code of practice —\n(a)the circumstances under which a person would be considered to have entered into a consolidation with a designated postal licensee;\n(b)the categories of persons that must obtain the prior written approval of the Postal Authority for —\n(i)any consolidation with a designated postal licensee; or\n(ii)an acquisition of the business of a designated postal licensee or part thereof;\n(c)the duties and obligations of a designated postal licensee and a person acquiring the business or part thereof as a going concern, holding any voting shares or controlling the voting power of a designated postal licensee;\n(d)the rules and procedures that a designated postal licensee and a person acquiring the business or part thereof as a going concern, holding any voting shares or controlling the voting power of a designated postal licensee must comply with; and\n(e)the terms and conditions which the Postal Authority may impose in granting any written approval under section 26B.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A26.004",
+   "no": 26.004,
+   "noLabel": {
+    "en": "26D."
+   },
+   "chapter": {
+    "en": "PART 4A CONTROL OVER DESIGNATED POSTAL LICENSEES"
+   },
+   "heading": {
+    "en": "Power to issue directions"
+   },
+   "text": {
+    "en": "26D.—(1) Without limiting section 25, if the Postal Authority is satisfied that a person —\n(a)holds any voting shares or controls the voting power of a designated postal licensee; or\n(b)has entered into a consolidation with a designated postal licensee,\n(called in this section the specified person), in contravention of section 26B(2), (3) or (4), or that the holding, control, acquisition or consolidation is likely to substantially lessen competition or is against the public interest, the Postal Authority may issue a direction under subsection (3) or (4), as the case may be.\n[34/2007]\n(2) The Postal Authority may issue a direction under subsection (3) or (4) if the Postal Authority is satisfied that —\n(a)any condition of written approval imposed on the person under section 26B has not been complied with;\n(b)the person has provided false or misleading information or documents in connection with an application under section 26B to obtain the written approval of the Postal Authority; or\n(c)the Postal Authority would not have granted its written approval under section 26B had it been aware, at that time, of circumstances relevant to the person’s application for that approval,\nand the existing holding, control, acquisition or consolidation in the designated postal licensee by the person is likely to substantially lessen competition or is against the public interest.\n[34/2007]\n(3) The Postal Authority may, under the circumstances specified in subsection (1)(a) or (b) or (2), direct —\n(a)the designated postal licensee to do all or any of the following:\n(i)to restrict the specified person’s voting power in respect of the shares the specified person holds or controls in the designated postal licensee (called in this section the specified shares), unless the Postal Authority expressly permits such rights to be exercised;\n(ii)to restrict the issuance or offer of shares in the designated postal licensee (whether by way of rights, bonus or otherwise) in respect of the specified shares, unless the Postal Authority expressly permits the issue or offer;\n(iii)except in a winding up of the designated postal licensee, to restrict the payment of any amount (whether by way of dividends or otherwise) in respect of the specified shares, unless the Postal Authority expressly authorises such payments subject to such conditions as the Authority may specify; and\n(b)any specified person or an associate of the specified person to transfer or dispose of all or any part of the specified shares within the time and subject to the conditions that the Postal Authority considers appropriate.\n[34/2007]\n(4) The Postal Authority may, under the circumstances specified in subsection (1) or (2), direct any specified person to transfer or dispose of all or any part of the business acquired from the designated postal licensee within the time and subject to the conditions that the Postal Authority considers appropriate.\n[34/2007]\n(5) Before issuing a direction to any person under subsection (3) or (4), the Postal Authority must, unless the Postal Authority decides that it is not practicable or desirable to do so, cause to be given to that person written notice of the Postal Authority’s intention to serve the direction, specifying a date by which that person may make written representations with regard to the proposed direction.\n[34/2007]\n(6) Upon receipt of any written representation mentioned in subsection (5), the Postal Authority must consider it for the purpose of determining whether to issue the direction.\n[34/2007]\n(7) Any person to whom a direction is given under subsection (3) or (4) must comply with the direction and the direction takes effect despite the provisions of any other written law or anything contained in the memorandum or articles of association, or other constitution, of the designated postal licensee.\n[34/2007]\n(8) The Postal Authority may vary or revoke any direction issued under this section.\n[34/2007]\n(9) Where a person is alleged to have contravened section 26B(2), (3) or (4), it is a defence for the person to prove that —\n(a)the person was not aware that the person had contravened the provision in question; and\n(b)the person has, within 14 days of becoming aware that the person had contravened that provision, notified the Postal Authority of the contravention and, within the time determined by the Postal Authority, taken the actions in relation to the person’s shareholding or control of the voting power in the designated postal licensee that the Postal Authority may direct,\nbut it is not a defence for the person to prove that the person did not intend to or did not knowingly contravene section 26B(2), (3) or (4) (as the case may be) except as provided in this subsection.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A26.005",
+   "no": 26.005,
+   "noLabel": {
+    "en": "26E."
+   },
+   "chapter": {
+    "en": "PART 4A CONTROL OVER DESIGNATED POSTAL LICENSEES"
+   },
+   "heading": {
+    "en": "Power to obtain information"
+   },
+   "text": {
+    "en": "26E.—(1) Without affecting any other provision of this Act, the Postal Authority may, by written notice, direct any designated postal licensee to obtain from any of its shareholders and to transmit to the Postal Authority information —\n(a)as to whether that shareholder holds any share in the designated postal licensee as a beneficial owner or trustee; and\n(b)if the shareholder holds the share as a trustee, to indicate so far as he or she can, the person for whom he or she holds the share (either by name or by other particulars sufficient to enable that person to be identified) and the nature of his or her interest,\nand the designated postal licensee must comply with that direction within the time specified in the notice.\n[34/2007]\n(2) The Postal Authority may, by written notice, require any shareholder of a designated postal licensee to inform the Postal Authority whether he or she holds that interest as a beneficial owner or trustee, and if he or she holds the interest as a trustee, to indicate so far as he or she can, the person for whom he or she holds the interest (either by name or by other particulars sufficient to enable that person to be identified) and the nature of his or her interest.\n[34/2007]\n(3) Any person who —\n(a)fails to comply with a notice under this section; or\n(b)in purported compliance of the notice, knowingly or recklessly, makes a statement which is false in a material particular,\nshall be guilty of an offence and shall be liable on conviction —\n(c)in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part of a day during which the offence continues after conviction; or\n(d)in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A26.006",
+   "no": 26.006,
+   "noLabel": {
+    "en": "26F."
+   },
+   "chapter": {
+    "en": "PART 4A CONTROL OVER DESIGNATED POSTAL LICENSEES"
+   },
+   "heading": {
+    "en": "Appointment of chief executive officer, director, etc., of designated postal licensee"
+   },
+   "text": {
+    "en": "26F.—(1) A designated postal licensee must not appoint a person as its chief executive officer, its director or the chairperson of its board of directors unless it has obtained the prior written approval of the Postal Authority.\n[34/2007]\n(2) Where a person has been appointed by a designated postal licensee as its chief executive officer, its director, or the chairperson of its board of directors without the prior written approval of the Postal Authority in contravention of subsection (1), the Postal Authority may issue a direction to the licensee to remove that person as its chief executive officer, its director or the chairperson of its board of directors, as the case may be.\n[34/2007]\n(3) This section has effect despite the provisions of any other written law or anything contained in the memorandum or articles of association, or other constitution, of the designated postal licensee.\n[34/2007]\n(4) In this section —\n“chief executive officer”, in relation to a designated postal licensee, means any person, by whatever name described, who —\n(a)is in the direct employment of, or acting for or by arrangement with, the designated postal licensee; and\n(b)is principally responsible for the management and conduct of any type of business of the designated postal licensee in Singapore,\nand includes any person for the time being performing all or any of the functions or duties of a chief executive officer;\n“director” has the meaning given by section 4(1) of the Companies Act 1967.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A26.007",
+   "no": 26.007,
+   "noLabel": {
+    "en": "26G."
+   },
+   "chapter": {
+    "en": "PART 4A CONTROL OVER DESIGNATED POSTAL LICENSEES"
+   },
+   "heading": {
+    "en": "Power of Minister to issue written order relating to acquisition of assets, etc., of postal licensees"
+   },
+   "text": {
+    "en": "26G.—(1) Subject to subsection (4), where a person acquires the assets or business of, or shares in, a postal licensee (called in this section the relevant person), and the Minister is satisfied that —\n(a)the relevant person is not a fit and proper person; and\n(b)it is not in the national interest to allow the relevant person to continue to own the assets or business of, or to hold the shares in, that postal licensee,\nthe Minister may issue a written order to the relevant person, the postal licensee or both, directing the relevant person or that postal licensee or both to do all or anything specified in subsection (2).\n[34/2007]\n(2) A written order under subsection (1) may direct a relevant person, a postal licensee or both to do all or any of the following:\n(a)to transfer or dispose of all the assets, business or shares acquired by the relevant person in the postal licensee concerned, within the time and subject to the conditions that the Minister considers appropriate;\n(b)to transfer or dispose of any part of the assets, business or shares acquired by the relevant person in the postal licensee concerned only in the circumstances that the Minister considers appropriate.\n[34/2007]\n(3) If a written order containing any direction specified in subsection (2)(a) or (b) concerning any shares in a postal licensee is issued, then despite the provisions of any other written law or anything contained in the memorandum or articles of association, or other constitution, of the postal licensee, the following applies for so long as those shares are not transferred or disposed of in accordance with the direction:\n(a)no voting rights are exercisable in respect of those shares without the prior and express permission of the Minister;\n(b)no shares in the postal licensee may be issued or offered (whether by way of rights, bonus or otherwise) without the prior and express permission of the Postal Authority; and\n(c)no payment may be made by the postal licensee of any amount (whether by way of dividends or otherwise) in respect of those shares unless the postal licensee has the prior and express permission of the Minister to do so or the payment is upon the winding up of the postal licensee.\n[34/2007]\n(4) Before issuing any written order under subsection (1), the Minister must, unless he or she decides that it is not practicable or desirable to do so —\n(a)give notice to the relevant person or postal licensee (as the case may be) of the proposed written order; and\n(b)consider any written representation made in accordance with the notice in paragraph (a) and not withdrawn.\n[34/2007]\n(5) The notice in subsection (4)(a) must state —\n(a)that the Minister intends to issue the written order; and\n(b)the period within which written representations may be made in relation to the proposed written order.\n[34/2007]\n(6) Any person to whom a written order is issued under subsection (1) must comply with the written order, and the written order takes effect despite the provisions of any other written law or anything contained in the memorandum or articles of association, or other constitution, of the postal licensee.\n[34/2007]\n(7) Any person who contravenes subsection (6) shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part of a day during which the offence continues after conviction; or\n(b)in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A26.008",
+   "no": 26.008,
+   "noLabel": {
+    "en": "26H."
+   },
+   "chapter": {
+    "en": "PART 4A CONTROL OVER DESIGNATED POSTAL LICENSEES"
+   },
+   "heading": {
+    "en": "Regulations for carrying out this Part"
+   },
+   "text": {
+    "en": "26H.—(1) The Postal Authority may, with the approval of the Minister, make such regulations as are necessary or expedient for carrying out the purposes of this Part.\n[34/2007]\n(2) Without limiting subsection (1), the regulations may prescribe —\n(a)the circumstances under which a person would be considered to be an associate for the purposes of this Part; and\n(b)the circumstances under which a person would be or considered to be in a position to control a percentage of the voting power in a designated postal licensee.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Obstruction of public postal licensees"
+   },
+   "text": {
+    "en": "27.—(1) Any person who —\n(a)while in any premises used for the purposes of the business of a public postal licensee, intentionally obstructs the course of business of the licensee; or\n(b)assaults or intentionally obstructs or incites anyone to obstruct or impede an officer or employee of a public postal licensee in the performance of his or her duties,\nshall be guilty of an offence.\n(2) A public postal licensee may require any person guilty of an offence under subsection (1) to leave the premises used for the purposes of its business and, if any such offender who is so required refuses or fails to comply with the requirement, the offender may be removed by an officer or employee of the licensee."
+   }
+  },
+  {
+   "id": "SG-H3574-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Intentional damage to installation or plant used for posts"
+   },
+   "text": {
+    "en": "28. Any person who intending —\n(a)to prevent or obstruct the transmission or delivery of any postal article;\n(b)to intercept or to acquaint himself or herself with the contents of any postal article; or\n(c)to commit mischief,\ndamages, removes, tampers with or touches any installation or plant or any part thereof used for posts belonging to a public postal licensee shall be guilty of an offence.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Protection of installation or plant used for posts"
+   },
+   "text": {
+    "en": "29.—(1) A person must not, without the written approval of the Postal Authority —\n(a)lay or carry any mains, pipes, conduits, circuits or wires in, along, through, across, over or under any street or place in a manner which is likely to interfere with or cause damage to any installation or plant used for posts; or\n(b)affix any placard, advertisement, notice or other thing in or on, or paint, tar or in any way disfigure any installation or plant used for posts.\n(2) Any approval under subsection (1) may be refused by the Postal Authority or granted by the Postal Authority on any terms and conditions that it may determine.\n(3) Where the commission by any person of an offence under subsection (1) is due to the act or default of some other person, that other person shall be guilty of the offence.\n(4) A person may be charged with and convicted of the offence by virtue of subsection (3) whether or not proceedings are taken against the firstmentioned person.\n(5) In any proceedings for an offence under subsection (1), it is, subject to subsection (6), a defence for the person charged to prove that the person took all reasonable steps and exercised all due diligence to avoid committing the offence.\n(6) Where the defence provided by subsection (5) involves an allegation that the commission of the offence was due to the act or default of another person, the person charged is not, without permission of the court, entitled to rely on that defence unless, within a period ending 7 clear days before the hearing, the person charged has served on the prosecutor a written notice giving any information identifying or assisting in the identification of that other person that was then in his or her possession.\n[Act 25 of 2021 wef 01/04/2022]\n(7) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall, in addition to the forfeiture of any equipment seized, be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H3574-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Prohibition of false notice relating to public postal licensees’ installation or plant"
+   },
+   "text": {
+    "en": "30. A person who, without the permission of a public postal licensee, places or maintains in or on any house or place, belonging to the person or under the person’s control, any word, letter or mark which signifies or implies or may reasonably lead the public to believe that the house or place is part of a public postal licensee’s installation or plant, shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3574-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Damage to public postal licensees’ installation or plant"
+   },
+   "text": {
+    "en": "31. A person who wilfully removes, destroys or damages any installation or plant which belongs to a public postal licensee and is used for posts shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both."
+   }
+  },
+  {
+   "id": "SG-H3574-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Compensation for damage caused to public postal licensees’ installation or plant"
+   },
+   "text": {
+    "en": "32.—(1) A person who removes, destroys or damages, whether wilfully, negligently, accidentally or otherwise, the installation or plant which belongs to a public postal licensee and is used for posts shall, in addition to any penalty for which the person is liable for an offence under this Act, be liable to pay compensation for the damage the person has done.\n(2) The compensation is recoverable by civil action or suit before any court of competent jurisdiction.\n(3) Subject to subsection (1), any court before which a person is charged with an offence under this Act may assess the compensation payable under this section and may make an order for the payment of the same.\n(4) Any order under subsection (3) may be enforced as if it were a judgment in a civil action or suit."
+   }
+  },
+  {
+   "id": "SG-H3574-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Unlawful operation of postal services"
+   },
+   "text": {
+    "en": "33. Subject to section 5, any person who —\n(a)conveys any letter or performs any service incidental to such conveyance without a licence granted under section 6;\n(b)collects, sends, tenders or delivers in order to be sent a letter without a licence granted under section 6; or\n(c)makes a collection of letters for transmission or distribution to or from any place through a postal licensee without a licence granted under section 6,\nshall be guilty of an offence.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Offences by officer, employee or agent of postal licensees"
+   },
+   "text": {
+    "en": "34.—(1) Any officer, employee or agent of a postal licensee who —\n(a)destroys or throws away any postal article or anything contained therein;\n(b)commits theft in respect of or dishonestly misappropriates or secretes any postal article or anything contained therein; or\n(c)except in obedience to an order under the hand of the Minister or the direction of a court or the requirement by the Public Prosecutor under section 20 of the Criminal Procedure Code 2010, wilfully opens or causes to be opened contrary to his or her duty any mail bag or postal article, or wilfully detains or delays or causes to be detained or delayed the mail bag or postal article,\nshall be guilty of an offence.\n[34/2007; 15/2010; 10/2021]\n(2) Any officer, employee or agent of a postal licensee who —\n(a)fraudulently puts any wrong official mark on a postal article;\n(b)fraudulently alters, removes or causes to disappear any official mark on a postal article; or\n(c)being entrusted with the delivery of any postal article, knowingly demands or receives any sum of money which is not chargeable under this Act,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.\n[34/2007]\n(3) Subsection (1) applies only to postal articles which an officer, employee or agent of a postal licensee has access to in the course of his or her employment as an officer, employee or agent of the postal licensee.\n[34/2007]\n(4) An officer, employee or agent of a public postal licensee mentioned in section 11(1) who with fraudulent intent issues or causes to be issued a document specified for use in connection with the remittance of money through that public postal licensee shall be guilty of an offence.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Fraudulent sending of postal article"
+   },
+   "text": {
+    "en": "35. A person who sends any postal article bearing any facsimile, imitation or representation of postage stamps or purporting to be prepaid with any postage stamp which has previously been used to prepay any other postal article or which has otherwise been previously used shall be guilty of an offence.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Fraudulent retention of postal article"
+   },
+   "text": {
+    "en": "36.—(1) A person who —\n(a)except in accordance with this Act or unless authorised by the Postal Authority, wilfully retains or secretes or makes away with or keeps or detains or, when required by an employee of a public postal licensee, neglects or refuses to deliver up in the course of transmission by post any postal article or any mail bag containing any postal article; or\n(b)except in accordance with this Act or unless authorised by the Postal Authority, wilfully opens or causes to be opened any letter which ought to have been delivered, or does any act whereby the due delivery of a letter to any person is prevented or impeded,\nshall be guilty of an offence.\n[34/2007]\n(2) Nothing in subsection (1)(b) applies to a person who does any act to which that subsection applies where he or she is a parent, or in the position of a parent or guardian, of the person to whom the letter is addressed and the addressee is a minor or his or her ward."
+   }
+  },
+  {
+   "id": "SG-H3574-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Penalty for sending anything indecent, etc., by post"
+   },
+   "text": {
+    "en": "37. Any person who sends by post —\n(a)any indecent or obscene article or any postal article having any words, marks or designs of an indecent, obscene, scurrilous, threatening or grossly offensive character;\n[Act 30 of 2021 wef 02/11/2022]\n(b)anything which is likely to damage any postal article in the course of transmission by post or any postal equipment or injure any employee or agent of a postal licensee; or\n(c)except as otherwise provided by any regulations made under this Act, any explosive, inflammable, dangerous, filthy, noxious or deleterious substance, any sharp instrument not properly protected or any living creature which is noxious or likely to damage any postal article in the course of transmission by post or any postal equipment or to injure any employee or agent of a postal licensee,\nshall be guilty of an offence.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Penalty for making any facsimile, imitation or representation of any postage stamp, etc."
+   },
+   "text": {
+    "en": "38.—(1) A person must not —\n(a)make, deal in, distribute or sell;\n(b)knowingly use for postal purposes or for the purpose of remitting or paying any money;\n(c)have in the person’s possession without any lawful excuse; or\n(d)make or, without any lawful excuse, have in the person’s possession, any die, plate, instrument or material for making,\nany facsimile, imitation or representation of any postage stamp or any document used by a public postal licensee in connection with the remittance or payment of money.\n(2) A person must not make, issue or send by post any stamped, franked or embossed envelope, wrapper, card, form or paper in imitation of one issued by a postal licensee.\n[34/2007]\n(3) A person who contravenes or fails to comply with subsection (1) or (2) shall be guilty of an offence.\n[34/2007]\n(4) Any stamp, die, plate, instrument or material found in the possession of any person who has contravened or failed to comply with subsection (1) or (2) may be seized by any employee of the Postal Authority and forfeited by a Magistrate’s Court, and must be dealt with as the Court directs.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Penalty for erasure of mark denoting used postage stamp"
+   },
+   "text": {
+    "en": "39. A person who, with fraudulent intent, erases or removes from a postage stamp any mark put or impressed upon the postage stamp denoting that the same has been used, or sells or uses any such postage stamp for postal purposes shall be guilty of an offence.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A39.001",
+   "no": 39.001,
+   "noLabel": {
+    "en": "39A."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Obstruction of public parcel locker network operator"
+   },
+   "text": {
+    "en": "39A. A person who assaults or intentionally obstructs, or incites any other person to obstruct or impede, an officer or employee or a contractor of the public parcel locker network operator in the performance of the duties of that officer, employee or contractor (as the case may be) shall be guilty of an offence.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A39.002",
+   "no": 39.002,
+   "noLabel": {
+    "en": "39B."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Intentional damage to public parcel lockers and related installations"
+   },
+   "text": {
+    "en": "39B. A person —\n(a)who —\n(i)damages or tampers with any public parcel locker, related installation or related software; or\n(ii)removes or touches any public parcel locker or related installation; and\n(b)does so intending —\n(i)to prevent or obstruct the delivery or collection of any parcel;\n(ii)to intercept, or to acquaint the person with the contents of, any parcel; or\n(iii)to commit mischief,\nshall be guilty of an offence.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A39.003",
+   "no": 39.003,
+   "noLabel": {
+    "en": "39C."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Protection of public parcel lockers and related installations"
+   },
+   "text": {
+    "en": "39C.—(1) A person must not, without the written approval of the Postal Authority —\n(a)do anything to interfere with or cause damage to any public parcel locker or related installation; or\n(b)affix any placard, advertisement, notice or other thing in or on, or paint, cover or in any way disfigure, any public parcel locker or related installation.\n[10/2021]\n(2) The Postal Authority may —\n(a)grant an approval under subsection (1) on any terms and conditions as the Postal Authority may determine; or\n(b)refuse to grant an approval under subsection (1).\n[10/2021]\n(3) A person who contravenes subsection (1) shall be guilty of an offence and shall, in addition to the forfeiture of any equipment seized, be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n[10/2021]\n(4) Where the commission by any person (A) of an offence under subsection (1) is due to the act or default of some other person (B), B shall be guilty of the offence.\n[10/2021]\n(5) B may be charged with and convicted of the offence by virtue of subsection (4) whether or not proceedings are taken against A.\n[10/2021]\n(6) In any proceedings for an offence under subsection (1), it is a defence, subject to subsection (7), for the person charged to prove that the person took all reasonable steps and exercised all due diligence to avoid committing the offence.\n[10/2021]\n(7) Where the defence provided by subsection (6) involves an allegation that the commission of the offence was due to the act or default of another person (X), the person charged (Y) is not, without permission of the court, entitled to rely on that defence unless, within a period ending 7 clear days before the hearing, Y has served on the prosecutor a written notice giving any information identifying or assisting in the identification of X as was then in Y’s possession.\n[10/2021]\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3574-A39.004",
+   "no": 39.004,
+   "noLabel": {
+    "en": "39D."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Prohibition of false notice relating to public parcel lockers"
+   },
+   "text": {
+    "en": "39D. A person who, without the permission of the public parcel locker network operator, places or maintains in any premises or place belonging to or under the control of that person any word, letter or mark which signifies or implies or may reasonably lead the public to believe that —\n(a)a public parcel locker or related installation is installed or located in or on those premises or at that place; or\n(b)any thing installed or located in or on those premises or at that place is part of the public parcel locker network,\nshall be guilty of an offence.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A39.005",
+   "no": 39.005,
+   "noLabel": {
+    "en": "39E."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Offence to remove, destroy or damage public parcel locker or related installation"
+   },
+   "text": {
+    "en": "39E. A person who —\n(a)wilfully removes, destroys or damages any public parcel locker or related installation; or\n(b)wilfully destroys or damages any related software,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A39.006",
+   "no": 39.006,
+   "noLabel": {
+    "en": "39F."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Compensation for removal, destruction or damage of public parcel locker or related installation"
+   },
+   "text": {
+    "en": "39F.—(1) A person who removes, destroys or damages (whether wilfully, negligently, accidentally or otherwise) any public parcel locker, related installation or related software is, in addition to any penalty for which the person is liable for an offence under this Act, liable to pay compensation for the damage the person has done.\n[10/2021]\n(2) The compensation mentioned in subsection (1) is recoverable by civil action or suit before any court of competent jurisdiction.\n[10/2021]\n(3) Any court before which a person is charged with an offence under this Act may assess the compensation payable under this section and may make an order for the payment of that compensation.\n[10/2021]\n(4) An order under subsection (3) may be enforced as if it were a judgment in a civil action or suit.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A39.007",
+   "no": 39.007,
+   "noLabel": {
+    "en": "39G."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Unlawful operation of parcel lockers in or on specified premises"
+   },
+   "text": {
+    "en": "39G.—(1) A person (other than the public parcel locker network operator) that provides or operates, or offers to provide or operate, a parcel locker in or on any specified premises shall be guilty of an offence.\n[10/2021]\n(2) In this section, “specified premises” has the meaning given by section 23A.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A39.008",
+   "no": 39.008,
+   "noLabel": {
+    "en": "39H."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Offences in relation to parcels placed in public parcel lockers, etc."
+   },
+   "text": {
+    "en": "39H.—(1) Subject to subsection (3), a specified person who —\n(a)destroys or throws away any parcel placed in a public parcel locker or any thing contained in that parcel;\n(b)commits theft in respect of, or dishonestly misappropriates or secretes, any parcel placed in a public parcel locker or any thing contained in that parcel; or\n(c)except in obedience to an order of the Minister or the direction of a court or the requirement by the Public Prosecutor under section 20 of the Criminal Procedure Code 2010, wilfully opens or causes to be opened contrary to the specified person’s duty any public parcel locker or any parcel placed in a public parcel locker,\nshall be guilty of an offence.\n[10/2021]\n(2) A specified person who intentionally alters, defaces, obliterates or removes any identifying mark on a parcel placed in a public parcel locker shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.\n[10/2021]\n(3) Subsection (1) applies only to parcels which the specified person has access to in the course of the person’s employment as a specified person.\n[10/2021]\n(4) In this section —\n“identifying mark”, in relation to a parcel, means any mark on the parcel identifying the intended recipient of the parcel;\n“specified person” means any of the following persons:\n(a)an officer, employee or agent or a contractor of the public parcel locker network operator;\n(b)a delivery service provider or an officer, employee or agent or a contractor of a delivery service provider.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A39.009",
+   "no": 39.009,
+   "noLabel": {
+    "en": "39I."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Offence to retain or open parcel placed in public parcel locker"
+   },
+   "text": {
+    "en": "39I.—(1) A person (not being the intended recipient) who, except in accordance with this Act or unless authorised by the Postal Authority, wilfully retains or secretes, makes away with, keeps, detains or wilfully opens or causes to be opened any parcel that had been collected from a public parcel locker shall be guilty of an offence.\n[10/2021]\n(2) Subsection (1) does not apply to an individual who does any act to which that subsection applies where —\n(a)the intended recipient of the parcel authorises the individual to do that act; or\n(b)both of the following requirements are satisfied:\n(i)the individual is a parent, or in the position of a parent or guardian, of the intended recipient of the parcel;\n(ii)the intended recipient of the parcel is a minor or the ward of the individual mentioned in sub‑paragraph (i).\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A39.01",
+   "no": 39.01,
+   "noLabel": {
+    "en": "39J."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Offence to place prohibited item in public parcel locker"
+   },
+   "text": {
+    "en": "39J.—(1) Subject to subsection (2), a person who places, or causes to be placed, a prohibited item in a public parcel locker shall be guilty of an offence.\n[10/2021]\n(2) Subsection (1) does not apply to a person who, at the time the person places any thing in a public parcel locker or causes any thing to be placed in a public parcel locker, does not know, and has no reason to believe, that the thing is or contains a prohibited item.\n[10/2021]\n(3) In this section, “prohibited item” means —\n(a)any parcel which contains any indecent or obscene article, or bears any word, mark or design of an indecent or obscene or a scurrilous, threatening or grossly offensive character;\n(b)any article or thing which is likely to damage any public parcel locker or any parcel placed in a public parcel locker, or injure any person using a public parcel locker;\n(c)except as otherwise provided by any regulations made under this Act —\n(i)any explosive, inflammable, dangerous, filthy, noxious or deleterious substance;\n(ii)any sharp instrument which is not properly protected; or\n(iii)any living creature which is noxious or likely to damage any public parcel locker or any parcel placed in a public parcel locker, or injure any person using a public parcel locker; or\n(d)any other parcel or class of parcel prescribed.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 6 INTERNATIONAL OBLIGATIONS ANDNATIONAL INTERESTS"
+   },
+   "heading": {
+    "en": "Right to conduct international business dealings"
+   },
+   "text": {
+    "en": "40. For the purposes of the conduct of any international postal service by a public postal licensee, and subject to this Act, the licensee may enter into direct communication, arrangement and agreement with the lawfully constituted postal authority of any country or with any duly authorised international agency or organisation concerned with postal matters —\n(a)for the purpose of providing facilities, fixing rates, arranging terms of payment or accounting;\n(b)for operational, engineering or administrative purposes; or\n(c)for any other purpose necessary for the proper fulfilment of its functions."
+   }
+  },
+  {
+   "id": "SG-H3574-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 6 INTERNATIONAL OBLIGATIONS ANDNATIONAL INTERESTS"
+   },
+   "heading": {
+    "en": "Government’s overriding international rights"
+   },
+   "text": {
+    "en": "41.—(1) Nothing in section 40 is deemed to abrogate the right of the Government at any time to determine its relations with any country or with any international agency or organisation.\n(2) A public postal licensee must discharge its responsibilities and conduct its business as to comply with and fulfil all international agreements, conventions or undertakings relating to postal matters to which Singapore is a party."
+   }
+  },
+  {
+   "id": "SG-H3574-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 6 INTERNATIONAL OBLIGATIONS ANDNATIONAL INTERESTS"
+   },
+   "heading": {
+    "en": "Liability for international financial obligations"
+   },
+   "text": {
+    "en": "42. A public postal licensee is fully responsible for meeting all financial obligations arising from the operation of any international postal service and must settle accounts with other postal authorities."
+   }
+  },
+  {
+   "id": "SG-H3574-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 6 INTERNATIONAL OBLIGATIONS ANDNATIONAL INTERESTS"
+   },
+   "heading": {
+    "en": "Contribution by Government"
+   },
+   "text": {
+    "en": "43. Where the Government considers it necessary that any postal service of an exceptional nature should be provided, and where a public postal licensee considers it uneconomic to provide the service without contribution from the Government, the Government may make any contribution towards the capital outlay necessary to provide any such service as may be estimated by the licensee and agreed to by the Government."
+   }
+  },
+  {
+   "id": "SG-H3574-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 6 INTERNATIONAL OBLIGATIONS ANDNATIONAL INTERESTS"
+   },
+   "heading": {
+    "en": "Provision of postal services for governmental, etc., purposes"
+   },
+   "text": {
+    "en": "44.—(1) The Minister may direct a public postal licensee to undertake and provide any postal services and facilities that may be necessary for aeronautical, maritime, meteorological, governmental, defence or other purposes.\n(2) Upon being so directed by the Minister, the public postal licensee must provide the postal services or facilities mentioned in subsection (1) and is entitled to fair and proper payment therefor."
+   }
+  },
+  {
+   "id": "SG-H3574-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 6 INTERNATIONAL OBLIGATIONS ANDNATIONAL INTERESTS"
+   },
+   "heading": {
+    "en": "Directions by Minister"
+   },
+   "text": {
+    "en": "45.—(1) The Minister may, after consultation with the Postal Authority or any postal licensee, give to the Postal Authority or that licensee any directions that the Minister thinks fit as to the exercise by the Postal Authority or that licensee of its functions under this Act.\n[34/2007]\n(2) Without limiting subsection (1), if it appears to the Minister to be requisite or expedient to do so —\n(a)on the occurrence of any public emergency, in the public interest or in the interests of public security, national defence, or relations with the government of another country; or\n(b)in order —\n(i)to discharge or facilitate the discharge of an obligation binding on the Government by virtue of its being a member of an international organisation or a party to an international agreement;\n(ii)to attain or facilitate the attainment of any other object the attainment of which is in the opinion of the Minister requisite or expedient in view of the Government being a member of an international organisation or a party to an international agreement; or\n(iii)to enable the Government to become a member of an international organisation or a party to an international agreement,\nthe Minister may, after consultation with the Postal Authority or any postal licensee, give any directions to the Postal Authority or that licensee that are necessary in the circumstances of the case.\n[34/2007]\n(3) Any directions given under subsection (1) or (2) may include —\n(a)provisions for the interception or detention of any postal article in the course of transmission by post; and\n(b)provisions for the postal article to be delivered to any officer mentioned in the direction to be dealt with in any manner that the Minister may direct.\n(4) The Postal Authority and any postal licensee must give effect to any directions given to it under subsection (1) or (2) despite any other duty imposed on the Postal Authority or that licensee by or under this Act.\n[34/2007]\n(5) A postal licensee that, on or after 14 May 2021, contravenes any direction given to the postal licensee under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1 million and, in the case of a continuing offence, to a further fine not exceeding $100,000 for every day or part of a day during which the offence continues after conviction.\n[10/2021]\n(6) The Postal Authority and any postal licensee must not disclose any directions given to that person under subsection (1) or (2) if the Minister notifies that person that the Minister is of the opinion that the disclosure of the directions is against the public interest.\n[34/2007]\n(7) The Minister may make grants to postal licensees for defraying or contributing towards any losses which they may sustain by reason of their compliance with the directions of the Minister under any provision of this section.\n[34/2007]\n(8) Any sums required by the Minister for making grants under subsection (7) must be paid out of the Consolidated Fund.\n[S 23/2025]\n(9) If any doubt arises as to the existence of a public emergency or as to whether any act done under this section was in the public interest or in the interests of public security, national defence or relations with the government of another country, a certificate signed by the Minister is conclusive evidence of the matters stated therein."
+   }
+  },
+  {
+   "id": "SG-H3574-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT POWERS AND PROCEDURES"
+   },
+   "heading": {
+    "en": "Power to require information, etc."
+   },
+   "text": {
+    "en": "46.—(1) The Postal Authority or any officer of the Postal Authority authorised in that behalf may, for the purpose of conducting an investigation or discharging its functions under this Act, by order —\n(a)require any person to provide the Postal Authority with any information in the person’s possession which relates to any postal service or postal system or the public parcel locker network or any part of the public parcel locker network; and\n(b)require any person who has in the person’s custody or under the person’s control any document which relates to any postal service or postal system or the public parcel locker network or any part of the public parcel locker network —\n(i)to provide the Postal Authority with a copy of or extract from the document; or\n(ii)unless the document forms part of the records or other documents of a court or public authority, to transmit the document itself to the Postal Authority for its inspection.\n[22/2016; 10/2021]\n(2) The Postal Authority or any officer authorised by it in that behalf is entitled without payment to keep any copy or extract provided to the Postal Authority under subsection (1).\n(3) The Postal Authority or any officer authorised by it in that behalf must at all reasonable times in the day have full and free access to all buildings, places, books, documents and other papers for the purpose of discharging the Postal Authority’s functions under this Act, and may, without payment, inspect, copy or make extracts from any such books, documents or papers.\n(4) The Postal Authority or any officer authorised by it in that behalf may take possession of any books, documents or papers where in the opinion of the Postal Authority —\n(a)the books, documents or papers may be interfered with or destroyed unless possession is taken; or\n(b)the books, documents or papers may be required as evidence in proceedings for an offence under this Act or any regulations made under this Act.\n(5) The rights conferred by this section include, in relation to information recorded otherwise than in legible form, the right to require the information to be made available in legible form for inspection or for a copy or extract to be made of or from it.\n(6) The power under this section to require a person to produce a document includes the power —\n(a)if the document is produced, to require the person, or any person who is a present or past officer of that person or is or was at any time employed by that person, to provide an explanation of the document; or\n(b)if the document is not produced, to require the person to state, to the best of that person’s knowledge and belief, where it is.\n[34/2007]\n(7) A person who —\n(a)fails to comply with any requirement specified in any order under subsection (1);\n(b)intentionally alters, suppresses or destroys any document which the person has been required under subsection (1) to provide or transmit; or\n(c)in providing any information required of the person under subsection (1), makes any statement which the person knows to be false in a material particular, or recklessly makes any statement which is false in a material particular,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part of a day during which the offence continues after conviction.\n(8) If a person is charged with an offence under subsection (7) in respect of a requirement to produce any document or information under subsection (1), it is a defence for the person to prove that —\n(a)the document was not in the person’s possession or under the person’s control;\n(b)it was not reasonably practicable for the person to comply with the requirement; or\n(c)the person had a reasonable excuse for failing to provide the information required.\n[34/2007]\n(9) No person is by virtue of this section obliged to disclose any particulars as to which the person is under any statutory obligation to observe secrecy.\n(10) In this section, “document” includes any electronic record within the meaning of the Electronic Transactions Act 2010.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A46.001",
+   "no": 46.001,
+   "noLabel": {
+    "en": "46A."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT POWERS AND PROCEDURES"
+   },
+   "heading": {
+    "en": "Power to examine, etc."
+   },
+   "text": {
+    "en": "46A.—(1) An officer of the Postal Authority who is authorised by the Postal Authority for the purpose of this section (called in this section the authorised officer) may, for the purposes of investigating an offence under this Act or any regulations made under this Act, do all or any of the following:\n(a)require any person whom the authorised officer reasonably believes to have committed that offence to provide evidence of that person’s identity;\n(b)require, by written notice, any person within the limits of Singapore, who appears to be acquainted with the facts or circumstances of the matter to attend before the authorised officer;\n(c)examine orally any person who appears to be acquainted with the facts or circumstances of the matter —\n(i)whether before or after that person or anyone else is charged with an offence in connection with the matter; or\n(ii)whether or not that person is to be called as a witness in any inquiry, trial or other proceeding in connection with the matter.\n[22/2016]\n(2) A person examined under subsection (1)(c) is bound to state truly what the person knows of the facts and circumstances of the matter, except that the person need not say anything that might expose the person to a criminal charge or punishment.\n[22/2016]\n(3) A statement made by a person examined under subsection (1)(c) must —\n(a)be reduced to writing;\n(b)be read over to the person;\n(c)if the person does not understand English, be interpreted in a language that the person understands; and\n(d)after correction (if necessary), be signed by the person.\n[22/2016]\n(4) A person who —\n(a)without reasonable excuse, fails to provide the information required of that person under subsection (1)(a);\n(b)without reasonable excuse, fails to comply with a notice issued to that person under subsection (1)(b); or\n(c)provides any information or makes any statement under this section which the person knows to be false or misleading in any material particular,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.\n[22/2016]"
+   }
+  },
+  {
+   "id": "SG-H3574-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT POWERS AND PROCEDURES"
+   },
+   "heading": {
+    "en": "Powers of arrest and search in respect of arrestable offences"
+   },
+   "text": {
+    "en": "47.—(1) Any officer of the Postal Authority deputed by the Postal Authority to act under this section or any police officer may arrest without warrant —\n(a)any person found committing or attempting to commit or employing or aiding any person to commit an arrestable offence under this Act; or\n(b)any person against whom a reasonable suspicion exists that the person has been guilty of an arrestable offence under this Act,\nand may search any person so arrested, except that no female is to be searched except by a female.\n[10/2021]\n(2) Every person so arrested must, together with any article as to which an offence may have been committed or attempted to be committed, be taken to a police station.\n[34/2007]\n(3) For the purposes of this section, offences punishable under sections 28, 31, 34(1) and (4), 35, 36, 37, 38, 39, 39B, 39E, 39H(1), 39I(1) and 39J(1) are deemed to be arrestable offences within the meaning of the Criminal Procedure Code 2010.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT POWERS AND PROCEDURES"
+   },
+   "heading": {
+    "en": "Powers of search and arrest in respect of offences under section 33"
+   },
+   "text": {
+    "en": "48.—(1) Whenever it appears to any police officer or any officer of the Postal Authority authorised to act for it under this section that an offence under section 33 is being committed or is about to be committed or attempted or whenever it appears that any article is concealed or deposited or contained in or on any vessel, aircraft or vehicle or premises in contravention of those sections, the police officer or the officer of the Postal Authority may, if he or she has reasonable grounds for believing that by reason of the delay in obtaining a search warrant the article is likely to be removed —\n(a)stop and examine the vessel, aircraft or vehicle or enter the premises and there search for and take possession of any article and of any book or document which is reasonably believed to have a bearing on the case; and\n(b)arrest any person being in the vessel, aircraft or vehicle or premises in whose possession the article may be found or whom the police officer or the officer of the Postal Authority may reasonably suspect to have concealed or deposited the article and may search any person so arrested, except that no female is to be searched except by a female.\n(2) Every person so arrested must, together with any such article, be taken to a police station.\n(3) In this section, “document” has the meaning given by section 46(10).\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A48.001",
+   "no": 48.001,
+   "noLabel": {
+    "en": "48A."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT POWERS AND PROCEDURES"
+   },
+   "heading": {
+    "en": "Powers of search and arrest in respect of offences under section 39G"
+   },
+   "text": {
+    "en": "48A.—(1) This section applies where it appears to any police officer or any officer of the Postal Authority authorised to act for the Postal Authority under this section (called in this section the authorised officer) that —\n(a)an offence under section 39G is being committed or is about to be committed or attempted; or\n(b)any parcel is concealed, deposited or contained in or on any specified premises in contravention of section 39G.\n[10/2021]\n(2) The police officer or the authorised officer may, if the police officer or the authorised officer has reasonable grounds for believing that by reason of the delay in obtaining a search warrant the parcel is likely to be removed —\n(a)enter and search the specified premises;\n(b)take possession of any parcel or other article or thing, or take copies of or extracts from any book or document, which is reasonably believed to have a bearing on the case; and\n(c)arrest any person in the specified premises in whose possession the parcel, article or thing may be found or whom the police officer or the authorised officer reasonably suspects to have concealed or deposited the parcel, article or thing and may search any person so arrested, except that a woman must not be searched except by another woman.\n[10/2021]\n(3) Every person arrested under subsection (2)(c), and every article seized under subsection (2)(b), must be taken to a police station.\n[10/2021]\n(4) In this section —\n“document” has the meaning given by section 46(10);\n“specified premises” has the meaning given by section 23A.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A48.002",
+   "no": 48.002,
+   "noLabel": {
+    "en": "48B."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT POWERS AND PROCEDURES"
+   },
+   "heading": {
+    "en": "Powers of inspection, search, seizure, etc., in relation to public parcel lockers"
+   },
+   "text": {
+    "en": "48B.—(1) This section applies where there are reasonable grounds to believe that any parcel or other article or thing is or has been placed in a public parcel locker and —\n(a)the parcel, article or thing is the subject matter of, or is connected with the commission of, an offence under this Act or any regulations made under this Act; or\n(b)the continued presence of the parcel, article or thing in the public parcel locker is contrary to public security or public health.\n[10/2021]\n(2) A police officer or an officer of the Postal Authority authorised to act for the Postal Authority under this section may —\n(a)open and search any public parcel locker in which a parcel, an article or a thing mentioned in subsection (1) is believed to be placed; and\n(b)inspect, examine and seize any parcel, article or thing found in the public parcel locker mentioned in paragraph (a).\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A48.003",
+   "no": 48.003,
+   "noLabel": {
+    "en": "48C."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT POWERS AND PROCEDURES"
+   },
+   "heading": {
+    "en": "Disposal of letters or parcels seized in relation to offences under section 33 or 39G"
+   },
+   "text": {
+    "en": "48C.—(1) Where any letter connected with an offence under section 33 is seized under section 48 or any other written law, the Postal Authority may take any action as it deems appropriate to deliver the letter to its intended addressee or return the letter to its sender.\n[10/2021]\n(2) Where any parcel connected with an offence under section 39G is seized under section 48A or any other written law, the Postal Authority may take any action as it deems appropriate to deliver the parcel to its intended recipient or return the parcel to the person who sent the parcel.\n[10/2021]\n(3) Subsection (1) or (2) applies whether upon the conclusion of the Postal Authority’s investigation into the offence or otherwise.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A48.004",
+   "no": 48.004,
+   "noLabel": {
+    "en": "48D."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT POWERS AND PROCEDURES"
+   },
+   "heading": {
+    "en": "Disposal of articles, documents, letters, parcels, etc."
+   },
+   "text": {
+    "en": "48D.—(1) Subject to sections 23(3) and (5), 23R(4) and 48C, an article, a document, a letter, a parcel or a thing produced, detained or seized under this Act must —\n(a)where the article, document, letter, parcel or thing is produced in any criminal trial — be dealt with in accordance with section 364(1) of the Criminal Procedure Code 2010;\n(b)in the case of a letter or parcel that is not produced in a criminal trial — be delivered to its intended addressee or recipient or returned to its sender or reported to a Magistrate’s Court; or\n(c)in any other case — be returned to its owner or reported to a Magistrate’s Court.\n[10/2021]\n(2) Where the report of any article, document, letter, parcel or thing is made to a Magistrate’s Court under subsection (1)(b) or (c), the Magistrate’s Court may order the article, document, letter, parcel or thing, as the case may be —\n(a)to be forfeited; or\n(b)to be disposed of in any manner that the Magistrate’s Court thinks fit.\n[10/2021]\n(3) This section does not affect any right to retain or dispose of property which may exist in law apart from this section.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT POWERS AND PROCEDURES"
+   },
+   "heading": {
+    "en": "Obstruction of police officer or officer of Postal Authority"
+   },
+   "text": {
+    "en": "49. Any person who intentionally obstructs a police officer or any officer of the Postal Authority authorised to act for the Postal Authority in the execution of his or her duty under section 48 shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H3574-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT POWERS AND PROCEDURES"
+   },
+   "heading": {
+    "en": "No costs or damages or other relief arising from seizure to be recoverable unless seizure without reasonable or probable cause"
+   },
+   "text": {
+    "en": "50.—(1) No person is, in any proceedings before any court in respect of any equipment, article, book or document seized in the exercise or the purported exercise of any power conferred under this Act, entitled to the costs of the proceedings or to any damages or other relief other than an order for the return of the equipment, article, book or document or the payment of their value unless the seizure was made without reasonable or probable cause.\n[34/2007]\n(2) In this section, “document” has the meaning given by section 46(10).\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT POWERS AND PROCEDURES"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "51.—(1) An officer or employee of the Postal Authority specially authorised by name in that behalf by the Postal Authority may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:\n(a)$5,000;\n(b)one half the maximum fine prescribed for that offence.\n[34/2007]\n(2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence.\n[34/2007]\n(3) The Postal Authority may, with the approval of the Minister, make regulations prescribing the offences that may be compounded."
+   }
+  },
+  {
+   "id": "SG-H3574-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT POWERS AND PROCEDURES"
+   },
+   "heading": {
+    "en": "General penalties"
+   },
+   "text": {
+    "en": "52. Any person guilty of an offence under this Act or any regulations made under this Act for which no penalty is expressly provided shall, in addition to the forfeiture of any article seized, be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT POWERS AND PROCEDURES"
+   },
+   "heading": {
+    "en": "Saving of prosecutions under other written laws"
+   },
+   "text": {
+    "en": "53.—(1) Nothing in this Act prevents any person from being prosecuted under any other written law for any act or omission which constitutes an offence under this Act or any regulations made under this Act, or from being liable under that other written law to any punishment or penalty higher or other than that provided by this Act or the regulations.\n(2) A person must not be punished twice for the same offence."
+   }
+  },
+  {
+   "id": "SG-H3574-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT POWERS AND PROCEDURES"
+   },
+   "heading": {
+    "en": "Jurisdiction of Courts"
+   },
+   "text": {
+    "en": "54. A Magistrate’s Court or a District Court has jurisdiction to hear and determine all offences under this Act and, despite anything to the contrary in the Criminal Procedure Code 2010, has power to impose the full penalty or punishment in respect of any offence under this Act."
+   }
+  },
+  {
+   "id": "SG-H3574-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "55."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT POWERS AND PROCEDURES"
+   },
+   "heading": {
+    "en": "Offences by corporations"
+   },
+   "text": {
+    "en": "55.—(1) Where, in a proceeding for an offence under this Act or any regulations made under this Act, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that —\n(a)an officer, employee or agent of the corporation engaged in that conduct within the scope of the actual or apparent authority of the officer, employee or agent; and\n(b)the officer, employee or agent had that state of mind,\nis evidence that the corporation had that state of mind.\n[10/2021]\n(2) Where a corporation commits an offence under this Act or any regulations made under this Act, a person —\n(a)who is —\n(i)an officer of the corporation; or\n(ii)an individual involved in the management of the corporation and in a position to influence the conduct of the corporation in relation to the commission of the offence; and\n(b)who —\n(i)consented or connived, or conspired with others, to effect the commission of the offence;\n(ii)is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the corporation; or\n(iii)knew or ought reasonably to have known that the offence by the corporation (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,\nshall be guilty of that same offence as is the corporation and shall be liable on conviction to be punished accordingly.\n[10/2021]\n(3) A person mentioned in subsection (2) may rely on a defence that would be available to the corporation if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the corporation would bear.\n[10/2021]\n(4) To avoid doubt, this section does not affect the application of —\n(a)Chapters 5 and 5A of the Penal Code 1871; or\n(b)the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence.\n[10/2021]\n(5) To avoid doubt, subsection (2) also does not affect the liability of the corporation for an offence under this Act, and applies whether or not the corporation is convicted of the offence.\n[10/2021]\n(6) In this section —\n“corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act 2005;\n“officer”, in relation to a corporation, means any director, partner, chief executive, manager, secretary or other similar officer of the corporation, and includes —\n(a)any person purporting to act in any such capacity; and\n(b)for a corporation whose affairs are managed by its members, any of those members as if the member were a director of the corporation;\n“state of mind” of a person includes —\n(a)the knowledge, intention, opinion, belief or purpose of the person; and\n(b)the person’s reasons for the intention, opinion, belief or purpose.\n[10/2021]\n(7) This section does not apply to or in relation to an offence under this Act or any regulations made under this Act committed by a corporation before 14 May 2021.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A55.001",
+   "no": 55.001,
+   "noLabel": {
+    "en": "55A."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT POWERS AND PROCEDURES"
+   },
+   "heading": {
+    "en": "Offences by unincorporated associations or partnerships"
+   },
+   "text": {
+    "en": "55A.—(1) Where, in a proceeding for an offence under this Act or any regulations made under this Act, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that —\n(a)an employee or agent of the unincorporated association or partnership engaged in that conduct within the scope of the actual or apparent authority of the employee or agent; and\n(b)the employee or agent had that state of mind,\nis evidence that the unincorporated association or partnership had that state of mind.\n[10/2021]\n(2) Where an unincorporated association or a partnership commits an offence under this Act or any regulations made under this Act, a person —\n(a)who is —\n(i)an officer of the unincorporated association or a member of its governing body;\n(ii)a partner in the partnership; or\n(iii)an individual involved in the management of the unincorporated association or partnership and in a position to influence the conduct of the unincorporated association or partnership (as the case may be) in relation to the commission of the offence; and\n(b)who —\n(i)consented or connived, or conspired with others, to effect the commission of the offence;\n(ii)is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the unincorporated association or partnership; or\n(iii)knew or ought reasonably to have known that the offence by the unincorporated association or partnership (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,\nshall be guilty of the same offence as is the unincorporated association or partnership (as the case may be) and shall be liable on conviction to be punished accordingly.\n[10/2021]\n(3) A person mentioned in subsection (2) may rely on a defence that would be available to the unincorporated association or partnership if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the unincorporated association or partnership would bear.\n[10/2021]\n(4) To avoid doubt, this section does not affect the application of —\n(a)Chapters 5 and 5A of the Penal Code 1871; or\n(b)the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence.\n[10/2021]\n(5) To avoid doubt, subsection (2) also does not affect the liability of an unincorporated association or a partnership for an offence under this Act, and applies whether or not the unincorporated association or partnership is convicted of the offence.\n[10/2021]\n(6) In this section —\n“officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes —\n(a)any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; and\n(b)any person purporting to act in any such capacity;\n“partner” includes a person purporting to act as a partner;\n“state of mind” of a person includes —\n(a)the knowledge, intention, opinion, belief or purpose of the person; and\n(b)the person’s reasons for the intention, opinion, belief or purpose.\n[10/2021]\n(7) This section does not apply to or in relation to an offence under this Act or any regulations made under this Act committed by an unincorporated association or a partnership before 14 May 2021.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "56."
+   },
+   "chapter": {
+    "en": "PART 8 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Appeal to Minister"
+   },
+   "text": {
+    "en": "56.—(1) Any postal licensee who is aggrieved by —\n(a)any decision of the Postal Authority in the exercise of any discretion vested in the Postal Authority by or under this Act; or\n(b)anything contained in any code of practice or standard of performance under section 24 or 26C, or any direction of the Postal Authority given under section 25, 26D or 26F(2),\nmay, within 14 days after being notified of the decision or direction or the issue or approval of the code of practice or standard of performance, as the case may be (or such longer period as the Minister allows in exceptional circumstances, whether before or after the end of the 14 days), appeal to the Minister in the prescribed manner.\n[34/2007]\n(2) Any person (other than a postal licensee) who is aggrieved by any decision or direction of the Postal Authority given by or under section 6(1), 9(1), 26B or 26D, may, within 14 days after being notified of the decision or direction (or such longer period as the Minister allows in exceptional circumstances, whether before or after the end of the 14 days), appeal to the Minister in the prescribed manner.\n[34/2007]\n(3) Any person (other than the public parcel locker network operator) who is aggrieved by —\n(a)any decision of the Postal Authority under section 23J(5), 23M(8) or 23N(1)(a) or (5); or\n(b)anything contained in any code of practice issued under section 23M(1), or any direction of the Postal Authority given under section 23O(2)(a),\nmay, within 14 days after being notified of the decision or direction or the issue of the code of practice, as the case may be (or such longer period as the Minister allows in exceptional circumstances, whether before or after the end of the 14 days), appeal to the Minister in the prescribed manner.\n[10/2021]\n(4) Any person who makes an appeal to the Minister under subsection (1), (2) or (3) must, within the period specified therein —\n(a)state as concisely as possible the circumstances under which the appeal arises, the issues and grounds for the appeal; and\n(b)submit to the Minister all relevant facts, evidence and arguments for or against the appeal, as the case may be.\n[34/2007; 10/2021]\n(5) Where an appeal has been made to the Minister under subsection (1), (2) or (3), the Minister may require —\n(a)any party to the appeal; and\n(b)any person who is not a party to the appeal but appears to the Minister to have information that is relevant to the matters mentioned in that subsection,\nto provide the Minister with all such information as the Minister may require for the purpose of considering the appeal and making a determination for resolving it, and any person so required to provide such information must provide it in the manner and within the period that the Minister may specify.\n[34/2007; 10/2021]\n(6) The Minister may reject any appeal of an appellant who fails to comply with subsection (4) or (5).\n[34/2007]\n(7) Unless otherwise provided, where an appeal is lodged under this section, the decision, direction or other thing appealed against must be complied with until the determination of the appeal.\n[34/2007]\n(8) The Minister may determine an appeal under this section by confirming, varying or reversing any decision or direction of the Postal Authority or by amending any code of practice or standard of performance.\n[34/2007]\n(9) The decision of the Minister in any appeal is final.\n[34/2007]"
+   }
+  },
+  {
+   "id": "SG-H3574-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "57."
+   },
+   "chapter": {
+    "en": "PART 8 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Exclusion of liability of public postal licensees and public parcel locker network operator"
+   },
+   "text": {
+    "en": "57.—(1) A public postal licensee shall not be liable in respect of any injury, loss or damage suffered by any person by reason of —\n(a)any loss, misdelivery or delay of or damage to any postal article in the course of transmission by post;\n(b)any failure to provide or delay in providing any postal service or any equipment associated therewith or service ancillary thereto;\n(c)any failure, interruption, suspension or restriction of any postal service or service ancillary thereto or delay of, or fault in, any communication by post;\n(d)any loss of secrecy in communication arising from the use of any postal service; or\n(e)any wrong payment or delay in payment in connection with any remittance of money through the public postal licensee or any other irregularity in the document used in connection with the remittance,\nwhich is due to the act or default of another person, or an accident or some other cause beyond the control of the public postal licensee.\n[10/2021]\n(2) Despite subsection (1), in the event of the loss of or damage to any article enclosed in or forming part of a parcel or an insured postal article, or the loss of any registered postal article while in the custody of a public postal licensee, the licensee may pay an indemnity in accordance with the provisions of the Convention regulating the affairs of the Universal Postal Union or any international agreement to which Singapore is a party.\n(3) The public parcel locker network operator is not liable in respect of any injury, loss or damage suffered by any person by reason of any of the following, which is due to the act or default of another person, or an accident or other cause beyond the control of the public parcel locker network operator:\n(a)any loss of or damage to any parcel that is placed in any public parcel locker;\n(b)the non‑receipt or late receipt by the intended recipient of any parcel placed in any public parcel locker;\n(c)the non‑collection or late collection by a delivery service provider of any parcel placed in any public parcel locker;\n(d)the inability to use, or any interruption, suspension or restriction of the use of, a public parcel locker;\n(e)any loss of secrecy in communication arising from the use of a public parcel locker.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "58."
+   },
+   "chapter": {
+    "en": "PART 8 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Exemption from distress and attachment"
+   },
+   "text": {
+    "en": "58.—(1) The following are not subject to distress, and are not liable to be taken under or pursuant to an enforcement order of a court in any bankruptcy or insolvency proceedings against any person, without the prior written approval of the Minister:\n(a)in relation to a public postal licensee — any installation or plant used for posts of the licensee;\n(b)in relation to the public parcel locker network operator — any public parcel locker, related installation or related software.\n[10/2021]\n[Act 25 of 2021 wef 01/04/2022]\n(2) Every installation or plant used for posts placed under, over, along, across, in or upon any property by a public postal licensee remains the property of the licensee whether or not it has become in whole or in part a fixture.\n(3) Every public parcel locker and related installation installed by the public parcel locker network operator remains the property of the public parcel locker network operator whether or not it has become in whole or in part a fixture.\n[10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "59."
+   },
+   "chapter": {
+    "en": "PART 8 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "59.—(1) Unless otherwise expressly provided in this Act, any notice, order or document required or authorised by this Act or any regulations made under this Act to be given or served on any person, and any summons issued by a court in connection with any offence under this Act or any regulations made under this Act may be served on the person concerned —\n(a)by delivering it to the person or to some adult member or employee of his or her family at his or her last known place of residence;\n(b)by leaving it at his or her usual or last known place of residence or place of business in a cover addressed to him or her;\n(c)by affixing it to some conspicuous part of his or her last known place of residence;\n(d)by sending it by registered post addressed to the person at his or her usual or last known place of residence or place of business; or\n(e)where the person is a body corporate —\n(i)by delivering it to the secretary or other similar officer of the body corporate at its registered or principal office; or\n(ii)by sending it by registered post addressed to the body corporate at its registered or principal office.\n(2) Any notice, order, document or summons sent by registered post to any person in accordance with subsection (1) is deemed to be duly served on the person to whom the letter is addressed at the time when the letter would, in the ordinary course of post, be delivered and in proving service of the same it is sufficient to prove that the envelope containing the notice, order, document or summons was properly addressed, stamped and posted by registered post."
+   }
+  },
+  {
+   "id": "SG-H3574-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "60."
+   },
+   "chapter": {
+    "en": "PART 8 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Exemption by Minister"
+   },
+   "text": {
+    "en": "60. The Minister may exempt any person or class of persons from all or any of the provisions of this Act."
+   }
+  },
+  {
+   "id": "SG-H3574-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "61."
+   },
+   "chapter": {
+    "en": "PART 8 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "61.—(1) The Postal Authority may, with the approval of the Minister, make regulations for any purpose for which regulations are required to be made under this Act and generally for carrying out the purposes and provisions of this Act.\n(2) Without limiting subsection (1), the Postal Authority may, with the approval of the Minister, make regulations for or with respect to all or any of the following matters:\n(a)the classes and the conditions for the grant of licences by the Postal Authority;\n(b)the acceptance, transmission by post, detention and disposal of postal articles;\n(c)the supply, sale and use of postage stamps;\n(d)the import, manufacture, sale, supply and use of franking machines;\n(e)the limit of amount of money that may be remitted through a public postal licensee mentioned in section 11(1) and the manner and conditions under which such money may be remitted;\n(f)the articles or things which may not be transmitted by post;\n(g)the types of articles not to be treated as letters;\n(h)the manner of receiving, delivering, collecting and distributing mail bags and postal articles, including facilitating access for postal licensees to letter boxes;\n(i)the conditions and restrictions for the payment of indemnity for the loss of or damage to postal articles where indemnity is payable under this Act;\n(j)the registration of postal articles and the cases where insurance of postal articles may be required;\n(k)the installation, operation and maintenance of the public parcel locker network;\n(l)the fees and charges to be paid in respect of any matter or anything done, or any services rendered, by the Postal Authority under or by virtue of this Act, including a code of practice or standard of performance;\n(m)the waiver or refund, in whole or in part, by authorised officers of the Postal Authority of any such fees in the circumstances of any particular case;\n(n)the interest (such interest, if unpaid, to constitute a debt due to the Postal Authority and be recoverable as such) to be paid for late payment of any fees or charges prescribed under this Act.\n[34/2007; 10/2021]"
+   }
+  },
+  {
+   "id": "SG-H3574-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nSection 3B(1)\nPowers of Postal Authority\n1. To grant licences for postal services and purposes connected therewith under this Act and to supervise and enforce compliance with the provisions of such licences.\n2. To give directions to any person granted a licence under this Act.\n3. To give directions to the public parcel locker network operator in relation to the installation, operation and maintenance of the public parcel locker network.\n4. To levy such charges and fees for the granting of such licences and other services provided by the Postal Authority as may in its opinion be appropriate.\n5. To regulate rates, charges and fees levied by operators of postal systems and postal services and the public parcel locker network operator.\n6. To issue or approve standards of performance, codes of practice and advisory guidelines relating to postal systems, postal services and the public parcel locker network, or any other matter related to the functions of the Postal Authority.\n7. To regulate the interconnection of and access to systems of operators of postal systems and postal services.\n8. To regulate the sharing of installation or plant used for postal services between postal licensees.\n9. To control and regulate the management and allocation of numbering plans and schemes for postal systems, postal services and the public parcel locker network.\n10. To issue postage stamps and to control and regulate the provision of stamps by postal licensees.\n11. To levy such rates, charges and fees and to decide such rates or apportionment thereof as between itself and other foreign postal administrations as may in its opinion be appropriate.\n12. To engage in conjunction with other statutory bodies or other foreign postal administrations and international agencies or organisations for the purposes of promoting postal systems and postal services.\n[34/2007; 10/2021]"
+   }
+  }
+ ]
+}

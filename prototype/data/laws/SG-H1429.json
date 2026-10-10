@@ -1,0 +1,94 @@
+{
+ "id": "SG-H1429",
+ "title": {
+  "zh": null,
+  "en": "Evidence (Restrictions on Questions and Evidence in Criminal Proceedings) Rules 2018",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p18",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation EA1893-R1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1363,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/EA1893-R1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 4 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1429-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Rules are the Evidence (Restrictions on Questions and Evidence in Criminal Proceedings) Rules 2018."
+   }
+  },
+  {
+   "id": "SG-H1429-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definition of “sexual behaviour”"
+   },
+   "text": {
+    "en": "2. In these Rules, unless the context otherwise requires, “sexual behaviour”, in relation to an alleged victim of an offence —\n(a)means any sexual behaviour or other sexual experience of the alleged victim involving any person other than the accused charged with the offence; but\n(b)excludes anything alleged to have taken place as part of the event that is the subject matter of the charge against the accused."
+   }
+  },
+  {
+   "id": "SG-H1429-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Restrictions on questions and evidence in criminal proceedings involving sexual offence or child abuse offence"
+   },
+   "text": {
+    "en": "3. In criminal proceedings where the accused is charged with committing a sexual offence or child abuse offence, the following apply:\n(a)except with the permission of the court, no question may be asked of the alleged victim of the offence, during cross‑examination by or on behalf of the accused, about the alleged victim’s sexual behaviour or physical appearance;\n(b)except with the permission of the court, no evidence may be adduced by or on behalf of the accused about the alleged victim’s sexual behaviour or physical appearance."
+   }
+  },
+  {
+   "id": "SG-H1429-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Application for permission of court"
+   },
+   "text": {
+    "en": "4.—(1) An application for permission under rule 3(a) or (b) is to be heard in the absence of the alleged victim of the offence.\n(2) The court may grant permission under rule 3(a) or (b) only if it would not be in the interests of justice to disallow the asking of the question or the adducing of the evidence."
+   }
+  }
+ ]
+}

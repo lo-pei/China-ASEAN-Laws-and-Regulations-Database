@@ -1,0 +1,402 @@
+{
+ "id": "SG-H3357",
+ "title": {
+  "zh": null,
+  "en": "Ngee Ann Polytechnic Act 1967",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p42",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act NAPA1967",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 28,
+ "chars": 16230,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/NAPA1967?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 28 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。其中 2 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3357-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Ngee Ann Polytechnic Act 1967."
+   }
+  },
+  {
+   "id": "SG-H3357-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“Chairperson” means the Chairperson of the Council;\n“Council” means the Council of the Polytechnic constituted under section 5;\n“Ngee Ann Kongsi” means the Ngee Ann Kongsi incorporated under the Ngee Ann Kongsi (Incorporation) Ordinance 1933;\n“Polytechnic” means the Ngee Ann Polytechnic incorporated under section 3;\n“Principal” means the Principal of the Polytechnic, and includes any individual acting in that capacity;\n“Registrar” means the Registrar of the Polytechnic appointed under section 13(1);\n“Senate” means the Senate of the Polytechnic constituted under section 5.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3357-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Incorporation of Ngee Ann Polytechnic"
+   },
+   "text": {
+    "en": "3. There is constituted in accordance with the provisions of this Act a Polytechnic with the name and style of the Ngee Ann Polytechnic, which is a body corporate with perpetual succession and must have a common seal, with full power by and in that name to sue and be sued and to perform any other acts that bodies corporate may by law perform, and with other powers conferred by this Act."
+   }
+  },
+  {
+   "id": "SG-H3357-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Objects and functions of Polytechnic"
+   },
+   "text": {
+    "en": "4. The objects and functions of the Polytechnic are —\n(a)to assist in the preservation, dissemination, communication and increase of knowledge;\n(b)to provide regular courses of instruction in the sciences, the technologies and commerce, and in any other branches of knowledge as the Council may from time to time determine; and\n(c)to stimulate the intellectual, cultural, commercial and industrial development of Singapore and thereby to assist in promoting its economic and social welfare."
+   }
+  },
+  {
+   "id": "SG-H3357-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Council and Senate"
+   },
+   "text": {
+    "en": "5. The Polytechnic has a Council and a Senate, whose composition, functions and powers are as set out in this Act."
+   }
+  },
+  {
+   "id": "SG-H3357-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Council to be supreme governing body"
+   },
+   "text": {
+    "en": "6. The Council is, subject to the provisions of this Act, the supreme governing and executive body of the Polytechnic and must administer the property of the Polytechnic in accordance with its objects and functions as set out in section 4."
+   }
+  },
+  {
+   "id": "SG-H3357-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Composition of Council"
+   },
+   "text": {
+    "en": "7.—(1) The Council consists of the following members:\n(a)a Chairperson;\n(b)a Deputy Chairperson;\n(c)the Principal;\n(d)3 representatives of the Ngee Ann Kongsi nominated by its Committee of Management; and\n(e)not less than 6 but not more than 12 other persons as the Minister may determine.\n(2) Every member of the Council, except the Principal, is to be appointed by the Minister and, unless the Minister otherwise directs, holds office for a period of 3 years from the date of the appointment and is eligible for re-appointment."
+   }
+  },
+  {
+   "id": "SG-H3357-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Vacation of office of member of Council"
+   },
+   "text": {
+    "en": "8.—(1) The office of a member of the Council is vacated if the member —\n(a)becomes a bankrupt or suspends payment to, or makes any arrangement or composition with, his or her creditors; or\n(b)has been absent, without leave of the Council, from 3 consecutive meetings.\n(2) The Minister may revoke the appointment of a member of the Council, except that of the Principal, if the member becomes, in the opinion of the Minister, unfit to continue in office or incapable of performing the member’s duties.\n(3) A member of the Council, except the Principal, may resign from his or her appointment at any time by giving written notice to the Minister."
+   }
+  },
+  {
+   "id": "SG-H3357-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Filling of vacancy in office of member of Council"
+   },
+   "text": {
+    "en": "9.—(1) If the office of a member of the Council, other than that of the Principal, is vacant, the Minister may appoint any person to fill the vacancy and to hold the office for the remainder of the term of the person’s predecessor.\n(2) Where the member in whose place a person is appointed under subsection (1) was a representative of the Ngee Ann Kongsi, the person appointed must also be a representative of the Ngee Ann Kongsi nominated by the Committee of Management."
+   }
+  },
+  {
+   "id": "SG-H3357-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Functions of Council"
+   },
+   "text": {
+    "en": "10.—(1) It is the duty of the Council to exercise its powers in the manner best calculated to promote the objects and functions of the Polytechnic.\n(2) The functions of the Council include —\n(a)the authorisation of appropriate and necessary expenditure within the limits of the funds available to the Polytechnic;\n(b)the receipt of an annual report on the working of the Polytechnic from the Principal;\n(c)the preparation of the annual estimates and of annual statements of accounts in accordance with any rules made under this Act;\n(d)the appointment of the members of the academic and administrative staff and the appointment of such advisers as the Council may consider necessary or desirable;\n(e)the raising of funds for the Polytechnic and the provision of the revenues of the Polytechnic;\n(f)the discipline of the Polytechnic; and\n(g)the doing of all such matters and things as the Council may consider necessary for the exercise or performance of all or any of the functions and duties of the Council."
+   }
+  },
+  {
+   "id": "SG-H3357-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Powers of Council"
+   },
+   "text": {
+    "en": "11. For the purpose of giving effect to the provisions of this Act, the Council may, where it considers it necessary or expedient —\n(a)enter into contracts;\n(b)acquire, purchase, take, hold and enjoy any movable and immovable property;\n(c)sell, convey, assign, surrender and yield up, mortgage, demise, re‑assign, transfer or otherwise dispose of any movable or immovable property vested in the Polytechnic upon any terms that the Council considers fit;\n(d)borrow money at interest on the security of any corporate land or of any funds of the Polytechnic;\n(e)invest the funds of the Polytechnic in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965; and\n(f)do all other matters and things incidental or appertaining to a body corporate.\n[45/2004]"
+   }
+  },
+  {
+   "id": "SG-H3357-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Meetings of Council"
+   },
+   "text": {
+    "en": "12.—(1) The Chairperson must summon meetings of the Council as often as may be required.\n(2) The quorum at every meeting of the Council is 6 members.\n(3) Every decision at a meeting of the Council is to be adopted by a simple majority of the votes of the members present and voting, except that in the case of an equality of votes, the Chairperson or, in his or her absence, the Deputy Chairperson of the Council has a casting vote.\n(4) The Chairperson or, in his or her absence, the Deputy Chairperson presides at a meeting of the Council.\n(5) In the absence of the Chairperson and the Deputy Chairperson at a meeting of the Council, the member elected from among the members present, presides at the meeting.\n(6) The Council may grant leave of absence from a meeting of the Council to a member of the Council.\n(7) The Council is not precluded from holding a meeting or acting in any matter merely by reason of any vacancy in its membership.\n(8) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Council may make standing orders to regulate its own procedure.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3357-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Appointment and duties of Registrar"
+   },
+   "text": {
+    "en": "13.—(1) There must be a Registrar of the Polytechnic who is to be appointed by the Council upon the terms and conditions determined by the Council.\n(2) The Registrar —\n(a)is the secretary of the Council;\n(b)must attend all meetings of the Council unless excused by the Chairperson;\n(c)must maintain proper records of the meetings; and\n(d)must carry out any other duties assigned by the Council.\n(3) In the Registrar’s absence, the Chairperson may appoint a suitable person to act as secretary for a particular meeting.\n(4) The records of any meeting must be circulated to members of the Council within 14 days of the date of the meeting.\n(5) The Registrar is not, unless he or she is a member of the Council appointed to serve in that capacity for a particular meeting under subsection (3), entitled to vote on any question before the Council."
+   }
+  },
+  {
+   "id": "SG-H3357-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Use of common seal"
+   },
+   "text": {
+    "en": "14.—(1) The common seal of the Polytechnic must be in the custody of the Principal and must not be affixed to any instrument, other than a diploma or academic certificate, except in the presence of the Chairperson or a member of the Council and the Principal, who must sign their names to the instrument in token of their presence before the common seal is affixed and the signing is sufficient evidence that the common seal of the Polytechnic has been duly and properly affixed and that the seal is the lawful seal of the Polytechnic.\n(2) The common seal of the Polytechnic may be affixed to any diploma or academic certificate in the presence of any 2 officers of the Polytechnic duly authorised by the Council to act in that behalf, who must sign their names to the diploma or academic certificate in token of their presence before the common seal is affixed and the signing is sufficient evidence that the common seal of the Polytechnic has been duly and properly affixed and that the seal is the lawful seal of the Polytechnic."
+   }
+  },
+  {
+   "id": "SG-H3357-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Powers of Senate"
+   },
+   "text": {
+    "en": "15.—(1) The Senate, subject to the provisions of this Act and of any rules made under this Act, has the control of —\n(a)the instruction, education and research in the Polytechnic;\n(b)the conduct of examinations for students of the Polytechnic; and\n(c)the award of certificates, diplomas and other academic qualifications.\n(2) The Council may, from time to time, add to or vary the duties of the Senate set out in subsection (1)."
+   }
+  },
+  {
+   "id": "SG-H3357-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Composition of Senate"
+   },
+   "text": {
+    "en": "16. The Senate consists of —\n(a)the Principal who is the chairperson;\n(b)the Vice-Principal who is the deputy chairperson;\n(c)the heads of all departments of the Polytechnic;\n(d)the librarian of the Polytechnic;\n(e)2 members, elected from the full-time academic staff of the Polytechnic from among themselves, who hold office for 2 years; and\n(f)the Registrar who is the secretary."
+   }
+  },
+  {
+   "id": "SG-H3357-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "heading": {
+    "en": "Committees and boards"
+   },
+   "text": {
+    "en": "17.—(1) The Council and the Senate may appoint such committees or boards as the Council and the Senate respectively may think fit.\n(2) Unless otherwise expressly provided in rules made under this Act, any committee or board may consist partly of persons who are not members of the Council or the Senate, as the case may be.\n(3) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Council and the Senate may, with or without such restrictions or conditions as the Council and the Senate respectively may think fit, delegate any of their powers and duties to any committee or board.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3357-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "text": {
+    "en": "18. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3357-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "heading": {
+    "en": "Appointment and duties of Principal"
+   },
+   "text": {
+    "en": "19.—(1) The Council must appoint the Principal of the Polytechnic upon the terms and conditions determined by the Council.\n(2) The appointment, removal, discipline and promotion of the Principal must be in accordance with the Public Sector (Governance) Act 2018.\n[5/2018]\n(3) The Principal is —\n(a)the chief administrative and academic officer of the Polytechnic; and\n(b)responsible to the Council for —\n(i)the proper administration and the academic management of the Polytechnic in accordance with the policy of the Council;\n(ii)the proper enforcement of any rules made under this Act;\n(iii)the discipline of the students of the Polytechnic; and\n(iv)the preparation of the annual report on the working of the Polytechnic and of the annual estimates and of annual statements of accounts as are required to be received and prepared by the Council under section 10(2)(b) and (c).\n(4) For the purpose of giving effect to subsection (3), the Principal has, subject to the provisions of this Act, all powers that are necessary or proper.\n(5) The Principal is entitled to speak at any meeting of any committee or board appointed under section 17(1), but is not entitled to vote unless the Principal is a member of the committee or board."
+   }
+  },
+  {
+   "id": "SG-H3357-A19.001",
+   "no": 19.001,
+   "noLabel": {
+    "en": "19A."
+   },
+   "heading": {
+    "en": "Other officers and employees, etc."
+   },
+   "text": {
+    "en": "19A. The Council may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on the terms and conditions determined by the Board, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3357-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "heading": {
+    "en": "Income and property of Polytechnic"
+   },
+   "text": {
+    "en": "20.—(1) The income and property of the Polytechnic include —\n(a)such sums of money and movable property as the Ngee Ann Kongsi may donate or contribute to the Polytechnic;\n(b)such immovable property as the Ngee Ann Kongsi may alienate or donate to the Polytechnic; and\n(c)gifts, grants, donations and other assets from any source and of any nature.\n(2) Section 20 of the Ngee Ann Kongsi (Incorporation) Ordinance 1933 does not apply to the alienation or donation of immovable property by the Ngee Ann Kongsi to the Polytechnic."
+   }
+  },
+  {
+   "id": "SG-H3357-A20.001",
+   "no": 20.001,
+   "noLabel": {
+    "en": "20A."
+   },
+   "heading": {
+    "en": "Issue of shares, etc."
+   },
+   "text": {
+    "en": "20A. As a consequence of the vesting of any property, rights or liabilities of the Government in the Polytechnic under this Act, or of any capital injection or other investment by the Government in the Polytechnic in accordance with any written law, the Polytechnic must issue such shares or other securities to the Minister for Finance as that Minister may direct.\n[5/2002]"
+   }
+  },
+  {
+   "id": "SG-H3357-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "text": {
+    "en": "21. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3357-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "heading": {
+    "en": "Ngee Ann Polytechnic Students’ Union"
+   },
+   "text": {
+    "en": "22.—(1) There is to be a students’ association called the Ngee Ann Polytechnic Students’ Union which is constituted by rules made under section 24(1) and consists of the constituent bodies prescribed by those rules.\n(2) The constitution, membership, functions and other matters relating to the Ngee Ann Polytechnic Students’ Union and each of its constituent bodies are as prescribed by the rules.\n(3) The Council may impose and collect from the students or any class of students such fees as it may determine for the benefit of the Ngee Ann Polytechnic Students’ Union and its constituent bodies; and the fees may be applied in any manner that the Council thinks fit for the purposes of the Union and its constituent bodies."
+   }
+  },
+  {
+   "id": "SG-H3357-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "heading": {
+    "en": "Application of Societies Act 1966 to Students’ Union"
+   },
+   "text": {
+    "en": "23.—(1) Despite anything to the contrary in the Societies Act 1966, the provisions of that Act apply to the Ngee Ann Polytechnic Students’ Union and its constituent bodies constituted by rules made under section 24(1).\n(2) The Minister charged with the responsibility for societies may, by order in the Gazette, exempt the Ngee Ann Polytechnic Students’ Union and any of its constituent bodies from all or any of the provisions of the Societies Act 1966 subject to any conditions specified in the order."
+   }
+  },
+  {
+   "id": "SG-H3357-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "heading": {
+    "en": "Rules"
+   },
+   "text": {
+    "en": "24.—(1) The Council may, with the approval of the Minister, make any rules that seem to it to be necessary or expedient for the purpose of carrying out the provisions of this Act.\n(2) Without limiting subsection (1), rules may be made for any of the following purposes or matters:\n(a)matters relating to the general administration and the academic management of the Polytechnic including —\n(i)the qualifications necessary for admission to the Polytechnic, the courses of instruction to be provided for students at the Polytechnic, the duration and number of terms at the Polytechnic and the award of certificates, diplomas and other academic qualifications; and\n(ii)the grant of scholarships and studentships and the revocation of any such grant;\n(b)the establishment of any scheme for the payment of gratuities, provident fund or other superannuation benefits to such employees or classes of employees of the Polytechnic as the Council may determine, on their death or retirement from the service of the Polytechnic or on their otherwise leaving the service of the Polytechnic;\n(c)the regulation of the proceedings of the Council, to the extent not inconsistent with the Public Sector (Governance) Act 2018;\n(d)the regulation of the keeping and presentation of accounts and the audit of accounts;\n(e)the fees to be charged for courses of study and any other fees or charges that may be levied by the Polytechnic, including charges for the late payment of any such fee or charge;\n[Act 4 of 2008 wef 01/04/2024]\n(f)the management of the library and laboratories and all other branches of activity of the Polytechnic not specifically provided for in this Act;\n(g)the constitution, powers and duties of any committee or board appointed under section 17(1);\n(h)the appointment, promotion, conduct, disciplinary control, dismissal and termination of service of the academic and administrative staff of the Polytechnic;\n[5/2018]\n(i)the conduct and disciplinary control of students.\n(3) All rules made under this section must be published in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H3357-A24.001",
+   "no": 24.001,
+   "noLabel": {
+    "en": "24A."
+   },
+   "heading": {
+    "en": "Validation of collection of charge for late payment of fee or charge"
+   },
+   "text": {
+    "en": "24A. Every amount collected before the date of commencement of the Statutes (Miscellaneous Amendments) Act 2008 as, or purportedly as, a charge for the late payment of any fee or charge referred to in section 24(2)(e) shall be deemed to be and always to have been validly collected, and no legal proceedings shall lie or be instituted or maintained in any court of law on account of or in respect of any such collection.\n[Act 4 of 2008 wef 01/04/2024]"
+   }
+  },
+  {
+   "id": "SG-H3357-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "heading": {
+    "en": "Construction of contracts, gifts, etc."
+   },
+   "text": {
+    "en": "25. On and after 16 April 1982, any reference to the Ngee Ann Technical College contained in any contract, agreement, bequest, will, trust or other instrument has effect as if it were a reference to the Ngee Ann Polytechnic."
+   }
+  }
+ ]
+}

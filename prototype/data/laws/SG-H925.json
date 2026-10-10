@@ -1,0 +1,211 @@
+{
+ "id": "SG-H925",
+ "title": {
+  "zh": null,
+  "en": "Criminal Procedure Code (Electronic Filing and Service for State Courts and Youth Courts) Regulations 2013",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p12",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CPC2010-S448-2013",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 13,
+ "chars": 19310,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CPC2010-S448-2013?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 13 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H925-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Criminal Procedure Code (Electronic Filing and Service for State Courts and Youth Courts) Regulations 2013 and shall come into operation on 19th July 2013.\n[S 145/2014 wef 07/03/2014]\n[S 647/2014 wef 01/10/2014]"
+   }
+  },
+  {
+   "id": "SG-H925-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "2. These Regulations shall apply only in relation to any criminal proceeding and any criminal matter in the District Court, Magistrate’s Court and Youth Court —\n(a)which relates to —\n(i)any pre-trial or plead guilty procedure;\n(ii)any procedure in respect of bails and bonds under Division 5 of Part VI of the Code;\n(iii)any procedure under section 370 of the Code;\n(iv)any procedure for the search of premises or persons and the seizure of property, including any procedure under section 35(7) of the Code (for the release of any property seized, or prohibited from being disposed of or dealt in, under section 35(1) of the Code);\n(v)any procedure for an inquiry to determine the order or orders to be made in respect of any property produced before the Court for which there are competing claims, other than any procedure under section 370 of the Code;\n(vi)any procedure for the surrender and return of travel documents under sections 112 and 113 of the Code;\n(vii)any procedure for issuing summonses to persons to appear before the Court under section 115 of the Code;\n(viia)any trial of any offence;\n[S 506/2014 wef 31/07/2014]\n(viii)any procedure for appeal under Division 1 of Part XX of the Code;\n(ix)any procedure for the taking of evidence under section 21 of the Mutual Assistance in Criminal Matters Act (Cap. 190A); or\n(x)any application for the issue of a warrant under section 10(1) or 24(1) of the Extradition Act (Cap. 103); and\n[S 87/2014 wef 17/02/2014]\n(b)which —\n(i)is instituted by or on behalf of the Public Prosecutor, a police officer, an officer from a law enforcement agency, or a person acting with the authority of a public body against one or more accused, whether or not represented by an advocate and solicitor;\n(ii)is instituted by a private complainant in a private prosecution who is represented by an advocate and solicitor against one or more accused, whether or not represented by an advocate and solicitor; or\n(iii)is a private prosecution by an unrepresented complainant against one or more accused who is represented by an advocate and solicitor.\n[S 87/2014 wef 17/02/2014]\n[S 647/2014 wef 01/10/2014]"
+   }
+  },
+  {
+   "id": "SG-H925-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "3. In these Regulations, unless the context otherwise requires —\n“application”, in the context of the filing, service, delivery or conveyance of an application by means of electronic transmission or by using the electronic filing service, means a written application or request relating to any criminal proceeding or criminal matter;\n[S 506/2014 wef 31/07/2014]\n“authorised agent”, in relation to an authorised user, means a person who is designated under regulation 6 by the authorised user to be the authorised user’s authorised agent;\n“authorised user” means any entity that is given access by the court to use the electronic filing system;\n“conditioned statement” means any statement which is intended to be admitted under section 264 of the Code;\n“confirmation receipt” means a confirmation that is transmitted to an authorised user or an authorised agent of the authorised user after the authorised user or authorised agent has filed any application or document through the electronic filing service;\n“court” means a District Court, a Magistrate’s Court or a Youth Court;\n[S 647/2014 wef 01/10/2014]\n“deemed” means deemed until the contrary is proved;\n“document” has the same meaning as in the Evidence Act (Cap. 97);\n“electronic filing” means the process by which an authorised user or an authorised agent files with, serves on, or delivers or conveys to the court any application or document by means of an electronic transmission;\n“electronic filing service” means the electronic filing service established under regulation 4;\n“electronic filing service provider” means the electronic filing service provider appointed under regulation 5;\n“electronic transmission” means electronic transmission by an authorised user or an authorised agent through the electronic filing service;\n“entity” means a sole proprietorship, an incorporated or unincorporated partnership (including a limited liability partnership and a limited partnership), a law corporation, a company or other body corporate, the Attorney-General’s Chambers, a department of the Government or a public authority;\n“identification code” means the identification code of an authorised user or an authorised agent that is to be used in conjunction with the electronic filing service;\n“Registrar” means —\n(a)the registrar of the State Courts, in relation to any criminal proceeding or criminal matter in a District Court or Magistrate’s Court; and\n(b)the registrar of the Family Justice Courts, in relation to any criminal proceeding or criminal matter in a Youth Court.\n[S 647/2014 wef 01/10/2014]"
+   }
+  },
+  {
+   "id": "SG-H925-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Establishment of electronic filing service"
+   },
+   "text": {
+    "en": "4.—(1) The Registrar may, with the approval of the Chief Justice, establish an electronic filing service for the filing, service, delivery or conveyance of —\n(a)any document initiating any criminal proceeding or any criminal matter to which these Regulations apply; and\n(b)every subsequent application and document relating to that proceeding or matter.\n(2) The court will maintain in electronic form the official case file for any criminal proceeding or criminal matter to which these Regulations apply, and the electronic documents in that case file shall be the official court record.\n(3) If a court makes an electronic record, document or image of a document that is filed, served, delivered or conveyed in hard copy, the electronic record, document or image shall be the official court record."
+   }
+  },
+  {
+   "id": "SG-H925-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Electronic filing service provider and superintendent"
+   },
+   "text": {
+    "en": "5.—(1) The electronic filing service shall be operated by an electronic filing service provider appointed by the Registrar with the approval of the Chief Justice.\n(2) The Registrar shall be the superintendent of any electronic filing service provider appointed under paragraph (1)."
+   }
+  },
+  {
+   "id": "SG-H925-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Authorised user and authorised agent"
+   },
+   "text": {
+    "en": "6.—(1) Any entity which is an authorised user may designate one or more of its officers or employees to be an authorised agent or authorised agents, in accordance with such procedure as may be required by the Registrar and on such terms and conditions as the Registrar thinks fit.\n(2) Any person so designated by an authorised user under paragraph (1) shall be given access by the administrator of the authorised user to use the electronic filing service."
+   }
+  },
+  {
+   "id": "SG-H925-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Electronic filing"
+   },
+   "text": {
+    "en": "7.—(1) Subject to paragraphs (4A), (4B) and (4C), every application or document referred to in regulation 4(1) must be filed, served, delivered or conveyed by an authorised user or an authorised agent using the electronic filing service in accordance with these Regulations and such other requirements as may be imposed by the Registrar.\n[S 506/2014 wef 31/07/2014]\n(2) The requirement in paragraph (1) for the filing, service, delivery or conveyance of any such application or document is satisfied by the filing, service, delivery or conveyance of a single copy of the application or document using the electronic filing service in accordance with these Regulations.\n(3) Notwithstanding paragraph (1), the Registrar may allow to be filed, served, delivered or conveyed any application or document referred to in regulation 4(1) by any means other than the electronic filing service.\n(4) The form of any application or document referred to in regulation 4(1) shall be —\n(a)as set out in such form as the Registrar may require; or\n(b)in the absence of such requirement, in the form prescribed by the Criminal Procedure Code (Prescribed Forms) Regulations 2010 (G.N. No. S 811/2010).\n(4A) Where a party —\n(a)is an authorised user or is represented by an advocate and solicitor who is an authorised user or an authorised agent; and\n(b)intends to tender a document as evidence to the court during a trial,\nthe party must file, before the commencement of the trial, an electronic reproduction of the document using the electronic filing service in accordance with these Regulations and such other requirements as may be imposed by the Registrar.\n[S 506/2014 wef 31/07/2014]\n(4B) A party shall not file an electronic reproduction of a document under paragraph (4A) if —\n(a)the party knows that another party objects to the admissibility of the document; or\n(b)the party intends to tender the document as evidence during any proceedings heard in camera.\n[S 506/2014 wef 31/07/2014]\n(4C) The court may, in its discretion, allow a party to tender a document as evidence during a trial, notwithstanding that the party has not complied with paragraph (4A).\n[S 506/2014 wef 31/07/2014]\n(4D) Paragraph (4) shall not apply to any document that is to be tendered to the court as evidence.\n[S 506/2014 wef 31/07/2014]\n(5) Any application or document which is filed, served, delivered or conveyed through the electronic filing service by an authorised user using an identification code shall be deemed to have been so filed, served, delivered or conveyed by the authorised user and with his intention to do so.\n(6) Any application or document which is filed, served, delivered or conveyed through the electronic filing service by an authorised agent of an authorised user using an identification code shall be deemed to have been so filed, served, delivered or conveyed —\n(a)on behalf and with the authority of the authorised user; and\n(b)with the intention of that authorised user to do so.\n(7) For the avoidance of doubt, every application or document which is filed with, served on, or delivered or conveyed to a court or the Registrar using an identification code in compliance with the security procedures of the electronic filing service shall be treated as a secure electronic record within the meaning of the Electronic Transactions Act (Cap. 88)."
+   }
+  },
+  {
+   "id": "SG-H925-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Signing of electronic documents"
+   },
+   "text": {
+    "en": "8.—(1) Where any application or document is filed, served, delivered or conveyed using the electronic filing service, any requirement under the Code relating to the signing by, or the signature of, an authorised user or an authorised agent of an authorised user, shall be deemed to be complied with if the identification code of the authorised user or authorised agent has been applied to or associated with, directly or indirectly, the application or document or the transmission containing the application or document.\n(2) For the purposes of paragraph (1) —\n(a)where the identification code of an authorised user is applied to or associated with, directly or indirectly, any application or document, or any transmission containing any application or document, which is in compliance with the security procedures of the electronic filing service —\n(i)the application or document shall be deemed to be signed by the authorised user; and\n(ii)the contents of the application or document shall be deemed to be endorsed by the authorised user; or\n(b)where the identification code of an authorised agent of an authorised user is applied to or associated with, directly or indirectly, any application or document, or any transmission containing any application or document, which is in compliance with the security procedures of the electronic filing service —\n(i)the application or document shall be deemed to be signed by the authorised agent on behalf and with the authority of the authorised user; and\n(ii)the contents of the application or document shall be deemed to be endorsed by that authorised user.\n(3) For the avoidance of doubt, the application or association of the identification code of an authorised user or an authorised agent of an authorised user, directly or indirectly, to or with any application or document, or any transmission containing any application or document, which is in compliance with the security procedures of the electronic filing service shall be treated as a secure electronic signature within the meaning of the Electronic Transactions Act (Cap. 88).\n[S 506/2014 wef 31/07/2014]"
+   }
+  },
+  {
+   "id": "SG-H925-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Date of filing"
+   },
+   "text": {
+    "en": "9.—(1) Where any application or document is filed, served, delivered or conveyed using the electronic filing service by an authorised user or an authorised agent of an authorised user, it shall be deemed to be filed, served, delivered or conveyed on the date and at the time that the first part of the electronic transmission of the application or document from the authorised user or authorised agent is received in the computer system of the court.\n(2) The authorised user or authorised agent may produce a confirmation receipt issued by the electronic filing service provider as evidence of —\n(a)the filing, service, delivery or conveyance of any application or document filed, served, delivered or conveyed by the authorised user or authorised agent; or\n(b)the date and time of filing, service, delivery or conveyance of the application or document.\n(3) If the Registrar is satisfied for any reason that any application or document should be treated as having been filed, served, delivered or conveyed using the electronic filing service, or issued by the court, at some earlier date and time than the date and time referred to in paragraph (1) —\n(a)the Registrar may cause the electronic filing service to reflect that earlier date and time; and\n(b)that earlier date and time shall be deemed for the purposes of any proceedings in court to be the date and time on and at which the application or document was filed, served, delivered or conveyed, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H925-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "10.—(1) If a document —\n(a)other than a document which is required by the Code to be served personally; or\n(b)being a document which is required by the Code to be served personally, and which the party upon whom it is to be served has agreed may be served using the electronic filing service,\nis required under any other provision of the Code to be served, delivered or conveyed by a person to any other person, and that other person is an authorised user or an authorised agent, or is represented by an advocate and solicitor who is an authorised user or an authorised agent, such service may be effected by using the electronic filing service by electronic transmission.\n(2) For the purpose of paragraph (1)(b), a party who has instructed his advocate and solicitor to accept service of a document which is required by the Code to be served personally shall be deemed to have agreed to be served using the electronic filing service.\n(3) Where a document is filed, served, delivered or conveyed by electronic transmission from the computer system of an authorised user or an authorised agent, the document shall be deemed to be so filed, served, delivered or conveyed on the date and at the time that the first part of the transmission from the authorised user or authorised agent is received in the computer system of the court.\n(4) The authorised user or authorised agent filing, serving, delivering or conveying the document may produce the confirmation receipt which includes the date and time of the filing, service, delivery or conveyance as evidence of the filing, service, delivery or conveyance as well as the date and time of such filing, service, delivery or conveyance.\n(5) Where a document has to be served, delivered or conveyed to 2 or more persons, the authorised user or authorised agent serving, delivering or conveying the document may effect such service, delivery or conveyance using the electronic filing service on such of those persons who are authorised users or authorised agents, and paragraphs (1) to (4) shall apply with such modifications as are necessary.\n(6) Any document which is served, delivered or conveyed by an authorised user to a person through the electronic filing service using an identification code shall be deemed to have been so served, delivered or conveyed by the authorised user and with his intention to do so.\n(7) Any document which is served, delivered or conveyed by an authorised agent of an authorised user to a person through the electronic filing service using an identification code shall be deemed to have been so served, delivered or conveyed —\n(a)on behalf and with the authority of the authorised user; and\n(b)with the intention of that authorised user to do so.\n(8) For the avoidance of doubt, any document which is served, delivered or conveyed to a person using an identification code in compliance with the security procedures of the electronic filing service shall be treated as a secure electronic record within the meaning of the Electronic Transactions Act (Cap. 88)."
+   }
+  },
+  {
+   "id": "SG-H925-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Applications and documents to comply with certain matters"
+   },
+   "text": {
+    "en": "11.—(1) Every application or document must —\n(a)comply with such requirements as may be imposed by the Registrar; and\n(b)contain such information and particulars of parties or other persons as may be required by the Registrar.\n(2) The Registrar, or any authorised officer or employee of the court, may reject any application or document if it does not comply with the Code, these Regulations or any requirement imposed by the Registrar.\n(3) Any application or document rejected under this regulation shall be treated as having been filed only on the date on which it is subsequently accepted for filing by the Registrar, or any authorised officer or employee of the court, and not before.\n(4) Every document, if not in the English language, must be accompanied by a translation thereof certified by a court interpreter, or a translation verified by the affidavit of a person qualified to translate it, before it may be received, filed or used in the court.\n(5) Amendments to any document shall be effected in such manner as may be determined by the Registrar."
+   }
+  },
+  {
+   "id": "SG-H925-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Issuance of orders and other documents by court"
+   },
+   "text": {
+    "en": "12.—(1) In any criminal proceeding or criminal matter to which these Regulations apply, a court may transmit or deliver, to any person who is an authorised user or an authorised agent, any order or document through the electronic filing service.\n(2) The personal service of the printed form of a summons transmitted electronically, or the execution of the printed form of a warrant, has the same legal effect as the personal service of an original summons or the execution of an original warrant."
+   }
+  },
+  {
+   "id": "SG-H925-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Affidavits and statements"
+   },
+   "text": {
+    "en": "13.—(1) Affidavits or conditioned statements which are filed in the court using the electronic filing service may be used in all proceedings to the same extent and for the same purposes as paper affidavits or conditioned statements filed in the court.\n(2) Where an affidavit is to be filed in the court using the electronic filing service, it shall comply with the following requirements:\n(a)the affidavit must be sworn in the usual way in which the deponent signs the original paper affidavit;\n(b)a true and complete electronic image of the original paper affidavit must be created; and\n(c)the original paper affidavit must be retained by the party who filed it for a period of 7 years after it is filed.\n(3) Notwithstanding sub-paragraph (c) of paragraph (2), if the original paper affidavit is lost or destroyed or for any other reason becomes unavailable at any time during the period referred to in that sub-paragraph, the court may grant leave for the electronic image of the original paper affidavit that had been filed in the court using the electronic filing service to be used in the proceedings for which it was filed, or in any other proceedings.\n(4) Paragraphs (2)(b) and (c) and (3) shall apply to conditioned statements to the same extent and in like manner as they apply to affidavits."
+   }
+  }
+ ]
+}

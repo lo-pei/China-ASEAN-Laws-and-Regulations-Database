@@ -1,0 +1,74 @@
+{
+ "id": "PH-H2439",
+ "title": {
+  "zh": null,
+  "en": "An Act to Prohibit the Importation of Coffee",
+  "orig": "An Act to Prohibit the Importation of Coffee"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p34",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1960-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2712",
+ "officialCode": null,
+ "topics": [
+  "trade"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2519,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1960/ra_2712_1960.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1960/ra_2712_1960.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H2439-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The importation of roasted coffee beans, roasted ground coffee, instant or soluble coffee in powder form, extract or concentrate in liquid form or finished coffee products in any form, raw coffee beans of the robusta, excelsa and liberica varieties, is hereby prohibited: Provided, However, That the importation of raw coffee beans of the arabica variety shall be gradually reduced as follows: starting with and during the year nineteen hundred and sixty, only seventy-five per cent of the nineteen hundred and fifty-nine foreign exchange allocation of bona fide and legitimate coffee roasters shall be allowed; on the second year (nineteen hundred and sixty-one), fifty per cent; on the third year (nineteen hundred and sixty-two), twenty-five per cent; on the fourth year (nineteen hundred and sixty-three), ten per cent; and on the fifth year (nineteen hundred and sixty-four), complete banning: Provided, further, That in case of shortage of locally produced arabica coffee, the President of the Philippines, upon recommendation of the Secretary of Agriculture and Natural Resources and the Chairman of the National Economic Council, may authorize the importation of the necessary quantity of raw arabica coffee beans to supplement the shortage."
+   }
+  },
+  {
+   "id": "PH-H2439-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Any person who violates this Act or who, being an officer or employee of the Government, violates, abets or tolerates the violation of this Act, shall be punished by a fine of five thousand pesos or imprisonment of five years, or both, at the discretion of the Court.\nIn case the offender is an officer or employee of the Government, he shall, in addition, suffer the penalty of perpetual disqualification to hold public office and to participate in any public election.\nIf the violation is committed by a corporation or association, the penalty shall be imposed individually upon the president, director, manager or managing partner, and other officials thereof responsible for the violation.\nIf the violation is committed by or in the interest of a foreign juridical person duly licensed to engage in business in the Philippines, the immediate revocation of such license shall form part of the penalty to be imposed.\nIf the offender is an alien, he shall, in addition to be penalty imposed by the Court, be deported within ten days after service of the sentence.\nCoffee imported in violation of this Act shall be confiscated by the Government and distributed to welfare and charitable institutions."
+   }
+  },
+  {
+   "id": "PH-H2439-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960."
+   }
+  }
+ ]
+}

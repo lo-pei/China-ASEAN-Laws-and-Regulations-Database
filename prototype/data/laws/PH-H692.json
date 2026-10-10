@@ -1,0 +1,65 @@
+{
+ "id": "PH-H692",
+ "title": {
+  "zh": null,
+  "en": "An Act Requiring Nautical or Maritime Schools to Have At Least One Training Ship Each",
+  "orig": "An Act Requiring Nautical or Maritime Schools to Have At Least One Training Ship Each"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p09",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1953-05-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 844",
+ "officialCode": null,
+ "topics": [
+  "trade",
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 960,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1953/ra_844_1953.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1953/ra_844_1953.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H692-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "All nautical or maritime schools shall have at least one training ship each.\nNo nautical or maritime school shall be recognized by the Government unless it has at least one ship for the practical training of its students: Provided, however, That any existing nautical or maritime school already recognized by the government shall provide itself with a training ship within the period of six months from the date of approval of this Act, and the failure of such school to provide itself with a training ship within said period shall result in the cancellation of its government recognition.\nThe Secretary of Education is authorized to exempt any nautical or maritime school from the requirements of this Act if he is satisfied that such school has an arrangement nth any shipping enterprise whereby its students may be given practical training in the ship or ships of such shipping enterprise."
+   }
+  },
+  {
+   "id": "PH-H692-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, May 7, 1953."
+   }
+  }
+ ]
+}

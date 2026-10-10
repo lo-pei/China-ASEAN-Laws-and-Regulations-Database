@@ -1,0 +1,366 @@
+{
+ "id": "SG-H811",
+ "title": {
+  "zh": null,
+  "en": "Consumer Protection (Conformity Assessment) Regulations 2025",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p10",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CPTDSRA1975-S428-2025",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 21,
+ "chars": 31318,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CPTDSRA1975-S428-2025?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 21 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H811-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Consumer Protection (Conformity Assessment) Regulations 2025 and come into operation on 1 July 2025."
+   }
+  },
+  {
+   "id": "SG-H811-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations —\n“alternate testing laboratory” means —\n(a)a testing laboratory or manufacturer’s testing laboratory that is recognised under the IECEE CB Scheme;\n(b)a testing laboratory that is recognised by a Foreign Recognition Body; or\n(c)a testing laboratory the test reports of which are agreed to be accepted by one or more CAB (Certification) or CAB (Testing) under an approved testing agreement;\n“approved testing agreement” means an agreement, approved by the Designating Authority, under which a CAB (Certification) or CAB (Testing) agrees with the proprietor of a testing laboratory to accept test reports issued by that testing laboratory;\n“CAB” or “conformity assessment body” means a person that performs conformity assessment or any test relating to conformity assessment;\n“CAB (Certification)” means a person designated as such by the Designating Authority under regulation 7 and includes a person deemed to be a CAB (Certification) under regulation 19(6);\n“CAB (Certification — MRA)” means a person designated by a country other than Singapore to carry out any certification of any product for the purposes of an MRA to which both Singapore and that country are parties;\n“CAB (Testing)” means a person designated as such by the Designating Authority under regulation 7 and includes a person deemed to be a CAB (Testing) under regulation 19(8);\n“CAB (Testing — MRA)” means a person designated by a country other than Singapore to carry out any testing of any product for the purposes of an MRA to which both Singapore and that country are parties;\n“certificate of conformity” has the meaning given by regulation 2(1) of the Consumer Protection (Safety Requirements) Regulations (Rg 1);\n“competent authority”, in relation to any country other than Singapore, means an authority whose functions under the law of that country include regulating the supply of safe consumer goods;\n“consumer goods” has the meaning given by section 2(1) of the Competition Act 2004;\n“country” includes a customs territory;\n“Designating Authority” means the Safety Authority as defined in section 2(1) of the Act;\n“Foreign Recognition Body” means an entity in a country other than Singapore that is authorised under any of the following agreements or arrangements to recognise CABs, testing laboratories or both, on behalf of that country:\n(a)the Asia Pacific Accreditation Cooperation Mutual Recognition Agreement;\n(b)the International Laboratory Accreditation Cooperation Mutual Recognition Agreement;\n(c)an MRA to which both Singapore and that country are parties;\n“IEC” means the International Electrotechnical Commission;\n“IECEE” means the International Electrotechnical Commission system for conformity testing and certification of Electrical Equipment;\n“IECEE CB Scheme” means the scheme known as the International Electrotechnical Commission System of Conformity Assessment Schemes for Electrotechnical Equipment and Components Certification Bodies Scheme, administered by the IEC;\n“ISO” means the International Organization for Standardization;\n“MRA” or “mutual recognition agreement” means —\n(a)a bilateral mutual recognition agreement or arrangement between Singapore and any other country; or\n(b)a multilateral mutual recognition agreement or arrangement between Singapore and 2 or more other countries,\nthat provides for (but is not limited to) the mutual recognition of standards, safety requirements and conformity assessment, testing or certification, of consumer goods, and the persons who carry out such conformity assessment, testing or certification.\n(2) For the purposes of these Regulations, the definition of “MRA” or “mutual recognition agreement” in paragraph (1) includes —\n(a)a bilateral mutual recognition agreement or arrangement between the Safety Authority and a competent authority of a country other than Singapore; and\n(b)a multilateral mutual recognition agreement or arrangement between the Safety Authority and 2 or more competent authorities of countries other than Singapore,\nand a reference in these Regulations to Singapore and a country other than Singapore in relation to an MRA mentioned in sub‑paragraph (a) or (b) is to be construed as a reference to the Safety Authority and the competent authority of the country other than Singapore, respectively."
+   }
+  },
+  {
+   "id": "SG-H811-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 DESIGNATION OF CONFORMITY ASSESSMENT BODIES"
+   },
+   "heading": {
+    "en": "Application for designation as CAB (Certification) or CAB (Testing)"
+   },
+   "text": {
+    "en": "3.—(1) An application by a person to the Designating Authority to be designated as a CAB (Certification) or a CAB (Testing) must be made in accordance with the provisions of this Part.\n(2) A person may apply to the Designating Authority to be designated as a CAB (Certification) to carry out one or both of the following:\n(a)certify whether any product to be supplied in Singapore that is specified in the First Schedule to the Consumer Protection (Safety Requirements) Regulations conforms to the safety requirements specified by the Safety Authority under those Regulations;\n(b)certify whether any product to be supplied in a country other than Singapore conforms to the applicable requirements specified in an MRA to which both Singapore and that country are parties.\n(3) A person may apply to the Designating Authority to be designated as a CAB (Testing) to carry out one or both of the following:\n(a)testing any product to be supplied in Singapore that is specified in the First Schedule to the Consumer Protection (Safety Requirements) Regulations for conformity to the safety requirements specified by the Safety Authority under those Regulations;\n(b)testing any product to be supplied in a country other than Singapore for conformity to the applicable requirements specified in an MRA to which both Singapore and that country are parties.\n(4) A person who, not being —\n(a)a CAB (Certification) designated to carry out the certification mentioned in paragraph (2)(a); or\n(b)a CAB (Certification — MRA),\nissues a certificate of conformity for the purposes of the registration of any product under regulation 7(1) of the Consumer Protection (Safety Requirements) Regulations, shall be guilty of an offence.\n(5) A person who, not being —\n(a)a CAB (Certification) designated to carry out the certification mentioned in paragraph (2)(b); or\n(b)a CAB (Certification — MRA),\ncertifies that any product to be supplied in a country other than Singapore conforms to the applicable requirements specified in an MRA to which both Singapore and that country are parties, shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H811-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 DESIGNATION OF CONFORMITY ASSESSMENT BODIES"
+   },
+   "heading": {
+    "en": "Criteria for designation"
+   },
+   "text": {
+    "en": "4. Any person is eligible to be designated as a CAB (Certification) or a CAB (Testing) who —\n(a)carries on —\n(i)in the case of an application for designation as a CAB (Certification), a business of conformity assessment in Singapore or in a country specified in the First Schedule; and\n(ii)in the case of an application for designation as a CAB (Testing), a business of testing of products relating to conformity assessment in Singapore or in a country other than Singapore;\n(b)has sufficient capital and financial resources to maintain viable operations as a CAB;\n(c)is accredited for compliance with an ISO or IEC standard relevant to the designation applied for by an accreditation body that is —\n(i)a party to one or more of the following arrangements:\n(A)the International Accreditation Forum Multilateral Recognition Arrangement;\n(B)the Asia Pacific Accreditation Cooperation Multilateral Recognition Arrangement;\n(C)the International Laboratory Accreditation Cooperation Mutual Recognition Arrangement; or\n(ii)a member of the IECEE CB Scheme, if the designation applied for is in respect of an electrical or electronic product;\n(d)has the knowledge, capability, competence and equipment to perform the certification or testing for conformity to the requirements relevant to the designation applied for;\n(e)does not carry on or otherwise have any interest in any business which may cause the applicant to certify or test any product in respect of which the application is made in an unfair or a biased manner; and\n(f)in the case of —\n(i)an application for designation as a CAB (Certification) to carry out certification of any product to be supplied in a country other than Singapore; or\n(ii)an application for designation as a CAB (Testing) to carry out testing of any product to be supplied in a country other than Singapore,\nalso satisfies all the criteria required for the designation applied for under the relevant MRA to which both Singapore and that country are parties."
+   }
+  },
+  {
+   "id": "SG-H811-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 DESIGNATION OF CONFORMITY ASSESSMENT BODIES"
+   },
+   "heading": {
+    "en": "Application for designation"
+   },
+   "text": {
+    "en": "5.—(1) An application for designation as a CAB (Certification) or CAB (Testing) must be made to the Designating Authority in the form that the Designating Authority determines.\n(2) For the purposes of an application under paragraph (1) —\n(a)the applicant must provide to the Designating Authority the documents and information that the Designating Authority requires; and\n(b)the applicant must provide the Designating Authority, or any person that the Designating Authority may authorise, access to the laboratory or other premises of the applicant to enable the Designating Authority or that person to observe and assess the testing procedures of the applicant, as may be necessary."
+   }
+  },
+  {
+   "id": "SG-H811-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 DESIGNATION OF CONFORMITY ASSESSMENT BODIES"
+   },
+   "heading": {
+    "en": "Application fee, costs and expenses for designation"
+   },
+   "text": {
+    "en": "6.—(1) The fee specified in the Second Schedule is payable together with an application mentioned in regulation 5 and is not refundable.\n(2) Where the Designating Authority, or any person authorised by the Designating Authority, conducts any observation or assessment under regulation 5(2)(b), the Designating Authority may require the applicant to pay to it all reasonable costs and expenses incurred by the Designating Authority or that person in conducting the observation or assessment."
+   }
+  },
+  {
+   "id": "SG-H811-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 DESIGNATION OF CONFORMITY ASSESSMENT BODIES"
+   },
+   "heading": {
+    "en": "Approval of designation and issue of Certificate of Designation"
+   },
+   "text": {
+    "en": "7.—(1) Upon receipt of an application under regulation 5, the Designating Authority may, in its discretion —\n(a)approve the application, subject to any conditions that the Designating Authority thinks fit; or\n(b)refuse the application.\n(2) Where the Designating Authority approves an application under regulation 5, the Designating Authority must issue to the applicant a Certificate of Designation in the form that the Designating Authority determines."
+   }
+  },
+  {
+   "id": "SG-H811-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 DESIGNATION OF CONFORMITY ASSESSMENT BODIES"
+   },
+   "heading": {
+    "en": "Duration and renewal of designation"
+   },
+   "text": {
+    "en": "8.—(1) Subject to these Regulations, the designation of a CAB is valid for a period of 3 years and may be renewed, subject to any additional conditions that the Designating Authority thinks fit.\n(2) Unless the Designating Authority otherwise allows, an application for renewal of designation of a CAB must be made to the Designating Authority at least 6 months before the designation of the CAB expires."
+   }
+  },
+  {
+   "id": "SG-H811-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 DESIGNATION OF CONFORMITY ASSESSMENT BODIES"
+   },
+   "heading": {
+    "en": "Application of regulations 4 to 7 to renewal of designation"
+   },
+   "text": {
+    "en": "9. Regulations 4 to 7 apply, with the necessary modifications, to a renewal of designation of a CAB."
+   }
+  },
+  {
+   "id": "SG-H811-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 DESIGNATION OF CONFORMITY ASSESSMENT BODIES"
+   },
+   "heading": {
+    "en": "Register of CABs"
+   },
+   "text": {
+    "en": "10.—(1) The Designating Authority must keep and maintain a register that contains the names and any particulars of the CABs, which are designated by the Designating Authority, that the Designating Authority may determine.\n(2) Where —\n(a)the designation of the CAB expires and is not renewed in accordance with regulation 8;\n(b)the CAB applies to the Designating Authority for its designation to be withdrawn; or\n(c)the designation of the CAB is suspended or withdrawn under Part 4,\nthe Designating Authority may remove the details of the CAB from the register or indicate against the details of the CAB in the register the fact of the expiry, suspension or withdrawal of designation."
+   }
+  },
+  {
+   "id": "SG-H811-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 DUTIES AND OBLIGATIONS OF CONFORMITY ASSESSMENT BODIES DESIGNATED BY DESIGNATING AUTHORITY"
+   },
+   "heading": {
+    "en": "Information to be provided to Designating Authority"
+   },
+   "text": {
+    "en": "11.—(1) A CAB designated by the Designating Authority must, where applicable, maintain and make available to the Designating Authority information on all or any of the following relating to its designation:\n(a)product certifications;\n(b)submissions of testing;\n(c)evaluation reports;\n(d)certification reports;\n(e)evidence of participation in proficiency testing or any other comparison exercise mentioned in regulation 15(3)(b);\n(f)any other documents and information in connection with the business of conformity assessment or testing of products relating to conformity assessment of the CAB relevant to its designation that the Designating Authority may require.\n(2) Where a CAB (Certification) knows or has reason to believe that a product certified by it as conforming to any safety requirements for the purposes of the Consumer Protection (Safety Requirements) Regulations no longer conforms to those safety requirements, the CAB (Certification) must immediately notify the Designating Authority in writing and any person to whom the CAB (Certification) has provided that certification.\n(3) A CAB designated by the Designating Authority must notify the Designating Authority in writing of the occurrence of any of the following not later than 2 weeks before that occurrence:\n(a)the cessation of its business of conformity assessment or testing of products relating to conformity assessment for which it is designated;\n(b)where the CAB is a company (other than a public listed company) — any change to its shareholding;\n(c)any change to its organisational structure;\n(d)any change to its accreditation status or its IECEE CB Scheme membership, as the case may be;\n(e)any change to its key personnel;\n(f)any change to its business address;\n(g)any change which may affect its ability to properly certify or test any product for conformity to the requirements for which it is designated.\n(4) A CAB that contravenes paragraph (1) or (3) shall be guilty of an offence.\n(5) In paragraph (3)(e), “key personnel” means any director, managing director, technical manager, quality manager or testing personnel of the CAB."
+   }
+  },
+  {
+   "id": "SG-H811-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 DUTIES AND OBLIGATIONS OF CONFORMITY ASSESSMENT BODIES DESIGNATED BY DESIGNATING AUTHORITY"
+   },
+   "heading": {
+    "en": "Complying with request for conformity assessment or testing of products relating to conformity assessment without delay"
+   },
+   "text": {
+    "en": "12. Where a CAB designated by the Designating Authority accepts a request to certify or test any product for conformity to the requirements for which it is designated, the CAB must carry out the request without delay, unless it has good reason for not doing so."
+   }
+  },
+  {
+   "id": "SG-H811-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 DUTIES AND OBLIGATIONS OF CONFORMITY ASSESSMENT BODIES DESIGNATED BY DESIGNATING AUTHORITY"
+   },
+   "heading": {
+    "en": "CAB (Certification) to accept test conducted by CAB (Testing), etc."
+   },
+   "text": {
+    "en": "13.—(1) Subject to paragraph (2), where a CAB (Certification) is requested to certify that a product conforms to the safety requirements specified by the Safety Authority under the Consumer Protection (Safety Requirements) Regulations, the CAB (Certification) must accept as correct a test report on that product issued by any CAB (Testing), CAB (Testing — MRA) or alternate testing laboratory.\n(2) A CAB (Certification) must not cause another test to be conducted unless it has reason to believe that any test that was used to produce a test report mentioned in paragraph (1) was —\n(a)improperly or incorrectly conducted; or\n(b)conducted at a time when —\n(i)the designation of the CAB (Testing) that conducted the test was suspended or withdrawn under —\n(A)the Enterprise Singapore Board (Conformity Assessment) Regulations 2018 (G.N. No. S 686/2018) as in force before 1 July 2025; or\n(B)these Regulations;\n(ii)the designation of the CAB (Testing — MRA) that conducted the test was suspended or withdrawn by the country that designated it; or\n(iii)the testing laboratory that conducted the test was no longer an alternate testing laboratory."
+   }
+  },
+  {
+   "id": "SG-H811-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 DUTIES AND OBLIGATIONS OF CONFORMITY ASSESSMENT BODIES DESIGNATED BY DESIGNATING AUTHORITY"
+   },
+   "heading": {
+    "en": "Technical file"
+   },
+   "text": {
+    "en": "14.—(1) A CAB (Certification) must maintain a technical file on every product that it certifies.\n(2) A technical file maintained by a CAB (Certification) must include the documents and information specified by the Designating Authority and the CAB (Certification) must keep the technical file for a period of at least 10 years after the date of expiry of the last certificate of conformity issued by that CAB (Certification) for the product in respect of which the technical file is maintained.\n(3) A technical file maintained by a CAB (Certification) that carries out certification of any product to be supplied in a country other than Singapore for conformity to the applicable requirements specified in an MRA to which both Singapore and that country are parties, must —\n(a)include the documents and information required for the purposes of the relevant MRA; and\n(b)be kept for the period of time required for the purposes of the relevant MRA.\n(4) A CAB (Certification) must make available to the Designating Authority any technical file maintained by it within 7 days after receipt by the CAB (Certification) of a request from the Designating Authority for the technical file.\n(5) A CAB (Certification) that contravenes any provision of this regulation shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H811-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 DUTIES AND OBLIGATIONS OF CONFORMITY ASSESSMENT BODIES DESIGNATED BY DESIGNATING AUTHORITY"
+   },
+   "heading": {
+    "en": "Standards of CABs"
+   },
+   "text": {
+    "en": "15.—(1) A CAB designated by the Designating Authority must, throughout the period of its designation, remain eligible for designation under regulation 4.\n(2) A CAB designated by the Designating Authority must, throughout the period of its designation —\n(a)maintain the standards of practice as are necessary for the CAB to properly carry out the certification or testing of products (as the case may be) to the relevant requirements for which the CAB is designated; and\n(b)comply with the guidelines as to the standards of practice that the Designating Authority may, from time to time, issue.\n(3) For the purpose of monitoring compliance with paragraphs (1) and (2), the Designating Authority may —\n(a)conduct any surveillance assessment that the Designating Authority thinks fit; and\n(b)require the CAB to participate in proficiency testing or any other comparison exercise that the Designating Authority may reasonably require.\n(4) For the purposes of paragraph (3), the Designating Authority may require the CAB to pay to it all reasonable costs and expenses incurred by the Designating Authority in conducting any surveillance assessment.\n(5) A person who obstructs the Designating Authority or any person authorised by the Designating Authority in the conduct of any surveillance assessment mentioned in paragraph (3)(a) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H811-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 DUTIES AND OBLIGATIONS OF CONFORMITY ASSESSMENT BODIES DESIGNATED BY DESIGNATING AUTHORITY"
+   },
+   "heading": {
+    "en": "Advertising by CAB designated by Designating Authority"
+   },
+   "text": {
+    "en": "16.—(1) A CAB designated by the Designating Authority must not advertise or otherwise represent its designation in any way that suggests or implies any of the following:\n(a)that the CAB is entitled to certify or test any product for conformity to any requirement for which the CAB is not designated;\n(b)that the Designating Authority is responsible for any service provided by the CAB or that the CAB is an agent or a representative of the Designating Authority;\n(c)that the product the CAB is designated to certify or test is approved by the Designating Authority for any particular use.\n(2) A CAB whose designation has been suspended or withdrawn under Part 4 must immediately discontinue any advertisement relating to its designation, and must not make any further advertisement or other representation as to that designation."
+   }
+  },
+  {
+   "id": "SG-H811-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 SUSPENSION AND WITHDRAWAL OF DESIGNATION"
+   },
+   "heading": {
+    "en": "Suspension and withdrawal of designation"
+   },
+   "text": {
+    "en": "17.—(1) The Designating Authority may withdraw the designation of a CAB where —\n(a)the CAB ceases to carry on the business of conformity assessment or testing of products relating to conformity assessment for which the CAB is designated;\n(b)the CAB fails or neglects to properly certify or test any product for conformity to the requirements for which the CAB is designated;\n(c)the CAB has contravened, is contravening or is likely to contravene any provision of Part 3;\n(d)the CAB is guilty of any offence involving fraud or dishonesty;\n(e)the CAB has contravened, is contravening or is likely to contravene any condition imposed by the Designating Authority on its designation;\n(f)the CAB is unable to properly certify or test any product for conformity to the requirements for which the CAB is designated;\n(g)the CAB fails to pay to the Designating Authority any costs or expenses required under these Regulations;\n(h)the CAB is for some other reason not fit to continue as a CAB designated by the Designating Authority; or\n(i)in the case of —\n(i)a CAB (Certification) designated to carry out any certification of any product to be supplied in a country other than Singapore for conformity to the applicable requirements specified in an MRA to which both Singapore and that country are parties; or\n(ii)a CAB (Testing) designated to carry out any testing of any product to be supplied in a country other than Singapore for conformity to the applicable requirements specified in an MRA to which both Singapore and that country are parties,\nthe relevant MRA so requires.\n(2) Where the Designating Authority is satisfied that any ground for withdrawing the designation of a CAB exists —\n(a)the Designating Authority must notify the CAB in writing and must specify, in that notification —\n(i)the ground entitling the Designating Authority to withdraw the designation of the CAB; and\n(ii)a period (of at least 14 days) within which the CAB may provide to the Designating Authority any explanation it may wish to offer and to inform the Designating Authority if it wishes to be heard; and\n(b)the designation of the CAB is suspended as from the date of that notification.\n(3) After considering any explanation of the CAB and after providing the CAB with a reasonable opportunity to be heard under paragraph (2), the Designating Authority —\n(a)may make any of the following decisions:\n(i)subject to any conditions that the Designating Authority thinks fit, lift the suspension on the designation of the CAB;\n(ii)withdraw the designation of the CAB; and\n(b)must notify the CAB in writing of its decision.\n(4) A person whose designation as a CAB (Certification) has been suspended or withdrawn must not, during the period of the suspension or starting on the date of the withdrawal, as the case may be —\n(a)issue any certificate of conformity for the purposes of the registration of any product under regulation 7(1) of the Consumer Protection (Safety Requirements) Regulations; or\n(b)certify that any product to be supplied in a country other than Singapore conforms to the applicable requirements specified in an MRA to which both Singapore and that country are parties.\n(5) A CAB (Certification) that contravenes paragraph (4) shall be guilty of an offence.\n(6) For the purposes of this regulation, the Designating Authority may require any person whom the Designating Authority believes to have knowledge of a matter —\n(a)to produce for inspection any book, document, paper or other record relating to or connected with the matter; and\n(b)to give any information relating to or connected with the matter that the Designating Authority may require.\n(7) For the purposes of paragraph (1)(d), the Designating Authority may accept the conviction of the CAB as final and conclusive.\n(8) The Designating Authority may require the CAB concerned to pay to it any costs and expenses of and incidental to any inquiry conducted under this regulation that the Designating Authority thinks fit.\n(9) Where the provisions of an MRA require the suspension or withdrawal of the designation of a CAB (Certification) or CAB (Testing) to carry out certification or testing of any product to be supplied in a country that is a party to the MRA, then this regulation applies with any modifications that may be necessary to enable those provisions to be complied with."
+   }
+  },
+  {
+   "id": "SG-H811-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Penalty"
+   },
+   "text": {
+    "en": "18. A person who is guilty of an offence under regulation 3(4) or (5), 11(4), 14(5), 15(5) or 17(5) shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H811-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Saving and transitional provisions"
+   },
+   "text": {
+    "en": "19.—(1) Any agreement that was an approved testing agreement as defined in regulation 2 of the revoked Regulations immediately before the specified date is on and after that date treated as an approved testing agreement as defined in regulation 2(1) of these Regulations.\n(2) Where an application to be designated as a CAB (Certification) made under regulation 5 of the revoked Regulations is pending immediately before the specified date, the application is on and after that date treated as an application to be designated as a CAB (Certification) under regulation 5 of these Regulations.\n(3) Where an application for renewal of designation as a CAB (Certification) made under regulation 5 (as applied by regulation 9) of the revoked Regulations is pending immediately before the specified date, the application is on and after that date treated as an application for renewal of designation as a CAB (Certification) under regulation 5 (as applied by regulation 9) of these Regulations.\n(4) Where an application to be designated as a CAB (Testing) made under regulation 5 of the revoked Regulations is pending immediately before the specified date, the application is on and after that date treated as an application to be designated as a CAB (Testing) under regulation 5 of these Regulations.\n(5) Where an application for renewal of designation as a CAB (Testing) made under regulation 5 (as applied by regulation 9) of the revoked Regulations is pending immediately before the specified date, the application is on and after that date treated as an application for renewal of designation as a CAB (Testing) under regulation 5 (as applied by regulation 9) of these Regulations.\n(6) A person who, immediately before the specified date, was a CAB (Certification) as defined in regulation 2 of the revoked Regulations, is on and after that date deemed to be a CAB (Certification) under these Regulations for the remaining period of the person’s designation as such, subject to any condition to which that designation was subject immediately before that date.\n(7) Regulation 11(1) applies to a person mentioned in paragraph (6) in relation to any document or information mentioned in regulation 11(1) in connection with its business of conformity assessment carried on before the specified date (including any evidence of participation in proficiency testing or any other comparison exercise mentioned in regulation 15(3)(b) of the revoked Regulations), as it applies to that document or information in connection with that business carried on by that person on or after that date.\n(8) A person who, immediately before the specified date, was a CAB (Testing) as defined in regulation 2 of the revoked Regulations, is on and after that date deemed to be a CAB (Testing) under these Regulations for the remaining period of the person’s designation as such, subject to any condition to which that designation was subject immediately before that date.\n(9) Regulation 11(1) applies to a person mentioned in paragraph (8) in relation to any document or information mentioned in regulation 11(1) in connection with its business of testing carried on before the specified date (including any evidence of participation in proficiency testing or any other comparison exercise mentioned in regulation 15(3)(b) of the revoked Regulations), as it applies to that document or information in connection with that business carried on by that person on or after that date.\n(10) Any notification given by a person mentioned in paragraph (6) or (8) under regulation 11(2) or (3) of the revoked Regulations before the specified date is treated as having been given under regulation 11(2) or (3) of these Regulations, respectively.\n(11) Regulation 14 applies to a person mentioned in paragraph (6) in relation to a product that it certified before the specified date, as it applies to that person in relation to a product that it certifies on or after that date, except that the period for which the technical file for the product is to be maintained under regulation 14(2) or (3) (as the case may be) is substituted with the unexpired period for which the technical file is to be maintained under regulation 14 of the revoked Regulations.\n(12) Any request given by the old Designating Authority under regulation 14(4) of the revoked Regulations before the specified date is on and after that date treated as having been given by the Designating Authority under regulation 14(4) of these Regulations and must be complied with before the expiry of the 7‑day period mentioned in regulation 14(4) of the revoked Regulations.\n(13) Regulation 17(1) and (2) applies to a person mentioned in paragraph (6) or (8) in relation to any ground mentioned in regulation 17(1) that arose before the specified date, as it applies to that person in relation to any such ground that arises on or after the specified date, with the following modifications:\n(a)the reference in regulation 17(1)(a) to the business of conformity assessment or testing of products relating to conformity assessment for which the person is designated includes the business for which the person was designated under the revoked Regulations;\n(b)the reference in regulation 17(1)(b) and (f) to the requirements for which the person is designated includes the requirements for which the person was designated under the revoked Regulations;\n(c)the reference in regulation 17(1)(c) to any provision of Part 3 includes any provision of Part 3 of the revoked Regulations;\n(d)the reference in regulation 17(1)(e) to any condition imposed by the Designating Authority on the person’s designation includes any condition imposed by the old Designating Authority on the person’s designation under the revoked Regulations;\n(e)the reference in regulation 17(1)(g) to a failure to pay the Designating Authority any costs and expenses required under these Regulations includes a failure to pay the old Designating Authority any costs and expenses required under the revoked Regulations.\n(14) Paragraph (15) applies where —\n(a)the old Designating Authority had under regulation 17(2) of the revoked Regulations given a person mentioned in paragraph (6) or (8) a reasonable opportunity to be heard against the withdrawal of a designation under the revoked Regulations; and\n(b)either of the following applies:\n(i)the time period mentioned in regulation 17(2)(a)(ii) of the revoked Regulations had not expired before the specified date;\n(ii)the time period mentioned in regulation 17(2)(a)(ii) of the revoked Regulations had expired before the specified date but the old Designating Authority had not before the specified date, notified the person in writing of its decision under regulation 17(3) of the revoked Regulations.\n(15) The Designating Authority is treated as having given the person mentioned in paragraph (14) a reasonable opportunity to be heard under regulation 17(2) of these Regulations and the Designating Authority may —\n(a)where paragraph (14)(b)(i) applies, upon the expiry of the time period mentioned in regulation 17(2)(a)(ii) of the revoked Regulations, deal with the person in accordance with regulation 17(3) of these Regulations; and\n(b)where paragraph (14)(b)(ii) applies, deal with the person in accordance with regulation 17(3) of these Regulations.\n(16) Where a person’s designation as a CAB (Certification) or CAB (Testing) is suspended or withdrawn under regulation 17 of the revoked Regulations as at the date immediately before the specified date, the suspension or withdrawal continues on and after the specified date as if it were a suspension or withdrawal (as the case may be) of the person’s designation as a CAB (Certification) or CAB (Testing) (as the case may be) under regulation 17 of these Regulations.\n(17) In this regulation —\n“old Designating Authority” means the Designating Authority as defined in regulation 2 of the revoked Regulations;\n“revoked Regulations” means the Enterprise Singapore Board (Conformity Assessment) Regulations 2018 as in force immediately before the specified date;\n“specified date” means 1 July 2025."
+   }
+  },
+  {
+   "id": "SG-H811-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 4(a)(i)\nSpecified countries\n1.Countries that are parties to the European Union-Singapore Free Trade Agreement\n2.Turkey\n3.The United Kingdom of Great Britain and Northern Ireland"
+   }
+  },
+  {
+   "id": "SG-H811-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 6(1)\nFees\n1.Application for or renewal of designation —\n(a)as a CAB (Certification)\n$500\n(b)as a CAB (Testing)\n$500"
+   }
+  }
+ ]
+}

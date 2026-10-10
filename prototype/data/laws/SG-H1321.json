@@ -1,0 +1,68 @@
+{
+ "id": "SG-H1321",
+ "title": {
+  "zh": null,
+  "en": "Enterprise Singapore Board (Fees — Registration of Representative Office) Regulations 2025",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p17",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ESBA2018-S789-2025",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 472,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ESBA2018-S789-2025?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 2 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1321-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Enterprise Singapore Board (Fees — Registration of Representative Office) Regulations 2025 and come into operation on 11 December 2025."
+   }
+  },
+  {
+   "id": "SG-H1321-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Fees relating to registration of representative office in Singapore"
+   },
+   "text": {
+    "en": "2.—(1) A fee of $200 is payable for each of the following:\n(a)an application to register a representative office in Singapore pursuant to section 6(2)(f) of the Act;\n(b)an application to renew such registration.\n(2) The Board may waive, remit or refund, wholly or in part, any fee mentioned in paragraph (1)."
+   }
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "MY-H091",
+ "title": {
+  "zh": "商标法_1976",
+  "en": "商标法（Trade Marks Act 1976）",
+  "orig": null
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-p05",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚官方发布渠道",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 1362,
+ "source": {
+  "name": "马来西亚官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "文本未能可靠切分为条文（或原件为目录式排版），按整篇收录，未作改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "MY-H091-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "--- 原文标题: LAWS OF MALAYSIA — Act 175 — TRADE MARKS ACT 1976 法案编号: Act 175 中文译名: 商标法英文译名: Trade Marks Act 1976 来源URL: https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20175.pdf 颁布日期: 1976-06-21（御准） 生效日期: 1983-09-01 修订日期: 截至2006-01-01（本重印本所纳修订） 版本: Reprint incorporating all amendments up to 1 January 2006 抓取日期: 2026-10-04 语种: en 页数: 82 SHA256: dd9183a4c80652b2aa5f61ec9b22869aef10f7a0746cacdb87fd95465189600c 去重情况: 单一来源（AGC官方；非私营镜像） 备注: 【需人工复核】AGC LOM现行条目挂载的英文PDF（outputaktap/Act 175 original.pdf）服务器端返回HTTP 500不可下载，本文件取自AGC官方 LOM/EN 目录的同法重印本（含至2006-01-01修订）；AGC目录标注该法现行更新本为 As at 27-12-2019，本次未能取得对应英文PDF，条文以本文件为准时需人工比对2019年后修订。\n--- # 商标法（Trade Marks Act 1976） - 原文标题：LAWS OF MALAYSIA — Act 175 — TRADE MARKS ACT 1976 - 法案编号：Act 175 - 官方来源：https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20175.pdf - 颁布日期：1976-06-21（御准） - 生效日期：1983-09-01 - 修订日期：截至2006-01-01（本重印本所纳修订） - 版本：Reprint incorporating all amendments up to 1 January 2006 - 抓取日期：2026-10-04 - 语种：en - 页数：82 - SHA256：dd9183a4c80652b2aa5f61ec9b22869aef10f7a0746cacdb87fd95465189600c - 去重情况：单一来源（AGC官方；非私营镜像） - 备注：【需人工复核】AGC LOM现行条目挂载的英文PDF（outputaktap/Act 175 original.pdf）服务器端返回HTTP 500不可下载，本文件取自AGC官方 LOM/EN 目录的同法重印本（含至2006-01-01修订）；AGC目录标注该法现行更新本为 As at 27-12-2019，本次未能取得对应英文PDF，条文以本文件为准时需人工比对2019年后修订。\n> 说明：官方原文为 PDF，无法内嵌前置元数据页，故以本 .meta.md 侧车文件记录来源与版本信息。正文见同名 PDF，逐字照录未作改写、摘要或删节。"
+   }
+  }
+ ]
+}

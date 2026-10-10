@@ -1,0 +1,490 @@
+{
+ "id": "SG-H1556",
+ "title": {
+  "zh": null,
+  "en": "Financial Holding Companies (Corporate Governance of Designated Financial Holding Companies with Licensed Insurer Subsidiary) Regulations 2022",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p20",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation FHCA2013-S521-2022",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 28,
+ "chars": 48401,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/FHCA2013-S521-2022?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 28 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1556-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Financial Holding Companies (Corporate Governance of Designated Financial Holding Companies with Licensed Insurer Subsidiary) Regulations 2022 and come into operation on 30 June 2022."
+   }
+  },
+  {
+   "id": "SG-H1556-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations, unless the context otherwise requires —\n“associate” has the meaning given by paragraph 1 of the Schedule to the Act;\n“Audit Committee” means an Audit Committee mentioned in regulation 17;\n“Board”, in relation to a DFHC (Licensed Insurer), means the board of directors of the DFHC (Licensed Insurer);\n“designated FHC” or “DFHC” means a designated financial holding company;\n“designated FHC with licensed insurer subsidiary” or “DFHC (Licensed Insurer)” means a DFHC that has a subsidiary that is a licensed insurer incorporated, formed or established in Singapore;\n“executive director”, in relation to a corporation, means a director who is concurrently an executive officer of that corporation, and “non‑executive director” is to be construed accordingly;\n“FHC” means a financial holding company;\n“financial year” has the meaning given by section 4(1) of the Companies Act 1967;\n“immediate family”, in relation to an individual, means the individual’s spouse, child, adopted child, stepchild, parent, step‑parents, brother, stepbrother, sister or stepsister;\n“independent director”, in relation to a DFHC (Licensed Insurer), means a director who —\n(a)is independent from any management and business relationship with the DFHC (Licensed Insurer);\n(b)is independent from any substantial shareholder of the DFHC (Licensed Insurer); and\n(c)has not served on the Board for a continuous period of 9 years or longer;\n“Nominating Committee” means a Nominating Committee mentioned in regulation 11;\n“Remuneration Committee” means a Remuneration Committee mentioned in regulation 16;\n“Risk Management Committee” means a Risk Management Committee mentioned in regulation 18.\n(2) In these Regulations, in relation to a company that has dispensed with the holding of annual general meetings under section 175A of the Companies Act 1967 —\n(a)a reference to the doing of anything at an annual general meeting is a reference to the doing of that thing by way of a resolution by written means in accordance with the Companies Act 1967; and\n(b)a reference to the date of an annual general meeting of such a company is, unless the meeting is held, a reference to the date of expiry of the period within which the meeting is required by law to be held."
+   }
+  },
+  {
+   "id": "SG-H1556-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Tier 1 and Tier 2 DFHC (Licensed Insurer)"
+   },
+   "text": {
+    "en": "3.—(1) For the purposes of these Regulations, a DFHC (Licensed Insurer) is —\n(a)a Tier 1 DFHC (Licensed Insurer) if —\n(i)the DFHC (Licensed Insurer) holds, directly or indirectly, any share in one or more insurance companies carrying on life business, and the consolidated total assets of the FHC group of the DFHC (Licensed Insurer) is $20 billion or more in value or its equivalent in any foreign currency;\n(ii)all insurance companies in the FHC group of the DFHC (Licensed Insurer) carry on only general business, and the consolidated total gross premium of the FHC group of the DFHC (Licensed Insurer) is $2 billion or more in value or its equivalent in any foreign currency; or\n(iii)the DFHC (Licensed Insurer) has at least one subsidiary that is a Tier 1 insurer; and\n(b)a Tier 2 DFHC (Licensed Insurer) if the DFHC (Licensed Insurer) does not satisfy any of the requirements under sub‑paragraph (a)(i), (ii) or (iii) as a Tier 1 DFHC (Licensed Insurer).\n(2) For the purposes of paragraph (1) —\n(a)the consolidated total assets of the FHC group of a DFHC (Licensed Insurer) refer to “Total Assets” as reported under the column on “Group (Consolidated Accounts)” in Form 1A of the latest annual returns submitted by the DFHC (Licensed Insurer) to the Authority in accordance with FHC‑N129 Notice to Designated Financial Holding Companies, Financial Holding Companies Act 2013 on Returns; and\n(b)the consolidated total gross premium of the FHC Group of a DFHC (Licensed Insurer) refers to “Gross Premium” as reported under the column on “Group (Consolidated Accounts)” in Form 2A of the latest annual returns submitted by the DFHC (Licensed Insurer) to the Authority in accordance with FHC‑N129 Notice to Designated Financial Holding Companies, Financial Holding Companies Act 2013 on Returns.\n(3) In this regulation —\n“foreign country” means any country or territory other than Singapore;\n“general business” has the meaning given by section 3(1)(b) of the Insurance Act 1966;\n“insurance company” means any company that is carrying on insurance business, whether or not it is approved, licensed, registered, authorised, or otherwise regulated by the Authority, or a regulatory authority of a foreign country, to carry on insurance business;\n“life business” has the meaning given by section 3(1)(a) of the Insurance Act 1966;\n“regulatory authority”, in relation to a foreign country, means any authority of the foreign country exercising any function that corresponds to a regulatory function of the Authority under the Insurance Act 1966;\n“Tier 1 insurer” has the meaning given by regulation 4(1)(a) of the Insurance (Corporate Governance) Regulations 2013 (G.N. No. S 197/2013)."
+   }
+  },
+  {
+   "id": "SG-H1556-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Independence from management and business relationships"
+   },
+   "text": {
+    "en": "4.—(1) In this Part, subject to regulation 14 or 22 (as the case may be), a director is independent from management and business relationships with a DFHC (Licensed Insurer) if —\n(a)the director has no management relationship with the DFHC (Licensed Insurer) or any of its subsidiaries; and\n(b)the director has no business relationship with the DFHC (Licensed Insurer) or any of its subsidiaries, or with any officer of the DFHC (Licensed Insurer),\nthat could interfere, or be reasonably regarded as interfering, with the exercise of the director’s independent business judgment with regard to the interests of the DFHC (Licensed Insurer).\n(2) Without limiting paragraph (1)(a), a director is not considered to be independent from management relationships with a DFHC (Licensed Insurer) or any of its subsidiaries if —\n(a)the director is employed by the DFHC (Licensed Insurer) or any of its subsidiaries, or has been so employed at any time during the current financial year or any of the preceding 3 financial years of the DFHC (Licensed Insurer) or any of its subsidiaries;\n(b)a member of the director’s immediate family —\n(i)is employed by the DFHC (Licensed Insurer) or any of its subsidiaries as an executive officer whose compensation is determined by the Remuneration Committee or the Board of the DFHC (Licensed Insurer) (as the case may be) or any of its subsidiaries; or\n(ii)has been so employed at any time during the current financial year or any of the preceding 3 financial years of the DFHC (Licensed Insurer) or any of its subsidiaries; or\n(c)the director is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the management of the DFHC (Licensed Insurer) or any of its subsidiaries.\n(3) Without limiting paragraph (1)(b) but subject to regulation 14 or 22 (as the case may be), a director is not considered to be independent from business relationships with a DFHC (Licensed Insurer) or any of its subsidiaries if —\n(a)the director is also a director, a substantial shareholder or an executive officer of any corporation, or a partner of a firm or a limited liability partnership or a sole proprietor, which carries on business for purposes of profit —\n(i)such corporation, firm, limited liability partnership or sole proprietorship carries on business for purposes of profit to which the DFHC (Licensed Insurer) or any of its subsidiaries has made payments; or\n(ii)from which the DFHC (Licensed Insurer) or any of its subsidiaries has received payments,\nin the current or immediately preceding financial year of the DFHC (Licensed Insurer) or any of its subsidiaries; or\n(b)the director is receiving or has received, any compensation from the DFHC (Licensed Insurer) or from any of the DFHC (Licensed Insurer)’s subsidiaries (other than compensation received for his or her services as a director or as an employee) at any time during the current or immediately preceding financial year of the DFHC (Licensed Insurer) or any of its subsidiaries."
+   }
+  },
+  {
+   "id": "SG-H1556-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Independence from substantial shareholder"
+   },
+   "text": {
+    "en": "5.—(1) In this Part, subject to regulation 14 or 22 (as the case may be), a director of a DFHC (Licensed Insurer) is independent from a substantial shareholder of the DFHC (Licensed Insurer) if the director is not that substantial shareholder and is not connected to that substantial shareholder.\n(2) Despite paragraph (1), a director of a DFHC (Licensed Insurer) (A) that is the sole subsidiary of another DFHC (B) that does not carry on any business other than the holding of A is to be treated as independent from the substantial shareholder of A for the purposes of regulations 6(1), 9, 11(1), 16(1) and 17(1), if the director —\n(a)is not a substantial shareholder of A or B; and\n(b)is not connected to —\n(i)a substantial shareholder of A (other than B); or\n(ii)a substantial shareholder of B.\n(3) For the purposes of paragraph (1), a person is connected to a substantial shareholder if the person is —\n(a)in the case where the substantial shareholder is an individual —\n(i)a member of the immediate family of the substantial shareholder;\n(ii)employed by the substantial shareholder;\n(iii)employed by an associate of the substantial shareholder;\n(iv)an executive director of an associate of the substantial shareholder;\n(v)a non‑executive director of an associate of the substantial shareholder;\n(vi)a partner of a firm or a limited liability partnership of which the substantial shareholder is also a partner; or\n(vii)accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the substantial shareholder; or\n(b)in the case where the substantial shareholder is a corporation —\n(i)employed by the substantial shareholder;\n(ii)employed by an associate of the substantial shareholder;\n(iii)a director of the substantial shareholder;\n(iv)an executive director of an associate of the substantial shareholder;\n(v)a non‑executive director of an associate of the substantial shareholder;\n(vi)a partner of a firm or a limited liability partnership of which the substantial shareholder is also a partner; or\n(vii)accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the substantial shareholder."
+   }
+  },
+  {
+   "id": "SG-H1556-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Board"
+   },
+   "text": {
+    "en": "6.—(1) Every DFHC (Licensed Insurer) must —\n(a)have a Board comprising at least 3 directors; and\n(b)in the case of —\n(i)a Tier 1 DFHC (Licensed Insurer) — subject to paragraphs (2), (3) and (4) and regulations 14(3) and 19, have a Board comprising at least a majority of directors who are independent directors; or\n(ii)a Tier 2 DFHC (Licensed Insurer) — subject to paragraphs (3) and (4) and regulations 22(3) and 28, have a Board comprising at least one‑third of directors who are independent directors.\n(2) Where a single substantial shareholder holds 50% or more of the share capital or the voting power in a Tier 1 DFHC (Licensed Insurer), paragraph (1)(b)(i) does not apply to the Tier 1 DFHC (Licensed Insurer) only if the DFHC (Licensed Insurer) has a Board comprising —\n(a)at least a majority of directors who are independent from management and business relationships with the DFHC (Licensed Insurer); and\n(b)at least one‑third of directors who are independent directors.\n(3) If a member of the Board resigns or ceases to be a member of the Board for any other reason, the DFHC (Licensed Insurer) must —\n(a)notify the Authority of the event within 14 days after the occurrence of the event; and\n(b)on or before its next annual general meeting, appoint the number of new directors that is necessary to rectify the composition of the Board in accordance with the requirements under paragraph (1).\n(4) Despite paragraph (3), the Authority may, on being notified under paragraph (3)(a), direct the DFHC (Licensed Insurer) to rectify the composition of the Board in accordance with the requirements under paragraph (1) within the time before the next annual general meeting of the DFHC (Licensed Insurer), and subject to any conditions or restrictions, that the Authority may specify, and the DFHC (Licensed Insurer) must comply with that direction.\n(5) The Board must maintain records of all its meetings.\n(6) A DFHC (Licensed Insurer) that contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)to a fine not exceeding $25,000; and\n(b)in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part of a day during which the offence continues after conviction.\n(7) A DFHC (Licensed Insurer) that contravenes paragraph (3)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000.\n(8) A DFHC (Licensed Insurer) that fails to comply with a direction of the Authority under paragraph (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000."
+   }
+  },
+  {
+   "id": "SG-H1556-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Separation of roles"
+   },
+   "text": {
+    "en": "7.—(1) A DFHC (Licensed Insurer) must not appoint any of the following persons as the chairperson of its Board:\n(a)any of its executive directors;\n(b)any person who is a member of the immediate family of the chief executive of the DFHC (Licensed Insurer).\n(2) A DFHC (Licensed Insurer) that contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)to a fine not exceeding $25,000; and\n(b)in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part of a day during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H1556-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Approval of Authority for certain appointments"
+   },
+   "text": {
+    "en": "8.—(1) The following positions in a Tier 1 DFHC (Licensed Insurer) are prescribed for the purposes of section 63(2) of the Act:\n(a)the chairperson of the Board;\n(b)the members of the Nominating Committee;\n(c)the deputy chief executive;\n(d)the chief financial officer;\n(e)the chief risk officer.\n(2) The following positions in a Tier 2 DFHC (Licensed Insurer) are prescribed for the purposes of section 63(2) of the Act:\n(a)the chairperson of the Board;\n(b)the deputy chief executive.\n(3) A person —\n(a)whose appointment as director or chief executive, or for a position mentioned in paragraph (1) or (2), has been approved by the Authority under regulation 35 of the Banking (Corporate Governance) Regulations 2005 (G.N. No. S 583/2005), or under any directions issued under section 28 of the Monetary Authority of Singapore Act 1970, in force immediately before 30 June 2022; and\n(b)whose approval of appointment has not expired or been revoked before that date,\nis taken to be so appointed with the approval of the Authority under section 63 of the Act, for a term expiring on the date when the person’s term of appointment would have expired if these Regulations had not been enacted.\n(4) Any condition to which the approval of the Authority under paragraph (3)(a) was subject and that was in force immediately before 30 June 2022, continues to have effect as a condition of the approval of the Authority under section 63 of the Act mentioned in paragraph (3)."
+   }
+  },
+  {
+   "id": "SG-H1556-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 REQUIREMENTS FOR TIER 1 DESIGNATED FHC WITH LICENSED INSURER SUBSIDIARY"
+   },
+   "heading": {
+    "en": "Executive Committee"
+   },
+   "text": {
+    "en": "9. Where the Board of a Tier 1 DFHC (Licensed Insurer) has delegated any of its powers for the oversight of the DFHC (Licensed Insurer) to an executive committee or any other committee by whatever name described (called in this Part an Executive Committee), consisting of any directors that the Board thinks fit, regulation 6 applies to the DFHC (Licensed Insurer) in respect of the Executive Committee as if the Executive Committee were the Board."
+   }
+  },
+  {
+   "id": "SG-H1556-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 REQUIREMENTS FOR TIER 1 DESIGNATED FHC WITH LICENSED INSURER SUBSIDIARY"
+   },
+   "heading": {
+    "en": "Committees of Board"
+   },
+   "text": {
+    "en": "10.—(1) A Tier 1 DFHC (Licensed Insurer) must have —\n(a)a Nominating Committee;\n(b)a Remuneration Committee;\n(c)an Audit Committee; and\n(d)a Risk Management Committee.\n(2) A Tier 1 DFHC (Licensed Insurer) must ensure that every member of each committee mentioned in paragraph (1) has unfettered access to information that the Tier 1 DFHC (Licensed Insurer) is in possession of or has access to, for the purposes of carrying out the responsibilities of the committee concerned.\n(3) A Tier 1 DFHC (Licensed Insurer) that contravenes paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction —\n(a)to a fine not exceeding $25,000; and\n(b)in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part of a day during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H1556-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 REQUIREMENTS FOR TIER 1 DESIGNATED FHC WITH LICENSED INSURER SUBSIDIARY"
+   },
+   "heading": {
+    "en": "Nominating Committee"
+   },
+   "text": {
+    "en": "11.—(1) Subject to paragraphs (2) and (4) and regulations 14(3) and 19, a Tier 1 DFHC (Licensed Insurer) must have a Nominating Committee comprising —\n(a)at least 3 members of the Board of the Tier 1 DFHC (Licensed Insurer); and\n(b)at least a majority of directors (including the chairperson of the Nominating Committee) who are independent directors.\n(2) Where a single substantial shareholder holds 50% or more of the share capital or the voting power in the Tier 1 DFHC (Licensed Insurer), paragraph (1)(b) does not apply to the Tier 1 DFHC (Licensed Insurer) only if the Tier 1 DFHC (Licensed Insurer) has a Nominating Committee comprising —\n(a)at least a majority of directors who are independent from management and business relationships with the Tier 1 DFHC (Licensed Insurer); and\n(b)at least one‑third of directors (including the chairperson of the Nominating Committee) who are independent directors.\n(3) Every member of the Nominating Committee is appointed to hold office until the next annual general meeting following that member’s appointment, and is eligible for reappointment.\n(4) If a member of the Nominating Committee resigns, ceases to be a director or for any other reason ceases to be a member of the Nominating Committee —\n(a)the Tier 1 DFHC (Licensed Insurer) must notify the Authority of the event within 14 days after the occurrence of the event; and\n(b)if this results in a breach of any requirement under paragraph (1), the Board must, within 3 months after that event, appoint the number of new members that is necessary to rectify the composition of the Nominating Committee in accordance with that requirement.\n(5) A Tier 1 DFHC (Licensed Insurer) that contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)to a fine not exceeding $25,000; and\n(b)in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part of a day during which the offence continues after conviction.\n(6) A Tier 1 DFHC (Licensed Insurer) that contravenes paragraph (4)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000."
+   }
+  },
+  {
+   "id": "SG-H1556-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 REQUIREMENTS FOR TIER 1 DESIGNATED FHC WITH LICENSED INSURER SUBSIDIARY"
+   },
+   "heading": {
+    "en": "Responsibilities of Nominating Committee"
+   },
+   "text": {
+    "en": "12.—(1) The Nominating Committee of a Tier 1 DFHC (Licensed Insurer) must identify the candidates and review all nominations for the appointment of the following persons of the Tier 1 DFHC (Licensed Insurer):\n(a)each director;\n(b)each member of the Executive Committee mentioned in regulation 9 and each committee mentioned in regulation 10(1)(a) to (d);\n(c)the chief executive and deputy chief executive;\n(d)the chief financial officer;\n(e)the chief risk officer.\n(2) Subject to paragraph (3), the Nominating Committee must determine the criteria to be applied in identifying a candidate or reviewing a nomination for the purposes of this Part.\n(3) The criteria to be applied in identifying a candidate or reviewing a nomination for the purposes of this Part must include the following:\n(a)the appointment of the candidate or nominee will not breach regulations 6(1), 9, 11(1), 16(1), 17(1) and 18(1);\n(b)the candidate or nominee is a fit and proper person for the office and is qualified for the office, taking into account the candidate’s or nominee’s track record, age, experience, capabilities, skills and any other relevant factors that may be determined by the Nominating Committee.\n(4) If any of the persons mentioned in paragraph (1) resigns from his or her appointment in the Tier 1 DFHC (Licensed Insurer), the Nominating Committee must review the reasons provided by the person for his or her resignation.\n(5) The Nominating Committee must maintain records of all its meetings."
+   }
+  },
+  {
+   "id": "SG-H1556-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 REQUIREMENTS FOR TIER 1 DESIGNATED FHC WITH LICENSED INSURER SUBSIDIARY"
+   },
+   "heading": {
+    "en": "Determination of independence of directors and assessment of qualification"
+   },
+   "text": {
+    "en": "13.—(1) Where a person is proposed to be appointed as a director of a Tier 1 DFHC (Licensed Insurer), the Nominating Committee —\n(a)must, before the appointment, determine —\n(i)whether the person is independent from management and business relationships with the Tier 1 DFHC (Licensed Insurer); and\n(ii)whether the person is independent from any substantial shareholder of the Tier 1 DFHC (Licensed Insurer),\nusing the criteria set out in regulation 4 or 5 (as the case may be) and, where applicable, in accordance with regulation 14; and\n(b)must maintain a record of its determination.\n(2) Before every annual general meeting of a Tier 1 DFHC (Licensed Insurer), the Nominating Committee —\n(a)must determine —\n(i)whether each existing director of the Tier 1 DFHC (Licensed Insurer) is independent from management and business relationships with the Tier 1 DFHC (Licensed Insurer); and\n(ii)whether each existing director of the Tier 1 DFHC (Licensed Insurer) is independent from any substantial shareholder of the Tier 1 DFHC (Licensed Insurer),\nusing the criteria set out in regulation 4 or 5 (as the case may be) and, where applicable, in accordance with regulation 14;\n(b)must review and assess whether each existing director remains qualified for the office using the criteria set out in regulation 12(3); and\n(c)must maintain a record of its determination and its assessment, respectively."
+   }
+  },
+  {
+   "id": "SG-H1556-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 2 REQUIREMENTS FOR TIER 1 DESIGNATED FHC WITH LICENSED INSURER SUBSIDIARY"
+   },
+   "heading": {
+    "en": "Alternative determination of independence by Nominating Committee"
+   },
+   "text": {
+    "en": "14.—(1) The Nominating Committee of a Tier 1 DFHC (Licensed Insurer) may determine that a director of the Tier 1 DFHC (Licensed Insurer) who is —\n(a)not considered independent from business relationships with the Tier 1 DFHC (Licensed Insurer) under regulation 4(3)(a) or (b); or\n(b)not considered independent from a substantial shareholder of the Tier 1 DFHC (Licensed Insurer) because of the relationship specified in regulation 5(3)(a)(v) or (b)(v),\nmay nonetheless be considered independent from business relationships with the Tier 1 DFHC (Licensed Insurer), or independent from a substantial shareholder of the Tier 1 DFHC (Licensed Insurer) (as the case may be), if the Nominating Committee is satisfied that the director’s independent business judgment and ability to act in the interests of the Tier 1 DFHC (Licensed Insurer) will not be impeded, despite the relationships specified in any of those regulations.\n(2) If —\n(a)at any time, the Authority is not satisfied that a director of a Tier 1 DFHC (Licensed Insurer) is independent despite any determination of the Nominating Committee made under paragraph (1); and\n(b)the lack of independence of that director would breach regulations 6(1), 9, 11(1), 16(1), 17(1) and 18(1),\nthe Authority may direct the Tier 1 DFHC (Licensed Insurer) to rectify the composition of the Board or any relevant committee in accordance with the requirements under regulation 6(1), 9, 11(1), 16(1), 17(1) or 18(1) (as the case may be) within the time, and subject to any conditions or restrictions, that the Authority may specify.\n(3) Where the Authority has given a direction to a Tier 1 DFHC (Licensed Insurer) under paragraph (2), the requirements under regulation 6(1), 9, 11(1), 16(1), 17(1) or 18(1) (as the case may be) do not apply to the Tier 1 DFHC (Licensed Insurer) during the period between the time the Authority makes the direction and the time within which the Tier 1 DFHC (Licensed Insurer) is required to rectify the composition of the Board or any relevant committee in accordance with the direction."
+   }
+  },
+  {
+   "id": "SG-H1556-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 2 REQUIREMENTS FOR TIER 1 DESIGNATED FHC WITH LICENSED INSURER SUBSIDIARY"
+   },
+   "heading": {
+    "en": "Providing information to Authority by Tier 1 DFHC (Licensed Insurer)"
+   },
+   "text": {
+    "en": "15.—(1) A Tier 1 DFHC (Licensed Insurer) must, after its Nominating Committee has concluded its deliberations in respect of the matters under regulations 12 and 13 and after the Board has concurred with the Nominating Committee —\n(a)notify the Authority in writing of the particulars of the persons proposed to be appointed to the positions mentioned in regulation 12(1)(a) and (b), including whether the requirements for independence in regulations 4 and 5 are satisfied;\n(b)notify the Authority in writing of the review and assessment of each existing director mentioned in regulation 13(2)(b);\n(c)in the case where the Nominating Committee has made a determination under regulation 14, provide the Authority with the Nominating Committee’s explanation of its decision as to why the director should be considered independent; and\n(d)provide to the Authority any other information that the Authority may require.\n(2) A Tier 1 DFHC (Licensed Insurer) that contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)to a fine not exceeding $25,000; and\n(b)in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part of a day during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H1556-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 2 REQUIREMENTS FOR TIER 1 DESIGNATED FHC WITH LICENSED INSURER SUBSIDIARY"
+   },
+   "heading": {
+    "en": "Remuneration Committee"
+   },
+   "text": {
+    "en": "16.—(1) Subject to paragraphs (2) and (6) and regulations 14(3) and 19, a Tier 1 DFHC (Licensed Insurer) must have a Remuneration Committee comprising —\n(a)at least 3 members of the Board; and\n(b)at least a majority of directors (including the chairperson of the Remuneration Committee) who are independent directors.\n(2) Where a single substantial shareholder holds 50% or more of the share capital or the voting power in the Tier 1 DFHC (Licensed Insurer), paragraph (1)(b) does not apply to the Tier 1 DFHC (Licensed Insurer) only if the Tier 1 DFHC (Licensed Insurer) has a Remuneration Committee comprising —\n(a)at least a majority of directors who are independent from management and business relationships with the Tier 1 DFHC (Licensed Insurer); and\n(b)at least one‑third of directors (including the chairperson of the Remuneration Committee) who are independent directors.\n(3) In addition to any other responsibilities that may be determined by the Board, the Remuneration Committee of the Tier 1 DFHC (Licensed Insurer) is responsible for —\n(a)recommending a framework for determining the remuneration of the directors of the Tier 1 DFHC (Licensed Insurer);\n(b)recommending a framework for determining the remuneration of the executive officers of the Tier 1 DFHC (Licensed Insurer) that must include the following elements and factors in the design and operation of the framework:\n(i)the remuneration package of each executive officer of the Tier 1 DFHC (Licensed Insurer) —\n(A)must be aligned to the specific job function undertaken by the executive officer and, where the executive officer undertakes any of the Tier 1 DFHC (Licensed Insurer)’s control job functions, the remuneration package of that executive officer must be determined independently of the business functions of the Tier 1 DFHC (Licensed Insurer);\n(B)must take into account input from the employees in the Tier 1 DFHC (Licensed Insurer)’s control job functions as may be relevant to the specific job function undertaken by the executive officer;\n(C)must be aligned with the risks that the Tier 1 DFHC (Licensed Insurer) undertakes in its business that is relevant to the specific job function undertaken by the executive officer;\n(D)must be sensitive to the time horizon of risks that the Tier 1 DFHC (Licensed Insurer) is exposed to, including ensuring that variable compensation payments must not be finalised over short periods of time when risks are realised over long periods of time;\n(E)must, in relation to the quantum of bonus payable to the executive officer, be linked to his or her personal performance, the performance of his or her specific job function as a whole and the overall performance of the Tier 1 DFHC (Licensed Insurer); and\n(F)must, in relation to the rationale for the mix of cash, equity and other forms of incentives, be justified;\n(ii)the size of the bonus pool of the Tier 1 DFHC (Licensed Insurer) must be linked to the overall performance of the Tier 1 DFHC (Licensed Insurer);\n(c)recommending the remuneration of each director and executive officer of the Tier 1 DFHC (Licensed Insurer) based on the frameworks mentioned in sub‑paragraphs (a) and (b), respectively; and\n(d)reviewing, at least once in each year, the remuneration practices of the Tier 1 DFHC (Licensed Insurer) to ensure that they are aligned with the recommendations made in accordance with sub‑paragraphs (a), (b) and (c).\n(4) In paragraph (3) —\n“business functions” means the job functions in the Tier 1 DFHC (Licensed Insurer) relating to the conduct of risk‑taking activities in relation to the business of the Tier 1 DFHC (Licensed Insurer);\n“control job functions” means the following job functions:\n(a)risk control and management;\n(b)finance;\n(c)compliance;\n(d)internal audit;\n(e)human resources;\n(f)actuarial;\n(g)risk control related back office operations.\n(5) The Remuneration Committee must maintain records of all its meetings.\n(6) If a member of the Remuneration Committee resigns, ceases to be a director or for any other reason ceases to be a member of the Remuneration Committee —\n(a)the Tier 1 DFHC (Licensed Insurer) must notify the Authority of the event within 14 days after the occurrence of the event; and\n(b)if this results in a breach of any requirement under paragraph (1), the Board must, within 3 months after that event, appoint the number of new members that is necessary to rectify the composition of the Remuneration Committee in accordance with that requirement.\n(7) A Tier 1 DFHC (Licensed Insurer) that contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)to a fine not exceeding $25,000; and\n(b)in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part of a day during which the offence continues after conviction.\n(8) A Tier 1 DFHC (Licensed Insurer) that contravenes paragraph (6)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000."
+   }
+  },
+  {
+   "id": "SG-H1556-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 2 REQUIREMENTS FOR TIER 1 DESIGNATED FHC WITH LICENSED INSURER SUBSIDIARY"
+   },
+   "heading": {
+    "en": "Audit Committee"
+   },
+   "text": {
+    "en": "17.—(1) Subject to paragraph (4) and regulations 14(3) and 19, a Tier 1 DFHC (Licensed Insurer) must have an Audit Committee comprising —\n(a)at least 3 members of the Board, all of whom are independent from management and business relationships with the Tier 1 DFHC (Licensed Insurer); and\n(b)at least a majority of directors (including the chairperson of the Audit Committee) who are independent directors.\n(2) The Audit Committee of a Tier 1 DFHC (Licensed Insurer) is, in addition to any other responsibilities that may be determined by the Board or provided under written law, responsible for the adequacy of the external and internal audit functions of the Tier 1 DFHC (Licensed Insurer), including reviewing —\n(a)the scope and results of audits carried out in respect of the operations of the Tier 1 DFHC (Licensed Insurer); and\n(b)the independence and objectivity of the Tier 1 DFHC (Licensed Insurer)’s external auditors.\n(3) The Audit Committee must maintain records of all its meetings.\n(4) If a member of the Audit Committee resigns, ceases to be a director or for any other reason ceases to be a member of the Audit Committee —\n(a)the Tier 1 DFHC (Licensed Insurer) must notify the Authority of the event within 14 days after the occurrence of the event; and\n(b)if this results in a breach of any requirement under paragraph (1), the Board must, within 3 months after that event, appoint the number of new members that is necessary to rectify the composition of the Audit Committee in accordance with that requirement.\n(5) A Tier 1 DFHC (Licensed Insurer) that contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)to a fine not exceeding $25,000; and\n(b)in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part of a day during which the offence continues after conviction.\n(6) A Tier 1 DFHC (Licensed Insurer) that contravenes paragraph (4)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000."
+   }
+  },
+  {
+   "id": "SG-H1556-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 2 REQUIREMENTS FOR TIER 1 DESIGNATED FHC WITH LICENSED INSURER SUBSIDIARY"
+   },
+   "heading": {
+    "en": "Risk Management Committee"
+   },
+   "text": {
+    "en": "18.—(1) Subject to paragraph (4) and regulations 14(3) and 19, a Tier 1 DFHC (Licensed Insurer) must have a Risk Management Committee comprising —\n(a)at least 3 members of the Board; and\n(b)at least a majority of directors (including the chairperson of the Risk Management Committee) who are non‑executive directors.\n(2) The Risk Management Committee of a Tier 1 DFHC (Licensed Insurer) is, in addition to any other responsibilities that may be determined by the Board, responsible for overseeing —\n(a)the establishment and the operation of an independent risk management system for managing risks on an enterprise‑wide basis; and\n(b)the adequacy of the risk management function of the Tier 1 DFHC (Licensed Insurer), including ensuring that it is sufficiently resourced to monitor risk by the various risk categories and that it has appropriate independent reporting lines.\n(3) The Risk Management Committee must maintain records of all its meetings.\n(4) If a member of the Risk Management Committee resigns, ceases to be a director or for any other reason ceases to be a member of the Risk Management Committee —\n(a)the Tier 1 DFHC (Licensed Insurer) must notify the Authority of the event within 14 days after the occurrence of the event; and\n(b)if this results in a breach of any requirement under paragraph (1), the Board must, within 3 months after that event, appoint the number of new members that is necessary to rectify the composition of the Risk Management Committee in accordance with that requirement.\n(5) A Tier 1 DFHC (Licensed Insurer) that contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)to a fine not exceeding $25,000; and\n(b)in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part of the day during which the offence continues after conviction.\n(6) A Tier 1 DFHC (Licensed Insurer) that contravenes paragraph (4)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000."
+   }
+  },
+  {
+   "id": "SG-H1556-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 2 REQUIREMENTS FOR TIER 1 DESIGNATED FHC WITH LICENSED INSURER SUBSIDIARY"
+   },
+   "heading": {
+    "en": "Exceptions to applicability of provisions to Tier 1 DFHC (Licensed Insurer)"
+   },
+   "text": {
+    "en": "19.—(1) Subject to paragraphs (2) and (3), the requirements under regulations 6(1)(b)(i), 9, 11(1), 16(1), 17(1) and 18(1) do not apply in relation to a Tier 1 DFHC (Licensed Insurer) —\n(a)where —\n(i)there is a change in the status of a director under regulation 4 or 5 during the period between the date immediately after the date of the director’s appointment and the date immediately before the next annual general meeting of the Tier 1 DFHC (Licensed Insurer); and\n(ii)the Tier 1 DFHC (Licensed Insurer) could not reasonably be expected to have known of that change on or before the date of the director’s appointment; or\n(b)where —\n(i)there is a change in the status of a director under regulation 4 or 5 during the period between the date immediately after an annual general meeting of the Tier 1 DFHC (Licensed Insurer) and the date immediately before the next annual general meeting of the Tier 1 DFHC (Licensed Insurer) (other than the period mentioned in sub‑paragraph (a)(i)); and\n(ii)the Tier 1 DFHC (Licensed Insurer) could not reasonably be expected to have known of that change on or before the date of the firstmentioned annual general meeting.\n(2) Paragraph (1) does not apply unless, in the circumstances mentioned in paragraph (1)(a)(i) or (b)(i), the Tier 1 DFHC (Licensed Insurer), within 14 days after becoming aware of the change in the status of the director, notifies the Authority of the change and, subject to paragraph (3) —\n(a)in respect of any requirement under regulation 6(1)(b)(i) — at the next annual general meeting, appoints the number of new directors that is necessary to rectify the composition of the Board in accordance with that requirement; or\n(b)in respect of any requirement under regulation 9, 11(1), 16(1), 17(1) or 18(1) — within 3 months after notifying the Authority of the change of status of the director, appoints the number of new members that is necessary to rectify the composition of the relevant committee in accordance with that requirement.\n(3) Despite paragraph (2), the Authority may, on being notified of a change in the status of a director under paragraph (2), direct the Tier 1 DFHC (Licensed Insurer) —\n(a)to appoint the number of new directors that is necessary to rectify the composition of the Board in accordance with the requirements prescribed under regulation 6(1)(b)(i) within the time before the next annual general meeting of the Tier 1 DFHC (Licensed Insurer), and subject to any conditions or restrictions, that the Authority may specify; or\n(b)to appoint the number of new members that is necessary to rectify the composition of the relevant committee in accordance with the requirements prescribed under regulation 9, 11(1), 16(1), 17(1) or 18(1) (as the case may be) within the time before the expiration of 3 months from the date the Tier 1 DFHC (Licensed Insurer) notifies the Authority of the change, and subject to any conditions or restrictions, that the Authority may specify,\nand the Tier 1 DFHC (Licensed Insurer) must comply with that direction.\n(4) A Tier 1 DFHC (Licensed Insurer) that fails to comply with a direction of the Authority under paragraph (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000."
+   }
+  },
+  {
+   "id": "SG-H1556-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR TIER 2 DESIGNATED FHC WITH LICENSED INSURER SUBSIDIARY"
+   },
+   "heading": {
+    "en": "Responsibilities of Board on nominations for appointments"
+   },
+   "text": {
+    "en": "20.—(1) The Board of a Tier 2 DFHC (Licensed Insurer) must identify the candidates and review all nominations for the appointment of the following persons of the Tier 2 DFHC (Licensed Insurer):\n(a)each director;\n(b)the chief executive and deputy chief executive.\n(2) Subject to paragraph (3), the Board must determine the criteria to be applied in identifying a candidate or reviewing a nomination for the purposes of this Part.\n(3) The criteria to be applied in identifying a candidate or reviewing a nomination for the purposes of this Part must include the following:\n(a)the appointment of the candidate or nominee will not breach regulation 6(1);\n(b)the candidate or nominee is a fit and proper person for the office and is qualified for the office, taking into account the candidate’s or nominee’s track record, age, experience, capabilities, skills and any other relevant factors that may be determined by the Board.\n(4) If any of the persons mentioned in paragraph (1) resigns from his or her appointment in the Tier 2 DFHC (Licensed Insurer), the Board must review the reasons provided by the person for his or her resignation."
+   }
+  },
+  {
+   "id": "SG-H1556-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR TIER 2 DESIGNATED FHC WITH LICENSED INSURER SUBSIDIARY"
+   },
+   "heading": {
+    "en": "Determination of independence of directors and assessment of qualification"
+   },
+   "text": {
+    "en": "21.—(1) Where a person is proposed to be appointed as a director of a Tier 2 DFHC (Licensed Insurer), the Board —\n(a)must, before the appointment, determine —\n(i)whether the person is independent from management and business relationships with the Tier 2 DFHC (Licensed Insurer); and\n(ii)whether the person is independent from any substantial shareholder of the Tier 2 DFHC (Licensed Insurer),\nusing the criteria set out in regulation 4 or 5 (as the case may be) and, where applicable, in accordance with regulation 22; and\n(b)must maintain a record of its determination.\n(2) Before every annual general meeting of the Tier 2 DFHC (Licensed Insurer), the Board —\n(a)must determine —\n(i)whether each existing director of the Tier 2 DFHC (Licensed Insurer) is independent from management and business relationship with the Tier 2 DFHC (Licensed Insurer); and\n(ii)whether each existing director of the Tier 2 DFHC (Licensed Insurer) is independent from any substantial shareholder of the Tier 2 DFHC (Licensed Insurer),\nusing the criteria set out in regulation 4 or 5 (as the case may be) and, where applicable, in accordance with regulation 22;\n(b)must review and assess whether each existing director remains qualified for the office using the criteria set out in regulation 20(3); and\n(c)must maintain a record of its determination and its assessment, respectively."
+   }
+  },
+  {
+   "id": "SG-H1556-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR TIER 2 DESIGNATED FHC WITH LICENSED INSURER SUBSIDIARY"
+   },
+   "heading": {
+    "en": "Alternative determination of independence by Board"
+   },
+   "text": {
+    "en": "22.—(1) The Board of a Tier 2 DFHC (Licensed Insurer) may determine that a director of the Tier 2 DFHC (Licensed Insurer) who is —\n(a)not considered independent from business relationships with the Tier 2 DFHC (Licensed Insurer) under regulation 4(3)(a) or (b); or\n(b)not considered independent from a substantial shareholder of the Tier 2 DFHC (Licensed Insurer) because of the relationship specified in regulation 5(3)(a)(v) or (b)(v),\nmay nonetheless be considered independent from business relationships with the Tier 2 DFHC (Licensed Insurer), or independent from a substantial shareholder of the Tier 2 DFHC (Licensed Insurer) (as the case may be) if the Board is satisfied that the director’s independent business judgment and ability to act in the interests of the Tier 2 DFHC (Licensed Insurer) will not be impeded, despite the relationships specified in any of those regulations.\n(2) If —\n(a)at any time, the Authority is not satisfied that a director of a Tier 2 DFHC (Licensed Insurer) is independent despite any determination of the Board made under paragraph (1); and\n(b)the lack of independence of that director would breach regulation 6(1),\nthe Authority may direct the Tier 2 DFHC (Licensed Insurer) to rectify the composition of the Board in accordance with the requirements under regulation 6(1) within the time, and subject to any conditions or restrictions, that the Authority may specify.\n(3) Where the Authority has given a direction to a Tier 2 DFHC (Licensed Insurer) under paragraph (2), the requirements under regulation 6(1) do not apply to the Tier 2 DFHC (Licensed Insurer) during the period between the time the Authority makes the direction and the time within which the Tier 2 DFHC (Licensed Insurer) is required to rectify the composition of the Board in accordance with the direction."
+   }
+  },
+  {
+   "id": "SG-H1556-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR TIER 2 DESIGNATED FHC WITH LICENSED INSURER SUBSIDIARY"
+   },
+   "heading": {
+    "en": "Providing information to Authority by Tier 2 DFHC (Licensed Insurer)"
+   },
+   "text": {
+    "en": "23. A Tier 2 DFHC (Licensed Insurer) must, after the Board has concluded its deliberations in respect of the matters under regulations 20 and 21 —\n(a)notify the Authority in writing of the particulars of the persons proposed to be appointed to the positions mentioned in regulation 20(1)(a), including whether the requirements for independence in regulations 4 and 5 are satisfied;\n(b)notify the Authority in writing of the review and assessment of each existing director mentioned in regulation 21(2)(b);\n(c)in the case where the Board has made a determination under regulation 22, provide the Authority with its explanation of its decision as to why the director should be considered independent; and\n(d)provide to the Authority any further information that the Authority may require."
+   }
+  },
+  {
+   "id": "SG-H1556-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR TIER 2 DESIGNATED FHC WITH LICENSED INSURER SUBSIDIARY"
+   },
+   "heading": {
+    "en": "Responsibilities of Board on remuneration"
+   },
+   "text": {
+    "en": "24.—(1) The Board of a Tier 2 DFHC (Licensed Insurer) is responsible for —\n(a)recommending a framework for determining the remuneration of the directors of the Tier 2 DFHC (Licensed Insurer);\n(b)recommending a framework for determining the remuneration of the executive officers of the Tier 2 DFHC (Licensed Insurer) that must include the following elements and factors in the design and operation of the framework:\n(i)the remuneration package of each executive officer of the Tier 2 DFHC (Licensed Insurer) —\n(A)must be aligned to the specific job function undertaken by the executive officer and, where the executive officer undertakes any of the Tier 2 DFHC (Licensed Insurer)’s control job functions, the remuneration package of that executive officer must be determined independently of the business functions of the Tier 2 DFHC (Licensed Insurer);\n(B)must take into account input from the employees in the Tier 2 DFHC (Licensed Insurer)’s control job functions as may be relevant to the specific job function undertaken by the executive officer;\n(C)must be aligned with the risks that the Tier 2 DFHC (Licensed Insurer) undertakes in its business that is relevant to the specific job function undertaken by the executive officer;\n(D)must be sensitive to the time horizon of risks that the Tier 2 DFHC (Licensed Insurer) is exposed to, including ensuring that variable compensation payments must not be finalised over short periods of time when risks are realised over long periods of time;\n(E)must, in relation to the quantum of bonus payable to the executive officer, be linked to his or her personal performance, the performance of his or her specific job function as a whole and the overall performance of the Tier 2 DFHC (Licensed Insurer); and\n(F)must, in relation to the rationale for the mix of cash, equity and other forms of incentives, be justified;\n(ii)the size of the bonus pool of the Tier 2 DFHC (Licensed Insurer) must be linked to the overall performance of the Tier 2 DFHC (Licensed Insurer);\n(c)recommending the remuneration of each director and executive officer of the Tier 2 DFHC (Licensed Insurer) based on the frameworks mentioned in sub‑paragraphs (a) and (b), respectively; and\n(d)reviewing, at least once in each year, the remuneration practices of the Tier 2 DFHC (Licensed Insurer) to ensure that they are aligned with the recommendations made in accordance with sub‑paragraphs (a), (b) and (c).\n(2) In paragraph (1) —\n“business functions” means the job functions in the Tier 2 DFHC (Licensed Insurer) with licensed insurer subsidiary relating to the conduct of risk taking activities in relation to the business of the Tier 2 DFHC (Licensed Insurer);\n“control job functions” means the following job functions:\n(a)risk control and management;\n(b)finance;\n(c)compliance;\n(d)internal audit;\n(e)human resource;\n(f)actuarial;\n(g)risk control related back office operations."
+   }
+  },
+  {
+   "id": "SG-H1556-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR TIER 2 DESIGNATED FHC WITH LICENSED INSURER SUBSIDIARY"
+   },
+   "heading": {
+    "en": "Responsibilities of Board on audit functions"
+   },
+   "text": {
+    "en": "25. The Board of a Tier 2 DFHC (Licensed Insurer) is responsible for the adequacy of the external and internal audit functions of the Tier 2 DFHC (Licensed Insurer), including reviewing —\n(a)the scope and results of audits carried out in respect of the operations of the Tier 2 DFHC (Licensed Insurer); and\n(b)the independence and objectivity of the Tier 2 DFHC (Licensed Insurer)’s external auditors."
+   }
+  },
+  {
+   "id": "SG-H1556-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR TIER 2 DESIGNATED FHC WITH LICENSED INSURER SUBSIDIARY"
+   },
+   "heading": {
+    "en": "Responsibilities of Board on risk management"
+   },
+   "text": {
+    "en": "26. The Board of a Tier 2 DFHC (Licensed Insurer) is responsible for overseeing —\n(a)the establishment and the operation of an independent risk management system for managing risks on an enterprise‑wide basis; and\n(b)the adequacy of the risk management function of the Tier 2 DFHC (Licensed Insurer), including ensuring that it is sufficiently resourced to monitor risk by the various risk categories and that it has appropriate independent reporting lines."
+   }
+  },
+  {
+   "id": "SG-H1556-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR TIER 2 DESIGNATED FHC WITH LICENSED INSURER SUBSIDIARY"
+   },
+   "heading": {
+    "en": "Maintenance of records of meetings"
+   },
+   "text": {
+    "en": "27. The Board must maintain records of all its meetings with respect to the matters mentioned in regulations 20, 24, 25 and 26."
+   }
+  },
+  {
+   "id": "SG-H1556-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR TIER 2 DESIGNATED FHC WITH LICENSED INSURER SUBSIDIARY"
+   },
+   "heading": {
+    "en": "Exceptions to applicability of provisions to Tier 2 DFHC (Licensed Insurer)"
+   },
+   "text": {
+    "en": "28.—(1) Subject to paragraphs (2) and (3), the requirements under regulation 6(1)(b)(ii) do not apply in relation to a Tier 2 DFHC (Licensed Insurer) —\n(a)where —\n(i)there is a change in the status of a director under regulation 4 or 5 during the period between the date immediately after the date of the director’s appointment and the date immediately before the next annual general meeting of the Tier 2 DFHC (Licensed Insurer); and\n(ii)the Tier 2 DFHC (Licensed Insurer) could not reasonably be expected to have known of that change on or before the date of the director’s appointment; or\n(b)where —\n(i)there is a change in the status of a director under regulation 4 or 5 during the period between the date immediately after an annual general meeting of the Tier 2 DFHC (Licensed Insurer) and the date immediately before the next annual general meeting of the Tier 2 DFHC (Licensed Insurer) (other than the period mentioned in sub‑paragraph (a)(i)); and\n(ii)the Tier 2 DFHC (Licensed Insurer) could not reasonably be expected to have known of that change on or before the date of the firstmentioned annual general meeting.\n(2) Paragraph (1) does not apply unless, in the circumstances prescribed in paragraph (1)(a)(i) or (b)(i), the Tier 2 DFHC (Licensed Insurer), within 14 days after becoming aware of the change in the status of a director, notifies the Authority of the change and, subject to paragraph (3) in respect of any requirement under regulation 6(1)(b)(ii), at the next annual general meeting, appoints the number of new directors that is necessary to rectify the composition of the Board in accordance with that requirement.\n(3) Despite paragraph (2), the Authority may, on being notified of a change in the status of a director under paragraph (2), direct the Tier 2 DFHC (Licensed Insurer) to appoint the number of new directors that is necessary to rectify the composition of the Board in accordance with the requirements under regulation 6(1)(b)(ii) within the time before the next annual general meeting of the Tier 2 DFHC (Licensed Insurer), and subject to any conditions or restrictions, that the Authority may specify, and the Tier 2 DFHC (Licensed Insurer) must comply with that direction.\n(4) A Tier 2 DFHC (Licensed Insurer) that fails to comply with a direction of the Authority under paragraph (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000."
+   }
+  }
+ ]
+}

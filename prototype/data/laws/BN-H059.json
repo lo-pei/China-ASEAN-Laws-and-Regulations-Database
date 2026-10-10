@@ -1,0 +1,52 @@
+{
+ "id": "BN-H059",
+ "title": {
+  "zh": null,
+  "en": null,
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p08",
+ "language": "en",
+ "level": null,
+ "category": null,
+ "status": null,
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 587,
+ "source": {
+  "name": "文莱 — SUCCESSION AND REGENCY PROCLAMATION 1959",
+  "url": "https://www.agc.gov.bn/wp-content/uploads/2026/07/CONST.-II-2012-ED-SUCCESSION-AND-REGENCY-PROCLAMATION-1959.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-08",
+ "completenessNote": "全文，共 1 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-H059-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "原文标题：SUCCESSION AND REGENCY PROCLAMATION 1959\n官方来源 URL：https://www.agc.gov.bn/wp-content/uploads/2026/07/CONST.-II-2012-ED-SUCCESSION-AND-REGENCY-PROCLAMATION-1959.pdf\n颁布日期 / 生效日期 / 修订日期：1959 / — / 2012年汇编版\n版本：Const II, 2012 consolidated edition\n抓取日期：2026-10-03\n原文语种：en（英语）\n中文译名：王位继承与摄政公告（1959）\n英文译名：Succession and Regency Proclamation 1959\n\n说明：本文件为文莱总检察署(AGC)官方「Laws of Brunei / BruLaw」数据库发布的合并汇编版(consolidated edition)权威原件(PDF)，逐字照录，未做任何改写、摘要或删节。\n校验值(SHA-256)：c683b7f8c4e615aefa02476f2f689bce7eb319b1765b790ff6033b57cfb78ee9\n逐字法律正文见同名词 PDF 原件：文莱_王位继承与摄政法_1959_en.pdf\n备注：宪法性文件第二部分；与宪法配套"
+   }
+  }
+ ]
+}

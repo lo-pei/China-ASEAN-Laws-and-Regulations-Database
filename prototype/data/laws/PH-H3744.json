@@ -1,0 +1,74 @@
+{
+ "id": "PH-H3744",
+ "title": {
+  "zh": "规制买卖",
+  "en": "An Act to Regulate the Sale, Dispensation, and/or Distribution of Contraceptive Drugs and Devices",
+  "orig": "An Act to Regulate the Sale, Dispensation, and/or Distribution of Contraceptive Drugs and Devices"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p53",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1966-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4729",
+ "officialCode": null,
+ "topics": [
+  "health"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1032,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1966/ra_4729_1966.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1966/ra_4729_1966.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3744-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "It shall be unlawful for any person, partnership, or corporation, to sell, dispense or otherwise distribute whether for or without consideration, any contraceptive drug or device, unless such sale, dispensation or distribution is by a duly licensed drug store or pharmaceutical company and with the prescription of a qualified medical practitioner."
+   }
+  },
+  {
+   "id": "PH-H3744-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "For the purpose of this Act:\n(a) \"Contraceptive drug\" is any medicine, drug, chemical, or portion which is used exclusively for the purpose of preventing fertilization of the female ovum: and\n(b) \"Contraceptive device\" is any instrument, device, material, or agent introduced into the female reproductive system for the primary purpose of preventing conception."
+   }
+  },
+  {
+   "id": "PH-H3744-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Any person, partnership, or corporation, violating the provisions of this Act shall be punished with a fine of not more than five hundred pesos or an imprisonment of not less than six months or more than one year or both in the discretion of the Court.\nThis Act shall take effect upon its approval.\nApproved: June 18, 1966."
+   }
+  }
+ ]
+}

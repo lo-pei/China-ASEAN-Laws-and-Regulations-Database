@@ -1,0 +1,424 @@
+{
+ "id": "SG-H374",
+ "title": {
+  "zh": null,
+  "en": "Building Control (Temporary Buildings) Regulations 2018",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p05",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation BCA1989-S807-2018",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 25,
+ "chars": 41225,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/BCA1989-S807-2018?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 25 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 3 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H374-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Building Control (Temporary Buildings) Regulations 2018 and come into operation on 1 March 2019."
+   }
+  },
+  {
+   "id": "SG-H374-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“approved plans”, in relation to a temporary building, means the specified plans submitted to the Commissioner of Building Control in respect of which preliminary approval is granted for the temporary building;\n“excluded temporary building” has the meaning given by regulation 4;\n“owner”, in relation to a temporary building, means the person who —\n(a)has the charge, management or control of the temporary building; or\n(b)will have the charge, management or control of the temporary building after it is erected;\n“permit” means a temporary building permit granted under regulation 11(1);\n“preliminary approval” means preliminary approval granted under regulation 8(a) in respect of a permit;\n“professional electrical engineer” means a professional engineer who is registered under the Professional Engineers Act (Cap. 253) in the branch of electrical engineering;\n“professional engineer” means a person who is registered as a professional engineer under the Professional Engineers Act and has in force a practising certificate issued under that Act;\n“Singapore Standard” has the meaning given by section 2 of the Enterprise Singapore Board Act 2018 (Act 10 of 2018);\n“specified plans”, in relation to building works for a temporary building, means the key or location plan, building plans, detailed structural plans, design calculations and site formation plans, prepared in accordance with regulations 6 to 10 of the Building Control Regulations 2003 (G.N. No. S 666/2003);\n“statistical gross floor area”, in relation to an application for a permit, means the aggregate of the floor area of all the storeys, including basements, in all the temporary buildings in the application."
+   }
+  },
+  {
+   "id": "SG-H374-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Maximum period that temporary building is permitted to be used"
+   },
+   "text": {
+    "en": "3. For the purposes of paragraph (b) of the definition of “temporary building” in section 2(1) of the Act, a period not exceeding 72 months is prescribed instead of 36 months."
+   }
+  },
+  {
+   "id": "SG-H374-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "4. These Regulations do not apply in relation to any of the following (called in these Regulations an excluded temporary building):\n(a)a building specified in the First Schedule;\n(b)a building mentioned in the First Schedule to the Building Control Regulations 2003."
+   }
+  },
+  {
+   "id": "SG-H374-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 TEMPORARY BUILDING PERMITS"
+   },
+   "heading": {
+    "en": "Application of Part"
+   },
+   "text": {
+    "en": "5. This Part applies to all temporary buildings except —\n(a)an excluded temporary building;\n(b)any building used as workers’ quarters, a site office, a builder’s shed, store or other shed that is —\n(i)required in connection with any building works for a permanent building; and\n(ii)not more than 3 storeys high; and\n(c)any protective hoarding, catch platform, fence, safety netting or other temporary structure, erected for the safety or convenience of persons in any public place or on any public road."
+   }
+  },
+  {
+   "id": "SG-H374-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 TEMPORARY BUILDING PERMITS"
+   },
+   "heading": {
+    "en": "Permission required to erect and use temporary building"
+   },
+   "text": {
+    "en": "6.—(1) A person must not —\n(a)erect, or cause or permit the erection of, any temporary building without a preliminary approval;\n(b)use, or cause or permit the use of, any temporary building that the person knows or ought reasonably to know is erected in contravention of sub‑paragraph (a); or\n(c)use, or cause or permit the use of, any temporary building in respect of which there is no permit.\n(2) A person who contravenes paragraph (1) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H374-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 TEMPORARY BUILDING PERMITS"
+   },
+   "heading": {
+    "en": "Application for temporary building permit"
+   },
+   "text": {
+    "en": "7.—(1) An application for a temporary building permit must be in such form and manner as the Commissioner of Building Control may require and be accompanied by —\n(a)a fee of —\n(i)$200 for every 100 m2 or part thereof, of the statistical gross floor area of all the temporary buildings in the application; or\n(ii)$200 for each temporary building in an application if all the temporary buildings in the application have no measurable statistical gross floor area;\n(b)a notification, signed by the owner of the temporary building, of the engagement of a professional engineer under regulation 9(1);\n(c)where applicable, a copy of the written permission issued by the competent authority under the Planning Act (Cap. 232) in respect of the temporary building;\n(d)one set of the specified plans relating to the building works for the temporary building;\n(e)where the owner of the temporary building is not the owner of the premises on which the temporary building will be erected, written consent of the owner of the premises for the application to be made; and\n(f)such other documents, particulars and information as the Commissioner of Building Control may require in the particular case.\n(2) For the purposes of paragraph (1) and regulation 8, a reference to “temporary building” includes a reference to a proposed temporary building."
+   }
+  },
+  {
+   "id": "SG-H374-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 TEMPORARY BUILDING PERMITS"
+   },
+   "heading": {
+    "en": "Preliminary approval in respect of permit"
+   },
+   "text": {
+    "en": "8. After considering an application under regulation 7(1), the Commissioner of Building Control may —\n(a)grant to the owner of a temporary building preliminary approval for the specified plans relating to the building works for the temporary building, subject to such conditions as the Commissioner of Building Control may specify;\n(b)direct the owner (in writing) to comply with such requirements as the Commissioner of Building Control may specify for the purpose of ensuring that all or any of those specified plans comply with the provisions of the Act and the building regulations, and to resubmit those plans for the Commissioner of Building Control’s approval, within such period as may be specified in the direction; or\n(c)refuse to grant a permit."
+   }
+  },
+  {
+   "id": "SG-H374-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 TEMPORARY BUILDING PERMITS"
+   },
+   "heading": {
+    "en": "Duties of professional engineer"
+   },
+   "text": {
+    "en": "9.—(1) An owner of a temporary building who intends to apply for a permit must, before the application is made, engage a professional engineer to design, supervise and inspect the erection of the temporary building.\n(2) The professional engineer engaged by an owner of a temporary building under paragraph (1) must —\n(a)design the temporary building in accordance with the Second Schedule;\n(b)prepare the specified plans to be submitted with the application for a permit;\n(c)on behalf of the owner of the proposed temporary building, submit the application for a permit under regulation 7;\n(d)before the building works start, give a copy of the approved plans to the builder of the temporary building;\n(e)supervise and inspect, and take all reasonable steps and exercise due diligence in supervising and inspecting, the erection of the temporary building to ensure that the building works are carried out in accordance with —\n(i)these Regulations;\n(ii)the approved plans; and\n(iii)the conditions of the preliminary approval in respect of the temporary building;\n(f)where applicable, maintain and keep records of —\n(i)the sources of concrete used for construction;\n(ii)the professional engineer’s inspection and approval for concreting works;\n(iii)the penetration depths and dimensions of piling for the foundation;\n(iv)the sources of steel materials used for construction; and\n(v)the inspections the professional engineer has carried out on the condition of structural steel, including the bracings and ties of the structure and the welding at joints;\n(g)where the building works involve the use of concrete, steel reinforcements, structural steel or welding, cause construction tests to be carried out in accordance with paragraph (3);\n(h)notify the Commissioner of Building Control of any contravention of the provisions of the Act or the building regulations in connection with the erection of the temporary building; and\n(i)no later than 7 days after completion of the building works, submit to the owner of the temporary building, in such form and manner as the Commissioner of Building Control may specify, the professional engineer’s certificate of supervision for the building works for the temporary building.\n(3) The construction tests required under paragraph (2)(g) must be carried out in accordance with the Third Schedule and in the following manner:\n(a)any test that is to be conducted at the premises where building works are carried out must be conducted under the direction and supervision of the professional engineer engaged under paragraph (1);\n(b)any test that is to be conducted in a laboratory must be conducted in a laboratory approved under the Singapore Laboratory Accreditation Scheme (SAC‑SINGLAS) by the Singapore Accreditation Council;\n(c)the taking of any sample of any materials for such tests must be carried out under the supervision and direction of the professional engineer engaged under paragraph (1);\n(d)any test of materials used in building works must be conducted on a sample taken from the same materials used or to be used in the building works.\n(4) A person who contravenes paragraph (1), (2) or (3) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H374-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 TEMPORARY BUILDING PERMITS"
+   },
+   "heading": {
+    "en": "Duties of builder"
+   },
+   "text": {
+    "en": "10.—(1) Any builder who erects a temporary building must ensure that —\n(a)the building works are carried out in accordance with the approved plans given to the builder by the professional engineer under regulation 9(2)(d); and\n(b)the building works are carried out in accordance with the conditions of the preliminary approval in respect of the temporary building.\n(2) Where a lightning protection system is required to be installed in the temporary building, the builder must —\n(a)ensure that a professional electrical engineer supervises the installation of the lightning protection system; and\n(b)no later than 7 days after completing the building works in respect of a temporary building, submit, to the owner of the temporary building, the professional electrical engineer’s certificate of supervision in respect of the installation of the lightning protection system.\n(3) A builder who contravenes paragraph (1) or (2) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H374-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 TEMPORARY BUILDING PERMITS"
+   },
+   "heading": {
+    "en": "Grant of permit"
+   },
+   "text": {
+    "en": "11.—(1) Where the conditions specified in paragraph (2) are fulfilled, the Commissioner of Building Control must grant the owner of the temporary building final approval for a temporary building permit specifying the period during which the temporary building may be used and subject to such other conditions as the Commissioner of Building Control may specify in the permit.\n(2) The conditions mentioned in paragraph (1) are as follows:\n(a)the temporary building is erected in accordance with the conditions of the preliminary approval;\n(b)the owner of the temporary building submits the following to the Commissioner of Building Control:\n(i)the certificate mentioned in regulation 9(2)(i);\n(ii)where applicable, the certificate mentioned in regulation 10(2)(b)."
+   }
+  },
+  {
+   "id": "SG-H374-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 TEMPORARY BUILDING PERMITS"
+   },
+   "heading": {
+    "en": "Extension of permit"
+   },
+   "text": {
+    "en": "12.—(1) An owner who is granted final approval of a permit under regulation 11(1) may, at any time before the expiry of the permit, apply to the Commissioner of Building Control for an extension of the permit.\n(2) An application for the extension of a permit must be in such form and manner as the Commissioner of Building Control may require and be accompanied by —\n(a)a fee of $200 for each temporary building;\n(b)where applicable, a copy of the written permission issued by the competent authority under the Planning Act in respect of the temporary building;\n(c)where the owner of the temporary building is not the owner of the premises on which the temporary building will be erected, written consent of the owner of the premises for the application to be made;\n(d)where the application, if granted, will result in the temporary building being used for a period exceeding 36 months, a professional engineer’s certificate that the structure is structurally safe for occupation; and\n(e)such other documents, particulars and information, as the Commissioner of Building Control may require.\n(3) Where an application to extend a permit is made under paragraph (2), the Commissioner of Building Control may —\n(a)subject to paragraph (4), extend the permit subject to such conditions and for such period as the Commissioner of Building Control thinks fit; or\n(b)refuse the application.\n(4) Where the application to extend a permit relates to a temporary building under paragraph (b) of the definition of “temporary building” in the Act, the Commissioner of Building Control must not extend the permit for the temporary building such that the aggregate period of the permit and all extensions of the permit exceeds 72 months."
+   }
+  },
+  {
+   "id": "SG-H374-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 TEMPORARY BUILDING PERMITS"
+   },
+   "heading": {
+    "en": "Lapsing of preliminary approval"
+   },
+   "text": {
+    "en": "13. A preliminary approval granted in respect of a temporary building lapses upon the cancellation or lapsing of any written permission granted under the Planning Act in respect of the temporary building."
+   }
+  },
+  {
+   "id": "SG-H374-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 2 TEMPORARY BUILDING PERMITS"
+   },
+   "heading": {
+    "en": "Revocation of preliminary approval or permit"
+   },
+   "text": {
+    "en": "14. The Commissioner of Building Control may, by notice in writing, revoke any preliminary approval or permit granted in respect of any temporary building if —\n(a)the temporary building is erected other than in accordance with the preliminary approval;\n(b)the owner of the temporary building fails to comply with any of the conditions of the preliminary approval or the permit; or\n(c)the owner of the temporary building fails to comply with any provision of these Regulations."
+   }
+  },
+  {
+   "id": "SG-H374-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 2 TEMPORARY BUILDING PERMITS"
+   },
+   "heading": {
+    "en": "No refund of fees"
+   },
+   "text": {
+    "en": "15. There is no refund of any fees paid to the Commissioner of Building Control in respect of a permit under these Regulations in the case where —\n(a)the application is withdrawn at any time or refused;\n(b)the preliminary approval or the permit has lapsed or has been revoked;\n(c)the building works authorised by the preliminary approval were not carried out or were not completed; or\n(d)the temporary building is not used for the entire period specified in the permit."
+   }
+  },
+  {
+   "id": "SG-H374-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 2 TEMPORARY BUILDING PERMITS"
+   },
+   "heading": {
+    "en": "Demolition of temporary building"
+   },
+   "text": {
+    "en": "16.—(1) Where —\n(a)the preliminary approval granted in respect of a temporary building lapses or is revoked; or\n(b)the permit in respect of the temporary building expires or is revoked,\nthe owner of the temporary building must —\n(c)demolish the temporary building within 14 days after the lapsing or revocation of the preliminary approval or expiry or revocation of the permit; and\n(d)notify the Commissioner of Building Control of the demolition within 7 days after the temporary building is demolished.\n(2) Despite paragraph (1), the Commissioner of Building Control may order the owner of the temporary building or the owner of the premises on which a temporary building is erected to demolish the temporary building within such period, which may be longer or shorter than the period mentioned in paragraph (1)(c), as the Commissioner of Building Control may specify if —\n(a)the preliminary approval has lapsed or has been revoked;\n(b)the permit has expired or has been revoked; or\n(c)the temporary building has been erected in contravention of these Regulations.\n(3) The person ordered by the Commissioner of Building Control to demolish a temporary building under paragraph (2) must notify the Commissioner of Building Control of the completion of the demolition no later than 7 days after the temporary building is demolished.\n(4) A person who contravenes paragraph (1) or (3) or any order issued under paragraph (2) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H374-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 TEMPORARY BUILDINGS THAT DO NOT REQUIRE PERMIT"
+   },
+   "heading": {
+    "en": "One-storey workers’ quarters or site offices, etc."
+   },
+   "text": {
+    "en": "17.—(1) Any person who erects, or causes or permits the erection of, any one-storey workers’ quarters must ensure that the workers’ quarters comply with the following:\n(a)the headroom must not be less than 2,000 mm;\n(b)every room in the workers’ quarters must be provided with —\n(i)windows or openings, with an aggregate area of not less than 5% of the floor area of the room, for natural ventilation; or\n(ii)a mechanical ventilation system or an air‑conditioning system with ventilation rates that comply with Singapore Standard 553 — Code of Practice for Air‑Conditioning and Mechanical Ventilation in Building;\n(c)a lightning protection system must be installed in accordance with Singapore Standard 555 — Code of Practice for Protection against Lightning.\n(2) Any person who erects, causes or permits the erection of, any one-storey site office must ensure that the site office complies with the following:\n(a)the headroom must not be less than 2,000 mm;\n(b)every room in the site office must be provided with —\n(i)windows or openings, with an aggregate area of not less than 5% of the floor area of the room, for natural ventilation; or\n(ii)a mechanical ventilation system or an air‑conditioning system with ventilation rates that comply with Singapore Standard 553 — Code of Practice for Air‑Conditioning and Mechanical Ventilation in Buildings;\n(c)a lightning protection system must be installed in accordance with Singapore Standard 555 — Code of Practice for Protection against Lightning.\n(3) A person who contravenes paragraph (1) or (2) shall be guilty of an offence.\n(4) In this regulation —\n“one-storey site office” means a temporary building for use as a site office required in connection with building works for a permanent building;\n“one-storey workers’ quarters” means a temporary building for use as workers’ quarters required in connection with building works for a permanent building."
+   }
+  },
+  {
+   "id": "SG-H374-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 TEMPORARY BUILDINGS THAT DO NOT REQUIRE PERMIT"
+   },
+   "heading": {
+    "en": "2-storey and 3-storey workers’ quarters, etc."
+   },
+   "text": {
+    "en": "18.—(1) A builder who intends to erect any temporary building to be used as workers’ quarters, a site office, a builder’s shed, store or other shed that —\n(a)is required in connection with any building works for a permanent building; and\n(b)is of 2 or 3 storeys,\nmust engage a professional engineer to design, supervise and inspect the erection of the temporary building.\n(2) The professional engineer engaged under paragraph (1) must —\n(a)design the temporary building in accordance with the Second Schedule;\n(b)prepare the specified plans relating to the building works for the temporary building;\n(c)before the building works are carried out, give the builder the specified plans relating to the building works for the temporary building;\n(d)supervise and inspect, and take all reasonable steps and exercise due diligence in supervising and inspecting, the erection of the temporary building to ensure that the building works are carried out in accordance with these Regulations and the specified plans;\n(e)notify the Commissioner of Building Control of any contravention of the provisions of the Act or the building regulations in connection with the temporary building; and\n(f)as soon as practicable after the completion of the building works, submit to the builder, in such form and manner as the Commissioner of Building Control may require, the professional engineer’s certificate of supervision for the building works for the temporary building.\n(3) The builder must —\n(a)ensure that the building works are carried out in accordance with the specified plans given to the builder under paragraph (2)(c);\n(b)keep, at the site of the temporary building, any document given to the builder under paragraph (2)(c) or (f) or (4);\n(c)produce the documents given to the builder under paragraph (2)(c) or (f) or (4) for inspection when required to do so by the Commissioner of Building Control; and\n(d)ensure that a professional electrical engineer supervises the installation of any lightning protection system in the temporary building.\n(4) A professional electrical engineer who supervises the installation of any lightning protection system under paragraph (3)(d) must, within 7 days after the installation, submit to the builder, in such form and manner as the Commissioner of Building Control may specify, the professional electrical engineer’s certificate of supervision for the installation of the lightning protection system.\n(5) The builder must not use, or cause or permit the use of, the temporary building unless the certificates under paragraphs (2)(f) and (4) have been submitted to the builder.\n(6) The builder must demolish the temporary building —\n(a)as soon as practicable after completion of the permanent building in connection with which the temporary building was erected; or\n(b)within such time as required by the Commissioner of Building Control.\n(7) A person who contravenes paragraph (1), (2), (3), (4), (5) or (6) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H374-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Protective structures required for temporary building works"
+   },
+   "text": {
+    "en": "19.—(1) Where —\n(a)any builder intends to —\n(i)erect or demolish any temporary building; or\n(ii)alter or repair an outer part of any temporary building; and\n(b)such works are likely to cause obstruction or inconvenience to or endanger members of the public,\nthe builder must, before commencing such works, erect or cause to be erected protective hoardings or other similar temporary structures of solid and robust construction to the satisfaction of the Commissioner of Building Control in order to separate the temporary building or the entire site where such works are intended to be carried out from a street, footway or any adjoining or adjacent property.\n(2) Where the temporary building under construction, demolition, alteration or repair is more than one storey in height and abuts or is near a street or other buildings, the builder must provide catch platforms, safety nettings and other measures for the safety of the public.\n(3) The builder must, within such time as may be specified by the Commissioner of Building Control, take such steps, precautions or safety measures as required by the Commissioner of Building Control in relation to a protective structure and must do so to the satisfaction of the Commissioner of Building Control.\n(4) On completion of the building works, the builder must remove or cause to be removed all protective structures erected for the building works, to the satisfaction of the Commissioner of Building Control.\n(5) A person who contravenes paragraph (1), (2), (3) or (4) shall be guilty of an offence.\n(6) In this regulation, “protective structure” means a protective hoarding (and footways, if any) or other similar temporary structure mentioned in paragraph (1) or a catch platform, safety netting and other safety measure mentioned in paragraph (2)."
+   }
+  },
+  {
+   "id": "SG-H374-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Requirements relating to protective structures"
+   },
+   "text": {
+    "en": "20.—(1) Where protective hoardings for any building abut, or are erected on, a road, street or service road, the builder of the building must —\n(a)provide proper footways for the use of pedestrians; and\n(b)cause the footways to, from 7 p.m. to 7 a.m., be illuminated with such warning signs and warning lights as may be approved by the Commissioner of Building Control.\n(2) The builder must, at all times, maintain in a good and proper state of repair and condition, and paint in light colours at regular intervals, all protective hoardings and catch platforms.\n(3) The builder must, at all times, maintain in a good and proper state of repair and condition —\n(a)the footways mentioned in paragraph (1)(a); and\n(b)the safety nettings and other measures for the safety of the public mentioned in regulation 19(2) of these Regulations or regulation 30(3) of the Building Control Regulations 2003.\n(4) A person who contravenes paragraph (1), (2) or (3) shall be guilty of an offence.\n(5) In this regulation —\n“catch platforms” means the catch platforms mentioned in regulation 19(2) of these Regulations or regulation 30(2) of the Building Control Regulations 2003;\n“protective hoardings” means the protective hoardings and other similar temporary structures mentioned in regulation 19(1) of these Regulations or regulation 30(1) of the Building Control Regulations 2003."
+   }
+  },
+  {
+   "id": "SG-H374-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "General penalty"
+   },
+   "text": {
+    "en": "21. A person who is guilty of an offence under these Regulations for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H374-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Revocation and saving"
+   },
+   "text": {
+    "en": "22.—(1) The Building Control (Temporary Buildings) Regulations (Rg 5) are revoked.\n(2) Despite paragraph (1), the revoked Building Control (Temporary Buildings) Regulations, except regulation 12 of those Regulations, continue to apply to —\n(a)any temporary building erected before 1 March 2019;\n(b)any temporary building for which building works were commenced before 1 March 2019;\n(c)any permit granted under regulation 4 of those Regulations before 1 March 2019 and in force before that date; or\n(d)any application for a permit under regulation 4 of those Regulations made before 1 March 2019,\nas if those Regulations had not been revoked.\n(3) Except as provided in paragraphs (4) and (5), these Regulations do not apply to a temporary building or matter mentioned in paragraph (2).\n(4) Regulation 12 applies to a permit granted under regulation 4 of the revoked Building Control (Temporary Buildings) Regulations before 1 March 2019 and in force before that date, as it does to a permit granted final approval under regulation 11(1).\n(5) Regulation 16 applies to a temporary building mentioned in paragraph (2)(a) or (b) in respect of which the permit lapses, expires or is revoked under the revoked Building Control (Temporary Buildings) Regulations, as it does to a temporary building granted a preliminary approval or permit under these Regulations."
+   }
+  },
+  {
+   "id": "SG-H374-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 4(a)\nTemporary buildings to which these\nregulations do not apply\n1. Any tentage —\n(a)that is used for a duration not exceeding 60 days;\n(b)the area of which does not exceed 2,000 m2; and\n(c)in respect of which no span of any element of the tentage exceeds 18 m.\n2. Any stage that is used —\n(a)for a duration not exceeding 7 days; and\n(b)for or in connection with the holding of any wedding, entertainment, funeral or religious ceremony.\n3. Any frame, panel, hoarding, board or other structure —\n(a)in the case of a structure that is capable of standing on its own on the ground, a roof or any horizontal plane (whether or not it is affixed to the horizontal plane on one or more supports), where —\n(i)every part of the structure is less than 4 m from the horizontal plane on which that part of the structure stands; and\n(ii)the side of the structure with the largest surface area does not exceed 10 m2 in area; and\n(b)in any other case, where the side of the structure with the largest surface area does not exceed 10 m2 in area."
+   }
+  },
+  {
+   "id": "SG-H374-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulations 9(2)(a) and 18(2)(a)\nDesign requirements for\ntemporary buildings\nLoads\n1. A temporary building must be designed to resist the types of load specified under the first column of the following table in accordance with the applicable standards in the documents specified under the second column of that table:\nFirst column\nSecond column\nType of load\nApplicable standards\n1.Dead loads\nSS EN 1991-1-1 — Eurocode 1: Actions on structures – Part 1‑1: General actions – Densities, self‑weight, imposed loads for buildings.\n2.Imposed floor and ceiling loads, dynamic loads due to crowd movement, loads on parapets and balustrades, loads on vehicular barrier for car parks, accidental loads\n(a)SS EN 1991-1-1 — Eurocode 1: Actions on structures – Part 1‑1: General actions – Densities, self‑weight, imposed loads for buildings;\n(b)BS 4592 — Industrial type flooring and stair treads\n3.Wind loads\nSS EN 1991-1-4 — Eurocode 1: Actions on structures – Part 1‑4: General actions – Wind actions\n4.Imposed roof loads\nSS EN 1991-1-1 — Eurocode 1: Actions on structures – Part 1‑1: General actions – Densities, self‑weight, imposed loads for buildings\n5.Crane loads\nSS EN 1991-3 — Eurocode 1: Actions on structures – Part 3: Actions induced by cranes and machinery\n6.Vehicular bridge live loads\nSS EN 1991-2 — Eurocode 1: Actions on structures – Part 2: Traffic loads on bridges\nStructural design\n2.—(1) Where a temporary building contains any structure specified under the first column of the following table, the temporary building must be designed to comply with the applicable standards in the documents specified under the second column of that table:\nFirst column\nSecond column\nType of structure\nApplicable standards\n1.Reinforced and prestressed concrete structures\nSS EN 1992 — Eurocode 2: Design of concrete structures\n2.Steel structures; composite steel and concrete structures\n(a)SS EN 1993 — Eurocode 3: Design of steel structures;\n(b)SS EN 1994 — Eurocode 4: Design of composite steel and concrete structures;\n(c)BC 1 — Design Guide on Use of Alternative Structural Steel to BS 5950 and Eurocode 3.\n3.Foundations\nSS EN 1997-1 — Eurocode 7: Geotechnical design – Part 1: General rules\n4.Aluminium structures\nBS EN 1999 — Eurocode 9: Design of aluminium structures\n5.Timber structures\nBS EN 1995 — Eurocode 5: Design of timber structures\n6.Aqueous retaining concrete structures\nSS EN 1992-3 — Eurocode 2: Design of concrete structures – Part 3: Liquid retaining and containment structures\n7.Retaining structures\nSS EN 1997-1 — Eurocode 7: Geotechnical design – Part 1: General rules\n8.Assessment of concrete\n(a)SS EN 13791 — Assessment of in‑situ compressive strength in structures and precast concrete components;\n(b)SS 592 — Assessment of in‑situ compressive strength and precast concrete components – Complementary guidance to that given in SS EN 13791\n(2) Where a temporary building contains any structure specified under the first column of the following table, the temporary building must be designed to comply with the applicable standards in the documents specified under the second column of that table:\nFirst column\nSecond column\nType of structure\nApplicable standard\n1.Buildings and structures for agriculture\nBS 5502-22 — Buildings and structures for agriculture. Code of practice for design, construction and loading\n2.Externally Bonded Fibre-Reinforced Polymer (FRP) Systems\n(a)Technical Report 55 — Design guidance for strengthening concrete structures using fibre composite materials, published by the Concrete Society, United Kingdom;\n(b)440.2R-08 — Guide for the Design and Construction of Externally Bonded FRP Systems for Strengthening Concrete Structures, published by the American Concrete Institute\n3.Maritime structures (including floating platforms)\nBS 6349 — Maritime works\n4.Glass\n(a)AS 1288 — Glass in buildings - Selection and installation, published by Standards Australia;\n(b)ASTM E1300-12ae1. Standard Practice for Determining Load Resistance of Glass in Buildings, published by ASTM International;\n(c)Structural use of glass in buildings, published by IStructE, United Kingdom\nSite investigation and instrumentation\n3. Site investigation and instrumentation must be carried out in accordance with SS EN 1997‑2 — Eurocode 7: Geotechnical design – Part 2: Ground investigation and testing.\nSite formation\n4. Site formation works must conform to the standards specified in BS 6031 — Code of practice for earthworks.\nConstruction materials\n5.—(1) The construction materials specified under the first column of the following table must comply with the applicable standards in the documents specified under the second column of that table:\nFirst column\nSecond column\nType of material\nApplicable standards\n1.Cement\n(a)SS EN 197 — Specification for cement;\n(b)BS EN 15743 — Supersulfated cement. Composition, specifications and conformity criteria\n2.Ground granulated blast furnace slag\nSS EN 15167 — Specification for Ground granulated blast furnace slag for use in concrete, mortar and grout\n3.Aggregates\nSS EN 12620 — Aggregates for concrete\n4.Water\nBS EN 1008 — Mixing water for concrete\n5.Steel reinforcement\n(a)BS 4449 — Steel for the reinforcement of concrete. Weldable reinforcing steel. Bar, coil and decoiled product. Specification;\n(b)BS 4483 — Steel fabric for the reinforcement of concrete. Specification;\n(c)SS 560 — Specification for steel for the reinforcement of concrete – Weldable reinforcing steel – Bar, coil and decoiled product;\n(d)SS 561 — Specification for steel fabric for the reinforcement of concrete\n6.Concrete\n(a)SS EN 206-1 — Concrete – Specification, performance, production and conformity;\n(b)SS 544 — Concrete – Complementary Singapore Standard to SS EN 206 1;\n(c)Control on alkali content in accordance with the following requirements (from BRE Digest 330 “Alkali‑silica reaction in concrete” published by the Building Research Establishment, United Kingdom) —\n(i)using low alkali cement (to be used with aggregates with marginal reactivity having expansion not greater than 0.2% when evaluated using ASTM C1260) with equivalent Na2O of not more than 0.6%; or\n(ii)limiting the total alkali content of concrete to 2.5 kg equivalent Na2O/m3;\n(d)BS EN 1504 — Repair of concrete structures – Products and systems for the protection and repair of concrete structures\n7.Admixture\nSS EN 934 — Admixtures for concrete, mortar and grout\n8.Aluminium and aluminium alloys\n(a)BS EN 485 — Aluminium and aluminium alloys – Sheet, strip and plate;\n(b)BS EN 515 — Aluminium and aluminium alloys – Wrought products – Temper designations;\n(c)BS EN 573 — Aluminium and aluminium alloys – Chemical composition and form of wrought products;\n(d)BS EN 755 — Aluminium and aluminium alloys – Extruded rod/bar, tube and profiles;\n(e)BS EN 12020 — Aluminium and aluminium alloys – Extruded precision profiles in alloys EN AW‑6060 and EN AW‑6063;\n(f)BS EN 1999 — Eurocode 9: Design of aluminium structures\n9.Timber structures\n(a)BS EN 14080 — Timber structures – Glued laminated timber and glued solid timber – Requirements;\n(b)BS EN 14081 — Timber structures – Strength graded structural timber with rectangular cross section\n10.Prestressing wires, strands or bars\n(a)BS 5896 — Specification for high tensile steel wire and strand for the prestressing of concrete;\n(b)BS 4486 — Specification for hot rolled and processed high tensile alloy steel bars for the prestressing of concrete\n(2) The construction materials specified under the first column of the following table must comply with the applicable standards in the documents specified under the second column of that table:\nFirst column\nSecond column\nType of material\nApplicable standard\n1.Structural steel\n(a)BS 7668 — Specification for weldable structural steels – Hot finished structural hollow sections in weather resistant steels;\n(b)BS EN 10025 — Hot rolled products of structural steels;\n(c)BS EN 10210 — Hot finished structural hollow sections of non-alloy and fine grain steels;\n(d)BS EN 10219 — Cold formed welded structural hollow sections of non-alloy and fine grain steels;\n(e)BS EN 10088 — Stainless steels;\n(f)BC 1 — Design Guide on Use of Alternative Structural Steel to BS 5950 and Eurocode 3;\n(g)BS EN 10340 — Steel Casting for Structural Uses;\n(h)BS EN 1559 — Founding – Technical condition of delivery;\n(i)BS EN 12680-1 — Founding – Ultrasonic examination. Steel castings for general purposes;\n(j)BS EN 12680-2 — Founding – Ultrasonic examination – Steel castings for highly stressed components;\n(k)BS EN 12681 — Founding – Radiographic examination;\n(l)BS EN 1369 — Founding – Magnetic particle testing\n2.Fixings of claddings\nBS EN ISO 3506 — Mechanical properties of corrosion‑resistant stainless steel fasteners\n3.Post-installed anchors\nBS 8539 — Code of practice for the selection and installation of post‑installed anchors in concrete and masonry\nSafety from falling\n6.—(1) The height of a barrier must not be less than —\n(a)1,000 mm; or\n(b)900 mm if the barrier is at the lower edge of windows, stairs, ramps, galleries or balconies with fixed seating in areas such as theatres, cinemas and assembling halls.\n(2) The size of any opening or gap in a barrier must not be so wide as to permit the passage of a sphere of a diameter of —\n(a)for a barrier in a non‑industrial building — 100 mm; or\n(b)for a barrier in an industrial building — 150 mm.\nHeadroom\n7.—(1) The headroom of every room, access route and circulation space must not be less than 2,000 mm.\n(2) Headroom is to be measured from the finished floor level to the underside of any beam, duct, service pipe, fixture, fitting or other obstruction or projection.\nStaircases\n8.—(1) The height of every riser of a staircase must not be more than 175 mm, and every riser within a flight of stairs must be of uniform height or size.\n(2) The width of every tread of a staircase must not be less than 250 mm, and every tread within a flight of stairs must be of uniform height or size.\n(3) Tolerance in the dimensions of any 2 consecutive steps in a flight of staircase must not exceed 5 mm.\n(4) A handrail must be provided on at least one side of a flight of staircase.\n(5) The height of the handrail must be between 750 mm and 1,000 mm above the pitch line.\nLighting\n9. Every room must be provided with —\n(a)windows or openings having an aggregate area of not less than 10% of the floor area of the room for natural lighting; or\n(b)artificial lighting that complies with the illuminance recommended in SS 531 — Code of Practice for Lighting of Work Places.\nVentilation\n10. Every room must be provided with —\n(a)windows or openings having an aggregate area of not less than 5% of the floor area of the room for natural ventilation; or\n(b)mechanical ventilation or air‑conditioning system that complies with the ventilation rates given in SS 553 — Code of Practice for Air‑Conditioning and Mechanical Ventilation in Buildings.\nLightning protection\n11. Every temporary building intended for occupation must be designed and installed with a lightning protection system that is in accordance with SS 555 — Code of Practice for Protection against Lightning.\nDefinitions\n12. In this Schedule —\n“BC” means a standard or specification issued by the Building and Construction Authority;\n“BS” is the abbreviation for British Standard, which means a standard or specification issued by the British Standards Institution;\n“BS EN” is the abbreviation for British Standard European Norm, which means a standard or specification issued by the British Standards Institution;\n“SS” is the abbreviation for Singapore Standard;\n“SS EN” is the abbreviation for Singapore Standard European Norm, which means a standard or specification issued by the Enterprise Singapore Board, established under section 3 of the Enterprise Singapore Board Act 2018."
+   }
+  },
+  {
+   "id": "SG-H374-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulation 9(3)\nConstruction tests\n1. Construction tests for the materials specified under the first column of the following table must comply with the applicable standards in the documents specified under the second column of that table:\nFirst column\nSecond column\nType of material\nApplicable standards\n1.Cement\nBS EN 196 — Methods of testing cement\n2.Aggregate\nSS EN 12620 — Aggregates for concrete\n3.Water\nBS EN 1008 — Mixing water for concrete – Specification for sampling, testing and assessing the suitability of water, including water recovered from processes in the concrete industry, as mixing water for concrete\n4.Concrete\n(a)BS 1881 — Testing concrete;\n(b)BS EN 12350 — Testing fresh concrete;\n(c)BS EN 12390 — Testing hardened concrete;\n(d)BS EN 12504 —Testing concrete in structures;\n(e)SS EN 13791 — Assessment of in‑situ compressive strength in structures and precast concrete components;\n(f)SS 592 — Assessment of in-situ compressive strength and precast concrete components – Complementary guidance to that given in SS EN 13791\n5.Admixture\nSS EN 934 — Admixtures for concrete, mortar and grout\n6.Steel reinforcement\n(a)BS 4449 — Steel for the reinforcement of concrete – Weldable reinforcing steel – Bar, coil and decoiled product – Specification;\n(b)BS 4483 — Steel fabric for the reinforcement of concrete – Specification;\n(c)SS 560 — Steel for reinforcement of concrete – Weldable reinforcing steel – Bar, coil and decoiled product;\n(d)SS 561 — Steel fabric for the reinforcement of concrete\n7.Pile load test\nSS EN 1997-1 — Geotechnical design – General rules\n8.Timber\n(a)BS EN 14080 — Timber structures. Glued laminated timber – Requirements;\n(b)BS EN 14081 — Timber structures. Strength graded structural timber with rectangular cross section\n9.Prestressing wires, strands or bars\n(a)BS 5896 — Specification for high tensile steel wire and strand for the prestressing of concrete;\n(b)BS 4486 — Specification for hot rolled and processed high tensile alloy steel bars for the prestressing of concrete\n2. Construction tests for the materials specified under the first column of the following table must comply with the applicable standards in the documents specified under the second column of that table:\nFirst column\nSecond column\nType of material\nApplicable standard\n1.Structural steel\n(a)BS EN 10025 — Hot rolled products of structural steels;\n(b)BS EN 10210 — Hot finished structural hollow sections of non‑alloy and fine grain steels;\n(c)BS EN 10219 — Cold formed welded structural hollow sections of non‑alloy and fine grain steels;\n(d)BS EN 10088 — Stainless steels;\n(e)BC 1 — Design Guide on Use of Alternative Structural Steel to BS 5950 and Eurocode 3;\n(f)BS EN 10340 — Steel castings for structural uses;\n(g)BS EN 1559 — Founding – Technical conditions of delivery;\n(h)BS EN 1369 — Founding – Magnetic particle testing;\n(i)BS EN 12680 — Founding – Ultrasonic examination;\n(j)BS EN 12681 — Founding – Radiographic examination.\n2.Welding and weld quality\n(a)BS EN ISO 17638 — Non‑destructive testing of welds – Magnetic particle testing;\n(b)BS EN ISO 23278 — Non‑destructive testing of welds – Magnetic particle testing – Acceptance levels;\n(c)BS EN 571 — Non‑destructive testing – Penetrant testing;\n(d)BS EN ISO 17640 — Non‑destructive testing of welds – Ultrasonic testing – Techniques, testing levels and assessment;\n(e)BS EN 1435 — Non-destructive examination of welds – Radiographic examination of welded joints\nDefinitions\n3. In this Schedule —\n“BC” means a standard or specification issued by the Building and Construction Authority;\n“BS” is the abbreviation for British Standard, which means a standard or specification issued by the British Standards Institution;\n“BS EN” is the abbreviation for British Standard European Norm, which means a standard or specification issued by the British Standards Institution;\n“SS” is the abbreviation for Singapore Standard;\n“SS EN” is the abbreviation for Singapore Standard European Norm, which means a standard or specification issued by the Enterprise Singapore Board, established under section 3 of the Enterprise Singapore Board Act 2018."
+   }
+  }
+ ]
+}

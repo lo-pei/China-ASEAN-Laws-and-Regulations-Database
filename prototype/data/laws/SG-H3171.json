@@ -1,0 +1,52 @@
+{
+ "id": "SG-H3171",
+ "title": {
+  "zh": null,
+  "en": "Merchant Shipping (Exemption under Section 222) Notification",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p40",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MSA1995-N1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 881,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MSA1995-N1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 1 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3171-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Merchant Shipping Act\n(Chapter 179, Section 222)\nMerchant Shipping (Exemption under Section 222) Notification\nN 1\nG.N. No. S 177/1967\nREVISED EDITION 1990\n(25th March 1992)\n[18th August 1967]\nThe Deputy Prime Minister has exempted from the provisions of sections 218 to 236 of the Act any ship which leaves Singapore under tow by another vessel, subject to the following conditions:\n(a)there shall be no human life on board such vessel;\n(b)no cargo shall be carried by such vessel; and\n(c)at the time port clearance is requested there shall be produced to the Director of Marine a valid certificate of seaworthiness. The certificate shall, in addition to a statement that the vessel is in a fit condition to undertake the voyage at that season of the year, certify that the towing arrangements are adequate and the vessel is fitted with satisfactory long burning navigation lights."
+   }
+  }
+ ]
+}

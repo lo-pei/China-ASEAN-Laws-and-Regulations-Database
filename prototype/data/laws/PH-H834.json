@@ -1,0 +1,74 @@
+{
+ "id": "PH-H834",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Sections One and Five of Republic Act Numbered Six Hundred Thirteen, Otherwise Known as the Export Control Law, as Reenacted and Amended by Republic Act Numbered Eight Hundred Twenty Four",
+  "orig": "An Act to Amend Sections One and Five of Republic Act Numbered Six Hundred Thirteen, Otherwise Known as the Export Control Law, as Reenacted and Amended by Republic Act Numbered Eight Hundred Twenty Four"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p11",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1954-06-12",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 999",
+ "officialCode": null,
+ "topics": [
+  "trade"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1462,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1954/ra_999_1954.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1954/ra_999_1954.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H834-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Republic Act Numbered Six hundred thirteen, otherwise known as the Export Control Law, is hereby further amended as follows:\n\"Sec. 1. In order to promote economic and industrial development and to safeguard national security, it shall be unlawful for any person, association or corporation to export, re-export or tranship to any point outside the Philippines uranium and other atomic energy materials, machineries and their spare parts, scrap metals, medicines, foodstuffs, abaca seedlings, gasoline, oil, lubricants and military equipment or supplies suitable for military use, and such other items as may be deemed essential for industrialization and economic development without a permit from the President which may be issued in accordance with the provisions of the next succeeding section.\""
+   }
+  },
+  {
+   "id": "PH-H834-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section five of Republic Act Numbered Six hundred thirteen is hereby amended as follows:\n\"Sec. 5. The authority granted in this act shall terminate on December thirty-one, nineteen hundred and fifty-six, unless sooner terminated b concurrent resolution of Congress, except that as to offenses committed, on rights or liabilities incurred prior to such repeal, the provisions of this Act and of the rules and regulations issued thereunder shall be treated as remaining in effect for the purpose of sustaining any suit, action, or prosecution with respect to such rights, liabilities or offenses.\""
+   }
+  },
+  {
+   "id": "PH-H834-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 12, 1954."
+   }
+  }
+ ]
+}

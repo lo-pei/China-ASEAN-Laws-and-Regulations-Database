@@ -1,0 +1,65 @@
+{
+ "id": "PH-H1369",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Sections One, Two, Three and Four of Republic Act Numbered Four Hundred Twenty-Eight, Entitled “An Act to Declare Illegal the Possession, Sale or Distribution of Fish or Other Aquatic Animals Stupefied, Disabled or Killed by Means of Dynamite or Other Explosive or Toxic Substances and Providing Penalties Therefor”",
+  "orig": "An Act Amending Sections One, Two, Three and Four of Republic Act Numbered Four Hundred Twenty-Eight, Entitled “An Act to Declare Illegal the Possession, Sale or Distribution of Fish or Other Aquatic Animals Stupefied, Disabled or Killed by Means of Dynamite or Other Explosive or Toxic Substances and Providing Penalties Therefor”"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p19",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1956-06-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1535",
+ "officialCode": null,
+ "topics": [
+  "environment",
+  "criminal"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 4300,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1956/ra_1535_1956.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1956/ra_1535_1956.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1369-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section one, two, three and four of Republic Act Numbered Four hundred and twenty-eight are hereby amended to read as follows:\n\"Sec. 1. It shall be unlawful for any person knowingly to possess, sell or distribute, in any place and manner, fish or other aquatic animals stupefied, disabled of killed by means of dynamite or other explosive or toxic substances.\n\"Any fisherman who possesses, sells or distributes fish or other aquatic animals found to have been so stupefied, disabled or killed, shall be presumed prima facie to have knowledge of such fact.\n\"Sec. 2. Any person violating the provision of section one hereof shall be penalized as follows:\n\"(a) If the total value of all the fish or other aquatic animals in possession, sale or distribution does not exceed one hundred pesos, by a fine of not less than one hundred pesos nor more than five hundred pesos, or by imprisonment of not less than one month nor more than six months, or by both such fine and imprisonment in the discretion of the court;\n\"(b) If the total value of all the fish or other aquatic animals in possession, sale or distribution exceeds one hundred pesos, by a fine of not less than two hundred pesos nor more than one thousand pesos, or by imprisonment of not less than two months nor more than one year, or by both such fine and imprisonment in the discretion of the court.\"\n\"Sec. 3. Any person who buys or receives fish or other aquatic animals knowing the same to have been stupefied, disabled or killed in violation of this Act, shall be punished under section two hereof, unless before his apprehension he denounces the vendor or the giver of such fish or other aquatic animals, to the competent authorities, in which case he shall be exempted from criminal liability.\n\"Any person who has bought or acquired fish or other aquatic animals found to be stupefied, disabled or killed in violation of this Act, shall, upon discovery of said violation, denounce the same to the proper authorities who shall forthwith take necessary steps leading to the corresponding investigation and prosecution of the offender under this Act. Failure on the part of said person to do so within forty-eight hours after the discovery of the violation shall subject him to the penalty prescribed by subsection (a) of section two hereof, regardless of the total value of the fish and other aquatic animals involved.\n\"Sec. 4. Any policeman, peace, officer, agent authorized by the Bureau of Fisheries, sanitary inspector, or employee of the Bureau of Health, or any person in authority, who, having acquired knowledge of any violation of this Act, by denunciation or otherwise, should without just cause, fail to take the necessary steps leading to the investigation and prosecution of the offense, or should hinder or unnecessarily delay said investigation and prosecution, shall be removed or suspended from office and punished under section two hereof as co-principal in the commission of the crime.\n\"Any officer or person mentioned in the preceding paragraph is authorized to take from among the fishes or aquatic animals believed to have been stupefied or killed in violation of this Act the necessary samples, in not more than one kilo, for examination, issuing a receipt therefor with specification of the kind and the quality of fish or other aquatic animals taken by him as well as their value obtaining in the market that day. If after the examination, such fish or aquatic animals are found not to have been stupefied or killed in violation of this Act, the person from whom they are taken as samples shall be paid their value as herein stated, said payment to be borne and defrayed by the government office or agency to which the person or officer mentioned in the first paragraph of this section is connected from funds appropriated for said purpose. The officer or person in authority or agent of authority who does not submit the sample taken for examination or does not give the person from whom it was taken a report of such examination within ten days shall be punished upon conviction by a fine of not exceeding five hundred pesos, or by imprisonment for not more than six months, or both such fine and imprisonment, in the discretion of the court.\""
+   }
+  },
+  {
+   "id": "PH-H1369-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956"
+   }
+  }
+ ]
+}

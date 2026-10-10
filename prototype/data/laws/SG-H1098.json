@@ -1,0 +1,604 @@
+{
+ "id": "SG-H1098",
+ "title": {
+  "zh": null,
+  "en": "Defence Science and Technology Agency Act 2000",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p14",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act DSTAA2000",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 36,
+ "chars": 33759,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/DSTAA2000?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 36 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1098-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Defence Science and Technology Agency Act 2000."
+   }
+  },
+  {
+   "id": "SG-H1098-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“Agency” means the Defence Science and Technology Agency established under section 3;\n“board” means the board of directors of the Agency;\n“Chairperson” means the Chairperson of the board and includes any temporary Chairperson of the board;\n“Chief Executive” means the Chief Executive of the Agency, and includes any individual acting in that capacity;\n“director” means a director of the board;\n“incorporated Departments” means the following departments of the Ministry of Defence:\n(a)Command, Control, Communications and Computer Systems Organisation;\n(b)Defence Materiel Organisation;\n(c)Defence Medical Research Institute;\n(d)Defence Procurement Division;\n(e)Directorate of Research and Development;\n(f)Lands and Estates Organisation;\n(g)Resource Planning Office;\n(h)Systems and Computer Organisation;\n“Singapore Armed Forces” means the Singapore Armed Forces constituted under the Singapore Armed Forces Act 1972.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H1098-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION ANDCONSTITUTION OF AGENCY"
+   },
+   "heading": {
+    "en": "Establishment and incorporation of Agency"
+   },
+   "text": {
+    "en": "3. A body called the Defence Science and Technology Agency is established, which is a body corporate with perpetual succession and a common seal and is by that name capable of —\n(a)suing and being sued;\n(b)acquiring, owning, holding and developing or disposing of property, both movable and immovable; and\n(c)doing and suffering all such other acts or things as a body corporate may lawfully do or suffer."
+   }
+  },
+  {
+   "id": "SG-H1098-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION ANDCONSTITUTION OF AGENCY"
+   },
+   "heading": {
+    "en": "Common seal"
+   },
+   "text": {
+    "en": "4.—(1) All deeds and other documents requiring the seal of the Agency must be sealed with the common seal of the Agency and such instruments to which the common seal is affixed must be signed by any 2 directors generally or specially authorised by the Agency for the purpose or by one director and the Chief Executive.\n(2) All courts, judges and persons acting judicially are to take judicial notice of the common seal of the Agency affixed to any document and presume that it was duly affixed."
+   }
+  },
+  {
+   "id": "SG-H1098-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION ANDCONSTITUTION OF AGENCY"
+   },
+   "heading": {
+    "en": "Board of directors of Agency"
+   },
+   "text": {
+    "en": "5.—(1) There is to be a board of directors of the Agency which is responsible for the policy and general administration of the affairs and business of the Agency.\n(2) The board consists of —\n(a)a Chairperson; and\n(b)not less than 8 and not more than 20 other directors as the Minister may determine.\n(3) The First Schedule has effect with respect to the board, its directors and its proceedings."
+   }
+  },
+  {
+   "id": "SG-H1098-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 MISSION, FUNCTIONS AND POWERS OF AGENCY"
+   },
+   "heading": {
+    "en": "Mission and functions of Agency"
+   },
+   "text": {
+    "en": "6.—(1) The Agency is to harness and exploit science and technology, and provide technological and engineering support, to meet the defence and national security needs of Singapore.\n(2) The functions of the Agency are —\n(a)to advise the Ministry of Defence on all matters relating to defence science and technology;\n(b)to provide defence science and technology services and facilities to the Ministry of Defence;\n(c)to promote and facilitate the development of the defence science and technological capability in Singapore;\n(d)to manage the acquisition of defence systems, provide engineering support for such systems, provide quality assurance and systems engineering services, and forecast and assess future defence systems, for the Ministry of Defence;\n(e)to manage the acquisition of command, control, communications, computer and simulation systems, develop software and provide engineering support for such systems, and forecast and assess such future systems, for the Ministry of Defence;\n(f)to manage the design and development of defence buildings and infrastructure, and manage the maintenance of such buildings, infrastructure, and defence estates, for the Ministry of Defence;\n(g)to manage the acquisition of management information systems and information technology infrastructure, and develop, maintain and support such systems and infrastructure, and forecast and assess future developments in information technology and formulate standards, for the Ministry of Defence;\n(h)to conduct research on military medicine and perform human factors engineering studies, for the Ministry of Defence;\n(i)to manage contracts for the purchase of defence systems, spares and services, maintain a catalogue of stocked items, and manage the disposal of old stocks and equipment, for the Ministry of Defence;\n(j)to manage technological cooperation with other persons, and conduct and manage research and development programmes, for the Ministry of Defence;\n(k)to undertake any other activity considered necessary or desirable to achieve a cost-effective defence science and technological capability in Singapore; and\n(l)to perform other functions that are conferred on the Agency by any other written law.\n(3) The Agency may undertake other functions that the Minister may assign to the Agency and in so doing, the Agency is deemed to be fulfilling the purposes of this Act and the provisions of this Act apply to the Agency in respect of those functions.\n(4) Nothing in this section is to be construed as imposing on the Agency, directly or indirectly, any form of duty or liability enforceable by proceedings before any court."
+   }
+  },
+  {
+   "id": "SG-H1098-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 MISSION, FUNCTIONS AND POWERS OF AGENCY"
+   },
+   "heading": {
+    "en": "Powers of Agency"
+   },
+   "text": {
+    "en": "7.—(1) The Agency has power to do anything for the purpose of discharging its functions under this Act or under any other written law, or which it may consider advantageous, necessary or convenient to the discharge of those functions and, in particular, may —\n(a)enter into contracts for itself or the Government for defence systems, facilities, technology, equipment, materials or services or for the execution of works or any other contract as may be necessary for the discharge of its duties and functions;\n(b)engage alone or in conjunction with other persons in the design and development of defence systems and the provision of systems design services;\n(c)form or participate in the formation of any company or enter into any joint venture or partnership for the purposes of this Act;\n(d)provide technical advice, training and assistance to any Government body or statutory board and to defence authorities of other countries;\n(e)levy such charges and fees as may be reasonable for services and facilities provided by the Agency;\n(f)provide financial loans, advances, grants, aid or assistance to any person for all or any of the purposes of this Act;\n(g)collect, compile, analyse and disseminate by any convenient means information of a statistical nature or otherwise concerning matters relating to its functions;\n(h)provide scholarships and training grants in the fields of defence science and technology;\n(i)receive donations, grants, gifts, subsidies and contributions from any source and raise funds by all lawful means;\n(j)make provision for gratuities, pensions, allowances or other benefits for employees or former employees of the Agency;\n(k)grant or guarantee loans to officers or employees of the Agency for any purpose specifically approved by the Agency;\n(l)provide recreational facilities and promote recreational activities for, and activities conducive to, the welfare of officers and employees of the Agency and members of their families; and\n(m)do such other acts as are incidental to any of its functions or powers.\n(2) The Agency may, in addition to the powers vested in it by subsection (1), exercise such other powers as the Minister may in writing authorise the Agency to exercise.\n(3) This section is not to be construed as limiting any power of the Agency conferred by or under any other written law."
+   }
+  },
+  {
+   "id": "SG-H1098-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 MISSION, FUNCTIONS AND POWERS OF AGENCY"
+   },
+   "heading": {
+    "en": "Directions by Minister"
+   },
+   "text": {
+    "en": "8.—(1) The Minister may give to the Agency any direction under section 5 of the Public Sector (Governance) Act 2018.\n[5/2018]\n(2) The Agency must furnish the Minister with such information in respect of its property and activities in such manner and at such times as the Minister may require."
+   }
+  },
+  {
+   "id": "SG-H1098-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 MISSION, FUNCTIONS AND POWERS OF AGENCY"
+   },
+   "heading": {
+    "en": "Appointment of committees and delegation of powers"
+   },
+   "text": {
+    "en": "9.—(1) The board may appoint from among its own directors or from among other persons any number of committees that it thinks fit for purposes which, in the opinion of the board, would be better regulated and managed by means of those committees.\n(2) The board may, subject to such conditions or restrictions as it thinks fit, delegate to any committee appointed under subsection (1) or to the Chairperson or any director, or to any officer or employee of the Agency or to any other person as the board thinks fit, any of the functions or powers of the Agency administered by the board under this Act or any other written law.\n(3) Any function or power delegated under subsection (2) to any committee or person may be performed or exercised by the committee or the person to whom it has been delegated (as the case may be) in the name and on behalf of the Agency."
+   }
+  },
+  {
+   "id": "SG-H1098-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 4 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Chief Executive"
+   },
+   "text": {
+    "en": "10.—(1) There must be a Chief Executive of the Agency, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.\n[5/2018]\n(2) The Commission may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —\n(a)is absent from duty or Singapore; or\n(b)is, for any reason, unable to perform the duties of the office.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H1098-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 4 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Appointment of officers, employees, other persons, etc., and prohibition of strikes"
+   },
+   "text": {
+    "en": "11.—(1) The Agency may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.\n[5/2018]\n(2) If it appears to the Minister to be necessary for the public safety, defence or security of Singapore, the Minister may require any employee of the Agency to continue in the employment of the Agency for such period as the Minister may determine, and the employee must continue in the employment of the Agency for that period.\n(3) Any decision or determination of the Minister under subsection (2) is final and is not subject to appeal or review in any court.\n(4) An employee of the Agency must not go on strike or instigate or incite others to take part in or otherwise act in furtherance of any industrial action.\n(5) Any employee who fails to comply with a requirement of the Minister under subsection (2) or who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 years or to both.\n(6) In subsection (4) —\n“industrial action” means any action or omission by a body of persons employed in any trade or industry, acting in combination or under a common understanding, which would result in any limitation or restriction on, or delay in, the performance of any duty connected with their employment;\n“strike” means the cessation of work by a body of persons employed in any trade or industry acting in combination, or a concerted refusal, or a refusal under a common understanding of a number of persons who are, or who have been so employed, to continue to work or to accept employment."
+   }
+  },
+  {
+   "id": "SG-H1098-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 4 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Protection from personal liability"
+   },
+   "text": {
+    "en": "12. No suit or other legal proceedings shall lie personally against any director, officer or employee of the Agency or other person acting under the direction of the Agency for anything which is in good faith done or intended to be done in the execution or purported execution of this Act or any other written law."
+   }
+  },
+  {
+   "id": "SG-H1098-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 4 PROVISIONS RELATING TO STAFF"
+   },
+   "text": {
+    "en": "13. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1098-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Funds and property of Agency"
+   },
+   "text": {
+    "en": "14. The funds and property of the Agency consist of —\n(a)all moneys paid to the Agency for the purposes of the Agency;\n(b)all moneys paid to the Agency by way of grants, subsidies, donations, gifts and contributions;\n(c)all moneys received by the Agency by way of charges and fees for services rendered by the Agency to any person;\n(d)all moneys, dividends, royalties, interest or income received from any transactions made pursuant to the powers conferred on the Agency under this Act;\n(e)all moneys borrowed by the Agency under this Act;\n(f)all other moneys and property lawfully received by the Agency for the purposes of the Agency; and\n(g)all accumulations of income derived from any such moneys or property."
+   }
+  },
+  {
+   "id": "SG-H1098-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Application of revenue"
+   },
+   "text": {
+    "en": "15.—(1) The revenue of the Agency in a financial year must be applied in payment of the following charges:\n(a)sums required to be paid to the Government towards the repayment of any loan made by the Government to the Agency;\n(b)interest and principal on any loan payable by the Agency;\n(c)sums required to be transferred to a sinking fund or otherwise set aside for the purpose of making provision for the repayment of borrowed money;\n(d)the salaries, fees and allowances of the directors of the Agency;\n(e)the salaries, fees, remuneration, provident fund contributions, pensions, superannuation allowances and gratuities of the officers, employees, former employees, agents, consultants and other persons appointed or employed by the Agency;\n(f)working and establishment expenses and expenditure on, or provision for, the maintenance of any of the property of the Agency, and the discharge of the functions of the Agency properly chargeable to revenue account;\n(g)such sums as the Agency may consider appropriate to set aside in respect of depreciation or renewal of the property of the Agency;\n(h)the cost, or any portion of the cost, of any new works, plant, vessels, vehicles, machinery, equipment or appliances not being a renewal of the property of the Agency, which the Agency may determine to charge to revenue;\n(i)expenses incurred or incidental to the investment or management of the Agency’s moneys;\n(j)such sums by way of contribution to the public or for charities, for such purposes associated with the objects of this Act as the Agency may determine;\n(k)any other expenditure authorised by the Agency and properly chargeable to revenue.\n(2) The balance of the revenue of the Agency must be applied for the creation of a general reserve or such other reserves or capital funds as the Agency may consider appropriate."
+   }
+  },
+  {
+   "id": "SG-H1098-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Bank accounts and application of moneys"
+   },
+   "text": {
+    "en": "16.—(1) The Agency may open and maintain one or more accounts with any bank or banks that the Agency thinks fit.\n(2) The moneys of the Agency must be applied only in payment or discharge of the expenses, obligations and liabilities of the Agency and in making any payment that the Agency is authorised or required to make."
+   }
+  },
+  {
+   "id": "SG-H1098-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Minister’s approval of estimates"
+   },
+   "text": {
+    "en": "17.—(1) A copy of all annual estimates of revenue and expenditure and supplementary estimates must, upon their adoption by the Agency, be sent without delay to the Minister.\n[5/2018]\n(2) The Minister may approve or disallow any item or portion of any item shown in the annual estimates or supplementary estimates.\n[5/2018]\n(3) The Minister must return the annual estimates or supplementary estimates as amended under subsection (2) to the Agency, and the Agency is bound by the Minister’s decision.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H1098-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Power of investment"
+   },
+   "text": {
+    "en": "18. The Agency may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965.\n[45/2004]"
+   }
+  },
+  {
+   "id": "SG-H1098-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Grants"
+   },
+   "text": {
+    "en": "19. For the purpose of enabling the Agency to carry out its functions under this Act, the Minister may make grants to the Agency of such sums of money as the Minister may determine out of moneys to be provided by Parliament."
+   }
+  },
+  {
+   "id": "SG-H1098-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Power to borrow"
+   },
+   "text": {
+    "en": "20. The Agency may for the purposes of discharging its functions raise loans from the Government or, with the approval of the Minister for Finance or any person that the Minister for Finance may appoint, from any other source."
+   }
+  },
+  {
+   "id": "SG-H1098-A20.001",
+   "no": 20.001,
+   "noLabel": {
+    "en": "20A."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Issue of shares, etc."
+   },
+   "text": {
+    "en": "20A. As a consequence of —\n(a)the vesting of any property, rights or liabilities of the Government in the Agency under this Act; or\n(b)any capital injection or other investment by the Government in the Agency in accordance with any other written law,\nthe Agency must issue such shares or other securities to the Minister for Finance as that Minister may direct.\n[5/2002]"
+   }
+  },
+  {
+   "id": "SG-H1098-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Other financial provisions"
+   },
+   "text": {
+    "en": "21. The financial provisions set out in the Second Schedule apply to the Agency."
+   }
+  },
+  {
+   "id": "SG-H1098-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIESAND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Transfer to Agency of property, assets and liabilities"
+   },
+   "text": {
+    "en": "22.—(1) As from 15 March 2000, any movable and immovable property vested in the Government that may be determined by the Minister for Finance and used or managed by any of the incorporated Departments, and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to the incorporated Departments are transferred to and vest in the Agency without further assurance, act or deed.\n(2) If any question arises as to whether any particular property, asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Agency under subsection (1), a certificate under the hand of the Minister for Finance is conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.\n(3) Any immovable property to be transferred to and vested in the Agency under subsection (1) must be held by the Agency upon such tenure and subject to such terms and conditions as the President may determine."
+   }
+  },
+  {
+   "id": "SG-H1098-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIESAND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Transfer of employees"
+   },
+   "text": {
+    "en": "23.—(1) As from 15 March 2000, such persons or categories of persons as the Minister may determine who, immediately before that date, were —\n(a)employed by the Ministry of Defence or the Singapore Armed Forces in the incorporated Departments;\n(b)in any other department in the Ministry of Defence or the Singapore Armed Forces; or\n(c)in the DSO National Laboratories incorporated under the Companies Act 1967,\nare transferred to the service of the Agency on terms no less favourable than those enjoyed by them immediately prior to their transfer.\n(2) If any question arises as to whether any person or any category of persons has been transferred to the service of the Agency under subsection (1), a certificate under the hand of the Minister shall be conclusive evidence that the person or category of persons was or was not so transferred.\n(3) Until such time as terms and conditions of service are drawn up by the Agency, the scheme and terms and conditions of service in the Government or the Singapore Armed Forces (as the case may be) continue to apply to every person transferred to the service of the Agency under subsection (1) as if the person were still in the service of the Government or the Singapore Armed Forces.\n(4) In the case of every person transferred to the service of the Agency under subsection (1) who, immediately before 15 March 2000, was in the regular service of the Singapore Armed Forces by virtue of the Enlistment Act 1970, such person is, upon the transfer, deemed to be released from regular service in accordance with section 27 of that Act."
+   }
+  },
+  {
+   "id": "SG-H1098-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIESAND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Pension rights, etc., of Government employees to be preserved"
+   },
+   "text": {
+    "en": "24.—(1) The terms and conditions of service to be drawn up by the Agency must take into account the terms and conditions of service (including salaries and accrued rights to leave) enjoyed by the persons transferred to the service of the Agency under section 23 while in the employment of the Government or the Singapore Armed Forces, as the case may be.\n(2) Any term or condition relating to the length of service with the Agency must recognise the length of service of the persons so transferred while in the employment of the Government or the Singapore Armed Forces (as the case may be) to be service with the Agency.\n(3) The terms and conditions of service to be drawn up by the Agency must not adversely affect the conditions that would have been applicable to persons transferred to the service of the Agency as regards any pension, gratuity or allowance payable under the Pensions Act 1956 or the Singapore Armed Forces Act 1972.\n(4) In every case where a person has been transferred to the service of the Agency under section 23, the Government is liable to pay to the Agency such portion of any pension, gratuity or allowance payable to such person on his or her retirement as the same bears to the proportion which the aggregate amount of his or her pensionable emoluments during his or her service with the Government or the Singapore Armed Forces (as the case may be) bears to the aggregate amount of his or her pensionable emoluments during his or her service under both the Government or the Singapore Armed Forces (as the case may be) and the Agency.\n(5) Where any person in the service of the Agency, whose case does not fall within the scope of any pension or other schemes established under this section, retires or dies in the service of the Agency or is discharged from such service, the Agency may grant to him or her or to such other person or persons wholly or partly dependent on him or her, as the Agency thinks fit, such allowance or gratuity as the Agency may determine."
+   }
+  },
+  {
+   "id": "SG-H1098-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIESAND EMPLOYEES"
+   },
+   "heading": {
+    "en": "No benefits in respect of abolition or reorganisation of office"
+   },
+   "text": {
+    "en": "25. Despite the provisions of the Pensions Act 1956, a person who is transferred to the service of the Agency under section 23 is not entitled to claim any benefit under that Act on the ground that he or she has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Agency."
+   }
+  },
+  {
+   "id": "SG-H1098-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIESAND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Existing contracts"
+   },
+   "text": {
+    "en": "26. All deeds, bonds, agreements, instruments and arrangements subsisting immediately before 15 March 2000 to which the Government is a party and relating to the incorporated Departments or to any person transferred to the service of the Agency under section 23 continue in force on and after that date and are enforceable by or against the Agency as if the Agency had been named therein or had been a party thereto instead of the Government."
+   }
+  },
+  {
+   "id": "SG-H1098-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIESAND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Pending legal proceedings"
+   },
+   "text": {
+    "en": "27. Any proceedings or cause of action relating to —\n(a)the portion of the property, assets, interests, rights, privileges, liabilities and obligations transferred to the Agency under section 22; or\n(b)any employee transferred to the service of the Agency under section 23 pending or existing immediately before 15 March 2000 by or against the Government, or any person acting on its behalf,\nmay be continued and enforced by or against the Agency."
+   }
+  },
+  {
+   "id": "SG-H1098-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIESAND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Continuation and completion of disciplinary proceedings"
+   },
+   "text": {
+    "en": "28.—(1) Where on 15 March 2000 —\n(a)any disciplinary proceedings were pending against any employee of the Government or the Singapore Armed Forces (as the case may be) transferred to the service of the Agency under section 23, the proceedings must be carried on and completed by the Agency; and\n(b)any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or direction had been rendered on the matter, the committee must complete the hearing or investigation and make any order, ruling or direction that it could have made under the authority vested in it before 15 March 2000.\n(2) Any order, ruling or direction made or given by a committee under this section is to be treated as an order, a ruling or a direction of the Agency and has the same force or effect as if it had been made or given by the Agency pursuant to the authority vested in the Agency under this Act."
+   }
+  },
+  {
+   "id": "SG-H1098-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIESAND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Misconduct or neglect of duty by employee before transfer"
+   },
+   "text": {
+    "en": "29. The Agency may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person transferred to the service of the Agency under section 23 for any misconduct or neglect of duty committed prior to 15 March 2000 which would have rendered him or her liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he or she had continued to be in the employment of the Government or the Singapore Armed Forces (as the case may be) and if this Act had not been enacted."
+   }
+  },
+  {
+   "id": "SG-H1098-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Presenting annual report to committee"
+   },
+   "text": {
+    "en": "30. The Minister must cause a copy of every annual report on the activities of the Agency to be presented to a committee appointed by the Prime Minister.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H1098-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Symbol or representation of Agency"
+   },
+   "text": {
+    "en": "31.—(1) The Agency has the exclusive right to the use of any symbol or representation that it may select or devise and thereafter display or exhibit that symbol or representation in connection with its activities or affairs.\n(2) Any person who uses a symbol or representation identical with that of the Agency or which so resembles the Agency’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or to cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H1098-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Preservation of secrecy"
+   },
+   "text": {
+    "en": "32.—(1) Except for the purpose of the performance of his or her duties or the exercise of his or her functions or when lawfully required to do so by any court or where required or allowed by the provisions of any written law, a person who is or has been a director, an officer, employee, former employee or agent of the Agency or a member of a committee of the Agency must not disclose any information or matter relating to the affairs of the Agency or of any other person which has been obtained by him or her in the performance of his or her duties or the exercise of his or her functions.\n[5/2018]\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.\n(3) Despite subsection (1) and the provisions of any other written law, if any information pertaining to the Agency or to any matter connected with the Agency is certified by the Minister to be of a secret nature, such information or matter is not required to be disclosed to Parliament or any other person.\n(4) Any certificate under the hand of the Minister mentioned in subsection (3) shall be conclusive evidence of the matters specified in the certificate."
+   }
+  },
+  {
+   "id": "SG-H1098-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "33.—(1) The Agency may, with the approval of the Minister, make regulations for carrying out the purposes and provisions of this Act.\n(2) Without limiting subsection (1), the Agency may, with the approval of the Minister, make regulations for or with respect to all or any of the following matters:\n(a)duties of the officers and employees of the Agency;\n(b)the manner of appointment, conduct and discipline and the terms and conditions of service of the officers and employees of the Agency;\n(c)the payment of gratuities and other benefits to officers and employees of the Agency."
+   }
+  },
+  {
+   "id": "SG-H1098-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nSection 5(3)\nConstitution and Proceedings of Board of\nDirectors of Agency\nAppointment of Chairperson and other directors\n1.—(1) The Chairperson and other directors of the board must be appointed by the Minister from among persons who have had experience in public administration or in the field of defence science or technology.\n(2) The Minister may appoint the Chief Executive to be a director of the board.\nTenure of office of Chairperson and directors\n2. The Chairperson and every director hold office on such terms and conditions and for such period as the Minister may determine, and are eligible for re‑appointment.\nTemporary Chairperson\n3. The Minister may appoint any director to be a temporary Chairperson if the Chairperson is unable to perform his or her duties for any period, by reason of absence from Singapore, illness or for any other reason.\nTemporary director\n4. The Minister may appoint any person to be a temporary director if any director is unable to perform his or her duties for any period, by reason of absence from Singapore, illness or for any other reason.\nRevocation of appointment\n5. The Minister may, at any time, revoke the appointment of the Chairperson or any director without assigning any reason.\nResignation\n6. Any director may resign from his or her appointment at any time by giving written notice to the Minister.\nChairperson may delegate functions\n7. The Chairperson may, by instrument in writing, authorise any director to exercise any power or perform any function conferred on the Chairperson by or under this Act.\nVacation of office\n8. The office of a director becomes vacant if he or she —\n(a)becomes in any manner disqualified from directorship of the board;\n(b)without sufficient cause (the sufficiency of the cause to be decided by the board), fails to attend 3 consecutive meetings of the board;\n(c)resigns in accordance with paragraph 6; or\n(d)dies.\nFilling of vacancies\n9. If a director dies, resigns or has his or her appointment revoked or otherwise vacates his or her office before the expiry of the term for which he or she has been appointed, the Minister may appoint a person to fill the vacancy for the residue of the term for which the vacating director was appointed.\nDisqualification from directorship\n10. A person must not be appointed or continue to hold office as a director if he or she —\n(a)has a mental disorder and is incapable of managing himself or herself or his or her affairs;\n(b)is an undischarged bankrupt or has made any arrangement or composition with his or her creditors;\n(c)is convicted of an offence involving dishonesty, fraud or moral turpitude and has not received a free pardon; or\n(d)has been sentenced to imprisonment for a term of 6 months or more and has not received a free pardon.\nSalaries, fees and allowances payable to Chairperson and directors\n11. There are to be paid to the Chairperson and directors out of the funds of the Agency such salaries, fees and allowances as the Minister may determine.\nMeetings and proceedings of board\n12.—(1) The board is to meet for the despatch of business at such times and places as the Chairperson may appoint.\n(2) The quorum at every meeting of the board is one-third of the total number of directors or 3 directors, whichever is the higher.\n(3) The Chairperson presides at all meetings of the board; and where the Chairperson is absent at a meeting, such director as the directors present may elect presides at that meeting.\n(4) Decisions at meetings of the board are to be adopted by a simple majority of the votes of the directors present and voting; and in the case of an equality of votes, the Chairperson or in his or her absence the director presiding has a casting vote.\n(5) The validity of any proceedings of the board is not affected by any vacancy among its directors or by any defect in the appointment of any director.\n(6) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the board may regulate its own proceedings.\n[21/2008; 25/2009; 5/2018]"
+   }
+  },
+  {
+   "id": "SG-H1098-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nSection 21\nFinancial Provisions\nFinancial year\n1. The financial year of the Agency begins on 1 April of each year and ends on 31 March of the succeeding year.\n2. [Deleted by Act 5 of 2018]\nFinancial statements\n3. The Agency must, as soon as practicable after the close of each financial year, prepare and submit the financial statements in respect of that financial year to the auditor who is to audit and report on them.\nAppointment of auditor\n4. The accounts of the Agency are to be audited by the auditor that the Minister appoints.\nRemuneration of auditor\n5. The remuneration of the auditor must be paid out of the funds of the Agency.\nDuties of auditor\n6.—(1) The auditor must state in the auditor’s report —\n(a)whether the financial statements show fairly the financial transactions and the state of affairs of the Agency;\n(b)whether proper accounting and other records have been kept, including records of all assets of the Agency whether purchased, donated or otherwise;\n(c)whether the receipts, expenditure, investment of moneys, and the acquisition and disposal of assets by the Agency during the financial year have been in accordance with this Act; and\n(d)any other matters arising from the audit that the auditor considers should be reported.\n(2) The auditor must, as soon as practicable after the accounts have been submitted for audit, send a report of the audit to the Minister.\n(3) The auditor may at any other time report to the Minister on any matter arising out of the performance of the audit.\nPowers of auditor\n7.—(1) The auditor or any person authorised by the auditor is entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Agency, except records pertaining to transactions that are declared by the Permanent Secretary to the Ministry of Defence to be of a secret nature and to which access is not granted.\n(2) Any expenditure by the Agency on goods or services of a secret nature, whether for itself or for the Government, the purpose and particulars of which cannot be made public, must be supported in the appropriate accounts by a certificate of payment from the Permanent Secretary to the Ministry of Defence and his or her declaration that he or she has satisfied himself or herself that the money has been properly expended.\n(3) The Permanent Secretary to the Ministry of Defence must forward a copy of the certificate of payment and the declaration to the auditor.\nDuty to furnish information to auditor\n8. The auditor or any person authorised by the auditor (also called in this paragraph an auditor) may require any person to furnish the auditor with such information in the possession of that person or to which that person has access as the auditor considers necessary for the performance of the auditor’s duties under this Act, except where the information pertains to transactions that are declared by the Permanent Secretary to the Ministry of Defence to be of a secret nature.\nPenalty for obstruction\n9. Any person who, without reasonable excuse, fails to comply with any requirement of the auditor under paragraph 8 or who otherwise hinders, obstructs or delays the auditor in the performance of the auditor’s duties or the exercise of the auditor’s powers under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction.\nPresentation of audited financial statements and auditor’s report\n10.—(1) As soon as the accounts of the Agency and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited financial statements signed by the Chairperson and certified by the auditor, together with a copy of any report made by the auditor, must be submitted to the Minister.\n(2) The Minister must as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to the committee appointed by the Prime Minister under section 30.\n[5/2018]"
+   }
+  }
+ ]
+}

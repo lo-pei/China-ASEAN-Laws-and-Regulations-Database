@@ -1,0 +1,74 @@
+{
+ "id": "PH-H6221",
+ "title": {
+  "zh": null,
+  "en": "Adlaw Ng Southern Leyte",
+  "orig": "An Act Declaring July First of Every Year as a Special Nonworking Holiday in the Province of Southern Leyte, to Be Known As&nbsp;\"Adlaw Ng Southern Leyte\""
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p88",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1994-06-10",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 7740",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 410,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1994/ra_7740_1994.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1994/ra_7740_1994.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H6221-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The Province of Southern Leyte was created by virtue of Republic Act No. 2227 which was signed into law on May 22, 1959 by President Carlos P. Garcia and which took effect on July 1, 1960."
+   }
+  },
+  {
+   "id": "PH-H6221-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "July first of every year is hereby declared as a special nonworking holiday in the Province of Southern Leyte, to be known as \"Adlaw ng Southern Leyte.\""
+   }
+  },
+  {
+   "id": "PH-H6221-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 10, 1994."
+   }
+  }
+ ]
+}

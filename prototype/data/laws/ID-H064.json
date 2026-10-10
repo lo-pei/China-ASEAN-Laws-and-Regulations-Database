@@ -1,0 +1,52 @@
+{
+ "id": "ID-H064",
+ "title": {
+  "zh": "宪法_1945",
+  "en": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+  "orig": null
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p04",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1945",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "印度尼西亚官方发布渠道",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 954,
+ "source": {
+  "name": "印度尼西亚官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "文本未能可靠切分为条文（或原件为目录式排版），按整篇收录，未作改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "ID-H064-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "# Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 > 本文件为自动采集的元数据头，随原始文件一同保存。\n> 原始文件未被改写；正文逐字照录于同目录下的原始文件。\n| 项目 | 内容 | | --- | --- | | 原文标题 | Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 | | 中文译名 | 宪法 | | 英文译名 | Constitution of the Republic of Indonesia of 1945 | | 法律领域 | 宪法 | | 颁布机构 | 人民协商会议（MPR RI）；DPR JDIH 发布 | | 官方来源 URL | https://peraturan.bpk.go.id/Download/92283/UUD45.pdf | | 数据抓取实际 URL | https://peraturan.bpk.go.id/Download/92283/UUD45.pdf | | 颁布日期 | 1945（1999—2002 年四次修正后的合并本） | | 生效日期 | 未核实（来源未标注） | | 修订日期 | 未核实（来源未标注） | | 版本 | 官方公布文本（BPK JDIH / DPR JDIH） | | 原文语种 | id | | 来源类型 | 官方（berkas.dpr.go.id，印尼国会 JDIH） | | 抓取日期 | 2026-10-03 | | 本地文件 | 印度尼西亚_宪法_1945_id.pdf | | 文件格式 | pdf | | 文件大小(字节) | 30515 | | 页数 | 9 | | 字数 |  | | SHA-256 | c59c0fee8ceff7e5a983c06ce55efca03d6b341ff54c3d0612ae87bf3cedd519 | | HTTP 状态 | 200 | | HTTPS 证书校验 | verified | | 完整性/缺失范围 | 官方公布 PDF 全文（未删节） | | 备注 | PDF 直链自 BPK JDIH 官方检索/记录页解析得到。 |"
+   }
+  }
+ ]
+}

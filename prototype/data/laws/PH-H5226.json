@@ -1,0 +1,94 @@
+{
+ "id": "PH-H5226",
+ "title": {
+  "zh": null,
+  "en": "An Act Creating the Aurora National Science High School By Separating the Aurora Science High School From the Aurora Provincial High School, and Providing Funds Therefor",
+  "orig": "An Act Creating the Aurora National Science High School By Separating the Aurora Science High School From the Aurora Provincial High School, and Providing Funds Therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p74",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1989-06-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6729",
+ "officialCode": null,
+ "topics": [
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1232,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1989/ra_6729_1989.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1989/ra_6729_1989.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H5226-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The Aurora Science High School located in the Poblacion of Baler, which is a branch of the Aurora Provincial High School located in Barangay Reserva, Baler, Aurora, is hereby separated from the said provincial high school and thereafter created as an independent educational institution to be known as the Aurora National Science High School."
+   }
+  },
+  {
+   "id": "PH-H5226-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "All properties and assets presently pertaining or belonging to the Aurora Science High School are hereby transferred to the newly created Aurora National Science High School."
+   }
+  },
+  {
+   "id": "PH-H5226-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The funding requirement for the operation of the Aurora National Science High School shall be charged to the appropriations for the current fiscal year of the Aurora Science High School. Thereafter, such amount as may be necessary for the implementation of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law."
+   }
+  },
+  {
+   "id": "PH-H5226-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "The Secretary of Education, Culture and Sports shall make the necessary directive to effect the separation of the Aurora Science High School from the Aurora Provincial High School, as well as to bring about the smooth operation of the Aurora National Science High School under this Act."
+   }
+  },
+  {
+   "id": "PH-H5226-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

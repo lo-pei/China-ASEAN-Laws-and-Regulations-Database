@@ -1,0 +1,414 @@
+{
+ "id": "SG-H803",
+ "title": {
+  "zh": null,
+  "en": "Computer Misuse Act 1993",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p10",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act CMA1993",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 24,
+ "chars": 35096,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/CMA1993?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 24 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H803-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Computer Misuse Act 1993.\n[3/2013; 9/2018]"
+   }
+  },
+  {
+   "id": "SG-H803-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2.—(1) In this Act, unless the context otherwise requires —\n“computer” means an electronic, magnetic, optical, electrochemical, or other data processing device, or a group of such interconnected or related devices, performing logical, arithmetic, or storage functions, and includes any data storage facility or communications facility directly related to or operating in conjunction with such device or group of such interconnected or related devices, but does not include —\n(a)an automated typewriter or typesetter;\n(b)a portable hand-held calculator;\n(c)a similar device which is non-programmable or which does not contain any data storage facility; or\n(d)such other device as the Minister may, by notification in the Gazette, prescribe;\n“computer output” or “output” means a statement or representation (whether in written, printed, pictorial, graphical or other form) purporting to be a statement or representation of fact —\n(a)produced by a computer; or\n(b)accurately translated from a statement or representation so produced;\n“computer service” includes computer time, data processing and the storage or retrieval of data;\n“damage” means, except for the purposes of section 17, any impairment to a computer or the integrity or availability of data, a program or system, or information, that —\n(a)causes loss aggregating at least $10,000 in value, or such other amount as the Minister may, by notification in the Gazette, prescribe except that any loss incurred or accrued more than one year after the date of the offence in question must not be taken into account;\n(b)modifies or impairs, or potentially modifies or impairs, the medical examination, diagnosis, treatment or care of one or more persons;\n(c)causes or threatens physical injury or death to any person; or\n(d)threatens public health or public safety;\n“data” means representations of information or of concepts that are being prepared or have been prepared in a form suitable for use in a computer;\n“electromagnetic, acoustic, mechanical or other device” means any device, apparatus or program that is used or is capable of being used to intercept any function of a computer;\n“function” includes logic, control, arithmetic, deletion, storage and retrieval and communication or telecommunication to, from or within a computer;\n“intercept”, in relation to a function of a computer, includes listening to or recording a function of a computer, or acquiring the substance, meaning or purport thereof;\n“national digital identity service” has the meaning given by paragraph 1(1) of the First Schedule;\n[Act 16 of 2023 wef 08/02/2024]\n[Act 21 of 2025 wef 30/12/2025]\n“program or computer program” means data representing instructions or statements that, when executed in a computer, causes the computer to perform a function;\n[22/2017]\n[Act 16 of 2023 wef 08/02/2024]\n“scam offence” means any offence specified in the Second Schedule;\n[Act 21 of 2025 wef 30/12/2025]\n“user”, in relation to the national digital identity service, has the meaning given by paragraph 1(1) of the First Schedule.\n[Act 16 of 2023 wef 08/02/2024]\n[Act 21 of 2025 wef 30/12/2025]\n(2) For the purposes of this Act, a person secures access to any program or data held in a computer if by causing a computer to perform any function the person —\n(a)alters or erases the program or data;\n(b)copies or moves it to any storage medium other than that in which it is held or to a different location in the storage medium in which it is held;\n(c)uses it; or\n(d)causes it to be output from the computer in which it is held (whether by having it displayed or in any other manner),\nand references to access to a program or data (and to an intent to secure such access) are to be read accordingly.\n(3) For the purposes of subsection (2)(c), a person uses a program if the function the person causes the computer to perform —\n(a)causes the program to be executed; or\n(b)is itself a function of the program.\n(4) For the purposes of subsection (2)(d), the form in which any program or data is output (and in particular whether or not it represents a form in which, in the case of a program, it is capable of being executed or, in the case of data, it is capable of being processed by a computer) is immaterial.\n(5) For the purposes of this Act, access of any kind by any person to any program or data held in a computer is unauthorised or done without authority if the person —\n(a)is not himself or herself entitled to control access of the kind in question to the program or data; and\n(b)does not have consent to access by him or her of the kind in question to the program or data from any person who is so entitled.\n(6) A reference in this Act to any program or data held in a computer includes a reference to any program or data held in any removable storage medium which is for the time being in the computer; and a computer is to be regarded as containing any program or data held in any such medium.\n(7) For the purposes of this Act, a modification of the contents of any computer takes place if, by the operation of any function of the computer concerned or any other computer —\n(a)any program or data held in the computer concerned is altered or erased;\n(b)any program or data is added to its contents; or\n(c)any act occurs which impairs the normal operation of any computer,\nand any act which contributes towards causing such a modification is taken as causing it.\n(8) Any modification mentioned in subsection (7) is unauthorised if the person whose act causes it —\n(a)is not himself or herself entitled to determine whether the modification should be made; and\n(b)does not have consent to the modification from any person who is so entitled.\n(9) A reference in this Act to a program includes a reference to part of a program."
+   }
+  },
+  {
+   "id": "SG-H803-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 OFFENCES"
+   },
+   "heading": {
+    "en": "Unauthorised access to computer material"
+   },
+   "text": {
+    "en": "3.—(1) Subject to subsection (2), any person who knowingly causes a computer to perform any function for the purpose of securing access without authority to any program or data held in any computer shall be guilty of an offence and shall be liable on conviction —\n(a)to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both; and\n(b)in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.\n(2) If any damage is caused as a result of an offence under this section, a person convicted of the offence shall be liable to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 7 years or to both.\n(3) For the purposes of this section, it is immaterial that the act in question is not directed at —\n(a)any particular program or data;\n(b)a program or data of any kind; or\n(c)a program or data held in any particular computer."
+   }
+  },
+  {
+   "id": "SG-H803-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 OFFENCES"
+   },
+   "heading": {
+    "en": "Access with intent to commit or facilitate commission of offence"
+   },
+   "text": {
+    "en": "4.—(1) Any person who causes a computer to perform any function for the purpose of securing access to any program or data held in any computer with intent to commit an offence to which this section applies shall be guilty of an offence.\n(2) This section applies to an offence involving property, fraud, dishonesty or which causes bodily harm and which is punishable on conviction with imprisonment for a term of not less than 2 years.\n(3) Any person guilty of an offence under this section shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 10 years or to both.\n(4) For the purposes of this section, it is immaterial whether —\n(a)the access mentioned in subsection (1) is authorised or unauthorised;\n(b)the offence to which this section applies is committed at the same time when the access is secured or at any other time."
+   }
+  },
+  {
+   "id": "SG-H803-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 OFFENCES"
+   },
+   "heading": {
+    "en": "Unauthorised modification of computer material"
+   },
+   "text": {
+    "en": "5.—(1) Subject to subsection (2), any person who does any act which the person knows will cause an unauthorised modification of the contents of any computer shall be guilty of an offence and shall be liable on conviction —\n(a)to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both; and\n(b)in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 5 years or to both.\n(2) If any damage is caused as a result of an offence under this section, a person convicted of the offence shall be liable to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 7 years or to both.\n(3) For the purposes of this section, it is immaterial that the act in question is not directed at —\n(a)any particular program or data;\n(b)a program or data of any kind; or\n(c)a program or data held in any particular computer.\n(4) For the purposes of this section, it is immaterial whether an unauthorised modification is, or is intended to be, permanent or merely temporary."
+   }
+  },
+  {
+   "id": "SG-H803-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 OFFENCES"
+   },
+   "heading": {
+    "en": "Unauthorised use or interception of computer service"
+   },
+   "text": {
+    "en": "6.—(1) Subject to subsection (2), any person who knowingly —\n(a)secures access without authority to any computer for the purpose of obtaining, directly or indirectly, any computer service;\n(b)intercepts or causes to be intercepted without authority, directly or indirectly, any function of a computer by means of an electromagnetic, acoustic, mechanical or other device; or\n(c)uses or causes to be used, directly or indirectly, the computer or any other device for the purpose of committing an offence under paragraph (a) or (b),\nshall be guilty of an offence and shall be liable on conviction —\n(d)to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both; and\n(e)in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 5 years or to both.\n(2) If any damage is caused as a result of an offence under this section, a person convicted of the offence shall be liable to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 7 years or to both.\n(3) For the purposes of this section, it is immaterial that the unauthorised access or interception is not directed at —\n(a)any particular program or data;\n(b)a program or data of any kind; or\n(c)a program or data held in any particular computer."
+   }
+  },
+  {
+   "id": "SG-H803-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 OFFENCES"
+   },
+   "heading": {
+    "en": "Unauthorised obstruction of use of computer"
+   },
+   "text": {
+    "en": "7.—(1) Any person who, knowingly and without authority or lawful excuse —\n(a)interferes with, or interrupts or obstructs the lawful use of, a computer; or\n(b)impedes or prevents access to, or impairs the usefulness or effectiveness of, any program or data stored in a computer,\nshall be guilty of an offence and shall be liable on conviction —\n(c)to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both; and\n(d)in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 5 years or to both.\n(2) If any damage is caused as a result of an offence under this section, a person convicted of the offence shall be liable to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 7 years or to both."
+   }
+  },
+  {
+   "id": "SG-H803-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 OFFENCES"
+   },
+   "heading": {
+    "en": "Unauthorised disclosure of access code"
+   },
+   "text": {
+    "en": "8.—(1) Any person who, knowingly and without authority, discloses any password, access code or any other means of gaining access to any program or data held in any computer shall be guilty of an offence if the person did so —\n(a)for any wrongful gain;\n(b)for any unlawful purpose; or\n(c)knowing that it is likely to cause wrongful loss to any person.\n(2) Any person guilty of an offence under subsection (1) shall be liable on conviction —\n(a)to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both; and\n(b)in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 5 years or to both."
+   }
+  },
+  {
+   "id": "SG-H803-A8.001",
+   "no": 8.001,
+   "noLabel": {
+    "en": "8A."
+   },
+   "chapter": {
+    "en": "PART 2 OFFENCES"
+   },
+   "heading": {
+    "en": "Disclosure of password, access code, etc., in relation to national digital identity service"
+   },
+   "text": {
+    "en": "8A.—(1) Any user of the national digital identity service —\n(a)who discloses any password or access code of the user in relation to the national digital identity service, or provides any other means of securing access in the identity of the user to any program or data held in any computer by way of the national digital identity service; and\n(b)who does so knowing, or having reasonable grounds to believe, that the purpose of the disclosure or provision is for any person to commit, or to facilitate the commission by any person of, any offence under any written law,\nshall be guilty of an offence and, subject to subsection (5), shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.\n[Act 21 of 2025 wef 30/12/2025]\n(2) For the purpose of proving an offence under subsection (1), it is not necessary for the prosecution to prove —\n(a)that the purpose of committing, or facilitating the commission of, an offence was carried out;\n(b)that the user knew, or had reasonable grounds to believe, that the purpose was to commit, or facilitate the commission of, any specific offence; or\n(c)that the disclosure or provision was made to any specific person, if the disclosure or provision was made by the user in a manner that was intended to be accessible or retrievable by another person, whether or not that other person is known to the user.\n(3) For the purposes of subsection (1)(b), a user of the national digital identity service who does an act mentioned in subsection (1)(a) is presumed, until the contrary is proved, to have reasonable grounds to believe that the purpose of the disclosure or provision is for a person to commit, or to facilitate the commission by a person of, an offence under any written law, if —\n(a)the user does the act for any gain —\n(i)whether or not the gain is a wrongful gain;\n(ii)whether or not the gain is realised; and\n(iii)whether the gain is to the user or to another person;\n(b)the user does the act knowing that it is likely to cause wrongful loss to any person; or\n(c)at the time the user does the act, the user fails to take reasonable steps to ascertain the identity and physical location of the person to whom the password, access code or means of securing access is disclosed or provided.\n(4) It is not an offence under subsection (1) if the user of the national digital identity service had reasonable grounds to believe that the purpose of the disclosure or provision is to use or access the national digital identity service to carry out a transaction in the identity of the user for a lawful purpose.\n[Act 16 of 2023 wef 08/02/2024]\n(5) Where an individual is convicted of an offence under subsection (1), the individual shall, in addition to the punishment under that subsection, be liable to caning of not more than 12 strokes —\n(a)if the individual knew that the purpose of the disclosure or provision was for any person to commit, or to facilitate the commission by any person of, any scam offence; or\n(b)if —\n(i)it is proved, to the satisfaction of the court, that the password, access code, or means of securing access, was used to commit, or to facilitate the commission of, a scam offence; and\n(ii)the individual is not able to prove, to the satisfaction of the court, that he or she had, at any time, taken reasonable steps to ensure that the password, access code or means of securing access, would not be used to commit, or to facilitate the commission of, a scam offence.\n[Act 21 of 2025 wef 30/12/2025]\n(6) For the purposes of subsection (5)(a), it is not necessary for the prosecution to prove that the commission, or facilitation of the commission, of a scam offence was carried out.\n[Act 21 of 2025 wef 30/12/2025]\n(7) For the purposes of subsection (5)(b)(i), it is not necessary for the prosecution to prove that any person was convicted of the scam offence.\n[Act 21 of 2025 wef 30/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H803-A8.002",
+   "no": 8.002,
+   "noLabel": {
+    "en": "8B."
+   },
+   "chapter": {
+    "en": "PART 2 OFFENCES"
+   },
+   "heading": {
+    "en": "Supplying, etc., credential of another person"
+   },
+   "text": {
+    "en": "8B.—(1) A person shall be guilty of an offence if the person —\n(a)obtains or retains any credential of another person in relation to the national digital identity service; or\n(b)supplies, offers to supply, transmits or makes available, by any means, any credential of another person in relation to the national digital identity service.\n(2) It is not an offence under subsection (1)(a) if the person obtained or retained the credential of the other person for a purpose that is not any of the following purposes:\n(a)for use in committing, or in facilitating the commission of, any offence under any written law;\n(b)for the supply or transmission of, or making available, by any means, the credential to be used in committing, or in facilitating the commission of, any offence under any written law.\n(3) It is not an offence under subsection (1)(b) if —\n(a)the person did the act for a purpose other than for the credential of the other person to be used in committing, or in facilitating the commission of, any offence under any written law; and\n(b)the person did not know or have reason to believe that the credential of the other person will be or is likely to be used to commit, or facilitate the commission of, any offence under any written law.\n(4) For the purposes of subsection (1)(b), a person does not transmit or make available any credential of another person in relation to the national digital identity service merely because the person provides, or operates facilities for network access, or provides services relating to, or provides connections for, the transmission or routing of data.\n(5) Subject to subsections (5A) and (5B), a person who is guilty of an offence under subsection (1) shall be liable on conviction —\n(a)to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both; and\n(b)in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 5 years or to both.\n[Act 21 of 2025 wef 30/12/2025]\n(5A) Where an individual is convicted of an offence under subsection (1)(a), the individual shall, in addition to the punishment under subsection (5), be liable to caning of not more than 12 strokes if the individual obtained or retained the credential —\n(a)for use in committing, or in facilitating the commission of, any scam offence; or\n(b)for the supply or transmission of, or making available, by any means, the credential to be used in committing, or in facilitating the commission of, any scam offence.\n[Act 21 of 2025 wef 30/12/2025]\n(5B) Where an individual is convicted of an offence under subsection (1)(b), the individual shall, in addition to the punishment under subsection (5), be liable to caning of not more than 12 strokes —\n(a)if the individual knew that the credential will be used to commit, or facilitate the commission of, any scam offence; or\n(b)if —\n(i)it is proved, to the satisfaction of the court, that the credential was used to commit, or to facilitate the commission of, a scam offence; and\n(ii)the individual is not able to prove, to the satisfaction of the court, that he or she had, at any time, taken reasonable steps to ensure that the credential would not be used to commit, or to facilitate the commission of, a scam offence.\n[Act 21 of 2025 wef 30/12/2025]\n(5C) For the purposes of subsections (5A)(a) and (b) and (5B)(a), it is not necessary for the prosecution to prove that the credential was used to commit, or to facilitate the commission of, a scam offence.\n[Act 21 of 2025 wef 30/12/2025]\n(5D) For the purposes of subsection (5B)(b)(i), it is not necessary for the prosecution to prove that any person was convicted of the scam offence.\n[Act 21 of 2025 wef 30/12/2025]\n(6) In this section —\n(a)a reference to a credential of another person in relation to the national digital identity service has the meaning given by paragraph 1(2) of the First Schedule; and\n[Act 21 of 2025 wef 30/12/2025]\n(b)a reference to an offence under any written law includes an offence under subsection (1).\n[Act 16 of 2023 wef 08/02/2024]"
+   }
+  },
+  {
+   "id": "SG-H803-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 OFFENCES"
+   },
+   "heading": {
+    "en": "Supplying, etc., personal information obtained in contravention of certain provisions"
+   },
+   "text": {
+    "en": "9.—(1) A person shall be guilty of an offence if the person, knowing or having reason to believe that any personal information about another person (being an individual) was obtained by an act done in contravention of section 3, 4, 5 or 6 —\n(a)obtains or retains the personal information; or\n(b)supplies, offers to supply, transmits or makes available, by any means the personal information.\n[22/2017]\n(2) It is not an offence under subsection (1)(a) if the person obtained or retained the personal information for a purpose other than —\n(a)for use in committing, or in facilitating the commission of, any offence under any written law; or\n(b)for supply, transmission or making available by any means for the personal information to be used in committing, or in facilitating the commission of, any offence under any written law.\n[22/2017]\n(3) It is not an offence under subsection (1)(b) if —\n(a)the person did the act for a purpose other than for the personal information to be used in committing, or in facilitating the commission of, any offence under any written law; and\n(b)the person did not know or have reason to believe that the personal information will be or is likely to be used to commit, or facilitate the commission of, any offence under any written law.\nExample 1.— A comes across a list of credit card numbers on the Internet belonging to individuals who are customers of B, which A has reason to believe were obtained by securing access without authority to B’s server. A downloads the list for the purpose of reporting the unauthorised access to B’s server to the police.\nA retains the list of credit card numbers and transmits it to B for the purpose of informing B of the unauthorised access to B’s server.\nA has downloaded and retained the list of credit card numbers for purposes other than those mentioned in subsection (2)(a) and (b). Therefore A does not commit an offence under subsection (1)(a) by reason of subsection (2).\nA has transmitted the list to B for a purpose other than for it to be used in committing or in facilitating the commission of an offence. If A did not know or have reason to believe that the list so transmitted will be or is likely to be used to commit or facilitate the commission of an offence, then A does not commit an offence under subsection (1)(b) by reason of subsection (3).\nExample 2.— C, an employee of B, after receiving the list from A in Example 1, transmits it to D, another employee of B, for the purpose of facilitating B’s investigation of the unauthorised access of B’s server.\nC has transmitted the list to D for a purpose other than for it to be used in committing or in facilitating the commission of an offence. If C did not know or have reason to believe that the list so transmitted will be or is likely to be used to commit or facilitate the commission of an offence, then C does not commit an offence under subsection (1)(b) by reason of subsection (3).\n[22/2017]\n(4) For the purposes of subsection (1)(b), a person does not transmit or make available personal information merely because the person provides, or operates facilities for network access, or provides services relating to, or provides connections for, the transmission or routing of data.\n[22/2017]\n(5) A person guilty of an offence under subsection (1) shall be liable on conviction —\n(a)to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both; and\n(b)in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 5 years or to both.\n[22/2017]\n(6) For the purpose of proving under subsection (1) that a person knows or has reason to believe that any personal information was obtained by an act done in contravention of section 3, 4, 5 or 6, it is not necessary for the prosecution to prove the particulars of the contravention, such as who carried out the contravention and when it took place.\n[22/2017]\n(7) In this section —\n(a)personal information is any information, whether true or not, about an individual of a type that is commonly used alone or in combination with other information to identify or purport to identify an individual, including (but not limited to) biometric data, name, address, date of birth, national registration identity card number, passport number, a written, electronic or digital signature, user authentication code, credit card or debit card number, and password; and\n(b)a reference to an offence under any written law includes an offence under subsection (1).\n[8A\n[22/2017]"
+   }
+  },
+  {
+   "id": "SG-H803-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 OFFENCES"
+   },
+   "heading": {
+    "en": "Obtaining, etc., items for use in certain offences"
+   },
+   "text": {
+    "en": "10.—(1) A person shall be guilty of an offence if the person —\n(a)obtains or retains any item to which this section applies —\n(i)intending to use it to commit, or facilitate the commission of, an offence under section 3, 4, 5, 6 or 7; or\n(ii)with a view to it being supplied or made available, by any means for use in committing, or in facilitating the commission of, any of those offences; or\n(b)makes, supplies, offers to supply or makes available, by any means any item to which this section applies, intending it to be used to commit, or facilitate the commission of, an offence under section 3, 4, 5, 6 or 7.\n[22/2017]\n(2) This section applies to the following items:\n(a)any device, including a computer program, that is designed or adapted primarily, or is capable of being used, for the purpose of committing an offence under section 3, 4, 5, 6 or 7;\n(b)a password, an access code, or similar data by which the whole or any part of a computer is capable of being accessed.\n[22/2017]\n(3) A person guilty of an offence under subsection (1) shall be liable on conviction —\n(a)to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both; and\n(b)in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 5 years or to both.\n[8B\n[22/2017]"
+   }
+  },
+  {
+   "id": "SG-H803-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 OFFENCES"
+   },
+   "heading": {
+    "en": "Enhanced punishment for offences involving protected computers"
+   },
+   "text": {
+    "en": "11.—(1) Where access to any protected computer is obtained in the course of the commission of an offence under section 3, 5, 6 or 7, a person convicted of the offence shall, in lieu of the punishment prescribed in those sections, be liable to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 20 years or to both.\n(2) For the purposes of subsection (1), a computer is treated as a “protected computer” if the person committing the offence knew, or ought reasonably to have known, that the computer or program or data is used directly in connection with or necessary for —\n(a)the security, defence or international relations of Singapore;\n(b)the existence or identity of a confidential source of information relating to the enforcement of a criminal law;\n(c)the provision of services directly related to communications infrastructure, banking and financial services, public utilities, public transportation or public key infrastructure; or\n(d)the protection of public safety including systems related to essential emergency services such as police, civil defence and medical services.\n(3) For the purposes of any prosecution under this section, it is presumed, until the contrary is proved, that the accused has the requisite knowledge referred to in subsection (2) if there is, in respect of the computer, program or data, an electronic or other warning exhibited to the accused stating that unauthorised access to that computer, program or data attracts an enhanced penalty under this section.\n[9"
+   }
+  },
+  {
+   "id": "SG-H803-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 OFFENCES"
+   },
+   "heading": {
+    "en": "Abetments and attempts punishable as offences"
+   },
+   "text": {
+    "en": "12.—(1) Any person who abets the commission of or who attempts to commit or does any act preparatory to or in furtherance of the commission of any offence under this Act shall be guilty of that offence and shall be liable on conviction to the punishment provided for the offence.\n(2) For an offence to be committed under this section, it is immaterial where the act in question took place.\n[10"
+   }
+  },
+  {
+   "id": "SG-H803-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 MISCELLANEOUS AND GENERAL"
+   },
+   "heading": {
+    "en": "Territorial scope of offences under this Act"
+   },
+   "text": {
+    "en": "13.—(1) Subject to subsection (3), the provisions of this Act have effect, in relation to any person, whatever the person’s nationality or citizenship, outside as well as within Singapore.\n[22/2017]\n(2) Where an offence under this Act is committed by any person in any place outside Singapore, the person may be dealt with as if the offence had been committed within Singapore.\n(3) For the purposes of this section, this Act applies if —\n(a)for the offence in question, the accused was in Singapore at the material time;\n(b)for the offence in question (being one under section 3, 4, 5, 6, 7 or 8), the computer, program or data was in Singapore at the material time;\n[Act 16 of 2023 wef 08/02/2024]\n(c)the offence causes, or creates a significant risk of, serious harm in Singapore; or\n[22/2017]\n[Act 16 of 2023 wef 08/02/2024]\n(d)the offence is one under section 8A(1) or 8B(1).\n[Act 16 of 2023 wef 08/02/2024]\n(4) In subsection (3)(c), “serious harm in Singapore” means —\n(a)illness, injury or death of individuals in Singapore;\n(b)a disruption of, or a serious diminution of public confidence in, the provision of any essential service in Singapore;\n(c)a disruption of, or a serious diminution of public confidence in, the performance of any duty or function of, or the exercise of any power by, the Government, an Organ of State, a statutory board, or a part of the Government, an Organ of State or a statutory board; or\n(d)damage to the national security, defence or foreign relations of Singapore.\nExample 1.— The following are examples of acts that seriously diminish or create a significant risk of seriously diminishing public confidence in the provision of an essential service:\n(a)publication to the public of the medical records of patients of a hospital in Singapore;\n(b)providing to the public access to the account numbers of customers of a bank in Singapore.\nExample 2.— The following are examples of acts that seriously diminish or create a significant risk of seriously diminishing public confidence in the performance of any duty or function of, or the exercise of any power by, the Government, an Organ of State, a statutory board, or a part of the Government, an Organ of State or a statutory board:\n(a)providing to the public access to confidential documents belonging to a ministry of the Government;\n(b)publication to the public of the access codes for a computer belonging to a statutory board.\n[22/2017; 9/2018]\n(5) For the purposes of subsection (3)(c), it is immaterial whether the offence that causes the serious harm in Singapore —\n(a)causes the harm directly; or\n(b)is the only or main cause of the harm.\n[22/2017]\n(6) In subsection (4)(b), “essential service” means any of the following services:\n(a)services directly related to communications infrastructure, banking and finance, public utilities, public transportation, land transport infrastructure, aviation, shipping, or public key infrastructure;\n(b)emergency services such as police, civil defence or health services.\n[9/2018]\n(7) In subsection (4)(c), “statutory board” means a body corporate or unincorporate established by or under any public Act to perform or discharge a public function.\n[11\n[22/2017]"
+   }
+  },
+  {
+   "id": "SG-H803-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 MISCELLANEOUS AND GENERAL"
+   },
+   "heading": {
+    "en": "Amalgamation of charges"
+   },
+   "text": {
+    "en": "14.—(1) This section applies when a person is alleged to have committed 2 or more acts —\n(a)each of which is an offence under the same provision in Part 2;\n(b)that involve the same computer; and\n(c)that are committed in a period that does not exceed 12 months.\n[22/2017]\n(2) Despite section 124 of the Criminal Procedure Code 2010, it is sufficient for the charge in respect of those acts to specify, without specifying the exact dates the acts are committed —\n(a)particulars of that computer; and\n(b)the dates between which the acts are alleged to have been committed.\n[22/2017]\n(3) A charge framed in accordance with subsection (2) is treated as a charge of one offence.\n[22/2017]\n(4) If the particulars mentioned in subsection (2)(a) and (b) do not give the accused sufficient notice of what the accused is charged with, then the charge must also give details of how the alleged offence was committed as will be sufficient for that purpose.\n[11A\n[22/2017]"
+   }
+  },
+  {
+   "id": "SG-H803-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 MISCELLANEOUS AND GENERAL"
+   },
+   "heading": {
+    "en": "Jurisdiction of Courts"
+   },
+   "text": {
+    "en": "15. A District Court or a Magistrate’s Court has jurisdiction to hear and determine all offences under this Act and, despite anything to the contrary in the Criminal Procedure Code 2010, has power to impose the full penalty or punishment in respect of any offence under this Act.\n[12"
+   }
+  },
+  {
+   "id": "SG-H803-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 MISCELLANEOUS AND GENERAL"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "16.—(1) The Commissioner of Police or any person authorised by the Commissioner may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $3,000.\n(2) The Minister may make regulations to prescribe the offences that may be compounded.\n[12A"
+   }
+  },
+  {
+   "id": "SG-H803-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 MISCELLANEOUS AND GENERAL"
+   },
+   "heading": {
+    "en": "Order for payment of compensation"
+   },
+   "text": {
+    "en": "17.—(1) The court before which a person is convicted of any offence under this Act may make an order against the person for the payment by the person of a sum to be fixed by the court by way of compensation to any other person for any damage caused to the other person’s computer, program or data by the offence for which the sentence is passed.\n(2) Any claim by a person for damages sustained by reason of the offence is deemed to have been satisfied to the extent of any amount which has been paid to the person under an order for compensation, but the order does not affect any right to a civil remedy for the recovery of damages beyond the amount of compensation paid under the order.\n(3) An order of compensation under this section is recoverable as a civil debt.\n[13"
+   }
+  },
+  {
+   "id": "SG-H803-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 MISCELLANEOUS AND GENERAL"
+   },
+   "heading": {
+    "en": "Saving for investigations by police and law enforcement officers"
+   },
+   "text": {
+    "en": "18. Nothing in this Act prohibits a police officer, an authorised person within the meaning of section 39 of the Criminal Procedure Code 2010 or any other duly authorised law enforcement officer from lawfully conducting investigations pursuant to the powers conferred on him or her under any written law.\n[14\n[15/2010]"
+   }
+  },
+  {
+   "id": "SG-H803-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 MISCELLANEOUS AND GENERAL"
+   },
+   "heading": {
+    "en": "Arrest by police without warrant"
+   },
+   "text": {
+    "en": "19. Any police officer may arrest without warrant any person reasonably suspected of committing an offence under this Act.\n[16"
+   }
+  },
+  {
+   "id": "SG-H803-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 MISCELLANEOUS AND GENERAL"
+   },
+   "heading": {
+    "en": "Amendment of Schedules"
+   },
+   "text": {
+    "en": "20. The Minister may, by order in the Gazette, amend the First and Second Schedules.\n[Act 16 of 2023 wef 08/02/2024]\n[Act 21 of 2025 wef 30/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H803-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nSections 2(1), 8B(6)(a) and 20\nDefinitions relating to\nnational digital identity service\n1.—(1) In this Act —\n“application”, in relation to the national digital identity service, means the mobile software application known as “Singpass” published under the name of “Government Technology Agency” that is registered to a user;\n“biometric identifier”, in relation to the national digital identity service, means an image or video, or an aggregation of images or videos, of a user’s face captured electronically through the national digital identity service;\n“national digital identity service” means the electronic service known as “Singpass” that is owned by the Government, by which the identity of an individual may be authenticated;\n“user”, in relation to the national digital identity service, means an individual who has an account registered with the national digital identity service.\n(2) In section 8B, a reference to a credential of another person in relation to the national digital identity service is a reference to a password, access code or biometric identifier of that other person in relation to the national digital identity service, or any application registered with the national digital identity service in the identity of that other person.\n[Act 16 of 2023 wef 08/02/2024]\n[Act 21 of 2025 wef 30/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H803-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nSections 2(1) and 20\nScam offences\n1.An offence under section 420(2) of the Penal Code 1871.\n2.An abetment of, or a conspiracy or an attempt to commit, an offence mentioned in item 1.\n[Act 21 of 2025 wef 30/12/2025]"
+   }
+  }
+ ]
+}

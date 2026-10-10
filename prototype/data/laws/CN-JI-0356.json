@@ -1,0 +1,100 @@
+{
+ "id": "CN-JI-0356",
+ "title": {
+  "zh": "最高人民法院关于审理涉台民商事案件法律适用问题的规定",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p10",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2020-12-29",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "最高人民法院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 164,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于审理涉台民商事案件法律适用问题的规定_20201229.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，第一条至第三条，共 3 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于审理涉台民商事案件法律适用问题的规定_20201229.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0356-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "第一条"
+   },
+   "text": {
+    "zh": "人民法院审理涉台民商事案件，应当适用法律和司法解释的有关规定。\n根据法律和司法解释中选择适用法律的规则，确定适用台湾地区民事法律的，人民法院予以适用。"
+   }
+  },
+  {
+   "id": "CN-JI-0356-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "第二条"
+   },
+   "text": {
+    "zh": "台湾地区当事人在人民法院参与民事诉讼，与大陆当事人有同等的诉讼权利和义务，其合法权益受法律平等保护。"
+   }
+  },
+  {
+   "id": "CN-JI-0356-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "第三条"
+   },
+   "text": {
+    "zh": "根据本规定确定适用有关法律违反国家法律的基本原则或者社会公共利益的，不予适用。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于审理涉台民商事案件法律适用问题的规定"
+  },
+  "issuingBody": {
+   "zh": "最高人民法院"
+  },
+  "promulgatedDate": "2020-12-29",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

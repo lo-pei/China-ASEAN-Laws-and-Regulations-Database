@@ -1,0 +1,1482 @@
+{
+ "id": "TL-H264",
+ "title": {
+  "zh": "Enquadramento 国家总预算及 gestão financeira pública",
+  "en": null,
+  "orig": "Enquadramento do Orçamento Geral do Estado e gestão financeira pública"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p05",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2025-04-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 3/2025",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 90,
+ "chars": 90876,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2025/serie_1/SERIE_I_NO_17.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 90 条；逐字取自官方公报 PDF（public/docs/2025/serie_1/SERIE_I_NO_17.pdf）第 316–340 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H264-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  INICIAIS / CAPÍTULO I OBJETO  E  ÂMBITO"
+   },
+   "heading": {
+    "pt": "Objeto"
+   },
+   "text": {
+    "pt": "A presente lei estabelece o enquadramento do Orçamento Geral do Estado (OGE), da Conta Geral do Estado (CGE) e dos orçamentos e contas dos subsetores que os integram, incluindo a sua preparação, aprovação, execução e reporte, o regime financeiro dos serviços e entidades do Setor Público Administrativo e os regimes de gestão financeira pública, responsabilidade e controlo orçamental."
+   }
+  },
+  {
+   "id": "TL-H264-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  INICIAIS / CAPÍTULO I OBJETO  E  ÂMBITO"
+   },
+   "heading": {
+    "pt": "Âmbito de aplicação"
+   },
+   "text": {
+    "pt": "1.    As disposições da presente lei são aplicáveis aos serviços e entidades do Setor Público Administrativo, o qual é composto pelos seguintes subsetores:\na) A  Administração Central, a qual integra: i     O Estado e os órgãos, serviços e fundos, designados, na presente lei, de serviços da Administração Central, sem personalidade jurídica distinta da pessoa coletiva Estado, que compõem a Administração direta; ii    As pessoas coletivas puìblicas distintas da pessoa coletiva Estado, sem a forma de empresa, fundação ou associação, designadas, na presente lei, de entidades da Administração Central, que compõem a  Administração indireta.\nb) A Segurança Social, que inclui o Instituto Nacional de Segurança Social (INSS) e o Fundo de Reserva da Segurança Social (FRSS), os quais são pessoas coletivas públicas distintas da pessoa coletiva Estado sem a forma de empresa, fundação ou associação, mas cuja integração no subsetor da Segurança Social determina, para efeitos da presente lei, a sua exclusão da Administração direta e da Administração indireta;\nc) A Região Administrativa Especial de Oe-Cusse Ambeno (RAEOA), incluindo os serviços e entidades por esta dirigidos ou tutelados.\n2.   Não estão integrados no OGE:\na) Os fundos do Fundo de Reserva da Segurança Social, que compõem o regime de capitalização do sistema de segurança social, incluindo a carteira de ativos e a gestão operacional da mesma, sendo regulados por legislação especial;\nb) O Fundo Petrolífero de Timor-Leste, sendo o seu orçamento e prestação de contas regulados por legislação especial;\nc) O Banco Central de Timor-Leste (BCTL), sendo o seu orçamento e prestação de contas regulados por lei especial;\nd) As pessoas coletivas públicas que tenham a natureza e forma de empresa, fundação ou associação pública.\n3.    Sem prejuízo do referido na alínea a) do número anterior, os fundos do Fundo de Reserva da Segurança Social integram o património da Segurança Social e relevam para efeitos de contabilidade nacional.\n4.  Integram o perímetro orçamental os fluxos financeiros existentes entre os serviços e entidades que integram o OGE e os referidos no n.º 2."
+   }
+  },
+  {
+   "id": "TL-H264-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  INICIAIS / CAPÍTULO II PRINCÍPIOS  ORÇAMENTAIS"
+   },
+   "heading": {
+    "pt": "Anualidade e plurianualidade"
+   },
+   "text": {
+    "pt": "1.  O OGE, incluindo o orçamento dos subsetores que o integram, é anual.\n2.   O ano orçamental corresponde ao ano civil.\n3.  Sem prejuízo do disposto no n.º 1, o OGE deve ser enquadrado numa estratégia orçamental plurianual, que deve ter em conta:\na) Os dados macroeconómicos numa perspetiva de médio prazo;\nb) A orçamentação por programas numa lógica plurianual;\nc) A sustentabilidade das finanças públicas e do sistema de Segurança Social a curto, médio e longo prazos.\n4.   O disposto no n.º 1 não prejudica a possibilidade de, até dia 31 de janeiro do ano seguinte, se concluírem os pagamentos autorizados e registados até 31 de dezembro do ano a que o OGE diga respeito."
+   }
+  },
+  {
+   "id": "TL-H264-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  INICIAIS / CAPÍTULO II PRINCÍPIOS  ORÇAMENTAIS"
+   },
+   "heading": {
+    "pt": "Unidade e universalidade"
+   },
+   "text": {
+    "pt": "1.   O OGE é unitário e compreende a universalidade das receitas e despesas dos serviços e entidades que compõem o Setor Público Administrativo.\n2.   Os serviços e entidades do Setor Público Administrativo não podem executar despesa que não esteja prevista ou inscrita no OGE ou autorizada nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H264-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  INICIAIS / CAPÍTULO II PRINCÍPIOS  ORÇAMENTAIS"
+   },
+   "heading": {
+    "pt": "Equilíbrio orçamental"
+   },
+   "text": {
+    "pt": "O OGE, incluindo o orçamento dos subsetores que o integram, deve apresentar um equilíbrio ou excedente orçamental, prevendo os recursos necessários para financiar todos os compromissos assumidos ou a assumir no respetivo ano orçamental."
+   }
+  },
+  {
+   "id": "TL-H264-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  INICIAIS / CAPÍTULO II PRINCÍPIOS  ORÇAMENTAIS"
+   },
+   "heading": {
+    "pt": "Prossecução do interesse público"
+   },
+   "text": {
+    "pt": "1.  As entidades abrangidas pelo âmbito de aplicação da presente lei, durante a preparação e execução do seu orçamento, prosseguem o interesse público no respeito pelos direitos e interesses legalmente protegidos dos cidadãos.\n2.   Sem prejuízo do disposto no número anterior, toda a despesa pública é orientada para a prossecução do interesse público."
+   }
+  },
+  {
+   "id": "TL-H264-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  INICIAIS / CAPÍTULO II PRINCÍPIOS  ORÇAMENTAIS"
+   },
+   "heading": {
+    "pt": "Economia, eficiência e eficácia"
+   },
+   "text": {
+    "pt": "1.  A assunção de compromissos e a realização de despesa pelos serviços e entidades do Setor Público Administrativo estão sujeitas aos princípios da economia, eficiência e eficácia.\n2.  Entende-se por economia a promoção do acréscimo de produtividade pelo alcance de resultados semelhantes com menor despesa.\n3.    Entende-se por eficiência a utilização do mínimo de recursos para assegurar a prestação de serviços públicos.\n4.    Entende-se por eficácia a quantidade de impactos positivos na sociedade dos serviços públicos prestados."
+   }
+  },
+  {
+   "id": "TL-H264-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  INICIAIS / CAPÍTULO II PRINCÍPIOS  ORÇAMENTAIS"
+   },
+   "heading": {
+    "pt": "Transparência"
+   },
+   "text": {
+    "pt": "1.    A preparação, a aprovação e a execução do OGE, incluindo os orçamentos dos subsetores que o integram, estão sujeitas ao princípio da transparência.\n2.  Toda a informação relativa à implementação e execução orçamental deve ser tornada publicamente acessível.\n3.   É garantido o acesso público, de forma atempada, fiável, completa, atualizada e compreensível, pelo menos aos elementos seguintes:\na) Proposta de lei do OGE;\nb) Documentação de suporte da proposta de lei do OGE;\nc) Relatórios sobre a execução do OGE no decurso do exercício orçamental;\nd) CGE; e\ne) Relatório e Parecer sobre a CGE da Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas."
+   }
+  },
+  {
+   "id": "TL-H264-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  INICIAIS / CAPÍTULO II PRINCÍPIOS  ORÇAMENTAIS"
+   },
+   "heading": {
+    "pt": "Equidade intergeracional"
+   },
+   "text": {
+    "pt": "O OGE deve assegurar a distribuição equitativa de custos e benefícios entre gerações, não onerando desproporcionalmente as gerações atuais e futuras."
+   }
+  },
+  {
+   "id": "TL-H264-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  INICIAIS / CAPÍTULO II PRINCÍPIOS  ORÇAMENTAIS"
+   },
+   "heading": {
+    "pt": "Especificação"
+   },
+   "text": {
+    "pt": "1.  O OGE deve especificar suficientemente as receitas nele previstas e as despesas nele inscritas.\n2.    As receitas são especificadas por classificação orgânica e económica.\n3.    As despesas são especificadas por classificação orgânica, por programa e subprograma, por classificação económica e por classificação funcional.\n4.  A classificação orgânica consiste no agrupamento das despesas pelo serviço ou entidade do Setor Público Administrativo que realiza a despesa, cujas divisões são denominadas de títulos e, dentro destes, de capítulos.\n5.   A classificação económica consiste no agrupamento das receitas e despesas pela sua natureza económica, cujas divisões são denominadas de categorias e, dentro destas, de rubricas.\n6.  A classificação funcional consiste no agrupamento das despesas pelas diferentes funções da governação, cujas divisões são denominadas de divisões e, dentro destas, de grupos.\n7.  O Governo pode estabelecer níveis de desagregação suplementar dos classificadores orçamentais.\n8.    O Governo pode estabelecer formas adicionais de especificação da informação orçamental.\n9.  São nulos os créditos orçamentais que possibilitem a existência de dotações para utilização confidencial ou para fundos secretos, sem prejuízo dos regimes especiais de utilização de verbas aprovados por lei que excecionalmente se fundamentem por razões de segurança nacional.\n10.  A estrutura dos classificadores orçamentais segue as normas e padrões internacionais e é regulamentada por decreto do Governo."
+   }
+  },
+  {
+   "id": "TL-H264-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  INICIAIS / CAPÍTULO II PRINCÍPIOS  ORÇAMENTAIS"
+   },
+   "heading": {
+    "pt": "Não compensação"
+   },
+   "text": {
+    "pt": "1.    As receitas do OGE são previstas pela importância integral em que forem avaliadas, sem dedução para encargos de cobrança ou de qualquer outra natureza, sem prejuízo do disposto nos n.os 3 a 5.\n2.  As despesas do OGE são inscritas pela sua importância integral e sem dedução de qualquer espécie, sem prejuízo do disposto nos números seguintes.\n3.    A inscrição orçamental dos fluxos financeiros decorrentes de operações associadas à gestão da tesouraria do Estado, da tesouraria da Segurança Social e da tesouraria da RAEOA é efetuada de acordo com as seguintes regras:\na) As receitas obtidas em operações de derivados financeiros são deduzidas das despesas correntes das mesmas operações, sendo o respetivo saldo sempre inscrito como receita;\nb) Os juros recebidos de títulos de dívida são deduzidos dos juros corridos pagos na aquisição do mesmo género de valores, sendo o respetivo saldo sempre inscrito como receita;\nc) A despesa com ativos financeiros é deduzida do valor da venda de ativos financeiros que a antecedeu;\nd) Os montantes das receitas e despesas integram as comissões inerentes às operações e outros custos associados.\n4.    A inscrição orçamental das receitas tributárias corresponde aos montantes efetivamente cobrados, abatidos das receitas cessantes em virtude de benefícios tributários e dos montantes dos reembolsos e restituições.\n5.   O disposto nos n.os 3 e 4 não prejudica o registo contabilístico individualizado de todos os fluxos financeiros, ainda que meramente escriturais, associados às operações neles referidas."
+   }
+  },
+  {
+   "id": "TL-H264-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES  INICIAIS / CAPÍTULO II PRINCÍPIOS  ORÇAMENTAIS"
+   },
+   "heading": {
+    "pt": "Não consignação"
+   },
+   "text": {
+    "pt": "1.    O produto de uma receita não pode ser afeto à cobertura de uma despesa específica.\n2.   Excetuam-se do disposto no número anterior:\na) As receitas afetas ao financiamento da Segurança Social, nos seguintes termos: i     As receitas do regime contributivo de repartição e capitalização são afetas à cobertura das despesas do regime contributivo; ii     Até 5% da receita anual prevista com contribuições sociais é afeta a despesas com a gestão operacional do Fundo de Reserva da Segurança Social, integradas no regime de capitalização; iii    As demais receitas da Segurança Social são afetas às responsabilidades dos regimes nos termos orçamentados.\nb) As receitas que correspondam a transferências provenientes de Estados ou organismos estrangeiros, se acordado com estes;\nc) As receitas provenientes de doações, heranças e legados de particulares que, por vontade destes, devam ser afetas à cobertura de determinadas despesas;\nd) As receitas que sejam, excecionalmente, de forma fundamentada, e por ato legislativo, afetas à cobertura de despesas específicas.\n3.  Excecionalmente pode a receita ser consignada no ato legislativo que procede à criação ou regula especificamente esse tipo de receita."
+   }
+  },
+  {
+   "id": "TL-H264-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II REGIME  FINANCEIRO  DOS  SERVIÇOS  E  ENTIDADES DO  SETOR  PÚBLICO  ADMINISTRATIVO"
+   },
+   "heading": {
+    "pt": "Conteúdo do regime financeiro dos serviços e entidades do"
+   },
+   "text": {
+    "pt": "Setor Público Administrativo\n1.  O regime financeiro dos serviços e entidades do Setor Público Administrativo define o respetivo nível de autonomia orçamental, financeira e patrimonial.\n2.   O Setor Público Administrativo é composto por:\na) Serviços sem autonomia financeira;\nb) Serviços com autonomia financeira;\nc) Serviços e fundos com autonomia financeira e receita própria.\n3.  São serviços sem autonomia financeira os serviços que compõem a Administração direta, com exceção dos ministérios, das secretarias de Estado não integradas em ministérios, dos serviços e entidades de apoio aos titulares dos demais órgãos de soberania e dos serviços e entidades que gozem de autonomia financeira por imperativo constitucional.\n4.   São serviços com autonomia financeira:\na) Os ministérios e as secretarias de Estado não integrados em ministérios;\nb) As entidades que gozem dessa autonomia financeira por imperativo constitucional, como sejam a Presidência da República, o Parlamento Nacional, os Tribunais, a Procuradoria-Geral da República, a Provedoria de Direitos Humanos e Justiça e a Comissão Nacional de Eleições;\nc) As autoridades municipais.\n5.   São serviços e fundos com autonomia financeira e receita própria:\na) Os serviços e entidades que tenham capacidade para cobrar e aplicar receitas próprias em despesa, compreendendo igualmente a capacidade de deter e gerir património próprio, que não assumam a forma de empresa, fundação ou associação pública e que integram a Administração indireta do Estado;\nb) Os serviços e entidades que integram o subsetor da Segurança Social;\nc) Os serviços e entidades que integram o subsetor da RAEOA.\n6.  O Governo define o regime financeiro dos serviços e entidades do Setor Público Administrativo por diploma próprio."
+   }
+  },
+  {
+   "id": "TL-H264-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II REGIME  FINANCEIRO  DOS  SERVIÇOS  E  ENTIDADES DO  SETOR  PÚBLICO  ADMINISTRATIVO"
+   },
+   "heading": {
+    "pt": "Regime aplicável aos serviços sem autonomia financeira"
+   },
+   "text": {
+    "pt": "1.  Os serviços sem autonomia financeira têm competência para:\na) Propor as dotações orçamentais respetivas;\nb) Integrar, em capítulo próprio, o orçamento do respetivo ministério ou secretaria de Estado não integrada em ministério, quando se trate de direções e demais serviços da Administração direta;\nc) Propor a gestão das dotações orçamentais respetivas;\nd) Realizar a despesa necessária à prossecução das suas atribuições, nos termos da respetiva regulamentação;\ne) Gerir o património que lhe esteja afeto.\n2.   Os serviços sem autonomia financeira gozam de autonomia administrativa nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H264-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II REGIME  FINANCEIRO  DOS  SERVIÇOS  E  ENTIDADES DO  SETOR  PÚBLICO  ADMINISTRATIVO"
+   },
+   "heading": {
+    "pt": "Regime aplicável aos serviços com autonomia financeira"
+   },
+   "text": {
+    "pt": "1.  Os serviços com autonomia financeira têm competência para:\na) Preparar o próprio orçamento, nos termos definidos na presente lei e na circular anual de preparação do OGE;\nb) Gerir as dotações orçamentais constantes do orçamento próprio;\nc) Ser titular de conta bancária própria, se a sua natureza jurídica o permitir;\nd) Transitar o saldo de gerência de receitas consignadas apurado no exercício orçamental anterior e, mediante inscrição no Orçamento Geral do Estado, aplicá-lo em despesa;\ne) Realizar a despesa necessária à prossecução das suas atribuições, nos termos da respetiva regulamentação; f) Gerir o património que lhe esteja afeto, nos termos previstos na lei.\n2.    Os serviços com autonomia financeira gozam de autonomia administrativa nos termos da lei e possuem título próprio no OGE.\n3.   O órgão de direção dos serviços com autonomia financeira tem competência para praticar atos administrativos, nomeadamente a autorização de despesa, a assunção de compromissos e a autorização de pagamentos, dentro dos limites legalmente fixados."
+   }
+  },
+  {
+   "id": "TL-H264-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II REGIME  FINANCEIRO  DOS  SERVIÇOS  E  ENTIDADES DO  SETOR  PÚBLICO  ADMINISTRATIVO"
+   },
+   "heading": {
+    "pt": "Regime aplicável aos serviços e fundos com autonomia financeira e receita própria"
+   },
+   "text": {
+    "pt": "1.  Os serviços e fundos com autonomia financeira e receita própria têm competência para:\na) Preparar o próprio orçamento, nos termos definidos na presente lei e na circular anual de preparação do OGE;\nb) Gerir as dotações orçamentais constantes do orçamento próprio;\nc) Ser titular de conta bancária própria, nos termos da lei;\nd) Inscrever como receitas próprias as receitas resultantes da sua atividade específica e da administração e alienação do seu património;\ne) Transitar o saldo de gerência de receitas próprias apurado no exercício orçamental anterior e, mediante inscrição no Orçamento Geral do Estado, aplicá-lo em despesa; f) Realizar a despesa necessária à prossecução das suas atribuições, nos termos da respetiva regulamentação;\ng) Gerir o património que lhe esteja afeto, possuir património próprio, se a sua natureza jurídica o permitir, e administrá-lo e dispor dele livremente, nos termos e mediante as autorizações previstas na lei.\n2.  Os serviços e fundos com autonomia financeira e receita própria gozam de autonomia administrativa nos termos da lei e possuem título próprio no OGE.\n3.   Sem prejuízo do disposto na alínea e) do n.º 1, as instituições que integram o subsetor da Segurança Social podem transitar o saldo de gerência de receitas próprias e aplicálo em despesa relativa às transferências do INSS para o FRSS.\n4.   O órgão de direção dos serviços e fundos com autonomia financeira e receita própria tem competência para praticar atos administrativos, nomeadamente a autorização de despesa, a assunção de compromissos e a autorização de pagamentos, dentro dos limites legalmente definidos, sem prejuízo dos poderes de tutela e superintendência que caibam ao membro do Governo respetivo."
+   }
+  },
+  {
+   "id": "TL-H264-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II REGIME  FINANCEIRO  DOS  SERVIÇOS  E  ENTIDADES DO  SETOR  PÚBLICO  ADMINISTRATIVO"
+   },
+   "heading": {
+    "pt": "Autonomia orçamental"
+   },
+   "text": {
+    "pt": "1.  Os serviços e entidades que compõem a Segurança Social gozam de autonomia orçamental, com orçamento autónomo integrado no OGE, e das demais competências orçamentais, financeiras e contabilísticas, nos termos da presente lei.\n2.   Os serviços e entidades que compõem a RAEOA gozam de autonomia orçamental, com orçamento autónomo integrado no OGE, e das demais faculdades orçamentais, financeiras e contabilísticas, nos termos da presente lei.\n3.  Os municípios gozam de autonomia orçamental e têm finanças próprias, cuja gestão compete aos respetivos órgãos, nos termos a definir em lei própria."
+   }
+  },
+  {
+   "id": "TL-H264-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III ORÇAMENTO  GERAL  DO  ESTADO / CAPÍTULO I NATUREZA  E  CONTEÚDO"
+   },
+   "heading": {
+    "pt": "Natureza"
+   },
+   "text": {
+    "pt": "O OGE é aprovado por uma lei do Parlamento Nacional designada de lei do Orçamento Geral do Estado, sendo este um documento de natureza previsional que apresenta anualmente todas as receitas e despesas do Setor Público Administrativo e define o limite máximo das despesas a serem realizadas pelos respetivos serviços e entidades durante o ano orçamental."
+   }
+  },
+  {
+   "id": "TL-H264-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III ORÇAMENTO  GERAL  DO  ESTADO / CAPÍTULO I NATUREZA  E  CONTEÚDO"
+   },
+   "heading": {
+    "pt": "Conteúdo"
+   },
+   "text": {
+    "pt": "1.   O OGE inclui os orçamentos de todos os serviços e entidades que compõem o Setor Público Administrativo, incluindo os serviços sem autonomia financeira, os serviços com autonomia financeira e os serviços e fundos com autonomia financeira e receita própria, apresentando de forma individualizada o orçamento da Administração Central, o orçamento da Segurança Social e o orçamento da RAEOA.\n2.   No OGE são inscritas obrigatoriamente as dotações necessárias para o cumprimento das obrigações decorrentes de lei, direito internacional, contrato ou decisão judicial transitada em julgado cujo pagamento deva ocorrer durante o respetivo ano orçamental, bem como as receitas suficientes para cobrir essas despesas.\n3.   No OGE é também inscrita obrigatoriamente uma dotação intitulada “Reserva de Contingência”, de montante não inferior a 2% e não superior a 5% do valor total das despesas."
+   }
+  },
+  {
+   "id": "TL-H264-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III ORÇAMENTO  GERAL  DO  ESTADO / CAPÍTULO I NATUREZA  E  CONTEÚDO"
+   },
+   "heading": {
+    "pt": "Orçamentação"
+   },
+   "text": {
+    "pt": "1.  A orçamentação das receitas do OGE, incluindo dos respetivos subsetores, é realizada até ao segundo grau da classificação económica.\n2.  A orçamentação das despesas do OGE, incluindo dos respetivos subsetores, é realizada até ao primeiro grau da classificação orgânica e ao segundo grau da estrutura por programas e ao segundo grau das classificações económica e funcional.\n3.  Cada título da classificação orgânica corresponde a um serviço com autonomia financeira ou a um serviço e fundo com autonomia financeira e receita própria.\n4.   Para além dos títulos previstos no número anterior, é inscrito no OGE no orçamento da Administração Central um título denominado “Dotação Geral do Estado”, gerido pelo membro do Governo responsável pela área das finanças públicas, correspondente, nomeadamente, às receitas gerais e às despesas com:\na) Reserva de Contingência;\nb) Responsabilidades com empréstimos titulados pelo Estado;\nc) Transferências para a Segurança Social; e\nd) Transferências para a RAEOA.\n5.   A especificação das receitas e das despesas do orçamento da Segurança Social é, ainda, realizada por regime não contributivo de Segurança Social, regime contributivo de Segurança Social de repartição e administração.\n6.  A orçamentação das receitas e das despesas é realizada numa base de caixa."
+   }
+  },
+  {
+   "id": "TL-H264-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III ORÇAMENTO  GERAL  DO  ESTADO / CAPÍTULO I NATUREZA  E  CONTEÚDO"
+   },
+   "heading": {
+    "pt": "Orçamentação por programas"
+   },
+   "text": {
+    "pt": "1.    Sem prejuízo do disposto no artigo anterior, o OGE estruturase em programas.\n2.   A orçamentação por programas é uma abordagem estruturada de preparação do orçamento que vincula a inscrição de dotações no OGE à sua relação com os programas, subprogramas e atividades previstas no plano anual e no plano de médio prazo do respetivo serviço ou entidade do Setor Público Administrativo.\n3.   A estrutura por programas consiste no agrupamento das despesas por programas, as quais correspondem a objetivos gerais com vista à produção de resultados, cujas divisões são denominadas de subprogramas, os quais correspondem a objetivos específicos com vista à produção de resultados, e dentro destes de atividades, as quais correspondem a um conjunto de ações que contribuem para a produção de resultados.\n4.  Os programas estão vinculados ao Plano Nacional de Desenvolvimento em vigor e ao Programa do Governo, definindo objetivos gerais a alcançar.\n5.   Os subprogramas estão vinculados a um programa e definem objetivos específicos a alcançar.\n6.  As atividades estão vinculadas a um subprograma e detalham os processos ou tarefas que devam ser executadas para produzir resultados.\n7.   Cada programa, subprograma e atividade é acompanhado por indicadores de avaliação do desempenho, que medem diretamente o desempenho dos processos ou tarefas principais que constituem o programa, o subprograma ou a atividade.\n8.   A estrutura dos programas orçamentais tem base orgânica.\n9.   A regulamentação da estrutura dos programas orçamentais é aprovada por decreto do Governo."
+   }
+  },
+  {
+   "id": "TL-H264-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III ORÇAMENTO  GERAL  DO  ESTADO / CAPÍTULO I NATUREZA  E  CONTEÚDO"
+   },
+   "heading": {
+    "pt": "Conteúdo dos orçamentos integrados no OGE"
+   },
+   "text": {
+    "pt": "1.   O orçamento da Administração Central inclui os orçamentos de todos os serviços e entidades do Setor Público Administrativo não incluídos nos orçamentos de outros subsetores.\n2.  O orçamento da Segurança Social inclui o orçamento do INSS, o qual integra o orçamento do regime contributivo de Segurança Social de repartição, o orçamento do regime não contributivo de Segurança Social e o orçamento da administração do INSS, e o orçamento do FRSS, o qual, por sua vez, integra o orçamento da administração do FRSS, excluindo o orçamento do regime contributivo de Segurança Social de capitalização.\n3.   No orçamento da Segurança Social são inscritas obrigatoriamente as dotações necessárias para o pagamento de prestações no âmbito da proteção social prevista para as eventualidades abrangidas pelo regime e demais leis aplicáveis e das despesas de administração do sistema de Segurança Social, bem como as receitas suficientes para cobrir essas despesas.\n4.    O orçamento da RAEOA inclui os orçamentos de todos os órgãos, serviços e entidades da RAEOA."
+   }
+  },
+  {
+   "id": "TL-H264-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III ORÇAMENTO  GERAL  DO  ESTADO / CAPÍTULO II PLANEAMENTO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Declaração de Estratégia Orçamental"
+   },
+   "text": {
+    "pt": "Até ao final do mês de junho de cada ano, o Governo envia ao Parlamento Nacional, para informação, uma Declaração de Estratégia Orçamental, que contém, pelo menos, os seguintes elementos:\na)   Visão dos recentes desenvolvimentos macroeconómicos e fiscais;\nb)   Projeções macroeconómicas para o ano orçamental seguinte e para os quatro anos subsequentes;\nc)  Previsões orçamentais, incluindo totais de receitas, despesas, défice e dívida, para o ano orçamental seguinte e, pelo menos, os quatro anos subsequentes;\nd)   Descrição das principais medidas políticas planeadas pelo Governo para o ano orçamental seguinte e para os anos subsequentes da respetiva legislatura;\ne)  Previsões fiscais para o Setor Público Administrativo e respetivos subsetores, para o ano orçamental seguinte e para os quatro anos subsequentes;\nf)  Explicação dos métodos e pressupostos usados para a previsão macroeconómica e fiscal;\ng)  Comparação das projeções macroeconómicas e fiscais com as previsões realizadas pelas organizações internacionais e entidades independentes, acompanhada de uma explicação sobre eventuais diferenças significativas;\nh)  Comparação entre as projeções dos indicadores macroeconómicos e fiscais incluídos na Declaração de Estratégia Orçamental do ano anterior e os resultados desses indicadores e uma explicação sobre eventuais diferenças significativas;\n(i)   Declaração de riscos financeiros, a qual deve incluir: i Os resultados de análise de sensibilidade baseada em diferentes pressupostos em relação aos principais indicadores macroeconómicos e financeiros; ii Informação e análise da exposição dos serviços e entidades do Setor Público Administrativo aos passivos contingentes, incluindo os resultantes de garantias e custos resultantes de casos judiciais, bem como de outras fontes, e a empréstimos e adiantamentos; iii Qualquer outra informação relevante, resultante da análise da informação obrigatoriamente disponibilizada ao ministério com atribuições na área das finanças públicas, a pedido deste, por qualquer serviço e entidade do Setor Público Administrativo, empresa pública, BCTL e qualquer outra entidade que contrate empréstimo, garantia ou adiantamento com o Estado.\nj)    Limite do teto da despesa total do Setor Público Administrativo para o ano orçamental seguinte e para os quatro anos subsequentes;\nk)   Limite do teto de despesa dos vários subsetores para o ano orçamental seguinte e para os quatro anos subsequentes;\nl)   Programação orçamental plurianual, a qual estabelece o limite máximo de referência da dívida do Setor Público Administrativo, a 31 de dezembro de cada ano, expresso em valor absoluto e em valor percentual do produto interno bruto."
+   }
+  },
+  {
+   "id": "TL-H264-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III ORÇAMENTO  GERAL  DO  ESTADO / CAPÍTULO II PLANEAMENTO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Elementos do planeamento orçamental"
+   },
+   "text": {
+    "pt": "A proposta de Lei do OGE reflete a componente financeira das prioridades nacionais definidas com base nos seguintes elementos:\na) Plano Estratégico de Desenvolvimento;\nb) Programa do Governo;\nc) Planos de médio prazo;\nd) Planos de ação anual dos serviços e entidades do Setor Público Administrativo;\ne) Declaração de Estratégia Orçamental; e f) Quaisquer outros documentos políticos e estratégicos do Governo."
+   }
+  },
+  {
+   "id": "TL-H264-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III ORÇAMENTO  GERAL  DO  ESTADO / CAPÍTULO II PLANEAMENTO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Plano de médio prazo e plano de ação anual"
+   },
+   "text": {
+    "pt": "1.   Os serviços e entidades do Setor Público Administrativo procedem anualmente à elaboração e ou atualização de planos de médio prazo, que são constituídos por planos de ação anual relativos ao ano orçamental seguinte e aos quatro anos subsequentes, dos quais constam os programas, subprogramas e atividades do plano de médio prazo que devem ser executados durante esses anos orçamentais e a indicação do seu custo.\n2.  Os planos de médio prazo dos serviços e entidades do Setor Público Administrativo devem estar alinhados com as prioridades governamentais e a programação orçamental plurianual e respeitar a estrutura por programas.\n3.   Os serviços e entidades do Setor Público Administrativo procedem também à identificação dos resultados esperados pela implementação dos programas identificados e à definição de indicadores de avaliação do desempenho.\n4.   O plano de ação anual para o ano orçamental seguinte deve ser acompanhado da fundamentação da continuidade das políticas existentes e ou da implementação de novas políticas, fazendo referência ao desempenho dos programas nos anos anteriores, bem como da explicação de como o respetivo orçamento permite atingir os objetivos do programa e a prestação dos serviços planeados para esse ano orçamental.\n5.   O plano de ação anual para o ano orçamental seguinte deve ainda ser acompanhado do plano de aprovisionamento para esse ano orçamental.\n6.  A inscrição de dotações no OGE no título relativo a determinado serviço ou entidade do Setor Público Administrativo está dependente da inscrição da atividade a ser financiada por essa despesa no plano de ação anual para esse ano orçamental desse serviço ou entidade.\n7.   Os planos referidos no presente artigo são regulamentados pelo Governo por diploma próprio."
+   }
+  },
+  {
+   "id": "TL-H264-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III ORÇAMENTO  GERAL  DO  ESTADO / CAPÍTULO II PLANEAMENTO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Elaboração das propostas"
+   },
+   "text": {
+    "pt": "1.  As propostas de programas dos serviços e entidades do Setor Público Administrativo devem estar alinhadas com o plano anual para o ano orçamental seguinte.\n2.  As propostas de orçamento dos serviços e entidades do Setor Público Administrativo devem prever as dotações necessárias ao cumprimento de todas as obrigações do serviço, entidade ou subsetores, estruturadas de acordo com os programas aprovados pelo Conselho de Ministros, e estar alinhadas com o plano de ação anual para o ano orçamental seguinte."
+   }
+  },
+  {
+   "id": "TL-H264-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III ORÇAMENTO  GERAL  DO  ESTADO / CAPÍTULO III LEI  DO  ORÇAMENTO  GERAL  DO  ESTADO"
+   },
+   "heading": {
+    "pt": "Estrutura"
+   },
+   "text": {
+    "pt": "1.  A lei do OGE é composta pelo articulado e pelas tabelas orçamentais.\n2.   A proposta de lei do OGE tem conteúdo e estrutura idênticos ao da lei do OGE.\n3.   A proposta de lei do OGE é acompanhada do relatório, dos livros de desenvolvimento orçamental e dos elementos informativos."
+   }
+  },
+  {
+   "id": "TL-H264-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III ORÇAMENTO  GERAL  DO  ESTADO / CAPÍTULO III LEI  DO  ORÇAMENTO  GERAL  DO  ESTADO"
+   },
+   "heading": {
+    "pt": "Articulado da lei do OGE"
+   },
+   "text": {
+    "pt": "1.  O articulado da lei do OGE é composto por um capítulo inicial, um capítulo geral e um capítulo com disposições finais, podendo conter, entre outros, capítulos relativos ao orçamento da Administração Central, ao orçamento da Segurança Social e ao orçamento da RAEOA.\n2.  O capítulo inicial apresenta o objeto e o âmbito da lei do OGE.\n3.   O capítulo geral contém, designadamente:\na) A aprovação das tabelas orçamentais;\nb) A autorização para a cobrança de impostos, taxas e contribuições pelo Estado e pelos serviços e entidades do Setor Público Administrativo;\nc) A aprovação da autorização para transferência do Fundo Petrolífero;\nd) A aprovação do montante máximo que o Estado, incluindo a Segurança Social e a RAEOA, pode contrair através de empréstimo, bem como as condições gerais a que se devem subordinar as respetivas operações;\ne) A aprovação do montante máximo que o Estado pode garantir e emprestar, bem como as condições gerais a que se devem subordinar as respetivas operações; f) A aprovação das transferências entre subsetores.\n4.   O capítulo relativo ao orçamento da Segurança Social inclui, entre outras disposições, a aprovação da transferência de saldos para o FRSS.\n5.  O capítulo relativo ao orçamento da RAEOA inclui, entre outras disposições, a aprovação da transferência de saldos para o Fundo Especial de Desenvolvimento para a RAEOA.\n6.  O capítulo com disposições finais deve prever as normas relativas à entrada em vigor e à produção de efeitos da lei do OGE."
+   }
+  },
+  {
+   "id": "TL-H264-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III ORÇAMENTO  GERAL  DO  ESTADO / CAPÍTULO III LEI  DO  ORÇAMENTO  GERAL  DO  ESTADO"
+   },
+   "heading": {
+    "pt": "Tabelas orçamentais da Lei do OGE"
+   },
+   "text": {
+    "pt": "1.   A lei do OGE contém as seguintes tabelas orçamentais:\na) Tabela I - Receita do Setor Público Administrativo por subsetores;\nb) Tabela II - Despesa do Setor Público Administrativo por subsetores;\nc) Tabela III - Receita do subsetor da Administração Central por classificação económica;\nd) Tabela IV – Despesa do Setor Público Administrativo por classificação funcional;\ne) Tabela V - Despesa do subsetor da Administração Central por classificação orgânica e estruturada por programas; f) Tabela VI - Despesa do subsetor da Administração Central por classificação económica;\ng) Tabela VII- Receita do subsetor da Segurança Social por classificação económica, total e por regime e administração;\nh) Tabela VIII- Despesa do subsetor da Segurança Social por classificação orgânica e estruturada por programas; (i) Tabela IX - Despesa do subsetor da Segurança Social por classificação económica, total e por regime e administração; j) Tabela X - Receita do subsetor da Região Administrativa Especial de Oe-Cusse Ambeno por classificação económica;\nk) Tabela XI - Despesa do subsetor da Região Administrativa Especial de Oe-Cusse Ambeno por classificação orgânica e estruturada por programas; l) Tabela XII - Despesa do subsetor da Região Administrativa Especial de Oe-Cusse Ambeno por classificação económica.\n2.   O Governo pode apresentar tabelas adicionais.\n3.  O Governo pode apresentar, para mera referência, os valores relativos a anos orçamentais anteriores e seguintes."
+   }
+  },
+  {
+   "id": "TL-H264-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III ORÇAMENTO  GERAL  DO  ESTADO / CAPÍTULO III LEI  DO  ORÇAMENTO  GERAL  DO  ESTADO"
+   },
+   "heading": {
+    "pt": "Apresentação da proposta de lei do OGE"
+   },
+   "text": {
+    "pt": "1.   O Governo apresenta ao Parlamento Nacional, em suporte físico e suporte informático, até 1 de outubro de cada ano, a proposta de lei do OGE para o ano orçamental seguinte, acompanhada do relatório, dos livros de desenvolvimento orçamental e dos elementos informativos, nos termos da presente lei.\n2.  O prazo do número anterior e os restantes prazos do processo orçamental não se aplicam nos anos em que:\na) O Governo em funções a 1 de outubro desse ano se encontre demitido; ou\nb) O Governo em funções a 1 de outubro desse ano tiver tomado posse entre 2 de maio e 1 de outubro desse ano; ou\nc) A legislatura termine entre 2 de maio e 30 de novembro desse ano.\n3.   Nos casos previstos no número anterior, a proposta de lei do OGE é apresentada pelo novo Governo ao Parlamento Nacional até cinco meses a contar da data da sua tomada de posse.\n4.   O Governo deve divulgar, no seu portal oficial da internet, na mesma data, um documento simples informativo, em língua portuguesa e em língua tétum, que apresente, de forma resumida e de fácil compreensão, os pontos essenciais da proposta de lei do OGE, com o objetivo de informar os cidadãos sobre o seu conteúdo e de os envolver no processo orçamental."
+   }
+  },
+  {
+   "id": "TL-H264-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III ORÇAMENTO  GERAL  DO  ESTADO / CAPÍTULO III LEI  DO  ORÇAMENTO  GERAL  DO  ESTADO"
+   },
+   "heading": {
+    "pt": "Relatório da proposta de lei do OGE"
+   },
+   "text": {
+    "pt": "1.   O relatório da proposta de lei do OGE contém a apresentação e a fundamentação da política orçamental proposta.\n2.   O relatório da proposta de lei do OGE inclui ainda a análise dos principais elementos relativos:\na) Às projeções dos principais indicadores macroeconómicos com influência no OGE e à sua evolução;\nb) À evolução da situação financeira do Setor Público Administrativo e dos subsetores que o compõem;\nc) Ao desempenho da execução orçamental do exercício orçamental anterior;\nd) À evolução e sustentabilidade do Fundo Petrolífero;\ne) À evolução e sustentabilidade da dívida pública; f) À situação das operações de tesouraria e das contas do Tesouro;\ng) À previsão da receita tributária e da receita tributária cessante;\nh) Às linhas gerais da política e dos programas orçamentais; (i) Às medidas de racionalização da gestão orçamental; j) Às medidas de política orçamental de natureza temporária e permanente;\nk) À análise de riscos orçamentais; l) À informação sobre responsabilidades contingentes do Setor Público Administrativo;\nm) Às despesas anuais e plurianuais com parcerias público-privadas e à situação de endividamento global respetivo;\nn) À informação sobre pagamentos em atraso do Setor Público Administrativo;\no) A outras matérias consideradas relevantes para fundamentar a decisão orçamental.\n3.   O relatório da proposta de lei do OGE inclui, também, um quadro de programação orçamental plurianual que apresenta:\na) As projeções da receita e da despesa do Setor Público Administrativo e dos subsetores para o ano orçamental seguinte e para os quatro anos subsequentes;\nb) As projeções da dívida pública para o ano orçamental seguinte e para os quatro anos subsequentes, em valores absolutos e percentuais do produto interno bruto;\nc) As projeções do valor do Fundo Petrolífero para o ano orçamental seguinte e para os quatro anos subsequentes.\n4.   O relatório da proposta de lei do OGE inclui, ainda, um mapa comparativo entre as previsões macroeconómicas e orçamentais utilizadas na lei do OGE relativas ao exercício orçamental anterior e a evolução real verificada, devendo as diferenças significativas apuradas ser devidamente fundamentadas."
+   }
+  },
+  {
+   "id": "TL-H264-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III ORÇAMENTO  GERAL  DO  ESTADO / CAPÍTULO III LEI  DO  ORÇAMENTO  GERAL  DO  ESTADO"
+   },
+   "heading": {
+    "pt": "Livros de desenvolvimento orçamental"
+   },
+   "text": {
+    "pt": "1.    A proposta de lei do OGE é acompanhada pelos seguintes livros de desenvolvimento orçamental:\na) Livro orçamental das receitas e das despesas dos serviços e entidades do subsetor da Administração Central;\nb) Livro orçamental das receitas e das despesas dos serviços e entidades do subsetor da Segurança Social;\nc) Livro orçamental das receitas e das despesas do subsetor da Região Administrativa Especial de Oe- Cusse Ambeno.\n2.  Os livros de desenvolvimento orçamental apresentam as receitas e despesas de cada serviço e entidade, especificadas até aos níveis máximos de desagregação, de acordo com a estrutura por programas e as classificações orgânica e económica."
+   }
+  },
+  {
+   "id": "TL-H264-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III ORÇAMENTO  GERAL  DO  ESTADO / CAPÍTULO III LEI  DO  ORÇAMENTO  GERAL  DO  ESTADO"
+   },
+   "heading": {
+    "pt": "Elementos informativos"
+   },
+   "text": {
+    "pt": "1.   A proposta de lei do OGE é acompanhada pelos seguintes elementos informativos:\na) Situação financeira e patrimonial do Estado e dos serviços e entidades do Setor Público Administrativo;\nb) Situação das operações de tesouraria e contas do Tesouro e dos serviços e entidades do Setor Público Administrativo;\nc) Elementos informativos sobre os programas orçamentais, incluindo os indicadores de avaliação do desempenho;\nd) Elementos informativos sobre o desempenho dos programas no exercício orçamental anterior;\ne) Situação financeira e patrimonial do FRSS; f) Demonstração financeira do Fundo Petrolífero;\ng) Estimativa do Rendimento Sustentável Estimado para o próprio ano orçamental e no ano orçamental anterior;\nh) Relatório de auditor independente a certificar o montante das estimativas do Rendimento Sustentável Estimado a que se refere a alínea anterior; (i) Estimativa de redução do Rendimento Sustentável Estimado nos exercícios orçamentais subsequentes, por motivo de transferência a partir do Fundo Petrolífero de montante superior ao Rendimento Sustentável Estimado, caso tal seja previsto na proposta de lei do OGE; j) Relatório de auditor independente certificando as estimativas de redução do Rendimento Sustentável Estimado a que se refere a alínea anterior;\nk) Número de trabalhadores do Setor Público Administrativo por serviço e entidade e por natureza do vínculo; l) Planos anuais dos serviços e entidades do Setor Público Administrativo;\nm) Compromissos plurianuais dos serviços e entidades do Setor Público Administrativo;\nn) Vinculações externas e despesas obrigatórias dos serviços e entidades do Setor Público Administrativo;\no) Situação da dívida pública e das operações de tesouraria do Tesouro e dos serviços e entidades do Setor Público Administrativo, com identificação dos empréstimos contratados, das condições específicas e dos pagamentos relativos a juros e amortizações realizados por conta de cada empréstimo;\np) Informação individualizada sobre despesas com parcerias público-privadas;\nq) Informação individualizada sobre empréstimos e garantias concedidas pelo Estado; r) Situação financeira e patrimonial das empresas, fundações e associações públicas ou com participação do Estado;\ns) Previsão da receita tributária e da receita tributária cessante por tributo; t) Previsão de créditos dos serviços ou entidades modificados ou extintos; e\nu) Outras informações consideradas necessárias pelo Governo.\n2.  A proposta de lei do OGE é ainda acompanhada pelos seguintes elementos informativos relativos à Segurança Social:\na) Previsão da receita contributiva que permita verificar o montante da receita bruta e da transferência para o FRSS;\nb) Situação das operações de tesouraria e das contas do subsetor da Segurança Social;\nc) Composição da despesa anual por regime e por prestação;\nd) Projeção atualizada de longo prazo contendo os encargos com prestações diferidas e as contribuições dos trabalhadores e das entidades empregadoras.\n3.   A proposta de lei do OGE é ainda acompanhada por elementos informativos sobre o Fundo Especial de Desenvolvimento da RAEOA e os seus investimentos.\n4.   Sempre que a proposta de lei do OGE preveja autorização para transferência a partir do Fundo Petrolífero acima do Rendimento Sustentável Estimado, deve a proposta ser também acompanhada da fundamentação prevista na alínea\nd) do artigo 9.º da Lei n.º 9/2005, de 3 de agosto, alterada pelas Leis n.os 12/2011, de 28 de setembro, e 2/2022, de 10 de fevereiro."
+   }
+  },
+  {
+   "id": "TL-H264-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III ORÇAMENTO  GERAL  DO  ESTADO / CAPÍTULO III LEI  DO  ORÇAMENTO  GERAL  DO  ESTADO"
+   },
+   "heading": {
+    "pt": "Publicação e divulgação"
+   },
+   "text": {
+    "pt": "1.  O Governo publica anualmente o relatório, os livros de desenvolvimento orçamental e os elementos informativos do OGE no prazo de 30 dias após a entrada em vigor da lei do OGE.\n2.  O Governo publica todos os documentos que se revelem necessários para assegurar a adequada divulgação e transparência do OGE e da sua execução, nomeadamente na página eletrónica do ministério com atribuições na área das finanças públicas ou noutras indicadas para o efeito.\n3.  O Governo divulga um documento simples informativo, tanto em língua portuguesa como em língua tétum, que apresente, de forma resumida e de fácil compreensão, os pontos essenciais do OGE com o objetivo de informar os cidadãos sobre o seu conteúdo.\n4.  O Governo publica, ainda, informação atualizada sobre a situação financeira e patrimonial dos fundos do Fundo de Reserva da Segurança Social geridos em capitalização, no prazo de 30 dias após a entrada em vigor da lei do OGE."
+   }
+  },
+  {
+   "id": "TL-H264-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III ORÇAMENTO  GERAL  DO  ESTADO / CAPÍTULO III LEI  DO  ORÇAMENTO  GERAL  DO  ESTADO"
+   },
+   "heading": {
+    "pt": "Vigência"
+   },
+   "text": {
+    "pt": "1.  A lei do OGE tem, em regra, a vigência de um ano, de 1 de janeiro de cada ano a 31 de dezembro do mesmo ano.\n2.   A lei do OGE para determinado ano produz sempre efeitos a 1 de janeiro desse ano, mesmo quando publicada após essa data.\n3.  Caso a 1 de janeiro a nova lei do OGE não se encontre publicada, a vigência da lei do OGE relativa ao ano anterior, com as alterações que tenham sido aprovadas, é automaticamente prorrogada até à entrada em vigor da nova lei do OGE.\n4.    A prorrogação da vigência da lei do OGE implica a execução nesse ano de um OGE equivalente ao OGE executado no ano anterior, ao qual se aplicam todas as regras relativas ao OGE aprovado para esse ano, com as devidas adaptações.\n5.  A prorrogação da vigência da lei do OGE abrange o articulado, as tabelas e as autorizações para a cobrança de impostos, taxas e contribuições, bem como as normas relativas à execução aprovadas em diploma próprio.\n6.   A prorrogação da vigência da lei do OGE abrange ainda a aprovação da transferência do Fundo Petrolífero na parte da transferência relativa ao Rendimento Sustentável Estimado, cujo montante corresponde ao valor fixado no ano anterior.\n7.   A aprovação da transferência do Fundo Petrolífero na parte superior ao Rendimento Sustentável Estimado observa os termos do artigo 9.º da Lei n.º 9/2005, de 3 de agosto, alterada pelas Leis n.os 12/2011, de 28 de setembro, e 2/ 2022, de 10 de fevereiro.\n8.  Caso o Parlamento Nacional não aprove a transferência referida no número anterior, as dotações dos serviços e entidades do Setor Público Administrativo constantes da lei do OGE prorrogada nos termos do n.º 3 são reduzidas proporcionalmente, com exceção das dotações:\na) Necessárias ao cumprimento das obrigações decorrentes de lei, direito internacional ou contrato conhecidas à data da prorrogação da vigência da lei do OGE para o ano orçamental anterior;\nb) Necessárias ao cumprimento das obrigações decorrentes de decisão judicial e à realização de pagamentos relacionados com custas judiciais e despesas processuais.\n9.  A prorrogação da vigência da lei do OGE não abrange o montante máximo anual de dívida pública de médio e longo prazo que o Estado pode contrair, fixado nos termos do\nartigo 59.º.\n10. Quaisquer valores e limites previstos na lei do OGE prorrogada podem ser executados na sua totalidade sem qualquer limitação decorrente da sua execução no ano orçamental anterior.\n11. As alterações à lei do OGE prorrogada só produzem efeitos em relação ao período da prorrogação.\n12. Sem prejuízo do disposto no n.º 4, o Governo pode aprovar, por decreto-lei, regras complementares de execução orçamental durante a prorrogação da vigência da lei do OGE."
+   }
+  },
+  {
+   "id": "TL-H264-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III ORÇAMENTO  GERAL  DO  ESTADO / CAPÍTULO III LEI  DO  ORÇAMENTO  GERAL  DO  ESTADO"
+   },
+   "heading": {
+    "pt": "Lei de alteração do OGE"
+   },
+   "text": {
+    "pt": "É aprovada por lei do Parlamento Nacional, designada por lei de alteração da lei do Orçamento Geral do Estado, qualquer alteração do OGE que não consista numa alteração orçamental da competência do Governo."
+   }
+  },
+  {
+   "id": "TL-H264-A37",
+   "no": 37,
+   "noLabel": {
+    "pt": "Artigo 37.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO I EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Normas de execução orçamental"
+   },
+   "text": {
+    "pt": "O Governo aprova por decreto-lei as regras relativas à execução da lei do OGE no prazo de 30 dias após a sua publicação."
+   }
+  },
+  {
+   "id": "TL-H264-A38",
+   "no": 38,
+   "noLabel": {
+    "pt": "Artigo 38.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO I EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Execução orçamental"
+   },
+   "text": {
+    "pt": "1.   A execução do OGE realiza-se, quanto à receita, designadamente pela:\na) Liquidação e cobrança de impostos;\nb) Liquidação e cobrança de taxas e contribuições, sanções pecuniárias e juros de mora previstos na lei;\nc) Realização de transferências do Fundo Petrolífero;\nd) Realização de transferências previstas no OGE;\ne) Liquidação e cobrança de receitas legalmente consignadas; f) Realização do produto dos rendimentos do património;\ng) Aceitação de empréstimos;\nh) Realização de aplicações financeiras e de quaisquer outros rendimentos de capital; (i) Integração de saldos de gerência da Segurança Social previstos na lei; j) Aceitação de doações, heranças e legados;\nk) Realização de outras operações legais ou contratuais de cobrança de receita.\n2.   A execução do OGE realiza-se, quanto à despesa, designadamente através da:\na) Libertação regular de créditos ou verbas;\nb) Realização de transferências de verbas pelo ministério com atribuições na área das finanças públicas, com base nas dotações orçamentais previstas no OGE;\nc) Aplicação dos créditos ou verbas referidas na alínea anterior, bem como das verbas cobradas pelos próprios serviços e entidades do Setor Público Administrativo, em despesa;\nd) Realização de outras operações legais ou contratuais de execução de despesa.\n3.  Uma dotação orçamental considera-se executada quando se realiza a saída de caixa de fundos da esfera do serviço ou entidade para a esfera do beneficiário da despesa."
+   }
+  },
+  {
+   "id": "TL-H264-A39",
+   "no": 39,
+   "noLabel": {
+    "pt": "Artigo 39.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO I EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Responsabilidade"
+   },
+   "text": {
+    "pt": "1.  São responsáveis pela execução do OGE, na parte respeitante às receitas, os serviços e entidades do Setor Público Administrativo que as liquidam e as cobram.\n2.   São responsáveis pela execução do OGE, na parte respeitante às despesas:\na) Os membros do Governo, quanto ao respetivo ministério;\nb) O membro do Governo responsável pela área das finanças públicas, quanto à Dotação Geral do Estado;\nc) O órgão de direção dos serviços sem autonomia financeira, sem prejuízo do poder de direção do respetivo membro do Governo;\nd) O órgão de direção dos serviços com autonomia financeira e dos serviços e fundos com autonomia financeira e receita própria, quanto aos respetivos serviços e entidades;\ne) O órgão de direção do INSS, quanto ao orçamento da Segurança Social; f) O Presidente da Autoridade da RAEOA, quanto ao orçamento da RAEOA;\ng) Os titulares de cargos de direção e chefia e os trabalhadores dos departamentos responsáveis pela gestão financeira dos serviços e entidades do Setor Público Administrativo, quanto aos respetivos serviços e entidades.\n3.  Os serviços com autonomia financeira e os serviços e fundos com autonomia financeira e receita própria integram obrigatoriamente departamentos responsáveis pela gestão financeira.\n4.   Os departamentos responsáveis pela gestão financeira dos ministérios e das secretarias de Estado não integradas em ministérios são responsáveis pela gestão financeira dos serviços do Setor Público Administrativo sem autonomia financeira do respetivo ministério ou secretaria de Estado.\n5.  Os membros do Governo asseguram a coordenação da execução orçamental do respetivo ministério ou secretaria de Estado não integrada em ministério e dos serviços do Setor Público Administrativo sem autonomia financeira no âmbito do respetivo ministério ou secretaria de Estado e acompanham a execução orçamental dos serviços e fundos com autonomia financeira e receita própria que integram a Administração indireta no âmbito do respetivo ministério ou secretaria de Estado.\n6.   Os responsáveis a que se referem os n.os 1 e 2, respondem, conforme os casos, política, financeira, civil, criminal e disciplinarmente pelos atos e omissões que pratiquem no âmbito do exercício das suas funções de execução orçamental, nos termos do disposto na Constituição, na presente lei e na demais legislação aplicável, que estabelecem os pressupostos e termos da responsabilidade política e civil e tipificam as infrações criminais e financeiras, bem como as respetivas sanções.\n7.   Sem prejuízo das formas próprias de efetivação das restantes modalidades de responsabilidade a que se referem os números anteriores, a responsabilidade financeira é efetivada pela Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas, nos termos dos artigos\n42.º a 55.º da Lei n.º 9/2011, de 17 de agosto, alterada pelas Leis n.os 3/2013, de 7 de agosto, 1/2017, de 18 de janeiro, 2/ 2022, de 10 fevereiro, e 21/2023, de 27 de dezembro, e demais legislação aplicável."
+   }
+  },
+  {
+   "id": "TL-H264-A40",
+   "no": 40,
+   "noLabel": {
+    "pt": "Artigo 40.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO I EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Libertação e transferência de créditos ou verbas"
+   },
+   "text": {
+    "pt": "1.   O ministério com atribuições na área das finanças públicas procede à libertação de créditos ou verbas do OGE para serem aplicados em despesa pelos serviços e entidades do Setor Público Administrativo.\n2.    A libertação de créditos é realizada através da permissão de utilização de créditos da conta do Tesouro pelo ministério, secretaria de Estado não integrada em ministério ou serviço sem autonomia financeira.\n3.   A libertação de verbas é realizada através da transferência das verbas para a conta bancária dos serviços e fundos com autonomia financeira e receitas próprias.\n4.  A libertação de verbas do OGE para a Presidência da República, o Parlamento Nacional e os Tribunais e respetivos serviços e entidades de apoio é feita por duodécimos com periodicidade semestral.\n5.   As transferências de verbas do OGE para o orçamento da Segurança Social e para o orçamento da RAEOA são feitas por duodécimos com periodicidade semestral.\n6.   A transferência de verbas do OGE para injeção de capital nas entidades do setor empresarial do Estado é feita após solicitação do membro do Governo da tutela ao ministério com atribuições na área das finanças públicas e deve ser acompanhada de um plano de rentabilização e metas de desempenho quantificáveis, não carecendo de formalização por via contratual.\n7.   O diploma que estabelece as regras relativas à execução do OGE define o procedimento e a regularidade da libertação de créditos ou verbas."
+   }
+  },
+  {
+   "id": "TL-H264-A41",
+   "no": 41,
+   "noLabel": {
+    "pt": "Artigo 41.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO I EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Reserva de Contingência"
+   },
+   "text": {
+    "pt": "1.   A Reserva de Contingência é uma dotação específica que visa fazer face a despesas urgentes e imprevistas.\n2.   A utilização da Reserva de Contingência depende da fundamentação da urgência e da imprevisibilidade da despesa em causa pelo serviço ou entidade que efetua o pedido.\n3.    A gestão da Reserva de Contingência e a respetiva utilização compete ao membro do Governo responsável pela área das finanças públicas, estando tal utilização sujeita a aprovação prévia pelo Primeiro-Ministro."
+   }
+  },
+  {
+   "id": "TL-H264-A42",
+   "no": 42,
+   "noLabel": {
+    "pt": "Artigo 42.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO I EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Registo de operações"
+   },
+   "text": {
+    "pt": "1.  Os serviços e entidades do Setor Público Administrativo registam todas as operações orçamentais e realizam e mantêm o registo físico e digital dessas operações por, pelo menos, 10 anos após a sua realização.\n2.   São, nomeadamente, registadas as seguintes operações:\na) A liquidação e a cobrança de receita;\nb) A autorização de despesa;\nc) A verificação da inscrição e cabimento orçamental;\nd) A assunção do compromisso;\ne) A liquidação da despesa; f) A autorização do pagamento; e\ng) A realização do pagamento."
+   }
+  },
+  {
+   "id": "TL-H264-A43",
+   "no": 43,
+   "noLabel": {
+    "pt": "Artigo 43.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO I EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Sistema contabilístico"
+   },
+   "text": {
+    "pt": "1.   O sistema contabilístico do Setor Público Administrativo estrutura a informação orçamental e financeira de modo a inscrever, classificar e registar os elementos das demonstrações orçamentais e das demonstrações financeiras.\n2.   Os serviços e entidades do Setor Público Administrativo organizam:\na) Uma contabilidade orçamental para as receitas e despesas, numa base de caixa, quando a entrada e a saída de caixa de verbas se efetiva;\nb) Uma contabilidade financeira para os ativos, passivos, rendimentos e gastos, operacionalizada numa base de acréscimo.\n3.   Os serviços e entidades do Setor Público Administrativo preparam demonstrações orçamentais e demonstrações financeiras, individuais e consolidadas, que proporcionem uma imagem verdadeira e apropriada da execução orçamental, da posição financeira, das alterações na posição financeira, do desempenho e dos fluxos de caixa.\n4.   A contabilidade orçamental segue a estrutura e classificações previstas na presente lei.\n5.  A contabilidade financeira segue o Plano de Contas do Setor Público Administrativo.\n6.  O sistema contabilístico do Setor Público Administrativo segue os padrões internacionais de contabilidade pública e é aprovado pelo Governo por decreto-lei."
+   }
+  },
+  {
+   "id": "TL-H264-A44",
+   "no": 44,
+   "noLabel": {
+    "pt": "Artigo 44.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO I EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Sistemas de informação orçamental e financeira"
+   },
+   "text": {
+    "pt": "1.  Os serviços e entidades do Setor Público Administrativo adotam sistemas de informação orçamental e financeira que permitam o registo de operações, a organização de contabilidade orçamental e financeira e o reporte de informação ao ministério com atribuições na área das finanças públicas.\n2.  Os sistemas de informação orçamental e financeira dos serviços e entidades do Setor Público Administrativo devem assegurar a compatibilidade com os sistemas de informação do ministério com atribuições na área das finanças públicas e com o sistema de informação de planeamento.\n3.  Para efeitos de cumprimento do previsto nos números anteriores, os sistemas de informação orçamental e financeira dos serviços e entidades do Setor Público Administrativo são aprovados pelo ministério com atribuições na área das finanças públicas."
+   }
+  },
+  {
+   "id": "TL-H264-A45",
+   "no": 45,
+   "noLabel": {
+    "pt": "Artigo 45.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO I EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Reporte e avaliação de desempenho"
+   },
+   "text": {
+    "pt": "1. O Governo disponibiliza informação atualizada sobre o desempenho dos programas orçamentais e da execução orçamental do Setor Público Administrativo em página de internet dedicada ao efeito.\n2.   O Governo envia, trimestralmente, o relatório de desempenho dos programas orçamentais e da execução orçamental acumulada do respetivo exercício ao Parlamento Nacional, até dois meses após o fim do trimestre, disponibilizando-o online.\n3.  O relatório trimestral referido no número anterior inclui, pelo menos:\na) Informação completa da sua execução orçamental, de onde constem os compromissos assumidos, os pagamentos autorizados e realizados, as receitas liquidadas e cobradas e a previsão atualizada da execução orçamental para todo o ano, acompanhada de um relatório;\nb) Caso titulem contas bancárias, informação completa sobre os saldos de depósitos ou de outras aplicações financeiras e respetivas remunerações, bem como informação fundamentada sobre o dinheiro em caixa, caso exista;\nc) Caso tenham capacidade de contrair empréstimos, informação completa sobre as operações de financiamento, incluindo empréstimos e amortizações efetuados, bem como as previstas até ao final de cada ano;\nd) Informação completa sobre os pagamentos em atraso.\n4.  O relatório de desempenho dos programas orçamentais emitido no fim do quarto trimestre, nos termos do número anterior, tem a designação de relatório anual sobre desempenho dos programas orçamentais.\n5. Sem prejuízo do disposto nos números anteriores, o ministério com atribuições na área das finanças públicas elabora e publica, até ao final do mês de agosto de cada ano, informação relativa à monitorização da execução orçamental e da situação macroeconómica relativas ao primeiro semestre do ano em causa, assinalando expressamente os eventuais desvios face aos objetivos e limites estabelecidos no OGE.\n6. O Governo regulamenta os procedimentos de reporte e avaliação de desempenho por decreto-lei."
+   }
+  },
+  {
+   "id": "TL-H264-A46",
+   "no": 46,
+   "noLabel": {
+    "pt": "Artigo 46.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO I EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Regime de execução orçamental durante a prorrogação da vigência da lei do OGE"
+   },
+   "text": {
+    "pt": "1.  Durante o período de prorrogação da vigência da lei do OGE, a realização da despesa obedece às regras estabelecidas nos números seguintes, bem como às regras estabelecidas na presente lei que não estejam em contradição com aquelas.\n2.   A realização da despesa durante o período de prorrogação da vigência da lei do OGE baseia-se em planos de despesa preparados pelos serviços e entidades do Setor Público Administrativo que assegurem o cumprimento de todos os pagamentos devidos durante o ano orçamental, tendo em conta as atividades previstas nos respetivos planos anuais.\n3.  As dotações orçamentais a serem executadas durante o período de prorrogação da vigência da lei do OGE são definidas com base nas dotações inscritas na lei do OGE prorrogada.\n4.   As dotações orçamentais são divididas em doze avos e cada duodécimo é utilizado para cobrir a despesa relativa a um mês.\n5.   A transferência do Fundo Petrolífero prevista nos termos da presente lei é realizada com a regularidade de um doze avos por mês.\n6.    As operações de receita e despesa executadas são imputadas às contas respeitantes ao respetivo ano orçamental e integram obrigatoriamente o OGE eventualmente aprovado para esse ano.\n7.  O regime duodecimal previsto no n.º 4 não se aplica às seguintes despesas, as quais são executadas conforme as necessidades:\na) Obrigações decorrentes de lei, direito internacional, contrato, incluindo contratos de trabalho, e decisão judicial conhecidas à data da prorrogação da vigência do OGE;\nb) Prestações sociais devidas a beneficiários do sistema de Segurança Social;\nc) Aplicações financeiras decorrentes de operações associadas à gestão da tesouraria do Estado, da Segurança Social e da RAEOA;\nd) Despesas realizadas pela Reserva de Contingência;\ne) Despesas com o fornecimento de água, saneamento, eletricidade, combustível e telecomunicações; f) Aquisição de medicamentos, material médico e serviços de saúde e despesas com prevenção e combate a epidemias e pandemias;\ng) Obras de reconstrução, reparação, limpeza e outras em resultado de desastres naturais e humanos.\n8.   O Governo aprova através de decreto do Governo as normas que disciplinam a aplicação do presente artigo."
+   }
+  },
+  {
+   "id": "TL-H264-A47",
+   "no": 47,
+   "noLabel": {
+    "pt": "Artigo 47.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO I EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Regime de execução orçamental antes da apreciação do"
+   },
+   "text": {
+    "pt": "programa do Governo ou após a sua rejeição Aplica-se o regime de execução orçamental previsto no artigo anterior ao período entre a nomeação do Governo e a apreciação do programa do Governo, bem como ao período entre a rejeição do programa do Governo e a nomeação de novo Governo."
+   }
+  },
+  {
+   "id": "TL-H264-A48",
+   "no": 48,
+   "noLabel": {
+    "pt": "Artigo 48.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO I EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Alterações orçamentais"
+   },
+   "text": {
+    "pt": "1.  São alterações orçamentais todos os atos de gestão de orçamento da competência do Governo que obriguem a transferências de verbas entre dotações orçamentais.\n2.  É permitida a realização de alterações orçamentais pelo Governo, nos termos e nos limites previstos, designadamente as seguintes:\na) Alterações que consistam na transferência de verbas entre títulos orçamentais, quando as mesmas tenham origem na “Dotação Geral do Estado”;\nb) Alterações que consistam no aumento da despesa total do orçamento da Segurança Social ou da despesa total do INSS, quando o mesmo resulte de: i      Integração do saldo de gerência de receitas próprias e da sua integração em despesa, nos termos previstos no n.º 3 do artigo 16.º; ii     Aumento do produto de receitas próprias, designadamente de contribuições sociais e rendimentos, e da sua aplicação em despesa, relacionada com transferências do INSS para o regime de capitalização do FRSS.\n3.   Sem prejuízo do disposto no artigo anterior, são proibidas alterações orçamentais com origem nas dotações de “salários e vencimentos”, rubrica de “salários e abonos regulares e permanentes”, e “capital de desenvolvimento” para outras categorias orçamentais.\n4.   As alterações previstas, com exceção das mencionadas no n.º 2, não podem exceder 20 % do valor da dotação orçamental a partir da qual o montante é transferido.\n5.   É vedada ao Governo a realização das seguintes alterações orçamentais:\na) O aumento da despesa total do OGE ou a sua redução, sempre que haja uma diminuição das receitas orçamentadas;\nb) O aumento ou redução da despesa total do orçamento da Administração Central;\nc) O aumento ou redução da despesa total do orçamento da Segurança Social, com exceção das referidas na alínea b) do n.º 2;\nd) O aumento da despesa total do orçamento da RAEOA ou a sua redução, sempre que haja uma diminuição das receitas orçamentadas;\ne) O aumento da despesa total de um título, com exceção do disposto no n.º 2; f) Na transferência de verbas entre títulos, sempre que estas verbas não tenham origem na “Dotação Geral do Estado”, nem na transferência de verbas do INSS para o FRSS;\ng) O acréscimo do montante máximo que o Estado e os demais serviços e entidades do Setor Público Administrativo podem contrair através de empréstimo, garantir e emprestar;\nh) Na modificação da redação articulada da lei do OGE.\n6.   O decreto-lei que estabelece as regras relativas à execução do OGE estabelece também os órgãos competentes para a aprovação das alterações orçamentais."
+   }
+  },
+  {
+   "id": "TL-H264-A49",
+   "no": 49,
+   "noLabel": {
+    "pt": "Artigo 49.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO I EXECUÇÃO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Publicitação e publicação das alterações"
+   },
+   "text": {
+    "pt": "As alterações orçamentais são comunicadas ao Parlamento Nacional por escrito e publicadas na página eletrónica do ministério com atribuições na área das finanças públicas até ao final do segundo mês seguinte a cada trimestre."
+   }
+  },
+  {
+   "id": "TL-H264-A50",
+   "no": 50,
+   "noLabel": {
+    "pt": "Artigo 50.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Unidade de tesouraria"
+   },
+   "text": {
+    "pt": "1.   Sem prejuízo do disposto nos números seguintes, a gestão da tesouraria do Setor Público Administrativo obedece ao princípio da unidade de tesouraria, que consiste na centralização e manutenção dos dinheiros públicos na tesouraria central do Estado, com o objetivo de assegurar as disponibilidades de caixa e equivalentes de caixa suficientes para liquidar as obrigações à medida que as mesmas se vão vencendo, maximizar o retorno da tesouraria disponível e permitir a gestão eficiente dos riscos financeiros.\n2.   Os serviços periféricos externos da Administração Central estão dispensados do cumprimento do princípio da unidade de tesouraria.\n3.   Os dinheiros públicos da RAEOA devem ser centralizados e mantidos em tesouraria própria da RAEOA, autónoma da tesouraria central do Estado.\n4.   O princípio da unidade de tesouraria aplica-se ao subsetor da Segurança Social através da centralização e manutenção dos dinheiros da Segurança Social em tesouraria própria, autónoma da tesouraria central do Estado."
+   }
+  },
+  {
+   "id": "TL-H264-A51",
+   "no": 51,
+   "noLabel": {
+    "pt": "Artigo 51.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Saldos orçamentais"
+   },
+   "text": {
+    "pt": "1.  O saldo global do OGE, dos orçamentos dos serviços e entidades da Administração Central, do orçamento da Segurança Social e do orçamento da RAEOA deve ser nulo ou positivo.\n2.  O saldo corrente do OGE, dos orçamentos dos serviços e entidades da Administração Central, do orçamento da Segurança Social e do orçamento da RAEOA deve ser nulo ou positivo.\n3.  O saldo efetivo do orçamento da Segurança Social deve ser nulo ou positivo.\n4.   O saldo global corresponde à diferença entre a receita e a despesa.\n5.  O saldo corrente corresponde à diferença entre a receita corrente e a despesa corrente.\n6.  O saldo efetivo corresponde à diferença entre a receita efetiva e a despesa efetiva, que inclui toda a receita e toda a despesa com exceção da respeitante aos ativos e passivos financeiros e aos saldos de gerência de anos anteriores."
+   }
+  },
+  {
+   "id": "TL-H264-A52",
+   "no": 52,
+   "noLabel": {
+    "pt": "Artigo 52.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Excedentes orçamentais"
+   },
+   "text": {
+    "pt": "1.  Os excedentes da execução do OGE, dos orçamentos dos serviços e entidades da Administração Central, do orçamento da Segurança Social e do orçamento da RAEOA, apurados no final do exercício orçamental, são qualificados como saldo de gerência do exercício orçamental anterior.\n2.  Os excedentes da execução do orçamento da Segurança Social revertem a favor do FRSS."
+   }
+  },
+  {
+   "id": "TL-H264-A53",
+   "no": 53,
+   "noLabel": {
+    "pt": "Artigo 53.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Dívida pública"
+   },
+   "text": {
+    "pt": "1.   A dívida do Setor Público Administrativo deve respeitar um limiar de sustentabilidade que não coloque em causa a sua solvabilidade de médio e longo prazos nem a sua capacidade de cumprir os compromissos assumidos.\n2.   O montante total da dívida do Setor Público Administrativo engloba os empréstimos, os contratos de locação financeira e quaisquer outras formas de endividamento junto de instituições financeiras ou terceiros, nos termos da presente lei e em conformidade com a legislação sobre dívida pública.\n3.   No OGE são inscritas obrigatoriamente as dotações necessárias à amortização e ao pagamento dos juros da dívida pública, as quais não podem ser objeto de alteração que as desajuste ao montante dos compromissos que se vençam nesse ano orçamental.\n4.  A realização da despesa com o pagamento dos juros e a amortização da dívida pública tem prioridade sobre a realização de qualquer outra despesa."
+   }
+  },
+  {
+   "id": "TL-H264-A54",
+   "no": 54,
+   "noLabel": {
+    "pt": "Artigo 54.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Segregação de funções"
+   },
+   "text": {
+    "pt": "1.  As operações de execução das receitas e das despesas obedecem ao princípio da segregação das funções de liquidação e cobrança, quanto às primeiras, e de autorização e realização do pagamento, quanto às segundas.\n2.   A segregação de funções a que se refere o número anterior pode estabelecer-se entre diferentes serviços e entidades, bem como entre diferentes trabalhadores do mesmo serviço e entidade.\nSecção II\nReceita"
+   }
+  },
+  {
+   "id": "TL-H264-A55",
+   "no": 55,
+   "noLabel": {
+    "pt": "Artigo 55.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Cobrança da receita"
+   },
+   "text": {
+    "pt": "1.   Nenhuma receita pode ser liquidada ou cobrada sem que seja legal.\n2.  Toda a receita é objeto de correta inscrição orçamental prévia ou posteriormente à sua cobrança.\n3.   A liquidação e a cobrança de receita podem ser efetuadas para além dos valores previstos na respetiva inscrição orçamental.\n4.   As regras relativas à execução da receita são aprovadas pelo Governo."
+   }
+  },
+  {
+   "id": "TL-H264-A56",
+   "no": 56,
+   "noLabel": {
+    "pt": "Artigo 56.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Receitas gerais"
+   },
+   "text": {
+    "pt": "1.   São gerais as receitas que decorram de:\na) Transferências do orçamento da Administração Central;\nb) Impostos, exceto se o contrário resultar da lei;\nc) Taxas, exceto se o contrário resultar da lei;\nd) Empréstimos contraídos pelo Estado;\ne) Rendimentos de património do Estado, de empréstimos e de aplicações financeiras detidas pelo Estado e quaisquer outros rendimentos de capital do Estado e o produto da sua alienação ou oneração; f) Transferências provenientes de Estados e organismos estrangeiros, exceto se o contrário for acordado com estes;\ng) Saldo de gerência de receitas gerais do exercício orçamental anterior.\n2.   São ainda gerais quaisquer outras receitas assim qualificadas por lei ou não expressamente qualificadas como receitas próprias."
+   }
+  },
+  {
+   "id": "TL-H264-A57",
+   "no": 57,
+   "noLabel": {
+    "pt": "Artigo 57.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Receitas próprias"
+   },
+   "text": {
+    "pt": "1.  São próprias as receitas que decorram de cobranças resultantes da atividade específica do serviço ou entidade e do seu património e que sejam expressamente qualificadas como receitas próprias, nos termos da respetiva regulamentação.\n2.   São consideradas receitas próprias, entre outras:\na) Taxas liquidadas e ou cobradas pelo serviço ou entidade e assim qualificadas por ato legislativo;\nb) Tarifas cobradas pelo serviço ou entidade e assim qualificadas por ato legislativo;\nc) Rendimentos de património próprio, de empréstimos e de aplicações financeiras detidas pelo serviço ou entidade e quaisquer outros rendimentos de capital do serviço ou entidade, bem como o produto da sua alienação ou oneração;\nd) Transferências provenientes de Estados ou organismos estrangeiros, se assim acordado com estes;\ne) Doações, heranças e legados de particulares que, por vontade destes, devam ser considerados receitas próprias de determinado serviço ou entidade; f) Saldos de gerência de receitas próprias.\n3.  São próprias as receitas que decorram das contribuições sociais, sanções pecuniárias e juros de mora cobrados pelo INSS.\n4.  São próprias as receitas que decorram de taxas, sanções pecuniárias e juros de mora cobrados pela RAEOA.\n5.   São ainda próprias as receitas que decorram de transferências do subsetor da Administração Central para o subsetor da Segurança Social e para o subsetor da RAEOA.\n6.   As receitas próprias devem ser usadas na cobertura das despesas do próprio serviço, entidade ou subsetor e devem ser esgotadas antes da utilização das verbas com origem em transferências do Tesouro.\n7.   A aplicação de receitas prevista no número anterior não se aplica ao subsetor da Segurança Social."
+   }
+  },
+  {
+   "id": "TL-H264-A58",
+   "no": 58,
+   "noLabel": {
+    "pt": "Artigo 58.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Saldo de gerência"
+   },
+   "text": {
+    "pt": "1.  O saldo de gerência de receitas gerais do exercício orçamental anterior é devolvido ao Tesouro e registado como receita geral do exercício orçamental seguinte.\n2.  O saldo de gerência apurado que não esteja inscrito no OGE deve ser inscrito como receita cobrada para além dos valores previstos na respetiva inscrição orçamental.\n3.  O saldo de gerência de receita consignada aos serviços com autonomia financeira e o saldo de gerência de receita própria dos serviços e fundos com autonomia financeira e receita própria transitam para o exercício orçamental seguinte, mediante inscrição no OGE."
+   }
+  },
+  {
+   "id": "TL-H264-A59",
+   "no": 59,
+   "noLabel": {
+    "pt": "Artigo 59.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Contração de dívida pública"
+   },
+   "text": {
+    "pt": "1.  Sempre que o Estado tenha necessidade de obter receita para fazer face aos compromissos e despesas a assumir, pode contrair dívida pública, nos termos da presente lei e em conformidade com a legislação sobre dívida pública.\n2.   O OGE estabelece, para cada período orçamental, o montante máximo de dívida pública de médio e longo prazo que o Estado, incluindo a Administração Central, a Segurança Social e a RAEOA, pode contrair, assim como o prazo máximo desses empréstimos.\n3.  Para efeitos do número anterior, entende-se por dívida pública de médio e longo prazo a dívida contraída para ser totalmente amortizada nos exercícios orçamentais subsequentes ao exercício no qual foi gerada.\n4.   A autorização para a contração de dívida pública de médio e longo prazo compete:\na) Ao Conselho de Ministros, após parecer do membro do Governo responsável pela área das finanças públicas, no caso de dívida pública que beneficie a Administração Central;\nb) Ao órgão de direção do INSS, sem prejuízo das competências legalmente cometidas ao FRSS, após parecer vinculativo do membro do Governo responsável pela área das finanças públicas, no caso de dívida pública que beneficie a Segurança Social;\nc) Ao Presidente da Autoridade da RAEOA, após parecer vinculativo do membro do Governo responsável pela área das finanças públicas, no caso de dívida pública que beneficie a RAEOA.\n5.  Independentemente de previsão na lei do OGE, podem os serviços e entidades que compõem os subsetores da Administração Central, da Segurança Social e da RAEOA, representados pelo respetivo órgão de direção ou dirigente máximo, consoante o caso, contrair dívida de curto prazo, entendida como dívida contraída para ser totalmente amortizada até ao termo do exercício orçamental em que tenha sido gerada.\nSecção III\nTesouraria"
+   }
+  },
+  {
+   "id": "TL-H264-A60",
+   "no": 60,
+   "noLabel": {
+    "pt": "Artigo 60.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Dinheiros públicos"
+   },
+   "text": {
+    "pt": "1.   São dinheiros públicos todas as disponibilidades de caixa ou equivalentes de caixa, seja sob que forma for, que sejam propriedade ou estejam na posse dos serviços e entidades do Setor Público Administrativo.\n2.   Os dinheiros propriedade ou na posse dos serviços e entidades do subsetor da RAEOA são denominados dinheiros públicos da RAEOA e seguem regime próprio.\n3.  Os dinheiros propriedade ou na posse dos serviços e entidades do subsetor da Segurança Social são denominados dinheiros da Segurança Social e seguem regime próprio.\n4.  Ninguém pode guardar ou manter na sua posse dinheiros públicos, dinheiros públicos da RAEOA e dinheiros da Segurança Social, salvo nos termos da lei.\n5.  Ninguém pode fazer mau uso de dinheiros públicos, de dinheiros públicos da RAEOA e de dinheiros da Segurança Social e dispor ou usá-los de maneira imprópria, ilegítima ou ilegal."
+   }
+  },
+  {
+   "id": "TL-H264-A61",
+   "no": 61,
+   "noLabel": {
+    "pt": "Artigo 61.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Tesouraria central do Estado"
+   },
+   "text": {
+    "pt": "1.   Os serviços e entidades do Setor Público Administrativo são obrigados a centralizar e manter a totalidade das suas disponibilidades e aplicações financeiras, seja qual for a origem ou natureza das mesmas, incluindo as receitas próprias, junto da tesouraria central do Estado e a efetuar todas as movimentações de fundos através desta.\n2.   Os serviços e entidades do Setor Público Administrativo que cobrem dinheiros públicos integram a rede de cobranças da tesouraria central do Estado, de forma a permitir o recebimento, contabilização, controlo e depósito imediato das receitas que liquidam e cobram.\n3.  A tesouraria central do Estado deposita os dinheiros públicos em contas bancárias tituladas pelo ministério com atribuições na área das finanças públicas ou conjuntamente por este e pelos serviços e entidades do Setor Público Administrativo, preferencialmente junto do BCTL, podendo optar pelo depósito em bancos comerciais caso pretenda beneficiar de serviços não disponibilizados pelo BCTL.\n4.  A tesouraria central do Estado assegura a existência de fundos suficientes para cumprir atempadamente os compromissos assumidos pelos serviços e entidades do Setor Público Administrativo e maximiza o rendimento dos dinheiros na sua posse.\n5.  Para efeitos do número anterior, a tesouraria central do Estado elabora um plano de tesouraria que preveja as necessidades de financiamento dos serviços e entidades do Setor Público Administrativo ao longo do ano orçamental.\n6.  Compete à tesouraria central do Estado o investimento temporário de dinheiros públicos em instrumentos financeiros de curto prazo, de risco reduzido e com liquidez, com o objetivo de assegurar uma gestão eficaz dos excedentes de tesouraria."
+   }
+  },
+  {
+   "id": "TL-H264-A62",
+   "no": 62,
+   "noLabel": {
+    "pt": "Artigo 62.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Tesouraria da Região Administrativa Especial de Oe-Cusse Ambeno"
+   },
+   "text": {
+    "pt": "1.   A tesouraria da RAEOA é gerida pela RAEOA e deposita os dinheiros públicos da RAEOA em contas bancárias tituladas pela RAEOA, preferencialmente junto do BCTL, podendo optar pelo depósito em bancos comerciais caso pretenda beneficiar de serviços não disponibilizados pelo BCTL.\n2.  A tesouraria da RAEOA assegura a existência de fundos suficientes para cumprir atempadamente os compromissos assumidos pelo subsetor da RAEOA, bem como maximiza o rendimento dos dinheiros na sua posse.\n3.   Para efeitos do número anterior, a tesouraria da RAEOA elabora um plano de tesouraria que preveja as necessidades de financiamento do subsetor da RAEOA ao longo do ano orçamental.\n4.    Compete à tesouraria da RAEOA o investimento temporário de dinheiros públicos da RAEOA em instrumentos financeiros de curto prazo, de risco reduzido e com liquidez, com o objetivo de assegurar uma gestão eficaz dos excedentes de tesouraria."
+   }
+  },
+  {
+   "id": "TL-H264-A63",
+   "no": 63,
+   "noLabel": {
+    "pt": "Artigo 63.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Tesouraria da Segurança Social"
+   },
+   "text": {
+    "pt": "1.  A tesouraria da Segurança Social é gerida pelo INSS e deposita os dinheiros da Segurança Social em contas bancárias tituladas pelo INSS, junto do BCTL ou em bancos comerciais, consoante as necessidades e atendendo aos custos respetivos.\n2.   A tesouraria da Segurança Social assegura a existência de fundos suficientes para cumprir atempadamente os compromissos assumidos pelo subsetor da Segurança Social, bem como maximiza o rendimento dos dinheiros na sua posse.\n3.   Para efeitos do número anterior, a tesouraria da Segurança Social elabora um plano de tesouraria que preveja as necessidades de financiamento do subsetor da Segurança Social ao longo do ano orçamental.\n4.  Compete à tesouraria da Segurança Social o investimento temporário de dinheiros da Segurança Social em instrumentos financeiros de curto prazo, de risco reduzido e com liquidez, com o objetivo de assegurar uma gestão eficaz dos excedentes de tesouraria.\n5.   As disponibilidades financeiras de curto prazo geridas no âmbito do FRSS não estão sujeitas ao regime de tesouraria única.\nSecção IV\nDespesa"
+   }
+  },
+  {
+   "id": "TL-H264-A64",
+   "no": 64,
+   "noLabel": {
+    "pt": "Artigo 64.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Realização de despesa"
+   },
+   "text": {
+    "pt": "1.  Nenhuma despesa pode ser realizada sem que seja legal e tenha por base lei, instrumento de direito internacional, contrato ou decisão judicial.\n2.  Toda a despesa é objeto de correta inscrição orçamental previamente à sua realização.\n3.  A realização de despesa observa as seguintes etapas sucessivas e obrigatórias:\na) A autorização de despesa;\nb) A verificação da inscrição e cabimento orçamental;\nc) A assunção do compromisso;\nd) A liquidação da despesa;\ne) A autorização do pagamento; e f) A realização do pagamento.\n4.   As regras aplicáveis às etapas de realização de despesa são aprovadas pelo Governo."
+   }
+  },
+  {
+   "id": "TL-H264-A65",
+   "no": 65,
+   "noLabel": {
+    "pt": "Artigo 65.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Autorização da despesa"
+   },
+   "text": {
+    "pt": "1.  Nenhum compromisso pode ser assumido sem que a respetiva despesa tenha sido previamente autorizada através dos serviços e entidades do Setor Público Administrativo competentes nos termos da lei.\n2.    A autorização de uma despesa plurianual deve ainda verificar que o montante da despesa a realizar em cada um dos anos orçamentais seguintes não é desproporcional em relação ao valor da dotação orçamental respetiva no próprio ano orçamental, sem prejuízo da sua fundamentação."
+   }
+  },
+  {
+   "id": "TL-H264-A66",
+   "no": 66,
+   "noLabel": {
+    "pt": "Artigo 66.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Verificação da inscrição e cabimento orçamentais"
+   },
+   "text": {
+    "pt": "1.    A verificação da inscrição orçamental consiste em apurar se existe uma dotação orçamental no orçamento do serviço ou entidade no programa respetivo e com a classificação económica equivalente ao tipo de despesa a realizar.\n2.    A verificação do cabimento orçamental consiste em apurar se o montante de determinada despesa é igual ou inferior ao valor não utilizado da dotação orçamental respetiva e, se tal for o caso, deduzir do saldo da dotação orçamental respetiva o valor equivalente à despesa a realizar.\n3.   Caso se trate de uma despesa plurianual, o cabimento orçamental tem em conta somente o montante da despesa a realizar no próprio ano orçamental."
+   }
+  },
+  {
+   "id": "TL-H264-A67",
+   "no": 67,
+   "noLabel": {
+    "pt": "Artigo 67.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Assunção de compromissos"
+   },
+   "text": {
+    "pt": "1.   Nenhum pagamento pode ser autorizado sem que o respetivo compromisso tenha sido previamente assumido nos termos da lei.\n2.   Entende-se por compromisso a obrigação de efetuar um ou mais pagamentos a terceiros em contrapartida da execução de trabalho ou fornecimento de bens ou prestação de serviços ou em cumprimento de obrigação decorrente de lei, contrato, direito internacional ou decisão judicial.\n3.   Os serviços e entidades do Setor Público Administrativo podem assumir compromissos anuais, que são compromissos que consistem na obrigação de efetuar pagamentos somente no ano orçamental em que o compromisso é assumido, e compromissos plurianuais, que são compromissos que consistem na obrigação de efetuar pagamentos em mais do que um ano orçamental ou em ano orçamental distinto do ano em que o compromisso é assumido.\n4.   A despesa relativa a compromisso plurianual a realizar em ano orçamental distinto do ano em que o compromisso é assumido é obrigatoriamente inscrita no OGE desse outro ano orçamental nos termos do previsto no n.º 2 do artigo\n19.º."
+   }
+  },
+  {
+   "id": "TL-H264-A68",
+   "no": 68,
+   "noLabel": {
+    "pt": "Artigo 68.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Liquidação da despesa"
+   },
+   "text": {
+    "pt": "A liquidação da despesa consiste na determinação da obrigação e prazo de pagamento, na identificação do beneficiário, na verificação do direito do beneficiário e, quando aplicável, da capacidade e legitimidade do representante e na determinação do montante exato do pagamento que deve ser realizado, bem como no registo contabilístico da obrigação."
+   }
+  },
+  {
+   "id": "TL-H264-A69",
+   "no": 69,
+   "noLabel": {
+    "pt": "Artigo 69.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Autorização do pagamento"
+   },
+   "text": {
+    "pt": "Nenhum pagamento pode ser realizado sem que se tenham verificado todas as etapas anteriores e que o mesmo tenha sido previamente autorizado pelos serviços e entidades do Setor Público Administrativo competentes nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H264-A70",
+   "no": 70,
+   "noLabel": {
+    "pt": "Artigo 70.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Realização do pagamento"
+   },
+   "text": {
+    "pt": "Após o cumprimento das etapas anteriores, processa-se a realização do pagamento, que é efetivada pelo exfluxo de fundos e a sua entrega ao beneficiário ou seu representante."
+   }
+  },
+  {
+   "id": "TL-H264-A71",
+   "no": 71,
+   "noLabel": {
+    "pt": "Artigo 71.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Despesa de ano anterior"
+   },
+   "text": {
+    "pt": "1.  Os encargos relativos a despesas autorizadas e a compromissos assumidos em anos anteriores cujo pagamento ainda não se tenha realizado são satisfeitos por verbas do OGE que estiver em vigor quando for realizado o pagamento.\n2.   O disposto no número anterior não prejudica a possibilidade de, até 31 de janeiro do ano seguinte, se concluírem os pagamentos autorizados e registados até 31 de dezembro."
+   }
+  },
+  {
+   "id": "TL-H264-A72",
+   "no": 72,
+   "noLabel": {
+    "pt": "Artigo 72.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Despesas com remunerações"
+   },
+   "text": {
+    "pt": "1.  O ministério com atribuições na área das finanças públicas é competente para efetuar o pagamento das remunerações, bem como dos impostos, das contribuições sociais da responsabilidade da entidade empregadora e do trabalhador e de outras contribuições e retenções associadas, relativamente aos titulares de cargos políticos, de órgãos sociais e de cargos de direção e chefia e aos trabalhadores dos serviços e entidades do Setor Público Administrativo, após autorização do respetivo órgão de direção e com base nas dotações inscritas nos respetivos orçamentos.\n2.  As verbas para despesas com remunerações, bem como dos impostos, das contribuições sociais da responsabilidade da entidade empregadora e do trabalhador e de outras contribuições e retenções associadas, são inscritas em dotações próprias no orçamento do respetivo serviço ou entidade do Setor Público Administrativo, sendo as verbas dos ministérios, das secretarias de Estado não integradas em ministérios e dos serviços sem autonomia financeira inscritas no capítulo relativo ao departamento responsável pela gestão financeira do ministério ou secretaria de Estado.\n3.  O órgão com competências executivas do INSS é competente para efetuar o pagamento das remunerações, bem como dos impostos, das contribuições sociais da responsabilidade da entidade empregadora e do trabalhador e de outras contribuições e retenções associadas, relativamente aos titulares de órgãos sociais e cargos de direção e chefia e aos trabalhadores dos serviços e entidades do subsetor da Segurança Social com base nas dotações inscritas no orçamento da Segurança Social.\n4.  O órgão com competências executivas da RAEOA é competente para efetuar o pagamento das remunerações, bem como dos impostos, das contribuições sociais da responsabilidade da entidade empregadora e do trabalhador e de outras contribuições e retenções associadas, relativamente a titulares de órgãos sociais e cargos de direção e chefia e aos trabalhadores dos serviços e entidades do subsetor da RAEOA com base nas dotações inscritas no orçamento da RAEOA.\n5.   O atraso no pagamento da remuneração não desobriga os trabalhadores do cumprimento integral dos seus deveres legais e contratuais.\nSecção V\nOutras operações de gestão financeira"
+   }
+  },
+  {
+   "id": "TL-H264-A73",
+   "no": 73,
+   "noLabel": {
+    "pt": "Artigo 73.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Concessão de garantias e empréstimos"
+   },
+   "text": {
+    "pt": "1.   O Estado pode, excecionalmente e por razões de interesse público, conceder, fundamentadamente, a pessoas coletivas garantias e empréstimos, com respeito pelo limite máximo fixado no OGE e mediante aprovação prévia do Conselho de Ministros.\n2.   Os requisitos para a concessão de garantias e empréstimos pelo Estado e o respetivo procedimento são regulados por lei."
+   }
+  },
+  {
+   "id": "TL-H264-A74",
+   "no": 74,
+   "noLabel": {
+    "pt": "Artigo 74.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Restituição"
+   },
+   "text": {
+    "pt": "1.   A receita cobrada pelos serviços e entidades do Setor Público Administrativo sem que exista o direito a tal cobrança deve ser restituída.\n2.  A restituição é liquidada e paga de acordo com as regras aplicáveis à realização das demais despesas públicas, com as devidas adaptações.\n3.   Podem ser previstos na lei regimes especiais de restituição, incluindo quanto às receitas de impostos e taxas e às receitas aduaneiras.\n4.  O direito à restituição prescreve no prazo de três anos a contar da data da cobrança da quantia a restituir, salvo se for legalmente aplicável outro prazo mais curto.\n5.   O decurso do prazo a que se refere o número anterior interrompe-se ou suspende-se nos termos gerais de interrupção ou suspensão da prescrição."
+   }
+  },
+  {
+   "id": "TL-H264-A75",
+   "no": 75,
+   "noLabel": {
+    "pt": "Artigo 75.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Reposição"
+   },
+   "text": {
+    "pt": "1.   A reposição de quantias que tenham sido indevidamente pagas pelos serviços e entidades do Setor Público Administrativo é realizada por devolução ou compensação, podendo ainda ser estornada da conta bancária do beneficiário ou seu representante onde foi depositada quando ocorra pagamento referente a período após a morte do beneficiário.\n2.   As quantias que tenham sido indevidamente pagas a trabalhadores dos serviços e entidades do Setor Público Administrativo devem, se possível, ser compensadas em futuros pagamentos de idêntica natureza.\n3.   Em casos excecionais devidamente fundamentados, em que o pagamento imediato implique um esforço desproporcional para o devedor contrário aos princípios da boafé e da proporcionalidade, o membro do Governo responsável pela área das finanças públicas pode autorizar o pagamento em prestações ou determinar a relevação, total ou parcial, da reposição das quantias pagas.\n4.   A reposição de quantias que tenham sido indevidamente pagas pela Segurança Social é realizada por pagamento ou compensação, podendo ainda ser estornada da conta bancária do beneficiário ou seu representante onde foi depositada quando ocorra pagamento referente a período após a morte do beneficiário.\n5.   Em casos excecionais devidamente fundamentados, em que o pagamento imediato implique um esforço desproporcional para o devedor contrário aos princípios da boa-fé e da proporcionalidade, o membro do Governo responsável pela área da segurança social pode autorizar o pagamento em prestações ou determinar a relevação, total ou parcial, da reposição das quantias pagas.\n6.   A reposição de quantias que tenham sido indevidamente pagas pela RAEOA é realizada por pagamento ou compensação, podendo ainda ser estornada da conta bancária do beneficiário ou seu representante onde foi depositada quando ocorra pagamento referente a período após a morte do beneficiário.\n7.   Em casos excecionais devidamente fundamentados, em que o pagamento ou o pagamento imediato implique um esforço desproporcional para o devedor contrário aos princípios da boa-fé e da proporcionalidade, o Presidente da Autoridade da RAEOA pode autorizar o pagamento em prestaçoÞes ou determinar a relevação, total ou parcial, da reposição das quantias pagas.\n8.  O direito à reposição prescreve no prazo de 10 anos a contar da data do pagamento da quantia a repor, salvo se for legalmente aplicável outro prazo mais curto.\n9.  O decurso do prazo a que se refere o número anterior interrompe-se ou suspende-se nos termos gerais de interrupção ou suspensão da prescrição.\n10. O Governo pode, por diploma próprio, regulamentar o disposto no presente artigo."
+   }
+  },
+  {
+   "id": "TL-H264-A76",
+   "no": 76,
+   "noLabel": {
+    "pt": "Artigo 76.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV EXECUÇÃO  ORÇAMENTAL  E  GESTÃO  FINANCEIRA PÚBLICA / CAPÍTULO II GESTÃO  FINANCEIRA  PÚBLICA Secção I Regras gerais"
+   },
+   "heading": {
+    "pt": "Modificação e extinção de créditos"
+   },
+   "text": {
+    "pt": "1.   O membro do Governo responsável pela área das finanças públicas pode autorizar a modificação de um crédito de um serviço ou entidade do Setor Público Administrativo, por transação, no âmbito de:\na) Processo judicial de cobrança de dívida;\nb) Processo judicial de insolvência, não podendo a modificação do crédito ser proporcionalmente superior à dos créditos dos restantes credores, se existirem.\n2.   O membro do Governo responsável pela área das finanças públicas pode autorizar a modificação e extinção de um crédito de um serviço ou entidade do Setor Público Administrativo:\na) Por compensação;\nb) Por confusão."
+   }
+  },
+  {
+   "id": "TL-H264-A77",
+   "no": 77,
+   "noLabel": {
+    "pt": "Artigo 77.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V CONTA  GERAL  DO  ESTADO"
+   },
+   "heading": {
+    "pt": "Natureza e conteúdo"
+   },
+   "text": {
+    "pt": "1.  A CGE é um documento de natureza contabilística que apresenta anualmente todas as receitas cobradas e todas as despesas executadas pelos serviços e entidades do Setor Público Administrativo durante o ano orçamental.\n2.  A CGE integra as contas dos serviços sem autonomia financeira, dos serviços com autonomia financeira e dos serviços e fundos com autonomia financeira e receita própria, apresentando de forma autónoma a conta do subsetor da Segurança Social e a conta do subsetor da RAEOA."
+   }
+  },
+  {
+   "id": "TL-H264-A78",
+   "no": 78,
+   "noLabel": {
+    "pt": "Artigo 78.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V CONTA  GERAL  DO  ESTADO"
+   },
+   "heading": {
+    "pt": "Estrutura"
+   },
+   "text": {
+    "pt": "1.   A CGE é composta pelo relatório e pelas tabelas e é acompanhada pelos elementos informativos.\n2.   O relatório da CGE contém a apresentação e a análise dos principais elementos relativos:\na) À evolução dos principais indicadores macroeconómicos durante o período da execução orçamental;\nb) À evolução da situação financeira do Setor Público Administrativo e dos subsetores que o compõem;\nc) À execução e alterações do OGE;\nd) A outras matérias relevantes para a apresentação e fundamentação da CGE."
+   }
+  },
+  {
+   "id": "TL-H264-A79",
+   "no": 79,
+   "noLabel": {
+    "pt": "Artigo 79.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V CONTA  GERAL  DO  ESTADO"
+   },
+   "heading": {
+    "pt": "Elementos informativos"
+   },
+   "text": {
+    "pt": "A CGE é acompanhada pelos seguintes elementos informativos:\na)  Demonstração orçamental e demonstração financeira consolidadas do Setor Público Administrativo;\nb)   Demonstrações orçamentais e demonstrações financeiras dos serviços e entidades do Setor Público Administrativo;\nc)   Demonstrações financeiras do Fundo Petrolífero;\nd)   Demonstrações financeiras do FRSS, relativas ao regime de capitalização do sistema de segurança social, que obrigatoriamente são apresentadas em anexo à conta do subsetor da Segurança Social;\ne)  Situação financeira e patrimonial do Estado e dos serviços e entidades do Setor Público Administrativo;\nf)   Situação das operações de tesouraria e contas do Tesouro e dos serviços e entidades do Setor Público Administrativo;\ng)   Alterações orçamentais, incluindo por utilização da Reserva de Contingência;\nh)  Situação do endividamento global do Estado, com informação individualizada por setor, empresa pública e parceria público-privada;\n(i)   Situação da dívida pública e das operações de tesouraria, com identificação dos empréstimos contraídos, das condições específicas e dos pagamentos relativos a juros e amortizações realizados por conta de cada empréstimo;\nj)   Informação individualizada sobre despesas com parcerias público-privadas;\nk)   Informação individualizada sobre créditos e garantias concedidas pelo Estado;\nl)    Situação financeira e patrimonial das empresas, fundações e associações públicas ou com participação do Estado;\nm)  Número de trabalhadores do Setor Público Administrativo por serviço e entidade e por natureza do vínculo;\nn)  Montante global das transferências e dos subsídios para entidades exteriores ao Setor Público Administrativo;\no)  Informação detalhada de todos os beneficiários de subvenções públicas e dos montantes recebidos;\np)  Créditos satisfeitos por dação em cumprimento ou por compensação, objeto de consolidação, alienação, conversão em capital ou qualquer outra forma de mobilização, extintos por confusão ou prescrição e anulados por força de decisão judicial ou por qualquer outra razão."
+   }
+  },
+  {
+   "id": "TL-H264-A80",
+   "no": 80,
+   "noLabel": {
+    "pt": "Artigo 80.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V CONTA  GERAL  DO  ESTADO"
+   },
+   "heading": {
+    "pt": "Preparação"
+   },
+   "text": {
+    "pt": "1.   Os serviços e entidades da Administração Central submetem, no prazo de cinco meses a contar do termo do ano orçamental, os respetivos documentos de prestação de contas ao membro do Governo responsável pela área das finanças públicas.\n2.   O Conselho de Administração do INSS submete a conta do subsetor da Segurança Social e os respetivos documentos de prestação de contas ao membro do Governo responsável pela área da segurança social para aprovação, o qual os remete ao membro do Governo responsável pela área das finanças públicas, no prazo de cinco meses a contar do termo do ano orçamental.\n3.   A  Autoridade da RAEOA submete a conta do subsetor da RAEOA e os respetivos documentos de prestação de contas ao membro do Governo da tutela para aprovação, o qual os remete ao membro do Governo responsável pela área das finanças públicas, no prazo de cinco meses a contar do termo do ano orçamental."
+   }
+  },
+  {
+   "id": "TL-H264-A81",
+   "no": 81,
+   "noLabel": {
+    "pt": "Artigo 81.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V CONTA  GERAL  DO  ESTADO"
+   },
+   "heading": {
+    "pt": "Apresentação"
+   },
+   "text": {
+    "pt": "1.  O Governo apresenta a CGE ao Parlamento Nacional, para aprovação, e à Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas, para emissão de parecer, no prazo de seis meses a contar do termo do ano orçamental.\n2.   A Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas remete ao Parlamento Nacional e ao Governo o seu parecer sobre a CGE, no prazo de seis meses a contar da sua receção."
+   }
+  },
+  {
+   "id": "TL-H264-A82",
+   "no": 82,
+   "noLabel": {
+    "pt": "Artigo 82.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V CONTA  GERAL  DO  ESTADO"
+   },
+   "heading": {
+    "pt": "Apreciação e aprovação"
+   },
+   "text": {
+    "pt": "O Parlamento Nacional aprecia a CGE, com vista à sua eventual aprovação, no prazo de um mês a contar da receção do parecer da Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas, referido no n.º 2 do artigo anterior, e determina, se a isso houver lugar, a efetivação de responsabilidades nos termos legais."
+   }
+  },
+  {
+   "id": "TL-H264-A83",
+   "no": 83,
+   "noLabel": {
+    "pt": "Artigo 83.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO V CONTA  GERAL  DO  ESTADO"
+   },
+   "heading": {
+    "pt": "Publicação e divulgação"
+   },
+   "text": {
+    "pt": "1.  Depois de aprovada, a CGE é publicada no Jornal da República, juntamente com o parecer da Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas.\n2.   O Governo assegura a divulgação anual do conteúdo integral da CGE no prazo de 30 dias após a sua aprovação."
+   }
+  },
+  {
+   "id": "TL-H264-A84",
+   "no": 84,
+   "noLabel": {
+    "pt": "Artigo 84.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI CONTROLO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Controlo da execução orçamental"
+   },
+   "text": {
+    "pt": "1.    A execução do OGE está sujeita a controlo administrativo, político e jurisdicional, o qual tem por objetivo a confirmação da correção e adequação do registo contabilístico e a verificação da legalidade, economia, eficiência e eficácia das despesas públicas e do cumprimento dos objetivos fixados.\n2.  O controlo a que se refere o número anterior efetua-se prévia, concomitante e sucessivamente à realização das operações de execução orçamental.\n3.    As instâncias de controlo dispõem de poderes de controlo sobre os serviços e entidades do Setor Público Administrativo, bem como sobre quaisquer entidades públicas ou privadas, nos casos em que estas beneficiem de transferências, subvenções ou outros auxílios financeiros concedidos através do OGE e aqueles poderes se mostrem imprescindíveis ao controlo da execução orçamental."
+   }
+  },
+  {
+   "id": "TL-H264-A85",
+   "no": 85,
+   "noLabel": {
+    "pt": "Artigo 85.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI CONTROLO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Controlo administrativo"
+   },
+   "text": {
+    "pt": "1.  O controlo administrativo compete ao próprio serviço e entidade do Setor Público Administrativo, aos órgãos de direção, tutela e superintendência, ao ministério com atribuições na área das finanças públicas e aos serviços de inspeção, controlo e auditoria e é efetuado nos termos do disposto na Constituição, na presente lei e na demais legislação aplicável.\n2.   O controlo administrativo compreende a realização de ações pontuais e regulares de verificação do cumprimento dos requisitos legais de execução do OGE e incide sobre:\na) A correção e veracidade do registo contabilístico;\nb) A legalidade, economia, eficiência e eficácia das despesas;\nc) O cumprimento dos programas orçamentais.\n3.  Sem prejuízo do disposto nos números anteriores e dos poderes de auditoria interna de cada entidade, o ministério com atribuições na área das finanças públicas ou os serviços de inspeção, controlo e auditoria do Setor Público Administrativo podem realizar auditorias financeiras no âmbito do controlo administrativo por si exercido.\n4.  Sem prejuízo do disposto no número seguinte, o controlo administrativo abrange quaisquer entidades, públicas ou privadas, que beneficiem de financiamento do OGE, na medida do estritamente necessário ao controlo da execução orçamental.\n5.  O Governo monitoriza e fiscaliza as contas das empresas públicas, assim como das restantes entidades compreendidas no setor empresarial do Estado, nos termos do respetivo regime regulador.\n6.   O Governo dispõe de sistemas e procedimentos de controlo interno das operações de execução do OGE destinados a prevenir e ou identificar a ocorrência de erros e irregularidades."
+   }
+  },
+  {
+   "id": "TL-H264-A86",
+   "no": 86,
+   "noLabel": {
+    "pt": "Artigo 86.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI CONTROLO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Controlo político"
+   },
+   "text": {
+    "pt": "1.  O controlo político compete ao Parlamento Nacional e é efetuado nos termos do disposto na Constituição, na presente lei, no Regimento do Parlamento Nacional e na demais legislação aplicável.\n2.  No âmbito do controlo político, o Parlamento Nacional acompanha a execução do OGE e delibera sobre a CGE.\n3.   O Governo remete ao Parlamento Nacional trimestralmente, até dois meses após o termo de cada trimestre, informação sobre:\na) A execução cumulativa do OGE;\nb) A utilização da Reserva de Contingência;\nc) As alterações orçamentais aprovadas pelo Governo; e\nd) As operações de gestão da dívida pública e de contração de empréstimos.\n4.  O Parlamento Nacional realiza debates regulares sobre a execução do OGE com a presença dos membros do Governo."
+   }
+  },
+  {
+   "id": "TL-H264-A87",
+   "no": 87,
+   "noLabel": {
+    "pt": "Artigo 87.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VI CONTROLO  ORÇAMENTAL"
+   },
+   "heading": {
+    "pt": "Controlo jurisdicional"
+   },
+   "text": {
+    "pt": "1.   O controlo jurisdicional compete à Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas e é efetuado nos termos do disposto na Constituição, na presente lei e na demais legislação aplicável, bem como aos restantes tribunais, designadamente aos tribunais administrativos e fiscais e aos tribunais judiciais, no âmbito das respetivas competências.\n2.   No âmbito do controlo jurisdicional, a Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas fiscaliza a execução do OGE e emite parecer sobre a CGE.\n3.   O Parlamento Nacional pode solicitar anualmente à Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas a realização de, pelo menos, duas auditorias a:\na) Serviços e entidades do Setor Público Administrativo;\nb) Empresas do setor empresarial do Estado;\nc) Outras entidades públicas ou privadas que administrem ou utilizem dinheiros públicos, e apenas nesse âmbito, independentemente da sua natureza jurídica.\n4.  O Governo pode solicitar anualmente à Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas a realização de, pelo menos, duas auditorias a:\na) Serviços e entidades do Setor Público Administrativo;\nb) Empresas do setor empresarial do Estado;\nc) Outras entidades públicas ou privadas que administrem ou utilizem dinheiros públicos, e apenas nesse âmbito, independentemente da sua natureza jurídica."
+   }
+  },
+  {
+   "id": "TL-H264-A88",
+   "no": 88,
+   "noLabel": {
+    "pt": "Artigo 88.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VII DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Norma revogatória"
+   },
+   "text": {
+    "pt": "É revogada a Lei n.º 2/2022, de 10 de fevereiro, alterada pelas Leis n.os 17/2023, de 29 de agosto, e 21/2023, de 27 de dezembro."
+   }
+  },
+  {
+   "id": "TL-H264-A89",
+   "no": 89,
+   "noLabel": {
+    "pt": "Artigo 89.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VII DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Regulamentação"
+   },
+   "text": {
+    "pt": "O Governo aprova, no prazo de seis meses, a regulamentação necessária à execução da presente lei."
+   }
+  },
+  {
+   "id": "TL-H264-A90",
+   "no": 90,
+   "noLabel": {
+    "pt": "Artigo 90.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO VII DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Entrada em vigor e produção de efeitos"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

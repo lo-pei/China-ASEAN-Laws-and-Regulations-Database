@@ -1,0 +1,75 @@
+{
+ "id": "PH-H3605",
+ "title": {
+  "zh": null,
+  "en": "An Act Encouraging the Organization of Agro-Industrial Coconut Cooperatives Under the Jurisdiction of the Philippine Coconut Administration, Amending for the Purpose Republic Act Numbered Eleven Hundred Forty-Five",
+  "orig": "An Act Encouraging the Organization of Agro-Industrial Coconut Cooperatives Under the Jurisdiction of the Philippine Coconut Administration, Amending for the Purpose Republic Act Numbered Eleven Hundred Forty-Five"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p51",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1965-06-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4403",
+ "officialCode": null,
+ "topics": [
+  "company",
+  "environment"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2321,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1965/ra_4403_1965.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1965/ra_4403_1965.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3605-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Subsection (f), Section three of Republic Act Numbered Eleven hundred forty-five is amended to read as follows:\n\"(f) To help planters and processors organize themselves into associations and/or agro-industrial coconut cooperatives with a view to giving them greater control in the marketing of their products, to help them obtain more credit facilities, and to assist them in getting more participation in the income of the coconut industry, such agro-industrial cooperatives shall be registered with the Securities and Exchange Commission and, any law to the contrary notwithstanding, enjoy the following privileges:\n\"(1) Agro-industrial coconut cooperatives with net assets of not more than five hundred thousand pesos shall be exempt from all taxes and government fees of whatever nature; and those with net assets in excess of five hundred thousand pesos shall be exempt from the payment of documentary stamp tax, residence taxes, tax on banks and insurance companies and municipal and city taxes, but shall be liable for the payment of income tax at the full rate provided for under existing laws on the amount allocated for interest on capital, fixed and percentage taxes at the full rate provided for under existing laws on gross sales to non-members; and all other taxes provided for under existing laws.\n\"(2) Agro-industrial coconut cooperatives may deposit their sealed cash boxes, documents and valuable papers in the safes of city or municipal treasurer and other government offices free of charge and the depository of said articles shall issue a receipt therefor.\n\"(3) Agro-industrial cooperatives shall be represented in courts by provincial or city fiscal or the government corporate counsel or his representative in any case where they are a party either as a plaintiff or defendant, except when the government is one of the parties.\""
+   }
+  },
+  {
+   "id": "PH-H3605-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "All the powers vested in and the duties conferred upon the Agricultural Credit and Cooperative Financing Administration now the Agricultural Credit Administration relative to the promotion, organization and supervision of cooperatives of coconut planters and processors under Republic Act Numbered Eight hundred twenty-one, as amended, are hereby transferred to the Philippine Coconut Administration."
+   }
+  },
+  {
+   "id": "PH-H3605-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
+   }
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "PH-H3564",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Sixty-Six of the Philippine Non-Agricultural Co-Operative Act",
+  "orig": "An Act to Amend Section Sixty-Six of the Philippine Non-Agricultural Co-Operative Act"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p50",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1965-06-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4362",
+ "officialCode": null,
+ "topics": [
+  "environment"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1501,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1965/ra_4362_1965.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1965/ra_4362_1965.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3564-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Subsection (2) of Section sixty-six of Republic Act Numbered Two thousand and twenty-three, otherwise known as the Philippine Non-agricultural Cooperative Act, is amended to read as follows:\n\"Sec. 66. Exemptions.— Co-operatives registered under this Act shall, notwithstanding the provisions of existing law to the country, enjoy the following exemptions:\n\"(1) Co-operatives with net assets of not more than five hundred thousand pesos shall be exempt from all taxes and government fees of whatever name and nature except those provided for under this Act: Provided, However, That co-operatives having net assets in excess of five hundred thousand pesos shall pay taxes as provided hereunder:\n(a) Income Tax— they shall pay tax at the full rate as provided under existing laws on the amount allocated for interest on capital;\n(b) Sales Tax— they shall pay fixed and percentage taxes at the full rate as provided under existing laws; and\n(c) They shall pay all other taxes, unless otherwise provided herein at the full rate as provided under existing laws.\n\"(2) They shall be exempt from the payment of documentary stamp tax, residence taxes, tax on banks and insurance companies and municipal or city taxes: Provided, However, That no co-operative organized under this Act shall be exempt from the payment of specific taxes levied by the National Internal Revenue Code on all articles or merchandise manufactured by such co-operative.\""
+   }
+  },
+  {
+   "id": "PH-H3564-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon approval.\nApproved: June 19, 1965."
+   }
+  }
+ ]
+}

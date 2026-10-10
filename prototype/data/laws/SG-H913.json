@@ -1,0 +1,68 @@
+{
+ "id": "SG-H913",
+ "title": {
+  "zh": null,
+  "en": "Criminal Justice Reform (Saving and Transitional Provisions) Regulations 2025",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p12",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation S760-2025",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1512,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/S760-2025?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 2 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H913-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Criminal Justice Reform (Saving and Transitional Provisions) Regulations 2025 and come into operation on 31 December 2025."
+   }
+  },
+  {
+   "id": "SG-H913-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Opinion of psychiatrist"
+   },
+   "text": {
+    "en": "2. Section 270(1) of the Criminal Procedure Code 2010 does not prevent any opinion of a psychiatrist on any matter concerning psychiatry (when given as the opinion of an expert) from being admissible as evidence in a criminal proceeding, if —\n(a)the opinion is adduced in evidence within 2 months after 31 December 2025;\n(b)the opinion is adduced in evidence in a case where —\n(i)the psychiatrist’s application for appointment as a member of the panel of psychiatrists established for the purposes of section 270 of the Code (called in this regulation the Panel) was submitted within 2 months after 31 December 2025; and\n(ii)any of the following circumstances applies:\n(A)the application mentioned in sub‑paragraph (i) is pending;\n(B)the period for filing an appeal against the Selection Committee’s decision (on the application mentioned in sub‑paragraph (i)) not to appoint the psychiatrist as a member of the Panel has not expired;\n(C)an appeal mentioned in sub‑paragraph (B) is pending;\n(D)an application for an extension of time to file an appeal mentioned in sub‑paragraph (B) is pending;\n(E)an extension of time mentioned in sub‑paragraph (D) has been granted and has not lapsed; or\n(c)the psychiatrist’s treatment or assessment of the person whose psychiatric condition is to be assessed by the expert in the opinion had started before 31 December 2025."
+   }
+  }
+ ]
+}

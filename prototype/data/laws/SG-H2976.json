@@ -1,0 +1,957 @@
+{
+ "id": "SG-H2976",
+ "title": {
+  "zh": null,
+  "en": "Land Transport Authority of Singapore Act 1995",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p37",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act LTASA1995",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 59,
+ "chars": 114951,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/LTASA1995?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 59 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 5 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2976-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Land Transport Authority of Singapore Act 1995."
+   }
+  },
+  {
+   "id": "SG-H2976-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“accoutrement” includes —\n(a)a uniform; and\n(b)surveillance equipment capable of being worn on the body for the purpose of recording a view of, or recording a conversation between, the wearer and another individual;\n“Authority” means the Land Transport Authority of Singapore established under section 3;\n“bus service” means a service for the carriage of passengers for a fare or other consideration by one or more buses operating on pre‑determined timetables and routes;\n“bus service licence” has the meaning given by the Bus Services Industry Act 2015;\n“Chairperson” means the Chairperson of the Authority and includes any acting Chairperson of the Authority;\n“Chief Executive” means the Chief Executive of the Authority, and includes any individual acting in that capacity;\n“claim” means a claim for compensation under section 20;\n“claimant” means a person who has made a claim for compensation;\n“Compensation Board” means the Compensation Board established under section 26;\n“construction”, in relation to a railway or road, includes —\n(a)the reconstruction or realignment of the railway or road;\n(b)permanently improving the railway or road or otherwise bringing it to a higher standard; and\n(c)any associated investigative and engineering studies,\nbut does not include the planning, maintenance and management of the railway or road;\n“Deputy Chairperson” means the Deputy Chairperson of the Authority;\n“Land Transport Revenue Account” or “Account” means the Land Transport Revenue Account established under section 12;\n“land transport system” means the infrastructure facilitating transport on land by the railway or road;\n“maintenance”, in relation to a railway or road, includes the execution of all works of any description which are necessary to keep the railway or road in the state of utility in which it was on the completion of its construction;\n“member” means a member of the Authority;\n“outsourced enforcement officer” means an individual who is appointed under section 11 as an outsourced enforcement officer;\n“president” means the president of the Compensation Board appointed under section 26;\n“Rail Infrastructure Fund” means the fund of that name established under section 13C;\n“railway” has the meaning given by the Rapid Transit Systems Act 1995 or the Cross‑Border Railways Act 2018, as the case may be;\n“road” includes —\n(a)any street, bridge, underpass, tunnel square, footway or passage, whether a thoroughfare or not, over which the public has a right of way;\n(b)any street, footway or passage, open court or open alley, used or intended to be used as a means of access to 2 or more holdings, whether the public has a right of way over it or not; and\n(c)all channels, sewers, drains, tunnels, ditches and reserves at the side of any road.\n[17/2012; 30/2015; 5/2018; 21/2018; 38/2018; 49/2018]"
+   }
+  },
+  {
+   "id": "SG-H2976-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Establishment and incorporation of Land Transport Authority of Singapore"
+   },
+   "text": {
+    "en": "3. A body called the Land Transport Authority of Singapore is established, which is a body corporate with perpetual succession and a common seal and is by that name capable of —\n(a)suing and being sued;\n(b)acquiring, owning, holding and developing or disposing of property, both movable and immovable; and\n(c)doing and suffering any other acts or things that bodies corporate may lawfully do and suffer."
+   }
+  },
+  {
+   "id": "SG-H2976-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Common seal"
+   },
+   "text": {
+    "en": "4.—(1) All deeds and other documents requiring the seal of the Authority must be sealed with the common seal of the Authority and any instruments to which the common seal is affixed must be signed —\n(a)by any 2 members generally or specially authorised by the Authority for the purpose; or\n(b)by one member and the Chief Executive.\n(2) All courts, judges and persons acting judicially are to take judicial notice of the common seal of the Authority affixed to any document and presume that it was duly affixed."
+   }
+  },
+  {
+   "id": "SG-H2976-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Constitution of Authority"
+   },
+   "text": {
+    "en": "5.—(1) The Authority consists of —\n(a)a Chairperson; and\n(b)2 or more other members as the Minister may from time to time determine.\n[49/2018]\n(2) The First Schedule has effect with respect to the Authority, its members and proceedings."
+   }
+  },
+  {
+   "id": "SG-H2976-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS, DUTIES AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Functions and duties of Authority"
+   },
+   "text": {
+    "en": "6.—(1) Subject to the provisions of this Act, it is the function and duty of the Authority —\n(a)to plan, design, construct, manage and maintain roads in Singapore in accordance with this Act and the Street Works Act 1995;\n(b)to plan, design, construct, maintain and improve pedestrian walkways, bus stops or shelters, bus interchanges or terminals, bus depots, bus parks, taxi stands, bicycle parking and other commuter facilities in accordance with this Act, the Street Works Act 1995 and any other written law;\n(c)to maintain, operate and improve road traffic signs or signals, traffic control equipment or lighting equipment associated with a road and other road traffic facilities for the purposes of traffic management and control;\n(d)to provide parking places for motor vehicles, to license and regulate the use of parking places and to administer the Parking Places Act 1974;\n(e)to develop and implement road traffic management strategies and practices;\n(ea)to regulate the import of small motorised vehicles, and the keeping of unsafe devices, under the Small Motorised Vehicles (Safety) Act 2020;\n[Act 5 of 2026 wef 01/06/2026]\n(f)to provide registration and licensing procedures and systems for road transport in accordance with the Road Traffic Act 1961, and to perform any other functions that may be conferred on the Authority by that Act, including —\n(i)the regulation of the parking of vehicles on roads and the taking of enforcement action in relation thereto;\n(ii)the regulation, prohibition or restriction of the use of roads on account of any construction or maintenance works being carried on the roads, or any other considerations of safety; and\n(iii)the determination and prescription of vehicular speed limits on roads;\n(fa)to regulate the provision of shared mobility services under the Shared Mobility Enterprises (Control and Licensing) Act 2020;\n(fb)to regulate the supply of electric vehicle chargers, the provision of electric vehicle charging services and the operation of charging stations under the Electric Vehicles Charging Act 2022;\n[Act 43 of 2022 wef 08/12/2023]\n(g)without affecting the Public Transport Council Act 1987 —\n(i)to carry out operational planning for bus services to meet the needs and expectation of the public, including coordinating the routes and scheduling of bus services provided by holders of bus service licences;\n(ii)to provide financial assistance to holders of bus service licences with the object of improving and expanding the range and reliability of the bus services provided by all or any of them;\n(iii)to procure for or make available to any holder of a bus service licence such buses as are necessary for improving and expanding the range and reliability of the bus services provided by all or any of them;\n(iv)to regulate the carriage of passengers on any road for hire or reward in accordance with the Road Traffic Act 1961; and\n(v)to regulate the provision of point‑to‑point passenger transport services under the Point‑to‑Point Passenger Transport Industry Act 2019;\n(ga)to operate any bus service or any bus depot or bus interchange, if there is for any reason no licensee under the Bus Services Industry Act 2015 to operate that bus service, bus depot or bus interchange (as the case may be), having regard to the reasonable requirements of the land transport system in Singapore or the relevant part thereof;\n(h)to regulate the construction of motor vehicles and the conditions under which they may be used on roads in Singapore;\n(i)to determine load limits for any road, bridge or culvert and to establish guidelines or requirements for the issue of vehicle mass and dimension permits;\n(ia)to promote the use, and promote and regulate the safe use, of electric vehicles and vehicles that use clean energy, clean technology or efficient pollution control technology, in Singapore;\n[Act 5 of 2026 wef 27/02/2026]\n(ib)to undertake or facilitate the development and maintenance in Singapore of accessible charging points in public and common areas and other ancillary facilities that allow for the safe transfer of electricity to an electric vehicle;\n(ic)to set standards for devices and equipment used in the charging of an electric vehicle in order to protect the public;\n(id)to cooperate and collaborate with the Energy Market Authority of Singapore in the discharge of its functions under the Electricity Act 2001 or other written law insofar as those functions relate to electrical installations for the charging of an electric vehicle;\n(j)to promote better understanding of land transport policies and programmes, whether solely or jointly with other authorities or organisations;\n(k)to plan, design, construct, manage, operate and maintain the railway in accordance with this Act and the Rapid Transit Systems Act 1995;\n(ka)to plan, design, construct, manage, operate and maintain the railway in accordance with this Act and the Cross‑Border Railways Act 2018;\n(l)to approve and regulate the operation of the railway in accordance with this Act and the Rapid Transit Systems Act 1995;\n(m)to coordinate land transport services, including developing or promoting the development of integrated ticket systems;\n(n)to conduct, or engage persons to conduct, research and demonstration projects in respect of land transport and associated matters, and to encourage, advise and otherwise assist (whether financially or otherwise) any such research or project;\n(na)to advise on, or to conduct, promote or facilitate, training and education relating to public transport;\n(o)to advise the Government in respect of the land transport system in Singapore, including, but not limited to —\n(i)its adequacy to meet national and community needs in an efficient, viable and safe manner;\n(ii)changes considered advisable in the provision of finance for the control, construction, management or maintenance of the land transport system; and\n(iii)changes considered advisable in the levying and collection of land transport taxation, including the granting or withdrawing of exemptions or partial exemptions from any form of land transport taxation;\n(p)to maintain contact with land transport organisations in Singapore and abroad, in order to obtain, collect and exchange information relating to land transport developments in Singapore and abroad, and to make such information available to bodies and persons with an interest in land transport in Singapore;\n(q)to represent Singapore internationally in respect of matters relating to land transport;\n(r)to act as agent of the Government and provide service in administering, assessing, collecting and enforcing payment of —\n(i)the special tax imposed under section 17 of the Customs Act 1960;\n(ii)the surcharge imposed under the Parking Places (Surcharge) Act 1975;\n(iii)the deficiency charge imposed under the Parking Places Act 1974 for the waiver of requirements under that Act in relation to private parking places;\n(iv)the proposed sums of successful bids for particular index marks and registration numbers for any type or category of vehicle;\n(v)all composition sums under the Small Motorised Vehicles (Safety) Act 2020;\n(vi)all taxes, fees and charges collected by the Registrar of Vehicles under the Road Traffic Act 1961 or any rules made under that Act which are not specified in the Second Schedule;\n(vii)all composition sums and financial penalties under the Point‑to‑Point Passenger Transport Industry Act 2019;\n[Act 43 of 2022 wef 08/12/2023]\n(viii)all composition sums and financial penalties under the Shared Mobility Enterprises (Control and Licensing) Act 2020; and\n[Act 43 of 2022 wef 08/12/2023]\n(ix)all composition sums and financial penalties under the Electric Vehicles Charging Act 2022;\n[Act 43 of 2022 wef 08/12/2023]\n(s)to act as agent of the Government in the vesting of land under the Street Works Act 1995;\n(t)to collect, compile and analyse information of a statistical nature relating to land transport or such other subject matter necessary for the performance of the functions of the Authority, and to publish and disseminate the results of any such compilation and analysis or abstracts of those results;\n(u)to establish and maintain a Land Transport Revenue Account in accordance with the provisions of this Act;\n(ua)to manage and administer the Rail Infrastructure Fund in accordance with this Act subject to the directions of the Minister;\n(v)to undertake any other activity considered necessary or desirable to achieve a safe and efficient land transport system that maximises national economic and social benefits; and\n(w)to perform any other functions that are conferred on the Authority by any other written law.\n[24/2010; 17/2012; 17/2015; 30/2015; 21/2018; 24/2018; 49/2018; 20/2019; 8/2020; 25/2020; 13/2021]\n(2) Subject to the provisions of this Act, it is a function of the Authority to develop and manage, or participate in the development and management of, land transport systems, whether in Singapore or elsewhere.\n[11/2007]\n(3) In performing the functions and discharging the duties imposed on it by subsections (1) and (2), the Authority must have regard to the promotion of energy efficiency within the land transport sector, environmental protection and the sustainable development of land transport.\n[11/2012]\n(4) Nothing in this section is to be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject.\n[17/2012]\n(5) In addition to the functions and duties imposed by this section, the Authority may undertake any other functions that the Minister may assign to the Authority by notification in the Gazette, and in so doing the Authority is deemed to be fulfilling the purposes of this Act and the provisions of this Act apply to the Authority in respect of those functions.\n[49/2018]\n(6) To avoid doubt, any reference in this section to an electric vehicle is a reference to a vehicle that is —\n(a)propelled wholly or partly by electricity (whether or not designed or adapted to be capable, in at least some circumstances or situations, of safely driving itself); and\n(b)equipped with an electric rechargeable energy storage system which can be recharged externally.\n[13/2021]"
+   }
+  },
+  {
+   "id": "SG-H2976-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS, DUTIES AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Powers of Authority"
+   },
+   "text": {
+    "en": "7.—(1) Subject to this Act, the Authority may carry on any activities that appear to the Authority to be advantageous, necessary or convenient for it to carry on for or in connection with the discharge of its functions and duties under this Act or any other written law, and in particular may exercise any of the following powers:\n(a)to grant licences or permits, or to register persons, for land transport purposes and to supervise and enforce compliance with such licences, permits or registration;\n(b)to open and break up any road and to take possession of and use any road or portion of any road;\n(c)to utilise all property of the Authority, movable and immovable, in such manner as the Authority may think expedient, including the raising of loans by mortgaging such property;\n(d)to lease or let, with or without taking a premium, any property vested in or acquired by it or to grant easements, rights of way, temporary licences or other rights or privileges over, under, through or in respect of any land or buildings belonging to or vested in the Authority upon any terms and conditions that the Authority thinks fit;\n(e)to subscribe for or acquire any securities, stocks and shares of an incorporated company or other body corporate, to procure its admission to membership of an incorporated company limited by guarantee and not having a share capital or to acquire an undertaking or part of an undertaking;\n(f)to form or participate in the formation of any company or corporation, or enter into any joint venture or partnership, whether in Singapore or elsewhere;\n(fa)to participate in any overseas venture or development which the Authority has the expertise to engage in or undertake;\n(fb)to establish and maintain offices, whether in Singapore or elsewhere;\n(fba)to provide financial incentives, support, grant, aid or assistance to any person;\n[Act 5 of 2026 wef 27/02/2026]\n(fc)to grant loans, and to guarantee the repayment of any loan granted, to any company or corporation —\n(i)of which the Authority, or any subsidiary of the Authority, is a member; or\n(ii)any shares of which are held or beneficially owned, directly or indirectly, by the Authority or any subsidiary of the Authority;\n(fd)to provide financial assistance by way of grant, loan or guarantee to any holder of a bus service licence;\n(fe)to establish or expand facilities or to assist in the maintenance of facilities (whether by itself or with the cooperation of other persons or bodies as the Authority thinks fit), including but not limited to providing grants, for the purpose of training and education relating to public transport;\n(g)to enter into any contract for the supply of goods, services or materials or for the execution of works or any other contract that may be necessary for the discharge of its duties and functions under this Act;\n(h)to engage alone or in conjunction with other corporations in the production, manufacture or sale of equipment, whether in Singapore or elsewhere;\n(i)to provide technical advice or assistance, including training facilities and consultancy services, to any person as respects any matter in which the Authority has skill or experience;\n(j)to impose fees or charges for services rendered by the Authority;\n(k)to grant loans to officers or employees of the Authority for any purposes specifically approved by the Authority that are likely to increase the efficiency of officers or employees;\n(l)to provide recreational facilities and promote recreational activities for, and activities conducive to, the welfare of officers or employees of the Authority and members of their families;\n(la)to cooperate with the Transport Safety Investigation Bureau of Singapore in relation to investigations under the Transport Safety Investigations Act 2018;\n[Act 36 of 2018 wef 01/01/2024]\n(m)to provide training for employees of the Authority and to award scholarships or otherwise pay for such training;\n(n)to receive donations and contributions from any source and raise funds by all lawful means; and\n(o)to do anything incidental to any of its powers.\n[11/2007; 17/2012; 17/2015; 30/2015]\n(2) This section does not limit any power of the Authority conferred by or under any other written law.\n(3) The Authority must provide the Minister with information with respect to its property and activities in the manner and at the times that the Minister may require.\n(4) In subsection (1)(fc), “subsidiary” has the meaning given by section 5 of the Companies Act 1967.\n[11/2007; 17/2012; 30/2015]"
+   }
+  },
+  {
+   "id": "SG-H2976-A7.001",
+   "no": 7.001,
+   "noLabel": {
+    "en": "7A."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS, DUTIES AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Directions by Minister"
+   },
+   "text": {
+    "en": "7A. The Minister may give to the Authority any direction under section 5 of the Public Sector (Governance) Act 2018.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H2976-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS, DUTIES AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Appointment of committees and delegation of powers"
+   },
+   "text": {
+    "en": "8.—(1) The Authority may appoint from among its own members or other persons who are not members any number of committees that it thinks fit consisting of members or other persons or members and other persons for purposes which, in the opinion of the Authority, would be better regulated and managed by means of those committees.\n(2) The Authority may, subject to any conditions or restrictions that it thinks fit, delegate to any such committee or to any member, officer or employee of the Authority, any of the functions or powers of the Authority under this Act or any other written law.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H2976-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 4 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Chief Executive, officers and employees, etc."
+   },
+   "text": {
+    "en": "9.—(1) There must be a Chief Executive of the Authority, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.\n[5/2018]\n(2) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —\n(a)is absent from duty or Singapore; or\n(b)is, for any reason, unable to perform the duties of the office.\n[5/2018]\n(3) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on any terms and conditions that it may determine, any other officers, employees, consultants and agents necessary for the effective performance of its functions.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H2976-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 4 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Protection from personal liability"
+   },
+   "text": {
+    "en": "10. No liability shall lie personally against any member, officer or employee of the Authority or any other person acting under the direction of the Authority for anything done or intended to be done in good faith and with reasonable care in the execution or purported execution of this Act.\n[17/2015]"
+   }
+  },
+  {
+   "id": "SG-H2976-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 4 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Outsourced enforcement officers"
+   },
+   "text": {
+    "en": "11.—(1) The Authority may in writing appoint an individual who —\n(a)is at least 18 years of age;\n(b)is not an employee of the Authority;\n(c)is not a public officer; and\n(d)has suitable qualifications or experience,\nto be an outsourced enforcement officer to assist the Authority in the administration of any land transport legislation in any particular area in Singapore.\n[38/2018]\n(2) The Authority may, for any reason that appears to the Authority to be sufficient, at any time revoke an individual’s appointment as an outsourced enforcement officer.\n[38/2018]\n(3) The Authority must issue to each outsourced enforcement officer an identification card, which must be carried at all times by the outsourced enforcement officer when exercising powers under any land transport legislation.\n[38/2018]\n(4) An outsourced enforcement officer whose appointment as such ceases must return to the Authority any identification card issued to him or her under subsection (3).\n[38/2018]\n(5) An outsourced enforcement officer must be issued with such accoutrement or equipment, or such description of accoutrement or equipment, as the Chief Executive may determine necessary for the effectual discharge of the duties of an outsourced enforcement officer.\n[38/2018]\n(6) An outsourced enforcement officer is not an employee of the Authority.\n[38/2018]\n(7) An individual who is appointed as an outsourced enforcement officer under subsection (1) does not, by virtue only of the appointment, become an agent of the Authority.\n[38/2018]\n(8) In this section and section 11A, “land transport legislation” means any written law administered by the Authority which is specified in the Fifth Schedule.\n[38/2018]"
+   }
+  },
+  {
+   "id": "SG-H2976-A11.001",
+   "no": 11.001,
+   "noLabel": {
+    "en": "11A."
+   },
+   "chapter": {
+    "en": "PART 4 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Powers of outsourced enforcement officers"
+   },
+   "text": {
+    "en": "11A.—(1) The Chief Executive must issue to each outsourced enforcement officer a written authorisation specifying such of the powers expressly specified in any land transport legislation as exercisable by an outsourced enforcement officer, as what the outsourced enforcement officer may exercise, and no other powers.\n[38/2018]\n(2) The authorisation of the Chief Executive under subsection (1) issued to an outsourced enforcement officer may also do all or any of the following:\n(a)limit the powers mentioned in subsection (1) that the outsourced enforcement officer may exercise;\n(b)limit when, and where in Singapore, the outsourced enforcement officer may exercise those powers or any of them;\n(c)limit the circumstances in which the outsourced enforcement officer may exercise those powers or any of them.\n[38/2018]\n(3) To avoid doubt, the Chief Executive cannot authorise under this section an outsourced enforcement officer to arrest any individual.\n[38/2018]\n(4) The powers that an outsourced enforcement officer may be authorised under this section to exercise may be exercised only —\n(a)when in uniform, and upon production of the identification card issued under section 11(3);\n(b)to the extent authorised by the Chief Executive under subsection (1); and\n(c)as directed (generally or specially) by an officer or employee of the Authority.\n[38/2018]\n(5) An outsourced enforcement officer who is authorised under subsection (1) to exercise any power expressly specified in any land transport legislation as exercisable by an outsourced enforcement officer is deemed to be a public servant for the purposes of the Penal Code 1871 when exercising that power.\n[38/2018]\n(6) Without limiting subsection (5), where any law or written law protects an officer or employee of the Authority from liability for the officer’s or employee’s acts or omissions, that law or written law is taken to operate as if those acts or omissions included an outsourced enforcement officer’s acts or omissions when acting in the course of his or her duty as an outsourced enforcement officer in accordance —\n(a)with the authorisation of the Chief Executive under subsection (1); and\n(b)with subsection (4).\n[38/2018]\n(7) To avoid doubt, an outsourced enforcement officer does not cease to be acting on the direction of an officer or employee of the Authority by reason only that the officer or employee of the Authority is not present at all times.\n[38/2018]"
+   }
+  },
+  {
+   "id": "SG-H2976-A11.002",
+   "no": 11.002,
+   "noLabel": {
+    "en": "11B."
+   },
+   "chapter": {
+    "en": "PART 4 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Impersonation as outsourced enforcement officers"
+   },
+   "text": {
+    "en": "11B.—(1) An individual who represents himself or herself, by word or conduct to be an outsourced enforcement officer when he or she is not an outsourced enforcement officer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,500 or to imprisonment for a term not exceeding 6 months or to both.\n[38/2018]\n(2) An outsourced enforcement officer who uses —\n(a)any accoutrement or equipment issued under section 11; or\n(b)any identification card issued under section 11(3),\notherwise than in the course of, or for the purpose of, exercising the functions of an outsourced enforcement officer, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,500 or to imprisonment for a term not exceeding 6 months or to both.\n[38/2018]\n(3) However, it is a defence in any proceedings for an offence under subsection (1) or (2) where the accused proves, on a balance of probabilities, that the accused used or possessed the accoutrement, equipment or identification card issued under section 11 for the purposes of a public entertainment provided in compliance with the Public Entertainments Act 1958.\n[38/2018]"
+   }
+  },
+  {
+   "id": "SG-H2976-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Land Transport Revenue Account"
+   },
+   "text": {
+    "en": "12.—(1) The Authority must establish, maintain and operate a Land Transport Revenue Account into which must be paid, except where expressly provided otherwise in section 13A or 13B —\n(a)all taxes, fees and charges specified in the Second Schedule;\n(b)all fees received by the Authority for services rendered by the Authority to any person, including any collection agency fee;\n(c)all moneys derived from the disposal, lease, or hire of, or any other dealing with, any property vested in or acquired by the Authority;\n(d)all income derived from the investment of moneys in the Account, including any gains made on the sale of any investment of moneys of the Account, and interest or gains thereon;\n(e)the balance of the fees, rental or other revenue lawfully received by the Authority —\n(i)for or in connection with the hiring or leasing of buses, bus stops, bus interchanges or terminals or bus parks from the Authority; or\n(ii)for or in connection with the advertising on such buses or at such bus stops, bus interchanges or terminals or bus parks,\nafter deducting such proportion of those fees, rental or other revenue as the Minister has approved for the Bus Service Enhancement Fund under section 13B(1)(h);\n(f)all moneys borrowed by the Authority under this Act; and\n(g)all other moneys lawfully received by the Authority for the purposes of the Authority.\n[17/2012]\n(2) The Land Transport Revenue Account must be managed and administered by the Authority, subject to the directions of the Minister."
+   }
+  },
+  {
+   "id": "SG-H2976-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Application of revenue"
+   },
+   "text": {
+    "en": "13.—(1) The revenue of the Land Transport Revenue Account for any financial year must be applied in defraying the following charges:\n(a)the remuneration, fees and allowances of the members of the Authority and the remuneration of the auditor of the Authority;\n(b)the salaries, fees, remuneration, pensions, superannuation allowances and gratuities of the officers, agents, employees, advisers and former employees of the Authority;\n(c)working and establishment expenses and expenditure on, or provision for, the maintenance of any of the property of the Authority, and the discharge of the functions of the Authority properly chargeable to revenue account;\n(d)expenses incurred or incidental to the investment or management of moneys in the Account;\n(e)interest on any loan raised by the Authority;\n(f)sums required to be paid to the Government towards repayment of any loan made by the Government to the Authority;\n(g)sums required to be transferred to a sinking fund or otherwise set aside for the purpose of making provision for the repayment of borrowed money;\n(h)any sums that may be deemed appropriate to set aside in respect of depreciation or renewal of the property of the Authority, having regard to the amount set aside out of revenue under paragraphs (c) and (f);\n(i)the cost, or any portion of the cost, of any new works, plant, vessels or appliances not being a renewal of the property of the Authority, which the Authority may determine to charge to revenue;\n(j)sums to be transferred to the Railway Sinking Fund mentioned in section 13A to fund expenditure —\n(i)for the cost (or part of the cost) of any capital equipment including new works, plant, equipment, trains, vessels or appliances related to the operation and maintenance of the railway network under the Rapid Transit Systems Act 1995; or\n(ii)for the cost of acquiring any estate or interest in any area or space within a station, or any area or space abutting a station the access to which is limited to an entrance or exit to the station;\n(k)any sums by way of contribution, for the purposes associated with the objects of this Act as the Authority may determine, to the public or for charities;\n(l)grants, loans or guarantees to any holder of a bus service licence for the purpose of improving and expanding the range and reliability of the bus services provided by the holders of such licences, including but not limited to meeting such expenditure for the delivery of bus services as the Authority may approve; and\n(m)any other expenditure authorised by the Authority and properly chargeable to revenue account.\n[21/2010; 17/2012; 30/2015; 5/2018]\n(2) The balance of the revenue of the Land Transport Revenue Account may be applied to the creation of a general reserve and any other reserves that the Authority thinks fit."
+   }
+  },
+  {
+   "id": "SG-H2976-A13.001",
+   "no": 13.001,
+   "noLabel": {
+    "en": "13A."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Railway Sinking Fund"
+   },
+   "text": {
+    "en": "13A.—(1) There is established by the Authority a Railway Sinking Fund comprising —\n(a)all charges and cash‑bids (if any) that are payable under section 13A of the Rapid Transit Systems Act 1995;\n(b)all moneys authorised by or under any other written law to be paid into the Railway Sinking Fund;\n(c)all moneys borrowed or raised by the Authority for the purposes of the Railway Sinking Fund;\n(d)all grants by any person or organisation to the Authority for the purposes of the Railway Sinking Fund;\n(e)all interest payable under section 19B of the Rapid Transit Systems Act 1995 on outstanding amounts of —\n(i)any charge and cash‑bid (if any) imposed under section 13A of that Act in respect of a licence; or\n(ii)any financial penalty imposed before 1 April 2016 under section 19(1)(k) of that Act in respect of a licensee which is granted a licence on or after 13 September 2010;\n(f)all financial penalties imposed before 1 April 2016 under section 19(1)(k) of the Rapid Transit Systems Act 1995 in respect of licences granted on or after 13 September 2010;\n(g)all amounts paid to the Authority by way of discharge of any insurance claims in respect of any property of the Authority paid for with money from the Railway Sinking Fund;\n(h)all interest received on investments belonging to the Railway Sinking Fund, and all amounts received by the Authority from the sale of any investments or other property paid for with money from the Railway Sinking Fund; and\n(i)all investments and other property purchased out of moneys in the Railway Sinking Fund, including the net income from those investments.\n[21/2010; 31/2015]\n(2) Moneys must not be withdrawn by the Authority from the Railway Sinking Fund except for all or any of the following purposes:\n(a)to meet any of the following expenditure to the extent not expressly provided as may be met from the Rail Infrastructure Fund:\n(i)for the cost (or part of the cost) of any capital equipment including new works, plant, equipment, trains, vessels or appliances related to the operation and maintenance of the railway network under the Rapid Transit Systems Act 1995;\n(ii)for the cost of acquiring any estate or interest in any area or space within a station, or any area or space abutting a station the access to which is limited to an entrance or exit to the station;\n(b)to pay insurance premiums on capital equipment, area, space or other investment acquired using moneys of the Railway Sinking Fund;\n(c)to pay any principal or interest on moneys borrowed or raised by the Authority for the purposes of the Railway Sinking Fund;\n(d)to pay any expenses properly attributable to the setting up of the Railway Sinking Fund, the administration and management of moneys in the Railway Sinking Fund, or the borrowing or raising of moneys for the purposes of the Railway Sinking Fund;\n(e)to refund any sums collected as charges or cash‑bids that are in excess of what is payable under section 13A of the Rapid Transit Systems Act 1995;\n(f)for investment of moneys in the Railway Sinking Fund in accordance with section 17;\n(g)to pay all amounts relating to the sale, disposal or write‑off of any investments paid for with money from the Railway Sinking Fund;\n(h)to pay all reasonable legal costs incurred by the Authority and all reasonable expenses incurred by the Authority in connection with the collection or attempted collection of any outstanding amounts (including any interest on the amounts) of —\n(i)any charge and cash‑bid (if any) imposed under section 13A of the Rapid Transit Systems Act 1995 in respect of a licence; or\n(ii)any financial penalty imposed before 1 April 2016 under section 19(1)(k) of that Act in respect of a licensee which is granted a licence on or after 13 September 2010.\n[21/2010; 31/2015; 49/2018]\n(3) For the purposes of subsection (1)(i), the net income from investments is the amount ascertained by adding to, or deducting from, the income received from investments of moneys in the Railway Sinking Fund any gain derived or loss sustained, realised or unrealised (as the case may be) from those investments.\n[21/2010; 49/2018]\n(4) The Railway Sinking Fund must be managed and administered by the Authority subject to the directions of the Minister.\n[21/2010]"
+   }
+  },
+  {
+   "id": "SG-H2976-A13.002",
+   "no": 13.002,
+   "noLabel": {
+    "en": "13B."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Bus Service Enhancement Fund"
+   },
+   "text": {
+    "en": "13B.—(1) There is established by the Authority a Bus Service Enhancement Fund comprising —\n(a)all moneys from time to time appropriated from the Consolidated Fund or the Development Fund and authorised to be paid into the Bus Service Enhancement Fund by any written law;\n(b)all moneys authorised by or under any other written law to be paid into the Bus Service Enhancement Fund;\n(c)all moneys borrowed or raised by the Authority for the purposes of the Bus Service Enhancement Fund;\n(d)all gifts or donations by any person or organisation to the Authority for the purposes of the Bus Service Enhancement Fund;\n(e)all investments and other property purchased out of moneys in the Bus Service Enhancement Fund, including the net income from such investments;\n(f)all interest received on investments belonging to the Bus Service Enhancement Fund, and all amounts received by the Authority from the sale of any investments or other property paid for with money from the Bus Service Enhancement Fund;\n(g)all sums received by way of repayment of any loan or advance from the Bus Service Enhancement Fund, and any interest and late payment charge from any such loan or advance;\n(h)such proportion as the Minister may approve of the fees, rental or other revenue lawfully received by the Authority for or in connection with the hiring or leasing of buses, bus stops, bus interchanges or terminals or bus parks from the Authority, or for or in connection with the advertising on such buses or at such bus stops, bus interchanges or terminals or bus parks; and\n(i)all damages, cost or other moneys lawfully received by the Authority from any holder of a bus service licence on account of any breach by the holder of such a licence of any term in a grant or loan from or in a lease, contract or other arrangement with the Authority, made in connection with improving and expanding the range and reliability of bus services provided by the holders of bus service licences.\n[17/2012; 30/2015]\n(2) The moneys in the Bus Service Enhancement Fund may be withdrawn by the Authority only for all or any of the following purposes:\n(a)to provide grants or loans to any holder of a bus service licence for the purpose of improving and expanding the range and reliability of the bus services provided by the holders of such licences, including but not limited to meeting such expenditure for the delivery of bus services as the Authority may approve;\n(b)to pay all reasonable legal costs incurred by the Authority and all reasonable expenses incurred by the Authority in connection with the collection or attempted collection of any outstanding amounts (including any interest on the amounts) of any sums due under any loan or grant made out of moneys in the Bus Service Enhancement Fund;\n(c)to acquire any property, movable or immovable, including but not limited to buses, with the object of improving and expanding the range and reliability of the bus services provided by all or any of the holders of bus service licences;\n(d)for investments in accordance with section 17 of moneys in the Bus Service Enhancement Fund;\n(e)to pay all amounts relating to the sale, disposal or write‑off of any investments paid for with money from the Bus Service Enhancement Fund;\n(f)to pay any principal or interest on moneys borrowed or raised by the Authority for the purposes of the Bus Service Enhancement Fund;\n(g)to pay any expenses properly attributable to the setting up of the Bus Service Enhancement Fund and the administration and management of moneys in that Fund.\n[17/2012; 30/2015]\n(3) For the purposes of subsection (1)(e), the net income from investments is the amount ascertained by adding to, or deducting from, the income received from investments of moneys in the Bus Service Enhancement Fund any gain derived or loss sustained, realised or unrealised (as the case may be) from those investments.\n[17/2012]\n(4) No loan made or investments paid for with moneys from the Bus Service Enhancement Fund is to be written‑off without the prior approval of the Minister.\n[17/2012]\n(5) Without limiting subsection (4), the Bus Service Enhancement Fund must be managed and administered by the Authority subject to the directions of the Minister.\n[17/2012]\n(6) Upon dissolution of the Bus Service Enhancement Fund during any term of office of the Government (within the meaning of the Constitution), the balance of the moneys remaining in that Fund must be transferred to the Consolidated Fund and be added to the reserves of the Government not accumulated by it during that term of office.\n[17/2012]"
+   }
+  },
+  {
+   "id": "SG-H2976-A13.003",
+   "no": 13.003,
+   "noLabel": {
+    "en": "13C."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Rail Infrastructure Fund"
+   },
+   "text": {
+    "en": "13C.—(1) The Rail Infrastructure Fund is established consisting of —\n(a)all moneys from time to time appropriated from the Consolidated Fund or Development Fund and authorised to be paid into the Rail Infrastructure Fund by Supply law;\n(b)all moneys authorised by or under any other written law to be paid into the Rail Infrastructure Fund;\n(c)any gifts or donations made by any person for the purposes of the Rail Infrastructure Fund; and\n(d)all investments of moneys in the Rail Infrastructure Fund authorised to be made by this Act and the proceeds of any such investments, including the net income from those investments.\n[49/2018]\n(2) On 15 January 2019, the Government must pay into the Rail Infrastructure Fund such sum as the Minister for Finance may determine out of moneys to be provided by Parliament for the Rail Infrastructure Fund.\n[49/2018]\n(3) For the purposes of subsection (1)(d), the net income from investments is the amount ascertained by adding to, or deducting from, the income received from investments of moneys in the Rail Infrastructure Fund any gain derived or loss sustained, realised or unrealised (as the case may be) from those investments.\n[49/2018]\n(4) Upon the dissolution of the Rail Infrastructure Fund during any term of office of the Government (within the meaning of the Constitution), the balance then remaining in that Fund must be transferred to the Consolidated Fund and added to the reserves of the Government not accumulated by it during that term of office.\n[49/2018]"
+   }
+  },
+  {
+   "id": "SG-H2976-A13.004",
+   "no": 13.004,
+   "noLabel": {
+    "en": "13D."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Purposes of Rail Infrastructure Fund"
+   },
+   "text": {
+    "en": "13D.—(1) The moneys in the Rail Infrastructure Fund may be withdrawn by the Authority only for the following purposes:\n(a)for the Authority to carry on any construction, improvement or extension, or any demolition and replacement, of any railway (in whole or part), the operation of which is or is to be subject to the Rapid Transit Systems Act 1995;\n(b)for the acquisition by the Authority of capital machinery or equipment required for or in connection with the start of operations of —\n(i)a railway (or a part of a railway) the construction, or demolition and replacement, of which (as the case may be) was paid for with money from the Rail Infrastructure Fund; or\n(ii)an improved or extended railway (or an improved or extended part of a railway) the improvement or extension of which was paid for with money from the Rail Infrastructure Fund;\n(c)for the Authority to carry on any associated design, investigative and engineering studies, survey or research preparatory to the undertaking of any work or acquisition mentioned in paragraph (a) or (b);\n(d)to pay any of the following which is incurred or payable (as the case may be) for the purposes of the construction, improvement or extension, or the demolition and replacement (as the case may be) by the Authority of a railway, the operation of which is or is to be subject to the Rapid Transit Systems Act 1995:\n(i)the costs incurred by the Collector of Land Revenue in the acquisition under the Land Acquisition Act 1966 of any land;\n(ii)the compensation payable for the acquisition under the Land Acquisition Act 1966 of any land that is the subject of a notice under section 7 of the Rapid Transit Systems Act 1995;\n(e)to pay insurance premiums on capital equipment or other investments acquired, and land (including structures) acquired and constructed, using money from the Rail Infrastructure Fund;\n(f)to pay all amounts relating to the sale, disposal or write‑off of any investments paid for with money from the Rail Infrastructure Fund;\n(g)to invest in accordance with section 17;\n(h)to pay any expenses properly attributable to the setting up of the Rail Infrastructure Fund and the administration, management and investment of moneys in that Fund.\n[49/2018]\n(2) However, no investment paid for with money from the Rail Infrastructure Fund may be written off by the Authority without the prior approval of the Minister.\n[49/2018]"
+   }
+  },
+  {
+   "id": "SG-H2976-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Funds for construction, etc., projects"
+   },
+   "text": {
+    "en": "14.—(1) For the purpose of enabling the Authority to carry out its function and duty of constructing any railway or roads or other related facilities, the Minister for Finance must, from time to time, provide funds by way of grants, subject to any conditions that he or she may impose, to the Authority out of moneys provided by Parliament.\n(2) The Authority may, from time to time and with the approval of the Minister for Finance, borrow or otherwise raise money in any currency in Singapore or elsewhere for the purposes referred to in subsection (1) and on any terms and conditions that the Authority thinks fit.\n(3) The repayment of money borrowed or raised by the Authority for the purposes referred to in subsection (1), and interest, premium and other charges thereon and costs and fees incurred for the purpose of borrowing or raising such money must be met out of funds provided to the Authority by the Minister for Finance.\n(4) Nothing in this section restricts the power of the Authority to borrow or raise or secure the repayment of money for purposes other than the purposes referred to in subsection (1)."
+   }
+  },
+  {
+   "id": "SG-H2976-A14.001",
+   "no": 14.001,
+   "noLabel": {
+    "en": "14A."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Issue of shares, etc."
+   },
+   "text": {
+    "en": "14A. As a consequence of —\n(a)the vesting of any property, rights or liabilities of the Government in the Authority under this Act; or\n(b)any capital injection or other investment by the Government in the Authority in accordance with any written law,\nthe Authority must issue such shares or other securities to the Minister for Finance as that Minister may direct.\n[5/2002]"
+   }
+  },
+  {
+   "id": "SG-H2976-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Operating expenses"
+   },
+   "text": {
+    "en": "15.—(1) It is the duty of the Authority to exercise and perform its functions under this Act so as to secure that the total revenues of the Authority are sufficient, taking one financial year with another, to meet its total operating expenses properly chargeable to the Land Transport Revenue Account.\n(2) In this section, “operating expenses” does not include —\n(a)operating expenses associated directly with the function and duty mentioned in section 14(1); and\n(b)interests, fees and other charges in respect of loans incurred under section 14(2),\nthe payment of which must be met from funds provided by the Minister for Finance to the Authority pursuant to section 14(1)."
+   }
+  },
+  {
+   "id": "SG-H2976-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Bank accounts and application of revenue"
+   },
+   "text": {
+    "en": "16.—(1) The Authority must open and maintain one or more accounts with such bank or banks as the Authority thinks fit; and every such account must be operated as far as practicable by cheque signed by such person or persons authorised to do so by the Authority.\n(2) The moneys of the Authority must be applied only in payment or discharge of the expenses, obligations and liabilities of the Authority and in making any payments that the Authority is authorised or required to make."
+   }
+  },
+  {
+   "id": "SG-H2976-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Power of investment"
+   },
+   "text": {
+    "en": "17. The Authority may invest its funds in the Land Transport Revenue Account, the Railway Sinking Fund, the Rail Infrastructure Fund or the Bus Service Enhancement Fund in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965.\n[45/2004; 21/2010; 17/2012; 49/2018]"
+   }
+  },
+  {
+   "id": "SG-H2976-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Financial year"
+   },
+   "text": {
+    "en": "18. The financial year of the Authority begins on 1 April of each year and ends on 31 March of the succeeding year.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H2976-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 6 RIGHTS TO COMPENSATION, CLAIMS PROCEDURE AND ASSESSMENT OF COMPENSATION"
+   },
+   "heading": {
+    "en": "No remedy except under this Act"
+   },
+   "text": {
+    "en": "19.—(1) No action, claim or proceedings shall lie or be brought against the Authority or any other person —\n(a)to restrain the doing of anything which is authorised by or under the Rapid Transit Systems Act 1995 or to compel the doing of anything which may be omitted to be done under that Act;\n(b)to restrain the doing of anything which is authorised by or under the Cross‑Border Railways Act 2018 or to compel the doing of anything which may be omitted to be done under that Act; or\n(c)to recover damages, compensation or costs for —\n(i)damage or disturbance to or loss of or in the value of any land, chattel, trade or business;\n(ii)personal disturbance or inconvenience;\n(iii)extinguishment, modification or restriction of rights; or\n(iv)effecting or complying with any requirement or condition imposed by the Authority,\nwhich is authorised by or under the Rapid Transit Systems Act 1995 or the Cross‑Border Railways Act 2018 or arises from any act or omission so authorised, except pursuant to one of the rights to compensation provided for in section 20.\n[21/2018]\n(2) No action, claim or proceedings shall lie or be brought against the Authority or any other person —\n(a)to restrain the doing of anything which is authorised —\n(i)by section 9, 12 or 29 of the Street Works Act 1995; or\n(ii)by any other provision of the Street Works Act 1995 relating to the construction of a road tunnel,\nor to compel the doing of anything which may be omitted to be done under those provisions of that Act; or\n(b)to recover damages, compensation or costs for —\n(i)damage or disturbance to or loss of or in the value of any land, chattel, trade or business;\n(ii)personal disturbance or inconvenience;\n(iii)extinguishment, modification or restriction of rights; or\n(iv)effecting or complying with any requirement or condition imposed by the Authority,\nwhich is authorised by or under section 9, 12 or 29 of the Street Works Act 1995 or is authorised by any other provision of that Act relating to the construction of a road tunnel, or arises from any act or omission so authorised, except pursuant to one of the rights of compensation provided for in section 20."
+   }
+  },
+  {
+   "id": "SG-H2976-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 6 RIGHTS TO COMPENSATION, CLAIMS PROCEDURE AND ASSESSMENT OF COMPENSATION"
+   },
+   "heading": {
+    "en": "Compensation"
+   },
+   "text": {
+    "en": "20.—(1) The rights to compensation mentioned in section 19 are the rights to claim from the Authority or any other person for the items of loss, damage or cost set out in the first column of Part 1 of the Fourth Schedule a sum assessed on the basis specified opposite in the second column thereof and with regard to the provisions of Part 2 of the Fourth Schedule, subject to —\n(a)the claim being served on the Authority or that other person within the appropriate period specified in the fourth column of Part 1 of the Fourth Schedule; and\n(b)the other provisions of this Act.\n(2) Every person who is described in the third column of Part 1 of the Fourth Schedule has the right to claim compensation for the items of loss, damage or cost set out opposite in the first column to the extent of the loss, damage or cost suffered or incurred by the person as assessed pursuant to this Act."
+   }
+  },
+  {
+   "id": "SG-H2976-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 6 RIGHTS TO COMPENSATION, CLAIMS PROCEDURE AND ASSESSMENT OF COMPENSATION"
+   },
+   "heading": {
+    "en": "Claims against persons other than Authority"
+   },
+   "text": {
+    "en": "21. Where any action, claim or proceeding is brought against any person other than the Authority to recover the damages, compensation or costs for —\n(a)damage or disturbance to or loss of or in the value of any land, chattel, trade or business;\n(b)personal disturbance or inconvenience; or\n(c)extinguishment, modification or restriction of rights,\npursuant to one of the rights to compensation provided for in section 20, sections 22, 23, 25 and 27 apply and any reference to the Authority in those sections is a reference to that other person."
+   }
+  },
+  {
+   "id": "SG-H2976-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 6 RIGHTS TO COMPENSATION, CLAIMS PROCEDURE AND ASSESSMENT OF COMPENSATION"
+   },
+   "heading": {
+    "en": "Claims out of time"
+   },
+   "text": {
+    "en": "22.—(1) Subject to this section, if a claim for an item of loss, damage or cost is not served on the Authority before the end of the period specified in the fourth column of Part 1 of the Fourth Schedule in respect of that item, the right to claim compensation for that item is barred.\n(2) The period mentioned in subsection (1) may, upon application made to the Compensation Board either before or after the end of that period, be extended in accordance with this section.\n(3) Notice of an application under subsection (2) must be given to the Authority by the applicant.\n(4) The Compensation Board may extend the period within which a claim must be served upon the Authority if the Board considers that —\n(a)the delay in serving the claim was occasioned by mistake of fact or mistake of any matter of law (other than the relevant provision in the fourth column of Part 1 of the Fourth Schedule) or by any other reasonable cause; or\n(b)the Authority is not materially affected in the conduct of its case or otherwise by the delay.\n(5) An extension may be granted by the Compensation Board under subsection (4), with or without conditions, for any period that the Board thinks fit but not in any case exceeding 6 years from the time when the right to compensation first arose."
+   }
+  },
+  {
+   "id": "SG-H2976-A22.001",
+   "no": 22.001,
+   "noLabel": {
+    "en": "22A."
+   },
+   "chapter": {
+    "en": "PART 6 RIGHTS TO COMPENSATION, CLAIMS PROCEDURE AND ASSESSMENT OF COMPENSATION"
+   },
+   "heading": {
+    "en": "Disqualification as to certain compensation"
+   },
+   "text": {
+    "en": "22A.—(1) If an owner of any land temporary possession of which is or has been taken in the exercise of any power in section 5 of the Rapid Transit Systems Act 1995 gives to the Authority any notice under section 7(1) of that Act in relation to that land within the claim period referred to in section 7A(2)(d) of that Act, the owner is entitled to claim only for loss due to displacement of any person in lawful occupation of the land on the date of the notice under section 5 of that Act, and no other item in the Fourth Schedule.\n[12/2015]\n(2) If an owner of any land temporary possession of which is or has been taken in the exercise of any power in section 8 of the Cross‑Border Railways Act 2018 gives to the Authority any notice under section 15(1) of that Act in relation to that land within the claim period mentioned in section 16(2)(d) of that Act, the owner is entitled to claim only for loss due to displacement of any person in lawful occupation of the land on the date of the notice under section 8 of that Act, and no other item in the Fourth Schedule.\n[21/2018]\n(3) If an owner of any land temporary possession of which is or has been taken in the exercise of any power in section 9 of the Street Works Act 1995 gives to the Authority any notice under section 11(1) of that Act in relation to that land within the claim period referred to in section 11A(2)(d) of that Act, the owner is entitled to claim only for loss due to displacement of any person in lawful occupation of the land on the date of the notice under section 9 of that Act, and no other item in the Fourth Schedule.\n[12/2015]"
+   }
+  },
+  {
+   "id": "SG-H2976-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 6 RIGHTS TO COMPENSATION, CLAIMS PROCEDURE AND ASSESSMENT OF COMPENSATION"
+   },
+   "heading": {
+    "en": "Claims procedure"
+   },
+   "text": {
+    "en": "23.—(1) Any person who claims to be entitled to compensation under this Act must serve on the Authority a written claim setting out such of the following particulars as are applicable to the person’s claim:\n(a)the name of the claimant and the claimant’s address for service of notices;\n(b)a full description of the land to which the claim relates including any covenants, easements or restrictions affecting the same;\n(c)the nature of the claimant’s interest in the land including, in the case of a sublessee or subtenant, the landlord’s name and address and details of the sublease or tenancy;\n(d)details of any mortgage, including the principal still owing and the name and address of the mortgagee;\n(e)if the claimant has sublet the land or any part of the land, the name and address of each tenant and details of the lease or tenancy;\n(f)particulars of the claim showing —\n(i)under which item the claim is made; and\n(ii)how the amount claimed under any item is calculated.\n(2) The Authority must in writing acknowledge receipt and the date of receipt of every claim served on the Authority under subsection (1).\n(3) If a claimant amends a claim before proceedings are commenced before the Compensation Board and the Authority considers the amendment to be substantial, the Authority may, within 14 days of the receipt of the amended claim, notify the claimant that it elects to treat the claim, for the purposes of this section, as if it were a new claim served under subsection (1) on the date on which the amendment was received by the Authority, and this section applies accordingly.\n(4) The Authority may by written notice to the claimant request that the claimant supply further particulars of and in support of the claim or any item of the claim, and if any of those particulars are not supplied to the Authority within a period of 28 days from the date of the notice, or within any further period that the Authority may in writing allow, the claim or the item concerning which the particulars are requested is deemed to be rejected and subsection (5) does not apply.\n(5) The Authority must, within 3 months of the service of a claim on it, or if the Authority has requested further particulars under subsection (4) within 3 months of the day on which they are provided in accordance with that subsection, notify the claimant in writing that the Authority —\n(a)admits the entire claim;\n(b)rejects the entire claim; or\n(c)admits a specified part or parts and rejects the remainder,\nand in every case must briefly state its reasons for rejection so that the claimant is adequately informed of those reasons.\n(6) Where the Authority has rejected a claim or any part of a claim under subsection (5) or where a claim or any part of it is deemed to have been rejected under subsection (4), the Authority may —\n(a)by written notice offer to the claimant a sum (including costs) that the Authority is willing to pay in full and final settlement of the claim or any part of it, as the case may be; or\n(b)commence proceedings before the Compensation Board to have the claim or any part of it heard and determined by the Board in accordance with this Act.\n(7) The Authority may commence proceedings before the Compensation Board to have the claim or any part of it heard and determined in accordance with this Act where any offer under subsection (6)(a) is refused by the claimant.\n(8) If, at the end of 4 months from the receipt of a claim by the Authority, it has not been settled by agreement, either the claimant or the Authority may commence proceedings before the Compensation Board to have the claim, or so much of it as is still then in dispute, heard and determined by the Board in accordance with this Act.\n(9) In any case where the claimant has failed to supply further particulars required by the Authority in accordance with subsection (4), the Compensation Board may on the hearing of the claim consider the merits of the Authority’s request for further particulars, and the claimant’s failure to supply them and may, if the Board thinks fit —\n(a)order the claimant to supply some or all of the particulars;\n(b)adjourn the hearing until the order is complied with and the particulars are considered by the Authority; and\n(c)make such further order as the Board thinks fit as to the costs of either party occasioned by the Authority’s request for and the claimant’s failure to supply the further particulars."
+   }
+  },
+  {
+   "id": "SG-H2976-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 6 RIGHTS TO COMPENSATION, CLAIMS PROCEDURE AND ASSESSMENT OF COMPENSATION"
+   },
+   "heading": {
+    "en": "Claims by minor, etc."
+   },
+   "text": {
+    "en": "24. A claim may be brought on behalf of a minor by his or her guardian or guardians, or any of them, and on behalf of a mentally disordered person by the person empowered by law to administer his or her assets."
+   }
+  },
+  {
+   "id": "SG-H2976-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 6 RIGHTS TO COMPENSATION, CLAIMS PROCEDURE AND ASSESSMENT OF COMPENSATION"
+   },
+   "heading": {
+    "en": "Settlement after reference to Compensation Board"
+   },
+   "text": {
+    "en": "25.—(1) At any time after proceedings have been commenced before the Compensation Board but before compensation is finally assessed, the Authority may make a written offer of the kind described in section 23(6)(a) or the claimant may by notice to the Authority offer a sum (inclusive or exclusive of costs) which the claimant is willing to accept in full and final settlement of the claim or any rejected part of the claim.\n(2) Where an offer made by the Authority pursuant to section 23(6)(a) or by the Authority or the claimant pursuant to subsection (1) is not accepted by the other party, no part of the contents of the offer which relates to any part of a claim before the Compensation Board is to be disclosed to the Board until the amount of compensation for that part is assessed by it but a copy of the offer enclosed in a sealed envelope may be lodged with the president and opened by him or her after the Board has made its assessment.\n(3) Where the Authority has made any offer pursuant to section 23(6)(a) which is refused by the claimant or either party has made any offer pursuant to subsection (1) which is refused by the other and the compensation including costs (if any) assessed by the Compensation Board does not exceed the amount of compensation including costs (if any) comprised in the offer, the Board must, unless for special reasons the Board thinks it proper not to do so, order the party who refused the offer to bear the party’s own costs and to pay the costs of the other party insofar as the costs of either party are incurred after the making of the offer."
+   }
+  },
+  {
+   "id": "SG-H2976-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 7 ASSESSMENT AND AWARD OF COMPENSATION"
+   },
+   "heading": {
+    "en": "Establishment of Compensation Board"
+   },
+   "text": {
+    "en": "26.—(1) For the purposes of this Act, there is established a Compensation Board consisting of a president and such number of members, not fewer than 2, as the Minister may think fit.\n(2) The president and every member of the Compensation Board must be appointed by the Minister and upon appointment the names of the president and every member of the Board must be published in the Gazette.\n(3) The president must possess the qualifications required for a District Judge under section 9(3) of the State Courts Act 1970 or be a District Judge appointed under section 9(1) of that Act, and must preside at all sessions of the Compensation Board.\n[5/2014]\n(4) Three members of the Compensation Board of whom the president is one, form a quorum, and the opinion of the majority of the Board present is decisive upon any matter, except that in the case of an equality the president decides which opinion prevails.\n(5) Every member of the Compensation Board, except where his or her appointment is revoked by the Minister under subsection (6) or he or she resigns during the period of his or her appointment, holds office for a period of 3 years or for such shorter period as the Minister may, in any case, determine but is eligible for re‑appointment.\n(6) The Minister may at any time revoke the appointment of a member of the Compensation Board.\n(7) Where a person ceases to be a member of the Compensation Board, the Minister must, as soon as is reasonably practicable, take steps to fill the vacancy but the existence of any vacancy in the Board does not invalidate the acts of the Board.\n(8) Every member of the Compensation Board when and so long as serving on the Board is deemed to be a public servant within the meaning of the Penal Code 1871 and the proceedings of the Board are deemed to be judicial proceedings.\n(9) There must be paid to the members of the Compensation Board such salaries, fees and allowances as the Minister may determine.\n(10) Any interested party may be represented before the Compensation Board —\n(a)by an advocate and solicitor of the Supreme Court;\n(b)subject to the provisions of the Legal Aid and Advice Act 1995, by the Director of Legal Aid or any of his or her officers; or\n(c)in any particular case in which the Board may at the request of that party and for good reason permit, by an agent acting without fee, gain, reward or any expectation thereof as that party may appoint.\n(11) Every summons and notice issued under the hand of the president is deemed to be issued by the Compensation Board.\n(12) The Minister may appoint a secretary of the Compensation Board and such other officers and employees of the Board as may be necessary."
+   }
+  },
+  {
+   "id": "SG-H2976-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 7 ASSESSMENT AND AWARD OF COMPENSATION"
+   },
+   "heading": {
+    "en": "Compensation Board to hear and determine claims"
+   },
+   "text": {
+    "en": "27.—(1) The Compensation Board has jurisdiction to hear and determine in accordance with this Act —\n(a)all claims for compensation which the Authority or the claimant may refer to it under section 23(6); and\n(b)applications provided for by section 22(2).\n(2) The Compensation Board also has jurisdiction to award compensation or any part of it to a claimant if at the time of the award the Board has no notice or intimation of any dispute as to the claimant’s entitlement.\n(3) However, the making of any award under subsection (2) does not affect the entitlement to receive compensation under this Act of any other person who may later be held by a court of competent jurisdiction to have a better title to the compensation or any other part of the compensation other than the person to whom it was awarded."
+   }
+  },
+  {
+   "id": "SG-H2976-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 7 ASSESSMENT AND AWARD OF COMPENSATION"
+   },
+   "heading": {
+    "en": "Power of Compensation Board to examine witness on oath, etc."
+   },
+   "text": {
+    "en": "28. The Compensation Board has powers to examine any witness on oath, to summon any person to appear before it and to require any interested party or witness to produce any relevant document which the Board may require."
+   }
+  },
+  {
+   "id": "SG-H2976-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 7 ASSESSMENT AND AWARD OF COMPENSATION"
+   },
+   "heading": {
+    "en": "Review of awards of Compensation Board"
+   },
+   "text": {
+    "en": "29.—(1) An award of compensation of the Compensation Board may be reviewed, varied or set aside by the Board in any of the following circumstances:\n(a)where an award of compensation was made in consequence of any fraud, misrepresentation or mistake;\n(b)where fresh evidence of a material nature which could not by the exercise of reasonable diligence have been produced when an award of compensation was made is available;\n(c)where an award of compensation was made in the absence of any necessary or proper party whose absence was not due to any default or neglect on the party’s part;\n(d)where in the opinion of the Board some substantial wrong or miscarriage of justice is occasioned by an award of compensation.\n(2) An award must not be reviewed, varied or set aside by the Compensation Board under subsection (1) unless a party aggrieved by the award applies to the Board not later than 2 years from the date of the award."
+   }
+  },
+  {
+   "id": "SG-H2976-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 7 ASSESSMENT AND AWARD OF COMPENSATION"
+   },
+   "heading": {
+    "en": "Power of Compensation Board to state special case for decision of General Division of High Court"
+   },
+   "text": {
+    "en": "30.—(1) The Compensation Board may, at any stage of an application or proceeding before it, reserve for the consideration of the General Division of the High Court any question of law arising in the application or proceeding in the form of a special case which must be —\n(a)drawn up by the president and must set out shortly the facts on which the law is to be applied and the question or questions of law to be determined;\n(b)sent by the president to the Registrar of the Supreme Court; and\n(c)set down for argument in such manner as the General Division of the High Court directs.\n[40/2019]\n(2) The General Division of the High Court is to hear and determine any question of law arising on the special case and thereupon remit the matter to the president with the opinion of the General Division of the High Court on the question and that opinion is binding on the Compensation Board.\n[40/2019]\n(3) The costs of the proceeding in the General Division of the High Court are in the discretion of the General Division of the High Court and may be dealt with by the order of the General Division of the High Court, except that no member of the Compensation Board shall be personally liable to any costs in respect of the proceedings.\n[40/2019]\n(4) Nothing in this section prevents the Compensation Board from determining any question of law arising in the application or proceeding before it."
+   }
+  },
+  {
+   "id": "SG-H2976-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 7 ASSESSMENT AND AWARD OF COMPENSATION"
+   },
+   "heading": {
+    "en": "General Division of High Court may call for proceedings of Compensation Board"
+   },
+   "text": {
+    "en": "31.—(1) The General Division of the High Court, either on its own motion or on the application within 14 days of any party aggrieved by a decision of the Compensation Board on the ground that it is wrong in law, may call for the proceedings and the grounds of the award and give such order thereon, either by directing a fresh hearing or otherwise, as seems necessary to secure that substantial justice is done.\n[40/2019]\n(2) The powers of review conferred upon the General Division of the High Court in this section do not extend to a decision of the Compensation Board as to the quantum of compensation awarded or apportioned under section 27.\n[40/2019]\n(3) There is no further right of appeal from the decision of the General Division of the High Court under this section and under section 30.\n[40/2019]"
+   }
+  },
+  {
+   "id": "SG-H2976-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 8 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Transfer to Authority of property, assets and liabilities of Government"
+   },
+   "text": {
+    "en": "32.—(1) As from 1 September 1995, such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by —\n(a)the Registry of Vehicles;\n(b)the Roads and Transportation Division of the Public Works Department; and\n(c)the Land Transport Division of the Ministry of Communications,\nand all assets, interests, rights, privileges, liabilities and obligations of the Government relating to the Registry of Vehicles, the Roads and Transportation Division of the Public Works Department and the Land Transport Division of the Ministry of Communications are transferred to and vest in the Authority without further assurance.\n(2) If any question arises as to whether any particular property, or whether any particular asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Authority under subsection (1), a certificate under the hand of the Minister for Finance is conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.\n(3) Any immovable property to be transferred to and vested in the Authority under subsection (1) must be held by the Authority upon such tenure and subject to such terms and conditions as the President of Singapore may determine."
+   }
+  },
+  {
+   "id": "SG-H2976-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 8 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Transfer of employees"
+   },
+   "text": {
+    "en": "33.—(1) As from 1 September 1995, such categories of persons employed immediately before that date in —\n(a)the Registry of Vehicles;\n(b)the Roads and Transportation Division of the Public Works Department; and\n(c)the Land Transport Division of the Ministry of Communications,\nas the Minister may determine are transferred to the service of the Authority on terms no less favourable than those enjoyed by them immediately prior to their transfer.\n(2) Until such time as terms and conditions of service are drawn up by the Authority, the scheme and terms and conditions of service in the Government continue to apply to every person transferred to the service of the Authority under subsection (1) as if he or she were still in the service of the Government."
+   }
+  },
+  {
+   "id": "SG-H2976-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 8 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Pension rights, etc., of Government employees to be preserved"
+   },
+   "text": {
+    "en": "34.—(1) The terms and conditions to be drawn up by the Authority must take into account the salaries and terms and conditions of service, including any accrued rights to leave, enjoyed by the persons transferred to the service of the Authority under section 33 while in the employment of the Government; and any such term or condition relating to the length of service with the Authority must provide for the recognition of service under the Government by the persons so transferred to be service by them under the Authority.\n(2) The terms and conditions to be drawn up by the Authority must not adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act 1956.\n(3) In every case where a person has been transferred to the service of the Authority under section 33, the Government is liable to pay to the Authority such portion of any gratuity, pension or allowance payable to that person on his or her retirement as the same bears to the proportion which the aggregate amount of his or her pensionable emoluments during his or her service with the Government bears to the aggregate amount of his or her pensionable emoluments during his or her service under both the Government and the Authority.\n(4) Where any person in the service of the Authority whose case does not fall within the scope of any pension or other schemes established under this section retires or dies in the service of the Authority or is discharged from such service, the Authority may grant to him or her or to such other person or persons wholly or partly dependent on him or her, as the Authority thinks fit, such allowance or gratuity as the Authority may determine.\n(5) Where any person who is transferred to the service of the Authority under section 33 is a contributor under the Widows’ and Orphans’ Pension Act 1904, he or she shall for the purposes of that Act continue to make contributions under that Act as if he or she had not been transferred to the service of the Authority and for the purposes of that Act his or her service with the Authority is deemed to be service with the Government."
+   }
+  },
+  {
+   "id": "SG-H2976-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 8 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "No benefits in respect of abolition or reorganisation of office"
+   },
+   "text": {
+    "en": "35. Despite the provisions of the Pensions Act 1956, no person who is transferred to the service of the Authority under section 33 is entitled to claim any benefit under the Pensions Act 1956 on the ground that he or she has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Authority."
+   }
+  },
+  {
+   "id": "SG-H2976-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 8 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Existing contracts"
+   },
+   "text": {
+    "en": "36. All deeds, bonds, agreements, instruments and arrangements subsisting immediately before 1 September 1995 to which the Government is a party and relating to the Registry of Vehicles, the Roads and Transportation Division of the Public Works Department or the Land Transport Division of the Ministry of Communications or to any person transferred to the service of the Authority under section 33 continue in force on and after that date and are enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Government."
+   }
+  },
+  {
+   "id": "SG-H2976-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 8 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Continuation and completion of disciplinary proceedings"
+   },
+   "text": {
+    "en": "37.—(1) Where on 1 September 1995 any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Authority, the proceedings must be carried on and completed by the Authority; but where on that date any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order or decision had been rendered thereon, the committee must complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before 1 September 1995.\n(2) Any order, ruling or direction made or given by a committee pursuant to this section is treated as an order, a ruling or a direction of the Authority and has the same force or effect as if it had been made or given by the Authority pursuant to the authority vested in the Authority under this Act."
+   }
+  },
+  {
+   "id": "SG-H2976-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 8 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Misconduct or neglect of duty by employee before transfer"
+   },
+   "text": {
+    "en": "38. The Authority may reprimand, reduce in rank, retire, dismiss or punish in any other manner a person who had, while he or she was in the employment of the Government, been guilty of any misconduct or neglect of duty which would have rendered him or her liable to be reprimanded, reduced in rank, retired, dismissed or punished in any other manner if he or she had continued to be in the employment of the Government and if this Act had not been enacted."
+   }
+  },
+  {
+   "id": "SG-H2976-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 9 GENERAL"
+   },
+   "heading": {
+    "en": "Powers of enforcement"
+   },
+   "text": {
+    "en": "39.—(1) In addition to the powers conferred on him or her by any written law specified in the Fifth Schedule, an officer or employee of the Authority may, on declaration of his or her office and production to the person against whom he or she is acting such identification card as the Chief Executive may direct to be carried by officers or employees of the Authority, in relation to any offence under any such written law —\n(a)exercise all the powers of a police officer under sections 81, 92, 93 and 127 of the Road Traffic Act 1961 and all the powers of a duly authorised police officer under section 94 of that Act, and any reference in those sections to a police officer or duly authorised police officer includes a reference to such officer or employee of the Authority;\n(b)require any person whom he or she reasonably believes to have committed an offence under any such written law to furnish evidence of the person’s identity;\n(c)if he or she is generally or specially authorised in writing by the Chief Executive, arrest without warrant any person found committing or whom he or she has reason to believe has committed an offence under any such written law, except as otherwise provided in paragraph (a);\n(d)for the purposes of any such written law, require any person to give any information or produce any book, document or copy thereof in the possession of that person, and may, without fee or reward, inspect, copy or make extracts from the book or document;\n(e)when conducting any investigation under such written law, require, by written order, the attendance before the officer or employee of any person being within the limits of Singapore who from the information given or otherwise appears to be acquainted with the circumstances of the case, and the person so ordered must attend as required; and\n(f)detain or seize any document found in the course of a search under this subsection.\n[3/2017; 20/2019]\n(2) The power of an officer or employee of the Authority to require a person to give any information or document under subsection (1)(d) includes the power —\n(a)to require the person, or any person who is or was an officer or employee of that person, to provide an explanation of the information or document;\n(b)if the information or document is not given, to require the person to state, to the best of the person’s knowledge and belief, where it is; and\n(c)if the information or document is recorded otherwise than in legible form, to require the information or document to be made available to the officer or employee of the Authority in legible form.\n[3/2017]\n(3) For the purposes of subsection (1), if any information or document required by an officer or employee of the Authority is kept in electronic form —\n(a)the power of the officer or employee to inspect the information or document includes the power —\n(i)to access any computer or other equipment (including a mobile telephone) in which the information or document is stored; and\n(ii)to require any person having charge of, or otherwise concerned with the operation of, the computer or equipment to provide assistance in gaining such access; and\n(b)the power of the officer or employee to seize the information or document includes the power —\n(i)to make copies of the information or document in legible or electronic form; and\n(ii)to transfer the content from the information or document to a disk, tape or other storage device.\n[3/2017]\n(4) If an officer or employee of the Authority is unable to make copies of the information or document, or transfer the content from the information or document, under subsection (3), the officer or employee may —\n(a)seize the computer or other equipment (including a mobile telephone) in which the information or document is stored, as evidence in proceedings for an offence under this Act or written law specified in the Fifth Schedule; and\n(b)require any person having charge of, or otherwise concerned with the operation of, the computer or equipment to disclose any password or access code for gaining access to the information or document held in the computer or equipment.\n[3/2017]\n(5) Where any person is arrested by an officer or employee of the Authority under subsection (1), the officer or employee must comply with sections 67 and 68 of the Criminal Procedure Code 2010 as if he or she were a police officer.\n[15/2010]\n(6) A person who —\n(a)refuses to give access to, or assaults, obstructs, hinders or delays, an officer or employee of the Authority in the discharge of his or her duties;\n(b)wilfully misstates or without lawful excuse refuses to give any information, or without lawful excuse refuses to produce any book, document or copy thereof required of him or her by an officer or employee of the Authority under subsection (1); or\n(c)fails to comply with a lawful demand of an officer or employee of the Authority in the discharge of his or her duties,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H2976-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 9 GENERAL"
+   },
+   "heading": {
+    "en": "Proceedings conducted by officers of Authority"
+   },
+   "text": {
+    "en": "40.—(1) Proceedings in respect of any offence under this Act or any written law specified in the Fifth Schedule, or any subsidiary legislation made under this Act or any such written law, may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority who is authorised by the Authority to conduct such proceedings.\n[15/2010; 3/2017; 20/2019]\n(2) The Minister may, by order in the Gazette, amend the Fifth Schedule."
+   }
+  },
+  {
+   "id": "SG-H2976-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 9 GENERAL"
+   },
+   "heading": {
+    "en": "Preservation of secrecy"
+   },
+   "text": {
+    "en": "41.—(1) Except for the purpose of the performance of duties or the exercise of functions or when lawfully required to do so by any court or where required or allowed by the provisions of any written law, a person who is or has been a member, an officer, an employee or an agent of the Authority or a member of a committee of the Authority must not disclose any information relating to the affairs of the Authority or of any other person which has been obtained by the person in the performance of duties or the exercise of functions.\n[5/2018]\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding one year or to both."
+   }
+  },
+  {
+   "id": "SG-H2976-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 9 GENERAL"
+   },
+   "heading": {
+    "en": "Authority’s symbol or representation"
+   },
+   "text": {
+    "en": "42.—(1) The Authority has the exclusive right to the use of such symbol or representation as the Authority may select or devise and to display or exhibit the symbol or representation in connection with its activities or affairs.\n(2) Any person who uses a symbol or representation identical with that of the Authority, or which so resembles the Authority’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or to cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H2976-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 9 GENERAL"
+   },
+   "heading": {
+    "en": "Electronic service system"
+   },
+   "text": {
+    "en": "43.—(1) The Authority may establish a system providing for the electronic service —\n(a)by a person (or an electronic service agent on behalf of that person) on the Authority or an officer of the Authority administering any relevant land transport legislation; or\n(b)by the Authority, or an officer of the Authority administering any relevant land transport legislation, on a person or an electronic service agent on behalf of that person,\nof an application, a notice or other document which is permitted or required by or under any relevant land transport legislation to be served or given.\n[38/2018]\n(2) Rules may be made under section 44 regarding the administration and use of the system provided under this section, including —\n(a)the assignment of authentication codes and accounts to users of the service;\n(b)the circumstances under which authentication codes and accounts of users may be cancelled or suspended;\n(c)the registration of electronic service agents of account holders, including the qualifications to be registered as electronic service agents, and the cancellation and suspension of the registration;\n(d)the manner in which an electronic service agent may be authorised by a person to give or serve on behalf of that person through the electronic service an application, a notice or other document;\n(e)the inspection by the Authority (or any person authorised in writing by the Authority) of records and accounts kept by electronic service agents relating to the use of the system;\n(f)the procedure for the proper use of the system, including the procedure in circumstances where there is a breakdown of the system or an interruption in any electronic service using the system;\n(g)the procedure for correcting any return, estimate, statement, document or information that is electronically served using the system; and\n(h)the fees for —\n(i)the use of the system;\n(ii)the assignment of an authentication code or account to use the system, and the cancellation or suspension of such a code or an account on request;\n(iii)the registration of electronic service agents; and\n(iv)the corrections mentioned in paragraph (g).\n[38/2018]\n(3) Where an application, a notice or other document which is permitted or required by or under any relevant land transport legislation is served electronically using the system provided under subsection (1), the following have effect, despite any Act to the contrary:\n(a)the application, notice or document is deemed for the purposes of that legislation to be served on or given to the recipient at the time when the electronic record of the application, notice or document (as the case may be) enters the recipient’s account with the electronic service;\n(b)where the electronic service is done by an electronic service agent on behalf of any person (called in this section the principal) —\n(i)the application, notice or document is deemed to be served or given with the authority of the principal; and\n(ii)the principal is to be treated to be cognizant of all matters in the application, notice or document,\nunless that principal has, before the electronic service is done, informed the Chief Executive in the prescribed manner that the principal has revoked the authority of the electronic service agent for the serving of the application, notice or document in question;\n(c)where the electronic service of an application, a notice or document which is permitted or required by or under any relevant land transport legislation is done using the authentication code assigned to a person before that person applies to cancel the authentication code —\n(i)the application, notice or document is, for the purposes of that legislation, presumed to have been served or given by that person unless the person adduces evidence to the contrary; and\n(ii)if that person alleges that the person did not serve or give the application, notice or document, the burden lies on the person to adduce evidence of that fact.\n[38/2018]\n(4) Despite any other Act, an electronic record of an application, a notice or document which is permitted or required by or under any relevant land transport legislation that was electronically served using the system provided under subsection (1), or any copy or print‑out of that electronic record, is, in any proceedings under that legislation, admissible as evidence of the facts stated or contained therein if that electronic record, copy or print‑out —\n(a)is certified by the Chief Executive (or an officer of the Authority whom the Chief Executive designates) to contain all or any information filed, submitted or served through the electronic service in accordance with this section; and\n(b)is duly authenticated in the manner specified in subsection (7) or is otherwise authenticated in the manner provided in the Evidence Act 1893 for the authentication of computer output.\n[38/2018]\n(5) Where the electronic record of any document, or a copy or print‑out of that electronic record, is admissible under subsection (4), it must be presumed, until the contrary is proved, that the electronic record, copy or print‑out accurately reproduces the contents of that document.\n[38/2018]\n(6) To avoid doubt, the following do not apply to an electronic record of a document served electronically using the system provided under subsection (1), or any copy or print‑out of that electronic record:\n(a)section 18(7) of the Parking Places Act 1974;\n(b)section 139A of the Road Traffic Act 1961.\n[38/2018]\n(7) For the purposes of this section, a certificate —\n(a)giving the particulars of —\n(i)any person whose authentication code was used to electronically serve the document using the system; or\n(ii)any person or device involved in the production or transmission of the electronic record of the document, or the copy or print‑out;\n(b)identifying the nature of the electronic record or a copy or print‑out; and\n(c)purporting to be signed by the Chief Executive or an officer of the Authority whom the Chief Executive designates at the relevant time,\nis sufficient evidence that the electronic record, copy or print‑out has been duly authenticated, unless the court, in its discretion, calls for further evidence on this issue.\n[38/2018]\n(8) In this section and the rules made for the purposes of this section —\n“authentication code”, in relation to any person, means an identification or identifying code, a password or any other authentication method or procedure which is assigned to that person for the purposes of identifying and authenticating the access to, and use of, the system provided under subsection (1) by that person, and includes one assigned for such purposes in order to file, submit or retrieve a particular document only;\n“electronic record” has the meaning given by the Electronic Transactions Act 2010;\n“relevant land transport legislation”, for any application, notice or document permitted or required by or under such legislation, means —\n(a)this section and any rules made under section 44 for the purposes of this section; or\n(b)any written law specified in the Fifth Schedule which provides for a method for the service of applications, notices or documents of that kind if the recipient consents (expressly or impliedly) to service of an application, a notice or document of that kind in that way.\n[38/2018]"
+   }
+  },
+  {
+   "id": "SG-H2976-A43.001",
+   "no": 43.001,
+   "noLabel": {
+    "en": "43A."
+   },
+   "chapter": {
+    "en": "PART 9 GENERAL"
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "43A.—(1) A document that is permitted or required by this Act to be served on a person may be served as described in this section.\n[38/2018]\n(2) A document may be served on an individual —\n(a)by giving it to the individual personally;\n(b)by sending it by prepaid registered post to the address specified by the individual for the service of documents or, if no address is specified, the individual’s residential address or business address;\n(c)by leaving it at the individual’s residential address with an adult person apparently residing there, or at the individual’s business address with an adult person apparently employed there;\n(d)by affixing a copy of the document in a conspicuous place at the individual’s residential address or business address;\n(e)by sending it by fax to the fax number given by the individual as the fax number for the service of documents under this Act;\n(f)by sending it by email to the individual’s email address;\n(g)by giving an electronic notice to the individual by the individual’s chosen means of notification, stating that the document is available and how the individual may use the individual’s chosen means of access to access the document’s contents; or\n(h)by any other method authorised by rules made under section 44 for the service of documents of that kind if the individual consents (expressly or impliedly) to service of a document of that kind in that way.\n[38/2018]\n(3) A document may be served on a partnership (other than a limited liability partnership) —\n(a)by giving it to any partner or other similar officer of the partnership;\n(b)by leaving it at, or by sending it by prepaid registered post to, the partnership’s business address;\n(c)by sending it by fax to the fax number used at the partnership’s business address;\n(d)by sending it by email to the partnership’s email address;\n(e)by giving an electronic notice to the partnership by the partnership’s chosen means of notification, stating that the document is available and how the partnership may use the partnership’s chosen means of access to access the document’s contents; or\n(f)by any other method authorised by rules made under section 44 for the service of documents of that kind if the partnership consents (expressly or impliedly) to service of a document of that kind in that way.\n[38/2018]\n(4) A document may be served on a body corporate (including a limited liability partnership) or an unincorporated association —\n(a)by giving it to the secretary or other similar officer of the body corporate or unincorporated association, or the limited liability partnership’s manager;\n(b)by leaving it at, or by sending it by prepaid registered post to, the body corporate’s or unincorporated association’s registered office or principal office in Singapore;\n(c)by sending it by fax to the fax number used at the body corporate’s or unincorporated association’s registered office or principal office in Singapore;\n(d)by sending it by email to the body corporate’s or unincorporated association’s email address;\n(e)by giving an electronic notice to the body corporate or unincorporated association by the body corporate’s or unincorporated association’s chosen means of notification, stating that the document is available and how the body corporate or unincorporated association (as the case may be) may use its chosen means of access to access the document’s contents; or\n(f)by any other method authorised by rules made under section 44 for the service of documents of that kind if the body corporate or unincorporated association (as the case may be) consents (expressly or impliedly) to service of a document of that kind in that way.\n[38/2018]\n(5) Service of a document on a person under this section takes effect —\n(a)if the document is sent by fax and a notification of successful transmission is received, on the day of the transmission;\n(b)if the document is sent by email, at the time that the email becomes capable of being retrieved by the person; and\n(c)if the document is sent by prepaid registered post, on the second day after the day the document is posted (even if it is returned undelivered).\n[38/2018]\n(6) However, service of any document under this Act on a person by email or by an electronic notice at the person’s chosen means of notification may be effected only with the person’s prior consent (express or implied) to service in that way.\n[38/2018]\n(7) This section does not apply to documents to be served in proceedings in court for an offence or other matter under this Act.\n[38/2018]\n(8) In this section —\n“business address” means —\n(a)in the case of an individual, the individual’s usual or last known place of business in Singapore; and\n(b)in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore;\n“chosen means of access”, for an addressee on whom is or is to be served a document permitted or required by this Act, means an electronic means the addressee agrees with the person giving or serving the document as the means by which the addressee may access that document’s contents;\n“chosen means of notification”, for an addressee on whom is or is to be served a document permitted or required by this Act, means an electronic means that the addressee nominates to the person giving or serving the document as the means by which the addressee may be notified that such a document has been served on the addressee;\n“email address” means the last email address given by the addressee concerned as the email address for the service of documents under this Act;\n“residential address” means an individual’s usual or last known place of residence in Singapore.\n[38/2018]"
+   }
+  },
+  {
+   "id": "SG-H2976-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 9 GENERAL"
+   },
+   "heading": {
+    "en": "Rules"
+   },
+   "text": {
+    "en": "44.—(1) The Authority may, with the approval of the Minister, make rules for carrying out the purposes and provisions of this Act.\n(2) Without limiting subsection (1), the Authority may, with the approval of the Minister, make rules for or with respect to the following matters:\n(a)the manner of appointment, conduct and discipline and the terms and conditions of service of the officers and employees of the Authority;\n(b)the payment of gratuities and other benefits to officers and employees of the Authority;\n(c)the fees to be charged in respect of anything done or any services rendered by the Authority under or by virtue of this Act, including but not limited to —\n(i)fees in respect of surveys or searches of maps, plans and other documents made or maintained by the Authority;\n(ii)fees in respect of the sale or copying of maps, plans or other documents made or maintained by the Authority; and\n(iii)fees in respect of the supply of information maintained by the Authority in relation to its functions."
+   }
+  },
+  {
+   "id": "SG-H2976-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nSection 5(2)\nConstitution and proceedings of Authority\nAppointment of Chairperson and other members\n1.—(1) The Chairperson and other members of the Authority under section 5 must be appointed by the Minister from among persons who have had experience in public administration or matters relating to land transport.\n(2) The Minister may appoint one of the members to be the Deputy Chairperson; and the Deputy Chairperson so appointed may, subject to such directions as may be given by the Chairperson, exercise all or any of the powers exercisable by the Chairperson under this Act.\n(3) The Minister may appoint the Chief Executive to be a member of the Authority.\nTenure of office of members\n2. A member holds office on such terms and conditions and for such period as the Minister may determine, and is eligible for re‑appointment.\nTemporary members\n3. The Minister may appoint any person to be a temporary member of the Authority during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of any member.\nRevocation of appointment\n4. The Minister may, at any time, revoke the appointment of the Chairperson or any member without giving any reason.\nResignation\n5. Any member may resign from his or her appointment at any time by giving written notice to the Minister.\nChairperson may delegate functions\n6. The Chairperson may, by instrument in writing, authorise any member to exercise any power or perform any function conferred on the Chairperson by or under this Act.\nVacation of office\n7. The office of a member becomes vacant —\n(a)on the member’s death;\n(b)if the member, without sufficient cause (the sufficiency of the cause to be decided by the Authority) fails to attend 3 consecutive meetings of the Authority; or\n(c)if the member becomes in any manner disqualified from membership of the Authority.\nFilling of vacancies\n8. If a member dies, resigns or has his or her appointment revoked or otherwise vacates his or her office before the expiry of the term for which he or she has been appointed, the Minister may appoint a person to fill the vacancy for the remainder of the term for which the vacating member was appointed.\nDisqualification from membership\n9. A person must not be appointed or continue to hold office as a member if he or she —\n(a)is an undischarged bankrupt or has made any arrangement with his or her creditors; or\n(b)has been sentenced to imprisonment for a term of 6 months or more and has not received a free pardon.\nSalaries, etc., payable to members of Authority\n10. There are to be paid to the members out of the funds of the Authority such salaries, fees and allowances as the Minister may determine.\nMeetings of Authority\n11.—(1) The Authority is to meet for the despatch of business at the times and places that the Chairperson may appoint.\n(2) The quorum at every meeting of the Authority is one‑third of the total number of members or 3 members, whichever is the higher.\n(3) A decision at a meeting of the Authority is to be adopted by a simple majority of the members present and voting except that in the case of an equality of votes the Chairperson or member presiding has a casting vote in addition to his or her original vote.\n(4) The Chairperson or in his or her absence the Deputy Chairperson presides at meetings of the Authority.\n(5) Where both the Chairperson and the Deputy Chairperson are absent at a meeting, such member as the Chairperson appoints as an acting Chairperson presides at that meeting.\nVacancies\n12. The Authority may act despite any vacancy in its membership.\nProcedure at meetings\n13. Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Authority may make rules to regulate its own procedure generally, and in particular, regarding the holding and proceedings of meetings, the notice to be given of the meetings, the keeping of minutes and the custody, production and inspection of the minutes.\nValidity of proceedings\n14. The validity of any proceedings of the Authority is not affected by any defect in the appointment of any member.\n[25/2009; 5/2018]"
+   }
+  },
+  {
+   "id": "SG-H2976-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nSections 6(1) and 12(1)(a)\nRevenue of Land Transport Revenue Account\n1. The following fees imposed under the Parking Places Act 1974:\n(a)a fee for the grant or renewal of a licence to maintain or operate a private parking place;\n(b)a fee for the issue of a vehicle parking certificate.\n[Act 31 of 2022 wef 01/11/2022]\n2. All fees for the grant, issue or renewal of a licence to operate the railway or any part of the railway under the Rapid Transit Systems Act 1995.\n3. All fees under section 10 of the Road Traffic Act 1961 for the registration of a vehicle.\n4. All fees for the grant, issue, renewal or replacement of —\n(a)a visitor’s permit mentioned in the Road Traffic (Motor Vehicles, Registration and Licensing) Rules;\n(b)a general licence mentioned in section 28 of the Road Traffic Act 1961;\n(c)any public service vehicle licence mentioned in section 102 of the Road Traffic Act 1961;\n(d)a vocational licence mentioned in section 110 of the Road Traffic Act 1961; and\n(e)a licence under the Road Traffic (ASEAN Member Country‑Registered Goods and Public Service Vehicles Licensing) Rules.\n5. All fees for the inspection of a vehicle under section 87 of the Road Traffic Act 1961.\n6. All fees for the assignment and sealing of identification marks on any vehicle under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules.\n7. [Deleted as obsolete]\n8. The fees for the following, excluding additional transfer fees:\n(a)the transfer of a certificate of entitlement under the Road Traffic (Motor Vehicles, Quota System) Rules;\n(b)the transfer of the residual value of any certificate of entitlement under the Road Traffic (Motor Vehicles, Quota System) Rules;\n(c)the transfer of the benefit of any rebate on the additional registration fee under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules;\n(d)the transfer of a motor vehicle under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules.\n9. All conversion fees under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules for registering a private motor car as an off‑peak car.\n10. All fees relating to an appeal under the Road Traffic (Motor Vehicles, Test) Rules against any refusal of a test certificate.\n11. [Deleted by Act 25 of 2020]\n12. All fees for the towing and transportation of vehicles seized under a warrant under section 30 of the Road Traffic Act 1961.\n13. All fees for the replacement of a licence, permit, certificate or a registration book or card issued under those provisions of the Road Traffic Act 1961, or any rules made under that Act, which falls under the purview of the Minister charged with the responsibility for transport.\n14. All fees for furnishing a copy of or an extract from a vocational licence or for conducting a search or furnishing a copy of an extract from any register relating to a motor vehicle.\n15. All fees for the grant of an exemption under section 142 of the Road Traffic Act 1961.\n16. All performance bonds, guarantees or security deposits furnished and forfeited in connection with any of the following:\n(a)a general licence issued under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules;\n(b)a licence under the Shared Mobility Enterprises (Control and Licensing) Act 2020;\n(c)a licence under the Point‑to‑Point Passenger Transport Industry Act 2019;\n[Act 43 of 2022 wef 08/12/2023]\n(d)a licence under the Electric Vehicles Charging Act 2022.\n[Act 43 of 2022 wef 08/12/2023]\n17. [Deleted by Act 25 of 2020]\n18. [Deleted by Act 25 of 2020]\n19. All fees for the issue of any notice of demand or warrant of attachment under the Street Works Act 1995.\n20. All charges for the conduct of any tests on any private street with a view to declaring it as a public street under the Street Works Act 1995.\n21. All fees, costs and charges prescribed under section 140(2)(p) of the Road Traffic Act 1961 that are payable to the Authority.\n22. All fees and charges prescribed under the Electric Vehicles Charging Act 2022.\n[Act 43 of 2022 wef 08/12/2023]\n23. [Deleted by Act 20 of 2019]\n23A. All fees and charges prescribed under the Shared Mobility Enterprises (Control and Licensing) Act 2020.\n24. All fees payable under the Active Mobility Act 2017.\n25. All fees prescribed under the Point‑to‑Point Passenger Transport Industry Act 2019.\n26. All fees and charges prescribed under the Small Motorised Vehicles (Safety) Act 2020.\n[24/2010; 11/2012; 17/2015; 3/2017; 24/2018; 20/2019; 8/2020; 25/2020]\n[Act 31 of 2022 wef 01/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H2976-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2976-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE\nSections 20, 22(1) and (4) and 22A\nCompensation\nPart 1\nLosses for which compensation may be claimed\nBasis on which compensation is to be assessed\nPersons who may claim compensation for their respective losses\nPeriod within which the claim must be served on the Authority or other person\n1.(a)The loss due to displacement resulting from the exercise of the Authority’s right under section 5 of the Rapid Transit Systems Act 1995 or section 9 of the Street Works Act 1995, or the Authority’s or concessionaire’s right under section 8 of the Cross‑Border Railways Act 2018.\n(a)(i)A displacement payment.\n(ii)All reasonable expenses incurred in removing from the land or building, including but not limited to the reasonable cost of renovating alternative premises for occupation during the period of displacement.\n(a)Any person owning a compensatable interest in the land on the date on which the notice is issued under section 5(2) of the Rapid Transit Systems Act 1995, section 8(3) of the Cross‑Border Railways Act 2018 or section 9(2) of the Street Works Act 1995, as the case may be.\n(a)Before the end of 2 years from the date on which the notice is issued under section 5(2) of the Rapid Transit Systems Act 1995, section 8(3) of the Cross‑Border Railways Act 2018 or section 9(2) of the Street Works Act 1995, as the case may be.\n(b)Any other damage to the land or a building resulting from the exercise of any power in section 5 of the Rapid Transit Systems Act 1995, section 8 of the Cross‑Border Railways Act 2018 or section 9 of the Street Works Act 1995.\n(b)(i)The amount that is, or might be, fairly and reasonably incurred in repairing the damage.\n(ii)The share in the responsibility for the loss or damage attributable to or connected with any power in section 5 of the Rapid Transit Systems Act 1995, section 8 of the Cross‑Border Railways Act 2018 or section 9 of the Street Works Act 1995.\n(b)Same as in item (a) above.\n(b)Before the end of 6 years starting from the date on which the railway to which the notice under section 5 of the Rapid Transit Systems Act 1995, or the cross‑border railway to which the notice under section 8 of the Cross‑Border Railways Act 2018, relates is opened or re‑opened for use by the public, or the street, road structure or road‑related facility to which the notice under section 9(2) of the Street Works Act 1995 relates is opened or re‑opened for use by the public.\n2.(a)Structural damage to any building resulting from the construction or operation of the railway or the construction of a road tunnel under the Street Works Act 1995.\n(a)The amount which is, or might be, fairly and reasonably incurred in repairing the damage.\n(a)Any person owning a compensatable interest in the damaged building.\n(a)Before the end of 6 years from the date of the opening for public traffic of that portion of the railway or road tunnel (as the case may be) from which the damage is alleged to have resulted.\n(b)The loss due to displacement resulting from structural damage mentioned in item (a) above.\n(b)(i)A displacement payment.\n(ii)All reasonable expenses incurred in removing from the land or building, including but not limited to the reasonable cost of renovating alternative premises for occupation during the period of displacement.\n(b)Same as in item (a) above.\n(b)Same as in item (a) above.\n3.Damage to any land or building resulting from the exercise of any power contained in section 9 of the Rapid Transit Systems Act 1995, section 10 of the Cross‑Border Railways Act 2018 or section 12 of the Street Works Act 1995.\nThe amount which is, or might be, fairly and reasonably incurred in repairing the damage.\nAny person owning a compensatable interest in the land or damaged building.\nBefore the end of one year from the date of completion of the work carried out under section 9 of the Rapid Transit Systems Act 1995, section 10 of the Cross‑Border Railways Act 2018 or section 12 of the Street Works Act 1995 (as the case may be) from which the damage or loss is alleged to have resulted.\n4.The cost of altering the course or position of any apparatus and of repairing any street surface pursuant to a notice served under section 10 of the Rapid Transit Systems Act 1995, section 11 of the Cross‑Border Railways Act 2018 or section 29 of the Street Works Act 1995.\nThe cost which is fairly and reasonably incurred in effecting such alteration and repair.\nThe person on whom the notice under section 10 of the Rapid Transit Systems Act 1995, section 11 of the Cross‑Border Railways Act 2018 or section 29 of the Street Works Act 1995, as the case may be, is served.\nBefore the end of one year from the completion of the alteration and repair.\n5.(a)The cost of the removal of any object or structure pursuant to a notice served under section 11 of the Rapid Transit Systems Act 1995, section 12 of the Cross‑Border Railways Act 2018 or section 13 of the Street Works Act 1995 and which was erected and maintained without the contravention of any written law.\n(a)The cost incurred in moving the object or structure and making good that part of the land or building from which it is removed.\n(a)The person on whom the notice under section 11 of the Rapid Transit Systems Act 1995, section 12 of the Cross‑Border Railways Act 2018 or section 13 of the Street Works Act 1995 (as the case may be) is served.\n(a)Before the end of one year from the date of removal.\n(b)The cost of reinstating an object or a structure described in item (a) above or of replacing the same with a similar object or structure.\n(b)The cost incurred in reinstating or replacing the object or structure.\n(b)Same as in item (a) above.\n(b)Before the end of one year from the date of reinstatement or replacement.\n(c)The loss sustained by the removal of an object or a structure which was erected and maintained without the contravention of any written law and is not to be reinstated or replaced with a similar object or structure at the expense of the Authority under item (b) above.\n(c)The amount which might fairly and reasonably be estimated as the cost of reinstating or replacing the object or structure.\n(c)Any person owning a share or interest in the object or structure on the date on which it is removed under section 11(4) of the Rapid Transit Systems Act 1995, section 12(4) of the Cross‑Border Railways Act 2018 or section 13(4) of the Street Works Act 1995, as the case may be.\n(c)Before the end of one year from the date of removal.\nPart 2\nGeneral effect of this Part\n1. The provisions in this Part, where applicable, have effect for the purpose of assessing compensation under Part 1.\nDefinitions applicable to Part 1\n2. In Part 1 —\n“compensatable interest” means the estate or interest of —\n(a)a person having an unexpired term in land (including any further term which could be obtained as of right) of not less than one month or a tenancy or sub‑tenancy terminable (by virtue of any written law or otherwise) by either party by giving not less than one month’s notice;\n(b)a mortgagee in possession;\n(c)the holder of a valid and subsisting option to purchase an interest referred to in paragraph (a) or (d); or\n(d)a purchaser under an agreement for sale and purchase to whom the benefit of an interest referred to in paragraph (a) or (c) has already passed;\n“displacement” means the displacement of a person from land, whether the displacement is temporary or permanent;\n“displacement payment” means a sum equal to the financial loss naturally and reasonably resulting from the displacement of a person from the land.\nNo account of certain financial loss or increase or decrease in value attributable to railway\n3. In the assessment of compensation, no account is to be taken of —\n(a)the financial loss resulting from the interruption of or interference with any trade or business carried on any land; and\n(b)any increase or decrease in the value of land to which the compensation relates which is attributable to —\n(i)the delineation of the land under section 3 of the Rapid Transit Systems Act 1995 or section 5 of the Cross‑Border Railways Act 2018 (as the case may be) as part of the railway area; or\n(ii)the construction or operation of any railway or road.\nRefusal or reduction where Building Control Act 1989 contravened\n4. Compensation may be refused or reduced in respect of any building or part of a building which has been constructed or modified or on which building works have been carried out so as to amount to a contravention of the Building Control Act 1989 within the meaning of that Act.\nCompensation where damage results only partly from railway\n5. The compensation assessed under item 2 or 3 of Part 1 is reduced to such extent as the Compensation Board thinks just and equitable having regard to the share in the responsibility for the loss or damage not attributable to and connected with the railway or tunnel.\nNo compensation under item 5(c) of Part 1 for loss of advertising\n6. Where a sign advertising any business, product, service or activity is removed under section 11(4) of the Rapid Transit Systems Act 1995 or section 12(4) of the Cross‑Border Railways Act 2018 (as the case may be), nothing in item 5(c) of Part 1 is to be construed as conferring upon any person a right to compensation for the loss of any benefit which might have accrued to the person from the advertising of that business, product, service or activity if the sign had not been removed.\nClaim by a mortgagee in possession\n7. Where under this Act a claim for compensation may be made by a mortgagee in possession any compensation received by a mortgagee in possession must be applied by the mortgagee as if it were proceeds of sale of the mortgage security.\nCompensation payable to person within or outside railway area\n8. The compensation referred to in item 2 or 3 of Part 1 may be paid to any person owning a compensatable interest in land situated within or outside the railway area.\n[7/97; 6/2004; 12/2015; 21/2018]"
+   }
+  },
+  {
+   "id": "SG-H2976-A900004",
+   "no": 900004,
+   "noLabel": {
+    "en": "FIFTH SCHEDULE"
+   },
+   "text": {
+    "en": "FIFTH SCHEDULE\nSections 11(8), 39(1) and (4), 40 and 43(8)\nSpecified Acts\nPart 1\n1. Section 17 of the Customs Act 1960.\n2. Section 3 of the Motor Vehicles (Third‑Party Risks and Compensation) Act 1960 and rules 9 and 10 of the Motor Vehicles (Third‑Party Risks and Compensation) Rules.\n3. All provisions of the Rapid Transit Systems Act 1995 and any subsidiary legislation made under that Act.\n4. All provisions of the Cross‑Border Railways Act 2018 and any subsidiary legislation made under that Act.\n5. All provisions of the Road Traffic Act 1961 and any subsidiary legislation made under that Act which are carried out or administered by the Authority, and —\n(a)section 120(3) of that Act — in relation to a contravention of any traffic sign prohibiting or restricting the parking, stopping or waiting of vehicles on roads; and\n(b)section 143(8) of that Act — in relation to a failure to comply with any condition imposed by the Authority on a permit granted under that section.\n6. The following subsidiary legislation made under the Road Traffic Act 1961:\n(a)rules 10, 22, 24, 24A, 24B, 25, 26B, 26C and 28 of the Road Traffic Rules;\n(aa)rule 5 of the Road Traffic (Bicycles, Three-wheeled Pedal Cycles, Trishaws and Recumbent Devices — Construction and Use) Rules 2024 (G.N. No. S 157/2024);\n[S 177/2024 wef 01/03/2024]\n(b)rules 8 and 9 of the Road Traffic (Expressway Traffic) Rules;\n(c)rules 9 and 10 of the Road Traffic (Pedestrian Crossings) Rules; and\n(d)rules 8 and 8A of the Road Traffic (Traffic Signs) Rules.\n[S 1007/2024 wef 27/12/2024]\n7. All provisions of the Street Works Act 1995 and any subsidiary legislation made under that Act.\n8. Sections 41, 24C (repealed by section 18 of the Public Transport Council (Amendment) Act 2015), 54, 56 and 57 of the Public Transport Council Act 1987.\nPart 2\n1. All provisions of the Energy Conservation Act 2012 and any subsidiary legislation made under that Act carried out or administered by the Authority.\n2. All provisions of the Point‑to‑Point Passenger Transport Industry Act 2019 and any subsidiary legislation made under that Act.\n3. Sections 11 and 22 of the Bus Services Industry Act 2015, and all provisions of Parts 4A, 5, 5A and 7A of that Act and any regulations made under that Act for the purposes of Part 4A, 5, 5A or 7A of that Act.\n[S 664/2026 wef 23/09/2026]\n4. All provisions of the Active Mobility Act 2017 and its subsidiary legislation.\n5. All provisions of the Shared Mobility Enterprises (Control and Licensing) Act 2020 and any regulations made under that Act for the purposes of that Act.\n6. All provisions of the Small Motorised Vehicles (Safety) Act 2020 and any regulations made under that Act for the purposes of that Act.\n7. All provisions of the Parking Places Act 1974 and any subsidiary legislation made under that Act.\n8. All provisions of the Electric Vehicles Charging Act 2022 and any subsidiary legislation made under that Act for the purposes of that Act.\n[Act 43 of 2022 wef 08/12/2023]\n[37/2005; 17/2015; 3/2017; 21/2018; 24/2018; 20/2019; 8/2020; 25/2020; S 590/2004; S 63/2006; S 301/2008; S 630/2010; S 310/2012; S 80/2016; S 151/2016; S 364/2016]"
+   }
+  }
+ ]
+}

@@ -1,0 +1,294 @@
+{
+ "id": "PH-H9500",
+ "title": {
+  "zh": null,
+  "en": "An Act Establishing the Philippine Identification System",
+  "orig": "An Act Establishing the Philippine Identification System"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p135",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2018-08-06",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 11055",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 25,
+ "chars": 26302,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2018/ra_11055_2018.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 25 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2018/ra_11055_2018.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 26 条，缺 7）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H9500-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Short Title. - This Act shall be known as the \"Philippine Identification System Act\"."
+   }
+  },
+  {
+   "id": "PH-H9500-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Declaration of Policies. - It is hereby declared the policy of the State to establish a single national identification system referred to as the Philippine Identification System\" or the PhilSys\" for all citizens and resident aliens of the Republic of the Philippines to promote seamless delivery of service, to improve the efficiency, transparency, and targeted delivery of public and social services, to enhance administrative governance, to reduce corruption and curtail bureaucratic red tape to avert fraudulent transactions and misrepresentations to strengthen financial inclusion, and to promote ease of doing business. Towards this end, a resilient digital system shall be deployed to secure the data collected and ensure that the people's right to privacy, confidentiality and other basic rights are at all times upheld and protected.\nIt is also the declared policy of the State to recognize the indispensable role of the private sector as the main engine of national growth and development, and to provide the most appropriate incentives to mobilize private resources for the purpose of promoting the use and ensuring maximum afficiency of the PhilSys as envisioned in this Act."
+   }
+  },
+  {
+   "id": "PH-H9500-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Objectives. - The PhilSys shall primarily established to provide a valid proof of identity for all citizens and resident aliens as a means of simplifying public and private transactions. The PhilSys aims to eliminate the need to present other forms of identification when transacting with the government and the private transactions. The PhilSys aims to eliminate the need to present other forms of identification when transacting with the government and the private sector, subject to appropriate authentication measures based on a biometric identification system.\nFurthermore, the PhilSys shall be a social and economic platform through which all transactions including public and private services can be availed of and shall serve as the link in the promotion of seamless service delivery, enhancing administrative governance, reducing corruption, strengthening financial inclusion, and promoting ease of doing business."
+   }
+  },
+  {
+   "id": "PH-H9500-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Scope and Application. -This Act shall apply to all natural persons in all transactions where the PhilSys Number, Philippine Identification (PhilID), or biometric information is required, presented or used, whether legally ot illegally, within or outside the Republic of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H9500-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Definition of Terms. - As used in this Act:\n(a) Authentication refers to the process of verifying whether online or offline, the identity of an individual against the registry information in the PhilSys or PhilID.\n(b) Biometric exceptions refer to instances whereby a citizen or resident alien is not able to give complete set of biometrics as required by PhilSys but is nevertheless admitted into the PhilSys.\n(c) Biometric information refers to front facing photograph, fingerprint, iris scan and/or such other identifiable features of an individual.\n(d) Cardholder refers to a citizen or resident alien who has been registered under the PhilSys and who has been issued and thus, in possession of the Philippine Identification Card.\n(e) Citizen refers to a Filipino citizen, as defined in the Constitution, including those with dual or multiple citizenships in accordance with Republic Act No. 9225, otherwise known as the \"Citizenship Retention and Re-acquisition Act of 2003\".\n(f) Mobile Registration refers to transportable registration centers.\n(g) Personal information refers to any information whether recorder in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual as defined in Republic Act No. 10173, otherwise known as the \"Data Privacy Act of 2012\".\n(h) Philippine Embassy or Philippine Foreign Service post refers to a diplomatic mission or consular office of the Republic of the Philippines in a foreign country, including the economic and cultural office of the Philippines, or the like , in a foreign territory.\n(i) Record history refers to an entry in the PhilSys consisting of the information regarding a registered person in connection with his or her entries in the system and his or her PhilID, as follows:\n(1) Date of filing of the application for registration and the particular thereof;\n(2) Date of filing of every application for modification and the particular thereof;\n(3) Modification of entry made, the date such modification was made and the document/s or other proof submitted in support thereof;\n(4) Reason for the omission of any entry;\n(5) Dates of issuance, reissuance, and cancellation of the PhilID, and including the reasons therefor;\n(6) Details of authentication request processed by the Philippine Statistics Authority (PSA), including the date the request was made and processed, the requesting entity, and the response provided by PhilSys;\n(7) Disclosure, conveyance, dissemination, publication and use of information by third parties; and\n(8) Other relevant information regarding the registration, modification, and authentication of personal information of a citizen or resident alien under this Act.\n(j) Registered information refers to any personal information regarding a citizen or resident alien recorded in the PhilSys, including biometric information and information about a citizen or resident alien under this Act to be recorded under the PhilSys.\n(k) Registered person refers to a person who has been registered under the PhilSys.\n(l) Registration refers to the person of entering demographic and biometric information of citizens or resident aliens in the Philippines to the system.\n(m) Registration centers refer to necessary facilities to capture both demographic and biometrics information required for PhilSys as enumerated in Section 9 of this Act.\n(n) Resident alien refers to an individual who is not a citizen of the Philippines but has established residence in the Philippines for an aggregate period of more that one hundred eighty (180) days."
+   }
+  },
+  {
+   "id": "PH-H9500-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Philippine Identification System Components. - The PhilSys shall have the following key components:\n(a) PhilSys Number (PSN). - The PSN is a randomly generated, unique, and permanent identification number that will be assigned to every citizen or resident alien upon birth or registration by the PSA. All government agencies, including government-owned or controlled corporations (GOCCs) shall incorporate in their identification systems and databases the PSN of covered individuals which shall be the standard number for the individual across all agencies of the government. The PSN, in print, electronic or any other form, subject to authentication, shall be accepted as sufficient proof of identity.\n(b) The PhilSys Registry. - The PSA, as repository and custodian of all data shall create and maintain a PhilSys Registry that will contain the PSN, registered records, and information of all persons registered in the PhilSys. The information is on the PhilSys Registry shall be classified in a manner that allows safeguards for data privacy and security, access controls, and change management.\n(c) The PhilID. - A non-transferable card shall preferably be issued to all citizens or resident aliens registered under the PhilSys subject to the guidelines to be issued by the PSA:\n(1) Features. - The PhilID shall be the physical medium issued to convey essential information about the person's identity containing on its face the PSN, full name, sex, blood type, marital status, (optional), place of birth, a front facing photograph, date of birth, and address of the individual in whose favor it was issued. All information appearing in the PhilID should match with the registered information in the PhilSys. The PhilID shall contain QR Code which contains some fingerprint information and other security features as safeguards for data privacy and security, and prevention against the proliferation of fraudulent or falsified identification cards. The PSA in consideration of advances in technology, utility, security and confidentiality may, subject to appropriate guidelines that shall be issued on the matter, provide citizens or resident aliens with mobile PhilID.\n(2) Purpose. The PhilID shall serve as the official government-issued identification document of cardholders in dealing with all national government agencies, local government units (LGUs), GOCCs, government financial institution (GFIs), and all private sector entities.\n(3) Fees. - The initial application and issuance as well as the renewal of the PhilID for citizens shall be free of charge.\nA standard fee shall be collected by the issuing agency from resident aliens and on the resissuance of a replacement card: Provided, That the PSA may identify instances wherein fees on replacement card may be waived."
+   }
+  },
+  {
+   "id": "PH-H9500-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "PhilSys Registry Data. - Information to be collected and stored under the PhilSys shall be limited to the following:\n(a) Demographic Data\n(1) Full Name;\n(2) Sex;\n(3) Date of Birth;\n(4) Place of Birth;\n(5) Blood Type;\n(6) Address;\n(7) Filipino or Resident Alien;\n(8) Marital Status (optional);\n(9) Mobile Number (optional); and\n(10) E-mail address (optional).\n(b) Biometrics Information\n(1) Front Facing Photograph;\n(2) Full set of fingerprints;\n(3) Iris scan; and\n(4) If necessary, other indentifiable features of individual as may be deteremined in the implementing rules and regulations (IRR).\nIn case of visual or physical impairment that renders the capturing of the biometric information of the person applying for registration impossible, biometric exceptions shall be employed and allowed by the PSA. The PSA shall issue guidelines for the appropriate age for capturing the biometrics information of minors."
+   }
+  },
+  {
+   "id": "PH-H9500-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "text": {
+    "en": "Registration. One (1) year after the effectivity of this Act, every citizen or resident alien shall reegister personally with the following registration centers that have necessary facilities to capture the information required to be contained in the Registry:\n(a) PSA Regional and Provincial Offices;\n(b) Local Civil Registry Offices (LCROs);\n(c) Government Service Insurance System (GSIS);\n(d) Social Security System (SSS);\n(e) Philippine Health Insurance Corporation (PhilHealth);\n(f) Home Development Mutual Fund (HDMF);\n(g) Commission on Election (COMELEC);\n(h) Philippine Postal Corporation (PHLPost); and\n(i) Other government agencies and GOCCs as may be assigned by the PSA.\nIn the case of Filipino citizens residing abroad, the registration shall be made in the nearest Philippine Embassy or Philippine Foreign Service post, or other registration centers that may be designated by the Department of Foreign Affairs (DFA) in coordination with the PSA.\nSpecial arrangements shall be made for registration of the following:\n(1) Minors;\n(2) Senior Citizens;\n(3) Persons with disability;\n(4) Indigenous Persons; and\n(5) Persons in Institutional Households.\nThe PSA shall also initiate mobile registrations to cater to citizens and resident aliens in remote areas.\nRegistration in the PhilSys is deemed successful and complete upon the issuance of the PSN and confirmation of registration by the PSA."
+   }
+  },
+  {
+   "id": "PH-H9500-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "text": {
+    "en": "Basic Documentary Requirements. The registration centers shall require the presentation of the applicant's birth certificate as a basic documentary requirement for identification of citizens seeking to register with the PhilSys: Provided, That for resident aliens, proof of his her residence in the Philippines shall be required: Provided, further, That in order to ensure easier verification citizens and resident aliens may be allowed to submit an alternative or additional document/s to provide his her identity. Notwithstanding the foregoing, appropriate guidelines shall be issued to ensure that the registration is not prohibitive and restrictive as to unduly defeat the purpose of this Act."
+   }
+  },
+  {
+   "id": "PH-H9500-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "text": {
+    "en": "Change of Entries. - In case of change in any of the entries in the information collected and stored under the PhilSys, citizens or resident aliens shall update their registration information in the manner to be specified by the PSA."
+   }
+  },
+  {
+   "id": "PH-H9500-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "text": {
+    "en": "Authentication. - For purpose of establishing proof of identity for transacting business with any government agency, the presentation of the PhilID or PSN shall constitute sufficient proof thereof, subject to proper authentication. Private entities are likewise mandated to accept the PhilID or PSN as valid proof of identity under the same terms and conditions as above: Provided , That when authentication cannot be performed, without any fault on the part of the cardholder or holder of a PSN, the PSA shall ensure that he or she will not be disadvantaged or prejudices thereby.\nThe PSA shall perform authentication of the PSN of an individual submitted by any requesting entity, in relation to his or her biometric information or demographic information.\nAny requesting entity shall obtain the consent of an individual before collecting his or her identity information for the purpose of athentication. It shall inform the individual submitting his or her identity information the following details, namely: (a) the nature of the information that may be shared upon authentication, and (b) the uses to which the information received during authentication may be put by the requesting entity: Provided, That the information requested shall only be used for the purpose for which it was requested."
+   }
+  },
+  {
+   "id": "PH-H9500-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "text": {
+    "en": "Use of the PhilID/PSN. The PhilID shall be honored and accepted, subject to authentication, in all transactions requiring proof or verification of citizens or resident aliens' identity, such as but not limited to:\n(a) Application for eligibility and access to social welfare and benefits granted by the government;\n(b) Application for services and benefits offered by the GSIS, SSS, PhilHealth, HDMF, and other government agencies;\n(c) Application for passports and driver's license;\n(d) Tax-related transactions;\n(e) Registration and voting identification purposes;\n(f) Admission to an government hospital, health center or similar institution;\n(g) All other government transactions;\n(h) Application for admission in schoo, colleges, learning institutions and universities, whether public or private;\n(i) Application and transaction for employment purposes;\n(j) Opening of bank accounts and other transactions with banks and other financial institutions;\n(k) Verification of cardholder's criminal records and clearances;\n(l) Such other transactions, uses or purposes, as may be defined in the IRR.\nThe PSN and biometrics of an individual, as authenticated through the PhilSys, shall be honored and accepted, notwithstanding the absence or non-presentation of a PhilID."
+   }
+  },
+  {
+   "id": "PH-H9500-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "text": {
+    "en": "Limitations. Proof of identity shall not necessarily be construed as proof of eligibility to avail of certain benefits and services which shall be determined based on applicable rules and regulations of the government authorities/agencies concerned. Issuance of the PSN and or PhilID shall not likewise be construed as inconvertible proof of citizenship."
+   }
+  },
+  {
+   "id": "PH-H9500-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "text": {
+    "en": "Philippine Statistics Authority. The PSA shall be the primarily implementing agency to carry out the provisions of this Act. Overall planning, management and administration of the PhilSys shall be the responsibility of the PSA. It shall issue rules in the implementation and enhancement of the PhilSys, including, but not limited to, registration, authentication and data governance. It shall ensure the integrity and security of the same, in accordance with the provisions of this Act, including all other applicable laws and policies. Th PSA shall issue guidelines and undertake measures to ensure secure, reliable and efficient authentication of PhilSys record upon the request of the authorized government and private entities. Pursuant thereto, the State shall provide for the installation of state-of-the-art biometric machines in all relevant agencies for authentication of data and identity holders, The PSA shall collaborate with LGUs, other government agencies, and GOCCs in order to ensure the registration and enrolment of all citizens and resident aliens into the PhilSys including the indigenous cultural communities/indegenous people (ICCs/IPs) and those located in remote localities.\nThe PhilSys shall be managed, maintained, and administered by the PSA with the technical assistance of the Department of Information abd Communications Technology (DICT). Nothing in this Act prevents the PSA from adopting new but more effective technology, including for registration, authentication and data security, taking into consideration the declared principles and objectives of this Act.\nFor the abovementioned purposes, there shall be established within the PSA and directly under the Office of the National Statistician, a separate office to be headed by the Deputy National Statistician, which shall perform the functions provided for under this Act."
+   }
+  },
+  {
+   "id": "PH-H9500-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "text": {
+    "en": "of the PhilSys and Coordination Council (PSPCC). - The PhilSys Policy and Coordination Council (PSPCC) is organized to formulate policies and guidelines to ensure effective coordination and implementation of the PhilSys. The PSPCC shall be composed of the following:\n(a) Secretary, National Economic and Development Authority (NEDA) - Chairperson\n(b) National Statistician and Civil Registry General PSA - Co-Chairperson\n(c) Undersecretary, Department of Budget and Management (DBM) Vice Chairperson Members:\n(d) Undersecretary DFA\n(e) Undersecretary DICT\n(f) Undersecretary, Department of Finance (DOF)\n(g) Undersecretary, Department of Social Welfare and Development (DSWD)\n(h) Undersecretary, Department of the Interior and Local Government (DILG)\n(i) Chairman, National Privacy Commission (NPC)\n(j) Deputy Governor, Bangko Sentral ng Pilipinas (BSP)\n(k) President and General Manager, GSIS\n(l) President and Chief Executive Officer, PhilHealth\n(m) President and Chief Executive Officer, SSS\n(n) Postmaster General, PHLPost.\nThe PSPCC shall ensure the compatibility of the respective technology infrastructure of different government agencies in order to comply with the requirements of the PhilSys."
+   }
+  },
+  {
+   "id": "PH-H9500-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "text": {
+    "en": "Protection Against Unlawful Disclosure of Information/Records. - No person may disclose, collect, record, convey, disseminate, publish or use any information of registered persons with the PhilSys, give access thereto or give copies thereof to third parties or entities, including law enforcement agencies, national security agencies, or units of the Armed Forces of the Philippines (AFP), except in the following circumstances:\n(a) When the resgitered person has given his or her consent, specific to the purpose prior to the processing; and\n(b) When the compelling interest of public health or safety so requires, relevant information may be disclosed upon order to the public is established and the owner of the information is notified within seventy-two (72) hours of the fact of such disclosure.\nInformation disclosed shall not be used except for the specific purpose for which was authorized and shall not devulged by any person to any third party other thanthe person so authorized.\nPSA must ensure that the information in the PhilSys is used only in accordance with its intended purpose as set forth in this Act.\nAny information obtained as a result of unlawful disclosure under this Act shall be inadmissible in any judicial, quasi-judicial or administrative proceedings.\nRegistered persons may request the PSA to provide access to his her registered information and record history subject to the guidelines and regulations to be issued by the PSA."
+   }
+  },
+  {
+   "id": "PH-H9500-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "text": {
+    "en": "Safeguards on the Philippine Identification System (PhilSys). - The PSA with the technical assistance of the DICT shall be implement reasonable and appropriate organizational, technical and physical security measures to ensure that the information gather for the PhilSys, including information stored in the PhilSys Registry, is protected from or unauthorized access, use, disclose, and against accidental or intentional loss, destruction, or damage. Moreover, PSA hall ensure that individuals are adequately informed upon registration for PhilSys on how their data will be used and how they can access their registered information and record history.\nWhile upholding the confidentiality provisions under Republic Act No. 10625, otherwise known as the \"Philippine Statistical Act of 2013\", all data collated by the PSA under the PhilSys may be used to generate aggregate data or statistical summaries without reference to or identification of any specific individual: Provided, That nothing in this Act shall construed as prohibiting or limiting the sharing or transfer of any personal data that is already authorized or required by law."
+   }
+  },
+  {
+   "id": "PH-H9500-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "text": {
+    "en": "Penal Provision. - Any person or entity who without just and sufficient cause, shall refuse to accept, acknowledge and/or recognize he PhilID or PSN, subject to authentication, as the only official identification of the holder/possessor thereof shall be fined in the amount of Five hundred thousand pesos (P500,000.00).\nAny person who utilizes the PhilID or PSN in an unlawful manner or use the same to commit any fraudulent act or for other unlawful purpose/s shall be punished with imprisonment of not less than six (6) months but more than twi (2) years or a fine of not less than Fifty thousand pesos (₱50,000.00) but not more than Five hundred thousand pesos (₱500,000.00), or both, at the discretion of the court.\nThe penalty of three (3) to six (6) years imprisonment and a fine of One million (₱1,000,000.00) to Three million pesos (₱3,000,000.00) shall be imposed upon any offender found guilty of any of the following acts or omissions:\n(a) The willful submission of or causing to be submitted a fictitious name or false information in the application, renewal, or updating in the PhilSys by any person;\n(b) The unauthorized printing, preparation, or issuance of a PhilID by any person;\n(c) Willful falsification, multilation, alteration, or tampering of the PhilID, by any person;\n(d) The use of the PhilID/PSN or unauthorized possession of a PhilID, without any reasonable excuse by any person other than the one whom it was issued or the possession of a fake, falsified, or altered PhilID; or\n(e) The willful transfer of the PhilID ir the PSN to any other person.\nThe penalty of six (6) years to ten (10) years imprisonment and a fine of Three million pesos (₱3,000,000.00) to Five million pesos (₱5,000,000.00) shall be imposed upon any offender found guilty of any of the following acts or omissions:\n(1) Any person who shall collect or use personal data in violation of Section 12 of this Act;\n(2) Any person who shall willfully use or disclose data or information in violation of Section 17 of this Act; or\n(3) Any person not covered by the succeeding paragraphs who shall access te PhilSys or processdata or information contained therein without any authority.\nIf financial profit resulted from accessing, disclosing, or using the data or information, the guilty person shall, in addition, pay twice the amount gained from such act.\nMalicious disclosure of data or information by officials employees or agents who have the custody or responsibility of maintaining the PhilSys shall be penalized with ten (10) years to fifteen (15) years imprisonment and a fine of Five million pesos (₱5,000,000.00) to Ten million pesos (₱10,000,000,00). If financial profit resulted from such disclosure or processing of the data or information, the guilty person shall, in addition pay twice the amount gained from such act.\nOfficials, employees or agents who have the custody or responsibility of managing or maintaining the PhilSys shall be penalized with three (3) to six (6) years imprisonment and a fine of One million pesos (₱1,000,000.00) to Three million pesos (₱3,000,000.00) if by their own negligence, the PhilSys is accessed by unauthorized persons, or the data or information contained therein is processed without any authority from this Act or any existing law.\nIn all instances, if the violation was committed by government official or employee, the penalty shall include perpetual absolute disqualification from holding any public office or employment in the government, including any GOCCs, and their subsidiaries.\nThe penalties imposed in this section shall be in addition to those imposed on acts or omissions punishable by existing penal and other laws."
+   }
+  },
+  {
+   "id": "PH-H9500-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "text": {
+    "en": "Transitory Provisions. - The PSA shall carry out the implementation of the PhilSys in such manner that the operations of card-issuing government agencies shall not be impeded so as not to unduly delay delivery of public service: Provided, That the PSA shall gradually synchronize and consolidate all existing government-initiated identification system into one integrated and interconnected identification system that will ensure an easier, faster, more reliable and more secure access to information and services."
+   }
+  },
+  {
+   "id": "PH-H9500-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "text": {
+    "en": "Information Campaign. - Within three (3) months from the effectivity of this Act, the PSA, together with the DFA and other government agencies, shall undertake an extensive information campaign to promote the PhilSys to all citizens and resident aliens."
+   }
+  },
+  {
+   "id": "PH-H9500-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "text": {
+    "en": "Funding. - The amount necessary to implement the provisions of this Act shall be included in the General Appropriates Act."
+   }
+  },
+  {
+   "id": "PH-H9500-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "text": {
+    "en": "Implementing Rules and Regulations (IRR). - within sixty (60) days upon approval of this Act, the PSA, in coordination with the members of PSPCC, shall promulgate rules and regulations and exchange existing technologies and best practices on the issuance of the PhilID/PSN, authentication and data security to effectivity implement the provisions of this Act."
+   }
+  },
+  {
+   "id": "PH-H9500-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "text": {
+    "en": "Separability Clause. If any provision, section, or part of this act shall be declared unconstitutional or invalid, such judgment shall not affect, invalidate, or impair any other provisions, sections or parts hereof."
+   }
+  },
+  {
+   "id": "PH-H9500-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "text": {
+    "en": "Repealing Clause. All laws, except Republic Act No. 10173, decrees, orders, rules and regulations, which are inconsistent with the provisions of this Act, are hereby repealed or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H9500-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "text": {
+    "en": "Effectivity. - This Act shall take effect after fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
+   }
+  }
+ ]
+}

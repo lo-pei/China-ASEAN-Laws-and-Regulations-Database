@@ -1,0 +1,78 @@
+{
+ "id": "SG-H825",
+ "title": {
+  "zh": null,
+  "en": "Control of Plants (Analysis and Inspection Service Fees) Rules",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p11",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CPA1993-R8",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 971,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CPA1993-R8?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H825-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Rules may be cited as the Control of Plants (Analysis and Inspection Service Fees) Rules."
+   }
+  },
+  {
+   "id": "SG-H825-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "2. A request to the Director-General to perform any of the services set out in the first column of the Schedule shall be accompanied by the corresponding fee set out in the second column thereof.\n[Act 16 of 2000 wef 01/04/2000]\n[S 219/2019 wef 01/04/2019]"
+   }
+  },
+  {
+   "id": "SG-H825-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nFirst column\nSecond column\n1.Food analysis:\npesticide residue analysis\n$123 per group of pesticides and an additional $80 for every pesticide detected other than dithiocarbamate as total CS2 per sample.\n2.Inspection of fresh fruits and vegetables:\n(a)professional service fee\n(i)$63 per hour or part thereof\n(ii)$133 per hour or part thereof (outside office hours or on an urgent basis)\n(b)technical service fee\n(i)$38 per hour or part thereof\n(ii)$80 per hour or part thereof (outside office hours or on an urgent basis).\n[S 94/2000 wef 03/03/2000]\n[S 91/2001 wef 01/03/2001]\n[G.N. Nos. S 7/99; S 114/99]"
+   }
+  }
+ ]
+}

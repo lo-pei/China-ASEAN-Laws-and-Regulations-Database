@@ -1,0 +1,85 @@
+{
+ "id": "PH-H6125",
+ "title": {
+  "zh": null,
+  "en": "An Act to Empower the Commissioner of Internal Revenue to Require the Payment of the Value-Added Tax Every Month and to Allow Local Government Units to Share in VAT Revenue, Amending for this Purpose Certain Sections of the National Internal Revenue Code",
+  "orig": "An Act to Empower the Commissioner of Internal Revenue to Require the Payment of the Value-Added Tax Every Month and to Allow Local Government Units to Share in VAT Revenue, Amending for this Purpose Certain Sections of the National Internal Revenue Code"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p87",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1992-12-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 7643",
+ "officialCode": null,
+ "topics": [
+  "tax",
+  "administrative"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 2909,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7643_1992.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1992/ra_7643_1992.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H6125-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section 110 of the National Internal Revenue Code, as amended, is hereby further amended to read as follows:\n\"Sec. 110. Return and payment of value-added tax. (a) In general. - Every person liable to pay the value-added tax imposed under this title shall file a quarterly return of the amount of his gross sales or receipts within twenty (20) days following the close of each taxable quarter prescribed for each taxpayer: Provided , That any person whose registration has been cancelled in accordance with Section 107 hereof, shall file a return and pay the tax due thereon within twenty (20) days from the date of cancellation of registration. Only one consolidated return shall be filed by the taxpayer for his principal place of business of head office and all branches.\n\"(b) Where to file the return and pay the tax. - The return shall be filed with and the tax paid to a bank duly accredited by the Commissioner located within the revenue district where the taxpayer is registered or required to register: Provided , however , That VAT-registered persons shall pay the value-added tax on a monthly basis: Provided, further, That in case no accredited bank is located within the revenue district, the return shall be filed with and the tax paid to the revenue district officer, collection agent, or duly authorized treasurer of the municipality where the place of business is located in the order mentioned.\""
+   }
+  },
+  {
+   "id": "PH-H6125-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Sec. 282 of the National Internal Revenue Code, as amended, is hereby further amended to read as follows:\n\"Sec. 282. Disposition of national internal revenue. - National internal revenue collected and not applied as hereinabove provided or otherwise specially disposed of by law shall accrue to the National Treasury and shall be available for the general purposes of the Government, with the exception of the amounts set apart by way of allotment as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991.\n\"In addition to the internal revenue allotment as provided for in the preceding paragraph, fifty percent (50%) of the national taxes collected under Sections 100, 102, 112, 113, and 114 of this Code in excess of the increase in collections for the immediately preceding year shall be distributed as follows: (a) Twenty percent (20%) shall accrue to the city or municipality where such taxes are collected and shall be allocated in accordance with Section 150 of Republic Act No. 7160, otherwise known as the Local Government Code of 1991; and (b) Eighty percent (80%) shall accrue to the National Government.\""
+   }
+  },
+  {
+   "id": "PH-H6125-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "All laws, decrees, orders, rules and regulations, and other issuances inconsistent with this Act are hereby repealed or amended accordingly."
+   }
+  },
+  {
+   "id": "PH-H6125-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect after fifteen (15) days following its complete publication in the Official Gazette or in at least two (2) national newspapers of general circulation, whichever comes earlier."
+   }
+  }
+ ]
+}

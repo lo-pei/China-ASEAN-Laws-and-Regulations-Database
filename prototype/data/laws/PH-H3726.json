@@ -1,0 +1,74 @@
+{
+ "id": "PH-H3726",
+ "title": {
+  "zh": "设立Makato市",
+  "en": "An Act Establishing a Teacher's College in the Municipality of Makato, Province of Aklan and Authorizing the Appropriation of Funds Therefor",
+  "orig": "An Act Establishing a Teacher's College in the Municipality of Makato, Province of Aklan and Authorizing the Appropriation of Funds Therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p53",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1966-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4711",
+ "officialCode": null,
+ "topics": [
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 802,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1966/ra_4711_1966.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1966/ra_4711_1966.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3726-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There shall be established, under the supervision of the Director of Public Schools, a teachers college in the Municipality of Makato, Province of Aklan, to be known as Northern Panay Teachers College, which shall offer such collegiate courses in teacher education as the Director may determine."
+   }
+  },
+  {
+   "id": "PH-H3726-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The sum of six hundred fifty thousand pesos or so much thereof as may be necessary is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said college for the fiscal year nineteen hundred sixty-seven. Thereafter, the sums necessary for its operation and maintenance shall be included in the annual General Appropriations Act."
+   }
+  },
+  {
+   "id": "PH-H3726-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
+   }
+  }
+ ]
+}

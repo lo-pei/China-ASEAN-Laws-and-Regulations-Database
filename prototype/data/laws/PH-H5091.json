@@ -1,0 +1,75 @@
+{
+ "id": "PH-H5091",
+ "title": {
+  "zh": "设立Magallanes市",
+  "en": "An Act Establishing a School of Fisheries in the Municipality of Magallanes, Province of Sorsogon, and Authorizing the Appropriation of Funds Therefor.",
+  "orig": "An Act Establishing a School of Fisheries in the Municipality of Magallanes, Province of Sorsogon, and Authorizing the Appropriation of Funds Therefor."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p72",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1972-09-30",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6593",
+ "officialCode": null,
+ "topics": [
+  "environment",
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1184,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1972/ra_6593_1972.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1972/ra_6593_1972.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H5091-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There shall be established, under the direct supervision of the Director of Vocational Education, a school of fisheries in the Municipality of Magallanes, Province of Sorsogon, to be known as the Magallanes School of Fisheries: Provided, however, That only a general education curriculum with practical arts shall be offered in the first and second years, and the vocational curriculum shall be offered in the third and fourth years: Provided, further, That the school shall offer short vocational courses for training in vocations needed in the locality which shall be open to elementary school graduates: Provided, finally, That the school shall open, as soon as feasible, two-year post secondary technical courses."
+   }
+  },
+  {
+   "id": "PH-H5091-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school during the fiscal year nineteen hundred seventy one. Thereafter, such sum as may be needed for operation and maintenance shall be included in the annual General Appropriations Act."
+   }
+  },
+  {
+   "id": "PH-H5091-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, September 30, 1972"
+   }
+  }
+ ]
+}

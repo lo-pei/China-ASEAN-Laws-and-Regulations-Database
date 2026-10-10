@@ -1,0 +1,64 @@
+{
+ "id": "PH-H4780",
+ "title": {
+  "zh": "设立Villaba市",
+  "en": "An Act Creating Certain Barrios in the Municipality of Villaba, Province of Leyte.",
+  "orig": "An Act Creating Certain Barrios in the Municipality of Villaba, Province of Leyte."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p68",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1971-06-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6193",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 939,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1971/ra_6193_1971.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1971/ra_6193_1971.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4780-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The following sitios in the Municipality of Villaba, Province of Leyte, are hereby converted into barrios, of said municipality, to wit:\na. Sitio Tabunoc, to be known as Barrio Tabunoc;\nb. Sitio Hibulangan, to be known as Barrio Hibulangan;\nc. Sitio Camporog, to be known as Barrio Camporog;\nd. Sitio Payao, to be known as Barrio Payao;\ne. Sitio Cabungahan, to be known as Barrio Cabungahan;\nf. Sitio Tinghob, to be known as Barrio Tinghob;\ng. Sitio Catagbacan, to be known as Barrio Gatagbacan;\nh. Sitio Halas, to be known as Barrio Halas;\ni. Sitio Fatima, to be known as Barrio Fatima;\nj. Sitio Iligay, to be known as Barrio Iligay;\nk. Sitio Baga-Buga to be known as Barrio Baga-Buga;\nl. Sitio Capinyahan, to be known as Barrio Capinyahan;\nm. Sitio Poblacion Norte, to be known as Barrio Poblacion Norte; and\nn. Sitio Poblaeion Sur, to be known as Barrio Poblacion Sur."
+   }
+  },
+  {
+   "id": "PH-H4780-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 19 1971"
+   }
+  }
+ ]
+}

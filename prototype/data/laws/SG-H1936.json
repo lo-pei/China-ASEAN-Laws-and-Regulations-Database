@@ -1,0 +1,68 @@
+{
+ "id": "SG-H1936",
+ "title": {
+  "zh": null,
+  "en": "Income Tax (AT Holdings Pte. Ltd. — Section 13(12) Exemption) Order 2021",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p24",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ITA1947-S677-2021",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1011,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ITA1947-S677-2021?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 2 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1936-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. This Order is the Income Tax (AT Holdings Pte. Ltd. — Section 13(12) Exemption) Order 2021 and is deemed to have come into operation on 24 September 2020."
+   }
+  },
+  {
+   "id": "SG-H1936-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "2.—(1) Income comprising dividends described in sub‑paragraph (2), that is received in Singapore by AT Holdings Pte. Ltd. (a company incorporated in Singapore) from AT Holdings Europe Co‑operative U.A. (a company incorporated in the Netherlands), is exempt from tax.\n(2) Sub-paragraph (1) applies to dividends that are derived from dividends received by AT Holdings Europe Co‑operative U.A., that are in turn derived from profits of the following entities:\n(a)Retail Asset Investment 2 B.V.;\n(b)Bajes Kwartier B.V.;\n(c)Bajes Kwartier Ontwikkeling C.V.;\n(d)Experion Construction Europe B.V.;\n(e)Experion Participaties B.V.;\n(f)Sterpassage Rijswijk Beheer B.V.;\n(g)Sterpassage Rijswijk C.V.\n(3) The exemption under sub‑paragraph (1) is subject to the conditions specified in the letter of approval dated 24 September 2020 addressed to AT Holdings Pte. Ltd."
+   }
+  }
+ ]
+}

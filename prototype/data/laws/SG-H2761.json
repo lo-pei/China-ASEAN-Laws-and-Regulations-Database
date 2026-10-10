@@ -1,0 +1,880 @@
+{
+ "id": "SG-H2761",
+ "title": {
+  "zh": null,
+  "en": "Inland Revenue Authority of Singapore Act 1992",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p35",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act IRASA1992",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 54,
+ "chars": 67153,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/IRASA1992?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 54 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 4 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2761-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Inland Revenue Authority of Singapore Act 1992."
+   }
+  },
+  {
+   "id": "SG-H2761-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“authorised investigating officer” means an officer or employee authorised under section 9(4) to investigate offences under Part 5A;\n[Act 11 of 2024 wef 01/11/2024]\n“Authority” means the Inland Revenue Authority of Singapore established under section 3;\n“Chairperson” means the Chairperson of the Authority and includes any temporary Chairperson of the Authority;\n“chief executive officer” means the chief executive officer of the Authority and includes any person acting in that capacity;\n“Deputy Chairperson” means the Deputy Chairperson of the Authority and includes any temporary Deputy Chairperson of the Authority;\n“electronic service” means the system established under section 29;\n[Act 11 of 2024 wef 01/11/2024]\n“member” means a member of the Authority;\n[Act 11 of 2024 wef 01/11/2024]\n“Scheduled public scheme” means a scheme, introduced by the Government or a statutory body pursuant to which any money, credit, rebate or other grant is to be given, and that is specified in the Second Schedule;\n[Act 11 of 2024 wef 01/11/2024]\n“specially authorised officer” means an authorised investigating officer further authorised under section 9(5) to exercise the powers mentioned in that provision.\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Establishment and incorporation of Inland Revenue Authority of Singapore"
+   },
+   "text": {
+    "en": "3. A body called the Inland Revenue Authority of Singapore is established, which is a body corporate with perpetual succession and a common seal and is by that name capable of —\n(a)suing and being sued;\n(b)acquiring, owning, holding and developing or disposing of property, both movable and immovable; and\n(c)doing and suffering any other acts or things that bodies corporate may lawfully do and suffer."
+   }
+  },
+  {
+   "id": "SG-H2761-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Common seal"
+   },
+   "text": {
+    "en": "4.—(1) All deeds and other documents requiring the seal of the Authority must be —\n(a)sealed with the common seal of the Authority; and\n(b)signed by any 2 members generally or specially authorised by the Authority for the purpose or by one member and the chief executive officer.\n(2) All courts, judges and persons acting judicially are to take judicial notice of the common seal of the Authority affixed to any document and presume that it was duly affixed."
+   }
+  },
+  {
+   "id": "SG-H2761-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Constitution of Authority"
+   },
+   "text": {
+    "en": "5.—(1) The Authority consists of —\n(a)a Chairperson; and\n(b)not less than 5 and not more than 10 other members as the Minister may determine.\n(2) The First Schedule has effect with respect to the Authority, its members and proceedings."
+   }
+  },
+  {
+   "id": "SG-H2761-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Functions of Authority"
+   },
+   "text": {
+    "en": "6.—(1) The functions of the Authority are —\n(a)to act as agent of the Government and provide service in administering, assessing, collecting and enforcing payment of income tax, property tax, estate duty, stamp duties, gambling duties and such other taxes as agreed between the Government and the Authority;\n[Act 1 of 2022 wef 29/07/2022]\n(b)to advise the Government on matters relating to taxation and to liaise with the appropriate Ministries and statutory bodies on such matters;\n(c)to represent Singapore internationally in respect of matters relating to taxation;\n(d)to provide service in respect of the granting of licences or permits by the Comptroller of Property Tax or the Commissioner of Estate Duties under any written law;\n(e)to provide service and advice to the Government and statutory bodies in respect of matters relating to the valuation of immovable properties;\n[Act 11 of 2024 wef 01/11/2024]\n(ea)to administer a Scheduled public scheme for and on behalf of the Government or a statutory body; and\n[Act 11 of 2024 wef 01/11/2024]\n(f)to perform such other functions as are conferred on the Authority by any other written law.\n(2) In addition to the functions imposed by this section, the Authority may undertake such other functions as the Minister may assign to the Authority and in so doing —\n(a)the Authority is deemed to be fulfilling the purposes of this Act; and\n(b)the provisions of this Act apply to the Authority in respect of such functions."
+   }
+  },
+  {
+   "id": "SG-H2761-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Powers of Authority"
+   },
+   "text": {
+    "en": "7.—(1) The Authority has power to do all things necessary or convenient to be done for or in connection with the performance of its functions.\n(2) Without limiting subsection (1), the powers of the Authority include power —\n(a)to enter into contracts;\n(b)to form or participate in the formation of a company;\n(c)to utilise all property of the Authority, movable and immovable, in such manner as the Authority may think expedient, including the raising of loans by mortgaging such property;\n(d)to engage in any activity, either alone or in conjunction with other organisations or international agencies, to promote better understanding of taxation;\n(e)to provide technical advice or assistance, including training facilities, to tax authorities of other countries;\n(f)to make charges for services rendered by the Authority;\n(g)to grant loans to employees of the Authority for any purpose specifically approved by the Authority;\n(h)to provide recreational facilities and promote recreational activities for, and activities conducive to, the welfare of employees of the Authority;\n(i)to provide training for employees of the Authority and to award scholarships or otherwise pay for such training; and\n(j)to do anything incidental to any of its powers."
+   }
+  },
+  {
+   "id": "SG-H2761-A7.001",
+   "no": 7.001,
+   "noLabel": {
+    "en": "7A."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Directions by Minister"
+   },
+   "text": {
+    "en": "7A. The Minister may give to the Authority any direction under section 5 of the Public Sector (Governance) Act 2018.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H2761-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Appointment of committees and delegation of powers"
+   },
+   "text": {
+    "en": "8.—(1) The Authority may appoint from among its own members or other persons who are not members of the Authority any number of committees that it thinks fit consisting of members or other persons or members and other persons for purposes which, in the opinion of the Authority, would be better regulated and managed by means of those committees.\n(2) The Authority may, subject to any conditions or restrictions that it thinks fit, delegate to any such committee or to any member, officer or employee of the Authority, any of the functions or powers of the Authority under this Act.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H2761-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 4 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Chief executive officer, officers and employees, etc."
+   },
+   "text": {
+    "en": "9.—(1) There must be a chief executive officer of the Authority, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.\n[5/2018]\n(2) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the chief executive officer during any period, or during all periods, when the chief executive officer —\n(a)is absent from duty or Singapore; or\n(b)is, for any reason, unable to perform the duties of the office.\n[5/2018]\n(3) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.\n[5/2018]\n(4) The Authority may, by notification, authorise any officer or employee mentioned in subsection (3) to perform or assist in the performance of any duty imposed on the Authority under this Act.\n[Act 11 of 2024 wef 01/11/2024]\n(5) The Authority may further authorise an authorised investigating officer to exercise any power in section 17H(2), (3), (4) or (5), 17I, 17J, 17K or 17L.\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 4 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Protection from personal liability"
+   },
+   "text": {
+    "en": "10. No suit or other legal proceedings shall lie personally against any member, officer or employee of the Authority or other person acting under the direction of the Authority for anything which is in good faith done or intended to be done in the execution or purported execution of this Act."
+   }
+  },
+  {
+   "id": "SG-H2761-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 4 PROVISIONS RELATING TO STAFF"
+   },
+   "text": {
+    "en": "11. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2761-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Funds of Authority"
+   },
+   "text": {
+    "en": "12. The funds of the Authority consist of —\n(a)all moneys received by the Authority for services rendered by the Authority to the Government as its agent or for services rendered by the Authority to any person;\n(b)all moneys received by the Authority by way of grants;\n(c)all moneys derived from the disposal, lease or hire of, or any other dealing with, any property vested in or acquired by the Authority;\n(d)all moneys derived as income from investment by the Authority;\n(e)all moneys borrowed by the Authority under this Act; and\n(f)all other moneys lawfully received by the Authority for the purposes of the Authority."
+   }
+  },
+  {
+   "id": "SG-H2761-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Power to borrow"
+   },
+   "text": {
+    "en": "13.—(1) For the discharge of its functions or duties under this Act or any other written law, the Authority may raise loans from the Government or, with the approval of the Minister, raise loans within or outside Singapore from such source as the Minister may direct by —\n(a)mortgage, overdraft or other means, with or without security;\n(b)charge, whether legal or equitable, on any property vested in the Authority or on any other revenue receivable by the Authority under this Act or any other written law; or\n(c)the creation and issue of debentures, bonds or any other instrument as the Minister may approve.\n(2) For the purposes of this section, the power to raise loans includes the power to make any financial agreement whereby credit facilities are granted to the Authority for the purchase of goods or services."
+   }
+  },
+  {
+   "id": "SG-H2761-A13.001",
+   "no": 13.001,
+   "noLabel": {
+    "en": "13A."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Issue of shares, etc."
+   },
+   "text": {
+    "en": "13A. As a consequence of —\n(a)the vesting of any property, rights or liabilities of the Government in the Authority under this Act; or\n(b)any capital injection or other investment by the Government in the Authority in accordance with any written law,\nthe Authority must issue such shares or other securities to the Minister for Finance as that Minister may direct."
+   }
+  },
+  {
+   "id": "SG-H2761-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Grants"
+   },
+   "text": {
+    "en": "14. For the purpose of enabling the Authority to carry out its functions under this Act, the Minister may make grants‑in‑aid to the Authority of such sums of moneys as the Minister may determine out of moneys to be provided by Parliament."
+   }
+  },
+  {
+   "id": "SG-H2761-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Bank accounts and application of revenue"
+   },
+   "text": {
+    "en": "15.—(1) The Authority must open and maintain an account or accounts with such bank or banks as the Authority thinks fit; and every such account must be operated as far as practicable by cheque signed by such person or persons authorised to do so by the Authority.\n(2) The moneys of the Authority must be applied only in payment or discharge of the expenses, obligations and liabilities of the Authority and in making any payments that the Authority is authorised or required to make."
+   }
+  },
+  {
+   "id": "SG-H2761-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Power of investment"
+   },
+   "text": {
+    "en": "16. The Authority may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965."
+   }
+  },
+  {
+   "id": "SG-H2761-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Financial year"
+   },
+   "text": {
+    "en": "17. The financial year of the Authority begins on 1 April of each year and ends on 31 March of the succeeding year.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H2761-A17.001",
+   "no": 17.001,
+   "noLabel": {
+    "en": "17A."
+   },
+   "chapter": {
+    "en": "PART 5A SCHEDULED PUBLIC SCHEMES"
+   },
+   "heading": {
+    "en": "Application of this Division"
+   },
+   "text": {
+    "en": "17A. This Division applies when a person (called in this Division the recipient) has been given any amount of money, credit, rebate or other grant under a Scheduled public scheme (called in this Division the wrongly given grant), whether before, on or after the date of commencement of section 5 of the Inland Revenue Authority of Singapore (Amendment) Act 2024, to which the recipient is not entitled under the terms of the Scheduled public scheme.\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A17.002",
+   "no": 17.002,
+   "noLabel": {
+    "en": "17B."
+   },
+   "chapter": {
+    "en": "PART 5A SCHEDULED PUBLIC SCHEMES"
+   },
+   "heading": {
+    "en": "Recovery of wrongly given grants"
+   },
+   "text": {
+    "en": "17B. The Authority may recover from the recipient an amount equal in value to the wrongly given grant (called in this Division the claim amount) as a debt due to the Government.\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A17.003",
+   "no": 17.003,
+   "noLabel": {
+    "en": "17C."
+   },
+   "chapter": {
+    "en": "PART 5A SCHEDULED PUBLIC SCHEMES"
+   },
+   "heading": {
+    "en": "Notices for payment of claim amounts"
+   },
+   "text": {
+    "en": "17C. The Authority may at any time give written notice to the recipient to pay the claim amount to the Authority, in the manner specified in the notice and within 30 days after the date of service of the notice or any later time that the Authority may allow in a particular case (called in this Division the payment period).\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A17.004",
+   "no": 17.004,
+   "noLabel": {
+    "en": "17D."
+   },
+   "chapter": {
+    "en": "PART 5A SCHEDULED PUBLIC SCHEMES"
+   },
+   "heading": {
+    "en": "Interest for failure to pay claim amount"
+   },
+   "text": {
+    "en": "17D. If any part of the claim amount is not paid by the recipient within the payment period, the recipient must pay to the Authority, in addition to the amount not paid, interest at the prescribed rate on the outstanding claim amount calculated on a daily basis from the end of the payment period to the date the claim amount is paid to the Authority in full (called in this Division the interest).\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A17.005",
+   "no": 17.005,
+   "noLabel": {
+    "en": "17E."
+   },
+   "chapter": {
+    "en": "PART 5A SCHEDULED PUBLIC SCHEMES"
+   },
+   "heading": {
+    "en": "Remission or refund of claim amount and interest"
+   },
+   "text": {
+    "en": "17E. The Authority may remit or refund the whole or any part of the claim amount or interest.\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A17.006",
+   "no": 17.006,
+   "noLabel": {
+    "en": "17F."
+   },
+   "chapter": {
+    "en": "PART 5A SCHEDULED PUBLIC SCHEMES"
+   },
+   "heading": {
+    "en": "Penalty for giving false or misleading information for obtaining grant, etc., under Scheduled public schemes"
+   },
+   "text": {
+    "en": "17F.—(1) A person commits an offence if, for the purposes of obtaining, or assisting another person to obtain, any money, credit, rebate or other grant under a Scheduled public scheme, the person —\n(a)gives to a public agency any information that is false or misleading in any material particular; or\n(b)omits from any application, form or other document given to a public agency any material particular.\n(2) Any person who is guilty of an offence under subsection (1) shall on conviction pay a penalty equal to the amount of the money, credit, rebate or other grant —\n(a)that is given to the person or the other person (as the case may be) (each called X) under the Scheduled public scheme as a result of the offence, and to which X is not entitled; or\n(b)that would have been given to X under the Scheduled public scheme had the offence not been detected, and to which X is not entitled.\n(3) A person commits an offence if, for the purposes of obtaining, or assisting another person to obtain, any money, credit, rebate or other grant under a Scheduled public scheme, the person, without reasonable excuse or through negligence —\n(a)gives to a public agency any information that is false or misleading in any material particular; or\n(b)omits from any application, form or other document given to a public agency any material particular.\n(4) Any person who is guilty of an offence under subsection (3) shall on conviction —\n(a)pay a penalty equal to double the amount of the money, credit, rebate or other grant —\n(i)that is given to the person or the other person (as the case may be) (each called X) under the Scheduled public scheme as a result of the offence, and to which X is not entitled; or\n(ii)that would have been given to X under the Scheduled public scheme had the offence not been detected, and to which X is not entitled; and\n(b)be liable to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.\n(5) A person commits an offence if the person, wilfully with intent to obtain, or to assist another person to obtain, any money, credit, rebate or other grant under a Scheduled public scheme —\n(a)gives to a public agency any information that is false or misleading in any material particular; or\n(b)omits from any application, form or other document given to a public agency any material particular.\n(6) Any person who is guilty of an offence under subsection (5) shall on conviction —\n(a)pay a penalty equal to 3 times the amount of the money, credit, rebate or other grant —\n(i)that is given to the person or the other person (as the case may be) (each called X) under the Scheduled public scheme as a result of the offence, and to which X is not entitled; or\n(ii)that would have been given to X under the Scheduled public scheme had the offence not been detected, and to which X is not entitled; and\n(b)be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.\n(7) In this section, “public agency” means —\n(a)an Organ of State or a ministry or department of the Government;\n(b)a public officer;\n(c)a public authority established by or under any public Act for a public purpose (other than a Town Council); or\n(d)a member, an officer or an employee, or any department, of such a public authority.\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A17.007",
+   "no": 17.007,
+   "noLabel": {
+    "en": "17G."
+   },
+   "chapter": {
+    "en": "PART 5A SCHEDULED PUBLIC SCHEMES"
+   },
+   "heading": {
+    "en": "Authority may require documents and information"
+   },
+   "text": {
+    "en": "17G.—(1) The Authority may, for the purposes of administering any Scheduled public scheme, give written notice to any person to give to the Authority, within a reasonable time specified in the notice, any documents or information as to any person’s entitlement to be given any money, credit, rebate or other grant under the Scheduled public scheme.\n(2) Any person who, without reasonable excuse, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —\n(a)to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both; and\n(b)in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction.\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A17.008",
+   "no": 17.008,
+   "noLabel": {
+    "en": "17H."
+   },
+   "chapter": {
+    "en": "PART 5A SCHEDULED PUBLIC SCHEMES"
+   },
+   "heading": {
+    "en": "Power to obtain information"
+   },
+   "text": {
+    "en": "17H.—(1) Whenever the chief executive officer or an authorised investigating officer has reasonable cause to suspect that a person (called in this section the relevant person) is committing or has committed an arrestable offence under this Part, the chief executive officer or authorised investigating officer —\n(a)has at all times full and free access to all buildings and places at which the relevant person is suspected of committing or having committed the arrestable offence;\n(b)has at all times full and free access to the documents, computers, computer programs and computer software (whether installed in a computer or otherwise) that are suspected of being used or having been used in connection with, or containing or having contained evidence relating to, the arrestable offence;\n(c)has access to any information, code or technology which has the capability of retransforming or unscrambling encrypted data contained in or available to such computers into readable and comprehensive format or text;\n(d)is entitled —\n(i)to inspect, copy or make extracts from any such document, computer, computer program, computer software or computer output without fee or reward; and\n(ii)at any reasonable time to inspect and check the operation of any computer, device, apparatus or material that is suspected of being used or having been used in connection with the arrestable offence;\n(e)may take possession of any such document, computer, device, apparatus, material, computer program or computer software if in his or her opinion —\n(i)the inspection, checking, copying or extraction cannot reasonably be performed without taking possession;\n(ii)any such items may be interfered with or destroyed unless possession is taken; or\n(iii)any such items may be required as evidence in proceedings for an offence under this Part;\n(f)is entitled to require —\n(i)the person by whom or on whose behalf the computer is or has been used, or any person having charge of, or otherwise concerned with the operation of the computer, device, apparatus or material to provide the chief executive officer or authorised investigating officer with any reasonable assistance that the chief executive officer or authorised investigating officer may require for the investigation of the arrestable offence; and\n(ii)any person in possession of decryption information to grant the chief executive officer or authorised investigating officer access to any decryption information necessary to decrypt data required for the investigation of the arrestable offence; and\n(g)is entitled to require a person in or at the building or place, and who appears to the chief executive officer or authorised investigating officer to be acquainted with any facts or circumstances that are relevant to the investigation of the arrestable offence, to do one or both of the following:\n(i)answer any question to the best of the person’s knowledge, information and belief;\n(ii)take reasonable steps to produce a document for inspection.\n(2) Subject to subsection (3), the chief executive officer or a specially authorised officer may, for the purpose of investigating an arrestable offence under this Part, break open any outer or inner door or window, or use any other reasonable means, to gain entry to a building or place.\n(3) The chief executive officer or specially authorised officer may only exercise the power under subsection (2) if —\n(a)he or she has reason to believe that there is in that building or place any document or thing that may be, or that contains information that may be —\n(i)relevant to the investigation of the arrestable offence; or\n(ii)required as evidence in proceedings for the arrestable offence being investigated;\n(b)he or she has reason to believe that the document or thing is likely to be concealed, removed or destroyed, or the information is likely to be deleted, by any person; and\n(c)he or she is unable to gain entry to that building or place after stating his or her authority and purpose and demanding such entry.\n(4) To avoid doubt, the chief executive officer or a specially authorised officer who has gained entry to a building or place by exercising his or her power under subsection (2) for the purpose of investigating an arrestable offence under this Part may exercise any of his or her powers under subsection (1) after such entry for the purpose of that investigation.\n(5) The chief executive officer or a specially authorised officer may, after gaining entry to a building or place under subsection (1) or (2) for the purpose of investigating an arrestable offence under this Part, search or cause to be searched a person found in the building or place for any document or thing which may be relevant to the investigation of the arrestable offence, or is required as evidence in proceedings for that arrestable offence.\n(6) A woman must not be searched except by a woman.\n(7) A person is not obliged under this section to disclose (including through the production of a document) —\n(a)any information that the person is under any statutory obligation (other than sections 128, 128A, 129 and 131 of the Evidence Act 1893) to observe secrecy; or\n(b)any information subject to legal privilege.\n(8) The chief executive officer or an authorised investigating officer may by written notice given to a person, require the person to give —\n(a)orally or in writing; or\n(b)with the prior written consent of the person, through the electronic service,\na document or any information that is relevant to an investigation of, or the prosecution of a person for, an offence under this Part.\n(9) The time for compliance with a written notice under subsection (8) is 21 days after the date of service of the notice or any other period that the chief executive officer or authorised investigating officer considers appropriate.\n(10) The chief executive officer or an authorised investigating officer may by written notice require any person to attend personally before the chief executive officer or authorised investigating officer, at the place and time specified in the notice, to do one or both of the following:\n(a)provide, to the best of that person’s knowledge, information and belief, any information that is relevant to an investigation of, or the prosecution of a person for, an offence under this Part;\n(b)take reasonable steps to produce for inspection any document that contains such information.\n(11) The power to require a person to provide information or produce a document under subsection (1)(g) or (8), or when in attendance before the chief executive officer or an authorised investigating officer pursuant to a written notice under subsection (10), includes the power —\n(a)to require that person, or any person who is or was an officer or employee of that person, to provide an explanation of the information or document;\n(b)if the information is not provided or the document is not produced, to require that person to state, to the best of the person’s knowledge and belief, where it is;\n(c)if the information is recorded otherwise than in legible form, to require the information to be made available to the chief executive officer or authorised investigating officer (as the case may be) in legible form; and\n(d)in the case of a document, to inspect, copy or make extracts from the document without fee or reward, and to take possession of the document if, in the chief executive officer’s or authorised investigating officer’s opinion —\n(i)the inspection, copying or extraction cannot reasonably be performed without taking possession of the document;\n(ii)the document may be interfered with or destroyed unless possession of the document is taken; or\n(iii)the document may be required as evidence in proceedings for an offence under this Part.\n(12) A statement made by any person asked under subsection (1)(g)(i), or when in attendance before the chief executive officer or an authorised investigating officer pursuant to a written notice under subsection (10), must —\n(a)be reduced to writing;\n(b)be read over to the person;\n(c)if the person does not understand English, be interpreted for the person in a language that the person understands; and\n(d)be signed by the person.\n(13) Any person who, without reasonable excuse, contravenes any notice or requirement of the chief executive officer or an authorised investigating officer under this section shall be guilty of an offence and shall be liable on conviction —\n(a)to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both; and\n(b)in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction.\n(14) The generality of the term “reasonable excuse” in subsection (13) is not affected by subsection (7).\n(15) Any person who, without reasonable excuse, hinders or obstructs the chief executive officer or an authorised investigating officer in the performance or execution of his or her duties or of anything that he or she is empowered or required to do under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.\n(16) Except as provided under subsection (7), it is not a defence to a charge under subsection (13) for a failure to provide any information or produce any document under any notice or requirement under this section, that the person is under a duty of secrecy in respect of that information or the contents of that document (called in this section a displaced duty of secrecy).\n(17) A person who in good faith complies with any notice or requirement under this section is not treated as being in breach of a displaced duty of secrecy.\n(18) No civil or criminal action for a breach of a displaced duty of secrecy, other than a criminal action for an offence under subsection (19), lies against the person mentioned in subsection (17) —\n(a)for producing any document or providing any information if the person had done so in good faith in compliance with the notice or requirement under this section; or\n(b)for doing or omitting to do any act if the person had done or omitted to do the act in good faith and as a result of complying with the notice or requirement under this section.\n(19) Any person who, in purported compliance with a notice or requirement of the chief executive officer or an authorised investigating officer under this section, produces any document which contains any information, or provides any information, known to the person to be false or misleading in a material particular —\n(a)without indicating to the chief executive officer or the authorised investigating officer that the information is false or misleading and the part that is false or misleading; and\n(b)without providing correct information to the chief executive officer or the authorised investigating officer if the person is in possession of, or can reasonably acquire, the correct information,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.\n(20) In this section —\n“advocate and solicitor” means an advocate and solicitor within the meaning of the Legal Profession Act 1966;\n“arrestable offence” means an offence for which the chief executive officer or a specially authorised officer may ordinarily arrest without warrant under section 17I(1);\n“computer” and “computer output” have the meanings given by section 2(1) of the Computer Misuse Act 1993;\n“document” includes, in addition to a document in writing —\n(a)any map, plan, graph or drawing;\n(b)any photograph;\n(c)any label, marking or other writing which identifies or describes anything of which it forms a part, or to which it is attached by any means;\n(d)any disc, tape, soundtrack or other device in which sounds or other data (not being visual images) are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced from it;\n(e)any film (including microfilm), negative, tape, disc or other device in which one or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced from it; and\n(f)any paper or other material on which there are marks, impressions, figures, letters, symbols or perforations having a meaning for persons qualified to interpret them;\n“information subject to legal privilege” means —\n(a)communications between an advocate and solicitor and his or her client or any person representing his or her client made in connection with the giving of legal advice to the client; and\n(b)communications between —\n(i)an advocate and solicitor and his or her client or any person representing his or her client; or\n(ii)an advocate and solicitor or his or her client or any person representing his or her client, and any other person,\nmade in connection with, or in contemplation of, judicial proceedings and for the purposes of such proceedings,\nwhen such communications are in the possession of a person who is entitled to possession of them, but excluding, in any case, any communications made with the intention of furthering a criminal purpose;\n“writing” includes any mode of representing or reproducing words, figures, drawings or symbols in a visible form.\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A17.009",
+   "no": 17.009,
+   "noLabel": {
+    "en": "17I."
+   },
+   "chapter": {
+    "en": "PART 5A SCHEDULED PUBLIC SCHEMES"
+   },
+   "heading": {
+    "en": "Arrest of persons"
+   },
+   "text": {
+    "en": "17I.—(1) The chief executive officer or a specially authorised officer (called in this section and sections 17J, 17K and 17L an arresting officer), may arrest without warrant any person whom the arresting officer reasonably believes —\n(a)has committed any offence under section 17F(5); or\n(b)is doing any of the following:\n(i)destroying or attempting to destroy any document or thing with a view to hindering or obstructing the chief executive officer or an authorised investigating officer in the exercise of his or her powers;\n(ii)deleting or attempting to delete any information contained in any thing with a view to hindering or obstructing the chief executive officer or an authorised investigating officer in the exercise of his or her powers;\n(iii)resisting or attempting to resist, without reasonable excuse, the taking of any document or thing by the chief executive officer or an authorised investigating officer in the exercise of his or her powers,\nbeing any document, thing or information that may be relevant to an investigation of an offence under this Part, or that may be required as evidence in proceedings for an offence under this Part.\n(2) An arresting officer may search or cause to be searched an arrested person.\n(3) A woman must not be searched except by a woman.\n(4) An arresting officer making an arrest must, without unnecessary delay and subject to subsection (7) and the regulations mentioned in subsection (9), take or send an arrested person before a Magistrate’s Court.\n(5) An arresting officer must not detain in custody an arrested person for a longer period than under the circumstances of the case is reasonable.\n(6) Such period must not exceed 48 hours, excluding the time necessary for the journey from the place of arrest to the Magistrate’s Court.\n(7) An arrested person must not be released except —\n(a)on the person’s own bond;\n(b)on bail by a Magistrate or an arresting officer; or\n(c)under the special order in writing by a Magistrate or an arresting officer.\n(8) If any arrested person escapes, he or she may, at any time afterwards, be arrested in accordance with this section and section 17J.\n(9) The Authority, with the approval of the Minister, may make regulations under section 31 to provide for —\n(a)any matter relating to the release of any person on any bond, bail or special order under subsection (7); and\n(b)the arrest of any person with or without warrant by an arresting officer for a breach of the conditions of a bond, bail or special order or other specified circumstances.\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A17.01",
+   "no": 17.01,
+   "noLabel": {
+    "en": "17J."
+   },
+   "chapter": {
+    "en": "PART 5A SCHEDULED PUBLIC SCHEMES"
+   },
+   "heading": {
+    "en": "No unnecessary restraint"
+   },
+   "text": {
+    "en": "17J.—(1) In making an arrest, an arresting officer must touch or confine the body of a person to be arrested unless the person submits to arrest by word or action.\n(2) If the person forcibly resists or tries to evade arrest, the arresting officer may use all reasonable means necessary to make the arrest.\n(3) An arrested person must not be subject to more restraint than is necessary to prevent the person’s escape.\n(4) An arresting officer may use handcuffs or any similar means of restraint on an arrested person to prevent the person from —\n(a)inflicting any bodily injury to himself or herself or others;\n(b)damaging any property;\n(c)creating any disturbance; or\n(d)escaping from custody.\n(5) The handcuffs or means of restraint must not be used for the purpose of punishment.\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A17.011",
+   "no": 17.011,
+   "noLabel": {
+    "en": "17K."
+   },
+   "chapter": {
+    "en": "PART 5A SCHEDULED PUBLIC SCHEMES"
+   },
+   "heading": {
+    "en": "Arresting officer to be armed"
+   },
+   "text": {
+    "en": "17K. An arresting officer may be provided with such batons and accoutrements as may be necessary for the effective discharge of his or her duties under sections 17I and 17J.\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A17.012",
+   "no": 17.012,
+   "noLabel": {
+    "en": "17L."
+   },
+   "chapter": {
+    "en": "PART 5A SCHEDULED PUBLIC SCHEMES"
+   },
+   "heading": {
+    "en": "Search of place entered by person sought to be arrested"
+   },
+   "text": {
+    "en": "17L.—(1) If an arresting officer has reason to believe that a person to be arrested under section 17I(1) is inside any building or place and demands entry to that building or place, any person who resides in or is in charge of the building or place must allow the arresting officer free entry and provide all reasonable facilities for a search in it.\n(2) If entry to that building or place cannot be gained under subsection (1), it is lawful for the arresting officer to enter and search the building or place.\n(3) For the purposes of subsection (2), if an arresting officer —\n(a)has stated his or her authority and purpose and demanded entry to a building or place; but\n(b)is unable to obtain entry,\nhe or she may break open any outer or inner door or window, or use any other reasonable means, to gain such entry.\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A17.013",
+   "no": 17.013,
+   "noLabel": {
+    "en": "17M."
+   },
+   "chapter": {
+    "en": "PART 5A SCHEDULED PUBLIC SCHEMES"
+   },
+   "heading": {
+    "en": "Arrested person may be examined orally"
+   },
+   "text": {
+    "en": "17M.—(1) The chief executive officer or an authorised investigating officer (called in this section an examining officer) may examine orally a person arrested under section 17I(1).\n(2) A person examined by an examining officer need not state anything that —\n(a)the person is under any statutory obligation (other than sections 128, 128A, 129 and 131 of the Evidence Act 1893) to observe secrecy; or\n(b)is information subject to legal privilege.\n(3) A statement made by an arrested person must —\n(a)be reduced to writing;\n(b)be read over to the person;\n(c)if the person does not understand English, be interpreted for the person in a language that the person understands; and\n(d)be signed by the person.\n(4) Any person who, without reasonable excuse, fails or refuses to answer any question when examined under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.\n(5) The generality of the term “reasonable excuse” in subsection (4) is not affected by subsection (2).\n(6) Except as provided under subsection (2), it is not a defence to a charge under subsection (4) for a failure to provide any information required by an examining officer that the person is under a duty of secrecy in respect of that information (called in this section a displaced duty of secrecy).\n(7) A person who in good faith provides information required by an examining officer under subsection (1) is not treated as being in breach of a displaced duty of secrecy.\n(8) No civil or criminal action for a breach of a displaced duty of secrecy, other than a criminal action for an offence under subsection (9), lies against the person mentioned in subsection (7) for providing any information if the person had done so in good faith in compliance with a requirement of an examining officer under subsection (1).\n(9) Any person who, in purported compliance with a requirement of an examining officer under subsection (1), provides any information known to the person to be false or misleading in a material particular —\n(a)without indicating to the examining officer that the information is false or misleading and the part that is false or misleading; and\n(b)without providing correct information to the examining officer if the person is in possession of, or can reasonably acquire, the correct information,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.\n(10) In this section, “information subject to legal privilege” has the meaning given by section 17H(20).\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A17.014",
+   "no": 17.014,
+   "noLabel": {
+    "en": "17N."
+   },
+   "chapter": {
+    "en": "PART 5A SCHEDULED PUBLIC SCHEMES"
+   },
+   "heading": {
+    "en": "Disposal of item given or seized"
+   },
+   "text": {
+    "en": "17N.—(1) Any item given to or seized by the chief executive officer or an authorised investigating officer under section 17G or 17H must —\n(a)where the item is produced in any criminal proceedings, be dealt with in accordance with section 364 of the Criminal Procedure Code 2010; or\n(b)in any other case, be dealt with in accordance with subsections (2), (3) and (4).\n(2) The chief executive officer or an authorised investigating officer must serve a written notice on the owner of the item instructing the owner to take custody of it within the period specified in the notice, which must be at least 5 days after the date of service of the notice.\n(3) If the owner fails to take custody of the item within the period specified in the notice, or where the owner is unknown or cannot be found, then —\n(a)if the item is a document (other than one specified in paragraph (d) or (e) of the definition of “document” in section 17H(20)), the item may be disposed of in any manner that the chief executive officer directs; or\n(b)if the item is anything not specified in paragraph (a), the chief executive officer must make a report of this to a Magistrate.\n(4) The Magistrate to whom a report is made under subsection (3)(b) may order the item to be forfeited or disposed of in any manner that the Magistrate thinks fit.\n(5) This section does not affect any right to retain or dispose of any item which may exist in law apart from this section.\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Transfer to Authority of property, assets and liabilities of Inland Revenue Department"
+   },
+   "text": {
+    "en": "18.—(1) As from 1 September 1992, all movable property vested in the Government immediately before that date and used or managed by the Inland Revenue Department, and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to that Department (other than those in connection with taxes or licence fees for which the Department is responsible) are transferred to and vest in the Authority without further assurance.\n(2) If any question arises as to whether any particular property, or whether any particular asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Authority under subsection (1), a certificate under the hand of the Minister for Finance is conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested."
+   }
+  },
+  {
+   "id": "SG-H2761-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Transfer of employees"
+   },
+   "text": {
+    "en": "19.—(1) As from 1 September 1992, such categories of persons employed immediately before that date in the Inland Revenue Department as the Minister may determine are transferred to the service of the Authority on terms not less favourable than those enjoyed by them immediately prior to their transfer.\n(2) Until such time as terms and conditions of service are drawn up by the Authority, the scheme and terms and conditions of service in the Government continue to apply to every person transferred to the service of the Authority under subsection (1) as if the person were still in the service of the Government."
+   }
+  },
+  {
+   "id": "SG-H2761-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Pension rights, etc., of Government employees to be preserved"
+   },
+   "text": {
+    "en": "20.—(1) The terms and conditions to be drawn up by the Authority must take into account the salaries and terms and conditions of service, including any accrued rights to leave, enjoyed by the persons transferred to the service of the Authority under section 19 while in the employment of the Government; and any such term or condition relating to the length of service with the Authority must provide for the recognition of service under the Government by the persons so transferred to be service by them under the Authority.\n(2) Nothing in the terms and conditions to be drawn up by the Authority is to adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act 1956.\n(3) In every case where a person has been transferred to the service of the Authority under section 19, the Government is liable to pay to the Authority such portion of any pension, gratuity or allowance payable to such person on that person’s retirement as the same bears to the proportion which the aggregate amount of that person’s pensionable emoluments during that person’s service with the Government bears to the aggregate amount of that person’s pensionable emoluments during that person’s service under both the Government and the Authority.\n(4) Where any person in the service of the Authority whose case does not fall within the scope of any pension or other schemes established under this section retires or dies in the service of the Authority or is discharged from such service, the Authority may grant to that person or to such other person or persons wholly or partly dependent on that person, as the Authority thinks fit, such gratuity or allowance as the Authority may determine.\n(5) Where any person who is transferred to the service of the Authority under section 19 is a contributor under the Widows’ and Orphans’ Pension Act 1904, that person must for the purposes of that Act continue to make contributions under that Act as if that person had not been transferred to the service of the Authority and for the purposes of that Act that person’s service with the Authority is deemed to be service with the Government."
+   }
+  },
+  {
+   "id": "SG-H2761-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "No benefits in respect of abolition or reorganisation of office"
+   },
+   "text": {
+    "en": "21. Despite the provisions of the Pensions Act 1956, no person who is transferred to the service of the Authority under section 19 is entitled to claim any benefit under the Pensions Act 1956 on the ground that that person has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Authority."
+   }
+  },
+  {
+   "id": "SG-H2761-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Existing contracts"
+   },
+   "text": {
+    "en": "22. All deeds, bonds, agreements, instruments and arrangements, subsisting immediately before 1 September 1992, to which the Government is a party and relating to the Inland Revenue Department or to any person transferred to the service of the Authority under section 19, continue in force on and after that date and are enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Government."
+   }
+  },
+  {
+   "id": "SG-H2761-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Continuation and completion of disciplinary proceedings"
+   },
+   "text": {
+    "en": "23.—(1) Where on 1 September 1992 any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Authority, the proceedings may be carried on and completed by the Authority; but where on that date any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order or decision had been rendered on that matter, the committee may complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before that date.\n(2) An order, ruling or direction made or given by a committee pursuant to this section is treated as an order, ruling or direction of the Authority and has the same force or effect as if it had been made or given by the Authority pursuant to the authority vested in the Authority under this Act."
+   }
+  },
+  {
+   "id": "SG-H2761-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Misconduct or neglect of duty by employee before transfer"
+   },
+   "text": {
+    "en": "24. The Authority may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person who had, while in the employment of the Government, been guilty of any misconduct or neglect of duty which would have rendered the person liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if the person had continued to be in the employment of the Government and if this Act had not been enacted."
+   }
+  },
+  {
+   "id": "SG-H2761-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL"
+   },
+   "heading": {
+    "en": "No proceedings against Authority as agent of Government"
+   },
+   "text": {
+    "en": "25. No action or legal proceedings shall be brought against the Authority in respect of any matter relating to any tax for which the Authority is acting as agent of the Government."
+   }
+  },
+  {
+   "id": "SG-H2761-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL"
+   },
+   "heading": {
+    "en": "Proceedings conducted by officers of Authority"
+   },
+   "text": {
+    "en": "26.—(1) Proceedings in respect of any offence under this Act or any regulations made under this Act or any of the Acts specified in the Third Schedule or any subsidiary legislation made under any of those Acts may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority who is authorised to conduct such proceedings by the Commissioner of Inland Revenue.\n(2) Despite any written law, a legal officer of the Authority who has been admitted as an advocate and solicitor under the Legal Profession Act 1966 may appear in any civil proceedings involving the Authority or any person holding any of the offices specified in the Fourth Schedule in the performance of his or her functions under any written law so specified, and may make and do all acts and applications in respect of such proceedings on behalf of the Authority or such person, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H2761-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL"
+   },
+   "heading": {
+    "en": "Preservation of secrecy"
+   },
+   "text": {
+    "en": "27.—(1) Except for the purpose of the performance of his or her duties or the exercise of his or her functions or when lawfully required to do so by any court or where required or allowed by the provisions of any written law, a person who is or has been a member, an officer, an employee or an agent of the Authority or a member of a committee of the Authority must not disclose any information relating to the affairs of the Authority or of any other person which has been obtained by that person in the performance of his or her duties or the exercise of his or her functions.\n[5/2018]\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding one year or to both."
+   }
+  },
+  {
+   "id": "SG-H2761-A27.001",
+   "no": 27.001,
+   "noLabel": {
+    "en": "27A."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL"
+   },
+   "heading": {
+    "en": "Protection of informers"
+   },
+   "text": {
+    "en": "27A.—(1) Except as provided in subsection (3), no witness in any civil or criminal proceedings commenced is obliged or permitted —\n(a)to disclose the identity of an informer who has given any information with respect to an offence under Part 5A; or\n(b)to answer any question if the answer to the question would lead, or would tend to lead, to the discovery of the identity of the informer.\n(2) If any document which is in evidence or liable to inspection in any civil or criminal proceedings contains any entry in which any informer is named or described or which may lead to the discovery of the informer’s identity, the court must cause the entry to be concealed from view or to be obliterated so far only as may be necessary to protect the informer from discovery.\n(3) If —\n(a)in any proceedings for an offence under any written law, the court, after full enquiry into the case, believes that the informer wilfully made a material statement which the informer knew or believed to be false or did not believe to be true; or\n(b)in any other proceedings, the court is of the opinion that justice cannot be fully done between the parties to the proceedings without the discovery of the informer,\nthe court may permit enquiry and require full disclosure concerning the informer.\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL"
+   },
+   "heading": {
+    "en": "Authority’s symbol"
+   },
+   "text": {
+    "en": "28.—(1) The Authority has the exclusive right to the use of such symbol or representation as it may select or devise and display or exhibit such symbol or representation in connection with its activities or affairs.\n(2) Any person who uses a symbol or representation identical with that of the Authority, or which so resembles the Authority’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H2761-A28.001",
+   "no": 28.001,
+   "noLabel": {
+    "en": "28A."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "28A.—(1) The Authority may compound any offence under Part 5A that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:\n(a)one half of the amount of the maximum fine prescribed and penalty payable (if any) for that offence;\n(b)$10,000.\n(2) On payment of such sum of money, no further proceedings are to be taken against that person in respect of the offence.\n(3) All sums collected under this section must be paid into the Consolidated Fund.\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A28.002",
+   "no": 28.002,
+   "noLabel": {
+    "en": "28B."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL"
+   },
+   "heading": {
+    "en": "Service of documents, etc."
+   },
+   "text": {
+    "en": "28B.—(1) Except where it is provided by this Act that service must be effected either personally or by registered post, every document required or authorised by this Act to be served on any person may be served —\n(a)personally;\n(b)by sending it by ordinary post addressed to the person at the person’s usual or last known place of residence or business; or\n(c)for a document or any information to be given under section 17H(8)(b) — through the electronic service.\n(2) If a document is served by ordinary or registered post, it is taken to have been duly served at the time the document would have been received in the ordinary course of post if the document is addressed —\n(a)in the case of a company incorporated in Singapore, to the registered office of the company;\n(b)in the case of a company incorporated outside Singapore, either to the individual authorised to accept service of process under the Companies Act 1967 at the address filed with the Registrar of Companies, or to the registered office of the company wherever it may be situated;\n(c)in the case of an individual, to the last known residential or business address of the individual; and\n(d)in the case of a partnership or body of persons, to the last known business address of the partnership or body of persons.\n(3) If any document is served by registered post in accordance with subsection (2), in proving service of the document, it is sufficient to prove that the envelope containing the document was properly addressed, stamped and posted by registered post.\n(4) Every document to be served by the Authority or chief executive officer under this Act must be signed by the chief executive officer or by some person or persons from time to time authorised by the Authority in that behalf.\n(5) Every such document is valid if the signature or an official facsimile thereof of the chief executive officer or of such authorised person or persons is duly printed or written thereon.\n(6) Any document under this Act requiring the attendance of any person or witness before the chief executive officer must be signed by the chief executive officer or by a person duly authorised by the chief executive officer.\n(7) In this section, “document” has the meaning given by section 29(7).\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL"
+   },
+   "heading": {
+    "en": "Electronic service"
+   },
+   "text": {
+    "en": "29.—(1) The Authority may establish a system providing for —\n(a)the electronic service —\n(i)by a person (or an electronic service agent on behalf of such a person) on the Authority or an officer of the Authority administering any relevant tax legislation; or\n(ii)by the Authority, or an officer of the Authority administering any relevant tax legislation, on a person or an electronic service agent on behalf of such a person,\nof a document or any information, which is permitted or required by or under any relevant tax legislation to be served or given;\n[Act 11 of 2024 wef 01/11/2024]\n(aa)the electronic service by a person of a document or any information under section 17H(8)(b); and\n[Act 11 of 2024 wef 01/11/2024]\n(b)the electronic registration of a person, transaction or matter that is permitted or required by or under a relevant tax legislation to be registered, and the cancellation of the same.\n[Act 33 of 2022 wef 26/04/2024]\n(1A) The Authority may establish and publish on its website the procedure for —\n(a)the proper use of the system, including the procedure in circumstances where there is a breakdown of the system or an interruption in any electronic service using the system; and\n(b)the correction or amendment of any document or information that is electronically served or given using the system.\n[Act 33 of 2022 wef 26/04/2024]\n(2) Regulations may be made under section 31 regarding the administration and use of the system provided under this section, including —\n(a)the assignment of authentication codes and accounts to users of the service;\n(b)the circumstances under which authentication codes and accounts of users may be cancelled or suspended;\n(c)the registration of electronic service agents of account holders, including the qualifications to be registered as electronic service agents, and the cancellation and suspension of such registration;\n(d)the manner in which an electronic service agent may be authorised by a person to give or serve on behalf of that person through the electronic service a document or any information; and\n[Act 33 of 2022 wef 26/04/2024]\n(e)the inspection by the Authority (or any person authorised in writing by the Authority) of records and accounts kept by electronic service agents relating to the use of the system.\n[Act 33 of 2022 wef 26/04/2024]\n(f)[Deleted by Act 33 of 2022 wef 26/04/2024]\n(g)[Deleted by Act 33 of 2022 wef 26/04/2024]\n(h)[Deleted by Act 33 of 2022 wef 26/04/2024]\n(3) Where a document or any information which is permitted or required by or under any relevant tax legislation or section 17H(8)(b) to be served or given, is served or given electronically using the system provided under subsection (1), the following have effect despite any Act to the contrary:\n(a)the document or information is deemed for the purposes of that legislation to be served on or given to the recipient at the time when the electronic record of the document or information (as the case may be) enters the recipient’s account with the electronic service;\n[Act 33 of 2022 wef 26/04/2024]\n(b)where the electronic service is done by an electronic service agent on behalf of any person (called in this subsection the principal) —\n(i)the document or information is deemed to be served or given with the authority of that person; and\n(ii)the principal is to be treated to be cognizant of all matters in the document or record containing the information,\nunless that principal has, before the electronic service is done, informed the Authority in the prescribed manner that the principal has revoked the authority of the electronic service agent for the serving or giving of the document or information in question;\n[Act 33 of 2022 wef 26/04/2024]\n(c)where the document or information is served or given using the authentication code assigned to a person before that person applies to cancel the authentication code —\n(i)the document or information is, for the purposes of that legislation, presumed to have been served or given by that person unless the person adduces evidence to the contrary; and\n[Act 33 of 2022 wef 26/04/2024]\n(ii)if that person alleges that he or she did not serve or give the document or information, the burden lies on the person to adduce evidence of that fact.\n[Act 33 of 2022 wef 26/04/2024]\n[Act 11 of 2024 wef 01/11/2024]\n(4) Despite any other Act, an electronic record of a document or any information which is permitted or required by or under any relevant tax legislation or section 17H(8)(b) to be served or given, that was served or given using the system provided under subsection (1), or any copy or print-out of that electronic record, is, in any proceedings under that legislation, admissible as evidence of the facts stated or contained therein if that electronic record, copy or print-out —\n(a)is certified by the Chief Executive (or an officer of the Authority he or she designates) to contain all or any information filed, submitted or served through the electronic service in accordance with this section; or\n(b)is duly authenticated in the manner specified in subsection (6) or is otherwise authenticated in the manner provided in the Evidence Act 1893 for the authentication of computer output.\n[Act 33 of 2022 wef 26/04/2024]\n[Act 11 of 2024 wef 01/11/2024]\n(5) Where the electronic record of any document or information, or a copy or print-out of that electronic record, is admissible under subsection (4), it must be presumed, until the contrary is proved, that the electronic record, copy or print-out accurately reproduces the contents of that document or information.\n[Act 33 of 2022 wef 26/04/2024]\n(6) For the purposes of this section, a certificate —\n(a)giving the particulars of —\n(i)any person whose authentication code was used to serve or give the document or information using the system; or\n(ii)any person or device involved in the production or transmission of the electronic record of the document or information, or the copy or print-out;\n[Act 33 of 2022 wef 26/04/2024]\n(b)identifying the nature of the electronic record or a copy or print-out; and\n(c)purporting to be signed by the Chief Executive or an officer of the Authority he or she designates at the relevant time,\nis sufficient evidence that the electronic record, copy or print-out has been duly authenticated, unless the court, in its discretion, calls for further evidence on this issue.\n(7) For the purposes of this section and any regulations made for the purposes of this section —\n“authentication code”, in relation to any person, means an identification or identifying code, a password or any other authentication method or procedure which is assigned to that person for the purposes of identifying and authenticating the access to, and use of, the system provided under subsection (1) by that person, and includes one assigned for such purposes in order to file, submit or retrieve a particular document only;\n“document” means an application, return, notice, direction, order, permit, receipt, declaration, estimate, statement or other document;\n[Act 33 of 2022 wef 26/04/2024]\n“electronic record” has the meaning given by the Electronic Transactions Act 2010;\n“relevant tax legislation”, for any document or information permitted or required by or under such legislation to be served or given, means —\n(a)this section and any regulations made under section 31 for the purposes of this section;\n(b)in the case of subsection (1)(a)(i) — a provision of any Act specified in the Third Schedule, or any subsidiary legislation made under any of those Acts, which permits, requires, or enables an officer administering that Act to require the document or information to be served or given by means of the system; or\n(c)in the case of subsection (1)(a)(ii) — a provision of any Act specified in the Third Schedule, or any subsidiary legislation made under any of those Acts, which provides for a method for the service or giving of any document or information of that kind if the recipient consents (expressly or impliedly) to the service or giving of any document or information of that kind in that way;\n[Act 33 of 2022 wef 26/04/2024]\n“relevant tax legislation”, for the registration of any person, transaction or matter, means a provision of any Act specified in the Third Schedule, or any subsidiary legislation made under any of those Acts, which provides for the registration of any person, transaction or matter.\n[Act 1 of 2022 wef 29/07/2022]\n[Act 33 of 2022 wef 26/04/2024]\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL"
+   },
+   "heading": {
+    "en": "Power of Minister to amend Second, Third and Fourth Schedules"
+   },
+   "text": {
+    "en": "30. The Minister may, by order in the Gazette, amend the Second, Third or Fourth Schedule.\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "31.—(1) The Authority may, with the approval of the Minister, make regulations for carrying out the purposes and provisions of this Act.\n(2) Without limiting subsection (1), the Authority may, with the approval of the Minister, make regulations for or with respect to all or any of the following matters:\n(a)the manner of appointment, conduct and discipline and the terms and conditions of service of the officers and employees of the Authority;\n(b)the payment of gratuities and other benefits to officers and employees of the Authority;\n(c)the fees to be charged in respect of anything done under or by virtue of this Act;\n[Act 11 of 2024 wef 01/11/2024]\n(d)anything required to be prescribed or in relation to which regulations may be made under this section.\n[Act 11 of 2024 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2761-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nSection 5(2)\nConstitution and proceedings of Authority\nAppointment of Chairperson, Deputy Chairperson and other members\n1.—(1) Every member of the Authority must be appointed by the Minister from among persons who have had experience in public administration or financial, tax or commercial matters.\n(2) The Minister may appoint one of the members to be the Chairperson and another of the members to be the Deputy Chairperson.\n(3) The Deputy Chairperson appointed under sub-paragraph (2) may, subject to such directions as may be given by the Minister, exercise all or any of the powers exercisable by the Chairperson under this Act.\n(4) The Minister may appoint the chief executive officer to be a member of the Authority.\nTerms of office of members of Authority\n2. A member holds office on such terms and conditions and for such period as the Minister may determine and is eligible for re‑appointment.\nTemporary members\n3. The Minister may appoint any person to be a temporary member of the Authority during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of any member.\nRevocation of appointment\n4. The Minister may, at any time, revoke the appointment of the Chairperson, Deputy Chairperson or any member; and in exercising the Minister’s power under this paragraph, the Minister is not required to give any reason for the revocation.\nResignation\n5. Any member may resign from his or her appointment at any time by giving written notice to the Minister.\nChairperson may delegate functions\n6. The Chairperson may, by instrument in writing, authorise any member to exercise any power or perform any function conferred on the Chairperson by or under this Act.\nVacation of office\n7. The office of a member is vacated if the member —\n(a)has been absent, without leave of the Authority, from 3 consecutive meetings of the Authority; or\n(b)becomes in any manner disqualified from membership of the Authority.\nFilling of vacancies\n8. If a member resigns, dies or has his or her appointment revoked or otherwise vacates his or her office before the expiry of the term for which he or she has been appointed, the Minister may appoint a person to fill the vacancy for the residue of the term for which the vacating member was appointed.\nDisqualification from membership\n9. A person must not be appointed or continue to hold office as a member if he or she —\n(a)is an undischarged bankrupt or has made any arrangement with his or her creditors; or\n(b)has been sentenced to imprisonment for a term of not less than 6 months and has not received a free pardon.\nSalaries, etc., payable to members of Authority\n10. There are to be paid to the members out of the funds of the Authority such salaries, fees and allowances as the Minister may determine.\nMeetings of Authority\n11.—(1) The Authority may meet for the despatch of business at such times and places as the Chairperson may appoint.\n(2) At every meeting of the Authority, 5 members form a quorum.\n(3) A decision at a meeting of the Authority is to be adopted by a simple majority of the members present and voting except that, in the case of an equality of votes, the Chairperson or member presiding has a casting vote in addition to his or her original vote.\n(4) The Chairperson or in his or her absence the Deputy Chairperson presides at meetings of the Authority.\n(5) Where both the Chairperson and the Deputy Chairperson are absent at a meeting, the members present may elect a member to preside at that meeting.\nVacancies\n12. The Authority may act despite any vacancy in its membership.\nProcedure at meetings\n13. Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Authority may make rules to regulate its own procedure generally, and in particular, regarding the holding and proceedings of meetings, the notice to be given of the meetings, the keeping of minutes and the custody, production and inspection of the minutes.\nValidity of proceedings\n14. The validity of any proceedings of the Authority is not affected by any defect in the appointment of any member.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H2761-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nSections 2 and 30\nScheduled public schemes\n1.The wage credit scheme introduced by the Government in 2013\n2.The schemes known as the Senior Employment Credit, Enabling Employment Credit and CPF Transition Offset that were introduced in the Budget Statement of the Government dated 18 February 2020\n3.The Jobs Support Scheme introduced in the Budget Statement of the Government dated 18 February 2020\n4.The SkillsFuture Enterprise Credit introduced in the Budget Statement of the Government dated 18 February 2020\n5.The foreign worker levy rebate introduced in the Ministerial Statement on Additional Support Measures in Response to Elevated Safe Distancing Measures dated 6 April 2020\n6.The scheme established for the giving of cash grants to mitigate rental costs, that is part of the Budget Statement of the Government dated 26 May 2020, including cash grants given under that public scheme which are not subject to Part 2A of the COVID‑19 (Temporary Measures) Act 2020\n7.The Jobs Growth Incentive introduced in the Ministerial Statement on Continued Support for Workers and Jobs dated 17 August 2020\n8.The scheme known as the Rental Support Scheme that was first announced publicly on 28 May 2021\n9.The scheme known as the Small Business Recovery Grant that was introduced in the Budget Statement of the Government dated 18 February 2022\n10.The scheme known as the Progressive Wage Credit Scheme that was introduced in the Budget Statement of the Government dated 18 February 2022\n11.The scheme known as the Uplifting Employment Credit that was introduced in the Budget Statement of the Government dated 14 February 2023\n[Act 11 of 2024 wef 01/11/2024]\n12.The scheme known as the Small and Medium Enterprise (SME) Cash Grant 2026 that was first announced publicly on 29 July 2026\n[S 589/2026 wef 11/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H2761-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nSections 26(1) and 30\nSpecified acts\n1.Appraisers Act 1906.\n2.Gambling Duties Act 2022.\n[Act 1 of 2022 wef 29/07/2022]\n3.Part 9 of the Casino Control Act 2006.\n4.Economic Expansion Incentives (Relief from Income Tax) Act 1967.\n5.Estate Duty Act 1929.\n6.Goods and Services Tax Act 1993.\n7.Income Tax Act 1947.\n8.Private Lotteries Act 2011.\n9.Property Tax Act 1960.\n10.Stamp Duties Act 1929.\n11.Multinational Enterprise (Minimum Tax) Act 2024.\n[Act 36 of 2024 wef 20/03/2025]"
+   }
+  },
+  {
+   "id": "SG-H2761-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE\nSections 26(2) and 30\nSpecified offices\n1.The Comptroller of Income Tax under the Income Tax Act 1947, the Economic Expansion Incentives (Relief from Income Tax) Act 1967, Part 9 of the Casino Control Act 2006, and the Multinational Enterprise (Minimum Tax) Act 2024.\n[Act 36 of 2024 wef 20/03/2025]\n2.The Comptroller of Property Tax or the Chief Assessor under the Property Tax Act 1960.\n3.The Commissioner of Stamp Duties under the Stamp Duties Act 1929.\n4.The Commissioner of Estate Duties under the Estate Duty Act 1929.\n5.The Comptroller of Goods and Services Tax under the Goods and Services Tax Act 1993.\n6.The Commissioner of Gambling Duties under the Gambling Duties Act 2022.\n[Act 1 of 2022 wef 29/07/2022]"
+   }
+  }
+ ]
+}

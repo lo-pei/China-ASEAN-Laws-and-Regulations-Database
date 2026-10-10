@@ -1,0 +1,620 @@
+{
+ "id": "SG-H1875",
+ "title": {
+  "zh": null,
+  "en": "Human Biomedical Research Regulations 2017",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p24",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation HBRA2015-RG1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 37,
+ "chars": 39123,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/HBRA2015-RG1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 37 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1875-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations are the Human Biomedical Research Regulations 2017."
+   }
+  },
+  {
+   "id": "SG-H1875-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“healthcare professional” means —\n(a)a medical practitioner;\n(b)a dentist registered under the Dental Registration Act 1999;\n(c)a registered nurse or an enrolled nurse or a registered midwife, within the meaning of the Nurses and Midwives Act 1999;\n(d)a pharmacist registered under the Pharmacists Registration Act 2007;\n(e)an allied health professional within the meaning of the Allied Health Professions Act 2011; or\n(f)a person registered under section 14 of the Traditional Chinese Medicine Practitioners Act 2000 for the carrying out of any practice of traditional Chinese medicine prescribed under that Act;\n“immediate family relationship”, in relation to an individual, means the individual’s relationship with another individual who is his or her spouse, child, adopted child, stepchild, brother, sister, parent or step‑parent;\n“lay person”, in relation to a member, means an individual who is none of the following:\n(a)an individual who is or was a healthcare professional;\n(b)an individual who possesses or previously possessed a qualification or registration, in a country or territory outside Singapore, which is equivalent to or corresponds with any of the qualifications in paragraphs (a) to (f) of the definition of “healthcare professional”;\n(c)an individual who is currently or was previously involved in the conduct of any research as an investigator;\n“member” means an individual who is a member of an institutional review board;\n“other relationship”, in relation to an individual, includes any relationship in the form of affiliation, participation, financial interest, or competition, in the research proposal under review, which may adversely affect the impartiality, objectivity and independence of the individual;\n“relevant website” means the Internet website at https://elis.moh.gov.sg/tiaras;\n“research” means human biomedical research;\n“scientific person” means an individual who has such professional scientific or clinical qualification, knowledge or experience as to enable that individual to assist the institutional review board in understanding particular aspects of the research proposals under review by the board."
+   }
+  },
+  {
+   "id": "SG-H1875-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 RESEARCH INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Notification by research institution"
+   },
+   "text": {
+    "en": "3.—(1) For the purposes of section 23(1)(a) of the Act, the notification by the research institution must be submitted to the Director‑General in the applicable form set out at the relevant website and must contain all of the following information:\n(a)the name of the research institution and the address, telephone number and email address at which that institution may be contacted;\n(b)any other information that is required or specified in the form set out on that website.\n(2) A research institution, that has not commenced any research before 1 November 2017, must submit the notification required by section 23(1)(a) of the Act, no later than 30 days before the commencement of its first human biomedical research."
+   }
+  },
+  {
+   "id": "SG-H1875-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 RESEARCH INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Notification of research started before 1 November 2017"
+   },
+   "text": {
+    "en": "4.—(1) A research institution that has started any research before 1 November 2017 must submit a notification to the Director‑General in the applicable form set out at the relevant website no later than 1 December 2017.\n(2) The notification mentioned in paragraph (1) must contain all of the following information:\n(a)the name of the research institution and the address, telephone number and email address at which that institution may be contacted;\n(b)any other information that is required or specified in the form set out at the relevant website.\n(3) A research institution who or which contravenes paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both; or\n(b)in any other case, to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H1875-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 RESEARCH INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Principal person in charge"
+   },
+   "text": {
+    "en": "5.—(1) The principal person in charge designated by the research institution under section 23(2)(b) of the Act must be an individual (however described by name) who —\n(a)is ordinarily resident in Singapore;\n(b)is in the direct employment of, or acting for or by arrangement with, the research institution;\n(c)is principally responsible for the management and conduct of any type of business or research activities of the research institution in Singapore;\n(d)has the authority to ensure that the research institution complies with the Act and these Regulations; and\n(e)is suitably qualified to perform the duties of a principal person in charge.\n(2) The principal person in charge must at all reasonable times be contactable by the Director‑General for the purposes of the duties and functions of the research institution under the Act and these Regulations.\n(3) The research institution must notify the Director‑General in the applicable form set out at the relevant website of the name and designation of the principal person in charge, the address, telephone number and email address at which that person may be contacted and any other information relating to that person that is required or specified in that form.\n(4) A research institution who or which contravenes paragraph (3) shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both; or\n(b)in any other case, to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H1875-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 RESEARCH INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Change of information and particulars"
+   },
+   "text": {
+    "en": "6.—(1) Every research institution must notify the Director‑General in the applicable form set out at the relevant website of any change to the information and particulars notified under regulation 3, 4 or 5 no later than 30 days after the date the institution or the principal person in charge designated by the institution first becomes aware of the change, whichever is the earlier.\n(2) A research institution who or which contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both; or\n(b)in any other case, to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H1875-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 RESEARCH INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Declaration of compliance"
+   },
+   "text": {
+    "en": "7.—(1) For the purposes of section 24(1) of the Act, the declaration of compliance that a research institution is required to submit to the Director‑General under that section for all research conducted under the supervision and control of the research institution must be made by the principal person in charge designated by the institution in the form specified in the First Schedule.\n(2) The Director‑General may modify or amend the form mentioned in paragraph (1) for the purpose of facilitating the submission of that form.\n(3) The declaration of compliance must be made in writing and submitted to the Director‑General on a date between 1 March and 18 April (both dates inclusive) of every year."
+   }
+  },
+  {
+   "id": "SG-H1875-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 RESEARCH INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Notification under section 23(3)(a) of Act"
+   },
+   "text": {
+    "en": "8.—(1) For the purposes of section 23(3)(a) of the Act, a research institution must ensure that all relevant information (except for the information specified in paragraph (3)) required under that paragraph in relation to human biomedical research conducted under the supervision and control of that research institution is —\n(a)recorded; and\n(b)submitted to the Director‑General as soon as possible and in any event not later than 7 days after the research institution or the principal person in charge designated by the institution first becomes aware of the information, whichever is the earlier.\n(2) The notification of the relevant information mentioned in paragraph (1) must be made in the applicable form set out at the relevant website and submitted to the Director‑General.\n(3) For the purposes of section 23(3)(a) of the Act, a research institution must ensure that relevant information relating to contraventions in relation to human biomedical research conducted under the supervision and control of that research institution and that did not cause harm to and had no potential to cause harm to any research subject is recorded and submitted to the Director‑General —\n(a)at the same time the declaration of compliance is submitted in accordance with regulation 7(3); and\n(b)on an annual basis aggregating the information in the applicable form set out at the relevant website."
+   }
+  },
+  {
+   "id": "SG-H1875-A8.001",
+   "no": 8.001,
+   "noLabel": {
+    "en": "8A."
+   },
+   "chapter": {
+    "en": "PART 2 RESEARCH INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Definition of “serious adverse event”"
+   },
+   "text": {
+    "en": "8A. The untoward medical occurrences which result in any of the following are prescribed events for the purposes of paragraph (a)(vi) of the definition of “serious adverse event” in section 2 of the Act:\n(a)the transmission of a communicable disease;\n(b)any misidentification or mix‑up of any type of human biological material, gamete or embryo."
+   }
+  },
+  {
+   "id": "SG-H1875-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 RESEARCH INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Notification of serious adverse event"
+   },
+   "text": {
+    "en": "9.—(1) A researcher conducting research must immediately report to his or her research institution any serious adverse event —\n(a)which occurs to a participant during the research, regardless of whether the participant is in or outside Singapore at the time of the occurrence; or\n(b)which the researcher knows or has reason to believe has occurred to a participant during another research that is conducted outside Singapore but which is connected with the research mentioned in sub-paragraph (a).\n(2) As soon as possible after making the report mentioned in paragraph (1), the researcher must submit to the research institution a detailed written report on the serious adverse event.\n(3) Where the relevant institutional review board requires any serious adverse event to be reported to the board, the person required by the board to do so must make the report to the board in accordance with the board’s requirements."
+   }
+  },
+  {
+   "id": "SG-H1875-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 RESEARCH INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Notification of unexpected serious adverse event"
+   },
+   "text": {
+    "en": "10.—(1) For the purposes of section 23(3)(b) of the Act and subject to paragraph (5), a research institution conducting research must ensure that paragraphs (2), (3) and (4) are complied with in relation to any unexpected serious adverse event (called in this regulation the unexpected event) —\n(a)which occurred to a participant during the biomedical research, regardless of whether the participant is in or outside Singapore at the time of the occurrence; or\n(b)which the researcher knows or has reason to believe has occurred to a participant during another research that is conducted outside Singapore but which is connected with the research mentioned in sub-paragraph (a).\n(2) Where the unexpected event results in death or is life‑threatening, the research institution must ensure that —\n(a)all relevant information about the unexpected event is recorded;\n(b)the recorded information on the unexpected event is submitted to the Director‑General as soon as possible and in any event not later than 7 days after the research institution or the principal person in charge designated by the institution first becomes aware of the unexpected event, whichever is the earlier; and\n(c)any additional relevant information about the unexpected event is recorded and submitted to the Director‑General within 8 days after the record is made.\n(3) Where the unexpected event does not result in death and is not life-threatening, the research institution must ensure that all relevant information about the unexpected event is —\n(a)recorded; and\n(b)submitted to the Director‑General as soon as possible and in any event not later than 15 days after the research institution or the principal person in charge designated by the institution first becomes aware of the unexpected event, whichever is the earlier.\n(4) The notification of the unexpected event must be made in the applicable form set out at the relevant website and submitted to the Director‑General.\n(5) A research institution is exempted from compliance with paragraphs (1), (2) and (3) where the institution is, with respect to substantially the same event, required to report and has reported —\n(a)any defect in the medical device or any adverse effect that has arisen from the use of the medical device under the Health Products (Medical Devices) Regulations 2010;\n(b)an unexpected serious adverse drug reaction under the Health Products (Clinical Research Materials) Regulations 2016; or\n(c)an unexpected serious adverse drug reaction under the Medicines (Medicinal Products as Clinical Research Materials) Regulations 2016."
+   }
+  },
+  {
+   "id": "SG-H1875-A10.001",
+   "no": 10.001,
+   "noLabel": {
+    "en": "10A."
+   },
+   "chapter": {
+    "en": "PART 2 RESEARCH INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Notification of cessation of research institution’s operations"
+   },
+   "text": {
+    "en": "10A.—(1) A research institution must notify the Director‑General of its intention to cease operating as a research institution as soon as possible and in any event not less than 30 days before the cessation of operation or any shorter period that the Director‑General may allow in any particular case.\n(2) The research institution must ensure that the notification required under paragraph (1) is accompanied by —\n(a)a declaration as to whether ongoing human biomedical research will cease, or be transferred to the supervision of another research institution and if applicable, a plan for the transfer of the ongoing human biomedical research;\n(b)a plan for the manner of disposal or transfer of the health information and human biological material held by or in the possession of the research institution;\n(c)where the plan mentioned in sub‑paragraph (a) or (b) involves the transfer of any ongoing human biomedical research, health information or human biological material to another research institution (called in this regulation the receiving institution) —\n(i)the name, address and contact particulars of the receiving institution; and\n(ii)the plan of the receiving institution as to whether the institutional review board of the research institution ceasing operations will be appointed to continue reviewing the human biomedical research which are to be transferred or whether the receiving institution’s own institutional review board will conduct a fresh review of the transferred research;\n(d)the date of the cessation of operation of the research institution and the reason for the cessation; and\n(e)any other information that the Director‑General may in any particular case require.\n(3) The notification and the information, mentioned in paragraphs (1) and (2), must be submitted to the Director‑General in the applicable form set out at the relevant website.\n(4) A research institution who or which contravenes paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both; or\n(b)in any other case, to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H1875-A10.002",
+   "no": 10.002,
+   "noLabel": {
+    "en": "10B."
+   },
+   "chapter": {
+    "en": "PART 2 RESEARCH INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Management of contamination of human biological material"
+   },
+   "text": {
+    "en": "10B.—(1) Every research institution must establish a system to prevent or control the spread of any communicable disease which is or may be due to the contamination or infection of any human biological material used in transplantational human biomedical research conducted under the supervision and control of that research institution.\n(2) The research institution must ensure that the system mentioned in paragraph (1) must at the minimum take into consideration the following in relation to the human biological material used in transplantational human biomedical research conducted under the supervision and control of the research institution that is or may be contaminated or infected in any other way:\n(a)the traceability of the human biological material;\n(b)the traceability of the equipment and material used in the processing of the human biological material;\n(c)the processing and preservation of the human biological material;\n(d)the recall procedure for the human biological material.\n(3) A research institution who or which contravenes paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both; or\n(b)in any other case, to a fine not exceeding $20,000."
+   }
+  },
+  {
+   "id": "SG-H1875-A10.003",
+   "no": 10.003,
+   "noLabel": {
+    "en": "10C."
+   },
+   "chapter": {
+    "en": "PART 2 RESEARCH INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Safety and welfare of research subjects"
+   },
+   "text": {
+    "en": "10C.—(1) Every research institution that is involved in the removal of human biological material from research subjects for use in research, must establish a system to ensure the safety and welfare of the research subjects.\n(2) The research institution must ensure that the system mentioned in paragraph (1) must at the minimum take into consideration the following in relation to the research subjects:\n(a)the measures to prevent or control the spread of any communicable disease which is or may be due to the contamination or infection of any human biological material;\n(b)the management of quality control and maintenance of instruments and equipment used for the removal of human biological material.\n(3) A research institution who or which contravenes paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both; or\n(b)in any other case, to a fine not exceeding $20,000."
+   }
+  },
+  {
+   "id": "SG-H1875-A10.004",
+   "no": 10.004,
+   "noLabel": {
+    "en": "10D."
+   },
+   "chapter": {
+    "en": "PART 2 RESEARCH INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Policy on incidental findings"
+   },
+   "text": {
+    "en": "10D. Every research institution must —\n(a)formulate a policy on whether or not the research subject should be re‑identified and informed in the case of an incidental finding in relation to the human biomedical research; and\n(b)inform all research subjects of the details of the policy mentioned in paragraph (a)."
+   }
+  },
+  {
+   "id": "SG-H1875-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 INSTITUTIONAL REVIEW BOARDS"
+   },
+   "heading": {
+    "en": "Appointment and composition of institutional review boards"
+   },
+   "text": {
+    "en": "11.—(1) A research institution must appoint in writing an institutional review board in accordance with this Part.\n(2) Every institutional review board must comprise at least 5 individuals, of whom —\n(a)one must be the chairperson who must be a medical practitioner;\n(b)at least one must be an external scientific person; and\n(c)at least one must be an external lay person.\n(3) A research institution must not appoint or re‑appoint an individual as a member of the institutional review board unless that individual has furnished to the research institution a declaration that he or she is not disqualified under the Act or these Regulations from acting as a member.\n(4) The research institution may appoint one or more secretaries to the institutional review board who need not be a member.\n(5) The Director‑General may, on a written application by the research institution, waive any requirement mentioned in paragraph (2)(a) in respect of any particular chairperson.\n(6) For the purposes of paragraph (2), an individual is treated as external in relation to a research institution if the individual is not a researcher of, not employed by and not in a commercial relationship with the research institution."
+   }
+  },
+  {
+   "id": "SG-H1875-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 INSTITUTIONAL REVIEW BOARDS"
+   },
+   "heading": {
+    "en": "Qualification of members"
+   },
+   "text": {
+    "en": "12.—(1) Every individual appointed as a member of an institutional review board —\n(a)must be 21 years of age or older; and\n(b)must be —\n(i)a citizen or permanent resident of Singapore; or\n(ii)an individual who is and has been ordinarily resident in Singapore for an aggregate period of not less than 5 years out of the 10 years preceding the date of his or her appointment or re-appointment.\n(2) The Director‑General may, on a written application by the research institution, waive any requirement mentioned in paragraph (1) in respect of any particular person."
+   }
+  },
+  {
+   "id": "SG-H1875-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 INSTITUTIONAL REVIEW BOARDS"
+   },
+   "heading": {
+    "en": "Term of office"
+   },
+   "text": {
+    "en": "13.—(1) Every member of an institutional review board holds office for a term (not exceeding 5 years) determined by the research institution and will be eligible for re-appointment.\n(2) Any member of an institutional review board may resign from his or her appointment at any time by giving written notice to the chairperson of the board."
+   }
+  },
+  {
+   "id": "SG-H1875-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 INSTITUTIONAL REVIEW BOARDS"
+   },
+   "heading": {
+    "en": "Notification to Director‑General"
+   },
+   "text": {
+    "en": "14.—(1) Every research institution must notify the Director‑General of every institutional review board appointed and of all the following information in respect of each board no later than 30 days after the date of appointment of the board:\n(a)the chairperson’s name;\n(b)the address, telephone number and email address at which the chairperson may be contacted;\n(c)the chairperson’s occupation;\n(d)any other information that the Director‑General may require.\n(2) Every research institution must notify the Director‑General in the applicable form set out at the relevant website no later than 30 days after the occurrence of any change in the chairperson of an institutional review board which it had appointed.\n(3) Any person who contravenes paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H1875-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 INSTITUTIONAL REVIEW BOARDS"
+   },
+   "heading": {
+    "en": "Revocation of appointment"
+   },
+   "text": {
+    "en": "15. The appointment of a member of an institutional review board may be revoked by the research institution that appointed the member if the research institution is satisfied that the member has failed to discharge any of his or her functions under the Act or these Regulations in a satisfactory manner."
+   }
+  },
+  {
+   "id": "SG-H1875-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 INSTITUTIONAL REVIEW BOARDS"
+   },
+   "heading": {
+    "en": "Disqualification"
+   },
+   "text": {
+    "en": "16.—(1) For the purposes of section 18(2)(c) of the Act, an individual is disqualified from being a member of an institutional review board if —\n(a)that individual is an undischarged bankrupt;\n(b)that individual has been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude;\n(c)that individual has been convicted of an offence under the Act; or\n(d)for medical reasons, that individual is unable to perform his or her duties as a member, as assessed by a medical practitioner.\n(2) The Director‑General may make a disqualification order mentioned in section 18(2)(d) of the Act disqualifying any individual from being a member of every institutional review board if the Director‑General is satisfied that the individual —\n(a)is not of good reputation or character; or\n(b)is otherwise unfit to hold office as a member.\n(3) The Director‑General must publish every disqualification order made under paragraph (2) or a list of names and other particulars of the individuals disqualified at the relevant website or in any other manner that the Director‑General may determine.\n(4) The Director‑General must take reasonable steps to ensure that the individual disqualified, the institutional review board of whom that individual was a member and the research institution that appointed the institutional review board are informed in writing of the disqualification order.\n(5) To avoid doubt, any individual who is aggrieved by an order of the Director‑General under paragraph (2) may appeal to the Minister under section 54 of the Act."
+   }
+  },
+  {
+   "id": "SG-H1875-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 INSTITUTIONAL REVIEW BOARDS"
+   },
+   "heading": {
+    "en": "Revocation of disqualification order"
+   },
+   "text": {
+    "en": "17.—(1) An individual who is the subject of a disqualification order may apply to the Director‑General for the order to be revoked.\n(2) On receipt of an application under paragraph (1), the Director‑General may, after considering all relevant circumstances, revoke the disqualification order where the basis on which it was made no longer applies, subject to any terms and conditions that the Director‑General thinks fit to impose.\n(3) In determining the terms and conditions to be imposed under paragraph (2), the Director‑General must have regard to —\n(a)the character and fitness of the applicant to serve as a member of an institutional review board; and\n(b)any other consideration which the Director‑General considers to be relevant.\n(4) No application to revoke a disqualification order under paragraph (1) can be made —\n(a)before the expiration of one year after the date of the disqualification order; and\n(b)more than once in any period of 3 years.\n(5) The Director‑General must publish every revocation of the disqualification order made under paragraph (2) or a list of names and other particulars of the individuals whose disqualification have been revoked, at the relevant website or in any other manner that the Director‑General may determine."
+   }
+  },
+  {
+   "id": "SG-H1875-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 INSTITUTIONAL REVIEW BOARDS"
+   },
+   "heading": {
+    "en": "Meetings and quorum of institutional review boards"
+   },
+   "text": {
+    "en": "18.—(1) The quorum at all meetings of an institutional review board is 5 members, of whom —\n(a)one must be the chairperson or the member appointed by the chairperson under paragraph (6) to preside at that meeting or part of the meeting;\n(b)at least one must be an external scientific person; and\n(c)at least one must be an external lay person.\n(2) No business may be transacted at any meeting unless a quorum is present.\n(3) A meeting of an institutional review board may be held —\n(a)by a quorum of members, being assembled together at the time and place appointed for the meeting; or\n(b)by means of audio, audio and visual, or electronic communication but only if —\n(i)all of the members who wish to participate in the meeting have access to the technology needed to participate in the meeting; and\n(ii)a quorum of members are able to simultaneously communicate with each other throughout the meeting.\n(4) A member of an institutional review board participating in a meeting as permitted under paragraph (3)(b)(i) is taken to be present at the meeting.\n(5) The fact that a meeting of an institutional review board was held as permitted under paragraph (3)(b)(i) must be recorded in writing in the minutes or other record of the meeting.\n(6) The chairperson of an institutional review board must preside at meetings of the board, and if the chairperson is absent from any meeting or part of a meeting, the member (who need not be a medical practitioner) appointed by the chairperson will preside at that meeting or part of the meeting.\n(7) A decision at a meeting of the institutional review board is adopted by a simple majority of the members present and voting and to avoid doubt, in the case of an equality of votes, the research proposal is deemed to have been rejected.\n(8) For the purposes of the institutional review board’s proceedings, papers (including declarations, disclosures and proposals to be circulated before the meeting and decisions after the meeting) may be circulated among members or delivered to the secretary of the board by hand or facsimile or electronic transmission of the information in the papers concerned.\n(9) Subject to the provisions of the Act and this Part, each institutional review board may regulate its own processes and procedures.\n(10) For the purposes of paragraph (1), an individual is treated as external in relation to a research institution if the individual is not a researcher of, not employed by and not in a commercial relationship with the research institution."
+   }
+  },
+  {
+   "id": "SG-H1875-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 INSTITUTIONAL REVIEW BOARDS"
+   },
+   "heading": {
+    "en": "Conflicts of interest"
+   },
+   "text": {
+    "en": "19.—(1) For the purposes of section 19(1) of the Act, a member of an institutional review board must declare to the board in writing, the nature and extent of all conflicts of interest or potential conflicts of interest in relation to a matter under consideration by the board arising from —\n(a)the member’s immediate family relationship or other relationship with a director, partner or employee of the research institution which appointed the institutional review board;\n(b)the member’s immediate family relationship or other relationship with any of the researchers involved in the conduct of the research proposal being reviewed by the board; and\n(c)the member’s connection or association with any person or body funding the research being reviewed by the board.\n(2) Where the institutional review board is satisfied that the member (called in this regulation a conflicted member) is unable to carry out his or her duties properly and effectively because of any conflict of interests or potential conflict of interests mentioned in section 19 of the Act or this regulation in relation to a matter under consideration by the board, the conflicted member —\n(a)must not vote or take part in any discussion or decision of the board with respect to that matter; and\n(b)is to be disregarded for the purpose of forming a quorum of the board for that part of the meeting of the board during which a discussion or decision relating to that matter occurs or is made.\n(3) Despite paragraph (2), a conflicted member may, with the permission of the institutional review board, provide any information that the board requires, but must not vote on any decision with respect to that matter.\n(4) A declaration under paragraph (1), and the decision of the institutional review board in regard to the participation of the conflicted member in the discussions and decisions of the board under paragraphs (2) and (3), must be recorded in the minutes of the meeting of the board.\n(5) For the purposes of paragraph (1), a member of an institutional review board is not regarded as being in a position of conflict of interests by reason only that the member is an employee of the research institution which appointed the board."
+   }
+  },
+  {
+   "id": "SG-H1875-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 INSTITUTIONAL REVIEW BOARDS"
+   },
+   "heading": {
+    "en": "Expedited review"
+   },
+   "text": {
+    "en": "20.—(1) The chairperson of an institutional review board or a member authorised under section 17(2) of the Act (called in this regulation the authorised member) may, pursuant to section 17(2)(b) of the Act, decide that a research proposal or a class of research proposals may be reviewed through an expedited process if the proposal or class of proposals involves no more than minimal risk to the research subjects.\n(2) For the purposes of section 17(2) of the Act, the following criteria may be considered by the chairperson of the institutional review board or the authorised member for expedited review:\n(a)one or more minor changes to a research proposal which do not affect the substance of research proposals approved by that board;\n(b)a research proposal that involves analysis of patient information without interaction with research subjects where the chairperson or the authorised member is satisfied that the researchers will take appropriate measures to protect the confidentiality of information relating to the research subjects.\n(3) To avoid doubt, no proposal for restricted human biomedical research may be reviewed through an expedited process.\n(4) The institutional review board must ensure that the operational procedures on the expedited review of research proposals must be clearly documented including but not limited to the authorisation of a member to carry out the duties of the chairperson pursuant to section 17(2) of the Act and the method of reporting and ratification of decisions to the board.\n(5) The chairperson of an institutional review board or the authorised member must inform all the members of all research proposals that have been reviewed through an expedited process."
+   }
+  },
+  {
+   "id": "SG-H1875-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 INSTITUTIONAL REVIEW BOARDS"
+   },
+   "heading": {
+    "en": "Exempted review"
+   },
+   "text": {
+    "en": "21.—(1) Subject to paragraph (2), the chairperson of an institutional review board or a member authorised under section 17(2) of the Act (called in this regulation the authorised member) may, pursuant to section 17(2)(a) of the Act, exempt a research proposal from review by the board if the chairperson or authorised member is satisfied that the proposal involves less than minimal risk to the research subjects.\n(2) To avoid doubt, no proposal for restricted human biomedical research may be exempted from review.\n(3) A researcher must submit to the chairperson of the institutional review board or the authorised member every application for exemption from review of a research proposal for determination by the chairperson or the authorised member.\n(4) The chairperson of an institutional review board or the authorised member must inform all the members of all research proposals that have been exempted from review.\n(5) The institutional review board must ensure that the operational procedures on the exemption of research proposals from review by the board mentioned in paragraph (1) must be clearly documented including but not limited to the authorisation of a member to carry out the duties of the chairperson pursuant to section 17(2) of the Act and the method of reporting and ratification of decisions to the board."
+   }
+  },
+  {
+   "id": "SG-H1875-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 3 INSTITUTIONAL REVIEW BOARDS"
+   },
+   "heading": {
+    "en": "Documentation and communications"
+   },
+   "text": {
+    "en": "22.—(1) Every chairperson of an institutional review board must ensure that all documentation and correspondence of a board in areas other than the review of the research proposal, such as the assessment of the qualifications of a researcher, must be dated, filed and archived according to standard written procedures for the board.\n(2) Every chairperson of an institutional review board must ensure that all correspondence and other communications in relation to the review of the research proposal and other proceedings of the board, must be fully documented in writing.\n(3) Without limiting paragraphs (1) and (2), every chairperson of an institutional review board must ensure that all of the following documents, information and particulars be recorded and documented:\n(a)copies of all research proposals reviewed, scientific evaluations, if any, that accompany the proposals, approved sample consent documents, progress reports submitted by the researchers and reports of injuries to the research subjects;\n(b)minutes of the board meetings which must be in sufficient detail to show —\n(i)attendance at the meetings;\n(ii)actions taken by the board, and the vote on these actions including the number of members voting for, against, and abstaining;\n(iii)the basis for requiring changes in or disapproving research; and\n(iv)a written summary of the discussion of controverted issues and their resolution;\n(c)copies of all correspondence between the board and the researchers that are relevant and material to the review of the research proposal."
+   }
+  },
+  {
+   "id": "SG-H1875-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 3 INSTITUTIONAL REVIEW BOARDS"
+   },
+   "heading": {
+    "en": "Written reasons to be provided to second institutional review board"
+   },
+   "text": {
+    "en": "23. Where the research institution pursuant to section 21(2)(c) of the Act directs the researcher to submit the research to a second institutional review board for a second initial review, the first institutional review board must, as soon as practicable after the direction, give written reasons for its decision not to grant approval for the research to be conducted or continued and provide the written reasons to the second board through the research institution."
+   }
+  },
+  {
+   "id": "SG-H1875-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 3 INSTITUTIONAL REVIEW BOARDS"
+   },
+   "heading": {
+    "en": "Reports to research institution"
+   },
+   "text": {
+    "en": "24. The chairperson of an institutional review board must ensure that all decisions made by the board and the reasons for these decisions are to be reported to the research institution for the institution’s oversight and review within the period and in the manner and form that the institution may determine."
+   }
+  },
+  {
+   "id": "SG-H1875-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Witness to appropriate consent"
+   },
+   "text": {
+    "en": "25.—(1) For the purposes of section 6(d) of the Act, any appropriate consent must be taken in the presence of a witness —\n(a)who is 21 years of age or older;\n(b)who has mental capacity; and\n(c)who must not be the same individual taking the appropriate consent.\n(2) To avoid doubt, the witness may be a member of the team carrying out the research of which the individual giving the consent is a research subject.\n(3) The witness must take reasonable steps to ascertain —\n(a)the identity of the individual giving the appropriate consent; and\n(b)that the consent was given voluntarily without any coercion or intimidation."
+   }
+  },
+  {
+   "id": "SG-H1875-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "text": {
+    "en": "26. [Deleted by S 705/2019]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1875-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Procedure for appeal to Minister"
+   },
+   "text": {
+    "en": "27. For the purposes of section 54(1) and (2) of the Act, an appeal to the Minister must be made in the applicable form set out at the relevant website."
+   }
+  },
+  {
+   "id": "SG-H1875-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Electronic system"
+   },
+   "text": {
+    "en": "28.—(1) Every notification, form, document, declaration or other information that is required to be submitted to the Director‑General under these Regulations must —\n(a)be made using the electronic system of the Ministry of Health at the relevant website or by any other means that the Director‑General may determine;\n(b)be submitted to the Director‑General in the form provided by that system; and\n(c)be accompanied by the documents specified at the relevant website.\n(2) The Director‑General may modify or amend a form mentioned in paragraph (1) in order to facilitate the submission of that form."
+   }
+  },
+  {
+   "id": "SG-H1875-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "False information"
+   },
+   "text": {
+    "en": "29. Any person who, in submitting to the Director‑General a notification, form, document, declaration or other information that is required to be submitted under these Regulations —\n(a)makes any statement or furnishes any information which that person knows to be false or does not believe to be true; or\n(b)by the intentional suppression of any material fact, furnishes information which is misleading,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both."
+   }
+  },
+  {
+   "id": "SG-H1875-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "30.—(1) The fees specified in the Second Schedule are payable by the research institution in respect of the matters set out in that Schedule.\n(2) A fee specified in the Second Schedule must be paid when the notification or declaration (as the case may be) is submitted to the Director‑General.\n(3) The Director‑General may, in any particular case, waive or refund the whole or any part of any fee payable or paid under paragraph (1)."
+   }
+  },
+  {
+   "id": "SG-H1875-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 7(1)\nDeclaration of compliance\nI declare, on behalf of _____________________ (name of research institution), all of the following:\n1.I have read and understood the Human Biomedical Research Act 2015, and all regulations and codes of practice or ethics issued under that Act (collectively called the Act).\n2.Except for the offences and contraventions that have been notified to the Director‑General of Health in accordance with section 23(3) of the Human Biomedical Research Act 2015 or regulation 8 of the Human Biomedical Research Regulations 2017, all human biomedical research conducted under the supervision and control of the research institution between __________ and _________ (insert dates) comply with the Act.\n3.The composition and appointment of all the institutional review boards of the research institution comply with the Act.\n4.The research institution —\n(a)has formulated and implemented appropriate standards, policies and procedures to supervise, review and monitor the conduct of the human biomedical research conducted under its supervision and control;\n(b)supervises, reviews and proactively monitors the conduct of the human biomedical research conducted under its supervision and control;\n(c)has formulated and implemented a policy on whether or not the research subject should be re-identified and informed in the case of an incidental finding and has informed all institutional review boards and researchers under its purview of this policy;\n(d)ensures that the human biomedical research conducted under its supervision and control complies with the Act, and is conducted in accordance with the standards, policies and procedures mentioned to in sub‑paragraph (a);\n(e)investigates any areas of concern and takes the appropriate remedial measures;\n(f)in respect of human biomedical research conducted jointly or in collaboration with more than one research institution, has agreed among the research institutions for one research institution to be appointed as the lead research institution for the purpose of coordinating the research;\n(g)has performed all other functions and duties as may be prescribed by the Minister; and\n(h)regularly reviews —\n(i)the standards, policies and procedures formulated and implemented by the Research Institution to supervise, review and monitor the conduct of the human biomedical research conducted under its supervision and control;\n(ii)all serious adverse events, including unexpected serious adverse events;\n(iii)all safety lapses;\n(iv)all reports of any data and safety monitoring board established by the research institution; and\n(v)the performance of all institutional review boards appointed by the research institution.\nSignature, name and\ndesignation of principal\nperson in charge\nDate"
+   }
+  },
+  {
+   "id": "SG-H1875-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 30(1) and (2)\n1.Accepted notification made under regulation 3 or 4\n$1,000\n2.Accepted declaration of compliance made under regulation 7 where the research institution has been granted approval to conduct restricted human biomedical research —\n(a)for the first research site; and\n$4,000\n(b)for each additional research site\n$500\n3.Any other accepted declaration of compliance made under regulation 7 —\n(a)for the first research site; and\n$1,000\n(b)for each additional research site\n$500\nNote:\nWhere activities relating to research are conducted at 2 or more premises located within the same building (bearing the same postal code in each premises’ address) and under the supervision and control of a single research institution, these premises are counted as a single research site."
+   }
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "id": "PH-H149",
+ "title": {
+  "zh": null,
+  "en": "An Act to Convert the Suburb of Lucena of the Municipality of Santa Barbara, Province of Iloilo, into a Regular Municipality",
+  "orig": "An Act to Convert the Suburb of Lucena of the Municipality of Santa Barbara, Province of Iloilo, into a Regular Municipality"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p01",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1946-10-04",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 50",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1019,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1946/ra_50_1946.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1946/ra_50_1946.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H149-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The suburb of Lucena of the municipality of Santa Barbara, Province of Iloilo, comprising the barrios of Baclayan, Badiang, Bilidan, Bita-og Gaja, Bita-og Pasil, Bololacao, Cabilauan, Cagban, Cabugao, Calumbayan, Damires, Dauis, Lucena, General Delgado, Guinobatan, Janipa-an Este, Janipa-an Oeste, Jilicuon Este, Jilicuon Oeste, Poblacion Lucena, and Wariwari is separated from the said municipality of Santa Barbara to be converted into a new regular municipality in accordance with Chapter fifty-seven of the Revised Administrative Code and its amendments."
+   }
+  },
+  {
+   "id": "PH-H149-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The name of the new municipality shall be \"Lucena\" and the seat of its government shall be where the barrio known as \" Poblacion Lucena \" is at present located."
+   }
+  },
+  {
+   "id": "PH-H149-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Upon the approval of this Act, the President of the Philippines shall appoint the elective officials of the new municipality who shall hold office until their successors shall have been duly elected in the next general elections."
+   }
+  },
+  {
+   "id": "PH-H149-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: October 4, 1946"
+   }
+  }
+ ]
+}

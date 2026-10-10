@@ -1,0 +1,117 @@
+{
+ "id": "SG-H333",
+ "title": {
+  "zh": null,
+  "en": "Broadcasting (Exemption of Broadcasting Services by Educational Institutions) Order 2010",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p04",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation BA1994-S523-2010",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 3460,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/BA1994-S523-2010?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 6 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H333-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. This Order may be cited as the Broadcasting (Exemption of Broadcasting Services by Educational Institutions) Order 2010 and shall come into operation on 16th September 2010."
+   }
+  },
+  {
+   "id": "SG-H333-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In this Order, unless the context otherwise requires —\n“educational institution” means an organisation for the provision of education;\n“exempt broadcasting service” means a licensable broadcasting service specified in the Schedule."
+   }
+  },
+  {
+   "id": "SG-H333-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Exemption for educational institution broadcasting service"
+   },
+   "text": {
+    "en": "3. Every educational institution shall be exempt from section 8 of the Act in relation to all or any exempt broadcasting service provided by that educational institution, subject to the terms and conditions specified in paragraph 4."
+   }
+  },
+  {
+   "id": "SG-H333-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Conditions"
+   },
+   "text": {
+    "en": "4. The exemption of an educational institution under paragraph 3 in relation to any exempt broadcasting service it provides or is to provide shall be subject to the following terms and conditions:\n(a)the educational institution shall inform the Authority —\n(i)where the educational institution is providing the exempt broadcasting service immediately before 16th September 2010, within one month from that date; or\n(ii)in any other case, no later than one month before the launch of the exempt broadcasting service;\n(b)the educational institution shall provide the exempt broadcasting service for the primary purpose of training its students or any class thereof;\n(c)the educational institution shall take reasonable steps to ensure —\n(i)that any special interest television service or special interest radio service transmitted through the educational institution’s closed Internet protocol network is received or capable of reception only by the educational institution’s officers, employees, consultants, agents or students; and\n(ii)that the exempt broadcasting service is otherwise not capable of reception by any person outside the premises of the educational institution;\n(d)the educational institution, in providing the exempt broadcasting service —\n(i)shall ensure that the exempt broadcasting service is not used for, or in furtherance of, any gaming or public lottery the conduct of which is an offence under the Common Gaming Houses Act (Cap. 49);\n(ii)shall not broadcast horse-racing analyses, commentaries or tips, or horse-racing results;\n(iii)shall ensure that the exempt broadcasting service is not used to advertise, offer services relating to or otherwise promote —\n(A)astrology;\n(B)geomancy;\n(C)palmistry; or\n(D)any other type of fortune-telling device;\n(iv)shall ensure, in the case of the exhibition of films (within the meaning of the Films Act (Cap. 107)) on the exempt broadcasting service, that only films that are approved by the Board of Film Censors for exhibition under that Act or that are exempt under section 40 of that Act are so exhibited; and\n(v)shall ensure that the exempt broadcasting service is not used for any purpose, and does not contain any programme, that is against the public interest, public order or national harmony or that offends good taste or decency."
+   }
+  },
+  {
+   "id": "SG-H333-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Order does not affect other written law"
+   },
+   "text": {
+    "en": "5. Nothing in this Order shall be construed to limit or in any way affect the operation of any other written law."
+   }
+  },
+  {
+   "id": "SG-H333-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nParagraph 2\nExempt Broadcasting Services\n1. Special interest television services transmitted through an educational institution’s closed Internet protocol network.\n2. Special interest radio services transmitted through an educational institution’s closed Internet protocol network.\n3. Special interest radio services transmitted through an educational institution’s public address system."
+   }
+  }
+ ]
+}

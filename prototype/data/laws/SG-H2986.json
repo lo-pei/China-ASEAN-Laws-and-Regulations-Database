@@ -1,0 +1,894 @@
+{
+ "id": "SG-H2986",
+ "title": {
+  "zh": null,
+  "en": "Legal Profession (Admission) Rules 2024",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p38",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation LPA1966-S597-2024",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 54,
+ "chars": 53140,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/LPA1966-S597-2024?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 54 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2986-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Rules are the Legal Profession (Admission) Rules 2024 and come into operation on 17 July 2024."
+   }
+  },
+  {
+   "id": "SG-H2986-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Rules —\n“Board of Directors” means the Board of Directors of the Institute;\n“Board of Examiners” means the Board of Examiners appointed under rule 6;\n“candidate” means a person whose application under rule 7(2) or 11(2) has been approved or is pending approval;\n“Chairperson” means the Chairperson of the Institute;\n“Code of Conduct” means the Code of Conduct issued, and amended, by the Part B Director under rule 12;\n“Dean” means the Dean of the Institute appointed under section 6(1) of the Act;\n“Disciplinary Committee” means a Disciplinary Committee appointed by the Chairperson under rule 20(1);\n“Institute’s website” means the Internet website of the Institute at https://www.sile.edu.sg;\n“misconduct” means any act, omission, conduct or neglect that is in contravention of the Code of Conduct and includes any act or conduct mentioned in rule 17(2);\n“Part B Course” means the preparatory course, leading to the Part B Examinations, which is conducted by —\n(a)the Institute; or\n(b)the Institute and any other person appointed by the Board of Directors;\n“Part B Director” means the Director of the Part B Course appointed by the Board of Directors, and includes any Deputy Director of the Part B Course appointed by the Board of Directors;\n“Part B Examinations” means Part B of the Singapore Bar Examinations conducted by —\n(a)the Institute; or\n(b)the Institute and any other person appointed by the Board of Directors;\n“qualifying relevant legal officer” has the meaning given by rule 30(1)(b)(ii);\n“session”, in relation to the Part B Examinations, means a period, as determined by the Part B Director and published on the Institute’s website, when the Part B Examinations are conducted;\n“supervising solicitor” means a solicitor who is responsible for the supervision of a practice trainee while the latter is serving his or her practice training period under a practice training contract;\n“supervisor in a qualifying entity” means an employee of a qualifying entity who is responsible for the supervision of a practice trainee while the latter is serving his or her practice training period under a practice training contract with the qualifying entity."
+   }
+  },
+  {
+   "id": "SG-H2986-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 PRESCRIBED COURSES AND EXAMINATIONS"
+   },
+   "heading": {
+    "en": "Course prescribed for purposes of section 11B(1)(c) of Act"
+   },
+   "text": {
+    "en": "3. For the purposes of section 11B(1)(c) of the Act, a qualified person must have attended and satisfactorily completed the Part B Course."
+   }
+  },
+  {
+   "id": "SG-H2986-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 PRESCRIBED COURSES AND EXAMINATIONS"
+   },
+   "heading": {
+    "en": "Administration of Part B Course"
+   },
+   "text": {
+    "en": "4.—(1) The Part B Course is to be held at the times and in the manner determined by the Dean.\n(2) The Dean may appoint any person that he or she considers necessary to assist in the administration and conduct of the Part B Course."
+   }
+  },
+  {
+   "id": "SG-H2986-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 PRESCRIBED COURSES AND EXAMINATIONS"
+   },
+   "heading": {
+    "en": "Examinations prescribed for purposes of section 11B(1)(d) of Act"
+   },
+   "text": {
+    "en": "5. The examinations prescribed for the purposes of section 11B(1)(d) of the Act are the Part B Examinations."
+   }
+  },
+  {
+   "id": "SG-H2986-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 PRESCRIBED COURSES AND EXAMINATIONS"
+   },
+   "heading": {
+    "en": "Board of Examiners"
+   },
+   "text": {
+    "en": "6.—(1) The Chairperson may appoint any number of members of the Board of Directors to constitute a Board of Examiners for the Part B Examinations.\n(2) The Board of Examiners may —\n(a)appoint any person that it considers necessary to assist in the administration and conduct of the Part B Examinations;\n(b)determine the standards applicable to the Part B Examinations;\n(c)regulate the conduct of the Part B Examinations;\n(d)determine the times and the manner in which the Part B Examinations are to be conducted; and\n(e)do anything or make any decision on matters relating to the conduct of the Part B Examinations or the results of persons sitting for the Part B Examinations."
+   }
+  },
+  {
+   "id": "SG-H2986-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 PRESCRIBED COURSES AND EXAMINATIONS"
+   },
+   "heading": {
+    "en": "Application to sit for Part B Examinations"
+   },
+   "text": {
+    "en": "7.—(1) A person is not eligible to sit for the Part B Examinations in a particular session unless —\n(a)the person has been registered as a qualified person;\n(b)the person is not disqualified under a disciplinary measure in rule 14 or 15 from sitting for the Part B Examinations in that session; and\n(c)the person’s application to sit for the Part B Examinations in that session is approved by the Part B Director.\n(2) An application to sit for the Part B Examinations in a particular session must —\n(a)be made to the Part B Director —\n(i)in the form and manner required by the Part B Director; and\n(ii)within the period specified by the Part B Director; and\n(b)be accompanied by —\n(i)the fee specified in the Second Schedule; and\n(ii)any documents that the Part B Director may require.\n(3) For the purposes of approving an application, the Part B Director may require a person —\n(a)to provide, in addition to any documents mentioned in paragraph (2)(b)(ii), any other evidence that the Part B Director considers necessary;\n(b)to depose to any facts relevant to the application by a statutory declaration; and\n(c)to attend an interview."
+   }
+  },
+  {
+   "id": "SG-H2986-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 PRESCRIBED COURSES AND EXAMINATIONS"
+   },
+   "heading": {
+    "en": "Application to review decision of Part B Director"
+   },
+   "text": {
+    "en": "8.—(1) A person who has applied under rule 7(2) to sit for the Part B Examinations in a particular session and is dissatisfied with a decision of the Part B Director not to approve the application under rule 7(1)(c) may, within 14 days after the date on which the decision is communicated to the person, apply to the Institute for the decision to be reviewed by the Dean.\n(2) An application for the review of a decision of the Part B Director must be made in the manner specified by the Institute and be accompanied by the fee specified in the Second Schedule.\n(3) Upon considering an application by a person under paragraph (1), the Dean may —\n(a)approve the person’s application under rule 7(2) to sit for the Part B Examinations in a particular session —\n(i)unconditionally; or\n(ii)subject to the person’s compliance with any conditions that the Dean may impose; or\n(b)affirm the decision of the Part B Director.\n(4) The Dean must notify the person in writing of the Dean’s decision, which is final.\n(5) Where the Dean has approved under paragraph (3)(a)(i) a person’s application under rule 7(2) to sit for the Part B Examinations in a particular session, the Dean may direct that the fee paid by the person under paragraph (2) be refunded to that person."
+   }
+  },
+  {
+   "id": "SG-H2986-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 PRESCRIBED COURSES AND EXAMINATIONS"
+   },
+   "heading": {
+    "en": "Results of Part B Examinations"
+   },
+   "text": {
+    "en": "9.—(1) The Dean must release the results of the Part B Examinations for a particular session as soon as is practicable after that session.\n(2) However, the Dean may choose not to release the results of any person who sat for the Part B Examinations in a particular session if there are pending investigations into any allegation of misconduct committed by that person."
+   }
+  },
+  {
+   "id": "SG-H2986-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 PRESCRIBED COURSES AND EXAMINATIONS"
+   },
+   "heading": {
+    "en": "Period of validity of pass result of Part B Examinations"
+   },
+   "text": {
+    "en": "10. For the purposes of section 11B(2) of the Act, the period of validity of a pass result of the Part B Examinations is 5 years."
+   }
+  },
+  {
+   "id": "SG-H2986-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 PRESCRIBED COURSES AND EXAMINATIONS"
+   },
+   "heading": {
+    "en": "Retaking Part B Examinations"
+   },
+   "text": {
+    "en": "11.—(1) This rule applies to a person who does not pass all examinable modules of the Part B Examinations in a particular session on or after 17 July 2024.\n(2) Subject to paragraph (5), a person who does not pass any one or more examinable modules of the Part B Examinations in a particular session may apply to retake those modules at any subsequent session.\n(3) The application in paragraph (2) must —\n(a)be made to the Part B Director —\n(i)in the form and manner required by the Part B Director; and\n(ii)within the period specified by the Part B Director; and\n(b)be accompanied by —\n(i)the fee specified in the Second Schedule; and\n(ii)any documents that the Part B Director may require.\n(4) A person who passes all the modules that the person has applied to retake under paragraph (2), whether in one or more subsequent sessions, is deemed to have passed the Part B Examinations.\n(5) However, if the person does not obtain a pass for all the modules within 4 consecutive sessions, paragraph (2) ceases to apply, and the person must retake the Part B Course and all the examinable modules of the Part B Examinations for the purposes of section 11B(1)(d) of the Act."
+   }
+  },
+  {
+   "id": "SG-H2986-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Code of Conduct"
+   },
+   "text": {
+    "en": "12.—(1) The Part B Director may, with the approval of the Board of Directors, issue, and from time to time amend, a Code of Conduct for the maintenance and enforcement of discipline among the candidates.\n(2) It is the duty of every candidate to comply with the Code of Conduct.\n(3) The Part B Director must cause the Code of Conduct to be published in a manner that he or she thinks is necessary and appropriate to bring it to the attention of all candidates."
+   }
+  },
+  {
+   "id": "SG-H2986-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Continuing liability under this Part"
+   },
+   "text": {
+    "en": "13. Despite a person ceasing to be a candidate upon his or her withdrawal from the Part B Course or from sitting for the Part B Examinations in any session, or upon the conclusion of any session of the Part B Examinations —\n(a)that person, for a period of 12 months from the date he or she ceased to be a candidate —\n(i)continues to be subject to these Rules in respect of any misconduct that he or she may have committed while he or she was a candidate; and\n(ii)is liable to be dealt with in accordance with this Part for the misconduct as if he or she were still a candidate; and\n(b)the Institute may withhold the issue of any certificate or document to that person until the matter has been determined and disposed of under this Part."
+   }
+  },
+  {
+   "id": "SG-H2986-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Minor disciplinary measures"
+   },
+   "text": {
+    "en": "14. For the purposes of this Part, the following disciplinary measures are minor disciplinary measures:\n(a)withholding the issue of any certificate in relation to the Part B Examinations from a candidate, whether absolutely or until —\n(i)the candidate has complied with any condition that the decision‑maker may impose; or\n(ii)such period of time, as the decision‑maker may determine, has elapsed;\n(b)barring a candidate from sitting for the Part B Examinations (or any part of it) in a particular session or from doing any assignment, examination or test of the Part B Course;\n(c)withholding the award of a pass in the Part B Examinations (or any part of it) or in any assignment, examination or test of the Part B Course from a candidate;\n(d)suspension of a candidate from attending all classes or any particular class of the Part B Course with effect from such date and for such period as the decision‑maker may specify;\n(e)withdrawal from a candidate, whether absolutely or partially, and whether permanently or for any period that the decision‑maker may specify, of any benefit, facility or privilege granted by the Institute to candidates;\n(f)issuing a written notice to a candidate directing the candidate to comply with any requirements that the decision‑maker may specify;\n(g)issuing a censure to a candidate, which may be published in such manner and to such persons as the decision‑maker thinks fit;\n(h)issuing a private reprimand to a candidate, which may, at the decision‑maker’s discretion, form part of the candidate’s official record."
+   }
+  },
+  {
+   "id": "SG-H2986-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Major disciplinary measures"
+   },
+   "text": {
+    "en": "15. For the purposes of this Part, the following disciplinary measures are major disciplinary measures:\n(a)expulsion of a candidate from the Part B Course with effect from such date as the decision‑maker may specify and barring the candidate from sitting for the Part B Examinations;\n(b)revocation of any award (including an award of a pass or a distinction in the Part B Examinations), certificate or prize that has already been granted to a candidate;\n(c)barring a candidate from enrolling in and attending the Part B Course for such period as the decision‑maker may specify;\n(d)barring a candidate from sitting for the Part B Examinations for such period as the decision‑maker may specify."
+   }
+  },
+  {
+   "id": "SG-H2986-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Letter of warning for misconduct"
+   },
+   "text": {
+    "en": "16.—(1) If the Part B Director has reason to believe that a candidate has committed any misconduct, the Part B Director must, by written notice, call upon the candidate to offer an explanation or to answer any allegation against him or her, whether in writing or in person before the Part B Director, within a period of 7 days from the date specified in the notice.\n(2) The Part B Director must issue a letter of warning to the candidate if that candidate —\n(a)without reasonable cause fails to comply with the notice under paragraph (1);\n(b)admits to having committed the misconduct as alleged; or\n(c)in the opinion of the Part B Director, fails to offer a reasonable explanation or to satisfactorily answer the allegation against him or her."
+   }
+  },
+  {
+   "id": "SG-H2986-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Report of misconduct to Dean"
+   },
+   "text": {
+    "en": "17.—(1) If a candidate is issued with a third letter of warning under rule 16(2), the Part B Director must —\n(a)report the matter to the Dean in writing; and\n(b)notify the candidate in writing that the report to the Dean has been made.\n(2) Despite paragraph (1), the Part B Director may immediately report the matter to the Dean in writing without having to comply with rule 16(1) or issuing any letter of warning to the candidate concerned under rule 16(2), but must notify the candidate in writing that he or she has made the report to the Dean, if the Part B Director has reason to believe that the candidate has —\n(a)cheated in the Part B Examinations or on any assignment, examination or test, or has facilitated the cheating of another candidate in the Part B Examinations or on any assignment, examination or test;\n(b)committed any offence on the premises of the Institute, or any premises used for the Part B Course or on which the Part B Examinations are conducted;\n(c)in any dealing with the Institute, acted fraudulently or dishonestly;\n(d)committed any misconduct again, after having been dealt with before by the Dean under rule 19 or a Disciplinary Committee under rule 22; or\n(e)done any other act or conducted himself or herself in any other manner which —\n(i)is unbefitting or unbecoming of a person seeking admission as a lawyer (NP) or as an advocate and solicitor, or implies a defect of character making him or her unfit for the legal profession; and\n(ii)in the opinion of the Part B Director, is of sufficient gravity to warrant an immediate report to the Dean."
+   }
+  },
+  {
+   "id": "SG-H2986-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Inquiry by Dean"
+   },
+   "text": {
+    "en": "18.—(1) Upon receiving a report from the Part B Director under rule 17(1)(a) or (2), the Dean must —\n(a)conduct an inquiry into the matter to determine if any action should be taken in respect of the candidate concerned; and\n(b)by written notice, call upon the candidate concerned —\n(i)to show cause, in writing and within the time specified in the notice, as to why the Dean should not take any action against him or her under rule 19; or\n(ii)to attend before the Dean, at the time and place specified in the notice, to explain why the Dean should not take any action against him or her under rule 19.\n(2) The Dean may also give notice to any other person to provide any information or evidence that the Dean thinks necessary for the purposes of his or her inquiry —\n(a)in writing; or\n(b)by attending before the Dean at the time and place specified in the notice.\n(3) If the candidate concerned does not attend before the Dean when called upon to do so under paragraph (1), the Dean may proceed with his or her inquiry in the candidate’s absence.\n(4) If, in the course of his or her inquiry, the Dean receives information that the candidate concerned has committed any other misconduct that is not mentioned in the Part B Director’s report under rule 17(1)(a) or (2), the Dean may, after giving notice to the candidate, proceed to inquire into that misconduct even though there is no report.\n(5) A candidate attending before the Dean under paragraph (1)(b)(ii) must not be represented by an advocate and solicitor."
+   }
+  },
+  {
+   "id": "SG-H2986-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Disciplinary action by Dean following inquiry"
+   },
+   "text": {
+    "en": "19.—(1) After the Dean has conducted his or her inquiry and given the candidate concerned a reasonable opportunity of being heard, the Dean may —\n(a)determine that no action be taken against the candidate;\n(b)take any one or more minor disciplinary measures against the candidate; or\n(c)submit a report of his or her findings to a Disciplinary Committee appointed under rule 20 and recommend to the Disciplinary Committee that a major disciplinary measure be taken in respect of the candidate.\n(2) If —\n(a)the Dean issues, under paragraph (1)(b) read with rule 14(f), a written notice to the candidate directing him or her to comply with the requirements specified in that notice; and\n(b)the candidate fails to comply with the notice,\nthe Dean may deal with the candidate in any other manner provided for in paragraph (1) that the Dean thinks fit.\n(3) A candidate who has been dealt with by the Dean under paragraph (1) is not entitled to any refund of any fee paid by him or her to the Institute under rule 7 or 11.\n(4) The decision of the Dean to take any minor disciplinary measure mentioned in rule 14(d) to (h) against a candidate, or to take no action against a candidate, is final.\n(5) The Dean —\n(a)is not bound to act in a formal manner and may determine his or her own procedures;\n(b)is not bound by the provisions of the Evidence Act 1893 or by any other law relating to evidence; and\n(c)may inform himself or herself on any matter in any manner that he or she thinks fit."
+   }
+  },
+  {
+   "id": "SG-H2986-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Disciplinary Committee"
+   },
+   "text": {
+    "en": "20.—(1) The Chairperson may appoint any 3 members of the Board of Directors to constitute a Disciplinary Committee.\n(2) A Disciplinary Committee may be appointed in connection with one or more matters or for a fixed period of time as the Chairperson thinks fit.\n(3) The Chairperson must appoint one of the members of a Disciplinary Committee to preside over it.\n(4) If any member of a Disciplinary Committee is unable to act for any reason in any case, the Chairperson may appoint another member of the Board of Directors to replace him or her for that case.\n(5) The Part B Director is the secretary of every Disciplinary Committee.\n(6) A decision of any Disciplinary Committee must be made by a majority vote of its members.\n(7) A Disciplinary Committee —\n(a)is not bound to act in a formal manner and may determine its own procedures;\n(b)is not bound by the provisions of the Evidence Act 1893 or by any other law relating to evidence; and\n(c)may inform itself on any matter in any manner that it thinks fit."
+   }
+  },
+  {
+   "id": "SG-H2986-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Review of minor disciplinary measure by Disciplinary Committee"
+   },
+   "text": {
+    "en": "21.—(1) A candidate who is aggrieved by a decision of the Dean to take any minor disciplinary measure mentioned in rule 14(a), (b) or (c) may, within 14 days after the date on which the decision is communicated to the candidate, apply to the Institute in the manner specified by the Institute for the decision to be reviewed by a Disciplinary Committee.\n(2) Every application under paragraph (1) for a review of a decision of the Dean must be accompanied by the fee specified in the Second Schedule.\n(3) Upon reviewing an application by a candidate under paragraph (1), the Disciplinary Committee may —\n(a)affirm the decision of the Dean;\n(b)set aside the decision of the Dean; or\n(c)substitute the decision of the Dean with any minor or major disciplinary measure (or any combination of 2 or more of those measures) against the candidate.\n(4) If —\n(a)the Disciplinary Committee substitutes the decision of the Dean, under paragraph (3)(c) read with rule 14(f), with a written notice to the candidate directing the candidate to comply with the requirements specified in that notice; and\n(b)the candidate fails to comply with the notice,\nthe Disciplinary Committee may take any additional minor or major disciplinary measure (or any combination of 2 or more of those measures) against the candidate.\n(5) The Disciplinary Committee must give written notice to the candidate concerned of any decision it has made under paragraph (3) and, if applicable, any disciplinary measure that it has decided to take against the candidate under paragraph (3)(c) or (4).\n(6) The decision of the Disciplinary Committee —\n(a)under paragraph (3)(a) or (b); or\n(b)to take any minor disciplinary measure under paragraph (3)(c) or (4) against the candidate concerned,\nis final."
+   }
+  },
+  {
+   "id": "SG-H2986-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 3 CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Disciplinary action by Disciplinary Committee"
+   },
+   "text": {
+    "en": "22.—(1) Upon receiving and considering the report and recommendation of the Dean under rule 19(1)(c), the Disciplinary Committee may —\n(a)determine that no action be taken against the candidate concerned; or\n(b)take any minor or major disciplinary measure (or any combination of 2 or more of those measures) against the candidate.\n(2) The Disciplinary Committee must give written notice to the candidate concerned of the decision it has made under paragraph (1) and, if applicable, any disciplinary measure that it has decided to take against the candidate under paragraph (1)(b).\n(3) A candidate who has been dealt with by the Disciplinary Committee under paragraph (1) is not entitled to any refund of any fee paid by him or her to the Institute under rule 7 or 11.\n(4) The decision of the Disciplinary Committee to take any minor disciplinary measure against a candidate, or to take no action against a candidate, is final."
+   }
+  },
+  {
+   "id": "SG-H2986-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 3 CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Review of major disciplinary measure by Board of Directors"
+   },
+   "text": {
+    "en": "23.—(1) A candidate who is aggrieved by a decision of the Disciplinary Committee to take any major disciplinary measure under rule 21(3)(c) or (4) or 22(1)(b) may, within 14 days after the date on which the decision is communicated to the candidate, apply to the Institute in the manner specified by the Institute for the decision to be reviewed by the Board of Directors.\n(2) Every application under paragraph (1) for a review of a decision of the Disciplinary Committee must be accompanied by the fee specified in the Second Schedule.\n(3) Upon reviewing a decision of the Disciplinary Committee under paragraph (1), the Board of Directors may —\n(a)affirm the decision of the Disciplinary Committee;\n(b)set aside the decision of the Disciplinary Committee; or\n(c)substitute the decision of the Disciplinary Committee with any minor or major disciplinary measure (or any combination of 2 or more of those measures) against the candidate.\n(4) The Dean and members of the Disciplinary Committee concerned must neither —\n(a)participate in the review by the Board of Directors of the Disciplinary Committee’s decision; nor\n(b)vote on the decision of the Board of Directors to be made under paragraph (3).\n(5) The Board of Directors must give written notice to the candidate concerned of the decision it has made under paragraph (3) and, if applicable, any disciplinary measure that it has decided to take against the candidate under paragraph (3)(c).\n(6) The decision of the Board of Directors under paragraph (3) is final."
+   }
+  },
+  {
+   "id": "SG-H2986-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 ADMISSION OF LAWYERS (NP)"
+   },
+   "heading": {
+    "en": "Procedure before filing of application for admission as lawyer (NP)"
+   },
+   "text": {
+    "en": "24.—(1) A qualified person who intends to apply for admission as a lawyer (NP) must, before filing an application for admission, and on or before filing an application to attend the Part B Course —\n(a)apply, in the form and manner required by the Institute, to register his or her name with the Institute; and\n(b)produce to the Institute any document that the Institute may require in relation to the qualification by virtue of which he or she claims to be a qualified person.\n(2) The Institute must enter in a register of qualified persons —\n(a)the name of the qualified person; and\n(b)the date on which the name is entered in the register.\n(3) The fee payable by a qualified person on his or her registration under this rule is as specified in the Second Schedule."
+   }
+  },
+  {
+   "id": "SG-H2986-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 ADMISSION OF LAWYERS (NP)"
+   },
+   "heading": {
+    "en": "Application for admission as lawyer (NP)"
+   },
+   "text": {
+    "en": "25.—(1) This rule applies to an application for admission as a lawyer (NP) under section 11A of the Act made by a qualified person.\n(2) An application for admission under this rule must be made to the court by originating application and accompanied by any form that the Registrar may require.\n(3) The date fixed for the hearing of the application must be at least 60 days after the date on which the application is filed.\n(4) The applicant must, not earlier than 30 days after the date on which the application is filed, and not later than 21 days before the date fixed for the hearing of the application, file an affidavit exhibiting the following documents:\n(a)a certificate issued by the Institute stating that the applicant —\n(i)is a qualified person;\n(ii)has attended and satisfactorily completed the Part B Course, or has been exempted from the Part B Course by the Minister under section 11C(5) of the Act; and\n(iii)has passed the Part B Examinations, or has been exempted from the Part B Examinations by the Minister under section 11C(5) of the Act;\n(b)2 recent certificates as to the good character of the applicant which satisfy the requirements under paragraph (5).\n(5) For the purposes of paragraph (4)(b) —\n(a)the 2 certificates as to the good character of the applicant must be given by 2 responsible persons, each of whom —\n(i)is not immediately related to the applicant; and\n(ii)has known the applicant for at least 2 years, and has had opportunities to judge the applicant’s character; and\n(b)at least one of the 2 persons giving the certificates as to the good character of the applicant must be a resident of Singapore.\n(6) Despite paragraphs (4)(b) and (5), the court may accept in place of either or both of the certificates mentioned in paragraph (4)(b), or require in addition to those certificates, any other evidence of good character that the court thinks fit.\n(7) The following must be served on the Attorney-General, the Society and the Institute within 3 days after the date on which they are filed:\n(a)a copy each of the application and the form mentioned in paragraph (2);\n(b)a copy of the affidavit mentioned in paragraph (4).\n(8) The Attorney‑General, the Society or the Institute need not be represented at the hearing of any application for admission under this rule unless any of them intends to object to that application.\n(9) [Deleted by S 240/2025 wef 17/01/2025]"
+   }
+  },
+  {
+   "id": "SG-H2986-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 ADMISSION OF LAWYERS (NP)"
+   },
+   "heading": {
+    "en": "Objections to application for admission as lawyer (NP), in general"
+   },
+   "text": {
+    "en": "26.—(1) Subject to rule 27(1), any person who intends to object to any application for admission as a lawyer (NP) made under rule 25 must file in the court and serve on the Attorney‑General, the Society, the Institute and the applicant a notice of objection under this rule not later than 30 days after the date on which the application is filed.\n(2) Every notice of objection under this rule must contain the full name, occupation and address of the person who intends to object, a brief statement of the grounds of objection and an address for service."
+   }
+  },
+  {
+   "id": "SG-H2986-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 4 ADMISSION OF LAWYERS (NP)"
+   },
+   "heading": {
+    "en": "Objections to application for admission as lawyer (NP) by Attorney‑General, Society or Institute"
+   },
+   "text": {
+    "en": "27.—(1) If the Attorney‑General, the Society or the Institute intends to object to any application for admission as a lawyer (NP) made under rule 25, the Attorney‑General, the Society or the Institute (as the case may be) must file in the court and serve on the applicant, not less than 5 days before the date fixed for the hearing of the application, a notice of objection containing a brief statement of the grounds of objection.\n(2) If the Attorney‑General, the Society or the Institute does not intend to object to any application for admission as a lawyer (NP) made under rule 25, the Attorney‑General, the Society or the Institute (as the case may be) must serve or cause to be served on the applicant, not less than 5 days before the date fixed for the hearing of the application, a letter stating that as at the date of the letter, the Attorney‑General, the Society or the Institute (as the case may be) has no objection to the application.\n(3) The Attorney‑General, the Society or the Institute may, for the purposes of determining whether to object to any application for admission made under rule 25 —\n(a)require the applicant to provide, at the applicant’s own expense, any additional information or document that the Attorney‑General, the Society or the Institute (as the case may be) may specify; and\n(b)apply for that application to be adjourned."
+   }
+  },
+  {
+   "id": "SG-H2986-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 4 ADMISSION OF LAWYERS (NP)"
+   },
+   "heading": {
+    "en": "Declaration of person admitted as lawyer (NP)"
+   },
+   "text": {
+    "en": "28. Every person admitted as a lawyer (NP) must make a declaration in the form set out in the First Schedule, which may be modified (if necessary) to conform to the religious beliefs of the person so admitted."
+   }
+  },
+  {
+   "id": "SG-H2986-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 5 REQUIREMENTS RELATING TO PRACTICE TRAINING PERIOD"
+   },
+   "heading": {
+    "en": "Duration of practice training period"
+   },
+   "text": {
+    "en": "29. For the purposes of section 13(c) of the Act and subject to section 14(5) of the Act, the duration of the practice training period applicable to a qualified person or eligible person is 12 months."
+   }
+  },
+  {
+   "id": "SG-H2986-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 5 REQUIREMENTS RELATING TO PRACTICE TRAINING PERIOD"
+   },
+   "heading": {
+    "en": "Service of practice training period"
+   },
+   "text": {
+    "en": "30.—(1) For the purposes of section 13(c) of the Act, a qualified person or eligible person must serve, subject to paragraph (2), his or her practice training period and receive supervised training in relation to the practice of Singapore law during that period —\n(a)under one or more practice training contracts;\n(b)through working —\n(i)as a Judicial Service Officer or a Legal Service Officer; or\n(ii)under the supervision of a relevant legal officer who is an advocate and solicitor of not less than 5 years’ standing and who, for a total of not less than 5 out of the 7 years immediately preceding the date of starting the supervised training, has been a relevant legal officer or has been in active practice in a Singapore law practice or both (called in these Rules a qualifying relevant legal officer);\n(c)through working under the supervision of 2 or more qualifying relevant legal officers;\n(d)partly through working as a Judicial Service Officer or a Legal Service Officer and partly through working under the supervision of one or more qualifying relevant legal officers;\n(e)partly under one or more practice training contracts and partly through working as a Judicial Service Officer or a Legal Service Officer or under the supervision of one or more qualifying relevant legal officers; or\n(f)partly under one or more practice training contracts, partly through working as a Judicial Service Officer or a Legal Service Officer and partly through working under the supervision of one or more qualifying relevant legal officers.\n(2) A qualified person or eligible person must not serve more than 3 months of his or her practice training period under a practice training contract with a qualifying entity.\n(3) Subject to paragraph (4), a qualified person or eligible person must not, without the written permission of the Dean, hold any office or engage in any employment, whether full‑time or part‑time, during his or her practice training period.\n(4) Paragraph (3) does not —\n(a)apply to service as a Judicial Service Officer or a Legal Service Officer or to working under the supervision of a qualifying relevant legal officer;\n(b)apply to service as an Assistant Public Prosecutor in the Attorney‑General’s Chambers; or\n(c)preclude a qualified person or eligible person from receiving remuneration from a Singapore law practice or qualifying entity while serving his or her practice training period under a practice training contract with that Singapore law practice or qualifying entity.\n(5) Any period in which a qualified person or eligible person attends the Part B Course while concurrently receiving any supervised training in relation to the practice of Singapore law through working —\n(a)as a Judicial Service Officer or a Legal Service Officer; or\n(b)under the supervision of a qualifying relevant legal officer,\ndoes not count as part of his or her practice training period.\n(6) The practice training period must be served in accordance with any guidelines issued by the Institute under rule 49."
+   }
+  },
+  {
+   "id": "SG-H2986-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 5 REQUIREMENTS RELATING TO PRACTICE TRAINING PERIOD"
+   },
+   "heading": {
+    "en": "Eligibility to serve practice training period"
+   },
+   "text": {
+    "en": "31.—(1) A qualified person may start serving his or her practice training period under a practice training contract if the qualified person has attended and satisfactorily completed the Part B Course.\n(2) An eligible person may start serving his or her practice training period under a practice training contract at any time.\n(3) A qualified person who is a Judicial Service Officer, a Legal Service Officer or a person working under the supervision of a qualifying relevant legal officer may start serving his or her practice training period at any time."
+   }
+  },
+  {
+   "id": "SG-H2986-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 5 REQUIREMENTS RELATING TO PRACTICE TRAINING PERIOD"
+   },
+   "heading": {
+    "en": "Maximum duration of practice training period"
+   },
+   "text": {
+    "en": "32. Subject to any exemption or abridgement under section 14(5) of the Act —\n(a)a qualified person or eligible person must complete serving his or her practice training period within a continuous period of 16 months; and\n(b)any supervised training in relation to the practice of Singapore law that is received by the qualified person or eligible person 16 months or more before the last day of his or her practice training period does not count as part of the practice training period."
+   }
+  },
+  {
+   "id": "SG-H2986-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 6 REQUIREMENTS RELATING TO PRACTICE TRAINING CONTRACTS"
+   },
+   "heading": {
+    "en": "Supervising solicitor"
+   },
+   "text": {
+    "en": "33.—(1) A solicitor must not be the supervising solicitor of a practice trainee unless the solicitor —\n(a)is in active practice in a Singapore law practice; and\n(b)has in force a practising certificate for a total of not less than 5 out of the 7 years immediately preceding the date of starting his or her supervision of the practice trainee.\n(2) Subject to paragraph (3), a supervising solicitor must not supervise more than 2 practice trainees at any time.\n(3) A supervising solicitor does not contravene paragraph (2) if the period of supervising more than 2 practice trainees at the same time is less than 3 months."
+   }
+  },
+  {
+   "id": "SG-H2986-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 6 REQUIREMENTS RELATING TO PRACTICE TRAINING CONTRACTS"
+   },
+   "heading": {
+    "en": "Responsibilities of supervising solicitor"
+   },
+   "text": {
+    "en": "34. A supervising solicitor must ensure that each practice trainee under his or her supervision —\n(a)receives adequate training, during the practice training period, in any matters that the Institute may specify in any guidelines issued under rule 49, including matters relating to professional responsibility, etiquette and conduct;\n(b)attends, during the practice training period, any courses, workshops and programmes specified by the Institute in any guidelines issued under rule 49; and\n(c)is subject to a training review in accordance with any guidelines issued under rule 49."
+   }
+  },
+  {
+   "id": "SG-H2986-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 6 REQUIREMENTS RELATING TO PRACTICE TRAINING CONTRACTS"
+   },
+   "heading": {
+    "en": "Responsibilities of Singapore law practice under practice training contract"
+   },
+   "text": {
+    "en": "35.—(1) A Singapore law practice which provides a practice trainee with supervised training in relation to the practice of Singapore law under a practice training contract must ensure that —\n(a)the practice trainee is based in Singapore and is supervised by a supervising solicitor in active practice in the Singapore law practice;\n(b)the supervising solicitor performs his or her responsibilities under rule 34 and in accordance with any guidelines issued under rule 49; and\n(c)the Singapore law practice performs any other responsibilities specified by the Institute in any guidelines issued under rule 49.\n(2) Where the Singapore law practice does not have the expertise or resources to provide the practice trainee with any part of the practice training required, the Singapore law practice may arrange, with the prior written permission of the Institute, for the practice trainee to receive that part of the training in another Singapore law practice in accordance with any guidelines issued under rule 49.\n(3) A practice trainee is deemed to be supervised by his or her supervising solicitor during the period that the practice trainee receives training in another Singapore law practice under paragraph (2)."
+   }
+  },
+  {
+   "id": "SG-H2986-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 6 REQUIREMENTS RELATING TO PRACTICE TRAINING CONTRACTS"
+   },
+   "heading": {
+    "en": "Qualifying entity"
+   },
+   "text": {
+    "en": "36.—(1) A sole proprietorship, incorporated or unincorporated partnership or body corporate is a qualifying entity if it has a legal department (by whatever name called) which —\n(a)handles Singapore law‑related work;\n(b)employs at least 3 persons who are admitted to practise in Singapore or in a state or territory other than Singapore; and\n(c)employs at least one person who meets the requirements in rule 37.\n(2) A qualifying entity excludes a Singapore law practice, Joint Law Venture, Qualifying Foreign Law Practice or licensed foreign law practice."
+   }
+  },
+  {
+   "id": "SG-H2986-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 6 REQUIREMENTS RELATING TO PRACTICE TRAINING CONTRACTS"
+   },
+   "heading": {
+    "en": "Supervisor in qualifying entity"
+   },
+   "text": {
+    "en": "37.—(1) A person must not be a supervisor in a qualifying entity for a practice trainee, unless the person —\n(a)is in full‑time employment in the legal department of the qualifying entity during the practice training period served by the practice trainee with the qualifying entity;\n(b)is an advocate and solicitor who, for a total of not less than 5 out of the 7 years immediately preceding the date of starting his or her supervision of the practice trainee, is in full‑time employment in the legal department of a qualifying entity or has in force a practising certificate; and\n(c)has met any other requirements specified by the Institute in any guidelines issued under rule 49.\n(2) A supervisor in a qualifying entity must not supervise more than 2 practice trainees at any time."
+   }
+  },
+  {
+   "id": "SG-H2986-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 6 REQUIREMENTS RELATING TO PRACTICE TRAINING CONTRACTS"
+   },
+   "heading": {
+    "en": "Responsibilities of supervisor in qualifying entity"
+   },
+   "text": {
+    "en": "38. A supervisor in a qualifying entity must ensure that each practice trainee under his or her supervision —\n(a)receives adequate training during the practice training period served by the practice trainee with the qualifying entity, in such matters as the Institute may specify in any guidelines issued under rule 49, including matters relating to professional responsibility, etiquette and conduct;\n(b)attends, during the practice training period served by the practice trainee with the qualifying entity, any courses, workshops and programmes specified by the Institute in any guidelines issued under rule 49;\n(c)is based in Singapore; and\n(d)is subject to a training review in accordance with any guidelines issued under rule 49."
+   }
+  },
+  {
+   "id": "SG-H2986-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 6 REQUIREMENTS RELATING TO PRACTICE TRAINING CONTRACTS"
+   },
+   "heading": {
+    "en": "Registration of practice training contracts"
+   },
+   "text": {
+    "en": "39.—(1) A Singapore law practice must register with the Institute —\n(a)every practice training contract under which the Singapore law practice provides to a practice trainee supervised training in relation to the practice of Singapore law; and\n(b)in relation to each practice training contract mentioned in sub‑paragraph (a), the particulars of the practice trainee and his or her supervising solicitor.\n(2) A qualifying entity must register with the Institute —\n(a)every practice training contract under which the qualifying entity provides to a practice trainee supervised training in relation to the practice of Singapore law; and\n(b)in relation to each practice training contract, the particulars of the practice trainee and his or her supervisor in the qualifying entity."
+   }
+  },
+  {
+   "id": "SG-H2986-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 6 REQUIREMENTS RELATING TO PRACTICE TRAINING CONTRACTS"
+   },
+   "heading": {
+    "en": "Disclosure of details of supervised training"
+   },
+   "text": {
+    "en": "40. A Singapore law practice or qualifying entity which intends to provide supervised training in relation to the practice of Singapore law under a practice training contract must publicise the details of the supervised training —\n(a)on the Internet website (if any) of the Singapore law practice or qualifying entity, as the case may be; or\n(b)on any other Internet website that the Institute may specify in any guidelines issued by the Institute under rule 49."
+   }
+  },
+  {
+   "id": "SG-H2986-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 7 ADMISSION OF ADVOCATES AND SOLICITORS"
+   },
+   "heading": {
+    "en": "Procedure before filing of application for admission as advocate and solicitor"
+   },
+   "text": {
+    "en": "41.—(1) If a qualified person or eligible person who intends to apply for admission as an advocate and solicitor is required to serve a practice training period, he or she must —\n(a)inform the Institute, at least 14 days before starting the practice training period, in the form and manner required by the Institute, of —\n(i)the proposed date of starting the practice training period;\n(ii)his or her intention to serve the practice training period in one of the following ways:\n(A)under a practice training contract with a Singapore law practice or qualifying entity of the specified name and address;\n(B)through working as a Judicial Service Officer or a Legal Service Officer;\n(C)through working under the supervision of a qualifying relevant legal officer of the specified name, appointment and address; and\n(iii)where his or her intention is to serve the practice training contract under sub‑paragraph (ii)(A), the name of the supervising solicitor or the supervisor in the qualifying entity, as the case may be; and\n(b)obtain the approval of the Institute of the manner in which the practice training period is to be served.\n(2) If a qualified person or eligible person intends to change the manner of serving his or her practice training period, he or she must notify the Institute in writing of that intention and obtain the approval of the Institute for the change.\n(3) Notification of the intended change mentioned in paragraph (2) must be given no later than 14 days after the change, failing which the period served after the change is not to be counted towards the practice training period."
+   }
+  },
+  {
+   "id": "SG-H2986-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 7 ADMISSION OF ADVOCATES AND SOLICITORS"
+   },
+   "heading": {
+    "en": "Application by eligible person for admission as advocate and solicitor"
+   },
+   "text": {
+    "en": "42.—(1) This rule applies to an application for admission as an advocate and solicitor under section 12(2) of the Act made by an eligible person.\n(2) An application for admission under this rule must be made by originating application and be accompanied by any form that the Registrar may require.\n(3) The date fixed for the hearing of the application must be at least 60 days after the date on which the application is filed.\n(4) The applicant must, not earlier than 30 days after the date on which the application is filed, and not later than 21 days before the date fixed for the hearing of the application, file an affidavit exhibiting the following documents:\n(a)a certificate issued by the Institute stating that the applicant has served the practice training period applicable to him or her;\n(b)the instrument of call as a lawyer (NP);\n(c)2 recent certificates as to his or her good character which satisfy the requirements under paragraph (5);\n(d)in the case of an applicant who is required to serve a practice training period, such certificate as is mentioned in paragraph (7), or any other evidence that the court may require, showing that the applicant has served his or her practice training period with diligence.\n(5) For the purposes of paragraph (4)(c) —\n(a)the 2 certificates as to the good character of the applicant must be given by 2 responsible persons, each of whom —\n(i)is not immediately related to the applicant; and\n(ii)has known the applicant for at least 2 years, and has had opportunities to judge the applicant’s character; and\n(b)at least one of the 2 persons giving the certificates as to the good character of the applicant must be a resident of Singapore.\n(6) Despite paragraphs (4)(c) and (5), the court may accept in place of either or both of the certificates mentioned in paragraph (4)(c), or require in addition to those certificates, any other evidence of good character that the court thinks fit.\n(7) Subject to rule 43, for the purposes of paragraph (4)(d), the applicant must exhibit, in the affidavit mentioned in paragraph (4), a certificate of diligence —\n(a)if he or she has, or is deemed to have, served the whole or any part of his or her practice training period under a practice training contract with any Singapore law practice — from each Singapore law practice from which he or she has received supervised training in relation to the practice of Singapore law;\n(b)if he or she has, or is deemed to have, served any part of his or her practice training period under a practice training contract with any qualifying entity — from the supervisor in each qualifying entity from which he or she has received supervised training in relation to the practice of Singapore law;\n(c)if he or she has, or is deemed to have, served the whole or any part of his or her practice training period through working as a Judicial Service Officer or a Legal Service Officer — from a Deputy Attorney‑General, the Solicitor‑General, the Registrar of the Supreme Court, the Registrar of the Family Justice Courts or the Registrar of the State Courts; or\n(d)if he or she has, or is deemed to have, served the whole or any part of his or her practice training period through working under the supervision of a qualifying relevant legal officer — from each qualifying relevant legal officer.\n(8) The following must be served on the Attorney‑General, the Society and the Institute within 3 days after the date on which they are filed:\n(a)a copy each of the application and the form mentioned in paragraph (2);\n(b)a copy of the affidavit mentioned in paragraph (4).\n(9) The Attorney‑General, the Society or the Institute need not be represented at the hearing of any application for admission under this rule unless any of them intends to object to that application."
+   }
+  },
+  {
+   "id": "SG-H2986-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 7 ADMISSION OF ADVOCATES AND SOLICITORS"
+   },
+   "heading": {
+    "en": "Issue of certificate by Dean"
+   },
+   "text": {
+    "en": "43. Upon application by any person who is unable to obtain any certificate or certificates mentioned in rule 42(7)(a), (b) or (d) by reason of the death or incapacity of the issuer mentioned in those provisions, if the Dean is of the opinion that the person has satisfactorily completed a period of practice training, the Dean may deem that the person has served that period of practice training period with diligence and issue a certificate for this purpose."
+   }
+  },
+  {
+   "id": "SG-H2986-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 7 ADMISSION OF ADVOCATES AND SOLICITORS"
+   },
+   "heading": {
+    "en": "Objections to application for admission as advocate and solicitor, in general"
+   },
+   "text": {
+    "en": "44.—(1) Subject to rule 45(1), any person who intends to object to any application for admission as an advocate and solicitor made under rule 42 must file in the court and serve on the Attorney‑General, the Society, the Institute and the applicant a notice of objection under this rule not later than 30 days after the date on which the application is filed.\n(2) Every notice of objection under this rule must contain the full name, occupation and address of the person who intends to object, a brief statement of the grounds of objection and an address for service."
+   }
+  },
+  {
+   "id": "SG-H2986-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 7 ADMISSION OF ADVOCATES AND SOLICITORS"
+   },
+   "heading": {
+    "en": "Objections to application for admission as advocate and solicitor by Attorney‑General, Society or Institute"
+   },
+   "text": {
+    "en": "45.—(1) If the Attorney‑General, the Society or the Institute intends to object to any application for admission as an advocate and solicitor made under rule 42, the Attorney‑General, the Society or the Institute (as the case may be) must file in the court and serve on the applicant, not less than 5 days before the date fixed for the hearing of the application, a notice of objection containing a brief statement of the grounds of objection.\n(2) If the Attorney‑General, the Society or the Institute does not intend to object to any application for admission as an advocate and solicitor made under rule 42, the Attorney‑General, the Society or the Institute (as the case may be) must serve on the applicant, not less than 5 days before the date fixed for the hearing of the application, a letter stating that as at the date of the letter, the Attorney‑General, the Society or the Institute (as the case may be) has no objection to the application.\n(3) The Attorney‑General, the Society or the Institute may, for the purposes of determining whether to object to any application for admission made under rule 42 —\n(a)require the applicant to provide, at the applicant’s own expense, any additional information or document that the Attorney‑General, the Society or the Institute (as the case may be) may specify; and\n(b)apply for that application to be adjourned."
+   }
+  },
+  {
+   "id": "SG-H2986-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 7 ADMISSION OF ADVOCATES AND SOLICITORS"
+   },
+   "heading": {
+    "en": "Declaration of person admitted as advocate and solicitor"
+   },
+   "text": {
+    "en": "46. Every person admitted as an advocate and solicitor must make a declaration in the form set out in the First Schedule, which may be modified (if necessary) to conform to the religious beliefs of the person so admitted."
+   }
+  },
+  {
+   "id": "SG-H2986-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 7 ADMISSION OF ADVOCATES AND SOLICITORS"
+   },
+   "heading": {
+    "en": "Ad hoc admissions"
+   },
+   "text": {
+    "en": "47.—(1) The following areas of legal practice are prescribed for the purposes of section 15(2) of the Act:\n(a)constitutional and administrative law;\n(b)criminal law;\n(c)family law.\n(2) For the purposes of section 15(5) of the Act, a person who applies to be admitted under section 15 of the Act must pay —\n(a)a fee of $1,000 to the Attorney‑General for the Attorney‑General’s costs incurred in the application; and\n(b)a fee of $1,000 to the Society for the Society’s costs incurred in the application."
+   }
+  },
+  {
+   "id": "SG-H2986-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Power of Institute to revoke certificates, awards and prizes"
+   },
+   "text": {
+    "en": "48.—(1) The Institute may revoke any certificate, award or prize granted or issued by it, or by the Board of Legal Education or the Secretary thereof, to any person if the Institute is satisfied that —\n(a)the person has obtained the certificate, award or prize through dishonest or fraudulent means;\n(b)the person has made any statement which is false in any material particular, or made or produced or caused to be made or produced any false or fraudulent certificate or other academic qualification, in or in relation to the person’s application for admission to —\n(i)the Part B Course;\n(ii)the Postgraduate Practical Course in Law conducted by the Board of Legal Education; or\n(c)the certificate, award or prize has been granted or issued in error.\n(2) The Institute must, before revoking any certificate, award or prize under paragraph (1)(a) or (b), give the person concerned written notice of its intention to do so, specifying a date, not less than 21 days after the date of the notice, on which the revocation will take effect and calling upon the person to show cause to the Institute why the certificate, award or prize should not be revoked.\n(3) When the Institute has revoked any certificate, award or prize under paragraph (1) —\n(a)the Institute must inform the person concerned by written notice of the revocation; and\n(b)the person concerned must return the certificate, award or prize to the Institute within such time as the Institute may allow.\n(4) When the Institute has revoked any certificate, award or prize under paragraph (1)(a) or (b), notice of the revocation must be published in the Gazette.\n(5) The certificate, award or prize ceases to be valid upon its revocation.\n(6) In this rule, “award” includes an award of a pass or distinction in any assignment, examination or test."
+   }
+  },
+  {
+   "id": "SG-H2986-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Guidelines"
+   },
+   "text": {
+    "en": "49.—(1) The Institute may, from time to time, issue guidelines for the purposes of Parts 5, 6 and 7.\n(2) The guidelines issued under paragraph (1) may explain or clarify, or provide examples or illustrations to explain or clarify, any requirement under the rules in those Parts."
+   }
+  },
+  {
+   "id": "SG-H2986-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Forms"
+   },
+   "text": {
+    "en": "50.—(1) The forms to be used for the purposes of these Rules are those set out on the Institute’s website, and —\n(a)any reference in these Rules to a numbered form (where the number may include alphanumeric characters) is a reference to the current version of the form bearing the corresponding number that is set out on that website; and\n(b)the reference in paragraph (8)(b) or (c) to the relevant version of a numbered form is a reference to the current version of the form applicable to the issuer of the form that is described in that provision.\n(2) The affidavit mentioned in rule 25(4) must be in Form A(1).\n(3) The certificate mentioned in rule 25(4)(a) must be in Form B(1).\n(4) The certificates as to the good character of the applicant mentioned in rule 25(4)(b) must be in Form C.\n(5) The affidavit mentioned in rule 42(4) must —\n(a)except in any case where sub‑paragraph (b) applies — be in Form A(2); or\n(b)in any case where the applicant relies on an exemption from serving any practice training period — be in Form A(3).\n(6) The certificate mentioned in rule 42(4)(a) must be in Form B(2).\n(7) The certificates as to the good character of the applicant mentioned in rule 42(4)(c) must be in Form C.\n(8) A certificate mentioned in rule 42(4)(d) that an applicant has served his or her practice training period with diligence must —\n(a)if it is from a Singapore law practice which is a sole proprietorship — be in Form D(1);\n(b)if it is from a Singapore law practice which is a partnership, a limited liability law partnership or a law corporation — be in the relevant version of Form D(2);\n(c)if it is from a Deputy Attorney‑General, the Solicitor‑General, the Registrar of the Supreme Court, the Registrar of the Family Justice Courts or the Registrar of the State Courts — be in the relevant version of Form D(3);\n(d)if it is from a qualifying relevant legal officer — be in Form D(4);\n(e)if it is from a supervisor in a qualifying entity — be in Form D(5); or\n(f)if it is from the Dean issued under rule 43 — be in Form D(6).\n(9) Where the circumstances of an applicant for admission are such that no version of a form as set out on the Institute’s website is applicable in his or her case, the applicant must make use of such other form as the Institute may approve."
+   }
+  },
+  {
+   "id": "SG-H2986-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Revocation"
+   },
+   "text": {
+    "en": "51. Revoke the Legal Profession (Admission) Rules 2011 (G.N. No. S 244/2011)."
+   }
+  },
+  {
+   "id": "SG-H2986-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Saving and transitional provisions"
+   },
+   "text": {
+    "en": "52. Despite rule 51, the Legal Profession (Admission) Rules 2011 as in force immediately before 17 July 2024 apply to —\n(a)an individual who —\n(i)becomes a qualified person before 1 November 2023;\n(ii)passes the Part B Examinations before 17 July 2024 or any later date that the Minister may approve in his or her case; and\n(iii)applies before 17 July 2024, or any later date that the Minister may approve in his or her case, to be admitted as an advocate and solicitor under section 12 of the Act as in force immediately before 17 July 2024; or\n(b)an individual who —\n(i)becomes a qualified person between 1 November 2023 and 31 January 2024 (both dates inclusive);\n(ii)has satisfactorily completed his or her practice training period under a practice training contract with a Singapore law practice before 17 July 2024 or any later date that the Minister may approve in his or her case;\n(iii)passes the Part B Examinations before 1 November 2025 or any later date that the Minister may approve in his or her case; and\n(iv)applies before 1 November 2025, or any later date that the Minister may approve in his or her case, to be admitted as an advocate and solicitor under section 12 of the Act as in force immediately before 17 July 2024."
+   }
+  },
+  {
+   "id": "SG-H2986-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nDeclaration (as lawyer (non-practitioner))\nRule 28\nI, [name], recognising the privilege and responsibility of being a member of an honourable profession, do solemnly and sincerely declare and aﬃrm (or swear) that —\nI am an oﬃcer of the Court;\nI will truly and honestly conduct myself as a lawyer (non‑practitioner) according to the best of my knowledge and ability and according to law;\nI will at all times honour my duties and responsibilities as a member of the legal profession;\nI will strive to uphold the values and best traditions of the legal profession; and\nI will respect and uphold the rule of law, promote the ends of justice and serve the public good, sincerely and to the best of my ability.\n(So help me God.)\nDeclaration (as advocate and solicitor)\nRule 46\nI, [name], recognising the privilege and responsibility of being a member of an honourable profession, do solemnly and sincerely declare and aﬃrm (or swear) that —\nI am an oﬃcer of the Court;\nI will truly and honestly conduct myself in the practice of an advocate and solicitor according to the best of my knowledge and ability and according to law;\nI will at all times honour my duties and responsibilities to the Court, to my clients and to fellow members of the legal profession;\nI will strive to uphold the values and best traditions of the legal profession; and\nI will respect and uphold the rule of law, promote the ends of justice and serve the public good, sincerely and to the best of my ability.\n(So help me God.)"
+   }
+  },
+  {
+   "id": "SG-H2986-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nFees\nRules 7(2), 8(2), 11(3), 21(2), 23(2) and 24(3)\nFirst column\nItem\nSecond column\nFee\n1.Part B Course and Part B Examinations fee under rule 7(2)(b)(i), inclusive of a non‑refundable application fee of $545, for —\n(a)a Singapore citizen\n$5,450\n(b)a Singapore permanent resident\n$6,322\n(c)a foreigner\n$7,630\n2.Application fee under rule 8(2) for review of Part B Director’s decision\n$218\n3.Fee under rule 11(3)(b)(i) for retaking Part B Examinations\n$545 per module\n4.Application fee under rule 21(2) for review of Dean’s decision\n$218\n5.Application fee under rule 23(2) for review of Disciplinary Committee’s decision\n$218\n6.Fee under rule 24(3) for registration as a qualified person\n$218"
+   }
+  }
+ ]
+}

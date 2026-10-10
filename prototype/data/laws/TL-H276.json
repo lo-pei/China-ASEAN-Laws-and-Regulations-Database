@@ -1,0 +1,426 @@
+{
+ "id": "TL-H276",
+ "title": {
+  "zh": "出口促进",
+  "en": null,
+  "orig": "Promoção das Exportações"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p05",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2026-04-15",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 6/2026",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 24,
+ "chars": 14602,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2026/serie_1/SERIE_I_NO_15.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 24 条；逐字取自官方公报 PDF（public/docs/2026/serie_1/SERIE_I_NO_15.pdf）第 384–393 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H276-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Objeto"
+   },
+   "text": {
+    "pt": "A presente lei define o regime jurídico da atividade de exportação e reexportação de bens e serviços e estabelece medidas para a sua promoção e desenvolvimento."
+   }
+  },
+  {
+   "id": "TL-H276-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Âmbito de aplicação"
+   },
+   "text": {
+    "pt": "1.   A  presente lei aplica-se à exportação e reexportação de bens e serviços em todos os sectores da atividade económica, com exceção daqueles que estejam sujeitos, por lei, a regime especial.\n2.   A presente lei não se aplica, designadamente, ao setor do petróleo e gás."
+   }
+  },
+  {
+   "id": "TL-H276-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Definições"
+   },
+   "text": {
+    "pt": "Para efeitos da presente lei, entende-se por:\na)   «Certificado de Exportador», o documento que qualifica e reconhece de forma diferenciada a empresa como exportadora certificada;\nb)   «Comércio externo», o comércio entre o território do Estado de Timor-Leste e o território de outro Estado;\nc)  «Desalfandegamento», o cumprimento das formalidades aduaneiras necessárias para exportar mercadorias ou para as submeter a outro regime aduaneiro, nos termos da legislação aduaneira;\nd)   «Empresa exportadora», a pessoa singular ou coletiva que, autorizada nos termos da lei a exercer atividades económicas, realize operações de exportação ou reexportação;\ne)   «Empresa exportadora certificada», a empresa exportadora reconhecida como tal na legislação sobre as regras de origem;\nf)   «Exportação», a saída do território aduaneiro de Timor- Leste, por qualquer via, de mercadorias ou serviços nacionais, sendo ainda consideradas exportações as vendas de mercadorias ou serviços nacionais a empresas francas fiscalmente residentes em Timor-Leste e, bem assim, a outras entidades exportadoras sempre que sejam manuseados para exportação, incorporados ou utilizados na produção de outros bens e serviços destinados a exportação;\ng)  «Mercadoria», qualquer bem suscetível de ser comercializado;\nh)   «Mercadorias proibidas», aquelas cujo trânsito, importação ou exportação sejam proibidos em Timor-Leste, nos termos da lei, de acordo internacional de que Timor-Leste seja parte ou cuja proibição resulta de normas de direito internacional;\n(i)   «Mercadorias sujeitas a restrições ou de exportação restrita», aquelas cuja exportação ou importação esteja sujeita a condições ou restrições especiais, nos termos da lei, de acordo internacional de que Timor-Leste seja parte ou de direito internacional geral ou comum;\nj)  «Reexportação», a exportação de mercadorias e serviços que hajam sido importados, sem terem sido transformados de forma substancial no país, nos termos em que transformação substancial é definida na legislação sobre as regras de origem;\nk)   «Regras de origem», o conjunto de normas e procedimentos que estabelecem os critérios usados para determinar o país de origem de uma mercadoria."
+   }
+  },
+  {
+   "id": "TL-H276-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II LIBERDADES, GARANTIAS  E  BENEFÍCIOS"
+   },
+   "heading": {
+    "pt": "Liberdade de exportação e reexportação"
+   },
+   "text": {
+    "pt": "1.   A exportação e a reexportação são livres, não carecendo de qualquer autorização administrativa prévia.\n2.  O disposto no número anterior não dispensa as empresas exportadoras do cumprimento de formalidades destinadas ao controlo da conformidade dos bens e serviços exportados ou reexportados com as normas de sanidade e de qualidade e com as regras de origem ou outras exigíveis por força de lei ou regulamento ou de acordo internacional celebrado por Timor-Leste e ao seu desalfandegamento nos termos da legislação aduaneira.\n3.   Excetuam-se da liberdade estabelecida no presente artigo a exportação ou reexportação de mercadorias proibidas, bem como as sujeitas a restrições ou de exportação restrita."
+   }
+  },
+  {
+   "id": "TL-H276-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II LIBERDADES, GARANTIAS  E  BENEFÍCIOS"
+   },
+   "heading": {
+    "pt": "Liberdade de importação"
+   },
+   "text": {
+    "pt": "1.   É efetuada sem necessidade de qualquer autorização prévia, sujeitando-se apenas a declaração de modelo regulamentar no processo de desalfandegamento, a importação de:\na) Mercadorias destinadas à exportação;\nb) Matéria prima ou subsidiária, produtos semiacabados ou acabados e outros materiais destinados a serem incorporados ou utilizados na produção de bens e serviços destinados à exportação.\n2.  A importação das mercadorias referidas na alínea b) do número anterior pode beneficiar de regime aduaneiro especial, nos termos da legislação aplicável."
+   }
+  },
+  {
+   "id": "TL-H276-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II LIBERDADES, GARANTIAS  E  BENEFÍCIOS"
+   },
+   "heading": {
+    "pt": "Não discriminação"
+   },
+   "text": {
+    "pt": "1.  Todas as empresas exportadoras gozam dos mesmos direitos, estão sujeitas às mesmas obrigações e têm tratamento igual, nos termos da Constituição e da lei, não podendo ser discriminadas, designadamente com base na nacionalidade, sede ou domicílio ou na origem dos capitais nelas investidos.\n2.  O disposto no número anterior não obsta ao estabelecimento de um regime mais favorável para as empresas exportadoras certificadas."
+   }
+  },
+  {
+   "id": "TL-H276-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II LIBERDADES, GARANTIAS  E  BENEFÍCIOS"
+   },
+   "heading": {
+    "pt": "Proteção"
+   },
+   "text": {
+    "pt": "A empresa exportadora só pode ser nacionalizada e os seus bens só podem ser expropriados por motivos de utilidade ou interesse público, nos termos da lei e mediante o pagamento integral de justa indemnização."
+   }
+  },
+  {
+   "id": "TL-H276-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II LIBERDADES, GARANTIAS  E  BENEFÍCIOS"
+   },
+   "heading": {
+    "pt": "Tutela jurisdicional efetiva"
+   },
+   "text": {
+    "pt": "A empresa exportadora tem o direito de requerer junto dos tribunais com jurisdição administrativa a tutela efetiva dos seus direitos e interesses legalmente protegidos, para o efeito podendo solicitar, designadamente:\na)   A anulação ou declaração de nulidade ou de ineficácia de qualquer ato ou regulamento administrativo, independentemente da forma assumida, que a lese ou possa lesar;\nb)  A adoção de medidas urgentes ou cautelares adequadas à sua tutela preventiva;\nc)   Indemnização pelos danos resultantes da sua violação, por ação ou omissão de agentes públicos, praticada no exercício de funções e por causa delas;\nd)   A condenação da Administração à prática de ato administrativo legalmente devido, em caso de recusa ou silêncio daquela; ou\ne)   A prática dos atos jurídicos e materiais necessários à efetiva execução das decisões judiciais administrativas."
+   }
+  },
+  {
+   "id": "TL-H276-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II LIBERDADES, GARANTIAS  E  BENEFÍCIOS"
+   },
+   "heading": {
+    "pt": "Resolução de litígios com a Administração"
+   },
+   "text": {
+    "pt": "1.   Nos litígios entre uma empresa exportadora e a Administração Pública, incluindo os que se relacionem com matéria administrativa ou fiscal, mas excluindo os que se refiram a matéria criminal e contraordenacional, as partes devem esforçar-se por obter uma solução amigável, negociada no prazo de 30 dias.\n2.   Findo o prazo referido no número anterior sem que tenha sido alcançado acordo, qualquer das partes pode promover a arbitragem para a resolução do litígio, nos termos da lei de arbitragem vigente, dando conhecimento do facto à outra parte.\n3.    A opção pela arbitragem nos termos do presente artigo não implica a renúncia das partes ao direito de acesso aos tribunais judiciais sobre as questões objeto do litígio.\n4.  A opção pela arbitragem não impede a interposição de procedimento cautelar, antes ou durante o processo arbitral, desde que a providência requerida não seja incompatível com esse processo.\n5.   Em caso de opção pela arbitragem, o tribunal onde dê entrada ação sobre questão objeto do litígio deve, logo que tome conhecimento do documento pelo qual a opção foi formalizada, absolver o réu da instância e remeter as partes para a arbitragem, salvo se considerar nula a opção."
+   }
+  },
+  {
+   "id": "TL-H276-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II LIBERDADES, GARANTIAS  E  BENEFÍCIOS"
+   },
+   "heading": {
+    "pt": "Direito de estabelecimento em zonas económicas especiais"
+   },
+   "text": {
+    "pt": "A empresa exportadora pode estabelecer-se em zonas económicas especiais, designadamente em zonas ou entrepostos de processamento para exportação, cumpridos que sejam os requisitos exigidos por lei."
+   }
+  },
+  {
+   "id": "TL-H276-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II LIBERDADES, GARANTIAS  E  BENEFÍCIOS"
+   },
+   "heading": {
+    "pt": "Cedência de imóveis do Estado"
+   },
+   "text": {
+    "pt": "1.    O Estado pode celebrar com qualquer empresa exportadora contrato de arrendamento de bens imóveis do Estado, designadamente de instalações, armazéns e pavilhões industriais, ou outro contrato destinado à constituição de direitos reais de gozo sobre bens imóveis, nos termos previstos na Lei do Investimento Privado, no Código Civil e na demais legislação aplicável em matéria de terras e propriedades.\n2.   As empresas exportadoras certificadas têm direito a um tratamento acelerado no procedimento administrativo aplicável destinado à celebração do contrato a que se refere o número anterior.\n3.   O disposto no n.º 1 está sujeito aos limites previstos pela Constituição, sendo apenas reconhecido o direito aÌ propriedade privada da terra aos cidadãos nacionais de Timor-Leste."
+   }
+  },
+  {
+   "id": "TL-H276-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II LIBERDADES, GARANTIAS  E  BENEFÍCIOS"
+   },
+   "heading": {
+    "pt": "Tributação pelo lucro real"
+   },
+   "text": {
+    "pt": "As empresas exportadoras são tributadas pelo lucro efetivamente auferido, evidenciado pela respetiva contabilidade regularmente organizada nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H276-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II LIBERDADES, GARANTIAS  E  BENEFÍCIOS"
+   },
+   "heading": {
+    "pt": "Transferência de fundos para o exterior"
+   },
+   "text": {
+    "pt": "1.   Os titulares de empresa exportadora têm o direito de, cumpridas as obrigações a que estejam sujeitos, por lei ou decisão judicial transitada em julgado, transferir para o exterior todos os rendimentos provenientes da sua atividade económica, designadamente:\na) Lucros operacionais líquidos distribuídos, incluindo dividendos e juros de capital;\nb) Royalties e comissões por serviços relacionados com o investimento;\nc) Rendimento da alienação, amortização ou liquidação de participações ou ativos;\nd) Capital e juros de suprimentos e empréstimos feitos à empresa; ou\ne) Indemnização por nacionalização ou expropriação dos bens da empresa.\n2.    O direito de livre transferência de fundos para o estrangeiro deve ser exercido nos termos da regulamentação aplicável do Banco Central, sendo apenas limitado pela aplicação da legislação em vigor."
+   }
+  },
+  {
+   "id": "TL-H276-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II LIBERDADES, GARANTIAS  E  BENEFÍCIOS"
+   },
+   "heading": {
+    "pt": "Direito à contratação de trabalhadores ou colaboradores estrangeiros"
+   },
+   "text": {
+    "pt": "1.  A empresa exportadora tem o direito de contratar trabalhadores qualificados ou colaboradores estrangeiros para funções de supervisão ou direção, sem necessidade de prévia autorização administrativa, mas com sujeição a notificação à Administração laboral, com pelo menos 30 dias de antecedência e nos termos regulamentares.\n2.   Os trabalhadores e colaboradores recrutados ao abrigo do número anterior têm direito a visto de trabalho em Timor- Leste, a emitir no prazo de 10 dias a contar da notificação referida nesse número, desde que a sua entrada no território nacional não seja expressamente recusada com fundamento na lei.\n3.   A empresa exportadora certificada tem direito a acompanhamento e a um tratamento acelerado na emissão de um mínimo de cinco vistos de trabalho, para os trabalhadores e colaboradores estrangeiros a contratar, recrutados ao abrigo do n.º 1."
+   }
+  },
+  {
+   "id": "TL-H276-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II LIBERDADES, GARANTIAS  E  BENEFÍCIOS"
+   },
+   "heading": {
+    "pt": "Crédito, garantias e seguros à exportação"
+   },
+   "text": {
+    "pt": "O Governo pode instituir linhas de crédito ou outros mecanismos de financiamento, de garantia e de seguro de riscos de operações de exportação."
+   }
+  },
+  {
+   "id": "TL-H276-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II LIBERDADES, GARANTIAS  E  BENEFÍCIOS"
+   },
+   "heading": {
+    "pt": "Incentivos fiscais e aduaneiros"
+   },
+   "text": {
+    "pt": "As empresas exportadoras gozam dos benefícios fiscais e aduaneiros estabelecidos na legislação tributária e aduaneira."
+   }
+  },
+  {
+   "id": "TL-H276-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II LIBERDADES, GARANTIAS  E  BENEFÍCIOS"
+   },
+   "heading": {
+    "pt": "Outros direitos"
+   },
+   "text": {
+    "pt": "A empresa exportadora goza de todos os direitos e benefícios concedidos por lei ou regulamento ao investidor privado."
+   }
+  },
+  {
+   "id": "TL-H276-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II LIBERDADES, GARANTIAS  E  BENEFÍCIOS"
+   },
+   "heading": {
+    "pt": "Capacitação de exportadores"
+   },
+   "text": {
+    "pt": "O Governo promove, apoia ou organiza a capacitação e modernização das empresas exportadoras ou com potencial exportador de Timor-Leste, em especial das pequenas e médias empresas."
+   }
+  },
+  {
+   "id": "TL-H276-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CONDICIONAMENTOS  E  OBRIGAÇÕES"
+   },
+   "heading": {
+    "pt": "Obrigações das empresas exportadoras"
+   },
+   "text": {
+    "pt": "As empresas exportadoras ficam sujeitas às seguintes obrigações:\na)  Respeitar e cumprir as leis e regulamentos vigentes, em especial as que regulam os setores de atividade económica em que se inserem, a proteção e a sustentabilidade ambiental, o comércio externo, o investimento privado, o regime aduaneiro de entreposto, de armazenagem e de transferência de mercadorias e o regime de zona económica especial;\nb)  Ter e manter, em devida ordem e atualizada, contabilidade organizada, livros e registos nos termos da lei;\nc)  Colaborar com a Administração, designadamente com as administrações do comércio externo, tributária, aduaneira, portuária, aeroportuária, rodoviária e laboral;\nd)  Submeter-se à fiscalização administrativa, económica, tributária, aduaneira, laboral, técnica ou outra pública das suas atividades e instalações;\ne)    Fornecer à Administração as informações e a documentação exigidas com fundamento em lei ou regulamento;\nf)    Cumprir todas as demais obrigações do investidor privado definidas na Lei do Investimento Privado;\ng)   O mais que lhe for imposto por lei ou regulamento."
+   }
+  },
+  {
+   "id": "TL-H276-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CONDICIONAMENTOS  E  OBRIGAÇÕES"
+   },
+   "heading": {
+    "pt": "Obrigações especiais das empresas exportadoras certificadas"
+   },
+   "text": {
+    "pt": "As empresas exportadoras certificadas ficam sujeitas, ainda, às seguintes obrigações específicas:\na)  Inscrever-se no cadastro especial das empresas exportadoras junto do departamento governamental responsável pela área do comércio externo, quando pretendam usufruir de benefícios fiscais e ou aduaneiros; e\nb) Organizar, promover e apoiar a formação profissional contínua e acelerada dos trabalhadores e quadros técnicos timorenses em articulação com o Estado e as associações empresariais, em especial para funções qualificadas de natureza técnica e de gestão."
+   }
+  },
+  {
+   "id": "TL-H276-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Procedimento administrativo da exportação"
+   },
+   "text": {
+    "pt": "1.   O Governo regula o procedimento administrativo da operação de exportação, respeitando o seguinte:\na) Não poderá ser exigido à empresa exportadora qualquer ato, documento, obrigação, prova ou trâmite que não seja expressamente previsto nas leis que regulam as formalidades e controlos próprios desse procedimento administrativo;\nb) As ações ou omissões ilegais dos agentes públicos intervenientes no procedimento que causem prejuízos à empresa exportadora determinam responsabilidade civil do Estado e, por via do direito de regresso, daqueles agentes;\nc) A recusa ou o indeferimento de declaração, requerimento ou solicitação de empresa exportadora deve ser sempre fundamentada de modo expresso e acessível, com base em causa taxativamente prevista em lei ou regulamento; e\nd) As relações entre as empresas exportadoras certificadas e os diversos serviços intervenientes no procedimento são coordenadas, de modo centralizado, num balcão único com suporte, logo que possível, numa plataforma informática que o ligue em rede aos referidos serviços e que seja diretamente acessível ao exportador ou seu despachante aduaneiro ou mandatário.\n2.   Incumbe ainda ao Governo:\na) Garantir o cumprimento das regras de origem para produtos exportados ou reexportados de Timor-Leste e regular a emissão do respetivo certificado, relativamente à exportação de produtos não sujeita a regulação internacional específica;\nb) Estabelecer regras de padronização, incluindo designadamente a qualidade, a apresentação, a embalagem e a etiquetagem das mercadorias a exportar ou reexportar de Timor-Leste;\nc) Estabelecer um cadastro especial de empresas exportadoras certificadas acessível online a todas as instituições públicas ou delegadas intervenientes no procedimento administrativo de exportação, aos operadores económicos e ao público;\nd) Instituir um balcão único, one-stop-shop, para as operações de exportação, criando-o ou a elas alargando um já existente, suportado numa plataforma informática que interligue de modo coerente todas as instituições públicas ou delegadas intervenientes no procedimento administrativo de exportação e garanta à empresa exportadora ou seu mandatário acesso direto online para a obtenção de formulários, informações e permissões legalmente devidas, para a prestação de declarações e a apresentação de documentação."
+   }
+  },
+  {
+   "id": "TL-H276-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Regulamentação"
+   },
+   "text": {
+    "pt": "O Governo regulamenta a presente lei no prazo de 180 dias a contar da sua entrada em vigor."
+   }
+  },
+  {
+   "id": "TL-H276-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Resumo, glossário e índice de matérias"
+   },
+   "text": {
+    "pt": "Em cumprimento do disposto no n.º 9 do artigo 24.º da Resolução do Parlamento Nacional n.º 6/2025, de 28 de março, sobre a elaboração de leis e outros atos jurídicos do Parlamento Nacional, constam da presente lei, sem valor jurídico:\na)  Um anexo com um resumo do objeto e dos principais objetivos da lei;\nb)  Um anexo contendo um pequeno glossário dos mais significativos termos e expressões técnicas usados na lei."
+   }
+  },
+  {
+   "id": "TL-H276-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

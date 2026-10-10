@@ -1,0 +1,328 @@
+{
+ "id": "SG-H047",
+ "title": {
+  "zh": null,
+  "en": "Accountants (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Rules 2023",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p01",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation AA2004-S328-2023",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 22,
+ "chars": 41791,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/AA2004-S328-2023?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 22 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H047-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Rules are the Accountants (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Rules 2023 and come into operation on 1 July 2023.\n[S 201/2026 wef 06/05/2026]"
+   }
+  },
+  {
+   "id": "SG-H047-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Rules —\n“accounting entity” has the meaning given by section 2(1) of the Act;\n[S 201/2026 wef 06/05/2026]\n“agent”, in relation to a client, means a person appointed by the client to act on the client’s behalf in any business relationship;\n“beneficial owner” means —\n(a)an individual who ultimately owns all of the assets or undertakings of the client (whether or not the client is a body corporate);\n(b)an individual who has ultimate control or ultimate effective control over, or has executive authority in, the client; or\n(c)an individual on whose behalf the client has employed or engaged the services of an accounting entity;\n“business relationship”, in relation to a relationship between a client and an accounting entity, means a business, professional or commercial relationship between the client and the accounting entity in carrying out any activity under rule 3, including an occasional transaction with or for the client;\n“client” means a client of an accounting entity;\n“connected party” —\n(a)in relation to a client which is a legal person (other than a partnership, limited liability partnership or limited partnership), means a director or an individual having executive authority in the legal person;\n(b)in relation to a client which is a legal person that is a partnership (other than a limited liability partnership or limited partnership), means a partner of the partnership;\n(c)in relation to a client which is a limited liability partnership or a limited partnership, means a partner or manager of the limited liability partnership or limited partnership; and\n(d)in relation to a client which is a legal arrangement, means any individual having executive authority in the legal arrangement,\nand for the purposes of this definition, a partnership includes one that is registered or formed outside Singapore;\n“customer due diligence measures” or “CDD measures” means —\n(a)identifying the client and the client’s agent (if any), and verifying their identities on the basis of documents, data or information obtained from a reliable and independent source;\n(b)where there is a beneficial owner who is not the client, identifying the beneficial owner and taking reasonable measures, on a risk‑sensitive basis, to verify the beneficial owner’s identity so that the accounting entity or individual practitioner of the accounting entity is satisfied that the accounting entity or individual practitioner knows who the beneficial owner is (including, in the case where the client is a legal person or legal arrangement, measures to understand the ownership and control structure of the legal person or legal arrangement); and\n(c)understanding and obtaining information on the purpose and intended nature of the business relationship;\n“enhanced CDD measures” means CDD measures performed to a higher degree consistent with the higher risks of money laundering, the financing of terrorism or proliferation financing and includes, where applicable, the following measures:\n(a)inquiring into the background and purpose of any transaction which the accounting entity is employed, appointed or engaged to carry out;\n(b)obtaining approval from the senior management of the accounting entity for establishing a proposed business relationship;\n(c)taking reasonable measures to establish the source of wealth and source of funds which are involved in a proposed business relationship;\n(d)keeping a record in writing of the findings of the accounting entity or an individual practitioner of the accounting entity in respect of the CDD measures and the measures in paragraphs (a), (b) and (c);\n[S 201/2026 wef 06/05/2026]\n“enhanced ongoing monitoring” means ongoing monitoring that is enhanced in terms of frequency over the course of the business relationship concerned;\n“FATF” means the intergovernmental body known as the Financial Action Task Force;\n“foreign company” means a company incorporated outside Singapore;\n“group” means an accounting entity, and its subsidiaries and branches;\n“immediate family member” means a spouse, a child, an adopted child, a step‑child, a sibling, an adopted sibling, a step‑sibling, a parent or a step‑parent;\n“individual practitioner” has the meaning given by section 2(1) of the Act;\n[S 201/2026 wef 06/05/2026]\n“international organisation” means an entity —\n(a)established by formal political agreements between member countries or territories that have the status of international treaties;\n(b)which existence is recognised by law in member countries or territories; and\n(c)which is not treated as a resident institutional unit of the country or territory in which it is located;\n“legal arrangement” means an express trust or other similar legal arrangement;\n“legal person” means an entity other than an individual that can establish a permanent business relationship with an accounting entity or otherwise own property;\n“limited partnership” means a limited partnership registered under the Limited Partnerships Act 2008;\n“network” has the meaning given by the Glossary in the Fourth Schedule to the Accountants (Prescribed Standards and Code of Professional Conduct and Ethics) Order 2023 (G.N. No. S 327/2023);\n“ongoing monitoring” means —\n(a)scrutiny by an accounting entity or individual practitioner of the accounting entity of transactions undertaken throughout the course of a business relationship with a client (including, where necessary, the source of the client’s funds) to ensure that the transactions are consistent with the knowledge of the accounting entity or individual practitioner of the client and the client’s business and risk profile; and\n(b)keeping the documents, data or information obtained in the course of performing CDD measures (including simplified and enhanced CDD measures) up to date;\n“politically‑exposed person” —\n(a)means —\n(i)an individual who is or has been entrusted with any prominent public function in Singapore;\n(ii)an individual who is or has been entrusted with any prominent public function in a country or territory outside Singapore; or\n(iii)an individual who is or has been entrusted with any prominent public function by an international organisation; and\n(b)includes —\n(i)an individual who is an immediate family member of an individual mentioned in paragraph (a)(i), (ii) or (iii); or\n(ii)an individual who is a close associate of an individual mentioned in paragraph (a)(i), (ii) or (iii);\n“simplified CDD measures” means the measures referred to in rule 12(1);\n“Singapore financial institution” means a financial institution as defined in section 2 of the Financial Services and Markets Act 2022.\n(2) For the purposes of the definition of “politically‑exposed person” in paragraph (1) —\n(a)the reference to “prominent public function” in paragraph (a)(i) and (ii) of that definition —\n(i)includes the role held by a head of state, head of government, government minister, senior civil or public servant, senior judicial or military official, senior executive of a state‑owned corporation, senior political party official, or member of the legislature; but\n(ii)does not include the role held by middle‑ranking or more junior officials; and\n(b)the reference to “prominent public function” in paragraph (a)(iii) of that definition —\n(i)includes the role held by a director, deputy director, member of the board, or member of the senior management, of the international organisation; but\n(ii)does not include the role held by middle‑ranking or more junior officials.\n(3) For the purposes of paragraph (b)(ii) of the definition of “politically‑exposed person” in paragraph (1), an individual (A) is a close associate of another individual (B) if —\n(a)A is a partner of B;\n(b)A is an employee or employer of B;\n(c)A is an officer of any corporation of which B is an officer;\n(d)A and B are both employees of the same individual;\n(e)A is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of B;\n(f)B is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of A; or\n(g)A is a person with whom B has an agreement or arrangement, whether oral or in writing and whether express or implied, to act together to engage the services of an accounting entity."
+   }
+  },
+  {
+   "id": "SG-H047-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Purpose of Rules and application"
+   },
+   "text": {
+    "en": "3.—(1) The purpose of these Rules is to prescribe the requirements relating to the detection and prevention of money laundering, the financing of terrorism or proliferation financing by accounting entities and individual practitioners of accounting entities, where accounting entities and individual practitioners are subject to a review of their compliance with such requirements under Part 5A of the Act.\n[S 201/2026 wef 06/05/2026]\n(2) These Rules apply to —\n(a)an accounting entity which by way of business, prepares to carry out or carries out transactions for a client concerning any of the following activities:\n(i)buying and selling of real estate;\n(ii)managing of client money, securities or other assets;\n(iii)management of bank, savings or securities accounts;\n(iv)organisation of contributions for the creation, operation or management of companies;\n(v)creation, operation or management of legal persons or arrangements, and buying and selling of business entities; and\n(b)an individual practitioner of the accounting entity which prepares to carry out or carries out any such transactions on behalf of the accounting entity."
+   }
+  },
+  {
+   "id": "SG-H047-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "General duties"
+   },
+   "text": {
+    "en": "4.—(1) An accounting entity must conduct its business, in such a manner as to guard against the facilitation of money laundering, the financing of terrorism and proliferation financing.\n[S 201/2026 wef 06/05/2026]\n(2) An accounting entity and an individual practitioner of the accounting entity must exercise due diligence in such a manner as to guard against the facilitation of money laundering, the financing of terrorism and proliferation financing.\n[S 201/2026 wef 06/05/2026]\n(3) An accounting entity and its individual practitioners must assist and cooperate with the relevant law enforcement authorities in preventing money laundering, the financing of terrorism and proliferation financing.\n[S 201/2026 wef 06/05/2026]"
+   }
+  },
+  {
+   "id": "SG-H047-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Performance of customer due diligence measures"
+   },
+   "text": {
+    "en": "5.—(1) Subject to rules 6 to 10, 12, 13 and 14, an accounting entity or individual practitioner of the accounting entity must perform CDD measures when the accounting entity —\n(a)establishes a business relationship with a client;\n(b)suspects that there is money laundering, the financing of terrorism or proliferation financing by a client; or\n[S 201/2026 wef 06/05/2026]\n(c)doubts the veracity or adequacy of documents, data or information previously obtained for the purposes of identification or verification of a client.\n(2) The accounting entity or individual practitioner must also perform CDD measures at other appropriate times in relation to an existing client on a risk‑sensitive basis, taking into account —\n(a)any CDD measures previously performed;\n(b)when the CDD measures were last performed; and\n(c)the adequacy of documents, data or information obtained from the performance of the previous CDD measures.\n(3) The accounting entity or individual practitioner must —\n(a)determine the extent of CDD measures on a risk‑sensitive basis, depending on the type of client, business relationship, product or transaction; and\n(b)be able to demonstrate to the Registrar that the extent of the CDD measures is appropriate in view of the risks of money laundering, the financing of terrorism and proliferation financing.\n[S 201/2026 wef 06/05/2026]"
+   }
+  },
+  {
+   "id": "SG-H047-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Identification and verification of identity of clients and agents"
+   },
+   "text": {
+    "en": "6.—(1) For the purposes of rule 5(1)(a) but subject to rule 12, an accounting entity or individual practitioner of the accounting entity must establish the identity of each client and each of the client’s agents.\n(2) For the purposes of paragraph (1), the accounting entity or individual practitioner must obtain and record at least the following information of the client and the client’s agent, if any:\n(a)full name, including any alias;\n(b)the identity card number, birth certificate number or passport number (in the case of an individual), or the incorporation number or registration number (in the case of a client that is a body corporate or unincorporate);\n(c)existing residential address or address of its place of business or registered office (as the case may be) and telephone number;\n(d)the date of birth, incorporation or registration, as the case may be;\n(e)the nationality or place of incorporation or registration, as the case may be.\n(3) Where the client is a company or foreign company, the accounting entity or individual practitioner must also establish and record the identities of all the directors of the company or foreign company.\n(4) Where the client is a sole proprietor, partnership, limited liability partnership or limited partnership, the accounting entity or individual practitioner must also establish and record the identities of the sole proprietor and partners.\n(5) Where the client is a body corporate or unincorporate other than a company, limited liability partnership or limited partnership, the accounting entity or individual practitioner must also establish and record the identities of all the persons having executive authority in that body.\n(6) Subject to rule 8, the accounting entity or individual practitioner must, before the accounting entity establishes a business relationship with the client —\n(a)verify the identity of the client and the client’s agent (if any) as well as the persons referred to in paragraph (3), (4) or (5), using reliable and independent sources;\n(b)verify the authority of a client’s agent (if any) to act on behalf of the client; and\n(c)retain a copy of all documents used in verifying the matters referred to in sub‑paragraphs (a) and (b)."
+   }
+  },
+  {
+   "id": "SG-H047-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Identification and verification of identity of beneficial owners"
+   },
+   "text": {
+    "en": "7.—(1) For the purposes of rule 5(1)(a) but subject to paragraph (6) and rule 12, an accounting entity or individual practitioner of the accounting entity must inquire if there exists any beneficial owner in relation to a client.\n(2) Subject to rule 8, where the accounting entity or individual practitioner becomes aware pursuant to the inquiry or otherwise that there is one or more beneficial owners in relation to the client, the accounting entity or individual practitioner must, before the accounting entity establishes a business relationship with the client, take reasonable measures to obtain information sufficient to identify and verify the identity of every beneficial owner.\n(3) Where the client is a body corporate or unincorporate, or a legal arrangement, the accounting entity or individual practitioner must take reasonable measures to understand the ownership and control structure of the body corporate or unincorporate, or the legal arrangement, as the case may be.\n(4) Where the client is a body corporate, the accounting entity or individual practitioner must identify the beneficial owners by —\n(a)identifying the individuals (whether acting alone or together) who ultimately own all the assets or undertakings of the body corporate;\n(b)to the extent that there is doubt under sub‑paragraph (a) as to whether the individuals who ultimately own all the assets or undertakings of the body corporate are the beneficial owners or where no individuals ultimately own all the assets or undertakings of the body corporate, identifying the individuals (if any) who have ultimate control or ultimate effective control over the body corporate; and\n(c)where no individuals are identified under sub‑paragraph (a) or (b), identifying the individuals having executive authority in the body corporate, or in equivalent or similar positions.\n(5) Where the client is a legal arrangement, the accounting entity or individual practitioner must identify the following persons:\n(a)in the case of an express trust — the settlor, the trustees, the protector (if any), the beneficiaries or class of beneficiaries as well as any individual having ultimate ownership of the assets or undertakings of the trust, or exercising ultimate control or ultimate effective control over the trust (including through a chain of control or ownership or both);\n(b)in the case of any other type of legal arrangement — the persons in equivalent or similar positions as those described in sub‑paragraph (a).\n(6) An accounting entity or individual practitioner need not inquire if there exists any beneficial owner in relation to a client where the client is —\n(a)an entity listed on the Singapore Exchange;\n(b)an entity listed on a stock exchange outside Singapore which is regulated by an authority of a country or territory other than Singapore regulating the provision of financial services;\n(c)a Singapore financial institution;\n(d)a financial institution incorporated or established outside Singapore that is subject to and supervised for compliance with requirements for the prevention of money laundering, the financing of terrorism and proliferation financing consistent with the standards set by the FATF; or\n[S 201/2026 wef 06/05/2026]\n(e)an investment vehicle, the managers of which are —\n(i)Singapore financial institutions; or\n(ii)financial institutions incorporated or established outside Singapore, and subject to and supervised for compliance with requirements for the prevention of money laundering, the financing of terrorism and proliferation financing consistent with the standards set by the FATF,\n[S 201/2026 wef 06/05/2026]\nunless the accounting entity or individual practitioner has doubts about the veracity of the information obtained by the accounting entity or individual practitioner in carrying out CDD measures under these Rules or suspects that the client is carrying out or facilitating money laundering, the financing of terrorism or proliferation financing.\n[S 201/2026 wef 06/05/2026]\n(7) For the purposes of paragraph (6), the accounting entity or individual practitioner must keep a written record of the basis for its determination that a client is a person or investment vehicle specified in that paragraph.\n(8) Subject to any rule of law relating to a trustee’s duty of confidentiality, an accounting entity must, when forming a business relationship in its capacity as a trustee with any specified person, disclose to the specified person the status of the accounting entity or individual practitioner as such trustee.\n(9) In this rule, “specified person” means a specified person as defined in regulation 8(5) of the Trustees (Transparency and Effective Control) Regulations 2017 (G.N. No. S 151/2017)."
+   }
+  },
+  {
+   "id": "SG-H047-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Timing for verification"
+   },
+   "text": {
+    "en": "8.—(1) Despite rules 6(6) and 7(2), an accounting entity may establish a business relationship with a client before completing the verification of the identity of the client, the client’s agents and the beneficial owners of the client if —\n(a)the deferral of completion of the verification is essential in order not to interrupt the normal conduct of business operations; and\n(b)the risks of money laundering, the financing of terrorism and proliferation financing can be effectively managed by the accounting entity or an individual practitioner of the accounting entity.\n[S 201/2026 wef 06/05/2026]\n(2) Where the accounting entity establishes a business relationship with a client before verifying the identity of the client, the client’s agents and the beneficial owners of the client —\n(a)the accounting entity must adopt internal risk management policies and procedures concerning the conditions under which the accounting entity may establish such a business relationship before verification; and\n(b)the accounting entity or individual practitioner must complete the verification as soon as is reasonably practicable."
+   }
+  },
+  {
+   "id": "SG-H047-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Screening of client"
+   },
+   "text": {
+    "en": "9. An accounting entity or individual practitioner of the accounting entity must screen a client, the client’s agent, connected parties of the client and beneficial owners of the client against relevant information sources on money laundering, the financing of terrorism and proliferation financing, which are to include the following:\n(a)any lists and information provided by the Registrar and any relevant law enforcement authority;\n(b)any other source of information relating to money laundering, the financing of terrorism and proliferation financing as the Registrar may direct.\n[S 201/2026 wef 06/05/2026]\n[S 201/2026 wef 06/05/2026]"
+   }
+  },
+  {
+   "id": "SG-H047-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Performance of customer due diligence measures by third parties"
+   },
+   "text": {
+    "en": "10.—(1) Subject to paragraph (2), an accounting entity or individual practitioner of the accounting entity may rely on a third party to perform any CDD measures (including simplified CDD measures and enhanced CDD measures) which the accounting entity or individual practitioner is required to perform if the following requirements are met:\n(a)the accounting entity or individual practitioner is satisfied that the third party —\n(i)is subject to and supervised for compliance with requirements for —\n(A)the prevention of money laundering, the financing of terrorism and proliferation financing; and\n[S 201/2026 wef 06/05/2026]\n(B)the recording and reporting of transactions suspected of involving money laundering, the financing of terrorism or proliferation financing,\n[S 201/2026 wef 06/05/2026]\nconsistent with the standards set by the FATF; and\n(ii)has adequate measures in place to comply with those requirements;\n(b)the accounting entity or individual practitioner takes appropriate steps to identify, assess and understand the risks of money laundering, the financing of terrorism and proliferation financing in the countries or territories that the third party operates in, if applicable;\n[S 201/2026 wef 06/05/2026]\n(c)the third party is not one which the accounting entity or individual practitioner has been specifically precluded by the Registrar from relying upon;\n(d)the third party is able and willing to provide, without delay and upon the request of the accounting entity or individual practitioner, any document, data or information obtained by the third party with respect to the CDD measures performed by the third party in relation to the client of the accounting entity or individual practitioner.\n(2) An accounting entity or individual practitioner must not rely on a third party to conduct ongoing monitoring of a business relationship with a client under rule 11, except where the third party is part of the accounting entity’s group or network.\n(3) Where an accounting entity or individual practitioner relies on a third party to perform the CDD measures, the accounting entity or individual practitioner must —\n(a)document the basis for its, his or her satisfaction that the requirements in paragraph (1)(a) and (b) have been met; and\n(b)obtain from the third party, immediately after the third party has obtained the documents, data or information from performing the CDD measures, those documents, data or information.\n(4) To avoid doubt, despite the reliance upon a third party, the accounting entity or individual practitioner remains responsible for its, his or her obligations under these Rules."
+   }
+  },
+  {
+   "id": "SG-H047-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Ongoing monitoring"
+   },
+   "text": {
+    "en": "11.—(1) An accounting entity or individual practitioner of the accounting entity must conduct ongoing monitoring of every business relationship with a client.\n(2) For purposes of paragraph (1), the accounting entity or individual practitioner must —\n(a)determine the extent of ongoing monitoring of a business relationship on a risk‑sensitive basis, depending on the type of client, business relationship, services or transaction; and\n(b)be able to demonstrate to the Registrar that the extent of the ongoing monitoring is appropriate in view of the risks of money laundering, the financing of terrorism and proliferation financing.\n[S 201/2026 wef 06/05/2026]"
+   }
+  },
+  {
+   "id": "SG-H047-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Simplified customer due diligence measures"
+   },
+   "text": {
+    "en": "12.—(1) Despite rules 6 and 7, if an accounting entity or individual practitioner of the accounting entity assesses that the risks of money laundering, the financing of terrorism and proliferation financing by a client are low, the accounting entity or individual practitioner may, for the purposes of rule 5(1)(a), adopt any simplified CDD measures that it, he or she considers adequate as would effectively —\n(a)identify the client, the client’s agent (if any) and each beneficial owner in relation to the client; and\n(b)verify the identities of the client, the client’s agent (if any) and the beneficial owner.\n[S 201/2026 wef 06/05/2026]\n(2) The assessment that the risks of money laundering, the financing of terrorism and proliferation financing are low must be supported by an adequate analysis of risks by the accounting entity or individual practitioner.\n[S 201/2026 wef 06/05/2026]\n(3) The simplified CDD measures must be commensurate with the level of risk of money laundering, the financing of terrorism and proliferation financing, based on the risk factors identified by the accounting entity or individual practitioner.\n[S 201/2026 wef 06/05/2026]\n(4) An accounting entity or individual practitioner must not perform simplified CDD measures in any of the following circumstances:\n(a)if the client is from or in a country or territory which the FATF has called for countermeasures (including enhanced CDD measures) to be performed, as may be notified to accounting entities and individual practitioners generally by the Registrar;\n(b)if the client is from or in a country or territory known to have inadequate measures for the prevention of money laundering, the financing of terrorism or proliferation financing, as determined by the accounting entity or individual practitioner, or notified to accounting entities and individual practitioners generally by the Registrar;\n[S 201/2026 wef 06/05/2026]\n(c)where the accounting entity or individual practitioner suspects that money laundering, the financing of terrorism or proliferation financing is being committed or facilitated.\n[S 201/2026 wef 06/05/2026]\n(5) Subject to paragraphs (3) and (4), an accounting entity or individual practitioner may perform simplified CDD measures in relation to a client that is a Singapore financial institution specified for this purpose by the Registrar on the Authority’s website at www.acra.gov.sg.\n(6) Where the accounting entity or individual practitioner performs simplified CDD measures in relation to a client, the client’s agents and the beneficial owners of the client, the accounting entity or individual practitioner must document —\n(a)the details of its, his or her risk assessment, including when the risk assessment was done; and\n(b)the nature of the simplified CDD measures."
+   }
+  },
+  {
+   "id": "SG-H047-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Politically-exposed persons"
+   },
+   "text": {
+    "en": "13.—(1) Subject to paragraph (2), an accounting entity —\n(a)which proposes to have a business relationship with a politically‑exposed person must perform enhanced CDD measures before the accounting entity establishes the business relationship; and\n(b)which has established a business relationship with a politically‑exposed person must perform enhanced CDD measures and enhanced ongoing monitoring over the course of the business relationship.\n(2) An accounting entity or individual practitioner of the accounting entity may adopt a risk‑sensitive approach in determining whether to perform enhanced CDD measures or the extent of enhanced CDD measures to be performed for any or all of the following politically‑exposed persons:\n(a)an individual who is or has been entrusted with any prominent public function in Singapore, or an immediate family member or close associate of that individual;\n(b)an individual who is or has been entrusted with any prominent public function by an international organisation, or an immediate family member or close associate of that individual;\n(c)an individual who has stepped down from his or her prominent public function, taking into consideration the level of influence the person may continue to exercise after stepping down from such prominent public function, or an immediate family member or close associate of that individual.\n(3) Paragraph (2) does not apply where the politically‑exposed person’s business relationship with the accounting entity presents a high risk for money laundering, the financing of terrorism or proliferation financing.\n[S 201/2026 wef 06/05/2026]\n(4) The obligations in this rule are in addition to the obligations under rule 17 requiring an accounting entity to establish and maintain appropriate and risk‑sensitive internal policies, procedures and controls to determine whether a client or beneficial owner in relation to a client, or an agent of a client is a politically‑exposed person."
+   }
+  },
+  {
+   "id": "SG-H047-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Enhanced customer due diligence and enhanced ongoing monitoring in other cases"
+   },
+   "text": {
+    "en": "14.—(1) An accounting entity or individual practitioner of the accounting entity must perform enhanced CDD measures and (as the case may be) enhanced ongoing monitoring —\n(a)in respect of all complex or unusually large transactions, or unusual patterns of transactions that have no apparent or visible economic or lawful purpose;\n(b)when the accounting entity proposes to have, or has established, a business relationship with a client from or in a country or territory outside Singapore known to have inadequate measures for the prevention of money laundering, the financing of terrorism or proliferation financing (as determined by the accounting entity or individual practitioner, or as notified to accounting entities and individual practitioners generally by the Registrar);\n[S 201/2026 wef 06/05/2026]\n(c)in respect of any other categories of clients or any other transactions which the accounting entity or individual practitioner considers may present a high risk of money laundering, the financing of terrorism or proliferation financing; and\n[S 201/2026 wef 06/05/2026]\n(d)in respect of a business relationship with a client, where the client is from or in a country or territory for which the FATF has called for countermeasures (including enhanced CDD measures) to be performed, as may be notified to accounting entities and individual practitioners generally by the Registrar.\n(2) Where the client is not physically present for identification purposes, an accounting entity or individual practitioner must take specific and adequate measures to compensate for the higher risk, including performing one or more of the following measures:\n(a)ensuring that the client’s identity is established by additional documents, data or information;\n(b)implementing supplementary measures to verify or certify the documents supplied, or requiring confirmatory certification by a Singapore financial institution;\n(c)ensuring that the first payment is carried out through an account opened in the client’s name with a Singapore financial institution."
+   }
+  },
+  {
+   "id": "SG-H047-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Requirement to cease transactions, etc."
+   },
+   "text": {
+    "en": "15. Where, in relation to any client, an accounting entity or individual practitioner of the accounting entity is unable to perform or complete any CDD measure (including simplified or enhanced CDD measure) —\n(a)the accounting entity —\n(i)must not establish a business relationship with the client; or\n(ii)must terminate any existing business relationship with the client; and\n(b)the accounting entity or individual practitioner —\n(i)must not carry out any transaction with or for the client; and\n(ii)must consider whether the accounting entity or individual practitioner is required to make a disclosure under either or both of the following:\n(A)section 45(1) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992;\n(B)section 8 or 10 of the Terrorism (Suppression of Financing) Act 2002."
+   }
+  },
+  {
+   "id": "SG-H047-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Record keeping"
+   },
+   "text": {
+    "en": "16.—(1) An accounting entity must keep the records (including electronic records) specified in paragraph (2) for a period of at least 5 years beginning on the date on which the business relationship ends.\n(2) The records in paragraph (1) are —\n(a)a copy of the information and evidence of —\n(i)the client’s identity;\n(ii)the identity of the client’s agent, if any; and\n(iii)the identity of each beneficial owner in relation to the client, if any,\nreferred to in or obtained pursuant to rules 5 to 14; and\n(b)the supporting records (consisting of the original documents or copies of the original documents) in respect of a business relationship which is the subject of any CDD measures (including simplified CDD measures or enhanced CDD measures) or ongoing monitoring (including enhanced ongoing monitoring).\n(3) The records specified in paragraph (2) must be sufficient to permit a reconstruction of individual transactions (including the amounts and types of currency involved, if any)."
+   }
+  },
+  {
+   "id": "SG-H047-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "heading": {
+    "en": "Internal policies, procedures and controls"
+   },
+   "text": {
+    "en": "17.—(1) An accounting entity must establish and maintain appropriate and risk‑sensitive internal policies, procedures and controls relating to all of the following matters in order to prevent activities related to money laundering, the financing of terrorism and proliferation financing:\n(a)CDD measures (including simplified CDD measures and enhanced CDD measures) and ongoing monitoring (including enhanced ongoing monitoring);\n(b)reporting;\n(c)record keeping;\n(d)risk assessment and management;\n(e)audit of the internal policies, procedures and controls;\n(f)the monitoring and management of compliance with, and the internal communication of, such internal policies, procedures and controls;\n(g)hiring and training of employees;\n(h)group policy, if the accounting entity has one or more subsidiaries or branches.\n[S 201/2026 wef 06/05/2026]\n(2) The internal policies, procedures and controls mentioned in paragraph (1) must include —\n(a)internal policies, procedures and controls which provide for the identification and scrutiny of —\n(i)complex or unusually large transactions;\n(ii)unusual patterns of transactions which have no apparent economic or visible lawful purpose; and\n(iii)any other activity which the accounting entity or an individual practitioner of the accounting entity regards as particularly likely by its nature to be related to money laundering, the financing of terrorism or proliferation financing;\n[S 201/2026 wef 06/05/2026]\n(b)internal policies, procedures and controls which specify the taking of additional measures, where appropriate, to prevent —\n(i)the development of new services and new business practices, including new delivery mechanisms, for money laundering, the financing of terrorism and proliferation financing; and\n[S 201/2026 wef 06/05/2026]\n(ii)the use of new or developing technologies, for both new and pre‑existing services, for money laundering, the financing of terrorism and proliferation financing; and\n[S 201/2026 wef 06/05/2026]\n(c)internal policies, procedures and controls to determine whether any client, beneficial owner in relation to a client, or an agent of a client is a politically‑exposed person.\n(3) An accounting entity or individual practitioner —\n(a)must —\n(i)assess the risks of money laundering, the financing of terrorism or proliferation financing that may arise in relation to —\n(A)the development of new services and new business practices, including new delivery mechanisms; and\n(B)the use of new or developing technologies for both new and pre‑existing services,\nbefore the launch or use of the services, business practices and technologies; and\n[S 201/2026 wef 06/05/2026]\n(b)must take appropriate measures to manage and mitigate the risks.\n(4) An accounting entity and its individual practitioners must comply with the internal policies, procedures and controls established and maintained by the accounting entity.\n(5) An accounting entity or individual practitioner must, in complying with the requirements of paragraphs (2) and (3), pay special attention to any —\n(a)new services and new business practices, including new delivery mechanisms; and\n(b)new or developing technologies for both new and pre‑existing services,\nthat favour anonymity."
+   }
+  },
+  {
+   "id": "SG-H047-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "heading": {
+    "en": "Group policy"
+   },
+   "text": {
+    "en": "18.—(1) Where an accounting entity has one or more branches or subsidiaries, the accounting entity must develop and implement group‑wide programmes for preventing money laundering, the financing of terrorism and proliferation financing which include —\n(a)policies and procedures for the sharing of information within the group for the purposes of customer due diligence and risk management of money laundering, the financing of terrorism and proliferation financing; and\n(b)adequate safeguards on the confidentiality and use of the information mentioned in sub‑paragraph (a) that is shared.\n[S 201/2026 wef 06/05/2026]\n(2) Where —\n(a)an accounting entity has a branch or subsidiary in a country or territory outside Singapore; and\n(b)that country or territory is known to have inadequate measures in relation to the detection and prevention of money laundering, the financing of terrorism or proliferation financing —\n(i)as determined by the accounting entity;\n(ii)as notified to the accounting entity by the Registrar or any relevant authority in that country or territory; or\n(iii)as identified by the FATF,\n[S 201/2026 wef 06/05/2026]\nthe accounting entity must, to the extent that the laws of that country or territory permit, ensure that the group‑wide programmes mentioned in paragraph (1) are strictly observed by the management of that branch or subsidiary.\n(3) Subject to paragraph (4), where —\n(a)an accounting entity has a branch or subsidiary in a country or territory outside Singapore; and\n(b)that country or territory has laws where the minimum requirements in relation to the detection and prevention of money laundering, the financing of terrorism or proliferation financing are less stringent than those in Singapore,\n[S 201/2026 wef 06/05/2026]\nthe accounting entity must ensure that the branch or subsidiary implements, to the extent that the laws of that country or territory permit, the requirements for the prevention of money laundering, the financing of terrorism and proliferation financing that are applicable in Singapore.\n[S 201/2026 wef 06/05/2026]\n(4) If the laws of the country or territory mentioned in paragraph (3) do not permit the implementation of the requirements for the prevention of money laundering, the financing of terrorism and proliferation financing that are applicable in Singapore, the accounting entity must apply appropriate additional measures to manage the risks of money laundering, the financing of terrorism and proliferation financing.\n[S 201/2026 wef 06/05/2026]"
+   }
+  },
+  {
+   "id": "SG-H047-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "heading": {
+    "en": "Duty to assess and report"
+   },
+   "text": {
+    "en": "19. An accounting entity or individual practitioner of the accounting entity must —\n(a)regularly assess; and\n(b)if the Registrar requires, demonstrate to the Registrar,\nthe effectiveness of the internal policies, procedures and controls mentioned in rule 17."
+   }
+  },
+  {
+   "id": "SG-H047-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "heading": {
+    "en": "Audit and compliance management"
+   },
+   "text": {
+    "en": "20.—(1) For the purposes of rule 17(1)(e), an accounting entity must implement and maintain an audit function that is —\n(a)independent; and\n(b)able to regularly assess the effectiveness of the internal policies, procedures and controls of the accounting entity, and the compliance by the accounting entity and its individual practitioners with the internal policies, procedures and controls.\n(2) For the purposes of rule 17(1)(f), an accounting entity must —\n(a)develop compliance management arrangements to continually review and update the internal policies, procedures and controls for the prevention of money laundering, the financing of terrorism and proliferation financing; and\n[S 201/2026 wef 06/05/2026]\n(b)appoint an employee or officer in a management position as the accounting entity’s compliance officer in relation to the prevention of money laundering, the financing of terrorism and proliferation financing.\n[S 201/2026 wef 06/05/2026]\n(3) The accounting entity or an individual practitioner of the accounting entity must grant the accounting entity’s compliance officer, as well as any other persons appointed to assist the compliance officer, timely access to all client records and other relevant information which the compliance officer or other person appointed to assist the compliance officer may require to discharge their functions for the purposes of audit and compliance management."
+   }
+  },
+  {
+   "id": "SG-H047-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "heading": {
+    "en": "Employees"
+   },
+   "text": {
+    "en": "21.—(1) For the purposes of rule 17(1)(g), an accounting entity must —\n(a)implement screening procedures for the hiring of fit and proper individuals as employees; and\n(b)ensure that the employees of the accounting entity, whether in Singapore or elsewhere, are trained on —\n(i)the laws for the prevention of money laundering, the financing of terrorism and proliferation financing, including —\n(A)these Rules;\n(B)the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992;\n(C)the Terrorism (Suppression of Financing) Act 2002; and\n(D)any other legislation concerning the prevention of money laundering, the financing of terrorism or proliferation financing as may be specified by the Authority;\n[S 201/2026 wef 06/05/2026]\n[S 201/2026 wef 06/05/2026]\n(ii)prevailing methods of, and trends in, money laundering, the financing of terrorism and proliferation financing; and\n[S 201/2026 wef 06/05/2026]\n(iii)the accounting entity’s internal policies, procedures and controls for the prevention of money laundering, the financing of terrorism and proliferation financing, including the roles and responsibilities of employees and officers of the accounting entity in relation to such internal policies, procedures and controls.\n[S 201/2026 wef 06/05/2026]\n(2) The accounting entity must keep written records of the measures taken under paragraph (1) for a period of at least 5 years starting on —\n(a)in the case of paragraph (1)(a) — the date the accounting entity implemented the screening procedures; and\n(b)in the case of paragraph (1)(b) — the date the training of the respective employee ended."
+   }
+  },
+  {
+   "id": "SG-H047-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "heading": {
+    "en": "Provision for information"
+   },
+   "text": {
+    "en": "22. An accounting entity or individual practitioner of the accounting entity must, at such times and within such periods as may be specified by the Registrar, furnish to the Registrar any information regarding the activities of the accounting entity or individual practitioner that the Registrar may require for the purpose of monitoring compliance by the accounting entity or individual practitioner with these Rules."
+   }
+  }
+ ]
+}

@@ -1,0 +1,445 @@
+{
+ "id": "SG-H3613",
+ "title": {
+  "zh": null,
+  "en": "Registration of Deeds Act 1988",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p45",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act RDA1988",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 31,
+ "chars": 40053,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/RDA1988?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 31 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3613-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Registration of Deeds Act 1988."
+   }
+  },
+  {
+   "id": "SG-H3613-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2.—(1) In this Act, unless the context otherwise requires —\n“assurance” includes any conveyance, memorandum of charge or discharge, deed of consent to the discharge of a trustee, private Act, order of court or certificate of appointment of trustee in bankruptcy;\n“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;\n“caveatee” means —\n(a)the proprietor of any land who has given an estate or interest in the land to a person named in a caveat; or\n(b)the proprietor of any land, and any person having a prior registered estate or interest in land, in respect of which a caveat has been lodged by any person claiming an estate or interest in the land;\n“caveator” means —\n(a)a person who has been given an estate or interest in any land by the proprietor of the land; or\n(b)a person who claims an estate or interest in any land;\n“conveyance” includes any assignment, appointment, lease or settlement made by deed on a sale, mortgage, demise or settlement of any land or appointment of a new trustee in respect thereof which has been executed by one or more of the parties by whom any interest in the land is thereby conveyed;\n“land” means —\n(a)the surface of any defined parcel of the earth, so much of the subterranean space below the surface and so much of the column of airspace above the surface whether or not held apart from the surface as is reasonably necessary for the use and enjoyment of the proprietor, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto; or\n(b)any parcel of airspace or any subterranean space held apart from the surface of the earth and described with certainty by reference to a plan approved by the Chief Surveyor and filed with the Authority, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto,\nand where the context so permits, the proprietorship of land includes natural rights to air, light, water and support and the right of access to any highway on which the land abuts;\n“lease” includes an agreement for a lease;\n“memorandum of charge” includes any memorandum of a lien or charge on any land which is registered under this Act;\n“mortgage” includes any charge on any land for securing money or money’s worth and any transfer of a mortgage; and “mortgagee” has a corresponding meaning;\n“order of court” means any judgment, decree, enforcement order, writ of sequestration, adjudication in bankruptcy or other order or process of or issuing from that court or other court of competent jurisdiction whereby any interest in any land is or may be affected;\n[Act 25 of 2021 wef 01/04/2022]\n“prior mortgage” includes a prior charge or assignment which has been either secured by a mortgage or protected by a caveat lodged with and accepted by the Registrar as being in order for registration;\n“prior mortgagee” includes a prior chargee or assignee in whose favour an estate or interest in respect of land was mortgaged, charged or assigned by way of mortgage;\n“probate” means the probate of any will or any letters of administration with the will annexed or copy thereof, stamped with the seal of the Supreme Court or other court of competent jurisdiction, or a certified office copy thereof;\n“registered surveyor” means a registered surveyor under the Land Surveyors Act 1991 who has in force a practising certificate issued under that Act;\n[Act 25 of 2024 wef 01/10/2025]\n“Registrar” means the Registrar of Deeds and includes any Deputy Registrar of Deeds appointed under this Act;\n“Registry” means the Registry of Deeds of the Authority;\n“repealed enactment” means the Registration of Deeds Ordinance 1886 (Ordinance XIII of 1886) or the Registration of Deeds Act (Cap. 269, 1985 Revised Edition) which is repealed by this Act;\n“rules” means rules made under this Act;\n“subsequent mortgage” includes a subsequent charge or assignment;\n“subsequent mortgagee” includes a subsequent chargee or assignee in whose favour an estate or interest in respect of land was mortgaged, charged or assigned by way of mortgage;\n“will” includes a codicil.\n[24/91; 17/2001; 11/2015]\n(2) In this Act, any reference to a plan certified by a registered surveyor is, in relation to a plan certified at any time prior to 1 September 1972, to be construed as a reference to a plan which was certified by a surveyor licensed under any written law which was in force at the time that plan was certified."
+   }
+  },
+  {
+   "id": "SG-H3613-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Appointment of Registrar, etc."
+   },
+   "text": {
+    "en": "3.—(1) The Minister may appoint a Registrar of Deeds and such number of Deputy Registrars and Assistant Registrars of Deeds and other officers of the Registry as the Minister may think fit.\n(2) Any act or thing which may be done or performed by the Registrar under this Act may, subject to the orders and directions of the Registrar, be done or performed by a Deputy Registrar or an Assistant Registrar.\n(3) The Minister may create such different grades for Deputy Registrars and Assistant Registrars of Deeds as the Minister may think fit.\n(4) The Registrar must have a seal, and judicial notice is to be taken of the seal and of the signature of the Registrar in all legal proceedings."
+   }
+  },
+  {
+   "id": "SG-H3613-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "All instruments affecting land may be registered"
+   },
+   "text": {
+    "en": "4. Subject to this Act and the rules, all assurances executed or made, and all probates and letters of administration granted, before or after 30 November 1988 by which any land within Singapore is affected and which have not been registered under any repealed enactment, may be registered in such manner as is hereinafter directed, and unless so registered is not admissible in any court as evidence of title to the land."
+   }
+  },
+  {
+   "id": "SG-H3613-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Mode of registration"
+   },
+   "text": {
+    "en": "5.—(1) Any person desiring to register an instrument under this Act must present to the Registrar —\n(a)in the case of instruments other than private Acts, probates, letters of administration, orders of court and certificates of appointment of trustee in bankruptcy — the original and a memorial thereof;\n(b)in the case of orders of court or certificates of appointment of trustee in bankruptcy — an office copy and a memorial thereof;\n(c)in the case of a private Act — a copy purporting to be printed or published by the Government Printer and a memorial thereof;\n[Act 5 of 2025 wef 09/03/2025]\n(d)in the case of probates or letters of administration — a memorial thereof prepared in accordance with the rules together with the probates or letters of administration; and\n(e)in the case of a memorandum of lien or charge, or a memorandum of discharge of lien or charge — the original and a memorial thereof.\n(2) Where the Registrar has accepted any instrument for provisional registration under this Act, he or she must —\n(a)allot a volume and number of the register to that instrument; and\n(b)endorse on the instrument or its memorial the volume and number which has been allotted and the date and time of acceptance of the instrument for provisional registration.\n(3) As soon as convenient after the provisional registration of any instrument has been effected, the instrument or its memorial must be duly enrolled in the register by an entry made in the index to land which is maintained by the Registrar for the purposes of the registration of instruments under this Act.\n(4) Upon the presentation for registration of an instrument affecting any land that has not been surveyed and demarcated to the satisfaction of the Chief Surveyor, the person on whose behalf the instrument is so presented is deemed to have made an application for the land to be surveyed and demarcated under the direction of the Chief Surveyor, and for the purposes of satisfying the Chief Surveyor on the survey and demarcation of the land, that person may either —\n(a)make application to the Chief Surveyor for the survey to be carried out by the Government Survey Department in which case the Chief Surveyor may either —\n(i)cause the survey to be carried out by the Government Survey Department; or\n(ii)direct that a registered surveyor be employed to carry out the survey; or\n(b)satisfy the Registrar by annexing an assurance plan to the instrument which has been approved by the Chief Surveyor as provided in section 13(1)(c)."
+   }
+  },
+  {
+   "id": "SG-H3613-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Memorandum of lien or charge"
+   },
+   "text": {
+    "en": "6.—(1) Where any lien or charge on any lands is claimed in respect of any unpaid purchase money or by reason of any deposit of title deeds or otherwise, a memorandum of the lien or charge, signed by the person against whom the lien or charge is claimed, may be provisionally registered on presentation by any person claiming to be interested therein.\n(2) No such lien or charge has any effect or priority as against any assurance for valuable consideration until a memorandum thereof has been registered in accordance with this Act.\n(3) Where any such lien or charge is satisfied or discharged, any person entitled or claiming to be entitled to any interest in the land may register a memorandum of discharge."
+   }
+  },
+  {
+   "id": "SG-H3613-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Registration complete on compliance with conditions precedent within 6 months of provisional registration"
+   },
+   "text": {
+    "en": "7.—(1) Immediately on compliance with section 13(1) or the provisions of section 13(1), other than paragraph (c) in the event of that paragraph being dispensed with, any instrument provisionally registered is deemed to have been registered under this Act as to the lands with respect to which an endorsement has been made under section 5(2), and the date, hour and minute entered under that subsection is deemed for all purposes to be the date and time of registration.\n(2) Immediately after the provisional registration of any instrument, probate, letters of administration, order of court, certificate of appointment of trustee in bankruptcy, private Act or memorandum of charge or discharge, there must be endorsed on —\n(a)the original instrument;\n(b)the probate or letters of administration;\n(c)the office copy of the order of court or certificate or the copy of the Act; or\n(d)the memorandum of charge or discharge,\nas the case may be, produced to the Registrar, a certificate stating the date, hour and minute of registration, and the volume and number in the register in which the same or a memorial thereof (as the case may be) is or is intended to be enrolled.\n(3) The Registrar or any officer duly authorised by the Registrar must sign the certificate mentioned in subsection (2) and seal it with the seal of the Registrar, and every certificate so signed and sealed is receivable in evidence.\n(4) If at the expiration of 6 months from the date of provisional registration of any instrument section 13(1) (other than paragraph (c)) has not been fully complied with, then the provisional registration is void for all purposes and all entries in respect thereof must be cancelled.\n(5) Subsection (1) does not apply to any assurance in respect of any estate or interest in any residential property within the meaning of the Residential Property Act 1976 lodged with the Registrar."
+   }
+  },
+  {
+   "id": "SG-H3613-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Caveats"
+   },
+   "text": {
+    "en": "8.—(1) Subject to this section and the rules, a caveat in respect of any land may be —\n(a)given by the proprietor of the land for any estate or interest therein in favour of any person named in the caveat; or\n(b)lodged by any person claiming an estate or interest in the land.\n(2) Such a caveat must contain the following particulars:\n(a)the names of the caveator and the caveatee and their addresses for the service of notices under this Act;\n(b)a description of the estate or interest in the land given to or claimed by the caveator and, if the caveator is the purchaser or sub-purchaser of the estate or interest claimed in the caveat, the amount of the purchase price and the date of the caveator’s contract or the date on which the caveator exercised the option to purchase the interest in the land, as the case may be.\n[27/93]\n(3) Where a part of a Government survey lot is affected, the caveat must have a plan annexed edging with sufficient identity that part of the lot affected.\n(4) The Registrar must not register a caveat which —\n(a)does not disclose any estate or interest in land; or\n(b)does not state the Government survey lot number maintained in the records of the Chief Surveyor or, in the case where a part of a Government survey lot is affected, does not state that part of the existing lot and does not clearly identify that part of the lot in one or more plans annexed to the caveat.\n(5) Where, after the acceptance of any caveat for provisional registration, the Registrar discovers that the caveat does not comply with any of the requirements under this section or the rules, the Registrar may cancel the provisional registration.\n(6) Despite subsections (4) and (5), the Registrar must not be concerned to consider whether or not a caveator’s claim is justified.\n(7) Where a caveat is lodged by a person claiming an estate or interest in land or by the person’s solicitor or agent, the person must serve a notice by registered post on the proprietor of the land and all persons who have prior claims as shown in the register, and the Registrar must not be concerned to inquire whether or not the notice has been effected.\n(8) If within the period during which a caveat remains in force any subsequent assurance made or executed —\n(a)in favour of —\n(i)the person to whom a caveat has been granted under subsection (1)(a); or\n(ii)the person who has lodged a caveat under subsection (1)(b); and\n(b)conveying the same estate or interest protected by and so described in the subsisting caveat is presented and accepted for registration,\nthat assurance when registered has priority as though it had been registered on the date the caveat was registered and that date is deemed to be the date of registration of the assurance for all purposes and to have been substituted in all certificates and other instruments for the date on which the assurance was actually presented for enrolment accordingly.\n(9) A caveat registered under this Act is, unless withdrawn by the caveator or cancelled by an order of court, in force for a period of 5 years."
+   }
+  },
+  {
+   "id": "SG-H3613-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Persons to present documents for registration"
+   },
+   "text": {
+    "en": "9.—(1) An assurance or caveat must not be provisionally registered under this Act unless it is presented for registration by —\n(a)a person who has executed or claims under it;\n(b)the legal personal representative of that person;\n(c)the agent of that person or representative duly authorised by power of attorney, executed and authenticated in the manner hereinafter mentioned; or\n(d)the solicitor of that person or that person’s representative.\n(2) An instrument must not be provisionally registered on behalf of a corporation or company, unless it is presented for registration —\n(a)in the case of a corporation sole, by the corporation and in the case of a company or other corporation aggregate, by a director or secretary of the company or other corporation;\n(b)by the agent of the corporation or company duly authorised thereunto by a power of attorney; or\n(c)by the solicitor of the corporation or company."
+   }
+  },
+  {
+   "id": "SG-H3613-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Powers of attorney for purposes of section 9"
+   },
+   "text": {
+    "en": "10. For the purposes of section 9, where any assurance or caveat has been executed by any agent or representative duly authorised by a power of attorney, the Registrar may require the power of attorney to be deposited in the Registry of the Supreme Court pursuant to section 48 of the Conveyancing and Law of Property Act 1886 before the assurance or caveat is provisionally registered under this Act."
+   }
+  },
+  {
+   "id": "SG-H3613-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Inquiry before registration"
+   },
+   "text": {
+    "en": "11.—(1) An assurance or caveat must not be provisionally registered under this Act unless the persons who have executed it or their legal personal representatives or the agents authorised as in section 10 of those persons or representatives appear either simultaneously or at different times before the Registrar and admit such execution.\n(2) The Registrar must —\n(a)inquire whether or not the instrument was executed by the persons by whom it purports to have been executed;\n(b)satisfy himself or herself as to the identity of the persons appearing before him or her and alleging that they have executed the instrument; and\n(c)in the case of any person appearing as a legal personal representative or agent, satisfy himself or herself of the right of that person so to appear.\n(3) If all the persons who have executed the instrument appear personally before the Registrar and are personally known to the Registrar, or if the Registrar is otherwise satisfied that they are the persons they represent themselves to be, and if they all admit the execution or, in the case of any person appearing by an agent, if the person’s agent admits the execution, or if the person who has executed the instrument is dead and his or her legal personal representative appears before the Registrar and admits the execution, the Registrar must provisionally register the instrument under this Act.\n(4) The Registrar may, in order to satisfy himself or herself that the persons appearing before him or her are the persons they represent themselves to be, or for any other purpose contemplated by this Act, examine on oath or affirmation any one present in his or her office.\n(5) This section does not apply in the case of a person whose execution of the instrument is certified in the prescribed form, subject to variations permitted under the rules, by —\n(a)an advocate and solicitor of the Supreme Court;\n(b)a consular officer or representative of Singapore; or\n(c)a notary public practising in the country where the execution takes place.\n(6) This section does not apply in the case of any instrument which has been executed by a company or corporation under its common seal, if —\n(a)a director or the secretary of the company or corporation by which the instrument purports to have been executed appears before the Registrar and admits that the instrument was executed in accordance with the articles of association or other rules governing the management of the affairs of the company or corporation and that the seal affixed to the instrument is the seal of that company or corporation; or\n(b)the execution of the instrument is certified in the prescribed form subject to variations permitted under the rules made under this Act by —\n(i)an advocate and solicitor of the Supreme Court;\n(ii)a consular officer or representative of Singapore; or\n(iii)a notary public practising in the country where the execution takes place.\n(7) Where there is no notary public practising in the country where the execution takes place, this section does not apply if an advocate and solicitor of the Supreme Court certifies on the instrument that —\n(a)the person executing the instrument is his or her client;\n(b)his or her client is of full age and legal capacity; and\n(c)he or she is satisfied that the instrument was executed by his or her client.\n(8) Where an instrument is executed by a company or corporation under its common seal in a country where there is no practising notary public, this section does not apply if an advocate and solicitor of the Supreme Court certifies on the instrument that —\n(a)the company or corporation executing the instrument is his or her client; and\n(b)he or she is satisfied that the instrument was executed by the company or corporation in accordance with the articles of association or other rules governing the management of the affairs of the company or corporation and that the seal affixed onto the instrument is the seal of the company or corporation.\n(9) This section does not apply in the case of any instrument executed by the Public Trustee or the Official Assignee under his or her official seal."
+   }
+  },
+  {
+   "id": "SG-H3613-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Procedure where appearance of executant or witness is desired"
+   },
+   "text": {
+    "en": "12.—(1) If any person presenting any instrument for provisional registration desires the appearance of any person whose presence or testimony is necessary for the provisional registration of the instrument, the Registrar may issue a summons requiring him or her to appear at the Registry either in person or by a duly authorised agent as in the summons mentioned and at the time named therein.\n(2) A person who by reason of bodily infirmity is unable without risk or serious inconvenience to appear at the Registry and a person in jail under civil or criminal process are not required so to appear, but in every such case the Registrar must either himself or herself go to the house of that person or to the jail in which that person is confined and examine him or her or issue a commission for his or her examination.\n(3) The law in force for the time being as to summonses, commissions and compelling the attendance of witnesses and for their remuneration in suits before a District Court applies with the necessary modifications to any summons or commission issued and any person summoned to appear under this Act."
+   }
+  },
+  {
+   "id": "SG-H3613-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Conditions precedent to registration"
+   },
+   "text": {
+    "en": "13.—(1) An instrument or memorial must not be registered —\n(a)unless it is duly stamped in accordance with any written law for the time being in force relating to the collection of stamp duties;\n(b)so long as any arrears of land revenue after demand for payment has been made remain due to the State in respect of the land or any part of that land included in or affected by the instrument or memorial;\n(c)unless the boundaries of all lands affected by the instrument or memorial have been surveyed and demarcated to the satisfaction of the Chief Surveyor or unless there is annexed to the original instrument presented for registration an assurance plan which is referred to in section 21 of the Land Surveyors Act (Cap. 156, 1985 Revised Edition) and has been endorsed by the Chief Surveyor to indicate that it has been approved by the Chief Surveyor with the caution as to the inconclusiveness of its boundaries and dimensions;\n(d)if the fees for registration having been demanded remain unpaid; and\n(e)which is not in accordance with any written law which applies to assurances affecting land not subject to the Land Titles Act (Cap. 157, 1985 Revised Edition).\n(2) Where the requirement in subsection (1)(c) has not been complied with, the instrument or memorial may be registered under this Act if the Registrar has granted dispensation from compliance with that requirement pursuant to the rules.\n(3) If by error any instrument has a wrong town subdivision or mukim number, demarcation lot number or part number, or a wrong area endorsed upon it, the Collector of Land Revenue may visit the land and there hold an inquiry into the matter, and if the Collector is satisfied that all the parties to the instrument who can be found within Singapore or their representatives (if any) admit the error and that the instrument has in fact been wrongly endorsed, then, despite the absence of any parties who are dead or have left Singapore, the Collector may, by order in writing, direct the endorsement on the instrument to be corrected and may make the correction upon the instrument being produced to him or her.\n(4) A certified copy of any order made under subsection (3) must be served by the Collector on the Registrar who must make it available for inspection by the public.\n(5) Upon the service of a certified copy of any order made under subsection (3) on the Registrar, any instrument, register, book or index kept at the Registry which is affected by the order is to be construed as if the corrections directed by the Collector had been in the instrument, register, book or index and the Registrar must, if it is practicable for him or her to do so, make the corrections on the instrument, register, book or index."
+   }
+  },
+  {
+   "id": "SG-H3613-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Priority of instruments"
+   },
+   "text": {
+    "en": "14.—(1) Subject to this Act, all instruments registered under any repealed enactment, or entitled to be registered under this Act, have priority according to the date of their registration and not according to the date of the instruments or of their execution.\n(2) Nothing in this Act interferes with the priorities as between themselves of any instruments the dates of registration of which are identical.\n(3) All priorities given by this Act have full effect in all courts except in cases of actual fraud, to which the person by or on whose behalf the registration is made is a party, and all persons claiming thereunder any legal or equitable interests are entitled to corresponding priorities, and no such person loses any such priority merely in consequence of the person having been affected with actual or constructive notice except in cases of actual fraud to which the person is a party.\n(4) Nothing in this section operates to confer upon any person claiming without valuable consideration under any person any further priority or protection than would belong to the person under whom that person claims, and any disposition of land or charge on land which, if unregistered, would be fraudulent and void is, despite registration, fraudulent and void in like manner."
+   }
+  },
+  {
+   "id": "SG-H3613-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Tacking of further advances"
+   },
+   "text": {
+    "en": "15.—(1) Despite any other provision of this Act, a prior mortgagee of land has the right to make further advances giving further credit or accommodation to rank in priority to subsequent mortgages —\n(a)if the prior mortgage authorises the making of further advances, or the giving of credit in instalments or on a current, revolving or continuing account or other accommodation; or\n(b)where the prior mortgage does not expressly authorise the making of the further advances, or for the giving of credit in instalments or on a current, revolving or continuing account or other accommodation, if the subsequent mortgagee agrees to the further advances being made or the credit or other accommodation being given.\n[27/93]\n(2) Except as provided in this section, the right to tack does not apply to mortgages."
+   }
+  },
+  {
+   "id": "SG-H3613-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Rights of purchasers to relief to be same as those of persons through whom they claim"
+   },
+   "text": {
+    "en": "16. Any person claiming under any assurance duly registered has and is entitled to all the same grounds of relief as against any person claiming through any assurance of a subsequent date to that under which the person claims but which has acquired priority by earlier registration as the person through whom that person claims under that firstmentioned assurance might have had and been entitled to."
+   }
+  },
+  {
+   "id": "SG-H3613-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "heading": {
+    "en": "Registration"
+   },
+   "text": {
+    "en": "17.—(1) Subject to this Act and the rules, the Registrar must register all assurances and other instruments that are entitled to be registered under this Act which, or memorials of which, are presented to him or her for registration in the order in which they are so presented and must make such entries as are prescribed.\n(2) An assurance or instrument must not be registered under this Act unless it complies with the requirements of this Act and the rules.\n(3) The register maintained by the Registrar for the purposes of this Act may be kept wholly or partly —\n(a)on paper or microfilm, or in any other medium or a combination of mediums capable of having information recorded in or upon it or them; and\n(b)in a device for storing and processing information.\n(4) The Registrar may microfilm assurances and other instruments registered under this Act and any repealed enactment and dispose of them in such manner as he or she may think fit after they have been microfilmed."
+   }
+  },
+  {
+   "id": "SG-H3613-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "heading": {
+    "en": "Title searches"
+   },
+   "text": {
+    "en": "18.—(1) Subject to this Act and the rules, any person may, upon such days and during such hours as are appointed by the Registrar and upon payment of the prescribed fees, inspect and search the public records kept at the Registry under this Act and the rules and obtain computer print-outs, photocopies or microprints of the records or extracts therefrom.\n(2) The following records kept at the Registry are public records:\n(a)all instruments and their memorials which are registered or provisionally registered under this Act or any repealed enactment;\n(b)indices and other records which are maintained by the Registrar on paper or microfilms or in a computer to facilitate searches to be made of instruments and their memorials which are registered or provisionally registered under this Act or any repealed enactment."
+   }
+  },
+  {
+   "id": "SG-H3613-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "heading": {
+    "en": "Official searches"
+   },
+   "text": {
+    "en": "19.—(1) Subject to this Act and the rules, any person may at any time require an official search to be made on the person’s behalf at the Registry by delivering to the Registrar a requisition in writing signed by the person.\n(2) The requisition mentioned in subsection (1) must specify the Government survey lot number and mukim number or town subdivision number and either —\n(a)the specified instruments which have been registered or provisionally registered under this Act or any repealed enactment; or\n(b)the period of the official search required commencing with a specified instrument, provided that the period does not exceed the statutory period of limitation for title to be deduced under the Conveyancing and Law of Property Act 1886.\n(3) Upon receipt of any requisition mentioned in subsection (1), the Registrar must —\n(a)cause a diligent search to be made;\n(b)give a certificate of the result of that search to the person requiring it to be made; and\n(c)sign the certificate and seal it with his or her seal, and every certificate so signed and sealed is receivable in evidence."
+   }
+  },
+  {
+   "id": "SG-H3613-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "heading": {
+    "en": "Record of official searches"
+   },
+   "text": {
+    "en": "20.—(1) Where any official search has been made under this Act, a record of the result of the search must be preserved at the Registry.\n(2) The Registrar must give a certificate of that result to any person requiring it and must sign the certificate and endorse it with his or her seal, and every certificate so signed and sealed is receivable in evidence."
+   }
+  },
+  {
+   "id": "SG-H3613-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "heading": {
+    "en": "Certified copies"
+   },
+   "text": {
+    "en": "21.—(1) Subject to this Act and the rules, any person may require a certified copy of or extract from any document enrolled in the register or any entry in the register or any other public record maintained by the Registrar under this Act and the rules, and thereupon a certified copy or extract signed by the Registrar and endorsed with his or her seal must be given to that person.\n(2) Every such copy or extract so signed and sealed is receivable as evidence of the contents of that document or entry in every case where those contents may under the rules of evidence be proved by means of any copy or extract.\n(3) Nothing in this section is to be taken to dispense with the production of any original document in any case in which the production of the original document might otherwise be required, nor to dispense with any proof which might otherwise be required as to the due making and execution of the original document."
+   }
+  },
+  {
+   "id": "SG-H3613-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "heading": {
+    "en": "Print-outs of information stored"
+   },
+   "text": {
+    "en": "22. Where a public record in the custody of the Registrar is stored in a computer, a document purporting to be a print-out of that public record and certified to be a true reproduction of that public record is receivable in evidence."
+   }
+  },
+  {
+   "id": "SG-H3613-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "heading": {
+    "en": "Protection of solicitors, trustees, etc., in case of certificates, etc."
+   },
+   "text": {
+    "en": "23. Where any solicitor, trustee, executor, agent or other person in a fiduciary position, either by himself or herself or by a solicitor, obtains —\n(a)a certificate of the result of an official search; or\n(b)a certified copy of or extract from any document enrolled in the register or any entry in the register or any other public record maintained by the Registrar under this Act or the rules,\nthe solicitor, trustee, executor, agent or other person is not answerable for any loss, damage or injury that arises from any error in that certificate, copy or extract."
+   }
+  },
+  {
+   "id": "SG-H3613-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "heading": {
+    "en": "Rectification of register by General Division of High Court"
+   },
+   "text": {
+    "en": "24.—(1) Any person claiming any estate or interest in any land within Singapore may at any time apply to the General Division of the High Court for an order that —\n(a)the register or any book or index kept at the Registry under this Act or the rules must be rectified;\n(b)any entry may be made or interpolated in any such register, book or index;\n(c)any entry in such a register, book or index may be cancelled;\n(d)any certificate endorsed or given under this Act may be amended or cancelled;\n(e)any deed, probate, letters of administration, certificate or other document may be produced to the Registrar for the purpose of any registration, entry or cancellation; or\n(f)the priority by this Act granted to assurances or other instruments upon the registration thereof may be suspended in whole or in part during the continuance of any proceedings then pending in any court as to any assurances registered after the date of the order.\n[40/2019]\n(2) An application mentioned in subsection (1) must be served on the Registrar of Titles where the application affects the proprietorship, description or area of any land comprised in a certificate of title issued under the Land Titles Act (Cap. 157, 1985 Revised Edition).\n(3) The court may either refuse such an application or, if satisfied of the justice of the case, may make such order in reference thereto and as to the costs thereof as in the opinion of the court is just and expedient.\n(4) Any jurisdiction under this section may be exercised by any judge whether sitting in open court or in chambers.\n(5) Any person aggrieved by an order made by the court under this section may appeal within the prescribed time in the same manner and with the same incidents in and with which orders made by the court in cases within its ordinary jurisdiction may be appealed from.\n(6) Upon registration of an order made by the court under this section, any instrument, register, book or index kept at the Registry which is affected by the order of court is to be construed as if the amendments, rectifications, cancellations or endorsements ordered by the court had been made in the instrument, register, book or index and the Registrar must, if so directed by the order of court, make the amendments, rectifications, cancellations or endorsements on the instrument, register, book or index unless it is not practicable for the Registrar to do so.\n(7) The Registrar may require any person who has custody, possession or control of any instrument which is the subject of an order of court made under this section to produce that instrument to the Registrar for amendments, rectifications or endorsements to be made on the instrument or to cancel the instrument in accordance with the terms of that order of court; and if that person refuses or neglects to produce that instrument, that person shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years."
+   }
+  },
+  {
+   "id": "SG-H3613-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "heading": {
+    "en": "Act not to extend to certain leaseholds"
+   },
+   "text": {
+    "en": "25.—(1) Nothing in this Act extends to any lease for a term not exceeding 7 years or any assignment thereof where accompanied by actual possession from the making of the lease or assignment.\n(2) For the purposes of determining whether or not an instrument may be registered under this Act —\n(a)the right or option to extend the term of a lease for any further period granted by the lessor to the lessee is deemed to be part of the term of years granted by the lease; and\n(b)no account is to be taken of the fact that the lease may be determined on the happening of an event during the duration of the lease."
+   }
+  },
+  {
+   "id": "SG-H3613-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "heading": {
+    "en": "Penalty for wilful misconduct by Registrar"
+   },
+   "text": {
+    "en": "26. The Registrar or any person employed by or under the Registrar for the purposes of this Act, who wilfully neglects his or her duty in the execution of his or her office according to the rules and directions in this Act mentioned, or wilfully commits or suffers to be committed any undue or fraudulent practice in the execution of that office, intending thereby to cause or knowing it to be likely that he or she may thereby cause injury as defined in the Penal Code 1871 to any person, shall be guilty of an offence and shall be punished on conviction with a fine or with imprisonment for a term not exceeding 7 years or with both."
+   }
+  },
+  {
+   "id": "SG-H3613-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "heading": {
+    "en": "Offences and penalties"
+   },
+   "text": {
+    "en": "27. Any person who —\n(a)intentionally makes any false statement, whether on oath or not, before an officer acting in the execution of this Act;\n(b)fraudulently procures, assists in fraudulently procuring, or is privy to the fraudulent procuring of any instrument, or any entry in, any alteration or erasure of, or any addition to, in any register or record kept at the Registry;\n(c)intentionally delivers to a registering officer a false document;\n(d)knowingly misleads or deceives any person authorised by this Act to demand an explanation or any information with respect to any land, or the title to any land with respect to any instrument registered or provisionally registered;\n(e)falsely impersonates another and in that assumed character presents any document or makes any statement or does any other act for the purposes of this Act;\n(f)fraudulently removes from the Registry any part of the records or any instrument kept at the Registry or causes any defacement, obliteration, mutilation or unauthorised entry or alteration to be made to the record or instrument; or\n(g)abets the commission of an offence under this Act,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both."
+   }
+  },
+  {
+   "id": "SG-H3613-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "28.—(1) The Registrar is not required to do any act or permit any act to be done in respect of which any fee is specified or fixed except on payment of that fee.\n(2) All fees collected under or in connection with any service provided by the Registrar under this Act or any rules made under this Act must be paid into the funds of the Authority.\n[17/2001]"
+   }
+  },
+  {
+   "id": "SG-H3613-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "heading": {
+    "en": "Rules"
+   },
+   "text": {
+    "en": "29.—(1) The Authority may make rules with respect to all or any of the following matters:\n(a)the form of the register and the mode in which it is to be made and kept;\n(b)the preparation and keeping at the Registry of any books and indexes and the entries to be made therein for the purpose of effecting any registration;\n(c)the mode in which registration or provisional registration is to be conducted;\n(d)the making of entries in the register where any mortgage, lien or charge with reference to which any instrument has been registered under this Act has been satisfied or discharged;\n(e)the forms of memorials, memoranda of discharge, certificates and other instruments to be prepared for the purposes of this Act;\n(f)the making of searches and the giving of certified copies and prescribing the fees therefor;\n(g)the custody of the register and other documents connected with the business of registration;\n(h)exempting leases for a term exceeding 7 years or assignments thereof from any of the provisions of this Act, and prescribing the method by which the boundaries of land comprised in those leases must be recorded;\n(i)exempting instruments relating to land intended to form part of street or back lanes from any of the provisions of this Act, and prescribing the mode in which such instruments may be registered;\n(j)enabling the Registrar in his or her discretion to dispense with the requirements of section 13(1)(c) when he or she considers it desirable to do so;\n(k)the persons by whom and the manner in which any memorandum of discharge must be signed;\n(l)generally to carry into effect the objects of this Act.\n[17/2001]\n(2) The Authority, with the approval of the Minister, may make rules prescribing —\n(a)the fees for any matter or thing done under this Act; or\n(b)the penalties or additional fees to be taken by the Registrar for delay in removing instruments after registration.\n[17/2001]\n(3) All rules made under this Act must be published in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H3613-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "heading": {
+    "en": "Service of notices"
+   },
+   "text": {
+    "en": "30.—(1) Any notice required by this Act to be served on any person is deemed to be duly served on the person if sent by registered post to the person’s last known address in Singapore despite the fact that it is returned through the post as undelivered.\n(2) Section 72 of the Conveyancing and Law of Property Act 1886 does not apply to the service on a proprietor of a notice under this Act."
+   }
+  },
+  {
+   "id": "SG-H3613-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "heading": {
+    "en": "Transitional provisions"
+   },
+   "text": {
+    "en": "31.—(1) Any register, instrument, index or other document maintained under the repealed Registration of Deeds Act (Cap. 269, 1985 Revised Edition) must continue to be maintained under a corresponding provision of this Act or any of the rules.\n(2) Insofar as any entry in a register or instrument was made or other thing whatsoever was done under the repealed Registration of Deeds Act (Cap. 269, 1985 Revised Edition), that entry or thing has effect as if made or done under a corresponding provision of this Act or any of the rules.\n(3) Any lease for a term exceeding 3 years but less than 7 years or any assignment thereof executed or made before 30 November 1988 and which was not registered under the repealed Registration of Deeds Act (Cap. 269, 1985 Revised Edition) may, despite section 25 of this Act, be registered under this Act, and unless so registered is not admissible in any court as evidence of title to land.\n(4) Any written law or other document referring to the repealed Registration of Deeds Act (Cap. 269, 1985 Revised Edition) is, as far as may be necessary for preserving its effect, to be construed as referring, or as including a reference, to this Act.\n(5) Nothing in this section is to be taken as prejudicing the operation of section 16 of the Interpretation Act 1965 (which relates to the effect of repeals)."
+   }
+  }
+ ]
+}

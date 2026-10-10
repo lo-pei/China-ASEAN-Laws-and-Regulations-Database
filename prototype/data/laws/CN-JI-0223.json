@@ -1,0 +1,100 @@
+{
+ "id": "CN-JI-0223",
+ "title": {
+  "zh": "最高人民法院关于人民法院能否对信用证开证保证金采取冻结和扣划措施问题的规定",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p08",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "1996-06-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "最高人民法院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ITEM",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 430,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于人民法院能否对信用证开证保证金采取冻结和扣划措施问题的规定_20201229.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，一、至三、，共 3 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于人民法院能否对信用证开证保证金采取冻结和扣划措施问题的规定_20201229.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0223-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "一、"
+   },
+   "text": {
+    "zh": "人民法院在审理或执行案件时，依法可以对信用证开证保证金采取冻结措施，但不得扣划。如果当事人、开证银行认为人民法院冻结和扣划的某项资金属于信用证开证保证金的，应当依法提出异议并提供有关证据予以证明。人民法院审查后，可按以下原则处理：对于确系信用证开证保证金的，不得采取扣划措施；如果开证银行履行了对外支付义务，根据该银行的申请，人民法院应当立即解除对信用证开证保证金相应部分的冻结措施；如果申请开证人提供的开证保证金是外汇，当事人又举证证明信用证的受益人提供的单据与信用证条款相符时，人民法院应当立即解除冻结措施。"
+   }
+  },
+  {
+   "id": "CN-JI-0223-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "二、"
+   },
+   "text": {
+    "zh": "如果银行因信用证无效、过期，或者因单证不符而拒付信用证款项并且免除了对外支付义务，以及在正常付出了信用证款项并从信用证开证保证金中扣除相应款额后尚有剩余，即在信用证开证保证金账户存款已丧失保证金功能的情况下，人民法院可以依法采取扣划措施。"
+   }
+  },
+  {
+   "id": "CN-JI-0223-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "三、"
+   },
+   "text": {
+    "zh": "人民法院对于为逃避债务而提供虚假证据证明属信用证开证保证金的单位和个人，应当依照民事诉讼法的有关规定严肃处理。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于人民法院能否对信用证开证保证金采取冻结和扣划措施问题的规定"
+  },
+  "issuingBody": {
+   "zh": "最高人民法院"
+  },
+  "promulgatedDate": "1996-06-20",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "PH-H158",
+ "title": {
+  "zh": null,
+  "en": "An Act to Make Elective the Offices of Provincial Governor and Members of the Provincial Board, and to Fix the Compensation of the Provincial Officials, of Bukidnon, Cotabato, Lanao, Sulu and Mountain Province",
+  "orig": "An Act to Make Elective the Offices of Provincial Governor and Members of the Provincial Board, and to Fix the Compensation of the Provincial Officials, of Bukidnon, Cotabato, Lanao, Sulu and Mountain Province"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p02",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1946-10-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 59",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1498,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1946/ra_59_1946.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1946/ra_59_1946.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H158-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The offices of governor and members of the provincial board in the Mountain Province and in the Provinces of Bukidnon, Cotabato, Lanao and Sulu are hereby declared elective: Provided, That the said provinces shall receive the same financial aid from the National Government as heretofore granted them by existing laws: Provided, further, That the provincial governor and other provincial officials in the aforesaid provinces shall receive the same compensation fixed by law of similar officials in regular or special provinces of the same class."
+   }
+  },
+  {
+   "id": "PH-H158-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The provision of section three of Act Numbered Thirty-seven hundred and ninety-eight and of section one of Act Numbered Thirty-two hundred and ninety-seven, insofar as they specifically refer to the provinces mentioned in section one of this Act as not embraced in the general classification of provinces for the purpose of fixing the compensation to be paid certain provincial officials, are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H158-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect in each of the provinces enumerated in section one hereof when the President of the Philippines shall have ascertained, and shall so declare, by proclamation, that the people of said province are ready to elect their provincial governor and the members of the provincial board: Provided, That the election of said officials shall be held at the same time as the regular election for provincial offices throughout the Philippines, and in accordance with the provisions of the Election Code.\nApproved: October 17, 1946."
+   }
+  }
+ ]
+}

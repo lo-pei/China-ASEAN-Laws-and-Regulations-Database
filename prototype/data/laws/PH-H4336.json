@@ -1,0 +1,74 @@
+{
+ "id": "PH-H4336",
+ "title": {
+  "zh": null,
+  "en": "An Act Further Amending Commonwealth Act Numbered Three Hundred Twenty-Six By Providing for One Additional Judge and One Additional Auxiliary Judge for the City Court of Bacolod",
+  "orig": "An Act Further Amending Commonwealth Act Numbered Three Hundred Twenty-Six By Providing for One Additional Judge and One Additional Auxiliary Judge for the City Court of Bacolod"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p61",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1969-06-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 5538",
+ "officialCode": null,
+ "topics": [
+  "judiciary"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1305,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1969/ra_5538_1969.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1969/ra_5538_1969.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4336-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The last paragraph of Section nineteen of Commonwealth Act Numbered Three hundred twenty-six, as amended, is hereby further amended to read as follows:\n\"There shall be a city court for which three judges shall be appointed.\""
+   }
+  },
+  {
+   "id": "PH-H4336-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section twenty-one of the same Act, as amended, is hereby further amended to read as follows:\n\"Section 21. There shall be three judges and three auxiliary judges of the city court for the city who shall have the same powers, duties and jurisdiction as municipal judges and auxiliary municipal judges generally; and, in addition thereto, territorial jurisdiction over the entire police zone of the city. All fines, forfeitures, and fees imposed and collected by the judges authorized by this section shall accrue to the benefit of the city treasurer. The City Court of the City of Bacolod shall have concurrent territorial jurisdiction with the Court of First Instance of the Province of Occidental Negros and the municipal courts of the respective municipalities to try crimes and misdemeanors committed within the zone for police purposes as provided for in Section six of this Charter. The court first taking jurisdiction of such an offense shall thereafter retain exclusive territorial jurisdiction thereof.\""
+   }
+  },
+  {
+   "id": "PH-H4336-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
+   }
+  }
+ ]
+}

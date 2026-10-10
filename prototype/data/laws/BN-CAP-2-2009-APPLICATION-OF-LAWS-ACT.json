@@ -1,0 +1,82 @@
+{
+ "id": "BN-CAP-2-2009-APPLICATION-OF-LAWS-ACT",
+ "title": {
+  "zh": null,
+  "en": "APPLICATION OF LAWS ACT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p10",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2009",
+ "effectiveDate": null,
+ "versionDate": "2009",
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": "CAP. 2",
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "An Act to regulate the application in Brunei Darussalam of the common"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 3,
+ "chars": 1013,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-2-2009-ED-APPLICATION-OF-LAWS-ACT.pdf",
+ "fetchedAt": "2026-10-09",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-2-2009-ED-APPLICATION-OF-LAWS-ACT.pdf》（5 页），本次切分 3 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-2-2009-APPLICATION-OF-LAWS-ACT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Application of Laws Act. Application of common law, doctrines of equity and statutes of general"
+   }
+  },
+  {
+   "id": "BN-CAP-2-2009-APPLICATION-OF-LAWS-ACT-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "heading": {
+    "en": "Application of common law, doctrines of equity and statutes of"
+   },
+   "text": {
+    "en": "Subject to the provisions of this Act and save in so far as other provision has been or may hereafter be made by any written law in force in Brunei Darussalam, the common law of England and the doctrines of equity, together with statutes of general application, as administered or in force in England at the commencement of this Act, shall be in force in Brunei Provided that the said common law, doctrines of equity and statutes of general application shall be in force in Brunei Darussalam so far only as the circumstances of Brunei Darussalam and of its inhabitants permit and subject to such qualifications as local circumstances and customs render necessary. Crown Proceedings Act, 1947 of the United Kingdom. [S 58/04]"
+   }
+  },
+  {
+   "id": "BN-CAP-2-2009-APPLICATION-OF-LAWS-ACT-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "heading": {
+    "en": "_______________________"
+   },
+   "text": {
+    "en": "For the avoidance of doubt, it is hereby declared that the Crown Proceedings Act, 1947 of the United Kingdom is not and has never been in force in Brunei Darussalam."
+   }
+  }
+ ]
+}

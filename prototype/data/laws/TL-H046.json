@@ -1,0 +1,263 @@
+{
+ "id": "TL-H046",
+ "title": {
+  "zh": "集会与示威自由",
+  "en": null,
+  "orig": "A Liberdade de Reunião e de Manifestação"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2006-02-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 1/2006",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 17,
+ "chars": 6340,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2006/serie_1/serie1_no2.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 17 条；逐字取自官方公报 PDF（public/docs/2006/serie_1/serie1_no2.pdf）第 1124–1126 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H046-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Objecto"
+   },
+   "text": {
+    "pt": "1.   A presente lei tem por objecto definir o regime jurídico a que deve obedecer o exercício do direito à liberdade de reunião e de manifestação em lugares públicos e abertos ao público.\n2.   As reuniões privadas não obedecem a estas normas quando realizadas em local fechado e mediante convites individuais.\n3. As reuniões e manifestações de carácter religioso e as reuniões eleitorais também não obedecem a estas normas, regulando-se por legislação específica."
+   }
+  },
+  {
+   "id": "TL-H046-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Reunião"
+   },
+   "text": {
+    "pt": "1.   Por “reunião” entende-se o ajuntamento de várias pessoas pré-ordenadas, em lugares públicos, abertos ao público ou particulares, para fins não contrários à lei, à moral, ao direito das demais pessoas e à ordem e tranquilidade públicas.\n2.  As reuniões têm carácter temporário, organizado e não institucionalizado."
+   }
+  },
+  {
+   "id": "TL-H046-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "heading": {
+    "pt": "Manifestação"
+   },
+   "text": {
+    "pt": "1. Entende-se por “manifestação” a expressão pública e colectiva de opiniões ou sentimentos sobre assuntos políticos, sociais ou outros.\n2.   A manifestação pode abranger o comício, o desfile e o cortejo devidamente organizados."
+   }
+  },
+  {
+   "id": "TL-H046-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "heading": {
+    "pt": "Liberdade de reunião e manifestação"
+   },
+   "text": {
+    "pt": "1.   Todos os cidadãos podem exercer, nos termos da presente lei e sem necessidade de autorização prévia, o seu direito de reunião e de manifestação, de forma pacífica e sem armas.\n2.  Ninguém pode ser obrigado a tomar parte numa reunião ou numa manifestação."
+   }
+  },
+  {
+   "id": "TL-H046-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "heading": {
+    "pt": "Restrições"
+   },
+   "text": {
+    "pt": "1.  É proibida a realização de reuniões e manifestações em lugares públicos ou abertos ao público situados a menos de 100 metros dos recintos onde estão sediados os órgãos de soberania, as residências oficiais dos titulares dos órgãos de soberania, as instalações militares e militarizadas, os estabelecimentos prisionais, as sedes das representações diplomáticas e consulares e as sedes dos partidos políticos.\n2.  É igualmente proibida a realização de manifestações num espaço a menos de 100 metros dos portos, aeroportos, instalações de telecomunicação, centrais de produção de energia eléctrica, depósitos e locais de armazenamento de água, combustível e material inflamável."
+   }
+  },
+  {
+   "id": "TL-H046-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "heading": {
+    "pt": "Limitação de tempo"
+   },
+   "text": {
+    "pt": "As manifestações só podem ter lugar entre as 8 e as 18 horas e 30 minutos."
+   }
+  },
+  {
+   "id": "TL-H046-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "heading": {
+    "pt": "Interrupção"
+   },
+   "text": {
+    "pt": "As reuniões ou manifestações organizadas em lugares públicos ou abertos ao público podem ser interrompidas por determinação da autoridade policial, que deverá dar imediato conhecimento à autoridade civil competente, se se verificar desvio da sua finalidade inicial pela prática de actos contrários à lei ou que violem as restrições referidas no artigo 5.° da presente lei."
+   }
+  },
+  {
+   "id": "TL-H046-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "heading": {
+    "pt": "Garantias do exercício das liberdades"
+   },
+   "text": {
+    "pt": "As autoridades civis e policiais devem garantir o livre exercício do direito à liberdade de reunião e de manifestação, ordenando a comparência e a permanência de representantes ou agentes seus nos locais pertinentes e tomando as necessárias providências para que o exercício desses direitos decorra sem perturbações, designadamente sem a interferência de contra-manifestações."
+   }
+  },
+  {
+   "id": "TL-H046-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "heading": {
+    "pt": "Manutenção da ordem em recinto fechado"
+   },
+   "text": {
+    "pt": "1.  Os promotores de reuniões e de manifestações em lugares fechados são responsáveis, nos termos legais, pela manutenção da ordem no respectivo recinto, quando não solicitem a presença de agentes policiais.\n2.  Os agentes da autoridade não podem estar presentes em reuniões ou manifestações realizadas em recintos fechados, a não ser que a sua presença tenha sido solicitada pelos promotores do evento."
+   }
+  },
+  {
+   "id": "TL-H046-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "heading": {
+    "pt": "Aviso prévio"
+   },
+   "text": {
+    "pt": "1.  As pessoas ou entidades que pretendam realizar reuniões ou manifestações em lugares públicos ou abertos ao público devem avisar, por escrito, do seu propósito, com a antecedência mínima de quatro dias úteis, as autoridades civis e policiais da área.\n2. O aviso deve ser assinado por cinco promotores convenientemente identificados pelo nome, morada e profissão ou, tratando-se de pessoas colectivas, pelos respectivos órgãos de direcção.\n3.  O aviso deve conter ainda obrigatoriamente a indicação da hora, local e objecto da reunião e, tratando-se de cortejo, desfile ou manifestação, a indicação do trajecto a seguir.\n4.   As entidades que receberem o aviso devem emitir documento comprovativo da sua recepção, nos devidos termos."
+   }
+  },
+  {
+   "id": "TL-H046-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "heading": {
+    "pt": "Decisão de restrição"
+   },
+   "text": {
+    "pt": "1.  A decisão de restrição nos termos do artigo 5.° deve ser fundamentada e notificada por escrito aos promotores, na morada por eles indicada, no prazo de dois dias a contar da recepção do aviso pelas autoridades.\n2.  A falta de notificação no prazo indicado faz presumir que não existe qualquer objecção à realização da reunião ou manifestação.\n3.   A decisão de restrição compete à autoridade civil e policial da área."
+   }
+  },
+  {
+   "id": "TL-H046-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "heading": {
+    "pt": "Alteração do trajecto"
+   },
+   "text": {
+    "pt": "1.   As autoridades podem, se se mostrar aconselhável ao bom ordenamento do trânsito de pessoas e de veículos nas vias públicas, alterar os trajectos programados ou determinar que os desfiles e os cortejos se façam só por metade da faixa de rodagem.\n2.  A ordem de alteração do trajecto é dada por escrito aos promotores, com a antecedência de dois dias, em relação ao início do desfile ou cortejo."
+   }
+  },
+  {
+   "id": "TL-H046-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "heading": {
+    "pt": "Lugares públicos"
+   },
+   "text": {
+    "pt": "As autoridades civis e policiais devem definir determinados lugares públicos, devidamente identificados e delimitados, para a realização de reuniões ou manifestações."
+   }
+  },
+  {
+   "id": "TL-H046-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "heading": {
+    "pt": "Porte ilegal de armas"
+   },
+   "text": {
+    "pt": "1.   É proibido o porte de armas brancas ou de fogo e outras em reuniões e manifestações.\n2.   As pessoas que forem encontradas com armas brancas, de fogo ou outras em reuniões e manifestações incorrem no crime de posse ilegal de armas previsto e punido pelo n.o 4 do artigo 4.o do Regulamento da UNTAET n.º 5/2001, de 23 de Abril, sem prejuízo de outras penas que ao caso couber."
+   }
+  },
+  {
+   "id": "TL-H046-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "heading": {
+    "pt": "Outros crimes"
+   },
+   "text": {
+    "pt": "1.   Quem interferir em reunião ou manifestação impedindo ou tentando impedir a sua realização incorre no crime de desobediência previsto e punido pelo artigo 160.° do Código Penal.\n2.   Todos os que se reunirem ou se manifestarem com violação do disposto na presente lei incorrem igualmente no cometimento do crime de desobediência previsto e punido pelo dispositivo legal referido no número anterior.\n3.  As autoridades que impeçam ou tentem impedir, fora do condicionalismo legal, o exercício do direito de reunião ou de manifestação incorrem no crime de abuso de autoridade punido pelo artigo 421.° do Código Penal e ficam sujeitas a responsabilidade disciplinar."
+   }
+  },
+  {
+   "id": "TL-H046-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "heading": {
+    "pt": "Recurso"
+   },
+   "text": {
+    "pt": "1.  Da decisão das autoridades, tomada com violação do disposto na presente lei, cabe recurso para os tribunais, a interpor, pelos promotores da reunião ou manifestação, no prazo de cinco dias a contar da data da notificação.\n2.   Da decisão dos tribunais cabe sempre recurso para o Supremo Tribunal de Justiça."
+   }
+  },
+  {
+   "id": "TL-H046-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação no Jornal da República."
+   }
+  }
+ ]
+}

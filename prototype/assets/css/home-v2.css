@@ -1,0 +1,230 @@
+
+/* ==========================================================================
+   首页（极简主义 · 对标 data.worldbank.org）
+   结构：① 主视觉（左对齐标题 + 固定英文 + 居中加长检索栏）
+         ② 法律体系介绍区（12 法域卡片 + 法系筛选）
+         ③ 数据库介绍区（关键数字 + 三个入口）
+         ④ 关于我们区
+   说明：旧的 .home-hero / .home-search 规则已无匹配元素，保留不影响渲染。
+   ========================================================================== */
+
+/* ---------- ① 主视觉 ---------- */
+.hero-lite {
+  /* 标题上移；底部留白加大，使下方灰色区块的起始边线下移 */
+  padding: 68px 0 140px;
+  background: var(--bg-surface);
+}
+.hero-lite__title {
+  margin: 0;
+  font-family: var(--font-brand);
+  font-size: clamp(30px, 4vw, 54px);
+  font-weight: 600;
+  letter-spacing: -.5px;
+  line-height: 1.15;
+  color: var(--text-primary);
+  text-align: left;
+}
+.hero-lite__en {
+  margin: 22px 0 0;
+  font-size: 16px;
+  letter-spacing: .3px;
+  color: var(--text-secondary);
+  text-align: left;
+}
+/* 检索行：检索栏加长左对齐，右侧一行说明补白 */
+.hero-lite__row {
+  display: grid;
+  grid-template-columns: minmax(0, 720px) minmax(0, 1fr);
+  gap: 36px;
+  align-items: center;
+  margin-top: 38px;
+}
+.hero-lite__search { max-width: 720px; margin: 0; }
+.hero-lite__note {
+  margin: 0; font-size: 13px; line-height: 1.9; color: var(--text-secondary);
+  border-left: 2px solid var(--border); padding-left: 18px;
+}
+.searchbox--xl {
+  height: 54px;
+  border-radius: var(--radius-pill);
+  box-shadow: var(--shadow-md);
+}
+.searchbox--xl .searchbox__input { font-size: 15px; }
+.searchbox--xl > .btn { height: 44px; padding: 0 28px; }
+
+/* ---------- 区块通用节奏与交替底色 ---------- */
+.home-sec { padding: 84px 0; margin: 0; }   /* 去掉 .section 的上下 margin，避免区块间露出页面底色 */
+/* 紧接主视觉的第一个区块：上内边距减小，使灰色起始边线下移而标题位置不变 */
+#home-systems { padding-top: 56px; }
+.home-sec--surface { background: var(--bg-surface); }
+.home-sec--band { background: var(--bg-band); }
+.home-sec__head { position: relative; margin-bottom: 28px; }
+.home-sec__title { margin: 0; font-size: 20px; font-weight: 600; color: var(--text-primary); }
+.home-sec__sub { margin: 8px 0 0; max-width: 900px; font-size: 14px; line-height: 1.75; color: var(--text-secondary); }
+.home-sec__more { position: absolute; right: 0; bottom: 2px; font-size: 13px; }
+
+/* ---------- ② 法律体系介绍区 ---------- */
+.sys-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 28px 24px; }
+.sys-card {
+  display: flex; flex-direction: column; min-width: 0;
+  padding: 0; border-radius: 14px; overflow: hidden;
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  transition: border-color var(--transition), box-shadow var(--transition), transform var(--transition);
+}
+.sys-card:hover { border-color: var(--calr-blue-300); box-shadow: var(--shadow-md); transform: translateY(-2px); }
+.sys-card.is-hidden { display: none; }
+.sys-card__media { display: block; line-height: 0; }
+/* 预留图片位：3:4 竖版；图片按原比例居中裁切填满 */
+.sys-card__ph {
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px;
+  aspect-ratio: 3 / 4; border-radius: 0; overflow: hidden;
+  background-color: var(--calr-gray-100);
+  background-image: radial-gradient(120% 120% at 18% 0%, rgba(37, 99, 235, .16), transparent 62%);
+  background-size: cover; background-position: center; background-repeat: no-repeat;
+  border: 1px solid var(--border);
+  transition: border-color var(--transition);
+}
+.sys-card__ph.is-loaded { border-color: transparent; }
+.sys-card__ph.is-loaded .sys-card__flag,
+.sys-card__ph.is-loaded .sys-card__phname { display: none; }
+.sys-card__flag { width: 54px; height: 36px; border-radius: 3px; }
+.sys-card__phname { font-size: 13px; color: var(--text-secondary); }
+
+.sys-card__body { padding: 14px 14px 16px; min-width: 0; }
+.sys-card__name { margin: 0; font-size: 16px; font-weight: 600; }
+.sys-card__name a { color: var(--text-primary); }
+.sys-card__name a:hover { color: var(--calr-blue-600); text-decoration: none; }
+.sys-card__tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.sys-card__desc {
+  margin: 10px 0 0; font-size: 13px; line-height: 1.7; color: var(--text-secondary);
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+}
+.sys-card__meta { margin-top: 10px; font-size: 12px; color: var(--text-secondary); }
+.sys-card__meta b { color: var(--text-primary); font-weight: 600; }
+.sys-card__src { display: inline-flex; align-items: center; gap: 2px; margin-top: 8px; font-size: 12px; }
+
+/* ---------- ②b 东盟成员国地图（真实国界） ---------- */
+.asean-map {
+  position: relative;
+  max-width: 600px; margin: 0 auto;      /* 再压缩：一屏可见 */
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  background:
+    radial-gradient(120% 90% at 74% 6%, rgba(37, 99, 235, .12), transparent 64%),
+    #EAF1FB;
+}
+html[data-theme="dark"] .asean-map { background: linear-gradient(160deg, #1B2536, #16202F); }
+.asean-map__svg { display: block; width: 100%; height: auto; }
+.map-grat line { stroke: rgba(37, 99, 235, .10); stroke-width: 1; }
+html[data-theme="dark"] .map-grat line { stroke: rgba(147, 197, 253, .10); }
+
+.map-country {
+  fill: #BFD6F3;
+  stroke: #FFFFFF;
+  stroke-width: 1.4;
+  stroke-linejoin: round;
+  transition: fill var(--transition);
+}
+html[data-theme="dark"] .map-country { fill: #2E425C; stroke: #16202F; }
+.map-country--ref { fill: #DDE5F0; }
+html[data-theme="dark"] .map-country--ref { fill: #232E3E; }
+.map-country:hover { fill: var(--calr-blue-400); cursor: pointer; }
+
+/* 国家标签层：覆盖在 SVG 上，按真实经纬位置定位 */
+.asean-map__tags { position: absolute; inset: 0; pointer-events: none; }
+.map-tag {
+  position: absolute;
+  pointer-events: auto;
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 4px 10px 4px 6px;
+  border-radius: var(--radius-pill);
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-sm);
+  font-size: 12px; line-height: 1.4; color: var(--text-primary);
+  white-space: nowrap;
+  transition: border-color var(--transition), box-shadow var(--transition);
+}
+.map-tag:hover { border-color: var(--calr-blue-400); box-shadow: var(--shadow-md); z-index: 3; text-decoration: none; }
+.map-tag--ref { background: var(--calr-gray-100); color: var(--text-secondary); }
+.map-tag__flag { width: 20px; height: 13px; border-radius: 2px; flex: 0 0 auto; }
+.map-tag__n { font-size: 11px; color: var(--text-secondary); }
+.asean-map__note {
+  margin: 12px 0 0; font-size: 12px; color: var(--text-secondary);
+}
+
+/* ---------- ③ 数据库介绍区 ---------- */
+.stat-row {
+  display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 24px;
+  padding: 28px 0; border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);
+}
+.stat-tile__n { font-size: clamp(26px, 2.6vw, 36px); font-weight: 600; color: var(--calr-blue-600); letter-spacing: -.5px; }
+.stat-tile__l { margin-top: 4px; font-size: 13px; color: var(--text-secondary); }
+
+.entry-row { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; margin-top: 32px; }
+.entry-card {
+  display: block; padding: 22px; border: 1px solid var(--border); border-radius: 10px;
+  background: var(--bg-surface);
+  transition: border-color var(--transition), transform var(--transition), box-shadow var(--transition);
+}
+.entry-card:hover {
+  text-decoration: none; border-color: var(--calr-blue-400);
+  transform: translateY(-2px); box-shadow: var(--shadow-md);
+}
+.entry-card__t { margin: 0; font-size: 15px; font-weight: 600; color: var(--text-primary); }
+.entry-card__d { margin: 8px 0 0; font-size: 13px; line-height: 1.7; color: var(--text-secondary); }
+.entry-card__go { display: inline-block; margin-top: 12px; font-size: 13px; color: var(--calr-blue-600); }
+
+/* ---------- ④ 关于我们区：四块内容直接展开在主页 ---------- */
+.faq { border-top: 1px solid var(--border); }
+.faq__item { border-bottom: 1px solid var(--border); }
+.faq__q {
+  display: flex; align-items: center; justify-content: space-between; gap: 16px;
+  padding: 18px 2px; cursor: pointer; list-style: none;
+  font-size: 15px; font-weight: 600; color: var(--text-primary);
+}
+.faq__q::-webkit-details-marker { display: none; }
+.faq__q:hover { color: var(--calr-blue-600); }
+.faq__mark {
+  position: relative; width: 12px; height: 12px; flex: 0 0 12px; color: var(--text-secondary);
+}
+.faq__mark::before, .faq__mark::after {
+  content: ''; position: absolute; background: currentColor; border-radius: 1px;
+}
+.faq__mark::before { left: 0; top: 5.5px; width: 12px; height: 1.4px; }
+.faq__mark::after { top: 0; left: 5.5px; width: 1.4px; height: 12px; transition: transform var(--transition); }
+.faq__item[open] .faq__mark::after { transform: scaleY(0); }
+.faq__a { padding: 0 2px 22px; max-width: 940px; }
+.faq__a p { margin: 0 0 12px; font-size: 13.5px; line-height: 1.85; color: var(--text-secondary); }
+.faq__sub { margin: 18px 0 8px; font-size: 13.5px; font-weight: 600; color: var(--text-primary); }
+.faq__sub:first-child { margin-top: 0; }
+.faq__list { margin: 0; padding-left: 20px; }
+.faq__list li { font-size: 13.5px; line-height: 1.9; color: var(--text-secondary); }
+
+/* 数据来源面板里的紧凑数字行 */
+.stat-row--tight { margin-bottom: 16px; padding: 20px 0; border-top: 0; }
+
+/* ---------- 首页响应式 ---------- */
+@media (max-width: 1279px) {
+  .sys-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+@media (max-width: 1023px) {
+  .hero-lite { padding: 72px 0 64px; }
+  .hero-lite__row { grid-template-columns: minmax(0, 1fr); gap: 22px; margin-top: 32px; }
+  .hero-lite__search { max-width: none; }
+  .hero-lite__note { border-left: 0; padding-left: 0; }
+  .home-sec { padding: 64px 0; }
+  .sys-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .stat-row { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px 24px; }
+  .entry-row { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 767px) {
+  .hero-lite { padding: 56px 0 48px; }
+  .hero-lite__row { margin-top: 28px; }
+  .home-sec { padding: 52px 0; }
+  .sys-grid { grid-template-columns: minmax(0, 1fr); }
+  .entry-row { grid-template-columns: minmax(0, 1fr); }
+  .home-sec__more { position: static; display: inline-block; margin-top: 10px; }
+}

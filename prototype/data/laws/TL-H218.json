@@ -1,0 +1,458 @@
+{
+ "id": "TL-H218",
+ "title": {
+  "zh": "2022年国家总预算",
+  "en": null,
+  "orig": "Orçamento Geral do Estado para 2022"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p04",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "amended",
+ "promulgatedDate": "2022-01-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "据公报标题，本法经 Lei n.º 6/2022 修改；本库收录的是本法原始公布文本，修改后的合并本未另行收录。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 1/2022",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 26,
+ "chars": 40878,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2022/serie_1/SERIE_I_NO_1.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 26 条；逐字取自官方公报 PDF（public/docs/2022/serie_1/SERIE_I_NO_1.pdf）第 1–40 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 【据公报标题，本法经 《第6/2022号法律》 修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H218-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  INICIAIS"
+   },
+   "heading": {
+    "pt": "Objeto e âmbito"
+   },
+   "text": {
+    "pt": "1.   O Orçamento Geral do Estado (OGE) apresenta as previsões orçamentais dos órgãos e serviços do Setor Público Administrativo, sendo composto pelo Orçamento da Administração Central, pelo Orçamento da Região Administrativa Especial de Oe-Cusse Ambeno e pelo Orçamento da Segurança Social.\n2.  O Setor da Administração Central é composto pela Administração Direta, que integra o Estado e os órgãos e serviços sem personalidade jurídica distinta da pessoa coletiva Estado, e pela Administração Indireta que integra as pessoas coletivas públicas distintas da pessoa coletiva Estado sem a forma de empresa, fundação ou associação.\n3.  O Setor da Região Administrativa Especial de Oe-Cusse Ambeno é composto pela Autoridade da Região Administrativa Especial de Oe-Cusse Ambeno, pelo seu Presidente, pelo Conselho Consultivo da Região Administrativa Especial de Oe-Cusse Ambeno e pelos serviços dirigidos ou tutelados por estes.\n4.  O Setor da Segurança Social é composto pelo Instituto Nacional de Segurança Social (INSS) e pelo Fundo de Reserva da Segurança Social (FRSS).\n5.  Apesar de integrarem o Setor Público Administrativo, o Fundo Petrolífero de Timor-Leste e o Banco Central de Timor-Leste não integram o OGE, sendo os seus orçamentos e prestação de contas regulados por legislação especial."
+   }
+  },
+  {
+   "id": "TL-H218-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  INICIAIS"
+   },
+   "heading": {
+    "pt": "Regime financeiro"
+   },
+   "text": {
+    "pt": "1.   O regime financeiro é o conjunto de regras que definem a capacidade orçamental, financeira e patrimonial dos órgãos e serviços do Setor Público Administrativo.\n2.   Os órgãos e serviços da Administração Central dividem-se, quanto ao seu regime financeiro, em:\na) Serviços Sem Autonomia Financeira;\nb) Órgãos, Serviços e Fundos autónomos.\n3.    Para efeitos do número anterior, são Serviços Sem Autonomia Financeira os Ministérios, as Secretarias de Estado não integradas e os órgãos e serviços não autónomos da Administração Direta.\n4.  Para efeitos do n.º 2, são Órgãos, Serviços e Fundos Autónomos os órgãos e serviços que gozem de autonomia financeira por imperativo constitucional, como sejam a Presidência da República, o Parlamento Nacional, os Tribunais, a Procuradoria-Geral da República, a Provedoria dos Direitos Humanos e Justiça e a Comissão Nacional de Eleições, os serviços de apoio à Presidência da República, ao Parlamento Nacional e aos Tribunais, as Autoridades e Administrações Municipais, a Inspeção-Geral do Estado, o Fundo de Desenvolvimento do Capital Humano, o Fundo COVID-19 e os demais órgãos e serviços da administração direta que gozem de autonomia financeira, como sejam a Polícia Científica de Investigação Criminal, o Serviço Nacional de Inteligência e o Conselho para a Delimitação Definitiva das Fronteiras Marítimas, e ainda os órgãos e serviços que compõem a Administração Indireta.\n5.    A Região Administrativa Especial de Oe-Cusse Ambeno e a Segurança Social têm regimes financeiros próprios.\n6.    O decreto do Governo que aprova as regras de execução do OGE define as regras relativas a cada regime financeiro dos órgãos e serviços da Administração Central, bem como dos regimes financeiros próprios da Região Administrativa Especial de Oe-Cusse Ambeno e da Segurança Social."
+   }
+  },
+  {
+   "id": "TL-H218-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  INICIAIS"
+   },
+   "heading": {
+    "pt": "Orçamentação"
+   },
+   "text": {
+    "pt": "1.   As receitas do OGE são apresentadas e especificadas por classificador orgânico e económico.\n2.    As despesas do OGE são apresentadas e especificadas por classificador orgânico, programas e classificador económico.\n3.  A classificação orgânica consiste no agrupamento das receitas e despesas por órgão ou serviço do Setor Público Administrativo, bem como pelo título “Dotações para Todo o Governo”, cujas divisões são denominadas de títulos, e dentro destes de capítulos, correspondentes aos programas executados por cada órgão ou serviço.\n4.   A estrutura por programas consiste no agrupamento de despesas por programa, que são objetivos, vinculados ao plano anual do respetivo órgão ou serviço, com vista à produção de resultados.\n5.   A classificação económica consiste no agrupamento das receitas e despesas pela sua natureza económica, cujas divisões são denominadas de categorias, e dentro destas de rubricas.\n6.  No Orçamento da Administração Central existem oito categorias de receita:\na) Transferências do Fundo Petrolífero, que se divide nas seguintes rubricas:\n(i)    Rendimento Sustentável Estimado; (ii)  Transferência Superior ao Rendimento Sustentável Estimado.\nb) Receitas Tributárias, que se divide nas seguintes rubricas:\n(i)   Impostos Diretos; (ii)   Impostos Indiretos; (iii)  Taxas.\nc) Receitas Próprias;\nd) Doações, heranças e legados;\ne) Rendimentos, que se divide nas seguintes rubricas:\n(i)   Dividendos; (ii)   Juros; (iii)   Rendas. f) Saldo de Gerência;\ng) Empréstimos;\nh) Outras.\n7.   No Orçamento da Região Administrativa Especial de Oe- Cusse Ambeno existem cinco categorias de receita:\na) Transferências;\nb) Receitas Tributárias, que se divide nas seguintes rubricas:\n(i)    Impostos Diretos; (ii)   Impostos Indiretos; (iii)  Taxas.\nc) Doações, heranças e legados;\nd) Rendimentos, que se divide nas seguintes rubricas:\n(i)   Dividendos; (ii)   Juros; (iii)  Rendas.\ne) Saldo de Gerência.\n8.   No Orçamento da Segurança Social existem dez categorias de receita:\na) Contribuições para a Segurança Social;\nb) Sanções e Outras Penalidades;\nc) Rendimentos;\nd) Transferências Correntes;\ne) Outras Receitas Correntes; f) Transferências de Capital;\ng) Ativos Financeiros;\nh) Passivos Financeiros; (i) Outras Receitas de Capital; j) Saldo de Gerência.\n9.   No Orçamento da Administração Central e no Orçamento da Região Administrativa Especial de Oe-Cusse Ambeno existem cinco categorias de despesa:\na) Salários e Vencimentos;\nb) Bens e Serviços;\nc) Transferências Públicas;\nd) Capital Menor;\ne) Capital de Desenvolvimento.\n10.   No Orçamento da Segurança Social existem dez categorias de despesa:\na) Despesas com Pessoal;\nb) Aquisição de Bens e Serviços;\nc) Juros e Outros Encargos;\nd) Transferências Correntes;\ne) Outras Despesas Correntes; f) Aquisição de Bens de Capital;\ng) Transferências de Capital;\nh) Ativos Financeiros; (i) Passivos Financeiros; j) Outras Despesas de Capital.\n11.   As rubricas de despesa, que correspondem ao nível mais desagregado de classificação económica das despesas, organizam-se com base nas estruturas de código de contas de despesa mantidas pelo Tesouro e pela Segurança Social."
+   }
+  },
+  {
+   "id": "TL-H218-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  INICIAIS"
+   },
+   "heading": {
+    "pt": "Definições"
+   },
+   "text": {
+    "pt": "Para efeitos da presente lei, entende-se por:\na)   “Aquisição de Bens de Capital”, a categoria de despesa do Orçamento da Segurança Social correspondente às despesas com a aquisição de bens de Capital Menor e de Capital de Desenvolvimento;\nb)   “Aquisição de Bens e Serviços”, a categoria de despesa do Orçamento da Segurança Social correspondente às despesas com aquisição de bens de consumo correntes e serviços;\nc)    “Ativos financeiros”, a categoria de receita do Orçamento da Segurança Social correspondente às receitas provenientes da aplicação financeira de capital de depósitos, da venda e amortização de títulos de crédito, designadamente obrigações e ações, de curto, médio e longo prazos, bem como receitas provenientes de aplicações financeiras cuja rendibilidade depende de outros ativos (nomeadamente opções, warrants, futuros, swaps), e ainda receitas resultantes do reembolso de empréstimos ou subsídios concedidos; e a categoria de despesa do Orçamento da Segurança Social correspondente às despesas com a aquisição de títulos financeiros e relativas a aplicações de capital, incluindo de depósitos bancários;\nd)  “Autonomia financeira”, o regime de administração financeira que consiste na competência do respetivo órgão de direção para gerir os seus recursos financeiros, nos termos legais e regulamentares aplicáveis;\ne)   “Bens e Serviços”, a categoria de despesa correspondente às despesas correntes relacionadas com bens de consumo, manutenção de equipamentos e instalações, arrendamentos e alugueres, prestações de serviços, independentemente da forma contratual, e viagens e abonos com elas relacionados;\nf)  “Cabimento orçamental”, a cobertura do montante da despesa pelas verbas ainda não utilizadas da respetiva dotação orçamental;\ng)  “Capital de Desenvolvimento”, a categoria de despesa correspondente às despesas não correntes com bens imóveis;\nh)   “Capital Menor”, a categoria de despesa correspondente às despesas não correntes com bens móveis;\n(i)  “Compromisso”, a obrigação de efetuar um ou mais pagamentos a terceiros em contrapartida da execução de trabalho ou de obra ou do fornecimento de bens ou serviços, ou em cumprimento de obrigação legal ou contratual;\nj)    “Compromisso plurianual”, o compromisso que consiste na obrigação de efetuar pagamentos em mais do que um ano financeiro ou em ano financeiro distinto do ano em que o compromisso é assumido;\nk)    “Contribuições da Segurança Social”, a categoria de receita do Orçamento da Segurança Social correspondente às receitas provenientes das contribuições sociais cobradas às entidades empregadoras e das quotizações cobradas aos trabalhadores, pela aplicação das taxas legalmente previstas sobre as remunerações auferidas pelos trabalhadores ou convencionais que, nos termos legais, constituam base de incidência contributiva para a segurança social;\nl)   “Despesas com Pessoal”, a categoria de despesa do Orçamento da Segurança Social correspondente às despesas com remunerações do pessoal afeto aos órgãos e serviços da Segurança Social, incluindo funcionários e agentes da Administração Pública e trabalhadores contratados, designadamente salários e vencimentos, subsídios e abonos variáveis e encargos com a Segurança Social;\nm)  “Dotação Orçamental”, o montante máximo inscrito no OGE a favor de um órgão ou serviço, no cruzamento da linha do título ou capítulo com a coluna da categoria da despesa, com vista à realização de determinada despesa;\nn)  “Juros e Outros Encargos”, a categoria de despesa do Orçamento da Segurança Social correspondente às despesas com juros, encargos bancários, comissões bancárias, pagamento de serviços bancários, diferenças cambiais ou outros encargos financeiros;\no)  “Outras Despesas Correntes”, a categoria de despesa do Orçamento da Segurança Social correspondente às despesas correntes não inscritas noutras categorias, designadamente os encargos com a gestão operacional do FRSS;\np)  “Outras Despesas de Capital”, a categoria de despesa do Orçamento da Segurança Social correspondente às despesas de capital não inscritas noutras categorias;\nq)  “Outras receitas correntes”, a categoria de receita do Orçamento da Segurança Social correspondente a receitas correntes não inscritas noutras categorias;\nr)  “Outras receitas de capital”, a categoria de receita do Orçamento da Segurança Social correspondente a receitas de capital não inscritas noutras categorias;\ns)    “Passivos financeiros”, a categoria de receita do Orçamento da Segurança Social correspondente às receitas provenientes da emissão de obrigações e de empréstimos contraídos, a curto, médio e longo prazos; e a categoria de despesa do Orçamento da Segurança Social correspondente às despesas com amortização de empréstimos, regularização de adiantamentos ou subsídios, ou execução de avales e garantias;\nt)   “Receitas próprias”, as receitas assim designadas por lei ou, na falta dessa designação, as receitas cobradas por determinado ente com autonomia financeira que decorram da sua atividade específica ou que decorram da administração e alienação do seu património ou da administração do património que lhe está afeto, salvo disposição legal em contrário;\nu)  “Rendimentos”, a categoria de receita do Orçamento da Segurança Social correspondente às receitas provenientes do rendimento de ativos financeiros (incluindo depósitos bancários, títulos e empréstimos), da rendibilização dos excedentes de tesouraria e do rendimento de património;\nv)  “Salários e Vencimentos”, a categoria de despesa correspondente às despesas com salários e outros abonos relacionados com a prestação de trabalho subordinado;\nw)  “Saldo de gerência”, categoria de receita do Orçamento da Segurança Social correspondente a saldos de gerência do ano anterior;\nx)   “Sanções e outras penalidades”, a categoria de receita do Orçamento da Segurança Social correspondente às receitas provenientes da aplicação de juros de mora devidos por contribuições sociais em dívida quando pagas depois do prazo legal de pagamento, bem como às receitas provenientes das coimas, multas e outras penalidades decorrentes de contraordenações praticadas no setor da segurança social, nos termos previstos na lei;\ny)  “Setor Público Administrativo”, o conjunto de órgãos e serviços públicos sem forma de empresa, fundação ou associação que asseguram a satisfação regular e contínua das necessidades coletivas, composto pela Administração Central, pelo Setor da Segurança Social e pela Região Administrativa Especial de Oe-Cusse Ambeno;\nz)   “Subvenções públicas”, os subsídios, apoios ou auxílios, em forma de importância financeira, concedidos ao setor público ou privado para a prossecução de um objetivo compatível com as atribuições da entidade concedente, incluindo as contribuições do Estado para programas de cooperação; aa) “Transferências Correntes”, a categoria de receita do Orçamento da Segurança Social correspondente aos recursos financeiros auferidos sem qualquer contrapartida, recebidos do Orçamento da Administração Central do Estado ou de organismos ou entidades estrangeiras, destinados a financiar o pagamento de despesas correntes ou despesas sem natureza prévia específica, incluindo-se ainda, nesta categoria de receita, as receitas provenientes de transferências correntes entre regimes do sistema de segurança social; e a categoria de despesa do Orçamento da Segurança Social correspondente às despesas com transferências para famílias e beneficiários do Sistema de Segurança Social, a quem são concedidas prestações sociais, bem como transferências públicas correntes para qualquer organismo ou instituição, incluindo devolução de excedentes de execução de despesas correntes ao Orçamento da Administração Central e transferências correntes entre regimes dentro do Setor da Segurança Social; bb)“Transferências de Capital”, a categoria de receita do Orçamento da Segurança Social correspondente aos recursos financeiros auferidos sem qualquer contrapartida, recebidos do Orçamento da Administração Central do Estado ou de organismos ou entidades estrangeiras, destinados a financiar o pagamento de despesas de capital. Incluem-se, ainda, nesta categoria de receita, as receitas provenientes de transferências de capital entre regimes do sistema de segurança social, designadamente as transferências de saldos do regime contributivo de repartição, para o regime contributivo de capitalização (FRSS); e a categoria de despesa do Orçamento da Segurança Social correspondente às despesas com transferências de capital para qualquer organismo ou instituição, incluindo devolução de excedentes de execução de despesas de capital ao Orçamento da Administração Central e transferências de capital entre regimes dentro do Setor da Segurança Social, designadamente transferência de saldos anuais do Regime Contributivo de Repartição para o FRSS; cc) “Transferências Públicas”, a categoria de despesa correspondente às despesas com a atribuição de verbas ao sector público e não público que não em contrapartida da execução de trabalho ou de obra ou do fornecimento de bens ou serviços, qualquer que seja a designação ou modalidade adotada, nomeadamente subvenções públicas, bem como o pagamento da contribuição à Segurança Social da responsabilidade da entidade empregadora em relação aos funcionários, agentes e contratados da órgãos e serviços do Setor Público Administrativo."
+   }
+  },
+  {
+   "id": "TL-H218-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORÇAMENTO GERAL DO ESTADO"
+   },
+   "heading": {
+    "pt": "Aprovação"
+   },
+   "text": {
+    "pt": "É aprovado o Orçamento Geral do Estado para 2022, constante das seguintes tabelas:\na)  Tabela I do Anexo à presente lei, dela fazendo parte integrante, com as receitas e despesas do Setor Público Administrativo;\nb) Tabela II do Anexo à presente lei, dela fazendo parte integrante, com as receitas dos órgãos e serviços da Administração Central;\nc) Tabela III do Anexo à presente lei, dela fazendo parte integrante, com as despesas dos órgãos e serviços da Administração Central;\nd) Tabela IV do Anexo à presente lei, dela fazendo parte integrante, com as receitas da Região Administrativa Especial de Oe-Cusse Ambeno;\ne) Tabela V do Anexo à presente lei, dela fazendo parte integrante, com as despesas da Região Administrativa Especial de Oe-Cusse Ambeno;\nf)  Tabela VI do Anexo à presente lei, dela fazendo parte integrante, com as receitas da Segurança Social;\ng) Tabela VII do Anexo à presente lei, dela fazendo parte integrante, com as despesas da Segurança Social."
+   }
+  },
+  {
+   "id": "TL-H218-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORÇAMENTO GERAL DO ESTADO"
+   },
+   "heading": {
+    "pt": "Impostos, taxas e contribuições"
+   },
+   "text": {
+    "pt": "1.    Durante o ano de 2022, o Governo e os órgãos e serviços da Administração Central ficam autorizados a cobrar os impostos e taxas constantes da legislação em vigor.\n2.    Durante o ano de 2022, a Região Administrativa Especial de Oe-Cusse Ambeno fica autorizada a cobrar os impostos e taxas constantes da legislação em vigor.\n3.    Durante o ano de 2022, o Instituto Nacional de Segurança Social fica autorizado a cobrar as contribuições devidas à Segurança Social constantes da legislação em vigor, bem como a reter na fonte e a entregar à Administração Tributária os impostos devidos relativos às prestações pagas a beneficiários.\n4.   Ficam isentos do pagamento de impostos, taxas, direitos aduaneiros e demais imposições, bem como de retenção na fonte:\na) A aquisição, pelo Estado ou por outras pessoas coletivas públicas, de armas e munições para a Polícia Nacional de Timor-Leste (PNTL), a Polícia Científica de Investigação Criminal (PCIC) e as FALINTIL - Forças de Defesa de Timor-Leste;\nb) Os pagamentos a realizar por conta de despesa relacionada com assistência médica no estrangeiro;\nc) A introdução, em território nacional, de bens que sejam doados ao Estado por Estados estrangeiros, pessoas coletivas públicas de outros Estados ou organizações internacionais.\n5.   Durante o ano de 2022, a taxa de imposto seletivo de consumo aplicável à cerveja de malte com teor de álcool inferior a 4,5%, posição pautal 2203.00.10, é de US $2,70 por litro, e a taxa de imposto seletivo de consumo aplicável à cerveja de malte com outros teores de álcool, posição pautal\n2203.00.20, é de US $4,50 por litro.\n6.   Durante o ano de 2022, a taxa de imposto seletivo de consumo aplicável ao vinho, vermute e outras bebidas fermentadas, posições pautais 2204, 2205 e 2206, é de US $4,50 por litro.\n7.   Durante o ano de 2022, a taxa de imposto seletivo de consumo aplicável ao tabaco, posições pautais 2401, 2402 e 2403, é de US $50 por quilograma.\n8.   Durante o ano de 2022, a taxa de imposto seletivo de consumo aplicável a pistolas de êmbolo cativo para abater animais, posição pautal 9303.90.00, é de 10% do valor.\n9.    Durante o ano de 2022, a taxa contributiva para a Segurança Social é de 10%, distribuída da seguinte forma:\na) 6 % da responsabilidade da entidade empregadora;\nb) 4 % da responsabilidade do trabalhador.\n10.   Sem prejuízo do disposto no número anterior, as entidades empregadoras do setor privado podem beneficiar, nos termos legais, de reduções e dispensas na parcela da taxa contributiva a seu cargo, por períodos transitórios, visando apoiar e incentivar a adesão ao Regime Contributivo de Segurança Social."
+   }
+  },
+  {
+   "id": "TL-H218-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORÇAMENTO GERAL DO ESTADO"
+   },
+   "heading": {
+    "pt": "Transferências do Fundo Petrolífero"
+   },
+   "text": {
+    "pt": "1.    Durante o ano de 2022, o Governo fica autorizado a realizar transferências do Fundo Petrolífero até ao montante de US $1.311.387.267.\n2.  As transferências autorizadas pelo número anterior são realizadas após o cumprimento do disposto no artigo 8.º da Lei do Fundo Petrolífero, quanto ao montante até US $554.077.576, correspondente ao Rendimento Sustentável Estimado.\n3.   As transferências autorizadas pelo n.º 1 são realizadas após o cumprimento das alíneas a), b), c) e d) do artigo 9.º do mesmo diploma, e quando o saldo da conta do Tesouro for inferior a US $200.000.000, quanto ao montante acima do valor referido no número anterior.\n4.   A realização das transferências do Fundo Petrolífero previstas no número anterior é notificada pelo Governo ao Parlamento Nacional com, pelo menos, dez dias de antecedência."
+   }
+  },
+  {
+   "id": "TL-H218-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORÇAMENTO GERAL DO ESTADO"
+   },
+   "heading": {
+    "pt": "Dívida Pública"
+   },
+   "text": {
+    "pt": "1.    Durante o ano de 2022, o Governo fica autorizado a contratar ou emitir dívida pública no montante máximo de US $410.000.000, com o prazo máximo de 40 anos.\n2.    Sem prejuízo do disposto no número anterior, a estimativa da receita proveniente de dívida pública durante o ano de 2022 é de US $50.800.000."
+   }
+  },
+  {
+   "id": "TL-H218-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORÇAMENTO GERAL DO ESTADO"
+   },
+   "heading": {
+    "pt": "Doações"
+   },
+   "text": {
+    "pt": "1.  O OGE inclui uma doação orçamental direta da União Europeia no valor de US $9.000.000, bem como uma doação orçamental direta da Austrália no valor de US $6.639.298.\n2.   Só podem ser estabelecidos acordos de financiamento com doadores mediante parecer prévio vinculativo do membro do Governo responsável pela área das finanças, com exceção dos acordos celebrados pela Presidência da República e pelo Parlamento Nacional, devendo, contudo, estes acordos ser notificados, uma vez celebrados, ao membro do Governo responsável pela área das finanças."
+   }
+  },
+  {
+   "id": "TL-H218-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORÇAMENTO GERAL DO ESTADO"
+   },
+   "heading": {
+    "pt": "Transferências entre subsetores"
+   },
+   "text": {
+    "pt": "1.   É realizada uma transferência do Estado para o Orçamento da Região Administrativa Especial de Oe-Cusse Ambeno no valor de US $5.562.360, inscrita como despesa no Orçamento da Administração Central, na categoria “Transferências Públicas” do título “Dotações para todo o Governo”, “Programa 023: Gestão das Finanças Públicas”, e como receita no Orçamento da Região Administrativa Especial de Oe-Cusse Ambeno, na categoria “Transferências”, sendo executado de acordo com as várias categorias de despesa do Orçamento da Região Administrativa Especial de Oe-Cusse Ambeno, constantes da Tabela V do Anexo.\n2.    É realizada uma transferência do Estado para o Orçamento da Segurança Social no valor de US $66.520.000, para financiamento das despesas com os Regimes Não Contributivo e Transitório e com a Administração do Sistema de Segurança Social, inscrita como despesa no Orçamento da Administração Central, na categoria “Transferências Públicas” do título “Dotações para todo o Governo”, “Programa 980: Igualdade de Género e Inclusão Social” e como receita no Orçamento da Segurança Social, na categoria “Transferências Correntes”, sendo executado de acordo com as várias categorias de despesa do Orçamento da Segurança Social, constantes da Tabela VII do Anexo."
+   }
+  },
+  {
+   "id": "TL-H218-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORÇAMENTO GERAL DO ESTADO"
+   },
+   "heading": {
+    "pt": "Alterações orçamentais"
+   },
+   "text": {
+    "pt": "1.  Competem ao Governo as alterações orçamentais entre programas de um mesmo Ministério ou Secretaria de Estado ou dentro do mesmo programa no Orçamento da Administração Central.\n2.   Competem aos órgãos de direção dos órgãos ou serviços com autonomia financeira, com autorização do Ministro das Finanças, as alterações orçamentais entre programas no respetivo orçamento.\n3.  Competem ao órgão de direção dos órgãos ou serviços com autonomia financeira as alterações orçamentais dentro do mesmo programa no respetivo orçamento.\n4.    Competem à Autoridade da Região Administrativa Especial de Oe-Cusse Ambeno e Zona Especial de Economia Social e de Mercado de Oe-Cusse Ambeno e Ataúro as alterações orçamentais entre programas no respetivo orçamento.\n5.   Competem à Autoridade da Região Administrativa Especial de Oe-Cusse Ambeno e Zona Especial de Economia Social e de Mercado de Oe-Cusse Ambeno e Ataúro as alterações orçamentais dentro do mesmo programa do respetivo orçamento.\n6.    Às alterações orçamentais previstas nos números anteriores e no n.º 11 aplicam-se as proibições constantes dos n.ºs 3 e 4 do artigo 38.º da Lei n.º 13/2009, de 21 de outubro, sobre Orçamento e Gestão Financeira, alterada pela Lei n.º 9/2011, de 17 de agosto, e pela Lei n.º 3/2013, de 7 de agosto.\n7.   Competem ao Parlamento Nacional as alterações orçamentais entre títulos ou subsetores do Orçamento Geral do Estado, com exceção das que tenham origem no título “Dotações Para Todo o Governo”.\n8.   Competem ao Parlamento Nacional as alterações orçamentais que envolvam o aumento da despesa total do Orçamento da Administração Central e do Orçamento da Região Administrativa Especial de Oe-Cusse Ambeno, com exceção das que resultem:\na) Da integração do saldo de gerência do exercício orçamental anterior;\nb) Do aumento do produto das receitas próprias ou consignadas, contabilizadas como receita do próprio ano.\n9.   Competem ao Parlamento Nacional as alterações orçamentais que envolvam o aumento da despesa total do Orçamento da Segurança Social, com exceção das que resultem:\na) Do aumento de despesas referentes às aplicações financeiras dos montantes integrados no FRSS;\nb) Do aumento de despesas relativas a prestações sociais de direito devidas aos beneficiários do regime contributivo e não contributivo de segurança social que tenham contrapartida no aumento da receita para o seu financiamento;\nc) Da integração de saldo e da sua aplicação em despesa, excetuado o saldo relativo a verba transferida pelo Orçamento da Administração Central.\n10. Competem igualmente ao Parlamento Nacional as alterações orçamentais entre programas no Orçamento da Segurança Social, com exceção das que decorram:\na) Da transferência de verbas do regime contributivo de repartição para o regime contributivo de capitalização, no FRSS;\nb) Da transferência de verbas entre os programas “Regime Contributivo de Repartição”, no que respeita às verbas para financiamento do regime transitório, e “Regime Não Contributivo”, para financiamento de prestações sociais de direito devidas aos beneficiários dos regimes em causa.\n11. As alterações orçamentais ao Orçamento da Segurança Social que não sejam da competência do Parlamento Nacional nos termos dos n.ºs  9 e 10 são da competência do Governo, através do Presidente do Conselho de Administração do INSS."
+   }
+  },
+  {
+   "id": "TL-H218-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORÇAMENTO GERAL DO ESTADO"
+   },
+   "heading": {
+    "pt": "Compromissos plurianuais"
+   },
+   "text": {
+    "pt": "No ano financeiro de 2022, ficam todas as entidades do perímetro orçamental autorizadas a assinar contratos públicos que constituam compromissos plurianuais, sem prejuízo de prévia obtenção de autorização de despesa, nos termos do Regime Jurídico do Aprovisionamento."
+   }
+  },
+  {
+   "id": "TL-H218-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO  DA  ADMINISTRAÇÃO  CENTRAL"
+   },
+   "heading": {
+    "pt": "Dotações para todo o Governo"
+   },
+   "text": {
+    "pt": "A gestão do título “Dotações para todo o Governo” fica a cargo do Ministério das Finanças."
+   }
+  },
+  {
+   "id": "TL-H218-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO  DA  ADMINISTRAÇÃO  CENTRAL"
+   },
+   "heading": {
+    "pt": "Utilização da reserva de contingência"
+   },
+   "text": {
+    "pt": "1.   Em caso de necessidade urgente e imprevista, o membro do Governo responsável pela área das finanças pode transferir fundos da dotação orçamental “Reserva de Contingência”, inscrita como despesa no Orçamento da Administração Central, na categoria “Bens e serviços” do título “Dotações para todo o Governo”, “Programa 148: Contingência” para dotações orçamentais dos orçamentos dos órgãos e serviços da Administração Central, a pedido destes.\n2.   As alterações orçamentais em resultado da utilização da Reserva de Contingência estão excecionadas dos limites previstos no artigo 38.º da Lei n.º 13/2009, de 21 de outubro, sobre Orçamento e Gestão Financeira, alterada pelas Leis n.º 9/2011, de 17 de agosto, e n.º 3/2013, de 7 de agosto.\n3.  O pedido de uso da reserva de contingência deve ser devidamente justificado e deve conter a descrição detalhada das atividades a realizar por conta desses fundos."
+   }
+  },
+  {
+   "id": "TL-H218-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO  DA  ADMINISTRAÇÃO  CENTRAL"
+   },
+   "heading": {
+    "pt": "Fundo Especial de Desenvolvimento de Ataúro"
+   },
+   "text": {
+    "pt": "1.    É criado o Fundo Especial de Desenvolvimento de Ataúro, abreviadamente designado por FEDA, pessoa coletiva de direito público, dotada de personalidade jurídica, e autonomia administrativa, financeira e patrimonial.\n2.    O FEDA tem por finalidade financiar programas e projetos, anuais e plurianuais, de caráter socioeconómico e ambientalmente sustentáveis, destinados ao desenvolvimento do território e da população do Município de Ataúro, nomeadamente nas seguintes áreas:\na) Infraestruturas de comunicações, nomeadamente rodoviárias, portuárias e aeronáuticas;\nb) Infraestruturas de telecomunicações;\nc) Infraestruturas de apoio ao transporte coletivo de passageiros, rodoviário ou marítimo, e ao transporte marítimo de carga;\nd) Infraestruturas de água e saneamento, nomeadamente para o desenvolvimento de sistemas públicos de abastecimento de água, sistemas públicos de saneamento de águas residuais e esgotos, sistemas públicos de saneamento de resíduos sólidos, e sistemas públicos de captação, armazenagem, transporte de água e irrigação para fins agrícolas;\ne) Infraestruturas para fins sociais e culturais, nomeadamente hospital, centros ou postos de saúde, estabelecimentos de ensino e formação profissional, equipamentos coletivos desportivos, culturais ou de lazer, habitação social, cemitérios públicos, instalações de apoio a grupos populacionais vulneráveis, jardins e parques; f) Infraestruturas de apoio às atividades de proteção civil e gestão de acidentes graves e catástrofes;\ng) Infraestruturas de energia, nomeadamente centrais de geração de energia, redes de transporte e distribuição de energia, armazenamento e distribuição de combustíveis, e iluminação pública urbana e rural;\nh) Infraestruturas de apoio ao desenvolvimento da agricultura, silvicultura, pecuária e das pescas; (i) Edifícios e outras instalações para os serviços públicos da administração municipal de Ataúro e de outras entidades públicas; j) Infraestruturas de apoio ao desenvolvimento turístico;\nk) Infraestruturas de apoio ao desenvolvimento económico local, nomeadamente mercados, lotas de pescado, bazares de gado ou armazéns; l) Formação de recursos humanos, nomeadamente programas de bolsas de estudo e de formação e qualificação de profissionais em setores estratégicos de desenvolvimento do Município;\nm) Outras infraestruturas necessárias ao desenvolvimento do Município de Ataúro.\n3.   Constituem receitas do FEDA:\na) Dotações que lhe sejam atribuídas pelo Orçamento Geral do Estado;\nb) Transferências e doações de entidades nacionais e estrangeiras;\nc) Quaisquer outros bens, rendimentos ou receitas que lhe sejam atribuídos.\n4.    O órgão responsável pela gestão do FEDA é o Conselho de Administração, composto pelo Presidente do Município de Ataúro, que preside, e pelos membros do Governo responsáveis pelas áreas do planeamento estratégico e ordenamento do território, do poder local e da descentralização administrativa, das finanças, das obras públicas, dos transportes e comunicações e do turismo, comércio e indústria.\n5.   Transitoriamente até à instalação dos órgãos representativos do poder local no Município de Ataúro, a presidência do Conselho de Administração do FEDA é exercida pelo membro do Governo responsável pela área do planeamento estratégico e ordenamento do território, integrando o órgão o Administrador Municipal de Ataúro.\n6.   O FEDA é regulamentado por decreto-lei.\n7.    O membro do Governo responsável pela área das finanças fica autorizado a criar um título orçamental relativo ao FEDA e a transferir para esse título a verba de US $13.000.000 da dotação orçamental inscrita na categoria “Transferências Públicas” do título “Dotações para todo o Governo”, “Programa 028: Desenvolvimento Rural e Urbano”."
+   }
+  },
+  {
+   "id": "TL-H218-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO  DA  ADMINISTRAÇÃO  CENTRAL"
+   },
+   "heading": {
+    "pt": "Transição do saldo de gerência do Fundo COVID-19 e do Fundo das Infraestruturas"
+   },
+   "text": {
+    "pt": "O Fundo COVID-19, criado pela Lei n.º 2/2020, de 6 de abril, alterada pela Lei n.º 5/2020, de 30 de junho, e pela Lei n.º 10/ 2020, de 19 de outubro, e o Fundo das Infraestruturas, criado pela Lei n.º 1/2016, de 14 de janeiro, ficam autorizados a transitar o saldo de gerência apurado no exercício orçamental de 2022, a integrar esse saldo no exercício orçamental seguinte e a aplicálo em despesa."
+   }
+  },
+  {
+   "id": "TL-H218-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORÇAMENTO  DA  ADMINISTRAÇÃO  CENTRAL"
+   },
+   "heading": {
+    "pt": "Regime transitório"
+   },
+   "text": {
+    "pt": "No ano de 2022, as dotações orçamentais relativas à Autoridade Nacional do Petróleo e Minerais, I.P., são inscritas na categoria “Transferências Públicas” do Título “Ministério do Petróleo e Minerais”, tendo em vista a operacionalização dos procedimentos tendentes à plena integração das suas receitas e despesas no Orçamento Geral do Estado para 2023."
+   }
+  },
+  {
+   "id": "TL-H218-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORÇAMENTO DA SEGURANÇA SOCIAL"
+   },
+   "heading": {
+    "pt": "Organização"
+   },
+   "text": {
+    "pt": "1.  O Orçamento da Segurança Social é unitário, compreendendo todas as despesas e todas as receitas do INSS e do FRSS.\n2.  O Orçamento da Segurança Social integra:\na) O orçamento do INSS, que inclui os orçamentos:\n(i)    Do Regime Não Contributivo de Segurança Social que respeita a direitos da cidadania, não estando as prestações sociais dependentes de prévias contribuições; (ii)   Do Regime Contributivo de Segurança Social de Repartição, que inclui as componentes do Regime Geral de Segurança Social e do Regime Transitório de Segurança Social; (iii)   Da Administração do Sistema de Segurança Social.\nb) O orçamento do FRSS, que respeita ao Regime Contributivo de Segurança Social gerido em Capitalização.\n3.  As receitas do Orçamento da Segurança Social são consignadas ao financiamento das despesas da Segurança Social.\n4.  Os excedentes anuais do Regime Contributivo de Segurança Social de repartição revertem para o FRSS.\n5.    Sem prejuízo do disposto no número anterior, os excedentes do Regime Contributivo de Segurança Social de repartição podem ser integrados no exercício orçamental subsequente, no montante estritamente necessário para que não haja rutura da tesouraria.\n6.  O Orçamento da Segurança Social está sujeito ao mesmo controlo orçamental, administrativo, jurisdicional e político do OGE.\n7.   O Orçamento da Segurança Social está sujeito às mesmas regras de prestação de contas, relatórios e responsabilidade financeira que o OGE.\n8.   O INSS prepara, no mesmo prazo previsto para o OGE, os relatórios de execução física e financeira, individuais e consolidados, bem como a Conta da Segurança Social, que entrega aos membros do Governo responsáveis pelas áreas das finanças e da segurança social e ao Tribunal Superior Administrativo, Fiscal e de Contas."
+   }
+  },
+  {
+   "id": "TL-H218-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORÇAMENTO DA SEGURANÇA SOCIAL"
+   },
+   "heading": {
+    "pt": "Financiamento"
+   },
+   "text": {
+    "pt": "1.    A proteção garantida no âmbito do Regime Não Contributivo de Segurança Social é financiada por transferências do Orçamento da Administração Central.\n2.     A proteção garantida no âmbito da componente do Regime Geral integrada no Regime Contributivo de Segurança Social de repartição é financiada por contribuições dos trabalhadores e das entidades empregadoras devidas no âmbito do Regime Geral de inscrição obrigatória e facultativa.\n3.   Constituem igualmente receitas a afetar à componente do Regime Geral de Segurança Social os juros de mora devidos pelo atraso no pagamento das contribuições, os valores resultantes da aplicação de sanções, custos do processo e outros encargos legais, os rendimentos provenientes da rentabilização dos excedentes de tesouraria e os rendimentos do património.\n4.     A proteção garantida no âmbito da componente do Regime Transitório integrada no Regime Contributivo de Segurança Social de repartição é financiada por transferências do Orçamento da Administração Central.\n5.  As despesas de administração são financiadas por transferências do Orçamento da Administração Central, bem como por uma percentagem de até 5% da receita anual prevista de contribuições sociais.\n6.    Constituem receitas do Regime Contributivo de Segurança Social gerido em Capitalização (FRSS), os saldos líquidos acumulados pela Segurança Social até ao momento da constituição do FRSS e que constituem o seu capital inicial, bem como os excedentes anuais (saldos líquidos) do Regime Contributivo de Segurança Social de repartição, e os rendimentos do património próprio, incluindo os ganhos e rendimentos das aplicações financeiras.\n7.   Sem prejuízo do disposto nos números anteriores, podem ser afetas a cada um dos Regimes de Segurança Social ou à Administração do Sistema de Segurança Social outras receitas que especificamente lhes sejam dirigidas, incluindo transferências de organismos estrangeiros e de outras entidades, subsídios, donativos, legados e heranças, ou outras receitas legalmente previstas."
+   }
+  },
+  {
+   "id": "TL-H218-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORÇAMENTO DA SEGURANÇA SOCIAL"
+   },
+   "heading": {
+    "pt": "Execução"
+   },
+   "text": {
+    "pt": "1.    Incumbe ao INSS a gestão e execução global do Orçamento da Segurança Social e do Sistema de Segurança Social.\n2.   As cobranças das receitas e os pagamentos de despesas do Sistema de Segurança Social competem ao INSS, que assume as competências de tesouraria única do Sistema de Segurança Social.\n3.  Os dinheiros da Segurança Social são depositados em contas bancárias tituladas pelo INSS, no Banco Central ou em qualquer outra instituição bancária, sem prejuízo do disposto no número seguinte, e não são considerados dinheiros públicos nos termos a que se refere o artigo 12.º da Lei n.º 13/2009, de 21 de outubro, sobre Orçamento e Gestão Financeira, alterada pelas Leis n.º 9/2011, de 17 de agosto, e n.º 3/2013, de 7 de agosto.\n4.  Para os efeitos do disposto nos números anteriores, o conceito de dinheiros da Segurança Social compreende as disponibilidades de caixa ou equivalentes de caixa que estejam à guarda do INSS.\n5.    Compete ao INSS o investimento temporário de dinheiros da Segurança Social em instrumentos financeiros de curto prazo, sem risco e com liquidez, com o objetivo de assegurar uma gestão eficaz dos excedentes de tesouraria da Segurança Social.\n6.   Atendendo ao regime de gestão em capitalização, as disponibilidades financeiras de curto prazo do FRSS não estão sujeitas ao regime de tesouraria única, podendo o FNSS contratualizar com entidade pública a sua gestão operacional, nos termos legais.\n7.   A gestão e execução do Orçamento da Segurança Social são feitas com base num sistema informático de gestão financeira próprio.\n8.  A execução do Orçamento da Segurança Social tem por base os respetivos planos de tesouraria, elaborados e aprovados pelo INSS.\n9.   Os saldos apurados no Orçamento da Segurança Social são utilizados mediante prévia autorização a conceder pelo Governo, através de despacho do membro do Governo responsável pela área da segurança social.\n10. As entradas e saídas de fundos do Setor de Segurança Social são efetuadas através do INSS, diretamente ou por intermédio de entidades colaboradoras, onde se mantêm depositados os seus excedentes e disponibilidades de tesouraria."
+   }
+  },
+  {
+   "id": "TL-H218-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ORÇAMENTO DA SEGURANÇA SOCIAL"
+   },
+   "heading": {
+    "pt": "Subsídio de apoio a idosos e inválidos"
+   },
+   "text": {
+    "pt": "1.  Extraordinariamente, o montante do subsídio de apoio a idosos e inválidos, criado pelo Decreto-Lei n.º 19/2008, de 19 de junho, é aumentado, no ano de 2022, para US $50 mensais.\n2.   O apoio complementar extraordinário previsto no número anterior não confere qualquer direito ao seu beneficiário para além da própria prestação, e não tem implicação no cálculo de outros subsídios, prestações ou contribuições, com exceção da pensão mínima atribuída no âmbito do Regime Contributivo da Segurança Social."
+   }
+  },
+  {
+   "id": "TL-H218-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V DISPOSIÇÕES FINAIS"
+   },
+   "heading": {
+    "pt": "Alteração à Lei n.º 12/2016, de 14 de novembro"
+   },
+   "text": {
+    "pt": "O artigo 63.º da Lei n.º 12/2016, de 14 de novembro, passa a ter a seguinte redação:\n«Artigo 63.º [...]\n1.   [...].\n2.    A aplicação do fundo de reserva deve obedecer a um plano anual desenvolvido em conjunto pelos ministros com a tutela da segurança social e das finanças, tendo em conta critérios de segurança, rendibilidade e liquidez.\n3.  O Orçamento da Segurança Social prevê anualmente as dotações para execução do plano anual do fundo de reserva.\n4.   [anterior n.º 3].\n5.   O modelo de gestão do fundo de reserva é aprovado por decreto-lei.\n6.    A política de investimento do fundo de reserva é aprovada pelos ministros com a tutela da segurança social e das finanças, devendo ser apresentada ao Parlamento Nacional previamente à sua aprovação.»"
+   }
+  },
+  {
+   "id": "TL-H218-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V DISPOSIÇÕES FINAIS"
+   },
+   "heading": {
+    "pt": "Regras de execução do Orçamento Geral do Estado"
+   },
+   "text": {
+    "pt": "As regras de execução do OGE são aprovadas por decreto do Governo."
+   }
+  },
+  {
+   "id": "TL-H218-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V DISPOSIÇÕES FINAIS"
+   },
+   "heading": {
+    "pt": "Controlo parlamentar"
+   },
+   "text": {
+    "pt": "O Parlamento Nacional realiza um debate trimestral, sobre a execução orçamental dos órgãos e serviços da Administração Central, da Região Administrativa Especial de Oe-Cusse Ambeno e da Segurança Social, com a presença dos respetivos membros do Governo e dos órgãos de direção, com base nos relatórios trimestrais de execução orçamental e nos relatórios trimestrais de desempenho respeitantes a cada um dos quatro trimestres."
+   }
+  },
+  {
+   "id": "TL-H218-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V DISPOSIÇÕES FINAIS"
+   },
+   "heading": {
+    "pt": "Responsabilidade"
+   },
+   "text": {
+    "pt": "1.    A assunção de compromissos sem cabimento orçamental e a realização de pagamentos sem prévia assunção de compromisso nos termos legais gera responsabilidade política, financeira, civil, disciplinar e criminal, nos termos do artigo 46.º da Lei n.º 13/2009, de 21 de outubro, sobre Orçamento e Gestão Financeira, alterada pela Lei n.º 9/2011, de 17 de agosto, e pela Lei n.º 3/2013, de 7 de agosto, e do\nartigo 42.º e seguintes da Lei n.º 9/2011, de 17 de agosto, que aprovou a orgânica da Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas, alterada pelas Leis n.º 3/2013, de 7 de agosto, e n.º 1/2017, de 18 de janeiro, e demais legislação aplicável, a qual estabelece os pressupostos e termos da responsabilidade política e civil e tipifica as infrações criminais, financeiras e disciplinares, bem como as respetivas sanções.\n2.    No caso de compromisso plurianual, o cabimento orçamental abrange somente os pagamentos a efetuar durante o ano de 2022.\n3.   Para efeitos de efetivação da responsabilidade financeira prevista no n.º 1, considera-se que os titulares de cargos políticos, os órgãos de direção e os titulares de cargos dirigentes dos órgãos e serviços da Administração Central, da Região Administrativa Especial de Oe-Cusse Ambeno e da Segurança Social procedem, com a realização de pagamentos sem prévia assunção de compromisso e cabimento orçamental, a um pagamento indevido, sujeito a condenação na reposição da quantia correspondente, e eventualmente, a pagamento de multa, nos termos dos artigos 44.º e seguintes da Lei n.º 9/2011, de 17 de agosto, que aprova a Orgânica da Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas, alterada pela Lei n.º 3/2013, de 7 de agosto, e pela Lei n.º 1/2017, de 18 de janeiro."
+   }
+  },
+  {
+   "id": "TL-H218-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V DISPOSIÇÕES FINAIS"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos a partir do dia 1 de janeiro de\n2022."
+   }
+  }
+ ]
+}

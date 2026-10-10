@@ -1,0 +1,85 @@
+{
+ "id": "PH-H890",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Commonwealth Act Numbered Two Hundred Eighty-Seven so as to Transfer to the Securities and Exchange Commission the Powers, Duties and Functions of the Bureau of Commerce in Connection with the Licensing of Foreign Corporations and to Authorize the Securities and Exchange Commission to Enforce the Provisions of All Laws Affecting Such Entities",
+  "orig": "An Act to Amend Commonwealth Act Numbered Two Hundred Eighty-Seven so as to Transfer to the Securities and Exchange Commission the Powers, Duties and Functions of the Bureau of Commerce in Connection with the Licensing of Foreign Corporations and to Authorize the Securities and Exchange Commission to Enforce the Provisions of All Laws Affecting Such Entities"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p12",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1954-06-12",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1055",
+ "officialCode": null,
+ "topics": [
+  "trade",
+  "tax"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1836,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1954/ra_1055_1954.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1954/ra_1055_1954.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H890-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section one of Commonwealth Act Numbered Two Hundred eighty-seven is hereby amended to read as follows:\n\"Sec. 1. The powers, duties and functions now vested in, or performed and exercise by, the Bureau of Commerce in connection with the registration of domestic corporations and all other forms of associations as well as the licensing of foreign corporations are transferred to the Securities and Exchange Commission. The Securities and Exchange Commission shall be charged with the enforcement of all laws affecting such corporations and associations, and to this end, may conduct such investigations as it may consider necessary: Provided, That the power herein conferred shall in no manner affect the power now exercised by government bureaus or offices over certain classes of corporations. In the exercise of the power of investigation, the provisions of section thirty-one of Commonwealth Act Numbered Eighty-three, creating the Securities and Exchange Commission, including the penalties therein provided, shall be applicable.\""
+   }
+  },
+  {
+   "id": "PH-H890-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section two of Commonwealth Act Numbered Two hundred eighty-seven is hereby amended to read as follows:\n\"Sec. 2. All books, records, documents, and files of the Bureau of Commerce relating to corporations and associations, and such personnel of the aforesaid Bureau as is now discharging the functions or performing the duties of the Bureau of Commerce in connection with the registration of corporations and associations as well as the licensing of foreign corporations, together with the corresponding appropriations, are transferred to the Securities and Exchange Commission and the Budget Commissioner shall make immediate provision for such transfer.\""
+   }
+  },
+  {
+   "id": "PH-H890-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "All laws or parts of any law in conflict with this Act are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H890-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 12, 1954."
+   }
+  }
+ ]
+}

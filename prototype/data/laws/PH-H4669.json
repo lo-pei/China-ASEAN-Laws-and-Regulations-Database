@@ -1,0 +1,84 @@
+{
+ "id": "PH-H4669",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Certain Provisions of Republic Act Numbered Fifty-Four Hundred and Thirty-Five Approved on the Ninth of September, Nineteen Hundred and Sixty-Eight, and for Other Purposes",
+  "orig": "An Act to Amend Certain Provisions of Republic Act Numbered Fifty-Four Hundred and Thirty-Five Approved on the Ninth of September, Nineteen Hundred and Sixty-Eight, and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p66",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1969-08-04",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6076",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1609,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1969/ra_6076_1969.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1969/ra_6076_1969.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4669-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section two of Republic Act Numbered Fifty-four hundred and thirty-five is amended by adding at the end thereof the following provisions:\n\"e. The management service of the Budget Commission shall constitute the nucleus of the technical staff of the Commission on Reorganization. Officers and employees of the government who may be detailed to the Commission shall be entitled to collect honorarium and/or allowances at the rate to be determined by the Commission.\""
+   }
+  },
+  {
+   "id": "PH-H4669-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The first paragraph of Section four of the same Act is amended to read as follows:\n\"Section 4. The Commission shall submit an integrated reorganization plan to the President not later than December 31, 1970, and the President shall, within forty days after the opening of the next regular session, submit the same to Congress with or without modification, together with a declaration that such reorganization is necessary to accomplish the purposes of Section one hereof. No reorganization plan shall become effective unless expressly approved by Congress which must either accept or reject it in toto.\""
+   }
+  },
+  {
+   "id": "PH-H4669-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "To carry out the provisions of Republic Act Numbered Fifty-four hundred and thirty-five, as herein amended the sum of one million pesos and any unexpended balance of the amount of one million pesos appropriated in Section seven thereof, or so much thereof as may be necessary to cover the expenses of the Commission up to the thirty-first day of December nineteen hundred and seventy, are appropriated out of any funds in the National Treasury not otherwise appropriated."
+   }
+  },
+  {
+   "id": "PH-H4669-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved. August 4, 1969."
+   }
+  }
+ ]
+}

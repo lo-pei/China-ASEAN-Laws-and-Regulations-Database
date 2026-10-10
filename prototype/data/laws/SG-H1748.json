@@ -1,0 +1,169 @@
+{
+ "id": "SG-H1748",
+ "title": {
+  "zh": null,
+  "en": "Holidays Act 1998",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p22",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act HA1998",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 10,
+ "chars": 2423,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/HA1998?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 10 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1748-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Holidays Act 1998."
+   }
+  },
+  {
+   "id": "SG-H1748-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“public authority” means any board or authority established by or under any written law to perform or discharge any public function;\n“public holiday” means —\n(a)any of the days specified in the Schedule; or\n(b)any other day declared by section 4(2) or under section 5 to be a public holiday."
+   }
+  },
+  {
+   "id": "SG-H1748-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Application of Act to Government"
+   },
+   "text": {
+    "en": "3. This Act binds the Government."
+   }
+  },
+  {
+   "id": "SG-H1748-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "General public holidays"
+   },
+   "text": {
+    "en": "4.—(1) Subject to the provisions of this Act, the days specified in the Schedule are declared to be public holidays in Singapore.\n(2) Subject to the provisions of this Act, if any day specified in the Schedule falls on a Sunday, the day next following not being itself a public holiday is declared a public holiday in Singapore."
+   }
+  },
+  {
+   "id": "SG-H1748-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Other public holidays"
+   },
+   "text": {
+    "en": "5.—(1) The President may, by notification in the Gazette, declare any day in any particular year to be observed as a public holiday in Singapore in addition to, or in substitution for, any day specified in the Schedule.\n(2) Where in any year 2 public holidays fall on the same day, the President may, by notification in the Gazette, declare any day in that year to be observed as an additional public holiday."
+   }
+  },
+  {
+   "id": "SG-H1748-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Holiday in substitution of public holiday"
+   },
+   "text": {
+    "en": "6. Nothing in this Act prevents or affects the validity of any agreement made between any employer with any of the employer’s employees giving the employee any other holiday or holidays in substitution for any one or more public holidays."
+   }
+  },
+  {
+   "id": "SG-H1748-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Official acts, etc., on Sundays or public holidays"
+   },
+   "text": {
+    "en": "7. Subject to any other written law, nothing in this Act renders invalid any act or thing relating to any Government department or public authority, any judicial proceeding, any transaction, instrument or any other act or thing (whether or not of a similar kind) where it is done or executed on a Sunday or public holiday."
+   }
+  },
+  {
+   "id": "SG-H1748-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Validation"
+   },
+   "text": {
+    "en": "8. To avoid doubt, it is declared that no act or thing relating to any Government department or public authority, no judicial proceeding, no transaction or instrument and no other act or thing (whether or not of a similar kind) is invalid by reason only that it was done or executed on a Sunday or public holiday before 10 April 1998."
+   }
+  },
+  {
+   "id": "SG-H1748-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Saving for Employment Act 1968"
+   },
+   "text": {
+    "en": "9. This Act does not affect the operation of any of the provisions of the Employment Act 1968 relating to rest days, hours of work, shift workers, holidays and other conditions of service."
+   }
+  },
+  {
+   "id": "SG-H1748-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nSections 2 and 4\nPublic holidays\nNew Year’s Day\nChinese New Year (2 days)\nHari Raya Puasa\nHari Raya Haji\nGood Friday\nLabour Day\nVesak Day\nNational Day\nDeepavali\nChristmas Day"
+   }
+  }
+ ]
+}

@@ -1,0 +1,940 @@
+{
+ "id": "SG-H147",
+ "title": {
+  "zh": null,
+  "en": "Air Navigation (139 — Aerodromes) Regulations 2023",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p02",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ANA1966-S10-2023",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 58,
+ "chars": 70726,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ANA1966-S10-2023?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 58 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 5 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H147-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Air Navigation (139 — Aerodromes) Regulations 2023 and come into operation on 1 March 2023."
+   }
+  },
+  {
+   "id": "SG-H147-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations, any term defined in the First Schedule has the meaning given to that term in that Schedule.\n(2) Every standard in these Regulations for which a value is prescribed in the International System of Units (SI) and an alternative value is prescribed in a non‑SI alternative unit of measurement in parentheses, the relevant standard is to be regarded as reached when either value is obtained."
+   }
+  },
+  {
+   "id": "SG-H147-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Government aerodromes not subject to these Regulations"
+   },
+   "text": {
+    "en": "3. These Regulations do not apply to any Government aerodrome."
+   }
+  },
+  {
+   "id": "SG-H147-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 AERODROME CERTIFICATE AND HELIPORT CERTIFICATE"
+   },
+   "heading": {
+    "en": "Requirement for aerodrome certificate or heliport certificate"
+   },
+   "text": {
+    "en": "4. A person must not operate an aerodrome in Singapore for the take‑off and landing of aircraft engaged in flights for the purpose of commercial air transport or instruction in flying unless the person is the holder of the following applicable aviation safety instrument that is in force:\n(a)for a heliport — a heliport certificate;\n(b)for any other aerodrome — an aerodrome certificate."
+   }
+  },
+  {
+   "id": "SG-H147-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 AERODROME CERTIFICATE AND HELIPORT CERTIFICATE"
+   },
+   "heading": {
+    "en": "Application for grant or renewal of certificate"
+   },
+   "text": {
+    "en": "5.—(1) An application for the grant or renewal of an aerodrome certificate or a heliport certificate must —\n(a)be made at least 6 months (or any shorter period that the Authority may allow in any particular case) before —\n(i)the date on which the applicant intends to start operation of the aerodrome, unless sub‑paragraph (ii) applies; or\n(ii)for an application to renew the certificate — the date of expiry of the certificate to be renewed;\n(b)be in the form and manner required by the Authority;\n(c)be accompanied by the following information and documents:\n(i)the applicant’s name;\n(ii)the applicant’s address in Singapore;\n(iii)the aerodrome manual or heliport manual required by regulation 11;\n(iv)any other information or document that the Authority may require to decide on the application; and\n(d)be accompanied by the relevant application fee (if any) specified in the Second Schedule.\n(2) For the purposes of section 15(2)(b)(iii) of the Act, the other relevant requirements for the grant or renewal of an aerodrome certificate or a heliport certificate applied for are as follows:\n(a)the principal place of business of the applicant is in Singapore;\n(b)the applicant is able to meet the obligations required under these Regulations of an operator of the aerodrome to which the certificate is to relate;\n(c)the applicant is competent to safely operate and maintain the aerodrome to which the certificate is to relate, having regard to the applicant’s previous conduct and experience, equipment, organisation, staffing, maintenance and other arrangements;\n(d)the applicant’s operating procedures for the aerodrome to which the certificate is to relate make satisfactory provision for the safety of aircraft;\n(e)the aerodrome manual or heliport manual required by regulation 11 for the aerodrome to which the certificate is to relate is accepted by the Director‑General of Civil Aviation under that regulation."
+   }
+  },
+  {
+   "id": "SG-H147-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 AERODROME CERTIFICATE AND HELIPORT CERTIFICATE"
+   },
+   "heading": {
+    "en": "Grant and renewal of certificate"
+   },
+   "text": {
+    "en": "6. After receiving an application under regulation 5, the Authority may —\n(a)on payment of the relevant fee (if any) specified in the Second Schedule, grant or renew either as follows, subject to any conditions that the Authority thinks fit:\n(i)an aerodrome certificate for an aerodrome which is not a heliport;\n(ii)a heliport certificate for a heliport; or\n(b)refuse to grant or renew the certificate applied for."
+   }
+  },
+  {
+   "id": "SG-H147-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 AERODROME CERTIFICATE AND HELIPORT CERTIFICATE"
+   },
+   "heading": {
+    "en": "Validity of certificate"
+   },
+   "text": {
+    "en": "7.—(1) An aerodrome certificate for an aerodrome which is not a heliport remains in force for a period of 5 years after its grant or renewal under regulation 6 unless the certificate is earlier suspended or revoked by the Authority.\n(2) A heliport certificate for a heliport remains in force for a period of one year after its grant or renewal under regulation 6 unless the certificate is earlier suspended or revoked by the Authority."
+   }
+  },
+  {
+   "id": "SG-H147-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 AERODROME CERTIFICATE AND HELIPORT CERTIFICATE"
+   },
+   "heading": {
+    "en": "Variation to certificate"
+   },
+   "text": {
+    "en": "8.—(1) A certified operator of an aerodrome must first obtain the approval of the Authority to vary an aerodrome certificate or a heliport certificate (as the case may be) before implementing a change in any of the following matters:\n(a)the boundaries of the aerodrome;\n(b)the position, layout or dimensions of any taxiway, runway or other physical characteristic and infrastructure of the aerodrome;\n(c)the category of operations of the aerodrome;\n(d)the type of approach at the aerodrome;\n(e)the aircraft rescue and firefighting capabilities for the aerodrome;\n(f)where the aerodrome is not a heliport — the aerodrome reference code stated in the aerodrome certificate for the aerodrome;\n(g)any other information specified in the aerodrome certificate or heliport certificate, as the case may be.\n(2) An application to vary an aerodrome certificate or a heliport certificate must —\n(a)be made to the Authority in the form and manner required by the Authority;\n(b)provide sufficient detail of the variation sought; and\n(c)be made at least 30 days before the date of intended implementation of the variation.\n(3) The Authority may —\n(a)approve an application made under paragraph (2); and\n(b)impose, add, delete, substitute or modify any conditions of the aerodrome certificate or heliport certificate in respect of the approval."
+   }
+  },
+  {
+   "id": "SG-H147-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 AERODROME CERTIFICATE AND HELIPORT CERTIFICATE"
+   },
+   "heading": {
+    "en": "Restriction on transfer of certificate"
+   },
+   "text": {
+    "en": "9. An aerodrome certificate or a heliport certificate is not transferable to any person without the prior written consent of the Authority, and any purported transfer of such a certificate in contravention of this regulation is void and of no effect."
+   }
+  },
+  {
+   "id": "SG-H147-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Access for use by foreign aircraft"
+   },
+   "text": {
+    "en": "10. A certified operator of an aerodrome must ensure that the aerodrome, and all air navigation facilities provided at the aerodrome, are available for use by any aircraft registered in any country or territory other than Singapore on the same terms and conditions as for use by Singapore registered aircraft."
+   }
+  },
+  {
+   "id": "SG-H147-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Aerodrome manual and heliport manual"
+   },
+   "text": {
+    "en": "11.—(1) A certified operator of an aerodrome must establish and maintain an aerodrome manual for an aerodrome that is not a heliport, or a heliport manual for a heliport, that —\n(a)is in accordance with paragraph (2); and\n(b)is accepted by the Director‑General of Civil Aviation.\n(2) An aerodrome manual or a heliport manual must contain information which is current and accurate about all of the following:\n(a)demonstrate the means and methods of the certified operator’s organisation for ensuring ongoing compliance with these Regulations and the applicable requirements of the Act, including all pertinent information on that aerodrome or heliport for ensuring such ongoing compliance, including the facilities, services, equipment, operating procedures, organisation and management (including the safety management system) at that aerodrome or heliport;\n(b)specify each deviation (if any), from any of the requirements specified in the relevant Aviation Specifications, approved by the Director‑General of Civil Aviation under regulation 19(3).\n(3) Subject to paragraph (4), a certified operator of an aerodrome —\n(a)may make any amendments that are necessary to maintain the accuracy of the information in the aerodrome manual or heliport manual (as the case may be) and to keep its contents current; and\n(b)must, where required by the Director‑General of Civil Aviation, amend or add to the aerodrome manual or heliport manual —\n(i)to maintain the accuracy of the aerodrome manual or heliport manual, as the case may be;\n(ii)to ensure the safe and efficient operation of aircraft at the aerodrome; or\n(iii)to otherwise ensure the safety of air navigation.\n(4) A certified operator of an aerodrome must, before amending or adding to the aerodrome manual or heliport manual applicable to the aerodrome, obtain the acceptance of the Director‑General of Civil Aviation for the amendment or addition (as the case may be), unless the amendment or addition was required under paragraph (3)(b)."
+   }
+  },
+  {
+   "id": "SG-H147-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Resource requirements"
+   },
+   "text": {
+    "en": "12. A certified operator of an aerodrome must provide resources that are adequate and appropriate for the performance, and demands, of the operations listed in the aerodrome manual or heliport manual for the aerodrome."
+   }
+  },
+  {
+   "id": "SG-H147-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Notification and reporting"
+   },
+   "text": {
+    "en": "13.—(1) A certified operator of an aerodrome must —\n(a)establish a procedure with the AIS provider in order to allow the AIS provider to provide timely and accurate publication of information relating to the aerodrome;\n(b)make and submit to the AIS provider a report containing information, specified in the relevant Aviation Specifications, that is necessary for the AIS provider to provide timely and accurate publication of information relating to the aerodrome; and\n(c)review every Aeronautical Information Publication, AIP Supplement, AIP Amendment, Notice to Airmen, Pre‑flight Information Bulletin and Aeronautical Information Circular issued by the AIS provider on receipt of each such document and must, immediately after the review, notify the AIS provider of any inaccurate information contained in any document that pertains to the aerodrome.\n(2) A certified operator of an aerodrome must, before effecting any change to any facility or equipment at the aerodrome, or the level of service at the aerodrome, notify the AIS provider of the change in writing within the period of time specified in the procedure under paragraph (1)(a) if the change —\n(a)has been planned in advance; and\n(b)is likely to affect the accuracy of the information contained in any publication by the AIS provider.\n(3) A certified operator of an aerodrome must give the AIS provider, and must arrange for the air traffic control unit to receive, immediate notice detailing any of the following circumstances of which the certified operator has knowledge:\n(a)in respect of obstacles, obstructions and hazards —\n(i)any projection by an object through an obstacle limitation surface relating to the aerodrome; and\n(ii)the existence of any obstruction or hazardous condition affecting aviation safety at or near the aerodrome;\n(b)any change in the level of service at the aerodrome set out in any publication by the AIS provider;\n(c)closure of any part of the movement area of the aerodrome;\n(d)any significant change in any facility in the aerodrome, or the physical layout of the aerodrome;\n(e)any other condition that could affect aviation safety at the aerodrome and against which precautions are warranted."
+   }
+  },
+  {
+   "id": "SG-H147-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Document retention period"
+   },
+   "text": {
+    "en": "14. An operator of an aerodrome must ensure that the documents, information, reports and records specified in the Third Schedule relating to the aerodrome are stored for their respective retention periods specified in that Schedule."
+   }
+  },
+  {
+   "id": "SG-H147-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Control of documentation"
+   },
+   "text": {
+    "en": "15.—(1) A certified operator of an aerodrome must establish procedures —\n(a)to control, amend and distribute documentation necessary for the planning, operations and maintenance of the aerodrome; and\n(b)to control all of the documentation required by these Regulations.\n(2) The procedures established in accordance with paragraph (1) must require —\n(a)all documentation (such as charts, manuals, drawings and forms) to be reviewed and authorised by appropriate personnel of the certified operator before their issue;\n(b)any proposed amendment to the documentation mentioned in sub‑paragraph (a) to be reviewed and approved by the appropriate personnel of the certified operator before being made;\n(c)current versions of all relevant documents to be available to the certified operator’s personnel at all locations where the personnel require access to these documents;\n(d)the current version of each document to be identifiable such that the use of superseded material is precluded; and\n(e)all obsolete documentation to be promptly removed from all points of issue or use."
+   }
+  },
+  {
+   "id": "SG-H147-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Obligation to report reportable safety matters and occurrences"
+   },
+   "text": {
+    "en": "16.—(1) For the purposes of section 29 of the Act, any matter specified in paragraph 1 of the Fourth Schedule which occurs at an aerodrome is prescribed to be a reportable safety matter.\n(2) For the purposes of section 29(1) of the Act, the certified operator of an aerodrome at which a reportable safety matter specified in paragraph 1 of the Fourth Schedule occurs on or after 1 March 2023 is the responsible person who must notify the Authority of the reportable safety matter, in the manner specified in paragraph 2 of that Schedule.\n(3) A certified operator of an aerodrome must keep, for the period specified in the Third Schedule, a record of —\n(a)every reportable safety matter which occurs at the aerodrome; and\n(b)any event that the certified operator considers necessary to report or record.\n(4) To avoid doubt, nothing in this regulation affects the operation of regulation 50 of the Air Navigation (91 — General Operating Rules) Regulations 2018 (G.N. No. S 441/2018)."
+   }
+  },
+  {
+   "id": "SG-H147-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Investigation of occurrences at aerodrome"
+   },
+   "text": {
+    "en": "17.—(1) A certified operator of an aerodrome must conduct an investigation to identify safety issues with a view to remedying them if —\n(a)a reportable safety matter specified in paragraph 1 of the Fourth Schedule occurs on or after 1 March 2023 at the aerodrome, unless the Director‑General of Civil Aviation waives this requirement in any particular case; or\n(b)the Director‑General of Civil Aviation requires any other incident to be investigated.\n(2) A certified operator of an aerodrome must ensure that each personnel carrying out the investigation required by paragraph (1)(a) or (b) is technically competent and is provided with relevant information pertaining to the investigation.\n(3) A certified operator of an aerodrome must submit to the Director‑General of Civil Aviation a report of each investigation required by paragraph (1)(a) or (b) and carried out by the certified operator, within one month after the date the reportable safety matter or incident being investigated had occurred at the aerodrome (or any longer period that the Director‑General of Civil Aviation may allow in any particular case).\n(4) A certified operator of an aerodrome must keep, for the period specified in the Third Schedule, a record of the investigation report submitted to the Director‑General of Civil Aviation under paragraph (3)."
+   }
+  },
+  {
+   "id": "SG-H147-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Special inspections"
+   },
+   "text": {
+    "en": "18. A certified operator of an aerodrome must inspect the aerodrome, as circumstances require, to ensure aviation safety —\n(a)as soon as practicable after any accident or incident involving any aircraft occurs at the aerodrome;\n(b)during and immediately after any period of construction or repair of any facility or equipment at the aerodrome that is critical to the safety of aircraft operation; and\n(c)at any other time when there are conditions at the aerodrome that could affect aviation safety."
+   }
+  },
+  {
+   "id": "SG-H147-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Compliance with Aviation Specifications"
+   },
+   "text": {
+    "en": "19.—(1) A certified operator of an aerodrome must ensure that the design, operations and maintenance of, and any modifications to, the aerodrome comply with —\n(a)the design, operations and maintenance requirements specified in the relevant Aviation Specifications; and\n(b)the deviations approved under paragraph (3).\n(2) A certified operator of an aerodrome may, in the form and manner required by the Authority, apply to the Director‑General of Civil Aviation to deviate from any of the requirements specified in the relevant Aviation Specifications.\n(3) The Director‑General of Civil Aviation may approve the application made under paragraph (2) subject to any conditions that the Director‑General of Civil Aviation considers appropriate."
+   }
+  },
+  {
+   "id": "SG-H147-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Aerodrome operations"
+   },
+   "text": {
+    "en": "20.—(1) A certified operator of an aerodrome must operate and maintain the aerodrome in accordance with the procedures set out in the aerodrome manual for the aerodrome if it is not a heliport or the heliport manual for the heliport, as the case may be.\n(2) A certified operator of an aerodrome must conduct a risk assessment in accordance with the certified operator’s safety management systems before carrying out any of the following:\n(a)changing any operations of the aerodrome;\n(b)changing any maintenance procedures of the aerodrome.\n(3) The certified operator of the aerodrome must keep, for the period specified in the Third Schedule, a record of the risk assessment under paragraph (2).\n(4) A certified operator of an aerodrome must ensure that —\n(a)appropriate air traffic services are available to ensure the safety of aircraft in the airspace associated with the aerodrome;\n(b)aeronautical information services, meteorological services and provision of security and other services relating to aviation safety are available in respect of the aerodrome; and\n(c)channels of communication and cooperation are established between the certified operator and other providers of services and facilities at the aerodrome, in accordance with the certified operator’s safety management system."
+   }
+  },
+  {
+   "id": "SG-H147-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Development works and modification"
+   },
+   "text": {
+    "en": "21.—(1) A certified operator of an aerodrome must not carry out any work that results in changes to the physical characteristics of any runway, taxiway, aircraft stand, final approach and take‑off area, touchdown and lift‑off area, helicopter ground taxiway or helicopter stand at the aerodrome, except in accordance with paragraph (2).\n(2) A certified operator of an aerodrome must —\n(a)before carrying out the work, notify the Director‑General of Civil Aviation of —\n(i)the nature and purpose of the changes mentioned in paragraph (1); and\n(ii)the plans relating to the work mentioned in paragraph (1), including a description of the proposed design and work schedule;\n(b)before carrying out the work, conduct a risk assessment in accordance with the certified operator’s safety management system;\n(c)ensure that consideration is given to the safety of aircraft operations at the aerodrome;\n(d)while carrying out any work described in paragraph (1), ensure that safety measures, which take into account the risk assessment conducted under sub‑paragraph (b), are imposed; and\n(e)keep, for the period specified in the Third Schedule, a record of the risk assessment conducted under sub‑paragraph (b).\n(3) Where any work mentioned in paragraph (1) is carried out, the certified operator of the aerodrome must obtain the approval of the Director‑General of Civil Aviation before operating the runway, taxiway, aircraft stand, final approach and take‑off area, touchdown and lift‑off area, helicopter ground taxiway or helicopter stand, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H147-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Maintenance of aerodrome"
+   },
+   "text": {
+    "en": "22.—(1) A certified operator of an aerodrome must ensure proper maintenance of each facility or equipment at the aerodrome, in accordance with the relevant Aviation Specifications for the aerodrome.\n(2) A certified operator of an aerodrome must —\n(a)establish and maintain a maintenance programme for the aerodrome, which must include preventive maintenance procedures, to maintain each facility or equipment at the aerodrome in a condition that ensures the safety, regularity and efficiency of operations of the aerodrome; and\n(b)keep, for the period specified in the Third Schedule, a record of the inspection and maintenance conducted under the maintenance programme for the aerodrome.\n(3) A certified operator of an aerodrome must —\n(a)conduct a risk assessment in accordance with the certified operator’s safety management system before making any change to the maintenance programme mentioned in paragraph (2); and\n(b)keep, for the period specified in the Third Schedule, a record of the risk assessment."
+   }
+  },
+  {
+   "id": "SG-H147-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Low visibility operations"
+   },
+   "text": {
+    "en": "23.—(1) Where low visibility operations are in effect, a certified operator of an aerodrome must minimise the following activities from being carried out, in order to ensure aviation safety:\n(a)any activity or movement by any person or vehicle on an apron of the aerodrome;\n(b)any construction or maintenance activity in the proximity of the electrical systems of the aerodrome.\n(2) In this regulation —\n“low visibility operations” means —\n(a)a Category II or III approach and landing; or\n(b)a take‑off with a runway visual range of less than 400 metres, or any higher value specified in the Aeronautical Information Publication;\n“runway visual range” means the range over which the pilot of an aircraft on the centre line of a runway can see —\n(a)the runway surface markings;\n(b)the lights delineating the runway; or\n(c)the lights identifying its centre line."
+   }
+  },
+  {
+   "id": "SG-H147-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Safety management system"
+   },
+   "text": {
+    "en": "24.—(1) A certified operator of an aerodrome must establish and maintain a safety management system —\n(a)that consists of all the components and elements specified in the Fifth Schedule; and\n(b)that is commensurate to the size of the certified operator’s organisation and the complexity of the certified operator’s operations at the aerodrome.\n(2) A certified operator of an aerodrome must describe the safety management system in a safety management system manual and any other document that the Director‑General of Civil Aviation may require.\n(3) A certified operator of an aerodrome must obtain the acceptance of the Director‑General of Civil Aviation for —\n(a)the safety management system mentioned in paragraph (1);\n(b)the documents mentioned in paragraph (2); and\n(c)any change or amendment to the certified operator’s safety management system for the aerodrome before making that change or amendment.\n(4) A certified operator of an aerodrome must keep, for the period specified in the Third Schedule, a record of the safety management system mentioned in paragraph (1) and the documents mentioned in paragraph (2)."
+   }
+  },
+  {
+   "id": "SG-H147-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Wildlife strike hazard reduction"
+   },
+   "text": {
+    "en": "25.—(1) A certified operator of an aerodrome must take measures to minimise the likelihood of collisions at the aerodrome between wildlife and aircraft.\n(2) In particular, a certified operator of an aerodrome must —\n(a)record and report wildlife strikes and hazards to aircraft at or around the vicinity of the aerodrome, and keep the records for the period specified in the Third Schedule;\n(b)conduct an evaluation by competent personnel of hazards caused by wildlife to aircraft operations at or around the vicinity of the aerodrome; and\n(c)subject to paragraph (3), eliminate any source that might attract wildlife to or around the vicinity of the aerodrome or, where it is not reasonably practicable to do so, ensure that every hazard to aircraft operations at the aerodrome created by the source is assessed and reduced to as low as reasonably practicable.\n(3) Paragraph (2)(c) does not apply if the source that might attract wildlife to or around the vicinity of the aerodrome is assessed, by a wildlife assessment conducted by competent personnel, to be unlikely to create any condition that might be a hazard to aircraft operations."
+   }
+  },
+  {
+   "id": "SG-H147-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Handling of obstructions"
+   },
+   "text": {
+    "en": "26.—(1) A certified operator of an aerodrome must remove from the surface of the aerodrome any vehicle or any other obstruction that is likely to be hazardous to aircraft operations at the aerodrome.\n(2) A certified operator of an aerodrome must not permit any structure in the aerodrome to exceed the obstacle limitation surface and must take reasonable measures within the certified operator’s power to prevent any other structure from exceeding the obstacle limitation surface, except in the case of —\n(a)any frangible structure which, by virtue of its function, must be located on the runway strip;\n(b)any structure which is shielded by another object in accordance with the Aviation Specifications; or\n(c)any structure which, after aeronautical study, is determined not to adversely affect the safety of or significantly affect the regularity of operations of aircraft at the aerodrome."
+   }
+  },
+  {
+   "id": "SG-H147-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Warning notices"
+   },
+   "text": {
+    "en": "27. When any low flying aircraft, at or near an aerodrome, or taxiing aircraft in an aerodrome, is likely to be hazardous to any person on the ground or vehicular traffic, the certified operator of the aerodrome must —\n(a)post hazard warning notices on any public way that is adjacent to the manoeuvring area of the aerodrome; or\n(b)if the public way is not controlled by the certified operator — inform the authority responsible for posting the notices on the public way that there is a hazard."
+   }
+  },
+  {
+   "id": "SG-H147-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Personnel requirements"
+   },
+   "text": {
+    "en": "28.—(1) A certified operator of an aerodrome must employ or otherwise engage a fit and proper person as an accountable manager who has the authority within the certified operator’s organisation to ensure that all activities undertaken by the organisation are financed and carried out in accordance with —\n(a)the aerodrome certificate or the heliport certificate (as the case may be) and its conditions; and\n(b)these Regulations.\n(2) The accountable manager appointed under paragraph (1) by a certified operator of an aerodrome is responsible for ensuring that —\n(a)the staffing, procedures and practices of the certified operator’s organisation are such that aircraft operations can be conducted safely within the aerodrome; and\n(b)the certified operator’s organisation complies with the requirements of these Regulations.\n(3) A certified operator of an aerodrome must employ or otherwise engage individuals who —\n(a)are responsible for ensuring that the certified operator’s organisation complies with the aerodrome manual applicable to the aerodrome (which is not a heliport) or heliport manual applicable to the heliport (as the case may be), and other procedures or manuals, as approved by the Director‑General of Civil Aviation;\n(b)are responsible for the functions mentioned in paragraph (4);\n(c)are responsible to the accountable manager; and\n(d)have sufficient experience and competency to perform their responsibilities.\n(4) Except as provided in paragraph (5), each individual mentioned in paragraph (3) must be responsible for only one of the following functions:\n(a)safe operations of the aerodrome;\n(b)development and maintenance of the aerodrome;\n(c)the safety management system, as described in regulation 24.\n(5) An individual mentioned in paragraph (3) who is employed or otherwise engaged by a certified operator of a heliport may be concurrently responsible for those functions stated in paragraph (4)(a) and (b).\n(6) A certified operator of an aerodrome must ensure that, for safety matters, each individual mentioned in paragraph (3) reports directly to the accountable manager."
+   }
+  },
+  {
+   "id": "SG-H147-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Competency of operational and maintenance personnel"
+   },
+   "text": {
+    "en": "29.—(1) A certified operator of an aerodrome must ensure that an adequate number of competent personnel are employed or engaged by the certified operator or by a contractor of the certified operator to perform all activities that affect the safety of operations at the aerodrome, including —\n(a)maintenance of the aerodrome;\n(b)apron management;\n(c)rescue and firefighting;\n(d)wildlife hazard management;\n(e)airfield lighting;\n(f)aircraft pavement; and\n(g)aircraft movement area inspection.\n(2) A certified operator of an aerodrome must establish and implement a training programme to train and assess the competency of the personnel mentioned in paragraph (1) who are employed or engaged by the certified operator for the aerodrome.\n(3) A certified operator of an aerodrome must ensure that personnel who are employed or engaged by the certified operator’s contractor for the aerodrome undergo appropriate training and assessment.\n(4) A certified operator of an aerodrome must keep, for the period specified in the Third Schedule, a record of the training programme mentioned in paragraph (2), including records of the syllabus, the conduct and the attendance of the training programme."
+   }
+  },
+  {
+   "id": "SG-H147-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Management of contractors"
+   },
+   "text": {
+    "en": "30.—(1) A certified operator of an aerodrome must ensure that the activities performed by each contractor of the certified operator at the aerodrome are performed safely.\n(2) Without limiting paragraph (1), a certified operator of an aerodrome must —\n(a)ensure that each contractor of the certified operator adheres to all relevant standard operating procedures when performing any activities at the aerodrome;\n(b)ensure that each contractor of the certified operator, taking into account human factors principles, deploys sufficient personnel to perform any activities at the movement area and other areas of the aerodrome; and\n(c)exercise adequate supervision of, and liaise with, each contractor of the certified operator on a continuing basis to ensure that any activities performed by the contractor at the aerodrome are performed safely."
+   }
+  },
+  {
+   "id": "SG-H147-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Ground handling activities"
+   },
+   "text": {
+    "en": "31.—(1) A certified operator of an aerodrome must establish a framework to ensure that ground handling activities at the aerodrome are carried out in a safe manner to prevent injury to persons and damage to aircraft.\n(2) The framework mentioned in paragraph (1) must ensure that —\n(a)personnel who carry out ground handling activities are sufficiently and appropriately trained and assessed;\n(b)there is continual coordination between the certified operator and the ground handling service providers to ensure the safety of ground handling activities;\n(c)during ground servicing of any aircraft at the aerodrome —\n(i)in the event of a fuel fire — fire‑extinguishing equipment suitable for at least initial intervention, and personnel who carry out ground handling activities and are trained in the use of the fire‑extinguishing equipment, are readily available;\n(ii)in the event of a fire or fuel spill — there is a means of quickly summoning the rescue and firefighting services for the aerodrome; and\n(iii)if passengers are embarking, on board or disembarking an aircraft during refuelling operations for the aircraft — the ground equipment are positioned such that —\n(A)there is a sufficient number of exits for expeditious evacuation; and\n(B)there is an escape route from each of the exits to be used in the event of an emergency; and\n(d)the aircraft stand is safe for operation when any aircraft at the aerodrome is entering into or being pushed back from the aircraft stand."
+   }
+  },
+  {
+   "id": "SG-H147-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Aviation fuel quality at aerodrome"
+   },
+   "text": {
+    "en": "32.—(1) A certified operator of an aerodrome must ensure that the aviation fuel provided at the aerodrome satisfies the fuel quality requirements agreed between, as the case may be —\n(a)the certified operator of the aerodrome, and the airport fuel storage and hydrant system operator; or\n(b)the certified operator of the aerodrome, and the aircraft refuelling service provider.\n(2) A certified operator of an aerodrome must ensure that each aviation fuel installation installed or operated by the airport fuel storage and hydrant system operator, or aircraft refuelling service provider, (as the case may be) at the aerodrome —\n(a)is commissioned (whether or not by the certified operator of the aerodrome) prior to operation of the aviation fuel installation; and\n(b)is properly maintained (whether or not by the certified operator of the aerodrome).\n(3) A certified operator of an aerodrome must ensure that each airport fuel storage and hydrant system operator, and aircraft refuelling service provider, at the aerodrome has the capability and adequate resources, including appropriately trained staff, to carry out the aircraft refuelling or maintenance of the aviation fuel installation.\n(4) A certified operator of an aerodrome must, before operating any repaired or modified main hydrant pipeline fuel installation at the airside of the aerodrome, coordinate with the airport fuel storage and hydrant system operator to ensure that the fuel supplied by the repaired or modified main hydrant pipeline fuel installation satisfies the fuel quality requirements mentioned in paragraph (1)."
+   }
+  },
+  {
+   "id": "SG-H147-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Apron management service"
+   },
+   "text": {
+    "en": "33.—(1) This regulation applies only in relation to —\n(a)any aerodrome that is not a heliport; and\n(b)any heliport that contains more than one helicopter stand.\n(2) A certified operator of the aerodrome or a heliport mentioned in paragraph (1) must ensure that apron management service is provided at the aerodrome or heliport to —\n(a)regulate movement to prevent collisions between aircraft, and between aircraft and obstacles;\n(b)together with the ATS provider, regulate the entry of aircraft into, and coordinate the exit of aircraft from, the apron; and\n(c)ensure safe and expeditious movement of vehicles.\n(3) A certified operator of the aerodrome or a heliport mentioned in paragraph (1) must ensure that the apron management service mentioned in paragraph (2) is provided with radiotelephony communications facilities."
+   }
+  },
+  {
+   "id": "SG-H147-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Movement at airside"
+   },
+   "text": {
+    "en": "34. A certified operator of an aerodrome must ensure that measures are established and implemented for the safe movement of persons and vehicles at the airside in the aerodrome, including —\n(a)measures for the control of activities and movement by persons and vehicles in the manoeuvring area;\n(b)measures for the control of activities and movement by persons and vehicles on the apron;\n(c)measures to ensure that the activities and movement of emergency vehicles are not hindered or obstructed; and\n(d)measures for the provision of appropriate training for persons and drivers of vehicles at the airside."
+   }
+  },
+  {
+   "id": "SG-H147-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Emergency plan"
+   },
+   "text": {
+    "en": "35.—(1) A certified operator of an aerodrome must establish an emergency plan for the aerodrome that is commensurate with the aircraft operations and other activities conducted at the aerodrome.\n(2) The emergency plan mentioned in paragraph (1) must —\n(a)coordinate the actions to be taken during an emergency that occurs at the aerodrome, or in its vicinity;\n(b)coordinate the response or participation of any person that, in the opinion of the certified operator, could be of assistance in responding to the emergency;\n(c)provide for the ready availability of and coordination with specialist rescue services to be able to respond to emergencies where —\n(i)the aerodrome is located close to water or swampy areas; or\n(ii)a significant portion of the approach or departure operation of aircraft takes place over water or swampy areas;\n(d)document the following:\n(i)the types of emergencies planned for;\n(ii)the persons involved in the plan;\n(iii)for each type of emergency — the responsibility and role of each person involved in the plan, the crisis management centre and the command post;\n(iv)information on the names and telephone numbers of offices or individuals to be contacted in the case of a particular emergency;\n(v)a grid map of the aerodrome concerned and its immediate vicinity;\n(e)take into account human factors principles to ensure optimum response by each person participating in emergency operations; and\n(f)be tested on its adequacy through appropriate emergency exercises at the aerodrome."
+   }
+  },
+  {
+   "id": "SG-H147-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Rescue and firefighting"
+   },
+   "text": {
+    "en": "36.—(1) A certified operator of an aerodrome must ensure that —\n(a)equipment and services for rescue and firefighting are provided at the aerodrome; and\n(b)specialist rescue services and firefighting equipment commensurate with the hazard and risk are available where —\n(i)the aerodrome is located close to water or swampy areas; or\n(ii)a significant portion of the approach or departure operation of aircraft takes place over water or swampy areas.\n(2) The rescue and firefighting services mentioned in paragraph (1) must comply with the Aviation Specifications in respect of —\n(a)the level of protection, which must be commensurate with the category of the aerodrome for rescue and firefighting; and\n(b)the response time to be achieved.\n(3) A certified operator of an aerodrome must ensure that all personnel providing rescue and firefighting services for the aerodrome —\n(a)are trained —\n(i)to perform their duties in an efficient manner, which must include live fire drills (including drills for pressure‑fed fuel fires) that are commensurate with the types of aircraft and types of rescue and firefighting equipment in use at the aerodrome; and\n(ii)in a rescue and firefighting personnel training programme for aerodromes that includes training in human performance and team coordination;\n(b)are designated to be readily available to operate rescue and firefighting equipment at maximum capacity to ensure that —\n(i)minimum response times can be achieved; and\n(ii)an appropriate rate of discharge of the extinguishing agent is maintained; and\n(c)are provided with suitable protective clothing and respiratory equipment."
+   }
+  },
+  {
+   "id": "SG-H147-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Removal of disabled aircraft"
+   },
+   "text": {
+    "en": "37.—(1) A certified operator of an aerodrome must establish a plan for the removal of any aircraft that is disabled and is located on or adjacent to the movement area in the aerodrome.\n(2) A certified operator of an aerodrome must designate a coordinator to implement the plan mentioned in paragraph (1).\n(3) The plan mentioned in paragraph (1) must take into account the characteristics of any aircraft that may normally be expected to operate at the aerodrome concerned, including —\n(a)a list of equipment and personnel at or around the vicinity of the aerodrome that is available for implementing the plan; and\n(b)arrangements for the rapid receipt of aircraft recovery equipment kits available from other sources.\n(4) A certified operator of an aerodrome must ensure that the certified operator is able to execute the plan mentioned in paragraph (1).\n(5) For the purposes of this regulation, an aircraft is disabled if the aircraft is unable to move under its own power and is unable to be towed by the normal use of a tow tractor."
+   }
+  },
+  {
+   "id": "SG-H147-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS FOR AERODROMES"
+   },
+   "heading": {
+    "en": "Aerodrome design requirements"
+   },
+   "text": {
+    "en": "38. A certified operator of an aerodrome must ensure that any design and construction of any new facility, and any alteration to any existing facility, at the aerodrome —\n(a)integrates the architectural and infrastructure‑related requirements for optimum implementation of the security directives given under section 67 of the Act and the regulations made under section 69 of the Act; and\n(b)are suitable for the characteristics of the aircraft intended to operate at the aerodrome."
+   }
+  },
+  {
+   "id": "SG-H147-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS ONLY FOR AERODROMES WHICH ARE NOT HELIPORTS"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "39. This Part applies only in respect of an aerodrome that is not a heliport."
+   }
+  },
+  {
+   "id": "SG-H147-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS ONLY FOR AERODROMES WHICH ARE NOT HELIPORTS"
+   },
+   "heading": {
+    "en": "Runway safety team"
+   },
+   "text": {
+    "en": "40. A certified operator of an aerodrome must —\n(a)form a runway safety team to ensure the safety of runway operations at the aerodrome, the composition of which must include representatives from the persons engaged in any operations at the aerodrome; and\n(b)together with the runway safety team, establish and implement a runway safety action plan to improve the safety of runway operations at the aerodrome."
+   }
+  },
+  {
+   "id": "SG-H147-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS ONLY FOR AERODROMES WHICH ARE NOT HELIPORTS"
+   },
+   "heading": {
+    "en": "Aerodrome facility requirements"
+   },
+   "text": {
+    "en": "41. In addition to regulation 38, a certified operator of an aerodrome must ensure that any design and construction of any new facility, and any alteration to any existing facility, is suitable for any aeroplane that falls within the aerodrome reference code stated in the aerodrome certificate for the aerodrome."
+   }
+  },
+  {
+   "id": "SG-H147-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS ONLY FOR AERODROMES WHICH ARE NOT HELIPORTS"
+   },
+   "heading": {
+    "en": "Aircraft operations exceeding aerodrome reference code"
+   },
+   "text": {
+    "en": "42.—(1) Subject to paragraph (2), a certified operator of an aerodrome must not allow an aeroplane to operate at the aerodrome unless it falls within the aerodrome reference code stated in the aerodrome certificate for the aerodrome.\n(2) A certified operator of an aerodrome may allow an aeroplane that exceeds the aerodrome reference code stated in the aerodrome certificate for the aerodrome to operate at the aerodrome if —\n(a)the procedures to accommodate the operations of the aeroplane are documented in the aerodrome manual; and\n(b)the certified operator has —\n(i)conducted an assessment of the compatibility between the operations of the aeroplane and the aerodrome infrastructure and operations;\n(ii)conducted a risk assessment of the operations of the aeroplane at the aerodrome in accordance with the certified operator’s safety management system;\n(iii)submitted reports of the compatibility assessment conducted under sub‑paragraph (i) and risk assessment conducted under sub‑paragraph (ii) to the Director‑General of Civil Aviation at least one month before the intended date of the operations of the aeroplane;\n(iv)developed and implemented appropriate measures to maintain an acceptable level of safety during the operations of the aeroplane, including the following:\n(A)alternative measures;\n(B)operational procedures and operating restrictions;\n(C)coordination with other aerodrome users and service providers; and\n(v)notified the relevant aerodrome users and service providers concerning these alternative measures, operational procedures and operating restrictions appropriately.\n(3) A certified operator of an aerodrome must keep, for the period specified in the Third Schedule, each report of the compatibility assessment conducted under paragraph (2)(b)(i) and risk assessment conducted under paragraph (2)(b)(ii)."
+   }
+  },
+  {
+   "id": "SG-H147-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS ONLY FOR AERODROMES WHICH ARE NOT HELIPORTS"
+   },
+   "heading": {
+    "en": "Surface movement guidance and control system"
+   },
+   "text": {
+    "en": "43. A certified operator of an aerodrome must ensure that a surface movement guidance and control system (called in this regulation SMGCS) that satisfies all of the following requirements is provided at the aerodrome:\n(a)the SMGCS must be designed to prevent inadvertent incursion of any aircraft or vehicle onto an active runway;\n(b)the SMGCS must be designed to prevent any collision between aircraft, and between any aircraft, vehicle and object (as the case may be), on any part of the movement area;\n(c)the SMGCS must meet the requirements specified in the Aviation Specifications."
+   }
+  },
+  {
+   "id": "SG-H147-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS ONLY FOR AERODROMES WHICH ARE NOT HELIPORTS"
+   },
+   "heading": {
+    "en": "Autonomous runway incursion warning system"
+   },
+   "text": {
+    "en": "44. A certified operator of an aerodrome that installs or intends to install an autonomous runway incursion warning system (called in this regulation the ARIWS) at the aerodrome must make arrangements with the ATS provider to ensure that the ARIWS —\n(a)provides autonomous detection of a potential incursion onto or of the occupancy of an active runway, and provides a direct warning of the potential incursion or occupancy to any flight crew or vehicle operator at or around the vicinity of the runway;\n(b)functions and is controlled independently of any other visual system on the aerodrome;\n(c)includes visual aid components, such as lights, that meet the requirements in the Aviation Specifications; and\n(d)does not interfere with normal aerodrome operations in the event that the ARIWS fully or partially fails."
+   }
+  },
+  {
+   "id": "SG-H147-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS ONLY FOR AERODROMES WHICH ARE NOT HELIPORTS"
+   },
+   "heading": {
+    "en": "Surveillance and disruption, etc., of intrusions by unmanned aircraft"
+   },
+   "text": {
+    "en": "45.—(1) A certified operator of an aerodrome must install, maintain and operate systems to effectively detect, identify, disrupt and neutralise any intrusion by any unmanned aircraft into any areas in and around the aerodrome designated by the Director‑General of Civil Aviation.\n(2) The systems mentioned in paragraph (1) must not interfere with the air navigation systems that are necessary for the safety of aircraft, individuals and property at the aerodrome.\n(3) When operating the systems mentioned in paragraph (1), a certified operator of an aerodrome must have regard to aviation safety and ensure that there is minimal interference to operations of the aerodrome.\n(4) A certified operator of an aerodrome must satisfy the operational, technical and performance requirements in respect of the systems mentioned in paragraph (1) that the Director‑General of Civil Aviation may specify."
+   }
+  },
+  {
+   "id": "SG-H147-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS ONLY FOR AERODROMES WHICH ARE NOT HELIPORTS"
+   },
+   "heading": {
+    "en": "Crisis management operations centre, etc."
+   },
+   "text": {
+    "en": "46.—(1) A certified operator of an aerodrome must provide a fixed crisis management operations centre, a mobile command post and adequate communication systems for use in an emergency at the aerodrome.\n(2) The crisis management operations centre mentioned in paragraph (1) must be a part of the facilities of the aerodrome concerned and provide for the overall coordination and general direction of the response to an emergency.\n(3) The mobile command post mentioned in paragraph (1) must be a facility capable of being moved rapidly to the site of an emergency, when required, to provide local coordination of the persons responding to the emergency at the aerodrome.\n(4) A certified operator of an aerodrome must assign an individual to assume control of the crisis management operations centre mentioned in paragraph (1) and, when appropriate, another individual to assume control of the mobile command post mentioned in that paragraph.\n(5) The communication systems mentioned in paragraph (1) —\n(a)must link the communications between the crisis management operations centre, the mobile command post and the persons responding to the emergency at the aerodrome, in accordance with the emergency plan established under regulation 35(1); and\n(b)must not interfere with the air navigation systems that are necessary of the safety of aircraft, individuals and property at the aerodrome."
+   }
+  },
+  {
+   "id": "SG-H147-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS ONLY FOR AERODROMES WHICH ARE NOT HELIPORTS"
+   },
+   "heading": {
+    "en": "Rescue and firefighting at aerodrome"
+   },
+   "text": {
+    "en": "47. In addition to regulation 36, a certified operator of an aerodrome must ensure that all personnel providing rescue and firefighting services at the aerodrome —\n(a)are trained by the Authority or by an aerodrome rescue and firefighting training organisation approved under paragraph 72B(2) of the Air Navigation Order (O 2); and\n(b)are designated to be readily available to ride the rescue and firefighting vehicles at the aerodrome."
+   }
+  },
+  {
+   "id": "SG-H147-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "48.—(1) Fees are specified in the Second Schedule for the following:\n(a)the grant, validation, renewal, extension or variation of any certificate, licence or other document (including an application for, or the issue of a copy of, any such document) under these Regulations;\n(b)the undergoing of any audit, inspection or investigation required by these Regulations;\n(c)the grant of any permission or approval required by, or for the purpose of, these Regulations.\n(2) The Director‑General of Civil Aviation may, in any particular case, waive or refund in whole or in part any fee or interest payable under these Regulations where the Director‑General of Civil Aviation thinks fit."
+   }
+  },
+  {
+   "id": "SG-H147-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Periodic fees"
+   },
+   "text": {
+    "en": "49.—(1) In addition, the certified operator of an aerodrome must pay annually to the Authority, for every period of 12 months (or part of such a period) that the aerodrome certificate or heliport certificate held by the certified operator is in force, the fee specified in the Second Schedule for that certificate according to the type of aerodrome which is not a heliport or the heliport covered by the certificate.\n(2) The annual fee referred to in paragraph (1) for an aerodrome certificate or heliport certificate must be paid no later than the eve of the anniversary of the date the aerodrome certificate was granted or deemed granted under these Regulations, or any later day that the Director‑General of Civil Aviation may specify in any particular case.\n(3) If a certified operator of an aerodrome fails to pay in full the annual fee by the due date for payment under paragraph (2), interest for late payment of any such fee is payable, and the amount in arrears is recoverable as a civil debt due to the Authority.\n(4) Interest under paragraph (3) accrues daily at the rate of 4.5%‑point above the 3‑month compounded SORA for the period —\n(a)starting the first day the annual fee or part of it is in arrears; and\n(b)ending the day that the annual fee in arrears is paid in full to the Authority.\n[S 353/2023 wef 10/06/2023]\n(5) In this regulation —\n“3-month compounded SORA”, in relation to a period, means —\n(a)if the period or a part of the period falls within the 6‑month period beginning on 1 April of a calendar year, then, in relation to the period or the part (as the case may be) — the compounded average of the SORA values for the 3‑month period immediately before 1 March of the same calendar year, as determined and published by the Monetary Authority of Singapore on its website at http://www.mas.gov.sg or (where the website is unavailable to the public) in one or more other forms that are readily accessible by the public; or\n(b)if the period or a part of the period falls within the 6‑month period beginning on 1 October of a calendar year, then, in relation to the period or the part (as the case may be) — the compounded average of the SORA values for the 3‑month period immediately before 1 September of the same calendar year, as determined and published by the Monetary Authority of Singapore on its website at http://www.mas.gov.sg or (where the website is unavailable to the public) in one or more other forms that are readily accessible by the public;\n“Singapore Overnight Rate Average” or “SORA” means the volume‑weighted average rate of borrowing transactions in the unsecured overnight interbank Singapore dollar cash market in Singapore between 8 a.m. and 6.15 p.m., as determined and published by the Monetary Authority of Singapore on its website at http://www.mas.gov.sg or (where the website is unavailable to the public) in one or more other forms that are readily accessible by the public.\n[S 353/2023 wef 10/06/2023]"
+   }
+  },
+  {
+   "id": "SG-H147-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Penalties"
+   },
+   "text": {
+    "en": "50.—(1) Subject to paragraphs (2) and (3), where the Authority is of the opinion that an operator of an aerodrome is contravening or has contravened —\n(a)any condition of the operator’s aerodrome certificate or heliport certificate, as the case may be; or\n(b)any provision in Part 2, 3 or 4 other than a provision in regulations 4, 5, 6 and 16(1) and (2),\nthe Authority may direct the operator to pay a financial penalty not exceeding the higher of the following:\n(c)$500,000;\n(d)5% of the operator’s annual revenue derived from the regulated activity.\n(2) Before exercising any power under paragraph (1), the Authority must give written notice to the operator concerned —\n(a)stating that the Authority intends to impose on the operator a financial penalty under this regulation;\n(b)specifying each instance of non‑compliance that is the subject of the financial penalty; and\n(c)specifying the time (being not less than 14 days after the service of notice on the operator) within which written representations may be made to the Authority with respect to the non‑compliance that is the subject of the financial penalty.\n(3) The Authority may, after considering any written representations under paragraph (2)(c), decide to impose any financial penalty under paragraph (1) that the Authority considers appropriate.\n(4) Where the Authority has made any decision under paragraph (3) against any operator of an aerodrome, the Authority must serve on the operator concerned a notice of the Authority’s decision.\n(5) To avoid doubt, this regulation does not affect the operation of section 17, 18 or 19 of the Act.\n(6) In this regulation —\n“annual revenue” means the amount of money received by an operator of an aerodrome in the calendar year during which the operator contravened —\n(a)a condition of the operator’s aerodrome certificate or heliport certificate (as the case may be) relating to the aerodrome; or\n(b)a provision in Part 2, 3 or 4 (not being a provision in regulation 4, 5, 6 or 16(1) or (2));\n“regulated activity”, in relation to an operator of an aerodrome, means the operation of the aerodrome by the operator specified in the operator’s aerodrome certificate or heliport certificate, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H147-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Grant of approvals or acceptances"
+   },
+   "text": {
+    "en": "51.—(1) To avoid doubt, other than an aerodrome certificate or a heliport certificate granted or renewed by the Authority under regulation 6, an approval, an acceptance or a waiver that is granted by the Authority or Director‑General of Civil Aviation under regulation 8(3), 11(1)(b) or (2)(b) or (4), 17(1)(a), 19(3), 21(3) or 24(3) is not an aviation safety instrument.\n(2) Where an application is made for an approval or acceptance granted by the Director‑General of Civil Aviation under these Regulations, the application must —\n(a)be made by the relevant person in the form and manner the Director‑General of Civil Aviation specifies; and\n(b)provide the information that the Director‑General of Civil Aviation requires.\n(3) The Director‑General of Civil Aviation may grant an approval or acceptance under these Regulations subject to any conditions that the Director‑General of Civil Aviation considers necessary or expedient.\n(4) The Director‑General of Civil Aviation may withdraw an approval or acceptance, or impose, add, delete, substitute or modify conditions in respect of an approval or acceptance if —\n(a)the Director‑General of Civil Aviation considers the action necessary to ensure compliance with these Regulations or any other applicable aviation safety subsidiary legislation; or\n(b)the Director‑General of Civil Aviation is satisfied that there is or is likely to be a failure to comply with these Regulations or any other applicable aviation safety regulation.\n(5) In this regulation, “relevant person” means the employee of the certified operator of an aerodrome who is responsible for applying to the Authority for a specific approval or acceptance in respect of the aerodrome concerned under these Regulations."
+   }
+  },
+  {
+   "id": "SG-H147-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 6 SAVING AND TRANSITIONAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Definitions for this Part"
+   },
+   "text": {
+    "en": "52. In this Part, unless the context otherwise requires —\n“aerodrome certificate” means the aerodrome certificate granted or renewed under paragraph 67(4) of the Air Navigation Order as in force immediately before 1 March 2023;\n“aerodrome manual” means the aerodrome manual produced to the Chief Executive under paragraph 67A of the Air Navigation Order as in force immediately before 1 March 2023;\n“Chief Executive” means the Chief Executive of the Authority, and includes any person authorised by him or her to act on his or her behalf and any person acting in that capacity;\n“heliport certificate” means the heliport certificate granted or renewed under paragraph 67(4) of the Air Navigation Order as in force immediately before 1 March 2023;\n“heliport manual” means the heliport manual produced to the Chief Executive under paragraph 67A, read with paragraph 67(7B)(b), of the Air Navigation Order as in force immediately before 1 March 2023."
+   }
+  },
+  {
+   "id": "SG-H147-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART 6 SAVING AND TRANSITIONAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Subsisting certificates, approvals, etc."
+   },
+   "text": {
+    "en": "53.—(1) Every aerodrome certificate or heliport certificate that —\n(a)is granted or renewed by the Authority before 1 March 2023; and\n(b)is in force on that date,\nis to continue in force for the period specified in the certificate as if the certificate was granted or renewed under regulation 6.\n(2) Every aerodrome manual that is produced to the Chief Executive, by the holder of an aerodrome certificate mentioned in paragraph (1), before 1 March 2023 is to be treated as if the aerodrome manual was accepted by the Director‑General of Civil Aviation under regulation 11.\n(3) Every heliport manual that is produced to the Chief Executive, by the holder of a heliport certificate mentioned in paragraph (1), before 1 March 2023 is to be treated as if the heliport manual was accepted by the Director‑General of Civil Aviation under regulation 11."
+   }
+  },
+  {
+   "id": "SG-H147-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 2(1)\nDefinitions\nIn these Regulations —\n“accident” means an occurrence associated with the operation of an aircraft that takes place between the time a person first boards the aircraft with the intention of flight until the time after all persons on board the aircraft have disembarked or, in the case of an unmanned aircraft, that takes place between the time the aircraft is ready to move with the purpose of flight until the time it comes to rest at the end of the flight and the primary propulsion system is shut down, in which —\n(a)a person (not being a stowaway hiding outside the areas normally available to passengers and crew) is fatally or seriously injured as a result of —\n(i)being in the aircraft;\n(ii)having direct contact with any part of the aircraft, including parts which have become detached from the aircraft; or\n(iii)having direct exposure to jet blast,\nexcept where the injuries are from natural causes, are self‑inflicted, or inflicted by another person;\n(b)the aircraft sustains damage or structural failure which —\n(i)adversely affects the structural strength, performance or flight characteristics of the aircraft; and\n(ii)requires major repair to the aircraft or replacement of the affected component,\nbut excludes —\n(iii)engine failure or damage, when the damage is limited to a single engine (including its cowlings or accessories), or to propellers, wing tips, antennas, probes, vanes, tyres, brakes, wheels, fairings, panels, landing gear, doors, windscreens or the aircraft skin (such as small dents or puncture holes);\n(iv)minor damage to main rotor blades, tail rotor blades or landing gear; and\n(v)minor damage resulting from hail or bird strike (including holes in the radome); or\n(c)the aircraft is missing or completely inaccessible.\n“aerodrome” means a defined area on land (including any building, installation and equipment) used or intended to be used, either wholly or in part, for the arrival, departure and surface movement of any aircraft.\n“aerodrome certificate” means a certificate granted by the Authority under regulation 6, which authorises the holder of the certificate to operate an aerodrome that is not a heliport.\n“aerodrome manual” means the manual forming part of the application for an aerodrome certificate under these Regulations and includes any amendments to the manual made in accordance with these Regulations.\n“aerodrome reference code” means a combination of letters and numbers that represents a method for interrelating the numerous specifications concerning the characteristics of an aerodrome (which is not a heliport) so as to provide a series of aerodrome facilities that are suitable for the aeroplanes that are intended to operate at the aerodrome.\n“Aeronautical Information Circular” means a notice containing information which relates to flight safety, air navigation, technical, administrative or legislative matters.\n“Aeronautical Information Publication” or “AIP” means a publication issued by and with the authority of the AIS provider and containing aeronautical information of a lasting character essential to air navigation.\n“aeronautical information service provider” or “AIS provider” means the unit, within the air navigation service provider in Singapore, providing aeronautical information services.\n“aeronautical information services” means the services established within the defined area of coverage responsible for the provision of aeronautical information and data necessary for the safety, regularity and efficiency of air navigation and, where appropriate, includes the personnel and facilities employed to provide information pertaining to the availability of air navigation services and their associated procedures necessary for the safety, regularity and efficiency of air navigation.\n“aeroplane” means a power‑driven heavier‑than‑air aircraft, deriving its lift in flight chiefly from aerodynamic reactions on surfaces which remain fixed under given conditions of flight.\n“AIP Amendment” means permanent changes to the information contained in the Aeronautical Information Publication.\n“AIP Supplement” means temporary changes, published by means of special pages, to the information contained in the Aeronautical Information Publication.\n“air traffic service provider” or “ATS provider” means the unit, within the air navigation service provider in Singapore, providing air traffic services.\n“aircraft stand” means a designated area on an apron intended to be used for parking an aircraft.\n“apron” means a defined area, on a land aerodrome, intended to accommodate aircraft for purposes of loading or unloading passengers, mail or cargo, fuelling, parking or maintenance.\n“apron management service” means a service provided to regulate the activities and the movement of aircraft and vehicles on an apron.\n“autonomous runway incursion warning system” or “ARIWS” means a system that provides autonomous detection of a potential incursion onto or of the occupancy of an active runway, and provides a direct warning of the potential incursion or occupancy to a flight crew or a vehicle operator.\n“aviation fuel” means fuel intended for use in aircraft.\n“aviation fuel installation” means any apparatus or container, including a vehicle designed, manufactured or adapted for the storage of aviation fuel or for the delivery of aviation fuel to an aircraft.\n“Aviation Specifications” means the following documents issued by the Director‑General of Civil Aviation:\n(a)in the case of an aerodrome that is a heliport — the document known as “Aviation Specifications 6 — Heliports”;\n(b)in the case of any other aerodrome — the document known as “Aviation Specifications 5 — Aerodromes”.\n“certified operator”, for an aerodrome, means the person to whom an aerodrome certificate or a heliport certificate is granted or renewed under regulation 6, or transferred in accordance with regulation 9, and that remains in force.\n“commercial air transport”, in relation to an aircraft operation, means an aircraft operation involving the transport of passengers, cargo or mail for remuneration or hire, but does not include the carriage of passengers who are participants of an aerial sports activity as determined by the Director‑General of Civil Aviation.\n“contractor” means a person engaged by a certified operator of an aerodrome to perform maintenance services and inspections at the aerodrome, or construction works at the aerodrome.\n“facility or equipment”, in relation to an aerodrome, means any facility or equipment, inside or outside the boundaries of the aerodrome, that is constructed, installed, or maintained for the arrival, departure and surface movement of aircraft.\n“ground handling” means the services necessary for an aircraft’s arrival at or departure from an aerodrome other than air traffic services and “ground handling service provider” means the provider of these services, including a fixed based operator and refueller.\n“heliport” means an aerodrome used or intended to be used for the arrival, departure and surface movement of helicopters and no other type of aircraft.\n“heliport certificate” means a certificate granted by the Authority under regulation 6, which authorises the holder of the certificate to operate a heliport.\n“heliport manual” means the manual forming part of the application for a heliport certificate under these Regulations and includes any amendments thereto made in accordance with these Regulations.\n“human factors principles” means principles which —\n(a)apply aeronautical design, certification, training, operations and maintenance; and\n(b)seek safe interface between the human and other system components by giving proper consideration to human performance.\n“human performance” means human capabilities and limitations which have an impact on the safety and efficiency of aeronautical operations.\n“incident” means an occurrence, other than an accident, associated with the operation of an aircraft which affects or could affect the safety of the operation.\n“investigation” means a process conducted for the purpose of accident and incident prevention which includes the gathering and analysis of information, the drawing of conclusions (including the determination of causes or contributing factors, or both) and, when appropriate, the making of safety recommendations.\n“movement area” means that part of an aerodrome to be used for the take‑off, landing and taxiing of aircraft, consisting of the manoeuvring area and the aprons at the aerodrome.\n“manoeuvring area” means that part of an aerodrome to be used for the take‑off, landing and taxiing of aircraft, other than the aprons at the aerodrome.\n“NOTAM” or “Notice to Airmen” means a notice distributed by means of telecommunication containing information concerning the establishment, condition or change in any aeronautical facility, service or procedure or hazard, the timely knowledge of which is essential to personnel concerned with flight operations.\n“obstacle” means any fixed (whether temporary or permanent) or mobile object or part of the object —\n(a)which is located on an area intended for the surface movement of aircraft;\n(b)which extends above a defined surface intended to protect aircraft in flight; or\n(c)which stands outside a defined surface and which has been assessed as being a hazard to air navigation.\n“obstacle limitation surfaces” means a series of surfaces that define the volume of airspace at and around an aerodrome to be kept free of obstacles in order to permit the intended aircraft operations to be conducted safely and to prevent the aerodrome from becoming unusable by the growth of obstacles around the aerodrome.\n“occurrence” means an accident or incident.\n“Pre‑flight Information Bulletin”, in relation to an aircraft, means a presentation of current NOTAM information of operational significance that is prepared prior to the flight of the aircraft.\n“pressure‑fed fuel fire” means any fire associated with fuel discharged from a ruptured fuel tank under very high pressure.\n“preventive maintenance” means any programmed maintenance work done in order to prevent a failure or degradation of facilities.\n“response time” means the time between the initial call to the rescue and firefighting service, and the time when the first responding vehicle is in position to apply foam at a rate of at least 50 per cent of the discharge rate specified in the relevant Aviation Specifications.\n“runway” means a defined rectangular area on a land aerodrome (which is not a heliport) prepared for the landing and take‑off of aircraft.\n“runway strip” means a defined area, including the runway and stopway if provided, that is intended —\n(a)to reduce the risk of damage to aircraft running off a runway; and\n(b)to protect aircraft flying over the area during take‑off or landing operations.\n“safety management system” means a systematic approach to managing safety, including the necessary organisational structures, accountabilities, policies and procedures of a certified operator of an aerodrome.\n“serious injury” means an injury that is sustained by a person in an accident and which —\n(a)requires hospitalisation for a period of more than 48 hours, where the period starts within 7 days after the date the injury was sustained;\n(b)results in a fracture of any bone other than a simple fracture of any finger, toe or nose;\n(c)involves lacerations which cause severe haemorrhage, nerve, muscle or tendon damage;\n(d)involves injury to any internal organ;\n(e)involves second or third degree burns, or any burns affecting more than 5% of the body surface; or\n(f)involves verified exposure to infectious substances or injurious radiation.\n“taxiing” means the movement of an aircraft on the surface of an aerodrome under its own power, but does not include take‑off and landing.\n“taxiway” means a defined path on a land aerodrome established for the taxiing of aircraft and intended to provide a link between one part of the aerodrome and another, including —\n(a)the aircraft stand taxilane, which is the portion of an apron designated as a taxiway and intended to provide access to aircraft stands only;\n(b)the apron taxiway, which is the portion of a taxiway system located on an apron intended to provide a through taxi route across the apron; and\n(c)the rapid exit taxiway, which is a taxiway connected to a runway at an acute angle and designed to allow landing aeroplanes to turn off at higher speeds than are achieved on other exit taxiways thereby minimising runway occupancy times."
+   }
+  },
+  {
+   "id": "SG-H147-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulations 5(1)(d), 6(a), 48(1) and 49(1)\nFees\n1.Application for the grant of an aerodrome certificate.\n$750,000\n2.Grant of an aerodrome certificate for the following aerodromes:\n(a)an aerodrome with one runway;\n$750,000\n(b)an aerodrome with 2 runways;\n$1,500,000\n(c)an aerodrome with 3 or more runways.\n$2,250,000\n3.Annual fee of an aerodrome certificate for the following aerodromes:\n(a)an aerodrome with one runway;\n$817,500\n(b)an aerodrome with 2 runways;\n$1,635,000\n(c)an aerodrome with 3 or more runways.\n$2,452,500\n4.Application for the grant of a heliport certificate.\n$27,000\n5.Grant or renewal of a heliport certificate.\n$91,000\n[S 801/2025 wef 01/01/2026]\nNote:\n1.For the purposes of this Schedule, where the grant of the aerodrome certificate or heliport certificate falls on 29 February in any year, in any subsequent year that is not a leap year the anniversary of the grant of that certificate is taken to be 1 March of that subsequent year.\n2.For the purposes of item 2, the number of runways in an aerodrome is the total number of runways within the boundaries of the aerodrome specified in the aerodrome certificate, whether or not the runways are operational."
+   }
+  },
+  {
+   "id": "SG-H147-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulations 14, 16(3), 17(4), 20(3), 21(2)(e), 22(2)(b) and (3)(b), 24(4), 25(2)(a), 29(4) and 42(3)\nRetention periods\nSafety record\nRetention period\n1.Record required under regulation 16(3) of —\n(a)any reportable safety matter specified paragraph 1 of the Fourth Schedule; or\n(b)any event which the certified operator considers necessary to report or record\n5 years after date of occurrence of the reportable safety matter or event, as the case may be\n2.Investigation report required under regulation 17(4)\n5 years after date of occurrence of the reportable safety matter or incident investigated\n3.Record of risk assessment conducted under regulation 20(3)\n2 years after the cessation of the operations or procedures for which the risk assessment is conducted\n4.Record of risk assessment conducted under regulation 21(2)(b)\n2 years after the completion of development and modification work\n5.Record of inspection and maintenance conducted under the maintenance programme for an aerodrome or a heliport required under regulation 22(2)(b)\n2 years after date the record is made\n6.Record of risk assessment conducted under regulation 22(3)(b)\n2 years after the cessation of procedures for which the risk assessment is conducted\n7.Record of safety management system required under regulation 24(4)\n2 years after date the record is made\n8.Record of wildlife strike hazard reduction activities required under regulation 25(2)(a)\n2 years after date the record is made\n9.Record of any personnel’s training programme and competence to carry out a critical activity, kept under regulation 29(4)\n12 months after the last day of employment of the personnel by the certified operator\n10.Report of compatibility assessment and risk assessment for an aerodrome kept under regulation 42(3)\n2 years after the aeroplane operation at the aerodrome"
+   }
+  },
+  {
+   "id": "SG-H147-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE\nRegulations 16(1) and (2) and 17(1)(a) and Third Schedule\nReportable safety matters\nList of reportable safety matters\n1. Each of the following incidents is a reportable safety matter:\n(a)every accident that occurs at the aerodrome;\n(b)every incident of the following nature that occurs at the aerodrome:\n(i)a collision involving an aircraft;\n(ii)a near collision involving an aircraft requiring an avoidance manoeuvre to avoid a collision or an unsafe situation, or where an avoidance action would have been appropriate;\n(iii)an incident that occurs during a critical phase of flight (such as take‑off or landing) that has high potential of causing an accident;\n(iv)a suspected contamination of aviation fuel;\n(v)an aircraft on fire;\n(vi)a wildlife strike resulting in damage to aircraft;\n(vii)an aircraft landing gear collapse;\n(viii)any other occurrence that has a significant safety impact to the operation of an aircraft or the aerodrome, or which causes or may cause a danger to persons or property.\nNotification requirements\n2.—(1) A certified operator of an aerodrome must notify the Authority through the most expeditious means available immediately upon becoming aware of every reportable safety matter occurring at the aerodrome.\n(2) A certified operator of an aerodrome must give a formal written notification of a reportable safety matter to the Authority —\n(a)for any matter mentioned in paragraph 1(a) — within 12 hours after the occurrence; and\n(b)for any matter mentioned in paragraph 1(b) — as soon as reasonably practical but not more than 24 hours after the occurrence.\n(3) All formal written notifications must be made in a manner acceptable to the Authority."
+   }
+  },
+  {
+   "id": "SG-H147-A900004",
+   "no": 900004,
+   "noLabel": {
+    "en": "FIFTH SCHEDULE"
+   },
+   "text": {
+    "en": "FIFTH SCHEDULE\nRegulation 24(1)(a)\nComponents and elements of\nsafety management system\nThe safety management system mentioned in regulation 24 for an aerodrome must consist of the following components and elements:\nComponents\nElements\n1.Safety policy and objectives\n(a)Management commitment\n(b)Safety accountability and responsibilities\n(c)Appointment of key safety personnel\n(d)Coordination of emergency response planning\n(e)Safety management system documentation\n2.Safety risk management\n(a)Hazard identification\n(b)Safety risk assessment and mitigation\n3.Safety assurance\n(a)Safety performance monitoring and measurement\n(b)The management of change\n(c)Continuous improvement of the safety management system\n4.Safety promotion\n(a)Training and education\n(b)Safety communication"
+   }
+  }
+ ]
+}

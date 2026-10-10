@@ -1,0 +1,554 @@
+{
+ "id": "SG-H3001",
+ "title": {
+  "zh": null,
+  "en": "Legal Profession (Prevention of Money Laundering, Financing of Terrorism and Proliferation Financing) Rules 2015",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p38",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation LPA1966-S307-2015",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 32,
+ "chars": 54785,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/LPA1966-S307-2015?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 32 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3001-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Rules may be cited as the Legal Profession (Prevention of Money Laundering, Financing of Terrorism and Proliferation Financing) Rules 2015 and come into operation on 23 May 2015.\n[S 473/2025 wef 01/07/2025]"
+   }
+  },
+  {
+   "id": "SG-H3001-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Rules, unless the context otherwise requires —\n“beneficial owner”, in relation to an entity or a legal arrangement —\n(a)means —\n(i)an individual who ultimately owns or controls the entity or legal arrangement; or\n(ii)an individual on whose behalf the entity or legal arrangement conducts a transaction concerning a relevant matter (being a transaction for which a legal practitioner or law practice is engaged); and\n(b)includes an individual who exercises ultimate effective control over the entity or legal arrangement;\n“client” includes —\n(a)in relation to contentious business, any person who, as a principal or on behalf of another person, retains or employs, or is about to retain or employ, a legal practitioner or law practice; and\n(b)in relation to non-contentious business, any person who, as a principal or on behalf of another person, or as a trustee, an executor or an administrator, or in any other capacity, has power, express or implied, to retain or employ, and retains or employs or is about to retain or employ, a legal practitioner or law practice;\n“close associate”, in relation to a politically-exposed individual, means an individual who is known to be closely connected to the politically-exposed individual, either socially or professionally, such as, but not limited to —\n(a)a partner of the politically-exposed individual;\n(b)an employee or employer of the politically-exposed individual;\n(c)a person accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the politically-exposed individual; or\n(d)a person whose directions, instructions or wishes the politically-exposed individual is accustomed or under an obligation, whether formal or informal, to act in accordance with;\n“Commercial Affairs Officer” means a Commercial Affairs Officer appointed under section 64 of the Police Force Act 2004;\n[S 636/2024 wef 31/12/2021]\n“countermeasure” means a measure to prevent, or to facilitate the prevention of, money laundering, the financing of terrorism or proliferation financing in a foreign country or territory;\n[S 473/2025 wef 01/07/2025]\n“domestic politically-exposed individual” means an individual who is or has been entrusted with a prominent public function in Singapore;\n“entity” means a sole proprietorship, a partnership, a limited partnership, a limited liability partnership, a corporation sole, a company or any other association or body of persons corporate or unincorporate;\n“family member”, in relation to a politically-exposed individual, means a spouse, child (including an adopted child or a stepchild), sibling or parent of the politically-exposed individual;\n“FATF” means the intergovernmental body known as the Financial Action Task Force created in 1989;\n“foreign country or territory” means a country, territory or jurisdiction other than Singapore;\n[S 473/2025 wef 01/07/2025]\n“foreign politically-exposed individual” means an individual who is or has been entrusted with a prominent public function in a foreign country or territory;\n[S 473/2025 wef 01/07/2025]\n“higher risk business relationship” means a business relationship in relation to which the risks of money laundering, the financing of terrorism and proliferation financing are raised under rule 12(4);\n[S 473/2025 wef 01/07/2025]\n“higher risk client” means a client in relation to which the risks of money laundering, the financing of terrorism and proliferation financing are raised under rule 12(4);\n[S 473/2025 wef 01/07/2025]\n“legal arrangement” means any express trust or other similar legal arrangement;\n“politically-exposed individual” means —\n(a)a foreign politically-exposed individual;\n(b)a domestic politically-exposed individual; or\n(c)an individual who has been entrusted with a prominent function in an international organisation;\n“proliferation financing” means the financing of proliferation of weapons of mass destruction;\n[S 473/2025 wef 01/07/2025]\n“prominent function”, in relation to an international organisation, means the role held by a member of the senior management of the international organisation (including a director, deputy director or member of a board of the international organisation, or an equivalent appointment in the international organisation);\n“prominent public function” includes the role held by a head of state, a head of government, a senior politician, a senior government, judicial or military official, a senior executive of a state-owned corporation or a senior political party official;\n“relevant Singapore financial institution” means —\n(a)a bank in Singapore licensed under section 7 of the Banking Act 1970;\n[S 636/2024 wef 31/12/2021]\n(b)a merchant bank that holds a merchant bank licence, or is treated as having been granted a merchant bank licence, under section 55S of the Banking Act 1970;\n[S 251/2023 wef 28/04/2023]\n(ba)a person that is a financial institution approved, or treated as approved, under section 4 of the Financial Services and Markets Act 2022;\n[S 251/2023 wef 28/04/2023]\n(c)a finance company licensed under section 6 of the Finance Companies Act 1967;\n[S 636/2024 wef 31/12/2021]\n(d)a financial adviser licensed under section 10 of the Financial Advisers Act 2001, except one which is licensed only in respect of the financial advisory service specified in paragraph 2 of the Second Schedule to that Act (namely, advising others by issuing or promulgating research analyses or research reports, whether in electronic, print or other form, concerning any investment product);\n[S 636/2024 wef 31/12/2021]\n(e)a holder of a capital markets services licence granted under section 86 of the Securities and Futures Act 2001;\n[S 636/2024 wef 31/12/2021]\n(f)[Deleted by S 636/2024 wef 01/08/2024]\n(g)a person who is exempt from holding a financial adviser’s licence under section 20(1)(g) of the Financial Advisers Act 2001 read with regulation 27(1)(d) of the Financial Advisers Regulations (Rg 2), except one who is exempt only in respect of the financial advisory service specified in paragraph 2 of the Second Schedule to that Act (namely, advising others by issuing or promulgating research analyses or research reports, whether in electronic, print or other form, concerning any investment product);\n[S 636/2024 wef 31/12/2021]\n(h)a person who is exempt from holding a capital markets services licence under section 99(1)(h) of the Securities and Futures Act 2001 read with paragraph 7(1)(b) of the Second Schedule to the Securities and Futures (Licensing and Conduct of Business) Regulations;\n[S 636/2024 wef 31/12/2021]\n(i)a trustee approved under section 289 of the Securities and Futures Act 2001 for a collective investment scheme authorised under section 286 of that Act;\n[S 636/2024 wef 31/12/2021]\n(j)a trust company licensed under section 5 of the Trust Companies Act 2005; or\n[S 636/2024 wef 31/12/2021]\n(k)a direct insurer licensed under section 11 of the Insurance Act 1966 to carry on life business;\n[S 636/2024 wef 31/12/2021]\n“suspicious transaction report” means a report by which a person —\n(a)discloses, under section 45(1) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992, any knowledge or suspicion referred to in that provision, or the information or other matter on which that knowledge or suspicion is based, to a Suspicious Transaction Reporting Officer; or\n[S 636/2024 wef 31/12/2021]\n(b)informs, under section 8(1) of the Terrorism (Suppression of Financing) Act 2002, a police officer or Commercial Affairs Officer, of any fact or information referred to in that provision;\n[S 636/2024 wef 31/12/2021]\n“Suspicious Transaction Reporting Officer” has the same meaning as in section 2(1) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992.\n[S 636/2024 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H3001-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Prescribed types of advocates and solicitors and foreign lawyers"
+   },
+   "text": {
+    "en": "3. For the purposes of the definition of “legal practitioner” in section 70A(2) of the Act, Part 5A of the Act applies to —\n(a)every advocate and solicitor who —\n(i)has in force a practising certificate; or\n(ii)is a director, a partner, a consultant or an employee of a law practice, whether or not the advocate and solicitor has in force a practising certificate; and\n(b)every foreign lawyer who is a regulated foreign lawyer.\n[S 697/2015 wef 18/11/2015]\n[S 636/2024 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H3001-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 CUSTOMER DUE DILIGENCE MEASURES"
+   },
+   "heading": {
+    "en": "Prescribed customer due diligence measures"
+   },
+   "text": {
+    "en": "4. For the purposes of section 70C of the Act, a legal practitioner or law practice must perform the customer due diligence measures prescribed in this Part."
+   }
+  },
+  {
+   "id": "SG-H3001-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 CUSTOMER DUE DILIGENCE MEASURES"
+   },
+   "heading": {
+    "en": "Client suspected of money laundering, financing of terrorism or proliferation financing"
+   },
+   "text": {
+    "en": "5.—(1) Where a legal practitioner or law practice has reasonable grounds to suspect that a client may be engaged in money laundering, the financing of terrorism or proliferation financing, the legal practitioner or law practice —\n(a)must disclose the suspicion, or the information on which the suspicion is based, by filing a suspicious transaction report with either or both of the following, as the case may be:\n(i)a Suspicious Transaction Reporting Officer;\n(ii)a police officer or Commercial Affairs Officer; and\n(b)must consider if it is appropriate to —\n(i)continue a business relationship with the client; or\n(ii)establish a new business relationship with, or undertake a new matter for, the client.\n(2) Where the legal practitioner or law practice continues a business relationship with, establishes a new business relationship with, or undertakes a new matter for, the client mentioned in paragraph (1), the legal practitioner or law practice must —\n(a)substantiate the reasons for continuing or establishing the business relationship with, or undertaking the matter for, the client, and document those reasons; and\n(b)subject the business relationship or matter to commensurate risk mitigation measures, including enhanced ongoing monitoring.\n[S 473/2025 wef 01/07/2025]"
+   }
+  },
+  {
+   "id": "SG-H3001-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 CUSTOMER DUE DILIGENCE MEASURES"
+   },
+   "heading": {
+    "en": "General customer due diligence measures in relation to client"
+   },
+   "text": {
+    "en": "6.—(1) At the applicable time specified in rule 11, a legal practitioner or law practice must perform the following customer due diligence measures in relation to a client:\n(a)ascertain the identity of the client;\n(b)verify the client’s identity using objectively reliable and independent source documents, data or information;\n(c)take reasonable measures to determine whether the client is a politically-exposed individual, or a family member or close associate of any such individual;\n[S 473/2025 wef 01/07/2025]\n(d)identify and, if appropriate, obtain information on the purpose and intended nature of the business relationship with the client.\n[S 473/2025 wef 01/07/2025]\n(2) Where the client is an entity or a legal arrangement, the customer due diligence measures that a legal practitioner or law practice must perform under paragraph (1)(a) and (b) include identifying the client and verifying the client’s identity, respectively, through the following information:\n(a)the name of the client;\n(b)the legal form of the client;\n(c)the documents that prove the existence of the client;\n(d)the documents that regulate and bind the client (such as the constitution, or the memorandum and articles of association, of a company, if the client is a company, or the trust deed of an express trust, if the client is an express trust);\n(e)the individuals in the senior management of the client;\n(f)the address of the registered office of the client;\n(g)the address of a principal place of business of the client, if the registered office of the client is not a principal place of business of the client.\n(3) [Deleted by S 473/2025 wef 01/07/2025]"
+   }
+  },
+  {
+   "id": "SG-H3001-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 CUSTOMER DUE DILIGENCE MEASURES"
+   },
+   "heading": {
+    "en": "General customer due diligence measures in relation to person purporting to act on client’s behalf"
+   },
+   "text": {
+    "en": "7.—(1) At the applicable time specified in rule 11, a legal practitioner or law practice must perform customer due diligence measures to ascertain —\n(a)whether any other person is purporting to act on behalf of a client; and\n(b)whether the client is acting on behalf of another person,\nin relation to and for the purpose of a matter undertaken or to be undertaken by the legal practitioner or law practice for the client.\n(2) Where the person mentioned in paragraph (1)(a) or (b) is an individual, the legal practitioner or law practice must —\n(a)take reasonable measures to verify the identity of the individual using objectively reliable and independent source documents, data or information; and\n(b)obtain appropriate documentary evidence to verify that —\n(i)in the case of paragraph (1)(a) — the individual is authorised to act on behalf of the client; or\n(ii)in the case of paragraph (1)(b) — the client is authorised to act on behalf of the individual.\n(3) Where the person mentioned in paragraph (1)(a) or (b) is an entity or the trustee or other person carrying out functions equivalent to a trustee (called the trustee) of a legal arrangement, the legal practitioner or law practice must —\n(a)perform the customer due diligence measures mentioned in rules 6(2) and 8 on the entity or legal arrangement, and for this purpose the reference to a client in those rules is a reference to the entity or legal arrangement; and\n(b)obtain appropriate documentary evidence to verify that —\n(i)in the case of paragraph (1)(a) — the entity or trustee is authorised to act on behalf of the client; or\n(ii)in the case of paragraph (1)(b) — the client is authorised to act on behalf of the entity or trustee.\n[S 473/2025 wef 01/07/2025]"
+   }
+  },
+  {
+   "id": "SG-H3001-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 CUSTOMER DUE DILIGENCE MEASURES"
+   },
+   "heading": {
+    "en": "General customer due diligence measures in relation to entity or legal arrangement"
+   },
+   "text": {
+    "en": "8.—(1) At the applicable time specified in rule 11, a legal practitioner or law practice must perform the following customer due diligence measures in relation to a client which is an entity or a legal arrangement:\n(a)ascertain whether the client has any beneficial owner;\n(b)ascertain the identity of each beneficial owner (if any);\n(c)take reasonable measures to verify the identity of each beneficial owner (if any) using objectively reliable and independent source documents, data or information;\n(d)take reasonable measures to determine whether each beneficial owner (if any) is a politically-exposed individual, or a family member or close associate of any such individual;\n(e)understand the nature of the client’s business;\n(f)understand the ownership and control structure of the client.\n(2) Where the client is an entity, the customer due diligence measures that a legal practitioner or law practice must perform under paragraph (1)(b) and (c) include identifying, and taking reasonable measures to verify the identity of, each beneficial owner of the client, through the following information:\n(a)the identity of each individual (if any) who has a controlling ownership interest in the client;\n(b)if there is any doubt as to whether an individual who has a controlling ownership interest in the client is a beneficial owner of the client, or if there is no individual who has a controlling ownership interest in the client, the identity of each individual (if any) who has control of the client through other means;\n(c)if there is no individual who has a controlling ownership interest in the client or who has control of the client through other means, the identity of each individual in the senior management of the client.\n(3) Where the client is a legal arrangement, the customer due diligence measures that a legal practitioner or law practice must perform under paragraph (1)(b) and (c) include identifying, and taking reasonable measures to verify the identity of, each beneficial owner of the client, through the following information:\n(a)if the client is an express trust, the identities of the settlor, each trustee, the protector (if any) and each beneficiary or class of beneficiaries of the trust, and any other individual exercising effective control over the client (including through a chain of control or ownership);\n(b)if the client is any other legal arrangement, the identity of each person in an equivalent or a similar position to a settlor, trustee, protector or beneficiary of a trust, or to an individual referred to in sub-paragraph (a).\n(4) Despite paragraphs (1), (2) and (3) but subject to paragraph (5), the legal practitioner or law practice need not perform the customer due diligence measures under paragraph (1)(b), (c) and (d) in relation to a client, if the client is —\n(a)an entity listed on the Singapore Exchange, or a subsidiary of such an entity more than 50% of the shares or other equity interests of which are owned by the entity;\n(b)an entity listed on a stock exchange in a foreign country or territory that is subject to —\n(i)regulatory disclosure requirements; and\n(ii)requirements relating to adequate transparency in respect of its beneficial owners,\nimposed through stock exchange rules, law or other enforceable means;\n(c)a relevant Singapore financial institution; or\n(d)a financial institution incorporated or established outside Singapore that is subject to and supervised for compliance with requirements for the prevention of money laundering, the financing of terrorism and proliferation financing, consistent with the standards set by the FATF.\n[S 473/2025 wef 01/07/2025]\n(5) Paragraph (4) does not apply if the legal practitioner or law practice suspects that the client may be engaged in, or the business relationship with the client or the matter undertaken for the client may involve engagement in, money laundering, the financing of terrorism or proliferation financing.\n[S 473/2025 wef 01/07/2025]\n(6) The legal practitioner or law practice must, when determining that the client is a financial institution mentioned in paragraph (4)(d), document the basis for making that determination.\n[S 473/2025 wef 01/07/2025]"
+   }
+  },
+  {
+   "id": "SG-H3001-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 CUSTOMER DUE DILIGENCE MEASURES"
+   },
+   "heading": {
+    "en": "Ongoing customer due diligence measures"
+   },
+   "text": {
+    "en": "9. A legal practitioner or law practice must perform the following ongoing customer due diligence measures during the course of a business relationship with a client:\n(a)the legal practitioner or law practice must scrutinise transactions undertaken throughout the course of the business relationship to ensure that those transactions are consistent with the legal practitioner’s or law practice’s knowledge of —\n(i)the client;\n(ii)the client’s business;\n(iii)the client’s risk profile; and\n(iv)where appropriate, the source of funds for those transactions;\n(b)the legal practitioner or law practice must ensure that the customer due diligence data, documents and information obtained in respect of the following persons are relevant and kept up-to-date, by undertaking reviews of existing customer due diligence data, documents and information, particularly if the client is a higher risk client:\n(i)the client;\n(ii)each person acting on behalf of the client;\n(iii)each person on whose behalf the client is acting;\n(iv)each beneficial owner of the client;\n(c)where the legal practitioner or law practice assesses the client to be a higher risk client, or the business relationship with the client to be a higher risk business relationship, the legal practitioner or law practice must —\n(i)perform enhanced customer due diligence measures in accordance with rule 13; and\n(ii)obtain the approval of the legal practitioner’s or law practice’s senior management to retain the client or continue the business relationship with the client.\n[S 473/2025 wef 01/07/2025]"
+   }
+  },
+  {
+   "id": "SG-H3001-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 CUSTOMER DUE DILIGENCE MEASURES"
+   },
+   "heading": {
+    "en": "Specific customer due diligence measures for legal practitioners who act as trustees"
+   },
+   "text": {
+    "en": "10.—(1) A legal practitioner who acts as a trustee must perform the customer due diligence measures referred to in paragraphs (2) to (6).\n(2) A legal practitioner who is a trustee of an express trust governed by Singapore law must, at the applicable time specified in rule 11, obtain and must maintain adequate, accurate and current information on the identities of the settlor, each trustee, the protector (if any) and each beneficiary or class of beneficiaries of the trust, and of any other individual exercising effective control over the trust.\n(3) A legal practitioner who is a trustee of any trust governed by Singapore law must, at the applicable time specified in rule 11, obtain and must maintain basic information on every other regulated agent of, or service provider to, the trust, including any investment adviser or manager, accountant or tax adviser.\n(4) The legal practitioner referred to in paragraph (2) or (3) must maintain the information referred to in the applicable paragraph for at least 5 years after the legal practitioner’s involvement with the trust ceases.\n(5) The legal practitioner referred to in paragraph (2) or (3) must ensure that any information maintained pursuant to the applicable paragraph is kept accurate and as up-to-date as possible, and is updated on a timely basis.\n(6) Subject to any rule of law relating to a trustee’s duty of confidentiality, a legal practitioner must, when forming a business relationship with any person referred to in the following sub‑paragraphs in the legal practitioner’s capacity as a trustee, disclose to that person the legal practitioner’s status as such trustee:\n(a)a financial institution as defined in section 2 of the Financial Services and Markets Act 2022;\n[S 251/2023 wef 28/04/2023]\n(b)a casino operator as defined in section 2(1) of the Casino Control Act 2006;\n[S 636/2024 wef 31/12/2021]\n(ba)a developer as defined in section 2 of the Sale of Commercial Properties Act 1979;\n[S 473/2025 wef 01/07/2025]\n(bb)a housing developer as defined in section 2(1) of the Housing Developers (Control and Licensing) Act 1965;\n[S 473/2025 wef 01/07/2025]\n(c)a licensed estate agent as defined in section 3(1) of the Estate Agents Act 2010;\n[S 636/2024 wef 31/12/2021]\n(d)a regulated dealer as defined in section 2 of the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019;\n[S 378/2024 wef 01/05/2024]\n(da)a pawnbroker as defined in section 3(1) of the Pawnbrokers Act 2015;\n[S 992/2020 wef 14/12/2020]\n[S 636/2024 wef 31/12/2021]\n(e)a legal practitioner;\n(f)a foreign lawyer registered under section 36P of the Act;\n(g)a notary public as defined in section 2 of the Notaries Public Act 1959;\n[S 636/2024 wef 31/12/2021]\n(h)a public accountant as defined in section 2(1) of the Accountants Act 2004;\n[S 636/2024 wef 31/12/2021]\n(i)a person (not being a legal practitioner or a public accountant) who provides one or more of the following services:\n(i)acting as an agent for the formation of entities;\n(ii)acting as (or arranging for another person to act as) a director or secretary of a company, a partner of a partnership, or a person holding a similar position in any other entity;\n(iii)providing a registered office, any business address or any accommodation, correspondence or administrative address for a company, a partnership or any other entity or legal arrangement;\n(iv)acting as (or arranging for another person to act as) a trustee of an express trust, or performing (or arranging for another person to perform) a function equivalent to the function of a trustee in any other legal arrangement;\n(v)acting as (or arranging for another person to act as) a nominee shareholder for another person."
+   }
+  },
+  {
+   "id": "SG-H3001-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 CUSTOMER DUE DILIGENCE MEASURES"
+   },
+   "heading": {
+    "en": "Timing of certain customer due diligence measures"
+   },
+   "text": {
+    "en": "11.—(1) Subject to paragraph (2), the applicable time for performing, in relation to a client, the customer due diligence measures referred to in rules 6(1) and (2), 7, 8(1), (2) and (3) and 10(2) and (3) is before the start, or during the course, of establishing a business relationship with the client.\n[S 473/2025 wef 01/07/2025]\n(2) A legal practitioner or law practice may complete the performance, in relation to a client, of a relevant customer due diligence measure as soon as reasonably practicable after establishing a business relationship with the client if —\n(a)completion of that measure after establishing the business relationship is necessary in order not to interrupt the normal conduct of business operations; and\n(b)the risks of money laundering, the financing of terrorism and proliferation financing can be effectively managed.\n[S 473/2025 wef 01/07/2025]\n(3) Where paragraph (2) applies —\n(a)in the case of a legal practitioner — the law practice in which the legal practitioner practises; or\n(b)in the case of a law practice — the law practice,\nmust adopt internal risk management policies and procedures concerning the conditions under which a legal practitioner who practises in the law practice, or the law practice, may establish a business relationship with a client before the completion of the relevant customer due diligence measure.\n[S 473/2025 wef 01/07/2025]\n(4) In this rule, “relevant customer due diligence measure” means a customer due diligence measure referred to —\n(a)in rule 6(1)(b), (c) or (d), 7, 8(1)(b), (c), (d), (e) or (f), (2) or (3) or 10(2) or (3); or\n(b)in rule 6(2) (only insofar as it relates to the customer due diligence measure that a legal practitioner or law practice must perform under rule 6(1)(b)).\n[S 473/2025 wef 01/07/2025]"
+   }
+  },
+  {
+   "id": "SG-H3001-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 CUSTOMER DUE DILIGENCE MEASURES"
+   },
+   "heading": {
+    "en": "Risk based approach"
+   },
+   "text": {
+    "en": "12.—(1) A legal practitioner or law practice is to perform, in relation to a client, the customer due diligence measures prescribed in this Part to an extent that is commensurate with the level of risk of money laundering, the financing of terrorism and proliferation financing.\n[S 473/2025 wef 01/07/2025]\n(2) A legal practitioner or law practice must —\n(a)perform, in relation to each client, an adequate analysis of the risks of money laundering, the financing of terrorism and proliferation financing;\n[S 473/2025 wef 01/07/2025]\n(b)document the analysis and the conclusions reached; and\n(c)keep the analysis up to date.\n(3) [Deleted by S 473/2025 wef 01/07/2025]\n(4) The risks of money laundering, the financing of terrorism and proliferation financing are raised, if —\n(a)the client is from or in, or the transaction relates to, any foreign country or territory in relation to which the FATF has called for countermeasures or enhanced customer due diligence measures;\n(b)the client is from or in any foreign country or territory known to have inadequate measures to prevent money laundering, the financing of terrorism or proliferation financing, as determined by the legal practitioner or law practice, or as notified to the legal practitioner or law practice generally by the Society or Director of Legal Services;\n(c)the client is from or in, or the transaction relates to, any foreign country or territory that the FATF has identified as a country, territory or jurisdiction subject to increased monitoring; or\n(d)the legal practitioner or law practice has reason to believe that the client, any person acting on behalf of the client or any person on whose behalf the client is acting, or the transaction, presents a high risk of money laundering, the financing of terrorism or proliferation financing.\n[S 473/2025 wef 01/07/2025]"
+   }
+  },
+  {
+   "id": "SG-H3001-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 CUSTOMER DUE DILIGENCE MEASURES"
+   },
+   "heading": {
+    "en": "Enhanced customer due diligence measures"
+   },
+   "text": {
+    "en": "13.—(1) A legal practitioner or law practice must, in addition to performing the other customer due diligence measures prescribed in this Part, perform the enhanced customer due diligence measures mentioned in paragraph (2), if —\n(a)the risks of money laundering, the financing of terrorism and proliferation financing are raised under rule 12(4);\n[S 473/2025 wef 01/07/2025]\n(b)the client, or the beneficial owner of the client (being an entity or a legal arrangement), is a foreign politically-exposed individual, or a family member or close associate of any such individual; or\n(c)both of the following apply:\n(i)the legal practitioner or law practice assesses the business relationship with the client to be a higher risk business relationship;\n(ii)the client, or the beneficial owner of the client (being an entity or a legal arrangement), is —\n(A)a domestic politically-exposed individual;\n(B)an individual who has been entrusted with a prominent function in an international organisation; or\n(C)a family member or close associate of any individual mentioned in sub-paragraph (A) or (B).\n(2) The enhanced customer due diligence measures to be performed by the legal practitioner or law practice are as follows:\n(a)obtain the approval of the legal practitioner’s or law practice’s senior management before —\n(i)in the case of a new client, establishing a business relationship with the client; or\n(ii)in the case of an existing client, continuing a business relationship with the client;\n(b)take reasonable measures to establish the source of wealth, and the source of funds, of the client and, if the client is an entity or a legal arrangement, of the beneficial owner of the client;\n(c)conduct enhanced ongoing monitoring of the business relationship with the client;\n[S 473/2025 wef 01/07/2025]\n(d)take all other reasonable measures in respect of the matters specified in paragraph (1)(a), (b) and (c), as applicable.\n[S 473/2025 wef 01/07/2025]"
+   }
+  },
+  {
+   "id": "SG-H3001-A13.001",
+   "no": 13.001,
+   "noLabel": {
+    "en": "13A."
+   },
+   "chapter": {
+    "en": "PART 2 CUSTOMER DUE DILIGENCE MEASURES"
+   },
+   "heading": {
+    "en": "Simplified customer due diligence measures"
+   },
+   "text": {
+    "en": "13A.—(1) If all of the following conditions are met, a legal practitioner or law practice may, instead of performing the customer due diligence measures mentioned in rules 6, 7, 8 and 9, perform simplified customer due diligence measures in relation to a client, a person acting on behalf of the client or a person on whose behalf the client is acting:\n(a)the legal practitioner or law practice has, under rule 18(2)(a) and (b), assessed the risks of money laundering, the financing of terrorism and proliferation financing in relation to the client to be low;\n(b)the simplified customer due diligence measures are commensurate with the level of risk of the client engaging in money laundering, the financing of terrorism and proliferation financing as identified by the legal practitioner or law practice;\n(c)none of the circumstances mentioned in rule 13 requiring enhanced customer due diligence measures exist.\n(2) Simplified customer due diligence measures are measures that the legal practitioner or law practice considers adequate to ascertain the identity of the person on or in relation to whom the customer due diligence measures mentioned in rule 6, 7, 8 or 9 (as the case may be) are to be performed.\n(3) If a legal practitioner or law practice decides to perform simplified customer due diligence measures under paragraph (1), the legal practitioner or law practice must record —\n(a)the details of the risk assessment that formed the basis for the decision; and\n(b)the simplified customer due diligence measures carried out.\n[S 473/2025 wef 01/07/2025]"
+   }
+  },
+  {
+   "id": "SG-H3001-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 2 CUSTOMER DUE DILIGENCE MEASURES"
+   },
+   "heading": {
+    "en": "Existing clients"
+   },
+   "text": {
+    "en": "14.—(1) A legal practitioner or law practice must perform, in relation to an existing client, the customer due diligence measures prescribed in this Part that are applicable to the client, based on the legal practitioner’s or law practice’s assessment of the materiality and risks of money laundering, the financing of terrorism and proliferation financing, taking into account —\n(a)any previous customer due diligence measures performed in relation to the client;\n(b)the time when any customer due diligence measures were last performed in relation to the client; and\n(c)the adequacy of the data, documents or information obtained from any previous customer due diligence measures performed in relation to the client.\n[S 473/2025 wef 01/07/2025]\n(2) In paragraph (1)(a), (b) and (c), “customer due diligence measures” includes any customer due diligence measures performed under —\n(a)the Legal Profession (Professional Conduct) Rules (R 1) as in force before 23 May 2015; or\n(b)any practice directions, guidance notes and rulings issued by the Council or the Society, whether before, on or after 23 May 2015."
+   }
+  },
+  {
+   "id": "SG-H3001-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 2 CUSTOMER DUE DILIGENCE MEASURES"
+   },
+   "heading": {
+    "en": "Inability to complete customer due diligence measures"
+   },
+   "text": {
+    "en": "15.—(1) Where a legal practitioner or law practice is unable to complete any customer due diligence measures prescribed in this Part in relation to a client, the legal practitioner or law practice —\n(a)must not commence any new business relationship, and must terminate any existing business relationship, with the client;\n(b)must not undertake any transaction for the client; and\n(c)must consider whether to file a suspicious transaction report in relation to the client.\n(2) For the purposes of paragraph (1), the legal practitioner or law practice is unable to complete those customer due diligence measures, if —\n(a)the legal practitioner or law practice is unable to obtain, or to verify, any information required as part of those customer due diligence measures; or\n(b)the legal practitioner or law practice does not receive a satisfactory response to any inquiry in relation to any information required as part of those customer due diligence measures."
+   }
+  },
+  {
+   "id": "SG-H3001-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 2 CUSTOMER DUE DILIGENCE MEASURES"
+   },
+   "heading": {
+    "en": "Tipping-off"
+   },
+   "text": {
+    "en": "16. Where a legal practitioner or law practice —\n(a)suspects that a client may be engaged in money laundering, the financing of terrorism or proliferation financing; and\n(b)has reason to believe that the performance of any customer due diligence measures prescribed in this Part will tip-off the client, any person acting on behalf of the client or any person on whose behalf the client is acting,\nthe legal practitioner or law practice —\n(c)need not perform those customer due diligence measures; but\n(d)must instead file a suspicious transaction report with either or both of the following, as the case may be:\n(i)a Suspicious Transaction Reporting Officer;\n(ii)a police officer or Commercial Affairs Officer.\n[S 473/2025 wef 01/07/2025]"
+   }
+  },
+  {
+   "id": "SG-H3001-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 2 CUSTOMER DUE DILIGENCE MEASURES"
+   },
+   "heading": {
+    "en": "Performance of customer due diligence measures by third parties"
+   },
+   "text": {
+    "en": "17.—(1) A legal practitioner or law practice cannot rely on a third party to perform any customer due diligence measures prescribed in rule 9.\n[S 473/2025 wef 01/07/2025]\n(2) Even if a legal practitioner or law practice relies on a third party to perform any customer due diligence measures prescribed in this Part (other than rule 9), the legal practitioner or law practice remains responsible for the performance of those measures.\n[S 473/2025 wef 01/07/2025]\n(3) Where a legal practitioner or law practice relies on a third party to perform any customer due diligence measures prescribed in this Part (other than rule 9), the legal practitioner or law practice must —\n(a)document the basis for the legal practitioner’s or law practice’s opinion in paragraph (4)(a) and (b); and\n(b)obtain from the third party without delay all documents and information acquired as a result of the customer due diligence measures performed by the third party.\n[S 473/2025 wef 01/07/2025]\n(4) Before a legal practitioner or law practice relies on a third party to perform any customer due diligence measures prescribed in this Part (other than rule 9), the legal practitioner or law practice must —\n(a)be satisfied that where necessary, the legal practitioner or law practice will be able to obtain from the third party, upon request and without delay, any document or information acquired by the third party as a result of the customer due diligence measures performed by the third party;\n(b)be satisfied that the third party —\n(i)is subject to and supervised for compliance with requirements for the prevention of money laundering, the financing of terrorism and proliferation financing, consistent with the standards set by the FATF; and\n(ii)has adequate measures in place for compliance with the requirements mentioned in sub-paragraph (i); and\n(c)take appropriate steps to identify, assess and understand the risks of money laundering, the financing of terrorism and proliferation financing in the countries, territories or jurisdictions that the third party operates in (if applicable).\n[S 473/2025 wef 01/07/2025]"
+   }
+  },
+  {
+   "id": "SG-H3001-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 2 CUSTOMER DUE DILIGENCE MEASURES"
+   },
+   "heading": {
+    "en": "Internal programmes and risk assessment"
+   },
+   "text": {
+    "en": "18.—(1) A law practice must implement programmes for the prevention of money laundering, the financing of terrorism and proliferation financing which have regard to —\n(a)the risks of money laundering, the financing of terrorism and proliferation financing; and\n[S 473/2025 wef 01/07/2025]\n(b)the size of the law practice.\n[S 473/2025 wef 01/07/2025]\n(2) The law practice must, in particular —\n(a)take appropriate steps to identify, assess and understand the risks of money laundering, the financing of terrorism and proliferation financing, in relation to —\n(i)the law practice’s clients;\n(ii)the countries, territories or jurisdictions that the law practice’s clients are from or in, or have operations in; and\n(iii)the law practice’s products, services, transactions and delivery channels;\n(b)for the purposes of sub-paragraph (a) —\n(i)document the risk assessments;\n(ii)consider all relevant risk factors before determining the overall level of risk and the appropriate type and extent of mitigation to be applied;\n(iii)keep the risk assessments up to date; and\n(iv)provide the risk assessments to the Council upon the Council’s request;\n(c)develop and implement internal policies, procedures and controls, which must be approved by the law practice’s senior management, including —\n(i)making appropriate compliance management arrangements; and\n(ii)applying adequate screening procedures when hiring employees,\nto manage and mitigate the risks of money laundering, the financing of terrorism and proliferation financing identified by the law practice or notified to the law practice by the Society or Director of Legal Services;\n(d)obtain confirmation of the implementation, and the review, by an independent party of the internal policies, procedures and controls referred to in sub-paragraph (c);\n(e)take enhanced measures to manage and mitigate the risks of money laundering, the financing of terrorism and proliferation financing where higher risks are identified;\n(f)have an ongoing programme to train the law practice’s partners, directors and employees on —\n(i)the laws and regulations relating to the prevention of money laundering, the financing of terrorism and proliferation financing; and\n(ii)the internal policies, procedures and controls mentioned in sub-paragraph (c); and\n(g)monitor the implementation of the internal policies, procedures and controls mentioned in sub-paragraph (c) and enhance the internal policies, procedures and controls (if necessary).\n[S 473/2025 wef 01/07/2025]\n(3) [Deleted by S 473/2025 wef 01/07/2025]\n(4) [Deleted by S 473/2025 wef 01/07/2025]\n(5) [Deleted by S 473/2025 wef 01/07/2025]\n[S 473/2025 wef 01/07/2025]"
+   }
+  },
+  {
+   "id": "SG-H3001-A18.001",
+   "no": 18.001,
+   "noLabel": {
+    "en": "18A."
+   },
+   "chapter": {
+    "en": "PART 2 CUSTOMER DUE DILIGENCE MEASURES"
+   },
+   "heading": {
+    "en": "Group policy for branches and subsidiaries"
+   },
+   "text": {
+    "en": "18A.—(1) This rule applies to a Singapore law practice which has, whether in Singapore or in a foreign country or territory —\n(a)any branch; or\n(b)any subsidiary where more than 50% of the shares or other equity interests of the subsidiary are owned by the Singapore law practice.\n(2) The Singapore law practice must implement group-wide programmes for the prevention of money laundering, the financing of terrorism and proliferation financing that apply to, and are appropriate for, every branch and subsidiary mentioned in paragraph (1).\n(3) The group-wide programmes mentioned in paragraph (2) must include —\n(a)the measures specified in rule 18(2), and for this purpose a reference to the law practice’s partners, directors and employees in rule 18(2)(f) is a reference to the partners, directors and employees of the law practice and every branch and subsidiary mentioned in paragraph (1); and\n(b)subject to paragraph (4), measures to share information —\n(i)between the Singapore law practice’s branches and subsidiaries, and the Singapore law practice; and\n(ii)among the Singapore law practice’s branches and subsidiaries,\nfor the purpose of performing customer due diligence measures or managing the risks of money laundering, the financing of terrorism and proliferation financing.\n(4) The measures mentioned in paragraph (3)(b) —\n(a)must incorporate adequate safeguards to —\n(i)protect the confidentiality and use of any information that is shared; and\n(ii)not tip off any person arising from any information that is shared (including to not share the information, where appropriate); and\n(b)only apply to the extent permitted by the law of the foreign country or territory that the Singapore law practice’s branch or subsidiary (as the case may be) is in.\n(5) The Singapore law practice must, as far as possible, ensure that every branch and subsidiary referred to in paragraph (1) operating in a foreign country or territory applies measures for the prevention of money laundering, the financing of terrorism and proliferation financing that are consistent with the measures for the prevention of money laundering, the financing of terrorism and proliferation financing that are applicable in Singapore.\n[S 473/2025 wef 01/07/2025]"
+   }
+  },
+  {
+   "id": "SG-H3001-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 KEEPING OF RECORDS"
+   },
+   "heading": {
+    "en": "Period of maintenance of documents and records relating to relevant matters"
+   },
+   "text": {
+    "en": "19.—(1) For the purposes of section 70E(1)(a) and (3) of the Act, a legal practitioner must maintain a document or record relating to a relevant matter in which the legal practitioner acted for at least 5 years after the completion of the relevant matter.\n(2) For the purposes of section 70E(2)(a) and (3) of the Act, a law practice must maintain a document or record relating to a relevant matter in which the law practice, or any legal practitioner in the law practice, acted for at least 5 years after the completion of the relevant matter.\n(3) Despite paragraphs (1) and (2), where a legal practitioner who practises in a law practice, and who acted in a relevant matter while practising in the law practice, ceases to practise —\n(a)subject to sub-paragraph (b) —\n(i)the legal practitioner’s obligation under paragraph (1) to maintain a document or record relating to the relevant matter ceases when the legal practitioner ceases to practise; but\n(ii)the obligation of the law practice under paragraph (2) to maintain that document or record continues; or\n(b)if the law practice is dissolved, or the licence issued to the law practice is revoked, when the legal practitioner ceases to practise, and paragraph (5) does not apply —\n(i)the obligation of the law practice under paragraph (2) to maintain a document or record relating to the relevant matter ceases when the law practice is dissolved or the licence issued to the law practice is revoked (as the case may be); but\n(ii)the legal practitioner’s obligation under paragraph (1) to maintain that document or record continues, despite the legal practitioner ceasing to be a legal practitioner or to practise.\n(4) Despite paragraphs (1) and (2), where a legal practitioner who practises in a law practice (“Law Practice A”), and who acted in a relevant matter while practising in Law Practice A, joins a different law practice (“Law Practice B”) —\n(a)if Law Practice A (instead of the legal practitioner) continues to deal with the relevant matter, or continues to hold the documents and records relating to the relevant matter —\n(i)the legal practitioner’s obligation under paragraph (1) to maintain a document or record relating to the relevant matter ceases when the legal practitioner joins Law Practice B; but\n(ii)the obligation of Law Practice A under paragraph (2) to maintain that document or record continues;\n(b)if the legal practitioner (instead of Law Practice A) continues to deal with the relevant matter, or continues to hold the documents and records relating to the relevant matter —\n(i)the obligation of Law Practice A under paragraph (2) to maintain a document or record relating to the relevant matter ceases when the legal practitioner joins Law Practice B; but\n(ii)the legal practitioner’s obligation under paragraph (1) to maintain that document or record continues; or\n(c)if Law Practice A is dissolved, or the licence issued to Law Practice A is revoked, when the legal practitioner joins Law Practice B, and paragraph (5) does not apply —\n(i)the obligation of Law Practice A under paragraph (2) to maintain a document or record relating to the relevant matter ceases when Law Practice A is dissolved or the licence issued to Law Practice A is revoked (as the case may be); but\n(ii)the legal practitioner’s obligation under paragraph (1) to maintain that document or record continues, whether or not the legal practitioner continues to deal with the relevant matter, and whether or not the legal practitioner subsequently ceases to practise.\n(5) Despite paragraph (2), where a relevant matter in which a law practice (“Law Practice A”) acted is transferred to a different law practice (“Law Practice B”) before or when Law Practice A is dissolved, or the licence issued to Law Practice A is revoked, the obligation under that paragraph to maintain a document or record relating to the relevant matter is transferred, for the remainder of the period under that paragraph, from Law Practice A to Law Practice B together with the relevant matter."
+   }
+  },
+  {
+   "id": "SG-H3001-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 KEEPING OF RECORDS"
+   },
+   "heading": {
+    "en": "Period of maintenance of documents and records obtained through customer due diligence measures"
+   },
+   "text": {
+    "en": "20.—(1) For the purposes of section 70E(1)(b) and (3) of the Act, a legal practitioner must maintain a document or record obtained by the legal practitioner through customer due diligence measures performed under section 70C of the Act —\n(a)where the document or record is in relation to a client, for at least 5 years after the termination of the business relationship with the client; or\n(b)where the document or record is in relation to an occasional transaction, for at least 5 years after the date of that transaction.\n(2) For the purposes of section 70E(2)(b) and (3) of the Act, a law practice must maintain a document or record obtained by the law practice, or by any legal practitioner in the law practice, through customer due diligence measures performed under section 70C of the Act —\n(a)where the document or record is in relation to a client, for at least 5 years after the termination of the business relationship with the client; or\n(b)where the document or record is in relation to an occasional transaction, for at least 5 years after the date of that transaction.\n(3) Despite paragraphs (1) and (2), where a legal practitioner who practises in a law practice ceases to practise —\n(a)subject to sub-paragraph (b) —\n(i)the legal practitioner’s obligation under paragraph (1) to maintain a document or record obtained by the legal practitioner ceases when the legal practitioner ceases to practise; but\n(ii)the obligation of the law practice under paragraph (2) to maintain that document or record continues; or\n(b)if the law practice is dissolved, or the licence issued to the law practice is revoked, when the legal practitioner ceases to practise, and paragraph (5) does not apply —\n(i)the obligation of the law practice under paragraph (2) to maintain a document or record obtained by the legal practitioner ceases when the law practice is dissolved or the licence issued to the law practice is revoked (as the case may be); but\n(ii)the legal practitioner’s obligation under paragraph (1) to maintain that document or record continues, despite the legal practitioner ceasing to be a legal practitioner or to practise.\n(4) Despite paragraphs (1) and (2), where a legal practitioner who practises in a law practice (“Law Practice A”) joins a different law practice (“Law Practice B”) —\n(a)if Law Practice A (instead of the legal practitioner) continues to hold a document or record obtained by the legal practitioner through customer due diligence measures performed under section 70C of the Act —\n(i)the legal practitioner’s obligation under paragraph (1) to maintain that document or record ceases when the legal practitioner joins Law Practice B; but\n(ii)the obligation of Law Practice A under paragraph (2) to maintain that document or record continues;\n(b)if the legal practitioner (instead of Law Practice A) continues to hold a document or record obtained by the legal practitioner through customer due diligence measures performed under section 70C of the Act —\n(i)the obligation of Law Practice A under paragraph (2) to maintain that document or record ceases when the legal practitioner joins Law Practice B; but\n(ii)the legal practitioner’s obligation under paragraph (1) to maintain that document or record continues; or\n(c)if Law Practice A is dissolved, or the licence issued to Law Practice A is revoked, when the legal practitioner joins Law Practice B, and paragraph (5) does not apply —\n(i)the obligation of Law Practice A under paragraph (2) to maintain a document or record obtained by the legal practitioner ceases when Law Practice A is dissolved or the licence issued to Law Practice A is revoked (as the case may be); but\n(ii)the legal practitioner’s obligation under paragraph (1) to maintain that document or record continues, whether or not the legal practitioner subsequently ceases to practise.\n(5) Despite paragraph (2), where any matter in which a law practice (“Law Practice A”) acted is transferred to a different law practice (“Law Practice B”) before or when Law Practice A is dissolved, or the licence issued to Law Practice A is revoked, the obligation under that paragraph to maintain a document or record obtained by Law Practice A, or by any legal practitioner in Law Practice A, in relation to that matter is transferred, for the remainder of the period under that paragraph, from Law Practice A to Law Practice B together with that matter."
+   }
+  },
+  {
+   "id": "SG-H3001-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 KEEPING OF RECORDS"
+   },
+   "heading": {
+    "en": "Sufficiency of documents and records relating to relevant matters"
+   },
+   "text": {
+    "en": "21.—(1) A legal practitioner must take reasonable steps to ensure that the documents and records relating to a relevant matter in which the legal practitioner has acted are sufficient —\n(a)to substantially permit a reconstruction of the relevant matter and of any transaction relating to the relevant matter; and\n(b)if necessary, to provide evidence for the prosecution of an offence relating to the relevant matter.\n(2) A law practice must take reasonable steps to ensure that the documents and records relating to a relevant matter in which the law practice, or any legal practitioner in the law practice, has acted are sufficient —\n(a)to substantially permit a reconstruction of the relevant matter and of any transaction relating to the relevant matter; and\n(b)if necessary, to provide evidence for the prosecution of an offence relating to the relevant matter."
+   }
+  },
+  {
+   "id": "SG-H3001-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 3 KEEPING OF RECORDS"
+   },
+   "heading": {
+    "en": "Documents and records to be made available to Council"
+   },
+   "text": {
+    "en": "22.—(1) A legal practitioner must ensure that the documents and records maintained by the legal practitioner are made available to the Council or any person appointed by the Council under section 70F(1) of the Act, should the need arise.\n(2) A law practice must ensure that the documents and records maintained by the law practice are made available to the Council or any person appointed by the Council under section 70F(1) of the Act, should the need arise."
+   }
+  },
+  {
+   "id": "SG-H3001-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 NEW TECHNOLOGIES, SERVICES AND BUSINESS PRACTICES"
+   },
+   "heading": {
+    "en": "Identification and assessment of risks from new technologies, etc."
+   },
+   "text": {
+    "en": "23. A legal practitioner or law practice must identify and assess the risks of money laundering, the financing of terrorism and proliferation financing that may arise in relation to —\n(a)the development of any new service or new business practice (including any new delivery mechanism for any new or existing service); and\n(b)the use of any new or developing technology for any new or existing service.\n[S 473/2025 wef 01/07/2025]"
+   }
+  },
+  {
+   "id": "SG-H3001-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 NEW TECHNOLOGIES, SERVICES AND BUSINESS PRACTICES"
+   },
+   "heading": {
+    "en": "Management and mitigation of risks from new technologies, etc."
+   },
+   "text": {
+    "en": "24. A legal practitioner or law practice must —\n(a)before offering any new service or starting any new business practice referred to in rule 23(a), or using any new or developing technology referred to in rule 23(b), undertake an assessment of the risks of money laundering, the financing of terrorism and proliferation financing that may arise in relation to the offering of that service, the starting of that business practice or the use of that technology; and\n[S 473/2025 wef 01/07/2025]\n(b)take appropriate measures to manage and mitigate those risks."
+   }
+  },
+  {
+   "id": "SG-H3001-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Basis for determination whether to file suspicious transaction report"
+   },
+   "text": {
+    "en": "25. A legal practitioner or law practice must document the basis for the legal practitioner’s or law practice’s determination whether to file a suspicious transaction report with a Suspicious Transaction Reporting Officer, a police officer or a Commercial Affairs Officer."
+   }
+  },
+  {
+   "id": "SG-H3001-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Powers of inspection by Council"
+   },
+   "text": {
+    "en": "26.—(1) A requirement of the Council for a legal practitioner, or a sole proprietor, partner or director of a law practice, to produce any document or provide any information or explanation under section 70F(1) of the Act —\n(a)must be made in writing by a member of the Council; and\n(b)may be served —\n(i)by delivering the requirement to the legal practitioner or the sole proprietor, partner or director of the law practice;\n[S 473/2025 wef 01/07/2025]\n(ii)by sending the requirement by registered post to the usual or last known address, as maintained by the Society, of the legal practitioner or the sole proprietor, partner or director of the law practice; or\n[S 473/2025 wef 01/07/2025]\n(iii)by sending the requirement by electronic mail to any electronic mail address given to the Society by the legal practitioner, or the sole proprietor, partner or director of the law practice, with his or her consent to be served the requirement in that way.\n[S 473/2025 wef 01/07/2025]\n(2) Before appointing a person under section 70F(1) of the Act, the Council must consider any objection to the appointment of that person, on personal or other proper grounds, made by the legal practitioner or the sole proprietor, partner or director of the law practice."
+   }
+  },
+  {
+   "id": "SG-H3001-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Prescribed types of disciplinary proceedings"
+   },
+   "text": {
+    "en": "27.—(1) The disciplinary proceedings that may be taken, for a contravention of Part 5A of the Act, against an advocate and solicitor who has in force a practising certificate at the time of the contravention are disciplinary proceedings under Part 7 of the Act.\n[S 636/2024 wef 31/12/2021]\n(2) The disciplinary proceedings that may be taken, for a contravention of Part 5A of the Act, against an advocate and solicitor who is a director, a partner, a consultant or an employee of a law practice, but does not have in force a practising certificate at the time of the contravention, are disciplinary proceedings under section 82A of the Act.\n[S 636/2024 wef 31/12/2021]\n(3) The disciplinary proceedings that may be taken, for a contravention of Part 5A of the Act, against a foreign lawyer who is a regulated foreign lawyer at the time of the contravention are disciplinary proceedings under Part 7 of the Act.\n[S 697/2015 wef 18/11/2015]\n[S 636/2024 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H3001-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Prescribed types of regulatory actions"
+   },
+   "text": {
+    "en": "28.—(1) The regulatory actions that may be taken, for a contravention of Part 5A of the Act, against any law firm are the regulatory actions under section 133 of the Act.\n[S 636/2024 wef 31/12/2021]\n(2) The regulatory actions that may be taken, for a contravention of Part 5A of the Act, against any limited liability law partnership are the regulatory actions under section 145 of the Act.\n[S 636/2024 wef 31/12/2021]\n(3) The regulatory actions that may be taken, for a contravention of Part 5A of the Act, against any law corporation are the regulatory actions under section 161 of the Act.\n[S 636/2024 wef 31/12/2021]\n(4) The regulatory actions that may be taken, for a contravention of Part 5A of the Act, against any Qualifying Foreign Law Practice or licensed foreign law practice are the regulatory actions under section 175 of the Act.\n[S 636/2024 wef 31/12/2021]\n(5) The regulatory actions that may be taken, for a contravention of Part 5A of the Act, against a Joint Law Venture, the constituent foreign law practice of a Joint Law Venture, a Formal Law Alliance or a foreign law practice which is a member of the Formal Law Alliance are the regulatory actions under section 174 of the Act.\n[S 697/2015 wef 18/11/2015]\n[S 636/2024 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H3001-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Practice directions, guidance notes and rulings"
+   },
+   "text": {
+    "en": "29. To the extent of any inconsistency, these Rules prevail over any practice directions, guidance notes and rulings issued by the Council in respect of any matter relating to these Rules."
+   }
+  },
+  {
+   "id": "SG-H3001-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Savings and transitional provision"
+   },
+   "text": {
+    "en": "30. Anything done by the Council, or by a member of the Council, under rule 11I of the Legal Profession (Professional Conduct) Rules (R 1) as in force immediately before 23 May 2015 is, on and after that date, to be treated as done under section 70F of the Act read with rule 26."
+   }
+  }
+ ]
+}

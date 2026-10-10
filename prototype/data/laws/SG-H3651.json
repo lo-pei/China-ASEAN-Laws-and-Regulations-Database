@@ -1,0 +1,772 @@
+{
+ "id": "SG-H3651",
+ "title": {
+  "zh": null,
+  "en": "Singapore Examinations and Assessment Board Act 2003",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p46",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act SEABA2003",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 47,
+ "chars": 26875,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/SEABA2003?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 47 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 8 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3651-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Singapore Examinations and Assessment Board Act 2003."
+   }
+  },
+  {
+   "id": "SG-H3651-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“assessment” means any test, examination or other method of assessing the level of proficiency, aptitude, skill, knowledge or understanding of a person in any subject matter, other than any of the national examinations;\n“Board” means the Singapore Examinations and Assessment Board established under section 3;\n“Chairperson” means the Chairperson of the Board, and includes a temporary Chairperson of the Board;\n“chief executive” means the chief executive of the Board, and includes any individual acting in that capacity;\n“Examinations Division” means the department in the Ministry of Education known as the Examinations Division;\n“member” means a member of the Board, and includes a temporary member of the Board;\n“national examinations” means the examinations specified in the Schedule.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3651-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF BOARD"
+   },
+   "heading": {
+    "en": "Establishment and incorporation of Singapore Examinations and Assessment Board"
+   },
+   "text": {
+    "en": "3. A body called the Singapore Examinations and Assessment Board is established, which is a body corporate with perpetual succession and is by that name capable of —\n(a)suing and being sued;\n(b)acquiring, owning, holding and developing, or disposing of property, both movable and immovable; and\n(c)doing and suffering any other acts or things that bodies corporate may lawfully do and suffer."
+   }
+  },
+  {
+   "id": "SG-H3651-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF BOARD"
+   },
+   "heading": {
+    "en": "Common seal"
+   },
+   "text": {
+    "en": "4.—(1) The Board must have a common seal and the seal may be broken, changed, altered or made anew as the Board thinks fit.\n(2) All deeds and other documents requiring the seal of the Board must be sealed with the common seal of the Board.\n(3) All instruments to which the common seal is affixed must be signed by any 2 members generally or specially authorised by the Board for the purpose or by one member and the chief executive.\n(4) The Board may, by resolution or otherwise in writing, appoint any officer of the Board or any other agent either generally or in any particular case to execute or sign on behalf of the Board any agreement or other instrument not under seal in relation to any matter coming within the powers of the Board.\n(5) All courts, judges and persons acting judicially are to take judicial notice of the common seal of the Board affixed to any document and presume that it was duly affixed."
+   }
+  },
+  {
+   "id": "SG-H3651-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF BOARD"
+   },
+   "heading": {
+    "en": "Membership of Board"
+   },
+   "text": {
+    "en": "5.—(1) The Board consists of —\n(a)a Chairperson; and\n(b)not less than 6 but not more than 9 other members,\nall of whom are to be appointed by the Minister.\n(2) The Minister may appoint the chief executive to be a member."
+   }
+  },
+  {
+   "id": "SG-H3651-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF BOARD"
+   },
+   "heading": {
+    "en": "Chairperson may delegate functions"
+   },
+   "text": {
+    "en": "6. The Chairperson may, in writing, authorise any member to exercise any power or perform any function conferred on the Chairperson by or under this Act."
+   }
+  },
+  {
+   "id": "SG-H3651-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF BOARD"
+   },
+   "heading": {
+    "en": "Term of office of members"
+   },
+   "text": {
+    "en": "7.—(1) A member holds office on such conditions and for such term, not exceeding 3 years, as the Minister specifies in the appointment, and may be re‑appointed.\n(2) Any member may, at any time, by written notice to the Minister resign from office.\n(3) The Minister may, at any time, revoke the appointment of any member without giving any reason.\n(4) If a member dies or resigns or has his or her appointment revoked, the Minister may appoint any person to fill the vacancy for the remainder of the term for which the vacating member was appointed.\n(5) The Board is to pay to the Chairperson and other members, out of the funds of the Board, such salaries, fees and allowances as the Minister may determine."
+   }
+  },
+  {
+   "id": "SG-H3651-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF BOARD"
+   },
+   "heading": {
+    "en": "Temporary Chairperson, etc."
+   },
+   "text": {
+    "en": "8. The Minister may appoint any person to be a temporary Chairperson or temporary member during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairperson or any member, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H3651-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF BOARD"
+   },
+   "heading": {
+    "en": "Meetings and proceedings of Board"
+   },
+   "text": {
+    "en": "9.—(1) At all meetings of the Board, a simple majority of the members forms a quorum.\n(2) The Chairperson presides at all meetings of the Board and, in the Chairperson’s absence, the members present must elect one of their number to preside.\n(3) Meetings of the Board must be held at such times and places as the Chairperson may determine.\n(4) All questions arising at any meeting must be decided by a majority of votes of the members present and voting.\n(5) At any meeting of the Board, the Chairperson has a deliberative vote and, in the case of an equality of votes, the Chairperson or, in the Chairperson’s absence, the member presiding has a casting vote.\n(6) The validity of any proceedings of the Board is not affected by any vacancy among its members or by any defect in the appointment of any member.\n(7) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Board may regulate its own proceedings.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3651-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF BOARD"
+   },
+   "text": {
+    "en": "10. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3651-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS, DUTIES AND POWERS OF BOARD"
+   },
+   "heading": {
+    "en": "Functions and duties of Board"
+   },
+   "text": {
+    "en": "11.—(1) Subject to the provisions of this Act, the functions and duties of the Board are —\n(a)to develop and devise national examinations which would support and promote the goals and objectives of Singapore’s education system;\n(b)to organise and conduct the national examinations;\n(c)to serve as the examining authority for any of the national examinations or such modules or components of any of the national examinations as the Board may, in consultation with the Minister, determine;\n(d)to publish and disseminate information on matters relating to the functions and duties of the Board; and\n(e)to carry out such other functions and duties as are imposed upon the Board under this Act or any other written law.\n(2) In addition to the functions and duties imposed under subsection (1), the Board may —\n(a)on terms that may be mutually agreed upon —\n(i)organise and conduct any assessment for or on behalf of the Government or any other person or body in Singapore or elsewhere and serve as the examining authority for the assessment; and\n(ii)provide advisory and consultancy services and training to the Government or any other person or body in Singapore or elsewhere on matters relating to the national examinations and assessments generally; and\n(b)undertake any other functions assigned by the Minister to the Board,\nand in so doing, the Board is deemed to be fulfilling the purposes of this Act, and the provisions of this Act apply to the Board in respect of those functions.\n(3) Nothing in this section is to be construed as imposing on the Board, directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject."
+   }
+  },
+  {
+   "id": "SG-H3651-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS, DUTIES AND POWERS OF BOARD"
+   },
+   "heading": {
+    "en": "Powers of Board"
+   },
+   "text": {
+    "en": "12.—(1) The Board has power to do anything for the purpose of discharging its functions and duties under this Act or any other written law, or which is necessary, incidental or conducive to the discharge of those functions and duties and, in particular, may —\n(a)engage in or commission research pursuant to and in matters connected with or relevant to the functions and duties of the Board under this Act;\n(b)determine, with the approval of the Minister, and collect, the fees to be paid by candidates for any of the national examinations;\n(c)impose —\n(i)fees or commissions for services rendered by the Board, including the conduct of any assessment at the request of the Government or any other person or body in Singapore or elsewhere and for the use of any facilities of the Board; and\n(ii)charges for the late payment of any such fee or commission;\n[Act 4 of 2008 wef 01/04/2024]\n(d)with the approval of the Minister, form or participate in the formation of any company, partnership or joint venture as a shareholder or partner or in any other capacity and to share profits;\n(e)become a member or affiliate of any international body the functions, objects or duties of which are similar to those of the Board;\n(f)enter into any contracts necessary or expedient for the purpose of discharging its functions or duties;\n(g)acquire or dispose of, in accordance with the provisions of this Act, any property, whether movable or immovable, which the Board thinks necessary or expedient for the purpose of carrying out its functions or duties;\n(h)receive grants, donations, gifts, subsidies or contributions from any source, or raise funds by all lawful means and apply such funds for any of its functions or duties;\n(i)grant loans to any officer or employee of the Board for such purposes specifically approved by the Board as are likely to increase the efficiency of the officer or employee;\n(j)provide recreational facilities and promote recreational activities for, and activities conducive to, the welfare of officers and employees of the Board and members of their families;\n(k)provide for gratuities, pensions, allowances or other benefits for officers or employees, or former officers or employees, of the Board or its predecessors;\n(l)provide financial support, grant, aid or assistance to any person or organisation for all or any of the purposes of this Act or any other written law; and\n(m)provide training, whether by itself or with the cooperation of other persons or bodies as the Board thinks fit, for officers or employees of the Board or any other person who assists the Board in carrying out its functions and duties, and award scholarships or otherwise pay for the training.\n[S 461/2020]\n(2) In subsection (1)(d), “company” has the meaning given by section 4(1) of the Companies Act 1967.\n[S 461/2020]"
+   }
+  },
+  {
+   "id": "SG-H3651-A12.001",
+   "no": 12.001,
+   "noLabel": {
+    "en": "12A."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS, DUTIES AND POWERS OF BOARD"
+   },
+   "heading": {
+    "en": "Validation of collection of charge for late payment of fee or commission"
+   },
+   "text": {
+    "en": "12A. Every amount collected before the date of commencement of the Statutes (Miscellaneous Amendments) Act 2008 as, or purportedly as, a charge for the late payment of any fee or commission referred to in section 12(c)1 shall be deemed to be and always to have been validly collected, and no legal proceedings shall lie or be instituted or maintained in any court of law on account of or in respect of any such collection.\n1 Section 12(c) is to be read as section 12(1)(c) of the Singapore Examinations and Assessment Board Act 2003 as amended by S 461/2020.\n[Act 4 of 2008 wef 01/04/2024]"
+   }
+  },
+  {
+   "id": "SG-H3651-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS, DUTIES AND POWERS OF BOARD"
+   },
+   "heading": {
+    "en": "Directions by Minister"
+   },
+   "text": {
+    "en": "13. The Minister may give to the Board any direction under section 5 of the Public Sector (Governance) Act 2018.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3651-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS, DUTIES AND POWERS OF BOARD"
+   },
+   "heading": {
+    "en": "Committees"
+   },
+   "text": {
+    "en": "14.—(1) The Board may appoint, alter or discharge committees, each consisting of one or more persons (whether members or not), and define or vary the terms of reference of those committees.\n(2) Subject to this Act and the Public Sector (Governance) Act 2018 and to the control of the Board, each committee appointed under this section may regulate its procedure in any manner that the committee thinks fit.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3651-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS, DUTIES AND POWERS OF BOARD"
+   },
+   "heading": {
+    "en": "Delegation of powers"
+   },
+   "text": {
+    "en": "15.—(1) The Board may, in respect of a specified matter or class of matters, by writing, delegate to a member, officer or committee of the Board or agent any of its functions or powers under this Act or under any other written law.\n[5/2018]\n(2) Every member, officer, committee or agent purporting to act pursuant to a delegation under this section is presumed, in the absence of proof to the contrary, to be acting in accordance with the terms of the delegation."
+   }
+  },
+  {
+   "id": "SG-H3651-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 4 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Chief executive, officers and employees, etc."
+   },
+   "text": {
+    "en": "16.—(1) There must be a chief executive of the Board, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.\n[5/2018]\n(2) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the chief executive during any period, or during all periods, when the chief executive —\n(a)is absent from duty or Singapore; or\n(b)is, for any reason, unable to perform the duties of the office.\n[5/2018]\n(3) The Board may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3651-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Protection from personal liability"
+   },
+   "text": {
+    "en": "17.—(1) No suit or other legal proceedings shall lie personally against any member, officer or employee of the Board or other person acting under the direction of the Board for anything which is in good faith done or intended to be done in the execution or purported execution of this Act or any other written law.\n(2) Where the Board provides a service to the public whereby information is supplied to the public pursuant to any written law, neither the Board nor any of its members, officers or employees involved in the supply of the information shall be liable for any loss or damage suffered by any member of the public by reason of any error or omission of any nature appearing therein or however caused, if made in good faith and in the ordinary course of the discharge of the duties of the member, officer or employee."
+   }
+  },
+  {
+   "id": "SG-H3651-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 PROVISIONS RELATING TO STAFF"
+   },
+   "text": {
+    "en": "18. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3651-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Financial year"
+   },
+   "text": {
+    "en": "19. The financial year of the Board begins on 1 April of each year and ends on 31 March of the succeeding year."
+   }
+  },
+  {
+   "id": "SG-H3651-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "20. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3651-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Funds of Board"
+   },
+   "text": {
+    "en": "21. The funds of the Board consist of —\n(a)all moneys transferred to the Board under section 32;\n(b)all moneys received by the Board by way of grants or subsidies;\n(c)all gifts, donations and contributions to the Board;\n(d)all fees, charges, commissions, rents, interests, dividends and other income accruing to the Board;\n(e)all moneys borrowed by the Board under this Act;\n(f)all moneys recovered or collected by the Board or any officer or employee thereof (including sums collected for the composition of offences) under this Act or any other written law administered by the Board; and\n(g)all other moneys lawfully received by the Board for the purposes of the Board."
+   }
+  },
+  {
+   "id": "SG-H3651-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Grants"
+   },
+   "text": {
+    "en": "22. For the purpose of enabling the Board to carry out its functions under this Act, the Minister may make grants to the Board of such sums of money, as the Minister may determine, out of moneys to be provided by Parliament."
+   }
+  },
+  {
+   "id": "SG-H3651-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Power to borrow"
+   },
+   "text": {
+    "en": "23. For the discharge of its functions or duties under this Act or any other written law, the Board may raise loans from the Government or, with the approval of the Minister for Finance, raise loans from banks or other financial institutions (whether in Singapore or elsewhere) by —\n(a)mortgage, overdraft or otherwise;\n(b)charge, whether legal or equitable, on any property vested in the Board or on any other revenue receivable by the Board under this Act or any other written law; or\n(c)the creation and issue of debentures or bonds."
+   }
+  },
+  {
+   "id": "SG-H3651-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Issue of shares, etc."
+   },
+   "text": {
+    "en": "24. As a consequence of —\n(a)the vesting of any property, rights or liabilities of the Government in the Board under this Act; or\n(b)any capital injection or other investment by the Government in the Board in accordance with any written law,\nthe Board must issue such shares or other securities to the Minister for Finance as that Minister may direct."
+   }
+  },
+  {
+   "id": "SG-H3651-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Bank accounts"
+   },
+   "text": {
+    "en": "25.—(1) The Board must open and maintain one or more accounts with such bank or banks as the Board thinks fit.\n(2) Every such account must be operated by such person authorised to do so by the Board."
+   }
+  },
+  {
+   "id": "SG-H3651-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Application of moneys"
+   },
+   "text": {
+    "en": "26. The moneys of the Board must be applied only in payment or discharge of the expenses, obligations and liabilities of the Board and in making any payment that the Board is authorised or required to make."
+   }
+  },
+  {
+   "id": "SG-H3651-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Power of investment"
+   },
+   "text": {
+    "en": "27. The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965."
+   }
+  },
+  {
+   "id": "SG-H3651-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "28. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3651-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "29. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3651-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "30. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3651-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "31. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3651-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Transfer to Board of property, assets and liabilities"
+   },
+   "text": {
+    "en": "32.—(1) As from 1 April 2004 —\n(a)such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by the Examinations Division;\n(b)all moneys in the Examinations Fund; and\n(c)all assets, interests, rights, privileges, liabilities and obligations of the Government relating to the Examinations Division,\nare transferred to and vest in the Board without further assurance, act or deed.\n(2) If any question arises as to whether any particular property, asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Board under subsection (1), a certificate under the hand of the Minister for Finance is conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.\n(3) Any immovable property to be transferred to and vested in the Board under subsection (1) must be held by the Board upon such tenure and subject to such terms and conditions as the President may determine.\n(4) Every proceedings in respect of the transferred properties by or against the Government which are pending on 1 April 2004 may be continued, completed and enforced by or against the Board.\n(5) Every agreement relating to any of the transferred properties to which the Government was a party immediately before 1 April 2004, whether or not of such nature that the rights and liabilities thereunder could be assigned, has effect as from that date as if —\n(a)the Board had been a party to such an agreement; and\n(b)for any reference to the Government there were substituted in respect of anything to be done on or after 1 April 2004 a reference to the Board.\n(6) In this section, “Examinations Fund” means the Fund established under regulation 90(1) of the Education (Schools) Regulations."
+   }
+  },
+  {
+   "id": "SG-H3651-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Transfer of employees"
+   },
+   "text": {
+    "en": "33.—(1) As from 1 April 2004, such persons or categories of persons as the Minister may determine who, immediately before that date, were employed by the Government in the Examinations Division are transferred to the service of the Board on terms no less favourable than those enjoyed by them immediately prior to their transfer.\n(2) If any question arises as to whether any person or category of persons has been transferred to the service of the Board under subsection (1), a certificate under the hand of the Minister is conclusive evidence that the person or category of persons was or was not so transferred.\n(3) Until such time as terms and conditions of service are drawn up by the Board, the scheme and terms and conditions of service in the Government continue to apply to every person transferred to the service of the Board under subsection (1) as if he or she were still in the service of the Government."
+   }
+  },
+  {
+   "id": "SG-H3651-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Pension rights, etc., of Government employees to be preserved"
+   },
+   "text": {
+    "en": "34.—(1) The terms and conditions to be drawn up by the Board must take into account the terms and conditions of service (including salaries and accrued rights to leave) enjoyed by the persons transferred to the service of the Board under section 33 while in the employment of the Government.\n(2) Any term or condition relating to the length of service with the Board must recognise the length of service of the persons so transferred while in the employment of the Government to be service with the Board.\n(3) Nothing in the terms and conditions to be drawn up by the Board adversely affects the conditions that would have been applicable to persons transferred to the service of the Board as regards any pension, gratuity or allowance payable under the Pensions Act 1956.\n(4) Where a person has been transferred to the service of the Board under section 33, the Government is liable to pay to the Board such portion of any pension, gratuity or allowance payable to the person on his or her retirement as the same bears to the proportion which the aggregate amount of the person’s pensionable emoluments during his or her service with the Government bears to the aggregate amount of his or her pensionable emoluments during his or her service under both the Government and the Board.\n(5) Where any person in the service of the Board, whose case does not fall within the scope of any pension or other schemes established under this section, retires or dies in the service of the Board or is discharged from such service, the Board may grant to him or her or to such other person wholly or partly dependent on him or her, as the Board thinks fit, such allowance or gratuity as the Board may determine."
+   }
+  },
+  {
+   "id": "SG-H3651-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "No benefits in respect of abolition or reorganisation of office"
+   },
+   "text": {
+    "en": "35. Despite the provisions of the Pensions Act 1956, a person who is transferred to the service of the Board under section 33 is not entitled to claim any benefit under that Act on the ground that he or she has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Board."
+   }
+  },
+  {
+   "id": "SG-H3651-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Existing contracts"
+   },
+   "text": {
+    "en": "36. All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1 April 2004 to which the Government is a party and relating to the Examinations Division or to any person transferred to the service of the Board under section 33 continue in force on and after that date and are enforceable by or against the Board as if the Board had been named therein or had been a party thereto instead of the Government."
+   }
+  },
+  {
+   "id": "SG-H3651-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Continuation and completion of disciplinary proceedings and other legal proceedings"
+   },
+   "text": {
+    "en": "37.—(1) Where, on 1 April 2004, any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Board, the proceedings must be carried on and completed by the Board.\n(2) Where, on 1 April 2004, any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or direction had been made thereon, the committee must complete the hearing or investigation and must make such order, ruling or direction as it could have made under the authority vested in it before that date.\n(3) Any order, ruling or direction made by a committee under this section is to be treated as an order, a ruling or a direction of the Board and has the same force or effect as if it had been made by the Board pursuant to the authority vested in the Board under this Act.\n(4) All proceedings or causes of action pending or existing immediately before 1 April 2004 by or against the Government in respect of the Examinations Division may be continued, completed and enforced by or against the Board."
+   }
+  },
+  {
+   "id": "SG-H3651-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Misconduct or neglect of duty by employee before transfer"
+   },
+   "text": {
+    "en": "38. The Board may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person who had, while the person was in the service of the Government, been guilty of any misconduct or neglect of duty which would have rendered him or her liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he or she had continued to be in the service of the Government, and if this Act had not been enacted."
+   }
+  },
+  {
+   "id": "SG-H3651-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "text": {
+    "en": "39. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3651-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Symbol or representation of Board"
+   },
+   "text": {
+    "en": "40.—(1) The Board has the exclusive right to the use of such symbol or representation as the Board may select or devise and to display or exhibit the symbol or representation in connection with its activities or affairs.\n(2) Any person who uses a symbol or representation —\n(a)identical with that of the Board; or\n(b)which so resembles that of the Board as to deceive or cause confusion, or be likely to deceive or cause confusion,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H3651-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Preservation of secrecy"
+   },
+   "text": {
+    "en": "41.—(1) Except for the purpose of the performance of his or her duties or the exercise of his or her functions or when lawfully required to do so by any court or where required or allowed by any written law, a person who is or has been —\n(a)a member, officer, employee or agent of the Board; or\n(b)a member of a committee of the Board,\nmust not disclose any information relating to the affairs of the Board or of any other person which has been obtained by him or her in the performance of his or her duties or the exercise of his or her functions.\n[5/2018]\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 24 months or to both."
+   }
+  },
+  {
+   "id": "SG-H3651-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Corporate offenders and unincorporated associations"
+   },
+   "text": {
+    "en": "42.—(1) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer of the body corporate, the officer as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.\n(2) Where the affairs of the body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with the member’s functions of management as if the member were a director of the body corporate.\n(3) Where an offence under this Act committed by a partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, the partner as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.\n(4) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer of the association or a member of its governing body, the officer or member as well as the association shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.\n(5) In this section —\n“officer” —\n(a)in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate or a person purporting to act in any such capacity; or\n(b)in relation to an unincorporated association (other than a partnership), means the president, the secretary and members of the committee of the association and includes persons holding positions analogous to that of president, secretary or member of a committee;\n“partner” includes a person purporting to act as a partner."
+   }
+  },
+  {
+   "id": "SG-H3651-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "43.—(1) The chief executive or any officer authorised by the chief executive may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $1,000.\n(2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence."
+   }
+  },
+  {
+   "id": "SG-H3651-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Amendment of Schedule"
+   },
+   "text": {
+    "en": "44. The Minister may, by notification in the Gazette, amend the Schedule."
+   }
+  },
+  {
+   "id": "SG-H3651-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "45.—(1) The Board may, with the approval of the Minister, make regulations necessary or expedient to give effect to the provisions and purposes of this Act.\n(2) Without limiting subsection (1), the Board may make regulations for the following purposes:\n(a)regulating the proceedings of the Board or of the committees of the Board, to the extent not inconsistent with the Public Sector (Governance) Act 2018;\n(b)prescribing the fees and charges for the purposes of this Act;\n(c)regulating the conduct of the national examinations and any assessment conducted by the Board under this Act;\n(d)prescribing the offences that may be compounded under this Act.\n[5/2018]\n(3) The regulations may provide that a contravention of those regulations shall be punishable with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both and, in the case of a continuing offence, with a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H3651-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nSections 2 and 44\nNational Examinations\n1. Primary School Leaving Examination (PSLE)\n2. Singapore‑Cambridge GCE ‘O’‑Level Examination\n3. Singapore‑Cambridge GCE ‘N’‑Level Examination\n4. Singapore‑Cambridge GCE ‘A’‑Level Examination"
+   }
+  }
+ ]
+}

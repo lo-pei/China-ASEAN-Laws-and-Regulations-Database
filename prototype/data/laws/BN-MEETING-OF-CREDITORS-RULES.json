@@ -1,0 +1,358 @@
+{
+ "id": "BN-MEETING-OF-CREDITORS-RULES",
+ "title": {
+  "zh": null,
+  "en": "Meeting of Creditors Rules",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p13",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 26,
+ "chars": 8705,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "meeting-of-creditors-rules.pdf",
+ "fetchedAt": "2026-10-09",
+ "completenessNote": "来源为 AGC 官方 PDF《meeting-of-creditors-rules.pdf》（6 页），本次切分 26 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "These rules may be cited as the Meetings of Creditors Rules."
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "In these rules \"the Act\" means the Bankruptcy Act. tion"
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "heading": {
+    "en": "of creditors"
+   },
+   "text": {
+    "en": "The first meeting of creditors shall be summoned for a day not of creditors 14 days after the date of the receiving order, unless the Court for any special reason deems it expedient that the meeting be sumday-:· of first 4. The Official Receiver shall summon the meeting by giving not less than 4 clear days' notice of the time and place thereof in the Gazette and in a local paper."
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "heading": {
+    "en": "of affairs"
+   },
+   "text": {
+    "en": "The Official Receiver shall also as soon as practicable send to each creditor mentioned in the debtor's statement of affairs a notice of the time and place of the first meeting of creditors, but the proceedings at the first meeting shall not be invalidated by reason of any such notice not having been sent or received before the meeting."
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "heading": {
+    "en": "to be held at office of Official Receiver"
+   },
+   "text": {
+    "en": "The meeting shall be held at the office of the Official Receiver. of Official"
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "heading": {
+    "en": "of meetings of creditors"
+   },
+   "text": {
+    "en": "The Official Receiver or the trustee may at any time summon a meeting of creditors, and shall do so whenever so directed by the Court or so requested by a creditor in accordance with the provisions of the of meetings Act. CAP. 67 111 ! Subsidiary J"
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "heading": {
+    "en": "to be given for meetings other than first meeting"
+   },
+   "text": {
+    "en": "Meetings subsequent to the first meeting shall be summoned by Notice to be of the time and place thereof to each creditor at the given for address given in his proof, or if he has not proved, at the address given meetings than in the debtor's statement of affairs, or at such other address as may be first meeting known to the person summoning the meeting."
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "text": {
+    "en": "The Official Receiver or some person nominated by him shall be Chairman the chairman at the first meeting, and at subsequent meetings until the of a trustee other than the Official Receiver, when such trustee shall be chairman."
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "text": {
+    "en": "A person shall not be entitled to vote as a creditor at the first or Voting any other meeting of creditors unless he has duly proved a debt provable in bankruptcy to be due to him from the debtor and the proof has been duly lodged 24 hours at least before the time appointed for the meeting."
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "heading": {
+    "en": "not to vote if debt not ascertained"
+   },
+   "text": {
+    "en": "A creditor shall not vote at any such meeting in respect of any Creditor not or contingent debt or any debt the value of which is not ~~~~~~~~-debt"
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "heading": {
+    "en": "Voting by secured creditors"
+   },
+   "text": {
+    "en": "For the purpose of voting, a secured creditor shall, unless he Voting by sesurrenders his security, state in his proof the particulars of his security, cured credithe date when it was given and the value at which he assesses it, and tors shall be entitled to vote only in respect of the balance (if any) due to him after deducting the value of his security. If he votes in respect of his whole debt he shall be deemed to have surrendered his security unless on application is satisfied that the omission to value the security has arisen from inadvertence."
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "heading": {
+    "en": "Voting by creditors having debts secured by bills of exchange,"
+   },
+   "text": {
+    "en": "A creditor shall not vote in respect of any debt on or secured by a Voting by . of exchange or promissory note held by him unless he is creditors havwilling to treat the liability to him thereon of every person who is liable cured by bills thereon antecedently to the debtor, and against whom a receiving order of exchange, etc. has not been made, as a security in his hands and to estimate the value thereof and for the purposes of voting, but not for the purposes of dividend, to deduct it from his proof."
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "heading": {
+    "en": "-15. order against partner"
+   },
+   "text": {
+    "en": "It shall be competent to the trustee or to the Official Receiver, Valuation of 28 days after a proof estimating the value of a security as men-securities in rule 13 has been made use of in voting at any meeting, to require the creditor to give up the security for the benefit of the credion payment of the value so estimated, with an addition 20 per cent: Provided that where a creditor has put a value on such security he may, at any time before he has been required to give up such security as aforesaid, correct such valuation by a new proof and deduct such new value from his debt, but in that case such addition of 20 per cent shall not be made if the trustee requires the security to be given up."
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "text": {
+    "en": "If a receiving order is made against one partner of a firm, any - against creditor to whom that partner is indebted jointly with the other partners or any of them, may prove his debt for the purpose of voting of creditors and shall be entitled to vote thereat. of 16. The chairman of a meeting shall have power of admit or reject a proof for the purpose of voting but his decision shall be subject to appeal to the Court. If he is in doubt whether the proof of a creditor should be admitted or rejected he shall mark the proof as objected to and shall allow the creditor to vote, subject to the vote being declared invalid in the event of the objection being sustained."
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "heading": {
+    "en": "may vote by proxy"
+   },
+   "text": {
+    "en": "A creditor may vote either in person or by proxy. vote by proxy of 18. Every instrument of proxy shall be in the prescribed form and by the Official Receiver or, after the appointment of a by the trustee, and every insertion therein shall be in the handwriting of the person giving the proxy, or of any manager or clerk or in his regular employment, or of any person authorised to administer oaths or of the Official Receiver. ;: of 19. General and special forms of proxy shall be sent to the creditors together with a notice summoning a meeting of creditors, and neither the name nor the description of the Official Receiver or of any other of person shall be printed or inserted in the body of any instrument of proxy before it is so sent."
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "heading": {
+    "en": "proxy"
+   },
+   "text": {
+    "en": "A creditor may give a general proxy to his manager or clerk or any other person in his regular employment or to his advocate or solicitor. In such case the instrument of proxy shall state the relation in which the person to act thereunder stands to the creditor."
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "text": {
+    "en": "A creditor may give a special proxy to any person to vote at any specified meeting or adjournment thereof on all or any of the following\n\n(a) for or against any specific proposal for a composition or scheme of arrangement;\n\n(b) for or against the appointment of any specified person or as member of the committee of inspection, or for or against the continuance in office of any specified peror member of a committee of inspection;\n\n(c) on all questions relating to any matter other than those above referred to, arising at any specified meeting or ad~ journment thereof."
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "heading": {
+    "en": "Proxies to be deposited"
+   },
+   "text": {
+    "en": "A proxy shall not be used unless it is deposited with the Official Proxies to be or trustee 24 hours before the meeting at which it is to be used. deposited"
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "text": {
+    "en": "Where it appears to the satisfaction of the Court that any solicita-Solicited tion has been used by or on behalf of a trustee or receiver in obtaining proxies or in procuring the trusteeship or receivership, except by the of a meeting of creditors, the Court shall have power, if it thinks fit, to order that no remuneration shall-be allowed to the person or on whose behalf such solicitation may have been exercised, notwithstanding any resolution of the committee of inspection or of the creditors to the contrary."
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "heading": {
+    "en": "Official Receiver may act as proxy"
+   },
+   "text": {
+    "en": "A creditor may appoint the Official Receiver to act in manner Official Represcribed as his general or special proxy."
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "heading": {
+    "en": "Adjournment of meetings"
+   },
+   "text": {
+    "en": "The chairman of a meeting may, with the consent of the meeting, Adjournment adjourn the meeting from time to time and from place to place. of meetings"
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "text": {
+    "en": "A meeting shall not be competent to act for any purpose, except Quorum of a chairman, the proving of debts and the adjournment of the meeting, unless there are present or represented thereat at least 3 or all the creditors if their number does not exceed 3."
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "heading": {
+    "en": "Absence of quorum -"
+   },
+   "text": {
+    "en": "If within half an hour from the time appointed for the meeting a Absence of of creditors is not present or represented, the meeting shall be quorum adjourned to the same day in the following week at the same time and or to such other day as the chairman may appoint, being not less than 7 nor more than 21 days after the day first appointed."
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "heading": {
+    "en": "Minutes of meetings"
+   },
+   "text": {
+    "en": "The chairman of every meeting shall cause minutes of the pro-Minutes of ceedings at the meeting to be drawn up and fairly entered in a record meetings kept for that purpose and the minutes shall be signed by him or by the of the next ensuing meeting."
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "heading": {
+    "en": "on voting by proxy"
+   },
+   "text": {
+    "en": "No person acting under either a general or a special proxy shall Restrictions of any resolution which would directly or indirectly place ~~o:~ting by himself or his partner or employer in a position to receive any remuneration out of the estate of the debtor otherwise than as a creditor rateably with the other creditors of the debtor: Provided that where any person holds special proxies to vote for the appointment of himself as trustee he may use the said proxies and vote accordingly."
+   }
+  },
+  {
+   "id": "BN-MEETING-OF-CREDITORS-RULES-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "heading": {
+    "en": "Commencement: 1st January 1957"
+   },
+   "text": {
+    "en": "The vote of the trustee or of his partner, clerk, advocate or solicitor or solicitor's clerk, either as creditor or as proxy for a creditor, shall vote in the majority required for passing any resolution affecting the conduct of the trustee ."
+   }
+  }
+ ]
+}

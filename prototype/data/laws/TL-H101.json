@@ -1,0 +1,68 @@
+{
+ "id": "TL-H101",
+ "title": {
+  "zh": "关于修改Data de Apresentação do 2011年国家总预算",
+  "en": null,
+  "orig": "Sobre Alteração da Data de Apresentação do Orçamento Geral do Estado Para 2011"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p03",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2010-10-13",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 9/2010",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 219,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2010/serie_1/serie1_no40.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自官方公报 PDF（public/docs/2010/serie_1/serie1_no40.pdf）第 4314–4315 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H101-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Apresentação do Orçamento Geral do Estado - 2011"
+   },
+   "text": {
+    "pt": "A Proposta de Lei de Orçamento Geral do Estado  para 2011 é apresentada ao Parlamento Nacional até ao dia 15 de Novembro de 2010."
+   }
+  },
+  {
+   "id": "TL-H101-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente Lei entra em vigor no dia seguinte ao da sua publicação no Jornal da República."
+   }
+  }
+ ]
+}

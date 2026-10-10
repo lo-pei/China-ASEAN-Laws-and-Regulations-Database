@@ -1,0 +1,938 @@
+{
+ "id": "TL-H189",
+ "title": {
+  "zh": "法律Proteção Civil",
+  "en": null,
+  "orig": "Lei da Proteção Civil"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p04",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2020-12-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 12/2020",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 56,
+ "chars": 43189,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2020/serie_1/SERIE_I_NO_49.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 56 条；逐字取自官方公报 PDF（public/docs/2020/serie_1/SERIE_I_NO_49.pdf）第 1432–1444 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H189-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Proteção civil"
+   },
+   "text": {
+    "pt": "1.  A proteção civil é a atividade desenvolvida pelo Estado, pela Região Administrativa Especial de Oe-Cusse Ambeno (RAEOA), pelos municípios, pela população e por todas as entidades públicas e privadas com a finalidade de prevenir riscos coletivos inerentes a situações de acidente grave ou catástrofe, atenuar os seus efeitos e proteger e socorrer pessoas e bens em perigo quando aquelas situações ocorram.\n2.    A  atividade de proteção civil é permanente, multidisciplinar e multissetorial, cabendo a todos os organismos da Administração Pública diligenciar no sentido de promover as condições necessárias à sua execução, sem prejuízo do dever de mútuo apoio entre organismos e entidades do mesmo nível ou de nível superior.\n3.  A atividade de proteção civil é prevista nos planos de prevenção, de contingência e de emergência para os diferentes níveis de atuação."
+   }
+  },
+  {
+   "id": "TL-H189-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Âmbito territorial"
+   },
+   "text": {
+    "pt": "1.  A atividade de proteção civil desenvolve-se em todo o território nacional.\n2.    Na  RAEOA, a atividade de proteção civil é da responsabilidade da respetiva autoridade regional, em conformidade com a política nacional de proteção civil e em articulação com as autoridades nacionais competentes, nos termos da lei.\n3.    No quadro dos compromissos internacionais e das normas aplicáveis do direito internacional, as atividades de proteção civil podem ser exercidas fora do território nacional, em cooperação com Estados estrangeiros ou com organizações internacionais de que Timor-Leste seja parte."
+   }
+  },
+  {
+   "id": "TL-H189-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Definições"
+   },
+   "text": {
+    "pt": "Para efeitos da presente lei, considera-se:\na)   «Acidente grave» é o acontecimento extraordinário com efeitos relativamente limitados no tempo e no espaço, suscetível de atingir pessoas, bens, animais e o ambiente;\nb)  «Autoproteção» é o conjunto de medidas individuais, familiares ou da comunidade, tendentes a prevenir ou a minimizar danos humanos, materiais ou ambientais, em caso de desastre;\nc)  «Catástrofe» é o acidente grave ou série de acidentes graves suscetíveis de provocarem elevados prejuízos materiais e, eventualmente, vítimas, afetando intensamente as condições de vida e o tecido socioeconómico em áreas circunscritas ou na totalidade do território nacional;\nd)  «Plano de Emergência» é o documento que reúne as informações e estabelece os procedimentos que permitem organizar e empregar os recursos humanos e materiais disponíveis, em situação de emergência;\ne)  «Reposição da normalidade» é o retorno à situação de normal funcionamento das instituições do Estado e da atividade económica e social, para os níveis de normalidade das condições de vida da população, anteriores ao acidente grave ou catástrofe que as afetaram;\nf)  «Socorro» é a assistência e ou intervenção durante ou depois do acidente grave ou catástrofe para fazer face às primeiras necessidades de sobrevivência e de subsistência."
+   }
+  },
+  {
+   "id": "TL-H189-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Objetivos e domínios de atuação"
+   },
+   "text": {
+    "pt": "1.   São objetivos fundamentais da proteção civil:\na) Prevenir riscos coletivos e a ocorrência de acidentes graves ou catástrofes;\nb) Diminuir os riscos coletivos e limitar potenciais efeitos em caso de acidente grave ou catástrofe;\nc) Socorrer e assistir pessoas e animais em perigo e proteger propriedades e valores culturais, ambientais e de elevado interesse público;\nd) Apoiar a reposição da normalidade da vida das pessoas em áreas afetadas por acidente grave ou catástrofe.\n2.  A atividade de proteção civil exerce-se nos seguintes domínios:\na) Levantamento, previsão, monitorização, avaliação e prevenção dos riscos coletivos;\nb) Análise permanente das vulnerabilidades perante situações de risco;\nc) Informação e formação da população;\nd) Planeamento de ações de emergência, visando a busca, o salvamento e a prestação de socorro e assistência, bem como a evacuação, alojamento e abastecimento das populações atingidas;\ne) Inventariação dos recursos e meios disponíveis e ou mobilizáveis, ao nível municipal, regional e nacional; f) Estudo e divulgação de formas adequadas de proteção das infraestruturas e dos edifícios em geral, dos monumentos e de outros bens culturais, bem como dos recursos naturais e ambientais;\ng) Previsão e planeamento de ações para a reposição das comunicações em caso de isolamento de áreas afetadas por acidentes graves ou catástrofes."
+   }
+  },
+  {
+   "id": "TL-H189-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Princípios"
+   },
+   "text": {
+    "pt": "Sem prejuízo dos princípios gerais consagrados na Constituição e na lei, constituem princípios especiais aplicáveis às atividades de proteção civil:\na)  O princípio da prioridade, nos termos do qual deve ser dada prevalência à prossecução do interesse público relativo à proteção civil, sem prejuízo da defesa nacional, da segurança interna e da saúde pública;\nb)  O princípio da prevenção, nos termos do qual os riscos de acidente grave ou de catástrofe devem ser antecipadamente considerados, de modo a eliminar causas prováveis ou, quando tal não seja possível, a diminuir os seus efeitos;\nc)  O princípio da precaução, segundo o qual devem ser adotadas as medidas de diminuição do risco de acidente grave ou catástrofe inerente a cada atividade;\nd)  O princípio da subsidiariedade, segundo o qual o subsistema de proteção civil de nível superior só deve intervir se e na medida em que os objetivos da proteção civil não possam ser alcançados pelo subsistema de proteção civil imediatamente inferior, atenta a dimensão e a gravidade dos efeitos das ocorrências;\ne)   O princípio da cooperação, que assenta no reconhecimento de que a proteção civil constitui atribuição do Estado, da RAEOA e dos municípios e dever da população e de todas as entidades públicas e privadas;\nf)   O princípio da coordenação, que exprime a necessidade de assegurar, sob orientação do Governo, a articulação entre a definição e a execução das políticas nacionais, regionais e municipais de proteção civil;\ng)  O princípio da unidade de comando, que determina que todos os agentes atuam, no plano operacional, articuladamente sob um comando único, sem prejuízo da respetiva dependência hierárquica e funcional;\nh)   O princípio da informação, que traduz o dever de assegurar a divulgação das informações relevantes em matéria de proteção civil, com vista à prossecução dos objetivos previstos no artigo 4.º."
+   }
+  },
+  {
+   "id": "TL-H189-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Deveres gerais e especiais"
+   },
+   "text": {
+    "pt": "1.   A  população e demais entidades têm o dever de colaborar na prossecução dos objetivos da proteção civil, observar as disposições preventivas das leis e regulamentos e cumprir as ordens, instruções ou orientações das autoridades competentes ou dos agentes responsáveis pela segurança nacional, englobando a defesa nacional, a segurança interna e a proteção civil.\n2.    Os funcionários e agentes do Estado e das pessoas coletivas de direito público, bem como os membros dos órgãos de gestão das empresas públicas, têm o especial dever de colaboração com os organismos de proteção civil.\n3.   Os responsáveis pela administração, direção ou chefia de empresas privadas cuja colaboração, pela natureza da sua atividade, esteja sujeita a qualquer forma específica de licenciamento têm igualmente o especial dever de colaboração com os órgãos e agentes de proteção civil.\n4.  A desobediência e a resistência às ordens ou instruções legítimas das entidades competentes, quando praticadas em situação de alerta, contingência ou calamidade, são puníveis nos termos da lei penal e as respetivas penas agravadas em um terço nos seus limites mínimo e máximo.\n5.    A violação do dever especial previsto nos n.os 2 e 3 implica, conforme os casos, responsabilidade criminal e disciplinar, nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H189-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Informação, formação e voluntariado da população em proteção civil"
+   },
+   "text": {
+    "pt": "1.    A  população tem direito à informação sobre os riscos a que está sujeita em certas áreas do território e sobre as medidas adotadas e a adotar com vista a prevenir ou minimizar os efeitos de acidente grave ou catástrofe.\n2.   A informação pública visa esclarecer a população sobre a natureza e os objetivos da proteção civil, consciencializar das responsabilidades que recaem sobre cada instituição ou indivíduo e sensibilizar em matéria de autoproteção.\n3.   Os programas de ensino, nos seus diversos graus, devem incluir matérias de proteção civil e de autoproteção, incluindo conhecimentos práticos e regras de comportamento a adotar no caso de acidente grave ou catástrofe.\n4.   A  Autoridade de Proteção Civil, em coordenação com o Ministério da Educação, executa o disposto no número anterior de forma contínua e sistemática, promovendo o estudo, a pesquisa e a formação em proteção civil.\n5.    A   população que, de forma voluntária, manifestar a intenção de colaborar na gestão de uma emergência ou catástrofe, bem como na concretização dos objetivos da proteção civil, deve dirigir-se ao serviço de proteção civil mais próximo para receber instruções de como participar ativamente na resposta social que se pretende."
+   }
+  },
+  {
+   "id": "TL-H189-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SITUAÇÕES  DE  ALERTA,  CONTINGÊNCIA  E CALAMIDADE Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Alerta, contingência e calamidade"
+   },
+   "text": {
+    "pt": "1.   Sem prejuízo do caráter permanente da atividade de proteção civil, as autoridades competentes, de acordo com os princípios da adequação e proporcionalidade, podem declarar a situação de:\na) Alerta;\nb) Contingência;\nc) Calamidade.\n2.    A declaração, em qualquer das situações referidas no número anterior, pode ter âmbito municipal, regional ou nacional."
+   }
+  },
+  {
+   "id": "TL-H189-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SITUAÇÕES  DE  ALERTA,  CONTINGÊNCIA  E CALAMIDADE Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Pressupostos da declaração de alerta, de contingência e de calamidade"
+   },
+   "text": {
+    "pt": "1.   A situação de alerta pode ser declarada quando, face à ocorrência ou à iminência de algum ou de alguns dos acontecimentos referidos nas alíneas a) e c) do artigo 3.º, se reconheça a necessidade de adotar medidas preventivas e ou medidas especiais de reação.\n2.   A situação de contingência pode ser declarada quando, face à ocorrência ou iminência de ocorrência de algum ou alguns dos acontecimentos referidos nas alíneas a) e c) do\nartigo 3.º, seja necessário adotar medidas preventivas e ou medidas especiais de reação que impliquem meios ou recursos não mobilizáveis no âmbito municipal.\n3.   A situação de calamidade pode ser declarada quando, face à ocorrência ou perigo de ocorrência de algum ou alguns dos acontecimentos referidos nas alíneas a) e c) do artigo\n3.º, e à sua previsível intensidade, seja necessário adotar medidas de caráter excecional destinadas a prevenir, a reagir e ou a repor a normalidade das condições de vida nas áreas atingidas."
+   }
+  },
+  {
+   "id": "TL-H189-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SITUAÇÕES  DE  ALERTA,  CONTINGÊNCIA  E CALAMIDADE Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Dever de colaboração"
+   },
+   "text": {
+    "pt": "1.   Declarada uma das situações previstas no n.º 1 do artigo\n8.º, a população e demais entidades estão obrigadas, na área abrangida, a prestar às autoridades de proteção civil a colaboração que lhes seja solicitada, cumprindo as ordens, as instruções ou as orientações que lhes sejam dirigidas.\n2.    A  recusa em cumprir o disposto no número anterior constitui crime de desobediência, punível nos termos do previsto no n.º 4 do artigo 6.º."
+   }
+  },
+  {
+   "id": "TL-H189-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SITUAÇÕES  DE  ALERTA,  CONTINGÊNCIA  E CALAMIDADE Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Publicação e produção de efeitos"
+   },
+   "text": {
+    "pt": "1.   Sem prejuízo da necessidade de publicação, os atos que declarem a situação de alerta ou a situação de contingência, o despacho referido no artigo 24.º e a resolução do Governo que declare a situação de calamidade produzem efeitos imediatos.\n2.   Nas situações referidas no número anterior, a declaração deve ser divulgada publicamente, designadamente através dos meios de comunicação social.\nSecção II\nAlerta"
+   }
+  },
+  {
+   "id": "TL-H189-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SITUAÇÕES  DE  ALERTA,  CONTINGÊNCIA  E CALAMIDADE Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Competência para a declaração de alerta"
+   },
+   "text": {
+    "pt": "1.  Compete ao presidente da autoridade municipal ou ao administrador municipal, previamente informado o membro do Governo responsável pela área da proteção civil, declarar a situação de alerta de âmbito municipal no todo ou em parte do seu âmbito territorial de competência.\n2.   Cabe ao Presidente da Autoridade da RAEOA, previamente informado o membro do Governo responsável pela área da proteção civil, declarar a situação de alerta de âmbito regional no todo ou em parte do seu âmbito territorial de competência.\n3.   O membro do Governo responsável pela área da proteção civil pode declarar a situação de alerta para parte ou para a totalidade do território nacional."
+   }
+  },
+  {
+   "id": "TL-H189-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SITUAÇÕES  DE  ALERTA,  CONTINGÊNCIA  E CALAMIDADE Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Ato e âmbito material de declaração de alerta"
+   },
+   "text": {
+    "pt": "1.   O ato que declara a situação de alerta reveste a forma de despacho e deve mencionar expressamente:\na) A natureza do acontecimento que originou a situação declarada;\nb) O âmbito temporal e territorial;\nc) Os procedimentos adequados à coordenação técnica e operacional dos serviços e agentes de proteção civil, bem como dos meios e recursos a utilizar;\nd) As medidas preventivas a adotar adequadas ao acontecimento que originou a situação declarada.\n2.    A  declaração da situação de alerta determina o acionamento das estruturas de coordenação institucional territorialmente competentes, as quais asseguram a articulação de todos os agentes, entidades e instituições envolvidos nas operações de proteção e socorro.\n3.  A declaração da situação de alerta determina ainda o acionamento das estruturas de coordenação política territorialmente competentes, as quais devem avaliar a necessidade de ativação do plano de emergência de proteção civil do respetivo nível territorial.\n4.   Declarada a situação de alerta, os meios de comunicação social, bem como as operadoras de telecomunicações, têm um especial dever de colaboração com as estruturas de coordenação referidas nos n.ºs 2 e 3, visando a divulgação das informações relevantes relativas à situação.\nSecção III\nContingência"
+   }
+  },
+  {
+   "id": "TL-H189-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SITUAÇÕES  DE  ALERTA,  CONTINGÊNCIA  E CALAMIDADE Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Competência para a declaração de contingência"
+   },
+   "text": {
+    "pt": "1.   A declaração da situação de contingência compete à entidade responsável pela área da proteção civil no seu âmbito territorial de competência.\n2.   O membro do Governo responsável pela área da proteção civil pode declarar a situação de contingência para parte ou para a totalidade do território nacional."
+   }
+  },
+  {
+   "id": "TL-H189-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SITUAÇÕES  DE  ALERTA,  CONTINGÊNCIA  E CALAMIDADE Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Ato e âmbito material de declaração de contingência"
+   },
+   "text": {
+    "pt": "1.  O ato que declara a situação de contingência reveste a forma de despacho e deve mencionar expressamente:\na) A natureza do acontecimento que originou a situação declarada;\nb) O âmbito temporal e territorial;\nc) O estabelecimento de diretivas específicas relativas à atividade operacional dos agentes de proteção civil e das entidades e instituições envolvidas nas operações de proteção e socorro;\nd) Os procedimentos para a inventariação de danos e prejuízos;\ne) Os critérios para a eventual concessão de apoios materiais e ou financeiros públicos.\n2.  A declaração da situação de contingência determina o acionamento das estruturas de coordenação política e institucional territorialmente competentes e, designadamente, do previsto nos n.os 2 e 4 do artigo 13.º.\n3.    A  declaração da situação de contingência determina ainda a ativação imediata dos planos de emergência de proteção civil para o respetivo nível territorial.\nSecção IV\nCalamidade"
+   }
+  },
+  {
+   "id": "TL-H189-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SITUAÇÕES  DE  ALERTA,  CONTINGÊNCIA  E CALAMIDADE Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Competência para a declaração de calamidade"
+   },
+   "text": {
+    "pt": "A declaração da situação de calamidade compete ao Governo e reveste a forma de resolução do Governo."
+   }
+  },
+  {
+   "id": "TL-H189-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SITUAÇÕES  DE  ALERTA,  CONTINGÊNCIA  E CALAMIDADE Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Ato e âmbito material de declaração de calamidade"
+   },
+   "text": {
+    "pt": "1.  A resolução do Governo que declara a situação de calamidade deve mencionar expressamente:\na) A natureza do acontecimento que originou a situação declarada;\nb) O âmbito temporal e territorial;\nc) O estabelecimento de diretivas específicas relativas à atividade operacional dos agentes de proteção civil e das entidades e instituições envolvidas nas operações de proteção e socorro, mediante a obrigatoriedade de convocação do Conselho Nacional de Proteção Civil;\nd) Os procedimentos de inventariação dos danos e prejuízos provocados;\ne) Os critérios para a eventual concessão de apoios materiais e financeiros.\n2.   A declaração da situação de calamidade pode ainda estabelecer:\na) A mobilização civil de pessoas, por períodos de tempo determinados;\nb) A fixação, por razões de segurança dos próprios ou das operações, de limites ou condicionamentos à circulação ou permanência de pessoas, animais ou veículos;\nc) A delimitação de zonas sanitárias e de segurança;\nd) A racionalização da utilização dos serviços públicos de transportes, comunicações e abastecimento de água e energia, bem como do consumo de bens de primeira necessidade.\n3.  A declaração da situação de calamidade determina o acionamento das estruturas de coordenação política e institucional territorialmente competentes e a adoção das medidas indicadas nos artigos 13.º e 15.º.\n4.   A declaração da situação de calamidade implica a ativação imediata dos planos de emergência de proteção civil do respetivo nível territorial."
+   }
+  },
+  {
+   "id": "TL-H189-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SITUAÇÕES  DE  ALERTA,  CONTINGÊNCIA  E CALAMIDADE Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Acesso a propriedade privada e a recursos naturais e energéticos"
+   },
+   "text": {
+    "pt": "1.   A declaração da situação de calamidade é condição suficiente para legitimar o livre acesso dos agentes de proteção civil à propriedade privada na área abrangida, bem como a utilização de recursos naturais ou energéticos privados, na medida do estritamente necessário à realização das ações destinadas a repor a normalidade das condições de vida.\n2.  Na situação de calamidade e quanto ao domicílio, a legitimidade de entrada dos agentes de proteção civil restringe-se às situações em que seja necessária a evacuação de pessoas em perigo de vida.\n3.   Os atos jurídicos e ou as operações materiais decorrentes da execução da declaração de situação de calamidade para reagir contra os efeitos de acidente ou catástrofe presumem-se praticados em estado de necessidade."
+   }
+  },
+  {
+   "id": "TL-H189-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SITUAÇÕES  DE  ALERTA,  CONTINGÊNCIA  E CALAMIDADE Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Requisição temporária de bens e serviços"
+   },
+   "text": {
+    "pt": "1.    Declarada a situação de calamidade, podem ser requisitados temporariamente bens ou serviços, nomeadamente em caso de urgência, sempre e apenas nas situações em que o interesse público o justifique.\n2.  A requisição de bens ou serviços é determinada por despacho conjunto do Primeiro-Ministro e dos membros do Governo responsáveis pelas áreas das finanças e da proteção civil, que fixa o seu objeto, o início e o termo previsível do uso, a entidade operacional beneficiária e a entidade responsável pelo pagamento de indemnização por eventuais prejuízos resultantes da requisição, nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H189-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SITUAÇÕES  DE  ALERTA,  CONTINGÊNCIA  E CALAMIDADE Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Mobilização dos agentes de proteção civil e socorro"
+   },
+   "text": {
+    "pt": "1.  Os funcionários, agentes e demais trabalhadores da Administração Pública, direta e indireta, que cumulativamente detenham a qualidade de agente de proteção civil e de socorro estão dispensados do serviço público quando sejam chamados, designadamente pelo respetivo corpo de bombeiros, a participar nas ações ou operações de resposta à situação de calamidade, ficando dispensados do dever de comparência no respetivo serviço.\n2.    A dispensa referida no número anterior, quando o serviço de origem seja agente de proteção civil, é autorizada pelo respetivo dirigente máximo.\n3.   A resolução do Governo que declara a situação de calamidade pode fixar regras especiais e ou os procedimentos a observar quanto à dispensa prevista no n.º 1.\n4.  A resolução do Governo que declara a situação de calamidade pode ainda estabelecer as condições de dispensa de trabalho e de mobilização de trabalhadores do setor privado que cumulativamente desempenham funções conexas ou de cooperação com os serviços de proteção civil ou de socorro."
+   }
+  },
+  {
+   "id": "TL-H189-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SITUAÇÕES  DE  ALERTA,  CONTINGÊNCIA  E CALAMIDADE Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Utilização do solo"
+   },
+   "text": {
+    "pt": "1.   A resolução do Governo que declara a situação de calamidade pode determinar a suspensão provisória da aplicação de planos de ordenamento do território ou outros instrumentos de gestão territorial, no todo ou em parte, da área abrangida pela declaração.\n2.   As zonas abrangidas pela declaração de calamidade são consideradas zonas objeto de medidas de proteção especial, tendo em conta a natureza do acontecimento que a determinou, sendo condicionadas, restringidas ou interditas, nos termos do número seguinte, as ações ou formas de utilização suscetíveis de aumentar o risco de repetição do acontecimento ou de agravamento dos seus efeitos.\n3.    Nos casos previstos nos números anteriores, a resolução do Governo que declara a situação de calamidade deve estabelecer as medidas preventivas necessárias à regulação provisória do uso do solo, aplicando-se com as necessárias adaptações o disposto na lei em matéria de ordenamento do território e uso do solo.\n4.   Sem prejuízo do disposto no n.º 1, os órgãos respetivos dos municípios ou da RAEOA, consoante as áreas abrangidas pela declaração de calamidade, são ouvidos quanto ao estabelecimento das medidas previstas nos números anteriores, assim que as circunstâncias o permitam.\n5.  Os planos de ordenamento do território ou outros instrumentos de gestão territorial devem prever regras quanto à utilização do solo tendo em conta os riscos para o interesse público em matéria de proteção civil, designadamente no domínio da construção de infraestruturas."
+   }
+  },
+  {
+   "id": "TL-H189-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SITUAÇÕES  DE  ALERTA,  CONTINGÊNCIA  E CALAMIDADE Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Direito de preferência"
+   },
+   "text": {
+    "pt": "1.  O Estado, a RAEOA e os municípios têm direito de preferência nas transmissões a título oneroso, entre particulares, dos bens imóveis situados na área delimitada pela declaração da situação de calamidade.\n2.    O direito previsto no número anterior pode ser exercido por um período de três anos, após a declaração da situação de calamidade, aplicando-se, com as devidas adaptações, o disposto na lei civil.\n3.   Os particulares que pretendam alienar imóveis abrangidos pelo direito de preferência dos municípios e da RAEOA devem comunicar a transmissão pretendida ao presidente da autoridade municipal, ao administrador municipal ou ao Presidente da Autoridade da RAEOA."
+   }
+  },
+  {
+   "id": "TL-H189-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SITUAÇÕES  DE  ALERTA,  CONTINGÊNCIA  E CALAMIDADE Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Apoios destinados à reposição da normalidade"
+   },
+   "text": {
+    "pt": "A lei define as condições, critérios e procedimentos relativos à concessão de eventuais prestações e apoios sociais e financeiros e ou a medidas de incentivo à atividade económica que visem a reposição da normalidade nas áreas afetadas."
+   }
+  },
+  {
+   "id": "TL-H189-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II SITUAÇÕES  DE  ALERTA,  CONTINGÊNCIA  E CALAMIDADE Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Despacho de urgência"
+   },
+   "text": {
+    "pt": "1.   A resolução do Governo prevista no artigo 16.º pode ser antecedida por um despacho do Primeiro-Ministro que reconheça a necessidade de declarar a situação de calamidade, com os efeitos previstos nos números seguintes.\n2.  O despacho previsto no número anterior pode prever as medidas estabelecidas no artigo 17.º, com exceção das previstas nas alíneas a) e d) do n.º 2 do mesmo artigo.\n3.  Caso se encontrem previstas no plano de emergência aplicável, as medidas estabelecidas nos artigos 18.º e 19.º podem ser adotadas no despacho referido no n.º 1.\n4.  O despacho referido no n.º 1 produz os efeitos previstos nos artigos 13.º e 15.º."
+   }
+  },
+  {
+   "id": "TL-H189-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DIREÇÃO E COORDENAÇÃO DA POLÍTICA DE PROTEÇÃO CIVIL Secção I Direção da política de proteção civil"
+   },
+   "heading": {
+    "pt": "Órgãos de direção"
+   },
+   "text": {
+    "pt": "1.   A política de proteção civil é dirigida:\na) Pelo Governo, nos termos do disposto no artigo 26.º;\nb) Pelo Primeiro-Ministro, nos termos do disposto no\nartigo 27.º;\nc) Pelo Presidente da Autoridade da RAEOA, pelos presidentes das autoridades municipais e pelos administradores municipais, nos termos do disposto no artigo 28.º.\n2.  O Governo informa periodicamente, ou sempre que seja solicitado, o Parlamento Nacional sobre a situação do País em matéria de proteção civil, bem como sobre a atividade dos órgãos e serviços por ela responsáveis."
+   }
+  },
+  {
+   "id": "TL-H189-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DIREÇÃO E COORDENAÇÃO DA POLÍTICA DE PROTEÇÃO CIVIL Secção I Direção da política de proteção civil"
+   },
+   "heading": {
+    "pt": "Incumbências do Governo"
+   },
+   "text": {
+    "pt": "1.   O Governo define a política de proteção civil, inscrevendo no respetivo programa as orientações e medidas de caráter geral a adotar ou a propor na matéria.\n2.   Cabe ao Governo, através do Conselho de Ministros:\na) Definir as linhas gerais da política governamental de proteção civil, bem como a sua execução;\nb) Programar e assegurar os meios destinados à execução da política de proteção civil;\nc) Declarar a situação de calamidade;\nd) Adotar, no caso previsto na alínea anterior, as medidas de caráter excecional destinadas a repor a normalidade nas áreas afetadas;\ne) Deliberar sobre a afetação extraordinária dos meios financeiros indispensáveis à aplicação das medidas previstas na alínea anterior."
+   }
+  },
+  {
+   "id": "TL-H189-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DIREÇÃO E COORDENAÇÃO DA POLÍTICA DE PROTEÇÃO CIVIL Secção I Direção da política de proteção civil"
+   },
+   "heading": {
+    "pt": "Competências do Primeiro-Ministro"
+   },
+   "text": {
+    "pt": "1.   O Primeiro-Ministro é o responsável máximo pela direção da política de proteção civil, competindo-lhe, designadamente:\na) Orientar a ação dos membros do Governo em matéria de proteção civil;\nb) Garantir o adequado exercício das competências previstas no artigo 26.º.\n2.   O  Primeiro-Ministro pode delegar as competências referidas no número anterior no membro do Governo responsável pela área da proteção civil, com possibilidade de subdelegação."
+   }
+  },
+  {
+   "id": "TL-H189-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DIREÇÃO E COORDENAÇÃO DA POLÍTICA DE PROTEÇÃO CIVIL Secção I Direção da política de proteção civil"
+   },
+   "heading": {
+    "pt": "Competências do Presidente da Autoridade da RAEOA, dos"
+   },
+   "text": {
+    "pt": "presidentes das autoridades municipais e dos administradores municipais\n1.  Compete ao Presidente da Autoridade da RAEOA, aos presidentes das autoridades municipais e aos administradores municipais, no exercício de funções de responsáveis regionais ou municipais da política de proteção civil, desencadear, na iminência ou ocorrência de acidente grave ou catástrofe, as ações de proteção civil de prevenção, socorro, assistência e recuperação adequadas em cada caso.\n2.   O Presidente da Autoridade da RAEOA, os presidentes das autoridades municipais e os administradores municipais, são apoiados pelos serviços e agentes regionais ou municipais de proteção civil.\nSecção II\nCoordenação da política de proteção civil Subsecção I Disposição geral"
+   }
+  },
+  {
+   "id": "TL-H189-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DIREÇÃO E COORDENAÇÃO DA POLÍTICA DE PROTEÇÃO CIVIL Secção I Direção da política de proteção civil"
+   },
+   "heading": {
+    "pt": "Órgãos de coordenação"
+   },
+   "text": {
+    "pt": "A coordenação da política de proteção civil compete, nos termos do disposto nas subsecções seguintes e consoante os casos:\na)   Ao Conselho Nacional de Proteção Civil;\nb)   Ao Conselho Regional de Proteção Civil;\nc)  Aos Conselhos Municipais de Proteção Civil.\nSubsecção II\nConselho Nacional de Proteção Civil"
+   }
+  },
+  {
+   "id": "TL-H189-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DIREÇÃO E COORDENAÇÃO DA POLÍTICA DE PROTEÇÃO CIVIL Secção I Direção da política de proteção civil"
+   },
+   "heading": {
+    "pt": "Natureza"
+   },
+   "text": {
+    "pt": "O Conselho Nacional de Proteção Civil, doravante também abreviadamente designado por Conselho Nacional, é o órgão de consulta do Governo e de coordenação em matéria de proteção civil ao nível nacional."
+   }
+  },
+  {
+   "id": "TL-H189-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DIREÇÃO E COORDENAÇÃO DA POLÍTICA DE PROTEÇÃO CIVIL Secção I Direção da política de proteção civil"
+   },
+   "heading": {
+    "pt": "Composição e funcionamento"
+   },
+   "text": {
+    "pt": "1.   Integram o Conselho Nacional de Proteção Civil:\na) O membro do Governo responsável pela área da proteção civil, que preside;\nb) Um representante, com nível de dirigente, designado pelo respetivo membro do Governo das áreas da defesa, do interior, da justiça, das finanças, do comércio e indústria, do ambiente, das obras públicas, dos transportes e comunicações, da agricultura, das florestas e pescas, da solidariedade social, da saúde, da educação e da administração estatal;\nc) O presidente da Autoridade de Proteção Civil;\nd) O comandante operacional nacional de proteção civil;\ne) O Diretor Nacional do Corpo de Bombeiros.\n2.   Participam ainda no Conselho Nacional representantes das seguintes entidades:\na) FALINTIL - Forças de Defesa de Timor-Leste;\nb) Polícia Nacional de Timor-Leste;\nc) Direção-Geral do Serviço de Migração;\nd) Polícia Científica de Investigação Criminal;\ne) Serviço Nacional de Inteligência; f) Autoridade Marítima Nacional;\ng) Autoridade da Aviação Civil de Timor-Leste (AACTL);\nh) Empresa Pública de Administração de Aeroportos e Navegação Aérea de Timor-Leste (ANATL, E.P.); (i) Serviço Nacional de Ambulância e Emergência Médica.\n3.  O presidente do Conselho Nacional, quando o entenda conveniente, pode convidar a participar nas reuniões do Conselho Nacional o Presidente da Autoridade da RAEOA, os presidentes das autoridades municipais e os administradores municipais.\n4.   O presidente do Conselho Nacional pode ainda, quando o entenda conveniente, convidar a participar nas reuniões do Conselho Nacional outras entidades que, pelas suas capacidades técnicas, científicas ou outras, possam ser relevantes.\n5.  O secretariado do Conselho Nacional é assegurado pela Autoridade de Proteção Civil.\n6.    A participação no Conselho Nacional não confere direito a auferir qualquer tipo de retribuição, remuneração ou abono.\n7.    As demais normas de funcionamento do Conselho Nacional são definidas por diploma ministerial do membro do Governo responsável pela área da proteção civil."
+   }
+  },
+  {
+   "id": "TL-H189-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DIREÇÃO E COORDENAÇÃO DA POLÍTICA DE PROTEÇÃO CIVIL Secção I Direção da política de proteção civil"
+   },
+   "heading": {
+    "pt": "Competência"
+   },
+   "text": {
+    "pt": "1.   Compete ao Conselho Nacional de Proteção Civil:\na) Assegurar a concretização das linhas gerais da política governamental de proteção civil em todos os serviços da Administração Pública;\nb) Aconselhar o Governo acerca das bases gerais da organização e do funcionamento dos organismos e serviços que, direta ou indiretamente, desempenhem funções de proteção civil;\nc) Dar parecer sobre os acordos ou convenções sobre cooperação internacional em matéria de proteção civil;\nd) Aprovar os planos de emergência de proteção civil nos termos do n.º 4 do artigo 48.º;\ne) Dar parecer sobre os planos de emergência de proteção civil de âmbito nacional; f) Propor mecanismos de colaboração institucional entre todos os organismos e serviços com responsabilidades no domínio da proteção civil, bem como formas de coordenação técnica e operacional da atividade por aqueles desenvolvida, no âmbito específico das respetivas atribuições estatutárias;\ng) Identificar e propor critérios e normas técnicas sobre a organização do inventário de recursos e meios, públicos e privados, mobilizáveis ao nível municipal, regional ou nacional em caso de acidente grave ou catástrofe;\nh) Propor critérios e normas técnicas sobre a elaboração e operacionalização de planos de emergência de proteção civil; (i) Identificar e propor prioridades e objetivos a definir com vista ao escalonamento de esforços dos organismos e estruturas com responsabilidades no domínio da proteção civil relativamente à sua preparação e participação em tarefas comuns de proteção civil; j) Promover a divulgação dos objetivos da proteção civil e a sensibilização da população em matéria de proteção civil;\nk) Promover o desenvolvimento e a consolidação de uma cultura nacional de proteção civil por meio da incorporação de conteúdos temáticos em todos os níveis do sistema educativo nacional que abordem de forma abrangente e clara a gestão de riscos e os mecanismos de prevenção e autoproteção, bem como pela elaboração e promoção de campanhas de divulgação sobre a proteção civil nos estabelecimentos de ensino; l) Dar parecer sobre os instrumentos de cooperação externa que os organismos e estruturas do sistema de proteção civil desenvolvem nos domínios das suas atribuições e competências específicas;\nm) Monitorizar os pressupostos das declarações de alerta, de contingência e de calamidade.\n2.   Compete ainda ao Conselho Nacional de Proteção Civil:\na) Propor ao Governo a formulação de pedidos de auxílio a organizações internacionais ou a Estados estrangeiros;\nb) Aconselhar o Primeiro-Ministro quanto ao exercício da competência prevista no artigo 24.º.\nSubsecção III\nConselho Regional de Proteção Civil"
+   }
+  },
+  {
+   "id": "TL-H189-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DIREÇÃO E COORDENAÇÃO DA POLÍTICA DE PROTEÇÃO CIVIL Secção I Direção da política de proteção civil"
+   },
+   "heading": {
+    "pt": "Natureza"
+   },
+   "text": {
+    "pt": "O Conselho Regional de Proteção Civil, doravante também abreviadamente designado por Conselho Regional, é o órgão de consulta do Presidente da Autoridade da RAEOA e de coordenação em matéria de proteção civil no âmbito regional."
+   }
+  },
+  {
+   "id": "TL-H189-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DIREÇÃO E COORDENAÇÃO DA POLÍTICA DE PROTEÇÃO CIVIL Secção I Direção da política de proteção civil"
+   },
+   "heading": {
+    "pt": "Composição e funcionamento"
+   },
+   "text": {
+    "pt": "1.  Integram o Conselho Regional de Proteção Civil:\na) O Presidente da Autoridade da RAEOA, que preside;\nb) O comandante operacional regional de proteção civil;\nc) Representantes, ao nível de dirigentes dos serviços desconcentrados da Administração direta do Estado, designados nos termos do previsto na alínea b) do n.º 1 do artigo 31.º;\nd) Os responsáveis máximos pelas forças de defesa e pelas forças e serviços de segurança existentes na RAEOA;\ne) Um representante regional do Serviço Nacional de Ambulância e Emergência Médica; f) Um comandante do Corpo de Bombeiros.\n2.  O secretariado do Conselho Regional é assegurado pelo Serviço Regional de Proteção Civil.\n3.   O regulamento de funcionamento do Conselho Regional é aprovado pelo Presidente da Autoridade da RAEOA."
+   }
+  },
+  {
+   "id": "TL-H189-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DIREÇÃO E COORDENAÇÃO DA POLÍTICA DE PROTEÇÃO CIVIL Secção I Direção da política de proteção civil"
+   },
+   "heading": {
+    "pt": "Competências"
+   },
+   "text": {
+    "pt": "Compete ao Conselho Regional de Proteção Civil:\na)  Aconselhar o Presidente da Autoridade da RAEOA em matéria de proteção civil;\nb)   Dar parecer sobre os planos regionais de proteção civil;\nc)   Acompanhar a execução dos planos regionais de emergência de proteção civil;\nd)  Acompanhar as políticas de proteção civil no âmbito regional;\ne)  Promover junto das autoridades competentes o acionamento dos planos regionais de emergência, quando tal se justifique.\nSubsecção IV\nConselhos municipais de proteção civil"
+   }
+  },
+  {
+   "id": "TL-H189-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DIREÇÃO E COORDENAÇÃO DA POLÍTICA DE PROTEÇÃO CIVIL Secção I Direção da política de proteção civil"
+   },
+   "heading": {
+    "pt": "Natureza"
+   },
+   "text": {
+    "pt": "1.   Os conselhos municipais de proteção civil são os órgãos de consulta dos presidentes das autoridades municipais e dos administradores municipais e de coordenação em matéria de proteção civil no âmbito municipal.\n2.   Existe um conselho municipal de proteção civil por cada município, doravante denominado por Conselho Municipal de Proteção Civil."
+   }
+  },
+  {
+   "id": "TL-H189-A37",
+   "no": 37,
+   "noLabel": {
+    "pt": "Artigo 37.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DIREÇÃO E COORDENAÇÃO DA POLÍTICA DE PROTEÇÃO CIVIL Secção I Direção da política de proteção civil"
+   },
+   "heading": {
+    "pt": "Composição e funcionamento"
+   },
+   "text": {
+    "pt": "1.   Integram o Conselho Municipal de Proteção Civil:\na) O presidente da autoridade municipal respetiva ou o administrador municipal;\nb) O comandante operacional municipal de proteção civil respetivo;\nc) Representantes, ao nível de dirigentes dos serviços desconcentrados da Administração Direta do Estado, designados nos termos do previsto na alínea b) do n.º 1 do artigo 31.º;\nd) Os responsáveis máximos pelas forças de defesa e pelas forças e serviços de segurança existentes no município;\ne) Um representante municipal do Serviço Nacional de Ambulância e Emergência Médica; f) O comandante municipal do Corpo de Bombeiros.\n2.  O secretariado do Conselho Municipal de Proteção Civil é assegurado pelo Serviço Municipal de Proteção Civil.\n3.   O regulamento de funcionamento do Conselho Municipal de Proteção Civil é aprovado pelo presidente da autoridade municipal ou pelo administrador municipal."
+   }
+  },
+  {
+   "id": "TL-H189-A38",
+   "no": 38,
+   "noLabel": {
+    "pt": "Artigo 38.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DIREÇÃO E COORDENAÇÃO DA POLÍTICA DE PROTEÇÃO CIVIL Secção I Direção da política de proteção civil"
+   },
+   "heading": {
+    "pt": "Competências"
+   },
+   "text": {
+    "pt": "Compete ao Conselho Municipal de Proteção Civil:\na)   Aconselhar o presidente da autoridade municipal respetiva ou o administrador municipal em matéria de proteção civil;\nb)   Dar parecer sobre os planos municipais de proteção civil;\nc)  Acompanhar a execução dos planos municipais de emergência de proteção civil;\nd)  Acompanhar as políticas de proteção civil no âmbito municipal;\ne)   Promover junto das autoridades competentes o acionamento dos planos municipais de emergência, quando tal se justifique."
+   }
+  },
+  {
+   "id": "TL-H189-A39",
+   "no": 39,
+   "noLabel": {
+    "pt": "Artigo 39.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ESTRUTURA  EXECUTIVA  DE  PROTEÇÃO  CIVIL"
+   },
+   "heading": {
+    "pt": "Autoridade de Proteção Civil"
+   },
+   "text": {
+    "pt": "A Autoridade de Proteção Civil é instituída por diploma próprio, que define as suas atribuições, as competências dos seus órgãos e a respetiva estrutura orgânica."
+   }
+  },
+  {
+   "id": "TL-H189-A40",
+   "no": 40,
+   "noLabel": {
+    "pt": "Artigo 40.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ESTRUTURA  EXECUTIVA  DE  PROTEÇÃO  CIVIL"
+   },
+   "heading": {
+    "pt": "Estrutura operacional de proteção civil"
+   },
+   "text": {
+    "pt": "A estrutura operacional de proteção civil organiza-se ao nível nacional, regional e municipal, devendo prever comandantes operacionais em qualquer um desses três níveis territoriais."
+   }
+  },
+  {
+   "id": "TL-H189-A41",
+   "no": 41,
+   "noLabel": {
+    "pt": "Artigo 41.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ESTRUTURA  EXECUTIVA  DE  PROTEÇÃO  CIVIL"
+   },
+   "heading": {
+    "pt": "Agentes de proteção civil"
+   },
+   "text": {
+    "pt": "1.  São agentes de proteção civil, de acordo com as suas atribuições próprias:\na) Os corpos de bombeiros;\nb) A entidade responsável pela gestão de riscos de desastres, catástrofes e calamidades públicas;\nc) A entidade responsável pela segurança e proteção do património público;\nd) A entidade responsável pela prevenção de conflitos comunitários;\ne) A Polícia Nacional de Timor-Leste; f) As FALINTIL – Forças de Defesa de Timor-Leste;\ng) A entidade responsável pela gestão do serviço de ambulância e emergência médica;\nh) A Autoridade Marítima Nacional; (i) A Autoridade da Aviação Civil de Timor-Leste (AACTL); j) A entidade responsável pela administração de aeroportos e navegação aérea;\nk) A entidade responsável pela área da gestão das florestas, café e plantas industriais; l) As autoridades municipais;\nm) Os administradores municipais;\nn) Os sucos.\n2.   A  Cruz Vermelha de Timor-Leste exerce, em cooperação com os demais agentes e de acordo com o seu estatuto, funções de proteção civil nos domínios da intervenção, apoio, socorro e assistência sanitária e social."
+   }
+  },
+  {
+   "id": "TL-H189-A42",
+   "no": 42,
+   "noLabel": {
+    "pt": "Artigo 42.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ESTRUTURA  EXECUTIVA  DE  PROTEÇÃO  CIVIL"
+   },
+   "heading": {
+    "pt": "Entidades sujeitas ao dever de cooperação"
+   },
+   "text": {
+    "pt": "1.   Existe um especial dever de cooperação com os agentes de proteção civil enumerados no n.º 1 do artigo anterior sobre as seguintes entidades:\na) Serviços de segurança;\nb) Serviço responsável pela prestação de perícias médicolegais e forenses;\nc) Instituições de solidariedade social;\nd) Serviços de segurança e socorro privativos das empresas públicas e privadas, dos portos e dos aeroportos;\ne) Entidades de direito privado detentoras de serviços de bombeiros, nos termos da lei; f) Instituições indispensáveis às operações de proteção e socorro, emergência e assistência, designadamente dos setores das florestas, conservação da natureza, indústria e energia, transportes, comunicações, recursos hídricos e ambiente, mar e atmosfera;\ng) Organizações voluntárias de proteção civil.\n2.   As organizações indicadas na alínea g) do número anterior são pessoas coletivas de direito privado, de base voluntária, sem fins lucrativos, legalmente constituídas e cujos fins estatutários refiram o desenvolvimento de ações no domínio da proteção civil.\n3.    As atribuições, âmbito, modo de reconhecimento e formas de cooperação das organizações indicadas no número anterior são fixadas por despacho do membro do Governo responsável pela área da proteção civil.\n4.    As entidades referidas nas alíneas a) a f) do n.º 1 articulamse operacionalmente nos termos do artigo 44.º."
+   }
+  },
+  {
+   "id": "TL-H189-A43",
+   "no": 43,
+   "noLabel": {
+    "pt": "Artigo 43.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV ESTRUTURA  EXECUTIVA  DE  PROTEÇÃO  CIVIL"
+   },
+   "heading": {
+    "pt": "Instituições de investigação técnica e científica"
+   },
+   "text": {
+    "pt": "1.  Os serviços e instituições de investigação técnica e científica, públicos ou privados, com competências específicas em domínios com interesse para a prossecução dos objetivos fundamentais da proteção civil cooperam com os órgãos de direção e coordenação previstos na presente lei e com a Autoridade de Proteção Civil.\n2.   A cooperação prevista no número anterior desenvolve-se nos seguintes domínios:\na) Levantamento, previsão, avaliação e prevenção de riscos coletivos de origem natural, humana ou tecnológica e análises das vulnerabilidades das populações e dos sistemas ambientais a eles expostos;\nb) Estudo de formas adequadas de proteção dos edifícios em geral, dos monumentos e outros bens culturais e de instalações e infraestruturas de serviços e bens essenciais;\nc) Investigação no domínio de novos equipamentos e tecnologias adequados à busca, salvamento e prestação de socorro e assistência;\nd) Estudo de formas adequadas de proteção dos recursos naturais.\n3.    As entidades com competência legalmente reconhecida no âmbito da monitorização de riscos têm o dever de comunicar à Autoridade de Proteção Civil a informação proveniente dos sistemas de vigilância e deteção de riscos de que possam ser detentoras."
+   }
+  },
+  {
+   "id": "TL-H189-A44",
+   "no": 44,
+   "noLabel": {
+    "pt": "Artigo 44.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V OPERAÇÕES DE PROTEÇÃO CIVIL"
+   },
+   "heading": {
+    "pt": "Sistema Integrado de Operações de Proteção e Socorro"
+   },
+   "text": {
+    "pt": "1.   O Sistema Integrado de Operações de Proteção e Socorro, abreviadamente designado por SIOPS, é o conjunto de estruturas, normas e procedimentos que asseguram que todos os agentes de proteção civil e as entidades previstas nas alíneas a) a f) do n.º 1 do artigo 42.º atuam de forma articulada no plano operacional, sob um comando único, sem prejuízo da respetiva dependência hierárquica e funcional.\n2.   Todas as disposições relativas ao procedimento dos pedidos de colaboração entre a Autoridade de Proteção Civil e qualquer uma das entidades referidas no número anterior, bem como os respetivos modelos de colaboração entre si a nível nacional, regional e municipal serão definidos no SIOPS.\n3.   O SIOPS é regulado por decreto-lei."
+   }
+  },
+  {
+   "id": "TL-H189-A45",
+   "no": 45,
+   "noLabel": {
+    "pt": "Artigo 45.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V OPERAÇÕES DE PROTEÇÃO CIVIL"
+   },
+   "heading": {
+    "pt": "Espaços sob jurisdição da autoridade marítima e da autoridade aeronáutica"
+   },
+   "text": {
+    "pt": "As autoridades marítima e aeronáutica, nos respetivos âmbitos de atuação, devem garantir a articulação operacional no quadro do SIOPS, tendo em conta os riscos específicos e o regime legal aplicável aos espaços sob a sua jurisdição."
+   }
+  },
+  {
+   "id": "TL-H189-A46",
+   "no": 46,
+   "noLabel": {
+    "pt": "Artigo 46.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V OPERAÇÕES DE PROTEÇÃO CIVIL"
+   },
+   "heading": {
+    "pt": "Centros de coordenação operacional"
+   },
+   "text": {
+    "pt": "1.   Em situação de acidente grave ou catástrofe, e no caso de perigo de ocorrência destes fenómenos, são desencadeadas operações de proteção civil, de harmonia com os planos de emergência previamente elaborados, com vista a possibilitar a unidade de direção das ações a desenvolver, a coordenação técnica e operacional dos meios a empenhar e a adequação das medidas de caráter excecional a adotar.\n2.   Consoante a natureza do acontecimento e a gravidade e extensão dos seus efeitos previsíveis, são chamados a intervir os centros de coordenação operacional de nível nacional, regional ou municipal, especialmente destinados a assegurar o controlo da situação com recurso a centrais de comunicações integradas e eventual sobreposição com meios alternativos.\n3.   As matérias respeitantes a atribuições, competências, composição e modo de funcionamento dos centros de coordenação operacional, bem como da estrutura do comando operacional de âmbito nacional, regional ou municipal, são definidas no diploma referido no n.º 2 do\nartigo 44.º."
+   }
+  },
+  {
+   "id": "TL-H189-A47",
+   "no": 47,
+   "noLabel": {
+    "pt": "Artigo 47.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V OPERAÇÕES DE PROTEÇÃO CIVIL"
+   },
+   "heading": {
+    "pt": "Prioridade de meios e recursos"
+   },
+   "text": {
+    "pt": "1.  Os meios e recursos utilizados para prevenir ou enfrentar os riscos de acidente grave ou catástrofe são os previstos nos planos de emergência de proteção civil ou, na sua ausência ou insuficiência, os determinados pela Autoridade de Proteção Civil, que assume a direção das operações.\n2.  Os meios e recursos utilizados devem adequar-se ao objetivo, não excedendo o estritamente necessário.\n3.   É dada preferência à utilização de meios e recursos públicos sobre a utilização de meios e recursos privados.\n4.   A utilização de meios e recursos é determinada segundo critérios de proximidade, disponibilidade e mobilidade."
+   }
+  },
+  {
+   "id": "TL-H189-A48",
+   "no": 48,
+   "noLabel": {
+    "pt": "Artigo 48.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V OPERAÇÕES DE PROTEÇÃO CIVIL"
+   },
+   "heading": {
+    "pt": "Planos de emergência de proteção civil"
+   },
+   "text": {
+    "pt": "1.   O Conselho Nacional de Proteção Civil define os critérios e as normas técnicas para a elaboração e operacionalização dos planos de emergência de proteção civil, dos quais deve constar, designadamente:\na) A tipificação dos riscos;\nb) As medidas de prevenção a adotar;\nc) A identificação dos meios e recursos mobilizáveis em situação de acidente grave ou catástrofe;\nd) A definição das responsabilidades dos organismos, serviços e estruturas, públicas ou privadas, com competência no domínio da proteção civil;\ne) Os critérios de mobilização e mecanismos de coordenação dos meios e recursos, públicos ou privados, utilizáveis; f) A estrutura operacional que garante a unidade de direção e o controlo permanente da situação.\n2.   Os planos de emergência de proteção civil classificam-se, segundo a sua finalidade, em gerais ou especiais e, segundo o seu âmbito territorial, em nacionais, regionais ou municipais.\n3.   Os planos de emergência de proteção civil de âmbito nacional são aprovados pelo Governo, sob proposta da Autoridade de Proteção Civil, ouvido o Conselho Nacional de Proteção Civil, nos termos do previsto na alínea e) do n.º 1 do artigo 32.º.\n4.   Os planos de emergência de proteção civil de âmbito regional e municipal são aprovados pelo Conselho Nacional de Proteção Civil, sob proposta da Autoridade de Proteção Civil.\n5.    As entidades com atribuições em matéria de proteção civil ou chamadas a participar nas operações de resgate e socorro, bem como os agentes de proteção civil, devem colaborar na elaboração, operacionalização e execução dos planos de emergência de proteção civil.\n6.  Os planos de emergência de proteção civil devem ser periodicamente atualizados e devem ser objeto de exercícios frequentes com vista a testar a sua operacionalidade."
+   }
+  },
+  {
+   "id": "TL-H189-A49",
+   "no": 49,
+   "noLabel": {
+    "pt": "Artigo 49.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V OPERAÇÕES DE PROTEÇÃO CIVIL"
+   },
+   "heading": {
+    "pt": "Auxílio externo"
+   },
+   "text": {
+    "pt": "1.   O pedido e a concessão de auxílio externo são da competência do Governo, sem prejuízo do previsto em tratado ou convenção internacional.\n2.   Ficam isentos de direitos e ou taxas aduaneiras os bens ou equipamentos a importar, temporária ou definitivamente, no quadro do auxílio externo, devendo dar-se prioridade ao respetivo desembaraço aduaneiro.\n3.  As formalidades legais de controlo relativas à entrada, permanência e saída de cidadãos nacionais ou estrangeiros que participem em missões de proteção civil são reduzidas ao mínimo necessário.\n4.    A   Autoridade de Proteção Civil deve prever a constituição de equipas de resposta rápida modulares com graus de prontidão crescentes para efeitos de ativação, para atuação dentro e fora do País.\n5.   Em caso de auxílio externo, a Autoridade de Proteção Civil deve garantir a receção e o acompanhamento das equipas estrangeiras até ao final das operações, providenciando o apoio logístico necessário."
+   }
+  },
+  {
+   "id": "TL-H189-A50",
+   "no": 50,
+   "noLabel": {
+    "pt": "Artigo 50.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI FORÇAS DE DEFESA E DE SEGURANÇA"
+   },
+   "heading": {
+    "pt": "FALINTIL – Forças de Defesa de Timor-Leste"
+   },
+   "text": {
+    "pt": "As FALINTIL – Forças de Defesa de Timor-Leste, abreviadamente designadas por F-FDTL, colaboram, no âmbito das suas missões específicas, em funções de proteção civil."
+   }
+  },
+  {
+   "id": "TL-H189-A51",
+   "no": 51,
+   "noLabel": {
+    "pt": "Artigo 51.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI FORÇAS DE DEFESA E DE SEGURANÇA"
+   },
+   "heading": {
+    "pt": "Polícia Nacional de Timor-Leste"
+   },
+   "text": {
+    "pt": "A Polícia Nacional de Timor-Leste, abreviadamente designada por PNTL, colabora igualmente, no âmbito das suas missões específicas, em funções de proteção civil."
+   }
+  },
+  {
+   "id": "TL-H189-A52",
+   "no": 52,
+   "noLabel": {
+    "pt": "Artigo 52.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Proteção civil em estado de guerra ou estados de exceção"
+   },
+   "text": {
+    "pt": "Em estado de guerra, estado de sítio ou estado de emergência, as atividades de proteção civil e o funcionamento do sistema instituído pelo artigo 44.º subordinam-se ao disposto na Lei de Defesa Nacional e na Lei sobre o Regime do Estado de Sítio e do Estado de Emergência."
+   }
+  },
+  {
+   "id": "TL-H189-A53",
+   "no": 53,
+   "noLabel": {
+    "pt": "Artigo 53.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Empenhamento operacional conjunto"
+   },
+   "text": {
+    "pt": "1.   A  Autoridade de Proteção Civil e os agentes de proteção civil integram o Sistema Integrado de Segurança Nacional nos termos da Lei n.º 2/2010, de 21 de abril (Lei de Segurança Nacional).\n2.   O empenhamento operacional conjunto das forças de Defesa e das forças e serviços de Segurança, bem como dos agentes de proteção civil, faz-se no quadro do Sistema Integrado de Segurança Nacional."
+   }
+  },
+  {
+   "id": "TL-H189-A54",
+   "no": 54,
+   "noLabel": {
+    "pt": "Artigo 54.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Símbolo da proteção civil"
+   },
+   "text": {
+    "pt": "1.   O símbolo internacional de proteção civil é o estabelecido pelo Protocolo Adicional I às Convenções de Genebra de 12 de agosto de 1949.\n2.    As condições para a adaptação e uso em território nacional do símbolo mencionado no número anterior são definidas por diploma ministerial do membro do Governo responsável pela área da proteção civil, ouvido o Conselho Nacional de Proteção Civil."
+   }
+  },
+  {
+   "id": "TL-H189-A55",
+   "no": 55,
+   "noLabel": {
+    "pt": "Artigo 55.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Seguros"
+   },
+   "text": {
+    "pt": "Consideram-se nulas, não produzindo quaisquer efeitos, as cláusulas apostas em contratos de seguro que excluam a responsabilidade das instituições seguradoras por efeito de declaração da situação de calamidade."
+   }
+  },
+  {
+   "id": "TL-H189-A56",
+   "no": 56,
+   "noLabel": {
+    "pt": "Artigo 56.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Contraordenações"
+   },
+   "text": {
+    "pt": "O Governo define através de decreto-lei as contraordenações correspondentes à violação do previsto na presente lei, designadamente quanto às normas que criam deveres e ou prescrevem formas de atuação e condutas necessárias à execução da política de proteção civil."
+   }
+  }
+ ]
+}

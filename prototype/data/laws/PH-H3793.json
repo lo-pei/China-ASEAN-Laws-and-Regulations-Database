@@ -1,0 +1,74 @@
+{
+ "id": "PH-H3793",
+ "title": {
+  "zh": null,
+  "en": "An Act Creating the Municipality of Montevista in the Province of Davao",
+  "orig": "An Act Creating the Municipality of Montevista in the Province of Davao"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p53",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1966-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4808",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2234,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1966/ra_4808_1966.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1966/ra_4808_1966.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3793-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "(a) Barrios San Jose and Bankerohan and part of Barrio Lino-an of the Municipality of Nabunturan; Barrio New Visayas and part of Barrio Siocon of the Municipality of Compostela; Barrio Bankerohan and part of Barrio Olaycon of the Municipality of Monkayo; part of Barrio Camansa of the Municipality of Asuncion; and part of Barrio Camansi of the Municipality of New Corella, including the sitios of New Tibungco, New Dalaguete, Camantangan, Mayaon, Maputi, Sambayon, Sayoro, San Vicente, Inabatan, Tapia, New Calape, Canidkid, Baguinonan, Daoman, Alimadmad, Tandawan and New Tubigon, are separated from their mother municipalities and constituted into an independent and distinct municipality in the same province which shall be known as the Municipality of Montevista with the seat of government in the present site of Barrio San Jose.\n(b) The boundary which shall separate the Municipality of Montevista from the mother municipalities of Nabunturan, Compostela, Monkayo, Asuncion and New Corella shall be: beginning from Casangay Bridge in Barrio Linoan, Municipality of Nabunturan, at Km. 96 along the Davao-Agusan Highway, running west up to the intersection of Saug River and Pongtod Creek at Barrio Camansa, Municipality of Asuncion; thence running northward along the east side of the Saug River up to Barrio Camansi, Municipality of New Corella; thence running through a straight imaginary line to Sitio Monte Alto, Barrio Camansi; thence to the Concrete Box Culvert of Small Olaycon Creek, Barrio Olayco, Municipality of Monkayo, at Km. 111 along the Davao-Agusan Highway; thence to Sitio Tandawan, Barrio New Visayas, Municipality of Compostela, where it intersects the Compostela-Monkayo boundary line; thence running southward up to the Point where it intersects the Compostela-Nabunturan boundary line in Barrio Siocon opposite the mouth of the Casangay Creek at Manat River; and then running west up to Casangay Bridge at Km. 96 along the Davao-Agusan Highway, Municipality of Nabunturan."
+   }
+  },
+  {
+   "id": "PH-H3793-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The municipal mayor, vice-mayor, and councilors of the newly created Municipality of Montevista shall be elected in the next general elections for local officials."
+   }
+  },
+  {
+   "id": "PH-H3793-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
+   }
+  }
+ ]
+}

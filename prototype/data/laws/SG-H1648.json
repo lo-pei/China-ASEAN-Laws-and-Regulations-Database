@@ -1,0 +1,738 @@
+{
+ "id": "SG-H1648",
+ "title": {
+  "zh": null,
+  "en": "Government Securities (Debt Market and Investment) Act 1992",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p21",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act GSDMIA1992",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 44,
+ "chars": 40689,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/GSDMIA1992?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 44 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。其中 4 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1648-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Government Securities (Debt Market and Investment) Act 1992.\n[Act 35 of 2021 wef 31/01/2022]"
+   }
+  },
+  {
+   "id": "SG-H1648-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“advance deposits” means such deposits as are received under section 27;\n“Authority” means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act 1970;\n[Deleted by Act 35 of 2021 wef 31/01/2022]\n“book‑entry Government securities” means any Government securities issued in Singapore under Part 5 in the form of an entry on the records of the Authority;\n[Act 35 of 2021 wef 31/01/2022]\n“financial institution” means any person licensed, approved, registered or regulated by the Authority, or exempted from such licensing, approval, registration or regulation, under any written law administered by the Authority;\n“foreign reserve asset” has the meaning given by section 23(11) of the Monetary Authority of Singapore Act 1970;\n[Act 5 of 2022 wef 21/02/2022]\n“Government securities” means any stock, bond, note, certificate or similar instruments issued under this Act other than any Treasury Bill and any RMGS;\n[Act 35 of 2021 wef 31/01/2022]\n[Act 5 of 2022 wef 21/02/2022]\n“Government Securities Fund” means the Government Securities Fund established under Part 2;\n“primary dealer” means a person approved under Part 7A to be a primary dealer;\n“public debt securities” means any securities issued under the Significant Infrastructure Government Loan Act 2021;\n“regulations” means regulations made under this Act and, in relation to any particular issue of Government securities or Treasury Bills, includes any notification in the Gazette varying such regulations in relation to that issue;\n[Act 35 of 2021 wef 31/01/2022]\n“repealed 1923 Act” means the Local Treasury Bills Act 1923* repealed by the Government Borrowing (Miscellaneous Amendments) Act 2021;\n[Act 35 of 2021 wef 31/01/2022]\n[*Updated to be consistent with the 2020 Revised Edition]\n“RMGS” means an instrument called a reserves management Government security that is issued under Part 3A;\n[Act 5 of 2022 wef 21/02/2022]\n[Deleted by Act 35 of 2021 wef 31/01/2022]\n[Deleted by Act 35 of 2021 wef 31/01/2022]\n“Treasury Bill” means a Treasury Bill issued in Singapore under the repealed 1923 Act or this Act, and includes a book-entry Treasury Bill, which is issued under either Act in the form of an entry on the records of the Authority;\n[Act 35 of 2021 wef 31/01/2022]\n“trustee stock” means any of the securities mentioned in the Trustees Act 1967 in which trustees may invest.\n[15/2021]"
+   }
+  },
+  {
+   "id": "SG-H1648-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND REGULATIONOF GOVERNMENT SECURITIES FUND"
+   },
+   "heading": {
+    "en": "Government Securities Fund"
+   },
+   "text": {
+    "en": "3.—(1) A Government Securities Fund is established into which must be paid —\n(a)all sums representing the proceeds of loans raised or advance deposits accepted under this Act;\n(b)all sums representing the proceeds of loans raised on or after 1 April 1996 under the repealed 1923 Act;\n[Act 35 of 2021 wef 31/01/2022]\n(ba)all foreign reserve assets received by the Government from the Authority in exchange for RMGS issued to the Authority, all income from these foreign reserve assets and all proceeds realised from the disposition of any of the foreign reserve assets;\n[Act 5 of 2022 wef 21/02/2022]\n(c)all moneys from time to time authorised to be paid into the Government Securities Fund by this Act or any other written law; and\n(d)all income from the investment of moneys in the Government Securities Fund authorised to be made by this Act, and all profits arising from the realisation of any such investments.\n(2) The Government Securities Fund is deemed to be a Government fund for the purposes of any written law."
+   }
+  },
+  {
+   "id": "SG-H1648-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND REGULATIONOF GOVERNMENT SECURITIES FUND"
+   },
+   "heading": {
+    "en": "Application of moneys in Government Securities Fund"
+   },
+   "text": {
+    "en": "4.—(1) The Minister may at any time apply all or any part of the moneys in the Government Securities Fund to the purchase of trustee stock or of any other stock, fund, security or investment mentioned in section 7(3) of the Financial Procedure Act 1966, except any stock, bond, fund or security issued by the Government.\n(2) Nothing in subsection (1) prohibits the conversion of advance deposits to Government securities issued under this Act.\n(3) To avoid doubt, this section does not prevent the Minister causing any foreign reserve assets that are not moneys comprised in the Government Securities Fund to be disposed of and the proceeds thereof to be applied in accordance with subsection (1).\n[Act 5 of 2022 wef 21/02/2022]"
+   }
+  },
+  {
+   "id": "SG-H1648-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND REGULATIONOF GOVERNMENT SECURITIES FUND"
+   },
+   "heading": {
+    "en": "Expenses"
+   },
+   "text": {
+    "en": "5. There are charged upon and payable out of the Government Securities Fund all expenses —\n(a)arising from or incidental to the investment and management of moneys and assets in the Government Securities Fund; and\n[Act 5 of 2022 wef 21/02/2022]\n(b)arising from or incidental to —\n(i)any borrowing under this Act, the repealed 1923 Act and under any other written law authorising moneys borrowed to be paid into the Government Securities Fund; and\n(ii)any redemption of Government securities, Treasury Bills or RMGS, including the transfer of assets to the Authority upon redemption of any RMGS.\n[Act 5 of 2022 wef 21/02/2022]"
+   }
+  },
+  {
+   "id": "SG-H1648-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND REGULATIONOF GOVERNMENT SECURITIES FUND"
+   },
+   "heading": {
+    "en": "Deficiencies in Government Securities Fund"
+   },
+   "text": {
+    "en": "6. Where the moneys in the Government Securities Fund are insufficient —\n(a)to repay any principal sum or interest payable on any Government securities issued or advance deposits accepted under this Act;\n(b)to repay any principal sum payable on any Treasury Bill —\n(i)issued on or after 1 April 1996 under the repealed 1923 Act; or\n(ii)issued under this Act; or\n[Act 35 of 2021 wef 31/01/2022]\n(c)to meet any other obligation charged upon the Government Securities Fund arising from this Act or any other written law,\nat the time when they become due, the deficiency is charged upon and payable out of the Consolidated Fund."
+   }
+  },
+  {
+   "id": "SG-H1648-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND REGULATIONOF GOVERNMENT SECURITIES FUND"
+   },
+   "heading": {
+    "en": "Surpluses in Government Securities Fund"
+   },
+   "text": {
+    "en": "7. The Minister may by warrant under the hand of the Minister authorise the transfer to the Consolidated Fund of any moneys in the Government Securities Fund which, in the opinion of the Minister, are not required to meet the liabilities of the Government Securities Fund."
+   }
+  },
+  {
+   "id": "SG-H1648-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND REGULATIONOF GOVERNMENT SECURITIES FUND"
+   },
+   "heading": {
+    "en": "Application of Financial Procedure Act 1966"
+   },
+   "text": {
+    "en": "8. Sections 6 and 13 of the Financial Procedure Act 1966 do not apply to any loan raised under the provisions of this Act or to moneys in the Government Securities Fund."
+   }
+  },
+  {
+   "id": "SG-H1648-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND REGULATIONOF GOVERNMENT SECURITIES FUND"
+   },
+   "heading": {
+    "en": "Withdrawal of moneys from Government Securities Fund"
+   },
+   "text": {
+    "en": "9. Moneys must not be withdrawn from the Government Securities Fund unless they are charged on the Government Securities Fund or otherwise authorised to be withdrawn under this Act."
+   }
+  },
+  {
+   "id": "SG-H1648-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT AND REGULATIONOF GOVERNMENT SECURITIES FUND"
+   },
+   "heading": {
+    "en": "Mode of payment out of Government Securities Fund"
+   },
+   "text": {
+    "en": "10. A payment must not be made out of the Government Securities Fund unless the payment is authorised by a warrant signed by the Minister."
+   }
+  },
+  {
+   "id": "SG-H1648-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 AUTHORISATION OF BORROWING ANDAPPLICATION OF PROCEEDS"
+   },
+   "heading": {
+    "en": "Borrowing limit for Government securities and Treasury Bills"
+   },
+   "text": {
+    "en": "11.—(1) The Minister may raise loans, in the manner provided in this Part, by the issue of Government securities and Treasury Bills in Singapore.\n(2) However, the Minister must not raise a loan under this Act if the aggregate amount borrowed by the issue of Government securities and Treasury Bills —\n(a)under either or both as follows:\n(i)the repealed 1923 Act;\n(ii)this Act, whether before, on or after the date of commencement of section 14 of the Government Borrowing (Miscellaneous Amendments) Act 2021; and\n(b)outstanding at any time,\nexceeds $1,065,000,000,000, or any higher amount specified in a resolution of Parliament with which the President concurs in the President’s discretion under Article 144(1)(a) of the Constitution.\n[Act 35 of 2021 wef 31/01/2022]"
+   }
+  },
+  {
+   "id": "SG-H1648-A11.001",
+   "no": 11.001,
+   "noLabel": {
+    "en": "11A."
+   },
+   "chapter": {
+    "en": "PART 3 AUTHORISATION OF BORROWING ANDAPPLICATION OF PROCEEDS"
+   },
+   "heading": {
+    "en": "Securities lending arrangements"
+   },
+   "text": {
+    "en": "11A.—(1) The Authority may, from time to time, enter into securities lending arrangements by lending Government securities issued under this Act to primary dealers.\n(2) Lending Government securities must include an arrangement under which Government securities are sold and repurchased.\n(3) Nothing in this section affects the power of the Minister to make investments under section 7 of the Financial Procedure Act 1966."
+   }
+  },
+  {
+   "id": "SG-H1648-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 AUTHORISATION OF BORROWING ANDAPPLICATION OF PROCEEDS"
+   },
+   "heading": {
+    "en": "Payment into Government Securities Fund"
+   },
+   "text": {
+    "en": "12. All moneys, including advance deposits, received under this Act must be paid into the Government Securities Fund."
+   }
+  },
+  {
+   "id": "SG-H1648-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 AUTHORISATION OF BORROWING ANDAPPLICATION OF PROCEEDS"
+   },
+   "heading": {
+    "en": "Principal sums and interest charged on Government Securities Fund"
+   },
+   "text": {
+    "en": "13. The principal sums and interest payable on Government securities issued and advance deposits accepted under this Act are charged upon and must be payable out of the Government Securities Fund."
+   }
+  },
+  {
+   "id": "SG-H1648-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 AUTHORISATION OF BORROWING ANDAPPLICATION OF PROCEEDS"
+   },
+   "heading": {
+    "en": "Maturity of Treasury Bills"
+   },
+   "text": {
+    "en": "14. Every Treasury Bill issued under this Part must —\n(a)have a maturity period ordinarily not exceeding one year; and\n(b)be subject to such conditions as to repayment, redemption and other matters as may be prescribed by this Act and its regulations and, subject to the provisions of this Act and the regulations, by the Minister.\n[Act 35 of 2021 wef 31/01/2022]"
+   }
+  },
+  {
+   "id": "SG-H1648-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 AUTHORISATION OF BORROWING ANDAPPLICATION OF PROCEEDS"
+   },
+   "heading": {
+    "en": "Principal charged on Government Securities Fund"
+   },
+   "text": {
+    "en": "15. The principal payable in respect of moneys borrowed and represented by Treasury Bills issued (or deemed issued) under this Part, are charged upon and are payable out of the Government Securities Fund without authority other than this section.\n[Act 35 of 2021 wef 31/01/2022]"
+   }
+  },
+  {
+   "id": "SG-H1648-A15.001",
+   "no": 15.001,
+   "noLabel": {
+    "en": "15A."
+   },
+   "chapter": {
+    "en": "PART 3A RESERVES MANAGEMENT GOVERNMENT SECURITIES"
+   },
+   "heading": {
+    "en": "Limit on issue of RMGS to Authority"
+   },
+   "text": {
+    "en": "15A.—(1) In return for the issue of reserves management Government securities to the Authority under this Part, the Minister may, subject to subsection (2), accept from the Authority foreign reserve assets of an amount which the Authority considers is in excess of its requirements for performing its functions and duties in the conduct of monetary policy.\n(2) The total amount of reserves management Government securities issued under this Part and not redeemed must not at any time exceed $580,000,000,000, or any higher amount specified in a resolution of Parliament with which the President concurs in the President’s discretion under Article 144(1)(a) of the Constitution.\n(3) In applying subsection (2) —\n(a)any foreign reserve assets accepted under subsection (1) in exchange for any RMGS issued must be converted into Singapore dollars at the appropriate rate of exchange on the first working day immediately before the RMGS is issued; and\n(b)any foreign reserve assets transferred to the Authority on redemption of any RMGS must be converted into Singapore dollars at the appropriate rate of exchange on the first working day immediately before the day the RMGS is redeemed.\n(4) The valuation of any foreign reserve assets that are not in the form of cash must be determined solely by or on behalf of the Minister, and not the Authority.\n(5) RMGS must not be issued to a person other than the Authority.\n[Act 5 of 2022 wef 21/02/2022]"
+   }
+  },
+  {
+   "id": "SG-H1648-A15.002",
+   "no": 15.002,
+   "noLabel": {
+    "en": "15B."
+   },
+   "chapter": {
+    "en": "PART 3A RESERVES MANAGEMENT GOVERNMENT SECURITIES"
+   },
+   "heading": {
+    "en": "Terms of RMGS"
+   },
+   "text": {
+    "en": "15B.—(1) Every RMGS issued under this Part is redeemable at par only.\n(2) Every RMGS —\n(a)is not transferable without the consent of the Minister; and\n(b)is issued subject to such other conditions as to repayment, redemption and other matters as may be agreed between the Minister and the Authority, which may include —\n(i)repayment of the principal sum in the form of financial assets not in the form of cash or not denominated in the currency of Singapore or both; and\n(ii)redemption of the RMGS before the maturity date specified in the RMGS at the election of either the Government or the Authority.\n[Act 5 of 2022 wef 21/02/2022]"
+   }
+  },
+  {
+   "id": "SG-H1648-A15.003",
+   "no": 15.003,
+   "noLabel": {
+    "en": "15C."
+   },
+   "chapter": {
+    "en": "PART 3A RESERVES MANAGEMENT GOVERNMENT SECURITIES"
+   },
+   "heading": {
+    "en": "Principal sums and interest charged on Government Securities Fund"
+   },
+   "text": {
+    "en": "15C. The principal sums and interest payable in respect of any RMGS are charged upon and are payable out of the Government Securities Fund without authority other than this section.\n[Act 5 of 2022 wef 21/02/2022]"
+   }
+  },
+  {
+   "id": "SG-H1648-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "text": {
+    "en": "16. [Repealed by Act 35 of 2021 wef 31/01/2022]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1648-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 5 BOOK‑ENTRY GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "17. In this Part, unless the context otherwise requires —\n“depositary institution” means a financial institution approved by the Authority which regularly —\n(a)accepts in the course of its business book‑entry Government securities by way of a custodial service for its customers; and\n(b)maintains accounts in the names of its customers reflecting ownership or interest in such book‑entry Government securities;\n“depositor” means any person in whose name an account is established and maintained on the records of the Authority;\n“pledge” includes a pledge of, or any security interest in, book‑entry Government securities —\n(a)as collateral for loans or advances; or\n(b)to secure deposits of public moneys or the performance of an obligation;\n“security interest” means an interest, not being an interest arising from a trust, in property which secures the payment of a debt or performance of an obligation."
+   }
+  },
+  {
+   "id": "SG-H1648-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 5 BOOK‑ENTRY GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "Issue of book-entry Government securities"
+   },
+   "text": {
+    "en": "18.—(1) The Authority may —\n(a)issue book‑entry Government securities upon such terms as may be prescribed by means of entries on its records which include the name of the depositor and the amount and description of the securities;\n(b)maintain accounts of book‑entry Government securities —\n(i)for any depositor on such terms and conditions as may be specified by the Authority for such securities the depositor holds for its own account and, where the depositor is a depositary institution, for the account of its customers;\n(ii)for the Government; and\n(iii)for the Authority; and\n(c)otherwise service and maintain book‑entry Government securities.\n(2) The Authority is authorised to take all action necessary in respect of book‑entry Government securities to enable the Authority in its own capacity to perform its obligations as depositary with respect to such securities."
+   }
+  },
+  {
+   "id": "SG-H1648-A18.001",
+   "no": 18.001,
+   "noLabel": {
+    "en": "18A."
+   },
+   "chapter": {
+    "en": "PART 5 BOOK‑ENTRY GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "Transfers and pledges of book-entry Government securities"
+   },
+   "text": {
+    "en": "18A. A holder of book‑entry Government securities may transfer or pledge the book‑entry Government securities, except where the transfer or pledge is prohibited in, or is not in accordance with, the terms of the issue of the book‑entry Government securities.\n[15/2015]"
+   }
+  },
+  {
+   "id": "SG-H1648-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 5 BOOK‑ENTRY GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "Transfers and pledges effected by Authority under book‑entry clearing system"
+   },
+   "text": {
+    "en": "19.—(1) A transfer or pledge of book‑entry Government securities to the Authority or to the Government or to any transferee or pledgee eligible to maintain an appropriate account in its name with the Authority is effected, despite any written law to the contrary, by the Authority making an appropriate entry in its records of the securities transferred or pledged.\n(2) The making of an entry in the records of the Authority under subsection (1) —\n(a)has the effect of delivery of the book‑entry Government security as if the security had been issued in the form of an engraved or printed certificate;\n(b)has the effect of a taking of delivery by the transferee or pledgee;\n(c)constitutes the transferee or pledgee a holder; and\n(d)if a pledge, has the effect of vesting a security interest in favour of the pledgee.\n(3) A transfer or pledge of a book‑entry Government security effected in accordance with this section has priority over any transfer or pledge involving, or any interest in, the security effected or created in any other manner before, on or after the date of the transfer or pledge in accordance with this section."
+   }
+  },
+  {
+   "id": "SG-H1648-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 5 BOOK‑ENTRY GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "Transfers and pledges effected by other means"
+   },
+   "text": {
+    "en": "20.—(1) Despite section 19, a transfer or pledge of book‑entry Government securities, or any interest in such securities, which is maintained by the Authority in an account may be effected by any means that would be effective to effect a transfer or pledge of book‑entry Government securities, or any interest in such securities, if the securities were issued by the Authority in the form of engraved or printed certificates.\n(2) The Authority is deemed not to be —\n(a)a bailee for the purposes of notification of pledges of book‑entry Government securities not effected in accordance with section 19; and\n(b)a person in possession of book‑entry Government securities for the purposes of acknowledgment of transfers of such securities not effected in accordance with section 19.\n(3) Where book-entry Government securities are recorded on the books of a depositary institution for account of the pledgor or transferor of the securities and such securities are on deposit with the Authority in an account, that depositary institution is, for the purposes of effecting delivery of the securities to a purchaser or pledgee, deemed to be —\n(a)the bailee to which notification of the pledge of the securities may be given; or\n(b)the person in possession from which acknowledgment of the holding of the securities may be obtained.\n(4) The Authority must not accept any notice or advice of a transfer or pledge of any book‑entry Government security not effected in accordance with section 19 and any such notice or advice is void.\n(5) The Authority may continue to deal with its depositor in accordance with this Part despite any transfer or pledge not effected in accordance with section 19."
+   }
+  },
+  {
+   "id": "SG-H1648-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 5 BOOK‑ENTRY GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "Authority to be discharged by action on instructions"
+   },
+   "text": {
+    "en": "21.—(1) The Authority is not liable for conversion or for participation in any breach of fiduciary duty where the Authority has, in respect of book‑entry Government securities maintained in accounts maintained by the Authority —\n(a)effected pledges or made entries regarding the securities; or\n(b)transferred or delivered the securities,\naccording to the instructions of its depositor even if the depositor had no right to dispose of or take any other action in respect of the securities.\n(2) The Authority is fully discharged of its obligations under this Part by the transfer or delivery of book‑entry Government securities upon the instructions of its depositor."
+   }
+  },
+  {
+   "id": "SG-H1648-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 5 BOOK‑ENTRY GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "Confirmation of transaction"
+   },
+   "text": {
+    "en": "22.—(1) The Authority must, following any transaction affecting book‑entry Government securities maintained for any depositor under this Part, issue to each depositor a confirmation of the transaction in the form of an advice (serially numbered or otherwise).\n(2) The advice mentioned in subsection (1) must specify the amount and description of the securities and any other pertinent transaction data."
+   }
+  },
+  {
+   "id": "SG-H1648-A22.001",
+   "no": 22.001,
+   "noLabel": {
+    "en": "22A."
+   },
+   "chapter": {
+    "en": "PART 5 BOOK‑ENTRY GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "Application to book-entry Treasury Bills"
+   },
+   "text": {
+    "en": "22A. This Part applies to the issue, management, transfer and other dealing in book-entry Treasury Bills with the necessary modifications as this Part applies to book-entry Government securities.\n[Act 35 of 2021 wef 31/01/2022]"
+   }
+  },
+  {
+   "id": "SG-H1648-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 6 PROVISIONS RELATING TO INTEREST PAYMENTSON AND REDEMPTION OF GOVERNMENTSECURITIES"
+   },
+   "heading": {
+    "en": "Payment of interest"
+   },
+   "text": {
+    "en": "23.—(1) Subject to subsection (2), the interest payable on any Government securities issued under this Act must be paid half‑yearly at the office of the Authority as is specified in the regulations relating to the issue of the Government securities.\n(2) Where any Government security that is redeemable at the election of the holder thereof at any time is redeemed before its date of maturity, a portion of the half‑yearly interest payable on that Government security (calculated on a pro‑rata basis) must be payable on such date as may be specified as the redemption date in the duly served notice of intention to redeem that Government security.\n(3) The Minister must —\n(a)in each half-yearly period ending on the day on which interest on the Government securities falls due; or\n(b)in the case of Government securities that are redeemable at the election of the holders thereof at any time, as soon as practicable after due notice of intention to redeem the Government securities before their date of maturity is given,\nappropriate out of the Government Securities Fund a sum equal to the appropriate interest (or portion of it) on all the Government securities that is due and payable in order to pay that interest."
+   }
+  },
+  {
+   "id": "SG-H1648-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 6 PROVISIONS RELATING TO INTEREST PAYMENTSON AND REDEMPTION OF GOVERNMENTSECURITIES"
+   },
+   "heading": {
+    "en": "Redemption of Government securities"
+   },
+   "text": {
+    "en": "24.—(1) Subject to subsection (2) and section 24A, Government securities are redeemable at par —\n(a)on such date as may be specified in accordance with the regulations relating to the issue of such Government securities (called in this Part the date of maturity); or\n(b)in the case of Government securities that are redeemable at the election of the holder thereof at any time, on the earlier of the following dates:\n(i)the date of maturity;\n(ii)such date as may be specified as the redemption date in any notice of intention to redeem that is duly served in the prescribed manner.\n[15/2021]\n(2) In the case of Government securities that are held by the Authority for the purpose of securities lending to primary dealers under section 11A, such Government securities are redeemable on such conditions as are agreed upon between the Government and the Authority.\n(3) After the date of maturity of the Government securities under subsection (1), all the interest on the principal sums payable on the Government securities ceases and determines, whether or not payment of the principal sums has been demanded.\n(4) Redemption proceeds of book-entry Government securities must be disposed of in accordance with the instructions from the depositor for whose account the securities have been maintained by the Authority."
+   }
+  },
+  {
+   "id": "SG-H1648-A24.001",
+   "no": 24.001,
+   "noLabel": {
+    "en": "24A."
+   },
+   "chapter": {
+    "en": "PART 6 PROVISIONS RELATING TO INTEREST PAYMENTSON AND REDEMPTION OF GOVERNMENTSECURITIES"
+   },
+   "heading": {
+    "en": "Early redemption"
+   },
+   "text": {
+    "en": "24A.—(1) The Authority may, from time to time, by public notice invite the public to apply to redeem any Government securities specified in the public notice before the date of maturity of those Government securities.\n(2) The public notice referred to in subsection (1) may specify —\n(a)the terms and conditions relating to the early redemption of the Government securities specified in the public notice, including the manner in which any offer for early redemption is to be made; and\n(b)such other information as the Authority may consider necessary.\n(3) The Authority may refuse any application to redeem any Government securities before the date of maturity of those Government securities without giving any reason.\n(4) Section 24(3) and (4) applies, with the necessary modifications, to any redemption of Government securities under this section.\n(5) This section applies to Government securities issued before, on or after 1 April 2010."
+   }
+  },
+  {
+   "id": "SG-H1648-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 6 PROVISIONS RELATING TO INTEREST PAYMENTSON AND REDEMPTION OF GOVERNMENTSECURITIES"
+   },
+   "text": {
+    "en": "25. [Repealed by Act 35 of 2021 wef 31/01/2022]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1648-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 6 PROVISIONS RELATING TO INTEREST PAYMENTSON AND REDEMPTION OF GOVERNMENTSECURITIES"
+   },
+   "text": {
+    "en": "26. [Repealed by Act 35 of 2021 wef 31/01/2022]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1648-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 7 ADVANCE DEPOSITS"
+   },
+   "heading": {
+    "en": "Acceptance of advance deposits"
+   },
+   "text": {
+    "en": "27.—(1) In anticipation of the raising of a loan under Part 3* by the issue of Government securities, the Minister may, if the Minister thinks fit, authorise acceptance by the Authority of advance deposits on such terms as the Authority may determine.\n[Act 35 of 2021 wef 31/01/2022]\n[*Updated to be consistent with the 2020 Revised Edition]\n(2) Advance deposits must carry interest at such rate as may be determined by the Authority which is to be calculated from the date the deposit was effectively received by the Authority.\n(3) For the purposes of subsection (2), where cheques for the advance deposits cannot be cleared on the day of receipt, interest is to be calculated from the next working day.\n(4) Interest on advance deposits must be paid half‑yearly.\n(5) The Minister must, in each half‑yearly period ending with the day on which interest on advance deposits falls due, appropriate out of the Government Securities Fund a sum equal to the appropriate half‑year’s interest on the advance deposits in order that the interest for that half‑year may be paid from that sum.\n(6) If a depositor wishes the whole or part of the advance deposits made by the depositor to be repaid, the depositor must give at least 2 working days’ notice to the Authority of the depositor’s intention and the advance deposits or that part of them (as the case may be) must be repaid to the depositor together with such interest as may be determined by the Authority.\n(7) Advance deposits may be converted to Government securities issued under this Act on such date as may be agreed between the Authority and the depositors."
+   }
+  },
+  {
+   "id": "SG-H1648-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 7 ADVANCE DEPOSITS"
+   },
+   "heading": {
+    "en": "Power to make advance deposits"
+   },
+   "text": {
+    "en": "28. Any power to invest conferred on a person by any instrument or other written law is, unless the contrary intention appears in such instrument or other written law, deemed to include power to make advance deposits in accordance with this Act."
+   }
+  },
+  {
+   "id": "SG-H1648-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 7 ADVANCE DEPOSITS"
+   },
+   "text": {
+    "en": "29. [Repealed by Act 35 of 2021 wef 31/01/2022]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1648-A29.001",
+   "no": 29.001,
+   "noLabel": {
+    "en": "29A."
+   },
+   "chapter": {
+    "en": "PART 7A PRIMARY DEALERS"
+   },
+   "heading": {
+    "en": "Appointment as primary dealers"
+   },
+   "text": {
+    "en": "29A.—(1) The Authority may, on application, appoint as a primary dealer any financial institution which carries on or intends to carry on, or holds itself out as carrying on or willing to carry on the business of either or both of the following:\n(a)applying to the Authority to purchase Government securities, Treasury Bills or public debt securities on behalf of another person pursuant to any public invitation under section 30 or the Significant Infrastructure Government Loan Act 2021;\n[Act 35 of 2021 wef 31/01/2022]\n(b)offering to redeem any Government securities, Treasury Bills or public debt securities on behalf of another person pursuant to any public invitation under section 24A or the Significant Infrastructure Government Loan Act 2021 or otherwise.\n[15/2021]\n[Act 35 of 2021 wef 31/01/2022]\n(2) In determining whether to appoint a financial institution as a primary dealer, the Authority must consider the following:\n(a)the financial standing of the financial institution;\n(b)the experience of that financial institution in carrying on the business mentioned in subsection (1), and its ability to perform the duties which would be imposed on it by or under this Act;\n(c)the public interest.\n(3) The Authority may, in any particular case, require the financial institution applying to be appointed as a primary dealer (called in this section the applicant) to provide such information or document as the Authority deems relevant to its considerations under subsection (2).\n(4) The Authority may refuse an application if —\n(a)the applicant does not provide the Authority with such information or document as is required under subsection (3);\n(b)in the opinion of the Authority, the applicant does not meet, or is unlikely to be able to continue to meet, such requirements as may be prescribed in relation to carrying on any business mentioned in subsection (1); or\n(c)the applicant makes any statement, or provides any information or document, in relation to its application that is false or misleading in any material particular, or omits to state any matter or thing without which its application is false or misleading in a material particular.\n(5) Every appointment as a primary dealer under this section continues in force for such period as may be specified by the Authority, unless the appointment is earlier cancelled or suspended.\n(6) If a person who is not a primary dealer carries on or holds himself, herself or itself out as carrying on or willing to carry on any business mentioned in subsection (1), the person shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part of a day during which the offence continues after conviction; or\n(b)in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H1648-A29.002",
+   "no": 29.002,
+   "noLabel": {
+    "en": "29B."
+   },
+   "chapter": {
+    "en": "PART 7A PRIMARY DEALERS"
+   },
+   "heading": {
+    "en": "Conditions of appointment as primary dealers"
+   },
+   "text": {
+    "en": "29B.—(1) The Authority may appoint any financial institution as a primary dealer subject to such conditions or restrictions as the Authority thinks fit.\n(2) Without limiting subsection (1), the Authority may impose such conditions or restrictions with respect to the type of services which may or may not be provided by the primary dealer as the Authority may consider appropriate.\n(3) Subject to subsections (4), (5) and (6), the Authority may at any time add to, vary or revoke any condition or restriction of any financial institution’s appointment as a primary dealer.\n(4) Before making any modification to the conditions or restrictions of any financial institution’s appointment as a primary dealer under this section, the Authority must, unless the Authority in respect of any particular case considers that it is not practicable or desirable to do so, give notice to the financial institution concerned —\n(a)stating that the Authority proposes to make the modification in the manner specified in the notice;\n(b)stating the reasons why the Authority proposes to make the modification; and\n(c)specifying the time (being at least 28 days from the date of service of notice on the financial institution) within which written representations with respect to the proposed modification may be made.\n(5) Where the Authority receives any written representation under subsection (4)(c), the Authority must consider the representation and may —\n(a)reject the representation; or\n(b)withdraw or amend the proposed modification in accordance with the representation or otherwise,\nand, in either case, the Authority must upon receiving the representation issue a written notice to the primary dealer concerned requiring that effect be given within a reasonable time to the proposed modification specified in the notice or to such modification as may subsequently be amended by the Authority.\n(6) If no written representation is received by the Authority within the time specified under subsection (4)(c) or if any written representation made under that subsection is subsequently withdrawn, the modification takes effect as specified in the notice given under that subsection."
+   }
+  },
+  {
+   "id": "SG-H1648-A29.003",
+   "no": 29.003,
+   "noLabel": {
+    "en": "29C."
+   },
+   "chapter": {
+    "en": "PART 7A PRIMARY DEALERS"
+   },
+   "heading": {
+    "en": "Directions to primary dealers"
+   },
+   "text": {
+    "en": "29C.—(1) The Authority may give directions to be observed by any primary dealer or class of primary dealers —\n(a)to ensure the continuity or reliability of the provision of services by the primary dealer or class of primary dealers to its or their customers; or\n(b)in the public interest.\n(2) A direction under subsection (1) —\n(a)must require the primary dealer or every primary dealer in that class of primary dealers concerned (according to the circumstances of the case) to do, or not to do, such things as are specified in the direction or are of a description as specified in the direction, including but not limited to the manner in which the primary dealer conducts the business mentioned in section 29A(1) with its customers;\n(b)takes effect at such time, being the earliest practicable time, as is determined by or under that direction; and\n(c)may be varied or revoked at any time by the Authority.\n(3) Every primary dealer must comply with every direction of the Authority given to the dealer under this section.\n(4) It is not necessary to publish any direction in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H1648-A29.004",
+   "no": 29.004,
+   "noLabel": {
+    "en": "29D."
+   },
+   "chapter": {
+    "en": "PART 7A PRIMARY DEALERS"
+   },
+   "heading": {
+    "en": "Cancellation, etc., of appointment as primary dealer"
+   },
+   "text": {
+    "en": "29D.—(1) If the Authority is satisfied that —\n(a)a primary dealer is contravening, or is likely to contravene or has contravened —\n(i)any provision of this Act applicable to the primary dealer; or\n(ii)any condition or restriction of its appointment as a primary dealer;\n(b)a primary dealer has not complied with any direction issued by the Authority under section 29C;\n(c)a primary dealer has gone or is likely to go into compulsory or voluntary liquidation other than for the purpose of amalgamation or reconstruction;\n(d)a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the primary dealer;\n(e)a primary dealer has obtained the appointment as a primary dealer by fraud or misrepresentation;\n(f)a primary dealer has failed to satisfy any of the primary dealer’s obligations under or arising from this Act;\n(g)a primary dealer has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that the primary dealer had acted fraudulently or dishonestly;\n(h)a primary dealer is no longer in a position to effectively carry out the primary dealer’s duties or responsibilities as a primary dealer under this Act and the regulations made under this Act; or\n(i)a primary dealer is carrying on its business mentioned in section 29A(1) in a manner that is likely to be detrimental to its clients or contrary to the public interest,\nthe Authority may by order cancel the appointment as a primary dealer.\n(2) The Authority may, if it considers it desirable to do so, in lieu of an order cancelling the appointment as a primary dealer, by order do either or both of the following:\n(a)suspend the appointment for such period (not exceeding 6 months) as it thinks fit;\n(b)reprimand the primary dealer in writing.\n(3) In the case of a failure by a primary dealer to comply with any direction issued by the Authority under section 29C, the Authority may, in addition to any order that may be made under subsection (2), order the primary dealer to pay to the Authority, for every day or part of a day of such failure, a financial penalty in accordance with such formula as the Minister may, by notification in the Gazette, prescribe.\n(4) A financial penalty collected by the Authority under subsection (3) must be paid into the Consolidated Fund.\n(5) The Authority must not make any order under subsection (1), (2) or (3) unless an opportunity of being heard by a representative in writing had been given to the primary dealer against which the Authority intends to exercise its powers, being a period of at least 21 days but not more than 28 days.\n(6) Where the Authority has made any order under subsection (1), (2) or (3) against any primary dealer, it must serve on the primary dealer concerned a notice of its order.\n(7) Subject to subsections (8) and (9), any order made by the Authority under subsection (1), (2) or (3) against any primary dealer must not take effect until the expiry of 21 days after the Authority has served the notice of its order on the primary dealer concerned.\n(8) Any order cancelling or suspending an appointment as a primary dealer must not operate so as to —\n(a)prejudice the enforcement by any person of any right or claim against the financial institution formerly appointed as a primary dealer, or by the financial institution formerly so appointed, of any right or claim against any person; or\n(b)affect the validity or enforceability of any agreement, transaction or arrangement in respect of Government securities, Treasury Bills or public debt securities entered into (whenever) by the primary dealer.\n[Act 35 of 2021 wef 31/01/2022]\n(9) An order of reprimand under subsection (2) takes effect on the date it is served on the primary dealer concerned.\n(10) The Authority may recover on behalf of the Government any financial penalty ordered under subsection (3) as though the financial penalty were a civil debt due to the Authority."
+   }
+  },
+  {
+   "id": "SG-H1648-A29.005",
+   "no": 29.005,
+   "noLabel": {
+    "en": "29E."
+   },
+   "chapter": {
+    "en": "PART 7A PRIMARY DEALERS"
+   },
+   "heading": {
+    "en": "Appeal to Minister"
+   },
+   "text": {
+    "en": "29E.—(1) Any primary dealer who is aggrieved by —\n(a)any notice of a condition or restriction of any financial institution’s appointment as a primary dealer under section 29B;\n(b)any direction given by the Authority under section 29C or variation of any such direction; or\n(c)any order of the Authority under section 29D(1), (2) or (3) except an order of reprimand,\nmay, within 14 days of the receipt by the primary dealer of the notice of the condition or restriction, the direction (or variation of the direction) or order (as the case may be) appeal to the Minister whose decision is final.\n(2) Where an appeal is lodged under this section —\n(a)the order under section 29D cancelling the appointment as a primary dealer does not take effect unless the order is confirmed by the Minister or the appeal is for any reason dismissed by the Minister or withdrawn; and\n(b)all other notices, directions (or variation of the directions) or orders appealed against take effect and must be complied with until the determination of the appeal.\n(3) Subject to subsection (4), the Minister may determine an appeal under this section by confirming, varying or reversing the notice, direction (or variation of the direction) or order of the Authority that is appealed against.\n(4) If the Minister is satisfied that an appeal by a primary dealer is instituted or pursued without reasonable ground, the Minister may, without calling for a reply from the Authority, but after giving the primary dealer an opportunity to be heard, determine the appeal by confirming the notice, direction (or variation of the direction) or order of the Authority that is appealed against."
+   }
+  },
+  {
+   "id": "SG-H1648-A29.006",
+   "no": 29.006,
+   "noLabel": {
+    "en": "29F."
+   },
+   "chapter": {
+    "en": "PART 7A PRIMARY DEALERS"
+   },
+   "heading": {
+    "en": "Inspection of books"
+   },
+   "text": {
+    "en": "29F.—(1) The Authority may from time to time inspect, under conditions of secrecy, the books of a primary dealer relating to its business mentioned in section 29A(1) for the purposes of ensuring that —\n(a)any condition or restriction imposed by the Authority under section 29B on the primary dealer is complied with;\n(b)any direction given by the Authority under section 29C to the primary dealer is complied with; or\n(c)the primary dealer has satisfied or satisfies any of its obligations under or arising from this Part.\n(2) For the purposes of an inspection under this section —\n(a)a primary dealer, and any person who is in possession of the books of the primary dealer relating to its business mentioned in section 29A(1), must produce such books (and afford the Authority access to such books) and provide such information and facilities as may be required by the Authority to conduct the inspection;\n(b)the primary dealer must procure that any such person in paragraph (a) who is in possession of the books of the primary dealer produce the books to the Authority and provide such information or facilities as may be required by the Authority; and\n(c)the Authority may —\n(i)make copies of, or take possession of, any of such books; and\n(ii)retain possession of any of such books for so long as is necessary for the purposes of exercising a power conferred by this section (except subsection (4)).\n(3) No person is entitled, as against the Authority, to claim a lien on any of the books, but such a lien is not otherwise prejudiced.\n(4) While the books of a primary dealer are in the possession of the Authority, the Authority —\n(a)must permit another person to inspect at all reasonable times such books (if any) as the other person would be entitled to inspect if they were not in the possession of the Authority; and\n(b)may permit another person to inspect any of the books.\n(5) The Authority may require a person who produced any book to the Authority to explain, to the best of the person’s knowledge and belief, any matter about the compilation of the book or to which the book relates.\n(6) Any person who, without reasonable excuse, fails to comply with subsection (2) or a requirement of the Authority under subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part of a day during which the offence continues after conviction.\n(7) In this section, “book”, with its grammatical variations, includes any record, register, document or other record of information, and any account or accounting record, however compiled, recorded or stored, whether in written or printed form or on microfilm or in any electronic form or otherwise."
+   }
+  },
+  {
+   "id": "SG-H1648-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 8 GENERAL"
+   },
+   "heading": {
+    "en": "Authority acts on Government’s behalf"
+   },
+   "text": {
+    "en": "30.—(1) The Authority is, by this section, appointed to act on the Government’s behalf as an agent —\n(a)for issuing of Government securities or Treasury Bills for moneys borrowed under this Act; and\n(b)for any other purpose connected with paragraph (a).\n(2) Without limiting subsection (1), the Authority may —\n(a)by public notice invite the public to apply to take up any Government securities or Treasury Bills issued under this Act; and\n(b)refuse any application to take up Government securities or Treasury Bills issued under this Act without assigning any reason.\n(3) Subsection (1) does not prevent the exercise by the Minister of any power under this Act.\n[Act 35 of 2021 wef 31/01/2022]"
+   }
+  },
+  {
+   "id": "SG-H1648-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 8 GENERAL"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "31.—(1) The Minister may make regulations for prescribing anything which may be prescribed under this Act and generally for the purpose of carrying this Act into effect and, in particular, may make regulations —\n(a)prescribing the terms of issue of Government securities or Treasury Bills issued or advance deposits accepted under this Act;\n[Act 35 of 2021 wef 31/01/2022]\n(b)prescribing the manner in which applications to take up Government securities or Treasury Bills issued under this Act must be made;\n[Act 35 of 2021 wef 31/01/2022]\n(c)prescribing the manner in which Government securities or Treasury Bills must be issued or advance deposits accepted, which may include by syndicated arrangements or like arrangements involving financial institutions agreeing to underwrite any issue of Government securities or Treasury Bills under this Act, to be liable to subscribe for or to procure subscribers for Government securities or Treasury Bills, or to provide other financial accommodation to the Government with respect to any Government securities or Treasury Bills;\n[Act 35 of 2021 wef 31/01/2022]\n(d)prescribing the manner in which applications to be appointed as a primary dealer are to be made;\n(e)prescribing the duties and obligations of a primary dealer;\n(f)providing that section 75B of the Banking Act 1970 applies to a primary dealer as if the primary dealer were a bank licensed under that Act, with such prescribed exceptions, modifications and adaptations as the differences between this Act and that Act require; and\n[Act 35 of 2021 wef 31/01/2022]\n(g)exempting any financial institution or class of financial institutions from all or any of the provisions of Part 7A.\n[15/2021]\n[Act 35 of 2021 wef 31/01/2022]\n(2) The Minister may, by notification in the Gazette, vary the regulations in relation to any particular issue of Government securities or Treasury Bills issued or advance deposits accepted under this Act.\n[Act 35 of 2021 wef 31/01/2022]\n(3) The regulations may also provide that any contravention of any provision of the regulations shall be an offence punishable —\n(a)in the case of an individual, with a fine not exceeding $12,500 or with imprisonment for a term not exceeding 12 months or with both and, in the case of a continuing offence, with a further fine not exceeding $1,250 for every day or part of a day during which the offence continues after conviction; or\n(b)in any other case, with a fine not exceeding $25,000 and, in the case of a continuing offence, with a further fine not exceeding $2,500 for every day or part of a day during which the offence continues after conviction."
+   }
+  }
+ ]
+}

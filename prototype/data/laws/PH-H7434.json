@@ -1,0 +1,86 @@
+{
+ "id": "PH-H7434",
+ "title": {
+  "zh": null,
+  "en": "An Act Transferring the High School Located Within the Campus of the Magallanes School of Fisheries to Barangay Centro, Municipality of Magallanes, Province of Sorsogon and Changing its Name to Magallanes National High School, and appropriating funds therefor",
+  "orig": "An Act Transferring the High School Located Within the Campus of the Magallanes School of Fisheries to Barangay Centro, Municipality of Magallanes, Province of Sorsogon and Changing its Name to Magallanes National High School, and appropriating funds therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p105",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2000-09-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 8966",
+ "officialCode": null,
+ "topics": [
+  "environment",
+  "administrative",
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 578,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2000/ra_8966_2000.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2000/ra_8966_2000.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H7434-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The high school within the campus of the Magallanes School of Fisheries is hereby transferred to Barangay Centro, Municipality of Magallanes, Province of Sorsogon and its name changed to Magallanes National High School."
+   }
+  },
+  {
+   "id": "PH-H7434-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter."
+   }
+  },
+  {
+   "id": "PH-H7434-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The Department of Education, Culture and Sports shall issue the necessary rules and regulations for the effective implementation of this Act."
+   }
+  },
+  {
+   "id": "PH-H7434-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

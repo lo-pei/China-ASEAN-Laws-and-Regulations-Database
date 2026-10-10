@@ -1,0 +1,584 @@
+{
+ "id": "SG-H3192",
+ "title": {
+  "zh": null,
+  "en": "Merchant Shipping (Pleasure Craft) Regulations 2020",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p40",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MSA1995-S161-2020",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 35,
+ "chars": 49275,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MSA1995-S161-2020?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 35 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 3 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3192-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Merchant Shipping (Pleasure Craft) Regulations 2020 and come into operation on 1 July 2020."
+   }
+  },
+  {
+   "id": "SG-H3192-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“accredited organisation” means an organisation authorised by the Director to conduct surveys in accordance with Part 3;\n“Convention” means the International Convention for the Safety of Life at Sea, 1974 and any amendment to it which has come into force and has been accepted by the Government;\n“gross tonnage”, in relation to a pleasure craft, means the gross tonnage of the pleasure craft as specified in its Singapore Tonnage Certificate or, if none, a builder’s certificate recognised by the Director, or, if none, as determined by the Director —\n(a)for a craft with a load line length not exceeding 24 metres, in accordance with the tonnage measurement method set out in the First Schedule; or\n(b)for a craft with a load line length of 24 metres or more, in accordance with the International Convention on Tonnage Measurement of Ships, 1969;\n“IMO” means the International Maritime Organization;\n“load line length”, in relation to a pleasure craft, means —\n(a)96% of the total length on the waterline of the pleasure craft at 85% of the least moulded depth measured from the top of the keel; or\n(b)the length from the fore‑side of the stem to the axis of the rudder stock on that waterline,\nwhichever is greater, and in determining the load line length in relation to a pleasure craft that is designed with a rake of keel, the waterline that is used to measure the load line length of the pleasure craft must be parallel to the designed waterline;\n“owner”, in relation to a pleasure craft, means any person who is the sole, joint or part owner of the pleasure craft;\n“passenger” means every person on board a pleasure craft other than any of the following:\n(a)the master;\n(b)any crew member of the pleasure craft;\n(c)any person employed or engaged in any capacity in connection with the business of the pleasure craft;\n(d)any child below one year of age;\n“pleasure craft” means any ship that is intended to be used exclusively by its owner, or a guest of the owner without payment of any fee or other form of consideration, for sport or pleasure;\n“recognised surveyor” means —\n(a)a person who is employed by an accredited organisation to conduct a survey of a pleasure craft and to issue a survey report under Part 3; or\n(b)a person who is authorised by the Director to conduct a survey of a pleasure craft and to issue a survey report under Part 3;\n“Singapore business entity” means any of the following entities that is carrying out any business activity in Singapore, whether for profit or not:\n(a)any body corporate that is incorporated under any written law in Singapore;\n(b)any firm or partnership registered under the Business Names Registration Act 2014 (Act 29 of 2014);\n(c)any limited partnership registered under the Limited Partnerships Act (Cap. 163B);\n(d)any society registered under the Societies Act (Cap. 311);\n(e)any unincorporated association that is formed in Singapore under any written law;\n“Singapore pleasure craft” means a pleasure craft —\n(a)which is registered or registered anew, or that has its registry renewed, under these Regulations; and\n(b)which registry under these Regulations is not closed, or deemed to be closed, under these Regulations."
+   }
+  },
+  {
+   "id": "SG-H3192-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Exemption from certain provisions of Act"
+   },
+   "text": {
+    "en": "3.—(1) Sections 9(2), 10 to 16, 18, 19, 20(1)(a) and (2), 25 to 32, 34, 35 and 42(1)(a) of the Act do not apply in respect of a Singapore pleasure craft.\n(2) Sections 99(2) and (3), 101, 104 to 114 and 116(3) of the Act do not apply in respect of a Singapore pleasure craft."
+   }
+  },
+  {
+   "id": "SG-H3192-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRY OF PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Conditions for registry"
+   },
+   "text": {
+    "en": "4.—(1) Subject to paragraph (2), a pleasure craft that is wholly owned by —\n(a)a person who is ordinarily resident in Singapore; or\n(b)a Singapore business entity,\nmay be registered or registered anew as a Singapore pleasure craft, or may have its registration renewed as a Singapore pleasure craft.\n(2) A pleasure craft may not be registered or registered anew, or have its registration renewed as a Singapore pleasure craft if it —\n(a)is a passenger ship;\n(b)is less than 7 metres in load line length;\n(c)does not have an enclosed deck;\n(d)has a wooden hull;\n(e)is inflatable (whether or not it is an inflatable craft with a rigid board); or\n(f)is above 17 years of age.\n(3) Despite paragraph (2)(f), if the Registrar is satisfied that a pleasure craft above 17 years of age is in a satisfactory condition, the Registrar may grant the renewal of the registry of the pleasure craft, or the registry anew of the pleasure craft, in accordance with these Regulations."
+   }
+  },
+  {
+   "id": "SG-H3192-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRY OF PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Owner or authorised person to apply"
+   },
+   "text": {
+    "en": "5.—(1) An application for the initial registry, registry anew or the renewal of the registry, of a pleasure craft under these Regulations may be made by —\n(a)the owner of the pleasure craft; or\n(b)a person authorised by the owner to apply on the owner’s behalf.\n(2) If the application is made by a person mentioned in paragraph (1)(b), the authorisation must be in the form and manner the Registrar determines."
+   }
+  },
+  {
+   "id": "SG-H3192-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRY OF PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Application for initial registry"
+   },
+   "text": {
+    "en": "6.—(1) A person applying for the initial registry of a pleasure craft as a Singapore pleasure craft must provide the Registrar with —\n(a)the following information and documents relating to the owner of the pleasure craft:\n(i)the name, address and any other particulars of the owner that the Registrar requires for the purposes of these Regulations;\n(ii)the following proof of the owner’s residence in Singapore, as applicable:\n(A)for an owner that is a Singapore business entity, a copy of its certificate of incorporation, formation or registration, as the case may be;\n(B)for an owner that is a person registered under the National Registration Act (Cap. 201), a copy of the person’s identity card issued under that Act;\n(C)for an owner that is any other person ordinarily resident in Singapore, proof of the person’s residence in Singapore at the address provided and —\n(CA)a copy of the person’s passport; or\n(CB)a copy of the person’s work permit or S pass, as issued by the Controller of Work Passes;\n(iii)evidence of the ownership of the pleasure craft, to the satisfaction of the Registrar; and\n(b)the following information and documents relating to the pleasure craft for which the initial registry is sought:\n(i)the name of the pleasure craft;\n(ii)the type, dimensions, carrying capacity, gross tonnage and specifications of the pleasure craft;\n(iii)a survey report of the pleasure craft;\n(iv)full coloured photographs displaying the name of the pleasure craft and its enclosed deck;\n(v)every policy of insurance held by the owner of the pleasure craft with respect to the use or navigation of the pleasure craft;\n(vi)evidence of cancellation of any foreign registry in respect of the pleasure craft, if applicable;\n(vii)any other particulars and documents in respect of the pleasure craft that the Registrar requires for the purposes of these Regulations.\n(2) A survey report of a pleasure craft must be based on a survey of the pleasure craft provided for the purpose of an application for initial registry (called in these Regulations the initial survey) that must be completed not earlier than 3 months before the date of the application."
+   }
+  },
+  {
+   "id": "SG-H3192-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRY OF PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Application for registry anew"
+   },
+   "text": {
+    "en": "7.—(1) A person applying for the registry anew of a pleasure craft may do so only if —\n(a)the pleasure craft was previously registered under these Regulations or Part V of the Merchant Shipping (Registration of Ships) Regulations (Rg 7) as in force immediately before 1 July 2020; and\n(b)the previous registry of the pleasure craft was closed, or deemed to be closed, under these Regulations or Part V of the Merchant Shipping (Registration of Ships) Regulations as in force immediately before 1 July 2020, no earlier than 3 years before the date of application for registry anew.\n(2) A person applying for the registry anew of a pleasure craft must provide the Registrar with —\n(a)the same information and documents as mentioned in regulation 6(1); and\n(b)where the previous registry of the pleasure craft was closed or deemed to be closed upon the transfer of ownership of the pleasure craft, sufficient evidence of the transfer of ownership of the pleasure craft.\n(3) A survey report of a pleasure craft that is provided for the purpose of an application for registry anew of the pleasure craft must be based on —\n(a)a registry anew survey of the pleasure craft that —\n(i)was conducted for the purpose of the application; and\n(ii)was completed not earlier than 3 months before the date of the application;\n(b)an initial survey of the pleasure craft that —\n(i)was conducted for the purpose of a previous application for initial registry; and\n(ii)was completed not earlier than 3 years before the date of the application for registry anew;\n(c)a registry anew survey of the pleasure craft that —\n(i)was conducted for the purpose of a previous application for registry anew; and\n(ii)was completed not earlier than 3 years before the date of the current application for registry anew; or\n(d)a renewal survey of the pleasure craft that —\n(i)was conducted for the purpose of an earlier application for the renewal of the previous registry of the pleasure craft; and\n(ii)was completed not earlier than 3 years and 3 months before the date of application for registry anew."
+   }
+  },
+  {
+   "id": "SG-H3192-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRY OF PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Application to renew registry"
+   },
+   "text": {
+    "en": "8.—(1) An application to renew the registry of a pleasure craft under these Regulations must be made within a period of 3 months before the expiry date of the registry of the pleasure craft.\n(2) A person applying to renew the registry of a pleasure craft under these Regulations must provide the Registrar with —\n(a)the details of any change in the particulars of the pleasure craft, or the owner of the pleasure craft, that was previously submitted to the Registrar;\n(b)a survey report of the pleasure craft; and\n(c)any other particulars and documents in respect of the pleasure craft that the Registrar requires for the purposes of these Regulations.\n(3) A survey report of a pleasure craft that is provided for the purpose of an application (called in this paragraph the current application) to renew the registry of the pleasure craft must be based on —\n(a)an initial survey of the pleasure craft that was completed not earlier than 3 years before the date of the current application;\n(b)a registry anew survey of the pleasure craft that was completed not earlier than 3 years before the date of the current application; or\n(c)a renewal survey of the pleasure craft that —\n(i)was conducted for the purpose of an earlier application to renew the registry of the pleasure craft, and that was completed not earlier than 3 years and 3 months before the date of the current application; or\n(ii)was conducted for the purpose of the current application to renew the registry of the pleasure craft, and that was completed not earlier than 3 years and 3 months before the date of the current application.\n(4) Despite paragraph (1), the Registrar may accept an application to renew the registry of a pleasure craft under these Regulations that is made earlier than 3 months before the expiry date of the registry of the pleasure craft, if the Registrar is satisfied that the application complies with the requirements of paragraphs (2) and (3)."
+   }
+  },
+  {
+   "id": "SG-H3192-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRY OF PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "False or fraudulent declaration or representation"
+   },
+   "text": {
+    "en": "9.—(1) Where a person makes any false or fraudulent declaration or representation when applying to register or register anew, or renew the registry of, a pleasure craft under these Regulations, the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.\n(2) In proceedings for an offence under paragraph (1) in relation to a declaration or representation, it is a defence to the charge for the accused to prove, on a balance of probabilities, that the accused took all reasonable steps, and exercised all due diligence, to ensure that the declaration or representation was not false or fraudulent."
+   }
+  },
+  {
+   "id": "SG-H3192-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRY OF PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Name of pleasure craft"
+   },
+   "text": {
+    "en": "10. A pleasure craft must not be registered or registered anew as a Singapore pleasure craft, nor have its registry renewed as a Singapore pleasure craft under these Regulations if the name of the pleasure craft provided at the time of the application for initial registry, registry anew or renewal of the registry —\n(a)is the name of a Singapore ship;\n(b)is a name which, in the Registrar’s opinion, is so similar to that of a Singapore ship as to be calculated to deceive or likely to confuse;\n(c)is a name which may be confused with a distress signal;\n(d)is a name which is prefixed by any letters or a name which might be taken to indicate a type of ship;\n(e)is a name which is prefixed with any other word, prefix or suffix which might cause confusion as to the name of the pleasure craft;\n(f)is a name which might cause offence or embarrassment; or\n(g)is a name which appears to be undesirable for any other reason."
+   }
+  },
+  {
+   "id": "SG-H3192-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRY OF PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Registry for Singapore pleasure craft"
+   },
+   "text": {
+    "en": "11.—(1) Upon the receipt of an application for the initial registry, registry anew or the renewal of the registry of a pleasure craft under these Regulations, the Registrar may grant the initial registry, registry anew or renewal of the registry of the pleasure craft if —\n(a)the Registrar is satisfied that the pleasure craft meets the requirements for the initial registry, registry anew or renewal of the registry under these Regulations; and\n(b)the applicant has paid the applicable fee prescribed in Part VII of the First Schedule to the Merchant Shipping (Fees) Regulations (Rg 17).\n(2) Any fee payable under paragraph (1)(b) is not subject to pro‑ration.\n(3) The Registrar may grant, for the applicable period mentioned in regulation 12, the initial registry, registry anew or the renewal of the registry of a pleasure craft under these Regulations subject to any conditions or restrictions that the Registrar considers fit.\n(4) Where the registry of a pleasure craft that is registered, or registered anew, under these Regulations is not renewed in accordance with these Regulations, the registry of the pleasure craft is deemed to be closed on the expiry date of the registry of the pleasure craft."
+   }
+  },
+  {
+   "id": "SG-H3192-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRY OF PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Validity period of registry of pleasure craft"
+   },
+   "text": {
+    "en": "12.—(1) The registry of a pleasure craft that is granted initial registry under these Regulations is valid for a period starting on the date of the grant of the initial registry and ending on the day before the first anniversary date of the completion of the initial survey.\n(2) Subject to paragraph (4), the registry of a pleasure craft that is granted registry anew under these Regulations —\n(a)if based on a registry anew survey of the pleasure craft mentioned in regulation 7(3)(a), is valid for a period —\n(i)starting on the date of the grant of the registry anew; and\n(ii)ending on the day before the first anniversary date of the completion of that registry anew survey;\n(b)if based on an initial survey of the pleasure craft mentioned in regulation 7(3)(b), is valid for a period —\n(i)starting on the date of the grant of the registry anew; and\n(ii)ending on the day before the next anniversary date of the completion of that initial survey;\n(c)if based on a registry anew survey of the pleasure craft mentioned in regulation 7(3)(c), is valid for a period —\n(i)starting on the date of the grant of the registry anew; and\n(ii)ending on the day before the next anniversary date of the completion of that registry anew survey; or\n(d)if based on a renewal survey of the pleasure craft mentioned in regulation 7(3)(d), is valid for a period —\n(i)starting on the date of the grant of the registry anew; and\n(ii)ending on the day before the next anniversary date of the completion of that renewal survey.\n(3) Subject to paragraph (4), the registry of a Singapore pleasure craft that is granted renewal of the registry under these Regulations —\n(a)if based on an initial survey mentioned in regulation 8(3)(a), is valid for a period —\n(i)starting on the expiry date of the current registry; and\n(ii)ending on the day before the next anniversary date of the completion of that initial survey of the pleasure craft;\n(b)if based on a registry anew survey mentioned in regulation 8(3)(b), is valid for a period —\n(i)starting on the expiry date of the current registry; and\n(ii)ending on the day before the next anniversary date of the completion of that registry anew survey; or\n(c)if based on —\n(i)a renewal survey mentioned in regulation 8(3)(c)(i), is valid for a period —\n(A)starting on the expiry date of the current registry; and\n(B)ending on the day before the next anniversary date of the completion of the initial survey of the pleasure craft, or on the day before the next anniversary date of the completion of the registry anew survey of the pleasure craft if the registry anew survey was conducted; or\n(ii)a renewal survey mentioned in regulation 8(3)(c)(ii), is valid for a period —\n(A)starting on the expiry date of the current registry; and\n(B)ending on the day before the next anniversary date of the completion of the renewal survey.\n(4) The period of the grant of any registry anew or renewal of the registry of a pleasure craft (whether or not registered anew) —\n(a)where the application for registry anew or for renewal is granted based on an initial survey, cannot exceed 3 years starting on the date of completion of that initial survey;\n(b)where the application for registry anew or for renewal is granted based on a registry anew survey, cannot exceed 3 years starting on the date of completion of that registry anew survey; or\n(c)where the application for registry anew or for renewal is granted based on a renewal survey, cannot exceed 3 years and 3 months starting on the date of completion of that renewal survey.\n(5) For the purposes of this regulation, where the date of the completion of a survey falls on 29 February in any year, then, in any subsequent year that is not a leap year, the anniversary date of the date of the completion of that survey is deemed to occur on 1 March of that subsequent year."
+   }
+  },
+  {
+   "id": "SG-H3192-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRY OF PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Register of Singapore pleasure craft"
+   },
+   "text": {
+    "en": "13.—(1) The Registrar must maintain a register (called in these Regulations the register of Singapore pleasure craft) containing the following particulars of every pleasure craft that is registered, or registered anew, under these Regulations:\n(a)the name of the pleasure craft;\n(b)the name, address and other particulars of the owner of the pleasure craft.\n(2) Where the registry of a pleasure craft is closed or deemed to be closed under these Regulations, the Registrar must make an entry of the closure in the register of Singapore pleasure craft.\n(3) The Registrar may, at any time, make any other entries to the register of Singapore pleasure craft as the Registrar considers necessary.\n(4) The register of Singapore pleasure craft may consist (wholly or in part) of paper or computerised records or any other form of records as the Registrar considers expedient."
+   }
+  },
+  {
+   "id": "SG-H3192-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRY OF PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Certificate of registry (Singapore pleasure craft)"
+   },
+   "text": {
+    "en": "14.—(1) The Registrar must issue a certificate of registry (Singapore pleasure craft), whether or not in hardcopy form, to the owner of a pleasure craft when the pleasure craft is registered, or registered anew, under these Regulations.\n(2) Where the registration of a Singapore pleasure craft is renewed under these Regulations, the owner of the pleasure craft must, if the Registrar requires, immediately surrender any hardcopy form of the certificate of registry (Singapore pleasure craft) to the Registrar for the renewal of registration to be endorsed on the certificate of registry (Singapore pleasure craft).\n(3) The owner of a Singapore pleasure craft must, if the Registrar requires, immediately surrender any hardcopy form of the certificate of registry (Singapore pleasure craft) to the Registrar if —\n(a)the pleasure craft is or is to be altered so that its particulars no longer correspond to its particulars contained in the certificate of registry (Singapore pleasure craft); or\n(b)the pleasure craft is involved in any event mentioned in regulation 29(1)(a), (b), (c) or (d).\n(4) A person who fails to comply with paragraph (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.\n(5) In a prosecution for an offence under paragraph (4), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence."
+   }
+  },
+  {
+   "id": "SG-H3192-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRY OF PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Change in particulars in certificate of registry (Singapore pleasure craft)"
+   },
+   "text": {
+    "en": "15.—(1) If, in relation to any Singapore pleasure craft, there is or is to be any change in the particulars of the pleasure craft as stated in its certificate of registry (Singapore pleasure craft), the owner of the pleasure craft must, no later than 30 days after the change occurs, notify the Registrar in writing.\n(2) If the Registrar is satisfied that the Singapore pleasure craft may continue to be registered under these Regulations, the Registrar must amend the register of Singapore pleasure craft and the certificate of registry (Singapore pleasure craft) accordingly.\n(3) If the Registrar is not satisfied that the Singapore pleasure craft may continue to be registered under these Regulations, the Registrar may recommend to the Authority to close the registry of the pleasure craft and to cancel its certificate of registry (Singapore pleasure craft).\n(4) A person who fails to comply with paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n(5) In a prosecution for an offence under paragraph (4), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence."
+   }
+  },
+  {
+   "id": "SG-H3192-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRY OF PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Change of ownership of Singapore pleasure craft"
+   },
+   "text": {
+    "en": "16.—(1) Where there is to be a change in the ownership of a Singapore pleasure craft, the owner of the pleasure craft must, before the change of ownership takes effect, notify the Registrar in writing.\n(2) A person who fails to comply with paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n(3) In a prosecution for an offence under paragraph (2), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence.\n(4) Where the ownership of a Singapore pleasure craft is to be transferred to another person (called in this paragraph the transferee) —\n(a)the registry of the pleasure craft is deemed to be closed immediately upon the transfer; and\n(b)if the transferee is a person who qualifies for Singapore registry under regulation 4, the pleasure craft may be registered anew subject to the requirements of regulation 7."
+   }
+  },
+  {
+   "id": "SG-H3192-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 SURVEY OF PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Requirement for survey of pleasure craft in certain cases"
+   },
+   "text": {
+    "en": "17.—(1) A pleasure craft may not be granted initial registry, registry anew or renewal of registry under these Regulations unless —\n(a)a survey is conducted in respect of the pleasure craft in accordance with the requirements of this Part; and\n(b)the pleasure craft is certified to be fit for its intended use following the survey.\n(2) The owner or master of a Singapore pleasure craft must, if the Director requires, produce the pleasure craft as soon as practicable for a survey to certify that the pleasure craft is fit for its intended use, at the place and time specified by the Director if —\n(a)the pleasure craft is altered so that its particulars do not correspond to the particulars of the pleasure craft contained in its certificate of registry (Singapore pleasure craft); or\n(b)the pleasure craft is involved in any event mentioned in regulation 29(1)(a), (b), (c) or (d).\n(3) A person who fails to comply with paragraph (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.\n(4) In a prosecution for an offence under paragraph (3), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence.\n(5) The Director may, at any time, on the Director’s own motion, require the owner of a Singapore pleasure craft to produce the pleasure craft for a survey at the place and time specified by the Director if the Director has reasonable grounds to suspect that the pleasure craft is not fit for its intended use."
+   }
+  },
+  {
+   "id": "SG-H3192-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 SURVEY OF PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Survey of pleasure craft"
+   },
+   "text": {
+    "en": "18.—(1) A survey of a pleasure craft required under these Regulations —\n(a)must be conducted by a recognised surveyor in accordance with the requirements specified by the Director from time to time; and\n(b)must include an examination of the pleasure craft, its machinery and its equipment to ensure that the pleasure craft, its machinery and its equipment —\n(i)are in compliance with the requirements of the Second Schedule;\n(ii)are in satisfactory condition; and\n(iii)are fit for the service for which the pleasure craft is intended.\n(2) The cost of undergoing the survey mentioned in paragraph (1) must be borne by the owner of the pleasure craft undergoing the survey.\n(3) Where a Singapore pleasure craft is required to undergo a survey under regulation 17(2), the survey conducted under this regulation may be general or partial depending on the extent of the alteration or damage to the pleasure craft (as the case may be) so as to ensure that the pleasure craft remains, in all respects, fit to proceed to sea without danger to the pleasure craft or to any person on board.\n(4) Upon the completion of any survey under this regulation, the recognised surveyor must provide the owner of the pleasure craft with the original survey report.\n(5) Where a Singapore pleasure craft is found to be unfit for its intended use following the survey mentioned in paragraph (3), the owner of the pleasure craft —\n(a)must take all reasonable steps to ensure that the pleasure craft is fit for its intended use; and\n(b)upon completion of the reasonable steps, must produce the pleasure craft for a further survey to certify the pleasure craft as fit for its intended purpose.\n(6) A survey required under these Regulations is deemed to be completed on the date on which the survey report in respect of the survey is issued."
+   }
+  },
+  {
+   "id": "SG-H3192-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 SURVEY OF PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Accredited organisations and recognised surveyors"
+   },
+   "text": {
+    "en": "19.—(1) The Director must publish the list of accredited organisations on the Authority’s website at http://www.mpa.gov.sg.\n(2) A person that, not being an accredited organisation, represents itself to be an accredited organisation, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n(3) A person who, not being a recognised surveyor —\n(a)carries out any survey required under these Regulations; or\n(b)represents himself or herself to be a recognised surveyor for the purposes of carrying out a survey required under these Regulations,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n(4) In a prosecution for an offence under paragraph (2) or (3), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence."
+   }
+  },
+  {
+   "id": "SG-H3192-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 SAFETY REQUIREMENTS AND EQUIPMENT FOR SINGAPORE PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Safety requirements for Singapore pleasure craft"
+   },
+   "text": {
+    "en": "20.—(1) The owner or master of a Singapore pleasure craft must ensure that the pleasure craft satisfies the safety requirements specified in the Second Schedule.\n(2) A person who fails to comply with paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n(3) In a prosecution for an offence under paragraph (2), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence."
+   }
+  },
+  {
+   "id": "SG-H3192-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 SAFETY REQUIREMENTS AND EQUIPMENT FOR SINGAPORE PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Warning device"
+   },
+   "text": {
+    "en": "21.—(1) Where a Singapore pleasure craft is propelled by machinery, the owner or master of the Singapore pleasure craft must ensure that the pleasure craft is equipped with an audible warning device approved by the Director that is capable of emitting short and prolonged blasts.\n(2) A person who fails to comply with paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n(3) In a prosecution for an offence under paragraph (2), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence."
+   }
+  },
+  {
+   "id": "SG-H3192-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 SAFETY REQUIREMENTS AND EQUIPMENT FOR SINGAPORE PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Other fitting, material, etc., may be fitted"
+   },
+   "text": {
+    "en": "22. Despite anything in these Regulations requiring the fitting, carrying or provision on a Singapore pleasure craft of any material or equipment, the Director may allow another material or equipment (called in this regulation the alternative material or equipment) to be fitted, carried or provided on the pleasure craft if the Director is satisfied that the alternative material or equipment is at least as effective as that required by these Regulations."
+   }
+  },
+  {
+   "id": "SG-H3192-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 5 USE OF SINGAPORE PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Singapore pleasure craft not to be used for commercial purpose"
+   },
+   "text": {
+    "en": "23.—(1) The owner or master of a Singapore pleasure craft must not cause or permit the pleasure craft to be used for any commercial purpose.\n(2) A person who fails to comply with paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n(3) In a prosecution for an offence under paragraph (2), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence.\n(4) In this regulation, “commercial purpose”, in relation to a Singapore pleasure craft, means any activity where the owner of the pleasure craft is paid a fee or other consideration for the use of the pleasure craft."
+   }
+  },
+  {
+   "id": "SG-H3192-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 5 USE OF SINGAPORE PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Owner to ensure Singapore pleasure craft is properly marked"
+   },
+   "text": {
+    "en": "24.—(1) The owner of a Singapore pleasure craft must ensure that, before the end of a period of one month starting on the date the pleasure craft is registered, the following words are clearly painted on or affixed to the pleasure craft as follows:\n(a)the name of the pleasure craft, above the water line on the exterior of the hull of the pleasure craft;\n(b)the word “Singapore” at the stern of the pleasure craft.\n(2) The owner of a Singapore pleasure craft must ensure that the markings required under paragraph (1) are effectively maintained and renewed when necessary during the period of the registry of the pleasure craft.\n(3) A person who fails to comply with paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n(4) In a prosecution for an offence under paragraph (3), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence."
+   }
+  },
+  {
+   "id": "SG-H3192-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 5 USE OF SINGAPORE PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Alteration of Singapore pleasure craft prohibited"
+   },
+   "text": {
+    "en": "25.—(1) The owner or master of a Singapore pleasure craft must not cause or permit the pleasure craft to be so altered so that the particulars of the pleasure craft do not correspond to its particulars relating to gross tonnage or description, as contained in its certificate of registry (Singapore pleasure craft), unless the owner or master of the pleasure craft has prior permission from the Director for the alteration.\n(2) A person who fails to comply with paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n(3) In a prosecution for an offence under paragraph (2), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence."
+   }
+  },
+  {
+   "id": "SG-H3192-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 5 USE OF SINGAPORE PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Certificate of registry (Singapore pleasure craft) to be kept on board"
+   },
+   "text": {
+    "en": "26.—(1) The owner or master of a Singapore pleasure craft must ensure that its certificate of registry (Singapore pleasure craft), whether or not in hardcopy form, is carried on board the pleasure craft at all times.\n(2) A person who fails to comply with paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n(3) In a prosecution for an offence under paragraph (2), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence."
+   }
+  },
+  {
+   "id": "SG-H3192-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 5 USE OF SINGAPORE PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Class of pleasure craft driving licence to be held by master"
+   },
+   "text": {
+    "en": "27.—(1) The owner or master of a Singapore pleasure craft must ensure that the pleasure craft is driven by a competent person who holds a valid powered pleasure craft driving licence or equivalent.\n(2) In this regulation, “powered pleasure craft driving licence” means a licence granted under Part IV of the Maritime and Port Authority of Singapore (Pleasure Craft) Regulations (Cap. 170A, Rg 6)."
+   }
+  },
+  {
+   "id": "SG-H3192-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 5 USE OF SINGAPORE PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Number of persons to be carried"
+   },
+   "text": {
+    "en": "28.—(1) The owner or master of a Singapore pleasure craft must not cause or permit the pleasure craft to carry on board a number of persons that is greater than its carrying capacity as determined in accordance with the Third Schedule.\n(2) The owner or master of a Singapore pleasure craft must not cause or permit the pleasure craft to carry more than 12 passengers.\n(3) A person who fails to comply with paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.\n(4) In a prosecution for an offence under paragraph (3), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence."
+   }
+  },
+  {
+   "id": "SG-H3192-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 5 USE OF SINGAPORE PLEASURE CRAFT"
+   },
+   "heading": {
+    "en": "Report of collision, etc."
+   },
+   "text": {
+    "en": "29.—(1) The owner or master of a Singapore pleasure craft must immediately report to the Director any of the following occurrences:\n(a)breaking‑up, damage or loss of the pleasure craft;\n(b)collision, accident or other incident, causing the breaking‑up, damage or loss of the pleasure craft;\n(c)accident, damage, pollution, injury or loss of life which the pleasure craft has caused;\n(d)accident, damage, injury or loss of life which occurs on board the pleasure craft from any other cause.\n(2) A person who fails to comply with paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n(3) In a prosecution for an offence under paragraph (2), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence.\n(4) In this regulation, “damage” includes any damage which affects the safety of the pleasure craft."
+   }
+  },
+  {
+   "id": "SG-H3192-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Offence to represent vessel not registered under Regulations as Singapore pleasure craft"
+   },
+   "text": {
+    "en": "30.—(1) A person must not represent a vessel that is not a Singapore pleasure craft to be a Singapore pleasure craft by —\n(a)the display of any marking on the vessel;\n(b)the production of any document in respect of the vessel; or\n(c)any other means.\n(2) A person who fails to comply with paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n(3) In a prosecution for an offence under paragraph (2), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence."
+   }
+  },
+  {
+   "id": "SG-H3192-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Exemption powers"
+   },
+   "text": {
+    "en": "31.—(1) The Director may, subject to any conditions that the Director considers fit, exempt any particular categories of pleasure craft from the application of any provision of these Regulations generally, or for any time or for any voyage that the Director may determine.\n(2) The Director may exempt any Singapore pleasure craft from the application of any provision of these Regulations generally, or for any time or for any voyage determined by the Director."
+   }
+  },
+  {
+   "id": "SG-H3192-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Saving and transitional provisions"
+   },
+   "text": {
+    "en": "32. If, before 1 July 2020, a pleasure craft is registered, or the registry of a pleasure craft is renewed, under Part V of the Merchant Shipping (Registration of Ships) Regulations as in force immediately before that date (called in this regulation the relevant Regulations), or a pleasure craft is registered anew under section 35 of the Act —\n(a)the registry of the pleasure craft remains valid for the period mentioned in regulation 19 of the relevant Regulations; and\n(b)regulations 18, 20, 21 and 22 of the relevant Regulations continue to apply for so long as the registry of the pleasure craft remains valid under paragraph (a)."
+   }
+  },
+  {
+   "id": "SG-H3192-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 2\nSimplified gross tonnage measurement method\nApplication\n1.—(1) The following simplified method of measuring gross tonnage is to be used for pleasure craft that are less than 24 metres in load line length and of normal proportions and form.\n(2) The Director’s determination of whether a pleasure craft is of normal proportions and form is conclusive.\nDefinitions\n2. In this Schedule, unless the context otherwise requires —\n“breadth” or “B” means the maximum width of the pleasure craft, excluding rub rails and deck caps, measured in metres from the outside of the hull on one side to the outside of the hull on the other side of the pleasure craft;\n“depth” or “D” means the maximum depth of the pleasure craft measured in metres vertically from the top of the deck at the side to the underside of the hull where it meets the keel or to the point where the projected line of the bottom intersects with the pleasure craft’s centreline;\n“length” or “L” means the distance in metres measured along the main deck at the centreline of the pleasure craft from the fore‑side of the hull to the aft side of the transom;\n“volume” means the product of length, breadth and depth.\nMeasurements\n3.—(1) In this Schedule, all measurements must be made in accordance with the following sub‑paragraphs:\n(a)all lengths and depths must be measured in a vertical plane at centreline;\n(b)all breadths must be measured in a line at right angles to that plane;\n(c)all dimensions must be expressed in metres.\n(2) For multihull pleasure craft, each hull must be measured separately for overall length, breadth, and depth and the pleasure craft as a whole must be measured.\n(3) When measuring the length of a pleasure craft, the measurement must not include any bowsprit, stern mounted diving platform or other appendage that does not contribute to the volume of the pleasure craft.\nDeck structures\n4.—(1) If any deck structure on a pleasure craft is excessive in size, the gross tonnage of the pleasure craft is calculated by adding the tonnage of the principal deck structure to the total gross tonnage of all of the pleasure craft’s hulls.\n(2) For the purpose of sub‑paragraph (1), a deck structure is considered excessive in size if the tonnage of the principal deck structure calculated using the following formula is equal to or exceeds the total gross tonnage of all of the pleasure craft’s hulls:\nCalculations\n5. The gross tonnage of the following types of hulls is calculated as follows:\nMultihull pleasure craft\n6. The gross tonnage of a multihull pleasure craft is the sum of the gross tonnage of each hull as calculated using the formulas listed above. For example:\nWhere L is the length of the centre hull and L1 is the length of the outside hulls."
+   }
+  },
+  {
+   "id": "SG-H3192-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulations 18(1)(b)(i) and 20(1)\nSafety requirements for Singapore pleasure craft\nPart 1\nRADIO AND NAVIGATIONAL EQUIPMENT\nRadio communication\n1.—(1) A Singapore pleasure craft must be provided with a VHF radio capable of transmitting and receiving in the International Maritime Mobile VHF Radiocommunication Service in the 156 to 174 MHz Band or any channel that may be specified by the Registrar from time to time.\n(2) The VHF radio must be mounted, or placed, in an easily accessible position on the wheelhouse.\nNavigational lights, shapes and sound signals\n2. A Singapore pleasure craft must exhibit —\n(a)any lights and shapes that are required for its type and size as prescribed by the collision regulations; and\n(b)any signals that are required by the collision regulations.\nNavigational equipment and publications\n3.—(1) A Singapore pleasure craft must be provided with the following equipment:\n(a)an efficient magnetic compass;\n(b)an electronic navigational positioning system;\n(c)a rudder angle indicator;\n(d)a signalling lamp.\n(2) A Singapore pleasure craft must carry —\n(a)an IMO‑compliant AIS Class A/B transponder; and\n(b)an up‑to‑date GSP1 chart or a small craft chart portfolio.\nAnchors, chain cables and windlass\n4.—(1) A Singapore pleasure craft must be provided with at least one anchor and chain cable or its equivalent as are sufficient in weight, length and strength having regard to the size of the pleasure craft.\n(2) Where the weight of the anchor exceeds 15 kg, a windlass must be provided for the hauling in of the anchor.\nPart 2\nPROVISION OF LIFE-SAVING APPLIANCES\nApproval of life-saving appliances\n5. Every piece of life‑saving appliance and equipment required under this Part —\n(a)must be of a type approved by the Director; or\n(b)must conform to the International Life‑Saving Appliance (LSA) Code, as adopted by IMO by Resolution MSC.48 (66), and any amendments to it which are adopted, brought into force and take effect (in accordance with the provisions of article VIII of the Convention), and must be approved by —\n(i)a competent authority of any State party to the Convention; or\n(ii)a classification society on behalf of or authorised by that competent authority.\nLifebuoys\n6.—(1) Every buoyant lifeline carried on a Singapore pleasure craft —\n(a)must be attached to a lifebuoy; and\n(b)must be placed in the proximity of the side of the pleasure craft.\n(2) Every lifebuoy carried on a Singapore pleasure craft must be marked on both sides with the port of registry “Singapore” and the name of the pleasure craft.\n(3) The lifebuoys carried on a Singapore pleasure craft must be distributed on both sides of the craft and placed in racks unsecured such that they are able to float‑free.\nHandflares\n7. A Singapore pleasure craft with a fully or partially enclosed deck must be provided with 6 handflares stored in a suitable watertight container.\nReplacement of life-saving appliances\n8. Where a life‑saving appliance on a Singapore pleasure craft is marked with an expiry date, the appliance must be replaced on or before that date.\nOperational readiness of life-saving appliances\n9.—(1) Every life‑saving appliance that is carried on board a Singapore pleasure craft —\n(a)must be kept in good working order;\n(b)must be ready for immediate use; and\n(c)must be placed in an easily accessible position.\n(2) The life jackets carried on board a Singapore pleasure craft —\n(a)must be stowed in racks or under seats;\n(b)must be clearly marked; and\n(c)must be evenly distributed throughout the craft according to the disposition of persons on board.\nScale of life-saving appliances\n10. A Singapore pleasure craft must be equipped in accordance with the following table with the life‑saving appliance specified in the first column, in the quantity specified in the third column, based on the load line length of the pleasure craft specified in the second column of the following table:\nLife-saving appliance\nLoad line length (L) in metres\nQuantity\nLifejacket\nAll lengths\n1 per person carried on board\nLifebuoy\n7 ≤ (L) < 12\n1\n12 ≤ (L) < 21\n2\n21 ≤ (L) < 37\n4\n(L) ≥ 37\n6\nBuoyant lifeline\n7 ≤ (L) < 21\n1 of minimum length of at least 18 metres\n(L) ≥ 21\n1 of minimum length of at least 27.3 metres\nPart 3\nFIRE-FIGHTING AND\nOTHER APPLIANCES AND EQUIPMENT\nGeneral requirements\n11. All fire‑fighting appliances and equipment required under this Part —\n(a)must be of a type approved by the Director; or\n(b)must conform to the International Code for Fire Safety Systems, as adopted by IMO by Resolution MSC.98 (73), and any amendments to it which are adopted, brought into force and take effect (in accordance with the provisions of article VIII of the Convention), and must be approved by —\n(i)a competent authority of any State party to the Convention; or\n(ii)a classification society on behalf of or authorised by that competent authority.\nPortable fire extinguishers\n12.—(1) Every portable fire extinguisher carried on board a Singapore pleasure craft must have the minimum fire‑extinguishing capabilities specified in the second, third or fourth column (as applicable) of the following table that corresponds to a fire extinguisher of that type for a pleasure craft of that load line length:\nLoad line length (L) in metres\nMinimum capacity of portable fire extinguisher\nFoam or water\n(litres)\nCO2 (kg)\nDry powder\n(kg)\n7 ≤ (L) < 9\n2.8\n1\n1.4\n9 ≤ (L) < 15\n4.6\n1.5\n2.3\n(L) ≥ 15\n9\n3\n4.5\n(2) Where a portable fire extinguisher is to be employed against any electrical fire in a Singapore pleasure craft (including those arising from switchboards, control panels and batteries), the portable fire extinguisher must be a type that is suitable for use in such fires, such as dry‑powder or CO2 fire extinguishers.\n(3) A Singapore pleasure craft must be installed with portable fire extinguishers that are suitably distributed throughout all protected spaces in the pleasure craft, with at least one stowed near the entrance inside that space.\n(4) CO2 fire extinguishers must not be used in a confined space within a Singapore pleasure craft.\nFire pumps\n13.—(1) Where a Singapore pleasure craft is installed with a main fire pump —\n(a)the main fire pump’s source of power (if any) and the sea connection of emergency fire pumps (if any) installed on the pleasure craft must not be situated in the same compartment as the main fire pump; and\n(b)the emergency fire pump (if any), sea suction and other valves must be operable —\n(i)from outside the compartment that contains the main fire pump; and\n(ii)in a position that is not likely to be cut off by fire in that compartment.\n(2) A manually operated pump installed on a Singapore pleasure craft must be capable of producing a jet of water having a sufficient throw.\nHydrants, hoses, nozzles\n14.—(1) Every fire hydrant installed on a Singapore pleasure craft —\n(a)must be positioned to allow at least one jet of water from a single length of fire hose to reach any part of the pleasure craft normally accessible during navigation; and\n(b)must be capable of delivering one jet of water having a throw of not less than 6 metres which can be directed on to any part of the pleasure craft.\n(2) Where a Singapore pleasure craft is provided with only one fire hydrant for the engine room, the fire hydrant must be located outside the engine room, near its entrance.\n(3) All nozzles provided on a Singapore pleasure craft —\n(a)must be appropriate to the delivery capacity of the fire pumps fitted; and\n(b)must have a diameter of at least 10 millimetres.\nReady availability and maintenance of appliances\n15. All fire‑fighting apparatus carried on board a Singapore pleasure craft must —\n(a)be kept in good working order;\n(b)be ready for immediate use;\n(c)be placed in an easily accessible position; and\n(d)be inspected at intervals of not more than 12 months by a qualified person recognised by the Director.\nScale of fire-fighting appliances\n16. A Singapore pleasure craft must be equipped with fire‑fighting appliances based on the description of the pleasure craft as specified in the following table:\nDescription of Craft\n7 ≤ Load Line Length in metres ≤ 9\n9 < Load Line Length in metres < 15\n9 < Load Line Length in metres < 15 with engine room(3)\n15 ≤ Load Line Length in metres < 24\n15 ≤ Load Line Length in metres < 24 with engine room(3)\nLoad Line Length in metres ≥ 24\nLoad Line Length in metres ≥ 24 with engine room(3)\nType and quantity of\nfire-fighting apparatus\nPortable dry-powder or equivalent foam, water or CO2 fire extinguisher\n2\n2\n2\n2\n2\n2\n2\nFire extinguisher to be placed in engine room(3)\nNA\nNA\n2(1)\nNA\n2(1)\nNA\n2(1)\nFire bucket with lanyard(2)\n2\n2\n2\n2\n2\n3\n3\nMain Fire Pump\nPower\nNA\nNA\nNA\nEither 1 power or 1 manual\nEither 1 power or 1 manual\n1\n1\nManual\nNA\nNA\nNA\nNA\nNA\nEmergency fire pump\nPower\nNA\nNA\nNA\nNA\nNA\nEither 1 power or 1 manual\nEither 1 power or 1 manual\nManual\nNA\nNA\nNA\nNA\nNA\nHydrant\nNA\nNA\nNA\nSuch numbers as required by a recognized surveyor during any survey\nHose\nNA\nNA\nNA\n1\n1\n2\n2\nNozzle\nJet\nNA\nNA\nNA\n1\n1\n2\n2\nSpray\nNA\nNA\nNA\nNA\nNA\n1\n1\nFireman’s axe\nNA\nNA\nNA\nNA\nNA\n1\n1\nNotes:\n(1)Where engine room houses internal combustion type machinery having in aggregate, a total power output of not less than 375 kW.\n(2)Fire buckets may be substituted by an equal number of portable dry‑powder fire extinguishers outside the engine room.\n(3)For pleasure craft with engine rooms only."
+   }
+  },
+  {
+   "id": "SG-H3192-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulation 28(1)\nCarrying capacity\n1. The carrying capacity of a pleasure craft means the maximum number of passengers and crew members that the pleasure craft may carry.\n2. The carrying capacity of a pleasure craft —\n(a)is specified in its builder’s certificate recognised by the Director; or\n(b)if the builder’s certificate contains no such specification, is determined by the Director in accordance with the following formula:\ncarrying capacity = 12 + (length × length × breadth × 0.0031).\n3. In this Schedule, “length” and “breadth” have the meanings given to them in the First Schedule."
+   }
+  }
+ ]
+}

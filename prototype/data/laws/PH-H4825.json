@@ -1,0 +1,64 @@
+{
+ "id": "PH-H4825",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Section Sixty-Four of Republic Act Numbered Four Hundred Nine, as Amended, Known as the Revised Charter of Manila.",
+  "orig": "An Act Amending Section Sixty-Four of Republic Act Numbered Four Hundred Nine, as Amended, Known as the Revised Charter of Manila."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p68",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1971-06-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6238",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1727,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1971/ra_6238_1971.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1971/ra_6238_1971.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4825-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section sixty-four of Republic Act Numbered Four hundred nine, as amended, is hereby further amended to read as follows:\n\"Section 64. Annual real estate tax .—An annual tax of one and one-half per centum on the assessed value of all real estate in the city subject to taxation as hereinabove provided is hereby levied. The additional one per cent real property tax provided for in Republic Act Numbered Five thousand four hundred forty-seven shall all be retained by the City of Manila notwithstanding the provisions of said Republic Act Numbered Five thousand four hundred forty-seven: Provided, however, That sixty per centum of the additional one per cent real property tax levied under said Act shall be appropriated and disbursed by the School Board of the City of Manila to fund the activities provided under Republic Act Numbered Five thousand four hundred forty-seven and the remaining forty per centum to be appropriated and disbursed by the Municipal Board of said City for purposes as provided in Section six hereof: Provided, further, That the real property taxes above-mentioned shall be due and payable in four equal installments; the first installment shall be due and payable on or before March thirty-first; the second installment, on before June thirtieth; the third installment, on or before September thirtieth; and the last installment, on or before December thirty-first: Provided, finally, That if any taxpayer shall fail to pay taxes assessed against him on or before the end of a calendar quarter as above indicated, he shall be delinquent in such payment and shall be subject to penalty of ten per centum of the amount of tax due.\""
+   }
+  },
+  {
+   "id": "PH-H4825-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 19, 1971."
+   }
+  }
+ ]
+}

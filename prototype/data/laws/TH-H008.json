@@ -1,0 +1,806 @@
+{
+ "id": "TH-H008",
+ "title": {
+  "zh": "争议调解法",
+  "en": "DISPUTE MEDIATION ACT, B.E. 2562 (2019)",
+  "orig": null
+ },
+ "country": "TH",
+ "countryName": "泰国",
+ "layer": "intl",
+ "pack": "th-p01",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2019",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国官方发布渠道",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 72,
+ "chars": 51035,
+ "source": {
+  "name": "泰国官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "自 2026-10-06 全库备份回流（_work/_backup_20261006/data/TH-H008.json）；条文逐字取自该备份，未改写、未补全；原始来源见 source 字段。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TH-H008-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "This Act is called the “Dispute Medication Act, B.E. 2562 (2019)”."
+   }
+  },
+  {
+   "id": "TH-H008-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Article 2"
+   },
+   "text": {
+    "en": "1  This Act shall come into force as from the day following the date of \nits publication in the Government Gazette except that the provisions of Chapter II, Civil Dispute \nMediation, Chapter III, Criminal Dispute Mediation, Chapter IV, Criminal Dispute Mediation at the \nInquiry Stage, and Chapter V, Public Sector Dispute Mediation, shall come into force after one \nhundred eighty days as from the date of its publication in the Government Gazette."
+   }
+  },
+  {
+   "id": "TH-H008-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Article 3"
+   },
+   "heading": {
+    "en": "In this Act:"
+   },
+   "text": {
+    "en": "“dispute mediation” means the operation intended to provide parties with an \nopportunity to agree to resolve civil and criminal disputes by a peaceful means and without \nadjudication of the disputes, excluding the mediation of disputes conducted at the court stage \nand at the execution stage; \n  “mediator” means a person registered and appointed for performing duties in \nthe dispute mediation; \n  “setlement agreement” means an agreement agreed by the parties to be legally \nbinding for resolving any dispute or claim of each party and to give each party rights, duties or \nliabilities only to the extent provided therein;  \n  “agency conducting the dispute mediation” means a State agency carrying out \nthe dispute resolution by dispute mediation; \n  “State agency” means the central administration, the provincial administration, \nthe Office of the Judiciary, the Office of the Attorney-General or any other agency of the State \nas prescribed by the Minister of Justice in the Ministerial Regulation; \n  “Registrar” means the head of the State agency conducting the dispute \nmediation."
+   }
+  },
+  {
+   "id": "TH-H008-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Article 4"
+   },
+   "text": {
+    "en": "This Act has no prejudice to the dispute mediation by State agencies \ncarried out in accordance with their duties and powers. \n                                                        \n  1 Published in Government Gazette, Vol. 136, Part 67a, dated 22 nd  May 2019. \n3 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE. \n  State agencies under paragraph one may conduct the dispute mediation in \naccordance with this Act."
+   }
+  },
+  {
+   "id": "TH-H008-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Article 5"
+   },
+   "text": {
+    "en": "A State agency which intends to conduct the dispute mediation \nunder this Act shall also notify it to the Ministry of Justice."
+   }
+  },
+  {
+   "id": "TH-H008-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Article 6"
+   },
+   "heading": {
+    "en": "In the case where the dispute mediation terminates without"
+   },
+   "text": {
+    "en": "achieving a successful result, if it appears that a period of prescription has expired during the \ndispute mediation or is due to expire within sixty days as from the date on which the dispute \nmediation terminates, the period of prescription shall be extended for another sixty days as \nfrom the date on which the dispute mediation terminates. \n  In the case where the Court gives an order refusing to enforce the settlement \nagreement under section 33, the provisions of paragraph one shall apply mutatis mutandis . For \nthis purpose, the sixty-day period shall be counted as from the date on which the order of the \nCourt becomes final."
+   }
+  },
+  {
+   "id": "TH-H008-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Article 7"
+   },
+   "text": {
+    "en": "The President of the Supreme Court, the Prime Minister, the Minister \nof Defence, the Minister of Interior, the Minister of Justice and the Attorney-General shall have \ncharge and control of the execution of this Act in respect of the matters that are concerned \nwith their duties and powers. \n  The President of the Supreme Court shall have the power to issue Rules of Court \nand the Prime Minister, the Minister of Defence, the Minister of Interior and the Minister of \nJustice shall have the power to issue Ministerial Regulations and Rules while the Attorney-\nGeneral shall have the power to issue Regulations, in the execution of this Act. \n  Such Rules of Court, Ministerial Regulations, Rules and Regulations shall come \ninto force upon their publication in the Government Gazette."
+   }
+  },
+  {
+   "id": "TH-H008-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Article 8"
+   },
+   "text": {
+    "en": "This Act shall not apply to criminal cases falling under the jurisdiction \nof the Juvenile and Family Courts under the law on Juvenile and Family Courts and juvenile \nand family procedures. \n \n \n4 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE. \nCHAPTER I \nMEDIATORS  \n_______________"
+   }
+  },
+  {
+   "id": "TH-H008-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Article 9"
+   },
+   "text": {
+    "en": "A person intending to be registered as a mediator shall submit an \napplication to the Registrar. \n  The Registrar shall also have the power to select persons suitable for being \nregistered as mediators, provided that consent shall be obtained from such persons. \n  The submission of applications for registration, the issuance of certificates of \nregistration, the renewal of certificates of registration, the issuance of substitutes for certificates \nof registration, the declaration of particulars in the submission of applications for registration \nand the forms of identification cards for mediators shall be in accordance with the rules, \nprocedures and conditions prescribed in the Notification of the Registrar. \n  The removal of mediators, termination of the status of mediators and revocation \nof the status of mediators shall be in accordance with the rules, procedures and conditions \nprescribed by the Minister of Justice in the Ministerial Regulation."
+   }
+  },
+  {
+   "id": "TH-H008-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Article 10"
+   },
+   "text": {
+    "en": "A person registered as a mediator must have the qualifications and \nmust not be under the prohibitions as follows: \n  a. Qualifications: \n   (1) having successfully completed the dispute mediation training under \nthe programme accredited by the Commission on National Development of Justice \nAdministration under the law on national development of justice administration; \n   (2) being a person possessing experience in areas beneficial to the dispute \nmediation; \n  b. Prohibitions: \n   (1) having been sentenced to imprisonment by a final judgment, except \nfor an offence committed through negligence or a petty offence; \n5 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE. \n   (2) being an incompetent person, a quasi -incompetent person or a person \nof unsound mind or mental infirmity; \n   (3) having had the status of a mediator revoked under this Act, where a \nperiod of five years has not yet elapsed up to the date of submission of the application for a \ncertificate of registration as a mediator."
+   }
+  },
+  {
+   "id": "TH-H008-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Article 11"
+   },
+   "heading": {
+    "en": "A mediator has the duties and powers as follows:"
+   },
+   "text": {
+    "en": "(1) to lay down directions for and hold dispute mediation; \n  (2) to assist, facilitate and make suggestions to parties with respect to ways for \nending disputes; \n  (3) to conduct mediation on the basis of impartiality; \n  (4) to prepare a settlement agreement in accordance with the results of the \ndispute mediation. \n  In the case where a mediator carries out an act in discharge of duties in good \nfaith, the mediator shall be afforded protection and shall not be liable both in civil matters and \nin criminal matters."
+   }
+  },
+  {
+   "id": "TH-H008-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Article 12"
+   },
+   "heading": {
+    "en": "A mediator shall observe ethics as follows:"
+   },
+   "text": {
+    "en": "(1) performing duties on the basis of impartiality, independence, justice and non-\ndiscrimination; \n  (2) attending the dispute mediation on every occasion and, in the case of \ninability to attend the dispute mediation, giving prior notification of reasons and necessity \ntherefor to the agency conducting the dispute mediation for information; \n  (3) performing duties expeditiously without causing unreasonable delay in the \ndispute mediation; \n  (4) upholding integrity and honesty and refraining from demanding or taking \nproperty or any other benefit from parties or other persons involved in the dispute; \n  (5) performing the dispute mediation duties politely; \n  (6) keeping confidentiality of matters relating to the dispute mediation; \n6 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE. \n  (7) refraining from an act in a manner adjudicating the dispute or forcing any \nparty to sign a settlement agreement; \n  (8) other cases prescribed by the Minister of Justice in the Ministerial Regulation."
+   }
+  },
+  {
+   "id": "TH-H008-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Article 13"
+   },
+   "text": {
+    "en": "A mediator shall disclose to the parties facts likely to give rise to \njustifiable doubts as to the mediator’s impartiality and independence in the performance of \nduties as the mediator, in particular, the facts as to the relationship with any party in the \nfollowing matters: \n  (1) being the fiancé or the spouse;  \n  (2) being an ascendant or a descendant in any degree or being a brother or sister \nor a cousin within only three degrees or being a relative by marriage within only two degrees; \n  (3) being or having previously been a legal representative or a curator or a \nrepresentative or an agent; \n  (4) being a creditor or a debtor or being an employer or an employee."
+   }
+  },
+  {
+   "id": "TH-H008-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Article 14"
+   },
+   "heading": {
+    "en": "A mediator may be addressed by a party a challenge of such a"
+   },
+   "text": {
+    "en": "serious nature as to be likely to give rise to the impartial or independent performance of duties. \nIn the case of such circumstance, the mediator may be removed under section 15 (4). \n  In the case where any party consists of several persons, the addressing of a \nchallenge under paragraph one shall be made upon consent of all persons forming such party."
+   }
+  },
+  {
+   "id": "TH-H008-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Article 15"
+   },
+   "heading": {
+    "en": "A mediator may be removed by any party or both parties or an"
+   },
+   "text": {
+    "en": "agency conducting the dispute mediation on the following grounds: \n  (1) exerting fraud or duress on a party or other persons involved in the dispute; \n  (2) failing to perform the duty as a mediator on more than two occasions without \nany reasonable cause; \n  (3) ethical deficiency under section 12; \n  (4) being addressed a challenge under section 14."
+   }
+  },
+  {
+   "id": "TH-H008-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Article 16"
+   },
+   "text": {
+    "en": "In the dispute medication, a mediator shall not carry out any act, or \ncause it to be carried out, in a manner of exerting coercion, a threat or a deceit or carry out an \n7 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE. \nillegitimate act in any manner whatsoever in order to induce parties to conclude a settlement \nagreement."
+   }
+  },
+  {
+   "id": "TH-H008-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Article 17"
+   },
+   "heading": {
+    "en": "The status as a mediator terminates upon:"
+   },
+   "text": {
+    "en": "(1) death; \n  (2) resignation; \n  (3) termination of the status of a mediator or revocation of the status of a \nmediator; \n  (4) being disqualified or being under prohibitions under section 10."
+   }
+  },
+  {
+   "id": "TH-H008-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Article 18"
+   },
+   "text": {
+    "en": "In the case where a mediator is removed or the status of a mediator \nterminates when the dispute mediation is in progress, the parties may appoint a new mediator \nfor further performing the duty of mediating such dispute and, for this purpose, documents in \nthe dispute mediation proceedings previously conducted may be relied on as the parties and \nthe new mediator deem appropriate."
+   }
+  },
+  {
+   "id": "TH-H008-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Article 19"
+   },
+   "text": {
+    "en": "In the performance of duties of a mediator in an agency conducting \nthe dispute mediation, the mediator shall receive remuneration and other allowances necessary \nfor the conduct of the dispute mediation, in accordance with the Rule prescribed by the \nMinister of Justice with the approval of the Ministry of Finance. \nCHAPTER II \nCIVIL DISPUTE MEDIATION  \n_______________ \nPART I \nCIVIL DISPUTE MEDIATION PROCEEDINGS  \n_______________"
+   }
+  },
+  {
+   "id": "TH-H008-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Article 20"
+   },
+   "text": {
+    "en": "Civil dispute mediation under this Act is not permissible if it relates \nto a right as regards personality, a family right or ownership in immovable property. \n  Civil dispute mediation is permissible in the following cases: \n8 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE. \n  (1) a dispute which is concerned with land other than disputes relating to \nownership; \n  (2) a dispute between heirs which is concerned with property to be obtained by \nway of succession; \n  (3) other disputes as prescribed in the Royal Decree; \n  (4) a dispute, other than those in (1), (2) and (3), of which the amount of claim \ndoes not exceed five million Baht or does not exceed such amount as prescribed in the Royal \nDecree."
+   }
+  },
+  {
+   "id": "TH-H008-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Article 21"
+   },
+   "text": {
+    "en": "If any party intends to have the dispute mediation, the party shall \nsubmit an application to an agency conducting the dispute mediation. \n  The agency conducting the dispute mediation shall seek the other party’s \nwillingness to engage in the dispute mediation. \n  If the other party is not willing to engage in the dispute mediation proceedings, \nthe agency conducting the dispute mediation shall dismiss the application for the mediation of \nsuch dispute and notify it to the party submitting the application therefor. \n  In the case where there are more than two parties and any party is not willing to \nengage in the dispute mediation, the dispute mediation may be conducted amongst the parties \nwilling to engage therein. \n  The submission of an application for the dispute mediation, details of the \napplication and a period of time for the consideration of an application for the dispute \nmediation shall be in accordance with the rules, procedures and conditions prescribed in the \nNotification of the agency conducting the mediation."
+   }
+  },
+  {
+   "id": "TH-H008-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Article 22"
+   },
+   "text": {
+    "en": "The parties shall agree to appoint one or more mediators from a list \nof mediators prepared by the agency conducting the mediation. If the parties fail to agree on \nthe appointment of mediators, the parties may request the agency conducting the mediation to \nappoint mediators from such list, in accordance with the Rule prescribed by the agency \nconducting the mediation. \n  The appointment of mediators under paragraph one shall be made upon \nconsent of persons to be appointed. The agency conducting the mediation shall give the parties \n9 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE. \nexplanations on proceedings and legal consequences in relation to the dispute mediation and \nthe right to terminate the dispute mediation."
+   }
+  },
+  {
+   "id": "TH-H008-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Article 23"
+   },
+   "text": {
+    "en": "When there exists a fact likely to give rise to justifiable doubts as to \nthe mediator’s impartiality or independence in the performance of duties as a mediator under \nsection 13 and any party makes a challenge thereto or the mediator himself considers that he is \nin such circumstance, the mediator shall cease the dispute mediation for the time being and \nnotify it to the agency conducting the mediation in order for orders to be further issued by the \nhead of the agency conducting the mediation. \n  The submission of a challenge, the consideration of a challenge and the \nreplacement of the challenged mediator by another mediator shall be in accordance with the \nrules, procedures and condition prescribed by the Minister of Justice in the Ministerial \nRegulation."
+   }
+  },
+  {
+   "id": "TH-H008-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Article 24"
+   },
+   "heading": {
+    "en": "Subject to section 33, when a memorandum of settlement"
+   },
+   "text": {
+    "en": "agreement is made under section 30, if it thereafter appears that the mediator has failed to \ndisclose a fact likely to give rise to justifiable doubts as to the mediator’s impartiality or \nindependence under section 13 or that the appointment of the mediator is unlawful, such \nmemorandum of agreement is not prejudiced but this shall not preclude the right of the party \nto prove in order for the Court to issue an order refusing to enforce such agreement."
+   }
+  },
+  {
+   "id": "TH-H008-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Article 25"
+   },
+   "text": {
+    "en": "Dispute mediation shall be conducted continuously and completed \nexpeditiously. In this regard, the mediator may also agree with the parties on the timeframe and \nplans for the conduct of the dispute mediation. \n  In the dispute mediation, when the mediator has asked facts concerning the \ndispute, intentions of the parties to resolve the dispute and other facts relating to the dispute \nmediation, the mediator shall give explanations to the parties with a view to their understanding \neach other or mutual leniency conducive to their successful resolution of the dispute."
+   }
+  },
+  {
+   "id": "TH-H008-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Article 26"
+   },
+   "text": {
+    "en": "The mediator shall conduct the dispute mediation in the presence \nof all parties except that, for the purpose of the dispute mediation in certain situations, the \nmediator may conduct the dispute mediation without the presence of a party, provided that \nthe mediator shall also notify the conduct of such dispute mediation to the party not present. \n10 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE. \n  The mediator may also permit a party’s lawyers or counsellors or any person to \nattend the dispute mediation."
+   }
+  },
+  {
+   "id": "TH-H008-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Article 27"
+   },
+   "text": {
+    "en": "While the dispute mediation is in progress, any party has the right to \nwithdraw from the dispute mediation by giving written notification thereof to the mediator."
+   }
+  },
+  {
+   "id": "TH-H008-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Article 28"
+   },
+   "text": {
+    "en": "In the dispute mediation, the parties have the right to enter into \nnegotiations with a view to reaching mutual agreement freely, provided that such agreement \nshall not be expressly prohibited by law, impossible or contrary to public order or good morals."
+   }
+  },
+  {
+   "id": "TH-H008-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Article 29"
+   },
+   "text": {
+    "en": "The following facts arising from the dispute mediation proceedings \nshall not be admissible into evidence in the conduct of judicial proceedings, arbitral \nproceedings or any other proceedings except for the purpose of the enforcement of a \nsettlement agreement: \n  (1) the parties’ intention or willingness to engage in the dispute mediation;  \n  (2) views or suggestions on ways or means for mediating the dispute of the parties; \n  (3) admissions or statements made by the parties in the course of the dispute \nmediation; \n  (4) any proposals made by the mediator; \n  (5) facts indicating the willingness to accept a proposal in the dispute mediation; \n  (6) documents which are prepared solely for the purposes of use, or which are \nsolely used, in the dispute mediation. \n  Any existing evidence or fact which is otherwise admissible into evidence in \njudicial proceedings, arbitral proceedings or any other proceedings does not become \ninadmissible under paragraph one as a consequence of its use by any party in the dispute \nmediation."
+   }
+  },
+  {
+   "id": "TH-H008-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Article 30"
+   },
+   "heading": {
+    "en": "When parties have reached any agreement, the mediator shall"
+   },
+   "text": {
+    "en": "prepare a memorandum of agreement for the dispute mediation or cause a memorandum of \nsettlement agreement to be prepared in writing. For this purpose, the parties and the mediator \nshall enter signatures thereon. \n11 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE. \n  The memorandum of agreement under paragraph one shall at least contain \ndetails as follows: \n  (1) names and addresses of the parties; \n  (2) the dispute under the law; \n  (3) willingness to engage in the dispute mediation; \n  (4) the fundamental substance of the agreement in consequence of the dispute \nmediation, such as compensation for damage, conditions requiring the parties’ compliance or \nforbearance, a period of time for taking action or the agreement to waive compensation for \ndamage."
+   }
+  },
+  {
+   "id": "TH-H008-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Article 31"
+   },
+   "text": {
+    "en": "Dispute mediation proceedings terminate in the cases as follows: \n  (1) the parties have concluded a settlement agreement; \n  (2) a party withdraws from the dispute mediation under section 27;  \n  (3) the mediator considers that further conduct of the dispute mediation is not \nuseful and directs termination of the dispute mediation. \nPART II \nENFORCEMENT OF A DISPUTE RESOLUTION AGREEMENT \n_______________"
+   }
+  },
+  {
+   "id": "TH-H008-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Article 32"
+   },
+   "heading": {
+    "en": "When a party has demanded the other party to perform the"
+   },
+   "text": {
+    "en": "settlement agreement but the party against whom the demand is made fails to perform the \nsettlement agreement, the party making the demand may file with the Court a request for the \nenforcement of the settlement agreement. \n  A request under paragraph one shall be made within three years as from the \ndate on which a settlement agreement is enforceable. If a request is not made within such time \nlimit, the obligation forming the basis of such settlement agreement shall be extinguished. \n  A request under paragraph one shall be filed with the Court of Justice in whose \njurisdiction the settlement agreement is concluded or the Court of Justice in whose jurisdiction \nany party has a domicile or the Court of Justice which has jurisdiction to try and adjudicate the \n12 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE. \ndispute to which the mediation relates and shall be subject to payment of the Court fee under \nthe Civil Procedure Code at the same rate as that applicable to a request to the Court for the \nenforcement of a domestic arbitral award."
+   }
+  },
+  {
+   "id": "TH-H008-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Article 33"
+   },
+   "text": {
+    "en": "The Court shall issue an order for the enforcement of a settlement \nagreement unless it is apparent to the Court, or the party against whom the agreement is \nintended to be enforced proves, that: \n  (1) either party has deficiency as regards the capacity to conclude the settlement \nagreement; \n  (2)  a ground of the dispute or the settlement agreement is, in essence, expressly \nprohibited by law, impossible or contrary to public order or good morals; \n  (3) the settlement agreement has been procured by fraud, coercion, a threat or \nan otherwise unlawful act;    \n  (4) there exists an incidence as regards the appointment of the mediator under \nsection 24 which materially affects the preparation of the memorandum of agreement. \n  An order of the Court under paragraph one shall not be appealed against unless: \n  (1) the Court issues an order refusing to enforce the settlement agreement; \n  (2) the Court issues an order in derogation from the settlement agreement; \n  (3) the Court issues an order enforcing the settlement agreement in violation of \nparagraph one. \n  A decision or an order of the Court at the appellate stage shall be final."
+   }
+  },
+  {
+   "id": "TH-H008-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Article 34"
+   },
+   "text": {
+    "en": "The President of the Supreme Court, with the approval of a general \nassembly of the Supreme Court, has the power to issue Rules of Court concerning the filing of a \nrequest and the enforcement of a settlement agreement under section 32 and the issuance of \nan order under section 33. In this regard, the provisions of the Civil Procedure Code shall apply \nmutatis mutandis  to matters other than those provided in this Act. \n \n \n13 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE. \nCHAPTER III \nCRIMINAL DISPUTE MEDIATION \n_______________"
+   }
+  },
+  {
+   "id": "TH-H008-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Article 35"
+   },
+   "text": {
+    "en": "Criminal dispute mediation is permissible in the following cases: \n  (1) compoundable offences; \n  (2) petty offences under section 390, section 391, section 392, section 393, \nsection 394, section 395 and section 397 of the Penal Code and other petty offences not \naffecting the public as prescribed in the Royal Decree.   \n  In the dispute mediation under paragraph one, when the parties have concluded \na criminal settlement agreement, it shall be deemed that the right to institute a criminal action \nis extinguished only in respect of the parties that have concluded such agreement."
+   }
+  },
+  {
+   "id": "TH-H008-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Article 36"
+   },
+   "text": {
+    "en": "In the conduct of the criminal dispute mediation, if the case is being \npursued at the stage of inquiries or legal proceedings by the inquiry official, the Public \nProsecutor or the Court, an agency conducting the dispute mediation or the Rights and Liberties \nProtection Department which has the duties and powers to exercise superintendence of the \ndispute mediation by a public-sector dispute mediation centre shall notify it to the inquiry \nofficial, the Public Prosecutor or the Court, as the case may be. The inquiry official, the Public \nProsecutor or the Court may stay the inquiry, the delivery of orders for the case or the trial or \nadjudication of the case, as the case may be, for the time being until the result of the dispute \nmediation is known. \n  When the criminal dispute mediation ends, the agency conducting the dispute \nmediation or the Rights and Liberties Protection Department shall notify the result of the \ndispute mediation to the inquiry official, the Public Prosecutor or the Court. In the case where \nthe parties have successfully reached a criminal settlement agreement, a copy of a \nmemorandum of such agreement shall also be furnished. \n  In the case where the criminal dispute mediation is unsuccessful, the inquiry \nofficial, the Public Prosecutor or the Court shall further proceed with the inquiries, the delivery \nof orders for the case or the trial and adjudication of the case. \n14 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE."
+   }
+  },
+  {
+   "id": "TH-H008-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Article 37"
+   },
+   "text": {
+    "en": "If the parties have concluded an agreement for settlement of a \ncriminal dispute in respect of which any party may have the right to institute a civil action \nconnected with a criminal action under the Criminal Procedure Code, the right to institute a \ncriminal action shall be extinguished when the parties have already performed the settlement \nagreement in respect of the civil matters. In the case where any party fails to perform the \nsettlement agreement in respect of the civil matters, the other party may take action in making \na request for the enforcement of the settlement agreement under section 32. \n  In the case under paragraph one where a settlement agreement allows any party \nto have the benefit of the time for the performance of the agreement, the provisions of section \n6 shall apply in the case where such party fails to perform the agreement."
+   }
+  },
+  {
+   "id": "TH-H008-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Article 38"
+   },
+   "text": {
+    "en": "In the case where the provisions of this Chapter do not provide any \nparticular proceeding in a criminal dispute mediation, the provisions of Chapter II, Civil Dispute \nMediation, shall apply to the criminal dispute mediation mutatis mutandis . \nCHAPTER IV \nCRIMINAL DISPUTE MEDIATION AT THE INQUIRY STAGE \n_______________ \nPART I \nGENERAL PROVISIONS \n_______________"
+   }
+  },
+  {
+   "id": "TH-H008-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Article 39"
+   },
+   "heading": {
+    "en": "In this Chapter:"
+   },
+   "text": {
+    "en": "“criminal dispute mediation” means the criminal dispute mediation at the \ninquiry stage, whereby the inquiry official provides the parties to a criminal case with \nopportunities to negotiate, reach agreement or provide remedies for damage, with a view to \nextinguishing the criminal case; \n  “parties” means the alleged offender and the injured person in a criminal case, \nexcluding a criminal case in respect of which the State or a State agency is the injured person. \n15 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE."
+   }
+  },
+  {
+   "id": "TH-H008-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Article 40"
+   },
+   "text": {
+    "en": "When the inquiry official who is competent to issue orders has \nissued an order for the criminal dispute mediation under section 44, a period of prescription for \ntaking criminal proceedings shall cease to run and when the inquiry official who is competent to \nissue orders has issued an order for further pursuing legal proceedings under section 61, the \nperiod of prescription for taking legal proceedings shall rerun as from such time. \n  Inquiry officials who are competent to issue orders for criminal dispute mediation \nshall be in accordance with the Rule prescribed by the Commissioner-General of the Royal Thai \nPolice, Permanent Secretary for Defence, Permanent Secretary for Interior or Permanent \nSecretary for Justice or the Regulation prescribed by the Attorney-General, as the case may be. \n  For the purpose of criminal dispute mediation, if there is no circumstantial risk of \nan escape by the alleged offender, the provisions on prosecution and postponement of \nprosecution under the law on the establishment of Khwaeng  Courts and Criminal Procedures in \nKhwaeng  Courts and the custody as well as detention under the Criminal Procedure Code shall \nnot apply until the inquiry official who is competent to issue orders issues an order for taking \nfurther legal proceedings and the period of time for prosecution, postponement of prosecution, \ncustody and detention shall commence as from such time. \n  In the case under paragraph three, if the alleged offender is granted a provisional \nrelease at the inquiry stage, the provisions on the period of time under section 113 of the \nCriminal Procedure Code shall not apply."
+   }
+  },
+  {
+   "id": "TH-H008-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Article 41"
+   },
+   "text": {
+    "en": "Criminal dispute mediation at the inquiry stage is permissible in \ncases involving offences as follows: \n  (1) cases involving compoundable offences; \n  (2) cases involving petty offences under section 390, section 391, section 392, \nsection 393, section 394, section 395 and section 397 of the Penal Code and other petty \noffences not affecting the public as prescribed in the Royal Decree; \n  (3) offences punishable with maximum imprisonment term not exceeding three \nyears as specified in the Schedule annexed to this Act. \n \n16 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE."
+   }
+  },
+  {
+   "id": "TH-H008-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Article 42"
+   },
+   "text": {
+    "en": "Cases involving offences under section 41 (3) must be cases in \nwhich: \n  (1) the alleged offender has never undergone criminal dispute medication under \nthis Act except for cases involving offences committed through negligence or petty offences, \nwhere a period exceeding three years has elapsed as from the order for discontinuance of the \nproceedings; and \n  (2) the alleged offender is not serving a sentence for imprisonment by a final \njudgment or has been released from the punishment for a period exceeding five years, except \nfor cases involving offences committed through negligence, cases involving petty offences or \ncases involving offences committed at the time when the offender is below eighteen years of \nage."
+   }
+  },
+  {
+   "id": "TH-H008-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Article 43"
+   },
+   "text": {
+    "en": "In a case capable of criminal dispute mediation, the inquiry official \nshall, at the earliest opportunity, inform the parties of their right to request for criminal dispute \nmediation."
+   }
+  },
+  {
+   "id": "TH-H008-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Article 44"
+   },
+   "text": {
+    "en": "When both parties are willing and intend to engage in criminal \ndispute mediation and the case concerned is not pending trial of the Court, the parties shall \nsubmit a request for criminal dispute mediation to the inquiry official. The inquiry official shall \nissue an opinion thereon. If the inquiry official who is competent to issue orders is of the \nopinion that the circumstances of the commission of the offence are not serious and do not \nhave severe impacts on the society as a whole, an order shall be issued for criminal dispute \nmediation. \n  The submission of a request for criminal dispute mediation, the consideration \nand a period of time for decision upon the request and proceedings for criminal dispute \nmediation under the provisions of this Chapter shall be in accordance with the rules, \nprocedures and conditions in the Rule prescribed by the Commissioner-General of the Royal \nThai Police, Permanent Secretary for Defence, Permanent Secretary for Interior or Permanent \nSecretary for Justice or the Regulation prescribed by the Attorney-General, as the case may be."
+   }
+  },
+  {
+   "id": "TH-H008-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Article 45"
+   },
+   "text": {
+    "en": "In the case where there are several injured persons, the injured \npersons engaging in criminal dispute mediation must be willing and intend to engage in criminal \ndispute mediation. \n17 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE. \n  In the case where there are more than two parties and any party is not willing to \nengage in the dispute mediation, the dispute mediation may be conducted amongst parties that \nare willing to engage therein."
+   }
+  },
+  {
+   "id": "TH-H008-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Article 46"
+   },
+   "heading": {
+    "en": "The person with the power to manage affairs on behalf of the"
+   },
+   "text": {
+    "en": "injured person under the Criminal Procedure Code shall have the power to manage affairs on \nbehalf of the injured person in relation to criminal dispute mediation under this Act, provided \nthat it shall not be contrary to or against the intention of the injured person."
+   }
+  },
+  {
+   "id": "TH-H008-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Article 47"
+   },
+   "text": {
+    "en": "In the case where the provisions of this Chapter do not provide any \nparticular proceeding in a criminal dispute mediation at the inquiry stage, the provisions of \nChapter II, Civil Dispute Mediation, and Chapter III, Criminal Dispute Mediation, shall apply to the \ncriminal dispute mediation at the inquiry stage mutatis mutandis . \nPART II \nMEDIATORS \n_______________"
+   }
+  },
+  {
+   "id": "TH-H008-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Article 48"
+   },
+   "text": {
+    "en": "A person who intends to be registered as a mediator in accordance \nwith the provisions of this Chapter shall submit an application to the Commissioner-General of \nthe Royal Thai Police, Permanent Secretary for Defence, Permanent Secretary for Interior, \nPermanent Secretary for Justice or the Attorney-General, as the case may be, as the Registrar, \nand the provisions of section 9 shall apply mutatis mutandis . \n  A mediator under paragraph one shall possess the qualifications and shall not be \nunder prohibitions under section 10."
+   }
+  },
+  {
+   "id": "TH-H008-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Article 49"
+   },
+   "text": {
+    "en": "The inquiry official shall cause to be held a meeting between \nparties for the selection and appointment of a mediator within seven days as from the date on \nwhich the inquiry official who is competent to issue orders issues an order for criminal dispute \nmediation. If the parties fail to agree on the selection of a mediator, the inquiry official shall \nselect and appoint a mediator and notify it to the mediator and the parties. \n  The selection and appointment of a mediator under paragraph one shall be in \naccordance with the rules, procedures and conditions in the Rule prescribed by the \n18 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE. \nCommissioner-General of the Royal Thai Police, Permanent Secretary for Defence, Permanent \nSecretary for Interior or Permanent Secretary for Justice or the Regulation prescribed by the \nAttorney-General, as the case may be. \nPART III \nPROCEEDINGS FOR CRIMINAL DISPUTE MEDIATION AT THE INQUIRY STAGE \n_______________"
+   }
+  },
+  {
+   "id": "TH-H008-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Article 50"
+   },
+   "text": {
+    "en": "The inquiry official shall make the first appointment for criminal \ndispute mediation within seven days as from the date of the appointment of the mediator and \nnotify it to the mediator and the parties. \n  In the case of a cause of necessity preventing the action from being taken within \nthe period of time under paragraph one, the inquiry official may address to the inquiry official \nwho is competent to issue orders a request for an extension of the period of time for not more \nthan seven days."
+   }
+  },
+  {
+   "id": "TH-H008-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Article 51"
+   },
+   "text": {
+    "en": "The parties shall attend criminal dispute mediation in person and \nhave the right to allow not more than two trusted persons. \n  If the party who is the alleged offender is a minor, parents, a guardian, a \npsychologist or a social worker shall also attend criminal dispute mediation. \n  Criminal dispute mediation under this Chapter shall be conducted in camera."
+   }
+  },
+  {
+   "id": "TH-H008-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Article 52"
+   },
+   "text": {
+    "en": "In criminal dispute mediation, if an interpreter is necessary, the \ninquiry official shall provide an interpreter."
+   }
+  },
+  {
+   "id": "TH-H008-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Article 53"
+   },
+   "text": {
+    "en": "Before commencing criminal dispute mediation, the mediator shall \nexplain to the parties circumstances of the acts committed by the party who is the alleged \noffender as revealed in the complaint, other facts relating to the case, proceedings and legal \nconsequences of the criminal dispute mediation and the right to terminate the criminal dispute \nmediation. \n  For the purpose of criminal dispute mediation, the inquiry official shall give co-\noperation to the mediator in the interest of gaining knowledge of circumstances and other facts \nunder paragraph one. \n19 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE."
+   }
+  },
+  {
+   "id": "TH-H008-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Article 54"
+   },
+   "text": {
+    "en": "The mediator shall perform duties on the basis of integrity and \nimpartiality and shall assist and support the parties in conducting negotiations with a view to \nthe voluntary settlement of the case."
+   }
+  },
+  {
+   "id": "TH-H008-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Article 55"
+   },
+   "text": {
+    "en": "Criminal dispute mediation shall be completed within thirty days as \nfrom the date of the first appointment for the criminal dispute mediation except that, where \nthere exists a cause of necessity or it is the case in which there is a reasonable cause to believe \nthat the parties may reach agreement, the mediator may proceed with it for a further period \nnot exceeding thirty days, provided that such cause shall be noted down. \n  In the case where the mediator may be removed under section 15 or in the case \nwhere the status as a mediator terminates under section 17, the period of time under paragraph \none shall begin to run as from the date of the first appointment for criminal dispute mediation \nfollowing the appointment of a new mediator."
+   }
+  },
+  {
+   "id": "TH-H008-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Article 56"
+   },
+   "text": {
+    "en": "In the criminal dispute mediation, the parties have the right to enter \ninto negotiations with a view to reaching mutual agreement freely, provided that such \nagreement shall not be contrary to the law, impossible or contrary to public order or good \nmorals. \n  In the case where the injured person is a minor, the agreement under paragraph \none shall not be contrary to or against the intention of the minor as well."
+   }
+  },
+  {
+   "id": "TH-H008-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Article 57"
+   },
+   "text": {
+    "en": "When the parties have reached their agreement, the mediator shall \nprepare a memorandum of agreement or cause a memorandum of agreement to be prepared \nin writing, and the parties as well as the mediator shall sign it. Thereafter, the mediator shall \nfurnish the memorandum of agreement to the inquiry official. \n  The memorandum of agreement under paragraph one shall at least contain the \ndetails as follows: \n  (1) names and addresses of the parties; \n  (2) the alleged circumstances; \n  (3) the alleged offence and rate of penalty under the law;  \n  (4) willingness to engage in the criminal dispute mediation; \n20 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE. \n  (5) the fundamental substance of the agreement in consequence of the criminal \ndispute mediation, such as compensation of damage, conditions requiring the parties’ \ncompliance or forbearance and the period of time therefor or the agreement to waive \ncompensation for damage. \nPART IV \nTERMINATION OF CRIMINAL DISPUTE MEDIATION AT THE INQUIRY STAGE \n_______________"
+   }
+  },
+  {
+   "id": "TH-H008-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Article 58"
+   },
+   "text": {
+    "en": "Any party may, at any time, declare withdrawal in order that the \ncriminal dispute mediation shall terminate. \n  In the case where any party consists of several persons, the declaration of \nwithdrawal by any particular person or persons for terminating the criminal dispute mediation \nshall not prejudice the criminal dispute mediation of the remaining persons in both parties."
+   }
+  },
+  {
+   "id": "TH-H008-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Article 59"
+   },
+   "text": {
+    "en": "The mediator may terminate the criminal dispute mediation upon \nthe occurrence of any of the following facts: \n  (1) any party or both parties fail to attend the criminal dispute mediation without \ngiving notification or without any reasonable cause or, in the circumstances, fail to give co-\noperation in the criminal dispute mediation; \n  (2) there is a reasonable cause to believe that the agreement in question fails to \nbe concluded voluntarily; \n  (3) the criminal dispute mediation is certainly unable to achieve successful \nresults;  \n  (4) it is clear that further conduct of the criminal dispute mediation will be \ncontrary to the interest of the party who is a minor; \n  (5) the parties are unable to negotiate for reaching an agreement towards the \nresolution of the conflict or are unable to remedy the ensuing damage."
+   }
+  },
+  {
+   "id": "TH-H008-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Article 60"
+   },
+   "text": {
+    "en": "When it is apparent to the mediator that the injured person has \nfiled a criminal action before the Court, whether before the inquiry or during the inquiry, the \ncriminal dispute mediation shall terminate. \n21 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE."
+   }
+  },
+  {
+   "id": "TH-H008-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Article 61"
+   },
+   "text": {
+    "en": "The mediator shall report to the inquiry official the termination of \nthe criminal dispute mediation under section 58, section 59 and section 60 within seven days as \nfrom the date of the termination thereof. \n  Upon receipt of the report on the termination of the criminal dispute mediation, \nthe inquiry official who is competent to issue orders shall issue an order for taking further legal \nproceedings."
+   }
+  },
+  {
+   "id": "TH-H008-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Article 62"
+   },
+   "text": {
+    "en": "In the criminal dispute mediation under this Chapter, if it appears to \nthe mediator that the right to institute a criminal action is extinguished under the Criminal \nProcedure Code, the mediator shall terminate the criminal dispute mediation and report it to \nthe inquiry official for taking further action. \n  In the case of several offenders, if the right to institute a criminal action is \nextinguished only in respect of some offenders, the mediator shall proceed with the criminal \ndispute mediation in respect of remaining offenders."
+   }
+  },
+  {
+   "id": "TH-H008-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Article 63"
+   },
+   "text": {
+    "en": "In a case involving the commission of a single act violating several \nprovisions of law, if the offence under the provision of law carrying the heaviest punishment has \nreached a successful result of the criminal dispute medication under this Act, it shall be \ndeemed that the right to institute a criminal action in respect of other offences is also \nextinguished, but if the offence which has reached a successful result of the criminal dispute \nmedication is an offence carrying less or the least heavy punishment, it shall not have the \neffect of extinguishing the right to institute a criminal action in respect of offences carrying \nheavier or the heaviest punishment. \nPART V \nRESULTS OF CRIMINAL DISPUTE MEDIATION AT THE INQUIRY STAGE \n_______________"
+   }
+  },
+  {
+   "id": "TH-H008-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Article 64"
+   },
+   "text": {
+    "en": "When the party has undertaken the performance as required by the \nmemorandum of agreement under section 57, the party shall notify it to the inquiry official for \npreparing a memorandum of the agreed performance to be referred to the Public Prosecutor \ntogether with the briefs of the inquiry and relevant documents for considering the issuance of \nan order that the case be discontinued. \n22 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE. \n  In the case where the performance as required by the memorandum of \nagreement has been incompletely undertaken, the party shall notify it to the inquiry official for \nreferring the matter to the inquiry official who is competent to issue orders for considering the \nissuance of an order that legal proceedings be further continued except that, where the injured \nparty is satisfied with the performance previously undertaken as required by the agreement, the \nparty shall notify it to the inquiry official for taking action under paragraph one."
+   }
+  },
+  {
+   "id": "TH-H008-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Article 65"
+   },
+   "text": {
+    "en": "If it appears to the inquiry official that the party that is the alleged \noffender intentionally fails to perform the agreement without any reasonable cause, the inquiry \nofficial who is competent to issue orders shall issue an order that legal proceedings be further \ncontinued."
+   }
+  },
+  {
+   "id": "TH-H008-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Article 66"
+   },
+   "heading": {
+    "en": "When the Public Prosecutor issues an order that the case be"
+   },
+   "text": {
+    "en": "discontinued, the right to institute a criminal action shall be extinguished. \n  In the case of several injured persons, if any injured person is unable to conclude \nan agreement with the alleged offender, such injured person’s right to institute a criminal action \nshall not be extinguished."
+   }
+  },
+  {
+   "id": "TH-H008-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Article 67"
+   },
+   "text": {
+    "en": "Criminal dispute mediation does not preclude the inquiry official’s \npower to conduct further inquiries. \nCHAPTER V \nPUBLIC SECTOR DISPUTE MEDIATION \n_______________"
+   }
+  },
+  {
+   "id": "TH-H008-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Article 68"
+   },
+   "text": {
+    "en": "The Rights and Liberties Protection Department of the Ministry of \nJustice shall promote and encourage public congregation into a public-sector dispute mediation \ncentre for carrying out affairs in connection with public sector dispute mediation. \n  A mediator of a public-sector dispute mediation centre shall possess the \nqualifications and shall not be under the prohibitions under section 10. \n  The Director-General of the Rights and Liberties Protection Department shall be \nthe Registrar of public-sector dispute mediation centres. \n23 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE. \n  The Rights and Liberties Protection Department shall have the duty and power \nto superintend dispute mediation of a public-sector dispute mediation centre to ensure \ncompliance with this Act."
+   }
+  },
+  {
+   "id": "TH-H008-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Article 69"
+   },
+   "text": {
+    "en": "Subject to section 20, dispute mediation by a public-sector dispute \nmediation centre is permissible in the following cases: \n  (1) a civil dispute of which the amount of claim does not exceed five hundred \nthousand Baht or does not exceed such amount as prescribed in the Royal Decree; \n  (2) such other civil disputes other than those in (1) as prescribed in the Royal Decree; \n  (3) criminal disputes under section 35. \n  In the case where the Rights and Liberties Protection Department considers that \nthe dispute mediation by a public-sector dispute mediation centre on any matter has been \nconducted in accordance with this Act and has issued a certificate to such effect, the dispute \nsettlement agreement in question shall be enforceable or the right to institute a criminal action \nshall be extinguished under this Act."
+   }
+  },
+  {
+   "id": "TH-H008-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Article 70"
+   },
+   "text": {
+    "en": "The Rights and Liberties Protection Department shall grant financial \nsupport for funding operational costs of public-sector dispute mediation centres in accordance \nwith the Rule prescribed by the Director-General of the Rights and Liberties Protection \nDepartment with the approval of the Ministry of Finance. \nCHAPTER VI \nPENALTIES \n_______________"
+   }
+  },
+  {
+   "id": "TH-H008-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Article 71"
+   },
+   "heading": {
+    "en": "Any mediator who unduly demands, accepts or agrees to accept"
+   },
+   "text": {
+    "en": "property or any other benefit for himself or another person for the purpose of performing or \nrefraining from performing any act in the course of duty, whether such act is contrary to the \nperformance of the duty or not, shall be liable to imprisonment for a term not exceeding five \nyears or to a fine not exceeding one hundred thousand Baht or to both."
+   }
+  },
+  {
+   "id": "TH-H008-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "Article 72"
+   },
+   "text": {
+    "en": "Any person who gives, offers to give or agrees to give property or \nany other benefit to a mediator for inducing the performance of any act or the omission or a \n24 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE. \ndelay in the performance of any act, which is contrary to the performance of the duty, shall be \nliable to imprisonment for a term not exceeding five years or to a fine not exceeding one \nhundred thousand Baht or to both. \n \n  Countersigned by: \n    General Prayut Chan-o-cha  \n Prime Minister \n25 \n \n \nDISCLAIMER : THIS TEXT HAS BEEN PROVIDED FOR EDUCATIONAL/ COMPREHENSION PURPOSES AND CONTAINS \nNO LEGAL AUTHORITY. THE OFFICE OF THE COUNCIL OF STATE SHALL ASSUME NO RESPONSIBILITY FOR ANY \nLIABILITIES ARISING FROM THE USE AND/OR REFERENCE OF THIS TEXT. THE ORIGINAL THAI TEXT AS FORMALLY \nADOPTED AND PUBLISHED SHALL IN ALL EVENTS REMAIN TH E SOLE AUTHORITY HAVING LEGAL FORCE. \nSCHEDULE ANNEXED TO THE DISPUTE MEDIATION ACT, B.E. 2562 (2019) \n_______________ \n \n  Offences under the Penal Code as follows: \n  (1) an offence of participating in a chaotic affray causing death therefrom under \nsection 294 paragraph one; \n  (2) an offence of causing bodily harm under section 295; \n  (3) an offence of causing bodily harm with an aggravated factor under section \n296; \n  (4) an offence of participating in a chaotic affray causing a person to suffer serious \ninjury therefrom under section 299 paragraph one; \n  (5) an offence of negligently causing another person to suffer serious injury under \nsection 300; \n  (6) an offence of theft under section 334."
+   }
+  }
+ ]
+}

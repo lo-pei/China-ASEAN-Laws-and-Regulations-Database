@@ -1,0 +1,64 @@
+{
+ "id": "PH-H1833",
+ "title": {
+  "zh": null,
+  "en": "An Act Defining the Boundaries of the Municipality of Hagonoy, Province of Davao",
+  "orig": "An Act Defining the Boundaries of the Municipality of Hagonoy, Province of Davao"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p25",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1959-03-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2094",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 804,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1959/ra_2094_1959.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1959/ra_2094_1959.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1833-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The boundaries of the Municipality of Hagonoy, Province of Davao, shall be, on the north, and imaginary line cutting the Digos-Malalag-Makar National Road at Km. 311, running due west from the shoreline of the Davao Gulf up to an imaginary north-south line with longitude 125º 14� E., thence due south along this line to its intersection with an imaginary line running due west from the shoreline of the Davao Gulf and cutting the Digos-Malalag-Makar National Road at Km. 318.1, so that the territory of said municipality shall include the barrios of Kibuaya, Upper Sacub, Lower Sacub, Maliit-Digos, La Union, Malabang, Tulogan, Malinao, Guihing, Pawa, Hagonoy, Balutakay, Leling, and Sinayawan, and the sitios of Quezon and Polopolo."
+   }
+  },
+  {
+   "id": "PH-H1833-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: March 3, 1959."
+   }
+  }
+ ]
+}

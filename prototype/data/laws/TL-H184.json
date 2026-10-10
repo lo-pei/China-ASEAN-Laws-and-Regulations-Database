@@ -1,0 +1,1786 @@
+{
+ "id": "TL-H184",
+ "title": {
+  "zh": "Medidas de Prevençã及 Combate à Corrupção",
+  "en": null,
+  "orig": "Medidas de Prevenção e Combate à Corrupção"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p04",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2020-08-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 7/2020",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 109,
+ "chars": 72736,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2020/serie_1/SERIE_I_NO_35.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 109 条；逐字取自官方公报 PDF（public/docs/2020/serie_1/SERIE_I_NO_35.pdf）第 699–718 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H184-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I OBJETO"
+   },
+   "heading": {
+    "pt": "Objeto"
+   },
+   "text": {
+    "pt": "1.   A presente lei dispõe sobre medidas gerais de prevenção, sobre o regime de declaração de rendimentos, bens e interesses, define os crimes de corrupção, as penas que lhes são aplicáveis e os meios especiais de obtenção e conservação de prova.\n2.   A presente lei procede à sexta alteração ao Código Penal, aprovado pelo Decreto-Lei n.º 19/2009, de 8 de abril, e alterado sucessivamente pela Lei n.º 6/2009, de 15 de julho, pelo Regime Jurídico da Prevenção e do Combate ao Branqueamento de Capitais e ao Financiamento do Terrorismo, Lei n.º 17/2011, de 28 de dezembro, pela Lei que Procede à Primeira Alteração ao Regime Jurídico da Prevenção e do Combate ao Branqueamento de Capitais e ao Financiamento do Terrorismo, Lei n.º 4/2013, de 11 de setembro, pela Lei da Prevenção e Luta Contra o Tráfico de Pessoas, Lei n.º 3/2017, de 25 de janeiro, e pelo Regime Jurídico Relativo à Prática de Artes Marciais, Rituais, Armas Brancas, Rama Ambon, Lei n.º 5/2017, de 19 de abril.\n3.   A presente lei procede à primeira alteração à Lei sobre a Comissão Anti-Corrupção, Lei n.º 8/2009, de 15 de julho."
+   }
+  },
+  {
+   "id": "TL-H184-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Política de prevenção e luta contra a corrupção"
+   },
+   "text": {
+    "pt": "1.  O Governo aprova, sob proposta da Comissão Anti- Corrupção, a estratégia nacional de prevenção e combate à corrupção e os planos de ação dirigidos à sua execução.\n2.    A estratégia nacional e os planos de ação promovem a mais ampla participação pública, nomeadamente através das organizações da sociedade civil e do setor privado, na sua conceção, execução e avaliação, e refletem os princípios do Estado de Direito, da boa gestão dos assuntos e bens públicos, da integridade, da transparência e da responsabilidade.\n3.  A estratégia nacional assenta em rigorosa recolha, compilação e análise de informação factual das causas e das consequências da corrupção em Timor-Leste.\n4.   A estratégia nacional fixa objetivos claros e exequíveis, metas temporais, e a sequência em que os objetivos específicos devem ser atingidos. A estratégia nacional visa prover uma orientação geral que conduza ao desenvolvimento e implementação de planos de ação específicos por setor ou instituição, de maneira a assegurar a execução em cascata da estratégia e que esta não seja uma mera declaração de intenções.\n5.   À Comissão Anti-Corrupção cabe a supervisão e coordenação da execução da estratégia e plano de ação nacionais, a avaliação periódica da sua aplicação, e propor, quando necessário, adaptações.\n6.   Os instrumentos jurídicos e as medidas administrativas são regularmente avaliados com o fim de verificar se são adequados para prevenir e combater a corrupção.\nSecção  II\nSetor  público  e  códigos  de  conduta"
+   }
+  },
+  {
+   "id": "TL-H184-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Recrutamento  no  setor  público"
+   },
+   "text": {
+    "pt": "O recrutamento, contratação, retenção e promoção de agentes públicos não eleitos devem comportar:\na)  Procedimentos adequados de seleção e formação de pessoas para cargos públicos considerados especialmente expostos à corrupção e, quando apropriado, a rotatividade nesses cargos;\nb)   Programas de educação e de formação que lhes permitam satisfazer os requisitos para o correto, digno e adequado desempenho de funções públicas, e que visem uma maior consciencialização, por parte dos mesmos, dos riscos de corrupção inerentes ao desempenho das suas funções."
+   }
+  },
+  {
+   "id": "TL-H184-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Códigos de conduta para os agentes públicos e privados"
+   },
+   "text": {
+    "pt": "1.   Devem ser adotados códigos de conduta para os agentes públicos, de modo a promover padrões de comportamento pessoal de integridade, honestidade e responsabilidade, bem como padrões de responsabilidade profissional de correção, imparcialidade, honradez e desempenho apropriado de funções públicas.\n2.  Na feitura dos códigos de conduta para funcionários públicos deve levar-se em consideração o Código Quadro de Conduta para os Funcionários Públicos, anexo à Resolução 51/59 da Assembleia Geral das Nações Unidas, de 12 de dezembro de 1996.\n3.  Devem ser adotados códigos de conduta próprios para agentes públicos de áreas especialmente expostas à corrupção, impondo condutas adequadas aos seus riscos específicos de corrupção.\n4.   Os códigos de conduta impõem necessariamente sanções disciplinares contra a violação dos seus preceitos e normas.\n5.    As organizações do setor privado são encorajadas a adotar códigos de conduta semelhantes aos aplicáveis ao setor público, em que contemplam igualmente disposições específicas em razão da natureza da organização e das funções dos seus empregados."
+   }
+  },
+  {
+   "id": "TL-H184-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Medidas para facilitar a comunicação de atos de corrupção"
+   },
+   "text": {
+    "pt": "As autoridades policiais e judiciárias competentes adotam medidas destinadas a facilitar a comunicação, por parte de agentes públicos às autoridades competentes, de atos de corrupção dos quais tomem conhecimento no desempenho das suas funções, designadamente a aceitação de denúncias anónimas, a proteção da identidade dos denunciantes e a proteção contra represálias."
+   }
+  },
+  {
+   "id": "TL-H184-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Medidas relativas a partidos políticos"
+   },
+   "text": {
+    "pt": "Os partidos políticos têm a obrigação de promover o conhecimento e a consciencialização dos seus militantes e dirigentes sobre os riscos de corrupção, bem como têm a responsabilidade de adotar medidas de prevenção.\nSecção  III\nContratação no setor público"
+   }
+  },
+  {
+   "id": "TL-H184-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Publicidade e transparência do aprovisionamento no setor público"
+   },
+   "text": {
+    "pt": "1.   O aprovisionamento e a contratação pública assentam nos princípios da publicidade e da transparência, que visam a dissuasão de práticas de corrupção e permitem um escrutínio social dos agentes públicos afetos aos serviços de aprovisionamento e das pessoas que contratam com o Estado. A publicidade e a transparência têm lugar quer na fase de aprovisionamento e contratação, quer na fase de execução do contrato.\n2.    A  formação, com a respetiva certificação dos conhecimentos adquiridos, dos agentes públicos afetos aos serviços de aprovisionamento e contratação pública, deve incluir um profundo conhecimento das técnicas e regras legais aplicáveis, assim como a sensibilização sobre os efeitos nefastos da corrupção e os benefícios de uma conduta ética apropriada.\n3.   Os agentes públicos afetos aos serviços de aprovisionamento e contratação pública estão sujeitos à declaração de bens, rendimentos e interesses, nos termos estabelecidos nas disposições legais próprias sobre a matéria, com vista à transparência da forma como adquirem a sua riqueza e à deteção e prevenção de conflitos de interesses.\n4.  O regime jurídico do aprovisionamento e dos contratos públicos deve estabelecer um sistema eficaz de auditoria interna aos procedimentos de aprovisionamento e execução dos contratos públicos, bem como um sistema claro e eficaz de recursos para o caso de incumprimento das regras e procedimentos."
+   }
+  },
+  {
+   "id": "TL-H184-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Aprovisionamento justo e eficiente"
+   },
+   "text": {
+    "pt": "1.  O aprovisionamento deve ser económico e baseado no princípio da otimização da relação entre o custo e o benefício, do qual deve resultar a melhor qualidade de bens, serviços e obras pelo preço pago.\n2.    As decisões de adjudicação de contratos de fornecimento de bens, serviços e obras devem ser justas e imparciais, observando-se o seguinte:\na) Os fundos públicos não devem ser usados para conceder favores;\nb) Os requisitos e as especificações não devem ser discriminatórios;\nc) Os concorrentes devem ser selecionados com base nas suas qualificações e no mérito das suas ofertas;\nd) Os concorrentes devem ser tratados com absoluta igualdade.\n3.  A complexidade do processo e das regras do aprovisionamento deve refletir o valor e a complexidade do bem, serviço ou obra a adquirir, evitando-se intervenção burocrática desnecessária.\nSecção IV\nTransparência da administração pública"
+   }
+  },
+  {
+   "id": "TL-H184-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Divulgação da atividade e do funcionamento das instituições públicas"
+   },
+   "text": {
+    "pt": "1.     As instituições do Estado publicam regularmente relatórios sobre as suas atividades, que são objeto de mais ampla divulgação pública.\n2.    Os ministérios e outras instituições do Estado fazem a mais ampla utilização dos meios eletrónicos na disseminação de informações gerais dirigidas ao público, sobre a sua organização, funcionamento e os processos de tomada de decisão. Esta informação deve ser suficientemente clara, de modo a permitir ao público conhecer, de modo geral, onde se dirigir para requerer e obter uma decisão, que documentos são necessários para instruir um pedido, quem é responsável pelas decisões, como podem ser contactados, que informações sobre o processo estão disponíveis, e a quem podem recorrer da decisão.\n3.  O efetivo acesso à informação sobre as decisões das autoridades públicas compreende:\na) O conhecimento público dos responsáveis pelas decisões;\nb) O conhecimento público do conteúdo das decisões;\nc) O acesso público à informação técnica contida nas decisões explicadas em linguagem acessível;\nd) A divulgação das decisões tomadas e das razões que as fundamentam;\ne) A existência de meios eficazes e acessíveis de recurso das decisões."
+   }
+  },
+  {
+   "id": "TL-H184-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Simplificação de procedimentos administrativos"
+   },
+   "text": {
+    "pt": "A Comissão Anti-Corrupção promove, por si ou em colaboração com o Governo, estudos periódicos, com a participação de entidades públicas, da sociedade civil e de instituições académicas, com vista à simplificação de procedimentos, tendo por fim facilitar o acesso do público às autoridades competentes responsáveis pela tomada de decisão, e reduzir expedientes burocráticos desnecessários e que criam oportunidades de corrupção."
+   }
+  },
+  {
+   "id": "TL-H184-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Avaliação de riscos de corrupção na Administração Pública"
+   },
+   "text": {
+    "pt": "A Comissão Anti-Corrupção promove estudos periódicos, com a participação de entidades públicas, da sociedade civil e de instituições académicas, sobre os riscos de corrupção na Administração Pública e propõe possíveis soluções legislativas e de outra natureza."
+   }
+  },
+  {
+   "id": "TL-H184-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Obstrução do acesso à informação"
+   },
+   "text": {
+    "pt": "Qualquer agente público que, tendo a custódia de documento ou qualquer outra informação relevante para o processo de tomada de uma decisão a que o público tenha direito de acesso garantido por lei, se negar a fornecer documento ou informação, comete infração disciplinar punida com pena de suspensão, precedida de procedimento disciplinar, sem prejuízo do procedimento criminal a que possa dar lugar."
+   }
+  },
+  {
+   "id": "TL-H184-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Recurso judicial"
+   },
+   "text": {
+    "pt": "As decisões denegatórias do acesso à informação garantido por lei são passíveis de recurso aos tribunais, esgotados os recursos administrativos.\nSecção V\nIntegridade do judiciário e redução de oportunidades de corrupção"
+   }
+  },
+  {
+   "id": "TL-H184-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Medidas para reforço da integridade dos magistrados"
+   },
+   "text": {
+    "pt": "judiciais e magistrados do Ministério Público\n1.   A competência, o profissionalismo e a integridade dos juízes e dos procuradores da República são fundamentais ao sucesso da luta contra a corrupção. O Judiciário como instituição é essencial ao estado de direito e pode influenciar os esforços para a erradicação da corrupção.\n2.  O conceito de integridade dos magistrados deve ser entendido de modo abrangente de forma a incluir:\na) A capacidade de agir livre de quaisquer influências externas, persuasão, ameaças ou interferências, diretas ou indiretas, qualquer que seja a sua origem ou motivação;\nb) A imparcialidade, enquanto capacidade de agir sem favor ou preconceito;\nc) Uma conduta pessoal irrepreensível à vista de um observador comum;\nd) O modo apropriado, ou sua aparência, na maneira como se conduz na vida pessoal e profissional;\ne) Competência técnica; f) Diligência e disciplina.\n3.   A independência do Judiciário deve alicerçar-se em três condições essenciais, que em legislação própria devem ser consagradas:\na) A garantia de manutenção no cargo, de carreira ou por mandato, contra interferências arbitrárias e discricionárias de outros poderes do Estado com vista à remoção ou transferências de magistrados;\nb) Garantias financeiras, incluindo uma justa remuneração, segurança social e pensão de reforma, imune a interferências arbitrárias do poder executivo;\nc) Independência institucional relativamente a matérias administrativas diretamente relacionadas com o exercício da função judicial e com a gestão dos recursos financeiros alocados ao Judiciário."
+   }
+  },
+  {
+   "id": "TL-H184-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Medidas para reduzir oportunidades de corrupção"
+   },
+   "text": {
+    "pt": "1.   Os processos de recrutamento, nomeação e promoção de magistrados judiciais e de magistrados do Ministério Público, bem como de defensores públicos, são transparentes e baseiam-se no mérito e em critérios preestabelecidos, e refletem a competência profissional especializada que se requer para o desempenho das respetivas funções.\n2.   Os processos de recrutamento devem incluir o escrutínio da conduta pretérita do candidato antes de se efetivar a sua nomeação.\n3.  O reforço da integridade do judiciário requer medidas legislativas para assegurar que:\na) O processo judicial é aberto e acessível ao público, sem prejuízo das circunstâncias excecionais em que tal não deve ocorrer;\nb) Os magistrados são obrigados a fundamentar as suas decisões;\nc) As decisões são passíveis de recurso e os processos respetivos asseguram o efetivo exercício desse direito.\n4.   A administração no dia-a-dia dos processos judiciais é uma importante componente na prevenção da corrupção.\nMedidas neste domínio podem incluir:\na) A atribuição de responsabilidades aos juízes na redução de atrasos na condução e conclusão de processos e o desencorajamento de manobras dilatórias, o que pode ser feito, entre outras ações, através da circulação mensal entre os juízes de uma lista de processos e julgamentos pendentes;\nb) A informatização dos processos judiciais, como forma de prevenir o seu desaparecimento ou a sua retenção indevida por alguém;\nc) Um procedimento público e transparente de distribuição de processos aos juízes, como forma de combater a perceção aparente ou real de controlo das partes em litígio sobre os mesmos;\nd) A aplicação de medidas com vista a reduzir injustificáveis variações nas sentenças criminais."
+   }
+  },
+  {
+   "id": "TL-H184-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Medidas relativas a padrões de conduta profissional"
+   },
+   "text": {
+    "pt": "1.  O acesso às carreiras das magistraturas judicial e do Ministério Público deve depender de um elevado nível de educação jurídica, o qual deve igualmente ser assegurado ao longo da carreira através do desenvolvimento profissional contínuo, pelas instituições públicas responsáveis, numa base regular. A formação dos magistrados deve integrar uma importante componente deontológica.\n2.   Na formulação ou revisão das condutas éticas impostas aos magistrados judiciais e aos magistrados do Ministério Público devem ser tomados em consideração:\na) Os “Princípios Básicos sobre a Independência do Judiciário”, aprovados pelas Resoluções da Assembleia Geral das Nações Unidas 40/32 de 29 de novembro de 1985 e 40/146 de 13 de dezembro de 1985;\nb) Os “Princípios de Bangalore de Conduta Judicial”, adotados pelo Grupo Judicial para o Fortalecimento da Integridade do Judiciário e revisto pelos Presidentes dos Supremos Tribunais, em Haia, em 25-26 de novembro de 2002, e endossado pelas Nações Unidas, através da Resolução do Conselho Económico e Social, ECOSOC 2006/23.\nc) Os “Princípios Orientadores Relativos à Função dos Magistrados do Ministério Público”, aprovados pelo Oitavo Congresso das Nações Unidas para a Prevenção do Crime e o Tratamento dos Delinquentes, realizado em Havana, Cuba, de 27 de agosto a 7 de setembro de 1990;\nd) O “Código de Conduta para Agentes Responsáveis pela Aplicação da Lei Penal”, aprovado pela Resolução da Assembleia Geral das Nações Unidas 34/169, de 17 de dezembro de 1979 e o “Guia para a Efetiva Implementação do Código de Conduta para Agentes Responsáveis pela aplicação da Lei Penal”, adotado pela Resolução 1989/61, de 25 de maio de 1989 do Conselho Económico e Social das Nações Unidas."
+   }
+  },
+  {
+   "id": "TL-H184-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Oficiais de justiça e agentes de investigação criminal"
+   },
+   "text": {
+    "pt": "Aos oficiais de justiça dos Tribunais, do Ministério Publico e da Defensoria Pública, bem como aos agentes de investigação criminal são aplicáveis, com as devidas adaptações, as medidas prescritas para os magistrados judiciais, magistrados do Ministério Público e defensores públicos."
+   }
+  },
+  {
+   "id": "TL-H184-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Advogados e defensores públicos"
+   },
+   "text": {
+    "pt": "1.   Os advogados e defensores públicos pautam a sua conduta profissional por elevados padrões deontológicos e são possuidores de elevada qualificação jurídica, a serem plasmados em legislação própria e assentes em valores e princípios internacionalmente reconhecidos, nomeadamente os “Princípios Básicos Relativos à Função dos Advogados”, adotados pelo Oitavo Congresso das Nações Unidas para a Prevenção do Crime e o Tratamento dos Delinquentes, realizado em Havana, Cuba, de 27 de agosto a 7 de setembro de 1990.\n2.   As instituições competentes do Estado asseguram que são observados critérios compatíveis com o disposto no número anterior, relativamente ao acesso à profissão, bem como garantem, de forma direta ou indireta, formação inicial e desenvolvimento profissional contínuo de forma regular.\nSecção VI\nSetor privado"
+   }
+  },
+  {
+   "id": "TL-H184-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Participação do setor privado na formulação de políticas e"
+   },
+   "text": {
+    "pt": "estratégias de combate à corrupção O setor privado, nomeadamente através das suas associações representativas, participa na formulação das estratégias e políticas de luta contra a corrupção, na formulação ou revisão de procedimentos administrativos relativos à transparência da administração pública e em outras iniciativas pertinentes a cargo da entidade pública responsável pelas políticas de prevenção da corrupção."
+   }
+  },
+  {
+   "id": "TL-H184-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Medidas gerais para a prevenção da corrupção no setor privado"
+   },
+   "text": {
+    "pt": "1.  Na formulação e desenvolvimento de standards e procedimentos, em regime de autorregulação ou heterorregulação, com vista à salvaguarda da integridade das entidades do setor privado, devem incluir-se, designadamente, matérias pertinentes a códigos de conduta e códigos de governação empresarial, para o correto, digno e adequado desempenho das atividades económicas e o exercício das profissões correspondentes, para a prevenção de conflitos de interesses, e para a promoção de boas práticas comerciais nas relações entre as empresas, bem como nas relações contratuais destas com o Estado.\n2.  A violação das condutas impostas deve ser objeto de sanções previstas em estatutos de associações empresariais."
+   }
+  },
+  {
+   "id": "TL-H184-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Divulgação de informação sobre beneficiários efetivos"
+   },
+   "text": {
+    "pt": "1.   Para efeitos da presente lei são beneficiários efetivos os como tal definidos na lei que regula as sociedades comerciais, e as presunções nela feitas sobre propriedade ou controlo direto e indireto sobre uma sociedade comercial.\n2.   Além das entidades previstas na Lei das Sociedades Comerciais, a quem as sociedades comerciais estão obrigadas a prestar informação sobre os seus beneficiários efetivos, também podem requerer essa informação às sociedades comerciais, ficando estas obrigadas a fornecêlas no prazo de 10 dias:\na) O Ministério Público, no âmbito de um inquérito;\nb) As entidades encarregadas da verificação de declarações de rendimentos, bens e interesses;\nc) As entidades adjudicadoras de contratos públicos, no âmbito de diligência para verificação de potencial conflito de interesses.\n3.   O não fornecimento da informação no prazo previsto no n.º 2 é sancionado com coima de $500 dólares americanos.\n4.  Concedido novo prazo à sociedade comercial, que não pode exceder 10 dias, pelas entidades referidas nas alíneas a) e\nb) do n.º 2, e reincidindo em faltar ao seu cumprimento, incorre em crime de desobediência estando sujeita às penas, principal e acessórias, aplicáveis às pessoas coletivas, previstas na presente lei."
+   }
+  },
+  {
+   "id": "TL-H184-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Proibição de exercício de funções privadas"
+   },
+   "text": {
+    "pt": "1.   O antigo agente público, tal como agente público é definido na presente lei, está proibido, por um período de 2 anos após a cessação do exercício de cargo público, seja por fim de mandato, demissão, reforma ou qualquer outra forma, de emprego ou prestação de serviço a qualquer título no setor privado, sempre que o serviço a prestar ou o emprego esteja diretamente relacionado com as funções desempenhadas por ele ou sob a sua supervisão quando estava em funções.\n2.   A violação da proibição constitui infração punida com:\na) Coima de $500 a $5 000 dólares americanos a aplicar à entidade do setor privado;\nb) Coima de $200 a $2 000 dólares americanos a aplicar ao antigo agente público, sem prejuízo do procedimento criminal a que houver lugar."
+   }
+  },
+  {
+   "id": "TL-H184-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Denúncia de atos de corrupção e medidas de prevenção"
+   },
+   "text": {
+    "pt": "1.   O fiscal único e o conselho fiscal, coletivamente ou cada um dos seus membros separadamente, das sociedades comerciais, estão obrigados a:\na) Denunciar atos de corrupção que suspeitem ter ocorrido ou estar em vias de ocorrer;\nb) Propor medidas concretas de prevenção da corrupção, adequadas aos riscos identificados no curso da sua ação fiscalizadora, nomeadamente em sede do relatório anual que elaboram sobre a sua ação fiscalizadora, mandado realizar pela Lei das Sociedades Comerciais.\n2.   Quem violar o disposto na alínea a) do número anterior, incorre em crime de não participação.\nSecção VII\nParticipação da sociedade"
+   }
+  },
+  {
+   "id": "TL-H184-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Promover a participação do público nos processos decisórios"
+   },
+   "text": {
+    "pt": "1.    A formulação de estratégias de prevenção, designadamente a estratégia nacional de prevenção e combate à corrupção, a sua revisão ou reformulação contam com a participação de todos os setores representativos da sociedade civil organizada, compreendendo, entre outros, as organizações não governamentais, os sindicatos, os órgãos de comunicação social e as organizações religiosas.\n2.  O Estado deve igualmente garantir que as perspetivas e pontos de vista daqueles sem nenhuma forma de representação, particularmente os grupos mais marginalizados, estão também refletidos, através, designadamente, da realização de sondagens por habitação ou outro tipo de sondagem ou consulta."
+   }
+  },
+  {
+   "id": "TL-H184-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Informação e educação públicas"
+   },
+   "text": {
+    "pt": "1.  A Comissão Anti-Corrupção realiza campanhas de publicidade, que incluem panfletos e posters a exibir em todas as instituições públicas, o uso da internet, bem como spots publicitários nas rádios e televisões.\n2.  Todas as instituições públicas devem disponibilizar informação ao público, de fácil acesso, sobre a sua organização, funções e serviços que prestam, incluindo informação sobre como uma pessoa do público pode apresentar denúncia de alegados atos de corrupção, incluindo a denúncia anónima.\n3.   A Comissão Anti-Corrupção trabalha em conjunto com as instituições públicas para garantir que a informação sobre medidas contra a corrupção é disseminada nas entidades públicas, entre o público, organizações não governamentais e instituições de educação, de modo a promover um adequado trabalho de prevenção, bem como a integração da consciencialização contra a corrupção nos currículos das escolas e universidades."
+   }
+  },
+  {
+   "id": "TL-H184-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO I MEDIDAS  GERAIS  DE  PREVENÇÃO Secção  I Estratégia  nacional"
+   },
+   "heading": {
+    "pt": "Formação de jornalistas e jornalismo de investigação"
+   },
+   "text": {
+    "pt": "1.   A Comissão Anti-Corrupção promove, incentiva e realiza ações de formação de jornalistas para promover a competência e a independência do jornalismo e o seu papel como fonte competente e credível de informação e de educação do público sobre a corrupção e os esforços para o seu combate.\n2.   A formação visa igualmente o competente domínio e utilização do regime jurídico de acesso à informação por parte dos jornalistas, como modo de potencializar e viabilizar na prática o exercício da sua liberdade de procurar, receber, publicar e difundir informação justa e rigorosa sobre a corrupção."
+   }
+  },
+  {
+   "id": "TL-H184-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Finalidade"
+   },
+   "text": {
+    "pt": "Por este regime são estabelecidas as regras do sistema de declaração de rendimentos, bens e interesses, doravante designada simplesmente por “declaração”, de pessoas que exercem funções públicas, o qual tem a seguinte finalidade:\na)   Detetar e prevenir conflitos de interesses;\nb)  Monitorar a variação de riqueza para detetar aumentos significativos e injustificados no património das pessoas sujeitas à declaração.\nSecção II\nAutoridade competente"
+   }
+  },
+  {
+   "id": "TL-H184-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Autoridade competente"
+   },
+   "text": {
+    "pt": "1.  A autoridade competente para receber e verificar as declarações é a Comissão Anti-Corrupção, exceto quanto ao Presidente da República, aos Deputados ao Parlamento Nacional, aos Membros do Governo e aos agentes públicos da Comissão Anti-Corrupção, cuja declaração é recebida e verificada pelo Supremo Tribunal de Justiça.\n2.   Sem prejuízo das demais competências previstas na presente lei, compete ainda à autoridade competente:\na) Elaborar um guia com explicações sobre o preenchimento da declaração;\nb) Estabelecer um mecanismo de consulta por telefone ou por email, por meio do qual os declarantes podem esclarecer as suas dúvidas sobre o preenchimento da declaração e outras obrigações relacionadas com a mesma;\nc) A aplicação das sanções previstas na presente lei punidas com coimas.\n3.   A autoridade competente produz um relatório estatístico bienal que contém:\na) O número de pessoas obrigadas a declarar;\nb) O número de pessoas que não apresentaram a declaração dentro do prazo;\nc) O número de pessoas que foram sancionadas administrativa, disciplinar ou penalmente, indicando a violação e a sanção aplicada;\nd) O número de pessoas cuja verificação da declaração conduziu à adoção de medidas para prevenir ou pôr fim a uma situação de conflito de interesses.\nSecção  III\nDeclaração de rendimentos, bens e interesses"
+   }
+  },
+  {
+   "id": "TL-H184-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Pessoas obrigadas a declarar"
+   },
+   "text": {
+    "pt": "São obrigadas a declarar rendimentos, bens e interesses as pessoas, doravante designadas simplesmente por “declarantes”, que exercem as seguintes funções:\na) Presidente da República;\nb) Deputado ao Parlamento Nacional;\nc) Membro do Governo;\nd) Cargo eletivo do Poder Local;\ne) Magistrado Judicial; f) Magistrado do Ministério Público;\ng) Provedor de Direitos Humanos e Justiça e seus Adjuntos;\nh) Membro da Comissão Nacional de Eleições; (i) Defensor público; j) Embaixador, cônsul e responsável de finanças das representações diplomáticas;\nk) Reitores e decanos de universidades públicas; l) Dirigente máximo de órgão da administração indireta, autónoma e entidades administrativas independentes;\nm) Chefe da Casa Civil do Presidente da República;\nn) Secretário-geral e Secretário-geral adjunto do Parlamento Nacional;\no) Comissário da Comissão Anti-Corrupção e os seus Adjuntos;\np) Chefe de gabinete de membro do Governo;\nq) Administrador municipal e presidente de autoridade municipal; r) Presidente e secretários da Autoridade da Região Administrativa Especial de Oe-Cusse Ambeno;\ns) Diretor-Geral, diretor e chefe de departamento da Administração Pública direta, indireta e autónoma, incluindo os serviços da Presidência da República, do Parlamento e dos Tribunais, bem como das entidades administrativas independentes; t) Diretor-Geral, diretor e chefe de departamento da administração das autarquias locais;\nu) Dirigente e funcionário afeto a serviço de aprovisionamento e contratação pública;\nv) Dirigente e funcionário afeto a serviço de liquidação e cobrança de impostos;\nw) Dirigente e funcionário afeto a serviço de liquidação e cobrança de direitos aduaneiros;\nx) Dirigente e funcionário afeto a serviço de gestão de terras, propriedade imobiliária e demais património do Estado e das autarquias locais;\ny) Dirigente e funcionário afeto a serviço de inspeção, supervisão e auditoria;\nz) Oficial de justiça dos Tribunais, do Ministério Público e da Defensoria Pública; (aa)    Membro das polícias de investigação criminal e dos Serviços de Migração; (bb)    Assessor no gabinete de membro do Governo."
+   }
+  },
+  {
+   "id": "TL-H184-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Membros do agregado familiar do declarante"
+   },
+   "text": {
+    "pt": "1.   Na sua declaração, o declarante fornece informação sobre rendimentos, bens e interesses, obrigações e despesas de membros do seu agregado familiar.\n2.   Consideram-se membros do agregado familiar do declarante o cônjuge ou pessoa com quem viva maritalmente, filhos menores ou economicamente dependentes dele e pessoa sob a sua dependência económica."
+   }
+  },
+  {
+   "id": "TL-H184-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Declaração ad hoc"
+   },
+   "text": {
+    "pt": "A autoridade competente pode exigir a qualquer outra pessoa que exerça função ou cargo público, fora da lista das pessoas obrigadas a declarar, a apresentação de uma declaração ad hoc."
+   }
+  },
+  {
+   "id": "TL-H184-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Periodicidade da declaração"
+   },
+   "text": {
+    "pt": "1.  Os declarantes devem apresentar a declaração nas seguintes ocasiões:\na) Declaração inicial, até 30 dias após a tomada de posse do cargo ou início de funções e contém informação sobre bens e interesses existentes à data da posse do cargo ou início de funções;\nb) Declaração anual, até 31 de janeiro do ano subsequente e cobre o período correspondente ao ano civil (de 1 de janeiro a 31 de dezembro);\nc) Declaração final, até 30 dias após a cessação do exercício do cargo ou das funções e cobre o período de 1 de janeiro até à data da cessação do exercício do cargo ou das funções;\nd) Declaração pós-exercício, anualmente, nos três anos seguintes à cessação do exercício do cargo ou das funções e cobrindo cada ano um período de 12 meses, contados do dia e mês em que se deu a cessação do exercício do cargo ou das funções.\n2.   A declaração pode ser apresentada a qualquer tempo, por iniciativa do declarante, sempre que ocorrer substancial alteração dos seus bens e interesses.\n3.  A primeira declaração anual contém informação sobre rendimentos, bens e interesses existentes entre a data da posse do cargo ou início de funções e 31 de dezembro do mesmo ano.\n4.   O declarante mencionado nas alíneas u), v), w), x), y), z) e aa), do artigo 29.º, em lugar da declaração anual presta declaração de 3 em 3 anos."
+   }
+  },
+  {
+   "id": "TL-H184-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Obrigação de depósito bancário"
+   },
+   "text": {
+    "pt": "1.  Quando da apresentação da declaração por ocasião da tomada de posse do cargo ou início de funções, o declarante está obrigado a depositar em conta bancária dinheiro na sua posse, em qualquer moeda, acima de $1 000 dólares americanos, sob pena de a posse de quaisquer montantes em dinheiro acima deste limite não poder vir a ser usada para justificar o financiamento de despesas.\n2.    A posse de dinheiro, em qualquer moeda, acima de $25 000 dólares americanos dá lugar à obrigação de explicar a sua origem."
+   }
+  },
+  {
+   "id": "TL-H184-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Conteúdo da declaração"
+   },
+   "text": {
+    "pt": "1.     A declaração, apresentada perante a autoridade competente, deve conter informação que se discrimina no número seguinte, sobre os interesses, rendimentos, bens, obrigações e despesas do declarante e do seu agregado familiar, no país e no estrangeiro.\n2.   A declaração contém a seguinte informação:\na) Informação pessoal completa do declarante, com indicação do seu documento de identidade, número de contribuinte fiscal, estado civil, cargo ou função que desempenha, a entidade na qual exerce o cargo ou função;\nb) Informação completa das pessoas que fazem parte do seu agregado familiar, com indicação do seu documento de identidade, o número de contribuinte fiscal, se for o caso, o estado civil, a sua atividade profissional e a entidade onde exerce funções;\nc) Rendimentos provenientes de salário e remuneração acessória, honorários, pensões, rendas, lucros e outros ganhos de negócios, juros, compensações pagas por seguradoras, receitas de vendas, empréstimos contraídos, ganhos provenientes de jogos de azar e fortuna, e heranças;\nd) Bens imóveis, ainda que em copropriedade, e quaisquer melhoramentos significativos efetuados nos imóveis, bem como a indicação da direção, localidade, identificação de registo de imóveis, percentagem de participação, data de aquisição, valor pago na data de aquisição, e a origem dos fundos para as aquisições subsequentes ao início do exercício do cargo ou função;\ne) Veículos terrestres, barcos e aeronaves, ainda que em copropriedade, com a indicação da marca, modelo, ano de fabrico e número de identificação; data do registo, data da aquisição e o valor pago na data de aquisição, e a origem dos fundos usados nas aquisições subsequentes ao início do exercício do cargo ou função; f) Objetos preciosos de valor acima de $1 500 dólares americanos, com a indicação da data de aquisição, valor pago pela aquisição e origem dos fundos usados nas aquisições subsequentes ao início do exercício do cargo ou da função;\ng) Investimentos de capital em ações, títulos de dívida pública e outros instrumentos financeiros, comercializados dentro ou fora do país, com a indicação do tipo de investimento, valor, número de registo, data de emissão, emissor e quantidade, determinada ou determinável; a data da aquisição, o valor pago nessa data e a origem dos fundos usados em cada aquisição subsequente ao início do exercício do cargo ou função;\nh) Sociedades comerciais nas quais tenha participação ou tenha tido participação nos três anos que antecedam o início do exercício do cargo ou da função, constituídas dentro ou fora do país, com a indicação do nome, objeto social, número de identificação fiscal da companhia, percentagem e natureza da participação e indicação de interposta pessoa, singular ou coletiva, através da qual a participação é detida, se for o caso; indicação da data de aquisição de cada participação, o valor pago na data e a origem dos fundos usados em cada aquisição subsequente ao início do exercício do cargo ou função; (i) Saldo em contas correntes, contas de depósito e outros produtos financeiros em bancos, nacionais ou estrangeiros, bem como quantias em dinheiro, quer em moeda local ou estrangeira, e moeda virtual; indicandose o banco ou a instituição financeira em causa; j) Valores mobiliários, incluindo ações e outros instrumentos financeiros, detidos em nome de interposta pessoa, no todo ou em parte, para benefício do declarante, com indicação da data de aquisição, valor na data de aquisição, o valor atual e rendas ou pagamentos feitos ao declarante e provenientes dos bens;\nk) Dívidas e outras obrigações financeiras, com a indicação do credor e do montante em dívida; l) Identificação e breve descrição de prendas, incluindo viagens e outras atividades de lazer ou entretenimento, acima de $250 dólares americanos, com indicação do doador e do valor aproximado, exceto as recebidas por causa de atos e cerimónias culturais tradicionais;\nm) Viagens ao estrangeiro e outras despesas luxuosas, incluindo propinas escolares e despesas de estadia para fins de estudo, acima de $2 500 dólares americanos;\nn) Órgãos de direção executiva, conselhos de administração, órgãos de fiscalização ou de consulta ou qualquer órgão colegial de uma sociedade comercial, remunerado ou não, de que faça parte ou tenha feito parte nos três anos que antecedam o início do exercício do cargo ou da função;\no) Organizações privadas, incluindo partidos políticos, associações políticas, associações e outras organizações sem fins lucrativos de que faça parte ou tenha feito parte nos três anos que antecedam o início do exercício do cargo ou da função;\np) Declaração expressa de que a informação prestada é verdadeira e precisa;\nq) Declaração expressa de que nenhum rendimento, bem ou interesse relevante foi omitido.\n3.   O declarante é obrigado a conservar toda a documentação relacionada com transações declaradas, para eventual satisfação de pedido de informação adicional pela autoridade competente em sede de verificação."
+   }
+  },
+  {
+   "id": "TL-H184-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Declaração do agregado familiar"
+   },
+   "text": {
+    "pt": "1.   A informação prestada ao abrigo das alíneas c) a m) do n.º 2 do artigo anterior deve incluir informação relativa a membros do agregado familiar do declarante.\n2.   Em caso de recusa de prestação de informação ao declarante por parte de membro do agregado familiar, a qual constitui uma infração nos termos da presente lei, o declarante deve indicar tal facto no respetivo campo do formulário."
+   }
+  },
+  {
+   "id": "TL-H184-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Moeda"
+   },
+   "text": {
+    "pt": "1.   Todos os valores devem ser indicados em moeda corrente do país.\n2.   Valores em moeda estrangeira devem ser convertidos em moeda corrente do país à taxa de câmbio do Banco Central de Timor-Leste.\n3.  Para as moedas digitais a conversão pode ser feita por referência a uma das plataformas de internet reconhecidas."
+   }
+  },
+  {
+   "id": "TL-H184-A37",
+   "no": 37,
+   "noLabel": {
+    "pt": "Artigo 37.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Formulário"
+   },
+   "text": {
+    "pt": "1.   A autoridade competente define o formulário de declaração com base no disposto na presente lei, que revê sempre que entender necessário.\n2.   A autoridade competente pode rever os valores mínimos mencionados no artigo que trata do conteúdo da declaração, para refletir mudanças de valores causadas pela inflação ou outros fatores."
+   }
+  },
+  {
+   "id": "TL-H184-A38",
+   "no": 38,
+   "noLabel": {
+    "pt": "Artigo 38.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Apresentação"
+   },
+   "text": {
+    "pt": "1.   A declaração é preenchida online em formulário eletrónico disponibilizado pela autoridade competente no seu sítio da internet, a qual deve também garantir uma identificação eletrónica segura do declarante.\n2.   A autoridade competente deve acusar a receção da declaração, por email enviado ao declarante ou qualquer outra forma que permita a este ter prova da sua receção pela autoridade competente.\n3.   Em caso de manifesta impossibilidade de preenchimento do formulário eletrónico da declaração no sítio da internet, o mesmo pode ser apresentado em papel, devidamente assinado e entregue à autoridade competente, e de cuja receção esta passa um recibo."
+   }
+  },
+  {
+   "id": "TL-H184-A39",
+   "no": 39,
+   "noLabel": {
+    "pt": "Artigo 39.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Autocorreção"
+   },
+   "text": {
+    "pt": "O declarante que detete ter apresentado uma declaração incorreta, pode, no prazo de 30 dias, a contar do termo do prazo de apresentação da declaração, apresentar uma versão corrigida, juntamente com uma explicação sobre a declaração incorreta. Ambas as declarações são guardadas.\nSecção IV\nVerificação do cumprimento da obrigação de declarar"
+   }
+  },
+  {
+   "id": "TL-H184-A40",
+   "no": 40,
+   "noLabel": {
+    "pt": "Artigo 40.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Arrolamento dos declarantes"
+   },
+   "text": {
+    "pt": "1.  O serviço no qual o declarante exerce o cargo ou função remete a lista dos declarantes à autoridade competente até 31 de julho de cada ano, bem como remete à autoridade competente a lista de novos declarantes dentro dos sete dias subsequentes à assunção do cargo ou início de funções.\n2.  A autoridade competente efetua até 30 de setembro o arrolamento anual de todos os declarantes, o qual inclui os declarantes que assumiram e os que cessaram o exercício do cargo no decurso do ano, identificados pelo número do bilhete de identidade nacional, assim como os membros dos seus respetivos agregados familiares.\n3.  O rol de declarantes é mantido numa base de dados, de modo a permitir a pesquisa de informação, bem como a sua atualização, por via de aditamento ou supressão de pessoas, cargos, funções e pessoas do agregado familiar, entre outras informações."
+   }
+  },
+  {
+   "id": "TL-H184-A41",
+   "no": 41,
+   "noLabel": {
+    "pt": "Artigo 41.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Verificação formal"
+   },
+   "text": {
+    "pt": "1.    Recebida a declaração, a autoridade competente verifica se o formulário de declaração está completo e corretamente preenchido.\n2.    Identificado algum erro formal, que consiste numa omissão ou numa incorreção, a autoridade competente notifica o declarante para efetuar a correção no prazo de 15 dias.\n3.    Decorrido o prazo sem que o declarante proceda à correção, sujeita-se à sanção disciplinar a que houver lugar, para cujo efeito a autoridade competente notifica o serviço onde o declarante exerce funções e à Comissão da Função Pública, e às sanções previstas na presente lei.\nSecção V\nVerificação da declaração"
+   }
+  },
+  {
+   "id": "TL-H184-A42",
+   "no": 42,
+   "noLabel": {
+    "pt": "Artigo 42.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Finalidade da verificação"
+   },
+   "text": {
+    "pt": "A verificação da informação apresentada na declaração tem por fim determinar se ocorreram significantes e injustificados aumentos dos bens do declarante ou dos membros do seu agregado familiar, bem como a existência de conflitos de interesses."
+   }
+  },
+  {
+   "id": "TL-H184-A43",
+   "no": 43,
+   "noLabel": {
+    "pt": "Artigo 43.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Obrigatoriedade da verificação"
+   },
+   "text": {
+    "pt": "A verificação pela autoridade competente é obrigatória, abrange todas as declarações e é realizada de dois em dois anos."
+   }
+  },
+  {
+   "id": "TL-H184-A44",
+   "no": 44,
+   "noLabel": {
+    "pt": "Artigo 44.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Âmbito da verificação"
+   },
+   "text": {
+    "pt": "1.    A verificação consiste numa auditoria com vista a determinar, em relação ao património:\na) A veracidade da informação prestada pelo declarante, isto é, se é correta e completa;\nb) A origem dos bens incorporados ao património do declarante e dos membros do seu agregado familiar no período analisado na verificação;\nc) Se a variação no património do declarante ou dos membros do seu agregado familiar em relação à declaração mais recente é consistente com os seus rendimentos legítimos.\n2.   A verificação pode incluir a investigação de bens não declarados quando a autoridade competente tiver razões suficientes para acreditar que os mesmos estão sob o controlo do declarante ou pessoa do seu agregado familiar, seus proprietários de facto, caso em que a mesma pode incidir sobre a origem dos fundos usados na aquisição desses bens.\n3.   Em relação a conflitos de interesses, a verificação tem como propósito determinar se os interesses declarados são compatíveis com o exercício do seu cargo ou função, de acordo com as normas que regem os conflitos de interesses, as incompatibilidades e os impedimentos."
+   }
+  },
+  {
+   "id": "TL-H184-A45",
+   "no": 45,
+   "noLabel": {
+    "pt": "Artigo 45.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Pedido de informação adicional ao declarante"
+   },
+   "text": {
+    "pt": "1.   A autoridade competente pode pedir ao declarante, por ofício, informação adicional para fins da verificação.\n2.   A informação deve ser prestada no prazo de 15 dias, sob pena das sanções fixadas na presente lei."
+   }
+  },
+  {
+   "id": "TL-H184-A46",
+   "no": 46,
+   "noLabel": {
+    "pt": "Artigo 46.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Poder de requisitar e obter informação"
+   },
+   "text": {
+    "pt": "1.    A autoridade competente pode requisitar a informação que julgar necessária a qualquer entidade pública nacional, pessoa singular ou coletiva privada com quem o declarante ou membro do seu agregado familiar realizou transações ou que estão na posse de informação sobre transações sujeitas a declaração e aos membros do agregado familiar do declarante, os quais estão obrigados a prestar a informação no prazo fixado pela autoridade competente, não inferior a 10 dias úteis, sob pena das sanções fixadas na presente lei.\n2.   À autoridade competente é assegurado o acesso:\na) Às bases de dados, para fins de cruzamento de informação, nomeadamente as do registo civil, do registo de veículos, barcos e aeronaves, do registo de sociedades comerciais e sociedades civis, do registo de propriedades, e sendo o caso através do fornecimento de acesso online;\nb) À informação dos casinos e outros lugares de jogos sobre vencedores de prémios e os respetivos montantes;\nc) À informação dos bancos e outras instituições financeiras sobre, nomeadamente, contas bancárias correntes, contas a prazo e transações bancárias, saldos de contas e extratos de movimentos de contas.\n3.    A  Unidade de Informação Financeira comunica à autoridade competente quaisquer transações financeiras suspeitas relacionadas com um declarante.\n4.    A  autoridade competente pode igualmente obter informação no estrangeiro por via de acesso a bases de dados de acesso livre ou por via de cooperação com autoridades estrangeiras.\n5.    A autoridade competente pode recorrer à cooperação internacional com o fim de obter informação de bancos, pessoas coletivas e governos estrangeiros se os bens estiverem fora do país."
+   }
+  },
+  {
+   "id": "TL-H184-A47",
+   "no": 47,
+   "noLabel": {
+    "pt": "Artigo 47.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Resultado da verificação"
+   },
+   "text": {
+    "pt": "1.    A  autoridade competente pode notificar o declarante para o fim de este fornecer a justificação que tiver por conveniente e apresentar provas, que tiver por necessárias, que consubstanciem essa justificação, quando da verificação resultar indicação suficiente para:\na) Levantar dúvidas sobre a legitimidade da origem do acréscimo de bens, ou seja, um desequilíbrio entre despesas realizadas e os rendimentos lícitos conhecidos; ou\nb) Suspeitar que houve uma falsa declaração, porque o valor declarado está óbvia e flagrantemente desconforme com a realidade; ou\nc) Presumir que existem bens não declarados sob o controlo do declarante ou pessoa do seu agregado familiar, seus proprietários de facto.\n2.    A autoridade competente aprecia a justificação apresentada pelo declarante e, não se dando por satisfeita com a mesma ou se o declarante optar por não oferecer justificação, inicia o procedimento criminal, administrativo e disciplinar a que houver lugar.\n3.    Quando a verificação da declaração fornecer indicações de um potencial ou real conflito de interesses, ou uma potencial ou real violação de normas sobre incompatibilidades, impedimentos ou quaisquer outros deveres ou obrigações estabelecidos para o desempenho de cargo ou função públicos, a autoridade competente notifica o declarante e a entidade onde exerce a função ou o cargo, dando a conhecer a sua opinião e as medidas a serem tomadas de acordo com as normas aplicáveis com vista a prevenir um potencial conflito de interesses ou a pôr fim a um real conflito de interesses.\nSecção VI\nInfrações e sanções Subsecção I Sanções por infrações cometidas pelos declarantes"
+   }
+  },
+  {
+   "id": "TL-H184-A48",
+   "no": 48,
+   "noLabel": {
+    "pt": "Artigo 48.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Apresentação tardia"
+   },
+   "text": {
+    "pt": "O declarante que apresentar a declaração fora do prazo é sancionado com uma coima correspondente a 25% do valor do seu salário base mensal."
+   }
+  },
+  {
+   "id": "TL-H184-A49",
+   "no": 49,
+   "noLabel": {
+    "pt": "Artigo 49.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Falta de apresentação após notificação"
+   },
+   "text": {
+    "pt": "O declarante que não tiver apresentado a declaração e notificado pela autoridade competente a não apresentar no prazo de 3 meses, é punido com coima correspondente a 30% do seu salário base mensal, por cada mês subsequente ao termo do prazo e até à apresentação da declaração."
+   }
+  },
+  {
+   "id": "TL-H184-A50",
+   "no": 50,
+   "noLabel": {
+    "pt": "Artigo 50.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Recusa por parte de membro do agregado familiar"
+   },
+   "text": {
+    "pt": "O membro do agregado familiar que não tiver prestado as informações necessárias ao preenchimento da declaração por parte do declarante, notificado pela autoridade competente para o fazer não prestar a informação requerida, no prazo fixado pela mesma, incorre em crime de desobediência previsto e punido no Código Penal."
+   }
+  },
+  {
+   "id": "TL-H184-A51",
+   "no": 51,
+   "noLabel": {
+    "pt": "Artigo 51.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Declaração incompleta"
+   },
+   "text": {
+    "pt": "1.  O declarante que não prestar informação requerida no formulário de declaração é sancionado com coima correspondente a 25% do seu salário base mensal e notificado para completar o seu preenchimento, no prazo que for fixado pela autoridade competente.\n2.   Se não completar o preenchimento da declaração no prazo fixado, incorre no crime de desobediência qualificada previsto e punido no Código Penal."
+   }
+  },
+  {
+   "id": "TL-H184-A52",
+   "no": 52,
+   "noLabel": {
+    "pt": "Artigo 52.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Omissão de informação"
+   },
+   "text": {
+    "pt": "1.  O declarante que omitir interesses, rendimentos, bens, obrigações ou despesas sujeitos a declaração é punido com coima correspondente a 50% do valor omitido.\n2.   Se a omissão se referir a um interesse não quantificável, o declarante é punido com uma coima de $1 500 dólares americanos."
+   }
+  },
+  {
+   "id": "TL-H184-A53",
+   "no": 53,
+   "noLabel": {
+    "pt": "Artigo 53.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Informação falsa"
+   },
+   "text": {
+    "pt": "1.   O declarante que prestar informação falsa na declaração e a falsidade for por ele próprio revelada, é punido com coima no valor correspondente ao seu salário base mensal.\n2.   Se a descoberta da falsidade não se dever a revelação feita pelo declarante, este é punido com pena de prisão até 3 anos ou multa.\nSubsecção II\nSanções por infrações cometidas por não declarantes"
+   }
+  },
+  {
+   "id": "TL-H184-A54",
+   "no": 54,
+   "noLabel": {
+    "pt": "Artigo 54.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Obstrução à verificação"
+   },
+   "text": {
+    "pt": "1.   Quem obstruir ou retardar a verificação por se negar a prestar a colaboração devida à autoridade competente, é punido com pena de prisão até 3 anos ou multa.\n2.   Se o agente for agente público a pena é elevada de um terço no seu limite máximo.\n3.  Se o agente for titular de cargo político ou magistrado a pena é elevada de metade no seu limite máximo.\n4.   No caso de agente público, a pena aplicada não prejudica o procedimento disciplinar a que a conduta der lugar."
+   }
+  },
+  {
+   "id": "TL-H184-A55",
+   "no": 55,
+   "noLabel": {
+    "pt": "Artigo 55.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Incumprimento de obrigação por agente da autoridade competente"
+   },
+   "text": {
+    "pt": "O agente público da autoridade competente que não cumprir uma obrigação, retardar ou impedir diligência ou procedimento de verificação, é punido com pena de prisão de 2 a 5 anos ou multa, sem prejuízo do processo disciplinar a que a conduta der lugar."
+   }
+  },
+  {
+   "id": "TL-H184-A56",
+   "no": 56,
+   "noLabel": {
+    "pt": "Artigo 56.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Divulgação de informação"
+   },
+   "text": {
+    "pt": "1.   O agente público da autoridade competente que intencionalmente ou por negligência der a conhecer a alguém ou divulgar publicamente informação contida numa declaração, é punido com:\na) Pena de prisão de 2 a 5 anos ou multa, se tiver agido intencionalmente;\nb) Pena de prisão até 2 anos ou multa, se tiver agido com negligência.\n2.    Em nenhum caso fica prejudicado o procedimento disciplinar a que a conduta der lugar.\nSecção VII\nGuarda e conservação"
+   }
+  },
+  {
+   "id": "TL-H184-A57",
+   "no": 57,
+   "noLabel": {
+    "pt": "Artigo 57.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Prazo de conservação"
+   },
+   "text": {
+    "pt": "1.    As declarações devem ser conservadas por um período de cinco anos após a cessação do exercício de funções do respetivo declarante.\n2.   Se o declarante ou alguém do seu agregado familiar estiver a ser investigado por crime de corrupção ou outro crime contra a administração pública, a declaração deve ser conservada, mesmo que tenha sido excedido o prazo do número anterior, até que o inquérito ou o processo penal estejam concluídos.\n3.   Findo o prazo de conservação as declarações são destruídas, salvo se lhes for atribuído valor arquivístico, nos termos da legislação própria."
+   }
+  },
+  {
+   "id": "TL-H184-A58",
+   "no": 58,
+   "noLabel": {
+    "pt": "Artigo 58.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II MEDIDAS  PREVENTIVAS  DE  COMBATE  À CORRUPÇÃO / CAPÍTULO II DO  REGIME  DE  DECLARAÇÃO  DE  RENDIMENTOS, BENS  E  INTERESSES Secção I Finalidade"
+   },
+   "heading": {
+    "pt": "Responsabilidade pela guarda e conservação"
+   },
+   "text": {
+    "pt": "A guarda e conservação das declarações competem à autoridade competente, que deve zelar pelas boas condições de arquivamento e segurança das declarações."
+   }
+  },
+  {
+   "id": "TL-H184-A59",
+   "no": 59,
+   "noLabel": {
+    "pt": "Artigo 59.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Definição de agente público"
+   },
+   "text": {
+    "pt": "Para efeitos do disposto no presente Título, a expressão agente público abrange:\na) O Presidente da República;\nb) Os deputados ao Parlamento Nacional;\nc) O membro do Governo;\nd) O magistrado judicial e o magistrado do Ministério Público;\ne) O defensor público; f) O detentor de cargo eletivo do Poder Local;\ng) O funcionário público civil;\nh) O agente da Administração Pública; (i) O membro das forças armadas e policiais; j) O funcionário de organização internacional pública a quem tal organização tenha autorizado a atuar em seu nome;\nk) Quem, mesmo provisória ou temporariamente, mediante remuneração ou a título gratuito, voluntária ou obrigatoriamente tenha sido chamado a desempenhar ou a participar no desempenho de uma atividade compreendida na função pública administrativa ou jurisdicional, ou, nas mesmas circunstâncias, desempenhe funções em organismos de utilidade pública ou nelas participar; l) O gestor, o titular de órgão de fiscalização e os trabalhadores das empresas públicas, das empresas de capital maioritariamente público e de outras pessoas coletivas públicas;\nm) O agente público estrangeiro que ocupe um cargo legislativo, executivo, administrativo ou judicial de um país estrangeiro, já designado ou empossado ou pessoa que exerça uma função pública para um país estrangeiro, inclusive em um organismo público ou uma empresa pública."
+   }
+  },
+  {
+   "id": "TL-H184-A60",
+   "no": 60,
+   "noLabel": {
+    "pt": "Artigo 60.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Responsabilidade das pessoas coletivas"
+   },
+   "text": {
+    "pt": "1.   As sociedades e as pessoas coletivas de direito privado são responsáveis pelas infrações criminais cometidas pelos seus órgãos ou representantes, em seu nome e na prossecução de interesses da respetiva coletividade, salvo se o agente tiver atuado contra as ordens ou instruções do representado.\n2.    As pessoas referidas no número anterior respondem pelos crimes de corrupção ativa de agente público, corrupção ativa no setor privado, tráfico de influência, suborno, obstrução à produção de prova, obstrução à atividade de magistrado ou funcionário, fraude na construção, obstrução ou afastamento de concorrente de aprovisionamento ou venda pública, previstos na presente lei, bem como pelo crime de branqueamento de capitais.\n3.  Tratando-se de entidade sem personalidade jurídica, responde pelo cumprimento da sanção pecuniária o património comum, e, na sua falta ou insuûciência, o património de cada um dos associados.\n4.  A responsabilidade das entidades referidas no n.º 1 não exclui a responsabilidade individual dos respetivos agentes."
+   }
+  },
+  {
+   "id": "TL-H184-A61",
+   "no": 61,
+   "noLabel": {
+    "pt": "Artigo 61.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Atuação em nome de outrem"
+   },
+   "text": {
+    "pt": "É punível quem atua enquanto titular de órgão de uma pessoa coletiva ou mera associação de facto, ou como representante de outrem, ainda que não concorram nele, mas sim, na pessoa em nome da qual atua, as condições, as qualidades ou as relações requeridas pelo tipo para se aûrmar a autoria da infração."
+   }
+  },
+  {
+   "id": "TL-H184-A62",
+   "no": 62,
+   "noLabel": {
+    "pt": "Artigo 62.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Comparticipação criminosa"
+   },
+   "text": {
+    "pt": "Aplicam-se aos crimes previstos na presente lei as regras de comparticipação criminosa constantes do Código Penal, considerando-se, para o efeito, que a qualidade de agente constitui qualidade ou relação especial de que depende a ilicitude ou o grau de ilicitude do facto."
+   }
+  },
+  {
+   "id": "TL-H184-A63",
+   "no": 63,
+   "noLabel": {
+    "pt": "Artigo 63.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Especialidade"
+   },
+   "text": {
+    "pt": "As normas constantes da presente lei prevalecem sobre as normas do Código Penal ou de outras leis penais."
+   }
+  },
+  {
+   "id": "TL-H184-A64",
+   "no": 64,
+   "noLabel": {
+    "pt": "Artigo 64.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Tentativa e desistência"
+   },
+   "text": {
+    "pt": "1.  Nos crimes previstos na presente lei a tentativa é sempre punível, independentemente da pena prevista para o crime consumado.\n2.   Aplicam-se aos crimes previstos na presente lei as regras sobre desistência previstas no Código Penal."
+   }
+  },
+  {
+   "id": "TL-H184-A65",
+   "no": 65,
+   "noLabel": {
+    "pt": "Artigo 65.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Efeitos da condenação"
+   },
+   "text": {
+    "pt": "1.  Os efeitos da condenação aplicáveis ao Presidente da República condenado definitivamente por crime previsto na presente lei, são os fixados no n.º 5 do artigo 79.º da Constituição da República, observado o que neste artigo se dispõe quanto à iniciativa do processo.\n2.  A condenação definitiva do Presidente do Parlamento Nacional, do Deputado ao Parlamento Nacional ou de membro ou titular de órgão eletivo do Poder Local por crime previsto na presente lei punível com prisão cujo limite máximo seja superior a cinco anos, cometido no exercício das respetivas funções, implica a perda do correspondente mandato, a impossibilidade de reeleição e a proibição de ocupar ou exercer cargos públicos por um período de 5 a 10 anos.\n3.  A condenação definitiva do Primeiro-Ministro ou de qualquer outro membro do Governo, por crime previsto na presente lei punível com prisão cujo limite máximo seja superior a cinco anos, cometido no exercício das respetivas funções, implica a proibição de ocupar ou exercer cargos públicos por um período de 5 a 10 anos."
+   }
+  },
+  {
+   "id": "TL-H184-A66",
+   "no": 66,
+   "noLabel": {
+    "pt": "Artigo 66.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Proibição temporária de exercício de cargos públicos"
+   },
+   "text": {
+    "pt": "O agente definitivamente condenado por crime previsto na presente lei punível com prisão cujo limite máximo seja superior a cinco anos é proibido de ocupar ou exercer cargos públicos por um período de 5 a 10 anos."
+   }
+  },
+  {
+   "id": "TL-H184-A67",
+   "no": 67,
+   "noLabel": {
+    "pt": "Artigo 67.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Fixação de proibição temporária de ocupar ou exercer cargos públicos"
+   },
+   "text": {
+    "pt": "Na fixação do período de proibição temporária de ocupar ou exercer cargos públicos, incluindo cargos políticos, o tribunal atenta especialmente a gravidade do facto punível em que funda a condenação do agente, as circunstâncias que acompanham a prática do crime, a conduta anterior e a projeção do facto na idoneidade cívica ou política do agente e o seu grau de culpa."
+   }
+  },
+  {
+   "id": "TL-H184-A68",
+   "no": 68,
+   "noLabel": {
+    "pt": "Artigo 68.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Procedimento de aplicação dos efeitos da condenação"
+   },
+   "text": {
+    "pt": "1.   Logo que a decisão que condene o agente pela prática de crime previsto na presente lei a que corresponda pena de prisão cujo limite máximo seja superior a cinco anos transitar em julgado, o Ministério Público requer ao tribunal que tenha proferido aquela decisão que, em processo autónomo e com observância do princípio da audiência e das garantias de defesa, decrete a perda do mandato do agente ou a proibição de o mesmo ocupar ou exercer cargos públicos, nos termos estabelecidos na presente lei.\n2.   O requerimento referido no n.º 1 é instruído com certidão da decisão condenatória e com a certidão do trânsito em julgado da mesma."
+   }
+  },
+  {
+   "id": "TL-H184-A69",
+   "no": 69,
+   "noLabel": {
+    "pt": "Artigo 69.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Prescrição do procedimento criminal"
+   },
+   "text": {
+    "pt": "1.    Os prazos de prescrição do procedimento criminal previsto no Código Penal são acrescidos em um terço para os crimes previstos na presente lei.\n2.   O prazo é de 10 anos quando o agente do crime for uma pessoa coletiva."
+   }
+  },
+  {
+   "id": "TL-H184-A70",
+   "no": 70,
+   "noLabel": {
+    "pt": "Artigo 70.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Prescrição das penas"
+   },
+   "text": {
+    "pt": "1.   Os prazos de prescrição das penas previstos no Código Penal são acrescidos em um terço para os crimes previstos na presente lei.\n2.  O prazo é de 10 anos quando o agente do crime for uma pessoa coletiva."
+   }
+  },
+  {
+   "id": "TL-H184-A71",
+   "no": 71,
+   "noLabel": {
+    "pt": "Artigo 71.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Pena aplicável às pessoas coletivas"
+   },
+   "text": {
+    "pt": "1.    Pelos crimes por que respondem as sociedades e as pessoas coletivas de direito privado, nos termos da presente lei, são estas punidas com pena de multa.\n2.    A pena de multa é fixada em dias, entre um mínimo de 50 dias e um máximo de 100 dias.\n3.    A cada dia de multa corresponde uma quantia entre $1 000 e $10 000 dólares americanos."
+   }
+  },
+  {
+   "id": "TL-H184-A72",
+   "no": 72,
+   "noLabel": {
+    "pt": "Artigo 72.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Penas acessórias aplicáveis às pessoas coletivas"
+   },
+   "text": {
+    "pt": "1.   São aplicáveis às pessoas coletivas as seguintes penas acessórias:\na) Proibição de exercício de certas atividades por um período de 6 meses a 3 anos;\nb) Proibição de contratar com a Administração Pública por um período de 1 a 3 anos;\nc) Privação do direito a subsídios, subvenções ou apoios públicos, por um período de 1 a 5 anos;\nd) Publicidade da decisão condenatória, a suas expensas, nas duas línguas oficiais, num dos jornais de maior circulação no país.\n2.   As penas acessórias podem ser aplicadas cumulativamente."
+   }
+  },
+  {
+   "id": "TL-H184-A73",
+   "no": 73,
+   "noLabel": {
+    "pt": "Artigo 73.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Circunstâncias de atenuação extraordinária"
+   },
+   "text": {
+    "pt": "Sem prejuízo daquelas previstas no Código Penal, são circunstâncias de atenuação extraordinária as informações úteis que o autor do crime prestar às autoridades judiciais que permitam:\na)   Prevenir ou limitar os efeitos do crime;\nb)   Identificar, perseguir ou acusar outros agentes do crime;\nc)   Impedir a prática de outros crimes de corrupção;\nd)   Privar os autores do crime do produto do crime ou recuperar esse produto."
+   }
+  },
+  {
+   "id": "TL-H184-A74",
+   "no": 74,
+   "noLabel": {
+    "pt": "Artigo 74.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Grau de atenuação extraordinária"
+   },
+   "text": {
+    "pt": "Sempre que houver lugar à atenuação extraordinária da pena, observa-se, relativamente aos limites da pena aplicável, o disposto no Código Penal."
+   }
+  },
+  {
+   "id": "TL-H184-A75",
+   "no": 75,
+   "noLabel": {
+    "pt": "Artigo 75.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Agravação"
+   },
+   "text": {
+    "pt": "1.    Se a vantagem referida nos tipos que definem os crimes de corrupção passiva e de corrupção ativa for de valor elevado, o agente é punido com a pena aplicável ao crime respetivo agravada em um quarto nos seus limites mínimo e máximo.\n2.    Se a vantagem referida nos tipos que definem os crimes de corrupção passiva e de corrupção ativa for de valor consideravelmente elevado, o agente é punido com a pena aplicável ao crime respetivo agravada em um terço nos seus limites mínimo e máximo.\n3.    Para efeitos do disposto nos números anteriores considerase:\na) “Valor elevado”, aquele que exceder $5 000 dólares americanos e não ultrapassar $10 000 dólares americanos, resultante da avaliação da vantagem por referência ao momento da prática do facto;\nb) “Valor consideravelmente elevado”, aquele que exceder $10 000 dólares americanos, resultante da avaliação da vantagem por referência ao momento da prática do facto.”"
+   }
+  },
+  {
+   "id": "TL-H184-A76",
+   "no": 76,
+   "noLabel": {
+    "pt": "Artigo 76.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Proteção"
+   },
+   "text": {
+    "pt": "Aplicam-se aos agentes de crimes previstos na presente lei que cooperem com as autoridades judiciais as medidas de proteção às testemunhas."
+   }
+  },
+  {
+   "id": "TL-H184-A77",
+   "no": 77,
+   "noLabel": {
+    "pt": "Artigo 77.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Dispensa de pena"
+   },
+   "text": {
+    "pt": "O agente é dispensado de pena sempre que:\na)    Antes da prática do ato pretendido, voluntariamente restituir a vantagem recebida ou solicitar a sua restituição, ou repudiar ou retirar a promessa feita;\nb)   Tiver praticado o facto por solicitação do agente público, diretamente ou por interposta pessoa, e denunciar o crime antes da instauração de procedimento criminal, nos 90 dias subsequentes à prática do ato pretendido."
+   }
+  },
+  {
+   "id": "TL-H184-A78",
+   "no": 78,
+   "noLabel": {
+    "pt": "Artigo 78.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Direito subsidiário"
+   },
+   "text": {
+    "pt": "Em tudo o que não estiver previsto no presente Título aplicase o disposto no Código Penal e no Código de Processo Penal."
+   }
+  },
+  {
+   "id": "TL-H184-A79",
+   "no": 79,
+   "noLabel": {
+    "pt": "Artigo 79.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Corrupção passiva de agente público para ato ilícito"
+   },
+   "text": {
+    "pt": "1.   O agente público que por si, ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, sem que lhe seja devida, vantagem patrimonial ou não patrimonial, ou a sua promessa, para praticar ou abster-se de praticar um ato contrário aos deveres do cargo, ainda que anterior àquela solicitação ou aceitação, é punido com pena de prisão de 3 a 15 anos.\n2.  Se o agente, antes da prática do facto, voluntariamente repudiar o oferecimento ou a promessa que aceitara, ou restituir a vantagem, ou, tratando-se de coisa fungível, o seu valor, é dispensado de pena."
+   }
+  },
+  {
+   "id": "TL-H184-A80",
+   "no": 80,
+   "noLabel": {
+    "pt": "Artigo 80.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Corrupção passiva de agente público para ato lícito"
+   },
+   "text": {
+    "pt": "1.  O agente público que por si, ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, sem que lhe seja devida, vantagem patrimonial ou não patrimonial, ou a sua promessa, para praticar ou abster-se de praticar um ato não contrário aos deveres do cargo, ainda que anterior àquela solicitação ou aceitação, é punido com pena de prisão até 3 anos ou com pena de multa.\n2.   Na mesma pena incorre o agente público que por si, ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, sem que lhe seja devida, vantagem patrimonial ou não patrimonial de pessoa que perante ele tenha tido, tenha ou venha a ter qualquer pretensão dependente do exercício das suas funções públicas."
+   }
+  },
+  {
+   "id": "TL-H184-A81",
+   "no": 81,
+   "noLabel": {
+    "pt": "Artigo 81.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Corrupção ativa de agente público"
+   },
+   "text": {
+    "pt": "1.  Quem por si, ou por interposta pessoa com o seu consentimento ou ratificação, der ou prometer a agente público, ou a terceiro com conhecimento daquele, vantagem patrimonial ou não patrimonial que ao agente público não seja devida, para este praticar ou abster-se de praticar um ato contrário aos deveres do cargo, é punido com pena de prisão de 3 a 10 anos.\n2.  Se o fim da conduta descrita no número anterior for o de praticar ou abster-se de praticar ato não contrário aos deveres do cargo, o agente é punido com pena de prisão até 2 anos ou com pena de multa."
+   }
+  },
+  {
+   "id": "TL-H184-A82",
+   "no": 82,
+   "noLabel": {
+    "pt": "Artigo 82.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Peculato"
+   },
+   "text": {
+    "pt": "1.   O agente público que ilegitimamente se apropriar em proveito próprio ou de outra pessoa, de dinheiro ou coisa móvel, pública ou particular, que lhe sejam entregues, estejam na sua posse ou lhe sejam acessíveis em razão das suas funções, é punido com pena de prisão de 3 a 10 anos, se pena mais grave não couber por força de outra disposição legal.\n2.   Se o agente público der de empréstimo, empenhar ou, por qualquer forma, onerar os valores ou objetos referidos no número anterior, é punido com pena de prisão até 3 anos ou multa, se pena mais grave não couber por força de outra disposição legal.\n3.   Se os valores ou objetos referidos nos números anteriores ultrapassarem os $5 000 dólares americanos, as penas são, respetivamente de prisão de 4 a 12 anos ou de 2 a 5 anos.\n4.   Se os valores ou objetos referidos no n.º 1 forem de valor inferior a $50 dólares americanos o agente é punido com pena de prisão até 3 anos ou com pena de multa."
+   }
+  },
+  {
+   "id": "TL-H184-A83",
+   "no": 83,
+   "noLabel": {
+    "pt": "Artigo 83.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Peculato de uso"
+   },
+   "text": {
+    "pt": "O agente público que fizer uso ou permitir que outra pessoa o faça para fins alheios àqueles a que se destinam, de veículos ou de outras coisas móveis de valor significativo, que lhe sejam entregues, estejam na sua posse ou lhe sejam acessíveis em razão das suas funções, para obter, para si ou para terceiro, benefício ilegítimo ou causar prejuízo a alguém, é punido com prisão até 2 anos, se aquelas coisas estiverem na sua posse ou lhe forem acessíveis em razão das suas funções."
+   }
+  },
+  {
+   "id": "TL-H184-A84",
+   "no": 84,
+   "noLabel": {
+    "pt": "Artigo 84.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Atentado ao direito de participação e à igualdade dos"
+   },
+   "text": {
+    "pt": "candidatos em concurso de aprovisionamento, venda ou concessão O agente público que, com o fim de obter, para si ou para terceiro, vantagem que não lhe é devida, praticar ou abster-se de praticar ato contrário aos seus deveres funcionais, relacionado com as garantias do direito de participação e à igualdade dos candidatos de concursos de aprovisionamento, de venda ou de concessão de serviço público, é punido com pena de prisão até 2 anos ou pena de multa."
+   }
+  },
+  {
+   "id": "TL-H184-A85",
+   "no": 85,
+   "noLabel": {
+    "pt": "Artigo 85.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Abuso de poder"
+   },
+   "text": {
+    "pt": "O agente público que, fora dos casos previstos nos artigos anteriores, abusar de poderes ou violar deveres inerentes às suas funções, com intenção de obter para si ou para terceiro, benefício ilegítimo ou causar prejuízo a outra pessoa, é punido com pena de prisão de 1 a 4 anos, se pena mais grave não couber por força de outra disposição legal."
+   }
+  },
+  {
+   "id": "TL-H184-A86",
+   "no": 86,
+   "noLabel": {
+    "pt": "Artigo 86.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Participação económica em negócio"
+   },
+   "text": {
+    "pt": "1.  O agente público que, em razão do exercício de cargo público, deva intervir em contrato ou outra operação ou atividade, e se aproveitar dessa condição, para obter para si ou para terceiro, diretamente ou por interposta pessoa, vantagem patrimonial, ou, por qualquer outra forma, participação económica ilícita e deste modo lesar os interesses públicos que lhe cumpriria administrar, fiscalizar, defender ou realizar, é punido com pena de prisão de 2 a 8 anos.\n2.   Se da conduta anterior resultarem prejuízos para o Estado superiores a $10 000 dólares americanos a pena de prisão é de 3 a 15 anos."
+   }
+  },
+  {
+   "id": "TL-H184-A87",
+   "no": 87,
+   "noLabel": {
+    "pt": "Artigo 87.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Conflito de interesses"
+   },
+   "text": {
+    "pt": "O agente público, ou um seu familiar próximo ou um seu associado, que tenha um interesse privado direto ou indireto em relação a uma pessoa singular ou uma pessoa coletiva que tem uma pretensão face à entidade pública onde o agente público presta serviço, a qualquer título, de obter emprego ou contrato, ou de comprar ou tomar em arrendamento, ou qualquer outro negócio, deve declarar por escrito à entidade pública a natureza do seu interesse e deve abster-se de tomar parte em qualquer procedimento ou decisão concernente àquela pretensão, sob pena de ser punido com pena de prisão de 2 a 8 anos.\nSecção II\nDos crimes de corrupção praticados no exercício de funções privadas"
+   }
+  },
+  {
+   "id": "TL-H184-A88",
+   "no": 88,
+   "noLabel": {
+    "pt": "Artigo 88.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Setor privado"
+   },
+   "text": {
+    "pt": "Para efeitos da presente secção, o setor privado inclui todas as organizações não pertencentes ao setor público, quer tenham fins lucrativos ou não lucrativos, nomeadamente o setor empresarial, o setor cooperativo, as associações sem fins lucrativos, as organizações não governamentais, as associações políticas e os partidos políticos."
+   }
+  },
+  {
+   "id": "TL-H184-A89",
+   "no": 89,
+   "noLabel": {
+    "pt": "Artigo 89.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Corrupção passiva de quem exerce funções no setor privado"
+   },
+   "text": {
+    "pt": "1.  Quem, exercendo funções para uma entidade do setor privado, ainda que irregularmente constituída, por si ou interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, sem que lhe seja devida, vantagem patrimonial ou não patrimonial, ou a sua promessa, para praticar ou abster-se de praticar um ato contrário aos seus deveres funcionais, é punido com pena de prisão de 2 a 8 anos.\n2.  Se o ato ou omissão previstos no número anterior forem idóneos para causar uma distorção da concorrência ou um prejuízo patrimonial a terceiros, o agente é punido com pena de prisão de 3 a 10 anos."
+   }
+  },
+  {
+   "id": "TL-H184-A90",
+   "no": 90,
+   "noLabel": {
+    "pt": "Artigo 90.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Corrupção ativa de quem exerce funções no setor privado"
+   },
+   "text": {
+    "pt": "1.    Quem, por si ou interposta pessoa, com o seu consentimento ou ratificação, der ou prometer a uma pessoa que exerce funções para uma entidade do setor privado, ainda que irregularmente constituída, vantagem patrimonial ou não patrimonial que não lhe seja devida, para praticar ou absterse de praticar um ato contrário aos seus deveres funcionais, é punido com pena de prisão de 2 a 8 anos.\n2.   Se o ato ou a omissão previstos no número anterior visarem obter ou forem idóneos para causar uma distorção da concorrência ou um prejuízo patrimonial a terceiros, o agente é punido com pena de prisão de 3 a 10 anos."
+   }
+  },
+  {
+   "id": "TL-H184-A91",
+   "no": 91,
+   "noLabel": {
+    "pt": "Artigo 91.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Peculato no setor privado"
+   },
+   "text": {
+    "pt": "Quem, exercendo funções para uma entidade do setor privado, a qualquer título, ilegitimamente se apropriar em proveito próprio ou de outra pessoa, de dinheiros ou quaisquer bens ou valores que lhe tenham sido entregues, estejam na sua posse ou lhe sejam acessíveis em razão das suas funções, é punido com pena de prisão até 2 anos ou com pena de multa, se pena mais grave não couber por força de outra disposição legal.\nSecção III\nDos outros crimes de corrupção"
+   }
+  },
+  {
+   "id": "TL-H184-A92",
+   "no": 92,
+   "noLabel": {
+    "pt": "Artigo 92.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Tráfico de influências"
+   },
+   "text": {
+    "pt": "1. Quem, por si ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, vantagem patrimonial ou não patrimonial, ou a sua promessa, para abusar da sua influência, real ou suposta, junto de qualquer entidade pública, é punido:\na) Com pena de prisão de 2 a 6 anos, se pena mais grave lhe não couber por força de outra disposição legal, se o fim for o de obter uma qualquer decisão ilícita favorável;\nb) Com pena de prisão até 1 ano ou com pena de multa, se pena mais grave lhe não couber por força de outra disposição legal, se o fim for o de obter uma qualquer decisão lícita favorável.\n2.  Quem, por si ou por interposta pessoa, com o seu consentimento ou ratificação, der ou prometer vantagem patrimonial ou não patrimonial às pessoas referidas no número anterior é punido:\na) Com pena de prisão até 4 anos ou com pena de multa, se o fim pretendido for o de obter uma qualquer decisão ilícita favorável;\nb) Com pena de prisão até 1 ano ou com pena de multa, se o fim pretendido for o de obter uma qualquer decisão lícita favorável."
+   }
+  },
+  {
+   "id": "TL-H184-A93",
+   "no": 93,
+   "noLabel": {
+    "pt": "Artigo 93.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Suborno"
+   },
+   "text": {
+    "pt": "1.     Quem convencer ou tentar convencer outra pessoa, através de dádiva ou promessa de vantagem patrimonial ou não patrimonial, a praticar qualquer dos factos referidos nos artigos 278.º e 279.º do Código Penal, é punido com pena de prisão até 4 anos ou com pena de multa, quando tal prática ocorrer.\n2.   Se não chegar a concretizar-se a prática dos factos referidos nos artigos 278.º e 279.º do Código Penal, o agente é punido com pena de prisão até 3 anos ou com pena de multa."
+   }
+  },
+  {
+   "id": "TL-H184-A94",
+   "no": 94,
+   "noLabel": {
+    "pt": "Artigo 94.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Obstrução à produção de prova"
+   },
+   "text": {
+    "pt": "1.   Quem recorrer à força física, à ameaça ou à intimidação, e a promessa, oferta ou concessão de um benefício indevido para obter um falso testemunho ou para impedir um testemunho ou a apresentação de elementos de prova, relacionados com a prática de crimes previstos na presente lei, é punido com pena de prisão de 2 a 5 anos.\n2.  Na mesma pena incorre quem, tendo sido legitimamente solicitado pela autoridade competente para prestar a devida cooperação para a administração da justiça, em inquérito ou processo penal relacionados com crimes previstos na presente lei, se recusar a prestá-la sem motivo justificado.\n3.   Se o agente que praticar os factos descritos no n.º 1 exercer qualquer função política, função pública civil, policial ou militar, é punido com pena de prisão de 2 a 8 anos."
+   }
+  },
+  {
+   "id": "TL-H184-A95",
+   "no": 95,
+   "noLabel": {
+    "pt": "Artigo 95.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Obstrução à atividade de magistrado ou funcionário"
+   },
+   "text": {
+    "pt": "1.   Quem recorrer à força física, à ameaça ou à intimidação para impedir um magistrado ou um funcionário judicial ou policial de exercer os deveres inerentes à sua função, relativamente à prática de crimes previstos na presente lei, é punido com pena de prisão de 2 a 6 anos.\n2.   Se o agente que praticar os factos descritos no n.º 1 exercer qualquer função política, função pública civil, policial ou militar, é punido com pena de prisão de 2 a 10 anos.\n3.  Se, em consequência da conduta descrita no n.º 1, o magistrado ou funcionário judicial ou policial omitir ou praticar ato em violação de lei expressa de que resultar prejuízo para terceiros a pena é de 3 a 12 anos de prisão."
+   }
+  },
+  {
+   "id": "TL-H184-A96",
+   "no": 96,
+   "noLabel": {
+    "pt": "Artigo 96.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Fraude na construção"
+   },
+   "text": {
+    "pt": "1.   O vendedor de materiais de construção ou o construtor de uma obra de infraestrutura, pública ou privada, que não fornecer ou não utilizar na obra a quantidade ou a qualidade dos materiais a que estava obrigado, ou não aplicar os métodos ou procedimentos técnicos a que estava obrigado, com o fim de obter uma vantagem patrimonial, é punido com pena de prisão de 2 a 6 anos, se pena mais grave não couber por força de outra disposição legal.\n2.  Na mesma pena incorre quem, estando encarregue pelo dono da obra da supervisão da obra ou da receção dos materiais, ou da receção da obra, intencionalmente permitir a conduta descrita no número anterior."
+   }
+  },
+  {
+   "id": "TL-H184-A97",
+   "no": 97,
+   "noLabel": {
+    "pt": "Artigo 97.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Obstrução e afastamento de concorrente de aprovisionamento ou venda pública"
+   },
+   "text": {
+    "pt": "1.   Quem, com o fim de obter vantagem patrimonial, por si ou interposta pessoa\na) Impedir ou perturbar um ato relacionado com procedimento de aprovisionamento ou de venda, realizado por entidade pública ou privada; ou\nb) Afastar ou tentar afastar concorrente ou licitante com recurso à força, grave ameaça, fraude ou oferecimento de vantagem, é punido com pena de prisão até 2 anos ou com pena de multa.\n2.   Na mesma pena incorre quem se abstiver de concorrer ou de licitar, por causa de vantagem oferecida."
+   }
+  },
+  {
+   "id": "TL-H184-A98",
+   "no": 98,
+   "noLabel": {
+    "pt": "Artigo 98.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Posse de riqueza injustificada"
+   },
+   "text": {
+    "pt": "1.    Quem, sujeito por lei a declarar rendimentos, bens e interesses em razão de exercício de cargo público, não justificar a origem da sua riqueza, instado a fazê-lo pela autoridade competente, quando esta invocar e fizer prova de que a riqueza na sua posse, durante o exercício do cargo e até três anos após a sua cessação, é significativamente superior aos seus rendimentos lícitos conhecidos, é punido com pena de prisão até 5 anos, se pena mais grave não couber por força de outra disposição legal.\n2.   Para efeitos do presente artigo entende-se que a riqueza é significativamente superior aos rendimentos lícitos conhecidos quando os excede no mínimo em 25%.\n3.  Equipara-se a acréscimo de património a liquidação de dívidas.\n4.  O tribunal decreta obrigatoriamente a perda a favor do Estado dos bens que excederem os seus bens lícitos conhecidos.\n5.    Quem, tendo relações de parentesco ou de amizade próximas, ou de associação, com as pessoas indicadas no n.º 1, não justificar a origem dos seus bens, instado a fazê-lo pela autoridade competente, quando esta tiver razões para crer que possui esses bens por conta ou em nome da pessoa sujeita a declaração de rendimentos, bens e interesses tem os bens perdidos a favor do Estado."
+   }
+  },
+  {
+   "id": "TL-H184-A99",
+   "no": 99,
+   "noLabel": {
+    "pt": "Artigo 99.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO II DOS CRIMES DE CORRUPÇÃO Secção I Dos crimes de corrupção praticados no exercício de funções públicas"
+   },
+   "heading": {
+    "pt": "Branqueamento"
+   },
+   "text": {
+    "pt": "O branqueamento do produto do crime de corrupção é punido nos termos do artigo 313.º do Código Penal."
+   }
+  },
+  {
+   "id": "TL-H184-A100",
+   "no": 100,
+   "noLabel": {
+    "pt": "Artigo 100.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO III DISPOSIÇÕES  PROCESSUAIS  PENAIS Secção I Identificação, quebra de segredo, buscas e revistas"
+   },
+   "heading": {
+    "pt": "Informação sobre bens e valores e quebra de segredo"
+   },
+   "text": {
+    "pt": "1.   Sem prejuízo do que está disposto no Código Penal e no Código de Processo Penal quanto a buscas e revistas, podem ser pedidas a quaisquer autoridades públicas ou entidades privadas informações ou a apresentação de documentos respeitantes a bens, depósitos ou quaisquer outros valores pertencentes a indivíduos suspeitos ou arguidos da prática de crimes previstos na presente lei, com vista à produção de prova, congelamento ou apreensão.\n2.   O pedido, formulado pelo juiz, por solicitação do Ministério Público, não pode ser recusado desde que indique as pessoas abrangidas, a informação que deve ser prestada e as referências do processo respetivo.\n3.   Se não for conhecida a pessoa ou pessoas titulares das contas ou intervenientes nas transações é suficiente a identificação das contas e transações relativamente às quais devem ser obtidas informações.\n4.   Quando é dirigido a instituição bancária ou financeira, o pedido a que se referem os números anteriores deve ser apresentado através do Banco Central de Timor-Leste.\n5.  Ficam vinculados ao segredo de justiça as autoridades públicas e as entidades privadas e os seus funcionários."
+   }
+  },
+  {
+   "id": "TL-H184-A101",
+   "no": 101,
+   "noLabel": {
+    "pt": "Artigo 101.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO III DISPOSIÇÕES  PROCESSUAIS  PENAIS Secção I Identificação, quebra de segredo, buscas e revistas"
+   },
+   "heading": {
+    "pt": "Buscas, revistas e escutas telefónicas"
+   },
+   "text": {
+    "pt": "Às buscas, revistas e escutas telefónicas são aplicáveis as disposições do Código de Processo Penal e do Código Penal.\nSecção II\nApreensões"
+   }
+  },
+  {
+   "id": "TL-H184-A102",
+   "no": 102,
+   "noLabel": {
+    "pt": "Artigo 102.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO III DISPOSIÇÕES  PROCESSUAIS  PENAIS Secção I Identificação, quebra de segredo, buscas e revistas"
+   },
+   "heading": {
+    "pt": "Congelamento e apreensão"
+   },
+   "text": {
+    "pt": "1.   O tribunal pode, por sua própria iniciativa ou a pedido do Ministério Público, impor medida provisória de congelamento ou apreensão, com a intenção de preservar bens e valores que possam vir a estar sujeitos a perda a favor do Estado.\n2.   O congelamento ou apreensão aplica-se também:\na) Aos bens em que o produto do crime se tiver transformado ou convertido;\nb) Aos bens legalmente adquiridos com que se tiver misturado, até ao valor calculado do produto com que foram misturados;\nc) Às receitas ou outros benefícios obtidos com o produto do crime, com os bens nos quais o produto tenha sido transformado ou convertido ou com os bens com que tenha sido misturado.\n3.   O congelamento ou apreensão de bens e valores em nome de terceiros tem lugar quando houver fundadas razões para crer que eles constituem objeto ou produto do crime.\n4.   O disposto nos números anteriores aplica-se sem prejuízo dos direitos de terceiros de boa-fé.\n5.  A aplicação destas medidas pode terminar a qualquer momento por ordem do tribunal que as ordenou, por sua própria iniciativa ou a pedido do Ministério Público, ou das pessoas que reivindicam o direito de propriedade dos fundos ou bens.\n6.   O não cumprimento da ordem judicial de congelamento é punido com coima de $500 a $5 000 dólares americanos por dia."
+   }
+  },
+  {
+   "id": "TL-H184-A103",
+   "no": 103,
+   "noLabel": {
+    "pt": "Artigo 103.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO III DISPOSIÇÕES  PROCESSUAIS  PENAIS Secção I Identificação, quebra de segredo, buscas e revistas"
+   },
+   "heading": {
+    "pt": "Efetivação da apreensão e destino dos bens apreendidos"
+   },
+   "text": {
+    "pt": "À efetivação da apreensão e ao destino dos bens apreendidos aplicam-se as correspondentes disposições do Código de Processo Penal.\nSecção III\nPerda de objetos e produtos do crime"
+   }
+  },
+  {
+   "id": "TL-H184-A104",
+   "no": 104,
+   "noLabel": {
+    "pt": "Artigo 104.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO III DISPOSIÇÕES  PROCESSUAIS  PENAIS Secção I Identificação, quebra de segredo, buscas e revistas"
+   },
+   "heading": {
+    "pt": "Perda de objetos e produtos do crime"
+   },
+   "text": {
+    "pt": "1.   São declarados perdidos a favor do Estado:\na) Os bens, equipamentos e outros instrumentos utilizados ou destinados a ser utilizados na prática dos crimes previstos na presente lei;\nb) O produto do crime, aí compreendidos direitos e vantagens, adquirido direta ou indiretamente, para o agente ou para outrem;\nc) Os bens em que o produto do crime se tiver transformado ou convertido;\nd) Os bens legalmente adquiridos com que se tiver misturado, até ao valor calculado do produto com que foram misturados;\ne) As receitas ou outros benefícios obtidos com o produto do crime, com os bens nos quais o produto tenha sido transformado ou convertido ou com os bens com que tenha sido misturado.\n2.   Ficam salvaguardados os direitos de terceiros de boa-fé."
+   }
+  },
+  {
+   "id": "TL-H184-A105",
+   "no": 105,
+   "noLabel": {
+    "pt": "Artigo 105.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO III DISPOSIÇÕES  PROCESSUAIS  PENAIS Secção I Identificação, quebra de segredo, buscas e revistas"
+   },
+   "heading": {
+    "pt": "Invalidade de negócios jurídicos"
+   },
+   "text": {
+    "pt": "1.   O tribunal declara a invalidade de qualquer negócio jurídico que tenha sido celebrado com o objetivo de impedir a perda do produto do crime.\n2.   Se o contrato a invalidar já tiver sido executado, a parte que atuou de boa-fé apenas é reembolsada pela quantia efetivamente paga."
+   }
+  },
+  {
+   "id": "TL-H184-A106",
+   "no": 106,
+   "noLabel": {
+    "pt": "Artigo 106.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO III DISPOSIÇÕES  PROCESSUAIS  PENAIS Secção I Identificação, quebra de segredo, buscas e revistas"
+   },
+   "heading": {
+    "pt": "Proveniência lícita"
+   },
+   "text": {
+    "pt": "Declarado perdido a favor do Estado o produto do crime, o arguido ou quem invocar ser titular do bem pode opor-se à declaração demonstrando a sua proveniência lícita.\nSecção IV\nProteção a denunciantes, pessoas que dão informação e testemunhas"
+   }
+  },
+  {
+   "id": "TL-H184-A107",
+   "no": 107,
+   "noLabel": {
+    "pt": "Artigo 107.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO III DISPOSIÇÕES  PROCESSUAIS  PENAIS Secção I Identificação, quebra de segredo, buscas e revistas"
+   },
+   "heading": {
+    "pt": "Conduta não punível e reembolso ao denunciante"
+   },
+   "text": {
+    "pt": "1.   Aquele que apresentar denúncia de crime de corrupção, tendo sido ele próprio vítima do crime, por lhe ter sido solicitado e ter acedido a oferecer vantagem a agente público ou quem exerça funções no setor privado, tem direito ao reembolso do que pagou ou das despesas em que incorreu.\n2.   Não é punível a conduta do denunciante.\n3.   O denunciante goza da proteção oferecida às testemunhas."
+   }
+  },
+  {
+   "id": "TL-H184-A108",
+   "no": 108,
+   "noLabel": {
+    "pt": "Artigo 108.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO III DISPOSIÇÕES  PROCESSUAIS  PENAIS Secção I Identificação, quebra de segredo, buscas e revistas"
+   },
+   "heading": {
+    "pt": "Proteção de testemunhas, peritos e vítimas"
+   },
+   "text": {
+    "pt": "1.   É aplicável aos processos relativos a crimes de corrupção o regime de proteção de testemunhas previsto na lei.\n2.  O regime de proteção de testemunhas previsto na lei é também aplicável, com as necessárias adaptações, a peritos e vítimas, quando estas últimas tenham de depor como testemunhas."
+   }
+  },
+  {
+   "id": "TL-H184-A109",
+   "no": 109,
+   "noLabel": {
+    "pt": "Artigo 109.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III DISPOSIÇÕES  CRIMINAIS / CAPÍTULO III DISPOSIÇÕES  PROCESSUAIS  PENAIS Secção I Identificação, quebra de segredo, buscas e revistas"
+   },
+   "heading": {
+    "pt": "Denúncia anónima"
+   },
+   "text": {
+    "pt": "1.   A notícia dos crimes de corrupção pode ser feita por denúncia anónima, para além das demais formas de notícia do crime previstas no Código Penal.\n2.   Os processos relativos a crimes de corrupção podem ainda iniciar-se através da comunicação das operações suspeitas pela autoridade financeira competente, nomeadamente a Unidade de Informação Financeira.\n3.  É lícita a conduta daquele que tiver denunciado às autoridades competentes, de boa-fé e com base em suspeita razoável, quaisquer factos relativos a crimes previstos na presente lei."
+   }
+  }
+ ]
+}

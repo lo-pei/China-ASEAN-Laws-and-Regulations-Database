@@ -1,0 +1,120 @@
+{
+ "id": "TL-H185",
+ "title": {
+  "zh": "Autorização da Renovação da Declaração do Estado de Emergência",
+  "en": null,
+  "orig": "Autorização da Renovação da Declaração do Estado de Emergência"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p04",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2020-09-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 8/2020",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 2066,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2020/serie_1/SERIE_I_NO_36_B.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 6 条；逐字取自官方公报 PDF（public/docs/2020/serie_1/SERIE_I_NO_36_B.pdf）第 3–5 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 条号自第 5 条起而非自 1 起（止于第 10 条）：本法 为续期／授权类文书，条号承被延续文书之后编号，属该体例使然。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H185-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "heading": {
+    "pt": "Garantias dos direitos dos cidadãos"
+   },
+   "text": {
+    "pt": "1.  A declaração do estado de emergência não afeta, em caso algum, o direito à:\na) Vida;\nb) Integridade física;\nc) Capacidade civil e cidadania;\nd) Não retroatividade da lei penal;\ne) Defesa em processo criminal; f) Liberdade de consciência e de religião;\ng) Não sujeição a tortura, escravatura ou servidão;\nh) Não sujeição a tratamento ou punição cruel, desumano ou degradante; (i) Não discriminação.\n2.  Os efeitos da declaração do estado de emergência não afetam, em caso algum, as liberdades de expressão e de informação.\n3.  Em caso algum pode ser posto em causa o princípio do Estado unitário ou a continuidade territorial do Estado."
+   }
+  },
+  {
+   "id": "TL-H185-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "heading": {
+    "pt": "Órgãos de soberania"
+   },
+   "text": {
+    "pt": "A declaração do estado de emergência não afeta a aplicação das regras constitucionais relativas à competência e ao funcionamento dos órgãos de soberania e bem assim os direitos e imunidades dos seus titulares."
+   }
+  },
+  {
+   "id": "TL-H185-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "heading": {
+    "pt": "Foro civil e acesso aos tribunais e ao Provedor de Direitos Humanos e Justiça"
+   },
+   "text": {
+    "pt": "1.  Os tribunais comuns mantêm-se no pleno exercício das suas competências e funções, cabendo-lhes, em especial, velar pela observância das normas constitucionais e legais que regem o estado de emergência.\n2.   Os cidadãos mantêm, na sua plenitude, o direito de acesso aos tribunais e ao Provedor de Direitos Humanos e Justiça, de acordo com a lei geral, para defesa dos seus direitos, liberdades e garantias lesados ou ameaçados de lesão por quaisquer providências inconstitucionais ou ilegais."
+   }
+  },
+  {
+   "id": "TL-H185-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "heading": {
+    "pt": "Funcionamento dos órgãos de direção e fiscalização"
+   },
+   "text": {
+    "pt": "1.  O Conselho Superior de Defesa e Segurança mantém-se em sessão permanente.\n2.   Mantêm-se igualmente em funcionamento permanente, com vista ao pleno exercício das suas competências de defesa da legalidade democrática e dos direitos dos cidadãos, a Procuradoria-Geral da República e a Provedoria de Direitos Humanos e Justiça."
+   }
+  },
+  {
+   "id": "TL-H185-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "heading": {
+    "pt": "Execução da declaração"
+   },
+   "text": {
+    "pt": "1.     A execução da declaração do estado de emergência compete ao Governo, que dos respetivos atos manterá informados o Presidente da República e o Parlamento Nacional.\n2.    Os diplomas legislativos adotados pelo Governo no âmbito da execução da declaração do estado de emergência estão sujeitos a apreciação parlamentar, nos termos da Constituição."
+   }
+  },
+  {
+   "id": "TL-H185-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra imediatamente em vigor."
+   }
+  }
+ ]
+}

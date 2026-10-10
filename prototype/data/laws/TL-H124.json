@@ -1,0 +1,81 @@
+{
+ "id": "TL-H124",
+ "title": {
+  "zh": "对《第7/2006号法律》的第四次修改",
+  "en": null,
+  "orig": "Quarta Alteração à Lei n.º 7/2006, de 28 de Dezembro - Lei eleitoral para o Presidente da República"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p03",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2012-03-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "本法系对《第7/2006号法律》的修改。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 7/2012",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 781,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2012/serie_1/serie1_no8a.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自官方公报 PDF（public/docs/2012/serie_1/serie1_no8a.pdf）第 1–2 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 【本法系对《第7/2006号法律》的修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H124-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Alterações"
+   },
+   "text": {
+    "pt": "Os artigo 25.º da Lei n.º 7/2006, de 28 de Dezembro, alterada pela Lei n.º 5/2007, de 28 de Março e pela Lei n.º 8/2011, de 22 de Junho, passa a ter a seguinte redacção:\n“Artigo 25.º Morte ou incapacidade permanente do candidato\n1.\n(...).\n2.\n(...).\n3.\n(...).\n4.\n(...).\n5.   Em caso de morte ou declaração de incapacidade permanente de algum dos candidatos admitidos à segunda votação, são sucessivamente chamados os restantes candidatos, pela ordem de votação, para, no prazo de 24 horas, declararem que aceitam a sujeição da respectiva candidatura à segunda votação.”"
+   }
+  },
+  {
+   "id": "TL-H124-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Revogação"
+   },
+   "text": {
+    "pt": "É revogado o artigo 26.º da Lei n.º 7/2006 de 28 de Dezembro, alterada pela Lei n.º 5/2007, de 28 de Março e pela Lei n.º 8/ 2011, de 22 de Junho."
+   }
+  },
+  {
+   "id": "TL-H124-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente Lei entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "SG-H699",
+ "title": {
+  "zh": null,
+  "en": "Coins to be Issued on 22nd September 1998",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p09",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CA1967-S444-1998",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 348,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CA1967-S444-1998?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 2 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H699-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Currency Act\n(Chapter 69)\nCoins to be Issued on 22nd September 1998\nPursuant to section 17(5) of the Currency Act, it is hereby notified for general information that the denominations and characteristics of the coins to be issued on 22nd September 1998 by the Board of Commissioners of Currency, Singapore, are as shown in the Schedule."
+   }
+  },
+  {
+   "id": "SG-H699-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE"
+   }
+  }
+ ]
+}

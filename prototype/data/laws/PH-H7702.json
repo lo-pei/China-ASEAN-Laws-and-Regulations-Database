@@ -1,0 +1,264 @@
+{
+ "id": "PH-H7702",
+ "title": {
+  "zh": null,
+  "en": "The National Metrology Act of 2003",
+  "orig": "The National Metrology Act of 2003 An act establishing a National Measurement Infrastructure System (NMIS) for standards and measurements, and for other purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p109",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2004-02-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 9236",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 22,
+ "chars": 14042,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9236_2004.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 22 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2004/ra_9236_2004.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H7702-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Title. - This Act shall be known as \"The National Metrology Act of 2003.\""
+   }
+  },
+  {
+   "id": "PH-H7702-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Declaration of Policy. - It is hereby declared the policy of the State to facilitate the development of scientific and technical knowledge and progress in the national economy by encouraging the standardization and modernization of units and standards of measurements to adapt to the needs of the times, thereby complying with international standards and protecting the health, interest and safety of every consumer and his environment from the harmful effects of inaccurate or false measurements."
+   }
+  },
+  {
+   "id": "PH-H7702-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Definition of Terms. - For the purpose of this Act, the following terms and phrases shall have the following definitions:\na) Accredited Laboratory - refers to a laboratory that has been evaluated and has complied with the requirements of the International Standardization Organization (ISO) 17025 Standard \"General Requirements for the Competence of Testing and Calibration Laboratories,\" and accredited by the national accrediting body.\nb) Board-Authorized Units (BAU) - are units prescribed by the International System of Units (SI) and other units of measurement authorized by the Board.\nc) Calibration - set of operations establishing under specified condition, relationship between values indicated by a measuring instrument or measuring system, or values represented by material measure, and its corresponding known values of measure.\nd) Measurement - set of operations having the object of determining the value of a quantity.\ne) Measurement Standard - a measuring instrument or system intended to define, realize, conserve or reproduce a unit or one or more known values of a quantity in order to transmit them to the measuring instrument by comparison.\nf) Metrology - the field of science concerned with weights and measures which includes all aspects of measurement in whatever level of accuracy and in any field of science and technology.\ng) Metrology Controls - refer to type approval, verification, calibration and other processes and means of checking the accuracy and reliability of measurement standards and measuring equipment.\nh) Regulated Areas of Application - refers to field of endeavors or areas which are critical to citizens as they affect health, safety, welfare, physical conditions, trade and commerce, legal transactions, environment and other areas as may be determined by the Board.\n(i) Type Approval on Measuring Equipment - the approved evaluation of conformity based on one or more specimens of a product.\nj) Primary Standard - a standard which has highest metrological quality in a specified field.\nk) Secondary Standard - one which value is fixed by comparison with primary standard.\nl) Traceability - the property of a result of a measurement relating to appropriate standards, generally national or international through an unbroken chain of comparison.\nm) Verification - a confirmation by examination of evidence that the measuring equipment fulfills specified requirements."
+   }
+  },
+  {
+   "id": "PH-H7702-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Establishment of the National Measurement Infrastructure System (NMIS). - There is hereby established a National Measurement Infrastructure System (NMIS) providing measurement standards that are internationally traceable and consistent with the Meter Convention.\nThe NMIS shall cover units of measurement, measuring instruments, measurement standards, their application and metrological controls, establishment of a laboratory accreditation system, and a system of appropriate penalties."
+   }
+  },
+  {
+   "id": "PH-H7702-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Creation of the National Metrology Board (NMB). - A National Metrology Board, hereinafter referred to as the Board, is hereby created and to be chaired by the Secretary of the Department of Science and Technology (DOST). It shall be composed of the Secretaries of the following agencies or their duly authorized representative with the rank of Undersecretary, as ex officio members:\na) Department of Trade and Industry (DTI)\nb) Department of Transportation and Communications (DOTC)\nc) Department of Health (DOH);\nd) Department of the Interior and Local Government (DILG);\ne) Department of Justice (DOJ);\nf) Department of Environment and Natural Resources (DENR); and\ng) Department of Agriculture (DA) There shall be appointed to the Board one (1) representative each from the business sector, the professional metrology association of national membership and the academe, all of whom shall have a term of (3) years to be appointed by the President upon recommendation of the Secretary of the DOST.\nThe Industrial Technology and Development Institute (ITDI) is hereby mandated to serve as the Board's Secretariat. The National Metrology Laboratory presently existing as the laboratory arm of the ITDI is likewise hereby maintained and shall carry out the technical, calibration and laboratory functions to effectively implement the provisions of this Act. For the purpose of enforcing its mandate, the ITDI shall call upon the personnel of other departments and agencies of the government and private institutions to assist in the implementation of this Act."
+   }
+  },
+  {
+   "id": "PH-H7702-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Functions, Duties and Responsibilities of the Board. - The Board shall have the following duties and responsibilities:\na) To ensure the execution, upkeeping and conservation of national primary and secondary standards in conformity with the Board-Authorized Units;\nb) To promote and to coordinate the use in the country of a uniform system of units and measurement standards of physical quantities;\nc) To issue and enforce the necessary guidelines on such areas of metrology but not limited to utilization of measuring equipment and devices, type approval on measuring equipment, verification, calibration, use of control marks and other metrological controls on measurement standards and measuring equipment;\nd) To ensure that the accuracy and application of quantities and similar metrological requirement are met in all commercial, economic, scientific, technical and similar endeavors;\ne) To fix rates and collect fees for the metrological work similar calibration services rendered for both public and private entities;\nf) To carry out the testing for type approval of measuring equipment;\ng) To supervise and to assure the execution and calibration of standards and verification equipment;\nh) To ensure that persons or business entities regularly engaged in importing, manufacturing, repairing, selling or hiring certain measuring equipment comply with the guidelines of the Board; and\n(i) To perform such other functions, duties and responsibilities as may be necessary to implement this Act."
+   }
+  },
+  {
+   "id": "PH-H7702-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "Registration. - Any person or business entity using or keeping measuring equipment for transactions under the regulated areas of application shall be registered with the Board."
+   }
+  },
+  {
+   "id": "PH-H7702-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "System of Units. - The system of unit based on the International System of Units (SI) shall be mandatory throughout the country in regulated areas of application. The use of other units on meritorious cases may be allowed by the Board: Provided, That measuring equipment used for measuring quantities in regulated areas of application shall give results expressed in either SI or Board-Authorized Units: Provided finally, That all measurement standards and measuring equipment use in the regulated areas of application shall be subject to metrological control."
+   }
+  },
+  {
+   "id": "PH-H7702-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "text": {
+    "en": "Traceability of Measurements. - All weights, measures and measuring equipment shall be internationally traceable through the National Metrology Laboratory or other laboratories recognized by the National Metrology Board."
+   }
+  },
+  {
+   "id": "PH-H7702-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "text": {
+    "en": "Labelling. - In addition to the requirements for the labeling of products, commodities, goods and merchandise pursuant to Republic Act. 7394, otherwise known as \"The Consumer Act of the Philippines,\" the products commodities, goods or merchandise must contain contents and quantities of substances, nutritional and health value and relevant other information in units prescribed in this Act."
+   }
+  },
+  {
+   "id": "PH-H7702-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "text": {
+    "en": "Laboratories and Procedures. - Metrological controls undertaken in the country shall be conducted by the Board, the National Metrological Laboratory and other laboratories accredited under the national accreditation body strengthened under this Act. and authorized by and registered with the Board. Metrological controls done outside the country must be made by laboratories recognized by the Board.\nProcedures to be followed in conducting tests shall be based on national or international standards or upon the recommendation of the International Organization of Legal Metrology (Organization Internationale de Metrology Legale, OIML) or any other established standards recognized by the National Metrology Board."
+   }
+  },
+  {
+   "id": "PH-H7702-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "text": {
+    "en": "Freedom of Access to Industrial/Commercial Establishments and Facilities. - The Board shall have the right to inspect at reasonable hours on business day industrial establishment, commercial premises or other facilities/premises where measuring equipment which is meant to be used in the regulated areas of application, is installed or kept or where there is a reason to believe it is installed or kept.\nAny officer or agent of the industrial establishments, commercial premises or other facilities who shall refuse the Board or any of its officers to inspect shall be liable to the penalties imposed under Section 17 of this Act."
+   }
+  },
+  {
+   "id": "PH-H7702-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "text": {
+    "en": "Accrediting Body. - The laboratory accrediting body attached to the Department of Trade and Industry (DTI) is hereby strengthened and recognized under this Act as the national accreditation body.\nThe laboratory accreditation body shall have the following government agencies or offices as members:\na) Department of Trade and Industry (DTI);\nb) Department of Science and Technology (DOST);\nc) Bureau of Food and Drugs (BFAD);\nd) Fertilizer and Pesticide Authority (FPA);\ne) Environment Management Bureau (EMB);\nf) National Telecommunications Commission (NTC)\ng) Department of Energy (DOE)\nh) Bureau of Health Devices and Technology (BHDT); and\n(i) Department of National Defense (DND)"
+   }
+  },
+  {
+   "id": "PH-H7702-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "text": {
+    "en": "Accreditation System. - The laboratory accreditation body shall establish a national standard for accreditation, testing and/or calibration laboratories following ISO/IEC GUIDE 58 \"Calibration and testing laboratory accreditation system - General requirements for operation and recognition\" and ISO/EC 17025 and other relevant international guidelines and standards.\nIt shall formulate relevant policies, procedures, forms and other materials and systems for its accreditation function. It shall have the responsibility of evaluating and accrediting compliance testing and/or calibration laboratories, and monitor the performance of accredited laboratories through periodic inspection and surveillance."
+   }
+  },
+  {
+   "id": "PH-H7702-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "text": {
+    "en": "Progressive Application. - The Department of Science and Technology (DOST), upon advise of the Board and in coordination with other concerned agencies, shall adopt a progressive application of all kinds of measuring equipment. Government and private institutions with existing measurement system and equipment not in conformity with the standards and controls herein prescribed are given a period of one (1) year comply with the provisions of this Act."
+   }
+  },
+  {
+   "id": "PH-H7702-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "text": {
+    "en": "Prohibited Acts. - The following shall constitute prohibited acts of any person or juridical person and are hereby declared unlawful:\na) Manufacturing for sale, offering for sale, distributing in commerce, or importing any product which is not measured in conformity with the weight standards provided by this Act;\nb) Importing of measuring equipment that does not give results expressed in the Board-Authorized Units;\nc) Manufacturing for sale, offering for sale, distributing in commerce or importing consume products which has not secured clearance from the National Metrology Board;\nd) Using of confiscated measuring equipment without verification/decalibration from the Board or the local government unit having jurisdiction over the offense committed; and\ne) Failure to comply with the standard provided for under this Act."
+   }
+  },
+  {
+   "id": "PH-H7702-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "text": {
+    "en": "Penalties. - Any person who violates any provision of this Act shall be penalized by imprisonment of not less than two (2) months but not more than one (1) year or fine of not less than Five thousand pesos (Php 5,000.00) nor more than Fifty thousand pesos (Php 50,000.00) or both upon the discretion of the court: Provided, however, That if the violator is a corporation, firm, partnership or association, the penalty shall be imposed upon the president or the manager or any officer thereof who knows or ought to have known the commission of the offense: Provided, finally, That in case of the offender is an alien engaged in business in the country, his licensed shall be revoked and shall be ipso facto deported after service of sentence without need of further proceedings."
+   }
+  },
+  {
+   "id": "PH-H7702-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "text": {
+    "en": "Appropriations. - The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act. for the year following its enactment and every year thereafter.\nFifty percent (50%) of the fees and charges collected as a result of the metrological work and calibration services shall be used by the Board and the ITDI in the enhancement of their capabilities and modernization of metrological and measurement standard activites. The remaining amount shall be remitted to National Treasury."
+   }
+  },
+  {
+   "id": "PH-H7702-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "text": {
+    "en": "Implementing Rules and Regulations (IRR). - The DOST with other concerned government departments, agencies and representatives mentioned in Section 5 hereof shall within ninety (90) days from the effectivity of this Act issue the necessary implementing rules and regulations of this Act."
+   }
+  },
+  {
+   "id": "PH-H7702-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "text": {
+    "en": "Separability Clause. - If for any reason, any provision of this Act is declared unconstitutional, the other sections or provisions hereof which are not hereby affected shall continue to be in full force and effect."
+   }
+  },
+  {
+   "id": "PH-H7702-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "text": {
+    "en": "Repealing Clause. - All laws, decrees, orders, rules and regulations or portions thereof inconsistent with this Act are hereby repealed or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H7702-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "text": {
+    "en": "Effectivity. - This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least two (2) newspapers of general circulation, whichever comes earlier."
+   }
+  }
+ ]
+}

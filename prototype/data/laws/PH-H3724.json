@@ -1,0 +1,64 @@
+{
+ "id": "PH-H3724",
+ "title": {
+  "zh": null,
+  "en": "An Act Punishing the Withholding of the Release of the Ten Percent Share of the Barrio in Real Estate Taxes, Amending for the Purpose Republic Act Numbered Twenty-Three Hundred Seventy, Otherwise Known as the Barrio Charter",
+  "orig": "An Act Punishing the Withholding of the Release of the Ten Percent Share of the Barrio in Real Estate Taxes, Amending for the Purpose Republic Act Numbered Twenty-Three Hundred Seventy, Otherwise Known as the Barrio Charter"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p52",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1966-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4709",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1053,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1966/ra_4709_1966.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1966/ra_4709_1966.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3724-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Republic Act Numbered Twenty-three hundred seventy, otherwise known as the Barrio Charter, is hereby amended by inserting between Section fifteen and sixteen thereof the following new section:\n\"Sec. 15-A. Release of the ten percent share in real estate taxes ministerial; Punishment for withholding.— The release of the ten percent share in the real estate taxes accruing and paid for to a barrio as herein provided is declared ministerial. Any officer who without legal ground shall withhold the release of such share to a barrio entitled to it on or before December thirty-one of each year and on or before June thirty of each year shall be punished with a fine of not less than fifty pesos nor more than two hundred pesos, or by imprisonment for not less than fifteen days and not more than two months, or both: Provided, However, That this law shall not be effective insofar as barrios where the barrio treasurers have not posted the necessary bond as required by existing laws.\""
+   }
+  },
+  {
+   "id": "PH-H3724-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
+   }
+  }
+ ]
+}

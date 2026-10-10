@@ -1,0 +1,64 @@
+{
+ "id": "PH-H4498",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Section Forty-Six of Commonwealth Act Numbered Six Hundred Thirteen, Otherwise Known as the Philippine Immigration Act, as Amended",
+  "orig": "An Act Amending Section Forty-Six of Commonwealth Act Numbered Six Hundred Thirteen, Otherwise Known as the Philippine Immigration Act, as Amended"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p64",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1969-06-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 5701",
+ "officialCode": null,
+ "topics": [
+  "administrative"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 2299,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1969/ra_5701_1969.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1969/ra_5701_1969.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4498-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section forty-six of Commonwealth Act Numbered Six hundred thirteen, known as the Philippine Immigration Act, as amended by Republic Acts Numbered. One hundred forty-four and Eight hundred twenty-seven, respectively, is further amended to read as follows:\n\"Section 46. Any individual who shall bring into or land in the Philippines or conceal, harbor, employ, or give comfort to any alien not duly admitted by any immigration officer or not lawfully entitled to enter or reside within the Philippines under the terms of the immigration laws, or attempts, conspires with, or aids another to commit any such act, and any alien who enters the Philippines without inspection and admission by the immigration officials, or obtains entry into the Philippines by willful, false, or misleading representation or willful concealment of a material fact, shall be guilty of an offense, and upon conviction thereof, shall be fined not less than five thousand pesos but not more than ten thousand pesos, imprisoned for not less than five years but not more than ten years, and deported if he is an alien. Dismissal by the employer before or after apprehension does not relieve the employer of the offense.\n\"If the individual who brings into or lands in the Philippines or conceals, harbors, employs, or gives comfort to any alien not duly admitted by any immigration officer or not lawfully entitled to enter or reside herein, or who attempts, conspires with or aids another to commit any such act, is the pilot, master, agent, owner, consignee, or any person in charge of the vessel or aircraft which brought the alien into the Philippines from any place outside thereof, the fine imposed under the first paragraph hereof shall constitute a lien against the vessel or aircraft and may be enforced in the same manner as fines are collected and enforced against vessels under the customs laws: Provided, however, That if the court shall in its discretion consider forfeiture to be justified by the circumstances of the case, it shall order, in lieu of the fine imposed, the forfeiture of the vessel or aircraft in favor of the Government, without prejudice to the imposition of the penalty of imprisonment provided in the preceding paragraph.\""
+   }
+  },
+  {
+   "id": "PH-H4498-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
+   }
+  }
+ ]
+}

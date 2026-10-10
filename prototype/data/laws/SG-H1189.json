@@ -1,0 +1,794 @@
+{
+ "id": "SG-H1189",
+ "title": {
+  "zh": null,
+  "en": "District Cooling Act 2001",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p15",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act DCA2001",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 47,
+ "chars": 44003,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/DCA2001?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 47 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1189-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the District Cooling Act 2001."
+   }
+  },
+  {
+   "id": "SG-H1189-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“air conditioning” means the process of treating air so as to control simultaneously its temperature, humidity, cleanliness and distribution to meet the requirements of the conditioned space;\n“apparatus” means any appliance or equipment including any machine, device, fitting or any accessory thereof used for the purpose of or in connection with the provision or use of district cooling services;\n“authorised officer” means any person authorised by the Authority under section 3(2);\n“Authority” means the Energy Market Authority of Singapore established under the Energy Market Authority of Singapore Act 2001;\n“connection point” means a point, situated in or in immediate proximity to the premises to be provided with district cooling services, where a district cooling system is connected to an installation;\n“consumer” means a person who contracts with a licensee for the provision of district cooling services;\n“coolant” means chilled water or any other medium used for the purpose of providing district cooling services;\n“cooling load” means the air conditioning load of the consumer’s installation;\n“district cooling pipe” means any pipe lying between the chiller or similar cooling unit of a district cooling system and a connection point;\n“district cooling service” means the sale of coolant for space cooling in a service area by a licensee operating a central plant capable of supplying coolant via pipe to more than one building in the service area;\n“district cooling system” means the whole of the facility used for or in connection with the provision of district cooling services comprising the district cooling plant, one or more chillers or similar cooling units, district cooling pipes and other apparatus including metering equipment but excluding the installation;\n“information memorandum” means a document to be submitted to the Authority disclosing the information stipulated in section 10(4)(c);\n“installation” means the whole of the consumer’s cooling system up to the connection point where it is connected to the district cooling system but does not include the metering equipment;\n“licence” means a licence granted under section 10;\n“licensee”, in relation to any service area, means a person who is authorised by a licence to carry out all or any of the functions of providing district cooling services to the service area;\n“metering equipment” means any apparatus owned by the licensee used in or in connection with a district cooling system for the purpose of determining the cooling load of an installation;\n“modifications” includes additions, alterations and omissions;\n“occupier” means the person in occupation of any premises and includes the person having the charge, management or control of the premises either on the person’s own account or as agent of another person;\n“premises” includes buildings, structures, streets, lands, waters, tenements, easements of any tenure, whether State land or not, whether open or enclosed, whether built on or not, whether public or private, and whether maintained under statutory authority or not;\n“public authority” means the Government or any statutory body;\n“public land” means land under the ownership or possession of any public authority;\n“public safety” means the obviation of danger to the general public, to public property and to roads, streets, railways, canals, docks, wharves, piers, bridges, gas works, water works and their appurtenances and telegraphic, telephonic and other electrical signalling lines;\n“regulations” means regulations made under this Act;\n“service area” means any area declared under section 7."
+   }
+  },
+  {
+   "id": "SG-H1189-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Authority to administer Act"
+   },
+   "text": {
+    "en": "3.—(1) The Authority is charged with the general administration of this Act and the exercise of the functions and duties imposed on the Authority by this Act.\n(2) The Authority may authorise any person to assist it in the exercise of its functions and duties under this Act, either generally or in a particular case.\n(3) Subject to the provisions of this Act, it is the function and duty of the Authority —\n(a)to exercise licensing and regulatory functions in respect of the provision of district cooling services;\n(b)to protect the interests of consumers in respect of —\n(i)the prices charged and other terms of supply of district cooling services;\n(ii)the quality of district cooling services; and\n(iii)the continuity and reliability of district cooling services; and\n(c)to issue or approve and from time to time review codes of practice and other standards of performance in connection with the provision of district cooling services.\n(4) Nothing in this section is to be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court."
+   }
+  },
+  {
+   "id": "SG-H1189-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Powers of Authority"
+   },
+   "text": {
+    "en": "4.—(1) Subject to the provisions of this Act, the Authority may carry on any activities that appear to the Authority to be advantageous, necessary or convenient for it to carry on for or in connection with the discharge of its functions and duties under this Act.\n(2) The Authority must furnish the Minister with such information with respect to its activities in such manner and at such times as the Minister may require."
+   }
+  },
+  {
+   "id": "SG-H1189-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Furnishing of documents and information to Authority"
+   },
+   "text": {
+    "en": "5.—(1) The Authority or any authorised officer may by notice require any person to furnish to the Authority or the authorised officer, within any period specified in the notice, all documents or information relating to all matters that may be required by the Authority for the purposes of this Act and as are within the knowledge of that person or in that person’s custody or under that person’s control.\n(2) Any person who, on being required by notice under subsection (1) to furnish any document or information, fails to comply with any requirement of the notice shall be guilty of an offence.\n(3) Any person who —\n(a)intentionally alters, suppresses or destroys any document which the person has been required by any notice under subsection (1) to furnish; or\n(b)in furnishing any estimate, return or other information required of the person under any notice under subsection (1), makes any statement which the person knows to be false in a material particular, or recklessly makes any statement which is false in a material particular,\nshall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H1189-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Power of Authority to enter upon any premises"
+   },
+   "text": {
+    "en": "6.—(1) The Authority may, for the purposes of this Act, by its employees, agents or contractors, enter at all reasonable hours (or at any time in the event of an emergency) into and upon any premises for the purpose of performing its duties authorised by this Act without being liable to pay any person any fee, charge or expense or being subject to any legal proceedings or molestation on account of the entry or of anything done in any part of the premises under this Act.\n(2) Except in the event of an emergency, such employee, agent or contractor may not enter upon any premises under this section unless —\n(a)not less than 6 hours’ notice of the intended entry has been given to the occupier; and\n(b)if required to do so, he or she has produced evidence of his or her authority."
+   }
+  },
+  {
+   "id": "SG-H1189-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 SERVICE AREAS FOR DISTRICT COOLING SERVICES"
+   },
+   "heading": {
+    "en": "Declaration of service areas"
+   },
+   "text": {
+    "en": "7.—(1) The Minister may, by notification in the Gazette, declare an area to be a service area where district cooling services are to be provided to the area, on any terms and conditions that the Minister thinks fit.\n(2) A notification under subsection (1) must state that a plan of the service area may be inspected at any place that is specified in the notification.\n(3) Unless exempted, the occupier of every premises within a service area requiring air conditioning must use the district cooling services provided by a licensee if the services are available within the service area.\n(4) An owner or occupier of any premises within a service area may apply in writing to the Authority for exemption from subsection (3) and the decision of the Authority is final.\n(5) A licensee must not refuse to provide district cooling services to any premises within the licensee’s service area.\n(6) Any person who contravenes subsection (3) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part of a day during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H1189-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 SERVICE AREAS FOR DISTRICT COOLING SERVICES"
+   },
+   "heading": {
+    "en": "Changes affecting service areas"
+   },
+   "text": {
+    "en": "8.—(1) The Minister may, by notification in the Gazette, revoke any declaration made under section 7(1) on any terms and conditions that the Minister thinks fit.\n(2) The Minister may modify any term or condition imposed under section 7."
+   }
+  },
+  {
+   "id": "SG-H1189-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 SERVICE AREAS FOR DISTRICT COOLING SERVICES"
+   },
+   "heading": {
+    "en": "Notification of changes"
+   },
+   "text": {
+    "en": "9.—(1) Before exercising any power under section 8, the Minister must give notice to any licensee in the service area concerned —\n(a)stating the Minister’s proposal to revoke any declaration made under section 7(1);\n(b)stating the Minister’s proposal to make any modification to a declaration made under section 7(1) in the manner as specified in the notice; and\n(c)specifying the time (not being less than 28 days from the date of service of notice on the licensee) within which written representations with respect to the matter in paragraph (a) or (b) may be made.\n(2) The decision of the Minister after consideration of any written representation made under subsection (1)(c) is final.\n(3) If no written representation is received by the Minister within the time specified under subsection (1)(c) or if any written representation made under that subsection is subsequently withdrawn, the Minister may forthwith carry out the proposed matters specified in the notice under subsection (1)."
+   }
+  },
+  {
+   "id": "SG-H1189-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 4 LICENSING OF DISTRICT COOLING SERVICES"
+   },
+   "heading": {
+    "en": "Licence authorising provision of district cooling services"
+   },
+   "text": {
+    "en": "10.—(1) A person must not provide district cooling services to any service area unless the person is authorised to do so by a licence.\n(2) Every licence granted or renewed under this section must be in such form and for such period and may contain such terms and conditions as the Authority may determine.\n(3) Without limiting subsection (2), a licence may be granted to any person, class of persons or a particular person, and may include conditions requiring the licensee —\n(a)to prepare itself to deal with any public emergency;\n(b)to pay to the Authority a fee for the grant of the licence or to pay to it periodic fees for the duration of the licence, or both, of any amount that may be determined by or under the regulations or licence;\n(c)to appoint technical and financial auditors approved by the Authority;\n(d)to comply with any direction given by the Authority;\n(e)to comply with the standards and requirements stipulated in any code of practice and any other standard of performance applicable to the licensee; and\n(f)to do or not to do things that are specified in the licence or are of a description so specified.\n(4) Conditions included in a licence may contain all or any of the following:\n(a)provisions for the conditions to cease to have effect or be modified at such times, in any manner and in any circumstances that may be specified in or determined by or under the conditions;\n(b)provisions regulating the prices to be charged by the licensee including —\n(i)the fixing of prices or the rate of increase or decrease in prices;\n(ii)the fixing of a maximum price or maximum rate of increase or minimum rate of decrease in the maximum price;\n(iii)the fixing of an average price or an average rate of increase or decrease in the average price;\n(iv)the setting of price policies or principles;\n(v)the setting of prices with reference to a general price index, the cost of production, a rate of return on assets employed or any other specified factors; and\n(vi)the setting of prices with reference to the quantity, location, period, temperature of coolant, or other specified factors relevant to the provision of district cooling services;\n(c)provisions for the periodic disclosure of information, by way of an information memorandum, including —\n(i)reports on the management of the district cooling services;\n(ii)reports on asset management of the district cooling system;\n(iii)reports on price comparison of the district cooling service with the conventional air conditioning systems;\n(iv)reports on performance comparison of the district cooling services with the conventional air conditioning systems;\n(v)security measures; and\n(vi)reports on financial matters and accounts of the licensee;\n(d)provisions requiring the licensee to provide a sinking fund for asset management.\n(5) Any provision included in a licence under subsection (4)(a) has effect in addition to the provision made by this Part with respect to the modification of the conditions of a licence.\n(6) Any fee required to be paid to the Authority under subsection (3)(b) may be recovered by it in any court of competent jurisdiction as if it were a simple contract debt.\n(7) The grant and renewal of licences under this section are at the Authority’s discretion.\n(8) Any person who is aggrieved by a refusal of the Authority to grant or renew a licence may, within 14 days of the refusal, appeal to the Minister whose decision is final."
+   }
+  },
+  {
+   "id": "SG-H1189-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 4 LICENSING OF DISTRICT COOLING SERVICES"
+   },
+   "heading": {
+    "en": "Restriction on transfer of licence"
+   },
+   "text": {
+    "en": "11. A licence is not transferable and any purported transfer of any licence is void."
+   }
+  },
+  {
+   "id": "SG-H1189-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 4 LICENSING OF DISTRICT COOLING SERVICES"
+   },
+   "heading": {
+    "en": "Modification of conditions of licence"
+   },
+   "text": {
+    "en": "12.—(1) Subject to this section, the Authority may modify the conditions of a licence.\n(2) Before making any modification to the conditions of a licence under this section, the Authority must give notice to the licensee concerned —\n(a)stating that it proposes to make the modification in the manner as specified in the notice; and\n(b)specifying the time (not being less than 28 days from the date of service of notice on the licensee) within which written representations with respect to the proposed modification may be made.\n(3) Upon receipt of any written representation under subsection (2)(b), the Authority must consider the representation and may —\n(a)reject the representation; or\n(b)withdraw or amend the proposed modification in accordance with the representation or otherwise,\nand, in either case, the Authority must thereupon issue a direction in writing to the licensee concerned requiring that effect be given to the proposed modification specified in the notice or to such modification as subsequently amended by the Authority.\n(4) Any licensee who is aggrieved by a direction of the Authority under subsection (3) may, within 14 days of the receipt by the licensee of the direction, appeal to the Minister whose decision is final.\n(5) The Authority must not enforce a direction given under subsection (3) —\n(a)during the period mentioned in subsection (4); and\n(b)whilst the appeal of any licensee is under consideration by the Minister.\n(6) If no written representation is received by the Authority within the time specified under subsection (2) or if any written representation made under that subsection is subsequently withdrawn, the modification takes effect as specified in the notice given under that subsection."
+   }
+  },
+  {
+   "id": "SG-H1189-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 4 LICENSING OF DISTRICT COOLING SERVICES"
+   },
+   "heading": {
+    "en": "Suspension or cancellation of licence"
+   },
+   "text": {
+    "en": "13.—(1) If the Authority is satisfied that —\n(a)a licensee is contravening, or is likely to contravene or has contravened, any of the conditions of its licence, any code of practice or other standard of performance applicable to the licensee, any of the provisions of this Act or any direction issued by the Authority to, or applicable to, that licensee;\n(b)a licensee has gone into compulsory or voluntary liquidation other than for the purpose of amalgamation or reconstruction;\n(c)a licensee has made any assignment to, or composition with, its creditors; or\n(d)the public interest or security of Singapore so requires,\nthe Authority may, by written notice and without any liability for compensation, do all or any of the following:\n(e)suspend or cancel its licence for any period that the Authority thinks fit;\n(f)require the licensee to replace its management with appointees approved by the Authority;\n(g)require the licensee to comply with any direction given by the Authority relating to or in connection with the district cooling system;\n(h)require the licensee to furnish performance bonds, banker’s guarantees and any other securities for such amounts and on such terms as the Authority sees fit;\n(i)impose a financial penalty not exceeding 10% of the annual turnover derived from the provisions of district cooling services by the licensee in Singapore as ascertained from its latest audited accounts.\n(2) Any licensee who is aggrieved by any decision of the Authority under subsection (1) may, within 14 days after the date of the notice in writing mentioned in that subsection, appeal to the Minister whose decision is final."
+   }
+  },
+  {
+   "id": "SG-H1189-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 4 LICENSING OF DISTRICT COOLING SERVICES"
+   },
+   "heading": {
+    "en": "Codes of practice"
+   },
+   "text": {
+    "en": "14.—(1) The Authority may issue or approve and from time to time modify codes of practice and other standards of performance in connection with the provision of district cooling services.\n(2) If any provision in any code of practice or other standard of performance issued or approved by the Authority is inconsistent with this Act, the provision has, to the extent of its inconsistency, no effect.\n(3) The Authority may, in any licence, exempt any licensee from any provision in any code of practice or other standard of performance issued or approved by the Authority generally or for any time that the Authority may specify.\n(4) Any code of practice issued or approved by the Authority is deemed not to be subsidiary legislation."
+   }
+  },
+  {
+   "id": "SG-H1189-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 4 LICENSING OF DISTRICT COOLING SERVICES"
+   },
+   "heading": {
+    "en": "Compliance with codes of practice"
+   },
+   "text": {
+    "en": "15. Every licensee must comply with the codes of practice and other standards of performance issued or approved under section 14(1) in connection with the provision of district cooling services."
+   }
+  },
+  {
+   "id": "SG-H1189-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 4 LICENSING OF DISTRICT COOLING SERVICES"
+   },
+   "heading": {
+    "en": "Directions affecting licensee"
+   },
+   "text": {
+    "en": "16. The Authority may give directions for or in relation to standards of performance and procedures to be observed by licensees and other persons for or in respect of the following:\n(a)the continuity and reliability of the provision of district cooling services to the consumers;\n(b)the security of the provision of district cooling services to the consumers;\n(c)the interests of public safety."
+   }
+  },
+  {
+   "id": "SG-H1189-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 LICENSING OF DISTRICT COOLING SERVICES"
+   },
+   "heading": {
+    "en": "Exclusion of liability for Authority"
+   },
+   "text": {
+    "en": "17. Despite the grant of any licence, the Authority shall not be liable in any circumstances for any loss, damage or cost sustained by any person as a result of any default, negligence, breach or wrongful act or omission of any licensee or agent, employee or independent contractor of the licensee."
+   }
+  },
+  {
+   "id": "SG-H1189-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 LICENSING OF DISTRICT COOLING SERVICES"
+   },
+   "heading": {
+    "en": "General duties of licensee"
+   },
+   "text": {
+    "en": "18.—(1) It is the duty of a licensee to —\n(a)maintain a reliable, efficient, co-ordinated and economical district cooling system in accordance with any codes of practice or other standards of performance that may be issued or approved by the Authority under section 14(1); and\n(b)ensure public safety in relation to the provision of district cooling services.\n(2) A licensee must not do or omit to do any act which will adversely affect, directly or indirectly, the reliability and stability of district cooling services provided to consumers.\n(3) A contravention of subsection (1) or (2) is to be dealt with in accordance with section 13."
+   }
+  },
+  {
+   "id": "SG-H1189-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 LICENSING OF DISTRICT COOLING SERVICES"
+   },
+   "heading": {
+    "en": "Price fixed by licensee"
+   },
+   "text": {
+    "en": "19.—(1) Subject to this section and section 18, the prices to be charged by a licensee and to be paid by consumers for the provision of district cooling services must be in accordance with any prices that may be fixed from time to time by the licensee in accordance with the conditions of its licence.\n(2) In fixing prices of district cooling services, a licensee must neither show undue preference as between persons similarly situated nor exercise undue discrimination as between persons similarly situated, having regard to the place and time of supply and the quantity supplied.\n(3) In addition to the prices as may be fixed by a licensee under subsection (1), the licensee must also review the prices as directed by the Authority from time to time."
+   }
+  },
+  {
+   "id": "SG-H1189-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 LICENSING OF DISTRICT COOLING SERVICES"
+   },
+   "heading": {
+    "en": "Keeping of register by Authority"
+   },
+   "text": {
+    "en": "20.—(1) The Authority must, at such premises and in such form as it may determine, maintain a register for the purposes of this Act.\n(2) The Authority must cause to be entered in the register the particulars of —\n(a)every licence granted to a particular person;\n(b)every modification or revocation of a licence; and\n(c)any other matter that the Authority thinks fit.\n(3) The register must be available for inspection by the public during such hours and subject to the payment of such fee as may be specified by the Authority."
+   }
+  },
+  {
+   "id": "SG-H1189-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 5 CONTROL OF LICENSEES"
+   },
+   "heading": {
+    "en": "Special administration order"
+   },
+   "text": {
+    "en": "21.—(1) A special administration order is an order of the Minister made in accordance with section 22 in relation to a licensee and directing that, during the period for which the order is in force, the affairs, business and property of the licensee is to be managed by any person appointed by the Minister for the achievement of the security and reliability of the provision of district cooling services.\n(2) Any person appointed by the Minister under subsection (1) is deemed an agent of the licensee and the licensee is responsible for that person’s acts or defaults.\n(3) The Minister may make regulations to give effect to this Part, including making provision for applying, omitting or modifying the provisions of Parts 7 and 9 of the Insolvency, Restructuring and Dissolution Act 2018 where a special administration order is made.\n[40/2018]\n[Act 37 of 2021 wef 29/01/2022]"
+   }
+  },
+  {
+   "id": "SG-H1189-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 5 CONTROL OF LICENSEES"
+   },
+   "heading": {
+    "en": "Special administration order made on application by Authority"
+   },
+   "text": {
+    "en": "22.—(1) If an application is made to the Minister by the Authority and the Minister is satisfied that any one or more of the grounds specified in subsection (2) is satisfied in relation to a licensee, the Minister may make any one or both of the following orders:\n(a)a special administration order in relation to that licensee;\n(b)an order requiring the licensee forthwith to take any action or to do or not to do any act or thing in relation to its business as the Minister may consider necessary.\n(2) The grounds mentioned in subsection (1) are that —\n(a)the licensee has failed to discharge or has not discharged to the Minister’s satisfaction the obligations imposed by the Authority on the licensee;\n(b)the licensee has had its licence suspended or cancelled under section 13; or\n(c)it is in the public interest.\n(3) Notice of any order under subsection (1) must be given forthwith by the Authority to such persons and in such manner as it thinks fit.\n(4) Where a licensee is a company —\n(a)the licensee may only be wound up voluntarily with the consent of the Authority;\n(b)no judicial manager may be appointed under Part 7 of the Insolvency, Restructuring and Dissolution Act 2018 in relation to the licensee;\n(c)no step may be taken by any person to enforce any security over the licensee’s property unless that person has served on the Authority not less than 14 days’ notice of that person’s intention to take that step; and\n(d)no application under section 210 of the Companies Act 1967 or section 71 of the Insolvency, Restructuring and Dissolution Act 2018 may be made by any person in relation to the licensee, unless that person has served 14 days’ written notice of that person’s intention to make the application on the Authority.\n[40/2018]\n(5) The Authority must be a party to —\n(a)any proceedings under the Insolvency, Restructuring and Dissolution Act 2018 or Part 11 of the Variable Capital Companies Act 2018 relating to the winding up of the affairs of a company that is a licensee; or\n[S 26/2022 wef 13/01/2022]\n(b)any proceedings relating to the making of an order under section 210 of the Companies Act 1967 or section 71 of the Insolvency, Restructuring and Dissolution Act 2018 in relation to a company that is a licensee.\n[40/2018]\n(6) Any decision of the Minister under subsection (1) is final."
+   }
+  },
+  {
+   "id": "SG-H1189-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 5 CONTROL OF LICENSEES"
+   },
+   "heading": {
+    "en": "Remuneration and expenses of appointed person"
+   },
+   "text": {
+    "en": "23. The Minister may at any time (whether or not the appointment of the person has terminated) fix the remuneration and expenses to be paid by a licensee to any person appointed by the Minister under section 21(1)."
+   }
+  },
+  {
+   "id": "SG-H1189-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 6 MATTERS RELATING TO LICENSEES"
+   },
+   "heading": {
+    "en": "Power to enter upon public land for purposes of district cooling system"
+   },
+   "text": {
+    "en": "24.—(1) For the purpose of providing any district cooling service to a service area, a licensee or any person authorised by the licensee may —\n(a)at any reasonable time, enter upon any public land within the service area;\n(b)subject to the approval of the relevant public authority, erect in or upon the public land such part of the district cooling system or excavate such trenches as may be necessary or proper for the purposes of providing the district cooling service;\n(c)carry out all necessary works in connection therewith; and\n(d)in the course thereof, fell or lop trees, remove vegetation and do all other things necessary for that purpose.\n(2) Where any work mentioned in subsection (1) interferes with any building, growing tree or crop, the licensee must pay compensation to any person interested for any damage or financial loss that may be caused thereby.\n(3) Where the public land is occupied under a licence for temporary occupation, the compensation must be paid to the occupant under the licence."
+   }
+  },
+  {
+   "id": "SG-H1189-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 6 MATTERS RELATING TO LICENSEES"
+   },
+   "heading": {
+    "en": "Power to enter upon other land for purposes of examination of district cooling system"
+   },
+   "text": {
+    "en": "25.—(1) Subject to this section, where it is necessary to do so for the purposes of providing district cooling services to any service area, a licensee or any person authorised by the licensee may —\n(a)at any reasonable time enter upon any land within the service area, other than public land, and may survey and take levels and do all other necessary acts preparatory to the provision of the service; and\n(b)lay, place or carry on, and erect in or upon any land within the service area, other than public land, such part of the district cooling system as may be necessary or proper for such purposes and may take such other action as may be necessary to render such part of the district cooling system safe and efficient,\npaying compensation to any person interested for any damage or financial loss that may be caused thereby.\n(2) Any compensation payable under subsection (1) may include an annual payment for land or other immovable property used for the purpose of the district cooling system.\n(3) A licensee does not acquire any right other than that of a user only in respect of any land or property under, over, along, across, in or upon which the licensee places any part of a district cooling system under this section.\n(4) A licensee is, in the exercise of its powers under this section, subject to the provisions of the Parks and Trees Act 2005.\n(5) Before entering upon any land for any of the purposes specified in subsection (1), a licensee must give at least 14 days’ notice stating as fully and as accurately as possible the nature and extent of the acts intended to be done.\n(6) The owner or occupier of the land may, within 14 days of the receipt of the notice mentioned in subsection (5), lodge a written objection with the Authority and the Authority must specify a date to inquire into such objection.\n(7) If no objection is lodged within the time specified in subsection (5), the licensee may forthwith enter upon the land and do all or any of the acts specified in the notice given under that subsection.\n(8) If an objection is lodged and is not withdrawn before the date fixed for the hearing thereof, the Authority must hold an inquiry, giving each party an opportunity to be heard.\n(9) Subject to subsection (10), upon the conclusion of the inquiry, the Authority may authorise, either unconditionally or subject to any terms, conditions and stipulations that it thinks fit, any of the acts mentioned in the notice given under subsection (5) to be carried out.\n(10) Any person aggrieved by any decision of the Authority under this section may, within 14 days of the conclusion of the inquiry, appeal to the Minister whose decision is final."
+   }
+  },
+  {
+   "id": "SG-H1189-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 6 MATTERS RELATING TO LICENSEES"
+   },
+   "heading": {
+    "en": "Savings of wayleave agreement"
+   },
+   "text": {
+    "en": "26. Nothing in section 25 —\n(a)affects the right of a licensee to enter into an agreement, commonly known as a wayleave agreement, with the owner or occupier of any land for the purpose of laying, placing, carrying or erecting any part of a district cooling system on the land;\n(b)affects any such wayleave agreement subsisting immediately before 1 April 2001; or\n(c)affects the right of a licensee to negotiate the use of land or facilities belonging to the State or any other person."
+   }
+  },
+  {
+   "id": "SG-H1189-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 6 MATTERS RELATING TO LICENSEES"
+   },
+   "heading": {
+    "en": "Inspection, maintenance and repair of district cooling system"
+   },
+   "text": {
+    "en": "27.—(1) Where it is necessary to do so for the purpose of inspecting, maintaining or repairing any part of a district cooling system or for the purpose of carrying out any function conferred on a licensee under this Act or under any licence granted under section 10, a licensee or any person authorised by the licensee may, after giving 7 days’ prior notice to the owner or occupier of any land —\n(a)at any reasonable time, enter upon any land or building within the service area, whether or not that part of the district cooling system has been laid, placed, carried or erected on, under, upon or over the land or building;\n(b)carry out all necessary inspection, maintenance or repair; and\n(c)in the course thereof, fell or lop trees, remove vegetation and do all other things necessary for the purpose,\ncausing as little damage as possible and paying compensation to any person adversely affected for any damage that may be caused thereby.\n(2) Where work is required to be carried out in the event of an operational emergency arising from any fault in a district cooling system, pipe or plant, no prior notice is required to be given to the owner or occupier of any land under subsection (1)."
+   }
+  },
+  {
+   "id": "SG-H1189-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 6 MATTERS RELATING TO LICENSEES"
+   },
+   "heading": {
+    "en": "Removal or alteration of district cooling system"
+   },
+   "text": {
+    "en": "28.—(1) Where any part of a district cooling system has been laid, placed, carried or erected on, under, upon or over any land, and any owner of the land desires to use the land in such manner as to render it necessary or convenient that that part of the district cooling system should be removed to another part of the land, or to a higher or lower level, or altered in form, the owner of the land may require the licensee to remove or alter that part of the district cooling system accordingly.\n(2) If the licensee fails to comply with the requisition, the owner of the land may apply in writing to the Authority and the Authority must, as soon as practicable, specify a date to inquire into the facts of the case.\n(3) Upon the conclusion of the inquiry, the Authority may require, subject to any terms, conditions and stipulations that it thinks fit, the removal or alteration of such part of the district cooling system.\n(4) Where any owner of any land desires to use the land for the purposes of development and the owner considers it necessary that any part of a district cooling system that has been laid, placed, carried or erected on the land should be removed from the land, the owner may request the licensee to remove that part from the land.\n(5) Where the licensee undertakes the work of removal pursuant to the owner’s request under subsection (4), the owner is liable to pay reasonable compensation to the licensee.\n(6) If the licensee does not intend to undertake the work of removal pursuant to the owner’s request under subsection (4), the licensee must, by written notice, inform the owner and the Authority of its intention and the Authority must specify a date not less than 14 days from the date of the notice to inquire into the facts of the case, and the decision of the Authority is binding on the licensee and the owner.\n(7) Where any part of a district cooling system has been laid, placed, carried or erected on, under, upon or over any land and that part of the district cooling system is no longer in use for district cooling purposes, the licensee may, on its own volition, or must, at the request of the owner of that land, remove that part of the district cooling system from that land within a reasonable time at its own cost and expense and compensate the owner for any damage done in the process of removing that part of the district cooling system.\n(8) Any person aggrieved by any decision of the Authority under this section may, within 14 days of the decision, appeal to the Minister whose decision is final.\n(9) This section does not apply where a contrary intention has been expressed by the owner of the land and the licensee by agreement.\n(10) In this section, “owner” includes any person having a leasehold interest with an unexpired term of not less than 7 years."
+   }
+  },
+  {
+   "id": "SG-H1189-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 6 MATTERS RELATING TO LICENSEES"
+   },
+   "heading": {
+    "en": "Provision of space or facility by developer or owner of building"
+   },
+   "text": {
+    "en": "29. Any developer or owner of a building who requires any district cooling services from a licensee must provide at the developer’s or owner’s expense such space and facility within or on the building and such access thereto as may be necessary for the operation of the district cooling system."
+   }
+  },
+  {
+   "id": "SG-H1189-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 6 MATTERS RELATING TO LICENSEES"
+   },
+   "heading": {
+    "en": "Apparatus not fixture and not subject to distress"
+   },
+   "text": {
+    "en": "30. Any apparatus owned or let for hire or lent to a consumer by a licensee and which has been affixed or fastened to any part of the consumer’s premises —\n(a)continues to remain the property of that licensee and is deemed not to be a fixture, and does not vest in the owner of the premises; and\n(b)shall not be subject to distress or be liable to be taken under or pursuant to an enforcement order of any court or any proceedings in bankruptcy or winding up proceedings against the party in whose possession it is.\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H1189-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 6 MATTERS RELATING TO LICENSEES"
+   },
+   "heading": {
+    "en": "Power to discontinue provision of district cooling services in emergency"
+   },
+   "text": {
+    "en": "31.—(1) Where a licensee is of the opinion that immediate action is necessary on the occurrence of any emergency, in the interests of public safety or in order to avoid undue interference with the efficient provision of district cooling services to other consumers or for any other reasons affecting the public interest, the licensee may forthwith discontinue the provision of district cooling services to any consumer.\n(2) The licensee must immediately after the discontinuance give written notice of the discontinuance to the Authority and the affected consumer, and must restore district cooling services to that consumer as soon as is reasonably practicable.\n(3) A licensee shall not be liable for any loss or damage caused to any person resulting from such discontinuance in the provision of district cooling services."
+   }
+  },
+  {
+   "id": "SG-H1189-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 7 OFFENCES"
+   },
+   "heading": {
+    "en": "Prohibition of unlicensed provision of district cooling services"
+   },
+   "text": {
+    "en": "32. Any person who provides district cooling services to any service area without a licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000."
+   }
+  },
+  {
+   "id": "SG-H1189-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 7 OFFENCES"
+   },
+   "heading": {
+    "en": "Falsely pretending to be employee of Authority or licensee"
+   },
+   "text": {
+    "en": "33. Any person who seeks to obtain entry to any premises by falsely pretending to be an employee of the Authority or a licensee shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H1189-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 7 OFFENCES"
+   },
+   "heading": {
+    "en": "Penalty for obstructing Authority in performance of duties"
+   },
+   "text": {
+    "en": "34. Any person who at any time hinders or obstructs any authorised officer or any employee, agent or contractor of the Authority in the performance and execution of his or her duty under this Act shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H1189-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 7 OFFENCES"
+   },
+   "heading": {
+    "en": "Making of false statement, etc."
+   },
+   "text": {
+    "en": "35.—(1) Any person who, when giving any information to the Authority or making any application under or for the purposes of any provision of this Act, makes any statement which the person knows to be false in a material particular, or who recklessly makes any statement which is false in a material particular, shall be guilty of an offence.\n(2) Any person who —\n(a)wilfully or fraudulently procures or attempts to procure for the person or for any other person any licence under this Act by making or producing or causing to be made or produced any false or fraudulent representation or declaration either verbally or in writing; or\n(b)knowingly aids or assists therein,\nshall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H1189-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 7 OFFENCES"
+   },
+   "heading": {
+    "en": "Jurisdiction of court"
+   },
+   "text": {
+    "en": "36. Despite any provision to the contrary in the Criminal Procedure Code 2010, a District Court and a Magistrate’s Court have jurisdiction to try any offence under this Act and have power to impose the full penalty or punishment in respect of any offence under this Act."
+   }
+  },
+  {
+   "id": "SG-H1189-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 7 OFFENCES"
+   },
+   "heading": {
+    "en": "Police officer or authorised officer may require evidence of identity in certain cases"
+   },
+   "text": {
+    "en": "37.—(1) Any police officer or authorised officer who reasonably believes that any person has committed an offence under this Act may require that person to furnish evidence of that person’s identity and the person must thereupon furnish such evidence of the person’s identity as may be required by the police officer or authorised officer.\n(2) The occupier of any premises must, if required by any police officer or authorised officer, furnish the occupier’s name and the name and address of the owner of the premises, if known.\n(3) Any person who —\n(a)refuses to furnish any information required of the person by any police officer or authorised officer under this section; or\n(b)wilfully misstates such information,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000."
+   }
+  },
+  {
+   "id": "SG-H1189-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 7 OFFENCES"
+   },
+   "heading": {
+    "en": "Duty to enquire before excavation"
+   },
+   "text": {
+    "en": "38. Any person who digs, bores, trenches, grades, excavates or breaks any ground with any mechanical equipment or explosive within the service area or allows that person’s employee or agent to do so without first ascertaining the location of any apparatus belonging to or under the management or control of a licensee that may be interfered with shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H1189-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 7 OFFENCES"
+   },
+   "heading": {
+    "en": "General penalties"
+   },
+   "text": {
+    "en": "39. Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H1189-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 7 OFFENCES"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "40.—(1) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $3,000.\n(2) The Authority may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.\n(3) All sums collected under this section must be paid to the Authority."
+   }
+  },
+  {
+   "id": "SG-H1189-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 7 OFFENCES"
+   },
+   "heading": {
+    "en": "Offences committed by bodies corporate, etc."
+   },
+   "text": {
+    "en": "41. Where —\n(a)an offence under this Act has been committed by a company, firm, society or other body of persons; and\n(b)that offence is proved to have been committed with the authority, consent or connivance of any person who, at the time of the commission of the offence, was a director, manager, secretary or other similar officer or a partner of the company, firm, society or other body of persons or was purporting to act in any such capacity,\nthat person shall also be guilty of that offence and shall be liable to be proceeded against and punished accordingly."
+   }
+  },
+  {
+   "id": "SG-H1189-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Appeal to Minister"
+   },
+   "text": {
+    "en": "42.—(1) Any licensee aggrieved by —\n(a)any decision of the Authority in the exercise of any discretion vested in it by or under this Act;\n(b)any direction given by the Authority under this Act; or\n(c)anything contained in any code of practice or other standard of performance issued or approved by the Authority,\nmay appeal to the Minister.\n(2) Unless otherwise provided, where an appeal is lodged under this section, the decision, direction or thing in the code of practice or other standard of performance appealed against must be complied with until the determination of the appeal.\n(3) The Minister may determine an appeal under this section by confirming, varying or reversing any decision or direction of the Authority or by amending any code of practice or other standard of performance issued or approved by the Authority.\n(4) The decision of the Minister in any appeal is final."
+   }
+  },
+  {
+   "id": "SG-H1189-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "General exemption"
+   },
+   "text": {
+    "en": "43. The Authority may, with the approval of the Minister, either permanently or for such period as it may think fit, exempt any person or premises or any class of persons or premises from all or any of the provisions of this Act."
+   }
+  },
+  {
+   "id": "SG-H1189-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "44.—(1) Any notice, order or document required or authorised by this Act to be given or served on any person, and any summons issued by a court in connection with any offence under this Act may be served on the person —\n(a)by delivering it to the person or to some adult member or employee of his or her family at his or her last known place of residence;\n(b)by leaving it at the person’s usual or last known place of residence or business in an envelope addressed to the person;\n(c)by affixing it to some conspicuous part of the person’s last known place of residence; or\n(d)by sending it by registered post addressed to the person at the person’s usual or last known place of residence or business,\nand where the person to be served is a body corporate —\n(e)by delivering it to the secretary or other like officer of the body corporate at its registered or principal office; or\n(f)by sending it by registered post addressed to the body corporate at its registered or principal office.\n(2) Any notice, order, document or summons sent by registered post to any person in accordance with subsection (1) is deemed to be duly served on the person at the time when the notice, order, document or summons would, in the ordinary course of post, be delivered and in proving service of the notice, order, document or summons, it is sufficient to prove that the envelope containing the same was properly addressed, stamped and posted by registered post."
+   }
+  },
+  {
+   "id": "SG-H1189-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "45.—(1) The Authority may, with the approval of the Minister, make regulations for carrying out the purposes of this Act and for prescribing any matter which is required under this Act to be prescribed.\n(2) The Authority may, with the approval of the Minister, in making any regulations under this section, provide that any contravention of any regulation shall be an offence and may prescribe punishment by a fine not exceeding $5,000 or with imprisonment for a term not exceeding 6 months or with both.\n(3) All such regulations must be presented to Parliament as soon as possible after publication in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H1189-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Incorporation by reference"
+   },
+   "text": {
+    "en": "46.—(1) The regulations made under this Act may apply, adopt or incorporate by reference —\n(a)wholly or partially;\n(b)with or without any addition, omission or substitution; or\n(c)specifically or by reference,\nany code of practice, standard, requirement, specification or other document that relates to any subject matter of any regulations made under this Act (called in this section the material), as in force or published at a particular time or as in force or published from time to time.\n(2) The material mentioned in subsection (1) may be material issued by the Authority, or material issued by any standards setting organisation, or other organisation or person.\n(3) Any material applied, adopted or incorporated by reference in the regulations under subsection (1) is to be treated for all purposes as forming part of the regulations.\n(4) Unless otherwise provided in the regulations, where the material is applied, adopted or incorporated by reference as in force or published from time to time, every amendment to the material that is made by the organisation or person that issued the material is to be treated as being a part of those regulations.\n(5) Where any material is applied, adopted or incorporated by reference in any provision of any regulations, the Authority must give notice in the Gazette stating —\n(a)that the material is applied, adopted or incorporated in the regulations, and the date from which the material is so applied, adopted or incorporated;\n(b)that the material is available for inspection, free of charge, and the place at which such material may be inspected;\n(c)that copies of the material can be purchased, and the place where the material can be purchased; and\n(d)if copies of the material are available in other ways, the details of where or how the material can be accessed or obtained.\n(6) In addition, the Authority must cause a copy of every material applied, adopted or incorporated by reference in the regulations under subsection (1), to be made available for inspection by members of the public without charge at any of its offices during normal office hours.\n(7) To avoid doubt, any part of the material that is not applied, adopted or incorporated by reference in the regulations under subsection (1) has no legislative effect.\n[Act 37 of 2021 wef 29/01/2022]"
+   }
+  },
+  {
+   "id": "SG-H1189-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Advisory guidelines"
+   },
+   "text": {
+    "en": "47.—(1) The Authority may issue advisory guidelines for the purposes of providing practical guidance or certainty in respect of any one or more requirements imposed by or under this Act.\n(2) The Authority may consult with such person as the Authority thinks fit for the purpose of preparing any advisory guidelines under subsection (1).\n(3) The advisory guidelines may —\n(a)be of general or specific application; or\n(b)specify that different provisions of the advisory guidelines apply to different circumstances, or are applicable to different persons or classes of persons.\n(4) The Authority may amend or revoke the whole or part of any advisory guidelines issued under subsection (1).\n(5) Advisory guidelines issued or amended under this section do not have any legislative effect.\n(6) Where, in any administrative proceedings commenced in connection with this Act, any provision in this Act to which any advisory guidelines issued under subsection (1) relate is alleged to have been contravened, then —\n(a)compliance with such guidelines; or\n(b)a contravention of or failure to comply with, whether by act or omission, such guidelines,\nmay be relied upon by any party to those proceedings as tending to negative or establish the contravention which is in question in those proceedings.\n[Act 37 of 2021 wef 29/01/2022]"
+   }
+  }
+ ]
+}

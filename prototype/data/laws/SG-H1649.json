@@ -1,0 +1,570 @@
+{
+ "id": "SG-H1649",
+ "title": {
+  "zh": null,
+  "en": "Government Securities (Debt Market and Investment) Regulations 2023",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p21",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation GSDMIA1992-S124-2023",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 33,
+ "chars": 26478,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/GSDMIA1992-S124-2023?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 33 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1649-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Government Securities (Debt Market and Investment) Regulations 2023 and come into operation on 15 March 2023."
+   }
+  },
+  {
+   "id": "SG-H1649-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“allotment day” means the date specified in a public notice as the day of allotment of an issue of non‑transferable Government securities;\n“applicant” means a person who makes an application;\n“application” means —\n(a)in Parts 2 and 3 — an application to purchase one or more Government securities or Treasury Bills issued after conducting an auction in accordance with Division 2 of Part 3 or by a quantity ceiling method in accordance with Division 3 of Part 3;\n(b)in Part 4 — an application to purchase one or more transferable Government securities issued by syndication in accordance with Part 4; and\n(c)in Part 6 — an application to purchase one or more Government securities or Treasury Bills issued after conducting an auction in accordance with Division 2 of Part 3 or by a quantity ceiling method in accordance with Division 3 of Part 3, or one or more transferable Government securities issued by syndication in accordance with Part 4, as the case may be;\n“auction day” means the date specified in a public notice as the auction day of an issue of transferable Government securities or Treasury Bills;\n“bid yield” means the yield expressed in an application;\n“cut-off time” has the meaning given by regulation 8;\n“maturity date” means a date on which any Government security or Treasury Bill is redeemable at par;\n“multiple pricing method” means the manner of allotting transferable Government securities or Treasury Bills set out in regulation 13;\n“non-transferable Government securities” means book‑entry Government securities that, under the terms of their issue, cannot be transferred or pledged except with the prior written approval of the Authority;\n“public notice” means a public notice under section 30(2) of the Act inviting the public to apply to take up an issue of Government securities or Treasury Bills specified in the public notice;\n“quantity ceiling method” means the manner of allotting non‑transferable Government securities set out in regulation 15;\n“relevant electronic service” means an internet‑based electronic service provided by the Authority for the purposes of these Regulations (even if there are other purposes), the terms of use of which are specified in agreements between the Authority and users of the service (which may take the form of a user guide);\n“transferable Government securities” means book‑entry Government securities that are not prohibited under the terms of their issue from being transferred or pledged;\n“uniform pricing method” means the manner of allotting transferable Government securities or Treasury Bills set out in regulation 14;\n“yield” means the rate of return on any Government security or Treasury Bill computed based on —\n(a)the price of the Government security or Treasury Bill;\n(b)the total interest payments (if applicable); and\n(c)the period commencing from the date of issue of the Government security or Treasury Bill to its maturity date."
+   }
+  },
+  {
+   "id": "SG-H1649-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Methods of issue"
+   },
+   "text": {
+    "en": "3. Government securities or Treasury Bills may be issued —\n(a)in the case of transferable Government securities —\n(i)after conducting an auction in accordance with Division 2 of Part 3, and Part 6; or\n(ii)by syndication in accordance with Parts 4 and 6;\n(b)in the case of non-transferable Government securities — by a quantity ceiling method in accordance with Division 3 of Part 3, and Part 6; or\n(c)in the case of Treasury Bills — after conducting an auction in accordance with Division 2 of Part 3, and Part 6."
+   }
+  },
+  {
+   "id": "SG-H1649-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "How to make application upon public notice"
+   },
+   "text": {
+    "en": "4.—(1) An application pursuant to a public notice has to be made as follows:\n(a)by using the relevant electronic service, subject to paragraph (3);\n(b)by an alternative method allowed by the Authority, either generally or specified in the public notice.\n(2) Each application by an alternative method mentioned in paragraph (1)(b) must be accompanied by an administrative fee of $10.70 (inclusive of the goods and services tax chargeable under the Goods and Services Tax Act 1993).\n(3) In the event of a malfunction or failure, or an imminent malfunction or failure, of the relevant electronic service in paragraph (1)(a), an application pursuant to a public notice has to be made in writing and according to the user guide for the relevant electronic service."
+   }
+  },
+  {
+   "id": "SG-H1649-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "Who can make application"
+   },
+   "text": {
+    "en": "5.—(1) An application pursuant to a public notice has to be made —\n(a)where an applicant is not a primary dealer — on behalf of the applicant by an agent who is a primary dealer; or\n(b)where an applicant is a primary dealer — by the primary dealer, which must be made distinct and separate from any application in sub‑paragraph (a).\n(2) However, a primary dealer is not eligible to apply for any non‑transferable Government securities pursuant to a public notice except as an agent on behalf of another who is not a primary dealer.\n(3) Where a primary dealer makes applications under paragraph (1)(a) on behalf of 2 or more other persons, the applications must be kept distinct from each other and submitted separately to the Authority.\n(4) Where a primary dealer makes both an application to purchase transferable Government securities or Treasury Bills under paragraph (1)(a) on behalf of another person and an application under paragraph (1)(b) to purchase those transferable Government securities or Treasury Bills for itself, the applications must be kept distinct and submitted separately to the Authority."
+   }
+  },
+  {
+   "id": "SG-H1649-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "Competitive and non-competitive applications for transferable Government securities or Treasury Bills"
+   },
+   "text": {
+    "en": "6.—(1) A person who intends to purchase transferable Government securities or Treasury Bills pursuant to a public notice may make an application to purchase those transferable Government securities or Treasury Bills on a competitive basis or on a non‑competitive basis in accordance with the terms of the issue of those transferable Government securities or Treasury Bills.\n(2) All applications pursuant to a public notice made on a competitive basis —\n(a)must be expressed as a bid yield not exceeding 2 decimal places;\n(b)must not be less than the minimum nominal amount of $1,000; and\n(c)must be made in multiples of $1,000."
+   }
+  },
+  {
+   "id": "SG-H1649-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "Application for non-transferable Government securities"
+   },
+   "text": {
+    "en": "7.—(1) A person who intends to purchase non‑transferable Government securities pursuant to a public notice may make an application to purchase those non‑transferable Government securities in accordance with the terms of the issue.\n(2) All applications to purchase non‑transferable Government securities pursuant to a public notice —\n(a)must not be less than the minimum nominal amount of $500; and\n(b)must be made in multiples of $500."
+   }
+  },
+  {
+   "id": "SG-H1649-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "Cut-off time for applications"
+   },
+   "text": {
+    "en": "8.—(1) All applications pursuant to a public notice must be made and received by the Authority not later than the time specified in that public notice (called in this regulation the cut‑off time) on the allotment day or auction day specified in the public notice.\n(2) The Authority must refuse to accept any application pursuant to a public notice that is received by the Authority after the cut‑off time.\n(3) The Authority may, in the event of —\n(a)any malfunction or failure, or an imminent malfunction or failure, of the relevant electronic service; or\n(b)any fire, serious violence, public disorder, epidemic or other incident obstructing, disrupting or seriously affecting the proper conduct of the auction,\nextend the date and time for making and accepting applications pursuant to that public notice, and any reference to the auction day or allotment day or cut‑off time in paragraph (1) or (2) is then a reference to that date or time as so extended."
+   }
+  },
+  {
+   "id": "SG-H1649-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "Cancellation of auction or allotment"
+   },
+   "text": {
+    "en": "9. The Authority may, at any time after the issue of a public notice, cancel the auction or allotment specified in the public notice, in which event the Authority must, as soon as possible, publish a notice to the general public of the cancellation in a manner as will secure adequate publicity for the fact of cancelling that auction or allotment."
+   }
+  },
+  {
+   "id": "SG-H1649-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "Variation in amount of Government securities or Treasury Bills to be allotted"
+   },
+   "text": {
+    "en": "10.—(1) Where the Authority has issued a public notice, it may at any time during the period starting on the date of issue of the public notice and ending at the cut‑off time of the auction day or allotment day specified in the public notice, vary the amount of Government securities or Treasury Bills specified in the public notice to be made available for allotment, in which event the Authority must, as soon as possible, publish a notice to the general public of the variation in a manner as will secure adequate publicity for the fact of the variation.\n(2) To avoid doubt, a variation under paragraph (1) does not affect the validity of any application to purchase Government securities or Treasury Bills made pursuant to the public notice and before the variation."
+   }
+  },
+  {
+   "id": "SG-H1649-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 ALLOTMENT OF GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "Limits on allotment"
+   },
+   "text": {
+    "en": "11. In respect of any issue of transferable Government securities or Treasury Bills —\n(a)each primary dealer applying on a non‑competitive basis to purchase the transferable Government securities or Treasury Bills on its own behalf must not be allotted more than 1% of the issue;\n(b)each person, other than a primary dealer, applying on a non‑competitive basis to purchase the transferable Government securities or Treasury Bills must not be allotted more than —\n(i)where the maturity date is one year or less — $1 million; or\n(ii)where the maturity date is more than one year — $2 million;\n(c)not more than 40% of the issue must be allotted by the Authority to applications made on a non‑competitive basis; and\n(d)despite any other provision in these Regulations —\n(i)each primary dealer must not be allotted more than 30% of the issue; and\n(ii)each person, other than a primary dealer, must not be allotted more than 15% of the issue."
+   }
+  },
+  {
+   "id": "SG-H1649-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 ALLOTMENT OF GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "Methods of allotment"
+   },
+   "text": {
+    "en": "12.—(1) The Authority may allot Government securities or Treasury Bills upon an application pursuant to a public notice —\n(a)in the case of transferable Government securities or Treasury Bills — under a multiple pricing method or a uniform pricing method; or\n(b)in the case of non-transferable Government securities — under a quantity ceiling method.\n(2) The method of allotment of any Government security or Treasury Bill must be specified in the public notice for the issue of that Government security or Treasury Bill."
+   }
+  },
+  {
+   "id": "SG-H1649-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 ALLOTMENT OF GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "Allotment under multiple pricing method"
+   },
+   "text": {
+    "en": "13.—(1) Subject to these Regulations, transferable Government securities or Treasury Bills that are to be allotted under a multiple pricing method must be allotted in accordance with paragraphs (2) to (9).\n(2) For every issue of transferable Government securities or Treasury Bills in a public notice, the transferable Government securities or Treasury Bills must be allotted to applications pursuant to the public notice made on a non‑competitive basis in priority to all applications pursuant to that public notice made on a competitive basis.\n(3) Where there are insufficient transferable Government securities or Treasury Bills in an issue to allot in full in accordance with paragraph (2), the transferable Government securities or Treasury Bills available for allotment have to be allotted to the applications made on a non‑competitive basis rateably in proportion to the amounts applied for by the respective applicants.\n(4) For any issue of transferable Government securities or Treasury Bills in a public notice, after allotment in accordance with paragraph (2) or (3), the balance of transferable Government securities or Treasury Bills must be allotted to applications pursuant to the public notice made on a competitive basis, in ascending order, starting from the application expressing the lowest bid yield to the application expressing the highest bid yield.\n(5) Where there are insufficient transferable Government securities or Treasury Bills in an issue to allot in full in accordance with paragraph (4), the transferable Government securities or Treasury Bills available must be allotted as follows:\n(a)allot the amount available for allotment to the applications pursuant to the public notice made on a competitive basis, subject to sub‑paragraphs (b) and (c);\n(b)allot according to the respective amounts in each application pursuant to the public notice made on a competitive basis, subject to sub‑paragraph (c);\n(c)where 2 or more applications made on a competitive basis express the same bid yield, allot rateably in proportion to the amounts applied for by the respective applicants.\n(6) The yield for each successful application made on a non‑competitive basis is equal to the weighted average of the bid yields in the successful applications made on a competitive basis.\n(7) The yield for each successful application made on a competitive basis is the bid yield in the application.\n(8) Where any application for Treasury Bills issued in a public notice may only be made on a competitive basis in accordance with the terms of the issue —\n(a)paragraphs (2) and (3) do not apply; and\n(b)the Treasury Bills must be allotted in accordance with paragraphs (4) and (5).\n(9) For the purpose of paragraph (8), the reference in paragraph (4) to the balance of Treasury Bills is a reference to the Treasury Bills to be issued as specified in the public notice."
+   }
+  },
+  {
+   "id": "SG-H1649-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 ALLOTMENT OF GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "Allotment under uniform pricing method"
+   },
+   "text": {
+    "en": "14.—(1) Subject to these Regulations, transferable Government securities or Treasury Bills that are to be allotted under a uniform pricing method must be allotted in accordance with paragraphs (2) to (8).\n(2) For every issue of transferable Government securities or Treasury Bills in a public notice, the transferable Government securities or Treasury Bills must be allotted to applications pursuant to the public notice made on a non‑competitive basis in priority to all applications pursuant to that public notice made on a competitive basis.\n(3) Where there are insufficient transferable Government securities or Treasury Bills in an issue to allot in full in accordance with paragraph (2), the transferable Government securities or Treasury Bills available for allotment have to be allotted to the applications made on a non‑competitive basis rateably in proportion to the amounts applied for by the respective applicants.\n(4) For any issue of transferable Government securities or Treasury Bills in a public notice, after allotment in accordance with paragraph (2) or (3), the balance of transferable Government securities or Treasury Bills must be allotted to applications pursuant to the public notice made on a competitive basis, in ascending order, starting from the application expressing the lowest bid yield to the application expressing the highest bid yield.\n(5) Where there are insufficient transferable Government securities or Treasury Bills in an issue to allot in full in accordance with paragraph (4), the transferable Government securities or Treasury Bills available must be allotted as follows:\n(a)allot the amount available for allotment to the applications pursuant to the public notice made on a competitive basis, subject to sub‑paragraphs (b) and (c);\n(b)allot according to the respective amounts in each application pursuant to the public notice made on a competitive basis, subject to sub‑paragraph (c);\n(c)where 2 or more applications made on a competitive basis express the same bid yield, allot rateably in proportion to the amounts applied for by the respective applicants.\n(6) The yield for each successful application pursuant to a public notice, whether made on a competitive or non‑competitive basis, is the highest bid yield in any successful application pursuant to that public notice made on a competitive basis.\n(7) Where any application for Treasury Bills issued in a public notice may only be made on a competitive basis in accordance with the terms of the issue —\n(a)paragraphs (2) and (3) do not apply; and\n(b)the Treasury Bills must be allotted in accordance with paragraphs (4) and (5).\n(8) For the purpose of paragraph (7), the reference in paragraph (4) to the balance of Treasury Bills is a reference to the Treasury Bills to be issued as specified in the public notice."
+   }
+  },
+  {
+   "id": "SG-H1649-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 ALLOTMENT OF GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "Allotment under quantity ceiling method"
+   },
+   "text": {
+    "en": "15.—(1) Non-transferable Government securities must be allotted under a quantity ceiling method in accordance with paragraphs (2), (3) and (4).\n(2) Where the proposed value of an issue of non‑transferable Government securities is equal to or greater than the total value of all applications for that issue —\n(a)all applicants must be allotted the full number of non‑transferable Government securities that they have applied for; and\n(b)the total value of the non-transferable Government securities to be issued must be equal to the total value of all applications for the issue.\n(3) Where the proposed value of an issue is less than the total value of all applications for that issue, and the proposed value is insufficient to fulfil the first $500 in value of each applicant’s application, equal proportions must be randomly allotted among all outstanding applications.\n(4) Where the proposed value of an issue is less than the total value of all applications for that issue, and the proposed value is sufficient to fulfil the first $500 in value of each applicant’s application, equal proportions must be allotted among the first $500 in value of each application, and where the balance of the proposed value —\n(a)is insufficient to fulfil the next $500 in value of each applicant’s outstanding application, equal proportions must be randomly allotted among all outstanding applications; or\n(b)is sufficient to fulfil the next $500 in value of each applicant’s outstanding application (called the relevant value), equal proportions must be allotted among the relevant value of each outstanding application and so on, until the balance of the proposed value is insufficient to fulfil all outstanding applications, in which case equal proportions must be randomly allotted among all outstanding applications.\n(5) For the purpose of paragraphs (2), (3) and (4), where an applicant has made more than one application to purchase non‑transferable Government securities pursuant to an issue, the value of each of the application must be aggregated in determining the value of the applicant’s application in relation to that issue.\n(6) In this regulation —\n“equal proportions” means non-transferable Government securities in equal proportions of $500 in value;\n“proposed value”, in relation to an issue, means the proposed maximum value of the non‑transferable Government securities to be issued, as announced by the Authority on the Internet or in a local English language daily newspaper;\n“randomly allotted”, in relation to an issue, means the random allotment of non‑transferable Government securities among all outstanding applications until all non‑transferable Government securities for that issue have been allotted."
+   }
+  },
+  {
+   "id": "SG-H1649-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 ALLOTMENT OF GOVERNMENT SECURITIES AND TREASURY BILLS"
+   },
+   "heading": {
+    "en": "Notification of successful application"
+   },
+   "text": {
+    "en": "16.—(1) The Authority must notify every successful applicant who is a primary dealer.\n(2) Where a successful applicant is not a primary dealer, the Authority must give the primary dealer which had submitted the application on behalf of the successful applicant, a notification specifying the particulars of allotment of Government securities or Treasury Bills to the successful applicant.\n(3) On receipt of a notification under paragraph (2), the primary dealer concerned must without delay inform the successful applicant of the particulars specified in the notification."
+   }
+  },
+  {
+   "id": "SG-H1649-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 ISSUANCE OF TRANSFERABLE GOVERNMENT SECURITIES BY SYNDICATION"
+   },
+   "heading": {
+    "en": "Appointment of syndicate members, etc."
+   },
+   "text": {
+    "en": "17. For any transferable Government securities which a public notice specifies are to be issued under a syndication method, the Authority has to —\n(a)appoint members of the syndicate for that issue, consisting of primary dealers or other financial institutions or a combination thereof; and\n(b)where applicable, identify the lead manager or lead managers from among the syndicate mentioned in paragraph (a)."
+   }
+  },
+  {
+   "id": "SG-H1649-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 ISSUANCE OF TRANSFERABLE GOVERNMENT SECURITIES BY SYNDICATION"
+   },
+   "heading": {
+    "en": "Issue by syndication must be expressly stated in public notice"
+   },
+   "text": {
+    "en": "18. For any transferable Government securities that are to be issued under a syndication method, the public notice relating to the issue of those Government securities must —\n(a)expressly specify that the issue is by syndication;\n(b)state the indicative amount of the issue, which may be expressed in the form of a range;\n(c)describe the procedure and timelines for making applications to purchase that issue of transferable Government securities;\n(d)state when the amount and price of, and yield for, that issue of transferable Government securities, are expected to be determined;\n(e)state whether the Government, or the Authority acting as agent of the Government, reserves the right to set the final issuance amount and allotment of that issue of transferable Government securities;\n(f)specify the members of the syndicate for that issue, consisting either of primary dealers or other financial institutions or a combination thereof; and\n(g)where applicable, identify the lead manager or lead managers from among the syndicate mentioned in paragraph (f)."
+   }
+  },
+  {
+   "id": "SG-H1649-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 ISSUANCE OF TRANSFERABLE GOVERNMENT SECURITIES BY SYNDICATION"
+   },
+   "heading": {
+    "en": "Cancellation of syndicated issue"
+   },
+   "text": {
+    "en": "19. The Authority may, at any time after the issue of a public notice for any transferable Government securities that are to be issued under a syndication method, cancel the syndicated issue in the public notice, in which event the Authority must, as soon as possible, publish a notice to the general public of the cancellation in a manner as will secure adequate publicity for the fact of cancelling that syndicated issue."
+   }
+  },
+  {
+   "id": "SG-H1649-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 ISSUANCE OF TRANSFERABLE GOVERNMENT SECURITIES BY SYNDICATION"
+   },
+   "heading": {
+    "en": "Determination of yield under syndication method"
+   },
+   "text": {
+    "en": "20. The yield for each successful application pursuant to a public notice for any transferable Government securities that are to be issued under a syndication method, is the highest bid yield in any successful application pursuant to that public notice."
+   }
+  },
+  {
+   "id": "SG-H1649-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 ISSUANCE OF TRANSFERABLE GOVERNMENT SECURITIES BY SYNDICATION"
+   },
+   "heading": {
+    "en": "Publication of syndication results"
+   },
+   "text": {
+    "en": "21. After the final issuance amount, the price, the yield and the allotment have been determined in respect of an issue of transferable Government securities that are to be allotted under a syndication method, the Authority has to, without delay, publish a notice to the general public of the final price and yield in a manner as will secure adequate publicity for the price and yield."
+   }
+  },
+  {
+   "id": "SG-H1649-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 5 INTEREST AND REDEMPTION"
+   },
+   "heading": {
+    "en": "Interest"
+   },
+   "text": {
+    "en": "22.—(1) Subject to regulation 30, the interest rate of Government securities allotted —\n(a)under Part 3; or\n(b)under a syndication method in Part 4,\nmust be determined in accordance with paragraphs (2) and (3).\n(2) The interest rate of any Government security in an issue of Government securities must be as stated in the public notice for that issue.\n(3) Where no interest rate is stated in the public notice for an issue of Government securities, the interest rate of any Government security in that issue of Government securities is —\n(a)equal to —\n(i)the weighted average of the bid yields expressed in all applications made on a competitive basis that were successful, rounded down to the nearest 0.125%, where the Government securities are allotted under a multiple pricing method; or\n(ii)the highest bid yield expressed in any application made on a competitive basis that is successful, rounded down to the nearest 0.125%, where the Government securities are allotted under a uniform pricing method or syndication method; or\n(b)0.125%,\nwhichever is the higher."
+   }
+  },
+  {
+   "id": "SG-H1649-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 5 INTEREST AND REDEMPTION"
+   },
+   "heading": {
+    "en": "Interest payments"
+   },
+   "text": {
+    "en": "23. The interest payments on any issue of Government securities must be made half‑yearly on the date or dates that are specified in the public notice relating to that issue."
+   }
+  },
+  {
+   "id": "SG-H1649-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 5 INTEREST AND REDEMPTION"
+   },
+   "heading": {
+    "en": "Interest payments for book-entry Government securities"
+   },
+   "text": {
+    "en": "24.—(1) Interest on any book-entry Government security must be credited into the appropriate account for book‑entry Government securities maintained by the Authority —\n(a)for the owner of such security; or\n(b)for the depositary institution which holds the book‑entry Government security for the account of the owner.\n(2) Where interest on any book-entry Government security is credited into an account of book‑entry Government securities maintained by the Authority for a depositary institution which holds the book‑entry Government security for the account of the owner thereof, the depositary institution must immediately credit the interest into the appropriate account of the owner of the book‑entry Government security maintained at that institution."
+   }
+  },
+  {
+   "id": "SG-H1649-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 5 INTEREST AND REDEMPTION"
+   },
+   "heading": {
+    "en": "Redemption"
+   },
+   "text": {
+    "en": "25.—(1) The maturity date of any Government security or Treasury Bill is the approved maturity date as is specified in the public notice relating to the issue of such Government security or Treasury Bill as the date on which the Government security or Treasury Bill is redeemable at par.\n(2) In this regulation, “approved” means approved by the Minister."
+   }
+  },
+  {
+   "id": "SG-H1649-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 6 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Correction or resubmission of application"
+   },
+   "text": {
+    "en": "26. If the Authority considers it necessary to do so, the Authority may, at any time after the issue of a public notice, without assigning any reason —\n(a)accept or refuse any request to correct or resubmit any application made pursuant to the public notice; or\n(b)require any application made pursuant to the public notice to be corrected or resubmitted."
+   }
+  },
+  {
+   "id": "SG-H1649-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 6 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Inadequate applications"
+   },
+   "text": {
+    "en": "27. Government securities or Treasury Bills must not be allotted to any application pursuant to a public notice for an amount of —\n(a)transferable Government securities or Treasury Bills which are less than the minimum nominal amount of $1,000; or\n(b)non-transferable Government securities which are less than the minimum nominal amount of $500."
+   }
+  },
+  {
+   "id": "SG-H1649-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 6 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Payment for allotted Government securities or Treasury Bills"
+   },
+   "text": {
+    "en": "28.—(1) Any payment for Government securities or Treasury Bills allotted under Part 3 or 4 has to be made by way of a pre‑authorised funds transfer to the Authority from the account of the applicant’s settlement bank specified in the application, in accordance with the terms of authorisation provided to the Authority by the settlement bank.\n(2) The payment mentioned in paragraph (1) must be made on the date specified in the public notice relating to the relevant issue of the Government securities or Treasury Bills."
+   }
+  },
+  {
+   "id": "SG-H1649-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 6 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Transfers"
+   },
+   "text": {
+    "en": "29. Transferable Government securities or Treasury Bills maintained in any account with the Authority may be transferred to another account maintained by the Authority through any means (including a computer-based communications system) that the Authority may provide from time to time."
+   }
+  },
+  {
+   "id": "SG-H1649-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 6 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Re-opened issues of transferable Government securities"
+   },
+   "text": {
+    "en": "30. After the allotment of transferable Government securities in any issue of such securities specified in a public notice, the Authority may subsequently issue transferable Government securities in excess of the amount as stated in the public notice on the same terms and conditions as to redemption and interest as the issue."
+   }
+  },
+  {
+   "id": "SG-H1649-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 6 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Private placements"
+   },
+   "text": {
+    "en": "31.—(1) These Regulations do not apply to any issue of Government securities which is not offered to the public for purchase by way of a public notice.\n(2) The manner, terms and conditions which the Government securities mentioned in paragraph (1) may be issued must be as determined by the Minister."
+   }
+  },
+  {
+   "id": "SG-H1649-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 6 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Revocation"
+   },
+   "text": {
+    "en": "32. Revoke the Government Securities Regulations (Rg 1)."
+   }
+  },
+  {
+   "id": "SG-H1649-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 6 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Saving and transitional provisions"
+   },
+   "text": {
+    "en": "33.—(1) Despite these Regulations, the Government Securities Regulations as in force immediately before 15 March 2023 continue to apply to any stock or bearer bonds issued in accordance with those Regulations before that date and not redeemed immediately before that date.\n(2) Regulations 25 and 29 apply to all Treasury Bills that were issued before 15 March 2023."
+   }
+  }
+ ]
+}

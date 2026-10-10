@@ -1,0 +1,954 @@
+{
+ "id": "SG-H2771",
+ "title": {
+  "zh": null,
+  "en": "Insolvency, Restructuring and Dissolution (Court-Ordered Winding Up) Regulations 2020",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p35",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation IRDA2018-S607-2020",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 57,
+ "chars": 36987,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/IRDA2018-S607-2020?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 57 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2771-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Insolvency, Restructuring and Dissolution (Court‑Ordered Winding Up) Regulations 2020 and come into operation on 30 July 2020."
+   }
+  },
+  {
+   "id": "SG-H2771-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Application of these Regulations"
+   },
+   "text": {
+    "en": "2.—(1) These Regulations apply to —\n(a)any company against which an application for an order of the Court for the winding up of the company has been made under section 124(1) of the Act;\n(b)any company that is wound up under an order of the Court under section 125(1) of the Act; or\n(c)any unregistered company that is wound up under Division 1 of Part 10 of the Act, read with Parts 8 and 9 and section 246(1) of the Act.\n(2) In this regulation, “unregistered company” has the meaning given by section 245(1) of the Act."
+   }
+  },
+  {
+   "id": "SG-H2771-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definition"
+   },
+   "text": {
+    "en": "3. In these Regulations, “statement of affairs” means a statement as to the affairs of a company submitted to the Official Receiver under section 141(1) of the Act."
+   }
+  },
+  {
+   "id": "SG-H2771-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Forms"
+   },
+   "text": {
+    "en": "4. The Forms to be used for the purposes of these Regulations are those set out on the Internet website of the Ministry of Law at https://www.mlaw.gov.sg, and any reference in these Regulations to a numbered form (where the number may include alphanumeric characters) is to be construed as a reference to the current version of the form bearing the corresponding number that is displayed at that website."
+   }
+  },
+  {
+   "id": "SG-H2771-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Proof of debts"
+   },
+   "text": {
+    "en": "5. In a winding up by the Court, every creditor must prove the creditor’s debt, unless the Court in any particular winding up gives directions that any creditor or class of creditors is to be admitted without proof."
+   }
+  },
+  {
+   "id": "SG-H2771-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Mode of proof"
+   },
+   "text": {
+    "en": "6. A debt must be proved by filing with the liquidator by any of the following means a declaration verifying the debt:\n(a)delivery by electronic means in accordance with section 442 of the Act;\n(b)sending through the post;\n(c)any other means agreed between the liquidator and the creditor of the company filing the proof."
+   }
+  },
+  {
+   "id": "SG-H2771-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Verification of proof"
+   },
+   "text": {
+    "en": "7. A declaration proving a debt may be made by the creditor, or by any person authorised by or on behalf of the creditor."
+   }
+  },
+  {
+   "id": "SG-H2771-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Contents of proof"
+   },
+   "text": {
+    "en": "8.—(1) A declaration proving a debt must be in accordance with Form CWU‑1.\n(2) A proof of debt must state the following matters:\n(a)the creditor’s name and address (including an electronic mail address, if available);\n(b)the total amount of the creditor’s claim as at the date of commencement of the winding up;\n(c)whether the amount claimed includes interest within the meaning of section 222(4) of the Act and, if so —\n(i)the amount of interest that has accrued from the date of commencement of the winding up;\n(ii)the rate of interest; and\n(iii)the period for which the interest was calculated;\n(d)whether or not the amount claimed includes goods and services tax and, if so, the amount of the tax;\n(e)the particulars of how and when the debt was incurred by the company;\n(f)the particulars of any security held by the creditor, the date on which the security was given and the value at which the creditor assesses the security;\n(g)the name, address and authority of the person filing the proof, if that person is not the creditor.\n(3) The documents substantiating the claim specified in the proof of debt must accompany the proof of debt."
+   }
+  },
+  {
+   "id": "SG-H2771-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Costs of proof"
+   },
+   "text": {
+    "en": "9. A creditor must bear the costs of proving the creditor’s debt unless the Court otherwise orders."
+   }
+  },
+  {
+   "id": "SG-H2771-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Discount"
+   },
+   "text": {
+    "en": "10.—(1) Subject to paragraph (2), a creditor proving the creditor’s debt must deduct from the claim all trade and other discounts that would have been available to the company but for the company’s liquidation.\n(2) The creditor is not required to deduct any discount (not exceeding 5% on the net amount of the creditor’s claim) for immediate, early or cash settlement of the creditor’s claim."
+   }
+  },
+  {
+   "id": "SG-H2771-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Periodical payments"
+   },
+   "text": {
+    "en": "11.—(1) Subject to paragraph (2), in a case where any rent or other payment falls due on a day of any stated period, and the winding up order is made on a day other than that day, any person entitled to the rent or payment may prove for a proportionate part of the rent or payment up to (and including) the date of the winding up order, as if the rent or payment grew due from day to day.\n(2) If the liquidator or company that is being wound up remains in occupation of premises demised to the company, nothing in these Regulations affects the right of the landlord of the premises to claim payment from the liquidator or company, of rent during the period of the liquidator’s or company’s occupation."
+   }
+  },
+  {
+   "id": "SG-H2771-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Prescribed rate of interest under section 222 of Act"
+   },
+   "text": {
+    "en": "12. For the purposes of section 222(1) and (2)(b)(ii) of the Act, in an insolvent winding up of a company, the prescribed rate of interest allowed on a debt is the rate of interest on judgment debts provided for under the Rules of Court 2021 (G.N. No. S 914/2021) for the time being in force.\n[S 266/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H2771-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Proof for debt payable at future time"
+   },
+   "text": {
+    "en": "13.—(1) A creditor may prove for a debt not payable on the date of the winding up order, as if it were so payable, and may receive dividends rateably with the other creditors, deducting only from the dividend a rebate of interest at the rate of interest on judgment debts provided for under the Rules of Court 2021 for the time being in force.\n[S 266/2022 wef 01/04/2022]\n(2) The rebate of interest is to be computed from the date of the declaration of a dividend to the date on which the debt would have become payable according to the terms on which it was contracted."
+   }
+  },
+  {
+   "id": "SG-H2771-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Proof of debt filed by licensed moneylenders"
+   },
+   "text": {
+    "en": "14.—(1) A moneylender licensed under the Moneylenders Act (Cap. 188) (called in this regulation a licensed moneylender) filing a proof of debt in respect of a loan made by the licensed moneylender as a licensed moneylender must, within 14 days after the date of filing of the proof of debt, file a copy of the following documents in respect of the loan:\n(a)the note of the contract for the loan, mentioned in section 20(1)(a) of that Act;\n(b)the statement of account mentioned in section 21(1) of that Act, that was last supplied to the company before the date of the order of the Court to wind up the company.\n(2) A reference in paragraph (1) to a licensed moneylender filing a proof of debt is a reference to a person who, at the time the loan mentioned in that paragraph is granted, is a licensed moneylender, whether or not the person continues to be so licensed at the time the proof of debt is filed."
+   }
+  },
+  {
+   "id": "SG-H2771-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Workmen’s wages"
+   },
+   "text": {
+    "en": "15.—(1) In a case where it appears that there are numerous claims for wages by the workmen or other persons employed by the company, it is sufficient if one proof in accordance with Form CWU‑1 for all the claims is made either by a foreman or by some other person on behalf of those creditors.\n(2) The proof must be accompanied by a schedule (which forms part of the proof) that sets out the following information relating to each of the creditors:\n(a)his or her name;\n(b)his or her personal identification number or passport number;\n(c)his or her address;\n(d)the total amount owed to him or her, and the amount of each component of wages or salary owed to him or her.\n(3) Any proof made in compliance with this regulation has the same effect as if separate proofs had been made by each of the workmen or other persons employed by the company."
+   }
+  },
+  {
+   "id": "SG-H2771-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 2 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Production of bills of exchange and promissory notes"
+   },
+   "text": {
+    "en": "16. Where a creditor seeks to prove in respect of a bill of exchange, promissory note or other negotiable instrument or security on which the company is liable, the bill of exchange, promissory note, instrument or security must, subject to any order of the Court made to the contrary, be produced to the liquidator and be marked by the liquidator before the proof may be admitted either for voting or for any purpose."
+   }
+  },
+  {
+   "id": "SG-H2771-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 ADMISSION AND REJECTION OF PROOFS"
+   },
+   "heading": {
+    "en": "Examination of proof"
+   },
+   "text": {
+    "en": "17.—(1) The liquidator must examine every proof of debt filed with the liquidator and the grounds of the debt, and must in writing admit or reject the proof in whole or in part, or require further evidence in support of the proof.\n(2) If the liquidator rejects (whether in whole or in part) a proof filed by a creditor, the liquidator must state in writing in accordance with Form CWU‑2 to the creditor the grounds of the rejection."
+   }
+  },
+  {
+   "id": "SG-H2771-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 ADMISSION AND REJECTION OF PROOFS"
+   },
+   "heading": {
+    "en": "Oaths"
+   },
+   "text": {
+    "en": "18. For the purpose of any of the liquidator’s duties in relation to proofs of debt, the liquidator may administer oaths and take affidavits."
+   }
+  },
+  {
+   "id": "SG-H2771-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 ADMISSION AND REJECTION OF PROOFS"
+   },
+   "heading": {
+    "en": "Creditor’s proof that has been admitted"
+   },
+   "text": {
+    "en": "19. Where a creditor’s proof has been admitted (whether in whole or in part), the notice of dividend mentioned in regulation 23(6) is sufficient notification to the creditor of the admission."
+   }
+  },
+  {
+   "id": "SG-H2771-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 DISCLAIMER"
+   },
+   "heading": {
+    "en": "Notice of disclaimer under section 230 of Act"
+   },
+   "text": {
+    "en": "20.—(1) For the purposes of section 230(1) of the Act, the notice to be given by a liquidator to disclaim onerous property (called in this Part the notice of disclaimer) must be in Form CWU‑3.\n(2) The liquidator must state in the notice of disclaimer that the company disclaims all the company’s interests in the property, and the notice must contain the following information or particulars:\n(a)the title “Notice of disclaimer under section 230 of the Insolvency, Restructuring and Dissolution Act 2018 (Act 40 of 2018)”;\n(b)the name of the company;\n(c)the name of the liquidator and his or her contact details;\n(d)a brief description of the property being disclaimed and, if the property is land, the full address of the property;\n(e)whether the property being disclaimed is onerous property of the kind described in section 230(2)(a) or (b)(i), (ii) or (iii) of the Act, and how the property is such onerous property;\n(f)the date of the disclaimer."
+   }
+  },
+  {
+   "id": "SG-H2771-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 DISCLAIMER"
+   },
+   "heading": {
+    "en": "Service of copy of notice of disclaimer on interested persons"
+   },
+   "text": {
+    "en": "21.—(1) The liquidator disclaiming any onerous property must, within 14 days after the date of the notice of disclaimer, serve a copy of the notice on —\n(a)in a case where the property is an unprofitable contract under section 230(2)(a) of the Act — any person who, to the liquidator’s knowledge, is a party to the contract or has an interest under the contract;\n(b)in a case where the property is of a leasehold nature mentioned in section 231 of the Act — any person who is claiming under the company as sub‑lessee or mortgagee mentioned in section 231(1) of the Act; and\n(c)in any case — any person who (to the liquidator’s knowledge) —\n(i)claims an interest in the disclaimed property; or\n(ii)is under a liability in respect of the disclaimed property, not being a liability discharged by the disclaimer.\n(2) The copy of the notice of disclaimer may be served on a person mentioned in paragraph (1) —\n(a)personally;\n(b)by prepaid registered post; or\n(c)by electronic means in accordance with section 442 of the Act.\n(3) If subsequently, it comes to the liquidator’s knowledge that any person has an interest in the disclaimed property that would have entitled the person to receive a copy of the notice of disclaimer under paragraph (1), the liquidator must then as soon as reasonably practicable serve on that person a copy of the notice.\n(4) Without affecting paragraphs (1) and (3), the liquidator may at any time serve a copy of the notice of disclaimer on any person who, in the liquidator’s opinion, ought to be informed of the disclaimer."
+   }
+  },
+  {
+   "id": "SG-H2771-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 DISCLAIMER"
+   },
+   "heading": {
+    "en": "Application by person interested in property"
+   },
+   "text": {
+    "en": "22. For the purposes of section 230(4)(b)(i) of the Act, the application in writing must contain the following information or particulars:\n(a)the name of the company in liquidation;\n(b)a brief description of the property and, if the property is land, the full address of the property;\n(c)the nature of the interest which the person has in the property;\n(d)the date of the application."
+   }
+  },
+  {
+   "id": "SG-H2771-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 5 DIVIDENDS"
+   },
+   "heading": {
+    "en": "Dividends to creditors"
+   },
+   "text": {
+    "en": "23.—(1) A liquidator who intends to declare a dividend must, not more than 2 months before the declaration —\n(a)publish in the Gazette a notice of his or her intention to declare a dividend; and\n(b)send the notice to every creditor mentioned in the statement of affairs who has not proved the creditor’s debt.\n(2) The notice of intention to declare a dividend must specify the latest date by which a proof must be filed, being a date at least 14 days after the date of the notice.\n(3) The liquidator must, within 14 days after the latest date for filing a proof of debt mentioned in the notice of intention to declare a dividend, in writing either admit or reject wholly or in part, every proof filed with the liquidator, or require further evidence in support of the proof.\n(4) Where a creditor, after the latest date for filing a proof mentioned in the notice of intention to declare a dividend, appeals against the decision of the liquidator rejecting a proof —\n(a)the appeal must be commenced and notice of the appeal given to the liquidator within 7 days after the date of the notice of rejection against which the appeal is made; and\n(b)the liquidator must make provision for the dividend payable upon the proof and the probable costs of the appeal in the event of the proof being admitted.\n(5) If no appeal has been commenced within the time mentioned in paragraph (4)(a), the liquidator must exclude the proof that has been rejected from participation in the dividend.\n(6) Immediately after the expiry of the time mentioned in paragraph (4)(a), the liquidator must —\n(a)declare a dividend;\n(b)publish in the Gazette a notice of dividend in accordance with Form CWU‑4; and\n(c)send the notice of dividend to each creditor whose proof has been admitted (whether in whole or in part), specifying the percentage of dividend payable and the amount of dividend payable to each creditor.\n(7) If it becomes necessary, in the liquidator’s opinion, to postpone the declaration of dividend beyond the period of 2 months mentioned in paragraph (1), the liquidator must publish in the Gazette a fresh notice of his or her intention to declare a dividend.\n(8) The same procedure is to be followed in relation to a fresh notice of the liquidator’s intention to declare a dividend mentioned in paragraph (7), except that fresh notice need not be given to any creditor mentioned in the statement of affairs who has not proved the creditor’s debt.\n(9) A person to whom a dividend is payable may lodge with the liquidator a document in Form CWU‑5 to state that the dividend is to be paid to some other person specified in the document.\n(10) A document lodged under paragraph (9) is sufficient authority for the liquidator to pay the dividend to the person specified in the document."
+   }
+  },
+  {
+   "id": "SG-H2771-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 5 DIVIDENDS"
+   },
+   "heading": {
+    "en": "Return of capital to contributories"
+   },
+   "text": {
+    "en": "24.—(1) Unless the Court directs otherwise, every order of the Court that authorises the liquidator to make a return to the contributories of the company must contain or annex a schedule or list that is prepared by the liquidator and that sets out —\n(a)the full names and addresses of the persons to whom the return is to be paid;\n(b)the amount of money payable to each person;\n(c)the particulars of the transfer of shares (if any) that have been made or the variation in the list of contributories that arose after the date of the settlement of the list of contributories; and\n(d)any other information as may be required to enable the return to be made.\n(2) The notice of return to each contributory must specify the amount payable per share and the amount payable to each contributory."
+   }
+  },
+  {
+   "id": "SG-H2771-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Provisions as to security"
+   },
+   "text": {
+    "en": "25. For the purposes of section 136 of the Act, the following provisions apply in relation to the security to be given by a person (other than the Official Receiver) who is appointed liquidator of a company:\n(a)the person must give the security to any officer or person, and in any manner, that the Official Receiver may from time to time direct;\n(b)the person may give the security —\n(i)for a particular winding up; or\n(ii)generally, to be available for any winding up in which the person is appointed as liquidator;\n(c)the Official Receiver must fix the amount and nature of the security, and may from time to time, as the Official Receiver thinks fit, increase or decrease the amount of security given by the person;\n(d)the Official Receiver must issue a certificate in accordance with Form CWU‑6 that the person has given security to the Official Receiver’s satisfaction;\n(e)the person must file in Court the certificate mentioned in paragraph (d);\n(f)the cost of giving the security, including any premiums paid by the person to guarantee the security, must be borne by the person, and must not be charged against the assets of any company which the person is appointed as liquidator as an expense incurred in the winding up."
+   }
+  },
+  {
+   "id": "SG-H2771-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Failure to give or keep up security"
+   },
+   "text": {
+    "en": "26.—(1) The Official Receiver must report to the Court if —\n(a)a liquidator appointed by an order of the Court fails to give the security under section 136 of the Act within the period stated for that purpose in the order, or any extended period that the Court may allow; or\n(b)a liquidator fails to maintain his or her security given under section 136 of the Act.\n(2) Upon receiving the report mentioned in paragraph (1), the Court may rescind the order appointing the liquidator, or remove the liquidator, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H2771-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Preparation of statement of affairs"
+   },
+   "text": {
+    "en": "27.—(1) For the purposes of section 141(1) of the Act —\n(a)the statement of affairs must be verified by affidavit; and\n(b)the statement of affairs and the affidavit verifying the statement of affairs must be in accordance with Form CWU‑7.\n(2) The statement of affairs may be submitted by electronic means to the Official Receiver or the liquidator, as the case may be.\n(3) The liquidator may from time to time direct a person mentioned in section 141(2)(a) and (b) of the Act to attend on the liquidator, at a time and place that the liquidator may appoint, for the purpose of investigating the company’s affairs, and the person must —\n(a)comply with any direction of the liquidator; and\n(b)give all information within the person’s knowledge as the liquidator may require."
+   }
+  },
+  {
+   "id": "SG-H2771-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Extension of time for submission of statement of affairs under section 141(3) of Act"
+   },
+   "text": {
+    "en": "28.—(1) The Official Receiver or the liquidator or the Court for special reasons may, upon the application of a person mentioned in section 141(2) of the Act, approve in writing or make an order granting (as the case may be) an extension of time for the person to submit a statement of affairs.\n(2) Where an extension of time is granted by the Official Receiver or the liquidator under paragraph (1), the applicant —\n(a)must file a copy of the approval in writing with the Court; and\n(b)is not required to apply to the Court for an extension of time to submit the statement of affairs."
+   }
+  },
+  {
+   "id": "SG-H2771-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Preparation of statement of concurrence"
+   },
+   "text": {
+    "en": "29. For the purposes of section 142(1) of the Act, the statement of concurrence and the affidavit verifying the statement of concurrence must be in accordance with Form CWU‑8."
+   }
+  },
+  {
+   "id": "SG-H2771-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Information subsequent to statement of affairs, etc."
+   },
+   "text": {
+    "en": "30. A person that has submitted a statement of affairs or statement of concurrence to the liquidator must, if and when required by the liquidator, attend on the liquidator and answer any question and give all further information as may be required by the liquidator in relation to the statement of affairs or statement of concurrence."
+   }
+  },
+  {
+   "id": "SG-H2771-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Costs and expenses of preparing statement of affairs, etc."
+   },
+   "text": {
+    "en": "31.—(1) A person who is required to make a statement of affairs or statement of concurrence must, before incurring any costs or expenses in the preparation and making of the statement —\n(a)apply to the liquidator for his or her sanction of the estimated costs and expenses; and\n(b)submit a statement of the estimated costs and expenses.\n(2) Unless the Court orders otherwise, a person is not allowed, out of the assets of the company, any costs or expenses incurred by the person in making the statement of affairs or statement of concurrence, if the person did not obtain prior sanction of the costs and expenses."
+   }
+  },
+  {
+   "id": "SG-H2771-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Prescribed amount for section 144(2)(a) of Act"
+   },
+   "text": {
+    "en": "32. For the purposes of the liquidator’s compromise of any debt due to the company under section 144(2)(a) of the Act, the prescribed amount is $1,500."
+   }
+  },
+  {
+   "id": "SG-H2771-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Remittances to authorised bank account or Companies Liquidation Account"
+   },
+   "text": {
+    "en": "33.—(1) For the purposes of section 146 of the Act, unless the Court directs otherwise and subject to rule 139 of the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020 (G.N. No. S 603/2020), every liquidator must pay, without deduction, any money received by him or her, as liquidator of a company —\n(a)in a case where a committee of inspection has authorised the liquidator to make such payments into an account to the credit of the liquidator with such bank as the committee of inspection may specify (called in this regulation and regulation 34A an authorised bank account) — into the authorised bank account; or\n(b)in any other case — to the Official Receiver to be placed to the credit of the Companies Liquidation Account.\n[S 594/2022 wef 15/07/2022]\n(2) The liquidator must make the payment once a week, or immediately if the liquidator receives a sum of $1,000 or more.\n(3) The payment to the Official Receiver mentioned in paragraph (1)(b) may be made —\n(a)by cheque; or\n(b)by means of an electronic funds transfer system designated by the Official Receiver for that purpose.\n[S 594/2022 wef 15/07/2022]\n[S 594/2022 wef 15/07/2022]"
+   }
+  },
+  {
+   "id": "SG-H2771-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Mode of payments out of Companies Liquidation Account"
+   },
+   "text": {
+    "en": "34.—(1) Any payment out of the Companies Liquidation Account must be made by the Official Receiver.\n(2) The Official Receiver must, on an application by a person who has acted as liquidator of a company, repay to the person any necessary disbursements made by the person as liquidator on account of the company from the date of commencement of the winding up or the date of his or her appointment (whichever is later) to the date of the person’s application for release as liquidator, out of any moneys standing to the credit of the company in the Companies Liquidation Account.\n(3) The liquidator may, after declaring a dividend, apply to the Official Receiver for the funds available for that purpose standing to the credit of the company in the Companies Liquidation Account.\n(4) The application mentioned in paragraph (3) must be supported by a list of creditors certified by the liquidator showing the amount of each of the creditors’ proofs and the amount of money each creditor is due to receive by way of dividend.\n(5) The Official Receiver is not liable for any payment made out of the Companies Liquidation Account on the application of a liquidator."
+   }
+  },
+  {
+   "id": "SG-H2771-A34.001",
+   "no": 34.001,
+   "noLabel": {
+    "en": "34A."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Mode of payments out of authorised bank account"
+   },
+   "text": {
+    "en": "34A.—(1) Every payment by the liquidator out of the authorised bank account must be made —\n(a)by cheque in accordance with paragraph (2); or\n(b)by electronic fund transfer in accordance with an arrangement with the bank under which no payment instructed by the liquidator may be made unless the payment is authorised by a member of the committee of inspection and any other person as the committee of inspection may appoint.\n(2) Every payment by the liquidator out of the authorised bank account by cheque must be made payable to order, and the cheque —\n(a)must have marked or written on the face of it the name of the company, and must be signed by the liquidator; and\n(b)must be countersigned by at least one member of the committee of inspection in question and any other person as the committee of inspection may appoint.\n(3) In this regulation, “electronic fund transfer”, in relation to an authorised bank account, means an electronic transfer of funds from the authorised bank account to another bank account.\n[S 594/2022 wef 15/07/2022]"
+   }
+  },
+  {
+   "id": "SG-H2771-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Court may give directions"
+   },
+   "text": {
+    "en": "35. Despite any other provisions in these Regulations or the Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020, the Court may in any case give special directions with respect to the payment, deposit or custody of moneys or securities payable to or coming into the possession of the liquidator of a company."
+   }
+  },
+  {
+   "id": "SG-H2771-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Restrictions relating to liquidator’s remuneration"
+   },
+   "text": {
+    "en": "36.—(1) Except as provided by the Act or any subsidiary legislation made under the Act, the liquidator of a company must not make any arrangement for or accept any gift, remuneration, consideration or benefit (whether pecuniary or otherwise) that is beyond the remuneration to which the liquidator is entitled under the Act and the subsidiary legislation, from the following persons:\n(a)a solicitor, auctioneer or any other person connected with the company;\n(b)any person who is employed in or in connection with the winding up of the company.\n(2) The liquidator must not make any arrangement to give up any part of the liquidator’s remuneration to a person mentioned in paragraph (1)(a) or (b)."
+   }
+  },
+  {
+   "id": "SG-H2771-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Dealings with assets"
+   },
+   "text": {
+    "en": "37. The liquidator or a member of the committee of inspection of a company must not, while acting as the liquidator or a member of the committee, directly or indirectly purchase any of the company’s assets, except with the permission of the Court.\n[S 266/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H2771-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Restriction on purchase of goods by liquidator"
+   },
+   "text": {
+    "en": "38. Where the liquidator carries on the business of the company, the liquidator must not, except with the sanction of the Court, enter into a transaction to purchase any goods from any person for the carrying on of that business, if the liquidator would obtain any portion of the profit (if any) received by that person from the transaction."
+   }
+  },
+  {
+   "id": "SG-H2771-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Committee of inspection not to make profit"
+   },
+   "text": {
+    "en": "39.—(1) Except with the sanction of the Court, a member of the committee of inspection of a company is not, directly or indirectly, entitled to —\n(a)derive any profit from any transaction arising out of the winding up of the company; or\n(b)receive out of the company’s assets any payment for —\n(i)any service rendered by the member in connection with the administration of the company’s assets; or\n(ii)any goods supplied by the member to the liquidator for or on account of the company.\n(2) If it appears to the Official Receiver or to any meeting of the creditors or contributories that any profit has been derived or payment has been received by a member of the committee of inspection contrary to this regulation, the Official Receiver, creditors or contributories (as the case may be) may disallow the payment or recover the profit."
+   }
+  },
+  {
+   "id": "SG-H2771-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Record Book"
+   },
+   "text": {
+    "en": "40.—(1) The liquidator must keep a book (whether in physical or electronic form) to be called the Record Book, in which the liquidator must record —\n(a)all minutes of proceedings at any meeting of the creditors or contributories, or of the committee of inspection, if any;\n(b)any resolution passed at any meeting mentioned in sub‑paragraph (a); and\n(c)any matter that may be necessary to give a correct view of the liquidator’s administration of the company’s affairs.\n(2) Despite paragraph (1), the liquidator is not required —\n(a)to record in the Record Book any document of a confidential nature, including a legal opinion relating to any matter affecting the interest of the creditors or contributories; or\n(b)to exhibit any document mentioned in sub‑paragraph (a) to any person other than a member of the committee of inspection (if any) or the Official Receiver.\n(3) This regulation applies to a provisional liquidator who is appointed by the Court under section 138 of the Act."
+   }
+  },
+  {
+   "id": "SG-H2771-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Cash Book"
+   },
+   "text": {
+    "en": "41.—(1) The liquidator must keep a book (whether in physical or electronic form) to be called the Cash Book, in which the liquidator must enter from day to day the receipts and payments made by the liquidator.\n(2) The liquidator, other than the Official Receiver, must submit the Record Book and Cash Book, together with any other books, documents, papers and accounts, to the committee of inspection (if any) when required, and in any case at least once every 6 months.\n(3) Paragraph (1) applies to a provisional liquidator who is appointed by the Court under section 138 of the Act."
+   }
+  },
+  {
+   "id": "SG-H2771-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Audit of Cash Book"
+   },
+   "text": {
+    "en": "42.—(1) The committee of inspection (if any) must audit the liquidator’s Cash Book at least once every 6 months, and must certify in Form CWU‑9 the date on which the Cash Book was audited.\n(2) The liquidator must, if requested by the Official Receiver, lodge with the Official Receiver a copy of the Cash Book, together with the requisite vouchers and copies of the certificates of audit by the committee of inspection (if any) within one month after the expiration of each of the following periods:\n(a)a period of 12 months after the date of the winding up order;\n(b)every subsequent period of 12 months."
+   }
+  },
+  {
+   "id": "SG-H2771-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Liquidator’s account and statement under section 192 of Act"
+   },
+   "text": {
+    "en": "43.—(1) For the purposes of section 192(1) of the Act, the account of the liquidator’s receipts and payments and statement of the position in the winding up must be in accordance with Form CWU‑10.\n(2) For the purposes of section 192(2) of the Act, the notice of the lodgment of the account and statement mentioned in paragraph (1) must be in accordance with Form CWU‑11.\n(3) To avoid doubt, the forms mentioned in this regulation must be used even if a liquidator has not during any period for which an account has to be lodged with the Official Receiver, received or paid any money on account of the company."
+   }
+  },
+  {
+   "id": "SG-H2771-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Liquidator carrying on business"
+   },
+   "text": {
+    "en": "44. Where the liquidator carries on the business of the company, the liquidator must —\n(a)keep a distinct account of the trading (called in these Regulations the trading account); and\n(b)incorporate in the Cash Book the total weekly amount of the receipts and payments on the trading account."
+   }
+  },
+  {
+   "id": "SG-H2771-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Liquidator’s trading account"
+   },
+   "text": {
+    "en": "45.—(1) The liquidator must from time to time as required by the committee of inspection (if any) or the creditors —\n(a)verify by statutory declaration the trading account; and\n(b)submit the verified trading account in accordance with Form CWU‑12 —\n(i)where a committee of inspection is appointed — to the committee of inspection or a member of the committee as may be appointed by the committee for that purpose; or\n(ii)where no committee of inspection is appointed — to a person nominated by the creditors.\n(2) The committee of inspection or member of the committee mentioned in paragraph (1)(b)(i) or the person nominated under paragraph (1)(b)(ii) (as the case may be) must examine and certify the trading account submitted by the liquidator."
+   }
+  },
+  {
+   "id": "SG-H2771-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Expenses of sales"
+   },
+   "text": {
+    "en": "46. Where the liquidator sells any property forming part of a company’s assets through an auctioneer or other agent, the gross proceeds of the sale must be paid over by the auctioneer or agent to the liquidator, and the charges and expenses connected with the sale must afterwards be paid to the auctioneer or agent."
+   }
+  },
+  {
+   "id": "SG-H2771-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Investment of company’s assets and realisation"
+   },
+   "text": {
+    "en": "47.—(1) Where the committee of inspection or, if there is no committee of inspection, the liquidator is of the opinion that any part of the cash balance standing to the credit of the account of the company in the Companies Liquidation Account is in excess of the amount that is required for the time being to answer demands in respect of the estate of the company and should be invested or placed on deposit at interest with any bank —\n(a)the committee of inspection or, if there is no committee of inspection, the liquidator may sign in accordance with Form CWU‑13 —\n(i)a certificate of the opinion of the committee of inspection or the liquidator, as the case may be; and\n(ii)a request to invest or deposit the cash balance; and\n(b)the liquidator must submit the signed certificate and request to the Official Receiver.\n(2) Whenever any part of the money so invested or deposited is, in the opinion of the committee of inspection or, if there is no committee of inspection, the liquidator, required to answer any demands in respect of the company’s estate —\n(a)the committee of inspection or, if there is no committee of inspection, the liquidator may sign a certificate in Form CWU‑14 to certify the opinion of the committee of inspection or the liquidator (as the case may be) and a request to realise the investment or withdraw the deposit; and\n(b)the liquidator must submit the signed certificate and request to the Official Receiver.\n(3) The Official Receiver may, after considering the certificate and request of the committee of inspection or, if there is no committee of inspection, the liquidator, if the Official Receiver thinks fit, carry out a request mentioned in paragraph (1) or (2), and the certificate and request constitute sufficient authority to the Official Receiver for carrying out the request."
+   }
+  },
+  {
+   "id": "SG-H2771-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Investments representing unclaimed funds"
+   },
+   "text": {
+    "en": "48.—(1) Any money of a company that is invested or deposited at interest by the liquidator is deemed to be money under the liquidator’s control.\n(2) Subject to paragraphs (3) and (4), where the money of a company in the liquidator’s hands or under the liquidator’s control, including any money invested or deposited at interest, is an amount at least equal to the minimum balance payable to the Official Receiver to be placed to the credit of the Companies Liquidation Account, the liquidator must —\n(a)immediately realise the investment or withdraw the deposit; and\n(b)pay the proceeds to the Official Receiver to be placed to the credit of the Companies Liquidation Account.\n(3) If any money of the company is invested in Government securities, the liquidator may, with the permission of the Official Receiver, transfer those securities to the control of the Official Receiver, instead of realising the investment and paying the proceeds to the Official Receiver as required under paragraph (2).\n(4) If the money that is invested in Government securities is required (in whole or in part) for the purposes of the liquidation, the Official Receiver may realise the securities (in whole or in part) and pay the proceeds to the credit of the Companies Liquidation Account and deal with the proceeds in the same way as other money paid into the Companies Liquidation Account may be dealt with."
+   }
+  },
+  {
+   "id": "SG-H2771-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Liquidator to provide information to Official Receiver"
+   },
+   "text": {
+    "en": "49.—(1) Every person who has acted as liquidator of any company, whether the liquidation has been concluded or not, must provide to the Official Receiver —\n(a)an account of any money in the person’s hands or under the person’s control representing unclaimed or undistributed funds, dividends or other moneys of the company; and\n(b)any other particulars required by the Official Receiver for the purpose of ascertaining or getting into any money payable to the Official Receiver to be placed to the credit of the Companies Liquidation Account.\n(2) The Official Receiver may, from time to time, require the person to verify the account and particulars by affidavit."
+   }
+  },
+  {
+   "id": "SG-H2771-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Certificate of receipt of payment under section 197(1) of Act"
+   },
+   "text": {
+    "en": "50. For the purposes of section 197(1) of the Act, the certificate of receipt for the moneys paid to the Official Receiver must be in accordance with Form CWU‑15, and must include the following information:\n(a)the name of the company in liquidation;\n(b)the name and address of the liquidator’s office;\n(c)the amount of moneys paid to the Official Receiver;\n(d)the date on which the moneys were paid to the Official Receiver."
+   }
+  },
+  {
+   "id": "SG-H2771-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Demand for payment out of Companies Liquidation Account"
+   },
+   "text": {
+    "en": "51.—(1) A demand made under section 197(7) of the Act by a person claiming to be the owner of any moneys placed to the credit of the Companies Liquidation Account must —\n(a)be made in the form and manner that the Official Receiver may from time to time direct; and\n(b)unless the Official Receiver otherwise directs, be accompanied by a certificate of the liquidator stating that the person is the owner of the moneys.\n(2) The Official Receiver may direct the person mentioned in paragraph (1) to provide further evidence to support the person’s demand."
+   }
+  },
+  {
+   "id": "SG-H2771-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Application by liquidator for payment out"
+   },
+   "text": {
+    "en": "52.—(1) A liquidator who needs to make any payment out of moneys that have been placed to the credit of the Companies Liquidation Account under section 197 of the Act, either by way of distribution or in respect of the costs or expenses of the liquidation, must apply to the Official Receiver in the form and manner that the Official Receiver may direct.\n(2) On receiving the application, the Official Receiver may —\n(a)direct that payment be made by means of an electronic funds transfer system designated by the Official Receiver to the liquidator or the person to whom the payment is to be made of the sum required for the purposes mentioned in paragraph (1); or\n(b)direct that a cheque be issued in favour of the person to whom the payment is to be made and that the liquidator deliver the cheque to the person."
+   }
+  },
+  {
+   "id": "SG-H2771-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Disposal of outstanding interests under section 214 of Act"
+   },
+   "text": {
+    "en": "53.—(1) Where the Official Receiver intends to sell or otherwise dispose of or deal with an estate (or any part of an estate) or any property or interest in property under section 214(1) of the Act, the Official Receiver must give notice of the intention —\n(a)by publication in the Gazette; and\n(b)by giving any other notice (including publication in an English local daily newspaper or a notice given outside Singapore) that the Official Receiver thinks necessary, taking into account the location of the estate or property.\n(2) The notice must state that a person who is legally or beneficially interested in the estate, property or interest must, within the time (not being less than 2 months) specified in the notice, inform the Official Receiver in writing of the nature of the person’s interest in the estate, property or interest.\n(3) At the expiration of the time specified in the notice, the Official Receiver may sell or otherwise dispose of or deal with the estate, property or interest in accordance with section 214 of the Act."
+   }
+  },
+  {
+   "id": "SG-H2771-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Notice of resignation of liquidator"
+   },
+   "text": {
+    "en": "54. A liquidator who intends to resign his or her office must give at least 2 months’ written notice of his or her resignation to the creditors and contributories of the company."
+   }
+  },
+  {
+   "id": "SG-H2771-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "55."
+   },
+   "chapter": {
+    "en": "PART 6 LIQUIDATOR AND COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Duties of liquidator on resignation, etc."
+   },
+   "text": {
+    "en": "55.—(1) A person (A) who resigns as liquidator of a company or is removed from the office of liquidator must, within 14 days after his or her resignation or removal from office, deliver to the Official Receiver or the liquidator (B) who is appointed to fill the vacancy, all the books kept by A and all other books, documents, papers and accounts in A’s possession relating to the office of liquidator.\n(2) The release of A takes effect only after A has delivered all the books, documents, papers and accounts to the Official Receiver or B, as the case may be.\n(3) For the purposes of section 191(3) of the Act, the notice of the liquidator’s resignation or removal from office must be in accordance with Form CWU‑16, and must contain the following information:\n(a)the name of the company being wound up;\n(b)the name and identification number of the liquidator;\n(c)the date of the liquidator’s resignation or removal from office, as the case may be.\n(4) Where a liquidator is removed from office by an order of the Court, the notice mentioned in paragraph (3) must annex a copy of the order of the Court."
+   }
+  },
+  {
+   "id": "SG-H2771-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "56."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Prescribed value for section 234(1)(c) of Act"
+   },
+   "text": {
+    "en": "56. For the purposes of section 234(1)(c)(i) and (ii) of the Act, the prescribed value is $500."
+   }
+  }
+ ]
+}

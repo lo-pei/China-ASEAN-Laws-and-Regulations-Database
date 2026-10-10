@@ -1,0 +1,104 @@
+{
+ "id": "PH-H6339",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Section One of the Franchise of Worldwide Communications, Inc., Granted Under Republic Act Numbered Five Thousand Three Hundred Twenty-one and Extending It for Another Twenty-five (25) Years, and for Other Purposes",
+  "orig": "An Act Amending Section One of the Franchise of Worldwide Communications, Inc., Granted Under Republic Act Numbered Five Thousand Three Hundred Twenty-one and Extending It for Another Twenty-five (25) Years, and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p90",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1995-01-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 7859",
+ "officialCode": null,
+ "topics": [
+  "investment"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 2677,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1995/ra_7859_1995.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 6 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1995/ra_7859_1995.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 14 条，缺 5、6、7、8、9、10、11、12、13）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号。 源文存在同号重出的条款（第 1 条）：该处官方页面确有两段均标同一 Section 号，本库照录其 `no` 值（不改动官方编号），条文 `id` 以 `_2`「_3」后缀保证唯一。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H6339-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section One of Republic Act Numbered Five thousand three hundred twenty-one is hereby amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H6339-A1_2",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Nature and Scope of Franchise. - Subject to the provisions of the Constitution and applicable laws, rules and regulations on public telecommunications, there is hereby granted to Worldwide Communications, Inc., its successors or assigns a franchise to install, operate, maintain, lease and manage wire and/or wireless public telecommunications systems throughout the Philippines and between the Philippines and other countries and for the purpose of providing said telecommunications services, to construct, own, operate and maintain telecommunications systems in and between provinces, cities and municipalities of the Philippines, in, on, over or under lands and waters, as may be necessary and best adapted to the provision of telecommunications services, to contract for telecommunication lines in and between the Philippines and other countries and territories, to use any technology whether digital or analog, via cable, satellite, microwave, optical fiber, or any transmission, medium, and with such telecommunication apparatus as may be necessary for the provision of such telecommunication services, and to connect and keep connected its telecommunications systems to other telecommunication system.\""
+   }
+  },
+  {
+   "id": "PH-H6339-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Term of Franchise. - the term of the franchise of Worldwide Communications, Inc., granted under Republic Act Numbered Five thousand three hundred twenty-one, is extended for another twenty-five (25) years from the date of effectivity of this Act."
+   }
+  },
+  {
+   "id": "PH-H6339-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Tax Provision. - Section Fourteen of Republic Act Numbered Five thousand three hundred twenty-one is hereby amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H6339-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "text": {
+    "en": "the grantee shall be liable to pay the same taxes on their real estate, buildings and personal property exclusive of this franchise, as other persons or telecommunication entities are now or hereafter may be required by law to pay. in addition thereto, the grantee shall pay the Bureau of Internal Revenue each year, three per centum (3%) of the gross receipts of its regulated telecommunication services transacted under this franchise, and said percentage shall be in lieu of all taxes on this franchise or earnings thereof: Provided, That the grantee shall continue to be liable for income taxes payable under Title II of the National Internal Revenue Code pursuant to Section 2 of Executive Order No. 72 unless the latter enactment is amended or repealed, in which case the amendment or repeal shall be applicable thereto.\""
+   }
+  },
+  {
+   "id": "PH-H6339-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
+   }
+  }
+ ]
+}

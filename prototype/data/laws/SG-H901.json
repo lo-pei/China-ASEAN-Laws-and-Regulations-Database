@@ -1,0 +1,650 @@
+{
+ "id": "SG-H901",
+ "title": {
+  "zh": null,
+  "en": "COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p11",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation COVID19TMA2020-S303-2020",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 38,
+ "chars": 46155,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/COVID19TMA2020-S303-2020?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 38 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H901-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020 and come into operation on 20 April 2020."
+   }
+  },
+  {
+   "id": "SG-H901-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“CorpPass” means the identity authentication service known as Singapore Corporate Access, by which an entity authenticates its identity in order to carry out an online transaction with the Government or a public body;\n“CorpPass credential” means any username, password or 2‑factor authentication detail required to authenticate, using CorpPass, the identity of an entity;\n“designated email address”, in relation to a party, means —\n(a)in the case of a party who served the notification for relief under section 9(1) of the Act —\n(i)that party’s email address as specified in the notification; or\n(ii)if that party has submitted any form to the Registrar or an assessor in relation to an application for an assessor’s determination in which another email address is specified as that party’s email address — that other email address;\n(b)in the case of a party who submitted to the Registrar an application for an assessor’s determination —\n(i)that party’s email address as specified in the application; or\n(ii)if that party has submitted any form to the Registrar or an assessor in relation to an application for an assessor’s determination in which another email address is specified as that party’s email address — that other email address; or\n(c)in the case of any other party — the email address designated by that party for the purpose of receiving documents or communications under Part 2 of the Act or these Regulations;\n“designated postal address”, in relation to a party, means —\n(a)in the case of a party who served the notification for relief under section 9(1) of the Act —\n(i)that party’s postal address as specified in the notification; or\n(ii)if that party has submitted any form to the Registrar or an assessor in relation to an application for an assessor’s determination in which another postal address is specified as that party’s postal address — that other postal address;\n(b)in the case of a party who submitted to the Registrar an application for an assessor’s determination —\n(i)that party’s postal address as specified in the application; or\n(ii)if that party has submitted any form to the Registrar or an assessor in relation to an application for an assessor’s determination in which another postal address is specified as that party’s postal address — that other postal address; or\n(c)in the case of any other party — the postal address designated by that party for the purpose of receiving documents or communications under Part 2 of the Act or these Regulations;\n“electronic system” means the electronic system established under regulation 7;\n“issuer of a related performance bond” means the issuer of a performance bond or equivalent for the performance of the subject obligation, where the scheduled contract is a construction contract or a supply contract;\n“ordinary address” means —\n(a)in the case of a body corporate (including a limited liability partnership) or unincorporated association —\n(i)the body corporate’s or unincorporated association’s registered office, or principal office, in Singapore; or\n(ii)in the absence of a registered office, or principal office, in Singapore, the body corporate’s or unincorporated association’s last known place of business in Singapore;\n(b)in the case of an individual, the individual’s usual or last known place of residence or business in Singapore; or\n(c)in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore;\n“party”, in relation to an assessor’s determination, means —\n(a)the party to the contract who made the application for an assessor’s determination under section 12 of the Act; or\n(b)either —\n(i)the party to the contract who served the notification for relief on the party mentioned in paragraph (a); or\n(ii)the party to the contract who was served with the notification for relief, if the party mentioned in paragraph (a) also served the notification for relief,\nand includes a person authorised by that party to represent the party in relation to the determination;\n“prescribed mode of service” has the meaning given by regulation 5;\n“Registrar’s directives” means directives issued by the Registrar under regulation 29;\n“Registry” means the Registry of Assessors established under regulation 27;\n“SingPass” means the identity authentication service, known as Singapore Personal Access, by which an individual authenticates the individual’s identity in order to carry out an online transaction with the Government or a public body;\n“SingPass credential” means any username, password or 2‑factor authentication detail required to authenticate, using SingPass, the identity of an individual;\n“subject obligation” means an obligation under a scheduled contract that a party to it is or will be unable to perform and seeks relief under section 5 or 7 of the Act for the inability;\n[S 874/2020 wef 09/10/2020]\n“subject right” means a right under a scheduled contract that a party to it is or will be unable to exercise and seeks relief under section 5A of the Act for the inability.\n[S 874/2020 wef 09/10/2020]"
+   }
+  },
+  {
+   "id": "SG-H901-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Circumstances in which section 5 of Act inapplicable"
+   },
+   "text": {
+    "en": "3.—(1) For the purposes of section 5(14) of the Act, section 5 of the Act does not apply to a construction contract or supply contract to the extent that it contains provisions under which a party undertakes to carry out construction work, or supply goods or services, as an employee of the party for whom the construction work is to be carried out or the goods or services are to be supplied.\n(2) In paragraph (1) —\n“construction work”, “goods” and “services” have the meanings given by section 3 of the Building and Construction Industry Security of Payment Act (Cap. 30B);\n“employee” has the meaning given by section 2(1) of the Employment Act (Cap. 91)."
+   }
+  },
+  {
+   "id": "SG-H901-A3.001",
+   "no": 3.001,
+   "noLabel": {
+    "en": "3A."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Other prescribed actions for section 5(3)(o) of Act"
+   },
+   "text": {
+    "en": "3A.—(1) The following actions are prescribed for the purposes of section 5(3)(o) of the Act:\n(a)the increase of any charges (however described) or interest rate for interest payable under a scheduled contract, except where —\n(i)the amount of the increase is specified in the contract or is to be calculated by reference to a formula or other matter (such as a reference rate) set out in the contract;\n(ii)the increase relates to a charge that is provided for or permitted in the contract, where such charge relates to recovery of expenses reasonably incurred by the other party to the contract (not being the party who is or will be unable to perform the subject obligation) in the ordinary course of business; or\n[S 874/2020 wef 09/10/2020]\n(iii)the party who is or will be unable to perform the subject obligation under the contract agrees to the increase;\n[S 874/2020 wef 09/10/2020]\n(b)the imposition of any new charges under a scheduled contract, except with the agreement of the party who is or will be unable to perform the subject obligation under the contract;\n[S 874/2020 wef 09/10/2020]\n(c)requiring that any part of a security deposit given pursuant to a scheduled contract be replaced by the party who is or will be unable to perform the subject obligation under the contract, except with the agreement of that party;\n[S 874/2020 wef 09/10/2020]\n(d)[Deleted by S 874/2020 wef 09/10/2020]\n(e)the termination by the housing developer of an agreement mentioned in paragraph 1(j) of the First Schedule to the Act;\n[S 874/2020 wef 09/10/2020]\n[S 18/2021 wef 14/01/2021]\n(f)the termination by the commercial developer of an agreement mentioned in paragraph 1(l) of the First Schedule to the Act.\n[S 874/2020 wef 09/10/2020]\n[S 18/2021 wef 14/01/2021]\n(2) To avoid doubt, in a case where an action under paragraph (1)(a), (b) or (c) is carried out pursuant to a term in the scheduled contract, the party who is or will be unable to perform the subject obligation under the contract is not considered to have agreed to the taking of the action under paragraph (1)(a)(iii), (b) or (c) merely by being a party to the contract.\n[S 874/2020 wef 09/10/2020]\n(3) This regulation does not apply to any thing done before 13 May 2020.\n[S 377/2020 wef 13/05/2020]"
+   }
+  },
+  {
+   "id": "SG-H901-A3.027",
+   "no": 3.027,
+   "noLabel": {
+    "en": "3AA."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Prescribed contracts for section 5A of Act"
+   },
+   "text": {
+    "en": "3AA.—(1) The following descriptions of scheduled contracts are prescribed for the purposes of section 5A(1)(a) of the Act:\n(a)an option given by a housing developer to an intending purchaser for the purchase of one or more units of housing accommodation;\n(b)an option given by a commercial developer to an intending purchaser for the purchase of one or more units of commercial property.\n(2) In paragraph (1), “commercial developer”, “commercial property”, “housing accommodation”, “housing developer” and “unit” have the meanings given by paragraph 2 of the First Schedule to the Act.\n[S 874/2020 wef 09/10/2020]\n[S 18/2021 wef 14/01/2021]"
+   }
+  },
+  {
+   "id": "SG-H901-A3.002",
+   "no": 3.002,
+   "noLabel": {
+    "en": "3B."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Prescribed contracts for section 7A of Act"
+   },
+   "text": {
+    "en": "3B.—(1) The following descriptions of scheduled contracts are prescribed for the purposes of section 7A(1)(a) of the Act:\n(a)a hire-purchase agreement or conditional sale agreement as defined under the Hire-Purchase Act (Cap. 125), where the good hired or conditionally sold under the agreement is —\n(i)any plant, machinery or fixed asset located in Singapore, where such plant, machinery or fixed asset is used for manufacturing, production or other business purposes; or\n(ii)a commercial vehicle,\nbut does not include an agreement that is entered into with a bank licensed under the Banking Act (Cap. 19) or a finance company licensed under the Finance Companies Act (Cap. 108);\n(b)a lease of —\n(i)any plant, machinery or fixed asset located in Singapore, where such plant, machinery or fixed asset is used for manufacturing, production or other business purposes; or\n(ii)a commercial vehicle, except —\n(A)a private hire car as described in the Second Schedule to the Road Traffic Act (Cap. 276); and\n(B)a taxi as described in the Second Schedule to the Road Traffic Act;\n(c)an event contract;\n(d)a tourism-related contract;\n(e)a construction contract or supply contract;\n(f)an agreement between a housing developer and a purchaser for the sale and purchase of one or more units of housing accommodation;\n[S 874/2020 wef 09/10/2020]\n(g)an agreement between a commercial developer and a purchaser for the sale and purchase of one or more units of commercial property.\n[S 874/2020 wef 09/10/2020]\n(2) In paragraph (1), “commercial developer”, “commercial property”, “commercial vehicle”, “housing accommodation”, “housing developer” and “unit” have the meanings given by paragraph 2 of the First Schedule to the Act.\n[S 874/2020 wef 09/10/2020]\n[S 665/2020 wef 31/07/2020]\n[S 18/2021 wef 14/01/2021]"
+   }
+  },
+  {
+   "id": "SG-H901-A3.003",
+   "no": 3.003,
+   "noLabel": {
+    "en": "3C."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Prescribed rate for section 7A(2) of Act"
+   },
+   "text": {
+    "en": "3C.—(1) For the purposes of section 7A(2) of the Act, the total sum of the interest and other charges (however described) must not exceed the amount equal to 5% per annum on the outstanding sum that is due and payable under the contract.\n(2) For the purposes of paragraph (1), the outstanding sum mentioned in that paragraph does not include any late payment interest, or late payment charges, added to the outstanding sum on or after 1 February 2020.\n[S 665/2020 wef 31/07/2020]"
+   }
+  },
+  {
+   "id": "SG-H901-A3.004",
+   "no": 3.004,
+   "noLabel": {
+    "en": "3D."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Prescribed condition for section 7B(2)(b) of Act"
+   },
+   "text": {
+    "en": "3D. For the purposes of section 7B(2)(b) of the Act, the prescribed condition is that the lessee or licensee could not, by taking reasonable steps, have avoided the subject inability.\n[S 665/2020 wef 31/07/2020]"
+   }
+  },
+  {
+   "id": "SG-H901-A3.005",
+   "no": 3.005,
+   "noLabel": {
+    "en": "3E."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Prescribed amount for section 7B(2) of Act"
+   },
+   "text": {
+    "en": "3E.—(1) For any period the subject inability subsists that falls between 7 April 2020 and 18 June 2020 (both dates inclusive) (called in this paragraph the relevant period), the prescribed amount for the purposes of section 7B(2) of the Act is as follows:\n(a)in respect of any period in the relevant period, where the lessee or licensee carried on its business, undertaking or work at the property (called in this paragraph the operating period) — the lower of the following:\n(i)the amount payable by the lessee or licensee under the lease or licence for the subject inability for the operating period;\n(ii)at the option of the lessor or licensor, either —\n(A)the rent payable by the lessee or licensee for the operating period, as if the lease or licence were in force during that period based on the last rent payable; or\n(B)the market rent of the property for the operating period;\n(b)in respect of any other period in the relevant period — an amount equal to the total amount of service charge, maintenance charge and public utility charge payable under the lease or licence for that other period, as if the lease or licence were in force during that other period.\n(2) For any period the subject inability subsists that does not fall between 7 April 2020 and 18 June 2020 (both dates inclusive) (called in this paragraph the relevant period), the prescribed amount for the purposes of section 7B(2) of the Act is as follows:\n(a)in respect of any period in the relevant period, where the lessee or licensee carried on its business, undertaking or work at the property (called in this paragraph the operating period) — the lower of the following:\n(i)the amount payable by the lessee or licensee under the lease or licence for the subject inability for the operating period;\n(ii)at the option of the lessor or licensor, either —\n(A)the rent payable by the lessee or licensee for the operating period, as if the lease or licence were in force during that period based on the last rent payable; or\n(B)the market rent of the property for the operating period;\n(b)in respect of any other period in the relevant period — the lower of the following:\n(i)the amount payable by the lessee or licensee under the lease or licence for the subject inability for that other period;\n(ii)at the option of the lessor or licensor, either —\n(A)50% of the rent payable by the lessor or licensee for that other period, as if the lease or licence were in force during that other period based on the last rent payable; or\n(B)50% of the market rent of the property for that other period.\n(3) For the purposes of paragraphs (1)(a) and (2)(a), the carrying on of any business, undertaking or work by the lessee or licensee at the property does not include the carrying on of any activity by the lessee, licensee, or any other person, for the purpose of maintaining the property —\n(a)in a clean and sanitary condition; or\n(b)in a state of good repair.\n(4) In this regulation —\n“rent” means the total amount payable by a lessee or licensee for the lease or licence of the property, including any service charge, maintenance charge and public utility charge;\n“subject inability” means the subject inability mentioned in section 7B(1)(b) of the Act.\n[S 665/2020 wef 31/07/2020]"
+   }
+  },
+  {
+   "id": "SG-H901-A3.006",
+   "no": 3.006,
+   "noLabel": {
+    "en": "3F."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Prescribed contracts for sections 12(4) and 13(1A) of Act"
+   },
+   "text": {
+    "en": "3F.—(1) The following descriptions of scheduled contracts are prescribed as scheduled contracts to which sections 12(4) and 13(1A) of the Act apply:\n(a)a contract for the grant of a loan facility by a bank licensed under the Banking Act or a finance company licensed under the Finance Companies Act to an enterprise, where such facility is secured, wholly or partially, against any commercial or industrial immovable property located in Singapore;\n(b)a contract for the grant of a loan facility by a bank licensed under the Banking Act or a finance company licensed under the Finance Companies Act to an enterprise —\n(i)where such facility is secured, wholly or partially, against any plant, machinery or fixed asset located in Singapore; and\n(ii)where such plant, machinery or fixed asset (as the case may be) is used for manufacturing, production or other business purposes;\n(c)an agreement between a housing developer and a purchaser for the sale and purchase of one or more units of housing accommodation;\n(d)an agreement between a commercial developer and a purchaser for the sale and purchase of one or more units of commercial property.\n(2) In paragraph (1), “commercial developer”, “commercial property”, “enterprise”, “housing accommodation”, “housing developer” and “unit” have the meanings given by paragraph 2 of the First Schedule to the Act.\n[S 22/2021 wef 15/01/2021]"
+   }
+  },
+  {
+   "id": "SG-H901-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Forms and documents"
+   },
+   "text": {
+    "en": "4.—(1) The forms to be used for the purposes of these Regulations are those set out on the Internet website at http://www.mlaw.gov.sg/covid19-relief, and any reference in these Regulations to a numbered form is a reference to the current version of the form bearing the corresponding number that is displayed at that website.\n(2) Every form to be served on any party or submitted to the Registrar or an assessor making a determination must —\n(a)contain such particulars;\n(b)comply with such requirements; and\n(c)be accompanied by such documents,\nas may be specified —\n(d)in the form;\n(e)by the Registrar or the assessor; and\n(f)in the Registrar’s directives,\nwhichever is applicable.\n(3) Every form or document to be filed with a court must comply with such requirements as may be specified by the court or the registrar of the court.\n(4) Any form may be used in a particular case with such variations as the circumstances of the case may require."
+   }
+  },
+  {
+   "id": "SG-H901-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Prescribed mode of service"
+   },
+   "text": {
+    "en": "5.—(1) In these Regulations, a person (called in this regulation A) serves a document on another person (called in this regulation B) by the prescribed mode of service if —\n(a)A sends the document to B’s last email address using the electronic system;\n(b)where A is for any reason unable to send the document in the manner described in sub‑paragraph (a) — A sends the document to B’s last email address using any other means;\n(c)where A is for any reason unable to send the document in the manner described in sub‑paragraphs (a) and (b), and either —\n(i)B has an account for the use of an internet‑based messaging service, and that service provides a mechanism for B to receive electronic communications in that account; or\n(ii)B is the owner or operator of an Internet website, a blog or a page on any social media or social networking Internet website, and that Internet website, blog or page on that social media or social networking Internet website provides a mechanism for B to receive electronic communications on that Internet website, blog or page on that social media or social networking Internet website,\nand the mechanism in sub‑paragraph (i) or (ii) is the means or one of the means by which A corresponds with B on matters concerning the scheduled contract in question — A sends an electronic communication of that document to B using that mechanism; or\n(d)where A is for any reason unable to send the document in the manner described in sub‑paragraphs (a), (b) and (c) — A sends the document to B’s last postal address by prepaid registered post.\n(2) In paragraph (1) —\n“document” includes a form;\n“last email address” means —\n(a)B’s designated email address; or\n(b)if B has no designated email address — an email address by which A corresponds with B on matters concerning the contract in question, or (if there is no such email address) an email address which B represents to A or to the public as the email address to which communications to B may be sent;\n“last postal address” means —\n(a)B’s designated postal address; or\n(b)if B has no designated postal address — B’s ordinary address."
+   }
+  },
+  {
+   "id": "SG-H901-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "When service takes effect and proof of service"
+   },
+   "text": {
+    "en": "6.—(1) Service of a document on a person takes effect —\n(a)if it is sent to an email address — at the time that the document becomes capable of being retrieved by the person; or\n(b)if it is sent to a postal address by prepaid registered post — on the second day after the day the document was posted (even if it is returned undelivered).\n(2) In proving service of any document sent by registered post to any person, it is sufficient to prove that the envelope containing the document was properly addressed to that person, stamped and posted by registered post.\n(3) In this regulation, “document” includes a form."
+   }
+  },
+  {
+   "id": "SG-H901-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Electronic system"
+   },
+   "text": {
+    "en": "7.—(1) An electronic system is established for the purposes mentioned in paragraph (2).\n(2) The purposes of the electronic system are —\n(a)to facilitate the service of a notification for relief under section 9(1) of the Act;\n(b)to facilitate the submission of certain forms and documents to the Registrar or an assessor in relation to an application for an assessor’s determination and the proceedings thereto; and\n(c)to facilitate the service of certain of those forms and documents."
+   }
+  },
+  {
+   "id": "SG-H901-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Use of electronic system"
+   },
+   "text": {
+    "en": "8.—(1) Subject to paragraph (3), an individual must authenticate the individual’s identity using SingPass in order to access the electronic system to carry out an act involving the individual.\n(2) Subject to paragraph (4), a person who is authorised by an entity to carry out using the electronic system any act involving the entity, must authenticate the entity’s identity using CorpPass in order to access the electronic system to carry out that act for the entity.\n(3) An individual must not facilitate the use, by any other person, of the individual’s SingPass credentials to access the electronic system.\n(4) An entity must not facilitate the use, by any unauthorised person, of the entity’s CorpPass credentials to access the electronic system."
+   }
+  },
+  {
+   "id": "SG-H901-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 NOTIFICATION FOR RELIEF"
+   },
+   "heading": {
+    "en": "Notification for relief"
+   },
+   "text": {
+    "en": "9.—(1) A notification for relief must be in Form 1, and must contain the following information:\n(a)the name, address and telephone number, and email address (if any) of the person seeking relief under section 5, 5A or 7 of the Act (called in this Part A);\n[S 874/2020 wef 09/10/2020]\n(b)the name and address, and (if known to A) the telephone number and email address of each of the following:\n(i)the other party or parties to the contract;\n(ii)any guarantor or surety for the subject obligation;\n(iii)the issuer of a related performance bond, if applicable;\n(c)the following information about the contract in question:\n(i)the description of scheduled contracts in the First Schedule to the Act to which the contract belongs;\n[S 18/2021 wef 14/01/2021]\n(ii)the date of the contract;\n(d) where A is seeking relief under section 5 or 7 of the Act — the following information about the subject obligation:\n(i)the details of the obligation;\n(ii)the date the obligation was or is to be performed;\n(iii)a brief explanation of how a COVID‑19 event had caused to a material extent the inability to perform the obligation;\n[S 874/2020 wef 09/10/2020]\n(da)where A is seeking relief under section 5A of the Act — the following information about the subject right:\n(i)the details of the right;\n(ii)the date the right was or is to be exercised;\n(iii)a brief explanation of how a COVID-19 event had caused to a material extent the inability to exercise the right;\n[S 874/2020 wef 09/10/2020]\n(e)any proposal by A to perform the subject obligation, or to exercise the subject right, in another manner;\n[S 874/2020 wef 09/10/2020]\n(f)a declaration by A to the effect that all information provided in the notification for relief is true and correct.\n(2) Apart from the persons mentioned in section 9(1)(a) and (b) of the Act, a notification for relief must be served on an issuer of a related performance bond, if applicable.\n(3) A notification for relief must be served by the prescribed mode of service —\n(a)on the other party or parties to the contract — before the end of the prescribed period; and\n(b)on the surety or guarantor for the subject obligation and the issuer of a related performance bond (if applicable) — no later than one working day after the date of service of the notification on the person mentioned in sub‑paragraph (a).\n(4) Where A is aware that proceedings against A or A’s guarantor or surety in relation to the subject inability were pending in a court or an arbitral tribunal at the time the notification for relief was served, and A wishes to lodge a copy of the notification for relief with the court or arbitral tribunal, A must after service of the notification for relief, file with the court, or submit to the arbitral tribunal, before which the proceedings are pending, a memorandum of notification for relief in Form 2 that —\n(a)contains —\n(i)information identifying the proceedings before the court or arbitral tribunal; and\n(ii)a declaration of service of the notification for relief which must state when such service was effected; and\n(b)is accompanied by a copy of the notification for relief.\n(5) Where A becomes aware that proceedings against A or A’s guarantor or surety in relation to the subject inability have, after service of the notification for relief in accordance with paragraph (3), been commenced before a court or an arbitral tribunal in breach of section 5(2) of the Act, and A wishes to lodge a copy of the notification for relief with the court or arbitral tribunal, A must file with the court, or submit to the arbitral tribunal, before which the proceedings were commenced, a memorandum of notification for relief in Form 2 that —\n(a)contains —\n(i)information identifying the proceedings before the court or arbitral tribunal; and\n(ii)a declaration of service of the notification for relief which must state when such service was effected; and\n(b)is accompanied by a copy of the notification for relief.\n(6) In this regulation, “subject inability” means the subject inability mentioned in section 5(1)(a) of the Act.\n[S 874/2020 wef 09/10/2020]"
+   }
+  },
+  {
+   "id": "SG-H901-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 NOTIFICATION FOR RELIEF"
+   },
+   "heading": {
+    "en": "Withdrawal of notification"
+   },
+   "text": {
+    "en": "10.—(1) A may at any time withdraw the notification for relief by serving a notice of withdrawal in Form 3 on the other party or parties to the contract by the prescribed mode of service.\n(2) A must also serve the notice of withdrawal on the following by the prescribed mode of service no later than one working day after the date of service of the notice of withdrawal on the other party or parties to the contract:\n(a)any guarantor or surety for the subject obligation;\n(b)the issuer of a related performance bond, if applicable.\n(3) If an application for an assessor’s determination has already been submitted to the Registrar, A must also submit a copy of the notice of withdrawal to the Registrar together with a declaration in Form 4 of service of the notice of withdrawal on the persons mentioned in paragraphs (1) and (2), within 2 working days after the date of service of the notice of withdrawal on the other party or parties to the contract.\n(4) If a copy of the notification for relief has been lodged pursuant to section 5(8) or 8(2) of the Act with a court or an arbitral tribunal before which proceedings were brought, A must, within 2 working days after the date of service of the notice of withdrawal on the other party or parties to the contract, file with the court, or submit to the arbitral tribunal, before which the proceedings are pending, a memorandum of service of withdrawal in Form 5 that —\n(a)contains —\n(i)information identifying the proceedings before the court or arbitral tribunal; and\n(ii)a declaration of service of the notice of withdrawal on the persons mentioned in paragraphs (1) and (2); and\n(b)is accompanied by a copy of the notice of withdrawal.\n(5) To avoid doubt, A is not prevented by the withdrawal of A’s notification for relief from serving another notification for relief."
+   }
+  },
+  {
+   "id": "SG-H901-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Qualifications of assessors"
+   },
+   "text": {
+    "en": "11. To be appointed an assessor, a person —\n(a)must be a qualified person within the meaning given by section 2(1) of the Legal Profession Act (Cap. 161) with at least 3 years of working experience in or relating to law;\n(b)must be a public accountant within the meaning given by section 2(1) of the Accountants Act (Cap. 2) with at least 3 years of working experience in or relating to accountancy;\n(c)must be a chartered accountant within the meaning given by section 2(1) of the Singapore Accountancy Commission Act (Cap. 294B) with at least 3 years of working experience in or relating to accountancy; or\n(d)must have at least 3 years of working experience in or relating to law, accountancy, finance, business management, building and construction, or architecture."
+   }
+  },
+  {
+   "id": "SG-H901-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Documents to be submitted to or sent by Registrar or assessor"
+   },
+   "text": {
+    "en": "12.—(1) Subject to paragraph (2), every form or document that is to be submitted to the Registrar or an assessor making a determination must be submitted to the Registrar or assessor using the electronic system.\n(2) Where a person is unable to comply with paragraph (1) because the person does not have an account for the use of SingPass or CorpPass, the electronic system is unavailable or for any other good reason, the Registrar or the assessor may permit the form or document to be submitted to him or her in such other way as he or she may direct.\n(3) Any document that is to be sent by or on behalf of the Registrar or an assessor to any person is to be sent —\n(a)to that person’s designated email address;\n(b)if that person does not have a designated email address — to that person’s designated postal address; or\n(c)if that person does not have a designated email address or designated postal address — to that person’s ordinary address."
+   }
+  },
+  {
+   "id": "SG-H901-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Communications by Registrar or assessor with parties"
+   },
+   "text": {
+    "en": "13.—(1) The Registrar or an assessor may communicate with any party to an assessor’s determination —\n(a)by sending an email to the party’s designated email address;\n(b)by sending a document to the party’s designated postal address or ordinary address; or\n(c)by other means agreed between the Registrar or the assessor, and that party.\n(2) Where a party to an assessor’s determination agrees to communicate with the Registrar or an assessor by any of the means in paragraph (1), that party must monitor that means for any communication from the Registrar or the assessor to that party, until the conclusion of the proceedings before the assessor.\n(3) In this regulation, a reference to the Registrar or an assessor includes an officer of the Registry duly authorised by the Registrar or the assessor to make or receive the communication on his or her behalf."
+   }
+  },
+  {
+   "id": "SG-H901-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Application for assessor’s determination"
+   },
+   "text": {
+    "en": "14.—(1) An application by a party to a contract for an assessor’s determination must be made to the Registrar within the period mentioned in paragraph (2) after the party has been served with the notification for relief or (as the case may be) had served the notification for relief (called in this Division the applicant).\n(2) The period is —\n(a)if the scheduled contract is an event contract, a tourism‑related contract, a construction contract, a supply contract, or an option mentioned in paragraph 1(i) or (k) of the First Schedule to the Act — the period starting at the beginning of the prescribed period and ending at the end of 2 months after the end of the prescribed period; or\n[S 874/2020 wef 09/10/2020]\n[S 18/2021 wef 14/01/2021]\n(b)if the scheduled contract is any other contract — the prescribed period.\n(3) The application must be submitted to the Registrar in Form 6.\n(4) The prescribed fee for the application is $0.\n(5) The application must be accompanied by —\n(a)a copy of the notification for relief; and\n(b)a copy of the contract or (if the contract is not in writing) a description of how the contract was made and its terms.\n(6) If the Registrar is satisfied that the application is in order, he or she must send to the applicant the following (called in this regulation and regulations 15 and 17 matters from the Registrar):\n(a)an acknowledgment of receipt of the application;\n(b)either the form of the response in Form 8 or the electronic location at which that form may be obtained.\n(7) The applicant must, no later than 2 working days after receipt of the matters from the Registrar, serve a copy of the application, together with the matters from the Registrar, on —\n(a)the party to the contract who had served the notification for relief or (if the applicant is the party who had served the notification for relief) the party to the contract who was served with the notification for relief (called in this Division the respondent);\n(b)every other party to the contract;\n(c)any guarantor or surety for the subject obligation; and\n(d)the issuer of a related performance bond, if applicable.\n(8) Service of a document or the matters from the Registrar on a person mentioned in paragraph (7) must be effected —\n(a)by sending the document or matters to the person at that person’s last email address;\n(b)if the applicant is for any reason unable to send the document or matters in the manner described in sub‑paragraph (a) to that person, and either —\n(i)that person has an account for the use of an internet‑based messaging service, and that service provides a mechanism for that person to receive electronic communications in that account; or\n(ii)that person is the owner or operator of an Internet website, a blog or a page on any social media or social networking Internet website, and that Internet website, blog or page on that social media or social networking Internet website provides a mechanism for that person to receive electronic communications on that Internet website, blog or page on that social media or social networking Internet website,\nand the mechanism mentioned in sub-paragraph (i) or (ii) is the means or one of the means by which the applicant corresponds with that person on matters concerning the scheduled contract in question — by sending an electronic communication of the document or matters to that person using that mechanism; or\n(c)if the applicant is for any reason unable to send the document or matter in the manner described in sub‑paragraphs (a) and (b) — by sending the document or the matters by prepaid registered post to that person’s last postal address.\n(9) In paragraph (8) —\n(a) the last email address of a person is —\n(i)in the case of the respondent who served the notification for relief — the respondent’s designated email address; or\n(ii)in the case of any other person — an email address by which the applicant corresponds with that person on matters concerning the contract in question or (if there is no such email address) an email address which that person represents to the applicant or to the public as the email address to which communications to that person may be sent; and\n(b)the last postal address of a person is —\n(i)the person’s designated postal address; or\n(ii)if the person has no designated postal address — the person’s ordinary address.\n(10) The applicant must, within one working day after service of the copy of the application and matters from the Registrar on the persons mentioned in paragraph (7), submit to the Registrar a declaration in Form 4 of such service.\n(11) Where the applicant is aware that —\n(a)proceedings against the respondent or the applicant (as the case may be) or his or her guarantor or surety in relation to the subject inability were pending in a court or an arbitral tribunal at the time the application for an assessor’s determination was made; and\n(b)a copy of the notification for relief had been lodged with the court or arbitral tribunal,\nthe applicant must, not later than 2 working days after the date of service of the copy of the application and the matters from the Registrar on the persons mentioned in paragraph (7), file with the court, or submit to the arbitral tribunal, before which the proceedings are pending, a notification of the status of the application for determination in Form 7 that —\n(c)contains —\n(i)information identifying the proceedings before the court or arbitral tribunal; and\n(ii)a declaration of service of the application; and\n(d)is accompanied by a copy of the application.\n(12) In this regulation, “subject inability” means the subject inability mentioned in section 5(1)(a) of the Act.\n[S 874/2020 wef 09/10/2020]"
+   }
+  },
+  {
+   "id": "SG-H901-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Response"
+   },
+   "text": {
+    "en": "15. The respondent may, no later than 5 working days after being served with a copy of the application for an assessor’s determination and the matters from the Registrar, submit to the Registrar a response to the application in Form 8, and serve on the following by the prescribed mode of service a copy of the response:\n(a)the applicant;\n(b)every other party mentioned in regulation 14(7)(b), (c) and (d)."
+   }
+  },
+  {
+   "id": "SG-H901-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Amendment of application or response"
+   },
+   "text": {
+    "en": "16.—(1) The Registrar may, at any stage before an assessor’s determination and on the application of the applicant or the respondent, allow that party to amend that party’s application for an assessor’s determination or response, as the case may be.\n(2) The application for amendment must be served on the other party to the assessor’s determination by the prescribed mode of service."
+   }
+  },
+  {
+   "id": "SG-H901-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Notice of appointment of assessor and hearing"
+   },
+   "text": {
+    "en": "17. If the Registrar is satisfied that —\n(a)the application for an assessor’s determination is in order;\n(b)a copy of the application and the matters from the Registrar have been duly served; and\n(c)either —\n(i)the response has been duly submitted and served; or\n(ii)the time for the submission of the response has expired without one being served, and the applicant has complied with any direction of the Registrar to contact the respondent by any means specified by the Registrar,\nthe Registrar must send to the applicant and the respondent —\n(d)a notice of the appointment of an assessor; and\n(e)if applicable, a notice of the date and place for the hearing."
+   }
+  },
+  {
+   "id": "SG-H901-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Hearing and determination by assessor"
+   },
+   "text": {
+    "en": "18.—(1) An assessor must, when carrying out his or her duties or exercising his or her powers under these Regulations, act independently, impartially and in a timely manner.\n(2) A hearing is generally to be held in an asynchronous manner by exchange of email.\n(3) However, an assessor may direct —\n(a)the hearing be held via video conferencing, teleconferencing or other electronic means; or\n(b)the parties to attend before the assessor for a hearing,\nif he or she is of the opinion that the interest of justice would be better served if the hearing is held in the manner mentioned in sub‑paragraph (a) or if the parties attend before him or her for the hearing.\n(4) An assessor may —\n(a)issue such directions as are necessary or expedient for the conduct of the hearing; and\n(b)allow a party to amend that party’s application for an assessor’s determination or response, as the case may be.\n(5) An assessor may permit a party to be accompanied by an interpreter at the hearing.\n(6) An assessor may at any time adjourn a hearing or fix a date for a further hearing.\n(7) An assessor may dispense with a hearing and make a determination solely by reference to the forms and documents submitted by the parties to the determination, if the assessor is of the opinion that those forms and documents are sufficient for the assessor to make his or her determination."
+   }
+  },
+  {
+   "id": "SG-H901-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Where assessor unable to continue with proceedings"
+   },
+   "text": {
+    "en": "19.—(1) If an assessor who is hearing or determining an application is unable for any reason to continue with the hearing or determination, the Registrar may appoint a new assessor in place of that assessor to hear and determine the application.\n(2) The new assessor, may as the justice of the case requires —\n(a)continue with the hearing or determination from where it had previously stopped; or\n(b)hear or determine the application afresh."
+   }
+  },
+  {
+   "id": "SG-H901-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Where one party is absent from hearing"
+   },
+   "text": {
+    "en": "20.—(1) Where a party to an assessor’s determination is absent from the hearing, the assessor may —\n(a)decline to make a determination, and dismiss the application for the determination; or\n(b)hear and make a determination on the application.\n(2) A dismissal or determination made under paragraph (1) may, on an application by the party who was absent from the hearing, be set aside by the assessor or another assessor if that assessor is satisfied that that party had a good reason for being absent from the hearing, and that it is just in the circumstances to set aside the dismissal or determination made in that party’s absence.\n(3) An application under paragraph (2) must be —\n(a)in Form 9; and\n(b)submitted to the Registrar, and served on the other party to the determination by the prescribed mode of service, within 5 working days after the date the notice of the assessor’s dismissal or determination made under paragraph (1) is sent to the parties to the determination or such longer period as the Registrar may allow.\n(4) The other party to the determination must, if he or she wishes to oppose the application for setting aside, within a period directed by the Registrar, submit to the Registrar and serve on the other party by the prescribed mode of service, a reply in Form 10.\n(5) Where an assessor hearing the application decides to set aside the dismissal or determination made under paragraph (1) —\n(a)he or she may do so on such terms as he or she considers just; and\n(b)he or she may proceed to hear the application for an assessor’s determination and make a determination on that application."
+   }
+  },
+  {
+   "id": "SG-H901-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Determination must be unanimous where more than one assessor"
+   },
+   "text": {
+    "en": "21. Where more than one assessor is appointed to make a determination on an application, the determination must be unanimous."
+   }
+  },
+  {
+   "id": "SG-H901-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Scheduled contracts for which assessor may make further determinations"
+   },
+   "text": {
+    "en": "22. For the purposes of section 13(3) of the Act, an assessor may, in respect of every description of scheduled contract except the following, make further determinations in order to achieve an outcome that is just and equitable in the circumstances of a case:\n(a)a performance bond or equivalent that is granted pursuant to a construction contract or supply contract;\n(b)a construction contract or supply contract."
+   }
+  },
+  {
+   "id": "SG-H901-A22.001",
+   "no": 22.001,
+   "noLabel": {
+    "en": "22A."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Prescribed further determination for section 13(3)(h) of Act"
+   },
+   "text": {
+    "en": "22A. For the purposes of section 13(3)(h) of the Act, where the scheduled contract is one mentioned in paragraph 1(k) of the First Schedule to the Act (option given by a commercial developer to an intending purchaser for the purchase of one or more units of commercial property), the assessor may release or discharge (in whole or in part) any party to the contract from any obligation under the contract.\n[S 951/2020 wef 18/11/2020]\n[S 18/2021 wef 14/01/2021]"
+   }
+  },
+  {
+   "id": "SG-H901-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Notification of determination, etc., to court or arbitral tribunal"
+   },
+   "text": {
+    "en": "23. Where the application for an assessor’s determination has been concluded, whether by a dismissal, withdrawal or determination, and the applicant is aware that —\n(a)proceedings against the respondent or the applicant (as the case may be) or his or her guarantor or surety, in relation to the subject inability were pending in a court or an arbitral tribunal at the time the application for an assessor’s determination was concluded; and\n(b)a copy of the notification for relief had been lodged with the court or arbitral tribunal,\nthe applicant must, not later than 2 working days after the conclusion of the application for an assessor’s determination, file with the court, or submit to the arbitral tribunal, before which the proceedings are pending, a notification of the status of the application for a determination in Form 7 that —\n(c)contains information identifying the proceedings before the court or arbitral tribunal; and\n(d)is accompanied by —\n(i)a copy of the notice of the assessor’s dismissal or determination; or\n(ii)a copy of the withdrawal of the application."
+   }
+  },
+  {
+   "id": "SG-H901-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Effect of non-compliance"
+   },
+   "text": {
+    "en": "24. Where, in any matter under this Part that is before the Registrar or any matter or proceeding before an assessor, there has been a failure to comply with any requirement of these Regulations, that failure is treated as an irregularity and does not nullify the proceeding in question, any step taken in the proceeding, or any direction or order given by the Registrar or assessor, unless otherwise provided in these Regulations or directed by the Registrar or assessor."
+   }
+  },
+  {
+   "id": "SG-H901-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Correction of error in assessor’s determination"
+   },
+   "text": {
+    "en": "25. An assessor may, on his or her own motion or on the application of a party to an assessor’s determination made by the assessor made in Form 11, correct any clerical mistake, or error arising from an accidental slip or omission, in the determination."
+   }
+  },
+  {
+   "id": "SG-H901-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Extension of time"
+   },
+   "text": {
+    "en": "26.—(1) The Registrar may, on application submitted to the Registrar (whether before or after expiry of the time concerned), and on such terms as the Registrar thinks just, extend in a particular case the period within which a party is required by these Regulations or a direction of the Registrar, to submit to the Registrar or serve on any party any document or form to be submitted to the Registrar, or served on a party before the date an assessor is appointed to make a determination.\n(2) The assessor hearing an application for an assessor’s determination may, on application submitted to the assessor (whether before or after expiry of the time concerned) by a party to the assessor’s determination, and on such terms as the assessor thinks just, extend in a particular case the period within which the party is required by these Regulations to submit to the assessor or serve on any party any document or form to be submitted to the assessor, or served on a party on or after the date the assessor is appointed to make the determination.\n(3) The Registrar or assessor may extend the period mentioned in paragraph (1) or (2) even though the application for the extension is not made until after the expiration of that period."
+   }
+  },
+  {
+   "id": "SG-H901-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Registry of Assessors"
+   },
+   "text": {
+    "en": "27.—(1) For the purposes of the administration of Division 4 of Part 2 of the Act and these Regulations, there is to be established an office called the Registry of Assessors.\n(2) The Registry of Assessors is under the control and supervision of the Registrar.\n(3) The office hours of the Registry of Assessors are —\n(a)between 8.30 a.m. and 6 p.m. of any day from Monday to Thursday (except public holidays);\n(b)between 8.30 a.m. and 5.30 p.m. on Friday (except public holidays); but\n(c)if any such day is the eve of the New Year, Lunar New Year or Christmas, between 8.30 a.m. and 12 noon."
+   }
+  },
+  {
+   "id": "SG-H901-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Records"
+   },
+   "text": {
+    "en": "28.—(1) The Registrar must keep the records of every assessor’s determination, including the documents submitted by parties to an assessor’s determination.\n(2) The records may be kept in a manner and form determined by the Registrar.\n(3) After an assessor has made a determination, a party to the determination, a guarantor or surety for the subject obligation and (if applicable) an issuer of a related performance bond may, on payment of any fee that may be prescribed by an order under section 46(1) of the Interpretation Act (Cap. 1) —\n(a)search the record relating to that determination; and\n(b)take a copy of the record.\n(4) The records must be kept for a period of 2 years after the end of the prescribed period."
+   }
+  },
+  {
+   "id": "SG-H901-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Registrar’s directives"
+   },
+   "text": {
+    "en": "29.—(1) The Registrar may issue directives for the purposes of these Regulations and for proceedings before an assessor.\n(2) Without limiting paragraph (1), a Registrar’s directive may provide guidance on the following:\n(a)the practice and procedure for the use of the electronic system;\n(b)documents and information that may be required by the Registrar or an assessor for an assessor’s determination;\n(c)the practice and procedure for an application for an extension of time;\n(d)the practice and procedure for searching and taking copies of records of the Registrar kept under regulation 28."
+   }
+  },
+  {
+   "id": "SG-H901-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 4 ASSESSOR’S DETERMINATION"
+   },
+   "heading": {
+    "en": "Publication of determinations"
+   },
+   "text": {
+    "en": "30. Where, in the Registrar’s opinion, an assessor’s determination ought to be published, the Registrar may publish the facts of the case, the arguments and the determination without disclosing the names of the parties concerned or any information that may disclose their identities."
+   }
+  }
+ ]
+}

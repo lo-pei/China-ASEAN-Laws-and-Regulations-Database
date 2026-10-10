@@ -1,0 +1,91 @@
+{
+ "id": "SG-H1890",
+ "title": {
+  "zh": null,
+  "en": "Immigration (Exemption from Singapore Visa) Order 2026",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p24",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation IA1959-S441-2026",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 4125,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/IA1959-S441-2026?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 4 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1890-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. This Order is the Immigration (Exemption from Singapore Visa) Order 2026 and comes into operation on 1 July 2026."
+   }
+  },
+  {
+   "id": "SG-H1890-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Non-citizens exempt from having Singapore visa"
+   },
+   "text": {
+    "en": "2. The following non‑citizens (other than a non‑citizen who holds a valid passport from a country that is approved by the Minister under section 9B(2) of the Act) are exempt from section 9B(1) of the Act:\n(a)a permanent resident of Singapore;\n(b)any head of state of a foreign country who is a guest of the Government;\n(c)a non‑citizen who holds a valid laissez‑passer issued by the United Nations;\n(d)a member of any visiting force within the meaning given by section 2(1) of the Visiting Forces Act 1960;\n(e)a crew member of an aircraft that arrives in Singapore from a place outside Singapore (whether in a journey to Singapore, or in the course of a journey from a place outside Singapore to another place outside Singapore);\n(f)a non‑citizen (excluding a non‑citizen holding a pass that entitles him or her to enter Singapore multiple times) who holds a valid ordinary passport issued by the government of the People’s Republic of China;\n(g)a non‑citizen who is —\n(i)duly accredited to Singapore as a diplomatic or consular representative of the government of the Republic of Poland, and holds a valid diplomatic passport, official passport, service passport or public affairs passport issued by the government of that country;\n(ii)a staff member of any diplomatic or consular representative of the government of the Republic of Poland, and holds a valid diplomatic passport, official passport, service passport or public affairs passport issued by the government of that country; or\n(iii)a spouse or dependent child of a person mentioned in sub‑paragraph (i) or (ii);\n(h)a non‑citizen who holds a valid passport that is issued by the government of any foreign country specified in the Schedule, the passport being of the type specified opposite that country;\n(i)a non‑citizen arriving in Singapore in special circumstances where an emergency has affected the non‑citizen’s ability to apply for a Singapore visa."
+   }
+  },
+  {
+   "id": "SG-H1890-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Revocation"
+   },
+   "text": {
+    "en": "3. Revoke the Immigration (Exemption from Singapore Visa) Order (O 4)."
+   }
+  },
+  {
+   "id": "SG-H1890-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nParagraph 2(h)\nFirst column\nSecond column\nForeign country\nType of passport\n1.Arab Republic of Egypt\nDiplomatic passport\n2.Federal Republic of Nigeria\nDiplomatic, Official or Service passport\n3.Federative Republic of Brazil\nDiplomatic or Official passport\n4.Hashemite Kingdom of Jordan\nDiplomatic, Official or Service passport\n5.Kingdom of Morocco\nDiplomatic passport\n6.Kingdom of Saudi Arabia\nDiplomatic passport\n7.Kingdom of Thailand\nDiplomatic, Official or Service passport\n8.Kyrgyz Republic\nDiplomatic, Official or Service passport\n9.People’s Republic of Bangladesh\nDiplomatic, Official or Service passport\n10.People’s Republic of China\nDiplomatic, Service or Public Affairs passport\n11.Republic of Armenia\nDiplomatic or Official passport\n12.Republic of Azerbaijan\nDiplomatic, Official or Service passport\n13.Republic of Belarus\nDiplomatic or Official passport\n14.Republic of Cuba\nDiplomatic, Official or Service passport\n15.Republic of Georgia\nDiplomatic, Official or Service passport\n16.Republic of India\nDiplomatic, Official or Service passport\n17.Republic of Indonesia\nDiplomatic, Official or Service passport\n18.Republic of Kazakhstan\nDiplomatic, Official or Service passport\n19.Republic of Kosovo\nDiplomatic or Official passport\n20.Republic of Moldova\nDiplomatic, Official or Service passport\n21.Republic of Peru\nDiplomatic, Official, Service or Public Affairs passport\n22.Republic of Tajikistan\nDiplomatic, Official or Service passport\n23.Republic of the Philippines\nDiplomatic, Official or Service passport\n24.Republic of Tunisia\nDiplomatic, Official, Service or Special passport\n25.Republic of Uzbekistan\nDiplomatic passport\n26.Russian Federation\nDiplomatic or Service passport\n27.Socialist Republic of Vietnam\nDiplomatic, Official or Service passport\n28.State of Israel\nDiplomatic, Official, Service or Public Affairs passport\n29.Turkmenistan\nDiplomatic, Official or Service passport\n30.Ukraine\nDiplomatic, Official or Service passport\n31.Union of Myanmar\nDiplomatic, Official or Service passport"
+   }
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "id": "PH-H7900",
+ "title": {
+  "zh": null,
+  "en": "An Act Prohibiting the Detention of Patients in Hospitals and Medical Clinics on Grounds of Nonpayment of Hospital Bills or Medical Expenses",
+  "orig": "An Act Prohibiting the Detention of Patients in Hospitals and Medical Clinics on Grounds of Nonpayment of Hospital Bills or Medical Expenses"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p112",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2007-04-27",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 9439",
+ "officialCode": null,
+ "topics": [
+  "health"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 7,
+ "chars": 2314,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2007/ra_9439_2007.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 7 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2007/ra_9439_2007.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H7900-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "It shall be unlawful for any hospital or medical clinic in the country to detain or to otherwise cause, directly or indirectly, the detention of patients who have fully or partially recovered or have been adequately attended to or who may have died, for reasons of nonpayment in part or in full of hospital bills or medical expenses."
+   }
+  },
+  {
+   "id": "PH-H7900-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Patients who have fully or partially recovered and who already wish to leave the hospital or medical clinic but are financially incapable to settle, in part or in full, their hospitalization expenses, including professional fees and medicines, shall be allowed to leave the hospital or medical clinic, with a right to demand the issuance of the corresponding medical certificate and other pertinent papers required for the release of the patient from the hospital or medical clinic upon the execution of a promissory note covering the unpaid obligation. The promissory note shall be secured by either a mortgage or by a guarantee of a co-maker, who will be jointly and severally liable with the patient for the unpaid obligation. In the case of a deceased patient, the corresponding death certificate and other documents required for interment and other purposes shall be released to any of his surviving relatives requesting for the same: Provided, however , That patients who stayed in private rooms shall not be covered by this Act."
+   }
+  },
+  {
+   "id": "PH-H7900-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Any officer or employee of the hospital or medical clinic responsible for releasing patients, who violates the provisions of this Act shall be punished by a fine of not less than Twenty thousand pesos (P20,000.00) , but not more than Fifty thousand pesos (P50,000.00) , or imprisonment of not less than one month, but not more than six months, or both such fine and imprisonment, at the discretion of the proper court."
+   }
+  },
+  {
+   "id": "PH-H7900-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "The Department of Health shall promulgate the necessary rules and regulations to carry out the provisions of this Act."
+   }
+  },
+  {
+   "id": "PH-H7900-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "If any provision of this Act is declared void and unconstitutional the remaining provisions hereof not affected thereby shall remain in full force and effect."
+   }
+  },
+  {
+   "id": "PH-H7900-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "All laws, decrees, orders, rules and regulations or part thereof inconsistent with this Act are hereby repealed or amended accordingly."
+   }
+  },
+  {
+   "id": "PH-H7900-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "This Act shall take effect fifteen (15) days after its publication in two national newspapers of general circulation."
+   }
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": "PH-H4873",
+ "title": {
+  "zh": null,
+  "en": "In Act Creating the Municipality of San Ricardo in the Province of Southern Leyte.",
+  "orig": "In Act Creating the Municipality of San Ricardo in the Province of Southern Leyte."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p69",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1971-07-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6360",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1691,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1971/ra_6360_1971.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1971/ra_6360_1971.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4873-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The barrios of San Ricardo, Esperanza, San Antonio, Cabutan, Bitoon, Benit, Timba, Camang, Saub, Pinut-an, Kinachawa and San Ramon in the Municipality of Pintuyan, Province of Southern Leyte, are separated from said municipality and created into a distinct and independent municipality to be known as the Municipality of San Ricardo. The seat of government of the new municipality shall be in the present site of Barrio San Ricardo.\nThe boundary between the mother municipality and the Municipality of San Ricardo shall be that line which shall be established or drawn from a point twenty meters west B the Municipal-Catholic Cemetery of San Ricardo near Babang creek to a point twenty meters west of the present source of the San Ricardo waterworks system, and from there to run towards the present boundary of Barrio San Ricardo and Barrio Buenavista; thence joining the present boundary between Barrio Buenavista and Barrio Camang towards a point which is one-third of the entire distance from Barrio Buenavista towards Bil-atan peek shoreline at a point or mark during high tide; thence running northward to the present boundary of Barrio Buenavista and Barrio Esperanza, maintaining the aforementioned one-third distance from said shoreline, and finally joining the existing boundaries between the other barrios in the north until the present boundary between the Municipalities of Pintuyan and San Francisco."
+   }
+  },
+  {
+   "id": "PH-H4873-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The new municipality shall acquire corporate existence upon the election and qualification of the first mayor, vice-mayor and councilors who shall be elected in the next general election for local officials."
+   }
+  },
+  {
+   "id": "PH-H4873-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, July 22, 1971."
+   }
+  }
+ ]
+}

@@ -1,0 +1,392 @@
+{
+ "id": "SG-H149",
+ "title": {
+  "zh": null,
+  "en": "Air Navigation (67 — Aviation Medical Certification) Regulations 2026",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p02",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ANA1966-S113-2026",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 23,
+ "chars": 58730,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ANA1966-S113-2026?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 23 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 3 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H149-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Air Navigation (67 — Aviation Medical Certification) Regulations 2026 and come into operation on 16 March 2026."
+   }
+  },
+  {
+   "id": "SG-H149-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. Any term in these Regulations that is defined in the First Schedule to the Air Navigation (91 — General Operating Rules) Regulations 2018 (G.N. No. S 441/2018) has the meaning given to that term in that Schedule unless the term is otherwise defined in the First Schedule to these Regulations."
+   }
+  },
+  {
+   "id": "SG-H149-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 AVIATION MEDICAL CERTIFICATES AND AEROMEDICAL REVIEWS"
+   },
+   "heading": {
+    "en": "Aviation medical certificate is precondition to holding licence"
+   },
+   "text": {
+    "en": "3.—(1) An individual is not eligible to be granted (on renewal or otherwise) or to hold any licence as follows, unless the person holds a valid Class 1 aviation medical certificate:\n(a)commercial pilot’s licence (aeroplanes);\n(b)commercial pilot’s licence (helicopters and gyroplanes);\n(c)commercial pilot’s licence (airships);\n(d)airline transport pilot’s licence (aeroplanes);\n(e)airline transport pilot’s licence (helicopters and gyroplanes);\n(f)multi‑crew pilot’s licence (aeroplanes);\n(g)private pilot’s licence (aeroplanes) with an instrument rating (aeroplanes);\n(h)private pilot’s licence (helicopters and gyroplanes) with an instrument rating (helicopters).\n(2) An individual is not eligible to be granted (on renewal or otherwise) or to hold any licence as follows, unless the person holds a valid Class 2 aviation medical certificate:\n(a)student pilot’s licence;\n(b)private pilot’s licence (aeroplanes) without an instrument rating (aeroplanes);\n(c)private pilot’s licence (helicopters and gyroplanes) without an instrument rating (helicopters);\n(d)private pilot’s licence (airships).\n(3) An individual is not eligible to be granted (on renewal or otherwise) or to hold an air traffic controller licence, or to undergo on‑the‑job training to act as an air traffic controller, unless the individual holds a valid Class 3 aviation medical certificate."
+   }
+  },
+  {
+   "id": "SG-H149-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 AVIATION MEDICAL CERTIFICATES AND AEROMEDICAL REVIEWS"
+   },
+   "heading": {
+    "en": "Application for or to renew aviation medical certificate"
+   },
+   "text": {
+    "en": "4.—(1) An application for or to renew an aviation medical certificate must —\n(a)be made to the Director‑General of Civil Aviation in accordance with the requirements in Aviation Specifications 8;\n(b)be accompanied by the relevant fee specified in the Second Schedule; and\n(c)be accompanied by the following documents or information in the form that the Director‑General of Civil Aviation requires:\n(i)the identity and contact address of the applicant;\n(ii)the signed medical report of the licensing medical examination issued and submitted by a Designated Aviation Medical Examiner under regulation 5(2);\n(iii)any other documents or information that the Director‑General of Civil Aviation may require to decide on the application.\n(2) The Director‑General of Civil Aviation may refuse to consider an application for or to renew an aviation medical certificate that is incomplete or not made in accordance with this regulation."
+   }
+  },
+  {
+   "id": "SG-H149-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 AVIATION MEDICAL CERTIFICATES AND AEROMEDICAL REVIEWS"
+   },
+   "heading": {
+    "en": "Licensing medical examination"
+   },
+   "text": {
+    "en": "5.—(1) An applicant for the grant or renewal of an aviation medical certificate must —\n(a)undergo a licensing medical examination conducted —\n(i)by a Designated Aviation Medical Examiner at any premises or place specified by the Director‑General of Civil Aviation, for the purpose of ascertaining whether the applicant’s physical and mental conditions satisfy the applicable standard of medical fitness for that aviation medical certificate; and\n(ii)in accordance with the requirements in Aviation Specifications 8; and\n(b)at the time of undergoing the licensing medical examination mentioned in sub‑paragraph (a), submit to the Designated Aviation Medical Examiner a signed declaration (in accordance with the requirements in Aviation Specifications 8) containing the following information:\n(i)whether the applicant has previously undergone a licensing medical examination and, if so, the date, place and result of the most recent licensing medical examination undergone by the applicant;\n(ii)whether any aviation medical certificate previously held or applied for by the applicant has been refused, revoked or suspended and, if so, the reason for the refusal, revocation or suspension, as the case may be;\n(iii)a complete and accurate statement of the medical facts concerning the applicant’s personal, familial and lifestyle history.\n(2) A Designated Aviation Medical Examiner must, after conducting a licensing medical examination on a person —\n(a)issue a signed medical report stating —\n(i)that the Designated Aviation Medical Examiner has examined the person; and\n(ii)whether the Designated Aviation Medical Examiner considers that the person meets the applicable standard of medical fitness for a Class 1 aviation medical certificate, a Class 2 aviation medical certificate or a Class 3 aviation medical certificate, as the case may be; and\n(b)submit to the Director‑General of Civil Aviation, in the manner and within the time that the Director‑General of Civil Aviation requires, the signed medical report issued under sub‑paragraph (a).\n(3) To avoid doubt, a licensing medical examination conducted by a Designated Aviation Medical Examiner includes any medical examination conducted by another person as long as the results of that medical examination are evaluated by the Designated Aviation Medical Examiner for the purposes of the licensing medical examination.\n(4) A person commits an offence if —\n(a)the person submits a declaration mentioned in paragraph (1)(b) that is incomplete or inaccurate; and\n(b)the person knows or ought reasonably to have known that the declaration is incomplete or inaccurate, as the case may be.\n(5) A person who is guilty of an offence under paragraph (4) shall be liable on conviction —\n(a)for a first offence — to a fine not exceeding $10,000; and\n(b)for a second or subsequent offence — to a fine not exceeding $20,000."
+   }
+  },
+  {
+   "id": "SG-H149-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 AVIATION MEDICAL CERTIFICATES AND AEROMEDICAL REVIEWS"
+   },
+   "heading": {
+    "en": "Grant or renewal of aviation medical certificate"
+   },
+   "text": {
+    "en": "6. The Director‑General of Civil Aviation may, subject to any conditions or limitations that the Director‑General of Civil Aviation thinks fit to impose, grant any application for or to renew an aviation medical certificate —\n(a)if the Director‑General of Civil Aviation is satisfied that the applicant meets the applicable standard of medical fitness for the aviation medical certificate specified in Aviation Specifications 7, based on —\n(i)an evaluation, conducted by one or more Aviation Medical Assessors, of the signed medical report issued under regulation 5(2)(a) in respect of the applicant; or\n(ii)any further medical examination of the applicant conducted or evaluated by a Designated Aviation Medical Examiner, an Aviation Medical Assessor or a medical specialist that the Director‑General of Civil Aviation requires; or\n(b)in the case where the applicant fails to meet that applicable standard of medical fitness for the aviation medical certificate, if —\n(i)an accredited medical conclusion indicates that in specific circumstances, the applicant’s failure to meet that applicable standard of medical fitness for the aviation medical certificate will not affect the applicant’s ability to exercise, without jeopardising flight safety, the functions or privileges under any licence held or to be held by the applicant;\n(ii)the Director‑General of Civil Aviation has given due consideration to the relevant ability, skill and experience of the applicant; and\n(iii)the aviation medical certificate is endorsed with one or more limitations that must be complied with to ensure that any functions or privileges under any licence held or to be held by the applicant are exercised without jeopardising flight safety."
+   }
+  },
+  {
+   "id": "SG-H149-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 AVIATION MEDICAL CERTIFICATES AND AEROMEDICAL REVIEWS"
+   },
+   "heading": {
+    "en": "Validity of aviation medical certificate"
+   },
+   "text": {
+    "en": "7.—(1) Subject to paragraph (2) and regulation 8, an aviation medical certificate granted or renewed on application under regulation 4 is valid for the period specified in the Third Schedule that is applicable to the applicant, starting on —\n(a)the date of the licensing medical examination for the aviation medical certificate, unless sub‑paragraph (b) applies; or\n(b)for an aviation medical certificate that is renewed, where the date of the licensing medical examination is not more than 45 days before the date of expiry of the aviation medical certificate (if not renewed) — the date immediately following that date of expiry.\n(2) The Director‑General of Civil Aviation may, in any particular case, shorten the validity period of an aviation medical certificate granted or renewed.\n(3) For the purposes of paragraph (1) and the Third Schedule, the age of the applicant for the grant or renewal of an aviation medical certificate is to be determined on —\n(a)the date of the licensing medical examination for the aviation medical certificate, unless sub‑paragraph (b) applies; and\n(b)for the renewal of the aviation medical certificate — the date of expiry of the aviation medical certificate being renewed."
+   }
+  },
+  {
+   "id": "SG-H149-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 AVIATION MEDICAL CERTIFICATES AND AEROMEDICAL REVIEWS"
+   },
+   "heading": {
+    "en": "Extending validity of aviation medical certificate"
+   },
+   "text": {
+    "en": "8.—(1) The holder of an aviation medical certificate may apply to the Director‑General of Civil Aviation to extend the validity of the aviation medical certificate if —\n(a)the holder of the aviation medical certificate —\n(i)is a flight crew member of an aerial work category aircraft, a private category aircraft or a transport category aircraft; or\n(ii)holds a private pilot’s licence;\n(b)on the date of expiry of the aviation medical certificate, the holder of the aviation medical certificate is or will be in a place outside Singapore where a Designated Aviation Medical Examiner is not available; and\n(c)the holder of the aviation medical certificate is or will be unable to return to Singapore in order to undergo a licensing medical examination before the date of expiry of the aviation medical certificate.\n(2) An application to extend the validity of an aviation medical certificate must —\n(a)be made to the Director‑General of Civil Aviation in accordance with the requirements in Aviation Specifications 8; and\n(b)be accompanied by the following documents or information in the form that the Director‑General of Civil Aviation requires:\n(i)the identity and contact address of the applicant;\n(ii)documents and other evidence of the circumstances mentioned in paragraph (1)(a), (b) and (c);\n(iii)if there is any change to the medical facts concerning the applicant’s personal history from the licensing medical examination or any aeromedical review undergone by the applicant in relation to the aviation medical certificate for which an extension of validity is sought — a declaration by the applicant of those changes;\n(iv)any other documents or information that the Director‑General of Civil Aviation may require to decide on the application.\n(3) After considering any application to extend the validity of an aviation medical certificate, the Director‑General of Civil Aviation may —\n(a)extend the validity of the aviation medical certificate —\n(i)where the applicant is a flight crew member of an aerial work category aircraft or a private category aircraft — once for a period not exceeding 6 months;\n(ii)where the applicant is a flight crew member of a transport category aircraft — not more than twice consecutively, and not exceeding 3 months each time; or\n(iii)where the applicant holds a private pilot’s licence — once for a period not exceeding 24 months; or\n(b)refuse to extend the validity of the aviation medical certificate.\n(4) Despite paragraph (3), the Director‑General of Civil Aviation may, without any application (whether generally or in any particular case), extend the validity of any aviation medical certificate for —\n(a)a single period not exceeding 3 months; and\n(b)if necessary, up to 2 further consecutive periods, each not exceeding 6 months."
+   }
+  },
+  {
+   "id": "SG-H149-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 AVIATION MEDICAL CERTIFICATES AND AEROMEDICAL REVIEWS"
+   },
+   "heading": {
+    "en": "Responsibilities of holder of aviation medical certificate"
+   },
+   "text": {
+    "en": "9.—(1) The holder of an aviation medical certificate must comply with every condition and limitation endorsed on the aviation medical certificate granted under regulation 6.\n(2) A person who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)for a first offence — to a fine not exceeding $50,000; and\n(b)for a second or subsequent offence — to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both."
+   }
+  },
+  {
+   "id": "SG-H149-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 AVIATION MEDICAL CERTIFICATES AND AEROMEDICAL REVIEWS"
+   },
+   "heading": {
+    "en": "Decrease in medical fitness"
+   },
+   "text": {
+    "en": "10.—(1) A holder of an aviation medical certificate —\n(a)who has a significant medical condition, and who knows or has reason to believe that he or she has a significant medical condition;\n(b)who knows or has reason to believe that she is pregnant;\n(c)who is —\n(i)prescribed any medication upon being diagnosed with; or\n(ii)prescribed any new medication while receiving or undergoing treatment for,\nany long‑term or chronic illness or condition;\n(d)who is given a notice of unfitness under regulation 5(5) of the Air Navigation (99 — Breath Testing for Alcohol) Regulations 2019 (G.N. No. S 177/2019); or\n(e)who knows or has reason to believe that he or she has a problem with dependency on psychoactive substances,\nmust inform the Director‑General of Civil Aviation in writing as soon as possible after the occurrence of the event.\n(2) A holder of an aviation medical certificate is deemed to be in a DMF state —\n(a)starting on the earliest of any of the following dates (where applicable):\n(i)the date of occurrence of any event in paragraph (1)(a), (b), (c), (d) or (e);\n(ii)the date on which the Director‑General of Civil Aviation, a Designated Aviation Medical Examiner or an Aviation Medical Assessor assesses that the holder’s physical or mental condition, arising from any cause, is of aeromedical significance and could render the holder unable to safely exercise any functions or privileges under any licence held by the holder;\n(iii)the date on which the Director‑General of Civil Aviation notifies the holder to undergo an aeromedical review for the purpose of ascertaining whether the holder’s medical fitness has decreased to an extent that would render the holder unable to safely exercise any functions or privileges under any licence held by the holder; and\n(b)ending on the date on which the Director‑General of Civil Aviation determines (based on an aeromedical review undergone by the holder of the aviation medical certificate or otherwise) that the holder is fit to resume exercising the functions and privileges under each licence held by the holder.\n(3) A holder of an aviation medical certificate who is, or is deemed to be, in a DMF state is not entitled, for the duration of the DMF state, to —\n(a)exercise or perform any privilege or function specified in Part A of the Eighth Schedule to the Air Navigation Order (O 2) under the heading “Privileges” in respect of any licence held by the holder;\n(b)perform any function specified in Part B of the Eighth Schedule to the Air Navigation Order in respect of a rating included in any such licence;\n(c)exercise any privileges of an air traffic controller licence specified in paragraph 62A(1) of the Air Navigation Order, or act as an air traffic controller in accordance with any air traffic controller rating specified in the Seventeenth Schedule to that Order, in respect of an air traffic controller licence held by the holder; and\n(d)undergo on‑the‑job training to act as an air traffic controller.\n(4) A person who contravenes paragraph (1) or (3) shall be guilty of an offence and shall be liable on conviction —\n(a)for a first offence — to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both; and\n(b)for a second or subsequent offence — to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.\n(5) In paragraph (1), “significant medical condition” includes —\n(a)any of the following (no matter how minor):\n(i)any illness or condition that requires any medical treatment or attendance at a hospital, or that requires any medical treatment by or attendance before a medical specialist, in Singapore or elsewhere;\n(ii)any personal injury resulting in bodily infirmity, defect or incapacity;\n(iii)any mental infirmity, defect or incapacity;\n(iv)any sequela of an illness, condition, injury, infirmity, defect or incapacity mentioned in sub‑paragraph (i), (ii) or (iii);\n(b)any abnormal psychological state; and\n(c)for a woman, termination of pregnancy."
+   }
+  },
+  {
+   "id": "SG-H149-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 AVIATION MEDICAL CERTIFICATES AND AEROMEDICAL REVIEWS"
+   },
+   "heading": {
+    "en": "Aeromedical review, etc."
+   },
+   "text": {
+    "en": "11.—(1) A holder of an aviation medical certificate must undergo —\n(a)an aeromedical review, conducted in accordance with the requirements in Aviation Specifications 8, by a Designated Aviation Medical Examiner for the purpose of —\n(i)monitoring the holder’s physical and mental conditions, as may be required under the conditions or limitations endorsed on the aviation medical certificate;\n(ii)ascertaining whether the holder’s medical fitness has decreased to an extent that would render the holder unable to safely exercise any functions or privileges under any licence held by the holder; or\n(iii)in the case where the holder is deemed to be in a DMF state, ascertaining whether the holder is fit to resume exercising the functions and privileges under each licence held by the holder; and\n(b)any other medical examination that the Director‑General of Civil Aviation requires.\n(2) To avoid doubt, an aeromedical review conducted by a Designated Aviation Medical Examiner includes any medical examination conducted by another person as long as the results of that medical examination are evaluated by the Designated Aviation Medical Examiner for the purposes of the aeromedical review."
+   }
+  },
+  {
+   "id": "SG-H149-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 AVIATION MEDICAL CERTIFICATES AND AEROMEDICAL REVIEWS"
+   },
+   "heading": {
+    "en": "Revocation or suspension of aviation medical certificate"
+   },
+   "text": {
+    "en": "12.—(1) The Director‑General of Civil Aviation may revoke or suspend an aviation medical certificate —\n(a)if the holder of the aviation medical certificate is convicted of an offence under regulation 5(4), 9(2) or 10(4); or\n(b)where the holder of the aviation medical certificate had been granted an extension of the validity of his or her aviation medical certificate — if the Director‑General of Civil Aviation finds that the holder had failed to declare any change mentioned in regulation 8(2)(b)(iii) that the holder knew or ought reasonably to have known about.\n(2) Before exercising any power under paragraph (1), the Director‑General of Civil Aviation must give notice to the holder of the aviation medical certificate concerned ⸺\n(a)stating that the Director‑General of Civil Aviation proposes to revoke or suspend the aviation medical certificate;\n(b)specifying the reasons for which the Director‑General of Civil Aviation intends to revoke or suspend the aviation medical certificate; and\n(c)specifying the time (being at least 14 days from the date of service of notice on the holder) within which written representations may be made to the Director‑General of Civil Aviation with respect to the proposed revocation or suspension (as the case may be) of the aviation medical certificate.\n(3) The Director‑General of Civil Aviation may, after considering any written representation made pursuant to paragraph (2)(c), decide whether or not to revoke or suspend (as the case may be) the aviation medical certificate as the Director‑General of Civil Aviation considers appropriate.\n(4) The Director‑General of Civil Aviation must serve on the holder of an aviation medical certificate concerned a written notice of his or her decision under paragraph (3), and if the decision is to revoke or suspend the aviation medical certificate, the written notice must ⸺\n(a)state that the Director‑General of Civil Aviation revokes or suspends (as the case may be) the aviation medical certificate and ⸺\n(i)the date the revocation takes effect; or\n(ii)the date the suspension takes effect and ends; and\n(b)specify each ground for the revocation or suspension, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H149-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 DESIGNATED AVIATION MEDICAL EXAMINERS AND AVIATION MEDICAL ASSESSORS"
+   },
+   "heading": {
+    "en": "Application to be Designated Aviation Medical Examiner"
+   },
+   "text": {
+    "en": "13.—(1) An individual who wishes to be appointed as a Designated Aviation Medical Examiner must apply to the Director‑General of Civil Aviation for the appointment in accordance with this regulation.\n(2) An application for appointment as a Designated Aviation Medical Examiner must —\n(a)be made in accordance with the requirements in Aviation Specifications 9; and\n(b)be accompanied by the following documents and information in the form that the Director‑General of Civil Aviation requires:\n(i)the identity and contact address of the applicant;\n(ii)any other documents or information that the Director‑General of Civil Aviation may require to decide on the application.\n(3) An applicant for appointment as a Designated Aviation Medical Examiner must be registered under the Medical Registration Act 1997 as a medical practitioner and hold a valid practising certificate under that Act.\n(4) The Director‑General of Civil Aviation may refuse to consider an application for appointment as a Designated Aviation Medical Examiner that is incomplete or not made in accordance with this regulation."
+   }
+  },
+  {
+   "id": "SG-H149-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 DESIGNATED AVIATION MEDICAL EXAMINERS AND AVIATION MEDICAL ASSESSORS"
+   },
+   "heading": {
+    "en": "Appointment of Designated Aviation Medical Examiner"
+   },
+   "text": {
+    "en": "14.—(1) The Director‑General of Civil Aviation may, subject to any condition that the Director‑General of Civil Aviation thinks fit to impose, appoint an applicant mentioned in regulation 13 as a Designated Aviation Medical Examiner if the Director‑General of Civil Aviation is satisfied that —\n(a)the applicant meets the requirement in regulation 13(3); and\n(b)the applicant holds the qualifications, demonstrates the competencies in aviation medicine and meets the requirements specified for a Designated Aviation Medical Examiner in Aviation Specifications 9.\n(2) The appointment of an individual as a Designated Aviation Medical Examiner is valid for the period specified in the certificate of appointment issued by the Director‑General of Civil Aviation to the individual.\n(3) The Director‑General of Civil Aviation may revoke or suspend the appointment of any individual as a Designated Aviation Medical Examiner if —\n(a)the individual fails to carry out the functions and duties under regulation 15 in a satisfactory manner;\n(b)the individual has had, under the Medical Registration Act 1997, his or her name removed from the appropriate register, his or her registration suspended, or his or her practising certificate cancelled;\n(c)the individual fails to maintain the confidentiality of any medical evaluation conducted, or any medical report issued, by the individual in the individual’s capacity as a Designated Aviation Medical Examiner;\n(d)any medical evaluation conducted, or any medical report issued, by the individual in the individual’s capacity as a Designated Aviation Medical Examiner is inadequate, incomplete or misleading; or\n(e)the individual has ceased, or is unfit, to practise medicine for any reason.\n(4) Before exercising any power under paragraph (3), the Director‑General of Civil Aviation must give notice to the individual concerned ⸺\n(a)stating that the Director‑General of Civil Aviation proposes to revoke or suspend the individual’s appointment as a Designated Aviation Medical Examiner;\n(b)specifying the reasons for which the Director‑General of Civil Aviation intends to revoke or suspend the appointment; and\n(c)specifying the time (being at least 14 days from the date of service of notice on the individual) within which written representations may be made to the Director‑General of Civil Aviation with respect to the proposed revocation or suspension (as the case may be) of the appointment.\n(5) The Director‑General of Civil Aviation may, after considering any written representation made pursuant to paragraph (4)(c), decide whether or not to revoke or suspend (as the case may be) the individual’s appointment as a Designated Aviation Medical Examiner as the Director‑General of Civil Aviation considers appropriate.\n(6) The Director‑General of Civil Aviation must serve on the individual concerned a written notice of his or her decision under paragraph (5), and if the decision is to revoke or suspend the individual’s appointment as a Designated Aviation Medical Examiner, the written notice must ⸺\n(a)state that the Director‑General of Civil Aviation revokes or suspends (as the case may be) the individual’s appointment and ⸺\n(i)the date the revocation takes effect; or\n(ii)the date the suspension takes effect and ends; and\n(b)specify each ground for the revocation or suspension, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H149-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 DESIGNATED AVIATION MEDICAL EXAMINERS AND AVIATION MEDICAL ASSESSORS"
+   },
+   "heading": {
+    "en": "Functions and duties of Designated Aviation Medical Examiner"
+   },
+   "text": {
+    "en": "15. A Designated Aviation Medical Examiner must —\n(a)after conducting a licensing medical examination on an applicant for the grant or renewal of an aviation medical certificate, submit to the Director‑General of Civil Aviation any report that the Director‑General of Civil Aviation may require, in respect of the licensing medical examination;\n(b)after conducting an aeromedical review on a holder of an aviation medical certificate, submit to the Director‑General of Civil Aviation a medical report and any other report that the Director‑General of Civil Aviation may require, in respect of the aeromedical review; and\n(c)carry out any other functions and duties specified for a Designated Aviation Medical Examiner in Aviation Specifications 9."
+   }
+  },
+  {
+   "id": "SG-H149-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 DESIGNATED AVIATION MEDICAL EXAMINERS AND AVIATION MEDICAL ASSESSORS"
+   },
+   "heading": {
+    "en": "Application to be Aviation Medical Assessor"
+   },
+   "text": {
+    "en": "16.—(1) An individual who wishes to be appointed as an Aviation Medical Assessor must apply to the Director‑General of Civil Aviation for the appointment in accordance with this regulation.\n(2) An application for appointment as an Aviation Medical Assessor must —\n(a)be made in accordance with the requirements in Aviation Specifications 9; and\n(b)be accompanied by the following documents and information in the form that the Director‑General of Civil Aviation requires:\n(i)the identity and contact address of the applicant;\n(ii)any other documents or information that the Director‑General of Civil Aviation may require to decide on the application.\n(3) An applicant for appointment as an Aviation Medical Assessor must be registered under the Medical Registration Act 1997 as a medical practitioner and hold a valid practising certificate under that Act.\n(4) The Director‑General of Civil Aviation may refuse to consider an application for appointment as an Aviation Medical Assessor that is incomplete or not made in accordance with this regulation."
+   }
+  },
+  {
+   "id": "SG-H149-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 DESIGNATED AVIATION MEDICAL EXAMINERS AND AVIATION MEDICAL ASSESSORS"
+   },
+   "heading": {
+    "en": "Appointment of Aviation Medical Assessor"
+   },
+   "text": {
+    "en": "17.—(1) The Director‑General of Civil Aviation may, subject to any condition that the Director‑General of Civil Aviation thinks fit to impose, appoint an applicant mentioned in regulation 16 as an Aviation Medical Assessor if the Director‑General of Civil Aviation is satisfied that —\n(a)the applicant meets the requirement in regulation 16(3); and\n(b)the applicant holds the qualifications, demonstrates the competencies and meets the requirements specified for an Aviation Medical Assessor in Aviation Specifications 9.\n(2) The appointment of an individual as an Aviation Medical Assessor is valid for the period specified in the certificate of appointment issued by the Director‑General of Civil Aviation to the individual.\n(3) The Director‑General of Civil Aviation may revoke or suspend the appointment of any individual as an Aviation Medical Assessor if —\n(a)the individual fails to carry out the functions and duties under regulation 18 in a satisfactory manner;\n(b)the individual has had, under the Medical Registration Act 1997, his or her name removed from the appropriate register, his or her registration suspended, or his or her practising certificate cancelled;\n(c)the individual fails to maintain the confidentiality of any medical evaluation conducted, or any medical report reviewed, by the individual in the individual’s capacity as an Aviation Medical Assessor;\n(d)any medical evaluation conducted, or any medical report reviewed, by the individual in the individual’s capacity as an Aviation Medical Assessor is inadequate, incomplete or misleading; or\n(e)the individual has ceased, or is unfit, to practise medicine for any reason.\n(4) Before exercising any power under paragraph (3), the Director‑General of Civil Aviation must give notice to the individual concerned ⸺\n(a)stating that the Director‑General of Civil Aviation proposes to revoke or suspend the individual’s appointment as an Aviation Medical Assessor;\n(b)specifying the reasons for which the Director‑General of Civil Aviation intends to revoke or suspend the appointment; and\n(c)specifying the time (being at least 14 days from the date of service of notice on the individual) within which written representations may be made to the Director‑General of Civil Aviation with respect to the proposed revocation or suspension (as the case may be) of the appointment.\n(5) The Director‑General of Civil Aviation may, after considering any written representation made pursuant to paragraph (4)(c), decide whether or not to revoke or suspend (as the case may be) the individual’s appointment as an Aviation Medical Assessor as the Director‑General of Civil Aviation considers appropriate.\n(6) The Director‑General of Civil Aviation must serve on the individual concerned a written notice of his or her decision under paragraph (5), and if the decision is to revoke or suspend the individual’s appointment as an Aviation Medical Assessor, the written notice must ⸺\n(a)state that the Director‑General of Civil Aviation revokes or suspends (as the case may be) the individual’s appointment and ⸺\n(i)the date the revocation takes effect; or\n(ii)the date the suspension takes effect and ends; and\n(b)specify each ground for the revocation or suspension, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H149-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 DESIGNATED AVIATION MEDICAL EXAMINERS AND AVIATION MEDICAL ASSESSORS"
+   },
+   "heading": {
+    "en": "Functions and duties of Aviation Medical Assessor"
+   },
+   "text": {
+    "en": "18. An Aviation Medical Assessor must —\n(a)after reviewing a medical report issued under regulation 5(2)(a) in respect of an applicant for the grant or renewal of an aviation medical certificate, submit to the Director‑General of Civil Aviation a medical evaluation and any other medical certification that the Director‑General of Civil Aviation may require, in respect of the applicant;\n(b)after reviewing a medical report issued under regulation 15(b) for the purposes of an aeromedical review in respect of a holder of an aviation medical certificate, submit to the Director‑General of Civil Aviation a medical evaluation and any other medical certification that the Director‑General of Civil Aviation may require in respect of the holder;\n(c)carry out an audit or review, in accordance with the requirements specified for such an audit and review in Aviation Specifications 9, of the performance of any Designated Aviation Medical Examiner that the Director‑General of Civil Aviation may require; and\n(d)carry out any other functions and duties specified for an Aviation Medical Assessor in Aviation Specifications 9."
+   }
+  },
+  {
+   "id": "SG-H149-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "19.—(1) The provisions of the Second Schedule are to have effect with respect to the fee to be charged in connection with the application for or to renew an aviation medical certificate required by, or for the purpose of, these Regulations.\n(2) Upon an application being made in connection with which any fee is chargeable in accordance with paragraph (1), the applicant must, before the application is entertained, pay the fee so chargeable.\n(3) The Director‑General of Civil Aviation may, in any particular case, waive or refund in whole or in part any fee payable under these Regulations on any terms and conditions that the Director‑General of Civil Aviation thinks fit."
+   }
+  },
+  {
+   "id": "SG-H149-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Saving and transitional provisions"
+   },
+   "text": {
+    "en": "20.—(1) A medical examination under paragraph 2(b) of the Fourteenth Schedule to the Air Navigation Order (as in force immediately before 16 March 2026), completed before 16 March 2026, or commenced before 16 March 2026 and yet to be completed before that date, on an applicant for the grant or renewal of any of the following licences, is treated as a licensing medical examination conducted or that is in the process of being conducted (as the case may be) under regulation 5(1)(a) for the grant or renewal of an aviation medical certificate on or after 16 March 2026:\n(a)any licence that may be granted or renewed by the Chief Executive under paragraph 20 of that Order (as in force immediately before 16 March 2026);\n(b)an air traffic controller licence that may be granted or renewed by the Authority under paragraph 62A(2) of that Order (as in force immediately before 16 March 2026).\n(2) The following:\n(a)a declaration furnished under paragraph 4(a) of the Fourteenth Schedule to the Air Navigation Order (as in force immediately before 16 March 2026);\n(b)a statement of medical facts furnished under paragraph 4(b) of that Schedule for the purposes of a medical examination mentioned in paragraph (1),\nare together treated as a signed declaration submitted by the applicant under regulation 5(1)(b) for the purposes of a licensing medical examination mentioned in paragraph (1).\n(3) A report of an evaluation of an applicant for the grant or renewal of any of the following licences, submitted before 16 March 2026 to a medical assessor under paragraph 3(2) of the Fourteenth Schedule to the Air Navigation Order (as in force immediately before 16 March 2026), that has yet to be assessed by the medical assessor immediately before 16 March 2026, is treated as a signed medical report issued under regulation 5(2)(a) and submitted to the Director‑General of Civil Aviation under regulation 5(2)(b):\n(a)any licence that may be granted or renewed by the Chief Executive under paragraph 20 of that Order (as in force immediately before 16 March 2026);\n(b)an air traffic controller licence that may be granted or renewed by the Authority under paragraph 62A(2) of that Order (as in force immediately before 16 March 2026).\n(4) The holder of any of the following licences that remains in force immediately before 16 March 2026, is treated as having been granted, under regulation 6, the relevant class of aviation medical certificate (applicable to the holder under regulation 3) that is valid for the period of validity of the licence:\n(a)any licence granted or renewed by the Chief Executive under paragraph 20 of the Air Navigation Order (as in force immediately before 16 March 2026);\n(b)an air traffic controller licence granted or renewed by the Authority under paragraph 62A(2) of that Order (as in force immediately before 16 March 2026).\n(5) A person —\n(a)who is undergoing on‑the‑job training to act as an air traffic controller; and\n(b)who holds a Class 3 medical assessment, which is granted for the purposes of the applicable standards specified in the Manual of Standards — Licensing of Air Traffic Control Personnel published under paragraph 62A(3B) of the Air Navigation Order, that remains in force immediately before 16 March 2026,\nis treated as having been granted, under regulation 6, a Class 3 aviation medical certificate that is valid for the remaining period of validity of that Class 3 medical assessment.\n(6) Where —\n(a)the holder of a licence granted or renewed by the Chief Executive before 16 March 2026 under paragraph 20(1)(b) to (f), (h), (ia), (j) or (k) of the Air Navigation Order (as in force immediately before 16 March 2026) is treated, under paragraph (4), as having been granted, under regulation 6, a Class 1 aviation medical certificate; and\n(b)the holder of the licence has, for the purpose of an extension of validity of the licence —\n(i)undergone a medical examination before 16 March 2026, regardless of whether that medical examination was completed before, on or after that date, for the purposes of paragraph 20(1) or (6) of the Air Navigation Order (as in force immediately before 16 March 2026) but not a licensing medical examination on or after 16 March 2026; or\n(ii)undergone a medical examination before 16 March 2026, regardless of whether that medical examination was completed before, on or after that date, for the purposes of paragraph 20(8A)(a), (9)(b) or (9A)(b) of that Order (as in force immediately before 16 March 2026) but not an aeromedical review on or after 16 March 2026,\nthe holder of the licence is treated as having satisfied the requirement in regulation 8(2)(b)(iii) by making a declaration of any change to the medical facts concerning the holder’s personal history from any of the medical examinations mentioned in sub‑paragraph (b)(i) or (ii) (as the case may be) that the holder has undergone.\n(7) Where —\n(a)the holder of a licence that was granted or renewed by the Chief Executive under paragraph 20(1) of the Air Navigation Order before 16 March 2026 and remained in force immediately before that date, is allowed a deferment of a medical examination under paragraph 6 of the Fourteenth Schedule to that Order (as in force immediately before that date) before that date; and\n(b)the period of deferment ends on or after that date,\nthe validity of any aviation medical certificate treated as granted to the holder under paragraph (4), is treated as having been extended under regulation 8(3)(a) up to the end of the period of deferment.\n(8) Despite paragraph (4), where, on or after the date of occurrence of any matter mentioned in paragraph 20(7)(a) to (g) of the Air Navigation Order (as in force immediately before 16 March 2026) —\n(a)the privileges of any licence mentioned in paragraph 20(1)(a) to (k) of that Order were deemed to be suspended, under paragraph 20(8), (9)(a) or (9A)(a) (as the case may be) of that Order (as in force immediately before 16 March 2026), starting on a date before 16 March 2026; and\n(b)the suspension has not ceased under paragraph 20(8A), (9)(b) or (9A)(b) (as the case may be) of that Order (as in force immediately before 16 March 2026) as of 16 March 2026,\nthen the holder of that licence is treated as the holder of an aviation medical certificate who is deemed to be in a DMF state under regulation 10(2) starting —\n(c)for a matter mentioned in paragraph 20(7)(b) of that Order (as in force immediately before 16 March 2026) — 20 days after the date of occurrence of the matter;\n(d)for a matter mentioned in paragraph 20(7)(c) of that Order (as in force immediately before 16 March 2026) — on the date the pregnancy of the holder was diagnosed;\n(e)for a matter mentioned in paragraph 20(7)(g) of that Order (as in force immediately before 16 March 2026) — on the date the Chief Executive was informed of the matter by the holder under paragraph 20(7)(i)(A) of that Order (as in force immediately before 16 March 2026); or\n(f)in any other case — on the date of occurrence of the matter,\nand ending on —\n(g)if the Chief Executive has determined a date of cessation of that suspension under paragraph 20(8A), (9)(b) or (9A)(b) (as the case may be) of that Order (as in force immediately before 16 March 2026) — that date of cessation; or\n(h)in any other case — the date mentioned in regulation 10(2)(b).\n(9) Where the holder of any licence mentioned in paragraph 20(1)(a) to (k) of the Air Navigation Order (as in force immediately before 16 March 2026) has undergone a medical examination before 16 March 2026, or was in the process of undergoing a medical examination which has not been completed before that date, for the purposes of paragraph 20(8A)(a), (9)(b) or (9A)(b) of that Order (as in force immediately before 16 March 2026), the medical examination is treated as an aeromedical review that the holder has undergone, or is in the process of undergoing (as the case may be), and may form the basis of a determination under regulation 10(2)(b) of the Director‑General of Civil Aviation on or after that date.\n(10) Despite paragraph (4), where, on or after the date of occurrence of any matter mentioned in paragraph 62E(1)(a), (b), (d) or (e) of the Air Navigation Order (as in force immediately before 16 March 2026) —\n(a)the holder of an air traffic controller licence was prohibited from acting as an air traffic controller in accordance with the air traffic controller rating specified in the Seventeenth Schedule to that Order in respect of the licence, under paragraph 62E(2) of that Order (as in force immediately before 16 March 2026), starting on a date before 16 March 2026; and\n(b)the prohibition remained in force under paragraph 62E(2) of that Order (as in force immediately before 16 March 2026) as of 16 March 2026,\nthen the holder of that licence is treated as the holder of an aviation medical certificate who is deemed to be in a DMF state under regulation 10(2) starting —\n(c)for a matter mentioned in paragraph 62E(1)(b) of that Order (as in force immediately before 16 March 2026) — 20 days after the date of occurrence of the matter; or\n(d)in any other case — on the date of occurrence of the matter,\nand ending on —\n(e)if the Chief Executive has determined a date the holder may resume exercising the privileges of the holder’s licence and related ratings under paragraph 62E(2) of that Order (as in force immediately before 16 March 2026) — that date of resumption; or\n(f)in any other case — the date mentioned in regulation 10(2)(b).\n(11) Despite paragraph (4), where —\n(a)the holder of an air traffic controller licence was prohibited from acting as an air traffic controller in accordance with the air traffic controller rating specified in the Seventeenth Schedule to the Air Navigation Order in respect of the licence, under paragraph 62E(4) of that Order (as in force immediately before 16 March 2026), starting on a date before 16 March 2026; and\n(b)the prohibition remained in force under paragraph 62E(4) of that Order (as in force immediately before 16 March 2026) as of 16 March 2026,\nthen the holder is treated as the holder of an aviation medical certificate who is deemed to be in a DMF state under regulation 10(2) —\n(c)starting on the date the holder was certified as unfit to act as an air traffic controller under paragraph 62E(4) of that Order (as in force immediately before 16 March 2026); and\n(d)ending on the date mentioned in regulation 10(2)(b).\n(12) Where the holder of an air traffic controller licence has undergone a medical examination before 16 March 2026, or was in the process of undergoing a medical examination which has not been completed before that date, for the purposes of paragraph 62E(2)(a) or (3) of the Air Navigation Order (as in force immediately before 16 March 2026), the medical examination is treated as an aeromedical review that the holder has undergone, or is in the process of undergoing (as the case may be), and may form the basis of a determination under regulation 10(2)(b) of the Director‑General of Civil Aviation on or after that date.\n(13) Every application —\n(a)for the Chief Executive’s approval of a person to conduct a medical examination of and report on the fitness of an applicant for a licence or rating for which medical requirements are prescribed in the Fourteenth Schedule to the Air Navigation Order (as in force immediately before 16 March 2026), pursuant to paragraph (d) of the definition of “designated medical examiner” in paragraph 2(1) of that Order (as in force immediately before 16 March 2026); and\n(b)which is pending immediately before 16 March 2026,\nis treated as an application to the Director‑General of Civil Aviation for the individual’s appointment as a Designated Aviation Medical Examiner under regulation 13.\n(14) A person —\n(a)who was approved (whether or not subject to any conditions) by the Chief Executive, to conduct a medical examination of and report on the fitness of an applicant for a licence or rating for which medical requirements are prescribed in the Fourteenth Schedule to the Air Navigation Order (as in force immediately before 16 March 2026), pursuant to paragraph (d) of the definition of “designated medical examiner” in paragraph 2(1) of that Order (as in force immediately before 16 March 2026); and\n(b)whose approval remains in force immediately before 16 March 2026,\nis treated as a person appointed, by the Director‑General of Civil Aviation, as a Designated Aviation Medical Examiner under regulation 14 subject to those conditions (if any), and the appointment is valid for the period of the approval by the Chief Executive.\n(15) Every application —\n(a)for the Chief Executive’s approval of a person to assess the medical fitness of an applicant under the Fourteenth Schedule to the Air Navigation Order (as in force immediately before 16 March 2026) based on evaluating the report of a designated medical examiner (as defined in paragraph 2(1) of that Order immediately before 16 March 2026) and any other assessments, pursuant to paragraph (d) of the definition of “medical assessor” in paragraph 2(1) of that Order (as in force immediately before 16 March 2026); and\n(b)which is pending immediately before 16 March 2026,\nis treated as an application to the Director‑General of Civil Aviation for the individual’s appointment as an Aviation Medical Assessor under regulation 16.\n(16) A person —\n(a)who was approved (whether or not subject to any conditions) by the Chief Executive, to assess the medical fitness of an applicant under the Fourteenth Schedule to the Air Navigation Order (as in force immediately before 16 March 2026) based on evaluating the report of a designated medical examiner (as defined in paragraph 2(1) of that Order immediately before 16 March 2026) and any other assessments, pursuant to paragraph (d) of the definition of “medical assessor” in paragraph 2(1) of that Order (as in force immediately before 16 March 2026); and\n(b)whose approval remains in force immediately before 16 March 2026,\nis treated as a person appointed, by the Director‑General of Civil Aviation, as an Aviation Medical Assessor under regulation 17 subject to those conditions (if any), and the appointment is valid for the period of the approval by the Chief Executive.\n(17) In this regulation, “Chief Executive” means the Chief Executive of the Authority appointed under section 11 of the Civil Aviation Authority of Singapore Act 2009, and includes any person authorised by the Chief Executive to act on the Chief Executive’s behalf and any person acting in that capacity."
+   }
+  },
+  {
+   "id": "SG-H149-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 2\nDefinitions\n“accredited medical conclusion” means a conclusion reached, in consultation with one or more experts on flight operations or other matters, by one or more medical experts acceptable to the Director‑General of Civil Aviation.\n“aerial work category aircraft” means an aircraft in respect of which a Certificate of Airworthiness in the Aerial Work Category, issued under paragraph 7 of the Air Navigation Order, is in force.\n“aeromedical review” means an aeromedical review conducted by a Designated Aviation Medical Examiner in accordance with regulation 11.\n“aeromedical significance”, in relation to a physical or mental condition of a holder of an aviation medical certificate, means that the physical or mental condition interferes, or is likely to interfere, with the holder’s ability to safely exercise any functions or privileges under any licence held by the holder.\n“air traffic controller licence” has the meaning given by paragraph 2(1) of the Air Navigation Order.\n“applicable standard of medical fitness”, in relation to an aviation medical certificate, means the standard of medical fitness specified for an aviation medical certificate of the class to which it belongs, in Aviation Specifications 7.\n“applicant” means a person who makes an application to the Director‑General of Civil Aviation.\n“application” means an application in connection with the issue, grant, renewal, or variation of any approval, certificate, licence, permit, registration, or other document required by, or for the purpose of, these Regulations.\n“Aviation Medical Assessor” means an Aviation Medical Assessor appointed by the Director‑General of Civil Aviation under regulation 17.\n“aviation medical certificate” means a Class 1 aviation medical certificate, Class 2 aviation medical certificate or Class 3 aviation medical certificate.\n“Aviation Specifications 7” means the document entitled “Aviation Specifications 7 — Medical Standards” published by the Director‑General of Civil Aviation, as amended from time to time.\n“Aviation Specifications 8” means the document entitled “Aviation Specifications 8 — Licensing Medical Examinations and Aeromedical Reviews” published by the Director‑General of Civil Aviation, as amended from time to time.\n“Aviation Specifications 9” means the document entitled “Aviation Specifications 9 — Designated Aviation Medical Examiners and Aviation Medical Assessors” published by the Director‑General of Civil Aviation, as amended from time to time.\n“Class 1 aviation medical certificate” means an aviation medical certificate granted by the Director‑General of Civil Aviation under regulation 6, which certifies that the holder meets the standard of medical fitness specified for a Class 1 aviation medical certificate in Aviation Specifications 7.\n“Class 2 aviation medical certificate” means an aviation medical certificate granted by the Director‑General of Civil Aviation under regulation 6, which certifies that the holder meets the standard of medical fitness specified for a Class 2 aviation medical certificate in Aviation Specifications 7.\n“Class 3 aviation medical certificate” means an aviation medical certificate granted by the Director‑General of Civil Aviation under regulation 6, which certifies that the holder meets the standard of medical fitness specified for a Class 3 aviation medical certificate in Aviation Specifications 7.\n“contact address”, in relation to an individual, means the address of the individual’s place of residence or workplace.\n“date of the licensing medical examination”, in relation to a licensing medical examination, means the date stated in the signed medical report, issued under regulation 5(2)(a) in respect of the licensing medical examination, as the date on which the licensing medical examination was conducted.\n“dependency on psychoactive substances” means the use of one or more psychoactive substances in a way that —\n(a)constitutes a direct hazard to the user;\n(b)endangers the lives, health or welfare of any other person; or\n(c)causes or worsens an occupational, social, mental or physical disorder or problem suffered by the user.\n“Designated Aviation Medical Examiner” means a Designated Aviation Medical Examiner appointed by the Director‑General of Civil Aviation under regulation 14.\n“DMF state” has the meaning given by regulation 10(2).\n“licence” means a licence granted or renewed under paragraph 20 or 62A of the Air Navigation Order.\n“licensing medical examination” means a licensing medical examination conducted by a Designated Aviation Medical Examiner in accordance with regulation 5.\n“medical specialist” means a person who is qualified and licensed to practise as a specialist in any branch of medicine in Singapore or elsewhere.\n“private category aircraft” means an aircraft in respect of which a Certificate of Airworthiness in the Private Category, issued under paragraph 7 of the Air Navigation Order, is in force.\n“private pilot’s licence” means a licence of any of the following types:\n(a)private pilot’s licence (aeroplanes);\n(b)private pilot’s licence (helicopters and gyroplanes);\n(c)private pilot’s licence (airships).\n“transport category aircraft” means an aircraft in respect of which a Certificate of Airworthiness in the Transport Category, issued under paragraph 7 of the Air Navigation Order, is in force."
+   }
+  },
+  {
+   "id": "SG-H149-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulations 4(1)(b) and 19(1)\nFees\nAviation medical certificate\n1. The fee for an application for or to renew an aviation medical certificate is $141.70."
+   }
+  },
+  {
+   "id": "SG-H149-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulation 7(1) and (3)\nPeriod of validity of aviation medical certificate\nTable 1\nClass 1 aviation medical certificate\nFirst column\nSecond column\nThird column\nFourth column\nFifth column\nLess than 40 years\nof age\n40 years of age or more\nbut less than 50 years\nof age\n50 years of age or more\nbut less than 60 years\nof age\n60 years of age\nor more\n1.Commercial pilot’s licence (aeroplanes)\nUntil the last day of the 12th month after the grant or renewal, as the case may be\n(a)if the applicant is to be engaged in single‑crew commercial air transport of passengers — until the last day of the 6th month after the grant or renewal, as the case may be; or\n(b)in any other case — until the last day of the 12th month after the grant or renewal, as the case may be\n(a)if the applicant is to be engaged in single‑crew commercial air transport of passengers — until the last day of the 6th month after the grant or renewal, as the case may be; or\n(b)in any other case — until the last day of the 12th month after the grant or renewal, as the case may be\nUntil the last day of the 6th month after the grant or renewal, as the case may be\n2.Commercial pilot’s licence (helicopters\nand\ngyroplanes)\nUntil the last day of the 12th month after the grant or renewal, as the case may be\n(a)if the applicant is to be engaged in single‑crew commercial air transport of passengers — until the last day of the 6th month after the grant or renewal, as the case may be; or\n(b)in any other case — until the last day of the 12th month after the grant or renewal, as the case may be\n(a)if the applicant is to be engaged in single‑crew commercial air transport of passengers — until the last day of the 6th month after the grant or renewal, as the case may be; or\n(b)in any other case — until the last day of the 12th month after the grant or renewal, as the case may be\nUntil the last day of the 6th month after the grant or renewal, as the case may be\n3.Commercial pilot’s licence (airships)\nUntil the last day of the 12th month after the grant or renewal, as the case may be\n(a)if the applicant is to be engaged in single‑crew commercial air transport of passengers — until the last day of the 6th month after the grant or renewal, as the case may be; or\n(b)in any other case — until the last day of the 12th month after the grant or renewal, as the case may be\n(a)if the applicant is to be engaged in single‑crew commercial air transport of passengers — until the last day of the 6th month after the grant or renewal, as the case may be; or\n(b)in any other case — until the last day of the 12th month after the grant or renewal, as the case may be\nUntil the last day of the 6th month after the grant or renewal, as the case may be\n4.Airline transport\npilot’s licence (aeroplanes)\nUntil the last day of the 12th month after the grant or renewal, as the case may be\n(a)if the applicant is to be engaged in single‑crew commercial air transport of passengers — until the last day of the 6th month after the grant or renewal, as the case may be; or\n(b)in any other case — until the last day of the 12th month after the grant or renewal, as the case may be\n(a)if the applicant is to be engaged in single‑crew commercial air transport of passengers — until the last day of the 6th month after the grant or renewal, as the case may be; or\n(b)in any other case — until the last day of the 12th month after the grant or renewal, as the case may be\nUntil the last day of the 6th month after the grant or renewal, as the case may be\n5.Airline transport\npilot’s licence (helicopters\nand\ngyroplanes)\nUntil the last day of the 12th month after the grant or renewal, as the case may be\n(a)if the applicant is to be engaged in single‑crew commercial air transport of passengers — until the last day of the 6th month after the grant or renewal, as the case may be; or\n(b)in any other case — until the last day of the 12th month after the grant or renewal, as the case may be\n(a)if the applicant is to be engaged in single‑crew commercial air transport of passengers — until the last day of the 6th month after the grant or renewal, as the case may be; or\n(b)in any other case — until the last day of the 12th month after the grant or renewal, as the case may be\nUntil the last day of the 6th month after the grant or renewal, as the case may be\n6.Multi‑crew pilot’s licence (aeroplanes)\nUntil the last day of the 12th month after the grant or renewal, as the case may be\nUntil the last day of the 12th month after the grant or renewal, as the case may be\nUntil the last day of the 12th month after the grant or renewal, as the case may be\nUntil the last day of the 6th month after the grant or renewal, as the case may be\n7.Private pilot’s licence (aeroplanes) with an instrument rating (aeroplanes)\nUntil the last day of the 60th month after the grant or renewal, as the case may be\nUntil the last day of the 24th month after the grant or renewal, as the case may be\nUntil the last day of the 12th month after the grant or renewal, as the case may be\nUntil the last day of the 6th month after the grant or renewal, as the case may be\n8.Private pilot’s licence (helicopters\nand\ngyroplanes) with an instrument rating (helicopters)\nUntil the last day of the 60th month after the grant or renewal, as the case may be\nUntil the last day of the 24th month after the grant or renewal, as the case may be\nUntil the last day of the 12th month after the grant or renewal, as the case may be\nUntil the last day of the 6th month after the grant or renewal, as the case may be\nTable 2\nClass 2 aviation medical certificate\nFirst column\nSecond column\nThird column\nFourth column\nFifth column\nLess than 40 years\nof age\n40 years of age or more\nbut less than 50 years\nof age\n50 years of age or more\nbut less than 60 years\nof age\n60 years of age\nor more\n1.Student pilot’s licence\nUntil the last day of the 60th month after the grant or renewal, as the case may be\nUntil the last day of the 24th month after the grant or renewal, as the case may be\nUntil the last day of the 12th month after the grant or renewal, as the case may be\nUntil the last day of the 6th month after the grant or renewal, as the case may be\n2.Private pilot’s licence (aeroplanes) without an instrument rating (aeroplanes)\nUntil the last day of the 60th month after the grant or renewal, as the case may be\nUntil the last day of the 24th month after the grant or renewal, as the case may be\nUntil the last day of the 12th month after the grant or renewal, as the case may be\nUntil the last day of the 6th month after the grant or renewal, as the case may be\n3.Private pilot’s licence (helicopters and gyroplanes) without an instrument rating (helicopters)\nUntil the last day of the 60th month after the grant or renewal, as the case may be\nUntil the last day of the 24th month after the grant or renewal, as the case may be\nUntil the last day of the 12th month after the grant or renewal, as the case may be\nUntil the last day of the 6th month after the grant or renewal, as the case may be\n4.Private pilot’s licence (airships)\nUntil the last day of the 60th month after the grant or renewal, as the case may be\nUntil the last day of the 24th month after the grant or renewal, as the case may be\nUntil the last day of the 12th month after the grant or renewal, as the case may be\nUntil the last day of the 6th month after the grant or renewal, as the case may be\nTable 3\nClass 3 aviation medical certificate\nFirst column\nSecond column\nThird column\nFourth column\nLess than 40 years\nof age\n40 years of age or more\nbut less than 50 years\nof age\n50 years of age\nor more\n1.Air traffic controller licence\nUntil the last day of the 48th month after the grant or renewal, as the case may be\nUntil the last day of the 24th month after the grant or renewal, as the case\nmay be\nUntil the last day of the 12th month after the grant or renewal, as the case may be\n2.On‑the‑job training to act as air traffic controller\nUntil the last day of the 48th month after the grant or renewal, as the case may be\nUntil the last day of the 24th month after the grant or renewal, as the case\nmay be\nUntil the last day of the 12th month after the grant or renewal, as the case may be"
+   }
+  }
+ ]
+}

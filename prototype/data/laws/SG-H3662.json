@@ -1,0 +1,389 @@
+{
+ "id": "SG-H3662",
+ "title": {
+  "zh": null,
+  "en": "Singapore Tourism (Cess Collection) Act 1972",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p46",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act STCCA1972",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 27,
+ "chars": 22477,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/STCCA1972?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 27 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。其中 2 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3662-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Singapore Tourism (Cess Collection) Act 1972."
+   }
+  },
+  {
+   "id": "SG-H3662-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“Board” means the Singapore Tourism Board established under section 3 of the Singapore Tourism Board Act 1963 and includes any agent duly appointed by the Board to act on its behalf;\n“Chief Executive” means the Chief Executive of the Board and includes any acting Chief Executive of the Board;\n“Fund” means the Tourism Fund established under section 17 of the Singapore Tourism Board Act 1963;\n“product” means any one or more of the following:\n(a)any travel product within the meaning of the Travel Agents Act 1975;\n(b)any goods (including any food or beverage intended for human consumption);\n“record” means any record of information however recorded, and includes —\n(a)anything on which there is writing or Braille;\n(b)a map, plan, chart, graph, picture or photograph;\n(c)anything from which images, sounds or writing can be reproduced; and\n(d)anything on which information has been stored or recorded;\n“service” means any service relating to any one or more of the following:\n(a)arts or entertainment;\n(b)leisure, recreation or sports;\n(c)personal care, wellness or assistance;\n(d)transport, other than transport by use of a regular route service within the meaning of the Bus Services Industry Act 2015 or a train service within the meaning of the Public Transport Council Act 1987;\n(e)business meetings, incentive travel, conferences, conventions and exhibitions (commonly known as MICE);\n“taxable transaction connected with a tourism event” has the meaning given by section 5(2);\n“tourism event” means any event or series of related activities taking place in Singapore —\n(a)that promotes Singapore as a travel or tourist destination; or\n(b)that is intended wholly or partly for the benefit of, or for the purpose of attracting, visitors to Singapore;\n“tourism event establishment” means a person prescribed in an order made under section 5;\n“tourism event premises” means any premises used or to be used for the conduct of a tourism event by the organiser of that event;\n“transaction” means any arrangement made by a person in the course of carrying on a business in Singapore —\n(a)for the provision, or to facilitate the provision, of the use of any tourism event premises, accommodation, products or services, to another person; or\n(b)where the use of any tourism event premises, accommodation, products or services in contemplation of which an arrangement in paragraph (a) was made does not take place,\nwhether or not —\n(c)the other person is in Singapore;\n(d)the arrangement is at the request of the other person; or\n(e)any consideration is given for the arrangement.\n[28/2018]"
+   }
+  },
+  {
+   "id": "SG-H3662-A2.001",
+   "no": 2.001,
+   "noLabel": {
+    "en": "2A."
+   },
+   "heading": {
+    "en": "Application of Act"
+   },
+   "text": {
+    "en": "2A. This Act does not apply to any tourism event premises, accommodation, product or service provided or to be provided by the Government, or a body established by or under a public Act for a public purpose.\n[28/2018]"
+   }
+  },
+  {
+   "id": "SG-H3662-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Delegation of functions"
+   },
+   "text": {
+    "en": "3.—(1) The Board may appoint such agents (including the Government) as may be necessary for the purposes of this Act.\n(2) The Board may delegate all or any of the powers and functions under this Act relating to or appertaining to the collection of cess to any person, including an officer or department of the Government.\n(3) The Board may pay to any person appointed under subsection (1) a fee for the services rendered in connection with the collection of cess."
+   }
+  },
+  {
+   "id": "SG-H3662-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Cess to be paid into Fund"
+   },
+   "text": {
+    "en": "4. All moneys collected under this Act must be paid into the Fund."
+   }
+  },
+  {
+   "id": "SG-H3662-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Cess payable"
+   },
+   "text": {
+    "en": "5.—(1) Cess is payable at the amount prescribed by the Minister by order in the Gazette on every taxable transaction connected (in the manner provided in subsection (2)) with a tourism event to which the order relates.\n[28/2018]\n(2) In this Act, a transaction is a taxable transaction connected with a tourism event if —\n(a)the use of the tourism event premises, accommodation, product or service under the transaction is or is to be provided, or (where paragraph (b) of the definition of “transaction” in section 2 applies) could have been provided, during a period during which the tourism event is held, being a period which may include any time before or after the event is held (called in this section a taxable period); and\n(b)the transaction, which satisfies paragraph (a), is prescribed in an order under subsection (1) to be a taxable transaction connected with that tourism event.\n[28/2018]\n(3) A transaction is not to be treated as other than a taxable transaction by reason only that —\n(a)the transaction is made with a person who is not a visitor to Singapore;\n(b)the transaction is made for any purpose other than for purposes of any tourism event;\n(c)the transaction is terminated for any reason; or\n(d)the tourism event premises, accommodation, product or service to be provided under the transaction, is not provided or used for any reason.\n[28/2018]\n(4) An order under subsection (1) must specify or describe —\n(a)the tourism event to which the order relates;\n(b)the taxable transactions connected with a tourism event on which cess is payable;\n(c)the tourism event establishments making the taxable transactions connected with a tourism event;\n(d)the taxable period for the taxable transactions connected with a tourism event; and\n(e)the amount of the cess.\n[28/2018]\n(5) For the purposes of subsection (4)(e), the amount of cess payable on a taxable transaction connected with a tourism event may be prescribed in an order under subsection (1) as a rate based on —\n(a)the gross receipts derived from the taxable transaction; or\n(b)an amount treated as the gross receipts derived from the taxable transaction —\n(i)that is terminated; or\n(ii)for which no or partial consideration is given,\nand the order may further provide for the method by which such gross receipts or amount treated as the gross receipts are to be determined.\n[28/2018]\n(6) An order under subsection (1) may prescribe different taxable periods, different amounts of cess, or different methods of determining the gross receipts or amounts treated as the gross receipts —\n(a)for different taxable transactions connected with a tourism event;\n(b)for different tourism event premises, accommodation, products or services;\n(c)for different tourism events or tourism event establishments; or\n(d)on any other differential basis.\n[28/2018]\n(7) In determining the “gross receipts” or “an amount treated as the gross receipts”, there must be excluded the amount of any goods and services tax chargeable on any supply of goods or services comprised in that taxable transaction connected with a tourism event.\n[28/2018]\n(8) No person is relieved from liability to pay cess on a taxable transaction connected with a tourism event by reason of the fact that the person ceases during a taxable period to carry on business in Singapore.\n[28/2018]"
+   }
+  },
+  {
+   "id": "SG-H3662-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Tourism event establishment liable to pay cess"
+   },
+   "text": {
+    "en": "6.—(1) Cess payable on a taxable transaction connected with a tourism event is payable by the tourism event establishment making the taxable transaction.\n[28/2018]\n(2) Cess must be accounted for and paid within the time prescribed by regulations made under this Act.\n[28/2018]\n(3) Cess must be paid to the Board in the manner required by the Board.\n[28/2018]"
+   }
+  },
+  {
+   "id": "SG-H3662-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "text": {
+    "en": "7. [Repealed by Act 16 of 2008]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3662-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Power to enter premises, etc."
+   },
+   "text": {
+    "en": "8.—(1) The Chief Executive, or an officer or agent of the Board authorised by the Chief Executive, is entitled, at all reasonable times, to full and free access to any premises that the Chief Executive, officer or agent (as the case may be) reasonably believes are relevant premises, to do all or any of the following for relevant purposes:\n(a)to inspect the premises;\n(b)without any fee or reward, to inspect, make copies of, or take extracts from, any record;\n(c)to take possession of any record if, in the opinion of the Chief Executive, officer or agent, as the case may be —\n(i)the inspection or copy of, or extract from, the record cannot reasonably be performed without taking possession;\n(ii)the record may be interfered with or destroyed unless possession is taken; or\n(iii)the record may be required as evidence in proceedings for an offence under this Act or any regulations made under this Act, or in proceedings for the recovery of cess.\n[28/2018]\n(2) In this section —\n“relevant premises” means —\n(a)any premises owned or occupied by a person who is, or could be prescribed as, a tourism event establishment; or\n(b)any premises where any record relating to cess payable under this Act is or is likely to be kept;\n“relevant purposes” means any one or both of the following purposes:\n(a)to administer or enforce this Act or any order or regulations made under this Act, including to enable the Board to ascertain the amount of cess payable by any person under this Act;\n(b)to enable the Board to provide its views to the Minister on any matter to be prescribed in an order to be made under section 5.\n[28/2018]"
+   }
+  },
+  {
+   "id": "SG-H3662-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Keeping of records and giving of receipts"
+   },
+   "text": {
+    "en": "9.—(1) Subject to subsection (3), every person liable to pay cess under the provisions of this Act must keep and retain for a minimum period in safe custody —\n(a)records provided by the person under section 8(1) to the Chief Executive or an officer or agent of the Board authorised by the Chief Executive;\n(b)records of the information provided by the person under section 10(3) to the Chief Executive or an officer or agent of the Board authorised by the Chief Executive; and\n(c)sufficient records to enable the amount of cess payable under any order made under section 5 to be readily ascertained by the Chief Executive or an officer or agent of the Board authorised by the Chief Executive.\n[16/2008; 28/2018]\n(2) Where a machine is used for recording taxable transactions connected with a tourism event, receipts of those transactions may be dispensed with if the Chief Executive, or an officer or agent of the Board authorised by the Chief Executive, is satisfied that —\n(a)the machine records all of those transactions;\n(b)a record of all of those transactions for each day and (if applicable) the consideration given for each transaction, is made by the end of each day; and\n(c)the record mentioned in paragraph (b) fulfils the requirements of subsection (1)(c).\n[28/2018]\n(3) The Chief Executive or an officer or agent of the Board duly authorised by the Chief Executive in that behalf may in respect of any class or description of persons who are liable to pay cess under this Act —\n(a)direct them to keep and retain the records referred to in subsection (1)(a) and (b) in the form and manner approved by the Chief Executive or an officer or agent of the Board, as the case may be; and\n(b)direct them to issue and retain the receipts and their duplicates referred to in subsection (1)(c) in the form and manner approved by the Chief Executive or an officer or agent of the Board, as the case may be.\n[28/2018]\n(4) The Chief Executive or an officer or agent of the Board duly authorised by the Chief Executive in that behalf may waive all or any of the provisions of subsection (1) or (2) in respect of any person or records or any class of persons or records.\n(5) In this section, “minimum period”, in relation to the keeping and retention of a record, means —\n(a)subject to paragraph (b), for every record provided or made before 6 September 2018 — 2 years after the record was provided or made, as the case may be; and\n(b)for every record provided (whenever made) or made on or after 6 September 2018 — 5 years (or such longer period as may be prescribed in substitution by regulations made under this Act) after the record was provided or made, as the case may be.\n[28/2018]\n(6) Any person who contravenes or fails to comply with this section or any direction of the Chief Executive or an officer or agent of the Board issued pursuant to this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000."
+   }
+  },
+  {
+   "id": "SG-H3662-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Duty to inform"
+   },
+   "text": {
+    "en": "10.—(1) Every person liable to pay cess under this Act must, within 7 days of the date of commencement or cessation of any business carried on by the person in respect of which cess is payable on any transaction relating thereto, inform the Board in writing of the business carried on by the person.\n[28/2018]\n(2) Every person liable to pay cess under this Act must inform the Board in writing of any change of the person’s place of business.\n(3) The Chief Executive, or an officer or agent of the Board authorised by the Chief Executive, may, by written notice under subsection (4), require any person to provide the Chief Executive, officer or agent with information that the Chief Executive, officer or agent (as the case may be) considers necessary for any one or both of the relevant purposes mentioned in section 8(2).\n[28/2018]\n(4) The written notice may specify —\n(a)the form and manner in which the information must be provided;\n(b)the time by which the information must be provided; and\n(c)the frequency with which the information must be provided during a period specified in the written notice, which period must not exceed 5 years (or such longer period as may be prescribed in substitution by regulations made under this Act) after the date of the written notice.\n[28/2018]\n(5) Any person who contravenes or fails to comply with subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.\n[16/2008]"
+   }
+  },
+  {
+   "id": "SG-H3662-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Recovery of cess"
+   },
+   "text": {
+    "en": "11. Without prejudice to any other remedy, any cess payable under this Act may be recovered as a debt due to the Board from the person accountable for the cess.\n[28/2018]"
+   }
+  },
+  {
+   "id": "SG-H3662-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Recovery of cess on basis of Board’s estimate"
+   },
+   "text": {
+    "en": "12.—(1) Where an amount is due from any person on account of cess, and such cess is not accounted for and paid to the Board within the prescribed time, the Board may estimate the amount of cess due.\n(2) Where an amount is due from any person on account of cess, but by reason of the person’s failure to keep or to produce or furnish to the Board the accounts or records required by this Act or any regulations made under this Act or to take or permit to be taken any other step which the person is so required to take or permit to be taken or by reason of the accounts or records kept, produced or furnished being materially incomplete or inaccurate, the Board is unable to ascertain the amount of cess properly due from the person, the Board may estimate the amount of cess due.\n[28/2018]\n(3) Where an estimate of the amount of cess due from any person has been made under subsection (1) or (2), then (without prejudice to the recovery of the full amount due or to the making of a further estimate in that behalf) the amount estimated is recoverable as cess properly due unless in an action relating thereto the person liable proves the amount properly due and that amount is less than the amount estimated.\n(4) Where an estimate of the amount of cess due from any person has been made under subsection (1) or (2), that person must pay the amount estimated together with the penalty (if any) imposed by section 13 within 7 days of the receipt of the notice from the Board requiring the person to pay the cess."
+   }
+  },
+  {
+   "id": "SG-H3662-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Penalty"
+   },
+   "text": {
+    "en": "13.—(1) Subject to subsection (2), if any cess is not accounted for and paid within the time prescribed by the Board —\n(a)a penalty equal to 5% of the amount of cess payable whether estimated or not must be added thereto; and\n(b)if the amount of cess outstanding is not paid within 60 days of the imposition of the penalty as provided by paragraph (a), an additional penalty of 2% of the cess outstanding is payable for each completed month that the cess remains unpaid commencing from the date on which the cess became payable, except that the total additional penalty must not exceed 50% of the amount of cess outstanding.\n[16/2008]\n(2) The provisions of this Act relating to the collection and recovery of cess are to apply to the collection and recovery of the penalty and additional penalty.\n[16/2008]\n(3) The Board may, for any good cause shown, reduce or remit the whole or part of the penalty due under subsection (1)."
+   }
+  },
+  {
+   "id": "SG-H3662-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Suit for cess and penalty by Board"
+   },
+   "text": {
+    "en": "14.—(1) Despite the provisions of any other written law, cess and any penalty imposed under this Act may be sued for by way of a specially endorsed originating claim and the Board is entitled to all costs allowed by law against the person liable thereto.\n[Act 25 of 2021 wef 01/04/2022]\n(2) In any suit under subsection (1), the production of a certificate signed by the Chief Executive giving the name and address of the defendant and the amount of cess and penalty due by the defendant is sufficient evidence of the amount so due and sufficient authority for the court to give judgment for that amount."
+   }
+  },
+  {
+   "id": "SG-H3662-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Refund or return of cess or penalty overpaid or erroneously paid"
+   },
+   "text": {
+    "en": "15.—(1) Except as provided in this section, no person is entitled to any refund of any money that was overpaid, or return of any money that was erroneously paid, as cess or penalty under this Act.\n[28/2018]\n(2) A person who overpaid or erroneously paid any money as cess or penalty under this Act may make a claim to the Board for the refund of the money overpaid or return of the money erroneously paid.\n[28/2018]\n(3) A refund or return to a person of any money that is the subject of a claim under subsection (2) may be made only if —\n(a)the person makes the claim within one year after the date of the overpayment or erroneous payment;\n(b)the claim is in the form and manner required by the Board; and\n(c)the Board is satisfied that there was an overpayment or erroneous payment.\n[28/2018]"
+   }
+  },
+  {
+   "id": "SG-H3662-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Payment of underpaid cess or penalty, etc."
+   },
+   "text": {
+    "en": "16.—(1) This section applies where for any reason or owing to any cause, a person underpays any cess or penalty under this Act, or is refunded or returned any money under section 15 despite not being entitled to such refund or return.\n[28/2018]\n(2) The person mentioned in subsection (1) must, on demand being made by the Board within one year after the date of the underpayment, or erroneous refund or return, pay the deficiency or repay the money erroneously refunded or returned (as the case may be) to the Board.\n[28/2018]"
+   }
+  },
+  {
+   "id": "SG-H3662-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "heading": {
+    "en": "Incorrect return"
+   },
+   "text": {
+    "en": "17. Any person who makes an incorrect return under this Act or any regulations made under this Act by omitting therefrom any information or gives any incorrect information to the Chief Executive or the Board under section 10 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and in default of payment to imprisonment for a term not exceeding 6 months.\n[16/2008]"
+   }
+  },
+  {
+   "id": "SG-H3662-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "heading": {
+    "en": "Evasion of cess"
+   },
+   "text": {
+    "en": "18.—(1) Any person who wilfully with intent to evade or to assist any other person to evade cess —\n(a)omits from a return made under this Act or any regulations made under this Act any information in relation to any matter affecting the amount of cess payable which should be included;\n(b)makes a false statement or entry in any return made under this Act or any regulations made under this Act;\n(c)gives any false answer whether verbally or in writing to any question or request for information asked or made in accordance with the provisions of this Act or any regulations made under this Act;\n(d)prepares or maintains or authorises the preparation or maintenance of any false book of accounts or other records or falsifies or authorises the falsification of any book of accounts or other records; or\n(e)makes use of any fraud, art or contrivance whatsoever or authorises the use of any such fraud, art or contrivance,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term of not less than 6 months or to both.\n[28/2018]\n(2) Whenever in any proceedings under this section it is proved that any false statement or entry is made in any return furnished under this Act or any regulations made under this Act by or on behalf of any person or any book of accounts or other records maintained by or on behalf of any person, that person is presumed, until the contrary is proved, to have made that false statement or entry with intent to evade cess."
+   }
+  },
+  {
+   "id": "SG-H3662-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "heading": {
+    "en": "Obstructing officer of Board"
+   },
+   "text": {
+    "en": "19. Any person who obstructs or hinders any officer or agent of the Board acting in the discharge of his or her duty under this Act or any regulations made under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000."
+   }
+  },
+  {
+   "id": "SG-H3662-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "heading": {
+    "en": "Power to exempt and remit"
+   },
+   "text": {
+    "en": "20.—(1) The Minister may, by order in the Gazette, exempt any person or class of persons from all or any of the provisions of this Act, either generally or in a particular case and subject to such conditions as the Minister may impose.\n[28/2018]\n(2) The Minister may remit the whole or any part of the cess payable by any person under this Act, if the Minister is satisfied that it is just and equitable to do so.\n[28/2018]\n(3) The Board must, following the Minister’s decision under subsection (2) and if the amount remitted has been paid to the Board by the person mentioned in that subsection, return that amount to the person.\n[28/2018]"
+   }
+  },
+  {
+   "id": "SG-H3662-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "text": {
+    "en": "21. [Repealed by Act 16 of 2008]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3662-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "heading": {
+    "en": "Proceedings conducted by officer of Board"
+   },
+   "text": {
+    "en": "22. Proceedings in respect of any offence under this Act or any regulations made under this Act may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Board or an officer of the Government authorised in writing in that behalf by the Chief Executive.\n[15/2010]"
+   }
+  },
+  {
+   "id": "SG-H3662-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "heading": {
+    "en": "Consent of Public Prosecutor"
+   },
+   "text": {
+    "en": "23. No court is to try any offence under this Act or any regulations made under this Act except with the consent of the Public Prosecutor.\n[15/2010]"
+   }
+  },
+  {
+   "id": "SG-H3662-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "heading": {
+    "en": "Priority of case in bankruptcy"
+   },
+   "text": {
+    "en": "24.—(1) There is to be included among the debts which, under section 352 of the Insolvency, Restructuring and Dissolution Act 2018, are to be paid in priority to all other debts in the distribution of property of a bankrupt or a person dying insolvent, the amount of any cess due from the bankrupt at the date of the bankruptcy order, or from the person so dying at the date of his or her death, and having become due within 12 months before that date.\n[40/2018]\n(2) There is to be included among the taxes which, under section 203 of the Insolvency, Restructuring and Dissolution Act 2018, are to be paid in priority to all other unsecured debts in a winding up of a company, the amount of any cess due from the company and having become due within 12 months before the date of commencement of the winding up.\n[40/2018]"
+   }
+  },
+  {
+   "id": "SG-H3662-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "heading": {
+    "en": "Offence by body corporate"
+   },
+   "text": {
+    "en": "25. Where an offence under this Act or any regulations made under this Act has been committed by a body corporate and is found to have been committed with the consent of, connivance of or to be attributable to any act or default on the part of any director, manager, secretary or other officer, the director, manager, secretary or other officer as well as the body corporate shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000."
+   }
+  },
+  {
+   "id": "SG-H3662-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "26. The Board may, with the approval of the Minister, make such regulations as are necessary for carrying into effect the provisions of this Act."
+   }
+  }
+ ]
+}

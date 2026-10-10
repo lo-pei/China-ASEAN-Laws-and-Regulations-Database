@@ -1,0 +1,107 @@
+{
+ "id": "SG-H924",
+ "title": {
+  "zh": null,
+  "en": "Criminal Procedure Code (Compensation Order) Rules 2024",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p12",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CPC2010-S628-2024",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 3529,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CPC2010-S628-2024?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 5 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H924-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Rules are the Criminal Procedure Code (Compensation Order) Rules 2024 and come into operation on 1 August 2024."
+   }
+  },
+  {
+   "id": "SG-H924-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Rules —\n“compensation order” means an order under section 359(1) of the Code for the payment of compensation to a relevant person;\n“legal guardian”, in relation to a victim, means a person who is lawfully appointed by deed or will or by the order of a competent court to be the guardian of the victim;\n“next-of-kin”, in relation to a victim who is deceased, means —\n(a)the spouse of the victim;\n(b)where there is no such spouse, any child of the victim;\n(c)where there is no such spouse or child, the victim’s parent or legal guardian; or\n(d)where there is no such spouse, child, parent or legal guardian, any sibling of the victim;\n“relevant person” means —\n(a)a person mentioned in section 359(1)(a) of the Code;\n(b)a representative mentioned in section 359(1)(b) of the Code; or\n(c)a dependant mentioned in section 359(1)(c) of the Code."
+   }
+  },
+  {
+   "id": "SG-H924-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Manner of notification"
+   },
+   "text": {
+    "en": "3. For the purposes of section 359(2D)(a) of the Code, the court must notify the relevant person of the proceedings in which the court will decide whether to make a compensation order, by sending a written notification of the date, time and location of those proceedings —\n(a)by ordinary post to the address submitted by the prosecution as the relevant person’s last known address; or\n(b)by electronic communication to the email address submitted by the prosecution as the relevant person’s last known email address."
+   }
+  },
+  {
+   "id": "SG-H924-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Proceedings for compensation order"
+   },
+   "text": {
+    "en": "4.—(1) The court may fix the date of the proceedings in which the court will decide whether to make a compensation order.\n(2) In fixing the date of the proceedings, the court may consider any relevant factor, including (but not limited to) the following:\n(a)whether the offender concerned is in remand and, if so, whether the offender’s sentence is likely to be shorter than the period of remand;\n(b)whether a sentence of caning is likely to be imposed on the offender concerned and, if so, whether the offender is a man approaching 50 years of age.\n(3) After a court has notified the relevant person in accordance with rule 3 of the proceedings in which the court will decide whether to make a compensation order, the court may conduct the proceedings even if the relevant person is absent from the whole or any part of those proceedings."
+   }
+  },
+  {
+   "id": "SG-H924-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Meaning of “representative”"
+   },
+   "text": {
+    "en": "5. For the purposes of section 359(6) of the Code, a “representative”, in relation to a person mentioned in section 359(1)(a) of the Code (called in this rule the victim), means —\n(a)where the victim is below 18 years of age and is not a person who lacks capacity within the meaning of section 4 of the Mental Capacity Act 2008 — the victim’s parent or legal guardian;\n(b)where the victim is a person who lacks capacity within the meaning of section 4 of the Mental Capacity Act 2008 and —\n(i)where the victim is 21 years of age or above — the victim’s deputy or donee within the meaning of section 2(1) of that Act; or\n(ii)where the victim is below 21 years of age —\n(A)the victim’s deputy who is empowered to make decisions on the victim’s behalf under section 20 read with section 21 of that Act; or\n(B)in the absence of such a deputy — the victim’s parent or legal guardian; or\n(c)where the victim is deceased and —\n(i)where a grant of probate or letter of administration has been made in respect of the estate of the victim — an administrator or executor of the estate, as the case may be; or\n(ii)where no such grant of probate or letter of administration has been made — the victim’s next‑of‑kin."
+   }
+  }
+ ]
+}

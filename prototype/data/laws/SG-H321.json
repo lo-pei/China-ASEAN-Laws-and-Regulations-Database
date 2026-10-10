@@ -1,0 +1,169 @@
+{
+ "id": "SG-H321",
+ "title": {
+  "zh": null,
+  "en": "Boundaries and Survey Maps (Electronic Transmission) Rules 2005",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p04",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation BSMA1998-R7",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 10,
+ "chars": 7863,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/BSMA1998-R7?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 10 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H321-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Rules are the Boundaries and Survey Maps (Electronic Transmission) Rules 2005."
+   }
+  },
+  {
+   "id": "SG-H321-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Rules —\n“approved certification authority” means a person or an organisation appointed by the Chief Surveyor to issue a certificate;\n“asymmetric cryptosystem” means a system capable of generating a secure key pair, consisting of a private key for creating a digital signature, and a public key to verify the digital signature;\n“certificate” means a record that at a minimum —\n(a)identifies the approved certification authority issuing it;\n(b)names or identifies its subscriber;\n(c)contains the subscriber’s public key; and\n(d)is digitally signed by the approved certification authority issuing it;\n“correspond”, in relation to private or public keys, means to belong to the same key pair;\n“digital signature” means an electronic signature consisting of a transformation of an electronic record using an asymmetric cryptosystem and a hash function such that a person having the initial untransformed electronic record and the signer’s public key can accurately determine —\n(a)whether the transformation was created using the private key that corresponds to the signer’s public key; and\n(b)whether the initial electronic record has been altered since the transformation was made;\n“electronic record” means a record generated, communicated, received or stored by electronic, magnetic, optical, or other means of storage in an information system or for transmission from one information system to another;\n“electronic signature” means any letter, character, number or other symbol in digital form attached to or logically associated with an electronic record, and executed or adopted with the intention of authenticating or approving the electronic record;\n“hash function” means an algorithm mapping or translating one sequence of bits into another, generally smaller set (called in these Rules the hash result) such that —\n(a)a record yields the same hash result every time the algorithm is executed using the same record as input;\n(b)it is computationally infeasible that a record can be derived or reconstituted from the hash result produced by the algorithm; and\n(c)it is computationally infeasible that 2 records can be found that produce the same hash result using the algorithm;\n“information system” means the information system specified by a subscriber to which electronic records may be transmitted by the Chief Surveyor to the subscriber;\n“key pair”, in an asymmetric cryptosystem, means a private key and its mathematically related public key, having the property that the public key can verify a digital signature that the private key creates;\n“private key” means the key of a key pair used to create a digital signature;\n“public key” means the key of a key pair used to verify a digital signature;\n“registered surveyor” has the meaning given by the Land Surveyors Act 1991;\n“signature” includes any symbol executed or adopted, or any methodology or procedure employed or adopted, by a person with the intention of authenticating a record, including electronic or digital methods;\n“subscriber” means a registered surveyor who is the subject named or identified in a certificate issued to him or her by an approved certification authority and who holds a private key that corresponds to a public key listed in that certificate;\n“verify a digital signature”, in relation to a given digital signature, record and public key, means to determine accurately that —\n(a)the digital signature was created using the private key corresponding to the public key listed in the certificate; and\n(b)the record has not been altered since its digital signature was created."
+   }
+  },
+  {
+   "id": "SG-H321-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Electronic transmission of certain documents"
+   },
+   "text": {
+    "en": "3.—(1) The documents specified in the Schedule must be filed, submitted or transmitted in the form of electronic records.\n(2) Where it is not possible to file, submit or transmit a document specified in the Schedule in the form of an electronic record, then —\n(a)in the case of a document specified in Part 1 of the Schedule — the Chief Surveyor may allow a hard copy or a copy in the form of a CD‑ROM to be filed, submitted or transmitted with or to him or her; and\n(b)in the case of a document specified in Part 2 of the Schedule — the Chief Surveyor may transmit the document by electronic mail, post or hand.\n(3) The Chief Surveyor must not transmit a document to a subscriber by electronic mail unless that subscriber agrees to accept service by electronic mail and designates an information system for the purpose of receiving such a document served by electronic mail."
+   }
+  },
+  {
+   "id": "SG-H321-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Requirements for electronic transmissions"
+   },
+   "text": {
+    "en": "4. Before transmitting an electronic record under these Rules, a registered surveyor must ensure that he or she —\n(a)has in force a practising certificate issued under section 15 of the Land Surveyors Act 1991 authorising him or her to engage in survey work in Singapore;\n(b)is a subscriber; and\n(c)has in place an arrangement approved by the Chief Surveyor to pay for the relevant fees specified in the Schedule to the Boundaries and Survey Maps (Singapore Land Authority Fees) Rules 2005."
+   }
+  },
+  {
+   "id": "SG-H321-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Digital signature to be used for electronic transmissions"
+   },
+   "text": {
+    "en": "5.—(1) A subscriber transmitting an electronic record under these Rules must sign the document with his or her digital signature or an electronic signature as the Chief Surveyor may direct.\n(2) The digital signature must be capable of being verified by reference to the public key in the subscriber’s certificate."
+   }
+  },
+  {
+   "id": "SG-H321-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Digital signatures to be used for electronic transmissions by Chief Surveyor"
+   },
+   "text": {
+    "en": "6.—(1) An electronic record to be transmitted to the subscriber of a certificate by the Chief Surveyor under these Rules must be signed with a digital signature.\n(2) The digital signature must be capable of being verified by reference to the public key listed in the certificate issued to the Chief Surveyor."
+   }
+  },
+  {
+   "id": "SG-H321-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Consent of land owner to be obtained"
+   },
+   "text": {
+    "en": "7.—(1) A subscriber intending to transmit a document in the form of an electronic record under these Rules must, if the Chief Surveyor so requires, obtain the consent of the owner of the land that is the subject of that document.\n(2) The Chief Surveyor may, at any time by notice in writing, require a subscriber to produce the consent mentioned in paragraph (1)."
+   }
+  },
+  {
+   "id": "SG-H321-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Date of transmission of electronic records"
+   },
+   "text": {
+    "en": "8.—(1) Any document transmitted to the Chief Surveyor in the form of an electronic record under these Rules on any day other than Saturday, Sunday or a public holiday, at any time between 8 a.m. and 6 p.m. (both times inclusive), is deemed to have been filed, submitted or transmitted to the Chief Surveyor.\n(2) Any document transmitted to the Chief Surveyor in the form of an electronic record under these Rules outside the period specified in paragraph (1) is deemed to have been filed, submitted or transmitted on the next working day."
+   }
+  },
+  {
+   "id": "SG-H321-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Application of other subsidiary legislation"
+   },
+   "text": {
+    "en": "9. These Rules do not affect the application of any other subsidiary legislation made under the Act to any application, approval, decision, notice, request or other document or information submitted in the form of an electronic record pursuant to these Rules except in so far as they are inconsistent with the provisions of these Rules, in which case these Rules prevail."
+   }
+  },
+  {
+   "id": "SG-H321-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRule 3\nPart 1\nDocuments Which May Be Transmitted By\nSubscriber In The Form Of Electronic Record\n1. Application for lot number or SVY21 data.\n2. Survey plan, strata survey plan and strata title plan.\n3. Any document accompanying an application referred to in paragraph 1 or a plan referred to in paragraph 2.\n4. Any correspondence arising out of or in relation to an application referred to in paragraph 1 or a plan referred to in paragraph 2.\nPart 2\nDocuments Which May be Transmitted by\nChief Surveyor in the Form of\nElectronic Record\n1. Approval or refusal of approval of an application referred to in paragraph 1 of Part 1 or of a plan referred to in paragraph 2 of Part 1.\n2. Any advice, receipt, acknowledgment of directions or other correspondence arising out of or in relation to such application or plan.\n3. Directives, notices, circulars and other documents issued by the Chief Surveyor in relation to cadastral survey."
+   }
+  }
+ ]
+}

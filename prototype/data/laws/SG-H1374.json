@@ -1,0 +1,286 @@
+{
+ "id": "SG-H1374",
+ "title": {
+  "zh": null,
+  "en": "Environmental Public Health (General Waste Disposal Facility) Regulations 2017",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p17",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation EPHA1987-S380-2017",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 19,
+ "chars": 20185,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/EPHA1987-S380-2017?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 19 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1374-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Environmental Public Health (General Waste Disposal Facility) Regulations 2017 and come into operation on 1 August 2017."
+   }
+  },
+  {
+   "id": "SG-H1374-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“air pollution” has the same meaning as in section 2 of the Environmental Protection and Management Act 1999;\n[S 461/2023 wef 31/12/2021]\n“Central Provident Fund” means the fund that is established under section 6 of the Central Provident Fund Act 1953;\n[S 461/2023 wef 01/07/2023]\n“general waste” has the same meaning as in regulation 2(1) of the Environmental Public Health (General Waste Collection) Regulations (Rg 12);\n“general waste disposal facility” means a disposal facility that receives, stores, sorts, treats or processes general waste;\n“licence” means a waste disposal licence granted by the Director‑General under section 23(1) of the Act and “licensee” is to be construed accordingly;\n“resident waste disposal worker” means a waste disposal worker who is a citizen or permanent resident of Singapore;\n[S 461/2023 wef 01/07/2023]\n“salary period”, in relation to a waste disposal worker, means a period of time, that is, one hour, one day, one week, one month or any other period, that may be stated or implied in the contract of service between the waste disposal worker and a licensee, in respect of which the waste disposal worker is entitled to be paid for working;\n[S 461/2023 wef 01/07/2023]\n“section 31DA Order (waste disposal workers)” means an order made by the Commissioner for Labour under section 31DA(1) of the Act in respect of waste disposal workers;\n[S 461/2023 wef 01/07/2023]\n“vector” has the same meaning as in section 2 of the Control of Vectors and Pesticides Act 1998.\n[S 461/2023 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1374-A2.001",
+   "no": 2.001,
+   "noLabel": {
+    "en": "2A."
+   },
+   "heading": {
+    "en": "Components of “baseline wage”"
+   },
+   "text": {
+    "en": "2A. For the purposes of paragraphs (b) and (c)(iv) of the definition of “baseline wage” (as defined in section 2 of the Act), a baseline wage in relation to a waste disposal worker —\n(a)includes —\n(i)any commission, allowance and any other cash payment that is payable to the waste disposal worker and is attributable to his or her work for a salary period, or a completed piece or task of work; and\n(ii)any amount that is payable by a licensee into the Central Provident Fund as a contribution under section 7(1) of the Central Provident Fund Act 1953 in respect of the waste disposal worker, which is recoverable by the licensee under section 7(2) of that Act; and\n(b)excludes —\n(i)any payment in kind (including the grant of stock options) or lump sum payment that is payable to the waste disposal worker, but is not attributable to the waste disposal worker’s work for a salary period, or a completed piece or task of work; and\n(ii)any amount that is payable by a licensee into the Central Provident Fund as a contribution under section 7(1) of the Central Provident Fund Act 1953 in respect of the waste disposal worker, which is not recoverable by the licensee under section 7(2) of that Act.\n[S 461/2023 wef 01/07/2023]"
+   }
+  },
+  {
+   "id": "SG-H1374-A2.002",
+   "no": 2.002,
+   "noLabel": {
+    "en": "2B."
+   },
+   "heading": {
+    "en": "Components of “progressive wage model bonus”"
+   },
+   "text": {
+    "en": "2B. For the purposes of paragraph (b) of the definition of “progressive wage model bonus” (as defined in section 2 of the Act), a progressive wage model bonus in relation to a waste disposal worker includes any additional payment by a licensee to the waste disposal worker by way of bonus payments or annual wage supplements.\n[S 461/2023 wef 01/07/2023]"
+   }
+  },
+  {
+   "id": "SG-H1374-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Licence application"
+   },
+   "text": {
+    "en": "3.—(1) An application for the grant or renewal of a licence in respect of a general waste disposal facility must, where the applicant employs any resident waste disposal worker, be accompanied by a progressive wage plan that complies with the requirements in paragraph (2).\n(2) For the purposes of paragraph (1), the progressive wage plan must contain and be accompanied by all of the following information and documents in respect of every resident waste disposal worker that the applicant employs who belongs to the class or a class of waste disposal workers specified in the section 31DA Order (waste disposal workers):\n(a)full name;\n(b)sex;\n(c)job title;\n(d)nationality;\n(e)whether the resident waste disposal worker is a citizen or permanent resident of Singapore;\n(f)identification number;\n(g)the date on which the employment of the resident waste disposal worker by the applicant commenced;\n(h)whether the resident waste disposal worker is engaged as a full-time employee, part-time employee or casual employee;\n(i)the aggregate number of hours that the resident waste disposal worker is required to work per week under his or her contract of service with the applicant;\n(j)the baseline wage payable to the resident waste disposal worker under his or her contract of service with the applicant;\n(k)the manner of calculating the overtime payment payable to the resident waste disposal worker;\n(l)the amount of progressive wage model bonus that is payable to the resident waste disposal worker, and the frequency at which the progressive wage model bonus is to be paid;\n(m)the training records of the resident waste disposal worker, that set out the training courses that the resident waste disposal worker has attended, and the frequency of such attendance;\n(n)a copy of every number of the Workforce Skills Qualification certificate that is issued to the resident waste disposal worker;\n(o)where the application is for a renewal of a licence —\n(i)the amount of every progressive wage model bonus that was paid to the resident waste disposal worker in the calendar year preceding the date on which the application is made and the date of such payment;\n(ii)the number of hours that the resident waste disposal worker has worked overtime in the month preceding the date on which the application is made, the total amount paid to the resident waste disposal worker as overtime pay for work done in those hours and the rate at which the overtime pay is calculated; and\n(iii)the amount of the baseline wage that was paid to the resident waste disposal worker for the month preceding the date on which the application is made.\n(3) In this regulation, “identification number” means —\n(a)in the case of an individual who is a citizen or permanent resident of Singapore and who has been issued with an identity card under the National Registration Act 1965, his or her Singapore identity card number (including the letters that form the prefix and suffix to the identity card number); or\n(b)in the case of any other individual, the country that issued his or her passport followed by his or her passport number.\n[S 461/2023 wef 01/07/2023]"
+   }
+  },
+  {
+   "id": "SG-H1374-A3.001",
+   "no": 3.001,
+   "noLabel": {
+    "en": "3A."
+   },
+   "heading": {
+    "en": "Changes to information submitted"
+   },
+   "text": {
+    "en": "3A.—(1) Subject to paragraphs (2) and (3), every licensee must, at 6-monthly intervals starting on the date on which the licensee’s application for the grant or renewal of a licence is granted, notify the Director-General by written notice of all the changes to the following that had occurred in the 6-month period immediately preceding the date of the written notice, if any:\n(a)information contained in the licensee’s application for the grant or renewal of the licensee’s licence or any document accompanying the licensee’s application;\n(b)particulars of the progressive wage plan that was provided by the licensee with the licensee’s application for the grant or renewal of the licensee’s licence;\n(c)any other information the licensee provided to the Director-General for the purposes of the licensee’s application for the grant or renewal of the licensee’s licence.\n(2) Where there is any change in the particulars of the progressive wage plan that was provided by the licensee with the licensee’s application for the grant or renewal of the licensee’s licence, the written notice mentioned in paragraph (1) in respect of such change must be accompanied by a progressive wage plan that complies with regulation 3(2) and reflects the change.\n(3) Where a licensee intends to change the address of the licensee’s disposal facility, the licensee must give prior notice of the change to the Director-General, at least 14 days before the change.\n[S 461/2023 wef 01/07/2023]"
+   }
+  },
+  {
+   "id": "SG-H1374-A3.002",
+   "no": 3.002,
+   "noLabel": {
+    "en": "3B."
+   },
+   "heading": {
+    "en": "Conditions of licence"
+   },
+   "text": {
+    "en": "3B.—(1) For the purposes of section 23A(1) of the Act, the following conditions are imposed on every licensee:\n(a)the licensee must enter into a contract of service in writing with each waste disposal worker employed by the licensee;\n(b)every contract of service entered into between the licensee and every resident waste disposal worker must provide for the payment of a baseline wage, a progressive wage model bonus and an overtime payment to the resident waste disposal worker, that —\n(i)is not less than the minimum amount of baseline wage, minimum amount of progressive wage model bonus and minimum amount of overtime payment, respectively; and\n(ii)in the case of a progressive wage model bonus, is at the frequency,\nspecified by the section 31DA Order (waste disposal workers) for the class of waste disposal workers to which the resident waste disposal worker belongs;\n(c)the licensee must ensure that every waste disposal worker employed by the licensee satisfies the training requirements as may be specified by the Director-General for the class of waste disposal workers to which the waste disposal worker belongs;\n(d)the licensee must not deploy any individual who is not employed by the licensee to carry out any waste disposal work, unless the individual is a waste disposal worker employed by another licensee;\n(e)the licensee must keep the records, accounts or documents specified in paragraph (2) for the period of retention specified in paragraph (3).\n(2) For the purposes of paragraph (1)(e), the records, accounts or documents are —\n(a)the accounts of the licensee’s business or activities that the licensee is authorised to carry out under the licensee’s licence;\n(b)a copy of the contract of service between the licensee and every waste disposal worker —\n(i)who is in the licensee’s employ as at the date of the licensee’s application for the grant or renewal of the licensee’s licence; or\n(ii)who is employed by the licensee after that date,\nincluding any amendment, variation or addition to the contract of service;\n(c)the detailed job description of every waste disposal worker;\n(d)the pay records of every waste disposal worker the licensee employs in respect of payments to the waste disposal worker on or after 1 July 2023, including a breakdown of the baseline wage, progressive wage model bonus and overtime payment paid to the waste disposal worker;\n(e)the records of every amount that is paid by the licensee into the Central Provident Fund in respect of every waste disposal worker under section 7(1) of the Central Provident Fund Act 1953, which is recoverable by the licensee under section 7(2) of that Act; and\n(f)the records of the training that every waste disposal worker has attended on or after 1 July 2023.\n(3) The period of retention mentioned in paragraph (1)(e) is —\n(a)in the case of the accounts specified in paragraph (2)(a) — 4 years after the end of the period to which the accounts relate;\n(b)in the case of the contract of service specified in paragraph (2)(b), the detailed job description specified in paragraph (2)(c) and the records specified in paragraph (2)(f) — 4 years after the end of the employment of the waste disposal worker to whom that contract of service, job description and records relate; and\n(c)in the case of the records specified in paragraph (2)(d) and (e) — 4 years after the date on which the payment concerned was made.\n[S 461/2023 wef 01/07/2023]"
+   }
+  },
+  {
+   "id": "SG-H1374-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "4. The fees payable by a licensee in respect of a licence are specified in the Schedule."
+   }
+  },
+  {
+   "id": "SG-H1374-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Surrender of licence"
+   },
+   "text": {
+    "en": "5.—(1) Where a licence is suspended or cancelled under section 99(15) of the Act, the licensee must surrender the licence to an authorised public officer —\n(a)in the case where the licensee has appealed to the Minister against the suspension or cancellation, within 14 days after the appeal is determined by the Minister or withdrawn by the licensee, whichever is the earlier; and\n(b)in any other case, within 14 days after the suspension or cancellation.\n[S 461/2023 wef 31/12/2021]\n(2) In this regulation, “authorised public officer” means a public officer authorised in writing by the Director‑General for the purposes of this regulation."
+   }
+  },
+  {
+   "id": "SG-H1374-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Protection of public health and environment"
+   },
+   "text": {
+    "en": "6.—(1) A licensee —\n(a)must ensure that the maintenance and operation of the licensee’s licensed general waste disposal facility do not endanger public health and the environment;\n(b)must take effective measures to safeguard public health; and\n(c)must take effective measures to control public access to the licensee’s licensed general waste disposal facility.\n(2) A licensee must install, operate and maintain pollution control equipment, or take effective measures, to minimise or mitigate —\n(a)effluent, smell, noise or air pollution;\n(b)the propagation or harbouring of any vector; and\n(c)any other nuisance,\narising from the maintenance and operation of the licensee’s licensed general waste disposal facility."
+   }
+  },
+  {
+   "id": "SG-H1374-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Approved types of general waste"
+   },
+   "text": {
+    "en": "7.—(1) A licensee must ensure that the licensee’s licensed general waste disposal facility only receives, stores, sorts, treats or processes the types of general waste specified by the Director‑General in the licence.\n(2) If the Director‑General has any reason to believe that a licensee has failed to comply with paragraph (1), the Director‑General may, by written notice, require the licensee to, at the licensee’s own cost, submit samples of waste deposited in the licensee’s licensed general waste disposal facility to an approved laboratory for analysis.\n(3) The licensee must submit the approved laboratory’s report of the analysis to the Director‑General within 30 days after the date the licensee receives the written notice under paragraph (2) or such longer period as the Director‑General may specify in writing.\n(4) The licensee must keep the report for 24 months after the report is made.\n(5) In this regulation, “approved laboratory” means any laboratory approved by the Director‑General for the purposes of this regulation."
+   }
+  },
+  {
+   "id": "SG-H1374-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Storage of general waste within approved storage limit"
+   },
+   "text": {
+    "en": "8.—(1) A licensee must ensure that the quantity of general waste stored within the licensee’s licensed general waste disposal facility is within the approved storage limit specified by the Director‑General in the licence.\n(2) If, in the opinion of the Director‑General, the quantity of general waste stored in the licensed general waste disposal facility exceeds the approved storage limit, the Director‑General may, by written notice, require the licensee to, at the licensee’s own cost, do all or any of the following:\n(a)dispose the excess general waste at such other disposal facility, and within such period, specified in the notice;\n(b)stop receiving general waste at the licensee’s licensed general waste disposal facility until the excess general waste has been disposed of;\n(c)restrict, in the manner specified in the written notice, the quantity of general waste received at the licensee’s licensed general waste disposal facility until the excess general waste has been disposed of.\n(3) The Director‑General may, by written notice, require the licensee to furnish evidence that the licensee has complied with the notice under paragraph (2)."
+   }
+  },
+  {
+   "id": "SG-H1374-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Contingency plans"
+   },
+   "text": {
+    "en": "9.—(1) A licensee must establish contingency plans for the disposal of stored waste at any other approved general waste disposal facility during any disruption of the operation of the licensee’s licensed general waste disposal facility.\n(2) The licensee must submit the contingency plans to the Director‑General within 14 days after the Director‑General, by written notice, requests for the plans.\n(3) In this regulation, “approved general waste disposal facility” means a general waste disposal facility approved by the Director‑General for the purposes of this regulation."
+   }
+  },
+  {
+   "id": "SG-H1374-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Daily register"
+   },
+   "text": {
+    "en": "10.—(1) A licensee must, in respect of the licensee’s licensed general waste disposal facility, establish and maintain, in such manner as the Director‑General requires, a daily register that records the following information for each day:\n(a)the source, type and quantity of all general waste received at the licensed general waste disposal facility on that day;\n(b)the type and quantity of all products (including recyclables, steam and electricity) recovered or produced in the licensed general waste disposal facility on that day;\n(c)the type and quantity of all general waste stored in the licensed general waste disposal facility on that day;\n(d)the type and quantity of all residual waste that was recovered or produced in the licensed general waste disposal facility and then disposed of on that day;\n(e)the method by which the residual waste mentioned in sub‑paragraph (d) was disposed of.\n(2) The licensee must submit every record in the daily register to the Director‑General within 14 days after the Director‑General, by written notice, requests for the record.\n(3) The licensee must keep every record in the daily register for a period of 24 months after the record is made.\n(4) The Director‑General may, at any time by a written notice, require a licensee to engage, at the licensee’s own cost, an independent qualified auditor to audit the records and to prepare an audit report.\n(5) The licensee must submit a copy of the audit report to the Director‑General within 30 days after the date the licensee receives the written notice under paragraph (4) or such longer period as the Director‑General may specify in writing.\n(6) A licensee’s obligations under this regulation continues despite any suspension, cancellation, expiry or renewal of a licence.\n(7) In this regulation, “independent qualified auditor” means a person who has such qualification or accreditation as the Director‑General may specify for the purposes of this regulation."
+   }
+  },
+  {
+   "id": "SG-H1374-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Notice requiring assessment of preventive and corrective measures"
+   },
+   "text": {
+    "en": "11.—(1) This regulation applies where, in the opinion of the Director‑General, any activity in a licensed general waste disposal facility —\n(a)threatens or is likely to threaten the health of any person; or\n(b)causes or is likely to cause pollution to the environment.\n(2) The Director‑General may, by written notice, require the licensee of a licensed general waste disposal facility mentioned in paragraph (1) to do all of the following within the period specified in the notice:\n(a)prepare effective preventive or corrective measures needed to address the situation;\n(b)submit to the Director‑General plans for the implementation of the preventive or corrective measures;\n(c)furnish to the Director‑General evidence of any improvement to the situation after implementing the preventive or corrective measures.\n(3) The plans mentioned in paragraph (1)(b) must include an analysis of the effectiveness, potential impact and time required for the implementation of the preventive or corrective measures."
+   }
+  },
+  {
+   "id": "SG-H1374-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Notice requiring removal of general waste"
+   },
+   "text": {
+    "en": "12.—(1) If, in the opinion of the Director‑General, any general waste stored in any licensed general waste disposal facility threatens or is likely to threaten —\n(a)the health of any person; or\n(b)to cause pollution to the environment,\nthe Director‑General may, by written notice, require the licensee to dispose, at the licensee’s own cost and within the period specified in the notice, such general waste at a disposal facility specified in the notice.\n(2) The Director‑General may, by written notice, require the licensee to furnish, within the period specified in the notice, evidence that the licensee has complied with the notice under paragraph (1)."
+   }
+  },
+  {
+   "id": "SG-H1374-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Compliance"
+   },
+   "text": {
+    "en": "13.—(1) A licensee must comply with any written notice given by the Director‑General under these Regulations.\n(2) A licensee must secure the compliance, in relation to the licensee’s licensed general waste disposal facility, by any of its employees, agents or contractors with any provision of the Act or these Regulations or any written notice made by the Director‑General under these Regulations."
+   }
+  },
+  {
+   "id": "SG-H1374-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Penalty"
+   },
+   "text": {
+    "en": "14. Any licensee that contravenes or fails to comply with regulation 3A(1), (2) or (3), 5(1), 6(1) or (2), 7(1), (3) or (4), 8(1), 9(1) or (2), 10(1), (2), (3) or (5) or 13(1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part of a day during which the offence continues after conviction.\n[S 461/2023 wef 01/07/2023]"
+   }
+  },
+  {
+   "id": "SG-H1374-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRegulation 4\nFees\n1.Grant or renewal of a licence\n$400\n2.Amendment of a licence\n$138 per application\n[S 934/2024 wef 01/01/2025]"
+   }
+  }
+ ]
+}

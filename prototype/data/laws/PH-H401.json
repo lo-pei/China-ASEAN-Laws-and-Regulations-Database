@@ -1,0 +1,64 @@
+{
+ "id": "PH-H401",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Sections Six and Ten of Republic Act Numbered Sixty-Five",
+  "orig": "An Act to Amend Sections Six and Ten of Republic Act Numbered Sixty-Five"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p05",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1948-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 307",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 2717,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1948/ra_307_1948.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1948/ra_307_1948.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H401-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Sections six and ten of Republic Act Numbered Sixty-five are hereby amended to read as follows:\n\"Sec. 6. In order to carry into effect the purposes of this Act there is hereby created a Philippine Veterans Board in the Department of National Defense which shall take charge of effectuating the duties herein or hereinafter assigned to it by law. In connection therewith, the Board shall compile a permanent list of (1) officers and enlisted men of the Philippine Army who joined the colors at the start of the war, (2) members in good standing of recognized or deserving guerrilla organizations, (3) political prisoners who were killed by the Japanese Armed Forces, or were left by them to die in prison, and their widows, minor children and other dependents, (4) parents of deceased soldiers, (5) officers and enlisted men of deserving guerrilla organizations who died in line of duty, or as consequences of illness or injury contracted or sustained in line of duty or as a consequence of the performance of such duty, or their widows, orphans and other dependents, (6) veterans of Philippine revolutions against Spain and the United States.\n\"It shall also be the duty of the Board to pass upon the merits and qualifications of persons applying for the rights and/or privileges extended by this Act, pursuant to such rules as it may adopt to insure the speedy and honest fulfillment of its aims and purposes.\n\"For the purposes of this section, any officer or enlisted man of the Philippine Army or of any recognized or deserving guerrilla organization or any political prisoner shall be presumed to have died in line of duty if they have not been heard from by the nearest of kin within one year after September second, nineteen hundred and forty-five.\n\"For the purposes of this section persons who are buried in military cemeteries shall be presumed members of the Philippine Army or of deserving guerrilla organizations.\"\n\"Sec. 10. Widows and Minor children or indigent parents of the persons mentioned in sections one and two hereof who died during the war or, at any time thereafter, as a result of illness or injury contracted or sustained in line of duty or as a consequence of the performance of such duty, and of political prisoners who died in prison or were killed by the Japanese Armed Forces, except those who, for the same reason, are actually receiving a similar pension from other Government funds, may be given a pension of fifty pesos a month for each widow and ten pesos for each minor child below eighteen years of age, until the widow remarries or dies, and until the minor child dies, marries or reaches the age of eighteen.\""
+   }
+  },
+  {
+   "id": "PH-H401-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1948."
+   }
+  }
+ ]
+}

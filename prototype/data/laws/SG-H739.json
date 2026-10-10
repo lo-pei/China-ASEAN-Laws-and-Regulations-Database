@@ -1,0 +1,52 @@
+{
+ "id": "SG-H739",
+ "title": {
+  "zh": null,
+  "en": "Commissioner of Lands to Direct Proceedings",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p09",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation LAA1966-N1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 405,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/LAA1966-N1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 1 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H739-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Land Acquisition Act\n(Chapter 152, Section 6)\nCommissioner of Lands to Direct Proceedings\nN 1\nREVISED EDITION 1990\n(25th March 1992)\n[24th December 1987]\nThe Minister for Law has authorised the Commissioner of Lands to be the officer who shall direct the Collector of Land Revenue to take proceedings for the acquisition of land as and when it has been declared to be needed under section 5(1) of the Act."
+   }
+  }
+ ]
+}

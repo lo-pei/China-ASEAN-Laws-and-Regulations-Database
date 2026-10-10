@@ -1,0 +1,189 @@
+{
+ "id": "SG-H1905",
+ "title": {
+  "zh": null,
+  "en": "Income Tax (Adjustment for Change of Basis of Computing Profit, Loss or Expense from Financial Instruments of Insurers) Regulations 2022",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p24",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ITA1947-S879-2022",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 12,
+ "chars": 28680,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ITA1947-S879-2022?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 12 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 3 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1905-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Income Tax (Adjustment for Change of Basis of Computing Profit, Loss or Expense from Financial Instruments of Insurers) Regulations 2022 and come into operation on 11 November 2022."
+   }
+  },
+  {
+   "id": "SG-H1905-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations —\n“contractual interest rate”, in relation to any financial instrument, means the applicable interest rate specified in the financial instrument;\n“FRS 12” means the financial reporting standard known as Financial Reporting Standard 12 (Income Taxes) that is made, and amended from time to time, under Part 3 of the Accounting Standards Act 2007;\n“FRS 39” means the financial reporting standard known as Financial Reporting Standard 39 (Financial Instruments: Recognition and Measurement) that is treated as made by the Accounting Standards Committee under Part 3 of the Accounting Standards Act 2007, as amended from time to time;\n[S 149/2023 wef 01/04/2023]\n“FRS 109” means the financial reporting standard known as Financial Reporting Standard 109 (Financial Instruments) that is made, and amended from time to time, under Part 3 of the Accounting Standards Act 2007;\n“initial year of assessment”, in relation to an insurer, means the first year of assessment for which the insurer is subject to the tax treatment under section 34AAA of the Act;\n“insurer” means a company licensed under the Insurance Act 1966 to carry on insurance business in Singapore and which applies the tax treatment under section 34AAA of the Act;\n“MAS return”, in relation to an insurer, means the statements of account and other statements relating to the insurer’s business prepared and lodged with the Monetary Authority of Singapore under section 94(3) of the Insurance Act 1966;\n“relevant day” means the last day of the basis period for the year of assessment immediately before the initial year of assessment;\n“SFRS(I) 1-12” means the financial reporting standard known as Singapore Financial Reporting Standard (International) 1‑12 (Income Taxes) that is made, and amended from time to time, under Part 3 of the Accounting Standards Act 2007;\n“SFRS(I) 9” means the financial reporting standard known as Singapore Financial Reporting Standard (International) 9 (Financial Instruments) that is made, and amended from time to time, under Part 3 of the Accounting Standards Act 2007.\n(2) Any term used in these Regulations and not defined in these Regulations but defined in FRS 39, FRS 109 or SFRS(I) 9, has the meaning given by FRS 39, FRS 109 or SFRS(I) 9, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H1905-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Transition from tax treatment under section 34A of Act to tax treatment under section 34AAA of Act"
+   },
+   "text": {
+    "en": "3.—(1) This regulation applies to an insurer that is a qualifying person under section 34A of the Act for the year of assessment immediately before the initial year of assessment.\n(2) The amount of any profit or loss in respect of any financial instrument on revenue account of the insurer on the first day of the basis period of the initial year of assessment (called in this regulation the amount A) is computed using the formula specified in the second column of the First Schedule opposite the description in the first column of that Schedule to which the financial instrument belongs.\n(3) Where the financial instrument on revenue account of the insurer is not an instrument mentioned in the first column of the First Schedule, the amount A in respect of that financial instrument is computed on a basis that the Comptroller considers reasonable in the circumstances.\n(4) The amount A computed in accordance with paragraph (2) or (3) must not include —\n(a)any amount that is brought into account under section 34A of the Act for the purpose of section 10 of the Act for any year of assessment before the initial year of assessment; and\n(b)any amount of losses that had been allowed under the Act to the insurer for any year of assessment before the initial year of assessment.\n(5) Where the amount A computed in accordance with paragraph (2) or (3) is a positive amount, it is treated as income of the insurer for the initial year of assessment.\n(6) Where the amount A computed in accordance with paragraph (2) or (3) is a negative amount, an amount equal to it (expressed as a positive amount) is to be allowed as a deduction against the insurer’s income for the initial year of assessment."
+   }
+  },
+  {
+   "id": "SG-H1905-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Transition from tax treatment under section 34AA of Act to tax treatment under section 34AAA of Act"
+   },
+   "text": {
+    "en": "4.—(1) This regulation applies to an insurer that is a qualifying person under section 34AA of the Act for the year of assessment immediately before the initial year of assessment.\n(2) The amount of any profit or loss in respect of any financial instrument on revenue account of the insurer on the first day of the basis period of the initial year of assessment (called in this regulation the amount B) is computed using the formula specified in the second column of the Second Schedule opposite the description in the first column of that Schedule to which the financial instrument belongs.\n(3) Where the financial instrument on revenue account of the insurer is not an instrument mentioned in the first column of the Second Schedule, the amount B in respect of that financial instrument is computed on a basis that the Comptroller considers reasonable in the circumstances.\n(4) The amount B computed in accordance with paragraph (2) or (3) must not include —\n(a)any amount that is brought into account under section 34AA of the Act for the purpose of section 10 of the Act for any year of assessment before the initial year of assessment; and\n(b)any amount of losses that had been allowed under the Act to the insurer for any year of assessment before the initial year of assessment.\n(5) Where the amount B computed in accordance with paragraph (2) or (3) is a positive amount, it is treated as income of the insurer for the initial year of assessment.\n(6) Where the amount B computed in accordance with paragraph (2) or (3) is a negative amount, an amount equal to it (expressed as a positive amount) is to be allowed as a deduction against the insurer’s income for the initial year of assessment."
+   }
+  },
+  {
+   "id": "SG-H1905-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Transition from other tax treatment to tax treatment under section 34AAA of Act"
+   },
+   "text": {
+    "en": "5.—(1) This regulation applies to an insurer that is not a qualifying person under section 34A or 34AA of the Act for the year of assessment immediately before the initial year of assessment.\n(2) The amount of any profit or loss in respect of any financial instrument on revenue account of the insurer on the first day of the basis period of the initial year of assessment (called in this regulation the amount C) is computed using the formula specified in the second column of the Third Schedule opposite the description in the first column of that Schedule to which the financial instrument belongs.\n(3) Where the financial instrument on revenue account of the insurer is not an instrument mentioned in the first column of the Third Schedule, the amount C in respect of that financial instrument is computed on a basis that the Comptroller considers reasonable in the circumstances.\n(4) The amount C computed in accordance with paragraph (2) or (3) must not include —\n(a)any amount that is charged with tax under section 10 of the Act for any year of assessment before the initial year of assessment; and\n(b)any amount of losses that had been allowed under the Act to the insurer for any year of assessment before the initial year of assessment.\n(5) Where the amount C computed in accordance with paragraph (2) or (3) is a positive amount, it is treated as income of the insurer for the initial year of assessment.\n(6) Where the amount C computed in accordance with paragraph (2) or (3) is a negative amount, an amount equal to it (expressed as a positive amount) is to be allowed as a deduction against the insurer’s income for the initial year of assessment."
+   }
+  },
+  {
+   "id": "SG-H1905-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Additional amount treated as income under section 34AAA(7) of Act or allowable as deduction under section 34AAA(10) of Act due to capital loss or gain, where financial instrument had not been disposed of"
+   },
+   "text": {
+    "en": "6.—(1) The purpose of this regulation is to determine the additional amount of any other gain, loss or expense in respect of a financial instrument that is treated as income under section 34AAA(7) of the Act or allowable as a deduction under section 34AAA(10) of the Act (as the case may be), where the financial instrument had not yet been disposed of by the insurer on the last day of the basis period for the year of assessment immediately before the year of assessment in which the Comptroller makes the discovery (called in this regulation day X) —\n(a)under section 34AAA(7) of the Act, that a deduction ought not to have been allowed for a loss or expense in respect of the financial instrument as it is capital in nature; or\n(b)under section 34AAA(10) of the Act, that a gain in respect of the financial instrument ought not to have been charged with tax as it is capital in nature.\n(2) The additional amount is computed using the formula B – A, where —\n(a)A is the value of the financial instrument recognised on day X in Form A1 (which relates to the “Statement of Financial Position”) of the insurer’s MAS return, excluding any amount of accumulated investment income earned on that financial instrument; and\n(b)B is the cost incurred by the insurer in acquiring the financial instrument."
+   }
+  },
+  {
+   "id": "SG-H1905-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Additional amount treated as income under section 34AAA(7) of Act or allowable as deduction under section 34AAA(10) of Act due to revenue gain or loss, where financial instrument had not been disposed of"
+   },
+   "text": {
+    "en": "7.—(1) The purpose of this regulation is to determine the additional amount of any other gain, loss or expense in respect of a financial instrument that is treated as income under section 34AAA(7) of the Act or allowable as a deduction under section 34AAA(10) of the Act (as the case may be), where the financial instrument had not yet been disposed of by the insurer on the last day of the basis period for the year of assessment immediately before the year of assessment in which the Comptroller makes the discovery (called in this regulation day Y) —\n(a)under section 34AAA(7) of the Act, that a gain in respect of the financial instrument ought to have been charged with tax as it is revenue in nature; or\n(b)under section 34AAA(10) of the Act, that a deduction ought to have been allowed for a loss or expense in respect of the financial instrument as it is revenue in nature.\n(2) The additional amount is computed using the formula A – B, where —\n(a)A is the value of the financial instrument recognised on day Y in Form A1 (which relates to the “Statement of Financial Position”) of the insurer’s MAS return, excluding any amount of accumulated investment income earned on that financial instrument; and\n(b)B is the cost incurred by the insurer in acquiring the financial instrument."
+   }
+  },
+  {
+   "id": "SG-H1905-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Additional amount treated as income under section 34AAA(7) of Act or allowable as deduction under section 34AAA(10) of Act due to capital loss or gain, where financial instrument had been disposed of"
+   },
+   "text": {
+    "en": "8.—(1) The purpose of this regulation is to determine the additional amount of any other gain, loss or expense in respect of a financial instrument that is treated as income under section 34AAA(7) of the Act or allowable as a deduction under section 34AAA(10) of the Act (as the case may be), where the financial instrument —\n(a)had been disposed of by the insurer; or\n(b)being a debt instrument, had been disposed of by the insurer, had matured or had been redeemed,\non or before the last day of the basis period for the year of assessment immediately before the year of assessment in which the Comptroller makes the discovery —\n(c)under section 34AAA(7) of the Act, that a deduction ought not to have been allowed for a loss or expense in respect of the financial instrument as it is capital in nature; or\n(d)under section 34AAA(10) of the Act, that a gain in respect of the financial instrument ought not to have been charged with tax as it is capital in nature.\n(2) Where the financial instrument (including a debt instrument) had been disposed of by the insurer, the additional amount is computed using the formula B – A, where —\n(a)A is the consideration received or receivable by the insurer from the disposal of the financial instrument; and\n(b)B is the cost incurred by the insurer in acquiring the financial instrument.\n(3) Where the financial instrument is a debt instrument that had matured or had been redeemed, the additional amount is —\n(a)if the amount received or receivable by the insurer on the maturity or redemption of the debt instrument is equal to or greater than the amount for which the debt instrument was first issued — zero; or\n(b)if the amount received or receivable by the insurer on the maturity or redemption of the debt instrument is less than the amount for which the debt instrument was first issued — computed using the formula C – D, where —\n(i)C is the amount for which the debt instrument was first issued; and\n(ii)D is the amount received or receivable by the insurer on the maturity or redemption of the debt instrument."
+   }
+  },
+  {
+   "id": "SG-H1905-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Additional amount treated as income under section 34AAA(7) of Act or allowable as deduction under section 34AAA(10) of Act due to revenue gain or loss, where financial instrument had been disposed of"
+   },
+   "text": {
+    "en": "9.—(1) The purpose of this regulation is to determine the additional amount of any other gain, loss or expense in respect of a financial instrument that is treated as income under section 34AAA(7) of the Act or allowable as a deduction under section 34AAA(10) of the Act (as the case may be), where the financial instrument —\n(a)had been disposed of by the insurer; or\n(b)being a debt instrument, had been disposed of by the insurer, had matured or had been redeemed,\non or before the last day of the basis period for the year of assessment immediately before the year of assessment in which the Comptroller makes the discovery —\n(c)under section 34AAA(7) of the Act, that a gain in respect of the financial instrument ought to have been charged with tax as it is revenue in nature; or\n(d)under section 34AAA(10) of the Act, that a deduction ought to have been allowed for a loss or expense in respect of the financial instrument as it is revenue in nature.\n(2) Where the financial instrument (including a debt instrument) had been disposed of by the insurer, the additional amount is computed using the formula A – B, where —\n(a)A is the consideration received or receivable by the insurer from the disposal of the financial instrument; and\n(b)B is the cost incurred by the insurer in acquiring the financial instrument.\n(3) Where the financial instrument is a debt instrument that had matured or had been redeemed, the additional amount is —\n(a)if the amount received or receivable by the insurer on the maturity or redemption of the debt instrument is equal to or greater than the amount for which the debt instrument was first issued — zero; or\n(b)if the amount received or receivable by the insurer on the maturity or redemption of the debt instrument is less than the amount for which the debt instrument was first issued — computed using the formula D – C, where —\n(i)C is the amount for which the debt instrument was first issued; and\n(ii)D is the amount received or receivable by the insurer on the maturity or redemption of the debt instrument."
+   }
+  },
+  {
+   "id": "SG-H1905-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 3(2) and (3)\nProfit or loss in respect of financial instruments\nof insurer recognised on first day of basis period\nof initial year of assessment for transition from\ntax treatment under section 34A of Act to\ntax treatment under section 34AAA of Act\n1. The amount A mentioned in regulation 3(2) in respect of a financial instrument of an insurer is computed in accordance with the following table:\nFirst column\nSecond column\nClassification of financial instrument under FRS 39 on the relevant day\nFormula for computing\namount A\n1.In respect of an equity instrument that is required by FRS 39 to be classified as a financial asset at fair value through profit or loss on the relevant day\nA – B\nwhere —\n(a)A is the value of the equity instrument recognised on the relevant day in Form A1 (which relates to the “Statement of Financial Position”) of the insurer’s MAS return; and\n(b)B is the value of the equity instrument recognised (in accordance with FRS 39) on the relevant day in the balance sheet of the insurer’s financial statements.\n2.In respect of a debt instrument that is required by FRS 39 to be classified as a financial asset at fair value through profit or loss on the relevant day\nA – B\nwhere —\n(a)A is the value of the debt instrument recognised on the relevant day in Form A1 (which relates to the “Statement of Financial Position”) of the insurer’s MAS return; and\n(b)B is the value of the debt instrument recognised (in accordance with FRS 39) on the relevant day in the balance sheet of the insurer’s financial statements.\n3.In respect of an equity instrument that is required by FRS 39 to be classified as an available‑for‑sale financial asset on the relevant day\nA – B + D\nwhere —\n(a)A is the value of the equity instrument recognised on the relevant day in Form A1 (which relates to the “Statement of Financial Position”) of the insurer’s MAS return;\n(b)B is the value of the equity instrument recognised (in accordance with FRS 39) on the relevant day in the balance sheet of the insurer’s financial statements; and\n(c)D is —\n(i)where the net amount of all gains or losses (before any deduction for tax is made in accordance with FRS 12) in respect of the equity instrument recognised (in accordance with FRS 39) on the relevant day in a reserve account of the statement of changes in equity in the insurer’s financial statements is a gain — the amount of the gain expressed as a positive value; or\n(ii)where the net amount of all gains or losses (before any deduction for tax is made in accordance with FRS 12) in respect of the equity instrument recognised (in accordance with FRS 39) on the relevant day in a reserve account of the statement of changes in equity in the insurer’s financial statements is a loss — the amount of the loss expressed as a negative value.\n4.In respect of a debt instrument that is required by FRS 39 to be classified as an available‑for‑sale financial asset on the relevant day\nA – B + D\nwhere —\n(a)A is the value of the debt instrument recognised on the relevant day in Form A1 (which relates to “Statement of Financial Position”) of the insurer’s MAS return;\n(b)B is the value of the debt instrument recognised (in accordance with FRS 39) on the relevant day in the balance sheet of the insurer’s financial statements; and\n(c)D is —\n(i)where the net amount of all gains or losses (before any deduction for tax is made in accordance with FRS 12) in respect of the debt instrument recognised (in accordance with FRS 39) on the relevant day in a reserve account of the statement of changes in equity in the insurer’s financial statements is a gain — the amount of the gain expressed as a positive value; or\n(ii)where the net amount of all gains or losses (before any deduction for tax is made in accordance with FRS 12) in respect of the debt instrument recognised (in accordance with FRS 39) on the relevant day in a reserve account of the statement of changes in equity in the insurer’s financial statements is a loss — the amount of the loss expressed as a negative value.\n5.In respect of an equity instrument that is required by FRS 39 to be classified as a financial asset carried at cost on the relevant day\nA – B + C\nwhere —\n(a)A is the value of the equity instrument recognised on the relevant day in Form A1 (which relates to the “Statement of Financial Position”) of the insurer’s MAS return;\n(b)B is the cost incurred by the insurer in acquiring the equity instrument; and\n(c)C is the total amount of impairment losses allowed under the Act to the insurer in respect of the equity instrument for all years of assessment before the initial year of assessment, excluding the amount of any losses that had been reversed and treated as income for any year of assessment before the initial year of assessment.\n6.In respect of a debt instrument that is required by FRS 39 to be classified as a held‑to‑maturity investment on the relevant day\nA – B + C\nwhere —\n(a)A is the value of the debt instrument recognised on the relevant day in Form A1 (which relates to the “Statement of Financial Position”) of the insurer’s MAS return;\n(b)B is the gross value (before any deduction is made for an allowance for impairment losses) of the debt instrument recognised (in accordance with FRS 39) on the relevant day in the balance sheet of the insurer’s financial statements; and\n(c)C is the total amount of impairment losses allowed under the Act to the insurer in respect of the debt instrument for all years of assessment before the initial year of assessment, excluding the amount of any losses that had been reversed and treated as income for any year of assessment before the initial year of assessment."
+   }
+  },
+  {
+   "id": "SG-H1905-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 4(2) and (3)\nProfit or loss in respect of financial instruments\nof insurer recognised on first day of basis period\nof initial year of assessment for transition from\ntax treatment under section 34AA of Act to\ntax treatment under section 34AAA of Act\n1. The amount B mentioned in regulation 4(2) in respect of a financial instrument of an insurer is computed in accordance with the following table:\nFirst column\nSecond column\nClassification of financial instrument under FRS 109 or SFRS(I) 9 on the relevant day\nFormula for computing\namount B\n1.In respect of an equity instrument that is required by FRS 109 or SFRS(I) 9 to be classified as a financial asset at fair value through profit or loss on the relevant day\nA – B\nwhere —\n(a)A is the value of the equity instrument recognised on the relevant day in Form A1 (which relates to the “Statement of Financial Position”) of the insurer’s MAS return; and\n(b)B is the value of the equity instrument recognised (in accordance with FRS 109 or SFRS(I) 9) on the relevant day in the balance sheet of the insurer’s financial statements.\n2.In respect of a debt instrument that is required by FRS 109 or SFRS(I) 9 to be classified as a financial asset at fair value through profit or loss on the relevant day\nA – B\nwhere —\n(a)A is the value of the debt instrument recognised on the relevant day in Form A1 (which relates to the “Statement of Financial Position”) of the insurer’s MAS return; and\n(b)B is the value of the debt instrument recognised (in accordance with FRS 109 or SFRS(I) 9) on the relevant day in the balance sheet of the insurer’s financial statements.\n3.In respect of an equity instrument that is required by FRS 109 or SFRS(I) 9 to be classified as a financial asset at fair value through other comprehensive income on the relevant day\nA – B + D\nwhere —\n(a)A is the value of the equity instrument recognised on the relevant day in Form A1 (which relates to the “Statement of Financial Position”) of the insurer’s MAS return;\n(b)B is the value of the equity instrument recognised (in accordance with FRS 109 or SFRS(I) 9) on the relevant day in the balance sheet of the insurer’s financial statements; and\n(c)D is —\n(i)where the net amount of all gains or losses (before any deduction for tax is made in accordance with FRS 12 or SFRS(I) 1‑12) in respect of the equity instrument recognised (in accordance with FRS 109 or SFRS(I) 9) on the relevant day in a reserve account of the statement of changes in equity in the insurer’s financial statements is a gain — the amount of the gain expressed as a positive value; or\n(ii)where the net amount of all gains or losses (before any deduction for tax is made in accordance with FRS 12 or SFRS(I) 1‑12) in respect of the equity instrument recognised (in accordance with FRS 109 or SFRS(I) 9) on the relevant day in a reserve account of the statement of changes in equity in the insurer’s financial statements is a loss — the amount of the loss expressed as a negative value.\n4.In respect of a debt instrument that is required by FRS 109 or SFRS(I) 9 to be classified as a financial asset at fair value through other comprehensive income on the relevant day\nA – B + C + D\nwhere —\n(a)A is the value of the debt instrument recognised on the relevant day in Form A1 (which relates to the “Statement of Financial Position”) of the insurer’s MAS return;\n(b)B is the value of the debt instrument recognised (in accordance with FRS 109 or SFRS(I) 9) on the relevant day in the balance sheet of the insurer’s financial statements;\n(c)C is the total amount of impairment losses allowed under the Act to the insurer in respect of the debt instrument for all years of assessment before the initial year of assessment, excluding the amount of any losses that had been reversed and treated as income for any year of assessment before the initial year of assessment; and\n(d)D is —\n(i)where the net amount of the gains or losses (before any deduction for tax is made in accordance with FRS 12 or SFRS(I) 1‑12) that arose solely from changes in the fair value of the debt instrument and that is recognised (in accordance with FRS 109 or SFRS(I) 9) on the relevant day in a reserve account of the statement of changes in equity in the insurer’s financial statements is a gain — the amount of the gain expressed as a positive value; or\n(ii)where the net amount of the gains or losses (before any deduction for tax is made in accordance with FRS 12 or SFRS(I) 1‑12) that arose solely from changes in the fair value of the debt instrument and that is recognised (in accordance with FRS 109 or SFRS(I) 9) on the relevant day in a reserve account of the statement of changes in equity in the insurer’s financial statements is a loss — the amount of the loss expressed as a negative value.\n5.In respect of a debt instrument that is required by FRS 109 or SFRS(I) 9 to be classified as a financial asset carried at amortised cost on the relevant day\nA – B + C\nwhere —\n(a)A is the value of the debt instrument recognised on the relevant day in Form A1 (which relates to the “Statement of Financial Position”) of the insurer’s MAS return;\n(b)B is the gross value (before any deduction is made for an allowance for expected credit losses) of the debt instrument recognised (in accordance with FRS 109 or SFRS(I) 9) on the relevant day in the balance sheet of the insurer’s financial statements; and\n(c)C is the total amount of impairment losses allowed under the Act to the insurer in respect of the debt instrument for all years of assessment before the initial year of assessment, excluding the amount of any losses that had been reversed and treated as income for any year of assessment before the initial year of assessment."
+   }
+  },
+  {
+   "id": "SG-H1905-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulation 5(2) and (3)\nProfit or loss in respect of financial instruments\nof insurer recognised on first day of basis period\nof initial year of assessment for transition from\nother tax treatment to tax treatment under\nsection 34AAA of Act\n1. The amount C mentioned in regulation 5(2) in respect of a financial instrument of an insurer is computed in accordance with the following table:\nFirst column\nSecond column\nClassification of financial instrument under FRS 39 on the relevant day\nFormula for computing\namount C\n1.In respect of an equity instrument that is required by FRS 39 to be classified as any of the following financial assets on the relevant day:\n(a)a financial asset at fair value through profit or loss;\n(b)an available‑for‑sale financial asset;\n(c)a financial asset carried at cost.\nA – B + C\nwhere —\n(a)A is the value of the equity instrument recognised on the relevant day in Form A1 (which relates to the “Statement of Financial Position”) of the insurer’s MAS return;\n(b)B is the cost incurred by the insurer in acquiring the equity instrument; and\n(c)C is the total amount of losses allowed under the Act to the insurer in respect of the equity instrument for all years of assessment before the initial year of assessment, excluding the amount of any losses that had been reversed and treated as income for any year of assessment before the initial year of assessment.\n2.In respect of a debt instrument that is required by FRS 39 to be classified as any of the following financial assets on the relevant day:\n(a)a financial asset at fair value through profit or loss;\n(b)an available‑for‑sale financial asset;\n(c)a held‑to‑maturity investment.\n(A – B + C) + (X – Y)\nwhere —\n(a)A is the value of the debt instrument recognised on the relevant day in Form A1 (which relates to the “Statement of Financial Position”) of the insurer’s MAS return;\n(b)B is the cost incurred by the insurer in acquiring the debt instrument;\n(c)C is the total amount of losses allowed under the Act to the insurer in respect of the debt instrument for all years of assessment before the initial year of assessment, excluding the amount of any losses that had been reversed and treated as income for any year of assessment before the initial year of assessment;\n(d)X is the total amount of interest income from the debt instrument, determined using the contractual interest rate, for all years of assessment between the first year of assessment relating to the basis period in which the insurer acquired the debt instrument and the year of assessment immediately before the initial year of assessment (both years of assessment inclusive); and\n(e)Y is the total amount of interest income from the debt instrument that was chargeable with tax, for all years of assessment between the first year of assessment relating to the basis period in which the insurer acquired the debt instrument and the year of assessment immediately before the initial year of assessment (both years of assessment inclusive)."
+   }
+  }
+ ]
+}

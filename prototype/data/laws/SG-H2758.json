@@ -1,0 +1,107 @@
+{
+ "id": "SG-H2758",
+ "title": {
+  "zh": null,
+  "en": "Inland Revenue Authority of Singapore (Electronic Service System) Regulations 2024",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p35",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation IRASA1992-S349-2024",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 5830,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/IRASA1992-S349-2024?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 5 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2758-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Inland Revenue Authority of Singapore (Electronic Service System) Regulations 2024 and come into operation on 26 April 2024."
+   }
+  },
+  {
+   "id": "SG-H2758-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“body of persons”, “company”, “limited liability partnership” and “limited partnership” have the meanings given by section 2(1) of the Income Tax Act 1947;\n“casino operator” has the meaning given by section 2(1) of the Casino Control Act 2006;\n“chargeable entity” has the meaning given by section 2(1) of the Multinational Enterprise (Minimum Tax) Act 2024;\n[S 832/2025 wef 24/12/2025]\n“Corppass” means the authorisation service known as Singapore Corporate Access, by which an entity authorises individuals to perform online transactions with the Government or a public authority on behalf of the entity;\n“IRAS Tax Portal” means the electronic service system established by the Authority under section 29(1) of the Act;\n“liable person” means a person liable to pay for any gambling duty under section 7 of the Gambling Duties Act 2022;\n“owner” has the meaning given by section 2(1) of the Property Tax Act 1960;\n“registered person” has the meaning given by section 2(1) of the Goods and Services Tax Act 1993;\n“Singpass” means the identity authentication service known as Singapore Personal Access, by which an individual authenticates the individual’s identity in order to carry out an online transaction with the Government or a public authority."
+   }
+  },
+  {
+   "id": "SG-H2758-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Accounts"
+   },
+   "text": {
+    "en": "3.—(1) The Authority may assign an account for the use of the IRAS Tax Portal by or for an account holder who is —\n(a)an individual for the purpose of the Income Tax Act 1947;\n(b)a body of persons, company, partnership, limited liability partnership or limited partnership for the purpose of the Income Tax Act 1947;\n(c)a registered person or a person applying to be a registered person for the purpose of the Goods and Services Tax Act 1993;\n(d)an owner for the purpose of the Property Tax Act 1960;\n(e)a casino operator for the purpose of the Casino Control Act 2006;\n[S 832/2025 wef 24/12/2025]\n(f)a liable person for the purpose of the Gambling Duties Act 2022; or\n[S 832/2025 wef 24/12/2025]\n(g)a chargeable entity for the purpose of the Multinational Enterprise (Minimum Tax) Act 2024.\n[S 832/2025 wef 24/12/2025]\n(2) The Authority may permit an account holder who has been assigned an account under any sub‑paragraph in paragraph (1) to also use that account for a purpose mentioned in another sub‑paragraph in paragraph (1).\n(3) The Authority may require, before assigning an account under paragraph (1) —\n(a)in the case of an account holder who is an individual (other than a registered person) — that the account holder is registered to use Singpass; and\n(b)in any other case — that the account holder is registered to use Corppass.\n(4) An account holder who is not an individual may authorise any individual to access its account for any purpose mentioned in paragraph (1)(b) to (g), and may suspend or cancel any such authorisation, in the manner specified by the Authority.\n[S 832/2025 wef 24/12/2025]\n(5) An account holder who is an individual and a registered person may authorise any individual to access his or her account for the purpose mentioned in paragraph (1)(c), and may suspend or cancel any such authorisation, in the manner specified by the Authority.\n(6) The Authority must permit access to an account assigned to an account holder who is an individual by the account holder if he or she performs a valid authentication of his or her identity by the use of Singpass.\n(7) The Authority must permit access to an account by an individual duly authorised under paragraph (4) or (5) for the purpose authorised by the account holder, if he or she performs a valid authentication of his or her identity by the use of Singpass."
+   }
+  },
+  {
+   "id": "SG-H2758-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Electronic service agents"
+   },
+   "text": {
+    "en": "4.—(1) An account holder may authorise an electronic service agent to serve on the Authority any document or information by means of the IRAS Tax Portal, if that document or information is permitted or required by or under any relevant tax legislation to be served on the Authority by such means.\n(2) The account holder may at any time cancel such authorisation.\n(3) An authorisation, or the cancellation of an authorisation, under paragraph (1) or (2) must be made in the manner specified by the Authority.\n(4) The Authority must permit access to the IRAS Tax Portal by an electronic service agent who is duly authorised under this regulation to serve the document or information on the Authority, if the electronic service agent performs a valid authentication of his or her identity by the use of Singpass, for the purpose of such service.\n(5) Despite paragraph (1), an account holder who is an individual may not authorise an electronic service agent to serve on the Authority any document or information by means of the IRAS Tax Portal for the purpose of the Property Tax Act 1960."
+   }
+  },
+  {
+   "id": "SG-H2758-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Inspection of records of electronic service agents"
+   },
+   "text": {
+    "en": "5.—(1) The Authority, or any person authorised in writing by the Authority, may inspect, copy or make extracts from the records and accounts kept by an electronic service agent relating to the use of the IRAS Tax Portal.\n(2) The Authority, or any person authorised in writing by the Authority, may require an electronic service agent to provide any reasonable assistance that the Authority or person may require for the purpose of this regulation, including the provision of access to any decryption information necessary to decrypt any data relating to the use of the IRAS Tax Portal by the electronic service agent.\n(3) An electronic service agent who, without reasonable excuse, fails to comply with any requirement of the Authority, or a person authorised in writing by the Authority under paragraph (2), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  }
+ ]
+}

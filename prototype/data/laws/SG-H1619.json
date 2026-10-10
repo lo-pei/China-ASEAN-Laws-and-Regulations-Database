@@ -1,0 +1,351 @@
+{
+ "id": "SG-H1619",
+ "title": {
+  "zh": null,
+  "en": "Goods and Services Tax (Appeals Procedure for Board of Review) Regulations 2023",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p20",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation GSTA1993-S579-2023",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 24,
+ "chars": 25796,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/GSTA1993-S579-2023?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 24 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1619-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Goods and Services Tax (Appeals Procedure for Board of Review) Regulations 2023 and come into operation on 21 August 2023."
+   }
+  },
+  {
+   "id": "SG-H1619-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions and application"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations —\n“appeal panel”, in relation to an appeal, means the committee or member of the Board appointed by the Chairperson under section 50(6) or (6A) of the Act to exercise, discharge and perform the powers, functions and duties of the Board for that appeal;\n“appellant”, in relation to an appeal, means the person who appeals to the Board under section 51(1) of the Act;\n“Board” means the Board of Review constituted under section 50 of the Act;\n“Chairperson” means the Chairperson of the Board;\n“Deputy Chairperson” means a Deputy Chairperson of the Board;\n“disputed tax amount” means —\n(a)in the case of an appeal against a decision of the Comptroller under section 49 of the Act on the appellant’s application for review and revision of the Comptroller’s earlier decision (other than a case specified in paragraph (b)) — the absolute value of the amount calculated in accordance with the formula:\nwhere —\n(i)A is the amount of output tax payable as determined by the Comptroller, if any;\n(ii)B is the amount of output tax alleged by the appellant to be payable, if any;\n(iii)C is the amount of input tax and any other refund alleged by the appellant to be allowable or claimable, if any; and\n(iv)D is the amount of input tax and any other refund allowable or claimable, as determined by the Comptroller, if any; and\nIllustrations\n(a)In a prescribed accounting period, no output tax is payable by the appellant but the appellant made an input tax claim of $100,000. The Comptroller has assessed the input tax allowable to be $60,000. The disputed tax amount is $40,000.\n(b)The Comptroller has assessed the output tax payable to be $8,000 and the input tax allowable to be $3,000. The appellant alleges that the output tax payable ought to be $10,000 and is claiming $6,000 in input tax. The disputed tax amount is $1,000.\n(c)The appellant appeals against a decision of the Comptroller on the appellant’s application for review and revision of the Comptroller’s earlier decision with respect to a matter mentioned in section 49(1)(e) of the Act. The appellant alleges that it is entitled to a refund of $100,000, being the amount of tax chargeable on the consideration for a supply that has been written off in the appellant’s accounts as a bad debt. The Comptroller determines that the appellant is only entitled to a refund of $60,000. The disputed tax amount is $40,000.\n(b)in the following cases — nil:\n(i)an appeal against a decision of the Comptroller on the appellant’s application for review and revision of the Comptroller’s earlier decision with respect to a matter mentioned in section 49(1)(c) of the Act that only relates to any interest that is allegedly payable to the appellant;\n(ii)an appeal against a decision of the Comptroller on the appellant’s application for review and revision of the Comptroller’s earlier decision with respect to a matter mentioned in section 49(1)(i), (k) or (l) of the Act;\n(iii)an appeal against a decision of the Comptroller on the appellant’s application for review and revision of the Comptroller’s earlier decision with respect to a matter mentioned in section 49(1)(m) of the Act that only relates to any of the following:\n(A)any money that was allegedly overpaid or erroneously paid by the appellant as a penalty;\n(B)any money (other than tax) that is allegedly due to the appellant;\n(iv)an appeal under section 79(4)(f) of the Act;\n[S 133/2025 wef 01/04/2025]\n“email” means electronic mail;\n“MOF website” means the website at https://www.mof.gov.sg or any other online location specified on that website for the purposes of these Regulations;\n[S 133/2025 wef 01/04/2025]\n“parties”, in relation to an appeal, means the appellant and the Comptroller, and “party” means either of them;\n“remote communication technology” means electronic communication by video conferencing, tele‑conferencing or other electronic means;\n“secretary” means a secretary to the Board.\n(2) These Regulations also apply to an appeal to the Board that is pending as at 21 August 2023."
+   }
+  },
+  {
+   "id": "SG-H1619-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Notice of appeal and petition of appeal"
+   },
+   "text": {
+    "en": "3.—(1) For the purposes of section 51(2) of the Act, a notice of appeal mentioned in section 51(1) of the Act must —\n(a)be in the form published on the MOF website;\n(b)be completed in accordance with the directions specified in the form;\n(c)be lodged through the MOF website;\n(d)include the following information:\n(i)the full name and address of the appellant;\n(ii)an email address and any other particulars for the purpose of communicating by email with the appellant or the appellant’s authorised representative (as defined in regulation 9(3));\n(iii)the appellant’s GST registration number, if any;\n(iv)in the case of an appeal against a decision of the Comptroller under section 49 of the Act on the appellant’s application for review and revision of the Comptroller’s earlier decision —\n(A)the date of the Comptroller’s disputed decision mentioned in section 49(1) of the Act; and\n(B)the date of the Comptroller’s decision on the appellant’s application for review and revision under section 49 of the Act;\n(v)in the case of an appeal against a decision of the Comptroller on the appellant’s application for review and revision of the Comptroller’s earlier decision with respect to a matter mentioned in section 49(1)(k) of the Act — a description of the declaration of the Comptroller that the appellant is objecting to and whether the appellant is seeking a cancellation or variation of that declaration;\n(vi)in the case of an appeal under section 79(4)(f) of the Act —\n(A)the share of moneys or proceeds of sale (as the case may be) mentioned in section 79(4) of the Act, that the appellant claims to be entitled to; and\n(B)the date the appellant is informed of the Comptroller’s decision under section 79(4)(e) of the Act; and\n(e)be accompanied by any documents that may be specified in the form.\n[S 133/2025 wef 01/04/2025]\n(2) A petition of appeal mentioned in section 51(1) of the Act must be lodged with the secretary by email.\n(2A) A separate notice of appeal and a separate petition of appeal must be lodged for each decision of the Comptroller under section 49(3) of the Act that is appealed against.\n[S 133/2025 wef 01/04/2025]\n(3) Despite paragraph (1) or (2), a notice of appeal or petition of appeal may be lodged in such manner as may be directed or allowed by the Chairperson or any Deputy Chairperson authorised by the Chairperson.\n(4) On receipt of a notice of appeal or petition of appeal, the secretary must immediately forward one copy thereof to the Comptroller."
+   }
+  },
+  {
+   "id": "SG-H1619-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Defective notice of appeal"
+   },
+   "text": {
+    "en": "4. If the Chairperson, any Deputy Chairperson authorised by the Chairperson, or the appeal panel considers that a notice of appeal does not satisfy the requirements of regulation 3, the Chairperson, Deputy Chairperson or appeal panel (as the case may be) may direct the appellant to lodge a notice of appeal that satisfies the requirements of that regulation by the time and in the manner directed by the Chairperson, Deputy Chairperson or appeal panel.\n[S 133/2025 wef 01/04/2025]"
+   }
+  },
+  {
+   "id": "SG-H1619-A4.001",
+   "no": 4.001,
+   "noLabel": {
+    "en": "4A."
+   },
+   "heading": {
+    "en": "Amendment of notice of appeal"
+   },
+   "text": {
+    "en": "4A.—(1) Subject to paragraph (2), an appellant may, with the permission of the Chairperson, any Deputy Chairperson authorised by the Chairperson, or the appeal panel, amend a notice of appeal lodged under regulation 3 or 4.\n(2) The Chairperson, Deputy Chairperson or appeal panel may only grant permission under paragraph (1) if the Chairperson, Deputy Chairperson or appeal panel (as the case may be) is satisfied that the amendment is to correct any clerical mistake or error.\n(3) Any amendment of a notice of appeal under paragraph (1) is subject to any conditions that the Chairperson, Deputy Chairperson or appeal panel (as the case may be) may determine.\n(4) Despite any amendment to a notice of appeal under this regulation, and subject to any order under regulation 7(1), the time limit specified in these Regulations for the doing of anything by a party for the purposes of any proceedings continues to apply to the doing of that thing by that party.\n[S 133/2025 wef 01/04/2025]"
+   }
+  },
+  {
+   "id": "SG-H1619-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Amendment of petition of appeal"
+   },
+   "text": {
+    "en": "5.—(1) An appellant may, with the consent of the appeal panel, amend the petition of appeal.\n(2) Any amendment of a petition of appeal under paragraph (1) is subject to such conditions as the appeal panel may determine.\n(3) The appeal panel must not grant an appellant consent under paragraph (1) to make an amendment to add, or that has the effect of adding, a new ground of the appeal, unless the appeal panel is satisfied that —\n(a)the ground is based on any matter of fact or law which came to light after the petition of appeal was lodged;\n(b)it was not practicable to include the ground in the petition of appeal; or\n(c)there are exceptional circumstances to do so.\n[S 133/2025 wef 01/04/2025]"
+   }
+  },
+  {
+   "id": "SG-H1619-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Withdrawal of appeal"
+   },
+   "text": {
+    "en": "6.—(1) An appellant may at any time withdraw the appeal upon obtaining the permission of —\n(a)if the appeal panel has been appointed — the appeal panel; or\n(b)if the appeal panel has not been appointed — the Chairperson or any Deputy Chairperson authorised by the Chairperson.\n(2) Permission that is granted under paragraph (1) is subject to any conditions that the appeal panel, Chairperson or Deputy Chairperson (as the case may be) may impose.\n(3) The appeal panel may, when granting the permission, make any appropriate consequential order, including an order for the appellant to pay the costs of the Comptroller incurred up to the time the appeal is withdrawn."
+   }
+  },
+  {
+   "id": "SG-H1619-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Case management"
+   },
+   "text": {
+    "en": "7.—(1) The Chairperson, any Deputy Chairperson authorised by the Chairperson, or an appeal panel may, at any time, make any order to secure the just and efficient conduct of proceedings and the determination of the appeal.\n(2) Without limiting paragraph (1), an order may relate to one or more of the following:\n(a)the manner in which proceedings (including any case management conference and any hearing) are to be conducted, whether by using any remote communication technology or otherwise;\n(b)the orders sought by the parties, their arguments in the appeal and the points at issue between them that require clarification;\n(c)the points on which the parties have to present further arguments;\n(d)the issues on which evidence is required, the nature of the evidence required, and the manner in which the evidence is to be presented (including by using any remote communication technology);\n(e)the appointment and instruction of experts by the parties, and the manner in which expert evidence is to be given (including by using any remote communication technology);\n(f)the submission of affidavits or expert reports;\n(g)the submission of any document or information by any party;\n(h)the exchange of documents between the parties;\n(i)the examination or cross‑examination of witnesses (including by using any remote communication technology);\n(j)the filing and exchange of skeletal arguments;\n(k)the written or oral submissions by parties on any aspect of the appeal;\n(l)the abridgment or extension of any time limit;\n(m)where there is more than one appeal by the same appellant — the hearing of any of the appeals together, the sequence for hearing the appeals separately, or the adjournment of any appeal until another appeal has been heard;\n(n)for hearing any person on any proposal for a direction concerning any matter in sub‑paragraphs (a) to (m).\n(3) For the purpose of making any order mentioned in paragraph (1), the Chairperson, Deputy Chairperson or appeal panel may conduct a case management conference with the parties through any means (including by using any remote communication technology) that the Chairperson, Deputy Chairperson or appeal panel considers appropriate.\n(4) Where any party fails to comply with any order made under paragraph (1), the appeal panel may draw any inference from the failure and proceed with the hearing or determination of any issue under the appeal or make any other order that the appeal panel thinks fit."
+   }
+  },
+  {
+   "id": "SG-H1619-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Joinder of parties"
+   },
+   "text": {
+    "en": "8. The Chairperson, or any Deputy Chairperson authorised by the Chairperson, may allow a joinder of parties and order that 2 or more appeals be heard together, if —\n(a)it appears to the Chairperson or Deputy Chairperson that —\n(i)doing so is convenient; or\n(ii)a common issue of law or fact (or both) arises in all the appeals; and\n(b)all the parties to the appeals consent to the joinder."
+   }
+  },
+  {
+   "id": "SG-H1619-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Hearing of appeals"
+   },
+   "text": {
+    "en": "9.—(1) The notice of the hearing of an appeal given under section 52(1)(b) of the Act must state the composition of the appeal panel appointed to hear and determine the appeal.\n(2) The parties must attend the hearing (including by using any remote communication technology), whether or not by their authorised representatives, at the date and time and in the manner so fixed.\n(3) In paragraph (2), “authorised representative”, in relation to a party to an appeal, means an advocate and solicitor or an accountant representing that party at a hearing of the appeal."
+   }
+  },
+  {
+   "id": "SG-H1619-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Order to attend or order to produce documents"
+   },
+   "text": {
+    "en": "10.—(1) Any party requiring a witness to be called to give evidence before the appeal panel must, not later than 14 days before the day fixed for the hearing, notify the secretary.\n(2) Upon receiving a notification in paragraph (1), the secretary must request either the Registrar of the Supreme Court or the Registrar of the State Courts to act under Order 15, Rule 4 of the Rules of Court 2021 (G.N. No. S 914/2021), and the Registrar must thereupon issue and serve upon the witness an order to attend before, or an order to produce documents to, as the case may require, the appeal panel.\n(3) The request of the secretary to the Registrar of the Supreme Court or the Registrar of the State Courts under paragraph (2) must specify the documents (if any) that the witness is to produce to the appeal panel.\n(4) For the purposes of paragraph (2), the Registrar of the Supreme Court or the Registrar of the State Courts is to include the following words when issuing an order for a person confined in prison to attend before an appeal panel, in lieu of the requirement stated in Order 15, Rule 4(11) of the Rules of Court 2021:\n“This order to attend is sufficient authority as an order under section 38 of the Prisons Act 1933 read with section 52(4A) of the Goods and Services Tax Act 1993 for the Superintendent of Prisons to produce the named person at the time and place stated.\nThe requesting party undertakes to pay upon request the costs to be incurred by the prison in complying with the order to attend.”."
+   }
+  },
+  {
+   "id": "SG-H1619-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Adjournment"
+   },
+   "text": {
+    "en": "11.—(1) Before the hearing of an appeal, the Chairperson, or any Deputy Chairperson authorised by the Chairperson, may adjourn the hearing for any reasonable cause and may fix a new date for the hearing.\n(2) In the course of a hearing, the appeal panel may adjourn the hearing for any reasonable cause and may fix a date for a further hearing.\n(3) If a date for a hearing or further hearing is fixed under paragraph (1) or (2), the secretary must notify the parties of the time and place of the hearing or further hearing, and the manner in which the hearing or further hearing is to be conducted (including by using any remote communication technology), not later than 14 days before the date of the hearing or further hearing, unless the parties agree to a shorter period of notice.\n(4) The appeal panel may, on the conclusion of a hearing, adjourn for any period to consider the appeal."
+   }
+  },
+  {
+   "id": "SG-H1619-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Transcription"
+   },
+   "text": {
+    "en": "12.—(1) A party may make an application to the Chairperson, any Deputy Chairperson authorised by the Chairperson, or the appeal panel for a hearing to be transcribed, and for a certified copy of the transcript.\n(2) The application under paragraph (1) must be made not later than 14 days before the hearing.\n(3) Despite paragraph (2), the Chairperson, Deputy Chairperson or appeal panel (as the case may be) may approve an application under paragraph (1) even if it is made less than 14 days before the hearing.\n(4) The party or parties making an application under paragraph (1) must bear the costs of the transcription.\n(5) If no party makes an application under paragraph (1), the Chairperson, Deputy Chairperson or appeal panel (as the case may be) may order for the hearing to be transcribed.\n(6) A transcript of a hearing must be certified in the manner that the Chairperson, Deputy Chairperson or appeal panel (as the case may be) determines, and in accordance with practice directions issued under regulation 21(2).\n[S 133/2025 wef 01/04/2025]\n(7) The costs of the transcription may be claimed as an item of disbursement unless otherwise ordered by the appeal panel, the Registrar, the Deputy Registrar or an Assistant Registrar of the Supreme Court or the Registrar or a Deputy Registrar of the State Courts, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H1619-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Notification of decision of appeal panel"
+   },
+   "text": {
+    "en": "13.—(1) The decision of an appeal panel in respect of an appeal —\n(a)may be conveyed to the parties by the secretary by rendering a written copy of the decision to them duly signed by all the members of the appeal panel; or\n(b)may be delivered orally before the parties by any member of the appeal panel.\n(2) To avoid doubt, where paragraph (1)(b) applies, it is not necessary for all the members of the appeal panel to reassemble merely for the purpose of delivering the decision.\n(3) Where the decision of the appeal panel is the decision of a majority, that fact must be stated."
+   }
+  },
+  {
+   "id": "SG-H1619-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Costs"
+   },
+   "text": {
+    "en": "14. In awarding costs, the Board, the Registrar, the Deputy Registrar or an Assistant Registrar of the Supreme Court, or the Registrar or a Deputy Registrar of the State Courts (as the case may be) is to take into account the principles in Order 21 of the Rules of Court 2021."
+   }
+  },
+  {
+   "id": "SG-H1619-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Non‑compliance with order"
+   },
+   "text": {
+    "en": "15. Where there is any failure to comply with an order or direction of the Chairperson, Deputy Chairperson or appeal panel, the Chairperson, Deputy Chairperson or appeal panel may exercise all or any of the following powers:\n(a)waive the non‑compliance of the order or direction;\n(b)disallow or reject the submission or use of any document;\n(c)make a finding on any issue without a hearing or refuse to hear any argument on any issue;\n[S 133/2025 wef 01/04/2025]\n(d)dismiss or set aside, in whole or in part, any proceedings, or any order or direction previously made;\n(e)direct any amendment to be made to any document;\n(f)make an order on costs or any other orders that are appropriate."
+   }
+  },
+  {
+   "id": "SG-H1619-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Correction of error"
+   },
+   "text": {
+    "en": "16. The following may be corrected at any time by the Chairperson, a Deputy Chairperson authorised by the Chairperson, an appeal panel or a secretary:\n(a)clerical mistakes in any document recording a direction, an order or a decision (including a determination) of the appeal panel, or any other document issued by the Chairperson, Deputy Chairperson, appeal panel or secretary in any proceedings;\n(b)errors arising in such a document from an accidental slip or omission."
+   }
+  },
+  {
+   "id": "SG-H1619-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "heading": {
+    "en": "Presiding member of appeal panel"
+   },
+   "text": {
+    "en": "17.—(1) For an appeal panel comprising a committee of the Board, the presiding member is —\n(a)where the Chairperson is a member of the appeal panel — the Chairperson; or\n(b)where the Chairperson is not a member of the appeal panel and —\n(i)there is only one Deputy Chairperson on the appeal panel — the Deputy Chairperson; or\n(ii)there is more than one Deputy Chairperson on the appeal panel — such Deputy Chairperson as the Chairperson may determine.\n(2) Where the Chairperson or a Deputy Chairperson is absent from any meeting of a committee at which he or she ought under paragraph (1) to be presiding, the meeting is to be presided by —\n(a)where there is only one Deputy Chairperson who is a member of the committee present — the Deputy Chairperson;\n(b)where there is more than one Deputy Chairperson who is a member of the committee present — such Deputy Chairperson as may be chosen by the Deputy Chairpersons present; or\n(c)where there is no Deputy Chairperson who is a member of the committee present — such member of the committee as may be chosen by the members of the committee present."
+   }
+  },
+  {
+   "id": "SG-H1619-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "heading": {
+    "en": "Procedure for objection to member’s appointment to appeal panel"
+   },
+   "text": {
+    "en": "18.—(1) Subject to these Regulations, any party is entitled to lodge with —\n(a)the Chairperson; or\n(b)a Deputy Chairperson authorised by the Chairperson,\nan objection to the appointment of any member of the Board to an appeal panel.\n(2) Despite anything in these Regulations, an objection to the appointment of the Chairperson to an appeal panel may be determined by the Chairperson.\n(3) An objection to the appointment of a member of the Board to an appeal panel must state the reason for the objection.\n(4) The Chairperson, or a Deputy Chairperson authorised by the Chairperson, must determine whether the reason for the objection is valid.\n(5) Where the Chairperson, or the Deputy Chairperson authorised by the Chairperson, determines under paragraph (4) that there is a valid reason for the objection, the member of the Board in respect of whom the objection was made must not be appointed to the appeal panel.\n(6) Where the Chairperson, or the Deputy Chairperson authorised by the Chairperson, determines under paragraph (4) that there is no valid reason for the objection, the Chairperson or Deputy Chairperson must inform the objecting party that the objection is rejected.\n(7) A member of the Board may be appointed to an appeal panel if all objections to the member’s appointment have been rejected under paragraph (6).\n(8) The decision of the Chairperson or Deputy Chairperson under paragraph (5) or (6) is final."
+   }
+  },
+  {
+   "id": "SG-H1619-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "heading": {
+    "en": "Record of proceedings"
+   },
+   "text": {
+    "en": "19.—(1) The secretary must keep a record of any proceedings in the form directed by the Chairperson, a Deputy Chairperson authorised by the Chairperson, or the appeal panel (as the case may be), including the documents submitted by parties.\n(2) The records of any proceedings must be signed by the presiding member of the appeal panel."
+   }
+  },
+  {
+   "id": "SG-H1619-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "20.—(1) A petition of appeal lodged under section 51(1)(b) of the Act must be accompanied by the fee specified in item 1 of the Schedule.\n[S 133/2025 wef 01/04/2025]\n(1A) For the purposes of determining the applicable fee specified in item 1 of the Schedule, the appellant must, at the time of lodging the notice of appeal, state the disputed tax amount in the form published on the MOF website, and lodge the form through the MOF website.\n[S 133/2025 wef 01/04/2025]\n(1B) At any time after a petition of appeal is lodged, the Chairperson, any Deputy Chairperson authorised by the Chairperson, or the appeal panel may, if satisfied that the appellant had understated the disputed tax amount, on his, her or its own motion, determine the correct disputed tax amount.\n[S 133/2025 wef 01/04/2025]\n(1C) For the purposes of making any determination mentioned in paragraph (1B), the Chairperson, Deputy Chairperson or appeal panel may ask for any document or information relating to the appeal to be produced by the appellant.\n[S 133/2025 wef 01/04/2025]\n(1D) Where the Chairperson, Deputy Chairperson or appeal panel makes a determination under paragraph (1B) —\n(a)the secretary must give written notice of that determination to the appellant; and\n(b)the appellant must, within 7 days after the date the appellant receives the notice mentioned in sub-paragraph (a), pay a fee equivalent to the difference between the amount of fee already paid under paragraph (1) and the amount of fee specified in item 1 of the Schedule corresponding to the disputed tax amount determined under paragraph (1B).\n[S 133/2025 wef 01/04/2025]\n(1E) To avoid doubt, a disputed tax amount stated in accordance with paragraph (1A) or determined in accordance with paragraph (1B) has effect only for the purposes of determining the applicable fee specified in item 1 of the Schedule and does not affect or limit the Board’s powers in determining the merits of the appeal.\n[S 133/2025 wef 01/04/2025]\n(2) A notification given under regulation 10(1) must be accompanied by the fee specified in item 2 of the Schedule.\n[S 133/2025 wef 01/04/2025]\n(3) The fees mentioned in paragraphs (1), (1D)(b) and (2) must be paid to the secretary in the manner directed by the secretary.\n[S 133/2025 wef 01/04/2025]\n(3A) Where the appellant fails to pay the fee mentioned in paragraph (1D)(b), the petition of appeal is deemed as not having been lodged.\n[S 133/2025 wef 01/04/2025]\n(4) Where —\n(a)a cheque or any other authorisation for the payment of the fee mentioned in paragraph (1), (1D)(b) or (2) is subsequently dishonoured or revoked; and\n[S 133/2025 wef 01/04/2025]\n(b)payment of the fee is not received by the secretary within 7 days after the date the appellant is notified of the dishonour or revocation,\nthe petition of appeal or notification is deemed as not having been lodged or given.\n(5) The secretary may refund any fee overpaid under paragraph (1) in the following cases:\n(a)where the amount of fee paid does not correspond to the disputed tax amount stated by the appellant;\n(b)where the appellant satisfies the Chairperson, any Deputy Chairperson authorised by the Chairperson, or the appeal panel, that the appellant made a clerical mistake or error in stating the disputed tax amount and consequently paid an amount of fee not corresponding to the correct disputed tax amount.\n[S 133/2025 wef 01/04/2025]"
+   }
+  },
+  {
+   "id": "SG-H1619-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "heading": {
+    "en": "Practice directions"
+   },
+   "text": {
+    "en": "21.—(1) Subject to the provisions of the Act and these Regulations, the Board may regulate its own procedure for the conduct of an appeal.\n(2) The Chairperson may issue practice directions in relation to the procedures provided for by these Regulations."
+   }
+  },
+  {
+   "id": "SG-H1619-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "heading": {
+    "en": "Revocation"
+   },
+   "text": {
+    "en": "22. Revoke the Goods and Services Tax (Board of Review) Regulations (Rg 3)."
+   }
+  },
+  {
+   "id": "SG-H1619-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRegulation 20(1), (1A), (1D), (1E) and (2)\nFees\nFirst column\nSecond column\n1.Lodging a petition of appeal —\n(a)where the appeal does not involve a disputed tax amount\n$75\n(b)where the appeal involves a disputed tax amount and the disputed tax amount stated in the relevant notice of appeal —\n(i)does not exceed $30,000\n$75\n(ii)exceeds $30,000 but does not exceed $250,000\n$200\n(iii)exceeds $250,000 but does not exceed $1,000,000\n$400\n(iv)exceeds $1,000,000\n$600\n2.Issue of order to attend or order to produce documents\n$10\n[S 133/2025 wef 01/04/2025]"
+   }
+  }
+ ]
+}

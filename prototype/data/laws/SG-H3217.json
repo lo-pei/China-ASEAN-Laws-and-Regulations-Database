@@ -1,0 +1,62 @@
+{
+ "id": "SG-H3217",
+ "title": {
+  "zh": null,
+  "en": "Military Manoeuvres (Firing Ground) Proclamation",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p40",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MMA1905-PROC4",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1398,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MMA1905-PROC4?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 2 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3217-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Military Manoeuvres Act\n(Chapter 182, Section 8)\nMilitary Manoeuvres (Firing Ground) Proclamation\nProc 4\nG.N. No. S 283/1994\nREVISED EDITION 1995\n(1st July 1994)\n[1st July 1994]\nThe President has by Proclamation declared that the area specified in the Schedule to be a firing ground."
+   }
+  },
+  {
+   "id": "SG-H3217-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\n36 Sce Eod Range\nAll that area comprised in part of State Land Lot 1608, MUKIM NO. 31 (CHANGI) occupied by “36 SCE EOD RANGE” containing an area of approximately 123 square metres and bounded approximately as follows:\nCommencing at the northern-most corner of the building of the aforesaid “36 SCE EOD RANGE” which point is 39,001.4 metres North and 43,750.3 metres East of the Survey Department origin of co-ordinates (30,000 metres North and 30,000 metres East), the boundaries run along successive lines of the building walls of bearings and distances approximately as under:\nBearing.\nDistance in metres.\n132° 49′\n8.1 (along external building wall)\n222° 47′\n0.6 (along external building wall)\n222° 47′\n2.6 (along door)\n222° 47′\n11.9 (along external building wall)\n312° 53′\n8.1 (along external building wall)\n42° 47′\n15.1 (along external building wall)\nto the point of commencement.\nThe boundaries of “36 SCE EOD RANGE” are more particularly delineated and edged pink on Survey Plan No. LE/94/10/GAZ filed in the office of the Director, Lands and Estates Organisation, Ministry of Defence, Singapore."
+   }
+  }
+ ]
+}

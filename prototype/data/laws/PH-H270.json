@@ -1,0 +1,124 @@
+{
+ "id": "PH-H270",
+ "title": {
+  "zh": null,
+  "en": "An Act to Create a National Commission on Educational, Scientific and Cultural Matters",
+  "orig": "An Act to Create a National Commission on Educational, Scientific and Cultural Matters"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p03",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1947-06-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 176",
+ "officialCode": null,
+ "topics": [
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 8,
+ "chars": 6638,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1947/ra_176_1947.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 8 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1947/ra_176_1947.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H270-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There is hereby created a National Commission on Educational, Scientific and Cultural matters, hereinafter referred to as the \"Commission,\" to be composed of not more than fifteen members as the President of the Philippines may from time to time appoint with the consent of the Commission on Appointments of the Congress of the Philippines. Government officials designated to serve in the Commission shall serve without additional compensation, but private citizens appointed to sit in the Commission shall receive actual subsistence and traveling expenses from their residence to the meetings of the Commission and return, as well as such per diems for each day of session of the Commission or any of its committees or subcommittees actually attended by them in such amount as may be determined by the President. The Commission shall, for administrative purposes, be under the Office of the President of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H270-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The Commission shall have the following powers and duties:\n1. To meet as frequently as possible, but at least once quarterly, on such date or dates which it may designate.\n2. To act in an advisory capacity to the Government of the Philippines as well as to its delegations to the General Conference of the United Nations Educational, Scientific and Cultural Organization (UNESCO) in matters relating to the Organization; function as an agency of liaison between the Government of the Philippines and the United Nations Educational, Scientific and Cultural Organization; and to associate the principal bodies in the Philippines interested in educational, scientific and cultural matters with the work of the Organization, in accordance with Article VII of the Constitution of the aforesaid Organization accepted by Joint Resolution Numbered Three of the Congress of the Philippines of October seventeen, nineteen hundred and forty-six.\n3. To call annual or biennial general conferences on educational, scientific and cultural matters in which all national voluntary organizations actively interested in such matters shall be invited to send representatives: Provided, However, That no representative to the conference shall represent more than one organization. Such conferences shall be attended so far as possible by the members of the National Commission and by the delegates of the Philippines to the General Conference of the UNESCO.\n4. To study and report on such educational, scientific and cultural matters as may from time to time be submitted to its consideration by the President of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H270-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The Commission shall, with the approval of the President, designate from among its members an Executive Committee, and shall divide itself into three permanent Committees, namely: the Educational, Scientific and Cultural Committees. Each committee, in turn, may subdivide itself into as many subcommittees as it may deem necessary for the division of its work. In the selection of the members of each committee or subcommittee, due account shall be taken of the professional skill and experience of the individual members of the Commission."
+   }
+  },
+  {
+   "id": "PH-H270-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "The Educational Committee shall undertake all work of the Commission dealing with education, and specifically:\n1. To study and make recommendations concerning reforms in the present system of public and private education in the Philippines in conformity with the educational objectives laid down in the Constitution and as may be justified by the changed or changing political and economic conditions.\n2. To advise the President on basic educational policies with a view not only to formulating an integrated educational pattern for the whole country but also to coordinate our educational scheme with such educational standards as may be set up by the United Nations Educational, Scientific and Cultural Organization.\n3. To conduct studies, investigations and surveys in all phases of vocational education, the results of which shall serve to guide the Government in formulating policies with respect to the development of the different trades and industries of the country. Such studies, investigations and surveys shall include agriculture and agricultural processes and requirements upon agricultural workers; trades, industries and apprenticeships, trade and industrial requirements upon industrial workers, and classification of industrial processes and pursuits; commerce and commercial pursuits and requirements upon commercial workers; home management, domestic science and the study of related facts and principles and problems of administration of vocational schools, and of courses of study and instruction in vocational subjects."
+   }
+  },
+  {
+   "id": "PH-H270-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "The Scientific Committee shall undertake all work of the Commission relating to science, and specifically:\n1. To study and recommend a well-planned economy for the country designed to coordinate all available power resources and to meet all possible national requirements.\n2. To consolidate and report on the advances of modern science and technology so as to make them available to the Government and people of the Philippines.\n3. To encourage scientific inventions and discoveries and to conduct experiments and investigations with a view to contributing to the general progress in all fields of science.\n4. To conduct studies and researches in the fields of natural science, social science, philosophy and humanistic studies with a view to the ultimate advancement of mankind, in general, and of the Filipino race in particular."
+   }
+  },
+  {
+   "id": "PH-H270-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "The Cultural Committee shall undertake all work of the Commission relating to cultural matters, and specifically:\n1. To study and recommend the national policy to be observed for the unfettered dissemination of information through the media of mass communication, such as the press, movies, radio and television.\n2. To initiate and carry out studies and researches into the ancient culture of the Filipinos and stimulate the revival of such distinctive customs as are compatible with the demands of the modern age and the prevailing world morality.\n3. To encourage and promote the creative arts, such as creative literature, literary criticism, music, theatre, dance, painting, sculpture, the graphic arts, photography, motion picture, architecture, decorative arts, industrial design, handicrafts, display lay-out and typography.\n4. To foster cultural missions to and from the Philippines, and the dissemination of correct information about the Philippines and the Filipino people."
+   }
+  },
+  {
+   "id": "PH-H270-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "The amount of one hundred thousand pesos or so much thereof as might be necessary is hereby appropriated to carry out the purposes of this Act."
+   }
+  },
+  {
+   "id": "PH-H270-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1947."
+   }
+  }
+ ]
+}

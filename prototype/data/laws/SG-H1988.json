@@ -1,0 +1,78 @@
+{
+ "id": "SG-H1988",
+ "title": {
+  "zh": null,
+  "en": "Income Tax (Efficient Pollution Control Equipment) Rules",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p25",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ITA1947-R10",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 3545,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ITA1947-R10?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1988-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Rules may be cited as the Income Tax (Efficient Pollution Control Equipment) Rules."
+   }
+  },
+  {
+   "id": "SG-H1988-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Criteria for efficient pollution control equipment"
+   },
+   "text": {
+    "en": "2. Any equipment or device installed for the purposes of preventing, controlling or reducing air pollution or water pollution which satisfies the criteria set out in the Schedule shall be deemed to be an efficient pollution control equipment or device for the purposes of section 19A(1D) of the Act."
+   }
+  },
+  {
+   "id": "SG-H1988-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nPart I\nThe emission levels of the following pollutants must not exceed the specified emission levels:\nPollutant\nStandard Applicable To\nSpecified Levels\n(1)Ammonia and ammonium compounds\nAny trade, industry or process\n50 mg/Nm3 expressed as ammonia\n(2)Antimony and its compounds\nAny trade, industry or process\n3.5 mg/Nm3 expressed as antimony\n(3)Arsenic and its compounds\nAny trade, industry or process\n0.75 mg/Nm3 expressed as arsenic\n(4)Benzene\nAny trade, industry or process\n3.5 mg/Nm3\n(5)Cadmium and its compounds\nAny trade, industry or process\n2 mg/Nm3 expressed as cadmium\n(6)Carbon monoxide\nAny trade, industry, process or fuel burning equipment\n450 mg/Nm3\n(7)Chlorine\nAny trade, industry or process\n20 mg/Nm3\n(8)Copper and its compounds\nAny trade, industry or process\n3.5 mg/Nm3 expressed as copper\n(9)Ethylene oxide\nAny trade, industry or process\n3.5 mg/Nm3\n(10)Fluorine, hydrofluoric acid or inorganic fluorine compounds\nAny trade, industry or process\n35 mg/Nm3 expressed as hydrofluoric acid\n(11)Formaldehyde\nAny trade, industry or process\n15 mg/Nm3\n(12)Hydrogen chloride\nAny trade, industry or process\n100 mg/Nm3\n(13)Hydrogen sulphide\nAny trade, industry or process\n4 mg/Nm3\n(14)Lead and its compounds\nAny trade, industry or process\n3.5 mg/Nm3 expressed as lead\n(15)Mercury and its compounds\nAny trade, industry or process\n2 mg/Nm3 expressed as mercury\n(16)Oxides of nitrogen\nAny trade, industry, process or fuel burning equipment\n500 mg/Nm3 expressed as nitrogen dioxide\n(17)Particulate substances including smoke, soot, dust, ash, fly-ash, cinders, cement, lime, alumina, grit and other solid particles of any kind\nAny trade, industry, process, fuel burning equipment or industrial plant (except for any cold blast foundry cupolas)\n50 mg/Nm3\n(18)Styrene monomer\nAny trade, industry or process\n75 mg/Nm3\n(19)Sulphur dioxide (non-combustion sources)\nAny trade, industry or process\n375 mg/Nm3\n(20)Sulphur trioxide and other acid gases\nThe manufacture of sulphuric acid\n375 mg/Nm3 expressed as sulphur trioxide\n(21)Sulphur trioxide or sulphuric acid mist\nAny trade, industry or process, other than any combustion process and any plant involving the manufacture of sulphuric acid\n50 mg/Nm3 expressed as sulphur trioxide\n(22)Vinyl chloride monomer\nAny trade, industry or process\n15 mg/Nm3\nPart II\n(1) The discharge of the following items must not exceed the discharge limits:\nItems\nDischarge limits into a sewer\nDischarge limits into a watercourse\nUnits in milligram per litre\n(1)BOD (5 days at 20°)\n—\n25\n(2)COD\n—\n50\n(3)Total Suspended Solids\n—\n25\n(4)Cyanide (as CN)\n1\n0.05\n(5)Arsenic\n2.5\n0.5\n(6)Phenolic Compounds (expressed as phenol)\n0.25\n0.1\n(7)Cadmium*\n0.5\n0.05\n(8)Chromium (trivalent and hexavalent)*\n2.5\n0.5\n(9)Copper*\n2.5\n0.05\n(10)Lead*\n2.5\n0.05\n(11)Mercury*\n0.25\n0.025\n(12)Nickel*\n5\n0.5\n(13)Selenium*\n5\n0.25\n(14)Silver*\n2.5\n0.05\n(15)Zinc*\n5\n0.5\n(16)Metals in total*\n* The concentration of Toxic Metal must not exceed the limits as shown, individually or in total.\n5\n0.5\n(2) The effluent from the pollution control equipment must also comply with the other limits stipulated in the Trade Effluent Regulations (Cap. 348, Rg 4)."
+   }
+  }
+ ]
+}

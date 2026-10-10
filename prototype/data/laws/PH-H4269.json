@@ -1,0 +1,74 @@
+{
+ "id": "PH-H4269",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Section Three of Republic Act Numbered Five Thousand Four Hundred and Forty-Eight.",
+  "orig": "An Act Amending Section Three of Republic Act Numbered Five Thousand Four Hundred and Forty-Eight."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p60",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1969-05-30",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 5470",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2365,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1969/ra_5470_1969.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1969/ra_5470_1969.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4269-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section three of Republic Act Numbered Five thousand four hundred and forty-eight is hereby amended to read as follows:\n\"Sec. 3. Imposition of additional tax on privately-owned passenger automobiles, motorcycles and scooters. An additional tax is hereby imposed on every new or current model of privately-owned passenger automobile, motorcycle and scooter to be paid by the owner thereof, in the amount based on the respective shipping or factory weight of private passenger automobiles as indicated in the following schedule:\n(1) 1,000 kilos or less P35.00\n(2) 1,001 kilos to 1,500 kilos 100.00\n(3) 1,501 kilos to 2,000 kilos 250.00\n(4) 2,001 kilos and above 450.00 Provided, however , That the owner of a private motorcycle and scooter shall pay a fixed additional tax of P15.00, and that of a jeep, P20.00: Provided, finally , That on all used automobile, motorcycle or jeep other than current model, the taxes above prescribed shall be reduced by ten per cent (10%) for each year after its manufacture and/or assembly but in no case shall the additional tax assessed and collected from the owner thereof be less than thirty per cent (30%) of the full tax.\n\"The additional tax imposed herein shall be collected at the same time, in the same manner and subject to the same penalties as the registration fees imposed under Republic Act Numbered Four thousand one hundred thirty- six: Provided, however , That from the effectivity of this Act, the words \"Science Tax\" shall be printed across all official receipts issued covering the payment of the tax herein imposed.\""
+   }
+  },
+  {
+   "id": "PH-H4269-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "All executive orders, rules, regulations or parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H4269-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect as of January 1, 1969: Provided, That owners of private passenger automobiles, motorcycles, scooters or jeeps who may have paid amounts in excess of the rates hereinabove prescribed shall, upon Commission which issued the official receipt covering such excess payment, be entitled to the credit of such amount to the payment of motor vehicle registration fees under R.A. 5448 for the subsequent years: Provided, further , That the Science Tax on motor vehicles, including the fees on motor vehicles for year nineteen hundred sixty-nine, shall be paid not later than July 15, 1969.\nApproved: May 30, 1969"
+   }
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "id": "SG-H502",
+ "title": {
+  "zh": null,
+  "en": "Central Provident Fund (Dependants’ Protection Insurance Scheme — Transfer of Liabilities) Regulations 2005",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p07",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CPFA1953-RG32",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 3805,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CPFA1953-RG32?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 6 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H502-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations are the Central Provident Fund (Dependants’ Protection Insurance Scheme — Transfer of Liabilities) Regulations 2005."
+   }
+  },
+  {
+   "id": "SG-H502-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“appointed insurer” has the meaning given by section 40 of the Act;\n“cut‑off date” means such date as the Minister may, by notification in the Gazette, appoint as the date for the transfer of the Board’s residual liability to the appointed insurers;\n“future liability” means the Board’s liability under the Scheme as at the date immediately before the implementation date and as set out in insurance covers in force on the day before the implementation date, in respect of —\n(a)insured events arising on or after the implementation date but before the expiry of such insurance covers; and\n(b)insured events arising before the implementation date for which claims are submitted on or after 17 September 2006,\nand includes the insurance covers issued under the Scheme under which such liability may arise;\n“implementation date” means the date specified in regulation 3 for the transfer of the Board’s future liability to the appointed insurers;\n“residual liability” means the Board’s liability under the Scheme in respect of death or incapacity of any insured person occurring —\n(a)before the implementation date; and\n(b)before the expiry of the insured person’s insurance cover under the Scheme,\nfor which a claim is submitted on or after the implementation date and where the insured person’s insurance cover had expired before the implementation date;\n“Scheme” has the meaning given by section 40 of the Act."
+   }
+  },
+  {
+   "id": "SG-H502-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Transfer of future liability on implementation date"
+   },
+   "text": {
+    "en": "3. The future liability of the Board is, on 17 September 2005, transferred to the appointed insurers in accordance with regulation 5."
+   }
+  },
+  {
+   "id": "SG-H502-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Selection of appointed insurers"
+   },
+   "text": {
+    "en": "4.—(1) The Board may, at its sole discretion, select and appoint insurers from time to time for the purpose of insuring persons under the Scheme on or after the implementation date.\n(2) As at the implementation date, and subject to the Board’s right to require any appointed insurer to transfer its liabilities to another appointed insurer under section 49A(3) of the Act and the Board’s right to select and appoint insurers from time to time under paragraph (1), the appointed insurers are NTUC INCOME Insurance Co‑operative Limited and The Great Eastern Life Assurance Company Limited."
+   }
+  },
+  {
+   "id": "SG-H502-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Transfer of liabilities"
+   },
+   "text": {
+    "en": "5.—(1) On the implementation date, the Board’s future liability is transferred to and vests in the appointed insurers, without any further assurance or deed and in accordance with the allocation by the Board under regulation 6, such that the appointed insurers assume the allocated future liabilities as if in all respects the appointed insurers were the same person in law as the Board.\n(2) If the cut‑off date is appointed by the Minister, the Board’s residual liability is transferred to and vests in one or more appointed insurers, without any further assurance or deed and in accordance with the allocation by the Board under regulation 6, such that the appointed insurer or insurers assume the allocated residual liabilities as if in all respects the appointed insurer or insurers were the same person in law as the Board."
+   }
+  },
+  {
+   "id": "SG-H502-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Allocation of members"
+   },
+   "text": {
+    "en": "6. The Board may, at its sole discretion —\n(a)determine the manner of allocation of members who are entitled to be insured under the Scheme to each appointed insurer for the purpose of issuing insurance covers to these members under the Scheme;\n(b)determine the manner of allocation of persons who are already insured under the Scheme before the implementation date and whose insurance covers under the Scheme are in force as at 16 September 2005 to each appointed insurer for the purpose of taking over the future liability; and\n(c)if the cut‑off date is appointed by the Minister, determine the manner of allocation of the residual liability to one or more of the appointed insurers."
+   }
+  }
+ ]
+}

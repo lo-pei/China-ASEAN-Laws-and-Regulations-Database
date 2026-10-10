@@ -1,0 +1,154 @@
+{
+ "id": "PH-H1126",
+ "title": {
+  "zh": null,
+  "en": "An Act to Encourage Filipino Retailers and to Create the Filipino Retailers’ Fund",
+  "orig": "An Act to Encourage Filipino Retailers and to Create the Filipino Retailers’ Fund"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p15",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1955-06-15",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1292",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 11,
+ "chars": 4258,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1955/ra_1292_1955.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 11 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1955/ra_1292_1955.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1126-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "It shall be a national policy to encourage Filipino retailers."
+   }
+  },
+  {
+   "id": "PH-H1126-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "For the purpose of providing credit facilities for the promotion and development of the Filipino retail trade, there is hereby created a revolving fund to be known as the \"Filipino Retailers’ Fund,\" which shall be under the administration of the Secretary of Commerce and Industry, or any other office that the President may designate, with the provincial, city and municipal treasurers as his deputies."
+   }
+  },
+  {
+   "id": "PH-H1126-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Importers of prime commodities shall sell to Filipino retailers at the same mark-up as their sales through their present trade channels at least thirty per cent of their imports."
+   }
+  },
+  {
+   "id": "PH-H1126-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Fund should be used either as guarantee fund to underwrite loans made by any government financing institution to any bona fide Filipino retailer or as loan fund: Provided, However , That not more than twenty per cent of the funds of the Retailers’ Fund shall be given as cash loans. Loans not exceeding five thousand pesos each may be granted to any Filipino citizen who fully owns a retail store and who personally manages it, hereinafter referred to as Filipino retailer, or Filipino citizen who wishes to be a retailer. Said loans shall be payable in five equal annual installments with interest at four per centum per annum. In no case shall the interest be collected in advance. The assets of the retail store owned by the retailer or to be established by him shall be mortgaged to the Filipino Retailers’ Fund to secure the payment of the loan."
+   }
+  },
+  {
+   "id": "PH-H1126-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "It shall be the function of the Retailers’ Fund to help in the promotion and development of the Filipino retail trade by assisting Filipino retailers in securing liberal credit facilities, extending to them technical assistance, teaching them merchandising techniques and skill, and, in general, equipping them with the necessary tools to compete more effectively with aliens in the retail business to the end that Filipino merchants may wrest control of this important phase of the national economy from the hands of foreigners."
+   }
+  },
+  {
+   "id": "PH-H1126-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Applications for such loans shall be made in writing and under oath and shall contain, among other things, the following:\n(a) A statement to the effect that the retailer is of good moral standing in the community and that he has not been convicted previously of estafa or any other crime involving moral turpitude; and\n(b) A statement that the proceeds of the loan shall be used solely for purchasing articles needed in the retail business in which he is engaged or will engage and that said articles shall be sold by the applicant at his retail store directly to the public."
+   }
+  },
+  {
+   "id": "PH-H1126-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "It shall be unlawful to use the proceeds of the loan or any part thereof, for any purpose or purposes other than that set out in the application therefor. Any violation of this provision shall be sufficient cause for the rescission of the contract in which case the balance of the loan and the interest thereon shall become immediately due and demandable."
+   }
+  },
+  {
+   "id": "PH-H1126-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "The Secretary of Commerce and Industry shall issue the necessary rules and regulations to carry into effect the provisions of this Act and to insure the stable and orderly management and success of the Filipino retail store.\nThe Secretary of Commerce and Industry shall extend such technical information or assistance to any Filipino retailer as he deems necessary to preserve, to protect and promote the objectives of this Act: Provided, However , That said information or assistance shall be without cost on the part of the retail store."
+   }
+  },
+  {
+   "id": "PH-H1126-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "text": {
+    "en": "To carry out the purposes of this Act, there shall be created a guidance division in the Department of Commerce and Industry to take charge of the processing of loans to be granted under this Act and to help borrowers make their purchases without unnecessary loss of time and/or money."
+   }
+  },
+  {
+   "id": "PH-H1126-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "text": {
+    "en": "There is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, the sum of twenty million pesos, to constitute the revolving fund provided for in section two of this Act. All income or receipts derived from the operation of such revolving fund shall accrue to and form part of the same and shall be available for expenditure and/or investment for the purposes of this Act."
+   }
+  },
+  {
+   "id": "PH-H1126-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1955."
+   }
+  }
+ ]
+}

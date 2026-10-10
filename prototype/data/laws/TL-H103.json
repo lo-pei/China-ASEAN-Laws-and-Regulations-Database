@@ -1,0 +1,826 @@
+{
+ "id": "TL-H103",
+ "title": {
+  "zh": "共和国总统府组织法",
+  "en": null,
+  "orig": "Lei Orgânica da Presidência da República"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p03",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "amended",
+ "promulgatedDate": "2011-06-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "据公报标题，本法经 Lei n.º 1/2014 修改；本库收录的是本法原始公布文本，修改后的合并本未另行收录。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 3/2011",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 49,
+ "chars": 21700,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2011/serie_1/serie1_no20.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 49 条；逐字取自官方公报 PDF（public/docs/2011/serie_1/serie1_no20.pdf）第 4761–4768 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 【据公报标题，本法经 《第1/2014号法律》 修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H103-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Objecto"
+   },
+   "text": {
+    "pt": "A Presidência da República é o conjunto dos órgãos e serviços que apoiam o Presidente da República no exercício das suas funções."
+   }
+  },
+  {
+   "id": "TL-H103-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Estrutura"
+   },
+   "text": {
+    "pt": "A Presidência da República é composta por:\na)    Casa Civil;\nb)   Casa Militar;\nc)   Secretariado Pessoal do Presidente da República;\nd)  Conselho Administrativo."
+   }
+  },
+  {
+   "id": "TL-H103-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CASA  CIVIL"
+   },
+   "heading": {
+    "pt": "Natureza"
+   },
+   "text": {
+    "pt": "1.   A Casa Civil é o serviço de apoio técnico, consulta, análise e informação do Presidente da República.\n2.   A Casa Civil assegura também o apoio administrativo, patrimonial, financeiro, informativo e documental."
+   }
+  },
+  {
+   "id": "TL-H103-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CASA  CIVIL"
+   },
+   "heading": {
+    "pt": "Estrutura"
+   },
+   "text": {
+    "pt": "1.   A Casa Civil é constituída pelos seguintes órgãos e serviços:\na)  Serviços Permanentes de Apoio ao Presidente da República;\nb)    Serviços Políticos de Apoio ao Presidente da República;\nc)    Direcção-Geral de Administração;\nd)    Gabinete de Inspecção, fiscalização e auditoria.\n2.   A Casa Civil é dirigida pelo Chefe da Casa Civil e integra os respectivos adjuntos, funcionários e agentes da Administração Pública, Assessores, Consultores e Conselheiros.\n3.   A Casa Civil organiza-se em áreas especificas de apoio à actividade do Presidente da República, de acordo com a presente lei e o Regulamento Interno, que definem as competências e relação funcional dos seus serviços, direcções, departamentos e secções."
+   }
+  },
+  {
+   "id": "TL-H103-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CASA  CIVIL"
+   },
+   "heading": {
+    "pt": "Chefe da Casa Civil"
+   },
+   "text": {
+    "pt": "1.  O Chefe da Casa Civil é nomeado e exonerado pelo Presidente da República, sendo equiparado a ministro para efeitos de precedência e honras de Estado.\n2.  As atribuições administrativas e financeiras legalmente cometidas à Presidência da República que não caibam a qualquer dos seus órgãos são exercidas pelo Chefe da Casa Civil.\n3.   O Chefe da Casa Civil pode ser coadjuvado por um adjunto, nomeado e exonerado pelo Presidente da República, sob sua proposta."
+   }
+  },
+  {
+   "id": "TL-H103-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CASA  CIVIL"
+   },
+   "heading": {
+    "pt": "Competências do Chefe da Casa Civil"
+   },
+   "text": {
+    "pt": "Cabe ao Chefe da Casa Civil:\na)  Dirigir e gerir a Casa Civil e assegurar a coordenação administrativa e financeira dos órgãos e Serviços da Presidência da República;\nb)  Estabelecer as linhas gerais e supervisionar o trabalho de todos os funcionários, agentes da administração, assessores, conselheiros e consultores e outros técnicos ao serviço da Casa Civil;\nc)   Garantir o apoio técnico, de consulta e de informação, ao Presidente da República;\nd)   Presidir ao Conselho Administrativo;\ne)   Representar o Presidente da República sempre que este o determine;\nf)    Apoiar o Presidente da República nas suas relações com os outros órgãos de soberania e com outros serviços públicos e privados."
+   }
+  },
+  {
+   "id": "TL-H103-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CASA  CIVIL"
+   },
+   "heading": {
+    "pt": "Departamento de Apoio ao Chefe da Casa Civil"
+   },
+   "text": {
+    "pt": "O Chefe da Casa Civil é apoiado por um Departamento de Apoio, constituído por:\na)   Secretariado Pessoal do Chefe da Casa Civil;\nb)   Núcleo de Planeamento;\nc)   Secretariado do Conselho de Estado e do Conselho Superior de Defesa e Segurança."
+   }
+  },
+  {
+   "id": "TL-H103-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CASA  CIVIL / SECÇÃO I SERVIÇOS  PERMANENTES  DE  APOIO  AO PRESIDENTE  DA  REPÚBLICA"
+   },
+   "heading": {
+    "pt": "Natureza"
+   },
+   "text": {
+    "pt": "Os Serviços Permanentes de Apoio ao Presidente da República asseguram o apoio directo e a assessoria técnica às actividades do Presidente da República."
+   }
+  },
+  {
+   "id": "TL-H103-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CASA  CIVIL / SECÇÃO I SERVIÇOS  PERMANENTES  DE  APOIO  AO PRESIDENTE  DA  REPÚBLICA"
+   },
+   "heading": {
+    "pt": "Estrutura"
+   },
+   "text": {
+    "pt": "1.  Os serviços de apoio directo ao Presidente da República integram os seguintes Departamentos:\na)   Departamento de Protocolo;\nb)   Departamento de Comunicação Social;\nc)   Guarda e Segurança Presidencial.\n2.   Os serviços de assessoria técnica integram os seguintes Departamentos:\na)    Departamento de Assuntos Jurídicos e Constitucionais;\nb)   Departamento de Sociedade Civil e Assuntos Sociais;\nc)    Departamento de Relações Internacionais;\nd)    Departamento de Documentação, Análise e Pesquisa."
+   }
+  },
+  {
+   "id": "TL-H103-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CASA  CIVIL / SECÇÃO I SERVIÇOS  PERMANENTES  DE  APOIO  AO PRESIDENTE  DA  REPÚBLICA"
+   },
+   "heading": {
+    "pt": "Departamento de Protocolo"
+   },
+   "text": {
+    "pt": "O Departamento de Protocolo assegura o apoio protocolar ao Presidente da República, organiza e dá apoio protocolar às solenidades, cerimónias e recepções que este promove e coordena a sua acção com o Protocolo de Estado."
+   }
+  },
+  {
+   "id": "TL-H103-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CASA  CIVIL / SECÇÃO I SERVIÇOS  PERMANENTES  DE  APOIO  AO PRESIDENTE  DA  REPÚBLICA"
+   },
+   "heading": {
+    "pt": "Departamento de Comunicação Social"
+   },
+   "text": {
+    "pt": "O Departamento de Comunicação Social organiza e promove a divulgação pública das actividades do Presidente da República e assegura a articulação com os órgãos de Comunicação Social e a resposta às solicitações destes."
+   }
+  },
+  {
+   "id": "TL-H103-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CASA  CIVIL / SECÇÃO I SERVIÇOS  PERMANENTES  DE  APOIO  AO PRESIDENTE  DA  REPÚBLICA"
+   },
+   "heading": {
+    "pt": "Guarda e Segurança Presidencial"
+   },
+   "text": {
+    "pt": "1.   A Guarda e Segurança Presidencial asseguram:\na)  A protecção e segurança pessoal do Presidente da República;\nb)  A segurança das instalações da Presidência da República e da residência do Presidente da República, bem como dos que ali vivem ou trabalham.\n2.  A Guarda e Segurança Presidencial assegura o desenvolvimento e implementação de medidas preventivas, incluindo controlo de acesso, vigilância e outras necessárias à protecção e defesa das pessoas, bens, serviços e instalações referidas no número anterior.\n3.  O Comandante da Guarda e Segurança Presidencial é nomeado pelo Presidente da República, sob proposta do Comandante Geral da PNTL.\n4.  Os membros da Guarda e Segurança Presidencial são aprovados pelo Presidente da República, sob proposta do Comandante Geral da PNTL."
+   }
+  },
+  {
+   "id": "TL-H103-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CASA  CIVIL / SECÇÃO I SERVIÇOS  PERMANENTES  DE  APOIO  AO PRESIDENTE  DA  REPÚBLICA"
+   },
+   "heading": {
+    "pt": "Departamento de Assuntos Jurídicos e Constitucionais"
+   },
+   "text": {
+    "pt": "O Departamento de Assuntos Jurídicos e Constitucionais presta assessoria especializada ao Presidente da República, assegura a tramitação de diplomas legislativos submetidos para promulgação e realiza outros trabalhos que lhe sejam solicitados, na área da sua especialidade."
+   }
+  },
+  {
+   "id": "TL-H103-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CASA  CIVIL / SECÇÃO I SERVIÇOS  PERMANENTES  DE  APOIO  AO PRESIDENTE  DA  REPÚBLICA"
+   },
+   "heading": {
+    "pt": "Departamento de Sociedade Civil e Assuntos Sociais"
+   },
+   "text": {
+    "pt": "O Departamento de Sociedade Civil e Assuntos Sociais presta assessoria nas áreas relativas ao bem-estar social, economia, cultura, ordenamento do território, ambiente, saúde, infraestruturas, educação e desporto."
+   }
+  },
+  {
+   "id": "TL-H103-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CASA  CIVIL / SECÇÃO I SERVIÇOS  PERMANENTES  DE  APOIO  AO PRESIDENTE  DA  REPÚBLICA"
+   },
+   "heading": {
+    "pt": "Departamento de Relações Internacionais"
+   },
+   "text": {
+    "pt": "O Departamento de Relações Internacionais presta assessoria especializada ao Presidente da República, colabora com os Serviços Políticos de Apoio ao Presidente da República na área da sua especialidade e organiza, em coordenação com o Ministério dos Negócios Estrangeiros, as visitas de Estado, visitas oficiais, visitas de trabalho e visitas privadas do Presidente da República."
+   }
+  },
+  {
+   "id": "TL-H103-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CASA  CIVIL / SECÇÃO I SERVIÇOS  PERMANENTES  DE  APOIO  AO PRESIDENTE  DA  REPÚBLICA"
+   },
+   "heading": {
+    "pt": "Departamento de Documentação, Análise e Pesquisa"
+   },
+   "text": {
+    "pt": "1.   O Departamento de Documentação, Análise e Pesquisa:\na)  Recolhe, organiza, cataloga, arquiva e analisa a documentação e outra informação pública relevante para apoiar as iniciativas do Presidente da República e o trabalho das unidades orgânicas da Casa Civil e da Casa Militar;\nb)    Recolhe, organiza, cataloga e arquiva a correspondência oficial e o expediente geral da Presidência da República;\nc)  Promove e organiza a edição e produção de livros e outras publicações para informação e divulgação das prioridades políticas do Presidente da República e do Estado.\n2.  O Departamento de Documentação, Análise e Pesquisa integra:\na)   A Unidade de Pesquisa e Análise de Informação;\nb)  O Arquivo Geral dos Serviços da Presidência da República;\nc)   O Centro de Publicações.\n3.    Os serviços referidos dos números e nas alíneas anteriores são dirigidos por chefes de secção.\n4.   O departamento é dirigido por um chefe de departamento."
+   }
+  },
+  {
+   "id": "TL-H103-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CASA  CIVIL / SECÇÃO II SERVIÇOS  POLÍTICOS  DE  APOIO  AO PRESIDENTE  DA  REPÚBLICA"
+   },
+   "heading": {
+    "pt": "Natureza"
+   },
+   "text": {
+    "pt": "1.    Os Serviços Políticos de Apoio ao Presidente da República têm carácter consultivo, apoiam o desenvolvimento da acção política do Presidente da República e acompanham a actividade do Governo, do Parlamento Nacional e do País, nos termos definidos no Regulamento Interno.\n2.   Os Serviços Políticos de Apoio ao Presidente da República integram os programas definidos como prioridade política pelo Presidente da República, podendo contar com a participação de consultores técnicos especializados para assuntos específicos e temporários."
+   }
+  },
+  {
+   "id": "TL-H103-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CASA  CIVIL / SECÇÃO III DIRECÇÃO GERAL DE ADMINISTRAÇÃO"
+   },
+   "heading": {
+    "pt": "Natureza"
+   },
+   "text": {
+    "pt": "A Direcção-Geral de Administração assegura a gestão e funcionamento dos serviços técnicos, administrativos, patrimoniais e financeiros da Presidência da República."
+   }
+  },
+  {
+   "id": "TL-H103-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CASA  CIVIL / SECÇÃO III DIRECÇÃO GERAL DE ADMINISTRAÇÃO"
+   },
+   "heading": {
+    "pt": "Atribuições"
+   },
+   "text": {
+    "pt": "Cabe à Direcção-Geral de Administração, nomeadamente:\na)    Assegurar o funcionamento dos serviços administrativos e a gestão dos recursos humanos, patrimoniais e financeiros da Presidência da República;\nb)   Assegurar a conservação das instalações, equipamentos, meios de comunicação e outros bens da Presidência da República;\nc)   Executar deliberações do Conselho Administrativo;\nd)  Promover a organização e actualização do inventário do património;\ne)  Assegurar os serviços de secretaria, expediente e correspondência da Presidência da República;\nf)   Elaborar a proposta de orçamento, em articulação com os Serviços Políticos de apoio e reflectindo as orientações decorrentes da acção política do Presidente da República;\ng)  Elaborar o relatório anual de contas da Presidência da República e garantir os instrumentos da prestação trimestral de contas, nos termos da legislação em vigor.\nh)   Propor ao Conselho Administrativo medidas para melhorar e optimizar o desempenho dos serviços e dos recursos humanos;\n(i)   Administrar, gerir e desenvolver o sistema informático da Presidência da República."
+   }
+  },
+  {
+   "id": "TL-H103-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CASA  CIVIL / SECÇÃO III DIRECÇÃO GERAL DE ADMINISTRAÇÃO"
+   },
+   "heading": {
+    "pt": "Estrutura"
+   },
+   "text": {
+    "pt": "Integram a Direcção-Geral de Administração:\na)   Direcção de Administração e Recursos Humanos;\nb)   Direcção de Finanças e Planeamento;\nc)   Direcção de Logística e Património."
+   }
+  },
+  {
+   "id": "TL-H103-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CASA  CIVIL / SECÇÃO III DIRECÇÃO GERAL DE ADMINISTRAÇÃO"
+   },
+   "heading": {
+    "pt": "Director-Geral de Administração"
+   },
+   "text": {
+    "pt": "1.   O Director-Geral de Administração dirige a Direcção-Geral de Administração e orienta e supervisiona o funcionamento e articulação das respectivas unidades funcionais, podendo ser coadjuvado por um adjunto.\n2.   O Director-Geral de Administração é substituído nas suas faltas e impedimentos pelo Director das Finanças e Planeamento, incluindo nas reuniões do Conselho Administrativo."
+   }
+  },
+  {
+   "id": "TL-H103-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CASA  CIVIL / SECÇÃO IV INSPECÇÃO,  FISCALIZAÇÃO  E  AUDITORIA"
+   },
+   "heading": {
+    "pt": "Gabinete de Inspecção, Fiscalização e Auditoria"
+   },
+   "text": {
+    "pt": "1.   O Gabinete de Inspecção, Fiscalização e Auditoria é o serviço que exerce a acção disciplinar e de auditoria em relação aos serviços da Presidência da República, bem como a fiscalização do cumprimento das leis e regulamentos administrativos aplicáveis.\n2.    Compete ao Gabinete de Inspecção, Fiscalização e Auditoria, nomeadamente:\na)   Fiscalizar os aspectos essenciais relativos à legalidade, regularidade e qualidade do funcionamento dos serviços;\nb)   Realizar auditorias de gestão;\nc)  Recolher informações sobre o funcionamento dos serviços, propondo as medidas correctivas aconselháveis;\nd)  Instruir processos de averiguações, de inquérito e disciplinares sempre que determinado pelas entidades competentes para a instauração do processo;\ne)  Instruir processos de sindicância determinados pelo Presidente da República;\nf)   Dar apoio aos serviços da Presidência da República, colaborando com os seus dirigentes no exercício do poder disciplinar;\n3.   O dirigente máximo do Gabinete de Inspecção, Fiscalização e Auditoria é equiparado, para todos os efeitos legais, a Director-Geral."
+   }
+  },
+  {
+   "id": "TL-H103-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CASA  MILITAR"
+   },
+   "heading": {
+    "pt": "Natureza"
+   },
+   "text": {
+    "pt": "A Casa Militar é o órgão que apoia o Presidente da República no exercício das suas funções de Comandante Supremo das Forças Armadas e no âmbito da Defesa e Segurança."
+   }
+  },
+  {
+   "id": "TL-H103-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CASA  MILITAR"
+   },
+   "heading": {
+    "pt": "Atribuições"
+   },
+   "text": {
+    "pt": "Compete à Casa Militar:\na)    Informar o Presidente da República sobre a situação militar, de defesa e segurança, interna e internacional, e sobre as questões estratégicas com interesse para a Defesa e a Segurança Nacional;\nb)  Prestar assistência ao Presidente da República no desempenho das suas funções no âmbito da Defesa e Segurança;\nc)  Apoiar a participação do Presidente da República em cerimónias e outros actos públicos civis e militares;\nd)   Preparar os assuntos da agenda do Conselho Superior de Defesa e Segurança e apresentá-los ao Presidente da República antes da reunião."
+   }
+  },
+  {
+   "id": "TL-H103-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CASA  MILITAR"
+   },
+   "heading": {
+    "pt": "Estrutura"
+   },
+   "text": {
+    "pt": "1.    A organização da Casa Militar é determinada pelo Presidente da República, sob proposta do Chefe da Casa Militar, tendo em conta as especializações militares e dispondo de assessorias e secretariado especializados.\n2.   Integram a Casa Militar:\na)   O Chefe da Casa Militar;\nb)   Ajudantes de Campo;\nc)   Gabinete de Apoio ao Comandante Supremo das Forças Armadas e Guarda de Honra\nd)   A  Assessoria da Casa Militar."
+   }
+  },
+  {
+   "id": "TL-H103-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CASA  MILITAR"
+   },
+   "heading": {
+    "pt": "Chefe da Casa Militar"
+   },
+   "text": {
+    "pt": "1.   O Chefe da Casa Militar é um oficial superior das F-FDTL e é nomeado e exonerado pelo Presidente da República.\n2.   O Chefe da Casa Militar dirige a Casa Militar e presta apoio ao Presidente da República em matérias militares, cabendolhe, designadamente:\na)   Assegurar a ligação do Presidente da República com as autoridades militares e com a sua tutela governamental;\nb)   Coordenar com o Chefe da Casa Civil a organização da actividade deste enquanto Comandante Supremo das Forças Armadas;\nc)   Representar o Presidente da República sempre que este o determine.\n3.  O Chefe da Casa Militar é coadjuvado nas suas funções por um oficial superior da PNTL nomeado pelo Presidente da República."
+   }
+  },
+  {
+   "id": "TL-H103-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CASA  MILITAR"
+   },
+   "heading": {
+    "pt": "Ajudantes-de-Campo"
+   },
+   "text": {
+    "pt": "1.   Os Ajudantes de Campo do Presidente da República são oficiais das F-FDTL nomeados pelo Presidente da República, sob proposta do Chefe de Estado-Maior General das Forças Armadas, cabendo-lhes:\na)   Estar ao serviço pessoal do Presidente da República e acompanhá-lo nas funções oficiais ou outras que sejam determinadas, a fim de lhe prestar imediata colaboração;\nb)  Acompanhar a preparação e execução das medidas de Protecção e Segurança do Presidente da República em todas as suas deslocações;\nc)   Desempenhar as funções de Ajudante de Campo junto de Chefes de Estado estrangeiros em visita de Estado ao território nacional.\n2.    Os Ajudantes de Campo do Presidente da República estão na directa subordinação do Chefe da Casa Militar.\n3.    O Chefe da Casa Militar será assistido por um Ajudante de Campo, nomeado nos termos do n.º 1."
+   }
+  },
+  {
+   "id": "TL-H103-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CASA  MILITAR"
+   },
+   "heading": {
+    "pt": "Gabinete de Apoio ao Comandante Supremo das Forças Armadas e Guarda de Honra"
+   },
+   "text": {
+    "pt": "1    O Gabinete de Apoio ao Comandante Supremo das Forças Armadas apoia o Presidente da República no exercício das suas funções de Comandante Supremo das Forças Armadas.\n2.   Integra o Gabinete de Apoio ao Comandante Supremo das Forças Armadas, a Guarda de Honra composta por um destacamento da F-FDTL, a quem cabe:\na)  Prestar as honras protocolares a Chefes de Estado, Chefes de Governo e outros dignitários em visita oficial;\nb)  Prestar honras militares protocolares nas cerimónias organizadas pela Presidência da República ou em que o Presidente da República esteja presente, para as quais seja solicitada."
+   }
+  },
+  {
+   "id": "TL-H103-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CASA  MILITAR"
+   },
+   "heading": {
+    "pt": "Assessoria da Casa Militar"
+   },
+   "text": {
+    "pt": "1.   A  Assessoria da Casa Militar presta Assessoria especializada nas áreas da Defesa e Segurança.\n2.  A Assessoria da Casa Militar pode integrar oficiais das FFDTL, da PNTL e dos restantes membros do sistema Integrado de Forças requisitados pelo Presidente da República."
+   }
+  },
+  {
+   "id": "TL-H103-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV SECRETARIADO PESSOAL  DO PRESIDENTE  DA REPÚBLICA"
+   },
+   "heading": {
+    "pt": "Natureza"
+   },
+   "text": {
+    "pt": "1.     Secretariado Pessoal do Presidente da República é o serviço de apoio directo e pessoal ao Presidente da República.\n2.  Os membros do Secretariado Pessoal do Presidente da República são por este nomeados e exonerados."
+   }
+  },
+  {
+   "id": "TL-H103-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV SECRETARIADO PESSOAL  DO PRESIDENTE  DA REPÚBLICA"
+   },
+   "heading": {
+    "pt": "Atribuições"
+   },
+   "text": {
+    "pt": "Cabe ao Secretariado Pessoal do Presidente da República assistir directamente e prestar apoio funcional ao Presidente da República em tarefas de secretariado e administrativas, nomeadamente:\na)   Organizar a agenda nacional e internacional do Presidente da República, em conjunto com os restantes serviços da Presidência da República;\nb)   Secretariar o Presidente da República;\nc)   Assegurar a articulação com a Casa Civil .\nd)   Assegurar o apoio directo e pessoal que seja determinado como necessário no âmbito do exercício das funções presidenciais."
+   }
+  },
+  {
+   "id": "TL-H103-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V CONSELHO  ADMINISTRATIVO"
+   },
+   "heading": {
+    "pt": "Natureza"
+   },
+   "text": {
+    "pt": "O Conselho Administrativo é o órgão deliberativo em matéria de gestão patrimonial, administrativa e financeira da Presidência da República."
+   }
+  },
+  {
+   "id": "TL-H103-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V CONSELHO  ADMINISTRATIVO"
+   },
+   "heading": {
+    "pt": "Composição"
+   },
+   "text": {
+    "pt": "O Conselho Administrativo é composto pelos seguintes membros com direito a voto:\na)   O Chefe da Casa Civil, que preside;\nb)   O Chefe da Casa Militar;\nc)   O Director-Geral de Administração;\nd)   O director de Finanças e Planeamento;\ne)   O Chefe do Gabinete de Inspecção, Fiscalização e Auditoria."
+   }
+  },
+  {
+   "id": "TL-H103-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V CONSELHO  ADMINISTRATIVO"
+   },
+   "heading": {
+    "pt": "Atribuições"
+   },
+   "text": {
+    "pt": "Cabe ao Conselho Administrativo:\na)  Aprovar o projecto de orçamento da Presidência da República, sob proposta do Director-Geral;\nb)  Aprovar o relatório anual de contas da Presidência da República;\nc)   Elaborar as propostas de regulamento interno que respeitem à gestão das áreas patrimonial, financeiras administrativa e do pessoal;\nd)   Orientar a contabilidade e fiscalizar a sua escrituração;\ne)   Aprovar os planos de actividades anuais e plurianuais;\nf)   Emitir parecer sobre afectação de pessoal do quadro às unidades orgânicas e serviços da Presidência da República e sempre que o Presidente da República o solicite;\ng)  Receber e decidir das reclamações e recursos administrativos apresentados pelos funcionários da Presidência da República;\nh)   Promover e acompanhar a organização e actualização do inventário do património."
+   }
+  },
+  {
+   "id": "TL-H103-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V CONSELHO  ADMINISTRATIVO"
+   },
+   "heading": {
+    "pt": "Funcionamento"
+   },
+   "text": {
+    "pt": "1.  O Conselho Administrativo reúne-se ordinariamente uma vez por trimestre e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a pedido de algum dos seus membros.\n2.   As deliberações do conselho são tomadas à pluralidade de votos, estando presente a maioria dos seus membros e tendo o seu presidente voto de desempate.\n3.  O Presidente do Conselho Administrativo nomeia um secretário, que redige as actas das reuniões e assegura o expediente.\n4.  Por decisão do presidente do Conselho Administrativo, participam nas reuniões do Conselho, sem direito a voto, os funcionários da Presidência da República cujo contributo seja considerado útil para decidir sobre os assuntos agendados."
+   }
+  },
+  {
+   "id": "TL-H103-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI REGIME   ADMINISTRATIVO,   FINANCEIRO   E PATRIMONIAL"
+   },
+   "heading": {
+    "pt": "Autonomia"
+   },
+   "text": {
+    "pt": "1.  A Presidência da República tem personalidade jurídica e autonomia administrativa, financeira e patrimonial, nos termos da presente lei, tendo poder de auto-regulação da sua organização e funcionamento e do estatuto jurídico do seu pessoal.\n2.  A autonomia administrativa, patrimonial e financeira é exercida nos termos definidos pela legislação aplicável, pelos Decretos Presidenciais e pelas decisões do Conselho Administrativo."
+   }
+  },
+  {
+   "id": "TL-H103-A37",
+   "no": 37,
+   "noLabel": {
+    "pt": "Artigo 37.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI REGIME   ADMINISTRATIVO,   FINANCEIRO   E PATRIMONIAL"
+   },
+   "heading": {
+    "pt": "Património"
+   },
+   "text": {
+    "pt": "1.  O Património da Presidência da República é constituído pelos bens móveis e imóveis por ela adquiridos ou previstos na lei.\n2.   A Presidência da República pode requisitar ao ministério competente ou tomar de arrendamento bens móveis ou imóveis necessários ao seu funcionamento."
+   }
+  },
+  {
+   "id": "TL-H103-A38",
+   "no": 38,
+   "noLabel": {
+    "pt": "Artigo 38.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI REGIME   ADMINISTRATIVO,   FINANCEIRO   E PATRIMONIAL"
+   },
+   "heading": {
+    "pt": "Receitas próprias"
+   },
+   "text": {
+    "pt": "1.   O financiamento da actividade do Presidente da República no exercício das suas funções e dos respectivos órgãos e serviços de apoio é assegurado por:\na)  Uma verba inscrita pelo Governo no Orçamento do Estado adequada à execução do Plano de Actividades aprovado pelo Presidente da República e apresentado ao Governo no prazo legal.\nb)   As receitas de publicações e do acesso à informação do seu Centro de Documentação, nos termos definidos pelo Regulamento Interno.\nc)   As receitas atribuídas por contrato, protocolo ou doação e outras previstas na lei.\n2.   A Presidência da República está sujeita às normas gerais de execução orçamental aplicáveis à Administração Pública, sem prejuízo do disposto na presente lei."
+   }
+  },
+  {
+   "id": "TL-H103-A39",
+   "no": 39,
+   "noLabel": {
+    "pt": "Artigo 39.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI REGIME   ADMINISTRATIVO,   FINANCEIRO   E PATRIMONIAL"
+   },
+   "heading": {
+    "pt": "Orçamento"
+   },
+   "text": {
+    "pt": "1.   O projecto de Orçamento anual da Presidência da República a que se refere a alínea a) do artigo 34°, acompanhado de parecer técnico especializado homologado pelo Chefe da Casa Civil, é submetido ao Conselho Administrativo, que sobre ele delibera.\n2.  O Presidente da República pode autorizar transferências entre rubricas da mesma categoria de despesa e entre categorias da despesa, nos termos da lei.\n3.   O Presidente da República autoriza a realização das despesas orçamentadas, independentemente do seu valor.\n4.   As competências previstas nos números anteriores podem ser delegadas  no Conselho Administrativo."
+   }
+  },
+  {
+   "id": "TL-H103-A40",
+   "no": 40,
+   "noLabel": {
+    "pt": "Artigo 40.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII RECURSOS  HUMANOS"
+   },
+   "heading": {
+    "pt": "Pessoal"
+   },
+   "text": {
+    "pt": "1.   Os funcionários da Presidência da República regem-se por um estatuto próprio, a aprovar por Decreto-Lei, constituindo direito subsidiário o regime geral da função pública.\n2.  A Presidência da República é dotada de um quadro de pessoal, aprovado por Decreto Presidencial, com a indicação das categorias profissionais, número de lugares por categoria, descrição dos respectivos conteúdos funcionais e níveis remuneratórios correspondentes.\n3.   É reconhecida a mobilidade entre o quadro de funcionários da Presidência da República e os quadros da administração Pública, nos termos da qual nenhum funcionário verá prejudicados os seus direitos de progressão na carreira, salário e aposentação por transitar de um serviço para o outro."
+   }
+  },
+  {
+   "id": "TL-H103-A41",
+   "no": 41,
+   "noLabel": {
+    "pt": "Artigo 41.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII RECURSOS  HUMANOS"
+   },
+   "heading": {
+    "pt": "Provimento de lugares do quadro"
+   },
+   "text": {
+    "pt": "O quadro da Presidência da República é preenchido segundo os procedimentos estabelecidos para os organismos da Função Pública, com as devidas adaptações."
+   }
+  },
+  {
+   "id": "TL-H103-A42",
+   "no": 42,
+   "noLabel": {
+    "pt": "Artigo 42.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII RECURSOS  HUMANOS"
+   },
+   "heading": {
+    "pt": "Comissão de serviço"
+   },
+   "text": {
+    "pt": "1.  As chefias dos órgãos e serviços da Presidência da República são providos em regime de comissão de serviço nos termos do Estatuto da Função Pública e do Regime das Carreiras e dos Cargos de Chefia da Administração Pública, sem prejuízo do disposto no número seguinte.\n2.   As nomeações do Chefe da Casa Civil, do Chefe da Casa Militar, dos respectivos adjuntos, dos Ajudantes de Campo do Presidente da República e dos membros do Secretariado Pessoal deste caducam com o mandato do titular que as originou e não conferem vínculo à Administração Pública."
+   }
+  },
+  {
+   "id": "TL-H103-A43",
+   "no": 43,
+   "noLabel": {
+    "pt": "Artigo 43.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII RECURSOS  HUMANOS"
+   },
+   "heading": {
+    "pt": "Nomeações e contratações"
+   },
+   "text": {
+    "pt": "1.   O Presidente da República nomeia livremente e autoriza a contratação de Conselheiros, Assessores,  Consultores e Técnicos quialificados para os serviços da Presidêncioa da República.\n2.  As nomeações e contratos referidos no número anterior mencionam obrigatoriamente respectiva duração, remuneração e restantes regalias, sem prejuízo do disposto no número seguinte.\n3.  As nomeações e contratos caducam com o termo do mandato do Presidente da República que os determinou e não conferem vínculo à Administração Pública."
+   }
+  },
+  {
+   "id": "TL-H103-A44",
+   "no": 44,
+   "noLabel": {
+    "pt": "Artigo 44.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII RECURSOS  HUMANOS"
+   },
+   "heading": {
+    "pt": "Estatuto e Regime remuneratório"
+   },
+   "text": {
+    "pt": "1.   O Estatuto dos funcionários da Presidência da República é definido por Decreto-Lei.\n2.    A remuneração dos funcionários da Presidência da República não poderá ser inferior à tabela  das carreiras do regime geral da administração pública, acrescida de 20% e de subsídio de refeição."
+   }
+  },
+  {
+   "id": "TL-H103-A45",
+   "no": 45,
+   "noLabel": {
+    "pt": "Artigo 45.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES  FINAIS  E  TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Transição de mandato"
+   },
+   "text": {
+    "pt": "1.  O Presidente da República eleito informa o presidente cessante da pessoa encarregada de preparar o exercício do seu mandato.\n2.  O Presidente do Conselho Administrativo colabora na preparação do exercício do mandato do presidente eleito, assegurando apoio logístico e administrativo e articulando com a pessoa encarregada a que se refere o número anterior.\n3.   Os funcionários e colaboradores da Presidência da República têm o dever de contribuir para a boa transição de mandatos e assegurar a transmissão da informação relevante no âmbito das funções que desempenham, a solicitação do Presidente do Conselho Administrativo."
+   }
+  },
+  {
+   "id": "TL-H103-A46",
+   "no": 46,
+   "noLabel": {
+    "pt": "Artigo 46.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES  FINAIS  E  TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Regime remuneratorio transitório"
+   },
+   "text": {
+    "pt": "Até à aprovação do estatuto previsto no artigo 44.o do presente diploma, a renumeração dos funcionários da Presidência da República é igual às das correspondentes categorias da Administração Pública, acrescida de 20% e de subsídio de refeição."
+   }
+  },
+  {
+   "id": "TL-H103-A47",
+   "no": 47,
+   "noLabel": {
+    "pt": "Artigo 47.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES  FINAIS  E  TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "O Legislação aplicável e Direito subsidiário"
+   },
+   "text": {
+    "pt": "Os serviços da Presidência da República regem-se pelo disposto na presente lei, pelo regulamento interno nela previsto, aprovado por decreto presidencial e, subsidiariamente, pela legislação geral da Administração Pública."
+   }
+  },
+  {
+   "id": "TL-H103-A48",
+   "no": 48,
+   "noLabel": {
+    "pt": "Artigo 48.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES  FINAIS  E  TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "O Norma revogatória"
+   },
+   "text": {
+    "pt": "É revogada a Lei n°6/2004, de 26 de Maio, e respectivos diplomas regulamentares."
+   }
+  },
+  {
+   "id": "TL-H103-A49",
+   "no": 49,
+   "noLabel": {
+    "pt": "Artigo 49.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES  FINAIS  E  TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "O Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

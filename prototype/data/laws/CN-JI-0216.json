@@ -1,0 +1,100 @@
+{
+ "id": "CN-JI-0216",
+ "title": {
+  "zh": "最高人民法院关于人民法院对注册商标权进行财产保全的解释",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p08",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2020-12-29",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "最高人民法院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 299,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于人民法院对注册商标权进行财产保全的解释_20201229.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，第一条至第三条，共 3 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于人民法院对注册商标权进行财产保全的解释_20201229.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0216-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "第一条"
+   },
+   "text": {
+    "zh": "人民法院根据民事诉讼法有关规定采取财产保全措施时，需要对注册商标权进行保全的，应当向国家知识产权局商标局（以下简称商标局）发出协助执行通知书，载明要求商标局协助保全的注册商标的名称、注册人、注册证号码、保全期限以及协助执行保全的内容，包括禁止转让、注销注册商标、变更注册事项和办理商标权质押登记等事项。"
+   }
+  },
+  {
+   "id": "CN-JI-0216-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "第二条"
+   },
+   "text": {
+    "zh": "对注册商标权保全的期限一次不得超过一年，自商标局收到协助执行通知书之日起计算。如果仍然需要对该注册商标权继续采取保全措施的，人民法院应当在保全期限届满前向商标局重新发出协助执行通知书，要求继续保全。否则，视为自动解除对该注册商标权的财产保全。"
+   }
+  },
+  {
+   "id": "CN-JI-0216-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "第三条"
+   },
+   "text": {
+    "zh": "人民法院对已经进行保全的注册商标权，不得重复进行保全。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于人民法院对注册商标权进行财产保全的解释"
+  },
+  "issuingBody": {
+   "zh": "最高人民法院"
+  },
+  "promulgatedDate": "2020-12-29",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

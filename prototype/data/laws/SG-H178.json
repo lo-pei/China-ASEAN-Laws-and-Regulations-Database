@@ -1,0 +1,490 @@
+{
+ "id": "SG-H178",
+ "title": {
+  "zh": null,
+  "en": "Air Navigation (Regulated Air Cargo Agents and Known Consignors) Regulations 2017",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p02",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ANA1966-S166-2017",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 28,
+ "chars": 34949,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ANA1966-S166-2017?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 28 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H178-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Air Navigation (Regulated Air Cargo Agents and Known Consignors) Regulations 2017 and come into operation on 15 May 2017.\n[S 985/2020 wef 04/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H178-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "2.—(1) Subject to paragraph (2), these Regulations apply to and in relation to the carriage of any cargo in any aircraft departing from any airport in Singapore.\n(2) Unless the context otherwise requires, these Regulations do not apply to or in relation to the carriage of any cargo in military aircraft departing from any airport in Singapore."
+   }
+  },
+  {
+   "id": "SG-H178-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "3. In these Regulations, unless the context otherwise requires —\n“air cargo agent” means any person who carries on a business that includes —\n(a)handling cargo to be passed to an aircraft operator or its representative for carriage in any aircraft from any airport in Singapore to a destination outside Singapore; or\n(b)delivering, or causing to be delivered, such cargo (directly or through an intermediary) to an aircraft operator or its representative for carriage in any aircraft;\n“aircraft operator” means the person who or which, at the relevant time, is engaged in or offering to engage in the operation of any one or more aircraft to which these Regulations apply;\n“cargo” means any property carried in an aircraft other than stores and accompanied or mishandled baggage;\n“consignor” means a person who in the course of business provides cargo to an air cargo agent for export in an aircraft, and any person named as the consignor or shipper of cargo in any transport documents relating to the cargo is prima facie treated as a consignor for the purposes of these Regulations;\n[S 985/2020 wef 04/12/2020]\n“KCSP” means the Known Consignor Security Programme mentioned in regulation 19A;\n[S 985/2020 wef 04/12/2020]\n“known consignor” or “KC” means a consignor who is registered under regulation 6;\n[S 985/2020 wef 04/12/2020]\n“NCASA” means the National Civil Aviation Security Authority;\n“RACASP” means the Regulated Air Cargo Agent Security Programme mentioned in regulation 14;\n“registration” means registration under these Regulations as a RACA or a KC, as the case may be;\n[S 985/2020 wef 04/12/2020]\n“regulated air cargo agent” or “RACA” means an air cargo agent registered under regulation 6;\n“regulated aviation industry participant” or “RAIP” means —\n(a)a known consignor; or\n(b)a regulated air cargo agent;\n[S 985/2020 wef 04/12/2020]\n“screening” means the application of technical or other means intended to identify or detect weapons, explosives or other dangerous devices or any articles or substances that may be used to commit an act of unlawful interference, and includes any similar measure specified by the NCASA under section 17D of the Act;\n“stores” means any goods intended for sale or use in an aircraft, including spare parts and other articles of equipment, whether or not for immediate fitting;\n“third-party service provider” means —\n(a)in relation to a RACA, an agent of or a person that has a contract with a RACA to provide a service for the movement or handling of any cargo handed over to the RACA or the making of arrangements for the movement or handling of such cargo, and includes any security service provider engaged to provide security services to the RACA in the movement or handling of cargo; and\n(b)in relation to a KC, an agent of or a person that has a contract with a KC to provide a service for the manufacture, packing, storage and transport of cargo for export in an aircraft, and includes any security service provider engaged to provide security services to the KC in the manufacture, packing, storage and transport of cargo;\n[S 985/2020 wef 04/12/2020]\n“unknown cargo” means any cargo that is —\n(a)manufactured, packed, stored or transported by a consignor that is not a known consignor;\n(b)identified as unknown cargo by a known consignor; or\n(c)handled or delivered by an air cargo agent that is not a RACA.\n[S 985/2020 wef 04/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H178-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION OF AIR CARGO AGENTS AND CONSIGNORS"
+   },
+   "heading": {
+    "en": "Application for registration"
+   },
+   "text": {
+    "en": "4. An application by —\n(a)an air cargo agent to be registered as a RACA; or\n(b)a consignor to be registered as a KC,\nmust be made to the NCASA in such form and manner as the NCASA may determine.\n[S 985/2020 wef 04/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H178-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION OF AIR CARGO AGENTS AND CONSIGNORS"
+   },
+   "heading": {
+    "en": "Content of application for registration"
+   },
+   "text": {
+    "en": "5. An application by an air cargo agent to be registered as a RACA or a consignor to be registered as a KC (as the case may be) must state the following, where applicable:\n(a)if the air cargo agent or consignor is a company —\n(i)the name of the company;\n(ii)the unique entity number of the company;\n(iii)the full name of each director; and\n(iv)if the company trades under another name, that trading name;\n[S 985/2020 wef 04/12/2020]\n(b)if the air cargo agent or consignor is a partnership —\n(i)the name of the partnership;\n(ii)the full name of each partner; and\n(iii)if the partnership trades under another name, that trading name;\n[S 985/2020 wef 04/12/2020]\n(c)if the air cargo agent or consignor is an unincorporated association —\n(i)the name of the unincorporated association;\n(ii)the full name of each member of the association; and\n(iii)if the association trades under another name, that trading name;\n[S 985/2020 wef 04/12/2020]\n(d)in any other case —\n(i)the name of the applicant; and\n(ii)if the applicant trades under another name, that trading name;\n(e)the name of the applicant’s chief executive officer or manager;\n[S 985/2020 wef 04/12/2020]\n(f)the postal address, telephone number (including an after-hours telephone number), fax number (if any) and email address (if any) of the applicant’s principal office in Singapore and each of the applicant’s sites in Singapore that will be covered by the applicant’s RACASP or KCSP, as the case may be;\n[S 985/2020 wef 04/12/2020]\n(g)any other information that the NCASA requires in any particular case.\n[S 985/2020 wef 04/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H178-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION OF AIR CARGO AGENTS AND CONSIGNORS"
+   },
+   "heading": {
+    "en": "Registration with or without conditions"
+   },
+   "text": {
+    "en": "6.—(1) After considering an application under regulation 4, the NCASA may —\n(a)register the applicant as a RACA or KC (as the case may be), with or without such conditions as the NCASA considers requisite or expedient having regard to the purposes of these Regulations and Part IIB of the Act; or\n[S 985/2020 wef 04/12/2020]\n(b)refuse to register the applicant as a RACA or KC, as the case may be.\n[S 985/2020 wef 04/12/2020]\n(2) The NCASA must issue a certificate of registration to every RAIP upon registration, or renewal of an RAIP’s registration.\n[S 985/2020 wef 04/12/2020]\n(3) Where the NCASA refuses an applicant’s registration, the applicant may, within 21 days after receiving notice of the NCASA’s decision, appeal in writing to the Minister against that decision, and the Minister’s decision on appeal is final."
+   }
+  },
+  {
+   "id": "SG-H178-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION OF AIR CARGO AGENTS AND CONSIGNORS"
+   },
+   "heading": {
+    "en": "Validity and renewal of registration"
+   },
+   "text": {
+    "en": "7.—(1) Every registration under regulation 6, or renewed under this regulation, continues in force for such period as may be specified in the certificate of registration, unless the registration is earlier cancelled or suspended under regulation 9.\n[S 985/2020 wef 04/12/2020]\n(2) The NCASA may, on the application of an RAIP to renew the RAIP’s registration —\n(a)renew the registration with or without adding to, deleting from or varying conditions of the registration; or\n(b)refuse to renew the registration.\n[S 985/2020 wef 04/12/2020]\n(3) An application to renew a registration must be made no later than one month before the date of expiry of the registration, unless otherwise allowed by the NCASA in any particular case.\n(4) Regulations 4, 5 and 6 apply, with the necessary modifications, to every application to renew a registration as if the application is for registration."
+   }
+  },
+  {
+   "id": "SG-H178-A7.001",
+   "no": 7.001,
+   "noLabel": {
+    "en": "7A."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION OF AIR CARGO AGENTS AND CONSIGNORS"
+   },
+   "heading": {
+    "en": "Provisional registration pending registration as a KC"
+   },
+   "text": {
+    "en": "7A.—(1) The NCASA may, pending the determination of an application for registration as a KC, grant to the applicant a provisional registration which remains in force until —\n(a)the application is approved or refused; or\n(b)the provisional registration is cancelled.\n(2) The NCASA may grant the provisional registration with or without such conditions as the NCASA considers requisite or expedient having regard to the purposes of these Regulations and Part IIB of the Act.\n(3) Regulation 8 applies, with the necessary modifications, to a provisional registration.\n(4) The NCASA must issue a provisional certificate of registration upon every provisional registration.\n[S 985/2020 wef 04/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H178-A7.002",
+   "no": 7.002,
+   "noLabel": {
+    "en": "7B."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION OF AIR CARGO AGENTS AND CONSIGNORS"
+   },
+   "heading": {
+    "en": "Cancellation of provisional registration"
+   },
+   "text": {
+    "en": "7B.—(1) The NCASA may cancel the provisional registration if —\n(a)the provisionally registered person fails to comply with any of the conditions of the provisional registration; or\n(b)the NCASA becomes aware of any fact which establishes to its satisfaction that the provisionally registered person is not a fit and proper person to hold provisional registration.\n(2) Upon the cancellation of the provisional registration, the application for registration is deemed to be refused under regulation 6(1)(b), and regulation 6(3) applies, with the necessary modifications, to the refusal.\n(3) The cancellation of the provisional registration takes immediate effect regardless of any appeal to the Minister under regulation 6(3).\n(4) If the appeal under regulation 6(3) is allowed, the provisional registration is to be reinstated from the date the appeal is allowed, and the NCASA must without delay restore to the List of Known Consignors the name of the provisionally registered person concerned and return to the provisionally registered person any provisional certificate of registration surrendered under regulation 11A.\n[S 985/2020 wef 04/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H178-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION OF AIR CARGO AGENTS AND CONSIGNORS"
+   },
+   "heading": {
+    "en": "Modification of conditions of registration"
+   },
+   "text": {
+    "en": "8.—(1) The NCASA may modify the conditions of a registration without compensating the RAIP concerned.\n[S 985/2020 wef 04/12/2020]\n(2) Before modifying any conditions of an RAIP’s registration, the NCASA must give written notice to the RAIP concerned —\n(a)stating that the NCASA proposes to make the modification in the manner as specified in the notice; and\n(b)specifying the time (being not less than 14 days after the date of service of the notice on the RAIP) within which the RAIP may make written representations to the NCASA with respect to the proposed modification.\n[S 985/2020 wef 04/12/2020]\n(3) Upon receiving any written representation mentioned in paragraph (2), the NCASA must consider that representation and may —\n(a)reject the representation;\n(b)amend the proposed modification in such manner as the NCASA thinks fit having regard to the representation; or\n(c)withdraw the proposed modification.\n(4) Where —\n(a)the NCASA rejects any written representation under paragraph (3)(a);\n(b)the NCASA amends any proposed modification to the conditions of the registration under paragraph (3)(b); or\n(c)no written representation is received by the NCASA within the time specified in paragraph (2)(b), or any written representation made under that paragraph is subsequently withdrawn, and the RAIP concerned has not given immediate effect to the modification,\nthe NCASA must issue a direction in writing to the RAIP in question requiring the RAIP, within the time specified by the NCASA, to give effect to the modification to the conditions of registration as specified in the notice under paragraph (2) or as amended by the NCASA, as the case may be.\n[S 985/2020 wef 04/12/2020]\n(5) Where the RAIP is aggrieved by the direction of the NCASA under paragraph (4), the RAIP may, within 21 days after receiving the NCASA’s direction, appeal in writing to the Minister against that direction, and the Minister’s decision on appeal is final.\n[S 985/2020 wef 04/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H178-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION OF AIR CARGO AGENTS AND CONSIGNORS"
+   },
+   "heading": {
+    "en": "Cancellation or suspension, etc., of registration"
+   },
+   "text": {
+    "en": "9.—(1) If the NCASA is satisfied that —\n(a)an RAIP is contravening or has contravened, or is not complying or has failed to comply with —\n(i)any condition of its registration; or\n(ii)any provision of the Act applicable to the RAIP, whether or not the RAIP has been convicted of an offence for the contravention or non‑compliance;\n[S 985/2020 wef 04/12/2020]\n[S 985/2020 wef 04/12/2020]\n(b)the RAIP is in or is likely to go into compulsory or voluntary liquidation other than for the purpose of amalgamation or reconstruction, or the RAIP is declared bankrupt;\n[S 985/2020 wef 04/12/2020]\n(c)the RAIP has ceased to carry on the business of an air cargo agent in Singapore;\n[S 985/2020 wef 04/12/2020]\n(d)the registration had been obtained by fraud or misrepresentation; or\n(e)the public interest or national security of Singapore requires,\nthe NCASA may take any regulatory action described in paragraph (2) without compensating the RAIP concerned.\n[S 985/2020 wef 04/12/2020]\n(2) The regulatory actions that the NCASA may take against an RAIP are —\n(a)to cancel the RAIP’s registration; or\n[S 985/2020 wef 04/12/2020]\n(b)in lieu of cancelling registration, to suspend (for not more than 6 months) the RAIP’s registration.\n[S 985/2020 wef 04/12/2020]\n[S 985/2020 wef 04/12/2020]\n(3) Despite paragraph (1), before exercising any powers under this regulation, the NCASA must, except in the circumstances described in paragraph (3A), give written notice to the RAIP concerned —\n(a)stating that the NCASA intends to take regulatory action against the RAIP under this regulation;\n(b)specifying the type of action the NCASA proposes to take, and each instance of non‑compliance that is the subject of the action; and\n(c)specifying the time (being not less than 21 days after the date of service of notice on the RAIP) within which the RAIP may make written representations to the NCASA with respect to the proposed regulatory action.\n[S 985/2020 wef 04/12/2020]\n(3A) Where the ground for taking regulatory action against an RAIP is paragraph (1)(e), the NCASA may, without giving written notice under paragraph (3), cancel the registration of the RAIP by written notice, with immediate effect regardless of any appeal to the Minister under paragraph (9).\n[S 985/2020 wef 04/12/2020]\n(4) The NCASA may —\n(a)after considering any written representation made in accordance with paragraph (3); or\n(b)after the time delimited under paragraph (3)(c) lapses if no representation is so made,\ndecide to take the appropriate regulatory action against the RAIP as specified in paragraph (2).\n[S 985/2020 wef 04/12/2020]\n(5) The NCASA must serve on the RAIP concerned a written notice of the NCASA’s decision under paragraph (4).\n[S 985/2020 wef 04/12/2020]\n(6) A decision to take any regulatory action in paragraph (2) that is specified in the notice given under paragraph (5), takes effect —\n(a)from that date in that notice, being at least 21 days after the notice is served on the RAIP concerned; or\n[S 985/2020 wef 04/12/2020]\n(b)if an appeal is made under paragraph (9) against the decision in the notice, from the day the appeal is dismissed or earlier withdrawn.\n(7) The cancellation or suspension of any registration under this regulation does not prejudice the enforcement —\n(a)by any person of any right or claim against the RAIP or former RAIP; or\n[S 985/2020 wef 04/12/2020]\n(b)by the RAIP or former RAIP of any right or claim against any person.\n[S 985/2020 wef 04/12/2020]\n(8) In any proceedings under this regulation in relation to the conviction of an RAIP for a criminal offence, the NCASA may accept the RAIP’s conviction as final and conclusive.\n[S 985/2020 wef 04/12/2020]\n(9) Where the NCASA takes any regulatory action under this regulation against an RAIP, the RAIP or former RAIP, if aggrieved by the decision may appeal to the Minister in writing against that decision, within 21 days after receiving the NCASA’s notice under paragraph (3A) or (5) (as the case may be), or such longer period as the Minister may allow in any particular case.\n[S 985/2020 wef 04/12/2020]\n(10) The Minister’s decision on an appeal under paragraph (9) is final.\n[S 985/2020 wef 04/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H178-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION OF AIR CARGO AGENTS AND CONSIGNORS"
+   },
+   "heading": {
+    "en": "RACA and KC lists"
+   },
+   "text": {
+    "en": "10.—(1) The NCASA must keep and maintain the following lists:\n(a)a list of all RACA whose registrations are in force, called the List of Regulated Air Cargo Agents;\n(b)a list of all KC whose registrations are in force, and all persons who are provisionally registered under regulation 7A, called the List of Known Consignors,\nand publish the lists in such manner as the NCASA considers appropriate.\n(2) Where the registration of a RACA or KC (as the case may be) is cancelled or suspended under regulation 9, the NCASA must without delay —\n(a)remove the name of that RACA or former RACA from the List of Regulated Air Cargo Agents; and\n(b)remove the name of that KC or former KC from the List of Known Consignors.\n(3) Where the registration of a RACA or KC (as the case may be) is suspended under regulation 9, the NCASA must without delay, at the end of the suspension period or when the suspension is lifted under regulation 12 —\n(a)restore to the List of Regulated Air Cargo Agents the name of the RACA concerned and return to the RACA any certificate of registration surrendered under regulation 11; and\n(b)restore to the List of Known Consignors the name of the KC concerned and return to the KC any certificate of registration surrendered under regulation 11.\n(4) Where the provisional registration under regulation 7A is no longer in force, the NCASA must without delay remove the name of that provisionally registered person from the List of Known Consignors.\n[S 985/2020 wef 04/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H178-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION OF AIR CARGO AGENTS AND CONSIGNORS"
+   },
+   "heading": {
+    "en": "Surrender of cancelled or suspended certificate of registration"
+   },
+   "text": {
+    "en": "11.—(1) Where the registration of an RAIP is cancelled or suspended under regulation 9, that RAIP or former RAIP must surrender the certificate of registration to the NCASA within 14 days after the cancellation or suspension takes effect.\n[S 985/2020 wef 04/12/2020]\n(2) A person who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 30 months or to both."
+   }
+  },
+  {
+   "id": "SG-H178-A11.001",
+   "no": 11.001,
+   "noLabel": {
+    "en": "11A."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION OF AIR CARGO AGENTS AND CONSIGNORS"
+   },
+   "heading": {
+    "en": "Surrender of cancelled provisional certificate of registration"
+   },
+   "text": {
+    "en": "11A.—(1) A provisionally registered person must surrender the provisional certificate of registration to the NCASA —\n(a)where the provisional certificate of registration is cancelled under regulation 7B, within 14 days after the cancellation takes effect;\n(b)where the application for registration is approved under regulation 6(1)(a) —\n(i)if an individual, on behalf of the provisionally registered person, collects the certificate of registration mentioned in regulation 6(2) in person, upon receiving the certificate of registration; or\n(ii)in any other case, within 14 days after receiving the certificate of registration mentioned in regulation 6(2); or\n(c)where the application for registration is refused under regulation 6(1)(b), within 14 days after receiving notice of the refusal.\n(2) A person who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 30 months or to both.\n[S 985/2020 wef 04/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H178-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION OF AIR CARGO AGENTS AND CONSIGNORS"
+   },
+   "heading": {
+    "en": "Lifting of suspension"
+   },
+   "text": {
+    "en": "12.—(1) Where the registration of an RAIP is suspended under regulation 9, the NCASA may, before the end of the suspension period, lift the suspension at any time, with or without modifying the conditions of the RAIP’s registration.\n[S 985/2020 wef 04/12/2020]\n(2) Regulation 8(2) to (5) does not apply to modifying the conditions of an RAIP’s registration in the circumstances in paragraph (1).\n[S 985/2020 wef 04/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H178-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION OF AIR CARGO AGENTS AND CONSIGNORS"
+   },
+   "heading": {
+    "en": "Disqualification from registration"
+   },
+   "text": {
+    "en": "13.—(1) A person is disqualified from being registered as an RAIP —\n(a)for a period of one year starting on the date the cancellation takes effect, where a registration is cancelled under regulation 9;\n(b)for a period of one year starting on the date the cancellation takes effect, where a provisional registration is cancelled under regulation 7B;\n(c)for a period of one year starting on the date of the notice of the refusal, where the application for registration is refused under regulation 6(1)(b); or\n(d)for a period of one year starting on the date of the notice of the refusal, where the application for renewal is refused under regulation 7(2)(b).\n[S 985/2020 wef 04/12/2020]\n(2) To avoid doubt, any registration as an RAIP obtained by a person while disqualified by paragraph (1) is of no effect.\n[S 985/2020 wef 04/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H178-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 REGULATED AIR CARGO AGENT SECURITY PROGRAMME"
+   },
+   "heading": {
+    "en": "RACA must have RACA security programme"
+   },
+   "text": {
+    "en": "14.—(1) For the purposes of section 17E of the Act, every RACA must have a security programme (called a RACA security programme or RACASP) that —\n(a)sets out the measures and procedures to be used to examine, handle, store and transport cargo in a secure manner, and make arrangements for the secure movement of cargo; and\n(b)contains —\n(i)details of all sites covered by the RACASP and operated by or on behalf of the RACA;\n(ii)details of all facilities covered by the RACASP and operated by or on behalf of the RACA;\n(iii)the name of each such site or facility and its location; and\n(iv)details of security procedures at each such site or facility outside its normal hours of operation.\n(2) The measures and procedures in paragraph (1) must be applied —\n(a)to all cargo in the RACA’s possession or under the RACA’s control; and\n(b)at each site or facility covered by the RACASP.\n(3) Without prejudice to the generality of paragraph (1), every RACASP must —\n(a)set out the methods, techniques and equipment to be used for the examination of cargo;\n(b)set out the measures and procedures to ensure the security of cargo at all times, including —\n(i)the methods to be used to prevent unauthorised persons from having access to cargo from the time the RACA takes possession or control of the cargo until the time the RACA passes possession or control of the cargo to another aviation industry participant;\n(ii)measures to prevent unauthorised disclosure of information regarding security measures to be applied to cargo;\n(iii)measures to prevent aircraft operator and flight information from being revealed, before possession or control of the cargo passes to the RACA, to those without a need to know; and\n(iv)details of persons who may be given such information (such as every third-party service provider) and how the information is to be given to such persons;\n(c)set out the measures and procedures to handle and treat suspect cargo;\n(d)set out, in relation to the unauthorised carriage, as cargo, of explosives that could facilitate an act of unlawful interference with aviation, the measures, equipment and procedures to deter and detect such unauthorised carriage, including procedures that will have effect during such equipment failure or unserviceability;\n(e)set out the procedures for managing security at each of the RACA’s facilities, including —\n(i)organisational structures and security management arrangements;\n(ii)the roles and responsibilities of security contact officers, security staff and contractors; and\n(iii)the roles and responsibilities of other staff assigned security duties and responsibilities;\n(f)set out, as appropriate to the operations at each of the RACA’s sites, security measures and procedures to be used within the site, including measures and procedures, so as to control access to sites and maintain the integrity of access control systems and to deter and detect unauthorised access into the airside area by people, aircraft, vehicles or things;\n(g)set out the measures and procedures for the keeping of accurate records of cargo in the RACA’s possession or under the RACA’s control and the security measures adopted in relation to such cargo;\n(h)set out the measures to ensure that the RACASP and other security information are protected against unauthorised access, amendment and disclosure;\n(i)set out quality control procedures, including details of how audits are scheduled, the procedures for carrying out an audit, the procedures for reviewing the RACASP and a description of the circumstances that will require a review of the RACASP;\n(j)for the purpose of coordinating security-related activities, set out a mechanism for consultation within the RACA’s organisation and within each site covered by the RACASP, between the RACA and relevant third‑party service providers, and between the RACA and the operator of any airport at which the RACA has a facility covered under the RACASP; and\n(k)be accompanied by a document that sets out additional security measures and procedures available in the event of a heightened security alert, including —\n(i)procedures for responding to and investigating aviation security incidents, including threats and breaches of security;\n(ii)procedures for responding to any security directions given by the NCASA under the Act; and\n(iii)procedures for evacuation and emergency management in case of a serious aviation security incident, security threat or breach of security (such as a bomb threat)."
+   }
+  },
+  {
+   "id": "SG-H178-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 REGULATED AIR CARGO AGENT SECURITY PROGRAMME"
+   },
+   "heading": {
+    "en": "Review and alteration of RACASP"
+   },
+   "text": {
+    "en": "15.—(1) The NCASA may, from time to time, require a RACA to —\n(a)review and alter the RACA’s RACASP to incorporate such new security measures and procedures into the RACASP as the NCASA deems fit; and\n(b)implement such new security measures and procedures in the RACASP by such date as may be specified by the NCASA,\nand the RACA must comply with that requirement.\n(2) A RACA must not alter the RACASP without the prior approval of the NCASA and any alteration made to the RACASP without the approval of the NCASA is void."
+   }
+  },
+  {
+   "id": "SG-H178-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 4 DUTIES OF REGULATED AIR CARGO AGENTS"
+   },
+   "heading": {
+    "en": "Notification of change of particulars"
+   },
+   "text": {
+    "en": "16.—(1) A RACA must, within 7 days from and including the date of any change taking place in any of the particulars in regulation 5 that were declared by the RACA in the RACA’s application for registration or renewal of registration (as the case may be), inform the NCASA of the change in such form and manner as the NCASA may determine.\n(2) Any RACA who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 30 months or to both."
+   }
+  },
+  {
+   "id": "SG-H178-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 DUTIES OF REGULATED AIR CARGO AGENTS"
+   },
+   "heading": {
+    "en": "RACA must comply with RACASP"
+   },
+   "text": {
+    "en": "17. A RACA must accept, process, store and transport cargo in accordance with the security measures and procedures described in the RACASP."
+   }
+  },
+  {
+   "id": "SG-H178-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 DUTIES OF REGULATED AIR CARGO AGENTS"
+   },
+   "heading": {
+    "en": "Tendering of cargo for screening"
+   },
+   "text": {
+    "en": "18.—(1) A RACA must tender or cause to be tendered all cargo in the RACA’s possession or control for screening at an air freight terminal.\n(2) However, a RACA may screen any cargo at any site or facility operated by or on behalf of the RACA if the RACA has obtained the prior approval of the NCASA to do so under regulation 19."
+   }
+  },
+  {
+   "id": "SG-H178-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 DUTIES OF REGULATED AIR CARGO AGENTS"
+   },
+   "heading": {
+    "en": "Application by RACA for site or facility to be approved for screening"
+   },
+   "text": {
+    "en": "19.—(1) A RACA may apply to the NCASA, in such form and manner as the NCASA may determine, for any site or facility operated by or on behalf of the RACA to be used for the screening of cargo in the possession or control of the RACA for delivery.\n(2) After considering an application under paragraph (1), the NCASA may —\n(a)approve the RACA’s application, with or without conditions, including requiring the RACA to implement such security measures and procedures at the site or facility as the NCASA may specify; or\n(b)reject the RACA’s application.\n(3) Where the NCASA rejects a RACA’s application, the RACA may, within 21 days after receiving notice of the NCASA’s decision, appeal in writing to the Minister against that decision, and the Minister’s decision on appeal is final.\n[S 985/2020 wef 04/12/2020]\n(4) Any RACA who fails to comply with any requirement under paragraph (2)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both."
+   }
+  },
+  {
+   "id": "SG-H178-A19.001",
+   "no": 19.001,
+   "noLabel": {
+    "en": "19A."
+   },
+   "chapter": {
+    "en": "PART 4A KNOWN CONSIGNOR SECURITY PROGRAMME"
+   },
+   "heading": {
+    "en": "KC must have KC security programme"
+   },
+   "text": {
+    "en": "19A.—(1) For the purposes of section 17E of the Act, every KC (except the KC mentioned in paragraph (4)) must have a security programme (called a known consignor security programme or KCSP) that —\n(a)sets out the measures and procedures to be used to manufacture, pack, store and transport cargo for export in an aircraft in a secure manner; and\n(b)contains —\n(i)details of all sites covered by the KCSP and operated by or on behalf of the KC in connection with cargo intended for export by aircraft;\n(ii)details of all facilities covered by the KCSP and operated by or on behalf of the KC in connection with cargo intended for export by aircraft;\n(iii)the name of each such site or facility and its location; and\n(iv)details of security procedures at each site or facility outside its normal hours of operation.\n(2) The measures and procedures in paragraph (1) must be applied —\n(a)to all cargo for export in an aircraft that are in the KC’s possession or under the KC’s control; and\n(b)at each site or facility covered by the KCSP.\n(3) Without limiting paragraph (1), every KCSP must —\n(a)set out the measures and procedures to ensure the security of cargo for export in an aircraft at all times, including —\n(i)the measures and procedures to detect tampering and other discrepancies with cargo when the cargo is in the KC’s possession or under the KC’s control;\n(ii)the methods to be used to prevent unauthorised persons from having access to cargo from the time the cargo is in the KC’s possession or under the KC’s control, until the time the KC passes possession or control of the cargo to another aviation industry participant;\n(iii)the measures and procedures to inspect unknown cargo for items that could facilitate an act of unlawful interference with aviation, in a case where the KC has indicated to the NCASA that it intends to do so; and\n(iv)the measures and procedures to keep unknown cargo separate from other cargo in the KC’s possession or under the KC’s control, and to identify such unknown cargo to another aviation industry participant;\n(b)set out the procedures for managing security at each of the known consignor’s facilities, including —\n(i)organisational structures and security management arrangements;\n(ii)the roles and responsibilities of security contact officers, security staff and contractors; and\n(iii)the roles and responsibilities of other staff assigned security duties and responsibilities;\n(c)set out the measures and procedures in relation to managing persons who have access to cargo for export in an aircraft that are in the KC’s possession or control, and persons who are assigned security duties and responsibilities, including —\n(i)measures and procedures on pre-employment screening of staff;\n(ii)measures and procedures to handle resignation or termination of staff; and\n(iii)the training of staff to respond to aviation security incidents at sites and facilities covered by the KCSP and operated by or on behalf of the KC;\n(d)set out, as appropriate to the operations at each of the KC’s sites and facilities, security measures and procedures to be used within the site or facility, including measures and procedures, so as to control access to the site or facility or parts of the site or facility and maintain the integrity of access control systems and to deter and detect unauthorised access into the site or facility or parts of the site or facility by people, vehicles or things;\n(e)set out the measures to ensure that the KCSP and other security information are protected against unauthorised access, amendment and disclosure;\n(f)set out the measures and procedures for the manufacturing, packing, storage and transport of cargo for export in an aircraft that falls within one of the following categories:\n(i)arms and explosives, referring to any item regulated under the Arms and Explosives Act (Cap. 13);\n(ii)dangerous goods, referring to any item described as a dangerous good in the Technical Instructions for the Safe Transport of Dangerous Goods by Air (Doc 9284), approved and issued in accordance with the procedure established by the Council of the International Civil Aviation Organisation, as amended from time to time;\n(g)set out quality control procedures, including details of how audits are scheduled, the procedures for carrying out an audit, the procedures for reviewing the KCSP and a description of the circumstances that will require a review of the KCSP;\n(h)set out the details of third-party service providers and the measures which the KC will take to ensure that the third-party service providers comply with the security measures to be undertaken under the KCSP; and\n(i)indicate the KC’s representative responsible for carrying out any security directions given by the NCASA under the Act in the event of a heightened security alert.\n(4) The following KC are not required to have a KCSP:\n(a)a KC who, immediately before registration under regulation 6, is accredited by Singapore Customs with the Secure Trade Partnership (STP) or Secure Trade Partnership Plus (STP-PLUS);\n(b)a KC who, immediately before registration under regulation 6, holds any of the following industry-recognised security certification:\n(i)an Air Cargo Security Standards Level 1, issued by the Transported Asset Protection Association;\n(ii)a Customs-Trade Partnership Against Terrorism Tier 2 or Tier 3 certification, issued by the United States Customs and Border Protection.\n[S 985/2020 wef 04/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H178-A19.002",
+   "no": 19.002,
+   "noLabel": {
+    "en": "19B."
+   },
+   "chapter": {
+    "en": "PART 4A KNOWN CONSIGNOR SECURITY PROGRAMME"
+   },
+   "heading": {
+    "en": "Review and alteration of KCSP"
+   },
+   "text": {
+    "en": "19B.—(1) The NCASA may, from time to time, require a KC to —\n(a)review and alter the KC’s KCSP to incorporate such new security measures and procedures into the KCSP as the NCASA deems fit; and\n(b)implement such new security measures and procedures in the KCSP by such date as may be specified by the NCASA,\nand the KC must comply with that requirement.\n(2) A KC must not alter the KCSP without the prior approval of the NCASA and any alteration made to the KCSP without the approval of the NCASA is void.\n[S 985/2020 wef 04/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H178-A19.003",
+   "no": 19.003,
+   "noLabel": {
+    "en": "19C."
+   },
+   "chapter": {
+    "en": "PART 4B DUTIES OF KNOWN CONSIGNORS"
+   },
+   "heading": {
+    "en": "Notification of change of particulars"
+   },
+   "text": {
+    "en": "19C.—(1) A KC must, within 7 days from and including the date of any change taking place in any of the particulars in regulation 5 that were declared by the KC in the KC’s application for registration or renewal of registration (as the case may be), inform the NCASA of the change in such form and manner as the NCASA may determine.\n(2) Any KC who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 30 months or to both.\n[S 985/2020 wef 04/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H178-A19.004",
+   "no": 19.004,
+   "noLabel": {
+    "en": "19D."
+   },
+   "chapter": {
+    "en": "PART 4B DUTIES OF KNOWN CONSIGNORS"
+   },
+   "heading": {
+    "en": "KC must comply with KCSP"
+   },
+   "text": {
+    "en": "19D. A KC must manufacture, pack, store and transport cargo intended for export in an aircraft in accordance with the security measures and procedures described in the KCSP.\n[S 985/2020 wef 04/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H178-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Preservation of secrecy"
+   },
+   "text": {
+    "en": "20.—(1) No person may disclose any information which has been obtained by that person in the performance of that person’s duties or the exercise of that person’s functions in relation to the operations of a RACA (including the RACA’s RACASP) or KC (including the KC’s KCSP) (as the case may be) unless the disclosure is —\n(a)required for the purpose of performing that person’s duties or exercising that person’s functions under these Regulations or Part IIB of the Act;\n(b)required by any court;\n(c)required by the NCASA; or\n(d)required under the provisions of any written law.\n[S 985/2020 wef 04/12/2020]\n(2) Any person who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 30 months or to both."
+   }
+  },
+  {
+   "id": "SG-H178-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Revocation and saving"
+   },
+   "text": {
+    "en": "21.—(1) The Air Navigation (Regulated Air Cargo Agents) Order (O 8) is revoked (called in this regulation the revoked Order).\n(2) Any certificate issued, and any direction or notice given, by the Commissioner of Police under the revoked Order and that is in force immediately before 15 May 2017 continues as if issued or given by the NCASA under the corresponding provision in these Regulations.\n(3) Any application for registration or a renewal of registration as a RACA made to the Commissioner of Police under the revoked Order and which is pending immediately before 15 May 2017 is deemed to be an application under regulation 4 or 7, as the case may be."
+   }
+  }
+ ]
+}

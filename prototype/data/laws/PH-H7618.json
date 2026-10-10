@@ -1,0 +1,94 @@
+{
+ "id": "PH-H7618",
+ "title": {
+  "zh": null,
+  "en": "An act providing for the Protection of Layout-Designs (Topographies) of Integrated Circuits, Amending for the Purpose Certain Sections of Republic Act No. 8293, otherwise known as the Intellectual Property Code of the Philippines and for other Purposes",
+  "orig": "An act providing for the Protection of Layout-Designs (Topographies) of Integrated Circuits, Amending for the Purpose Certain Sections of Republic Act No. 8293, otherwise known as the Intellectual Property Code of the Philippines and for other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p108",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2001-08-06",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 9150",
+ "officialCode": null,
+ "topics": [
+  "ip"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1155,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9150_2001.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2001/ra_9150_2001.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 条号自第 2 条起而非自 1 起（止于第 6 条）：本法为“修改型法条”，仅重述被修改的个别条文，条号承被修改法之后，属该体例使然。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H7618-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Implementing Rules and Regulations. - The Intellectual Property Office may issue Regulations prescribing details for the implementation of this law. The Regulations may, in particular, provide for the payment of fees in connection with applications for the registration of layout-designs of integrated circuits and matters related thereto, including Administrative Instructions relating to the procedures and other functions of the responsible until duly designated by the Director General."
+   }
+  },
+  {
+   "id": "PH-H7618-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Applicability. - The provisions of this Act shall apply to layout-designs of integrated circuits that were commercially exploited anywhere in the world from and after January 1998 provided they meet the conditions for protection under this Act."
+   }
+  },
+  {
+   "id": "PH-H7618-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Repealing Clause. - All acts and parts of acts inconsistent herewith are hereby repealed or amended accordingly."
+   }
+  },
+  {
+   "id": "PH-H7618-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Separability Clause. - If any provision of this Act or the application of such provision to any circumstance is held invalid, the remainder of this Act shall not be affected thereby."
+   }
+  },
+  {
+   "id": "PH-H7618-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation."
+   }
+  }
+ ]
+}

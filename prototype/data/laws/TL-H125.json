@@ -1,0 +1,68 @@
+{
+ "id": "TL-H125",
+ "title": {
+  "zh": "Primeira 修改 à《第16/2011号法律》，核准2012年国家总预算",
+  "en": null,
+  "orig": "Primeira Alteração à Lei n.º 16/2011, de 21 de Dezembro, que Aprova o Orçamento Geral do Estado para 2012"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p03",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2012-10-30",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "本法系对《第16/2011号法律》的修改。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 8/2012",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 503,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2012/serie_1/serie1_no37a.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自官方公报 PDF（public/docs/2012/serie_1/serie1_no37a.pdf）第 1–35 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 【本法系对《第16/2011号法律》的修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H125-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Alteração ao Orçamento Geral do Estado para 2012"
+   },
+   "text": {
+    "pt": "1 -  É alterado o Orçamento Geral do Estado para 2012, aprovado pela Lei n.º 16/2011, de 21 de Dezembro, na parte relativa às tabelas constantes dos Anexos I, II, III, IV e V a essa lei.\n2 -  A alteração referida no número anterior consta das tabelas dos Anexos I, II, III, IV e V à presente lei, que substituem as tabelas dos Anexos I, II, III, IV e V da Lei n.º 16/2011, de 21 de Dezembro."
+   }
+  },
+  {
+   "id": "TL-H125-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente Lei entra em vigor no dia seguinte ao da sua publicação, com efeitos a partir de 9 de Agosto de 2012."
+   }
+  }
+ ]
+}

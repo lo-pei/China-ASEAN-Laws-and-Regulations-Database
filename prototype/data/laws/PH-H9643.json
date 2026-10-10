@@ -1,0 +1,94 @@
+{
+ "id": "PH-H9643",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing for the Reapportionment of the Province of Southern Leyte Into Two (2) Legislative Districts",
+  "orig": "An Act Providing for the Reapportionment of the Province of Southern Leyte Into Two (2) Legislative Districts"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p137",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2019-02-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 11198",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1389,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11198_2019.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2019/ra_11198_2019.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H9643-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Legislative Districts. - On the next national and local elections after the effectivity of this Act, the Province of Southern Leyte is hereby reappointed into two (2) legislative districts, as follows:\n(a) First Legislative District. - The First Legislative District shall be composed of the City of Maasin and the municipalities of Macrohon, Padre Burgos, Limasawa, Malitbog, Tomas Oppus and Bontoc; and\n(b) Second Legislative District. - The Second Legislative District shall be composed of the municipalities of Sogod, Libagon. Liloan, San Francisco, Pintuyan, San Ricardo, Saint Bernard, Anahawan, San Juan, Hinundayan, Hinunangan and Silago."
+   }
+  },
+  {
+   "id": "PH-H9643-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Holdover. - The incumbent Representative of the Lone Legislative District of the Province of Southern Leyte shall continue to represent the legislative district until the new representatives of the First and Second Legislative Districts shall have been duly elected and qualified."
+   }
+  },
+  {
+   "id": "PH-H9643-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Implementing Rules and Regulations. - The Commission on Elections shall issue the necessary rules and regulations to implement this Act within thirty (30) days after its effectivity."
+   }
+  },
+  {
+   "id": "PH-H9643-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Repealing Clause. - All laws, rules and regulations which are inconsistent with this Act are hereby repealed, or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H9643-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Effectivity. - This act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
+   }
+  }
+ ]
+}

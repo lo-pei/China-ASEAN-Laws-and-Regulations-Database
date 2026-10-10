@@ -1,0 +1,64 @@
+{
+ "id": "PH-H223",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending the Third Paragraph of Section Sixteen Hundred and Thirty-Seven of the Revised Administrative Code, as Amended",
+  "orig": "An Act Amending the Third Paragraph of Section Sixteen Hundred and Thirty-Seven of the Revised Administrative Code, as Amended"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p02",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1947-06-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 126",
+ "officialCode": null,
+ "topics": [
+  "administrative"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1514,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1947/ra_126_1947.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1947/ra_126_1947.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H223-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The third paragraph of section sixteen hundred and thirty-seven of the Revised Administrative Code, as amended by Act Forty-two hundred and thirty-three is further amended to read as follows:\n\"Within the first ten days of January and July of each year, every banking institution and/or every mutual building and loan association shall pay a fee to the Bank Commissioner in an amount equivalent to one seventy-sixth of one per cent of the average total assets of such banking institution and/or mutual building and loan association during the preceding six months, but in no case shall such fee be less than fifty pesos: Provided, However, That the aggregate of such fees collected in any one year shall not exceed the total actual expenses of the Bureau of Banking during the year. In the event that the proportion of fees based upon the averaged total assets of all banking institutions and/or mutual building and loan associations shall aggregate an amount in excess of the total actual expenses of the Bureau of Banking, in any one year, the ratio of the fee to the average total assets of all such banking institutions and/or mutual building and loan associations shall correspondingly reduced. The Bank Commissioner shall, by regulation, prescribe the manner of determining the average total assets of banking institutions and mutual building and loan associations for the purpose of the payment of fees.\""
+   }
+  },
+  {
+   "id": "PH-H223-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect as of January one, nineteen hundred and forty-seven.\nApproved: June 14, 1947."
+   }
+  }
+ ]
+}

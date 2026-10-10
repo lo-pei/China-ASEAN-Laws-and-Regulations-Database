@@ -1,0 +1,94 @@
+{
+ "id": "SG-H1077",
+ "title": {
+  "zh": null,
+  "en": "Cybersecurity (Systems of Temporary Cybersecurity Concern) Regulations 2025",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p14",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CA2018-S680-2025",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 10662,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CA2018-S680-2025?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 4 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1077-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Cybersecurity (Systems of Temporary Cybersecurity Concern) Regulations 2025 and come into operation on 31 October 2025."
+   }
+  },
+  {
+   "id": "SG-H1077-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Information to ascertain if computer, etc., fulfils criteria of system of temporary cybersecurity concern"
+   },
+   "text": {
+    "en": "2.—(1) For the purposes of section 17A(2) of the Act, a notice to provide relevant information to the Commissioner under that provision must be given in writing in the form set out on the Internet website at https://www.csa.gov.sg.\n(2) The Commissioner may by notice under section 17A(2) of the Act require a person who appears to be exercising control over a computer or computer system, to provide to the Commissioner the following information relating to that computer or computer system as is relevant for the purpose of ascertaining whether the computer or computer system fulfils the criteria of a system of temporary cybersecurity concern:\n(a)the name and location of the computer or computer system;\n(b)the function that the computer or computer system is employed to serve;\n(c)the type of service (if applicable) that the computer or computer system has a role in making available in Singapore, and the role performed by the computer or computer system;\n(d)the person or persons, or other computer or computer systems, that the computer or computer system mentioned in the notice serves;\n(e)information relating to the design of the computer or computer system, including the parameters and key components of the computer system, as specified in the notice;\n(f)if the computer or computer system is a virtual computer or virtual computer system, information relating to the physical computing resources used for the simulation of the virtual computer or virtual computer system, including identifying information relating to the cloud computing service provider where the physical computing resources used for the simulation of the virtual computer or virtual computer system are provided by a cloud computing service provider;\n(g)the name, address, contact and business registration number (if applicable) of the person to whom the notice is given;\n(h)if the person to whom the notice is given is not the owner of the computer or computer system, the name, address, contact and business registration number (if applicable) of the owner;\n(i)any other information that the Commissioner may require in order to ascertain whether the computer or computer system fulfils the criteria of a system of temporary cybersecurity concern.\n(3) In this regulation, “location”, in relation to a computer or computer system that is a virtual computer or virtual computer system, means the location of the physical computing resources deployed for the simulation of the virtual computer or virtual computer system."
+   }
+  },
+  {
+   "id": "SG-H1077-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Information relating to system of temporary cybersecurity concern"
+   },
+   "text": {
+    "en": "3.—(1) For the purposes of section 17D(1) of the Act, a notice to the owner of a system of temporary cybersecurity concern to furnish information required under that provision must be given in writing in the form set out on the Internet website at https://www.csa.gov.sg.\n(2) The Commissioner may by notice under section 17D(1) of the Act require the owner of the system of temporary cybersecurity concern to provide to the Commissioner —\n(a)the following information on the design, configuration and security of the system of temporary cybersecurity concern:\n(i)a network diagram depicting every key component and interconnection in the system of temporary cybersecurity concern, and any external connection and dependency that the system of temporary cybersecurity concern may have;\n(ii)for every key component in the system of temporary cybersecurity concern, the following details:\n(A)its name and description;\n(B)its physical location;\n(C)any operating system and version;\n(D)any key software and version;\n(E)its internet protocol address and any open port, if the component is internet facing;\n(F)the name and address of the operator, if the owner is not the operator;\n(iii)the types of data processed on or stored in the system of temporary cybersecurity concern;\n(iv)the name and contact of every individual having overall responsibility for the cybersecurity of the system of temporary cybersecurity concern;\n(b)the following information on the design, configuration and security of any other computer or computer system under the owner’s control that is interconnected with or that communicates with the system of temporary cybersecurity concern:\n(i)the name and description of that other computer or computer system;\n(ii)the physical location of that other computer or computer system;\n(iii)the name and address of its operator, if the owner is not the operator;\n(iv)a description of any function provided by that other computer or computer system;\n(v)the types of data exchanged with the system of temporary cybersecurity concern;\n(vi)the operating system and version;\n(vii)the key software and version;\n(viii)how that other computer or computer system is interconnected with or communicates with the system of temporary cybersecurity concern, including the communication protocol of that other computer or computer system with the system of temporary cybersecurity concern;\n(c)the name of any outsourced service provider supporting the system of temporary cybersecurity concern, and the nature of the outsourced service; and\n(d)any other information that the Commissioner may require in order to ascertain the level of cybersecurity of the system of temporary cybersecurity concern.\n(3) In this regulation, “physical location” —\n(a)in relation to a key component of a system of temporary cybersecurity concern that is a virtual computer or virtual computer system, means the physical location of the physical computing resources deployed for the simulation of the key component of the virtual computer or virtual computer system; or\n(b)in relation to a computer or computer system that is a virtual computer or virtual computer system, means the physical location of the physical computing resources deployed for the simulation of the virtual computer or virtual computer system."
+   }
+  },
+  {
+   "id": "SG-H1077-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Report of cybersecurity incident in respect of system of temporary cybersecurity concern"
+   },
+   "text": {
+    "en": "4.—(1) For the purposes of section 17F(1) of the Act, where a cybersecurity incident mentioned in section 17F(1)(a), (b) or (c) of the Act occurs, the owner of a system of temporary cybersecurity concern must notify the Commissioner of the occurrence of the cybersecurity incident in the following form and manner:\n(a)by submitting the following details in the manner specified in paragraph (2), within 2 hours after becoming aware of the occurrence:\n(i)the system of temporary cybersecurity concern which the cybersecurity incident relates to;\n(ii)the name and contact number of the owner of the system of temporary cybersecurity concern;\n(iii)the nature of the cybersecurity incident, whether it was in respect of the system of temporary cybersecurity concern or an interconnected computer or computer system, and when and how it occurred;\n(iv)the resulting effect that has been observed, including how the system of temporary cybersecurity concern or any interconnected computer or computer system has been affected;\n(v)the name, designation, organisation and contact number of the individual submitting the notification;\n(b)by providing to the fullest extent practicable the following supplementary details in writing in the form set out on the Internet website at https://www.csa.gov.sg within 72 hours after becoming aware of the occurrence:\n(i)any updates and supplementary details in respect of the details submitted under sub‑paragraph (a);\n(ii)the cause of the cybersecurity incident;\n(iii)the impact of the cybersecurity incident on the system of temporary cybersecurity concern or any interconnected computer or computer system, or on the business operations of the owner of the system of temporary cybersecurity concern;\n(iv)what remedial measures have been taken;\n(c)by providing a final incident report containing the following details in writing in the form set out on the Internet website at https://www.csa.gov.sg within 30 days (including any Sunday and public holiday) after the submission mentioned in sub‑paragraph (b) is made:\n(i)the details submitted under sub‑paragraphs (a) and (b);\n(ii)to the fullest extent practicable, any updates and supplementary details in respect of the information submitted under sub‑paragraphs (a) and (b).\n(2) The details mentioned in paragraph (1)(a) must be submitted —\n(a)by calling the telephone number specified by the Commissioner; or\n(b)if the owner is unable to submit the details in the manner set out in sub‑paragraph (a) within a reasonable time —\n(i)by text message to the telephone number specified by the Commissioner; or\n(ii)in writing, in the form set out on the Internet website at https://www.csa.gov.sg, to the electronic address specified by the Commissioner.\n(3) For the purposes of section 17F(1)(a), (b) and (c) of the Act, the following are prescribed cybersecurity incidents in respect of a system of temporary cybersecurity concern or an interconnected computer or computer system:\n(a)any unauthorised hacking of the system of temporary cybersecurity concern or the interconnected computer or computer system to gain unauthorised access to or control of the system of temporary cybersecurity concern or interconnected computer or computer system;\n(b)any installation or execution of unauthorised software, or computer code, of a malicious nature on the system of temporary cybersecurity concern or the interconnected computer or computer system;\n(c)any man‑in‑the‑middle attack, session hijack or other unauthorised interception by means of a computer or computer system of communication between the system of temporary cybersecurity concern or the interconnected computer or computer system, and an authorised user of the system of temporary cybersecurity concern or the interconnected computer or computer system, as the case may be;\n(d)any denial of service attack or other unauthorised act or acts carried out through a computer or computer system that adversely affects the availability or operability of the system of temporary cybersecurity concern or the interconnected computer or computer system.\n(4) In this regulation —\n“interception”, in relation to a communication to or from a system of temporary cybersecurity concern or an interconnected computer or computer system, includes —\n(a)listening to or the recording of the communication; and\n(b)acquiring the substance, meaning or purport of that communication;\n“interconnected computer or computer system” means any computer or computer system under the control of the owner of a system of temporary cybersecurity concern, or under the control of a supplier to the owner, that is interconnected with or that communicates with the system of temporary cybersecurity concern."
+   }
+  }
+ ]
+}

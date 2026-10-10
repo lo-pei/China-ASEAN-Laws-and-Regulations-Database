@@ -1,0 +1,77 @@
+{
+ "id": "CN-LAW-0040",
+ "title": {
+  "zh": "全国人民代表大会常务委员会关于修改《中华人民共和国环境保护税法》的决定",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p01",
+ "language": "zh",
+ "level": "law",
+ "category": "法律",
+ "status": "active",
+ "promulgatedDate": "2025-10-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 449,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\法律\\全国人民代表大会常务委员会关于修改《中华人民共和国环境保护税法》的决定_20251028.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，整篇作为一条录入，共 1 条；来源为项目数据资源中的官方汇编文件（全国人民代表大会常务委员会关于修改《中华人民共和国环境保护税法》的决定_20251028.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-LAW-0040-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "全文"
+   },
+   "text": {
+    "zh": "全国人民代表大会常务委员会关于\n修改《中华人民共和国环境保护税法》的决定\n（2025年10月28日第十四届全国人民代表大会常务委员会第十八次会议通过）\n第十四届全国人民代表大会常务委员会第十八次会议决定对《中华人民共和国环境保护税法》作如下修改：\n增加一条，作为第二十七条：“国务院根据国民经济和社会发展以及环境保护需要，对直接向环境排放本法所附《应税污染物和当量值表》规定以外的挥发性有机物的企业事业单位和其他生产经营者开展征收环境保护税试点工作。试点实施办法由国务院制定，报全国人民代表大会常务委员会备案。\n“国务院及其有关部门应当根据挥发性有机物的特点，合理设定征税范围和税额幅度，完善监测技术和排放量计算方法，加强工作协同，加快推进试点工作。\n“国务院自试点实施办法施行之日起五年内，就征收挥发性有机物环境保护税试点情况向全国人民代表大会常务委员会报告，并提出修改法律的建议。”\n本决定自公布之日起施行。\n《中华人民共和国环境保护税法》根据本决定作相应修改并对条文顺序作相应调整，重新公布。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "law",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "全国人民代表大会常务委员会关于修改《中华人民共和国环境保护税法》的决定"
+  },
+  "promulgatedDate": "2025-10-28",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "法律"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

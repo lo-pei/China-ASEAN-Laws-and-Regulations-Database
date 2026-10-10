@@ -1,0 +1,130 @@
+{
+ "id": "CN-JI-0204",
+ "title": {
+  "zh": "最高人民法院关于确定民事侵权精神损害赔偿责任若干问题的解释",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p08",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2001-02-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "最高人民法院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 425,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于确定民事侵权精神损害赔偿责任若干问题的解释_20201229.doc",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，第一条至第六条，共 6 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于确定民事侵权精神损害赔偿责任若干问题的解释_20201229.doc）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0204-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "第一条"
+   },
+   "text": {
+    "zh": "因人身权益或者具有人身意义的特定物受到侵害，自然人或者其近亲属向人民法院提起诉讼请求精神损害赔偿的，人民法院应当依法予以受理。"
+   }
+  },
+  {
+   "id": "CN-JI-0204-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "第二条"
+   },
+   "text": {
+    "zh": "非法使被监护人脱离监护，导致亲子关系或者近亲属间的亲属关系遭受严重损害，监护人向人民法院起诉请求赔偿精神损害的，人民法院应当依法予以受理。"
+   }
+  },
+  {
+   "id": "CN-JI-0204-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "第三条"
+   },
+   "text": {
+    "zh": "死者的姓名、肖像、名誉、荣誉、隐私、遗体、遗骨等受到侵害，其近亲属向人民法院提起诉讼请求精神损害赔偿的，人民法院应当依法予以支持。"
+   }
+  },
+  {
+   "id": "CN-JI-0204-A4",
+   "no": 4,
+   "noLabel": {
+    "zh": "第四条"
+   },
+   "text": {
+    "zh": "法人或者非法人组织以名誉权、荣誉权、名称权遭受侵害为由，向人民法院起诉请求精神损害赔偿的，人民法院不予支持。"
+   }
+  },
+  {
+   "id": "CN-JI-0204-A5",
+   "no": 5,
+   "noLabel": {
+    "zh": "第五条"
+   },
+   "text": {
+    "zh": "精神损害的赔偿数额根据以下因素确定：\n（一）侵权人的过错程度，但是法律另有规定的除外；\n（二）侵权行为的目的、方式、场合等具体情节；\n（三）侵权行为所造成的后果；\n（四）侵权人的获利情况；\n（五）侵权人承担责任的经济能力；\n（六）受理诉讼法院所在地的平均生活水平。"
+   }
+  },
+  {
+   "id": "CN-JI-0204-A6",
+   "no": 6,
+   "noLabel": {
+    "zh": "第六条"
+   },
+   "text": {
+    "zh": "在本解释公布施行之前已经生效施行的司法解释，其内容有与本解释不一致的，以本解释为准。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于确定民事侵权精神损害赔偿责任若干问题的解释"
+  },
+  "issuingBody": {
+   "zh": "最高人民法院"
+  },
+  "promulgatedDate": "2001-02-26",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

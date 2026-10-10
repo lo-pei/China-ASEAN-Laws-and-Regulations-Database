@@ -1,0 +1,75 @@
+{
+ "id": "PH-H633",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Republic Act Numbered Two Hundred and Ninety-six Authorizing the Justices of the Peace and Judges of the Municipal Courts to Have Concurrent Jurisdiction With the Courts of First Instance on Cases of Adoption and Appointment of Guardians",
+  "orig": "An Act to Amend Republic Act Numbered Two Hundred and Ninety-six Authorizing the Justices of the Peace and Judges of the Municipal Courts to Have Concurrent Jurisdiction With the Courts of First Instance on Cases of Adoption and Appointment of Guardians"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p08",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1951-06-12",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 644",
+ "officialCode": null,
+ "topics": [
+  "judiciary",
+  "civil"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2128,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1951/ra_644_1951.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1951/ra_644_1951.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H633-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section eighty-six of Republic Act Numbered Two hundred and ninety-six is hereby amended to read as follows:\n\"Section 86. Jurisdiction of justices of the peace and judges of municipal courts of chartered cities.-The jurisdiction of justices of the peace and judges of municipal courts of chartered cities shall consist of:\n\"(a) Original jurisdiction to try criminal cases in which the offense charged has been committed within their respective territorial jurisdiction;\n\"(b) Original jurisdiction in civil actions arising in their respective municipalities and cities, and not exclusively cognizable by the Courts of First Instance; and \"(c) The last phrase of paragraph (e) of section forty-three of this Act, notwithstanding, justices of the peace and judges of municipal courts shall have concurrent jurisdiction with the Courts of First Instance in the appointment of guardians and adoption cases.\""
+   }
+  },
+  {
+   "id": "PH-H633-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The second paragraph of section eighty-eight of the same Act is hereby amended to read as follows:\n\"The jurisdiction of a justice of the peace and judge of a municipal court shall not extend to civil actions in which the subject of litigation is not capable of pecuniary estimation, except in forcible entry and detainer cases; nor to those which involve the legality of any tax, impost, to assessment; nor to actions involving admiralty or maritime jurisdiction; nor to matters of probate, the appointment of trustees or receivers; nor to actions for annulment of marriages: Provided, however, That justices of the peace who are duly qualified members of the bar may, with the approval of the Secretary of Justice, be assigned by the respective district judge in each case to hear and determine cadastral or land registration cases covering lots where there is no controversy or opposition, or contested lots the value of which does not exceed two thousand pesos, such value to be ascertained by the affidavit of the claimant or by agreement of the respective claimants, if there are more than one, or from the corresponding declaration of real property.\""
+   }
+  },
+  {
+   "id": "PH-H633-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 12, 1951."
+   }
+  }
+ ]
+}

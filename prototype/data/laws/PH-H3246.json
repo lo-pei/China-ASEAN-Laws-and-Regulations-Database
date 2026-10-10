@@ -1,0 +1,74 @@
+{
+ "id": "PH-H3246",
+ "title": {
+  "zh": "设立Polangui市",
+  "en": "An Act Converting Albay High School in the Municipality of Polangui, Province of Albay, into a National School to be Known as Polangui General Comprehensive High School, and Authorizing the Appropriation of Necessary Funds Therefor",
+  "orig": "An Act Converting Albay High School in the Municipality of Polangui, Province of Albay, into a National School to be Known as Polangui General Comprehensive High School, and Authorizing the Appropriation of Necessary Funds Therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p46",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1964-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 3993",
+ "officialCode": null,
+ "topics": [
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1063,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1964/ra_3993_1964.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1964/ra_3993_1964.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3246-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The Albay High School in the Municipality of Polangui, Province of Albay, is hereby converted into a national high school, to be known as Polangui General Comprehensive High School. Comprehensive curriculum which includes both academic and vocational courses shall be offered. The Secretary of Education is hereby empowered to reorganize the said school accordingly.\nUpon organization of the Polangui General Comprehensive High School, the assets, liabilities, personnel, equipment and records of the Albay High School shall stand transferred to Polangui General Comprehensive High School."
+   }
+  },
+  {
+   "id": "PH-H3246-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of the said school for the fiscal year nineteen hundred sixty-five. Thereafter, the necessary sum for the operation and maintenance of the said school shall be included in the annual General Appropriations Act."
+   }
+  },
+  {
+   "id": "PH-H3246-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1964."
+   }
+  }
+ ]
+}

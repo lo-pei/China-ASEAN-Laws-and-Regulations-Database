@@ -1,0 +1,81 @@
+{
+ "id": "SG-H508",
+ "title": {
+  "zh": null,
+  "en": "Central Provident Fund (Exemption for Protection of Benefits under Part V Assurance) Order 2007",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p07",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CPFA1953-OR8",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1344,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CPFA1953-OR8?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H508-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Order is the Central Provident Fund (Exemption for Protection of Benefits under Part V Assurance) Order 2007."
+   }
+  },
+  {
+   "id": "SG-H508-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In this Order —\n“automatic premium loan feature” means a feature in a life or endowment assurance which allows the issuer of the assurance to advance and set‑off, against any cash value of the assurance, an amount for the payment of —\n(a)any premium of the assurance which is in arrears after any grace period, so as to protect the benefits under the assurance; and\n(b)any interest payable for the advance;\n“Part V Assurance” means a life or endowment assurance effected under Part V of Statute 18 (as defined in section 18(7) of the National University of Singapore (Corporatisation) Act 2005)."
+   }
+  },
+  {
+   "id": "SG-H508-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "3. Section 24(2) of the Act and regulation 6 of the Central Provident Fund (Investment Schemes) Regulations 2000 do not apply to a member, in respect of any Part V Assurance held by him or her which has an automatic premium loan feature, only to the extent that the issuer of the Part V Assurance may advance and set‑off (under the automatic premium loan feature), against any cash value of the Part V Assurance, an amount for the payment of —\n(a)any premium of the Part V Assurance which is in arrears after any grace period, so as to protect the benefits under the Part V Assurance; and\n(b)any interest payable for the advance."
+   }
+  }
+ ]
+}

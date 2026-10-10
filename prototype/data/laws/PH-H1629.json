@@ -1,0 +1,114 @@
+{
+ "id": "PH-H1629",
+ "title": {
+  "zh": null,
+  "en": "An Act to Establish Island Emergency Hospitals Under the Bureau of Hospitals and First Class Dispensaries and Health Centers Under the Bureau of Health and Providing Funds Therefor",
+  "orig": "An Act to Establish Island Emergency Hospitals Under the Bureau of Hospitals and First Class Dispensaries and Health Centers Under the Bureau of Health and Providing Funds Therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p23",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1957-06-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1795",
+ "officialCode": null,
+ "topics": [
+  "health"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 7,
+ "chars": 3243,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1957/ra_1795_1957.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 7 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1957/ra_1795_1957.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1629-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There is hereby established, under the Bureau of Hospitals, island emergency hospitals in each of the following island municipalities: San Francisco, Camotes Island, and Bantayan, Bantayan Island, Province of Cebu; Buenavista, Guimaras Island, Province of Iloilo; Naval, Biliran Island, Province of Leyte; Tablas Island, Province of Romblon; and Dapa, Siargao Island, Province of Surigao, each of which shall be under the management and supervision of a chief who must be a physician of good repute, graduated from a medical college of recognized standing and has five years practice of medicine. The Director of each said hospitals shall be appointed by the Secretary of Health upon the recommendation of the Director of Hospitals and shall have all the powers conferred generally on chiefs of Government hospitals."
+   }
+  },
+  {
+   "id": "PH-H1629-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Each of the emergency hospitals established in this Act is hereby given twenty-five thousand pesos to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for its construction, operation and maintenance."
+   }
+  },
+  {
+   "id": "PH-H1629-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "There is hereby established, under the Bureau of Health, first class dispensaries in an isolated island in each of the following places: Bato-Bato, Tawi-Tawi Island, Province of Sulu; Rapu-Rapu, Rapu-Rapu Island, Province of Albay; Anda, Anda Island, Province of Pangasinan; Alabat, Alabat Island, Province of Quezon; Lubang, Lubang Island, Province of Mindoro Occidental; Babac, Samal Island, Province of Davao; Liloan, Panaon Island, Province of Leyte; San Jacinto, Ticao Island, Province of Masbate; San Fernando, Sibuyan Island, Province of Romblon; Coron, Busuanga Island, Province of Palawan; and Pilar Island, Province of Cebu."
+   }
+  },
+  {
+   "id": "PH-H1629-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Each of the first class dispensaries established in this Act is hereby given ten thousand pesos to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for its construction, operation and maintenance."
+   }
+  },
+  {
+   "id": "PH-H1629-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "There is hereby established, under the Bureau of Health, health centers in each of the following places: Bungo Island, Parang, Province of Cotabato; Gigantes Island, Carles, and Sicogon Island, Carles, Province of Iloilo; Cardona Side, Binangonan Side, Talim Island, Province of Rizal; barrio Pamarawan, Malolos, Province of Bulacan, Molocaboc Island, Sagay, Province of Negros Occidental; Sipaway, Sipaway Island, San Carlos, Province of Negros Occidental; Sacol Island, Zamboanga City; Polillo Island, Province of Quezon; Concepcion, Maestre de Campo Island, Jones, Banton Island and Corcuera, Simara Island, all in the Province of Romblon; Araceli, Dumaran Island, Cagayancillo, Cagayancillo Island, and Balabac, Balabac Island, all in the Province of Palawan; Calayan, Calayan Island, Province of Cagayan; Itbayat, Itbayat Island, and Sabtang, Sabtang Island, Province of Batanes; Cagayan de Sulu, Cagayan de Sulu Island, Province of Sulu; and San Pascual, Burias Island, Province of Masbate."
+   }
+  },
+  {
+   "id": "PH-H1629-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Each of the health centers established in this Act is hereby given five thousand pesos to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for its construction, operation and maintenance."
+   }
+  },
+  {
+   "id": "PH-H1629-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "This Act, except as otherwise provided, shall take effect upon its approval.\nApproved: June 21, 1957."
+   }
+  }
+ ]
+}

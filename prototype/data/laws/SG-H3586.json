@@ -1,0 +1,788 @@
+{
+ "id": "SG-H3586",
+ "title": {
+  "zh": null,
+  "en": "Private Security Industry Act 2007",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p45",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act PSIA2007",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 47,
+ "chars": 70249,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/PSIA2007?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 47 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3586-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Private Security Industry Act 2007."
+   }
+  },
+  {
+   "id": "SG-H3586-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "General interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“approved” means approved by the licensing officer;\n“authorised point of departure” and “authorised point of entry” have the meanings given by section 2 of the Immigration Act 1959;\n“bouncer” means a person who, in respect of any place of entertainment or other similar premises, and as part of his or her regular duties, performs for reward any function of —\n(a)screening individuals seeking entry;\n(b)controlling or monitoring the behaviour of individuals; or\n(c)removing individuals for behavioural reasons;\n“business entity” includes —\n(a)a sole proprietorship or firm registered under the Business Names Registration Act 2014;\n(b)a body corporate incorporated under the Companies Act 1967; and\n(c)a limited liability partnership registered under the Limited Liability Partnerships Act 2005;\n“employ” does not include subcontract or arrange by contract, franchise or otherwise with another person for the purpose of that other person employing or providing persons;\n“licence” means any of the following licences granted under this Act:\n(a)a private investigator’s licence;\n(b)a private investigation agency’s licence;\n(c)a security officer’s licence;\n(d)a security agency’s licence; or\n(e)a security service provider’s licence;\n“licensed” means licensed as a private investigator, private investigation agency, security officer, security agency or security service provider under this Act;\n“licensee” means the holder of a licence;\n“licensing officer”, in relation to any provision in this Act, means any licensing officer appointed under section 4(1) for the purposes of that provision, and includes any assistant licensing officer appointed by such a licensing officer under section 4(2) and subject to the licensing officer’s direction and control;\n“officer”, in relation to a business entity, means —\n(a)a director, partner, member of the board of management, chief executive, manager, secretary or other similar officer of a business entity that is a body corporate;\n(b)a partner of a business entity that is a partnership; or\n(c)a president, secretary, or any member of the committee of management of a business entity that is an unincorporated association (other than a partnership), or any person holding a position analogous to that of president, secretary or member of a committee,\nand includes a person who can control or substantially influence the conduct of the affairs of the business entity;\n“political figure” means the President, the Prime Minister, a Minister or a Minister of State;\n“reward” means reward under any scheme, agreement, understanding, promise, undertaking (whether express or implied) or other arrangement;\n“screening” means —\n(a)a search of an individual, or of any property in the individual’s possession, by means of an equipment that is designed to carry out the search without touching the individual or the individual’s property, as the case may be;\n(b)a frisk search of an individual conducted by quickly running the hands over the individual’s outer clothing, and an examination of anything worn or carried by the individual that is conveniently and voluntarily removed by the individual; or\n(c)a physical search of any personal property in the individual’s possession, not being clothing worn by the individual;\n“security equipment” means any equipment specified in the Schedule.\n[29/2014]"
+   }
+  },
+  {
+   "id": "SG-H3586-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Act not applicable to certain persons"
+   },
+   "text": {
+    "en": "3. This Act does not apply to —\n(a)any member of the Singapore Police Force in the exercise of his or her functions as a police officer;\n(b)any member of the Singapore Armed Forces in the exercise of his or her functions as such member;\n(c)any public officer or employee of the Government in the exercise of his or her functions as such officer or employee;\n(d)any officer or employee of the Auxiliary Police Force created under the Police Force Act 2004 in the exercise of his or her functions as an auxiliary police officer;\n(e)any person appointed under the Air Navigation Act 1966 to investigate into accidents arising out of or in the course of air navigation and occurring in or over Singapore or to Singapore aircraft; and\n(f)any person appointed under the Rapid Transit Systems Act 1995 to investigate into accidents on any part of the railway in Singapore."
+   }
+  },
+  {
+   "id": "SG-H3586-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Appointment of licensing officers and assistant licensing officers"
+   },
+   "text": {
+    "en": "4.—(1) The Minister may appoint one or more public officers by name or office to be the licensing officer or officers responsible for the administration of this Act, either generally or for any particular provision of this Act.\n(2) A licensing officer may appoint such number of public officers to be assistant licensing officers as are necessary to assist him or her in carrying out the licensing officer’s functions and duties under this Act.\n(3) The functions and duties conferred on a licensing officer by this Act may be performed by any assistant licensing officer appointed by the licensing officer under subsection (2) and subject to the direction and control of the licensing officer.\n(4) The Minister may from time to time give to any licensing officer such directions, not inconsistent with the provisions of this Act, as the Minister may consider necessary for carrying out the provisions of this Act; and the licensing officer must comply with any direction so given."
+   }
+  },
+  {
+   "id": "SG-H3586-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 PRIVATE INVESTIGATORS AND PRIVATE INVESTIGATION AGENCIES"
+   },
+   "heading": {
+    "en": "Meaning of “private investigator”"
+   },
+   "text": {
+    "en": "5.—(1) Subject to subsection (2), “private investigator” means any individual who, for reward, carries out any of the following functions:\n(a)obtaining and giving information about any person;\n(b)searching for missing persons;\n(c)obtaining and giving information as to the cause and origin of or responsibility for any fire, libel, loss or accident or any damage to real or personal property;\n(d)obtaining and giving information as to the location or recovery of lost or stolen property; or\n(e)obtaining evidence to be used in any civil or criminal proceedings.\n(2) For the purposes of this Act, a private investigator does not include —\n(a)a person employed by an employer to obtain and give information about another person who is employed by the employer, or whom the employer intends to employ;\n(b)a person employed by a business entity to obtain and give information about the character or nature of business of another business entity for the purpose of any business venture undertaken or to be undertaken by the employer or exclusively for the purposes of market research; and\n(c)a person who carries out any function mentioned in paragraphs (a) to (e) of subsection (1) —\n(i)as part of the person’s profession or business as an advocate and solicitor or as part of the person’s occupation as an employee of an advocate and solicitor;\n(ii)as part of the person’s profession or business as a public accountant or as part of the person’s occupation as an employee of a public accountant;\n(iii)as part of the person’s business of obtaining or giving information as to the financial rating or standing of another person; or\n(iv)as part of the person’s business of insurance or as an insurance adjustment agency, or as part of the person’s occupation as an employee of the person carrying on the business of insurance or the insurance adjustment agency.\n(3) In this section, “market research” includes —\n(a)discovering whether a person is a potential customer for any goods or services or the extent of the person’s satisfaction with goods or services supplied to the person; and\n(b)obtaining information from any person for the purpose of analysing public opinion on any matter (whether or not relating to the market for any goods or services)."
+   }
+  },
+  {
+   "id": "SG-H3586-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 PRIVATE INVESTIGATORS AND PRIVATE INVESTIGATION AGENCIES"
+   },
+   "heading": {
+    "en": "No person to be private investigator without private investigator’s licence"
+   },
+   "text": {
+    "en": "6.—(1) A person must not —\n(a)carry out for reward (whether in the course of business or of employment) any function of a private investigator; or\n(b)advertise, or in any way hold out, that the person carries out or is willing to carry out for reward any function of a private investigator,\nexcept under and in accordance with a private investigator’s licence granted under this Act.\n(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both."
+   }
+  },
+  {
+   "id": "SG-H3586-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 PRIVATE INVESTIGATORS AND PRIVATE INVESTIGATION AGENCIES"
+   },
+   "heading": {
+    "en": "No person to supply private investigators’ services without private investigation agency’s licence"
+   },
+   "text": {
+    "en": "7.—(1) A person must not —\n(a)engage in the business of supplying, for reward, the services of private investigators to other persons; or\n(b)advertise, or in any way hold out, that the person supplies for reward, or is willing to supply for reward, the services of private investigators,\nexcept under and in accordance with a private investigation agency’s licence granted under this Act.\n(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both."
+   }
+  },
+  {
+   "id": "SG-H3586-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 PRIVATE INVESTIGATORS AND PRIVATE INVESTIGATION AGENCIES"
+   },
+   "heading": {
+    "en": "Employees who are private investigators"
+   },
+   "text": {
+    "en": "8.—(1) A person must not employ another person as a private investigator unless the other person is a licensed private investigator.\n(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.\n(3) A person (whether or not a licensed private investigation agency) who employs, or is about to employ, as a private investigator any licensed private investigator must —\n(a)before employing the licensed private investigator; and\n(b)not later than 14 days after terminating the employment of the licensed private investigator,\ninform the licensing officer in the prescribed form and manner of the proposed employment or termination of employment, as the case may be.\n(4) Where an employer or a former employer of a licensed private investigator contravenes subsection (3), the employer or former employer (as the case may be) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both."
+   }
+  },
+  {
+   "id": "SG-H3586-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 PRIVATE INVESTIGATORS AND PRIVATE INVESTIGATION AGENCIES"
+   },
+   "heading": {
+    "en": "Employees who are not private investigators"
+   },
+   "text": {
+    "en": "9.—(1) A licensed private investigation agency must, not later than 14 days after —\n(a)employing any person other than as a private investigator, such as secretarial, clerical or other staff of a similar kind, to assist in the business of the private investigation agency; or\n(b)terminating the employment of any employee referred to in paragraph (a),\ninform the licensing officer in the prescribed form and manner of the employment or termination of employment, as the case may be.\n(2) If the licensing officer is of the opinion that any person who is employed other than as a private investigator by a licensed private investigation agency is not a fit and proper person to be so employed, the licensing officer may —\n(a)give written notice of his or her opinion to the licensed private investigation agency, stating the name of that person; and\n(b)despite any other law or the provisions of any memorandum or articles of association or other constitution of the licensed private investigation agency, direct the licensed private investigation agency to terminate the employment of the person named in the notice given under paragraph (a).\n(3) Any licensed private investigation agency who contravenes subsection (1) or fails to comply with any direction under subsection (2)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.\n(4) In deciding for the purposes of subsection (2) whether an employee is a fit and proper person to be employed other than as a private investigator by a licensed private investigation agency, the licensing officer may consider the following matters as indicating that the employee may not be a fit and proper person:\n(a)that the employee had on a previous occasion applied for a private investigator’s licence or a private investigation agency’s licence, and such application had been refused by the licensing officer;\n(b)that the employee associates with a criminal in a way that indicates involvement in an unlawful activity;\n(c)that in dealings in which the employee has been involved, the employee has shown dishonesty or lack of integrity; or\n(d)that the continued employment of the employee is not in the public interest or may pose a threat to national security."
+   }
+  },
+  {
+   "id": "SG-H3586-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 PRIVATE INVESTIGATORS AND PRIVATE INVESTIGATION AGENCIES"
+   },
+   "heading": {
+    "en": "Private investigation agency to obtain identification documents from client"
+   },
+   "text": {
+    "en": "10.—(1) A licensed private investigation agency must not accept any engagement to supply to any person the services of licensed private investigators employed by that licensed private investigation agency unless, in relation to each occasion on which the licensed private investigation agency is engaged to provide such services, there is first obtained by the licensed private investigation agency —\n(a)the name and address of the person engaging those services; and\n(b)a copy of the person’s passport, identity card or such other document establishing the person’s identity as the licensing officer may specify in any particular case.\n(2) A licensed private investigation agency that contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both."
+   }
+  },
+  {
+   "id": "SG-H3586-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 PRIVATE INVESTIGATORS AND PRIVATE INVESTIGATION AGENCIES"
+   },
+   "heading": {
+    "en": "Approvals required for certain security assignments"
+   },
+   "text": {
+    "en": "11.—(1) A person (whether or not a licensed private investigation agency) must not —\n(a)accept any engagement to supply the services of a private investigator, or a licensed private investigator employed by the person; or\n(b)deploy any licensed private investigator employed by the person,\nto carry out any security assignment mentioned in subsection (2) except with the licensing officer’s prior written approval.\n(2) In this section, “security assignment” means —\n(a)any engagement by a government of any country other than Singapore, or of an agency of such government, for the services of a private investigator;\n(b)any activity which involves the gathering of information on or surveillance of any individual who is —\n(i)a political figure;\n(ii)the representative in Singapore of the government of another country or territory other than an honorary representative;\n(iii)a consul or trade commissioner of another country or territory other than an honorary consul or trade commissioner;\n(iv)a member of the official staff of a foreign diplomatic mission or foreign consulate in Singapore; or\n(v)a member of the family of a person covered by sub‑paragraph (i), (ii), (iii) or (iv), where the family member is part of the person’s household;\n(c)any activity which involves the gathering of information on or surveillance of any of the following premises in Singapore or part thereof or any person residing or working therein:\n(i)any protected area or protected place within the meaning of the Infrastructure Protection Act 2017;\n(ii)any foreign diplomatic mission or foreign consulate in Singapore;\n(iii)any building or part of a building that is owned or occupied by or on behalf of the Government;\n(iv)any authorised point of entry or authorised point of departure within the meaning of the Immigration Act 1959;\n(v)any private school which does not receive a grant from the Government and provides full-time primary, secondary or pre‑tertiary education or all to pupils most of whom are neither citizens nor permanent residents of Singapore, and includes any hostel, dormitory or other rooms or premises provided for the housing or lodging of some or all of the pupils of that school out of school hours, whether or not the hostels, dormitories or other rooms or premises are in or part of the same building or group of buildings as the classrooms; or\n(vi)any other premises which are declared by the Minister, by order in the Gazette, to be premises for the purposes of this section; or\n(d)any other activity which the Minister may prescribe being an activity which is not in the public interest or may pose a threat to national security if carried out by any licensed private investigator or licensed private investigation agency.\n[41/2017]\n(3) A licensed private investigator must not perform any security assignment where he or she knows or ought reasonably to know that no prior approval as required by subsection (1) has been obtained from the licensing officer to do so.\n(4) A person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.\n(5) It is a defence if a person charged with an offence of contravening subsection (1) in relation to a security assignment concerning any individual mentioned in subsection (2)(b), proves that the person did not know, and could not reasonably be expected to have known, that the individual is an individual mentioned in subsection (2)(b).\n(6) An application for approval under subsection (1) must —\n(a)be made to the licensing officer in such form or manner as the licensing officer may require; and\n(b)be accompanied by —\n(i)such particulars, information and documents as the licensing officer may require; and\n(ii)the prescribed fee, if any.\n(7) At the licensing officer’s request, the applicant must provide any further information or evidence as the licensing officer may require to decide the application.\n(8) Upon receipt of an application for approval under subsection (1), the licensing officer may —\n(a)grant the approval, with or without conditions; or\n(b)refuse approval.\n(9) A person who has obtained an approval from the licensing officer must immediately inform the licensing officer of any change in any information supplied to the licensing officer for the purpose of obtaining the approval.\n(10) The licensing officer may extend any validity period specified in an approval upon an application by the person to whom the approval is granted.\n(11) The licensing officer may, at any time, revoke any approval that has been granted under subsection (1) in respect of a security assignment that is specified in the approval, if the licensing officer —\n(a)is of the view that due to any change in the circumstances after granting the approval, the continued provision of the services of a private investigator in connection with that security assignment is not in the public interest or may pose a threat to national security; or\n(b)is satisfied that any condition imposed by the licensing officer in granting that approval has not been complied with.\n(12) If the licensing officer revokes any approval that has been granted in respect of a security assignment, and the person to whom the approval had been granted continues —\n(a)to supply the services of a private investigator, or a licensed private investigator employed by the person; or\n(b)to deploy any licensed private investigator employed by the person,\nto carry out that security assignment, that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both."
+   }
+  },
+  {
+   "id": "SG-H3586-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 PRIVATE INVESTIGATORS AND PRIVATE INVESTIGATION AGENCIES"
+   },
+   "heading": {
+    "en": "Duty to keep records"
+   },
+   "text": {
+    "en": "12.—(1) A licensed private investigation agency must —\n(a)in relation to each occasion on which the licensed private investigation agency is engaged to provide the services of licensed private investigators the licensed private investigation agency employs, keep a record of the following information:\n(i)the name and address of the person engaging those services;\n(ii)the date on which the services are provided;\n(iii)details of the services provided; and\n(iv)such other particulars as may be prescribed; and\n(b)retain every such record for a period of at least 5 years from the date of the occasion to which the record relates.\n(2) Every employer of a licensed private investigator who is not a licensed private investigation agency must —\n(a)retain a record of every assignment handled by the private investigator while in his or her employment, which includes —\n(i)the name and particulars of any person investigated;\n(ii)all actions taken by the private investigator on each assignment; and\n(iii)such other particulars as may be prescribed; and\n(b)keep such records for a period of at least 5 years from the date of commencement of the assignment to which the record relates.\n(3) Every person required under this section to keep records must furnish to the licensing officer such records at such time and in such format and through such medium (whether electronic or otherwise) as the licensing officer may require.\n(4) A person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.\n(5) If a person who is required under this section to keep or submit records —\n(a)makes a record that —\n(i)is false or misleading; or\n(ii)omits any matter or thing without which the record is misleading;\n(b)knows that the record is as described in paragraph (a); and\n(c)furnishes the record to the licensing officer following a requirement made under subsection (3),\nthe person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.\n(6) Subsection (5) does not apply —\n(a)if the record is not false or misleading in a material particular; or\n(b)if the record did not omit any matter or thing without which the record is misleading in a material particular."
+   }
+  },
+  {
+   "id": "SG-H3586-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 SECURITY OFFICERS AND SECURITY AGENCIES"
+   },
+   "heading": {
+    "en": "Meaning of “security officer”"
+   },
+   "text": {
+    "en": "13. In this Act, “security officer” means any individual who, for reward, carries out any of the following functions:\n(a)patrolling or guarding another person’s property (including cash in transit) by physical means (which may involve the use of patrol dogs) or by electronic means;\n(b)keeping the property (including cash in transit) of another person under surveillance, including for the purpose of preventing theft thereof;\n(c)acting as a bodyguard or bouncer;\n(d)in respect of any public place or other premises and as part of his or her regular duties, performing any function of screening individuals seeking entry thereto;\n(e)regulating traffic under the Road Traffic Act 1961."
+   }
+  },
+  {
+   "id": "SG-H3586-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 SECURITY OFFICERS AND SECURITY AGENCIES"
+   },
+   "heading": {
+    "en": "No person to be security officer without security officer’s licence"
+   },
+   "text": {
+    "en": "14.—(1) A person must not —\n(a)carry out for reward any function of a security officer; or\n(b)advertise, or in any way hold out, that the person carries out or is willing to carry out for reward any function of a security officer,\nexcept under and in accordance with a security officer’s licence granted under this Act.\n(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both."
+   }
+  },
+  {
+   "id": "SG-H3586-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 SECURITY OFFICERS AND SECURITY AGENCIES"
+   },
+   "heading": {
+    "en": "No person to supply security officers’ services without security agency’s licence"
+   },
+   "text": {
+    "en": "15.—(1) A person must not —\n(a)engage in the business of supplying, for reward, the services of security officers to other persons; or\n(b)advertise, or in any way hold out, that the person supplies for reward, or is willing to supply for reward, the services of security officers,\nexcept under and in accordance with a security agency’s licence granted under this Act.\n(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both."
+   }
+  },
+  {
+   "id": "SG-H3586-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 SECURITY OFFICERS AND SECURITY AGENCIES"
+   },
+   "heading": {
+    "en": "Employees who are security officers"
+   },
+   "text": {
+    "en": "16.—(1) A person must not employ another person as a security officer unless the other person is a licensed security officer.\n(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.\n(3) A person (whether or not a licensed security agency) who employs, or is about to employ, as a security officer any person who is a licensed security officer must —\n(a)before employing the licensed security officer; and\n(b)not later than 14 days after terminating the employment of the licensed security officer,\ninform the licensing officer in the prescribed form and manner of the proposed employment or termination of employment, as the case may be.\n(4) Where an employer or a former employer of a licensed security officer contravenes subsection (3), the employer or former employer (as the case may be) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both."
+   }
+  },
+  {
+   "id": "SG-H3586-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 SECURITY OFFICERS AND SECURITY AGENCIES"
+   },
+   "heading": {
+    "en": "Employees who are not security officers"
+   },
+   "text": {
+    "en": "17.—(1) A licensed security agency must, not later than 14 days after —\n(a)employing any person other than as a security officer, such as secretarial, clerical or other staff of a similar kind, to assist in the business of the security agency; or\n(b)terminating the employment of any such employee mentioned in paragraph (a),\ninform the licensing officer in the prescribed form and manner of the employment or termination of employment, as the case may be.\n(2) If the licensing officer is of the opinion that any person who is employed other than as a security officer by a licensed security agency is not a fit and proper person to be so employed, the licensing officer may —\n(a)give written notice of his or her opinion to the licensed security agency, stating the name of that person; and\n(b)despite any other law or the provisions of any memorandum or articles of association or other constitution of the licensed security agency, direct the licensed security agency to terminate the employment of the person named in the notice given under paragraph (a).\n(3) A licensed security agency that contravenes subsection (1) or fails to comply with any direction under subsection (2)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.\n(4) In deciding for the purposes of subsection (2) whether an employee is a fit and proper person to be employed other than as a security officer by a licensed security agency, the licensing officer may consider the following matters as indicating that the employee may not be a fit and proper person:\n(a)that the employee had on a previous occasion applied for a security officer’s licence or a security agency’s licence, and such application had been refused by the licensing officer;\n(b)that the employee associates with a criminal in a way that indicates involvement in an unlawful activity;\n(c)that in dealings in which the employee has been involved, the employee has shown dishonesty or lack of integrity; or\n(d)that the continued employment of the employee is not in the public interest or may pose a threat to national security."
+   }
+  },
+  {
+   "id": "SG-H3586-A17.001",
+   "no": 17.001,
+   "noLabel": {
+    "en": "17A."
+   },
+   "chapter": {
+    "en": "PART 3 SECURITY OFFICERS AND SECURITY AGENCIES"
+   },
+   "heading": {
+    "en": "Assaulting or using criminal force on security officer"
+   },
+   "text": {
+    "en": "17A.—(1) An individual who assaults or uses criminal force on a person (called in this section the target person) —\n(a)in the execution of the target person’s duty as a security officer;\n(b)with intent to prevent or deter the target person from discharging his or her duty as a security officer; or\n(c)in consequence of anything done or attempted to be done by the target person in the lawful discharge of his or her duty as a security officer,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $7,500 or to imprisonment for a term not exceeding 2 years or to both.\n(2) In this section, “assault” and “criminal force” are to be construed in accordance with sections 349, 350 and 351 of the Penal Code 1871*.\n[Act 29 of 2021 wef 01/05/2022]\n[*Updated to be consistent with the 2020 Revised Edition]"
+   }
+  },
+  {
+   "id": "SG-H3586-A17.002",
+   "no": 17.002,
+   "noLabel": {
+    "en": "17B."
+   },
+   "chapter": {
+    "en": "PART 3 SECURITY OFFICERS AND SECURITY AGENCIES"
+   },
+   "heading": {
+    "en": "Voluntarily causing hurt to security officer"
+   },
+   "text": {
+    "en": "17B.—(1) An individual who voluntarily causes hurt to a person (called in this section the target person) —\n(a)in the execution of the target person’s duty as a security officer;\n(b)with intent to prevent or deter the target person from discharging his or her duty as a security officer; or\n(c)in consequence of anything done or attempted to be done by the target person in the lawful discharge of his or her duty as a security officer,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both.\n(2) In this section, “voluntarily causes hurt” is to be construed in accordance with section 321 of the Penal Code 1871*.\n[Act 29 of 2021 wef 01/05/2022]\n[*Updated to be consistent with the 2020 Revised Edition]"
+   }
+  },
+  {
+   "id": "SG-H3586-A17.003",
+   "no": 17.003,
+   "noLabel": {
+    "en": "17C."
+   },
+   "chapter": {
+    "en": "PART 3 SECURITY OFFICERS AND SECURITY AGENCIES"
+   },
+   "heading": {
+    "en": "Intentionally causing harassment, alarm, distress or humiliation to security officer"
+   },
+   "text": {
+    "en": "17C.—(1) An individual must not by any means —\n(a)use any threatening, abusive, insulting, sexual or indecent words or behaviour; or\n[Act 23 of 2025 wef 29/06/2026]\n(b)make any threatening, abusive, insulting, sexual or indecent communication,\n[Act 23 of 2025 wef 29/06/2026]\ntowards a person (called in this section the target person) in relation to the execution of the target person’s duty as a security officer, with the intent to cause harassment, alarm, distress or humiliation to the target person and as a result causing the target person harassment, alarm, distress or humiliation.\n[Act 23 of 2025 wef 29/06/2026]\n(2) Subject to section 17D, an individual who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.\n(3) In any proceedings for an offence under subsection (2), it is a defence for the accused to prove, on a balance of probabilities, that —\n(a)the accused did not know and had no reason to believe that the words or behaviour used, or the communication made, would be heard, seen or otherwise perceived by the target person; or\n(b)the accused’s conduct was reasonable.\n(4) However, for the purposes of this section, a target person is not treated as executing a duty as a security officer or acting in the capacity of a security officer if the target person is, at the relevant time, also a public service worker as defined in section 6(5) of the Protection from Harassment Act 2014* and acting in the capacity of such a public service worker.\n[Act 29 of 2021 wef 01/05/2022]\n[*Updated to be consistent with the 2020 Revised Edition]\n[Act 23 of 2025 wef 29/06/2026]"
+   }
+  },
+  {
+   "id": "SG-H3586-A17.004",
+   "no": 17.004,
+   "noLabel": {
+    "en": "17D."
+   },
+   "chapter": {
+    "en": "PART 3 SECURITY OFFICERS AND SECURITY AGENCIES"
+   },
+   "heading": {
+    "en": "Enhanced penalty for section 17C offence committed subsequently"
+   },
+   "text": {
+    "en": "17D. An individual who has been convicted of any offence under —\n(a)the repealed section 13A, 13B, 13C or 13D of the Miscellaneous Offences (Public Order and Nuisance) Act 1906* as in force before 15 November 2014 (whether the conviction was before, on or after that date);\n(b)section 3, 4, 5, 6 or 7 of the Protection from Harassment Act 2014*; or\n(c)section 17C,\nshall, on a subsequent conviction for an offence under section 17C, be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.\n[Act 29 of 2021 wef 01/05/2022]\n[*Updated to be consistent with the 2020 Revised Edition]"
+   }
+  },
+  {
+   "id": "SG-H3586-A17.005",
+   "no": 17.005,
+   "noLabel": {
+    "en": "17E."
+   },
+   "chapter": {
+    "en": "PART 3 SECURITY OFFICERS AND SECURITY AGENCIES"
+   },
+   "heading": {
+    "en": "Requisite knowledge that target person is acting as security officer"
+   },
+   "text": {
+    "en": "17E. No offence is committed by an individual under section 17A(1), 17B(1) or 17C(2) unless the individual knows or ought reasonably to know that the target person mentioned in section 17A(1), 17B(1) or 17C(1) was at the material time a security officer and acting in that capacity.\n[Act 29 of 2021 wef 01/05/2022]"
+   }
+  },
+  {
+   "id": "SG-H3586-A17.006",
+   "no": 17.006,
+   "noLabel": {
+    "en": "17F."
+   },
+   "chapter": {
+    "en": "PART 3 SECURITY OFFICERS AND SECURITY AGENCIES"
+   },
+   "heading": {
+    "en": "Application of Protection from Harassment Act 2014*"
+   },
+   "text": {
+    "en": "17F.—(1) A reference in sections 12(1), (2), (2A) and (2B)(b), 13(1)(a)(i) and (ii) and (1A) and 13A(1)(a) and (3)(a) of the Protection from Harassment Act 2014* to a contravention or an alleged contravention, or an offence, under section 3, 4, 5, 6 or 7 of that Act includes a contravention or an alleged contravention, or an offence, under section 17C(2), as the case may be.\n[*Updated to be consistent with the 2020 Revised Edition]\n(2) The following provisions of the Protection from Harassment Act 2014* apply with the necessary modifications because of subsection (1):\n(a)section 10;\n(b)Division 1 of Part 3 (except section 11);\n(c)sections 16C, 16CB and 16D;\n(d)Part 3A;\n(e)sections 19, 20 and 21;\n(f)the Schedule as it applies in relation to sections 12(2A)(a) and 13(1A)(a).\n[*Updated to be consistent with the 2020 Revised Edition]\n(3) Any word or expression used in, or relevant for the purpose of interpreting, section 17C, 17D, 17E or this section and that is defined in section 2(1) of the Protection from Harassment Act 2014* has the meaning given to it by section 2(1) of that Act.\n[Act 29 of 2021 wef 01/05/2022]\n[*Updated to be consistent with the 2020 Revised Edition]"
+   }
+  },
+  {
+   "id": "SG-H3586-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 SECURITY SERVICE PROVIDERS AND FALSE ALARMS"
+   },
+   "heading": {
+    "en": "Meaning of providing security service"
+   },
+   "text": {
+    "en": "18.—(1) For the purposes of this Act, a person is said to provide a security service if the person carries on any one or more of the following activities:\n(a)installing, maintaining, repairing or servicing, by physical or electronic means —\n(i)any security equipment in any premises or any vehicle, vessel, aircraft or other means of conveyance; or\n(ii)any mechanical, electronic, acoustic or other equipment that the person installing, maintaining, repairing or servicing the equipment purports to be equipment that is designed or adapted to provide or enhance security or for the protection or watching of any property;\n(b)designing, selling, importing or exporting —\n(i)any security equipment (other than basic household or automotive security items at approved classes of retail outlets or intruder alarm systems); or\n(ii)any mechanical, electronic, acoustic or other equipment that the person installing, maintaining, repairing or servicing the equipment purports to be equipment that is designed or adapted to provide or enhance security or for the protection or watching of any property;\n(c)providing product advice in relation to security equipment, other than basic household or automotive security items at approved classes of retail outlets;\n[Act 29 of 2021 wef 01/05/2022]\n(d)[Deleted by Act 29 of 2021 wef 01/05/2022]\n(e)[Deleted by Act 29 of 2021 wef 01/05/2022]\n(f)selling any intelligent banknote neutralisation system;\n(g)employing an intelligent banknote neutralisation system in carrying out cash‑in‑transit services;\n(h)providing alarm surveillance services, or other surveillance, tracking or monitoring services using security equipment;\n(i)providing training or instruction in relation to any activity mentioned in paragraphs (a) to (h), including assessing another person’s training, instruction or competencies in relation to any such activity;\n(j)providing persons to carry on any activity mentioned in paragraphs (a) to (i);\n(k)any other activity, or class of activities, that is connected with security or the protection of persons or property, whether by physical or electronic means, and that is declared by the Minister by notification in the Gazette to be a security service for the purposes of this section.\n[6/2019]\n(2) Despite subsection (1), a person does not provide a security service only because the person sells self-install security systems, that is, a security system designed so that it can be installed by an ordinary consumer.\n(3) In this section, “intelligent banknote neutralisation system” means a security system which is designed to deter unauthorised access to currency notes by mutilating, destroying or permanently damaging the currency notes, such as by the application of a staining or degradation agent to the currency notes or otherwise.\n[6/2019]"
+   }
+  },
+  {
+   "id": "SG-H3586-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 SECURITY SERVICE PROVIDERS AND FALSE ALARMS"
+   },
+   "heading": {
+    "en": "Unlicensed security service provider prohibited"
+   },
+   "text": {
+    "en": "19.—(1) A person must not —\n(a)engage in the business of providing, for reward, any security service to other persons; or\n(b)advertise, or in any way hold out, that the person (who is in the business of providing any security service) provides for reward, or is willing to provide for reward, the security service,\nexcept under and in accordance with a security service provider’s licence granted under this Act.\n(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both."
+   }
+  },
+  {
+   "id": "SG-H3586-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 SECURITY SERVICE PROVIDERS AND FALSE ALARMS"
+   },
+   "heading": {
+    "en": "False alarms"
+   },
+   "text": {
+    "en": "20.—(1) The licensing officer may charge according to a prescribed scale of charges for the attendance of any police officer at any premises in response to a call arising out of a false alarm.\n(2) For the purposes of this section, a false alarm is the activation of an alarm system by reasons other than fire or intruders.\n(3) The charge mentioned in subsection (1) is payable by a prescribed licensed security service provider in respect of each occasion any police officer attends at any premises in response to a call arising out of a false alarm at those premises where —\n(a)the alarm system at those premises is installed or maintained by that licensed security service provider; and\n(b)the licensing officer is satisfied that the licensed security service provider had failed to take all reasonably practicable measures to verify whether the activation of the alarm system is a false alarm before making or causing the call to be made.\n(4) A person who —\n(a)intentionally gives a false alarm of fire or intruder; or\n(b)is reckless about whether it would cause a person to fear that there is a fire or an intruder, or cause an emergency service to respond to the alarm,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.\n(5) A court convicting an offender of an offence of contravening subsection (4) may, in addition to or without imposing a penalty on the offender —\n(a)assess the amount of any expenses needlessly incurred by the police or other emergency services as a result of the false alarm; and\n(b)order the offender to pay the amount so assessed to the Government or other statutory body by which or by whom the expenses were so incurred.\n(6) In this section, “alarm system” means an intruder alarm system of the type prescribed, being a device or series of devices, including hardwired systems and systems interconnected with a radio frequency method such as cellular or private radio signals, which emit or transmit a remote or local audible, visual or electronic signal indicating an alarm condition, but does not include an alarm installed in a vehicle or a personal alarm attached to the body of an individual."
+   }
+  },
+  {
+   "id": "SG-H3586-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 5 LICENSING PROCEDURES"
+   },
+   "heading": {
+    "en": "Grant and renewal of licence"
+   },
+   "text": {
+    "en": "21.—(1) An application for a licence must —\n(a)be made to the licensing officer in such form or manner as the licensing officer may require; and\n(b)be accompanied by —\n(i)such particulars, information and documents as the licensing officer may require; and\n(ii)the prescribed fee, if any.\n(2) An applicant for a licence must, at the licensing officer’s request, provide any further information or evidence, or any trial or demonstration of any security service, or of any equipment to be employed in carrying out any security service, proposed to be provided by the applicant, that the licensing officer may require to decide the application.\n[6/2019]\n(3) Upon receipt of an application under subsection (1), the licensing officer may —\n(a)grant the licence applied for, with or without conditions; or\n(b)refuse the application.\n(4) Subject to the provisions of this Act, a person who applies to be licensed, or to renew the person’s licence is eligible to be granted a licence or a renewal of the licence if, and only if —\n(a)the applicant has paid the prescribed fees for such licence or its renewal;\n(b)where the applicant is an individual, he or she satisfies the licensing officer that he or she has the qualifications and the practical experience (whether in Singapore or elsewhere) prescribed for that licence; and\n(c)the applicant satisfies such other requirements as may be prescribed for such licence or its renewal.\n(5) Without affecting subsection (4), the licensing officer may refuse to grant a licence, or to renew a licence of a person if, in the licensing officer’s opinion—\n(a)where the person who applies to be licensed, or to renew the person’s licence is an individual, the person is not a fit or proper person to hold or to continue to hold the licence;\n(b)where the person who applies to be licensed, or to renew the person’s licence is a business entity, an officer of the business entity is not a fit or proper person; or\n(c)it is not in the public interest to grant or renew the licence, or the grant or renewal of the licence may pose a threat to national security.\n(6) A licence may be renewed upon its expiry, and subsections (1), (2) and (3) apply, with the necessary modifications, to an application for the renewal of a licence.\n(7) A person who, in making an application for a licence —\n(a)makes any statement or furnishes any particulars, information or document which the person knows to be false or does not believe to be true; or\n(b)by the intentional suppression of any material fact, furnishes any information which is misleading in a material particular,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.\n(8) In deciding for the purposes of this section whether a person or an officer of a business entity is a fit and proper person, the licensing officer may consider any of the following matters as indicating that the person or officer may not be a fit and proper person:\n(a)that the person or officer associates with a criminal in a way that indicates involvement in an unlawful activity;\n(b)that in dealings in which the person or officer has been involved, the person or officer —\n(i)has shown dishonesty or lack of integrity; or\n(ii)used harassing tactics;\n(c)that the person or officer is or was suffering from a mental disorder;\n(d)that the person or officer is an undischarged bankrupt or has entered into a composition with the person’s or officer’s debtors.\n(9) Subsection (8) does not limit the circumstances in which a person or an officer of a business entity may be considered by the licensing officer not to be a fit and proper person."
+   }
+  },
+  {
+   "id": "SG-H3586-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 5 LICENSING PROCEDURES"
+   },
+   "heading": {
+    "en": "Conditions of licence"
+   },
+   "text": {
+    "en": "22.—(1) The licensing officer may grant a licence to an applicant subject to such conditions as the licensing officer thinks fit to impose.\n(2) The licensing officer may at any time add to, vary or revoke any condition of a licence imposed under subsection (1).\n(3) Before making any modification to the conditions of a licence under this section, the licensing officer must give notice to the licensee concerned —\n(a)stating that he or she proposes to make the modification in the manner specified in the notice; and\n(b)specifying the time (being at least 14 days from the date of service of notice on the licensee concerned) within which written representations with respect to the proposed modification may be made.\n(4) Upon receipt of any written representation mentioned in subsection (3)(b), the licensing officer is to consider the representation and may reject the representation or amend the proposed modification in accordance with the representation, or otherwise and, in either event, must issue a written direction to the licensee concerned requiring that effect be given to the proposed modification specified in the notice or to such modification as subsequently amended by the licensing officer within a reasonable time.\n(5) A licensee who fails to comply with any licence condition of the licensee’s licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both."
+   }
+  },
+  {
+   "id": "SG-H3586-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 5 LICENSING PROCEDURES"
+   },
+   "heading": {
+    "en": "Form and validity of licence"
+   },
+   "text": {
+    "en": "23. A licence is to —\n(a)be in such form as the licensing officer may determine;\n(b)contain the conditions subject to which it is granted; and\n(c)be valid for such period (not exceeding 5 years) as may be specified in the licence."
+   }
+  },
+  {
+   "id": "SG-H3586-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 5 LICENSING PROCEDURES"
+   },
+   "heading": {
+    "en": "Revocation or suspension of licence"
+   },
+   "text": {
+    "en": "24.—(1) Subject to subsection (3), the licensing officer may by order revoke any licence if he or she is satisfied that —\n(a)the licensee has failed to comply with any condition imposed by the licensing officer on the licensee’s licence;\n(b)the licence had been obtained by fraud or misrepresentation;\n(c)a circumstance which he or she becomes aware of would have required or permitted him or her to refuse to grant or renew the licensee’s licence, had he or she been aware of the circumstance immediately before the licence was granted or renewed;\n(d)the licensee has ceased to carry on in Singapore the business or activity for which the licensee is licensed;\n(e)the licensee has been declared bankrupt or has gone into compulsory or voluntary liquidation other than for the purpose of amalgamation or reconstruction;\n(f)the licensee has been convicted of an offence under this Act;\n(g)where the licensee is an individual — the licensee is no longer a fit and proper person to continue to hold the licence;\n(h)where the licensee is a business entity — an officer of the business entity is no longer a fit and proper person; or\n(i)it is in the public interest to do so.\n(2) Subject to subsection (3), the licensing officer may, in any case in which he or she considers that no cause of sufficient gravity for revoking any licence exists, by order —\n(a)suspend the licence for a period not exceeding 6 months;\n(b)censure the licensee concerned; or\n(c)impose such other directions or restrictions as the licensing officer considers appropriate on the licensee’s business or functions, as a private investigator, private investigation agency, security officer, security agency or security service provider, as the case may be.\n(3) The licensing officer must not exercise his or her powers under subsection (1) or (2) unless an opportunity of being heard (whether in person or by a representative and whether in writing or otherwise) had been given to the licensee against whom the licensing officer intends to exercise his or her powers, being a period of not more than 14 days after the licensing officer informs the licensee of such intention.\n(4) Where the licensing officer has by order revoked a licence under subsection (1) or made any order under subsection (2) in respect of a licensee, the licensing officer must serve on the licensee concerned a notice of the licensing officer’s order made under those subsections.\n(5) Despite subsection (3), where a licensee holding a private investigator’s licence or a security officer’s licence has been charged with or convicted of a prescribed offence, being an offence which would make it undesirable in the public interest for the licensee to continue to carry out the functions of a private investigator or security officer —\n(a)the licensing officer may serve on the licensee a notice of immediate suspension of the licence, which takes immediate effect and remains in force until the licensing officer makes an order under subsection (7) and any appeal to the Minister under section 26 against such an order is determined; and\n(b)the licensee must, upon a notice being served under paragraph (a) but subject to subsection (7), immediately cease to carry out any function of a private investigator or security officer, as the case may be.\n(6) A licensee whose private investigator’s licence or security officer’s licence has been suspended with immediate effect under subsection (5) may, within 14 days after the licensing officer has served the notice of immediate suspension under paragraph (a) of that subsection, apply to the licensing officer to review the licensing officer’s decision under subsection (7).\n(7) The licensing officer may, on reviewing his or her decision, by order —\n(a)revoke the private investigator’s licence or security officer’s licence in question;\n(b)suspend that private investigator’s licence or security officer’s licence for a period not exceeding 6 months starting from the date of immediate suspension of that licence; or\n(c)rescind the immediate suspension of that private investigator’s licence or security officer’s licence.\n(8) Where the licensing officer has by order revoked or suspended a licence under subsection (7) in respect of a licensee, the licensing officer must serve on the licensee concerned a notice of the licensing officer’s order made under that subsection.\n(9) Subject to section 26, an order under subsection (1), (2) or (7)(a) or (b) by the licensing officer revoking or suspending a private investigator’s licence or security officer’s licence does not take effect until the expiry of 14 days after notice has been served on the licensee under subsection (4) or (8).\n(10) In any proceedings under this section in relation to the conviction of a licensee for a criminal offence, the licensing officer must accept the licensee’s conviction as final and conclusive.\n(11) In deciding for the purposes of this section whether a person or an officer of a business entity is a fit and proper person, the licensing officer may consider any of the following matters as indicating that the person or officer may not be a fit and proper person:\n(a)that the person or officer associates with a criminal in a way that indicates involvement in an unlawful activity;\n(b)that in dealings in which the person or officer has been involved, the person or officer —\n(i)has shown dishonesty or lack of integrity; or\n(ii)used harassing tactics.\n(12) Subsection (11) does not limit the circumstances in which a person or an officer of a business entity may be considered by the licensing officer not to be a fit and proper person."
+   }
+  },
+  {
+   "id": "SG-H3586-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 5 LICENSING PROCEDURES"
+   },
+   "heading": {
+    "en": "Effect of revocation or suspension of licence"
+   },
+   "text": {
+    "en": "25.—(1) Where an order of revocation or suspension of a licence becomes effective —\n(a)the licensing officer must cause notice of the revocation or suspension to be served on the licensee concerned; and\n(b)the licensee concerned must, as from the date of the notice, cease to carry on business or any function as a private investigator, private investigation agency, security officer, security agency or security service provider (as the case may be) in Singapore except to the extent allowed by the licensing officer.\n(2) Subsection (1)(b) does not prejudice the enforcement by any person of any right or claim against the corporation, partnership or limited liability partnership or by the corporation, partnership or limited liability partnership of any right or claim against any person."
+   }
+  },
+  {
+   "id": "SG-H3586-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 5 LICENSING PROCEDURES"
+   },
+   "heading": {
+    "en": "Appeal to Minister"
+   },
+   "text": {
+    "en": "26.—(1) Any person whose application —\n(a)for approval under section 11(1); or\n(b)for a licence or for the renewal of a licence,\nhas been refused by the licensing officer may, within 14 days after being notified of such refusal, appeal in the prescribed manner to the Minister whose decision is final.\n(2) Where an approval under section 11(1) or a licence is granted or renewed by the licensing officer subject to conditions, the person to whom the approval is granted or the licensee concerned may, within 14 days after being notified of such conditions, appeal in the prescribed manner to the Minister whose decision is final.\n(3) If the licensing officer has made any order under section 24(1), (2) or (7)(a) or (b) in respect of any licensee, the licensee concerned may, within 14 days after being served with the notice of the order, appeal to the Minister against the order, and the decision of the Minister shall be final.\n(4) In any appeal under this section in relation to the conviction of the licensee for a criminal offence, the Minister must, on appeal from any order of the licensing officer, accept the licensee’s conviction as final and conclusive.\n(5) Where the licensee concerned has appealed under this section to the Minister against an order by the licensing officer under section 24(1), (2) or (7)(a) or (b), the order does not take effect unless the order is confirmed by the Minister or the appeal is for any reason dismissed by the Minister or withdrawn."
+   }
+  },
+  {
+   "id": "SG-H3586-A26.001",
+   "no": 26.001,
+   "noLabel": {
+    "en": "26A."
+   },
+   "chapter": {
+    "en": "PART 5 LICENSING PROCEDURES"
+   },
+   "heading": {
+    "en": "Minister may designate others to hear appeals"
+   },
+   "text": {
+    "en": "26A.—(1) The Minister may designate any of the following persons to hear and determine, in the Minister’s place, any appeal or a specific appeal under section 26:\n(a)the Second Minister (if any) for his or her Ministry;\n(b)any Minister of State for his or her Ministry;\n(c)any Parliamentary Secretary to his or her Ministry.\n[16/2016]\n(2) Any reference to the Minister in section 24(5)(a) or 26 includes a reference to a person designated under subsection (1).\n[16/2016]\n(3) To avoid doubt, in this section —\n“Minister of State” includes a Senior Minister of State;\n“Parliamentary Secretary” includes a Senior Parliamentary Secretary.\n[16/2016]"
+   }
+  },
+  {
+   "id": "SG-H3586-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 6 INSPECTIONS AND POWERS OF ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Power to search premises"
+   },
+   "text": {
+    "en": "27. The licensing officer, on being satisfied upon any information and after any inquiry which he or she thinks necessary that there is good reason to believe that any place is used for the carrying on of the business of a private investigation agency, a security agency or a security service provider by a person who is not the holder of a licence, may by warrant or writing under his or her hand authorise any person therein named or any police officer, with such assistance and by such force as is necessary, by day or by night —\n(a)to enter or go to that place and to search the place and all persons found therein;\n(b)to seize all documents and things reasonably supposed to have been used or intended to be used in connection with the business which are found in that place or on those persons; and\n(c)to detain all those persons until they and the place have been searched."
+   }
+  },
+  {
+   "id": "SG-H3586-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 6 INSPECTIONS AND POWERS OF ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Power to arrest"
+   },
+   "text": {
+    "en": "28.—(1) The licensing officer or any police officer duly authorised in writing in that behalf by the licensing officer may without warrant arrest any person whom he or she reasonably suspects to have committed an offence under this Act, other than an offence under section 17A, 17B or 17C.\n[Act 29 of 2021 wef 01/05/2022]\n(1A) Despite the Criminal Procedure Code 2010* specifying what an arrestable offence means, an offence under section 17A, 17B or 17C is to be treated as a non-arrestable offence, unless a person offends in the view of a police officer against any of those sections.\n[Act 29 of 2021 wef 01/05/2022]\n[*Updated to be consistent with the 2020 Revised Edition]\n(2) The licensing officer or any police officer duly authorised in writing in that behalf by the licensing officer arresting a person under subsection (1), or any police officer arresting a person by virtue of subsection (1A), may search such person and take possession of all articles found upon him or her which there is reason to believe were used in connection with the offence.\n[Act 29 of 2021 wef 01/05/2022]\n(3) A person must not be searched except by a person of the same gender.\n(4) Every person so arrested must be taken to a police station."
+   }
+  },
+  {
+   "id": "SG-H3586-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 6 INSPECTIONS AND POWERS OF ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Power to investigate"
+   },
+   "text": {
+    "en": "29.—(1) In any case relating to the commission of an offence under this Act (other than section 17A, 17B or 17C), the licensing officer or any police officer duly authorised in writing in that behalf by the licensing officer may exercise all or any of the special powers in relation to arrestable offences given by the Criminal Procedure Code 2010*.\n[*Updated to be consistent with the 2020 Revised Edition]\n(2) To avoid doubt, section 16 of the Criminal Procedure Code 2010* (relating to the procedure in non-arrestable cases) applies in relation to an offence under section 17A, 17B or 17C that is treated as a non-arrestable offence by virtue of section 28(1A).\n[Act 29 of 2021 wef 01/05/2022]\n[*Updated to be consistent with the 2020 Revised Edition]"
+   }
+  },
+  {
+   "id": "SG-H3586-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 6 INSPECTIONS AND POWERS OF ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Monitoring powers of licensing officer"
+   },
+   "text": {
+    "en": "30.—(1) The licensing officer or any police officer duly authorised in writing in that behalf by the licensing officer (called in this section an authorised police officer) has, for the purposes of the execution of this Act, power to do all or any of the following:\n(a)to enter, inspect and examine by day or night —\n(i)the place of business of a licensed private investigation agency, a licensed security agency or a licensed security service provider (called in this section a licensee); or\n(ii)the place where any security officer is deployed;\n(b)to require a licensee to produce any records, accounts and documents kept by the licensee within such reasonable time as is specified by the licensing officer;\n(c)to inspect, examine and make copies of any such records, accounts and documents so produced;\n(d)to make such inquiry as may be necessary to ascertain whether the provisions of this Act are complied with.\n(2) Where any such records, accounts and documents as are mentioned in subsection (1) are kept in electronic form, then —\n(a)the power of the licensing officer or authorised police officer in subsection (1)(b) to require any such records, accounts or documents to be produced for inspection includes power to require a copy of the records, accounts or documents to be made available for inspection in legible form (and subsection (1)(c) is to accordingly apply in relation to any copy so made available); and\n(b)the power of the licensing officer or authorised police officer under subsection (1)(c) to inspect any such records, accounts or documents includes power to require any person on the premises in question to give him or her such assistance as he or she may reasonably require to enable him or her —\n(i)to inspect and make copies of the records, accounts or documents in legible form or to make records of information contained in them; or\n(ii)to inspect and check the operation of any computer, and any associated apparatus or material, that is or has been in use in connection with the keeping of the records, accounts or documents.\n(3) A person who, without reasonable excuse, fails to comply with any requirement imposed under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both."
+   }
+  },
+  {
+   "id": "SG-H3586-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 7 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Obstruction of search, etc."
+   },
+   "text": {
+    "en": "31. A person who —\n(a)refuses the licensing officer or any police officer duly authorised in writing in that behalf by the licensing officer (called in this section an authorised police officer) to enter or search or to access to any place;\n(b)assaults, obstructs, hinders or delays the licensing officer or authorised police officer in effecting any entrance which he or she is entitled to effect under this Act, or in the execution of any duty imposed or power conferred by this Act;\n(c)fails to comply with any lawful demand of the licensing officer or authorised police officer in the execution of his or her duty under this Act; or\n(d)refuses or neglects to give any information to the licensing officer or authorised police officer which may reasonably be required of him or her and which he or she has it in his or her power to give,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both."
+   }
+  },
+  {
+   "id": "SG-H3586-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 7 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Offences by bodies corporate, etc."
+   },
+   "text": {
+    "en": "32.—(1) Where an offence under this Act committed by a body corporate is proved —\n(a)to have been committed with the consent or connivance of an officer of the body corporate; or\n(b)to be attributable to any neglect on his or her part,\nthe officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.\n(2) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with his or her functions of management as if he or she were a director of the body corporate.\n(3) Where an offence under this Act committed by a partnership is proved —\n(a)to have been committed with the consent or connivance of a partner; or\n(b)to be attributable to any neglect on his or her part,\nthe partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.\n(4) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —\n(a)to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or\n(b)to be attributable to any neglect on the part of such an officer or a member,\nthe officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.\n(5) In this section —\n“body corporate” includes a limited liability partnership which has the meaning given by section 2(1) of the Limited Liability Partnerships Act 2005;\n“officer” —\n(a)in relation to a body corporate, means any director, partner, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or\n(b)in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of a committee and includes any person purporting to act in any such capacity;\n“partner” includes a person purporting to act as a partner.\n(6) Regulations may provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore."
+   }
+  },
+  {
+   "id": "SG-H3586-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 7 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "33.—(1) The licensing officer may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:\n(a)one half of the amount of the maximum fine that is prescribed for the offence; or\n(b)$2,000.\n(2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence.\n(3) All sums collected under this section must be paid to the Consolidated Fund."
+   }
+  },
+  {
+   "id": "SG-H3586-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 7 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Jurisdiction of court"
+   },
+   "text": {
+    "en": "34. Despite any provision to the contrary in the Criminal Procedure Code 2010, a District Court has jurisdiction to try any offence under this Act and has power to impose the full penalty or punishment in respect of the offence."
+   }
+  },
+  {
+   "id": "SG-H3586-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Unlicensed private investigation agency, unlicensed security agency and unlicensed security service provider not to recover fees, etc."
+   },
+   "text": {
+    "en": "35. Any person who provides any service of —\n(a)a private investigator;\n(b)a private investigation agency;\n(c)a security officer;\n(d)a security agency; or\n(e)a security service provider,\nshall not be entitled to bring any proceeding in any court to recover any commission, fee, gain or reward for the service provided unless, at the time of providing the service, the person is the holder of a valid private investigator’s licence, a valid private investigation agency’s licence, a valid security officer’s licence, a valid security agency’s licence or a valid security service provider’s licence, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H3586-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Service of documents, etc."
+   },
+   "text": {
+    "en": "36.—(1) Subject to subsection (3), any document required or authorised to be served under this Act may be served —\n(a)in the case of an individual —\n(i)by delivering it to the individual personally;\n(ii)by leaving it with an adult person apparently resident at, or by sending it by prepaid registered post to, the individual’s usual or last known address of the place of residence;\n(iii)by leaving it with an adult person apparently employed at, or by sending it by prepaid registered post to, the individual’s usual or last known address of the place of business;\n(iv)by affixing a copy of the notice in a conspicuous place at the individual’s usual or last known address of residence or business;\n(v)by sending it by fax to the fax number used at the individual’s usual or last known address of the place of residence or business, or the last fax number given by the individual to the licensing officer or an officer authorised by the licensing officer as the fax number for the service of documents on the individual; or\n(vi)by electronic communication, by sending an electronic communication of the document to the last email address given by the individual to the licensing officer or an officer authorised by the licensing officer as the email address for the service of documents on the individual;\n(b)in the case of a partnership other than a limited liability partnership —\n(i)by delivering it to any partner or the secretary or other similar officer of the partnership;\n(ii)by leaving it at, or by sending it by prepaid registered post to, the principal or last known place of business of the partnership in Singapore;\n(iii)by sending it by fax to the fax number used at the principal or last known place of business of the partnership in Singapore; or\n(iv)by electronic communication, by sending an electronic communication of the document to the last email address given by the partnership to the licensing officer or an officer authorised by the licensing officer as the email address for the service of documents on the partnership; and\n(c)in the case of any limited liability partnership or any other body corporate —\n(i)by delivering it to the secretary or other similar officer of the body corporate or, in the case of a limited liability partnership, the manager thereof;\n(ii)by leaving it at, or by sending it by prepaid registered post to, the registered office or principal office of the limited liability partnership or body corporate in Singapore;\n(iii)by sending it by fax to the fax number used at the registered office or principal office of the limited liability partnership or body corporate in Singapore; or\n(iv)by electronic communication, by sending an electronic communication of the document to the last email address given by the limited liability partnership or body corporate in Singapore to the licensing officer or an officer authorised by the licensing officer as the email address for the service of documents on the limited liability partnership or body corporate.\n(2) Where any notice or other document to be served by the licensing officer is —\n(a)sent by a fax to the fax number used at the last known place of residence or business or registered office or principal office in accordance with subsection (1), it is deemed to have been duly served on the person to whom it is addressed on the day of transmission, subject to receipt on the sending fax machine of a notification (by electronic or other means) of a successful transmission to the place of residence or business or registered office or principal office, as the case may be;\n(b)sent by electronic communication to an email address in accordance with subsection (1), it is deemed to have been duly served on the person to whom it is addressed at the time of entering the information system addressed to the email address; and\n(c)sent by prepaid registered post, it is deemed to have been duly served on the person to whom it is addressed 2 days after the day the notice or document was posted, whether or not it is returned undelivered.\n(3) Service of any document under this Act on a person by electronic communication may be effected only if the person gives as part of the person’s address for service an email address.\n(4) This section does not apply to notices and documents to be served in proceedings in court."
+   }
+  },
+  {
+   "id": "SG-H3586-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Power to exempt"
+   },
+   "text": {
+    "en": "37.—(1) The Minister may, by order in the Gazette, with or without conditions, exempt any person or class of persons from all or any of the provisions of this Act.\n(2) If any exemption is granted under subsection (1) with conditions, the exemption operates only if the conditions are complied with."
+   }
+  },
+  {
+   "id": "SG-H3586-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Amendment of Schedule"
+   },
+   "text": {
+    "en": "38.—(1) The Minister may, by order in the Gazette, amend, add to or vary the Schedule.\n(2) The Minister may, in any order made under subsection (1), make such incidental, consequential or supplementary provision as may be necessary or expedient.\n(3) Any order made under subsection (1) must be presented to Parliament as soon as possible after publication in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H3586-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "39.—(1) The Minister may, from time to time, make regulations generally for the carrying out or giving effect to the provisions of this Act.\n(2) Without limiting subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:\n(a)taking and recording of photographs and fingerprints of persons applying for a licence;\n(b)displaying or surrendering of any licence by a licensee;\n(c)prescribing the type of identification documents that a licensed private investigator or a licensed security officer must carry when carrying out his or her functions as a private investigator or a security officer, as the case may be;\n(d)in relation to any licence, the class or classes of licence to be issued, and the circumstances in which the licence may be granted;\n(e)requiring a licensed security agency to maintain a register of all places in which the security officers employed by the licensed security agency are deployed for work and submitting such information to the licensing officer upon request;\n(f)regulating the conduct of security officers in the discharge of their functions and the conduct of security agencies and security service providers;\n(g)prescribing the uniform, badge or emblem to be worn by a licensed security officer;\n(h)prohibiting the use of any equipment or accoutrement by the holder of a licence and his or her employees, if any;\n(i)regulating the activities of the holder of a licence and prescribing the manner in which the licensee’s business is to be conducted;\n(j)regulating the manufacture, importation, sale, distribution, possession and use of security equipment;\n(k)any other matter or thing required or permitted to be prescribed or necessary to be prescribed to give effect to this Act.\n(3) The regulations may —\n(a)prescribe offences in respect of the contravention of any specified provision thereof and may prescribe that fines not exceeding $10,000 or with imprisonment for a term not exceeding 2 years or with both, on conviction, be imposed in respect of any such offence; and\n(b)prescribe different fees for different classes of applicants for licences."
+   }
+  },
+  {
+   "id": "SG-H3586-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nSections 2 and 38(1)\nSecurity equipment\n1. Optical surveillance device capable of being used to record visually or observe an activity, including night vision equipment, but does not include spectacle, contact lenses or a similar device used by a person with impaired sight to overcome that impairment.\n2. Audio device capable of being used to overhear, record, monitor or listen to a conversation or words spoken to or by a person in conversation, but does not include a hearing aid or similar device used by a person with impaired hearing to overcome the impairment and permit the person to hear sound ordinarily audible to the human ear.\n3. Data surveillance device or program capable of being used to record or monitor the input of information into, or output of information from, a computer, but does not include an optical surveillance device.\n4. Tracking device capable of being used to determine or monitor electronically the location of a person or an object or the status of an object.\n5. Other surveillance device that is a combination of 2 or more of the devices mentioned in paragraphs 1 to 4.\n6. Technical surveillance counter measure equipment capable of detecting or rendering ineffective other surveillance devices.\n7. Intruder alarm systems.\n8. Electronic access control systems including card and biometric access control systems.\n9. Explosive and narcotic sniffers.\n10. Devices capable of being used to detect deception such as the polygraph equipment.\n11. Currency or document screening equipment.\n12. X-ray security screening machines.\n13. Walk-through metal detectors.\n14. Radio frequency scanners."
+   }
+  }
+ ]
+}

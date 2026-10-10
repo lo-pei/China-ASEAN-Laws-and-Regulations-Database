@@ -1,0 +1,52 @@
+{
+ "id": "MM-H069",
+ "title": {
+  "zh": "宪法MY_2008",
+  "en": "ဖွဲ့စည်းပုံအခြေခံဥပဒေ (၂၀၀၈ ခုနှစ်)",
+  "orig": null
+ },
+ "country": "MM",
+ "countryName": "缅甸",
+ "layer": "intl",
+ "pack": "mm-p04",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2008",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "缅甸官方发布渠道",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 1269,
+ "source": {
+  "name": "缅甸官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "文本未能可靠切分为条文（或原件为目录式排版），按整篇收录，未作改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "MM-H069-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "# ဖွဲ့စည်းပုံအခြေခံဥပဒေ (၂၀၀၈ ခုနှစ်) > 本文件为自动采集的元数据头，随原始文件一同保存。\n> 原始文件未被改写；正文逐字照录于同目录下的原始文件。\n| 项目 | 内容 | | --- | --- | | 原文标题 | ဖွဲ့စည်းပုံအခြေခံဥပဒေ (၂၀၀၈ ခုနှစ်) | | 中文译名 | 宪法（缅文本） | | 英文译名 | Constitution of the Republic of the Union of Myanmar (2008) | | 法律领域 | 宪法 | | 颁布机构 | 缅甸总统府官方文件库（PDF 托管于 sacoffice.gov.mm） | | 官方来源 URL | https://sacoffice.gov.mm/sites/default/files/2024-06/၂၀၀၈ ခုနှစ်ဖွဲ့စည်းပုံအခြေခံဥပဒေ_1.pdf | | 数据抓取实际 URL | https://sacoffice.gov.mm/sites/default/files/2024-06/%E1%81%82%E1%81%80%E1%81%80%E1%81%88%20%E1%80%81%E1%80%AF%E1%80%94%E1%80%BE%E1%80%85%E1%80%BA%E1%80%96%E1%80%BD%E1%80%B2%E1%80%B7%E1%80%85%E1%80%8A%E1%80%BA%E1%80%B8%E1%80%95%E1%80%AF%E1%80%B6%E1%80%A1%E1%80%81%E1%80%BC%E1%80%B1%E1%80%81%E1%80%B6%E1%80%A5%E1%80%95%E1%80%92%E1%80%B1_1.pdf | | 颁布日期 | 2008 | | 生效日期 | 未核实（来源未标注） | | 修订日期 | 未核实（来源未标注） | | 版本 | 官方公布文本 | | 原文语种 | my | | 来源类型 | 官方（缅甸政府 .gov.mm 门户） | | 抓取日期 | 2026-10-03 | | 本地文件 | 缅甸_宪法MY_2008_my.pdf | | 文件格式 | pdf | | 文件大小(字节) | 2513976 | | 页数 | 433 | | 字数 |  | | SHA-256 | 2e2183b6d1258277d09691f007f14ddff128e7e7d0491521741b257fc5bac5f5 | | HTTP 状态 | 200 | | HTTPS 证书校验 | NOT VERIFIED (bypassed) | | 完整性/缺失范围 | 官方 PDF 全文（未删节） | | 备注 | 仅有缅文 PDF，无官方英文全文。 | | 采集说明 | 注意：该站 HTTPS 证书校验失败，已在校验关闭的情况下抓取，需人工复核来源真实性。 |"
+   }
+  }
+ ]
+}

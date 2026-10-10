@@ -1,0 +1,195 @@
+{
+ "id": "SG-H1983",
+ "title": {
+  "zh": null,
+  "en": "Income Tax (Deduction for Special Reserves of Approved General Insurers) Regulations 2006",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p25",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ITA1947-S550-2006",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 12,
+ "chars": 16835,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ITA1947-S550-2006?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 12 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1983-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Income Tax (Deduction for Special Reserves of Approved General Insurers) Regulations 2006 and shall have effect for the year of assessment 2003 and subsequent years of assessment."
+   }
+  },
+  {
+   "id": "SG-H1983-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“approved general insurer” means a general insurer which is approved during the period from 2nd July 2002 to 1st July 2012 (both dates inclusive) by the Minister or such person as he may appoint under section 14O of the Act and whose approval has not been revoked;\n“claim liabilities”, in relation to an approved general insurer, means the amount of the expected future payments by him in relation to all claims incurred prior and up to the valuation date (other than payments which have fallen due for payment before the valuation date), whether or not they have been reported to him, and includes any expense expected to be incurred by him in settling these claims;\n“loss reserves”, in relation to an approved general insurer, means the amount of the provisions made by him for —\n(a)claims reported but not yet determined;\n(b)claims incurred but not reported;\n(c)claims incurred the full amounts of which are not reported; and\n(d)all expenses associated with the settlement of such claims;\n“net claims incurred”, in relation to an approved general insurer, means —\n(a)in the case of a basis period or part thereof falling within the period from 2nd July 2002 to 22nd August 2004 (both dates inclusive), the amount of net claims settled after taking into account the increase or decrease, as the case may be, in his loss reserves during the basis period; and\n(b)in the case of a basis period that commences, or any part of a basis period that falls, on or after 23rd August 2004, the amount of net claims settled after taking into account the increase or decrease, as the case may be, in his claim liabilities during the basis period;\n“net claims settled”, in relation to an approved general insurer, means the amount of claims paid by him after taking into account any increase or decrease, as the case may be, in outstanding claims, and includes the amount of expenses incurred directly by him in the settlement of claims after deducting all amounts received or receivable pursuant to a reinsurance policy;\n“net premiums written”, in relation to an approved general insurer, means the net amount of premiums written by him after deduction of return premiums and payments in respect of reinsurance ceded;\n“outstanding claims”, in relation to an approved general insurer, means claims which have been approved by him for payment but not yet paid;\n“premiums earned”, in relation to an approved general insurer, means the premiums earned by him in respect of the expired portions of all policies issued by him;\n“qualifying business” means any business dealing with an offshore risk prescribed under regulation 3;\n“relieved transfer” means an amount transferred to the special reserve of an approved general insurer which is allowed a deduction under these Regulations;\n“special reserve” means a reserve set up to cope with future catastrophic losses or exceptionally sharp volatility in loss experience;\n“underwriting gains”, in relation to an approved general insurer, means the amount of premiums earned by him less the aggregate of net claims, management expenses, net commissions and other distribution expenses incurred; and for this purpose, “net commissions incurred” means gross commission incurred less reinsurance commission received;\n“valuation date”, in relation to an approved general insurer, means the date on which his liabilities are valued."
+   }
+  },
+  {
+   "id": "SG-H1983-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Prescribed offshore risks"
+   },
+   "text": {
+    "en": "3. The following are the prescribed offshore risks for the purposes of section 14O of the Act:\n(a)property risks, including consequential loss risks but excluding non-proportional treaty risks;\n(b)property non-proportional treaty risks, including consequential loss risks;\n(c)marine and aviation hull and liability risks;\n(d)mortgage indemnity risks;\n(e)nuclear, pharmaceutical and pollution risks;\n(f)credit and political risks; and\n(g)financial guarantee risks."
+   }
+  },
+  {
+   "id": "SG-H1983-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Deduction and amounts deemed as trading receipts"
+   },
+   "text": {
+    "en": "4.—(1) Subject to regulation 8, there shall be allowed to an approved general insurer a deduction for the following amount in a special reserve set aside by him during the basis period for any year of assessment with respect to a qualifying business dealing with any of the offshore risks described in regulation 3(a) to (f):\n(a)nil if A – B – D ≥ E;\n(b)an amount equal to C if A – B + C – D < E; or\n(c)an amount calculated in accordance with the formula E – (A – B – D) if A – B + C – D ≥ E and A – B – D < E,\nwhere\nA\nis the aggregate amount of relieved transfers in the special reserve with respect to the qualifying business as at the beginning of the basis period for that year of assessment;\nB\nis the aggregate amount of relieved transfers deemed to be trading receipts with respect to the qualifying business for the basis periods for all years of assessment immediately preceding that year of assessment;\nC\nis the transfer-in amount for the qualifying business determined in accordance with regulation 5 for the basis period;\nD\nis the transfer-out amount for the qualifying business determined in accordance with regulation 6 for the basis period; and\nE\nis the maximum reserve for the qualifying business as at the end of the basis period.\n(2) The following amount of relieved transfers, adjusted in accordance with regulation 10, shall be deemed as a trading receipt of an approved general insurer for the basis period of any year of assessment with respect to a qualifying business dealing with any of the offshore risks described in regulation 3(a) to (f):\n(a)an amount calculated in accordance with the formula A – B – E if A – B – D ≥ E; or\n(b)an amount equal to D if A – B + C – D < E or if A – B + C – D ≥ E and A – B – D < E,\nwhere A, B, C, D and E have the same meanings as in paragraph (1).\n(3) In paragraph (1), “maximum reserve”, in relation to the basis period for any year of assessment, means —\n(a)in the case of a qualifying business dealing with any of the offshore risks described in regulation 3(a) to (e), an amount equal to the percentage specified in column (B) in the Schedule multiplied by the average net premiums written by the approved general insurer with respect to the offshore risks in the qualifying business; or\n(b)in the case of a qualifying business dealing with the offshore risk described in regulation 3(f), an amount equal to 400% of the highest amount of annual net premiums written by the approved general insurer with respect to the offshore risk in the qualifying business in the basis periods for that year of assessment and the 2 years of assessment immediately preceding that year of assessment.\n(4) In paragraph (3)(a), “average net premiums written”, in relation to the basis period for any year of assessment, means —\n(a)in a case where the approved general insurer has carried on the qualifying business for less than 5 years of assessment, the average amount of net premiums written by him in the basis periods for that year of assessment and all the years of assessment immediately preceding that year of assessment with respect to the offshore risk in the qualifying business; and\n(b)in all other cases, the average amount of net premiums written in the basis periods for that year of assessment, and the 4 years of assessment immediately preceding that year of assessment, with respect to the offshore risk in the qualifying business.\n(5) Any relieved transfer remaining in a special reserve of an approved general insurer at the end of the period of 10 years commencing from the first day of the basis period in which the insurer was approved under section 14O of the Act shall be adjusted in accordance with regulation 10 and be deemed as a trading receipt for the first basis period after that period."
+   }
+  },
+  {
+   "id": "SG-H1983-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Transfer-in amounts for qualifying businesses"
+   },
+   "text": {
+    "en": "5.—(1) For the purposes of regulation 4 and subject to paragraph (2), the transfer-in amount for a qualifying business dealing with any of the offshore risks described in regulation 3(a) to (e) for the basis period for any year of assessment shall be —\n(a)an amount calculated by multiplying the percentage specified in column (A) in the Schedule by the net premiums written in the basis period with respect to the qualifying business; or\n(b)the amount of underwriting gains derived in the basis period with respect to the offshore risks in the qualifying business,\nwhichever is the lower.\n(2) Where the aggregate of the amounts determined in accordance with paragraph (1) for all the qualifying businesses referred to in that paragraph of an approved general insurer exceeds his OIF gains, the transfer-in amount for each of the qualifying businesses of the insurer shall be such amount as may be determined by the insurer provided that —\n(a)such transfer-in amount as determined by him for each of the qualifying businesses does not exceed the amount determined in accordance with paragraph (1) for that qualifying business; and\n(b)the aggregate of such transfer-in amounts as determined by him does not exceed his OIF gains.\n(3) Notwithstanding paragraph (2), if the Comptroller is satisfied that any determination under paragraph (2) is not in compliance with the requirement under sub-paragraph (a) or (b) of that paragraph, then the transfer-in amount for each of the qualifying businesses shall be such amount as the Comptroller determines it should be for the purpose of compliance with that requirement.\n(4) For the purpose of paragraph (2), “OIF gains”, in relation to an approved general insurer, means the amount of underwriting gains derived in the basis period concerned in the insurance fund established by the insurer for offshore policies as required under section 17 of the Insurance Act (Cap. 142).\n(5) The transfer-in amount for a qualifying business dealing with the offshore risks described in regulation 3(f) for the basis period for any year of assessment shall be an amount equal to —\n(a)12% of the net premiums written in the basis period with respect to the offshore risks in the qualifying business; or\n(b)50% of the underwriting gains derived in the basis period with respect to the offshore risks in the qualifying business,\nwhichever is the higher."
+   }
+  },
+  {
+   "id": "SG-H1983-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Transfer-out amounts for qualifying businesses"
+   },
+   "text": {
+    "en": "6.—(1) For the purposes of regulation 4 and subject to paragraph (2), the transfer-out amount for a qualifying business dealing with any of the offshore risks described in regulation 3(a) to (e) for the basis period for any year of assessment shall be an amount determined in accordance with the formula\nNCI – (TR × PE)\nwhere\nNCI\nis the total amount of the net claims incurred during the basis period with respect to the offshore risks in the qualifying business;\nTR\nis the percentage specified in column (C) in the Schedule for offshore risks in the qualifying business; and\nPE\nis the total amount of the premiums earned during the basis period with respect to the offshore risks in the qualifying business.\n(2) If, in the basis period for any year of assessment, the amount of the special reserves of an approved general insurer with respect to a qualifying business (referred to in this regulation as the triggering business) is less than the amount determined in accordance with paragraph (1) for the triggering business —\n(a)the transfer-out amount for the triggering business shall be the amount of the special reserves with respect to the triggering business; and\n(b)the transfer-out amount for each of the qualifying businesses other than the triggering business shall be the sum of —\n(i)an amount determined in accordance with paragraph (1) for that qualifying business; and\n(ii)a pro-rated amount determined in accordance with paragraph (3) for that qualifying business.\n(3) The pro-rated amount referred to in paragraph (2)(b)(ii) for each of the qualifying businesses other than the triggering business shall be determined in accordance with the formula\n(SRTF/SRTotal) × S\nwhere\nSRTF\nis the amount of special reserve as at the end of the basis period with respect to that qualifying business;\nSRTotal\nis the total amount of special reserves as at the end of the basis period with respect to all qualifying businesses other than the triggering business; and\nS\nis the difference between the amount of the special reserves with respect to the triggering business and the amount determined in accordance with paragraph (1) for the triggering business.\n(4) For the purposes of paragraphs (2) and (3), “qualifying businesses other than the triggering business” does not include the qualifying businesses dealing with the offshore risks described in regulation 3(f) and (g).\n(5) The transfer-out amount for a qualifying business dealing with the offshore risk described in regulation 3(f) for the basis period for any year of assessment shall be the amount by which net claims settled with respect to the offshore risk in the qualifying business exceeds net premiums written with respect to the same during the basis period."
+   }
+  },
+  {
+   "id": "SG-H1983-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Deduction in respect of financial guarantee insurance"
+   },
+   "text": {
+    "en": "7. Subject to regulation 8, there shall be allowed to an approved general insurer a deduction for the amounts transferred by him during the basis period for any year of assessment to his special reserve in respect of a qualifying business dealing with the offshore risk described in regulation 3(g), if —\n(a)the transfer is made in accordance with the Insurance (Financial Guarantee Insurance) Regulations (Cap. 142, Rg 6); and\n(b)the amounts are not withdrawn from the special reserves."
+   }
+  },
+  {
+   "id": "SG-H1983-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Period during which deduction is allowed"
+   },
+   "text": {
+    "en": "8. Subject to regulation 9, the deduction referred to in these Regulations for any approved general insurer shall be allowed for a period of 10 years commencing from the year of assessment relating to the basis period in which the insurer was approved as such."
+   }
+  },
+  {
+   "id": "SG-H1983-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Cessation of business"
+   },
+   "text": {
+    "en": "9.—(1) If an approved general insurer ceases to write a qualifying business during the basis period for any year of assessment, the following shall apply in respect of that business:\n(a)deduction in accordance with these Regulations for amounts set aside in his special reserves with respect to that business shall be allowed for that year of assessment but not for any subsequent year of assessment; and\n(b)where the insurer transfers out of his special reserves an amount of relieved transfers in excess of the transfer-out amount determined in accordance with regulation 6, such amount of relieved transfers that is in excess shall be adjusted in accordance with regulation 10 and deemed as trading receipts for the basis period for that year of assessment.\n(2) If an approved general insurer goes into liquidation or has its registration cancelled under section 12 of the Insurance Act (Cap. 142) during the basis period for any year of assessment, any relieved transfer remaining in its special reserves shall be adjusted in accordance with regulation 10 and be deemed as a trading receipt for the basis period for that year of assessment."
+   }
+  },
+  {
+   "id": "SG-H1983-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Adjustment of relieved transfers for determining amount of trading receipts"
+   },
+   "text": {
+    "en": "10.—(1) Subject to paragraph (2), the amount of trading receipts under regulations 4(2) and (5) and 9(1)(b) and (2) of an approved general insurer shall be adjusted in accordance with the formula\nwhere\nA\nis the aggregate amount of the relieved transfers;\nB\nis the previous tax rate applicable to the insurer in the year of assessment relating to the basis period in which the relieved transfer was made; and\nC\nis the current tax rate applicable to the insurer in the year of assessment relating to the basis period in which the amount of relieved transfers is to be deemed as a trading receipt.\n(2) Where the current tax rate referred to in paragraph (1) of an approved general insurer is zero, the tax payable on the trading receipts by the insurer shall be the amount of relieved transfers multiplied by the previous tax rate as defined in that paragraph.\n(3) For the purpose of determining the amount of relieved transfers to be deemed as trading receipts, any amount transferred to the special reserves first shall be deemed to have been transferred from the special reserves first."
+   }
+  },
+  {
+   "id": "SG-H1983-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Reporting requirements"
+   },
+   "text": {
+    "en": "11.—(1) An approved general insurer shall maintain and submit to the Comptroller returns and records relating to its special reserves, in such form and manner as the Comptroller or the Monetary Authority of Singapore may specify.\n(2) For the purposes of paragraph (1), an approved general insurer shall classify its offshore risks according to the type of qualifying business the offshore risks relate to."
+   }
+  },
+  {
+   "id": "SG-H1983-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRegulations 4(3)(a), 5(1)(a) and 6(1)\nTransfers in and out of special reserves\nOffshore risks\nAnnual limit\n(A)\nMaximum limit\n(B)\nIncurred loss trigger ratio\n(C)\n1.\nProperty (including consequential loss risks but excluding non-proportional treaty risks)\n3%\n25%\n72.5%\n2.\nProperty\n(non-proportional treaty risks, including consequential loss risks)\n11%\n75%\n80%\n3.\nMarine and aviation\nHull and liability\n6%\n50%\n95%\n4.\nMortgage indemnity\n12%\n150%\n95%\n5.\nNuclear, pharmaceutical and pollution\n75%\n600%\n75%."
+   }
+  }
+ ]
+}

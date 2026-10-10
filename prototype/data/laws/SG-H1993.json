@@ -1,0 +1,81 @@
+{
+ "id": "SG-H1993",
+ "title": {
+  "zh": null,
+  "en": "Income Tax (Elite Commercial REIT — Section 13(12) Exemption) Order 2022",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p25",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ITA1947-S610-2022",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 988,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ITA1947-S610-2022?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1993-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Order is the Income Tax (Elite Commercial REIT — Section 13(12) Exemption) Order 2022."
+   }
+  },
+  {
+   "id": "SG-H1993-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "2.—(1) Interest received in Singapore by the trustee of Elite Commercial REIT (called in this Order ECREIT) from the following entities on or after the listing of ECREIT on the Singapore Exchange is exempt from tax:\n(a)Elite UK Commercial Holdings Limited;\n(b)Elite UK Commercial Investments Limited;\n(c)Elite UK Commercial Limited;\n(d)Elite Gemstones Properties Limited.\n(2) Income comprising dividends received in Singapore by Regal Sheen Investment Limited from Elite UK Commercial Holdings Limited on or after the listing of ECREIT on the Singapore Exchange is exempt from tax.\n(3) The exemptions in sub‑paragraphs (1) and (2) are subject to the conditions specified in the letter of approval dated 4 October 2019 addressed to Ernst & Young Solutions LLP."
+   }
+  },
+  {
+   "id": "SG-H1993-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Revocation"
+   },
+   "text": {
+    "en": "3. The Income Tax (Elite Commercial Real Estate Investment Trust — Section 13(12) Exemption) Order 2020 (G.N. No. S 7/2020) is revoked."
+   }
+  }
+ ]
+}

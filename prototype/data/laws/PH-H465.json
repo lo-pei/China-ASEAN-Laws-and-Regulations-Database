@@ -1,0 +1,65 @@
+{
+ "id": "PH-H465",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate the Sum of Two Million Pesos for the Rehabilitation of Stock Farms, Breeding Stations and Breeding Centers and for the Establishment and Operation of New Farms",
+  "orig": "An Act to Appropriate the Sum of Two Million Pesos for the Rehabilitation of Stock Farms, Breeding Stations and Breeding Centers and for the Establishment and Operation of New Farms"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p06",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1949-06-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 372",
+ "officialCode": null,
+ "topics": [
+  "company",
+  "environment"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1230,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1949/ra_372_1949.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1949/ra_372_1949.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H465-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated the sum of two million pesos for the rehabilitation of stock farms, breeding stations and breeding centers and for the establishment and operation of new stock farms. The said sum shall be disbursed, in accordance with the objectives of this Act, by the Director of Animal Industry, subject to the approval of the Secretary of Agriculture and Natural Resources, for the purchase of breeding animals; for the acquisition of the necessary land, including a survey; for the construction, maintenance and repair of buildings, sheds, stables, corrals, fences and other necessary structures; for the payment of salaries and wages and traveling expenses of necessary personnel; for freight and delivery service; for the purchase of needed furniture and equipment, supplies and materials; and for such other expenses as may be deemed necessary to carry out the purposes of this Act, provided, that at least eight hundred thousand pesos shall be spent for the purchase of animals to be distributed equitably among the existing stock farms, and the balance for new farms."
+   }
+  },
+  {
+   "id": "PH-H465-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 14, 1949."
+   }
+  }
+ ]
+}

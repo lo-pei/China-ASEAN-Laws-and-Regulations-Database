@@ -1,0 +1,554 @@
+{
+ "id": "TL-H022",
+ "title": {
+  "zh": "关于政党",
+  "en": null,
+  "orig": "Sobre Partidos Políticos"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "amended",
+ "promulgatedDate": "2004-02-10",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "据公报标题，本法经 Lei n.º 2/2016、Lei n.º 3/2026 修改；本库收录的是本法原始公布文本，修改后的合并本未另行收录。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 3/2004",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 32,
+ "chars": 15615,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2002_2005/leis_parlamento_nacional/3_2004.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 32 条；逐字取自官方公报 PDF（public/docs/2002_2005/leis_parlamento_nacional/3_2004.pdf）第 —–— 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 【据公报标题，本法经 《第2/2016号法律》、《第3/2026号法律》 修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H022-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Noção"
+   },
+   "text": {
+    "pt": "1.      Os partidos políticos são organizações de cidadãos de carácter permanente, com o objectivo de participar democráticamente na vida do país e de concorrer para a formação e expressão da vontade política do povo, em conformidade com as leis e com os respectivos estatutos e programas, intervindo nomeadamente no processo eleitoral mediante a apresentação ou o patrocínio de candidaturas.\n2.      Os partidos políticos têm personalidade jurídica e capacidade judiciária e são exclusivamente constituídos por cidadãos nacionais.\n3.      Não são considerados partidos políticos, para os efeitos da presente lei, as organizações sediadas ou registadas fora do país e aquelas em que a maior parte da direcção ou a maior parte dos seus membros de Timor-Leste.\n4.        Perde o estatuto de partido político a organização que não participar com programa próprio em nenhuma eleição a nível local ou nacional por um período de tempo superior a cinco anos."
+   }
+  },
+  {
+   "id": "TL-H022-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Objectivos"
+   },
+   "text": {
+    "pt": "1. Os partidos políticos têm de entre outros os seguintes objectivos comuns: a)Defender os interesses nacionais; b)Contribuir para o exercício dos direitos políticos do cidadão e para a determinação da política nacional designadamente através da participação em eleições ou através de outros meios democráticos; c)Definir programas de governo e de administração; d)Participar na actividade dos órgãos de Estado e dos órgãos locais; e)Promover a educação cívica e o esclarecimento e doutrinação política dos cidadãos; f)Debater os problemas da vida nacional e internacional e tomar posição perante eles; g)Contribuir em geral para o desenvolvimento das instituições políticas.\n2. Os Partidos Politicos têm como objectivo específico promover e garantir as aspirações dos seus membros e dos cidadaõs, no contexto da vida social."
+   }
+  },
+  {
+   "id": "TL-H022-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Associações cívicas"
+   },
+   "text": {
+    "pt": "1.      As associações ou quaisquer outras formas de organização da sociedade civil que prossigam alguns dos fins previstos no artigo antecedente, não se confundem com os partidos políticos, nem beneficiam do seu estatuto.\n2.      É vedado às organizações da sociedade civil prosseguir os fins previstos nas alíneas b) e c) do artigo anterior, que são exclusivos aos partidos políticos."
+   }
+  },
+  {
+   "id": "TL-H022-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Organizações associadas"
+   },
+   "text": {
+    "pt": "Os partidos políticos podem constituir ou associar à sua acção a organizações, nomeadamente, da juventude, da mulher e dos trabalhadores."
+   }
+  },
+  {
+   "id": "TL-H022-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Filiação partidária"
+   },
+   "text": {
+    "pt": "1.      A adesão a um partido político é voluntária sendo cada cidadão livre de se filiar ou não num partido político.\n2.      Ninguém pode estar inscrito simultaneâmente em mais de um partido político."
+   }
+  },
+  {
+   "id": "TL-H022-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Dirigentes de partido"
+   },
+   "text": {
+    "pt": "Pode ser dirigente partidário o cidadão timorense residente no país, com nacionalidade originária e que, eleito para o cargo, esteja no pleno gozo dos seus direitos civis e políticos."
+   }
+  },
+  {
+   "id": "TL-H022-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Princípio da transparência"
+   },
+   "text": {
+    "pt": "1.      Os partidos políticos devem prosseguir publicamente os seus fins dando conhecimento dos seus estatutos e programas políticos, da identidade dos seus dirigentes, proveniência e utilização dos fundos e das actividades gerais a nível nacional e internacional.\n2.      O partido comunicará por escrito os nomes dos dirigentes eleitos para os órgãos centrais e depositará o programa aprovado ou modificado pelas instâncias competentes."
+   }
+  },
+  {
+   "id": "TL-H022-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Princípios da promoção da mulher e do rejuvenescimento do partido"
+   },
+   "text": {
+    "pt": "1. Os partidos politicos devem  promover a participação feminina especialmente nos órgãos de direcção do partido definindo, se assim o entenderem, um sistema de quotas ou outras medidas que promovam a participação da mulher nas actividades político-partidárias.\n2. Os partidos políticos devem promover igualmente a participação dos cidadãos  mais jovens,  da faixa etária compreendida entre os 17 e os 35 anos nos órgãos de direcção do partido, definindo se for caso disso, um sistema de quotas."
+   }
+  },
+  {
+   "id": "TL-H022-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Coligações, Frentes ou Movimentos"
+   },
+   "text": {
+    "pt": "1.  Os partidos políticos podem associar-se em coligações, frentes ou movimentos, desde que tenha sido aprovado pelos órgãos representativos competentes dos partidos interessados, com indicação precisa do âmbito e da finalidade específica dessa coligação, frente ou movimento.\n2.  Seja qual for a natureza da associação, deverá ser feita em conformidade com a presente lei, não podendo em nenhum modo utilizar a denominação, a sigla, a bandeira, o emblema e o hino semelhante a de outro partido não integrante da coligação, frente ou movimento."
+   }
+  },
+  {
+   "id": "TL-H022-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Adesão a organizações internacionais"
+   },
+   "text": {
+    "pt": "Os partidos políticos timorenses podem cooperar com  partidos políticos estrangeiros e aderir a organizações internacionais de estrutura e funcionamento democráticos, sem prejuízo da sua independência e capacidade de intervenção político-constitucional."
+   }
+  },
+  {
+   "id": "TL-H022-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Criação e sede"
+   },
+   "text": {
+    "pt": "1.      A criação dos partidos políticos não carece de autorização.\n2.      O partido político adquire personalidade jurídica por inscrição em livro próprio existente no Tribunal competente.\n3.      A sede nacional dos partidos políticos situa-se na capital do país."
+   }
+  },
+  {
+   "id": "TL-H022-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Denominação"
+   },
+   "text": {
+    "pt": "1.      A denominação, sigla, bandeira, emblema e hino de um partido não podem ser idênticos ou semelhantes a de quaisquer outros  partidos anteriormente existentes.\n2.      A denominação do partido não poderá constituir no nome de uma confissão religisoa ou de uma pessoa, não podendo o seu símbolo  confundir-se com símbolos nacionais e imagens religiosos.\n3.      Compete ao Plenário do Tribunal competente, como instância de recurso, decidir da semelhança das denominações, siglas, bandeira, emblema e hino dos partidos."
+   }
+  },
+  {
+   "id": "TL-H022-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Formalismo da inscrição"
+   },
+   "text": {
+    "pt": "1.      A inscrição de um partido político tem de ser requerida por, pelo menos mil e quinhentos cidadãos (1.500) maiores de 17 anos, no pleno gozo dos seus direitos civis e políticos e distribuído proporcionalmente pelo país.\n2.      O pedido de inscrição é subscrito pelos requerentes e dirigido ao Ministro da Justiça acompanhado da relação nominal dos requerentes, dos documentos comprovativos da identidade dos mesmos, bem como do projecto de estatutos, programa, denominação, sigla, bandeira, emblema e hino do partido.\n3.      Para os efeitos da presente lei, a comprovação da identidade dos requerentes faz-se através da junção de fotocópias autenticadas de BI, ou de passaporte nacional, ou da  certidão de nascimento, ou da cédula pessoal, ou da certidão de baptismo, ou da certidão de casamento.\n4.      A autenticação das fotocópias, bem como o reconhecimento das assinaturas e das impressões digitais dos requerentes que não saibam ou possam assinar é feita pelo funcionário competente do registo civil."
+   }
+  },
+  {
+   "id": "TL-H022-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Indeferimento do pedido de registo"
+   },
+   "text": {
+    "pt": "1.   No caso de indeferimento do pedido de registo do partido, cópia do despacho de indeferimento deve ser transmitida com as explicações das razões do indeferimento.\n2.   Face ao indeferimento, os requerentes poderão introduzir as correcções,  quando  solicitadas, ou recorrer ao Tribunal competente para reapreciação do pedido."
+   }
+  },
+  {
+   "id": "TL-H022-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Publicidade da inscrição"
+   },
+   "text": {
+    "pt": "1.      A decisão que ordena a inscrição provisória do partido político cabe ao Presidente do Tribunal competente e deve ser tomada no prazo de cinco (5) dias, contados da entrada dos documentos, referidos no artigo anterior, no Tribunal competente.\n2.      A decisão que ordene ou rejeite a inscrição provisória é dada a conhecer durante dois (2) dias consecutivos, na rádio nacional.\n3.      Da decisão que ordene ou rejeite a inscrição provisória cabe recurso para o Plenário do Tribunal competente, a ser interposto pelos partidos políticos interessados ou pelo Ministério Público, no prazo de cinco (5) dias a contar do último dia da sua divulgação feita na emissora nacional.\n4.      O recurso é decidido em cinco (5) dias.\n5.      Se a inscrição tiver sido recusada por incumprimento do disposto no n.º1 e 2 do artigo 5.º e o partido político proceder à substituição, no prazo de quarenta e oito horas, de forma a vir a ser ordenada a sua inscrição, esta considerar-se-á feita na data da decisão inicial que recusou a inscrição.\n6.      A decisão sobre a alteração ou substituição de propostas deve ser tomada pelo Presidente do Tribunal competente no prazo de quarenta e oito horas.\n7.      A decisão final é publicada no Jornal da República e divulgada durante três dias consecutivos na rádio nacional."
+   }
+  },
+  {
+   "id": "TL-H022-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II DIREITOS E DEVERES DOS PARTIDOS"
+   },
+   "heading": {
+    "pt": "Direitos"
+   },
+   "text": {
+    "pt": "Os partidos políticos têm os seguintes direitos:\na)       Prosseguir livre e publicamente os objectivos para que foram constituídos;\nb)       Divulgar livre e publicamente a sua linha política e ideológica através dos meios de comunicação social e quaisquer outros permitidos por lei;\nc)       Concorrer a eleições dentro das condições fixadas na lei eleitoral;\nd)       Definir e divulgar os seus projectos e programas de governação;\ne)       Apreciar criticamente os actos do governo e da administração pública;\nf)         Adquirir a título gratuito ou oneroso os bens móveis e imóveis indispensáveis à prossecução dos seus fins;\ng)       Quaisquer outros consagrados na lei."
+   }
+  },
+  {
+   "id": "TL-H022-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II DIREITOS E DEVERES DOS PARTIDOS"
+   },
+   "heading": {
+    "pt": "Deveres específicos"
+   },
+   "text": {
+    "pt": "1.      Os partidos políticos devem promover o diálogo e a colaboração entre si, com vista à defesa dos interesses nacionais cabendo-lhes especialmente:\na)      Respeitar a Constituição e as leis;\nb)      Comunicar ao Tribunal competente a superveniência de alterações aos estatutos e programa, identificação dos seus dirigentes, mudança de endereço da sede nacional, fusão ou quaisquer formas de coligação política;\nc)      Possuir as necessárias contas bancárias;\nd)      Publicar anualmente as contas, depois de auditadas.\n2.      Os partidos políticos estão especialmente proibidos de:\na)      Recorrer à violência ou preconizar o uso da força para alterar a ordem política e social do país; b) Fomentar ou difundir ideologias ou políticas separatistas, integracionistas, discriminatórias, anti-democráticas, racistas,  regionalistas, ou fascistas."
+   }
+  },
+  {
+   "id": "TL-H022-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III FUNCIONAMENTO INTERNO"
+   },
+   "heading": {
+    "pt": "Regras democráticas"
+   },
+   "text": {
+    "pt": "A organização interna dos partidos políticos deve obedecer a regras democráticas básicas designadamente às que se seguem:\na)       Os objectivos políticos, estruturação interna e modo de funcionamento devem constar dos respectivos estatutos e programa político;\nb)      Os estatutos e programas políticos do partido devem ser aprovados pela totalidade dos membros filiados ou pelos órgãos representativos;\nc)       Os titulares dos órgãos de direcção só podem ser eleitos, por voto directo e secreto de todos os filiados ou de assembleia deles representativa;\nd)      As decisões dos órgãos só são vinculativas quando esteja reunido o quorum para deliberar que consiste na presença de metade mais um de todos os membros do órgão em questão, a menos que a lei ou os estatutos estipulem quorum mais qualificado.\ne)       As decisões são tomadas por maioria simples, a menos que a lei ou estatutos exijam maioria qualificada.\nf)        Não pode ser negada a admissão ou excluída a filiação com base na raça, sexo, etnia, religião ou posição social."
+   }
+  },
+  {
+   "id": "TL-H022-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III FUNCIONAMENTO INTERNO"
+   },
+   "heading": {
+    "pt": "Congresso e Conferência Nacional dos partidos"
+   },
+   "text": {
+    "pt": "1.      Os partidos políticos podem criar os órgãos que julgarem necessários para a prossecução dos seus objectivos, devendo ter pelo menos, um órgão central representativo, com funções deliberativas.\n2.      O Congresso ou a Conferência Nacional dos partidos é o mais alto órgão deliberativo a nível nacional, com pelo menos dois terços dos seus delegados directamente eleitos pelos respectivos círculos partidários, assegurando a participação e a representatividade das bases.\n3.      O Congresso ou Conferência Nacional tem competência exclusiva para proceder à aprovação dos estatutos e programas políticos, decidir sobre a fusão com outros partidos, a sua entrada em coligações ou plataformas político-partidárias, delimitando o âmbito, objectivo e duração de tais plataformas ou coligações.\n4.      O Congresso ou Conferência reune-se regularmente com um intervalo máximo de quatro anos."
+   }
+  },
+  {
+   "id": "TL-H022-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III FUNCIONAMENTO INTERNO"
+   },
+   "heading": {
+    "pt": "Fiscalização interna"
+   },
+   "text": {
+    "pt": "1.      Os estatutos dos partidos políticos devem prever órgãos de fiscalização e controlo interno das contas da sua actividade, bem como das contas relativas às campanhas eleitorais em que participarem.\n2.      Os responsáveis das estruturas descentralizadas dos partidos devem fornecer informação regular das suas contas aos responsáveis nacionais e acatar as suas instruções, para o correcto cumprimento da presente lei, sob pena de responsabilização pessoal."
+   }
+  },
+  {
+   "id": "TL-H022-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV FINANCIAMENTO DE PARTIDOS POLÍTICOS E APRESENTAÇÃO DE CONTAS"
+   },
+   "heading": {
+    "pt": "Fontes de financiamento"
+   },
+   "text": {
+    "pt": "1.      As fontes de financiamento dos partidos políticos compreendem receitas próprias, receitas provenientes de financiamento privado.\n2.      Constituem receitas próprias:\na)      As quotas e outras contribuições dos membros do partido;\nb)      O produto de actividades de angariação de fundos desenvolvidas pelo partido;\nc)      Os rendimentos provenientes do património do partido;\nd)      O produto de empréstimos.\n3.      Constituem receitas de financiamento privado:\na)      Os donativos de pessoas singulares;\nb)      O produto de herança ou legados."
+   }
+  },
+  {
+   "id": "TL-H022-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV FINANCIAMENTO DE PARTIDOS POLÍTICOS E APRESENTAÇÃO DE CONTAS"
+   },
+   "heading": {
+    "pt": "Financiamentos proibidos"
+   },
+   "text": {
+    "pt": "É proibido aos partidos aceitar donativos em numerário de:\na)      Empresas públicas;\nb)      Sociedades com capital exclusivo ou maioritariamente do Estado;\nc)      Empresas concessionárias de serviços públicos;\nd)      Pessoas colectivas de utilidade pública ou dedicadas a actividades de beneficiência ou de fim religioso;\ne)      Associações profissionais, sindicais ou patronais;\nf)        Fundações;\ng)      Governos ou pessoas colectivas estrangeiras."
+   }
+  },
+  {
+   "id": "TL-H022-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV FINANCIAMENTO DE PARTIDOS POLÍTICOS E APRESENTAÇÃO DE CONTAS"
+   },
+   "heading": {
+    "pt": "Benefícios fiscais"
+   },
+   "text": {
+    "pt": "1.      Os partidos políticos beneficiam, para além do que vier a ser contemplado em lei especial, de isenção  de preparos e custas judiciais.\n2.      As isenções referidas no número anterior não abrangem as actividades económicas de natureza empresarial."
+   }
+  },
+  {
+   "id": "TL-H022-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV FINANCIAMENTO DE PARTIDOS POLÍTICOS E APRESENTAÇÃO DE CONTAS"
+   },
+   "heading": {
+    "pt": "Suspensão dos benefícios"
+   },
+   "text": {
+    "pt": "1.      Os benefícios previstos no artigo anterior são suspensos se:\na)      O partido se abstiver de concorrer às eleições gerais;\nb)      O partido for incapaz de eleger um único representante nas eleições gerais.\n2.       A suspensão termina quando em próximas eleições o partido conseguir fazer-se representar."
+   }
+  },
+  {
+   "id": "TL-H022-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV FINANCIAMENTO DE PARTIDOS POLÍTICOS E APRESENTAÇÃO DE CONTAS"
+   },
+   "heading": {
+    "pt": "Regime financeiro"
+   },
+   "text": {
+    "pt": "Os partidos políticos devem possuir contabilidade organizada de modo a que seja possível conhecer a sua situação financeira e verificar o cumprimento das obrigações previstas na lei."
+   }
+  },
+  {
+   "id": "TL-H022-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV FINANCIAMENTO DE PARTIDOS POLÍTICOS E APRESENTAÇÃO DE CONTAS"
+   },
+   "heading": {
+    "pt": "Publicidade das contas"
+   },
+   "text": {
+    "pt": "As contas dos partidos devem ser publicadas gratuitamente no Jornal da República acompanhadas do parecer do órgão estatutário competente para a sua revisão."
+   }
+  },
+  {
+   "id": "TL-H022-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV FINANCIAMENTO DE PARTIDOS POLÍTICOS E APRESENTAÇÃO DE CONTAS"
+   },
+   "heading": {
+    "pt": "Organização contabilística"
+   },
+   "text": {
+    "pt": "A organização contabilística dos partidos deve obedecer às regras de uma contabilidade saudável e conter especialmente:\na)      O inventário anual do património do partido quanto a bens imóveis e móveis sujeitos a registo;\nb)      A discriminação das receitas que inclui as previstas no artigo 20.º;\nc)      A discriminação das despesas, que inclui:\n•        Despesas com o pessoal;\n•        Despesas com aquisição de bens;\n•        Encargos financeiros com empréstimos;\n•        Outras despesas com as actividades do partido.\nd)      A discriminação das operações de capital referente a:\n•        Investimentos;\n•        Devedores e credores."
+   }
+  },
+  {
+   "id": "TL-H022-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV FINANCIAMENTO DE PARTIDOS POLÍTICOS E APRESENTAÇÃO DE CONTAS"
+   },
+   "heading": {
+    "pt": "Sanções"
+   },
+   "text": {
+    "pt": "1.      Sem prejuízo da responsabilidade criminal ou civil que possa ter lugar, os partidos políticos que não cumprirem com as obrigações impostas neste capítulo estão sujeitos ao pagamento de uma multa graduável pelo tribunal entre o valor mínimo de US $1,500 (mil e quinhentos dólares americanos) e o máximo de US $25.000 dólares americanos.\n2.      O produto das multas reverte a favor do Estado."
+   }
+  },
+  {
+   "id": "TL-H022-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV DISPOSIÇÕES FINAIS"
+   },
+   "heading": {
+    "pt": "Tribunal competente"
+   },
+   "text": {
+    "pt": "1. O tribunal competente para os efeitos da presente lei é o Supremo Tribunal de Justiça.\n2. Enquanto o Supremo Tribunal de Justiça não estiver instalado e iniciar funções, as competências previstas na presente lei serão exercidas transitoriamente pelo Tribunal Superior de Recurso em colectivo exclusivamente composto por magistrados judiciais nacionais."
+   }
+  },
+  {
+   "id": "TL-H022-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV DISPOSIÇÕES FINAIS"
+   },
+   "heading": {
+    "pt": "Autenticação de documentos e reconhecimento de assinaturas"
+   },
+   "text": {
+    "pt": "1.      A autenticação de documentos e a certificação de assinaturas, incluindo as assinaturas a rogo, competem aos serviços de registo civil.\n2.      A autenticação e o reconhecimento dos documentos e assinaturas é feito em língua tetum ou em língua portuguesa."
+   }
+  },
+  {
+   "id": "TL-H022-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV DISPOSIÇÕES FINAIS"
+   },
+   "heading": {
+    "pt": "Reconhecimento dos partidos politicos já registados"
+   },
+   "text": {
+    "pt": "Os partidos politicos registados no tempo da UNTAET têm-se como existentes, devendo, contudo, voltar a registar-se para as próximas eleições em conformidade com a presente lei."
+   }
+  },
+  {
+   "id": "TL-H022-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV DISPOSIÇÕES FINAIS"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

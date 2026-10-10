@@ -1,0 +1,150 @@
+{
+ "id": "CN-REG-0492",
+ "title": {
+  "zh": "中华人民共和国国家货币出入境管理办法",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p18",
+ "language": "zh",
+ "level": "decree",
+ "category": "行政法规",
+ "status": "active",
+ "promulgatedDate": "1993-01-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国务院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 8,
+ "chars": 328,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\行政法规\\中华人民共和国国家货币出入境管理办法_19930120.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，第一条至第八条，共 8 条；来源为项目数据资源中的官方汇编文件（中华人民共和国国家货币出入境管理办法_19930120.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-REG-0492-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "第一条"
+   },
+   "text": {
+    "zh": "为了加强国家货币出入境管理，维护国家金融秩序，适应改革开放的需要，制定本办法。"
+   }
+  },
+  {
+   "id": "CN-REG-0492-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "第二条"
+   },
+   "text": {
+    "zh": "本办法所称国家货币，是指中国人民银行发行的人民币。"
+   }
+  },
+  {
+   "id": "CN-REG-0492-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "第三条"
+   },
+   "text": {
+    "zh": "国家对货币出入境实行限额管理制度。\n中国公民出入境、外国人入出境，每人每次携带的人民币不得超出限额。具体限额由中国人民银行规定。"
+   }
+  },
+  {
+   "id": "CN-REG-0492-A4",
+   "no": 4,
+   "noLabel": {
+    "zh": "第四条"
+   },
+   "text": {
+    "zh": "携带国家货币出入境的，应当按照国家规定向海关如实申报。"
+   }
+  },
+  {
+   "id": "CN-REG-0492-A5",
+   "no": 5,
+   "noLabel": {
+    "zh": "第五条"
+   },
+   "text": {
+    "zh": "不得在邮件中夹带国家货币出入境。不得擅自运输国家货币出入境。"
+   }
+  },
+  {
+   "id": "CN-REG-0492-A6",
+   "no": 6,
+   "noLabel": {
+    "zh": "第六条"
+   },
+   "text": {
+    "zh": "违反国家规定运输、携带、在邮件中夹带国家货币出入境的，由国家有关部门依法处理；情节严重，构成犯罪的，由司法机关依法追究刑事责任。"
+   }
+  },
+  {
+   "id": "CN-REG-0492-A7",
+   "no": 7,
+   "noLabel": {
+    "zh": "第七条"
+   },
+   "text": {
+    "zh": "本办法由中国人民银行负责解释。"
+   }
+  },
+  {
+   "id": "CN-REG-0492-A8",
+   "no": 8,
+   "noLabel": {
+    "zh": "第八条"
+   },
+   "text": {
+    "zh": "本办法自一九九三年三月一日起施行。一九五一年三月六日中央人民政府政务院公布的《中华人民共和国禁止国家货币出入国境办法》同时废止。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "decree",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "中华人民共和国国家货币出入境管理办法"
+  },
+  "issuingBody": {
+   "zh": "国务院"
+  },
+  "promulgatedDate": "1993-01-20",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "行政法规"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

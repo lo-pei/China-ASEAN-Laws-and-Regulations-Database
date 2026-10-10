@@ -1,0 +1,167 @@
+{
+ "id": "SG-H3120",
+ "title": {
+  "zh": null,
+  "en": "Medicines (Advertisement and Sale) Act 1955",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p39",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act MASA1955",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 10,
+ "chars": 11371,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/MASA1955?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 10 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3120-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Medicines (Advertisement and Sale) Act 1955."
+   }
+  },
+  {
+   "id": "SG-H3120-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless there is something repugnant in the subject or context —\n“advertisement” includes any notice, circular, pamphlet, label, wrapper or other document, any announcement made orally or by any means of producing or transmitting light or sound and any other form of advertising;\n“Poisons List” means the Poisons List in the Schedule to the Poisons Act 1938;\n“proprietary designation”, in relation to the sale of an article consisting of or comprising a substance recommended as a medicine, means a word or words used or proposed to be used in connection with the sale of articles consisting of or comprising the substance for the purpose of indicating that they are the goods of a particular person by virtue of manufacture, selection, certification, dealing with or offering for sale; and “proprietor”, in relation to such a designation, means the person whose goods are indicated or intended to be indicated as aforesaid by the designation;\n“public hospital” includes any public clinic, public dispensary or other public institution for the reception of the sick whether as in-patients or outpatients;\n“substance” includes a preparation;\n“substance recommended as a medicine”, in relation to the sale of an article consisting of or comprising a substance so recommended, means a substance which is referred to —\n(a)on the article, or on any wrapper or container in which the article is sold, or on any label affixed to, or in any document enclosed in, the article or such a wrapper or container;\n(b)in any placard or other document exhibited at the place where the article is sold; or\n(c)in any advertisement published after the passing of this Act by or on behalf of the manufacturer of the article, or the person carrying on the business in the course of which the article was sold, or, in a case where the article was sold under a proprietary designation, the proprietor of the designation,\nin terms which are calculated to lead to the use of the substance for the prevention or treatment of any ailment, infirmity or injury affecting the human body, not being terms which give a definite indication that the substance is intended to be used as, or as part of, a food or drink, and not as, or as part of, a medicine;\n“word” includes a letter and a numeral."
+   }
+  },
+  {
+   "id": "SG-H3120-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Prohibition of advertisements relating to certain diseases"
+   },
+   "text": {
+    "en": "3.—(1) Subject to the provisions of this Act, no person shall take part in the publication of any advertisement referring to any article or articles of any description in terms which are calculated to lead to the use of that article or articles of that description as a medicine, appliance or remedy for the purpose of treatment of human beings for any of the diseases and conditions set out in the Schedule:\nProvided that this subsection shall not apply to any advertisement published by the Government or any public authority, or by the governing body of a public hospital or by any person authorised to publish the advertisement by the Minister.\n(2) In any proceedings for a contravention of subsection (1), it shall be a defence for the person charged to prove that the advertisement to which the proceedings relate was published only so far as was reasonably necessary to bring it to the notice of persons of the following classes or of one or some of them:\n(a)members of a local or public authority;\n(b)members of the governing body of a public hospital;\n(c)registered medical practitioners;\n(d)registered dentists;\n(e)registered nurses and midwives;\n(f)registered pharmacists and holders of licences to sell poisons set out in the Schedule to the Poisons Act 1938;\n(g)persons undergoing training with a view to becoming registered medical practitioners, registered dentists, registered nurses or registered pharmacists.\n[9/99]\n(3) The Minister may, by notification in the Gazette, add to, vary or amend the Schedule."
+   }
+  },
+  {
+   "id": "SG-H3120-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "text": {
+    "en": "4. [Repealed by Act 11 of 2023 wef 26/06/2023]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3120-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Prohibition of advertisements relating to abortion"
+   },
+   "text": {
+    "en": "5. Subject to the provisions of this Act, no person shall take part in the publication of any advertisement referring to any skill or service, or to any article or articles of any description, in terms which are calculated to induce any person to seek the advice of the advertiser or any person referred to in the advertisement in connection with such skill or service, or to lead to the use of that article or articles of that description, for procuring miscarriage of women."
+   }
+  },
+  {
+   "id": "SG-H3120-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Provisions as to offences under sections 3 and 5"
+   },
+   "text": {
+    "en": "6.—(1) If any person contravenes section 3 or 5, he shall be guilty of an offence and shall, subject to the provisions of this Act, be liable on conviction —\n(a)in the case of a first conviction, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both; and\n(b)in the case of a subsequent conviction, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 2 years or to both.\n[Act 11 of 2023 wef 26/06/2023]\n(2) Where in any proceedings for a contravention of section 3 or 5 it is proved —\n(a)that an advertisement was published referring to any article or articles of any description, in terms calculated to lead to the use of that article or articles of that description —\n(i)in the case of a contravention of section 3, for the treatment of human beings for any such disease or condition as is mentioned in the Schedule; or\n(ii)in the case of a contravention of section 5, for procuring the miscarriage of women; and\n(b)that the advertisement also referred to the article or articles in terms calculated to indicate that it or they were manufactured, produced, imported, sold or offered for sale by the person charged,\nthen, unless the contrary is proved, it shall be presumed for the purpose of those proceedings that that person took part in the publication of the advertisement, but without prejudice to the liability of any other person.\n(3) In any proceedings for a contravention of section 3 or 5, it shall be a defence for the person charged to prove —\n(a)that the advertisement to which the proceedings relate was published in such circumstances that he did not know and had no reason to believe that he was taking part in the publication thereof; or\n(b)that the advertisement was published only in a publication of a technical character intended for circulation mainly amongst persons of the following classes, or of one or some of them:\n(i)registered medical practitioners;\n(ii)registered dentists;\n(iii)registered nurses and midwives;\n(iv)registered pharmacists and holders of licences to sell poisons set out in the Schedule to the Poisons Act 1938;\n(v)persons undergoing training with a view to becoming registered medical practitioners, registered dentists, registered nurses or registered pharmacists.\n[Act 11 of 2023 wef 26/06/2023]\n[9/99]\n(4) [Deleted by Act 11 of 2023 wef 26/06/2023]"
+   }
+  },
+  {
+   "id": "SG-H3120-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Disclosure of composition of medicines"
+   },
+   "text": {
+    "en": "7.—(1) Subject to the provisions of this Act, no person shall —\n(a)sell by retail any article consisting of or comprising a substance recommended as a medicine; or\n(b)supply any such article as a sample for the purpose of inducing persons to buy by retail the substances of which it consists or which it comprises,\nunless there is written in the English language (as well as in any other language that may be used in addition to the English language) so as to be clearly legible on the article or a label affixed thereto, or, if the article is sold or supplied in a container, on the container or a label affixed thereto, or, if the article is sold or supplied in more than one container, on the inner container or a label affixed thereto —\n(c)the appropriate designation of the substance so recommended, or of each of the active constituents thereof, or of each of the ingredients of which it has been compounded; and\n(d)in a case where the appropriate designation of each of the active constituents or the ingredients is written, the appropriate quantitative particulars of the constituents or ingredients:\nProvided that this subsection shall not apply to any article made up and supplied for the use of a particular person, being an article prescribed by reference to the needs of that person.\n(2) In subsection (1) —\n(a)“appropriate designation”, in relation to a substance, constituent or ingredient, means —\n(i)in a case where the substance, constituent or ingredient is a poison included in the Poisons List, the name with which the container of the poison is for the time being required to be labelled in pursuance of section 6(2) of the Poisons Act 1938 and rules 22 and 23 of the Poisons Rules;\n(ii)in a case where the substance, constituent or ingredient is not such a poison and is described in any of the monographs contained in the edition of the British Pharmacopoeia or the British Pharmaceutical Codex which was last published before the date on which the article was sold or supplied, the description set out at the head of that monograph;\n(iii)in a case where the substance, constituent or ingredient is not such a poison and is not described as in sub‑paragraph (ii), the accepted scientific name, or other name descriptive of the true nature, of the substance, constituent or ingredient;\n(b)“appropriate quantitative particulars”, in relation to the active constituents or the ingredients of a substance, means —\n(i)the approximate percentage of each of those constituents or ingredients contained in the substance or the approximate quantity of each of those constituents or ingredients contained in the article sold or supplied; or\n(ii)in a case where that article consists of or comprises a number of separate portions of the substance, either the approximate percentage or quantity aforesaid, or the approximate quantity of each of the constituents or ingredients contained in each portion; and\n(c)“container” includes a wrapper.\n(3) If any person sells or supplies an article in contravention of subsections (1) and (2), he shall, subject to the provisions of this Act, be guilty of an offence and shall be liable on conviction —\n(a)in the case of a first conviction, to a fine not exceeding $1,000; and\n(b)in the case of a subsequent conviction, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.\n(4) It shall be a defence for a person charged with selling such an article in contravention of subsection (1) to prove that the sale was effected at a shop, and that the article consisted wholly either —\n(a)of a substance produced by drying, crushing or comminuting (but not subjecting to any other process) a plant or plants or any part thereof, or of a mixture the sole ingredients whereof are two or more such substances, or of a mixture the sole ingredients whereof are one or more of such substances and water; or\n(b)of a natural mineral water, or an artificial imitation thereof."
+   }
+  },
+  {
+   "id": "SG-H3120-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Jurisdiction"
+   },
+   "text": {
+    "en": "8. Notwithstanding anything in the Criminal Procedure Code 2010, a District Court or a Magistrate’s Court may try any offence under this Act and may impose the full penalties prescribed by this Act."
+   }
+  },
+  {
+   "id": "SG-H3120-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "9. The Minister may by order exempt any advertisement or class of advertisements from section 5.\n[Act 11 of 2023 wef 26/06/2023]"
+   }
+  },
+  {
+   "id": "SG-H3120-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nSections 3 and 6(2)\nDiseases and conditions\n1.Blindness\n2.Cancer\n3.Cataract\n4.Drug addiction\n5.Deafness\n6.Diabetes\n7.Epilepsy or fits\n8.Hypertension\n9.Insanity\n10.Kidney diseases\n11.Leprosy\n12.Menstrual disorders\n13.Paralysis\n14.Tuberculosis\n15.Sexual function\n16.Infertility\n17.Impotency\n18.Frigidity\n19.Conception and pregnancy"
+   }
+  }
+ ]
+}

@@ -1,0 +1,366 @@
+{
+ "id": "SG-H3674",
+ "title": {
+  "zh": null,
+  "en": "Spam Control Act 2007",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p46",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act SCA2007",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 21,
+ "chars": 18460,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/SCA2007?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 21 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3674-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Spam Control Act 2007."
+   }
+  },
+  {
+   "id": "SG-H3674-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "General interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“address‑harvesting software” means software that is specifically designed or marketed for use for —\n(a)searching the Internet for electronic addresses; and\n(b)collecting, compiling, capturing or otherwise harvesting those electronic addresses;\n“Authority” means the Info‑communications Media Development Authority established by section 3 of the Info‑communications Media Development Authority Act 2016;\n“business day” means any day other than a Saturday, Sunday or public holiday;\n“dictionary attack” means the method by which the electronic address of a recipient is obtained using an automated means that generates possible electronic addresses by combining names, letters, numbers, punctuation marks or symbols into numerous permutations;\n“electronic address” means an email address, an instant messaging account or a mobile telephone number to which an electronic message can be sent;\n“instant messaging account” means an account of a user of an instant messaging service;\n“instant messaging service” means a messaging service that allows a user to exchange messages with other users who are using the service concurrently;\n“Internet access service provider” means a person who provides a service to give the public access to the Internet;\n“recipient”, in relation to an electronic message, means an authorised user of the electronic address to whom the message is sent, and where a recipient of an electronic message has one or more electronic addresses in addition to the address to which the message was sent, the recipient is treated as a separate recipient with respect to each such address;\n“sender”, in relation to an electronic message, means a person who sends the message, causes the message to be sent, or authorises the sending of the message;\n“unsubscribe request” means a request by a recipient of an electronic message, requesting the sender to stop sending any further electronic messages to the recipient’s electronic address.\n[22/2016; 40/2020]"
+   }
+  },
+  {
+   "id": "SG-H3674-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Meaning of “commercial electronic message”"
+   },
+   "text": {
+    "en": "3.—(1) In this Act, a commercial electronic message is an electronic message, where, having regard to —\n(a)the content of the message;\n(b)the way in which the message is presented; and\n(c)the content that can be located using the links, telephone numbers or contact information (if any) set out in the message,\nit is concluded that the primary purpose of the message is —\n(d)to offer to supply goods or services;\n(e)to advertise or promote goods or services;\n(f)to advertise or promote a supplier, or a prospective supplier, of goods or services;\n(g)to offer to supply land or an interest in land;\n(h)to advertise or promote land or an interest in land;\n(i)to advertise or promote a supplier, or a prospective supplier, of land or an interest in land;\n(j)to offer to provide a business opportunity or an investment opportunity;\n(k)to advertise or promote a business opportunity or an investment opportunity;\n(l)to advertise or promote a provider, or a prospective provider, of a business opportunity or an investment opportunity;\n(m)to assist or enable a person, by deception, to dishonestly obtain property belonging to another person;\n(n)to assist or enable a person, by deception, to dishonestly obtain a financial advantage from another person; or\n(o)to assist or enable a person to dishonestly obtain a gain from another person.\n(2) For the purposes of paragraphs (d) to (l) of subsection (1), it does not matter —\n(a)whether the goods, services, land, interest or opportunity exists; or\n(b)whether it is lawful to acquire the goods, services, land or interest, or take up the opportunity.\n(3) Any of the following persons may be the individual who, or entity which, is the sender of the message:\n(a)the supplier or prospective supplier mentioned in paragraph (f) or (i) of subsection (1);\n(b)the provider or prospective provider mentioned in paragraph (l) of subsection (1);\n(c)the firstmentioned person in paragraph (m), (n) or (o) of subsection (1).\n(4) Subject to subsection (5), a person who knowingly allows the person’s product or service to be advertised or promoted by a sender is deemed to have authorised the sending by the sender of any electronic message that advertises or promotes that person’s product or service.\n(5) For the purposes of subsection (4), a person who takes reasonable steps to stop the sending of any electronic message that advertises or promotes that person’s product or service is deemed not to have authorised the sending of the message."
+   }
+  },
+  {
+   "id": "SG-H3674-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Meaning of “electronic message”"
+   },
+   "text": {
+    "en": "4.—(1) In this Act, subject to subsection (3), an electronic message is a message sent to an electronic address.\n(2) For the purposes of subsection (1), it does not matter —\n(a)whether the electronic address exists; or\n(b)whether the message reaches its intended destination.\n(3) For the purposes of this Act, a message is not an electronic message if it is sent by way of a voice call made using a telephone service."
+   }
+  },
+  {
+   "id": "SG-H3674-A4.001",
+   "no": 4.001,
+   "noLabel": {
+    "en": "4A."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Electronic messages sent to instant messaging accounts"
+   },
+   "text": {
+    "en": "4A. For the purposes of this Act —\n(a)where an electronic message is sent to an instant messaging account; and\n(b)the name used to identify, or which is associated with, that instant messaging account is an email address or a mobile telephone number,\nthe electronic message is not a message sent to the email address or mobile telephone number (as the case may be) mentioned in paragraph (b).\n[40/2020]"
+   }
+  },
+  {
+   "id": "SG-H3674-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Meaning of “unsolicited”"
+   },
+   "text": {
+    "en": "5.—(1) In this Act, an electronic message is unsolicited if the recipient did not —\n(a)request to receive the message; or\n(b)consent to the receipt of the message.\n(2) For the purposes of subsection (1), a recipient is not to be treated as having requested to receive the message or consented to the receipt of the message merely because the electronic address of the recipient was given or published by or on behalf of the recipient.\n(3) For the purposes of subsection (1), where a recipient of an electronic message, other than an unsolicited electronic message, submits an unsubscribe request, the recipient is not to be treated as having requested to receive or consented to the receipt of any message sent after the expiry of 10 business days after the day on which the unsubscribe request is submitted."
+   }
+  },
+  {
+   "id": "SG-H3674-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Meaning of “sending in bulk”"
+   },
+   "text": {
+    "en": "6.—(1) For the purposes of this Act, electronic messages are deemed to be sent in bulk if a person sends, causes to be sent or authorises the sending of —\n(a)more than 100 electronic messages containing the same or similar subject matter during a 24‑hour period;\n(b)more than 1,000 electronic messages containing the same or similar subject matter during a 30‑day period; or\n(c)more than 10,000 electronic messages containing the same or similar subject matter during a one‑year period.\n(2) The Minister may, by order in the Gazette, vary the number of electronic messages specified in subsection (1)(a), (b) or (c)."
+   }
+  },
+  {
+   "id": "SG-H3674-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Application of Act"
+   },
+   "text": {
+    "en": "7.—(1) This Act does not apply unless an electronic message has a Singapore link.\n(2) For the purposes of subsection (1), an electronic message has a Singapore link in the following circumstances:\n(a)the message originates in Singapore;\n(b)the sender of the message is —\n(i)an individual who is physically present in Singapore when the message is sent; or\n(ii)an entity —\n(A)which is formed or recognised under the law of Singapore; or\n(B)which has an office or a place of business in Singapore;\n(c)the computer, mobile telephone, server or device that is used to access the message is located in Singapore;\n(d)the recipient of the message is —\n(i)an individual who is physically present in Singapore when the message is accessed; or\n(ii)an entity that carries on business or activities in Singapore when the message is accessed; or\n(e)if the message cannot be delivered because the relevant electronic address no longer exists (assuming that the electronic address existed), it is reasonably likely that the message would have been accessed using a computer, mobile telephone, server or device located in Singapore.\n[40/2020]\n(3) Despite subsection (1), this Act does not apply to any electronic message specified in the First Schedule to such extent as may be specified therein."
+   }
+  },
+  {
+   "id": "SG-H3674-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 DICTIONARY ATTACK AND ADDRESS‑HARVESTING SOFTWARE"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "8.—(1) Subject to subsection (2), this Part applies to all electronic messages, whether or not they are unsolicited commercial electronic messages.\n[40/2020]\n(2) This Part does not apply to any electronic message sent to a mobile telephone number.\n[40/2020]"
+   }
+  },
+  {
+   "id": "SG-H3674-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 DICTIONARY ATTACK AND ADDRESS‑HARVESTING SOFTWARE"
+   },
+   "heading": {
+    "en": "Use of dictionary attack and address‑harvesting software"
+   },
+   "text": {
+    "en": "9. A person must not send, cause to be sent, or authorise the sending of, an electronic message to electronic addresses generated or obtained through the use of —\n(a)a dictionary attack; or\n(b)address-harvesting software."
+   }
+  },
+  {
+   "id": "SG-H3674-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 UNSOLICITED COMMERCIAL ELECTRONIC MESSAGES"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "10. This Part applies only to unsolicited commercial electronic messages."
+   }
+  },
+  {
+   "id": "SG-H3674-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 UNSOLICITED COMMERCIAL ELECTRONIC MESSAGES"
+   },
+   "heading": {
+    "en": "Sender of unsolicited commercial electronic messages in bulk to comply with Second Schedule"
+   },
+   "text": {
+    "en": "11. Any person who sends, causes to be sent or authorises the sending of unsolicited commercial electronic messages in bulk must comply with the requirements in the Second Schedule."
+   }
+  },
+  {
+   "id": "SG-H3674-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 4 CIVIL ACTION"
+   },
+   "heading": {
+    "en": "Aiding, abetting, etc."
+   },
+   "text": {
+    "en": "12.—(1) A person must not —\n(a)aid, abet or procure a contravention of section 9 or 11;\n(b)induce, whether by threats, promises or otherwise, a contravention of section 9 or 11;\n(c)be in any way, directly or indirectly, knowingly concerned in or a party to, a contravention of section 9 or 11; or\n(d)conspire with others to effect a contravention of section 9 or 11.\n(2) A person does not contravene subsection (1), section 9 or 11 merely because the person —\n(a)provides, or operates facilities for, online services or network access; or\n(b)provides services relating to, or provides connections for, the transmission or routing of data."
+   }
+  },
+  {
+   "id": "SG-H3674-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 4 CIVIL ACTION"
+   },
+   "heading": {
+    "en": "Civil action"
+   },
+   "text": {
+    "en": "13.—(1) Where there is a contravention of section 9 or 11 in relation to electronic messages sent to electronic addresses, any person who has suffered loss or damage as a direct or an indirect result of that contravention may commence an action in a court against —\n(a)the sender; or\n(b)a person who has contravened section 12(1).\n(2) This section does not affect any liability that any person has under any other written law or rule of law."
+   }
+  },
+  {
+   "id": "SG-H3674-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 4 CIVIL ACTION"
+   },
+   "heading": {
+    "en": "Injunction and damages for civil action"
+   },
+   "text": {
+    "en": "14.—(1) Subject to the provisions of this Act, in an action under section 13(1), the types of relief that the court may grant include the following:\n(a)an injunction (subject to any terms that the court thinks fit);\n(b)damages;\n(c)statutory damages under subsection (3).\n(2) The types of relief mentioned in paragraphs (b) and (c) of subsection (1) are mutually exclusive.\n(3) In any action under section 13(1), the claimant is entitled, at the election of the claimant, to —\n(a)damages in the amount of the loss or damage suffered by the claimant as a direct or an indirect result of the contravention mentioned in section 13(1); or\n[Act 25 of 2021 wef 01/04/2022]\n(b)statutory damages —\n(i)not exceeding $25 for each electronic message mentioned in section 13(1); and\n(ii)not exceeding in the aggregate $1 million, unless the claimant proves that the actual loss suffered by the claimant from such electronic messages exceeds $1 million.\n[Act 25 of 2021 wef 01/04/2022]\n(4) In awarding statutory damages under subsection (3)(b), the court is to have regard to —\n(a)whether the contravention by the defendant of section 9, 11 or 12(1) was wilful;\n(b)any loss or damage that the claimant has suffered or is likely to suffer as a direct or an indirect result of the contravention mentioned in section 13(1);\n[Act 25 of 2021 wef 01/04/2022]\n(c)any benefit shown to have accrued to the defendant by reason of the sending of electronic messages;\n(d)the need to deter other similar instances of sending of electronic messages; and\n(e)all other relevant matters.\n(5) The loss mentioned in this section includes any pecuniary loss suffered as a direct or an indirect result of the contravention mentioned in section 13(1)."
+   }
+  },
+  {
+   "id": "SG-H3674-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 4 CIVIL ACTION"
+   },
+   "heading": {
+    "en": "Costs and expenses"
+   },
+   "text": {
+    "en": "15. In any proceedings under this Act, the court may, in addition to exercising the powers conferred by section 14, order the defendant to pay to the claimant —\n(a)the costs and expenses of and incidental to the proceedings; and\n(b)any legal costs incurred in respect of the proceedings.\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3674-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Code of practice"
+   },
+   "text": {
+    "en": "16.—(1) Internet access service providers and telecommunications service providers may, with the approval of the Authority, issue a code of practice in connection with —\n(a)minimum standards of technical measures to effectively control the sending of unsolicited commercial electronic messages; and\n(b)any other matters that the Authority may require.\n(2) Every Internet access service provider and telecommunications service provider must comply with any code of practice the Authority approves under subsection (1), except that if any provision in any code of practice is inconsistent with this Act, that provision does not have effect to the extent of the inconsistency."
+   }
+  },
+  {
+   "id": "SG-H3674-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Amendment of Schedules"
+   },
+   "text": {
+    "en": "17.—(1) The Minister may at any time, by order in the Gazette, amend any Schedule.\n(2) The Minister may, in any order made under subsection (1), make any incidental, consequential or supplementary provisions that may be necessary or expedient."
+   }
+  },
+  {
+   "id": "SG-H3674-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "18. The Minister may make any regulations that may be necessary or expedient —\n(a)for carrying out the purposes and provisions of this Act; and\n(b)for prescribing anything that may be required or authorised to be prescribed by this Act."
+   }
+  },
+  {
+   "id": "SG-H3674-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nSections 7(3) and 17\nExcluded electronic messages\n1. This Act does not apply to any electronic message where the sending of the message is authorised by the Government or a statutory body on the occurrence of any public emergency, in the public interest or in the interests of public security or national defence.\n2. For the purposes of paragraph 1, if any doubt arises as to the existence of a public emergency or as to whether any electronic message is sent in the interests of public security or national defence, a certificate signed by the Minister is conclusive evidence of the matters stated in the certificate."
+   }
+  },
+  {
+   "id": "SG-H3674-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nSections 11 and 17\nRequirements for unsolicited commercial\nelectronic messages\nInterpretation\n1. In this Schedule —\n“header information” means the source, destination and routing information attached to an electronic message, including (where applicable) the originating domain name and originating email address, and any other information that appears in the line identifying, or purporting to identify, the sender of the message;\n“mistake” means reasonable mistake of fact.\nUnsubscribe facility\n2.—(1) Subject to sub-paragraphs (2) and (3), every unsolicited commercial electronic message must contain —\n(a)an email address, an Internet location address, a telephone number, a fax number or a postal address that the recipient may use to submit an unsubscribe request; and\n(b)a statement to the effect that the recipient may use the email address, Internet location address, telephone number, fax number or postal address (as the case may be) provided in the unsolicited commercial electronic message to submit an unsubscribe request, or a statement to similar effect.\n(2) Where the unsolicited commercial electronic message is received by the recipient by email, the unsolicited commercial electronic message must include an email address to which the recipient may submit an unsubscribe request.\n(3) Where the unsolicited commercial electronic message is received by the recipient by text or multimedia messaging sent to a mobile telephone number, the unsolicited commercial electronic message must include —\n(a)a mobile telephone number to which the recipient may submit an unsubscribe request by text if the unsolicited commercial electronic message is received by text; or\n(b)a mobile telephone number to which the recipient may submit an unsubscribe request by text or multimedia messaging at the recipient’s option if the unsolicited commercial electronic message is received by multimedia messaging.\n(4) The statement mentioned in sub‑paragraph (1)(b) must be presented —\n(a)in a clear and conspicuous manner; and\n(b)in the English language, and where the statement is presented in 2 or more languages, the English language must be one of the languages.\n(5) The email address, Internet location address, telephone number, fax number or postal address mentioned in sub‑paragraphs (1), (2) and (3) must be —\n(a)valid and capable of receiving —\n(i)the recipient’s unsubscribe request (if any); and\n(ii)a reasonable number of similar unsubscribe requests sent by other recipients (if any),\nat all times during a period of at least 30 days after the unsolicited commercial electronic message is sent; and\n(b)legitimately obtained.\n(6) The use of the email address, Internet location address, telephone number, fax number or postal address mentioned in sub‑paragraphs (1), (2) and (3) to submit an unsubscribe request must not cost more than the usual cost of using that kind or a similar kind of email address, Internet location address, telephone number, fax number or postal address (as the case may be) using the same kind of technology as was used to receive the unsolicited commercial electronic message.\n(7) Where a recipient submits an unsubscribe request using the facility provided in accordance with this paragraph, no further unsolicited commercial electronic messages may be sent after the expiry of 10 business days after the day on which the unsubscribe request is submitted.\n(8) Any person who receives an unsubscribe request under this paragraph must not disclose any information contained in the unsubscribe request to any other person, except with the consent of the person whose particulars are contained in the unsubscribe request.\n(9) Sub‑paragraphs (1) to (7) do not apply if the unsolicited commercial electronic message is sent, caused to be sent or authorised to be sent by mistake.\nLabelling and other requirements\n3.—(1) Subject to sub‑paragraph (3), every unsolicited commercial electronic message must contain —\n(a)where there is a subject field — a title in the subject field that is not false or misleading as to the content of the message;\n(b)the letters “<ADV>” with a space before the title in the subject field, or if there is no subject field, in the words first appearing in the message, to clearly identify that the message is an advertisement;\n(c)header information that is not false or misleading; and\n(d)an accurate and functional email address or telephone number by which the sender can be readily contacted.\n(2) Sub‑paragraph (1) does not apply if the unsolicited commercial electronic message is sent, caused to be sent or authorised to be sent by mistake.\n(3) Sub‑paragraph (1) does not apply to any unsolicited commercial electronic message that is sent to an instant messaging account.\n[40/2020]"
+   }
+  }
+ ]
+}

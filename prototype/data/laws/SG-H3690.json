@@ -1,0 +1,104 @@
+{
+ "id": "SG-H3690",
+ "title": {
+  "zh": null,
+  "en": "Supplementary Supply (FY 2025) Act 2026",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p46",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act SSFY2025A2026",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1647,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/SSFY2025A2026?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 5 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3690-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Supplementary Supply (FY 2025) Act 2026."
+   }
+  },
+  {
+   "id": "SG-H3690-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, “FY 2025” means the period starting 1 April 2025 and ending 31 March 2026."
+   }
+  },
+  {
+   "id": "SG-H3690-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Supplementary supply from Consolidated Fund"
+   },
+   "text": {
+    "en": "3.—(1) A further sum of not more than $1,087,355,800, not otherwise provided for by the Supply Act 2025, is authorised to be issued from the Consolidated Fund for FY 2025.\n(2) The sum in subsection (1) is appropriated for the Heads of Expenditure for the public service specified in the Schedule."
+   }
+  },
+  {
+   "id": "SG-H3690-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Supplementary supply from Development Fund"
+   },
+   "text": {
+    "en": "4.—(1) A further sum of not more than $2,161,019,900, not otherwise provided for by the Supply Act 2025, is authorised to be issued from the Development Fund for FY 2025.\n(2) The sum in subsection (1) is appropriated for development purposes under the Heads of Expenditure specified in the Schedule."
+   }
+  },
+  {
+   "id": "SG-H3690-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nSections 3(2) and 4(2)\nHeads of Expenditure for which\nfurther sums are appropriated\nHead\nTitle\nAppropriation\nfrom\nConsolidated\nFund\nAppropriation\nfrom\nDevelopment\nFund\nTotal\nappropriations\n$\n$\n$\nB\nAttorney‑General’s Chambers\n…\n364,800\n364,800\nE\nJudicature\n16,486,700\n…\n16,486,700\nI\nMinistry of Social and Family Development\n…\n31,226,800\n31,226,800\nL\nMinistry of Sustainability and the Environment\n66,598,800\n16,361,800\n82,960,600\nP\nMinistry of Home Affairs\n472,103,300\n…\n472,103,300\nQ\nMinistry of Digital Development and Information\n…\n44,183,300\n44,183,300\nS\nMinistry of Manpower\n346,483,200\n22,275,000\n368,758,200\nT\nMinistry of National Development\n…\n909,322,000\n909,322,000\nV\nMinistry of Trade and Industry\n26,336,400\n…\n26,336,400\nW\nMinistry of Transport\n131,183,600\n1,137,286,200\n1,268,469,800\nZ\nFinancial Transfers\n28,163,800\n…\n28,163,800\nTotal\n1,087,355,800\n2,161,019,900\n3,248,375,700"
+   }
+  }
+ ]
+}

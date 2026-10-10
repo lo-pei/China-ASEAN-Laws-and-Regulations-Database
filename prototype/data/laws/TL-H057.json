@@ -1,0 +1,95 @@
+{
+ "id": "TL-H057",
+ "title": {
+  "zh": "共和国总统选举法",
+  "en": null,
+  "orig": "Lei Eleitoral para o Presidente da Republica"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2007-03-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 5/2007",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 4104,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2007/serie_1/serie1_no7.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自官方公报 PDF（public/docs/2007/serie_1/serie1_no7.pdf）第 1744–1746 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H057-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "text": {
+    "pt": "O  Artigo 38º, da Lei número 7/2006, de 28 de Dezembro passa a ter a seguinte redacção:\n“Artigo 38º Boletim de voto\n1.   O boletim de voto tem forma rectangular, com a dimensão apropriada para nele caber a indicação de todas as candidaturas e é impresso em papel branco, liso e não transparente.\n2.    Em cada boletim de voto são impressos os nomes dos candidatos, e a cores, as respectivas fotografias e o símbolo por estes livremente escolhido, dispostos horizontalmente, pela ordem que tiver sido sorteada, de acordo com modelo a aprovar pela CNE, sob proposta do STAE."
+   }
+  },
+  {
+   "id": "TL-H057-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "text": {
+    "pt": "O  Artigo 41º, da Lei número 7/2006, de 28 de Dezembro passa a ter a seguinte redacção:\n“Artigo 41º Não realização da votação\n1.   Não pode realizar-se a votação em qualquer centro de votação ou estação de voto se:\na.    Esta não se puder constituir, se ocorrer qualquer tumulto que determine a interrupção das operações eleitorais por mais de 2 horas, ou ocorrer alguma calamidade no dia marcado para a eleição:\nb.   Ocorrer alguma calamidade nos 3 dias anteriores ao dia da eleição.\n2.   A impossibilidade de realização da eleição é comunicada ao representante distrital da CNE imediatamente após o conhecimento da ocorrência de qualquer dos factos previstos no número anterior.\n3.   A interrupção da votação por período superior a 2 horas determina o encerramento da estação de voto e a remessa das urnas seladas, contendo os votos até então obtidos, à Assembleia de apuramento distrital.\n4.   Nos casos previstos na alinea a) do número 1 os eleitores são encaminhados para o centro de votação ou estação de voto mais próximo.\n5.   No caso previsto na alinea b) do número 1 o STAE com o acordo do representante distrital da CNE, transfere a localização do centro de votação  ou estação de voto para local mais seguro.”"
+   }
+  },
+  {
+   "id": "TL-H057-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "text": {
+    "pt": "O artigo 44º, da Lei número 7/2006, de 28 de Dezembro passa a ter a seguinte redacção:\n“Artigo 44º Contagem dos votos e apuramento inicial\n1.   A contagem dos votos inicia-se imediatamente após o encerramento do centro de votação ou estação de voto e análise das dúvidas, reclamações e protestos e é no mesmo local efectuada pelos oficiais eleitorais, na presença dos fiscais das candidaturas e, quando existam, dos observadores, nacionais ou internacionais, e dos profissionais dos órgãos da comunicação social.\n2.    Após a contagem dos votos ou no decurso dela, podem os fiscais das candidaturas apresentar reclamações, que são analisadas e decididas nos termos dos no 2 e 3 do artigo anterior.\n3.   Se decorrida mais de 1 hora do encerramento da votação, não puder iniciar-se a contagem e o apuramento, as urnas seladas e identificadas são imediatamente transportadas pelos oficiais eleitorais para a assembleia de apuramento distrital.\n4.   Concluídas as operações previstas no no 1, analisadas as dúvidas e protestos apresentados e decididas as reclamações deduzidas ou verificada a circunstância a que alude o no 3, é elaborada acta com o relato de todas as ocorrências pertinentes, que é de imediato remetida à assembleia de apuramento distrital.”"
+   }
+  },
+  {
+   "id": "TL-H057-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "text": {
+    "pt": "O artigo 68º, da Lei número 7/2006, de 28 de Dezembro passa a ter a seguinte redacção:\n“Artigo 68º Observadores nacionais e internacionais\n1.  É observador eleitoral a pessoa singular que represente uma organização nacional ou internacional, requeira o seu registo, como tal, ao STAE, e seja aceite.\n2.   As funções de observador são, nomeadamente, as seguintes:\na)   Acompanhar o desenrolar das operações de votação, desde a instalação do centro de votação ou estação de voto até ao seu encerramento;\nb)    Acompanhar o transporte das urnas e demais elementos do centro de votação ou estação de voto para a assembleia de apuramento distrital;\nc)   Acompanhar o processo de contagem de votos e apuramento dos resultados;\nd)   Elaborar relatório da observação, sempre que tal lhe seja exigido.\n3.    A aquisição do estatuto de observador, nacional ou internacional, e o desempenho das respectivas funções obedecem às regras fixadas em código de conduta a elaborar pelo STAE e a aprovar pela CNE.”"
+   }
+  },
+  {
+   "id": "TL-H057-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "Esta lei entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

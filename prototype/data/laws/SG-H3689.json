@@ -1,0 +1,94 @@
+{
+ "id": "SG-H3689",
+ "title": {
+  "zh": null,
+  "en": "Sultan Hussain Ordinance 1904",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p46",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act SHO1904",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1404,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/SHO1904?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 4 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3689-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Ordinance may be cited as the Sultan Hussain Ordinance 1904."
+   }
+  },
+  {
+   "id": "SG-H3689-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Administration of land by Collector of Land Revenue"
+   },
+   "text": {
+    "en": "2. The said land situate in Kampong Glam, having reverted to the State, shall be administered by the Collector of Land Revenue in the same manner as other State lands."
+   }
+  },
+  {
+   "id": "SG-H3689-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "New scheme for payment of annuity or commuted gratuity to family of late Sultan Hussain"
+   },
+   "text": {
+    "en": "3.—(1) The Minister may by regulations provide for the establishment of a scheme for the payment of an annuity to the family of the late Sultan Hussain a sum of $350,000 for a period of 30 years from 1 March 2000.\n(2) The annuity under the scheme established under subsection (1) shall be paid only to members of the family of the late Sultan Hussain who before 4 May 1999 were receiving an annuity under the Ordinance.\n(3) Regulations made under this section may provide for —\n(a)the determination of the proportions of the annuity under the scheme to be paid to persons to whom the annuity is payable;\n(b)the exercise of an option by a person to whom an annuity is payable under the scheme to be paid a commuted gratuity in lieu of the annuity;\n(c)the payment of a commuted gratuity to the estate of a person to whom annuity is payable under the scheme upon his death; and\n(d)generally giving effect to or for carrying out the purposes of this section."
+   }
+  },
+  {
+   "id": "SG-H3689-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Payments under Ordinance not to be assignable"
+   },
+   "text": {
+    "en": "4. The sums payable to the family of the late Sultan Hussain under this Ordinance shall not be assignable or transferable or liable to be attached, sequestrated or levied upon for or in respect of any debt or claim."
+   }
+  }
+ ]
+}

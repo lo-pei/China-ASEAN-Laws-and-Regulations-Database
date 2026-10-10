@@ -1,0 +1,76 @@
+{
+ "id": "PH-H280",
+ "title": {
+  "zh": null,
+  "en": "An Act to Consider Teachers and Other Civil Service Employees with Certain Educational Qualifications Who Have Been in the Government Service Continuously for Ten Years as Civil Service Eligibles Without Taking Any Civil Service Examination",
+  "orig": "An Act to Consider Teachers and Other Civil Service Employees with Certain Educational Qualifications Who Have Been in the Government Service Continuously for Ten Years as Civil Service Eligibles Without Taking Any Civil Service Examination"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p03",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1947-06-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 186",
+ "officialCode": null,
+ "topics": [
+  "labor",
+  "administrative",
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1666,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1947/ra_186_1947.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1947/ra_186_1947.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H280-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Any provision of existing laws or regulations to the contrary notwithstanding, all teachers in the public schools who were holders of the degree of Bachelor of Science in Education, in Agriculture or in Commerce, and graduates of the Philippine Normal School or the Philippine School of Arts and Trades at the time they were appointed and who have been in the service continuously for ten successive years to the present time, are considered, to all intent and purposes, civil service eligibles as senior teachers with all the rights and privileges appertaining to the status of permanent employees in the Philippine Government.\nAcademic and vocational high school graduates at the time they were appointed as teacher and who have been in continuous service for ten successive years are likewise considered civil service eligibles as junior teachers with permanent status.\nTeachers who are undergraduates and who have been in continuous service for ten years are considered, to all intents and purposes, regular teachers with permanent status."
+   }
+  },
+  {
+   "id": "PH-H280-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Officials or employees holding civil service positions in any branch of the Government service other than that provided for in the preceding section, continuously for at least ten successive years, shall be considered civil service eligibles with permanent status under the following classification:\nFirst Grade — Those with college degrees at the time of appointment;\nSecond Grade — Those who were graduates of academic or vocational high school at the time of their appointment;\nThird Grade — Those possessing any education at the time of appointment."
+   }
+  },
+  {
+   "id": "PH-H280-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1947."
+   }
+  }
+ ]
+}

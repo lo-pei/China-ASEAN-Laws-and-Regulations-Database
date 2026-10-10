@@ -1,0 +1,81 @@
+{
+ "id": "SG-H2245",
+ "title": {
+  "zh": null,
+  "en": "Income Tax (Exemption of Royalties and Other Payments for Economic and Technological Development) (No. 2) Notification 2003",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p28",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ITA1947-S530-2003",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1473,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ITA1947-S530-2003?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2245-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Notification may be cited as the Income Tax (Exemption of Royalties and Other Payments for Economic and Technological Development) (No. 2) Notification 2003."
+   }
+  },
+  {
+   "id": "SG-H2245-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In this Notification —\n“digitised goods” means text, images or sounds that are transferred through any handphone, fixed-line phone, cable network, satellite, the Internet, or other form of electronic transmission, but does not include software;\n“end-user” means a person who acquires the right to use any information or digitised goods but does not acquire the right to exploit the copyright of the information or digitised goods in the course of a business or holds himself out as having done so;\n“information” means —\n(a)information comprised in any newspaper or magazine article or report, including financial and business data (such as foreign exchange, stock and property data) and other proprietary data; and\n(b)information obtained solely for research purposes."
+   }
+  },
+  {
+   "id": "SG-H2245-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "3. There shall be exempt from tax any income referred to in section 12(7) of the Act of a non-resident person accruing in or derived from Singapore during the period from 28th February 2003 to 27th February 2013 (both dates inclusive) that is a payment —\n(a)made to the non-resident person by an end-user for —\n(i)information; or\n(ii)digitised goods;\n(b)not derived from any trade or business carried on or exercised by the non-resident person in Singapore; and\n(c)not effectively connected with any permanent establishment in Singapore."
+   }
+  }
+ ]
+}

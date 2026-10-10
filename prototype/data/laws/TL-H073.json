@@ -1,0 +1,107 @@
+{
+ "id": "TL-H073",
+ "title": {
+  "zh": "Primeira 修改 à《第10/2007号法律》，核准2008年国家总预算",
+  "en": null,
+  "orig": "Primeira alteração à Lei n.º 10/2007, de 31 de Dezembro, que aprova o Orçamento Geral do Estado para 2008"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2008-08-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "本法系对《第10/2007号法律》的修改。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 12/2008",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1695,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2008/serie_1/serie1_no33.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自官方公报 PDF（public/docs/2008/serie_1/serie1_no33.pdf）第 2532–2549 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 原公报条号不连续（缺第 4、5、6、7 条）：本法 为「修改法」，其条文以**被修改文书**的条号标示，条号跳跃属该体例使然。 【本法系对《第10/2007号法律》的修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H073-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Alteração ao Orçamento Geral do Estado para 2008"
+   },
+   "text": {
+    "pt": "1-   É alterado o Orçamento Geral do Estado para 2008, aprovado pela Lei n.º 10/2007, de 31 de Dezembro, rectificada pela Declaração de Rectificação n.º 1/2008, de 16 de Janeiro, quer na parte relativa às tabelas constantes dos Anexos I, II e III a essa lei, quer nos termos dos artigos seguintes.\n2-   A alteração referida no número anterior consta das tabelas dos Anexos I, II e III à presente lei, que substituem as tabelas dos Anexos I, II e III  da Lei n.º 10/2007, de 31 de Dezembro.\n3-  Os artigos 4.º e 8.º da Lei n.º 10/2007, de 31 de Dezembro, passam a ter a seguinte redacção:\n\"Artigo 4.º […] Nos termos e para os efeitos do disposto no artigo 7.º da Lei n.º 9/2005, de 3 de Agosto, o montante das transferências do fundo petrolífero para 2008 não excede 686.8 milhões de dólares norte-americanos."
+   }
+  },
+  {
+   "id": "TL-H073-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "heading": {
+    "pt": "[…]"
+   },
+   "text": {
+    "pt": "[…]\na)   […]\nb)   […]\nc)   […]\nd)   […]\ne)   […]\nf)   […]\ng)   […]\nh)   […]\n(i)    […]\nj)   […]\nk)   […]\nl)   […]\nm)   […]\nn)   […]\no)   Fundo de Estabilização Económica."
+   }
+  },
+  {
+   "id": "TL-H073-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Aditamentos ao Orçamento Geral de Estado para 2008"
+   },
+   "text": {
+    "pt": "São aditados à Lei n.º 10/2007, de 31 de Dezembro, os artigos\n2.º-A e 9.º-A, com a seguinte redacção:\n\"Artigo 2.º-A Programas de investimento plurianuais\n1.   Os programas de investimento plurianuais envolvem projectos de grande dimensão, a executar ao longo de vários exercícios orçamentais.\n2.   É aprovada a despesa prevista para o exercício de 2008 relativa aos programas constantes do Anexo IV ao presente diploma, sem prejuízo dos totais das despesas previstas no Anexo II."
+   }
+  },
+  {
+   "id": "TL-H073-A9.1",
+   "no": 9.1,
+   "noLabel": {
+    "pt": "Artigo 9.º-A"
+   },
+   "heading": {
+    "pt": "Fundo de Estabilização Económica"
+   },
+   "text": {
+    "pt": "O Fundo de Estabilização Económica, criado pelo Decreto-Lei n.º 22/2008, de 16 de Julho, é administrado pelo Ministério das Finanças.\""
+   }
+  },
+  {
+   "id": "TL-H073-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia imediatamente a seguir ao da sua publicação no Jornal de República."
+   }
+  }
+ ]
+}

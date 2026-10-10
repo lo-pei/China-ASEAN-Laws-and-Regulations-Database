@@ -1,0 +1,65 @@
+{
+ "id": "PH-H267",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Two Hundred and Sixty-Six of Commonwealth Act Numbered Four Hundred and Sixty-Six, Known as the National Internal Revenue Code, Relative to Charges Collectible on Forest Products Gathered from Unregistered Private Lands",
+  "orig": "An Act to Amend Section Two Hundred and Sixty-Six of Commonwealth Act Numbered Four Hundred and Sixty-Six, Known as the National Internal Revenue Code, Relative to Charges Collectible on Forest Products Gathered from Unregistered Private Lands"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p03",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1947-06-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 173",
+ "officialCode": null,
+ "topics": [
+  "tax",
+  "environment"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1109,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1947/ra_173_1947.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1947/ra_173_1947.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H267-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section two hundred and sixty-six of Act Numbered Four hundred sixty-six, known as the National Internal Revenue Code, is hereby amended to read as follows:\n\"Sec. 266. Charges collectible on forest products cut, gathered and removed from unregistered private lands. - The charges above prescribed shall be collected on all forest products cut, gathered and removed from any private land the title to which is not registered with the Director of Forestry as required by the Forest Law: Provided, However, That in the absence of such registration, the owner who desires to cut, gather and remove timber and other forest products from such land shall secure a license from the Director of Forestry in accordance with the Forest Law and regulations. The cutting, gathering and removing of timber and other forest products from said private lands without license shall be considered as unlawful cutting, gathering and removing of forest products from public forests and shall be subject to the charges prescribed in such cases in this chapter.\""
+   }
+  },
+  {
+   "id": "PH-H267-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1947."
+   }
+  }
+ ]
+}

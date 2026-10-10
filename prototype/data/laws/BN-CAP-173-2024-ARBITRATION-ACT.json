@@ -1,0 +1,1039 @@
+{
+ "id": "BN-CAP-173-2024-ARBITRATION-ACT",
+ "title": {
+  "zh": null,
+  "en": "ARBITRATION ACT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p10",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2024",
+ "effectiveDate": null,
+ "versionDate": "2024",
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": "CAP. 173",
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "An Act to provide for arbitration in civil matters and for matters"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 66,
+ "chars": 63113,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-173-2024-ED-ARBITRATION-ACT.pdf",
+ "fetchedAt": "2026-10-09",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-173-2024-ED-ARBITRATION-ACT.pdf》（48 页），本次切分 66 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Arbitration Act."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "(1) In this Act, unless the context otherwise requires — “appointing authority” means the appointing authority designated under section 13(8) or (9); “arbitral tribunal” means a sole arbitrator, a panel of arbitrators or an arbitral institution; “arbitration agreement” has the meaning given to it by “award” means a decision of the arbitral tribunal on the substance of the dispute and includes any interim, interlocutory or partial award, but excludes any order or direction made under section 28; “Court” means the High Court; “court”, for the purposes of sections 6, 7, 8, 11(1), 55, 56 and 57, means the High Court, an Intermediate Court, a Court of a Magistrate or any other court in which the proceedings referred to in those sections are instituted or heard; “party” means a party to an arbitration agreement or, in any case where an arbitration does not involve all of the parties to the arbitration agreement, means a party to the arbitration; “place of the arbitration” means the juridical seat of the arbitration\n\n(a) the parties to the arbitration agreement;\n\n(b) any arbitral or other institution or person authorised by the parties for that purpose; or\n\n(c) the arbitral tribunal as authorised by the parties, or determined, in the absence of any such designation, having regard to the arbitration agreement and all the relevant circumstances; “Registrar of the Supreme Court” has the same meaning as in section 2 of the Supreme Court Act (Chapter 5); “Rules of Court” means the Rules of Court made by the Chief Justice under this Act.\n\n(2) Where any provision in this Act allows the parties to determine any issue, the parties may authorise a third party, including an arbitral institution, to make that determination.\n\n(3) Where any provision in this Act refers to the fact that the parties have agreed or that they may agree or in any other way refers to an agreement of the parties, such agreement includes any arbitration rules incorporated in that agreement.\n\n(4) Where any provision in this Act refers to a claim, it also applies to a cross-claim or counterclaim, and where such provision refers to a defence, it also applies to a defence to any such cross-claim or counterclaim. Application of Act"
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act applies to any arbitration where the place of arbitration is Brunei Darussalam and where Part 2 of the International Arbitration Act (Chapter 279) does not apply to that arbitration."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "heading": {
+    "en": "Arbitration agreement"
+   },
+   "text": {
+    "en": "(1) In this Act, “arbitration agreement” means an agreement by the parties to submit to arbitration all or certain disputes which have arisen or which may arise between them, whether contractual or not.\n\n(2) An arbitration agreement may be in the form of an arbitration clause in a contract or in the form of a separate agreement.\n\n(3) An arbitration agreement shall, except as provided for in subsection (4), be in writing, being contained in —\n\n(a) a document signed by the parties; or\n\n(b) an exchange of letters, telex, telefacsimile or other means of communication which provide a record of the agreement.\n\n(4) Where in any arbitral or legal proceedings, a party asserts the existence of an arbitration agreement in a pleading, statement of case or any other document in circumstances in which the assertion calls for a reply and the assertion is not denied, there is deemed to be an effective arbitration agreement as between the parties to the proceedings.\n\n(5) A reference in a bill of lading to a charterparty or other document containing an arbitration clause shall constitute an arbitration agreement if the reference is such as to make that clause part of the bill of lading. Arbitration agreement not to be discharged by death of party"
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "(1) An arbitration agreement shall not be discharged by the death of any party to the agreement but shall continue to be enforceable by or against the personal representative of the deceased party.\n\n(2) The authority of an arbitrator shall not be revoked by the death of any party by whom he was appointed.\n\n(3) Nothing in this section shall be taken to affect the operation of any written law or rule of law by virtue of which any right of action is extinguished by the death of a person."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "Stay of legal proceedings"
+   },
+   "text": {
+    "en": "(1) Where any party to an arbitration agreement institutes any proceedings in any court against any other party to the agreement in respect of any matter which is the subject of the agreement, any party to the agreement may, at any time after entering an appearance and before delivering any pleading or taking any other step in the proceedings, apply to that court to stay the proceedings so far as they relate to that matter.\n\n(2) The court to which an application has been made in accordance with subsection (1) may, if it is satisfied that —\n\n(a) there is no sufficient reason why the matter should not be referred in accordance with the arbitration agreement; and\n\n(b) the applicant was, at the time when the proceedings were commenced, and still remains ready and willing to do all things necessary to the proper conduct of the arbitration, make an order, upon such terms as it thinks fit, staying the proceedings so far as they relate to that matter.\n\n(3) Where a court makes an order under subsection (2), it may, for the purpose of preserving the rights of parties, make such interim or supplementary orders as it thinks fit in relation to any property which is or forms part of the subject of the dispute to which the order under that subsection relates.\n\n(4) Where no party to the proceedings has taken any further step in the proceedings for a period of not less than 2 years after an order staying the proceedings has been made, the court may, on its own motion, make an order discontinuing the proceedings without prejudice to the right of any of the parties to apply for the discontinued proceedings to be reinstated.\n\n(5) For the purposes of this section, a reference to a party includes a reference to any person claiming through or under such party."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "Court’s powers on stay of proceedings"
+   },
+   "text": {
+    "en": "(1) Where a court stays proceedings under section 6, the court may, if in those proceedings property has been arrested or bail or other security has been given to prevent or obtain release from arrest, order that —\n\n(a) the property arrested be retained as security for the satisfaction of any award made on the arbitration; or\n\n(b) the stay be conditional on the provision of equivalent security for the satisfaction of any such award.\n\n(2) Subject to the Rules of Court and to any necessary modification, the same law and practice apply in relation to property retained in pursuance of an order under this section as would apply if it were held for the purposes of proceedings in the court which made the order. Reference of interpleader issue to arbitration"
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "text": {
+    "en": "Where in proceedings before any court relief by way of interpleader is granted and any issue between the claimants is one in respect of which there is an arbitration agreement between them, the court granting the relief may direct the issue between the claimants to be determined in accordance with"
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Commencement of arbitration proceedings"
+   },
+   "text": {
+    "en": "Unless otherwise agreed by the parties, the arbitration proceedings in respect of a particular dispute shall commence on the date on which a request for that dispute to be referred to arbitration is received by the respondent. Powers of Court to extend time for beginning of arbitration proceedings"
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Powers of Court to extend time for beginning of arbitration"
+   },
+   "text": {
+    "en": "(1) Where the terms of an arbitration agreement to refer future disputes to arbitration provide that a claim to which the arbitration agreement applies shall be barred unless —\n\n(a) some step has been taken to begin other dispute resolution procedures which must be exhausted before arbitration proceedings\n\n(b) notice to appoint an arbitrator is given;\n\n(c) an arbitrator is appointed; or\n\n(d) some other step is taken to commence arbitration within a time fixed by the agreement and a dispute to which the agreement applies has arisen, the Court may, if it is of the opinion that in the circumstances of the case undue hardship would otherwise be caused, extend the time for such period and on such terms as it thinks fit.\n\n(2) An order of extension of time made by the Court under\n\n(a) may be made only after any available arbitral process for obtaining an extension of time has been exhausted;\n\n(b) may be made notwithstanding that the time so fixed has\n\n(c) shall not affect the operation of sections 9 and 11 and any other written law relating to the limitation of actions. Application of Chapter 14"
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "text": {
+    "en": "(1) The Limitation Act (Chapter 14) applies to arbitration proceedings as it applies to proceedings before any court and a reference in that Act to the commencement of any action shall be construed as a reference to the\n\n(2) The Court may order that in computing the time prescribed by the Limitation Act (Chapter 14) for the commencement of proceedings (including arbitration proceedings) in respect of a dispute which was the subject matter of —\n\n(a) an award which the Court orders to be set aside or declares to\n\n(b) the affected part of an award which the Court orders to be set aside in part or declares to be in part of no effect, the period between the commencement of the arbitration and the date of the order referred to in paragraph (a) or (b) shall be excluded.\n\n(3) Notwithstanding any term in an arbitration agreement to the effect that no cause of action shall accrue in respect of any matter required by the agreement to be referred until an award is made under the agreement, the cause of action shall, for the purpose of the Limitation Act (Chapter 14), be deemed to have accrued in respect of any such matter at the time when it would have accrued but for that term in the agreement.\n\nARBITRAL TRIBUNAL"
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Number of arbitrators"
+   },
+   "text": {
+    "en": "(1) The parties are free to determine the number of arbitrators.\n\n(2) Failing such determination, there shall be a single arbitrator."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Appointment of arbitrators"
+   },
+   "text": {
+    "en": "(1) Unless otherwise agreed by the parties, no person shall be precluded by reason of his nationality from acting as an arbitrator.\n\n(2) The parties are free to agree on a procedure for appointing the arbitrator or arbitrators.\n\n(3) Where the parties fail to agree on a procedure for appointing the arbitrator or arbitrators —\n\n(a) in an arbitration with three arbitrators, each party shall appoint one arbitrator, and the parties shall by agreement appoint the third arbitrator; or\n\n(b) in an arbitration with a sole arbitrator, if the parties are unable to agree on the arbitrator, the arbitrator shall be appointed, upon the request of a party, by the appointing authority.\n\n(4) Where subsection (3)(a) applies —\n\n(a) if a party fails to appoint an arbitrator within 30 days of the receipt of the first request to do so from the other party; or\n\n(b) if the two parties fail to agree on the appointment of the third arbitrator within 30 days of the receipt of the first request by either the appointment shall be made, upon the request of a party, by the appointing\n\n(5) If, under an appointment procedure agreed upon by the parties —\n\n(a) a party fails to act as required under such procedure;\n\n(b) the parties are unable to reach an agreement expected of them under such procedure; or\n\n(c) a third party, including an arbitral institution, fails to perform any function entrusted to it under such procedure, any party may apply to the appointing authority to take the necessary action unless the agreement on the appointment procedure provides other means for securing the appointment.\n\n(6) Where a party makes a request or makes an application to the appointing authority under subsection (3), (4) or (5), the appointing authority shall, in appointing an arbitrator, have regard to the following —\n\n(a) the nature of the subject matter of the arbitration;\n\n(b) the availability of any arbitrator;\n\n(c) the identities of the parties to the arbitration;\n\n(d) any suggestion made by any of the parties regarding the appointment of any arbitrator;\n\n(e) any qualifications required of the arbitrator by the arbitration\n\n(f) such considerations as are likely to secure the appointment of an independent and impartial arbitrator.\n\n(7) No appointment by the appointing authority shall be challenged except in accordance with this Act.\n\n(8) For the purposes of this Act, the appointing authority shall be the Chairman of the Brunei Darussalam Arbitration Centre.\n\n(9) The Chief Justice may, if he thinks fit, by notification published in the Gazette appoint any other person to exercise the powers of the appointing authority under this section."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Grounds for challenge"
+   },
+   "text": {
+    "en": "(1) Where any person is approached in connection with his possible appointment as an arbitrator, he shall disclose any circumstance likely to give rise to justifiable doubts as to his impartiality or independence.\n\n(2) An arbitrator shall, from the time of his appointment and throughout the arbitration proceedings, disclose without delay any such circumstance as is referred to in subsection (1) to the parties, unless they have already been so informed by him.\n\n(3) Subject to subsection (4), an arbitrator may be challenged only if —\n\n(a) circumstances exist that give rise to justifiable doubts as to his impartiality or independence; or\n\n(b) he does not possess the qualifications agreed to by the parties.\n\n(4) A party who has appointed or participated in the appointment of any arbitrator may challenge such arbitrator only if he becomes aware of any of the grounds of challenge set out in subsection (3) as may be applicable to the arbitrator after he has been appointed."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Challenge procedure"
+   },
+   "text": {
+    "en": "(1) Subject to subsection (3), the parties may agree on a procedure for challenging an arbitrator.\n\n(2) If the parties have not agreed on a procedure for challenge, a party who intends to challenge an arbitrator shall —\n\n(a) within 15 days after becoming aware of the constitution of the arbitral tribunal; or\n\n(b) after becoming aware of any circumstance referred to in section 14(3), send a written statement of the grounds for the challenge to the arbitral tribunal.\n\n(3) The arbitral tribunal shall, unless the challenged arbitrator withdraws from his office or the other party agrees to the challenge, decide on the challenge.\n\n(4) If a challenge before the arbitral tribunal is unsuccessful, the aggrieved party may, within 30 days after receiving notice of the decision rejecting the challenge, apply to the Court to decide on the challenge and the Court may make such order as it thinks fit.\n\n(5) No appeal shall lie against the decision of the Court under\n\n(6) While an application to the Court under subsection (4) is pending, the arbitral tribunal, including the challenged arbitrator, may continue the arbitration proceedings and make an award."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Failure or impossibility to act"
+   },
+   "text": {
+    "en": "(1) A party may request the Court to remove an arbitrator —\n\n(a) who is physically or mentally incapable of conducting the proceedings or where there are justifiable doubts as to his capacity to\n\n(b) who has refused or failed —\n\n(i) to properly conduct the proceedings; or\n\n(ii) to use all reasonable despatch in conducting the proceedings or making an award, and where substantial injustice has been or will be caused to that party.\n\n(2) If there is an arbitral or other institution or person vested by the parties with power to remove an arbitrator, the Court shall not exercise its power of removal unless it is satisfied that the applicant has first exhausted any available recourse to that institution or person.\n\n(3) While an application to the Court under this section is pending, the arbitral tribunal, including the arbitrator concerned, may continue the arbitration proceedings and make an award.\n\n(4) Where the Court removes an arbitrator, the Court may make such order as it thinks fit with respect to his entitlement, if any, to fees or expenses, or the repayment of any fees or expenses already paid.\n\n(5) The arbitrator concerned is entitled to appear and be heard by the Court before it makes any order under this section.\n\n(6) No appeal shall lie against the decision of the Court made under"
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Arbitrator ceasing to hold office"
+   },
+   "text": {
+    "en": "(1) The authority of an arbitrator shall cease upon his death.\n\n(2) An arbitrator shall cease to hold office if —\n\n(a) he withdraws from office under section 15(3);\n\n(b) an order is made under section 15(4) for the termination of his mandate or his removal;\n\n(c) he is removed by the Court under section 16 or by an institution referred to in section 16(2); or\n\n(d) the parties agree on the termination of his mandate.\n\n(3) The withdrawal of an arbitrator or the termination of an arbitrator’s mandate by the parties shall not imply acceptance of the validity of any ground referred to in section 14(3) or 16(1)."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Appointment of substitute arbitrator"
+   },
+   "text": {
+    "en": "(1) Where an arbitrator ceases to hold office, the parties may agree —\n\n(a) whether and if so how the vacancy is to be filled;\n\n(b) whether and if so to what extent the previous proceedings\n\n(c) what effect (if any) his ceasing to hold office has on any appointment made by him, whether alone or jointly.\n\n(2) If or to the extent that there is no such agreement, the following subsections apply.\n\n(3) Section 13 applies in relation to the filling of the vacancy as in relation to an original appointment.\n\n(4) The arbitral tribunal (when reconstituted) shall determine whether and if so to what extent the previous proceedings should stand.\n\n(5) The reconstitution of the arbitral tribunal shall not affect any right of a party to challenge the previous proceedings on any ground which had arisen before the arbitrator ceased to hold office.\n\n(6) The ceasing to hold office by the arbitrator shall not affect any appointment by him, whether alone or jointly, of another arbitrator, in particular any appointment of a presiding arbitrator."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Decision by panel of arbitrators"
+   },
+   "text": {
+    "en": "(1) In arbitration proceedings with more than one arbitrator, any decision of the arbitral tribunal shall be made, unless otherwise agreed by the parties, by all or a majority of all its members.\n\n(2) Any question of procedure may be decided by a presiding arbitrator if so authorised by the parties or all members of the arbitral Liability of arbitrator"
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "text": {
+    "en": "An arbitrator is not liable for —\n\n(a) negligence in respect of anything done or omitted to be done in the capacity of the arbitrator; or\n\n(b) any mistake of law, fact or procedure made in the course of arbitration proceedings or in the making of an arbitral award.\n\nJURISDICTION OF ARBITRAL TRIBUNAL Separability of arbitration clause and competence of arbitral tribunal to rule on its own jurisdiction"
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "tribunal to rule on its own jurisdiction"
+   },
+   "text": {
+    "en": "(1) The arbitral tribunal may rule on its own jurisdiction, including any objections to the existence or validity of the arbitration agreement.\n\n(2) For the purpose of subsection (1), an arbitration clause which forms part of a contract shall be treated as an agreement independent of the other terms of the contract.\n\n(3) A decision by the arbitral tribunal that the contract is void shall not entail ipso jure (as a matter of law) the invalidity of the arbitration clause.\n\n(4) A plea that the arbitral tribunal does not have jurisdiction shall be raised not later than the submission of the statement of defence.\n\n(5) A party shall not be precluded from raising the plea that the arbitral tribunal does not have jurisdiction by the fact that he has appointed, or participated in the appointment of, an arbitrator.\n\n(6) A plea that the arbitral tribunal is exceeding the scope of its authority shall be raised as soon as the matter alleged to be beyond the scope of its authority is raised during the arbitration proceedings.\n\n(7) Notwithstanding any delay in raising a plea referred to in subsection (4) or (6), the arbitral tribunal may admit such plea if it considers the delay to be justified in the circumstances.\n\n(8) The arbitral tribunal may rule on a plea referred to in this section either as a preliminary question or in an award on the merits.\n\n(9) If the arbitral tribunal rules on a plea as a preliminary question that it has jurisdiction, any party may, within 30 days after having received notice of that ruling, apply to the Court to decide the matter.\n\n(10) The leave of the Court is required for any appeal from a decision of that Court under this section.\n\n(11) While an application under subsection (9) is pending, the arbitral tribunal may continue the arbitration proceedings and make an award.\n\nARBITRAL PROCEEDINGS"
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "General duties of arbitral tribunal"
+   },
+   "text": {
+    "en": "The arbitral tribunal shall act fairly and impartially and shall give each party a reasonable opportunity of presenting his case."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Determination of rules of procedure"
+   },
+   "text": {
+    "en": "(1) Subject to the provisions of this Act, the parties may agree on the procedure to be followed by the arbitral tribunal in conducting the\n\n(2) Failing such agreement, the arbitral tribunal may, subject to the provisions of this Act, conduct the arbitration in such manner as it considers\n\n(3) The power conferred on the arbitral tribunal under subsection (2) includes the power to determine the admissibility, relevance, materiality and weight of any evidence."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Statements of claim and defence"
+   },
+   "text": {
+    "en": "(1) Within the period of time agreed by the parties or, failing such agreement, as determined by the arbitral tribunal, the claimant shall state —\n\n(a) the facts supporting his claim;\n\n(b) the points at issue; and\n\n(c) the relief or remedy sought, and the respondent shall state his defence in respect of the particulars set out in this subsection, unless the parties have otherwise agreed to the required elements of such statements.\n\n(2) The parties may submit to the arbitral tribunal with their statements, all documents they consider to be relevant and other documents which refer to such documents, or other evidence.\n\n(3) Except as otherwise agreed by the parties, either party may amend or supplement his claim or defence during the course of the arbitration proceedings, unless the arbitral tribunal considers it inappropriate to allow such amendment, having regard to the delay in making the amendment."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Hearings and written proceedings"
+   },
+   "text": {
+    "en": "(1) Subject to any contrary agreement by the parties, the arbitral tribunal shall determine if proceedings are to be conducted by oral hearing for the presentation of evidence or oral argument or on the basis of documents and other materials.\n\n(2) Unless the parties have agreed that no hearings shall be held, the arbitral tribunal shall, upon the request of a party, hold such hearings at an appropriate stage of the proceedings.\n\n(3) The parties shall be given sufficient notice in advance of any hearing and of any meeting of the arbitral tribunal for the purposes of inspection of documents, goods or other property.\n\n(4) All statements, documents or other information supplied to the arbitral tribunal by one party shall be communicated to the other party.\n\n(5) Any expert report or evidentiary document on which the arbitral tribunal may rely in making its decision shall be communicated to the"
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Consolidation of proceedings and concurrent hearings"
+   },
+   "text": {
+    "en": "(1) The parties may agree —\n\n(a) that the arbitration proceedings shall be consolidated with other arbitration proceedings; or\n\n(b) that concurrent hearings shall be held, on such terms as may be agreed.\n\n(2) Unless the parties agree to confer such power on the arbitral tribunal, the tribunal has no power to order consolidation of arbitration proceedings or concurrent hearings."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Power to appoint experts"
+   },
+   "text": {
+    "en": "(1) Unless otherwise agreed by the parties, the arbitral tribunal may —\n\n(a) appoint one or more experts to report to it on specific issues to be determined by the tribunal; and\n\n(b) require a party to give the expert any relevant information or to produce, or to provide access to, any relevant documents, goods or other property for his inspection.\n\n(2) Unless otherwise agreed by the parties, if a party so requests or if the arbitral tribunal considers it necessary, the expert shall, after delivery of his written or oral report, participate in a hearing where the parties have the opportunity to question him and to present other expert witnesses in order to testify on the points at issue."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "General powers exercisable by arbitral tribunal"
+   },
+   "text": {
+    "en": "(1) The parties may agree on the powers which may be exercised by the arbitral tribunal for the purposes of and in relation to the arbitration\n\n(2) Without prejudice to the powers conferred on the arbitral tribunal by the parties under subsection (1), the tribunal shall have powers to make orders or give directions to any party for —\n\n(a) security for costs;\n\n(b) discovery of documents and interrogatories;\n\n(c) giving of evidence by affidavit;\n\n(d) a party or witness to be examined on oath, and may for that purpose administer any necessary oath;\n\n(e) the preservation and interim custody of any evidence for the purposes of the proceedings;\n\n(f) samples to be taken from, or any observation to be made of or experiment conducted upon, any property which is or forms part of the subject matter of the dispute; and\n\n(g) the preservation, interim custody or sale of any property which is or forms part of the subject matter of the dispute.\n\n(3) The power of the arbitral tribunal to order a claimant to provide security for costs as referred to in subsection (2)(a) shall not be exercised by reason only that the claimant is —\n\n(a) an individual ordinarily resident outside Brunei Darussalam; or\n\n(b) a corporation or an association incorporated or formed under the law of a country or territory outside Brunei Darussalam, or whose central management and control is exercised outside Brunei Darussalam.\n\n(4) All orders or directions made or given by an arbitral tribunal in the course of an arbitration shall, by leave of the Court, be enforceable in the same manner as if they were orders made by the Court and, where leave is so given, judgment may be entered in terms of the order or direction."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Powers of arbitral tribunal in case of party’s default"
+   },
+   "text": {
+    "en": "(1) The parties may agree on the powers which may be exercised by the arbitral tribunal in the case of a party’s failure to take any necessary action for the proper and expeditious conduct of the proceedings.\n\n(2) Unless otherwise agreed by the parties, if, without showing sufficient cause —\n\n(a) the claimant fails to communicate his statement of claim in accordance with section 24, the arbitral tribunal may terminate the\n\n(b) the respondent fails to communicate his statement of defence in accordance with section 24, the arbitral tribunal may continue the proceedings without treating such failure in itself as an admission of the claimant’s allegations; and\n\n(c) any party fails to appear at a hearing or to produce any documentary evidence, the arbitral tribunal may continue the proceedings and make the award on the evidence before it.\n\n(3) If the arbitral tribunal is satisfied that there has been inordinate and inexcusable delay on the part of the claimant in pursuing his claim, and the\n\n(a) gives rise, or is likely to give rise, to a substantial risk that it is not possible to have a fair resolution of the issues in that claim; or\n\n(b) has caused, or is likely to cause, serious prejudice to the respondent, the tribunal may make an award dismissing the claim."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Witnesses may be summoned by subpoena"
+   },
+   "text": {
+    "en": "(1) Any party to an arbitration agreement may take out a subpoena to testify or to produce documents.\n\n(2) The Court may order that a subpoena to testify or to produce documents shall be issued to compel the attendance before an arbitral tribunal of a witness wherever he may be within Brunei Darussalam.\n\n(3) The Court may also issue an order under section 32(1) of the Prisons Act (Chapter 51) to bring up a prisoner for examination before an arbitral tribunal.\n\n(4) No person shall be compelled under any such subpoena to produce any document which he could not be compelled to produce on the trial of an Court’s powers exercisable in support of arbitration proceedings"
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "text": {
+    "en": "(1) The Court shall have the following powers for the purpose of and in relation to an arbitration to which this Act applies —\n\n(a) the same power to make orders in respect of any matter set out in section 28 as it has for the purpose of and in relation to an action or matter in the Court;\n\n(b) securing the amount in dispute;\n\n(c) ensuring that any award which may be made in the arbitral proceedings is not rendered ineffectual by the dissipation of assets by a\n\n(d) an interim injunction or any other interim measure.\n\n(2) An order of the Court under this section shall cease to have effect in whole or in part if the arbitral tribunal or any such arbitral or other institution or person having power to act in relation to the subject matter of that order makes an order to which the order of the Court relates.\n\n(3) The Court, in exercising any power under this section, shall have\n\n(a) any application made before the arbitral tribunal; or\n\n(b) any order made by the arbitral tribunal, in respect of the same issue.\n\n(4) Provision may be made by Rules of Court for conferring on the Registrar of the Supreme Court all or any of the jurisdiction conferred by this Act on the Court."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Law applicable to substance of dispute"
+   },
+   "text": {
+    "en": "(1) The arbitral tribunal shall decide the dispute in accordance with the law chosen by the parties as applicable to the substance of the dispute.\n\n(2) If or to the extent that the parties have not chosen the law applicable to the substance of their dispute, the arbitral tribunal shall apply the law determined by the conflict of laws rules.\n\n(3) The arbitral tribunal may decide the dispute, if the parties so agree, in accordance with such other considerations as are agreed by them or determined by the tribunal."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Awards made on different issues"
+   },
+   "text": {
+    "en": "(1) Unless otherwise agreed by the parties, the arbitral tribunal may make more than one award at different times during the proceedings on different aspects of the matters to be determined.\n\n(2) The arbitral tribunal may, in particular, make an award relating to —\n\n(a) an issue affecting the whole claim; or\n\n(b) a part only of the claim, counterclaim or cross-claim, which is submitted to the tribunal for decision.\n\n(3) If the arbitral tribunal makes an award under this section, it shall specify in its award the issue, or claim or part of a claim, which is the subject matter of the award."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "text": {
+    "en": "(1) The parties may agree on the powers exercisable by the arbitral tribunal as regards remedies.\n\n(2) Unless otherwise agreed by the parties, the arbitral tribunal may award any remedy or relief that could have been ordered by the Court if the dispute had been the subject of civil proceedings in that Court."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "text": {
+    "en": "(1) The arbitral tribunal may award interest, including interest on a compound basis, on the whole or any part of any sum that —\n\n(a) is awarded to any party; or\n\n(b) is in issue in the arbitral proceedings but is paid before the for the whole or any part of the period up to the date of the award or payment, whichever is applicable.\n\n(2) A sum directed to be paid by an award shall, unless the award otherwise directs, carry interest as from the date of the award and at the same rate as a judgment debt."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Extension of time for making award"
+   },
+   "text": {
+    "en": "(1) Where the time for making an award is limited by the arbitration agreement, the Court may by order, unless otherwise agreed by the parties, extend that time.\n\n(2) An application for an order under this section may be made —\n\n(a) upon notice to the parties, by the arbitral tribunal; or\n\n(b) upon notice to the arbitral tribunal and the other parties, by any party to the proceedings.\n\n(3) An application under this section shall not be made unless all available tribunal processes for application of extension of time have been\n\n(4) The Court shall not make an order under this section unless it is satisfied that substantial injustice would otherwise be done.\n\n(5) The Court may extend the time for such period and on such terms as it thinks fit, and may do so whether or not the time previously fixed by or under the arbitration agreement or by a previous order has expired.\n\n(6) The leave of the Court shall be required for any appeal from a decision of the Court under this section."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "text": {
+    "en": "(1) If, during arbitration proceedings, the parties settle the dispute, the arbitral tribunal shall terminate the proceedings and, if requested by the parties and not objected to by the arbitral tribunal, record the settlement in the form of an arbitral award on agreed terms.\n\n(2) An arbitral award on agreed terms —\n\n(a) shall be made in accordance with section 38;\n\n(b) shall state that it is an award; and\n\n(c) shall have the same status and effect as any other award on the merits of the case.\n\n(3) An award on agreed terms may, with the leave of the Court, be enforced in the same manner as a judgment or order to the same effect, and where leave is so given, judgment may be entered in terms of the award."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Form and contents of award"
+   },
+   "text": {
+    "en": "(1) The award shall be made in writing and shall be signed —\n\n(a) in the case of a single arbitrator, by the arbitrator himself; or\n\n(b) in the case of two or more arbitrators, by all the arbitrators or the majority of the arbitrators provided that the reason for any omitted signature of any arbitrator is stated.\n\n(2) The award shall state the reasons upon which it is based, unless the parties have agreed that no grounds are to be stated or the award is an award on agreed terms under section 37.\n\n(3) The date of the award and place of arbitration shall be stated in the\n\n(4) The award is deemed to have been made at the place of arbitration.\n\n(5) After the award is made, a copy of the award signed by the arbitrators in accordance with subsection (1) shall be delivered to each party."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Costs of arbitration"
+   },
+   "text": {
+    "en": "(1) Any costs directed by an award to be paid shall, unless the award otherwise directs, be taxed by the Registrar of the Supreme Court.\n\n(2) Subject to subsection (3), any provision in an arbitration agreement to the effect that the parties or any party shall in any event pay their or his own costs of the reference or award or any part thereof shall be void; and this Act shall, in the case of an arbitration agreement containing any such provision, have effect as if there were no such provision.\n\n(3) Subsection (2) does not apply where a provision in an arbitration agreement to the effect that the parties or any party shall in any event pay their or his own costs is part of an agreement to submit to arbitration a dispute which has arisen before the making of such agreement.\n\n(4) If no provision is made by an award with respect to the costs of the reference, any party to the reference may, within 14 days of the delivery of the award or such further time as the arbitral tribunal may allow, apply to the arbitral tribunal for an order directing by and to whom such costs shall be paid.\n\n(5) The arbitral tribunal shall, after giving the parties a reasonable opportunity to be heard, amend its award by adding thereto such directions as it thinks fit with respect to the payment of the costs of the reference."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Fees of arbitrator"
+   },
+   "text": {
+    "en": "(1) The parties are jointly and severally liable to pay to the arbitrators such reasonable fees and expenses as are appropriate in the circumstances.\n\n(2) Unless the fees of the arbitral tribunal have been fixed by written agreement or such agreement has provided for determination of the fees by a person or institution agreed to by the parties, any party to the arbitration may require that such fees be taxed by the Registrar of the Supreme Court."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Power to withhold award in case of non-payment"
+   },
+   "text": {
+    "en": "(1) The arbitral tribunal may refuse to deliver an award to the parties if the parties have not made full payment of the fees and expenses of the\n\n(2) Where subsection (1) applies, a party to the arbitration proceedings may, upon notice to the other parties and the arbitral tribunal, apply to the Court which may order that —\n\n(a) the arbitral tribunal shall deliver the award upon payment into Court by the applicant of those fees and expenses, or such lesser amount as the Court may specify;\n\n(b) the amount of those fees and expenses demanded shall be taxed by the Registrar of the Supreme Court; and\n\n(c) out of the money paid into Court, the arbitral tribunal shall be paid such fees and expenses as may be found to be properly payable and the balance of such money (if any) shall be paid to the applicant.\n\n(3) A taxation of fees under this section shall be reviewed in the same manner as a taxation of costs.\n\n(4) The arbitrator shall be entitled to appear and be heard on any taxation or review of taxation under this section.\n\n(5) For the purpose of this section, the amount of fees and expenses properly payable is the amount the applicant is liable to pay under section 40 or under any agreement relating to the payment of fees and expenses of the\n\n(6) No application to the Court may be made unless the Court is satisfied that the applicant has first exhausted any available arbitral process for appeal or review of the amount of the fees or expenses of the arbitrators.\n\n(7) This section applies to any arbitral or other institution or person vested with powers by the parties in relation to the delivery of the award by the tribunal and any reference to the fees and expenses of the arbitrators shall be construed as including the fees and expenses of that institution or person.\n\n(8) The leave of the Court shall be required for any appeal from a decision of the Court under this section."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Court may charge property with payment of solicitor’s costs in"
+   },
+   "text": {
+    "en": "Section 58(1) of the Legal Profession Act (Chapter 132) applies as if an arbitration were a proceeding in the Court, and the Court may make declarations and orders accordingly. Correction or interpretation of award and additional award"
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "text": {
+    "en": "(1) A party may, within 30 days of the receipt of the award, unless another period of time has been agreed upon by the parties —\n\n(a) upon notice to the other parties, request the arbitral tribunal to correct in the award any error in computation, any clerical or typographical error, or any other error of a similar nature; and\n\n(b) upon notice to the other parties, request the arbitral tribunal to give an interpretation of a specific point or part of the award, if such request is also agreed to by the other parties.\n\n(2) If the arbitral tribunal considers the request in subsection (1) to be justified, the tribunal shall make such correction or give such interpretation within 30 days of the receipt of the request and such interpretation shall form\n\n(3) The arbitral tribunal may correct any error of the type referred to\n\n(a) or give an interpretation referred to in subsection (1)(b), on its own initiative, within 30 days of the date of the award.\n\n(4) Unless otherwise agreed by the parties, a party may, within 30 days of receipt of the award and upon notice to the other party, request the arbitral tribunal to make an additional award as to claims presented during the arbitration proceedings but omitted from the award.\n\n(5) If the arbitral tribunal considers the request in subsection (4) to be justified, the tribunal shall make the additional award within 60 days of the receipt of such request.\n\n(6) The arbitral tribunal may, if necessary, extend the period of time within which it shall make a correction, interpretation or an additional award under this section.\n\n(7) Section 38 applies to an award in respect of which a correction or interpretation has been made under this section and to an additional award."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "text": {
+    "en": "(1) An award made by the arbitral tribunal pursuant to an arbitration agreement shall be final and binding on the parties and on any person claiming through or under them and may be relied upon by any of the parties by way of defence, set-off or otherwise in any proceedings in any court of competent jurisdiction.\n\n(2) Except as provided in section 43, upon an award being made, including an award made in accordance with section 33, the arbitral tribunal shall not vary, amend, correct, review, add to or revoke the award.\n\n(3) For the purposes of subsection (2), an award is made when it has been signed and delivered in accordance with section 38.\n\n(4) This section shall not affect the right of a person to challenge the award by any available arbitral process of appeal or review or in accordance with the provisions of this Act.\n\nPOWERS OF COURT IN RELATION TO AWARD"
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Determination of preliminary point of law"
+   },
+   "text": {
+    "en": "(1) Unless otherwise agreed by the parties, the Court may, on the application of a party to the arbitration proceedings who has given notice to the other parties, determine any question of law arising in the course of the proceedings which the Court is satisfied substantially affects the rights of one or more of the parties.\n\n(2) The Court shall not consider an application under this section\n\n(a) it is made with the agreement of all parties to the proceedings; or\n\n(b) it is made with the permission of the arbitral tribunal and the Court is satisfied that —\n\n(i) the determination of the question is likely to produce substantial savings in costs; and\n\n(ii) the application is made without delay.\n\n(3) The application shall identify the question of law to be determined and, except where made with the agreement of all parties to the proceedings, shall state the grounds on which it is said that the question should be decided\n\n(4) Unless otherwise agreed by the parties, the arbitral tribunal may continue the arbitral proceedings and make an award while an application to the Court under this section is pending.\n\n(5) Except with the leave of the Court, no appeal shall lie from a decision of the Court on whether the conditions in subsection (2) are met.\n\n(6) The decision of the Court on a question of law shall be a judgment of the Court for the purposes of an appeal to the Court of Appeal.\n\n(7) The Court may give leave to appeal against the decision of the Court in subsection (6) only if it considers that the question of law before it is one of general importance, or is one which for some other special reason should be considered by the Court of Appeal."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Enforcement of award"
+   },
+   "text": {
+    "en": "(1) An award made by the arbitral tribunal pursuant to an arbitration agreement may, with leave of the Court, be enforced in the same manner as a judgment or order of the Court to the same effect.\n\n(2) Where leave of the Court is so granted, judgment may be entered in the terms of the award.\n\n(3) Notwithstanding section 3, subsection (1) applies to an award irrespective of whether the place of arbitration is Brunei Darussalam or elsewhere."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "No judicial review of award"
+   },
+   "text": {
+    "en": "The Court shall not have jurisdiction to confirm, vary, set aside or remit an award on an arbitration agreement except where so provided in this Act."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Court may set aside award"
+   },
+   "text": {
+    "en": "(1) An award may be set aside by the Court —\n\n(a) if the party who applies to the Court to set aside the award proves to the satisfaction of the Court that —\n\n(i) a party to the arbitration agreement was under some incapacity;\n\n(ii) the arbitration agreement is not valid under the law to which the parties have subjected it or, failing any indication thereon, the laws of Brunei Darussalam;\n\n(iii) the party making the application was not given proper notice of the appointment of an arbitrator or of the arbitration proceedings or was otherwise unable to present his case;\n\n(iv) the award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or contains decisions on matters beyond the scope of the submission to arbitration, except that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, only that part of the award which contains decisions on matters not submitted to arbitration may be set aside;\n\n(v) the composition of the arbitral tribunal or the arbitral procedure is not in accordance with the agreement of the parties, unless such agreement is contrary to any provisions of this Act from which the parties cannot derogate or, in the absence of such agreement, is contrary to the provisions of this Act;\n\n(vi) the making of the award was induced or affected by fraud or corruption; or\n\n(vii) a breach of the rules of natural justice occurred in connection with the making of the award by which the rights of any party have been prejudiced; or\n\n(b) if the Court finds that —\n\n(i) the subject matter of the dispute is not capable of settlement by arbitration under this Act; or\n\n(ii) the award is contrary to public policy.\n\n(2) An application for setting aside an award may not be made after the expiry of 3 months from the date on which the party making the application had received the award, or if a request has been made under section 43, from the date on which that request had been disposed of by the arbitral tribunal.\n\n(3) When a party applies to the Court to set aside an award under this section, the Court may, where appropriate and so requested by a party, suspend the proceedings for setting aside the award, for such period of time as it may determine, to allow the arbitral tribunal to resume the arbitration proceedings or take such other action as may eliminate the grounds for setting aside the award."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Appeal against award"
+   },
+   "text": {
+    "en": "(1) A party to arbitration proceedings may, upon notice to the other parties and to the arbitral tribunal, appeal to the Court on a question of law arising out of an award made in the proceedings.\n\n(2) Notwithstanding subsection (1), the parties may agree to exclude the jurisdiction of the Court under this section and an agreement to dispense with reasons for the arbitral tribunal’s award shall be treated as an agreement to exclude the jurisdiction of the Court under this section.\n\n(3) An appeal shall not be brought under this section except —\n\n(a) with the agreement of all the other parties to the proceedings; or\n\n(b) with the leave of the Court.\n\n(4) The right to appeal under this section shall be subject to the restrictions in section 50.\n\n(5) Leave to appeal shall be given only if the Court is satisfied that —\n\n(a) the determination of the question will substantially affect the rights of one or more of the parties;\n\n(b) the question is one which the arbitral tribunal was asked to\n\n(c) on the basis of the findings of fact in the award —\n\n(i) the decision of the arbitral tribunal on the question is obviously wrong; or\n\n(ii) the question is one of general public importance and the decision of the arbitral tribunal is at least open to serious doubt; and\n\n(d) despite the agreement of the parties to resolve the matter by arbitration, it is just and proper in all the circumstances for the Court to determine the question.\n\n(6) An application for leave to appeal under this section shall identify the question of law to be determined and state the grounds on which it is alleged that leave to appeal should be granted.\n\n(7) The leave of the Court shall be required for any appeal from a decision of the Court under this section to grant or refuse leave to appeal.\n\n(8) On an appeal under this section, the Court may by order —\n\n(a) confirm the award;\n\n(b) vary the award;\n\n(c) remit the award to the arbitral tribunal, in whole or in part, for reconsideration in the light of the Court’s determination; or\n\n(d) set aside the award in whole or in part.\n\n(9) The Court shall not exercise its power to set aside an award, in whole or in part, unless it is satisfied that it would be inappropriate to remit the matters in question to the arbitral tribunal for reconsideration.\n\n(10) The decision of the Court on an appeal under this section shall be treated as a judgment of the Court for the purposes of an appeal to the Court\n\n(11) The Court may give leave to appeal against the decision of the Court in subsection (10) only if it considers that the question of law before it is one of general importance, or is one which for some other special reason should be considered by the Court of Appeal."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Supplementary provisions to appeal under section 49"
+   },
+   "text": {
+    "en": "(1) This section applies to an application or appeal under section 49.\n\n(2) An application or appeal may not be brought if the applicant or appellant has not first exhausted —\n\n(a) any available arbitral process of appeal or review; and\n\n(b) any available recourse under section 43.\n\n(3) Any application or appeal shall be brought within 28 days of the date of the award or, if there has been any arbitral process of appeal or review, of the date when the applicant or appellant was notified of the result of that process.\n\n(4) If on an application or appeal it appears to the Court that the\n\n(a) does not contain the arbitral tribunal’s reasons; or\n\n(b) does not set out the arbitral tribunal’s reasons in sufficient detail to enable the Court to properly consider the application or the Court may order the arbitral tribunal to state the reasons for its award in sufficient detail for that purpose.\n\n(5) Where the Court makes an order under subsection (4), it may make such further order as it thinks fit with respect to any additional costs of the arbitration resulting from its order.\n\n(6) The Court may order the applicant or appellant to provide security for the costs of the application or appeal, and may direct that the application or appeal be dismissed if the order is not complied with.\n\n(7) The power to order security for costs shall not be exercised by reason only that the applicant or appellant is —\n\n(a) an individual ordinarily resident outside Brunei Darussalam; or\n\n(b) a corporation or association incorporated or formed under the law of a country or territory outside Brunei Darussalam or whose and is Brunei Darussalam.\n\n(8) The Court may order that any money payable under the award shall be brought into Court or otherwise secured pending the determination of the application or appeal, and may direct that the application or appeal be dismissed if the order is not complied with.\n\n(9) The Court may grant leave to appeal subject to conditions to the same or similar effect as an order under subsection (6) or (8) and this shall not affect the general discretion of the Court to grant leave subject to conditions."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Effect of order of Court upon appeal against award"
+   },
+   "text": {
+    "en": "(1) Where the Court makes an order under section 49 with respect to an award, subsections (2), (3) and (4) apply.\n\n(2) Where the award is varied by the Court, the variation shall have effect as part of the arbitral tribunal’s award.\n\n(3) Where the award is remitted to the arbitral tribunal, in whole or in part, for reconsideration, the tribunal shall make a fresh award in respect of the matters remitted within 3 months of the date of the order for remission or such longer or shorter period as the Court may direct.\n\n(4) Where the award is set aside or declared to be of no effect, in whole or in part, the Court may also order that any provision that an award is a condition precedent to the bringing of legal proceedings in respect of a matter to which the arbitration agreement applies, shall be of no effect as regards the subject matter of the award or, as the case may be, the relevant Application for leave of Court etc."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) An application for the leave of the Court to appeal or an application referred to in section 21(10), 36(6) or 49(3)(b) or (7) shall be made in such manner as may be prescribed in the Rules of Court.\n\n(2) The Court shall determine an application for leave to appeal without a hearing unless it appears to the Court that a hearing is required.\n\n(3) For the purposes of this section —\n\n(a) an application for leave of the Court may be heard and determined by a Judge in Chambers; and\n\n(b) the Court of Appeal shall have the like powers and jurisdiction on the hearing of such applications as the High Court or any Judge in Chambers has on the hearing of such applications."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Notice and other requirements in connection with legal proceedings"
+   },
+   "text": {
+    "en": "(1) References in this Act to an application, appeal or other step in relation to legal proceedings being taken upon notice to the other parties to the arbitration proceedings, or to the arbitral tribunal, are references to such notice of the originating process as is required by the Rules of Court.\n\n(2) Subject to any provision made by the Rules of Court, a requirement to give notice to the arbitral tribunal of legal proceedings shall\n\n(a) if there is more than one arbitrator, as a requirement to give notice to each of them; and\n\n(b) if the arbitral tribunal is not fully constituted, as a requirement to give notice to any arbitrator who has been appointed.\n\n(3) References in this Act to making an application or appeal to the Court within a specified period are references to the issue within that period of the appropriate originating process in accordance with the Rules of Court.\n\n(4) Where any provision of this Act requires an application or appeal to be made to the Court within a specified time, the Rules of Court relating to the reckoning of periods, the extending or abridging of periods, and the consequences of not taking a step within the period prescribed by the Rules of Court, apply in relation to that requirement.\n\n(5) Provision may be made by the Rules of Court amending the provisions of this Act —\n\n(a) with respect to the time within which any application or appeal to the Court must be made;\n\n(b) so as to keep any provision made by this Act in relation to arbitral proceedings in step with the corresponding provision of the Rules of Court applying in relation to proceedings in the Court; or\n\n(c) so as to keep any provision made by this Act in relation to legal proceedings in step with the corresponding provision of the Rules of Court applying generally in relation to proceedings in the\n\n(6) Nothing in this section shall affect the generality of the power of the Judges of the Supreme Court to make Rules of Court under section 12 of the Supreme Court Act (Chapter 5)."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Powers of Registrar"
+   },
+   "text": {
+    "en": "Provision may be made by the Rules of Court for conferring on the Registrar of the Supreme Court all or any of the jurisdiction conferred by this Act on the Court."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "The Chief Justice may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make Rules of Court for regulating the practice and procedure of any court in respect of any matter under this Act."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Proceedings to be heard otherwise than in open court"
+   },
+   "text": {
+    "en": "Proceedings under this Act in any court shall, on the application of any party to the proceedings, be heard otherwise than in open court. Restrictions on reporting of proceedings heard otherwise than in open"
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Restrictions on reporting of proceedings heard otherwise than in"
+   },
+   "text": {
+    "en": "(1) This section applies to proceedings under this Act in any court heard otherwise than in open court.\n\n(2) A court hearing any proceedings to which this section applies shall, on the application of any party to the proceedings, give directions as to whether any and, if so, what information relating to the proceedings may be published.\n\n(3) A court shall not give a direction under subsection (2) permitting information to be published unless —\n\n(a) all parties to the proceedings agree that such information may be published; or\n\n(b) the court is satisfied that the information, if published in accordance with such directions as it may give, would not reveal any matter, including the identity of any party to the proceedings, that any party to the proceedings reasonably wishes to remain confidential.\n\n(4) Notwithstanding subsection (3), where a court gives grounds of decision for a judgment in respect of proceedings to which this section applies and considers that judgment to be of major legal interest, the court shall direct that reports of the judgment may be published in law reports and professional publications but, if any party to the proceedings reasonably wishes to conceal any matter, including the fact that he was such a party, the\n\n(a) give directions as to the action that shall be taken to conceal that matter in those reports; and\n\n(b) if it considers that a report published in accordance with directions given under paragraph (a) would be likely to reveal that matter, direct that no report shall be published until after the end of such period, not exceeding 10 years, as it considers appropriate."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Application to references under statutory powers"
+   },
+   "text": {
+    "en": "This Act applies in relation to every arbitration under any other written law (other than the International Arbitration Act (Chapter 279)), as if the arbitration were commenced pursuant to an arbitration agreement, except in so far as this Act is inconsistent with that other written law."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Immunity of arbitral institutions"
+   },
+   "text": {
+    "en": "(1) The appointing authority, or an arbitral or other institution or person designated or requested by the parties to appoint or nominate an arbitrator, is not liable for anything done or omitted in the discharge or purported discharge of that function unless the act or omission is shown to have been in bad faith.\n\n(2) The appointing authority, or an arbitral or other institution or person by whom an arbitrator is appointed or nominated, is not liable, by reason only of having appointed or nominated him, for anything done or omitted by the arbitrator, his employees or agents in the discharge or purported discharge of his functions as arbitrator.\n\n(3) This section applies to an employee or agent of the appointing authority or of an arbitral or other institution or person as it applies to the appointing authority, institution or person himself."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Service of notices"
+   },
+   "text": {
+    "en": "(1) The parties may agree on the manner of service of any notice or other document required or authorised to be given or served in pursuance of the arbitration agreement or for the purposes of the arbitration proceedings.\n\n(2) If or to the extent that there is no such agreement as is referred to in subsection (1), subsections (3) and (4) apply.\n\n(3) A notice or other document may be served on a person by any effective means.\n\n(4) If a notice or other document is addressed, prepaid and delivered by post —\n\n(a) to the addressee’s usual or last known place of residence or, if he is or has been carrying on a trade, profession or business, his usual or last known place of business; or\n\n(b) if the addressee is a body corporate, to the body corporate’s registered office, it shall be treated as effectively served.\n\n(5) This section does not apply to the service of documents for the purposes of legal proceedings, for which provision is made by the\n\n(6) References in this Part to a notice or other document include any form of communication in writing and references to giving or serving a notice or other document shall be construed accordingly."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Reckoning periods of time"
+   },
+   "text": {
+    "en": "(1) The parties may agree on the method of reckoning periods of time for the purposes of —\n\n(a) any provision agreed by them; or\n\n(b) any provision of this Act having effect in default of such\n\n(2) If or to the extent that the parties have not agreed on the method of reckoning time, periods of time shall be reckoned in accordance with this\n\n(3) Where the act is required to be done within a specified period after or from a specified date, the period shall begin immediately after that date.\n\n(4) Where an act is required to be done within or not less than a specified period before a specified date, the period shall end immediately before that date.\n\n(5) Where the act is required to be done, a specified number of clear days after a specified date, at least that number of days shall intervene between the day on which the act is done and that date.\n\n(6) Where the period in question, being a period of 7 days or less, would include a Friday, Sunday or a public holiday, that day shall be excluded."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Appointment of mediator"
+   },
+   "text": {
+    "en": "(1) In any case where an agreement provides for the appointment of a mediator by a person who is not one of the parties and that person refuses to make the appointment or does not make the appointment within the time specified in the agreement or, if no time is so specified, within a reasonable time of being requested by any party to the agreement to make the appointment, the Chairman of the Brunei Darussalam Arbitration Centre may, on the application of any party to the agreement, appoint a mediator who shall have the like powers to act in the mediation proceedings as if he had been appointed in accordance with the terms of the agreement.\n\n(2) The Chief Justice may, if he thinks fit, by notification published in the Gazette, appoint any other person to exercise the power of appointment under subsection (1).\n\n(3) Where an arbitration agreement provides for the appointment of a mediator and further provides that the person so appointed shall act as an arbitrator in the event of the mediation proceedings failing to produce a settlement acceptable to the parties —\n\n(a) no objection shall be taken to the appointment of such person as an arbitrator, or to his conduct of the arbitral proceedings, solely on the ground that he had acted previously as a mediator in connection with some or all of the matters referred to arbitration; and\n\n(b) if such person declines to act as an arbitrator, any other person appointed as an arbitrator shall not be required first to act as a mediator unless a contrary intention appears in the arbitration agreement.\n\n(4) Unless a contrary intention appears therein, an agreement which provides for the appointment of a mediator is deemed to contain a provision that in the event of the mediation proceedings failing to produce a settlement acceptable to the parties within 4 months, or such longer period as the parties may agree to, of the date of the appointment of the mediator or, where he is appointed by name in the agreement, of the receipt by him of written notification of the existence of a dispute, the mediation proceedings shall thereupon terminate."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Power of arbitrator to act as mediator"
+   },
+   "text": {
+    "en": "(1) If all parties to any arbitral proceedings consent in writing and for so long as no party has withdrawn his consent in writing, an arbitrator may act as a mediator.\n\n(2) An arbitrator acting as a mediator —\n\n(a) may communicate with the parties to the arbitral proceedings collectively or separately; and\n\n(b) shall treat information obtained by him from a party to the arbitration proceedings as confidential, unless that party otherwise agrees or unless subsection (3) applies.\n\n(3) Where confidential information is obtained by an arbitrator from a party to the arbitration proceedings during mediation proceedings and those proceedings terminate without the parties reaching agreement in settlement of their dispute, the arbitrator shall before resuming the arbitration proceedings disclose to all other parties to the arbitration proceedings as much of that information as he considers material to the arbitration\n\n(4) No objection shall be taken to the conduct of arbitration proceedings by a person solely on the ground that he had acted previously as a mediator in accordance with this section.\n\n(5) For the purposes of this section and section 62 —\n\n(a) any reference to a mediator shall include a reference to any person who acts as a conciliator;\n\n(b) any reference to mediation proceedings shall include a reference to conciliation proceedings."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Government to be bound"
+   },
+   "text": {
+    "en": "This Act applies to any arbitration to which the Government is a party. Transitional provisions"
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "__________________________________"
+   },
+   "text": {
+    "en": "(1) This Act applies to arbitration proceedings commenced on or after the commencement of this Act but the parties may in writing agree that this Act applies to any arbitration proceedings commenced before that date.\n\n(2) Notwithstanding the repeal of the Arbitration Act (Chapter 173), the were the commencement of this Act, the law governing the arbitration agreement and the arbitration shall be the law which would have applied if this Act had not\n\n(3) Where an arbitration agreement made or entered into before the commencement of this Act provides for the appointment of an umpire or an arbitral tribunal comprising two arbitrators, the law to the extent that it governs the appointment, role and function of the umpire shall be the law which would have applied if this Act had not been made.\n\n(4) For the purposes of this section, arbitration proceedings are to be taken as having commenced on the date of the receipt by the respondent of a request for the dispute to be referred to arbitration or, where the parties have agreed in writing that any other date is to be taken as the date of commencement of the arbitration proceedings, then on that date."
+   }
+  },
+  {
+   "id": "BN-CAP-173-2024-ARBITRATION-ACT-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 66."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "His Majesty the Sultan and Yang Di-Pertuan may by order make such provisions as may appear to him to be necessary or expedient —\n\n(a) for giving effect to the provisions of this Act;\n\n(b) for the purpose of bringing the provisions of any other written law (other than the Constitution of Brunei Darussalam) into accord with the provisions of this Act or with any Rules of Court."
+   }
+  }
+ ]
+}

@@ -1,0 +1,754 @@
+{
+ "id": "SG-H1575",
+ "title": {
+  "zh": null,
+  "en": "Financial Services and Markets (Resolution of Financial Institutions) Regulations 2024",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p20",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation FSMA2022-S403-2024",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 46,
+ "chars": 64677,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/FSMA2022-S403-2024?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 46 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 4 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1575-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Financial Services and Markets (Resolution of Financial Institutions) Regulations 2024 and come into operation on 10 May 2024."
+   }
+  },
+  {
+   "id": "SG-H1575-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "General definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“5% controller”, in relation to an operator of a designated payment system under the Payment Services Act 2019, has the meaning given by section 2(1) of that Act;\n“12% controller” —\n(a)in relation to a bank incorporated in Singapore, has the meaning given by section 15B(3) of the Banking Act 1970;\n(b)in relation to a designated financial holding company, has the meaning given by section 11(2) of the Financial Holding Companies Act 2013;\n(c)in relation to an operator of a designated payment system under the Payment Services Act 2019, has the meaning given by section 2(1) of that Act;\n(d)in relation to an approved exchange under the Securities and Futures Act 2001, has the meaning given by section 27(3) of that Act;\n(e)in relation to a licensed trade repository under the Securities and Futures Act 2001, has the meaning given by section 46U(3) of that Act;\n(f)in relation to an approved clearing house under the Securities and Futures Act 2001, has the meaning given by section 70(3) of that Act; or\n(g)in relation to an approved holding company under the Securities and Futures Act 2001, has the meaning given by section 81ZE(3) of that Act;\n“20% controller” —\n(a)in relation to a bank incorporated in Singapore, has the meaning given by section 15B(3) of the Banking Act 1970;\n(b)in relation to a designated financial holding company, has the meaning given by section 11(2) of the Financial Holding Companies Act 2013;\n(c)in relation to an operator of a designated payment system under the Payment Services Act 2019, has the meaning given by section 2(1) of that Act;\n(d)in relation to an approved exchange under the Securities and Futures Act 2001, has the meaning given by section 27(3) of that Act;\n(e)in relation to a licensed trade repository under the Securities and Futures Act 2001, has the meaning given by section 46U(3) of that Act;\n(f)in relation to an approved clearing house under the Securities and Futures Act 2001, has the meaning given by section 70(3) of that Act;\n(g)in relation to an approved holding company under the Securities and Futures Act 2001, has the meaning given by section 81ZE(3) of that Act; or\n(h)in relation to a licensed trust company under the Trust Companies Act 2005, has the meaning given by section 16(3) of that Act;\n“50% controller”, in relation to a licensed trust company under the Trust Companies Act 2005, has the meaning given by section 16(3) of that Act;\n“Accounting Standards” has the meaning given by section 4(1) of the Companies Act 1967;\n“business rules”, in relation to a market infrastructure, means the rules, regulations, by‑laws or any similar body of written statements (by whatever name called), whether or not those rules, regulations, by‑laws or similar body of statements are made by the market infrastructure or are contained in its constituent documents, that govern the activities and conduct of —\n(a)the market infrastructure; and\n(b)any other persons in relation to the market infrastructure;\n“Depository” has the meaning given by section 81SF of the Securities and Futures Act 2001;\n“designated financial holding company” has the meaning given by section 2(1) of the Financial Holding Companies Act 2013;\n“designated system” has the meaning given by section 2(1) of the Payment and Settlement Systems (Finality and Netting) Act 2002;\n“designated system rules” means the rules, regulations, by‑laws or any similar body of written statements (by whatever name called) of a designated system, whether or not contained in the constituent documents of the designated system, that govern the activities and conduct of —\n(a)the designated system; and\n(b)any other persons in relation to the designated system;\n“Division 11 FI under resolution” means a financial institution mentioned in regulation 34 that is the subject of a resolution action;\n“indirect controller” —\n(a)in relation to a bank incorporated in Singapore, has the meaning given by section 15B(5) of the Banking Act 1970;\n(b)in relation to a designated financial holding company, has the meaning given by section 11(2) of the Financial Holding Companies Act 2013;\n(c)in relation to an operator of a designated payment system under the Payment Services Act 2019, has the meaning given by section 2(1) of that Act; or\n(d)in relation to a licensed trust company under the Trust Companies Act 2005, has the meaning given by section 16(3) of that Act;\n“market infrastructure” means a pertinent financial institution that performs the functions of a market, a central clearing counterparty, a trade repository, a central securities depository or a securities settlement system;\n“merchant bank” has the meaning given by section 2(1) of the Banking Act 1970;\n“parent” has the meaning given by the Accounting Standards;\n“pre‑resolution creditor” has the meaning given by section 121 of the Act;\n“pre‑resolution shareholder” has the meaning given by section 121 of the Act;\n“public sector body” means a Ministry, a department of the Government or a body established or constituted by or under a public Act to perform or discharge a public function;\n“resolution action” has the meaning given by section 121 of the Act;\n“resolution date” has the meaning given by section 121 of the Act;\n“significant business” has the meaning given by section 58 of the Act;\n“specified financial institution” has the meaning given by section 58 of the Act;\n“subsidiary” has the meaning given by the Accounting Standards;\n“substantial shareholder” —\n(a)in relation to a bank incorporated in Singapore, means a person who has substantial shareholding in the bank within the meaning of section 81 of the Companies Act 1967;\n(b)in relation to a designated financial holding company, means a person who has substantial shareholding in the designated financial holding company within the meaning of section 81 of the Companies Act 1967;\n(c)in relation to an approved exchange, a licensed trade repository, an approved clearing house or an approved holding company under the Securities and Futures Act 2001, has the meaning given by section 2(6) of that Act; or\n(d)in relation to an insurer incorporated in Singapore and licensed under the Insurance Act 1966, means a person who has substantial shareholding in the insurer within the meaning of section 81 of the Companies Act 1967;\n“title transfer arrangement” means an arrangement under which a person transfers assets to another person on terms providing for the other person to transfer those assets back to the first person if the specified obligations are discharged;\n“transfer order” has the meaning given by section 2(1) of the Payment and Settlement Systems (Finality and Netting) Act 2002;\n“valuation report” has the meaning given by section 121 of the Act;\n“valuer” has the meaning given by section 121 of the Act."
+   }
+  },
+  {
+   "id": "SG-H1575-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definition of “affected person”"
+   },
+   "text": {
+    "en": "3. For the purposes of the definition of “affected person” in section 58 of the Act, each person within a group of persons in the second column of the First Schedule is an affected person of the specified financial institution in the first column of that Schedule opposite that group."
+   }
+  },
+  {
+   "id": "SG-H1575-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definition of “excluded financial institution”"
+   },
+   "text": {
+    "en": "4.—(1) Each of the following persons is prescribed as an excluded financial institution for the purposes of Part 8 of the Act except sections 60 and 61 of the Act:\n(a)a person who —\n(i)is a licensed financial adviser under the Financial Advisers Act 2001; or\n(ii)is an exempt financial adviser under the Financial Advisers Act 2001, but is not a pertinent financial institution;\n(b)a person who is exempt from the requirement to hold a capital markets services licence under the Securities and Futures Act 2001 to carry on business in any regulated activity specified in the Second Schedule to that Act, but is not a pertinent financial institution;\n(c)a holder of a capital markets services licence under the Securities and Futures Act 2001 who only carries on business in the regulated activity of providing credit rating services but not any other regulated activity as defined in section 2(1) of that Act;\n(d)an authorised reinsurer as defined in section 2 of the Insurance Act 1966;\n(e)a member of Lloyd’s that is permitted to carry on any insurance business specified in the First Schedule to the Insurance (Lloyd’s Asia Scheme) Regulations (Rg 9) in accordance with regulation 3 of those Regulations;\n(f)an insurance agent or insurance broker that is registered or otherwise regulated under the Insurance Act 1966;\n(g)a payment service provider licensed under the Payment Services Act 2019.\n(2) Each of the following persons is prescribed as an excluded financial institution for the purposes of sections 60 and 61 of the Act:\n(a)a person who —\n(i)is a licensed financial adviser under the Financial Advisers Act 2001; or\n(ii)is an exempt financial adviser under the Financial Advisers Act 2001, but who is not a pertinent financial institution;\n(b)a person who is exempt from the requirement to hold a capital markets services licence under the Securities and Futures Act 2001 to carry on business in any regulated activity specified in the Second Schedule to that Act, but who is not a pertinent financial institution;\n(c)a holder of a capital markets services licence under the Securities and Futures Act 2001 who only carries on business in the regulated activity of providing credit rating services but not any other regulated activity as defined in section 2(1) of that Act;\n(d)an authorised reinsurer as defined in section 2 of the Insurance Act 1966;\n(e)a member of Lloyd’s that is permitted to carry on any insurance business specified in the First Schedule to the Insurance (Lloyd’s Asia Scheme) Regulations in accordance with regulation 3 of those Regulations;\n(f)an insurance agent or insurance broker that is registered or otherwise regulated under the Insurance Act 1966;\n(g)a payment service provider licensed under the Payment Services Act 2019;\n(h)a trustee‑manager of a business trust that is registered under the Business Trusts Act 2004.\n(3) In this regulation, “member of Lloyd’s” has the meaning given by regulation 2 of the Insurance (Lloyd’s Asia Scheme) Regulations."
+   }
+  },
+  {
+   "id": "SG-H1575-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definition of “pertinent financial institution”"
+   },
+   "text": {
+    "en": "5. For the purposes of the definition of “pertinent financial institution” in section 58 of the Act, each of the following persons is a pertinent financial institution for the purposes of Part 8 of the Act:\n(a)a bank;\n(b)a finance company licensed under the Finance Companies Act 1967;\n(c)a merchant bank;\n(d)a designated financial holding company;\n(e)an operator or a settlement institution of a designated payment system under the Payment Services Act 2019;\n(f)an approved exchange, a recognised market operator, a licensed trade repository, a licensed foreign trade repository, an approved clearing house, a recognised clearing house, an approved holding company, a Depository or a holder of a capital markets services licence under the Securities and Futures Act 2001 (not being a holder of a capital markets services licence under the Securities and Futures Act 2001 who only carries on business in the regulated activity of providing credit rating services but not any other regulated activity as defined in section 2(1) of that Act);\n(g)a trustee for a collective investment scheme authorised under section 286 of the Securities and Futures Act 2001, that is approved under that Act;\n(h)a licensed trust company under the Trust Companies Act 2005;\n(i)an insurer licensed under the Insurance Act 1966."
+   }
+  },
+  {
+   "id": "SG-H1575-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definition of “relevant provisions”"
+   },
+   "text": {
+    "en": "6. For the purposes of the definition of “relevant provisions” in section 58 of the Act, a provision of written law in the second column of the Second Schedule is a relevant provision for the specified financial institution in the first column of that Schedule opposite that provision, and any person carrying on or who has carried on the significant business of the specified financial institution."
+   }
+  },
+  {
+   "id": "SG-H1575-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions of “significant shareholder”"
+   },
+   "text": {
+    "en": "7. For the purposes of the definitions of “significant shareholder” in sections 74(1), 77 and 80(1) of the Act, each person in the second column of the Third Schedule is a significant shareholder of the pertinent financial institution in the first column of that Schedule opposite that person."
+   }
+  },
+  {
+   "id": "SG-H1575-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions of “significant shareholder provisions”"
+   },
+   "text": {
+    "en": "8. For the purposes of the definitions of “significant shareholder provisions” in sections 74(1), 77 and 80(1) of the Act, each provision of written law in the second column of the Fourth Schedule is a significant shareholder provision for the pertinent financial institution in the first column of that Schedule opposite that provision."
+   }
+  },
+  {
+   "id": "SG-H1575-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Meaning of “financial contract”"
+   },
+   "text": {
+    "en": "9.—(1) In these Regulations, “financial contract” means —\n(a)a securities contract;\n(b)a derivatives contract;\n(c)a securities lending or repurchase agreement; or\n(d)a spot contract.\n(2) In this regulation —\n“business trust” has the meaning given by section 2 of the Business Trusts Act 2004;\n“collective investment scheme” has the meaning given by section 2(1) of the Securities and Futures Act 2001;\n“commodity” means —\n(a)any produce, item, goods or article; or\n(b)any index, right or interest in any produce, item, goods or article;\n“derivatives contract” means any contract or arrangement under which —\n(a)a party to the contract or arrangement is required to, or may be required to, discharge all or any of its obligations under the contract or arrangement at some future time; and\n(b)the value of the contract or arrangement is determined (whether directly or indirectly, or whether wholly or in part) by reference to, is derived from, or varies by reference to, either of the following:\n(i)the value or amount of one or more underlying things;\n(ii)fluctuations in the values or amounts of one or more underlying things,\nbut does not include —\n(c)securities;\n(d)a deposit as defined in section 4B of the Banking Act 1970, where the deposit is accepted by a bank or merchant bank;\n(e)a deposit as defined in section 2 of the Finance Companies Act 1967, where the deposit is accepted by a finance company as defined in that section of that Act; or\n(f)any contract of insurance in relation to any class of insurance business specified in section 3(1) of the Insurance Act 1966;\n“securities” means —\n(a)shares, units in a business trust, units in a collective investment scheme or any instrument conferring or representing a legal or beneficial ownership interest in a corporation, partnership or limited liability partnership; or\n(b)debentures,\nbut does not include —\n(c)any bill of exchange; or\n(d)any certificate of deposit issued by a bank or finance company whether situated in Singapore or elsewhere;\n“securities contract” means a contract for or with a view to acquiring, disposing of, subscribing for or underwriting securities;\n“securities lending or repurchase agreement” means an agreement under which —\n(a)a person (called in this definition the transferor) transfers the legal interest in any certificates of deposit, banker’s acceptances or securities (called in this definition the transferred securities) to another person (called in this definition the transferee);\n(b)the transferor re‑acquires the transferred securities or acquires equivalent certificates of deposit, banker’s acceptances or securities from the transferee —\n(i)at a later time not later than one year after the date of the transfer mentioned in paragraph (a); or\n(ii)on demand;\n(c)the transferor retains the risk of loss or opportunity for gain in respect of the transferred securities;\n(d)the transferor does not dispose of (by transfer, declaration of trust or otherwise) the right to receive any part of the total consideration payable or to be given by the transferee under the agreement; and\n(e)if any distribution is made in respect of the transferred securities during the period between the date of the transfer mentioned in paragraph (a) and the date of the re‑acquisition mentioned in paragraph (b), the transferor receives from the transferee the distribution or compensatory payment equal to the value of the distribution;\n“spot contract” means a contract or an arrangement for the sale or purchase of any currency or commodity at the spot price, where it is intended for a party to the contract or arrangement to take delivery of the currency or commodity immediately or within a period that must not be longer than the period determined by the market convention for delivery of the currency or commodity;\n“underlying thing” means —\n(a)a unit in a collective investment scheme;\n(b)a commodity;\n(c)a financial instrument as defined by section 2(1) of the Securities and Futures Act 2001;\n(d)the price of transporting goods as freight or of hiring vessels for the purpose of transporting goods;\n(e)the credit of any person;\n(f)a numerical indicator, model or statistic relating to weather;\n(g)a numerical indicator, model or statistic relating to the emission of pollutants;\n(h)real property; or\n(i)a numerical indicator, model or statistic that is a measure of economic performance or economic conditions;\n“unit” has the meaning given by section 2(1) of the Securities and Futures Act 2001."
+   }
+  },
+  {
+   "id": "SG-H1575-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 COMPULSORY TRANSFER OF BUSINESS OF PERTINENT FINANCIAL INSTITUTION"
+   },
+   "heading": {
+    "en": "Definition of this Part"
+   },
+   "text": {
+    "en": "10. In this Part, “transferor” has the meaning given by section 65 of the Act."
+   }
+  },
+  {
+   "id": "SG-H1575-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 COMPULSORY TRANSFER OF BUSINESS OF PERTINENT FINANCIAL INSTITUTION"
+   },
+   "heading": {
+    "en": "Setting-off and netting rights"
+   },
+   "text": {
+    "en": "11.—(1) A transfer of a part (but not the whole) of the business of a transferor under section 66 of the Act must not provide for the transfer of some, and not all, of the protected rights and liabilities between a particular person (P) and the transferor.\n(2) In this regulation, rights and liabilities between P and the transferor are protected if —\n(a)they are rights and liabilities that arise from one or more financial contracts between them; and\n(b)they are rights and liabilities which either P or the transferor is entitled to set‑off or net under a set‑off arrangement, netting arrangement or title transfer arrangement.\n(3) For the purposes of paragraph (2), it is immaterial whether —\n(a)the set‑off arrangement or netting arrangement also permits P or the transferor to set‑off or net rights and liabilities with another person; or\n(b)the right to set‑off or net is exercisable only on the occurrence of a particular event."
+   }
+  },
+  {
+   "id": "SG-H1575-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 COMPULSORY TRANSFER OF BUSINESS OF PERTINENT FINANCIAL INSTITUTION"
+   },
+   "heading": {
+    "en": "Rights and liabilities connected with clearing and settlement arrangement of market infrastructure"
+   },
+   "text": {
+    "en": "12.—(1) A transfer of a part (but not the whole) of the business of a transferor under section 66 of the Act must not provide for the transfer of some, and not all, of the rights and liabilities of the transferor that arise from a clearing and settlement arrangement of a market infrastructure, if the failure to transfer any such right or liability will result in a disruption of the arrangement.\n(2) Without limiting the circumstances that constitute a disruption of the clearing and settlement arrangement of a market infrastructure, any of the following is considered a disruption of the arrangement under paragraph (1):\n(a)a disruption of the discharge of payment and delivery obligations in respect of transactions cleared and settled through the market infrastructure;\n(b)a disruption of the operation of the business rules of the market infrastructure relating to settlement finality;\n(c)a disruption of the operation of the business rules of the market infrastructure regarding processes to be observed on the default of a participant.\n(3) In this regulation, “clearing and settlement arrangement”, in relation to a market infrastructure, means any of the following that is governed by the business rules of the market infrastructure:\n(a)a market contract;\n(b)the business rules of the market infrastructure relating to the settlement of a market contract;\n(c)any proceedings or other actions taken under the business rules;\n(d)a market charge;\n(e)the provision of market collateral;\n(f)the default rules of the market infrastructure;\n(g)any default proceedings.\n(4) In paragraph (3), “default proceedings”, “default rules”, “market charge”, “market collateral” and “market contract” have the meanings given by section 48(1) of the Securities and Futures Act 2001, with the reference in each definition to an approved clearing house or a recognised clearing house substituted with a reference to a market infrastructure."
+   }
+  },
+  {
+   "id": "SG-H1575-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 COMPULSORY TRANSFER OF BUSINESS OF PERTINENT FINANCIAL INSTITUTION"
+   },
+   "heading": {
+    "en": "Rights and liabilities connected with designated system"
+   },
+   "text": {
+    "en": "13.—(1) This regulation applies where —\n(a)a right or liability arising from a transfer order effected through a designated system has yet to be settled by the transferor; and\n(b)a failure to transfer the right or liability when transferring a part of the transferor’s business is likely to result in a disruption of the operation of the designated system.\n(2) A transfer of a part (but not the whole) of the business of the transferor under section 66 of the Act —\n(a)must not take effect until after the right or liability is settled; or\n(b)must include the transfer of —\n(i)the right or liability; and\n(ii)any security posted by the transferor in accordance with the designated system rules.\n(3) Without limiting the circumstances that constitute a disruption of the operation of a designated system, either of the following is considered a disruption of the operation of the designated system in paragraph (1):\n(a)a disruption of the netting or settlement (in accordance with the designated system rules) of a transfer order that is effected through the designated system;\n(b)a disruption of any process to be observed under the designated system rules, upon a default of a participant of the designated system."
+   }
+  },
+  {
+   "id": "SG-H1575-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 2 COMPULSORY TRANSFER OF BUSINESS OF PERTINENT FINANCIAL INSTITUTION"
+   },
+   "heading": {
+    "en": "Secured liabilities"
+   },
+   "text": {
+    "en": "14.—(1) This regulation applies where, under a contract to which a transferor is a party, one party owes to the other a liability that is secured against any property or rights.\n(2) A transfer of a part (but not the whole) of the business of the transferor under section 66 of the Act must not provide for —\n(a)the transfer of the liability without the benefit of the security;\n(b)the transfer of the benefit of the security without the liability; or\n(c)the transfer of the property or rights without the liability and benefit of the security.\n(3) For the purposes of paragraph (1), it is immaterial —\n(a)whether or not the liability is secured against all, or substantially all, of the properties and rights of the transferor;\n(b)whether or not the liability is secured against specified properties or rights; and\n(c)whether or not the property or rights against which the liability is secured is or are owned by the person who owes the liability."
+   }
+  },
+  {
+   "id": "SG-H1575-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 2 COMPULSORY TRANSFER OF BUSINESS OF PERTINENT FINANCIAL INSTITUTION"
+   },
+   "heading": {
+    "en": "Protected covered bonds"
+   },
+   "text": {
+    "en": "15.—(1) This regulation applies to a covered bond programme that has all of the following characteristics:\n(a)bonds, notes or other debentures (called in this regulation covered bonds) are issued in one or more tranches by a transferor that is a bank incorporated in Singapore, directly or through a covered bond special purpose vehicle;\n(b)liabilities owed under the covered bonds issued in each tranche to the holders of the covered bonds, and liabilities arising from the enforcement of the rights of the holders of those covered bonds, are —\n(i)secured by a common pool of qualifying assets; and\n(ii)recoverable from the bank regardless of whether the common pool of qualifying assets are sufficient to meet the liabilities.\n(2) A transfer of a part (but not the whole) of the business of a transferor under section 66 of the Act must not result in the transfer of some, and not all, of the rights and liabilities of all the covered bonds that are issued under the covered bond programme.\n(3) However, paragraph (2) is not contravened if the certificate of transfer —\n(a)provides for the transfer of all the rights and liabilities of all the covered bonds that are issued under the covered bond programme; but\n(b)fails to transfer all such rights and liabilities for reasons beyond the control of the transferor or the transferee.\n(4) In this regulation —\n“covered bond programme” means a programme for the issue of covered bonds that are the subject of a single offer document (including any supplementary offer document and other supporting document);\n“covered bond special purpose vehicle” means a company that is incorporated in Singapore for the primary purpose of one or both of the following:\n(a)issuing the covered bonds;\n(b)holding a common pool of qualifying assets in relation to the covered bonds;\n“qualifying assets”, in relation to covered bonds, means assets that are —\n(a)either —\n(i)owned legally or beneficially by the bank incorporated in Singapore or the covered bond special purpose vehicle; or\n(ii)owned both legally and beneficially by that bank incorporated in Singapore or that covered bond special purpose vehicle; and\n(b)used for the purposes of securing the payment of one or more of the following:\n(i)any liabilities to the holders of the covered bonds;\n(ii)any liabilities arising from the enforcement of the rights of the holders of the covered bonds;\n(iii)any liabilities owed to a person appointed by the bank or the covered bond special purpose vehicle for the purposes of the operation and administration of the covered bond programme;\n“tranche” means a particular issue of covered bonds under a covered bond programme;\n“transferee” has the meaning given by section 65 of the Act."
+   }
+  },
+  {
+   "id": "SG-H1575-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 2 COMPULSORY TRANSFER OF BUSINESS OF PERTINENT FINANCIAL INSTITUTION"
+   },
+   "heading": {
+    "en": "Information under section 67(2) of Act"
+   },
+   "text": {
+    "en": "16.—(1) For the purposes of section 67(2) of the Act, the certificate of transfer must specify the following information:\n(a)the names of the transferor and the transferee;\n(b)whether the whole or only a part of the business of the transferor is to be transferred;\n(c)if only a part of the business of the transferor is to be transferred, a description of that part of the business;\n(d)the details of the determination made by the Authority under section 66 of the Act.\n(2) In this regulation, “transferee” has the meaning given by section 65 of the Act."
+   }
+  },
+  {
+   "id": "SG-H1575-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 REVERSE TRANSFER OF BUSINESS AND ONWARD TRANSFER OF BUSINESS"
+   },
+   "heading": {
+    "en": "Definitions of this Part"
+   },
+   "text": {
+    "en": "17. In this Part, “2nd transferee”, “certificate of transfer”, “onward transfer”, “reverse transfer”, “transferee” and “transferor” have the meanings given by section 69 of the Act."
+   }
+  },
+  {
+   "id": "SG-H1575-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 REVERSE TRANSFER OF BUSINESS AND ONWARD TRANSFER OF BUSINESS"
+   },
+   "heading": {
+    "en": "Setting-off and netting rights in relation to reverse transfer and onward transfer"
+   },
+   "text": {
+    "en": "18.—(1) A reverse transfer under section 70 of the Act of a part (but not the whole) of the business of a transferor that was transferred to a transferee under a certificate of transfer must not provide for the transfer of some, and not all, of the protected rights and liabilities between the transferor and the transferee.\n(2) An onward transfer under section 72 of the Act of a part (but not the whole) of the business of a transferor that was transferred to a transferee under a certificate of transfer must not provide for the transfer of some, and not all, of the protected rights and liabilities between the transferee and the 2nd transferee.\n(3) In this regulation —\n(a)rights and liabilities between the transferor and the transferee mentioned in paragraph (1) are protected if —\n(i)they are rights and liabilities that arise from one or more financial contracts between them; and\n(ii)they are rights and liabilities which either the transferor or the transferee is entitled to set‑off or net under a set‑off arrangement, netting arrangement or title transfer arrangement; and\n(b)rights and liabilities between the transferee and the 2nd transferee mentioned in paragraph (2) are protected if —\n(i)they are rights and liabilities that arise from one or more financial contracts between them; and\n(ii)they are rights and liabilities which either the transferee or the 2nd transferee is entitled to set‑off or net under a set‑off arrangement, netting arrangement or title transfer arrangement.\n(4) For the purposes of paragraph (3)(a), it is immaterial whether —\n(a)the set‑off arrangement or netting arrangement also permits the transferor or the transferee to set‑off or net rights and liabilities with another person; or\n(b)the right to set‑off or net is exercisable only on the occurrence of a particular event.\n(5) For the purposes of paragraph (3)(b), it is immaterial whether —\n(a)the set‑off arrangement or netting arrangement also permits the transferee or the 2nd transferee to set-off or net rights and liabilities with another person; or\n(b)the right to set‑off or net is exercisable only on the occurrence of a particular event."
+   }
+  },
+  {
+   "id": "SG-H1575-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 REVERSE TRANSFER OF BUSINESS AND ONWARD TRANSFER OF BUSINESS"
+   },
+   "heading": {
+    "en": "Rights and liabilities connected with clearing and settlement arrangement of market infrastructure in relation to reverse transfer and onward transfer"
+   },
+   "text": {
+    "en": "19.—(1) A reverse transfer under section 70 of the Act of a part (but not the whole) of the business of a transferor that was transferred to a transferee under a certificate of transfer must not provide for the transfer of some, and not all, of the rights and liabilities of the transferee that arise from a clearing and settlement arrangement of a market infrastructure, if the failure to transfer any such right or liability will result in a disruption of the arrangement.\n(2) An onward transfer under section 72 of the Act of a part (but not the whole) of the business of a transferor that was transferred to a transferee under a certificate of transfer must not provide for the transfer of some, and not all, of the rights and liabilities of the transferee that arise from a clearing and settlement arrangement of a market infrastructure, if the failure to transfer any such right or liability will result in a disruption of the arrangement.\n(3) Without limiting the circumstances that constitute a disruption of the clearing and settlement arrangement of a market infrastructure, any of the following is considered a disruption of the arrangement under paragraph (1) or (2):\n(a)a disruption of the discharge of payment and delivery obligations in respect of transactions cleared and settled through the market infrastructure;\n(b)a disruption of the operation of the business rules of the market infrastructure relating to settlement finality;\n(c)a disruption of the operation of the business rules of the market infrastructure regarding processes to be observed on the default of a participant.\n(4) In this regulation, “clearing and settlement arrangement”, in relation to a market infrastructure, means any of the following that is governed by the business rules of the market infrastructure:\n(a)a market contract;\n(b)the business rules of the market infrastructure relating to the settlement of a market contract;\n(c)any proceedings or other actions taken under the business rules;\n(d)a market charge;\n(e)the provision of market collateral;\n(f)the default rules of the market infrastructure;\n(g)any default proceedings.\n(5) In paragraph (4), “default proceedings”, “default rules”, “market charge”, “market collateral” and “market contract” have the meanings given by section 48(1) of the Securities and Futures Act 2001, with the reference in each definition to an approved clearing house or a recognised clearing house substituted with a reference to a market infrastructure."
+   }
+  },
+  {
+   "id": "SG-H1575-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 REVERSE TRANSFER OF BUSINESS AND ONWARD TRANSFER OF BUSINESS"
+   },
+   "heading": {
+    "en": "Rights and liabilities connected with designated system in relation to reverse transfer or onward transfer"
+   },
+   "text": {
+    "en": "20.—(1) This regulation applies where —\n(a)a right or liability arising from a transfer order effected through a designated system has yet to be settled by a transferee; and\n(b)a failure to transfer the right or liability when transferring a part of the business of a transferor that was transferred to a transferee under a certificate of transfer (whether the transfer is a reverse transfer under section 70 of the Act or an onward transfer under section 72 of the Act) is likely to result in a disruption of the operation of the designated system.\n(2) A reverse transfer under section 70 of the Act of a part (but not the whole) of the business of a transferor that was transferred to a transferee under a certificate of transfer —\n(a)must not take effect until after the right or liability is settled; or\n(b)must include the transfer of —\n(i)the right or liability; and\n(ii)any security posted by the transferee in accordance with the designated system rules.\n(3) An onward transfer under section 72 of the Act of a part (but not the whole) of the business of a transferor that was transferred to a transferee under a certificate of transfer —\n(a)must not take effect until after the right or liability is settled; or\n(b)must include the transfer of —\n(i)the right or liability; and\n(ii)any security posted by the transferee in accordance with the designated system rules.\n(4) Without limiting the circumstances that constitute a disruption of the operation of a designated system, either of the following is considered a disruption of the operation of the designated system in paragraph (1):\n(a)a disruption of the netting or settlement (in accordance with the designated system rules) of a transfer order that is effected through the designated system;\n(b)a disruption of any process to be observed under the designated system rules, upon a default of a participant of the designated system."
+   }
+  },
+  {
+   "id": "SG-H1575-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 REVERSE TRANSFER OF BUSINESS AND ONWARD TRANSFER OF BUSINESS"
+   },
+   "heading": {
+    "en": "Secured liabilities in relation to reverse transfer and onward transfer"
+   },
+   "text": {
+    "en": "21.—(1) This regulation applies where, under a contract to which a transferee is a party, one party owes to the other a liability that is secured against any property or rights.\n(2) A reverse transfer under section 70 of the Act of a part (but not the whole) of the business of a transferor that was transferred to a transferee under a certificate of transfer must not provide for —\n(a)the transfer of the liability without the benefit of the security;\n(b)the transfer of the benefit of the security without the liability; or\n(c)the transfer of the property or rights without the liability and benefit of the security.\n(3) An onward transfer under section 72 of the Act of a part (but not the whole) of the business of a transferor that was transferred to a transferee under a certificate of transfer must not provide for —\n(a)the transfer of the liability without the benefit of the security;\n(b)the transfer of the benefit of the security without the liability; or\n(c)the transfer of the property or rights without the liability and benefit of the security.\n(4) For the purposes of paragraph (1), it is immaterial —\n(a)whether or not the liability is secured against all, or substantially all, of the properties and rights of the transferee;\n(b)whether or not the liability is secured against specified properties or rights; and\n(c)whether or not the property or rights against which the liability is secured is or are owned by the person who owes the liability."
+   }
+  },
+  {
+   "id": "SG-H1575-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 3 REVERSE TRANSFER OF BUSINESS AND ONWARD TRANSFER OF BUSINESS"
+   },
+   "heading": {
+    "en": "Information under section 71(2) of Act"
+   },
+   "text": {
+    "en": "22. For the purposes of section 71(2) of the Act, the reverse transfer certificate must specify the following information:\n(a)the names of the transferor and the transferee;\n(b)whether the whole or only a part of the business under the certificate of transfer is to be transferred back to the transferor;\n(c)if only a part of the business under the certificate of transfer is to be transferred back to the transferor, a description of that part of the business;\n(d)the details of the determination made by the Authority under section 70 of the Act."
+   }
+  },
+  {
+   "id": "SG-H1575-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 3 REVERSE TRANSFER OF BUSINESS AND ONWARD TRANSFER OF BUSINESS"
+   },
+   "heading": {
+    "en": "Restrictions on reverse transfer"
+   },
+   "text": {
+    "en": "23. A reverse transfer under section 70 of the Act of a part (but not the whole) of the business of a transferor under a certificate of transfer, must not —\n(a)provide for the transfer of any right or liability (including a right or liability to transfer property) that was not earlier transferred under the certificate of transfer; or\n(b)provide for the transfer of any right or liability of the transferor that arises after the issuance of the certificate of transfer."
+   }
+  },
+  {
+   "id": "SG-H1575-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 3 REVERSE TRANSFER OF BUSINESS AND ONWARD TRANSFER OF BUSINESS"
+   },
+   "heading": {
+    "en": "Information under section 73(2) of Act"
+   },
+   "text": {
+    "en": "24. For the purposes of section 73(2) of the Act, the onward transfer certificate must specify the following information:\n(a)the names of the transferee and the 2nd transferee;\n(b)whether the whole or only a part of the business transferred to the transferee by the certificate of transfer is to be transferred to the 2nd transferee;\n(c)if only a part of the business of the transferee is to be transferred, a description of that part of the business;\n(d)the details of the determination made by the Authority under section 72 of the Act."
+   }
+  },
+  {
+   "id": "SG-H1575-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 COMPULSORY TRANSFER OF SHARES OR COMPULSORY RESTRUCTURING OF SHARE CAPITAL OF PERTINENT FINANCIAL INSTITUTION"
+   },
+   "heading": {
+    "en": "Information under section 76(2) of Act"
+   },
+   "text": {
+    "en": "25.—(1) For the purposes of section 76(2) of the Act, the certificate of transfer must specify the following information:\n(a)the names of the transferor and the transferee;\n(b)the class or classes of the shares to be transferred, and the number of shares in each class to be transferred;\n(c)the details of the determination made by the Authority under section 75 of the Act.\n(2) In this regulation, “transferee” and “transferor” have the meanings given by section 74(1) of the Act."
+   }
+  },
+  {
+   "id": "SG-H1575-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 COMPULSORY TRANSFER OF SHARES OR COMPULSORY RESTRUCTURING OF SHARE CAPITAL OF PERTINENT FINANCIAL INSTITUTION"
+   },
+   "heading": {
+    "en": "Information under section 79(2) of Act"
+   },
+   "text": {
+    "en": "26.—(1) For the purposes of section 79(2) of the Act, the certificate of restructuring of share capital must specify the following information:\n(a)either or both of the following, as may be applicable:\n(i)the amount by which the share capital of the pertinent financial institution is to be reduced, and the number of shares of the pertinent financial institution that are to be cancelled;\n(ii)the names of the subscribers (if any) to whom shares are to be issued by the pertinent financial institution, and the number of shares to be issued to each subscriber;\n(b)the details of the determination made by the Authority under section 78 of the Act.\n(2) In this regulation, “subscriber” has the meaning given by section 77 of the Act."
+   }
+  },
+  {
+   "id": "SG-H1575-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 5 BAIL‑IN POWERS"
+   },
+   "heading": {
+    "en": "Definition of “Division 6 FI”"
+   },
+   "text": {
+    "en": "27. For the purposes of the definition of “Division 6 FI” in section 80(1) of the Act, each of the following persons is a Division 6 FI:\n(a)a bank that is incorporated in Singapore;\n(b)a designated financial holding company which has at least one subsidiary that is a bank incorporated in Singapore;\n[S 1065/2024 wef 31/12/2024]\n(c)a licensed insurer that is incorporated in Singapore;\n[S 1065/2024 wef 31/12/2024]\n(d)a designated financial holding company which has at least one subsidiary that is a licensed insurer incorporated, formed or established in Singapore.\n[S 1065/2024 wef 31/12/2024]"
+   }
+  },
+  {
+   "id": "SG-H1575-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 5 BAIL‑IN POWERS"
+   },
+   "heading": {
+    "en": "Definition of “eligible instrument”"
+   },
+   "text": {
+    "en": "28.—(1) For the purposes of the definition of “eligible instrument” in section 80(1) of the Act, subject to paragraph (2), each of the following is an eligible instrument in relation to a Division 6 FI mentioned in regulation 27(a) or (b):\n(a)any equity instrument or other instrument that confers or represents a legal or beneficial ownership in the Division 6 FI concerned, except an ordinary share;\n(b)any unsecured liability or other unsecured debt instrument that is subordinated to unsecured creditors’ claims of the Division 6 FI concerned, that are not so subordinated;\n(c)any instrument that provides for a right for the instrument to be written down, cancelled, modified, changed in form or converted into shares or another instrument of ownership, when a specified event occurs.\n[S 1065/2024 wef 31/12/2024]\n(1A) For the purposes of the definition of “eligible instrument” in section 80(1) of the Act, subject to paragraph (2), each of the following is an eligible instrument in relation to a Division 6 FI mentioned in regulation 27(c) or (d):\n(a)any equity instrument or other instrument that confers or represents a legal or beneficial ownership in the Division 6 FI concerned, except an ordinary share;\n(b)any unsecured liability or other unsecured debt instrument, excluding any liability mentioned in section 123(3) of the Insurance Act 1966 or section 203(1) of the Insolvency, Restructuring and Dissolution Act 2018;\n(c)any instrument that provides for a right for the instrument to be written down, cancelled, modified, changed in form or converted into shares or another instrument of ownership when a specified event occurs.\n[S 1065/2024 wef 31/12/2024]\n(2) However, an “eligible instrument” does not include —\n(a)any instrument that is issued by a Division 6 FI mentioned in regulation 27(a) or (b) before 29 November 2018;\n(b)any instrument that is issued by a Division 6 FI mentioned in regulation 27(c) or (d) before 31 December 2024; or\n(c)a derivatives contract as defined in regulation 9(2).\n[S 1065/2024 wef 31/12/2024]"
+   }
+  },
+  {
+   "id": "SG-H1575-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 5 BAIL‑IN POWERS"
+   },
+   "heading": {
+    "en": "Information under section 84(4) of Act"
+   },
+   "text": {
+    "en": "29. For the purposes of section 84(4) of the Act, the bail‑in certificate must specify the following information:\n(a)the name of the Division 6 FI;\n(b)where the certificate provides for the cancellation of one or more eligible instruments issued by the Division 6 FI, or to which it is a party or is subject, details of the eligible instrument or instruments to be cancelled, including the types or classes of the eligible instrument or instruments;\n(c)where the certificate provides for the modification, conversion, or change in form of one or more eligible instruments issued by the Division 6 FI, or to which it is a party or is subject, details of the eligible instrument or instruments to be modified, converted or changed in form, including the types or classes of the eligible instrument or instruments;\n(d)where the certificate provides that one or more eligible instruments issued by the Division 6 FI, or to which it is a party or is subject, is or are to have effect as if a right of modification, conversion or change in form had been exercised under the eligible instrument or instruments —\n(i)details of the right of modification, conversion or change in form and its effect on the eligible instrument or instruments; and\n(ii)details of the eligible instrument or instruments that is or are to have that effect, including the types or classes of the eligible instrument or instruments."
+   }
+  },
+  {
+   "id": "SG-H1575-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 5 BAIL‑IN POWERS"
+   },
+   "heading": {
+    "en": "Restrictions on eligible instruments"
+   },
+   "text": {
+    "en": "30.—(1) For the purposes of section 90 of the Act, a Division 6 FI must ensure that the contract —\n(a)that governs an eligible instrument issued by it; and\n(b)that is governed by any law other than the law of Singapore,\nmust contain a provision to the effect that the parties to the contract agree that the eligible instrument may be the subject of a bail‑in certificate.\n(2) In particular, the contract must contain provisions to the effect that —\n(a)the eligible instrument may be subject to cancellation, modification, conversion, change in form or have the effect as if a right of modification, conversion or change of its form had been exercised by the Authority in the exercise of the Authority’s powers under Division 6 of Part 8 of the Act; and\n(b)the parties agree to be bound by a bail‑in certificate.\n(3) Paragraphs (1) and (2) do not apply to an eligible instrument that the Authority specifies in a written notice to the Division 6 FI.\n(4) To avoid doubt, where a contract mentioned in paragraph (1) contains any provision to the effect that upon the occurrence of a specified event, the eligible instrument may be cancelled, modified, converted, changed in form or may have the effect as if a right of modification, conversion or change of its form had been exercised, that provision is unaffected by Division 6 of Part 8 of the Act or the exercise by the Authority of any power under it.\n(5) For a contract mentioned in paragraph (1), the Division 6 FI must, before the issuance of the eligible instrument, provide to the Authority a legal opinion by a person qualified to practise law in the jurisdiction of the governing law of the contract, as to the enforceability in that jurisdiction of the provision required under paragraph (1) to be contained in the contract.\n(6) However, the Authority may, on an application made by a Division 6 FI before the issuance of an eligible instrument, and subject to any conditions and restrictions as the Authority may impose, extend the time for the provision of the legal opinion mentioned in paragraph (5) by up to 10 business days after the date of issuance of the eligible instrument, and paragraph (5) applies accordingly.\n(7) A single legal opinion may be provided for one or more contracts or classes of contracts.\n(8) A Division 6 FI that fails to comply with paragraph (1) or (5) (read with paragraph (6)) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000.\n(9) In this regulation, “business day”, in relation to a contract mentioned in paragraph (1), means any calendar day other than any of the following days in the jurisdiction of the governing law of that contract:\n(a)a Saturday;\n(b)a Sunday;\n(c)a public holiday;\n(d)a bank holiday."
+   }
+  },
+  {
+   "id": "SG-H1575-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 5 BAIL‑IN POWERS"
+   },
+   "heading": {
+    "en": "Disclosure requirement"
+   },
+   "text": {
+    "en": "31.—(1) A Division 6 FI must disclose, on the front cover of a prospectus, information memoranda, offering circular or other offering document related to an eligible instrument issued by it, that the instrument may be subject to cancellation, modification, conversion or change in form under a bail‑in certificate.\n(2) A Division 6 FI that fails to comply with paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000."
+   }
+  },
+  {
+   "id": "SG-H1575-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 6 TERMINATION RIGHTS"
+   },
+   "heading": {
+    "en": "Persons excluded from section 93 of Act"
+   },
+   "text": {
+    "en": "32. For the purposes of section 93(3)(b) of the Act, a notice issued under section 93(2) of the Act does not apply to a termination right under a contract between a pertinent financial institution and any of the following persons:\n(a)a central bank of a country or territory outside Singapore;\n(b)the Authority;\n(c)an operator or a settlement institution of a designated system under the Payment and Settlement Systems (Finality and Netting) Act 2002;\n(d)an approved clearing house, a recognised clearing house or a Depository under the Securities and Futures Act 2001."
+   }
+  },
+  {
+   "id": "SG-H1575-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 6 TERMINATION RIGHTS"
+   },
+   "heading": {
+    "en": "Contractual recognition of sections 92 and 93 of Act"
+   },
+   "text": {
+    "en": "33.—(1) A qualifying pertinent financial institution, or any subsidiary of a qualifying pertinent financial institution, must include a provision in each specified contract to which the qualifying pertinent financial institution or subsidiary is a party, the effect of which is that the parties to the contract agree to be bound by section 92 of the Act and by any suspension of a termination right in the contract by the Authority under section 93 of the Act, where —\n(a)the qualifying pertinent financial institution or subsidiary enters into the specified contract on or after 1 November 2024; or\n(b)the qualifying pertinent financial institution or subsidiary executes any transaction under the specified contract on or after 1 November 2024.\n(2) This regulation does not apply to —\n(a)a specified contract between the qualifying pertinent financial institution and a person mentioned in regulation 32;\n(b)a specified contract between the subsidiary of a qualifying pertinent financial institution and a person mentioned in regulation 32; and\n(c)a specified contract where the obligations of the subsidiary of a qualifying pertinent financial institution under the specified contract are not guaranteed or otherwise supported by the qualifying pertinent financial institution.\n(3) A qualifying pertinent financial institution, or a subsidiary of the qualifying pertinent financial institution, that fails to comply with paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000.\n(4) In any proceedings for an offence under paragraph (3), it is a defence for the qualifying pertinent financial institution or subsidiary of a qualifying pertinent financial institution (as the case may be) to prove, on a balance of probabilities, that the qualifying pertinent financial institution or subsidiary had taken all reasonable efforts to comply with paragraph (1).\n(5) In this regulation —\n“qualifying pertinent financial institution” means a bank that is incorporated in Singapore and to which a direction is issued under section 52(1) of the Act;\n“specified contract” means a contract —\n(a)that is a financial contract;\n(b)that is governed by any law other than the law of Singapore; and\n(c)that contains a termination right, the exercise of which may be suspended, or the applicability of which may be disregarded, under the Act if the contract had been governed by the laws of Singapore;\n“termination right” has the meaning given by section 91 of the Act."
+   }
+  },
+  {
+   "id": "SG-H1575-A33.001",
+   "no": 33.001,
+   "noLabel": {
+    "en": "33A."
+   },
+   "chapter": {
+    "en": "PART 6 TERMINATION RIGHTS"
+   },
+   "heading": {
+    "en": "Expiry of suspension by notice under section 93 of Act in respect of reinsurance contract"
+   },
+   "text": {
+    "en": "33A.—(1) For the purposes of section 94(1)(b) of the Act, the prescribed time is the same time as —\n(a)the time of publication of the notice under section 93 of the Act; or\n(b)the time on another date specified in the notice,\nas the case may be.\n(2) For the purposes of section 94(1)(b) of the Act, the prescribed date is the second business day after —\n(a)the date of publication of the notice under section 93 of the Act; or\n(b)the other date specified in the notice,\nas the case may be.\n[S 1065/2024 wef 31/12/2024]"
+   }
+  },
+  {
+   "id": "SG-H1575-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 7 COMPENSATION"
+   },
+   "heading": {
+    "en": "Definition of “Division 11 FI”"
+   },
+   "text": {
+    "en": "34. For the purposes of the definition of “Division 11 FI” in section 121 of the Act, every pertinent financial institution mentioned in regulation 5 is a Division 11 FI."
+   }
+  },
+  {
+   "id": "SG-H1575-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 7 COMPENSATION"
+   },
+   "heading": {
+    "en": "Form, manner and timing for payment of compensation"
+   },
+   "text": {
+    "en": "35.—(1) For the purposes of section 123(4) of the Act, where the Minister has made a direction to the trustee of a resolution fund established under Division 10 of Part 8 of the Act in relation to the resolution of a Division 11 FI to make a withdrawal from the resolution fund under section 123(3) of the Act, the trustee must pay the amount of compensation that the pre‑resolution creditor or pre‑resolution shareholder is eligible for in full —\n(a)in Singapore dollars into an account in the name of the pre‑resolution creditor or pre‑resolution shareholder (as the case may be) established or maintained with a bank in Singapore; or\n(b)in any other manner as the Authority may determine.\n(2) Before the payment of compensation, the trustee may require any pre‑resolution creditor or pre‑resolution shareholder that is eligible for the compensation to submit within the time specified by the trustee, either or both of the following:\n(a)particulars of an account in the name of the pre‑resolution creditor or pre‑resolution shareholder (as the case may be) established or maintained with a bank in Singapore;\n(b)any other details that the trustee may require to facilitate the payment of compensation to the pre‑resolution creditor or pre‑resolution shareholder, as the case may be.\n(3) Upon receipt of the details required by the trustee mentioned in paragraph (2), the trustee must make the payment of compensation under paragraph (1) within the time specified by the Authority by written notice to the trustee.\n(4) In this regulation, “bank in Singapore” has the meaning given by section 2(1) of the Banking Act 1970."
+   }
+  },
+  {
+   "id": "SG-H1575-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 7 COMPENSATION"
+   },
+   "heading": {
+    "en": "Criteria for appointment and removal of valuer"
+   },
+   "text": {
+    "en": "36.—(1) For the purposes of section 124(3) of the Act, the Minister may only appoint a person as a valuer for a Division 11 FI under resolution if the Minister is satisfied that all of the following conditions are fulfilled:\n(a)the person is not employed by the Authority or by the Division 11 FI;\n(b)the person is not a public sector body or a parent or subsidiary of the Division 11 FI;\n(c)the person does not have any material interest in common, or in conflict, with either of the following persons that could influence, or be reasonably perceived to influence, the person’s judgment in the performance of the role of a valuer in relation to the Division 11 FI:\n(i)any public sector body;\n(ii)the Division 11 FI, or a parent or subsidiary of the Division 11 FI;\n(d)the person has sufficient experience, expertise, knowledge of winding up proceedings under Singapore law, and technical and human resources, to carry out the valuation in relation to the Division 11 FI.\n(2) In deciding whether to appoint a person as a valuer, the Minister must also take into account any other factors that may influence the person’s judgment in performing his or her role as a valuer.\n(3) For the purposes of section 124(5) of the Act, the Minister may revoke the appointment of a valuer if the Minister is satisfied that the person appointed as a valuer —\n(a)no longer meets the criteria set out in paragraph (1);\n(b)has been convicted, whether in Singapore or elsewhere, of any offence involving any dishonesty (including fraud, corruption, bribery and deception);\n(c)has been disciplined for contravening any rule of professional conduct for an act involving any dishonesty; or\n(d)has become incapable of performing the role of a valuer appointed under section 124(2) of the Act."
+   }
+  },
+  {
+   "id": "SG-H1575-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 7 COMPENSATION"
+   },
+   "heading": {
+    "en": "Valuation principles"
+   },
+   "text": {
+    "en": "37.—(1) For the purposes of section 125(1) of the Act, a valuer for a Division 11 FI under resolution must conduct the valuation of the Division 11 FI in accordance with the principles specified in paragraph (2).\n(2) For the purposes of section 125(2)(a) of the Act, the principles are —\n(a)in determining, for the purpose of section 122(1) of the Act, the treatment that the pre‑resolution creditor or pre‑resolution shareholder would have received had winding up proceedings been commenced against the Division 11 FI immediately before the resolution date, the valuer is to assess what the pre‑resolution creditor or pre‑resolution shareholder would have received had proceedings been commenced under Part 8 of the Insolvency, Restructuring and Dissolution Act 2018, or had any action under section 250 of that Act been taken by a liquidator appointed under that section, before the resolution date; and\n(b)the valuer must not take into account any financial support or assistance provided to the Division 11 FI by a public sector body, other than any financial support that is provided in the ordinary course of business."
+   }
+  },
+  {
+   "id": "SG-H1575-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 7 COMPENSATION"
+   },
+   "heading": {
+    "en": "Information to be specified in valuation report"
+   },
+   "text": {
+    "en": "38. For the purposes of section 125(4) of the Act, a valuation report must specify the following information:\n(a)the valuer’s assessment of what each pre‑resolution creditor or pre‑resolution shareholder would have received had winding up proceedings been commenced against the Division 11 FI immediately before the resolution date;\n(b)the valuer’s assessment of what each pre‑resolution creditor or pre‑resolution shareholder has received, is receiving, or is likely to receive —\n(i)as a result of one or more of the actions mentioned in section 122(2) of the Act; or\n(ii)as compensation under the law of a foreign country or territory governing the foreign resolution, if applicable;\n(c)an explanation of the key methodologies and assumptions adopted by the valuer in making the assessments in paragraphs (a) and (b), the reasons for their adoption, and the sensitivity of the respective assessments to these methodologies and assumptions;\n(d)any source of uncertainty in the valuation that is inherent in the valuer’s assessment."
+   }
+  },
+  {
+   "id": "SG-H1575-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 8 EXEMPTION"
+   },
+   "heading": {
+    "en": "Exemption from moratorium provisions of Act"
+   },
+   "text": {
+    "en": "39. Sections 68(2), 76(13) and 79(13) of the Act do not apply to a market infrastructure or the operator of a designated system, when enforcing any security held by it in accordance with the margin rules or default arrangements of the market infrastructure or designated system."
+   }
+  },
+  {
+   "id": "SG-H1575-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Revocation"
+   },
+   "text": {
+    "en": "40. Revoke the Monetary Authority of Singapore (Resolution of Financial Institutions) Regulations 2018 (G.N. No. S 714/2018) (called in these Regulations the revoked Regulations)."
+   }
+  },
+  {
+   "id": "SG-H1575-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Saving and transitional provisions"
+   },
+   "text": {
+    "en": "41.—(1) Any written notice by the Authority mentioned in regulation 25(3) of the revoked Regulations and which was in force immediately before 10 May 2024 continues in force as if it were a written notice mentioned in regulation 30(3) of these Regulations.\n(2) Any application made by a Division 6 FI under regulation 25(6) of the revoked Regulations before 10 May 2024 and which was not dealt with or disposed of immediately before that date, is treated as having been made under regulation 30(6) of these Regulations.\n(3) Any extension of time granted by the Authority, and any conditions for or restrictions on an extension of time imposed, under regulation 25(6) of the revoked Regulations and which were in force immediately before 10 May 2024 continue in force as if granted or imposed under regulation 30(6) of these Regulations until the expiry of the period of extension granted.\n(4) Any disclosure made by a Division 6 FI under regulation 26(1) of the revoked Regulations before 10 May 2024 is treated as having been made under regulation 31(1) of these Regulations.\n(5) Regulation 35 applies in relation to a direction mentioned in regulation 29(1) of the revoked Regulations that has not been effected or completely effected as of 10 May 2024, as if it were a direction mentioned in regulation 35(1), and for this purpose a notice issued under regulation 29(3) of the revoked Regulations (if any) is treated as a notice issued under regulation 35(3)."
+   }
+  },
+  {
+   "id": "SG-H1575-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 3\nAffected persons\nFirst column\nSecond column\nSpecified financial institution\nAffected persons\n1.A bank\nThe depositors of the bank\n2.A finance company licensed under the Finance Companies Act 1967\nThe depositors and the creditors of the finance company\n3.A merchant bank\nThe depositors of the merchant bank\n4.A designated financial holding company\nThe depositors of a bank that is a subsidiary of the designated financial holding company, and the policy owners of the insurance policies issued by an insurer licensed under the Insurance Act 1966 that is a subsidiary of the designated financial holding company\n5.An operator or a settlement institution of a designated payment system under the Payment Services Act 2019\nThe participants of the designated payment system\n6.An approved exchange, a recognised market operator, a licensed trade repository, a licensed foreign trade repository, an approved clearing house, a recognised clearing house, an approved holding company, a Depository or a holder of a capital markets services licence under the Securities and Futures Act 2001 (not being one who only carries on business in the regulated activity of providing credit rating services but not any other regulated activity as defined in section 2(1) of that Act)\nMembers of the public or of a section of the public, the participants of the specified financial institution or the investors using the facility or service provided by the specified financial institution\n7.A trustee, for a collective investment scheme authorised under section 286 of the Securities and Futures Act 2001, that is approved under that Act\nMembers of the public or of a section of the public, or the participants of the collective investment scheme\n8.A licensed trust company under the Trust Companies Act 2005\nMembers of the public or of a section of the public, or protected parties under the Trust Companies Act 2005\n9.A licensed financial adviser under the Financial Advisers Act 2001, or an exempt financial adviser under that Act that is not a pertinent financial institution\nThe clients of the licensed financial adviser or exempt financial adviser, as the case may be\n10.A person who is exempt from the requirement to hold a capital markets services licence under the Securities and Futures Act 2001 to carry on business in any regulated activity specified in the Second Schedule to that Act, but is not a pertinent financial institution\nMembers of the public or of a section of the public, or clients of the exempt person\n11.An insurer licensed or otherwise regulated under the Insurance Act 1966\nThe policy owners of insurance policies issued by the insurer\n12.An insurance intermediary registered or otherwise regulated under the Insurance Act 1966\nThe insurers, insureds or intending insureds (as the case may be) for which the insurance intermediary acts as an agent\n13.A payment service provider licensed under the Payment Services Act 2019\nCustomers of the payment service provider"
+   }
+  },
+  {
+   "id": "SG-H1575-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 6\nRelevant provisions\nFirst column\nSecond column\nSpecified financial institution\nRelevant provision\n1.A bank\nSection 49(2) of the Banking Act 1970\n2.A finance company licensed under the Finance Companies Act 1967\nSection 35(2) of the Finance Companies Act 1967\n3.A merchant bank\nSection 49(2) of the Banking Act 1970 as applied by section 55ZJ of that Act\n4.A designated financial holding company\nSection 47(2) of the Financial Holding Companies Act 2013\n5.An operator or a settlement institution of a designated payment system under the Payment Services Act 2019\nSections 78(2) and 79(1) of the Payment Services Act 2019\n6.An approved exchange or a recognised market operator under the Securities and Futures Act 2001\nSection 46AAB(2) of the Securities and Futures Act 2001\n7.A licensed trade repository or a licensed foreign trade repository under the Securities and Futures Act 2001\nSection 46ZIB(2) of the Securities and Futures Act 2001\n8.An approved clearing house or a recognised clearing house under the Securities and Futures Act 2001\nSection 81SAA(2) of the Securities and Futures Act 2001\n9.An approved holding company under the Securities and Futures Act 2001\nSection 81ZGC(2) of the Securities and Futures Act 2001\n10.A holder of a capital markets services licence under the Securities and Futures Act 2001 (not being a holder of a capital markets services licence who only carries on business in the regulated activity of providing credit rating services but not any other regulated activity as defined in section 2(1) of that Act)\nSection 97E(2) of the Securities and Futures Act 2001\n11.A trustee, for a collective investment scheme authorised under section 286 of the Securities and Futures Act 2001, that is approved under that Act\nSection 292D(2) of the Securities and Futures Act 2001\n12.A licensed trust company under the Trust Companies Act 2005\nSection 21C(2) of the Trust Companies Act 2005\n13.An insurer licensed or otherwise regulated under the Insurance Act 1966\nSection 102(2) of the Insurance Act 1966\n14.An insurer intermediary registered or otherwise regulated under the Insurance Act 1966\nSection 102(2) of the Insurance Act 1966"
+   }
+  },
+  {
+   "id": "SG-H1575-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulation 7\nSignificant shareholders\nFirst column\nSecond column\nPertinent financial institution\nSignificant shareholder\n1.A bank incorporated in Singapore\nAny substantial shareholder, 12% controller, 20% controller or indirect controller of the bank\n2.A finance company licensed under the Finance Companies Act 1967\nAny person who has effective control (as used in section 10 of the Finance Companies Act 1967) or control (as used in section 11 of the Finance Companies Act 1967) of, or a substantial shareholding (as used in section 12 of the Finance Companies Act 1967) in, the finance company\n3.A merchant bank\nAny shareholder of the merchant bank, whether the shareholder is an individual (whether resident in Singapore or not and whether a citizen of Singapore or not) or a body corporate or unincorporate (whether incorporated or carrying on business in Singapore or not)\n4.A designated financial holding company\nAny substantial shareholder, 12% controller, 20% controller or indirect controller of the designated financial holding company\n5.An operator of a designated payment system under the Payment Services Act 2019\nAny 5% controller, 12% controller, 20% controller or indirect controller of the operator of the designated payment system\n6.An approved exchange under the Securities and Futures Act 2001\nAny substantial shareholder, 12% controller or 20% controller of the approved exchange\n7.A licensed trade repository under the Securities and Futures Act 2001\nAny substantial shareholder, 12% controller or 20% controller of the licensed trade repository\n8.An approved clearing house under the Securities and Futures Act 2001\nAny substantial shareholder, 12% controller or 20% controller of the approved clearing house\n9.An approved holding company under the Securities and Futures Act 2001\nAny substantial shareholder, 12% controller or 20% controller of the approved holding company\n10.A holder of a capital markets services licence under the Securities and Futures Act 2001 (not being a holder of a capital markets services licence who only carries on business in the regulated activity of providing credit rating services but not any other regulated activity as defined in section 2(1) of that Act)\nAny person who has obtained effective control (as defined in section 97A(6) of the Securities and Futures Act 2001) of the holder of the capital markets services licence\n11.A licensed trust company under the Trust Companies Act 2005\nAny 20% controller, 50% controller or indirect controller of the licensed trust company\n12.An insurer incorporated in Singapore and licensed under the Insurance Act 1966\nAny substantial shareholder, or any person who has effective control (as defined in section 26(7) of the Insurance Act 1966) of the insurer"
+   }
+  },
+  {
+   "id": "SG-H1575-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE\nRegulation 8\nSignificant shareholder provisions\nFirst column\nSecond column\nPertinent financial institution\nSignificant shareholder provisions\n1.A bank incorporated in Singapore\nSections 15A(1) and 15B(1) of the Banking Act 1970\n2.A finance company licensed under the Finance Companies Act 1967\nSections 10(2), 11(1) and 12(1) of the Finance Companies Act 1967\n3.A merchant bank\nSection 55X(2) of the Banking Act 1970\n4.A designated financial holding company\nSections 13(1), 14(1), 20(1) and 21(1) of the Financial Holding Companies Act 2013\n5.An operator of a designated payment system under the Payment Services Act 2019\nSection 59(1) of the Payment Services Act 2019\n6.An approved exchange under the Securities and Futures Act 2001\nSection 27(1) and (2) of the Securities and Futures Act 2001\n7.A licensed trade repository under the Securities and Futures Act 2001\nSection 46U(1) and (2) of the Securities and Futures Act 2001\n8.An approved clearing house under the Securities and Futures Act 2001\nSection 70(1) and (2) of the Securities and Futures Act 2001\n9.An approved holding company under the Securities and Futures Act 2001\nSection 81ZE(1) and (2) of the Securities and Futures Act 2001\n10.A holder of a capital markets services licence under the Securities and Futures Act 2001 (not being a holder of a capital markets services licence who only carries on business in the regulated activity of providing credit rating services but not any other regulated activity as defined in section 2(1) of that Act)\nSection 97A(2) of the Securities and Futures Act 2001\n11.A licensed trust company under the Trust Companies Act 2005\nSection 16(1) of the Trust Companies Act 2005\n12.An insurer incorporated in Singapore and licensed under the Insurance Act 1966\nSections 26(1) and 27(1) of the Insurance Act 1966"
+   }
+  }
+ ]
+}

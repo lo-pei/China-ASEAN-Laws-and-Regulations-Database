@@ -1,0 +1,2372 @@
+{
+ "id": "VN-H100",
+ "title": {
+  "zh": null,
+  "en": null,
+  "orig": null
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p05",
+ "language": "vi",
+ "level": null,
+ "category": null,
+ "status": null,
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 233,
+ "chars": 81939,
+ "source": {
+  "name": "越南 — Nghị định số 52/2013/NĐ-CP Về Thương mại điện tử",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/nghi-dinh-so-52-2013-nd-cp-ve-thuong-mai-dien-tu--30470"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-08",
+ "completenessNote": "全文，共 233 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。（本件原文语种为 vi）（本次由归档原件补录入库）",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "VN-H100-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "1. Nghị định này áp dụng đối với các thương nhân, t ổ chức, cá nhân tham gia"
+   },
+   "text": {
+    "vi": "1. Nghị định này áp dụng đối với các thương nhân, t ổ chức, cá nhân tham gia\nhoạt động thương mại điện tử trên lãnh thổ Việt Nam, bao gồm:\na) Thương nhân, tổ chức, cá nhân Việt Nam;\nb) Cá nhân nước ngoài cư trú tại Việt Nam;\nc) Thương nhân, tổ chức nước ngoài có sự hiện diện tại Việt Nam thông qua\nhoạt động đầu tư, lập chi nhánh, văn phòng đại diện , hoặc thiết lập website dưới\ntên miền Việt Nam.\n4 CÔNG BÁO/Số 289 + 290/Ngày 29-05-2013"
+   }
+  },
+  {
+   "id": "VN-H100-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "2. Bộ Công Thương chủ trì, phối hợp với Bộ Thông ti n và Truyền thông căn"
+   },
+   "text": {
+    "vi": "2. Bộ Công Thương chủ trì, phối hợp với Bộ Thông ti n và Truyền thông căn\ncứ điều kiện kinh tế, xã hội và yêu cầu quản lý của  từng thời kỳ để hướng dẫn các\nbiện pháp quản lý đối với thương nhân, tổ chức, cá nhân nước ngoài tiến hành hoạt\nđộng thương mại điện tử với chủ thể Việt Nam.\nĐiều 3. Giải thích từ ngữ\nTrong Nghị định này, các từ ngữ dưới đây được hiểu như sau:"
+   }
+  },
+  {
+   "id": "VN-H100-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "1. Hoạt động thương mại điện tử là việc tiến hành m ột phần hoặc toàn bộ quy"
+   },
+   "text": {
+    "vi": "1. Hoạt động thương mại điện tử là việc tiến hành m ột phần hoặc toàn bộ quy\ntrình của hoạt động thương mại bằng phương tiện điệ n tử có kết nối với mạng\nInternet, mạng viễn thông di động hoặc các mạng mở khác."
+   }
+  },
+  {
+   "id": "VN-H100-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "2. Chương trình phát triển thương mại điện tử quốc gia là tập hợp các nội"
+   },
+   "text": {
+    "vi": "2. Chương trình phát triển thương mại điện tử quốc gia là tập hợp các nội\ndung, nhiệm vụ về hoạt động phát triển thương mại đ iện tử theo từng giai đoạn\nnhằm mục tiêu khuyến khích, hỗ trợ ứng dụng thương mại điện tử để nâng cao\nhiệu quả sản xuất, kinh doanh, thúc đẩy giao dịch t hương mại trong nước và xuất\nkhẩu, xây dựng kết cấu hạ tầng thương mại điện tử theo hướng hiện đại hóa."
+   }
+  },
+  {
+   "id": "VN-H100-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "3. Chứng từ điện tử trong giao dịch thương mại (dưới đây gọi tắt là chứng từ điện"
+   },
+   "text": {
+    "vi": "3. Chứng từ điện tử trong giao dịch thương mại (dưới đây gọi tắt là chứng từ điện\ntử) là hợp đồng, đề nghị, thông báo, xác nhận hoặc các tài liệu khác ở dạng thông điệp\ndữ liệu do các bên đưa ra liên quan tới việc giao kết hay thực hiện hợp đồng.\nChứng từ điện tử trong Nghị định này không bao gồm hối phiếu, lệnh phiếu, vận\nđơn, hóa đơn gửi hàng, phiếu xuất nhập kho hay bất cứ chứng từ có thể chuyển\nnhượng nào cho phép bên nắm giữ chứng từ hoặc bên t hụ hưởng được quyền nhận\nhàng hóa, dịch vụ hoặc được trả một khoản tiền."
+   }
+  },
+  {
+   "id": "VN-H100-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "4. Người khởi tạo là bên, hoặc người đại diện của bên đó, đã tạo ra hoặc gửi đi"
+   },
+   "text": {
+    "vi": "4. Người khởi tạo là bên, hoặc người đại diện của bên đó, đã tạo ra hoặc gửi đi\nchứng từ điện tử trước khi lưu trữ nó. Người khởi t ạo không bao gồm bên hoạt\nđộng với tư cách là người trung gian liên quan tới chứng từ điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "5. Người nhận là bên nhận được chứng từ điện tử the o chủ ý của người khởi"
+   },
+   "text": {
+    "vi": "5. Người nhận là bên nhận được chứng từ điện tử the o chủ ý của người khởi\ntạo. Người nhận không bao gồm bên hoạt động với tư cách là người trung gian liên\nquan tới chứng từ điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "6. Hệ thống thông tin tự động là hệ thống thông tin  được sử dụng để khởi tạo,"
+   },
+   "text": {
+    "vi": "6. Hệ thống thông tin tự động là hệ thống thông tin  được sử dụng để khởi tạo,\ngửi, nhận, hoặc phản hồi các thông điệp dữ liệu như ng không có sự can thiệp hoặc\nkiểm tra của con người mỗi lần một hoạt động được thực hiện.\n7. Địa điểm kinh doanh là cơ sở cố định để tiến hàn h hoạt động kinh doanh,\nkhông bao gồm cơ sở cung cấp tạm thời hàng hóa hay dịch vụ."
+   }
+  },
+  {
+   "id": "VN-H100-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "8. Website thương mại điện tử (dưới đây gọi tắt là website) là trang thông tin"
+   },
+   "text": {
+    "vi": "8. Website thương mại điện tử (dưới đây gọi tắt là website) là trang thông tin\nđiện tử được thiết lập để phục vụ một phần hoặc toà n bộ quy trình của hoạt động\nmua bán hàng hóa hay cung ứng dịch vụ, từ trưng bày giới thiệu hàng hóa, dịch vụ\nđến giao kết hợp đồng, cung ứng dịch vụ, thanh toán và dịch vụ sau bán hàng.\nCÔNG BÁO/Số 289 + 290/Ngày 29-05-2013 5"
+   }
+  },
+  {
+   "id": "VN-H100-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "9. Sàn giao dịch thương mại điện tử là website thươ ng mại điện tử cho phép"
+   },
+   "text": {
+    "vi": "9. Sàn giao dịch thương mại điện tử là website thươ ng mại điện tử cho phép\ncác thương nhân, tổ chức, cá nhân không phải chủ sở  hữu website có thể tiến hành\nmột phần hoặc toàn bộ quy trình mua bán hàng hóa, dịch vụ trên đó.\nSàn giao dịch thương mại điện tử trong Nghị định nà y không bao gồm các\nwebsite giao dịch chứng khoán trực tuyến."
+   }
+  },
+  {
+   "id": "VN-H100-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "10. Website khuyến mại trực tuyến là website thương  mại điện tử do thương"
+   },
+   "text": {
+    "vi": "10. Website khuyến mại trực tuyến là website thương  mại điện tử do thương\nnhân, tổ chức thiết lập để thực hiện khuyến mại cho  hàng hóa, dịch vụ của thương\nnhân, tổ chức, cá nhân khác theo các điều khoản của hợp đồng dịch vụ khuyến mại."
+   }
+  },
+  {
+   "id": "VN-H100-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "11. Website đấu giá trực tuyến là website thương mạ i điện tử cung cấp giải"
+   },
+   "text": {
+    "vi": "11. Website đấu giá trực tuyến là website thương mạ i điện tử cung cấp giải\npháp cho phép thương nhân, tổ chức, cá nhân không p hải chủ sở hữu website có\nthể tổ chức đấu giá cho hàng hóa của mình trên đó."
+   }
+  },
+  {
+   "id": "VN-H100-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "12. Chức năng đặt hàng trực tuyến là một chức năng được cài đặt trên website"
+   },
+   "text": {
+    "vi": "12. Chức năng đặt hàng trực tuyến là một chức năng được cài đặt trên website\nthương mại điện tử hoặc trên thiết bị đầu cuối của khách hàng và kết nối với\nwebsite thương mại điện tử để cho phép khách hàng k hởi đầu quá trình giao kết\nhợp đồng theo những điều khoản được công bố trên we bsite đó, bao gồm cả việc\ngiao kết hợp đồng với hệ thống thông tin tự động."
+   }
+  },
+  {
+   "id": "VN-H100-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "13. Thông tin cá nhân là các thông tin góp phần địn h danh một cá nhân cụ thể,"
+   },
+   "text": {
+    "vi": "13. Thông tin cá nhân là các thông tin góp phần địn h danh một cá nhân cụ thể,\nbao gồm tên, tuổi, địa chỉ nhà riêng, số điện thoại , thông tin y tế, số tài khoản,\nthông tin về các giao dịch thanh toán cá nhân và nh ững thông tin khác mà cá nhân\nmong muốn giữ bí mật.\nThông tin cá nhân trong Nghị định này không bao gồm  thông tin liên hệ công\nviệc và những thông tin mà cá nhân đã tự công bố trên các phương tiện truyền thông."
+   }
+  },
+  {
+   "id": "VN-H100-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "14. Thu thập thông tin cá nhân là hoạt động thu thậ p để đưa vào một cơ sở dữ"
+   },
+   "text": {
+    "vi": "14. Thu thập thông tin cá nhân là hoạt động thu thậ p để đưa vào một cơ sở dữ\nliệu bao gồm thông tin cá nhân của nhiều người tiêu  dùng là khách hàng hoặc\nkhách hàng tiềm năng của thương nhân, tổ chức, cá n hân hoạt động thương mại\nđiện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "15. Dịch vụ chứng thực hợp đồng điện tử là dịch vụ của bên thứ ba về lưu trữ"
+   },
+   "text": {
+    "vi": "15. Dịch vụ chứng thực hợp đồng điện tử là dịch vụ của bên thứ ba về lưu trữ\nvà bảo đảm tính toàn vẹn của chứng từ điện tử do cá c bên khởi tạo trong quá trình\ngiao kết và thực hiện hợp đồng.\nĐiều 4. Các hành vi bị cấm trong hoạt động thương mại điện tử"
+   }
+  },
+  {
+   "id": "VN-H100-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "1. Vi phạm về hoạt động kinh doanh thương mại điện tử:"
+   },
+   "text": {
+    "vi": "1. Vi phạm về hoạt động kinh doanh thương mại điện tử:\na) Tổ chức mạng lưới kinh doanh, tiếp thị cho dịch vụ thương mại điện tử,\ntrong đó mỗi người tham gia phải đóng một khoản tiề n ban đầu để mua dịch vụ và\nđược nhận tiền hoa hồng, tiền thưởng hoặc lợi ích k inh tế khác từ việc vận động\nngười khác tham gia mạng lưới;\n6 CÔNG BÁO/Số 289 + 290/Ngày 29-05-2013\n\nb) Lợi dụng thương mại điện tử để kinh doanh hàng g iả, hàng hóa, dịch vụ vi\nphạm quyền sở hữu trí tuệ; hàng hóa, dịch vụ thuộc danh mục hàng hóa, dịch vụ\ncấm kinh doanh;\nc) Lợi dụng danh nghĩa hoạt động kinh doanh thương mại điện tử để huy động\nvốn trái phép từ các thương nhân, tổ chức, cá nhân khác;\nd) Cung cấp các dịch vụ thương mại điện tử hoặc dịch vụ giám sát, đánh giá và\nchứng thực trong thương mại điện tử khi chưa đăng k ý hoặc chưa được cấp phép\ntheo các quy định của Nghị định này;\nđ) Cung cấp các dịch vụ thương mại điện tử hoặc dịch vụ giám sát, đánh giá và\nchứng thực trong thương mại điện tử không đúng với thông tin trong hồ sơ đăng ký\nhoặc cấp phép;\ne) Có hành vi gian dối hoặc cung cấp thông tin sai sự thật khi thực hiện các thủ\ntục thông báo thiết lập website thương mại điện tử,  đăng ký website cung cấp dịch\nvụ thương mại điện tử, đăng ký hoặc xin cấp phép cá c dịch vụ giám sát, đánh giá\nvà chứng thực trong thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "2. Vi phạm về thông tin trên website thương mại điện tử:"
+   },
+   "text": {
+    "vi": "2. Vi phạm về thông tin trên website thương mại điện tử:\na) Giả mạo thông tin đăng ký hoặc không tuân thủ cá c quy định về hình thức,\nquy cách công bố thông tin đăng ký trên website thương mại điện tử;\nb) Sử dụng biểu trưng của các chương trình đánh giá tín nhiệm website thương\nmại điện tử khi chưa được những chương trình này công nhận;\nc) Sử dụng các đường dẫn, biểu trưng hoặc công nghệ  khác trên website\nthương mại điện tử để gây nhầm lẫn về mối liên hệ v ới thương nhân, tổ chức, cá\nnhân khác;\nd) Sử dụng đường dẫn để cung cấp những thông tin trái ngược hoặc sai lệch so\nvới thông tin được công bố tại khu vực website có gắn đường dẫn này."
+   }
+  },
+  {
+   "id": "VN-H100-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "3. Vi phạm về giao dịch trên website thương mại điện tử:"
+   },
+   "text": {
+    "vi": "3. Vi phạm về giao dịch trên website thương mại điện tử:\na) Thực hiện các hành vi lừa đảo khách hàng trên website thương mại điện tử;\nb) Giả mạo thông tin của thương nhân, tổ chức, cá n hân khác để tham gia hoạt\nđộng thương mại điện tử;\nc) Can thiệp vào hệ điều hành và trình duyệt Internet tại các thiết bị điện tử truy\ncập vào website nhằm buộc khách hàng lưu lại website trái với ý muốn của mình."
+   }
+  },
+  {
+   "id": "VN-H100-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "4. Các vi phạm khác:"
+   },
+   "text": {
+    "vi": "4. Các vi phạm khác:\na) Đánh cắp, sử dụng, tiết lộ, chuyển nhượng, bán c ác thông tin liên quan đến\nbí mật kinh doanh của thương nhân, tổ chức, cá nhân  khác hoặc thông tin cá nhân\ncủa người tiêu dùng trong thương mại điện tử khi chưa được sự đồng ý của các bên\nliên quan, trừ trường hợp pháp luật có quy định khác;\nCÔNG BÁO/Số 289 + 290/Ngày 29-05-2013 7\n\nb) Giả mạo hoặc sao chép giao diện website thương m ại điện tử của thương\nnhân, tổ chức, cá nhân khác để kiếm lợi hoặc để gây  nhầm lẫn, gây mất lòng tin\ncủa khách hàng đối với thương nhân, tổ chức, cá nhân đó.\nĐiều 5. Nội dung quản lý nhà nước về thương mại điện tử"
+   }
+  },
+  {
+   "id": "VN-H100-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "1. Xây dựng và tổ chức thực hiện cơ chế, chính sách , chiến lược, quy hoạch,"
+   },
+   "text": {
+    "vi": "1. Xây dựng và tổ chức thực hiện cơ chế, chính sách , chiến lược, quy hoạch,\nchương trình phát triển thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "2. Ban hành và tổ chức thực hiện các văn bản quy phạm pháp luật về hoạt động"
+   },
+   "text": {
+    "vi": "2. Ban hành và tổ chức thực hiện các văn bản quy phạm pháp luật về hoạt động\nthương mại điện tử, tiêu chuẩn, quy chuẩn ứng dụng thương mại điện tử và các quy\nđịnh về quản lý dịch vụ thương mại điện tử đặc thù."
+   }
+  },
+  {
+   "id": "VN-H100-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "3. Quản lý, giám sát các hoạt động thương mại điện tử."
+   },
+   "text": {
+    "vi": "3. Quản lý, giám sát các hoạt động thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "4. Tuyên truyền, phổ biến giáo dục pháp luật về thương mại điện tử."
+   },
+   "text": {
+    "vi": "4. Tuyên truyền, phổ biến giáo dục pháp luật về thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "5. Tổ chức thực hiện hoạt động nghiên cứu, ứng dụng , chuyển giao công nghệ"
+   },
+   "text": {
+    "vi": "5. Tổ chức thực hiện hoạt động nghiên cứu, ứng dụng , chuyển giao công nghệ\ntrong thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "6. Tổ chức thực hiện các hoạt động tư vấn, hỗ trợ doanh nghiệp triển khai, ứng"
+   },
+   "text": {
+    "vi": "6. Tổ chức thực hiện các hoạt động tư vấn, hỗ trợ doanh nghiệp triển khai, ứng\ndụng thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "7. Tổ chức thực hiện công tác đào tạo, bồi dưỡng nh ân lực cho thương mại"
+   },
+   "text": {
+    "vi": "7. Tổ chức thực hiện công tác đào tạo, bồi dưỡng nh ân lực cho thương mại\nđiện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "8. Thống kê về thương mại điện tử."
+   },
+   "text": {
+    "vi": "8. Thống kê về thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "9. Hợp tác quốc tế trong lĩnh vực thương mại điện tử."
+   },
+   "text": {
+    "vi": "9. Hợp tác quốc tế trong lĩnh vực thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "10. Thanh tra, kiểm tra, giải quyết khiếu nại, tố c áo và xử lý vi phạm trong"
+   },
+   "text": {
+    "vi": "10. Thanh tra, kiểm tra, giải quyết khiếu nại, tố c áo và xử lý vi phạm trong\nhoạt động thương mại điện tử.\nĐiều 6. Trách nhiệm quản lý nhà nước về thương mại điện tử"
+   }
+  },
+  {
+   "id": "VN-H100-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "1. Bộ Công Thương chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà"
+   },
+   "text": {
+    "vi": "1. Bộ Công Thương chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà\nnước về thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "2. Các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc"
+   },
+   "text": {
+    "vi": "2. Các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc\nTrung ương trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp\nvới Bộ Công Thương thực hiện quản lý nhà nước về thương mại điện tử.\nĐiều 7. Chương trình phát triển thương mại điện tử quốc gia"
+   }
+  },
+  {
+   "id": "VN-H100-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "1. Nhà nước có chính sách và biện pháp thích hợp nh ằm thúc đẩy thương mại"
+   },
+   "text": {
+    "vi": "1. Nhà nước có chính sách và biện pháp thích hợp nh ằm thúc đẩy thương mại\nđiện tử phát triển minh bạch, bền vững thông qua Ch ương trình phát triển thương\nmại điện tử quốc gia."
+   }
+  },
+  {
+   "id": "VN-H100-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "2. Nội dung hoạt động thuộc Chương trình phát triển  thương mại điện tử quốc"
+   },
+   "text": {
+    "vi": "2. Nội dung hoạt động thuộc Chương trình phát triển  thương mại điện tử quốc\ngia gồm:\na) Xây dựng, phát triển kết cấu hạ tầng thương mại điện tử;\n8 CÔNG BÁO/Số 289 + 290/Ngày 29-05-2013\n\nb) Tuyên truyền, phổ biến, nâng cao nhận thức về thương mại điện tử;\nc) Đào tạo, phát triển nguồn nhân lực thương mại điện tử;\nd) Phát triển các sản phẩm, giải pháp thương mại điện tử;\nđ) Tư vấn xây dựng kế hoạch ứng dụng thương mại điện tử;\ne) Hợp tác quốc tế về thương mại điện tử;\ng) Nâng cao năng lực quản lý và tổ chức hoạt động phát triển thương mại điện tử;\nh) Các nội dung khác."
+   }
+  },
+  {
+   "id": "VN-H100-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "3. Thủ tướng Chính phủ quy định về đối tượng tham gia, phạm vi áp dụng, cơ chế"
+   },
+   "text": {
+    "vi": "3. Thủ tướng Chính phủ quy định về đối tượng tham gia, phạm vi áp dụng, cơ chế\nquản lý, hỗ trợ kinh phí của Chương trình phát triển thương mại điện tử quốc gia.\nĐiều 8. Thống kê về thương mại điện tử\n1. Ủy ban nhân dân các tỉnh, thành phố trực thuộc T rung ương thu thập số liệu\nthống kê về tình hình ứng dụng thương mại điện tử c ủa địa phương, hàng năm báo\ncáo Bộ Công Thương để tổng hợp."
+   }
+  },
+  {
+   "id": "VN-H100-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "2. Thương nhân, tổ chức cung cấp dịch vụ thương mại điện tử có nghĩa vụ định"
+   },
+   "text": {
+    "vi": "2. Thương nhân, tổ chức cung cấp dịch vụ thương mại điện tử có nghĩa vụ định\nkỳ báo cáo về hoạt động cung cấp dịch vụ của mình đ ể phục vụ công tác thống kê\nthương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "3. Bộ trưởng Bộ Công Thương quy định cụ thể chế độ báo cáo thống kê đối"
+   },
+   "text": {
+    "vi": "3. Bộ trưởng Bộ Công Thương quy định cụ thể chế độ báo cáo thống kê đối\nvới các thương nhân, tổ chức cung cấp dịch vụ thươn g mại điện tử và các địa\nphương có doanh nghiệp hoạt động kinh doanh thương mại điện tử.\n\nChương II\nGIAO KẾT HỢP ĐỒNG TRONG THƯƠNG MẠI ĐIỆN TỬ\n\nMục 1\nCHỨNG TỪ ĐIỆN TỬ TRONG GIAO DỊCH THƯƠNG MẠI\n\nĐiều 9. Giá trị pháp lý như bản gốc"
+   }
+  },
+  {
+   "id": "VN-H100-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "1. Chứng từ điện tử trong giao dịch thương mại có g iá trị pháp lý như bản gốc"
+   },
+   "text": {
+    "vi": "1. Chứng từ điện tử trong giao dịch thương mại có g iá trị pháp lý như bản gốc\nnếu đáp ứng cả hai điều kiện sau:\na) Có sự bảo đảm đủ tin cậy về tính toàn vẹn của thông tin chứa trong chứng từ\nđiện tử từ thời điểm thông tin được khởi tạo lần đầu tiên dưới dạng chứng từ điện tử;\nb) Thông tin chứa trong chứng từ điện tử có thể tru y cập, sử dụng được dưới\ndạng hoàn chỉnh khi cần thiết."
+   }
+  },
+  {
+   "id": "VN-H100-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "2. Tiêu chí đánh giá tính toàn vẹn là thông tin còn  đầy đủ và chưa bị thay đổi,"
+   },
+   "text": {
+    "vi": "2. Tiêu chí đánh giá tính toàn vẹn là thông tin còn  đầy đủ và chưa bị thay đổi,\nngoài những thay đổi về hình thức phát sinh trong q uá trình trao đổi, lưu trữ hoặc\nhiển thị chứng từ điện tử.\nCÔNG BÁO/Số 289 + 290/Ngày 29-05-2013 9"
+   }
+  },
+  {
+   "id": "VN-H100-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "3. Tiêu chí về sự bảo đảm đủ tin cậy là khi một trong những biện pháp sau được"
+   },
+   "text": {
+    "vi": "3. Tiêu chí về sự bảo đảm đủ tin cậy là khi một trong những biện pháp sau được\náp dụng trên cơ sở thỏa thuận giữa các bên trao đổi và sử dụng chứng từ điện tử:\na) Ký chứng từ điện tử bằng chữ ký số do tổ chức cung cấp dịch vụ chứng thực\nchữ ký số hợp pháp cấp;\nb) Lưu trữ chứng từ điện tử tại hệ thống của một tổ  chức cung cấp dịch vụ\nchứng thực hợp đồng điện tử đã được cấp phép mà các bên thỏa thuận lựa chọn;\nc) Có sự bảo đảm từ phía thương nhân, tổ chức cung cấp hạ tầng cho việc khởi\ntạo, gửi và lưu trữ chứng từ điện tử về tính toàn v ẹn của thông tin chứa trong\nchứng từ điện tử trong quá trình gửi và lưu trữ trên hệ thống;\nd) Biện pháp khác mà các bên thống nhất lựa chọn.\nĐiều 10. Thời điểm, địa điểm gửi và nhận chứng từ điện tử"
+   }
+  },
+  {
+   "id": "VN-H100-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "1. Thời điểm gửi một chứng từ điện tử là thời điểm chứng từ điện tử đó rời"
+   },
+   "text": {
+    "vi": "1. Thời điểm gửi một chứng từ điện tử là thời điểm chứng từ điện tử đó rời\nkhỏi hệ thống thông tin dưới sự kiểm soát của người  khởi tạo hay đại diện của\nngười khởi tạo. Trong trường hợp chứng từ điện tử k hông rời khỏi hệ thống thông\ntin dưới sự kiểm soát của người khởi tạo hay đại di ện của người khởi tạo, thời\nđiểm gửi là thời điểm nhận được chứng từ điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "2. Trong trường hợp các bên không có thỏa thuận khá c, thời điểm nhận một"
+   },
+   "text": {
+    "vi": "2. Trong trường hợp các bên không có thỏa thuận khá c, thời điểm nhận một\nchứng từ điện tử là thời điểm chứng từ điện tử đó tới được địa chỉ điện tử do người\nnhận chỉ ra và có thể truy cập được.\n3. Địa điểm kinh doanh của người khởi tạo được coi là địa điểm gửi chứng từ\nđiện tử và địa điểm kinh doanh của người nhận được coi là địa điểm nhận chứng từ\nđiện tử.\nĐiều 11. Địa điểm kinh doanh của các bên\n1. Địa điểm kinh doanh của mỗi bên là địa điểm do b ên đó chỉ ra, trừ khi bên\nkhác nêu rõ bên đó không có địa điểm kinh doanh tại địa điểm này."
+   }
+  },
+  {
+   "id": "VN-H100-A43",
+   "no": 43,
+   "noLabel": {
+    "vi": "2. Trong trường hợp một bên có nhiều địa điểm kinh doanh nhưng không chỉ"
+   },
+   "text": {
+    "vi": "2. Trong trường hợp một bên có nhiều địa điểm kinh doanh nhưng không chỉ\nra địa điểm kinh doanh nào thì địa điểm kinh doanh là địa điểm có mối quan hệ\nmật thiết nhất với hợp đồng liên quan xét tới mọi b ối cảnh trước và tại thời điểm\ngiao kết hợp đồng."
+   }
+  },
+  {
+   "id": "VN-H100-A44",
+   "no": 44,
+   "noLabel": {
+    "vi": "3. Trong trường hợp một cá nhân không có địa điểm k inh doanh thì địa điểm"
+   },
+   "text": {
+    "vi": "3. Trong trường hợp một cá nhân không có địa điểm k inh doanh thì địa điểm\nkinh doanh là nơi đăng ký thường trú của cá nhân đó."
+   }
+  },
+  {
+   "id": "VN-H100-A45",
+   "no": 45,
+   "noLabel": {
+    "vi": "4. Một địa điểm không được coi là địa điểm kinh doanh nếu địa điểm đó chỉ là"
+   },
+   "text": {
+    "vi": "4. Một địa điểm không được coi là địa điểm kinh doanh nếu địa điểm đó chỉ là\nnơi đặt máy móc, thiết bị công nghệ của hệ thống thông tin do một bên sử dụng để\ngiao kết hợp đồng hoặc chỉ là nơi các bên khác có thể truy cập hệ thống thông tin đó."
+   }
+  },
+  {
+   "id": "VN-H100-A46",
+   "no": 46,
+   "noLabel": {
+    "vi": "5. Một địa danh gắn với tên miền hay địa chỉ thư đi ện tử của một bên không"
+   },
+   "text": {
+    "vi": "5. Một địa danh gắn với tên miền hay địa chỉ thư đi ện tử của một bên không\nnhất thiết liên quan tới địa điểm kinh doanh của bên đó.\n10 CÔNG BÁO/Số 289 + 290/Ngày 29-05-2013\n\nĐiều 12. Thông báo về đề nghị giao kết hợp đồng không có bên nhận cụ thể\nMột thông báo bằng chứng từ điện tử về đề nghị giao  kết hợp đồng mà không\ncó bên nhận cụ thể thì chỉ là thông báo mời đề nghị  giao kết hợp đồng. Thông báo\nđó chưa được coi là đề nghị giao kết hợp đồng, trừ khi bên thông báo chỉ rõ tại\nthông báo đó trách nhiệm của mình trong trường hợp nhận được trả lời chấp nhận.\nĐiều 13. Sử dụng hệ thống thông tin tự động\nHợp đồng được giao kết từ sự tương tác giữa một hệ thống thông tin tự động\nvới một người hoặc giữa các hệ thống thông tin tự đ ộng với nhau không bị phủ\nnhận giá trị pháp lý chỉ vì không có sự kiểm tra ha y can thiệp của con người vào\ntừng hành động cụ thể do các hệ thống thông tin tự động thực hiện hay hợp đồng\nđược giao kết.\nĐiều 14. Lỗi nhập thông tin trong chứng từ điện tử"
+   }
+  },
+  {
+   "id": "VN-H100-A47",
+   "no": 47,
+   "noLabel": {
+    "vi": "1. Trường hợp một người mắc phải lỗi nhập thông tin  trong một chứng từ điện"
+   },
+   "text": {
+    "vi": "1. Trường hợp một người mắc phải lỗi nhập thông tin  trong một chứng từ điện\ntử được sử dụng để trao đổi với hệ thống thông tin tự động của bên khác nhưng hệ\nthống thông tin tự động này không hỗ trợ cho người đó sửa lại lỗi thì người đó\nhoặc thương nhân, tổ chức, cá nhân mà người đó đại diện có quyền rút bỏ phần\nchứng từ điện tử có lỗi nếu đáp ứng hai điều kiện sau:\na) Ngay khi biết có lỗi, người đó hoặc thương nhân, tổ chức, cá nhân mà người\nđó đại diện thông báo cho bên kia về lỗi và nêu rõ đã mắc phải lỗi trong chứng từ\nđiện tử này;\nb) Người đó hoặc thương nhân, tổ chức, cá nhân mà n gười đó đại diện vẫn\nchưa sử dụng hoặc có được bất kỳ lợi ích vật chất hay giá trị nào từ hàng hóa, dịch\nvụ nhận được từ bên kia."
+   }
+  },
+  {
+   "id": "VN-H100-A48",
+   "no": 48,
+   "noLabel": {
+    "vi": "2. Quyền rút bỏ phần chứng từ điện tử có lỗi không ảnh hưởng tới trách nhiệm"
+   },
+   "text": {
+    "vi": "2. Quyền rút bỏ phần chứng từ điện tử có lỗi không ảnh hưởng tới trách nhiệm\ngiải quyết hậu quả các lỗi phát sinh ngoài những quy định tại Khoản 1 Điều này.\n\nMục 2\nGIAO KẾT HỢP ĐỒNG SỬ DỤNG CHỨC NĂNG ĐẶT HÀNG\nTRỰC TUYẾN TRÊN WEBSITE THƯƠNG MẠI ĐIỆN TỬ\n\nĐiều 15. Thông báo mời đề nghị giao kết hợp đồng\nNếu một website thương mại điện tử có chức năng đặt hàng trực tuyến áp dụng\ncho từng hàng hóa hoặc dịch vụ cụ thể được giới thi ệu trên website đó, thì các\nthông tin giới thiệu về hàng hóa, dịch vụ và các đi ều khoản liên quan được coi là\nthông báo mời đề nghị giao kết hợp đồng của thương nhân, tổ chức, cá nhân bán\nhàng theo quy định tại Điều 12 Nghị định này.\nCÔNG BÁO/Số 289 + 290/Ngày 29-05-2013 11\n\nĐiều 16. Cung cấp các điều khoản của hợp đồng khi s ử dụng chức năng\nđặt hàng trực tuyến trên website thương mại điện tử\nWebsite thương mại điện tử có chức năng đặt hàng tr ực tuyến phải cung cấp\ncho khách hàng thông tin về các điều khoản của hợp đồng được quy định từ\nĐiều 30 đến Điều 34 Nghị định này trước thời điểm k hách hàng gửi đề nghị\ngiao kết hợp đồng.\nĐiều 17. Đề nghị giao kết hợp đồng\nChứng từ điện tử do khách hàng khởi tạo và gửi đi b ằng cách sử dụng chức\nnăng đặt hàng trực tuyến được coi là đề nghị giao kết hợp đồng của khách hàng đối\nvới hàng hóa hoặc dịch vụ gắn kèm chức năng đặt hàng trực tuyến đó.\nĐiều 18. Rà soát và xác nhận nội dung hợp đồng\nWebsite thương mại điện tử phải có cơ chế cho phép khách hàng rà soát, bổ\nsung, sửa đổi và xác nhận nội dung giao dịch trước khi sử dụng chức năng đặt\nhàng trực tuyến để gửi đề nghị giao kết hợp đồng. C ơ chế rà soát và xác nhận này\nphải đáp ứng các điều kiện sau:"
+   }
+  },
+  {
+   "id": "VN-H100-A49",
+   "no": 49,
+   "noLabel": {
+    "vi": "1. Hiển thị cho khách hàng những thông tin sau:"
+   },
+   "text": {
+    "vi": "1. Hiển thị cho khách hàng những thông tin sau:\na) Tên hàng hóa hoặc dịch vụ, số lượng và chủng loại;\nb) Phương thức và thời hạn giao hàng hoặc cung ứng dịch vụ;\nc) Tổng giá trị của hợp đồng và các chi tiết liên q uan đến phương thức thanh\ntoán được khách hàng lựa chọn.\nNhững thông tin này phải có khả năng lưu trữ, in ấn  được trên hệ thống thông\ntin của khách hàng và hiển thị được về sau."
+   }
+  },
+  {
+   "id": "VN-H100-A50",
+   "no": 50,
+   "noLabel": {
+    "vi": "2. Hiển thị cho khách hàng những thông tin về cách thức trả lời chấp nhận đề"
+   },
+   "text": {
+    "vi": "2. Hiển thị cho khách hàng những thông tin về cách thức trả lời chấp nhận đề\nnghị giao kết hợp đồng và thời hạn trả lời đề nghị giao kết hợp đồng."
+   }
+  },
+  {
+   "id": "VN-H100-A51",
+   "no": 51,
+   "noLabel": {
+    "vi": "3. Cho phép khách hàng sau khi rà soát những thông tin nói trên được lựa chọn"
+   },
+   "text": {
+    "vi": "3. Cho phép khách hàng sau khi rà soát những thông tin nói trên được lựa chọn\nhủy giao dịch hoặc xác nhận việc đề nghị giao kết hợp đồng.\nĐiều 19. Trả lời đề nghị giao kết hợp đồng"
+   }
+  },
+  {
+   "id": "VN-H100-A52",
+   "no": 52,
+   "noLabel": {
+    "vi": "1. Trả lời chấp nhận hoặc không chấp nhận đề nghị g iao kết hợp đồng phải"
+   },
+   "text": {
+    "vi": "1. Trả lời chấp nhận hoặc không chấp nhận đề nghị g iao kết hợp đồng phải\nđược thực hiện dưới hình thức phù hợp để thông tin có thể lưu trữ, in và hiển thị\nđược tại hệ thống thông tin của khách hàng."
+   }
+  },
+  {
+   "id": "VN-H100-A53",
+   "no": 53,
+   "noLabel": {
+    "vi": "2. Khi trả lời chấp nhận đề nghị giao kết hợp đồng của khách hàng, thương"
+   },
+   "text": {
+    "vi": "2. Khi trả lời chấp nhận đề nghị giao kết hợp đồng của khách hàng, thương\nnhân, tổ chức, cá nhân bán hàng phải cung cấp cho khách hàng những thông tin sau:\na) Danh sách toàn bộ hàng hóa hoặc dịch vụ khách hàng đặt mua, số lượng, giá\ncủa từng sản phẩm và tổng giá trị hợp đồng;\nb) Thời hạn giao hàng hoặc cung ứng dịch vụ;\n12 CÔNG BÁO/Số 289 + 290/Ngày 29-05-2013\n\nc) Thông tin liên hệ để khách hàng có thể hỏi về tì nh trạng thực hiện hợp đồng\nkhi cần thiết.\nĐiều 20. Chấm dứt đề nghị giao kết hợp đồng"
+   }
+  },
+  {
+   "id": "VN-H100-A54",
+   "no": 54,
+   "noLabel": {
+    "vi": "1. Trường hợp thương nhân, tổ chức, cá nhân bán hàng có công bố thời hạn trả"
+   },
+   "text": {
+    "vi": "1. Trường hợp thương nhân, tổ chức, cá nhân bán hàng có công bố thời hạn trả\nlời đề nghị giao kết hợp đồng, nếu hết thời hạn này  mà khách hàng vẫn không\nđược trả lời thì đề nghị giao kết hợp đồng của khác h hàng chấm dứt hiệu lực. Việc\ntrả lời chấp nhận sau thời hạn này được coi là một đề nghị giao kết hợp đồng khác\ntừ phía thương nhân, tổ chức, cá nhân bán hàng."
+   }
+  },
+  {
+   "id": "VN-H100-A55",
+   "no": 55,
+   "noLabel": {
+    "vi": "2. Trường hợp thương nhân, tổ chức, cá nhân bán hàn g không công bố rõ thời"
+   },
+   "text": {
+    "vi": "2. Trường hợp thương nhân, tổ chức, cá nhân bán hàn g không công bố rõ thời\nhạn trả lời đề nghị giao kết hợp đồng, nếu trong vò ng 12 (mười hai) giờ kể từ khi\ngửi đề nghị giao kết hợp đồng, khách hàng không nhậ n được trả lời đề nghị giao\nkết hợp đồng thì đề nghị giao kết hợp đồng của khác h hàng được coi là chấm dứt\nhiệu lực.\nĐiều 21. Thời điểm giao kết hợp đồng khi sử dụng ch ức năng đặt hàng\ntrực tuyến trên website thương mại điện tử\nThời điểm giao kết hợp đồng khi sử dụng chức năng đ ặt hàng trực tuyến trên\nwebsite thương mại điện tử là thời điểm khách hàng nhận được trả lời của thương\nnhân, tổ chức, cá nhân bán hàng chấp nhận đề nghị g iao kết hợp đồng theo quy\nđịnh tại Khoản 2 Điều 19 Nghị định này.\nĐiều 22. Thủ tục chấm dứt hợp đồng đối với hợp đồng  dịch vụ thương\nmại điện tử và các dịch vụ trực tuyến khác"
+   }
+  },
+  {
+   "id": "VN-H100-A56",
+   "no": 56,
+   "noLabel": {
+    "vi": "1. Website cung cấp dịch vụ thương mại điện tử và w ebsite cung cấp các dịch"
+   },
+   "text": {
+    "vi": "1. Website cung cấp dịch vụ thương mại điện tử và w ebsite cung cấp các dịch\nvụ trực tuyến khác phải cung cấp công cụ trực tuyến  để khách hàng có thể gửi\nthông báo chấm dứt hợp đồng khi hết nhu cầu sử dụng  dịch vụ. Công cụ này phải\nđáp ứng các điều kiện sau:\na) Cho phép khách hàng lưu trữ và hiển thị thông bá o chấm dứt hợp đồng\ntrong hệ thống thông tin của mình sau khi gửi đi;\nb) Có cơ chế phản hồi để khách hàng biết thông báo chấm dứt hợp đồng của\nmình đã được gửi."
+   }
+  },
+  {
+   "id": "VN-H100-A57",
+   "no": 57,
+   "noLabel": {
+    "vi": "2. Website cung cấp dịch vụ thương mại điện tử và w ebsite cung cấp các dịch"
+   },
+   "text": {
+    "vi": "2. Website cung cấp dịch vụ thương mại điện tử và w ebsite cung cấp các dịch\nvụ trực tuyến khác phải công bố thông tin minh bạch , đầy đủ về quy trình, thủ tục\nchấm dứt hợp đồng, bao gồm các nội dung sau:\na) Các trường hợp thương nhân, tổ chức, cá nhân cun g cấp dịch vụ chấm dứt\nhợp đồng và cách thức giải quyết hậu quả của việc chấm dứt hợp đồng này;\nb) Thời điểm hợp đồng chấm dứt hiệu lực và cách thứ c thanh toán phí dịch vụ\ntrong trường hợp khách hàng là bên chấm dứt hợp đồng;\nCÔNG BÁO/Số 289 + 290/Ngày 29-05-2013 13\n\nc) Nếu website không công bố rõ thời điểm hợp đồng chấm dứt hiệu lực trong\ntrường hợp khách hàng là bên chấm dứt hợp đồng, thì  thời điểm khách hàng gửi\nthông báo được coi là thời điểm hợp đồng chấm dứt.\nĐiều 23. Giao kết hợp đồng trên website thương mại điện tử mua hàng\nBộ Công Thương quy định cụ thể về quy trình giao kế t hợp đồng trực tuyến\ntrên website thương mại điện tử do thương nhân, tổ chức, cá nhân lập ra để mua\nhàng hóa, dịch vụ.\nChương III\nHOẠT ĐỘNG THƯƠNG MẠI ĐIỆN TỬ\n\nĐiều 24. Chủ thể của hoạt động thương mại điện tử\nCác chủ thể tham gia hoạt động thương mại điện tử bao gồm:"
+   }
+  },
+  {
+   "id": "VN-H100-A58",
+   "no": 58,
+   "noLabel": {
+    "vi": "1. Các thương nhân, tổ chức, cá nhân tự thiết lập w ebsite thương mại điện tử"
+   },
+   "text": {
+    "vi": "1. Các thương nhân, tổ chức, cá nhân tự thiết lập w ebsite thương mại điện tử\nđể phục vụ hoạt động xúc tiến thương mại, bán hàng hóa hoặc cung ứng dịch vụ\ncủa mình (người sở hữu website thương mại điện tử bán hàng)."
+   }
+  },
+  {
+   "id": "VN-H100-A59",
+   "no": 59,
+   "noLabel": {
+    "vi": "2. Các thương nhân, tổ chức thiết lập website thươn g mại điện tử để cung cấp"
+   },
+   "text": {
+    "vi": "2. Các thương nhân, tổ chức thiết lập website thươn g mại điện tử để cung cấp\nmôi trường cho thương nhân, tổ chức, cá nhân khác t iến hành hoạt động xúc tiến\nthương mại, bán hàng hóa hoặc cung ứng dịch vụ (thư ơng nhân, tổ chức cung cấp\ndịch vụ thương mại điện tử)."
+   }
+  },
+  {
+   "id": "VN-H100-A60",
+   "no": 60,
+   "noLabel": {
+    "vi": "3. Các thương nhân, tổ chức, cá nhân sử dụng websit e của thương nhân, tổ"
+   },
+   "text": {
+    "vi": "3. Các thương nhân, tổ chức, cá nhân sử dụng websit e của thương nhân, tổ\nchức cung cấp dịch vụ thương mại điện tử để phục vụ  hoạt động xúc tiến thương\nmại, bán hàng hóa hoặc cung ứng dịch vụ của mình (người bán)."
+   }
+  },
+  {
+   "id": "VN-H100-A61",
+   "no": 61,
+   "noLabel": {
+    "vi": "4. Các thương nhân, tổ chức, cá nhân mua hàng hóa h oặc dịch vụ trên website"
+   },
+   "text": {
+    "vi": "4. Các thương nhân, tổ chức, cá nhân mua hàng hóa h oặc dịch vụ trên website\nthương mại điện tử bán hàng và website cung cấp dịc h vụ thương mại điện tử\n(khách hàng)."
+   }
+  },
+  {
+   "id": "VN-H100-A62",
+   "no": 62,
+   "noLabel": {
+    "vi": "5. Các thương nhân, tổ chức cung cấp hạ tầng kỹ thu ật cho người sở hữu"
+   },
+   "text": {
+    "vi": "5. Các thương nhân, tổ chức cung cấp hạ tầng kỹ thu ật cho người sở hữu\nwebsite thương mại điện tử bán hàng và cho thương n hân, tổ chức cung cấp dịch\nvụ thương mại điện tử (thương nhân, tổ chức cung cấp hạ tầng)."
+   }
+  },
+  {
+   "id": "VN-H100-A63",
+   "no": 63,
+   "noLabel": {
+    "vi": "6. Các thương nhân, tổ chức, cá nhân sử dụng thiết bị điện tử có nối mạng khác"
+   },
+   "text": {
+    "vi": "6. Các thương nhân, tổ chức, cá nhân sử dụng thiết bị điện tử có nối mạng khác\nđể tiến hành hoạt động thương mại.\nĐiều 25. Các hình thức tổ chức hoạt động thương mại điện tử"
+   }
+  },
+  {
+   "id": "VN-H100-A64",
+   "no": 64,
+   "noLabel": {
+    "vi": "1. Website thương mại điện tử bán hàng là website t hương mại điện tử do các"
+   },
+   "text": {
+    "vi": "1. Website thương mại điện tử bán hàng là website t hương mại điện tử do các\nthương nhân, tổ chức, cá nhân tự thiết lập để phục vụ hoạt động xúc tiến thương\nmại, bán hàng hóa hoặc cung ứng dịch vụ của mình."
+   }
+  },
+  {
+   "id": "VN-H100-A65",
+   "no": 65,
+   "noLabel": {
+    "vi": "2. Website cung cấp dịch vụ thương mại điện tử là w ebsite thương mại điện tử"
+   },
+   "text": {
+    "vi": "2. Website cung cấp dịch vụ thương mại điện tử là w ebsite thương mại điện tử\ndo thương nhân, tổ chức thiết lập để cung cấp môi t rường cho các thương nhân, tổ\n14 CÔNG BÁO/Số 289 + 290/Ngày 29-05-2013\n\nchức, cá nhân khác tiến hành hoạt động thương mại. Website cung cấp dịch vụ\nthương mại điện tử bao gồm các loại sau:\na) Sàn giao dịch thương mại điện tử;\nb) Website đấu giá trực tuyến;\nc) Website khuyến mại trực tuyến;\nd) Các loại website khác do Bộ Công Thương quy định."
+   }
+  },
+  {
+   "id": "VN-H100-A66",
+   "no": 66,
+   "noLabel": {
+    "vi": "3. Với các ứng dụng cài đặt trên thiết bị điện tử c ó nối mạng cho phép người"
+   },
+   "text": {
+    "vi": "3. Với các ứng dụng cài đặt trên thiết bị điện tử c ó nối mạng cho phép người\ndùng truy cập vào cơ sở dữ liệu của thương nhân, tổ  chức, cá nhân khác để mua\nbán hàng hóa, cung ứng hoặc sử dụng dịch vụ, tùy theo tính năng của ứng dụng đó\nmà thương nhân, tổ chức phải tuân thủ các quy định về website thương mại điện tử\nbán hàng hoặc website cung cấp dịch vụ thương mại điện tử tại Nghị định này."
+   }
+  },
+  {
+   "id": "VN-H100-A67",
+   "no": 67,
+   "noLabel": {
+    "vi": "4. Bộ Công Thương quy định cụ thể về các hoạt động thương mại điện tử tiến"
+   },
+   "text": {
+    "vi": "4. Bộ Công Thương quy định cụ thể về các hoạt động thương mại điện tử tiến\nhành trên mạng viễn thông di động.\nĐiều 26. Các nguyên tắc hoạt động thương mại điện tử"
+   }
+  },
+  {
+   "id": "VN-H100-A68",
+   "no": 68,
+   "noLabel": {
+    "vi": "1. Nguyên tắc tự do, tự nguyện thỏa thuận trong giao dịch thương mại điện tử"
+   },
+   "text": {
+    "vi": "1. Nguyên tắc tự do, tự nguyện thỏa thuận trong giao dịch thương mại điện tử\nCác chủ thể tham gia hoạt động thương mại điện tử c ó quyền tự do thỏa thuận\nkhông trái với quy định của pháp luật để xác lập qu yền và nghĩa vụ của từng bên\ntrong giao dịch. Thỏa thuận này là căn cứ để giải q uyết các tranh chấp phát sinh\ntrong quá trình giao dịch."
+   }
+  },
+  {
+   "id": "VN-H100-A69",
+   "no": 69,
+   "noLabel": {
+    "vi": "2. Nguyên tắc xác định phạm vi hoạt động kinh doanh trong thương mại điện tử"
+   },
+   "text": {
+    "vi": "2. Nguyên tắc xác định phạm vi hoạt động kinh doanh trong thương mại điện tử\nNếu thương nhân, tổ chức, cá nhân tiến hành hoạt độ ng bán hàng hóa, cung\nứng dịch vụ và xúc tiến thương mại trên website thư ơng mại điện tử không nêu cụ\nthể giới hạn địa lý của những hoạt động này, thì các hoạt động kinh doanh đó được\ncoi là tiến hành trên phạm vi cả nước."
+   }
+  },
+  {
+   "id": "VN-H100-A70",
+   "no": 70,
+   "noLabel": {
+    "vi": "3. Nguyên tắc xác định nghĩa vụ về bảo vệ quyền lợi  người tiêu dùng trong"
+   },
+   "text": {
+    "vi": "3. Nguyên tắc xác định nghĩa vụ về bảo vệ quyền lợi  người tiêu dùng trong\nhoạt động thương mại điện tử\na) Người sở hữu website thương mại điện tử bán hàng  và người bán trên\nwebsite cung cấp dịch vụ thương mại điện tử phải tu ân thủ các quy định của Luật\nBảo vệ quyền lợi người tiêu dùng khi cung cấp hàng hóa, dịch vụ cho khách hàng;\nb) Khách hàng trên website cung cấp dịch vụ thương mại điện tử là người tiêu\ndùng dịch vụ thương mại điện tử và là người tiêu dùng hàng hóa, dịch vụ do người\nbán trên website này cung cấp;\nc) Trường hợp người bán trực tiếp đăng thông tin về hàng hóa, dịch vụ của mình\ntrên website thương mại điện tử thì thương nhân, tổ chức cung cấp dịch vụ thương mại\nđiện tử và thương nhân, tổ chức cung cấp hạ tầng không phải là bên thứ ba cung cấp\nthông tin theo quy định của Luật Bảo vệ quyền lợi người tiêu dùng.\nCÔNG BÁO/Số 289 + 290/Ngày 29-05-2013 15"
+   }
+  },
+  {
+   "id": "VN-H100-A71",
+   "no": 71,
+   "noLabel": {
+    "vi": "4. Nguyên tắc kinh doanh các hàng hóa, dịch vụ hạn chế kinh doanh hoặc hàng"
+   },
+   "text": {
+    "vi": "4. Nguyên tắc kinh doanh các hàng hóa, dịch vụ hạn chế kinh doanh hoặc hàng\nhóa, dịch vụ kinh doanh có điều kiện thông qua thương mại điện tử\nCác chủ thể ứng dụng thương mại điện tử để kinh doanh hàng hóa, dịch vụ hạn\nchế kinh doanh hoặc hàng hóa, dịch vụ kinh doanh có  điều kiện phải tuân thủ các\nquy định pháp luật liên quan đến việc kinh doanh hàng hóa, dịch vụ đó.\n\nMục 1\nHOẠT ĐỘNG CỦA WEBSITE THƯƠNG MẠI ĐIỆN TỬ BÁN HÀNG\n\nĐiều 27. Trách nhiệm của thương nhân, tổ chức, cá n hân sở hữu website\nthương mại điện tử bán hàng"
+   }
+  },
+  {
+   "id": "VN-H100-A72",
+   "no": 72,
+   "noLabel": {
+    "vi": "1. Thông báo với Bộ Công Thương về việc thiết lập w ebsite thương mại điện"
+   },
+   "text": {
+    "vi": "1. Thông báo với Bộ Công Thương về việc thiết lập w ebsite thương mại điện\ntử bán hàng theo quy định tại Mục 1 Chương IV Nghị định này."
+   }
+  },
+  {
+   "id": "VN-H100-A73",
+   "no": 73,
+   "noLabel": {
+    "vi": "2. Thực hiện đầy đủ việc cung cấp thông tin trên we bsite theo các quy định tại"
+   },
+   "text": {
+    "vi": "2. Thực hiện đầy đủ việc cung cấp thông tin trên we bsite theo các quy định tại\nMục này và chịu trách nhiệm về tính chính xác, đầy đủ của thông tin."
+   }
+  },
+  {
+   "id": "VN-H100-A74",
+   "no": 74,
+   "noLabel": {
+    "vi": "3. Tuân thủ các quy định về bảo vệ thông tin cá nhân của khách hàng quy định"
+   },
+   "text": {
+    "vi": "3. Tuân thủ các quy định về bảo vệ thông tin cá nhân của khách hàng quy định\ntại Mục 1 Chương V Nghị định này."
+   }
+  },
+  {
+   "id": "VN-H100-A75",
+   "no": 75,
+   "noLabel": {
+    "vi": "4. Thực hiện các quy định tại Mục 2 Chương II Nghị định này nếu website có"
+   },
+   "text": {
+    "vi": "4. Thực hiện các quy định tại Mục 2 Chương II Nghị định này nếu website có\nchức năng đặt hàng trực tuyến."
+   }
+  },
+  {
+   "id": "VN-H100-A76",
+   "no": 76,
+   "noLabel": {
+    "vi": "5. Thực hiện các quy định tại Mục 2 Chương V Nghị đ ịnh này nếu website có"
+   },
+   "text": {
+    "vi": "5. Thực hiện các quy định tại Mục 2 Chương V Nghị đ ịnh này nếu website có\nchức năng thanh toán trực tuyến."
+   }
+  },
+  {
+   "id": "VN-H100-A77",
+   "no": 77,
+   "noLabel": {
+    "vi": "6. Cung cấp thông tin về tình hình kinh doanh của m ình khi có yêu cầu của cơ"
+   },
+   "text": {
+    "vi": "6. Cung cấp thông tin về tình hình kinh doanh của m ình khi có yêu cầu của cơ\nquan nhà nước có thẩm quyền để phục vụ hoạt động th ống kê thương mại điện tử,\nhoạt động thanh tra, kiểm tra và xử lý vi phạm trong thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A78",
+   "no": 78,
+   "noLabel": {
+    "vi": "7. Thực hiện đầy đủ nghĩa vụ thuế theo quy định của pháp luật."
+   },
+   "text": {
+    "vi": "7. Thực hiện đầy đủ nghĩa vụ thuế theo quy định của pháp luật.\nĐiều 28. Cung cấp thông tin trên website thương mại điện tử bán hàng"
+   }
+  },
+  {
+   "id": "VN-H100-A79",
+   "no": 79,
+   "noLabel": {
+    "vi": "1. Website thương mại điện tử bán hàng phải cung cấ p đầy đủ thông tin về"
+   },
+   "text": {
+    "vi": "1. Website thương mại điện tử bán hàng phải cung cấ p đầy đủ thông tin về\nngười sở hữu website, hàng hóa, dịch vụ và các điều  khoản của hợp đồng mua bán\náp dụng cho hàng hóa, dịch vụ được giới thiệu trên website theo quy định từ Điều 29\nđến Điều 34 Nghị định này."
+   }
+  },
+  {
+   "id": "VN-H100-A80",
+   "no": 80,
+   "noLabel": {
+    "vi": "2. Những thông tin này phải bảo đảm các yêu cầu sau:"
+   },
+   "text": {
+    "vi": "2. Những thông tin này phải bảo đảm các yêu cầu sau:\na) Rõ ràng, chính xác, dễ tìm và dễ hiểu;\nb) Được sắp xếp tại các mục tương ứng trên website và có thể truy cập bằng\nphương pháp trực tuyến;\nc) Có khả năng lưu trữ, in và hiển thị được về sau;\nd) Được hiển thị rõ đối với khách hàng trước thời điểm khách hàng gửi đề nghị\ngiao kết hợp đồng.\n16 CÔNG BÁO/Số 289 + 290/Ngày 29-05-2013\n\nĐiều 29. Thông tin về người sở hữu website\nThương nhân, tổ chức, cá nhân sở hữu website thương  mại điện tử bán hàng\nphải công bố những thông tin tối thiểu sau trên trang chủ website:"
+   }
+  },
+  {
+   "id": "VN-H100-A81",
+   "no": 81,
+   "noLabel": {
+    "vi": "1. Tên và địa chỉ trụ sở của thương nhân, tổ chức h oặc tên và địa chỉ thường"
+   },
+   "text": {
+    "vi": "1. Tên và địa chỉ trụ sở của thương nhân, tổ chức h oặc tên và địa chỉ thường\ntrú của cá nhân."
+   }
+  },
+  {
+   "id": "VN-H100-A82",
+   "no": 82,
+   "noLabel": {
+    "vi": "2. Số, ngày cấp và nơi cấp giấy chứng nhận đăng ký kinh doanh của thương"
+   },
+   "text": {
+    "vi": "2. Số, ngày cấp và nơi cấp giấy chứng nhận đăng ký kinh doanh của thương\nnhân, hoặc số, ngày cấp và đơn vị cấp quyết định th ành lập của tổ chức, hoặc mã\nsố thuế cá nhân của cá nhân."
+   }
+  },
+  {
+   "id": "VN-H100-A83",
+   "no": 83,
+   "noLabel": {
+    "vi": "3. Số điện thoại hoặc một phương thức liên hệ trực tuyến khác."
+   },
+   "text": {
+    "vi": "3. Số điện thoại hoặc một phương thức liên hệ trực tuyến khác.\nĐiều 30. Thông tin về hàng hóa, dịch vụ\nĐối với hàng hóa, dịch vụ được giới thiệu trên website thương mại điện tử bán\nhàng, thương nhân, tổ chức, cá nhân phải cung cấp n hững thông tin để khách hàng\ncó thể xác định chính xác các đặc tính của hàng hóa , dịch vụ nhằm tránh sự hiểu\nnhầm khi quyết định việc đề nghị giao kết hợp đồng.\nĐiều 31. Thông tin về giá cả"
+   }
+  },
+  {
+   "id": "VN-H100-A84",
+   "no": 84,
+   "noLabel": {
+    "vi": "1. Thông tin về giá hàng hóa hoặc dịch vụ, nếu có, phải thể hiện rõ giá đó đã"
+   },
+   "text": {
+    "vi": "1. Thông tin về giá hàng hóa hoặc dịch vụ, nếu có, phải thể hiện rõ giá đó đã\nbao gồm hay chưa bao gồm những chi phí liên quan đế n việc mua hàng hóa hoặc\ndịch vụ như thuế, phí đóng gói, phí vận chuyển và các chi phí phát sinh khác."
+   }
+  },
+  {
+   "id": "VN-H100-A85",
+   "no": 85,
+   "noLabel": {
+    "vi": "2. Trừ trường hợp các bên có thỏa thuận khác, nếu thông tin giá hàng hóa hoặc"
+   },
+   "text": {
+    "vi": "2. Trừ trường hợp các bên có thỏa thuận khác, nếu thông tin giá hàng hóa hoặc\ndịch vụ niêm yết trên website không thể hiện rõ giá  đó đã bao gồm hay chưa bao\ngồm những chi phí liên quan đến việc mua hàng hóa h oặc dịch vụ như thuế, phí\nđóng gói, phí vận chuyển và các chi phí phát sinh k hác thì giá này được hiểu là đã\nbao gồm mọi chi phí liên quan nói trên.\n3. Đối với dịch vụ trên các website cung cấp dịch v ụ thương mại điện tử quy\nđịnh tại Mục 2 và 4 Chương này, website phải công b ố thông tin chi tiết về cách\nthức tính phí dịch vụ và cơ chế thanh toán.\nĐiều 32. Thông tin về điều kiện giao dịch chung"
+   }
+  },
+  {
+   "id": "VN-H100-A86",
+   "no": 86,
+   "noLabel": {
+    "vi": "1. Thương nhân, tổ chức, cá nhân phải công bố những  điều kiện giao dịch"
+   },
+   "text": {
+    "vi": "1. Thương nhân, tổ chức, cá nhân phải công bố những  điều kiện giao dịch\nchung đối với hàng hóa hoặc dịch vụ giới thiệu trên website, bao gồm:\na) Các điều kiện hoặc hạn chế trong việc cung cấp h àng hóa hoặc dịch vụ, như\ngiới hạn về thời gian hay phạm vi địa lý, nếu có;\nb) Chính sách hoàn trả, bao gồm thời hạn hoàn trả, phương thức trả hoặc đổi\nhàng đã mua, cách thức lấy lại tiền, chi phí cho việc hoàn trả này;\nc) Chính sách bảo hành sản phẩm, nếu có;\nd) Các tiêu chuẩn dịch vụ, quy trình cung cấp dịch vụ, biểu phí và các điều\nkhoản khác liên quan đến việc cung cấp dịch vụ, bao  gồm cả những điều kiện và\nhạn chế nếu có;\nCÔNG BÁO/Số 289 + 290/Ngày 29-05-2013 17\n\nđ) Nghĩa vụ của người bán và nghĩa vụ của khách hàng trong mỗi giao dịch."
+   }
+  },
+  {
+   "id": "VN-H100-A87",
+   "no": 87,
+   "noLabel": {
+    "vi": "2. Các điều kiện giao dịch chung phải có màu chữ tương phản với màu nền của"
+   },
+   "text": {
+    "vi": "2. Các điều kiện giao dịch chung phải có màu chữ tương phản với màu nền của\nphần website đăng các điều kiện giao dịch chung đó và ngôn ngữ thể hiện điều\nkiện giao dịch chung phải bao gồm tiếng Việt."
+   }
+  },
+  {
+   "id": "VN-H100-A88",
+   "no": 88,
+   "noLabel": {
+    "vi": "3. Trong trường hợp website có chức năng đặt hàng trực tuyến, người bán phải"
+   },
+   "text": {
+    "vi": "3. Trong trường hợp website có chức năng đặt hàng trực tuyến, người bán phải\ncó cơ chế để khách hàng đọc và bày tỏ sự đồng ý riê ng với các điều kiện giao dịch\nchung trước khi gửi đề nghị giao kết hợp đồng.\nĐiều 33. Thông tin về vận chuyển và giao nhận"
+   }
+  },
+  {
+   "id": "VN-H100-A89",
+   "no": 89,
+   "noLabel": {
+    "vi": "1. Thương nhân, tổ chức, cá nhân phải công bố những  thông tin sau về điều"
+   },
+   "text": {
+    "vi": "1. Thương nhân, tổ chức, cá nhân phải công bố những  thông tin sau về điều\nkiện vận chuyển và giao nhận áp dụng cho hàng hóa h oặc dịch vụ giới thiệu trên\nwebsite:\na) Các phương thức giao hàng hoặc cung ứng dịch vụ;\nb) Thời hạn ước tính cho việc giao hàng hoặc cung ứ ng dịch vụ, có tính đến\nyếu tố khoảng cách địa lý và phương thức giao hàng;\nc) Các giới hạn về mặt địa lý cho việc giao hàng hoặc cung ứng dịch vụ, nếu có."
+   }
+  },
+  {
+   "id": "VN-H100-A90",
+   "no": 90,
+   "noLabel": {
+    "vi": "2. Trường hợp phát sinh chậm trễ trong việc giao hàng hoặc cung ứng dịch vụ,"
+   },
+   "text": {
+    "vi": "2. Trường hợp phát sinh chậm trễ trong việc giao hàng hoặc cung ứng dịch vụ,\nthương nhân, tổ chức, cá nhân phải có thông tin kịp  thời cho khách hàng và tạo cơ\nhội để khách hàng có thể hủy hợp đồng nếu muốn.\nĐiều 34. Thông tin về các phương thức thanh toán"
+   }
+  },
+  {
+   "id": "VN-H100-A91",
+   "no": 91,
+   "noLabel": {
+    "vi": "1. Thương nhân, tổ chức, cá nhân phải công bố toàn bộ các phương thức thanh"
+   },
+   "text": {
+    "vi": "1. Thương nhân, tổ chức, cá nhân phải công bố toàn bộ các phương thức thanh\ntoán áp dụng cho hàng hóa hoặc dịch vụ giới thiệu t rên website, kèm theo giải\nthích rõ ràng, chính xác để khách hàng có thể hiểu và lựa chọn phương thức thanh\ntoán phù hợp."
+   }
+  },
+  {
+   "id": "VN-H100-A92",
+   "no": 92,
+   "noLabel": {
+    "vi": "2. Nếu website thương mại điện tử có chức năng thanh toán trực tuyến, thương"
+   },
+   "text": {
+    "vi": "2. Nếu website thương mại điện tử có chức năng thanh toán trực tuyến, thương\nnhân, tổ chức, cá nhân phải thiết lập cơ chế để khá ch hàng sử dụng chức năng này\nđược rà soát và xác nhận thông tin chi tiết về từng  giao dịch thanh toán trước khi\nthực hiện việc thanh toán.\n\nMục 2\nHOẠT ĐỘNG CỦA SÀN GIAO DỊCH THƯƠNG MẠI ĐIỆN TỬ\n\nĐiều 35. Cung cấp dịch vụ sàn giao dịch thương mại điện tử"
+   }
+  },
+  {
+   "id": "VN-H100-A93",
+   "no": 93,
+   "noLabel": {
+    "vi": "1. Thương nhân, tổ chức cung cấp dịch vụ sàn giao d ịch thương mại điện tử là"
+   },
+   "text": {
+    "vi": "1. Thương nhân, tổ chức cung cấp dịch vụ sàn giao d ịch thương mại điện tử là\nthương nhân, tổ chức thiết lập website thương mại đ iện tử để các thương nhân, tổ\nchức, cá nhân khác có thể tiến hành một phần hoặc toàn bộ quy trình mua bán hàng\nhóa, dịch vụ trên đó.\n18 CÔNG BÁO/Số 289 + 290/Ngày 29-05-2013"
+   }
+  },
+  {
+   "id": "VN-H100-A94",
+   "no": 94,
+   "noLabel": {
+    "vi": "2. Các hình thức hoạt động của sàn giao dịch thương mại điện tử:"
+   },
+   "text": {
+    "vi": "2. Các hình thức hoạt động của sàn giao dịch thương mại điện tử:\na) Website cho phép người tham gia được mở các gian  hàng trên đó để trưng\nbày, giới thiệu hàng hóa hoặc dịch vụ;\nb) Website cho phép người tham gia được lập các web site nhánh để trưng bày,\ngiới thiệu hàng hóa hoặc dịch vụ;\nc) Website có chuyên mục mua bán trên đó cho phép n gười tham gia đăng tin\nmua bán hàng hóa và dịch vụ;\nd) Các loại website khác do Bộ Công Thương quy định."
+   }
+  },
+  {
+   "id": "VN-H100-A95",
+   "no": 95,
+   "noLabel": {
+    "vi": "3. Website hoạt động theo phương thức sở giao dịch hàng hóa:"
+   },
+   "text": {
+    "vi": "3. Website hoạt động theo phương thức sở giao dịch hàng hóa:\na) Thương nhân, tổ chức thiết lập website thương mại điện tử, trên đó cho phép\nngười tham gia tiến hành mua bán hàng hóa theo phươ ng thức của sở giao dịch\nhàng hóa thì phải có giấy phép thành lập sở giao dịch hàng hóa và tuân thủ các quy\nđịnh pháp luật về sở giao dịch hàng hóa;\nb) Bộ Công Thương quy định cụ thể cơ chế giám sát, kết nối thông tin giao\ndịch giữa cơ quan quản lý nhà nước với sở giao dịch hàng hóa và các yêu cầu khác\nvề hoạt động của website hoạt động theo phương thức sở giao dịch hàng hóa.\nĐiều 36. Trách nhiệm của thương nhân, tổ chức cung cấp dịch vụ sàn giao\ndịch thương mại điện tử\n1. Đăng ký thiết lập website cung cấp dịch vụ sàn giao dịch thương mại điện tử\ntheo quy định tại Mục 2 Chương IV Nghị định này và công bố các thông tin đã\nđăng ký trên trang chủ website."
+   }
+  },
+  {
+   "id": "VN-H100-A96",
+   "no": 96,
+   "noLabel": {
+    "vi": "2. Xây dựng và công bố công khai trên website quy chế hoạt động của sàn giao"
+   },
+   "text": {
+    "vi": "2. Xây dựng và công bố công khai trên website quy chế hoạt động của sàn giao\ndịch thương mại điện tử theo quy định tại Điều 38 N ghị định này; theo dõi và bảo\nđảm việc thực hiện quy chế đó trên sàn giao dịch thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A97",
+   "no": 97,
+   "noLabel": {
+    "vi": "3. Yêu cầu thương nhân, tổ chức, cá nhân là người b án trên sàn giao dịch"
+   },
+   "text": {
+    "vi": "3. Yêu cầu thương nhân, tổ chức, cá nhân là người b án trên sàn giao dịch\nthương mại điện tử cung cấp thông tin theo quy định tại Điều 29 Nghị định này khi\nđăng ký sử dụng dịch vụ."
+   }
+  },
+  {
+   "id": "VN-H100-A98",
+   "no": 98,
+   "noLabel": {
+    "vi": "4. Có cơ chế kiểm tra, giám sát để đảm bảo việc cun g cấp thông tin của người"
+   },
+   "text": {
+    "vi": "4. Có cơ chế kiểm tra, giám sát để đảm bảo việc cun g cấp thông tin của người\nbán trên sàn giao dịch thương mại điện tử được thực hiện chính xác, đầy đủ."
+   }
+  },
+  {
+   "id": "VN-H100-A99",
+   "no": 99,
+   "noLabel": {
+    "vi": "5. Lưu trữ thông tin đăng ký của các thương nhân, t ổ chức, cá nhân tham gia"
+   },
+   "text": {
+    "vi": "5. Lưu trữ thông tin đăng ký của các thương nhân, t ổ chức, cá nhân tham gia\nsàn giao dịch thương mại điện tử và thường xuyên cậ p nhật những thông tin thay\nđổi, bổ sung có liên quan."
+   }
+  },
+  {
+   "id": "VN-H100-A100",
+   "no": 100,
+   "noLabel": {
+    "vi": "6. Thiết lập cơ chế cho phép thương nhân, tổ chức, cá nhân tham gia sàn giao"
+   },
+   "text": {
+    "vi": "6. Thiết lập cơ chế cho phép thương nhân, tổ chức, cá nhân tham gia sàn giao\ndịch thương mại điện tử thực hiện được quy trình gi ao kết hợp đồng theo quy định\ntại Mục 2 Chương II Nghị định này nếu website có chức năng đặt hàng trực tuyến.\nCÔNG BÁO/Số 289 + 290/Ngày 29-05-2013 19\n\n7. Áp dụng các biện pháp cần thiết để đảm bảo an to àn thông tin liên quan đến\nbí mật kinh doanh của thương nhân, tổ chức, cá nhân  và thông tin cá nhân của\nngười tiêu dùng."
+   }
+  },
+  {
+   "id": "VN-H100-A101",
+   "no": 101,
+   "noLabel": {
+    "vi": "8. Có biện pháp xử lý kịp thời khi phát hiện hoặc n hận được phản ánh về hành"
+   },
+   "text": {
+    "vi": "8. Có biện pháp xử lý kịp thời khi phát hiện hoặc n hận được phản ánh về hành\nvi kinh doanh vi phạm pháp luật trên sàn giao dịch thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A102",
+   "no": 102,
+   "noLabel": {
+    "vi": "9. Hỗ trợ cơ quan quản lý nhà nước điều tra các hàn h vi kinh doanh vi phạm"
+   },
+   "text": {
+    "vi": "9. Hỗ trợ cơ quan quản lý nhà nước điều tra các hàn h vi kinh doanh vi phạm\npháp luật, cung cấp thông tin đăng ký, lịch sử giao  dịch và các tài liệu khác về đối\ntượng có hành vi vi phạm pháp luật trên sàn giao dịch thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A103",
+   "no": 103,
+   "noLabel": {
+    "vi": "10. Công bố công khai cơ chế giải quyết các tranh c hấp phát sinh trong quá"
+   },
+   "text": {
+    "vi": "10. Công bố công khai cơ chế giải quyết các tranh c hấp phát sinh trong quá\ntrình giao dịch trên sàn giao dịch thương mại điện tử. Khi khách hàng trên sàn giao\ndịch thương mại điện tử phát sinh mâu thuẫn với ngư ời bán hoặc bị tổn hại lợi ích\nhợp pháp, phải cung cấp cho khách hàng thông tin về  người bán, tích cực hỗ trợ\nkhách hàng bảo vệ quyền và lợi ích hợp pháp của mình.\nĐiều 37. Trách nhiệm của người bán trên sàn giao dịch thương mại điện tử"
+   }
+  },
+  {
+   "id": "VN-H100-A104",
+   "no": 104,
+   "noLabel": {
+    "vi": "1. Cung cấp đầy đủ và chính xác các thông tin quy đ ịnh tại Điều 29 Nghị định"
+   },
+   "text": {
+    "vi": "1. Cung cấp đầy đủ và chính xác các thông tin quy đ ịnh tại Điều 29 Nghị định\nnày cho thương nhân, tổ chức cung cấp dịch vụ sàn g iao dịch thương mại điện tử\nkhi đăng ký sử dụng dịch vụ."
+   }
+  },
+  {
+   "id": "VN-H100-A105",
+   "no": 105,
+   "noLabel": {
+    "vi": "2. Cung cấp đầy đủ thông tin về hàng hóa, dịch vụ t heo quy định từ Điều 30"
+   },
+   "text": {
+    "vi": "2. Cung cấp đầy đủ thông tin về hàng hóa, dịch vụ t heo quy định từ Điều 30\nđến Điều 34 Nghị định này khi bán hàng hóa hoặc cun g ứng dịch vụ trên sàn giao\ndịch thương mại điện tử.\n3. Đảm bảo tính chính xác, trung thực của thông tin  về hàng hóa, dịch vụ cung\ncấp trên sàn giao dịch thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A106",
+   "no": 106,
+   "noLabel": {
+    "vi": "4. Thực hiện các quy định tại Mục 2 Chương II Nghị định này khi ứng dụng"
+   },
+   "text": {
+    "vi": "4. Thực hiện các quy định tại Mục 2 Chương II Nghị định này khi ứng dụng\nchức năng đặt hàng trực tuyến trên sàn giao dịch thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A107",
+   "no": 107,
+   "noLabel": {
+    "vi": "5. Cung cấp thông tin về tình hình kinh doanh của m ình khi có yêu cầu của cơ"
+   },
+   "text": {
+    "vi": "5. Cung cấp thông tin về tình hình kinh doanh của m ình khi có yêu cầu của cơ\nquan nhà nước có thẩm quyền để phục vụ hoạt động thống kê thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A108",
+   "no": 108,
+   "noLabel": {
+    "vi": "6. Tuân thủ quy định của pháp luật về thanh toán, q uảng cáo, khuyến mại, bảo"
+   },
+   "text": {
+    "vi": "6. Tuân thủ quy định của pháp luật về thanh toán, q uảng cáo, khuyến mại, bảo\nvệ quyền sở hữu trí tuệ, bảo vệ quyền lợi người tiêu dùng và các quy định của pháp\nluật có liên quan khác khi bán hàng hóa hoặc cung ứ ng dịch vụ trên sàn giao dịch\nthương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A109",
+   "no": 109,
+   "noLabel": {
+    "vi": "7. Thực hiện đầy đủ nghĩa vụ thuế theo quy định của pháp luật."
+   },
+   "text": {
+    "vi": "7. Thực hiện đầy đủ nghĩa vụ thuế theo quy định của pháp luật.\nĐiều 38. Quy chế hoạt động của sàn giao dịch thương mại điện tử"
+   }
+  },
+  {
+   "id": "VN-H100-A110",
+   "no": 110,
+   "noLabel": {
+    "vi": "1. Quy chế hoạt động của sàn giao dịch thương mại đ iện tử phải được thể hiện"
+   },
+   "text": {
+    "vi": "1. Quy chế hoạt động của sàn giao dịch thương mại đ iện tử phải được thể hiện\ntrên trang chủ của website."
+   }
+  },
+  {
+   "id": "VN-H100-A111",
+   "no": 111,
+   "noLabel": {
+    "vi": "2. Quy chế hoạt động sàn giao dịch thương mại điện tử phải bao gồm các nội"
+   },
+   "text": {
+    "vi": "2. Quy chế hoạt động sàn giao dịch thương mại điện tử phải bao gồm các nội\ndung sau:\n20 CÔNG BÁO/Số 289 + 290/Ngày 29-05-2013\n\na) Quyền và nghĩa vụ của thương nhân, tổ chức cung cấp dịch vụ sàn giao dịch\nthương mại điện tử;\nb) Quyền và nghĩa vụ của người sử dụng dịch vụ sàn giao dịch thương mại\nđiện tử;\nc) Mô tả quy trình giao dịch đối với từng loại giao  dịch có thể tiến hành trên\nsàn giao dịch thương mại điện tử;\nd) Hoạt động rà soát và thẩm quyền xử lý của thương  nhân, tổ chức cung cấp\ndịch vụ sàn giao dịch thương mại điện tử khi phát h iện các hành vi kinh doanh vi\nphạm pháp luật trên sàn giao dịch;\nđ) Quyền và nghĩa vụ của các bên trong các giao dịc h được thực hiện trên sàn\ngiao dịch thương mại điện tử;\ne) Giới hạn trách nhiệm của thương nhân, tổ chức cu ng cấp dịch vụ sàn giao\ndịch thương mại điện tử trong những giao dịch thực hiện trên sàn;\ng) Các quy định về an toàn thông tin, quản lý thông  tin trên sàn giao dịch\nthương mại điện tử;\nh) Cơ chế giải quyết khiếu nại, tranh chấp giữa các bên liên quan đến giao dịch\ntiến hành trên sàn giao dịch thương mại điện tử;\n(i) Chính sách bảo vệ thông tin cá nhân của người sử dụng dịch vụ sàn giao dịch\nthương mại điện tử theo quy định tại Điều 69 Nghị định này;\nk) Biện pháp xử lý với các hành vi xâm phạm quyền l ợi người tiêu dùng trên\nsàn giao dịch thương mại điện tử;\nl) Biện pháp xử lý vi phạm đối với những người khôn g tuân thủ quy chế hoạt\nđộng của sàn giao dịch thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A112",
+   "no": 112,
+   "noLabel": {
+    "vi": "3. Khi có thay đổi về một trong các nội dung nêu tạ i Khoản 2 Điều này,"
+   },
+   "text": {
+    "vi": "3. Khi có thay đổi về một trong các nội dung nêu tạ i Khoản 2 Điều này,\nthương nhân, tổ chức cung cấp dịch vụ sàn giao dịch  thương mại điện tử phải\nthông báo cho tất cả các đối tượng sử dụng dịch vụ sàn giao dịch thương mại điện\ntử ít nhất 5 ngày trước khi áp dụng những thay đổi đó.\n\nMục 3\nHOẠT ĐỘNG CỦA WEBSITE KHUYẾN MẠI TRỰC TUYẾN\n\nĐiều 39. Cung cấp dịch vụ khuyến mại trực tuyến"
+   }
+  },
+  {
+   "id": "VN-H100-A113",
+   "no": 113,
+   "noLabel": {
+    "vi": "1. Thương nhân, tổ chức cung cấp dịch vụ khuyến mại  trực tuyến là thương"
+   },
+   "text": {
+    "vi": "1. Thương nhân, tổ chức cung cấp dịch vụ khuyến mại  trực tuyến là thương\nnhân, tổ chức thiết lập website khuyến mại trực tuyến để thực hiện khuyến mại cho\nhàng hóa, dịch vụ của thương nhân, tổ chức, cá nhân  khác (gọi tắt là đối tác) theo\ncác điều khoản của hợp đồng dịch vụ khuyến mại.\nCÔNG BÁO/Số 289 + 290/Ngày 29-05-2013 21"
+   }
+  },
+  {
+   "id": "VN-H100-A114",
+   "no": 114,
+   "noLabel": {
+    "vi": "2. Các hình thức của dịch vụ khuyến mại trực tuyến:"
+   },
+   "text": {
+    "vi": "2. Các hình thức của dịch vụ khuyến mại trực tuyến:\na) Bán phiếu mua hàng, phiếu sử dụng dịch vụ để khá ch hàng được mua hàng\nhoặc sử dụng dịch vụ của đối tác với giá ưu đãi hoặc hưởng những lợi ích khác;\nb) Bán các thẻ khách hàng thường xuyên cho phép khá ch hàng sử dụng hàng\nhóa, dịch vụ từ một hệ thống các đối tác với giá ưu  đãi hoặc hưởng những lợi ích\nkhác so với khi mua hàng hóa, dịch vụ tại từng đối tác riêng lẻ;\nc) Các hình thức của dịch vụ khuyến mại trực tuyến khác do Bộ Công Thương\nquy định.\nĐiều 40. Thông tin về hoạt động khuyến mại trên website khuyến mại trực tuyến"
+   }
+  },
+  {
+   "id": "VN-H100-A115",
+   "no": 115,
+   "noLabel": {
+    "vi": "1. Thông tin về từng hoạt động khuyến mại đăng tải trên website khuyến mại"
+   },
+   "text": {
+    "vi": "1. Thông tin về từng hoạt động khuyến mại đăng tải trên website khuyến mại\ntrực tuyến phải bao gồm các nội dung sau:\na) Tên, địa chỉ, số điện thoại và các thông tin liê n hệ khác của thương nhân, tổ\nchức, cá nhân có hàng hóa, dịch vụ được khuyến mại;\nb) Mô tả hàng hóa, dịch vụ được khuyến mại và hàng hóa, dịch vụ dùng để\nkhuyến mại, trong đó bao gồm các thông tin về xuất xứ hàng hóa, quy cách, chất\nlượng hàng hóa và dịch vụ;\nc) Thời gian khuyến mại, ngày bắt đầu, ngày kết thú c và địa bàn hoạt động\nkhuyến mại;\nd) Giá bán hàng hóa, giá cung ứng dịch vụ trước thời điểm được khuyến mại;\nđ) Tổng chi phí thực tế khách hàng phải trả để sở h ữu hàng hóa, sử dụng dịch\nvụ được khuyến mại, bao gồm cả chi phí trả cho thươ ng nhân, tổ chức cung cấp\ndịch vụ khuyến mại trực tuyến;\ne) Nội dung cụ thể của các điều kiện gắn với việc khuyến mại hàng hóa, dịch vụ."
+   }
+  },
+  {
+   "id": "VN-H100-A116",
+   "no": 116,
+   "noLabel": {
+    "vi": "2. Nếu website có cơ chế tiếp nhận ý kiến đánh giá hoặc phản hồi trực tuyến của"
+   },
+   "text": {
+    "vi": "2. Nếu website có cơ chế tiếp nhận ý kiến đánh giá hoặc phản hồi trực tuyến của\nkhách hàng về hàng hóa, dịch vụ được khuyến mại, những ý kiến này phải được hiển\nthị công khai trên website để những khách hàng khác xem được.\nĐiều 41. Trách nhiệm của thương nhân, tổ chức cung cấp dịch vụ khuyến\nmại trực tuyến\n1. Đăng ký thiết lập website cung cấp dịch vụ khuyế n mại trực tuyến theo quy\nđịnh tại Mục 2 Chương IV Nghị định này."
+   }
+  },
+  {
+   "id": "VN-H100-A117",
+   "no": 117,
+   "noLabel": {
+    "vi": "2. Tuân thủ các quy định của Luật Thương mại và các  quy định pháp luật có"
+   },
+   "text": {
+    "vi": "2. Tuân thủ các quy định của Luật Thương mại và các  quy định pháp luật có\nliên quan về hoạt động khuyến mại."
+   }
+  },
+  {
+   "id": "VN-H100-A118",
+   "no": 118,
+   "noLabel": {
+    "vi": "3. Tuân thủ các quy định về bảo vệ thông tin cá nhân của khách hàng quy định"
+   },
+   "text": {
+    "vi": "3. Tuân thủ các quy định về bảo vệ thông tin cá nhân của khách hàng quy định\ntại Mục 1 Chương V Nghị định này.\n22 CÔNG BÁO/Số 289 + 290/Ngày 29-05-2013"
+   }
+  },
+  {
+   "id": "VN-H100-A119",
+   "no": 119,
+   "noLabel": {
+    "vi": "4. Thực hiện các quy định tại Mục 2 Chương II Nghị định này nếu website có"
+   },
+   "text": {
+    "vi": "4. Thực hiện các quy định tại Mục 2 Chương II Nghị định này nếu website có\nchức năng đặt hàng trực tuyến cho các phiếu mua hàn g, phiếu sử dụng dịch vụ\nhoặc thẻ khách hàng thường xuyên."
+   }
+  },
+  {
+   "id": "VN-H100-A120",
+   "no": 120,
+   "noLabel": {
+    "vi": "5. Thực hiện các quy định tại Mục 2 Chương V Nghị đ ịnh này nếu website có"
+   },
+   "text": {
+    "vi": "5. Thực hiện các quy định tại Mục 2 Chương V Nghị đ ịnh này nếu website có\nchức năng thanh toán trực tuyến."
+   }
+  },
+  {
+   "id": "VN-H100-A121",
+   "no": 121,
+   "noLabel": {
+    "vi": "6. Công bố đầy đủ các nội dung quy định tại Điều 40 Nghị định này trong từng"
+   },
+   "text": {
+    "vi": "6. Công bố đầy đủ các nội dung quy định tại Điều 40 Nghị định này trong từng\nthông tin khuyến mại đăng tải trên website của mình."
+   }
+  },
+  {
+   "id": "VN-H100-A122",
+   "no": 122,
+   "noLabel": {
+    "vi": "7. Xây dựng và công bố trên website quy chế hoạt độ ng tuân thủ các quy định"
+   },
+   "text": {
+    "vi": "7. Xây dựng và công bố trên website quy chế hoạt độ ng tuân thủ các quy định\ntại Điều 38 Nghị định này."
+   }
+  },
+  {
+   "id": "VN-H100-A123",
+   "no": 123,
+   "noLabel": {
+    "vi": "8. Xây dựng và công bố trên website cơ chế tiếp nhận, giải quyết các khiếu nại"
+   },
+   "text": {
+    "vi": "8. Xây dựng và công bố trên website cơ chế tiếp nhận, giải quyết các khiếu nại\ncủa khách hàng về chất lượng hàng hóa, dịch vụ được  khuyến mại hoặc hàng hóa,\ndịch vụ dùng để khuyến mại."
+   }
+  },
+  {
+   "id": "VN-H100-A124",
+   "no": 124,
+   "noLabel": {
+    "vi": "9. Chịu trách nhiệm của bên thứ ba trong việc cung cấp thông tin về hàng hóa, dịch"
+   },
+   "text": {
+    "vi": "9. Chịu trách nhiệm của bên thứ ba trong việc cung cấp thông tin về hàng hóa, dịch\nvụ cho người tiêu dùng theo quy định của Luật Bảo vệ quyền lợi người tiêu dùng."
+   }
+  },
+  {
+   "id": "VN-H100-A125",
+   "no": 125,
+   "noLabel": {
+    "vi": "10. Bồi thường cho khách hàng nếu phiếu mua hàng, p hiếu sử dụng dịch vụ"
+   },
+   "text": {
+    "vi": "10. Bồi thường cho khách hàng nếu phiếu mua hàng, p hiếu sử dụng dịch vụ\nhoặc thẻ khách hàng thường xuyên do mình phát hành bị đối tác từ chối trái với\ncác điều kiện đã công bố trên website hoặc trên chí nh phiếu mua hàng, phiếu sử\ndụng dịch vụ, thẻ khách hàng thường xuyên đó.\nĐiều 42. Trách nhiệm của thương nhân, tổ chức, cá nhân có hàng hóa, dịch vụ\nđược khuyến mại"
+   }
+  },
+  {
+   "id": "VN-H100-A126",
+   "no": 126,
+   "noLabel": {
+    "vi": "1. Cung cấp thông tin chính xác, đầy đủ về hàng hóa, dịch vụ được khuyến mại."
+   },
+   "text": {
+    "vi": "1. Cung cấp thông tin chính xác, đầy đủ về hàng hóa, dịch vụ được khuyến mại."
+   }
+  },
+  {
+   "id": "VN-H100-A127",
+   "no": 127,
+   "noLabel": {
+    "vi": "2. Thực hiện đúng các cam kết về chất lượng hàng hó a, dịch vụ được khuyến"
+   },
+   "text": {
+    "vi": "2. Thực hiện đúng các cam kết về chất lượng hàng hó a, dịch vụ được khuyến\nmại theo như thông tin đã cung cấp.\nĐiều 43. Hợp đồng dịch vụ khuyến mại"
+   }
+  },
+  {
+   "id": "VN-H100-A128",
+   "no": 128,
+   "noLabel": {
+    "vi": "1. Hợp đồng dịch vụ khuyến mại giữa thương nhân, tổ  chức cung cấp dịch vụ"
+   },
+   "text": {
+    "vi": "1. Hợp đồng dịch vụ khuyến mại giữa thương nhân, tổ  chức cung cấp dịch vụ\nkhuyến mại trực tuyến với thương nhân, tổ chức, cá nhân có hàng hóa, dịch vụ\nđược khuyến mại thực hiện theo quy định tại Điều 90  Luật Thương mại và phải có\ncác nội dung sau:\na) Phân định trách nhiệm giữa các bên trong việc thực hiện các trình tự, thủ tục\nđể thực hiện hoạt động khuyến mại theo quy định của pháp luật về khuyến mại;\nb) Quy định cụ thể nghĩa vụ giải quyết khiếu nại và bồi thường cho khách hàng\ntrong trường hợp hàng hóa, dịch vụ được khuyến mại hoặc hàng hóa, dịch vụ dùng\nđể khuyến mại không phù hợp với nội dung đã thông báo hay cam kết."
+   }
+  },
+  {
+   "id": "VN-H100-A129",
+   "no": 129,
+   "noLabel": {
+    "vi": "2. Thương nhân, tổ chức cung cấp dịch vụ khuyến mại trực tuyến sẽ chịu trách"
+   },
+   "text": {
+    "vi": "2. Thương nhân, tổ chức cung cấp dịch vụ khuyến mại trực tuyến sẽ chịu trách\nnhiệm thực hiện các nghĩa vụ nêu tại Điểm a và b Khoản 1 Điều này nếu hợp đồng\ndịch vụ khuyến mại không quy định cụ thể những nội dung nêu trên.\nCÔNG BÁO/Số 289 + 290/Ngày 29-05-2013 23\n\nMục 4\nHOẠT ĐỘNG CỦA WEBSITE ĐẤU GIÁ TRỰC TUYẾN\n\nĐiều 44. Cung cấp dịch vụ đấu giá trực tuyến"
+   }
+  },
+  {
+   "id": "VN-H100-A130",
+   "no": 130,
+   "noLabel": {
+    "vi": "1. Thương nhân, tổ chức cung cấp dịch vụ đấu giá tr ực tuyến (dưới đây gọi tắt"
+   },
+   "text": {
+    "vi": "1. Thương nhân, tổ chức cung cấp dịch vụ đấu giá tr ực tuyến (dưới đây gọi tắt\nlà người cung cấp dịch vụ đấu giá trực tuyến) là th ương nhân, tổ chức thiết lập\nwebsite đấu giá trực tuyến để các thương nhân, tổ c hức, cá nhân khác có thể tổ\nchức đấu giá cho hàng hóa của mình trên đó."
+   }
+  },
+  {
+   "id": "VN-H100-A131",
+   "no": 131,
+   "noLabel": {
+    "vi": "2. Thương nhân, tổ chức cung cấp dịch vụ đấu giá tr ực tuyến nếu không đăng"
+   },
+   "text": {
+    "vi": "2. Thương nhân, tổ chức cung cấp dịch vụ đấu giá tr ực tuyến nếu không đăng\nký kinh doanh dịch vụ đấu giá thì không được đứng ra tổ chức đấu giá trực tuyến.\nĐiều 45. Yêu cầu về hệ thống kỹ thuật phục vụ hoạt động đấu giá trực tuyến"
+   }
+  },
+  {
+   "id": "VN-H100-A132",
+   "no": 132,
+   "noLabel": {
+    "vi": "1. Hệ thống kỹ thuật phục vụ hoạt động đấu giá trực  tuyến phải có các chức"
+   },
+   "text": {
+    "vi": "1. Hệ thống kỹ thuật phục vụ hoạt động đấu giá trực  tuyến phải có các chức\nnăng tối thiểu sau:\na) Ghi nhận và lưu trữ mọi mức giá được trả trong một cuộc đấu giá;\nb) Sau thời điểm bắt đầu một cuộc đấu giá, cứ 30 (b a mươi) giây một lần hiển\nthị trên website mức giá cao nhất được ghi nhận và người trả mức giá đó để mọi\nbên tham gia cuộc đấu giá có thể xem được."
+   }
+  },
+  {
+   "id": "VN-H100-A133",
+   "no": 133,
+   "noLabel": {
+    "vi": "2. Trường hợp hệ thống không cho phép người tham gi a đấu giá rút lại giá đã"
+   },
+   "text": {
+    "vi": "2. Trường hợp hệ thống không cho phép người tham gi a đấu giá rút lại giá đã\ntrả, hệ thống phải có thông báo rõ ràng đối với ngư ời tham gia đấu giá về việc này\nngay trước thời điểm đấu giá. Thông báo phải nêu cụ  thể trách nhiệm của người\ntham gia đấu giá trong trường hợp trả giá nhưng không mua hàng.\nĐiều 46. Trách nhiệm của thương nhân, tổ chức cung cấp dịch vụ đấu giá\ntrực tuyến\n1. Đăng ký website đấu giá trực tuyến theo quy định  tại Mục 2 Chương IV\nNghị định này."
+   }
+  },
+  {
+   "id": "VN-H100-A134",
+   "no": 134,
+   "noLabel": {
+    "vi": "2. Thực hiện các trách nhiệm quy định tại Điều 36 Nghị định này."
+   },
+   "text": {
+    "vi": "2. Thực hiện các trách nhiệm quy định tại Điều 36 Nghị định này.\n3. Ấn định phương thức và trình tự đấu giá trực tuyến."
+   }
+  },
+  {
+   "id": "VN-H100-A135",
+   "no": 135,
+   "noLabel": {
+    "vi": "4. Xây dựng hệ thống kỹ thuật phục vụ hoạt động đấu giá trực tuyến để người bán"
+   },
+   "text": {
+    "vi": "4. Xây dựng hệ thống kỹ thuật phục vụ hoạt động đấu giá trực tuyến để người bán\nhàng có thể tổ chức đấu giá theo phương thức và trình tự đã ấn định."
+   }
+  },
+  {
+   "id": "VN-H100-A136",
+   "no": 136,
+   "noLabel": {
+    "vi": "5. Cung cấp công cụ trực tuyến để người bán hàng có thể thông báo, niêm yết công"
+   },
+   "text": {
+    "vi": "5. Cung cấp công cụ trực tuyến để người bán hàng có thể thông báo, niêm yết công\nkhai, đầy đủ, chính xác các thông tin cần thiết có liên quan đến hàng hóa đấu giá."
+   }
+  },
+  {
+   "id": "VN-H100-A137",
+   "no": 137,
+   "noLabel": {
+    "vi": "6. Cung cấp công cụ trực tuyến để người bán hàng có  thể đăng tải hình ảnh về"
+   },
+   "text": {
+    "vi": "6. Cung cấp công cụ trực tuyến để người bán hàng có  thể đăng tải hình ảnh về\nhàng hóa, mẫu hàng hóa hoặc tài liệu giới thiệu về hàng hóa cho người tham gia\nđấu giá xem xét."
+   }
+  },
+  {
+   "id": "VN-H100-A138",
+   "no": 138,
+   "noLabel": {
+    "vi": "7. Cung cấp cho người bán hàng thông tin về diễn bi ến cuộc đấu giá mà người"
+   },
+   "text": {
+    "vi": "7. Cung cấp cho người bán hàng thông tin về diễn bi ến cuộc đấu giá mà người\nbán hàng tổ chức khi có yêu cầu.\n24 CÔNG BÁO/Số 289 + 290/Ngày 29-05-2013"
+   }
+  },
+  {
+   "id": "VN-H100-A139",
+   "no": 139,
+   "noLabel": {
+    "vi": "8. Lập thông báo kết quả đấu giá và gửi đến người b án hàng, người mua hàng"
+   },
+   "text": {
+    "vi": "8. Lập thông báo kết quả đấu giá và gửi đến người b án hàng, người mua hàng\nvà các bên có liên quan theo quy định tại Điều 51 Nghị định này."
+   }
+  },
+  {
+   "id": "VN-H100-A140",
+   "no": 140,
+   "noLabel": {
+    "vi": "9. Chịu trách nhiệm trong trường hợp lỗi của hệ thống kỹ thuật khiến cuộc đấu"
+   },
+   "text": {
+    "vi": "9. Chịu trách nhiệm trong trường hợp lỗi của hệ thống kỹ thuật khiến cuộc đấu\ngiá không thực hiện được:\na) Nếu lỗi của hệ thống kỹ thuật khiến cuộc đấu giá  không bắt đầu được vào\nthời điểm người bán dự định tổ chức đấu giá, người cung cấp dịch vụ đấu giá trực\ntuyến phải hoàn trả cho người bán mọi chi phí liên quan đến việc tổ chức đấu giá\nmà người bán đã thanh toán cho người cung cấp dịch vụ đấu giá trực tuyến;\nb) Nếu lỗi của hệ thống kỹ thuật khiến người tham gia đấu giá không tiếp tục trả\ngiá được sau khi cuộc đấu giá bắt đầu, thì người cung cấp dịch vụ đấu giá trực tuyến\nphải hủy kết quả đấu giá và cho phép người bán tổ chức đấu giá lại, đồng thời chịu\nmọi chi phí liên quan đến việc tổ chức đấu giá lại này.\nĐiều 47. Trách nhiệm của người bán trên website đấu giá trực tuyến"
+   }
+  },
+  {
+   "id": "VN-H100-A141",
+   "no": 141,
+   "noLabel": {
+    "vi": "1. Thông báo, niêm yết công khai, đầy đủ, chính xác  các thông tin cần thiết"
+   },
+   "text": {
+    "vi": "1. Thông báo, niêm yết công khai, đầy đủ, chính xác  các thông tin cần thiết\nliên quan đến hàng hóa được bán đấu giá."
+   }
+  },
+  {
+   "id": "VN-H100-A142",
+   "no": 142,
+   "noLabel": {
+    "vi": "2. Công bố giá khởi điểm; mức giá chấp nhận bán, nếu có."
+   },
+   "text": {
+    "vi": "2. Công bố giá khởi điểm; mức giá chấp nhận bán, nếu có."
+   }
+  },
+  {
+   "id": "VN-H100-A143",
+   "no": 143,
+   "noLabel": {
+    "vi": "3. Chịu trách nhiệm về chất lượng, quy cách của hàng hóa được bán đấu giá."
+   },
+   "text": {
+    "vi": "3. Chịu trách nhiệm về chất lượng, quy cách của hàng hóa được bán đấu giá."
+   }
+  },
+  {
+   "id": "VN-H100-A144",
+   "no": 144,
+   "noLabel": {
+    "vi": "4. Giải quyết các khiếu nại của người mua về hàng hóa được bán đấu giá."
+   },
+   "text": {
+    "vi": "4. Giải quyết các khiếu nại của người mua về hàng hóa được bán đấu giá."
+   }
+  },
+  {
+   "id": "VN-H100-A145",
+   "no": 145,
+   "noLabel": {
+    "vi": "5. Không bán hàng hóa là đối tượng cầm cố, thế chấp hoặc đang có tranh chấp."
+   },
+   "text": {
+    "vi": "5. Không bán hàng hóa là đối tượng cầm cố, thế chấp hoặc đang có tranh chấp."
+   }
+  },
+  {
+   "id": "VN-H100-A146",
+   "no": 146,
+   "noLabel": {
+    "vi": "6. Thực hiện các trách nhiệm khác theo quy định tại Điều 37 Nghị định này."
+   },
+   "text": {
+    "vi": "6. Thực hiện các trách nhiệm khác theo quy định tại Điều 37 Nghị định này.\nĐiều 48. Địa điểm và thời gian đấu giá\n1. Địa điểm đấu giá là nơi đăng ký thường trú hoặc trụ sở của người bán hàng."
+   }
+  },
+  {
+   "id": "VN-H100-A147",
+   "no": 147,
+   "noLabel": {
+    "vi": "2. Thời gian đấu giá do người bán quyết định."
+   },
+   "text": {
+    "vi": "2. Thời gian đấu giá do người bán quyết định."
+   }
+  },
+  {
+   "id": "VN-H100-A148",
+   "no": 148,
+   "noLabel": {
+    "vi": "3. Thời điểm trả giá của người tham gia đấu giá là thời điểm gửi chứng từ điện"
+   },
+   "text": {
+    "vi": "3. Thời điểm trả giá của người tham gia đấu giá là thời điểm gửi chứng từ điện\ntử thông báo việc trả một mức giá nhất định trong một cuộc đấu giá."
+   }
+  },
+  {
+   "id": "VN-H100-A149",
+   "no": 149,
+   "noLabel": {
+    "vi": "4. Thời điểm ghi nhận một mức giá đã trả là thời đi ểm hệ thống thông tin của"
+   },
+   "text": {
+    "vi": "4. Thời điểm ghi nhận một mức giá đã trả là thời đi ểm hệ thống thông tin của\nthương nhân, tổ chức cung cấp dịch vụ đấu giá trực tuyến nhận được chứng từ điện\ntử thông báo việc trả giá của người tham gia đấu giá.\nĐiều 49. Thông báo đấu giá hàng hóa\nThông báo đấu giá hàng hóa được thực hiện tại websi te đấu giá trực tuyến và\nphải bao gồm các nội dung sau:"
+   }
+  },
+  {
+   "id": "VN-H100-A150",
+   "no": 150,
+   "noLabel": {
+    "vi": "1. Thời gian bắt đầu tiến hành đấu giá."
+   },
+   "text": {
+    "vi": "1. Thời gian bắt đầu tiến hành đấu giá."
+   }
+  },
+  {
+   "id": "VN-H100-A151",
+   "no": 151,
+   "noLabel": {
+    "vi": "2. Thời gian kết thúc đấu giá."
+   },
+   "text": {
+    "vi": "2. Thời gian kết thúc đấu giá."
+   }
+  },
+  {
+   "id": "VN-H100-A152",
+   "no": 152,
+   "noLabel": {
+    "vi": "3. Thông tin liên hệ của người bán."
+   },
+   "text": {
+    "vi": "3. Thông tin liên hệ của người bán.\nCÔNG BÁO/Số 289 + 290/Ngày 29-05-2013 25"
+   }
+  },
+  {
+   "id": "VN-H100-A153",
+   "no": 153,
+   "noLabel": {
+    "vi": "4. Thông tin cần thiết liên quan đến hàng hóa."
+   },
+   "text": {
+    "vi": "4. Thông tin cần thiết liên quan đến hàng hóa."
+   }
+  },
+  {
+   "id": "VN-H100-A154",
+   "no": 154,
+   "noLabel": {
+    "vi": "5. Giá khởi điểm."
+   },
+   "text": {
+    "vi": "5. Giá khởi điểm."
+   }
+  },
+  {
+   "id": "VN-H100-A155",
+   "no": 155,
+   "noLabel": {
+    "vi": "6. Mức giá chấp nhận bán, nếu có."
+   },
+   "text": {
+    "vi": "6. Mức giá chấp nhận bán, nếu có."
+   }
+  },
+  {
+   "id": "VN-H100-A156",
+   "no": 156,
+   "noLabel": {
+    "vi": "7. Thời hạn và phương thức thanh toán."
+   },
+   "text": {
+    "vi": "7. Thời hạn và phương thức thanh toán."
+   }
+  },
+  {
+   "id": "VN-H100-A157",
+   "no": 157,
+   "noLabel": {
+    "vi": "8. Thời hạn và phương thức giao hàng cho người mua sau khi đấu giá kết thúc."
+   },
+   "text": {
+    "vi": "8. Thời hạn và phương thức giao hàng cho người mua sau khi đấu giá kết thúc."
+   }
+  },
+  {
+   "id": "VN-H100-A158",
+   "no": 158,
+   "noLabel": {
+    "vi": "9. Trường hợp đối tượng đấu giá là hàng hóa phải đăng ký sở hữu theo quy định"
+   },
+   "text": {
+    "vi": "9. Trường hợp đối tượng đấu giá là hàng hóa phải đăng ký sở hữu theo quy định\ncủa pháp luật, thông báo đấu giá hàng hóa phải bao gồm thêm các nội dung sau:\na) Thời gian và địa điểm trưng bày hàng hóa;\nb) Thời gian và địa điểm tham khảo hồ sơ hàng hóa;\nc) Thời gian và địa điểm đăng ký mua hàng hóa;\nd) Thời gian và cách thức tiến hành thủ tục chuyển giao quyền sở hữu hàng hóa.\nĐiều 50. Xác định người mua hàng\n1. Đối với phương thức trả giá lên, người mua hàng là người đầu tiên có mức\ntrả giá sau cùng cao hơn giá của người trước và cao  hơn mức giá chấp nhận bán,\nđược hệ thống thông tin của thương nhân, tổ chức cu ng cấp dịch vụ đấu giá trực\ntuyến ghi nhận trước thời điểm kết thúc đấu giá.\n2. Đối với phương thức đặt giá xuống, người mua hàn g là người đầu tiên chấp\nnhận mức giá khởi điểm hoặc mức giá hạ thấp hơn mức  giá khởi điểm; được hệ\nthống thông tin của thương nhân, tổ chức cung cấp d ịch vụ đấu giá trực tuyến ghi\nnhận trước thời điểm kết thúc đấu giá."
+   }
+  },
+  {
+   "id": "VN-H100-A159",
+   "no": 159,
+   "noLabel": {
+    "vi": "3. Trường hợp có nhiều người đồng thời trả mức giá cuối cùng đối với phương"
+   },
+   "text": {
+    "vi": "3. Trường hợp có nhiều người đồng thời trả mức giá cuối cùng đối với phương\nthức trả giá lên hoặc mức giá đầu tiên đối với phươ ng thức đặt giá xuống, người\nbán phải tổ chức rút thăm giữa những người đó để quyết định người mua hàng.\nĐiều 51. Thông báo kết quả đấu giá"
+   }
+  },
+  {
+   "id": "VN-H100-A160",
+   "no": 160,
+   "noLabel": {
+    "vi": "1. Thương nhân, tổ chức cung cấp dịch vụ đấu giá tr ực tuyến phải lập thông"
+   },
+   "text": {
+    "vi": "1. Thương nhân, tổ chức cung cấp dịch vụ đấu giá tr ực tuyến phải lập thông\nbáo kết quả đấu giá hàng hóa ngay sau thời điểm kết  thúc đấu giá, kể cả trong\ntrường hợp đấu giá không thành."
+   }
+  },
+  {
+   "id": "VN-H100-A161",
+   "no": 161,
+   "noLabel": {
+    "vi": "2. Thông báo phải ghi rõ các thông tin về hàng hóa,  mức giá cuối cùng được"
+   },
+   "text": {
+    "vi": "2. Thông báo phải ghi rõ các thông tin về hàng hóa,  mức giá cuối cùng được\ntrả, thời điểm hệ thống nhận được mức trả giá cuối cùng, thông tin liên hệ của\nngười mua hàng.\n3. Đối với hàng hóa mà theo quy định của pháp luật phải đăng ký quyền sở\nhữu, thông báo kết quả đấu giá hàng hóa là căn cứ để lập hợp đồng mua bán tài sản\nđấu giá và thực hiện các thủ tục có liên quan để chuyển quyền sở hữu đối với hàng\nhóa đó.\n26 CÔNG BÁO/Số 289 + 290/Ngày 29-05-2013"
+   }
+  },
+  {
+   "id": "VN-H100-A162",
+   "no": 162,
+   "noLabel": {
+    "vi": "4. Thông báo kết quả đấu giá sẽ được gửi về địa chỉ  điện tử đã đăng ký với"
+   },
+   "text": {
+    "vi": "4. Thông báo kết quả đấu giá sẽ được gửi về địa chỉ  điện tử đã đăng ký với\nthương nhân, tổ chức cung cấp dịch vụ đấu giá trực tuyến của người bán và người\nmua hàng."
+   }
+  },
+  {
+   "id": "VN-H100-A163",
+   "no": 163,
+   "noLabel": {
+    "vi": "5. Trường hợp có nhiều người đồng thời trả mức giá cuối cùng đối với phương"
+   },
+   "text": {
+    "vi": "5. Trường hợp có nhiều người đồng thời trả mức giá cuối cùng đối với phương\nthức trả giá lên hoặc mức giá đầu tiên đối với phương thức đặt giá xuống, hệ thống\nphải gửi thông báo đến tất cả những người này và yêu cầu họ thực hiện rút thăm để\nquyết định người mua. Hình thức tổ chức rút thăm do người bán quyết định.\n\nChương IV\nQUẢN LÝ HOẠT ĐỘNG THƯƠNG MẠI ĐIỆN TỬ\n\nMục 1\nQUẢN LÝ WEBSITE THƯƠNG MẠI ĐIỆN TỬ BÁN HÀNG\n\nĐiều 52. Điều kiện thiết lập website thương mại điện tử bán hàng\nCác thương nhân, tổ chức, cá nhân được thiết lập we bsite thương mại điện tử\nbán hàng nếu đáp ứng các điều kiện sau:"
+   }
+  },
+  {
+   "id": "VN-H100-A164",
+   "no": 164,
+   "noLabel": {
+    "vi": "1. Là thương nhân, tổ chức có chức năng, nhiệm vụ p hù hợp hoặc cá nhân đã"
+   },
+   "text": {
+    "vi": "1. Là thương nhân, tổ chức có chức năng, nhiệm vụ p hù hợp hoặc cá nhân đã\nđược cấp mã số thuế cá nhân."
+   }
+  },
+  {
+   "id": "VN-H100-A165",
+   "no": 165,
+   "noLabel": {
+    "vi": "2. Có website với tên miền hợp lệ và tuân thủ các q uy định về quản lý thông"
+   },
+   "text": {
+    "vi": "2. Có website với tên miền hợp lệ và tuân thủ các q uy định về quản lý thông\ntin trên Internet.\n3. Đã thông báo với Bộ Công Thương về việc thiết lậ p website thương mại\nđiện tử bán hàng theo quy định tại Điều 53 Nghị định này.\nĐiều 53. Thủ tục thông báo thiết lập website thương mại điện tử bán hàng"
+   }
+  },
+  {
+   "id": "VN-H100-A166",
+   "no": 166,
+   "noLabel": {
+    "vi": "1. Thương nhân, tổ chức, cá nhân thiết lập website thương mại điện tử bán"
+   },
+   "text": {
+    "vi": "1. Thương nhân, tổ chức, cá nhân thiết lập website thương mại điện tử bán\nhàng phải thông báo với Bộ Công Thương thông qua công cụ thông báo trực tuyến\ntrên Cổng thông tin Quản lý hoạt động thương mại điện tử;"
+   }
+  },
+  {
+   "id": "VN-H100-A167",
+   "no": 167,
+   "noLabel": {
+    "vi": "2. Thông tin phải thông báo bao gồm:"
+   },
+   "text": {
+    "vi": "2. Thông tin phải thông báo bao gồm:\na) Tên miền của website thương mại điện tử;\nb) Loại hàng hóa, dịch vụ giới thiệu trên website;\nc) Tên đăng ký của thương nhân, tổ chức hoặc tên của cá nhân sở hữu website;\nd) Địa chỉ trụ sở của thương nhân, tổ chức hoặc địa chỉ thường trú của cá nhân;\nđ) Số, ngày cấp và nơi cấp giấy chứng nhận đăng ký kinh doanh của thương\nnhân, hoặc số, ngày cấp và đơn vị cấp quyết định th ành lập của tổ chức; hoặc mã\nsố thuế cá nhân của cá nhân;\nCÔNG BÁO/Số 289 + 290/Ngày 29-05-2013 27\n\ne) Tên, chức danh, số chứng minh nhân dân, số điện thoại và địa chỉ thư điện\ntử của người đại diện thương nhân, người chịu trách nhiệm đối với website thương\nmại điện tử;\ng) Các thông tin khác theo quy định của Bộ Công Thương.\n\nMục 2\nQUẢN LÝ WEBSITE CUNG CẤP DỊCH VỤ THƯƠNG MẠI ĐIỆN TỬ\n\nĐiều 54. Điều kiện thiết lập website cung cấp dịch vụ thương mại điện tử\nThương nhân, tổ chức được thiết lập website cung cấ p dịch vụ thương mại\nđiện tử quy định tại Mục 2, 3 và 4 Chương III Nghị định này khi đáp ứng đủ các\nđiều kiện sau:"
+   }
+  },
+  {
+   "id": "VN-H100-A168",
+   "no": 168,
+   "noLabel": {
+    "vi": "1. Là thương nhân, tổ chức có ngành nghề kinh doanh  hoặc chức năng, nhiệm"
+   },
+   "text": {
+    "vi": "1. Là thương nhân, tổ chức có ngành nghề kinh doanh  hoặc chức năng, nhiệm\nvụ phù hợp."
+   }
+  },
+  {
+   "id": "VN-H100-A169",
+   "no": 169,
+   "noLabel": {
+    "vi": "2. Có website với tên miền hợp lệ và tuân thủ các q uy định về quản lý thông"
+   },
+   "text": {
+    "vi": "2. Có website với tên miền hợp lệ và tuân thủ các q uy định về quản lý thông\ntin trên Internet."
+   }
+  },
+  {
+   "id": "VN-H100-A170",
+   "no": 170,
+   "noLabel": {
+    "vi": "3. Có đề án cung cấp dịch vụ trong đó nêu rõ các nội dung sau:"
+   },
+   "text": {
+    "vi": "3. Có đề án cung cấp dịch vụ trong đó nêu rõ các nội dung sau:\na) Mô hình tổ chức hoạt động, bao gồm hoạt động cung cấp dịch vụ, hoạt động\nxúc tiến, tiếp thị dịch vụ cả trong và ngoài môi trường trực tuyến;\nb) Cấu trúc, tính năng và các mục thông tin chủ yếu trên website cung cấp dịch vụ;\nc) Phân định quyền và trách nhiệm giữa thương nhân,  tổ chức cung cấp dịch\nvụ thương mại điện tử với các bên sử dụng dịch vụ.\n4. Đã đăng ký thiết lập website cung cấp dịch vụ thương mại điện tử và được Bộ\nCông Thương xác nhận đăng ký theo quy định tại Điều 55 và 58 Nghị định này.\nĐiều 55. Thủ tục đăng ký thiết lập website cung cấp  dịch vụ thương mại\nđiện tử"
+   }
+  },
+  {
+   "id": "VN-H100-A171",
+   "no": 171,
+   "noLabel": {
+    "vi": "1. Thương nhân, tổ chức tiến hành đăng ký trực tuyến với Bộ Công Thương về"
+   },
+   "text": {
+    "vi": "1. Thương nhân, tổ chức tiến hành đăng ký trực tuyến với Bộ Công Thương về\nviệc thiết lập website cung cấp dịch vụ thương mại điện tử sau khi website đã được\nhoàn thiện với đầy đủ cấu trúc, tính năng và thông tin theo đề án cung cấp dịch vụ,\nđã hoạt động tại địa chỉ tên miền được đăng ký và t rước khi chính thức cung cấp\ndịch vụ đến người dùng."
+   }
+  },
+  {
+   "id": "VN-H100-A172",
+   "no": 172,
+   "noLabel": {
+    "vi": "2. Hồ sơ đăng ký bao gồm:"
+   },
+   "text": {
+    "vi": "2. Hồ sơ đăng ký bao gồm:\na) Đơn đăng ký thiết lập website cung cấp dịch vụ thương mại điện tử;\nb) Bản sao có chứng thực quyết định thành lập (đối với tổ chức), giấy chứng\nnhận đăng ký kinh doanh, giấy chứng nhận đầu tư hoặ c giấy phép đầu tư (đối với\nthương nhân);\n28 CÔNG BÁO/Số 289 + 290/Ngày 29-05-2013\n\nc) Đề án cung cấp dịch vụ theo quy định tại khoản 3 Điều 54 Nghị định này;\nd) Quy chế quản lý hoạt động của website cung cấp dịch vụ thương mại điện tử\ntuân thủ các quy định tại Nghị định này và các quy định của pháp luật có liên quan;\nđ) Mẫu hợp đồng cung cấp dịch vụ, các điều kiện giao dịch chung, nếu có;\ne) Các tài liệu khác do Bộ Công Thương quy định.\nĐiều 56. Sửa đổi, bổ sung, đăng ký lại, chấm dứt đăng ký"
+   }
+  },
+  {
+   "id": "VN-H100-A173",
+   "no": 173,
+   "noLabel": {
+    "vi": "1. Thương nhân, tổ chức thiết lập website cung cấp dịch vụ thương mại điện tử"
+   },
+   "text": {
+    "vi": "1. Thương nhân, tổ chức thiết lập website cung cấp dịch vụ thương mại điện tử\nphải thông báo sửa đổi, bổ sung thông tin đăng ký khi có một trong những thay đổi sau:\na) Thay đổi tên thương nhân, tổ chức;\nb) Thay đổi người đại diện thương nhân, người chịu trách nhiệm đối với\nwebsite cung cấp dịch vụ;\nc) Thay đổi địa chỉ trụ sở giao dịch hoặc thông tin liên hệ;\nd) Thay đổi tên miền;\nđ) Thay đổi quy chế và điều kiện giao dịch trên website cung cấp dịch vụ;\ne) Thay đổi các điều khoản của hợp đồng cung cấp dịch vụ;\ng) Thay đổi hoặc bổ sung dịch vụ cung cấp trên website;\nh) Các thay đổi khác do Bộ Công Thương quy định."
+   }
+  },
+  {
+   "id": "VN-H100-A174",
+   "no": 174,
+   "noLabel": {
+    "vi": "2. Thương nhân, tổ chức khi nhận chuyển nhượng webs ite cung cấp dịch vụ"
+   },
+   "text": {
+    "vi": "2. Thương nhân, tổ chức khi nhận chuyển nhượng webs ite cung cấp dịch vụ\nthương mại điện tử phải tiến hành đăng ký lại theo quy định tại Điều 55 Nghị định này."
+   }
+  },
+  {
+   "id": "VN-H100-A175",
+   "no": 175,
+   "noLabel": {
+    "vi": "3. Website cung cấp dịch vụ thương mại điện tử bị chấm dứt đăng ký trong các"
+   },
+   "text": {
+    "vi": "3. Website cung cấp dịch vụ thương mại điện tử bị chấm dứt đăng ký trong các\ntrường hợp sau:\na) Theo đề nghị của thương nhân, tổ chức cung cấp dịch vụ thương mại điện tử;\nb) Thương nhân, tổ chức cung cấp dịch vụ thương mại  điện tử ngừng hoạt\nđộng hoặc chuyển nhượng website cung cấp dịch vụ th ương mại điện tử cho\nthương nhân, tổ chức khác;\nc) Quá 30 (ba mươi) ngày mà website cung cấp dịch v ụ thương mại điện tử\nkhông có hoạt động hoặc không phản hồi thông tin kh i được cơ quan quản lý nhà\nnước yêu cầu;\nd) Thương nhân, tổ chức cung cấp dịch vụ thương mại  điện tử bị hủy bỏ đăng\nký theo quy định tại Khoản 2 Điều 78 Nghị định này;\nđ) Các trường hợp khác theo quy định của Bộ Công Thương.\nĐiều 57. Nghĩa vụ báo cáo\nTrước ngày 15 tháng 01 hàng năm, thương nhân, tổ ch ức cung cấp dịch vụ\nthương mại điện tử phải báo cáo Bộ Công Thương số l iệu thống kê về tình hình\nhoạt động của năm trước đó theo quy định tại Điều 8 Nghị định này.\nCÔNG BÁO/Số 289 + 290/Ngày 29-05-2013 29\n\nĐiều 58. Thẩm quyền cấp đăng ký"
+   }
+  },
+  {
+   "id": "VN-H100-A176",
+   "no": 176,
+   "noLabel": {
+    "vi": "1. Bộ Công Thương là đơn vị xác nhận đăng ký cho cá c website cung cấp dịch"
+   },
+   "text": {
+    "vi": "1. Bộ Công Thương là đơn vị xác nhận đăng ký cho cá c website cung cấp dịch\nvụ thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A177",
+   "no": 177,
+   "noLabel": {
+    "vi": "2. Bộ Công Thương quy định cụ thể yêu cầu về nội du ng hồ sơ, trình tự, thủ"
+   },
+   "text": {
+    "vi": "2. Bộ Công Thương quy định cụ thể yêu cầu về nội du ng hồ sơ, trình tự, thủ\ntục đăng ký, sửa đổi, bổ sung, chấm dứt đăng ký đối  với website cung cấp dịch vụ\nthương mại điện tử.\nĐiều 59. Công khai thông tin đăng ký"
+   }
+  },
+  {
+   "id": "VN-H100-A178",
+   "no": 178,
+   "noLabel": {
+    "vi": "1. Ngay sau khi được xác nhận đăng ký, website cung  cấp dịch vụ thương mại"
+   },
+   "text": {
+    "vi": "1. Ngay sau khi được xác nhận đăng ký, website cung  cấp dịch vụ thương mại\nđiện tử sẽ được gắn lên trang chủ biểu tượng đăng k ý. Khi chọn biểu tượng này,\nngười sử dụng được dẫn về phần thông tin đăng ký củ a thương nhân, tổ chức cung\ncấp dịch vụ thương mại điện tử tại Cổng thông tin Q uản lý hoạt động thương mại\nđiện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A179",
+   "no": 179,
+   "noLabel": {
+    "vi": "2. Bộ Công Thương công bố danh sách các website cun g cấp dịch vụ thương"
+   },
+   "text": {
+    "vi": "2. Bộ Công Thương công bố danh sách các website cun g cấp dịch vụ thương\nmại điện tử đã đăng ký, chấm dứt hoặc bị hủy bỏ đăng ký trên Cổng thông tin Quản\nlý hoạt động thương mại điện tử và trên các phương tiện thông tin đại chúng khác.\n\nMục 3\nHOẠT ĐỘNG ĐÁNH GIÁ, GIÁM SÁT\nVÀ CHỨNG THỰC TRONG THƯƠNG MẠI ĐIỆN TỬ\n\nĐiều 60. Nguyên tắc chung"
+   }
+  },
+  {
+   "id": "VN-H100-A180",
+   "no": 180,
+   "noLabel": {
+    "vi": "1. Các thương nhân, tổ chức tiến hành hoạt động đán h giá tín nhiệm website"
+   },
+   "text": {
+    "vi": "1. Các thương nhân, tổ chức tiến hành hoạt động đán h giá tín nhiệm website\nthương mại điện tử phải đăng ký với Bộ Công Thương."
+   }
+  },
+  {
+   "id": "VN-H100-A181",
+   "no": 181,
+   "noLabel": {
+    "vi": "2. Các thương nhân, tổ chức tiến hành các hoạt động  sau phải có giấy phép do"
+   },
+   "text": {
+    "vi": "2. Các thương nhân, tổ chức tiến hành các hoạt động  sau phải có giấy phép do\nBộ Công Thương cấp:\na) Hoạt động đánh giá và chứng nhận chính sách bảo vệ thông tin cá nhân của\ncác thương nhân, tổ chức, cá nhân tham gia hoạt động thương mại điện tử;\nb) Hoạt động chứng thực hợp đồng điện tử.\nĐiều 61. Hoạt động đánh giá tín nhiệm website thương mại điện tử\n1. Điều kiện tiến hành hoạt động đánh giá tín nhiệm website thương mại điện tử:\na) Là thương nhân, tổ chức được thành lập theo pháp  luật Việt Nam, có chức\nnăng, nhiệm vụ phù hợp;\nb) Độc lập về mặt tổ chức và tài chính với các thươ ng nhân, tổ chức, cá nhân\nsở hữu website thương mại điện tử được đánh giá tín nhiệm;\nc) Có bộ tiêu chí và quy trình đánh giá website thư ơng mại điện tử được công\nbố công khai, minh bạch, áp dụng thống nhất cho các đối tượng được đánh giá;\n30 CÔNG BÁO/Số 289 + 290/Ngày 29-05-2013\n\nd) Đã đăng ký hoạt động đánh giá tín nhiệm website thương mại điện tử với\nBộ Công Thương và được xác nhận đăng ký."
+   }
+  },
+  {
+   "id": "VN-H100-A182",
+   "no": 182,
+   "noLabel": {
+    "vi": "2. Thương nhân, tổ chức đánh giá tín nhiệm website thương mại điện tử bị hủy"
+   },
+   "text": {
+    "vi": "2. Thương nhân, tổ chức đánh giá tín nhiệm website thương mại điện tử bị hủy\nbỏ đăng ký trong những trường hợp sau:\na) Có hành vi gian dối hoặc cung cấp thông tin giả mạo khi tiến hành đăng ký;\nb) Không thực hiện đúng quy trình và tiêu chí đánh giá tín nhiệm đã công bố\ncông khai;\nc) Lợi dụng hoạt động đánh giá tín nhiệm để thực hi ện các hành vi nhằm thu\nlợi bất chính."
+   }
+  },
+  {
+   "id": "VN-H100-A183",
+   "no": 183,
+   "noLabel": {
+    "vi": "3. Bộ Công Thương quy định cụ thể về hoạt động đánh  giá tín nhiệm website"
+   },
+   "text": {
+    "vi": "3. Bộ Công Thương quy định cụ thể về hoạt động đánh  giá tín nhiệm website\nthương mại điện tử, nội dung hồ sơ, trình tự, thủ tục đăng ký, sửa đổi bổ sung, hủy\nbỏ, chấm dứt đăng ký cho các thương nhân, tổ chức tiến hành hoạt động này."
+   }
+  },
+  {
+   "id": "VN-H100-A184",
+   "no": 184,
+   "noLabel": {
+    "vi": "4. Nghĩa vụ của thương nhân, tổ chức đánh giá tín n hiệm website thương mại"
+   },
+   "text": {
+    "vi": "4. Nghĩa vụ của thương nhân, tổ chức đánh giá tín n hiệm website thương mại\nđiện tử:\na) Giám sát hoạt động của các website thương mại đi ện tử đã được gắn biểu\ntượng tín nhiệm;\nb) Phối hợp chặt chẽ với cơ quan quản lý nhà nước t rong việc thanh tra, kiểm\ntra và xử lý các website thương mại điện tử đã được  gắn biểu tượng tín nhiệm\nnhưng có dấu hiệu vi phạm pháp luật;\nc) Trước ngày 05 hàng tháng, báo cáo Bộ Công Thương  danh sách cập nhật\ncác website thương mại điện tử đã được gắn biểu tượ ng tín nhiệm tính đến cuối\ntháng trước đó;\nd) Trước ngày 15 tháng 01 hàng năm, báo cáo Bộ Công  Thương về hoạt động\nđánh giá tín nhiệm website thương mại điện tử của năm trước đó.\nĐiều 62. Hoạt động đánh giá và chứng nhận chính sác h bảo vệ thông tin\ncá nhân trong thương mại điện tử\n1. Điều kiện cấp phép cho thương nhân, tổ chức tiến  hành hoạt động đánh giá\nvà chứng nhận chính sách bảo vệ thông tin cá nhân trong thương mại điện tử:\na) Là thương nhân, tổ chức được thành lập theo pháp luật Việt Nam;\nb) Có đăng ký kinh doanh hoặc quyết định thành lập trong đó nêu rõ lĩnh vực\nhoạt động là đánh giá và chứng nhận chính sách bảo vệ thông tin cá nhân trong\nthương mại điện tử;\nc) Độc lập về mặt tổ chức và tài chính với các thươ ng nhân, tổ chức, cá nhân\nđược đánh giá và chứng nhận về chính sách bảo vệ thông tin cá nhân;\nd) Có đề án hoạt động chi tiết được Bộ Công Thương thẩm định;\nCÔNG BÁO/Số 289 + 290/Ngày 29-05-2013 31\n\nđ) Có tiêu chí và quy trình đánh giá chính sách bảo  vệ thông tin cá nhân tuân\nthủ các quy định của Bộ Công Thương."
+   }
+  },
+  {
+   "id": "VN-H100-A185",
+   "no": 185,
+   "noLabel": {
+    "vi": "2. Giấy phép hoạt động đánh giá và chứng nhận chính sách bảo vệ thông tin cá"
+   },
+   "text": {
+    "vi": "2. Giấy phép hoạt động đánh giá và chứng nhận chính sách bảo vệ thông tin cá\nnhân trong thương mại điện tử có thời hạn theo đề nghị cấp phép."
+   }
+  },
+  {
+   "id": "VN-H100-A186",
+   "no": 186,
+   "noLabel": {
+    "vi": "3. Thương nhân, tổ chức bị thu hồi giấy phép hoạt đ ộng đánh giá và chứng"
+   },
+   "text": {
+    "vi": "3. Thương nhân, tổ chức bị thu hồi giấy phép hoạt đ ộng đánh giá và chứng\nnhận chính sách bảo vệ thông tin cá nhân trong những trường hợp sau:\na) Có hành vi gian dối hoặc cung cấp thông tin giả mạo để được cấp giấy phép;\nb) Vi phạm quy trình và tiêu chí đánh giá đã được Bộ Công Thương thẩm định;\nc) Lợi dụng hoạt động đánh giá, chứng nhận chính sá ch bảo vệ thông tin cá\nnhân để thực hiện các hành vi nhằm thu lợi bất chính;\nd) Không triển khai dịch vụ sau 180 (một trăm tám m ươi) ngày kể từ ngày\nđược cấp phép."
+   }
+  },
+  {
+   "id": "VN-H100-A187",
+   "no": 187,
+   "noLabel": {
+    "vi": "4. Nghĩa vụ của thương nhân, tổ chức đánh giá và ch ứng nhận chính sách bảo"
+   },
+   "text": {
+    "vi": "4. Nghĩa vụ của thương nhân, tổ chức đánh giá và ch ứng nhận chính sách bảo\nvệ thông tin cá nhân trong thương mại điện tử:\na) Giám sát sự tuân thủ của các thương nhân, tổ chứ c đã được chứng nhận về\nchính sách bảo vệ thông tin cá nhân;\nb) Phối hợp chặt chẽ với cơ quan quản lý nhà nước t rong việc thanh tra, kiểm\ntra và xử lý các thương nhân, tổ chức đã được chứng  nhận về chính sách bảo vệ\nthông tin cá nhân nhưng có dấu hiệu vi phạm pháp luật;\nc) Trước ngày 15 tháng 01 hàng năm, báo cáo Bộ Công  Thương về kết quả\nđánh giá và chứng nhận chính sách bảo vệ thông tin cá nhân trong thương mại điện\ntử của năm trước đó."
+   }
+  },
+  {
+   "id": "VN-H100-A188",
+   "no": 188,
+   "noLabel": {
+    "vi": "5. Bộ Công Thương quy định cụ thể về tiêu chí, quy trình đánh giá và chứng"
+   },
+   "text": {
+    "vi": "5. Bộ Công Thương quy định cụ thể về tiêu chí, quy trình đánh giá và chứng\nnhận chính sách bảo vệ thông tin cá nhân, trình tự,  thủ tục cấp, sửa đổi bổ sung,\nthu hồi giấy phép hoạt động cho các tổ chức này."
+   }
+  },
+  {
+   "id": "VN-H100-A189",
+   "no": 189,
+   "noLabel": {
+    "vi": "6. Công nhận tổ chức đánh giá và chứng nhận chính s ách bảo vệ thông tin cá"
+   },
+   "text": {
+    "vi": "6. Công nhận tổ chức đánh giá và chứng nhận chính s ách bảo vệ thông tin cá\nnhân nước ngoài:\na) Chứng nhận về chính sách bảo vệ thông tin cá nhân trong thương mại điện tử\ndo tổ chức đánh giá và chứng nhận chính sách bảo vệ thông tin cá nhân nước ngoài\ncấp được công nhận khi tổ chức đó được Bộ Công Thương cấp giấy công nhận;\nb) Tổ chức đánh giá và chứng nhận chính sách bảo vệ  thông tin cá nhân nước\nngoài được cấp giấy công nhận khi đáp ứng các điều kiện sau:\nơ Tổ chức đó được cơ quan có thẩm quyền của nước mì nh cấp phép hoặc\nchứng nhận đủ điều kiện hoạt động trong lĩnh vực này;\n32 CÔNG BÁO/Số 289 + 290/Ngày 29-05-2013\n\nơ Tổ chức đó được thừa nhận bởi một tổ chức quốc tế mà Việt Nam là thành viên;\nơ Tiêu chuẩn đánh giá và chứng nhận chính sách bảo vệ thông tin cá nhân của tổ\nchức đó không thấp hơn tiêu chuẩn do Bộ Công Thương quy định;\nơ Tổ chức đánh giá và chứng nhận chính sách bảo vệ thông tin cá nhân đó cam\nkết tuân thủ các nghĩa vụ quy định tại Khoản 4 Điều này.\nc) Bộ Công Thương quy định cụ thể về trình tự, thủ tục cấp và thu hồi giấy\ncông nhận tổ chức đánh giá và chứng nhận chính sách  bảo vệ thông tin cá nhân\nnước ngoài.\nĐiều 63. Hoạt động chứng thực hợp đồng điện tử\n1. Điều kiện cấp phép hoạt động cho thương nhân, tổ  chức cung cấp dịch vụ\nchứng thực hợp đồng điện tử:\na) Yêu cầu về chủ thể:\nơ Là thương nhân, tổ chức được thành lập theo pháp luật Việt Nam, có chức\nnăng, nhiệm vụ phù hợp;\nơ Có đề án chi tiết cho hoạt động cung cấp dịch vụ được Bộ Công Thương\nthẩm định.\nb) Yêu cầu về tài chính và yêu cầu về kỹ thuật:\nBộ Công Thương quy định cụ thể yêu cầu về tài chính  và kỹ thuật đối với\nthương nhân, tổ chức cung cấp dịch vụ chứng thực hợp đồng điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A190",
+   "no": 190,
+   "noLabel": {
+    "vi": "2. Giấy phép hoạt động của thương nhân, tổ chức cung cấp dịch vụ chứng thực"
+   },
+   "text": {
+    "vi": "2. Giấy phép hoạt động của thương nhân, tổ chức cung cấp dịch vụ chứng thực\nhợp đồng điện tử có thời hạn theo đề nghị cấp phép."
+   }
+  },
+  {
+   "id": "VN-H100-A191",
+   "no": 191,
+   "noLabel": {
+    "vi": "3. Nghĩa vụ của thương nhân, tổ chức cung cấp dịch vụ chứng thực hợp đồng"
+   },
+   "text": {
+    "vi": "3. Nghĩa vụ của thương nhân, tổ chức cung cấp dịch vụ chứng thực hợp đồng\nđiện tử:\na) Chịu trách nhiệm về tính bảo mật và toàn vẹn của  các chứng từ điện tử mà\nmình lưu trữ và chứng thực;\nb) Cung cấp tài liệu và hỗ trợ cơ quan quản lý nhà nước điều tra các hành vi vi\nphạm pháp luật liên quan đến chứng từ điện tử mà mình lưu trữ và chứng thực;\nc) Trước ngày 15 tháng 01 hàng năm, báo cáo Bộ Công  Thương về tình hình\ncung cấp dịch vụ chứng thực hợp đồng điện tử của năm trước đó."
+   }
+  },
+  {
+   "id": "VN-H100-A192",
+   "no": 192,
+   "noLabel": {
+    "vi": "4. Bộ Công Thương quy định chi tiết về thủ tục thành lập và quy chế hoạt động"
+   },
+   "text": {
+    "vi": "4. Bộ Công Thương quy định chi tiết về thủ tục thành lập và quy chế hoạt động\ncủa thương nhân, tổ chức cung cấp dịch vụ chứng thự c hợp đồng điện tử; các\ntrường hợp thu hồi giấy phép hoạt động; trình tự, t hủ tục cấp, sửa đổi bổ sung, thu\nhồi giấy phép hoạt động của các thương nhân, tổ chức này.\nCÔNG BÁO/Số 289 + 290/Ngày 29-05-2013 33\n\nMục 4\nCỔNG THÔNG TIN QUẢN LÝ HOẠT ĐỘNG\n THƯƠNG MẠI ĐIỆN TỬ\n\nĐiều 64. Chức năng của Cổng thông tin Quản lý hoạt động thương mại\nđiện tử"
+   }
+  },
+  {
+   "id": "VN-H100-A193",
+   "no": 193,
+   "noLabel": {
+    "vi": "1. Bộ Công Thương có trách nhiệm xây dựng, cập nhật  và duy trì Cổng thông"
+   },
+   "text": {
+    "vi": "1. Bộ Công Thương có trách nhiệm xây dựng, cập nhật  và duy trì Cổng thông\ntin Quản lý hoạt động thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A194",
+   "no": 194,
+   "noLabel": {
+    "vi": "2. Cổng thông tin Quản lý hoạt động thương mại điện tử có các chức năng sau:"
+   },
+   "text": {
+    "vi": "2. Cổng thông tin Quản lý hoạt động thương mại điện tử có các chức năng sau:\na) Cung cấp dịch vụ công trực tuyến đối với thủ tục thông báo thiết lập website\nthương mại điện tử bán hàng quy định tại Mục 1 Chương này.\nb) Cung cấp dịch vụ công trực tuyến đối với thủ tục  đăng ký website cung cấp\ndịch vụ thương mại điện tử quy định tại Mục 2 Chương này.\nc) Cung cấp thông tin hướng dẫn về quy trình và biểu mẫu thủ tục đăng ký, thủ\ntục xin cấp phép dịch vụ giám sát, đánh giá và chứn g nhận trong thương mại điện\ntử theo quy định tại Mục 3 Chương này.\nd) Công bố công khai các thông tin quy định tại Điều 65, 66 và 67 Nghị định này.\nĐiều 65. Danh sách các website thương mại điện tử đ ã thực hiện thủ tục\nthông báo và đăng ký"
+   }
+  },
+  {
+   "id": "VN-H100-A195",
+   "no": 195,
+   "noLabel": {
+    "vi": "1. Bộ Công Thương công bố công khai trên Cổng thông  tin Quản lý hoạt động"
+   },
+   "text": {
+    "vi": "1. Bộ Công Thương công bố công khai trên Cổng thông  tin Quản lý hoạt động\nthương mại điện tử các danh sách sau:\na) Danh sách các website thương mại điện tử bán hàn g đã thông báo theo quy\nđịnh tại Mục 1 Chương này;\nb) Danh sách các website cung cấp dịch vụ thương mại điện tử đã đăng ký theo\nquy định tại Mục 2 Chương này."
+   }
+  },
+  {
+   "id": "VN-H100-A196",
+   "no": 196,
+   "noLabel": {
+    "vi": "2. Danh sách công bố quy định tại Khoản 1 Điều này bao gồm các thông tin sau:"
+   },
+   "text": {
+    "vi": "2. Danh sách công bố quy định tại Khoản 1 Điều này bao gồm các thông tin sau:\na) Tên website thương mại điện tử và loại hình webs ite theo thông báo hoặc\nđăng ký với Bộ Công Thương;\nb) Tên và thông tin liên hệ của thương nhân, tổ chứ c, cá nhân sở hữu website\nthương mại điện tử;\nc) Số đăng ký kinh doanh của thương nhân, số quyết định thành lập của tổ chức\nhoặc mã số thuế cá nhân của cá nhân sở hữu website thương mại điện tử.\nĐiều 66. Danh sách các thương nhân, tổ chức đánh gi á tín nhiệm website\nthương mại điện tử"
+   }
+  },
+  {
+   "id": "VN-H100-A197",
+   "no": 197,
+   "noLabel": {
+    "vi": "1. Bộ Công Thương công bố công khai trên Cổng thông  tin Quản lý hoạt động"
+   },
+   "text": {
+    "vi": "1. Bộ Công Thương công bố công khai trên Cổng thông  tin Quản lý hoạt động\nthương mại điện tử danh sách các thương nhân, tổ chức cung cấp dịch vụ đánh giá tín\nnhiệm website thương mại điện tử đã đăng ký theo quy định tại Mục 3 Chương này.\n34 CÔNG BÁO/Số 289 + 290/Ngày 29-05-2013"
+   }
+  },
+  {
+   "id": "VN-H100-A198",
+   "no": 198,
+   "noLabel": {
+    "vi": "2. Danh sách công bố quy định tại Khoản 1 Điều này bao gồm các thông tin sau:"
+   },
+   "text": {
+    "vi": "2. Danh sách công bố quy định tại Khoản 1 Điều này bao gồm các thông tin sau:\na) Tên thương nhân, tổ chức cung cấp dịch vụ đánh g iá tín nhiệm website\nthương mại điện tử;\nb) Số đăng ký kinh doanh hoặc số quyết định thành lập của thương nhân, tổ chức;\nc) Địa chỉ trụ sở, số điện thoại và địa chỉ thư điện tử của thương nhân, tổ chức;\nd) Danh sách các website thương mại điện tử đã được  thương nhân, tổ chức\ngắn biểu tượng tín nhiệm.\nĐiều 67. Danh sách các website thương mại điện tử khuyến cáo người tiêu\ndùng thận trọng"
+   }
+  },
+  {
+   "id": "VN-H100-A199",
+   "no": 199,
+   "noLabel": {
+    "vi": "1. Bộ Công Thương công bố công khai trên Cổng thông  tin Quản lý hoạt động"
+   },
+   "text": {
+    "vi": "1. Bộ Công Thương công bố công khai trên Cổng thông  tin Quản lý hoạt động\nthương mại điện tử các danh sách sau:\na) Danh sách các website thương mại điện tử có vi phạm quy định của pháp luật;\nb) Danh sách các website thương mại điện tử bị phản  ánh về việc có dấu hiệu\nvi phạm pháp luật."
+   }
+  },
+  {
+   "id": "VN-H100-A200",
+   "no": 200,
+   "noLabel": {
+    "vi": "2. Bộ Công Thương quy định chi tiết về cơ chế tiếp nhận, công bố thông tin"
+   },
+   "text": {
+    "vi": "2. Bộ Công Thương quy định chi tiết về cơ chế tiếp nhận, công bố thông tin\nphản ánh của tổ chức, cá nhân về các website thương  mại điện tử quy định tại\nKhoản 1 Điều này.\n\nChương V\nAN TOÀN, AN NINH TRONG GIAO DỊCH THƯƠNG MẠI ĐIỆN TỬ\n\nMục 1\nBẢO VỆ THÔNG TIN CÁ NHÂN TRONG THƯƠNG MẠI ĐIỆN TỬ\n\nĐiều 68. Trách nhiệm bảo vệ thông tin cá nhân của người tiêu dùng"
+   }
+  },
+  {
+   "id": "VN-H100-A201",
+   "no": 201,
+   "noLabel": {
+    "vi": "1. Trong quá trình hoạt động kinh doanh thương mại điện tử, nếu thương nhân,"
+   },
+   "text": {
+    "vi": "1. Trong quá trình hoạt động kinh doanh thương mại điện tử, nếu thương nhân,\ntổ chức, cá nhân thực hiện việc thu thập thông tin cá nhân của người tiêu dùng thì\nphải tuân thủ các quy định tại Nghị định này và nhữ ng quy định pháp luật liên\nquan về bảo vệ thông tin cá nhân."
+   }
+  },
+  {
+   "id": "VN-H100-A202",
+   "no": 202,
+   "noLabel": {
+    "vi": "2. Trường hợp thương nhân, tổ chức, cá nhân hoạt độ ng kinh doanh thương"
+   },
+   "text": {
+    "vi": "2. Trường hợp thương nhân, tổ chức, cá nhân hoạt độ ng kinh doanh thương\nmại điện tử ủy quyền cho bên thứ ba thực hiện việc thu thập, lưu trữ thông tin cá\nnhân của người tiêu dùng:\na) Hợp đồng giữa hai bên phải quy định rõ trách nhiệm của mỗi bên trong việc\ntuân thủ các quy định tại Nghị định này và những qu y định pháp luật liên quan về\nbảo vệ thông tin cá nhân;\nCÔNG BÁO/Số 289 + 290/Ngày 29-05-2013 35\n\nb) Nếu hợp đồng giữa hai bên không quy định rõ trác h nhiệm của mỗi bên thì\nthương nhân, tổ chức, cá nhân hoạt động kinh doanh thương mại điện tử chịu trách\nnhiệm trong trường hợp việc thu thập, lưu trữ và sử  dụng thông tin cá nhân của\nngười tiêu dùng vi phạm các quy định tại Nghị định này và những quy định pháp\nluật liên quan về bảo vệ thông tin cá nhân.\nĐiều 69. Chính sách bảo vệ thông tin cá nhân của người tiêu dùng"
+   }
+  },
+  {
+   "id": "VN-H100-A203",
+   "no": 203,
+   "noLabel": {
+    "vi": "1. Thương nhân, tổ chức, cá nhân thu thập và sử dụn g thông tin cá nhân của"
+   },
+   "text": {
+    "vi": "1. Thương nhân, tổ chức, cá nhân thu thập và sử dụn g thông tin cá nhân của\nngười tiêu dùng phải xây dựng và công bố chính sách bảo vệ thông tin cá nhân với\ncác nội dung sau:\na) Mục đích thu thập thông tin cá nhân;\nb) Phạm vi sử dụng thông tin;\nc) Thời gian lưu trữ thông tin;\nd) Những người hoặc tổ chức có thể được tiếp cận với thông tin đó;\nđ) Địa chỉ của đơn vị thu thập và quản lý thông tin, bao gồm cách thức liên lạc\nđể người tiêu dùng có thể hỏi về hoạt động thu thập , xử lý thông tin liên quan đến\ncá nhân mình;\ne) Phương thức và công cụ để người tiêu dùng tiếp c ận và chỉnh sửa dữ liệu cá\nnhân của mình trên hệ thống thương mại điện tử của đơn vị thu thập thông tin."
+   }
+  },
+  {
+   "id": "VN-H100-A204",
+   "no": 204,
+   "noLabel": {
+    "vi": "2. Những nội dung trên phải được hiển thị rõ ràng c ho người tiêu dùng trước"
+   },
+   "text": {
+    "vi": "2. Những nội dung trên phải được hiển thị rõ ràng c ho người tiêu dùng trước\nhoặc tại thời điểm thu thập thông tin."
+   }
+  },
+  {
+   "id": "VN-H100-A205",
+   "no": 205,
+   "noLabel": {
+    "vi": "3. Nếu việc thu thập thông tin được thực hiện thông  qua website thương mại"
+   },
+   "text": {
+    "vi": "3. Nếu việc thu thập thông tin được thực hiện thông  qua website thương mại\nđiện tử của đơn vị thu thập thông tin, chính sách b ảo vệ thông tin cá nhân phải\nđược công bố công khai tại một vị trí dễ thấy trên website này.\nĐiều 70. Xin phép người tiêu dùng khi tiến hành thu thập thông tin"
+   }
+  },
+  {
+   "id": "VN-H100-A206",
+   "no": 206,
+   "noLabel": {
+    "vi": "1. Trừ trường hợp quy định tại Khoản 4 Điều này thư ơng nhân, tổ chức thu"
+   },
+   "text": {
+    "vi": "1. Trừ trường hợp quy định tại Khoản 4 Điều này thư ơng nhân, tổ chức thu\nthập và sử dụng thông tin cá nhân của người tiêu dù ng trên website thương mại\nđiện tử (gọi tắt là đơn vị thu thập thông tin) phải  được sự đồng ý trước của người\ntiêu dùng có thông tin đó (gọi tắt là chủ thể thông tin).\n2. Đơn vị thu thập thông tin phải thiết lập cơ chế để chủ thể thông tin bày tỏ sự\nđồng ý một cách rõ ràng, thông qua các chức năng tr ực tuyến trên website, thư\nđiện tử, tin nhắn, hoặc những phương thức khác theo thỏa thuận giữa hai bên.\n3. Đơn vị thu thập thông tin phải có cơ chế riêng đ ể chủ thể thông tin được lựa\nchọn việc cho phép hoặc không cho phép sử dụng thôn g tin cá nhân của họ trong\nnhững trường hợp sau:\na) Chia sẻ, tiết lộ, chuyển giao thông tin cho một bên thứ ba;\nb) Sử dụng thông tin cá nhân để gửi quảng cáo, giới  thiệu sản phẩm và các\nthông tin có tính thương mại khác.\n36 CÔNG BÁO/Số 289 + 290/Ngày 29-05-2013\n\n4. Đơn vị thu thập thông tin không cần được sự đồng ý trước của chủ thể thông\ntin trong các trường hợp sau:\na) Thu thập thông tin cá nhân đã công bố công khai trên các website thương\nmại điện tử;\nb) Thu thập thông tin cá nhân để ký kết hoặc thực h iện hợp đồng mua bán\nhàng hóa và dịch vụ;\nc) Thu thập thông tin cá nhân để tính giá, cước sử dụng thông tin, sản phẩm,\ndịch vụ trên môi trường mạng.\nĐiều 71. Sử dụng thông tin cá nhân\n1. Đơn vị thu thập thông tin phải sử dụng thông tin cá nhân của người tiêu dùng\nđúng với mục đích và phạm vi đã thông báo, trừ các trường hợp sau:\na) Có một thỏa thuận riêng với chủ thể thông tin về  mục đích và phạm vi sử\ndụng ngoài những mục đích, phạm vi đã thông báo;\nb) Để cung cấp dịch vụ hoặc sản phẩm theo yêu cầu của chủ thể thông tin;\nc) Thực hiện các nghĩa vụ theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H100-A207",
+   "no": 207,
+   "noLabel": {
+    "vi": "2. Việc sử dụng thông tin quy định tại Điều này bao gồm cả việc chia sẻ, tiết lộ"
+   },
+   "text": {
+    "vi": "2. Việc sử dụng thông tin quy định tại Điều này bao gồm cả việc chia sẻ, tiết lộ\nvà chuyển giao thông tin cá nhân cho bên thứ ba.\nĐiều 72. Bảo đảm an toàn, an ninh thông tin cá nhân\n1. Đơn vị thu thập thông tin phải đảm bảo an toàn, an ninh cho thông tin cá\nnhân mà họ thu thập và lưu trữ, ngăn ngừa các hành vi sau:\na) Đánh cắp hoặc tiếp cận thông tin trái phép;\nb) Sử dụng thông tin trái phép;\nc) Thay đổi, phá hủy thông tin trái phép.\n2. Đơn vị thu thập thông tin phải có cơ chế tiếp nh ận và giải quyết khiếu nại\ncủa người tiêu dùng liên quan đến việc thông tin cá  nhân bị sử dụng sai mục đích\nhoặc phạm vi đã thông báo."
+   }
+  },
+  {
+   "id": "VN-H100-A208",
+   "no": 208,
+   "noLabel": {
+    "vi": "3. Trong trường hợp hệ thống thông tin bị tấn công làm phát sinh nguy cơ mất"
+   },
+   "text": {
+    "vi": "3. Trong trường hợp hệ thống thông tin bị tấn công làm phát sinh nguy cơ mất\nthông tin của người tiêu dùng, đơn vị lưu trữ thông tin phải thông báo cho cơ quan\nchức năng trong vòng 24 (hai mươi bốn) giờ sau khi phát hiện sự cố.\nĐiều 73. Kiểm tra, cập nhật và điều chỉnh thông tin cá nhân"
+   }
+  },
+  {
+   "id": "VN-H100-A209",
+   "no": 209,
+   "noLabel": {
+    "vi": "1. Chủ thể thông tin có quyền yêu cầu đơn vị thu th ập thông tin thực hiện việc"
+   },
+   "text": {
+    "vi": "1. Chủ thể thông tin có quyền yêu cầu đơn vị thu th ập thông tin thực hiện việc\nkiểm tra, cập nhật, điều chỉnh hoặc hủy bỏ thông tin cá nhân của mình.\n2. Đơn vị thu thập thông tin có nghĩa vụ kiểm tra, cập nhật, điều chỉnh, hủy bỏ\nthông tin cá nhân của chủ thể thông tin khi có yêu cầu hoặc cung cấp cho chủ thể\nthông tin công cụ để tự kiểm tra, cập nhật, điều chỉnh thông tin cá nhân của mình.\nCÔNG BÁO/Số 289 + 290/Ngày 29-05-2013 37\n\nMục 2\nAN TOÀN THANH TOÁN TRONG THƯƠNG MẠI ĐIỆN TỬ\n\nĐiều 74. Trách nhiệm của thương nhân, tổ chức, cá n hân sở hữu website\nthương mại điện tử có chức năng thanh toán trực tuyến"
+   }
+  },
+  {
+   "id": "VN-H100-A210",
+   "no": 210,
+   "noLabel": {
+    "vi": "1. Thương nhân, tổ chức, cá nhân sở hữu website thư ơng mại điện tử có chức"
+   },
+   "text": {
+    "vi": "1. Thương nhân, tổ chức, cá nhân sở hữu website thư ơng mại điện tử có chức\nnăng thanh toán trực tuyến phải đảm bảo an toàn, bảo mật giao dịch thanh toán của\nkhách hàng, xử lý khiếu nại và đền bù thiệt hại tro ng trường hợp thông tin thanh\ntoán của khách hàng qua website thương mại điện tử bị thay đổi, xóa, hủy, sao\nchép, tiết lộ, di chuyển trái phép hoặc bị chiếm đoạt gây thiệt hại cho khách hàng."
+   }
+  },
+  {
+   "id": "VN-H100-A211",
+   "no": 211,
+   "noLabel": {
+    "vi": "2. Trường hợp tự phát triển giải pháp thanh toán để  phục vụ riêng website"
+   },
+   "text": {
+    "vi": "2. Trường hợp tự phát triển giải pháp thanh toán để  phục vụ riêng website\nthương mại điện tử bán hàng của mình, thương nhân, tổ chức, cá nhân sở hữu\nwebsite phải áp dụng các biện pháp sau nhằm đảm bảo  an toàn, bảo mật cho giao\ndịch thanh toán của khách hàng:\na) Thiết lập hệ thống thông tin phục vụ hoạt động t hanh toán đảm bảo kết nối\ntrực tuyến 24 (hai mươi bốn) giờ trong ngày và 7 (b ảy) ngày trong tuần. Thời gian\ndừng hệ thống để bảo trì không quá 12 (mười hai) gi ờ mỗi lần bảo trì và phải có\nthông báo trước cho khách hàng;\nb) Mã hóa thông tin và sử dụng các giao thức bảo mậ t để đảm bảo không lộ\nthông tin trên đường truyền;\nc) Triển khai các ứng dụng có khả năng phát hiện, c ảnh báo và ngăn chặn các\ntruy nhập bất hợp pháp và các hình thức tấn công tr ên môi trường mạng vào hệ\nthống thông tin phục vụ hoạt động thanh toán trực tuyến của mình;\nd) Có các phương án kiểm soát quyền truy nhập hệ th ống, quyền ra, vào nơi\nđặt thiết bị hệ thống thông tin phục vụ hoạt động thanh toán trực tuyến của mình;\nđ) Có quy trình, hệ thống sao lưu và phục hồi dữ li ệu khi hệ thống thông tin\nphục vụ hoạt động thanh toán gặp sự cố, đảm bảo sao lưu dữ liệu thanh toán ra các\nvật mang tin hoặc sao lưu trực tuyến toàn bộ dữ liệu;\ne) Lưu trữ dữ liệu về từng giao dịch thanh toán the o thời hạn quy định tại Luật\nKế toán;\ng) Trường hợp khách hàng thanh toán trước khi mua h àng hóa và dịch vụ, tiền\nthanh toán của khách hàng phải được giữ tại các tổ chức cung ứng dịch vụ thanh\ntoán và khách hàng phải được cung cấp công cụ để th eo dõi số dư thanh toán của\nmình trên hệ thống."
+   }
+  },
+  {
+   "id": "VN-H100-A212",
+   "no": 212,
+   "noLabel": {
+    "vi": "3. Thương nhân, tổ chức, cá nhân sở hữu website thư ơng mại điện tử có chức"
+   },
+   "text": {
+    "vi": "3. Thương nhân, tổ chức, cá nhân sở hữu website thư ơng mại điện tử có chức\nnăng thanh toán trực tuyến phải công bố trên websit e chính sách về bảo mật thông\ntin thanh toán cho khách hàng.\n38 CÔNG BÁO/Số 289 + 290/Ngày 29-05-2013\n\nĐiều 75. Trách nhiệm của thương nhân, tổ chức cung cấp dịch vụ trung\ngian thanh toán cho website thương mại điện tử"
+   }
+  },
+  {
+   "id": "VN-H100-A213",
+   "no": 213,
+   "noLabel": {
+    "vi": "1. Tuân thủ các quy định, tiêu chuẩn kỹ thuật về dị ch vụ trung gian thanh toán"
+   },
+   "text": {
+    "vi": "1. Tuân thủ các quy định, tiêu chuẩn kỹ thuật về dị ch vụ trung gian thanh toán\ndo Ngân hàng Nhà nước Việt Nam ban hành."
+   }
+  },
+  {
+   "id": "VN-H100-A214",
+   "no": 214,
+   "noLabel": {
+    "vi": "2. Lưu trữ dữ liệu về từng giao dịch thanh toán thự c hiện qua hệ thống của"
+   },
+   "text": {
+    "vi": "2. Lưu trữ dữ liệu về từng giao dịch thanh toán thự c hiện qua hệ thống của\nmình theo thời hạn quy định tại Luật Kế toán."
+   }
+  },
+  {
+   "id": "VN-H100-A215",
+   "no": 215,
+   "noLabel": {
+    "vi": "3. Liên đới chịu trách nhiệm với thương nhân, tổ chức, cá nhân sở hữu website"
+   },
+   "text": {
+    "vi": "3. Liên đới chịu trách nhiệm với thương nhân, tổ chức, cá nhân sở hữu website\nthương mại điện tử sử dụng dịch vụ trung gian thanh  toán của mình trong trường\nhợp thông tin thanh toán của khách hàng qua website  đó bị thay đổi, xóa, hủy, sao\nchép, tiết lộ, di chuyển trái phép hoặc bị chiếm đoạt gây thiệt hại cho khách hàng."
+   }
+  },
+  {
+   "id": "VN-H100-A216",
+   "no": 216,
+   "noLabel": {
+    "vi": "4. Trước ngày 15 tháng 01 hàng năm, báo cáo Bộ Công  Thương số liệu thống"
+   },
+   "text": {
+    "vi": "4. Trước ngày 15 tháng 01 hàng năm, báo cáo Bộ Công  Thương số liệu thống\nkê về tình hình cung cấp dịch vụ cho các thương nhâ n, tổ chức, cá nhân tham gia\nhoạt động thương mại điện tử.\n\nChương VI\nGIẢI QUYẾT TRANH CHẤP, THANH TRA, KIỂM TRA\nVÀ XỬ LÝ VI PHẠM\n\nĐiều 76. Giải quyết tranh chấp trong thương mại điện tử"
+   }
+  },
+  {
+   "id": "VN-H100-A217",
+   "no": 217,
+   "noLabel": {
+    "vi": "1. Thương nhân, tổ chức, cá nhân sở hữu website thương mại điện tử bán hàng"
+   },
+   "text": {
+    "vi": "1. Thương nhân, tổ chức, cá nhân sở hữu website thương mại điện tử bán hàng\ncó trách nhiệm tiếp nhận và xử lý khiếu nại của khá ch hàng liên quan đến hợp\nđồng được giao kết trên website thương mại điện tử của mình."
+   }
+  },
+  {
+   "id": "VN-H100-A218",
+   "no": 218,
+   "noLabel": {
+    "vi": "2. Tranh chấp giữa thương nhân, tổ chức, cá nhân bá n hàng hóa và cung ứng"
+   },
+   "text": {
+    "vi": "2. Tranh chấp giữa thương nhân, tổ chức, cá nhân bá n hàng hóa và cung ứng\ndịch vụ với khách hàng trong quá trình thực hiện hợ p đồng phải được giải quyết\ntrên cơ sở các điều khoản của hợp đồng công bố tại website vào thời điểm giao kết\nhợp đồng và quy định của pháp luật có liên quan."
+   }
+  },
+  {
+   "id": "VN-H100-A219",
+   "no": 219,
+   "noLabel": {
+    "vi": "3. Thương nhân, tổ chức, cá nhân bán hàng hóa và cung ứng dịch vụ không được"
+   },
+   "text": {
+    "vi": "3. Thương nhân, tổ chức, cá nhân bán hàng hóa và cung ứng dịch vụ không được\nlợi dụng các ưu thế của mình trên môi trường điện tử để đơn phương giải quyết những\nvấn đề tranh chấp khi chưa có sự đồng ý của khách hàng."
+   }
+  },
+  {
+   "id": "VN-H100-A220",
+   "no": 220,
+   "noLabel": {
+    "vi": "4. Việc giải quyết tranh chấp phải thông qua thương lượng giữa các bên, hòa giải,"
+   },
+   "text": {
+    "vi": "4. Việc giải quyết tranh chấp phải thông qua thương lượng giữa các bên, hòa giải,\ntrọng tài hoặc tòa án theo các thủ tục, quy định hiện hành về giải quyết tranh chấp."
+   }
+  },
+  {
+   "id": "VN-H100-A221",
+   "no": 221,
+   "noLabel": {
+    "vi": "5. Giải quyết khiếu nại, tranh chấp trên website cu ng cấp dịch vụ thương mại"
+   },
+   "text": {
+    "vi": "5. Giải quyết khiếu nại, tranh chấp trên website cu ng cấp dịch vụ thương mại\nđiện tử:\na) Thương nhân, tổ chức cung cấp dịch vụ thương mại  điện tử phải công bố rõ\ntrên website quy trình tiếp nhận, trách nhiệm xử lý khiếu nại của khách hàng và cơ\nchế giải quyết tranh chấp liên quan đến hợp đồng đư ợc giao kết trên website\nthương mại điện tử của mình;\nCÔNG BÁO/Số 289 + 290/Ngày 29-05-2013 39\n\nb) Nếu thương nhân, tổ chức cung cấp dịch vụ thương  mại điện tử không công\nbố thông tin theo quy định tại Điểm a Khoản này thì  phải trực tiếp chịu trách\nnhiệm tiếp nhận, xử lý khiếu nại của khách hàng và giải quyết các tranh chấp liên\nquan đến hợp đồng được giao kết trên website thương mại điện tử của mình;\nc) Thương nhân, tổ chức cung cấp dịch vụ thương mại  điện tử được tham gia\nhòa giải tranh chấp phát sinh giữa khách hàng với n gười bán trên website thương\nmại điện tử của mình.\nĐiều 77. Thanh tra, kiểm tra trong thương mại điện tử"
+   }
+  },
+  {
+   "id": "VN-H100-A222",
+   "no": 222,
+   "noLabel": {
+    "vi": "1. Các thương nhân, tổ chức quy định tại Mục 3 Chươ ng IV Nghị định này"
+   },
+   "text": {
+    "vi": "1. Các thương nhân, tổ chức quy định tại Mục 3 Chươ ng IV Nghị định này\nchịu sự kiểm tra định kỳ hàng năm của Bộ Công Thươn g về việc tuân thủ các quy\nđịnh tại Nghị định này và những văn bản có liên quan. Kết quả kiểm tra được công\nbố trên Cổng thông tin Quản lý hoạt động thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A223",
+   "no": 223,
+   "noLabel": {
+    "vi": "2. Các thương nhân, tổ chức quy định tại Mục 1 và 2  Chương IV Nghị định"
+   },
+   "text": {
+    "vi": "2. Các thương nhân, tổ chức quy định tại Mục 1 và 2  Chương IV Nghị định\nnày chịu sự kiểm tra, thanh tra của Bộ Công Thương,  Sở Công Thương các tỉnh,\nthành phố theo quy định của pháp luật.\nĐiều 78. Xử lý vi phạm hành chính trong thương mại điện tử"
+   }
+  },
+  {
+   "id": "VN-H100-A224",
+   "no": 224,
+   "noLabel": {
+    "vi": "1. Thương nhân, tổ chức, cá nhân có hành vi vi phạm  sau đây thì tùy theo tính"
+   },
+   "text": {
+    "vi": "1. Thương nhân, tổ chức, cá nhân có hành vi vi phạm  sau đây thì tùy theo tính\nchất, mức độ vi phạm mà bị xử phạt vi phạm hành chí nh theo quy định của pháp\nluật về xử lý vi phạm hành chính trong lĩnh vực thương mại điện tử:\na) Vi phạm quy định về các hành vi bị cấm trong hoạt động thương mại điện tử\ntại Điều 4 Nghị định này;\nb) Vi phạm quy định về giao kết hợp đồng trong thương mại điện tử;\nc) Vi phạm quy định về trách nhiệm của các chủ thể trong thương mại điện tử;\nd) Vi phạm quy định về thông báo thiết lập website thương mại điện tử bán hàng;\nđ) Vi phạm quy định về đăng ký website cung cấp dịch vụ thương mại điện tử;\ne) Vi phạm quy định về hoạt động đánh giá và chứng thực trong thương mại\nđiện tử;\ng) Vi phạm quy định về bảo vệ thông tin cá nhân trong thương mại điện tử;\nh) Vi phạm quy định về an toàn thanh toán trong thương mại điện tử;\n(i) Không chấp hành các yêu cầu của cơ quan nhà nước  có thẩm quyền khi tiến\nhành thanh tra, kiểm tra theo quy định của pháp luật;\nk) Tiếp tục hoạt động sau khi thương nhân, tổ chức đã bị chấm dứt đăng ký\ncung cấp dịch vụ thương mại điện tử;\nl) Tiếp tục hoạt động sau khi đã chấm dứt hoặc bị h ủy bỏ đăng ký, chấm dứt\nhoặc bị thu hồi giấy phép hoạt động đánh giá, giám sát và chứng thực trong thương\nmại điện tử;\nm) Vi phạm các quy định khác của Nghị định này.\n40 CÔNG BÁO/Số 289 + 290/Ngày 29-05-2013"
+   }
+  },
+  {
+   "id": "VN-H100-A225",
+   "no": 225,
+   "noLabel": {
+    "vi": "2. Ngoài việc xử phạt vi phạm hành chính, cơ quan q uản lý xem xét tùy theo"
+   },
+   "text": {
+    "vi": "2. Ngoài việc xử phạt vi phạm hành chính, cơ quan q uản lý xem xét tùy theo\ntính chất, mức độ vi phạm của thương nhân, tổ chức để ra quyết định đình chỉ hoạt\nđộng, tước quyền sử dụng giấy phép hoặc hủy bỏ đăng  ký website cung cấp dịch\nvụ thương mại điện tử đối với các vi phạm quy định tại Khoản 1 Điều này."
+   }
+  },
+  {
+   "id": "VN-H100-A226",
+   "no": 226,
+   "noLabel": {
+    "vi": "3. Trường hợp thương nhân, tổ chức, cá nhân vi phạm  gây thiệt hại đến lợi ích"
+   },
+   "text": {
+    "vi": "3. Trường hợp thương nhân, tổ chức, cá nhân vi phạm  gây thiệt hại đến lợi ích\nvật chất của thương nhân, tổ chức, cá nhân khác thì  phải bồi thường theo quy định\ncủa pháp luật."
+   }
+  },
+  {
+   "id": "VN-H100-A227",
+   "no": 227,
+   "noLabel": {
+    "vi": "4. Nguyên tắc xử phạt, thời hiệu xử phạt, thủ tục x ử phạt vi phạm hành chính"
+   },
+   "text": {
+    "vi": "4. Nguyên tắc xử phạt, thời hiệu xử phạt, thủ tục x ử phạt vi phạm hành chính\ntrong hoạt động thương mại điện tử được thực hiện t heo quy định của Luật Xử lý\nvi phạm hành chính và các văn bản có liên quan."
+   }
+  },
+  {
+   "id": "VN-H100-A228",
+   "no": 228,
+   "noLabel": {
+    "vi": "5. Thanh tra Bộ Công Thương, Cơ quan quản lý thị trường, Thanh tra Sở Công"
+   },
+   "text": {
+    "vi": "5. Thanh tra Bộ Công Thương, Cơ quan quản lý thị trường, Thanh tra Sở Công\nThương các tỉnh, thành phố trực thuộc Trung ương và các cơ quan nhà nước khác có\nquyền xử phạt vi phạm hành chính trong hoạt động th ương mại điện tử theo thẩm\nquyền quy định tại Luật Xử lý vi phạm hành chính và các văn bản có liên quan.\n\nChương VII\nĐIỀU KHOẢN THI HÀNH\n\nĐiều 79. Hiệu lực thi hành"
+   }
+  },
+  {
+   "id": "VN-H100-A229",
+   "no": 229,
+   "noLabel": {
+    "vi": "1. Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2013."
+   },
+   "text": {
+    "vi": "1. Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2013."
+   }
+  },
+  {
+   "id": "VN-H100-A230",
+   "no": 230,
+   "noLabel": {
+    "vi": "2. Nghị định này thay thế Nghị định số 57/2006/NĐơCP ngày 09 tháng 6 năm 2006"
+   },
+   "text": {
+    "vi": "2. Nghị định này thay thế Nghị định số 57/2006/NĐơCP ngày 09 tháng 6 năm 2006\ncủa Chính phủ về thương mại điện tử."
+   }
+  },
+  {
+   "id": "VN-H100-A231",
+   "no": 231,
+   "noLabel": {
+    "vi": "3. Các website thương mại điện tử được thành lập và  hoạt động trước ngày"
+   },
+   "text": {
+    "vi": "3. Các website thương mại điện tử được thành lập và  hoạt động trước ngày\nNghị định này có hiệu lực phải tiến hành thông báo hoặc đăng ký theo quy định tại\nNghị định này trong vòng 90 (chín mươi) ngày kể từ ngày Nghị định có hiệu lực.\nĐiều 80. Trách nhiệm thi hành"
+   }
+  },
+  {
+   "id": "VN-H100-A232",
+   "no": 232,
+   "noLabel": {
+    "vi": "1. Bộ Công Thương chịu trách nhiệm hướng dẫn, kiểm tra việc thực hiện Nghị"
+   },
+   "text": {
+    "vi": "1. Bộ Công Thương chịu trách nhiệm hướng dẫn, kiểm tra việc thực hiện Nghị\nđịnh này"
+   }
+  },
+  {
+   "id": "VN-H100-A233",
+   "no": 233,
+   "noLabel": {
+    "vi": "2. Bộ trưởng, Thủ trưởng các cơ quan ngang Bộ, Thủ trưởng các cơ quan thuộc"
+   },
+   "text": {
+    "vi": "2. Bộ trưởng, Thủ trưởng các cơ quan ngang Bộ, Thủ trưởng các cơ quan thuộc\nChính phủ và Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương\nchịu trách nhiệm thi hành Nghị định này./.\n\nTM. CHÍNH PHỦ\nTHỦ TƯỚNG\n\nNguyễn Tấn Dũng"
+   }
+  }
+ ]
+}

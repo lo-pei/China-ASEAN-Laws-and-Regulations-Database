@@ -1,0 +1,1444 @@
+{
+ "id": "TL-H042",
+ "title": {
+  "zh": "检察院章程",
+  "en": null,
+  "orig": "Estatuto do Ministério Público"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "amended",
+ "promulgatedDate": "2005-09-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "据公报标题，本法经 Lei n.º 11/2011 修改；本库收录的是本法原始公布文本，修改后的合并本未另行收录。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 14/2005",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 88,
+ "chars": 48675,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2002_2005/leis_parlamento_nacional/14_2005.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 88 条；逐字取自官方公报 PDF（public/docs/2002_2005/leis_parlamento_nacional/14_2005.pdf）第 —–— 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 【据公报标题，本法经 《第11/2011号法律》 修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H042-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ESTRUTURA E FUNÇÕES"
+   },
+   "heading": {
+    "pt": "Definição"
+   },
+   "text": {
+    "pt": "O Ministério Público representa o Estado, exerce a acção penal, assegura a defesa dos menores, ausentes e incapazes, defende a legalidade democrática e promove o cumprimento da lei."
+   }
+  },
+  {
+   "id": "TL-H042-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ESTRUTURA E FUNÇÕES"
+   },
+   "heading": {
+    "pt": "Estatuto"
+   },
+   "text": {
+    "pt": "1. O Ministério Público constitui uma magistratura hierarquicamente organizada, subordinada ao Procurador-Geral da República.\n2. No exercício das suas funções, os agentes do Ministério Público estão sujeitos a critérios de legalidade, objectividade, isenção e obediência às directivas e ordens previstas na lei."
+   }
+  },
+  {
+   "id": "TL-H042-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ESTRUTURA E FUNÇÕES"
+   },
+   "heading": {
+    "pt": "Competência"
+   },
+   "text": {
+    "pt": "1.                  Compete, especialmente, ao Ministério Público:\na)      Representar e defender os interesses do Estado;\nb)      Assegurar a defesa dos incapazes, menores e ausentes;\nc)      Participar na execução da política criminal definida pelos órgãos de soberania;\nd)      Exercer a acção penal;\ne)      Promover a execução das decisões dos tribunais para que tenha legitimidade;\nf)        Dirigir a investigação criminal, ainda quando realizada por outras entidades;\ng)      Promover e realizar acções de prevenção criminal, nos termos da lei;\nh)      Requerer a fiscalização da constitucionalidade dos actos normativos, nos termos da lei;\n(i)        Fiscalizar a actividade processual dos órgãos de polícia criminal no decurso do inquérito;\nj)        Recorrer sempre que a decisão seja efeito de conluio das partes no sentido de defraudar a lei ou tenha sido proferida com violação de lei expressa;\nk)      Exercer as demais funções conferidas por lei.\n2.                  As competências referidas no número anterior incluem o poder de intervir e interpor recurso, nos casos previstos na lei.\n3.                  No exercício das suas funções, o Ministério Público é coadjuvado por instituições de investigação criminal da Polícia Nacional de Timor-Leste e por funcionários administrativos, podendo dispor de serviços de assessoria e consultadoria."
+   }
+  },
+  {
+   "id": "TL-H042-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II REGIME DE INTERVENÇÃO"
+   },
+   "heading": {
+    "pt": "Representação do Ministério Público"
+   },
+   "text": {
+    "pt": "1.         O Ministério Público é representado, nos tribunais, por agentes do Ministério Público.\n2.         Os agentes do Ministério Público fazem-se substituir nos termos previstos na lei e, na falta desta, de acordo com as orientações do Procurador-Geral da República."
+   }
+  },
+  {
+   "id": "TL-H042-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II REGIME DE INTERVENÇÃO"
+   },
+   "heading": {
+    "pt": "Intervenção"
+   },
+   "text": {
+    "pt": "1.                  O Ministério Público intervém nos processos quando representa o Estado ou os menores, ausentes e incapazes, bem como nos demais casos em que a lei lhe atribua competência para intervir.\n2.                  Em caso de representação do Estado, a intervenção cessa quando for constituído mandatário próprio ou nomeado defensor público.\n3.                  Em caso de representação de incapazes, menores ou ausentes, a intervenção cessa se os respectivos representantes legais a ela se opuserem, por requerimento no processo.\n4.                  A cessação da representação do Ministério Público não prejudica o dever de continuar a intervir acessoriamente, para garantir os interesses públicos e a defesa da legalidade, nos termos da Constituição."
+   }
+  },
+  {
+   "id": "TL-H042-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ÓRGÃOS E AGENTES"
+   },
+   "heading": {
+    "pt": "Órgãos"
+   },
+   "text": {
+    "pt": "São órgãos do Ministério Público:\na)         A Procuradoria-Geral da República;\nb)        As Procuradorias da República Distritais."
+   }
+  },
+  {
+   "id": "TL-H042-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ÓRGÃOS E AGENTES"
+   },
+   "heading": {
+    "pt": "Agentes do Ministério Público"
+   },
+   "text": {
+    "pt": "1.                  São agentes do Ministério Público:\na)      O Procurador-Geral da República;\nb)      Os Adjuntos do Procurador-Geral da República;\nc)      Os Procuradores da República Distritais;\nd)      Os Procuradores da República;\ne)      Os Procuradores da República estagiários;\nf)        Os representantes do Ministério Público.\n2.                  Os agentes do Ministério Público podem ser coadjuvados por assessores, nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H042-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV PROCURADORIA-GERAL DA REPÚBLICA / SECÇÃO I ESTRUTURA E COMPETÊNCIA"
+   },
+   "heading": {
+    "pt": "Estrutura"
+   },
+   "text": {
+    "pt": "1.                  A Procuradoria-Geral da República é o órgão superior do Ministério Público.\n2.                  A Procuradoria-Geral da República compreende o Procurador-Geral da República, os Adjuntos do Procurador-Geral da República, o Conselho Superior do Ministério Público e serviços de apoio técnico e administrativo."
+   }
+  },
+  {
+   "id": "TL-H042-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV PROCURADORIA-GERAL DA REPÚBLICA / SECÇÃO I ESTRUTURA E COMPETÊNCIA"
+   },
+   "heading": {
+    "pt": "Competência"
+   },
+   "text": {
+    "pt": "Compete à Procuradoria-Geral da República:\na)      Promover a defesa da legalidade democrática;\nb)      Nomear, colocar, transferir, promover, exonerar, apreciar o mérito profissional, exercer a acção disciplinar e praticar, em geral, todos os actos de idêntica natureza respeitantes aos magistrados do Ministério Público, com excepção do Procurador-Geral da República;\nc)      Coordenar, dirigir e fiscalizar a actividade do Ministério Público e emitir as directivas, ordens e instruções a que deva obedecer a actuação dos magistrados do Ministério Público no exercício das respectivas funções;\nd)      Pronunciar-se sobre a legalidade dos contratos em que o Estado seja interessado, quando o seu parecer for exigido por lei ou solicitado pelo Governo;\ne)      Propor ao Governo, através do Ministro da Justiça, providências legislativas com vista à eficiência do Ministério Público e ao aperfeiçoamento das instituições judiciárias;\nf)        Informar o Parlamento Nacional e, por intermédio do Ministro da Justiça, o Governo, acerca de quaisquer obscuridades, deficiências ou contradições dos textos legais;\ng)      Fiscalizar superiormente a actividade processual dos órgãos de polícia criminal;\nh)      Exercer as demais funções conferidas por lei."
+   }
+  },
+  {
+   "id": "TL-H042-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV PROCURADORIA-GERAL DA REPÚBLICA / SECÇÃO I ESTRUTURA E COMPETÊNCIA"
+   },
+   "heading": {
+    "pt": "Direcção"
+   },
+   "text": {
+    "pt": "A Procuradoria-Geral da República é dirigida pelo Procurador-Geral da República."
+   }
+  },
+  {
+   "id": "TL-H042-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV PROCURADORIA-GERAL DA REPÚBLICA / SECÇÃO II PROCURADOR-GERAL DA REPÚBLICA"
+   },
+   "heading": {
+    "pt": "Competência"
+   },
+   "text": {
+    "pt": "1.                  Compete ao Procurador-Geral da República:\na)         Dirigir a Procuradoria-Geral da República;\nb)        Representar o Ministério Público nos tribunais;\nc)         Requerer ao Supremo Tribunal de Justiça a declaração, com força obrigatória geral, da inconstitucionalidade ou ilegalidade de qualquer norma que haja sido julgada inconstitucional em três casos concretos;\nd)      Responder perante o Chefe do Estado e prestar informação anual ao Parlamento Nacional.\n2.                  Compete ainda ao Procurador-Geral da República:\na)      Promover a defesa da legalidade democrática;\nb)      Coordenar e fiscalizar a actividade do Ministério Público e emitir as directivas, ordens e instruções a que deva obedecer a actuação dos respectivos magistrados;\nc)      Convocar o Conselho Superior do Ministério Público e presidir às respectivas reuniões;\nd)      Informar o Governo, através do Ministro da Justiça, da necessidade de medidas legislativas tendentes a conferir exequibilidade aos preceitos constitucionais;\ne)      Dirigir e fiscalizar a actividade dos órgãos de polícia criminal no decurso do inquérito;\nf)        Inspeccionar ou mandar inspeccionar os serviços do Ministério Público e ordenar a instauração de inquéritos, sindicâncias e processos criminais ou disciplinares aos seus magistrados;\ng)      Propor ao Governo, através do Ministro da Justiça, providências legislativas com vista à eficiência do Ministério Público e ao aperfeiçoamento das instituições judiciárias ou a pôr termo a decisões divergentes dos tribunais ou dos órgãos da Administração Pública;\nh)      Dar parecer, nos contratos em que o Estado seja outorgante, quando a lei o exigir ou o Governo o solicitar;\n(i)           Superintender nos serviços de inspecção do Ministério Público;\nj)          Dar posse aos Procuradores da República Distritais e aos Procuradores da República;\nk)        Exercer, sobre os funcionários dos serviços de apoio técnico e administrativo da Procuradoria-Geral da República e dos serviços que funcionem na dependência desta, a competência que pertence aos ministros;\nl)        Exercer as demais funções que lhe sejam atribuídas por lei.\n3.                  O Procurador-Geral da República é apoiado, no exercício das suas funções, por um gabinete, cujos estatuto e organização são definidos em diploma próprio."
+   }
+  },
+  {
+   "id": "TL-H042-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV PROCURADORIA-GERAL DA REPÚBLICA / SECÇÃO II PROCURADOR-GERAL DA REPÚBLICA"
+   },
+   "heading": {
+    "pt": "Nomeação e exoneração"
+   },
+   "text": {
+    "pt": "1.                  O Procurador-Geral da República é nomeado e exonerado pelo Presidente da República, ouvido o Governo, de entre magistrados do Ministério Público, juízes de carreira ou juristas de reconhecido mérito.\n2.                  O mandato do Procurador-Geral da República tem a duração de quatro anos, renovável, uma só vez, por igual período, ouvido igualmente o Governo.\n3.                  A nomeação implica a suspensão do anterior cargo quando recaia em magistrado judicial ou do Ministério Público ou em funcionário público, mas não envolve perda de antiguidade e do direito à promoção no quadro de origem."
+   }
+  },
+  {
+   "id": "TL-H042-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV PROCURADORIA-GERAL DA REPÚBLICA / SECÇÃO II PROCURADOR-GERAL DA REPÚBLICA"
+   },
+   "heading": {
+    "pt": "Coadjuvação e substituição"
+   },
+   "text": {
+    "pt": "1.                  O Procurador-Geral da República é coadjuvado pelos Adjuntos do Procurador-Geral da República e substituído, na sua ausência, pelo Adjunto do Procurador-Geral da República mais antigo.\n2.                  O Procurador-Geral da República, mediante despacho, designa, bienalmente, as actividades que deverão ser coordenadas por cada um dos Adjuntos do Procurador-Geral da República."
+   }
+  },
+  {
+   "id": "TL-H042-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV PROCURADORIA-GERAL DA REPÚBLICA / SECÇÃO III ADJUNTOS DO PROCURADOR-GERAL DA REPÚBLICA"
+   },
+   "heading": {
+    "pt": "Nomeação e exoneração"
+   },
+   "text": {
+    "pt": "1.                  Os Adjuntos do Procurador-Geral da República são nomeados, demitidos e exonerados pelo Presidente da República, ouvido o Conselho Superior do Ministério Público.\n2.                  Os Adjuntos do Procurador-Geral da República são nomeados de entre Procuradores da República de categoria não inferior a 1.a classe, juízes de direito de categoria não inferior a 1.a classe ou juristas de reconhecido mérito com pelo menos 10 anos de experiência profissional, em comissão de serviço, por um período de três anos, renovável uma vez."
+   }
+  },
+  {
+   "id": "TL-H042-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV PROCURADORIA-GERAL DA REPÚBLICA / SECÇÃO III ADJUNTOS DO PROCURADOR-GERAL DA REPÚBLICA"
+   },
+   "heading": {
+    "pt": "Competência"
+   },
+   "text": {
+    "pt": "Os Adjuntos do Procurador-Geral da República dependem directamente do Procurador-Geral da República e são supervisionados por este no que respeita ao exercício das competências que lhes forem conferidas por despacho ou pela lei."
+   }
+  },
+  {
+   "id": "TL-H042-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV PROCURADORIA-GERAL DA REPÚBLICA / SECÇÃO IV CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO"
+   },
+   "heading": {
+    "pt": "Composição"
+   },
+   "text": {
+    "pt": "1.                  Compõem o Conselho Superior do Ministério Público:\na)       O Procurador-Geral da República, que preside;\nb)      Um vogal designado pelo Presidente da República;\nc)       Um vogal eleito pelo Parlamento Nacional;\nd)      Um vogal designado pelo Governo;\ne)       Um vogal eleito pelos magistrados do Ministério Público de entre os seus pares.\n2.                  Cada uma das entidades mencionadas no número anterior designa ou elege ainda um membro suplente, que substitui o membro efectivo nas suas ausências ou impedimentos.\n3.                  Os magistrados do Ministério Público não podem recusar o cargo de vogal do Conselho Superior do Ministério Público."
+   }
+  },
+  {
+   "id": "TL-H042-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV PROCURADORIA-GERAL DA REPÚBLICA / SECÇÃO IV CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO"
+   },
+   "heading": {
+    "pt": "Competência"
+   },
+   "text": {
+    "pt": "1. Compete ao Conselho Superior do Ministério Público:\na)      Nomear, colocar, transferir, promover, exonerar, apreciar o mérito profissional, exercer a acção disciplinar, aplicar penas disciplinares e, em geral, praticar todos os actos de idêntica natureza respeitantes aos magistrados do Ministério Público, com excepção do Procurador- Geral da República e dos Adjuntos do Procurador-Geral da República;\nb)      Apreciar o mérito profissional e exercer a acção disciplinar sobre os funcionários;\nc)      Aprovar o seu regulamento eleitoral, quanto ao vogal magistrado a eleger, e o regulamento interno da Procuradoria-Geral da República,\nd)      Apresentar ao Governo a proposta de orçamento da Procuradoria-Geral da República;\ne)      Deliberar e emitir directivas em matéria de organização interna e gestão de quadros;\nf)        Propor ao Procurador-Geral da República a emissão de directivas a que deva obedecer a actuação dos magistrados do Ministério Público;\ng)      Propor ao Governo, através do Ministro da Justiça e por intermédio do Procurador-Geral da República, providências legislativas com vista à eficiência do Ministério Público e ao aperfeiçoamento das instituições judiciárias;\nh)      Decidir as reclamações e recursos hierárquicos previstos na lei;\n(i)        Aprovar o plano anual de inspecções e determinar a realização de inspecções, inquéritos e sindicâncias;\nj)        Emitir parecer em matéria de organização judiciária e, em geral, de administração da justiça;\nk)      Exercer as demais funções que lhe sejam atribuídas por lei.\n2. O Conselho Superior do Ministério Público exerce também funções de gestão e disciplina sobre os funcionários que trabalhem nos serviços do Ministério Público, sem prejuízo das competências próprias do Procurador-Geral da República."
+   }
+  },
+  {
+   "id": "TL-H042-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV PROCURADORIA-GERAL DA REPÚBLICA / SECÇÃO IV CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO"
+   },
+   "heading": {
+    "pt": "Funcionamento"
+   },
+   "text": {
+    "pt": "1.                  O Conselho Superior do Ministério Público funciona em plenário e por intermédio de uma\nsecção disciplinar.\n2.                  O Conselho Superior do Ministério Público é convocado pelo seu Presidente ou a pedido de dois terços dos seus membros.\n3.                  As reuniões do Conselho Superior do Ministério Público têm lugar, ordinariamente, de três em três meses e, extraordinariamente, sempre que para tal for convocado.\n4.                  O Conselho Superior do Ministério Público funciona com a presença de dois terços dos seus membros e decide por maioria dos votos dos presentes.\n5.                  Os membros do Conselho Superior do Ministério Público que tiverem duas faltas injustificadas, seguidas ou interpoladas, perdem a qualidade de membros.\n6.                  Os membros do Conselho Superior do Ministério Público têm direito, pela sua participação nas reuniões, a senha de presença, cujo montante é fixado por despacho conjunto dos Ministros do Plano e das Finanças e da Justiça, quando não recebam vencimento do Estado."
+   }
+  },
+  {
+   "id": "TL-H042-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV PROCURADORIA-GERAL DA REPÚBLICA / SECÇÃO IV CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO"
+   },
+   "heading": {
+    "pt": "Recurso contencioso"
+   },
+   "text": {
+    "pt": "Das deliberações do Conselho Superior do Ministério Público cabe recurso para o Supremo Tribunal de Justiça, com efeito devolutivo."
+   }
+  },
+  {
+   "id": "TL-H042-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV PROCURADORIA-GERAL DA REPÚBLICA / SECÇÃO IV CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO"
+   },
+   "heading": {
+    "pt": "Serviços de inspecção"
+   },
+   "text": {
+    "pt": "1.                  Integrada no Conselho Superior do Ministério Público funciona a Inspecção do Ministério Público, composta por inspector ou inspectores nomeados por aquele de entre Procuradores da República de 1.a classe com classificação não inferior a “Muito Bom”.\n2.                  Compete à Inspecção do Ministério Público proceder, nos termos da lei, a inspecções, inquéritos e sindicâncias aos serviços do Ministério Público e à instrução de processos disciplinares, em conformidade com as deliberações do Conselho Superior do Ministério Público ou por iniciativa do Procurador-Geral da República.\n3.                  Complementarmente, os serviços de inspecção destinam-se a colher informações sobre o serviço e mérito dos magistrados e restantes funcionários do Ministério Público.\n4.                  A inspecção destinada a colher informações sobre o serviço e mérito dos magistrados e os inquéritos e processos disciplinares não podem ser conduzidos por inspectores de categoria ou antiguidade inferior à dos magistrados inspeccionados."
+   }
+  },
+  {
+   "id": "TL-H042-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV PROCURADORIA-GERAL DA REPÚBLICA / SECÇÃO V APOIO TÉCNICO E ADMINISTRATIVO DA PROCURADORIA-GERAL DA REPÚBLICA"
+   },
+   "heading": {
+    "pt": "Orgânica, quadro e estatuto"
+   },
+   "text": {
+    "pt": "A orgânica, o quadro e o estatuto dos serviços de apoio técnico e administrativo da Procuradoria-Geral da República são fixados por diploma próprio, ouvido o Conselho Superior do Ministério Público."
+   }
+  },
+  {
+   "id": "TL-H042-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PROCURADORIAS DA REPÚBLICA DISTRITAIS"
+   },
+   "heading": {
+    "pt": "Estrutura"
+   },
+   "text": {
+    "pt": "1.                  Na sede de cada distrito judicial existe uma Procuradoria da República Distrital.\n2.                  A Procuradoria da República Distrital é dirigida por um Procurador da República Distrital, que é responsável pela direcção, coordenação e fiscalização da actividade do Ministério Público no distrito judicial.\n3.                  O Procurador da República Distrital é nomeado, por períodos de três anos, pelo Conselho Superior do Ministério Público, de entre os Procuradores da República de 1.a classe, e substituído, nas suas faltas e impedimentos, pelo Procurador da República mais antigo da classe mais elevada."
+   }
+  },
+  {
+   "id": "TL-H042-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PROCURADORIAS DA REPÚBLICA DISTRITAIS"
+   },
+   "heading": {
+    "pt": "Competência"
+   },
+   "text": {
+    "pt": "Compete à Procuradoria da República Distrital:\na)         Promover a defesa da legalidade democrática;\nb)        Coordenar, dirigir e fiscalizar a actividade do Ministério Público no distrito judicial e emitir as ordens e instruções a que deva obedecer a actuação dos magistrados no exercício das suas funções;\nc)         Propor ao Procurador-Geral da República a adopção de directivas tendentes a uniformizar a acção do Ministério Público;\nd)        Coordenar e fiscalizar a actividade dos órgãos de polícia criminal no decurso do inquérito;\ne)         Fiscalizar a observância da lei na execução das penas e das medidas de segurança e no cumprimento de quaisquer medidas de internamento ou tratamento compulsivo, requisitando os esclarecimentos e propondo as inspecções que se mostrarem necessárias;\nf)          Realizar, em articulação com os órgãos de polícia criminal, estudos sobre factores e tendências de evolução da criminalidade;\ng)         Elaborar o relatório anual de actividades e os relatórios de progresso que se mostrarem necessários ou forem superiormente determinados;\nh)         Realizar qualquer outra tarefa que lhe seja atribuída pelo Procurador-Geral da República no âmbito das suas competências;\n(i)           Exercer as demais funções conferidas por lei."
+   }
+  },
+  {
+   "id": "TL-H042-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PROCURADORIAS DA REPÚBLICA DISTRITAIS"
+   },
+   "heading": {
+    "pt": "Estatuto e competência"
+   },
+   "text": {
+    "pt": "1.                  Na sede dos distritos judiciais, para além do Procurador da República Distrital, podem existir Procuradores da República, Procuradores da República Estagiários e representantes do Ministério Público.\n2.                  Compete aos agentes do Ministério Público, nos tribunais distritais:\na)         Representar o Ministério Público;\nb)        Exercer as funções do Ministério Público e manter informado o respectivo Procurador da República Distrital;\nc)      Praticar os actos processuais para que a lei lhes atribua competência;\nd)        Definir formas de articulação com os órgãos de polícia e investigação criminal e serviços prisionais e de reinserção social;\ne)         Exercer as demais funções conferidas por lei."
+   }
+  },
+  {
+   "id": "TL-H042-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PROCURADORIAS DA REPÚBLICA DISTRITAIS"
+   },
+   "heading": {
+    "pt": "Representação nos processos"
+   },
+   "text": {
+    "pt": "1.                  Sem prejuízo do disposto no artigo anterior, o Procurador-Geral da República pode nomear qualquer magistrado do Ministério Público para coadjuvar ou substituir o magistrado a quem o processo esteja distribuído sempre que razões ponderosas de complexidade processual ou de repercussão social o justifiquem.\n2.                  Se houver urgência e a substituição não puder ser feita pela forma indicada no número anterior, o juiz do processo nomeia para o caso pessoa idónea, de preferência habilitada com licenciatura em Direito."
+   }
+  },
+  {
+   "id": "TL-H042-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PROCURADORIAS DA REPÚBLICA DISTRITAIS"
+   },
+   "heading": {
+    "pt": "Representação especial"
+   },
+   "text": {
+    "pt": "1.                  Em caso de conflito entre entidades, pessoas ou interesses que o Ministério Público deva representar, o Procurador-Geral da República solicita ao juiz competente a nomeação de um defensor público para representar cada uma das partes.\n2.                  A apresentação do pedido de nomeação do defensor interrompe a contagem dos prazos processuais em curso, reiniciando-se esta após a nomeação ser efectuada."
+   }
+  },
+  {
+   "id": "TL-H042-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PROCURADORIAS DA REPÚBLICA DISTRITAIS"
+   },
+   "heading": {
+    "pt": "Procurador da República estagiário e representante do Ministério Público"
+   },
+   "text": {
+    "pt": "1.                  O Conselho Superior do Ministério Público pode nomear para exercer funções de agente do Ministério Público, como Procuradores da República estagiários, os estagiários do estágio de formação para o acesso à carreira do Ministério Público que revelem ter a preparação necessário para o efeito.\n2.                  Os Procuradores da República estagiários exercem funções de agentes do Ministério Público até ao termo da duração do estágio, salvo deliberação em contrário do Conselho Superior do Ministério Público.\n3.                  Em caso de necessidade, o Conselho Superior do Ministério Público pode nomear licenciados em Direito para exercer temporariamente funções de agente do Ministério Público, como representantes do Ministério Público, por períodos de seis meses, renováveis até ao máximo de três."
+   }
+  },
+  {
+   "id": "TL-H042-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI MAGISTRATURA DO MINISTÉRIO PÚBLICO"
+   },
+   "heading": {
+    "pt": "Âmbito"
+   },
+   "text": {
+    "pt": "Os magistrados do Ministério Público estão sujeitos às disposições da presente lei, qualquer que seja a situação em que se encontrem."
+   }
+  },
+  {
+   "id": "TL-H042-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI MAGISTRATURA DO MINISTÉRIO PÚBLICO"
+   },
+   "heading": {
+    "pt": "Relação entre Ministério Público e magistratura judicial"
+   },
+   "text": {
+    "pt": "1.                  A magistratura do Ministério Público é independente da magistratura judicial.\n2.                  Nas audiências e actos oficiais a que presidam magistrados judiciais, os do Ministério Público que sirvam junto do mesmo tribunal tomam lugar à sua direita."
+   }
+  },
+  {
+   "id": "TL-H042-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI MAGISTRATURA DO MINISTÉRIO PÚBLICO"
+   },
+   "heading": {
+    "pt": "Hierarquia e responsabilidade"
+   },
+   "text": {
+    "pt": "1.                  Os magistrados do Ministério Público são hierarquicamente subordinados e responsáveis individualmente, nos termos da lei.\n2.                  A responsabilidade dos magistrados do Ministério Público consiste em responderem, nos termos da lei, pelo cumprimento dos seus deveres e pela observância das directivas, ordens e instruções que receberem.\n3.                  A hierarquia consiste na subordinação dos magistrados aos de grau superior, nos termos da presente lei, e na consequente obrigação de cumprirem as directivas, ordens e instruções recebidas, sem prejuízo do disposto no artigo 33.º."
+   }
+  },
+  {
+   "id": "TL-H042-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI MAGISTRATURA DO MINISTÉRIO PÚBLICO"
+   },
+   "heading": {
+    "pt": "Efectivação da responsabilidade"
+   },
+   "text": {
+    "pt": "Fora dos casos em que a falta constitua crime, a responsabilidade civil apenas pode ser efectivada mediante acção de regresso do Estado."
+   }
+  },
+  {
+   "id": "TL-H042-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI MAGISTRATURA DO MINISTÉRIO PÚBLICO"
+   },
+   "heading": {
+    "pt": "Inamovibilidade"
+   },
+   "text": {
+    "pt": "Os magistrados do Ministério Público não podem ser transferidos, suspensos, promovidos, aposentados, demitidos ou, por qualquer forma, mudados de situação senão nos casos previstos na presente lei."
+   }
+  },
+  {
+   "id": "TL-H042-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI MAGISTRATURA DO MINISTÉRIO PÚBLICO"
+   },
+   "heading": {
+    "pt": "Limite aos poderes directivos"
+   },
+   "text": {
+    "pt": "1.                  Os magistrados do Ministério Público podem solicitar ao superior hierárquico que a ordem ou instrução seja emitida por escrito, devendo sempre sê-lo por esta forma quando se destine a produzir efeitos em processo determinado.\n2.                  Os magistrados do Ministério Público devem recusar o cumprimento das directivas, ordens e instruções ilegais e podem recusar o seu cumprimento com fundamento em grave violação da sua consciência jurídica.\n3.                  A recusa faz-se por escrito, com apresentação das razões invocadas.\n4.                  No caso previsto nos números anteriores, o magistrado que tiver emitido a directiva, ordem ou instrução pode avocar o procedimento ou distribuí-lo a outro magistrado.\n5.                  Não podem ser objecto de recusa:\na)      As decisões proferidas por via hierárquica nos termos das leis de processo;\nb)      As directivas, ordens e instruções emitidas pelo Procurador-Geral da República, salvo com fundamento em ilegalidade.\n6.                  O exercício injustificado da faculdade de recusa constitui falta disciplinar."
+   }
+  },
+  {
+   "id": "TL-H042-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI MAGISTRATURA DO MINISTÉRIO PÚBLICO"
+   },
+   "heading": {
+    "pt": "Instruções do Governo ao Ministério Público"
+   },
+   "text": {
+    "pt": "Compete ao Governo, através do Ministro da Justiça:\na)      Transmitir, por intermédio do Procurador-Geral da República, instruções de ordem específica nas acções cíveis e nos procedimentos tendentes à composição extrajudicial de conflitos em que o Estado seja interessado;\nb)      Autorizar o Ministério Público, ouvido o departamento governamental de tutela, a confessar, transigir ou desistir nas acções cíveis em que o Estado seja parte;\nc)      Solicitar ao Procurador-Geral da República relatórios e informações de serviço do Ministério Público com relevância para a definição da política judiciária;\nd)      Solicitar ao Conselho Superior do Ministério Público, através do seu representante, informações e esclarecimentos e fazer perante ele as comunicações que entender convenientes;\ne)      Solicitar ao Procurador-Geral da República a realização de inspecções e inquéritos, designadamente aos órgãos de polícia criminal."
+   }
+  },
+  {
+   "id": "TL-H042-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII INCOMPATIBILIDADES, DEVERES E DIREITOS DOS MAGISTRADOS"
+   },
+   "heading": {
+    "pt": "Incompatibilidades"
+   },
+   "text": {
+    "pt": "1.                  É incompatível com o desempenho do cargo de magistrado do Ministério Público o exercício de qualquer outra função pública ou privada de índole profissional, salvo funções docentes ou de investigação científica de natureza jurídica ou funções directivas em organizações representativas da magistratura do Ministério Público.\n2.                  O exercício de funções docentes ou de investigação científica de natureza jurídica pode ser autorizado, desde que não remunerado e sem prejuízo para o serviço.\n3.                  São consideradas funções de Ministério Público as de magistrado vogal a tempo inteiro do Conselho Superior do Ministério Público, de magistrado membro do gabinete do Procurador-Geral da República, de direcção ou docência no Centro de Formação Jurídica e de responsável, no âmbito do Ministério da Justiça, pela preparação e revisão de diplomas legais."
+   }
+  },
+  {
+   "id": "TL-H042-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII INCOMPATIBILIDADES, DEVERES E DIREITOS DOS MAGISTRADOS"
+   },
+   "heading": {
+    "pt": "Actividades político-partidárias"
+   },
+   "text": {
+    "pt": "1.                  É vedado aos magistrados do Ministério Público em efectividade de serviço o exercício de actividades político-partidárias de carácter público.\n2.                  Os magistrados do Ministério Público que pretendam ocupar cargos políticos, com excepção dos de Presidente da República e membro do Governo, devem requerer previamente a licença prevista no artigo 55.º do Estatuto da Função Pública, aprovado pela Lei n.º 8/2004, de 16 de Junho.\n3.                  Os magistrados do Ministério Público que suspendam as suas funções para exercer actividades excepcionadas no número anterior não podem ser prejudicados na sua carreira, contando todo o tempo como se o fosse em efectividade de serviço."
+   }
+  },
+  {
+   "id": "TL-H042-A37",
+   "no": 37,
+   "noLabel": {
+    "pt": "Artigo 37.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII INCOMPATIBILIDADES, DEVERES E DIREITOS DOS MAGISTRADOS"
+   },
+   "heading": {
+    "pt": "Impedimentos"
+   },
+   "text": {
+    "pt": "1.                  Os magistrados do Ministério Público não podem servir em tribunal ou juízo em que exerçam funções magistrados judiciais ou do Ministério Público ou funcionários de justiça a que estejam ligados por casamento ou união de facto, parentesco ou afinidade em qualquer grau da linha recta ou até ao 2.º grau da linha colateral.\n2.                  Os magistrados do Ministério Público não podem actuar em processos em que tenham de alguma forma intervindo como advogados.\n3.                  O Procurador-Geral da República e os outros magistrados do Ministério Público que integrem o respectivo Conselho Superior não podem participar nas decisões deste órgão sempre que estas lhes possam dizer directamente respeito."
+   }
+  },
+  {
+   "id": "TL-H042-A38",
+   "no": 38,
+   "noLabel": {
+    "pt": "Artigo 38.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII INCOMPATIBILIDADES, DEVERES E DIREITOS DOS MAGISTRADOS"
+   },
+   "heading": {
+    "pt": "Dever de reserva"
+   },
+   "text": {
+    "pt": "1.                  Os magistrados do Ministério Público não podem fazer declarações ou comentários sobre processos, salvo, quando superiormente autorizados, para defesa da honra ou para a realização de outro interesse legítimo.\n2.                  Não são abrangidas pelo dever de reserva as informações que, em matéria não coberta pelo segredo de justiça ou pelo sigilo profissional, visem a realização de direitos ou interesses legítimos, nomeadamente o do acesso à informação."
+   }
+  },
+  {
+   "id": "TL-H042-A39",
+   "no": 39,
+   "noLabel": {
+    "pt": "Artigo 39.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII INCOMPATIBILIDADES, DEVERES E DIREITOS DOS MAGISTRADOS"
+   },
+   "heading": {
+    "pt": "Domicílio necessário"
+   },
+   "text": {
+    "pt": "1.                  Os magistrados do Ministério Público não podem residir fora da sede da área onde se situa o tribunal em que exercem funções, salvo nos casos devidamente fundamentados e previamente autorizados pelo Conselho Superior do Ministério Público e desde que situados na área da circunscrição a que pertence o referido tribunal.\n2.                  Exceptuam-se do número anterior as ausências em exercício de funções, por motivo de férias, fins-de-semana e feriados e em caso urgente que não permita obter prévia autorização.\n3.                  No último caso previsto no número anterior, o magistrado deve comunicar e justificar a ausência ao Conselho Superior do Ministério Público o mais rapidamente possível.\n4.                  A ausência nos fins-de-semana e feriados não pode prejudicar a realização do serviço urgente.\n5.                  A ausência ilegítima acarreta, além de responsabilidade disciplinar, a perda do vencimento devido durante o período em que se tenha verificado.\n6.                  Em caso de ausência, o magistrado deve indicar o local onde pode ser encontrado."
+   }
+  },
+  {
+   "id": "TL-H042-A40",
+   "no": 40,
+   "noLabel": {
+    "pt": "Artigo 40.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII INCOMPATIBILIDADES, DEVERES E DIREITOS DOS MAGISTRADOS"
+   },
+   "heading": {
+    "pt": "Dispensa do serviço"
+   },
+   "text": {
+    "pt": "Não existindo inconveniente para o serviço, o Procurador-Geral da República ou o Adjunto do Procurador-Geral da República, por delegação daquele, pode conceder aos magistrados do Ministério Público dispensa do serviço para participação em congressos, simpósios, cursos, seminários, reuniões ou outras realizações que tenham lugar no país ou no estrangeiro, conexas com a sua actividade profissional."
+   }
+  },
+  {
+   "id": "TL-H042-A41",
+   "no": 41,
+   "noLabel": {
+    "pt": "Artigo 41.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII INCOMPATIBILIDADES, DEVERES E DIREITOS DOS MAGISTRADOS"
+   },
+   "heading": {
+    "pt": "Medidas privativas da liberdade"
+   },
+   "text": {
+    "pt": "1. Os magistrados do Ministério Público não podem ser presos ou detidos antes de ser proferido despacho que designe dia para julgamento relativamente a acusação contra si deduzida, salvo em flagrante delito por crime punível com pena de prisão superior a dois anos.\n2. Em caso de detenção ou prisão, o magistrado é imediatamente apresentado ao juiz competente.\n3. O cumprimento de prisão preventiva e de pena privativa da liberdade por magistrados do Ministério Público faz-se em regime de separação dos restantes detidos ou presos.\n4. Havendo necessidade de busca no domicílio pessoal ou profissional de magistrado do Ministério Público, esta é presidida, sob pena de nulidade, pelo juiz competente, com informação prévia ao Conselho Superior do Ministério Público, a fim de que um membro designado por este órgão possa estar presente."
+   }
+  },
+  {
+   "id": "TL-H042-A42",
+   "no": 42,
+   "noLabel": {
+    "pt": "Artigo 42.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII INCOMPATIBILIDADES, DEVERES E DIREITOS DOS MAGISTRADOS"
+   },
+   "heading": {
+    "pt": "Foro especial"
+   },
+   "text": {
+    "pt": "1. O inquérito com vista a apurar a responsabilidade criminal de agente do Ministério Público é conduzido por magistrado judicial nomeado pelo Presidente do Conselho Superior da Magistratura Judicial.\n2. No inquérito, acusação e julgamento dos agentes do Ministério Público por infracção penal deve intervir juiz ou juízes de categoria superior à daquele.\n3. O inquérito, acusação e julgamento do Procurador-Geral da República e dos Adjuntos do Procurador-Geral da República deve ser feito por juiz ou juízes do Supremo Tribunal de Justiça.\n4. O Presidente do Conselho Superior do Ministério Público ou seu substituto solicita ao Presidente do Conselho Superior da Magistratura Judicial a indicação do juiz ou juízes necessários para os efeitos do disposto nos números anteriores."
+   }
+  },
+  {
+   "id": "TL-H042-A43",
+   "no": 43,
+   "noLabel": {
+    "pt": "Artigo 43.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII INCOMPATIBILIDADES, DEVERES E DIREITOS DOS MAGISTRADOS"
+   },
+   "heading": {
+    "pt": "Exercício da advocacia"
+   },
+   "text": {
+    "pt": "Os magistrados do Ministério Público podem advogar em causa própria, do seu cônjuge ou situação idêntica resultante de união de facto ou de descendente ou ascendente."
+   }
+  },
+  {
+   "id": "TL-H042-A44",
+   "no": 44,
+   "noLabel": {
+    "pt": "Artigo 44.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII INCOMPATIBILIDADES, DEVERES E DIREITOS DOS MAGISTRADOS"
+   },
+   "heading": {
+    "pt": "Relações entre magistrados"
+   },
+   "text": {
+    "pt": "Os magistrados do Ministério Público guardam entre si precedência segundo a categoria, preferindo a antiguidade em caso de igual categoria."
+   }
+  },
+  {
+   "id": "TL-H042-A45",
+   "no": 45,
+   "noLabel": {
+    "pt": "Artigo 45.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII INCOMPATIBILIDADES, DEVERES E DIREITOS DOS MAGISTRADOS"
+   },
+   "heading": {
+    "pt": "Remuneração"
+   },
+   "text": {
+    "pt": "Sem prejuízo do disposto no artigo 47.o, o regime remuneratório dos magistrados do Ministério Público é fixado em diploma legal, tendo em conta a especificidade da função judicial, a categoria e o tempo de serviço prestado pelo magistrado."
+   }
+  },
+  {
+   "id": "TL-H042-A46",
+   "no": 46,
+   "noLabel": {
+    "pt": "Artigo 46.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII INCOMPATIBILIDADES, DEVERES E DIREITOS DOS MAGISTRADOS"
+   },
+   "heading": {
+    "pt": "Colocações e transferências"
+   },
+   "text": {
+    "pt": "1.                  A colocação e transferência de magistrados do Ministério Público deve fazer-se com prevalência das necessidades de serviço e o mínimo prejuízo para a vida pessoal e familiar dos interessados.\n2.                  Sem prejuízo do disposto no número anterior, são determinantes nas colocações a classificação de serviço e a antiguidade, por ordem decrescente de preferência.\n3.                  Os magistrados do Ministério Público não podem ser transferidos, sem o seu acordo, antes de passarem dois anos de exercício de funções no tribunal em que estejam colocados, salvo em virtude de promoção ou por motivos disciplinares.\n4.                  Os magistrados do Ministério Público que estejam colocados num determinado tribunal distrital a seu pedido não podem pedir a sua transferência para outro tribunal sem que tenham decorrido cinco anos de exercício no cargo."
+   }
+  },
+  {
+   "id": "TL-H042-A47",
+   "no": 47,
+   "noLabel": {
+    "pt": "Artigo 47.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII INCOMPATIBILIDADES, DEVERES E DIREITOS DOS MAGISTRADOS"
+   },
+   "heading": {
+    "pt": "Ajudas de custo"
+   },
+   "text": {
+    "pt": "São devidas ajudas de custo sempre que o magistrado se desloque, em serviço, para fora do distrito onde se encontra sediado o respectivo tribunal ou serviço."
+   }
+  },
+  {
+   "id": "TL-H042-A48",
+   "no": 48,
+   "noLabel": {
+    "pt": "Artigo 48.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII INCOMPATIBILIDADES, DEVERES E DIREITOS DOS MAGISTRADOS"
+   },
+   "heading": {
+    "pt": "Férias e licenças"
+   },
+   "text": {
+    "pt": "1.                  Os magistrados do Ministério Público gozam as suas férias durante o período de férias judiciais, sem prejuízo dos turnos a que se encontrem sujeitos, bem como do serviço que haja de ter lugar em férias nos termos da lei.\n2.                  O Conselho Superior do Ministério Público pode autorizar, a título excepcional, que os magistrados do Ministério Público gozem férias fora do período estipulado no número anterior.\n3.                  O gozo de férias e o local para onde o magistrado se desloque devem ser sempre comunicados ao Conselho Superior do Ministério Público."
+   }
+  },
+  {
+   "id": "TL-H042-A49",
+   "no": 49,
+   "noLabel": {
+    "pt": "Artigo 49.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII INCOMPATIBILIDADES, DEVERES E DIREITOS DOS MAGISTRADOS"
+   },
+   "heading": {
+    "pt": "Turnos de férias, serviço urgente e substituição"
+   },
+   "text": {
+    "pt": "O Procurador-Geral da República organiza turnos durante as férias judiciais ou quando as circunstâncias o justifiquem para assegurar o serviço urgente, nos termos previstos na lei."
+   }
+  },
+  {
+   "id": "TL-H042-A50",
+   "no": 50,
+   "noLabel": {
+    "pt": "Artigo 50.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII INCOMPATIBILIDADES, DEVERES E DIREITOS DOS MAGISTRADOS"
+   },
+   "heading": {
+    "pt": "Direitos do Procurador-Geral da República"
+   },
+   "text": {
+    "pt": "Para além do previsto no artigo seguinte, o Procurador-Geral da República tem direito a:\na)       Viatura;\nb)      Passaporte diplomático para si e para o seu cônjuge;\nc)       Direito a uso, porte e manifesto gratuito de arma de defesa pessoal e aquisição das respectivas munições;\nd)      Subsídio de representação, compatível com o cargo."
+   }
+  },
+  {
+   "id": "TL-H042-A51",
+   "no": 51,
+   "noLabel": {
+    "pt": "Artigo 51.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII INCOMPATIBILIDADES, DEVERES E DIREITOS DOS MAGISTRADOS"
+   },
+   "heading": {
+    "pt": "Direitos e regalias"
+   },
+   "text": {
+    "pt": "1.      Os magistrados do Ministério Público em efectividade de funções gozam das seguintes regalias:\na)       Tratamento com a deferência que a função exige;\nb)      Foro especial em causas criminais em que sejam arguidos e nas acções de responsabilidade civil por factos praticados no exercício das suas funções ou por causa delas;\nc)       Cartão especial de identificação, de modelo a ser aprovado pelo Conselho Superior do Ministério Público;\nd)      Protecção especial para a sua pessoa, cônjuge, descendentes e bens, sempre que ponderosas razões de segurança o exijam;\ne)       Entrada e livre-trânsito em todos os locais públicos, mediante simples exibição de cartão de identidade próprio;\nf)        Quaisquer outros direitos consagrados na lei.\n2.                  Os magistrados do Ministério Público que não se encontrem em efectividade de funções têm os direitos consagrados nas alíneas a), b) e c) do número anterior."
+   }
+  },
+  {
+   "id": "TL-H042-A52",
+   "no": 52,
+   "noLabel": {
+    "pt": "Artigo 52.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII AVALIAÇÃO"
+   },
+   "heading": {
+    "pt": "Classificação dos magistrados do Ministério Público"
+   },
+   "text": {
+    "pt": "Os magistrados do Ministério Público são classificados pelo Conselho Superior do Ministério Público, de acordo com o seu mérito, com “Muito Bom”, “Bom”, “Suficiente” e “Medíocre”."
+   }
+  },
+  {
+   "id": "TL-H042-A53",
+   "no": 53,
+   "noLabel": {
+    "pt": "Artigo 53.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII AVALIAÇÃO"
+   },
+   "heading": {
+    "pt": "Critérios e efeitos da classificação"
+   },
+   "text": {
+    "pt": "1.                  A classificação deve atender ao modo como os magistrados desempenham a função, ao volume e dificuldades do serviço a seu cargo, às condições do trabalho prestado e à sua preparação técnica, categoria intelectual, trabalhos jurídicos publicados e idoneidade cívica.\n2.                  A classificação de “Medíocre” implica a suspensão do exercício de funções e a instauração de inquérito por inaptidão para esse exercício.\n3.                  Os magistrados do Ministério Público são classificados pelo menos de três em três anos."
+   }
+  },
+  {
+   "id": "TL-H042-A54",
+   "no": 54,
+   "noLabel": {
+    "pt": "Artigo 54.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX RECRUTAMENTO E ACESSO"
+   },
+   "text": {
+    "pt": "Requisitos de ingresso São requisitos de ingresso na carreira da magistratura do Ministério Público:\na) Estar no pleno gozo dos direitos civis e políticos;\nb) Possuir licenciatura em Direito;\nc) Ter frequentado, com aproveitamento, os cursos e estágios de formação previstos na presente lei ou em diploma específico;\nd) Possuir conhecimentos escritos e falados das duas línguas oficiais de Timor-Leste;\ne) Cumprir os demais requisitos previstos no Estatuto da Função Pública, aprovado pela Lei n.o 8/2004, de 16 de Junho."
+   }
+  },
+  {
+   "id": "TL-H042-A55",
+   "no": 55,
+   "noLabel": {
+    "pt": "Artigo 55.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX RECRUTAMENTO E ACESSO"
+   },
+   "text": {
+    "pt": "Agentes do Ministério Público que não são de carreira Os Procuradores da República estagiários e os representantes do Ministério Público não integram a carreira do Ministério Público, mas estão sujeitos às normas da presente lei, com as devidas adaptações."
+   }
+  },
+  {
+   "id": "TL-H042-A56",
+   "no": 56,
+   "noLabel": {
+    "pt": "Artigo 56.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX RECRUTAMENTO E ACESSO"
+   },
+   "heading": {
+    "pt": "Acesso"
+   },
+   "text": {
+    "pt": "1.                  A carreira da magistratura do Ministério Público integra as seguintes categorias:\na) Procurador da República de 3.a Classe;\nb) Procurador da República de 2.a Classe;\nc) Procurador da República de 1.a Classe.\n2.                  A carreira da magistratura do Ministério Público inicia-se na categoria de Procurador da República de 3.a classe.\n3.                  A promoção à categoria de Procurador da República de 2.ª Classe faz-se de entre Procuradores da República de 3.ª Classe com o mínimo de três anos de serviço e classificação mínima de “Muito Bom”.\n4.                  A promoção à categoria de Procurador da República de 1.ª Classe faz-se de entre Procuradores da República de 2.ª Classe com o mínimo de três anos de serviço e classificação mínima de “Muito Bom”.\n5.                  A promoção à classe seguinte é sempre condicionada à existência de vaga."
+   }
+  },
+  {
+   "id": "TL-H042-A57",
+   "no": 57,
+   "noLabel": {
+    "pt": "Artigo 57.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX RECRUTAMENTO E ACESSO"
+   },
+   "heading": {
+    "pt": "Primeira nomeação"
+   },
+   "text": {
+    "pt": "1.                  A primeira nomeação para a carreira da magistratura do Ministério Público faz-se na categoria de Procurador da República de 3.a Classe.\n1.2. Os Procuradores da República, na primeira nomeação, não podem recusar a colocação na procuradoria que lhes couber, segundo a ordem de graduação obtida no curso e estágio de ingresso.\n1."
+   }
+  },
+  {
+   "id": "TL-H042-A58",
+   "no": 58,
+   "noLabel": {
+    "pt": "Artigo 58.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX RECRUTAMENTO E ACESSO"
+   },
+   "heading": {
+    "pt": "Posse"
+   },
+   "text": {
+    "pt": "Os magistrados do Ministério Público tomam posse da seguinte forma:\na)       O Procurador-Geral da República perante o Presidente da República;\nb)      Os demais magistrados do Ministério Público perante o Procurador-Geral da República."
+   }
+  },
+  {
+   "id": "TL-H042-A59",
+   "no": 59,
+   "noLabel": {
+    "pt": "Artigo 59.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX RECRUTAMENTO E ACESSO"
+   },
+   "heading": {
+    "pt": "Juramento"
+   },
+   "text": {
+    "pt": "No acto de tomada de posse os magistrados do Ministério Público prestam o seguinte juramento:\n“Eu, (nome) (em alternativa: juro por Deus / juro por minha honra), respeitar e aplicar fielmente a Constituição da República e as demais leis em vigor, defender a legalidade democrática e promover o cumprimento da lei com independência e objectividade”."
+   }
+  },
+  {
+   "id": "TL-H042-A60",
+   "no": 60,
+   "noLabel": {
+    "pt": "Artigo 60.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX RECRUTAMENTO E ACESSO"
+   },
+   "heading": {
+    "pt": "Falta ao acto de posse"
+   },
+   "text": {
+    "pt": "1.                  A falta, não justificada dentro do prazo, à tomada de posse, quando se trate da primeira nomeação, importa, sem dependência de qualquer formalidade, a anulação da nomeação e inabilita o faltoso a ser nomeado para o mesmo cargo nos dois anos seguintes.\n2.                  Nos demais casos a falta injustificada é equiparada ao abandono do lugar.\n3.                  A justificação da falta deve ser requerida no prazo de cinco dias a contar da data da falta, apresentando-se, na mesma altura, a prova respectiva."
+   }
+  },
+  {
+   "id": "TL-H042-A61",
+   "no": 61,
+   "noLabel": {
+    "pt": "Artigo 61.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO X APOSENTAÇÃO, CESSAÇÃO E SUSPENSÃO DE FUNÇÕES"
+   },
+   "heading": {
+    "pt": "Aposentação"
+   },
+   "text": {
+    "pt": "À aposentação dos magistrados do Ministério Público aplicam-se os princípios e as regras legalmente estabelecidas para a função pública."
+   }
+  },
+  {
+   "id": "TL-H042-A62",
+   "no": 62,
+   "noLabel": {
+    "pt": "Artigo 62.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO X APOSENTAÇÃO, CESSAÇÃO E SUSPENSÃO DE FUNÇÕES"
+   },
+   "heading": {
+    "pt": "Jubilação"
+   },
+   "text": {
+    "pt": "1.                  Os magistrados do Ministério Público são considerados jubilados quando a aposentação tenha lugar por motivo não disciplinar.\n2.                  Os magistrados do Ministério Público jubilados gozam dos títulos, honras e imunidades correspondentes à sua categoria."
+   }
+  },
+  {
+   "id": "TL-H042-A63",
+   "no": 63,
+   "noLabel": {
+    "pt": "Artigo 63.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO X APOSENTAÇÃO, CESSAÇÃO E SUSPENSÃO DE FUNÇÕES"
+   },
+   "heading": {
+    "pt": "Contagem do tempo de serviço"
+   },
+   "text": {
+    "pt": "1.      O tempo de serviço prestado ao Estado antes do ingresso na carreira da magistratura do Ministério Público conta para efeitos de aposentação.\n2.      A antiguidade dos magistrados do Ministério Público no quadro e na categoria conta-se, para efeitos de promoção, desde a data da publicação do respectivo provimento no Jornal da República.\n2."
+   }
+  },
+  {
+   "id": "TL-H042-A64",
+   "no": 64,
+   "noLabel": {
+    "pt": "Artigo 64.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO X APOSENTAÇÃO, CESSAÇÃO E SUSPENSÃO DE FUNÇÕES"
+   },
+   "heading": {
+    "pt": "Exoneração a pedido"
+   },
+   "text": {
+    "pt": "1.                  A exoneração a pedido do magistrado do Ministério Público é autorizada em casos devidamente justificados, mediante pré-aviso de 60 dias.\n2.                  A exoneração produz efeitos a partir da data da notificação do despacho de deferimento."
+   }
+  },
+  {
+   "id": "TL-H042-A65",
+   "no": 65,
+   "noLabel": {
+    "pt": "Artigo 65.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISCIPLINA / SECÇÃO I DISPOSICÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Responsabilidade e infracção disciplinar"
+   },
+   "text": {
+    "pt": "Constituem infracção disciplinar os factos, ainda que meramente culposos, praticados pelos magistrados do Ministério Público com violação dos deveres profissionais e os actos ou omissões da sua vida pública ou que nela se repercutam incompatíveis com o decoro e a dignidade indispensáveis ao exercício das suas funções."
+   }
+  },
+  {
+   "id": "TL-H042-A66",
+   "no": 66,
+   "noLabel": {
+    "pt": "Artigo 66.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISCIPLINA / SECÇÃO I DISPOSICÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Sujeição a jurisdição disciplinar"
+   },
+   "text": {
+    "pt": "1.                  A exoneração ou mudança de situação não impede a punição por infracções cometidas durante o exercício da função.\n1.2. O magistrado exonerado cumpre pena se voltar à actividade.\n1."
+   }
+  },
+  {
+   "id": "TL-H042-A67",
+   "no": 67,
+   "noLabel": {
+    "pt": "Artigo 67.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISCIPLINA / SECÇÃO I DISPOSICÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Autonomia da jurisdição disciplinar"
+   },
+   "text": {
+    "pt": "1.                  O procedimento disciplinar é independente do procedimento criminal.\n1.2. Quando em processo disciplinar se apurar a existência de infracção criminal, dá-se imediato conhecimento à Procuradoria-Geral da República.\n1."
+   }
+  },
+  {
+   "id": "TL-H042-A68",
+   "no": 68,
+   "noLabel": {
+    "pt": "Artigo 68.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISCIPLINA / SECÇÃO I DISPOSICÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Procedimentos disciplinares, inquéritos e sindicâncias"
+   },
+   "text": {
+    "pt": "A tramitação dos procedimentos disciplinares, inquéritos e sindicâncias segue, com as devidas adaptações, as regras legais aplicáveis aos magistrados judiciais."
+   }
+  },
+  {
+   "id": "TL-H042-A69",
+   "no": 69,
+   "noLabel": {
+    "pt": "Artigo 69.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISCIPLINA / SECÇÃO II PENAS"
+   },
+   "heading": {
+    "pt": "Escala das penas"
+   },
+   "text": {
+    "pt": "1.      Os magistrados do Ministério Público estão sujeitos às seguintes penas:\na)      Advertência;\nb)      Repreensão registada;\nc)      Multa;\nd)      Transferência compulsiva;\ne)      Suspensão de exercício;\nf)        Inactividade;\ng)      Aposentação compulsiva;\nh)      Demissão.\n2.      Com excepção da pena prevista na alínea a) do número anterior, as penas aplicadas são sempre registadas.\n3.      As amnistias não destroem os efeitos produzidos pela aplicação das penas, devendo ser averbadas no competente processo individual.\n4.      A pena constante da alínea a) do n.o 1 pode ser aplicada independentemente de processo, desde que com audiência e possibilidade de defesa do arguido."
+   }
+  },
+  {
+   "id": "TL-H042-A70",
+   "no": 70,
+   "noLabel": {
+    "pt": "Artigo 70.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISCIPLINA / SECÇÃO II PENAS"
+   },
+   "heading": {
+    "pt": "Advertência"
+   },
+   "text": {
+    "pt": "1.                  A pena de advertência consiste em mero reparo ou repreensão pela irregularidade praticada destinada a prevenir o magistrado de que a acção ou omissão é de molde a causar perturbação no exercício das funções ou de nele se repercutir de forma incompatível com a dignidade que lhe é exigível.\n1.2. A pena de advertência é aplicada a faltas leves que não devam passar sem reparo.\n1."
+   }
+  },
+  {
+   "id": "TL-H042-A71",
+   "no": 71,
+   "noLabel": {
+    "pt": "Artigo 71.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISCIPLINA / SECÇÃO II PENAS"
+   },
+   "heading": {
+    "pt": "Repreensão registada"
+   },
+   "text": {
+    "pt": "1.                  A pena de repreensão registada consiste na censura reduzida a escrito destinada a prevenir o magistrado de que a acção ou omissão é de molde a causar perturbação no exercício das funções ou de nele se repercutir de forma incompatível com a dignidade que lhe é exigível.\n2.                  A pena de repreensão registada é aplicável a faltas de pequena gravidade susceptíveis de causar perturbação no exercício das funções ou de nele se repercutir de forma incompatível com a dignidade que lhe é exigível.\n2."
+   }
+  },
+  {
+   "id": "TL-H042-A72",
+   "no": 72,
+   "noLabel": {
+    "pt": "Artigo 72.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISCIPLINA / SECÇÃO II PENAS"
+   },
+   "heading": {
+    "pt": "Multa"
+   },
+   "text": {
+    "pt": "1.         A pena de multa é fixada em dias, no mínimo de três e no máximo de trinta.\n2.                  A pena de multa implica o desconto no vencimento do magistrado da importância correspondente ao número de dias de multa aplicados.\n3.                  A pena de multa é aplicável a casos de negligência ou desinteresse pelo cumprimento dos deveres inerentes ao cargo.\n3."
+   }
+  },
+  {
+   "id": "TL-H042-A73",
+   "no": 73,
+   "noLabel": {
+    "pt": "Artigo 73.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISCIPLINA / SECÇÃO II PENAS"
+   },
+   "heading": {
+    "pt": "Transferência compulsiva"
+   },
+   "text": {
+    "pt": "1.                  A pena de transferência compulsiva consiste na colocação do magistrado em cargo da mesma categoria fora da área da circunscrição ou serviço em que anteriormente exercia funções.\n2.                  A pena de transferência compulsiva implica ainda a perda de 60 dias de antiguidade.\n3.                  A pena de transferência compulsiva é aplicável a infracções que impliquem quebra do prestígio exigível ao magistrado para que possa manter-se no meio em que exerce funções.\n3."
+   }
+  },
+  {
+   "id": "TL-H042-A74",
+   "no": 74,
+   "noLabel": {
+    "pt": "Artigo 74.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISCIPLINA / SECÇÃO II PENAS"
+   },
+   "heading": {
+    "pt": "Suspensão de exercício e inactividade"
+   },
+   "text": {
+    "pt": "1.                  As penas de suspensão de exercício e inactividade consistem no afastamento completo do serviço durante o período da pena.\n2.                  A pena de suspensão de exercício pode ser de 10 a 90 dias.\n3.                  A pena de inactividade não pode ser inferior a seis meses nem superior a um ano.\n4.                  As penas de suspensão de exercício e inactividade são aplicáveis nos casos de negligência grave ou grave desinteresse pelo cumprimento de deveres profissionais ou quando os magistrados forem condenados em pena de prisão, salvo se a sentença condenatória implicar pena de demissão.\n5.                  O tempo de prisão cumprido é descontado na pena disciplinar.\n6.                  A pena de suspensão de exercício implica perda do tempo correspondente à sua duração para efeitos de remuneração, antiguidade e aposentação e a transferência para cargo idêntico em procuradoria ou serviço diferente daquele em que o magistrado exercia funções na data da prática da infracção, quando o magistrado punido não possa manter-se no meio em que exerce as funções sem quebra do prestígio que lhe é exigível, o que constará da decisão disciplinar.\n7.                  A pena de inactividade produz a perda do tempo correspondente à sua duração para efeitos de remuneração, antiguidade e aposentação e ainda a impossibilidade de promoção ou acesso durante um ano contado do termo do cumprimento da pena.\n7."
+   }
+  },
+  {
+   "id": "TL-H042-A75",
+   "no": 75,
+   "noLabel": {
+    "pt": "Artigo 75.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISCIPLINA / SECÇÃO II PENAS"
+   },
+   "heading": {
+    "pt": "Aposentação compulsiva e demissão"
+   },
+   "text": {
+    "pt": "1.                  A pena de aposentação compulsiva consiste na imposição da aposentação e implica o imediato desligamento do serviço.\n2.                  A pena de demissão consiste no afastamento definitivo do magistrado, com cessação de todos os vínculos com a função, e implica a perda do estatuto de magistrado conferido pela presente lei, mas não implica a perda do direito a aposentação, nos termos e condições estabelecidos na lei, nem impossibilita o magistrado de ser nomeado para cargos públicos ou outros que possam ser exercidos, desde que reúna as condições de dignidade e confiança exigidas pelo cargo de que foi demitido.\n3.                  As penas de aposentação compulsiva e demissão são aplicáveis quando o magistrado:\na)      Revele definitiva incapacidade de adaptação às exigências da função;\nb)      Revele falta de honestidade ou grave insubordinação ou tenha conduta imoral ou desonrosa;\nc)      Revele inaptidão profissional;\nd)      Tenha sido condenado por crime praticado com flagrante e grave abuso da função ou com manifesta e grave violação dos deveres a ela inerentes.\n4.                  Ao abandono do lugar corresponde sempre a pena de demissão.\n4."
+   }
+  },
+  {
+   "id": "TL-H042-A76",
+   "no": 76,
+   "noLabel": {
+    "pt": "Artigo 76.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISCIPLINA / SECÇÃO II PENAS"
+   },
+   "heading": {
+    "pt": "Promoção de magistrados arguidos"
+   },
+   "text": {
+    "pt": "1.                  Durante a pendência de processo criminal ou disciplinar, o magistrado é graduado para promoção ou acesso, mas estes suspendem-se quanto a ele, reservando-se a respectiva vaga até decisão final.\n1.2.         Se o processo for arquivado, a decisão condenatória revogada ou aplicada uma pena que não prejudique a promoção ou acesso, o magistrado é promovido ou nomeado e vai ocupar o seu lugar na lista de antiguidade, com direito a receber as diferenças de remuneração, ou, se houver de ser preterido, completa-se o movimento em relação à vaga que lhe havia ficado reservada.\n1."
+   }
+  },
+  {
+   "id": "TL-H042-A77",
+   "no": 77,
+   "noLabel": {
+    "pt": "Artigo 77.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISCIPLINA / SECÇÃO II PENAS"
+   },
+   "heading": {
+    "pt": "Medida da pena"
+   },
+   "text": {
+    "pt": "1.      Na determinação da medida da pena atende-se à gravidade do facto, à culpa do agente, à sua personalidade e às circunstâncias que deponham a seu favor ou contra si.\n1.2.   A pena pode ser especialmente atenuada, aplicando-se a pena de escalão inferior, quando existam circunstâncias anteriores ou posteriores à infracção ou contemporâneas dela que diminuam acentuadamente a gravidade do facto ou a culpa do agente."
+   }
+  },
+  {
+   "id": "TL-H042-A78",
+   "no": 78,
+   "noLabel": {
+    "pt": "Artigo 78.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISCIPLINA / SECÇÃO II PENAS"
+   },
+   "heading": {
+    "pt": "Reincidência"
+   },
+   "text": {
+    "pt": "1.         Há reincidência quando a infracção for cometida antes de decorridos três anos sobre a data em que o agente cometeu a infracção anterior, pela qual tenha sido condenado em pena superior à de advertência, já cumprida total ou parcialmente, desde que as circunstâncias do caso revelem ausência de eficácia preventiva da condenação anterior.\n2.         Se a pena aplicável for qualquer das previstas nas alíneas c) e f) do n.o 1 do artigo 69.º, em caso de reincidência o seu limite mínimo será igual a um terço ou um quarto do limite máximo, respectivamente.\n3.         Tratando-se de pena diversa das referidas no número anterior, pode ser aplicada pena de escalão imediatamente superior."
+   }
+  },
+  {
+   "id": "TL-H042-A79",
+   "no": 79,
+   "noLabel": {
+    "pt": "Artigo 79.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISCIPLINA / SECÇÃO II PENAS"
+   },
+   "heading": {
+    "pt": "Concurso de infracções"
+   },
+   "text": {
+    "pt": "1.         Verifica-se concurso de infracções quando o magistrado comete duas ou mais infracções antes de se tornar inimpugnável a condenação por qualquer uma delas.\n2.         No concurso de infracções aplica-se uma única pena e, quando às infracções correspondam penas diferentes, aplica-se a de maior gravidade, agravada em função do concurso, se for variável."
+   }
+  },
+  {
+   "id": "TL-H042-A80",
+   "no": 80,
+   "noLabel": {
+    "pt": "Artigo 80.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISCIPLINA / SECÇÃO II PENAS"
+   },
+   "heading": {
+    "pt": "Prazo de prescrição das penas"
+   },
+   "text": {
+    "pt": "As penas disciplinares prescrevem nos prazos seguintes, contados da data em que a decisão se torne inimpugnável:\na)       Seis meses, para as penas de advertência, repreensão registada e multa;\nb)      Um ano, para a pena de transferência compulsiva;\nc)       Três anos, para as penas de suspensão de exercício e inactividade;\nd)      Cinco anos, para as penas de aposentação compulsiva e demissão."
+   }
+  },
+  {
+   "id": "TL-H042-A81",
+   "no": 81,
+   "noLabel": {
+    "pt": "Artigo 81.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XII ÓRGÃOS AUXILIARES"
+   },
+   "heading": {
+    "pt": "Secretarias e funcionários"
+   },
+   "text": {
+    "pt": "1.                  Sem prejuízo do apoio e coadjuvação prestados pelas repartições e secretarias judiciais, o Ministério Público dispõe de serviços técnico-administrativos próprios.\n1.2. A regulamentação dos serviços previstos no número anterior é aprovada por diploma especifico do Governo.\n1."
+   }
+  },
+  {
+   "id": "TL-H042-A82",
+   "no": 82,
+   "noLabel": {
+    "pt": "Artigo 82.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XIII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Regime subsidiário"
+   },
+   "text": {
+    "pt": "Em tudo o que não for contrário à presente lei, é subsidiariamente aplicável o disposto no Estatuto da Função Pública, aprovado pela Lei n.o 8/2004, de 16 de Junho."
+   }
+  },
+  {
+   "id": "TL-H042-A83",
+   "no": 83,
+   "noLabel": {
+    "pt": "Artigo 83.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XIII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Procurador-Geral da República"
+   },
+   "text": {
+    "pt": "Enquanto não houver nacionais que preencham os requisitos do artigo 12.o, o Procurador-Geral da República pode ser nomeado de entre agentes do Ministério Público de categoria inferior à de Procurador da República ou juízes estagiários ou de entre procuradores não timorenses, com pelo menos 10 anos de experiência, provenientes de sistema judiciário civilista."
+   }
+  },
+  {
+   "id": "TL-H042-A84",
+   "no": 84,
+   "noLabel": {
+    "pt": "Artigo 84.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XIII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Adjuntos do Procurador-Geral da República e Procuradores da República Distritais"
+   },
+   "text": {
+    "pt": "1. Enquanto não houver nacionais que preencham os requisitos do artigo 14.o, os Adjuntos do Procurador-Geral da República podem ser nomeados de entre os magistrados mencionados nesse artigo de categoria e experiência inferior à prevista no mesmo artigo.\n2. Enquanto não houver nacionais que preencham os requisitos do n.o 3 do artigo 22.o, os Procuradores da República Distritais podem ser nomeados de entre agentes do Ministério Público de categoria inferior à indicada nesse artigo ou de entre Procuradores da República estagiários.\n3. A nomeação nos termos dos números anteriores não envolve alteração da categoria das pessoas nomeadas."
+   }
+  },
+  {
+   "id": "TL-H042-A85",
+   "no": 85,
+   "noLabel": {
+    "pt": "Artigo 85.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XIII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Avaliação de Procuradores da República estagiários anteriores"
+   },
+   "text": {
+    "pt": "1. A avaliação dos Procuradores da República estagiários que iniciaram funções antes da entrada em vigor da presente lei para o acesso à carreira da magistratura do Ministério Público consta de diploma próprio.\n2. Os Procuradores da República estagiários referidos no n.o 1 que, por não terem três anos de serviço, não podiam ser submetidos à avaliação para o ingresso na carreira da magistratura do Ministério Público, nos termos do Decreto n.o 9/2004, de 3 de Novembro, serão submetidos a tal avaliação quando atingirem esse tempo de serviço.\n3. Os Procuradores da República estagiários referidos no n.o 1 que, por estarem em comissão de serviço, não podiam ser submetidos à avaliação para o ingresso na carreira da magistratura judicial, nos termos das alíneas e) e f) do n.o 1 do artigo 25.o da Lei n.o 8/2002, de 20 de Setembro, serão submetidos a essa avaliação quando terminarem a comissão de serviço e podem entrar na formação para as carreiras da magistratura judicial e defensoria pública subsequente se nessa avaliação não obtiverem resultados que lhes permitam ingressar na da magistratura do Ministério Público."
+   }
+  },
+  {
+   "id": "TL-H042-A86",
+   "no": 86,
+   "noLabel": {
+    "pt": "Artigo 86.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XIII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Competências do Tribunal de Recurso"
+   },
+   "text": {
+    "pt": "Até ser instalado e entrar em funções o Supremo Tribunal de Justiça, as competências atribuídas no presente diploma a esse tribunal são exercidas pelo Tribunal de Recurso."
+   }
+  },
+  {
+   "id": "TL-H042-A87",
+   "no": 87,
+   "noLabel": {
+    "pt": "Artigo 87.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XIII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Magistrados internacionais"
+   },
+   "text": {
+    "pt": "1.                  Para o desempenho de funções de agente do Ministério Público e de inspector do Ministério Público, o Conselho Superior do Ministério Público pode seleccionar, por concurso curricular, magistrados do Ministério Público não timorenses com pelo menos 5 anos de experiência que sejam provenientes de sistema judiciário civilista ou especializados em Direito comparado para integrarem provisoriamente a organização judiciária de Timor-Leste, sempre que se mostrar necessário.\n2.                  Os dispositivos da presente lei aplicam-se, com as devidas adaptações, aos magistrados do Ministério Público internacionais que exerçam funções na organização judiciária de Timor-Leste."
+   }
+  },
+  {
+   "id": "TL-H042-A88",
+   "no": 88,
+   "noLabel": {
+    "pt": "Artigo 88.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XIII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Revogações"
+   },
+   "text": {
+    "pt": "É revogada toda a legislação contrária à presente lei, designadamente os Regulamentos da Administração Transitória das Nações Unidas em Timor-Leste (UNTAET) n.os 16/2000, de 6 de Junho, e 26/2001, de 14 de Setembro.”"
+   }
+  }
+ ]
+}

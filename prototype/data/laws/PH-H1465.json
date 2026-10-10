@@ -1,0 +1,74 @@
+{
+ "id": "PH-H1465",
+ "title": {
+  "zh": null,
+  "en": "An Act Increasing to Two Hundred the Number of Letter Carriers in the City of Manila and Granting Them an Allowance of One Peso Per Day",
+  "orig": "An Act Increasing to Two Hundred the Number of Letter Carriers in the City of Manila and Granting Them an Allowance of One Peso Per Day"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p20",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1957-06-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1631",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 523,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1957/ra_1631_1957.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1957/ra_1631_1957.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1465-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There shall be in the City of Manila two hundred letter carriers who shall each be paid an allowance of one peso per day."
+   }
+  },
+  {
+   "id": "PH-H1465-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of ninety thousand pesos, or so much thereof as may be necessary, to carry out the provisions of this Act. Such sums as thereafter may be needed for the same purpose shall be included in the annual General Appropriation Act."
+   }
+  },
+  {
+   "id": "PH-H1465-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1957."
+   }
+  }
+ ]
+}

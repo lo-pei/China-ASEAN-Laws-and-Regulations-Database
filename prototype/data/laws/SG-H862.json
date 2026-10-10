@@ -1,0 +1,81 @@
+{
+ "id": "SG-H862",
+ "title": {
+  "zh": null,
+  "en": "Corporate Bodies’ Contracts Act 1960",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p11",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act CBCA1960",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1640,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/CBCA1960?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H862-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Cases where contracts need not be under seal"
+   },
+   "text": {
+    "en": "1.—(1) Contracts may be made on behalf of any body corporate, wherever incorporated, as follows:\n(a)a contract which if made between private persons would by law be required to be in writing, signed by the parties to be charged therewith, may be made on behalf of the body corporate in writing signed by any person acting under its authority, express or implied; and\n(b)a contract which if made between private persons would by law be valid although made by parol only, and not reduced into writing, may be made by parol on behalf of the body corporate by any person acting under its authority, express or implied.\n(2) A contract made according to this section shall be effectual in law, and shall bind the body corporate and its successors and all other parties thereto.\n(3) A contract made according to this section may be varied or discharged in the same manner in which it is authorised by this section to be made.\n(4) Nothing in this section shall be taken as preventing a contract under seal from being made by or on behalf of a body corporate.\n(5) Nothing in this section applies to the making, variation or discharge of a contract before 12 November 1993 except in so far as it was applicable by virtue of section 5 of the Civil Law Act 1909 in force before that date."
+   }
+  },
+  {
+   "id": "SG-H862-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Exclusion of companies under Companies Act 1967, etc."
+   },
+   "text": {
+    "en": "2. This Act shall not apply to any company as defined in the Companies Act 1967, any limited liability partnership as defined in the Limited Liability Partnerships Act 2005 or any variable capital company as defined in the Variable Capital Companies Act 2018.\n[5/2005]\n[S 26/2022 wef 13/01/2022]"
+   }
+  },
+  {
+   "id": "SG-H862-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "3. This Act may be cited as the Corporate Bodies’ Contracts Act 1960."
+   }
+  }
+ ]
+}

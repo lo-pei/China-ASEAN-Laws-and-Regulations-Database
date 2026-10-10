@@ -1,0 +1,110 @@
+{
+ "id": "CN-JI-0170",
+ "title": {
+  "zh": "最高人民法院关于互联网法院案件管辖的规定",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p07",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2025-09-15",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "最高人民法院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 650,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于互联网法院案件管辖的规定_20250929.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，第一条至第四条，共 4 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于互联网法院案件管辖的规定_20250929.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0170-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "第一条"
+   },
+   "text": {
+    "zh": "互联网法院集中管辖所在市辖区内应当由基层人民法院受理的下列第一审案件：\n（一）网络数据权属、侵权、合同纠纷；\n（二）网络个人信息保护、隐私权纠纷；\n（三）网络虚拟财产权属、侵权、合同纠纷；\n（四）网络不正当竞争纠纷；\n（五）网络域名权属、侵权、合同纠纷；\n（六）通过电子商务平台签订或者履行网络购物合同产生的纠纷；\n（七）签订、履行行为均在网络上完成的网络服务合同纠纷；\n（八）因行政机关作出网络数据监管、网络个人信息保护监管、网络不正当竞争监管、网络交易管理、网络信息服务管理等行政行为产生的行政纠纷；\n（九）检察机关提起的网络公益诉讼案件。\n符合前款规定的涉外民事案件以及涉香港、澳门特别行政区和台湾地区的民事案件，由互联网法院管辖。\n经最高人民法院批准，相关高级人民法院可以指定互联网法院管辖其他特定类型的网络民事、行政案件。"
+   }
+  },
+  {
+   "id": "CN-JI-0170-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "第二条"
+   },
+   "text": {
+    "zh": "对于本规定第一条确定的合同及其他财产权益民事纠纷，当事人可以依法协议约定与争议有实际联系地点的互联网法院管辖。\n当事人之间采取格式条款形式约定案件由互联网法院管辖的，应当符合法律及司法解释关于格式条款的规定。"
+   }
+  },
+  {
+   "id": "CN-JI-0170-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "第三条"
+   },
+   "text": {
+    "zh": "当事人对互联网法院作出的判决、裁定提起上诉的案件，由互联网法院所在地的中级人民法院审理。所在地设有多个中级人民法院的，由高级人民法院指定的中级人民法院审理。\n上诉案件属于专门人民法院管辖范围的，由相应的专门人民法院审理。"
+   }
+  },
+  {
+   "id": "CN-JI-0170-A4",
+   "no": 4,
+   "noLabel": {
+    "zh": "第四条"
+   },
+   "text": {
+    "zh": "本规定自2025年11月1日起施行。本规定施行前已经受理的案件由原受理人民法院继续审理。\n此前发布的司法解释与本规定不一致的，以本规定为准。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于互联网法院案件管辖的规定"
+  },
+  "issuingBody": {
+   "zh": "最高人民法院"
+  },
+  "promulgatedDate": "2025-09-15",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

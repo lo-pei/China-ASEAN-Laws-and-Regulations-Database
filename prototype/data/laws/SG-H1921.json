@@ -1,0 +1,78 @@
+{
+ "id": "SG-H1921",
+ "title": {
+  "zh": null,
+  "en": "Income Tax (ARA LOGOS Logistics Trust, etc. — Section 13(12) Exemption) Order 2022",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p24",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ITA1947-S614-2022",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 3030,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ITA1947-S614-2022?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1921-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Order is the Income Tax (ARA LOGOS Logistics Trust, etc. — Section 13(12) Exemption) Order 2022."
+   }
+  },
+  {
+   "id": "SG-H1921-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "2.—(1) Distribution income and interest income received in Singapore by HSBC Institutional Trust Services (Singapore) Limited (a company incorporated in Singapore) in its capacity as the trustee of ARA LOGOS Logistics Trust (a trust constituted in Singapore) from The Trust Company (Australia) Limited (a company incorporated in Australia) in its capacity as the trustee of ALOG Logistics Trust Australia (a trust constituted in Australia) on or after 5 May 2022 are exempt from tax.\n(2) Distribution income received in Singapore by ALOG (Australia) Pte. Ltd. (a company incorporated in Singapore) from The Trust Company (Australia) Limited in its capacity as the trustee of ALOG Logistics Trust Australia on or after 5 May 2022 is exempt from tax.\n(3) Sub-paragraphs (1) and (2) apply to distribution income originating from —\n(a)any rental and property-related income (including capital gain derived from divestment of property) from any of the properties specified in the Schedule; and\n(b)any interest income derived from any deposit with a financial institution of such rental and property‑related income.\n(4) Sub-paragraph (1) applies to interest income from loans used to fund the acquisition of any property trust that holds any of the properties specified in the Schedule (including loans to refinance any of the firstmentioned loans), that is paid out of the rental and property-related income or interest income mentioned in sub‑paragraph (3).\n(5) The exemptions in sub‑paragraphs (1) and (2) are subject to the conditions specified in the letter of approval dated 1 March 2022 addressed to EY Corporate Advisors Pte. Ltd."
+   }
+  },
+  {
+   "id": "SG-H1921-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nParagraph 2(3) and (4)\nAddress of property in Australia\n1.127 Orchard Road, Chester Hill, New South Wales\n2.16-28 Transport Drive, Somerton, Victoria\n3.51 Musgrave Road, Coopers Plains, Queensland\n4.203 Viking Drive, Wacol, Queensland\n5.223 Viking Drive, Wacol, Queensland\n6.182-198 Maidstone Street, Altona, Victoria\n7.217-225 Boundary Road, Laverton North, Victoria\n8.11-19 Kellar Street, Berrinba, Queensland\n9.3 Sanitarium Drive, Berkeley Vale, New South Wales\n10.67-93 National Boulevard, Campbellfield, Victoria\n11.41-51 Mills Road, Braeside, Victoria\n12.76-90 Link Drive, Campbellfield, Victoria\n13.41-45 Hydrive Close, Dandenong South, Victoria\n14.196 Viking Drive, Wacol, Queensland\n15.16-24 William Angliss Drive, Laverton North, Victoria\n16.151-155 Woodlands Drive, Braeside, Victoria\n17.47 Logistics Place, Larapinta, Queensland\n18.1-5 and 2-6 Bishop Drive, Port of Brisbane, Queensland\n19.53 Peregrine Drive, Port of Brisbane, Queensland\n20.8-10 Curlew St, Port of Brisbane, Queensland\n21.21 Curlew St, Port of Brisbane, Queensland\n22.69 Sargents Road, Minchinbury, New South Wales\n23.11-14 John Morphett Place, Erskine Park, New South Wales\n24.34-58 Marshall Court, Altona, Victoria\n25.27-43 Toll Drive, Altona North, Victoria\n26.1 Hume Road, Laverton North, Victoria"
+   }
+  }
+ ]
+}

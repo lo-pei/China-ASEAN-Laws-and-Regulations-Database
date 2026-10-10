@@ -1,0 +1,64 @@
+{
+ "id": "PH-H3363",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Six of Republic Act Numbered One Thousand Eight Hundred and Twenty-Five, Entitled \"An Act to Provide for the Allocation, Reallocation and Administration of the Absolute Quota on Sugar\"",
+  "orig": "An Act to Amend Section Six of Republic Act Numbered One Thousand Eight Hundred and Twenty-Five, Entitled \"An Act to Provide for the Allocation, Reallocation and Administration of the Absolute Quota on Sugar\""
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p47",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1964-06-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4160",
+ "officialCode": null,
+ "topics": [
+  "environment"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1495,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1964/ra_4160_1964.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1964/ra_4160_1964.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3363-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section six of Republic Act Numbered One thousand eight hundred and twenty-five is hereby amended to read as follows:\n\"Sec. 6. Any increase in the U.S.-Philippine export quota for sugar which may be allocated by the United States government to the Philippines shall be prorated by the Sugar Quota Administrator, jointly with the representative of the National Federation of Sugarcane Planters and the representative of the Philippine Sugar Association, as provided for by Section twelve of Act Numbered Four thousand one hundred sixty-six, as amended by Republic Act Numbered Three thousand and seventeen, among the sugar-producing mills and landowners both quota and non-quota holders, based on the highest annual gross production from the crop year 1959-1960 up to the crop year immediately preceding the grant of additional quota allocation from the United States: Provided, However, That new sugar mills wholly owned by Filipino citizens constructed or established after the passage of this Act but prior to the grant of additional sugar allocation by the United States or the International Sugar Conference shall be considered a new district and shall be allotted a quota allotment from the said increase in an amount equal to the allotment given to existing sugar mills of equal capacity of the same year out of said quota increase; said quota allotment to be distributed among landowners milling with said sugar mill.\""
+   }
+  },
+  {
+   "id": "PH-H3363-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1964."
+   }
+  }
+ ]
+}

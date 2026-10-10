@@ -1,0 +1,74 @@
+{
+ "id": "PH-H625",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Numbered Twenty-four of Rule Numbered One Hundred and Twenty-seven of the Rules of Court",
+  "orig": "An Act to Amend Section Numbered Twenty-four of Rule Numbered One Hundred and Twenty-seven of the Rules of Court"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p08",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1951-06-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 636",
+ "officialCode": null,
+ "topics": [
+  "judiciary"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1353,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1951/ra_636_1951.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1951/ra_636_1951.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 24 条，缺 3、4、5、6、7、8、9、10、11、12、13、14、15、16、17、18、19、20、21、22、23）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H625-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section numbered twenty-four of Rule Numbered One hundred and twenty-seven of the Rules of Court is hereby amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H625-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "text": {
+    "en": "Change of attorneys.-An attorney may retire at any time from any action or special proceeding, by the written consent of his client filed in Court. He may also retire at any time from an action or special proceeding, without the consent of his client, should the court, on notice to the client and attorney, and on hearing, determine that he ought to be allowed to retire. In case of such substitution, the name of the attorney newly employed shall be entered on the docket of the court in place of the former one, and written notice of the change shall be given to the adverse party.\n\"A client may at any time dismiss his attorney or substitute another in his place, but if the contract between client and attorney has been reduced to writing and the dismissal of the attorney was without justifiable cause, he shall be entitled to recover from the client the full compensation stipulated in the contract. For the payment of such compensation the attorney shall have a lien upon all judgments for the payment of money, and executions issued in pursuant of such judgments, rendered in the case wherein his services had been retained by the client.\""
+   }
+  },
+  {
+   "id": "PH-H625-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 9, 1951."
+   }
+  }
+ ]
+}

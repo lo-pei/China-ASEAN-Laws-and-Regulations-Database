@@ -1,0 +1,72 @@
+{
+ "id": "SG-H3421",
+ "title": {
+  "zh": null,
+  "en": "Order under Section 11 (3)",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p43",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation RELA1983-OR8",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2108,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/RELA1983-OR8?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 3 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3421-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Revised Edition of the Laws Act\n(Chapter 275, Section 11(3))\nOrder under Section 11(3)\nO 8\nG.N. No. S 78/1994\nREVISED EDITION 1995\n(15th March 1994)\n[15th March 1994]\nWhereas pursuant to the Revised Edition of the Laws Act, the Law Revision Commissioners have published in the form of separate booklets —\n(a)under section 10(1)(a), the Acts set out in the First Schedule; and\n(b)under section 10(1)(b), the Acts set out in the Second Schedule,\nas in force on 31st December 1993:\nAnd Whereas it is enacted by section 11(3) of the Revised Edition of the Laws Act that the Commissioners shall transmit to the President a copy of each of the booklets and the President may thereupon, by order published in the Gazette, specify that the booklets shall in all courts and for all purposes be the sole and only proper law of Singapore in respect of those Acts:\nNow therefore it is hereby ordered by the President that the booklets shall, with effect from 15th March 1994, be the sole and only proper law of Singapore in respect of those Acts."
+   }
+  },
+  {
+   "id": "SG-H3421-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\n(1)The Banking Act (Chapter 19).\n(2)The Central Provident Fund Act (Chapter 36).\n(3)The Civil Law Act (Chapter 43).\n(4)The Companies Act (Chapter 50).\n(5)The Conveyancing and Law of Property Act (Chapter 61).\n(6)The Economic Expansion Incentives (Relief from Income Tax) Act (Chapter 86).\n(7)The Hindu Endowments Act (Chapter 364).\n(8)The Income Tax Act (Chapter 134).\n(9)The Legal Profession Act (Chapter 161).\n(10)The Pawnbrokers Act (Chapter 222).\n(11)The People’s Association Act (Chapter 227)."
+   }
+  },
+  {
+   "id": "SG-H3421-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\n(1)The Application of English Law Act (Chapter 7A).\n(2)The Children and Young Persons Act (Chapter 38).\n(3)The Computer Misuse Act (Chapter 50A).\n(4)The Control of Plants Act (Chapter 57A).\n(5)The Fire Safety Act (Chapter 109A).\n(6)The Goods and Services Tax Act (Chapter 117A).\n(7)The Land Titles Act (Chapter 157).\n(8)The Medical Endowment Scheme Act (Chapter 173A).\n(9)The National Heritage Board Act (Chapter 196A).\n(10)The Retirement Age Act (Chapter 274A).\n(11)The Smoking (Control of Advertisements and Sale of Tobacco) Act (Chapter 309)."
+   }
+  }
+ ]
+}

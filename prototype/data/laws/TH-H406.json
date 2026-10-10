@@ -1,0 +1,94 @@
+{
+ "id": "TH-H406",
+ "title": {
+  "zh": null,
+  "en": null,
+  "orig": "พระราชบัญญัติจัดตั้งศาลจังหวัดที่อำเภอสุโขทัยธานี จังหวัดสวรรคโลก พุทธศักราช 2477"
+ },
+ "country": "TH",
+ "countryName": "泰国",
+ "layer": "intl",
+ "pack": "th-p04",
+ "language": "th",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1935-04-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国务委员会办公室（OCS）",
+ "docNumber": "จจ001-1B-0002",
+ "officialCode": "จจ001-1B-0002",
+ "topics": [
+  "other"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 641,
+ "source": {
+  "name": "泰国国务委员会办公室（Office of the Council of State, สำนักงานคณะกรรมการกฤษฎีกา）法律检索系统",
+  "url": "https://searchlaw.ocs.go.th/council-of-state/#/public/doc/YXROSmtCa2lPc0RUQUxwSTFCbnNDQT09"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 泰国国务委员会办公室（Office of the Council of State, สำนักงานคณะกรรมการกฤษฎีกา）法律检索系统官方详情页（https://searchlaw.ocs.go.th/council-of-state/#/public/doc/YXROSmtCa2lPc0RUQUxwSTFCbnNDQT09），未改写、未摘译、未节选；原文语言：泰语（th）。 条文抬头依官方原件为「มาตรา N」（第 N 条）体例，本库照录官方写法；编/章/节/款标题依原件「บรรพ …」「ลักษณะ …」「หมวด …」「ส่วน …」层级还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TH-H406-A1",
+   "no": 1,
+   "noLabel": {
+    "th": "มาตรา 1"
+   },
+   "text": {
+    "th": "มาตรา ๑ พระราชบัญญัตินี้ให้เรียกว่า “พระราชบัญญัติจัดตั้งศาลจังหวัดที่อำเภอสุโขทัยธานี จังหวัดสวรรคโลก พุทธศักราช ๒๔๗๗”"
+   }
+  },
+  {
+   "id": "TH-H406-A2",
+   "no": 2,
+   "noLabel": {
+    "th": "มาตรา 2"
+   },
+   "text": {
+    "th": "มาตรา ๒ ให้ใช้พระราชบัญญัตินี้ตั้งแต่วันประกาศในราชกิจจานุเบกษาเป็นต้นไป"
+   }
+  },
+  {
+   "id": "TH-H406-A3",
+   "no": 3,
+   "noLabel": {
+    "th": "มาตรา 3"
+   },
+   "text": {
+    "th": "มาตรา ๓ ให้ตั้งศาลจังหวัดสำหรับพิจารณาพิพากษาคดีขึ้นที่อำเภอสุโขทัยธานี จังหวัดสวรรคโลก เรียกว่า “ศาลจังหวัดสุโขทัย” ตั้งแต่วันที่ ๑ มิถุนายน พุทธศักราช ๒๔๗๘"
+   }
+  },
+  {
+   "id": "TH-H406-A4",
+   "no": 4,
+   "noLabel": {
+    "th": "มาตรา 4"
+   },
+   "text": {
+    "th": "มาตรา ๔ ศาลจังหวัดสุโขทัยมีเขตตลอดท้องที่อำเภอสุโขทัยธานี อำเภอคลองตาล อำเภอบ้านไกร บรรดาคดีของสามอำเภอนี้ที่ค้างพิจารณาในศาลจังหวัดสวรรคโลกในวันจัดตั้งศาลจังหวัดสุโขทัย ให้โอนไปยังศาลจังหวัดสุโขทัย"
+   }
+  },
+  {
+   "id": "TH-H406-A5",
+   "no": 5,
+   "noLabel": {
+    "th": "มาตรา 5"
+   },
+   "text": {
+    "th": "มาตรา ๕ ให้รัฐมนตรีว่าการกระทรวงยุติธรรมและกระทรวงมหาดไทยปฏิบัติการให้เป็นไปตามพระราชบัญญัตินี้"
+   }
+  }
+ ]
+}

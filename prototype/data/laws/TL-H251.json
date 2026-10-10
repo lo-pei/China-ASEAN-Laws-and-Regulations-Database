@@ -1,0 +1,250 @@
+{
+ "id": "TL-H251",
+ "title": {
+  "zh": "Procedimento de Concessão de Indulto及 Comutação de Pena",
+  "en": null,
+  "orig": "Procedimento de Concessão de Indulto e Comutação de Pena"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p04",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2023-12-12",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 20/2023",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 13,
+ "chars": 5343,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2023/serie_1/SERIE_I_NO_46_D.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 13 条；逐字取自官方公报 PDF（public/docs/2023/serie_1/SERIE_I_NO_46_D.pdf）第 1–4 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H251-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Objeto"
+   },
+   "text": {
+    "pt": "A presente lei define o procedimento aplicável à concessão do indulto e comutação de pena."
+   }
+  },
+  {
+   "id": "TL-H251-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Âmbito"
+   },
+   "text": {
+    "pt": "Esta lei aplica-se:\na)   A concessão de indulto e a comutação de penas que incidem sobre a pena ou a medida de segurança.\nb)   A pena referida no número anterior pode ser principal ou acessória.\nSérie I, N.° 46 D\nc)    A medida de segurança referida no n.º 1 pode ser privativa ou não privativa da liberdade."
+   }
+  },
+  {
+   "id": "TL-H251-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Definições"
+   },
+   "text": {
+    "pt": "Para efeitos da presente lei, entende-se por:\na)   “Indulto”, o perdão total ou parcial da pena ou medida de segurança, privativa ou não privativa da liberdade.\nb)   “Comutação”, a substituição da pena ou medida de segurança por outra mais favorável ou mais branda prevista na lei.\nc)  “Condenado”, a pessoa a quem tenha sido imposta uma pena ou uma medida de segurança, nos termos previstos no Código de Processo Penal;\nd)   “Representantes do condenado,” aquele que tendo legitimidade para o fazer, requereu indulto ou comutação de pena ou medida de segurança a favor do condenado."
+   }
+  },
+  {
+   "id": "TL-H251-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Natureza"
+   },
+   "text": {
+    "pt": "1.   O indulto constitui uma intervenção política e por razões humanitárias do Presidente da República no âmbito da administração da justiça, pela qual, num caso individual e concreto, se perdoam e extinguem, atenuam ou substituem as  penas e medidas de segurança.\n2.  O indulto pode ser revogado, até ao momento em que ocorreria o termo da pena ou da medida de segurança, por erro ou falsidade dos factos em que se baseou a sua concessão ou por erro da pessoa indultada."
+   }
+  },
+  {
+   "id": "TL-H251-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II INSTRUÇÃO  DA  INICIATIVA  E  DECISÃO"
+   },
+   "heading": {
+    "pt": "Legitimidade"
+   },
+   "text": {
+    "pt": "1.   Têm legitimidade para requerer o indulto ou a comutação de penas ou de medidas de segurança:\na) O condenado, seu representante legal, seu cônjuge, seus ascendentes, seus descendentes e seus irmãos;\nb) O diretor do estabelecimento onde o condenado estiver a cumprir pena ou medida de segurança.\n2.   Tem ainda legitimidade para requerer o indulto e comutação de pena ou medida de segurança o cidadão, no pleno gozo dos seus direitos civis e políticos, que faça prova de agir em nome do condenado."
+   }
+  },
+  {
+   "id": "TL-H251-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II INSTRUÇÃO  DA  INICIATIVA  E  DECISÃO"
+   },
+   "heading": {
+    "pt": "Iniciativa"
+   },
+   "text": {
+    "pt": "O procedimento de concessão do indulto ou comutação de pena inicia-se oficiosamente, por decisão do Presidente da República, ou a requerimento dos interessados referidos no artigo anterior."
+   }
+  },
+  {
+   "id": "TL-H251-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II INSTRUÇÃO  DA  INICIATIVA  E  DECISÃO"
+   },
+   "heading": {
+    "pt": "Instrução"
+   },
+   "text": {
+    "pt": "1.   Quando o Presidente da República decidir conceder indulto e comutação de penas, a Presidência da República inicia o processo.\n2.  O requerimento do indulto é dirigido ao Presidente da República e deve ser acompanhado da decisão que tenha imposto pena ou medida de segurança ao condenado.\n3.    Verificando deficiência do requerimento ou a falta de junção do documento referido no número anterior, a Presidência da República notifica o requerente para, em cinco dias, suprir a deficiência ou juntar o documento em falta.\n4. Tendo o procedimento sido iniciado por decisão do Presidente da República, a Presidência da República autua o respetivo despacho e junta-lhe a decisão referida no n.º\n2.\n5.   Para o efeito do disposto na parte final do número anterior, a Presidência da República requisita à secretaria do tribunal competente cópia da sentença ou acórdão e realiza outras diligências de instrução necessárias."
+   }
+  },
+  {
+   "id": "TL-H251-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II INSTRUÇÃO  DA  INICIATIVA  E  DECISÃO"
+   },
+   "heading": {
+    "pt": "Audição do Governo"
+   },
+   "text": {
+    "pt": "1.   Finda a instrução, o Presidente da República ordena que seja oficiado o Governo, através do Primeiro Ministro, para se pronunciar sobre a concessão do indulto, remetendose cópia integral dos respetivos autos.\n2.  O teor do pronunciamento do Governo não vincula o Presidente da República."
+   }
+  },
+  {
+   "id": "TL-H251-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II INSTRUÇÃO  DA  INICIATIVA  E  DECISÃO"
+   },
+   "heading": {
+    "pt": "Decisão"
+   },
+   "text": {
+    "pt": "1.    Recebido o pronunciamento do Governo sobre a concessão do indulto e comutação de penas ou decorrido o prazo de cinco dias sem que o Governo o tenha remetido, o Presidente da República decide, fundamentadamente, conceder ou recusar o indulto ou a comutação de pena.\n2.    Em caso de comutação de pena, o Presidente da República ausculta, antes da decisão, quem dela pode beneficiar, que pode optar pela pena ou medida de segurança privativa da liberdade que está cumprindo.\n3.   A decisão de concessão do indulto ou comutação da pena assume a forma de decreto do Presidente da República e deve ser publicada no Jornal da República, sob pena de inexistência e ineficacia jurídica.\nSérie I, N.° 46 D\n4.    A fundamentação da decisão de concessão do indulto e da comutação de penas constitui preâmbulo do decreto do Presidente da República."
+   }
+  },
+  {
+   "id": "TL-H251-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II INSTRUÇÃO  DA  INICIATIVA  E  DECISÃO"
+   },
+   "heading": {
+    "pt": "Efeitos"
+   },
+   "text": {
+    "pt": "1.   O indulto extingue no todo ou em parte a pena ou medida de segurança e a comutação substitui a pena ou a medida de segurança por outra prevista na lei e mais favorável ao condenado.\n2.  Quando o indulto implicar a imediata libertação do condenado, o tribunal competente emite imediatamente o correspondente mandado.\n3.   O indulto não prejudica os efeitos civis da condenação."
+   }
+  },
+  {
+   "id": "TL-H251-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II INSTRUÇÃO  DA  INICIATIVA  E  DECISÃO"
+   },
+   "heading": {
+    "pt": "Comunicação do indulto, da comutação e sua execução"
+   },
+   "text": {
+    "pt": "1.   O decreto do Presidente da República é comunicado ao requerente e remetido, oficiosamente, pela Presidência da República ao Ministério Público, ao juiz do tribunal onde correu o processo no âmbito do qual a pena ou medida de segurança objeto de indulto e comutação de pena tenha sido imposta e ao serviço competente do Ministério da Justiça em matéria do registo criminal.\n2.   Recebido o decreto do Presidente da República, no âmbito do correspondente processo penal, o Ministério Público promove ao juiz competente a emissão de mandado de soltura do condenado ou procede à liquidação do remanescente da pena ou medida de segurança."
+   }
+  },
+  {
+   "id": "TL-H251-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Revogação"
+   },
+   "text": {
+    "pt": "É expressamente revogada a Lei n.º 5 /2016, de 25 de maio."
+   }
+  },
+  {
+   "id": "TL-H251-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "O presente diploma entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": "PH-H238",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Sections Eighteen and Nineteen of the Philippine Tariff Act of August Five, Nineteen Hundred and Nine, as Amended",
+  "orig": "An Act to Amend Sections Eighteen and Nineteen of the Philippine Tariff Act of August Five, Nineteen Hundred and Nine, as Amended"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p03",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1947-06-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 142",
+ "officialCode": null,
+ "topics": [
+  "tax"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 3301,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1947/ra_142_1947.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1947/ra_142_1947.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H238-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section eighteen of the Act of the Congress of the United States approved on August five, nineteen hundred and nine, as amended by Act Numbered Forty hundred and thirty-four, and continued in force and effect on and after July, four, nineteen hundred and forty-six by Republic Act Numbered Three, is further amended to read as follows:\n\"Sec. 18. That invoices required by the preceding section shall, at or before the shipment of the merchandise, be produced to the consular officer of the Philippines of the consular district in which the merchandise was manufactured or purchased, or from which it is shipped, as the case may be.\n\"Invoices shall have indorsed thereon when produced as above prescribed a declaration signed by the purchaser, manufacturer, seller, owner, or agent setting forth that the invoice is in all respects correct and true and was made at the place from whence the merchandise is exported to the Philippines; that it contains, if the merchandise was obtained by purchase or an agreement to purchase, a true and full statement of the date when, the place where, the person from whom the same was purchased, and the actual cost thereof, and of all charges thereon; and that no discounts, bounties, or drawbacks are contained in the invoice except such as have been actually allowed thereon; and when obtained in any other manner than by purchase, or an agreement to purchase, the actual market value or wholesale price thereof, at the time of exportation to the Philippines, in the principal markets of the country from which exported; that such actual market value is the price at which the merchandise described in the invoice is freely offered for sale to all purchasers in said markets, and that it is the price which the manufacturer, seller, owner, or agent making the declaration would have received and was willing to receive for such merchandise sold in the ordinary course of trade in the usual wholesale quantities, and that it included all charges thereon; that the numbers, weight, or quantity stated is correct, and that no invoice of the merchandise described differing from the invoice so produced has been or will be furnished to anyone.\n\"If the merchandise was actually purchased, or shipped otherwise than in pursuance of a purchase or an agreement to purchase, the declaration shall also contain a statement that the amount shown is that which was actually paid, or the price that the shipper would have received, or was willing to receive, for such merchandise, and that the currency stated in such invoice is the currency of the purchase, or in which the transactions are usually made.\""
+   }
+  },
+  {
+   "id": "PH-H238-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section nineteen of the Act of the Congress of the United States approved on August five, nineteen hundred and nine, as continued in force and effect on and after July four, nineteen hundred and forty-six, by Republic Act Numbered Three, is hereby amended to read as follows:\n\"Sec. 19. The consular officers of the Philippines having any knowledge or information of any case or practice by which any person obtaining verification of any invoice defrauds or may defraud the revenue of the Philippines shall report the facts to the Insular Collector of Customs, through the Secretary of Foreign Affairs.\""
+   }
+  },
+  {
+   "id": "PH-H238-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved: June 14, 1947."
+   }
+  }
+ ]
+}

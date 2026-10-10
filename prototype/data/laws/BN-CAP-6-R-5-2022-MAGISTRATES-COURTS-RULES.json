@@ -1,0 +1,286 @@
+{
+ "id": "BN-CAP-6-R-5-2022-MAGISTRATES-COURTS-RULES",
+ "title": {
+  "zh": null,
+  "en": "R 5 2022 ED MAGISTRATES COURTS RULES",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p12",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": "CAP. 6",
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 17,
+ "chars": 20944,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-6-R-5-2022-ED-MAGISTRATES-COURTS-RULES.pdf",
+ "fetchedAt": "2026-10-09",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-6-R-5-2022-ED-MAGISTRATES-COURTS-RULES.pdf》（15 页），本次切分 17 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-6-R-5-2022-MAGISTRATES-COURTS-RULES-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "These Rules may be cited as the Magistrates’ Courts Rules."
+   }
+  },
+  {
+   "id": "BN-CAP-6-R-5-2022-MAGISTRATES-COURTS-RULES-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "(1) In this Part — “authorised user” means a person who is designated as an authorised user “deemed” means deemed until the contrary is proved; “electronic filing service” means the electronic filing service established “electronic filing service provider” means an electronic filing service provider appointed under rule 5; “electronic transmission” means electronic transmission by an authorised user or a registered user through the electronic filing service; “entity” means a sole proprietorship, an incorporated or unincorporated partnership (including a limited liability partnership and a limited partnership), a law corporation, a company or other body corporate, the Attorney General’s Chambers, a department of the Government or a public “identification code” means the identification code of an authorised user or a registered user that is to be used in conjunction with the electronic filing “originating process” means any process with respect to an application for the commencement of any civil proceedings, and includes a notice of appeal; “practice direction” means a practice direction issued by the Chief Justice “public authority” means a body established or constituted by or under any other written law to perform or discharge a public function; “registered user” means an entity who is registered under rule 8(1); “Registrar” means the Chief Registrar, Deputy Chief Registrar, Senior Registrar and Registrar of the Supreme Court appointed under section 30(1) of the Supreme Court Act (Chapter 5); “service bureau” means a service bureau established under rule 7(1).\n\n(2) An entity who is a registered user or a person who is an authorised user under Order 63A of the Rules of the Supreme Court is regarded for the purposes of these Rules to be registered under the provisions of these Rules. Practice directions"
+   }
+  },
+  {
+   "id": "BN-CAP-6-R-5-2022-MAGISTRATES-COURTS-RULES-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The Chief Justice may issue such practice directions relating to proceedings under any rules made under the Act.\n\nELECTRONIC FILING AND SERVICE"
+   }
+  },
+  {
+   "id": "BN-CAP-6-R-5-2022-MAGISTRATES-COURTS-RULES-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Electronic filing service"
+   },
+   "text": {
+    "en": "The Registrar or Magistrate may, with the approval of the Chief Justice, establish an electronic filing service and make provision for specified documents to be filed, served, delivered or otherwise conveyed using that service."
+   }
+  },
+  {
+   "id": "BN-CAP-6-R-5-2022-MAGISTRATES-COURTS-RULES-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Electronic filing service operator"
+   },
+   "text": {
+    "en": "The electronic filing service may be operated by the Registrar or Magistrate or an electronic filing service provider appointed by the Registrar or Magistrate with the approval of the Chief Justice."
+   }
+  },
+  {
+   "id": "BN-CAP-6-R-5-2022-MAGISTRATES-COURTS-RULES-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Computer system of electronic service provider"
+   },
+   "text": {
+    "en": "For the purposes of this Part, the computer system of an electronic filing service provider shall mean the computer servers and network equipment operated, maintained or used by the electronic filing service provider, notwithstanding that such computer servers and network equipment may not be owned by that electronic filing service"
+   }
+  },
+  {
+   "id": "BN-CAP-6-R-5-2022-MAGISTRATES-COURTS-RULES-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "text": {
+    "en": "(1) The Registrar or Magistrate may establish, or appoint agents to establish, a service bureau or service bureaux to assist in the filing, service, delivery or conveyance of documents using the electronic filing service.\n\n(2) Any agent appointed by the Registrar in pursuance of subrule (1) shall not be treated as such for the purposes of the acceptance of the payment of fees or service charges."
+   }
+  },
+  {
+   "id": "BN-CAP-6-R-5-2022-MAGISTRATES-COURTS-RULES-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Registered user and authorised user"
+   },
+   "text": {
+    "en": "(1) Any entity may apply to the Registrar to be a registered user in accordance with any procedure as may be set out for such applications in any practice direction.\n\n(2) Any entity which is a registered user may designate one or more of its partners, directors, officers or employees to be an authorised user in accordance with any procedure as may be set out in any practice direction.\n\n(3) The Registrar may allow an entity to be a registered user or a person to be an authorised user on such conditions as he thinks fit.\n\n(4) A registered user who designates an authorised user and supplies the authorised user’s identification code through the electronic filing service is deemed to approve the use of the identification code in conjunction with the electronic filing service by that authorised user.\n\n(5) Before using the electronic filing service, the registered user shall —\n\n(a) enter into an agreement with the electronic filing service provider for the provision of the electronic filing service; and\n\n(b) make arrangements with the Registrar for the mode of payment of the applicable fees prescribed in these Rules.\n\n(6) The Registrar may waive the application of subrule (5), in whole or in part, in relation to such registered users or class of registered users as he thinks fit.\n\n(7) For the purposes of these Rules, a service bureau is deemed to be a registered user and every employee of a service bureau is an authorised user."
+   }
+  },
+  {
+   "id": "BN-CAP-6-R-5-2022-MAGISTRATES-COURTS-RULES-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Electronic filing"
+   },
+   "text": {
+    "en": "(1) Where a document is required to be filed with, served on, delivered or otherwise conveyed to the Magistrate under any other provision of these Rules, it may be so filed, served, delivered or otherwise conveyed using the electronic filing service in accordance with this Part and any practice direction.\n\n(2) For the purposes of subrule (1), any requirement for the filing, service, delivery or otherwise conveyance of a document is satisfied by the filing, service, delivery or otherwise conveyance of a single copy using the electronic filing service in accordance with this Part.\n\n(3) Filing, service, delivery or conveyance of a document using the electronic filing service in pursuance of subrule (1) may be done in one of the following ways —\n\n(a) by electronic transmission; or\n\n(b) via a service bureau.\n\n(4) Notwithstanding anything in subrule (1), the Magistrate may allow a document, part of a document or any class of documents to be filed, served, delivered or otherwise conveyed other than by using the electronic filing service.\n\n(5) The form of any document shall be as set out —\n\n(a) in any practice direction; or\n\n(b) where the document is remotely composed on the computer system of the electronic filing service provider, in the form made available through the and shall, in the absence of such prescription, be in the prescribed form.\n\n(6) Any document which is filed with, served on, delivered or otherwise conveyed to the Magistrate through the electronic filing service by a registered user using an identification code is deemed to have been so filed, served, delivered or otherwise conveyed by the registered user and with his intention to do so.\n\n(7) Any document which is filed with, served on, delivered or otherwise conveyed to the Magistrate through the electronic filing service by an authorised user (other than an employee of a service bureau) using an identification code is deemed to have been so filed, served, delivered or otherwise conveyed —\n\n(a) by the authorised user on behalf and with the authority of the registered user to whom the authorised user belongs; and\n\n(b) with the intention of that registered user to do so.\n\n(8) Any document which is filed with, served on, delivered or otherwise conveyed to the Magistrate through the electronic filing service by an authorised user, who is an employee of a service bureau, using an identification code is deemed to have been so filed, served, delivered or otherwise conveyed —\n\n(a) on behalf and with the authority of the person tendering the document to the service bureau for such purpose and with the intention of that person to do so; or\n\n(b) where the person tendering the document to the service bureau is acting as agent for his principal, on behalf and with the authority of his principal and with the intention of the principal to do so.\n\n(9) For the avoidance of doubt, it is declared that a document which is filed, served, delivered or otherwise conveyed to the Magistrate using an identification code in compliance with the security procedures of the electronic filing service is a secure electronic record within the meaning of the Electronic Transactions Act (Chapter 196)."
+   }
+  },
+  {
+   "id": "BN-CAP-6-R-5-2022-MAGISTRATES-COURTS-RULES-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Signing of electronic documents"
+   },
+   "text": {
+    "en": "(1) Where a document is filed, served, delivered or otherwise conveyed using the electronic filing service, any requirement under these Rules relating to signing by or the signature of an authorised user or a registered user, is deemed to be complied with if the identification code of the authorised user or registered user has been applied to or associated with, directly or indirectly, the document or the transmission containing the\n\n(2) For the purposes of subrule (1) —\n\n(a) where the identification code of a registered user is applied to or associated with, directly or indirectly, a document or a transmission containing a document in compliance with the security procedures of the electronic filing\n\n(i) the document is deemed to be signed by the registered user; and\n\n(ii) the contents of the document is deemed to be endorsed by the\n\n(b) where the identification code of an authorised user (other than an employee of a service bureau) is applied to or associated with, directly or indirectly, a document or a transmission containing a document in compliance with the security procedures of the electronic filing service —\n\n(i) the document is deemed to be signed by the authorised user on behalf and with the authority of the registered user to whom the authorised user belongs; and\n\n(ii) the contents of the document is deemed to be endorsed by that registered user; or\n\n(c) where the identification code of an authorised user, who is an employee of a service bureau, is applied to or associated with, directly or indirectly, a document or a transmission containing a document in compliance with the security procedures of the electronic filing service —\n\n(i) the document is deemed to be signed by the authorised user on behalf and with the authority of the person tendering the document to the service bureau and the contents of the document is deemed to be endorsed by that person; or\n\n(ii) where the person tendering the document to the service bureau is acting as agent for his principal, the document is deemed to be signed on behalf and with the authority of his principal and the contents of the document is deemed to be endorsed by his\n\n(3) Where any other written law or practice direction requires the signature of an advocate or solicitor, the requirement is deemed to be met where the identification code of the advocate or solicitor has been applied to or associated with, directly or indirectly, the document or the transmission containing the document to be signed in compliance with the security procedures of the electronic filing service.\n\n(4) For the avoidance of doubt, it is declared that the application to or association of the identification code of an authorised user or a registered user, directly or indirectly, with a document or a transmission containing a document in compliance with the security procedures of the electronic filing service is a secure electronic signature within the meaning of the Electronic Transactions Act (Chapter 196)."
+   }
+  },
+  {
+   "id": "BN-CAP-6-R-5-2022-MAGISTRATES-COURTS-RULES-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "text": {
+    "en": "(1) Where a document is filed with, served on, delivered or otherwise conveyed to the Magistrate using the electronic filing service and is subsequently accepted by the Magistrate, it is deemed to be filed, served, delivered or otherwise conveyed —\n\n(a) where the document is filed, served, delivered or otherwise conveyed by electronic transmission from the computer system of the authorised user or registered user, on the date and at the time that the first part of the transmission is received in the computer system of the Magistrate or the electronic filing service provider, as the case may be;\n\n(b) where the document is remotely composed on the computer system of the electronic filing service provider, on the date and at the time that the first part of the transmission containing instructions from the authorised user or registered user to so file, serve, deliver or otherwise convey the document is received in the computer system of the Magistrate or the electronic filing service provider, as the\n\n(c) where the document is filed, served, delivered or otherwise conveyed via a service bureau, on the date and at the time that the first part of the transmission is received in the computer system of the Magistrate.\n\n(2) Where an originating process is filed or otherwise conveyed using the electronic filing service and it is subsequently accepted by the Magistrate, it is deemed\n\n(a) where the document is filed or otherwise conveyed by electronic transmission, on the date and at the time that the first part of the transmission is received in the computer system of the Magistrate or electronic filing service provider, as the case may be;\n\n(b) where the document is filed or otherwise conveyed via a service bureau, on the date and at the time that the first part of the transmission is received in the computer system of the Magistrate or electronic filing service provider, as the\n\n(3) The registered user may produce a record of the transmission issued by the Magistrate, electronic filing service provider or service bureau, as the case may be, together with a copy of the notification of acceptance of the document by the Magistrate\n\n(a) the filing or issuance of an originating process;\n\n(b) the filing, service, delivery or otherwise conveyance of any other\n\n(c) the date and time either or both of these events took place.\n\n(4) If the Magistrate is satisfied for any reason that a document should be treated as having been filed with, served on, delivered or otherwise conveyed to the Magistrate, or issued, at some earlier date and time, than the date and time provided for under subrule (1) or (2), he may cause the electronic filing service to reflect such earlier date and time, and that earlier date and time is deemed for all purposes to be the date and time on and at which the document was filed, served, delivered, otherwise conveyed or issued, as the case may be."
+   }
+  },
+  {
+   "id": "BN-CAP-6-R-5-2022-MAGISTRATES-COURTS-RULES-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "text": {
+    "en": "(1) Where a document is filed with, served on, delivered or otherwise conveyed to the Magistrate by electronic transmission, the time for service of that document shall begin to run from the time the Magistrate transmits an acknowledgment of his acceptance of the document to the registered user.\n\n(2) Where a document is filed with or otherwise conveyed to the Magistrate via a service bureau, the time for service of that document shall only begin to run from the time that the Magistrate’s notification of his acceptance of the document is received by the service bureau.\n\n(3) If the Magistrate’s acknowledgement and notification referred to in subrules (1) and (2) respectively is received in the computer system of the registered user or service bureau, as the case may be, on a day other than a working day, it is deemed for the purpose of this rule to have been received on the next working day."
+   }
+  },
+  {
+   "id": "BN-CAP-6-R-5-2022-MAGISTRATES-COURTS-RULES-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "(1) If a document —\n\n(a) other than a document which is required by these Rules to be served\n\n(b) being a document which is required by these Rules to be served personally and which the party to be served has agreed may be served using the is required under any other provision of these Rules to be served, delivered or otherwise conveyed by a person to any other person and that person is an authorised user or a registered user or is represented by a solicitor who is an authorised user or a registered user (referred to in this rule as the person on whom the document is served), such service, delivery or otherwise conveyance may be effected by using the electronic filing service by electronic transmission or via a service bureau.\n\n(2) For the purposes of subrule (l)(b), a party who has instructed his solicitor to accept service of a document which is required by these Rules to be served personally is deemed to have agreed to be served using the electronic filing service.\n\n(3) The document is deemed to be served, delivered or otherwise conveyed —\n\n(a) where the document is served, delivered or otherwise conveyed by electronic transmission from the computer system of the authorised user or registered user on the date and at the time that the first part of the transmission is received in the computer system of the electronic filing service provider; and\n\n(b) where the document is remotely composed on the computer system of the electronic filing service provider, on the date and at the time that the first part of the transmission containing instructions from the authorised user or registered user to so serve, deliver or otherwise convey the document is received in the computer system of the electronic filing service provider.\n\n(4) The person serving the document may produce a record of the service, delivery or conveyance to the person on whom the document is served which is issued by the electronic filing service provider or the service bureau as evidence of the service, delivery or conveyance, as well as the date and time of such service, delivery or\n\n(5) The person serving the document may file a Magistrate’s certificate of service issued through the electronic filing service provider or the service bureau in lieu of an affidavit of service and the certificate shall be regarded as prima facie evidence of such service, delivery or conveyance on the date and at the time as stated.\n\n(6) Where a document has to be served, delivered or conveyed by the person serving the document to more than one person, he may effect such service, delivery or conveyance using the electronic filing service on such of those persons who are registered users or authorised users, and subrules (1), (3) and (4) apply with such modifications as are necessary.\n\n(7) Any document which is served, delivered or otherwise conveyed by a registered user to a person through the electronic filing service using an identification code is deemed to have been so served, delivered or otherwise conveyed by the registered user and with his intention to do so.\n\n(8) Any document which is served, delivered or otherwise conveyed by an authorised user (other than an employee of a service bureau) to a person through the electronic filing service using an identification code is deemed to have been so served, delivered or otherwise conveyed —\n\n(a) by the authorised user on behalf and with the authority of the registered user to whom the authorised user belongs; and\n\n(b) with the intention of that registered user to do so.\n\n(9) Any document which is served, delivered or otherwise conveyed by an authorised user, who is an employee of a service bureau, is deemed to have been so served, delivered or otherwise conveyed —\n\n(a) on behalf and with the authority of the person tendering the document to the service bureau for such purpose and with the intention of that person to do so; or\n\n(b) where the person tendering the document to the service bureau is acting as agent for his principal, on behalf and with the authority of his principal and with the intention of the principal to do so.\n\n(10) For the avoidance of doubt, it is declared that any document which is served, delivered or otherwise conveyed to a person using an identification code in compliance with the security procedures of the electronic filing service is a secure electronic record within the meaning of the Electronic Transactions Act (Chapter 196). Notification or delivery by Magistrate"
+   }
+  },
+  {
+   "id": "BN-CAP-6-R-5-2022-MAGISTRATES-COURTS-RULES-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Notifications or delivery by Magistrate"
+   },
+   "text": {
+    "en": "Where the Magistrate is required by any provision of these Rules to notify or to deliver or furnish any document to a person who is a registered user, the Magistrate may do so by using the electronic filing service."
+   }
+  },
+  {
+   "id": "BN-CAP-6-R-5-2022-MAGISTRATES-COURTS-RULES-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Mode of amendment of electronic document"
+   },
+   "text": {
+    "en": "Amendment to document shall be effected in the manner provided in any practice Affidavits in electronic form"
+   }
+  },
+  {
+   "id": "BN-CAP-6-R-5-2022-MAGISTRATES-COURTS-RULES-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "__________________________________"
+   },
+   "text": {
+    "en": "(1) Affidavits which are filed in Court using the electronic filing service may be used in all proceedings to the same extent and for the same purposes as paper affidavits\n\n(2) Where an affidavit is to be filed in Court using the electronic filing service, it shall comply with the following requirements —\n\n(a) the affidavit must be sworn in the usual way in which the deponent signs the original paper affidavit;\n\n(b) a true and complete electronic image of the original paper affidavit must\n\n(c) the original paper affidavit must be retained by the party who filed it for a period of 7 years after it is filed.\n\n(3) Notwithstanding subrule (2)(c), if the original paper affidavit subsequently becomes unavailable within 7 years after it was filed, the Court may grant leave for the electronic image of the original paper affidavit filed in Court using the electronic filing service to be used in the proceedings for which it was filed, or in any other proceedings."
+   }
+  },
+  {
+   "id": "BN-CAP-6-R-5-2022-MAGISTRATES-COURTS-RULES-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "text": {
+    "en": "Where a document was filed using the electronic filing service and there is any inconsistency between —\n\n(a) the information entered into the electronic template of the document or of the transmission containing the document; and\n\n(b) the information contained in the document, the information contained in the document shall prevail where that document is remotely composed on the computer system of the Magistrate, or electronic filing service provider, as the case may be, and in all other cases the information entered into the electronic template of the document shall prevail."
+   }
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "id": "PH-H651",
+ "title": {
+  "zh": null,
+  "en": "An Act Establishing a Blood Plasma Dehydrating Plant",
+  "orig": "An Act Establishing a Blood Plasma Dehydrating Plant"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p09",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1951-06-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 662",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 892,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1951/ra_662_1951.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1951/ra_662_1951.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H651-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There is hereby established, under the Department of Health, a blood plasma dehydrating plant for the purpose of collecting, treating, conserving and storing blood to be used in minimizing suffering and saving human lives."
+   }
+  },
+  {
+   "id": "PH-H651-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The Secretary of Health shall, in accordance with the Civil Service Law and regulations and the Salary Law, appoint and fix the salary of the personnel to carry out the purpose of this Act."
+   }
+  },
+  {
+   "id": "PH-H651-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The Secretary of Health shall issue such rules and regulations as may be necessary to carry out the purpose of this Act."
+   }
+  },
+  {
+   "id": "PH-H651-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "There is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of seven hundred thousand pesos for the establishment, operation and maintenance of the blood plasma dehydrating plant during the fiscal year nineteen hundred and fifty-one."
+   }
+  },
+  {
+   "id": "PH-H651-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 16, 1951."
+   }
+  }
+ ]
+}

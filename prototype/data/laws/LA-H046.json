@@ -1,0 +1,724 @@
+{
+ "id": "LA-H046",
+ "title": {
+  "zh": "宪法_2025修正版",
+  "en": "老挝人民民主共和国宪法（2025年修正版）",
+  "orig": null
+ },
+ "country": "LA",
+ "countryName": "老挝",
+ "layer": "intl",
+ "pack": "la-p02",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2025",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "老挝官方发布渠道",
+ "docNumber": "2025修正版",
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 68,
+ "chars": 33148,
+ "source": {
+  "name": "老挝官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "自 2026-10-06 全库备份回流（_work/_backup_20261006/data/LA-H046.json）；条文逐字取自该备份，未改写、未补全；原始来源见 source 字段。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "LA-H046-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Article 55"
+   },
+   "text": {
+    "en": "Each term of the National Assembly lasts five years. \n\nMembers of the National Assembly must be Lao citizens and are elected in accordance with the \n\nlaw. \n\nElections for a new Assembly must be held no later than sixty days before the current term ends. \n\nIn case of war or other serious obstacles preventing elections, the Assembly may extend its term. \nHowever, elections must take place no later than six months after conditions return to normal. If \nnecessary, the Assembly may hold early elections before its term ends, with the approval of at least \ntwo-thirds of its members present at the session."
+   }
+  },
+  {
+   "id": "LA-H046-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Article 56"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe Standing Committee of the National Assembly is the permanent body of the Assembly, \n\nacting on its behalf when the Assembly is not in session. \n\n12 \n\n \n \n\fThe Standing Committee consists of a President, a Vice President, and members. \n\nThe President and Vice President of the National Assembly are also the President and Vice \n\nPresident of the Standing Committee. \n\nThe President of the Standing Committee, the Presidents of the Commissions, and the Heads of \n\nthe Assembly’s departments may serve no more than two consecutive terms."
+   }
+  },
+  {
+   "id": "LA-H046-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Article 57"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe Standing Committee of the National Assembly has the following rights and duties: \n\n1.  Prepare and convene sessions of the National Assembly; \n\n2.  Propose the drafting, amendment, interpretation, and explanation of the Constitution and laws; \n\n3.  Propose draft legislation to the President of the State. \n\n4.  Appoint, transfer, or remove the heads of the court panels of the Supreme People’s Court and \n\njudges of the People’s Court; \n\n5.  Appoint the members of the Supreme People’s Prosecutor Committee; \n\n6.  Appoint the members of the National Election Committee; \n\n7.  Consider and decide on the ratification, accession, or withdrawal of international treaties to which \n\nthe Lao PDR is a party; \n\n8.  Receive and consider petitions submitted by citizens seeking justice."
+   }
+  },
+  {
+   "id": "LA-H046-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Article 58"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe National Assembly convenes two regular sessions per year. The Standing Committee may \n\nalso convene an extraordinary session if deemed necessary and urgent. \n\nA session of the National Assembly can only proceed if more than half of its members are \n\npresent."
+   }
+  },
+  {
+   "id": "LA-H046-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Article 59"
+   },
+   "text": {
+    "en": "(Amended) \n\nA resolution of the National Assembly is valid only if more than half of the attending members \n\nvote in favor, except in cases stipulated by Articles 55, 67, 69, and 121 of the Constitution."
+   }
+  },
+  {
+   "id": "LA-H046-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Article 60"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe following entities have the right to propose draft laws: \n\n13 \n\n \n \n \n\f1.  The President of the State; \n\n2.  The Standing Committee of the National Assembly; \n\n3.  The Government; \n\n4.  The Supreme People’s Court; \n\n5.  The Supreme People’s Prosecutor; \n\n6.  The State Inspection Authority; \n\n7.  The State Audit Organization; \n\n8.  The Lao Front for National Construction, the Lao Veterans Federation, and mass organizations at \n\nthe central level."
+   }
+  },
+  {
+   "id": "LA-H046-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Article 61"
+   },
+   "text": {
+    "en": "(Amended) \n\nA law approved by the National Assembly must be promulgated by the President no later than 30 \ndays from the date of approval. Within this period, the President has the right to request reconsideration of \nthe law by the National Assembly. If the National Assembly confirms its previous decision, the President \nmust promulgate the law within 15 days thereafter. \n\nAll promulgated laws must be published in the official gazette, unless the law specifies otherwise."
+   }
+  },
+  {
+   "id": "LA-H046-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Article 62"
+   },
+   "text": {
+    "en": "Issues related to the fate of the nation and the vital interests of the people must be investigated \n\nand considered by the National Assembly or its Standing Committee."
+   }
+  },
+  {
+   "id": "LA-H046-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Article 63"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe National Assembly shall establish committees and offices to serve as the Secretariat for the \nNational Assembly and its Standing Committee, in order to organize and implement their duties within \nthe scope of their rights and responsibilities."
+   }
+  },
+  {
+   "id": "LA-H046-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Article 64"
+   },
+   "text": {
+    "en": "(Amended) \n\nMembers of the National Assembly have the right to question the following officials: the \nPresident, the President of the National Assembly, the Prime Minister, members of the Government, the \nPresident of the Supreme People’s Court, the President of the Supreme People’s Prosecutor Office, the \nPresident of the State Inspection Authority, the Head of the Central Anti-Corruption Authority, and the \nPresident of the State Audit Organization. \n\n14 \n\n \n \n \n\fPersons being questioned must respond before the National Assembly, either verbally or in \n\nwriting."
+   }
+  },
+  {
+   "id": "LA-H046-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Article 65"
+   },
+   "text": {
+    "en": "A member of the National Assembly shall not be subject to criminal proceedings, arrest, \n\ndetention, or imprisonment unless permission is granted by the National Assembly or its Standing \nCommittee. \n\nIn cases involving an immediate offense or other urgent circumstances, the relevant authorities \n\nshall promptly report the matter to the National Assembly or its Standing Committee for deliberation. \n\nOngoing investigations must not obstruct the participation of a National Assembly member in \n\nAssembly meetings. \n\nChapter VI \nThe President of the State"
+   }
+  },
+  {
+   "id": "LA-H046-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Article 66"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe President is the Head of State of the Lao People’s Democratic Republic, and represents the \n\nmultiethnic Lao people both domestically and internationally. The President serves as the Chairman of the \nNational Defense and Security Committee, and the Commander-in-Chief of the People’s Armed Forces. \nThe President’s role is to guarantee the independence, sovereignty, territorial integrity, stability, and \nsecurity of the nation."
+   }
+  },
+  {
+   "id": "LA-H046-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Article 67"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe President is elected by the National Assembly with a vote of more than two-thirds of its \n\nattending members. \n\nThe term of office of the President is equal to that of the National Assembly, and one individual \n\nmay serve no more than two consecutive terms. \n\nThe President has an Office of the President to assist in carrying out their duties."
+   }
+  },
+  {
+   "id": "LA-H046-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Article 68"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe President has the following rights and responsibilities: \n\n1.  To promulgate the Constitution and laws; \n\n2.  To issue presidential ordinances and decrees; \n\n3.  To convene and preside over special meetings of the Government, and to participate in Standing \n\nCommittee meetings of the National Assembly when necessary; \n\n15 \n\n \n\f4.  To appoint, transfer, or dismiss the Deputy Prime Minister and members of the Government, after \n\napproval by the National Assembly; \n\n5.  To appoint, transfer, or dismiss the Vice President of the Supreme People’s Court, the Vice \n\nPresident of the Supreme People’s Prosecutor Office, the Vice President of the State Inspection \nAuthority, the Deputy Head of the Central Anti-Corruption Authority, and the Vice President of \nthe State Audit Organization; \n\n6.  To decide on the promotion, demotion or removal of military ranks within the national defense \n\nand security forces; \n\n7.  To appoint, transfer, or dismiss the Head and Deputy Head of the Office of the President; \n\n8.  To appoint or recall Ambassadors Extraordinary and Plenipotentiary of the Lao PDR abroad, and \n\nto accept or reject foreign Ambassadors or Permanent Representatives accredited to Laos; \n\n9.  To declare the formation of the national election commission, election dates, number of \n\ncandidates, and seats for the National Assembly and provincial People’s Assemblies, based on \nproposals from the Standing Committee of the National Assembly; \n\n10.  To declare war or peace based on the decision of the National Assembly; to approve general or \n\npartial mobilization and the state of emergency nationwide or in specific regions; \n\n11.  To award or revoke national decorations such as Orders of Merit, Medals of Honor, Victory \n\nMedals, or other honorary titles; \n\n12.  To grant pardons and declare amnesties, after approval by the National Assembly; \n\n13.  To grant political asylum to foreign individuals. \n\n14.  To decide on negotiations or signings, to declare ratification or accession, and to approve or \n\nterminate treaties in the name of the Lao People’s Democratic Republic."
+   }
+  },
+  {
+   "id": "LA-H046-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Article 69"
+   },
+   "text": {
+    "en": "The President has a Vice President, elected by the National Assembly with a vote of more than \n\ntwo-thirds of its attending members. \n\nThe Vice President performs duties as assigned by the President and represents the President \n\nduring times when the President is occupied. \n\nIf the President is unable to carry out their responsibilities, the Vice President shall serve as acting \n\nPresident until a new President is elected by the National Assembly. \n\nChapter VII \n\n16"
+   }
+  },
+  {
+   "id": "LA-H046-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Article 70"
+   },
+   "text": {
+    "en": "The Government \n\nThe Government is the executive branch responsible for state administration in a unified and \n\ncomprehensive manner throughout the country. \n\nThe Government is accountable to the National Assembly and the President of the State."
+   }
+  },
+  {
+   "id": "LA-H046-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Article 71"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe Government has the following rights and duties: \n\n1.  To implement the strategic directions, Constitution, laws, resolutions of the National Assembly \nand of the Standing Committee of the National Assembly, as well as presidential ordinances and \ndecrees; \n\n2.  To submit draft laws to the National Assembly, draft presidential ordinances to the Standing \n\nCommittee of the National Assembly, and draft executive decrees to the President; \n\n3.  To issue decrees and decisions related to governance, economic and social affairs, science, \n\ntechnology, natural resources, environment, national defense and security, and foreign affairs; \n\n4.  To determine visions, strategic plans, socio-economic development plans, and state budgets, and \n\npropose them to the National Assembly for review and approval; \n\n5.  To propose to the National Assembly the establishment, merger, or dissolution of ministries, \nministry-level organizations, the capital city, and provinces, as well as adjustments to their \nboundaries; \n\n6.  To decide on the establishment, merger, or dissolution of departments or ministry-equivalent \n\norganizations; \n\n7.  To decide on the establishment, merger, or dissolution of districts, municipalities, and their \n\nboundaries after approval by provincial People’s Assemblies; \n\n8.  To establish or dissolve special economic zones, specific economic zones, and international \n\nborder checkpoints. \n\n9.  To lead, monitor, and inspect the operations of various bodies, including local administrative \n\nbodies, and national defense and security forces; \n\n10.  To decide on granting nationality, revoking nationality, restoring nationality, or reinstating Lao \n\nnationality; \n\n11.  To confer honorary citizenship to foreigners; \n\n17 \n\n \n \n\f12.  To decide on signing, approving, acceding to, or terminating international treaties and agreements \n\non behalf of the Lao People’s Democratic Republic; \n\n13.  To suspend, repeal, or annul decisions, orders, or guidelines issued by ministries, \n\nministry-equivalent bodies, and local administrations that contradict laws and other legal \ninstruments, except for judgments and decisions of the People’s Court and the Office of the \nPublic Prosecutor. \n\n14.  To report on its activities to the National Assembly, the Standing Committee of the National \n\nAssembly, and the President."
+   }
+  },
+  {
+   "id": "LA-H046-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "Article 72"
+   },
+   "text": {
+    "en": "The Government consists of the Prime Minister, Deputy Prime Ministers, Ministers, and Heads of \n\nMinistry-equivalent organizations. \n\nThe Government’s term shall be equal to that of the National Assembly. Members of the \n\nGovernment may serve for no more than two consecutive terms."
+   }
+  },
+  {
+   "id": "LA-H046-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "Article 73"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe Prime Minister is the head of the Government and its representative. They lead and direct the \n\nGovernment’s operations and the local administrations. The Prime Minister has the authority to appoint, \ntransfer, or remove Vice Ministers, Vice-Chairpersons of ministry-equivalent organizations and heads and \ndeputy heads of sub-ministries, Directors-General; and the Heads  of the local commissions of the Capital \nand Provinces, following confirmation by the respective Provincial People’s Assemblies. \n\nThey may also propose the promotion or dismissal of officers with the rank of General or Colonel \n\nwithin the national defense and public security forces."
+   }
+  },
+  {
+   "id": "LA-H046-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "Article 74"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe Deputy Prime Ministers assist the Prime Minister in leading Government operations and \n\nlocal administrations and are responsible for specific portfolios assigned by the Prime Minister. \n\nIn the absence or incapacity of the Prime Minister, one of the Deputy Prime Ministers will serve as acting \nPrime Minister."
+   }
+  },
+  {
+   "id": "LA-H046-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "Article 75"
+   },
+   "text": {
+    "en": "Ministers and Heads of ministry-equivalent bodies are responsible for implementing and \nexpanding resolutions from the National Assembly, its Standing Committee, and the Government. They \nare to lead, manage, and supervise the execution of work within their sectors and coordinate with others, \nand sign treaties and agreements with foreign countries based on Government approval. \n\n18"
+   }
+  },
+  {
+   "id": "LA-H046-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "Article 76"
+   },
+   "text": {
+    "en": "Any member of the Government or the entire Cabinet of Ministers may be subject to a vote of no \n\nconfidence by the National Assembly if the Standing Committee of the National Assembly or at least \none-fourth of all National Assembly members submit such a motion. \n\nIn the event that a vote of no confidence is passed, the President may propose for the National \n\nAssembly to reconsider or may decide to dismiss the concerned member(s) of Government. \n\nChapter VIII \nLocal People’s Assemblies"
+   }
+  },
+  {
+   "id": "LA-H046-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "Article 77"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe Local People’s Assembly is the representative body of the rights and interests of the Lao \nmulti-ethnic people. It is the state authority at the local level, responsible for enacting legally binding \nresolutions within its jurisdiction, deliberating fundamental issues of the locality, and monitoring the work \nof local state bodies. \n\nLocal People’s Assemblies are established according to levels of local governance, including the \n\nprovincial level, the district level, and the sub-district level.The district and sub-district People’s \nAssemblies may be established based on a resolution of the National Assembly. \n\nThe term of the Local People’s Assemblies shall be equal to that of the National Assembly."
+   }
+  },
+  {
+   "id": "LA-H046-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "Article 78"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe Provincial People’s Assembly has the following rights and duties: \n\n1.  To deliberate and approve resolutions that have general binding effect within its locality; \n\n2.  To deliberate and approve the local socio-economic development plan, state budget plan, and any \n\nproposed amendments to the local budget; \n\n3.  To elect or dismiss the President, Vice President, and members of the Standing Committee of the \n\nProvincial People’s Assembly; \n\n4.  To deliberate and approve the appointment, transfer, or dismissal of Administrative Committee \n\nChairpersons and the Secretary General of the Provincial People’s Assembly; \n\n5.  To deliberate and approve the organizational structure of the Provincial People’s Assembly and \n\nany creation, integration, or dissolution of its departments; \n\n6.  To deliberate and approve the appointment, transfer, or dismissal of the Administrative \n\nCommittee Chairpersons of the Capital or Province; \n\n19 \n\n \n \n\f7.  To deliberate and approve the organizational structure of the Provincial or Capital Administrative \n\nCommittees; and proposals concerning the appointment, transfer, or dismissal of Vice \nChairpersons of the Capital/Provincial Committees, Heads of Departments, Heads of \ndepartment-equivalent bodies within the Capital/Provinces, Chairpersons of District/Municipality \nAdministrative Committees. \n\n8.  To deliberate and approve the proposal of the Chairpersons of the Provincial or Capital \n\nAdministrative Committees concerning the establishment, merging, or dissolution of departments \nand department-equivalent offices of the Capital or Province; \n\n9.  To deliberate and approve the proposal for the appointment, transfer, or dismissal of the President \n\nof the People’s Court at the Capital, Province, and District-levels; \n\n10.  To deliberate and approve the proposal for the appointment, transfer, or dismissal of the Head of \n\nthe People’s Prosecutor’s Office at the Capital, Province, and District-levels; \n\n11.  To deliberate and approve the creation, dissolution, or boundary modification of districts, cities, \n\nand sub-districts; \n\n12.  To monitor and inspect the compliance and implementation of the Constitution and laws by local \n\nstate organizations; \n\n13.  To revoke or annul regulations, orders, recommendations, or other legal acts of any agency under \nits jurisdiction or subordinate levels that conflict with the law, except for court judgments or \ndecisions of the People’s Prosecutor’s Office."
+   }
+  },
+  {
+   "id": "LA-H046-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "Article 79"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe Standing Committee of the Provincial People’s Assembly is the executive body of the \n\nProvincial People’s Assembly and acts on its behalf during periods when the assembly is not in session. \n\nThe Standing Committee is composed of a President, Vice President, and members. \n\nThe President and Vice President of the Provincial People’s Assembly concurrently serve as the \n\nPresident and Vice President of the Standing Committee. \n\nThe President of the Standing Committee, Chairpersons of committees, and Heads of departments \n\nwithin the Provincial People’s Assembly may serve no more than two consecutive terms."
+   }
+  },
+  {
+   "id": "LA-H046-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "Article 80"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe Standing Committee of the Provincial People’s Assembly has the following rights and duties: \n\n1.  To prepare and convene sessions of the Provincial People’s Assembly; \n\n2.  To deliberate and approve proposals for the appointment, transfer, or dismissal of People’s Court \n\nofficials, as specified by law; \n\n20 \n\n \n \n\f3.  To deliberate and approve the proposal for the appointment of the members of the Provincial, \n\nCapital, or District/City Prosecutor’s Committee; \n\n4.  To appoint the local election committee; \n\n5.  To receive and consider citizen petitions for justice within its jurisdiction."
+   }
+  },
+  {
+   "id": "LA-H046-A81",
+   "no": 81,
+   "noLabel": {
+    "en": "Article 81"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe Provincial People’s Assembly shall convene two regular sessions per year. The Standing \nCommittee of the Provincial People’s Assembly may also convene an extraordinary session if deemed \nnecessary and urgent. \n\nA session may proceed only when more than half of all members of the Provincial People’s \n\nAssembly are present."
+   }
+  },
+  {
+   "id": "LA-H046-A82",
+   "no": 82,
+   "noLabel": {
+    "en": "Article 82"
+   },
+   "text": {
+    "en": "Resolutions of the Provincial People’s Assembly shall be valid only when they receive a majority \n\nvote from the attending members of the Assembly."
+   }
+  },
+  {
+   "id": "LA-H046-A83",
+   "no": 83,
+   "noLabel": {
+    "en": "Article 83"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe Provincial People’s Assembly shall establish various committees and offices to act as \nsecretariat for the Assembly and its Standing Committee in the performance of their duties and within the \nscope of their rights."
+   }
+  },
+  {
+   "id": "LA-H046-A84",
+   "no": 84,
+   "noLabel": {
+    "en": "Article 84"
+   },
+   "text": {
+    "en": "(Amended) \n\nMembers of the Provincial People’s Assembly have the right to question the following officials: \n\nthe Chairpersons of Capital and Provincial Administrative Committees; Heads of departments and \ndepartment-equivalent bodies at the provincial level; Chairpersons of District and Capital Administrative \nCommittees; Presidents of the People’s Courts; Heads of the People’s Prosecutor’s Office at the provincial \nand capital levels; Regional Audit Chairpersons; Provincial Heads of the State Inspection Authority; and \nHeads of provincial-level anti-corruption bodies. \n\nThose questioned must provide explanations to the Assembly either verbally or in writing."
+   }
+  },
+  {
+   "id": "LA-H046-A85",
+   "no": 85,
+   "noLabel": {
+    "en": "Article 85"
+   },
+   "text": {
+    "en": "(Amended) \n\nA member of the Provincial People’s Assembly shall not be subject to criminal prosecution, \n\narrest, detention, or imprisonment unless prior approval is obtained from the Assembly or its Standing \nCommittee. \n\nIn cases involving an immediate offense or other urgent circumstances, the relevant authorities \n\nmust immediately report to the Assembly or its Standing Committee for consideration. \n\n21 \n\n \n \n\fOngoing investigation or interrogation shall not be a reason for preventing the member from \n\nparticipating in Assembly sessions. \n\nCHAPTER IX  \nLocal Administration"
+   }
+  },
+  {
+   "id": "LA-H046-A86",
+   "no": 86,
+   "noLabel": {
+    "en": "Article 86"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe Lao People’s Democratic Republic divides local administration into three levels: the \n\nProvincial level, the District level, and the Sub-district level. \n\nVillages are recognized as community organizations."
+   }
+  },
+  {
+   "id": "LA-H046-A87",
+   "no": 87,
+   "noLabel": {
+    "en": "Article 87"
+   },
+   "text": {
+    "en": "(Amended) \n\nLocal administrative bodies are the administrative organs at the local level. They are responsible \n\nfor comprehensively managing state administration within their jurisdictions. \n\nLocal administrative bodies are accountable to the Government and to their respective local \n\npeople’s assemblies. \n\nThey consist of the Administrative Committees at the Provincial, District, and Sub-district level. \n\nEach Administrative Committee comprises a Chairperson, Vice Chairperson(s), and members. \n\nThe term of office of each Administrative Committee shall be equal to the term of the \n\ncorresponding local people’s assembly."
+   }
+  },
+  {
+   "id": "LA-H046-A88",
+   "no": 88,
+   "noLabel": {
+    "en": "Article 88"
+   },
+   "text": {
+    "en": "(Amended) \n\nLocal administrative bodies shall have the following rights and duties: \n\n1.  Implement the Constitution, laws, legislation, resolutions of the local people’s assembly, and local \n\nsocio-economic development and budget plans; \n\n2.  Develop local socio-economic development plans, budget plans, and national defense–security \n\nplans for submission to the local people’s assembly for consideration and approval; \n\n3.  Manage and oversee political, economic, cultural-social, national defense–security, natural \n\nresources, environmental, and other affairs in their jurisdictions; \n\n4.  Issue regulations related to economic, social, and defense-security management; \n\n5.  Monitor and inspect the implementation of duties by agencies under their supervision; \n\n22 \n\n \n \n \n \n\f6.  Manage Lao citizens, foreigners, stateless persons, and foreign residents within their territories; \n\n7.  Receive, review, and resolve petitions and proposals of the people; \n\n8.  Engage in foreign relations and cooperation as assigned by the Government; \n\n9.  Summarize and report on the overall implementation of duties in their jurisdictions to higher-level \n\nauthorities and to their local people’s assemblies on a regular basis. \n\nCHAPTER X \n\nPeople’s Courts and People’s Prosecutor"
+   }
+  },
+  {
+   "id": "LA-H046-A89",
+   "no": 89,
+   "noLabel": {
+    "en": "Article 89"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe People’s Courts are judicial authorities. Only People’s Courts have the exclusive right to \n\nadjudicate and render judgments on cases in the Lao People’s Democratic Republic. \n\nThey operate at three levels: first instance, appellate, and cassation. \n\nThe People’s Courts have the duty to protect justice, individual rights, the democratic people’s \n\nregime, and the legitimate interests of the state, collectives, and individuals or entities in accordance with \nthe law."
+   }
+  },
+  {
+   "id": "LA-H046-A90",
+   "no": 90,
+   "noLabel": {
+    "en": "Article 90"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe court system of the Lao People’s Democratic Republic consists of the Supreme People’s \nCourt, Local People’s Courts, and Military Courts as stipulated by law. \n\nSpecialized courts may be established as necessary, subject to approval by the Standing \nCommittee of the National Assembly."
+   }
+  },
+  {
+   "id": "LA-H046-A91",
+   "no": 91,
+   "noLabel": {
+    "en": "Article 91"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe Supreme People’s Court is the highest judicial authority of the Lao People’s Democratic \n\nRepublic. \n\nIt has the power to review, unify court judgments, and supervise the enforcement of final court \n\ndecisions across all levels."
+   }
+  },
+  {
+   "id": "LA-H046-A92",
+   "no": 92,
+   "noLabel": {
+    "en": "Article 92"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe President of the Supreme People’s Court is elected or removed by the National Assembly. \n\nTheir term matches the term of the National Assembly, and they may not serve more than two consecutive \nterms. \n\n23 \n\n \n \n \n\fThe Vice President of the Supreme People’s Court is appointed, reassigned, or dismissed by the \n\nPresident of the State. \n\nThe heads of judicial panels of the Supreme People’s Court and judges of the People’s Courts are \n\nappointed, reassigned, or dismissed by the Standing Committee of the National Assembly."
+   }
+  },
+  {
+   "id": "LA-H046-A93",
+   "no": 93,
+   "noLabel": {
+    "en": "Article 93"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe People’s Courts adjudicate in judicial panels, and decisions are made based on a majority \n\nvote, except in cases where the law allows for a single judge to decide. \n\nDuring deliberations, judges must be independent and adhere strictly to the law."
+   }
+  },
+  {
+   "id": "LA-H046-A94",
+   "no": 94,
+   "noLabel": {
+    "en": "Article 94"
+   },
+   "text": {
+    "en": "Court hearings must be public, except in cases otherwise specified by law."
+   }
+  },
+  {
+   "id": "LA-H046-A95",
+   "no": 95,
+   "noLabel": {
+    "en": "Article 95"
+   },
+   "text": {
+    "en": "(Amended) \n\nLitigants have the right to contest and debate in legal proceedings. \n\nThe accused has the right to be informed, to defend against the charges, and to contest the case \n\neither personally or through legal counsel. \n\nLawyers have the right to assist litigants and the accused with legal representation and defense."
+   }
+  },
+  {
+   "id": "LA-H046-A96",
+   "no": 96,
+   "noLabel": {
+    "en": "Article 96"
+   },
+   "text": {
+    "en": "(Amended) \n\nRepresentatives of social organizations and citizens have the right to participate in court \n\nproceedings as stipulated by law."
+   }
+  },
+  {
+   "id": "LA-H046-A97",
+   "no": 97,
+   "noLabel": {
+    "en": "Article 97"
+   },
+   "text": {
+    "en": "(Amended) \n\nFinal decisions of the People’s Courts must be respected and enforced by all Party and state \n\norganizations, the Lao Front for National Development, Lao Veterans’ Federation, mass organizations, \nsocial organizations, international organizations, and all citizens. \n\nIndividuals, legal entities, and relevant organizations must strictly comply."
+   }
+  },
+  {
+   "id": "LA-H046-A98",
+   "no": 98,
+   "noLabel": {
+    "en": "Article 98"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe People’s Prosecutor Office is the institution responsible for prosecuting defendants in court \n\nand overseeing compliance with the law and legal proceedings in the justice system."
+   }
+  },
+  {
+   "id": "LA-H046-A99",
+   "no": 99,
+   "noLabel": {
+    "en": "Article 99"
+   },
+   "text": {
+    "en": "The People’s Prosecutor Office of the Lao People’s Democratic Republic consists of the Supreme \nPeople’s Prosecutor Office, the Local People’s Prosecutor Offices, and the Military Prosecutor Offices as \ndefined by law. \n\n24"
+   }
+  },
+  {
+   "id": "LA-H046-A100",
+   "no": 100,
+   "noLabel": {
+    "en": "Article 100"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe Head of the Supreme People’s Prosecutor Office leads and supervises the operations of all \n\nlevels of the People’s Prosecutor Office."
+   }
+  },
+  {
+   "id": "LA-H046-A101",
+   "no": 101,
+   "noLabel": {
+    "en": "Article 101"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe President of the Supreme People’s Prosecutor Office is elected or removed by the National \n\nAssembly. Their term is equal to that of the National Assembly, and they may serve no more than two \nconsecutive terms. \n\nThe Vice President is appointed, reassigned, or dismissed by the President of the State. \n\nOther senior officials and staff of the People’s Prosecutor Office, including heads and deputies of \n\nlocal and military prosecutor offices, are appointed, reassigned, or dismissed as specified by law."
+   }
+  },
+  {
+   "id": "LA-H046-A102",
+   "no": 102,
+   "noLabel": {
+    "en": "Article 102"
+   },
+   "text": {
+    "en": "(Amended) \n\nDuring the course of legal proceedings, staff of the People’s Prosecutor Office must act strictly in \n\naccordance with the law. \n\nCHAPTER XI  \nState Inspection and State Audit"
+   }
+  },
+  {
+   "id": "LA-H046-A103",
+   "no": 103,
+   "noLabel": {
+    "en": "Article 103"
+   },
+   "text": {
+    "en": "(New) \n\nState inspection refers to the operations of the State Inspection Authority in monitoring the \nimplementation of policies, laws, mandates, rights, duties, and responsibilities of organizations and \nindividuals. It also includes proposing solutions and corrective measures in accordance with the law."
+   }
+  },
+  {
+   "id": "LA-H046-A104",
+   "no": 104,
+   "noLabel": {
+    "en": "Article 104"
+   },
+   "text": {
+    "en": "(New) \n\nThe State Inspection Authority is responsible for monitoring, inspecting, preventing, and \n\ncombating corruption, as well as reviewing and resolving violations of the law. \n\nThe organizational structure of the State Inspection Authority is defined by law."
+   }
+  },
+  {
+   "id": "LA-H046-A105",
+   "no": 105,
+   "noLabel": {
+    "en": "Article 105"
+   },
+   "text": {
+    "en": "(New) \n\nThe Chairperson of the State Inspection Authority is elected or removed by the National \n\nAssembly and is accountable to the President, the National Assembly, for tasks involving state \ninspections, anti-corruption, and reviewing and resolving violations. \n\nThe Chairperson may serve no more than two consecutive terms. \n\nThe Vice-Chairperson is appointed, transferred, or dismissed by the President. \n\n25 \n\n \n \n\fChairpersons and Vice-Chairpersons of inspection authorities at each level are appointed, \n\nreassigned, or removed as defined by law."
+   }
+  },
+  {
+   "id": "LA-H046-A106",
+   "no": 106,
+   "noLabel": {
+    "en": "Article 106"
+   },
+   "text": {
+    "en": "(New) \n\nThe State Inspection Authority has the rights and duties as follows: \n\n1.  To inspect the implementation of policies, laws, plans, projects, duties, rights, and responsibilities \n\nof organizations that use state assets and budgets; \n\n2.  To monitor the conduct and responsibilities of civil servants, military, police, state enterprise \n\nemployees, and other individuals who violate the law; \n\n3.  To inspect the implementation of inspection findings and court verdicts in corruption and money \n\nlaundering cases related to corruption; \n\n4.  To audit state investment projects from the start, conduct inspections following audits and \n\nresolutions of the National Assembly or local People’s Assemblies, and handle asset declaration \nand income reporting; \n\n5.  To examine and address complaints, to prevent and combat corruption, and to investigate cases of \n\ncorruption and related money laundering; \n\n6.  To propose corrective measures and solutions based on inspection findings; \n\n7.  To report on operations, especially inspection outcomes and corrective actions, to the National \n\nAssembly or local People’s Assemblies."
+   }
+  },
+  {
+   "id": "LA-H046-A107",
+   "no": 107,
+   "noLabel": {
+    "en": "Article 107"
+   },
+   "text": {
+    "en": "(Amended) \n\nState audit refers to the operations of the State Audit Organization in examining the management \n\nand use of the state budget, finances, and public assets."
+   }
+  },
+  {
+   "id": "LA-H046-A108",
+   "no": 108,
+   "noLabel": {
+    "en": "Article 108"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe State Audit Organization is responsible for auditing and verifying the accuracy of, proposing \n\ncorrective measures to, and following up on implementation of audit findings. \n\nThe organizational structure of the State Audit Organization is defined by law."
+   }
+  },
+  {
+   "id": "LA-H046-A109",
+   "no": 109,
+   "noLabel": {
+    "en": "Article 109"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe President of the State Audit Organization is elected or dismissed by the National Assembly \n\nand is directly accountable to the National Assembly. They must also report to the President, Prime \nMinister, and Standing Committee of the National Assembly regarding the audit work. \n\nThe President may serve no more than two consecutive terms. \n\nThe Vice President is appointed, transferred, or dismissed by the President. \n\n26"
+   }
+  },
+  {
+   "id": "LA-H046-A110",
+   "no": 110,
+   "noLabel": {
+    "en": "Article 110"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe State Audit Organization has the following rights and duties: \n\n1.  To conduct independent audits according to law to verify the correctness of the preparation, \namendment of the state budget, revenue plans, expenditure plans, investment plans, revenue \nprojections, financial reports, legal compliance, and implementation outcomes; \n\n2.  To manage and monitor its own operations as well as those of regional audit offices as prescribed \n\nby law; \n\n3.  To report its activities and audit results as required by law; \n\n4.  To propose to relevant parties the implementation of necessary measures in response to legal \n\nviolations found in audit results. \n\nChapter XII  \nElection Committees"
+   }
+  },
+  {
+   "id": "LA-H046-A111",
+   "no": 111,
+   "noLabel": {
+    "en": "Article 111"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe Election Committee consists of the National Election Committee and the Local Election \n\nCommittees. \n\nThe National Election Committee is established by the Standing Committee of the National \nAssembly and officially proclaimed by the President. It is responsible for overseeing the election of \nmembers of the National Assembly, members of the Local People’s Assemblies, and the establishment of \nlocal election committees. \n\nThe Local Election Committees are established and officially proclaimed by the Standing \n\nCommittees of the respective Local People’s Assemblies. They are responsible for implementing the \nplans of the National Election Committee within their jurisdiction for the election of members of the \nNational Assembly and members of Local People’s Assemblies."
+   }
+  },
+  {
+   "id": "LA-H046-A112",
+   "no": 112,
+   "noLabel": {
+    "en": "Article 112"
+   },
+   "text": {
+    "en": "(Amended) \n\nBoth the National and Local Election Committees are composed of a Chairperson, \n\nVice-Chairperson, and members. \n\nThe term of the National Election Committee ends after the first session of the newly elected \n\nNational Assembly. \n\nThe term of Local Election Committees ends after the first session of the newly elected Local \n\nPeople’s Assembly at that level. \n\nThe rights and duties of both National and Local Election Committees are defined by law. \n\n27 \n\n \n \n\fChapter XIII \nLanguage, Script, National Emblem, National Flag, National \nAnthem, National Day, Currency, and Capital"
+   }
+  },
+  {
+   "id": "LA-H046-A113",
+   "no": 113,
+   "noLabel": {
+    "en": "Article 113"
+   },
+   "text": {
+    "en": "The Lao language and Lao script are the official language and script of the country."
+   }
+  },
+  {
+   "id": "LA-H046-A114",
+   "no": 114,
+   "noLabel": {
+    "en": "Article 114"
+   },
+   "text": {
+    "en": "The national emblem of the Lao People’s Democratic Republic is circular. At the bottom, there is \n\nan image of half a cogwheel, above which is a red banner inscribed with the words: “Lao People’s \nDemocratic Republic.” On both sides are stalks of fully ripe rice, forming a crescent shape. Another red \nbanner across the middle bears the words: “Peace, Independence, Democracy, Unity, and Prosperity.” In \nthe center of the circle are images of the That Luang stupa, a road, rice fields, forests, and a hydroelectric \ndam."
+   }
+  },
+  {
+   "id": "LA-H046-A115",
+   "no": 115,
+   "noLabel": {
+    "en": "Article 115"
+   },
+   "text": {
+    "en": "The national flag of the Lao People’s Democratic Republic has a blue field with red stripes on the \n\ntop and bottom. A white moon is centered in the middle of the blue band. The height of the flag is \ntwo-thirds its length. Each red stripe is half the height of the blue band. The diameter of the white moon is \nfour-fifths the height of the blue band."
+   }
+  },
+  {
+   "id": "LA-H046-A116",
+   "no": 116,
+   "noLabel": {
+    "en": "Article 116"
+   },
+   "text": {
+    "en": "The national anthem of the Lao People’s Democratic Republic is the song titled “Pheng Xat Lao” \n\n(The Lao National Anthem)."
+   }
+  },
+  {
+   "id": "LA-H046-A117",
+   "no": 117,
+   "noLabel": {
+    "en": "Article 117"
+   },
+   "text": {
+    "en": "The National Day of the Lao People’s Democratic Republic is December 2, 1975, which marks \n\nthe founding of the Lao People’s Democratic Republic."
+   }
+  },
+  {
+   "id": "LA-H046-A118",
+   "no": 118,
+   "noLabel": {
+    "en": "Article 118"
+   },
+   "text": {
+    "en": "The currency of the Lao People’s Democratic Republic is the Kip."
+   }
+  },
+  {
+   "id": "LA-H046-A119",
+   "no": 119,
+   "noLabel": {
+    "en": "Article 119"
+   },
+   "text": {
+    "en": "The capital city of the Lao People’s Democratic Republic is Vientiane Capital. \n\n28 \n\n \n \n \n \n\fChapter XIV \nFinal Provisions"
+   }
+  },
+  {
+   "id": "LA-H046-A120",
+   "no": 120,
+   "noLabel": {
+    "en": "Article 120"
+   },
+   "text": {
+    "en": "(Amended) \n\nThe Constitution of the Lao People’s Democratic Republic is the fundamental law of the nation. \n\nAll other laws must conform to the Constitution. \n\nThe state has designated August 15, 1991, as National Constitution Day."
+   }
+  },
+  {
+   "id": "LA-H046-A121",
+   "no": 121,
+   "noLabel": {
+    "en": "Article 121"
+   },
+   "text": {
+    "en": "Only the National Assembly has the power to amend the Constitution of the Lao People’s \n\nDemocratic Republic. \n\nThe Constitution shall be adopted only when more than two-thirds of the total number of National \n\nAssembly members vote in favor."
+   }
+  },
+  {
+   "id": "LA-H046-A122",
+   "no": 122,
+   "noLabel": {
+    "en": "Article 122"
+   },
+   "text": {
+    "en": "(Amended) \n\nThis revised Constitution shall take legal effect from the day the President of the Lao People’s \n\nDemocratic Republic issues a presidential decree to promulgate it. \n\nThis Constitution replaces the previous Constitution of the Lao People’s Democratic Republic, \n\nNo. 63/NA, dated 8 December 2015. \n\nPresident of the National Assembly \n\n[Seal and signature of the National Assembly President] \n\nDr. Saysomphone Phomvihane \n\n29"
+   }
+  }
+ ]
+}

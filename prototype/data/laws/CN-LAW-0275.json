@@ -1,0 +1,110 @@
+{
+ "id": "CN-LAW-0275",
+ "title": {
+  "zh": "中华人民共和国外国中央银行财产司法强制措施豁免法",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p04",
+ "language": "zh",
+ "level": "law",
+ "category": "法律",
+ "status": "active",
+ "promulgatedDate": "2005-10-25",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "全国人民代表大会常务委员会",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 278,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\法律\\中华人民共和国外国中央银行财产司法强制措施豁免法_20051025.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，第一条至第四条，共 4 条；来源为项目数据资源中的官方汇编文件（中华人民共和国外国中央银行财产司法强制措施豁免法_20051025.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-LAW-0275-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "第一条"
+   },
+   "text": {
+    "zh": "中华人民共和国对外国中央银行财产给予财产保全和执行的司法强制措施的豁免；但是，外国中央银行或者其所属国政府书面放弃豁免的或者指定用于财产保全和执行的财产除外。"
+   }
+  },
+  {
+   "id": "CN-LAW-0275-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "第二条"
+   },
+   "text": {
+    "zh": "本法所称外国中央银行，是指外国的和区域经济一体化组织的中央银行或者履行中央银行职能的金融管理机构。\n本法所称外国中央银行财产，是指外国中央银行的现金、票据、银行存款、有价证券、外汇储备、黄金储备以及该银行的不动产和其他财产。"
+   }
+  },
+  {
+   "id": "CN-LAW-0275-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "第三条"
+   },
+   "text": {
+    "zh": "外国不给予中华人民共和国中央银行或者中华人民共和国特别行政区金融管理机构的财产以豁免，或者所给予的豁免低于本法的规定的，中华人民共和国根据对等原则办理。"
+   }
+  },
+  {
+   "id": "CN-LAW-0275-A4",
+   "no": 4,
+   "noLabel": {
+    "zh": "第四条"
+   },
+   "text": {
+    "zh": "本法自公布之日起施行。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "law",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "中华人民共和国外国中央银行财产司法强制措施豁免法"
+  },
+  "issuingBody": {
+   "zh": "全国人民代表大会常务委员会"
+  },
+  "promulgatedDate": "2005-10-25",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "法律"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

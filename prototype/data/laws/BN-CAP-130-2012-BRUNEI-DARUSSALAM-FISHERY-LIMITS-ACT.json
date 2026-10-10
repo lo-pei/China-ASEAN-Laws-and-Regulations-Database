@@ -1,0 +1,66 @@
+{
+ "id": "BN-CAP-130-2012-BRUNEI-DARUSSALAM-FISHERY-LIMITS-ACT",
+ "title": {
+  "zh": null,
+  "en": "BRUNEI DARUSSALAM FISHERY LIMITS ACT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p09",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2012",
+ "effectiveDate": null,
+ "versionDate": "2012",
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": "CAP. 130",
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "An Act to declare Brunei Darussalam fishery limits"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 2,
+ "chars": 669,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-130-2012-ED-BRUNEI-DARUSSALAM-FISHERY-LIMITS-ACT.pdf",
+ "fetchedAt": "2026-10-09",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-130-2012-ED-BRUNEI-DARUSSALAM-FISHERY-LIMITS-ACT.pdf》（6 页），本次切分 2 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-130-2012-BRUNEI-DARUSSALAM-FISHERY-LIMITS-ACT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Brunei Darussalam Fishery Limits Act. “fish” includes any of the varieties of marine brackish water or fresh water fishes, crustacea, aquatic mollusca, marine sponges, trepang and other acquatic life, but does not include turtles or their eggs; “fishing boat” means any vessel for the time being employed in fishing operations or any operations ancillary thereto; “miles” means international nautical miles of 1,852 metres. Brunei Darussalam fishery limits."
+   }
+  },
+  {
+   "id": "BN-CAP-130-2012-BRUNEI-DARUSSALAM-FISHERY-LIMITS-ACT-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Brunei Darussalam fishery limits. _____________________________\n\nBRUNEI DARUSSALAM FISHERY LIMITS ACT An Act to declare Brunei Darussalam fishery limits Commencement: 1st January 1983"
+   }
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "id": "PH-H589",
+ "title": {
+  "zh": null,
+  "en": "An Act to Prescribe a Graduated Scale for the Income Tax on Corporations By Amending Sections Twenty-four and Fifty-four of Commonwealth Act Numbered Four Hundred and Sixty-six, Otherwise Known as the National Internal Revenue Code, as Amended, and for Other Purposes",
+  "orig": "An Act to Prescribe a Graduated Scale for the Income Tax on Corporations By Amending Sections Twenty-four and Fifty-four of Commonwealth Act Numbered Four Hundred and Sixty-six, Otherwise Known as the National Internal Revenue Code, as Amended, and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p08",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1951-03-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 600",
+ "officialCode": null,
+ "topics": [
+  "tax"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 2772,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1951/ra_600_1951.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1951/ra_600_1951.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 24 条，缺 4、5、6、7、8、9、10、11、12、13、14、15、16、17、18、19、20、21、22、23）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H589-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section twenty-four of Commonwealth Act Numbered Four hundred and sixty-six, as amended, is hereby further amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H589-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "text": {
+    "en": "Rate of tax on corporations. - There shall be levied, assessed, collected, and paid annually upon the total net income received in the preceding taxable year from all sources by every corporation organized in, or existing under the laws of the Philippines, no matter how created or organized, but not including duly registered general copartnerships (compañias colectivas), a tax upon such income equal to the sum of the following:\nTwenty per centum upon the amount by which such total net income does not exceed one hundred thousand pesos; and Twenty-eight per centum upon the amount by which such total net income exceeds one hundred thousand pesos; and a like tax shall be levied, assessed, collected, and paid annually upon the total net income received in the preceding taxable year from all sources within the Philippines by every corporation organized, authorized, or existing under the laws of any foreign country: Provided, however, That Building and Loan Associations operating as such in accordance with sections one hundred and seventy-one to one hundred and ninety of the Corporation Law, as amended, as well as private educational institutions, shall pay a tax of twelve per centum and ten per centum, respectively, on their total net income: And provided, further, That in the case of dividends received by a domestic or resident foreign corporation from a domestic corporation liable to tax under this Chapter, only twenty-five per centum thereof shall be returnable for purposes of the tax imposed by this section.\""
+   }
+  },
+  {
+   "id": "PH-H589-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section fifty-four of Commonwealth Act Numbered Four hundred and sixty-six, as amended, is further amended to read as follows:\n\"Section 54. Payment of corporation income tax at source. - In the case of foreign corporations subject to taxation under this Title not engaged in trade or business within the Philippines and not having any office or place of business therein, there shall be deducted and withheld at the source in the same manner and upon the same items as is provided in section fifty-three a tax equal to twenty-four per centum thereof, and such tax shall be returned and paid in the same manner and subject to the same conditions as provided in that section.\""
+   }
+  },
+  {
+   "id": "PH-H589-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The provisions of this Act shall apply to income received from January first, nineteen hundred and fifty-one to December thirty-first, nineteen hundred and fifty-three, after the expiration of which later date the provisions of Republic Act Numbered Five hundred and ninety amending sections twenty-four and fifty-four of the National Internal Revenue Code, as amended, shall be in full force and effect.\nApproved, March 28, 1951."
+   }
+  }
+ ]
+}

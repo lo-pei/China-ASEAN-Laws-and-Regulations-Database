@@ -1,0 +1,64 @@
+{
+ "id": "PH-H3310",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Sixty, Chapter IX, Title III of the Public Land Act",
+  "orig": "An Act to Amend Section Sixty, Chapter IX, Title III of the Public Land Act"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p47",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1964-06-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4107",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1585,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1964/ra_4107_1964.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1964/ra_4107_1964.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3310-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section sixty, Chapter IX, Title III of Commonwealth Act Numbered One hundred and forty-one, otherwise known as the Public Land Act, is amended to read as follows:\n\"Sec. 60. Any tract of land comprised under this title may be leased or sold, as the case may be, to any person, corporation, or association authorized to purchase or lease public lands for agricultural purposes. The are of the land so leased or sold shall be such as shall, in the judgment of the Secretary of Agriculture and Natural Resources, be reasonably necessary for the purposes for which such sale or lease is requested, and shall in no case exceed one hundred and forty-four hectares: Provided, However, That this limitation shall not apply to grants, donations, or transfers made to a province, municipality or branch or subdivision of the Government for the purposes deemed by said entities conducive to the public interest; but the land so granted, donated, or transferred to a province, municipality, or branch or subdivision of the Government shall not be alienated, encumbered, or otherwise disposed of in a manner affecting its title, except when authorized by Congress: Provided, further, That any person, corporation, association or partnership disqualified from purchasing public land for agricultural purposes under the provisions of this Act, may lease land included under this title suitable for industrial or residential purposes, but the lease granted shall only be valid while such land is used for the purposes referred to.\""
+   }
+  },
+  {
+   "id": "PH-H3310-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1964."
+   }
+  }
+ ]
+}

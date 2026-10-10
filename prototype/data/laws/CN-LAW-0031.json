@@ -1,0 +1,77 @@
+{
+ "id": "CN-LAW-0031",
+ "title": {
+  "zh": "全国人民代表大会常务委员会关于批准《国务院关于安置老弱病残干部的暂行办法》的决议",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p01",
+ "language": "zh",
+ "level": "law",
+ "category": "法律",
+ "status": "active",
+ "promulgatedDate": "1978-05-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 107,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\法律\\全国人民代表大会常务委员会关于批准《国务院关于安置老弱病残干部的暂行办法》的决议_19780524.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，整篇作为一条录入，共 1 条；来源为项目数据资源中的官方汇编文件（全国人民代表大会常务委员会关于批准《国务院关于安置老弱病残干部的暂行办法》的决议_19780524.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-LAW-0031-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "全文"
+   },
+   "text": {
+    "zh": "全国人民代表大会常务委员会关于批准\n《国务院关于安置老弱病残干部的暂行办法》\n的决议\n（1978年5月24日通过）\n第五届全国人民代表大会常务委员会第二次会议决定：原则批准《国务院关于安置老弱病残干部的暂行办法》。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "law",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "全国人民代表大会常务委员会关于批准《国务院关于安置老弱病残干部的暂行办法》的决议"
+  },
+  "promulgatedDate": "1978-05-24",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "法律"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

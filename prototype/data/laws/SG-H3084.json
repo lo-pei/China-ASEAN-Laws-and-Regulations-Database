@@ -1,0 +1,639 @@
+{
+ "id": "SG-H3084",
+ "title": {
+  "zh": null,
+  "en": "Maritime and Port Authority of Singapore (Harbour Craft) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p39",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MPASA1996-RG3",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 47,
+ "chars": 46754,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MPASA1996-RG3?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 47 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 4 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3084-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Maritime and Port Authority of Singapore (Harbour Craft) Regulations."
+   }
+  },
+  {
+   "id": "SG-H3084-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations, unless the context otherwise requires —\n“bum-boat” means a harbour craft licensed to carry goods —\n(a)for sale to;\n(b)purchased from; or\n(c)both for sale to and purchased from,\nany owner, passenger or member of the crew of any other vessel;\n“cargo harbour craft” means a harbour craft used for the carriage of cargo other than a bum-boat and a tanker;\n“licence” means a licence granted under these Regulations;\n“licensed harbour craft” means a harbour craft in respect of which a licence has been granted under these Regulations;\n“manning licence” means a licence granted under the Maritime and Port Authority of Singapore (Harbour Craft Manning Licence Examination) Regulations (Rg 4);\n“passenger” means every person other than —\n(a)the master and the members of the crew or other persons employed or engaged in any capacity on board a harbour craft on the business thereof; and\n(b)a child below one year of age;\n“passenger harbour craft” means a harbour craft used for the carriage of passengers for hire or reward;\n“pleasure craft” has the same meaning as in the Maritime and Port Authority of Singapore (Pleasure Craft) Regulations (Rg 6);\n[S 726/2010 wef 01/12/2010]\n“register” means a register of licences kept by the Port Master under regulation 9(2);\n“Singapore ship” has the same meaning as in the Merchant Shipping Act (Cap. 179);\n[S 347/2009 wef 01/08/2009]\n“tanker” means a harbour craft constructed and adapted for carriage in bulk of liquid cargo of an inflammable nature;\n“tug boat” means a harbour craft used for towing, pushing or pulling any other vessel.\n(2) For the purposes of these Regulations —\n(a)any person who —\n(i)is the sole, joint or part owner of a harbour craft;\n(ii)has possession or control of a harbour craft which is subject to the terms of a hire-purchase agreement, bill of sale or other similar instrument; or\n(iii)has possession or control of a harbour craft under the terms of a charter agreement,\nis deemed to be the owner of the harbour craft; and\n(b)any person who is the owner of a harbour craft which is subject to the terms of a hire-purchase agreement, bill of sale or other similar instrument but who is not entitled to possession of the harbour craft is deemed not to be the owner of the harbour craft."
+   }
+  },
+  {
+   "id": "SG-H3084-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "3. These Regulations shall not apply to —\n(a)a pleasure craft;\n(b)a Government vessel which is not used for commercial purposes; or\n(c)a ship’s life-boats."
+   }
+  },
+  {
+   "id": "SG-H3084-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Harbour craft to be licensed"
+   },
+   "text": {
+    "en": "4. Except as provided in these Regulations —\n(a)no person shall use a harbour craft; and\n(b)no owner of a harbour craft shall cause or permit the harbour craft to be used within the port,\nwithout a licence granted in respect thereof."
+   }
+  },
+  {
+   "id": "SG-H3084-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Use"
+   },
+   "text": {
+    "en": "5. For the purposes of regulation 4, a harbour craft is used if it is water-borne, moored or anchored."
+   }
+  },
+  {
+   "id": "SG-H3084-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Application for harbour craft licence"
+   },
+   "text": {
+    "en": "6.—(1) A person desirous of having a harbour craft licensed may apply to the Port Master for a licence.\n(2) A harbour craft may be licensed in the name of one or more individuals or in the name of a body corporate.\n(3) An applicant must —\n(a)produce his identity card or passport;\n(b)produce the certificate of incorporation of the company or an up-to-date computer report setting out the particulars of the company from the Registry of Companies and Businesses, if the harbour craft is owned by a body corporate;\n(c)state the type, dimensions and specifications of the hull and details of the engine of the harbour craft, the purpose for which the harbour craft is intended to be used and the place where the harbour craft will normally moor, ply or be hired out from;\n(d)produce documentary or other evidence of the nationality and ownership of the harbour craft to the satisfaction of the Port Master;\n(e)furnish documentary evidence of the tonnage and measurements of the harbour craft to the satisfaction of the Port Master;\n(f)if the harbour craft is classed, produce —\n(i)a classification certificate issued by a classification society which is authorised to issue certificates on behalf of the Government; and\n(ii)such other documents relating to the seaworthiness of the harbour craft as the Port Master may determine;\n(g)where applicable, produce documentary evidence of compliance with —\n(i)the Merchant Shipping (Safety Convention) Regulations (Cap. 179, Rg 11);\n(ii)the Merchant Shipping (Non-Convention Ships) Safety Regulations (Cap. 179, Rg 9);\n(iii)the Merchant Shipping (Special Limits Passenger Ships) Safety Regulations (Cap. 179, Rg 8); and\n(iv)the Merchant Shipping (Load Line) Regulations (G.N. No. S 39/2000);\n(h)produce the relevant manning licence held by the master and other licensed officers of the harbour craft;\n(i)produce documentary evidence to the satisfaction of the Port Master that there is in force in respect of the user of the harbour craft a policy of insurance which insures the owner or master of, or any other person using, the harbour craft in respect of third party risks and for wreck removal costs;\n(j)furnish the names, addresses and other particulars of the owner, master and other licensed officers of the harbour craft; and\n[S 92/2003 wef 01/03/2003]\n(k)furnish such other documents and particulars in respect of the harbour craft as the Port Master may require.\n(4) The Port Master may require a harbour craft for which a licence is required, or in respect of which a licence is to be renewed, to be brought to a place for inspection at a date and time appointed by the Port Master.\n(5) The Port Master may inspect the harbour craft, and may —\n(a)if he thinks it seaworthy and proper for the intended use, cause the harbour craft to be licensed and grant a licence accordingly, subject to such conditions as he thinks fit; or\n(b)refuse to grant a licence if he is of the opinion that it would not be in the interests of the Authority for the harbour craft to be licensed.\n(6) The Port Master may at any time vary or revoke any existing condition of a licence and impose additional conditions thereto.\n(7) No licence shall be granted in respect of a harbour craft which is to be used for the carriage of more than 12 passengers unless there are in force the relevant certificates under regulations made under section 100 of the Merchant Shipping Act (Cap. 179) in respect of the harbour craft.\n(8) No licence shall be granted in respect of any harbour craft unless there is in force in relation to the harbour craft a policy of insurance which insures the owner or master or any other person using the harbour craft for —\n(a)any liability which may be incurred by any of them in respect of the death of or bodily injury to any person caused by, or arising out of, the use of the harbour craft;\n(b)any liability which may be incurred by any of them in respect of loss of, or damage to, property belonging to any third party arising out of the use of the harbour craft;\n(c)wreck removal costs; and\n(d)in the case of a tanker carrying oil, oil pollution damage and costs of preventing or reducing damage resulting from the discharge or escape of oil.\n(9) No licence shall be granted in respect of a tanker unless —\n(a)the Merchant Shipping (Safety Convention) Regulations (Cap. 179, Rg 11) or the Merchant Shipping (Non-Convention Ships) Safety Regulations (Cap. 179, Rg 9), as the case may be; and\n(b)in the case of a tanker carrying liquefied gases or dangerous chemicals, the relevant provisions of the International Maritime Organisation’s codes for ships carrying liquefied gases in bulk and dangerous chemicals in bulk,\nhave been complied with.\n(10) The Authority may, in its discretion, exempt the owner or charterer of a tanker from complying with any of the provisions of paragraph (9) either absolutely or subject to such conditions as it thinks fit."
+   }
+  },
+  {
+   "id": "SG-H3084-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Fees and validity of licence"
+   },
+   "text": {
+    "en": "7.—(1) The fees for —\n(a)a licence;\n(b)a renewal of a licence;\n(c)a replacement of a licence;\n(d)late submission of application to renew a licence; and\n(e)a certified copy of a licence,\nare specified in the Maritime and Port Authority of Singapore (Licence Fees) Notification (N 1) or the Maritime and Port Authority of Singapore (Fees for Replacement or Certified Copy of Licence) Notification 2022 (G.N. No. S 1005/2022).\n[S 347/2009 wef 01/08/2009]\n[S 1006/2022 wef 01/01/2023]\n(2) The fees for —\n(a)a search of the particulars entered in the register;\n(b)an inspection of the harbour craft;\n(c)registering a change of ownership;\n(ca)cancellation of licence number to be replaced by allotted licence number;\n[S 132/2009 wef 01/04/2009]\n(cb)transfer of licence number; and\n[S 132/2009 wef 01/04/2009]\n(d)other services offered by the Authority,\nare specified in the Maritime and Port Authority of Singapore (Scale of Dues, Rates and General Fees) Notification (N 2).\n(3) Subject to this regulation and regulation 33 —\n(a)a licence granted for a harbour craft that is also a Singapore ship shall be valid until it is cancelled under regulation 33; and\n(b)a licence granted for any other harbour craft shall be valid for a period of 12 months from the date of grant.\n[S 347/2009 wef 01/08/2009]\n(4) The Port Master may order that a licence be in force for a shorter period of not less than 6 months.\n(5) If the Port Master makes an order referred to in paragraph (4), the fee charged for licensing shall be proportionate to the fee chargeable under paragraph (1).\n(6) Notwithstanding paragraph (3) but subject to regulation 33, a licence for a harbour craft referred to in paragraph (3)(a) that is no longer a Singapore ship by virtue of the closure or deemed closure of its registry under Part II of the Merchant Shipping Act (Cap. 179), shall be valid up to the end of the period for which port dues under paragraph 4 of Part I of the Schedule to the Maritime and Port Authority of Singapore (Scale of Dues, Rates and General Fees) Notification (N 2) have been paid.\n[S 347/2009 wef 01/08/2009]"
+   }
+  },
+  {
+   "id": "SG-H3084-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "When cargo harbour craft may carry passengers"
+   },
+   "text": {
+    "en": "8. The Port Master may, by endorsement on the licence of a cargo harbour craft, license the harbour craft to carry when empty of cargo, such number of passengers, if any, as he thinks fit, and in that case it is not necessary for that cargo harbour craft to be licensed separately as a passenger harbour craft."
+   }
+  },
+  {
+   "id": "SG-H3084-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Register of licences"
+   },
+   "text": {
+    "en": "9.—(1) The Port Master shall in granting a licence deliver to the owner of every licensed harbour craft a licence containing such particulars as he considers necessary for the purposes of these Regulations.\n(2) The Port Master shall keep a register of licences which shall contain such information as he considers necessary for the purposes of these Regulations."
+   }
+  },
+  {
+   "id": "SG-H3084-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Particulars to be submitted by new owner"
+   },
+   "text": {
+    "en": "10.—(1) On a change of ownership of a harbour craft, the previous owner and the new owner shall, within 7 days of the purchase by the new owner of the harbour craft, submit to the Port Master any licence granted to the previous owner in respect of the harbour craft and any documentary or other evidence of the change of ownership of the harbour craft.\n(2) Where the Port Master is satisfied that ownership of the harbour craft has been transferred to the new owner, the licence granted to the previous owner shall be transferred to the new owner and is valid for the remainder of the period for which it was granted.\n(3) Upon the death of the owner of a licensed harbour craft, the licence granted in respect thereof shall be surrendered to the Port Master who may then transfer the licence to —\n(a)any person who makes an application for such transfer and can prove to the satisfaction of the Port Master that he is reasonably entitled to the beneficial interest in the harbour craft; or\n(b)any other person with the consent of the person referred to in sub-paragraph (a),\nsubject to the condition that such person must not sell or otherwise dispose of the harbour craft or any interest therein until he has obtained either Probate of the Will or Letters of Administration to the Estate of the deceased, as the case may be.\n(4) The transfer under paragraph (3) may be cancelled by the Port Master if during the currency of the said licence any person produces a Probate of the Will or Letters of Administration granted to him to the Estate of the deceased and he applies to have the licence transferred to some person other than the person mentioned in paragraph (3)(a) or (b).\n(5) Upon application being made under paragraph (4), the Port Master shall transfer the licence to the person designated in the application."
+   }
+  },
+  {
+   "id": "SG-H3084-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Licence to be kept on board harbour craft"
+   },
+   "text": {
+    "en": "11. The owner of a licensed harbour craft shall display the licence conspicuously on board the harbour craft and, where this is not possible, shall produce the harbour craft licence to the Port Master or any police officer who demands it."
+   }
+  },
+  {
+   "id": "SG-H3084-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Notification of change of particulars of vessel"
+   },
+   "text": {
+    "en": "12.—(1) The owner of a licensed harbour craft shall report to the Port Master any change of the particulars set out in regulation 6(3) within 7 days of the change.\n(1A) Where a change in particulars reported under this regulation is in respect of the residential address of the owner of a licensed harbour craft, the owner shall be deemed to have complied with paragraph (1) if he has made a report of the change under section 8 of the National Registration Act (Cap. 201) within 28 days thereof.\n[S 92/2003 wef 01/03/2003]\n(2) The Port Master may upon receipt of the report require the harbour craft to be inspected, or require the owner to take such measures as the Port Master thinks necessary, to satisfy himself that the harbour craft is fit to be licensed."
+   }
+  },
+  {
+   "id": "SG-H3084-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Change in particulars to be endorsed on licence and entered in register"
+   },
+   "text": {
+    "en": "13. Every change in the particulars appearing in the register which occurs after the Port Master has granted the licence to which the particulars relate must be endorsed on or contained in that licence and be entered in the register."
+   }
+  },
+  {
+   "id": "SG-H3084-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Replacement of licence"
+   },
+   "text": {
+    "en": "14.—(1) If a licence granted under these Regulations is lost or destroyed or if any particulars have become illegible, the owner of the licensed harbour craft shall forthwith apply to the Port Master for the issue of a replacement licence or for such particulars as have become illegible to be re-entered or endorsed on the licence.\n(2) A person shall return to the Port Master any licence granted to him which is expired or is cancelled."
+   }
+  },
+  {
+   "id": "SG-H3084-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Licence number of harbour craft"
+   },
+   "text": {
+    "en": "15.—(1) Upon the grant of a licence, the Port Master is to assign a licence number to the harbour craft.\n(1A) Paragraph (1) shall not apply if a licence number allotted under regulation 15A to the applicant for the licence is used to license the harbour craft.\n[S 132/2009 wef 01/04/2009]\n(2) The licence number of every harbour craft licensed —\n(a)for use as a bum-boat shall be prefixed with the letters “SA”;\n(b)for use as a cargo harbour craft, shall be prefixed with the letters “SC”;\n(c)to carry passengers, shall be prefixed with the letters “SP”;\n(d)for use as a tanker, shall be prefixed with the letters “SB”;\n(e)for use as a tug boat, shall be prefixed with the letters “ST”; and\n(f)for any other purpose, shall be prefixed with the letters “SR”.\n[S 132/2009 wef 01/04/2009]"
+   }
+  },
+  {
+   "id": "SG-H3084-A15.001",
+   "no": 15.001,
+   "noLabel": {
+    "en": "15A."
+   },
+   "heading": {
+    "en": "Application for particular licence number"
+   },
+   "text": {
+    "en": "15A.—(1) The Port Master may, from time to time, by notice or such other means as he may think fit, invite bids for particular licence numbers for any type of harbour craft.\n(2) All applications made pursuant to paragraph (1) shall not be less than the minimum bid amount of $2,000.\n(3) Every application under paragraph (1) shall be —\n(a)made in such form and within such time as may be required by the Port Master;\n(b)accompanied by the full bid amount offered by the applicant; and\n(c)subject to such other terms and conditions as the Port Master may think fit to impose.\n(4) No application shall be withdrawn after it has been received by the Port Master.\n(5) The Port Master may, in his discretion, reject any application without assigning any reason.\n(6) The Port Master shall not be obliged to allot the licence number applied for to the applicant offering the highest bid amount and the Port Master’s determination of successful applications shall be final.\n(7) The Port Master shall notify every applicant of the outcome of his application.\n(8) Subject to paragraph (9), a successful applicant shall, within a period of 12 months after the date of the notification by the Port Master under paragraph (7), use the licence number allotted to him —\n(a)for the purpose of applying for a licence for a harbour craft in his name; or\n(b)on any other harbour craft licensed in his name upon the cancellation of the licence number to be replaced.\n(9) Where a successful applicant fails to comply with the requirements of paragraph (8) within the period specified therein —\n(a)he shall not be entitled to the use of the licence number earlier allotted to him;\n(b)the bid amount which has been paid by him under paragraph (3)(b) shall be forfeited; and\n(c)the Port Master may then assign the licence number for the licensing of any other harbour craft or for further bidding.\n(10) Any bid amount paid under paragraph (3)(b) by an unsuccessful applicant shall be refunded to him without interest within a period of 2 weeks after the determination of the successful applications or such other time as the Port Master may decide.\n(11) Notwithstanding anything in this regulation, where an application for a licence under regulation 6 is not granted, the Port Master may, in his discretion and subject to such conditions as he thinks fit —\n(a)cancel the licence number allotted to the applicant; and\n(b)refund the bid amount paid under paragraph (3)(b).\n[S 132/2009 wef 01/04/2009]"
+   }
+  },
+  {
+   "id": "SG-H3084-A15.002",
+   "no": 15.002,
+   "noLabel": {
+    "en": "15B."
+   },
+   "heading": {
+    "en": "Transfer of licence number"
+   },
+   "text": {
+    "en": "15B.—(1) Subject to paragraph (2), a person in whose name a harbour craft is licensed may, in such manner and within such period as the Port Master may require, apply to the Port Master to have the licence number of the harbour craft transferred to another harbour craft —\n(a)which has not been previously licensed under these Regulations and in respect of which he applies or has applied for a licence in accordance with these Regulations; or\n(b)which is licensed in his name under these Regulations.\n(2) In an application under paragraph (1), the Port Master may require the applicant to furnish to the Port Master such documents and information as the Port Master may specify relating to —\n(a)the first-mentioned harbour craft whose licence number is to be transferred;\n(b)the second-mentioned harbour craft to which the licence number of the first-mentioned harbour craft is to be transferred; and\n(c)the application.\n(3) The Port Master may, in his discretion and subject to such terms and conditions as he may impose, approve the transfer of the licence number to the second-mentioned harbour craft, and in the case of paragraph (1)(b), cancel the licence number to be replaced.\n(4) The Port Master shall not approve the transfer of the licence number to the second-mentioned harbour craft unless an application for a licence under regulation 6 in respect of it has been granted.\n(5) Where the transfer of the licence number to the second-mentioned harbour craft has been approved, the Port Master may, on the application of the person referred to in paragraph (1), assign a new licence number to the first-mentioned harbour craft.\n(6) No application shall be withdrawn after it has been received by the Port Master.\n(7) The Port Master may, in his discretion, reject any application without assigning any reason.\n(8) The Port Master shall notify every applicant of the outcome of his application.\n[S 132/2009 wef 01/04/2009]"
+   }
+  },
+  {
+   "id": "SG-H3084-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Painting and carving of licence number"
+   },
+   "text": {
+    "en": "16.—(1) The owner of a licensed harbour craft shall cause the licence number to be painted in large letters on each bow against a contrasting background and carved on, cut in or centre-punched into the main beam in the manner set out in the First Schedule or as may be directed by the Port Master.\n(2) The licence number of a harbour craft shall be kept legible and visible at all times."
+   }
+  },
+  {
+   "id": "SG-H3084-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "text": {
+    "en": "17. [Deleted by S 141/2007 wef 01/04/2007]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3084-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "heading": {
+    "en": "Number of passengers to be carried"
+   },
+   "text": {
+    "en": "18.—(1) The number of passengers which may be carried on board a harbour craft shall be displayed in a conspicuous position on the harbour craft.\n(2) No owner or master of a harbour craft shall cause or permit the harbour craft to carry a greater number of passengers than the number allowed by and shown on the licence granted for the use of the harbour craft.\n(3) No owner or master of a harbour craft shall cause or permit the harbour craft to carry a greater number of crew than the number allowed by and shown on its licence."
+   }
+  },
+  {
+   "id": "SG-H3084-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "heading": {
+    "en": "No cargo and luggage to be carried on board harbour craft carrying passengers"
+   },
+   "text": {
+    "en": "19.—(1) Where passengers are carried on board a harbour craft, no owner or master of the harbour craft shall cause or permit cargo or luggage other than the personal effects of the passengers to be carried on board.\n(2) A harbour craft carrying passengers shall not be used for towing, pushing or pulling any other vessel."
+   }
+  },
+  {
+   "id": "SG-H3084-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "heading": {
+    "en": "Life-saving appliances, etc."
+   },
+   "text": {
+    "en": "20. The owner or master of a harbour craft shall cause the harbour craft to carry, or be fitted or provided with, the life-saving and other appliances and equipment specified in the Second Schedule."
+   }
+  },
+  {
+   "id": "SG-H3084-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "heading": {
+    "en": "Fire-fighting appliances, etc."
+   },
+   "text": {
+    "en": "21. The owner or master of every harbour craft shall cause the harbour craft to carry, or be fitted or provided with, the fire-fighting and other appliances and equipment specified in Part I of the Third Schedule, and if the harbour craft is licensed to carry dangerous cargo, the harbour craft shall also carry the appliances and equipment specified in Part II of the Third Schedule."
+   }
+  },
+  {
+   "id": "SG-H3084-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "heading": {
+    "en": "Other fitting, material, etc., may be fitted with approval of Port Master"
+   },
+   "text": {
+    "en": "22. Where these Regulations require that a particular fitting, material, appliance, equipment or apparatus, or type thereof, must be fitted or carried in a harbour craft, or that a particular provision must be made, the Port Master may allow any other fitting, material, appliance, equipment or apparatus or type thereof, to be fitted or carried, or any other provision to be made in that harbour craft, if he is satisfied that such fitting, material, appliance, equipment or apparatus or type thereof, or provision, is at least as effective as that required by these Regulations."
+   }
+  },
+  {
+   "id": "SG-H3084-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "heading": {
+    "en": "Warning device"
+   },
+   "text": {
+    "en": "23. The owner, master or person-in-charge of a mechanically propelled harbour craft shall cause it to be equipped with an audible warning device approved by the Port Master and capable of emitting short and prolonged blasts."
+   }
+  },
+  {
+   "id": "SG-H3084-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "heading": {
+    "en": "Manning Requirements"
+   },
+   "text": {
+    "en": "24.—(1) The owner, master or person-in-charge of a harbour craft shall cause the harbour craft to be provided with persons duly licensed and issued with an endorsement where applicable under the Maritime and Port Authority of Singapore (Harbour Craft Manning Licence Examination) Regulations (Rg 4), and in accordance with the table set out in the Fourth Schedule.\n(2) The Port Master may require any person referred to in paragraph (1) to produce his manning licence granted or endorsement issued under the Maritime and Port Authority of Singapore (Harbour Craft Manning Licence Examination) Regulations (Rg 4) and the person shall comply with such requisition.\n[S 262/2002 wef 01/06/2002]"
+   }
+  },
+  {
+   "id": "SG-H3084-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "heading": {
+    "en": "Alteration of harbour craft prohibited"
+   },
+   "text": {
+    "en": "25.—(1) No owner of a harbour craft shall cause or permit the harbour craft to be altered so as not to correspond with the particulars relating to her tonnage or description contained in the register without the prior written permission of the Port Master.\n(2) The owner shall, immediately upon an alteration as is referred to in paragraph (1) being made, produce the harbour craft and the licence for inspection by the Port Master.\n(3) The Port Master may, on inspection of the harbour craft, revoke the licence granted if he is of the opinion that the harbour craft is not fit for its intended use."
+   }
+  },
+  {
+   "id": "SG-H3084-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "heading": {
+    "en": "Harbour craft to be kept in clean and sanitary condition"
+   },
+   "text": {
+    "en": "26. The owner or master of every harbour craft shall keep the harbour craft in a clean and sanitary condition at all times."
+   }
+  },
+  {
+   "id": "SG-H3084-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "heading": {
+    "en": "Usage of harbour craft for purpose other than that stated on licence prohibited"
+   },
+   "text": {
+    "en": "27.—(1) No licensed harbour craft shall be used for a purpose other than that stated on the licence.\n(2) No owner or master of a harbour craft shall cause or permit the harbour craft to ply or operate beyond the area specified in the licence without the prior written permission of the Port Master."
+   }
+  },
+  {
+   "id": "SG-H3084-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "heading": {
+    "en": "Prohibition on carriage of passengers on bum-boat"
+   },
+   "text": {
+    "en": "28. Subject to regulation 8, no owner or master of a bum-boat shall cause or permit the bum-boat to carry any person other than the members of the crew."
+   }
+  },
+  {
+   "id": "SG-H3084-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "heading": {
+    "en": "Prohibition on harbour craft being overloaded"
+   },
+   "text": {
+    "en": "29.—(1) No owner or master of a harbour craft shall cause or permit the harbour craft to be so loaded with cargo as to endanger the lives of persons on board.\n(2) No owner, master or person-in-charge of a harbour craft shall cause or permit any harbour craft to be so loaded such that its main deck is awash or is liable to be awash."
+   }
+  },
+  {
+   "id": "SG-H3084-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "heading": {
+    "en": "Navigating harbour craft whilst under influence of intoxicating substance"
+   },
+   "text": {
+    "en": "30.—(1) Any person who, when operating or navigating, or attempting to operate or navigate, a harbour craft within the port, is unfit to operate or navigate the harbour craft (in that he is under the influence of drink, or of a drug or an intoxicating substance, to such an extent as to be incapable of having proper control of the harbour craft) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.\n(2) Any owner of a harbour craft who permits a person to operate or navigate a harbour craft while that person is unfit to operate or navigate the harbour craft (in that the person is under the influence of drink, or of a drug or an intoxicating substance, to such an extent as to be incapable of having proper control of the harbour craft) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.\n(3) In this regulation —\n“drug” means a controlled drug as defined in the Misuse of Drugs Act (Cap. 185);\n“intoxicating substance” has the same meaning as in the Intoxicating Substances Act (Cap. 146A)."
+   }
+  },
+  {
+   "id": "SG-H3084-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "heading": {
+    "en": "Navigating harbour craft recklessly or negligently"
+   },
+   "text": {
+    "en": "31. Any person who navigates a harbour craft within the port —\n(a)recklessly or negligently; or\n(b)at such a speed, or otherwise in any way, that is —\n(i)dangerous or likely to cause injury to a member of the public or damage to his property; or\n(ii)likely to cause annoyance or be a nuisance to, any member of the public,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000."
+   }
+  },
+  {
+   "id": "SG-H3084-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "heading": {
+    "en": "Report of collision, etc., to Port Master"
+   },
+   "text": {
+    "en": "32.—(1) The owner or master of a harbour craft shall, within 24 hours, report to the Port Master —\n(a)any breaking-up, damage or loss of the harbour craft;\n(b)any collision, accident or other incident, causing the breaking-up, damage or loss of the harbour craft;\n(c)an accident, damage, injury or loss of life which the harbour craft has caused or is alleged to have caused; and\n(d)an accident, damage, injury or loss of life which occurs on board the harbour craft from any other cause.\n(2) The owner, master or person-in-charge of the harbour craft shall, in making the report under paragraph (1), also surrender the licence to the Port Master who may cause the harbour craft to be inspected."
+   }
+  },
+  {
+   "id": "SG-H3084-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "heading": {
+    "en": "Cancellation and suspension of harbour craft licence"
+   },
+   "text": {
+    "en": "33.—(1) The Port Master may cancel or suspend the licence if a person to whom a licence is granted —\n(a)has, in or in connection with any application by him for a licence or a renewal thereof, made any false or fraudulent declaration or representation, whether or not in writing;\n(b)has contravened or failed to comply with any of the provisions of the Act or any regulations made thereunder;\n(c)has committed an offence under the Act or any regulations made thereunder;\n(d)has contravened or failed to comply with any of the conditions of the licence; or\n(e)is, in the opinion of the Port Master for some other reason, unfit to hold the licence.\n(1A) The Port Master may cancel or suspend a licence granted for a harbour craft that was also a Singapore ship at the time the licence was granted if it is no longer a Singapore ship, unless the harbour craft is, in the opinion of the Port Master, fit for use in the port.\n[S 347/2009 wef 01/08/2009]\n(2) The Port Master may cancel or suspend the licence if for any other reason he is satisfied that the licence should be cancelled or suspended.\n(3) The Port Master may cancel or suspend the licence if the harbour craft, not being a Singapore ship or a sea-going ship other than a Singapore ship, at any time goes beyond the port limits as declared under the Act.\n[S 347/2009 wef 01/08/2009]\n(4) Any licence cancelled under these Regulations shall be returned to the Port Master immediately.\n(5) Any person aggrieved by a decision of the Port Master under paragraph (1), (1A), (2) or (3) may, within 14 days of the cancellation or suspension of the licence, as the case may be, appeal in writing to the Minister whose decision shall be final.\n[S 347/2009 wef 01/08/2009]"
+   }
+  },
+  {
+   "id": "SG-H3084-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "heading": {
+    "en": "Inspection of harbour craft"
+   },
+   "text": {
+    "en": "34. The owner or master of a harbour craft shall, at all reasonable times on demand by the Port Master, produce to the Port Master the harbour craft for inspection together with the licence, if any."
+   }
+  },
+  {
+   "id": "SG-H3084-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "heading": {
+    "en": "Duty to furnish name and address of person in charge of harbour craft"
+   },
+   "text": {
+    "en": "35. The owner of every harbour craft shall, at all reasonable times on demand by the Port Master or a police officer, furnish to the Port Master or the police officer the name and address of the person who was in charge of his harbour craft at any particular time when an offence has been committed or alleged to have been committed under the Act, the Merchant Shipping Act (Cap. 179) or any rules or regulations made under those Acts."
+   }
+  },
+  {
+   "id": "SG-H3084-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "heading": {
+    "en": "Renewal of licence"
+   },
+   "text": {
+    "en": "36.—(1) Every licence granted or transferred under these Regulations may be renewed before the date of expiry of the licence.\n(2) If a licence is not renewed as provided in paragraph (1), the owner of the harbour craft which use is licensed shall inform the Port Master immediately in writing or in person the reason for not renewing the licence, and also what the owner intends to do with the harbour craft.\n(3) The Port Master may, in his discretion, refuse to renew a licence."
+   }
+  },
+  {
+   "id": "SG-H3084-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "heading": {
+    "en": "Removal of unlicensed harbour craft which is likely to cause obstruction"
+   },
+   "text": {
+    "en": "37.—(1) Where a licence is not renewed as provided in regulation 36(1) and the Port Master is of the opinion that the harbour craft in respect of which the licence was granted is likely to become an obstruction, impediment or danger to navigation within the port or to the safe and convenient use or operation of the port, the Port Master may direct the owner thereof to remove the harbour craft from the waters of the port and the owner shall comply with such direction.\n(2) Where an owner of a harbour craft, in compliance with a direction made under paragraph (1), removes the harbour craft from the waters of the port and keeps, destroys or otherwise disposes of the harbour craft, the owner shall inform the Port Master of the place in which such harbour craft is kept or produce such evidence as the Port Master may reasonably require of the destruction or disposal, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H3084-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "heading": {
+    "en": "Offence to represent unlicensed harbour craft as licensed harbour craft"
+   },
+   "text": {
+    "en": "38. If —\n(a)a licensed harbour craft is represented by the display of a licence number not assigned to it under regulation 15, or allotted to its owner under regulation 15A and used to apply for a licence for it or to replace its licence number that has been cancelled; or\n[S 132/2009 wef 01/04/2009]\n(b)a harbour craft the use of which is not licensed is represented by the display of a licence number, the production of any document or by any other means, to be a licensed harbour craft,\nthe person who made such representation shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000."
+   }
+  },
+  {
+   "id": "SG-H3084-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "heading": {
+    "en": "Permission of Authority to use harbour craft otherwise than in accordance with these Regulations"
+   },
+   "text": {
+    "en": "39.—(1) The Authority may permit —\n(a)any person or class of persons to use one or more harbour craft within the port; and\n(b)any harbour craft or description of harbour craft to be used within the port,\notherwise than in accordance with any of the provisions of these Regulations.\n(2) An application for the Authority’s permission under paragraph (1) shall be made in such form or manner as the Authority may require.\n[S 403/2009 wef 01/09/2009]\n(3) The Authority may grant its permission under paragraph (1) in such form or manner as it thinks fit, including the issuing of a permit in paper or electronic form.\n[S 403/2009 wef 01/09/2009]\n(4) The Authority may, in granting its permission under paragraph (1), impose such terms and conditions as it thinks fit.\n[S 403/2009 wef 01/09/2009]\n(5) The Authority may renew any permission granted by it under paragraph (1) subject to such terms and conditions as it thinks fit.\n[S 403/2009 wef 01/09/2009]\n(6) The fees for the grant or renewal by the Authority of any permission under this regulation are specified in the Maritime and Port Authority of Singapore (Scale of Dues, Rates and General Fees) Notification (N 2).\n[S 403/2009 wef 01/09/2009]"
+   }
+  },
+  {
+   "id": "SG-H3084-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "heading": {
+    "en": "Penalty"
+   },
+   "text": {
+    "en": "40. Any person who contravenes or fails to comply with regulation 4, 10(1), 11, 12(1), 14, 16, 18, 19, 20, 21, 23, 24, 25, 27, 28, 29, 32, 33(4), 34, 35, 36(2) or 37 or any of the conditions and restrictions subject to or upon which any licence is granted under these Regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H3084-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "heading": {
+    "en": "Savings"
+   },
+   "text": {
+    "en": "41. Any licence, permit or any instruction in writing given under the revoked Port of Singapore Authority (Harbour Craft) Regulations (Cap. 236, Rg 3) is deemed to have been issued under the corresponding provisions of these Regulations."
+   }
+  },
+  {
+   "id": "SG-H3084-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 16(1)\nLicence number\n1. The minimum height (with proportionate breadth and thickness) of the letters and numbers comprising the licence number of the harbour craft at the bow shall be as follows:\nLength of harbour craft\nHeight\nBreadth\nThickness of letters and numbers\n(a)Under 5 metres\n10 cm\n7 cm\n2 cm\n(b)Between 5 and 20 metres\n20 cm\n15 cm\n4 cm\n(c)Above 20 metres\n30 cm\n20 cm\n5 cm\n2. The licence number shall be carved on a main beam or other conspicuous part of the harbour craft.\n3. In wooden harbour craft the licence number shall be carved to a depth of 3 millimetres.\n4. In steel or iron harbour craft, the licence number shall be carefully cut in or centre-punched into the harbour craft."
+   }
+  },
+  {
+   "id": "SG-H3084-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 20\nLife‑saving and other appliances and equipment to be carried by a harbour craft, other than a mechanically propelled harbour craft that carries more than 12 passengers or a tanker\nOpen harbour craft mechanically propelled (including those with outboard engines)\n1.—(1) A life-jacket of a type approved by the Port Master shall be carried for every person on board.\n(2) A life-buoy of a type approved by the Port Master shall be carried for every 2 persons on board, with a minimum of one life-buoy on a harbour craft.\n(3) A suitable anchor and mooring chain or rope shall be provided.\n(4) Suitable means shall be provided for the discharge of bilge-water.\n(5) Where practicable, a pair of oars and rowlocks, or a pair of paddles in lieu thereof, shall be provided.\n(6) In a harbour craft licensed to carry not more than 12 passengers, 3 red handflares shall be provided. The flares shall be of a type approved by the Port Master and shall be stored in a suitable watertight container.\n(7) The harbour craft shall also be provided with a suitable rubbish bin.\nOpen harbour craft not mechanically propelled\n2.—(1) The harbour craft shall carry one life-buoy of a type approved by the Port Master for every 2 persons on board, with a minimum of one life-buoy on a harbour craft.\n(2) The harbour craft shall be provided with —\n(a)a suitable anchor and mooring chain or rope;\n(b)where applicable, suitable means for the discharge of bilge-water;\n(c)where applicable, one or more pairs of oars and rowlocks approved by the Port Master and, in addition a pair of paddles for use in emergency; and\n(d)a suitable rubbish bin.\nPartially or fully decked harbour craft\n3.—(1) Every partially or fully decked harbour craft of less than 20 metres in length shall —\n(a)carry at least one life-buoy approved by the Port Master, fitted with a buoyant line at least 28 metres in length, on each side of the harbour craft;\n(b)carry —\n(i)one approved life-jacket for each person the harbour craft is licensed to carry; and\n(ii)6 approved red handflares which are to be stored in a suitable watertight container; and\n(c)be provided with —\n(i)a suitable anchor and mooring chain or rope;\n(ii)suitable means for the discharge of bilge-water; and\n(iii)a suitable rubbish bin.\n(2) Every partially or fully decked harbour craft of 20 metres or more in length shall carry at least 4 life-buoys approved by the Port Master of which at least one life-buoy, fitted with a buoyant line at least 28 metres in length, must be carried on each side of the harbour craft.\n(3) In addition to the items set out in sub-paragraph (1)(b) and (c), the harbour craft shall carry such number of life-boats, inflatable life-rafts or approved buoyant apparatus as is sufficient and adequate to accommodate the total number of persons on board."
+   }
+  },
+  {
+   "id": "SG-H3084-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulation 21\nPart I\nFIRE‑FIGHTING AND OTHER APPLIANCES AND EQUIPMENT TO BE CARRIED BY A HARBOUR CRAFT, OTHER THAN A MECHANICALLY PROPELLED HARBOUR CRAFT THAT CARRIES MORE THAN 12 PASSENGERS OR A TANKER\n1. Every harbour craft propelled by outboard engines shall be provided with —\n(a)fire buckets as set out below:\nLength of harbour craft\nMinimum number of fire buckets\n(i)less than 10 metres\n1, which shall be fitted with a lanyard\n(ii)10 metres or more but less than 15 metres\n2, one of which shall be fitted with a lanyard\n(iii)15 metres or more but less than 20 metres\n3, two of which shall be fitted with lanyards\n(iv)20 metres or more\n4, two of which shall be fitted with lanyards;\n(b)a receptacle containing an adequate quantity of sand or other dry material suitable for extinguishing oil fires;\n(c)a scoop for distributing the contents of the receptacles; and\n(d)portable fire extinguishers capable of discharging foam or other substance suitable for extinguishing oil fires as set out below:\nTotal engine shaft power (kilowatts) of propelling machinery\nNumber of extinguishers\n(i)7.5 or less\n1 of at least 4.5 litres capacity\n(ii)more than 7.5 but less than 75\n1 of at least 9 litres capacity\n(iii)75 or more but less than 375\n2, each of at least 9 litres capacity\n(iv)375 or more but less than 750\n3, each of at least 9 litres capacity.\n(v)750 or more\n4, each of at least 9 litres capacity.\n2. Every mechanically propelled harbour craft, other than harbour craft propelled by outboard engines, shall be provided with —\n(a)where the harbour craft is more than 15 metres in length, one pump operated by power and one fire hose whereby powerful jets of water can rapidly be directed into any part of the craft; but where the harbour craft is more than 15 metres but less than 20 metres in length, a hand pump may be substituted for a power pump; and\n(b)fire buckets as set out below:\nLength of harbour craft\nMinimum number of buckets\n(i)15 metres or less\n2, both of which shall be fitted with lanyards\n(ii)more than 15 metres but less than 20 metres\n3, two of which shall be fitted with lanyards\n(iii)20 metres or more\n4, two of which shall be fitted with lanyards.\n3. Where the harbour craft is fitted with one or more main or auxiliary oil-fired boilers, the boiler room shall have —\n(a)a receptacle containing an adequate quantity of sand, or other dry material suitable for extinguishing oil fires;\n(b)a scoop for distributing the contents of the receptacle;\n(c)at least 2 portable fire extinguishers, each of at least 9 litres capacity, capable of discharging foam or other substance suitable for extinguishing oil fires;\n(d)a foam fire extinguishing or fire smothering gas or steam installation, or pressure water spraying system; and\n(e)a nozzle suitable for spraying water by means of a fire hose referred to in paragraph 2(a).\n4. Every harbour craft fitted with an internal combustion engine shall be provided with —\n(a)where the internal combustion engine is located in an enclosed engine room, remote controls connected to fuel oil storage tanks, settling tanks and daily service tanks, ventilating fans, machinery induced draught fans, oil fuel pumps, lubricating oil pumps and other such equipment and the remote controls shall be situated where it may be controlled, managed or regulated from a readily accessible position outside the engine room; and\n(b)portable fire extinguishers in or near the machinery space capable of discharging foam or other substance suitable for extinguishing oil fires and the number of those extinguishers shall be as set out below:\nTotal engine shaft power (kilowatts) of propelling machinery\nNumber of extinguishers\n(i)7.5 or less\n1 of at least 4.5 litres capacity\n(ii)more than 7.5 but less than 75\n1 of at least 9 litres capacity\n(iii)75 or more but less than 375\n2, each of at least 9 litres capacity.\n(iv)375 or more but less than 750\n3, each of at least 9 litres capacity.\n(v)750 or more\n4, each of at least 9 litres capacity.\n5. Every decked harbour craft shall be provided with a nozzle suitable for spraying water by means of a fire hose referred to in paragraph 2(a).\n6.—(1) The Port Master may require a vessel licensed for towing or pushing purposes to be fitted with appliances or equipment which prevent, reduce or stop discharges of oil and mixtures containing oil into the sea, or with other appliances or equipment as may be approved by him which prevent, reduce or stop oil pollution.\n(2) Every appliance or equipment fitted to a harbour craft pursuant to this paragraph shall be approved by the Port Master.\n7.—(1) The Port Master may require a harbour craft to be equipped with a radiotelephone which is capable of operating in the International Maritime Mobile VHF Radiocommunication Service in the 156-174 MHz Band on such channels as may be specified by the Port Master from time to time.\n(2) The radiotelephone installed in the harbour craft under paragraph (1) shall at all times be maintained in effective working condition and shall be available for operating near the steering position of the harbour craft.\n8. Every appliance, equipment and arrangement of equipment, machinery or appliance prescribed in this Schedule shall be of a type approved by the Port Master.\nPart II\nadditional safety fittings, appliances and equipment on a harbour craft licensed to carry expLosives or FIRST schedule dangerous goods or “class a” or “class B” petroleum as defined in the maritime and port authority of singapore (dangerous goods, petroleum and explosives) regulations 2005 (g.n. No. S 24/2005)\n[S 25/2005 wef 31/01/2005]\nThe additional safety fittings, appliances and equipment are —\n(a)a spark arrester of an approved type to be fitted at the outlet of every machinery and galley fire exhaust and at any other position as required by the Port Master;\n(b)a suitable mast fitted with an electrically operational fixed red light visible at night all round the horizon at a range of not less than 2 nautical miles;\n(c)a suitable towline made of flexible steel wire at least 25 millimetres in diameter and 200 metres in length;\n(d)4 portable foam fire extinguishers of 9 litres capacity each, stowed in readily accessible positions near to the cargo holds;\n(e)a receptacle containing an adequate quantity of sand or other dry material suitable for extinguishing cargo fires and a scoop for distributing the contents of the receptacle, stowed in a readily accessible position near to the cargo holds;\n(f)a suitable fire axe;\n(g)an international code flag ‘B’ of a suitable size;\n(h)a “no smoking or naked light” signboard to be displayed in a conspicuous position;\n(i)if carrying dangerous goods or explosives in packages, 2 pieces of hatch tarpaulin (or equivalent) of adequate size and one cargo safety net; and\n(j)if carrying explosives, magazines certified as approved for such purpose by the Director of Marine. The Certificate of Magazine Inspection issued by the Director of Marine shall be kept valid throughout the period of validity of the harbour craft licence."
+   }
+  },
+  {
+   "id": "SG-H3084-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE\nRegulation 24\nMinimum licensed manning requirements\nType of Craft\nGross Tonnage\nDeck Manning Licence\nEngine Shaft Power (kilowatt)\nEngine Manning Licence\n1.Non‑mechanically propelled harbour craft\n“SA”, “SB”, “SC”, “SP” or “SR” harbour craft\nas determined by Port Master\nnone\nnone\n2.Mechanically propelled harbour craft\n(1)“SA”, “SC” or “SP” harbour craft carrying not more than 12 passengers\nless than 100\na Port Limit Steersman\nless than 400\nnone, if full engine and rudder control is provided at steering position. Otherwise, a Port Limit Engine Driver (Third Class)\n100 to less than 300\na Port Limit Steersman with 2 years experience\n400 to less than 1,000\nnone, if harbour craft is fitted with approved automated bridge control of main propulsion and other connected systems. Otherwise, a Port Limit Engine Driver (Third Class)\n300 to less than 500\na Port Limit Helmsman\n1,000 to less than 3,000\na Port Limit Engine Driver (Second Class)\n500 and more\nas determined by Port Master\n3,000 and more\nas determined by Port Master\n(2)“SB” harbour craft\nless than 100\na Port Limit Steersman with 2 years experience\nless than 400\na Port Limit Engine Driver (Third Class)\n100 to less than 300\na Port Limit Helmsman\n400 to less than 1,000\na Port Limit Engine Driver (Second Class)\n300 to less than 500\na Port Limit Special Grade (Deck Officer)\n1,000 to less than 3,000\na Port Limit Special Grade (Engineer Officer)\n500 and more\nas determined by Port Master\n3,000 and more\nas determined by Port Master\n(3)“SP” harbour craft carrying more than 12 passengers\nless than 300\na Port Limit Helmsman\nless than 400\na Port Limit Engine Driver (Third Class)\n300 and more\nas determined by Port Master\n400 to less than 3,000\na Port Limit Engine Driver (Second Class)\n3,000 and more\nas determined by Port Master\n(4)“ST” harbour craft\nless than 50\na Port Limit Steersman with 2 years experience\nless than 400\na Port Limit Engine Driver (Third Class) with 2 years experience\n50 to less than 300\na Port Limit Helmsman\n400 to less than 3,000\na Port Limit Engine Driver (Second Class)\n300 to less than 500\na Port Limit Helmsman, if craft fitted with approved automated bridge control of main propulsion and other connected system. Otherwise, a Port Limit Special Grade (Deck Officer) and Port Limit Helmsman\n3,000 to less than 4,000\na Port Limit Engine Driver (Second Class), if craft fitted with approved automated bridge control of main propulsion and other connected system. Otherwise, a Port Limit Special Grade (Engineer Officer) and Port Limit Engine Driver (Third Class)\n4,000 and more\na Port Limit Special Grade (Engineer Officer) and Port Limit Engine Driver (Third Class)\n500 and above\n2 Port Limit Special Grade (Deck Officer); or as determined by Port Master\n(5)“SR” harbour craft\nas determined by Port Master\nas determined by Port Master\n3. Harbour craft fitted with approved automated bridge control of main propulsion and other connected systems may be manned in accordance with other requirements of the Port Master.\n4. If the above number of officers is insufficient to ensure adequate rest periods for the watch keepers, additional officers must be provided.\n5. In this Schedule, “Gross Tonnage” means —\n(a)the Gross Tonnage registered in the craft’s permanent Certificate of Registry; or\n(b)in the absence of a permanent registry —\n(i)the tonnage determined by the Port Master; or\n(ii)the tonnage recorded in the tonnage certificate of the craft acceptable to the Port Master.\n[S 667/2006 wef 01/01/2007]\n[G.N. No. S 183/97]"
+   }
+  }
+ ]
+}

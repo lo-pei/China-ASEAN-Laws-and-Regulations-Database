@@ -1,0 +1,586 @@
+{
+ "id": "SG-H1349",
+ "title": {
+  "zh": null,
+  "en": "Environmental Protection and Management (Vehicular Emissions) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p17",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation EPMA1999-RG6",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 37,
+ "chars": 76622,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/EPMA1999-RG6?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 37 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 8 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1349-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Environmental Protection and Management (Vehicular Emissions) Regulations."
+   }
+  },
+  {
+   "id": "SG-H1349-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“approved vehicle examiner” means a vehicle examiner approved under these Regulations to carry out any re-examination under these Regulations;\n“certificate of compliance” means a certificate of compliance issued by an approved vehicle examiner under regulation 12(3)(a) or 14(5)(a);\n“diesel engine” means an internal combustion engine which operates by burning diesel;\n[S 301/2012 wef 01/07/2012]\n“goods vehicle”, “motor vehicle”, “owner” and “public service vehicle” shall have the same meanings as in the Road Traffic Act 1961;\n[S 172/2023 wef 31/12/2021]\n“licensed motor vehicle” means a motor vehicle in respect of which a vehicle licence is issued and in force;\n“prescribed standard” means any standard specified in any Schedule to these Regulations;\n“registered elsewhere”, in relation to a motor vehicle, means registered for the first time under the provisions of any law of any country (other than Singapore) relating to motor vehicles;\n[S 564/2010 wef 01/04/2011]\n“registered in Singapore”, in relation to a motor vehicle, means registered for the first time under section 26 of the Road Traffic Act 1961;\n[S 564/2010 wef 01/04/2011]\n[S 172/2023 wef 31/12/2021]\n“use” means use on a road in Singapore;\n“vehicle examiner” means a person authorised under section 90(2) of the Road Traffic Act 1961 to carry out a vehicle examination;\n[S 172/2023 wef 31/12/2021]\n“vehicle licence” means a vehicle licence issued by the Registrar of Vehicles under section 19 of the Road Traffic Act 1961;\n[S 172/2023 wef 31/12/2021]\n“vehicle testing station” has the same meaning as in the Road Traffic (Motor Vehicles, Test) Rules (R 21).\n[S 172/2023 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1349-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "3.—(1) Unless otherwise expressly provided, these Regulations shall apply only to a motor vehicle whose whole weight is transmitted to the road surface by means of its wheels that are in contact with the ground when the motor vehicle is in motion.\n(2) Nothing in Part II (except regulations 6 and 7) shall apply to a motor vehicle or trailer brought temporarily into Singapore by a person resident abroad.\n[S 57/2019 wef 31/01/2019]\n(3) Regulations 4 and 6 shall not apply to any diesel engine installed in or carried on a motor vehicle unless the diesel engine propels the motor vehicle.\n[S 301/2012 wef 01/07/2012]\n(4) Despite paragraph (1), Part IIIA applies to any motor vehicle being driven in Singapore.\n[S 372/2016 wef 01/01/2017]"
+   }
+  },
+  {
+   "id": "SG-H1349-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART II STANDARDS AND TESTS FOR VEHICLE EXHAUST EMISSION AND NOISE EMISSION"
+   },
+   "heading": {
+    "en": "Standards for exhaust emission for new motor vehicles"
+   },
+   "text": {
+    "en": "4.—(1) Every petrol driven motor vehicle (other than a motor cycle or scooter) to be registered in Singapore on or after 1 January 2024 shall conform to any of the standards for exhaust emission specified in the First Schedule for the class of motor vehicle to which that motor vehicle belongs.\n[S 765/2013 wef 20/12/2013]\n[S 199/2014 wef 01/04/2014]\n[S 480/2017 wef 01/09/2017]\n[S 172/2023 wef 01/04/2023]\n[S 897/2023 wef 01/01/2024]\n(2) Every diesel driven motor vehicle (other than a motor cycle or scooter) to be registered in Singapore on or after 1 January 2024 shall conform to any of the standards for exhaust emission specified in the Second Schedule for the class of motor vehicle to which that motor vehicle belongs.\n[S 765/2013 wef 20/12/2013]\n[S 766/2013 wef 01/01/2014]\n[S 480/2017 wef 01/01/2018]\n[S 172/2023 wef 01/04/2023]\n[S 897/2023 wef 01/01/2024]\n(3) Every two‑wheeled motor cycle or scooter with an engine capacity exceeding 200 cubic centimetres, and every three‑wheeled motor cycle or scooter, that is to be registered in Singapore on or after 1 January 2018 must conform to the standard for exhaust emission specified in Part 2 of the Third Schedule.\n[S 781/2017 wef 01/01/2018]\n(4) Every two-wheeled motor cycle or scooter with an engine capacity not exceeding 200 cubic centimetres must —\n(a)if it is to be registered in Singapore on or after 1 January 2018 but before 1 January 2020 — conform to the standard for exhaust emission specified in Part 1 of the Third Schedule; or\n(b)if it is to be registered in Singapore on or after 1 January 2020 — conform to the standard for exhaust emission specified in Part 2 of the Third Schedule.\n[S 781/2017 wef 01/01/2018]"
+   }
+  },
+  {
+   "id": "SG-H1349-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART II STANDARDS AND TESTS FOR VEHICLE EXHAUST EMISSION AND NOISE EMISSION"
+   },
+   "heading": {
+    "en": "Standards for noise emission for new motor vehicles"
+   },
+   "text": {
+    "en": "5. Every motor vehicle to be registered in Singapore on or after 1 April 2026 must conform to the standard for exhaust noise emission, specified in the Fourth Schedule for the class of motor vehicle to which that vehicle belongs.\n[S 564/2010 wef 01/10/2010]\n[S 564/2010 wef 01/04/2011]\n[S 249/2022 wef 01/04/2022]\n[S 172/2023 wef 01/04/2023]\n[S 239/2024 wef 01/04/2024]\n[S 197/2025 wef 01/04/2025]\n[S 165/2026 wef 01/04/2026]"
+   }
+  },
+  {
+   "id": "SG-H1349-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART II STANDARDS AND TESTS FOR VEHICLE EXHAUST EMISSION AND NOISE EMISSION"
+   },
+   "heading": {
+    "en": "Standards for exhaust emission for in-use motor vehicles"
+   },
+   "text": {
+    "en": "6. Every licensed motor vehicle that is in use (whether registered in Singapore before, on or after 1st July 1999) and every motor vehicle not registered in Singapore (whether brought temporarily into Singapore or otherwise) that is in use shall conform to the standard for exhaust emission specified in the Fifth Schedule.\n[S 564/2010 wef 01/04/2011]"
+   }
+  },
+  {
+   "id": "SG-H1349-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART II STANDARDS AND TESTS FOR VEHICLE EXHAUST EMISSION AND NOISE EMISSION"
+   },
+   "heading": {
+    "en": "Standards for noise emission for in-use motor vehicles"
+   },
+   "text": {
+    "en": "7.—(1) Except as provided in paragraph (2), every motor vehicle that is in use (whether or not registered in Singapore or elsewhere) shall conform to the standard of noise emission specified in the Sixth Schedule for the class of motor vehicle to which that motor vehicle belongs.\n(2) Every licensed motor vehicle that is in use shall conform to the standard of noise emission specified in the Seventh Schedule for the class of motor vehicle to which that motor vehicle belongs if the motor vehicle was registered in Singapore or elsewhere before 1st July 1999.\n[S 564/2010 wef 01/04/2011]"
+   }
+  },
+  {
+   "id": "SG-H1349-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART II STANDARDS AND TESTS FOR VEHICLE EXHAUST EMISSION AND NOISE EMISSION"
+   },
+   "heading": {
+    "en": "Unleaded petrol"
+   },
+   "text": {
+    "en": "8. Every petrol driven motor vehicle to be registered in Singapore on or after 1st July 1999 shall be capable of running on unleaded petrol.\n[S 564/2010 wef 01/04/2011]"
+   }
+  },
+  {
+   "id": "SG-H1349-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART II STANDARDS AND TESTS FOR VEHICLE EXHAUST EMISSION AND NOISE EMISSION"
+   },
+   "heading": {
+    "en": "Vehicle manufacturer’s certificate"
+   },
+   "text": {
+    "en": "9. The following may be accepted as prima facie evidence for the purpose of determining whether any motor vehicle to be registered in Singapore on or after 1st July 1999 conforms to any prescribed standard:\n(a)a certificate from the manufacturer of the vehicle stating that the motor vehicle conforms to the standard for exhaust emission specified in the First, Second or Third Schedule, or the standard for noise emission specified in the Fourth Schedule, as the case may be; or\n(b)a certificate stating that the motor vehicle belongs to a model or batch of vehicles that conform to the standard for exhaust emission specified in the First, Second or Third Schedule, or the standard for noise emission specified in the Fourth Schedule, as the case may be.\n[S 564/2010 wef 01/04/2011]"
+   }
+  },
+  {
+   "id": "SG-H1349-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART III FLEET OWNERS"
+   },
+   "heading": {
+    "en": "Owners of motor vehicle fleets"
+   },
+   "text": {
+    "en": "10. This Part shall apply only to a person who is the owner or who has under his control or possession 3 or more —\n(a)public service vehicles (other than trishaws) for the purpose of his business or trade;\n(b)motor vehicles for the purposes of his business or trade as a manufacturer or dealer of motor vehicles; or\n(c)motor vehicles for the purpose of his business or trade of transporting goods or cargo for hire or reward."
+   }
+  },
+  {
+   "id": "SG-H1349-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART III FLEET OWNERS"
+   },
+   "heading": {
+    "en": "Special duties of owners of motor vehicle fleets"
+   },
+   "text": {
+    "en": "11.—(1) The Director-General may, by notice in writing, require any person to whom this Part applies to take such measures as the Director-General may specify, being measures necessary to ensure that every motor vehicle or public service vehicle the person owns or has under his control or possession conforms to the applicable prescribed standards, including but not limited to —\n(a)carrying out regular servicing and repair of the motor vehicles at such intervals and workshops as may be specified by the Director-General in the notice; and\n(b)keeping and maintaining full and accurate records of such servicing and repair carried out.\n(2) Any person who fails to comply with a notice under paragraph (1) shall be guilty of an offence unless he satisfies the court that he has used all due diligence to comply with the notice."
+   }
+  },
+  {
+   "id": "SG-H1349-A11.001",
+   "no": 11.001,
+   "noLabel": {
+    "en": "11A."
+   },
+   "chapter": {
+    "en": "PART IIIA STANDARDS FOR DIESEL OR PETROL"
+   },
+   "heading": {
+    "en": "Standards for diesel or petrol used by motor vehicles"
+   },
+   "text": {
+    "en": "11A. Every motor vehicle being driven in Singapore, when using diesel or petrol, must only use diesel or petrol that conforms to the standards for diesel or petrol specified in the Eighth Schedule.\n[S 26/2017 wef 01/07/2017]\n[S 372/2016 wef 01/01/2017]"
+   }
+  },
+  {
+   "id": "SG-H1349-A11.002",
+   "no": 11.002,
+   "noLabel": {
+    "en": "11B."
+   },
+   "chapter": {
+    "en": "PART IIIA STANDARDS FOR DIESEL OR PETROL"
+   },
+   "heading": {
+    "en": "Import, manufacture, etc., of diesel or petrol"
+   },
+   "text": {
+    "en": "11B.—(1) A person must not import, manufacture, possess for sale, sell or offer for sale any diesel or petrol, with the intention for it to be used in any motor vehicle being driven in Singapore, unless the diesel or petrol conforms to the standards specified in the Eighth Schedule.\n[S 26/2017 wef 01/07/2017]\n(2) Any person who, on behalf of the owner or occupier of any trade or industrial premises, purchases, or negotiates for or authorises the purchase of, diesel or petrol, with the intention for the diesel or petrol to be used in any motor vehicle being driven in Singapore, must ensure that the diesel or petrol conforms to the standards specified in the Eighth Schedule.\n[S 26/2017 wef 01/07/2017]\n(3) Any person who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part of a day during which the offence continues after conviction.\n(4) Any person who contravenes paragraph (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.\n[S 372/2016 wef 01/01/2017]"
+   }
+  },
+  {
+   "id": "SG-H1349-A11.003",
+   "no": 11.003,
+   "noLabel": {
+    "en": "11C."
+   },
+   "chapter": {
+    "en": "PART IIIA STANDARDS FOR DIESEL OR PETROL"
+   },
+   "heading": {
+    "en": "Testing methods"
+   },
+   "text": {
+    "en": "11C. Unless the Director-General otherwise allows in any particular case, the standards specified in the Eighth Schedule must be tested in accordance with the appropriate testing methods most recently published by any of the following:\n(a)the American Society for Testing and Materials;\n(b)the European Committee for Standardization;\n(c)the International Organization for Standardization;\n(d)the United Kingdom Institute of Petroleum.\n[S 322/2019 wef 01/07/2019]"
+   }
+  },
+  {
+   "id": "SG-H1349-A11.004",
+   "no": 11.004,
+   "noLabel": {
+    "en": "11D."
+   },
+   "chapter": {
+    "en": "PART IIIA STANDARDS FOR DIESEL OR PETROL"
+   },
+   "heading": {
+    "en": "Requirements"
+   },
+   "text": {
+    "en": "11D.—(1) The Director‑General may, by notice in writing, require any person, owner or occupier of any premises to —\n(a)carry out any analysis or study; or\n(b)put in place any suitable measure (including but not limited to installing relevant equipment and systems),\nfor monitoring the quality of any diesel or petrol kept in the premises and ensuring that the diesel or petrol conforms with the standards specified in the Eighth Schedule.\n[S 26/2017 wef 01/07/2017]\n(2) The person, owner or occupier mentioned in paragraph (1) must —\n(a)keep records of —\n(i)any analysis or study carried out; or\n(ii)any measure put in place; and\n(b)submit the records to the Director‑General when so required by the Director‑General.\n(3) A person who manufactures, imports, sells, stores or carries out any analysis or study of any diesel or petrol must —\n(a)keep records of the manufacture, import, sale or storage of the diesel or petrol or the results of the analysis or study of the diesel or petrol (as the case may be), in such form as may be determined by the Director‑General; and\n(b)submit the records to the Director‑General when so required by the Director‑General.\n[S 26/2017 wef 01/07/2017]\n[S 372/2016 wef 01/01/2017]"
+   }
+  },
+  {
+   "id": "SG-H1349-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART IV RE-EXAMINATION AND RECTIFICATION NOTICES"
+   },
+   "heading": {
+    "en": "Re-examination of motor vehicle"
+   },
+   "text": {
+    "en": "12.—(1) The Director-General may, at any time by notice in writing, require the owner of any motor vehicle that is in use (whether registered in Singapore or elsewhere and whether brought temporarily into Singapore or otherwise) to submit the vehicle, at such place and such time as may be specified in the notice, for a re-examination for the purpose of determining whether the vehicle still conforms to the applicable prescribed standards.\n[S 57/2019 wef 31/01/2019]\n(2) Every motor vehicle that is submitted for re-examination pursuant to a notice under paragraph (1) shall be examined for the purpose of ascertaining whether the motor vehicle conforms to all the applicable prescribed standards at the date of such re-examination.\n(3) After the re-examination under this regulation is completed, the approved vehicle examiner shall —\n(a)issue a certificate of compliance to the owner of the motor vehicle re-examined if he is satisfied that the vehicle conforms to all the applicable prescribed standards at the date of such re-examination; or\n(b)if he is not so satisfied, refuse to issue a certificate of compliance and issue instead an inspection report to the Director-General and to the owner of the motor vehicle re-examined containing the detailed results of the re-examination.\n(4) Any person who, without the permission of the Director-General, makes any alteration to any certificate of compliance or inspection report issued under paragraph (3) shall be guilty of an offence.\n(5) Any such certificate of compliance or inspection report that contains any unlawful alteration shall be invalid.\n(6) Any owner of a motor vehicle who fails to comply with the notice of the Director-General under paragraph (1) shall be guilty of an offence unless he satisfies the court that, owing to some mechanical breakdown or other sufficient reason, the vehicle cannot be submitted for re-examination under this regulation."
+   }
+  },
+  {
+   "id": "SG-H1349-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART IV RE-EXAMINATION AND RECTIFICATION NOTICES"
+   },
+   "heading": {
+    "en": "Appeal on refusal of certificate of compliance"
+   },
+   "text": {
+    "en": "13.—(1) Any person who is aggrieved by the refusal of a certificate of compliance under regulation 12(3)(b) may appeal to the Director-General within 24 hours from the time of the notification of such refusal.\n(2) Every appeal shall be made in writing on a form approved by the Director-General.\n(3) The Director-General shall, as soon as reasonably practicable after the receipt of an appeal under paragraph (1), send a notice to the appellant stating the place and time the re-examination for the purposes of the appeal will be conducted."
+   }
+  },
+  {
+   "id": "SG-H1349-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART IV RE-EXAMINATION AND RECTIFICATION NOTICES"
+   },
+   "heading": {
+    "en": "Re-examination on appeal"
+   },
+   "text": {
+    "en": "14.—(1) The place selected by the Director-General for a re-examination for the purposes of an appeal may be at such other approved vehicle testing station as the Director-General thinks fit.\n(2) The motor vehicle shall be submitted to another approved vehicle examiner specially appointed by the Director-General for re-examination for the purposes of an appeal and at the place and time specified in the notice under regulation 13(3) unless otherwise specified by the Director-General.\n(3) A person submitting a motor vehicle for re-examination for the purposes of an appeal shall, if requested to do so by an approved vehicle examiner specially appointed by the Director-General to carry out the re-examination —\n(a)produce to that specially appointed approved vehicle examiner the inspection report issued under regulation 12(3)(b) by the other approved vehicle examiner in respect of the vehicle, and the registration document relating to the vehicle or any other evidence of the date of its first registration; and\n(b)give to that specially appointed approved vehicle examiner such information as he may reasonably require in connection with the carrying out of the re-examination relating to any alteration or repair carried out, or other event occurring, since the issue of the inspection report, which may have affected the vehicle or any of its equipment or accessories.\n(4) The specially appointed approved vehicle examiner shall not be required to carry out any re-examination on appeal unless the report, document and information referred to in paragraph (3) are produced or given.\n(5) The specially appointed approved vehicle examiner shall, on completion of a re-examination under this regulation —\n(a)issue a certificate of compliance to the owner of the motor vehicle if he is satisfied that the vehicle conforms to all the applicable prescribed standards at the date of such re-examination; or\n(b)refuse to issue a certificate of compliance if he is not satisfied that the vehicle conforms to all the applicable prescribed standards at the date of such re-examination, and immediately notify the Director-General of his decision.\n(6) The decision of the specially appointed approved vehicle examiner on a re-examination under this regulation shall be final."
+   }
+  },
+  {
+   "id": "SG-H1349-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART IV RE-EXAMINATION AND RECTIFICATION NOTICES"
+   },
+   "heading": {
+    "en": "Rectification notices"
+   },
+   "text": {
+    "en": "15.—(1) The Director-General shall immediately issue a rectification notice to the owner of the motor vehicle concerned —\n(a)after receipt of an inspection report issued under regulation 12(3)(b) if no appeal under regulation 13(1) is made; or\n(b)if such an appeal is made, after receipt of a notification under regulation 14(5)(b) of a specially appointed approved vehicle examiner’s refusal to issue a certificate of compliance following a re-examination of the motor vehicle on that appeal.\n[S 57/2019 wef 31/01/2019]\n(2) The Director-General may also issue a rectification notice to the owner of any motor vehicle that is in use (whether registered in Singapore or elsewhere and whether brought temporarily into Singapore or otherwise) where it appears to him that the motor vehicle has been used contrary to any provision in these Regulations.\n[S 57/2019 wef 31/01/2019]\n(3) A rectification notice shall state —\n(a)in what respect the motor vehicle is found not to satisfy any requirement of the applicable prescribed standard; and\n[S 57/2019 wef 31/01/2019]\n(b)that, unless the motor vehicle is submitted for a further examination by an approved vehicle examiner at an approved vehicle testing station and within such period as may be specified in the rectification notice and is found at that further examination to conform to all the applicable prescribed standards, the rectification notice will remain in force for that motor vehicle with effect from the date of the notice.\n(4) Except as otherwise provided in paragraph (5), no person shall use on a road at any time, or cause or permit to be so used, a motor vehicle in respect of which there is a rectification notice in force.\n(5) A motor vehicle in respect of which there is a rectification notice in force may be used —\n(a)on a journey for the purpose of effecting repairs thereto and its further examination at an approved vehicle testing station in accordance with the notice; or\n(b)for such period and under such other circumstances as the Director-General may expressly authorise its continued use.\n(6) The Director-General shall cancel any authorisation granted under paragraph (5)(b) for the continued use of a motor vehicle in respect of which a rectification notice is in force if the motor vehicle —\n(a)is not submitted for a further examination in accordance with the terms of the rectification notice; or\n(b)is found at that further examination to still not conform to all the applicable prescribed standards.\n(7) Any person who contravenes paragraph (4) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H1349-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART IV RE-EXAMINATION AND RECTIFICATION NOTICES"
+   },
+   "heading": {
+    "en": "Re-examination by approved vehicle examiners, etc."
+   },
+   "text": {
+    "en": "16.—(1) Except where otherwise provided, any re-examination under regulation 12 or 14 and any further examination pursuant to a rectification notice under regulation 15(3) shall be carried out by vehicle examiners and at vehicle testing stations approved under this regulation only.\n(2) Every application for approval shall —\n(a)be made to the Director-General; and\n(b)be signed by the vehicle examiner or a person duly authorised to do so on its behalf if the vehicle examiner is a firm or body corporate.\n(3) The Director-General may require a separate application for approval to be made in respect of each of the vehicle testing stations at which a vehicle examiner intends to carry out any re-examination of motor vehicles under regulation 12 or 14 or further examination under regulation 15(3), as the case may be.\n(4) On receipt of an application under paragraph (2) from a vehicle examiner, the Director-General may, after making such investigation and carrying out such inspection as he considers necessary —\n(a)approve, with or without conditions, the vehicle examiner for the purpose of carrying out any re-examination or further examination of motor vehicles under regulation 12, 14 or 15(3), as the case may be, in respect of any class or classes of motor vehicles; or\n(b)reject the application.\n(5) An approved vehicle examiner shall not authorise any person to carry out or personally supervise any such re-examinations or further examinations at any of its approved vehicle testing stations unless the person has undergone successfully a course of instruction approved by the Director-General and is regarded by the Director-General to be competent to act for that purpose.\n(6) Approved vehicle examiners shall ensure that all apparatus used or necessary for the purposes of any such re-examination or further examination under regulation 12, 14 or 15(3) shall be maintained in an efficient state and, in the case of any such apparatus designed to indicate any measurement, that such apparatus shall do so accurately within reasonable limits."
+   }
+  },
+  {
+   "id": "SG-H1349-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART IV RE-EXAMINATION AND RECTIFICATION NOTICES"
+   },
+   "heading": {
+    "en": "Cancellation and withdrawal of approval"
+   },
+   "text": {
+    "en": "17.—(1) Any approval of a vehicle examiner granted under this regulation shall cease to have effect —\n(a)where the person specified in the approval is an individual, on the death or bankruptcy of that individual;\n(b)where the person specified in the approval is a partnership firm, on the dissolution of that firm; or\n(c)where the person specified in the approval is a body corporate, on the making of an order or the passing of a resolution for the winding up of that body corporate, not being a winding up for the purpose of amalgamation or reconstruction only.\n(2) A reference to the bankruptcy of an individual in paragraph (1)(a) shall be read as a reference to the making of a bankruptcy order against him, his filing a bankruptcy application or his making an arrangement with or assignment in favour of his creditors.\n(3) An approved vehicle examiner may at any time give notice to the Director-General stating that after such date as may be specified in the notice the examiner does not propose to continue to act as an approved vehicle examiner under these Regulations as may be specified in the notice.\n(4) The date on which an approved vehicle examiner ceases to act as an approved vehicle examiner shall not be earlier than 3 months after the date of any notice given by him under paragraph (3).\n(5) The Director-General may, by notice in writing, cancel any approval granted under this regulation to any vehicle examiner to carry out re-examination of motor vehicles under regulation 12 or 14 if the Director-General is satisfied that the approved vehicle examiner —\n(a)has failed to comply with regulation 16(5) or (6) or with any condition of approval imposed under regulation 16(4)(a); or\n(b)is for any reason not able to discharge his duties under these Regulations effectively or efficiently.\n(6) Except where it is otherwise specified, the date of any such cancellation of approval shall not be earlier than 28 days after the date of the notice under paragraph (5).\n(7) If, within 14 days from the date of the notice, the Director-General receives from the approved vehicle examiner to whom that notice is given or from any person acting on behalf of that examiner representations to the effect that any approval to which that notice relates should not be withdrawn, the Director-General shall consider these representations and make such investigations in respect thereof as he thinks fit."
+   }
+  },
+  {
+   "id": "SG-H1349-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART IV RE-EXAMINATION AND RECTIFICATION NOTICES"
+   },
+   "heading": {
+    "en": "Requirements as to motor vehicles submitted for re-examination"
+   },
+   "text": {
+    "en": "18. Notwithstanding anything to the contrary in these Regulations, there is no duty or requirement to carry out a re-examination or further examination of a motor vehicle under any provision of these Regulations if —\n(a)on the submission of the motor vehicle for re-examination or further examination, the person applying for the re-examination or further examination does not, after being requested to do so, produce the registration document relating to the vehicle or any other evidence as to the date of its first registration or the inspection report issued under regulation 12(3)(b), where applicable;\n(b)where the motor vehicle or any part thereof or any of its equipment is in such a dirty condition as to make it unreasonably difficult for the re-examination or further examination to be carried out;\n(c)where the approved vehicle examiner is not able, with the facilities and apparatus available to him at the approved vehicle testing station at which the re-examination or further examination would have been carried out, to complete the re-examination or further examination without the vehicle being driven and the vehicle is not, when submitted for re-examination or further examination, provided with fuel or oil to enable it to be driven to such extent as may be necessary for the purposes of carrying out the examinations; or\n(d)where before the carrying out of the re-examination or further examination of the motor vehicle, all or any goods or other things which are on the vehicle and are not part of its equipment or accessories are required to be removed from the vehicle or to be secured in such manner as the approved vehicle examiner may think necessary and the goods or things are not removed or secured accordingly."
+   }
+  },
+  {
+   "id": "SG-H1349-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART V OFFENCES"
+   },
+   "heading": {
+    "en": "Smoky motor vehicles"
+   },
+   "text": {
+    "en": "19.—(1) No person shall use or cause or permit to be used on any road any motor vehicle from which any smoke or visible vapour is emitted.\n(2) The driver of any motor vehicle found emitting smoke or visible vapour in contravention of paragraph (1) shall be guilty of an offence, and if the driver is not the owner of that vehicle, the owner shall also be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H1349-A19.001",
+   "no": 19.001,
+   "noLabel": {
+    "en": "19A."
+   },
+   "chapter": {
+    "en": "PART V OFFENCES"
+   },
+   "heading": {
+    "en": "Offence for using relevant vehicle that fails minimum standard for exhaust emission"
+   },
+   "text": {
+    "en": "19A.—(1) This regulation applies to or in relation to a two-wheeled or three-wheeled motor cycle or two-wheeled or three-wheeled scooter (called in this regulation a relevant vehicle) whether or not registered in Singapore, that is not registered as —\n(a)a classic vehicle;\n(b)a normal vintage vehicle;\n(c)a restricted vintage vehicle; or\n(d)a revised use vintage vehicle.\n[S 239/2024 wef 01/04/2024]\n(2) A person who uses a relevant vehicle that emits from the exhaust of the relevant vehicle, more than —\n(a)4.5% by volume of carbon monoxide;\n(b)for a relevant vehicle with a 2-stroke engine — 7800 ppm of hydrocarbons; or\n(c)for a relevant vehicle with a 4-stroke engine — 2000 ppm of hydrocarbons,\nas measured when the relevant vehicle is at idle speed, shall be guilty of an offence.\n(3) In this regulation —\n“classic vehicle”, “normal vintage vehicle”, “restricted vintage vehicle” and “revised use vintage vehicle” have the meanings given by rule 2(1) of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules (R 5);\n“idle speed” means the engine speed of a stationary relevant vehicle when its engine is left on and its accelerator is not depressed;\n“ppm” means parts per million.\n[S 188/2023 wef 06/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H1349-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART V OFFENCES"
+   },
+   "heading": {
+    "en": "Excessive noise"
+   },
+   "text": {
+    "en": "20.—(1) No person shall use or cause or permit to be used on a road any motor vehicle that does not conform to the standard for noise emission specified under regulation 7 for the class of motor vehicle to which that motor vehicle belongs.\n[S 564/2010 wef 01/04/2011]\n(2) Any person who contravenes paragraph (1) shall be guilty of an offence.\n(3) Where a person is charged with an offence under paragraph (1), it shall be good defence for that person if —\n(a)he can prove that the noise or continuance of the noise from the motor vehicle was due to some temporary or accidental cause which could not have been prevented through due diligence and care on the part of the owner or driver of the vehicle; or\n(b)where the person is the driver or the person not being the owner of the motor vehicle has charge of the vehicle, he can prove that the noise arose through a defect in the design or construction of the vehicle or trailer or through the negligence or fault of some other person whose duty was to keep the motor vehicle or trailer in proper condition or in a proper state of repair or adjustment or properly to pack or adjust the load of such motor vehicle or trailer, and could not have been prevented through due diligence and care on the part of that driver or other person in charge of the vehicle."
+   }
+  },
+  {
+   "id": "SG-H1349-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART V OFFENCES"
+   },
+   "heading": {
+    "en": "Stationary motor vehicles"
+   },
+   "text": {
+    "en": "21.—(1) Subject to paragraph (2), the driver of every motor vehicle shall, when the vehicle is stationary for reasons other than traffic conditions, stop the engine of or other machinery attached to or forming part of the vehicle.\n(2) Nothing in paragraph (1) shall apply to the examination or working of the machinery attached to or forming part of a motor vehicle where any such examination or working is rendered necessary by any failure or derangement of the machinery or where the machinery is required to be worked for some ancillary purpose.\n(3) Any person who fails to comply with paragraph (1) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H1349-A21.001",
+   "no": 21.001,
+   "noLabel": {
+    "en": "21A."
+   },
+   "chapter": {
+    "en": "PART V OFFENCES"
+   },
+   "heading": {
+    "en": "Duty to provide information"
+   },
+   "text": {
+    "en": "21A.—(1) Where a person who has used or caused or permitted a motor vehicle to be used on a road (referred to in this regulation as the offender) is alleged or is suspected to have committed an offence under regulation 21 —\n(a)the owner of the motor vehicle shall, where required by the Director-General or any authorised officer, give such information as to the identity and address of the offender, and as to the driving licence held by the offender (if necessary); and\n(b)any other person who was or should have been in charge of the motor vehicle shall, if so required under sub-paragraph (a), give any information which is in his power to give, and which may lead to the identification of the offender.\n(2) Any owner of a motor vehicle or any other person who fails to furnish the information required from him under paragraph (1)(a) or (b), as the case may be, within 7 days of the date on which the information was required from him shall be guilty of an offence unless he proves, to the satisfaction of the court, that he did not know and could not with reasonable diligence have ascertained the information required.\n(3) Any person who wilfully furnishes any false or misleading information under paragraph (1) shall be guilty of an offence.\n(4) The Director-General or any authorised officer may require any information to be furnished under paragraph (1) to be in writing signed by the person required to furnish such information.\n(5) In this regulation, “owner”, in relation to a motor vehicle, includes —\n(a)every person who is the joint owner or part owner of the vehicle and any person who has the use of the vehicle under a hiring agreement or hire-purchase agreement but who is not the owner under any such agreement;\n(b)the person in whose name the vehicle is registered in Singapore except where the person has sold or otherwise disposed of the vehicle and has complied with the provisions of the rules applicable to him in regard to such sale or disposal; and\n[S 564/2010 wef 01/04/2011]\n(c)in the case of a vehicle in respect of which a general licence is issued under section 28 of the Road Traffic Act 1961, the person to whom the general licence is issued.\n[S 625/2008 wef 01/01/2009]\n[S 172/2023 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H1349-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART V OFFENCES"
+   },
+   "heading": {
+    "en": "Restriction of motor vehicles on roads"
+   },
+   "text": {
+    "en": "22.—(1) The Director-General may, with the approval of the Minister, by order prohibit or restrict the use of motor vehicles of any specified class or description and either generally or during particular hours on any roads in Singapore if the Director-General is satisfied that the prohibition or restriction is necessary to safeguard public health from excessive levels of air pollution.\n(2) Subject to paragraph (3), any person who uses or causes or permits to be used any vehicle in contravention of any order made under paragraph (1) shall be guilty of an offence.\n(3) Nothing in this regulation shall prevent the use of any motor vehicle to convey any sick or injured person in the case of a medical emergency."
+   }
+  },
+  {
+   "id": "SG-H1349-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART V OFFENCES"
+   },
+   "heading": {
+    "en": "Penalty"
+   },
+   "text": {
+    "en": "23. Any person who is guilty of an offence under any provision of these Regulations shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000."
+   }
+  },
+  {
+   "id": "SG-H1349-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 4(1)\nStandards for exhaust emission for\nnew petrol driven motor vehicles\n1. The standards for exhaust emission for new petrol driven motor vehicles (the exhaust emission of which is to be determined in accordance with the relevant document in which the standard is found) of the following classes are as follows:\nClass of vehicle\nStandard for exhaust emission\n(a)Passenger car or taxi with engine that employs Gasoline Direct Injection technology\n(i)Euro 6 standard;\n(ii)JPN2018 and Euro 6 PN limit; or\n(iii)JPN2023\n(b)Passenger car or taxi with engine that does not employ Gasoline Direct Injection technology\n(i)Euro 6 standard;\n(ii)JPN2018; or\n(iii)JPN2023\n(c)Motor vehicle (other than a passenger car or taxi) with engine that employs Gasoline Direct Injection technology\n(i)Euro 6 standard;\n(ii)JPN2018 and Euro 6 PN limit; or\n(iii)JPN2023\n(d)Motor vehicle (other than a passenger car or taxi) with engine that does not employ Gasoline Direct Injection technology\n(i)Euro 6 standard;\n(ii)JPN2018; or\n(iii)JPN2023\n[S 897/2023 wef 01/01/2024]\n[S 172/2023 wef 01/04/2023]\n2. In this Schedule —\n“Commission Regulation (EU) No. 459/2012” means Commission Regulation (EU) No. 459/2012 of 29 May 2012, amending Regulation (EC) No. 715/2007 of the European Parliament and of the Council and Commission Regulation (EC) No. 692/2008 as regards emissions from light passenger and commercial vehicles (Euro 6);\n[Deleted by S 877/2018 wef 01/01/2019]\n[Deleted by S 877/2018 wef 01/01/2019]\n“Commission Regulation (EC) No. 692/2008” means the Commission Regulation (EC) No. 692/2008 of 18 July 2008 implementing and amending Regulation (EC) No. 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information;\n[S 877/2018 wef 01/01/2019]\n“Commission Regulation (EU) No. 2017/1151” means the Commission Regulation (EU) 2017/1151 of 1 June 2017 supplementing Regulation (EC) No. 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information, amending Directive 2007/46/EC of the European Parliament and of the Council, Commission Regulation (EC) No. 692/2008 and Commission Regulation (EU) No. 1230/2012 and repealing Commission Regulation (EC) No. 692/2008;\n[S 877/2018 wef 01/01/2019]\n[Deleted by S 172/2023 wef 01/04/2023]\n“Euro 6 PN limit” means the standard for particle numbers in exhaust emission specified in the column titled “Number of particles (PN)” in Regulation (EC) No. 715/2007, Annex I, Table 2, as amended by Commission Regulation (EU) No. 459/2012 and read with Commission Regulation (EU) No. 2017/1151;\n[S 897/2023 wef 01/01/2024]\n[Deleted by S 897/2023 wef 01/01/2024]\n“Euro 6 standard” means the standard for exhaust emissions in Regulation (EC) No. 715/2007, Annex I, Table 2, as amended by Commission Regulation (EU) No. 459/2012 and read with Commission Regulation (EU) No. 2017/1151;\n[S 897/2023 wef 01/01/2024]\n[Deleted by S 897/2023 wef 01/01/2024]\n[Deleted by S 897/2023 wef 01/01/2024]\n[Deleted by S 172/2023 wef 01/04/2023]\n“JPN2018” means paragraph 1(3) of Article 41 of the Japanese Ministry of Land, Infrastructure and Transport Announcement No. 619 dated 15 July 2002 (ANNOUNCEMENT THAT PRESCRIBES DETAILS OF SAFETY REGULATIONS FOR ROAD VEHICLES), as amended by the Japanese Ministry of Land, Infrastructure, Transport and Tourism Announcement No. 528 dated 30 March 2018;\n[S 877/2018 wef 01/01/2019]\n[S 897/2023 wef 01/01/2024]\n“JPN2023” means paragraph 1(3) of Article 41 of the Japanese Ministry of Land, Infrastructure and Transport Announcement No. 619 dated 15 July 2002 (ANNOUNCEMENT THAT PRESCRIBES DETAILS OF SAFETY REGULATIONS FOR ROAD VEHICLES), as amended by the Japanese Ministry of Land, Infrastructure, Transport and Tourism Announcement No. 1040 dated 7 October 2022;\n[S 897/2023 wef 01/01/2024]\n[Deleted by S 172/2023 wef 01/04/2023]\n“Regulation (EC) No. 715/2007” means Regulation (EC) No. 715/2007 of the European Parliament and of the Council of 20 June 2007 on type approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information.\n[S 480/2017 wef 01/09/2017]\n[G.N. Nos. S 291/99; S 554/2000; S 238/2003; S 570/2005; S 158/2006]"
+   }
+  },
+  {
+   "id": "SG-H1349-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 4(2)\nStandards for exhaust emission for\nnew diesel driven motor vehicles\n1. The standards for exhaust emission for new diesel driven motor vehicles (the exhaust emission of which is to be determined in accordance with the relevant document in which the standard is found, unless otherwise stated in this Schedule) of the following classes are as follows:\nClass of vehicle\nStandard for exhaust emission\n(a)Passenger car or taxi\n(i)Euro 6 standard for light vehicles;\n(ii)JPN2018 and Euro 6 PN limit; or\n(iii)JPN2023\n(b)Motor vehicle (other than a passenger car or taxi) with gross vehicle weight not exceeding 3.5 tons\n(i)Euro 6 standard for light vehicles;\n(ii)JPN2018 and Euro 6 PN limit; or\n(iii)JPN2023\n(c)Motor vehicle (other than a passenger car or taxi) with gross vehicle weight exceeding 3.5 tons\n(i)Euro VI standard for heavy vehicles;\n(ii)PPNLT and Euro VI PM number;\n(iii)PPNLT (Alternate) and Euro VI PM number (Alternate);\n(iv)PPNLT 2023; or\n(v)PPNLT 2023 (Alternate)\n[S 897/2023 wef 01/01/2024]\n[S 172/2023 wef 01/04/2023]\n2. In this Schedule —\n“Commission Regulation (EU) No. 459/2012” means Commission Regulation (EU) No. 459/2012 of 29 May 2012, amending Regulation (EC) No. 715/2007 of the European Parliament and of the Council and Commission Regulation (EC) No. 692/2008 as regards emissions from light passenger and commercial vehicles (Euro 6);\n“Commission Regulation (EU) No. 582/2011” means Commission Regulation (EU) No. 582/2011 of 25 May 2011, implementing and amending Regulation (EC) No. 595/2009 of the European Parliament and of the Council with respect to emissions from heavy duty vehicles (Euro VI) and amending Annexes I and III to Directive 2007/46/EC of the European Parliament and of the Council;\n“Commission Regulation (EC) No. 692/2008” means the Commission Regulation (EC) No. 692/2008 of 18 July 2008 implementing and amending Regulation (EC) No. 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information;\n[S 877/2018 wef 01/01/2019]\n“Commission Regulation (EU) No. 2017/1151” means the Commission Regulation (EU) 2017/1151 of 1 June 2017 supplementing Regulation (EC) No. 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information, amending Directive 2007/46/EC of the European Parliament and of the Council, Commission Regulation (EC) No. 692/2008 and Commission Regulation (EU) No. 1230/2012 and repealing Commission Regulation (EC) No. 692/2008;\n[S 877/2018 wef 01/01/2019]\n“Euro 6 PN limit” means the standard for particle numbers in exhaust emission specified in the column titled “Number of particles (PN)” in Regulation (EC) No. 715/2007, Annex I, Table 2, as amended by Commission Regulation (EU) No. 459/2012 and read with Commission Regulation (EU) No. 2017/1151;\n[S 897/2023 wef 01/01/2024]\n[Deleted by S 897/2023 wef 01/01/2024]\n“Euro 6 standard for light vehicles” means the standard for exhaust emissions in Regulation (EC) No. 715/2007, Annex I, Table 2, as amended by Commission Regulation (EU) No. 459/2012 and read with Commission Regulation (EU) No. 2017/1151;\n[S 897/2023 wef 01/01/2024]\n[Deleted by S 897/2023 wef 01/01/2024]\n“Euro VI PM number” means the standard for particle numbers in exhaust emission specified in the column titled “PM number (#/kWh)” in Regulation (EC) No. 595/2009, Annex I, as amended by Commission Regulation (EU) No. 582/2011;\n“Euro VI PM number (Alternate)” means 6.0 x 1011 #/kWh, being the standard for particle numbers in exhaust emission specified in the column titled “PM number (#/kWh)” for the row titled “WHTC (CI)” in Regulation (EC) No. 595/2009, Annex I, as amended by Commission Regulation (EU) No. 582/2011, with the exhaust emission determined in accordance with the test method set out in the document titled “Measurement Procedure for JE05-Mode Exhaust Emissions by Means of Chassis Dynamometer” and “Measurement Procedure for WHTC Exhaust Emissions by Means of Chassis Dynamometer”, Kokujikan No. 280 of 16 March 2007 as amended by Kokujikan No. 68 of 1 July 2011 and Kokujikan No. 91 of 30 August 2017, Attachment 2;\n[S 668/2022 wef 12/08/2022]\n[Deleted by S 877/2018 wef 01/01/2019]\n“Euro VI standard for heavy vehicles” means the standard for exhaust emissions in Regulation (EC) No. 595/2009, Annex I, as amended by Commission Regulation (EU) No. 582/2011;\n[S 877/2018 wef 01/01/2019]\n[Deleted by S 897/2023 wef 01/01/2024]\n“JPN2018” means paragraph 1(7) of Article 41 of the Japanese Ministry of Land, Infrastructure and Transport Announcement No. 619 dated 15 July 2002 (ANNOUNCEMENT THAT PRESCRIBES DETAILS OF SAFETY REGULATIONS FOR ROAD VEHICLES), as amended by the Japanese Ministry of Land, Infrastructure, Transport and Tourism Announcement No. 528 dated 30 March 2018;\n[S 877/2018 wef 01/01/2019]\n[S 897/2023 wef 01/01/2024]\n“JPN2023” means paragraph 1(7) of Article 41 of the Japanese Ministry of Land, Infrastructure and Transport Announcement No. 619 dated 15 July 2002 (ANNOUNCEMENT THAT PRESCRIBES DETAILS OF SAFETY REGULATIONS FOR ROAD VEHICLES), as amended by the Japanese Ministry of Land, Infrastructure, Transport and Tourism Announcement No. 1040 dated 7 October 2022;\n[S 897/2023 wef 01/01/2024]\n“PPNLT” means the emission standards known as the Post-Post New Long Term emission regulations that are set out in paragraph 1(5) titled “[JE05-Mode Mean Value Regulations at Time of Completion Inspection, etc. for Diesel Motor Vehicles (with GVW exceeding 3.5 tons)]” of Article 41 of the Japanese Ministry of Land, Infrastructure and Transport Announcement No. 619 dated 15 July 2002 (ANNOUNCEMENT THAT PRESCRIBES DETAILS OF SAFETY REGULATIONS FOR ROAD VEHICLES), as amended by the Japanese Ministry of Land, Infrastructure, Transport and Tourism Announcement No. 826 dated 1 July 2015;\n“PPNLT (Alternate)” means the emission standards known as the Post-Post New Long Term emission regulations that are set out in paragraph 1(5) titled “[JE05-Mode Mean Value Regulations at Time of Completion Inspection, etc. for Diesel Motor Vehicles (with GVW exceeding 3.5 tons)]” of Article 41 of the Japanese Ministry of Land, Infrastructure and Transport Announcement No. 619 dated 15 July 2002 (ANNOUNCEMENT THAT PRESCRIBES DETAILS OF SAFETY REGULATIONS FOR ROAD VEHICLES), as amended by the Japanese Ministry of Land, Infrastructure, Transport and Tourism Announcement No. 826 dated 1 July 2015; with the exhaust emission determined in accordance with the test method set out in the document titled “Measurement Procedure for JE05-Mode Exhaust Emissions by Means of Chassis Dynamometer” and “Measurement Procedure for WHTC Exhaust Emissions by Means of Chassis Dynamometer”, Kokujikan No. 280 of 16 March 2007 as amended by Kokujikan No. 68 of 1 July 2011 and Kokujikan No. 91 of 30 August 2017, Attachment 2;\n[S 668/2022 wef 12/08/2022]\n“PPNLT 2023” means the emission standards known as the Post‑Post New Long Term emission regulations that are set out in paragraph 1(5) titled “[JE05‑Mode Mean Value Regulations at Time of Completion Inspection, etc. for Diesel Motor Vehicles (with GVW exceeding 3.5 tons)]” of Article 41 of the Japanese Ministry of Land, Infrastructure and Transport Announcement No. 619 dated 15 July 2002 (ANNOUNCEMENT THAT PRESCRIBES DETAILS OF SAFETY REGULATIONS FOR ROAD VEHICLES), as amended by the Japanese Ministry of Land, Infrastructure, Transport and Tourism Announcement No. 1 dated 4 January 2023;\n[S 897/2023 wef 01/01/2024]\n“PPNLT 2023 (Alternate)” means the emission standards known as the Post‑Post New Long Term emission regulations that are set out in paragraph 1(5) titled “[JE05‑Mode Mean Value Regulations at Time of Completion Inspection, etc. for Diesel Motor Vehicles (with GVW exceeding 3.5 tons)]” of Article 41 of the Japanese Ministry of Land, Infrastructure and Transport Announcement No. 619 dated 15 July 2002 (ANNOUNCEMENT THAT PRESCRIBES DETAILS OF SAFETY REGULATIONS FOR ROAD VEHICLES), as amended by the Japanese Ministry of Land, Infrastructure, Transport and Tourism Announcement No. 1 dated 4 January 2023, with the exhaust emission determined in accordance with the test method set out in the document titled “Measurement Procedure for JE05‑Mode Exhaust Emissions by Means of Chassis Dynamometer” and “Measurement Procedure for WHTC Exhaust Emissions by Means of Chassis Dynamometer”, Kokujikan No. 280 of 16 March 2007 as amended by Kokujikan No. 68 of 1 July 2011 and Kokujikan No. 91 of 30 August 2017, Attachment 2;\n[S 897/2023 wef 01/01/2024]\n“Regulation (EC) No. 595/2009” means Regulation (EC) No. 595/2009 of the European Parliament and of the Council of 18 June 2009 on type-approval of motor vehicles and engines with respect to emissions from heavy duty vehicles (Euro VI) and on access to vehicle repair and maintenance information and amending Regulation (EC) No. 715/2007 and Directive 2007/46/EC and repealing Directives 80/1269/EEC, 2005/55/EC and 2005/78/EC;\n“Regulation (EC) No. 715/2007” means Regulation (EC) No. 715/2007 of the European Parliament and of the Council of 20 June 2007 on type approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information.\n[S 480/2017 wef 01/01/2018]"
+   }
+  },
+  {
+   "id": "SG-H1349-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulations 4(3) and (4) and\n9(a) and (b)\nStandard for exhaust emission for\nnew motor cycles and scooters\nPart 1\nFor two‑wheeled motor cycles and scooters mentioned in regulation 4(4)(a)\n1. The standard for exhaust emission for two‑wheeled motor cycles and scooters is the standard for exhaust emission for motor cycles specified in row B of the table mentioned in paragraph 2.2.1.1.5 of Annex II of Chapter 5 of Directive 97/24/EC of the European Parliament and of the Council of the European Union, as amended by Directive 2002/51/EC of the European Parliament and of the Council of the European Union of 19 July 2002.\nPart 2\nFor two‑wheeled motor cycles and scooters mentioned in regulation 4(3) and\n(4)(b), and three‑wheeled motor cycles and scooters mentioned in\nregulation 4(3)\n1. The standard for exhaust emission for two‑wheeled motor cycles and scooters is the standard for exhaust emission for motor cycles specified for vehicle category L3e and L4e in the fourth row of table A1 mentioned in Annex VI(A) of Regulation (EU) No 168/2013 of the European Parliament and of the Council of the European Union of 15 January 2013.\n2. The standard for exhaust emission for three‑wheeled motor cycles and scooters is the standard for exhaust emission for motor cycles specified for vehicle category L5e‑A in the fourth row, and vehicle category L5e‑B in the fifth row, of table A1 mentioned in Annex VI(A) of Regulation (EU) No 168/2013 of the European Parliament and of the Council of the European Union of 15 January 2013.\n[S 781/2017 wef 01/01/2018]"
+   }
+  },
+  {
+   "id": "SG-H1349-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE\nRegulations 5 and 9\nStandard for noise emission for\nnew motor vehicles\n1. A motor vehicle of a class described in the first column must conform to the standard for exhaust noise emission specified opposite in the second column:\nFirst column\nSecond column\nClass of vehicle\nStandard for exhaust noise emission\n(a)Two‑wheeled motor cycle (with or without a side car) or two‑wheeled scooter (with or without a side car)\n(i)Regulation No. 41 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of motor cycles with regard to noise (Revision 2, incorporating the 04 series of amendments to the Regulation);\n(ii)Regulation (EU) 168/2013 of the European Parliament and of the Council of 15 January 2013 on the approval and market surveillance of two‑ or three‑wheel vehicles and quadricycles and read with Commission Delegated Regulation (EU) 134/2014; or\n(iii)Paragraph 1(4) of Article 40 and paragraph 1(3) of Article 252 of the Japanese Ministry of Land, Infrastructure and Transport Announcement No. 619 dated 15 July 2002 (ANNOUNCEMENT THAT PRESCRIBES DETAILS OF SAFETY REGULATIONS FOR ROAD VEHICLES), as amended by the Japanese Ministry of Land, Infrastructure, Transport and Tourism Announcement No. 681 dated 20 April 2016\n(b)Three‑wheeled motor cycle or three‑wheeled scooter\n(i)Directive 97/24/EC of the European Parliament and of the Council of 17 June 1997 on certain components and characteristics of two or three‑wheel motor vehicles;\n(ii)Articles 30 and 65 of the Safety Regulations for Road Vehicles as amended by the Ministry of Transport Ordinance No. 5 of 21 February 2000 and No. 66 of 20 December 1996, respectively, of Japan;\n(iii)Regulation No. 9 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of motor cycles with regard to noise (Revision 3, incorporating the 07 series of amendments to the Regulation);\n(iv)Regulation (EU) 168/2013 of the European Parliament and of the Council of 15 January 2013 on the approval and market surveillance of two‑ or three‑wheel vehicles and quadricycles and read with Commission Delegated Regulation (EU) 134/2014; or\n(v)Paragraph 1(2) and (3) of Article 40 and paragraph 1(1) and (2) of Article 252 of the Japanese Ministry of Land, Infrastructure and Transport Announcement No. 619 dated 15 July 2002 (ANNOUNCEMENT THAT PRESCRIBES DETAILS OF SAFETY REGULATIONS FOR ROAD VEHICLES), as amended by the Japanese Ministry of Land, Infrastructure, Transport and Tourism Announcement No. 681 dated 20 April 2016\n(c)Motor car, taxi or station wagon (whether for passengers only or for goods and passengers)\n(i)Regulation No. 51 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of motor vehicles having at least four wheels with regard to their sound emissions (Revision 3, incorporating the 03 series of amendments to the Regulation), applying the sound level limits specified in the column titled “Phase 2” on page 17;\n(ii)Regulation (EU) 540/2014 of the European Parliament and of the Council of 16 April 2014 on the sound level of motor vehicles and of replacement silencing systems, and amending Directive 2007/46/EC and repealing Directive 70/157/EEC, applying the sound level limits specified in the column titled “Phase 2” on page 32 of Regulation (EU) 540/2014; or\n(iii)Paragraph 1(5) of Article 40 of the Japanese Ministry of Land, Infrastructure and Transport Announcement No. 619 dated 15 July 2002 (ANNOUNCEMENT THAT PRESCRIBES DETAILS OF SAFETY REGULATIONS FOR ROAD VEHICLES), as amended by the Japanese Ministry of Land, Infrastructure, Transport and Tourism Announcement No. 681 dated 20 April 2016, applying the sound level limits specified in the column titled “Phase 2” on page 17 of Regulation No. 51 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of motor vehicles having at least four wheels with regard to their sound emissions (Revision 3, incorporating the 03 series of amendments to the Regulation)\n(d)Goods vehicle or bus\n(i)Regulation No. 51 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of motor vehicles having at least 4 wheels with regard to their sound emissions (Revision 3, incorporating the 03 series of amendments to the Regulation), applying the sound level limits specified in the column titled “Phase 2” on page 17;\n(ii)Regulation (EU) 540/2014 of the European Parliament and of the Council of 16 April 2014 on the sound level of motor vehicles and of replacement silencing systems, and amending Directive 2007/46/EC and repealing Directive 70/157/EEC, applying the sound level limits specified in the column titled “Phase 2” on page 32 of Regulation (EU) 540/2014; or\n(iii)Paragraph 1(5) of Article 40 of the Japanese Ministry of Land, Infrastructure and Transport Announcement No. 619 dated 15 July 2002 (ANNOUNCEMENT THAT PRESCRIBES DETAILS OF SAFETY REGULATIONS FOR ROAD VEHICLES), as amended by the Japanese Ministry of Land, Infrastructure, Transport and Tourism Announcement No. 681 dated 20 April 2016, applying the sound level limits specified in the column titled “Phase 2” on page 17 of Regulation No. 51 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of motor vehicles having at least 4 wheels with regard to their sound emissions (Revision 3, incorporating the 03 series of amendments to the Regulation)\n[S 165/2026 wef 01/04/2026]\n[S 197/2025 wef 01/04/2025]\n[S 239/2024 wef 01/04/2024]\nPart 2\n[Deleted by S 239/2024 wef 01/04/2024]"
+   }
+  },
+  {
+   "id": "SG-H1349-A900004",
+   "no": 900004,
+   "noLabel": {
+    "en": "FIFTH SCHEDULE"
+   },
+   "text": {
+    "en": "FIFTH SCHEDULE\nRegulation 6\nStandard for exhaust emission\nfor in-use motor vehicles\n1. Every petrol driven motor vehicle that is in use must be equipped with a silencer, expansion chamber or other contrivance suitable and sufficient for reducing, as far as may be reasonable, the noise caused by the escape of exhaust gases from the engine where it is propelled by means of an internal combustion engine.\n2. All parts of the exhaust system of any petrol driven motor vehicle must be in good and sufficient condition and comply with the exhaust’s requirements.\n3. The level of CO and HC emitted from the exhaust of any petrol driven motor vehicle (other than a motor cycle or scooter) that is registered in Singapore on any date during a period specified in the first column of the following table must not exceed the emission limits, if any, specified opposite in the second column of that table:\nFirst column\nSecond column\nPeriod in which motor vehicle is registered\nEmission limits\nMeasured at idle speed\nMeasured at high idle speed\nCO (percentage by volume)\nHC (ppm)\nCO (percentage by volume)\nHC (ppm)\n(a)Before 1 October 1986\n6.0\n1,200\nNo limit\nNo limit\n(b)On or after 1 October 1986 but before 1 July 1992\n4.5\n1,200\nNo limit\nNo limit\n(c)On or after 1 July 1992 but before 1 January 2001\n3.5\n1,200\nNo limit\nNo limit\n(d)On or after 1 January 2001 but before 1 April 2014\n1.0\n300\nNo limit\nNo limit\n(e)On or after 1 April 2014\n0.5\nNo limit\n0.3\n200\n[S 781/2017 wef 01/04/2018]\n3A. The lambda of any petrol driven motor vehicle (other than a motor cycle or scooter) that is registered in Singapore on or after 1 April 2014, measured at high idle speed, must be within 3% of 1.00.\n[S 781/2017 wef 01/04/2018]\n3B. The level of CO and HC emitted from the exhaust of any two-wheeled motor cycle or scooter that is registered in Singapore on any date during a period specified in the first column of the following table must not exceed the emission limits, if any, specified opposite in the second column of that table:\nFirst column\nSecond column\nPeriod in which motor cycle or scooter is registered\nEmission limits\nMeasured at idle speed\nCO (percentage by volume)\nHC (ppm)\n(a)Before 1 October 2014\n4.5\n(i)7,800 (for a motor cycle or scooter with a 2‑stroke engine); or\n(ii)2,000 (for a motor cycle or scooter with a 4‑stroke engine)\n(b)On or after 1 October 2014\n3.0\n1,000\n[S 188/2023 wef 06/04/2023]\n3C.—(1) The level of CO emitted from the exhaust of a three-wheeled motor cycle or scooter that is registered in Singapore, must not exceed 4.5% by volume as measured when the motor cycle or scooter is at idle speed.\n(2) The level of HC emitted from the exhaust of a three-wheeled motor cycle or scooter that is registered in Singapore, must not exceed —\n(a)for a motor cycle or scooter with a 2-stroke engine — 7800 ppm of HC; and\n(b)for a motor cycle or scooter with a 4-stroke engine — 2000 ppm of HC,\nas measured when the motor cycle or scooter is at idle speed.\n[S 188/2023 wef 06/04/2023]\n3D.—(1) Paragraphs 3, 3A, 3B and 3C do not apply to any petrol driven motor car or any motor cycle or scooter that is registered as —\n(a)a classic vehicle;\n(b)a normal vintage vehicle;\n(c)a restricted vintage vehicle; or\n(d)a revised use vintage vehicle.\n(2) Where any petrol driven motor car is registered as a vehicle mentioned in sub‑paragraph (1) and has an original first registration date falling within a period specified in the first column of the following table, the level of CO and HC emitted from the exhaust of such a motor car must not exceed the emission limits, if any, specified opposite in the second column of that table:\nFirst column\nSecond column\nOriginal first registration date\nof motor car\nEmission limits\nMeasured at idle speed\nCO (percentage\nby volume)\nHC (ppm)\n(a)Before 1 October 1986\n6.0\nNo limit\n(b)On or after 1 October 1986\nbut before 1 July 1992\n4.5\nNo limit\n(c)On or after 1 July 1992 but\nbefore 1 January 2001\n3.5\nNo limit\n(3) Where any motor cycle or scooter is registered as a vehicle mentioned in sub-paragraph (1) and has an original first registration date falling within a period specified in the first column of the following table, the level of CO and HC emitted from the exhaust of such a motor cycle or scooter must not exceed the emission limits, if any, specified opposite in the second column of that table:\nFirst column\nSecond column\nOriginal first registration date\nof motor cycle or scooter\nEmission limits\nMeasured at idle speed\nCO (percentage\nby volume)\nHC (ppm)\n(a)Before 1 October 1986\n6.0\nNo limit\n(b)On or after 1 October 1986\nbut before 1 July 2003\n4.5\nNo limit\n[S 189/2018 wef 01/04/2018]\n4. Every diesel driven motor vehicle that is in use shall not emit smoke of opacity greater than 40 Hartridge Smoke Units (HSU) or its equivalent.\n[S 766/2013 wef 01/01/2014]\n5. Every motor vehicle (whether petrol driven or diesel driven) must not emit any smoke or visible vapour when in use.\n[S 781/2017 wef 01/04/2018]\n6. In this Schedule —\n“classic vehicle”, “normal vintage vehicle”, “restricted vintage vehicle” and “revised use vintage vehicle” have the same meanings as in rule 2(1) of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules (R 5);\n[S 189/2018 wef 01/04/2018]\n[S 172/2023 wef 31/12/2021]\n“CO” means carbon monoxide;\n“HC” means hydrocarbons;\n“high idle speed” means an engine speed, of a stationary motor vehicle, that is at least 2,000 revolutions per minute;\n“idle speed” means the engine speed of a stationary motor vehicle when its engine is left on and its accelerator is not depressed;\n“lambda” means the measurement of the air to fuel ratio of a motor vehicle measured in accordance with the simplified Brettschneider equation specified in note (*) of paragraph 5.3.7.3. of Regulation No. 83 of the Economic Commission for Europe of the United Nations (UN/ECE) ‑ Uniform provisions concerning the approval of vehicles with regard to the emission of pollutants according to engine fuel requirement (Revision 3);\n“original first registration date”, in relation to a classic vehicle, normal vintage vehicle, restricted vintage vehicle or revised use vintage vehicle, means —\n(a)in a case where the motor vehicle was registered for the first time under the law relating to motor vehicles of more than one country — the earliest date of first registration; or\n(b)in a case where the motor vehicle was registered for the first time under the law relating to motor vehicles of only one country — the date the motor vehicle was registered for the first time under that law;\n[S 189/2018 wef 01/04/2018]\n“ppm” means parts per million.\n[S 781/2017 wef 01/04/2018]"
+   }
+  },
+  {
+   "id": "SG-H1349-A900005",
+   "no": 900005,
+   "noLabel": {
+    "en": "SIXTH SCHEDULE"
+   },
+   "text": {
+    "en": "SIXTH SCHEDULE\nRegulation 7(1)\nStandard for noise emission for all in‑use\nmotor vehicles other than licensed\nmotor vehicles registered before 1 July 1999\n1. A motor vehicle of any of the following classes must not emit any noise exceeding the noise level specified against that class of motor vehicle when measured 0.5 metre from the open end of the exhaust pipe of the vehicle:\nFirst column\nSecond column\nClass of vehicle\nNoise level in Decibels (A)\n(a)Two‑wheeled motor cycle (with or without a side car) or two‑wheeled scooter (with or without a side car) registered in Singapore on or after 1 April 2023\n+5 above the reference value for the motor vehicle\n(b)Two‑wheeled motor cycle (with or without a side car) or two‑wheeled scooter (with or without a side car) —\n(i)registered in Singapore before 1 April 2023; or\n(ii)registered elsewhere\nThe higher of the following:\n(i)99;\n(ii)+5 above the reference value for the motor vehicle\n(c)Three‑wheeled motor cycle or three‑wheeled scooter registered in Singapore on or after 1 April 2023\n+5 above the reference value for the motor vehicle\n(d)Three‑wheeled motor cycle or three‑wheeled scooter —\n(i)registered in Singapore before 1 April 2023; or\n(ii)registered elsewhere\nThe higher of the following:\n(i)99;\n(ii)+5 above the reference value for the motor vehicle\n(e)Motor car, taxi or station wagon (whether for passengers only or for goods and passengers) registered in Singapore on or after 1 April 2023\n+5 above the reference value for the motor vehicle\n(f)Motor car, taxi or station wagon (whether for passengers only or for goods and passengers) —\n(i)registered in Singapore before 1 April 2023; or\n(ii)registered elsewhere\nThe higher of the following:\n(i)103;\n(ii)+5 above the reference value for the motor vehicle\n(g)Goods vehicle or bus with gross vehicle weight not exceeding 3.5 tons —\n(i)registered in Singapore before 1 April 2024; or\n(ii)registered elsewhere\nThe higher of the following:\n(i)103;\n(ii)+5 above the reference value for the motor vehicle\n(h)Goods vehicle or bus with gross vehicle weight exceeding 3.5 tons —\n(i)registered in Singapore before 1 April 2024; or\n(ii)registered elsewhere\nThe higher of the following:\n(i)107;\n(ii)+5 above the reference value for the motor vehicle\n(i)Goods vehicle or bus registered in Singapore on or after 1 April 2024\n+5 above the reference value for the motor vehicle\n[S 239/2024 wef 01/04/2024]\n2. In addition, a motor vehicle of any of the following classes, for which a major modification mentioned in rule 12B(2) of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules (R 5) is made involving any modification or alteration of the exhaust system of the motor vehicle, must conform to any of the standards for exhaust noise emission specified against that class of motor vehicle:\nFirst column\nSecond column\nClass of vehicle\nStandard for exhaust noise emission\n(a)Two‑wheeled or three‑wheeled motor cycle (with or without a side car) or two‑wheeled or three‑wheeled scooter (with or without a side car) registered in Singapore before 1 April 2023\n(i)Regulation No. 92 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of non‑original replacement exhaust silencing systems (RESS) for motorcycles, mopeds and three‑wheeled vehicles (Revision 1 – Amendment 2, incorporating the 01 series of amendments to the Regulation);\n(ii)Directive 97/24/EC of the European Parliament and of the Council of 17 June 1997 on certain components and characteristics of two or three‑wheel motor vehicles;\n(iii)Regulation (EU) 168/2013 of the European Parliament and of the Council of 15 January 2013 on the approval and market surveillance of two‑ or three‑wheel vehicles and quadricycles; or\n(iv)Automobile Type Approval Handbook for Japanese Certification (Blue Book) 11‑3‑112 Attachment 112: Technical Standard for Aftermarket Silencers\n(b)Two‑wheeled motor cycle (with or without a side car) or two‑wheeled scooter (with or without a side car) registered in Singapore on or after 1 April 2023\n(i)Regulation No. 92 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of non‑original replacement exhaust silencing systems (RESS) for motorcycles, mopeds and three‑wheeled vehicles (Revision 1 – Amendment 2, incorporating the 01 series of amendments to the Regulation);\n(ii)Regulation (EU) 168/2013 of the European Parliament and of the Council of 15 January 2013 on the approval and market surveillance of two‑ or three‑wheel vehicles and quadricycles and read with Commission Delegated Regulation (EU) 134/2014; or\n(iii)Automobile Type Approval Handbook for Japanese Certification (Blue Book) 11‑3‑112 Attachment 112 Section II: Technical Standard for Aftermarket Silencers\n(c)Three‑wheeled motor cycle or three‑wheeled scooter registered in Singapore on or after 1 April 2023\n(i)Regulation No. 92 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of non‑original replacement exhaust silencing systems (RESS) for motorcycles, mopeds and three‑wheeled vehicles (Revision 1 – Amendment 2, incorporating the 01 series of amendments to the Regulation);\n(ii)Directive 97/24/EC of the European Parliament and of the Council of 17 June 1997 on certain components and characteristics of two or three‑wheel motor vehicles;\n(iii)Regulation (EU) 168/2013 of the European Parliament and of the Council of 15 January 2013 on the approval and market surveillance of two‑ or three‑wheel vehicles and quadricycles and read with Commission Delegated Regulation (EU) 134/2014; or\n(iv)Automobile Type Approval Handbook for Japanese Certification (Blue Book) 11‑3‑112 Attachment 112: Technical Standard for Aftermarket Silencers\n(d)Motor car, taxi or station wagon (whether for passengers only or for goods and passengers) registered in Singapore before 1 April 2023\n(i)Regulation No. 59 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of replacement silencing systems (Revision 1, incorporating the 01 series of amendments to the Regulation), or (Revision 2, incorporating the 02 series of amendments to the Regulation);\n(ii)EC Council Directive 70/157/EEC of 6 February 1970 as last amended by Commission Directive 96/20/EC of 27 March 1996;\n(iii)EU 540/2014 of the European Parliament and of the Council of 16 April 2014 on the sound level of motor vehicles and of replacement silencing systems, and amending Directive 2007/46/EC and repealing Directive 70/157/EEC; or\n(iv)Automobile Type Approval Handbook for Japanese Certification (Blue Book) 11‑3‑112 Attachment 112: Technical Standard for Aftermarket Silencers\n(e)Motor car, taxi or station wagon (whether for passengers only or for goods and passengers) registered in Singapore on or after 1 April 2023\n(i)Regulation No. 59 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of replacement silencing systems (Revision 2, incorporating the 02 series of amendments to the Regulation);\n(ii)EU 540/2014 of the European Parliament and of the Council of 16 April 2014 on the sound level of motor vehicles and of replacement silencing systems, and amending Directive 2007/46/EC and repealing Directive 70/157/EEC; or\n(iii)Automobile Type Approval Handbook for Japanese Certification (Blue Book) 11‑3‑112 Attachment 112 Section II: Technical Standard for Aftermarket Silencers\n(f)Goods vehicle or bus registered in Singapore before 1 April 2024\n(i)Regulation No. 59 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of replacement silencing systems (Revision 1, incorporating the 01 series of amendments to the Regulation), or (Revision 2, incorporating the 02 series of amendments to the Regulation);\n(ii)EC Council Directive 70/157/EEC of 6 February 1970 as last amended by Commission Directive 96/20/EC of 27 March 1996;\n(iii)EU 540/2014 of the European Parliament and of the Council of 16 April 2014 on the sound level of motor vehicles and of replacement silencing systems, and amending Directive 2007/46/EC and repealing Directive 70/157/EEC; or\n(iv)Automobile Type Approval Handbook for Japanese Certification (Blue Book) 11-3-112 Attachment 112: Technical Standard for Aftermarket Silencers\n(g)Goods vehicle or bus registered in Singapore on or after 1 April 2024\n(i)Regulation No. 59 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of replacement silencing systems (Revision 2, incorporating the 02 series of amendments to the Regulation);\n(ii)EU 540/2014 of the European Parliament and of the Council of 16 April 2014 on the sound level of motor vehicles and of replacement silencing systems, and amending Directive 2007/46/EC and repealing Directive 70/157/EEC; or\n(iii)Automobile Type Approval Handbook for Japanese Certification (Blue Book) 11-3-112 Attachment 112 Section II: Technical Standard for Aftermarket Silencers\n[S 239/2024 wef 01/04/2024]\n3. In this Schedule —\n“exhaust system” has the meaning given by rule 106 of the Road Traffic (Motor Vehicles, Construction and Use) Rules (R 9);\n“reference value” means —\n(a)in relation to a motor vehicle registered in Singapore — the stationary noise level specified in the documents accepted by the Registrar of Vehicles for the purpose of the grant of batch type‑approval, type‑approval or modified type‑approval (as the case may be) under rule 3D of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules in respect of that motor vehicle or model of motor vehicle, as the case may be; and\n(b)in relation to a motor vehicle registered elsewhere — the stationary noise level for the motor vehicle specified in either of the following:\n(i)a certificate from the manufacturer of the motor vehicle used for the purpose of the grant of type‑approval under the laws of the country in which the vehicle is manufactured;\n(ii)the specification plate or statutory plate affixed to the motor vehicle for compliance with —\n(A)paragraphs 6.1 and 6.2 of Regulation No. 41 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of motor cycles with regard to noise (Revision 2, incorporating the 04 series of amendments to the Regulation);\n(B)Article 39 of Regulation (EU) 168/2013 of the European Parliament and of the Council of 15 January 2013 on the approval and market surveillance of two‑ or three‑wheel vehicles and quadricycles and read with Commission Implementing Regulation EU No. 901/2014; or\n(C)the law of the country in which the motor vehicle is registered.\n[S 172/2023 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H1349-A900006",
+   "no": 900006,
+   "noLabel": {
+    "en": "SEVENTH SCHEDULE"
+   },
+   "text": {
+    "en": "SEVENTH SCHEDULE\nRegulation 7(2)\nStandard for noise emission for in-use licensed\nmotor vehicles registered before 1st July 1999\n1. A motor vehicle of any of the following classes shall not emit any noise exceeding the noise level specified against that class of motor vehicle when measured 0.5 metre from the open end of the exhaust pipe of the vehicle:\nClass of vehicle\nNoise level in Decibels (A)\n(a)Motor cycle (with or without a side car), scooter or trivan\nThe higher of the following:\n(i)106;\n(ii)+5 above the reference value for the motor vehicle\n(b)Motor car, taxi or station wagon (whether for passengers only or for goods and passengers)\nThe higher of the following:\n(i)105;\n(ii)+5 above the reference value for the motor vehicle\n(c)Light goods vehicle\nThe higher of the following:\n(i)109;\n(ii)+5 above the reference value for the motor vehicle\n(d)Goods vehicle or bus with engine capacity not exceeding 10,000 cubic centimetres\nThe higher of the following:\n(i)113;\n(ii)+5 above the reference value for the motor vehicle”;\n(e)Goods vehicle or bus with an engine capacity exceeding 10,000 cubic centimetres\nThe higher of the following:\n(i)115;\n(ii)+5 above the reference value for the motor vehicle.\n[S 249/2022 wef 01/04/2022]\n2. In addition, a motor vehicle of any of the following classes, for which a major modification mentioned in rule 12B(2) of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules is made involving any modification or alteration of the exhaust system of the motor vehicle, must conform to any of the standards for exhaust noise emission specified against that class of motor vehicle:\nFirst column\nSecond column\nClass of vehicle\nStandard for exhaust noise emission\n(a)Two-wheeled or three-wheeled motor cycle (with or without a side car) or two-wheeled or three-wheeled scooter (with or without a side car)\n(i)Regulation No. 92 of the Economic Commission for Europe of the United Nations (UN/ECE) - Uniform provisions concerning the approval of non-original replacement exhaust silencing systems (RESS) for motorcycles, mopeds and three-wheeled vehicles (Revision 1 - Amendment 2, incorporating the 01 series of amendments to the Regulation);\n(ii)Directive 97/24/EC of the European Parliament and of the Council of 17 June 1997 on certain components and characteristics of two or three-wheel motor vehicles;\n(iii)Regulation (EU) 168/2013 of the European Parliament and of the Council of 15 January 2013 on the approval and market surveillance of two- or three-wheel vehicles and quadricycles; or\n(iv)Automobile Type Approval Handbook for Japanese Certification (Blue Book) 11-3-112 Attachment 112: Technical Standard for Aftermarket Silencers\n(b)Motor car, taxi or station wagon (whether for passengers only or for goods and passengers), or goods vehicle or bus\n(i)Regulation No. 59 of the Economic Commission for Europe of the United Nations (UN/ECE) - Uniform provisions concerning the approval of replacement silencing systems (Revision 1, incorporating the 01 series of amendments to the Regulation), or (Revision 2, incorporating the 02 series of amendments to the Regulation);\n(ii)EC Council Directive 70/157/EEC of 6 February 1970 as last amended by Commission Directive 96/20/EC of 27 March 1996;\n(iii)EU 540/2014 of the European Parliament and of the Council of 16 April 2014 on the sound level of motor vehicles and of replacement silencing systems, and amending Directive 2007/46/EC and repealing Directive 70/157/EEC; or\n(iv)Automobile Type Approval Handbook for Japanese Certification (Blue Book) 11-3-112 Attachment 112: Technical Standard for Aftermarket Silencers\n[S 249/2022 wef 01/04/2022]\n3. In this Schedule —\n“exhaust system” has the meaning given by rule 106 of the Road Traffic (Motor Vehicles, Construction and Use) Rules;\n“light goods vehicle” means —\n(a)a goods vehicle the maximum laden weight of which does not exceed 3 metric tons and which is registered in Singapore using a certificate of entitlement issued before 1 July 1999; or\n(b)a goods vehicle the maximum laden weight of which does not exceed 3.5 metric tons and which is registered in Singapore using a certificate of entitlement issued on or after 1 July 1999,\nbut does not include any construction equipment, engineering plant, recovery vehicle, vehicle used as a mobile canteen or mobile bank and any vehicle used for a specific purpose such as a horse float;\n“reference value”, in relation to a motor vehicle, means the stationary noise level specified in the documents accepted by the Registrar of Vehicles for the purpose of the grant of batch type-approval, type-approval or modified type-approval (as the case may be) under rule 3D of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules in respect of that motor vehicle or model of motor vehicle, as the case may be.\n[S 249/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H1349-A900007",
+   "no": 900007,
+   "noLabel": {
+    "en": "EIGHTH SCHEDULE"
+   },
+   "text": {
+    "en": "EIGHTH SCHEDULE\nRegulations 11A, 11B(1) and (2), 11C and 11D(1)\nPart 1\nSTANDARDS FOR DIESEL\n1. The standards for diesel are as follows:\nProperty\nUnit\nLimit\nMinimum\nMaximum\n(a)Sulphur content\nppm\n—\n10\n(b)Cetane number\n—\n51\n—\n(c)Polyaromatics content\nwt%\n—\n8\n(d)Density at 15°C\nkg/m3\n—\n845\n(e)Temperature at which 95% is evaporated\n°C\n—\n360\n(f)Fatty acid methyl esters content\nvol%\n—\n7\n(g)Manganese content\ng/L\n—\n0.002\n2. The diesel must not contain any fatty acid methyl esters that do not meet the requirements set out in Table 1 of the document titled “Liquid petroleum products — Fatty acid methyl esters (FAME) for use in diesel engines and heating applications — Requirements and test methods” (BS EN 14214:2012) published by the British Standards Institution.\n[S 322/2019 wef 01/07/2019]\nPart 2\nSTANDARDS FOR PETROL\nProperty\nUnit\nLimit\nMinimum\nMaximum\n1.Sulphur content\nppm\n—\n10\n2.Lead tetra-ethyl and similar lead-containing compounds content\ng/L\n—\n0.005\n3.Olefins content\nvol%\n—\n(a)18 (pool average)\n(b)21 (cap limit)\n4.Benzene content\nvol%\n—\n1\n5.Oxygenates (manifested in the form of ethers with 5 or more carbon atoms) content\nvol%\n—\n22\n6.Oxygen content\nwt%\n—\n3.7\n7.Reid vapour pressure at 37.8°C\nkPa\n—\n60\n8.Fraction evaporated at 100°C\nvol%\n46.0\n—\n9.Fraction evaporated at 150°C\nvol%\n75.0\n—\n10.Aromatics content\nvol%\n—\n(a)35 (pool average)\n(b)42 (cap limit)\n11.Methanol content\nvol%\n—\n3\n12.Manganese content\ng/L\n—\n0.002\n13.Phosphorus content\n—\n—\n0\n[S 322/2019 wef 01/07/2019]\n[S 420/2018 wef 01/12/2018]\n[S 26/2017 wef 01/07/2017]"
+   }
+  }
+ ]
+}

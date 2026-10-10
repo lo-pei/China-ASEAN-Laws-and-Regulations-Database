@@ -1,0 +1,538 @@
+{
+ "id": "TL-H220",
+ "title": {
+  "zh": "Associações Públicas Profis- sionais法律制度",
+  "en": null,
+  "orig": "Regime Jurídico das Associações Públicas Profis- sionais"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p04",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2022-03-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 4/2022",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 31,
+ "chars": 23213,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2022/serie_1/SERIE_I_NO_13.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 31 条；逐字取自官方公报 PDF（public/docs/2022/serie_1/SERIE_I_NO_13.pdf）第 547–554 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H220-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Objeto"
+   },
+   "text": {
+    "pt": "A presente lei estabelece o regime jurídico da criação, organização e funcionamento das associações públicas profissionais."
+   }
+  },
+  {
+   "id": "TL-H220-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Definição"
+   },
+   "text": {
+    "pt": "1.   As associações públicas profissionais são entidades públicas, de tipo associativo, que representam determinadas profissões, adiante simplesmente designadas por “profissões colegiadas”, que, por razões da tutela do interesse público que prosseguem, devem estar sujeitas:\na) A um controlo quanto ao seu acesso e exercício;\nb) A normas técnicas e deontológicas próprias;\nc) A um regime disciplinar autónomo.\n2.   As associações públicas podem representar mais do que uma profissão, desde que as mesmas tenham uma base científica e técnica comum."
+   }
+  },
+  {
+   "id": "TL-H220-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Natureza"
+   },
+   "text": {
+    "pt": "As associações públicas profissionais são pessoas coletivas de direito público, integradas na administração autónoma do Estado."
+   }
+  },
+  {
+   "id": "TL-H220-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Autonomia"
+   },
+   "text": {
+    "pt": "1.  No exercício dos seus poderes públicos, as associações públicas profissionais gozam de autonomia administrativa e aprovam os atos e regulamentos administrativos necessários ao desempenho das suas funções previstas na lei e nos respetivos estatutos, sem necessidade de aprovação governamental.\n2.   Os regulamentos das associações públicas profissionais com eficácia externa são obrigatoriamente publicados na Série II do Jornal da República, sob pena de ineficácia.\n3.    As associações públicas profissionais gozam de autonomia financeira e dispõem de património e finanças próprios, bem como de autonomia orçamental.\n4.   A autonomia financeira inclui o poder de fixar, nos termos da lei e dos respetivos estatutos, o valor:\na) Da quota mensal ou anual dos seus membros;\nb) Das taxas pelos serviços prestados, de acordo com critérios de proporcionalidade."
+   }
+  },
+  {
+   "id": "TL-H220-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Regime jurídico"
+   },
+   "text": {
+    "pt": "1.   As associações públicas profissionais, no desempenho das suas atribuições, estão sujeitas ao regime de direito público.\n2.   São subsidiariamente aplicáveis às associações públicas profissionais, em tudo quanto não estiver regulado no presente diploma, no ato da respetiva constituição ou nos respetivos estatutos:\na) No exercício das respetivas atribuições e poderes públicos que lhes estejam conferidos, a lei do procedimento administrativo, com as necessárias adaptações, e os princípios gerais de direito administrativo;\nb) No que respeita à sua organização interna, as normas e os princípios que regem as associações de direito privado."
+   }
+  },
+  {
+   "id": "TL-H220-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Capacidade jurídica"
+   },
+   "text": {
+    "pt": "Sem prejuízo da observância do princípio da legalidade no domínio da gestão pública, e salvo disposição expressa em contrário, a capacidade jurídica das associações públicas profissionais abrange a prática de todos os atos jurídicos, o gozo de todos os direitos e a assunção de todas as obrigações necessárias à prossecução dos respetivos fins e atribuições."
+   }
+  },
+  {
+   "id": "TL-H220-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Requisitos de constituição"
+   },
+   "text": {
+    "pt": "1.   A constituição de uma associação pública profissional só pode ter lugar quando:\na) Visa a tutela de um interesse público de especial relevo;\nb) Seja adequada para tutelar os bens jurídicos a proteger;\nc) Represente uma profissão ou profissões que preencham os critérios previstos no artigo 2.o.\n2.   A constituição de uma associação pública profissional é sempre precedida dos seguintes procedimentos:\na) Apresentação de estudo sobre o cumprimento das exigências previstas no número anterior;\nb) Consulta pública, por um período não inferior a 30 dias, dos projetos de diploma de criação e de estatutos da associação pública profissional a criar."
+   }
+  },
+  {
+   "id": "TL-H220-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Atribuições"
+   },
+   "text": {
+    "pt": "1.   São atribuições das associações públicas profissionais:\na) A representação e defesa da profissão;\nb) A defesa dos interesses gerais dos destinatários dos respetivos serviços;\nc) A regulação do acesso e do exercício da profissão;\nd) O reconhecimento de especialidades em cada profissão;\ne) A concessão de títulos profissionais ou de títulos de especialidade profissional; f) A atribuição de prémios ou de títulos honoríficos;\ng) O exercício do poder disciplinar sobre os seus membros;\nh) A prestação de serviços aos seus membros, em matéria de informação e formação; (i) A colaboração com as demais entidades públicas na prossecução de fins de interesse público relacionados com a profissão; j) A colaboração com os órgãos com competência em matéria legislativa na preparação e monitorização de legislação que regule a profissão que representem;\nk) A participação nos processos oficiais de acreditação e na avaliação de cursos que dão acesso à profissão; l) A participação nos processos oficiais de reconhecimento de qualificações profissionais obtidas fora do território nacional;\nm) Quaisquer outras que lhe sejam cometidas por lei, pelo ato da respetiva constituição ou pelos respetivos estatutos.\n2.    As associações públicas profissionais não podem participar ou exercer atividades de natureza sindical ou que se relacionem com a regulação das relações económicas ou profissionais dos seus membros.\n3.  As associações públicas profissionais não podem prosseguir atividades nem usar os seus poderes fora das suas atribuições, nem dedicar os seus recursos a finalidades diversas das que lhes tenham sido legalmente cometidas.\n4.    As associações públicas profissionais não podem, por ato administrativo, regulamentar ou, por outro meio, estabelecer restrições à liberdade de acesso ou de exercício da profissão que não estejam previstas no presente diploma, no ato da respetiva constituição ou nos respetivos estatutos."
+   }
+  },
+  {
+   "id": "TL-H220-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Forma de criação"
+   },
+   "text": {
+    "pt": "1.   As associações públicas profissionais são criadas por lei, por tempo indeterminado.\n2.    A lei de criação ou os estatutos de cada associação pública profissional definem os aspetos essenciais do seu regime, nomeadamente:\na) Denominação;\nb) Profissão abrangida;\nc) Fins e atribuições.\n3.   As associações públicas profissionais só podem ser fundidas ou cindidas, ou os seus estatutos alterados quanto aos profissionais abrangidos, com observância dos mesmos requisitos necessários para a respetiva constituição."
+   }
+  },
+  {
+   "id": "TL-H220-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Estatutos"
+   },
+   "text": {
+    "pt": "1.   Os estatutos das associações públicas profissionais são aprovados por lei e devem regular, nomeadamente, o seu âmbito de atuação, fins e atribuições e as seguintes matérias respeitantes à sua organização e funcionamento:\na) Competência dos órgãos;\nb) Categoria dos membros;\nc) Existência de estruturas desconcentradas, caso se justifique, e a respetiva organização e competências;\nd) Existência de colégios de especialidade profissional, caso se justifique;\ne) Incompatibilidades no exercício de cargos associativos; f) Processo eleitoral;\ng) Requisitos de elegibilidade para os órgãos;\nh) Regime económico e financeiro, em especial em matéria de fixação, cobrança e repartição de quotas.\n2.   Os estatutos das associações públicas profissionais devem ainda regular, nomeadamente, as seguintes matérias respeitantes ao acesso e exercício da profissão que representam:\na) Aquisição e perda da qualidade de membro;\nb) Direitos e deveres dos membros;\nc) Regime de estágios profissionais ou formações equivalentes que sejam obrigatórios e que sejam justificados face a razões imperiosas de interesse público, para o acesso à profissão, nomeadamente a sua duração, forma de avaliação, direitos e deveres dos estagiários e patronos;\nd) Regime de especialidades profissionais;\ne) Regras deontológicas; f) Regime de incompatibilidades e de impedimentos da profissão;\ng) Procedimento disciplinar e respetivas sanções;\nh) Seguros profissionais, caso existam."
+   }
+  },
+  {
+   "id": "TL-H220-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Poder disciplinar"
+   },
+   "text": {
+    "pt": "1.    As associações públicas profissionais exercem, nos termos dos respetivos estatutos e da lei e com respeito pelos direitos de audiência e defesa, o poder disciplinar sobre os seus membros.\n2.  Os estatutos de cada associação pública profissional indicam os factos que constituem infração disciplinar, bem como as sanções disciplinares aplicáveis e os órgãos competentes para as aplicar.\n3.   À tramitação dos procedimentos disciplinares e aplicação de sanções disciplinares são aplicáveis as regras estabelecidas pelos estatutos e regulamentos disciplinares e, supletivamente, pelas normas disciplinares aplicáveis aos funcionários do Estado.\n4.   A sanção disciplinar de suspensão só pode ser aplicada quando esteja em causa grave incumprimento dos deveres profissionais cometidos no exercício da profissão.\n5.  Excetua-se do disposto no número anterior o incumprimento do dever de pagar quotas, o qual pode dar lugar à aplicação da sanção disciplinar de suspensão, quando se apure que aquele incumprimento é culposo e se tenha prolongado por um período superior a seis meses.\n6.  Os estatutos da associação pública profissional podem prever a sanção disciplinar de expulsão, a qual só pode ser aplicada quando estejam em causa graves incumprimentos dos deveres profissionais cometidos no exercício da profissão e que ponham em causa a vida ou integridade física das pessoas ou sejam gravemente lesivos para a honra ou património alheios.\n7.   Os estatutos das associações públicas profissionais que prevejam a sanção disciplinar de expulsão salvaguardam sempre o direito à reabilitação do profissional sancionado e os termos em que opera."
+   }
+  },
+  {
+   "id": "TL-H220-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Designação"
+   },
+   "text": {
+    "pt": "1.   As associações públicas profissionais que se destinem a assegurar a representação de profissões, bem como a regulação do respetivo acesso e exercício, são denominadas de:\na) «Ordem profissional», quando o exercício da profissão esteja condicionado à obtenção de uma habilitação académica de licenciatura ou superior;\nb) «Câmara profissional», quando o exercício da profissão não esteja condicionado à obtenção de uma habilitação académica de licenciatura ou superior.\n2.   A utilização da denominação «ordem profissional» ou «câmara profissional» é exclusiva das associações públicas profissionais."
+   }
+  },
+  {
+   "id": "TL-H220-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Cooperação com outras entidades"
+   },
+   "text": {
+    "pt": "1.    As associações públicas profissionais podem constituir ou participar em associações de direito privado e cooperar com entidades afins, nacionais ou estrangeiras, especialmente no âmbito da Comunidade de Países de Língua Portuguesa e da Associação de Nações do Sudeste Asiático.\n2.  Para melhor desempenho das suas atribuições, as associações públicas profissionais podem estabelecer acordos de cooperação com outras entidades públicas ou privadas nacionais ou organizações internacionais, ressalvadas as que assumam uma natureza política ou sindical."
+   }
+  },
+  {
+   "id": "TL-H220-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  E  FUNCIONAMENTO  INTERNO"
+   },
+   "heading": {
+    "pt": "Âmbito territorial"
+   },
+   "text": {
+    "pt": "1.   As associações públicas são de âmbito nacional.\n2.   Sem prejuízo do disposto no número anterior, as associações públicas profissionais podem compreender estruturas desconcentradas, às quais incumbe prosseguir as atribuições que para as mesmas forem estabelecidas nos estatutos.\n3.   Os estatutos das associações públicas profissionais devem estabelecer os mecanismos de controlo dos órgãos centrais sobre as estruturas desconcentradas."
+   }
+  },
+  {
+   "id": "TL-H220-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  E  FUNCIONAMENTO  INTERNO"
+   },
+   "heading": {
+    "pt": "Órgãos"
+   },
+   "text": {
+    "pt": "1.   As associações públicas profissionais dispõem de órgãos próprios e a sua organização interna está sujeita ao princípio da separação de poderes.\n2.   Os estatutos das associações públicas profissionais devem prever obrigatoriamente os seguintes órgãos:\na) Uma assembleia representativa, com poderes deliberativos gerais, nomeadamente em matéria de aprovação do plano estratégico, orçamento, plano de atividades, propostas de alteração aos estatutos, regulamentos com eficácia externa, quotas e taxas;\nb) Um órgão executivo colegial, de base eletiva, que exerce poderes de direção e de gestão, nomeadamente em matéria administrativa e financeira, bem como no tocante à representação externa dos interesses da associação;\nc) Um órgão de supervisão, de base eletiva, independente no exercício das suas funções, que vela pela legalidade da atividade exercida pelos órgãos da associação e exerce poderes de controlo, nomeadamente em matéria disciplinar.\n3.   Os estatutos da associação podem ainda prever a existência:\na) De um presidente ou bastonário, enquanto presidente do órgão executivo colegial ou enquanto órgão autónomo, dotado de competências próprias;\nb) De um órgão autónomo de fiscalização da gestão patrimonial e financeira;\nc) De órgãos técnicos ou consultivos.\n4.  Os mandatos dos titulares dos órgãos das associações públicas profissionais, de base eletiva, não podem ter duração superior a três anos.\n5.  O órgão executivo colegial e o órgão de supervisão são escolhidos por voto livre, direto, secreto e universal dos membros das associações públicas profissionais.\n6.   Os estatutos podem permitir a remuneração dos titulares de cargos executivos permanentes.\n7.   O exercício de funções executivas e funções de controlo e fiscalização por órgãos das associações públicas profissionais é incompatível entre si.\n8.   O órgão de supervisão pode acumular as respetivas funções com o exercício de funções de fiscalização da gestão patrimonial e financeira, caso não exista um órgão autónomo para o efeito.\n9.   A titularidade de órgãos das associações públicas profissionais é incompatível com o desempenho de funções superiores ou dirigentes na administração direta e indireta do Estado, bem como na administração local ou regional."
+   }
+  },
+  {
+   "id": "TL-H220-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  E  FUNCIONAMENTO  INTERNO"
+   },
+   "heading": {
+    "pt": "Elegibilidade"
+   },
+   "text": {
+    "pt": "1.   Qualquer membro efetivo da associação pública profissional com inscrição em vigor e no pleno exercício dos seus direitos pode votar e ser eleito para os órgãos da respetiva associação.\n2.   Só podem ser designados para titulares de órgãos eletivos da associação os membros que tenham um período mínimo de exercício da profissão, o qual pode variar entre 3 a 10 anos, a fixar, segundo o critério da responsabilidade e relevância das funções de cada cargo, nos estatutos.\n3.   A designação dos titulares dos órgãos das associações públicas profissionais não está sujeita a homologação governamental."
+   }
+  },
+  {
+   "id": "TL-H220-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  E  FUNCIONAMENTO  INTERNO"
+   },
+   "heading": {
+    "pt": "Direitos dos membros"
+   },
+   "text": {
+    "pt": "São direitos dos membros das associações públicas profissionais:\na)   Eleger os órgãos da associação e candidatar-se às eleições, sem prejuízo dos requisitos de elegibilidade definidos nos estatutos;\nb)  Participar nas atividades da associação;\nc)   Beneficiar dos serviços prestados pela associação;\nd)   Outros previstos na lei ou nos respetivos estatutos."
+   }
+  },
+  {
+   "id": "TL-H220-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  E  FUNCIONAMENTO  INTERNO"
+   },
+   "heading": {
+    "pt": "Deveres dos membros"
+   },
+   "text": {
+    "pt": "São deveres dos membros das associações públicas profissionais:\na)   Participar nas atividades da associação;\nb)   Pagar as quotas;\nc)   Contribuir para o prestígio da associação;\nd)   Outros previstos na lei ou nos respetivos estatutos."
+   }
+  },
+  {
+   "id": "TL-H220-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ACESSO  E  EXERCÍCIO  DA  PROFISSÃO"
+   },
+   "heading": {
+    "pt": "Acesso à profissão"
+   },
+   "text": {
+    "pt": "1.  O acesso às profissões colegiadas depende de inscrição prévia do profissional como membro da associação e sem prejuízo do cumprimento dos correspondentes requisitos de inscrição.\n2.   A lei de criação da associação pública profissional, o respetivo estatuto ou a legislação especial que regule a profissão em causa deve especificar os respetivos requisitos de inscrição e, bem assim, se os limites de acesso à profissão consistem numa reserva de atividade, numa reserva de título profissional ou ambas.\n3.   A lei de criação da associação pública profissional, o respetivo estatuto ou a legislação especial que regule a profissão podem exigir que os profissionais estrangeiros, que estejam estabelecidos em Timor-Leste ou que prestem serviços em território nacional, estejam sujeitos à mesma obrigação de inscrição.\n4.  Não podem ser fixados numerus clausus no acesso à profissão ou a qualquer especialidade profissional.\n5.    A exigência de realização de estágio profissional ou formação equivalente só pode ser feita por lei e deve depender apenas da titularidade da habilitação legalmente exigida e estar fundada em estrita necessidade dos mesmos para o exercício da profissão e em imperiosas razões de interesse público.\nO estágio profissional visa a formação e a avaliação:\na) Das capacidades profissionais;\nb) De conhecimentos e competências necessárias à prática de atos de confiança pública;\nc) De conhecimentos relativos ao código deontológico da profissão.\n6.   Não podem ser estabelecidas restrições territoriais, imposição de serviços a prestar ou preços a praticar no acesso à profissão.\n7.  Todas as restrições ao acesso e exercício das profissões reguladas, incluindo as referentes a qualificações profissionais, devem fundamentar-se em imperiosas razões de interesse público, nomeadamente atendendo à missão específica de interesse público em causa, em função da autoridade pública que o exercício da profissão comporte ou em razões inerentes à própria capacidade da pessoa.\n8.   Sem prejuízo do disposto no artigo 11.º, a inscrição de um profissional na respetiva associação pública tem duração indeterminada, apenas podendo cessar quando deixe de se verificar o cumprimento de algum dos pressupostos ou requisitos legais de que dependeu."
+   }
+  },
+  {
+   "id": "TL-H220-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ACESSO  E  EXERCÍCIO  DA  PROFISSÃO"
+   },
+   "heading": {
+    "pt": "Exercício da profissão"
+   },
+   "text": {
+    "pt": "1.   O exercício das profissões colegiadas rege-se pelo ato de constituição da respetiva associação pública profissional, pelos correspondentes estatutos ou por legislação especial.\n2.  O exercício das profissões colegiadas deve observar o princípio da livre concorrência.\n3.    As profissões colegiadas podem ser exercidas a título individual ou em sociedade, em regime liberal ou subordinado.\n4.  O exercício das profissões colegiadas deve respeitar o cumprimento:\na) Dos respetivos princípios e normas deontológicas;\nb) Do respetivo regime de incompatibilidades e impedimentos.\n5.   Os princípios e normas deontológicas e o regime de incompatibilidades e impedimentos de cada profissão regulada no presente diploma são definidos por lei, devendo ser proporcionais em função da independência, imparcialidade e integridade profissional que se pretenda garantir."
+   }
+  },
+  {
+   "id": "TL-H220-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ACESSO  E  EXERCÍCIO  DA  PROFISSÃO"
+   },
+   "heading": {
+    "pt": "Seguro profissional"
+   },
+   "text": {
+    "pt": "Nos casos em que o exercício da profissão apresente um risco direto e específico para a saúde, a integridade física ou integridade patrimonial do destinatário do serviço ou de terceiros, incluindo segurança financeira, pode ser exigida, pelo ato de constituição de uma associação pública profissional, pelos respetivos estatutos ou por legislação especial, a subscrição de um seguro obrigatório de responsabilidade civil profissional ou equivalente para o exercício da profissão."
+   }
+  },
+  {
+   "id": "TL-H220-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ACESSO  E  EXERCÍCIO  DA  PROFISSÃO"
+   },
+   "heading": {
+    "pt": "Reconhecimento de qualificações profissionais"
+   },
+   "text": {
+    "pt": "1.   Os estatutos das associações públicas profissionais podem prever requisitos especiais de inscrição para os cidadãos timorenses que adquiram as respetivas qualificações profissionais fora do território nacional.\n2.    Os estatutos das associações públicas profissionais podem ainda prever que os profissionais estrangeiros possam inscrever-se, em condições de reciprocidade, para o exercício da profissão em território nacional, desde que obtenham o reconhecimento das qualificações necessárias nos termos da lei.\n3.   Nos casos referidos no número anterior, pode prever-se a exigência de os profissionais possuírem o domínio escrito e falado de pelo menos uma das línguas oficiais de Timor- Leste e de estarem sujeitos a um período de tirocínio, formação ou avaliação dos conhecimentos adquiridos, pelos seguintes motivos:\na) Por estrita necessidade dos mesmos para o exercício da profissão;\nb) Por razões imperiosas de interesse público.\n4.  Os profissionais estrangeiros legalmente estabelecidos noutro Estado onde exerçam uma profissão análoga a uma profissão regulada nos termos do presente diploma podem exercer a respetiva atividade, de forma ocasional e esporádica, em território nacional, com as limitações previstas nos estatutos da associação pública profissional em causa."
+   }
+  },
+  {
+   "id": "TL-H220-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV REGIME LABORAL, FINANCEIRO E FISCAL"
+   },
+   "heading": {
+    "pt": "Pessoal"
+   },
+   "text": {
+    "pt": "1.    Aos trabalhadores das associações públicas profissionais é aplicável o regime previsto na lei do trabalho.\n2.   A celebração de qualquer contrato de trabalho deve ser precedida de um processo de seleção que obedeça aos princípios da igualdade, da transparência, da publicidade e da fundamentação, com base em critérios objetivos de seleção.\n3.   As regras a que deve obedecer o processo de seleção de pessoal constam obrigatoriamente dos estatutos ou dos regulamentos internos da associação."
+   }
+  },
+  {
+   "id": "TL-H220-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV REGIME LABORAL, FINANCEIRO E FISCAL"
+   },
+   "heading": {
+    "pt": "Orçamento, gestão financeira e contratos"
+   },
+   "text": {
+    "pt": "1.  As associações públicas profissionais dispõem de orçamento próprio, aprovado pelo órgão deliberativo, sob proposta do órgão executivo.\n2.   As associações públicas profissionais estão sujeitas:\na) Às regras de tesouraria e contabilidade que lhes forem aplicáveis por lei;\nb) As regras do aprovisionamento e dos contratos públicos.\n3.  O Estado não garante as obrigações das associações públicas profissionais nem é responsável pelas dívidas destas."
+   }
+  },
+  {
+   "id": "TL-H220-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV REGIME LABORAL, FINANCEIRO E FISCAL"
+   },
+   "heading": {
+    "pt": "Receitas"
+   },
+   "text": {
+    "pt": "1.   São receitas das associações públicas profissionais:\na) As quotas dos seus membros;\nb) As taxas cobradas pela prestação de serviços;\nc) Os rendimentos do respetivo património;\nd) O produto de heranças, legados ou doações;\ne) Outras receitas previstas por lei ou nos estatutos.\n2.   O Estado só pode financiar as associações públicas profissionais quando previsto na lei de criação ou nos respetivos estatutos, os quais podem fixar os termos do financiamento.\n3.   O valor das quotas e das taxas é fixado pelo órgão deliberativo da associação pública profissional, sob proposta do órgão executivo."
+   }
+  },
+  {
+   "id": "TL-H220-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV REGIME LABORAL, FINANCEIRO E FISCAL"
+   },
+   "heading": {
+    "pt": "Serviços"
+   },
+   "text": {
+    "pt": "1.    As associações públicas profissionais instituem os serviços operacionais e técnicos necessários para o desempenho das suas atribuições, sem prejuízo da faculdade de externalização de tarefas.\n2.  A criação e funcionamento dos serviços previstos no número anterior efetua-se por regulamento interno, aprovado pelo órgão deliberativo da associação pública profissional, sob proposta do órgão executivo."
+   }
+  },
+  {
+   "id": "TL-H220-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V TUTELA, CONTROLO E RESPONSABILIDADE"
+   },
+   "heading": {
+    "pt": "Tutela administrativa"
+   },
+   "text": {
+    "pt": "1.  A lei que cria a associação pública profissional ou os respetivos estatutos deve prever qual o membro do Governo que exerce tutela sobre a mesma.\n2.   As associações públicas profissionais não estão sujeitas aos poderes de direção ou de superintendência do Governo nem à tutela de mérito, mas estão sujeitas a um regime de tutela de legalidade de natureza inspetiva."
+   }
+  },
+  {
+   "id": "TL-H220-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V TUTELA, CONTROLO E RESPONSABILIDADE"
+   },
+   "heading": {
+    "pt": "Controlo jurisdicional"
+   },
+   "text": {
+    "pt": "1.   As decisões das associações públicas profissionais no exercício das suas funções públicas estão sujeitas a recurso contencioso.\n2.   Têm legitimidade para impugnar os atos e regulamentos das associações públicas profissionais:\na)   Os interessados, como tal identificados pelo direito aplicável;\nb) O Ministério Público;\nc) O membro do Governo que exerça poderes de tutela sobre a respetiva associação pública profissional;\nd) O Provedor de Direitos Humanos e Justiça."
+   }
+  },
+  {
+   "id": "TL-H220-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V TUTELA, CONTROLO E RESPONSABILIDADE"
+   },
+   "heading": {
+    "pt": "Fiscalização da Câmara de Contas"
+   },
+   "text": {
+    "pt": "As associações públicas profissionais estão sujeitas à jurisdição da Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas, nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H220-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V TUTELA, CONTROLO E RESPONSABILIDADE"
+   },
+   "heading": {
+    "pt": "Relatório anual e deveres de informação"
+   },
+   "text": {
+    "pt": "1.   As associações públicas profissionais devem elaborar um relatório anual sobre o desempenho das suas atividades, até ao dia 31 de março do ano subsequente àquele a que diga respeito, que é publicado na Série II do Jornal da República e no sítio da internet da associação pública profissional.\n2.   A lei de criação da associação pública profissional ou os seus respetivos estatutos podem dispor sobre o dever de remeter ao Parlamento Nacional e ao Governo o relatório a que se refere o número anterior.\n3.   As associações públicas profissionais devem prestar ao Parlamento Nacional e ao Governo todas as informações que lhes sejam solicitadas relativamente à prossecução das respetivas atribuições."
+   }
+  },
+  {
+   "id": "TL-H220-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V TUTELA, CONTROLO E RESPONSABILIDADE"
+   },
+   "heading": {
+    "pt": "Transparência"
+   },
+   "text": {
+    "pt": "As associações públicas profissionais devem disponibilizar ao público em geral, através do seu sítio na internet, pelo menos, as seguintes informações:\na)   Regime de acesso e exercício da profissão;\nb)   Princípios e regras deontológicas e regras técnicas aplicáveis à profissão;\nc)   Registo atualizado dos respetivos profissionais inscritos e com inscrição em vigor;\nd)  Registo atualizado de sociedades de profissionais ou de outras formas de organização associativa inscritas que contenha, nomeadamente, a designação, sede e número de inscrição;\ne)  O procedimento de apresentação de queixa ou reclamação pelos destinatários dos serviços prestados pelo profissional no âmbito das suas atividades;\nf)   Ofertas de emprego na associação pública profissional."
+   }
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "id": "CN-JI-0441",
+ "title": {
+  "zh": "最高人民法院关于适用刑法第十二条几个问题的解释",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p11",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "1997-12-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "最高人民法院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 259,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于适用刑法第十二条几个问题的解释_19971231.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，第一条至第三条，共 3 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于适用刑法第十二条几个问题的解释_19971231.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0441-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "第一条"
+   },
+   "text": {
+    "zh": "刑法第十二条规定的“处刑较轻”，是指刑法对某种犯罪规定的刑罚即法定刑比修订前刑法轻。法定刑较轻是指法定最高刑较轻；如果法定最高刑相同，则指法定最低刑较轻。"
+   }
+  },
+  {
+   "id": "CN-JI-0441-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "第二条"
+   },
+   "text": {
+    "zh": "如果刑法规定的某一犯罪只有一个法定刑幅度，法定最高刑或者最低刑是指该法定刑幅度的最高刑或者最低刑；如果刑法规定的某一犯罪有两个以上的法定刑幅度，法定最高刑或者最低刑是指具体犯罪行为应当适用的法定刑幅度的最高刑或者最低刑。"
+   }
+  },
+  {
+   "id": "CN-JI-0441-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "第三条"
+   },
+   "text": {
+    "zh": "1997年10月1日以后审理1997年9月30日以前发生的刑事案件，如果刑法规定的定罪处刑标准、法定刑与修订前刑法相同的，应当适用修订前的刑法。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于适用刑法第十二条几个问题的解释"
+  },
+  "issuingBody": {
+   "zh": "最高人民法院"
+  },
+  "promulgatedDate": "1997-12-23",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

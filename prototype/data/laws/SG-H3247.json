@@ -1,0 +1,339 @@
+{
+ "id": "SG-H3247",
+ "title": {
+  "zh": null,
+  "en": "Monetary Authority of Singapore (Book-Entry MAS Securities and Primary Dealers) Regulations 2013",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p41",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MASA1970-RG2",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 23,
+ "chars": 12399,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MASA1970-RG2?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 23 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3247-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations are the Monetary Authority of Singapore (Book-Entry MAS Securities and Primary Dealers) Regulations 2013."
+   }
+  },
+  {
+   "id": "SG-H3247-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“application” means an application to purchase book‑entry MAS securities;\n“approved” means approved by the Authority;\n“auction day” means the date specified in a public notice as the auction day of an issue of book‑entry MAS securities;\n“bid yield” means the yield expressed in an application;\n“book-entry MAS securities” has the meaning given by section 133 of the Act;\n“maturity date” means the date on which any book‑entry MAS securities are redeemable at par;\n“multiple pricing format” means the manner of allotting book‑entry MAS securities set out in regulation 11;\n“public notice” means a public notice issued by the Authority under section 142 of the Act;\n“uniform pricing format” means the manner of allotting book‑entry MAS securities set out in regulation 12;\n“yield” means the rate of return on any book‑entry MAS securities computed on the basis of the price of those securities, the total interest payments and the period commencing from the date of issue of those securities to the date of maturity of those securities."
+   }
+  },
+  {
+   "id": "SG-H3247-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "text": {
+    "en": "3. [Deleted by S 826/2019]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3247-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Application to purchase book-entry MAS securities"
+   },
+   "text": {
+    "en": "4.—(1) Any person who intends to purchase book‑entry MAS securities pursuant to a public notice may apply to purchase the securities on a competitive basis.\n(2) An application under paragraph (1) must be made using the electronic application service provided by the Authority.\n(3) For the purposes of paragraph (2), the Authority may enter into agreements with users of the electronic application service and issue a user guide setting out the terms and manner of use of the service.\n(4) In the event of a malfunction or failure of the electronic application service, an application under paragraph (1) must be made in written form and in accordance with the user guide.\n(5) A person who is unable to use the electronic application service to make an application under paragraph (1) for any reason other than a malfunction or failure of the service may make the application in the manner referred to in paragraph (4), if the person pays the Authority an administrative fee of $10 (exclusive of goods and services tax chargeable under the Goods and Services Tax Act 1993) for each such application.\n(6) This regulation is subject to regulation 5.\n(7) All applications under paragraph (1) must not be for less than the minimum nominal amount of $1,000 and must be made in multiples of $1,000.\n(8) All applications under paragraph (1) must be expressed as a bid yield not exceeding 2 decimal places."
+   }
+  },
+  {
+   "id": "SG-H3247-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Applications to be submitted through primary dealers"
+   },
+   "text": {
+    "en": "5.—(1) An application under regulation 4(1) by any person other than a primary dealer must be submitted by a primary dealer on behalf of that person.\n(2) An application under regulation 4(1) by a primary dealer on its own behalf must be kept distinct from an application under regulation 4(1) by the primary dealer on behalf of any other person, and the applications must be submitted separately to the Authority.\n(3) Where a primary dealer makes applications under regulation 4(1) on behalf of 2 or more other persons, the applications must be kept distinct from each other and submitted separately to the Authority.\n(4) A primary dealer must submit all applications under regulation 4(1) that are received by the primary dealer under paragraph (1) to the Authority not later than 12 noon of the auction day."
+   }
+  },
+  {
+   "id": "SG-H3247-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Cancellation of auction"
+   },
+   "text": {
+    "en": "6. The Authority may, at any time after the issue of a public notice, cancel the auction specified in the public notice, in which event the Authority must as soon as possible inform the public of the cancellation."
+   }
+  },
+  {
+   "id": "SG-H3247-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Variation in amount of book-entry MAS securities to be allotted"
+   },
+   "text": {
+    "en": "7.—(1) Where the Authority has issued a public notice, it may, at any time during the period commencing on the date of issue of the public notice and ending on 12 noon of the auction day specified in the public notice, vary the amount of book‑entry MAS securities to be made available for allotment as specified in the public notice, in which event the Authority must as soon as possible inform the public of the variation.\n(2) To avoid doubt, the variation does not affect the validity of any application to purchase book‑entry MAS securities made pursuant to the public notice before the variation."
+   }
+  },
+  {
+   "id": "SG-H3247-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Correction or resubmission of application"
+   },
+   "text": {
+    "en": "8. If the Authority considers it necessary to do so, the Authority may, at any time after the issue of a public notice, without giving any reason —\n(a)accept or refuse any request to correct or resubmit any application under regulation 4(1) made pursuant to the public notice; or\n(b)require any application under regulation 4(1) made pursuant to the public notice to be corrected or resubmitted."
+   }
+  },
+  {
+   "id": "SG-H3247-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Authority to refuse applications after 12 noon"
+   },
+   "text": {
+    "en": "9. The Authority must refuse to accept any application under regulation 4(1) that is received after 12 noon of the auction day or such extended time as the Authority may in any case allow."
+   }
+  },
+  {
+   "id": "SG-H3247-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Manner of allotment of book-entry MAS securities"
+   },
+   "text": {
+    "en": "10. The Authority may allot book-entry MAS securities under a multiple pricing format or a uniform pricing format, as may be specified in the public notice for the issue of those securities."
+   }
+  },
+  {
+   "id": "SG-H3247-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Allotment under multiple pricing format"
+   },
+   "text": {
+    "en": "11.—(1) Subject to these Regulations, book‑entry MAS securities that are to be allotted under a multiple pricing format must be allotted in accordance with paragraphs (2) to (5).\n(2) Book-entry MAS securities must be allotted to applications under regulation 4(1) in ascending order commencing from the application expressing the lowest bid yield to the application expressing the highest bid yield.\n(3) Subject to paragraph (4), where there are insufficient book‑entry MAS securities remaining in respect of the issue to allot the securities in full, in accordance with paragraph (2), to any application under regulation 4(1), the amount of book‑entry MAS securities available for allotment must be allotted to that application.\n(4) Where 2 or more applications under regulation 4(1) express the same bid yield, and there are insufficient book‑entry MAS securities remaining in respect of the issue to allot the securities in full, in accordance with paragraph (2), to those applications, the amount of book‑entry MAS securities available for allotment must be allotted to those applications rateably in proportion to the amounts applied for by the respective applicants.\n(5) The yield for each successful application under regulation 4(1) is the bid yield in the application."
+   }
+  },
+  {
+   "id": "SG-H3247-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Allotment under uniform pricing format"
+   },
+   "text": {
+    "en": "12.—(1) Subject to these Regulations, book-entry MAS securities that are to be allotted under a uniform pricing format must be allotted in accordance with paragraphs (2) to (5).\n(2) Book-entry MAS securities must be allotted to applications under regulation 4(1) in ascending order commencing from the application expressing the lowest bid yield to the application expressing the highest bid yield.\n(3) Subject to paragraph (4), where there are insufficient book‑entry MAS securities remaining in respect of the issue to allot the securities in full, in accordance with paragraph (2), to any application under regulation 4(1), the amount of book‑entry MAS securities available for allotment must be allotted to that application.\n(4) Where 2 or more applications under regulation 4(1) express the same bid yield, and there are insufficient book‑entry MAS securities remaining in respect of the issue to allot the securities in full, in accordance with paragraph (2), to those applications, the amount of book‑entry MAS securities available for allotment must be allotted to those applications rateably in proportion to the amounts applied for by the respective applicants.\n(5) The yield for each successful application under regulation 4(1) is equal to the highest bid yield in any successful application under regulation 4(1) made pursuant to the same public notice."
+   }
+  },
+  {
+   "id": "SG-H3247-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Inadequate applications"
+   },
+   "text": {
+    "en": "13. An allotment of book-entry MAS securities must not be made on any application under regulation 4(1) for any amount of book‑entry MAS securities which is less than the minimum nominal amount specified in regulation 4(7)."
+   }
+  },
+  {
+   "id": "SG-H3247-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Interest rate of book-entry MAS securities"
+   },
+   "text": {
+    "en": "14.—(1) The public notice for each issue of book‑entry MAS securities must state whether interest is payable on those securities.\n(2) Subject to regulation 22, where interest is payable on any book‑entry MAS securities allotted under regulation 10, 11 or 12, the interest rate of those securities must be determined in accordance with paragraph (3) or (4).\n(3) The interest rate of book-entry MAS securities in an issue of those securities must be as stated in the public notice for that issue.\n(4) Where no interest rate is stated in the public notice for an issue of book‑entry MAS securities, the interest rate of those securities is the higher of the following:\n(a)a percentage equal to —\n(i)the weighted average of the bid yields expressed in all applications under regulation 4(1) that were successful, rounded down to the nearest 0.125%, if those securities are allotted under a multiple pricing format; or\n(ii)the highest bid yield expressed in any successful application under regulation 4(1), rounded down to the nearest 0.125%, if those securities are allotted under a uniform pricing format;\n(b)0.125%."
+   }
+  },
+  {
+   "id": "SG-H3247-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Notification of successful application"
+   },
+   "text": {
+    "en": "15.—(1) The Authority must notify every successful applicant who is a primary dealer.\n(2) Where a successful applicant is not a primary dealer, the Authority must give to the primary dealer which had submitted the application made by the successful applicant a notification specifying the particulars of allotment of book-entry MAS securities to the successful applicant.\n(3) The primary dealer, on receiving a notice under paragraph (2), must forthwith inform the successful applicant of the particulars specified in the notice."
+   }
+  },
+  {
+   "id": "SG-H3247-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Payment for allotted book-entry MAS securities"
+   },
+   "text": {
+    "en": "16.—(1) Payment for allotted book-entry MAS securities must be made by way of a pre-authorised funds transfer to the Authority from the account of the applicant’s settlement bank specified in the application, in accordance with the terms of authorisation provided to the Authority by the settlement bank.\n(2) Payment must be made on the date specified in the public notice relating to the issue of the book‑entry MAS securities."
+   }
+  },
+  {
+   "id": "SG-H3247-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "heading": {
+    "en": "Payment of interest on book-entry MAS securities"
+   },
+   "text": {
+    "en": "17.—(1) The interest payments (if any) on any issue of book‑entry MAS securities must be made half-yearly on the dates specified in the public notice relating to that issue.\n(2) Interest (if any) on any issue of book-entry MAS securities must cease and determine on the approved maturity date specified in the public notice relating to that issue."
+   }
+  },
+  {
+   "id": "SG-H3247-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "heading": {
+    "en": "Crediting of interest on book-entry MAS securities"
+   },
+   "text": {
+    "en": "18.—(1) Interest on any book-entry MAS securities must be credited into the appropriate account for book‑entry MAS securities maintained by the Authority for the owner of the book‑entry MAS securities or for the depositary institution which holds the book‑entry MAS securities for the account of the owner.\n(2) Where interest on any book-entry MAS securities is credited into an account of book-entry MAS securities maintained by the Authority for a depositary institution which holds the book‑entry MAS securities for the account of the owner thereof, the depositary institution must forthwith credit the interest into the appropriate account of the owner of the book‑entry MAS securities maintained at that institution."
+   }
+  },
+  {
+   "id": "SG-H3247-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "heading": {
+    "en": "Redemption"
+   },
+   "text": {
+    "en": "19. The maturity date of any book-entry MAS securities is the approved maturity date specified in the public notice relating to the issue of those securities."
+   }
+  },
+  {
+   "id": "SG-H3247-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "heading": {
+    "en": "Conditions of holding book-entry MAS securities"
+   },
+   "text": {
+    "en": "20. A person or beneficial owner who is exempt under any written law from paying income tax in respect of interest on any book‑entry MAS securities (not being book-entry MAS securities where the interest is exempt from income tax) may hold those securities only with the written permission of the Authority."
+   }
+  },
+  {
+   "id": "SG-H3247-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "heading": {
+    "en": "Transfers"
+   },
+   "text": {
+    "en": "21. Book-entry MAS securities maintained in any account with the Authority may be transferred to any other account maintained by the Authority through any means (including a computer‑based communications system) that the Authority may specify by written notice from time to time."
+   }
+  },
+  {
+   "id": "SG-H3247-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "heading": {
+    "en": "Re-opened issues"
+   },
+   "text": {
+    "en": "22. After the allotment of book-entry MAS securities in any issue of book-entry MAS securities, the Authority may subsequently issue book‑entry MAS securities in excess of the amount as stated in the original public notice of the issue on the same terms and conditions as to redemption and interest as the issue."
+   }
+  },
+  {
+   "id": "SG-H3247-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "heading": {
+    "en": "Private placements"
+   },
+   "text": {
+    "en": "23.—(1) These Regulations do not apply to any issue of book‑entry MAS securities which is not offered to the public for purchase by way of a public notice.\n(2) The manner in which, and the terms and conditions under which, the book‑entry MAS securities mentioned in paragraph (1) may be issued are to be as determined by the Authority."
+   }
+  }
+ ]
+}

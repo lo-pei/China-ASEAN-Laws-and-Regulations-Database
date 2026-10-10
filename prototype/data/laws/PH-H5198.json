@@ -1,0 +1,74 @@
+{
+ "id": "PH-H5198",
+ "title": {
+  "zh": "设立Batac市",
+  "en": "An Act Declaring September One of Every Year, the Death Anniversary of Gregorio Aglipay Y Labayan, as Gregorio L. Aglipay Day and a Special Non-Working Holiday in the Municipality of Batac, Province of Ilocos Norte",
+  "orig": "An Act Declaring September One of Every Year, the Death Anniversary of Gregorio Aglipay Y Labayan, as Gregorio L. Aglipay Day and a Special Non-Working Holiday in the Municipality of Batac, Province of Ilocos Norte"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p74",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1989-02-10",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6701",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 429,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1989/ra_6701_1989.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1989/ra_6701_1989.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H5198-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The first day of the month of September of every year, being the death anniversary of Gregorio L. Aglipay y Labayan, is hereby declared as Gregorio L. Aglipay Day and a special non-working holiday in the Municipality of Batac, Province of Ilocos Norte."
+   }
+  },
+  {
+   "id": "PH-H5198-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Any provision of law, decree, order, rules or regulations inconsistent with this Act is hereby repealed and/or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H5198-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

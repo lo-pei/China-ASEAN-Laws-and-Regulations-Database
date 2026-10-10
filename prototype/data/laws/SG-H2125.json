@@ -1,0 +1,133 @@
+{
+ "id": "SG-H2125",
+ "title": {
+  "zh": null,
+  "en": "Income Tax (Exemption of Income of Foreign Account of Philanthropic Purpose Trust) Regulations 2007",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p27",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ITA1947-S692-2007",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 7,
+ "chars": 4869,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ITA1947-S692-2007?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 7 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2125-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Income Tax (Exemption of Income of Foreign Account of Philanthropic Purpose Trust) Regulations 2007 and shall be deemed to have come into operation on 18th February 2005."
+   }
+  },
+  {
+   "id": "SG-H2125-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations —\n“designated investments” has the same meaning as in the Income Tax (Exemption of Income of Prescribed Persons Arising from Funds Managed by Fund Manager in Singapore) Regulations 2010 (G.N. No. S 6/2010), with references to “prescribed person” therein modified to refer to “trustee company” or “eligible holding company” referred to in regulation 4(1), as the case may be;\n[S 85/2012 wef 01/09/2007]\n[S 151/2020 wef 11/04/2016]\n“specified income” has the same meaning as in the Income Tax (Exemption of Income of Foreign Trusts) Regulations (Rg 24).\n(2) For the purposes of these Regulations, a philanthropic purpose trust is administered by a trustee company if the trustee company —\n(a)provides services as a trustee of the philanthropic purpose trust, including services provided as a manager or an administrator of an eligible holding company established for the purposes of the philanthropic purpose trust; or\n(b)provides services to a trustee of the philanthropic purpose trust under a contract for services with that trustee, such services being either or both of the following:\n(i)the establishment of the philanthropic purpose trust, or an eligible holding company for the purposes of the philanthropic purpose trust;\n(ii)the management or administration of the philanthropic purpose trust or an eligible holding company established for the purposes of the philanthropic purpose trust."
+   }
+  },
+  {
+   "id": "SG-H2125-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Status of foreign account where settlor becomes citizen of Singapore or resident in Singapore"
+   },
+   "text": {
+    "en": "3. Where any settlor (being an individual) who injected funds or assets into a foreign account of a philanthropic purpose trust subsequently becomes a citizen of Singapore or resident in Singapore, that account shall continue to be regarded as a foreign account for the purposes of section 13O of the Act if —\n(a)as from the date on which the settlor becomes a citizen of Singapore or resident in Singapore, he does not —\n(i)inject any funds or assets into that account; or\n(ii)receive or enjoy any benefit under that account; and\n(b)if the settlor had previously been a citizen of Singapore or resident in Singapore and had ceased to be such citizen or resident before the constitution of the trust, a period of at least 5 years has elapsed between the date he last ceased to be a citizen of Singapore or resident in Singapore before the constitution of the trust and the date he subsequently becomes a citizen of Singapore or resident in Singapore."
+   }
+  },
+  {
+   "id": "SG-H2125-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "4.—(1) Subject to paragraph (2) and regulation 5, there shall be exempt from tax —\n(a)specified income from designated investments made —\n(i)by a trustee company administering a philanthropic purpose trust, using any funds or assets in any foreign account of that trust; and\n(ii)by an eligible holding company established for the purposes of the philanthropic purpose trust, using any funds or assets of the company held for the foreign account of that trust; and\n(b)dividends payable or paid by the eligible holding company to the trustee company out of the income referred to in sub-paragraph (a)(ii).\n(2) The trustee company shall submit an annual declaration to the Comptroller, in such form and within such time as the Comptroller or the Monetary Authority of Singapore may specify, that the philanthropic purpose trust or the eligible holding company (as the case may be) has, or both the philanthropic purpose trust and the eligible holding company have, met the conditions in these Regulations."
+   }
+  },
+  {
+   "id": "SG-H2125-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Deduction of certain losses not allowed"
+   },
+   "text": {
+    "en": "5. No deduction shall be allowed under the Act in respect of any philanthropic purpose trust or to any eligible holding company established for the purposes of the philanthropic purpose trust in respect of any loss arising from any transaction that would have been exempted from tax under regulation 4 had it resulted in a gain or profit."
+   }
+  },
+  {
+   "id": "SG-H2125-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Keeping of records"
+   },
+   "text": {
+    "en": "6. Every trustee company administering a philanthropic purpose trust shall, for the purposes of section 67 of the Act, keep and maintain a separate account for the income and expenses pertaining to any foreign account of the trust."
+   }
+  },
+  {
+   "id": "SG-H2125-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Additional assessment on income of philanthropic purpose trust or eligible holding company in certain circumstances"
+   },
+   "text": {
+    "en": "7.—(1) Where a foreign account of a philanthropic purpose trust ceases to be a foreign account for failing to satisfy regulation 3(b), the Comptroller may assess the trustee company administering the philanthropic purpose trust or the eligible holding company established for the purposes of the philanthropic purpose trust, as the case may be, under section 74 of the Act on any income of the philanthropic purpose trust or the eligible holding company that was exempted from tax under these Regulations.\n(2) Any amount or additional amount assessed by the Comptroller under paragraph (1) shall only be paid out of the funds of the philanthropic purpose trust or the eligible holding company, as the case may be."
+   }
+  }
+ ]
+}

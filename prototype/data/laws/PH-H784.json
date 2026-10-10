@@ -1,0 +1,84 @@
+{
+ "id": "PH-H784",
+ "title": {
+  "zh": null,
+  "en": "An Act to Increase the Fees Now Charged By the Securities and Exchange Commission and to Authorize It to Collect and Receive Fees for Certain Services",
+  "orig": "An Act to Increase the Fees Now Charged By the Securities and Exchange Commission and to Authorize It to Collect and Receive Fees for Certain Services"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p10",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1953-06-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 944",
+ "officialCode": null,
+ "topics": [
+  "tax"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 2684,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1953/ra_944_1953.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1953/ra_944_1953.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H784-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The Securities and Exchange Commission is hereby authorized to collect and receive fees for the following:\na. For examining and filing articles of incorporation of a corporation— One-tenth of one per centum of the authorized capital stock, but in no case shall the fee be less than twenty-five pesos or more than one thousand pesos: Provided, That in case of shares without par value, each share shall be taken to be of the par value of one hundred pesos for the purpose of fixing the fee: And provided, further, That the fee for the examination and filing of articles of incorporation of a non-stock corporation shall be twenty-five pesos;\nb. For examining and filing a certificate of increase of the capital stock of a corporation— One-tenth of one per centum of the increase in capital stock, but in no case shall the fee be less than twenty-five pesos or more than one thousand pesos;\nc. For examining and filing the by-laws of a corporation—Five pesos; and the same fee shall be charged for the examination and filing of an amendment to the by-laws;\nd. For the examination and recording of articles of partnership:\n1. Presentation Fee—One peso;\n2. Recording Fee—Ten pesos for a capital not exceeding ten thousand pesos; and two pesos for each thousand or fraction thereof in excess of the first ten thousand, but in no case shall the fee be more, than six hundred pesos;\n3. For examining and recording a document amending articles of partnership—Ten pesos."
+   }
+  },
+  {
+   "id": "PH-H784-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The Securities and Exchange Commission shall hereafter collect and receive fees for the following:\na. For granting a general or particular exemption of securities from registration, one-tenth of one per centum of the aggregate par or issued value of the securities, but in no case shall the fee be less than ten pesos or more than one hundred pesos;\nb. For the examination and filing of a certificate of decreased of capital stock of a corporation—Ten pesos;\nc. For the examination and filing of a certificate incurring, creating or increasing bonded indebtedness—One twentieth of one per centum of the total indebtedness, but in no case shall the fee be less than ten pesos or more than five hundred pesos;\nd. For filing a certificate showing an increase or decrease in the number of directors—Five pesos."
+   }
+  },
+  {
+   "id": "PH-H784-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "All laws or parts of any law, in conflict with, or contrary to, the provisions of his Act, are hereby repealed: Provided, That existing laws, orders and regulations authorizing the Securities and Exchange Commission to collect and receive fees for services not mentioned herein shall remain in full force and effect."
+   }
+  },
+  {
+   "id": "PH-H784-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect after fifteen days from the date of its approval.\nApproved, June 20, 1953."
+   }
+  }
+ ]
+}

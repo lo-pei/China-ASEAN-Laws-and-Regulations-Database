@@ -1,0 +1,68 @@
+{
+ "id": "TL-H119",
+ "title": {
+  "zh": "对《第7/2006号法律》 (共和国总统选举法)的第三次修改",
+  "en": null,
+  "orig": "Terceira Alteração à lei n.º 7/2006 de 28 de dezembro (lei eleitoral para o presidente da república)"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p03",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2012-01-13",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "本法系对《第7/2006号法律》的修改。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 2/2012",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 507,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2012/serie_1/serie1_no1a.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自官方公报 PDF（public/docs/2012/serie_1/serie1_no1a.pdf）第 2–2 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 【本法系对《第7/2006号法律》的修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H119-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Alteração à Lei n.º 7/2006, de 28 de Dezembro"
+   },
+   "text": {
+    "pt": "O artigo 67.º da Lei n.º 7/2006, de 28 de Dezembro, alterada pelas Leis n.º 5/2007, de 28 de Março, e 8/2011, de 22 de Junho, passa a ter a seguinte redação:\n“Artigo 67.º Regulamentação\n1.   (...)\n2.   (...)\n3.   (...)\n4.   O disposto no artigo 39.º-A não é aplicável aos atos eleitorais que ocorram durante o ano de 2012, sendo o exercício do direito nele contemplado regulamentado pelo Governo assim que verificadas as devidas condições.”"
+   }
+  },
+  {
+   "id": "TL-H119-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Entrada em Vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

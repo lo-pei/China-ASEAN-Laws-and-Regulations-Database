@@ -1,0 +1,85 @@
+{
+ "id": "PH-H679",
+ "title": {
+  "zh": "关于税的法",
+  "en": "An Act Exempting From Taxes, Custom Duties or Charges All Articles Which Shall Be Brought or Imported From Foreign Countries Into the Philippines for the Sole Purpose of Exhibition or Display At Any Fair or Exposition of the Arts, Sciences, and Industries",
+  "orig": "An Act Exempting From Taxes, Custom Duties or Charges All Articles Which Shall Be Brought or Imported From Foreign Countries Into the Philippines for the Sole Purpose of Exhibition or Display At Any Fair or Exposition of the Arts, Sciences, and Industries"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p09",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1952-08-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 830",
+ "officialCode": null,
+ "topics": [
+  "trade",
+  "culture"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1626,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1952/ra_830_1952.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1952/ra_830_1952.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H679-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "All articles which shall be brought or imported into the Philippines from foreign countries for the sole purpose of being exhibited or displayed at any fair or exposition in the Philippines shall, upon the entry of such articles and during the time they are being displayed or exhibited in such fair or exposition, be exempt from all kinds of taxes, custom duties, fees, or charges of any kind: Provided, That all such articles, when withdrawn for consumption or use in the Philippines, except those that are donated to the Government, shall be subject to the taxes, duties, fees and charges, if any, imposed upon such articles by the revenue laws in force at the date of their withdrawal."
+   }
+  },
+  {
+   "id": "PH-H679-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Any alien exhibitor in such fair or exposition may bring to the Philippines, under contract, such otherwise admissible alien mechanics, artisans, agents, or other employees, natives of his country as may be necessary for installing or conducting his exhibit, under such rules and regulations as the Commission on Immigration, with the approval of the Secretary of Justice, may prescribe both as to the admission and departure of such persons. Articles or exhibits not sold or disposed during the period of the fair or exposition may also be sent or brought back to the respective countries of the alien exhibitors free from any fees or charges of whatever nature."
+   }
+  },
+  {
+   "id": "PH-H679-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The Secretary of Commerce and Industry shall issue such rules and regulations as may be necessary to carry out the provisions of this Act not otherwise assigned to other offices as provided in this Act."
+   }
+  },
+  {
+   "id": "PH-H679-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, August 14, 1952."
+   }
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": "PH-H755",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section One of Commonwealth Act Numbered Six Hundred Six By Defining the Term \"Lease\" or \"Charter\" and for Other Purposes",
+  "orig": "An Act to Amend Section One of Commonwealth Act Numbered Six Hundred Six By Defining the Term \"Lease\" or \"Charter\" and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p10",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1953-06-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 913",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2642,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1953/ra_913_1953.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1953/ra_913_1953.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文存在同号重出的条款（第 1 条）：该处官方页面确有两段均标同一 Section 号，本库照录其 `no` 值（不改动官方编号），条文 `id` 以 `_2`「_3」后缀保证唯一。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H755-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section one of Commonwealth Act Numbered Six hundred six is hereby amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H755-A1_2",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "No person, corporation, association or entity whatsoever shall, without the approval of the President of the Philippines: (a) transfer to or place under any foreign registry or flag at war with the Philippines any vessel owned in whole or in part by a citizen of the Philippines or by a corporation organized under the laws of the Philippines; or (b) sell, mortgage, lease, charter, deliver or in any manner transfer, directly or indirectly, to any person not a citizen of the United States or of the Philippines, or of a foreign country not at war with the Philippines, (1) any such vessel or any interest therein, or (2) any vessel registered under the laws of the Philippines or bearing a certificate of Philippine registry, or any interest therein, or (3) any shipyard, drydock, ship-building or ship-repairing plant or facilities, or any interest therein; or (c) enter into any contract, agreement, or understanding, to construct a vessel within the Philippines for or to be delivered to any person not a citizen of the United States or of the Philippines, or of a foreign country not at war with the Philippines, or to be placed under any foreign registry or flag at war with the Philippines, without expressly stipulating that such construction shall not begin while this Act is in full force and effect; or (d) make any agreement or effect any understanding whereby there is vested in or for the benefit of any person not a citizen of the United States or of the Philippines, the controlling interest or the majority of the voting power in a corporation which is organized under the laws of the Philippines, and which owns any vessel, shipyard, drydock, or ship-building or ship-repairing plant or facilities; or (e) cause or procure any vessel constructed in whole or in part within the Philippines, which has never cleared for any foreign port, to depart from a port of the Philippines before it has been registered under the laws of the Philippines. The term 'lease' or 'Charter' as used in this Act means a contract in which the owner of a vessel lets for consideration the whole or principal part thereof for the conveyance of goods and/or passengers on a particular voyage to one or more places or until the expiration of a specified time and surrenders unto the lessee or charterer the control, by vesting upon the latter the right to appoint the captain, officers and members of the crew, of the vessel leased or chartered during the duration of the contract.\""
+   }
+  },
+  {
+   "id": "PH-H755-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
+   }
+  }
+ ]
+}

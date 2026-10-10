@@ -1,0 +1,85 @@
+{
+ "id": "PH-H678",
+ "title": {
+  "zh": "经费拨款法",
+  "en": "An Act Appropriating Funds for the Holding in Manila of the Second Regional Conference on Trade Promotion Under the Auspices of the Economic Commission for Asia and the Far East and the United Nations Technical Assistance Administration From February 16th to 26th, 1953",
+  "orig": "An Act Appropriating Funds for the Holding in Manila of the Second Regional Conference on Trade Promotion Under the Auspices of the Economic Commission for Asia and the Far East and the United Nations Technical Assistance Administration From February 16th to 26th, 1953"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p09",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1952-08-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 829",
+ "officialCode": null,
+ "topics": [
+  "trade",
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1322,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1952/ra_829_1952.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1952/ra_829_1952.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H678-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Appropriation of funds. -The sum of fifty thousand pesos, or so much thereof as may be necessary, is hereby appropriated, out of any funds in the Treasury of the Philippines not otherwise appropriated, for the purpose of covering the necessary expenses to be incurred by the Philippine Government, incident to the holding of the Second Regional Conference on Trade Promotion to be held in Manila from February 16th to 26th, 1953, under the joint sponsorship of the Economic Commission for Asia and the Far East and the United Nations Technical Assistance Administration."
+   }
+  },
+  {
+   "id": "PH-H678-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Office authorized to administer the funds. -The Secretary of Commerce and Industry, who is presently the Chairman of the Philippine Committee on ECAFE Matters, created by Presidential Administrative Order No 157, dated June 5, 1951, is hereby authorized to administer the disbursement of the corresponding expenses therefore."
+   }
+  },
+  {
+   "id": "PH-H678-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Submission of reports. -Within thirty days from the closing of the conference mentioned under section one hereof, the Chairman, Philippine Committee on ECAFE Matters, shall submit separately a report covering the conference to the President of the Philippines and to the respective heads of both Houses of the Congress of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H678-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Effective date. -This Act shall take effect upon its approval.\nApproved, August 14, 1952."
+   }
+  }
+ ]
+}

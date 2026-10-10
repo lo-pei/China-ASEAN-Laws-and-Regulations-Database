@@ -1,0 +1,100 @@
+{
+ "id": "CN-JI-0485",
+ "title": {
+  "zh": "最高人民法院关于在粤港澳大湾区内地登记设立的香港、澳门投资企业协议选择港澳法律为合同适用法律或者协议约定港澳为仲裁地效力问题的批复",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p11",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2024-10-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "最高人民法院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ITEM",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 376,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于在粤港澳大湾区内地登记设立的香港、澳门投资企业协议选择港澳法律为合同适用法律或者协议约定港澳为仲裁地效力问题的批复_20250213.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，一、至三、，共 3 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于在粤港澳大湾区内地登记设立的香港、澳门投资企业协议选择港澳法律为合同适用法律或者协议约定港澳为仲裁地效力问题的批复_20250213.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0485-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "一、"
+   },
+   "text": {
+    "zh": "当事人一方或者双方为在粤港澳大湾区深圳市、珠海市登记设立的香港、澳门投资企业，协议选择香港特别行政区法律、澳门特别行政区法律为合同适用的法律，并在诉讼中主张适用该法律，人民法院经审查认为不违反国家法律强制性规定且不损害社会公共利益的，应当予以支持。"
+   }
+  },
+  {
+   "id": "CN-JI-0485-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "二、"
+   },
+   "text": {
+    "zh": "当事人一方或者双方为在粤港澳大湾区内地九市登记设立的香港、澳门投资企业，协议约定以香港特别行政区、澳门特别行政区为仲裁地，当事人以所涉争议不具有涉港澳因素为由申请人民法院确认仲裁协议无效的，人民法院不予支持。\n当事人将争议按照约定提交仲裁，在相关裁决作出后，一方当事人以所涉争议不具有涉港澳因素、仲裁协议无效，主张不应认可执行仲裁裁决的，人民法院不予支持。"
+   }
+  },
+  {
+   "id": "CN-JI-0485-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "三、"
+   },
+   "text": {
+    "zh": "本批复所称“香港投资企业”“澳门投资企业”是指全部或者部分由香港特别行政区、澳门特别行政区的自然人、企业或者其他组织投资，依法在内地登记设立的企业。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于在粤港澳大湾区内地登记设立的香港、澳门投资企业协议选择港澳法律为合同适用法律或者协议约定港澳为仲裁地效力问题的批复"
+  },
+  "issuingBody": {
+   "zh": "最高人民法院"
+  },
+  "promulgatedDate": "2024-10-22",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

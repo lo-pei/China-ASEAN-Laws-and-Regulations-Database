@@ -1,0 +1,101 @@
+{
+ "id": "SG-H072",
+ "title": {
+  "zh": null,
+  "en": "Active Mobility (Electronic Service System) Regulations 2019",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p01",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation AMA2017-S418-2019",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 3008,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/AMA2017-S418-2019?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 5 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H072-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Active Mobility (Electronic Service System) Regulations 2019 and come into operation on 3 June 2019."
+   }
+  },
+  {
+   "id": "SG-H072-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definition"
+   },
+   "text": {
+    "en": "2. In these Regulations, “electronic service system” means the system providing for electronic service established under section 43 of the Land Transport Authority of Singapore Act 1995.\n[S 141/2022 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H072-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Authorisation to serve documents through electronic service system"
+   },
+   "text": {
+    "en": "3.—(1) For the purposes of section 64(5)(d) of the Act, a document in relation to a matter specified in the First Schedule is authorised to be served through the electronic service system on the Authority.\n[S 141/2022 wef 31/12/2021]\n(2) For the purposes of section 64(5)(d) of the Act, a document in relation to a matter specified in the Second Schedule is authorised to be served through the electronic service system on an individual, a partnership, a body corporate or an unincorporated association.\n[S 141/2022 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H072-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRule 3(1)\nMatters in which related documents\nare authorised to be served on Authority\nPart 1\nActive Mobility Act 2017\nDescription\nApplicable section\n1.To satisfy Authority to cancel registration of personal mobility device\n28D(a)\n2.Application to cancel registration of personal mobility device\n28D(c)\n3.Application for information contained in register of registrable personal mobility devices\n28E(5)\n[S 141/2022 wef 31/12/2021]\nPart 2\nActive Mobility\n(Registration of Registrable\nPersonal Mobility Devices)\nRegulations 2019 (G.N. No. S 13/2019)\nDescription\nApplicable regulation\n1.Application to register registrable personal mobility device\n3\n2.Joint application to transfer registration of registered responsible person\n9(1)\n3.Notification to take or return possession and application to transfer registration of registered responsible person\n11(1)\n4.Notification of death of registered responsible person and application to transfer registration of registered responsible person\n12(1)\n5.Notification of change in identification details\n14(1)\n6.Notification of total loss or destruction of registered registrable PMD and application to cancel registration of PMD\n15(1)\n7.Request for exceptional registration\n33"
+   }
+  },
+  {
+   "id": "SG-H072-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRule 3(2)\nMatters in which related documents\nare authorised to be served on individual,\npartnership, body corporate or\nunincorporated association\nPart 1\nACTIVE MOBILITY ACT 2017\nDescription\nApplicable section\n1.Order to deliver vehicle for inspection\n47(1)(c)\nPart 2\nACTIVE MOBILITY (REGISTRATION OF REGISTRABLE\nPERSONAL MOBILITY DEVICES) REGULATIONS 2019\nDescription\nApplicable regulation\n1.Request for applicant seeking to register personal mobility device to provide evidence\n5(3)\n2.Inspection of personal mobility device\n6(1)\n3.Request for applicant of application to transfer registration of registered responsible person to provide evidence\n9(3)\n4.Inspection of personal mobility device\n10(1)\n5.Request for evidence that changes mentioned in regulation 22(1) are correct\n22(2)\n6.Notice to present registered registrable PMD for inspection or testing\n32(1)\n[S 141/2022 wef 01/03/2022]"
+   }
+  }
+ ]
+}

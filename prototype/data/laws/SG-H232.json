@@ -1,0 +1,52 @@
+{
+ "id": "SG-H232",
+ "title": {
+  "zh": null,
+  "en": "Appointment of Pensions Officers",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p03",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation SAFA1972-N1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 672,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/SAFA1972-N1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 1 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H232-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Singapore Armed Forces Act\n(Chapter 295 and Singapore Armed Forces (Pensions) Regulations (Rg 9 — Regulation 12))\nAppointment of Pensions Officers\nN 1\nG.N. No. S 29/1987\nREVISED EDITION 2001\n(31st January 2001)\nThe Armed Forces Council has appointed the following persons in the Ministry of Defence to be Pensions Officers:\n(a)Director, Manpower;\n[S 29/87 — 13.10.86]\n(b)[Deleted by G.N. No. 1932/2004 wef 03/08/2004]\n(c)Head, Air Manpower Department;\n(d)Head, Naval Personnel Department;\n(e)Commanding Officer, Officers’ Personnel Centre;\n(f)Commanding Officer, Control of Personnel Centre; and\n(g)Commanding Officer, Army Officers Management Centre.\n[S 137/90 — 19.2.90]"
+   }
+  }
+ ]
+}

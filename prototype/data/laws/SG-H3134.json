@@ -1,0 +1,258 @@
+{
+ "id": "SG-H3134",
+ "title": {
+  "zh": null,
+  "en": "Medicines (Medical Advertisements) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p39",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MA1975-RG2",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 17,
+ "chars": 6476,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MA1975-RG2?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 17 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3134-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Medicines (Medical Advertisements) Regulations."
+   }
+  },
+  {
+   "id": "SG-H3134-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“grant”, in relation to a permit from the licensing authority, includes a renewal of the permit;\n“medical advertisement” means any advertisement of a medicinal product, but does not include any advertisement mentioned in section 51(1)(a) or (b) or (2) of the Act;\n“sales promotion” means any medical advertisement in the form of —\n(a)a sales campaign (including door-to-door sales and price discounts);\n(b)an exhibition;\n(c)a competition; or\n(d)any other activity meant to introduce, publicise or raise the profile, public awareness or visibility of, the medicinal product.\n[S 548/2016 wef 01/11/2016]"
+   }
+  },
+  {
+   "id": "SG-H3134-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Permit for advertising"
+   },
+   "text": {
+    "en": "3. Except as provided in these Regulations, no person shall —\n(a)issue or cause to be issued any medical advertisement; or\n(b)conduct any sales promotion,\nwithout first obtaining a permit from the licensing authority."
+   }
+  },
+  {
+   "id": "SG-H3134-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Application for permit"
+   },
+   "text": {
+    "en": "4. An application for, or to renew, a permit referred to in regulation 3 shall be in such form as the licensing authority may require.\n[S 548/2016 wef 01/11/2016]"
+   }
+  },
+  {
+   "id": "SG-H3134-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Period of validity of permit"
+   },
+   "text": {
+    "en": "5. Any permit granted by the licensing authority under regulation 3 shall, unless sooner revoked, be valid for a period of one year from the date on which it was granted.\n[S 679/2005 wef 01/11/2005]"
+   }
+  },
+  {
+   "id": "SG-H3134-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Permit subject to terms and conditions"
+   },
+   "text": {
+    "en": "6. A permit may be granted subject to such terms and conditions as the licensing authority may think fit to impose."
+   }
+  },
+  {
+   "id": "SG-H3134-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Refusal, etc., of permit"
+   },
+   "text": {
+    "en": "7.—(1) The licensing authority may, without assigning any reason, refuse to grant a permit or may suspend or revoke any permit already granted.\n(2) Any person aggrieved by such refusal, suspension or revocation may appeal to the Minister whose decision shall be final."
+   }
+  },
+  {
+   "id": "SG-H3134-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Duty of printer or publisher"
+   },
+   "text": {
+    "en": "8. No person shall print or publish or cause to be printed or published any medical advertisement that is not a sales promotion unless he has first ascertained that a permit has been granted by the licensing authority in respect of that advertisement.\n[S 548/2016 wef 01/11/2016]"
+   }
+  },
+  {
+   "id": "SG-H3134-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "text": {
+    "en": "9. [Deleted by S 548/2016 wef 01/11/2016]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3134-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Exception for trade, business or profession"
+   },
+   "text": {
+    "en": "10. Regulation 3 does not apply to any medical advertisement that —\n(a)is directed exclusively at a person who may lawfully sell or supply any medicinal product in the course of that person’s trade, business or profession; and\n(b)is not accessible to the general public.\n[S 548/2016 wef 01/11/2016]"
+   }
+  },
+  {
+   "id": "SG-H3134-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Exception for trade, advertisement and public authority"
+   },
+   "text": {
+    "en": "11.—(1) These Regulations shall not apply to —\n(a)a reference advertisement or a trade advertisement; and\n(b)any medical advertisement issued or published by any public authority or any person authorised to issue or publish such advertisement by the Minister.\n(2) In this regulation —\n“reference advertisement” means an advertisement —\n(a)containing a brief description of a medicinal product, its use, or any contra-indications or warnings relating to the medicinal product; and\n(b)appearing without charge in a publication consisting mainly of such advertisements where the publication is sent or delivered to practitioners or pharmacists by a person who is not involved in the sale of or dealings in that medicinal product as a manufacturer, supplier, retailer, importer or exporter;\n“trade advertisement” means an advertisement, relating to a medicinal product, that —\n(a)is in a catalogue, price list or other document for the purpose of supplying the medicinal product by wholesale; and\n(b)does not contain any recommendation relating to the use of the medicinal product other than as part of the name of the medicinal product or part of any heading or sub‑heading indicating a therapeutic classification.\n[S 548/2016 wef 01/11/2016]"
+   }
+  },
+  {
+   "id": "SG-H3134-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Permit number"
+   },
+   "text": {
+    "en": "12. A person who issues or publishes any medical advertisement (including conducting a sales promotion) must ensure that the number of the permit granted in respect of the medical advertisement is displayed on, or on material accompanying, the medical advertisement in accordance with such terms and conditions as the licensing authority may specify in the permit.\n[S 548/2016 wef 01/11/2016]"
+   }
+  },
+  {
+   "id": "SG-H3134-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Alteration, etc., of advertisement"
+   },
+   "text": {
+    "en": "13. A person must not alter or amend the contents of any medical advertisement for which a permit has been granted unless —\n(a)he has made an application in such form as the licensing authority may require to amend the permit to reflect such alteration or amendment; and\n(b)the application is approved by the licensing authority.\n[S 679/2005 wef 01/11/2005]\n[S 548/2016 wef 01/11/2016]"
+   }
+  },
+  {
+   "id": "SG-H3134-A13.001",
+   "no": 13.001,
+   "noLabel": {
+    "en": "13A."
+   },
+   "heading": {
+    "en": "Transfer of permit"
+   },
+   "text": {
+    "en": "13A. A person must not transfer a permit granted under regulation 3 unless —\n(a)the person has made an application in such form as the licensing authority may require to transfer the permit to another person; and\n(b)the application is approved by the licensing authority.\n[S 96/2019 wef 02/04/2019]"
+   }
+  },
+  {
+   "id": "SG-H3134-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "14.—(1) The fees payable for —\n(a)an application for a permit;\n(b)a permit or the renewal of a permit;\n[S 548/2016 wef 01/11/2016]\n[S 96/2019 wef 02/04/2019]\n(c)an application to amend a permit; or\n[S 679/2005 wef 01/11/2005]\n[S 96/2019 wef 02/04/2019]\n(d)an application to transfer one or more permits,\n[S 96/2019 wef 02/04/2019]\nshall be as specified in the Schedule.\n(2) No refund shall be made in respect of any fee paid under these Regulations."
+   }
+  },
+  {
+   "id": "SG-H3134-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Penalty"
+   },
+   "text": {
+    "en": "15. Any person who contravenes or fails to comply with regulation 3, 8, 12 or 13 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.\n[S 548/2016 wef 01/11/2016]"
+   }
+  },
+  {
+   "id": "SG-H3134-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRegulation 14(1)\nFees\n1.Application fee for a permit for —\n(a)a medical advertisement using light and sound projection\n$220\n(b)any other medical advertisement that is not a sales promotion\n$111\n2.Application fee for a permit for a sales promotion, in addition to the fee in item 1, if any\n$111\n3.Fee for a permit, for the first year, for —\n(a)a medical advertisement using light and sound projection\n$111\n(b)any other medical advertisement that is not a sales promotion\n$111\n4.Fee for a permit, for the first year, of a sales promotion, in addition to the fee in item 3, if any\n$111\n5.Fee for the renewal of a permit, for each subsequent year, for —\n(a)a medical advertisement using light and sound projection\n$331\n(b)any other medical advertisement that is not a sales promotion\n$222\n6.Fee for the renewal of a permit, for each subsequent year, for a sales promotion, in addition to the fee in item 5, if any\n$222\n7.Fee for an application to amend a permit\n$57\n8.Fee for an application to transfer one or more permits to another person\n$18\n[S 493/2024 wef 01/07/2024]\n[G.N. Nos. S 289/77; S 357/82; S 335/84; S 275/92; S 97/96; S 385/97]"
+   }
+  }
+ ]
+}

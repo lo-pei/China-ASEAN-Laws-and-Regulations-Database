@@ -1,0 +1,64 @@
+{
+ "id": "PH-H1262",
+ "title": {
+  "zh": null,
+  "en": "An Act to Create the Municipality of Lapinig in the Province of Samar",
+  "orig": "An Act to Create the Municipality of Lapinig in the Province of Samar"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p17",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1956-06-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1428",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1967,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1956/ra_1428_1956.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1956/ra_1428_1956.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1262-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There is hereby created in the Province of Samara a municipality to be known as the Municipality of Lapinig, which shall consist of portions of the municipalities of Gamay and Oras and the Municipal District of Jipapad, all in the Province of Samar, more particularly described and bounded as follows:\nOn the north, northwest, and west by a straight line running southwesterly from a point on the shore line half way between the center of the mouth of Gamay River and the poblacion of the barrio of Gamay River with the trail connecting the barrios of Cagamotan and Bagon de Camay, thence southeasterly to appoint one-half kilometer west of the poblacion of the barrio of Can Maria;\nOn the southwest by a straight imaginary line running from the said point one-half kilometer west of Can Maria to a point on Catumsan River southwest of the poblacion of barrio Catumsan;\nOn the southeast by the course of the Catumsan River downstream to the mouth of the said river which is at the Helm Harbor; and On the northeast by the limits of municipal water which Lapinig shall have pursuant to section twenty-three hundred twenty-one of the Revised Administrative Code.\nThe Municipality of Lapinig shall contain the barrios of Cagamotan, Potong, Pio del Pilar, Canomanio, Look, Lapinig, Can Maria and Catumsan, and the sitios of Cahagwayan, Palanas and Mabini, and shall have its seat of government at the barrio of Lapinig.\nThe municipalities of Gamay and Oras and the Municipal District of Jipapad shall have their present territories minus the respective portion thereof included in the Municipality of Lapinig.\nThe first mayor, vice-mayor and councilors of the Municipality of Lapinig shall be appointed by the President of the Philippines and shall hold office until their successors shall have been elected in the next regular election for provincial and municipal officials and shall have qualified."
+   }
+  },
+  {
+   "id": "PH-H1262-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1956."
+   }
+  }
+ ]
+}

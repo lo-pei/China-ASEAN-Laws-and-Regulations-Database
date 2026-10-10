@@ -1,0 +1,318 @@
+{
+ "id": "MY-H016",
+ "title": {
+  "zh": "2006年电子商务法",
+  "en": "ELECTRONIC COMMERCE ACT 2006",
+  "orig": null
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-p01",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2006",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysi",
+ "docNumber": "Act 658",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 24,
+ "chars": 12086,
+ "source": {
+  "name": "Attorney General's Chambers (AGC) Malaysia — Laws of Malaysia (lom.agc.gov.my)",
+  "url": "https://lom.agc.gov.my/processFile.php?token=aHR0cHM6Ly9sb20uYWdjLmdvdi5teS9pbGltcy91cGxvYWQvcG9ydGFsL2FrdGEvb3V0cHV0YWt0YXAvNjcwX0JJL0FjdCA2NTggQklfdW5sb2NrZWQucGRmfDgwNTAxNWMxMWI4ZWIyNmRmYjc5NDExZjEwN2YxYWE2Y2EwZjBjZTU1NmYzMWZhN2E1MWY0YzM2MThjNDg4ODI%3D"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "全文，共 24 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "MY-H016-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Article 6"
+   },
+   "text": {
+    "en": "(1) Any information shall not be denied legal effect, validity or enforceability on the ground that it is wholly or partly in an electronic form.\n(2) Any information shall not be denied legal effect, validity or enforceability on the ground that the information is not contained in the electronic message that gives rise to such legal effect, but is merely referred to in that electronic message, provided that the information being referred to is accessible to the person against whom the referred information might be used.\nFormation and validity of contract"
+   }
+  },
+  {
+   "id": "MY-H016-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Article 7"
+   },
+   "text": {
+    "en": "(1) In the formation of a contract, the communication of proposals, acceptance of proposals, and revocation of proposals and acceptances or any related communication may be expressed by an electronic message.\n(2) A contract shall not be denied legal effect, validity or enforceability on the ground that an electronic message is used in its formation.\nLaws of Malaysia8 ACT 658 PART III FULFILMENT OF LEGAL REQUIREMENTS BY ELECTRONIC MEANS Writing"
+   }
+  },
+  {
+   "id": "MY-H016-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Article 8"
+   },
+   "heading": {
+    "en": "Where any law requires information to be in writing, the"
+   },
+   "text": {
+    "en": "requirement of the law is fulfilled if the information is contained in an electronic message that is accessible and intelligible so as to be usable for subsequent reference.\nSignature"
+   }
+  },
+  {
+   "id": "MY-H016-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Article 9"
+   },
+   "text": {
+    "en": "(1) Where any law requires a signature of a person on a document, the requirement of the law is fulfilled, if the document is in the form of an electronic message, by an electronic signature which—\n(a) is attached to or is logically associated with the electronic message;\n(b) adequately identifies the person and adequately indicates the person’s approval of the information to which the signature relates; and\n(c) is as reliable as is appropriate given the purpose for which, and the circumstances in which, the signature is required.\n(2) For the purposes of paragraph (1) (c), an electronic signature is as reliable as is appropriate if—\n(a) the means of creating the electronic signature is linked to and under the control of that person only;\n(b) any alteration made to the electronic signature after the time of signing is detectable; and\n(c) any alteration made to that document after the time of signing is detectable.\n(3) The Digital Signature Act 1997 [ Act 562 ] shall continue to apply to any digital signature used as an electronic signature in any commercial transaction.\nElectronic Commerce 9 Seal"
+   }
+  },
+  {
+   "id": "MY-H016-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Article 10"
+   },
+   "text": {
+    "en": "(1) Where any law requires a seal to be affixed to a document, the requirement of the law is fulfilled, if the document is in the form of an electronic message, by a digital signature as provided under the Digital Signature Act 1997.\n(2) Notwithstanding subsection (1), the Minister may, by order in the Gazette , prescribe any other electronic signature that fulfills the requirement of affixing a seal in an electronic message.\nWitness"
+   }
+  },
+  {
+   "id": "MY-H016-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Article 11"
+   },
+   "heading": {
+    "en": "Where any law requires the signature of a witness on a"
+   },
+   "text": {
+    "en": "document, the requirement of the law is fulfilled, if the document is in the form of an electronic message, by an electronic signature of the witness that complies with the requirements of\nsection 9.\nOriginal"
+   }
+  },
+  {
+   "id": "MY-H016-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Article 12"
+   },
+   "text": {
+    "en": "(1) Where any law requires any document to be in its original form, the requirement of the law is fulfilled by a document in the form of an electronic message if—\n(a) there exists a reliable assurance as to the integrity of the information contained in the electronic message from the time it is first generated in its final form; and\n(b) the electronic message is accessible and intelligible so as to be usable for subsequent reference.\n(2) For the purposes of paragraph (1) (a)—\n(a) the criteria for assessing the integrity of the information shall be whether the information has remained complete and unaltered, apart from the addition of any endorsement or any change which arises in the normal course of communication, storage and display; and\n(b) the standard of reliability required shall be assessed in the light of the purpose for which the document was generated and in the light of all other relevant circumstances.\nLaws of Malaysia10 ACT 658 Retention of document"
+   }
+  },
+  {
+   "id": "MY-H016-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Article 13"
+   },
+   "heading": {
+    "en": "Where any law requires any document to be retained, the"
+   },
+   "text": {
+    "en": "requirement of the law is fulfilled by retaining the document in the form of an electronic message if the electronic message—\n(a) is retained in the format in which it is generated, sent or received, or in a format that does not materially change the information contained in the electronic message that was originally generated, sent or received;\n(b) is accessible and intelligible so as to be usable for subsequent reference; and\n(c) identifies the origin and destination of the electronic message and the date and time it is sent or received.\nCopy"
+   }
+  },
+  {
+   "id": "MY-H016-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Article 14"
+   },
+   "heading": {
+    "en": "Where any law requires any document to be retained, served,"
+   },
+   "text": {
+    "en": "sent or delivered in more than one copy, the requirement of the law is fulfilled, if the document is in the form of an electronic message, by retention, service, sending or delivery of the document in one copy.\nPrescribed form"
+   }
+  },
+  {
+   "id": "MY-H016-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Article 15"
+   },
+   "heading": {
+    "en": "Where any law requires any document to be in a prescribed"
+   },
+   "text": {
+    "en": "form, the requirement of the law is fulfilled by a document in the form of an electronic message if the electronic message is—\n(a) formatted in the same or substantially the same way as the prescribed form;\n(b) accessible and intelligible so as to be usable for subsequent reference; and\n(c) capable of being retained by the other person.\nService and delivery"
+   }
+  },
+  {
+   "id": "MY-H016-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Article 16"
+   },
+   "text": {
+    "en": "(1) Where any law requires any document to be served, sent or delivered, the requirement of the law is fulfilled by the Electronic Commerce 11 service, sending or delivery of the document by an electronic means if an information processing system is in place—\n(a) to identify the origin, destination, time and date of service, sending or delivery; and\n(b) for the acknowledgement of receipt, of the document.\n(2) This section does not apply to—\n(a) any notice of default, notice of demand, notice to show cause, notice of repossession or any similar notices which are required to be served prior to commencing a legal proceeding; and\n(b) any originating process, pleading, affidavit or other documents which are required to be served pursuant to a legal proceeding.\nPART IV\nCOMMUNICATION OF ELECTRONIC MESSAGE\nAttribution of electronic message"
+   }
+  },
+  {
+   "id": "MY-H016-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Article 17"
+   },
+   "text": {
+    "en": "(1) An electronic message is that of the originator if it is sent by the originator himself.\n(2) As between the originator and the addressee, an electronic message is deemed to be that of the originator if it is sent by—\n(a) a person who has the authority to act on behalf of the originator in respect of that electronic message; or\n(b) an information processing system programmed by, or on behalf of, the originator to operate automatically.\n(3) As between the originator and the addressee, the addressee is entitled to regard an electronic message as being that of the originator, and to act on that presumption, if—\n(a) the addressee properly applies an authentication method agreed between the originator and the addressee for ascertaining whether the electronic message was that of the originator; or Laws of Malaysia12 ACT 658\n(b) the electronic message as received by the addressee resulted from the actions of a person whose relationship with the originator or any agent of the originator enabled that person to gain access to an authentication method used by the originator to identify electronic message as its own.\n(4) Subsection (3) does not apply if—\n(a) the addressee has received a notice from the originator that the electronic message is not that of the originator and has reasonable time to act accordingly; or\n(b) the addressee knew or should have known that the electronic message was not that of the originator had he exercised reasonable care or used any authentication method agreed between the originator and the addressee.\nContents of electronic message"
+   }
+  },
+  {
+   "id": "MY-H016-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Article 18"
+   },
+   "heading": {
+    "en": "Where an addressee receives an electronic message, the"
+   },
+   "text": {
+    "en": "addressee is entitled to regard the electronic message as being what the originator intended to send, and to act on that presumption, unless the addressee knew or should have known, had he exercised reasonable care or used any agreed procedure, that the transmission resulted in any error in the electronic message as received.\nEach electronic message to be regarded separately"
+   }
+  },
+  {
+   "id": "MY-H016-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Article 19"
+   },
+   "heading": {
+    "en": "Where an addressee receives an electronic message, the"
+   },
+   "text": {
+    "en": "addressee is entitled to regard each electronic message received as a separate electronic message and to act on that presumption, unless the addressee knew or should have known, had he exercised reasonable care or used any agreed procedure, that the electronic message was a duplicate.\nTime of dispatch"
+   }
+  },
+  {
+   "id": "MY-H016-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Article 20"
+   },
+   "heading": {
+    "en": "Unless otherwise agreed between the originator and the"
+   },
+   "text": {
+    "en": "addressee, an electronic message is deemed sent when it enters an information processing system outside the control of the originator.\nElectronic Commerce 13 Time of receipt"
+   }
+  },
+  {
+   "id": "MY-H016-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Article 21"
+   },
+   "heading": {
+    "en": "Unless otherwise agreed between the originator and the"
+   },
+   "text": {
+    "en": "addressee, an electronic message is deemed received—\n(a) where the addressee has designated an information processing system for the purpose of receiving electronic messages, when the electronic message enters the designated information processing system; or\n(b) where the addressee has not designated an information processing system for the purpose of receiving electronic messages, when the electronic message comes to the knowledge of the addressee.\nPlace of dispatch"
+   }
+  },
+  {
+   "id": "MY-H016-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Article 22"
+   },
+   "heading": {
+    "en": "Unless otherwise agreed between the originator and the"
+   },
+   "text": {
+    "en": "addressee, an electronic message is deemed sent from the originator’s place of business, and—\n(a) where the originator has more than one place of business, from the place of business that has the closest relationship with the transaction or where there is no place of business that has the closest relationship with the transaction, from the originator’s principal place of business; or\n(b) where the originator does not have a place of business, from the originator’s ordinary place of residence.\nPlace of receipt"
+   }
+  },
+  {
+   "id": "MY-H016-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Article 23"
+   },
+   "heading": {
+    "en": "Unless otherwise agreed between the originator and the"
+   },
+   "text": {
+    "en": "addressee, an electronic message is deemed received at the addressee’s place of business, and—\n(a) where the addressee has more than one place of business, at the place of business that has the closest relationship with the transaction or where there is no place of business that has the closest relationship with the underlying transaction, at the addressee’s principal place of business; or\n(b) where the addressee does not have a place of business, at the addressee’s ordinary place of residence.\nLaws of Malaysia14 ACT 658 Acknowledgement of receipt"
+   }
+  },
+  {
+   "id": "MY-H016-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Article 24"
+   },
+   "text": {
+    "en": "(1) This section applies where, on or before sending an electronic message, or in the electronic message, the originator has requested or agreed with the addressee that receipt of the electronic message is to be acknowledged.\n(2) Where the originator has requested or agreed with the addressee that receipt of the electronic message is to be acknowledged, the electronic message is treated as though it has never been sent until the acknowledgement is received.\n(3) Where the originator has not agreed with the addressee that the acknowledgement be given in a particular form or by a particular method, an acknowledgement may be given by—\n(a) any communication by the addressee, automated or otherwise; or\n(b) any conduct of the addressee sufficient to indicate to the originator that the electronic message has been received.\n(4) Where the acknowledgement has not been received by the originator within the time specified or agreed or, if no time has been specified or agreed, within a reasonable time, the originator may—\n(a) give notice to the addressee stating that no acknowledgement has been received and specifying a reasonable time by which the acknowledgement must be received; and\n(b) if the acknowledgement is not received within the time specified in paragraph (a), give notice to the addressee to treat the electronic message as though it had never been sent and exercise any other rights he may have.\n(5) Where the originator receives the addressee’s acknowledgement of receipt, it is presumed that the addressee received the related electronic message.\n(6) Where the received acknowledgement states that the related electronic message fulfills technical requirements, either agreed upon or set forth in applicable standards, it is presumed that those requirements have been fulfilled.\nElectronic Commerce 15 DICETAK OLEH PERCETAKAN NASIONAL MALAYSIA BERHAD, KUALA LUMPUR BAGI PIHAK DAN DENGAN PERINTAH KERAJAAN MALAYSIA PART V MISCELLANEOUS Regulations"
+   }
+  },
+  {
+   "id": "MY-H016-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Article 25"
+   },
+   "heading": {
+    "en": "The Minister may make such regulations as are necessary"
+   },
+   "text": {
+    "en": "or expedient for giving full effect to the provisions of this Act.\nSCHEDULE (Section 2) This Act shall not apply to the following transactions or documents:"
+   }
+  },
+  {
+   "id": "MY-H016-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "Power of attorney"
+   }
+  },
+  {
+   "id": "MY-H016-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Article 2"
+   },
+   "text": {
+    "en": "The creation of wills and codicils"
+   }
+  },
+  {
+   "id": "MY-H016-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Article 3"
+   },
+   "text": {
+    "en": "The creation of trusts"
+   }
+  },
+  {
+   "id": "MY-H016-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Article 4"
+   },
+   "text": {
+    "en": "Negotiable instruments"
+   }
+  }
+ ]
+}

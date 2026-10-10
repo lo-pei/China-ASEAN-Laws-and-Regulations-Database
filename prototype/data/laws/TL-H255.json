@@ -1,0 +1,570 @@
+{
+ "id": "TL-H255",
+ "title": {
+  "zh": "Exercício 请愿权",
+  "en": null,
+  "orig": "Exercício do Direito de Petição"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p05",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2024-05-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 2/2024",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 33,
+ "chars": 17978,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2024/serie_1/SERIE_I_NO_19.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 33 条；逐字取自官方公报 PDF（public/docs/2024/serie_1/SERIE_I_NO_19.pdf）第 459–465 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H255-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO E DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Âmbito"
+   },
+   "text": {
+    "pt": "1.   A presente lei regula e garante o exercício do direito de petição para defesa dos direitos dos cidadãos, da Constituição, das leis ou do interesse geral, mediante a apresentação aos órgãos de soberania ou a quaisquer autoridades públicas, com exceção dos tribunais, de petições, reclamações ou queixas.\n2.   A presente lei não se aplica:\na) À defesa dos direitos e interesses perante os tribunais;\nb) À impugnação dos atos administrativos através de reclamação ou recursos hierárquicos;\nc) Ao direito de queixa ao Provedor de Direitos Humanos e Justiça."
+   }
+  },
+  {
+   "id": "TL-H255-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO E DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Definições"
+   },
+   "text": {
+    "pt": "1.  Para efeitos da presente lei, entende-se por:\na) “Petição”, em geral, a apresentação de um pedido ou de uma proposta, a um órgão de soberania ou a qualquer autoridade pública, no sentido de que tome, adote ou proponha determinadas medidas;\nb) “Reclamação”, a impugnação de um ato perante o órgão, funcionário ou agente que o praticou ou perante o seu superior hierárquico;\nc) “Queixa”, a denúncia de qualquer inconstitucionalidade ou ilegalidade, bem como do funcionamento anómalo de qualquer serviço, com vista à adoção de medidas contra os responsáveis.\n2.  As petições, reclamações e queixas dizem-se coletivas quando apresentadas por um conjunto de pessoas através de um único instrumento e em nome coletivo quando apresentadas por uma pessoa coletiva em representação dos respetivos membros.\n3.  Sempre que nesta lei se empregue unicamente o termo “petição”, entende-se que o mesmo se aplica a todas as modalidades referidas no presente artigo."
+   }
+  },
+  {
+   "id": "TL-H255-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO E DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Titularidade"
+   },
+   "text": {
+    "pt": "1.   O direito de petição, enquanto instrumento de participação política democrática, é um direito exclusivo do cidadão timorense.\n2.  Gozam igualmente do direito de petição:\na) Os estrangeiros e os apátridas que residam em Timor- Leste para defesa dos seus direitos e interesses legalmente protegidos;\nb) As pessoas coletivas nacionais.\n3.   O direito de petição é exercido individual ou coletivamente."
+   }
+  },
+  {
+   "id": "TL-H255-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO E DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Cumulação"
+   },
+   "text": {
+    "pt": "O direito de petição é cumulável com outros meios de defesa de direitos e interesses previstos na Constituição e na lei e não pode ser limitado ou restringido no seu exercício por qualquer órgão de soberania ou por qualquer autoridade pública."
+   }
+  },
+  {
+   "id": "TL-H255-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO E DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Universalidade e gratuitidade"
+   },
+   "text": {
+    "pt": "1.   A apresentação de petições constitui direito universal.\n2.   A apresentação de petições é gratuita e não pode, em caso algum, dar lugar ao pagamento de quaisquer impostos ou taxas."
+   }
+  },
+  {
+   "id": "TL-H255-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO E DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Liberdade de petição"
+   },
+   "text": {
+    "pt": "1.   Nenhuma entidade, pública ou privada, pode proibir ou por qualquer forma impedir ou dificultar o exercício do direito de petição, designadamente na livre recolha de assinaturas e na prática dos demais atos necessários, salvo se o seu exercício violar quaisquer outras normas legais.\n2.   O disposto no número anterior não prejudica a faculdade de verificação, completa ou por amostragem, da autenticidade das assinaturas e da identificação dos subscritores."
+   }
+  },
+  {
+   "id": "TL-H255-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO E DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Garantias"
+   },
+   "text": {
+    "pt": "1.   Ninguém pode ser prejudicado, privilegiado ou privado de qualquer direito em virtude do exercício do direito de petição.\n2.   O disposto no número anterior não exclui a responsabilidade criminal, civil e disciplinar do peticionário se do seu exercício resultar ofensa ilegítima de interesse legalmente protegido."
+   }
+  },
+  {
+   "id": "TL-H255-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO E DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Dever de exame e comunicação"
+   },
+   "text": {
+    "pt": "1.   A entidade destinatária da petição tem o dever de receber e examinar as petições, bem como de comunicar por escrito aos peticionários as decisões que forem tomadas.\n2.  O erro na qualificação da modalidade do direito de petição, de entre as que se referem no artigo 2.º, não justifica a recusa da sua apreciação pela entidade destinatária.\n3.  Os peticionários indicam um único endereço para efeito das comunicações previstas na presente lei.\n4.  Quando o direito de petição for exercido coletivamente, as comunicações e notificações, efetuadas nos termos do número anterior, consideram-se válidas quanto à totalidade dos peticionários.\n5.   As comunicações e notificações são feitas na língua em que a petição tiver sido apresentada."
+   }
+  },
+  {
+   "id": "TL-H255-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II REQUISITOS FORMAIS E PROCEDIMENTO"
+   },
+   "heading": {
+    "pt": "Requisitos formais"
+   },
+   "text": {
+    "pt": "1.  As petições devem ser redigidas numa das duas línguas oficiais.\n2.   As petições devem ser inteligíveis e especificar claramente o seu objeto.\n3.   Os peticionários devem indicar os seguintes elementos:\na) Nome completo;\nb) Nacionalidade;\nc) Número de bilhete de identidade ou de cartão eleitoral ou de passaporte;\nd) Residência;\ne) Número de telefone.\n4.   Os peticionários podem também indicar facultativamente o seu endereço de correio eletrónico.\n5.   As petições devem ser assinadas pelo seu titular ou por outrem a seu rogo, se aquele não souber ou puder assinar.\n6.   Em caso de petição coletiva ou em nome coletivo, é suficiente a identificação completa de um dos signatários; porém, no caso de petição coletiva, deve ser feita a indicação do número do bilhete de identidade dos demais signatários.\n7.   As petições podem ser entregues presencialmente ou enviadas por via postal, correio eletrónico ou outro meio de telecomunicação.\n8.   A entidade destinatária da petição pode solicitar aos serviços competentes da Administração Pública a verificação administrativa, por amostragem, da autenticidade da identificação dos subscritores da petição."
+   }
+  },
+  {
+   "id": "TL-H255-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II REQUISITOS FORMAIS E PROCEDIMENTO"
+   },
+   "heading": {
+    "pt": "Apresentação da petição no território nacional"
+   },
+   "text": {
+    "pt": "1.   As petições devem, em regra, ser apresentadas nos serviços das entidades a quem são dirigidas.\n2.   As petições dirigidas a órgãos centrais de entidades públicas podem ser apresentadas nos serviços dos respetivos órgãos locais, quando os interessados residam na respetiva área ou nela se encontrem.\n3.   As petições apresentadas nos termos do número anterior são remetidas, pelo registo do correio, aos órgãos a quem sejam dirigidas no prazo de 24 horas após a sua entrega, com a indicação da data desta."
+   }
+  },
+  {
+   "id": "TL-H255-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II REQUISITOS FORMAIS E PROCEDIMENTO"
+   },
+   "heading": {
+    "pt": "Apresentação da petição no estrangeiro"
+   },
+   "text": {
+    "pt": "1.   As petições podem também ser apresentadas nos serviços das representações diplomáticas e consulares timorenses no país em que se encontrem ou residam os interessados.\n2.   As representações diplomáticas ou consulares remeterão os requerimentos às entidades a quem sejam dirigidas, num prazo máximo de 10 dias."
+   }
+  },
+  {
+   "id": "TL-H255-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II REQUISITOS FORMAIS E PROCEDIMENTO"
+   },
+   "heading": {
+    "pt": "Receção da petição"
+   },
+   "text": {
+    "pt": "Todas as petições destinadas a um órgão de soberania ou a qualquer autoridade pública, independentemente da sua forma, teor ou meio de remessa, devem ser registadas pelos serviços competentes e delas deve passar-se um comprovativo de receção."
+   }
+  },
+  {
+   "id": "TL-H255-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II REQUISITOS FORMAIS E PROCEDIMENTO"
+   },
+   "heading": {
+    "pt": "Indeferimento liminar"
+   },
+   "text": {
+    "pt": "1.  A petição é liminarmente indeferida quando for manifesto que a pretensão deduzida:\na) É ilegal;\nb) Não preenche os requisitos previstos no artigo 9.º;\nc) Visa a reapreciação de decisões dos tribunais ou de atos administrativos insuscetíveis de recurso;\nd) Visa a reapreciação, pela mesma entidade, de casos já anteriormente apreciados na sequência do exercício do direito de petição, salvo se forem invocados ou tiverem ocorrido novos elementos de apreciação.\n2.   A petição é ainda liminarmente indeferida se:\na) For apresentada a coberto de anonimato e do seu exame não for possível a identificação da pessoa ou pessoas de quem provém;\nb) O seu conteúdo for manifestamente injurioso;\nc) Carecer de qualquer fundamento."
+   }
+  },
+  {
+   "id": "TL-H255-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II REQUISITOS FORMAIS E PROCEDIMENTO"
+   },
+   "heading": {
+    "pt": "Aperfeiçoamento"
+   },
+   "text": {
+    "pt": "1.   A entidade destinatária convida o peticionário a completar o documento por escrito ou a vir ao processo suprir qualquer deficiência quando:\na) Aquele não apresente corretamente os requisitos previstos no n.º 3 do artigo 9.º;\nb) O texto seja ininteligível ou não especifique o objeto da petição.\n2.   Para os efeitos do número anterior, a entidade destinatária fixa um prazo de até 30 dias, com a advertência de que o não suprimento das deficiências apontadas determina o arquivamento da petição."
+   }
+  },
+  {
+   "id": "TL-H255-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II REQUISITOS FORMAIS E PROCEDIMENTO"
+   },
+   "heading": {
+    "pt": "Tramitação"
+   },
+   "text": {
+    "pt": "1.  A entidade que recebe a petição, se não ocorrer o indeferimento liminar previsto no artigo 13.º, decide sobre o seu conteúdo, com a máxima brevidade compatível com a complexidade do assunto nele versado, e, conforme os casos, toma as providências adequadas à satisfação da pretensão ou arquiva o processo.\n2.   Se a mesma entidade se julgar incompetente para conhecer da matéria que é objeto da petição, remete-a à entidade para o efeito competente, informando do facto o autor da petição.\n3.   Para ajuizar sobre os fundamentos invocados, a entidade competente pode proceder às averiguações que se mostrem necessárias."
+   }
+  },
+  {
+   "id": "TL-H255-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II REQUISITOS FORMAIS E PROCEDIMENTO"
+   },
+   "heading": {
+    "pt": "Desistência"
+   },
+   "text": {
+    "pt": "1.  O peticionário pode, a todo o tempo, desistir da petição, mediante requerimento escrito apresentado perante a entidade que recebeu a petição ou perante aquela que a esteja a examinar.\n2.   Quando sejam vários os peticionários, o requerimento deve ser assinado por todos eles.\n3.   A entidade competente para o exame da petição decide se deve aceitar o requerimento, declarar finda a petição e proceder ao seu arquivamento ou se, dada a matéria objeto da mesma, se justifica o seu prosseguimento para defesa do interesse público."
+   }
+  },
+  {
+   "id": "TL-H255-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PETIÇÕES  DIRIGIDAS  AO  PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Forma"
+   },
+   "text": {
+    "pt": "É aplicável às petições dirigidas ao Parlamento Nacional o disposto no artigo 9.º."
+   }
+  },
+  {
+   "id": "TL-H255-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PETIÇÕES  DIRIGIDAS  AO  PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Competência para apreciação"
+   },
+   "text": {
+    "pt": "As petições são dirigidas ao Presidente do Parlamento Nacional e apreciadas pelas comissões competentes em razão da matéria ou por comissão especialmente constituída para o efeito, que pode ouvir aquelas, e pelo Plenário, nos casos previstos na presente lei."
+   }
+  },
+  {
+   "id": "TL-H255-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PETIÇÕES  DIRIGIDAS  AO  PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Registo e apreciação preliminar"
+   },
+   "text": {
+    "pt": "1.  As petições são numeradas e registadas pelo serviço competente do Secretariado-Geral do Parlamento Nacional.\n2.   Recebida a petição, é esta remetida à comissão que procede ao seu exame para verificar e decidir o seguinte:\na) Se ocorre alguma das causas legalmente previstas que determinem o indeferimento liminar;\nb) Se foram observados os requisitos previstos no artigo\n9.º.\n3.  O indeferimento liminar implica o seu arquivamento, sendo notificado o peticionário ou o primeiro dos subscritores da decisão.\n4.   A comissão pode, no entanto, fixar um prazo de até 30 dias, aos peticionários, para suprirem qualquer deficiência no cumprimento dos requisitos formais."
+   }
+  },
+  {
+   "id": "TL-H255-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PETIÇÕES  DIRIGIDAS  AO  PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Registo informático"
+   },
+   "text": {
+    "pt": "1.   Por forma a assegurar a gestão e publicitação adequadas das petições que lhe sejam remetidas, o Parlamento Nacional organiza e mantém atualizado um sistema de registo informático da receção e tramitação de petições.\n2.  O Parlamento Nacional disponibiliza uma plataforma eletrónica para a receção de petições e recolha de assinaturas pela internet, a qual contém uma declaração de aceitação dos termos e condições da sua utilização pelos peticionários, com indicação dos prazos de recolha de assinaturas.\n3.    A existência da plataforma a que se refere o número anterior não prejudica a recolha cumulativa ou alternativa de assinaturas em suporte de papel ou através de outras plataformas eletrónicas que garantam o cumprimento das exigências legais.\n4.    O Parlamento Nacional verifica a validade dos endereços de correio eletrónico, cuja indicação é obrigatória pelos subscritores que utilizam a plataforma eletrónica.\n5.   O Parlamento Nacional disponibiliza informação completa sobre as petições apresentadas, incluindo o seu texto integral e respetiva tramitação."
+   }
+  },
+  {
+   "id": "TL-H255-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PETIÇÕES  DIRIGIDAS  AO  PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Efeitos"
+   },
+   "text": {
+    "pt": "1.   Do exame das petições e dos respetivos elementos pode resultar o seguinte:\na) A apreciação da petição pelo Plenário;\nb) A remessa, por cópia, à entidade competente em razão da matéria para a sua apreciação e para a eventual tomada de decisão, com conhecimento ao peticionário;\nc) O conhecimento dado ao ministro competente em razão da matéria, através do Primeiro-Ministro, para eventual medida legislativa ou administrativa;\nd) O conhecimento dado a qualquer outra autoridade competente em razão da matéria na perspetiva de ser tomada qualquer medida conducente à solução do problema suscitado;\ne) A remessa ao Procurador-Geral da República, no pressuposto da existência de indícios para o exercício de ação penal; f) A sua remessa aos órgãos de investigação criminal, no pressuposto da existência de indícios que justifiquem uma investigação policial;\ng) A sua remessa ao Provedor de Direitos Humanos e Justiça, para os efeitos do disposto no artigo 27.º da Constituição;\nh) A remessa à Defensoria Pública para dar assistência legal; (i) A iniciativa de inquérito parlamentar; j) A apresentação por qualquer deputado ou bancada parlamentar de projeto de lei ou de resolução contendo medida legislativa ou recomendação que se mostre justificada;\nk) A remessa, conforme o caso, ao Conselho Superior da Magistratura Judicial ou ao Conselho Superior do Ministério Público, quando digam respeito à administração da Justiça; l) A informação ao peticionário de direitos que revele desconhecer, de vias que eventualmente possa seguir ou de atitudes que eventualmente possa tomar para obter o reconhecimento de um direito, a proteção de um interesse ou a reparação de um prejuízo;\nm) O esclarecimento dos peticionários, ou do público em geral, sobre qualquer ato do Estado e demais entidades públicas relativo à gestão dos assuntos públicos que a petição tenha colocado em causa ou em dúvida;\nn) O seu arquivamento, com conhecimento ao peticionário ou peticionários.\n2.   As diligências previstas nas alíneas b), c) d), e), f), g), h), k), l), m) e n) do número anterior são efetuadas pelo Presidente do Parlamento Nacional, a solicitação e sob proposta da comissão."
+   }
+  },
+  {
+   "id": "TL-H255-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PETIÇÕES  DIRIGIDAS  AO  PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Exame pela comissão parlamentar especializada"
+   },
+   "text": {
+    "pt": "1.    A comissão parlamentar deve apreciar as petições no prazo de 90 dias, prorrogável, a contar do exame a que se refere o n.º 2 do artigo 19.º, e elabora um relatório com as providências que julgue adequadas.\n2.  Se ocorrer o caso previsto no n.º 4 do artigo 19.º, o prazo estabelecido só começa a correr na data em que se mostrem supridas as deficiências verificadas.\n3.   A comissão parlamentar pode ouvir os peticionários, solicitar depoimentos de quaisquer cidadãos e requerer e obter informações e documentos de outros órgãos de soberania ou de quaisquer entidades públicas ou privadas, podendo igualmente solicitar à Administração Publica as diligências que se mostrem necessárias.\n4.   Os poderes referidos no número anterior são exercidos sem prejuízo das disposições legais relativas ao segredo de Estado, segredo de justiça ou sigilo profissional.\n5.  Após exame da questão suscitada pelo peticionário, a comissão parlamentar pode solicitar, sob proposta do relator, que as entidades competentes tomem posição sobre a matéria.\n6.  O cumprimento do solicitado tem prioridade em relação a quaisquer outros serviços da Administração Pública, devendo ser efetuado no prazo máximo de 30 dias.\n7.   As solicitações previstas no presente artigo devem referir a presente lei e transcrever o número anterior, bem como a imputação prevista no artigo 25.º."
+   }
+  },
+  {
+   "id": "TL-H255-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PETIÇÕES  DIRIGIDAS  AO  PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Audição dos peticionários"
+   },
+   "text": {
+    "pt": "1.   A audição dos peticionários, durante o exame e instrução, é obrigatória, perante a comissão parlamentar, sempre que a petição seja subscrita por mais de 500 cidadãos.\n2.   A audição pode ainda ser decidida pela comissão parlamentar, por razões de mérito, devidamente fundamentadas, tendo em conta, em especial, o âmbito dos interesses em causa, a sua importância social, económica ou cultural e a gravidade da situação objeto da petição.\n3.  O disposto nos números anteriores não prejudica as diligências que o relator entenda fazer para obtenção de esclarecimento e preparação do relatório, incluindo junto dos peticionários."
+   }
+  },
+  {
+   "id": "TL-H255-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PETIÇÕES  DIRIGIDAS  AO  PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Diligência conciliatória"
+   },
+   "text": {
+    "pt": "1.    Concluídos os atos previstos no artigo anterior, a comissão pode realizar uma diligência conciliatória, precedendo devida fundamentação.\n2.   Havendo diligência conciliatória, o presidente da comissão parlamentar convida a entidade em causa no sentido de poder corrigir a situação ou reparar as situações que deram origem à petição."
+   }
+  },
+  {
+   "id": "TL-H255-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PETIÇÕES  DIRIGIDAS  AO  PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Dever de colaboração"
+   },
+   "text": {
+    "pt": "1.  Constituem crime de desobediência, sem prejuízo do procedimento disciplinar que no caso couber, a falta de comparência injustificada, a recusa de depoimento ou o não cumprimento de diligência solicitada à Administração Pública.\n2.  A falta de comparência injustificada por parte dos peticionários pode ter como consequência o arquivamento do respetivo processo."
+   }
+  },
+  {
+   "id": "TL-H255-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PETIÇÕES  DIRIGIDAS  AO  PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Apreciação pelo Plenário"
+   },
+   "text": {
+    "pt": "1.   A apreciação em Plenário da petição depende da apresentação de uma das seguintes condições:\na) Seja subscrita por um mínimo de 500 cidadãos;\nb) Seja aprovado parecer favorável pela comissão competente em razão da matéria, fundado, especialmente, no âmbito dos interesses em causa, a sua importância social, económica ou cultural e a gravidade da situação objeto da petição.\n2.   As petições que nos termos do número anterior devam ser apreciadas pelo Plenário são remetidas ao Presidente do Parlamento Nacional para agendamento, acompanhadas dos relatórios da comissão, devidamente fundamentados, e de elementos instrutórios, se os houver, intervindo seguidamente um representante de cada bancada parlamentar pelo tempo a fixar pela Conferência dos Representantes das Bancadas Parlamentares.\n3.    A matéria constante da petição não é submetida a votação, mas, com base nela, qualquer deputado ou bancada parlamentar pode apresentar uma iniciativa nos termos regimentais.\n4.   Aquando da apreciação da iniciativa a que se refere o número anterior, se esta ocorrer em momento posterior à apreciação da petição que lhe deu lugar, é esta avocada.\n5. Do que se passar é dado conhecimento ao primeiro signatário da petição."
+   }
+  },
+  {
+   "id": "TL-H255-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PETIÇÕES  DIRIGIDAS  AO  PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Comunicação ao autor ou autores da petição"
+   },
+   "text": {
+    "pt": "O Presidente do Parlamento Nacional comunica, por escrito, ao autor ou ao primeiro dos autores da petição o relatório da comissão parlamentar e as diligências subsequentes que tenham sido adotadas."
+   }
+  },
+  {
+   "id": "TL-H255-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PETIÇÕES  DIRIGIDAS  AO  PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Não caducidade"
+   },
+   "text": {
+    "pt": "As petições não apreciadas na legislatura em que foram apresentadas não carecem de ser renovadas na legislatura seguinte."
+   }
+  },
+  {
+   "id": "TL-H255-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PETIÇÕES  DIRIGIDAS  AO  PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Publicação"
+   },
+   "text": {
+    "pt": "1.  Todas as petições, reclamações e queixas são publicadas no Jornal do Parlamento Nacional ou no sítio da internet do Parlamento Nacional, após sua admissão pela comissão parlamentar em sede de exame preliminar.\n2.   São igualmente publicados os relatórios relativos às petições referidas no número anterior."
+   }
+  },
+  {
+   "id": "TL-H255-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PETIÇÕES  DIRIGIDAS  AO  PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Informação ao Plenário"
+   },
+   "text": {
+    "pt": "1.  Em cada sessão legislativa do Parlamento Nacional é apresentada uma informação sumária sobre as petições, queixas e reclamações que tenham dado entrada, bem como do tratamento que tenham merecido.\n2.   A responsabilidade pela elaboração da informação cabe ao Secretário da Mesa do Parlamento Nacional, assistido pelos serviços competentes."
+   }
+  },
+  {
+   "id": "TL-H255-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III PETIÇÕES  DIRIGIDAS  AO  PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Implementação do sistema eletrónico"
+   },
+   "text": {
+    "pt": "As normas que careçam da implementação de um sistema eletrónico só produzem efeitos 90 dias após a entrada em vigor da presente lei."
+   }
+  },
+  {
+   "id": "TL-H255-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Regulamentação complementar"
+   },
+   "text": {
+    "pt": "No âmbito das respetivas competências constitucionais, os órgãos e autoridades abrangidos pela presente lei devem elaborar normas e outras medidas tendentes ao seu eficaz cumprimento."
+   }
+  },
+  {
+   "id": "TL-H255-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

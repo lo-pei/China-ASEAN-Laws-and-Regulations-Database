@@ -1,0 +1,820 @@
+{
+ "id": "SG-H2913",
+ "title": {
+  "zh": null,
+  "en": "Intoxicating Substances Act 1987",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p37",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act ISA1987",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 49,
+ "chars": 45221,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/ISA1987?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 49 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2913-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Intoxicating Substances Act 1987."
+   }
+  },
+  {
+   "id": "SG-H2913-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“approved centre” means any place or premises declared by the Minister to be an approved centre under section 18;\n“article liable to seizure” means anything by means of or in respect of which an offence under this Act has been committed or which contains evidence of an offence under this Act;\n“Commissioner of Prisons” means the Commissioner of Prisons appointed under section 20 of the Prisons Act 1933;\n“Director” means the Director of the Central Narcotics Bureau appointed under section 3(1) of the Misuse of Drugs Act 1973 and includes any Deputy Director of the Bureau;\n“Health Sciences Authority” means the Health Sciences Authority established under the Health Sciences Authority Act 2001;\n“inmate” means a person who is detained in an approved centre;\n“intoxicating substance” means any substance having the property of releasing toxic vapours or fumes which contain any chemical compound specified in the Schedule and which when inhaled induces or causes a state of intoxication;\n“officer of the Bureau” means the Director or any person appointed under section 3 of the Misuse of Drugs Act 1973 as a Deputy Director, an Assistant Director or an officer of the Central Narcotics Bureau;\n“police officer” has the meaning given by the Police Force Act 2004 and, in relation to a person who is subject to military law under the Singapore Armed Forces Act 1972, includes a military policeman as defined in section 2(1) of that Act;\n“prison officer” has the meaning given by the Prisons Act 1933;\n“Review Committee”, in relation to any approved centre, means the Review Committee appointed for the approved centre under section 20;\n“special police officer” means a member of the Special Constabulary constituted under Part 8 of the Police Force Act 2004;\n“supervision order” means a written order by the Director made under section 16;\n“supervision period” means the period for which a person is placed under supervision pursuant to a supervision order made under section 16;\n“supply” includes having possession for the purpose of supply.\n[3/2006; 1/2014]"
+   }
+  },
+  {
+   "id": "SG-H2913-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 OFFENCES RELATING TO INTOXICATING SUBSTANCES"
+   },
+   "heading": {
+    "en": "Offence of misuse of intoxicating substances"
+   },
+   "text": {
+    "en": "3.—(1) A person must not, for the purpose of inducing or causing in himself or herself a state of intoxication, use or inhale any intoxicating substance.\n(2) Any person who contravenes subsection (1) shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H2913-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 OFFENCES RELATING TO INTOXICATING SUBSTANCES"
+   },
+   "heading": {
+    "en": "Offence of supply of intoxicating substances"
+   },
+   "text": {
+    "en": "4.—(1) A person must not sell or supply or offer to sell or supply an intoxicating substance to any person if the person knows or has reasonable cause to believe that the intoxicating substance is, or its fumes are, likely to be used or inhaled in contravention of section 3(1) by the person to whom the substance is sold or supplied or by another person.\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both."
+   }
+  },
+  {
+   "id": "SG-H2913-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 OFFENCES RELATING TO INTOXICATING SUBSTANCES"
+   },
+   "heading": {
+    "en": "General powers to call for information as to intoxicating substances"
+   },
+   "text": {
+    "en": "5.—(1) The Director may require any person who, in the course of conducting a business, sells or supplies or offers to sell or supply any intoxicating substance to produce such documents, to answer such questions and to provide such information as the Director may consider necessary for the effective exercise of the Director’s powers and performance of the Director’s duties under this Act.\n(2) Any such requisition must be made in writing served on the person to whom it is addressed, and any such service is good service if the requisition —\n(a)is left with that person, or is left with any adult at the usual or last known place of residence or business of that person; or\n(b)is served on that person by post at that person’s usual or last known place of residence or business.\n(3) Every person required to produce any document, answer any question or provide any information must produce the document, answer the question or provide the information within the time that may be stated in the requisition.\n(4) Any person required to produce any document, answer any question or provide any information under this section who —\n(a)without lawful excuse fails to comply with any requisition under this section;\n(b)produces any document which is false in any material particular, or has not been given or made by the person by whom it purports to have been given or made, or has been in any way altered or tampered with; or\n(c)makes any declaration, statement or representation which is false in a material particular,\nshall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H2913-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 EVIDENCE AND ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Protection of informers"
+   },
+   "text": {
+    "en": "6.—(1) Except as provided in subsection (3) —\n(a)no information for an offence under this Act is to be admitted in evidence in any civil or criminal proceedings; and\n(b)no witness in any civil or criminal proceedings is obliged —\n(i)to disclose the name and address of any informer who has given information with respect to an offence under this Act; or\n(ii)to answer any question if the answer would lead, or would tend to lead, to the discovery of the name or address of the informer.\n(2) If any book, document or paper which is in evidence or liable to inspection in any civil or criminal proceedings contain any entry in which any informer is named or described or which may lead to his or her discovery, the court must cause those entries to be concealed from view or to be obliterated so far as may be necessary to protect the informer from discovery.\n(3) If —\n(a)in any proceedings before a court for an offence under this Act, the court, after full inquiry into the case, is satisfied that an informer wilfully made a material statement which he or she knew or believed to be false or did not believe to be true; or\n(b)in any other proceedings, the court is of the opinion that justice cannot be fully done between the parties to the proceedings without the disclosure of the name of an informer,\nthe court may permit inquiry and require full disclosure concerning the informer."
+   }
+  },
+  {
+   "id": "SG-H2913-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 EVIDENCE AND ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Powers of arrest"
+   },
+   "text": {
+    "en": "7.—(1) Any officer of the Bureau, police officer or special police officer may arrest without warrant any person who has committed or whom the officer reasonably suspects to have committed an offence under this Act.\n(2) Any person arrested under subsection (1), together with any article liable to seizure, must be taken to the Central Narcotics Bureau or a police station and may be searched.\n(3) A woman must not be searched under this Part except by another woman and with strict regard to decency.\n(4) An officer making an arrest under this section may seize and detain any article liable to seizure."
+   }
+  },
+  {
+   "id": "SG-H2913-A7.001",
+   "no": 7.001,
+   "noLabel": {
+    "en": "7A."
+   },
+   "chapter": {
+    "en": "PART 3 EVIDENCE AND ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Bail and bond"
+   },
+   "text": {
+    "en": "7A.—(1) A person who has been arrested by an officer of the Bureau, police officer or special police officer under section 7(1) may be released on bail or on personal bond granted by any officer of the Bureau.\n(2) Division 5 (Bails and bonds) of Part 6 of the Criminal Procedure Code 2010 applies to the release of a person on bail or on personal bond under this section or section 92 or 93 of the Criminal Procedure Code 2010 (as the case may be) with the following modifications:\n(a)any reference to “officer”, “police officer” or “police officer of or above the rank of sergeant” is to be read to include an officer of the Bureau;\n(b)the reference to the Commissioner of Police in section 92(1) of the Criminal Procedure Code 2010 is to be read to include the Director.\n[Act 16 of 2024 wef 18/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H2913-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 EVIDENCE AND ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Powers of search and seizure"
+   },
+   "text": {
+    "en": "8.—(1) Any officer of the Bureau, police officer or special police officer may at any time —\n(a)without a warrant enter and search any place or premises in which he or she reasonably suspects that there is to be found any article liable to seizure;\n(b)search any person found in that place or premises; and\n(c)seize and detain any article liable to seizure found in that place or premises.\n(2) For the purpose of exercising his or her power under this section, an officer may, with such assistance as he or she considers necessary, break open any door, window, lock, fastener, floor, wall, ceiling, compartment, box, container or any other thing."
+   }
+  },
+  {
+   "id": "SG-H2913-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 EVIDENCE AND ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Obstruction of search"
+   },
+   "text": {
+    "en": "9. Any person who —\n(a)obstructs any officer of the Bureau, police officer or special police officer in the exercise of any power under this Act; or\n(b)fails to comply with any lawful requirement of any officer of the Bureau, police officer or special police officer in the execution of his or her duty under this Act,\nshall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H2913-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 EVIDENCE AND ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Forfeiture"
+   },
+   "text": {
+    "en": "10.—(1) Where anything is seized under this Act, the officer who carried out the seizure must immediately give notice in writing of the seizure to the owner of that thing, if known, either by delivering the notice personally to the owner or by post at his or her place of residence, if known.\n(2) A notice under subsection (1) is not required to be given where the seizure is made in the presence of the offender or the owner or the owner’s agent.\n(3) An order for the forfeiture of any article liable to seizure is to be made if it is proved to the satisfaction of a court that an offence under this Act has been committed and that such article was the subject matter of or was used in the commission of the offence even though no person may have been convicted of that offence.\n(4) If there is no prosecution with regard to any article seized under this Act, that article is deemed to be forfeited on the expiry of one month from the date of seizure thereof unless a claim thereto has been made before that date in such manner as may be prescribed."
+   }
+  },
+  {
+   "id": "SG-H2913-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 EVIDENCE AND ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Disposal of things forfeited"
+   },
+   "text": {
+    "en": "11. All things which are forfeited to the Government under this Act are to be disposed of in such manner as the Minister thinks fit."
+   }
+  },
+  {
+   "id": "SG-H2913-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 EVIDENCE AND ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Powers of investigation of officers of Bureau"
+   },
+   "text": {
+    "en": "12.—(1) In any case relating to the commission of an offence under this Act, an officer of the Bureau has all the powers of a police officer under the Criminal Procedure Code 2010 in relation to an investigation into a seizable offence.\n[15/2010]\n(2) For the purposes of subsection (1), when an officer of the Bureau is exercising the powers of a police officer under the Criminal Procedure Code 2010, the officer of the Bureau is deemed to be an officer not below the rank of inspector of police.\n[15/2010]"
+   }
+  },
+  {
+   "id": "SG-H2913-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 EVIDENCE AND ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Blood tests"
+   },
+   "text": {
+    "en": "13.—(1) Any officer of the Bureau, police officer, special police officer, or the officer-in-charge of an approved centre may require any person who has used or inhaled, or is reasonably suspected to have used or inhaled, any intoxicating substance for the purpose of inducing or causing a state of intoxication to provide to a registered medical practitioner a specimen of his or her blood for a laboratory test.\n(2) A person is not required to provide a specimen of his or her blood for a laboratory test under subsection (1) if the registered medical practitioner in immediate charge of his or her case objects to the provision of the specimen on the ground that it would be prejudicial to the proper care or treatment of that person.\n(3) A person who, without reasonable excuse, fails to provide a specimen of his or her blood for a laboratory test pursuant to a requirement imposed under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months.\n(4) Any officer of the Bureau, police officer or special police officer, or the officer-in-charge of an approved centre must, on requiring any person under this section to provide a specimen of blood for a laboratory test, warn him or her that failure to provide a specimen of blood may make him or her liable to a fine or imprisonment, and, if such officer fails to do so, the court before which the person is charged with an offence under subsection (3) may dismiss the charge.\n(5) For the purposes of any proceedings for an offence under section 3, a certificate purporting to be signed by a registered medical practitioner that the registered medical practitioner took a specimen of blood from a person with that person’s consent is evidence of the matters so certified and of the qualifications of the registered medical practitioner.\n(6) The certificate referred to in subsection (5) must not be accepted as evidence for the prosecution unless a copy of the certificate had been served on the accused not less than 7 days before the hearing.\n(7) For the purposes of this section, the consent of a person who has attained 16 years of age to providing a specimen of blood pursuant to a requirement imposed under subsection (1) is as effective as it would be if he or she were of full age.\n(8) Where the person referred to in subsection (7) has, by virtue of that subsection, given an effective consent, it is not necessary to obtain any consent from his or her parent or guardian in respect of him or her providing the specimen of blood."
+   }
+  },
+  {
+   "id": "SG-H2913-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 EVIDENCE AND ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Presumption of misuse of intoxicating substance"
+   },
+   "text": {
+    "en": "14.—(1) A person is presumed, until the contrary is proved, to have used or inhaled any intoxicating substance for the purpose of inducing or causing in himself or herself a state of intoxication if the specimen of blood provided by him or her under section 13 is certified by —\n(a)an analyst employed by the Health Sciences Authority; or\n(b)any other person that the Minister may appoint,\n[Act 5 of 2025 wef 09/03/2025]\nto contain an amount of any chemical compound specified in the first column of the Schedule in excess of the amount specified in the second column of the Schedule in relation to that chemical compound.\n[3/2006]\n[Act 5 of 2025 wef 09/03/2025]\n(2) An appointment under subsection (1)(b) must be published in the Gazette.\n[Act 5 of 2025 wef 09/03/2025]"
+   }
+  },
+  {
+   "id": "SG-H2913-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 EVIDENCE AND ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Certificate of analyst, etc."
+   },
+   "text": {
+    "en": "15.—(1) A certificate purporting —\n(a)to be signed by —\n(i)an analyst employed by the Health Sciences Authority; or\n(ii)such other person as the Minister may appoint; and\n[Act 5 of 2025 wef 09/03/2025]\n(b)to relate to any chemical compound specified in the Schedule,\nis to be admitted in evidence, in any proceedings for an offence under this Act, on its production by the prosecution without proof of signature and, until the contrary is proved, is to be proof of all matters contained in the certificate.\n[3/2006]\n(1A) An appointment under subsection (1)(a)(ii) must be published in the Gazette.\n[Act 5 of 2025 wef 09/03/2025]\n(2) The certificate under subsection (1) must not be accepted as evidence for the prosecution unless a copy of the certificate had been served on the accused not less than 7 days before the hearing."
+   }
+  },
+  {
+   "id": "SG-H2913-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 4 TREATMENT AND REHABILITATION"
+   },
+   "heading": {
+    "en": "Supervision"
+   },
+   "text": {
+    "en": "16.—(1) If as a result of a blood test under section 13, it appears to the Director that the person who supplied the specimen of blood for the blood test has used or inhaled any intoxicating substance in contravention of section 3 and that it is necessary for that person to be subject to supervision, the Director may make a supervision order requiring that person to be subject to the supervision of an officer of the Bureau or a person appointed by the Director for that purpose for a supervision period not exceeding 12 months.\n(2) The Director may make a supervision order requiring —\n(a)a person who has been convicted of an offence under section 3(2); or\n(b)a person who has been discharged from an approved centre under section 21,\nto be subject to supervision by an officer of the Bureau or a person appointed by the Director for that purpose for a supervision period not exceeding 12 months.\n[3/2006]\n(3) Where the person mentioned in subsection (2)(a) is sentenced to a term of imprisonment, the supervision order commences upon the expiration of that sentence.\n[3/2006]\n(4) A supervision order made under subsection (1) or (2) may require the person subject to the supervision order to comply during the whole or any part of the supervision period with any requirements as to residence and any other requirements that the Director, having regard to the circumstances of the case, considers necessary for securing the good conduct of that person.\n(5) Any person who wilfully fails to comply with any requirement in the supervision order mentioned in subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000."
+   }
+  },
+  {
+   "id": "SG-H2913-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 TREATMENT AND REHABILITATION"
+   },
+   "heading": {
+    "en": "Treatment and rehabilitation"
+   },
+   "text": {
+    "en": "17.—(1) If at any time during or after the supervision period a person who is or has been subject to a supervision order is arrested under section 7 on the ground that the person is reasonably suspected to have committed an offence under section 3, the Director may, having regard to the result of a medical examination or observation or a blood test under section 13 and, where applicable, a report of the supervising officer in relation to the person concerned, if it appears to the Director that it is necessary for that person to undergo treatment and rehabilitation at an approved centre, by order in writing direct the person to be admitted to an approved centre and detained there for a period not exceeding 6 months.\n(2) An approved centre may admit any person —\n(a)who uses or inhales any intoxicating substance for the purpose of inducing or causing a state of intoxication; or\n(b)under 21 years of age who uses or inhales any intoxicating substance for the purpose of inducing or causing a state of intoxication on the application made by either parent of such person or by his or her guardian or by any person for the time being having the custody or control of such person,\nfor voluntary treatment and rehabilitation on the terms and conditions that may be prescribed.\n(3) Every person who is admitted to an approved centre under subsection (2) must not be detained in that centre for a period exceeding 6 months.\n(4) Any statement made by a person admitted to an approved centre under subsection (2) for the purpose of undergoing treatment and rehabilitation is not admissible in evidence against him or her in respect of any subsequent prosecution for an offence under this Act.\n(5) If the Review Committee of an approved centre is of the opinion that an inmate of that centre whose period of detention in that centre is about to expire requires further treatment or rehabilitation or both, the Committee may by order in writing direct that the inmate be detained in the centre for a further period or periods not exceeding 3 months at any one time.\n(6) No person in respect of whom an order has been made under subsection (1) is to be detained in an approved centre or centres for a period of more than 12 months after his or her admission to any approved centre pursuant to such order.\n(7) In this section, “supervising officer” means an officer of the Bureau or a person appointed by the Director under section 16 who is charged with the responsibility for the supervision of the person brought before the Director under subsection (1)."
+   }
+  },
+  {
+   "id": "SG-H2913-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 TREATMENT AND REHABILITATION"
+   },
+   "heading": {
+    "en": "Approved centres"
+   },
+   "text": {
+    "en": "18. The Minister may, from time to time, by notification in the Gazette, declare any place or premises to be an approved centre for the purpose of the treatment and rehabilitation of persons who use or inhale intoxicating substances for the purpose of inducing or causing a state of intoxication and may at any time in like manner revoke or amend any such notification."
+   }
+  },
+  {
+   "id": "SG-H2913-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 TREATMENT AND REHABILITATION"
+   },
+   "heading": {
+    "en": "Administration of approved centres"
+   },
+   "text": {
+    "en": "19.—(1) Subject to the Minister’s directions, the general charge and administration of —\n(a)approved centres, except those designated under paragraph (b), is under the Commissioner of Prisons; and\n(b)such approved centres as the Minister may designate is under such person as the Minister may appoint.\n[1/2014]\n(2) The Commissioner of Prisons or the person appointed under subsection (1)(b) (as the case may be) may appoint a person to be the officer-in-charge of an approved centre and such person is responsible for the supervision and administration of that approved centre.\n[1/2014]\n(3) Subject to such modifications as may be made by the Commissioner of Prisons, the standing orders issued under the Prisons Act 1933 apply to an approved centre under the charge of the Commissioner of Prisons as they apply to a prison.\n[1/2014]\n(4) The person appointed under subsection (1)(b) may in writing issue orders, to be called standing orders, for the approved centres designated under his or her charge."
+   }
+  },
+  {
+   "id": "SG-H2913-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 TREATMENT AND REHABILITATION"
+   },
+   "heading": {
+    "en": "Review Committees for approved centres"
+   },
+   "text": {
+    "en": "20.—(1) The Minister must appoint for any approved centre or centres a Review Committee which has such functions as are conferred upon it by this Act.\n(2) Every Review Committee consists of a Chairperson, who must be a person registered under the Medical Registration Act 1997, and 5 other members.\n(3) The Chairperson and members of a Review Committee are appointed by the Minister for a term not exceeding 3 years, but may —\n(a)from time to time be re‑appointed;\n(b)at any time be removed from office by the Minister; or\n(c)at any time resign from their office in writing addressed to the Minister.\n(4) Three members of the Review Committee constitute a quorum at any meeting of the Committee.\n(5) The Chairperson presides at every meeting of the Review Committee at which he or she is present and in his or her absence the members present must elect one of their number to preside at the meeting.\n(6) Every question before the Review Committee is to be determined by a majority of the votes of the members present and voting thereon, and in the event of an equality of votes the Chairperson or the member presiding at the meeting has a casting vote in addition to his or her original vote.\n(7) Subject to the provisions of this Act, the Review Committee may determine its own procedure.\n(8) Any order of the Review Committee may be signed by the Chairperson or a member of the Committee."
+   }
+  },
+  {
+   "id": "SG-H2913-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 TREATMENT AND REHABILITATION"
+   },
+   "heading": {
+    "en": "Review, discharge and transfer of inmates"
+   },
+   "text": {
+    "en": "21.—(1) The Review Committee of an approved centre must keep the case of every inmate under review and must, as often as practicable, consider whether he or she should be discharged.\n(2) Despite any order made under section 17, the Director or the Review Committee of an approved centre may at any time by order in writing —\n(a)discharge any inmate; or\n(b)transfer any inmate from one approved centre to another approved centre.\n(3) The officer-in-charge of an approved centre may enter into an arrangement with the officer-in-charge of another approved centre for the transfer of any inmate to that other approved centre and may, subject to any direction given by the Director or the Review Committee, carry out any transfer in accordance with that arrangement, except that the whole period of detention for which the inmate was admitted to such approved centre must not be increased by the transfer.\n(4) On proof to his or her satisfaction that the presence at any place of an inmate is required in the interests of justice, or for the purpose of any inquiry, or in the public interest or in the interest of the inmate, the officer-in-charge of the relevant approved centre may order that the inmate be taken to that place."
+   }
+  },
+  {
+   "id": "SG-H2913-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 TREATMENT AND REHABILITATION"
+   },
+   "heading": {
+    "en": "Power of Magistrate to inquire into complaints of misconduct or breach of duty"
+   },
+   "text": {
+    "en": "22.—(1) Where a complaint is made on oath to a Magistrate that any person is improperly detained in an approved centre by reason of any misconduct or breach of duty on the part of any officer in the discharge of his or her functions pursuant to this Act, the Magistrate may —\n(a)inquire into the complaint himself or herself; or\n(b)direct a police officer to make an inquiry for the purpose of ascertaining the truth or falsehood of the complaint and report to the Magistrate the result of the inquiry.\n(2) Every inquiry under subsection (1) is to be conducted in private, except that the procedure for conducting any inquiry is to be such as the Magistrate considers appropriate in the circumstances of the case.\n(3) A Magistrate or a police officer conducting any inquiry under subsection (1) has all the powers conferred on him or her by the Criminal Procedure Code 2010 in relation to the attendance and examination of witnesses, the taking of evidence and the production of documents.\n(4) If, after considering the result of any such inquiry, the Magistrate is satisfied that any person who is detained in an approved centre ought not to be so detained, the Magistrate may make an order for the discharge of that person from the approved centre and that person must be discharged accordingly.\n(5) Any order or decision of the Magistrate made under this section is final.\n(6) No evidence taken for the purpose of any such inquiry is admissible in any civil or criminal proceedings, except where the person who gave that evidence is charged with giving or fabricating false evidence."
+   }
+  },
+  {
+   "id": "SG-H2913-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 TREATMENT AND REHABILITATION"
+   },
+   "heading": {
+    "en": "Inmates deemed to be in legal custody"
+   },
+   "text": {
+    "en": "23.—(1) Every inmate is deemed to be in the legal custody of the approved centre in which he or she is for the time being detained.\n(2) An inmate is deemed to be in legal custody —\n(a)while he or she is confined in, or is being taken to or from, an approved centre;\n(b)while he or she is for any other reason outside an approved centre in the custody or under the control of the officer-in-charge of the approved centre; or\n(c)while he or she is being taken to any place to which he or she is required or authorised by or under this Act to be taken, or is kept in custody pursuant to any such requirement or authorisation."
+   }
+  },
+  {
+   "id": "SG-H2913-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 TREATMENT AND REHABILITATION"
+   },
+   "heading": {
+    "en": "Use of weapons"
+   },
+   "text": {
+    "en": "24.—(1) Subject to this section, a prison officer may use any weapon against —\n(a)any inmate of any approved centre escaping or attempting to escape;\n(b)any person who does any act or attempts to do any act to facilitate the escape of an inmate of any approved centre; or\n(c)any person engaged in any attempt to damage or force or break open —\n(i)the outside door or gate or enclosure wall of any approved centre or any other part of an approved centre; or\n(ii)any part of any vehicle in which an inmate is conveyed.\n(2) A prison officer may use any weapon against —\n(a)any inmate of any approved centre engaged in any combined outbreak; and\n(b)any person engaged in any attempt to damage or force or break open —\n(i)the outside door or gate or enclosure wall of any approved centre or any other part of an approved centre; or\n(ii)any part of any vehicle in which an inmate is conveyed,\nand may continue to use the weapon so long as the combined outbreak or attempt is actually being prosecuted.\n(3) Every prison officer may use weapons against an inmate of any approved centre using violence against any prison officer or other person, if the prison officer has reasonable ground to believe that the prison officer or other person is in danger of life or limb, or that other grievous hurt is likely to be caused to either of them.\n(4) A prison officer must not resort to the use of any weapon under subsection (1) unless the officer has reasonable ground to believe that he or she cannot otherwise prevent the escape of any inmate.\n(5) Before using any firearm against an inmate or other person referred to in subsection (1), the prison officer must give a warning to the inmate or that other person (as the case may be) that the prison officer is about to fire on him or her.\n(6) A prison officer must not, in the presence of his or her superior officer, use any firearm against an inmate or other person in the circumstances described in subsection (1) or (2) except under the orders of his or her superior officer.\n(7) The use of weapons under this section must be, as far as possible, to disable and not to kill.\n(8) Every police officer who is for the time being serving in the capacity of an escort, or of a guard in or around any approved centre, for the purpose of ensuring the safe custody of any inmate, is deemed to have all the powers and privileges granted to a prison officer under this section."
+   }
+  },
+  {
+   "id": "SG-H2913-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 TREATMENT AND REHABILITATION"
+   },
+   "heading": {
+    "en": "Employment of auxiliary police officers as escorts and guards"
+   },
+   "text": {
+    "en": "25.—(1) For the purpose of assisting him or her in the discharge of his or her duties under this Act, the Commissioner of Prisons may employ such number of auxiliary police officers as he or she considers fit as escorts or guards to ensure the safe custody of the inmates who are under his or her custody.\n[1/2014]\n(2) An inmate who is delivered into the custody of an auxiliary police officer under this section is deemed to be in legal custody within the meaning of section 23.\n(3) Every auxiliary police officer who is employed as an escort or a guard under subsection (1) has, in the course of carrying out his or her duties as an escort or a guard, have the same powers as a prison officer under section 24.\n(4) Every auxiliary police officer employed under subsection (1) is deemed to be a public servant within the meaning of the Penal Code 1871.\n(5) In this section, “auxiliary police officer” means a member of an auxiliary police force established under any other written law.\n[3/2005]"
+   }
+  },
+  {
+   "id": "SG-H2913-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 TREATMENT AND REHABILITATION"
+   },
+   "heading": {
+    "en": "Escape from legal custody of approved centre"
+   },
+   "text": {
+    "en": "26.—(1) Any inmate who —\n(a)while undergoing treatment and rehabilitation in an approved centre escapes from the legal custody of the approved centre;\n(b)while the inmate is outside an approved centre escapes from the legal custody or control of an officer-in-charge of an approved centre; or\n(c)while the inmate is otherwise in the legal custody of any other person escapes from the legal custody of that person,\nshall be guilty of an offence.\n(2) Any person who —\n(a)knowingly assists, directly or indirectly, any inmate of an approved centre to escape from the approved centre;\n(b)induces any such inmate so to escape; or\n(c)knowing that any inmate has escaped from an approved centre, harbours or conceals, or assists in harbouring or concealing that inmate or causes or induces that inmate not to return to the approved centre,\nshall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H2913-A26.001",
+   "no": 26.001,
+   "noLabel": {
+    "en": "26A."
+   },
+   "chapter": {
+    "en": "PART 4A TAKING OF PHOTOGRAPHS, FINGER IMPRESSIONS,PARTICULARS AND BODY SAMPLES"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "26A.—(1) In this Part, unless the context otherwise requires —\n“appropriate consent” means —\n(a)for a person 16 years of age or older, the written consent of that person;\n(b)for a person 14 years of age or older but below 16 years of age, the written consent of both that person and of his or her parent or guardian; and\n(c)for a person below 14 years of age, the written consent of his or her parent or guardian,\ngiven to —\n(d)a police officer or an officer of the Bureau in charge of the case; or\n(e)a prison officer,\nafter that officer has informed the person concerned, his or her parent or guardian or both (as the case may be) of the purpose for which a body sample is required from such person and the manner by which such body sample is to be taken from him or her;\n“authorised analyst” means a person appointed by the Commissioner of Police to be an analyst for the purposes of this Part;\n“body sample” means —\n(a)a sample of blood;\n(b)a sample of head hair, including the roots thereof;\n(c)a swab taken from a person’s mouth; or\n(d)such other sample as may be prescribed under subsection (2);\n“DNA” means deoxyribonucleic acid;\n“DNA information” means genetic information derived from the forensic DNA analysis of a body sample;\n“finger impression” includes thumb impression and palmar impression;\n[Deleted by Act 26 of 2022 wef 12/06/2023]\n“invasive sample” means any body sample that is obtained by means of any invasive procedure, but does not include any sample described in subsection (3);\n[Act 26 of 2022 wef 12/06/2023]\n“particulars”, in relation to a person, means any particulars, information or description of that person that may be relevant or useful in the identification of that person;\n“photograph”, in relation to a person, includes the photograph of any distinguishing feature or mark on the body of that person;\n“registered medical practitioner” has the meaning given by the Medical Registration Act 1997 and includes a dentist registered under the Dental Registration Act 1999.\n[3/2006; 22/2007]\n(2) Subject to subsection (3), the Minister may prescribe additional types of body samples that may be taken under section 26B.\n[3/2006]\n(3) The additional types of body samples that may be prescribed under subsection (2) must not include samples to be obtained from —\n(a)the genital or anal area of a person’s body;\n(b)a person’s body orifice other than the mouth; or\n(c)the breast of a woman.\n[3/2006]"
+   }
+  },
+  {
+   "id": "SG-H2913-A26.002",
+   "no": 26.002,
+   "noLabel": {
+    "en": "26B."
+   },
+   "chapter": {
+    "en": "PART 4A TAKING OF PHOTOGRAPHS, FINGER IMPRESSIONS,PARTICULARS AND BODY SAMPLES"
+   },
+   "heading": {
+    "en": "Taking of photographs, finger impressions, particulars and body samples from person convicted, subject to supervision or in approved centres"
+   },
+   "text": {
+    "en": "26B.—(1) Any police officer, prison officer, officer of the Bureau or person authorised by the Commissioner of Police may exercise all or any of the following powers in respect of any person mentioned in subsection (2):\n(a)take or cause to be taken photographs and finger impressions of such person;\n(b)make or cause to be made a record of the particulars of such person;\n(c)cause body samples of such person to be taken by a person authorised under section 26C(1);\n(d)send any photograph, finger impression, record of particulars or body sample so taken or made to the Commissioner of Police for identification and report.\n[3/2006]\n(2) The powers mentioned in subsection (1) may be exercised in respect of a person who on or after 1 March 2006 —\n(a)is convicted of or is serving a sentence of imprisonment for an offence under section 3(2), 4(2) or 13(3);\n(b)is subject to supervision pursuant to a supervision order made at any time (whether before, on or after that date) under section 16(1) or (2); or\n(c)is in an approved centre pursuant to an order made at any time (whether before, on or after that date) under section 17(1).\n[3/2006]\n(3) Every person mentioned in subsection (2) must —\n(a)submit to the taking of his or her photographs and finger impressions under subsection (1);\n(b)provide such particulars as may be required under subsection (1); and\n(c)subject to subsection (5), submit to the taking of his or her body samples by a person authorised under section 26C(1).\n[3/2006]\n(4) Where any person mentioned in subsection (2), without reasonable excuse, fails to comply with subsection (3) —\n(a)that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month or to both; and\n(b)any police officer, prison officer, officer of the Bureau or person authorised by the Commissioner of Police may use such force as is reasonably necessary to take or cause to be taken the photographs, finger impressions and body samples of that person.\n[3/2006]\n(5) No —\n(a)sample of blood; or\n(b)invasive sample prescribed under section 26A(2),\nis to be taken from any person unless the appropriate consent is given for the taking of the sample.\n[3/2006]\n[Act 26 of 2022 wef 12/06/2023]"
+   }
+  },
+  {
+   "id": "SG-H2913-A26.003",
+   "no": 26.003,
+   "noLabel": {
+    "en": "26C."
+   },
+   "chapter": {
+    "en": "PART 4A TAKING OF PHOTOGRAPHS, FINGER IMPRESSIONS,PARTICULARS AND BODY SAMPLES"
+   },
+   "heading": {
+    "en": "Further provisions for taking of body samples"
+   },
+   "text": {
+    "en": "26C.—(1) For the purposes of section 26B(1)(c), a body sample may only be taken by —\n(a)a registered medical practitioner;\n(b)a police officer, a prison officer or an officer of the Bureau who has received training for the purpose; or\n(c)any other suitably qualified or trained person who is duly appointed in writing by the Commissioner of Police as an authorised person for the purpose.\n[3/2006]\n(2) Before taking any body sample, the person authorised under subsection (1) to take the sample must satisfy himself or herself that the taking of the sample does not endanger the person from whom the sample is to be taken.\n[3/2006]\n(3) The fact that a body sample has been taken must be recorded by the person who took the sample in such form or manner as may be required by the Commissioner of Police.\n[3/2006]\n(4) Every body sample taken must be sent to an authorised analyst for forensic DNA analysis.\n[3/2006]"
+   }
+  },
+  {
+   "id": "SG-H2913-A26.004",
+   "no": 26.004,
+   "noLabel": {
+    "en": "26D."
+   },
+   "chapter": {
+    "en": "PART 4A TAKING OF PHOTOGRAPHS, FINGER IMPRESSIONS,PARTICULARS AND BODY SAMPLES"
+   },
+   "heading": {
+    "en": "Retention of photographs, finger impressions, particulars and body samples taken"
+   },
+   "text": {
+    "en": "26D.—(1) The Commissioner of Police must cause to be maintained —\n(a)a register (whether in a computerised form or otherwise) in which is stored all photographs, finger impressions and particulars of a person taken under section 26B; and\n(b)a DNA database (whether in a computerised form or otherwise) in which is stored all DNA information derived from a body sample taken from a person under section 26B.\n[3/2006]\n(2) Any information stored in the register and the DNA database under subsection (1) may be used for all or any of the following purposes:\n(a)for comparison with any other information or any other DNA information (as the case may be) obtained in the course of an investigation of an offence conducted by a police officer or an officer of the Bureau;\n(b)for comparison with information in the register of criminals or identification database maintained under section 4 or 29 of the Registration of Criminals Act 1949 or with DNA information in the DNA database maintained under section 31 of that Act, as the case may be;\n[Act 26 of 2022 wef 12/06/2023]\n(c)for comparison with information or DNA information (as the case may be) in the register or DNA database, respectively, established under —\n(i)section 27C of the Criminal Law (Temporary Provisions) Act 1955; or\n(ii)section 40D of the Misuse of Drugs Act 1973;\n(d)for any proceedings for any offence;\n(e)for administering the register and DNA database for the purposes of this Act;\n(ea)for any investigation into a death conducted by a police officer, a Coroner or a forensic pathologist (including a post‑mortem examination) or any inquiry into any death held by a Coroner, under the Coroners Act 2010;\n[Act 26 of 2022 wef 12/06/2023]\n(eb)for identifying a dead person or any part of a person;\n[Act 26 of 2022 wef 12/06/2023]\n(ec)for identifying a person in order to provide police assistance to the person;\n[Act 26 of 2022 wef 12/06/2023]\n(f)for such other purposes as may be prescribed.\n[3/2006]\n(3) For the purposes of subsection (2)(d) —\n(a)any photograph, finger impression or particulars stored in the register under subsection (1)(a);\n(b)any DNA information stored in the DNA database under subsection (1)(b); and\n(c)any certificate or report purporting to have been compiled or made from information stored in the register or DNA database maintained under subsection (1),\nis, if produced from proper custody and authenticated by the signature of the Commissioner of Police or a police officer authorised by the Commissioner of Police, admissible in evidence in any proceedings without proof of signature and, until the contrary is proved, is proof of all matters contained therein.\n[3/2006]"
+   }
+  },
+  {
+   "id": "SG-H2913-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 5 COMMITTEE OF INQUIRY"
+   },
+   "heading": {
+    "en": "Committee of inquiry"
+   },
+   "text": {
+    "en": "27.—(1) Where it is expedient that the Minister, or such other person as the Minister may appoint to exercise the powers conferred upon the Minister by sections 28, 35 and 37, should be informed on any matter connected with the discipline, administration or functions of any approved centre or affecting any inmate, the Minister or the person appointed by the Minister may convene a committee of inquiry.\n(2) A committee of inquiry must inquire into and report on the facts relating to any matter referred to it and, if directed by the Minister to do so, express its opinion on any question arising out of any such matter.\n(3) In this section and in sections 28, 35 and 37, “Minister” includes the person appointed by the Minister under subsection (1) to act on his or her behalf for the purposes of this section and sections 28, 35 and 37."
+   }
+  },
+  {
+   "id": "SG-H2913-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 5 COMMITTEE OF INQUIRY"
+   },
+   "heading": {
+    "en": "Composition of committee of inquiry"
+   },
+   "text": {
+    "en": "28.—(1) A committee of inquiry consists of one or more persons who are to be appointed by the Minister.\n(2) Where a committee of inquiry consists of more than one person, the Minister must appoint one of the members to be the chairperson.\n(3) Where a committee of inquiry consists of one member only, he or she is vested with the powers of a chairperson.\n(4) Every member of a committee of inquiry appointed under this section is deemed to be a public servant within the meaning of the Penal Code 1871."
+   }
+  },
+  {
+   "id": "SG-H2913-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 5 COMMITTEE OF INQUIRY"
+   },
+   "heading": {
+    "en": "Powers of committee of inquiry"
+   },
+   "text": {
+    "en": "29. A committee of inquiry may —\n(a)summon any person to give evidence on oath or on affirmation or to produce any document or material necessary for the purpose of the inquiry; and\n(b)visit any place in order to inquire into any matter which may arise in the course of the inquiry."
+   }
+  },
+  {
+   "id": "SG-H2913-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 5 COMMITTEE OF INQUIRY"
+   },
+   "heading": {
+    "en": "Disobedience to summons"
+   },
+   "text": {
+    "en": "30.—(1) A person who is summoned to give evidence before a committee of inquiry must not, without lawful excuse, fail to appear in obedience to the summons.\n(2) A person who is required by a committee of inquiry to produce any document or material for the purpose of the inquiry must not, without lawful excuse, fail to produce the document or material.\n(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H2913-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 5 COMMITTEE OF INQUIRY"
+   },
+   "heading": {
+    "en": "Refusal to give evidence"
+   },
+   "text": {
+    "en": "31.—(1) A person who appears before a committee of inquiry must not, without lawful excuse, refuse to be sworn or to make an affirmation, or to produce any document or material, or to answer any question, which he or she is lawfully required to produce or answer.\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H2913-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 5 COMMITTEE OF INQUIRY"
+   },
+   "heading": {
+    "en": "Giving of false evidence"
+   },
+   "text": {
+    "en": "32. Every person who wilfully gives false evidence when examined on oath or on affirmation before a committee of inquiry shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 7 years or to both."
+   }
+  },
+  {
+   "id": "SG-H2913-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 5 COMMITTEE OF INQUIRY"
+   },
+   "heading": {
+    "en": "Evidence and procedure"
+   },
+   "text": {
+    "en": "33. Except as otherwise provided in this Act, a committee of inquiry is not bound by the rules of evidence and may act in such manner as the committee of inquiry thinks most expedient."
+   }
+  },
+  {
+   "id": "SG-H2913-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 5 COMMITTEE OF INQUIRY"
+   },
+   "heading": {
+    "en": "Admissibility of evidence"
+   },
+   "text": {
+    "en": "34. No statement made in the course of any inquiry and no report of a committee of inquiry is admissible as evidence in proceedings other than proceedings, whether criminal or disciplinary, for an offence of giving or fabricating false evidence under any written law."
+   }
+  },
+  {
+   "id": "SG-H2913-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 5 COMMITTEE OF INQUIRY"
+   },
+   "heading": {
+    "en": "Proceedings not open to public"
+   },
+   "text": {
+    "en": "35.—(1) A committee of inquiry must not sit in public.\n(2) No person is allowed to attend the proceedings of a committee of inquiry, or address the committee of inquiry, except with the chairperson’s permission or if the Minister so directs."
+   }
+  },
+  {
+   "id": "SG-H2913-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 5 COMMITTEE OF INQUIRY"
+   },
+   "heading": {
+    "en": "Persons who may be affected by findings"
+   },
+   "text": {
+    "en": "36.—(1) Where it appears to a committee of inquiry that any witness or person involved in the supervision or administration of an approved centre may be adversely affected by its findings, the committee must notify him or her and give him or her an opportunity to be present at the proceedings of the committee of inquiry or at such part thereof as the chairperson may specify.\n(2) The person notified under subsection (1) must be allowed to give evidence and examine any witness."
+   }
+  },
+  {
+   "id": "SG-H2913-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 5 COMMITTEE OF INQUIRY"
+   },
+   "heading": {
+    "en": "Record of proceedings"
+   },
+   "text": {
+    "en": "37.—(1) The chairperson must record or cause to be recorded in writing the proceedings of the committee of inquiry.\n(2) The evidence of each witness before a committee of inquiry must be read over to him or her and must be signed by him or her.\n(3) A record of the proceedings of a committee of inquiry must be signed by the chairperson and the members of the committee (if any) and forwarded to the Minister.\n(4) The record of proceedings of a committee of inquiry or any part thereof or any information relating thereto must be kept confidential and must not be released to any person, other than a member of the committee, without the Minister’s written permission."
+   }
+  },
+  {
+   "id": "SG-H2913-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 5 COMMITTEE OF INQUIRY"
+   },
+   "heading": {
+    "en": "Offence to influence or attempt to influence committee of inquiry"
+   },
+   "text": {
+    "en": "38. Every person who, otherwise than in the course of duty, directly or indirectly by himself or herself or by any other person in any manner whatsoever influences or attempts to influence any decision of a committee of inquiry or any member of a committee of inquiry shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H2913-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 6 GENERAL"
+   },
+   "heading": {
+    "en": "General penalty"
+   },
+   "text": {
+    "en": "39. Any person who is guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H2913-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 6 GENERAL"
+   },
+   "heading": {
+    "en": "Indemnity"
+   },
+   "text": {
+    "en": "40.—(1) The Government shall not be liable to make good any damage caused to any goods or property as a result of an entry, search or detention under the provisions of this Act unless the damage is caused by the wilful neglect or default of an officer employed by the Government.\n(2) In the event of any dispute as to the amount of any damage so caused, the amount is to be summarily ascertained and determined by a District Court or a Magistrate’s Court."
+   }
+  },
+  {
+   "id": "SG-H2913-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 6 GENERAL"
+   },
+   "heading": {
+    "en": "Protection of persons acting under authority of Act"
+   },
+   "text": {
+    "en": "41. Any person who does any act in pursuance or intended pursuance of any of the provisions of this Act shall not be subject to any civil or criminal liability in respect thereof, whether on the ground of want of jurisdiction, mistake of law or fact, or any other ground, unless he or she has acted in bad faith or without reasonable care."
+   }
+  },
+  {
+   "id": "SG-H2913-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 6 GENERAL"
+   },
+   "heading": {
+    "en": "Offences by body corporate"
+   },
+   "text": {
+    "en": "42. Where any offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of any director, manager, secretary or other similar officer of the body corporate, or any person purporting to act in any such capacity, he or she as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against accordingly."
+   }
+  },
+  {
+   "id": "SG-H2913-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 6 GENERAL"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "43.—(1) The Minister may make regulations for any purpose for which regulations may be made under this Act and for prescribing anything which may be prescribed under this Act and generally for the purpose of carrying this Act into effect.\n(2) Without limiting subsection (1), the Minister may make regulations with respect to any of the following matters:\n(a)providing for the treatment and rehabilitation of persons who use or inhale intoxicating substances for the purpose of inducing or causing in themselves a state of intoxication;\n(b)providing for the supervision and aftercare of persons who have undergone treatment and rehabilitation at any approved centre or who have been convicted of an offence under section 3;\n(c)providing for the management, maintenance and inspection of approved centres;\n(d)prescribing the functions and procedure of Review Committees;\n(e)providing for the control, discipline and occupation of inmates, including the imposition of corporal punishment;\n(f)prescribing the appointment and duties of officers of approved centres;\n(g)prescribing the punishment by a fine not exceeding $2,000 or imprisonment for a term not exceeding 6 months or both to be imposed on conviction for a breach of any regulations."
+   }
+  },
+  {
+   "id": "SG-H2913-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nSections 2, 14(1) and 15(1)\nFirst column\nSecond column\nToluene\n1 microgramme per 1 millilitre of blood.\n[Act 5 of 2025 wef 09/03/2025]"
+   }
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "PH-H3967",
+ "title": {
+  "zh": null,
+  "en": "An Act Transferring the Stations of the Two Judges of the Court of First Instance of Pangasinan from the City of Dagupan to the Municipalities of Santa Barbara and Mangaldan, Province of Pangasinan, Amending for the Purpose Section Fifty-Two of the Judiciary Act of 1948",
+  "orig": "An Act Transferring the Stations of the Two Judges of the Court of First Instance of Pangasinan from the City of Dagupan to the Municipalities of Santa Barbara and Mangaldan, Province of Pangasinan, Amending for the Purpose Section Fifty-Two of the Judiciary Act of 1948"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p56",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1967-06-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 5129",
+ "officialCode": null,
+ "topics": [
+  "judiciary"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 958,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1967/ra_5129_1967.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1967/ra_5129_1967.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3967-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The third subparagraph of the second paragraph of Section fifty-two of Republic Act Numbered Two hundred ninety-six, otherwise known as \"The Judiciary Act of 1948,\" is further amended to read as follows:\n\"For the Third Judicial District, two judges shall be stationed in the Municipality of Lingayen, Province of Pangasinan; one judge shall be stationed in the City of Dagupan; two judges, in the Municipality of Urdaneta, Province of Pangasinan; one judge in the Municipality of Tayug, same province; one judge in the Municipality of Alaminos, same province; one judge in the Municipality of Santa Barbara, same province; and another in the City of San Carlos; the judge of the first branch of the Court of First Instance of Zambales shall be stationed in the Municipality of Olongapo, Province of Zambales, and the judge of the second branch, in the Municipality of Iba, same province.\""
+   }
+  },
+  {
+   "id": "PH-H3967-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
+   }
+  }
+ ]
+}

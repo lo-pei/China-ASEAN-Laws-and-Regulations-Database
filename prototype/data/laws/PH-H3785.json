@@ -1,0 +1,74 @@
+{
+ "id": "PH-H3785",
+ "title": {
+  "zh": null,
+  "en": "An Act Creating the Municipality of Don Carlos in the Province of Bukidnon",
+  "orig": "An Act Creating the Municipality of Don Carlos in the Province of Bukidnon"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p53",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1966-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4800",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 750,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1966/ra_4800_1966.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1966/ra_4800_1966.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3785-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The barrios of Sinanguyan, Don Carlos del Norte, Don Carlos del Sur, Kalao-kalao, New Nongnongan (Masimag), Upper Bokbok, Kalubihon, Kiara, Kawilihan, Old Nongnongan, Pualas, Pinamaloy, Manlamunay, Minsalagan and Kibatang, all of the Municipality of Maramag, Province of Bukidnon, are hereby segregated from said municipality and constituted into a new and distinct political entity to be known as the Municipality of Don Carlos, same province, with the seat of government in the present site of Barrio Don Carlos del Sur."
+   }
+  },
+  {
+   "id": "PH-H3785-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The first mayor, vice-mayor and councilors of the new municipality shall be elected in the nineteen hundred sixty-seven general elections for local officials."
+   }
+  },
+  {
+   "id": "PH-H3785-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
+   }
+  }
+ ]
+}

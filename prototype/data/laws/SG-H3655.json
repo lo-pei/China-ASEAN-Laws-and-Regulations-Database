@@ -1,0 +1,662 @@
+{
+ "id": "SG-H3655",
+ "title": {
+  "zh": null,
+  "en": "Singapore Land Authority Act 2001",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p46",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act SLAA2001",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 41,
+ "chars": 35863,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/SLAA2001?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 41 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 3 篇以 900000+ 序号随同收录。其中 9 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3655-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Singapore Land Authority Act 2001."
+   }
+  },
+  {
+   "id": "SG-H3655-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“Authority” means the Singapore Land Authority established under section 3;\n“Chairperson” means the Chairperson of the Authority and includes any temporary Chairperson of the Authority;\n“Chief Executive” means the Chief Executive of the Authority, and includes any individual acting in that capacity;\n“debenture” includes debenture stock;\n“Deputy Chairperson” means the Deputy Chairperson of the Authority and includes any temporary Deputy Chairperson of the Authority;\n“land” includes foreshores and any interest in land;\n“member” means any member of the Authority;\n“public authority” means any board, body or authority established by or under any written law to perform or discharge any public function;\n“securities”, in relation to a company, includes shares, debentures, bonds and other securities of the company, whether or not constituting a charge on the assets of the company;\n“shares” includes stock;\n“State land” means all land in Singapore except —\n(a)land lawfully granted, or contracted to be granted, in fee simple or estate in perpetuity by or on behalf of the Government;\n(b)land subject to any agreement, lease or licence lawfully granted by or on behalf of the Government; and\n(c)land dedicated as national parks or nature reserves,\nand includes any land which, having been granted or held under any agreement, lease or licence, has been lawfully surrendered or resumed or compulsorily acquired, and any land which, having been lawfully held by any person for any estate or interest, has been or is lawfully forfeited to, or by any means has reverted or reverts to, the Government;\n“State title” includes any grant in fee simple or estate in perpetuity, any State lease (of whatever tenure) and any temporary occupation licence.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3655-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION ANDCONSTITUTION OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Establishment and incorporation of Singapore Land Authority"
+   },
+   "text": {
+    "en": "3. A body called the Singapore Land Authority is established, which is a body corporate with perpetual succession and is, by that name, capable of —\n(a)suing and being sued;\n(b)acquiring, owning, holding and developing or disposing of property, both movable and immovable; and\n(c)doing and suffering all such other acts or things as a body corporate may lawfully do or suffer."
+   }
+  },
+  {
+   "id": "SG-H3655-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION ANDCONSTITUTION OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Common seal"
+   },
+   "text": {
+    "en": "4.—(1) The Authority must have a common seal and the seal may be broken, changed, altered or made anew as the Authority thinks fit.\n(2) All deeds and other documents requiring the seal of the Authority must be sealed with the common seal of the Authority.\n(3) All instruments to which the common seal is affixed must be signed by any 2 members generally or specially authorised by the Chief Executive for the purpose or by one member and the Chief Executive.\n(4) All courts, judges and persons acting judicially are to take notice of the imprint of the common seal of the Authority appearing on any document and presume that it was duly affixed."
+   }
+  },
+  {
+   "id": "SG-H3655-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION ANDCONSTITUTION OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Constitution of Authority"
+   },
+   "text": {
+    "en": "5.—(1) The Authority consists of the following members:\n(a)a Chairperson;\n(b)a Deputy Chairperson;\n(c)not less than 8 but not more than 20 other members as the Minister may determine.\n(2) The First Schedule has effect with respect to the Authority, its members and its proceedings."
+   }
+  },
+  {
+   "id": "SG-H3655-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS, DUTIES AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Functions and duties of Authority"
+   },
+   "text": {
+    "en": "6.—(1) Subject to the provisions of this Act, it is the function and duty of the Authority —\n(a)to optimise land resources;\n(b)to provide secure, reliable and effective registration systems for recording transactions relating to land in Singapore in accordance with the Land Titles Act 1993, the Land Titles (Strata) Act 1967 and the Registration of Deeds Act 1988;\n(c)to manage and maintain the cadastral survey system in Singapore as a foundation for land title, any spatial reference database or information system and for the purposes of any written law, including regulating the conduct of cadastral survey in Singapore;\n(d)to promote, develop or contribute to the development of an integrated spatial reference database or information system relating to land tenure, land transactions, land ownership, land boundaries and other related geographical information so as to facilitate the exchange and dissemination between the Government, public authorities, educational institutions and persons in the private sector of such information;\n(e)to act as agent of the Government in —\n(i)the acquisition of land under the Land Acquisition Act 1966 or any other method, or the resumption or forfeiture of land under the State Lands Act 1920, the State Lands Protection Act 2022 or any other law;\n[Act 42 of 2022 wef 01/11/2024]\n(ii)the administration and management of all State lands and buildings on State lands in accordance with the Foreshores Act 1920, the Sand and Granite Quarries Act 1970, the State Lands Act 1920, the State Lands Protection Act 2022 and any other written law;\n[Act 42 of 2022 wef 01/11/2024]\n(iii)the allocation and disposal of State land or grant of any State title to any person or public authority in accordance with the Foreshores Act 1920, the State Lands Act 1920 and any other written law; and\n(iv)the assessment, collection and recovery of any land betterment charge payable under the Land Betterment Charge Act 2021, and any premium (including differential premium), rent, royalty, fee or charge for or in connection with the mining or working of land for minerals, or with the disposition of any State land or grant of any State title or the exercise of any rights under any State title;\n[Act 11 of 2021 wef 01/08/2022]\n(ea)to cooperate and collaborate with the competent authority in the discharge of its functions under the Planning Act (Cap. 232) or the Planning Act 1998, when it is revised and citable by that short title;\n[Act 11 of 2021 wef 01/08/2022]\n(f)to administer the Residential Property Act 1976;\n(g)to report to and advise the Government on matters relating to land survey, land tenure, land transactions, land ownership, land boundaries and the administration, management, allocation, acquisition and disposition of State land;\n(h)to maintain and provide access by the public to documents and information relating to land survey, land tenure, land transactions, land ownership, land boundaries, State lands, State titles and other related matters kept or maintained by the Authority;\n(i)to manage technical cooperation and exchange in the area of land survey and land resource administration and management with other persons and organisations, including foreign organisations and international intergovernmental organisations, on its own or on behalf of the Government;\n(j)to represent the Government internationally in respect of matters relating to land survey and land resource administration and management;\n(k)to provide training, advice and assistance in relation to land survey and land resource administration and management to any Government department or any public authority, or to authorities of other countries and territories which administer and manage public lands and resources;\n(l)to provide administrative support services to the Land Surveyors Board in the performance of its functions under the Land Surveyors Act 1991; and\n(m)to exercise any other functions and duties conferred on the Authority by or under this Act or any other written law.\n(2) In carrying out its functions, the Authority must —\n(a)have regard to efficiency and economy and to the social, industrial, commercial and economic needs of Singapore; and\n(b)as far as practicable, promote, develop and provide facilities or services that facilitate or are necessary for land planning, land infrastructure development and maintenance, and economic growth in Singapore.\n(3) In addition to the functions and duties imposed by this section, the Authority may undertake any other functions that the Minister may assign to the Authority and in so doing, the Authority is deemed to be fulfilling the purposes of this Act, and the provisions of this Act apply to the Authority in respect of those functions.\n(4) Nothing in this section is to be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court."
+   }
+  },
+  {
+   "id": "SG-H3655-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS, DUTIES AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Powers of Authority"
+   },
+   "text": {
+    "en": "7.—(1) The Authority has power to do anything for the purpose of discharging its functions under this Act or under any other written law, or which it may consider advantageous, necessary or convenient to the discharge of those functions and in particular, may —\n(a)formulate and implement policies to optimise land resources and build up the supporting infrastructure;\n(b)administer systems for the recording and registration of transactions relating to land under the Land Titles Act 1993, the Land Titles (Strata) Act 1967 and the Registration of Deeds Act 1988;\n(c)collect, compile and analyse information relating to land tenure, geography, transactions relating to land or other subject matter necessary or connected with the establishment and maintenance of an integrated spatial reference database or information system (and related products and services) or the performance of any of its other functions, and make available, publish or disseminate such information, products or services or the results of such compilation or analysis;\n(d)prescribe, regulate or implement measures, guidelines and standards on any matter related to or connected with land survey and land registration;\n(e)prescribe policies, standards and common methods of capturing geographical and other information and information relating to land tenure, land transactions, land ownership, land boundaries and other related matters so as to facilitate the mutual exchange and dissemination of such information;\n(f)levy any charges or fees that are reasonable for services and facilities provided by the Authority;\n(g)form or participate in the formation of any company or in any joint venture as a shareholder or partner or in any other capacity, with any firm, body corporate, society or institution for the purposes of this Act or any other written law and to share profits;\n(h)subscribe for or acquire any securities and shares of an incorporated company or other body corporate, procure its admission to membership of an incorporated company limited by guarantee, promote the formation of or participate in the promotion of an incorporated company or acquire an undertaking or part of an undertaking;\n(i)engage in conjunction with other authorities, international agencies or organisations in any study or cooperation project related to or connected with land resource administration and management or in the promotion of land administration and management;\n(j)regulate and control any activity related to or connected with the network of survey control marks in Singapore;\n(k)enter into contracts for itself or for the Government for the supply of goods or materials or for the execution of works or any other contract as may be necessary for the discharge of its duties and functions under this Act or any other written law;\n(l)lease, let, develop or otherwise utilise any property, movable or immovable, vested in or acquired by the Authority on the terms and conditions that the Authority thinks fit;\n(m)provide financial loans, advances, grants, aid or assistance to any person for all or any of the purposes of this Act;\n(n)provide bursaries, scholarships and training grants in the field of land administration and management;\n(o)receive donations, grants, gifts, subsidies and contributions from any source and raise funds by all lawful means;\n(p)make provision for pensions, gratuities, allowances or other benefits for employees or former employees of the Authority;\n(q)grant or guarantee loans to officers or employees of the Authority for any purpose specifically approved by the Authority;\n(r)provide recreational facilities and promote recreational activities for, and activities conducive to, the welfare of officers and employees of the Authority and members of their families; and\n(s)do any other acts incidental to any of its functions and powers.\n(2) This section is not to be construed as limiting any power of the Authority conferred by or under any other written law."
+   }
+  },
+  {
+   "id": "SG-H3655-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS, DUTIES AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Power to request for information"
+   },
+   "text": {
+    "en": "8.—(1) Without affecting section 7, the Authority, or any officer authorised on its behalf, may request any person to provide the Authority with information relating to land tenure, land transactions, land ownership, land boundaries or other geographical information.\n(2) A request under subsection (1) —\n(a)must be in writing;\n(b)must be served on the person to whom it is addressed;\n(c)must specify the particulars of information required;\n(d)may specify the form in which and the time within which the information is to be provided;\n(e)may require the information to be provided periodically at or within the time or times and in the form or forms specified in the request; and\n(f)may specify the place or manner at or in which the information is to be delivered.\n(3) Any person who —\n(a)wilfully refuses or without lawful excuse (the proof of which lies on the person) neglects —\n(i)to provide the information required within the time allowed in any request under subsection (1) for providing the information;\n(ii)to provide the information in the form specified in any request under subsection (1); or\n(iii)to deliver the information at the place or in the manner specified in any request under subsection (1) for the delivery thereof; or\n(b)wilfully provides or causes to be provided any false information in respect of any matter specified in a request under subsection (1),\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction.\n(4) Nothing in this section obliges or binds any person to provide any information not in the person’s possession or which the person is prohibited by law from disclosing."
+   }
+  },
+  {
+   "id": "SG-H3655-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS, DUTIES AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Directions by Minister"
+   },
+   "text": {
+    "en": "9.—(1) The Minister may give to the Authority any direction under section 5 of the Public Sector (Governance) Act 2018.\n[5/2018]\n(2) The Authority must provide the Minister with any information in respect of its property and activities in the manner and at the times that the Minister may require."
+   }
+  },
+  {
+   "id": "SG-H3655-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS, DUTIES AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Appointment of committees and delegation of powers"
+   },
+   "text": {
+    "en": "10.—(1) The Authority may appoint from among its own members or from other persons who are not members any number of committees that it thinks fit for purposes which, in the opinion of the Authority, would be better regulated and managed by means of those committees.\n(2) The Authority may, subject to any conditions or restrictions that it thinks fit, delegate to any committee appointed under subsection (1) or to the Chairperson or Chief Executive or to any other member, officer or employee of the Authority any of the functions or powers of the Authority under this Act or any other written law.\n[5/2018]\n(3) Any function or power delegated under subsection (2) to any committee or person may be performed or exercised by the committee or person to whom it has been delegated in the name and on behalf of the Authority."
+   }
+  },
+  {
+   "id": "SG-H3655-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 4 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Chief Executive, officers and employees, etc."
+   },
+   "text": {
+    "en": "11.—(1) There must be a Chief Executive of the Authority, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.\n[5/2018]\n(2) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —\n(a)is absent from duty or Singapore; or\n(b)is, for any reason, unable to perform the duties of the office.\n[5/2018]\n(3) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on any terms and conditions that the Authority determines, any other officers, employees, consultants and agents that may be necessary for the effective performance of its functions.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3655-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 4 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Protection from personal liability"
+   },
+   "text": {
+    "en": "12.—(1) No suit or other legal proceedings shall lie personally against any member, officer or employee of the Authority or any other person acting under the direction of the Authority for anything which is in good faith and with reasonable care done or omitted to be done in the execution or purported execution of this Act or any other written law.\n[Act 42 of 2022 wef 01/11/2024]\n(2) Where the Authority provides a service to the public by which information is supplied to the public pursuant to any written law, neither the Authority nor any of its members, officers or employees involved in the supply of the information shall be liable for any loss or damage suffered by any member of the public by reason of any error or omission of any nature appearing in the information or however caused if made in good faith and in the ordinary course of the discharge of the duties of that member, officer or employee."
+   }
+  },
+  {
+   "id": "SG-H3655-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 4 PROVISIONS RELATING TO STAFF"
+   },
+   "text": {
+    "en": "13. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3655-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Funds and property of Authority"
+   },
+   "text": {
+    "en": "14. The funds and property of the Authority consist of —\n(a)grants made under section 19;\n(b)all moneys paid to the Authority by way of grants, subsidies, donations, gifts and contributions;\n(c)all fees and charges payable to the funds of the Authority under any written law;\n[Act 42 of 2022 wef 01/11/2024]\n(d)all moneys received by the Authority by way of charges and fees for services rendered by the Authority to any person, including any collection agency fee;\n(e)all moneys derived from the disposal, lease or hire of, or any other dealing with, any property vested in or acquired by the Authority;\n(f)all accumulations of income derived from any such property or money, including any gains made on the sale of any investment of such money, and interest or gains thereon;\n(g)all moneys borrowed by the Authority under this Act; and\n(h)all other moneys and property lawfully received by the Authority for the purposes of the Authority."
+   }
+  },
+  {
+   "id": "SG-H3655-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Application of moneys"
+   },
+   "text": {
+    "en": "15. The moneys of the Authority for any financial year must be applied in defraying the following charges:\n(a)the remuneration, fees and allowances of the members of the Authority;\n(b)the salaries, fees, remuneration, pensions, superannuation allowances and gratuities of the officers, agents, employees, advisers and former employees of the Authority;\n(c)working and establishment expenses and expenditure on, or provision for, the maintenance of any of the property of the Authority, and the discharge of the functions of the Authority properly chargeable to revenue account;\n(d)expenses incurred or incidental to the investment or management of the moneys or property of the Authority;\n(e)interest on any loan raised by the Authority;\n(f)sums required to be transferred to a sinking fund or otherwise set aside for the purpose of making provision for the repayment of borrowed money;\n(g)any sums that may be deemed appropriate to set aside in respect of depreciation or renewal of the property of the Authority, having regard to the amount set aside out of revenue under paragraphs (c) and (f);\n(h)the cost, or any portion of the cost, of any new works, plant, vessels or appliances not being a renewal of the property of the Authority, which the Authority may determine to charge to revenue;\n(i)any sums by way of contribution, for the purposes associated with the objects of this Act that the Authority may determine, to the public or for charities; and\n(j)any other expenditure authorised by the Authority and properly chargeable to revenue account."
+   }
+  },
+  {
+   "id": "SG-H3655-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Bank accounts"
+   },
+   "text": {
+    "en": "16.—(1) The Authority must open and maintain an account or accounts with such bank or banks as the Authority thinks fit.\n(2) Every such account must be operated by such person or persons authorised to do so by the Authority."
+   }
+  },
+  {
+   "id": "SG-H3655-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Minister’s approval of estimates"
+   },
+   "text": {
+    "en": "17.—(1) A copy of all annual estimates of revenue and expenditure and supplementary estimates must, upon their adoption by the Authority, be sent without delay to the Minister.\n[5/2018]\n(2) The Minister may approve or disallow any item or portion of any item shown in the annual estimates or supplementary estimates.\n[5/2018]\n(3) The Minister must return the annual estimates or supplementary estimates as amended under subsection (2) to the Authority, and the Authority is bound by the Minister’s decision.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3655-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Power of investment"
+   },
+   "text": {
+    "en": "18. The Authority may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965.\n[45/2004]"
+   }
+  },
+  {
+   "id": "SG-H3655-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Grants"
+   },
+   "text": {
+    "en": "19. For the purpose of enabling the Authority to carry out its functions under this Act, the Minister may make grants to the Authority of such sums of money as the Minister may determine out of moneys to be provided by Parliament."
+   }
+  },
+  {
+   "id": "SG-H3655-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Power to borrow"
+   },
+   "text": {
+    "en": "20. For the discharge of its functions or duties under this Act or any other written law, the Authority may raise loans from the Government or, with the approval of the Minister for Finance, raise loans from banks or other financial institutions (whether in Singapore or elsewhere) by —\n(a)mortgage, overdraft or otherwise;\n(b)charge, whether legal or equitable, on any property vested in the Authority or on any other revenue receivable by the Authority under this Act or any other written law; or\n(c)the creation and issue of debentures or bonds."
+   }
+  },
+  {
+   "id": "SG-H3655-A20.001",
+   "no": 20.001,
+   "noLabel": {
+    "en": "20A."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Issue of shares, etc."
+   },
+   "text": {
+    "en": "20A. As a consequence of —\n(a)the vesting of any property, rights or liabilities of the Government in the Authority under this Act; or\n(b)any capital injection or other investment by the Government in the Authority in accordance with any written law,\nthe Authority must issue such shares or other securities to the Minister for Finance as that Minister may direct.\n[5/2002]"
+   }
+  },
+  {
+   "id": "SG-H3655-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Financial year"
+   },
+   "text": {
+    "en": "21. The financial year of the Authority begins on 1 April of each year and ends on 31 March of the succeeding year.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3655-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIESAND EMPLOYEES"
+   },
+   "text": {
+    "en": "22. [Omitted as spent]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3655-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIESAND EMPLOYEES"
+   },
+   "text": {
+    "en": "23. [Omitted as spent]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3655-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIESAND EMPLOYEES"
+   },
+   "text": {
+    "en": "24. [Omitted as spent]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3655-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIESAND EMPLOYEES"
+   },
+   "text": {
+    "en": "25. [Omitted as spent]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3655-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIESAND EMPLOYEES"
+   },
+   "text": {
+    "en": "26. [Omitted as spent]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3655-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIESAND EMPLOYEES"
+   },
+   "text": {
+    "en": "27. [Omitted as spent]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3655-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIESAND EMPLOYEES"
+   },
+   "text": {
+    "en": "28. [Omitted as spent]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3655-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "text": {
+    "en": "29. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3655-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Symbol or representation of Authority"
+   },
+   "text": {
+    "en": "30.—(1) The Authority has the exclusive right to the use of any symbol or representation that the Authority may select or devise and to display or exhibit the symbol or representation in connection with its activities or affairs.\n(2) Any person who uses a symbol or representation identical with that of the Authority or which so resembles the Authority’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H3655-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Powers of enforcement"
+   },
+   "text": {
+    "en": "31.—(1) In addition to the powers conferred by this Act or any other written law, an officer or employee of the Authority may, in relation to any offence under this Act or any written law set out in the Third Schedule, on declaration of his or her office and production to the person against whom he or she is acting of the identification card directed by the Chief Executive to be carried by officers or employees of the Authority —\n(a)require any person whom the officer or employee reasonably believes to have committed that offence to furnish evidence of the person’s identity;\n(b)require any person to furnish any information or produce any book, document or copy thereof in the possession of that person, and may, without fee or reward, inspect, copy or make extracts from such book or document; and\n(c)require, by written order, the attendance before the officer or employee of any person within the limits of Singapore who, from any information given or otherwise obtained by the officer or employee, appears to be acquainted with the circumstances of the case.\n(2) Any person who —\n(a)refuses to give access to, or assaults, obstructs, hinders or delays, an officer or employee of the Authority in the discharge of the duties by that officer or employee under this Act or that other written law;\n(b)wilfully misstates or without lawful excuse refuses to give any information or produce any book, document or copy thereof required of the person by an officer or employee of the Authority under subsection (1); or\n(c)fails to comply with a lawful demand of an officer or employee of the Authority in the discharge of the duties by that officer or employee under this Act or that other written law,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H3655-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Offences committed by bodies corporate, etc."
+   },
+   "text": {
+    "en": "32.—(1) Where an offence under this Act which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, manager, secretary or any similar officer of the body corporate, or any person who was purporting to act in any such capacity, he or she, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.\n(2) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with the member’s functions or management as if the member were a director of the body corporate.\n(3) Proceedings for an offence under this Act alleged to have been committed by a partnership must be brought in the name of the partnership and not in that of the partners; but without affecting any liability of the partners under subsection (5).\n(4) A fine imposed on a partnership on its conviction in such proceedings must be paid out of the partnership assets.\n(5) Where a partnership is guilty of an offence under this Act, every partner, other than a partner who is proved to have been ignorant of or to have attempted to prevent the commission of the offence, is also guilty of the offence and liable to be proceeded against and punished accordingly."
+   }
+  },
+  {
+   "id": "SG-H3655-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "33.—(1) The Chief Executive or any officer authorised by the Chief Executive may compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $1,000.\n(2) On payment of the sum, no further proceedings are to be taken against that person in respect of the offence.\n(3) All sums collected under this section must be paid into the Consolidated Fund.\n[Act 42 of 2022 wef 01/11/2024]"
+   }
+  },
+  {
+   "id": "SG-H3655-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Proceedings conducted by officers of Authority"
+   },
+   "text": {
+    "en": "34.—(1) Proceedings in respect of an offence under this Act or under any written law set out in the Third Schedule may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority who is authorised in writing in that behalf by the Chief Executive.\n[15/2010]\n(2) Despite any written law, a legal officer of the Authority who has been admitted as an advocate and solicitor under the Legal Profession Act 1966 may —\n(a)appear in any civil proceedings involving the Authority or any Registrar in the performance of the Registrar’s functions or duties under any written law so specified; and\n(b)make and do all acts and applications in respect of such proceedings on behalf of the Authority or any Registrar, as the case may be.\n(3) [Deleted by Act 42 of 2022 wef 01/11/2024]\n(4) The Minister may, by order in the Gazette, amend the Third Schedule.\n(5) For the purposes of this section, “Registrar” means —\n(a)the Registrar of Titles appointed under the Land Titles Act 1993;\n(b)the Registrar of Deeds appointed under the Registration of Deeds Act 1988; or\n(c)the Controller of Residential Property appointed under the Residential Property Act 1976."
+   }
+  },
+  {
+   "id": "SG-H3655-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Preservation of secrecy"
+   },
+   "text": {
+    "en": "35.—(1) Except for the purpose of the performance of his or her duties or the exercise of his or her functions or when lawfully required to do so by any court or where required or allowed by any written law, a person who is or has been a member, an officer, employee or an agent of the Authority or a member of a committee of the Authority must not disclose any information or matter relating to the affairs of the Authority or of any other person which has been obtained by the person in the performance of the person’s duties or the exercise of the person’s functions.\n[5/2018]\n(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H3655-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Rules"
+   },
+   "text": {
+    "en": "36.—(1) The Authority may make rules for carrying out the purposes and provisions of this Act.\n(2) Without limiting subsection (1), the Authority may make rules for or with respect to all or any of the following matters:\n(a)the manner of appointment, conduct and discipline and the terms and conditions of service of the employees of the Authority;\n(b)the establishment of funds for the payment of gratuities and other benefits to employees of the Authority."
+   }
+  },
+  {
+   "id": "SG-H3655-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "References in other written law"
+   },
+   "text": {
+    "en": "37.—(1) Where in any written law reference is made to the Land Office, the Survey Department or the Singapore Land Registry, the reference is to be read as a reference to the Authority.\n(2) The Registry of Deeds mentioned in the Registration of Deeds Act 1988 and the Land Titles Registry mentioned in the Land Titles Act 1993 are transferred to the Authority and all references in any written law to the Registry of Deeds or the Land Titles Registry are to be read as references to the Registry of Deeds or the Land Titles Registry (as the case may be) of the Authority."
+   }
+  },
+  {
+   "id": "SG-H3655-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nSection 5(2)\nConstitution and Proceedings of Authority\nAppointment of Chairperson, Deputy Chairperson and members\n1.—(1) The Chairperson, Deputy Chairperson and other members of the Authority must be appointed by the Minister from among persons who appear to the Minister to be qualified for appointment because of their knowledge of or experience in one or more of the following fields:\n(a)public administration;\n(b)commerce;\n(c)economics;\n(d)law;\n(e)survey;\n(f)real estate development;\n(g)consumer affairs;\n(h)town planning.\n(2) The Minister may appoint the Chief Executive and any other public officer to be a member of the Authority.\nTenure of office of members of Authority\n2. The Chairperson, Deputy Chairperson and a member of the Authority hold office for such period and on such terms and conditions as the Minister may determine, and are eligible for re‑appointment.\nDeputy Chairperson\n3. The Deputy Chairperson so appointed may, subject to any directions that may be given by the Chairperson, exercise all or any of the powers exercisable by the Chairperson under this Act.\nTemporary Chairperson or Deputy Chairperson\n4. The Minister may appoint any member of the Authority to be a temporary Chairperson or temporary Deputy Chairperson during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairperson or Deputy Chairperson, as the case may be.\nTemporary member\n5. The Minister may appoint any person to be a temporary member if any member is unable to perform his or her duties for any period, by reason of absence from Singapore, illness or for any other reason.\nRevocation of appointment\n6. If it appears to the Minister that the removal of the Chairperson, Deputy Chairperson or any member is necessary in the interest of the effective and economical performance of the functions of the Authority under this Act or any other written law, or in the public interest, the Minister may remove from office all of them or so many of them as the Minister considers necessary in those interests.\nResignation\n7. A member of the Authority may resign from his or her appointment at any time by giving at least one month’s notice in writing to the Minister.\nChairperson may delegate functions\n8. The Chairperson may, in writing, authorise any member of the Authority to exercise and perform any power, function or duty conferred on the Chairperson by or under this Act, as the Chairperson sees fit.\nVacation of office\n9. The office of a member of the Authority becomes vacant if the member —\n(a)becomes in any manner disqualified from membership of the Authority;\n(b)fails to attend 3 consecutive meetings of the Authority without sufficient cause (the sufficiency thereof to be decided by the Authority);\n(c)resigns from the office; or\n(d)dies.\nFilling of vacancies\n10. If a vacancy occurs in the membership of the Authority, the Minister may, subject to paragraphs 1 and 11, appoint any person to fill the vacancy, and the person so appointed holds office for the remainder of the term for which the vacating member was appointed.\nDisqualification from membership\n11. A person must not be appointed or continue to hold office as a Chairperson, Deputy Chairperson or member if the person —\n(a)is incapacitated by physical or mental illness;\n(b)is an undischarged bankrupt or has made any arrangement or composition with his or her creditors;\n(c)is convicted of an offence involving dishonesty, fraud or moral turpitude and has not received a free pardon;\n(d)has been sentenced to imprisonment for a term of 6 months or more and has not received a free pardon; or\n(e)is otherwise unable or unfit to discharge the functions of a member.\nSalaries, fees and allowances payable to Chairperson and members\n12. There are to be paid to the Chairperson, Deputy Chairperson and members of the Authority out of the funds of the Authority such salaries, fees and allowances as the Minister may determine.\nMeetings and proceedings of Authority\n13.—(1) The Authority is to meet for the despatch of business at such times and places as the Chairperson may appoint.\n(2) The quorum for a meeting of the Authority is half the number of its members.\n(3) The Chairperson presides at all meetings of the Authority at which he or she is present; and where the Chairperson is absent, the Deputy Chairperson presides.\n(4) If neither the Chairperson nor the Deputy Chairperson is present at a meeting, the members present may elect from among them a member to preside at that meeting.\n(5) Decisions at meetings of the Authority are to be adopted by a simple majority of the votes of the members present and voting; and in the case of an equality of votes, the Chairperson or, in his or her absence, the Deputy Chairperson or (as the case may be) the member presiding has a casting vote.\n(6) A resolution is taken to have been passed at a meeting of the Authority if —\n(a)without meeting, a majority of the members indicate agreement with the resolution in accordance with such method as the Authority may determine; and\n(b)all members were informed of the proposed resolution, or reasonable efforts had been made to inform all members of the proposed resolution.\n(7) Where at least 4 members of the Authority request the Chairperson by written notice signed by them to convene a meeting of the Authority for any purpose specified in the notice, the Chairperson must, within 7 days from the receipt of the notice, convene a meeting for that purpose.\n(8) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Authority may regulate its own proceedings generally and, in particular, regarding the holding of meetings, the notice to be given of the meetings, the proceedings at the meetings, the keeping of minutes, the custody, production and inspection of the minutes, and the opening, keeping, closing and audit of accounts.\nVacancy not to affect performance of functions\n14. The performance of the functions, or the exercise of the powers, of the Authority is not affected merely by any vacancy in the membership of the Authority or any defect in the appointment of any member.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3655-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\n[Repealed by Act 5 of 2018]"
+   }
+  },
+  {
+   "id": "SG-H3655-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nSections 31(1) and 34\nSpecified Legislation\n1.Sections 8, 11 and 20 of the Boundaries and Survey Maps Act 1998.\n2.Section 46 of the Land Acquisition Act 1966.\n3.Sections 7, 27, 59 and 169 of the Land Titles Act 1993.\n4.Sections 7, 15, 37, 41, 42, 43, 49, 54, 62, 65, 66, 67, 81, 82, 111, 113 and 120 of the Land Titles (Strata) Act 1967.\n5.Sections 4, 9, 10, 11, 16, 23, 25, 35 and 36 of the Residential Property Act 1976.\n6.Sections 5, 6, 10(2), 12(5), 18(5), 23(5) and (7), 24(3) and 26(1) and (2) of the State Lands Protection Act 2022.\n[Act 42 of 2022 wef 01/11/2024]\n7.All provisions of the Land Betterment Charge Act 2021.\n[Act 11 of 2021 wef 01/08/2022]"
+   }
+  }
+ ]
+}

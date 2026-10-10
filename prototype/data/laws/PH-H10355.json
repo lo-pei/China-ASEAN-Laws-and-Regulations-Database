@@ -1,0 +1,104 @@
+{
+ "id": "PH-H10355",
+ "title": {
+  "zh": null,
+  "en": "An Act Rationalizing the Disability Pension of Veterans, Amending for the Purpose Republic Act No. 6948, Entitled, “An Act Standardizing and Upgrading the Benefits for Military Veterans and Their Dependents”, as Amended",
+  "orig": "An Act Rationalizing the Disability Pension of Veterans, Amending for the Purpose Republic Act No. 6948, Entitled, “An Act Standardizing and Upgrading the Benefits for Military Veterans and Their Dependents”, as Amended"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p147",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2023-08-25",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 11958",
+ "officialCode": null,
+ "topics": [
+  "defence"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 3053,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2023/ra_11958_2023.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 6 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2023/ra_11958_2023.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文存在同号重出的条款（第 5 条）：该处官方页面确有两段均标同一 Section 号，本库照录其 `no` 值（不改动官方编号），条文 `id` 以 `_2`「_3」后缀保证唯一。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10355-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section 5 of Republic Act No. 6948, as amended, is hereby further amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H10355-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Pension Rates. - A veteran who is disabled owing to sickness, disease, wounds or injuries sustained in line of duty shall be given a monthly disability pension in accordance with the rates prescribed hereunder:\n(a) If and while the disability is rated anywhere from ten to thirty per centum (10% - 30%), the monthly pension shall be Four thousand five hundred pesos (P4,500.00);\n(b) If and while the disability is rated anywhere from thirty-one to forty per centum (31% - 40%), the monthly pension shall be Five thousand three hundred pesos (P5,300);\n(c) If and while the disability is rated anywhere from forty-one to fifty per centum (41% - 50%), the monthly pension shall be Six thousand one hundred pesos (P6,100.00);\n(d) If and while the disability is rated anywhere from fifty-one to sixty per centum (51% - 60%), the monthly pension shall be Six thousand nine hundred pesos (P6,900.00);\n(e) If and while the disability is rated anywhere from sixty-one to seventy per centum (61% - 70%), the monthly pension shall be Seven thousand seven hundred pesos (P7,700);\n(f) If and while the disability is rated anywhere from seventy-one to eighty per centum (71% - 80%), the monthly pension shall be Eight thousand five hundred pesos (P8,500.00);\n(g) If and while the disability is rated anywhere from eighty-one to ninety per centum (81% - 90%), the monthly pension shall be Nine thousand three hundred pesos (P9,300.00);\n(h) if and while the disability is rated anywhere from ninety-one to one hundred per centum (91% - 100%), the monthly pension shall be Ten thousand pesos (P10,000.00); plus One thousand pesos (P1,000.00) for the spouse and each unmarried minor children: Provided, That a veteran, upon reaching the age of seventy (70) and not receiving disability pension under this Act, is deemed disabled and shall be entitled to a monthly pension of One thousand seven hundred pesos (P1,700.00) only: Provided, further , That the entitlement to the disability pension authorized herein shall be prospective and limited to eligible living veterans only.\""
+   }
+  },
+  {
+   "id": "PH-H10355-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Appropriations. - The initial amount necessary for the implementation of this Act shall be charged against the Pension and Gratuity Fund. Thereafter, such sums as may be needed for the continued implementation of this Act shall be included in the annual General Appropriations Act."
+   }
+  },
+  {
+   "id": "PH-H10355-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Separability Clause. - If any provision or part thereof is held invalid or unconstitutional, the remainder of the law or the provision or part not otherwise affected shall remain valid and subsisting."
+   }
+  },
+  {
+   "id": "PH-H10355-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Repealing Clause. - Any law, presidential decree or issuance, executive order, letter of instruction, administrative order, rule, or regulation contrary to or inconsistent with the provisions of this Act is hereby repealed, modified, or amended accordingly."
+   }
+  },
+  {
+   "id": "PH-H10355-A5_2",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Effectivity. - This Act shall take effect fifteen (15) days following its complete publication in the Official Gazette or in a newspaper of general circulation."
+   }
+  }
+ ]
+}

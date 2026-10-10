@@ -1,0 +1,74 @@
+{
+ "id": "PH-H5567",
+ "title": {
+  "zh": "1991年总拨款法",
+  "en": "General Appropriations Act of 1991",
+  "orig": "General Appropriations Act of 1991 An Act Appropriating Funds for the Operation of the Government of the Republic of the Philippines from January One to December Thirty-One, Nineteen Hundred and Ninety-One, and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p79",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1991-06-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 7078",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1027,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1991/ra_7078_1991.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1991/ra_7078_1991.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 70 条，缺 2、3、4、5、6、7、8、9、10、11、12、13、14、15、16、17、18、19、20、21、22、23、24、25、26、27、28、29、30、31、32、33、34、35、36、37、38、39、40、41 等）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H5567-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Appropriation of Funds. - The following sum, or so much thereof as may be necessary, are hereby appropriated out of any funds in the National Treasury of the Philippines not otherwise appropriated, for the operation of the Government of the Republic of the Philippines from January One to December Thirty-one, nineteen hundred and ninety-one except where otherwise specifically provided herein:\n. . . . in excess of the agency authorized appropriations prior to the passage of this Act by Congress are deemed valid and hereby ratified.\nThe Department of Budget and Management shall ensure compliance with this provision."
+   }
+  },
+  {
+   "id": "PH-H5567-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Section 69."
+   },
+   "text": {
+    "en": "Separability Clause . - If for any reason any section or provision of this Act is declared unconstitutional or invalid, other sections or provisions hereof which are not affected thereby shall continue to be in full force and effect."
+   }
+  },
+  {
+   "id": "PH-H5567-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Section 70."
+   },
+   "text": {
+    "en": "Effectivity Clause. - The provisions of this Act shall take effect on January one, nineteen hundred and ninety-one, unless otherwise provided herein.\nApproved, June 28, 1991."
+   }
+  }
+ ]
+}

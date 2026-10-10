@@ -1,0 +1,68 @@
+{
+ "id": "SG-H597",
+ "title": {
+  "zh": null,
+  "en": "Children and Young Persons (Transitional Provision) Regulations 2011",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p08",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation S624-2011",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 651,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/S624-2011?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 2 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H597-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Children and Young Persons (Transitional Provision) Regulations 2011 and shall be deemed to have come into operation on 20th July 2011."
+   }
+  },
+  {
+   "id": "SG-H597-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Transitional provision"
+   },
+   "text": {
+    "en": "2. Notwithstanding section 52A of the Children and Young Persons Act (Cap. 38), a person who was operating a home for children and young persons before 20th July 2011 may continue to operate that home without a licence, as if the Children and Young Persons (Amendment) Act 2011 had not been enacted, until 31st December 2012, provided that the operator of the home has applied for a licence under section 52B of the Children and Young Persons Act on or before 20th July 2012."
+   }
+  }
+ ]
+}

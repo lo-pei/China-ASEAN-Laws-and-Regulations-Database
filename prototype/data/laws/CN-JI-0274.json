@@ -1,0 +1,90 @@
+{
+ "id": "CN-JI-0274",
+ "title": {
+  "zh": "最高人民法院关于审理倒卖车票刑事案件有关问题的解释",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p09",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "1999-09-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "最高人民法院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 179,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于审理倒卖车票刑事案件有关问题的解释_19990906.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，第一条至第二条，共 2 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于审理倒卖车票刑事案件有关问题的解释_19990906.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0274-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "第一条"
+   },
+   "text": {
+    "zh": "高价、变相加价倒卖车票或者倒卖坐席、卧铺签字号及订购车票凭证，票面数额在5000元以上，或者非法获利数额在2000元以上的，构成刑法第二百二十七条第二款规定的“倒卖车票情节严重”。"
+   }
+  },
+  {
+   "id": "CN-JI-0274-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "第二条"
+   },
+   "text": {
+    "zh": "对于铁路职工倒卖车票或者与其他人员勾结倒卖车票；组织倒卖车票的首要分子；曾因倒卖车票受过治安处罚两次以上或者被劳动教养一次以上，两年内又倒卖车票，构成倒卖车票罪的，依法从重处罚。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于审理倒卖车票刑事案件有关问题的解释"
+  },
+  "issuingBody": {
+   "zh": "最高人民法院"
+  },
+  "promulgatedDate": "1999-09-02",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

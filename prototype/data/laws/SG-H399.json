@@ -1,0 +1,81 @@
+{
+ "id": "SG-H399",
+ "title": {
+  "zh": null,
+  "en": "Bus Services Industry (Non-Regular Route Service) Order 2016",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p05",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation BSIA2015-OR1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 3335,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/BSIA2015-OR1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H399-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Order is the Bus Services Industry (Non-Regular Route Service) Order 2016."
+   }
+  },
+  {
+   "id": "SG-H399-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In this Order —\n“condominium” means —\n(a)any land and building comprised in a strata title plan that is registered under section 9 of the Land Titles (Strata) Act 1967; or\n(b)any housing accommodations under an executive condominium scheme that is established under section 3 of the Executive Condominium Housing Scheme Act 1996;\n“cross‑border bus service” means a bus service consisting of the carriage of passengers in a bus —\n(a)between Singapore and Johor; and\n(b)for journeys with more than 2 bus stopping points in Singapore;\n“foreign employee dormitory” has the meaning given by section 2(1) of the Foreign Employee Dormitories Act 2015;\n“limited‑stop bus service” means a bus service consisting of the carriage of passengers for a fare on journeys —\n(a)between 2 places, one of which is ordinarily an airport, bus interchange, business park, condominium, foreign employee dormitory, industrial estate, railway station, rapid transit system station or university; and\n(b)with no more than 3 intermediate bus stopping points during the journey from one place to the other,\nand includes the following:\n(c)Clementi Park to Clementi MRT Station Shuttle Bus Service;\n(d)Shuttle bus service within the Sentosa resort area;\n(e)Shuttle bus service between the Sentosa resort area and HarbourFront MRT Station;\n(f)Kranji MRT Station to Kranji Countryside Shuttle Bus Service;\n(g)Seletar Hills to Yio Chu Kang Road Shuttle Bus Service;\n(h)Seletar Hills to Yio Chu Kang MRT Station Shuttle Bus Service;\n(i)Seletar Hills to Ang Mo Kio MRT Station Shuttle Bus Service;\n“ “Little India” bus service” means a bus service consisting of the carriage of foreign employees (as defined in the Employment of Foreign Manpower Act 1990) by bus on Sundays or public holidays between the employees’ dormitories and —\n(a)the bus stopping point along Tekka Lane; or\n(b)the bus stopping point along Hampshire Road;\n“premium bus service” means a bus service consisting of the carriage of passengers in a bus —\n(a)to provide alternative passenger transport to any regular route service, or train service on a rapid transit system in Singapore; and\n(b)for a higher fare payable for a journey to the same destination on a regular route service or a train service on a rapid transit system in Singapore or both;\n“scheme B bus service” means a bus service consisting of the carriage of passengers to supplement regular route services on buses operated by any holder of a Class 1 bus service licence during the following hours on days that are not public holidays:\n(a)from 6.00 a.m. to 9.45 a.m. and from 4.15 p.m. to 7.30 p.m. on weekdays;\n(b)from 6.00 a.m. to 9.45 a.m. and from 11.30 a.m. to 2.30 p.m. on Saturdays;\n“Sentosa resort area” means the area designated by the Sentosa Development Corporation in the Sentosa Development Corporation (Resort Area) Notification (N 1);\n“temporary bus service” means a bus service which operates for a continuous period of not more than 6 months."
+   }
+  },
+  {
+   "id": "SG-H399-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Non-regular route services"
+   },
+   "text": {
+    "en": "3. The following bus services are excluded from the definition of “regular route service” in section 2 of the Act:\n(a)a cross‑border bus service;\n(b)a limited‑stop bus service;\n(c)a “Little India” bus service;\n(d)a premium bus service;\n(e)a scheme B bus service;\n(f)a temporary bus service."
+   }
+  }
+ ]
+}

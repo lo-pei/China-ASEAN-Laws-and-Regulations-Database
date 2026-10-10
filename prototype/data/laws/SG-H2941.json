@@ -1,0 +1,416 @@
+{
+ "id": "SG-H2941",
+ "title": {
+  "zh": null,
+  "en": "Land Betterment Charge (Table of Rates and Valuation Method) Regulations 2022",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p37",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation LBCA2021-S569-2022",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 26,
+ "chars": 45363,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/LBCA2021-S569-2022?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 26 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 7 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2941-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Land Betterment Charge (Table of Rates and Valuation Method) Regulations 2022 and come into operation on 1 August 2022."
+   }
+  },
+  {
+   "id": "SG-H2941-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“appropriate geographical sector”, in relation to any land, means the geographical sector set out in the plans in the Second Schedule within which the land falls;\n“floor area” has the meaning given by the Planning (Development) Rules 2008 (G.N. No. S 113/2008);\n“HDB” means the Housing and Development Board established by the Housing and Development Act 1959;\n“land area” means the area of a development site as calculated by the competent authority from any plan submitted under section 13 of the Planning Act 1998 or section 10(4) of the predecessor Act;\n“landed dwelling‑house” means a detached house, semi‑detached house, linked or terrace house or townhouse that is or is to be used wholly or mainly for the purpose of human habitation, whether or not comprised within a strata title plan registered under the Land Titles (Strata) Act 1967;\n“non-landed residential building” means a building that is or is to be used wholly or mainly for the purpose of human habitation but is not —\n(a)a strata landed dwelling-house; or\n(b)a single dwelling-house;\n“rate” means the rate specified in the Second Schedule;\n“strata landed dwelling-house” means a detached house, semi‑detached house, linked or terrace house or townhouse, comprised within a strata title plan, that is or is to be used wholly or mainly for the purpose of human habitation;\n“strata title plan” means a strata title plan registered under the Land Titles (Strata) Act 1967;\n“temporary written permission”, in relation to a development or a subdivision of any land, means a planning permission or conservation permission granted for a specified period of 10 years or shorter;\n“URA” means the Urban Redevelopment Authority established by the Urban Redevelopment Authority Act 1989;\n“Use Group” means a Use Group set out in the First Schedule;\n“1958 Master Plan” has the meaning given by paragraph 15(1) of the Land Betterment Charge (Concessionary Relief) Order 2022 (G.N. No. S 570/2022);\n“2019 Master Plan” means the 1958 Master Plan amended —\n(a)under section 6(1) of the predecessor Act; and\n(b)under section 8(1) of the Planning Act 1998 as in force on 27 November 2019."
+   }
+  },
+  {
+   "id": "SG-H2941-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 TAX RATE"
+   },
+   "heading": {
+    "en": "Prescribed percentage of increase in value of any land"
+   },
+   "text": {
+    "en": "3. For the purposes of section 8 of the Act, the prescribed percentage of the increase in the value of land likely to accrue from the giving of a chargeable consent in relation to a development of any land is as follows:\n(a)100% in the case of a development mentioned in section 8(2)(a) or (b) of the Act;\n(b)70% in any other case."
+   }
+  },
+  {
+   "id": "SG-H2941-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 3 TABLE OF RATES METHOD"
+   },
+   "heading": {
+    "en": "Application of Part"
+   },
+   "text": {
+    "en": "4. This Part applies only to chargeable consent relating to —\n(a)a development or a subdivision of any land not mentioned in section 9(2) of the Act; or\n(b)a development or subdivision in respect of which no election under section 9(3)(a) of the Act is made by all taxable persons concerned."
+   }
+  },
+  {
+   "id": "SG-H2941-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 3 TABLE OF RATES METHOD"
+   },
+   "heading": {
+    "en": "Working out pre-chargeable valuation: general"
+   },
+   "text": {
+    "en": "5.—(1) Subject to Divisions 2 and 3 and section 11(3) and (4) of the Act, the pre‑chargeable valuation of any land in relation to which a chargeable consent is given is to be worked out in accordance with the formula\nwhere —\n(a)C is the floor area of the last authorised development of the land for any purpose —\n(i)in respect of which development charges, land betterment charges and penalty taxes mentioned in section 11(3)(a) of the Act are earlier paid or are payable;\n(ii)in connection with which there is —\n(A)an exemption or a remission from any liability to pay any development charges or land betterment charges mentioned in section 11(3)(c) of the Act; or\n(B)a concessionary relief under section 13 of the Act from any liability to pay any land betterment charges; or\n(iii)in connection with which there is no liability to pay any development charges, land betterment charges and penalty taxes mentioned in section 11(3)(a) of the Act; and\n(b)D is the rate in the Second Schedule corresponding to both the appropriate geographical sector of the land and the Use Group within which that purpose in C falls.\n(2) However, where the pre‑chargeable valuation worked out according to the formula in paragraph (1) for the last authorised development of the land for any purpose in connection with which there is —\n(a)an exemption or a remission from any liability to pay any development charges or land betterment charges mentioned in section 11(3)(c) of the Act;\n(b)a concessionary relief under section 13 of the Act from any liability to pay any land betterment charges; or\n(c)no liability to pay any development charges, land betterment charges and penalty taxes mentioned in section 11(3)(a) of the Act,\nis lower than the pre-chargeable valuation worked out according to the same formula, in relation to an authorised development of the same land for any purpose immediately before that last authorised development of the land but authorised on or after 1 September 1989 and in respect of which development charges, land betterment charges and penalty taxes mentioned in section 11(3)(a) of the Act were paid (called the prior authorised development), then the pre‑chargeable valuation for the last authorised development of the land must be disregarded and the pre‑chargeable valuation of the prior authorised development is instead the pre‑chargeable valuation of the land."
+   }
+  },
+  {
+   "id": "SG-H2941-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 TABLE OF RATES METHOD"
+   },
+   "heading": {
+    "en": "Working out post-chargeable valuation: general"
+   },
+   "text": {
+    "en": "6.—(1) Subject to Divisions 2 and 3, the post‑chargeable valuation of any land in relation to which a chargeable consent is given is the sum of the following:\n(a)the value of the development of the land that was previously authorised and is to be retained on completion of any development of, or varying a controlled activity restrictive covenant with respect to, any land under the chargeable consent;\n(b)the value of —\n(i)the development a person is entitled to carry out on the land as a result of the giving of the chargeable consent; or\n(ii)the controlled activity a person is entitled to carry on or not carry on, or a person is released from carrying on, with respect to the land as a result of varying a controlled activity restrictive covenant under the chargeable consent given.\n(2) For the purposes of paragraph (1)(a), the value of the development of any land that was previously authorised and is to be retained on completion of any development of, or varying a controlled activity restrictive covenant with respect to, any land under a chargeable consent given, is to be worked out in accordance with the formula\nwhere —\n(a)A1 is the floor area of the development for any purpose which was previously authorised and is to be retained on completion of the development of, or varying the controlled activity restrictive covenant with respect to, the land; and\n(b)B1 is the rate in the Second Schedule corresponding to both the appropriate geographical sector of the land and the Use Group within which that purpose in A1 falls.\n(3) For the purposes of paragraph (1)(b), the value of —\n(a)the development a person is entitled to carry out on the land as a result of the giving of the chargeable consent; or\n(b)the controlled activity a person is entitled to carry on or not carry on, or a person is released from carrying on, as a result of varying a controlled activity restrictive covenant under the chargeable consent given,\nis to be worked out in accordance with the formula\nwhere —\n(c)A2 is the floor area of —\n(i)the development a person is entitled to carry out on the land for any purpose as a result of the giving of the chargeable consent; or\n(ii)the development on the land in respect of which a controlled activity a person is entitled to carry on or not carry on, or a person is released from carrying on, with respect to the land for any purpose as a result of varying a controlled activity restrictive covenant under the chargeable consent given; and\n(d)B2 is the rate in the Second Schedule corresponding to both the appropriate geographical sector of the land and the Use Group within which that purpose falls."
+   }
+  },
+  {
+   "id": "SG-H2941-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 TABLE OF RATES METHOD"
+   },
+   "heading": {
+    "en": "Purpose not within any Use Group"
+   },
+   "text": {
+    "en": "7. Where the floor area of any development referred to in regulation 5 or 6 is authorised or to be authorised for a purpose not falling within any Use Group —\n(a)the rate D referred to in the formula in regulation 5; and\n(b)the rates B1 and B2 referred to in the formulae in regulation 6,\nare, respectively, such rates as the Authority determines to be just and reasonable, having regard to the Use Group which most closely corresponds to the purpose for which the development is authorised or to be authorised."
+   }
+  },
+  {
+   "id": "SG-H2941-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 TABLE OF RATES METHOD"
+   },
+   "heading": {
+    "en": "Special provision for residential developments"
+   },
+   "text": {
+    "en": "8.—(1) Where —\n(a)any land is used or permitted to be used under the Planning Act 1998 or the predecessor Act for a residential purpose only; and\n(b)the chargeable consent given is —\n(i)a written permission entitling a person to use the land for that purpose; and\n(ii)expressed in terms of approved density of “persons per hectare” or “persons per acre” only,\nthe pre-chargeable valuation of the land in relation to which the chargeable consent is given is the higher of the following:\n(c)the amount worked out according to the formula in regulation 5;\n(d)the amount worked out according to the formula in regulation 5 as modified by paragraphs (2), (3), (4) and (5).\n(2) Except as provided in paragraph (3), the formula in regulation 5 applies as if all references to the floor area in that formula were substituted with references to the area obtained —\n(a)by multiplying firstly, the approved density with a factor as follows:\n(i)0.0056 unless sub-paragraph (ii) applies;\n(ii)0.0042 if the land is the subject of a State title containing a development control restrictive covenant, and the taxable person is the HDB; and\n(b)then by multiplying that product under sub‑paragraph (a) with the area of the land as specified in the plans which form the subject of the written permission.\n(3) For the purposes of paragraph (2), approved density, if expressed in terms of “persons per acre” must be converted to be in terms of “persons per hectare”.\n(4) However, where the land is zoned for Residential purpose or for Residential/Institution purpose or for Residential with Commercial at 1st Storey purpose in the 2019 Master Plan with a specified plot ratio, and the 2019 Master Plan value of the land (as worked out according to paragraph (5)) is lower than the pre‑chargeable valuation of the land using the formula in regulation 5 as modified by paragraph (2) and using the rate specified in the Third Schedule in place of the rate in the Second Schedule, the pre-chargeable valuation of the land is to be instead worked out using the formula in regulation 5 as modified by regulation 11(2), where applicable as if all the references to the floor area and Use Group in the formula were substituted with references as follows:\n(a)where the land is zoned for Residential purpose or for Residential/Institution purpose in the 2019 Master Plan with a specified plot ratio —\n(i)the floor area is the area worked out in accordance with the formula\n(ii)the Use Group of the last authorised development of the land is a reference to B2;\n(b)where the land is zoned for Residential with Commercial at 1st Storey purpose with a specified plot ratio in the 2019 Master Plan —\n(i)the floor area for Residential purpose is the area worked out in accordance with the formula\n(ii)the Use Group of the last authorised development of the land is a reference to B2;\n(c)where the land is zoned for Residential with Commercial at 1st Storey purpose with a specified plot ratio in the 2019 Master Plan —\n(i)the floor area for Commercial purpose is the area worked out in accordance with the formula\n(ii)the Use Group of the last authorised development of the land is a reference to A.\n(5) For the purposes of paragraph (4) —\n(a)the 2019 Master Plan Value of any land that is zoned for Residential purpose in the 2019 Master Plan or for Residential/Institution purpose in the 2019 Master Plan with a specified plot ratio, is the value worked out in accordance with the formula\n(b)where the land is zoned for Residential with Commercial at 1st Storey purpose in the 2019 Master Plan, the 2019 Master Plan value is worked out in accordance with the formula\nwhere —\n(c)X1 is the plot ratio specified for the land in the 2019 Master Plan (without any modification by Paragraph 6.4 of the written statement to the 2019 Master Plan) multiplied by the area of the land as specified in the plans which form the subject of the written permission;\n(d)Y1 is the rate specified in the Third Schedule corresponding to Use Group B2 and the appropriate geographical sector of the land as defined in the Third Schedule; and\n(e)Y2 is the rate specified in the Third Schedule corresponding to Use Group A and the appropriate geographical sector of the land as defined in the Third Schedule.\n(6) The following provisions apply for the purposes of determining the pre‑chargeable valuation and the post‑chargeable valuation in relation to any residential development comprising both strata landed dwelling‑houses and non‑landed residential buildings:\n(a)the formulae in regulation 5 is to apply in the first instance as if the floor area of the residential development that is permitted to be used —\n(i)for the strata landed dwelling‑houses;\n(ii)for the non-landed residential buildings;\n(iii)for non-residential use, if any; and\n(iv)as the common property of the residential development,\nare each separate and distinct developments, and then the respective values so derived must be totalled;\n(b)the formulae in regulation 6 is to apply as if the floor area of the residential development that was previously authorised or is to be authorised, as the case may be —\n(i)for the strata landed dwelling-houses;\n(ii)for the non-landed residential buildings;\n(iii)for non-residential use, if any; and\n(iv)as the common property of the residential development,\nare each separate and distinct developments, and then the respective values so derived must be totalled;\n(c)where any part of the common property of the residential development is designed or constructed to be used exclusively or predominantly for the purpose of any of the strata landed dwelling-houses or non-landed residential buildings, the floor area of that part of the common property must be reckoned as part of the floor area of the strata landed dwelling‑houses or non-landed residential buildings, as the case may be;\n(d)with regard to any part of the common property of the residential development not falling within sub‑paragraph (c), the rate to be applied in the formulae prescribed in regulations 5 and 6, respectively, must be the average of the 2 rates for Use Groups B1 and B2 corresponding to the appropriate geographical sector of the land on which the residential development is situated.\n(7) For the purposes of paragraph (6), the common property of a residential development means all floor area, which is neither —\n(a)floor area permitted or previously authorised or to be authorised for non‑residential use; nor\n(b)comprised within any strata landed dwelling‑house or any unit in a non‑landed residential building comprised in the residential development."
+   }
+  },
+  {
+   "id": "SG-H2941-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 TABLE OF RATES METHOD"
+   },
+   "heading": {
+    "en": "Special provision for development involving single dwelling‑house"
+   },
+   "text": {
+    "en": "9. Despite regulations 5 and 8, where the development of the land authorised is a single dwelling‑house erected on one or more lots of land where there is no other dwelling‑house erected on the lot or those lots of land, the pre‑chargeable valuation for the dwelling‑house is the amount of land betterment charge that is not payable for the land worked out according to paragraph 16 of the Land Betterment Charge (Concessionary Relief) Order 2022."
+   }
+  },
+  {
+   "id": "SG-H2941-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 TABLE OF RATES METHOD"
+   },
+   "heading": {
+    "en": "Special provision for Use Groups F, G and H"
+   },
+   "text": {
+    "en": "10. Where any land is authorised to be developed for a purpose falling within Use Group F, G or H, the formulae in regulations 5 and 6 must apply as if all references in those formulae to floor area were substituted with references to the land area of the land."
+   }
+  },
+  {
+   "id": "SG-H2941-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 TABLE OF RATES METHOD"
+   },
+   "heading": {
+    "en": "Multiple purposes"
+   },
+   "text": {
+    "en": "11.—(1) Where a chargeable consent entitles a person to develop any land for 2 or more purposes falling within 2 or more Use Groups, the land betterment charge in respect of the chargeable consent given in relation to the development of the land is to be determined in accordance with Part 2 of the Act and, unless an election is made under section 9(3)(a) of the Act, the formulae in regulations 5 and 6, subject to the modifications in this regulation.\n(2) Where the land, or the building on or to be erected on the land, may be divided into parts, each of which is intended to be used exclusively for any one of the purposes falling within 2 or more Use Groups, sections 8 and 9(1) of the Act and these Regulations apply to each part as if each part were a separate development.\n(3) Where it is impracticable to divide any floor or part of a floor of the building on or to be erected on the land in the manner described in paragraph (2) —\n(a)subject to sub-paragraphs (b) and (c), in determining the post‑chargeable valuation properly attributable to the floor or part of a floor, B2 in the formula specified in regulation 6(3) is the rate in the Second Schedule corresponding to both the appropriate geographical sector of the land and the Predominant Use Group of the land;\n(b)where the land is zoned in the Master Plan for any purpose set out in the first column of the table in Part 1 of the Fourth Schedule, in determining the post‑chargeable valuation properly attributable to the floor or part of a floor, B2 in the formula specified in regulation 6(3) is to be determined in accordance with the formula set out opposite in the second column of that table corresponding to that purpose; or\n(c)where the land is sold or leased by or on behalf of the Government, or by the URA before 1 January 1983 (whether acting on its own behalf or as an agent for the HDB), and the terms and conditions of the sale or lease —\n(i)state that the land is to be developed for 2 or more purposes (each called in this regulation a specified purpose); and\n(ii)state the floor area for each specified purpose,\nthen, in determining the post‑chargeable valuation properly attributable to the floor or part of a floor, B2 in the formula specified in regulation 6(3) is the weighted average of the relevant rates for the specified purposes, calculated according to the amount of floor area for each specified purpose.\n(4) The land betterment charge for a chargeable consent given in relation to a development of the whole land is the aggregate of such of the following as may be applicable:\n(a)the amount of every land betterment charge attributable to each part mentioned in paragraph (2);\n(b)the amount of every land betterment charge attributable to a floor or part of a floor mentioned in paragraph (3).\n(5) For the purposes of paragraph (3)(c) —\n(a)where the Authority is of the opinion that the amount of floor area for a specified purpose is not material having regard to the total floor area of the development on the land, the Authority may disregard that specified purpose when calculating the weighted average in paragraph (3)(c);\n(b)the Authority must disregard any variation or changes to the terms and conditions of the sale or lease of the land that are agreed on, after the sale or lease of the land, between —\n(i)the purchaser or lessee of the land; and\n(ii)the vendor or lessor of the land referred to in paragraph (3)(c) which sold or leased the land; and\n(c)the Authority must treat the amount of floor area for any specified purpose as being a fixed amount, a maximum amount or a minimum amount, depending on what is stated in the terms and conditions of the sale or lease of the land.\n(6) In this regulation —\n“Predominant Use Group”, in relation to any land, means the Use Group for the purposes (as set out in the First Schedule) for which are the predominant use permissible under the zoning in the Master Plan for the development of that land;\n“relevant rate”, in relation to a specified purpose, means the rate corresponding to both the appropriate geographical sector of the land and the Use Group within which that specified purpose falls."
+   }
+  },
+  {
+   "id": "SG-H2941-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 TABLE OF RATES METHOD"
+   },
+   "heading": {
+    "en": "Special provision where partial change of use or addition or alteration work with increase in floor area"
+   },
+   "text": {
+    "en": "12.—(1) Where the chargeable consent entitles a person —\n(a)to change the use of any part (not the whole) of any land to any purpose without resulting in an increase in the floor area;\n(b)to carry out addition or alteration works on any land —\n(i)without any change in the use of any part of the land to another purpose of any kind; and\n(ii)resulting in an increase in the floor area; or\n(c)to carry out addition or alteration works on any land resulting in —\n(i)an increase in the floor area (called in this regulation the additional floor area); and\n(ii)a change in the use of any part (not the whole) of the land together with the additional floor area to another purpose of any kind,\nthe pre-chargeable valuation and the post‑chargeable valuation of the land in relation to which the chargeable consent is given is to be worked out in accordance with paragraphs (2), (3) and (4), respectively, unless the taxable person concerned requests under paragraph (5) the Authority to disapply this paragraph in ascertaining the amount of land betterment charge payable by the taxable person for that chargeable consent.\n(2) Where the chargeable consent entitles a person to change the use of any part (not the whole) of any land to any purpose as described in paragraph (1)(a) —\n(a)the pre‑chargeable valuation of the land in relation to which the chargeable consent is given is to be worked out in accordance with the formula\nwhere —\n(i)Y1 is the floor area affected by the proposed change of use; and\n(ii)Z1 is the rate in the Second Schedule corresponding to both the appropriate geographical sector of the land and the Use Group within which the last permanent approved use falls; and\n(b)the post-chargeable valuation of the land in relation to which the chargeable consent is given is to be worked out in accordance with the formula\nwhere —\n(i)Y1 is the floor area affected by the proposed change of use; and\n(ii)Z2 is the rate in the Second Schedule corresponding to both the appropriate geographical sector of the land and the Use Group within which that proposed purpose falls.\n(3) Where the chargeable consent entitles a person to carry out addition and alteration works described in paragraph (1)(b) without any change in the use of any part of the land to another purpose of any kind —\n(a)the pre-chargeable valuation of the land in relation to which the chargeable consent is given is zero; and\n(b)the post-chargeable valuation of the land in relation to which the chargeable consent is given is to be worked out in accordance with the formula\nwhere —\n(i)Y2 is the increase in floor area affected by the proposed addition or alteration works; and\n(ii)Z3 is the rate in the Second Schedule corresponding to both the appropriate geographical sector of the land and the Use Group within which the continued purpose falls.\n(4) Where the chargeable consent given entitles a person to carry out addition and alteration works on any land described in paragraph (1)(c) —\n(a)the pre‑chargeable valuation of the land in relation to which the chargeable consent is given is to be worked out in accordance with the formula\nwhere —\n(i)Y2 is the floor area (excluding the additional floor area) affected by the proposed change of use; and\n(ii)Z1 is the rate in the Second Schedule corresponding to both the appropriate geographical sector of the land and the Use Group within which the last permanent approved use falls; and\n(b)the post-chargeable valuation of the land in relation to which the chargeable consent is given is to be worked out in accordance with the formula\nwhere —\n(i)Y3 is the floor area (excluding the additional floor area) affected by the proposed change of use;\n(ii)Y4 is the additional floor area;\n(iii)Z3 is the rate in the Second Schedule corresponding to both the appropriate geographical sector of the land and the Use Group within which that proposed purpose falls; and\n(iv)Z4 is the rate in the Second Schedule corresponding to both the appropriate geographical sector of the land and the Use Group within which the purpose for the additional floor area falls.\n(5) Where the chargeable consent entitles a person —\n(a)to change the use of a part (not the whole) of, or carry out addition or alteration works on, any land which is not comprised in a strata title plan;\n(b)to change the use of a part (not the whole) of, or carry out addition or alteration works to, any common property (as defined in the Building Maintenance and Strata Management Act 2004) comprised in a strata title plan land, for any purpose; or\n(c)to change the use of a part (not the whole) of, or carry out addition or alteration works to, a lot within a strata title plan for any purpose, provided that the subsidiary proprietor of that lot is the same as the subsidiary proprietors for every other lot on the same strata title plan,\nthe owner of the land may request the Authority to disapply paragraph (1) in ascertaining the amount of land betterment charge payable by the taxable person for that chargeable consent.\n(6) A request under paragraph (5) by a taxable person to disapply paragraph (1) in ascertaining the amount of land betterment charge payable by the taxable person for that chargeable consent relating to any land —\n(a)must be made to the Authority no later than 5 working days after the chargeable consent is given;\n(b)once received by the Authority, cannot be withdrawn; and\n(c)may be made only if a formula is prescribed under these Regulations for ascertaining both the pre‑chargeable valuation and post‑chargeable valuation of the land.\n(7) To avoid doubt, a reference in this regulation to changing the use of a part of any land includes a reference to changing the use of a part of any building on the land."
+   }
+  },
+  {
+   "id": "SG-H2941-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 TABLE OF RATES METHOD"
+   },
+   "heading": {
+    "en": "Disregarded hotel development in determining pre-chargeable valuation"
+   },
+   "text": {
+    "en": "13. The prescribed lands for the purposes of section 11(4)(e) of the Act are listed by their respective addresses and are delineated by maps set out in the Fifth Schedule."
+   }
+  },
+  {
+   "id": "SG-H2941-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 TABLE OF RATES METHOD"
+   },
+   "heading": {
+    "en": "Discounting for temporary written permission"
+   },
+   "text": {
+    "en": "14. Where any chargeable consent given in relation to a development or a subdivision of any land is a temporary written permission, the amount of land betterment charge payable under the Act in respect of the chargeable consent is ascertained by —\n(a)first, working out the amount of land betterment charge according to Division 1 or 2;\n(b)then, ascertaining the percentage specified in the Sixth Schedule corresponding to the range within which falls the specified period (rounded up to the nearest month or year, as the case may be) that the planning permission or conservation permission is granted; and\n(c)finally, calculating the sum that is the percentage ascertained under paragraph (b) of the amount worked out under paragraph (a), rounded up to the nearest dollar."
+   }
+  },
+  {
+   "id": "SG-H2941-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 TABLE OF RATES METHOD"
+   },
+   "heading": {
+    "en": "Discounting for leasehold land"
+   },
+   "text": {
+    "en": "15.—(1) Where the chargeable consent given in relation to a development or a subdivision of any land which is the subject of a State title that is none of the following:\n(a)a grant in fee simple;\n(b)a grant of an estate in perpetuity;\n(c)a State lease the tenure of which (or balance thereof) is more than 99 years when the chargeable consent is given,\nthe amount of land betterment charge payable under the Act in respect of the chargeable consent is ascertained by —\n(d)first, working out the amount of land betterment charge according to Division 1 or 2 as if the land were the subject of a State title mentioned in sub‑paragraph (a), (b) or (c);\n(e)then, ascertaining the percentage specified in the Seventh Schedule corresponding to the tenure in whole years (or a balance thereof) of the land when the chargeable consent is given; and\n(f)finally, calculating the sum that is the percentage ascertained under sub‑paragraph (e) of the amount worked out under sub‑paragraph (d), rounded up to the nearest dollar.\n(2) For the purposes of paragraph (1)(e), where the tenure (or a balance thereof) of the land consists of any part of a year, the tenure must be rounded to the nearest year."
+   }
+  },
+  {
+   "id": "SG-H2941-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 TABLE OF RATES METHOD"
+   },
+   "heading": {
+    "en": "No double discounting"
+   },
+   "text": {
+    "en": "16. Where any chargeable consent given in relation to a development or a subdivision of any land is a temporary written permission, and the land is the subject of a State title that is none of those mentioned in regulation 15(1)(a), (b) and (c), the amount of land betterment charge payable under the Act in respect of the chargeable consent is ascertained by the steps in regulation 14(a), (b) and (c) only."
+   }
+  },
+  {
+   "id": "SG-H2941-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 VALUATION METHOD"
+   },
+   "heading": {
+    "en": "Application of Part"
+   },
+   "text": {
+    "en": "17. This Part applies only to —\n(a)a development or a subdivision of any land mentioned in section 9(2) of the Act in relation to which a chargeable consent is given;\n(b)any other development in relation to which a chargeable consent is given and an election under section 9(3)(a) of the Act is made by all taxable persons concerned; or\n(c)a development or a subdivision of any land in relation to which a chargeable consent is given where the Table of Rates method is inapplicable to the particular development."
+   }
+  },
+  {
+   "id": "SG-H2941-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 VALUATION METHOD"
+   },
+   "heading": {
+    "en": "Election to use Valuation method instead of Table of Rates method"
+   },
+   "text": {
+    "en": "18. For the purpose of section 9(4) of the Act, an election under section 9(3)(a) of the Act for the Valuation method to be so used, in lieu of the Table of Rates method, to ascertain the amount of the land betterment charge in respect of any chargeable consent given in relation to a development or a subdivision of any land (except that mentioned in section 8(2) of the Act) must be made —\n(a)no later than the 7th day after the date the chargeable consent is given; and\n(b)in the form set out in https://www.sla.gov.sg/properties/land-betterment-charge/.\n[S 581/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H2941-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 5 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Requirements for determination of land betterment charge"
+   },
+   "text": {
+    "en": "19. For the purposes of determining the land betterment charge using the Table of Rates method or the Valuation method, the Authority may require an applicant to submit —\n(a)a detailed calculation, based on such Method and requirements as the Authority may specify, of the floor area which is C in the formula specified in regulation 5; and\n(b)any plans, documents and other information, together with any evidence in support of the information, that the Authority may specify."
+   }
+  },
+  {
+   "id": "SG-H2941-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulations 2 and 11\nUse groups\nFirst column\nSecond column\nUse Group\nDescription of purposes\n1.A\nShop, office, association office, cinema, place of entertainment, clinic, medical suite, restaurant, petrol station, auto‑service centre, commercial garage, market, sports and recreation building\n2.B1\nResidential (landed dwelling-house)\n3.B2\nResidential (non-landed residential building)\n4.C\nHospital, hotel room and hotel-related use\n5.D\nIndustrial, warehousing, science park, business park, transport depot, airport, dock, port uses, utility installation, telecommunication infrastructure, Mass Rapid Transit Station, Light Rail Transit Station\n6.E\nPlace of worship, community building, community sports and fitness building, educational and institutional uses, government building\n7.F\nOpen space, nature reserve\n8.G\nAgriculture\n9.H\nDrain, road, railway, cemetery, Mass Rapid Transit Route, Light Rail Transit Route"
+   }
+  },
+  {
+   "id": "SG-H2941-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulations 2, 5, 6, 8, 11 and 12\nTable of rates and plans\nPart 1\nTABLE OF RATES\nPER SQUARE METRE\nGeographical Sectors\nUse Groups\nA\nB1\nB2\nC\nD\nE\nF\nG\nH\n1\n$15,400\n$5,740\n$11,340\n$13,720\n$917\n$1,050\n$10\n-\n$1\n2\n$15,400\n$5,740\n$11,340\n$13,720\n$917\n$1,050\n$10\n-\n$1\n3\n$15,400\n$5,740\n$11,340\n$18,270\n$917\n$1,050\n$10\n-\n$1\n4\n$15,400\n$5,740\n$11,340\n$16,240\n$917\n$1,050\n$10\n-\n$1\n5\n$15,400\n$5,740\n$11,340\n$18,270\n$917\n$1,050\n$10\n-\n$1\n6\n$15,400\n$5,740\n$11,340\n$18,270\n$917\n$1,050\n$10\n-\n$1\n7\n$13,650\n$5,740\n$11,340\n$14,420\n$917\n$1,050\n$10\n-\n$1\n8\n$12,880\n$5,740\n$11,340\n$13,020\n$917\n$1,050\n$10\n-\n$1\n9\n$13,650\n$5,740\n$11,340\n$13,020\n$917\n$1,050\n$10\n-\n$1\n10\n$12,880\n$5,740\n$11,340\n$13,020\n$917\n$1,050\n$10\n-\n$1\n11\n$15,750\n$5,740\n$11,340\n$14,840\n$917\n$1,050\n$10\n-\n$1\n12\n$15,750\n$5,740\n$11,340\n$18,270\n$917\n$1,050\n$10\n-\n$1\n13\n$10,850\n$5,740\n$11,340\n$12,670\n$917\n$1,050\n$10\n-\n$1\n14\n$10,850\n$5,740\n$11,340\n$12,670\n$917\n$1,050\n$10\n-\n$1\n15\n$13,650\n$5,740\n$11,340\n$12,670\n$917\n$1,050\n$10\n-\n$1\n16\n$13,650\n$5,740\n$11,340\n$14,000\n$917\n$1,050\n$10\n-\n$1\n17\n$12,600\n$5,740\n$11,340\n$12,670\n$917\n$1,050\n$10\n-\n$1\n18\n$12,600\n$5,740\n$11,340\n$12,670\n$917\n$1,050\n$10\n-\n$1\n19\n$12,600\n$5,740\n$13,020\n$15,540\n$1,022\n$1,050\n$10\n-\n$1\n20\n$12,600\n$5,740\n$12,110\n$15,540\n$1,022\n$1,050\n$10\n-\n$1\n21\n$13,650\n$5,740\n$12,110\n$14,000\n$1,022\n$1,050\n$10\n-\n$1\n22\n$8,750\n$5,740\n$12,110\n$12,950\n$917\n$1,050\n$10\n-\n$1\n23\n$13,300\n$5,740\n$13,720\n$15,540\n$917\n$1,050\n$10\n-\n$1\n24\n$10,500\n$5,740\n$9,590\n$12,950\n$917\n$1,050\n$10\n-\n$1\n25\n$9,800\n$5,180\n$9,590\n$12,950\n$917\n$1,050\n$10\n-\n$1\n26\n$10,150\n$5,180\n$9,590\n$12,950\n$917\n$1,050\n$10\n-\n$1\n27\n$10,150\n$5,180\n$9,590\n$12,950\n$917\n$1,050\n$10\n-\n$1\n28\n$9,800\n$5,180\n$8,820\n$12,950\n$917\n$1,050\n$10\n-\n$1\n29\n$9,800\n$5,180\n$8,820\n$12,950\n$917\n$1,050\n$10\n-\n$1\n30\n$9,800\n$5,180\n$8,820\n$12,950\n$917\n$1,050\n$10\n-\n$1\n31\n$10,850\n$5,180\n$8,820\n$12,950\n$917\n$1,050\n$10\n-\n$1\n32\n$10,850\n$5,180\n$8,820\n$12,950\n$917\n$1,050\n$10\n-\n$1\n33\n$9,100\n$5,180\n$9,590\n$12,950\n$917\n$1,050\n$10\n-\n$1\n34\n$8,400\n$7,840\n$10,430\n$12,950\n$917\n$1,050\n$10\n-\n$1\n35\n$8,400\n$7,840\n$12,110\n$12,950\n$917\n$1,050\n$10\n-\n$1\n36\n$7,560\n$7,840\n$13,160\n$12,950\n$917\n$1,050\n$10\n-\n$1\n37\n$10,150\n$7,840\n$14,350\n$12,950\n$917\n$1,050\n$10\n-\n$1\n38\n$9,100\n$13,720\n$13,720\n$12,950\n$917\n$1,050\n$10\n-\n$1\n39\n$9,100\n$17,710\n$14,560\n$16,240\n$917\n$1,050\n$10\n-\n$1\n40\n$10,850\n$13,720\n$14,560\n$16,240\n$917\n$1,050\n$10\n-\n$1\n41\n$17,850\n$8,960\n$14,560\n$19,110\n$917\n$1,050\n$10\n-\n$1\n42\n$18,550\n$13,720\n$14,560\n$19,110\n$917\n$1,050\n$10\n-\n$1\n43\n$14,700\n$13,720\n$15,540\n$18,270\n$917\n$1,050\n$10\n-\n$1\n44\n$9,450\n$17,710\n$14,560\n$15,540\n$917\n$1,050\n$10\n-\n$1\n45\n$9,450\n$13,720\n$14,560\n$15,540\n$917\n$1,050\n$10\n-\n$1\n46\n$9,450\n$10,990\n$13,090\n$12,320\n$917\n$1,050\n$10\n-\n$1\n47\n$9,450\n$11,690\n$13,090\n$12,320\n$917\n$1,050\n$10\n-\n$1\n48\n$8,400\n$10,990\n$13,090\n$12,320\n$1,022\n$1,050\n$10\n-\n$1\n49\n$8,120\n$5,180\n$9,800\n$9,590\n$1,022\n$1,050\n$10\n-\n$1\n50\n$8,120\n$5,180\n$11,410\n$9,590\n$917\n$1,050\n$10\n-\n$1\n51\n$10,150\n$5,390\n$10,430\n$11,200\n$1,764\n$1,050\n$10\n-\n$1\n52\n$7,560\n$5,320\n$10,360\n$8,960\n$1,764\n$1,050\n$10\n-\n$1\n53\n$10,150\n$5,390\n$10,010\n$11,690\n$1,764\n$1,050\n$10\n-\n$1\n54\n$7,560\n$5,320\n$9,940\n$6,860\n$2,163\n$1,050\n$10\n-\n$1\n55\n$7,560\n$5,320\n$9,520\n$6,860\n$1,764\n$1,050\n$10\n-\n$1\n56\n$7,560\n$5,320\n$9,520\n$6,860\n$2,163\n$1,050\n$10\n-\n$1\n57\n$7,560\n$5,530\n$10,010\n$6,860\n$1,764\n$1,050\n$10\n-\n$1\n58\n$10,150\n$7,070\n$10,360\n$11,200\n$1,764\n$1,050\n$10\n-\n$1\n59\n$9,450\n$7,070\n$10,290\n$12,320\n$1,764\n$1,050\n$10\n-\n$1\n60\n$12,600\n$7,280\n$12,110\n$12,950\n$917\n$1,050\n$10\n-\n$1\n61\n$10,850\n$9,730\n$12,110\n$12,950\n$917\n$1,050\n$10\n-\n$1\n62\n$10,850\n$14,490\n$13,300\n$12,950\n$917\n$1,050\n$10\n-\n$1\n63\n$8,400\n$12,390\n$12,110\n$10,850\n$917\n$1,050\n$10\n-\n$1\n64\n$7,000\n$12,390\n$8,540\n$8,960\n$917\n$1,050\n$10\n-\n$1\n65\n$7,560\n$14,490\n$11,130\n$9,590\n$917\n$1,050\n$10\n-\n$1\n66\n$8,050\n$19,250\n$13,720\n$12,950\n$903\n$1,050\n$10\n-\n$1\n67\n$11,200\n$22,330\n$14,560\n$16,170\n$917\n$1,050\n$10\n-\n$1\n68\n$8,050\n$17,850\n$13,160\n$10,850\n$903\n$1,050\n$10\n-\n$1\n69\n$8,050\n$17,850\n$13,160\n$10,850\n$903\n$1,050\n$10\n-\n$1\n70\n$9,800\n$19,250\n$14,350\n$12,950\n$1,022\n$1,050\n$10\n-\n$1\n71\n$8,540\n$9,730\n$12,110\n$12,950\n$1,022\n$1,050\n$10\n-\n$1\n72\n$7,560\n$6,300\n$10,290\n$8,190\n$2,394\n$1,050\n$10\n-\n$1\n73\n$7,560\n$5,390\n$10,010\n$8,190\n$2,597\n$1,050\n$10\n-\n$1\n74\n$7,560\n$5,390\n$10,150\n$8,960\n$2,597\n$1,050\n$10\n-\n$1\n75\n$7,560\n$5,390\n$10,010\n$8,190\n$2,597\n$1,050\n$10\n-\n$1\n76\n$8,400\n$5,530\n$11,200\n$8,190\n$1,351\n$1,050\n$10\n-\n$1\n77\n$7,560\n$5,530\n$8,190\n$8,190\n$2,597\n$1,050\n$10\n-\n$1\n78\n$7,560\n$5,530\n$10,150\n$8,190\n$2,597\n$1,050\n$10\n-\n$1\n79\n$7,560\n$5,390\n$10,010\n$8,190\n$2,597\n$1,050\n$10\n-\n$1\n80\n$11,200\n$5,530\n$10,150\n$8,190\n$2,597\n$1,050\n$10\n-\n$1\n81\n$7,560\n$5,390\n$10,010\n$8,190\n$2,597\n$1,050\n$10\n-\n$1\n82\n$7,560\n$5,530\n$10,150\n$8,190\n$2,597\n$1,050\n$10\n-\n$1\n83\n$7,560\n$5,530\n$10,150\n$8,190\n$2,597\n$1,050\n$10\n-\n$1\n84\n$7,560\n$5,390\n$10,010\n$8,190\n$2,597\n$1,050\n$10\n-\n$1\n85\n$7,560\n$5,530\n$10,150\n$8,190\n$2,597\n$1,050\n$10\n-\n$1\n86\n$7,560\n$5,530\n$10,010\n$8,190\n$2,597\n$1,050\n$10\n-\n$1\n87\n$7,560\n$5,390\n$10,010\n$8,190\n$2,597\n$1,050\n$10\n-\n$1\n88\n$12,950\n$7,140\n$11,410\n$12,950\n$2,597\n$1,050\n$10\n-\n$1\n89\n$7,350\n$5,180\n$9,800\n$8,190\n$938\n$1,050\n$10\n-\n$1\n90\n$7,350\n$5,180\n$9,800\n$8,190\n$938\n$1,050\n$10\n-\n$1\n91\n$7,350\n$12,040\n$11,340\n$6,580\n$938\n$1,050\n$10\n-\n$1\n92\n$7,350\n$8,820\n$10,220\n$9,590\n$938\n$840\n$10\n-\n$1\n93\n$9,800\n$8,820\n$8,750\n$11,200\n$938\n$840\n$10\n-\n$1\n94\n$11,200\n$8,820\n$11,340\n$11,200\n$938\n$840\n$10\n-\n$1\n95\n$7,700\n$9,170\n$9,730\n$6,580\n$938\n$840\n$10\n-\n$1\n96\n$8,750\n$7,980\n$10,780\n$6,580\n$938\n$840\n$10\n$34\n$1\n97\n$7,700\n$8,750\n$9,450\n$6,580\n$903\n$840\n$10\n$34\n$1\n98\n$11,200\n$7,420\n$7,700\n$6,580\n$1,988\n$840\n$10\n$34\n$1\n99\n$8,400\n$6,090\n$7,560\n$6,580\n$1,162\n$840\n$10\n$34\n$1\n100\n$11,200\n$6,370\n$7,630\n$5,460\n$903\n$840\n$10\n$34\n$1\n101\n$10,850\n$7,140\n$9,450\n$6,580\n$2,877\n$840\n$10\n$34\n$1\n102\n$7,700\n$5,530\n$8,190\n$9,590\n$2,877\n$840\n$10\n$34\n$1\n103\n$11,200\n$8,610\n$10,500\n$6,580\n$2,877\n$840\n$10\n$34\n$1\n104\n$11,200\n$8,610\n$10,500\n$5,600\n$2,394\n$840\n$10\n$34\n$1\n105\n$11,200\n$6,720\n$7,630\n$5,600\n$2,205\n$840\n$10\n$34\n$1\n106\n$9,730\n$5,110\n$7,560\n$5,460\n$903\n$840\n$10\n$34\n$1\n107\n$8,400\n$7,560\n$8,540\n$5,600\n$1,988\n$840\n$10\n$34\n$1\n108\n$9,800\n$15,610\n$11,900\n$8,190\n$1,764\n$840\n$10\n$34\n$1\n109\n$8,400\n$12,810\n$11,900\n$8,190\n$1,022\n$840\n$10\n$34\n$1\n110\n$12,950\n$11,130\n$10,500\n$8,190\n$1,022\n$840\n$10\n$34\n$1\n111\n$11,550\n$7,350\n$9,800\n$8,540\n$2,898\n$840\n$10\n$34\n$1\n112\n$11,550\n$7,350\n$9,100\n$8,190\n$1,351\n$840\n$10\n$34\n$1\n113\n$11,200\n$7,350\n$8,750\n$5,600\n$1,008\n$840\n$10\n$34\n$1\n114\n$11,200\n$5,110\n$7,560\n$5,460\n$875\n$840\n$10\n$34\n$1\n115\n$11,200\n$5,110\n$7,560\n$5,460\n$994\n$840\n$10\n$34\n$1\n116\n$1,085\n$1,120\n$1,155\n$945\n$539\n$441\n$10\n$34\n$1\n117\n$9,450\n$13,160\n$12,110\n$16,590\n$441\n$441\n$10\n$34\n$1\n118\n$1,085\n$1,120\n$1,155\n$945\n$441\n$441\n$10\n$34\n$1\nPart 2\nPLANS\n[S 581/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H2941-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulation 8\nFixed rates and plans for\nresidential developments\nPart 1\nTABLE OF fixed RATES\nPER SQUARE METRE\nGeographical Sectors\nUse Groups\nA\nB1\nB2\n1\n$13,417\n$4,060\n$11,550\n2\n$13,417\n$4,060\n$11,550\n3\n$13,417\n$4,060\n$11,550\n4\n$13,417\n$4,060\n$11,550\n5\n$13,417\n$4,060\n$11,550\n6\n$13,417\n$4,060\n$11,550\n7\n$11,760\n$4,060\n$11,550\n8\n$11,200\n$4,060\n$11,550\n9\n$11,900\n$4,060\n$11,550\n10\n$11,200\n$4,060\n$11,550\n11\n$13,883\n$4,060\n$11,550\n12\n$13,883\n$4,060\n$11,550\n13\n$9,753\n$4,060\n$11,550\n14\n$9,753\n$4,060\n$11,550\n15\n$12,250\n$4,060\n$10,383\n16\n$12,250\n$4,060\n$10,430\n17\n$11,200\n$4,060\n$10,383\n18\n$11,200\n$4,060\n$10,383\n19\n$11,200\n$4,060\n$11,247\n20\n$11,200\n$4,060\n$9,800\n21\n$12,250\n$4,060\n$9,800\n22\n$7,513\n$4,060\n$9,800\n23\n$11,492\n$4,060\n$11,247\n24\n$9,753\n$4,060\n$7,980\n25\n$9,403\n$3,570\n$7,980\n26\n$9,753\n$3,570\n$7,980\n27\n$9,753\n$3,570\n$7,980\n28\n$9,403\n$3,570\n$7,047\n29\n$9,403\n$3,570\n$7,047\n30\n$9,403\n$3,570\n$7,047\n31\n$10,138\n$3,570\n$7,047\n32\n$10,138\n$3,570\n$7,047\n33\n$7,852\n$3,570\n$7,980\n34\n$7,513\n$5,063\n$9,508\n35\n$7,513\n$4,993\n$9,917\n36\n$6,813\n$4,993\n$10,967\n37\n$9,753\n$4,993\n$12,133\n38\n$7,852\n$8,353\n$12,133\n39\n$7,852\n$11,480\n$16,217\n40\n$10,325\n$8,353\n$14,817\n41\n$13,708\n$5,705\n$14,817\n42\n$14,408\n$8,528\n$16,217\n43\n$11,492\n$8,528\n$17,617\n44\n$7,852\n$11,480\n$16,217\n45\n$7,852\n$8,353\n$16,217\n46\n$7,852\n$6,802\n$12,530\n47\n$7,852\n$7,082\n$12,472\n48\n$7,513\n$6,802\n$12,133\n49\n$7,513\n$3,570\n$7,980\n50\n$7,513\n$3,570\n$9,672\n51\n$9,753\n$3,780\n$9,263\n52\n$6,813\n$3,710\n$9,170\n53\n$9,753\n$3,780\n$7,560\n54\n$6,230\n$3,710\n$6,055\n55\n$6,230\n$3,710\n$6,055\n56\n$6,230\n$3,710\n$6,055\n57\n$6,230\n$3,780\n$7,257\n58\n$9,753\n$4,608\n$7,863\n59\n$9,053\n$4,608\n$7,560\n60\n$11,725\n$4,445\n$9,800\n61\n$10,325\n$5,868\n$9,800\n62\n$10,325\n$8,353\n$11,247\n63\n$7,513\n$7,082\n$9,800\n64\n$5,460\n$7,152\n$7,047\n65\n$6,813\n$8,528\n$9,263\n66\n$6,813\n$11,480\n$12,133\n67\n$10,325\n$12,472\n$16,217\n68\n$6,813\n$10,453\n$10,967\n69\n$6,813\n$10,453\n$10,967\n70\n$7,852\n$11,480\n$12,763\n71\n$7,513\n$5,950\n$9,800\n72\n$6,813\n$4,340\n$7,863\n73\n$6,813\n$3,780\n$7,257\n74\n$6,813\n$3,780\n$7,560\n75\n$6,813\n$3,780\n$7,257\n76\n$7,513\n$3,920\n$9,543\n77\n$6,813\n$3,920\n$5,833\n78\n$6,813\n$3,920\n$7,560\n79\n$6,813\n$3,780\n$7,257\n80\n$10,325\n$3,920\n$7,560\n81\n$6,813\n$3,780\n$7,257\n82\n$6,813\n$3,920\n$7,560\n83\n$6,813\n$3,920\n$7,560\n84\n$6,813\n$3,780\n$7,257\n85\n$6,813\n$3,920\n$7,560\n86\n$6,813\n$3,920\n$7,257\n87\n$6,813\n$3,780\n$7,257\n88\n$11,725\n$4,993\n$10,780\n89\n$6,813\n$3,570\n$6,907\n90\n$6,813\n$3,570\n$6,907\n91\n$6,533\n$7,408\n$9,252\n92\n$6,813\n$5,868\n$7,770\n93\n$9,403\n$5,868\n$7,117\n94\n$10,325\n$5,868\n$9,252\n95\n$6,813\n$5,868\n$7,630\n96\n$6,813\n$5,775\n$7,385\n97\n$6,533\n$5,775\n$6,008\n98\n$10,325\n$4,865\n$6,008\n99\n$6,230\n$4,165\n$5,168\n100\n$10,325\n$4,165\n$5,647\n101\n$10,325\n$4,993\n$7,315\n102\n$6,813\n$3,780\n$5,425\n103\n$10,325\n$5,670\n$7,618\n104\n$10,325\n$5,670\n$7,350\n105\n$10,325\n$4,865\n$5,647\n106\n$8,517\n$3,570\n$5,168\n107\n$7,513\n$5,052\n$7,070\n108\n$8,517\n$11,013\n$10,967\n109\n$7,513\n$8,353\n$9,263\n110\n$11,025\n$6,802\n$9,263\n111\n$9,753\n$4,993\n$7,863\n112\n$10,325\n$4,993\n$6,393\n113\n$9,753\n$4,900\n$6,183\n114\n$9,753\n$3,570\n$5,168\n115\n$9,753\n$3,570\n$5,168\n116\n$980\n$916\n$980\n117\n$8,517\n$10,127\n$11,713\n118\n$980\n$916\n$980\nPart 2\nPLANS"
+   }
+  },
+  {
+   "id": "SG-H2941-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE\nRegulation 11(3)(b)\nMultiple purposes\nPart 1\nFirst column\nSecond column\nPurpose for which land is zoned\nin Master Plan\nFormula to determine B2 for\nthe purpose of regulation 6(3)\nBusiness Park\n0.15 × K1 + 0.85 × K2\nBusiness Park – White\n(with the notation “BP – W[X]”, where X is a number as specified in the notation for the land)\nBusiness 1-White\n(with the notation “Y[B – Z] W”, where Y and Z are numbers as specified in the notation for the land)\nBusiness 2-White\n(with the notation “Y[B – Z] W”, where Y and Z are numbers as specified in the notation for the land)\nCommercial and Residential\n0.4 × K3 + 0.6 × K4\nResidential with Commercial at First Storey\n0.2 × K3 + 0.8 × K4\nHotel\n0.4 × K3 + 0.6 × K5\nWhite\nK1\nPart 2\nFor the purpose of the formula in the second column of the table in Part 1 of this Schedule —\n(a)where the purposes for which the land or any building on or to be erected on the land is intended to be developed include one type of White use, K1 is the rate corresponding to both the appropriate geographical sector of the land and the Use Group within which the type of White use falls;\n(b)where the purposes for which the land or any building on or to be erected on the land is intended to be developed include 2 or more types of White uses, K1 is the average of the rates, each corresponding to both the appropriate geographical sector of the land and the Use Group within which one of those types of White uses fall;\n(c)K2 is the rate corresponding to both the appropriate geographical sector of the land and Use Group D;\n(d)K3 is the rate corresponding to both the appropriate geographical sector of the land and Use Group A;\n(e)K4 is the rate corresponding to both the appropriate geographical sector of the land and Use Group B2; and\n(f)K5 is the rate corresponding to both the appropriate geographical sector of the land and Use Group C."
+   }
+  },
+  {
+   "id": "SG-H2941-A900004",
+   "no": 900004,
+   "noLabel": {
+    "en": "FIFTH SCHEDULE"
+   },
+   "text": {
+    "en": "FIFTH SCHEDULE\nRegulation 13\nHotel developments disregarded for\npre-chargeable valuation\nPart 1\nFirst column\nSecond column\nAddress\nMap in Part 2\n1.36 Newton Road\nS1\n2.22 Orange Grove Road\nS2\n3.1 Tanglin Road\nS3\n4.581 Orchard Road\nS4\n5.10 Claymore Road\nS5\n6.25 Scotts Road\nS6\n7.10 Scotts Road\nS7\n8.21 Mount Elizabeth\nS8\n9.22 Scotts Road\nS9\n10.333 Orchard Road\nS10\n11.277 Orchard/Somerset Road\nS11\n12.22 Cavenagh/Orchard Road\nS12\n13.15 Kramat Road\nS13\n14.47 Bencoolen Street\nS14\n15.101 Victoria Street\nS15\n16.41 Seah Street\nS16\n17.3 Coleman Street\nS17\nPart 2"
+   }
+  },
+  {
+   "id": "SG-H2941-A900005",
+   "no": 900005,
+   "noLabel": {
+    "en": "SIXTH SCHEDULE"
+   },
+   "text": {
+    "en": "SIXTH SCHEDULE\nRegulation 14(b)\ndiscounting for temporary\nwritten permission\nFirst column\nSecond column\nPeriod of validity of\ntemporary permission\nPercentage\n1.One month\n0.3%\n2.2 months\n0.6%\n3.3 months\n1.0%\n4.4 months\n1.3%\n5.5 months\n1.6%\n6.6 months\n1.9%\n7.7 months\n2.2%\n8.8 months\n2.5%\n9.9 months\n2.9%\n10.10 months\n3.2%\n11.11 months\n3.5%\n12.One year\n3.8%\n13.2 years\n7.5%\n14.3 years\n10.9%\n15.4 years\n14.1%\n16.5 years\n17.1%\n17.6 years\n19.9%\n18.7 years\n22.7%\n19.8 years\n25.2%\n20.9 years\n27.7%\n21.10 years\n30.0%\n[S 758/2022 wef 23/09/2022]"
+   }
+  },
+  {
+   "id": "SG-H2941-A900006",
+   "no": 900006,
+   "noLabel": {
+    "en": "SEVENTH SCHEDULE"
+   },
+   "text": {
+    "en": "SEVENTH SCHEDULE\nRegulation 15(1)(e)\ndiscounting for leasehold land\nFirst column\nSecond column\nTenure in years\nPercentage of freehold value\n1.One year\n3.8%\n2.2 years\n7.5%\n3.3 years\n10.9%\n4.4 years\n14.1%\n5.5 years\n17.1%\n6.6 years\n19.9%\n7.7 years\n22.7%\n8.8 years\n25.2%\n9.9 years\n27.7%\n10.10 years\n30.0%\n11.11 years\n32.2%\n12.12 years\n34.3%\n13.13 years\n36.3%\n14.14 years\n38.2%\n15.15 years\n40.0%\n16.16 years\n41.8%\n17.17 years\n43.4%\n18.18 years\n45.0%\n19.19 years\n46.6%\n20.20 years\n48.0%\n21.21 years\n49.5%\n22.22 years\n50.8%\n23.23 years\n52.1%\n24.24 years\n53.4%\n25.25 years\n54.6%\n26.26 years\n55.8%\n27.27 years\n56.9%\n28.28 years\n58.0%\n29.29 years\n59.0%\n30.30 years\n60.0%\n31.31 years\n61.0%\n32.32 years\n61.9%\n33.33 years\n62.8%\n34.34 years\n63.7%\n35.35 years\n64.6%\n36.36 years\n65.4%\n37.37 years\n66.2%\n38.38 years\n67.0%\n39.39 years\n67.7%\n40.40 years\n68.5%\n41.41 years\n69.2%\n42.42 years\n69.8%\n43.43 years\n70.5%\n44.44 years\n71.2%\n45.45 years\n71.8%\n46.46 years\n72.4%\n47.47 years\n73.0%\n48.48 years\n73.6%\n49.49 years\n74.1%\n50.50 years\n74.7%\n51.51 years\n75.2%\n52.52 years\n75.7%\n53.53 years\n76.2%\n54.54 years\n76.7%\n55.55 years\n77.3%\n56.56 years\n77.9%\n57.57 years\n78.5%\n58.58 years\n79.0%\n59.59 years\n79.5%\n60.60 years\n80.0%\n61.61 years\n80.6%\n62.62 years\n81.2%\n63.63 years\n81.8%\n64.64 years\n82.4%\n65.65 years\n83.0%\n66.66 years\n83.6%\n67.67 years\n84.2%\n68.68 years\n84.5%\n69.69 years\n85.4%\n70.70 years\n86.0%\n71.71 years\n86.5%\n72.72 years\n87.0%\n73.73 years\n87.5%\n74.74 years\n88.0%\n75.75 years\n88.5%\n76.76 years\n89.0%\n77.77 years\n89.5%\n78.78 years\n90.0%\n79.79 years\n90.5%\n80.80 years\n91.0%\n81.81 years\n91.4%\n82.82 years\n91.8%\n83.83 years\n92.2%\n84.84 years\n92.6%\n85.85 years\n92.9%\n86.86 years\n93.3%\n87.87 years\n93.6%\n88.88 years\n94.0%\n89.89 years\n94.3%\n90.90 years\n94.6%\n91.91 years\n94.8%\n92.92 years\n95.0%\n93.93 years\n95.2%\n94.94 years\n95.4%\n95.95 years\n95.6%\n96.96 years\n95.7%\n97.97 years\n95.8%\n98.98 years\n95.9%\n99.99 years\n96.0%"
+   }
+  }
+ ]
+}

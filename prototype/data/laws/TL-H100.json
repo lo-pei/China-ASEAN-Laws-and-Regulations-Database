@@ -1,0 +1,68 @@
+{
+ "id": "TL-H100",
+ "title": {
+  "zh": "Primeira 修改 à《第15/2009号法律》，核准2010年国家总预算",
+  "en": null,
+  "orig": "Primeira alteração à Lei n.º 15/2009, de 23 de Dezembro, que aprova o Orçamento Geral do Estado para 2010"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p03",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2010-07-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "本法系对《第15/2009号法律》的修改。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 8/2010",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 962,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2010/serie_1/serie1_no26.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自官方公报 PDF（public/docs/2010/serie_1/serie1_no26.pdf）第 4226–4235 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 【本法系对《第15/2009号法律》的修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H100-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Alteração ao Orçamento Geral do Estado para 2010"
+   },
+   "text": {
+    "pt": "1.   É alterado o Orçamento Geral do Estado para 2010, aprovado pela Lei n.º 15/2009, de 23 de Dezembro, quer na parte relativa às tabelas constantes dos Anexos I, II e III a essa lei, quer nos termos do n.º 3 do presente artigo.\n2.   A alteração referida no número anterior consta das tabelas dos Anexos I, II e III à presente lei, que substituem as tabelas dos Anexos I, II e III da Lei n.º 15/2009, de 23 de Dezembro.\n3.   O artigo 4.º da Lei n.º 15/2009, de 23 de Dezembro, passa a ter a seguinte redacção:\n\"Artigo 4.º Limite autorizado para crédito do OGE Nos termos e para os efeitos do disposto no artigo 7.º da Lei n.º 9/2005, de 3 de Agosto, o montante das transferências do Fundo Petrolífero para 2010 não excede $811 milhões de dólares norte-americanos e só se efectua após cumprimento do disposto nos artigos 8.º e 9.º da supracitada lei.\""
+   }
+  },
+  {
+   "id": "TL-H100-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente Lei entra em vigor no dia seguinte ao da sua publicação, com efeitos a partir de 1 de Julho de 2010."
+   }
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": "PH-H7380",
+ "title": {
+  "zh": "设立Sultan Gumander市",
+  "en": "An Act Creating a National High School in the Municipality of Sultan Gumander, Province of Lanao Del Sur to Be Known as the Sultan Gumander National High School and Appropriating Funds Therefor",
+  "orig": "An Act Creating a National High School in the Municipality of Sultan Gumander, Province of Lanao Del Sur to Be Known as the Sultan Gumander National High School and Appropriating Funds Therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p105",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2000-08-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 8912",
+ "officialCode": null,
+ "topics": [
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 690,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2000/ra_8912_2000.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2000/ra_8912_2000.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H7380-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There shall be established, under the supervision and control of the Department of Education, Culture and Sports, the Sultan Gumander National High School in the Municipality of Sultan Gumander, Province of Lanao del Sur."
+   }
+  },
+  {
+   "id": "PH-H7380-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The amount necessary for the initial implementation of this Act shall be charged against the current year's appropriations of the Department of Education, Culture and Sports - Autonomous Regional Government in Muslim Mindanao (ARMM). Thereafter, such sums as may be necessary for the continuous operation and maintenance of the Sultan Gumander National High School shall be included in the annual General Appropriations Act."
+   }
+  },
+  {
+   "id": "PH-H7380-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

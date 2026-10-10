@@ -1,0 +1,538 @@
+{
+ "id": "SG-H2812",
+ "title": {
+  "zh": null,
+  "en": "Insurance (Corporate Governance) Regulations 2013",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p35",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation IA1966-S197-2013",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 31,
+ "chars": 52438,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/IA1966-S197-2013?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 31 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2812-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Insurance (Corporate Governance) Regulations 2013 and shall come into operation on 4th April 2013."
+   }
+  },
+  {
+   "id": "SG-H2812-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Application of these Regulations"
+   },
+   "text": {
+    "en": "2. These Regulations shall apply to all direct insurers and reinsurers incorporated in Singapore other than marine mutual insurers."
+   }
+  },
+  {
+   "id": "SG-H2812-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "3.—(1) In these Regulations, unless the context otherwise requires —\n“associate”, in relation to a substantial shareholder, means —\n(a)any corporation in which the substantial shareholder controls the composition of the board of directors;\n(b)any corporation in which the substantial shareholder controls more than half of the voting power;\n(c)any corporation in which the substantial shareholder holds more than half of the issued share capital;\n(d)any corporation which is a subsidiary of any other corporation which is an associate by virtue of paragraph (a), (b) or (c);\n(e)any corporation in which the substantial shareholder or any other corporation which is an associate by virtue of paragraph (a), (b), (c) or (d) has, or the substantial shareholder and such other corporation together have, an interest in shares entitling the beneficial owners thereof the right to cast, whether by proxy or in person, not less than 20% but not more than 50% of the total votes able to be cast at a general meeting of the first-mentioned corporation; or\n(f)any corporation (not being a corporation which is an associate by virtue of paragraph (a), (b), (c), (d) or (e)) the policies of which the substantial shareholder or any other corporation which is an associate by virtue of paragraph (a), (b), (c), (d) or (e) is, or the substantial shareholder together with such other corporation are, able to control or influence materially;\n“Audit Committee” means an Audit Committee referred to in regulation 17;\n“Board”, in relation to an insurer, means the board of directors of the insurer;\n“board committee” means any of the committees specified in regulation 10 and the Executive Committee referred to in regulation 9;\n“corporation” —\n(a)has the same meaning as in section 4(1) of the Companies Act (Cap. 50); and\n(b)includes a co-operative society;\n“designated financial holding company” has the meaning given by section 2(1) of the Financial Holding Companies Act 2013;\n[S 502/2022 wef 30/06/2022]\n“direct composite insurer” means a direct insurer registered to carry on both life business and general business under the Act;\n“direct general insurer” means a direct insurer registered to carry on general business under the Act;\n“direct life insurer” means a direct insurer registered to carry on life business under the Act;\n“executive director”, in relation to a corporation, means a director who is concurrently an executive officer of that corporation, and “non-executive director” shall be construed accordingly;\n“executive officer”, in relation to a corporation, means any person, by whatever name described, who —\n(a)is in the direct employment of, or acting for or by arrangement with, the corporation; and\n(b)is concerned with or takes part in the management of the corporation on a day-to-day basis;\n[Deleted by S 502/2022 wef 30/06/2022]\n“financial year” has the same meaning as in section 4(1) of the Companies Act;\n“immediate family”, in relation to an individual, means the individual’s spouse, child, adopted child, step-child, parent, step-parent, brother, step-brother, sister or step-sister;\n“immediate subsidiary” means a subsidiary as defined under section 5(1)(a) of the Companies Act;\n“independent director”, in relation to an insurer, means a director who —\n(a)is independent from any management and business relationship with the insurer;\n(b)is independent from any substantial shareholder of the insurer; and\n(c)has not served on the Board of the insurer for a continuous period of 9 years or longer;\n“insurance funds” means the funds established and maintained under section 17 of the Act;\n“limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);\n“marine mutual insurance business” means the business of providing the insurance of liabilities under insurance policies on the basis of mutual insurance (within the meaning of section 85 of the Marine Insurance Act (Cap. 387)) on such risk or risks as follows:\n(a)upon goods, merchandise or property of any description transported on board vessel, including incidental transit before and after shipment;\n(b)upon the freight of, or any other interest in or relating to, vessels;\n(c)upon vessels, or upon machinery, tackle furniture or equipment of vessels;\n(d)against damage arising out of or in connection with the use of vessels, including third-party risks;\n(e)against risks incidental to the construction, repair or docking of vessels, including third-party risks; or\n(f)against such other risks as the Authority considers to be connected with or incidental to marine adventures or any of the matters referred to in paragraphs (a) to (e);\n“marine mutual insurer” means an insurer which is registered under section 8 of the Act as a direct insurer to carry on general business and is permitted to carry on marine mutual insurance business only;\n“Nominating Committee” means a Nominating Committee referred to in regulation 11;\n“Remuneration Committee” means a Remuneration Committee referred to in regulation 16;\n“Risk Management Committee” means a Risk Management Committee referred to in regulation 18;\n“subsidiary” has the same meaning as in section 5 of the Companies Act;\n“substantial shareholder” has the same meaning as in section 81 of the Companies Act.\n(2) In these Regulations, in relation to a company which may dispense with the holding of annual general meetings under section 175A of the Companies Act —\n(a)a reference to the doing of anything at an annual general meeting shall, in the case of such a company, be read as a reference to the doing of that thing by way of a resolution by written means in accordance with the Companies Act; and\n(b)a reference to the date of an annual general meeting of such a company shall, unless the meeting is held, be read as a reference to the date of expiry of the period within which the meeting is required by law to be held."
+   }
+  },
+  {
+   "id": "SG-H2812-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Tier 1 and Tier 2 insurers"
+   },
+   "text": {
+    "en": "4.—(1) For the purposes of these Regulations, a registered insurer is —\n(a)a Tier 1 insurer if the insurer —\n(i)is established or incorporated in Singapore; and\n(ii)in the case of —\n(A)a direct life insurer, its latest annual audited statement of financial position shows that it has total assets of at least $5 billion or its equivalent in any foreign currency;\n[S 842/2018 wef 01/01/2019]\n(B)a direct general insurer or a reinsurer, its latest annual audited statement of profit and loss shows that it has gross premiums of at least $500 million or its equivalent in any foreign currency in its insurance funds and Overseas (Branch) Operations; and\n[S 842/2018 wef 01/01/2019]\n(C)a direct composite insurer, satisfies the requirements of sub-paragraph (A) in respect of its total assets or sub-paragraph (B) in respect of gross premiums for its general business; and\n(b)a Tier 2 insurer if the insurer —\n(i)is established or incorporated in Singapore; and\n(ii)does not satisfy the requirement under sub‑paragraph (a)(ii) as a Tier 1 insurer.\n[S 842/2018 wef 01/01/2019]\n(2) An insurer who satisfies the requirement under paragraph (1)(a)(ii) as a Tier 1 insurer is a Tier 1 insurer starting on 1 April of the year in which the latest annual audited statement of financial position or latest annual audited statement of profit and loss, showing that requirement is satisfied, is lodged with the Authority.\n[S 842/2018 wef 01/01/2019]\n(3) A registered insurer that is a Tier 1 insurer shall continue to be a Tier 1 insurer, notwithstanding he no longer satisfies the requirements of paragraph (1)(a)(ii), until such time as the Authority approves him as a Tier 2 insurer for the purposes of these Regulations as from (and including) a date specified in the approval.\n(4) In determining whether to grant an approval under paragraph (3), the Authority shall have regard to one or more of the following matters:\n(a)the insurer’s business strategy;\n(b)the insurer’s business plans;\n(c)any other matter that the Authority considers relevant.\n(5) The Authority may revoke an approval granted under paragraph (3), whereupon the insurer shall be a Tier 1 insurer for the purposes of these Regulations as from (and including) a date specified in the revocation.\n(6) In this regulation —\n“latest annual audited statement of financial position” means —\n(a)the latest annual audited statement of financial position lodged by the insurer with the Authority in Form A1 in Appendix B to MAS Notice 129; or\n(b)if the insurer has not lodged with the Authority any annual audited statement of financial position in Form A1 in Appendix B to MAS Notice 129, the latest annual audited Form 8 in the First Schedule to the Insurance (Accounts and Statements) Regulations 2004 (G.N. No. S 494/2004) as in force immediately before 1 January 2019;\n“latest annual audited statement of profit and loss” means —\n(a)the latest annual audited statement of profit and loss lodged by the insurer with the Authority in Form A2 in Appendix B to MAS Notice 129; or\n(b)if the insurer has not lodged with the Authority any annual audited statement of profit and loss in Form A2 in Appendix B to MAS Notice 129, the latest annual audited Form 9 in the First Schedule to the Insurance (Accounts and Statements) Regulations 2004 as in force immediately before 1 January 2019;\n“MAS Notice 129” means the notice commonly known as MAS Notice 129 issued by the Authority under sections 36(3) and (3A), 37(1)(b) and 64(2) of the Act, as amended from time to time, and includes any notice that replaces it;\n“Overseas (Branch) Operations”, in relation to a registered insurer, means the income and outgoings of the operations of all branches of the insurer located outside Singapore.\n[S 842/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2812-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Independence from management and business relationships"
+   },
+   "text": {
+    "en": "5.—(1) In these Regulations, subject to regulation 14 or 23, as the case may be, a director shall be considered to be independent from management and business relationships with an insurer if —\n(a)the director has no management relationship with the insurer or any of its subsidiaries; and\n(b)the director has no business relationship with the insurer or any of its subsidiaries, or with any officer of the insurer,\nthat could interfere, or be reasonably regarded as interfering, with the exercise of the director’s independent business judgment with regard to the interests of the insurer.\n(2) Without prejudice to paragraph (1)(a), a director shall not be considered to be independent from management relationships with an insurer or any of its subsidiaries if —\n(a)he is employed by the insurer or any of its subsidiaries, or has been so employed at any time during the current financial year or any of the preceding 3 financial years of the insurer or any of its subsidiaries;\n(b)any member of his immediate family —\n(i)is employed by the insurer or any of its subsidiaries as an executive officer whose compensation is determined by the Remuneration Committee or the Board of the insurer or any of its subsidiaries; or\n(ii)has been so employed at any time during the current financial year or any of the preceding 3 financial years of the insurer or any of its subsidiaries; or\n(c)he is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the management of the insurer or any of its subsidiaries.\n(3) Without prejudice to paragraph (1)(b) but subject to regulation 14 or 23, as the case may be, a director shall not be considered to be independent from business relationships with the insurer or any of its subsidiaries if —\n(a)he is a director, a substantial shareholder or an executive officer of any corporation, or a partner of a firm or a limited liability partnership or a sole proprietor, where such corporation, firm, limited liability partnership or sole proprietor carries on business for purposes of profit to which the insurer or any of its subsidiaries has made, or from which the insurer or any of its subsidiaries has received, payments in the current or immediately preceding financial year; or\n(b)he is receiving or has received any compensation from the insurer or from any of the insurer’s subsidiaries, other than compensation received for his services as a director or as an employee, at any time during the current or immediately preceding financial year of the insurer.\n(4) In this regulation, “officer”, in relation to an insurer, includes —\n(a)a director, a secretary or an employee of the insurer;\n(b)a receiver or manager of any part of the undertaking of the insurer appointed under a power contained in any instrument; and\n(c)the liquidator of the insurer appointed in a voluntary winding-up."
+   }
+  },
+  {
+   "id": "SG-H2812-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Independence from substantial shareholder"
+   },
+   "text": {
+    "en": "6.—(1) In these Regulations, subject to regulation 14 or 23, as the case may be, a director of an insurer shall be considered to be independent from a substantial shareholder of the insurer if he is not that substantial shareholder and is not connected to that substantial shareholder.\n(2) Notwithstanding paragraph (1), a director of an insurer which is —\n(a)the immediate subsidiary of another insurer (referred to in this paragraph as the parent insurer); or\n(b)the sole subsidiary of a designated financial holding company which does not carry on any business other than the holding of the insurer,\nshall, if he is not a substantial shareholder of the insurer, the parent insurer or the designated financial holding company, as the case may be, and is not connected to —\n(i)a substantial shareholder of the insurer (other than the parent insurer or designated financial holding company); or\n(ii)a substantial shareholder of the parent insurer or designated financial holding company, as the case may be,\nbe treated as if he were independent from the substantial shareholder of the insurer for the purposes of regulations 7(1), 9, 11(1), 16(1) and 17(1).\n[S 502/2022 wef 30/06/2022]\n(3) For the purposes of paragraph (1), a person is connected to a substantial shareholder if he is —\n(a)in the case where the substantial shareholder is an individual —\n(i)a member of the immediate family of the substantial shareholder;\n(ii)employed by the substantial shareholder;\n(iii)employed by an associate of the substantial shareholder;\n(iv)an executive director of an associate of the substantial shareholder;\n(v)a non-executive director of an associate of the substantial shareholder;\n(vi)a partner of a firm or a limited liability partnership of which the substantial shareholder is also a partner; or\n(vii)accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the substantial shareholder; or\n(b)in the case where the substantial shareholder is a corporation —\n(i)employed by the substantial shareholder;\n(ii)employed by an associate of the substantial shareholder;\n(iii)a director of the substantial shareholder;\n(iv)an executive director of an associate of the substantial shareholder;\n(v)a non-executive director of an associate of the substantial shareholder;\n(vi)a partner of a firm or a limited liability partnership of which the substantial shareholder is also a partner; or\n(vii)accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the substantial shareholder."
+   }
+  },
+  {
+   "id": "SG-H2812-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Board"
+   },
+   "text": {
+    "en": "7.—(1) Every insurer shall —\n(a)have a Board comprising at least 3 directors; and\n(b)in the case where —\n(i)the insurer is a Tier 1 insurer, subject to paragraphs (2), (3) and (4) and regulations 14(3) and 20, have a Board comprising at least a majority of directors who are independent directors; or\n(ii)the insurer is a Tier 2 insurer, subject to paragraphs (3) and (4) and regulations 23(3) and 29, have a Board comprising at least one-third of directors who are independent directors.\n(2) Where a single substantial shareholder holds 50% or more of the share capital or the voting power in a Tier 1 insurer, paragraph (1)(b)(i) shall not apply to the Tier 1 insurer only if the Tier 1 insurer has a Board comprising —\n(a)at least a majority of directors who are independent from management and business relationships with the Tier 1 insurer; and\n(b)at least one-third of directors who are independent directors.\n(3) If a member of the Board of an insurer resigns or ceases to be a member of the Board for any other reason, the insurer shall —\n(a)notify the Authority of the event within 14 days after the occurrence of the event; and\n(b)on or before its next annual general meeting, appoint such number of new directors as may be required to rectify the composition of the Board in accordance with the requirements under paragraph (1).\n(4) Notwithstanding paragraph (3), the Authority may, upon being notified under paragraph (3)(a), direct the insurer to rectify the composition of the Board in accordance with the requirements under paragraph (1) within such time before the next annual general meeting of the insurer, subject to such conditions or restrictions as the Authority may specify, and the insurer shall comply with that direction.\n(5) The Board shall maintain records of all its meetings.\n(6) Any insurer which contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.\n(7) Any insurer which contravenes paragraph (3)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000.\n(8) Any insurer which fails to comply with any condition or restriction imposed by the Authority under paragraph (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000."
+   }
+  },
+  {
+   "id": "SG-H2812-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Separation of roles"
+   },
+   "text": {
+    "en": "8.—(1) An insurer shall not appoint any of the following persons as the chairman of its Board:\n(a)any of its executive directors;\n(b)any person who is a member of the immediate family of the principal officer of the insurer.\n(2) Any insurer which contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H2812-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART II OBLIGATIONS OF TIER 1 INSURERS"
+   },
+   "heading": {
+    "en": "Executive Committee"
+   },
+   "text": {
+    "en": "9. Where the Board of a Tier 1 insurer has delegated any of its powers for the oversight of the Tier 1 insurer to an executive committee or any other committee by whatever name described (referred to in these Regulations as an Executive Committee), consisting of such directors as the Board thinks fit, regulation 7 shall apply to the Tier 1 insurer in respect of the Executive Committee as if the Executive Committee were a Board."
+   }
+  },
+  {
+   "id": "SG-H2812-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART II OBLIGATIONS OF TIER 1 INSURERS"
+   },
+   "heading": {
+    "en": "Committees of Board"
+   },
+   "text": {
+    "en": "10.—(1) Subject to paragraph (2), a Tier 1 insurer shall have —\n(a)a Nominating Committee;\n(b)a Remuneration Committee;\n(c)an Audit Committee; and\n(d)a Risk Management Committee.\n(2) A Tier 1 insurer shall ensure that every member of each Committee referred to in paragraph (1) shall have unfettered access to information which the Tier 1 insurer is in possession of or has access to, for the purposes of carrying out the responsibilities of the Committee concerned.\n(3) A Tier 1 insurer which is a subsidiary of any bank or any other insurer, whether or not registered in Singapore, need not have a Nominating Committee, a Remuneration Committee or a Risk Management Committee, subject to the following conditions:\n(a)the Board of the Tier 1 insurer performs for the Tier 1 insurer all the functions of the Nominating Committee, the Remuneration Committee or the Risk Management Committee, as the case may be, set out in these Regulations; and\n(b)the Tier 1 insurer informs the Authority in writing that the functions of the Nominating Committee, the Remuneration Committee or the Risk Management Committee, as the case may be, are performed by its Board.\n(4) Any Tier 1 insurer which contravenes paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H2812-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART II OBLIGATIONS OF TIER 1 INSURERS"
+   },
+   "heading": {
+    "en": "Nominating Committee"
+   },
+   "text": {
+    "en": "11.—(1) Subject to paragraphs (2) and (4) and regulations 14(3), 19 and 20, a Tier 1 insurer shall have a Nominating Committee comprising —\n(a)at least 3 members of the Board of the Tier 1 insurer; and\n(b)at least a majority of directors (including the chairman of the Nominating Committee) who are independent directors.\n(2) Where a single substantial shareholder holds 50% or more of the share capital or the voting power in a Tier 1 insurer, paragraph (1)(b) shall not apply to the Tier 1 insurer only if the Tier 1 insurer has a Nominating Committee comprising —\n(a)at least a majority of directors who are independent from management and business relationships with the Tier 1 insurer; and\n(b)at least one-third of directors (including the chairman of the Nominating Committee) who are independent directors.\n(3) Every member of the Nominating Committee shall be appointed to hold office until the next annual general meeting following that member’s appointment, and shall be eligible for re‑appointment.\n(4) If a member of the Nominating Committee resigns, ceases to be a director or for any other reason ceases to be a member of the Nominating Committee —\n(a)the Tier 1 insurer shall notify the Authority of the event within 14 days after the occurrence of the event; and\n(b)if this results in a breach of any requirement under paragraph (1), the Board shall, within 3 months after that event, appoint such number of new members as may be required to rectify the composition of the Nominating Committee in accordance with that requirement.\n(5) Any Tier 1 insurer which contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.\n(6) Any Tier 1 insurer which contravenes paragraph (4)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000."
+   }
+  },
+  {
+   "id": "SG-H2812-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART II OBLIGATIONS OF TIER 1 INSURERS"
+   },
+   "heading": {
+    "en": "Responsibilities of Nominating Committee"
+   },
+   "text": {
+    "en": "12.—(1) The Nominating Committee of a Tier 1 insurer shall identify the candidates and review all nominations for the appointment of the following persons of the Tier 1 insurer:\n(a)each director;\n(b)each member of each board committee;\n(c)the principal officer and deputy principal officer;\n(d)any actuary appointed with the approval of the Authority under the Act;\n(e)the chief financial officer; and\n(f)the chief risk officer.\n(2) Subject to paragraph (3), the Nominating Committee shall determine the criteria to be applied in identifying a candidate or reviewing a nomination for the purposes of these Regulations.\n(3) The criteria to be applied in identifying a candidate or reviewing a nomination for the purposes of these Regulations shall include the following:\n(a)the appointment of the candidate or nominee will not result in non-compliance with the requirements under regulations 7(1), 9, 11(1), 16(1), 17(1) and 18(1); and\n(b)the candidate or nominee is a fit and proper person for the office and is qualified for the office, taking into account the candidate’s or nominee’s track record, age, experience, capabilities, skills and such other relevant factors as may be determined by the Nominating Committee.\n(4) The Nominating Committee shall review the reasons provided by each of the persons referred to in paragraph (1) for his resignation from his appointment in the Tier 1 insurer.\n(5) The Nominating Committee shall maintain records of all its meetings."
+   }
+  },
+  {
+   "id": "SG-H2812-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART II OBLIGATIONS OF TIER 1 INSURERS"
+   },
+   "heading": {
+    "en": "Determination of independence by Nominating Committee"
+   },
+   "text": {
+    "en": "13.—(1) Where a person is proposed to be appointed as a director of a Tier 1 insurer, prior to his appointment, the Nominating Committee of the insurer —\n(a)shall determine —\n(i)whether he is independent from management and business relationships with the Tier 1 insurer; and\n(ii)whether he is independent from any substantial shareholder of the Tier 1 insurer,\nusing the criteria set out in regulation 5 or 6, as the case may be, and, where applicable, in accordance with regulation 14; and\n(b)shall maintain a record of its determination.\n(2) Prior to every annual general meeting of the Tier 1 insurer, the Nominating Committee —\n(a)shall determine —\n(i)whether each existing director is independent from management and business relationship with the Tier 1 insurer; and\n(ii)whether each existing director is independent from any substantial shareholder of the Tier 1 insurer,\nusing the criteria set out in regulation 5 or 6, as the case may be, and, where applicable, in accordance with regulation 14;\n(b)shall review and assess whether each existing director remains qualified for the office using the criteria set out in regulation 12(3); and\n(c)shall maintain a record of its determination and its assessment, respectively."
+   }
+  },
+  {
+   "id": "SG-H2812-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART II OBLIGATIONS OF TIER 1 INSURERS"
+   },
+   "heading": {
+    "en": "Alternative determination of independence by Nominating Committee"
+   },
+   "text": {
+    "en": "14.—(1) The Nominating Committee of a Tier 1 insurer may determine that a director of the insurer who is —\n(a)not considered independent from business relationships with the Tier 1 insurer under regulation 5(3)(a) or (b); or\n(b)not considered independent from a substantial shareholder of the Tier 1 insurer because of the relationship specified in regulation 6(3)(a)(v) or (b)(v),\nshall nonetheless be considered independent from business relationships with the Tier 1 insurer, or independent from a substantial shareholder of the Tier 1 insurer, as the case may be, if the Nominating Committee is satisfied that the director’s independent business judgment and ability to act in the interests of the Tier 1 insurer will not be impeded, despite the relationships specified in that regulation.\n(2) If —\n(a)at any time, the Authority is not satisfied that a director of the Tier 1 insurer is independent notwithstanding any determination of the Nominating Committee made under paragraph (1); and\n(b)the lack of independence of that director would result in a failure by the Tier 1 insurer to comply with any of the requirements under regulation 7(1), 9, 11(1), 16(1), 17(1) or 18(1),\nthe Authority shall direct the Tier 1 insurer to rectify the composition of the Board or any relevant committee in accordance with the requirements under regulation 7(1), 9, 11(1), 16(1), 17(1) or 18(1), as the case may be, within such time, and subject to such conditions or restrictions, as the Authority may specify.\n(3) Where the Authority has given a direction to a Tier 1 insurer under paragraph (2), the requirements under regulation 7(1), 9, 11(1), 16(1), 17(1) or 18(1), as the case may be, shall not apply to the Tier 1 insurer during the period between the time the Authority makes the direction and the time within which the Tier 1 insurer is required to rectify the composition of the Board or any relevant committee in accordance with the direction."
+   }
+  },
+  {
+   "id": "SG-H2812-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART II OBLIGATIONS OF TIER 1 INSURERS"
+   },
+   "heading": {
+    "en": "Furnishing information to Authority by Tier 1 insurers"
+   },
+   "text": {
+    "en": "15.—(1) A Tier 1 insurer shall, after the Nominating Committee has concluded its deliberations in respect of the matters under regulations 12 and 13 and after the Board has concurred with the Nominating Committee —\n(a)notify the Authority in writing of the particulars of the persons proposed to be appointed to the positions referred to in regulation 12(1)(a) and (b), including whether the requirements for independence in regulations 5 and 6 are satisfied;\n(b)notify the Authority in writing of the review and assessment of each existing director referred to in regulation 13(2)(b);\n(c)in the case where the Nominating Committee has made a determination under regulation 14, provide the Authority with the Nominating Committee’s explanation of its decision as to why the director should be considered independent; and\n(d)furnish to the Authority such further information as the Authority may require.\n(2) Any Tier 1 insurer which contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H2812-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART II OBLIGATIONS OF TIER 1 INSURERS"
+   },
+   "heading": {
+    "en": "Remuneration Committee"
+   },
+   "text": {
+    "en": "16.—(1) Subject to paragraphs (2) and (6) and regulations 14(3) and 20, a Tier 1 insurer shall have a Remuneration Committee comprising —\n(a)at least 3 members of the Board of the Tier 1 insurer; and\n(b)at least a majority of directors (including the chairman of the Remuneration Committee) who are independent directors.\n(2) Where a single substantial shareholder holds 50% or more of the share capital or the voting power in a Tier 1 insurer, paragraph (1)(b) shall not apply to the Tier 1 insurer only if the Tier 1 insurer has a Remuneration Committee comprising —\n(a)at least a majority of directors who are independent from management and business relationships with the Tier 1 insurer; and\n(b)at least one-third of directors (including the chairman of the Remuneration Committee) who are independent directors.\n(3) In addition to such other responsibilities as may be determined by the Board of the Tier 1 insurer, the Remuneration Committee of the Tier 1 insurer shall be responsible for —\n(a)recommending a framework for determining the remuneration of the directors of the Tier 1 insurer;\n(b)recommending a framework for determining the remuneration of the executive officers of the Tier 1 insurer which shall include the following elements and factors in the design and operation of the framework:\n(i)the remuneration package of each executive officer of the Tier 1 insurer —\n(A)shall be aligned to the specific job function undertaken by the executive officer and, where the executive officer undertakes any of the Tier 1 insurer’s control job functions, the remuneration package of that executive officer shall be determined independently of the business functions of the Tier 1 insurer;\n(B)shall take into account input from the Tier 1 insurer’s control job functions as may be relevant to the specific job function undertaken by the executive officer;\n(C)shall be aligned with the risks that the Tier 1 insurer undertakes in its business that is relevant to the specific job function undertaken by the executive officer;\n(D)shall be sensitive to the time horizon of risks that the Tier 1 insurer is exposed to, which includes ensuring that variable compensation payments shall not be finalised over short periods of time when risks are realised over long periods of time;\n(E)shall, in relation to the quantum of bonus payable to the executive officer, be linked to his personal performance, the performance of his specific job function as a whole and the overall performance of the Tier 1 insurer; and\n(F)shall, in relation to the rationale for the mix of cash, equity and other forms of incentives, be justified; and\n(ii)the size of the bonus pool of the Tier 1 insurer shall be linked to the overall performance of the Tier 1 insurer;\n(c)recommending the remuneration of each director and executive officer of the Tier 1 insurer based on the frameworks referred to in sub-paragraphs (a) and (b), respectively; and\n(d)reviewing, at least once in each year, the remuneration practices of the Tier 1 insurer to ensure that they are aligned with the recommendations made in accordance with sub-paragraphs (a), (b) and (c).\n(4) In paragraph (3) —\n“business functions” means the job functions in the Tier 1 insurer that conduct risk-taking activities in relation to the business of the Tier 1 insurer;\n“control job functions” means the following job functions:\n(a)risk control and management;\n(b)finance;\n(c)compliance;\n(d)internal audit;\n(e)human resource;\n(f)actuarial; and\n(g)risk control related back office operations.\n(5) The Remuneration Committee shall maintain records of all its meetings.\n(6) If a member of the Remuneration Committee resigns, ceases to be a director or for any other reason ceases to be a member of the Remuneration Committee —\n(a)the Tier 1 insurer shall notify the Authority of the event within 14 days after the occurrence of the event; and\n(b)if this results in a breach of any requirement under paragraph (1), the Board shall, within 3 months after that event, appoint such number of new members as may be required to rectify the composition of the Remuneration Committee in accordance with that requirement.\n(7) Any Tier 1 insurer which contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.\n(8) Any Tier 1 insurer which contravenes paragraph (6)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000."
+   }
+  },
+  {
+   "id": "SG-H2812-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART II OBLIGATIONS OF TIER 1 INSURERS"
+   },
+   "heading": {
+    "en": "Audit Committee"
+   },
+   "text": {
+    "en": "17.—(1) Subject to paragraph (4) and regulations 14(3) and 20, a Tier 1 insurer shall have an Audit Committee comprising —\n(a)at least 3 members of the Board of the Tier 1 insurer, all of whom are independent from management and business relationships with the Tier 1 insurer; and\n(b)at least a majority of directors (including the chairman of the Audit Committee) who are independent directors.\n(2) The Audit Committee shall, in addition to such other responsibilities as may be determined by the Board or provided under written law, be responsible for the adequacy of the external and internal audit functions of the Tier 1 insurer, including reviewing the scope and results of audits carried out in respect of the operations of the Tier 1 insurer and the independence and objectivity of the Tier 1 insurer’s external auditors.\n(3) The Audit Committee shall maintain records of all its meetings.\n(4) If a member of the Audit Committee resigns, ceases to be a director or for any other reason ceases to be a member of the Audit Committee —\n(a)the Tier 1 insurer shall notify the Authority of the event within 14 days after the occurrence of the event; and\n(b)if this results in a breach of any requirement under paragraph (1), the Board shall, within 3 months after that event, appoint such number of new members as may be required to rectify the composition of the Audit Committee in accordance with that requirement.\n(5) Any Tier 1 insurer which contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.\n(6) Any Tier 1 insurer which contravenes paragraph (4)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000."
+   }
+  },
+  {
+   "id": "SG-H2812-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART II OBLIGATIONS OF TIER 1 INSURERS"
+   },
+   "heading": {
+    "en": "Risk Management Committee"
+   },
+   "text": {
+    "en": "18.—(1) Subject to paragraph (4) and regulations 14(3) and 20, a Tier 1 insurer shall have a Risk Management Committee comprising —\n(a)at least 3 members of the Board of the Tier 1 insurer; and\n(b)at least a majority of directors (including the chairman of the Risk Management Committee) who are non-executive directors.\n(2) The Risk Management Committee shall, in addition to such other responsibilities as may be determined by the Board, be responsible for overseeing —\n(a)the establishment and the operation of an independent risk management system for managing risks on an enterprise‑wide basis; and\n(b)the adequacy of the risk management function of the Tier 1 insurer, including ensuring that it is sufficiently resourced to monitor risk by the various risk categories and that it has appropriate independent reporting lines.\n(3) The Risk Management Committee shall maintain records of all its meetings.\n(4) If a member of the Risk Management Committee resigns, ceases to be a director or for any other reason ceases to be a member of the Risk Management Committee —\n(a)the Tier 1 insurer shall notify the Authority of the event within 14 days after the occurrence of the event; and\n(b)if this results in a breach of any requirement under paragraph (1), the Board shall, within 3 months after that event, appoint such number of new members as may be required to rectify the composition of the Risk Management Committee in accordance with that requirement.\n(5) Any Tier 1 insurer which contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.\n(6) Any Tier 1 insurer which contravenes paragraph (4)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000."
+   }
+  },
+  {
+   "id": "SG-H2812-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART II OBLIGATIONS OF TIER 1 INSURERS"
+   },
+   "heading": {
+    "en": "Approval of Authority"
+   },
+   "text": {
+    "en": "19.—(1) A Tier 1 insurer shall obtain the prior approval of the Authority for the appointment of the following persons:\n(a)the members of the Nominating Committee;\n(b)the chief financial officer; and\n(c)the chief risk officer.\n(2) Without prejudice to any other matter that the Authority may consider relevant, the Authority shall, in determining whether to grant its approval under paragraph (1), have regard to whether the person is a fit and proper person to hold the office.\n(3) Any Tier 1 insurer which contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H2812-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART II OBLIGATIONS OF TIER 1 INSURERS"
+   },
+   "heading": {
+    "en": "Exceptions to applicability of provisions to Tier 1 insurers"
+   },
+   "text": {
+    "en": "20.—(1) Subject to paragraphs (2) and (3), the requirements under regulations 7(1)(b)(i), 9, 11(1), 16(1), 17(1) and 18(1) shall not apply in relation to a Tier 1 insurer —\n(a)where —\n(i)there is a change in the status of a director under regulation 5 or 6 during the period between the date immediately after the date of the director’s appointment and the date immediately before the next annual general meeting of the Tier 1 insurer; and\n(ii)the Tier 1 insurer could not reasonably have known of that change on or before the date of the director’s appointment; or\n(b)where —\n(i)there is a change in the status of a director under regulation 5 or 6 during the period between the date immediately after an annual general meeting of the Tier 1 insurer and the date immediately before the next annual general meeting of the Tier 1 insurer (other than the period referred to in sub-paragraph (a)(i)); and\n(ii)the Tier 1 insurer could not reasonably have known of that change on or before the date of the first‑mentioned annual general meeting.\n(2) Paragraph (1) shall not apply unless, in the circumstances prescribed in paragraph (1)(a)(i) or (b)(i), the insurer, within 14 days after becoming aware of the change in the status of a director, notifies the Authority of the change and, subject to paragraph (3) —\n(a)in respect of any requirement under regulation 7(1)(b)(i), at the next annual general meeting, appoints such number of new directors as may be required to rectify the composition of the Board in accordance with that requirement; or\n(b)in respect of any requirement under regulation 9, 11(1), 16(1), 17(1) or 18(1), within 3 months after notifying the Authority of the change of status of the director, appoints such number of new members of the relevant committee as may be required to rectify the composition of the relevant committee in accordance with that requirement.\n(3) Notwithstanding paragraph (2), the Authority may, upon being notified of a change in the status of a director under paragraph (2), direct the Tier 1 insurer —\n(a)to appoint such number of new directors as may be necessary to rectify the composition of the Board in accordance with the requirements under regulation 7(1)(b)(i), within such time before the next annual general meeting of the Tier 1 insurer and subject to such conditions or restrictions as the Authority may specify; or\n(b)to appoint such number of new members of the relevant committee as may be necessary to rectify the composition of the relevant committee in accordance with the requirements under regulation 9, 11(1), 16(1), 17(1) or 18(1), as the case may be, within such time before the expiration of 3 months after the date the Tier 1 insurer notifies the Authority of the change and subject to such conditions or restrictions as the Authority may specify,\nand the Tier 1 insurer shall comply with that direction.\n(4) Any Tier 1 insurer which fails to comply with any condition or restriction imposed by the Authority under paragraph (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000."
+   }
+  },
+  {
+   "id": "SG-H2812-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART III OBLIGATIONS OF TIER 2 INSURERS"
+   },
+   "heading": {
+    "en": "Responsibilities of Board on nominations for appointments"
+   },
+   "text": {
+    "en": "21.—(1) The Board of a Tier 2 insurer shall identify the candidates and review all nominations for the appointment of the following persons of the Tier 2 insurer:\n(a)each director;\n(b)the principal officer and deputy principal officer; and\n(c)any actuary appointed with the approval of the Authority under the Act.\n(2) Subject to paragraph (3), the Board shall determine the criteria to be applied in identifying a candidate or reviewing a nomination for the purposes of these Regulations.\n(3) The criteria to be applied in identifying a candidate or reviewing a nomination for the purposes of these Regulations shall include the following:\n(a)the appointment of the candidate or nominee will not result in non-compliance with the requirements under regulation 7(1); and\n(b)the candidate or nominee is a fit and proper person for the office and is qualified for the office, taking into account the candidate’s or nominee’s track record, age, experience, capabilities, skills and such other relevant factors as may be determined by the Board.\n(4) The Board shall review the reasons provided by each of the persons referred to in paragraph (1) for his resignation from his appointment in the Tier 2 insurer."
+   }
+  },
+  {
+   "id": "SG-H2812-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART III OBLIGATIONS OF TIER 2 INSURERS"
+   },
+   "heading": {
+    "en": "Determination of independence by Board"
+   },
+   "text": {
+    "en": "22.—(1) Where a person is proposed to be appointed as a director of a Tier 2 insurer, prior to his appointment, the Board of the insurer —\n(a)shall determine —\n(i)whether he is independent from management and business relationships with the Tier 2 insurer; and\n(ii)whether he is independent from any substantial shareholder of the Tier 2 insurer,\nusing the criteria set out in regulation 5 or 6, as the case may be, and, where applicable, in accordance with regulation 23; and\n(b)shall maintain a record of its determination.\n(2) Prior to every annual general meeting of the Tier 2 insurer, the Board —\n(a)shall determine —\n(i)whether each existing director is independent from management and business relationship with the Tier 2 insurer; and\n(ii)whether each existing director is independent from any substantial shareholder of the Tier 2 insurer,\nusing the criteria set out in regulation 5 or 6, as the case may be, and, where applicable, in accordance with regulation 23;\n(b)shall review and assess whether each existing director remains qualified for the office using the criteria set out in regulation 21(3); and\n(c)shall maintain a record of its determination and its assessment, respectively."
+   }
+  },
+  {
+   "id": "SG-H2812-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART III OBLIGATIONS OF TIER 2 INSURERS"
+   },
+   "heading": {
+    "en": "Alternative determination of independence by Board"
+   },
+   "text": {
+    "en": "23.—(1) The Board of a Tier 2 insurer may determine that a director of the insurer who is —\n(a)not considered independent from business relationships with the Tier 2 insurer under regulation 5(3)(a) or (b); or\n(b)not considered independent from a substantial shareholder of the Tier 2 insurer because of the relationship specified in regulation 6(3)(a)(v) or (b)(v),\nshall nonetheless be considered independent from business relationships with the Tier 2 insurer, or independent from a substantial shareholder of the Tier 2 insurer, as the case may be, if the Board is satisfied that the director’s independent business judgment and ability to act in the interests of the Tier 2 insurer will not be impeded, despite the relationships specified in that regulation.\n(2) If —\n(a)at any time, the Authority is not satisfied that a director of the Tier 2 insurer is independent notwithstanding any determination of the Board made under paragraph (1); and\n(b)the lack of independence of that director would result in a failure by the Tier 2 insurer to comply with any of the requirements under regulation 7(1),\nthe Authority shall direct the Tier 2 insurer to rectify the composition of the Board in accordance with the requirements under regulation 7(1) within such time, and subject to such conditions or restrictions, as the Authority may specify.\n(3) Where the Authority has given a direction to a Tier 2 insurer under paragraph (2), the requirements under regulation 7(1) shall not apply to the Tier 2 insurer during the period between the time the Authority makes the direction and the time within which the Tier 2 insurer is required to rectify the composition of the Board in accordance with the direction."
+   }
+  },
+  {
+   "id": "SG-H2812-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART III OBLIGATIONS OF TIER 2 INSURERS"
+   },
+   "heading": {
+    "en": "Furnishing information to Authority by Tier 2 insurers"
+   },
+   "text": {
+    "en": "24. A Tier 2 insurer shall, after the Board has concluded its deliberations in respect of the matters under regulations 21 and 22 —\n(a)notify the Authority in writing of the particulars of the persons proposed to be appointed to the position referred to in regulation 21(1)(a), including whether the requirements for independence in regulations 5 and 6 are satisfied;\n(b)notify the Authority in writing of the review and assessment of each existing director referred to in regulation 22(2)(b);\n(c)in the case where the Board has made a determination under regulation 23, provide the Authority with its explanation of its decision as to why the director should be considered independent; and\n(d)furnish to the Authority such further information as the Authority may require."
+   }
+  },
+  {
+   "id": "SG-H2812-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART III OBLIGATIONS OF TIER 2 INSURERS"
+   },
+   "heading": {
+    "en": "Responsibilities of Board on remuneration"
+   },
+   "text": {
+    "en": "25.—(1) The Board of the Tier 2 insurer shall be responsible for —\n(a)recommending a framework for determining the remuneration of the directors of the Tier 2 insurer;\n(b)recommending a framework for determining the remuneration of the executive officers of the Tier 2 insurer which shall include the following elements and factors in the design and operation of the framework:\n(i)the remuneration package of each executive officer of the Tier 2 insurer —\n(A)shall be aligned to the specific job function undertaken by the executive officer and, where the executive officer undertakes any of the Tier 2 insurer’s control job functions, the remuneration package of that executive officer shall be determined independently of the business functions of the Tier 2 insurer;\n(B)shall take into account input from the Tier 2 insurer’s control job functions as may be relevant to the specific job function undertaken by the executive officer;\n(C)shall be aligned with the risks that the Tier 2 insurer undertakes in its business that is relevant to the specific job function undertaken by the executive officer;\n(D)shall be sensitive to the time horizon of risks that the Tier 2 insurer is exposed to, which includes ensuring that variable compensation payments shall not be finalised over short periods of time when risks are realised over long periods of time;\n(E)shall, in relation to the quantum of bonus payable to the executive officer, be linked to his personal performance, the performance of his specific job function as a whole and the overall performance of the Tier 2 insurer; and\n(F)shall, in relation to the rationale for the mix of cash, equity and other forms of incentives, be justified; and\n(ii)the size of the bonus pool of the Tier 2 insurer shall be linked to the overall performance of the Tier 2 insurer;\n(c)recommending the remuneration of each director and executive officer of the Tier 2 insurer based on the frameworks referred to in sub-paragraphs (a) and (b), respectively; and\n(d)reviewing, at least once in each year, the remuneration practices of the Tier 2 insurer to ensure that they are aligned with the recommendations made in accordance with sub-paragraphs (a), (b) and (c).\n(2) In paragraph (1) —\n“business functions” means the job functions in the Tier 2 insurer that conduct risk-taking activities in relation to the business of the Tier 2 insurer;\n“control job functions” means the following job functions:\n(a)risk control and management;\n(b)finance;\n(c)compliance;\n(d)internal audit;\n(e)human resource;\n(f)actuarial; and\n(g)risk control related back office operations."
+   }
+  },
+  {
+   "id": "SG-H2812-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART III OBLIGATIONS OF TIER 2 INSURERS"
+   },
+   "heading": {
+    "en": "Responsibilities of Board on audit functions"
+   },
+   "text": {
+    "en": "26. The Board of a Tier 2 insurer shall be responsible for the adequacy of the external and internal audit functions of the Tier 2 insurer, including reviewing the scope and results of audits carried out in respect of the operations of the Tier 2 insurer and the independence and objectivity of the Tier 2 insurer’s external auditors."
+   }
+  },
+  {
+   "id": "SG-H2812-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART III OBLIGATIONS OF TIER 2 INSURERS"
+   },
+   "heading": {
+    "en": "Responsibilities of Board on risk management"
+   },
+   "text": {
+    "en": "27. The Board of a Tier 2 insurer shall be responsible for overseeing —\n(a)the establishment and the operation of an independent risk management system for managing risks on an enterprise‑wide basis; and\n(b)the adequacy of the risk management function of the Tier 2 insurer, including ensuring that it is sufficiently resourced to monitor risk by the various risk categories and that it has appropriate independent reporting lines."
+   }
+  },
+  {
+   "id": "SG-H2812-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART III OBLIGATIONS OF TIER 2 INSURERS"
+   },
+   "heading": {
+    "en": "Maintenance of records of meetings"
+   },
+   "text": {
+    "en": "28. The Board shall maintain records of all its meetings with respect to the matters referred to in regulations 21, 25, 26 and 27."
+   }
+  },
+  {
+   "id": "SG-H2812-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART III OBLIGATIONS OF TIER 2 INSURERS"
+   },
+   "heading": {
+    "en": "Exceptions to applicability of provisions to Tier 2 insurers"
+   },
+   "text": {
+    "en": "29.—(1) Subject to paragraphs (2) and (3), the requirements under regulation 7(1)(b)(ii) shall not apply in relation to a Tier 2 insurer —\n(a)where —\n(i)there is a change in the status of a director under regulation 5 or 6 during the period between the date immediately after the date of the director’s appointment and the date immediately before the next annual general meeting of the Tier 2 insurer; and\n(ii)the Tier 2 insurer could not reasonably have known of that change on or before the date of the director’s appointment; or\n(b)where —\n(i)there is a change in the status of a director under regulation 5 or 6 during the period between the date immediately after an annual general meeting of the Tier 2 insurer and the date immediately before the next annual general meeting of the Tier 2 insurer (other than the period referred to in sub-paragraph (a)(i)); and\n(ii)the Tier 2 insurer could not reasonably have known of that change on or before the date of the first‑mentioned annual general meeting.\n(2) Paragraph (1) shall not apply unless, in the circumstances prescribed in paragraph (1)(a)(i) or (b)(i), the insurer, within 14 days after becoming aware of the change in the status of a director, notifies the Authority of the change and, subject to paragraph (3) in respect of any requirement under regulation 7(1)(b)(ii), at the next annual general meeting, appoints such number of new directors as may be required to rectify the composition of the Board in accordance with that requirement.\n(3) Notwithstanding paragraph (2), the Authority may, upon being notified of a change in the status of a director under paragraph (2), direct the Tier 2 insurer to appoint such number of new directors as may be necessary to rectify the composition of the Board in accordance with the requirements under regulation 7(1)(b)(ii), within such time before the next annual general meeting of the Tier 2 insurer and subject to such conditions or restrictions as the Authority may specify and the Tier 2 insurer shall comply with that direction.\n(4) Any Tier 2 insurer which fails to comply with any condition or restriction imposed by the Authority under paragraph (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000."
+   }
+  },
+  {
+   "id": "SG-H2812-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART IV SAVINGS AND TRANSITIONAL"
+   },
+   "heading": {
+    "en": "Revocation"
+   },
+   "text": {
+    "en": "30. The Insurance (Corporate Governance) Regulations 2005 (G.N. No. S 584/2005) are revoked."
+   }
+  },
+  {
+   "id": "SG-H2812-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART IV SAVINGS AND TRANSITIONAL"
+   },
+   "heading": {
+    "en": "Savings and transitional provisions for existing insurers"
+   },
+   "text": {
+    "en": "31.—(1) Subject to paragraphs (2) and (3), these Regulations, save for regulations 7(1)(b), 9, 11(1), 16(1), 17(1) and 18(1), shall not apply to any insurer who, immediately before 4th April 2013, is not a significant insurer under the Insurance (Corporate Governance) Regulations 2005 (G.N. No. S 584/2005) as in force immediately before 4th April 2013, in the period from 4th April 2013 to 4th May 2013 (both dates inclusive).\n(2) Regulation 7(1)(b)(i), 9, 11(1), 16(1), 17(1) or 18(1) shall not apply to any insurer who is a Tier 1 insurer on or after 4th April 2013, for the period from 4th April 2013 to the date being one day before the day on which the first annual general meeting of the insurer is held or required to be held for the year 2016 (both dates inclusive).\n(3) Regulation 7(1)(b)(ii) shall not apply to any insurer who is a Tier 2 insurer on or after 4th April 2013, for the period from 4th April 2013 to the date being one day before the day on which the first annual general meeting of the insurer is held or required to be held for the year 2016 (both dates inclusive)."
+   }
+  }
+ ]
+}

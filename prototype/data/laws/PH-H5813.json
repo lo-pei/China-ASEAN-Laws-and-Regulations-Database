@@ -1,0 +1,94 @@
+{
+ "id": "PH-H5813",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing for the Local Elections of the City Officials of Trece Martires City, Province of Cavite, and for Other Purposes",
+  "orig": "An Act Providing for the Local Elections of the City Officials of Trece Martires City, Province of Cavite, and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p82",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1992-03-31",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 7325",
+ "officialCode": null,
+ "topics": [
+  "administrative"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1062,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7325_1992.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1992/ra_7325_1992.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H5813-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Elective Officials of the City Government of Trece Martires City, Province of Cavite. - The following officials of the city government shall be elected at large by qualified voters of the city:\na. The mayor;\nb. The vice-mayor;\nc. The regular members of the sangguniang panlungsod; and\nd. Such other officials as may be provided by law."
+   }
+  },
+  {
+   "id": "PH-H5813-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Date of Election. - Unless otherwise provided by law, the elections for the city officials shall be held simultaneously with the local elections in 1992."
+   }
+  },
+  {
+   "id": "PH-H5813-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Transitory Provision. - Pending election of the officials of the city government during the regular local elections, the mayor, vice-mayor, and the members of the sangguniang panlungsod shall be appointed by the provincial governor of the Province of Cavite."
+   }
+  },
+  {
+   "id": "PH-H5813-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Repealing Clause . - The provisions of Republic Act No. 981 which are inconsistent with the provisions of this Act and Republic Act No. 7160, otherwise known as the Local Government Code of 1991, are hereby repealed, modified or amended accordingly."
+   }
+  },
+  {
+   "id": "PH-H5813-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Effectivity Clause. - This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

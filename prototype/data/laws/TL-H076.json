@@ -1,0 +1,1258 @@
+{
+ "id": "TL-H076",
+ "title": {
+  "zh": "法律Organizaçã及 Funcionamento da Administração Parlamentar",
+  "en": null,
+  "orig": "Lei da Organização e Funcionamento da Administração Parlamentar"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2008-12-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 15/2008",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 76,
+ "chars": 46731,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2008/serie_1/serie1_no48.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 76 条；逐字取自官方公报 PDF（public/docs/2008/serie_1/serie1_no48.pdf）第 2781–2795 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H076-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I OBJECTO, PRINCÍPIOS E DISPOSIÇÕES PRELIMINARES"
+   },
+   "heading": {
+    "pt": "Objecto"
+   },
+   "text": {
+    "pt": "A presente lei tem por objecto definir e regular a organização e o funcionamento da administração do Parlamento Nacional, com vista a assegurar a gestão orçamental, financeira e administrativa e o apoio técnico ao Parlamento Nacional e a permitir o desempenho regular e eficaz das suas funções e responsabilidades constitucionais e legais."
+   }
+  },
+  {
+   "id": "TL-H076-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I OBJECTO, PRINCÍPIOS E DISPOSIÇÕES PRELIMINARES"
+   },
+   "heading": {
+    "pt": "Princípios de administração"
+   },
+   "text": {
+    "pt": "A administração, o seu desenvolvimento e modernização e a prestação dos serviços de apoio têm em vista o bom funcionamento do Parlamento Nacional e guiam-se por princípios de isenção, integridade, transparência, responsabilidade, prestação de contas, eficiência, autonomia e conformidade com a lei."
+   }
+  },
+  {
+   "id": "TL-H076-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I OBJECTO, PRINCÍPIOS E DISPOSIÇÕES PRELIMINARES"
+   },
+   "heading": {
+    "pt": "Autonomia"
+   },
+   "text": {
+    "pt": "1 – O Parlamento Nacional tem personalidade jurídica e é dotado de autonomia administrativa, patrimonial e financeira.\n2 – Por autonomia administrativa entende-se, nomeadamente, o poder de auto-regulação:\na)  Da organização e funcionamento da sua administração;\nb)  Do estatuto jurídico do pessoal do Serviço do Parlamento Nacional.\n3 – A autonomia financeira e patrimonial é exercida nos termos em que for definida por lei, resoluções do Parlamento Nacional e decisões do Conselho de Administração, sem prejuízo do regime geral aplicável a todo o Estado."
+   }
+  },
+  {
+   "id": "TL-H076-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Princípio da subsidiariedade do regime geral"
+   },
+   "text": {
+    "pt": "1 – Em tudo quanto o Parlamento Nacional não tiver especialmente disposto relativamente à gestão dos seus recursos humanos, financeiros e patrimoniais aplica-se subsidiariamente o regime geral vigente.\n2 – O preceituado no número anterior é também aplicável aos casos em que ocorram omissões e lacunas no regime aplicável ao Parlamento Nacional."
+   }
+  },
+  {
+   "id": "TL-H076-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Instrumentos de gestão"
+   },
+   "text": {
+    "pt": "1 –  Constituem instrumentos de gestão, entre outros:\na)   Os planos estratégicos plurianuais globais;\nb)   Os planos estratégicos plurianuais sectoriais;\nc)   Os planos anuais de acção ou de actividades;\nd)   O orçamento anual;\ne)   As políticas de gestão específicas.\n2 –  A responsabilidade pela elaboração, quando for o caso, e a competência para a aprovação dos instrumentos de gestão são as que forem definidas pela presente lei e outras disposições reguladoras da administração parlamentar."
+   }
+  },
+  {
+   "id": "TL-H076-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO II ESTRUTURA  DA ADMINISTRAÇÃO"
+   },
+   "heading": {
+    "pt": "Órgãos de administração"
+   },
+   "text": {
+    "pt": "Para os fins consagrados no artigo 1.o são órgãos de administração do Parlamento Nacional:\na)   O Presidente do Parlamento Nacional;\nb)   O Conselho de Administração."
+   }
+  },
+  {
+   "id": "TL-H076-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO II ESTRUTURA  DA ADMINISTRAÇÃO"
+   },
+   "heading": {
+    "pt": "Serviços da administração parlamentar"
+   },
+   "text": {
+    "pt": "1 – O Parlamento Nacional dispõe de órgãos e serviços hierarquizados, definidos na presente lei, que constituem a sua estrutura orgânico-administrativa, representada no organograma em anexo.\n2 –  A estrutura orgânico-administrativa e as competências das suas unidades orgânicas poderão ser alteradas por resolução do Parlamento Nacional, sob proposta do Conselho de Administração, quando houver necessidade de criar, cindir ou fundir unidades orgânicas, no interesse da eficiência e da eficácia dos serviços a prestar.\nSecção   III\nFuncionários  do  Serviço  do  Parlamento   Nacional"
+   }
+  },
+  {
+   "id": "TL-H076-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO II ESTRUTURA  DA ADMINISTRAÇÃO"
+   },
+   "heading": {
+    "pt": "Estatuto dos Funcionários"
+   },
+   "text": {
+    "pt": "1 –   O Parlamento Nacional dispõe de um corpo de funcionários que se rege por estatuto próprio, a aprovar por lei, constituindo direito subsidiário o regime geral da função pública.\n2 – O regime remuneratório dos funcionários do Serviço do Parlamento Nacional e dos seus titulares dos cargos de direcção e chefia, a aprovar através da resolução prevista no n.o 5, pode consistir em regime especial ou basear-se no regime geral da função pública, mas compreenderá, no último caso, remuneração adicional fixada por percentagem, não inferior a 20%, calculada sobre o vencimento mensal ilíquido do correspondente grau, escalão e índice de vencimento da categoria profissional em que o funcionário se insira.\n3 – Para efeitos do disposto no número anterior, as escalas salariais constantes do artigo 14.o e anexos da Directiva da UNTAET n.o 4/2000, de 30 de Junho, não se consideram regime geral da função pública.\n4 – Aos funcionários do Serviço do Parlamento Nacional é ainda garantido, em moldes a fixar na resolução prevista no número seguinte, o direito a:\na)   Subsídio de refeição;\nb)  Transporte adequado de e para o local de trabalho, na medida das possibilidades financeiras e patrimoniais do Parlamento Nacional;\nc)  Subsídios de alojamento e telecomunicações móveis para os titulares de cargos de direcção e chefia.\n5 – O Parlamento Nacional aprova por resolução, no prazo máximo de seis meses a contar da data da publicação da presente lei, sob proposta do Conselho de Administração, relativamente ao seu corpo de funcionários:\na)   O plano de cargos, carreiras e salários;\nb)  O quadro de pessoal, contendo o número de lugares por grupo de funcionários e carreira e a descrição dos respectivos conteúdos funcionais;\nc)   O regime remuneratório, com as respectivas escalas salariais ou tabelas de vencimentos;\nd)  O subsídio de refeição e o transporte a que se refere o n.o 4;\ne)   As normas de admissão e de provimento;\nf)   O sistema de avaliação de desempenho.\n6 – A resolução que aprovar o plano de cargos, carreiras e salários determinará necessariamente a forma de transição dos actuais funcionários do regime anterior para o novo regime."
+   }
+  },
+  {
+   "id": "TL-H076-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO II ESTRUTURA  DA ADMINISTRAÇÃO"
+   },
+   "heading": {
+    "pt": "Mobilidade entre o quadro de Serviço do Parlamento"
+   },
+   "text": {
+    "pt": "Nacional e os quadros da Administração Pública É reconhecida a mobilidade entre o quadro de funcionários do Serviço do Parlamento Nacional e os quadros da Administração Pública, nos termos da qual nenhum funcionário verá prejudicados os seus direitos de progressão na carreira, salário e aposentação por transitar de um serviço para o outro."
+   }
+  },
+  {
+   "id": "TL-H076-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO II ESTRUTURA  DA ADMINISTRAÇÃO"
+   },
+   "heading": {
+    "pt": "Recrutamento de pessoal"
+   },
+   "text": {
+    "pt": "1 – O recrutamento e a selecção de funcionários do quadro não dirigente são feitos mediante concurso público e obedecem às disposições da presente lei e demais regulamentação.\n2 – Quando circunstâncias particulares e urgentes o aconselhem poderá, excepcionalmente, admitir-se pessoal fora do quadro, em regime de contrato, com dispensa de concurso, observando-se o disposto na presente lei e demais regulamentação."
+   }
+  },
+  {
+   "id": "TL-H076-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO II ESTRUTURA  DA ADMINISTRAÇÃO"
+   },
+   "heading": {
+    "pt": "Requisição e contratação"
+   },
+   "text": {
+    "pt": "1 – O Conselho de Administração pode autorizar o Secretário- Geral a requisitar funcionários e agentes da Administração Pública ou técnicos de empresas públicas ou privadas ou de outros organismos para realização de tarefas que não possam ser asseguradas pelo pessoal do quadro.\n2 – As requisições são feitas por períodos máximos de um ano, prorrogáveis enquanto as circunstâncias que estiverem na sua origem prevalecerem, sujeitas a confirmação pelo Conselho de Administração.\n3 – O pessoal requisitado nos termos do n.o 1 tem de possuir as qualificações académicas e profissionais exigidas para os funcionários do quadro do Parlamento Nacional."
+   }
+  },
+  {
+   "id": "TL-H076-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO II ESTRUTURA  DA ADMINISTRAÇÃO"
+   },
+   "heading": {
+    "pt": "Formação de Funcionários"
+   },
+   "text": {
+    "pt": "1 – Tendo em vista o aperfeiçoamento profissional dos funcionários do Parlamento Nacional podem ser concedidas bolsas de estudo para a frequência de cursos e estágios em instituições nacionais ou internacionais.\n2 – A concessão de bolsas de estudo é da competência do Secretário-Geral, após autorização do Conselho de Administração.\n3 –  As condições, direitos e obrigações dos bolseiros constarão de regulamento próprio a fixar pelo Conselho de Administração, mediante proposta do Secretário-Geral."
+   }
+  },
+  {
+   "id": "TL-H076-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO IV PATRIMÓNIO  E  INSTALAÇÕES"
+   },
+   "heading": {
+    "pt": "Património"
+   },
+   "text": {
+    "pt": "Constituem património do Parlamento Nacional as instalações onde este tem a sua sede, as residências oficiais e os bens móveis, bem como quaisquer outros bens por ele adquiridos ou previstos na lei."
+   }
+  },
+  {
+   "id": "TL-H076-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO IV PATRIMÓNIO  E  INSTALAÇÕES"
+   },
+   "heading": {
+    "pt": "Sede"
+   },
+   "text": {
+    "pt": "O Parlamento Nacional tem a sua sede em Díli, capital da República Democrática de Timor-Leste."
+   }
+  },
+  {
+   "id": "TL-H076-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO IV PATRIMÓNIO  E  INSTALAÇÕES"
+   },
+   "heading": {
+    "pt": "Instalações"
+   },
+   "text": {
+    "pt": "1 – O Parlamento Nacional funciona em instalações da cidade de Díli.\n2 – O Parlamento Nacional pode adquirir, requisitar ao ministério competente ou tomar de arrendamento os bens imóveis necessários ao seu funcionamento ou ao funcionamento de órgãos autónomos dele dependentes.\n3 – O Parlamento Nacional pode ainda adquirir ou tomar de aluguer os bens móveis, designadamente viaturas automóveis, dentro dos limites orçamentais e financeiros atribuídos."
+   }
+  },
+  {
+   "id": "TL-H076-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO V ORÇAMENTO  E  PLANOS"
+   },
+   "heading": {
+    "pt": "Orçamento anual e orçamentos suplementares ou rectificativos"
+   },
+   "text": {
+    "pt": "1 – O orçamento de receitas e despesas é anual, sendo elaborado e apresentado pelos serviços competentes do Secretariado-Geral, sob a direcção do Secretário-Geral, de acordo com as regras orçamentais e de contabilidade pública aplicáveis.\n2 – As alterações ao orçamento principal são feitas através de orçamento suplementar ou rectificativo, aplicando-se o disposto no número anterior.\n3 – O processo interno e respectivos prazos de elaboração e aprovação do orçamento principal e do orçamento suplementar ou rectificativo do Parlamento Nacional, assim como os mecanismos de acompanhamento e avaliação da execução orçamental, são objecto de regulamentação própria, sem prejuízo do disposto na presente lei."
+   }
+  },
+  {
+   "id": "TL-H076-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO V ORÇAMENTO  E  PLANOS"
+   },
+   "heading": {
+    "pt": "Receitas próprias"
+   },
+   "text": {
+    "pt": "Constituem receitas do Parlamento Nacional:\na)  As dotações inscritas no Orçamento Geral do Estado;\nb)  Os resultados da aplicação de fundos financeiros;\nc)  As doações a seu favor e o que provier de contrato ou sucessão;\nd)  As demais receitas que resultarem de lei."
+   }
+  },
+  {
+   "id": "TL-H076-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO V ORÇAMENTO  E  PLANOS"
+   },
+   "heading": {
+    "pt": "Autorização de despesas, contratação pública e aprovisionamento"
+   },
+   "text": {
+    "pt": "1 – A autorização para a realização de despesas é da competência dos órgãos parlamentares, nos termos das disposições da presente lei e das disposições gerais de gestão orçamental e financeira públicas.\n2 – A realização de despesas com vista à aquisição de bens, serviços ou execução de obras segue o regime da legislação geral sobre contratação pública e aprovisionamento."
+   }
+  },
+  {
+   "id": "TL-H076-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO V ORÇAMENTO  E  PLANOS"
+   },
+   "heading": {
+    "pt": "Auditoria"
+   },
+   "text": {
+    "pt": "1 – O auditor que realizar a auditoria da conta geral do Estado audita também a conta do Parlamento Nacional e relata-a em separado ao Parlamento Nacional.\n2 – O relatório da auditoria é apresentado ao Conselho de Administração, que o submete ao Plenário para apreciação."
+   }
+  },
+  {
+   "id": "TL-H076-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO V ORÇAMENTO  E  PLANOS"
+   },
+   "heading": {
+    "pt": "Planos"
+   },
+   "text": {
+    "pt": "O Parlamento Nacional terá regras e procedimentos próprios de elaboração e aprovação de planos estratégicos plurianuais e do plano anual de acção ou de actividades, bem como de acompanhamento e avaliação da respectiva execução."
+   }
+  },
+  {
+   "id": "TL-H076-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO V ORÇAMENTO  E  PLANOS"
+   },
+   "heading": {
+    "pt": "Encargos com o Conselho Consultivo do Fundo Petrolífero"
+   },
+   "text": {
+    "pt": "1– Para os fins do disposto na Lei do Fundo Petrolífero, os encargos com o funcionamento do Conselho Consultivo do Fundo Petrolífero são cobertos por dotação própria inscrita no orçamento do Parlamento Nacional.\n2 – A gestão orçamental e financeira da dotação orçamental para o funcionamento do Conselho Consultivo do Fundo Petrolífero é feita pelo Secretariado-Geral do Parlamento Nacional."
+   }
+  },
+  {
+   "id": "TL-H076-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO VI PUBLICAÇÃO   NO   JORNAL   DA   REPÚBLICA"
+   },
+   "heading": {
+    "pt": "Publicações"
+   },
+   "text": {
+    "pt": "1– São obrigatoriamente publicados na respectiva série do Jornal da República todos os actos, compreendendo ordens de serviço e despachos do Secretário-Geral, decisões do Conselho de Administração e deliberações e resoluções do Plenário, que, dispondo sobre a administração do Parlamento Nacional, se refiram a:\na)  Planos estratégicos e respectivos relatórios de avaliação;\nb)  Planos anuais e respectivos relatórios de avaliação;\nc)  Relatórios e contas anuais de execução orçamental;\nd)  Abertura de concursos públicos de aprovisionamento;\ne)  Regulamentos sobre a organização e funcionamento dos serviços;\nf)  Regulamentos pertinentes à gestão do Parlamento Nacional;\ng)  Despachos relacionados com o estatuto e direitos dos funcionários do Serviço do Parlamento Nacional, tais como nomeações, exonerações, licenças e bolsas de estudo;\nh)   Manuais e guias de procedimentos.\n2 –O Parlamento Nacional assegura ainda a publicação dos pareceres do Conselho Consultivo do Fundo Petrolífero, nos termos do artigo 31.º da Lei do Fundo Petrolífero."
+   }
+  },
+  {
+   "id": "TL-H076-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO VII COMPETÊNCIAS  DO  PLENÁRIO E  DO  PRESIDENTE DO  PARLAMENTO  NACIONAL"
+   },
+   "heading": {
+    "pt": "Competências do Plenário"
+   },
+   "text": {
+    "pt": "1 – Compete ao Plenário, como órgão supremo do Parlamento Nacional, além do mais que lhe for atribuído pela presente lei, aprovar:\na)  O orçamento privativo anual do Parlamento Nacional;\nb)  O orçamento suplementar ou rectificativo;\nc)  O relatório e conta anuais de execução orçamental;\nd)  Os planos estratégicos plurianuais e os planos anuais de acção ou de actividades.\n2 –   Compete ainda ao Plenário receber e apreciar:\na)  O relatório anual do Conselho de Administração;\nb)  O relatório do auditor independente sobre as contas do Parlamento Nacional."
+   }
+  },
+  {
+   "id": "TL-H076-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO VII COMPETÊNCIAS  DO  PLENÁRIO E  DO  PRESIDENTE DO  PARLAMENTO  NACIONAL"
+   },
+   "heading": {
+    "pt": "Competências do Presidente do Parlamento Nacional"
+   },
+   "text": {
+    "pt": "1 – O Presidente do Parlamento Nacional tem as competências que lhe são atribuídas pela Constituição, pelo Regimento do Parlamento Nacional e pela lei.\n2 – O Presidente do Parlamento Nacional é, por inerência, o Presidente do Conselho de Administração.\n3 –Em caso de ausência ou impedimento, o Presidente do Parlamento Nacional é substituído por um dos Vice- Presidentes.\n4 – Compete ao Presidente do Parlamento Nacional, enquanto Presidente do Conselho de Administração:\na) Presidir às reuniões;\nb) Assegurar o regular e eficaz funcionamento."
+   }
+  },
+  {
+   "id": "TL-H076-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II GESTÃO  ADMINISTRATIVA, FINANCEIRA  E  PATRI- MONIAL / SECÇÃO VII COMPETÊNCIAS  DO  PLENÁRIO E  DO  PRESIDENTE DO  PARLAMENTO  NACIONAL"
+   },
+   "heading": {
+    "pt": "Delegação de competências do Presidente do Parlamento Nacional"
+   },
+   "text": {
+    "pt": "1 – O Presidente do Parlamento Nacional pode delegar num dos Vice-Presidentes as competências previstas na presente lei, sem faculdade de sub-delegação.\n2 – A delegação de competências é feita por escrito, com indicação expressa dos poderes limites da delegação, bem como a sua duração.\n3 – A delegação de competências é assinada pelo Presidente do Parlamento Nacional.\n4 – A delegação de competências pode ser revogada por escrito a qualquer momento."
+   }
+  },
+  {
+   "id": "TL-H076-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CONSELHO  DE   ADMINISTRAÇÃO  DO PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Definição e natureza do Conselho de Administração"
+   },
+   "text": {
+    "pt": "O Conselho de Administração do Parlamento Nacional, adiante designado por «Conselho de Administração», é o órgão de gestão em matéria administrativa, financeira, patrimonial, de organização dos serviços parlamentares, de recursos humanos e de segurança do Parlamento Nacional."
+   }
+  },
+  {
+   "id": "TL-H076-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CONSELHO  DE   ADMINISTRAÇÃO  DO PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Composição do Conselho de Administração"
+   },
+   "text": {
+    "pt": "1 –  O Conselho de Administração tem a seguinte composição:\na)  O Presidente do Parlamento Nacional, membro sem direito a voto, sem prejuízo do voto de desempate a que se refere o n.o 5 do artigo seguinte;\nb) Cinco deputados pertencentes às cinco maiores bancadas parlamentares;\nc)   O Secretário-Geral do Parlamento Nacional, que é membro sem direito a voto e exerce as funções de Secretário do Conselho de Administração;\nd) Um representante dos funcionários parlamentares, membro sem direito a voto.\n2 – Se o número de bancadas parlamentares não for suficiente para se observar o disposto na alínea c) do número anterior, os lugares que restarem serão preenchidos por eleição do Plenário, podendo qualquer bancada parlamentar apresentar candidatos.\n3 – Em caso de cessação ou suspensão das funções de deputado que seja membro do Conselho de Administração, a vaga que consequentemente ocorrer é preenchida nos termos dos n.os 1 ou 2, conforme for o caso.\n4 – Em caso de dissolução ou eleição do Parlamento Nacional, os membros do Conselho de Administração continuam no cargo até que sejam nomeados os respectivos substitutos.\n5 – A função de membro do Conselho de Administração não é acumulável com a de presidente de comissão especializada permanente, sub-comissão ou presidente de bancada parlamentar."
+   }
+  },
+  {
+   "id": "TL-H076-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CONSELHO  DE   ADMINISTRAÇÃO  DO PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Funcionamento do Conselho de Administração"
+   },
+   "text": {
+    "pt": "1 – O Conselho de Administração reúne ordinariamente uma vez por mês e, extraordinariamente, quando convocado pelo seu Presidente.\n2 – A maioria dos membros do Conselho de Administração pode requerer por escrito ao Presidente a convocação de reunião especial do Conselho de Administração, com indicação do propósito da mesma, sendo a reunião convocada pelo Presidente nos cinco dias seguintes à recepção do requerimento.\n3 – O quórum de funcionamento e o de deliberação estão preenchidos quando estiverem presentes o Presidente do Conselho de Administração e três membros com direito a voto.\n4 – As deliberações são tomadas por maioria simples dos votos, cabendo a cada membro um número de votos proporcional à respectiva bancada parlamentar.\n5 – Em caso de empate, o Presidente do Conselho de Administração exerce voto de desempate.\n6 – O Conselho de Administração pode convidar quaisquer pessoas a participar nas suas reuniões, mas sem direito a voto nas decisões a tomar.\n7 – De todas as reuniões é lavrada acta.\n8 – As decisões do Conselho de Administração são passadas a escrito e assinadas pelos respectivos Presidente e Secretário.\n9 – O Conselho de Administração dispõe sobre o seu funcionamento em regulamento próprio."
+   }
+  },
+  {
+   "id": "TL-H076-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CONSELHO  DE   ADMINISTRAÇÃO  DO PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Exercício excepcional do poder de decisão"
+   },
+   "text": {
+    "pt": "Antes de colocar à votação qualquer assunto constante da ordem de trabalhos de uma reunião do Conselho de Administração, o Presidente do Parlamento Nacional pode, fundamentando, exercer, por si, o poder de decisão."
+   }
+  },
+  {
+   "id": "TL-H076-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CONSELHO  DE   ADMINISTRAÇÃO  DO PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Competências do Conselho de Administração"
+   },
+   "text": {
+    "pt": "1 – Ao Conselho de Administração compete genericamente decidir sobre todas as questões da política geral de gestão do Parlamento Nacional e os meios necessários à sua execução, ressalvado o que, nos termos da Constituição da República e da presente lei, seja da competência de outros órgãos.\n2 – Sem prejuízo da competência genérica prevista no número anterior, compete especialmente ao Conselho de Administração:\na)   Pronunciar-se ou apresentar propostas sobre todas as matérias que tenham de ser submetidas ao Plenário para deliberação, nos termos da presente lei;\nb)  Apreciar os relatórios de execução orçamental e de gestão financeira apresentados pelo Secretário-Geral;\nc)   Aprovar a proposta de orçamento do Parlamento Nacional apresentada pelo Secretário-Geral e remetê-la para relatório e parecer da Comissão de Economia, Finanças e Anti-Corrupção;\nd) Pronunciar-se sobre os actos de administração do património imobiliário do Parlamento Nacional, designadamente a aquisição, doação, alienação, cedência e arrendamento, bem como sobre os direitos a ele inerentes;\ne)  Aprovar os planos e regulamentos de segurança do Parlamento Nacional e velar pela sua execução;\nf)  Aprovar os regulamentos sobre as competências específicas das direcções e divisões do Secretariado- Geral do Parlamento Nacional.\n3 –  Compete ainda ao Conselho de Administração:\na)   Receber e apreciar o relatório anual do Secretariado- Geral, apresentado pelo Secretário-Geral;\nb) Pronunciar-se sobre os regulamentos internos do Secretariado-Geral;\nc)  Autorizar o Secretário-Geral a:\n(i) Contratar e nomear pessoal fora do quadro, por períodos máximos de um ano, bem como a renovar os respectivos contratos;\n(ii) Conceder bolsas de estudo para frequência de cursos ou estágios, nos termos da regulamentação vigente;\n(iii) Contratar consultores para a realização de trabalhos técnicos especializados de apoio ao Secretariado- Geral.\n4 – O Conselho de Administração prepara e apresenta ao Plenário um relatório anual sobre as suas actividades."
+   }
+  },
+  {
+   "id": "TL-H076-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV SERVIÇO   DO   PARLAMENTO   NACIONAL"
+   },
+   "heading": {
+    "pt": "Definição e atribuições"
+   },
+   "text": {
+    "pt": "O Serviço do Parlamento Nacional ou Serviço Parlamentar é o serviço público constituído pelos funcionários do Parlamento Nacional e a estrutura orgânica na qual os mesmos estão integrados, tendo por atribuição genérica a prestação de apoio técnico e administrativo aos órgãos e Deputados do Parlamento Nacional e à gestão do Parlamento Nacional."
+   }
+  },
+  {
+   "id": "TL-H076-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV SERVIÇO   DO   PARLAMENTO   NACIONAL"
+   },
+   "heading": {
+    "pt": "Princípios de actuação"
+   },
+   "text": {
+    "pt": "O Serviço do Parlamento Nacional, no exercício das suas funções e responsabilidades, procura sempre atingir os mais altos padrões de ética e excelência profissional e pauta a sua actuação pelos seguintes princípios:\na)  Actuação dirigida à obtenção de resultados e à gestão e avaliação do desempenho;\nb)   Entreajuda e colaboração entre os funcionários;\nc)    Racionalização de recursos humanos e materiais, simplificação de métodos de trabalho e flexibilização da gestão, por forma a promover a eficiência e a produtividade dos serviços;\nd)   Utilização eficaz, transparente e económica dos recursos disponíveis;\ne)   Desburocratização de procedimentos;\nf)   Valorização, motivação e responsabilização dos funcionários;\ng)   Participação na difusão de uma correcta imagem do Parlamento Nacional;\nh)   Cooperação com os restantes órgãos constitucionais e da Administração Pública, bem como com outros parlamentos e instituições internacionais."
+   }
+  },
+  {
+   "id": "TL-H076-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV SERVIÇO   DO   PARLAMENTO   NACIONAL"
+   },
+   "heading": {
+    "pt": "Valores do Serviço do Parlamento Nacional"
+   },
+   "text": {
+    "pt": "1 – O Serviço do Parlamento Nacional guia-se pelos seguintes valores:\na)   O Serviço do Parlamento Nacional presta aconselhamento e apoio de forma profissional e independente do Governo;\nb)   O Serviço do Parlamento Nacional presta aconselhamento e apoio de forma imparcial e apartidária ao Plenário, às comissões parlamentares e aos deputados;\nc)   O Serviço do Parlamento Nacional possui os mais elevados padrões éticos;\nd)   O Serviço do Parlamento Nacional exerce as suas funções com probidade e responsabiliza-se pelas suas acções perante os órgãos competentes do Parlamento Nacional;\ne)   O Serviço do Parlamento Nacional possui uma liderança da mais alta qualidade;\nf)   No Serviço do Parlamento Nacional, as decisões para admissão de pessoal são baseadas no mérito;\ng)  O Serviço do Parlamento Nacional garante um lugar de trabalho livre de discriminação e reconhece a igualdade e a diversidade que reflectem a sociedade timorense;\nh)   O Serviço do Parlamento Nacional estabelece relações de trabalho que valorizam a comunicação, a consulta, a cooperação e o contributo do pessoal em matérias que afectam o seu ambiente de trabalho;\n(i)    O Serviço do Parlamento Nacional promove a igualdade no emprego;\nj)    O Serviço do Parlamento Nacional promove a igualdade de oportunidades a todas as pessoas habilitadas a candidatarem-se a um emprego no Parlamento Nacional;\nk)   O Serviço do Parlamento Nacional é um serviço baseado no modelo de carreira, de modo a assegurar a efectividade e a qualidade dos serviços prestados e contribuir para o desenvolvimento do sistema democrático.\n2 – Os membros do Conselho de Administração, o Secretário- Geral e os restantes titulares de cargos de direcção e chefia têm o especial dever de observar e fazer observar os Valores do Serviço do Parlamento Nacional, constantes deste artigo."
+   }
+  },
+  {
+   "id": "TL-H076-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV SERVIÇO   DO   PARLAMENTO   NACIONAL"
+   },
+   "heading": {
+    "pt": "Código de Conduta dos Funcionários do Parlamento Nacional"
+   },
+   "text": {
+    "pt": "1 – O Parlamento Nacional possui o seguinte código de conduta para os funcionários do Serviço Parlamentar:\na)   O funcionário do Serviço do Parlamento Nacional deve comportar-se com honestidade e integridade;\nb)   O funcionário do Serviço do Parlamento Nacional deve agir com cuidado e diligência;\nc)   O funcionário do Serviço do Parlamento Nacional deve tratar todos com respeito e cortesia, sem assédio ou intimidação;\nd)   O funcionário do Serviço do Parlamento Nacional deve agir em conformidade com a lei e cumprir a legislação vigente em Timor-Leste;\ne)   O funcionário do Serviço do Parlamento Nacional deve obedecer às ordens legais e legítimas que receba;\nf)   O funcionário do Serviço do Parlamento Nacional deve manter apropriado nível de confidencialidade sobre os assuntos a seu cargo, principalmente quando lida com o Plenário, a Mesa, a Comissão Permanente, as comissões parlamentares ou qualquer deputado ou funcionário das bancadas parlamentares;\ng)   O funcionário do Serviço do Parlamento Nacional deve adoptar todas as medidas para evitar conflitos de interesse, reais ou aparentes;\nh)   O funcionário do Serviço do Parlamento Nacional deve usar os recursos do Estado de maneira apropriada e parcimoniosa;\n(i)   O funcionário do Serviço do Parlamento Nacional não deve fornecer informação falsa ou enganosa em resposta a um pedido de informação feito com propósitos oficiais e relacionado com o seu trabalho;\nj)   O funcionário do Serviço do Parlamento Nacional não deve fazer uso indevido de informação interna ou usar as suas responsabilidades, estatuto, poderes ou autoridade para obter ou tentar obter ganho, benefício ou vantagem para si ou para outrem;\nk)   O funcionário do Serviço do Parlamento Nacional deve, a todo tempo, comportar-se de forma a preservar os Valores do Serviço do Parlamento Nacional e a integridade e a boa reputação do Serviço do Parlamento Nacional;\nl)   O funcionário do Serviço do Parlamento Nacional em missão fora do país deve a todo o tempo comportar-se de modo a preservar a boa reputação de Timor-Leste;\nm)  O funcionário do Serviço do Parlamento Nacional deve adoptar todas as outras condutas exigidas legalmente.\n2 – Para efeitos do presente artigo, «Funcionário» significa o pessoal do quadro, o pessoal contratado fora do quadro, o pessoal dirigente e de chefia e o pessoal dos gabinetes de apoio.\n3 – O Conselho de Administração pode aprovar directivas sobre a explicitação do conteúdo e significado de cada conduta."
+   }
+  },
+  {
+   "id": "TL-H076-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO I DEFINIÇÃO,  ATRIBUIÇÕES   E  ORGANIZAÇÃO   DO SECRETARIADO-GERAL"
+   },
+   "heading": {
+    "pt": "Definição e atribuições"
+   },
+   "text": {
+    "pt": "1 – O Secretariado-Geral é a forma orgânica em que se estrutura o Serviço do Parlamento Nacional e compreende todas as suas unidades orgânicas e funções.\n2 – O Secretariado-Geral está organizado de forma hierárquica e é dirigido superiormente por um Secretário-Geral.\n3 – O Secretariado-Geral tem as seguintes atribuições básicas permanentes:\na)   Apoiar os órgãos do Parlamento Nacional, nomeadamente o Plenário e as comissões parlamentares;\nb)   Apoiar os Deputados;\nc)   Fornecer informação e acesso do público aos trabalhos do Parlamento Nacional;\nd)   Exercer a gestão ao nível administrativo, patrimonial e dos recursos financeiros e humanos;\ne)   Assegurar a disponibilidade e a aplicação de adequada tecnologia de comunicação e informação."
+   }
+  },
+  {
+   "id": "TL-H076-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO I DEFINIÇÃO,  ATRIBUIÇÕES   E  ORGANIZAÇÃO   DO SECRETARIADO-GERAL"
+   },
+   "heading": {
+    "pt": "Estrutura orgânica"
+   },
+   "text": {
+    "pt": "1 – A estrutura do Secretariado-Geral compreende as seguintes direcções e divisões autónomas:\na)   Direcção de Administração;\nb)   Direcção de Apoio Parlamentar;\nc)   Direcção de Pesquisa e Informação Técnica;\nd)   Divisão de Tecnologia de Informação e Comunicação;\ne)   Divisão de Relações Internacionais, Protocolo e Segurança.\n2 –  A Direcção de Administração compreende:\na)   A Divisão do Plano, Finanças e Aprovisionamento;\nb)   A Divisão de Património, Logística e Serviços Gerais;\nc)   A Divisão de Recursos Humanos, Serviços Administrativos e Atendimento aos Deputados e Bancadas Parlamentares.\n3 –  A Direcção de Apoio Parlamentar compreende:\na)   A Divisão de Apoio ao Plenário;\nb)   A Divisão de Apoio às Comissões;\nc)   A Divisão de Redacção, Audiovisual, Transcrição e Documentação;\nd)   A Divisão de Relações Públicas, Comunicação e Educação Cívica.\n4 –   A Direcção de Pesquisa e Informação Técnica compreende:\na)   O Gabinete de Pesquisa e Análise;\nb)   A Biblioteca e Arquivo;\nc)   O Centro de Formação e Informação sobre Igualdade de Género."
+   }
+  },
+  {
+   "id": "TL-H076-A37",
+   "no": 37,
+   "noLabel": {
+    "pt": "Artigo 37.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO I DEFINIÇÃO,  ATRIBUIÇÕES   E  ORGANIZAÇÃO   DO SECRETARIADO-GERAL"
+   },
+   "heading": {
+    "pt": "Unidades orgânicas na dependência directa do Secretário- Geral"
+   },
+   "text": {
+    "pt": "1 – Estão na dependência directa do Secretário-Geral a Divisão de Tecnologia de Informação e Comunicação e a Divisão de Relações Internacionais, Protocolo e Segurança.\n2 – Fica ao critério discricionário do Secretário-Geral a orientação directa das referidas divisões ou a nomeação dos respectivos chefes."
+   }
+  },
+  {
+   "id": "TL-H076-A38",
+   "no": 38,
+   "noLabel": {
+    "pt": "Artigo 38.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO I DEFINIÇÃO,  ATRIBUIÇÕES   E  ORGANIZAÇÃO   DO SECRETARIADO-GERAL"
+   },
+   "heading": {
+    "pt": "Coordenação do Gabinete de Pesquisa e Análise"
+   },
+   "text": {
+    "pt": "O Gabinete de Pesquisa e Análise não possui chefe, sendo directamente dirigido pelo Director de Pesquisa e Informação Técnica."
+   }
+  },
+  {
+   "id": "TL-H076-A39",
+   "no": 39,
+   "noLabel": {
+    "pt": "Artigo 39.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO I DEFINIÇÃO,  ATRIBUIÇÕES   E  ORGANIZAÇÃO   DO SECRETARIADO-GERAL"
+   },
+   "heading": {
+    "pt": "Organização interna"
+   },
+   "text": {
+    "pt": "A articulação dos serviços, as suas condições de funcionamento e a forma de se comunicarem entre si e com os órgãos parlamentares e instituições exteriores ao Parlamento Nacional obedecem a regulamentos ou guias de procedimento internos a aprovar pelo Conselho de Administração, sob proposta do Secretário-Geral."
+   }
+  },
+  {
+   "id": "TL-H076-A40",
+   "no": 40,
+   "noLabel": {
+    "pt": "Artigo 40.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO II SECRETÁRIO-GERAL"
+   },
+   "heading": {
+    "pt": "Definição e competências genéricas do Secretário-Geral"
+   },
+   "text": {
+    "pt": "O Secretário-Geral é o dirigente máximo do Secretariado-Geral e tem como competência genérica superintender a todos os serviços do Secretariado-Geral e cuidar da gestão corrente da administração do Parlamento Nacional e dos serviços de apoio aos Deputados e órgãos do Parlamento Nacional."
+   }
+  },
+  {
+   "id": "TL-H076-A41",
+   "no": 41,
+   "noLabel": {
+    "pt": "Artigo 41.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO II SECRETÁRIO-GERAL"
+   },
+   "heading": {
+    "pt": "Nomeação, mandato, destituição e estatuto do Secretário- Geral"
+   },
+   "text": {
+    "pt": "1 – O Secretário-Geral é nomeado e exonerado pelo Presidente do Parlamento Nacional, depois de ouvidas as bancadas parlamentares, que poderão, querendo, apresentar candidatos.\n2 – O Secretário-Geral é nomeado para um mandato correspondente à duração da legislatura e cessa funções com o fim da mesma, podendo ser reconduzido sucessivamente, mantendo-se no cargo, salvo vagatura ou destituição, até à sua recondução ou nomeação do seu substituto.\n3 – O Secretário-Geral pode ser destituído do cargo por justa causa, baseada na violação da lei ou dos deveres e da conduta impostos pela presente lei e demais legislação aplicável.\n4 – O Secretário-Geral tem estatuto equiparado ao mais alto cargo de direcção na hierarquia da função pública."
+   }
+  },
+  {
+   "id": "TL-H076-A42",
+   "no": 42,
+   "noLabel": {
+    "pt": "Artigo 42.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO II SECRETÁRIO-GERAL"
+   },
+   "heading": {
+    "pt": "Escolha e qualificações do Secretário-Geral"
+   },
+   "text": {
+    "pt": "1 – O Secretário-Geral é escolhido preferencialmente de entre funcionários públicos no topo da carreira e categoria do Serviço Parlamentar ou da Administração Pública ou de entre pessoas com larga e reconhecida experiência no Serviço Parlamentar e na Administração Pública.\n2 – O Presidente do Parlamento Nacional pode optar pela realização de recrutamento público por concurso para a selecção do candidato a nomear.\n3 – O candidato ao cargo de Secretário-Geral deve possuir os seguintes requisitos básicos:\na)   Licenciatura ou grau académico equivalente;\nb)   Relevante experiência em cargos de direcção por tempo significativo.\n4 – São requisitos desejáveis a comprovada experiência de direcção na Administração Pública, de preferência no Serviço Parlamentar, por período considerado razoável."
+   }
+  },
+  {
+   "id": "TL-H076-A43",
+   "no": 43,
+   "noLabel": {
+    "pt": "Artigo 43.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO II SECRETÁRIO-GERAL"
+   },
+   "heading": {
+    "pt": "Competências específicas do Secretário-Geral"
+   },
+   "text": {
+    "pt": "1 – Sem prejuízo das competências genéricas definidas na presente lei, o Secretário-Geral possui as seguintes competências específicas:\na)   Em matéria de plano, orçamento e finanças:\n(i)  Preparar o plano plurianual estratégico e o plano anual do Secretariado-Geral e submetê-los ao Conselho de Administração;\n(ii) Preparar o orçamento anual e o orçamento suplementar ou rectificativo do Parlamento Nacional e submetê-los ao Conselho de Administração, que os remete para relatório e parecer da Comissão de Economia, Finanças e Anti-Corrupção antes da sua apresentação em Plenário;\n(iii) Autorizar a realização de despesas inscritas no orçamento do Parlamento Nacional, bem como iniciar e autorizar quaisquer processos de aprovisionamento.\nb)   Em matéria de administração:\n(i)   Propor ao Conselho de Administração regulamentos internos de funcionamento do Secretariado-Geral;\n(ii) Propor ao Conselho de Administração projectos de resolução para a alteração da estrutura orgânica do Secretariado-Geral;\n(iii) Propor ao Conselho de Administração quaisquer outros projectos de resolução que, nos termos da presente lei, tenham de ser submetidos ao Plenário;\n(iv)Elaborar directrizes para o Secretariado-Geral e aprovar os planos de trabalho das direcções;\n(v)  Aprovar rotinas de trabalho;\n(vi)   Realizar reuniões periódicas com os directores e chefes das respectivas divisões subordinadas, para efeitos de coordenação, articulação e melhoria do trabalho;\n(vii) Criar órgãos eventuais de consulta ou de concepção sobre planos, programas e estratégias, os quais podem contar com a participação de pessoas externas ao Secretariado-Geral;\nc)   Em matéria de pessoal:\n(i)   Decidir, ouvido o Director em causa ou sob proposta deste, sobre a colocação e mobilidade interna dos funcionários do Serviço do Parlamento Nacional;\n(ii)Conceder férias, licenças e outros afastamentos temporários aos funcionários do Parlamento Nacional;\n(iii)Exercer o poder disciplinar e sancionatório sobre o pessoal do Secretariado-Geral;\n(iv)Avaliar os directores nos termos das disposições vigentes sobre a matéria, bem como orientá-los para a correcção das falhas detectadas;\n(v) Decidir sobre a abertura de concursos públicos de acesso de pessoal do quadro, desde que haja o respectivo cabimento orçamental;\n(vi) Propor ao Conselho de Administração a contratação de pessoal fora do quadro por períodos máximos de um ano, bem como a renovação dos respectivos contratos;\n(vii) Propor ao Conselho de Administração a concessão de bolsas de estudo para frequência de cursos e estágios;\n(viii) Propor ao Conselho de Administração a contratação de consultores para a realização de trabalhos técnicos especializados de apoio ao Secretariado- Geral.\n2 – Quaisquer referências, na legislação geral vigente, à autoridade máxima ou dirigente máximo de um órgão para a autorização de aquisição de bens e serviços, processos de aprovisionamento ou realização de quaisquer outras despesas previstas no orçamento, entendem-se como sendo feitas ao Secretário-Geral.\n3 – Das decisões do Secretário-Geral cabe recurso hierárquico para o Conselho de Administração, que delibera em definitivo."
+   }
+  },
+  {
+   "id": "TL-H076-A44",
+   "no": 44,
+   "noLabel": {
+    "pt": "Artigo 44.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO II SECRETÁRIO-GERAL"
+   },
+   "heading": {
+    "pt": "Responsabilidade do Secretário-Geral"
+   },
+   "text": {
+    "pt": "O Secretário-Geral responde administrativa, civil e criminalmente por actos de gestão financeira, patrimonial ou administrativa danosa ou ilegal."
+   }
+  },
+  {
+   "id": "TL-H076-A45",
+   "no": 45,
+   "noLabel": {
+    "pt": "Artigo 45.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO II SECRETÁRIO-GERAL"
+   },
+   "heading": {
+    "pt": "Prestação de contas pelo Secretário-Geral"
+   },
+   "text": {
+    "pt": "1 –   O Secretário-Geral presta contas através de relatório anual, presente ao Conselho de Administração e ao Plenário, sobre a actividade do Secretariado-Geral.\n2 – O Secretário-Geral apresenta ao Conselho de Administração relatórios mensais, trimestrais, semestrais e anuais de execução orçamental.\n3 – O Secretário-Geral produz e apresenta um inventário patrimonial anual ao Conselho de Administração.\n4 – O Secretário-Geral presta, em tempo razoável, as informações que lhe forem solicitadas pelo Conselho de Administração."
+   }
+  },
+  {
+   "id": "TL-H076-A46",
+   "no": 46,
+   "noLabel": {
+    "pt": "Artigo 46.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO II SECRETÁRIO-GERAL"
+   },
+   "heading": {
+    "pt": "Delegação de competências do Secretário-Geral"
+   },
+   "text": {
+    "pt": "1 – O Secretário-Geral pode delegar nos directores as competências que lhe são conferidas pela presente lei, sem possibilidade de subdelegação.\n2 – A delegação de competências é feita por escrito, assinada pelo Secretário-Geral, e deve estabelecer com exactidão os poderes e os limites da delegação, bem como a sua duração, se for o caso.\n3 – O delegado deve exercer as competências nos precisos termos e condições que forem impostos para o exercício dos poderes delegados.\n4 – O Secretário-Geral não está impedido de exercer ele próprio as competências delegadas.\n5 – A delegação de competências pode ser revogada a qualquer tempo, desde que efectuada por escrito."
+   }
+  },
+  {
+   "id": "TL-H076-A47",
+   "no": 47,
+   "noLabel": {
+    "pt": "Artigo 47.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO II SECRETÁRIO-GERAL"
+   },
+   "heading": {
+    "pt": "Substituição do Secretário-Geral"
+   },
+   "text": {
+    "pt": "O Secretário-Geral é substituído, nas suas ausências e impedimentos, por director por ele nomeado, por escrito, ou, na impossibilidade de o fazer, por director indigitado pelo Presidente do Parlamento Nacional."
+   }
+  },
+  {
+   "id": "TL-H076-A48",
+   "no": 48,
+   "noLabel": {
+    "pt": "Artigo 48.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO II SECRETÁRIO-GERAL"
+   },
+   "heading": {
+    "pt": "Gabinete de Apoio do Secretário-Geral"
+   },
+   "text": {
+    "pt": "O Secretário-Geral dispõe de um gabinete de apoio próprio, constituído por dois assessores, um dos quais jurídico, um secretário e um motorista."
+   }
+  },
+  {
+   "id": "TL-H076-A49",
+   "no": 49,
+   "noLabel": {
+    "pt": "Artigo 49.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO III DIRECTORES"
+   },
+   "heading": {
+    "pt": "Nomeação, mandato, destituição e estatuto dos directores"
+   },
+   "text": {
+    "pt": "1 – Os directores são nomeados pelo Presidente do Parlamento Nacional, sob proposta do Secretário-Geral, observadas as exigências quanto às qualificações para o cargo.\n2 – Os directores são nomeados para um mandato correspondente à duração da legislatura e cessam funções com o fim da mesma, podendo ser reconduzidos sucessivamente, mantendo-se no cargo, salvo vagatura ou destituição, até à sua recondução ou nomeação do seu substituto.\n3 –Os directores podem ser destituídos do cargo por justa causa, baseada na violação da lei ou dos deveres e da conduta impostos pela presente lei e demais legislação aplicável.\n4 – Os directores têm estatuto equiparado ao segundo cargo de direcção na hierarquia da função pública."
+   }
+  },
+  {
+   "id": "TL-H076-A50",
+   "no": 50,
+   "noLabel": {
+    "pt": "Artigo 50.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO III DIRECTORES"
+   },
+   "heading": {
+    "pt": "Qualificações para o cargo de director"
+   },
+   "text": {
+    "pt": "1 – O candidato ao cargo de director deve possuir os seguintes requisitos básicos:\na)  Licenciatura ou grau académico equivalente;\nb)   Relevante experiência em cargos de direcção ou chefia por tempo significativo.\n2 –  São requisitos desejáveis:\na)   O conhecimento comprovado da actividade parlamentar e organização dos serviços parlamentares ou experiência profissional no Serviço Parlamentar;\nb)   Experiência de chefia ou direcção na Administração Pública, em área relevante para as competências específicas do cargo, de preferência no Serviço Parlamentar, por período considerado razoável."
+   }
+  },
+  {
+   "id": "TL-H076-A51",
+   "no": 51,
+   "noLabel": {
+    "pt": "Artigo 51.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO III DIRECTORES"
+   },
+   "heading": {
+    "pt": "Competências dos directores"
+   },
+   "text": {
+    "pt": "O director tem por competência genérica dirigir e coordenar as actividades das sub–unidades orgânicas sob a sua dependência funcional e hierárquica, competindo-lhe, nomeadamente:\na)   Elaborar directrizes e aprovar planos de trabalho das divisões subordinadas;\nb)   Preparar e submeter ao Secretário-Geral o plano anual de actividades da sua direcção;\nc)   Analisar permanentemente o desempenho das divisões subordinadas, objectivando a racionalização do trabalho e a constante elevação dos níveis de desempenho;\nd)   Avaliar os chefes das divisões subordinadas, nos termos das disposições vigentes sobre a matéria, bem como orientálos para a correcção das falhas detectadas;\ne)    Executar as tarefas que lhe forem delegadas pelo Secretário- Geral do Parlamento Nacional;\nf)   Realizar reuniões periódicas com os chefes das divisões subordinadas, para efeitos de coordenação, articulação e melhoria do trabalho;\ng)   Manter o ambiente de trabalho propício à produtividade e ao desenvolvimento do pessoal;\nh)   Estimular a criatividade, a iniciativa e a integração funcional;\n(i)   Zelar pela observância dos Valores do Serviço Parlamentar e do Código de Conduta dos Funcionários do Parlamento Nacional;\nj)   Produzir relatórios de actividade da direcção."
+   }
+  },
+  {
+   "id": "TL-H076-A52",
+   "no": 52,
+   "noLabel": {
+    "pt": "Artigo 52.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO III DIRECTORES"
+   },
+   "heading": {
+    "pt": "Substituição dos directores"
+   },
+   "text": {
+    "pt": "O Secretário-Geral designa, caso a caso, e sob proposta do Director, o chefe de divisão que o substitui nas suas faltas e impedimentos."
+   }
+  },
+  {
+   "id": "TL-H076-A53",
+   "no": 53,
+   "noLabel": {
+    "pt": "Artigo 53.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO IV CHEFES    DE    DIVISÃO"
+   },
+   "heading": {
+    "pt": "Recrutamento e estatuto do cargo de chefe de divisão"
+   },
+   "text": {
+    "pt": "1 – O recrutamento para o cargo de chefe de divisão é feito mediante concurso aberto aos funcionários do Estado.\n2 –  A abertura de vaga é obrigatoriamente publicitada.\n3 – O recrutamento é conduzido por um júri, nomeado pelo Secretário-Geral, tendo por composição:\na)   O Secretário-Geral do Parlamento Nacional, que preside;\nb)   Um dos directores do Secretariado-Geral;\nc)   Uma pessoa com reconhecida experiência de currículos académicos, de preferência docente universitário de uma instituição legalmente reconhecida;\nd)   Uma pessoa com reconhecida experiência profissional, no sector público ou privado, em área relacionada com as funções atribuídas ao cargo.\n4 – O júri examina as candidaturas mediante análise curricular e entrevista, podendo, a seu critério, realizar prova escrita.\n5 – O júri submete ao Presidente do Parlamento Nacional a acta final com o resultado e a indicação do melhor candidato, que será objecto de nomeação.\n6 – Os chefes de divisão têm estatuto equiparado ao mais alto cargo de chefia na hierarquia da função pública.\n7 – Os chefes de divisão podem ser destituídos do cargo por justa causa, baseada na violação da lei ou dos deveres e da conduta impostos pela presente lei e demais legislação aplicável."
+   }
+  },
+  {
+   "id": "TL-H076-A54",
+   "no": 54,
+   "noLabel": {
+    "pt": "Artigo 54.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO IV CHEFES    DE    DIVISÃO"
+   },
+   "heading": {
+    "pt": "Qualificações para o cargo de chefe de divisão"
+   },
+   "text": {
+    "pt": "1 – O candidato ao cargo de chefe de divisão deve possuir os seguintes requisitos básicos:\na)   Licenciatura ou grau académico equivalente;\nb)   Experiência profissional em funções relevantes para o cargo.\n2 –  São requisitos desejáveis:\na)   O conhecimento comprovado da actividade parlamentar e organização dos serviços parlamentares ou experiência profissional no Serviço Parlamentar;\nb)   Experiência de chefia no serviço público.\n3 – Pode excepcionalmente ser dispensada a posse de habilitações académicas se ao candidato a chefe de divisão for reconhecida competência técnica e idoneidade profissional."
+   }
+  },
+  {
+   "id": "TL-H076-A55",
+   "no": 55,
+   "noLabel": {
+    "pt": "Artigo 55.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO IV CHEFES    DE    DIVISÃO"
+   },
+   "heading": {
+    "pt": "Competências dos chefes de divisão"
+   },
+   "text": {
+    "pt": "O chefe de divisão tem por competência genérica organizar, dirigir e coordenar a actividade da divisão, competindo-lhe nomeadamente:\na)    Elaborar os planos de trabalho da divisão;\nb)   Analisar permanentemente o desempenho da divisão, objectivando a racionalização do trabalho e a constante elevação dos níveis de desempenho;\nc)   Avaliar os funcionários da divisão, nos termos das disposições vigentes sobre a matéria, bem como orientá-los para a correcção das falhas detectadas;\nd)   Identificar necessidades e propor as respectivas acções de formação dos funcionários da divisão;\ne)   Executar as tarefas que lhe forem delegadas pelo director da direcção a que pertence a sua divisão;\nf)   Realizar reuniões periódicas com os funcionários da divisão, para efeitos de coordenação, articulação e melhoria do trabalho;\ng)   Manter o ambiente de trabalho propício à produtividade e ao desenvolvimento do pessoal;\nh)   Estimular a criatividade, a iniciativa e a integração funcional;\n(i)   Zelar pela observância dos Valores do Serviço Parlamentar e do Código de Conduta dos Funcionários do Parlamento Nacional;\nj)   Produzir relatórios de actividade da divisão."
+   }
+  },
+  {
+   "id": "TL-H076-A56",
+   "no": 56,
+   "noLabel": {
+    "pt": "Artigo 56.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO IV CHEFES    DE    DIVISÃO"
+   },
+   "heading": {
+    "pt": "Substituição dos chefes de divisão"
+   },
+   "text": {
+    "pt": "O Secretário-Geral designa, caso a caso, e sob proposta do chefe de divisão, o funcionário que o substitui nas suas faltas e impedimentos."
+   }
+  },
+  {
+   "id": "TL-H076-A57",
+   "no": 57,
+   "noLabel": {
+    "pt": "Artigo 57.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO V COMPETÊNCIAS  DAS  UNIDADES  ORGÂNICAS"
+   },
+   "heading": {
+    "pt": "Competências da Direcção de Administração, Plano e Finanças"
+   },
+   "text": {
+    "pt": "Compete genericamente à Direcção de Administração, Plano e Finanças organizar e executar as funções de planeamento, gestão financeira, patrimonial e de recursos humanos do Parlamento Nacional e desenvolver os demais serviços gerais, de modo a assegurar em tempo útil e de maneira eficiente a disponibilização e utilização dos recursos necessários ao desempenho das funções do Parlamento Nacional."
+   }
+  },
+  {
+   "id": "TL-H076-A58",
+   "no": 58,
+   "noLabel": {
+    "pt": "Artigo 58.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO V COMPETÊNCIAS  DAS  UNIDADES  ORGÂNICAS"
+   },
+   "heading": {
+    "pt": "Competências da Direcção de Apoio Parlamentar"
+   },
+   "text": {
+    "pt": "Compete genericamente à Direcção de Apoio Parlamentar garantir o apoio técnico e de secretariado à actividade dos órgãos do Parlamento Nacional e registar, documentar, assegurar a publicação e divulgação e o acesso do público à informação sobre a referida actividade, compreendendo, nomeadamente, o apoio na interpretação e aplicação do Regimento e procedimentos dos órgãos do Parlamento Nacional, redacção e transcrição das sessões, reuniões e audiências públicas, informação e comunicação com o público, educação cívica sobre a função constitucional do Parlamento Nacional e o acesso do público ao mesmo."
+   }
+  },
+  {
+   "id": "TL-H076-A59",
+   "no": 59,
+   "noLabel": {
+    "pt": "Artigo 59.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO V COMPETÊNCIAS  DAS  UNIDADES  ORGÂNICAS"
+   },
+   "heading": {
+    "pt": "Competências da Direcção de Pesquisa e Informação Técnica"
+   },
+   "text": {
+    "pt": "Compete genericamente à Direcção de Pesquisa e Informação Técnica assegurar a realização de pesquisas, estudos e análises e a recolha e fornecimento de informação técnica sobre, nomeadamente, legislação e políticas públicas, orçamento, plano nacional de desenvolvimento e estratégias nacionais, para uso dos Deputados, comissões parlamentares e técnicos do Parlamento Nacional, bem como desenvolver actividade de redacção legislativa, compreendendo a preparação de textos de lei e propostas de alteração."
+   }
+  },
+  {
+   "id": "TL-H076-A60",
+   "no": 60,
+   "noLabel": {
+    "pt": "Artigo 60.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO V COMPETÊNCIAS  DAS  UNIDADES  ORGÂNICAS"
+   },
+   "heading": {
+    "pt": "Competências específicas das direcções e divisões"
+   },
+   "text": {
+    "pt": "As competências específicas das direcções e de cada divisão constam de regulamento a aprovar pelo Conselho de Administração."
+   }
+  },
+  {
+   "id": "TL-H076-A61",
+   "no": 61,
+   "noLabel": {
+    "pt": "Artigo 61.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO VI SEGURANÇA  DO  PARLAMENTO  NACIONAL"
+   },
+   "heading": {
+    "pt": "Forças policiais ao serviço do Parlamento Nacional"
+   },
+   "text": {
+    "pt": "A unidade policial destacada para exercer funções de vigilância e controlo das instalações onde funciona o Parlamento Nacional e de salvaguarda da segurança dos Deputados e funcionários que nele trabalham funciona na directa dependência do Presidente do Parlamento Nacional."
+   }
+  },
+  {
+   "id": "TL-H076-A62",
+   "no": 62,
+   "noLabel": {
+    "pt": "Artigo 62.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V SECRETARIADO-GERAL  DO  PARLAMENTO NACIONAL / SECÇÃO VII JORNAL  DO  PARLAMENTO  NACIONAL"
+   },
+   "heading": {
+    "pt": "Finalidade e conteúdo do Jornal do Parlamento Nacional"
+   },
+   "text": {
+    "pt": "O Parlamento Nacional possui um órgão de informação próprio, denominado Jornal do Parlamento Nacional, no qual são publicados, para além do que for expressamente determinado pela Mesa, e sem prejuízo das publicações que por lei devam ser feitas no Jornal da República:\na)   Projectos de lei;\nb)   Propostas de lei;\nc)   Projectos de resolução;\nd)  Relatórios das comissões parlamentares e outros órgãos do Parlamento Nacional;\ne)  Actas e súmulas das reuniões do Plenário, da Comissão Permanente, da Conferência dos Representantes das Bancadas Parlamentares, das comissões parlamentares e das suas sub-comissões;\nf)    Relatórios apresentados ao Parlamento Nacional por órgãos externos e outras instituições;\ng)   Programas e discursos de delegações estrangeiras em visita ao Parlamento Nacional;\nh)  Composição, programas e outras informações pertinentes sobre delegações e deputações parlamentares;\n(i)    Programas e discursos de ocasiões solenes e comemorativas no Parlamento Nacional."
+   }
+  },
+  {
+   "id": "TL-H076-A63",
+   "no": 63,
+   "noLabel": {
+    "pt": "Artigo 63.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI APOIO  AO  PRESIDENTE,  MESA  DO  PARLAMENTO NACIONAL, COMISSÕES  PARLAMENTARES  E BANCADAS  PARLAMENTARES / SECÇÃO I APOIO   AO  PRESIDENTE  E  À  MESA  DO PARLAMENTO   NACIONAL"
+   },
+   "heading": {
+    "pt": "Gabinete do Presidente"
+   },
+   "text": {
+    "pt": "O Presidente do Parlamento Nacional dispõe de um gabinete próprio, com pessoal da sua livre escolha e nomeação, constituído por um chefe de gabinete, que o coordena, um a quatro assessores, dois secretários e dois motoristas, consoante as necessidades e disponibilidades orçamentais."
+   }
+  },
+  {
+   "id": "TL-H076-A64",
+   "no": 64,
+   "noLabel": {
+    "pt": "Artigo 64.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI APOIO  AO  PRESIDENTE,  MESA  DO  PARLAMENTO NACIONAL, COMISSÕES  PARLAMENTARES  E BANCADAS  PARLAMENTARES / SECÇÃO I APOIO   AO  PRESIDENTE  E  À  MESA  DO PARLAMENTO   NACIONAL"
+   },
+   "heading": {
+    "pt": "Gabinete dos Vice-Presidentes"
+   },
+   "text": {
+    "pt": "Os Vice-Presidentes do Parlamento Nacional dispõem de gabinete próprio, composto por um assessor, um secretário e um motorista, da sua livre escolha, nomeados pelo Presidente do Parlamento Nacional."
+   }
+  },
+  {
+   "id": "TL-H076-A65",
+   "no": 65,
+   "noLabel": {
+    "pt": "Artigo 65.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI APOIO  AO  PRESIDENTE,  MESA  DO  PARLAMENTO NACIONAL, COMISSÕES  PARLAMENTARES  E BANCADAS  PARLAMENTARES / SECÇÃO I APOIO   AO  PRESIDENTE  E  À  MESA  DO PARLAMENTO   NACIONAL"
+   },
+   "heading": {
+    "pt": "Gabinete do Secretário e Vice-Secretários"
+   },
+   "text": {
+    "pt": "O Secretário e os Vice-Secretários da Mesa do Parlamento Nacional dispõem de um gabinete próprio composto por um secretário e um motorista, da sua livre escolha, nomeados pelo Presidente do Parlamento Nacional."
+   }
+  },
+  {
+   "id": "TL-H076-A66",
+   "no": 66,
+   "noLabel": {
+    "pt": "Artigo 66.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI APOIO  AO  PRESIDENTE,  MESA  DO  PARLAMENTO NACIONAL, COMISSÕES  PARLAMENTARES  E BANCADAS  PARLAMENTARES / SECÇÃO I APOIO   AO  PRESIDENTE  E  À  MESA  DO PARLAMENTO   NACIONAL"
+   },
+   "heading": {
+    "pt": "Requisição em comissão de serviço"
+   },
+   "text": {
+    "pt": "1 – Para a constituição dos seus gabinetes, o Presidente, os Vice-Presidentes, o Secretário e os Vice-Secretários podem requisitar, em comissão de serviço, funcionários do Parlamento Nacional ou de departamentos do Estado, instituições ou empresas públicas, regressando estes aos seus lugares de origem finda a comissão de serviço.\n2 – O pessoal dos gabinetes referidos no número anterior cessa funções no termo do mandato dos titulares dos cargos mencionados no mesmo número ou, a todo o momento, por decisão destes, mas permanecem no cargo até à sua substituição."
+   }
+  },
+  {
+   "id": "TL-H076-A67",
+   "no": 67,
+   "noLabel": {
+    "pt": "Artigo 67.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI APOIO  AO  PRESIDENTE,  MESA  DO  PARLAMENTO NACIONAL, COMISSÕES  PARLAMENTARES  E BANCADAS  PARLAMENTARES / SECÇÃO I APOIO   AO  PRESIDENTE  E  À  MESA  DO PARLAMENTO   NACIONAL"
+   },
+   "heading": {
+    "pt": "Regime do pessoal dos gabinetes do Presidente e membros"
+   },
+   "text": {
+    "pt": "da Mesa do Parlamento Nacional Aplica-se ao pessoal dos gabinetes do Presidente e dos membros da Mesa do Parlamento Nacional, com as devidas adaptações, o regime vigente para os funcionários do Parlamento Nacional, nomeadamente no que diz respeito aos deveres, regime disciplinar, Código de Conduta, Valores do Serviço Parlamentar e remuneração."
+   }
+  },
+  {
+   "id": "TL-H076-A68",
+   "no": 68,
+   "noLabel": {
+    "pt": "Artigo 68.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI APOIO  AO  PRESIDENTE,  MESA  DO  PARLAMENTO NACIONAL, COMISSÕES  PARLAMENTARES  E BANCADAS  PARLAMENTARES / SECÇÃO II APOIO  ÀS  COMISSÕES  PARLAMENTARES"
+   },
+   "heading": {
+    "pt": "Assessoria e secretariado das comissões especializadas permanentes"
+   },
+   "text": {
+    "pt": "Cada comissão especializada permanente dispõe de sala própria e é apoiada por funcionários qualificados da Divisão de Apoio às Comissões."
+   }
+  },
+  {
+   "id": "TL-H076-A69",
+   "no": 69,
+   "noLabel": {
+    "pt": "Artigo 69.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI APOIO  AO  PRESIDENTE,  MESA  DO  PARLAMENTO NACIONAL, COMISSÕES  PARLAMENTARES  E BANCADAS  PARLAMENTARES / SECÇÃO III APOIO  ÀS   BANCADAS   PARLAMENTARES"
+   },
+   "heading": {
+    "pt": "Subvenção anual"
+   },
+   "text": {
+    "pt": "1 – As bancadas parlamentares têm direito a apoio do Parlamento Nacional, através de subvenção anual a inscrever no respectivo orçamento, para a realização dos seus fins legais.\n2 – A forma e os critérios para a atribuição da subvenção anual às bancadas parlamentares são fixados em resolução do Parlamento Nacional, sob proposta do Conselho de Administração.\n3 – A subvenção anual a que se refere o n.o 1 é distribuída pelas bancadas parlamentares obedecendo à proporção da sua representatividade parlamentar.\n4  – O montante total a atribuir às bancadas parlamentares a título de subvenção anual não pode exceder 5% do orçamento anual do Parlamento Nacional para as categorias de despesa de «Salários e Vencimentos» e «Bens e Serviços» em conjunto."
+   }
+  },
+  {
+   "id": "TL-H076-A70",
+   "no": 70,
+   "noLabel": {
+    "pt": "Artigo 70.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES   FINAIS   E   TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Dispensa de nova nomeação do Secretário-Geral"
+   },
+   "text": {
+    "pt": "O actual Director do Secretariado transita automaticamente para o cargo de Secretário-Geral, com dispensa de nova nomeação."
+   }
+  },
+  {
+   "id": "TL-H076-A71",
+   "no": 71,
+   "noLabel": {
+    "pt": "Artigo 71.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES   FINAIS   E   TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Extinção do cargo de Director-Adjunto e destino do seu titular"
+   },
+   "text": {
+    "pt": "Com a extinção do cargo de Director-Adjunto, um dos três cargos de director fica reservado ao seu titular por transição para a Direcção que vier a ser determinada pelo Secretário- Geral."
+   }
+  },
+  {
+   "id": "TL-H076-A72",
+   "no": 72,
+   "noLabel": {
+    "pt": "Artigo 72.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES   FINAIS   E   TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Quadro de pessoal e regime remuneratório"
+   },
+   "text": {
+    "pt": "Até à aprovação do quadro de pessoal do Parlamento Nacional e do respectivo regime remuneratório a que se referem o n.o 2 e as alíneas b) e c) do n.o 5 do artigo 8.o, aplica-se o Regime das Carreiras e dos Cargos de Direcção e Chefia da Administração Pública."
+   }
+  },
+  {
+   "id": "TL-H076-A73",
+   "no": 73,
+   "noLabel": {
+    "pt": "Artigo 73.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES   FINAIS   E   TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Transição para o novo quadro de pessoal"
+   },
+   "text": {
+    "pt": "1 – O Secretário-Geral prepara a lista nominativa de transição dos actuais funcionários do Parlamento Nacional para os novos cargos, categorias, funções e remunerações que venham a resultar da resolução prevista no n.o 5 do artigo 8.o, submetendo-a ao Conselho de Administração para aprovação.\n2 – A lista nominativa de transição inclui, em secções separadas, o pessoal do quadro, o pessoal fora do quadro e o pessoal dos gabinetes de apoio."
+   }
+  },
+  {
+   "id": "TL-H076-A74",
+   "no": 74,
+   "noLabel": {
+    "pt": "Artigo 74.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES   FINAIS   E   TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Integração no quadro de pessoal de funcionários contratados ou temporários"
+   },
+   "text": {
+    "pt": "1 – Os funcionários contratados ou temporários, fora do quadro, que hajam prestado serviço, com mérito superiormente comprovado, por pelo menos um ano a contar da data da sua admissão, são automaticamente integrados, independentemente de quaisquer formalidades, no quadro de pessoal que vigorar, em carreira e categoria equivalente às funções efectivamente desempenhadas.\n2 – A integração no quadro dos funcionários contratados ou temporários a que se refere o número anterior não prejudica a sua sujeição ao período probatório de um ano, a iniciar-se na data do seu ingresso no quadro de pessoal."
+   }
+  },
+  {
+   "id": "TL-H076-A75",
+   "no": 75,
+   "noLabel": {
+    "pt": "Artigo 75.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES   FINAIS   E   TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Revogações"
+   },
+   "text": {
+    "pt": "1 - São revogadas todas as disposições contrárias à presente lei e expressamente as seguintes:\na)  Lei n.o 4/2002, de 7 de Agosto (Lei Orgânica do Par-lamento Nacional);\nb)   Resolução do Parlamento Nacional n.o 7/2003, de 22 de Julho (Alteração do Quadro de Pessoal do Parlamento Nacional);\nc)   Resolução do Parlamento Nacional n.o 14/2003, de 17 de Setembro (Reclassificação e Reconversão de Funcio-nários do Quadro de Pessoal do Parlamento Nacional).\n2 – Ficam, porém, ressalvados os efeitos jurídicos produzidos na esfera jurídica dos funcionários do Parlamento Nacional pelo diploma legislativo e pelas resoluções a que se refere o número anterior."
+   }
+  },
+  {
+   "id": "TL-H076-A76",
+   "no": 76,
+   "noLabel": {
+    "pt": "Artigo 76.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES   FINAIS   E   TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua pu-blicação, produzindo efeitos financeiros a partir de 1 de Janeiro de\n2009.\nAnexo\nOrganograma da Administração do Parlamento Nacional Organograma da Administração do Parlamento Nacional Direcção de Administração Direcção de Apoio Parlamentar Divisão de Património, Logistica e Serviços Gerais Divisão de Recursos Humanos, Serviços Administrativos e Atendimento aos Deputados e Bancadas Divisão de Apoio ao Plenário Divisão de Redacção, Audiovisual, Transcrição e Documentação Divisão de Apoio às Comissões Biblioteca e Arquivo Direcção de Pesquisa e Informação Técnica Divisão de Relações Internacionais, Protocolo e Segurança Divisão de Relações Públicas, Comunicação e Educação Cívica Secretário-Geral Conselho de Administração Divisão de Tecnologia de Informação e Comunicação Gabinete de Pesquisa e Análise Divisão do Plano, Finanças e Aprovisionamento Centro de Formação e Informação sobre Igualdade de Géneros"
+   }
+  }
+ ]
+}

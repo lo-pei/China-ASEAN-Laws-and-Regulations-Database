@@ -1,0 +1,1130 @@
+{
+ "id": "SG-H317",
+ "title": {
+  "zh": null,
+  "en": "Biological Agents and Toxins Act 2005",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p04",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act BATA2005",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 71,
+ "chars": 115308,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/BATA2005?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 71 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 8 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H317-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Biological Agents and Toxins Act 2005."
+   }
+  },
+  {
+   "id": "SG-H317-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“approval” means an approval granted by the Director‑General under this Act;\n[Act 11 of 2023 wef 01/05/2023]\n“biological agent” means —\n(a)any micro-organism (including any bacterium, virus, fungus, rickettsia and parasite);\n(b)any infectious substance (including any prion); or\n(c)any component of a micro-organism or an infectious substance (but not including any toxin),\nthat is capable of causing death, disease or other biological malfunction in a human;\n“biological agent waste” means any unwanted, unused or obsolete biological agent or any material or waste contaminated with any biological agent;\n“biosafety committee” means a biosafety committee appointed under section 39;\n“certification”, in relation to a facility, means a certification under section 51, and includes a re‑certification of the facility;\n“certified facility” means a facility certified under section 51;\n“diagnosis” means any activity undertaken solely with the intention of analysing any specimen from a person or an animal in which a biological agent is or is suspected of being present for the purpose of —\n(a)determining the cause of any disease suffered by any person or animal;\n(b)assessing the clinical progress of any person or animal;\n(c)carrying out the clinical management of any person or animal; or\n(d)determining the cause of death of any person or animal in an autopsy;\n[Deleted by Act 11 of 2023 wef 01/05/2023]\n“Director‑General” means the Director‑General of Health;\n[Act 11 of 2023 wef 01/05/2023]\n“enforcement officer” means any person appointed by the Director‑General to be an enforcement officer under section 3(2);\n[Act 11 of 2023 wef 01/05/2023]\n“excluded purpose” means any purpose specified in section 4(1);\n“facility” means any premises or conveyance that is being used for —\n(a)the storage of any biological agent or toxin; or\n(b)the carrying out of any activity involving any biological agent or toxin;\n“Fifth Schedule toxin” means any toxin specified in the Fifth Schedule;\n“First Schedule (Part 1) biological agent” means any biological agent specified in Part 1 of the First Schedule;\n“First Schedule (Part 2) biological agent” means any biological agent specified in Part 2 of the First Schedule;\n“First Schedule biological agent” means any biological agent specified in the First Schedule;\n“Fourth Schedule biological agent” means any biological agent specified in the Fourth Schedule;\n“goods in transit” means goods that are brought into Singapore solely for the purpose of taking them out of Singapore, whether on the same conveyance on which they were brought into Singapore or on another conveyance, without the goods being landed and kept at any place in Singapore pending their being taken out of Singapore;\n“import” means to bring into Singapore any goods other than goods in transit or goods which are to be transhipped;\n“inactivated”, in relation to a biological agent, means that the biological agent has been rendered non-infectious and unable to replicate itself under any condition;\n“large-scale production”, in relation to a biological agent, means the production by any person of the biological agent using equipment at a facility capable of producing in aggregate 10 or more litres of culture of the biological agent at any one time;\n“non-peaceful purpose” means any purpose that is calculated to —\n(a)cause death to any person or endanger any person’s life;\n(b)create a serious risk to the health or the safety of the public or a section of the public;\n(c)release into the environment, distribute, or expose the public or a section of the public to, any biological agent or toxin, in order to cause damage or harm to the environment or the public or a section thereof;\n(d)disrupt or seriously interfere with the provision of essential emergency services such as the police, civil defence and medical services;\n(e)cause prejudice to public security or national defence;\n(f)influence or compel the Government, any other government, or any international organisation to do or refrain from doing any act; or\n(g)intimidate the public or a section of the public;\n“operator”, in relation to a facility, means the person who operates the facility or who has the management or control of the facility;\n“permit” means a permit granted by the Director‑General under this Act;\n[Act 11 of 2023 wef 01/05/2023]\n“protected place” means any premises declared to be a protected place under the Infrastructure Protection Act 2017;\n“public transportation” means transportation by bus, taxi, rail or any other conveyance, whether publicly or privately operated, which provides general or special service to the general public on a regular and continuing basis, and includes such other means of transportation as may be prescribed as a type of public transportation for the purposes of this Act;\n“registered medical practitioner” means a medical practitioner registered under the Medical Registration Act 1997, and includes a dentist registered under the Dental Registration Act 1999;\n“Second Schedule biological agent” means any biological agent specified in the Second Schedule;\n“Singapore Civil Defence Force” means the Singapore Civil Defence Force raised and maintained under the Civil Defence Act 1986;\n“staff”, in relation to any facility, means —\n(a)any person employed at the facility to do any work under a contract of service;\n(b)any consultant assisting the operator of the facility in the carrying out of any activity involving any biological agent or toxin at the facility; and\n(c)any other person (including any student or intern) authorised by the operator of the facility to carry out any activity involving any biological agent or toxin at the facility;\n“Third Schedule biological agent” means any biological agent specified in the Third Schedule;\n“toxin” means any poisonous substance that is produced and extracted from any micro‑organism;\n“transferee”, in relation to any biological agent or toxin, means the person to whom the biological agent or toxin is provided;\n“transferor”, in relation to any biological agent or toxin, means the person who provides the biological agent or toxin to another person;\n“tranship” means to bring any goods into Singapore solely for the purpose of taking them out of Singapore, whether on the same conveyance on which they were brought into Singapore or on another conveyance, where the goods are landed and kept at any place in Singapore pending their being taken out of Singapore;\n“uncertified facility” means a facility that is not certified under section 51.\n[22/2007; 41/2017]"
+   }
+  },
+  {
+   "id": "SG-H317-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 ADMINISTRATION AND APPLICATION"
+   },
+   "heading": {
+    "en": "Administration of Act"
+   },
+   "text": {
+    "en": "3.—(1) The Director‑General is, subject to any general or special directions of the Minister, responsible for the administration of this Act.\n[Act 11 of 2023 wef 01/05/2023]\n(2) The Director‑General may in writing appoint any public officer, officer of any statutory authority or any other person to be an enforcement officer for the purposes of this Act.\n[Act 11 of 2023 wef 01/05/2023]\n(3) Every enforcement officer, when exercising his or her powers and carrying out his or her duties under this Act, must comply with such general or special directions as may, from time to time, be given to the enforcement officer by the Director‑General.\n[Act 11 of 2023 wef 01/05/2023]\n(4) The Director‑General may delegate all or any of the powers conferred on him or her by this Act to any enforcement officer, subject to such conditions or limitations as the Director‑General may specify, except the power of delegation conferred by this subsection.\n[Act 11 of 2023 wef 01/05/2023]\n(5) The Director‑General may establish one or more advisory committees consisting of such persons as the Director‑General may appoint for the purpose of advising the Director‑General on any matter arising out of the administration and enforcement of this Act.\n[Act 11 of 2023 wef 01/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H317-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 ADMINISTRATION AND APPLICATION"
+   },
+   "heading": {
+    "en": "Act not to apply in relation to use of biological agents or toxins for certain purposes"
+   },
+   "text": {
+    "en": "4.—(1) Subject to subsections (2) and (3), Parts 3 to 6, with the exception of section 41(e), do not apply in relation to —\n(a)the disposal of any biological agent or toxin by a hazardous waste contractor;\n(b)the handling of any biological agent or toxin in the course of carrying out a diagnosis or an autopsy;\n(c)the collection of food samples or samples from the environment for the purpose of carrying out any laboratory analysis to determine or identify, for public health purposes, the nature of any biological agent or toxin that is present in such samples or in the environment from which such samples have been taken; or\n(d)the use or possession by any of the following persons of any finished cosmetic or medicinal product consisting of any toxin:\n(i)any person lawfully manufacturing, supplying, selling or dispensing the finished cosmetic or medicinal product;\n(ii)any registered medical practitioner using the finished cosmetic or medicinal product in the course of treating another person;\n(iii)any person using the finished cosmetic or medicinal product for the cosmetic or medical purposes for which it is intended.\n(2) Despite subsection (1), where any biological agent or toxin is provided to any person for any excluded purpose and the person uses the biological agent or toxin for any purpose other than an excluded purpose, this Act applies in relation to the possession and use of the biological agent or toxin by that person.\n(3) Despite subsection (1), where any biological agent or toxin is provided to any person for any excluded purpose and the person transfers the biological agent or toxin to any other person for any purpose other than an excluded purpose, this Act applies in relation to the transfer and transportation of the biological agent or toxin to, and the possession and use of the biological agent or toxin by, that other person."
+   }
+  },
+  {
+   "id": "SG-H317-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Prohibition against use of biological agents for non-peaceful purpose, etc."
+   },
+   "text": {
+    "en": "5.—(1) A person must not —\n(a)use;\n(b)develop or produce;\n(c)acquire, stockpile, retain or possess; or\n(d)transfer to another person, whether directly or indirectly,\nany biological agent for any non-peaceful purpose.\n(2) Any person who contravenes subsection (1) —\n(a)shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1 million or to imprisonment for a term which may extend to life imprisonment or to both; and\n(b)may be arrested without warrant by a police officer or an enforcement officer."
+   }
+  },
+  {
+   "id": "SG-H317-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Prohibition against possession of First Schedule biological agents without approval"
+   },
+   "text": {
+    "en": "6.—(1) A person must not possess any First Schedule biological agent unless the person’s possession of the First Schedule biological agent is authorised by and is in accordance with the conditions of an approval granted by the Director‑General.\n[Act 11 of 2023 wef 01/05/2023]\n(2) Subject to subsection (3), for the purpose of subsection (1), no approval to possess a First Schedule biological agent may be granted to any person unless —\n(a)the person is the operator of a certified facility; and\n(b)where the biological agent is a First Schedule (Part 2) biological agent, the facility is a protected place.\n(3) Despite subsection (2)(a), the Director‑General may grant an approval to possess a First Schedule biological agent to the operator of an uncertified facility if the Director‑General is satisfied that any activity involving the use of the First Schedule biological agent will be carried out at such facility in a safe and proper manner.\n[Act 11 of 2023 wef 01/05/2023]\n(4) A person who has been granted an approval to possess a First Schedule biological agent must keep or use the First Schedule biological agent only at the following places:\n(a)where the person is the operator of a certified facility, at the certified facility specified in the approval to possess; and\n(b)where the person is the operator of an uncertified facility, at such facility as may be specified in the approval to possess.\n(5) Any person who —\n(a)possesses any First Schedule biological agent in contravention of subsection (1); or\n(b)keeps or uses such biological agent at any facility in contravention of subsection (4),\nshall be guilty of an offence and shall be liable on conviction to be punished as follows:\n(c)in the case of a First Schedule (Part 1) biological agent, with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and\n(d)in the case of a First Schedule (Part 2) biological agent, with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 10 years or with both.\n(6) Where any person possesses any First Schedule biological agent in contravention of subsection (1) or keeps or uses such biological agent at any facility in contravention of subsection (4), the Director‑General may order any one or more of the following:\n(a)the immediate cessation of any activity involving the First Schedule biological agent carried out by the person at the facility;\n(b)the destruction of the First Schedule biological agent at the facility;\n(c)the decontamination of the facility;\n(d)the closure or cordoning off of the facility until such time as the Director‑General is satisfied that the facility may safely resume operation;\n(e)that any person who is or was at the facility (whether as a member of the staff of the facility or otherwise) and who may be or may have been exposed to the First Schedule biological agent at the facility should —\n(i)undergo such medical examination and medical treatment at such place or hospital as the Director‑General may specify in the order; or\n(ii)be quarantined at such place and for such period as the Director‑General may specify in the order.\n[Act 11 of 2023 wef 01/05/2023]\n(7) Any person who contravenes any order made by the Director‑General under subsection (6) shall be guilty of an offence and shall be liable on conviction to be punished as follows:\n(a)where the order has been made in relation to or in connection with a First Schedule (Part 1) biological agent, with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and\n(b)where the order has been made in relation to or in connection with a First Schedule (Part 2) biological agent, with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 10 years or with both.\n[Act 11 of 2023 wef 01/05/2023]\n(8) This section does not apply to —\n(a)any person who has been engaged to transport any First Schedule biological agent within Singapore and whose possession of the First Schedule biological agent is merely incidental to the person’s transporting it in accordance with such engagement; or\n(b)any person who has been engaged to store any First Schedule biological agent within Singapore pending —\n(i)the delivery of the First Schedule biological agent to the person who has procured its import into Singapore; or\n(ii)the export of the First Schedule biological agent from Singapore in the course of transhipment,\nand whose possession of the First Schedule biological agent is merely incidental to the person’s storing it in accordance with such engagement."
+   }
+  },
+  {
+   "id": "SG-H317-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Prohibition against large-scale production of First Schedule biological agents without approval"
+   },
+   "text": {
+    "en": "7.—(1) A person must not carry out or procure any large-scale production of any First Schedule biological agent unless the large‑scale production of the First Schedule biological agent —\n(a)is authorised by an approval granted by the Director‑General; and\n[Act 11 of 2023 wef 01/05/2023]\n(b)is carried out —\n(i)at the facility specified in the approval; and\n(ii)in accordance with the conditions of the approval.\n(2) For the purposes of subsection (1), an approval to produce a First Schedule biological agent must not be granted to any person unless the person has already been granted an approval to possess the First Schedule biological agent as referred to in section 6.\n(3) Where any person produces any First Schedule biological agent at any facility in contravention of subsection (1) —\n(a)the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both; and\n(b)the Director‑General may order any one or more of the following:\n(i)the immediate cessation of any activity involving the First Schedule biological agent carried out by the person at the facility;\n(ii)the destruction of the First Schedule biological agent at the facility;\n(iii)the decontamination of the facility;\n(iv)the closure or cordoning off of the facility until such time as the Director‑General is satisfied that the facility may safely resume operation;\n(v)that any person who is or was at the facility (whether as a member of the staff of the facility or otherwise) and who may be or may have been exposed to the First Schedule biological agent at the facility should —\n(A)undergo such medical examination and medical treatment at such place or hospital as the Director‑General may specify in the order; or\n(B)be quarantined at such place and for such period as the Director‑General may specify in the order.\n[Act 11 of 2023 wef 01/05/2023]\n(4) Any person who contravenes any order made by the Director‑General under subsection (3)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.\n[Act 11 of 2023 wef 01/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H317-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Prohibition against import or transhipment of First Schedule biological agents without permit"
+   },
+   "text": {
+    "en": "8.—(1) A person must not import or procure the import of any First Schedule biological agent unless the import of the First Schedule biological agent is authorised by and is carried out in accordance with the conditions of a permit granted by the Director‑General.\n[Act 11 of 2023 wef 01/05/2023]\n(2) A person must not tranship any First Schedule biological agent unless the transhipment of the First Schedule biological agent is authorised by and is carried out in accordance with the conditions of a permit granted by the Director‑General.\n[Act 11 of 2023 wef 01/05/2023]\n(3) For the purposes of subsection (1), a permit to import a First Schedule biological agent must not be granted to any person unless the person has already been granted an approval to possess the First Schedule biological agent as referred to in section 6.\n(4) Every permit to import or tranship a First Schedule biological agent is valid only in respect of one consignment of the First Schedule biological agent for which an application for the permit has been made.\n(5) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to be punished as follows:\n(a)in the case of a First Schedule (Part 1) biological agent, with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and\n(b)in the case of a First Schedule (Part 2) biological agent, with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 10 years or with both."
+   }
+  },
+  {
+   "id": "SG-H317-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Notification of failure of receipt of import"
+   },
+   "text": {
+    "en": "9.—(1) Every holder of a permit to import any First Schedule (Part 2) biological agent must immediately notify the Director‑General, in such form and manner as the Director‑General may require, in the event the holder of the permit fails to receive the consignment of the First Schedule (Part 2) biological agent to which the permit to import relates.\n[Act 11 of 2023 wef 01/05/2023]\n(2) For the purposes of subsection (1), the holder of the permit to import is deemed to have failed to receive the consignment of the First Schedule (Part 2) biological agent to which the permit to import relates if the holder of the permit does not receive the consignment within 24 hours of such time as may be reasonably estimated by the holder of the permit for the receipt.\n(3) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H317-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Storage of First Schedule biological agents upon import or pending transhipment"
+   },
+   "text": {
+    "en": "10.—(1) Where any First Schedule biological agent that has been imported into Singapore is required to be stored temporarily at any place before it is delivered to the facility for which it is destined, the person to whom the permit to import the First Schedule biological agent has been granted must ensure that the First Schedule biological agent is stored at a place which is safe and secure, and that the storage at such place is carried out in accordance with such requirements as may be prescribed.\n(2) Where any First Schedule biological agent that is being transhipped through Singapore is required to be landed and stored temporarily at any place before it is delivered to the conveyance on which it will be taken out of Singapore, the person to whom the permit to tranship the First Schedule biological agent has been granted must ensure that the First Schedule biological agent is stored at a place which is safe and secure, and that the storage at such place is carried out in accordance with such requirements as may be prescribed.\n(3) Where a holder of a permit to import or tranship any First Schedule biological agent stores the biological agent in contravention of subsection (1) or (2), as the case may be —\n(a)the holder of the permit shall be guilty of an offence and shall be liable on conviction to be punished as follows:\n(i)in the case of a First Schedule (Part 1) biological agent, with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and\n(ii)in the case of a First Schedule (Part 2) biological agent, with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 10 years or with both; and\n(b)the Director‑General may order the holder of the permit, at the expense of the holder of the permit, to do any one or more of the following:\n(i)take such measures as the Director‑General may specify to ensure that the First Schedule biological agent is properly stored;\n(ii)destroy the First Schedule biological agent;\n(iii)decontaminate the place at which the First Schedule biological agent was stored in contravention of subsection (1) or (2).\n[Act 11 of 2023 wef 01/05/2023]\n(4) Any holder of a permit to import any First Schedule biological agent and any holder of a permit to tranship any First Schedule biological agent who contravenes any order made by the Director‑General under subsection (3)(b) shall be guilty of an offence and shall be liable on conviction to be punished as follows:\n(a)where the order has been made in relation to or in connection with a First Schedule (Part 1) biological agent, with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and\n(b)where the order has been made in relation to or in connection with a First Schedule (Part 2) biological agent, with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 10 years or with both.\n[Act 11 of 2023 wef 01/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H317-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Prohibition against transfers of First Schedule biological agents except by certain persons"
+   },
+   "text": {
+    "en": "11.—(1) Subject to subsection (2), a person must not transfer any First Schedule biological agent unless —\n(a)the person has an approval to possess the First Schedule biological agent as referred to in section 6; and\n(b)the transferee —\n(i)has also been granted an approval to possess the First Schedule biological agent as referred to in section 6; or\n(ii)is outside Singapore.\n(2) A person to whom any First Schedule biological agent has been provided for any excluded purpose must not transfer the First Schedule biological agent to any other person for any purpose other than an excluded purpose unless the transferee —\n(a)has been granted an approval to possess the First Schedule biological agent as referred to in section 6; or\n(b)is outside Singapore.\n(3) Any transferor who transfers any First Schedule biological agent to any transferee in Singapore, knowing or having reason to believe that such transferee does not have an approval to possess the First Schedule biological agent as referred to in section 6, shall be guilty of an offence and shall be liable on conviction to be punished as follows:\n(a)where the biological agent is a First Schedule (Part 1) biological agent, with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and\n(b)where the biological agent is a First Schedule (Part 2) biological agent, with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 10 years or with both."
+   }
+  },
+  {
+   "id": "SG-H317-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Notifications relating to transfers of First Schedule biological agents"
+   },
+   "text": {
+    "en": "12.—(1) Any transferor who wishes to transfer any First Schedule (Part 2) biological agent to a transferee must notify —\n(a)the Director‑General of the proposed transfer within such time and in such form and manner as the Director‑General may require;\n[Act 11 of 2023 wef 01/05/2023]\n(b)the transferee of an estimated time of receipt by the transferee of the biological agent being transferred; and\n(c)the carrier of the biological agent (where the carrier is not the transferor or transferee) prior to the despatch of the biological agent of a 24‑hour emergency number that is monitored at all times by a person who —\n(i)has knowledge of the hazards and characteristics of the biological agent being transported; or\n(ii)has immediate access to a person who possesses such knowledge and information.\n(2) Where a transferee fails to receive any First Schedule (Part 2) biological agent which is being transferred to the transferee, the transferee must immediately notify the Director‑General, in such form and manner as the Director‑General may require, of the failure of receipt.\n[Act 11 of 2023 wef 01/05/2023]\n(3) For the purposes of subsection (2), a transferee is deemed to have failed to receive the First Schedule (Part 2) biological agent which is being transferred to the transferee if the transferee does not receive the biological agent within 24 hours of the estimated time of receipt of the biological agent provided by the transferor.\n(4) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H317-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Prohibition against transportation by certain means"
+   },
+   "text": {
+    "en": "13.—(1) A person must not transport or procure the transportation of any First Schedule biological agent within Singapore by mail or public transportation.\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to be punished as follows:\n(a)where the biological agent is a First Schedule (Part 1) biological agent, with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and\n(b)where the biological agent is a First Schedule (Part 2) biological agent, with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 10 years or with both."
+   }
+  },
+  {
+   "id": "SG-H317-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Prohibition against use of Second Schedule biological agents without special approval"
+   },
+   "text": {
+    "en": "14.—(1) A person must not use any Second Schedule biological agent for any purpose unless the use of the Second Schedule biological agent is authorised by and is carried out in accordance with the conditions of a special approval to handle the Second Schedule biological agent granted by the Director‑General.\n[Act 11 of 2023 wef 01/05/2023]\n(2) A special approval to handle any Second Schedule biological agent must not be granted to any person unless the Director‑General is satisfied that —\n(a)the use for which the person requires the Second Schedule biological agent is necessary in the public interest; and\n(b)the person who requires the Second Schedule biological agent has put in place adequate measures to contain the risks to public health and security posed by the Second Schedule biological agent.\n[Act 11 of 2023 wef 01/05/2023]\n(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.\n(4) This section does not apply to —\n(a)any person who has been engaged to transport any Second Schedule biological agent within Singapore and whose possession of the Second Schedule biological agent is merely incidental to the person’s transporting it in accordance with such engagement; or\n(b)any person who has been engaged to store any Second Schedule biological agent within Singapore pending —\n(i)the delivery of the Second Schedule biological agent to the person who has procured its import into Singapore; or\n(ii)the export of the Second Schedule biological agent from Singapore in the course of transhipment,\nand whose possession of the Second Schedule biological agent is merely incidental to the person’s storing it in accordance with such engagement."
+   }
+  },
+  {
+   "id": "SG-H317-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Prohibition against possession of Second Schedule biological agents without approval"
+   },
+   "text": {
+    "en": "15.—(1) A person must not possess any Second Schedule biological agent unless the person’s possession of the Second Schedule biological agent is authorised by and is in accordance with the conditions of an approval granted by the Director‑General.\n[Act 11 of 2023 wef 01/05/2023]\n(2) For the purposes of subsection (1), an approval to possess a Second Schedule biological agent must not be granted to any person unless the person —\n(a)is the operator of a certified facility which is a protected place; and\n(b)has been granted a special approval to handle the Second Schedule biological agent as referred to in section 14.\n(3) A person who has been granted an approval to possess a Second Schedule biological agent must keep or use the Second Schedule biological agent only at the certified facility specified in the approval to possess.\n(4) Any person who —\n(a)possesses any Second Schedule biological agent in contravention of subsection (1); or\n(b)keeps or uses such biological agent at any facility in contravention of subsection (3),\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.\n(5) Where any person possesses any Second Schedule biological agent in contravention of subsection (1) or keeps or uses such biological agent at any facility in contravention of subsection (3), the Director‑General may order any one or more of the following:\n(a)the immediate cessation of any activity involving the Second Schedule biological agent carried out by the person at the facility;\n(b)the destruction of the Second Schedule biological agent at the facility;\n(c)the decontamination of the facility;\n(d)the closure or cordoning off of the facility until such time as the Director‑General is satisfied that the facility may safely resume operation;\n(e)that any person who is or was at the facility (whether as a member of the staff of the facility or otherwise) and who may be or may have been exposed to the Second Schedule biological agent at the facility should —\n(i)undergo such medical examination and medical treatment at such place or hospital as the Director‑General may specify in the order; or\n(ii)be quarantined at such place and for such period as the Director‑General may specify in the order.\n[Act 11 of 2023 wef 01/05/2023]\n(6) Any person who contravenes any order made by the Director‑General under subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.\n[Act 11 of 2023 wef 01/05/2023]\n(7) This section does not apply to —\n(a)any person who has been engaged to transport any Second Schedule biological agent within Singapore and whose possession of the Second Schedule biological agent is merely incidental to the person’s transporting it in accordance with such engagement; or\n(b)any person who has been engaged to store any Second Schedule biological agent within Singapore pending —\n(i)the delivery of the Second Schedule biological agent to the person who has procured its import into Singapore; or\n(ii)the export of the Second Schedule biological agent from Singapore in the course of transhipment,\nand whose possession of the Second Schedule biological agent is merely incidental to the person’s storing it in accordance with such engagement."
+   }
+  },
+  {
+   "id": "SG-H317-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Prohibition against large-scale production of Second Schedule biological agents"
+   },
+   "text": {
+    "en": "16.—(1) A person must not carry out or procure any large‑scale production of any Second Schedule biological agent.\n(2) Where any person produces any Second Schedule biological agent at any facility in contravention of subsection (1) —\n(a)the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both; and\n(b)the Director‑General may order any one or more of the following:\n(i)the immediate cessation of any activity involving the Second Schedule biological agent carried out by the person at the facility;\n(ii)the destruction of the Second Schedule biological agent at the facility;\n(iii)the decontamination of the facility;\n(iv)the closure or cordoning off of the facility until such time as the Director‑General is satisfied that the facility may safely resume operation;\n(v)that any person who is or was at the facility (whether as a member of the staff of the facility or otherwise) and who may be or may have been exposed to the Second Schedule biological agent at the facility should —\n(A)undergo such medical examination and medical treatment at such place or hospital as the Director‑General may specify in the order; or\n(B)be quarantined at such place and for such period as the Director‑General may specify in the order.\n[Act 11 of 2023 wef 01/05/2023]\n(3) Any person who contravenes any order made by the Director‑General under subsection (2)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1 million or to imprisonment for a term which may extend to life imprisonment or to both.\n[Act 11 of 2023 wef 01/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H317-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Prohibition against import or transhipment of Second Schedule biological agents without permit"
+   },
+   "text": {
+    "en": "17.—(1) A person must not import or procure the import of any Second Schedule biological agent unless the import of the Second Schedule biological agent is authorised by and is carried out in accordance with the conditions of a permit granted by the Director‑General.\n[Act 11 of 2023 wef 01/05/2023]\n(2) A person must not tranship any Second Schedule biological agent unless the transhipment of the Second Schedule biological agent is authorised by and is carried out in accordance with the conditions of a permit granted by the Director-General.\n[Act 11 of 2023 wef 01/05/2023]\n(3) For the purposes of subsection (1), a permit to import a Second Schedule biological agent must not be granted to any person unless the person has already been granted an approval to possess the Second Schedule biological agent as referred to in section 15.\n(4) Every permit to import or tranship a Second Schedule biological agent is valid only in respect of one consignment of the Second Schedule biological agent for which an application for the permit has been made.\n(5) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both."
+   }
+  },
+  {
+   "id": "SG-H317-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Notification of failure of receipt of import"
+   },
+   "text": {
+    "en": "18.—(1) Every holder of a permit to import any Second Schedule biological agent must immediately notify the Director‑General, in such form and manner as the Director‑General may require, in the event the holder of the permit fails to receive the consignment of the Second Schedule biological agent to which the permit to import relates.\n[Act 11 of 2023 wef 01/05/2023]\n(2) For the purposes of subsection (1), the holder of the permit to import is deemed to have failed to receive the consignment of the Second Schedule biological agent to which the permit to import relates if the holder of the permit does not receive the consignment within 24 hours of such time as may be reasonably estimated by the holder of the permit for the receipt.\n(3) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H317-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Storage of Second Schedule biological agents upon import or pending transhipment"
+   },
+   "text": {
+    "en": "19.—(1) Where any Second Schedule biological agent that has been imported into Singapore is required to be stored temporarily at any place before it is delivered to the facility for which it is destined, the person to whom the permit to import the Second Schedule biological agent has been granted must ensure that the Second Schedule biological agent is stored at a place which is safe and secure, and that the storage at such place is carried out in accordance with such requirements as may be prescribed.\n(2) Where any Second Schedule biological agent that is being transhipped through Singapore is required to be landed and stored temporarily at any place before it is delivered to the conveyance on which it will be taken out of Singapore, the person to whom the permit to tranship the Second Schedule biological agent has been granted must ensure that the Second Schedule biological agent is stored at a place which is safe and secure, and that the storage at such place is carried out in accordance with such requirements as may be prescribed.\n(3) Where a holder of a permit to import or tranship any Second Schedule biological agent stores the biological agent in contravention of subsection (1) or (2), as the case may be —\n(a)the holder of the permit shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both; and\n(b)the Director‑General may order the holder of the permit, at the expense of the holder of the permit, to do any one or more of the following:\n(i)take such measures as the Director‑General may specify to ensure that the Second Schedule biological agent is properly stored;\n(ii)destroy the Second Schedule biological agent;\n(iii)decontaminate the place at which the Second Schedule biological agent was stored in contravention of subsection (1) or (2).\n[Act 11 of 2023 wef 01/05/2023]\n(4) Any holder of a permit to import any Second Schedule biological agent and any holder of a permit to tranship any Second Schedule biological agent who contravenes any order made by the Director‑General under subsection (3)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.\n[Act 11 of 2023 wef 01/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H317-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Prohibition against transfers of Second Schedule biological agents except by certain persons"
+   },
+   "text": {
+    "en": "20.—(1) Subject to subsection (2), a person must not transfer any Second Schedule biological agent unless —\n(a)the person has an approval to possess the Second Schedule biological agent as referred to in section 15; and\n(b)the transferee —\n(i)has also been granted an approval to possess the Second Schedule biological agent as referred to in section 15; or\n(ii)is outside Singapore.\n(2) A person to whom any Second Schedule biological agent has been provided for any excluded purpose must not transfer the Second Schedule biological agent to any other person for any purpose unless the transferee —\n(a)has been granted an approval to possess the Second Schedule biological agent as referred to in section 15; or\n(b)is outside Singapore.\n(3) Any transferor who transfers any Second Schedule biological agent to any transferee in Singapore, knowing or having reason to believe that such transferee does not have an approval to possess the Second Schedule biological agent as referred to in section 15, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both."
+   }
+  },
+  {
+   "id": "SG-H317-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Notifications relating to transfers of Second Schedule biological agents"
+   },
+   "text": {
+    "en": "21.—(1) Any transferor who wishes to transfer any Second Schedule biological agent to a transferee must notify —\n(a)the Director‑General of the proposed transfer within such time and in such form and manner as the Director‑General may require;\n[Act 11 of 2023 wef 01/05/2023]\n(b)the transferee of an estimated time of receipt by the transferee of the biological agent being transferred; and\n(c)the carrier of the biological agent (where the carrier is not the transferor or transferee) prior to the despatch of the biological agent of a 24‑hour emergency number that is monitored at all times by a person who —\n(i)has knowledge of the hazards and characteristics of the biological agent being transported; or\n(ii)has immediate access to a person who possesses such knowledge and information.\n(2) Where a transferee fails to receive any Second Schedule biological agent which is being transferred to the transferee, the transferee must immediately notify the Director‑General, in such form and manner as the Director‑General may require, of the failure of receipt.\n[Act 11 of 2023 wef 01/05/2023]\n(3) For the purposes of subsection (2), a transferee is deemed to have failed to receive the Second Schedule biological agent which is being transferred to the transferee if the transferee does not receive the biological agent within 24 hours of the estimated time of receipt of the biological agent provided by the transferor.\n(4) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H317-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Prohibition against transportation by certain means"
+   },
+   "text": {
+    "en": "22.—(1) A person must not transport or procure the transportation of any Second Schedule biological agent within Singapore by mail or public transportation.\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both."
+   }
+  },
+  {
+   "id": "SG-H317-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Prohibition against large-scale production of Third Schedule biological agents without approval"
+   },
+   "text": {
+    "en": "23.—(1) A person must not carry out or procure any large-scale production of any Third Schedule biological agent unless the large‑scale production of the Third Schedule biological agent —\n(a)is authorised by an approval granted by the Director‑General; and\n[Act 11 of 2023 wef 01/05/2023]\n(b)is carried out —\n(i)at the facility specified in the approval; and\n(ii)in accordance with the conditions of the approval.\n(2) Where any person produces any Third Schedule biological agent at any facility in contravention of subsection (1), the Director‑General may order any one or more of the following:\n(a)the immediate cessation of any activity involving the Third Schedule biological agent carried out by the person at the facility;\n(b)the destruction of the Third Schedule biological agent at the facility;\n(c)the decontamination of the facility;\n(d)the closure or cordoning off of the facility until such time as the Director‑General is satisfied that the facility may safely resume operation;\n(e)that any person who is or was at the facility (whether as a member of the staff of the facility or otherwise) and who may be or may have been exposed to the Third Schedule biological agent at the facility should —\n(i)undergo such medical examination and medical treatment at such place or hospital as the Director‑General may specify in the order; or\n(ii)be quarantined at such place and for such period as the Director‑General may specify in the order.\n[Act 11 of 2023 wef 01/05/2023]\n(3) Any person who contravenes any order made by the Director‑General under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.\n[Act 11 of 2023 wef 01/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H317-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Prohibition against transportation by certain means"
+   },
+   "text": {
+    "en": "24.—(1) A person must not transport or procure the transportation of any Third Schedule biological agent within Singapore by mail or public transportation.\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H317-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Prohibition against import of Fourth Schedule biological agents without permit"
+   },
+   "text": {
+    "en": "25.—(1) A person must not import or procure the import of any Fourth Schedule biological agent unless the import of the Fourth Schedule biological agent is authorised by and is carried out in accordance with the conditions of a permit granted by the Director‑General.\n[Act 11 of 2023 wef 01/05/2023]\n(2) Every permit to import a Fourth Schedule biological agent is valid only in respect of one consignment of the Fourth Schedule biological agent for which an application for a permit to import has been made.\n(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H317-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Prohibition against transportation by certain means"
+   },
+   "text": {
+    "en": "26.—(1) A person must not transport or procure the transportation of any Fourth Schedule biological agent within Singapore by mail or public transportation.\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H317-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Prohibition against inactivation of biological agents"
+   },
+   "text": {
+    "en": "27.—(1) A person must not inactivate or procure the inactivation of any First Schedule biological agent or Second Schedule biological agent unless —\n(a)the person has been granted an approval to possess the First Schedule biological agent as referred to in section 6, or an approval to possess the Second Schedule biological agent as referred to in section 15, as the case may be; and\n(b)the inactivation of the biological agent is carried out —\n(i)in accordance with such method as may be approved by the person’s biosafety committee; and\n(ii)at the facility specified in the person’s approval to possess the First Schedule biological agent or Second Schedule biological agent.\n(2) Subsection (1) does not apply insofar as the inactivation relates to the decontamination of any First Schedule biological agent waste or Second Schedule biological agent waste.\n(3) Where any person has inactivated or attempted to inactivate any First Schedule biological agent or Second Schedule biological agent at any facility in contravention of subsection (1) (whether or not the inactivation is successful), the Director‑General may order any one or more of the following:\n(a)the immediate cessation of any activity involving that First Schedule biological agent or Second Schedule biological agent carried out by the person at the facility;\n(b)the destruction of that First Schedule biological agent or Second Schedule biological agent at the facility;\n(c)the decontamination of the facility;\n(d)the closure or cordoning off of the facility until such time as the Director‑General is satisfied that the facility may safely resume operation;\n(e)that any person who is or was at the facility (whether as a member of the staff of the facility or otherwise) and who may be or may have been exposed to that First Schedule biological agent or Second Schedule biological agent at the facility should —\n(i)undergo such medical examination and medical treatment at such place or hospital as the Director‑General may specify in the order; or\n(ii)be quarantined at such place and for such period as the Director‑General may specify in the order.\n[Act 11 of 2023 wef 01/05/2023]\n(4) Any person who contravenes any order made by the Director‑General under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.\n[Act 11 of 2023 wef 01/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H317-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Prohibition against import of inactivated biological agents without permit"
+   },
+   "text": {
+    "en": "28.—(1) A person must not import or procure the import of —\n(a)any inactivated First Schedule biological agent; or\n(b)any inactivated Second Schedule biological agent,\nfor any purpose unless the import of the inactivated First Schedule biological agent or inactivated Second Schedule biological agent (as the case may be) is authorised by and is carried out in accordance with the conditions of a permit granted by the Director-General.\n[Act 11 of 2023 wef 01/05/2023]\n(2) The Director‑General must not grant any permit to import any inactivated First Schedule biological agent or any inactivated Second Schedule biological agent to any person unless the Director‑General is satisfied that the biological agent has been properly inactivated.\n[Act 11 of 2023 wef 01/05/2023]\n(3) Without prejudice to section 50, for the purpose of satisfying himself or herself that any First Schedule biological agent or Second Schedule biological agent has been properly inactivated, the Director‑General may require an applicant for a permit to import to provide such information relating to —\n(a)the person by whom the inactivation of the First Schedule biological agent or Second Schedule biological agent (as the case may be) has been carried out; and\n(b)the method of the inactivation used and its efficacy.\n[Act 11 of 2023 wef 01/05/2023]\n(4) Every permit to import an inactivated First Schedule biological agent or an inactivated Second Schedule biological agent entitles the holder of the permit to import from the person referred to in subsection (3)(a) any number of consignments of the inactivated First Schedule biological agent or the inactivated Second Schedule biological agent, as specified in the permit, which has been so inactivated using the method referred to in subsection (3)(b).\n(5) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H317-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS"
+   },
+   "heading": {
+    "en": "Prohibition against transportation by certain means"
+   },
+   "text": {
+    "en": "29.—(1) A person must not transport or procure the transportation of any inactivated First Schedule biological agent or any inactivated Second Schedule biological agent within Singapore by mail or public transportation.\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H317-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 4 TOXINS"
+   },
+   "heading": {
+    "en": "Prohibition against use of toxins for non-peaceful purpose, etc."
+   },
+   "text": {
+    "en": "30.—(1) A person must not —\n(a)use;\n(b)develop or produce;\n(c)acquire, stockpile, retain or possess; or\n(d)transfer to another person, whether directly or indirectly,\nany toxin for any non-peaceful purpose.\n(2) Any person who contravenes subsection (1) —\n(a)shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1 million or to imprisonment for a term which may extend to life imprisonment or to both; and\n(b)may be arrested without warrant by a police officer or an enforcement officer."
+   }
+  },
+  {
+   "id": "SG-H317-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 4 TOXINS"
+   },
+   "heading": {
+    "en": "Prohibition against possession of Fifth Schedule toxins without approval"
+   },
+   "text": {
+    "en": "31.—(1) A person must not possess any Fifth Schedule toxin unless the person’s possession of the Fifth Schedule toxin is authorised by and is in accordance with the conditions of an approval granted by the Director-General.\n[Act 11 of 2023 wef 01/05/2023]\n(2) For the purpose of subsection (1), an approval to possess a Fifth Schedule toxin must not be granted to any person unless the person is the operator of a facility which is a protected place.\n(3) A person who has been granted an approval to possess a Fifth Schedule toxin must keep or use the Fifth Schedule toxin only at such facility as may be specified in the approval to possess.\n(4) Where any person possesses any Fifth Schedule toxin in contravention of subsection (1) or keeps or uses any Fifth Schedule toxin at any facility in contravention of subsection (3) —\n(a)the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both; and\n(b)the Director‑General may order any one or more of the following:\n(i)the immediate cessation of any activity involving the Fifth Schedule toxin carried out by the person at the facility;\n(ii)the destruction of the Fifth Schedule toxin at the facility;\n(iii)the decontamination of the facility;\n(iv)the closure or cordoning off of the facility until such time as the Director‑General is satisfied that the facility may safely resume operation;\n(v)that any person who is or was at the facility (whether as a member of the staff of the facility or otherwise) and who may be or may have been exposed to the Fifth Schedule toxin at the facility should —\n(A)undergo such medical examination and medical treatment at such place or hospital as the Director‑General may specify in the order; or\n(B)be quarantined at such place and for such period as the Director‑General may specify in the order.\n[Act 11 of 2023 wef 01/05/2023]\n(5) Any person who contravenes any order made by the Director‑General under subsection (4)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.\n[Act 11 of 2023 wef 01/05/2023]\n(6) This section does not apply to —\n(a)any person who has been engaged to transport any Fifth Schedule toxin within Singapore and whose possession of the Fifth Schedule toxin is merely incidental to the person’s transporting it in accordance with such engagement; or\n(b)any person who has been engaged to store any Fifth Schedule toxin within Singapore pending —\n(i)the delivery of the Fifth Schedule toxin to the person who has procured its import into Singapore; or\n(ii)the export of the Fifth Schedule toxin from Singapore in the course of transhipment,\nand whose possession of the Fifth Schedule toxin is merely incidental to the person’s storing it in accordance with such engagement."
+   }
+  },
+  {
+   "id": "SG-H317-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 4 TOXINS"
+   },
+   "heading": {
+    "en": "Prohibition against import or transhipment of Fifth Schedule toxins without permit"
+   },
+   "text": {
+    "en": "32.—(1) A person must not import or procure the import of any Fifth Schedule toxin unless the import of the Fifth Schedule toxin is authorised by and is carried out in accordance with the conditions of a permit granted by the Director‑General.\n[Act 11 of 2023 wef 01/05/2023]\n(2) A person must not tranship any Fifth Schedule toxin unless the transhipment of the Fifth Schedule toxin is authorised by and is carried out in accordance with the conditions of a permit granted by the Director‑General.\n[Act 11 of 2023 wef 01/05/2023]\n(3) For the purposes of subsection (1), a permit to import a Fifth Schedule toxin must not be granted to any person unless the person has already been granted an approval to possess the Fifth Schedule toxin as referred to in section 31.\n(4) Every permit to import or tranship a Fifth Schedule toxin is valid only in respect of one consignment of the Fifth Schedule toxin for which an application for the permit has been made.\n(5) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both."
+   }
+  },
+  {
+   "id": "SG-H317-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 4 TOXINS"
+   },
+   "heading": {
+    "en": "Notification of failure of receipt of import"
+   },
+   "text": {
+    "en": "33.—(1) Every holder of a permit to import any Fifth Schedule toxin must immediately notify the Director‑General, in such form and manner as the Director‑General may require, in the event the holder of the permit fails to receive the consignment of the Fifth Schedule toxin to which the permit to import relates.\n[Act 11 of 2023 wef 01/05/2023]\n(2) For the purposes of subsection (1), the holder of the permit to import is deemed to have failed to receive the consignment of the Fifth Schedule toxin to which the permit to import relates if the holder of the permit does not receive the consignment within 24 hours of such time as may be reasonably estimated by the holder of the permit for the receipt.\n(3) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H317-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 4 TOXINS"
+   },
+   "heading": {
+    "en": "Storage of Fifth Schedule toxins upon import or pending transhipment"
+   },
+   "text": {
+    "en": "34.—(1) Where any Fifth Schedule toxin that has been imported into Singapore is required to be stored temporarily at any place before it is delivered to the facility for which it is destined, the person to whom the permit to import the Fifth Schedule toxin has been granted must ensure that the Fifth Schedule toxin is stored at a place which is safe and secure, and that the storage at such place is carried out in accordance with such requirements as may be prescribed.\n(2) Where any Fifth Schedule toxin that is being transhipped through Singapore is required to be landed and stored temporarily at any place before it is delivered to the conveyance on which it will be taken out of Singapore, the person to whom the permit to tranship the Fifth Schedule toxin has been granted must ensure that the Fifth Schedule toxin is stored at a place which is safe and secure, and that the storage at such place is carried out in accordance with such requirements as may be prescribed.\n(3) Where a holder of a permit to import or tranship any Fifth Schedule toxin stores the toxin in contravention of subsection (1) or (2), as the case may be —\n(a)the holder of the permit shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both; and\n(b)the Director‑General may order the holder of the permit, at the expense of the holder of the permit, to do any one or more of the following:\n(i)take such measures as the Director‑General may specify to ensure that the Fifth Schedule toxin is properly stored;\n(ii)destroy the Fifth Schedule toxin;\n(iii)decontaminate the place at which the Fifth Schedule toxin was stored in contravention of subsection (1) or (2).\n[Act 11 of 2023 wef 01/05/2023]\n(4) Any holder of a permit to import any Fifth Schedule toxin and any holder of a permit to tranship any Fifth Schedule toxin who contravenes any order made by the Director‑General under subsection (3)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.\n[Act 11 of 2023 wef 01/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H317-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 4 TOXINS"
+   },
+   "heading": {
+    "en": "Prohibition against transfers of Fifth Schedule toxins except by certain persons"
+   },
+   "text": {
+    "en": "35.—(1) Subject to subsection (2), a person must not transfer any Fifth Schedule toxin unless —\n(a)the person has an approval to possess the Fifth Schedule toxin as referred to in section 31; and\n(b)the transferee —\n(i)has also been granted an approval to possess the Fifth Schedule toxin as referred to in section 31; or\n(ii)is outside Singapore.\n(2) A person to whom any Fifth Schedule toxin has been provided for any excluded purpose must not transfer the Fifth Schedule toxin to any other person for any purpose other than an excluded purpose unless the transferee —\n(a)has been granted an approval to possess the Fifth Schedule toxin as referred to in section 31; or\n(b)is outside Singapore.\n(3) Any transferor who transfers any Fifth Schedule toxin to any transferee in Singapore, knowing or having reason to believe that such transferee does not have an approval to possess the Fifth Schedule toxin as referred to in section 31, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both."
+   }
+  },
+  {
+   "id": "SG-H317-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 4 TOXINS"
+   },
+   "heading": {
+    "en": "Notifications relating to transfers of Fifth Schedule toxins"
+   },
+   "text": {
+    "en": "36.—(1) Any transferor who wishes to transfer any Fifth Schedule toxin to a transferee must notify —\n(a)the Director‑General of the proposed transfer within such time and in such form and manner as the Director‑General may require;\n[Act 11 of 2023 wef 01/05/2023]\n(b)the transferee of an estimated time of receipt by the transferee of the toxin being transferred; and\n(c)the carrier of the toxin (where the carrier is not the transferor or transferee) prior to the despatch of the toxin of a 24‑hour emergency number that is monitored at all times by a person who —\n(i)has knowledge of the hazards and characteristics of the toxin being transported; or\n(ii)has immediate access to a person who possesses such knowledge and information.\n(2) Where a transferee fails to receive any Fifth Schedule toxin which is being transferred to the transferee, the transferee must immediately notify the Director‑General, in such form and manner as the Director‑General may require, of the failure of receipt.\n[Act 11 of 2023 wef 01/05/2023]\n(3) For the purposes of subsection (2), a transferee is deemed to have failed to receive the Fifth Schedule toxin which is being transferred to the transferee if the transferee does not receive the toxin within 24 hours of the estimated time of receipt of the toxin provided by the transferor.\n(4) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H317-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 4 TOXINS"
+   },
+   "heading": {
+    "en": "Prohibition against transportation by certain means"
+   },
+   "text": {
+    "en": "37.—(1) A person must not transport or procure the transportation of any Fifth Schedule toxin within Singapore by mail or public transportation.\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both."
+   }
+  },
+  {
+   "id": "SG-H317-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 5 DUTIES AND OBLIGATIONS IN RELATION TO BIOLOGICAL AGENTS AND TOXINS"
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "38.—(1) Except as otherwise specified, the duties and obligations specified in this Division apply to the operator of a facility who has been granted —\n(a)an approval to possess any First Schedule biological agent or Second Schedule biological agent;\n(b)an approval to produce on a large scale any First Schedule biological agent or Third Schedule biological agent; or\n(c)an approval to possess any Fifth Schedule toxin,\nin relation to or in connection with the possession or production allowed by such approval.\n(2) In this Division —\n“biological agent” means —\n(a)any First Schedule biological agent;\n(b)any Second Schedule biological agent; or\n(c)any Third Schedule biological agent produced on a large scale;\n“toxin” means any Fifth Schedule toxin."
+   }
+  },
+  {
+   "id": "SG-H317-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 5 DUTIES AND OBLIGATIONS IN RELATION TO BIOLOGICAL AGENTS AND TOXINS"
+   },
+   "heading": {
+    "en": "Appointment of biosafety committee and biosafety co‑ordinator"
+   },
+   "text": {
+    "en": "39.—(1) Every operator of a facility must, in accordance with such requirements as may be prescribed —\n(a)appoint a biosafety committee comprising the persons specified in the Sixth Schedule; and\n(b)appoint a biosafety co-ordinator.\n(2) The biosafety co-ordinator of a facility must undergo such training as the Director‑General may from time to time require.\n[Act 11 of 2023 wef 01/05/2023]\n(3) Subject to subsection (4), every operator of a facility must, before carrying out any of the following activities at the facility, obtain the advice of the biosafety committee as to the safety measures required for the carrying out of that activity:\n(a)any activity involving any biological agent or toxin;\n(b)the inactivation of any biological agent.\n(4) Nothing in subsection (3) requires the operator of a facility to obtain the advice of the biosafety committee in respect of an activity which the operator proposes to carry out at the facility if the proposed activity is of the same type and is to be carried out in the same manner as an activity in respect of which the operator had previously obtained the advice of the biosafety committee in accordance with that subsection and which had been carried out safely.\n(5) In order to properly advise the operator of a facility as to the safety measures required for the carrying out of any activity referred to in subsection (3) at the facility, the biosafety committee must —\n(a)conduct risk assessments in relation to the activity proposed to be carried out;\n(b)devise such measures for the management of the risks that may arise from the proposed activity; and\n(c)formulate such other policies, programmes and codes of practice as may be necessary for —\n(i)the proposed activity to be carried out safely at the facility; and\n(ii)the training of staff who will be involved in the carrying out of the proposed activity.\n(6) An operator of a facility must not commence or allow the commencement of any activity involving any biological agent or toxin at the facility unless —\n(a)the biosafety committee has determined that the proposed activity may be carried out safely at the facility;\n(b)the biosafety co-ordinator has implemented the measures, policies, programmes and codes of practice as devised or formulated by the biosafety committee under subsection (5); and\n(c)where the proposed activity involves the use of any biological agent inactivated at the facility, the biosafety committee has verified that the biological agent has been properly inactivated.\n(7) The biosafety committee must review every 2 years or earlier, as may be appropriate, all measures, policies, programmes and codes of practice devised or formulated by it under subsection (5), and must immediately inform the operator of the facility of any change to such measures, policies, programmes and codes of practice as the biosafety committee thinks necessary.\n(8) Where the biosafety committee has proposed changes to any existing measure, policy, programme or code of practice —\n(a)the biosafety co-ordinator of the facility must implement such changes as soon as possible within the timeframe stipulated by the biosafety committee; and\n(b)the operator of the facility must, if so advised by the biosafety committee, discontinue the activity to which the changes relate until such time as the biosafety co-ordinator has implemented those changes."
+   }
+  },
+  {
+   "id": "SG-H317-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 5 DUTIES AND OBLIGATIONS IN RELATION TO BIOLOGICAL AGENTS AND TOXINS"
+   },
+   "heading": {
+    "en": "Maintaining facilities and equipment"
+   },
+   "text": {
+    "en": "40. Every operator of a facility must —\n(a)ensure that the facility is appropriate for its purpose and complies with such requirements as may be prescribed;\n(b)maintain the facility, and any equipment therein, in an optimal and a safe working condition;\n(c)establish and implement adequate security systems to control access to the facility itself, to those parts of the facility where the biological agents or toxins are kept or handled, and to such biological agents or toxins themselves;\n(d)ensure that the biohazard sign set out in the Seventh Schedule is prominently displayed at every door leading into the facility; and\n(e)implement a pest control programme within the facility."
+   }
+  },
+  {
+   "id": "SG-H317-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 5 DUTIES AND OBLIGATIONS IN RELATION TO BIOLOGICAL AGENTS AND TOXINS"
+   },
+   "heading": {
+    "en": "Activities and staff"
+   },
+   "text": {
+    "en": "41. Every operator of a facility must —\n(a)ensure that proper assessments of risk, management of risk, operational monitoring, supervision and review of the storage of or activities involving biological agents or toxins at the facility are carried out;\n(b)ensure that the storage of or activities involving biological agents are carried out at an appropriate biosafety level at the facility and in accordance with such requirements as may be prescribed;\n(c)ensure that no research, teaching or operational activity involving biological agents or toxins at the facility is undertaken until a risk assessment of the activity is conducted by the biosafety committee and it is demonstrated that any hazard that may arise from the activity can be controlled;\n(d)ensure that emergencies arising from any storage of or activity involving biological agents or toxins carried out at the facility are dealt with in accordance with appropriate procedures;\n(e)ensure that no biological agent, toxin or waste which contains a biological agent or toxin is discharged into the environment without the appropriate decontamination and ensure that such waste is lawfully discharged and disposed of;\n(f)ensure that activities involving biological agents or toxins are conducted by staff of the facility who are properly trained to conduct such activities, or conducted under the supervision of such persons;\n(g)ensure that all staff of the facility receive such training as may be required by the Director‑General;\n[Act 11 of 2023 wef 01/05/2023]\n(h)ensure that all staff of the facility are properly protected against any risk of exposure to any biological agent or toxin, including —\n(i)ensuring that all staff of the facility are appropriately attired;\n(ii)ensuring that all staff of the facility adhere to safe working practices and techniques;\n(iii)making available to all staff of the facility the appropriate vaccination or prophylaxis; and\n(iv)ensuring that all staff of the facility are not exposed to hazards arising out of the use, handling, transport or storage of any biological agent or toxin; and\n(i)establish a health and medical surveillance system for the staff of the facility so that any member of the staff who has been infected by or who has been exposed to any biological agent or toxin in the course of carrying out any activity involving biological agents or toxins may be expeditiously identified and treated."
+   }
+  },
+  {
+   "id": "SG-H317-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 5 DUTIES AND OBLIGATIONS IN RELATION TO BIOLOGICAL AGENTS AND TOXINS"
+   },
+   "heading": {
+    "en": "Visitors"
+   },
+   "text": {
+    "en": "42.—(1) Where a person who is not a member of the staff of a facility is required to carry out any work at the facility, the operator of the facility must ensure that that person is made aware of the biological hazards associated with the storage of and activities involving biological agents and toxins carried out at the facility.\n(2) Subject to subsection (3), where a person who is not a member of the staff of a facility is required to enter any part of the facility where there is a risk of exposure to biological agents or toxins, the operator of the facility must ensure that that person —\n(a)is accompanied by a member of the staff of the facility —\n(i)when that person enters the facility;\n(ii)when that person leaves the facility; and\n(iii)for such time that that person is in the facility as the operator of the facility thinks necessary; and\n(b)is properly protected against any risk of exposure to such biological agent or toxin at the facility.\n(3) Where a person who is not a member of the staff of a facility is required to enter the facility at which any First Schedule (Part 2) biological agent or Second Schedule biological agent is kept, the operator of the facility must ensure that that person —\n(a)is accompanied by a member of the staff of the facility at all times and in all parts of the facility; and\n(b)is properly protected against any risk of exposure to such biological agent at the facility."
+   }
+  },
+  {
+   "id": "SG-H317-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 5 DUTIES AND OBLIGATIONS IN RELATION TO BIOLOGICAL AGENTS AND TOXINS"
+   },
+   "heading": {
+    "en": "Use of animals"
+   },
+   "text": {
+    "en": "43. Every operator of a facility who uses any animal for experimentation involving biological agents or toxins at the operator’s facility must comply with such requirements as may be prescribed in relation to animal containment."
+   }
+  },
+  {
+   "id": "SG-H317-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 5 DUTIES AND OBLIGATIONS IN RELATION TO BIOLOGICAL AGENTS AND TOXINS"
+   },
+   "heading": {
+    "en": "Records and reporting requirements"
+   },
+   "text": {
+    "en": "44. Every operator of a facility must —\n(a)maintain an inventory of all biological agents and toxins at the facility, which must include records of the following:\n(i)the storage location of the biological agents and toxins;\n(ii)the personnel having approval to access any of the biological agents and toxins, and the biological agents and toxins to which such approval relates;\n(iii)the use to which the biological agents or toxins are to be and have been put;\n(iv)the transfers of the biological agents and toxins within the facility and between the facility and any other facility;\n(v)the inactivation of the biological agents;\n(vi)the disposal of the biological agents and toxins; and\n(vii)where the biological agents and toxins are First Schedule (Part 2) biological agents, Second Schedule biological agents or Fifth Schedule toxins —\n(A)the personnel who have dealt with the biological agents or toxins; and\n(B)the personnel who have entered the area where the biological agents or toxins are used or stored;\n(b)maintain a record of all visitors to the facility; and\n(c)report immediately to the Director‑General in such form and manner as the Director‑General may require —\n(i)all confirmed or suspected infections or illnesses acquired by any member of the staff of the facility in the course of carrying out any activity involving biological agents or toxins at the facility;\n(ii)all adverse incidents involving biological agents that may potentially cause transmission of any infectious disease;\n(iii)all adverse incidents involving toxins;\n(iv)all loss, whether through theft or otherwise, of biological agents and toxins; and\n(v)the destruction by the operator of the facility of any of the operator’s stocks of First Schedule (Part 2) biological agents, Second Schedule biological agents and Fifth Schedule toxins.\n[Act 11 of 2023 wef 01/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H317-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 5 DUTIES AND OBLIGATIONS IN RELATION TO BIOLOGICAL AGENTS AND TOXINS"
+   },
+   "heading": {
+    "en": "Failure to perform duties and obligations"
+   },
+   "text": {
+    "en": "45.—(1) Where the operator of a facility fails to comply with any duty or obligation imposed under this Division —\n(a)the operator shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction; and\n(b)the Director‑General may order any one or more of the following:\n(i)the immediate cessation of any activity involving any biological agent or toxin at the facility;\n(ii)the destruction of any biological agent or toxin at the facility;\n(iii)the decontamination of the facility;\n(iv)the closure or cordoning off of the facility until such time as the Director‑General is satisfied that the facility may safely resume operation;\n(v)that any person who is or was at the facility (whether as a member of the staff of the facility or otherwise) and who may be or may have been exposed to any biological agent or toxin at the facility should —\n(A)undergo such medical examination and medical treatment at such place or hospital as the Director‑General may specify in the order; or\n(B)be quarantined at such place and for such period as the Director‑General may specify in the order.\n[Act 11 of 2023 wef 01/05/2023]\n(2) Any person who contravenes any order made by the Director‑General under subsection (1)(b) shall be guilty of an offence and shall be liable on conviction to be punished as follows:\n(a)where the offence involves a First Schedule (Part 1) biological agent or a Third Schedule biological agent, with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and\n(b)where the offence involves a First Schedule (Part 2) biological agent, a Second Schedule biological agent or a Fifth Schedule toxin, with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 10 years or with both.\n[Act 11 of 2023 wef 01/05/2023]\n(3) Where it is proved to the satisfaction of the court that the biosafety committee of a facility has rendered any advice to the operator of the facility under section 39(3) in a reckless or grossly negligent manner or in bad faith, every member of the biosafety committee shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both unless the member proves that —\n(a)the advice was rendered without the member’s consent or connivance; and\n(b)the member had exercised all such diligence to prevent the biosafety committee from rendering that advice as the member ought to have exercised in the circumstances.\n(4) Where any member of staff of a facility fails to comply with any measure, policy, programme or code of practice implemented by the biosafety co‑ordinator of the facility pursuant to section 39(6)(b) or (8)(a), the member of staff shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H317-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 5 DUTIES AND OBLIGATIONS IN RELATION TO BIOLOGICAL AGENTS AND TOXINS"
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "46.—(1) Except as otherwise specified, the duties and obligations specified in this Division apply to any carrier, being a person (including a transferor or transferee) who undertakes the transportation in Singapore of —\n(a)any First Schedule biological agent;\n(b)any Second Schedule biological agent;\n(c)any Third Schedule biological agent in quantities aggregating 10 litres or more carried on any conveyance at any one time; or\n(d)any Fifth Schedule toxin.\n(2) In this Division —\n“biological agent” means —\n(a)any First Schedule biological agent;\n(b)any Second Schedule biological agent; or\n(c)any Third Schedule biological agent transported in quantities aggregating 10 litres or more on any conveyance at any one time;\n“toxin” means any Fifth Schedule toxin."
+   }
+  },
+  {
+   "id": "SG-H317-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 5 DUTIES AND OBLIGATIONS IN RELATION TO BIOLOGICAL AGENTS AND TOXINS"
+   },
+   "heading": {
+    "en": "Transportation of biological agents and toxins"
+   },
+   "text": {
+    "en": "47.—(1) A carrier must ensure that there are no unreasonable delays in the carrier’s transportation of any biological agent or toxin.\n(2) The carrier must ensure that any person employed by the carrier to drive any conveyance for the purpose of transporting biological agents and toxins is trained in the management of accidents involving biohazardous materials.\n(3) For the purpose of subsection (2), the training of any person employed by a carrier to drive any conveyance for the purpose of transporting biological agents and toxins must include such training as the Director‑General may specify.\n[Act 11 of 2023 wef 01/05/2023]\n(4) The carrier must ensure that any conveyance used for the transportation of biological agents and toxins is affixed with such biohazard warning panel or label as the Director‑General may require when transporting biological agents or toxins.\n[Act 11 of 2023 wef 01/05/2023]\n(5) Where, in the course of transporting biological agents or toxins on any conveyance, there is any spillage or leakage of the biological agents or toxins, the person employed by the carrier to drive the conveyance must —\n(a)immediately cordon off the area surrounding the conveyance and the spillage or leakage; and\n(b)immediately notify the Commissioner of the Singapore Civil Defence Force or such officer as the Commissioner may authorise for the purpose of this section.\n(6) For the purpose of transporting —\n(a)any First Schedule (Part 2) biological agent;\n(b)any Second Schedule biological agent;\n(c)any Third Schedule biological agent in quantities aggregating 10 litres or more; or\n(d)any Fifth Schedule toxin,\nthe carrier must take all necessary steps to ensure the security of the biological agent or toxin in the course of the transportation, including the use of security personnel and the prevention of unauthorised access to the biological agent or toxin."
+   }
+  },
+  {
+   "id": "SG-H317-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 5 DUTIES AND OBLIGATIONS IN RELATION TO BIOLOGICAL AGENTS AND TOXINS"
+   },
+   "heading": {
+    "en": "Packaging and labelling of biological agents and toxins"
+   },
+   "text": {
+    "en": "48. The transferor must ensure that the packing and labelling of biological agents and toxins being transported comply with such requirements as may be prescribed."
+   }
+  },
+  {
+   "id": "SG-H317-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 5 DUTIES AND OBLIGATIONS IN RELATION TO BIOLOGICAL AGENTS AND TOXINS"
+   },
+   "heading": {
+    "en": "Failure to perform duties and obligations"
+   },
+   "text": {
+    "en": "49. Any person who contravenes any provision of this Division shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H317-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 6 APPROVALS, PERMITS AND CERTIFICATION OF FACILITIES"
+   },
+   "heading": {
+    "en": "Approvals and permits"
+   },
+   "text": {
+    "en": "50.—(1) An application for any approval or permit required under this Act must be made to the Director‑General in such form and manner as the Director‑General may require and must be accompanied by —\n(a)such particulars, information and documents as the Director‑General may specify; and\n(b)if required by the Director‑General, a statutory declaration by the applicant verifying any information contained in or relating to the application.\n[Act 11 of 2023 wef 01/05/2023]\n(2) An applicant for any approval required under this Act must, if required by the Director‑General or an enforcement officer, provide the Director‑General or enforcement officer access to the facility of the applicant in order that the Director‑General or enforcement officer may inspect such facility and observe the work processes and procedures undertaken thereat.\n[Act 11 of 2023 wef 01/05/2023]\n(3) Upon considering an application made under subsection (1), the Director‑General may —\n(a)grant the approval or permit applied for, with or without conditions; or\n(b)refuse to grant the approval or permit applied for.\n[Act 11 of 2023 wef 01/05/2023]\n(4) The Director‑General may at any time vary or revoke any of the existing conditions imposed under subsection (3)(a) or impose new conditions.\n[Act 11 of 2023 wef 01/05/2023]\n(5) Where the Director‑General refuses to grant any approval or permit under subsection (3)(b), the Director‑General must, if requested to do so in writing by the applicant, state in writing the reasons for the Director‑General’s refusal.\n[Act 11 of 2023 wef 01/05/2023]\n(6) An approval to possess any biological agent or toxin ceases to be valid upon the occurrence of any of the following events:\n(a)upon the person to whom the approval has been granted ceasing to be the operator of the facility (whether certified or uncertified) specified in the approval;\n(b)where the facility in respect of which the approval has been granted is required under this Act to be a certified facility, upon that facility ceasing to be such a certified facility.\n(7) If the Director‑General has reason to believe that —\n(a)the grant of any approval or permit was obtained by fraud or misrepresentation;\n(b)the person to whom the approval or permit was granted has contravened, is contravening or is likely to contravene any provision of this Act or any condition imposed under subsection (3)(a) or (4); or\n(c)any activity carried out at the facility to which the approval or permit relates poses a risk to public health,\nthe Director‑General may do all or any of the following:\n(d)suspend or cancel the approval or permit;\n(e)order any one or more of the following:\n(i)the immediate cessation of any activity involving any biological agent or toxin at the facility;\n(ii)the destruction of any biological agent or toxin at the facility;\n(iii)the decontamination of the facility;\n(iv)the closure or cordoning off of the facility until such time as the Director‑General is satisfied that the facility may safely resume operation;\n(v)that any person who is or was at the facility (whether as a member of the staff of the facility or otherwise) and who may be or may have been exposed to any biological agent or toxin at the facility should —\n(A)undergo such medical examination and medical treatment at such place or hospital as the Director‑General may specify in the order; or\n(B)be quarantined at such place and for such period as the Director‑General may specify in the order.\n[Act 11 of 2023 wef 01/05/2023]\n(8) The Director‑General may suspend or cancel any approval or permit without any prior notice of such suspension or revocation.\n[Act 11 of 2023 wef 01/05/2023]\n(9) Where any approval or permit ceases to be valid or is suspended or cancelled, the Director‑General or an enforcement officer may seize any biological agent or toxin to which the approval or permit relates, and any other material arising out of any activity carried out in relation to or in connection with the biological agent or toxin to which the approval or permit relates.\n[Act 11 of 2023 wef 01/05/2023]\n(10) Any person who contravenes any order made by the Director‑General under subsection (7)(e) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n[Act 11 of 2023 wef 01/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H317-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 6 APPROVALS, PERMITS AND CERTIFICATION OF FACILITIES"
+   },
+   "heading": {
+    "en": "Certification of facilities"
+   },
+   "text": {
+    "en": "51.—(1) Any facility which is required to be a certified facility for the purposes of this Act must be certified by an approved certification body.\n(2) For the purpose of this Act, a certification of a facility under subsection (1) ceases to be valid —\n(a)upon the expiry of one year from the date of the certification; or\n(b)upon any design or structural change made to the facility,\nwhichever is earlier.\n(3) Where a certification of a facility ceases to be valid under subsection (2), the facility may be re‑certified as a certified facility for the purposes under subsection (1).\n(4) Where a facility is certified by an approved certification body under this section, the operator of the facility must inform the Director‑General of its certification in such form and manner as the Director‑General may specify and provide to the Director‑General a copy of the certification report issued by the approved certification body, before storing or carrying out any activity involving any biological agent at the certified facility.\n[Act 11 of 2023 wef 01/05/2023]\n(5) The operator of a certified facility must comply with such requirements as may be prescribed.\n(6) Where —\n(a)the operator of a facility stores or carries out any activity involving any biological agent without the facility being certified in accordance with this section;\n(b)the operator of a facility stores or carries out any activity involving any biological agent to which the certification relates without notifying the Director‑General of the certification under this section or providing to the Director‑General a copy of the certification report as required under subsection (4); or\n(c)the operator of a certified facility fails to comply with any prescribed requirement referred to in subsection (5),\nthe Director‑General may order any one or more of the following:\n(d)the immediate cessation of any activity involving any biological agent at the facility;\n(e)the destruction of any biological agent at the facility;\n(f)the decontamination of the facility;\n(g)the closure or cordoning off of the facility until such time as the Director‑General is satisfied that the facility may safely resume operation;\n(h)that any person who is or was at the facility (whether as a member of the staff of the facility or otherwise) and who may be or may have been exposed to any biological agent at the facility should —\n(i)undergo such medical examination and medical treatment at such place or hospital as the Director‑General may specify in the order; or\n(ii)be quarantined at such place and for such period as the Director‑General may specify in the order.\n[Act 11 of 2023 wef 01/05/2023]\n(7) Any person who contravenes any order made by the Director‑General under subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n[Act 11 of 2023 wef 01/05/2023]\n(8) In this section, “approved certification body” means a certification body approved by the Director‑General for the purpose of subsection (1).\n[Act 11 of 2023 wef 01/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H317-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Power of entry, inspection, search and seizure, etc."
+   },
+   "text": {
+    "en": "52.—(1) For the purpose of the administration and enforcement of this Act, the Director‑General or any enforcement officer may —\n(a)at any time and without warrant, enter, inspect and search any premises that are being used or that the Director‑General or enforcement officer has reason to suspect are being used in contravention of this Act, and may —\n(i)examine any practice or procedure that is being applied to any activity that has been or is being carried out on the premises;\n(ii)inspect, or remove for inspection, any apparatus, appliance, equipment or instrument used or found on the premises;\n(iii)inspect, test and examine, or remove for inspection, testing and examination, any container or receptacle found on the premises that the Director‑General or enforcement officer reasonably believes to contain or to have contained any biological agent or toxin;\n(iv)inspect, test and examine, or remove for inspection, testing and examination, any substance or material found on the premises (including the product of any activity carried out on the premises) that the Director‑General or enforcement officer reasonably believes to be or to include any biological agent or toxin;\n(v)seize any such apparatus, appliance, equipment, instrument, container, receptacle, substance or material that the Director‑General or enforcement officer reasonably believes to be the subject matter of, or to be connected with the commission of, an offence under this Act; and\n(vi)require the owner of, or the operator of any facility on, the premises to —\n(A)decontaminate the premises in such manner as the Director‑General or enforcement officer may specify; and\n(B)stop using, and to prevent any other person from entering or using, the premises until the Director‑General or enforcement officer is satisfied that the premises are safe for use;\n(b)at any time and without warrant, stop, board, inspect and search any conveyance that is being used or that the Director‑General or enforcement officer has reason to suspect is being used in contravention of this Act, and may —\n(i)inspect, or remove for inspection, any apparatus, appliance, equipment or instrument used or found on the conveyance;\n(ii)inspect, test and examine, or remove for inspection, testing and examination, any container or receptacle found on the conveyance that the Director‑General or enforcement officer reasonably believes to contain or to have contained any biological agent or toxin;\n(iii)inspect, test and examine, or remove for inspection, testing and examination, any substance or material found on the conveyance that the Director‑General or enforcement officer reasonably believes to be or to include any biological agent or toxin;\n(iv)seize any such apparatus, appliance, equipment, instrument, container, receptacle, substance or material that the Director‑General or enforcement officer reasonably believes to be the subject matter of, or to be connected with the commission of, an offence under this Act; and\n(v)require the owner of or the person using the conveyance to —\n(A)decontaminate the conveyance in such manner as the Director‑General or enforcement officer may specify; and\n(B)stop using, and to prevent any other person from using, the conveyance until the Director‑General or enforcement officer is satisfied that the conveyance is safe for use;\n(c)require any person to furnish any information within the person’s knowledge, including information relating to —\n(i)any activity that has been or is being carried out on any premises;\n(ii)any person involved in the carrying out of any activity on any premises;\n(iii)any practice or procedure that has been or is being applied to any activity carried out on any premises;\n(iv)any apparatus, appliance, equipment or instrument that has been or is being used in carrying out any activity on any premises; and\n(v)the source of any biological agent or toxin that has been or is being used in the carrying out of any activity on any premises, or which is found on any conveyance,\nand may further require such person to attend at a specified time and place for the purposes of complying with this paragraph;\n(d)require any person to produce in a form which is visible and legible and may be taken away, any information stored in any electronic form relating to —\n(i)any activity that has been or is being carried out on any premises;\n(ii)any person involved in the carrying out of any activity on any premises;\n(iii)any practice or procedure that has been or is being applied to any activity carried out on any premises;\n(iv)any apparatus, appliance, equipment or instrument that has been or is being used in carrying out any activity on any premises; and\n(v)the source of any biological agent or toxin that has been or is being used in the carrying out of any activity on any premises, or which is found on any conveyance,\nand may further require such person to attend at a specified time and place for the purposes of complying with this paragraph;\n(e)require any person to produce any book or document relating to —\n(i)any activity that has been or is being carried out on any premises;\n(ii)any person involved in the carrying out of any activity on any premises;\n(iii)any practice or procedure that has been or is being applied to any activity carried out on any premises;\n(iv)any apparatus, appliance, equipment or instrument that has been or is being used in carrying out any activity on any premises; and\n(v)the source of any biological agent or toxin that has been or is being used in the carrying out of any activity on any premises, or which is found on any conveyance,\nfor inspection, retention or the making of copies thereof by the Director‑General or any enforcement officer, or to provide the Director‑General or any enforcement officer with copies of such book or document; and may further require such person to attend at a specified time and place for the purposes of complying with this paragraph;\n(f)require any person who was or is present on any premises or on any conveyance and whom the Director‑General or enforcement officer has reason to suspect has been exposed to any biological agent or toxin to undergo such medical examination and medical treatment at such place or hospital as the Director‑General may specify; and\n(g)arrest without warrant any person whom the Director‑General or enforcement officer has reason to believe has committed any offence under this Act if —\n(i)the name and address of that person are unknown;\n(ii)that person refuses or declines to give his or her name or address when required; or\n(iii)the enforcement officer has reason to doubt the accuracy of any name or address given by that person.\n[10/2008]\n[Act 11 of 2023 wef 01/05/2023]\n(2) Any person who —\n(a)without reasonable excuse, refuses or fails to comply with any requirement of the Director‑General or an enforcement officer under this section; or\n[Act 11 of 2023 wef 01/05/2023]\n(b)gives any false or misleading information when required to furnish any information to the Director‑General or an enforcement officer under this section,\n[Act 11 of 2023 wef 01/05/2023]\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H317-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Power to make orders for cessation of activity on facilities, etc."
+   },
+   "text": {
+    "en": "53.—(1) Where the Director‑General has reason to suspect that any storage of or activity involving any biological agent, inactivated biological agent or toxin at or carried out on any facility —\n(a)has or is suspected to have given rise, or is likely to give rise, to an adverse incident;\n(b)poses an imminent threat to public health;\n(c)is a threat to national security; or\n(d)is contrary to the public interest,\nthe Director‑General may order any one or more of the following:\n(e)the immediate cessation of any activity involving any biological agent or toxin at the facility;\n(f)the destruction of any biological agent or toxin at the facility;\n(g)the decontamination of the facility;\n(h)the closure or cordoning off of the facility until such time as the Director‑General is satisfied that the facility may safely resume operation;\n(i)that any person who is or was at the facility (whether as a member of the staff of the facility or otherwise) and who may be or may have been exposed to any biological agent or toxin at the facility should —\n(i)undergo such medical examination and medical treatment at such place or hospital as the Director‑General may specify in the order; or\n(ii)be quarantined at such place and for such period as the Director‑General may specify in the order.\n[Act 11 of 2023 wef 01/05/2023]\n(2) Any person who contravenes any order made by the Director‑General under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.\n[Act 11 of 2023 wef 01/05/2023]\n(3) Subsection (1) is in addition to, and not in derogation of, any other provision in this Act empowering the Director‑General to make any similar order referred to in paragraphs (e) to (i) of that subsection.\n[Act 11 of 2023 wef 01/05/2023]\n(4) Where an order is made under this Act by the Director‑General —\n(a)for the cessation of any activity at any facility;\n(b)for the destruction of any biological agent, inactivated biological agent or toxin;\n(c)for the decontamination of any facility;\n(d)for the closure or cordoning off of any facility; or\n(e)that any person who may be or may have been exposed to any biological agent or toxin at the facility should undergo any medical examination or medical treatment or be quarantined,\nthe Director‑General or an enforcement officer may take such measures as may be reasonable and necessary to ensure that the order is properly carried out, including any remedial or precautionary measure as may be necessary for ensuring the safety of persons carrying out the order or who are present at the facility when the order is being carried out.\n[Act 11 of 2023 wef 01/05/2023]\n(5) Where any order has been made by the Director‑General under this Act for —\n(a)the cessation of any activity involving any biological agent, inactivated biological agent or toxin;\n(b)the destruction of any biological agent, inactivated biological agent or toxin; or\n(c)the closure or cordoning off of any facility at which there is any biological agent, inactivated biological agent or toxin,\nthe Director‑General or an enforcement officer may seize any biological agent, inactivated biological agent or toxin to which the order relates, and any other material arising out of any activity carried out involving the biological agent, inactivated biological agent or toxin.\n[Act 11 of 2023 wef 01/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H317-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Power of seizure"
+   },
+   "text": {
+    "en": "54.—(1) Where the Director‑General or an enforcement officer has exercised his or her power of seizure under this Act —\n(a)the Director‑General or enforcement officer must immediately give written notice of the seizure to the owner of the matter seized, or the person from whom the matter was seized, and may —\n(i)direct that the matter under seizure be kept or stored in the premises or conveyance where it was seized or be removed to any other place to be kept or stored thereat; or\n(ii)dispose of the matter seized immediately if the Director‑General or enforcement officer is of the view that it is decayed, putrefied or deleterious to health; and\n(b)any person aggrieved by the seizure may, within 48 hours after the seizure, complain thereof to a Magistrate’s Court and the Magistrate’s Court may —\n(i)confirm the seizure wholly or in part;\n(ii)disallow the seizure wholly or in part;\n(iii)order that any matter that has been seized be returned to its owner, subject to any condition which the Court may think fit to impose to ensure that the matter seized is preserved for any purpose for which it may subsequently be required; or\n(iv)order payment to be made to the owner of or person entitled to the matter seized of such amount as the Court considers reasonable compensation to the owner or person for any loss or depreciation resulting from the seizure.\n[Act 11 of 2023 wef 01/05/2023]\n(2) Where —\n(a)no complaint is received by the Magistrate’s Court within 48 hours of the seizure under subsection (1)(b); or\n(b)the Magistrate’s Court confirms the seizure under subsection (1)(b)(i),\nthe matter seized in its entirety or to the extent to which its seizure was confirmed by the Magistrate’s Court (as the case may be) becomes the property of the Government and must be destroyed, disposed of or otherwise dealt with in such manner as the Director‑General thinks fit.\n[Act 11 of 2023 wef 01/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H317-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "55."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Obstruction of public officers"
+   },
+   "text": {
+    "en": "55.—(1) A person must not at any time hinder, obstruct or molest the Director‑General or any enforcement officer in the performance and execution of his or her duty or of anything which he or she is empowered or required to do by virtue or in consequence of or under this Act.\n[Act 11 of 2023 wef 01/05/2023]\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of a first offence, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both; and\n(b)in the case of a second or subsequent offence, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H317-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "56."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Offences by bodies corporate, etc."
+   },
+   "text": {
+    "en": "56.—(1) Where an offence under this Act committed by a body corporate is proved —\n(a)to have been committed with the consent or connivance of an officer; or\n(b)to be attributable to any neglect on the officer’s part,\nthe officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.\n(2) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with the member’s functions of management as if the member were a director of the body corporate.\n(3) Where an offence under this Act committed by a partnership is proved —\n(a)to have been committed with the consent or connivance of a partner; or\n(b)to be attributable to any neglect on the partner’s part,\nthe partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.\n(4) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —\n(a)to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or\n(b)to be attributable to any neglect on the part of such an officer or member,\nthe officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.\n(5) In this section —\n“body corporate” includes a limited liability partnership;\n“officer” —\n(a)in relation to a body corporate, means any director, partner, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or\n(b)in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of a committee and includes any person purporting to act in any such capacity;\n“partner” includes a person purporting to act as a partner.\n(6) Regulations may provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore."
+   }
+  },
+  {
+   "id": "SG-H317-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "57."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Liability for offences by agents or servants"
+   },
+   "text": {
+    "en": "57. Where an offence under this Act is committed by any person acting as an agent or a servant of another person, or being otherwise subject to the supervision or instruction of another person for the purposes of any employment in the course of which the offence was committed, that other person shall, without prejudice to the liability of the firstmentioned person, be liable under this Act in the same manner and to the same extent as if that other person had personally committed the offence if it is proved that the act which constituted the offence was committed with his or her consent or connivance or that it was attributable to any neglect on his or her part."
+   }
+  },
+  {
+   "id": "SG-H317-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "58."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Jurisdiction of court"
+   },
+   "text": {
+    "en": "58. Despite any provision to the contrary in the Criminal Procedure Code 2010, a District Court has jurisdiction to try any offence under this Act (other than the offences under sections 5, 16 and 30) and has power to impose the full penalty or punishment in respect of the offence."
+   }
+  },
+  {
+   "id": "SG-H317-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "59."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "59.—(1) The Director‑General may compound all offences under this Act, other than the offences specified in the Eighth Schedule, by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:\n(a)one half of the amount of the maximum fine that is prescribed for the offence;\n(b)$5,000.\n[Act 11 of 2023 wef 01/05/2023]\n(2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of such offence.\n(3) All sums collected under this section must be paid into the Consolidated Fund."
+   }
+  },
+  {
+   "id": "SG-H317-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "60."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Appeal to Minister"
+   },
+   "text": {
+    "en": "60.—(1) Any person who is aggrieved by —\n(a)any refusal of the Director‑General to grant any approval or permit required under this Act;\n[Act 11 of 2023 wef 01/05/2023]\n(b)any decision of the Director‑General to suspend or revoke any such approval or permit; or\n[Act 11 of 2023 wef 01/05/2023]\n(c)any order of the Director‑General for the cessation of any activity carried out on any facility, the destruction of any biological agent, inactivated biological agent or toxin at any facility, the decontamination of any facility or the closure or cordoning off of any facility,\n[Act 11 of 2023 wef 01/05/2023]\nmay appeal to the Minister in writing within such time as may be prescribed.\n(2) The decision of the Minister is final.\n(3) Despite any appeal, an order made by the Director‑General for the cessation of any activity, or the closure or cordoning off of any facility, takes effect from the date specified in the order, unless the Minister otherwise directs.\n[Act 11 of 2023 wef 01/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H317-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "61."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "General exemption"
+   },
+   "text": {
+    "en": "61. The Minister may, either permanently or for such period as the Minister may think fit, exempt any person or premises or any class of persons or premises from all or any of the provisions of this Act."
+   }
+  },
+  {
+   "id": "SG-H317-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "62."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Amendment of Schedules"
+   },
+   "text": {
+    "en": "62. The Minister may at any time, by order in the Gazette, amend any Schedule."
+   }
+  },
+  {
+   "id": "SG-H317-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "63."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "63.—(1) The Minister may make regulations for carrying out the purposes and provisions of this Act.\n(2) Without limiting subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:\n(a)the regulation of the possession, storage, use, import, transfer, transportation and disposal of scheduled biological agents, inactivated scheduled biological agents and Fifth Schedule toxins, including —\n(i)the imposition of duties and obligations of persons who possess, store, use, import, transfer, transport or dispose of such biological agents, inactivated biological agents and toxins; and\n(ii)the measures, practices, procedures, processes and standards to be adopted and implemented in the possession, storage, use, import, transfer, transportation and disposal of such biological agents, inactivated biological agents and toxins;\n(b)the regulation of the design and structural requirements of facilities;\n(c)the qualifications of persons controlling, managing or carrying out the storage or disposal of, or activities involving, any scheduled biological agent, inactivated scheduled biological agent or Fifth Schedule toxin at any facility;\n(d)the measures to be adopted and implemented for dealing with and investigating into any adverse incident and the procedures for the reporting of such adverse incident to the Director‑General;\n[Act 11 of 2023 wef 01/05/2023]\n(e)the duties and obligations of operators, biosafety committees, biosafety co‑ordinators and staff of facilities (in addition to the duties and obligations of such persons specified in this Act);\n(f)the procedures of biosafety committees;\n(g)the prescribing of fees payable for the purposes of this Act;\n(h)such matters as may be required by this Act to be prescribed;\n(i)such other matter as the Minister thinks necessary for the administration and enforcement of this Act.\n(3) The Minister may, in making any regulations under this section —\n(a)provide that where there has been any contravention of any provision thereof, the Director‑General may, as may be appropriate, order —\n(i)the immediate cessation of any activity involving any scheduled biological agent, inactivated scheduled biological agent or Fifth Schedule toxin;\n(ii)the destruction of any scheduled biological agent, inactivated scheduled biological agent or Fifth Schedule toxin;\n(iii)the decontamination of any facility;\n(iv)the closure or cordoning off of any facility until such time as the Director‑General is satisfied that the facility may safely resume operation; and\n(v)that any person who is or was at any facility (whether as a member of the staff of the facility or otherwise) and who may be or may have been exposed to any scheduled biological agent, inactivated scheduled biological agent or Fifth Schedule toxin at the facility should —\n(A)undergo such medical examination and medical treatment at such place or hospital as the Director‑General may specify in the order; or\n(B)be quarantined at such place and for such period as the Director‑General may specify in the order; and\n[Act 11 of 2023 wef 01/05/2023]\n(b)provide that a contravention of any provision of the regulations or an order referred to in paragraph (a) made under the regulations shall be an offence punishable —\n(i)in relation to or in connection with any First Schedule (Part 1) biological agent, Third Schedule biological agent or Fourth Schedule biological agent, with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and\n(ii)in relation to or in connection with any First Schedule (Part 2) biological agent, Second Schedule biological agent or Fifth Schedule toxin, with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 10 years or with both.\n(4) In this section —\n“inactivated scheduled biological agent” means a First Schedule biological agent, a Second Schedule biological agent, a Third Schedule biological agent or a Fourth Schedule biological agent that has been inactivated;\n“scheduled biological agent” means a First Schedule biological agent, a Second Schedule biological agent, a Third Schedule biological agent or a Fourth Schedule biological agent."
+   }
+  },
+  {
+   "id": "SG-H317-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nSections 2, 6, 7(1), (2) and (3), 8, 9(1) and (2), 10, 11, 12(1), (2) and (3), 13, 27(1), (2) and (3), 28(1), (2), (3) and (4), 29(1), 38, 42(3), 44, 45(2), 46, 47(6), 62, 63(3) and (4) and the Fourth Schedule\nFirst Schedule Biological Agents\nPart 1\nBACTERIA\n1.Brucella canis\n2.Chlamydia psittaci (avian strains)\n3.Mycobacterium canettii\n4.Mycobacterium africanum\n5.Mycobacterium bovis (non-BCG strains)\n6.Mycobacterium microti\n7.Mycobacterium tuberculosis\n8.Any biological agent that is a constructed or reconstructed replication‑competent form of any bacterium set out in this Part\nFUNGI\n1.Blastomyces dermatitidis\n2.Histoplasma capsulatum var. capsulatum\n3.Histoplasma capsulatum var. duboisii\n4.Paracoccidioides brasiliensis\n5.Coccidioides immitis\n6.Coccidioides posadasii, except for the following attenuated strains:\n(a)∆chs5; and\n(b)∆cts2/∆ard1/∆cts3\n7.Any biological agent that is a constructed or reconstructed replication‑competent form of any fungus set out in this Part\nVIRUSES\n1.Arenaviridae\n(a)Lymphocytic choriomeningitis virus\n(b)Mopeia virus\n(c)LCM-Lassa complex viruses (except Lassa virus)\n(d)Flexal virus\n2.Bunyaviridae\n(a)Akabane virus\n(b)California encephalitis virus\n(c)Oropouche virus\n(d)Hantaviruses\n(e)Bhanja virus\n(f)Nairobi sheep disease virus\n(g)Heartland virus\n(h)Severe Fever Thrombocytopenia Syndrome Virus\n2A.[Deleted by S 657/2023 wef 09/10/2023]\n3.Flaviviridae\n(a)Japanese encephalitis virus (except for the vaccine strain 14-14-2 virus)\n(b)Murray Valley encephalitis virus\n(c)Rocio virus\n(d)St. Louis encephalitis virus\n(e)Wesselsbron virus\n(f)West Nile virus\n(g)Louping ill virus\n(h)Negishi virus\n(i)Powassan virus\n4.Herpesviridae\n(a)Herpesvirus ateles\n5.Orthomyxoviridae\n(a)Dhori virus\n(b)Thogoto virus\n(c)Influenza A virus subtype H5N1\n(d)Influenza A virus subtype H7N9\n6.Picornaviridae\n(a)Poliovirus, except for the following vaccine strains:\n(i)sabin Type-1;\n(ii)sabin Type-2; and\n(iii)sabin Type-3\n7.Reoviridae\n(a)Orungo virus\n8.Retroviridae\n(a)Human immunodeficiency virus (HIV) Types 1 and 2, except for any HIV lentiviral vector system which has at least 2 of the following features:\n(i)the U3 region of the 3’LTR in the transfer vector is absent or altered, which results in a stable self‑inactivating (SIN) configuration;\n(ii)the HIV genes for packaging function are split to a minimum of 2 packaging plasmids (excluding the env plasmid);\n(iii)the vpr, vpu, vif and nef genes are either absent or altered to be non‑functional; or\n(iv)the vector system requires minimally 4‑recombination to achieve Replication Competent Lentivirus (RCL)\n(b)Human T lymphotropic virus (HTLV) Types 1 and 2\n(c)Simian immunodeficiency virus\n9.Rhabdoviridae\n(a)Rabies virus\n(b)Vesicular stomatitis virus (except Indiana vesiculovirus and New Jersey vesiculovirus)\n10.Togaviridae\n(a)Everglades virus\n(b)Getah virus\n(c)Mucambo virus\n(d)Ndumu virus\n(e)Semliki forest virus\n(f)Tonate virus\n(g)Western equine encephalitis virus\n11.Unconventional agents associated with the transmission of Spongiform Encephalitis\n(a)Bovine spongiform encephalopathy prion and other related animal transmissible spongiform encephalopathy prion\n(b)Gerstmann-Straussler-Scheinker syndrome prion\n(c)Kuru prion\n(d)Creutzfeldt-Jakob disease prion\n(e)Variant Creutzfeldt-Jakob disease prion\n(f)Fatal familial insomnia prion\n12.Any biological agent that is a constructed or reconstructed replication‑competent form of any virus set out in this Part\nPart 2\nBACTERIA\n1.Bacillus anthracis, except for the attenuated strains devoid of —\n(a)plasmid pX02; or\n(b)plasmids pX01 and pX02\n2.Bacillus cereus biovar anthracis\n3.Brucella abortus, except for the attenuated strains —\n(a)19; or\n(b)RB51\n4.Brucella melitensis\n5.Brucella suis\n6.Burkholderia mallei\n7.Burkholderia pseudomallei\n8.Clostridium botulinum\n9.Franciscella tularensis, except for the attenuated strains of —\n(a)the subspecies of novicida (the UTAH 112 [ATCC 15482]);\n(b)the subspecies of holartica live vaccine strain [ATCC 29684]; or\n(c)the B38 strain [ATTC 6223]\n10.Yersinia pestis, except for the attenuated strains devoid of —\n(a)Pgm locus [EV76 strain];\n(b)75 kb low-calcium response virulence plasmid [Tjiwidej S strain]\n11.Any biological agent that is a constructed or reconstructed replication‑competent form of any bacterium set out in this Part\nRICKETTSIAE\n1.Coxiella burnetii (except for the attenuated Phase II, plaque purified clone 4 of the Nine Mile strain)\n2.Rickettsia — all species\n3.Any biological agent that is a constructed or reconstructed replication‑competent form of any rickettsia set out in this Part\nVIRUSES\n1.Bunyaviridae\n(a)Rift Valley fever virus (except for the vaccine strain MP‑12)\n2.Coronaviridae\n(a)Middle East Respiratory Syndrome Coronavirus (MERS CoV)\n(b)Severe Acute Respiratory Syndrome Coronavirus (SARS CoV), formerly known as SARS Coronavirus\n(c)[Deleted by S 220/2022 wef 02/04/2022]\n3.Flaviviridae\n(a)Yellow fever virus (except for the vaccine strain 17‑D)\n4.Poxviridae\n(a)Monkeypox virus, also known as mpox virus\n[S 62/2023 wef 14/02/2023]\n5.Togaviridae\n(a)Eastern equine encephalitis virus\n(b)Venezuelan equine encephalitis virus\n6.Any biological agent that is a constructed or reconstructed replication‑competent form of any virus set out in this Part.\n[S 676/2007; S 573/2009; S 541/2011; S 396/2015; S 652/2017; S 71/2020; S 139/2020; S 87/2021]"
+   }
+  },
+  {
+   "id": "SG-H317-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nSections 2, 14(1), (2) and (4), 15(1), (2), (3), (4), (5) and (7), 16(1) and (2), 17(1), (2), (3) and (4), 18(1) and (2), 19, 20, 21(1), (2) and (3), 22(1), 27(1), (2) and (3), 28(1), (2), (3) and (4), 29(1), 38, 42(3), 44, 45(2), 46, 47(6), 62, 63(3) and (4) and the Fourth Schedule\nSecond Schedule Biological Agents\n1.Crimean-Congo haemorrhagic fever virus\n2.Cercopithecine herpesvirus 1\n3.Ebola virus\n4.Guanarito virus\n5.Hendra virus\n6.Junin virus\n7.Lassa fever virus\n8.Machupo virus\n9.Marburg virus\n10.Nipah virus\n11.Sabia virus\n12.Tick-borne encephalitis viruses (including Central European tick‑borne encephalitis virus, Far Eastern tick‑borne encephalitis virus, Russian spring‑summer encephalitis virus, Kyasanur forest virus, Omsk haemorrhagic fever virus, with the exception of Louping ill, Negishi and Powassan viruses listed in the First Schedule)\n13.Variola major (Smallpox) virus\n14.Variola minor (Alastrim) virus\n15.1918 pandemic influenza virus\n16.Lujo virus\n17.Chapare virus\n18.Any biological agent that is a constructed or reconstructed replication‑competent form of any biological agent set out in this Schedule.\n[S 573/2009; S 396/2015]"
+   }
+  },
+  {
+   "id": "SG-H317-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nSections 2, 23(1) and (2), 24(1), 38, 45(2), 46, 47(6), 62 and 63(3) and (4)\nThird Schedule Biological Agents\nBacteria\n1. Bordetella pertussis\n2. Legionella — all species and all Legionella‑like organisms\nViruses\n1. Hepatitis B virus."
+   }
+  },
+  {
+   "id": "SG-H317-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE\nSections 2, 25(1) and (2), 26(1), 62 and 63(3) and (4)\nFourth Schedule Biological Agents\nAny biological agent that causes death, disease or biological malfunction in a human, other than a First Schedule biological agent or a Second Schedule biological agent."
+   }
+  },
+  {
+   "id": "SG-H317-A900004",
+   "no": 900004,
+   "noLabel": {
+    "en": "FIFTH SCHEDULE"
+   },
+   "text": {
+    "en": "FIFTH SCHEDULE\nSections 2, 31(1), (2), (3), (4) and (6), 32(1), (2), (3) and (4), 33(1) and (2), 34, 35, 36(1), (2) and (3), 37(1), 38, 44, 45(2), 46, 47(6), 62 and 63(2) and (3)\nFifth Schedule Toxins\n1. Botulinum toxins (Types A, B, C, D, E, F and G)\n2. Clostridium perfringens toxins\n3. Staphylococcal Enterotoxins\n4. Shigatoxins\n5. Verotoxins\n6. T-2 toxin\n7. Tetanus toxin\n8. HT-2 toxin.\n[S 541/2011; S 396/2015]"
+   }
+  },
+  {
+   "id": "SG-H317-A900005",
+   "no": 900005,
+   "noLabel": {
+    "en": "SIXTH SCHEDULE"
+   },
+   "text": {
+    "en": "SIXTH SCHEDULE\nSections 39(1) and 62\nBiosafety Committee\nEvery biosafety committee appointed by an operator in relation to its facility must comprise the following persons:\n(a)the biosafety co-ordinator referred to in section 39(1);\n(b)a person having expertise in microbiology, and knowledge in the physical and biological sciences, and laboratory practices;\n(c)a member of the staff of the operator who is in charge of maintaining the safe and proper functioning of the facility and its equipment;\n(d)a representative from the senior management of the operator; and\n(e)such other person (whether appointed on a permanent or an ad hoc basis) who is, in the opinion of the operator of the facility, sufficiently qualified or experienced to enable the biosafety committee to carry out its functions specified in section 39."
+   }
+  },
+  {
+   "id": "SG-H317-A900006",
+   "no": 900006,
+   "noLabel": {
+    "en": "SEVENTH SCHEDULE"
+   },
+   "text": {
+    "en": "SEVENTH SCHEDULE\nSections 40 and 62\nBiohazard Sign"
+   }
+  },
+  {
+   "id": "SG-H317-A900007",
+   "no": 900007,
+   "noLabel": {
+    "en": "EIGHTH SCHEDULE"
+   },
+   "text": {
+    "en": "EIGHTH SCHEDULE\nSections 59(1) and 62\nNon-compoundable Offences\n1. An offence under section 5 or 30 is not compoundable under section 59.\n[S 396/2015]"
+   }
+  }
+ ]
+}

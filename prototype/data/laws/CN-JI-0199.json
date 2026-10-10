@@ -1,0 +1,77 @@
+{
+ "id": "CN-JI-0199",
+ "title": {
+  "zh": "最高人民法院关于判决生效后当事人将判决确认的债权转让债权受让人对该判决不服提出再审申请人民法院是否受理问题的批复",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p08",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2011-01-07",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 446,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于判决生效后当事人将判决确认的债权转让债权受让人对该判决不服提出再审申请人民法院是否受理问题的批复_20110107.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，整篇作为一条录入，共 1 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于判决生效后当事人将判决确认的债权转让债权受让人对该判决不服提出再审申请人民法院是否受理问题的批复_20110107.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0199-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "全文"
+   },
+   "text": {
+    "zh": "中华人民共和国最高人民法院\n公    告\n最高人民法院《关于判决生效后当事人将判决确认的债权转让债权受让人对该判决不服提出再审申请人民法院是否受理问题的批复》已于2010年12月16日由最高人民法院审判委员会第1506次会议通过，现予公布，自2011年2月1日起施行。\n2011年1月7日\n最高人民法院\n关于判决生效后当事人将判决确认的债权转让\n债权受让人对该判决不服提出再审申请\n人民法院是否受理问题的批复\n法释〔2011〕2号\n（2010年12月16日最高人民法院审判委员会第1506次会议通过 2011年1月7日最高人民法院公告公布 自2011年2月1日起施行）\n海南省高级人民法院：\n你院《关于海南长江旅业有限公司、海南凯立中部开发建设股份有限公司与交通银行海南分行借款合同纠纷一案的请示报告》（〔2009〕琼民再终字第16号）收悉。经研究，答复如下：\n判决生效后当事人将判决确认的债权转让，债权受让人对该判决不服提出再审申请的，因其不具有申请再审人主体资格，人民法院应依法不予受理。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于判决生效后当事人将判决确认的债权转让债权受让人对该判决不服提出再审申请人民法院是否受理问题的批复"
+  },
+  "promulgatedDate": "2011-01-07",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

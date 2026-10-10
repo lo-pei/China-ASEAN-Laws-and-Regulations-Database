@@ -1,0 +1,666 @@
+{
+ "id": "SG-H2772",
+ "title": {
+  "zh": null,
+  "en": "Insolvency, Restructuring and Dissolution (Debt Repayment Scheme) Regulations 2020",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p35",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation IRDA2018-S589-2020",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 39,
+ "chars": 34067,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/IRDA2018-S589-2020?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 39 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2772-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Insolvency, Restructuring and Dissolution (Debt Repayment Scheme) Regulations 2020 and come into operation on 30 July 2020."
+   }
+  },
+  {
+   "id": "SG-H2772-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“appropriate fee” means the appropriate fee specified in the Insolvency, Restructuring and Dissolution (Official Assignee’s Fees) Regulations 2020 (G.N. No. S 590/2020);\n“certificate of completion” means a certificate of completion of a debt repayment scheme issued by the Official Assignee in respect of a debtor under section 301 of the Act;\n“certificate of failure” means a certificate of failure of a debt repayment scheme issued by the Official Assignee in respect of a debtor under section 300 of the Act;\n“certificate of inapplicability” means a certificate of inapplicability of a debt repayment scheme issued by the Official Assignee in respect of a debtor under section 299 of the Act;\n“Chairperson” means the Chairperson of the Appeal Panel appointed by the Minister under section 304(3)(a) of the Act;\n“Court” includes the Registrar when exercising the powers of the General Division of the High Court under Part 15 of the Act or these Regulations;\n[S 1049/2020 wef 02/01/2021]\n“creditor concerned”, in relation to a debt repayment scheme, means a creditor who has proved the creditor’s debt under the scheme and who is bound by the debt repayment plan under the scheme;\n“debt repayment scheme” means a debt repayment scheme under Part 15 of the Act;\n“Deputy Chairperson” means a Deputy Chairperson of the Appeal Panel appointed by the Minister under section 304(3)(b) of the Act;\n“Filing of Documents Regulations” means the Insolvency, Restructuring and Dissolution (Filing, Lodgment and Submission of Documents) Regulations 2020 (G.N. No. S 586/2020);\n“meeting of creditors” means a meeting of a debtor’s creditors convened by the Official Assignee under section 291(2) or 295(2) of the Act."
+   }
+  },
+  {
+   "id": "SG-H2772-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Forms"
+   },
+   "text": {
+    "en": "3. The Forms to be used for the purposes of these Regulations are those set out on the Internet website of the Ministry of Law at https://www.mlaw.gov.sg, and any reference in these Regulations to a numbered form (where such number may include alphanumeric characters) is to be construed as a reference to the current version of the form bearing the corresponding number which is displayed at that website."
+   }
+  },
+  {
+   "id": "SG-H2772-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Prescribed amounts"
+   },
+   "text": {
+    "en": "4.—(1) For the purposes of section 289(2)(a) of the Act, the prescribed amount is $150,000.\n(2) For the purposes of section 299(b) of the Act, the prescribed amount is $75,000."
+   }
+  },
+  {
+   "id": "SG-H2772-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Notices to be in writing"
+   },
+   "text": {
+    "en": "5. All notices required to be given under Part 15 of the Act and these Regulations are to be in writing, unless the Act or these Regulations otherwise provide or the Court otherwise orders."
+   }
+  },
+  {
+   "id": "SG-H2772-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Proof of posting of notice by Official Assignee"
+   },
+   "text": {
+    "en": "6. Where, by any provision of Part 15 of the Act or these Regulations, any notice is required to be sent by the Official Assignee, the sending of the notice may be proved by a signed statement, by the Official Assignee or any officer appointed under section 16(4)(a) of the Act who sent it, that the notice was duly posted."
+   }
+  },
+  {
+   "id": "SG-H2772-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "List of debtors to be kept"
+   },
+   "text": {
+    "en": "7.—(1) The Official Assignee must maintain, in any form or manner that the Official Assignee thinks fit —\n(a)a list of debtors in respect of whom there is a debt repayment scheme that is in effect; and\n(b)a list of debtors in respect of whom the Official Assignee has issued —\n(i)a certificate of inapplicability;\n(ii)a certificate of failure; or\n(iii)a certificate of completion.\n(2) Upon payment of the appropriate fee, the Official Assignee may allow any person to inspect or otherwise have access to any part of the list maintained under paragraph (1) as the Official Assignee may determine."
+   }
+  },
+  {
+   "id": "SG-H2772-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 PRELIMINARY ADMINISTRATION OF DEBT REPAYMENT SCHEME"
+   },
+   "heading": {
+    "en": "Submission of documents by debtor"
+   },
+   "text": {
+    "en": "8.—(1) In addition to the statement of affairs and debt repayment plan required to be submitted by a debtor under section 290 of the Act, the debtor must submit to the Official Assignee, in the form and manner and within the time as the Official Assignee may specify —\n(a)a statement of the debtor’s income and expenditure, duly signed and dated by the debtor; and\n(b)any documents in support of the information stated by the debtor in the statement of affairs, debt repayment plan and statement of income and expenditure.\n(2) The debtor must, upon the request of the Official Assignee, submit any further document or other evidence that the Official Assignee may require in support of the debtor’s income, expenses, assets and liabilities as stated in the statement of affairs and statement of income and expenditure submitted by the debtor under paragraph (1).\n(3) The further documents or other evidence which the Official Assignee may require a debtor to submit under paragraph (2) include —\n(a)the debtor’s income tax statement and returns; and\n(b)documents relating to the debtor’s remuneration.\n(4) Where, upon the expiry of the time given to the debtor to submit the documents mentioned in paragraph (1), the Official Assignee finds that any document submitted by the debtor in compliance or purported compliance with that paragraph has not been duly completed or signed by the debtor, then —\n(a)the debtor is considered to have failed to submit that document within the time given to the debtor to do so; and\n(b)the Official Assignee must, within 14 days after the date by which the debtor should have submitted such document —\n(i)report such failure to the Court; and\n(ii)inform the debtor and every applicant creditor of the debtor, of the debtor’s unsuitability for a debt repayment scheme on that ground."
+   }
+  },
+  {
+   "id": "SG-H2772-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 PRELIMINARY ADMINISTRATION OF DEBT REPAYMENT SCHEME"
+   },
+   "heading": {
+    "en": "Preliminary assessment of aggregate debt owed"
+   },
+   "text": {
+    "en": "9.—(1) Upon receiving the duly completed statement of affairs from the debtor under section 290(1) of the Act, the Official Assignee must determine the aggregate amount of the debtor’s debts as stated in the statement of affairs.\n(2) If the aggregate amount of the debtor’s debts exceeds the amount mentioned in regulation 4(1), the Official Assignee must inform the debtor and every applicant creditor of the debtor, of the debtor’s unsuitability for a debt repayment scheme on that ground."
+   }
+  },
+  {
+   "id": "SG-H2772-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 PRELIMINARY ADMINISTRATION OF DEBT REPAYMENT SCHEME"
+   },
+   "heading": {
+    "en": "Filing of proofs of debt"
+   },
+   "text": {
+    "en": "10.—(1) This regulation and regulation 11 apply where the Official Assignee has assessed that the aggregate amount of a debtor’s debts as stated in the debtor’s statement of affairs does not exceed the amount mentioned in regulation 4(1).\n(2) The Official Assignee must, within 7 days after receiving from the debtor all the duly completed documents mentioned in regulation 8 and section 290 of the Act, send the notice mentioned in section 290(2) of the Act.\n(3) For the purposes of section 294(2) of the Act as applied by section 290(3) of the Act, a creditor must file the creditor’s proof of debt with the Official Assignee —\n(a)in Form DRS-1;\n(b)in accordance with the Filing of Documents Regulations; and\n(c)together with the appropriate fee.\n(4) If the proof of debt is filed by a creditor in accordance with regulation 12(1) of the Filing of Documents Regulations, a copy of each document substantiating the claim specified in the proof of debt —\n(a)must be filed together with the proof of debt; or\n(b)where the Official Assignee is of the opinion that the creditor will incur unreasonable expense or suffer unreasonable inconvenience in complying with sub‑paragraph (a) — must be sent to the Official Assignee within 14 days after the date of filing of the proof of debt, in the manner specified in any practice directions issued by the Official Assignee.\n(5) If the proof of debt is filed by a creditor in accordance with regulation 12(2) of the Filing of Documents Regulations, a copy of each document substantiating the claim specified in the proof of debt must be filed together with the proof of debt.\n(6) A creditor must bear the cost of proving the creditor’s debt.\n(7) The Official Assignee may, on the application of any creditor, extend the time specified in the notice mentioned in section 290(2) of the Act within which the creditor is required to file a proof of debt, regardless of whether the application for extension is made before or after the expiration of that time.\n(8) The Official Assignee must, upon receiving the proofs of debt by the creditors, determine the aggregate amount of the debts owed by the debtor to the creditors.\n(9) Before the Official Assignee admits or rejects in whole or in part a proof of debt, the Official Assignee must examine the proof and the grounds of the debt, and may require further evidence in support of the proof of debt from the creditor who filed the proof of debt.\n(10) Where the Official Assignee admits or rejects in whole or in part a proof of debt filed by a creditor, the Official Assignee must inform the debtor and the creditor of the Official Assignee’s decision in writing within 7 days after the date of the decision.\n(11) If the Official Assignee’s determination under paragraph (8) reveals that the aggregate amount of the debtor’s debts exceeds the prescribed amount mentioned in regulation 4(1), the Official Assignee must report to the Court, and inform the debtor and all creditors who have filed proofs of debt against the debtor under paragraph (3), of the debtor’s unsuitability for a debt repayment scheme on that ground."
+   }
+  },
+  {
+   "id": "SG-H2772-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 PRELIMINARY ADMINISTRATION OF DEBT REPAYMENT SCHEME"
+   },
+   "heading": {
+    "en": "Inspection of proofs of debt"
+   },
+   "text": {
+    "en": "11. The Official Assignee must, upon the payment of the appropriate fee, allow a debtor or any creditor whose proof of debt has been admitted to inspect, or provide the debtor or such creditor with details of —\n(a)the statement of affairs as submitted by the debtor under section 290(1) of the Act;\n(b)the statement of income and expenditure as submitted by the debtor under regulation 8; or\n(c)the proofs of debt as submitted by the debtor’s creditors under regulation 10."
+   }
+  },
+  {
+   "id": "SG-H2772-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 PRELIMINARY ADMINISTRATION OF DEBT REPAYMENT SCHEME"
+   },
+   "heading": {
+    "en": "Information to Court, etc."
+   },
+   "text": {
+    "en": "12.—(1) Where the Official Assignee has determined that a debtor is not suitable for a debt repayment scheme under section 289(2) of the Act, the Official Assignee must, within 7 days after the date of the determination, report to the Court and inform the debtor and every applicant creditor of the determination.\n(2) Where the Official Assignee has approved a debt repayment plan, the Official Assignee must, within 7 days after the date of the approval, report to the Court the date on which the debt repayment scheme is to commence."
+   }
+  },
+  {
+   "id": "SG-H2772-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 MEETING OF CREDITORS"
+   },
+   "heading": {
+    "en": "Notification of meeting of creditors"
+   },
+   "text": {
+    "en": "13.—(1) Where the Official Assignee has assessed that the aggregate amount of a debtor’s debts as stated in the debtor’s statement of affairs does not exceed the amount mentioned in regulation 4(1), the Official Assignee must, within 14 days after receiving from the debtor all the duly completed documents mentioned in regulation 8 and section 290 of the Act, send a notice to convene a meeting of creditors to all the creditors named in the debtor’s statement of affairs.\n(2) The Official Assignee must convene the meeting of creditors within 21 days after the date of the notice."
+   }
+  },
+  {
+   "id": "SG-H2772-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 MEETING OF CREDITORS"
+   },
+   "heading": {
+    "en": "Attendance of debtor"
+   },
+   "text": {
+    "en": "14.—(1) A debtor must be present at every meeting of the debtor’s creditors convened by the Official Assignee unless the debtor has obtained the prior permission of the Official Assignee to be absent from the meeting.\n(2) If the debtor fails to attend any meeting of creditors convened by the Official Assignee under section 291(2) of the Act without having obtained the prior permission of the Official Assignee to be absent from the meeting, the Official Assignee may, if the Official Assignee thinks fit after having given the debtor a reasonable opportunity to show cause for the debtor’s absence, report to the Court under section 289(2)(e) of the Act the debtor’s unsuitability for the debt repayment scheme.\n(3) If the debtor fails to attend any meeting of creditors convened by the Official Assignee under section 295(2) of the Act without having obtained the prior permission of the Official Assignee to be absent from the meeting, the Official Assignee may, if the Official Assignee thinks fit after having given the debtor a reasonable opportunity to show cause for the debtor’s absence, issue a certificate of failure in respect of the debtor."
+   }
+  },
+  {
+   "id": "SG-H2772-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 MEETING OF CREDITORS"
+   },
+   "heading": {
+    "en": "Attendance by creditor"
+   },
+   "text": {
+    "en": "15.—(1) Any creditor named in a debtor’s statement of affairs may attend a meeting of the debtor’s creditors.\n(2) The Official Assignee may dispense with the personal attendance of any creditor mentioned in paragraph (1) and permit the creditor to submit, either in writing or in any other form specified by the Official Assignee, any questions that the creditor may have for the debtor in respect of the contents of the debtor’s statement of affairs, statement of income and expenditure or debt repayment plan.\n(3) The creditor mentioned in paragraph (2) must submit the creditor’s questions to the Official Assignee no later than 7 days before the date of the meeting of creditors.\n(4) Regulation 16(3) applies to any question submitted by a creditor under paragraph (2), and that question and the answer of the debtor to that question form part of the record of proceedings of meetings for the purposes of these Regulations."
+   }
+  },
+  {
+   "id": "SG-H2772-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 MEETING OF CREDITORS"
+   },
+   "heading": {
+    "en": "Proceedings at meetings"
+   },
+   "text": {
+    "en": "16.—(1) At any meeting of a debtor’s creditors, any creditor may ask the debtor questions only in respect of —\n(a)in the case of a meeting convened by the Official Assignee under section 291(2) of the Act — the contents of the debtor’s statement of affairs, statement of income and expenditure and debt repayment plan; or\n(b)in the case of a meeting convened by the Official Assignee under section 295(2) of the Act — any proposed modification to a debt repayment plan that has already been approved by the Official Assignee under section 291 of the Act.\n(2) The debtor must answer every question that is —\n(a)put to the debtor by a creditor present at the meeting of creditors; or\n(b)received by the Official Assignee from a creditor pursuant to regulation 15(2) that is in respect of any matter mentioned in paragraph (1)(a) or (b), whichever is applicable.\n(3) The Official Assignee may disallow any question from being asked at a meeting of creditors if the Official Assignee finds that —\n(a)the question is not in respect of any matter mentioned in paragraph (1)(a) or (b), whichever is applicable; or\n(b)the question is irrelevant, scandalous, frivolous or vexatious."
+   }
+  },
+  {
+   "id": "SG-H2772-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 MEETING OF CREDITORS"
+   },
+   "heading": {
+    "en": "Filing of proofs of debt at or before meeting"
+   },
+   "text": {
+    "en": "17.—(1) The Official Assignee may, upon payment of the appropriate fee, allow a creditor who is not named in the debtor’s statement of affairs to file a proof of the creditor’s debt against the debtor at or before a meeting of creditors convened under section 291(2) of the Act.\n(2) A creditor filing a proof of the creditor’s debt under paragraph (1) before the meeting mentioned in that paragraph must comply with regulation 10(3), (4) and (5), and for this purpose, regulation 10(3), (4) and (5) applies as if —\n(a)a reference to a creditor in regulation 10(3), (4) or (5) is a reference to a creditor filing a proof of that creditor’s debt under paragraph (1) before the meeting mentioned in that paragraph; and\n(b)a reference to a proof of debt in regulation 10(3), (4) or (5) is a reference to a proof of debt filed under paragraph (1) before the meeting mentioned in that paragraph.\n(3) A creditor must bear the cost of proving the creditor’s debt.\n(4) Before the Official Assignee admits or rejects in whole or in part a proof of debt filed under paragraph (1), the Official Assignee must examine the proof and the grounds of the debt, and may require further evidence in support of the proof of debt from the creditor who filed the proof of debt.\n(5) At or after the conclusion of the meeting of creditors, the Official Assignee may admit or reject in whole or in part the proof of debt filed under paragraph (1).\n(6) Where the Official Assignee admits or rejects in whole or in part a proof of debt filed under paragraph (1), the Official Assignee must inform the debtor and the creditor who filed the proof of debt of the Official Assignee’s decision in writing within 7 days after the date of the decision."
+   }
+  },
+  {
+   "id": "SG-H2772-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 MEETING OF CREDITORS"
+   },
+   "heading": {
+    "en": "Approval of debt repayment plan"
+   },
+   "text": {
+    "en": "18.—(1) Where the Official Assignee does not make the decision whether to modify a debt repayment plan at a meeting of creditors convened under section 295(2) of the Act, the Official Assignee must make the decision whether to approve or modify the debt repayment plan within 14 days after the conclusion of that meeting.\n(2) The Official Assignee must, within 7 days after the decision mentioned in paragraph (1) is made, notify in writing the debtor and all the creditors concerned of the decision."
+   }
+  },
+  {
+   "id": "SG-H2772-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 MEETING OF CREDITORS"
+   },
+   "heading": {
+    "en": "Filing of proofs of debt after approval of debt repayment plan"
+   },
+   "text": {
+    "en": "19.—(1) The Official Assignee may, after the approval of a debt repayment plan but before the effective date of the plan, accept any additional proof of debt filed by a creditor concerned against the debtor in question.\n(2) A creditor filing any additional proof of the creditor’s debt under paragraph (1) must comply with regulation 10(3), (4) and (5), and for this purpose, regulation 10(3), (4) and (5) applies as if —\n(a)a reference to a creditor in regulation 10(3), (4) or (5) is a reference to a creditor filing an additional proof of debt under paragraph (1); and\n(b)a reference to a proof of debt in regulation 10(3), (4) or (5) is a reference to an additional proof of debt filed under paragraph (1).\n(3) A creditor must bear the cost of proving the creditor’s debt.\n(4) Before the Official Assignee admits or rejects in whole or in part an additional proof of debt filed under paragraph (1), the Official Assignee must examine the proof and the grounds of the debt, and may require further evidence in support of the proof of debt from the creditor concerned.\n(5) Where the Official Assignee admits or rejects in whole or in part an additional proof of debt filed under paragraph (1), the Official Assignee must inform the debtor and the creditor concerned of the Official Assignee’s decision in writing within 7 days after the date of the decision."
+   }
+  },
+  {
+   "id": "SG-H2772-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 MEETING OF CREDITORS"
+   },
+   "heading": {
+    "en": "Modification of debt repayment plan before effective date"
+   },
+   "text": {
+    "en": "20.—(1) Where the Official Assignee admits an additional proof of debt against a debtor under regulation 19(1), the Official Assignee may make the necessary modifications to the debtor’s debt repayment plan pursuant to section 291(3) of the Act.\n(2) The Official Assignee must, within 7 days after the date of the Official Assignee’s decision to modify a debt repayment plan, inform the debtor and the creditors concerned of the decision in writing and the effective date of the debt repayment plan so modified."
+   }
+  },
+  {
+   "id": "SG-H2772-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 APPEALS TO APPEAL PANEL AND COURT"
+   },
+   "heading": {
+    "en": "Appeal Panel Committee"
+   },
+   "text": {
+    "en": "21.—(1) For the purposes of section 304(7) of the Act, the prescribed number of the members of the Appeal Panel who are to comprise the Appeal Panel Committee is 2, one of whom must be the Chairperson or a Deputy Chairperson.\n(2) The person presiding over the Appeal Panel Committee (called in this regulation and regulation 23 the presiding person) is —\n(a)in the case where the Chairperson is a member of the Appeal Panel Committee — the Chairperson; or\n(b)in any other case — the Deputy Chairperson who is a member of the Appeal Panel Committee.\n(3) The presiding person may determine the manner and conduct of an appeal, and may give such directions to the parties to the appeal as he or she thinks necessary for the just and expedient conduct of the appeal.\n(4) The members of an Appeal Panel Committee may meet for the purpose of hearing and determining an appeal at such places and times as the presiding person may determine."
+   }
+  },
+  {
+   "id": "SG-H2772-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 APPEALS TO APPEAL PANEL AND COURT"
+   },
+   "heading": {
+    "en": "Form and manner of appeal to Appeal Panel"
+   },
+   "text": {
+    "en": "22.—(1) Every appeal to the Appeal Panel from a decision of the Official Assignee under section 291 or 295 of the Act must —\n(a)be made in Form DRS-2 no later than 14 days after the date of the notice of the decision of the Official Assignee;\n(b)explain the manner in which the debt repayment plan as approved by the Official Assignee unfairly prejudices the interests of the appellant;\n(c)be signed by the appellant; and\n(d)be accompanied by the appropriate fee.\n(2) A copy of the appeal mentioned in paragraph (1) must be served on the Official Assignee on the same day on which it is submitted to the Chairperson.\n(3) The Official Assignee must, within 14 days after the date on which the Official Assignee is served a copy of the appeal, submit to the Chairperson a written statement stating briefly the reasons for the Official Assignee’s decision that is being appealed against."
+   }
+  },
+  {
+   "id": "SG-H2772-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 APPEALS TO APPEAL PANEL AND COURT"
+   },
+   "heading": {
+    "en": "Decision of Appeal Panel Committee"
+   },
+   "text": {
+    "en": "23.—(1) The Appeal Panel Committee may, when hearing an appeal against a decision of the Official Assignee under section 291 or 295 of the Act, require the debtor in question or (if the appeal is brought by a creditor of the debtor) the creditor to submit such further information in writing as the Appeal Panel Committee thinks necessary for the just determination of the appeal.\n(2) The presiding person must record every decision of the Appeal Panel Committee.\n(3) Every question before the Appeal Panel Committee is to be determined by a majority of votes and, in the case of an equality of votes, the presiding person has a casting vote.\n(4) The Appeal Panel Committee must determine the appeal and notify the debtor in question and all the creditors concerned of its decision.\n(5) The Appeal Panel Committee may determine any appeal without requiring the parties to appear before it in person.\n(6) Where a debt repayment plan is modified by the Appeal Panel Committee under section 291(5)(b) or 295(5)(b) of the Act, the Appeal Panel Committee must also specify the date on which the debt repayment plan so modified is to take effect."
+   }
+  },
+  {
+   "id": "SG-H2772-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 APPEALS TO APPEAL PANEL AND COURT"
+   },
+   "heading": {
+    "en": "Appeal to Court against admission or rejection of proof of debt by Official Assignee"
+   },
+   "text": {
+    "en": "24. Every appeal to the Court against the Official Assignee’s decision under section 294(3) of the Act must be made in accordance with the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020 (G.N. No. S 585/2020)."
+   }
+  },
+  {
+   "id": "SG-H2772-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 5 ADMINISTRATION OF DEBT REPAYMENT SCHEME"
+   },
+   "heading": {
+    "en": "Filing of proofs of debt after effective date"
+   },
+   "text": {
+    "en": "25.—(1) A creditor who is not bound by a debt repayment plan that has come into effect may file a proof of debt to the Official Assignee in respect of any debt that the creditor alleges is owed to the creditor by the debtor.\n(2) For the purposes of section 294(2) of the Act, a creditor filing a proof of debt mentioned in paragraph (1) must file the proof of debt with the Official Assignee —\n(a)in Form DRS-1;\n(b)in accordance with the Filing of Documents Regulations; and\n(c)together with the appropriate fee.\n(3) If the proof of debt is filed by a creditor in accordance with regulation 12(1) of the Filing of Documents Regulations, a copy of each document substantiating the claim specified in the proof of debt —\n(a)must be filed together with the proof of debt; or\n(b)where the Official Assignee is of the opinion that the creditor will incur unreasonable expense or suffer unreasonable inconvenience in complying with sub‑paragraph (a) — must be sent to the Official Assignee within 14 days after the date of filing of the proof of debt, in such manner as the Official Assignee may specify in any practice directions issued by the Official Assignee.\n(4) If the proof of debt is filed by a creditor in accordance with regulation 12(2) of the Filing of Documents Regulations, a copy of each document substantiating the claim specified in the proof of debt must be filed together with the proof of debt.\n(5) A creditor must bear the cost of proving the creditor’s debt.\n(6) The Official Assignee must, within 21 days after receiving the proof of debt filed under paragraph (2), determine if the debt claimed is a debt provable under the debt repayment scheme in accordance with section 294(1) of the Act.\n(7) Before the Official Assignee admits or rejects in whole or in part a proof of debt filed under paragraph (2), the Official Assignee must examine the proof and the grounds of the debt, and may require further evidence in support of the proof of debt from the creditor who filed the proof of debt.\n(8) If the Official Assignee determines that the debt or any part of the debt filed under paragraph (2) is provable under the debt repayment scheme against the debtor in question, the Official Assignee must admit the debt in whole or in part, as the case may be.\n(9) If the Official Assignee determines that the debt or any part of the debt claimed under the proof of debt filed under paragraph (2) is not provable under the debt repayment scheme against the debtor in question, the Official Assignee must reject the debt in whole or in part, as the case may be.\n(10) Where the Official Assignee admits or rejects in whole or in part a proof of debt filed under paragraph (2), the Official Assignee must inform the debtor in question and the creditor who filed the proof of debt of the Official Assignee’s decision in writing within 7 days after the date of the decision."
+   }
+  },
+  {
+   "id": "SG-H2772-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 5 ADMINISTRATION OF DEBT REPAYMENT SCHEME"
+   },
+   "heading": {
+    "en": "Modification of debt repayment plan"
+   },
+   "text": {
+    "en": "26.—(1) A debtor or creditor who makes a request to the Official Assignee under section 295(1) of the Act for the modification of a debt repayment plan in respect of the debtor must pay the appropriate fee.\n(2) Before the Official Assignee modifies a debt repayment plan under section 295(1) of the Act in respect of a debtor, the Official Assignee must consider —\n(a)whether there has been a change in the monthly income or expenditure of the debtor; and\n(b)whether the debtor is employed.\n(3) Where a debtor requests that a modification be made by the Official Assignee to the debt repayment plan in respect of the debtor by reason of a material change in the debtor’s circumstances, the Official Assignee may require the debtor to provide proof of such change.\n(4) The Official Assignee may modify a debt repayment plan by doing all or any of the following:\n(a)increasing or reducing the total debt to be repaid by the debtor under the debt repayment plan;\n(b)increasing or reducing the amounts to be paid periodically by the debtor under the debt repayment plan;\n(c)including a proved and admitted debt of a creditor not previously bound by the debt repayment plan;\n(d)extending the repayment period of the debt repayment plan subject to section 295(6) of the Act;\n(e)reducing the period of the debt repayment plan."
+   }
+  },
+  {
+   "id": "SG-H2772-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 5 ADMINISTRATION OF DEBT REPAYMENT SCHEME"
+   },
+   "heading": {
+    "en": "Modification by way of extension of repayment period"
+   },
+   "text": {
+    "en": "27.—(1) Where the Official Assignee decides to modify under section 295 of the Act the repayment period of a debt repayment plan in respect of a debtor, the Official Assignee must inform the debtor and the creditors concerned of the decision in writing within 7 days after the date of the decision.\n(2) For the purposes of section 295(6) of the Act, the following further restrictions apply to any modification of a debt repayment scheme that is an extension of the repayment period of the debt repayment plan under that scheme:\n(a)each period of extension must not exceed 2 years;\n(b)if more than one extension of the repayment period of the debt repayment plan is made, the aggregate of all periods of extension must not exceed 2 years;\n(c)where the plan includes a debt mentioned in section 294(1)(b) or (c) of the Act, a further period of extension in addition to that specified in sub-paragraph (a) or (b) is permissible except that —\n(i)each further period of extension in respect of any such debt must not exceed 2 years; and\n(ii)if more than one extension of the repayment period in respect of any such debt is made, the aggregate of all periods of extension must not exceed 2 years.\n(3) The application of paragraph (2) to the repayment period of any debt repayment plan must not result in the repayment period exceeding the period specified in section 295(6)(a) or (b) of the Act, whichever is applicable to that plan."
+   }
+  },
+  {
+   "id": "SG-H2772-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 6 CESSATION AND COMPLETION OF DEBT REPAYMENT SCHEME"
+   },
+   "heading": {
+    "en": "Notification of cessation of debt repayment scheme"
+   },
+   "text": {
+    "en": "28.—(1) Where the debtor to whom a debt repayment scheme is applicable is adjudged a bankrupt under the Act, the Official Assignee must, within 21 days after the event, send a notice to inform the debtor and each creditor concerned of the cessation of the debt repayment scheme by virtue of section 298(1)(d) of the Act.\n(2) Where the debtor to whom a debt repayment scheme is applicable dies, the Official Assignee must, within 21 days after becoming aware of the debtor’s death, send a notice to inform each creditor concerned of the cessation of the debt repayment scheme by virtue of section 298(1)(e) of the Act.\n(3) The Official Assignee must state in every notice mentioned in paragraphs (1) and (2) the reason for the cessation of the debt repayment scheme in question and the date from which the cessation is effective."
+   }
+  },
+  {
+   "id": "SG-H2772-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 6 CESSATION AND COMPLETION OF DEBT REPAYMENT SCHEME"
+   },
+   "heading": {
+    "en": "Certificate of completion"
+   },
+   "text": {
+    "en": "29.—(1) The Official Assignee must, within 21 days after the completion of a debt repayment scheme in respect of a debtor —\n(a)notify in writing the debtor and the creditors concerned of the completion of the debt repayment scheme; and\n(b)issue the certificate of completion to the debtor in accordance with section 301 of the Act.\n(2) The Official Assignee must state in the certificate of completion the following:\n(a)the name of the debtor;\n(b)the date on which the debt repayment scheme came into effect;\n(c)the date on which the debt repayment scheme was completed and ceased to have effect.\n(3) Any creditor concerned may apply to the Official Assignee for a copy of the certificate of completion and the Official Assignee may, upon payment of the appropriate fee by the creditor, provide a copy of the certificate of completion to the creditor."
+   }
+  },
+  {
+   "id": "SG-H2772-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 7 FAILURE AND INAPPLICABILITY OF DEBT REPAYMENT SCHEME"
+   },
+   "heading": {
+    "en": "Certificate of failure"
+   },
+   "text": {
+    "en": "30.—(1) The Official Assignee must, within 21 days after the date of the Official Assignee’s decision to issue a certificate of failure of a debt repayment scheme in respect of a debtor —\n(a)notify in writing the debtor and the creditors concerned of the decision; and\n(b)issue the certificate of failure to the debtor.\n(2) The Official Assignee must state in the certificate of failure the following:\n(a)the name of the debtor;\n(b)the date on which the debt repayment scheme came into effect;\n(c)the date on which the debt repayment scheme failed and ceased to have effect;\n(d)the reason or reasons for the failure of the debt repayment scheme;\n(e)the date after which the certificate may not be used for the purposes of section 312 of the Act.\n(3) Any creditor concerned may apply to the Official Assignee for a copy of the certificate of failure and the Official Assignee may, upon payment of the appropriate fee by the creditor, provide a copy of the certificate of failure to the creditor."
+   }
+  },
+  {
+   "id": "SG-H2772-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 7 FAILURE AND INAPPLICABILITY OF DEBT REPAYMENT SCHEME"
+   },
+   "heading": {
+    "en": "Certificate of inapplicability"
+   },
+   "text": {
+    "en": "31.—(1) The Official Assignee must, within 21 days after the date of the Official Assignee’s decision to issue a certificate of inapplicability of a debt repayment scheme in respect of a debtor —\n(a)notify in writing the debtor and the creditors who have proved their debts under the debt repayment scheme of the decision; and\n(b)issue the certificate of inapplicability to the debtor.\n(2) The Official Assignee must state in the certificate of inapplicability the following:\n(a)the name of the debtor;\n(b)the reason or reasons for which the debt repayment scheme is not applicable to the debtor.\n(3) Any of the debtor’s creditors who have proved their debts may apply to the Official Assignee for a copy of the certificate of inapplicability and the Official Assignee may, upon payment of the appropriate fee by the creditor, provide a copy of the certificate of inapplicability to the creditor."
+   }
+  },
+  {
+   "id": "SG-H2772-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 8 REVOCATION OF CERTIFICATE OF COMPLETION"
+   },
+   "heading": {
+    "en": "NOTICE OF REVOCATION"
+   },
+   "text": {
+    "en": "32.—(1) The Official Assignee must, within 14 days after the date of the Official Assignee’s decision to revoke a certificate of completion of a debt repayment scheme in respect of a debtor, send a notice to inform the debtor and each creditor concerned of the decision.\n(2) The Official Assignee must state in the notice mentioned in paragraph (1) the following:\n(a)the name of the debtor;\n(b)the date on which the debt repayment scheme came into effect;\n(c)the date on which the debtor was issued with the certificate of completion;\n(d)the reason or reasons for revocation of the certificate of completion;\n(e)the date from which the revocation of the certificate of completion is effective.\n(3) Where a certificate of failure of the debt repayment scheme in respect of the debtor mentioned in paragraph (1) is issued by the Official Assignee, the notice mentioned in that paragraph must be accompanied by the certificate of failure.\n(4) Any creditor concerned who has received dividend payments from the debtor under the terms of the debt repayment plan prior to the completion of the debt repayment scheme and the subsequent revocation of the certificate of completion issued in respect of the debtor may request for a copy of the certificate of failure (if any) issued in respect of the debtor.\n(5) The Official Assignee may, upon receipt of the request of the creditor mentioned in paragraph (4) and on payment of the appropriate fee by the creditor, provide a copy of the certificate of failure to the creditor."
+   }
+  },
+  {
+   "id": "SG-H2772-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 9 DIVIDENDS AND INTEREST"
+   },
+   "heading": {
+    "en": "Payment of dividends"
+   },
+   "text": {
+    "en": "33.—(1) For the purposes of section 297(2) of the Act, the Official Assignee may make such periodic payments of dividends of such amounts as the Official Assignee thinks fit to the creditors concerned.\n(2) The Official Assignee may postpone the payment of any dividend as the Official Assignee thinks fit."
+   }
+  },
+  {
+   "id": "SG-H2772-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 9 DIVIDENDS AND INTEREST"
+   },
+   "heading": {
+    "en": "Interest payable"
+   },
+   "text": {
+    "en": "34. For the purposes of section 296(5)(b) of the Act, the prescribed rate of interest is the rate of interest on judgment debts provided for under the Rules of Court for the time being in force."
+   }
+  },
+  {
+   "id": "SG-H2772-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 9 DIVIDENDS AND INTEREST"
+   },
+   "heading": {
+    "en": "Maximum amount receivable by creditor"
+   },
+   "text": {
+    "en": "35. Subject to the Act and these Regulations, a creditor whose debt is proved and included in a plan under a debt repayment scheme may not in any case receive as dividend under the scheme more than 100 cents in the dollar and any interest as provided for in the Act and these Regulations."
+   }
+  },
+  {
+   "id": "SG-H2772-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 10 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Extension, etc., of time"
+   },
+   "text": {
+    "en": "36.—(1) The Official Assignee may, on the application of any debtor or creditor or on the own motion of the Official Assignee and on any terms that the Official Assignee thinks just, by notice extend or abridge the period within which the debtor or creditor is required by these Regulations to submit any document or to do any other act.\n(2) The Official Assignee may extend any period mentioned in paragraph (1) even if the application for extension is not made until after the expiration of that period."
+   }
+  },
+  {
+   "id": "SG-H2772-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 10 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Cancellation of certificate issued by mistake"
+   },
+   "text": {
+    "en": "37. The Official Assignee may cancel any certificate of completion, certificate of failure or certificate of inapplicability that has been issued in respect of a debtor if the Official Assignee is satisfied that the certificate had been issued by mistake."
+   }
+  },
+  {
+   "id": "SG-H2772-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 10 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Disposal of records and papers"
+   },
+   "text": {
+    "en": "38. The Official Assignee may, 5 years after the date on which a debt repayment scheme ceases to be applicable to a debtor under section 298 of the Act, destroy or otherwise deal with the records and papers relating to that debt repayment scheme in such manner as the Official Assignee thinks fit."
+   }
+  },
+  {
+   "id": "SG-H2772-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 10 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Application of other subsidiary legislation"
+   },
+   "text": {
+    "en": "39. The Insolvency, Restructuring and Dissolution (Bankruptcy) Regulations 2020 (G.N. No. S 587/2020) and the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020 apply, with the necessary modifications, to the practice and procedure in any proceedings under Part 15 of the Act and these Regulations for which no specific provision has been made by these Regulations."
+   }
+  }
+ ]
+}

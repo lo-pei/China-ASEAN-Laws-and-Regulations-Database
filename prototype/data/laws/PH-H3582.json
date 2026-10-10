@@ -1,0 +1,74 @@
+{
+ "id": "PH-H3582",
+ "title": {
+  "zh": null,
+  "en": "An Act to Further Amend Section Nine of Republic Act Numbered Twenty-Two Hundred Sixty, as Amended",
+  "orig": "An Act to Further Amend Section Nine of Republic Act Numbered Twenty-Two Hundred Sixty, as Amended"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p50",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1965-06-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4380",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1008,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1965/ra_4380_1965.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1965/ra_4380_1965.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3582-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section nine of Republic Act Numbered Twenty-two hundred and sixty as amended by Republic Act Numbered Thirty-six hundred and seventy-five is hereby further amended to read as follows:\n\"Sec. 9. Wage and Position Classification Office. The Wage and Position Classification Office shall be responsible for the classification of positions in the civil service and shall standardize the salaries of the group or groups of positions to be classified: Provided , That the range of minimum and maximum salaries allowable for civil service eligibilities shall be:\nEligibilities\nMinimum\nMaximum\nFirst Grade\nP3,000\nNo limit Second Grade 2,400 P7,200 Third Grade 2,160 4,800 Senior Stenographer 3,000 No limit Junior Stenographer 2,160 7,200 Senior Typist 3,000 6,720 Junior Typist 2,160 5,040\""
+   }
+  },
+  {
+   "id": "PH-H3582-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "All Acts, executive orders, administrative orders, rules and regulations, or parts thereof inconsistent with the provisions of this Act are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H3582-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965"
+   }
+  }
+ ]
+}

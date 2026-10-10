@@ -1,0 +1,492 @@
+{
+ "id": "TH-H1098",
+ "title": {
+  "zh": null,
+  "en": null,
+  "orig": null
+ },
+ "country": "TH",
+ "countryName": "泰国",
+ "layer": "intl",
+ "pack": "th-p11",
+ "language": "en",
+ "level": null,
+ "category": null,
+ "status": null,
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 45,
+ "chars": 42742,
+ "source": {
+  "name": "泰国 — Electronic Transactions Act, B.E. 2544 (2001)",
+  "url": "https://www.etda.or.th/getattachment/8faa736b-3235-49c8-8b01-d37ff53a9a45/ENG-Version.aspx"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-08",
+ "completenessNote": "全文，共 45 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。（本次由归档原件补录入库）",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TH-H1098-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2.  This Act shall come into force after one hundred and twenty days as"
+   },
+   "text": {
+    "en": "Section 2.  This Act shall come into force after one hundred and twenty days as\nfrom the date of its publication in the Government Gazette."
+   }
+  },
+  {
+   "id": "TH-H1098-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3.   This Act shall apply to all civil and commercial transactions performed"
+   },
+   "text": {
+    "en": "Section 3.   This Act shall apply to all civil and commercial transactions performed\nby using a data message, except the transactions prescribed by a Royal Decree to be\nexcluded  from this Act wholly or partly.\n  The provisions of paragraph one do not prejudice any law or rule enacted for\nconsumer protection.\nThis Act shall apply to the transactions in connection with the carrying out of the\naffairs of the State as prescribed in Chapter 4.\n\nThis translation is provided by Electronic Transact ions Development Agency as the competent authority for information purposes only. Whilst\nElectronic Transactions Development Agency has made  efforts to ensure the accuracy and correctness of the translation, the original Thai text as\nformally adopted and published shall in all events remain the sole authoritative text having the force of law."
+   }
+  },
+  {
+   "id": "TH-H1098-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4.   In this Act:"
+   },
+   "text": {
+    "en": "Section 4.   In this Act:\n  “transaction ” means any act relating to a civil and commercial activity or carrying\nout of the affairs of the State as prescribed in Chapter 4.\n  “electronics”  means an application of an electron means, an electrical means, an\nelectromagnetic means or any other means of a similar nature including an  application of\nan optical means, a magnetic means or\na device in connection with an application of any of the aforesaid means;\n  “electronic transaction”  means a transaction in which an electronic means is\nused in whole or in part;\n  “information”  means an incident or fact regardless of whether expressed in the\nform of a letter, number, sound, image or any other form capable of connotation by itself or\nthrough any means;\n  “data message ” means information generated, sent, received, stored or processed\nby electronic means, such, as electronic data interchange (EDI), electronic mail, telegram,\ntelex or facsimile;\n  “electronic signature ” means letter, character, number, sound or any other symbol\ncreated in electronic form and affixed to a data message in order to establish the association\nbetween a person and a data message for the purpose of identifying the signatory who\ninvolves in such data message and showing that the signatory approves the information\ncontained in such data message;\n  “information system ” means a system of (data message) processing by using an\nelectronic device for generating, sending, receiving, storing or processing\na data message;\n  “electronic data interchange ” means the despatch or receipt of information by an\nelectronic from computer to computer using an agreed standard;\n  “originator ” means a person by whom the data message purports to have been\nsent or generated prior  to storage before being sent pursuant to the method designated by\nsuch person, whether such data message  is sent by such person, or generated in the\nname of or on behalf of such person, but does not include an intermediary with respect to\nthat data message;\n  “addressee”  means a person who is intended by the originator to receive  the data\nmessage and who receives such data message, but does not include an intermediary with\nrespect to that data message;\n\nThis translation is provided by Electronic Transact ions Development Agency as the competent authority for information purposes only. Whilst\nElectronic Transactions Development Agency has made  efforts to ensure the accuracy and correctness of the translation, the original Thai text as\nformally adopted and published shall in all events remain the sole authoritative text having the force of law.\n  “intermediary ” means a person who, on behalf of another person, sends, receives\nor stores a particular data message, including the providing of other services with respect\nto that data message;\n“certificate ” means a data message or other record confirming the link between a\nsignatory and signature creation data;\n“signatory ” means a person that holds signature creation data and creates  the\nelectronic signature either on his own behalf or on behalf of other persons;\n“relying party ” means a person that may act on the basis of a certificate or an\nelectronic signature;\n“State agency ” means a Ministry, Bureau, Department, other Government agency\nby a different name and having the status of a Department, a provincial administration, a\nlocal administration and a State enterprise established by an Act or a Royal Decree and\nshall also include a juristic person, a group of persons or\na person having the power and duties to perform the  State affairs in any matter\nwhatsoever;\n“Commission ” means the Electronic Transaction Commission;\n“Minister ” means the Minister in charge of this Act."
+   }
+  },
+  {
+   "id": "TH-H1098-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5.  The provisions of Section 13 to Section 24 and the provisions of Section"
+   },
+   "text": {
+    "en": "Section 5.  The provisions of Section 13 to Section 24 and the provisions of Section\n26 to Section 31 may be agreed otherwise.\nSection 6.   The Prime Minister shall be in charge of this Act.\n\nCHAPTER 1\nELECTRONIC TRANSACTIONS"
+   }
+  },
+  {
+   "id": "TH-H1098-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7.  Information shall not be denied legal effect and enforceability solely on"
+   },
+   "text": {
+    "en": "Section 7.  Information shall not be denied legal effect and enforceability solely on\nthe ground that it is in the form of a data message."
+   }
+  },
+  {
+   "id": "TH-H1098-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8.  Subject to the provision of Section 9,  in the case  where the law"
+   },
+   "text": {
+    "en": "Section 8.  Subject to the provision of Section 9,  in the case  where the law\nrequires any transaction to be made in writing, to be evidenced in writing or supported by a\n\nThis translation is provided by Electronic Transact ions Development Agency as the competent authority for information purposes only. Whilst\nElectronic Transactions Development Agency has made  efforts to ensure the accuracy and correctness of the translation, the original Thai text as\nformally adopted and published shall in all events remain the sole authoritative text having the force of law.\ndocument which must be produced, if the information is generated in the form of a data\nmessage which is accessible and usable for subsequent reference without its meaning\nbeing altered, it shall be deemed that such information is made in writing, is evidenced in\nwriting or  is supported by a document."
+   }
+  },
+  {
+   "id": "TH-H1098-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9.   In the case where a person is to enter a signature in a writing, it shall"
+   },
+   "text": {
+    "en": "Section 9.   In the case where a person is to enter a signature in a writing, it shall\nbe deemed that such data message bears a signature if:\n(1) the method used is capable of identifying the signatory and indicating that the\nsignatory has approved the information contained in such data message as being his own;\nand\n  (2) such method is a reliable one and appropriate  for the purpose for which the data\nmessage  is generated or sent, having regard to the  surrounding circumstances or an\nagreement between the parties."
+   }
+  },
+  {
+   "id": "TH-H1098-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10.   In the case where the law requires that any information be presented"
+   },
+   "text": {
+    "en": "Section 10.   In the case where the law requires that any information be presented\nor retained in its original form as an original document, if such information is presented or\nretained in the form of data message pursuant to the following requirements, it shall be\ndeemed that such information is presented or retained as an original document under the\nlaw:\n(1) a reliable method is used with the data message to assure the integrity of the\ninformation from the time when it is generated in its final form; and\n(2) the information is capable of being subsequently displayed.\nThe integrity of the information under (1) shall be determined by having regard to its\ncompleteness and unalteration, apart from the addition of any endorsement or record or\nany change which may arise in the normal course of communication, storage or display of\nthe information, which does not affect the integrity of that information.\n  In determining the method used for assuring the i ntegrity of the information under\n(1), all relevant circumstances must be taken into consideration, including the purpose for\nwhich such information is generated."
+   }
+  },
+  {
+   "id": "TH-H1098-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11.   The admissibility of a data message as an evidenc e in the legal"
+   },
+   "text": {
+    "en": "Section 11.   The admissibility of a data message as an evidenc e in the legal\nproceedings shall not be denied solely on the grounds that it is a data message.\n\nThis translation is provided by Electronic Transact ions Development Agency as the competent authority for information purposes only. Whilst\nElectronic Transactions Development Agency has made  efforts to ensure the accuracy and correctness of the translation, the original Thai text as\nformally adopted and published shall in all events remain the sole authoritative text having the force of law.\nIn assessing the evidential weight of a data message whether it is reliable or not,\nregard shall be had to the reliability of the manner in which or the method by which the\ndata message was generated, stored or communicated, the manner in which or the method\nby which the completeness and integrity of the information was maintained, the manner in\nwhich or the method by which the originator was ide ntified or indicated, including all\nrelevant circumstances."
+   }
+  },
+  {
+   "id": "TH-H1098-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12.   Subject to the provision of Section 10, in the ca se where the law"
+   },
+   "text": {
+    "en": "Section 12.   Subject to the provision of Section 10, in the ca se where the law\nrequires that certain documents or information be retained, if such retention    is made in\nthe form of a data message pursuant to the following requirements, it shall be deemed that\nsuch document or information is retained pursuant to the requirements of the law:\n(1) that data message is accessible so as to be usable for subsequent reference\nwithout its meaning being altered;\n(2) that data message is retained in the format in which it was generated, sent or\nreceived, or in a format which can be demonstrated to represent accurately the information\ngenerated, sent or received; and\n(3) the information, if any, which specifies the source, origin and destination of a\ndata message including the date and time sent or received, is retained.\nThe provisions of paragraph one shall not apply to the information the sole purpose\nof which is to enable the data message to be sent or received.\nThe State agency responsible for retaining any docu ment or information may\nprescribe additional details with respect to the requirement in retaining such document or\ninformation insofar as they are not contrary to the provisions of this Section."
+   }
+  },
+  {
+   "id": "TH-H1098-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13.   An offer or acceptance in entering into a contract may be expressed"
+   },
+   "text": {
+    "en": "Section 13.   An offer or acceptance in entering into a contract may be expressed\nby means of a data message.   A contract shall not be denied legal effect solely on the\ngrounds that such offer or acceptance is made in the form of a data message."
+   }
+  },
+  {
+   "id": "TH-H1098-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14.   As between the originator and the addressee of a data message, a"
+   },
+   "text": {
+    "en": "Section 14.   As between the originator and the addressee of a data message, a\ndeclaration of will or notice may be made in the form of a data message."
+   }
+  },
+  {
+   "id": "TH-H1098-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15.   Whoever sends a data message by whatever means, i t shall be"
+   },
+   "text": {
+    "en": "Section 15.   Whoever sends a data message by whatever means, i t shall be\ndeemed that the data message belongs to such person.\n\nThis translation is provided by Electronic Transact ions Development Agency as the competent authority for information purposes only. Whilst\nElectronic Transactions Development Agency has made  efforts to ensure the accuracy and correctness of the translation, the original Thai text as\nformally adopted and published shall in all events remain the sole authoritative text having the force of law.\nAs between the originator and the addressee, a data message is deemed to be that\nof the originator if   it is sent by:\n(1) a person who is authorized to act on behalf of the originator in respect of that\ndata message; or\n(2) an information system programmed to operate automatically in advance, by the\noriginator or a person authorized to act on behalf of the originator."
+   }
+  },
+  {
+   "id": "TH-H1098-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16.   The addressee is entitled to regard a data message as being that of"
+   },
+   "text": {
+    "en": "Section 16.   The addressee is entitled to regard a data message as being that of\nthe originator and shall also be entitled to act pursuant to such data message if:\n(1) the addressee has properly applied a procedure previously agreed with the\noriginator to verify whether the data message was that of the originator; or\n(2) the data message received by the addressee results from an act of a person\nwho uses a method which is used by the originator to identify data message as his own\nand to which that person has gained access through the relationship with the originator or\nperson who is authorized to act on behalf of the originator.\nThe provisions of paragraph one shall not apply if:\n(1) as of the time when the addressee has received notice from the originator that\nthe data message is not that of the originator and, at the same time, the addressee had a\nreasonable time to verify the facts to which the notice relates; or\n(2) in a case pursuant to paragraph one (1), at any time when the addressee knew\nor should have known, had the addressee exercised reasonable care or used any agreed\nprocedure, that the data message was not that of the originator."
+   }
+  },
+  {
+   "id": "TH-H1098-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17.  In the case of Section 15 or Section 16 paragraph one, as between"
+   },
+   "text": {
+    "en": "Section 17.  In the case of Section 15 or Section 16 paragraph one, as between\nthe originator and the addressee, the addressee is entitled to regard the data message as\nreceived as being what the originator intended to send and to act on that assumption on\nthe data message unless the addressee knew or should have known, had the addressee\nexercised reasonable care or used any agreed procedure, that the transmission resulted in\nany error in the data message as received."
+   }
+  },
+  {
+   "id": "TH-H1098-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18.  The addressee is entitled to regard each data message received as a"
+   },
+   "text": {
+    "en": "Section 18.  The addressee is entitled to regard each data message received as a\nseparate data message and to act on that assumption with respect to each data message\nexcept to the extent that it duplicates another data message and the addressee knew or\n\nThis translation is provided by Electronic Transact ions Development Agency as the competent authority for information purposes only. Whilst\nElectronic Transactions Development Agency has made  efforts to ensure the accuracy and correctness of the translation, the original Thai text as\nformally adopted and published shall in all events remain the sole authoritative text having the force of law.\nshould have known, had the addressee exercised reasonable care or used any agreed\nprocedure, that the data message was a duplicate."
+   }
+  },
+  {
+   "id": "TH-H1098-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19.  In the case where an acknowledgement of receipt of a data message is"
+   },
+   "text": {
+    "en": "Section 19.  In the case where an acknowledgement of receipt of a data message is\nrequired whether at the request of the originator or as agreed with the addressee before or\nat the time of sending  such data message or as app eared in that data message, the\nfollowing rules shall apply:\n  (1) where the originator has not agreed that the acknowledgement be given in a\nparticular form or by a particular method, an acknowledgement may be given by any\ncommunication by the addressee, whether by an automated information system or by any\nother method, or by any conduct of the addressee sufficient to indicate to the originator that\nthe addressee has received the data message.\n(2) where the originator has stated a condition that the data message shall be\nregarded as having been sent only upon receipt of an acknowledgement by the addressee,\nit shall be deemed that the data message has never been sent, until the originator has\nreceived the acknowledgement.\n(3) where the originator has not stated such a condition under paragraph (2) and\nthe originator has not received the acknowledgement within the time specified or agreed or,\nif no time has been specified or agreed, within a reasonable time, the originator:\n    (a) may give notice to the addressee stating th at no acknowledgement has\nbeen received and specifying a reasonable time by which the acknowledgement must be\nmade by the addressee; and\n    (b) if the acknowledgement is not received by t he originator within the time\nspecified in subparagraph (a), may, upon notice to the addressee, treat the data message\nas though it had never been sent, or exercise any other rights it may have."
+   }
+  },
+  {
+   "id": "TH-H1098-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20.   Where the originator receives the addressee’s acknowledgement of"
+   },
+   "text": {
+    "en": "Section 20.   Where the originator receives the addressee’s acknowledgement of\nreceipt  it is presumed that the related data message was received by the addressee.  That\npresumption does not imply that the data message received by the addressee corresponds\nto the data message sent by the originator."
+   }
+  },
+  {
+   "id": "TH-H1098-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21.  Where the received acknowledgement states that the related data"
+   },
+   "text": {
+    "en": "Section 21.  Where the received acknowledgement states that the related data\nmessage received by the addressee met the technical requirements, either agreed upon by\n\nThis translation is provided by Electronic Transact ions Development Agency as the competent authority for information purposes only. Whilst\nElectronic Transactions Development Agency has made  efforts to ensure the accuracy and correctness of the translation, the original Thai text as\nformally adopted and published shall in all events remain the sole authoritative text having the force of law.\nthe originator and the addressee or set forth in the applicable standards, it is presumed that\nthose requirements have been met."
+   }
+  },
+  {
+   "id": "TH-H1098-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22.  The dispatch of a data message is deemed to occur when such data"
+   },
+   "text": {
+    "en": "Section 22.  The dispatch of a data message is deemed to occur when such data\nmessage enters an information system outside the control of the originator."
+   }
+  },
+  {
+   "id": "TH-H1098-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23.  The receipt of a data message is deemed to occur from the time when"
+   },
+   "text": {
+    "en": "Section 23.  The receipt of a data message is deemed to occur from the time when\nsuch data message enters an information system of the addressee.\n  If the addressee has designated an information sy stem for the purpose of receiving\ndata message specifically, it shall be deemed that the receipt of a data message occurs at\nthe time when the data message enters the designated information system.  However, if\nsuch data message is sent to an information system of the addressee that is not the\ndesignated information system, it shall be deemed that the receipt of a data message\noccurs at the time when the data message is retrieved from that information system.\nThe provision of this section applies notwithstanding that the place where the\ninformation system is located may be different from the place where the data message is\ndeemed to be received by the addressee under Section 24."
+   }
+  },
+  {
+   "id": "TH-H1098-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24.  The dispatch or the receipt of a data message shall be deemed to be"
+   },
+   "text": {
+    "en": "Section 24.  The dispatch or the receipt of a data message shall be deemed to be\ndispatched at the place where the originator has its place of business or received at the\nplace where the addressee has its place of business, as the case may be.\n  If the originator or the addressee has more than one place of business, it shall be\ndeemed that the place of business is that which has  the closest relationship to the\nunderlying transaction for the purpose of paragraph one.  However, if it is unable to\ndetermine that which place of business has the clos est relationship to the underlying\ntransaction, it shall be deemed that the principal place of business is the place where such\ndata message is received or dispatched.\nIf the originator or the addressee does not have a place of business, it shall be\ndeemed that his habitual residence is the place where a data message is received or\ndispatched.\nThe provisions of this section shall not apply to the dispatch and receipt of a data\nmessage by telegramme and telex or by any other means of communication prescribed in\nthe Royal Decree.\n\nThis translation is provided by Electronic Transact ions Development Agency as the competent authority for information purposes only. Whilst\nElectronic Transactions Development Agency has made  efforts to ensure the accuracy and correctness of the translation, the original Thai text as\nformally adopted and published shall in all events remain the sole authoritative text having the force of law."
+   }
+  },
+  {
+   "id": "TH-H1098-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25.  Any electronic transaction made in accordance with the security"
+   },
+   "text": {
+    "en": "Section 25.  Any electronic transaction made in accordance with the security\nprocedure prescribed in the Royal Decree is presumed to be made by a reliable method.\n\nCHAPTER 2\nELECTRONIC SIGNATURES"
+   }
+  },
+  {
+   "id": "TH-H1098-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26.  An electronic signature is considered to be a relia ble electronic"
+   },
+   "text": {
+    "en": "Section 26.  An electronic signature is considered to be a relia ble electronic\nsignature if it meets the following requirements:\n(1) the signature creation data are, within the context in which they are used, linked\nto the signatory and to no other person;\n(2) the signature creation data were, at the time of signing, under the control of the\nsignatory and of no other person;\n(3) any alteration to the electronic signature, made after the time of signing, is\ndetectable; and\n(4) where a purpose of the legal requirement for a signature is to provide assurance\nas to the completeness and integrity of the information and any alteration made to that\ninformation after the time of signing is detectable.\nThe provision of paragraph one does not limit that there is no other way to prove\nthe reliability of an electronic signature or the adducing of the evidence of the non-reliability\nof an electronic signature."
+   }
+  },
+  {
+   "id": "TH-H1098-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27.   Where signature creation data can be used to create a signature that"
+   },
+   "text": {
+    "en": "Section 27.   Where signature creation data can be used to create a signature that\nhas legal effect, each signatory shall:\n(1) exercise reasonable care to avoid unauthorized use of its signature creation\ndata;\n(2) without undue delay, notify any person that may reasonably be expected by the\nsignatory to rely on or to provide services in support of the electronic signature if:\n  (a) the signatory knows or should have known that  the signature creation\ndata have been lost, damaged, compromised, unduly disclosed or known in the manner\ninconsistent with their purpose;\n\nThis translation is provided by Electronic Transact ions Development Agency as the competent authority for information purposes only. Whilst\nElectronic Transactions Development Agency has made  efforts to ensure the accuracy and correctness of the translation, the original Thai text as\nformally adopted and published shall in all events remain the sole authoritative text having the force of law.\n  (b) the signatory knows from the circumstances oc curred that there is a\nsubstantial risk that the signature creation data m ay have been lost, damaged,\ncompromised, unduly disclosed or known in the manner in consistent with their purpose;\n (3) where a certificate is issued to support the e lectronic signature, exercise\nreasonable care to ensure the accuracy and completeness of all material representations\nmade by the signatory which are relevant to the certificate throughout its life-cycle, or as\nspecified in the certificate."
+   }
+  },
+  {
+   "id": "TH-H1098-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28.  Where a certification service is provided to support an electronic"
+   },
+   "text": {
+    "en": "Section 28.  Where a certification service is provided to support an electronic\nsignature that may be used for legal effect as a signature, that certification service provider\nshall perform as follows:\n(1) act in accordance with representations made by it with respect to its policies and\npractices;\n(2) exercise reasonable care to ensure the accuracy  and completeness of all\nmaterial representations made by it that are relevant to the certificate throughout its life-\ncycle, or as specified in the certificate;\n(3) provide reasonably accessible means which enable a relying party to ascertain\nin all material representations from the certificate in the following matters:\n (a) the identity of the certification service prov ider;\n  (b) that the signatory that is identified in the certificate had control of the\nsignature creation data at the time when the certificate was issued;\n  (c) that signature creation data were valid at or  before the time when the\ncertificate was issued;\n (4) provide reasonably accessible means which enab le a relying party to ascertain\nfrom the certificate or otherwise as follows:\n    (a) the method used to identity the signatory;\n  (b) any limitation on the purpose or value for wh ich the signature creation\ndata or the certificate may be used;\n (c) that the signature creation data are valid and  have not been lost,\ndamaged, compromised, unduly disclosed or known in a manner inconsistent with their\npurpose;\n  (d) any limitation on the scope or extent of liab ility stipulated  by the\ncertification service provider;\n\nThis translation is provided by Electronic Transact ions Development Agency as the competent authority for information purposes only. Whilst\nElectronic Transactions Development Agency has made  efforts to ensure the accuracy and correctness of the translation, the original Thai text as\nformally adopted and published shall in all events remain the sole authoritative text having the force of law.\n  (e) the availability of the means for the signato ry to give notice upon the\noccurance of the events pursuant to Section 27 (2); and\n  (f) a timely revocation service is offered;\n  (5) where services under subparagraph (4) (e) are  offered, provide a means for a\nsignatory to give notice pursuant to Section 27 (2) and, where services under (4) (f) are\noffered, ensure the availability of a timely revocation service;\n(6) utilize trustworthy systems, procedures and human resources in performing its\nservices."
+   }
+  },
+  {
+   "id": "TH-H1098-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29.   In determining whether any systems, procedures an d human"
+   },
+   "text": {
+    "en": "Section 29.   In determining whether any systems, procedures an d human\nresources under Section 28 (6) are trustworthy, regard shall be had to the following factors:\n(1) financial and human resources, including existence of assets;\n(2) quality of hardware and software systems;\n(3) procedures for processing of certificates and applications for certificates and\nretention of records in connection with the provision of such services;\n  (4) availability of information on the signatorie s identified in certificates and on the\npotential relying parties;\n(5) regularity and extent of audit by an independent body;\n(6) the certification issuing organizations or cert ification service provider with\nrespect to the practice or existence of the factors specified in subparagraphs (1) to (5);\n(7) any other factor prescribed by the Commission."
+   }
+  },
+  {
+   "id": "TH-H1098-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30.  A relying party is required to do the following:"
+   },
+   "text": {
+    "en": "Section 30.  A relying party is required to do the following:\n(1) take reasonable steps to verify the reliability of an electronic signature;\n(2) where an electronic signature is supported by a certificate, take reasonable\nsteps to:\n  (a) verify the validity, suspension or revocation  of the certificate; and\n  (b) observe any limitation with respect to the ce rtificate."
+   }
+  },
+  {
+   "id": "TH-H1098-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31.  A certificate or an electronic signature shall be deemed to be legally"
+   },
+   "text": {
+    "en": "Section 31.  A certificate or an electronic signature shall be deemed to be legally\neffective without having to consider:\n(1) the geographic location where the certificate is issued or the electronic signature\ncreated or used; or\n\nThis translation is provided by Electronic Transact ions Development Agency as the competent authority for information purposes only. Whilst\nElectronic Transactions Development Agency has made  efforts to ensure the accuracy and correctness of the translation, the original Thai text as\nformally adopted and published shall in all events remain the sole authoritative text having the force of law.\n(2) the geographic location of the place of business of the issuer of the certificate or\nsignatory.\nA certificate issued in a foreign country shall have the same legal effect as a\ncertificate issued in the country if the level of reliability used in issuing such certificate is not\nlower than as prescribed in this Act.\nAn electronic signature created or used in a foreign country shall have the same\nlegal effect in the country as an electronic signature created or used in the country if the\nlevel of reliability used in creating or using such electronic signature is not lower than as\nprescribed in this Act.\nIn determining whether which certificate or electro nic signature offers reliability\npursuant to paragraph two or paragraph three, regar d shall be had to recognized\ninternational standards and any other relevant factors.\n\nCHAPTER 3\nSERVICE BUSINESS RELATING TO\nELECTRONIC TRANSACTIONS"
+   }
+  },
+  {
+   "id": "TH-H1098-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32.   Persons shall have the right to operate service business relating to"
+   },
+   "text": {
+    "en": "Section 32.   Persons shall have the right to operate service business relating to\nelectronic transaction. In the event where it is ne cessary to maintain financial and\ncommercial stability, or for benefit of strengthening the credibility and acceptance of\nelectronic transactions system, or to prevent damage to the public, a Royal Decree\nprescribing the service business relating to electronic transaction which shall be subject to\nprior notification, registration or licence shall be issued.\nAs to which case would require notification, registration or licence under paragraph\none, the determination shall be taken based on the appropriateness of damage prevention\nin accordance with degree of severity of the impact which may occur from such business\noperation.\nFor this purpose, any particular State agency may be designated by such Royal\nDecree to be the responsible supervisory agency.\nPrior to the proposal of the issuance of the Royal Decree under paragraph one, a\npublic hearing shall be conducted as it may be deemed proper and the information to be\nderived therefrom shall be taken into account.\n\nThis translation is provided by Electronic Transact ions Development Agency as the competent authority for information purposes only. Whilst\nElectronic Transactions Development Agency has made  efforts to ensure the accuracy and correctness of the translation, the original Thai text as\nformally adopted and published shall in all events remain the sole authoritative text having the force of law."
+   }
+  },
+  {
+   "id": "TH-H1098-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33.   In the event where there is a Royal Decree prescribing the service"
+   },
+   "text": {
+    "en": "Section 33.   In the event where there is a Royal Decree prescribing the service\nbusiness relating to electronic transactions which shall be subject to prior notification or\nregistration, the person wishing to operate such bu siness shall notify, or apply for\nregistration with the competent official as prescribed in the Royal Decree prior to the\ncommencement of  such business operation.\nThe rules and procedures for notification or registration under paragraph one shall\nbe as prescribed in the Royal Decree.  When the com petent official under the Royal\nDecree is notified or accepts the registration, he or she shall isue a certificate of notifiation\nor a certificate of registration as evidence of the notification or registration on the date of\nnotification or registration.  The person making notification or applying for registration can\noperate such business as from the date of the notification or registration.  If, subsequently,\nthe competent official under the Royal Decree finds  out that the notification or the\nregistration has been made inaccurately or incompletely, the competent official shall have\nthe power to order the person having made the notif ication or having applied for the\nregistration to correct or complete it within seven days from the receipt date of such order.\nIn operating the business, the person having made the notification or having applied\nfor the registration under paragraph one shall comply with the rules prescribed in the Royal\nDecree and those prescribed by the Commission.\nIf the person having made the notification or having applied for the registration\nunder paragraph one fails to correct  the inaccurate or incomplete notification or registration\nunder paragraph two, or violates or fails to comply with the rules for the business operation\nunder paragraph three, the Commission shall consider and issue an order imposing an\nadministrative fine not exceeding one million Baht, taking into account the severity of the\noffence and, in case where it deems fit, the Commission may issue an order requiring such\nperson to take any corrective action as appropriate.\nThe rules used for determination to impose an admin istrative fine shall be as\nprescribed by the Commission.  If the person subject to administrative fine fails to make\npayment, the provisions relating to the administrat ive execution under the law on\nadministrative procedure shall apply mutatis mutandis.  In case where there is no official to\nproceed with the execution in accordance with such order, the Commission shall be\nempowered to bring a lawsuit before the Administrative Court to enforce payment of the\nfine.  In this connection, if the Administrative Court has a view that the order imposing the\n\nThis translation is provided by Electronic Transact ions Development Agency as the competent authority for information purposes only. Whilst\nElectronic Transactions Development Agency has made  efforts to ensure the accuracy and correctness of the translation, the original Thai text as\nformally adopted and published shall in all events remain the sole authoritative text having the force of law.\nfine is lawful, the Administrative Court shall be empowered to try and adjudicate the case\nand order the seizure or attachment of the property for sale by auction to pay for the fine.\nIn case where the person committing the offence under paragraph four fails to\nmake correction in accordance with the order of the Commission or repeats the offence, the\nCommission shall be empowered to issue an order prohibiting such person from further\noperating the business as notified or registered."
+   }
+  },
+  {
+   "id": "TH-H1098-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34.   In case where a Royal Decree is issued prescribin g the service"
+   },
+   "text": {
+    "en": "Section 34.   In case where a Royal Decree is issued prescribin g the service\nbusiness relating to electronic transactions which shall be subject to prior licence, the\nperson wishing to operate such business shall apply for such licence with the competent\nofficial as prescribed in the Royal Decree.\nThe qualifications of the applicant for the licence, the rules and procedures for\napplying for the licence, the licence issuance, the licence renewal, the return of the licence,\nthe suspension or revocation of the licence shall be as prescribed in the Royal Decree.\nIn operating the business, the person who has obtai ned the licence under\nparagraph one shall comply with the rules prescribed in the Royal Decree and those\nprescribed by the Commission or conditions stipulated in the licence.\nIn case the person who has obtained the licence violates or fails to comply with the\nrules for operating the service business relating to electronic transactions under paragraph\nthree, the Commission shall be empowered to consider and issue an order imposing an\nadministrative fine not exceeding two million Baht, taking into account of the severity of the\noffence.  In case where it deems fit, the Commission may issue an order requiring such\nperson to take any corrective action as appropriate.  In this connection, the provisions of"
+   }
+  },
+  {
+   "id": "TH-H1098-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "section 33, paragraph five, shall apply mutatis mutandis."
+   },
+   "text": {
+    "en": "section 33, paragraph five, shall apply mutatis mutandis.\nIf the person committing the offence under paragraph four fails to make correction\nin accordance with the order of the Commission or repeats the offence, the Commission\nshall be empowered to issue an order revoking the licence.\n\nThis translation is provided by Electronic Transact ions Development Agency as the competent authority for information purposes only. Whilst\nElectronic Transactions Development Agency has made  efforts to ensure the accuracy and correctness of the translation, the original Thai text as\nformally adopted and published shall in all events remain the sole authoritative text having the force of law.\nCHAPTER 4\nELECTRONIC TRANSACTIONS\nIN THE PUBLIC SECTOR"
+   }
+  },
+  {
+   "id": "TH-H1098-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 35.   An application, permission, registration, administrative order, payment,"
+   },
+   "text": {
+    "en": "Section 35.   An application, permission, registration, administrative order, payment,\nnotification or any legal action taken against or by a State agency shall, if made in the form\nof data message in accordance with the rules and procedures prescribed by the Royal\nDecree, be governed by this Act and shall have the same legal effect as those undertaken\nin accordance with the rules and procedures provided by law governing such particular\nmatter.  For this purpose, the Royal Decree may also require the person concerned to act\nor refrain from acting or require the State agency to issue rules prescribing details in certain\ncases.\nIn issuing the Royal Decree under paragraph one, such Royal Decree may require\nthe person operating the service business relating to electronic transactions to notify or\napply for registration or licence, as the case may be, prior to the commencement of the\nbusiness operation.  In this case, the provisions of Chapter 3 and the relevant penalty\nprovisions shall apply mutatis mutandis.\n\nCHAPTER 5\nELECTRONIC TRANSACTIONS COMMISSION"
+   }
+  },
+  {
+   "id": "TH-H1098-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 36.  There shall be the Electronic Transactions Commission which consists"
+   },
+   "text": {
+    "en": "Section 36.  There shall be the Electronic Transactions Commission which consists\nof the Minister of Science, Technology and Environment acting as the Chairman and the\nother twelve members appointed by the Cabinet from qualified persons, provided that, two\nqualified persons must be from each of the following fields:\n(1) finance;\n(2) electronic commerce;\n(3) law;\n(4) computer science;\n(5) science or engineering;\n(6) social science.\n\nThis translation is provided by Electronic Transact ions Development Agency as the competent authority for information purposes only. Whilst\nElectronic Transactions Development Agency has made  efforts to ensure the accuracy and correctness of the translation, the original Thai text as\nformally adopted and published shall in all events remain the sole authoritative text having the force of law.\nProvided that each qualified person from each field must be from the private sector\nand the Director of the National Electronics and Computer Technology Center, National\nScience and Technology Development Agency, shall be a member and secretary.\n  The rules and procedures in selecting and nominat ing the qualified persons to the\nCabinet for their consideration to appoint to be the Commission under paragraph one must\nbe in accordance with the rules prescribed by the Minister.\nThe secretary shall appoint no more than two persons as assistant secretaries."
+   }
+  },
+  {
+   "id": "TH-H1098-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 37.  The Electronic Transaction Commission shall have the following"
+   },
+   "text": {
+    "en": "Section 37.  The Electronic Transaction Commission shall have the following\nauthorities and duties:\n(1) To make recommendation to the Cabinet to lay down policies for promotion and\ndevelopment of electronic transactions including solving relevant problems and obstacles;\n(2) To monitor and supervise the operation of service business relating to electronic\ntransactions;\n(3) To make recommendation or give advice to the Minister to issue Royal Decrees\npursuant to this Act.\n(4) To issue rules or notifications relating to electronic signature in compliance  with\nthis Act or the Royal Decrees issued pursuant to this Act.\n(5) To perform any other act in compliance with this Act or other laws.\nIn performing acts under this Act, the Commission shall be an official under the\nPenal Code."
+   }
+  },
+  {
+   "id": "TH-H1098-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 38.   A qualified member shall hold the position for a term of three years."
+   },
+   "text": {
+    "en": "Section 38.   A qualified member shall hold the position for a term of three years.\nA retired member may be re-appointed for no more than two consecutive terms."
+   }
+  },
+  {
+   "id": "TH-H1098-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 39.   Other than retirement by rotation under Section 3 8, a qualified"
+   },
+   "text": {
+    "en": "Section 39.   Other than retirement by rotation under Section 3 8, a qualified\nmember shall be discharged from the position upon:\n(1) death;\n(2) resignation;\n(3) being removed by the Cabinet due to misbehavior, negligence or dishonesty,  or\nlack of competence;\n(4) being an incompetent or quasi-incompetent person;\n\nThis translation is provided by Electronic Transact ions Development Agency as the competent authority for information purposes only. Whilst\nElectronic Transactions Development Agency has made  efforts to ensure the accuracy and correctness of the translation, the original Thai text as\nformally adopted and published shall in all events remain the sole authoritative text having the force of law.\n(5) having been imprisoned by a final judgement, except in a case where an offence\ncommitted through negligence or a petty offence.\nSection 40.   In case where a qualified person is discharged from the position under"
+   }
+  },
+  {
+   "id": "TH-H1098-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "section 39, it shall be deemed that the Commission consists of the remaining members and"
+   },
+   "text": {
+    "en": "section 39, it shall be deemed that the Commission consists of the remaining members and\na new member must be appointed to fill such vacancy within sixty days from the date the\nmember is discharged from the office.\nThe member appointed to fill such vacancy shall remain in office for the balance of\nthe term of the replaced member."
+   }
+  },
+  {
+   "id": "TH-H1098-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 41.   The quorum of the Commission’s meeting shall consist of no less than"
+   },
+   "text": {
+    "en": "Section 41.   The quorum of the Commission’s meeting shall consist of no less than\none-half of the total number of its members.\nIf the Chairman is not present at the meeting or is unable to perform his duty, the\nCommission shall elect one of its members to act as the Chairman of the meeting.\nA decision of the meeting shall be made by a majority votes.  Each member shall\nhave one vote. In case of a tied vote, the Chairman shall have a second or casting vote."
+   }
+  },
+  {
+   "id": "TH-H1098-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 42.   The Commission shall have the power to appoint a sub-committee to"
+   },
+   "text": {
+    "en": "Section 42.   The Commission shall have the power to appoint a sub-committee to\nconsider or perform any act on behalf of the Commission.\nThe provision of Section 41 shall apply to a meeting of the sub-committee mutatis\nmutandis."
+   }
+  },
+  {
+   "id": "TH-H1098-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 43.   The National Electronics and Computer Technology Center, National"
+   },
+   "text": {
+    "en": "Section 43.   The National Electronics and Computer Technology Center, National\nScience and Technology Development Agency shall be the secretariat of the Commission.\n\nCHAPTER 6\nPENALTIES"
+   }
+  },
+  {
+   "id": "TH-H1098-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 44.   Any person operating the service business relatin g to electronic"
+   },
+   "text": {
+    "en": "Section 44.   Any person operating the service business relatin g to electronic\ntransactions without notifying or applying for registration with the competent official as\nprescribed by the Royal Decree under Section 33, paragraph one, or in violation of  the\nprohibition order to operate business of the Commission pursuant to Section 33, paragraph\n\nThis translation is provided by Electronic Transact ions Development Agency as the competent authority for information purposes only. Whilst\nElectronic Transactions Development Agency has made  efforts to ensure the accuracy and correctness of the translation, the original Thai text as\nformally adopted and published shall in all events remain the sole authoritative text having the force of law.\nsix, shall be liable to imprisonment for a term of not more than one year, or to a fine of not\nmore than one hundred thousand Baht, or both."
+   }
+  },
+  {
+   "id": "TH-H1098-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 45.   Any person operating the service business relatin g to electronic"
+   },
+   "text": {
+    "en": "Section 45.   Any person operating the service business relatin g to electronic\ntransactions without acquiring a license pursuant t o Section 34 shall be liable to\nimprisonment for a term of not more than two years, or to a fine of not more than two\nhundred thousand Baht, or both."
+   }
+  },
+  {
+   "id": "TH-H1098-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 46.   All offences under this Act, if committed by a ju ristic person, the"
+   },
+   "text": {
+    "en": "Section 46.   All offences under this Act, if committed by a ju ristic person, the\nmanager or representative of the juristic person or the person participating in the operation\nof that juristic person shall also be liable to such offence, unless such person can prove\nthat he did not know about such offence or did not participating in committing such offence.\n\nCountersigned by:\nPol. Lieutenant Colonel Taksin Shinawatre\nPrime Minister\n\nThis translation is provided by Electronic Transact ions Development Agency as the competent authority for information purposes only. Whilst\nElectronic Transactions Development Agency has made  efforts to ensure the accuracy and correctness of the translation, the original Thai text as\nformally adopted and published shall in all events remain the sole authoritative text having the force of law.\nNote :- The reasons for promulgation of this Act are as follows: At present, the\ncommunication methods are likely to be adjusted bas ed on the development of the\nelectronic technology which is convenient, fast and efficient.  However, the methods of such\nelectronic transactions are greatly different from those of transactions supported by existing\nlaws.  This results in the necessity to provide leg al recognition of data messages by\ntreating them the same as the message made or evidenced in writing, recognition methods\nof dispatch and receipt of data messages, use of el ectronic signatures, including the\nevidential admissibility of data messages, aiming to promote the reliability of electronic\ntransactions to enable them to have the same legal effect as that given to transactions\nmade by traditional means.  The Electronic Transactions Commission should also be set up\nto lay down policies and prescribe rules to promote electronic transactions to monitor the\nbusiness operation of electronic transactions.  Its duties shall include to promote the\ndevelopment of technology to monitor the development of technology which is constantly\nchanging,so that the reliable standards can be achieved. In addition,it is to give advice to\nresolve problems and obstacles in order to promote the use of electronic transactions\ndomestically and internationally.  The foregoing can be achieved by adopting a law in line\nwith internationally recognised standard. It is, therefore, necessary to promulgate this Act."
+   }
+  }
+ ]
+}

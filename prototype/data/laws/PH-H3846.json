@@ -1,0 +1,64 @@
+{
+ "id": "PH-H3846",
+ "title": {
+  "zh": "对《修订刑法典》的修改",
+  "en": "An Act to Amend Section Two, Paragraph (d), Article Three Hundred Fifteen of Act Numbered Thirty-Eight Hundred and Fifteen, as Amended, Otherwise Known as the Revised Penal Code",
+  "orig": "An Act to Amend Section Two, Paragraph (d), Article Three Hundred Fifteen of Act Numbered Thirty-Eight Hundred and Fifteen, as Amended, Otherwise Known as the Revised Penal Code"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p54",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1967-06-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4885",
+ "officialCode": null,
+ "topics": [
+  "criminal"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 899,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1967/ra_4885_1967.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1967/ra_4885_1967.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3846-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section Two, Paragraph (d), Article Three hundred fifteen of Act Numbered Thirty-eight hundred and fifteen is hereby amended to read as follows:\n\"Sec. 2. By means of any of the following false pretenses or fraudulent acts executed prior to or simultaneously with the commission of the fraud:\n\"(d) By postdating a check, or issuing a check in payment of an obligation when the offender had no funds in the bank, or his funds deposited therein were not sufficient to cover the amount of the check. The failure of the drawer of the check to deposit the amount necessary to cover his check within three (3) days from receipt of notice from the bank and/or the payee or holder that said check has been dishonored for lack or insufficiency of funds shall be prima facie evidence of deceit constituting false pretense or fraudulent act.\""
+   }
+  },
+  {
+   "id": "PH-H3846-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967"
+   }
+  }
+ ]
+}

@@ -1,0 +1,586 @@
+{
+ "id": "SG-H1646",
+ "title": {
+  "zh": null,
+  "en": "Government Procurement Regulations 2014",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p21",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation GPA1997-RG2",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 34,
+ "chars": 42741,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/GPA1997-RG2?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 34 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1646-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations are the Government Procurement Regulations 2014."
+   }
+  },
+  {
+   "id": "SG-H1646-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“applicable supplier” means —\n(a)a relevant supplier;\n(b)a relevant Protocol supplier; or\n(c)a supplier, or a supplier belonging to a class of suppliers, set out in an order published in the Gazette under section 7(2)(b) of the Act;\n“applicable supplier established in Singapore” means an applicable supplier —\n(a)who is registered under the Business Registration Act 2014 and is habitually resident in Singapore; or\n(b)which is a company or association or body of persons, corporate or unincorporate, which is formed under the laws of Singapore and has its principal place of business in Singapore;\n“approved medium” means the Gazette or the Government Electronic Business (GeBIZ);\n“commercial goods or services” means goods or services of a type generally sold or offered for sale in the commercial marketplace to, and customarily purchased by, non‑governmental buyers for non‑governmental purposes;\n“electronic auction” means an iterative process that involves the use of electronic means for the presentation by suppliers of either new prices, or new values for quantifiable non‑price elements of a tender related to an evaluation criteria, or both, resulting in the ranking or re‑ranking of tenders;\n“in writing” or “written” means any worded or numbered expression that can be read, reproduced and later communicated and includes electronically transmitted and stored information;\n“limited tendering” means a procurement method whereby the contracting authority contacts a supplier or suppliers of its choice to submit a tender;\n“multi-use list” means a list of suppliers that a contracting authority has determined satisfy the conditions for participation in that list, and that the contracting authority intends to use more than once;\n“notice of intended procurement” means a notice published by a contracting authority inviting interested suppliers to submit a request for participation, a tender, or both;\n“notice of planned procurement”, in relation to a contracting authority, means a notice regarding the contracting authority’s future procurement plan;\n“open tendering” means a procurement method whereby all interested suppliers may submit a tender;\n“Order” means the Government Procurement (Application) Order 2002;\n“qualification procedure” means the procedure which a supplier has to undertake to be eligible to become a qualified supplier;\n“qualified supplier” means a supplier who has been shortlisted, pursuant to a qualification of suppliers, for a procurement;\n“recurring contract” means one of 2 or more contracts resulting from a single requirement for a procurement;\n“selective tendering” means a procurement method whereby only qualified suppliers are invited by a contracting authority to submit a tender;\n“standard” means a document approved by a recognised body that provides for common and repeated use, rules, guidelines or characteristics for goods or services, or related processes and production methods, with which compliance is not mandatory;\n“technical specification” means a tendering requirement that —\n(a)lays down the characteristics of goods or services to be procured, including quality, performance, safety and dimensions, or the processes and methods for their production or provision; or\n(b)addresses terminology, symbols, packaging, marking or labelling requirements, as they apply to goods or services;\n“tender documentation” means a document which sets out the invitation to tender for or to negotiate a procurement contract, the terms and conditions of the contract, the specifications or descriptions of the goods or services, or goods and services, to be procured under the contract, or a document supplementary to any of these documents."
+   }
+  },
+  {
+   "id": "SG-H1646-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Application of Regulations"
+   },
+   "text": {
+    "en": "3.—(1) These Regulations apply to a procurement subject to the Act by a contracting authority in relation to a relevant State or a relevant Protocol State specified in the Order.\n(2) These Regulations do not apply to —\n(a)any procurement which is excluded under paragraph 5 of the Order;\n(b)any acquisition or rental of land, existing buildings or other immovable property or the rights thereon;\n(c)any non‑contractual agreement or any form of assistance that a contracting authority provides, including any co‑operative agreement, grant, loan, equity infusion, guarantee or fiscal incentive;\n(d)any procurement or acquisition of a fiscal agency or depository service, a liquidation and management service for a regulated financial institution or a service related to the sale, redemption and distribution of public debt, including loans, government bonds, notes and other securities;\n(e)any contract of employment with a contracting authority;\n(f)any procurement conducted —\n(i)for the specific purpose of providing international assistance, including development aid;\n(ii)under the particular procedure or condition of an international agreement relating to the stationing of troops or relating to the joint implementation by the signatory countries of a project; or\n(iii)under the particular procedure or condition of an international organisation, or funded by international grants, loans or other assistance where the applicable procedure or condition would be inconsistent with these Regulations; or\n(g)any goods or service procured —\n(i)with a view to commercial sale or resale; or\n(ii)for use in the production or supply of goods or services for commercial sale or resale.\n(3) Subject to paragraphs (1) and (2), these Regulations apply to any procurement by a contracting authority, whether or not the procurement is conducted exclusively or partially by electronic means."
+   }
+  },
+  {
+   "id": "SG-H1646-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Principles of national treatment and non-discrimination"
+   },
+   "text": {
+    "en": "4.—(1) A reference in these Regulations to the principles of national treatment and non‑discrimination is a reference to the following principles:\n(a)that the goods and services of a relevant State or a relevant Protocol State are not to be treated less favourably than Singapore goods and services or the goods and services of any other relevant State or relevant Protocol State;\n(b)that an applicable supplier is not to be treated less favourably than any other applicable supplier;\n(c)that an applicable supplier established in Singapore is not to be treated less favourably than any other applicable supplier established in Singapore on the basis of the degree of foreign affiliation or ownership;\n(d)that an applicable supplier established in Singapore is not to be discriminated against on the basis of the country of production of the goods or services offered by that particular supplier, if the country of production is a relevant State or a relevant Protocol State.\n(2) Despite anything in these Regulations, the principles of national treatment and non‑discrimination do not apply to any of the following:\n(a)the imposition of customs duty, or any charge on or in connection with the import of goods;\n(b)the method of levying such duty or charge;\n(c)any act the performance of which is required by any written law relating to import of goods, and any act incidental to or consequential upon such requirement."
+   }
+  },
+  {
+   "id": "SG-H1646-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Undertaking of procurement by agent"
+   },
+   "text": {
+    "en": "5. Where a contracting authority, undertakes a procurement through an agent who is not a contracting authority, the principles of national treatment and non‑discrimination apply to the requirements of that procurement."
+   }
+  },
+  {
+   "id": "SG-H1646-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Procurement by electronic means"
+   },
+   "text": {
+    "en": "6. Where a contracting authority conducts a procurement by electronic means, the contracting authority must —\n(a)ensure that the procurement is conducted using information technology systems and software, including those related to authentication and encryption of information, that are generally available and interoperable with other generally available information technology systems and software; and\n(b)maintain mechanisms that ensure the integrity of requests for participation and tenders, including establishment of the time of receipt of and the prevention of inappropriate access to requests for participation and tenders."
+   }
+  },
+  {
+   "id": "SG-H1646-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Conduct of procurement"
+   },
+   "text": {
+    "en": "7. A contracting authority must conduct procurement in a transparent and impartial manner that —\n(a)is consistent with these Regulations;\n(b)avoids conflicts of interest; and\n(c)prevents corrupt practices."
+   }
+  },
+  {
+   "id": "SG-H1646-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Rules of origin"
+   },
+   "text": {
+    "en": "8. A contracting authority must not apply rules of origin to goods or services imported from or supplied by a relevant State or a relevant Protocol State that are different from rules of origin the contracting authority applies at the same time in the normal course of trade to imports or supplies of the same goods or services from the same relevant State or relevant Protocol State, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H1646-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Offsets"
+   },
+   "text": {
+    "en": "9.—(1) A contracting authority must not seek, take account of, impose or enforce any offset.\n(2) In this regulation, “offset” means any condition or undertaking that encourages local development, or improves the Government’s balance‑of‑payments accounts, by means of —\n(a)domestic content;\n(b)licensing of technology;\n(c)investment;\n(d)counter-trade; or\n(e)other similar action or requirement."
+   }
+  },
+  {
+   "id": "SG-H1646-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 PROCEDURE LEADING TO AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Notice of intended procurement"
+   },
+   "text": {
+    "en": "10.—(1) For each procurement, a contracting authority must publish a notice of intended procurement in an approved medium, except in the circumstances described in regulation 26.\n(2) Except as otherwise provided in these Regulations, a notice of intended procurement by a contracting authority must contain the following information:\n(a)the name and address of the contracting authority and other information necessary to contact the contracting authority and obtain all relevant documents relating to the procurement, and the cost of and terms of payment for such documents, if any;\n(b)a description of the procurement, including the nature and quantity of the goods or services to be procured or, where the quantity is not known, the estimated quantity;\n(c)in the case of a recurring contract, an estimate, where possible, of the timing of subsequent notices of intended procurement;\n(d)a description of options, where applicable;\n(e)the date of delivery of the goods, the date of performance of the service, or the duration of the contract;\n(f)the procurement method that will be used and whether it will involve negotiation or electronic auction;\n(g)where applicable, the address and any final date for the submission of requests for participation in the procurement;\n(h)the address and the final date for the submission of tenders;\n(i)the language in which a request for participation or tender is to be submitted;\n(j)a list and brief description of the conditions for participation of suppliers, including any requirements for specific documents or certifications to be provided by suppliers in connection therewith, unless such requirements are included in the tender documentation that is made available to all interested suppliers at the same time as the notice of intended procurement;\n(k)where, pursuant to regulation 14, a contracting authority intends to select a limited number of qualified suppliers to be invited to tender, the criteria that will be used to select them and, where applicable, any limitation on the number of suppliers that will be permitted to tender;\n(l)a statement that the procurement is covered by the Agreement on Government Procurement."
+   }
+  },
+  {
+   "id": "SG-H1646-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 PROCEDURE LEADING TO AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Summary notice"
+   },
+   "text": {
+    "en": "11.—(1) For each procurement, a contracting authority must publish a summary notice that is readily accessible, at the same time as the publication of the notice of intended procurement.\n(2) A summary notice must contain the following information:\n(a)the subject‑matter of the procurement;\n(b)the final date for the submission of tenders or, where applicable, any final date for the submission of requests for participation in the procurement or for inclusion on a multi‑use list;\n(c)the address from which documents relating to the procurement may be requested."
+   }
+  },
+  {
+   "id": "SG-H1646-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 PROCEDURE LEADING TO AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Notice of planned procurement"
+   },
+   "text": {
+    "en": "12.—(1) A contracting authority may publish in the approved medium as early as possible in each financial year of the contracting authority, a notice of planned procurement.\n(2) The notice of planned procurement mentioned in paragraph (1) must include the subject‑matter of the procurement and the planned date of the publication of the notice of intended procurement.\n(3) A contracting authority listed in Part 2 of the Second Schedule to the Order may use a notice of planned procurement as a notice of intended procurement if the notice of planned procurement includes as much of the information referred to in regulation 10(2) as is available to the contracting authority and a statement that interested suppliers should express their interest in the procurement to the contracting authority."
+   }
+  },
+  {
+   "id": "SG-H1646-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 PROCEDURE LEADING TO AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Conditions for participation"
+   },
+   "text": {
+    "en": "13.—(1) A contracting authority must limit conditions for participation of suppliers in a procurement to those that are essential to ensure that a supplier has the legal and financial capacities and the commercial and technical abilities to undertake the procurement.\n(2) In establishing the conditions for participation of suppliers in a procurement, a contracting authority —\n(a)must not impose the condition that, in order for a supplier to participate in a procurement, the supplier must have been previously awarded one or more contracts by any contracting authority; and\n(b)may impose the condition that a supplier is to have relevant prior experience where such experience is essential to meet the requirements of the procurement.\n(3) In assessing whether a supplier satisfies the conditions for participation of suppliers in a procurement, a contracting authority —\n(a)must evaluate the financial capacities and the commercial and technical abilities of a supplier on the basis of that supplier’s business activities regardless whether the activities are inside or outside Singapore; and\n(b)must base its evaluation on those conditions of participation that the contracting authority has specified in advance in the notice of intended procurement or tender documentation related to the procurement.\n(4) A contracting authority may exclude a supplier from participation in a procurement, or treat the supplier as ineligible to tender for the procurement, or refuse to shortlist the supplier for the procurement, on any of the following grounds:\n(a)the supplier, being an individual, is bankrupt or has made any composition or arrangement for the benefit of his or her creditors;\n(b)the supplier, being a company, has passed a resolution or is the subject of an order by a court for the company’s winding up otherwise than for the purposes of bona fide reconstruction or amalgamation, or has had a receiver, manager or administrator on behalf of a creditor appointed in respect of the company’s business or any part thereof;\n(c)the supplier has furnished any false information or document to the contracting authority;\n(d)the supplier has committed significant or persistent breaches in the performance of any substantive requirement or obligation under any contract with any contracting authority;\n(e)the supplier has been convicted of any offence involving fraud, dishonesty or moral turpitude;\n(f)the supplier has committed professional misconduct or acts or omissions that adversely reflect on the commercial integrity of the supplier;\n(g)the supplier has failed to pay taxes under any written law;\n(h)any other ground for the debarment of suppliers published in an approved medium."
+   }
+  },
+  {
+   "id": "SG-H1646-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 2 PROCEDURE LEADING TO AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Registration system and qualification procedure"
+   },
+   "text": {
+    "en": "14.—(1) A contracting authority may maintain a supplier registration system requiring interested suppliers to register and provide certain information.\n(2) A contracting authority must not adopt or apply any registration system or qualification procedure with the purpose or the effect of creating unnecessary obstacles to the participation of suppliers in its procurement."
+   }
+  },
+  {
+   "id": "SG-H1646-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 2 PROCEDURE LEADING TO AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Multi-use list"
+   },
+   "text": {
+    "en": "15.—(1) Subject to paragraph (3), a contracting authority may maintain a multi‑use list of suppliers, provided that a notice inviting interested suppliers to apply for inclusion on the multi‑use list is —\n(a)published annually; and\n(b)where published by electronic means, made available continuously.\n(2) The notice mentioned in paragraph (1) must include the following information:\n(a)a description of the goods or services, or categories thereof, for which the multi‑use list may be used;\n(b)the conditions for participation to be satisfied by suppliers for inclusion on the multi‑use list and the methods that the contracting authority will use to verify that a supplier satisfies the conditions;\n(c)the name and address of the contracting authority and other information necessary to contact the contracting authority and obtain all relevant documents relating to the multi‑use list;\n(d)the period of validity of the multi‑use list and the means for its renewal or termination, or where the period of validity is not provided, an indication of the method by which notice will be given of the termination of use of the multi‑use list;\n(e)a statement that the multi‑use list may be used for procurements to which these Regulations apply.\n(3) In the case of a multi‑use list with a validity period of 3 years or less, the contracting authority may publish the notice mentioned in paragraph (1) only once at the beginning of the period of validity of the multi‑use list, if —\n(a)the notice states —\n(i)the validity period of the multi‑use list; and\n(ii)that no further notice mentioned in paragraph (1) will be published; and\n(b)the notice is published by electronic means and is made available continuously during the validity period of the multi‑use list.\n(4) A contracting authority must allow suppliers to apply at any time during the validity period of the multi‑use list for inclusion on a multi‑use list and must include on the multi‑use list all qualified suppliers within a reasonably short time.\n(5) Where a supplier that is not included on a multi‑use list submits a request for participation in a procurement based on a multi‑use list and all required documents, within the time period provided for in regulation 22(1), a contracting authority —\n(a)must examine the request; and\n(b)must not exclude the supplier from consideration in respect of the procurement on the grounds that the contracting authority has insufficient time to examine the request, unless, in exceptional cases, due to the complexity of the procurement, the contracting authority is unable to complete the examination of the request within the time period allowed for the submission of tenders."
+   }
+  },
+  {
+   "id": "SG-H1646-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 2 PROCEDURE LEADING TO AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Multi-use list by certain contracting authorities"
+   },
+   "text": {
+    "en": "16.—(1) A contracting authority listed in Part 2 of the Second Schedule to the Order may use a notice inviting suppliers to apply for inclusion on a multi‑use list as a notice of intended procurement, if —\n(a)the notice is published in accordance with regulation 15(1) (read with regulation 15(3)) and includes the information required under regulation 15(2), as much of the information required under regulation 10(2) as is available and a statement that it constitutes a notice of intended procurement or that only the suppliers on the multi‑use list will receive further notices of procurement covered by the multi‑use list; and\n(b)the contracting authority promptly provides to suppliers that have expressed an interest in a given procurement to the contracting authority, sufficient information to permit them to assess their interest in the procurement, including all remaining information required under regulation 10(2), to the extent that such information is available.\n(2) A contracting authority listed in Part 2 of the Second Schedule to the Order may allow a supplier that has applied for inclusion on a multi‑use list in accordance with regulation 15(4) to tender in a given procurement, where there is sufficient time for the contracting authority to examine whether the supplier satisfies the conditions for participation."
+   }
+  },
+  {
+   "id": "SG-H1646-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 2 PROCEDURE LEADING TO AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Information on contracting authority’s decision"
+   },
+   "text": {
+    "en": "17.—(1) A contracting authority must promptly inform any supplier that submits a request for participation in a procurement or application for inclusion on a multi‑use list of the contracting authority’s decision with respect to the request or application.\n(2) Where a contracting authority rejects a supplier’s request for participation in a procurement or application for inclusion on a multi‑use list, ceases to recognise the supplier as qualified, or removes the supplier from a multi‑use list, the contracting authority must promptly inform the supplier and, on the request of the supplier, promptly provide the supplier with a written explanation of the reasons for its decision."
+   }
+  },
+  {
+   "id": "SG-H1646-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 2 PROCEDURE LEADING TO AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Technical specifications"
+   },
+   "text": {
+    "en": "18.—(1) A contracting authority must not prepare, adopt or apply any technical specification or prescribe any conformity assessment procedure with a view to, or with the effect of, avoiding the application of these Regulations.\n(2) Technical specifications issued by a contracting authority must, where appropriate —\n(a)be in terms of performance and functional requirements rather than design or descriptive characteristics; and\n(b)be based on the applicable international standard or, if no such standard exists, on the applicable standard in Singapore.\n(3) Where design or descriptive characteristics are used in the technical specifications, a contracting authority should indicate, where appropriate, that it will consider tenders of equivalent goods or services that demonstrably fulfil the requirements of the procurement by including words such as “or equivalent” in the tender documentation.\n(4) The technical specifications must not refer —\n(a)to any goods —\n(i)bearing a particular trade mark or trade name;\n(ii)using a particular patent, copyright, design or type;\n(iii)produced by a particular producer;\n(iv)supplied by a particular supplier; or\n(v)originating from a particular place; or\n(b)to any service —\n(i)bearing a particular trade mark or trade name; or\n(ii)supplied by a particular supplier or a supplier from a particular place,\nunless the requirements of the procurement cannot be described in a manner that is sufficiently precise or intelligible, in which case the reference must be accompanied by the words “or equivalent”.\n(5) A contracting authority must not seek or accept, in a manner which will have the effect of precluding competition, advice which may be used in preparing technical specifications for a procurement, from a person who has or who is likely to have a commercial interest in the procurement.\n(6) A contracting authority may, in accordance with this regulation, prepare, adopt or apply technical specifications to promote the conservation of natural resources or protect the environment."
+   }
+  },
+  {
+   "id": "SG-H1646-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 2 PROCEDURE LEADING TO AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Tender documentation"
+   },
+   "text": {
+    "en": "19.—(1) A contracting authority must make available to suppliers tender documentation which contains such information as may be necessary to enable them to prepare and submit responsive tenders.\n(2) Unless already provided for in the notice of intended procurement, the information referred to in paragraph (1) must include —\n(a)the procurement, including the nature and quantity of the goods or services to be procured or, where the quantity is not known, the estimated quantity and any requirements to be fulfilled, including any technical specifications, conformity assessment certification, plans, drawings or instructional materials;\n(b)any conditions for participation of suppliers, including a list of information and documents that suppliers are required to submit in connection with the conditions for participation;\n(c)all evaluation criteria the contracting authority will apply in the awarding of the contract, and, except where price is the sole criterion, the relative importance of such criteria;\n(d)where the contracting authority will conduct the procurement by electronic means, any authentication and encryption requirements or other requirements related to the submission of information by electronic means;\n(e)where the contracting authority will hold an electronic auction, the rules, including identification of the elements of the tender related to the evaluation criteria, on which the auction will be conducted;\n(f)where there will be a public opening of tenders, the date, time and place for the opening and, where appropriate, the persons authorised to be present;\n(g)any other terms or conditions, including terms of payment and any limitation on the means by which tenders may be submitted, such as whether on paper or by electronic means; and\n(h)any date for the delivery of goods or the performance of services.\n(3) A contracting authority must, in fixing the date for the delivery of goods or the performance of services, take into account —\n(a)the complexity of the procurement;\n(b)the extent of anticipated sub‑contracting; and\n(c)the realistic time required for the production, de‑stocking and transport of goods from the point of supply or for the performance of services, as the case may be.\n(4) The evaluation criteria set out in the notice of intended procurement or tender documentation may include, price and other cost factors, quality, technical merit, environmental characteristics and terms of delivery.\n(5) A contracting authority must promptly —\n(a)in the case of open tendering, make available tender documentation to ensure that interested suppliers have sufficient time to submit responsive tenders;\n(b)in the case of selective tendering, provide, on request, the tender documentation to any interested supplier; and\n(c)reply to any reasonable request for relevant information by any interested or participating supplier, provided that such information does not give that supplier an advantage over other suppliers."
+   }
+  },
+  {
+   "id": "SG-H1646-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 2 PROCEDURE LEADING TO AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Modifications"
+   },
+   "text": {
+    "en": "20. Where, prior to the award of a contract, a contracting authority modifies the criteria or requirements set out in the notice of intended procurement or tender documentation provided to participating suppliers, or amends or re‑issues a notice or tender documentation, the contracting authority must transmit in writing such modifications or amended or re‑issued notice or tender documentation —\n(a)to all suppliers that are participating at the time of the modification, amendment or re‑issuance, where those suppliers are known to the contracting authority, and in all other cases, in the same manner as the original information was made available; and\n(b)in adequate time to allow the suppliers to modify and re‑submit amended tenders, as appropriate."
+   }
+  },
+  {
+   "id": "SG-H1646-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 2 PROCEDURE LEADING TO AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Time period for supplier"
+   },
+   "text": {
+    "en": "21.—(1) A contracting authority must, unless it is inconsistent with the contracting authority’s reasonable requirements, provide sufficient time period for suppliers to prepare and submit requests for participations and tenders, taking into account —\n(a)the nature and complexity of the procurement;\n(b)the extent of anticipated sub‑contracting; and\n(c)the normal time taken for the transmission of tenders by post from foreign as well as local suppliers in the case where electronic means are not used by the contracting authority.\n(2) The time period referred to in paragraph (1), including any extension of the time period, must be the same for all interested or participating suppliers."
+   }
+  },
+  {
+   "id": "SG-H1646-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 2 PROCEDURE LEADING TO AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Time period for submission of request for participation and tender"
+   },
+   "text": {
+    "en": "22.—(1) Subject to paragraphs (2) and (6), where selective tendering is used, the time period for submission of a request for participation must not be less than 25 days from the date of publication of the notice of intended procurement in an approved medium.\n(2) Where a state of urgency duly substantiated by the contracting authority renders the time period specified in paragraph (1) impracticable, the time period may be reduced to not less than 10 days.\n(3) Subject to paragraphs (4) to (9), the time period for submission of a tender must not be less than 40 days from the date on which —\n(a)in the case of open tendering — the notice of intended procurement is published in an approved medium; or\n(b)in the case of selective tendering — the suppliers are notified that they will be invited to submit tenders, whether or not a multi‑use list is used.\n(4) A contracting authority may reduce the time period for tendering established in accordance with paragraph (3) to not less than 10 days in the case where —\n(a)the contracting authority has published a notice of planned procurement mentioned in regulation 12(1) at least 40 days but not more than 12 months before the publication of the notice of intended procurement, and the notice of planned procurement contains —\n(i)a description of the procurement;\n(ii)the approximate final dates for the submission of tenders or requests for participation;\n(iii)a statement that interested suppliers should express their interest in the procurement to the contracting authority;\n(iv)the address from which documents relating to the procurement may be obtained; and\n(v)as much of the information that is required for the notice of intended procurement under regulation 10(2), as is available;\n(b)in the case of recurring contracts, the contracting authority indicates in the initial notice of intended procurement that subsequent notices of intended procurement will provide time periods for tendering based on this paragraph; or\n(c)a state of urgency, duly substantiated by the contracting authority, renders the time period for tendering established in accordance with paragraph (3) impracticable.\n(5) A contracting authority may reduce the time period for tendering established in accordance with paragraph (3) by 5 days for each of the following circumstances:\n(a)the notice of intended procurement is published by electronic means;\n(b)all the tender documentation are made available by electronic means from the date of the publication of the notice of intended procurement;\n(c)the contracting authority accepts tenders by electronic means.\n(6) In the case where paragraphs (4) and (5) apply in respect of an open tendering or a selective tendering (as the case may be) the time period established in accordance with paragraph (3) must not be less than 10 days from the date on which the notice of intended procurement is published.\n(7) Despite any other provision in this regulation, where a contracting authority purchases commercial goods or services, or any combination thereof, the contracting authority may reduce the time period for tendering established in accordance with paragraph (3) —\n(a)to not less than 13 days if the contracting authority publishes by electronic means, at the same time, both the notice of intended procurement and the tender documentation; or\n(b)to not less than 10 days if the contracting authority accepts tenders for commercial goods or services by electronic means.\n(8) Where the contracting authority is a contracting authority listed in Part 2 of the Second Schedule to the Order, the time period may be fixed by the mutual agreement between the contracting authority and the suppliers.\n(9) The contracting authority referred to in paragraph (8) may, in the absence of an agreement referred to in that paragraph, fix a time period of not less than 10 days."
+   }
+  },
+  {
+   "id": "SG-H1646-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 2 PROCEDURE LEADING TO AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Use of open tendering or selective tendering"
+   },
+   "text": {
+    "en": "23. Subject to regulation 26, a contracting authority must only use open tendering or selective tendering in undertaking a procurement."
+   }
+  },
+  {
+   "id": "SG-H1646-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 2 PROCEDURE LEADING TO AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Selective tendering"
+   },
+   "text": {
+    "en": "24.—(1) Where a contracting authority uses selective tendering, the contracting authority must —\n(a)include in the notice of intended procurement at least the information required in regulation 10(2)(a), (b), (f), (g), (j), (k) and (l) and invite suppliers to submit a request for participation; and\n(b)on or before the date of commencement of the time period for submission of the tender under regulation 22, provide the information required under regulation 10(2)(c), (d), (e), (h) and (i) to the qualified suppliers notified under regulation 22(3)(b).\n(2) A contracting authority must allow all qualified suppliers to participate in a particular procurement, unless the contracting authority states in the notice of intended procurement of any limitation as to the number of suppliers that will be permitted to tender and the criteria for selecting the limited number of suppliers.\n(3) Where the tender documentation is not made publicly available from the date of publication of the notice referred to in paragraph (1), the contracting authority must ensure that those documents are made available at the same time to all the qualified suppliers referred to in or selected in accordance with paragraph (2)."
+   }
+  },
+  {
+   "id": "SG-H1646-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 2 PROCEDURE LEADING TO AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Negotiations"
+   },
+   "text": {
+    "en": "25.—(1) A contracting authority may conduct negotiations with any supplier —\n(a)if the contracting authority has indicated its intent to conduct negotiations in the notice of intended procurement published under regulation 10(1); or\n(b)if it appears to the contracting authority that no one tender is obviously the most advantageous in terms of the evaluation criteria set out in the notice of intended procurement or tender documentation.\n(2) The contracting authority must —\n(a)ensure that any elimination of suppliers from participating in the negotiations is carried out in accordance with the evaluation criteria set out in the notice of intended procurement or tender documentation; and\n(b)when negotiations are concluded, provide a common deadline for the remaining participating suppliers to submit any new or revised tenders."
+   }
+  },
+  {
+   "id": "SG-H1646-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 2 PROCEDURE LEADING TO AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Limited tendering"
+   },
+   "text": {
+    "en": "26.—(1) A contracting authority must not carry out limited tendering with a view to avoiding competition or protecting suppliers established in Singapore or otherwise in a manner which is discriminatory against any applicable supplier.\n(2) A contracting authority may only use limited tendering for procurement in any of the following circumstances:\n(a)when open tendering or selective tendering was used but no tender was received;\n(b)when the tenders received under open tendering or selective tendering —\n(i)are not in compliance with the essential requirements specified in the tender documentation;\n(ii)were submitted by suppliers who failed to comply with the conditions for participation in the tendering procedure; or\n(iii)are collusive;\n(c)when the goods or services to be procured can only be supplied by a particular supplier and no reasonable alternative or substitute goods or services exist for any of the following reasons:\n(i)the requirement is for a work of art;\n(ii)the protection of patents, copyright or other exclusive rights;\n(iii)the absence of competition for technical reasons;\n(d)when the additional goods or services to be procured from the original supplier of goods or services were not included in the initial procurement with the original supplier and a change of supplier for those additional goods or services —\n(i)cannot be made for any economic or technical reason such as requirements of interchangeability or interoperability with existing goods, equipment, software, services or installations procured under the initial procurement; and\n(ii)would cause significant inconvenience or substantial duplication of costs for the contracting authority;\n(e)when it is strictly necessary, for reasons of extreme urgency brought about by events unforeseeable by the contracting authority, the goods or services cannot be obtained in time by means of open tendering or selective tendering;\n(f)when the goods to be procured are goods on a commodity market;\n(g)when the contracting authority procures a prototype or a first good or service, which is to be manufactured or performed, at the contracting authority’s request, in pursuance of a contract for research, experiment, study or original development;\n(h)when the procurement concerned is subject to exceptionally advantageous conditions which will only apply for a very short period, including any disposal of a non‑routine nature by a person who is not normally a supplier and the disposal of assets of any business in bankruptcy, liquidation or receivership;\n(i)when the contract is to be awarded to the winner of a design contest, being a contest —\n(i)organised in a manner which is consistent with the principles of national treatment and non‑discrimination, especially with regard to the publication, in a manner similar to that of a notice of intended procurement, of an invitation to suitably qualified suppliers to participate in the contest;\n(ii)which is judged by an independent panel of judges; and\n(iii)which is organised with a view to awarding the contract to the winner.\n(3) A contracting authority must not use limited tendering under the circumstances referred to in paragraph (2)(a), (b) and (c) unless the proposed terms and conditions of the contract are substantially unaltered from the proposed terms and conditions of the contract in relation to which tenders were sought using open tendering or selective tendering.\n(4) Where the contract for research, experiment, study or original development referred to in paragraph (2)(g) has been completed, any subsequent procurement of the goods or services concerned must be undertaken using open tendering or selective tendering.\n(5) A contracting authority using limited tendering under paragraph (2) may choose not to apply regulations 10 to 17, 19 to 22, 24, 25, 27, 28 and 29.\n(6) In this regulation —\n“existing goods” includes any software to the extent that the original procurement of the software is a procurement subject to the Act;\n“original development” includes the limited production or supply of the prototype or first good or service in question for the purposes of incorporating the results of any field test and of demonstrating that the prototype, good or service is suitable for mass‑production or mass‑supply of an acceptable quality standard, but does not include mass‑production or mass‑supply of the prototype, good or service for the purposes of establishing commercial viability or of recovering research and development costs."
+   }
+  },
+  {
+   "id": "SG-H1646-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 2 PROCEDURE LEADING TO AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Electronic auctions"
+   },
+   "text": {
+    "en": "27. Where a contracting authority conducts a procurement using an electronic auction, the contracting authority must, before commencing the electronic auction, provide each supplier participating in the electronic auction with —\n(a)the automatic evaluation method, including the mathematical formula, that is based on the evaluation criteria set out in the tender documentation and used in the automatic ranking or re‑ranking during the electronic auction;\n(b)the results of any initial evaluation of the elements of the supplier’s tender where the contract is to be awarded on the basis of the most advantageous tender; and\n(c)any other relevant information relating to the conduct of the electronic auction."
+   }
+  },
+  {
+   "id": "SG-H1646-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 2 PROCEDURE LEADING TO AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Receipt, opening and treatment of tenders"
+   },
+   "text": {
+    "en": "28.—(1) A contracting authority must receive, open and treat all tenders under the contracting authority’s procedures that ensure fairness and impartiality of the procurement process and the confidentiality of tenders.\n(2) A supplier whose tender is received after the expiry of the time limit for the submission of tenders must not be penalised if the delay is caused solely by mishandling on the part of the contracting authority.\n(3) A contracting authority must ensure that any opportunity given to a supplier to correct errors of form between the opening of tenders and the award of the contract does not result in discrimination against any other supplier participating in the tender."
+   }
+  },
+  {
+   "id": "SG-H1646-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEDURE ON AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Award of contract"
+   },
+   "text": {
+    "en": "29.—(1) To be considered for an award, a contracting authority must require a tender to be submitted in writing.\n(2) A contracting authority must only consider a tender for the award of the contract if —\n(a)the tender, at the time of its opening, conforms to the essential requirements of the notice of intended procurement and the summary notice and of the tender documentation; and\n(b)the supplier that submitted the tender has satisfied the conditions of participation in the tendering procedure.\n(3) Subject to paragraph (4), a contracting authority must award the contract to the supplier which has been determined by the contracting authority to be capable of complying with the terms and conditions of the contract and which, based on the evaluation criteria set out in the notice of intended procurement and the tender documentation, has submitted —\n(a)where price is the sole criterion, the lowest price; or\n(b)where price is not the sole criterion, the most advantageous tender.\n(4) A contracting authority may decide not to award the contract if it is of the opinion that it is in the public interest not to do so.\n(5) If a contracting authority receives from a supplier a tender which offers a price abnormally lower than other tenders submitted, the contracting authority may make enquiries from the supplier concerned to ensure that the supplier has satisfied the conditions of participation and is capable of complying with the terms and conditions of the contract.\n(6) A contracting authority must not use options, cancel a procurement or modify awarded contracts in a manner that circumvents the obligations under these Regulations."
+   }
+  },
+  {
+   "id": "SG-H1646-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEDURE ON AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Notice of award of contract"
+   },
+   "text": {
+    "en": "30.—(1) A contracting authority must publish a notice in an approved medium no later than 72 days after the date of the award of a procurement contract.\n(2) The notice referred to in paragraph (1) must contain —\n(a)a description of the goods or services procured;\n(b)the name and address of the contracting authority awarding the contract;\n(c)the name and address of the supplier to whom the contract was awarded;\n(d)the value of the contract awarded or the highest and lowest offers taken into account in the award of the contract;\n(e)the date of the award;\n(f)a statement as to whether open tendering, selective tendering or limited tendering was used for the procurement; and\n(g)in the case where limited tendering was used in accordance with regulation 26, a description of the circumstances justifying the use of limited tendering."
+   }
+  },
+  {
+   "id": "SG-H1646-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEDURE ON AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Information on award of contract"
+   },
+   "text": {
+    "en": "31.—(1) Subject to regulations 33 and 34, a contracting authority must, as soon as possible after the award of a contract in respect of a procurement using open tendering or selective tendering, inform all suppliers who had participated in the procedure of its decision on the award.\n(2) Such information must, upon request, be given in writing."
+   }
+  },
+  {
+   "id": "SG-H1646-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEDURE ON AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Provision of other information"
+   },
+   "text": {
+    "en": "32.—(1) A contracting authority must, upon request by an applicable supplier, promptly provide any information necessary to determine whether a procurement was conducted fairly, impartially and in accordance with these Regulations, including information on the characteristics and relative advantages of the successful tender.\n(2) In cases where release of the information would prejudice competition in future tenders, a contracting authority that receives the information must not disclose it to any supplier, except after consulting with, and obtaining the agreement of, the person that provided the information."
+   }
+  },
+  {
+   "id": "SG-H1646-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEDURE ON AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Non-disclosure of information"
+   },
+   "text": {
+    "en": "33. Despite any provision in these Regulations, a contracting authority must not provide a supplier any information regarding a particular procurement where such a provision might prejudice fair competition between suppliers."
+   }
+  },
+  {
+   "id": "SG-H1646-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEDURE ON AWARD OF PROCUREMENT CONTRACT"
+   },
+   "heading": {
+    "en": "Right to withhold information"
+   },
+   "text": {
+    "en": "34. Despite any provision in these Regulations, a contracting authority may refuse to publish or provide any information under these Regulations if it is of the opinion that such publication or provision may —\n(a)impede law enforcement;\n(b)prejudice fair competition between suppliers;\n(c)prejudice the legitimate commercial interests of particular persons, including the protection of intellectual property; or\n(d)otherwise be contrary to the public interest."
+   }
+  }
+ ]
+}

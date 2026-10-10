@@ -1,0 +1,80 @@
+{
+ "id": "CN-LAW-0028",
+ "title": {
+  "zh": "全国人民代表大会常务委员会关于《中华人民共和国刑事诉讼法》第七十九条第三款的解释",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p01",
+ "language": "zh",
+ "level": "law",
+ "category": "法律",
+ "status": "active",
+ "promulgatedDate": "2014-04-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "全国人民代表大会常务委员会",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 242,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\法律\\全国人民代表大会常务委员会关于《中华人民共和国刑事诉讼法》第七十九条第三款的解释_20140424.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，第七十九条至第七十九条，共 1 条；来源为项目数据资源中的官方汇编文件（全国人民代表大会常务委员会关于《中华人民共和国刑事诉讼法》第七十九条第三款的解释_20140424.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-LAW-0028-A79",
+   "no": 79,
+   "noLabel": {
+    "zh": "第七十九条"
+   },
+   "text": {
+    "zh": "第三款的解释\n（2014年4月24日第十二届全国人民代表大会常务委员会第八次会议通过）\n全国人民代表大会常务委员会根据司法实践中遇到的情况，讨论了刑事诉讼法第七十九条第三款关于违反取保候审、监视居住规定情节严重可以逮捕的规定，是否适用于可能判处徒刑以下刑罚的犯罪嫌疑人、被告人的问题，解释如下：\n根据刑事诉讼法第七十九条第三款的规定，对于被取保候审、监视居住的可能判处徒刑以下刑罚的犯罪嫌疑人、被告人，违反取保候审、监视居住规定，严重影响诉讼活动正常进行的，可以予以逮捕。\n现予公告。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "law",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "全国人民代表大会常务委员会关于《中华人民共和国刑事诉讼法》第七十九条第三款的解释"
+  },
+  "issuingBody": {
+   "zh": "全国人民代表大会常务委员会"
+  },
+  "promulgatedDate": "2014-04-24",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "法律"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

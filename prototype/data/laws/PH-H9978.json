@@ -1,0 +1,55 @@
+{
+ "id": "PH-H9978",
+ "title": {
+  "zh": null,
+  "en": "Social Security. Act of 2018",
+  "orig": "An Act Granting the President of the Philippines the Power to Defer the Increases in Contributions of the Social Security System for the Duration of the State of Calamity Under Proclamation No.929, s. 2020, as Amended By Proclamation No. 1021, S. 2020, Amending Section 4(A)(9) of Republic Act No. 11199, Also Known as the \"Social Security. Act of 2018\""
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p142",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2021-05-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 11548",
+ "officialCode": null,
+ "topics": [
+  "labor",
+  "defence"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 1841,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2021/ra_11548_2021.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 1 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2021/ra_11548_2021.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H9978-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section 4(a)(9) of Republic Act No. 11199, also known as the \"Social Security Act of 2018\", is hereby amended to read as follows:\n\"Section 4. Powers and Duties of the Commission and SSS. - \"(a) The Commission. - For the attainment of its main objectives as set forth in Section 2 hereof, the Commission shall have the following powers and duties: - \"x x x' \"(9) To implement the rate of contributions as well as the minimum and maximum monthly salary credits in accordance with the following schedule effective January of the year of implementation as follows:\nYear of Implementation\nContribution Rate\nShare\nMonthly Salary Credit\nEmployer\nEmployee\nMinimum\nMaximum 12% 8% 4% P2,000.00 P20,000.00 12% 8% 4% P2,000.00 P20,000.00 13%\n8.5%\n4.5% P3,000.00 P25,000.00 13%\n8.5%\n4.5% P3,000.00 P25,000.00 14%\n9.5%\n4.5% P4,000.00 P30,000.00 14%\n9.5%\n4.5% P4,000.00 P30,000.00 15% 10% 5% P5,000.00 P35,000.00 \" Provided, That the domestic workers or \"kasambahays\" as defined under Republic Act No. 10361 or the Batas Kasambahay who are receiving a monthly income lower than minimum monthly salary credit prescribed under this Act shall pay contributions based on their actual monthly salary: Provided, further, That members, who are subject to compulsory coverage and receiving a monthly income lower than the minimum monthly salary credit or more than the maximum monthly salary credit, and their employers, shall pay the SSS contributions based on the current minimum monthly salary credit or the maximum monthly salary credit, respectively, as provided in this Act: Provided, furthermore, That upon the recommendation of the Social Security Commission after consultation with stakeholders, the implementation of the one percent (1%) 2021 increase in contribution rates and the monthly salary credits provided in this section, may be suspended by the"
+   }
+  }
+ ]
+}

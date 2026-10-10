@@ -1,0 +1,77 @@
+{
+ "id": "CN-JI-0440",
+ "title": {
+  "zh": "最高人民法院关于适用刑法第六十四条有关问题的批复",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p11",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2013-10-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 289,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于适用刑法第六十四条有关问题的批复_20131021.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，整篇作为一条录入，共 1 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于适用刑法第六十四条有关问题的批复_20131021.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0440-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "全文"
+   },
+   "text": {
+    "zh": "最高人民法院\n关于适用刑法第六十四条有关问题的批复\n2013年10月21日      法〔2013〕229号\n河南省高级人民法院：\n你院《关于刑法第六十四条法律适用问题的请示》收悉。经研究，批复如下：\n根据刑法第六十四条和《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第一百三十八条、第一百三十九条的规定，被告人非法占有、处置被害人财产的，应当依法予以追缴或者责令退赔。据此，追缴或者责令退赔的具体内容，应当在判决主文中写明；其中，判决前已经发还被害人的财产，应当注明。被害人提起附带民事诉讼，或者另行提起民事诉讼请求返还被非法占有、处置的财产的，人民法院不予受理。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于适用刑法第六十四条有关问题的批复"
+  },
+  "promulgatedDate": "2013-10-21",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

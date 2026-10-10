@@ -1,0 +1,224 @@
+{
+ "id": "TL-H240",
+ "title": {
+  "zh": "法律Economia Social",
+  "en": null,
+  "orig": "Lei da Economia Social"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p04",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2023-04-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 9/2023",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 14,
+ "chars": 6296,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2023/serie_1/SERIE_I_NO_13_A.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 14 条；逐字取自官方公报 PDF（public/docs/2023/serie_1/SERIE_I_NO_13_A.pdf）第 69–74 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H240-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Objeto"
+   },
+   "text": {
+    "pt": "A presente lei estabelece o regime jurídico geral da economia social, bem como as medidas de incentivo à sua atividade em função dos princípios e dos fins que lhe são próprios."
+   }
+  },
+  {
+   "id": "TL-H240-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Definição"
+   },
+   "text": {
+    "pt": "1.     Entende-se por economia social o conjunto das atividades económico-sociais livremente levadas a cabo pelas entidades referidas no artigo 4.º da presente lei.\n2.  As atividades previstas no número anterior têm por finalidade prosseguir o interesse geral da sociedade, quer diretamente quer através da prossecução dos interesses dos seus membros, utilizadores e beneficiários, quando socialmente relevantes."
+   }
+  },
+  {
+   "id": "TL-H240-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "heading": {
+    "pt": "Âmbito de aplicação"
+   },
+   "text": {
+    "pt": "A presente lei aplica-se a todas as entidades integradas na economia social nos termos do disposto no artigo seguinte e sem prejuízo das normas específicas aplicáveis aos diversos tipos de entidades definidas em razão da sua natureza própria."
+   }
+  },
+  {
+   "id": "TL-H240-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "heading": {
+    "pt": "Entidades da economia social"
+   },
+   "text": {
+    "pt": "Integram a economia social as seguintes entidades, desde que abrangidas pelo ordenamento jurídico de Timor-Leste:\na)   As cooperativas;\nb)   As associações mutualistas;\nc)   As misericórdias;\nd)   As fundações;\ne)   As instituições particulares de solidariedade social não abrangidas pelas alíneas anteriores;\nf)     As associações com fins altruísticos que atuem no âmbito cultural, recreativo, do desporto e do desenvolvimento local;\ng)    As entidades abrangidas pelos subsectores comunitário e autogestionário;\nh)  Outras entidades dotadas de personalidade jurídica que respeitem os princípios orientadores da economia social previstos no artigo 5.º da presente lei e constem da base de dados da economia social."
+   }
+  },
+  {
+   "id": "TL-H240-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "heading": {
+    "pt": "Princípios orientadores"
+   },
+   "text": {
+    "pt": "As entidades da economia social são autónomas e atuam no âmbito das suas atividades de acordo com os seguintes princípios orientadores:\na)   O primado das pessoas e dos objetivos sociais;\nb)   A adesão e participação livre e voluntária;\nc)   O controlo democrático dos respetivos órgãos pelos seus membros;\nd)   A conciliação entre o interesse dos membros, utilizadores ou beneficiários e o interesse geral;\ne)   O respeito pelos valores da solidariedade, da igualdade e da não discriminação, da coesão social, da justiça e da equidade, da transparência, da responsabilidade individual e social partilhada e da subsidiariedade;\nf)   A gestão autónoma e independente das autoridades públicas e de quaisquer outras entidades exteriores à economia social;\ng)  A afetação dos excedentes da atividade produtiva à prossecução dos fins das entidades da economia social de acordo com o interesse geral, sem prejuízo do respeito pela Série I, N.° 13 A especificidade da distribuição dos excedentes, próprio da natureza e do substrato de cada entidade da economia social."
+   }
+  },
+  {
+   "id": "TL-H240-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "heading": {
+    "pt": "Base de dados e conta satélite da economia social"
+   },
+   "text": {
+    "pt": "1.     Compete ao Governo elaborar, publicar e manter atualizada em sítio próprio a base de dados permanente das entidades da economia social.\n2.   Deve ainda ser assegurada a criação e a manutenção de uma conta satélite da economia social no âmbito do sistema estatístico nacional."
+   }
+  },
+  {
+   "id": "TL-H240-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "heading": {
+    "pt": "Organização e representação"
+   },
+   "text": {
+    "pt": "1.   As entidades da economia social podem livremente organizar-se e constituir-se em associações, uniões, federações ou confederações que as representem coletivamente e defendam os seus interesses.\n2.     As entidades da economia social são ouvidas, através das instituições coletivas que as representam, pelos órgãos com competências no domínio da definição de estratégias e de políticas públicas de desenvolvimento da economia social."
+   }
+  },
+  {
+   "id": "TL-H240-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "heading": {
+    "pt": "Relação das entidades da economia social com os seus"
+   },
+   "text": {
+    "pt": "membros, utilizadores e beneficiários No desenvolvimento das suas atividades, as entidades da economia social devem assegurar os necessários níveis de qualidade, segurança e transparência."
+   }
+  },
+  {
+   "id": "TL-H240-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "heading": {
+    "pt": "Relação entre o Estado e as entidades da economia social"
+   },
+   "text": {
+    "pt": "No seu relacionamento com as entidades da economia social, o Estado deve:\na)   Estimular e apoiar a criação e a atividade das entidades da economia social;\nb)  Assegurar o princípio da cooperação, considerando nomeadamente, no planeamento e desenvolvimento dos sistemas sociais públicos, a capacidade instalada material, humana e económica das entidades da economia social, bem como os seus níveis de competência técnica e de inserção no tecido económico e social do país;\nc) Desenvolver, em articulação com as organizações representativas das entidades da economia social, os mecanismos de supervisão que permitam assegurar uma relação transparente entre essas entidades e os seus membros, procurando otimizar os recursos, nomeadamente através da utilização das estruturas de supervisão já existentes;\nd)   Garantir a necessária estabilidade das relações estabelecidas com as entidades da economia social."
+   }
+  },
+  {
+   "id": "TL-H240-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "heading": {
+    "pt": "Fomento da economia social"
+   },
+   "text": {
+    "pt": "1.    Considera-se de interesse geral o estímulo, a valorização e o desenvolvimento da economia social, bem como das organizações que a representam.\n2.   Nos termos do disposto no número anterior, os poderes públicos, no âmbito das suas competências em matéria de políticas de incentivo à economia social, devem:\na)   Promover os princípios e os valores da economia social;\nb)   Fomentar a criação de mecanismos que permitam reforçar a sustentabilidade económico-financeira das entidades da economia social;\nc)  Facilitar a criação de novas entidades da economia social e apoiar a diversidade de iniciativas próprias deste sector, potenciando-se como instrumento de respostas inovadoras aos desafios que se colocam às comunidades locais, regionais, nacionais ou de qualquer outro âmbito, removendo os obstáculos que dificultem a constituição e desenvolvimento das atividades económicas das entidades da economia social;\nd)  Incentivar a investigação e a inovação na economia social, a formação profissional no âmbito da economia social, bem como apoiar o acesso destas aos processos de inovação tecnológica e de gestão organizacional;\ne)    Aprofundar o diálogo entre os organismos públicos e os representantes da economia social a nível nacional, promovendo assim o conhecimento mútuo e a disseminação de boas práticas em todas as dimensões da sua atividade."
+   }
+  },
+  {
+   "id": "TL-H240-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "heading": {
+    "pt": "Estatuto fiscal"
+   },
+   "text": {
+    "pt": "As entidades da economia social beneficiam de um estatuto fiscal definido por lei em função dos respetivos substrato e natureza."
+   }
+  },
+  {
+   "id": "TL-H240-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "heading": {
+    "pt": "Legislação aplicável"
+   },
+   "text": {
+    "pt": "As entidades que integram a base de dados prevista no artigo\n6.º da presente lei estão sujeitas às normas dos serviços sociais de interesse geral no âmbito das suas atividades."
+   }
+  },
+  {
+   "id": "TL-H240-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "heading": {
+    "pt": "Regulamentação"
+   },
+   "text": {
+    "pt": "No prazo de 180 dias a contar da entrada em vigor da presente lei, o Governo aprova a regulamentação necessária à sua implementação.\nSérie I, N.° 13 A"
+   }
+  },
+  {
+   "id": "TL-H240-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte à sua publicação."
+   }
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "BN-H117",
+ "title": {
+  "zh": "合同法_1939",
+  "en": "Contracts Act (Chapter 106)",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p07",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1939-04-17",
+ "effectiveDate": "1939-04-17",
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "文莱官方发布渠道",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 959,
+ "source": {
+  "name": "文莱官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "文本未能可靠切分为条文（或原件为目录式排版），按整篇收录，未作改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-H117-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "# Contracts Act (Chapter 106) > 本文件为自动采集的元数据头，随原始文件一同保存。\n> 原始文件未被改写；正文逐字照录于同目录下的原始文件。\n| 项目 | 内容 | | --- | --- | | 原文标题 | Contracts Act (Chapter 106) | | 官方页面标注标题 | ​CONTRACTS ACT | TOG Template 2 | | 中文译名 | 合同法（第106章） | | 英文译名 | Contracts Act | | 法律领域 | 民商法 | | 颁布机构 | 文莱总检察署（BRULAW） | | 官方来源 URL | https://www.agc.gov.bn/wp-content/uploads/2026/07/CAP-106-2023-ED-CONTRACTS-ACT.pdf | | 数据抓取实际 URL | https://www.agc.gov.bn/wp-content/uploads/2026/07/CAP-106-2023-ED-CONTRACTS-ACT.pdf | | 颁布日期 | 1939-04-17（官方记录页标注 commenced 17 Apr 1939） | | 生效日期 | 1939-04-17 | | 修订日期 | 2016 年合同法修正令（S 3/2016） | | 版本 | 2023 年版（官方标注 2023 ED） | | 原文语种 | en | | 来源类型 | 官方（agc.gov.bn） | | 抓取日期 | 2026-10-03 | | 本地文件 | 文莱_合同法_1939_en.pdf | | 文件格式 | pdf | | 文件大小(字节) | 793840 | | 页数 | 93 | | 字数 |  | | SHA-256 | daa8957c3cdb2e3b781d2ce2da2d06593e46387ca124c92ed1d53ded37e658af | | HTTP 状态 | 200 | | HTTPS 证书校验 | verified | | 完整性/缺失范围 | 官方 2023 年版全文 PDF（未删节） | | 备注 | 文莱民商法核心成文法之一。 |"
+   }
+  }
+ ]
+}

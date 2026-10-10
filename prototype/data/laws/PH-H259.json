@@ -1,0 +1,1105 @@
+{
+ "id": "PH-H259",
+ "title": {
+  "zh": "设立专利局",
+  "en": "An Act Creating a Patent Office, Prescribing its Powers and Duties, Regulating the Issuance of Patents, and Appropriating Funds Therefor",
+  "orig": "An Act Creating a Patent Office, Prescribing its Powers and Duties, Regulating the Issuance of Patents, and Appropriating Funds Therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p03",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1947-06-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 165",
+ "officialCode": null,
+ "topics": [
+  "ip"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 83,
+ "chars": 36081,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1947/ra_165_1947.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 83 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1947/ra_165_1947.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H259-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Patent Office. - There is hereby created a \"Patent Office\" under the executive supervision of the Department of Justice, where all records, books, drawings, specifications, and other papers and things pertaining to patents shall be safely kept and preserved."
+   }
+  },
+  {
+   "id": "PH-H259-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Officers and employees of the Patent Office. - The Patent Office shall be under the direction of a Director who shall have an assistant to be known as Assistant Director. The Director and Assistant Director shall be appointed by the President with the consent of the Commission on Appointments of the Congress of the Philippines, and shall hold office during good behavior. The Director shall receive a salary of seven thousand two hundred pesos a year, and the Assistant Director a salary of six thousand pesos a year.\nTo carry into effect the provisions of this Act, there shall also be in said office such other officers and employees as may be appointed by the Secretary of Justice upon recommendation of the Director.\nThe term \"Office\" used in this Act means that Patent Office.\nThe term \"Director\" used in this Act refers to the Director of Patents or the Assistant Director of Patents when acting as or performing the duties of the Director."
+   }
+  },
+  {
+   "id": "PH-H259-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Special technical and scientific assistance. - The Director is empowered to obtain the assistance of technical, scientific or other qualified officers or employees of other departments, bureaus, offices, agencies and instrumentalities of the Government, including corporations owned, controlled or operated by the Government, when deemed necessary in the consideration of any matter submitted to the Office relative to the enforcement of the provisions of this Act."
+   }
+  },
+  {
+   "id": "PH-H259-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Seal of Office. - The Office shall have a seal with which patents and other papers issued by it shall be authenticated. The form and design of the seal shall be approved by the President of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H259-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Publication of laws and rules. - The Director shall print, or cause to be printed, and make available for distribution, pamphlet copies of the laws and of the rules and regulations of the Office, and may print circulars of information relating to matters within the jurisdiction of the Office."
+   }
+  },
+  {
+   "id": "PH-H259-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Publication of certain matters in the Official Gazette. - There shall be published in the Official Gazette a suitable view of the drawing, if there be a drawing, and the claims of each patent issued; the rules and regulations duly promulgated and the amendments thereto; an annual index of the names of investors and patentees and the title of the inventions covered by the patents issued during each fiscal year; all notices and decisions required under this Act to be published; and such other information relating to patents and other matters within the jurisdiction of the Office, as may, in the discretion of the Director, be useful to the public."
+   }
+  },
+  {
+   "id": "PH-H259-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "chapter": {
+    "en": "CHAPTER II - Inventions Patentable"
+   },
+   "text": {
+    "en": "Inventions patentable. - Any invention of a new and useful machine, manufactured product or substance, process, or an improvement of any of the foregoing, shall be patentable."
+   }
+  },
+  {
+   "id": "PH-H259-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "chapter": {
+    "en": "CHAPTER II - Inventions Patentable"
+   },
+   "text": {
+    "en": "Inventions not patentable. - An invention shall not be patentable if it is contrary to public order or morals, or to public health or welfare, or if it constitutes a mere idea, scientific principle or abstract theorem not embodied in an invention as specified in section seven hereof, or any process not directed to the making or improving of a commercial product."
+   }
+  },
+  {
+   "id": "PH-H259-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "chapter": {
+    "en": "CHAPTER II - Inventions Patentable"
+   },
+   "text": {
+    "en": "Invention not considered new or patentable. - An invention shall not be considered new or capable of being patented if it was known or used by others in the Philippines before the invention thereof by the inventor named in an application for patent for the invention; or if it was patented or described in any printed publication in the Philippines or any foreign country more than one year before the application for a patent therefor; or if it had been in public use or on sale in the Philippines for more than one year before the application for a patent therefor; or if it is the subject matter of a validly issued patent in the Philippines granted on an application filed before the filing of the application for patent therefor."
+   }
+  },
+  {
+   "id": "PH-H259-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "chapter": {
+    "en": "CHAPTER III - Application for Patent"
+   },
+   "text": {
+    "en": "Right to patent. - The right to the patent belongs to the true and actual inventor, his heirs, legal representatives or assigns. If two or more persons have an invention jointly, the right to the patent belongs to them jointly. If two or more persons have made the invention separately and independently of each other, the right to the patent shall belong to the person who is the first to file an application for such invention, unless the contrary is shown."
+   }
+  },
+  {
+   "id": "PH-H259-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "chapter": {
+    "en": "CHAPTER III - Application for Patent"
+   },
+   "text": {
+    "en": "Applications by non-residents. - Any person filing an application for patent who is not a resident of the Philippines must appoint an agent or representative in the Philippines upon whom notice or process relating to the application for patent may be served. In the event of death, absence or inability of the agent or representative, a new agent or representative must be appointed and notice thereof must be filed in the Office. Upon failure to maintain an agent or representative of record in this Office, service on the Director shall be deemed sufficient."
+   }
+  },
+  {
+   "id": "PH-H259-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "chapter": {
+    "en": "CHAPTER III - Application for Patent"
+   },
+   "text": {
+    "en": "Who may apply for patent. - An application for patent may be filed only by the inventor, his heirs, legal representatives or assigns."
+   }
+  },
+  {
+   "id": "PH-H259-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "chapter": {
+    "en": "CHAPTER III - Application for Patent"
+   },
+   "text": {
+    "en": "The application. - The application for patent shall be in English or Spanish, or in the national language with its corresponding English translation, and signed by the applicant, and shall include a statement giving the name, address, and citizenship or nationality of the applicant and of the inventor, if the applicant is not the inventor, and:\n(a) A specification;\n(b) Drawings, where the invention can be shown by drawings;\n(c) Power of attorney if the filing is through an attorney;\n(d) The assignment or a certified copy of the assignment of the invention for recording, where the application is filed by one who derives his title from the inventor, or proof of title if the derivation is not by assignment;\n(e) A sworn statement by the inventor of his inventorship; or such sworn statement may be made by his heirs or legal representatives in case of death or incapacity of the inventor; however, such sworn statement will not be required if a certified copy of a previously filed foreign application containing the same is filed;\n(f) The appointment of a resident agent or representative in cases coming under section eleven hereof; and\n(g) The required fee."
+   }
+  },
+  {
+   "id": "PH-H259-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "chapter": {
+    "en": "CHAPTER III - Application for Patent"
+   },
+   "text": {
+    "en": "The specification. - The specification shall include:\n(a) The title of the invention;\n(b) A brief statement of its nature and purpose;\n(c) A brief explanation of the drawings, where there are drawings;\n(d) A complete and detailed description of the invention in such full, clear, concise and exact terms as to enable any person skilled in the art or science to which the invention relates to make and practice the invention; and\n(e) A distinct and explicit claim or claims of the subject matter which the applicant claims as new and seeks to have patented."
+   }
+  },
+  {
+   "id": "PH-H259-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "chapter": {
+    "en": "CHAPTER III - Application for Patent"
+   },
+   "text": {
+    "en": "Applications previously filed abroad. - An application for patent for an invention filed in this country by any person who has previously regularly filed an application for a patent for the same invention in a foreign country which, by treaty, convention, or law, affords similar privileges to citizens of the Philippines shall have the same force and effect as the same applicant would have if filed in this country on the date on which the application for patent for the same invention was first filed in such foreign country: Provided, That the application in this country is filed within twelve months from the earliest date on which any such foreign application was filed, and a certified copy of the foreign application together with a translation thereof into English, if not in the English language, is filed within six months from the date of filing in the Philippines, unless the Director for good cause shown shall extend the time for filing such certified copy."
+   }
+  },
+  {
+   "id": "PH-H259-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "chapter": {
+    "en": "CHAPTER IV - Issuance of Patent"
+   },
+   "text": {
+    "en": "Formal examination of the application. - When an application for patent has been filed the Director shall determine whether it complies with the formal requirements. If the application is defective in this respect the applicant shall be notified on the specific defects and a time fixed, not less than four months, within which such defects may be remedied.\nIf the applicant fails to request reconsideration or to remedy the defects within the time fixed by the Director, or within such additional time, not exceeding four months, as may be granted, the application shall be denied."
+   }
+  },
+  {
+   "id": "PH-H259-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "chapter": {
+    "en": "CHAPTER IV - Issuance of Patent"
+   },
+   "text": {
+    "en": "Multiple inventions in one application. - If several independent inventions which are not so closely related as to be proper in one application are claimed, the Director may require the application to be restricted to a single invention in the same manner as notifications of defects in the application. A later application filed for an invention divided out shall be considered as having been filed on the same day as the first application provided the later application is filed within four months after the requirement to divide becomes final, or within such additional time, not exceeding four months, as may be granted."
+   }
+  },
+  {
+   "id": "PH-H259-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "chapter": {
+    "en": "CHAPTER IV - Issuance of Patent"
+   },
+   "text": {
+    "en": "Issuance of patent. - If the original or corrected application is in order, the Director shall issue the patent and shall, as soon as practicable, make the publication required by section six, Chapter I hereof."
+   }
+  },
+  {
+   "id": "PH-H259-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "chapter": {
+    "en": "CHAPTER IV - Issuance of Patent"
+   },
+   "text": {
+    "en": "How issued. - The patent shall be issued in the name of the Republic of the Philippines under the seal of the Office and shall be signed by the Director, and registered together with the specification and drawings, if any, in books and records of the Office to be kept for the purpose."
+   }
+  },
+  {
+   "id": "PH-H259-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "chapter": {
+    "en": "CHAPTER IV - Issuance of Patent"
+   },
+   "text": {
+    "en": "Content of patent. - The patent shall contain the patent number, the title of the invention, the name and residence of the inventor and of the patentee if the patentee be other than the inventor, the date on which the application was filed, the date on which it is issued, and a grant to the patentee, his heirs or assigns, of the exclusive right to the invention throughout the Republic of the Philippines for the term thereof. A copy of the specification and drawings shall be annexed to the patent and be a part thereof."
+   }
+  },
+  {
+   "id": "PH-H259-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "chapter": {
+    "en": "CHAPTER V - Term of Patent"
+   },
+   "text": {
+    "en": "Term of patent. - The term of a patent shall begin on the date when the patent is issued as shown on the face thereof and shall expire seventeen years thereafter. However, a patent shall cease to be in force and effect of the patentee fails to pay the prescribed annual fees within the prescribed times hereinafter provided or if the patent is cancelled in accordance with the provisions of this Act."
+   }
+  },
+  {
+   "id": "PH-H259-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "chapter": {
+    "en": "CHAPTER V - Term of Patent"
+   },
+   "text": {
+    "en": "Annual fees. - The first annual fee on a patent shall be due and payable on the expiration of four years from the date of issue. In a similar manner, annual fees on subsisting patents shall be due and payable on the fifth and each subsequent anniversary of the date of issue. If any annual fee is not paid within the prescribed time, a notice of the non-payment shall be published in the Official Gazette and the patentee shall have six months from the date of the publication to pay the fee together with the surcharge required for the delayed payment. A notice of the lapsing of a patent for non-payment of any annual fee shall be published in the Official Gazette."
+   }
+  },
+  {
+   "id": "PH-H259-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "chapter": {
+    "en": "CHAPTER V - Term of Patent"
+   },
+   "text": {
+    "en": "Reinstatement of a lapsed patent. - Within two years from the date on which the first unpaid annual fee was due, a patent which has lapsed for non-payment of any annual fee may be reinstated upon payment of all annual fees then due and the surcharge for reinstatement, and upon proof satisfactory to the Director that such non-payment was due to fraud, accident, mistake or excusable negligence: Provided, however, That such reinstatement shall not prejudice the rights acquired by a third person while the patent was not in force."
+   }
+  },
+  {
+   "id": "PH-H259-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "chapter": {
+    "en": "CHAPTER VI - Surrender, Correction and Amendments of Patent"
+   },
+   "text": {
+    "en": "Surrender of patent. - Any patentee, with the consent of all persons having grants or licenses or other right, title or interest in and to the patent and the invention covered thereby, which have been recorded in the Office, may surrender his patent or any claim or claims forming part thereof to the Director for cancellation."
+   }
+  },
+  {
+   "id": "PH-H259-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "chapter": {
+    "en": "CHAPTER VI - Surrender, Correction and Amendments of Patent"
+   },
+   "text": {
+    "en": "Correction of mistakes of Office. - The Director shall have the power to correct without fee any mistake in a patent incurred through the fault of the Office when clearly disclosed by the records thereof, to make the patent conform to the records."
+   }
+  },
+  {
+   "id": "PH-H259-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "chapter": {
+    "en": "CHAPTER VI - Surrender, Correction and Amendments of Patent"
+   },
+   "text": {
+    "en": "Correction of mistake of application. - On payment of the prescribed fee the Director is authorized to correct any mistake in a patent of a formal or clerical nature, not incurred through the fault of the Office."
+   }
+  },
+  {
+   "id": "PH-H259-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "chapter": {
+    "en": "CHAPTER VI - Surrender, Correction and Amendments of Patent"
+   },
+   "text": {
+    "en": "Form and publication of amendment. - Amendment or correction of a patent as provided in sections twenty-five and twenty-six hereof, shall be accomplished by a certificate of such amendment or correction authenticated by the seal of the Office and signed by the Director, which certificate shall be attached to the patent if the patent has been returned to the Director. Notice of such amendment or correction shall be published in the Official Gazette, and copies of the patent furnished by the Office shall include a copy of the certificate of the amendment or correction."
+   }
+  },
+  {
+   "id": "PH-H259-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "chapter": {
+    "en": "CHAPTER VII - Cancellation of Patents"
+   },
+   "text": {
+    "en": "General grounds for cancellation. - Any person may on payment of the required fee petition the Director within three years from the date of publication of the issue of the patent in the Official Gazette, to cancel the patent or any claim thereof, on any of the following grounds:\n(a) That the invention is not new or patentable in accordance with sections seven, eight and nine, Chapter II hereof;\n(b) That the specification does not comply with the requirement of section fourteen, Chapter III hereof; or\n(c) That the person to whom the patent was issued was not the true and actual inventor or did not derive his rights from the true and actual inventor."
+   }
+  },
+  {
+   "id": "PH-H259-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "chapter": {
+    "en": "CHAPTER VII - Cancellation of Patents"
+   },
+   "text": {
+    "en": "When patent may be cancelled at any time. - A petition to cancel a patent on any of the grounds specified in the next preceding section may be filed at any time by the Solicitor General."
+   }
+  },
+  {
+   "id": "PH-H259-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "chapter": {
+    "en": "CHAPTER VII - Cancellation of Patents"
+   },
+   "text": {
+    "en": "Requirements of the petition. - The petition for cancellation must be in writing and verified by the petitioner or by any person on his behalf who knows the facts, and shall specify the grounds upon which it is based, and include a statement of the facts to be relied upon. Copies of printed publications or of patents of other countries, or other supporting documents mentioned in the petition shall be filed therewith, together with the transaction thereof into English, if not in the English language."
+   }
+  },
+  {
+   "id": "PH-H259-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31."
+   },
+   "chapter": {
+    "en": "CHAPTER VII - Cancellation of Patents"
+   },
+   "text": {
+    "en": "Notice and hearing. - Upon the filing of a petition for cancellation, the Director shall forthwith serve notice of the filing thereof upon the patentee and all persons having grants or licenses, or any other right, title or interest in and to the patent and the invention covered thereby, as appears of record in the Office, and of notice of the date of hearing thereon on such persons and the petitioner. Notice of the filing of the petition shall be published in the Official Gazette."
+   }
+  },
+  {
+   "id": "PH-H259-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32."
+   },
+   "chapter": {
+    "en": "CHAPTER VII - Cancellation of Patents"
+   },
+   "text": {
+    "en": "Cancellation of the patent. - If the Director finds that a case for cancellation has been made out he shall order the patent or any specified claim or claims thereof cancelled. The order shall not become effective until the time for appeal has elapsed or, if appeal is taken, until the judgment on appeal becomes final. When the order or judgment becomes final, any rights conferred upon the patentee by the patent or any specified claim or claims cancelled thereby shall terminate. Notice of cancellation shall be published in the Official Gazette."
+   }
+  },
+  {
+   "id": "PH-H259-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33."
+   },
+   "chapter": {
+    "en": "CHAPTER VII - Cancellation of Patents"
+   },
+   "text": {
+    "en": "Cancellation for fraud on the inventor. - In the case of the ground specified in paragraph (c), section twenty-eight hereof, if the petition for cancellation is made by or on behalf of the true and actual inventor from whom the patentee fraudulently derived the invention and is successful on this ground, a patent may be obtained by such inventor, if he does not have a patent, notwithstanding any knowledge or use or publication of the patent cancelled: Provided, That the true and actual inventor shall file an application for patent for such invention within six months after the order of cancellation has become final. The term of such patent, however, shall expire seventeen years from the date of issue of the patent cancelled."
+   }
+  },
+  {
+   "id": "PH-H259-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34."
+   },
+   "chapter": {
+    "en": "CHAPTER VIII - Compulsory Licensing"
+   },
+   "text": {
+    "en": "Grounds for compulsory license. - Any person may apply to the Director for the grant of a license under a particular patent at any time after the expiration of three years from the date of the grant of the patent, under any of the following circumstances:\n(a) If the patented invention is not being worked within the Philippines on a commercial scale, although capable of being so worked, without satisfactory reason;\n(b) If the demand for the patented article in the Philippines is not being met to an adequate extent and on reasonable terms, without satisfactory reason;\n(c) If by reason of the refusal of the patentee to grant a license or licenses on reasonable terms, or by reason of the conditions attached by the patentee to licenses or to the purchase, lease or use of the patented article or working of the patented process or machine of production the establishment of any new trade or industry in the Philippines is prevented, or the trade of industry therein is unduly restrained; or\n(d) If the patented invention relates to food or medicine or is necessary for public health or public safety.\nThe term \"worked\" or \"working\" as used in this section means the manufacture and sale of a patented article, or the carrying on of a patented process or the use of a patented machine for production, in or by means of a definite and substantial establishment or organization in the Philippines and on a scale which is adequate and reasonable under the circumstances."
+   }
+  },
+  {
+   "id": "PH-H259-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35."
+   },
+   "chapter": {
+    "en": "CHAPTER VIII - Compulsory Licensing"
+   },
+   "text": {
+    "en": "Notice and hearing. - Upon the filing of a petition under section thirty-four hereof, notice shall be given in the same manner and form as that provided in section thirty-one, Chapter VII hereof."
+   }
+  },
+  {
+   "id": "PH-H259-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36."
+   },
+   "chapter": {
+    "en": "CHAPTER VIII - Compulsory Licensing"
+   },
+   "text": {
+    "en": "Grant of license. - If the Director finds that a case for the grant of a license under section thirty-four hereof has been made out, he may order the grant of an appropriate license and in default of agreement among the parties as to the terms and conditions of the license he shall fix the terms and conditions of the license in the order.\nThe order of the Director granting a license under this Chapter, when final, shall operate as a deed granting a license executed by the patentee and the other parties in interest."
+   }
+  },
+  {
+   "id": "PH-H259-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37."
+   },
+   "chapter": {
+    "en": "CHAPTER IX - Rights of Patentees and Infringement of Patents"
+   },
+   "text": {
+    "en": "Rights of patentees. - A patentee shall have the exclusive right to make, use and sell the patented machine, article or product, and to use the patented process for the purpose of industry or commerce, throughout the territory of the Philippines for the term of the patent; and such making, using, or selling by any person without the authorization of the patentee constitutes infringement of the patent."
+   }
+  },
+  {
+   "id": "PH-H259-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38."
+   },
+   "chapter": {
+    "en": "CHAPTER IX - Rights of Patentees and Infringement of Patents"
+   },
+   "text": {
+    "en": "Experimental use of invention. - The making or using of a patented invention when not conducted for profit and solely for the purpose of research or experiment, or for instruction, shall not constitute infringement."
+   }
+  },
+  {
+   "id": "PH-H259-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39."
+   },
+   "chapter": {
+    "en": "CHAPTER IX - Rights of Patentees and Infringement of Patents"
+   },
+   "text": {
+    "en": "Temporary presence in the country. - No patent shall prevent the use of any invention in any ship, vessel, aircraft, or land vehicle of any other country entering the territory of the Philippines temporarily or accidentally, and such use shall not constitute infringement of the patent, provided such invention is used exclusively for the needs of the ship, vessel, aircraft, or land vehicle and not used for the manufacture of anything to be sold within or exported from the Philippines."
+   }
+  },
+  {
+   "id": "PH-H259-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40."
+   },
+   "chapter": {
+    "en": "CHAPTER IX - Rights of Patentees and Infringement of Patents"
+   },
+   "text": {
+    "en": "Rights of third parties prior to application. - Any person who has purchased or acquired of the inventor, his legal representatives, or assigns, or who, with their knowledge and consent, constructs any newly invented device or other patentable article, prior to the filing of the application therefor, shall have the right to use and sell the specific thing purchased, acquired or made, without liability therefor."
+   }
+  },
+  {
+   "id": "PH-H259-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41."
+   },
+   "chapter": {
+    "en": "CHAPTER IX - Rights of Patentees and Infringement of Patents"
+   },
+   "text": {
+    "en": "Use of invention by the Government. - The Government of the Philippines may use any patented invention at any time for governmental purposes, and the manufacture or use of the invention by or for the Government for such purposes shall not constitute infringement of the patent, but the patentee shall be entitled to receive a reasonable compensation for the use of the invention."
+   }
+  },
+  {
+   "id": "PH-H259-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42."
+   },
+   "chapter": {
+    "en": "CHAPTER X - Actions and Remedies for Infringement"
+   },
+   "text": {
+    "en": "Civil action for infringement. - Any patentee, or anyone possessing any right, title or interest in and to the patented invention, whose rights have been infringed, may bring a civil action before the proper Court of First Instance, to recover from the infringer damages sustained by reason of the infringement and to secure an injunction for the protection of his rights.\nIf the damages are inadequate or cannot be readily ascertained with reasonable certainty, the court may award as damages a sum amounting to a reasonable royalty.\nThe court may, according to the circumstances of the case, award damages in a sum above the amount found as actual damages sustained provided the award does not exceed three times the amount of such actual damages."
+   }
+  },
+  {
+   "id": "PH-H259-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43."
+   },
+   "chapter": {
+    "en": "CHAPTER X - Actions and Remedies for Infringement"
+   },
+   "text": {
+    "en": "Limitation of action for damages. - No damages can be recovered for acts of infringement committed more than four years before the institution of the action for infringement."
+   }
+  },
+  {
+   "id": "PH-H259-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44."
+   },
+   "chapter": {
+    "en": "CHAPTER X - Actions and Remedies for Infringement"
+   },
+   "text": {
+    "en": "Damages not recoverable for want of notice or marking. - Damages cannot be recovered for acts of infringement committed before the infringer had actual notice of the patent, unless the patentee or those exploiting the invention on his behalf or under his authorization have given notice to the public that the machine, device, articles or process is patented either by placing thereon the words \"Philippines Patent\" with the number of the patent, or when from the nature of the article this cannot reasonably be done, by placing such notice on the package or container in which the device or article is supplied to the public, or is descriptive or advertising matter used in connection with the patented machine, device, article or process."
+   }
+  },
+  {
+   "id": "PH-H259-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45."
+   },
+   "chapter": {
+    "en": "CHAPTER X - Actions and Remedies for Infringement"
+   },
+   "text": {
+    "en": "Defenses in action for infringement. - In an action for infringement the defendant, in addition to other defenses available to him, may show the invalidity of the patent or any claim thereof on any of the grounds on which a petition of cancellation can be brought under section twenty-eight, Chapter VII hereof."
+   }
+  },
+  {
+   "id": "PH-H259-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46."
+   },
+   "chapter": {
+    "en": "CHAPTER X - Actions and Remedies for Infringement"
+   },
+   "text": {
+    "en": "Patent found invalid to be cancelled. - If the court shall find the patent or any claim thereof invalid, the Director shall, on certification of the final judgment to the Office, issue an order cancelling the patent or the claims found invalid, and shall publish a notice thereof in the Official Gazette."
+   }
+  },
+  {
+   "id": "PH-H259-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47."
+   },
+   "chapter": {
+    "en": "CHAPTER X - Actions and Remedies for Infringement"
+   },
+   "text": {
+    "en": "Assessors in infringement action. - Two or more assessors may be appointed by the court. The assessors shall be so qualified by the necessary scientific and technical knowledge required by the subject matter in suit. Either party may, as a preliminary question, challenge the fitness of any assessor to sit in an action.\nEach assessor shall receive a compensation in an amount to be fixed by the court and advanced by the complaining party, and thereafter to be taxed as costs in favor of the prevailing party."
+   }
+  },
+  {
+   "id": "PH-H259-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48."
+   },
+   "chapter": {
+    "en": "CHAPTER X - Actions and Remedies for Infringement"
+   },
+   "text": {
+    "en": "Criminal action for repetition of infringement. - If infringement is repeated by the infringer or by anyone in connivance with him after final judgment of the court against the infringer, the parties liable shall, without prejudice to further civil action, be punished by a fine not exceeding ten thousand pesos and imprisonment not exceeding five years, or both such fine and imprisonment in the discretion of the court, in a criminal action instituted for the purpose. The criminal action herein provided shall prescribed in two years."
+   }
+  },
+  {
+   "id": "PH-H259-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49."
+   },
+   "chapter": {
+    "en": "CHAPTER X - Actions and Remedies for Infringement"
+   },
+   "text": {
+    "en": "Appeal. - Appeal may be taken from the judgment of the court in the civil and criminal actions herein provided in the same manner as in other actions."
+   }
+  },
+  {
+   "id": "PH-H259-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50."
+   },
+   "chapter": {
+    "en": "CHAPTER XI - Assignment and Transmission of Rights"
+   },
+   "text": {
+    "en": "Transmission of rights. - Patents and the inventions covered thereby shall be protected as and have the applicable rights of other property. Inventions and any rights, title or interest in and to patents and inventions covered thereby may be assigned, or transmitted by inheritance or bequest."
+   }
+  },
+  {
+   "id": "PH-H259-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51."
+   },
+   "chapter": {
+    "en": "CHAPTER XI - Assignment and Transmission of Rights"
+   },
+   "text": {
+    "en": "Assignment of inventions. - An assignment may be on the entire right, title or interest in and to the patent and the invention covered thereby, or of an undivided share of the entire patent and invention in which event the parties become joint owners thereof. An assignment may be limited to a specified territory."
+   }
+  },
+  {
+   "id": "PH-H259-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52."
+   },
+   "chapter": {
+    "en": "CHAPTER XI - Assignment and Transmission of Rights"
+   },
+   "text": {
+    "en": "Form of assignment. - The assignment must be in writing, acknowledged before a notary public or other officer authorized to administer oaths or perform notarial acts and certified under the hand and official seal of the notary or other officer."
+   }
+  },
+  {
+   "id": "PH-H259-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53."
+   },
+   "chapter": {
+    "en": "CHAPTER XI - Assignment and Transmission of Rights"
+   },
+   "text": {
+    "en": "Recording. - The Director shall record assignment, licenses and other instruments relating to any right, title or interest in and to inventions, and patents or inventions covered thereby, which are presented in due form to the Office for registration, in books and records kept for the purpose. The original document together with a signed duplicate thereof shall be filed, but if the original is not available, an authenticated copy thereof in duplicate may be filed. Upon recording, the Director shall retain the duplicate, and return the original or the authenticated copy to the party filing with a notation of the fact of record. Notice of the recording shall be published in the Official Gazette.\nSuch instruments shall be void as against any subsequent purchaser or mortgagee for a valuable consideration and without notice unless it is recorded in the Office within three months from the date thereof, or prior to the subsequent purchase or mortgage."
+   }
+  },
+  {
+   "id": "PH-H259-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54."
+   },
+   "chapter": {
+    "en": "CHAPTER XI - Assignment and Transmission of Rights"
+   },
+   "text": {
+    "en": "Rights of joint owners. - If two or more persons jointly own a patent and the invention covered thereby either by the issuing of the patent to them jointly or by reason of the assignment of an undivided share in the patent and invention or by reason of the succession in title to such share, each of the joint owners, shall be entitled to personally make, use, or sell the invention for his own profit, subject to any contract or agreement, but neither of the owners shall be entitled to grant licenses or to assign his right, title or interest or part thereof without the consent of the other owner or owners, or without proportionately dividing the proceeds with the other owner or owners."
+   }
+  },
+  {
+   "id": "PH-H259-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55."
+   },
+   "chapter": {
+    "en": "CHAPTER XII - Designs"
+   },
+   "text": {
+    "en": "Industrial designs. - Any new and original creation relating to the features of shape, pattern, configuration, ornamental, or artistic appearance of an article or industrial product may be protected as an industrial design by the author in the same manner and subject to the same provisions and requirements as relate to patents for inventions insofar as they are applicable, except as otherwise hereinafter provided."
+   }
+  },
+  {
+   "id": "PH-H259-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56."
+   },
+   "chapter": {
+    "en": "CHAPTER XII - Designs"
+   },
+   "text": {
+    "en": "Six months publication. - The period of one year specified in section nine, Chapter II, and section fifteen, Chapter III, hereof, for inventions shall be six months in the case of designs."
+   }
+  },
+  {
+   "id": "PH-H259-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57."
+   },
+   "chapter": {
+    "en": "CHAPTER XII - Designs"
+   },
+   "text": {
+    "en": "Notice of registration shall be published. - Notice of the registration of the design shall be published in the Official Gazette."
+   }
+  },
+  {
+   "id": "PH-H259-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58."
+   },
+   "chapter": {
+    "en": "CHAPTER XII - Designs"
+   },
+   "text": {
+    "en": "Term and extension thereof . - The term of the design registration shall be five years from the date of registration.\nBefore the expiration of the five-year term upon payment of the required fee, or within a further time thereafter not to exceed six months upon payment of the surcharge, the owner of the registration may apply for an extension for an additional five years. The application for extension must be accompanied by an affidavit showing that the design is in commercial or industrial use in the Philippines or satisfactorily explaining non-use. In a similar manner an extension for a third five-year period may be obtained."
+   }
+  },
+  {
+   "id": "PH-H259-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59."
+   },
+   "chapter": {
+    "en": "CHAPTER XII - Designs"
+   },
+   "text": {
+    "en": "Marking. - The marking required by section forty-four, Chapter X, hereof, shall be \"Philippines Design Registration,\" or appropriate abbreviation, and the number of the registration."
+   }
+  },
+  {
+   "id": "PH-H259-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60."
+   },
+   "chapter": {
+    "en": "CHAPTER XII - Designs"
+   },
+   "text": {
+    "en": "Infringement. - Infringement of a design registration shall consist in unauthorized copying of the registered design for the purpose of trade or industry in the article or product and in the making, using or selling of the article or product copying the registered design. Identity or substantial identity with the registered design shall constitute evidence of copying."
+   }
+  },
+  {
+   "id": "PH-H259-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61."
+   },
+   "chapter": {
+    "en": "CHAPTER XIII - Review of Orders or Decisions of Director"
+   },
+   "text": {
+    "en": "Appeal from the action of Director. - The applicant for a patent or for the registration of a design, any party to a proceeding to cancel a patent or to obtain a compulsory license, and any party to any other proceeding in the Office may appeal to the Supreme Court from any final order or decision of the Director."
+   }
+  },
+  {
+   "id": "PH-H259-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62."
+   },
+   "chapter": {
+    "en": "CHAPTER XIII - Review of Orders or Decisions of Director"
+   },
+   "text": {
+    "en": "Stay. - A petition for review of any order or decision of the Director rejecting in whole or in part an application for a patent or registration of a design, shall not stay any order or decision of the Director in respect of any other applications then pending for a patent or design registration; but the Director shall proceed to act on such other applications without regard to such petition unless the Supreme Court shall otherwise direct."
+   }
+  },
+  {
+   "id": "PH-H259-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63."
+   },
+   "chapter": {
+    "en": "CHAPTER XIII - Review of Orders or Decisions of Director"
+   },
+   "text": {
+    "en": "How appeal is perfected. - An appeal from an order or decision of the Director shall be perfected by filing with the Director a notice of appeal and the payment of the required appeal fee and filing with the Supreme Court a petition for review, within thirty days from notice of the order or decision appealed from."
+   }
+  },
+  {
+   "id": "PH-H259-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64."
+   },
+   "chapter": {
+    "en": "CHAPTER XIII - Review of Orders or Decisions of Director"
+   },
+   "text": {
+    "en": "Contents and notice of petition. - The petition shall contain a summary statement of the issues involved and the reasons relied upon for allowance of a review. Copies of the petition shall be served upon the Director and all other parties in interest."
+   }
+  },
+  {
+   "id": "PH-H259-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65."
+   },
+   "chapter": {
+    "en": "CHAPTER XIII - Review of Orders or Decisions of Director"
+   },
+   "text": {
+    "en": "Docketing fee and deposits for costs. - Upon filing the petition for review, the petitioner shall pay to the clerk of the Supreme Court the docketing fee and shall deposit the sum of one hundred pesos for costs."
+   }
+  },
+  {
+   "id": "PH-H259-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 66."
+   },
+   "chapter": {
+    "en": "CHAPTER XIII - Review of Orders or Decisions of Director"
+   },
+   "text": {
+    "en": "Elevation of copy of record. - Upon the filing of the petition, notice thereof shall be served by the clerk of the Supreme Court upon the Director, who, within thirty days thereafter, shall certify and forward to the Supreme Court a copy of the record as the same appears in this Office."
+   }
+  },
+  {
+   "id": "PH-H259-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Section 67."
+   },
+   "chapter": {
+    "en": "CHAPTER XIII - Review of Orders or Decisions of Director"
+   },
+   "text": {
+    "en": "Answer of respondent. - Upon receipt of the record, the clerk of the Supreme Court shall serve notice upon the Director and all other parties in interest, requiring them to answer within ten days from service. Copies of such answer shall served upon the petitioner."
+   }
+  },
+  {
+   "id": "PH-H259-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Section 68."
+   },
+   "chapter": {
+    "en": "CHAPTER XIII - Review of Orders or Decisions of Director"
+   },
+   "text": {
+    "en": "Power of court. - The Supreme Court may, on petition filed within five days after the filing of the answer, allow the parties to adduce additional evidence material to the matter at issue, which shall constitute a supplementary record to be considered in connection with the record on appeal."
+   }
+  },
+  {
+   "id": "PH-H259-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Section 69."
+   },
+   "chapter": {
+    "en": "CHAPTER XIII - Review of Orders or Decisions of Director"
+   },
+   "text": {
+    "en": "Representation by Solicitor General. - In all appeals from an order or decision of the Director the Solicitor General shall appeal on behalf of the Director."
+   }
+  },
+  {
+   "id": "PH-H259-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Section 70."
+   },
+   "chapter": {
+    "en": "CHAPTER XIII - Review of Orders or Decisions of Director"
+   },
+   "text": {
+    "en": "Briefs on appeal. - Upon receipt of the answer to the petition or upon conclusion of the presentation of additional evidence, the clerk of the Supreme Court shall notify the parties, and the petitioner, within thirty days from such notice, shall file twenty copies of his brief upon the adverse parties and, within thirty days from such service, the adverse parties shall file twenty copies of their brief together with proof of service of five copies thereof upon the petitioner."
+   }
+  },
+  {
+   "id": "PH-H259-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Section 71."
+   },
+   "chapter": {
+    "en": "CHAPTER XIII - Review of Orders or Decisions of Director"
+   },
+   "text": {
+    "en": "Inclusion in calendar. - Upon the filing of the respondent's brief, or after the expiration of the time for its filing, the case shall be included in the regular calendar, unless the court advances the hearing for special cause shown."
+   }
+  },
+  {
+   "id": "PH-H259-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "Section 72."
+   },
+   "chapter": {
+    "en": "CHAPTER XIII - Review of Orders or Decisions of Director"
+   },
+   "text": {
+    "en": "Oral argument, its duration. - Each party is entitled to one hour for oral argument, extendible in the discretion of the court."
+   }
+  },
+  {
+   "id": "PH-H259-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "Section 73."
+   },
+   "chapter": {
+    "en": "CHAPTER XIII - Review of Orders or Decisions of Director"
+   },
+   "text": {
+    "en": "Rules of Court applicable. - In all other matters not herein provided, the applicable provisions of the Rules of Court shall govern."
+   }
+  },
+  {
+   "id": "PH-H259-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "Section 74."
+   },
+   "chapter": {
+    "en": "CHAPTER XIV - Penalty for False Marking"
+   },
+   "text": {
+    "en": "Penalty for false marking. - Any person who falsely represents or indicates that any device, article or product made or sold by him is patented, or is the subject of a registered design, by making or having on the device, article or product, or on their containers or packages, or using in advertising or displays used in connection with them, or with any process, words expressing or implying that the device, article, product or process is patented or registered, shall be subject to a fine of not less than one hundred pesos nor more than one thousand pesos, or imprisonment for not less than one month nor more than one year, or both, in the discretion of the court. Actions hereunder shall prescribe in two years."
+   }
+  },
+  {
+   "id": "PH-H259-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "Section 75."
+   },
+   "chapter": {
+    "en": "CHAPTER XIV - Penalty for False Marking"
+   },
+   "text": {
+    "en": "Fees. - The following fees shall be paid:\nFor filing an application for patent, which shall include the cost of publication in the Official Gazette, two hundred pesos;\nFor annual fees due at the beginning of the fifth and each succeeding year, one hundred pesos each year;\nFor surcharge for delayed payment of an annual fee, twenty-five pesos;\nFor reinstating lapsed patent, one hundred pesos;\nFor filing a petition for cancellation, except when filed by the Solicitor General, fifty pesos;\nFor filing a petition for a compulsory license, one hundred pesos;\nFor copies of records of the Office, two pesos per photostat sheet, one peso per hundred words of typewritten copy;\nFor each certification of copy of any records, ten pesos;\nFor recording assignments, and other documents relating to title, and license, ten pesos;\nFor notice of appeal from the order or decision of the Director; twenty-five pesos;\nFor filing application for registration of a design, fifty pesos;\nFor renewing design registration, fifty pesos;\nFor surcharge for delayed renewal of design registration, twenty pesos; and For services not otherwise specified, the Director shall provide, by regulation, the fees therefor."
+   }
+  },
+  {
+   "id": "PH-H259-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "Section 76."
+   },
+   "chapter": {
+    "en": "CHAPTER XVI - Miscellaneous"
+   },
+   "text": {
+    "en": "Certain priority for filing application extended. - The rights of priority provided by section nine, Chapter II; section fifteen, Chapter III; and section fifty-six, Chapter XII hereof for the filing of applications for patent for inventions and designs, which rights had not expired on the eighth day of December, nineteen hundred and forty-one, or which rights have arisen since the eighth day of December, nineteen hundred and forty-one, are extended until the first day of July, nineteen hundred and forty-eight, in favor of the citizens of the Philippines or citizens or subjects of countries which have extended, or which now extend, or which within said period ending the first day of July, nineteen hundred and forty-eight, shall extend substantially reciprocal privileges to citizens of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H259-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "Section 77."
+   },
+   "chapter": {
+    "en": "CHAPTER XVI - Miscellaneous"
+   },
+   "text": {
+    "en": "Disqualification of officers and employees from acquiring patents and design registrations. - All officers and employees of the Office shall not, during their employment or for one year thereafter, apply for a grant of patent or for the registration of a design, or acquire, directly or indirectly, except by hereditary succession, any patent of invention or design registration, or any right, title or interest therein."
+   }
+  },
+  {
+   "id": "PH-H259-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "Section 78."
+   },
+   "chapter": {
+    "en": "CHAPTER XVI - Miscellaneous"
+   },
+   "text": {
+    "en": "Rules and regulations. - The Director subject to the approval of the Secretary of Justice, shall promulgate the necessary rules and regulations, not inconsistent with law, for the conduct of all business in the Patent Office."
+   }
+  },
+  {
+   "id": "PH-H259-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "Section 79."
+   },
+   "chapter": {
+    "en": "CHAPTER XVI - Miscellaneous"
+   },
+   "text": {
+    "en": "Records to be public. - The records of the Office shall be open to public inspection, and any person may obtain an authenticated copy thereof on payment of the prescribed fees."
+   }
+  },
+  {
+   "id": "PH-H259-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "Section 80."
+   },
+   "chapter": {
+    "en": "CHAPTER XVI - Miscellaneous"
+   },
+   "text": {
+    "en": "Repealing clause. - Acts Numbered Twenty-two hundred and thirty-five, Twenty-seven hundred and ninety-three, as amended, and all other acts, or parts of acts, inconsistent herewith, are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H259-A81",
+   "no": 81,
+   "noLabel": {
+    "en": "Section 81."
+   },
+   "chapter": {
+    "en": "CHAPTER XVI - Miscellaneous"
+   },
+   "text": {
+    "en": "Reservation of prior rights. - Any rights acquired under laws existing prior to the taking effect of this Act are hereby respected and preserved."
+   }
+  },
+  {
+   "id": "PH-H259-A82",
+   "no": 82,
+   "noLabel": {
+    "en": "Section 82."
+   },
+   "chapter": {
+    "en": "CHAPTER XVI - Miscellaneous"
+   },
+   "text": {
+    "en": "Appropriation. - The sum of seventy-five thousand pesos, or so much thereof as may be necessary, is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, for the initial expenses of the Office, including organization expenses, salaries, supplies, equipment, and other sundry expenses until June thirtieth, nineteen hundred and forty-eight."
+   }
+  },
+  {
+   "id": "PH-H259-A83",
+   "no": 83,
+   "noLabel": {
+    "en": "Section 83."
+   },
+   "chapter": {
+    "en": "CHAPTER XVI - Miscellaneous"
+   },
+   "text": {
+    "en": "Effective date. - This Act shall take effect on its approval.\nApproved: June 20, 1947"
+   }
+  }
+ ]
+}

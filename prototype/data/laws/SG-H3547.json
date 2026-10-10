@@ -1,0 +1,205 @@
+{
+ "id": "SG-H3547",
+ "title": {
+  "zh": null,
+  "en": "Planning (Electronic Transmission) Rules",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p45",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation PA1998-R4",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 13,
+ "chars": 12089,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/PA1998-R4?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 13 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3547-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Rules may be cited as the Planning (Electronic Transmission) Rules."
+   }
+  },
+  {
+   "id": "SG-H3547-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Rules, unless the context otherwise requires —\n“approved certification authority” means any person or organisation named in the First Schedule that issues a certificate;\n“asymmetric cryptosystem” means a system capable of generating a secure key pair, consisting of a private key for creating digital signature, and a public key to verify the digital signature;\n“certificate” means a record that at a minimum —\n(a)identifies the appointed certification authority issuing it;\n(b)names or identifies its subscriber;\n(c)contains the subscriber’s public key; and\n(d)is digitally signed by the appointed certification authority issuing it;\n“correspond”, in relation to private or public keys, means to belong to the same key pair;\n“digital signature” means an electronic signature consisting of a transformation of an electronic record using an asymmetric cryptosystem and a hash function such that a person having the initial untransformed electronic record and the signer’s public key can accurately determine —\n(a)whether the transformation was created using the private key that corresponds to the signer’s public key; and\n(b)whether the initial electronic record has been altered since the transformation was made;\n“electronic record” means a record generated, communicated, received or stored by electronic, magnetic, optical, or other means of storage in an information system or for transmission from one information system to another;\n“hash function” means an algorithm mapping or translating one sequence of bits into another, generally smaller, set (the hash result) such that —\n(a)a record yields the same hash result every time the algorithm is executed using the same record as input;\n(b)it is computationally infeasible that a record can be derived or reconstituted from the hash result produced by the algorithm; and\n(c)it is computationally infeasible that 2 records can be found that produce the same hash result using the algorithm;\n“key pair”, in an asymmetric cryptosystem, means a private key and its mathematically related public key, having the property that the public key can verify a digital signature that the private key creates;\n“operation manual” means an operation manual issued by the competent authority under rule 5;\n“operational period of a certificate” begins on the date and time the certificate is issued by a certification authority (or on a later date and time if stated in the certificate), and ends on the date and time it expires as stated in the certificate or is earlier revoked or suspended;\n“private key” means the key of a key pair used to create a digital signature;\n“public key” means the key of a key pair used to verify a digital signature;\n“relevant electronic service” means the electronic service known as CORENET 2.0 that is used for the submission, service or making of any application, appeal, notice, request or other document and information to or on the competent authority, and for the giving, grant, issue or service of any permission, approval, decision, notice, warrant, order or other document to or on any person by the competent authority;\n[S 856/2023 wef 18/12/2023]\n“signed” or “signature”, with its grammatical variations, includes any symbol executed or adopted, or any methodology or procedure employed or adopted, by a person with the intention of authenticating a record, including electronic or digital methods;\n“subscriber” means a person who is the subject named or identified in a certificate issued to him by a certification authority and who holds a private key that corresponds to a public key listed in that certificate;\n“subscriber’s information system” means the information system specified by a subscriber to which electronic records may be transmitted by the competent authority to the subscriber;\n“verify a digital signature”, in relation to a given digital signature, record and public key, means to determine accurately —\n(a)that the digital signature was created using the private key corresponding to the public key listed in the certificate; and\n(b)the record has not been altered since its digital signature was created."
+   }
+  },
+  {
+   "id": "SG-H3547-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Electronic transmission of application, appeal, permission, etc."
+   },
+   "text": {
+    "en": "3.—(1) The competent authority may —\n(a)allow the submission, service or the making of any application, appeal, notice, request or other document and information mentioned in paragraph (2); or\n[S 856/2023 wef 18/12/2023]\n(b)give, grant, issue or serve any permission, approval, decision, notice, warrant, order or other document mentioned in paragraph (3),\n[S 856/2023 wef 18/12/2023]\nunder the Act or any subsidiary legislation made thereunder in the form of an electronic record through the relevant electronic service.\n[S 856/2023 wef 18/12/2023]\n(2) The applications, appeals, notices, requests or other documents and information which may be submitted, served or made to or on the competent authority by any person in the form of electronic records through the relevant electronic service in accordance with these Rules are set out in Part I of the Second Schedule.\n[S 856/2023 wef 18/12/2023]\n(3) The permissions, approvals, decisions, notices, warrants, orders or other documents which may be given, granted, issued or served to or on any person by the competent authority in the form of electronic records through the relevant electronic service in accordance with these Rules are set out in Part II of the Second Schedule.\n[S 856/2023 wef 18/12/2023]"
+   }
+  },
+  {
+   "id": "SG-H3547-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Fees payable for electronic transmission"
+   },
+   "text": {
+    "en": "4. The fees prescribed in the Planning (Fees) Rules (R7) for the time being in force shall apply to any application, appeal, request or other document that may be submitted, served or made to or on the competent authority by any person in the form of an electronic record through the relevant electronic service.\n[S 856/2023 wef 18/12/2023]"
+   }
+  },
+  {
+   "id": "SG-H3547-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Operation manual"
+   },
+   "text": {
+    "en": "5. The competent authority may issue an operation manual for the transmission of electronic records through the relevant electronic service under these Rules.\n[S 856/2023 wef 18/12/2023]"
+   }
+  },
+  {
+   "id": "SG-H3547-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Requirements for electronic transmission"
+   },
+   "text": {
+    "en": "6. A person shall ensure that, prior to transmitting an electronic record through the relevant electronic service to the competent authority under these Rules, he has —\n(a)obtained the necessary computer and communications equipment and software of the type specified in the operation manual;\n(b)become the subscriber of a certificate issued by an approved certification authority;\n(c)arranged for the payment of the fees referred to in rule 4 by inter-bank GIRO or such other means as the competent authority may require;\n(d)provided the competent authority with such information as may be specified in the operation manual; and\n(e)complied with such other requirements as set out in the operation manual.\n[S 856/2023 wef 18/12/2023]"
+   }
+  },
+  {
+   "id": "SG-H3547-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Digital signatures to be used for electronic transmission by subscribers"
+   },
+   "text": {
+    "en": "7.—(1) An electronic record to be transmitted through the relevant electronic service to the competent authority under these Rules by the subscriber of a certificate shall be signed with a digital signature.\n[S 856/2023 wef 18/12/2023]\n(2) Such digital signature shall be capable of being verified by reference to the public key listed in the subscriber’s certificate.\n(3) The electronic record signed with such digital signature shall be transmitted to the competent authority during the operational period of the certificate and in accordance with the provisions of the operation manual."
+   }
+  },
+  {
+   "id": "SG-H3547-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Digital signatures to be used for electronic transmission by competent authority"
+   },
+   "text": {
+    "en": "8.—(1) An electronic record to be transmitted through the relevant electronic service to the subscriber of a certificate by the competent authority under these Rules shall be signed with a digital signature.\n[S 856/2023 wef 18/12/2023]\n(2) Such digital signature shall be capable of being verified by reference to the public key listed in the certificate issued to the competent authority and the electronic record signed with such digital signature shall be transmitted to the subscriber’s information system during the operational period of the certificate."
+   }
+  },
+  {
+   "id": "SG-H3547-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Declaration of owner’s consent"
+   },
+   "text": {
+    "en": "9.—(1) Where an application for planning permission, conservation permission, subdivision permission or outline permission under Part III of the Act is made in the form of an electronic record through the relevant electronic service under these Rules and the applicant is not the owner of the land which is the subject of the application, then paragraph (2) shall apply.\n[S 856/2023 wef 18/12/2023]\n(2) If the consent of the owner of the land to the application is required to be obtained under the Planning (Development) Rules (R 3) or any other subsidiary legislation made under the Act, the electronic record shall contain a declaration in such form as the competent authority may require that the applicant has obtained the consent of the owner of the land, or of the legal personal representative, if the owner is deceased, to the application.\n(3) The competent authority may at any time by notice in writing require the applicant to produce evidence of the consent of the owner to the application, and the applicant shall produce such evidence to the competent authority within such period as specified in the notice."
+   }
+  },
+  {
+   "id": "SG-H3547-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Date of submission, grant or service"
+   },
+   "text": {
+    "en": "10.—(1) Any application, appeal, notice, request or other document or information submitted, served or made to or on the competent authority by a subscriber in the form of an electronic record through the relevant electronic service under these Rules shall be deemed to be submitted, served or made on the date the competent authority transmits an acknowledgment of the receipt of the electronic record to the subscriber’s information system.\n[S 856/2023 wef 18/12/2023]\n(2) Any permission, approval, decision, notice, warrant, order or other document given, granted, issued or served to or on any subscriber by the competent authority in the form of an electronic record through the relevant electronic service under these Rules shall be deemed to be given, granted, issued or served on the date of its transmission by the competent authority to the subscriber’s information system.\n[S 856/2023 wef 18/12/2023]"
+   }
+  },
+  {
+   "id": "SG-H3547-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Application of other subsidiary legislation"
+   },
+   "text": {
+    "en": "11. These Rules shall not affect the application of any other subsidiary legislation made under the Act or any subsidiary legislation made under the repealed Planning Act (Cap. 232, 1990 Ed.) to any application, appeal, permission, approval, decision, warrant, order, notice, request or other document or information transmitted in the form of an electronic record pursuant to these Rules except in so far as they are inconsistent with the provisions of these Rules."
+   }
+  },
+  {
+   "id": "SG-H3547-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRule 2\nAppointed certification authority\nNetrust Pte Ltd."
+   }
+  },
+  {
+   "id": "SG-H3547-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRule 3\nPart I\nApplications, Appeals, Notices, Requests or Other Documents and Information Which May be Submitted, Served or Made in the Form of Electronic Records THROUGH THE RELEVANT ELECTRONIC SERVICE\n1. Applications for written permission and extension thereof in relation to land outside a conservation area.\n2. Applications for outline permission and extension thereof for development of land outside a conservation area.\n3. Applications for extension of provisional permission granted under section 17(1) of the Act in relation to land outside a conservation area.\n[S 856/2023 wef 18/12/2023]\n4. All plans, documents or information to be submitted in relation to the applications mentioned in paragraphs 1, 2 and 3.\n5. All correspondence arising out of or in relation to the applications mentioned in paragraphs 1, 2 and 3.\n6. All plans and documents to be lodged with the competent authority pursuant to any condition specified in any notification in the Gazette made by the Minister authorising any development of land under section 21(6) of the Act or section 10 (12) of the repealed Planning Act (Cap. 232, 1990 Ed.).\n[S 856/2023 wef 18/12/2023]\nPart II\nPermissions, Approvals, Decisions, Notices, Warrants, Orders or Other Documents Which May be Given, Granted, Issued or Served in the Form of Electronic Records\n1. All permissions or approvals and refusals of permission or approval for applications mentioned in paragraphs 1, 2 and 3 of Part I.\n2. All advice, directions and other correspondence arising out of or in relation to the applications mentioned in paragraphs 1, 2 and 3 of Part I.\n[G.N. Nos. S 251/98; S 241/99]"
+   }
+  }
+ ]
+}

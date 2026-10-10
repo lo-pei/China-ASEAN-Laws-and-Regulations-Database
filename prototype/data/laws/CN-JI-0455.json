@@ -1,0 +1,77 @@
+{
+ "id": "CN-JI-0455",
+ "title": {
+  "zh": "最高人民法院关于违法的建筑物、构筑物、设施等强制拆除问题的批复",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p11",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2013-03-27",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 334,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于违法的建筑物、构筑物、设施等强制拆除问题的批复_20130327.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，整篇作为一条录入，共 1 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于违法的建筑物、构筑物、设施等强制拆除问题的批复_20130327.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0455-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "全文"
+   },
+   "text": {
+    "zh": "中华人民共和国最高人民法院\n公    告\n最高人民法院《关于违法的建筑物、构筑物、设施等强制拆除问题的批复》已于2013年3月25日由最高人民法院审判委员会第1572次会议通过，现予公布，自2013年4月3日起施行。\n2013年3月27日\n最高人民法院\n关于违法的建筑物、构筑物、设施等\n强制拆除问题的批复\n法释〔2013〕5号\n（2013年3月25日最高人民法院审判委员会第1572次会议通过 2013年3月27日最高人民法院公告公布 自2013年4月3日起施行）\n北京市高级人民法院：\n根据行政强制法和城乡规划法有关规定精神，对涉及违反城乡规划法的违法建筑物、构筑物、设施等的强制拆除，法律已经授予行政机关强制执行权，人民法院不受理行政机关提出的非诉行政执行申请。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于违法的建筑物、构筑物、设施等强制拆除问题的批复"
+  },
+  "promulgatedDate": "2013-03-27",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

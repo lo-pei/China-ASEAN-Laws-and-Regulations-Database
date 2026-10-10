@@ -1,0 +1,64 @@
+{
+ "id": "PH-H1031",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Republic Act Numbered Nine Hundred Eleven, Entitled “An Act Creating a Tariff Commission, Defining its Powers, and for Other Purposes,” by Inserting Between Sections Eighteen and Nineteen of Said Act a New Section to be Known as Section Eighteen-A",
+  "orig": "An Act to Amend Republic Act Numbered Nine Hundred Eleven, Entitled “An Act Creating a Tariff Commission, Defining its Powers, and for Other Purposes,” by Inserting Between Sections Eighteen and Nineteen of Said Act a New Section to be Known as Section Eighteen-A"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p14",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1954-08-25",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1196",
+ "officialCode": null,
+ "topics": [
+  "tax"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 930,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1954/ra_1196_1954.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1954/ra_1196_1954.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1031-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Republic Act Numbered Nine hundred eleven is hereby amended by inserting between sections eighteen and nineteen thereof a new section to be known as section eighteen-A which shall read as follows:\n\"Sec. 18-A. The President, upon prior investigation by and recommendation of the commission, is hereby empowered to decrease by not more than sixty per centum or to increase by not more than ten times the rates of import duty however established when in his judgment such reduction or increase is necessary in the interest of national economy, general welfare, and national defense, any other provision of this Act to the contrary notwithstanding: Provided, That such rates shall be effective until modified by Congress: Provided, further, That the authority herein granted to the President shall expire on December thirty-one, nineteen hundred and fifty-five.\""
+   }
+  },
+  {
+   "id": "PH-H1031-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: August 25, 1954."
+   }
+  }
+ ]
+}

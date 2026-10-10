@@ -1,0 +1,62 @@
+{
+ "id": "SG-H1039",
+ "title": {
+  "zh": null,
+  "en": "Currency Notes and Coins (Consolidation) Notification",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p13",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CA1967-N8",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 316,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CA1967-N8?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 2 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1039-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Currency Act\n(Chapter 69, Section 17(5))\nCurrency Notes and Coins (Consolidation) Notification\nN 8\nG.N. No. S 103/1997\nREVISED EDITION 1998\n(15th June 1998)\nThe denominations and characteristics of the coins to be issued by the Board of Commissioners of Currency, Singapore, are as shown in the Schedule."
+   }
+  },
+  {
+   "id": "SG-H1039-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE"
+   }
+  }
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "id": "SG-H926",
+ "title": {
+  "zh": null,
+  "en": "Criminal Procedure Code (Electronic Filing and Service for Supreme Court) Rules 2022",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p12",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CPC2010-S259-2022",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 18,
+ "chars": 25338,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CPC2010-S259-2022?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 18 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H926-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Rules are the Criminal Procedure Code (Electronic Filing and Service for Supreme Court) Rules 2022 and come into operation on 1 April 2022."
+   }
+  },
+  {
+   "id": "SG-H926-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "2. These Rules have effect in relation to any document which, under the Criminal Procedure Code 2010, is required to be filed with, served on, delivered to or otherwise conveyed to the Supreme Court, the Registrar, or any party to any criminal matter that is to be heard in the Supreme Court."
+   }
+  },
+  {
+   "id": "SG-H926-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "3. In these Rules, unless the context otherwise requires —\n“authorised user” means a person who is designated as an authorised user under rule 8;\n“conditioned statement” means any statement which is intended to be admitted under section 264 of the Criminal Procedure Code 2010;\n“deemed” means deemed until the contrary is proved;\n“electronic filing service” means the electronic filing service established under rule 4;\n“electronic filing service provider” means an electronic filing service provider appointed under rule 5;\n“electronic transmission” means electronic transmission by an authorised user or a registered user through the electronic filing service;\n“entity” means a sole proprietorship, an incorporated or unincorporated partnership (including a limited liability partnership and a limited partnership), a law corporation, a company or other body corporate, the Attorney‑General’s Chambers, a department of the Government or a public authority;\n“identification code” means the identification code of an authorised user or a registered user that is to be used in conjunction with the electronic filing service;\n“legal aid” means any legal aid or assistance granted under the Criminal Legal Aid Scheme or the Legal Assistance Scheme for Capital Offences or any other legal aid or assistance scheme for criminal offences as is determined by the Registrar;\n“non‑court day” means a Saturday, Sunday or public holiday;\n“public authority” means a body established or constituted by or under a public Act to perform or discharge a public function;\n“registered user” means an entity which is registered under rule 8;\n“Registrar” means —\n(a)the Registrar of the Supreme Court, in relation to any document which, under the Criminal Procedure Code 2010, is required to be filed with, served on, delivered to or otherwise conveyed to the Supreme Court (other than the Family Division of the High Court), the Registrar of the Supreme Court, or any party to any criminal matter that is to be heard in the Supreme Court (other than the Family Division of the High Court); and\n(b)the registrar of the Family Justice Courts, in relation to any document which, under the Criminal Procedure Code 2010, is required to be filed with, served on, delivered to or otherwise conveyed to the Family Division of the High Court, the registrar of the Family Justice Courts, or any party to any criminal matter that is to be heard in the Family Division of the High Court;\n“service bureau” means a service bureau established under rule 7;\n“working day” means any day other than a non‑court day."
+   }
+  },
+  {
+   "id": "SG-H926-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Establishment of electronic filing service"
+   },
+   "text": {
+    "en": "4.—(1) The Registrar may, with the approval of the Chief Justice, establish an electronic filing service and make provision for documents to be filed, served, delivered or otherwise conveyed using that service.\n(2) The electronic filing service established under Order 28, Rule 2 of the Rules of Court 2021 (G.N. No. S 914/2021) is deemed to be the electronic filing service established under paragraph (1) for the Supreme Court (other than the Family Division of the High Court).\n(3) The electronic filing service established under rule 914 of the Family Justice Rules 2014 (G.N. No. S 813/2014) is deemed to be the electronic filing service established under paragraph (1) for the Family Division of the High Court."
+   }
+  },
+  {
+   "id": "SG-H926-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Electronic filing service provider and superintendent"
+   },
+   "text": {
+    "en": "5.—(1) The electronic filing service must be operated by an electronic filing service provider appointed by the Registrar with the approval of the Chief Justice.\n(2) The Singapore Academy of Law is the superintendent of any electronic filing service provider appointed under paragraph (1).\n(3) The electronic filing service provider appointed under Order 28, Rule 3 of the Rules of Court 2021 is deemed to be the electronic filing service provider appointed under paragraph (1) for the Supreme Court (including the Family Division of the High Court)."
+   }
+  },
+  {
+   "id": "SG-H926-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Computer system of electronic filing service provider"
+   },
+   "text": {
+    "en": "6. For the purposes of these Rules, the computer system of an electronic filing service provider means the computer servers and network equipment operated, maintained or used by the electronic filing service provider, whether or not such computer servers and network equipment are owned by that electronic filing service provider."
+   }
+  },
+  {
+   "id": "SG-H926-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Service bureau"
+   },
+   "text": {
+    "en": "7.—(1) The Registrar may establish or appoint agents to establish a service bureau or service bureaux to assist in the filing, service, delivery or conveyance of documents using the electronic filing service.\n(2) Any agent appointed by the Registrar pursuant to paragraph (1) is not to be treated as such for the purposes of the acceptance of the payment of fees or service charges.\n(3) The Singapore Academy of Law is the superintendent of any agent appointed under this rule.\n(4) Any agent established or appointed under Order 28, Rule 5(1) of the Rules of Court 2021 is deemed to be an agent established or appointed under paragraph (1) for the Supreme Court (including the Family Division of the High Court).\n(5) A service bureau must not charge any fee for the use of the electronic filing service by an accused who receives any legal aid or who is not represented by an advocate or solicitor."
+   }
+  },
+  {
+   "id": "SG-H926-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Registered user and authorised user"
+   },
+   "text": {
+    "en": "8.—(1) Any entity may apply to the Registrar to be a registered user in accordance with any procedure required by the Registrar.\n(2) Any entity which is a registered user may designate one or more of its partners, directors, officers or employees to be an authorised user in accordance with any procedure required by the Registrar.\n(3) The Registrar may allow an entity to be a registered user or a person to be an authorised user on such terms and conditions as the Registrar thinks fit.\n(4) A person or entity who was deemed to have been registered as a registered user or designated as an authorised user (as the case may be) under regulation 8(4) of the Criminal Procedure Code (Electronic Filing and Service for Supreme Court) Regulations 2012 (G.N. No. S 669/2012) in force immediately before 1 April 2022, is deemed to have been registered as a registered user or designated as an authorised user (as the case may be) under this rule.\n(5) A registered user which designates an authorised user and supplies the authorised user’s identification code through the electronic filing service is deemed to approve the use of the identification code in conjunction with the electronic filing service by that authorised user.\n(6) Before using the electronic filing service, the registered user must —\n(a)enter into an agreement with the electronic filing service provider for the provision of the electronic filing service; and\n(b)make arrangements with the Registrar for the mode of payment of all applicable fees.\n(7) The Registrar may waive the application of paragraph (6), in whole or in part, in relation to such registered users or class of registered users as the Registrar deems fit.\n(8) For the purposes of these Rules —\n(a)an entity that is registered by the Registrar of the Supreme Court under Order 28, Rule 6(1) of the Rules of Court 2021 is deemed to be a registered user under paragraph (1) in the Supreme Court (including the Family Division of the High Court); and\n(b)a service bureau established under rule 7 is deemed to be a registered user in the Supreme Court (including the Family Division of the High Court), and every employee of a service bureau is deemed to be an authorised user."
+   }
+  },
+  {
+   "id": "SG-H926-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Electronic filing"
+   },
+   "text": {
+    "en": "9.—(1) Where a document is required under the Criminal Procedure Code 2010 to be filed with, served on, delivered to or otherwise conveyed to the Supreme Court or the Registrar, the document must be filed, served, delivered or otherwise conveyed —\n(a)using the electronic filing service in accordance with these Rules; and\n(b)in accordance with any other requirements determined by the Registrar.\n(2) For the purpose of paragraph (1), any requirement for the filing, service, delivery or conveyance of a document is satisfied by the filing, service, delivery or conveyance of a single copy of the document using the electronic filing service in accordance with these Rules.\n(3) The filing, service, delivery or conveyance of any document using the electronic filing service pursuant to paragraph (1) may be done —\n(a)by electronic transmission; or\n(b)via a service bureau.\n(4) Despite anything in paragraph (1), the Registrar may allow a document, part of a document or any class of documents to be filed, served, delivered or otherwise conveyed other than by using the electronic filing service.\n(5) The form of any document must be —\n(a)in such form as the Registrar may require; or\n(b)where the document is remotely composed on the computer system of the electronic filing service provider, in the form made available through the electronic filing service,\nand must, in the absence of such prescription, be in the form prescribed by rule 2 of the Criminal Procedure Rules 2018 (G.N. No. S 727/2018).\n(6) Any document which is filed with, served on, delivered to or otherwise conveyed to the Supreme Court or the Registrar through the electronic filing service by a registered user using an identification code is deemed to have been so filed, served, delivered or otherwise conveyed by the registered user and with the registered user’s intention to do so.\n(7) Any document which is filed with, served on, delivered to or otherwise conveyed to the Supreme Court or the Registrar through the electronic filing service by an authorised user (other than an employee of a service bureau) using an identification code is deemed to have been so filed, served, delivered or otherwise conveyed —\n(a)by the authorised user on behalf and with the authority of the registered user to whom the authorised user belongs; and\n(b)with the intention of that registered user to do so.\n(8) Any document which is filed with, served on, delivered to or otherwise conveyed to the Supreme Court or the Registrar through the electronic filing service by an authorised user, who is an employee of a service bureau, using an identification code is deemed to have been so filed, served, delivered or otherwise conveyed —\n(a)on behalf and with the authority of the person tendering the document to the service bureau for such purpose and with the intention of that person to do so; or\n(b)where the person tendering the document to the service bureau is acting as agent for his or her principal, on behalf and with the authority of his or her principal and with the intention of the principal to do so.\n(9) To avoid doubt, it is declared that any document which is filed with, served on, delivered to or otherwise conveyed to the Supreme Court or the Registrar using an identification code in compliance with the security procedures of the electronic filing service is a secure electronic record within the meaning of the Electronic Transactions Act 2010."
+   }
+  },
+  {
+   "id": "SG-H926-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Signing of electronic documents"
+   },
+   "text": {
+    "en": "10.—(1) Where a document is filed, served, delivered or otherwise conveyed using the electronic filing service, any requirement under the Criminal Procedure Code 2010 relating to the signing by or the signature of an authorised user or a registered user, is deemed to be complied with if the identification code of the authorised user or registered user has been applied to or associated with, directly or indirectly, the document or the transmission containing the document.\n(2) For the purposes of paragraph (1) —\n(a)where the identification code of a registered user is applied to or associated with, directly or indirectly, a document or a transmission containing a document in compliance with the security procedures of the electronic filing service —\n(i)the document is deemed to be signed by the registered user; and\n(ii)the contents of the document are deemed to be endorsed by the registered user;\n(b)where the identification code of an authorised user (other than an employee of a service bureau) is applied to or associated with, directly or indirectly, a document or a transmission containing a document in compliance with the security procedures of the electronic filing service —\n(i)the document is deemed to be signed by the authorised user on behalf and with the authority of the registered user to whom the authorised user belongs; and\n(ii)the contents of the document are deemed to be endorsed by that registered user; or\n(c)where the identification code of an authorised user, who is an employee of a service bureau, is applied to or associated with, directly or indirectly, a document or a transmission containing a document in compliance with the security procedures of the electronic filing service —\n(i)the document is deemed to be signed by the authorised user on behalf and with the authority of the person tendering the document to the service bureau and the contents of the document are deemed to be endorsed by that person; or\n(ii)where the person tendering the document to the service bureau is acting as agent for his or her principal, the document is deemed to be signed on behalf and with the authority of his or her principal and the contents of the document are deemed to be endorsed by his or her principal.\n(3) To avoid doubt, it is declared that the application to or association of the identification code of an authorised user or a registered user, directly or indirectly, with a document or a transmission containing a document in compliance with the security procedures of the electronic filing service is a secure electronic signature within the meaning of the Electronic Transactions Act 2010."
+   }
+  },
+  {
+   "id": "SG-H926-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Date of filing"
+   },
+   "text": {
+    "en": "11.—(1) Where a document is filed with, served on, delivered to or otherwise conveyed to the Supreme Court or the Registrar using the electronic filing service and is subsequently accepted by the Registrar, it is deemed to be filed, served, delivered or conveyed —\n(a)where the document is filed, served, delivered or conveyed by electronic transmission from the computer system of the authorised user or registered user, on the date and at the time that the first part of the transmission is received in the computer system of the electronic filing service provider;\n(b)where the document is remotely composed on the computer system of the electronic filing service provider, on the date and at the time that the first part of the transmission containing instructions from the authorised user or registered user to file, serve, deliver or convey the document is received in the computer system of the electronic filing service provider; and\n(c)where the document is filed, served, delivered or conveyed via a service bureau, on the date and at the time that the first part of the transmission is received in the computer system of the Registrar.\n(2) The registered user may produce a record of the transmission issued by the electronic filing service provider or the service bureau (as the case may be), together with a copy of the notification of acceptance of the document by the Registrar as evidence of —\n(a)the filing, service, delivery or conveyance of the document; or\n(b)the date and time of filing, service, delivery or conveyance.\n(3) If the Registrar is satisfied for any reason that any document should be treated as having been filed with, served on, delivered to or otherwise conveyed to the Supreme Court or the Registrar, or issued by the Supreme Court or the Registrar, at some earlier date and time, than the date and time mentioned in paragraph (1), the Registrar may cause the electronic filing service to reflect such earlier date and time, and that earlier date and time is deemed for the purposes of any proceedings in court to be the date and time on and at which the document was filed, served, delivered, conveyed or issued, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H926-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "When time for service begins to run"
+   },
+   "text": {
+    "en": "12.—(1) Where any document is filed with, served on, delivered to or otherwise conveyed to the Supreme Court or the Registrar by electronic transmission, the time for service of that document begins to run from the time that the Registrar’s notification of his or her acceptance of the document is received in the computer system of that registered user.\n(2) Where a document is filed with, served on, delivered to or otherwise conveyed to the Supreme Court or the Registrar via a service bureau, the time for service of that document only begins to run from the time that the Registrar’s notification of his or her acceptance of the document is received by the service bureau.\n(3) If the Registrar’s notification mentioned in paragraph (1) or (2) is received in the computer system or the service bureau (as the case may be) on a non‑court day, the notification is deemed for the purpose of this rule to have been received on the next working day."
+   }
+  },
+  {
+   "id": "SG-H926-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "13.—(1) If a document —\n(a)other than a document which is required by the Criminal Procedure Code 2010 to be served personally; or\n(b)being a document which is required by the Criminal Procedure Code 2010 to be served personally and which the party upon whom the document is to be served has agreed that the document may be served using the electronic filing service,\nis required under any other provision of the Criminal Procedure Code 2010 to be served, delivered or otherwise conveyed by a person to any other person and that person is an authorised user or a registered user or is represented by a solicitor who is an authorised user or a registered user (called in these Rules the person on whom the document is served), such service, delivery or conveyance may be effected by using the electronic filing service by electronic transmission or via a service bureau.\n(2) For the purpose of paragraph (1)(b), a party who has instructed his or her solicitor to accept service of a document which is required by the Criminal Procedure Code 2010 to be served personally is deemed to have agreed to be served using the electronic filing service.\n(3) The document is deemed to be served, delivered or otherwise conveyed —\n(a)where the document is served, delivered or otherwise conveyed by electronic transmission from the computer system of the authorised user or registered user, on the date and at the time that the first part of the transmission is received in the computer system of the electronic filing service provider; and\n(b)where the document is remotely composed on the computer system of the electronic filing service provider, on the date and at the time that the first part of the transmission containing instructions from the authorised user or registered user to so serve, deliver or convey the document is received in the computer system of the electronic filing service provider.\n(4) The person serving the document may produce a record of the service, delivery or conveyance to the person on whom the document is served which is issued by the electronic filing service provider or the service bureau as evidence of the service, delivery or conveyance, as well as the date and time of such service, delivery or conveyance.\n(5) The person serving the document may file a Registrar’s certificate of service issued through the electronic filing service provider or the service bureau in lieu of an affidavit of service and the certificate is regarded as prima facie evidence of such service, delivery or conveyance on the date and at the time as stated.\n(6) Where a document has to be served, delivered or conveyed by the person serving the document to more than one person, the person serving may effect such service, delivery or conveyance using the electronic filing service on such of those persons who are registered users or authorised users, and paragraphs (1) to (5) apply with such modifications as are necessary.\n(7) Any document which is served, delivered or otherwise conveyed by a registered user to a person through the electronic filing service using the identification code of the registered user is deemed to have been so served, delivered or otherwise conveyed by the registered user and with his or her intention to do so.\n(8) Any document which is served, delivered or otherwise conveyed by an authorised user (other than an employee of a service bureau) to a person through the electronic filing service using the identification code of the authorised user is deemed to have been so served, delivered or otherwise conveyed —\n(a)by the authorised user on behalf and with the authority of the registered user to whom the authorised user belongs; and\n(b)with the intention of that registered user to do so.\n(9) Any document which is served, delivered or otherwise conveyed by an authorised user, who is an employee of a service bureau, is deemed to have been so served, delivered or otherwise conveyed —\n(a)on behalf and with the authority of the person tendering the document to the service bureau for such purpose and with the intention of that person to do so; or\n(b)where the person tendering the document to the service bureau is acting as agent for the person’s principal, on behalf and with the authority of the person’s principal and with the intention of the principal to do so.\n(10) To avoid doubt, it is declared that any document which is served, delivered or otherwise conveyed to a person using an identification code in compliance with the security procedures of the electronic filing service is a secure electronic record within the meaning of the Electronic Transactions Act 2010.\n(11) Where the service of any document is effected under these Rules on a working day before 5 p.m., the document is, for the purpose of computing any period of time after service of that document, deemed to have been served on that working day, and, in any other case, on the next following working day.\n(12) To avoid doubt, nothing in this rule is to be construed as prescribing the hours within which service must be effected in order to be valid."
+   }
+  },
+  {
+   "id": "SG-H926-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Notification of delivery by Supreme Court or Registrar"
+   },
+   "text": {
+    "en": "14. Where the Supreme Court or the Registrar is required by any other provision of the Criminal Procedure Code 2010 to notify or to deliver or furnish any document to a person who is a registered user, the Supreme Court or the Registrar may do so using the electronic filing service."
+   }
+  },
+  {
+   "id": "SG-H926-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Documents"
+   },
+   "text": {
+    "en": "15.—(1) Every document must comply with such requirements and contain such information and particulars of parties or other persons required by the Registrar.\n(2) The Registrar, or any officer charged with the duty of receiving and filing any document, may reject the document if the document does not comply with the Criminal Procedure Code 2010, these Rules or any requirements determined by the Registrar.\n(3) A document rejected under paragraph (2) is to be treated as having been filed only on the date on which the document is subsequently accepted for filing by the Registrar, or any officer charged with the duty of receiving and filing any document, and not before that date.\n(4) Every document, if not in the English language, must be accompanied by a translation of the document certified by a court interpreter, or a translation verified by the affidavit of a person qualified to translate the document, before the document may be received, filed or used in the Supreme Court.\n(5) Amendments to any document must be effected in the manner determined by the Registrar."
+   }
+  },
+  {
+   "id": "SG-H926-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Affidavits and statements"
+   },
+   "text": {
+    "en": "16.—(1) Affidavits or conditioned statements which are filed in the Supreme Court using the electronic filing service may be used in all proceedings to the same extent and for the same purposes as paper affidavits or conditioned statements filed in the Supreme Court.\n(2) Where an affidavit is to be filed in the Supreme Court using the electronic filing service, the affidavit must comply with the following requirements:\n(a)the affidavit must be sworn in the usual way in which the deponent signs the original paper affidavit;\n(b)a true and complete electronic image of the original paper affidavit must be created;\n(c)the original paper affidavit must be retained by the party who filed the affidavit for a period of 7 years after the affidavit is filed.\n(3) Despite paragraph (2)(c), if the original paper affidavit subsequently becomes unavailable within 7 years after the affidavit was filed using the electronic filing service, the Supreme Court may grant permission for the electronic image of the original paper affidavit filed in the Supreme Court using the electronic filing service to be used in the proceedings for which the affidavit was filed, or in any other proceedings.\n(4) Paragraphs (2)(b) and (c) and (3) apply to conditioned statements to the same extent and in like manner as they apply to affidavits."
+   }
+  },
+  {
+   "id": "SG-H926-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "heading": {
+    "en": "Discrepancy"
+   },
+   "text": {
+    "en": "17. Where a document was filed using the electronic filing service, and there is any inconsistency between —\n(a)the information entered into the electronic template of the document or of the transmission containing the document; and\n(b)the information contained in the document,\nthe information contained in the document prevails where that document is remotely composed on the computer system of the electronic filing service provider, and in all other cases the information entered into the electronic template of the document prevails."
+   }
+  },
+  {
+   "id": "SG-H926-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "heading": {
+    "en": "Revocation"
+   },
+   "text": {
+    "en": "18. The Criminal Procedure Code (Electronic Filing and Service for Supreme Court) Regulations 2012 (G.N. No. S 669/2012) are revoked."
+   }
+  }
+ ]
+}

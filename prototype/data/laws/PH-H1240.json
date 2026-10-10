@@ -1,0 +1,84 @@
+{
+ "id": "PH-H1240",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend in Certain Particulars Commonwealth Act Numbered Three Hundred and Thirty-Eight, Known as the Charter of the City of Tagaytay",
+  "orig": "An Act to Amend in Certain Particulars Commonwealth Act Numbered Three Hundred and Thirty-Eight, Known as the Charter of the City of Tagaytay"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p17",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1955-09-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1406",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1700,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1955/ra_1406_1955.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1955/ra_1406_1955.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1240-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The second paragraph of section six of Commonwealth Act Numbered Three hundred and thirty-eight, as amended, otherwise known as the Charter of the City of Tagaytay, is further amended to read as follows:\n\"The mayor shall receive a compensation of six thousand pesos per annum. The city secretary shall receive a compensation of two thousand four hundred pesos per annum. The members of the city council, including the vice-mayor, shall each receive a per diem of ten pesos for each day of attendance at the session of the city council.\""
+   }
+  },
+  {
+   "id": "PH-H1240-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "A new section is hereby inserted between sections ten and eleven of the same Act, to be known as section ten-A, which shall read as follows:\n\"Sec. 10-A. Relations between the City of Tagaytay and the Province of Cavite. — The City of Tagaytay shall continue as part of the representative district of the Province of Cavite. The voters of the city shall be entitled to vote in the election of the elective provincial officials of the province."
+   }
+  },
+  {
+   "id": "PH-H1240-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Paragraph (g) of section eleven of the same Act, as amended, is further amended to read as follows:\n\"(g) He shall appoint, in accordance with the Civil Service Law, all employees of the office of the mayor, and all heads and assistant heads of departments, and employees and laborers of the city which may be provided for by law or ordinance, and, at any time, for cause, he may suspend any such officer or employee thus appointed for a period not exceeding ten days, which suspension may continue for a longer period if approved by the Department Head; and by and with the consent of the Department Head may discharge any such officer or employee."
+   }
+  },
+  {
+   "id": "PH-H1240-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: September 9, 1955."
+   }
+  }
+ ]
+}

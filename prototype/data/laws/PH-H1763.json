@@ -1,0 +1,64 @@
+{
+ "id": "PH-H1763",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Five of Republic Act Numbered Six Hundred Sixty-Three",
+  "orig": "An Act to Amend Section Five of Republic Act Numbered Six Hundred Sixty-Three"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p24",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1957-06-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2017",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1290,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1957/ra_2017_1957.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1957/ra_2017_1957.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1763-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section five of Republic Act Numbered Six hundred sixty-three is hereby amended to read as follows:\n\"Sec. 5. In order to enable the Corporation to exercise the powers and duties vested in it by this Act— \"(a) The Corporation is hereby exempted from the payment of import duty on such supplies, machinery and equipment such as fertilizer and lime as may be necessary for demonstration farming.\n\"(b) The President of the Philippines is hereby authorized to transfer and assign to the Corporation, the parcels of land belonging to the Government and situated in the City of Manila bounded on three sides by Azcarraga Street, Quezon Boulevard and Evangelista Streets, more specifically described as Lots Nos. 1, 2, 3, 4, 5, and 6, Block 2181, containing nine thousand three hundred ninety-eight square meters and such other real or personal property of the Republic of the Philippines as he may from time to time deem necessary and proper for the purposes of the Corporation.\n\"(c) The Corporation is hereby authorized to inspect and take records of palay, rice and corn stocks stored by any person, partnership or corporation, and to enter the premises where these commodities may be found, for such inspection and records.\""
+   }
+  },
+  {
+   "id": "PH-H1763-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
+   }
+  }
+ ]
+}

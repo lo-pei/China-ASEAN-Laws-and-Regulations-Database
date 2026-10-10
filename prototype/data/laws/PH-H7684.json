@@ -1,0 +1,94 @@
+{
+ "id": "PH-H7684",
+ "title": {
+  "zh": null,
+  "en": "An Act Constituting the First District Engineering Office in the Province of Cebu Into Two Separate and Distinct Engineering Offices, One to Be Located in the City of Cebu and the Other in the City of Danao, Both in the Province of Cebu",
+  "orig": "An Act Constituting the First District Engineering Office in the Province of Cebu Into Two Separate and Distinct Engineering Offices, One to Be Located in the City of Cebu and the Other in the City of Danao, Both in the Province of Cebu"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p109",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2003-08-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 9218",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1245,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2003/ra_9218_2003.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2003/ra_9218_2003.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H7684-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The First Engineering District in the Province of Cebu shall be constituted, under the supervision of the Department of Public Works and Highways, into two separate and distinct engineering districts. The present First Engineering District located in the Capitol in Cebu City shall remain where it is and the other shall be located in the City of Danao, Cebu to be known as the Fifth Engineering."
+   }
+  },
+  {
+   "id": "PH-H7684-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The First Engineering District shall comprise the cities of Mandaue and Lapu-lapu and the municipalities of Cordova Consolacion, Tabogon, Bogo, Daan Bantayan, San Remegio, Sta. Fe Bantayan, Madridejos and Tabuclan while the Fifth Engineering District shall comprise the City of Danao and the municipalities of Liloan, Compostela, Carmen, Catmon, Sogod, Borbon, San Francisco, Poro, Pilar and Tudela."
+   }
+  },
+  {
+   "id": "PH-H7684-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The present personnel, resources and equipment of the present First Engineering District shall be divided proportionately between the two (2) engineering districts."
+   }
+  },
+  {
+   "id": "PH-H7684-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "The Secretary of the Department of Public Works and Highways shall include in its program the funding requirements for the operationalization of the Cebu Fifth Engineering District in the year following its enactment into law and thereafter."
+   }
+  },
+  {
+   "id": "PH-H7684-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

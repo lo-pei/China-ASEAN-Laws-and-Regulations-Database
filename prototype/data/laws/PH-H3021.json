@@ -1,0 +1,65 @@
+{
+ "id": "PH-H3021",
+ "title": {
+  "zh": "授权买卖",
+  "en": "An Act Authorizing the Sale, Transfer and Conveyance to the Universal Telecommunications Service, Inc. of the Franchise and All the Properties and Rights Acquired Thereunder Granted to Mr. Anastacio Morales Under Republic Act Numbered Thirty-Two Hundred Forty-Six to Establish, Maintain and Operate Radio Stations for International and Domestic Communications",
+  "orig": "An Act Authorizing the Sale, Transfer and Conveyance to the Universal Telecommunications Service, Inc. of the Franchise and All the Properties and Rights Acquired Thereunder Granted to Mr. Anastacio Morales Under Republic Act Numbered Thirty-Two Hundred Forty-Six to Establish, Maintain and Operate Radio Stations for International and Domestic Communications"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p42",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1963-06-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 3585",
+ "officialCode": null,
+ "topics": [
+  "investment",
+  "data"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 484,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1963/ra_3585_1963.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1963/ra_3585_1963.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3021-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Subject to the provisions of Republic Act Numbered Thirty-two forty-six, the sale, transfer, and conveyance to the Universal Telecommunications Service, Inc., of the franchise and all the properties and rights acquired thereunder granted to Mr. Anastacio Morales under the said Act, to establish, maintain and operate radio stations for international and domestic communications, is hereby authorized and approved."
+   }
+  },
+  {
+   "id": "PH-H3021-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1963."
+   }
+  }
+ ]
+}

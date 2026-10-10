@@ -1,0 +1,68 @@
+{
+ "id": "TL-H143",
+ "title": {
+  "zh": "Primeira 修改 à《第10/2005号法律》，relativa aos Feriados Nacionais及 Datas Oficiais Comemorativas",
+  "en": null,
+  "orig": "Primeira Alteração à Lei n.º 10/2005, de 10 de agosto, relativa aos Feriados Nacionais e Datas Oficiais Comemorativas"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p03",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2016-05-25",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "本法系对《第10/2005号法律》的修改。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 3/2016",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 969,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2016/serie_1/SERIE_I_NO_20.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自官方公报 PDF（public/docs/2016/serie_1/SERIE_I_NO_20.pdf）第 9455–9456 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 【本法系对《第10/2005号法律》的修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H143-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Primeira Alteração à Lei n.º 10/2005, de 10 de agosto"
+   },
+   "text": {
+    "pt": "O artigo 2.º da Lei n.º 10/2005, de 10 de agosto, passa a ter a seguinte redação:\n«Artigo 2.º […]\n1.   […]:\na) O dia 1 de Janeiro, como Dia de Ano Novo;\nb) O dia 3 de Março, como Dia dos Veteranos;\nc) O dia 1 de Maio, como Dia Mundial do Trabalhador;\nd) O dia 20 de Maio, como Dia da Restauração da Independência;\ne) O dia 30 de Agosto, como Dia da Consulta Popular; f) O dia 1 de Novembro, como Dia de Todos os Santos;\ng) O dia 2 de Novembro, como Dia de Todos os Fiéis Defuntos;\nh) O dia 12 de Novembro, como Dia Nacional da Juventude; (i) O dia 28 de Novembro, como Dia da Proclamação da Independência; j) O dia 7 de Dezembro, como Dia da Memória;\nk) O dia 8 de Dezembro, como Dia da Nossa Senhora da Imaculada Conceição e Padroeira de Timor-Leste; l) O dia 25 de Dezembro, como Dia de Natal;\nm) O dia 31 de Dezembro, como Dia dos Heróis Nacionais.\n2.   […].\n3.   […].\n4.   […].\n5.   […].\n6.   […].»"
+   }
+  },
+  {
+   "id": "TL-H143-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

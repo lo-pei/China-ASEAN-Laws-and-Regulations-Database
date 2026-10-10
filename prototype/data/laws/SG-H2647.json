@@ -1,0 +1,91 @@
+{
+ "id": "SG-H2647",
+ "title": {
+  "zh": null,
+  "en": "Infrastructure Protection (Protected Areas) Order 2025",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p33",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation IPA2017-S27-2025",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1774,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/IPA2017-S27-2025?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 4 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2647-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. This Order is the Infrastructure Protection (Protected Areas) Order 2025 and comes into operation on 18 January 2025."
+   }
+  },
+  {
+   "id": "SG-H2647-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Premises declared to be protected area"
+   },
+   "text": {
+    "en": "2. The premises described in the second column of the Schedule are declared to be a protected area for the purposes of the Act, and the person specified in the first column of that Schedule is designated as the authority of the protected area."
+   }
+  },
+  {
+   "id": "SG-H2647-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Revocation"
+   },
+   "text": {
+    "en": "3. Revoke the Protected Areas Order 2012 (G.N. No. S 350/2012)."
+   }
+  },
+  {
+   "id": "SG-H2647-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Area\nChief Executive Officer,\nChangi Airport Group\n(Singapore) Pte. Ltd.\nSELETAR AIRPORT — LANDSIDE\nAll that area comprised in part of Lot 5170X in Mukim No. 20 occupied by “SELETAR AIRPORT — LANDSIDE” containing an area of about 5,063 square metres and bounded approximately as follows:\nCommencing at a point 44,585.619 metres North and 31,494.028 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n44,585.619\n31,494.028\n44,574.881\n31,479.413\n44,558.355\n31,473.859\n44,557.253\n31,476.614\n44,554.342\n31,475.573\n44,556.404\n31,469.956\n44,559.919\n31,471.134\n44,562.269\n31,466.177\n44,571.251\n31,454.085\n44,573.680\n31,450.762\n44,574.557\n31,450.877\n44,575.508\n31,448.843\n44,587.675\n31,429.825\n44,590.087\n31,425.446\n44,571.361\n31,416.086\n44,606.320\n31,352.572\n44,604.770\n31,343.416\n44,607.069\n31,338.475\n44,635.653\n31,355.515\n44,625.681\n31,373.990\n44,602.510\n31,416.918\n44,599.027\n31,423.327\n44,607.480\n31,428.716\n44,610.861\n31,430.872\n44,629.630\n31,442.840\n44,593.159\n31,499.122\n44,586.645\n31,494.677\nto the point of commencement.\nThe boundaries of “SELETAR AIRPORT — LANDSIDE” are more particularly delineated in the Survey Plan No. SB‑50LS‑LCSE‑S18022‑021 set out below."
+   }
+  }
+ ]
+}

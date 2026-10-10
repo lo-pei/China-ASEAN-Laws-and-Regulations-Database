@@ -1,0 +1,64 @@
+{
+ "id": "PH-H452",
+ "title": {
+  "zh": null,
+  "en": "An Act to Provide for Uniform Taxes and Fees Payable in Respect to the Wireless Reception And/or Transmission of Wordage, Pictures or Other Matter Intended for Publication",
+  "orig": "An Act to Provide for Uniform Taxes and Fees Payable in Respect to the Wireless Reception And/or Transmission of Wordage, Pictures or Other Matter Intended for Publication"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p06",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1949-06-04",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 359",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 851,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1949/ra_359_1949.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1949/ra_359_1949.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H452-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The provisions of existing laws to the contrary notwithstanding, all persons, firms or corporations operating a wireless received and/or transmitting station for wireless reception and/or transmission of wordage, pictures or other matter intended for publication, either in the public press or by means of broadcast radio news, and not devoted principally to the reception and/or transmission of advertisements, shall be subject to the payment of the real property tax, the basic annual and additional residence taxes, and the income tax, which shall be in lieu of all other taxes. They shall, in addition, pay such fees and charges as are or may be imposed by executive order or regulation, such as filing fees, construction permit and station license fees, and annual permit fees."
+   }
+  },
+  {
+   "id": "PH-H452-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 4, 1949."
+   }
+  }
+ ]
+}

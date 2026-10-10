@@ -1,0 +1,84 @@
+{
+ "id": "PH-H9999",
+ "title": {
+  "zh": null,
+  "en": "Tax Amnesty Act",
+  "orig": "An Act Extending the Estate Tax Amnesty and for Other Purposes, Amending Section 6 of Republic Act No. 11213, Otherwise Known as the \"Tax Amnesty Act\""
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p142",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2021-06-30",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 11569",
+ "officialCode": null,
+ "topics": [
+  "tax"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 2168,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2021/ra_11569_2021.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2021/ra_11569_2021.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H9999-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section 6 of Republic Act No. 11213 is hereby amended to read as follows:\n\"Section 6. Availment of the Estate Tax Amnesty; When and Where to File and Pay. - The executor or administrator of the estate, or if there is no executor or administrator appointed, the legal heirs, transferees or beneficiaries, who wish to avail of the Estate Tax Amnesty shall, within June 15, 2021 until June 24, 2023, file with the Revenue District Office of the Bureau of Internal Revenue, which has jurisdiction over the last residence of the decedent, a sworn Estate Tax Amnesty Return, in such forms as may be prescribed in the Implementing Rules and Regulations. The payment of the amnesty tax shall be made at the time the Return is filed: Provided, That for nonresident decedents, the Estate Tax Amnesty Return shall be filed and the corresponding amnesty tax be paid at Revenue District Office No. 39, or any other Revenue District Office which shall be indicated in the Implementing Rules and Regulations ;\n\" Provided, further, That the appropriate Revenue District Office shall issue and endorse an acceptance payment form, in such form as may be prescribed in the Implementing Rules and Regulations of this Act for the authorized agent bank, or in the absence thereof, the revenue collection agent or municipal treasurer concerned, to accept the tax amnesty payment;\n\" Provided, finally, That the availment of the Estate Tax Amnesty and the issuance of the corresponding Acceptance Payment Form do not imply any admission of criminal, civil or administrative liability on the part of the availing estate.\""
+   }
+  },
+  {
+   "id": "PH-H9999-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Implementing Rules and Regulations. - Within sixty (60) days from its effectivity, the Secretary of Finance shall, in coordination with the Commissioner of Internal Revenue, issue the necessary rules and regulations for the effective implementation of this Act."
+   }
+  },
+  {
+   "id": "PH-H9999-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Repealing Clause. - All laws, orders, rules and regulations which are inconsistent with the provisions of this Act are hereby repealed or amended accordingly."
+   }
+  },
+  {
+   "id": "PH-H9999-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in two (2) newspapers of general circulation."
+   }
+  }
+ ]
+}

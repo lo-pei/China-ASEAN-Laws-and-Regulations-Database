@@ -1,0 +1,74 @@
+{
+ "id": "KH-H175",
+ "title": {
+  "zh": "法律",
+  "en": "Law on the Establishment of the Secretariat of Civil Aviation",
+  "orig": "ច្បាប់ស្តីពីការបង្កើតរដ្ឋលេខាធិការដ្ឋានអាកាសចរស៊ីវិល"
+ },
+ "country": "KH",
+ "countryName": "柬埔寨",
+ "layer": "intl",
+ "pack": "kh-p03",
+ "language": "km",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1996-01-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "council_of_ministers",
+ "docNumber": "នស/រកម/០១៩៦/២៣",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 921,
+ "source": {
+  "name": "Open Development Cambodia 法规数据库（data.opendevelopmentcambodia.net，非 .gov.kh 官方域名，属第三方聚合平台）",
+  "url": "https://data.opendevelopmentcambodia.net/en/dataset/law-on-creation-of-secretariat-of-civil-aviation"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；系由官方 PDF 扫描件经 Tesseract 5.4（khm，tessdata_best）光学字符识别后按「មាត្រា／ប្រការ N」体例切分，原文语言：高棉语（km）。 ★ 本部正文为**机器识别结果，未经逐字人工校勘**，可能存在字符误识、漏识或分行错位；不得视为与官方原件逐字一致。具法律效力者以官方原件为准，来源见 sourceUrl（https://data.opendevelopmentcambodia.net/en/dataset/law-on-creation-of-secretariat-of-civil-aviation）。 未改写、未摘译、未节选、未补号；OCR 未能识别的区域不写入。 识别结果中条号不连续（自第 1 条起，止于第 5 条，缺 2、4）：可能为原件本身跳号，亦可能为 OCR 漏识，未擅自补号。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": [
+  "https://data.opendevelopmentcambodia.net/en/dataset/law-on-creation-of-secretariat-of-civil-aviation"
+ ],
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "KH-H175-A1",
+   "no": 1,
+   "noLabel": {
+    "km": "មាត្រា ១"
+   },
+   "text": {
+    "km": ".                                 .\n”       ត្រូវបានបន្មើតរខ្ឋលេខាធិការខ្ទានអាតាសចរស៊ីវិល   ចំណុះទីស្តិតារគណៈរដ្ឋមន្ត្រីត្រោមការ ត្រប់ត្រងរបស់នាយគរដ្ឋមន្ត្រី  ។\nខាត្រា ២..                          - រដ្ឋំលេខាធិការខ្ឋានអាកាសច៖ស៊ីវិលមានភារកិច្ចដឹកនាំ / និងគ្រប់គ្រងលើវិស័យអាកាសចរ ស៊ីវិល នេព្រះរាជាណាចក្រកម្ពជា ។"
+   }
+  },
+  {
+   "id": "KH-H175-A3",
+   "no": 3,
+   "noLabel": {
+    "km": "មាត្រា ០៣"
+   },
+   "text": {
+    "km": "_         .\nរដ្ឋលេខាធិការដ្ឋានអាកាសបរស៊ីវិលគ្រូវបានដឹកតនាំដោយអនុរដ្ឋលេខាជិការមួយរូប ។\nខាម្ភា ៤-- តាររៀបច័រចនាសម្ភ័ន្ធនិ ងការប្រព្រិត្តុទៅរបស់វដ្ឋលេខាធិការខ្ទានអាកាសចរស៊ីវិល “ គ្រូវគំលាត់ ដោយគអនុក្រីត្យ ។"
+   }
+  },
+  {
+   "id": "KH-H175-A5",
+   "no": 5,
+   "noLabel": {
+    "km": "មាត្រា ៥"
+   },
+   "text": {
+    "km": ".                           - ' បទបញ្ណត្តិទាំងឡាយដៃលជួយនឹងច្បាប់នេះគ្រូវទុកជានិរាករណ៍ ។\nមាតា ៦...                         .\n_                 ច្បាប់គេះត្រូវប្រកាសជាការប្រញ្ជាប់ ។\n              ង្វើ៖នៅរាជធានឹភ្នំ(ពព្យ រថ្ងទីយ៤ ខែ បគ ឆ្ទរំ ១៩៩៦ បានយតសេចក្តីត្រាបបង្គិទួលថ្វាយ          .\nលួមឡាយព្រះហស្តលេខាព្រះមហាភ្សត្រ នា«យ5ករដ្ឋប្រ្រីន១  នាយករដ្ឋបង្រន២ ន6រាគ្កុយ 12លាឬ្ញ     ឃាន ៤ ស កាន                       ."
+   }
+  }
+ ]
+}

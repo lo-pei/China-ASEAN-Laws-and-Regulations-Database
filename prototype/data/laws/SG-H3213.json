@@ -1,0 +1,558 @@
+{
+ "id": "SG-H3213",
+ "title": {
+  "zh": null,
+  "en": "Merchant Shipping (Wreck Removal) Act 2017",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p40",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act MSWRA2017",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 33,
+ "chars": 67432,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/MSWRA2017?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 33 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3213-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Merchant Shipping (Wreck Removal) Act 2017."
+   }
+  },
+  {
+   "id": "SG-H3213-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“affected State” means the State in whose Convention area the wreck is located;\n“Authority” means the Maritime and Port Authority of Singapore established under the Maritime and Port Authority of Singapore Act 1996;\n“Convention” means the Nairobi International Convention on the Removal of Wrecks, 2007, the text of which is in the First Schedule;\n“Convention area” means the exclusive economic zone of a State Party, established in accordance with international law or, if a State Party has not established such a zone, an area beyond and adjacent to the territorial sea of that State determined by that State in accordance with international law and extending not more than 200 nautical miles from the baselines from which the breadth of its territorial sea is measured;\n“court”, in relation to any proceedings, includes any court having jurisdiction in the matter to which the proceedings relate;\n“damage” includes loss;\n“Director” means the Director of Marine appointed under section 4 of the Merchant Shipping Act 1995 and includes the Deputy Director of Marine appointed under that section;\n“gross tonnage”, in relation to a ship, means its gross tonnage calculated in accordance with the regulations in Annex 1 of the International Convention on Tonnage Measurement of Ships, 1969 and any amendment to it which has come into force and has been accepted by the Government, or any successor convention accepted by the Government;\n“hazard” means any condition or threat that —\n(a)poses a danger or impediment to navigation; or\n(b)may reasonably be expected to result in major harmful consequences to the marine environment, or damage to the coastline or related interests of one or more States;\n“International Safety Management Code” means the International Management Code for the Safe Operation of Ships and for Pollution Prevention 2002 adopted by the International Maritime Organization, and any amendment to it which has come into force and has been accepted by the Government;\n“maritime casualty” means a collision of ships, stranding or other incident of navigation, or other occurrence on board a ship or external to it, resulting in material damage or imminent threat of material damage to a ship or its cargo;\n“master”, in relation to a ship, includes every person, except a pilot, having command or charge of the ship;\n“operator”, in relation to a ship, means —\n(a)the owner of the ship; or\n(b)any other organisation or person such as the manager, or the bareboat charterer, who has assumed the responsibility for operation of the ship from the owner of the ship and who, on assuming such responsibility, has agreed to take over all duties and responsibilities established under the International Safety Management Code;\n“owner”, in relation to a ship, means the owner, and includes the registered owner;\n“port”, in relation to Singapore, has the meaning given by the Maritime and Port Authority of Singapore Act 1996;\n“registered owner”, in relation to a ship, means —\n(a)the person registered as the owner of the ship; or\n(b)in the absence of registration, the person owning the ship,\nexcept that, in relation to a ship owned by a State which is operated by a person registered in that State as the ship’s operator, it means the person registered as its operator;\n“related interests” means the interests of a coastal State directly affected or threatened by a wreck, such as —\n(a)maritime coastal, port and estuarine activities, including fisheries activities, constituting an essential means of livelihood of the persons concerned;\n(b)tourist attractions and other economic interests of the area concerned;\n(c)the health of the coastal population and the wellbeing of the area concerned, including conservation of marine living resources and of wildlife; and\n(d)offshore and underwater infrastructure;\n“removal” means any form of prevention, mitigation or elimination of the hazard created by a wreck;\n“ship” means a seagoing vessel of any type whatsoever, and includes hydrofoil boats, air‑cushion vehicles, submersibles, floating craft and floating platforms, except when those platforms are on location engaged in the exploration, exploitation or production of seabed mineral resources;\n“Singapore ship” means a ship —\n(a)that is registered, provisionally or otherwise, under Part 2 of the Merchant Shipping Act 1995; and\n(b)which registry is not closed or deemed to be closed or suspended under that Part;\n“Singapore’s Convention area” means the exclusive economic zone of Singapore;\n“State Party” means a State in respect of which the Convention is in force;\n“wreck”, following upon a maritime casualty, means —\n(a)a sunken or stranded ship;\n(b)any part of a sunken or stranded ship, including any object that is or has been on board such a ship;\n(c)any object that is lost at sea from a ship and that is stranded, sunken or adrift at sea; or\n(d)a ship that is about, or may reasonably be expected, to sink or to strand, where effective measures to assist the ship or any property in danger are not already being taken."
+   }
+  },
+  {
+   "id": "SG-H3213-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "3. Nothing in this Act applies in relation to any wreck following upon a maritime casualty occurring before 8 September 2017."
+   }
+  },
+  {
+   "id": "SG-H3213-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 REPORTING OF WRECKS"
+   },
+   "heading": {
+    "en": "Reporting of wrecks"
+   },
+   "text": {
+    "en": "4.—(1) Where a Singapore ship is involved in a maritime casualty resulting in a wreck in a Convention area other than Singapore’s Convention area, the master or the operator of that ship must report the wreck to the government of the affected State without delay.\n(2) Where a Singapore ship is involved in a maritime casualty resulting in a wreck in Singapore’s Convention area, the master or the operator of that ship must report the wreck to the Director without delay.\n(3) The report mentioned in subsections (1) and (2) must contain —\n(a)the name and principal place of business of the registered owner of the ship involved in the maritime casualty; and\n(b)so far as it is known, the following information:\n(i)the precise location of the wreck;\n(ii)the type, size and construction of the wreck;\n(iii)the nature of the damage to, and the condition of, the wreck;\n(iv)the nature and quantity of the cargo, in particular any hazardous and noxious substances;\n(v)the amount and types of oil, including bunker oil and lubricating oil, on board.\n(4) If any of the persons mentioned in subsection (1) or (2) makes a report under that subsection, the other person mentioned in that subsection is not required to make the report.\n(5) If a report required to be made under subsection (1) or (2) is not made, the master and the operator of the ship shall each be guilty of an offence.\n(6) If the report made under subsection (1) or (2) does not comply with subsection (3), the master or the operator of the ship who made the report shall be guilty of an offence.\n(7) A master or an operator of a ship who is guilty of an offence under this section shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H3213-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 3 LOCATING, MARKING AND REMOVAL OF WRECKS"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "5. This Part applies where a ship is involved in a maritime casualty resulting in a wreck in Singapore’s Convention area."
+   }
+  },
+  {
+   "id": "SG-H3213-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 LOCATING, MARKING AND REMOVAL OF WRECKS"
+   },
+   "heading": {
+    "en": "Locating and marking of wrecks"
+   },
+   "text": {
+    "en": "6. Upon becoming aware of a wreck, the Director must take all reasonable steps to ensure Singapore’s compliance with its obligations under Articles 7 and 8 of the Convention."
+   }
+  },
+  {
+   "id": "SG-H3213-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 LOCATING, MARKING AND REMOVAL OF WRECKS"
+   },
+   "heading": {
+    "en": "Measures to facilitate wreck removal"
+   },
+   "text": {
+    "en": "7.—(1) Where a wreck has been determined by the Director to constitute a hazard, the Director must take all reasonable steps to give a notice requiring the registered owner of the ship involved in the maritime casualty resulting in the wreck to —\n(a)remove the wreck; and\n(b)provide evidence of insurance or other financial security as required by any regulations made under this Act.\n(2) The notice must be in writing and must —\n(a)specify a reasonable deadline within which the registered owner must remove the wreck, taking into account the nature of the hazard as determined by the Director;\n(b)specify that if the registered owner does not remove the wreck within that deadline, the Director may remove the wreck at the registered owner’s expense; and\n(c)state the Director’s intention to intervene immediately in circumstances where the hazard becomes particularly severe.\n(3) The notice may specify conditions as to the removal of the wreck to the extent necessary to ensure that the removal proceeds in a manner that is consistent with considerations of safety and protection of the marine environment."
+   }
+  },
+  {
+   "id": "SG-H3213-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 LOCATING, MARKING AND REMOVAL OF WRECKS"
+   },
+   "heading": {
+    "en": "Removal of wrecks"
+   },
+   "text": {
+    "en": "8.—(1) The Director may remove a wreck which the Director has determined to constitute a hazard —\n(a)where the registered owner of the ship does not remove the wreck within the deadline specified in the notice mentioned in section 7(2);\n(b)where the registered owner of the ship cannot be contacted; or\n(c)where the Director has determined that having regard to the nature of the hazard immediate action must be taken to remove the wreck.\n(2) Where the Director removes a wreck under subsection (1), the Director must do so by the most practical and expeditious means available, consistent with considerations of safety and protection of the marine environment.\n(3) The Director —\n(a)may sell any wreck, free of liens and encumbrances and in the manner the Director thinks fit;\n(b)may take out of the proceeds of the sale of the wreck the expenses incurred by the Director in relation to the sale as reimbursement; and\n(c)must hold the surplus of the proceeds of the sale (if any) in trust for the persons entitled to the surplus of the proceeds of sale."
+   }
+  },
+  {
+   "id": "SG-H3213-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 LOCATING, MARKING AND REMOVAL OF WRECKS"
+   },
+   "heading": {
+    "en": "Determination of hazard"
+   },
+   "text": {
+    "en": "9. The Director must take into account the matters set out in Article 6 of the Convention when determining —\n(a)whether a wreck constitutes a hazard under section 7(1) or 8(1); or\n(b)the nature of the hazard under section 7(2)(a) or 8(1)(c)."
+   }
+  },
+  {
+   "id": "SG-H3213-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 4 CIVIL LIABILITY FOR WRECK REMOVAL"
+   },
+   "heading": {
+    "en": "Liability of registered owner"
+   },
+   "text": {
+    "en": "10.—(1) This section applies where —\n(a)a ship is involved in a maritime casualty resulting in a wreck in Singapore’s Convention area; and\n(b)costs are incurred by the Director for locating, marking and removing the wreck under Part 3.\n(2) Subject to subsections (3) and (4), the registered owner of the ship is liable for the Director’s costs.\n(3) The registered owner of a ship is not liable for the Director’s costs if or to the extent that liability for the costs would conflict with —\n(a)a convention listed in paragraph 1 of Article 11 of the Convention if Singapore is a party to the convention and the convention is in force in Singapore;\n(b)any enactment implementing such a convention; or\n(c)any other provision specified in an order made by the Authority, with the approval of the Minister, and published in the Gazette.\n(4) The registered owner of a ship is not liable for the Director’s costs if the registered owner of the ship proves that an exception set out in paragraph 1(a), (b) or (c) of Article 10 of the Convention applies.\n(5) Where the registered owner of each of 2 or more ships is liable for costs under this section but the costs for which each is liable cannot reasonably be separated, the registered owners are jointly liable for the total costs.\n(6) For the purposes of this section, a reference to the registered owner of the ship is a reference to the registered owner of the ship involved in the maritime casualty resulting in the wreck at the time of the maritime casualty."
+   }
+  },
+  {
+   "id": "SG-H3213-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 4 CIVIL LIABILITY FOR WRECK REMOVAL"
+   },
+   "heading": {
+    "en": "Restriction of liability for costs"
+   },
+   "text": {
+    "en": "11. No claim for the costs mentioned in section 10(2) may be made against the registered owner of the ship otherwise than in accordance with the provisions of this Act."
+   }
+  },
+  {
+   "id": "SG-H3213-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 4 CIVIL LIABILITY FOR WRECK REMOVAL"
+   },
+   "heading": {
+    "en": "Limitation of liability under section 10"
+   },
+   "text": {
+    "en": "12. If a registered owner of a ship incurs liability under section 10, that liability may be limited in accordance with and in the manner provided in Part 8 of the Merchant Shipping Act 1995, as if paragraph 1(d) and (e) of Article 2 of the Convention on Limitation of Liability for Maritime Claims, 1976 has the force of law in Singapore."
+   }
+  },
+  {
+   "id": "SG-H3213-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 4 CIVIL LIABILITY FOR WRECK REMOVAL"
+   },
+   "heading": {
+    "en": "Extinguishment of claims"
+   },
+   "text": {
+    "en": "13. An action to recover costs incurred under section 10 may not be brought unless the action is commenced on or before the earlier of the following:\n(a)the end of the period of 3 years after the date on which the notice by the Director is given under section 7;\n(b)the end of the period of 6 years after the date of the maritime casualty which resulted in the wreck."
+   }
+  },
+  {
+   "id": "SG-H3213-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 4 CIVIL LIABILITY FOR WRECK REMOVAL"
+   },
+   "heading": {
+    "en": "Application and interpretation of this Division"
+   },
+   "text": {
+    "en": "14.—(1) This Division applies to a ship, other than an excluded ship, having a gross tonnage of 300 or above.\n(2) In this Division —\n“covered by wreck removal insurance”, in respect of a ship, means that there is in force in respect of the ship wreck removal insurance;\n“excluded ship” means a ship specified in the Second Schedule;\n“foreign ship” means a ship other than a Singapore ship;\n“wreck removal insurance” means a contract of insurance or other financial security satisfying the requirements of Article 12 of the Convention."
+   }
+  },
+  {
+   "id": "SG-H3213-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 4 CIVIL LIABILITY FOR WRECK REMOVAL"
+   },
+   "heading": {
+    "en": "Compulsory insurance against liability for wreck removal"
+   },
+   "text": {
+    "en": "15.—(1) A Singapore ship may not enter or leave a port in Singapore, or a port in a country other than Singapore, unless —\n(a)the ship is covered by wreck removal insurance;\n(b)the Director has certified that the ship is covered by wreck removal insurance; and\n(c)a copy of the Director’s certificate is carried on board the ship.\n(2) A foreign ship may not enter or leave a port in Singapore unless —\n(a)the ship is covered by wreck removal insurance; and\n(b)there is carried on board the ship written evidence of paragraph (a).\n(3) The master of a ship must —\n(a)ensure that the certificate mentioned in subsection (1)(c) or the written evidence mentioned in subsection (2)(b) (as the case may be) is carried on board the ship; and\n(b)on demand, produce the certificate or the written evidence (as the case may be) to —\n(i)any officer of the Authority; or\n(ii)any consular officer within the meaning of section 2(1) of the Merchant Shipping Act 1995.\n(4) If —\n(a)a Singapore ship enters or leaves, or a person attempts to navigate the ship into or out of, a port in Singapore or any other country in contravention of subsection (1); or\n(b)a foreign ship enters or leaves, or a person attempts to navigate the ship into or out of, a port in Singapore in contravention of subsection (2),\nthe master and the operator of the ship shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $20,000.\n(5) A master of a ship who fails to comply with subsection (3)(a) or (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.\n(6) If a person attempts to navigate a ship into or out of a port in Singapore in contravention of subsection (4), the ship may be detained by —\n(a)the Director;\n(b)an officer of the Authority;\n(c)a police officer; or\n(d)a commissioned officer on full pay in the Singapore Armed Forces.\n(7) Section 209 of the Merchant Shipping Act 1995 applies to the detention of a ship under this Act with the necessary modifications.\n(8) In this section, a reference to a port includes —\n(a)in the case of a port in Singapore — any offshore facility in the territorial sea of Singapore; and\n(b)in the case of a port in a country other than Singapore — an offshore facility in the territorial sea of that country."
+   }
+  },
+  {
+   "id": "SG-H3213-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 4 CIVIL LIABILITY FOR WRECK REMOVAL"
+   },
+   "heading": {
+    "en": "Issue of certificates"
+   },
+   "text": {
+    "en": "16.—(1) The registered owner of a Singapore ship may apply to the Director for a certificate that the ship is covered by wreck removal insurance for the period for which the certificate will relate.\n(2) Subject to subsection (3), the Director must issue the certificate upon an application under subsection (1) if the Director is satisfied that the ship is covered by wreck removal insurance for the period for which the certificate will relate.\n(3) The Director may refuse to issue the certificate if the Director has any doubt as to —\n(a)whether the obligations of the person providing the wreck removal insurance will be met; or\n(b)whether the insurance will satisfy the requirements of Article 12 of the Convention in all circumstances.\n(4) The registered owner of a foreign ship registered in any country that is not a State Party may also apply to the Director for a certificate that the ship is covered by wreck removal insurance for the period for which the certificate will relate.\n(5) The Director may, upon an application under subsection (4) —\n(a)issue the certificate if the Director is satisfied that the ship is covered by wreck removal insurance for the period for which the certificate will relate; and\n(b)without prejudice to any other ground, refuse to issue the certificate on a ground mentioned in subsection (3).\n(6) The Director must —\n(a)maintain a record of any certificate issued under this section; and\n(b)make the record available for public inspection."
+   }
+  },
+  {
+   "id": "SG-H3213-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 CIVIL LIABILITY FOR WRECK REMOVAL"
+   },
+   "heading": {
+    "en": "Rights of third parties against insurers"
+   },
+   "text": {
+    "en": "17.—(1) This section applies where —\n(a)a ship is involved in a maritime casualty resulting in a wreck in Singapore’s Convention area; and\n(b)at the time of the maritime casualty, the ship is covered by wreck removal insurance.\n(2) If the registered owner of the ship is liable for the Director’s costs of locating, marking and removing the wreck under section 10, the Director may recover the costs from the person providing the wreck removal insurance (called in this section the insurer).\n(3) It is a defence for the insurer in a claim under this section to prove that the maritime casualty was caused by the wilful misconduct of the registered owner of the ship.\n(4) The insurer may also rely on any defences available to the registered owner of the ship.\n(5) The insurer may limit its liability in respect of a claim made under this section in the same manner and to the same extent as the registered owner of the ship may limit its liability and may do so whether or not the maritime casualty resulted from any act or omission of the registered owner."
+   }
+  },
+  {
+   "id": "SG-H3213-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 CIVIL LIABILITY FOR WRECK REMOVAL"
+   },
+   "heading": {
+    "en": "Jurisdiction of Singapore courts and registration of foreign judgments"
+   },
+   "text": {
+    "en": "18. Section 3(1)(i) of the High Court (Admiralty Jurisdiction) Act 1961 is to be construed as extending to any claim in respect of a liability incurred by the registered owner of a ship under this Part."
+   }
+  },
+  {
+   "id": "SG-H3213-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 CIVIL LIABILITY FOR WRECK REMOVAL"
+   },
+   "heading": {
+    "en": "Saving for recourse actions"
+   },
+   "text": {
+    "en": "19. Nothing in this Part affects any claim, or the enforcement of any claim, that a person incurring any liability under this Part may have against another person in respect of that liability."
+   }
+  },
+  {
+   "id": "SG-H3213-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Government ship"
+   },
+   "text": {
+    "en": "20.—(1) Subject to subsection (3), nothing in this Act applies in relation to —\n(a)any warship; or\n(b)any ship for the time being used by the government of any State otherwise than for commercial purposes.\n(2) Section 15 does not apply to a ship that is owned by a State Party if there is carried on board the ship a certificate issued by the State Party stating —\n(a)that the ship is owned by the State Party; and\n(b)that any liability under section 10 will be met up to the limit prescribed by section 12.\n(3) Subject to subsection (2), Part 4 applies to a ship mentioned in subsection (1)(a) or (b) if specified in a notice under paragraph 3 of Article 4 of the Convention."
+   }
+  },
+  {
+   "id": "SG-H3213-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Power of arrest"
+   },
+   "text": {
+    "en": "21. An officer of the Authority or a police officer who reasonably believes that a person has committed an offence under this Act may, without warrant, arrest that person and take that person before a Magistrate’s Court to be dealt with according to law."
+   }
+  },
+  {
+   "id": "SG-H3213-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Authority’s officers to exercise powers and duties"
+   },
+   "text": {
+    "en": "22. The powers conferred and the duties imposed on the Director under this Act may, subject to the Director’s directions, be exercised and carried out by any officer of the Authority generally or specially authorised by name or office by the Director."
+   }
+  },
+  {
+   "id": "SG-H3213-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Power to board and search ship"
+   },
+   "text": {
+    "en": "23.—(1) An authorised officer who has reason to believe that an offence has been committed under this Act may —\n(a)board any ship;\n(b)enter and search any place;\n(c)inspect and examine any ship or place;\n(d)summon any person who appears to be acquainted with the circumstances of the case before the authorised officer and examine that person orally;\n(e)require any person who appears to be acquainted with the circumstances of the case to provide any information or produce any record or document (or copy of any record or document) in the possession or under the custody or control of that person;\n(f)seize any book, paper, document, record, electronic material or other thing found in the ship or place which may provide evidence of the commission of an offence under this Act; and\n(g)make copies of, or take extracts from or samples of, any book, paper, document, record, electronic material or other thing provided, produced or seized (as the case may be) under this subsection.\n(2) If a person summoned by an authorised officer under subsection (1)(d) fails to attend as summoned, the authorised officer may report the failure to a Magistrate who may then issue a warrant to secure the attendance of that person as required by the summons.\n(3) A person examined under subsection (1)(d) is bound to state truly what the person knows of the facts and circumstances concerning matters under this Act, except that the person need not say anything that might expose him or her to a criminal charge, penalty or forfeiture.\n(4) A statement made by a person examined under subsection (1)(d) must —\n(a)be reduced to writing;\n(b)be read over to the person;\n(c)if the person does not understand English, be interpreted in a language that he or she understands; and\n(d)after correction (if necessary), be signed by the person.\n(5) Any person who —\n(a)assaults, hinders, impedes or obstructs the authorised officer in the performance of the authorised officer’s duties under this section;\n(b)wilfully misstates, or without lawful excuse refuses to give, any information when examined by an authorised officer under subsection (1)(d); or\n(c)without lawful excuse, refuses to provide any information or produce any record or document (or a copy of any record or document) required of the person by an authorised officer under subsection (1)(e),\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.\n(6) In this section, “authorised officer” means the Director or an officer of the Authority who is authorised by the Director to exercise any of the powers mentioned in subsection (1)."
+   }
+  },
+  {
+   "id": "SG-H3213-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Offences by corporations"
+   },
+   "text": {
+    "en": "24.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that —\n(a)an officer, employee or agent of the corporation engaged in that conduct within the scope of his or her actual or apparent authority; and\n(b)the officer, employee or agent had that state of mind,\nis evidence that the corporation had that state of mind.\n(2) Where a corporation commits an offence under this Act, a person —\n(a)who is —\n(i)an officer of the corporation; or\n(ii)an individual who is involved in the management of the corporation and is in a position to influence the conduct of the corporation in relation to the commission of the offence; and\n(b)who —\n(i)consented or connived, or conspired with others, to effect the commission of the offence;\n(ii)is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the corporation; or\n(iii)knew or ought reasonably to have known that the offence by the corporation (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,\nshall be guilty of the same offence as is the corporation, and shall be liable on conviction to be punished accordingly.\n(3) A person mentioned in subsection (2) may rely on a defence that would be available to the corporation if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the corporation would bear.\n(4) To avoid doubt, this section does not affect the application of —\n(a)Chapters 5 and 5A of the Penal Code 1871; or\n(b)the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence.\n(5) To avoid doubt, subsection (2) also does not affect the liability of the corporation for an offence under this Act, and applies whether or not the corporation is convicted of the offence.\n(6) In this section —\n“corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act 2005;\n“officer”, in relation to a corporation, means any director, partner, chief executive, manager, secretary or other similar officer of the corporation, and includes —\n(a)any person purporting to act in any such capacity; and\n(b)for a corporation whose affairs are managed by its members, any of those members as if the member was a director of the corporation;\n“state of mind” of a person includes —\n(a)the knowledge, intention, opinion, belief or purpose of the person; and\n(b)the person’s reasons for the intention, opinion, belief or purpose."
+   }
+  },
+  {
+   "id": "SG-H3213-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Offences by unincorporated associations or partnerships"
+   },
+   "text": {
+    "en": "25.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that —\n(a)an employee or agent of the unincorporated association or the partnership engaged in that conduct within the scope of his or her actual or apparent authority; and\n(b)the employee or agent had that state of mind,\nis evidence that the unincorporated association or partnership had that state of mind.\n(2) Where an unincorporated association or a partnership commits an offence under this Act, a person —\n(a)who is —\n(i)an officer of the unincorporated association or a member of its governing body;\n(ii)a partner in the partnership; or\n(iii)an individual who is involved in the management of the unincorporated association or partnership and who is in a position to influence the conduct of the unincorporated association or partnership (as the case may be) in relation to the commission of the offence; and\n(b)who —\n(i)consented or connived, or conspired with others, to effect the commission of the offence;\n(ii)is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the unincorporated association or partnership; or\n(iii)knew or ought reasonably to have known that the offence by the unincorporated association or partnership (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,\nshall be guilty of the same offence as is the unincorporated association or partnership (as the case may be), and shall be liable on conviction to be punished accordingly.\n(3) A person mentioned in subsection (2) may rely on a defence that would be available to the unincorporated association or partnership if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the unincorporated association or partnership would bear.\n(4) To avoid doubt, this section does not affect the application of —\n(a)Chapters 5 and 5A of the Penal Code 1871; or\n(b)the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence.\n(5) To avoid doubt, subsection (2) also does not affect the liability of an unincorporated association or a partnership for an offence under this Act, and applies whether or not the unincorporated association or partnership is convicted of the offence.\n(6) In this section —\n“officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes —\n(a)any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; and\n(b)any person purporting to act in any such capacity;\n“partner” includes a person purporting to act as a partner;\n“state of mind” of a person includes —\n(a)the knowledge, intention, opinion, belief or purpose of the person; and\n(b)the person’s reasons for the intention, opinion, belief or purpose."
+   }
+  },
+  {
+   "id": "SG-H3213-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Protection from personal liability"
+   },
+   "text": {
+    "en": "26. No liability shall lie personally against the Director, or any member, officer or employee of the Authority acting under the direction of the Director or the Authority who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act."
+   }
+  },
+  {
+   "id": "SG-H3213-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Extra-territoriality"
+   },
+   "text": {
+    "en": "27. Where an offence under section 4 or 15 is committed in relation to a Singapore ship outside Singapore, the master or the operator of the ship, or both (as the case may be) may be dealt with as if the offence has been committed in Singapore."
+   }
+  },
+  {
+   "id": "SG-H3213-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "28.—(1) The Director may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:\n(a)one half of the amount of the maximum fine that is prescribed for the offence;\n(b)$1,000.\n(2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence.\n(3) All sums collected under this section must be paid into the Consolidated Fund.\n(4) The Director, and the members, officers and employees of the Authority, in relation to the administration, assessment and collection of the composition sums payable under this section, are deemed to be public officers for the purposes of the Financial Procedure Act 1966, and section 20 of that Act is to apply to such persons even though they are not or were not in the employment of the Government."
+   }
+  },
+  {
+   "id": "SG-H3213-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "29. The Authority may, with the approval of the Minister, by order in the Gazette, exempt any person or ship, or class or description of persons or ships, from any provision of this Act, or any regulations made under this Act."
+   }
+  },
+  {
+   "id": "SG-H3213-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Amendment of Schedules"
+   },
+   "text": {
+    "en": "30. The Minister may, by order in the Gazette —\n(a)amend the First Schedule for the purpose of giving effect to the Convention, including any amendment to the Convention that is binding on Singapore; and\n(b)amend the Second Schedule."
+   }
+  },
+  {
+   "id": "SG-H3213-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "31.—(1) The Authority may, with the approval of the Minister, make regulations for carrying out the purposes and provisions of this Act.\n(2) Without limiting subsection (1), the Authority may, with the approval of the Minister, make regulations for or with respect to all or any of the following matters:\n(a)prescribe the fees to be paid for the purposes of this Act;\n(b)provide for the cancellation and delivery up to the Director of a certificate issued under section 16;\n(c)prescribe the offences under this Act that may be compounded;\n(d)provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $20,000 or with imprisonment for a term not exceeding 12 months or with both;\n(e)provide for any other matter which is required or authorised by any provision of this Act to be provided for by regulations."
+   }
+  },
+  {
+   "id": "SG-H3213-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nSections 2 and 30(a)\nNairobi International Convention\non the Removal of Wrecks, 2007\nPreamble:\nTHE STATES PARTIES TO THE PRESENT CONVENTION,\nCONSCIOUS of the fact that wrecks, if not removed, may pose a hazard to navigation or the marine environment,\nCONVINCED of the need to adopt uniform international rules and procedures to ensure the prompt and effective removal of wrecks and payment of compensation for the costs therein involved,\nNOTING that many wrecks may be located in States’ territory, including the territorial sea,\nRECOGNIZING the benefits to be gained through uniformity in legal regimes governing responsibility and liability for removal of hazardous wrecks,\nBEARING IN MIND the importance of the United Nations Convention on the Law of the Sea, done at Montego Bay on 10 December 1982, and of the customary international law of the sea, and the consequent need to implement the present Convention in accordance with such provisions,\nHAVE AGREED as follows:\nArticle 1\nDefinitions\nFor the purposes of this Convention:\n1. “Convention area” means the exclusive economic zone of a State Party, established in accordance with international law or, if a State Party has not established such a zone, an area beyond and adjacent to the territorial sea of that State determined by that State in accordance with international law and extending not more than 200 nautical miles from the baselines from which the breadth of its territorial sea is measured.\n2. “Ship” means a seagoing vessel of any type whatsoever and includes hydrofoil boats, air-cushion vehicles, submersibles, floating craft and floating platforms, except when such platforms are on location engaged in the exploration, exploitation or production of seabed mineral resources.\n3. “Maritime casualty” means a collision of ships, stranding or other incident of navigation, or other occurrence on board a ship or external to it, resulting in material damage or imminent threat of material damage to a ship or its cargo.\n4. “Wreck”, following upon a maritime casualty, means:\n(a)a sunken or stranded ship; or\n(b)any part of a sunken or stranded ship, including any object that is or has been on board such a ship; or\n(c)any object that is lost at sea from a ship and that is stranded, sunken or adrift at sea; or\n(d)a ship that is about, or may reasonably be expected, to sink or to strand, where effective measures to assist the ship or any property in danger are not already being taken.\n5. “Hazard” means any condition or threat that:\n(a)poses a danger or impediment to navigation; or\n(b)may reasonably be expected to result in major harmful consequences to the marine environment, or damage to the coastline or related interests of one or more States.\n6. “Related interests” means the interests of a coastal State directly affected or threatened by a wreck, such as:\n(a)maritime coastal, port and estuarine activities, including fisheries activities, constituting an essential means of livelihood of the persons concerned;\n(b)tourist attractions and other economic interests of the area concerned;\n(c)the health of the coastal population and the wellbeing of the area concerned, including conservation of marine living resources and of wildlife; and\n(d)offshore and underwater infrastructure.\n7. “Removal” means any form of prevention, mitigation or elimination of the hazard created by a wreck. “Remove”, “removed” and “removing” shall be construed accordingly.\n8. “Registered owner” means the person or persons registered as the owner of the ship or, in the absence of registration, the person or persons owning the ship at the time of the maritime casualty. However, in the case of a ship owned by a State and operated by a company which in that State is registered as the operator of the ship, “registered owner” shall mean such company.\n9. “Operator of the ship” means the owner of the ship or any other organization or person such as the manager, or the bareboat charterer, who has assumed the responsibility for operation of the ship from the owner of the ship and who, on assuming such responsibility, has agreed to take over all duties and responsibilities established under the International Safety Management Code, as amended.\n10. “Affected State” means the State in whose Convention area the wreck is located.\n11. “State of the ship’s registry” means, in relation to a registered ship, the State of registration of the ship and, in relation to an unregistered ship, the State whose flag the ship is entitled to fly.\n12. “Organization” means the International Maritime Organization.\n13. “Secretary-General” means the Secretary‑General of the Organization.\nArticle 2\nObjectives and general principles\n1. A State Party may take measures in accordance with this Convention in relation to the removal of a wreck which poses a hazard in the Convention area.\n2. Measures taken by the Affected State in accordance with paragraph 1 shall be proportionate to the hazard.\n3. Such measures shall not go beyond what is reasonably necessary to remove a wreck which poses a hazard and shall cease as soon as the wreck has been removed; they shall not unnecessarily interfere with the rights and interests of other States including the State of the ship’s registry, and of any person, physical or corporate, concerned.\n4. The application of this Convention within the Convention area shall not entitle a State Party to claim or exercise sovereignty or sovereign rights over any part of the high seas.\n5. States Parties shall endeavour to co-operate when the effects of a maritime casualty resulting in a wreck involve a State other than the Affected State.\nArticle 3\nScope of application\n1. Except as otherwise provided in this Convention, this Convention shall apply to wrecks in the Convention area.\n2. A State Party may extend the application of this Convention to wrecks located within its territory, including the territorial sea, subject to article 4, paragraph 4. In that case, it shall notify the Secretary‑General accordingly, at the time of expressing its consent to be bound by this Convention or at any time thereafter. When a State Party has made a notification to apply this Convention to wrecks located within its territory, including the territorial sea, this is without prejudice to the rights and obligations of that State to take measures in relation to wrecks located in its territory, including the territorial sea, other than locating, marking and removing them in accordance with this Convention. The provisions of articles 10, 11 and 12 of this Convention shall not apply to any measures so taken other than those referred to in articles 7, 8 and 9 of this Convention.\n3. When a State Party has made a notification under paragraph 2, the “Convention area” of the Affected State shall include the territory, including the territorial sea, of that State Party.\n4. A notification made under paragraph 2 above shall take effect for that State Party, if made before entry into force of this Convention for that State Party, upon entry into force. If notification is made after entry into force of this Convention for that State Party, it shall take effect six months after its receipt by the Secretary‑General.\n5. A State Party that has made a notification under paragraph 2 may withdraw it at any time by means of a notification of withdrawal to the Secretary‑General. Such notification of withdrawal shall take effect six months after its receipt by the Secretary‑General, unless the notification specifies a later date.\nArticle 4\nExclusions\n1. This Convention shall not apply to measures taken under the International Convention relating to Intervention on the High Seas in Cases of Oil Pollution Casualties, 1969, as amended, or the Protocol relating to Intervention on the High Seas in Cases of Pollution by Substances other than Oil, 1973, as amended.\n2. This Convention shall not apply to any warship or other ship owned or operated by a State and used, for the time being, only on Government non‑commercial service, unless that State decides otherwise.\n3. Where a State Party decides to apply this Convention to its warships or other ships as described in paragraph 2, it shall notify the Secretary‑General, thereof, specifying the terms and conditions of such application.\n4. (a) When a State Party has made a notification under article 3, paragraph 2, the following provisions of this Convention shall not apply in its territory, including the territorial sea:\n(i) Article 2, paragraph 4;\n(ii) Article 9, paragraphs 1, 5, 7, 8, 9 and 10; and\n(iii) Article 15.\n(b) Article 9, paragraph 4, insofar as it applies to the territory, including the territorial sea of a State Party, shall read:\nSubject to the national law of the Affected State, the registered owner may contract with any salvor or other person to remove the wreck determined to constitute a hazard on behalf of the owner. Before such removal commences, the Affected State may lay down conditions for such removal only to the extent necessary to ensure that the removal proceeds in a manner that is consistent with considerations of safety and protection of the marine environment.\nArticle 5\nReporting wrecks\n1. A State Party shall require the master and the operator of a ship flying its flag to report to the Affected State without delay when that ship has been involved in a maritime casualty resulting in a wreck. To the extent that the reporting obligation under this article has been fulfilled either by the master or the operator of the ship, the other shall not be obliged to report.\n2. Such reports shall provide the name and the principal place of business of the registered owner and all the relevant information necessary for the Affected State to determine whether the wreck poses a hazard in accordance with article 6, including:\n(a)the precise location of the wreck;\n(b)the type, size and construction of the wreck;\n(c)the nature of the damage to, and the condition of, the wreck;\n(d)the nature and quantity of the cargo, in particular any hazardous and noxious substances; and\n(e)the amount and types of oil, including bunker oil and lubricating oil, on board.\nArticle 6\nDetermination of hazard\nWhen determining whether a wreck poses a hazard, the following criteria should be taken into account by the Affected State:\n(a)the type, size and construction of the wreck;\n(b)depth of the water in the area;\n(c)tidal range and currents in the area;\n(d)particularly sensitive sea areas identified and, as appropriate, designated in accordance with guidelines adopted by the Organization, or a clearly defined area of the exclusive economic zone where special mandatory measures have been adopted pursuant to article 211, paragraph 6, of the United Nations Convention on the Law of the Sea, 1982;\n(e)proximity of shipping routes or established traffic lanes;\n(f)traffic density and frequency;\n(g)type of traffic;\n(h)nature and quantity of the wreck’s cargo, the amount and types of oil (such as bunker oil and lubricating oil) on board the wreck and, in particular, the damage likely to result should the cargo or oil be released into the marine environment;\n(i)vulnerability of port facilities;\n(j)prevailing meteorological and hydrographical conditions;\n(k)submarine topography of the area;\n(l)height of the wreck above or below the surface of the water at lowest astronomical tide;\n(m)acoustic and magnetic profiles of the wreck;\n(n)proximity of offshore installations, pipelines, telecommunications cables and similar structures; and\n(o)any other circumstances that might necessitate the removal of the wreck.\nArticle 7\nLocating wrecks\n1. Upon becoming aware of a wreck, the Affected State shall use all practicable means, including the good offices of States and organizations, to warn mariners and the States concerned of the nature and location of the wreck as a matter of urgency.\n2. If the Affected State has reason to believe that a wreck poses a hazard, it shall ensure that all practicable steps are taken to establish the precise location of the wreck.\nArticle 8\nMarking of wrecks\n1. If the Affected State determines that a wreck constitutes a hazard, that State shall ensure that all reasonable steps are taken to mark the wreck.\n2. In marking the wreck, all practicable steps shall be taken to ensure that the markings conform to the internationally accepted system of buoyage in use in the area where the wreck is located.\n3. The Affected State shall promulgate the particulars of the marking of the wreck by use of all appropriate means, including the appropriate nautical publications.\nArticle 9\nMeasures to facilitate the removal of wrecks\n1. If the Affected State determines that a wreck constitutes a hazard, that State shall immediately:\n(a)inform the State of the ship’s registry and the registered owner; and\n(b)proceed to consult the State of the ship’s registry and other States affected by the wreck regarding measures to be taken in relation to the wreck.\n2. The registered owner shall remove a wreck determined to constitute a hazard.\n3. When a wreck has been determined to constitute a hazard, the registered owner, or other interested party, shall provide the competent authority of the Affected State with evidence of insurance or other financial security as required by article 12.\n4. The registered owner may contract with any salvor or other person to remove the wreck determined to constitute a hazard on behalf of the owner. Before such removal commences, the Affected State may lay down conditions for such removal only to the extent necessary to ensure that the removal proceeds in a manner that is consistent with considerations of safety and protection of the marine environment.\n5. When the removal referred to in paragraphs 2 and 4 has commenced, the Affected State may intervene in the removal only to the extent necessary to ensure that the removal proceeds effectively in a manner that is consistent with considerations of safety and protection of the marine environment.\n6. The Affected State shall:\n(a)set a reasonable deadline within which the registered owner must remove the wreck, taking into account the nature of the hazard determined in accordance with article 6;\n(b)inform the registered owner in writing of the deadline it has set and specify that, if the registered owner does not remove the wreck within that deadline, it may remove the wreck at the registered owner’s expense; and\n(c)inform the registered owner in writing that it intends to intervene immediately in circumstances where the hazard becomes particularly severe.\n7. If the registered owner does not remove the wreck within the deadline set in accordance with paragraph 6(a), or the registered owner cannot be contacted, the Affected State may remove the wreck by the most practical and expeditious means available, consistent with considerations of safety and protection of the marine environment.\n8. In circumstances where immediate action is required and the Affected State has informed the State of the ship’s registry and the registered owner accordingly, it may remove the wreck by the most practical and expeditious means available, consistent with considerations of safety and protection of the marine environment.\n9. States Parties shall take appropriate measures under their national law to ensure that their registered owners comply with paragraphs 2 and 3.\n10. States Parties give their consent to the Affected State to act under paragraphs 4 to 8, where required.\n11. The information referred to in this article shall be provided by the Affected State to the registered owner identified in the reports referred to in article 5, paragraph 2.\nArticle 10\nLiability of the owner\n1. Subject to article 11, the registered owner shall be liable for the costs of locating, marking and removing the wreck under articles 7, 8 and 9, respectively, unless the registered owner proves that the maritime casualty that caused the wreck:\n(a)resulted from an act of war, hostilities, civil war, insurrection, or a natural phenomenon of an exceptional, inevitable and irresistible character;\n(b)was wholly caused by an act or omission done with intent to cause damage by a third party; or\n(c)was wholly caused by the negligence or other wrongful act of any Government or other authority responsible for the maintenance of lights or other navigational aids in the exercise of that function.\n2. Nothing in this Convention shall affect the right of the registered owner to limit liability under any applicable national or international regime, such as the Convention on Limitation of Liability for Maritime Claims, 1976, as amended.\n3. No claim for the costs referred to in paragraph 1 may be made against the registered owner otherwise than in accordance with the provisions of this Convention. This is without prejudice to the rights and obligations of a State Party that has made a notification under article 3, paragraph 2, in relation to wrecks located in its territory, including the territorial sea, other than locating, marking and removing in accordance with this Convention.\n4. Nothing in this article shall prejudice any right of recourse against third parties.\nArticle 11\nExceptions to liability\n1. The registered owner shall not be liable under this Convention for the costs mentioned in article 10, paragraph 1 if, and to the extent that, liability for such costs would be in conflict with:\n(a)the International Convention on Civil Liability for Oil Pollution Damage, 1969, as amended;\n(b)the International Convention on Liability and Compensation for Damage in Connection with the Carriage of Hazardous and Noxious Substances by Sea, 1996, as amended;\n(c)the Convention on Third Party Liability in the Field of Nuclear Energy, 1960, as amended, or the Vienna Convention on Civil Liability for Nuclear Damage, 1963, as amended; or national law governing or prohibiting limitation of liability for nuclear damage; or\n(d)the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001, as amended;\nprovided that the relevant convention is applicable and in force.\n2. To the extent that measures under this Convention are considered to be salvage under applicable national law or an international convention, such law or convention shall apply to questions of the remuneration or compensation payable to salvors to the exclusion of the rules of this Convention.\nArticle 12\nCompulsory insurance or other financial security\n1. The registered owner of a ship of 300 gross tonnage and above and flying the flag of a State Party shall be required to maintain insurance or other financial security, such as a guarantee of a bank or similar institution, to cover liability under this Convention in an amount equal to the limits of liability under the applicable national or international limitation regime, but in all cases not exceeding an amount calculated in accordance with article 6(1)(b) of the Convention on Limitation of Liability for Maritime Claims, 1976, as amended.\n2. A certificate attesting that insurance or other financial security is in force in accordance with the provisions of this Convention shall be issued to each ship of 300 gross tonnage and above by the appropriate authority of the State of the ship’s registry after determining that the requirements of paragraph 1 have been complied with. With respect to a ship registered in a State Party, such certificate shall be issued or certified by the appropriate authority of the State of the ship’s registry; with respect to a ship not registered in a State Party it may be issued or certified by the appropriate authority of any State Party. This compulsory insurance certificate shall be in the form of the model set out in the annex to this Convention, and shall contain the following particulars:\n(a)name of the ship, distinctive number or letters and port of registry;\n(b)gross tonnage of the ship;\n(c)name and principal place of business of the registered owner;\n(d)IMO ship identification number;\n(e)type and duration of security;\n(f)name and principal place of business of insurer or other person giving security and, where appropriate, place of business where the insurance or security is established; and\n(g)period of validity of the certificate, which shall not be longer than the period of validity of the insurance or other security.\n3. (a) A State Party may authorize either an institution or an organization recognized by it to issue the certificate referred to in paragraph 2. Such institution or organization shall inform that State of the issue of each certificate. In all cases, the State Party shall fully guarantee the completeness and accuracy of the certificate so issued and shall undertake to ensure the necessary arrangements to satisfy this obligation.\n(b) A State Party shall notify the Secretary‑General of:\n(i)the specific responsibilities and conditions of the authority delegated to an institution or organization recognized by it;\n(ii)the withdrawal of such authority; and\n(iii)the date from which such authority or withdrawal of such authority takes effect.\nAn authority delegated shall not take effect prior to three months from the date on which notification to that effect was given to the Secretary‑General.\n(c) The institution or organization authorized to issue certificates in accordance with this paragraph shall, as a minimum, be authorized to withdraw these certificates if the conditions under which they have been issued are not maintained. In all cases the institution or organization shall report such withdrawal to the State on whose behalf the certificate was issued.\n4. The certificate shall be in the official language or languages of the issuing State. If the language used is not English, French or Spanish, the text shall include a translation into one of these languages and, where the State so decides, the official language(s) of the State may be omitted.\n5. The certificate shall be carried on board the ship and a copy shall be deposited with the authorities who keep the record of the ship’s registry or, if the ship is not registered in a State Party, with the authorities issuing or certifying the certificate.\n6. An insurance or other financial security shall not satisfy the requirements of this article if it can cease for reasons other than the expiry of the period of validity of the insurance or security specified in the certificate under paragraph 2 before three months have elapsed from the date on which notice of its termination is given to the authorities referred to in paragraph 5 unless certificate has been surrendered to these authorities or a new certificate has been issued within the said period. The foregoing provisions shall similarly apply to any modification, which results in the insurance or security no longer satisfying the requirements of this article.\n7. The State of the ship’s registry shall, subject to the provisions of this article and having regard to any guidelines adopted by the Organization on the financial responsibility of the registered owners, determine the conditions of issue and validity of the certificate.\n8. Nothing in this Convention shall be construed as preventing a State Party from relying on information obtained from other States or the Organization or other international organizations relating to the financial standing of providers of insurance or financial security for the purposes of this Convention. In such cases, the State Party relying on such information is not relieved of its responsibility as a State issuing the certificate required by paragraph 2.\n9. Certificates issued and certified under the authority of a State Party shall be accepted by other States Parties for the purposes of this Convention and shall be regarded by other States Parties as having the same force as certificates issued or certified by them, even if issued or certified in respect of a ship not registered in a State Party. A State Party may at any time request consultation with the issuing or certifying State should it believe that the insurer or guarantor named in the certificate is not financially capable of meeting the obligations imposed by this Convention.\n10. Any claim for costs arising under this Convention may be brought directly against the insurer or other person providing financial security for the registered owner’s liability. In such a case the defendant may invoke the defences (other than the bankruptcy or winding up of the registered owner) that the registered owner would have been entitled to invoke, including limitation of liability under any applicable national or international regime. Furthermore, even if the registered owner is not entitled to limit liability, the defendant may limit liability to an amount equal to the amount of the insurance or other financial security required to be maintained in accordance with paragraph 1. Moreover, the defendant may invoke the defence that the maritime casualty was caused by the wilful misconduct of the registered owner, but the defendant shall not invoke any other defence which the defendant might have been entitled to invoke in proceedings brought by the registered owner against the defendant. The defendant shall in any event have the right to require the registered owner to be joined in the proceedings.\n11. A State Party shall not permit any ship entitled to fly its flag to which this article applies to operate at any time unless a certificate has been issued under paragraphs 2 or 14.\n12. Subject to the provisions of this article, each State Party shall ensure, under its national law, that insurance or other security to the extent required by paragraph 1 is in force in respect of any ship of 300 gross tonnage and above, wherever registered, entering or leaving a port in its territory, or arriving at or leaving from an offshore facility in its territorial sea.\n13. Notwithstanding the provisions of paragraph 5, a State Party may notify the Secretary‑General that, for the purposes of paragraph 12, ships are not required to carry on board or to produce the certificate required by paragraph 2, when entering or leaving a port in its territory, or arriving at or leaving from an offshore facility in its territorial sea, provided that the State Party which issues the certificate required by paragraph 2 has notified the Secretary‑General that it maintains records in an electronic format, accessible to all States Parties, attesting the existence of the certificate and enabling States Parties to discharge their obligations under paragraph 12.\n14. If insurance or other financial security is not maintained in respect of a ship owned by a State Party, the provisions of this article relating thereto shall not be applicable to such ship, but the ship shall carry a certificate issued by the appropriate authority of the State of registry, stating that it is owned by that State and that the ship’s liability is covered within the limits prescribed in paragraph 1. Such a certificate shall follow as closely as possible the model prescribed by paragraph 2.\nArticle 13\nTime limits\nRights to recover costs under this Convention shall be extinguished unless an action is brought hereunder within three years from the date when the hazard has been determined in accordance with this Convention. However, in no case shall an action be brought after six years from the date of the maritime casualty that resulted in the wreck. Where the maritime casualty consists of a series of occurrences, the six‑year period shall run from the date of the first occurrence.\nArticle 14\nAmendment provisions\n1. At the request of not less than one-third of States Parties, a conference shall be convened by the Organization for the purpose of revising or amending this Convention.\n2. Any consent to be bound by this Convention, expressed after the date of entry into force of an amendment to this Convention, shall be deemed to apply to this Convention, as amended.\nArticle 15\nSettlement of disputes\n1. Where a dispute arises between two or more States Parties regarding the interpretation or application of this Convention, they shall seek to resolve their dispute, in the first instance, through negotiation, enquiry, mediation, conciliation, arbitration, judicial settlement, resort to regional agencies or arrangements or other peaceful means of their choice.\n2. If no settlement is possible within a reasonable period of time not exceeding twelve months after one State Party has notified another that a dispute exists between them, the provisions relating to the settlement of disputes set out in Part XV of the United Nations Convention on the Law of the Sea, 1982, shall apply mutatis mutandis, whether or not the States party to the dispute are also States Parties to the United Nations Convention on the Law of the Sea, 1982.\n3. Any procedure chosen by a State Party to this Convention and to the United Nations Convention on the Law of the Sea, 1982, pursuant to Article 287 of the latter, shall apply to the settlement of disputes under this article, unless that State Party, when ratifying, accepting, approving or acceding to this Convention, or at any time thereafter, chooses another procedure pursuant to Article 287 for the purpose of the settlement of disputes arising out of this Convention.\n4. A State Party to this Convention which is not a Party to the United Nations Convention on the Law of the Sea, 1982, when ratifying, accepting, approving or acceding to this Convention or at any time thereafter shall be free to choose, by means of a written declaration, one or more of the means set out in Article 287, paragraph 1, of the United Nations Convention on the Law of the Sea, 1982, for the purpose of settlement of disputes under this Article. Article 287 shall apply to such a declaration, as well as to any dispute to which such State is party, which is not covered by a declaration in force. For the purpose of conciliation and arbitration, in accordance with Annexes V and VII of the United Nations Convention on the Law of the Sea, 1982, such State shall be entitled to nominate conciliators and arbitrators to be included in the lists referred to in Annex V, Article 2, and Annex VII, Article 2, for the settlement of disputes arising out of this Convention.\n5. A declaration made under paragraphs 3 and 4 shall be deposited with the Secretary‑General, who shall transmit copies thereof to the States Parties.\nArticle 16\nRelationship to other conventions and international agreements\nNothing in this Convention shall prejudice the rights and obligations of any State under the United Nations Convention on the Law of the Sea, 1982, and under the customary international law of the sea.\nArticle 17\nSignature, ratification, acceptance, approval and accession\nThis Convention shall be open for signature at the Headquarters of the Organization from 19 November 2007 until 18 November 2008 and shall thereafter remain open for accession.\n(a)States may express their consent to be bound by this Convention by:\n(i)signature without reservation as to ratification, acceptance or approval; or\n(ii)signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval; or\n(iii)accession.\n(b)Ratification, acceptance, approval or accession shall be effected by the deposit of an instrument to that effect with the Secretary‑General.\nArticle 18\nEntry into force\n1. This Convention shall enter into force twelve months following the date on which ten States have either signed it without reservation as to ratification, acceptance or approval or have deposited instruments of ratification, acceptance, approval or accession with the Secretary‑General.\n2. For any State which ratifies, accepts, approves or accedes to this Convention after the conditions in paragraph 1 for entry into force have been met, this Convention shall enter into force three months following the date of deposit by such State of the appropriate instrument, but not before this Convention has entered into force in accordance with paragraph 1.\nArticle 19\nDenunciation\n1. This Convention may be denounced by a State Party at any time after the expiry of one year following the date on which this Convention comes into force for that State.\n2. Denunciation shall be effected by the deposit of an instrument to that effect with the Secretary‑General.\n3. A denunciation shall take effect one year, or such longer period as may be specified in the instrument of denunciation, following its receipt by the Secretary‑General.\nArticle 20\nDepositary\n1. This Convention shall be deposited with the Secretary-General.\n2. The Secretary-General shall:\n(a)inform all States which have signed or acceded to this Convention of:\n(i)each new signature or deposit of an instrument of ratification, acceptance, approval or accession, together with the date thereof;\n(ii)the date of entry into force of this Convention;\n(iii)the deposit of any instrument of denunciation of this Convention, together with the date of the deposit and the date on which the denunciation takes effect; and\n(iv)other declarations and notifications received pursuant to this Convention;\n(b)transmit certified true copies of this Convention to all States that have signed or acceded to this Convention.\n3. As soon as this Convention enters into force, a certified true copy of the text shall be transmitted by the Secretary‑General to the Secretary‑General of the United Nations, for registration and publication in accordance with Article 102 of the Charter of the United Nations.\nArticle 21\nLanguages\nThis Convention is established in a single original in the Arabic, Chinese, English, French, Russian and Spanish languages, each text being equally authentic.\nDONE IN NAIROBI this eighteenth day of May two thousand and seven.\nIN WITNESS WHEREOF the undersigned, being duly authorized by their respective Governments for that purpose, have signed this Convention.\nANNEX\nCERTIFICATE OF INSURANCE OR OTHER FINANCIAL SECURITY\nIN RESPECT OF LIABILITY FOR THE REMOVAL OF WRECKS\nIssued in accordance with the provisions of article 12 of the Nairobi International\nConvention on the Removal of Wrecks, 2007\nName of Ship\nGross Tonnage\nDistinctive number or letters\nIMO Ship Identification Number\nPort of Registry\nName and full address of the principal place of business of the registered owner\nThis is to certify that there is in force, in respect of the above-named ship, a policy of insurance or other financial security satisfying the requirements of article 12 of the Nairobi International Convention on the Removal of Wrecks, 2007.\nType of Security ………………………………………………………………………………..\nDuration of Security …………………………………………………………………….………\nName and address of the insurer(s) and/or guarantor(s)\nName ……………………………………………………………………………………………\nAddress ………………………………………………………………………………………….\n……………………………..…………………………………………………..\nThis certificate is valid until …………………………………………………………\nIssued or certified by the Government of ………………………………………….\n………………………………………………………………………………………..\n(Full designation of the State)\nOR\nThe following text should be used when a State Party avails itself of article 12, paragraph 3:\nThe present certificate is issued under the authority of the Government of ....................................\n(full designation of the State) by ….......................................... (name of institution or organization)\nAt ……..................................………………..On………….................…………………....……..\n(Place) (Date)\n…...………............………......………………………….\n(Signature and Title of issuing or certifying official)\nExplanatory Notes:\n1If desired, the designation of the State may include a reference to the competent public authority of the country where the Certificate is issued.\n2If the total amount of security has been furnished by more than one source, the amount of each of them should be indicated.\n3If security is furnished in several forms, these should be enumerated.\n4The entry “Duration of Security” must stipulate the date on which such security takes effect.\n5The entry “Address” of the insurer(s) and/or guarantor(s) must indicate the principal place of business of the insurer(s) and/or guarantor(s). If appropriate, the place of business where the insurance or other security is established shall be indicated."
+   }
+  },
+  {
+   "id": "SG-H3213-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nSections 14(2) and 30(b)\nExcluded ship\nFor the purposes of section 14, an excluded ship is a ship which —\n(a)is operated under a licence or permit, or is exempted from the requirement of a licence or permit under —\n(i)the Maritime and Port Authority of Singapore (Harbour Craft) Regulations; or\n(ii)the Maritime and Port Authority of Singapore (Pleasure Craft) Regulations;\n(b)is insured under such policy of insurance covering the registered owner’s liability under this Act as required by the Port Master under those Regulations; and\n(c)navigates exclusively in areas within the limits of the port as may be declared under section 3 of the Maritime and Port Authority of Singapore Act 1996."
+   }
+  }
+ ]
+}

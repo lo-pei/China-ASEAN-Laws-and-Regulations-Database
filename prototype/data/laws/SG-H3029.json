@@ -1,0 +1,518 @@
+{
+ "id": "SG-H3029",
+ "title": {
+  "zh": null,
+  "en": "Limited Liability Partnerships Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p38",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation 163A-RG1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 31,
+ "chars": 20200,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/163A-RG1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 31 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。其中 4 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3029-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Limited Liability Partnerships Regulations."
+   }
+  },
+  {
+   "id": "SG-H3029-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n[Deleted by S 282/2015 wef 15/05/2015]\n“electronic transaction form” or “form” means a form on the electronic transaction system provided by the Registrar for the purpose of carrying out a transaction with the Registrar under the Act;\n[S 842/2015 wef 03/01/2016]\n[S 300/2025 wef 09/06/2025]\n“electronic transaction system” means the electronic transaction system established by the Authority under section 27(1) of the Accounting and Corporate Regulatory Authority Act 2004;\n[S 282/2015 wef 15/05/2015]\n[S 954/2024 wef 31/12/2021]\n[Deleted by S 842/2015 wef 03/01/2016]\n“lodge” means to lodge, file or submit a form or other document;\n[S 300/2025 wef 09/06/2025]\n“registered corporate service provider” has the meaning given by section 2(1) of the Corporate Service Providers Act 2024;\n[S 300/2025 wef 09/06/2025]\n“transaction” has the meaning given by section 76(2) of the Act.\n[S 300/2025 wef 09/06/2025]"
+   }
+  },
+  {
+   "id": "SG-H3029-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART II GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Requirement to use electronic transaction system"
+   },
+   "text": {
+    "en": "3.—(1) Except as provided in paragraph (2) or as the Registrar otherwise requires or permits, any transaction with the Registrar under the Act must be carried out using the electronic transaction system on the electronic transaction form provided for that purpose.\n(2) If a transaction with the Registrar referred to in paragraph (1) cannot be carried out using the electronic transaction system, the person seeking to carry out the transaction must carry out the transaction with the Registrar in such other form and manner as the Registrar may determine.\n(3) The Registrar may refuse to process a transaction with the Registrar if the person seeking to carry out the transaction —\n(a)does not comply with paragraph (1) or (2);\n(b)does not comply with regulation 4 or 4A;\n(c)being required to complete an electronic transaction form, or other form, provided by the Registrar for that purpose, fails to properly complete the form in accordance with the instructions contained in the form;\n(d)being required to attach any document to, or provide any information required in, an electronic transaction form, or other form, provided by the Registrar for that purpose, fails to attach the document or provide the information, as the case may be; or\n(e)fails to pay the fee prescribed for the transaction.\n(4) To avoid doubt, a reference to a refusal to process a transaction with the Registrar in paragraph (3) includes, where the transaction relates to the filing or lodging of a document with the Registrar, a refusal to accept the document for filing or lodgment.\n[S 842/2015 wef 03/01/2016]"
+   }
+  },
+  {
+   "id": "SG-H3029-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART II GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Identification documents"
+   },
+   "text": {
+    "en": "4. The Registrar may require the production of the identity card or the passport, or such other identification documents as may be acceptable to the Registrar, for the verification of the identity of any person who carries out any transaction with the Registrar or whose particulars are to be registered under the Act.\n[S 842/2015 wef 03/01/2016]"
+   }
+  },
+  {
+   "id": "SG-H3029-A4.001",
+   "no": 4.001,
+   "noLabel": {
+    "en": "4A."
+   },
+   "chapter": {
+    "en": "PART II GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Endorsements"
+   },
+   "text": {
+    "en": "4A. Where an electronic transaction form is required to be endorsed by more than one person —\n(a)such endorsements must be made —\n(i)if the endorsement is made in respect of registration, within 60 days after the date on which the Registrar informs the applicant that the electronic transaction form is required to be endorsed; or\n(ii)if the endorsement is made in respect of any other matter, within 14 days after the date on which the electronic transaction form is first submitted; and\n(b)payment of the prescribed fee for the transaction with the Registrar to which the electronic transaction form relates must be made by the last person endorsing the electronic transaction.\n[S 842/2015 wef 03/01/2016]"
+   }
+  },
+  {
+   "id": "SG-H3029-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART II GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Time for lodging documents"
+   },
+   "text": {
+    "en": "5. Where a document is required under the Act or these Regulations to be lodged with the Registrar but a period of time within which that document is to be lodged is not prescribed, that document shall be lodged —\n(a)within 30 days; or\n(b)in the case of a document required to be lodged by a foreign person, within such further period as the Registrar may in special circumstances allow,\nafter the occurrence of the event to which the document relates."
+   }
+  },
+  {
+   "id": "SG-H3029-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART II GENERAL MATTERS"
+   },
+   "text": {
+    "en": "6. [Deleted by S 282/2015 wef 15/05/2015]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3029-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART II GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Fees and penalties"
+   },
+   "text": {
+    "en": "7.—(1) The fees specified in the First Schedule are payable to the Registrar.\n(2) Where any person fails to comply with the time delimited by the Act for the filing or lodgment of an annual declaration, the penalty specified in Part 1 of the Second Schedule for late filing or lodgment must be paid in addition to the prescribed fee for the filing or lodgment of the document.\n(3) Where any person fails to comply with the time delimited by the Act for the filing or lodgment of a document other than an annual declaration, the penalty specified in Part 2 of the Second Schedule for late filing or lodgment must be paid in addition to the prescribed fee for the filing or lodgment of the document.\n(4) The Registrar may for any reason waive, refund or remit, whether wholly or in part, any fee specified in the First Schedule or any penalty specified in the Second Schedule.\n(5) Payment of fees and penalties under these Regulations must be made in such manner as directed by the Registrar.\n(6) Despite paragraph (4), no fee paid is refundable in respect of —\n(a)any registration ceased or cancelled under the provisions of the Act; or\n(b)the withdrawal of any application or appeal.\n[S 842/2015 wef 03/01/2016]"
+   }
+  },
+  {
+   "id": "SG-H3029-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART III REGISTRATION OF LIMITED LIABILITY PARTNERSHIPS AND RELATED MATTERS"
+   },
+   "heading": {
+    "en": "Documents for registration"
+   },
+   "text": {
+    "en": "8. For the purposes of section 19(1) of the Act, a person desiring the registration of a limited liability partnership shall submit the application in the applicable form and furnish the Registrar with the information required under paragraphs (a) to (g) of section 19(1) of the Act and such other information as is required in that form.\n[S 842/2015 wef 03/01/2016]\n[S 954/2024 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H3029-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART III REGISTRATION OF LIMITED LIABILITY PARTNERSHIPS AND RELATED MATTERS"
+   },
+   "text": {
+    "en": "9. [Deleted by S 842/2015 wef 03/01/2016]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3029-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART III REGISTRATION OF LIMITED LIABILITY PARTNERSHIPS AND RELATED MATTERS"
+   },
+   "heading": {
+    "en": "Confirmations to be lodged electronically"
+   },
+   "text": {
+    "en": "10.—(1) Where a registered corporate service provider is engaged to register a limited liability partnership, a relevant registered qualified individual must, in the manner determined by the Registrar, confirm that the person who is to act as manager of the limited liability partnership —\n(a)has consented to be a manager of the limited liability partnership; and\n(b)is not disqualified from acting as a manager of a limited liability partnership under the Act.\n[S 300/2025 wef 09/06/2025]\n(2) The confirmations referred to in paragraph (1) must be lodged with the Registrar in the manner determined by the Registrar.\n(3) In paragraph (1), “relevant registered qualified individual” means a registered qualified individual (as defined in section 2(1) of the Corporate Service Providers Act 2024) who is, or who is employed, engaged or appointed by, the registered corporate service provider that is engaged to register the limited liability partnership.\n[S 300/2025 wef 09/06/2025]"
+   }
+  },
+  {
+   "id": "SG-H3029-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART III REGISTRATION OF LIMITED LIABILITY PARTNERSHIPS AND RELATED MATTERS"
+   },
+   "heading": {
+    "en": "Notice of registration"
+   },
+   "text": {
+    "en": "11. For the purposes of section 20 of the Act, the Registrar shall issue a notice of registration via electronic mail or otherwise to the applicant upon the successful registration of the limited liability partnership.\n[S 954/2024 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H3029-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART III REGISTRATION OF LIMITED LIABILITY PARTNERSHIPS AND RELATED MATTERS"
+   },
+   "heading": {
+    "en": "Register of Limited Liability Partnerships"
+   },
+   "text": {
+    "en": "12. The Registrar shall keep and maintain a Register of Limited Liability Partnerships in such manner and in such place as he thinks fit."
+   }
+  },
+  {
+   "id": "SG-H3029-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART III REGISTRATION OF LIMITED LIABILITY PARTNERSHIPS AND RELATED MATTERS"
+   },
+   "text": {
+    "en": "13. [Deleted by S 842/2015 wef 03/01/2016]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3029-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART III REGISTRATION OF LIMITED LIABILITY PARTNERSHIPS AND RELATED MATTERS"
+   },
+   "heading": {
+    "en": "Statement to be signed by deceased person’s personal representative"
+   },
+   "text": {
+    "en": "14. Whenever a change of registered particulars is required to be filed for registration owing to the death of a person, the personal representative of the deceased person or such other person as may be approved for that purpose by the Registrar may submit the form to be filed for registration."
+   }
+  },
+  {
+   "id": "SG-H3029-A14.001",
+   "no": 14.001,
+   "noLabel": {
+    "en": "14A."
+   },
+   "chapter": {
+    "en": "PART III REGISTRATION OF LIMITED LIABILITY PARTNERSHIPS AND RELATED MATTERS"
+   },
+   "heading": {
+    "en": "Excluded documents under section 36(4) of Act"
+   },
+   "text": {
+    "en": "14A. For the purposes of section 36(4) of the Act, the following documents filed or lodged with, or obtained by, the Registrar on or after 9 December 2024, are excluded documents to which section 36(1) of the Act does not apply:\n(a)a document (other than a form mentioned in regulation 14B) that contains any of the following information about an individual:\n(i)the individual’s date of birth;\n(ii)the individual’s residential address;\n(iii)the individual’s email address;\n(iv)the individual’s mobile telephone number;\n(b)where an application is lodged to apply for the reservation of a name in respect of a proposed limited liability partnership or limited liability partnership under section 23(1) of the Act — any other document lodged in respect of the application;\n(c)where a person has applied to the Registrar to give a direction to a limited liability partnership to change the limited liability partnership’s name under section 24(6) of the Act — any other document lodged by the person and the limited liability partnership in respect of the application;\n(d)where an application is made to strike a limited liability partnership’s name off the register under section 64(1) of the Act — any other document lodged in respect of the application;\n(e)where an objection to strike a limited liability partnership’s name off the register is delivered under section 66(1) of the Act — any other document lodged in respect of the objection.\n[S 954/2024 wef 09/12/2024]"
+   }
+  },
+  {
+   "id": "SG-H3029-A14.002",
+   "no": 14.002,
+   "noLabel": {
+    "en": "14B."
+   },
+   "chapter": {
+    "en": "PART III REGISTRATION OF LIMITED LIABILITY PARTNERSHIPS AND RELATED MATTERS"
+   },
+   "heading": {
+    "en": "Prescribed information under section 36(5)(c) of Act"
+   },
+   "text": {
+    "en": "14B. For the purposes of section 36(5)(c) of the Act, the reference to a document in section 36(1) of the Act excludes the following entries in a form submitted on the electronic transaction system:\n(a)a person’s email address;\n(b)an individual’s residential address;\n(c)an individual’s mobile telephone number.\n[S 954/2024 wef 09/12/2024]"
+   }
+  },
+  {
+   "id": "SG-H3029-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART III REGISTRATION OF LIMITED LIABILITY PARTNERSHIPS AND RELATED MATTERS"
+   },
+   "heading": {
+    "en": "Prescribed departments or Ministries of Government, etc., under section 75(1)(b)(ii) of Act"
+   },
+   "text": {
+    "en": "15. The departments or Ministries of the Government, statutory bodies and bodies corporate prescribed for the purposes of section 75(1)(b)(ii) of the Act are —\n(a)the Department of Statistics, Ministry of Energy, Trade and Industry;\n[S 738/2026 wef 01/10/2026]\n(b)the Ministry of Home Affairs;\n(c)the Ministry of Manpower; and\n(d)Singapore Post Limited.\n[S 842/2015 wef 03/01/2016]\n[S 954/2024 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H3029-A15.001",
+   "no": 15.001,
+   "noLabel": {
+    "en": "15A."
+   },
+   "chapter": {
+    "en": "PART III REGISTRATION OF LIMITED LIABILITY PARTNERSHIPS AND RELATED MATTERS"
+   },
+   "heading": {
+    "en": "Prescribed circumstances under section 75(2) of Act"
+   },
+   "text": {
+    "en": "15A. The Registrar need not give the written notice referred to in section 75(2) of the Act before the Registrar rectifies or updates the register under section 75(1) of the Act if —\n(a)the conflict between the particulars of the limited liability partnership or person, and the other information relating to that limited liability partnership or person obtained from the department or Ministry of the Government, or statutory body or other body corporate prescribed under section 75(1)(b)(ii) of the Act, relates to —\n(i)the Singapore Standard Industrial Classification obtained from the Department of Statistics, Ministry of Energy, Trade and Industry;\n[S 738/2026 wef 01/10/2026]\n(ii)the particulars (including residential address) of the person registered under the National Registration Act 1965 obtained from the Ministry of Home Affairs;\n[S 954/2024 wef 31/12/2021]\n(iii)the foreign identification number of a foreigner obtained from the Ministry of Manpower; or\n(iv)the building name, postal code or street name of a property obtained from Singapore Post Limited; and\n[S 954/2024 wef 31/12/2021]\n(b)the Registrar is satisfied that the effort involved in giving the written notice referred to in section 75(2) of the Act would be excessive, having regard to the likelihood that the limited liability partnership or person whose particulars are to be rectified or updated would object to the rectification or updating.\n[S 842/2015 wef 03/01/2016]\n[S 954/2024 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H3029-A15.002",
+   "no": 15.002,
+   "noLabel": {
+    "en": "15B."
+   },
+   "chapter": {
+    "en": "PART III REGISTRATION OF LIMITED LIABILITY PARTNERSHIPS AND RELATED MATTERS"
+   },
+   "heading": {
+    "en": "Prescribed information to be contained in annual declaration"
+   },
+   "text": {
+    "en": "15B. For the purposes of section 30(2) of the Act, the declaration mentioned in section 30(1) of the Act must contain the following information:\n(a)in respect of a limited liability partnership mentioned in paragraph 1(a) or (b)(i) to (vii) of the Sixth Schedule to the Act — a statement specifying which of those sub-paragraphs is or are applicable to the limited liability partnership;\n(b)in respect of any other limited liability partnership — a statement as to whether the register of controllers of the limited liability partnership is kept —\n(i)at the limited liability partnership’s registered office; or\n(ii)at the registered office of a registered corporate service provider appointed by the limited liability partnership for the purpose of providing a registered office, business address, correspondence or administrative address or other related services for the limited liability partnership.\n[S 352/2025 wef 16/06/2025]"
+   }
+  },
+  {
+   "id": "SG-H3029-A15.003",
+   "no": 15.003,
+   "noLabel": {
+    "en": "15C."
+   },
+   "chapter": {
+    "en": "PART III REGISTRATION OF LIMITED LIABILITY PARTNERSHIPS AND RELATED MATTERS"
+   },
+   "heading": {
+    "en": "Circumstances for Registrar’s consideration under section 63 of Act"
+   },
+   "text": {
+    "en": "15C. For the purposes of section 63(1) of the Act, the circumstances which the Registrar may take into consideration in determining whether there is reasonable cause to believe that a limited liability partnership is not carrying on business or is not in operation include the following:\n(a)the limited liability partnership has failed to lodge its annual declaration as required under section 30 of the Act;\n(b)the limited liability partnership has failed to respond to any correspondence sent by the Registrar by registered post, where a response is required;\n(c)mail sent by the Registrar to the registered office of the limited liability partnership is returned undelivered;\n(d)credible information has been received by the Registrar indicating that the limited liability partnership is not carrying on business or is not in operation;\n(e)none of the locally resident managers of the limited liability partnership can be contacted or located by the Registrar after the Registrar has taken reasonable efforts to do so;\n(f)the sole manager or the last remaining locally resident manager of the limited liability partnership, shown in the register kept under section 19 of the Act, is dead or is disqualified from acting as a manager under the Act.\n[S 605/2024 wef 23/07/2024]"
+   }
+  },
+  {
+   "id": "SG-H3029-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL PROVISIONS RELATING TO DOCUMENTS"
+   },
+   "heading": {
+    "en": "Receivership"
+   },
+   "text": {
+    "en": "16.—(1) For the purposes of paragraph 8(1)(c)(i) of the Fourth Schedule to the Act, the copy of the statement of affairs of a limited liability partnership to be lodged with the Registrar shall be a copy certified in writing to be a true copy of the original statement by the receiver or manager of the property of the limited liability partnership.\n(2) The affidavit verifying the account of receipts and payments by the receiver or manager under paragraph 10(1) of the Fourth Schedule to the Act need not be lodged with the applicable form if the lodgment is personally done by the receiver or manager concerned and he declares in that form that the accounts and statements are true and correct."
+   }
+  },
+  {
+   "id": "SG-H3029-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL PROVISIONS RELATING TO DOCUMENTS"
+   },
+   "heading": {
+    "en": "Winding up"
+   },
+   "text": {
+    "en": "17.—(1) For the purposes of paragraph 18(1) of the Fifth Schedule to the Act, a statement of affairs of a limited liability partnership shall be verified by affidavit in accordance with the applicable document sworn or affirmed by the person who submits, or by one of the persons who submits, the statement to the Official Receiver or the liquidator of the limited liability partnership, as the case requires, under paragraph 18(2) of the Fifth Schedule to the Act.\n(2) For the purposes of paragraph 18(3) of the Fifth Schedule to the Act, the copy of the statement of affairs of a limited liability partnership to be lodged with the Registrar shall be a copy certified in writing to be a true copy of the original statement by the liquidator of the limited liability partnership.\n(3) A form lodged with the Registrar in compliance with paragraphs 18(3), 42(4), 55(3) and (4), 63(1) and (3) and 64(1) of the Fifth Schedule to the Act shall be deemed to have been lodged with the Official Receiver upon payment of the prescribed fees for both the lodgments."
+   }
+  },
+  {
+   "id": "SG-H3029-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL PROVISIONS RELATING TO DOCUMENTS"
+   },
+   "text": {
+    "en": "18. [Deleted by S 842/2015 wef 03/01/2016]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3029-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL PROVISIONS RELATING TO DOCUMENTS"
+   },
+   "heading": {
+    "en": "Affidavit and statutory declaration"
+   },
+   "text": {
+    "en": "19.—(1) Except as otherwise provided in the Act, these Regulations or in any form, an affidavit or a statutory declaration sworn or declared for the purposes of the Act or these Regulations on behalf of a limited liability partnership shall be sworn or declared by a manager of the limited liability partnership.\n(2) Where an affidavit or a statutory declaration prescribed by the Act or these Regulations purports to be sworn or declared at a place outside Singapore, the affidavit or statutory declaration shall be sufficient for the purposes of the Act or these Regulations if it purports to be sworn or declared in accordance with the requirements of the law of that place."
+   }
+  },
+  {
+   "id": "SG-H3029-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL PROVISIONS RELATING TO DOCUMENTS"
+   },
+   "heading": {
+    "en": "Order of court"
+   },
+   "text": {
+    "en": "20. An order of court shall, unless expressly provided in the applicable form, be lodged in the form relating to the general lodgment of orders of court."
+   }
+  },
+  {
+   "id": "SG-H3029-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL PROVISIONS RELATING TO DOCUMENTS"
+   },
+   "heading": {
+    "en": "Translation"
+   },
+   "text": {
+    "en": "21.—(1) Where a limited liability partnership is required under the Act to lodge with the Registrar any instrument, certificate, contract or document or a certified copy thereof and the same is not written in the English language, the limited liability partnership shall lodge at the same time with the Registrar a certified translation thereof in the English language.\n(2) Where any accounts or other records of a limited liability partnership required by the Act to be kept are not kept in the English language, the managers of the limited liability partnership shall cause —\n(a)a true translation of such accounts and other records to be made from time to time at intervals of not more than 7 days; and\n(b)such translations to be kept with the original accounts and other records for so long as the original accounts and other records are required by the Act to be kept.\n(3) The Registrar may, before accepting a translation for lodgment, require the person lodging the translation to furnish to the Registrar such evidence as the Registrar thinks sufficient of the ability of the person by whom the translation is made to make the translation.\n(4) In this regulation, “certified translation” means a translation that is certified by a person approved by the Registrar to be a correct translation in the English language."
+   }
+  },
+  {
+   "id": "SG-H3029-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART V MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Compoundable offences"
+   },
+   "text": {
+    "en": "22. Any offence (other than a continuing offence) under the Act or any subsidiary legislation made under the Act which is punishable only by a fine or a fine and default penalty may be compounded by the Registrar in accordance with section 80(1) of the Act.\n[S 842/2015 wef 03/01/2016]\n[S 954/2024 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H3029-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART V MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Appeal to Minister"
+   },
+   "text": {
+    "en": "23.—(1) Any person intending to lodge an appeal to the Minister under the Act shall deliver to the Registrar a notice of appeal stating the grounds of appeal.\n(2) The Registrar shall submit to the Minister a copy of the notice of appeal together with the grounds of appeal stated therein."
+   }
+  },
+  {
+   "id": "SG-H3029-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 7(1) and (4)\nFees\n1.For registration under section 20 of the Act\n$100\n2.For conversion of a firm to a limited liability partnership under section 26 of the Act read with section 20 of the Act, or conversion of a private company to a limited liability partnership under section 27 of the Act read with section 20 of the Act\n$40\n3.For application for reservation of proposed name of a limited liability partnership under section 23(1) of the Act\n$15\n4.For application to the Registrar to direct a change of name of a limited liability partnership under section 24(6) of the Act\n$200\n5.For supplying a certificate of confirmation of registration under section 20(4) of the Act\n$50\n6.For lodging a notice of error under section 74(1) of the Act\n$60\n7.For lodging of annual declaration under section 30(1) of the Act\n$30\n8.[Deleted by S 954/2024 wef 09/12/2024]\n9.For supplying a copy of, or an extract from, any form (excluding attachments) filed with the Registrar\n$11 per form\n10.For supplying a copy of, or an extract from, any form (including attachments) filed with the Registrar\n$26 per form\n11.For certification of documents filed or lodged with the Registrar under section 36(1) of the Act\n$1 per page or part of a page\n12.On any order served on the Registrar to produce any document in the Registrar’s custody\nGovernment rates chargeable\n[S 211/2026 wef 06/05/2026]\n[S 842/2015 wef 03/01/2016]\n[S 121/2017 wef 31/03/2017]\n[S 335/2018 wef 01/06/2018]\n[S 954/2024 wef 31/12/2021]\n[S 238/2022 wef 01/04/2022]\n[G.N. Nos. S 244/2005; S 551/2005; S 881/2005]"
+   }
+  },
+  {
+   "id": "SG-H3029-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 7(2), (3) and (4)\nPart 1\nPENALTIES FOR LATE LODGMENT OF ANNUAL DECLARATION\nLength of Default (calculated in terms of months\nafter the date on which document was required\nto be lodged)\nLate lodgment penalty\n1.Up to 3 months\n$300\n2.Exceeding 3 months\n$600\n[S 28/2022 wef 14/01/2022]\nPart 2\nPENALTIES FOR LATE LODGMENT OF ANY\nDOCUMENT OTHER THAN ANNUAL DECLARATION\nLength of default (calculated in terms of months after the date on which document was required to be lodged)\nLate lodgment penalty\n1.Up to 3 months\n$50\n2.Exceeding 3 months\n$200\n[S 842/2015 wef 03/01/2016]\n[S 954/2024 wef 09/12/2024]"
+   }
+  }
+ ]
+}

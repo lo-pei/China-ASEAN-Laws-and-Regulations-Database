@@ -1,0 +1,74 @@
+{
+ "id": "PH-H5655",
+ "title": {
+  "zh": null,
+  "en": "An Act Adjusting the Basic Personal and Additional Exemptions Allowable to Individuals for Income Tax Purposes to the Poverty Threshold Level, Amending for the Purpose Section 29, Paragraph (L), Items (1) and (2)(A), of the National Internal Revenue Code, as Amended, and for Other Purposes",
+  "orig": "An Act Adjusting the Basic Personal and Additional Exemptions Allowable to Individuals for Income Tax Purposes to the Poverty Threshold Level, Amending for the Purpose Section 29, Paragraph (L), Items (1) and (2)(A), of the National Internal Revenue Code, as Amended, and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p80",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1991-12-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 7167",
+ "officialCode": null,
+ "topics": [
+  "tax"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1590,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1991/ra_7167_1991.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1991/ra_7167_1991.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H5655-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The first paragraph of item (1), paragraph (l) of Section 29 of the National Internal Revenue Code, as amended, is hereby further amended to read as follows:\n\"(l) Personal exemptions allowable to individuals. — (1) Basic personal exemption. — For the purpose of determining the tax provided in Section 21(a) of this Title, there shall be allowed a basic personal exemption as follows:\n\"For single individual or married individual judicially decreed as legally separated with no qualified dependents P9,000 \"For head of a family P12,000 \"For married individual P18,000 Provided, that husband and wife electing to compute their income tax separately shall be entitled to a personal exemption of P9,000 each.\""
+   }
+  },
+  {
+   "id": "PH-H5655-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The first paragraph of item (2)(A), paragraph (l) of Section 29 of the same Code, as amended, is hereby further amended to read as follows:\n\"(2) Additional exemption \"(A) Taxpayers with dependents. — A married individual or a head of family shall be allowed an additional exemption of Five thousand pesos (P5,000) for each dependent: provided, that the total number of dependents for which additional exemptions may be claimed shall not exceed four dependents: provided, further, that an additional exemption of One thousand pesos (P1,000) shall be allowed for each child who otherwise qualified as dependent prior to January 1, 1980: provided, finally, that the additional exemption for dependents shall be claimed by only one of the spouses in the case of married individuals electing to compute their income tax liabilities separately.\""
+   }
+  },
+  {
+   "id": "PH-H5655-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

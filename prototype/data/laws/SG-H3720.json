@@ -1,0 +1,146 @@
+{
+ "id": "SG-H3720",
+ "title": {
+  "zh": null,
+  "en": "Vandalism Act 1966",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p47",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1966",
+ "effectiveDate": "2021-12-31",
+ "versionDate": null,
+ "amendedNote": "2020 Revised Edition（2021-12-31 生效）",
+ "issuingBody": null,
+ "docNumber": "Act VA1966",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 8,
+ "chars": 4164,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/VA1966?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 8 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3720-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Vandalism Act 1966."
+   }
+  },
+  {
+   "id": "SG-H3720-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act —\n“act of vandalism” means —\n(a)without the written authority of an authorised officer or representative of the Government or of the government of any Commonwealth or foreign country or of any statutory body or authority or of any armed force lawfully present in Singapore in the case of public property, or without the written consent of the owner or occupier in the case of private property —\n(i)writing, drawing, painting, marking or inscribing on any public property or private property any word, slogan, caricature, drawing, mark, symbol or other thing;\n(ii)affixing, posting up or displaying on any public property or private property any poster, placard, advertisement, bill, notice, paper or other document; or\n(iii)hanging, suspending, hoisting, affixing or displaying on or from any public property or private property any flag, bunting, standard, banner or the like with any word, slogan, caricature, drawing, mark, symbol or other thing; or\n(b)stealing, destroying or damaging any public property;\n“private property” means movable or immovable property other than public property;\n“public property” means movable or immovable property belonging to the Government or to the government of any Commonwealth or foreign country or to any statutory body or authority or to any armed force lawfully present in Singapore."
+   }
+  },
+  {
+   "id": "SG-H3720-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Penalty for acts of vandalism"
+   },
+   "text": {
+    "en": "3. Notwithstanding the provisions of any other written law, any person who commits any act of vandalism or attempts to do any such act or causes any such act to be done shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 years, and shall also, subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010, be punished with caning with not less than 3 strokes and not more than 8 strokes, except that the punishment of caning shall not be imposed on a first conviction under this Act in the case of any act falling within —\n(a)paragraph (a)(i) of the definition of “act of vandalism” in section 2, if the writing, drawing, mark or inscription is done with pencil, crayon, chalk or other delible substance or thing and not with paint, tar or other indelible substance or thing; or\n(b)paragraph (a)(ii) or (iii) of that definition."
+   }
+  },
+  {
+   "id": "SG-H3720-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Written authority or written consent to be produced on demand to certain persons"
+   },
+   "text": {
+    "en": "4.—(1) The written authority or the written consent, as the case may be, required under paragraph (a) of the definition of “act of vandalism” in section 2 shall be produced on demand to any member of the Singapore Police Force or of the Special Constabulary or of the Auxiliary Police Force or to any member of the naval, military or air force police attached to the Singapore Armed Forces or to any armed force lawfully present in Singapore.\n(2) Any person who fails, refuses or neglects to produce such written authority or written consent on demand as provided in subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500."
+   }
+  },
+  {
+   "id": "SG-H3720-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Power to seize article or thing in respect of which offence committed"
+   },
+   "text": {
+    "en": "5. Any person mentioned in section 4(1) may seize any poster, placard, bunting, paper or document or any other article or thing in respect of which he reasonably believes an offence to have been committed under this Act or which he reasonably believes to be or to contain evidence relating to such an offence."
+   }
+  },
+  {
+   "id": "SG-H3720-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Offences to be arrestable and non-bailable"
+   },
+   "text": {
+    "en": "6. Every offence under the provisions of this Act shall be arrestable and non‑bailable for the purposes of the Criminal Procedure Code 2010."
+   }
+  },
+  {
+   "id": "SG-H3720-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Presumption"
+   },
+   "text": {
+    "en": "7. For the purposes of any prosecution under section 411 of the Penal Code 1871, where the stolen property is public property, it shall be presumed, until the contrary is proved, that the person who received or retained that property knew or had reason to believe that the property was stolen public property and also that such person received or retained it dishonestly."
+   }
+  },
+  {
+   "id": "SG-H3720-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Revocation of secondhand goods dealer’s licence upon conviction"
+   },
+   "text": {
+    "en": "8. Where any secondhand goods dealer within the meaning of the Secondhand Goods Dealers Act 2007 is convicted under section 411 of the Penal Code 1871 and the stolen property concerned is public property, the court shall, in addition to any other penalty that it may impose, revoke any licence or exemption granted under that Act to the secondhand goods dealer."
+   }
+  }
+ ]
+}

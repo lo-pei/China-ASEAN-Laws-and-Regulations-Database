@@ -1,0 +1,892 @@
+{
+ "id": "SG-H365",
+ "title": {
+  "zh": null,
+  "en": "Building Control (Fixed Installations) Regulations 2025",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p05",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation BCA1989-S614-2025",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 55,
+ "chars": 135597,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/BCA1989-S614-2025?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 55 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 5 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H365-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Building Control (Fixed Installations) Regulations 2025 and come into operation on 1 October 2025."
+   }
+  },
+  {
+   "id": "SG-H365-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations —\n“acceptable solution” means the specifications, design, material or method of installation set out in an Approved Document;\n“alternative solution” means a solution that entails the use of any design, material or method of installation that differs completely or partially from those in the acceptable solution;\n“applicable standard”, in relation to the design, installation, operation or maintenance, or major alteration or replacement, of a fixed installation, means the applicable standard for the fixed installation specified in an Approved Document for that fixed installation;\n“Approved Document” means an Approved Document issued by the Commissioner of Building Control under regulation 5;\n“certification body” means an organisation that issues type testing certificates and is on the approved list of certification bodies published on the website of the Building and Construction Authority at https://www1.bca.gov.sg;\n“E/E/PE” means a device that —\n(a)is part of, and controls, the safety circuit of a fixed installation; and\n(b)contains any 2 or more of the following:\n(i)an electrical component;\n(ii)a non-programmable electronic component;\n(iii)a programmable electronic component;\n“fixed installation inspector” means a person who is registered as a fixed installation inspector by the Fixed Installation Inspector Joint Accreditation Committee established by the Building and Construction Authority, the Institution of Engineers Singapore and the Association of Consulting Engineers Singapore;\n“fixed installation service contractor” means a person who carries out, whether exclusively or in conjunction with any other business, the examination, inspection and testing, or the maintenance, of fixed installations;\n“fixed installation works contractor” means a person who carries out, whether exclusively or in conjunction with any other business, fixed installation works;\n“home lift” means a lift, not being common property, installed in a private home solely for the use of its occupants, but does not include a stairlift or vertical platform lift installed in a private home solely for the use of its occupants;\n“immaterial change”, in relation to fixed installation works, means any change to the fixed installation works that is not a material change;\n“major alteration or replacement works” has the meaning given by regulation 3;\n“man machine interface”, for a mechanised car parking system, means all parts of the mechanised car parking system other than a part of the mechanised car parking system that —\n(a)is designed for the storage of a vehicle; and\n(b)is not intended to be accessible by any person operating or using the mechanised car parking system;\n“material change”, in relation to fixed installation works, means any change to the fixed installation works that —\n(a)affects the safety of the fixed installation during operations or maintenance, after the fixed installation works are completed; or\n(b)relates to a component that is subject to type testing;\n“operate”, in relation to a fixed installation, includes allowing or authorising the operation of the fixed installation;\n“permit to operate” or “PTO” means a permit issued by the Commissioner of Building Control under regulation 32;\n“plan submission QP” means a qualified person who is also a specialist professional engineer appointed under regulation 20(1)(a) or 22(1)(b);\n“reportable safety incident” has the meaning given by regulation 4 of the Building Control (Reportable Matters) Regulations 2025 (G.N. No. S 615/2025);\n“reportable safety risk” has the meaning given by regulation 5 of the Building Control (Reportable Matters) Regulations 2025;\n“specialist professional engineer” means a person who —\n(a)is registered under the Professional Engineers Act 1991 as a specialist professional engineer in the specialised branch of lift and escalator engineering; and\n(b)has a valid practising certificate in the specialised branch of lift and escalator engineering;\n“stairlift” means a motorised platform or seat installed in a stairway, which transverses the stairs when activated;\n“supervisor QP” means a qualified person who is also a specialist professional engineer appointed under regulation 29(1)(a)(ii);\n“transfer area”, in relation to a mechanised car parking system, means the area of the mechanised car parking system where the driver will enter to park or retrieve the driver’s vehicle (including any area for the driver to stand within the man machine interface of the system);\n“type testing certificate” means a certificate issued by a certification body stating, for any lift model or safety component of a lift, that the certification body has —\n(a)assessed the technical design of that lift model or safety component;\n(b)tested and examined a specimen of that lift model or safety component according to an Approved Document; and\n(c)found the technical design of that lift model or safety component to comply with an Approved Document;\n“vertical platform lift” means a vertical lifting platform intended for use by people with impaired mobility, with or without a wheelchair, travelling vertically between predefined levels along a guided path.\n(2) A reference to a fixed installation in these Regulations includes a reference to a part of the fixed installation."
+   }
+  },
+  {
+   "id": "SG-H365-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Prescribed major alteration or replacement works"
+   },
+   "text": {
+    "en": "3.—(1) For the purposes of paragraph (b) of the definition of “fixed installation works” in section 2(1) of the Act and subject to paragraph (2), the works set out in the second or third column of the First Schedule are prescribed as major alteration or replacement works for the corresponding fixed installation set out opposite in the first column of that Schedule.\n(2) Despite paragraph (1), replacing a part of a fixed installation with a part of the same design and specifications does not constitute major alteration or replacement works for the fixed installation."
+   }
+  },
+  {
+   "id": "SG-H365-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Application to fixed installations and fixed installation works"
+   },
+   "text": {
+    "en": "4. For the purposes of section 4(2) of the Act, the provisions of Part 2 of the Act and the Building Control Regulations 2003 (G.N. No. S 666/2003) set out in the first column of the Fifth Schedule apply to and in relation to fixed installations and fixed installation works as modified and reproduced in the corresponding provisions of these Regulations set out opposite in the second column of that Schedule."
+   }
+  },
+  {
+   "id": "SG-H365-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Approved Documents"
+   },
+   "text": {
+    "en": "5.—(1) The Commissioner of Building Control may issue, in any form that he or she thinks fit, and from time to time amend, one or more Approved Documents setting out all or any of the following:\n(a)the applicable standard for the design, installation, operation or maintenance of a fixed installation;\n(b)the applicable standard for the major alteration or replacement of a fixed installation;\n(c)the specifications, designs, materials or methods of installation (called in these Regulations acceptable solutions) which are, without prejudice to any alternative means of achieving compliance, deemed to comply with the relevant objectives and performance requirements set out in the Third Schedule for the design and installation of a fixed installation.\n(2) If —\n(a)any applicable standard or code of practice is cited or referred to in an Approved Document; and\n(b)there is subsequently issued a corresponding Singapore Standard or Code of Practice on the same subject matter,\nthe reference to the applicable standard or code of practice mentioned in sub‑paragraph (a) in the Approved Document is to be construed as a reference to the corresponding Singapore Standard or Code of Practice mentioned in sub‑paragraph (b)."
+   }
+  },
+  {
+   "id": "SG-H365-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Application of Part"
+   },
+   "text": {
+    "en": "6.—(1) This Part does not apply to any fixed installation works relating to the supporting structure or enclosure of a fixed installation.\n(2) To avoid doubt, Part 2 of the Act and the Building Control Regulations 2003 continue to apply in relation to the fixed installation works mentioned in paragraph (1).\n(3) The following provisions in this Part do not apply to or in relation to any major alteration or replacement works specified in the third column of the First Schedule:\n(a)Division 2 (Plan approvals for fixed installation works);\n(b)Division 3 (Requirements for plans);\n(c)regulation 20(1)(a) (Duties of developers);\n(d)regulation 21(1), (2), (3), (4)(a)(ii)(B), (7), (8) and (10)(a) (Duties of plan submission QP, etc.);\n(e)regulation 22(1)(b) and (3)(a)(i)(B) and (ii), (d), (e), (g) and (h) (Duties of builders and fixed installation works contractors);\n(f)regulation 24 (Offences relating to fixed installation works)."
+   }
+  },
+  {
+   "id": "SG-H365-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Compliance with design and installation requirements"
+   },
+   "text": {
+    "en": "7. Subject to this Part, all fixed installations must be designed and all fixed installation works must be carried out in compliance with the objectives and performance requirements set out in the Third Schedule."
+   }
+  },
+  {
+   "id": "SG-H365-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Endorsed alternative solutions"
+   },
+   "text": {
+    "en": "8.—(1) The Commissioner of Building Control may, in addition to the Approved Documents, endorse in writing, in whole or in part, any alternative solution for use in establishing compliance with the objectives and performance requirements set out in the Third Schedule.\n(2) Any fixed installations that are designed, or any fixed installation works that are carried out, in accordance with an alternative solution endorsed under paragraph (1) are deemed to comply with the objectives and performance requirements set out in the Third Schedule."
+   }
+  },
+  {
+   "id": "SG-H365-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Application for approval of plans"
+   },
+   "text": {
+    "en": "9.—(1) An application for approval of the plans of any fixed installation works must —\n(a)be made to the Commissioner of Building Control by the developer of those fixed installation works;\n(b)be in any form that may be required by the Commissioner of Building Control; and\n(c)contain any information that the Commissioner of Building Control may require.\n(2) The application mentioned in paragraph (1) must be accompanied by —\n(a)the names and particulars of the plan submission QP appointed to prepare the plans of those fixed installation works;\n(b)the plans of the fixed installation works prepared in accordance with these Regulations;\n(c)if the fixed installation works relate to the installation of a lift (except a stairlift or vertical platform lift) — a type testing certificate (and accompanying documents) for the lift model of the lift and each safety component in that lift;\n(d)if the fixed installation works only involve replacing a safety component in a lift (except a stairlift or vertical platform lift) with a safety component that is not the same model or make originally involved in the lift (called in this regulation a new safety component) — a type testing certificate (and accompanying documents) for each new safety component;\n(e)a certificate issued by the plan submission QP, in the form and manner required by the Commissioner of Building Control, stating that the plan submission QP is satisfied that —\n(i)the plans for the fixed installation works comply with Division 3; and\n(ii)any type testing certificate (including any accompanying document) mentioned in sub‑paragraphs (c) and (d) —\n(A)is valid;\n(B)corresponds with the plans for the fixed installation works;\n(C)is complete; and\n(D)complies with any other requirements that the Commissioner of Building Control may specify; and\n(f)the documents mentioned in paragraph (3).\n(3) For the purposes of paragraph (2)(f) and regulation 14(3), the documents are as follows:\n(a)the following plans of the fixed installation works prepared in accordance with these Regulations and any other requirements that the Commissioner of Building Control may, from time to time, specify:\n(i)any design plan;\n(ii)any location plan;\n(iii)any site plan;\n(b)a notification of the appointment of the plan submission QP who prepared the plans of the fixed installation works, signed by the person who made the appointment;\n(c)if an application has been made under regulation 45(1) for a modification or waiver of any requirement of these Regulations — a copy of the application;\n(d)if alternative solutions are to be utilised in respect of the fixed installation works —\n(i)a list of the alternative solutions; and\n(ii)the certification of one or more specialists in the alternative solutions mentioned in regulation 21(2)(b)(ii), if obtained;\n(e)the specified documents for the fixed installation set out in the Second Schedule;\n(f)any other document that the Commissioner of Building Control may require, which may include a document showing the appointed fixed installation works contractor’s ability to install lifts imported from a particular supplier."
+   }
+  },
+  {
+   "id": "SG-H365-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Non-acceptance of application for approval of plans"
+   },
+   "text": {
+    "en": "10. The Commissioner of Building Control may refuse to accept an application for approval of any plans of fixed installation works if —\n(a)the application or the plans of fixed installation works submitted do not comply with any requirement of these Regulations; or\n(b)the application is not complete or not in accordance with any other requirement of the Commissioner of Building Control."
+   }
+  },
+  {
+   "id": "SG-H365-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Approval of plans"
+   },
+   "text": {
+    "en": "11.—(1) Upon receiving an application under regulation 9 for the approval of plans of any fixed installation works, the Commissioner of Building Control must consider the application and may —\n(a)approve any one or more of the plans submitted to the Commissioner of Building Control, with or without conditions;\n(b)in writing direct the developer to comply with any requirements that the Commissioner of Building Control may specify for the purpose of ensuring that all or any of the plans submitted to him or her complies with the provisions of these Regulations and to re‑submit those plans for his or her approval, within the period specified in the direction; or\n(c)disapprove any one or more of the plans submitted to him or her.\n(2) If the written direction given by the Commissioner of Building Control under paragraph (1)(b) is not complied with within the period specified in that direction, or such further period as may be extended by the Commissioner of Building Control, the application for approval of those plans is, at the end of that period, deemed to be disapproved by the Commissioner of Building Control.\n(3) The Commissioner of Building Control may, without checking the plans, type testing certificates or documents mentioned in regulation 9(2) and (3) of any fixed installation works, approve those plans on the basis of the certificate mentioned in regulation 9(2)(e).\n(4) Despite paragraph (3), the Commissioner of Building Control may carry out any checks on any of the plans, type testing certificates or documents mentioned in regulation 9(2) and (3) submitted for any fixed installation works before approving those plans under paragraph (1)(a).\n(5) To avoid doubt, no approval of any plans of fixed installation works under paragraph (1)(a) is taken to —\n(a)confer any title to land;\n(b)act as a waiver of any term in any lease or licence;\n(c)grant any exemption from or permit any contravention of these Regulations; or\n(d)modify or waive the application of these Regulations to those fixed installation works where no such modification or waiver has been granted under regulation 45 in relation to the fixed installation works."
+   }
+  },
+  {
+   "id": "SG-H365-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Notification of approval or disapproval of plans"
+   },
+   "text": {
+    "en": "12.—(1) If the Commissioner of Building Control approves any plans of fixed installation works under regulation 11(1)(a), he or she must notify the developer of the fixed installation works and the plan submission QP who prepared and submitted those plans of his or her approval and of the terms and conditions (if any) subject to which the approval has been granted.\n(2) If the Commissioner of Building Control disapproves any plans of fixed installation works under regulation 11(1)(c), he or she must notify the developer of the fixed installation works and the plan submission QP who prepared and submitted those plans."
+   }
+  },
+  {
+   "id": "SG-H365-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Return of disapproved or withdrawn plans"
+   },
+   "text": {
+    "en": "13.—(1) If any plans of fixed installation works have been disapproved, the Commissioner of Building Control may return the disapproved plans to the relevant plan submission QP.\n(2) If any plans have been withdrawn by the plan submission QP or developer before or after approval, the Commissioner of Building Control may return the plans to the plan submission QP or developer, as the case may be.\n(3) If —\n(a)the Commissioner of Building Control has notified a plan submission QP or developer to collect any plans (whether on paper or in electronic form) that are to be returned under paragraph (1) or (2); and\n(b)the plans are not collected within one month after the date of the notice,\nthe Commissioner of Building Control may destroy or dispose of the plans (including the medium in which they are stored) in any way that he or she thinks fit."
+   }
+  },
+  {
+   "id": "SG-H365-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Departure or deviation from approved plans"
+   },
+   "text": {
+    "en": "14.—(1) This regulation applies when —\n(a)the plans of any fixed installation works have been approved by the Commissioner of Building Control under regulation 11(1)(a); and\n(b)the developer of the fixed installation works intends to depart or deviate from the approved plans.\n(2) If the departure or deviation involves a material change to the fixed installation works, the developer must, before installation, apply to the Commissioner of Building Control for his or her approval of the amended plans showing the proposed departure or deviation.\n(3) An application under paragraph (2) must be accompanied by the following:\n(a)the amended plans of the fixed installation works showing clearly the departures or deviations, and prepared in accordance with Division 3;\n(b)if the departure or deviation involves a change to the lift model of the lift to be installed (except a stairlift or vertical platform lift) — a type testing certificate (and accompanying documents) for the lift model of the lift and each safety component in that lift;\n(c)if the departure or deviation involves a change to a safety component in a lift (except a stairlift or vertical platform lift) that is not the same model or make originally involved in the lift — a type testing certificate (including any accompanying document) for the safety component in the lift;\n(d)all the documents mentioned in regulation 9(3) (whether or not affected by the departure or deviation);\n(e)a certificate issued by a plan submission QP (in the form and manner required by the Commissioner of Building Control) stating that the plan submission QP is satisfied that —\n(i)the amended plans for the fixed installation works comply with Division 3;\n(ii)any type testing certificate accompanying the application (including any accompanying document to the certificate) —\n(A)is valid;\n(B)corresponds with the amended plans of the fixed installation works;\n(C)is complete; and\n(D)complies with any other requirements that the Commissioner of Building Control may specify; and\n(iii)the documents mentioned in regulation 9(3) that are submitted with the application are in order;\n(f)the names and particulars of the plan submission QP appointed.\n(4) The first approval granted under regulation 11 of any plans of fixed installation works ends and is superseded to the extent that the amended plans relating to those same fixed installation works are approved under this regulation (whether or not the approval also relates to other fixed installation works).\n(5) If the departures or deviations from the approved plans involve immaterial changes, the relevant plan submission QP is only required to submit to the Commissioner of Building Control —\n(a)a record plan showing the immaterial changes made to the approved plan;\n(b)a certificate stating that to the best of the plan submission QP’s knowledge and belief, the departures or deviations —\n(i)have been completed in accordance with these Regulations; and\n(ii)are not material changes; and\n(c)any other certificate or document that the Commissioner of Building Control may require.\n(6) The certificates mentioned in paragraph (5)(b) and (c) must be in such form as the Commissioner of Building Control may specify."
+   }
+  },
+  {
+   "id": "SG-H365-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Lapsing or revocation of approval for plans"
+   },
+   "text": {
+    "en": "15.—(1) Any approval granted under regulation 11 or 14, in respect of any plans of fixed installation works automatically lapses if the fixed installation works do not start within 24 months after the date the approval is granted.\n(2) The Commissioner of Building Control may, at any time, revoke any approval granted in respect of any plans of fixed installation works under regulation 11 or 14, if he or she is satisfied that any information given in the application for approval or any document submitted to the Commissioner of Building Control in connection with the application for approval is false or misleading in a material particular.\n(3) If the Commissioner of Building Control has under paragraph (2) revoked any approval granted under regulation 11 or 14 in respect of any plans of fixed installation works, the Commissioner of Building Control may revoke any permit to operate granted in respect of that fixed installation."
+   }
+  },
+  {
+   "id": "SG-H365-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Inspection and copying of approved drawings"
+   },
+   "text": {
+    "en": "16. The Commissioner of Building Control may allow the approved drawings of fixed installation works kept in his or her office to be inspected and copied by the owner of the fixed installation or the owner’s authorised agent on such terms and conditions as the Commissioner of Building Control may decide."
+   }
+  },
+  {
+   "id": "SG-H365-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Preparation of plans for approval"
+   },
+   "text": {
+    "en": "17. All plans or amended plans of fixed installation works accompanying any application for approval of the plans under regulation 9(1) or 14(2) must —\n(a)be prepared and signed by a plan submission QP;\n(b)be produced in a clear and intelligible manner;\n(c)bear a title block in such format as the Commissioner of Building Control may specify together with a project title on the right side of the plan;\n(d)be fully annotated and use suitable notations and symbols to show or distinguish the different types of materials and components to be used in the fixed installation works;\n(e)bear a full description or generic name of any specification of materials and components given or shown on the plans;\n(f)demarcate clearly the new fixed installation works from the existing building by suitable markings;\n(g)delineate clearly the fixed installation works to be deleted, demolished or removed by suitable markings;\n(h)be numbered serially where the first plan is numbered as 1 of n and the last plan as n of n (n being the total number of pages of the relevant plans);\n(i)set out fixed installation works the design or installation of which complies with the objectives and performance requirements set out in the Third Schedule; and\n(j)comply with any other requirements that the Commissioner of Building Control may specify."
+   }
+  },
+  {
+   "id": "SG-H365-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Scale of plans"
+   },
+   "text": {
+    "en": "18. A plan of fixed installation works must be drawn to the following scales if the plan is submitted in paper form:\n(a)key or location plan — 1:10,000;\n(b)site plan — at least 1:1,000;\n(c)others — at least 1:200."
+   }
+  },
+  {
+   "id": "SG-H365-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Particulars to be shown on plans"
+   },
+   "text": {
+    "en": "19. A plan of fixed installation works must, where applicable, consist of or contain the following:\n(a)the information for the fixed installation in the Second Schedule;\n(b)any other information that the Commissioner of Building Control may require."
+   }
+  },
+  {
+   "id": "SG-H365-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Duties of developers"
+   },
+   "text": {
+    "en": "20.—(1) Subject to these Regulations, every developer of fixed installation works must appoint —\n(a)a plan submission QP to —\n(i)prepare the plans for any fixed installation works in accordance with —\n(A)an acceptable solution; or\n(B)Division 3; and\n(ii)check and confirm that any type testing certificate (including any accompanying document) that is to be submitted in relation to the fixed installation works —\n(A)is valid;\n(B)corresponds with the plans for the fixed installation works;\n(C)is complete; and\n(D)complies with any other requirements that the Commissioner of Building Control may specify; and\n(b)a fixed installation works contractor to carry out the fixed installation works.\n(2) The developer of any fixed installation works must notify the Commissioner of Building Control of every appointment the developer makes under paragraph (1)(b) within 14 days after making that appointment.\n(3) If a fixed installation works contractor appointed under paragraph (1)(b) in respect of fixed installation works becomes unwilling or unable, whether by reason of the termination of his, her or its appointment or for any other reason, to carry out his, her or its respective duties under these Regulations, the developer must —\n(a)without delay appoint under paragraph (1) another fixed installation works contractor in his, her or its place; and\n(b)within 7 days thereafter, notify the Commissioner of Building Control of that substitute appointment.\n(4) The developer of any fixed installation works must notify the Commissioner of Building Control of any contravention of these Regulations relating to those fixed installation works of which the developer knows or ought reasonably to know.\n(5) Any developer of fixed installation works who, without reasonable excuse, fails to comply with paragraph (3)(b) shall be guilty of an offence under section 8(4) of the Act.\n(6) Any developer of fixed installation works who contravenes paragraph (4) shall be guilty of an offence under section 8(5) of the Act and shall be liable on conviction to punishment under that provision.\n(7) It is a defence in any prosecution for a contravention of paragraph (4) for the person charged to prove to the satisfaction of the court that the person did not know and could not reasonably have discovered the contravention mentioned in the charge."
+   }
+  },
+  {
+   "id": "SG-H365-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Duties of plan submission QPs and supervisor QPs"
+   },
+   "text": {
+    "en": "21.—(1) A plan submission QP appointed in relation to any fixed installation works must —\n(a)take all reasonable steps and exercise due diligence to ensure that the fixed installation works are designed in accordance with these Regulations (subject to regulation 45);\n(b)notify the Commissioner of Building Control of any contravention of these Regulations in relation to those fixed installation works of which the plan submission QP knows or ought reasonably to know;\n(c)supply a copy of the plans of the fixed installation works approved by the Commissioner of Building Control (including any conditions imposed in that approval, type testing certificates accompanying that approval and documents accompanying those type testing certificates) to —\n(i)any fixed installation works contractor for those works; and\n(ii)any supervisor QP who is appointed under regulation 29(1)(a)(ii) for the fixed installation concerned; and\n(d)check and confirm that any type testing certificate (including any accompanying document) accompanying an application under regulation 9(1) or 14(2) —\n(i)is valid;\n(ii)corresponds with the plans for the fixed installation works;\n(iii)is complete; and\n(iv)complies with any other requirements that the Commissioner of Building Control may specify.\n(2) For the purpose of paragraph (1)(a) —\n(a)the plans of any fixed installation works that are prepared in accordance with the acceptable solutions are deemed to comply with the objectives and performance requirements set out in the Third Schedule; and\n(b)if the plan submission QP appointed to prepare the plans of any fixed installation works intends to utilise any alternative solution (that is to say, a solution that entails the use of any design, material or installation method that differs completely or partially from those in the acceptable solution), the plan submission QP must —\n(i)take all reasonable steps and exercise due diligence to ensure that the alternative solution satisfies the objectives and performance requirements set out in the Third Schedule; or\n(ii)obtain the certification of another person who has such requisite specialist knowledge or qualification in the application of the alternative solution as the Commissioner of Building Control may approve (called in this regulation a specialist in the alternative solution), that the alternative solution satisfies the objectives and performance requirements set out in the Third Schedule.\n(3) A specialist in the alternative solution must not issue any certification for the purposes of paragraph (2)(b)(ii) unless the specialist in the alternative solution has taken all reasonable steps and exercised due diligence to ensure that the alternative solution in respect of which his or her certification is being sought satisfies the objectives and performance requirements that are set out in the Third Schedule in respect of the fixed installation works for which the alternative solution is to be applied.\n(4) A supervisor QP appointed in relation to a fixed installation for the purposes of Part 3 must —\n(a)after the installation of, or major alteration or replacement works for, the fixed installation is complete, and before the application for a permit to operate, be physically present to —\n(i)supervise that any examining, inspecting, testing or commissioning of the fixed installation by a fixed installation works contractor is carried out in accordance with regulation 29(2); and\n(ii)ensure that the design, installation, operation and function of the fixed installation are in accordance with and complies with —\n(A)these Regulations (subject to regulation 45);\n(B)the relevant plans approved by the Commissioner of Building Control; and\n(C)any terms and conditions in the approved plans imposed by the Commissioner of Building Control;\n(b)submit a test report to the Commissioner of Building Control, in the form and manner specified by the Commissioner of Building Control, relating to the examining, inspecting, testing and commissioning of the fixed installation;\n(c)submit a certificate to the Commissioner of Building Control, in the form and manner specified by the Commissioner of Building Control and signed by the supervisor QP, certifying that —\n(i)the fixed installation has been examined, inspected, tested and commissioned in accordance with sub‑paragraph (a)(i);\n(ii)the design, installation, operation and function of the fixed installation has been carried out in accordance with and complies with sub‑paragraph (a)(ii);\n(iii)the supervisor QP considers that the fixed installation is fit for operation; and\n(iv)the supervisor QP, and any nominee of the supervisor QP, is not a partner, director, officer or employee of —\n(A)the owner of the fixed installation;\n(B)the developer of the fixed installation works concerned;\n(C)the builder undertaking the fixed installation works concerned;\n(D)the fixed installation works contractor who examined, inspected, tested and commissioned the fixed installation under regulation 29(2); or\n(E)an associate of a person mentioned in sub‑paragraph (A), (B), (C) or (D); and\n(d)notify the Commissioner of Building Control of any contravention of these Regulations relating to those fixed installation works concerned of which the supervisor QP knows or ought reasonably to know.\n(5) If a plan submission QP or supervisor QP becomes unwilling or unable, whether by reason of the termination of his or her appointment or for any other reason, to carry out his or her duties under these Regulations, he or she must, within 14 days after ceasing to carry out his or her duties, notify the following persons of that fact:\n(a)the Commissioner of Building Control;\n(b)in the case of a plan submission QP appointed in relation to fixed installation works —\n(i)the developer of the fixed installation works;\n(ii)the builder undertaking the fixed installations works; and\n(iii)the fixed installation works contractor carrying out the fixed installation works;\n(c)in the case of a supervisor QP appointed in relation to a fixed installation —\n(i)the owner of the fixed installation; and\n(ii)the fixed installation works contractor appointed for the fixed installation.\n(6) A supervisor QP must not supervise a fixed installation works contractor’s examining, inspecting, testing and commissioning of any fixed installation if the supervisor QP, or any nominee of the supervisor QP, is a partner, director, officer or employee of —\n(a)the owner of the fixed installation;\n(b)the developer of the fixed installation works concerned;\n(c)the builder undertaking the fixed installation works concerned;\n(d)the fixed installation works contractor; or\n(e)an associate of a person mentioned in sub‑paragraph (a), (b), (c) or (d).\n(7) If any plan submission QP contravenes paragraph (1)(a) or (d) or (2)(b), the plan submission QP shall be guilty of an offence under section 9(8) of the Act and shall be liable on conviction to punishment under that provision.\n(8) If any specialist in the alternative solution mentioned in paragraph (2)(b)(ii) contravenes paragraph (3), the specialist shall be guilty of an offence under section 9(8A) of the Act and shall be liable on conviction to punishment under that provision.\n(9) If any supervisor QP contravenes paragraph (4)(a), the supervisor QP shall be guilty of an offence under section 9(9) of the Act and shall be liable on conviction to punishment under that provision.\n(10) If —\n(a)any plan submission QP contravenes paragraph (1)(b); or\n(b)any supervisor QP contravenes paragraph (4)(b), (c) or (d) or (6),\nthe plan submission QP or supervisor QP (as the case may be) shall be guilty of an offence under section 9(10) of the Act and shall be liable on conviction to punishment under that provision.\n(11) If any plan submission QP or supervisor QP contravenes paragraph (5), the plan submission QP or supervisor QP (as the case may be) shall be guilty of an offence under section 9(11) of the Act and shall be liable on conviction to punishment under section 47 of the Act.\n(12) It is a defence in any prosecution for a contravention of paragraph (1)(b) or (4)(d) for the person charged to prove to the satisfaction of the court that the person did not know and could not reasonably have discovered the contravention mentioned in the charge."
+   }
+  },
+  {
+   "id": "SG-H365-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Duties of builders and fixed installation works contractors"
+   },
+   "text": {
+    "en": "22.—(1) A builder undertaking any fixed installation works (whether or not the builder is also the fixed installation works contractor carrying out the fixed installation works) must —\n(a)notify the Commissioner of Building Control of any contravention of these Regulations relating to those fixed installation works of which the builder knows or ought reasonably to know;\n(b)if no plan submission QP has been appointed by the developer in respect of those fixed installation works — appoint a plan submission QP for those fixed installation works;\n(c)if no supervisor QP has been appointed by the owner in respect of the fixed installation — appoint a supervisor QP for the fixed installation; and\n(d)if no fixed installation works contractor has been appointed by the developer in respect of those fixed installation works — appoint a fixed installation works contractor to carry out those fixed installation works.\n(2) If a builder undertaking any fixed installation works becomes unwilling or unable, whether by reason of the termination of the builder’s appointment or for any other reason, to carry out the builder’s duties under paragraph (1), the builder must, within 14 days after ceasing to carry out the builder’s duties, notify the Commissioner of Building Control of that fact.\n(3) A fixed installation works contractor carrying out any fixed installation works must —\n(a)ensure that —\n(i)the fixed installation works are carried out in accordance with —\n(A)these Regulations (subject to regulation 45);\n(B)the relevant plans approved by the Commissioner of Building Control and supplied to the fixed installation works contractor by a qualified person under regulation 21(1)(c); and\n(C)any terms and conditions imposed by the Commissioner of Building Control in accordance with these Regulations (subject to regulation 45); and\n(ii)if the fixed installation works relate to a lift — the safety components and lift model (if applicable) used in the fixed installation works correspond with the type testing certificates submitted with the relevant plans;\n(b)notify the Commissioner of Building Control of any contravention of these Regulations relating to those fixed installation works of which the fixed installation works contractor knows or ought reasonably to know;\n(c)within 7 days after the completion of the fixed installation works, certify that the new fixed installation has been installed or the fixed installation works have been carried out in accordance with the matters referred to in sub‑paragraph (a)(i)(A), (B) and (C) and submit that certificate to the Commissioner of Building Control;\n(d)keep, at the premises on which fixed installation works are carried out, any plans of those fixed installation works approved by the Commissioner of Building Control and supplied to the fixed installation works contractor by a plan submission QP under regulation 21(1)(c);\n(e)where no qualified person has been appointed by the developer, owner or builder in respect of those fixed installation works, appoint an appropriate plan submission QP and supervisor QP;\n(f)have an adequate number of supervisors working under the fixed installation works contractor’s direction to assist the fixed installation works contractor to ensure that the duties under sub‑paragraphs (a) and (i) are complied with;\n(g)for an application for approval of plans of fixed installation works under regulation 9, submit any type testing certificate (including any accompanying document) required in that application to the plan submission QP;\n(h)ensure that each type testing certificate mentioned in sub‑paragraph (g) is valid, corresponds with the plans for the fixed installation works and is complete and complies with any other requirements that the Commissioner of Building Control may specify; and\n(i)after the fixed installation is completed but before an application for a permit to operate the fixed installation —\n(i)examine, inspect, test and commission the fixed installation in accordance with regulation 29(2); and\n(ii)ensure that the design, installation, operation and function of the fixed installation are in accordance with and complies with the requirements mentioned in regulation 21(4)(a)(ii).\n(4) If a fixed installation works contractor carrying out any fixed installation works becomes unwilling or unable, whether by reason of the termination of the fixed installation works contractor’s appointment or for any other reason, to carry out the fixed installation works contractor’s duties under paragraph (3), the fixed installation works contractor must, within 14 days after ceasing to carry out the fixed installation works contractor’s duties, notify the Commissioner of Building Control of that fact.\n(5) A notification mentioned in paragraph (4) must be accompanied by a summary report describing the fixed installation works completed by the fixed installation works contractor and his or her certificate of completion in such form as the Commissioner of Building Control may require.\n(6) If any builder contravenes paragraph (1)(a) or fixed installation works contractor contravenes paragraph (3)(b) or (d), he or she shall be guilty of an offence under section 11(7) of the Act and shall be liable on conviction to punishment under that provision.\n(7) Any fixed installation works contractor who contravenes paragraph (3)(a) shall be guilty of an offence under section 11(6) of the Act and shall be liable on conviction to punishment under that provision.\n(8) It is a defence in any prosecution for a contravention of paragraph (1)(a) or (3)(b) for the builder or fixed installation works contractor (as the case may be) to prove to the satisfaction of the court that the builder or fixed installation works contractor did not know and could not reasonably have discovered the contravention or non‑compliance mentioned in the charge.\n(9) If —\n(a)any builder, without reasonable excuse, contravenes paragraph (1)(b), (c) or (d) or (2); or\n(b)any fixed installation works contractor, without reasonable excuse, contravenes paragraph (3)(c), (e), (f), (g), (h) or (i) or (4),\nthe builder or fixed installation works contractor (as the case may be) shall be guilty of an offence under section 11(9) of the Act and shall be liable on conviction to punishment under section 47 of the Act.\n(10) To avoid doubt, a fixed installation works contractor carrying out any fixed installation works is responsible for complying with paragraph (3)(a), despite the fixed installation works contractor entering into a contract or an arrangement with a sub‑contractor to execute the whole or any part of those fixed installation works."
+   }
+  },
+  {
+   "id": "SG-H365-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Barriers and barricades"
+   },
+   "text": {
+    "en": "23.—(1) If any fixed installation works contractor appointed under regulation 20 intends to carry out any fixed installation works, the fixed installation works contractor must, before commencing the fixed installation works, put in place adequate barriers and barricades with warning signs in the vicinity of the fixed installation works.\n(2) On completion of the fixed installation works, the fixed installation works contractor must remove or cause to be removed all barriers and barricades put in place for the fixed installation works, to the satisfaction of the Commissioner of Building Control."
+   }
+  },
+  {
+   "id": "SG-H365-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Offences relating to fixed installation works"
+   },
+   "text": {
+    "en": "24.—(1) Any person who commences or carries out, or permits or authorises the commencement or carrying out of any fixed installation works for which —\n(a)the plans of which have not been approved by the Commissioner of Building Control under regulation 11 or 14; or\n(b)if the fixed installation works relate to a lift (except a stairlift or vertical platform lift) — no type testing certificate (and accompanying documents) for the lift model of the lift or any safety component in that lift, has been submitted,\nshall be guilty of an offence under section 20(1) of the Act and shall be liable on conviction to punishment under that provision.\n(2) Any person who contravenes any term or condition of an approval of plans of any fixed installation works under regulation 11 or 14 shall be guilty of an offence under section 20(2) of the Act and shall be liable on conviction to punishment under that provision.\n(3) Any person directly concerned with the fixed installation works who, in carrying out the fixed installation works —\n(a)deviates, or permits or authorises the fixed installation works to deviate, in any material way from any plans of the fixed installation works approved by the Commissioner of Building Control under these Regulations; or\n(b)if the fixed installation works relate to a lift (except a stairlift or vertical platform lift) — uses, or permits or authorises the use of, any lift model or safety component (if applicable) that does not correspond with any type testing certificate submitted with the plans,\nshall be guilty of an offence under section 20(3) of the Act and shall be liable on conviction to punishment under that provision.\n(4) In proceedings for an offence under paragraph (3) —\n(a)it is not necessary for the prosecution to prove that an accused knew that the fixed installation works concerned —\n(i)deviate in any material way from any plans of the fixed installation works approved by the Commissioner of Building Control under this Part; or\n(ii)if the fixed installation works relate to a lift (except a stairlift or vertical platform lift) — involved any lift model or safety component (if applicable) that does not correspond with any type testing certificate submitted with the plans; but\n(b)it is a defence to the charge for the accused to prove, on a balance of probabilities, that the accused did not know and could not reasonably have known about the plans of those fixed installation works approved by the Commissioner of Building Control under this Part."
+   }
+  },
+  {
+   "id": "SG-H365-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Other penalties"
+   },
+   "text": {
+    "en": "25. Any person who contravenes regulation 7, 22(5) or 23(1) or (2) shall be guilty of an offence under regulation 50 of the Building Control Regulations 2003 and shall be liable on conviction to the penalty under that regulation."
+   }
+  },
+  {
+   "id": "SG-H365-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Demolition, etc., of unauthorised fixed installation works"
+   },
+   "text": {
+    "en": "26.—(1) If, in the opinion of the Commissioner of Building Control, any fixed installation has been installed, or any fixed installation works are or have been carried out, in contravention of these Regulations, the Commissioner of Building Control may by written order require —\n(a)the cessation of the fixed installation works until the order is withdrawn;\n(b)the demolition of the fixed installation; or\n(c)any work or alteration to the fixed installation or fixed installation works to be carried out that may be necessary to cause the same to comply with the provisions of these Regulations or otherwise to put an end to the contravention thereof.\n(2) An order made under paragraph (1) must specify all or any of the following:\n(a)the manner in which the demolition, work or alteration specified in the order is to be carried out;\n(b)the time within which the demolition, work or alteration must commence;\n(c)the time within which the demolition, work or alteration must be completed;\n(d)that the demolition, work or alteration must be carried out with due diligence to the satisfaction of the Commissioner of Building Control, and at the cost of the person on whom the order is served under paragraph (3).\n(3) An order made under paragraph (1) must be served —\n(a)if a fixed installation has been installed — on the owner of the fixed installation; and\n(b)if fixed installation works are being carried out — on the developer of the fixed installation works or builder undertaking the fixed installation works.\n(4) If an order made under paragraph (1) is not complied with, the Commissioner of Building Control may —\n(a)demolish, remove or alter, or cause to be demolished, removed or altered, any fixed installation or fixed installation works or take any other steps that appear to the Commissioner of Building Control to be necessary; and\n(b)recover all expenses reasonably incurred by the Commissioner of Building Control in the exercise of his or her powers under this regulation from the person in default.\n(5) Without affecting the right of the Commissioner of Building Control to exercise his or her powers under paragraph (4), if any person on whom an order made under paragraph (1) is served fails to comply with the order, that person shall be guilty of an offence under section 19(5) of the Act and shall be liable on conviction to punishment under that provision.\n(6) The Commissioner of Building Control may seize any materials resulting from the carrying out of any work under paragraph (4)."
+   }
+  },
+  {
+   "id": "SG-H365-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 2 FIXED INSTALLATION WORKS"
+   },
+   "heading": {
+    "en": "Notification for certain major alteration or replacement works, etc."
+   },
+   "text": {
+    "en": "27.—(1) An owner of a fixed installation must ensure that no fixed installation works specified in the third column of the First Schedule are carried out on the fixed installation unless the owner has notified the Commissioner of Building Control in writing of the intended works.\n(2) A person must not carry out any of those fixed installation works on a fixed installation unless the person is a fixed installation works contractor.\n(3) Any person who contravenes paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H365-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 3 OPERATION OF FIXED INSTALLATIONS"
+   },
+   "heading": {
+    "en": "Operation of fixed installations"
+   },
+   "text": {
+    "en": "28.—(1) A person mentioned in paragraph (2) must not —\n(a)operate a fixed installation or allow a fixed installation to be operated, unless there is a valid permit to operate the fixed installation; or\n(b)resume operating a fixed installation after any major alteration or replacement works carried out on the fixed installation, unless there is a valid permit to operate the fixed installation.\n(2) The persons subject to paragraph (1) are —\n(a)an owner of the fixed installation;\n(b)a person for whom or on whose behalf any fixed installation works, or any examination, inspection, testing or maintenance, are carried out in relation to the fixed installation;\n(c)a fixed installation works contractor carrying out any fixed installation works on the fixed installation (or any person engaged to carry out those works); and\n(d)a fixed installation service contractor examining, inspecting, testing or maintaining the fixed installation (or any person engaged to carry out those works),\nbut does not include a person using the fixed installation to carry out building works.\n(3) Any person mentioned in paragraph (2) who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both; and\n(b)in respect of a continuing contravention, to an additional fine not exceeding $1,000 for each day or part of a day the contravention continues,\nand if the contravention continues after the conviction, the person shall be guilty of a further offence and shall be liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part of a day during which the contravention continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H365-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 3 OPERATION OF FIXED INSTALLATIONS"
+   },
+   "heading": {
+    "en": "Examination, inspection, testing and commissioning of fixed installations"
+   },
+   "text": {
+    "en": "29.—(1) For the purposes of applying for a permit to operate any fixed installation under regulation 30, the owner of the fixed installation must —\n(a)if no permit to operate has been issued for the fixed installation before or the application is to resume the operation of a fixed installation after major alteration or replacement works have been carried out —\n(i)appoint a fixed installation works contractor to examine, inspect, test and commission the fixed installation; and\n(ii)appoint a supervisor QP to supervise the fixed installation works contractor’s examining, inspecting, testing and commissioning of the fixed installation; or\n(b)if the application is to renew an existing permit to operate the fixed installation —\n(i)appoint a fixed installation service contractor to examine, inspect and test the fixed installation, which examining, inspecting and testing must start within 3 months before the date the existing permit to operate expires; and\n(ii)appoint a specialist professional engineer to supervise the fixed installation service contractor’s examining, inspecting and testing of the fixed installation.\n(2) A fixed installation works contractor appointed under paragraph (1)(a)(i) must examine, inspect, test and commission the fixed installation concerned —\n(a)in accordance with the requirements specified in —\n(i)if the fixed installation is an escalator — paragraph (4);\n(ii)if the fixed installation is a lift — paragraph (5); or\n(iii)if the fixed installation is the man machine interface of a mechanised car parking system — paragraph (6); and\n(b)under the supervision of the supervisor QP appointed under paragraph (1)(a)(ii).\n(3) A fixed installation service contractor appointed under paragraph (1)(b)(i) must examine, inspect and test the fixed installation concerned —\n(a)in accordance with the requirements specified in —\n(i)if the fixed installation is an escalator — paragraph (4);\n(ii)if the fixed installation is a lift — paragraph (5); or\n(iii)if the fixed installation is the man machine interface of a mechanised car parking system — paragraph (6); and\n(b)under the supervision of the specialist professional engineer appointed under paragraph (1)(b)(ii).\n(4) The requirements for an escalator are —\n(a)the requirements in —\n(i)the manufacturer’s recommendations for the escalator; and\n(ii)the applicable standard for the escalator; or\n(b)if the Commissioner of Building Control accepts a modification of requirements under regulation 45 for the escalator — the requirements in those modified requirements.\n(5) The requirements for a lift are —\n(a)subject to sub-paragraph (b) —\n(i)the requirements in —\n(A)the manufacturer’s recommendations for the lift; and\n(B)the applicable standard for the lift; or\n(ii)if the Commissioner of Building Control accepts a modification of requirements under regulation 45 for the lift — the requirements in those modified requirements; and\n(b)in the case of a home lift, stairlift or vertical platform lift —\n(i)the requirements in —\n(A)the manufacturer’s recommendation for the lift; and\n(B)the applicable standard for the lift;\n(ii)if the requirements mentioned in sub‑paragraph (i) are not available — the requirements proposed by the appointed supervisor QP or appointed specialist professional engineer and accepted by the Commissioner of Building Control in writing; or\n(iii)if the Commissioner of Building Control accepts a modification of requirements under regulation 45 for the lift — the requirements in those modified requirements.\n(6) The requirements for the man machine interface of a mechanised car parking system are —\n(a)the requirements in —\n(i)the manufacturer’s recommendations for the man machine interface of a mechanised car parking system; and\n(ii)the applicable standard for the man machine interface of the mechanised car parking system; or\n(b)if the Commissioner of Building Control accepts a modification of requirements under regulation 45 for the man machine interface of the mechanised car parking system — the requirements in those modified requirements.\n(7) To avoid doubt, parts of the same fixed installation may be subject to different requirements.\n(8) An owner of a fixed installation must not —\n(a)appoint a person to examine, inspect, test and commission the fixed installation under paragraph (1)(a)(i) unless the person is a fixed installation works contractor; or\n(b)appoint a person to examine, inspect and test the fixed installation under paragraph (1)(b)(i) unless the person is a fixed installation service contractor.\n(9) A person must not —\n(a)examine, inspect, test and commission a fixed installation under paragraph (1)(a) unless the person is a fixed installation works contractor; or\n(b)examine, inspect and test a fixed installation under paragraph (1)(b) unless the person is a fixed installation service contractor.\n(10) Any person who contravenes paragraph (2), (3), (8) or (9) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H365-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 3 OPERATION OF FIXED INSTALLATIONS"
+   },
+   "heading": {
+    "en": "Application for permit to operate fixed installation"
+   },
+   "text": {
+    "en": "30.—(1) An application for a permit to operate a fixed installation must —\n(a)be made within 3 months after —\n(i)the date the fixed installation is examined, inspected, tested and commissioned under regulation 29(1)(a) or examined, inspected and tested under regulation 29(1)(b) (called in this regulation the EIT/C process); or\n(ii)if the EIT/C process does not take place on a single day — the first day on which the EIT/C process starts; and\n(b)be accompanied by —\n(i)if no permit to operate has been issued for the fixed installation before or the application is to resume the operation of a fixed installation after major alteration or replacement works have been carried out —\n(A)the test report mentioned in regulation 21(4)(b); and\n(B)the certificate mentioned in regulation 21(4)(c);\n(ii)if the application is to renew an existing permit to operate the fixed installation —\n(A)a test report to the Commissioner of Building Control, in the form and manner specified by the Commissioner of Building Control, relating to the examining, inspecting and testing of the fixed installation; and\n(B)a certificate to the Commissioner of Building Control, in the form and manner specified by the Commissioner of Building Control, certifying the matters stated in paragraph (2) and signed by the specialist professional engineer; and\n(iii)any other documents, particulars and information the Commissioner of Building Control may require in a particular case.\n(2) The certificate mentioned in paragraph (1)(b)(ii)(B) must certify the following matters:\n(a)the fixed installation service contractor has examined, inspected and tested the fixed installation in accordance with regulation 29(3);\n(b)the specialist professional engineer considers that the fixed installation is fit for operation;\n(c)the specialist professional engineer, and any nominee of the specialist professional engineer, is not a partner, director, officer or employee of —\n(i)the owner of the fixed installation;\n(ii)the fixed installation service contractor who examined, inspected and tested the lift under regulation 29(3); or\n(iii)an associate of a person mentioned in sub‑paragraph (i) or (ii);\n(d)the fixed installation complies with —\n(i)the objectives and performance requirements set out in the Third Schedule;\n(ii)the relevant plans approved by the Commissioner of Building Control, if any; and\n(iii)any terms and conditions in the approved plans imposed by the Commissioner of Building Control;\n(e)the fixed installation complies with the maintenance outcomes in the Fourth Schedule.\n(3) The application under paragraph (1) must —\n(a)be made by the owner or developer of the fixed installation to the Commissioner of Building Control in the form and manner that the Commissioner of Building Control requires;\n(b)relate to a single fixed installation, or to 2 or more fixed installations within or connected to a single building or comprised in 2 or more buildings belonging to the same owner or developer; and\n(c)be accompanied by the application fee mentioned in regulation 31.\n(4) The Commissioner of Building Control may, for any application for a permit to operate a fixed installation, carry out, or arrange to be carried out by any person authorised by the Commissioner of Building Control, any inspection or inquiry related to the application that the Commissioner of Building Control considers necessary to consider the application."
+   }
+  },
+  {
+   "id": "SG-H365-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 3 OPERATION OF FIXED INSTALLATIONS"
+   },
+   "heading": {
+    "en": "Fee to apply for permit to operate"
+   },
+   "text": {
+    "en": "31. The application fee mentioned in regulation 30(3)(c) is —\n(a)if the application relates to 10 or fewer escalators or lifts or both — $20 × A, where A is the number of escalators or lifts or both;\n(b)if the application relates to more than 10 escalators or lifts or both — $200 + ($10 × B), where B is the number of escalators or lifts or both in excess of 10; or\n(c)in any other case — Nil."
+   }
+  },
+  {
+   "id": "SG-H365-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 3 OPERATION OF FIXED INSTALLATIONS"
+   },
+   "heading": {
+    "en": "Permit to operate fixed installation"
+   },
+   "text": {
+    "en": "32.—(1) Upon receiving an application under regulation 30, the Commissioner of Building Control must consider the application and may —\n(a)issue a permit to operate for each fixed installation to which the application relates (including on the basis of the certificate mentioned in regulation 30(1)(b)(i)(B) or (ii)(B), without checking the documents and particulars accompanying the application);\n(b)in writing, direct the applicant, at the applicant’s own expense and within the time specified in the direction, to —\n(i)take any measures or comply with any requirements to ensure the fixed installation’s safe operation that the Commissioner of Building Control may specify; and\n(ii)re-submit the application upon having taken the measures or complied with the requirements; or\n(c)reject the application — in which case the Commissioner of Building Control must, on the applicant’s request, state in writing the reasons for the rejection.\n(2) Despite paragraph (1)(a), the Commissioner of Building Control may carry out random checks on any document or particulars relating to an application at any time before or after issuing a permit to operate.\n(3) A permit to operate issued under paragraph (1) —\n(a)must be in the form determined by the Commissioner of Building Control;\n(b)is subject to any condition that the Commissioner of Building Control imposes; and\n(c)is valid for 12 months.\n(4) The Commissioner of Building Control may vary any existing condition to a permit to operate or impose an additional condition to the permit to operate in accordance with paragraphs (5) and (6) (called in this regulation a modification).\n(5) Before making any modification to the conditions of a permit to operate, the Commissioner of Building Control must give notice to the holder of the permit to operate —\n(a)stating that the Commissioner of Building Control proposes to make the modification in the manner specified in the notice; and\n(b)specifying the time (being not less than 14 days after the date of service of notice on the holder) within which written representations with respect to the proposed modification may be made.\n(6) Upon receipt of any written representation mentioned in paragraph (5)(b), the Commissioner of Building Control must consider the representation and may reject the representation or amend the proposed modification in accordance with the representation, or otherwise and, in either event, must thereupon issue a written direction to the holder concerned requiring that effect be given to the proposed modification specified in the notice or to any modification as subsequently amended by the Commissioner of Building Control within a reasonable time.\n(7) Upon being notified under regulation 34(1)(a) that a person (A) has taken over ownership of a fixed installation from a previous owner, the Commissioner of Building Control may transfer a permit to operate for the fixed installation from the previous owner to A, making any necessary modifications to the permit.\n(8) An owner of a fixed installation must, during the operation of the fixed installation, clearly display, or cause to be clearly displayed, a valid permit to operate for the fixed installation.\n(9) Any person who contravenes paragraph (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H365-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 3 OPERATION OF FIXED INSTALLATIONS"
+   },
+   "heading": {
+    "en": "Intervention on operation of fixed installation"
+   },
+   "text": {
+    "en": "33.—(1) The Commissioner of Building Control may, by written notice served on an owner of a fixed installation or the holder of the permit to operate issued for a fixed installation, direct that person to take any action mentioned in paragraph (2), if the Commissioner of Building Control considers that any of the following circumstances exists:\n(a)the fixed installation is in a dangerous state or condition that is likely to cause injury to any person;\n(b)it is in the interests of public safety to take the action mentioned in paragraph (2);\n(c)the owner of the fixed installation, or a holder of a permit to operate for the fixed installation, has breached or is breaching any condition of the permit to operate;\n(d)any information or document that is false or misleading in a material particular was given during the application for the permit to operate the fixed installation;\n(e)the fixed installation is not operated under a valid permit to operate;\n(f)a reportable safety incident for the fixed installation has happened;\n(g)there is a reportable safety risk for the fixed installation;\n(h)the fixed installation has not been properly maintained.\n(2) The Commissioner of Building Control may direct an owner of a fixed installation to take any of the following actions:\n(a)suspend the operation of the fixed installation;\n(b)remedy an issue mentioned in paragraph (1) that the Commissioner of Building Control considers to exist in relation to the fixed installation;\n(c)stop the operation of the fixed installation.\n(3) The owner of a fixed installation who is served a written notice under paragraph (1) to suspend the operation of the fixed installation —\n(a)must suspend the operation of the fixed installation immediately after receiving the written notice; and\n(b)may resume operation of the fixed installation only after the Commissioner of Building Control has served a written notice on the owner informing the owner that the suspension is lifted.\n(4) The owner of a fixed installation who is served a written notice under paragraph (1) to stop the operation of the fixed installation must stop the operation of the fixed installation immediately after receiving the written notice.\n(5) An owner of a fixed installation who, on his or her own motion, wishes to permanently stop the operation of the fixed installation, must notify the Commissioner of Building Control before so stopping the operation.\n(6) A permit to operate a fixed installation ceases to be valid when —\n(a)the Commissioner of Building Control gives written notice to stop the operation of the fixed installation under paragraph (1);\n(b)any major alteration or replacement works for the fixed installation have started;\n(c)the owner notifies the Commissioner of Building Control under paragraph (5) of the permanent stoppage of the operation of the fixed installation; or\n(d)the temporary occupation permit issued for the building (or part of the building) which the fixed installation is installed in or attached to is revoked.\n(7) Any person who contravenes paragraph (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H365-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 3 OPERATION OF FIXED INSTALLATIONS"
+   },
+   "heading": {
+    "en": "Duties of fixed installation owners"
+   },
+   "text": {
+    "en": "34.—(1) An owner (A) of a fixed installation must —\n(a)if A takes over the fixed installation from a previous owner — notify the Commissioner of Building Control of the change in ownership of the fixed installation and provide the Commissioner of Building Control documents showing that A now owns the fixed installation;\n(b)keep any maintenance record (including any certificate signed by a specialist professional engineer and any accompanying document) in connection with the fixed installation, for a period of at least 5 years after the issue or making of that record;\n(c)produce any maintenance record mentioned in sub‑paragraph (b) for the Commissioner of Building Control’s inspection, whenever required to do so by any of the following persons within the 5‑year period mentioned in that sub‑paragraph:\n(i)the Commissioner of Building Control;\n(ii)any person authorised by the Commissioner of Building Control to require the maintenance record;\n(d)transfer the following documents to a fixed installation service contractor within 7 days after any agreement to maintain the fixed installation with the fixed installation service contractor starts:\n(i)a copy of any maintenance record (including any certificate signed by a specialist professional engineer and any other document accompanying the maintenance record) in connection with the fixed installation, where the maintenance record was issued or made in the 5 years before the agreement to maintain the fixed installation with the fixed installation service contractor starts;\n(ii)any document setting out the Commissioner of Building Control’s modification or waiver of any requirement of the building regulations under regulation 45;\n(iii)any document from the Commissioner of Building Control setting out his or her acceptance of the requirements proposed by a supervisor QP or specialist professional engineer (as the case may be) under regulation 29(5)(b)(ii);\n(iv)any document from the Commissioner of Building Control setting out the Commissioner of Building Control’s —\n(A)acceptance of a modification of requirements under regulation 45 for the fixed installation;\n(B)imposition of any condition under regulation 45;\n(C)acceptance of any requirements for periodic maintenance under regulation 39(2)(c)(iii); or\n(D)acceptance of any alternative maintenance outcomes under regulation 39(3); and\n(e)if the appointment for a fixed installation service contractor to maintain a fixed installation ceases —\n(i)notify the Commissioner of Building Control within 7 days after the appointment ceases;\n(ii)without delay, appoint another fixed installation service contractor to maintain the fixed installation; and\n(iii)notify the Commissioner of Building Control of the appointment mentioned in sub‑paragraph (ii) within 7 days after the appointment starts.\n(2) Any owner of a fixed installation who, without reasonable excuse, contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H365-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 3 OPERATION OF FIXED INSTALLATIONS"
+   },
+   "heading": {
+    "en": "Duties of specialist professional engineer"
+   },
+   "text": {
+    "en": "35.—(1) A specialist professional engineer appointed to supervise a fixed installation service contractor’s examining, inspecting and testing of a fixed installation must —\n(a)be physically present or appoint one or more fixed installation inspectors to be physically present, to supervise the examining, inspecting or testing of the fixed installation by a fixed installation service contractor;\n(b)whether or not a fixed installation inspector is appointed —\n(i)ensure that any examining, inspecting or testing is carried out in accordance with regulation 29(3); and\n(ii)ensure that the fixed installation complies with —\n(A)the objectives and performance requirements set out in the Third Schedule;\n(B)the relevant plans approved by the Commissioner of Building Control, if any; and\n(C)any terms and conditions in the approved plans imposed by the Commissioner of Building Control;\n(c)review if the fixed installation complies with the maintenance outcomes in the Fourth Schedule, and inform the owner of the fixed installation and the fixed installation service contractor appointed to examine, inspect and test the fixed installation of any instances where those outcomes are not met;\n(d)submit a test report mentioned in regulation 30(1)(b)(ii)(A) to the Commissioner of Building Control;\n(e)submit a certificate mentioned in regulation 30(1)(b)(ii)(B) to the Commissioner of Building Control; and\n(f)notify the Commissioner of Building Control of any contravention of these Regulations relating to the fixed installation of which the specialist professional engineer knows or ought reasonably to know.\n(2) If any specialist professional engineer mentioned in paragraph (1) becomes unwilling or unable, whether by reason of the termination of his or her appointment or for any other reason, to carry out his or her duties under these Regulations, he or she must, within 14 days after ceasing to carry out his or her duties, notify the following persons of that fact:\n(a)the Commissioner of Building Control;\n(b)the owner of the fixed installation;\n(c)the fixed installation service contractor of the fixed installation.\n(3) A specialist professional engineer must not supervise any fixed installation service contractor’s examining, inspecting and testing of a fixed installation if the specialist professional engineer, or a nominee of the specialist professional engineer, is a partner, director, officer or employee of —\n(a)the owner of the fixed installation;\n(b)the fixed installation service contractor of the fixed installation; or\n(c)an associate of a person mentioned in sub‑paragraph (a) or (b).\n(4) Any specialist professional engineer who, without reasonable excuse, contravenes paragraph (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H365-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 3 OPERATION OF FIXED INSTALLATIONS"
+   },
+   "heading": {
+    "en": "Duties of fixed installation inspectors"
+   },
+   "text": {
+    "en": "36.—(1) A specialist professional engineer may appoint one or more fixed installation inspectors to assist him or her in examining, inspecting and testing of a fixed installation and paragraphs (2) to (5) apply to any fixed installation inspector so appointed.\n(2) The fixed installation inspector must —\n(a)take all reasonable steps and exercise due diligence to assist the specialist professional engineer in his or her duties under regulation 35(1)(a), (b) and (c), including the following:\n(i)to be physically present during the examining, inspecting and testing of a fixed installation, if required by the specialist professional engineer;\n(ii)to ensure that any information relating to the fixed installation, conveyed or submitted by the fixed installation inspector to the specialist professional engineer, is accurate;\n(b)submit the results of any checks on whether the examination, inspections and tests are carried out according to the requirements mentioned in regulation 35(1)(a) and (b) to the specialist professional engineer; and\n(c)notify the Commissioner of Building Control of any contravention of these Regulations relating to the fixed installation of which the fixed installation inspector knows or ought reasonably to know.\n(3) A fixed installation inspector must not supervise a fixed installation service contractor’s examining, inspecting and testing of any fixed installation, if the fixed installation inspector, or any nominee of the fixed installation inspector, is a partner, director, officer or employee of —\n(a)the owner of the fixed installation;\n(b)the fixed installation service contractor for the fixed installation; or\n(c)an associate of a person mentioned in sub‑paragraph (a) or (b).\n(4) Any fixed installation inspector who, without reasonable excuse, contravenes paragraph (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H365-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 3 OPERATION OF FIXED INSTALLATIONS"
+   },
+   "heading": {
+    "en": "Duties of fixed installation service contractors"
+   },
+   "text": {
+    "en": "37.—(1) A fixed installation service contractor appointed to maintain a fixed installation must, during the term of the appointment —\n(a)when requested to do so by the Commissioner of Building Control, submit an investigation report on any breakdown of the fixed installation;\n(b)notify the owner of the fixed installation and the Commissioner of Building Control if the fixed installation service contractor, while carrying out the fixed installation service contractor’s duties, finds the fixed installation to be unsafe for operation;\n(c)ensure that any works to be performed on the fixed installation do not make it unsafe for operation;\n(d)notify the Commissioner of Building Control of any contravention of these Regulations relating to the fixed installation of which the fixed installation service contractor knows or ought reasonably to know;\n(e)when the fixed installation is not operational as the fixed installation is maintained or about to be maintained —\n(i)where the fixed installation is the man machine interface of a mechanised car parking system — put in place adequate measures to prevent the public from accessing the man machine interface of the mechanised car parking system; or\n(ii)in any other case — put in place adequate barriers and barricades with warning signs around the fixed installation;\n(f)ensure that any individual maintaining an escalator or a lift under the fixed installation service contractor’s direction —\n(i)possesses such qualification and meets such requirement that show the individual can competently maintain the escalator or lift; or\n(ii)is supervised by a supervisor (if the Commissioner of Building Control does not specify any number) or such number of supervisors as the Commissioner of Building Control may specify for that type of escalator or lift; and\n(g)ensure each supervisor mentioned in sub‑paragraph (f)(ii) possesses such qualification and meets such requirement that show the supervisor can competently supervise the maintenance of an escalator or lift by an individual mentioned in sub‑paragraph (f).\n(2) If any agreement to maintain a fixed installation which a fixed installation service contractor is a party ceases, the fixed installation service contractor must, within 7 days after the cessation —\n(a)notify the Commissioner of Building Control of the cessation; and\n(b)transfer the following documents to the owner of the fixed installation:\n(i)any maintenance record (including any certificate signed by a specialist professional engineer and any other documents accompanying the maintenance record) in connection with any fixed installation under the agreement;\n(ii)any document transferred to the fixed installation service contractor under regulation 34(1)(d);\n(iii)any document setting out the Commissioner of Building Control’s acceptance of an alternative maintenance outcome under regulation 39(3);\n(iv)any document setting out the Commissioner of Building Control’s modification or waiver of any requirement of the building regulations under regulation 45;\n(v)any original equipment manufacturer maintenance and operational manual for the fixed installation.\n(3) Any fixed installation service contractor who, without reasonable excuse, contravenes paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H365-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 4 MAINTENANCE AND INVESTIGATION OF FIXED INSTALLATIONS"
+   },
+   "heading": {
+    "en": "Fixed installation to be kept in good working condition, etc."
+   },
+   "text": {
+    "en": "38.—(1) An owner of a fixed installation must ensure that —\n(a)the fixed installation is kept in a good working condition at all times (except during periods of maintenance or when there is no permit to operate for the fixed installation);\n(b)no works are done to the fixed installation (not amounting to fixed installation works) that render the fixed installation unsafe;\n(c)the fixed installation is not operated if it is unsafe to do so;\n(d)the fixed installation is periodically maintained in accordance with regulation 39; and\n(e)if the fixed installation is examined, inspected, tested and commissioned under regulation 29(1)(a) or examined, inspected and tested under regulation 29(1)(b) (called in this regulation the EIT/C process) — the EIT/C process is carried out in accordance with the requirements referred to in regulation 29(2) or (3), as the case may be.\n(2) An owner of a fixed installation must immediately stop operating the fixed installation if it is likely that continued operation of the fixed installation would injure or cause the death of any person using, or near to, the fixed installation.\n(3) Any owner of a fixed installation who contravenes paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H365-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 4 MAINTENANCE AND INVESTIGATION OF FIXED INSTALLATIONS"
+   },
+   "heading": {
+    "en": "Periodic maintenance of fixed installations"
+   },
+   "text": {
+    "en": "39.—(1) An owner of a fixed installation in operation must appoint a fixed installation service contractor to maintain the fixed installation —\n(a)according to the requirements mentioned in paragraph (2); and\n(b)at the frequency mentioned in paragraph (5).\n(2) The fixed installation service contractor must maintain the fixed installation according to —\n(a)the maintenance outcomes in the Fourth Schedule (or any alternative maintenance outcome accepted by the Commissioner of Building Control mentioned in paragraph (3)) and take reasonable steps to ensure that the maintenance outcomes will be met until the next periodic maintenance;\n(b)for any fixed installation (except a home lift, stairlift or vertical platform lift) —\n(i)the requirements for periodic maintenance in the manufacturer’s recommendation for the fixed installation (if any) and the applicable standard for the fixed installation; or\n(ii)if a modification of requirement is accepted by the Commissioner of Building Control under regulation 45 for the fixed installation — the requirements in those modified requirements; and\n(c)for a home lift, stairlift or vertical platform lift —\n(i)the requirements for periodic maintenance in the manufacturer’s recommendation for the lift (if any) and in the applicable standard for the lift;\n(ii)if no requirements in sub‑paragraph (i) are available — the requirements for periodic maintenance proposed by a supervisor QP or specialist professional engineer for the lift and accepted by the Commissioner of Building Control in writing; or\n(iii)if a modification of requirement is accepted by the Commissioner of Building Control under regulation 45 for the lift — the requirements in those modified requirements.\n(3) To avoid doubt, if the fixed installation cannot be maintained according to the maintenance outcomes in the Fourth Schedule, an application for a modification or waiver of the maintenance outcomes may be made under regulation 45(1).\n(4) To avoid doubt, parts of the same fixed installation may be subject to different requirements.\n(5) The fixed installation service contractor must maintain the fixed installation —\n(a)for any lift that serves a single residential unit or the man machine interface of any mechanised car parking system —\n(i)at the frequency recommended in the manufacturer’s recommendation for periodic maintenance; or\n(ii)if the frequency mentioned sub‑paragraph (i) is not available — once every 3 months;\n(b)for any stairlift or vertical platform lift that does not serve a single residential unit —\n(i)at the frequency recommended in the manufacturer’s recommendation for periodic maintenance; or\n(ii)once every 3 months,\nwhichever is more frequent;\n(c)for any other lift not mentioned in sub‑paragraphs (a) and (b) —\n(i)if a remote monitoring and diagnostics solution is used for the lift and the Commissioner of Building Control has granted a written approval under regulation 40 — at the frequency approved by the Commissioner of Building Control; or\n(ii)in any other case —\n(A)at the frequency recommended in the manufacturer’s recommendation for periodic maintenance; or\n(B)once every month,\nwhichever is more frequent; and\n(d)for an escalator — once every month.\n(6) A person must not maintain a fixed installation unless the person is a fixed installation service contractor.\n(7) Any person who contravenes paragraph (1), (2), (5) or (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H365-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 4 MAINTENANCE AND INVESTIGATION OF FIXED INSTALLATIONS"
+   },
+   "heading": {
+    "en": "Approval to maintain certain lifts using RM&D solution at reduced frequency"
+   },
+   "text": {
+    "en": "40.—(1) Subject to paragraph (3), the Commissioner of Building Control may grant written approval that maintenance works on a lift mentioned in regulation 39(5)(c) using a particular RM&D solution may be carried out at a frequency lower than required under regulation 39(5)(c)(ii), subject to any condition for the approval that the Commissioner of Building Control may impose.\n(2) An application for the approval mentioned in paragraph (1) must —\n(a)be made by the lift owner in the form and manner that the Commissioner of Building Control requires; and\n(b)be endorsed by the fixed installation service contractor engaged to maintain the lift and the intended RM&D solution provider.\n(3) In deciding whether to grant the approval mentioned in paragraph (1) and to impose conditions of such approval if granted, or to modify the approval (within the meaning given by paragraph (4)), the Commissioner of Building Control must be satisfied of all the following:\n(a)the RM&D solution can collect data on all or most of the maintenance requirements referred to in regulation 39;\n(b)the RM&D solution can predict issues in the lift’s operation;\n(c)the lift owner, fixed installation service contractor and intended RM&D solution provider agree to comply with any condition that the Commissioner of Building Control intends to impose for the approval;\n(d)given the use of the RM&D solution, the appropriate frequency to carry out maintenance works for the lift;\n(e)public safety.\n(4) The Commissioner of Building Control may vary the frequency in respect of an approval mentioned in paragraph (1), or vary an existing condition, or impose an additional condition, to that approval (called in this regulation modifying the approval).\n(5) Before modifying the approval, the Commissioner of Building Control must give notice to the lift owner concerned —\n(a)stating that the Commissioner of Building Control proposes to modify the approval in the manner specified in the notice; and\n(b)specifying the time (being at least 14 days after the date of service of notice on the lift owner) within which the lift owner may make written representations to the Commissioner of Building Control on the proposed modification.\n(6) Upon receiving any written representation mentioned in paragraph (5)(b), the Commissioner of Building Control must consider the representation and may —\n(a)reject the representation;\n(b)amend the proposed modification; or\n(c)withdraw the proposed modification.\n(7) If the Commissioner of Building Control —\n(a)rejects any written representation under paragraph (6)(a);\n(b)amends any proposed modification to the approval under paragraph (6)(b); or\n(c)does not receive any written representation within the time specified in paragraph (5)(b), or any written representation made under paragraph (5)(b) is subsequently withdrawn,\nthe Commissioner of Building Control must issue a written direction to the lift owner requiring the lift owner, within the time specified by the Commissioner of Building Control, to give effect to the modification as specified in the notice under paragraph (5) or as amended by the Commissioner of Building Control, as the case may be.\n(8) In this regulation —\n“remote monitoring and diagnostics solution” or “RM&D solution” means a system that —\n(a)continuously collects data from an operating lift;\n(b)analyses the data to detect, diagnose and predict issues in the lift’s operation; and\n(c)recommends action for the lift’s maintenance;\n“remote monitoring and diagnostics solution provider” or “RM&D solution provider” means a person who provides an RM&D solution and includes a fixed installation service contractor who provides an RM&D solution."
+   }
+  },
+  {
+   "id": "SG-H365-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 4 MAINTENANCE AND INVESTIGATION OF FIXED INSTALLATIONS"
+   },
+   "heading": {
+    "en": "Investigation of reportable safety incidents"
+   },
+   "text": {
+    "en": "41.—(1) If a reportable safety incident involving a fixed installation happens and the Commissioner of Building Control so requests, the fixed installation service contractor who last carried out maintenance works on the fixed installation before the happening of the reportable safety incident must, within the time stipulated by the Commissioner of Building Control ––\n(a)appoint a specialist professional engineer to investigate the reportable safety incident and prepare an investigation report of the reportable safety incident; and\n(b)submit the investigation report to the Commissioner of Building Control.\n(2) Without affecting paragraph (1), the Commissioner of Building Control may also by written notice require the owner of the fixed installation to submit the following, in the form and manner specified by the Commissioner of Building Control, within a stipulated time:\n(a)any information relating to the reportable safety incident;\n(b)any video recording of the reportable safety incident;\n(c)an investigation report of the reportable safety incident by appointing a specialist professional engineer.\n(3) The specialist professional engineer appointed under paragraph (1) must not be the same specialist professional engineer appointed under paragraph (2)(c).\n(4) For the purposes of paragraph (1) or (2), the specialist professional engineer appointed must not be ––\n(a)the supervisor QP who supervised the examining, inspecting, testing and commissioning of the fixed installation; or\n(b)the specialist professional engineer who performed the most recent examining, inspecting and testing of the fixed installation,\nwithout the Commissioner of Building Control’s written approval.\n(5) A specialist professional engineer must not, for the purposes of paragraphs (1)(a) and (2), carry out any investigation or prepare any investigation report if the specialist professional engineer, or a nominee of the specialist professional engineer, is a partner, director, officer or employee of —\n(a)the owner of the fixed installation;\n(b)the fixed installation service contractor who appointed the specialist professional engineer; or\n(c)an associate of a person mentioned in sub‑paragraph (a) or (b).\n(6) Any person who fails to comply with a request or notice of the Commissioner of Building Control under paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.\n(7) Any person who contravenes paragraph (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H365-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 4 MAINTENANCE AND INVESTIGATION OF FIXED INSTALLATIONS"
+   },
+   "heading": {
+    "en": "Preservation of site after reportable safety incident"
+   },
+   "text": {
+    "en": "42.—(1) This regulation applies in relation to a fixed installation —\n(a)starting immediately upon the occurrence of a reportable safety incident in relation to the fixed installation; and\n(b)ending when the Commissioner of Building Control serves a written notice on the owner of the fixed installation informing the owner that the site of the reportable safety incident no longer must be preserved.\n(2) A person (including the owner of the fixed installation) must not, without the Commissioner of Building Control’s consent —\n(a)alter, replace, remove or add to any machinery, equipment or article that may have contributed to the cause of the reportable safety incident; or\n(b)modify the scene of the reportable safety incident.\n(3) The owner of the fixed installation must take any reasonable measure to prevent any person from carrying out the acts referred to in paragraph (2)(a) and (b).\n(4) Nothing in paragraph (2) or (3) operates to interfere with rescue work or work necessary for the general safety of life and property.\n(5) Any person who, without reasonable excuse, contravenes paragraph (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H365-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Appeals"
+   },
+   "text": {
+    "en": "43.—(1) Where an application made under —\n(a)regulation 9(1) or 14(2) relating to any fixed installation works; or\n(b)regulation 45(1) for any modification or waiver of the requirements of these Regulations in relation to any particular fixed installation or fixed installation works,\nis refused, or is granted by the Commissioner of Building Control subject to terms and conditions, the applicant may, if aggrieved by the decision of the Commissioner of Building Control, appeal in accordance with section 22 of the Act.\n(2) A person who intends to appeal against a notice to maintain in respect of a fixed installation served under section 25E(4) of the Act may file an appeal in accordance with regulation 44A of the Building Control Regulations 2003."
+   }
+  },
+  {
+   "id": "SG-H365-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Obstruction of Commissioner of Building Control, etc., from discharging power or duties"
+   },
+   "text": {
+    "en": "44.—(1) A person commits an offence if —\n(a)the Commissioner of Building Control or a person authorised under section 3(2) of the Act for the purpose of these Regulations (called in this regulation the authorised officer) is conferred a power or duty under these Regulations;\n(b)the person obstructs the Commissioner of Building Control or authorised officer from discharging the power or duty; and\n(c)the person intended to so obstruct the Commissioner of Building Control or authorised officer.\n(2) A person guilty of an offence under paragraph (1) shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H365-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Modification or waiver of requirements"
+   },
+   "text": {
+    "en": "45.—(1) The Commissioner of Building Control may, on receipt of an application in relation to any particular fixed installation or fixed installation works, modify or waive, subject to any terms and conditions that he or she may impose, any of the requirements of any regulations (other than a regulation specified in the second column of Part 1 of the Fifth Schedule).\n(2) Every application under paragraph (1) must —\n(a)be made to the Commissioner of Building Control by or on behalf of —\n(i)in the case of a fixed installation — the owner of the fixed installation; or\n(ii)in the case of fixed installation works — the developer of the fixed installation works;\n(b)be in such form as the Commissioner of Building Control may require;\n(c)state the nature and extent of, and the reasons for, the proposed modification or waiver of those requirements;\n(d)be accompanied by a declaration signed by the plan submission QP, supervisor QP or specialist professional engineer (as applicable) specifying every particular of how the fixed installation or fixed installation works (as the case may be) do not comply with the requirements of these Regulations; and\n(e)be accompanied by an application fee of $100 for each item of modification or waiver."
+   }
+  },
+  {
+   "id": "SG-H365-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Refund of fees"
+   },
+   "text": {
+    "en": "46.—(1) Any fee paid to the Commissioner of Building Control under these Regulations is not refundable.\n(2) Despite paragraph (1), the Commissioner of Building Control may, in his or her discretion, refund in whole or in part, any fee paid under these Regulations."
+   }
+  },
+  {
+   "id": "SG-H365-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Transitional provision — mechanised car parking system"
+   },
+   "text": {
+    "en": "47. Parts 3 and 4 do not apply for a period of 3 years starting on 1 October 2025 (or such longer period as the Commissioner of Building Control may specify) to a mechanised car parking system if the mechanised car parking system —\n(a)was in operation immediately before that date; and\n(b)does not undergo any major alteration or replacement works during that period."
+   }
+  },
+  {
+   "id": "SG-H365-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Transitional provisions — applications"
+   },
+   "text": {
+    "en": "48.—(1) Paragraph (2) applies when —\n(a)a lift or an escalator has been examined, inspected and tested in accordance with regulation 7 or 19 of the revoked Regulations before 1 October 2025;\n(b)no application for a permit to operate the lift or escalator under regulation 8 or 20 of the revoked Regulations has been made after the examination, inspection and testing and before 1 October 2025; and\n(c)an application for a permit to operate the lift or escalator is made under regulation 30 within 3 months after the examination, inspection and testing.\n(2) For the purposes of the application under regulation 30 —\n(a)the lift or escalator is deemed to have been examined, inspected, tested and commissioned or examined, inspected and tested (as the case may be) in accordance with regulation 29; and\n(b)regulation 30(1)(b)(i) and (ii) does not apply to the application.\n(3) Every proposal referred to in regulation 7(2)(a)(iii) or 13(2)(a)(iii) of the revoked Regulations made before 1 October 2025, but which has not been decided by the Commissioner of Buildings immediately before that date, is deemed to be an application made under regulation 45(1).\n(4) Every application for an alternative maintenance requirement that is made under regulation 13(2A) or 25(2A) of the revoked Regulations before 1 October 2025, but which has not been decided by the Commissioner of Buildings immediately before that date, is deemed to be an application made under regulation 45(1).\n(5) Every application for approval that maintenance works on a lift using a particular RM&D solution be carried out at a reduced frequency that is made under regulation 13A(2) of the revoked Regulations before 1 October 2025, but which has not been decided by the Commissioner of Buildings immediately before that date, is deemed to be an application made under regulation 40(2).\n(6) In this regulation and regulations 49 and 50, “revoked Regulations” means the Building Maintenance and Strata Management (Lift, Escalator and Building Maintenance) Regulations 2016 (G.N. No. S 348/2016) revoked by the Building Maintenance and Strata Management (Lift, Escalator and Building Maintenance) (Revocation) Regulations 2025 (G.N. No. S 619/2025)."
+   }
+  },
+  {
+   "id": "SG-H365-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Transitional provisions — notices, etc."
+   },
+   "text": {
+    "en": "49.—(1) Any written notice mentioned in regulation 11 or 23 of the revoked Regulations and that was in force immediately before 1 October 2025 continues to be in force as if it were a written notice mentioned in regulation 33.\n(2) A notice given by the Commissioner of Buildings under regulation 13A(5) of the revoked Regulations before 1 October 2025 is to be treated as a notice given by the Commissioner of Building Control under regulation 40(5).\n(3) Any written direction given by the Commissioner of Buildings under regulation 13A(7) of the revoked Regulations before 1 October 2025 is to be treated as a written direction given by the Commissioner of Building Control under regulation 40(7).\n(4) If —\n(a)the Commissioner of Buildings has, under regulation 15(1)(a) or 27(1)(a) of the revoked Regulations, made a request for a lift service contractor or escalator service contractor to submit an investigation report on any breakdown of a lift or escalator (as the case may be) before 1 October 2025; and\n(b)the investigation report has not been submitted to the Commissioner of Buildings before that date,\nthe request is to be treated after that date as one made by the Commissioner of Building Control under regulation 37(1)(a) and a lift service contractor or escalator service contractor who submits the investigation report mentioned in sub‑paragraph (a) to the Commissioner of Building Control is to be treated as having complied with regulation 37(1)(a)."
+   }
+  },
+  {
+   "id": "SG-H365-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Transitional provisions — previously accepted requirements, etc."
+   },
+   "text": {
+    "en": "50.—(1) Any requirement for the examination, inspection and testing for a home lift, vertical platform lift or stairlift that was accepted by the Commissioner of Buildings under regulation 7(2)(a)(iii) of the revoked Regulations before 1 October 2025 is to be treated as accepted by the Commissioner of Building Control under regulation 29(5)(b)(ii) for the home lift, vertical platform lift or stairlift.\n(2) Any requirement for the periodic maintenance of a home lift, vertical platform lift or stairlift that was accepted by the Commissioner of Buildings under regulation 13(2)(a)(iii) of the revoked Regulations before 1 October 2025 is to be treated as accepted by the Commissioner of Building Control under regulation 39(2)(c)(ii) for the home lift, vertical platform lift or stairlift.\n(3) Any alternative standard or modification of a requirement for a lift that was accepted by the Commissioner of Buildings under regulation 17(4B)(a) of the revoked Regulations before 1 October 2025 (or under that provision read with regulation 3(3) of the Building Maintenance and Strata Management (Lift, Escalator and Building Maintenance) (Revocation) Regulations 2025 on or after that date) is to be treated as accepted by the Commissioner of Building Control under regulation 45 for the lift, for the purposes of regulation 29(5)(a)(ii) or (b)(iii) or 39(2)(b)(ii) or (c)(iii).\n(4) Any alternative standard or modification of a requirement for an escalator that was accepted by the Commissioner of Buildings under regulation 29(4B)(a) of the revoked Regulations before 1 October 2025 (or under that provision read with regulation 3(4) of the Building Maintenance and Strata Management (Lift, Escalator and Building Maintenance) (Revocation) Regulations 2025 on or after that date) is to be treated as accepted by the Commissioner of Building Control under regulation 45 for the escalator, for the purposes of regulation 29(4)(b) or 39(2)(b)(ii).\n(5) Any alternative maintenance requirement for a lift that was accepted by the Commissioner of Buildings under regulation 13(2A) of the revoked Regulations before 1 October 2025 is to be treated as accepted by the Commissioner of Building Control for the purposes of the lift under regulation 39(2)(a) (read with regulation 39(3)).\n(6) Any alternative maintenance requirement for an escalator that was accepted by the Commissioner of Buildings under regulation 25(2A) of the revoked Regulations before 1 October 2025 is to be treated as accepted by the Commissioner of Building Control for the purposes of the escalator under regulation 39(2)(a) (read with regulation 39(3)).\n(7) Any written approval granted by the Commissioner of Buildings for maintenance works on a lift using a particular RM&D solution to be carried out at a reduced frequency under regulation 13A(1) of the revoked Regulations before 1 October 2025 is to be treated as granted by the Commissioner of Building Control under regulation 40(1) subject to the same conditions (if any) to which that written approval was subject immediately before that date.\n(8) Any written representation mentioned in regulation 13A(5)(b) of the revoked Regulations that was received before 1 October 2025, but which has not been considered immediately before that date, is deemed to be a written representation mentioned in regulation 40(5)(b)."
+   }
+  },
+  {
+   "id": "SG-H365-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulations 3(1), 6(3) and 27(1)\nMajor alteration and replacement works\nFirst column\nSecond column\nThird column\nFixed installation\nWorks for which plans are\nrequired to be submitted\nWorks for which no plans\nare required to be submitted\n1.Escalator\nAny works to increase the maximum rated speed of an escalator or to change any of the following in relation to an escalator:\n(a)the auxiliary brake;\n(b)the brake system;\n(c)the drive system;\n(d)the step band.\nAny works to change any of the following in relation to an escalator:\n(a)the balustrade;\n(b)the overspeed and reversal protection means;\n(c)the software in a manner that affects safety functionalities;\n(d)the truss;\n(e)an E/E/PE.\n2.Stairlift\nAny works to change any of the following in relation to a stairlift:\n(a)the brake system;\n(b)the carriage mass by 5% or more;\n(c)the type of drive system;\n(d)the rated load;\n(e)the rated speed.\nAny works to change any of the following in relation to a stairlift:\n(a)the overspeed limitation device;\n(b)the software in a manner that affects safety functionalities;\n(c)an E/E/PE.\n3.Vertical platform lift\nAny works to add a landing entrance or change any of the following in relation to a vertical platform lift:\n(a)the brake system;\n(b)the platform mass by 5% or more;\n(c)the type of drive system;\n(d)the rated load;\n(e)the rated speed;\n(f)the pit depth;\n(g)the travel distance.\nAny works to change any of the following in relation to a vertical platform lift:\n(a)the overspeed limitation device;\n(b)the software in a manner that affects safety functionalities;\n(c)an E/E/PE;\n(d)the guiderail size;\n(e)the number, size or type of the hoisting rope;\n(f)the landing door type;\n(g)the landing door locking device.\n4.A lift that is not a stairlift or a vertical platform lift\nAny works to increase the available car area, add a car entrance, add a landing entrance or change any of the following in relation to the lift:\n(a)the brake system;\n(b)the car mass by 5% or more;\n(c)the type of drive system;\n(d)the rated load;\n(e)the rated speed;\n(f)the travel distance;\n(g)the ascending car overspeed protection means;\n(h)the buffer;\n(i)the car bottom clearances and overhead clearances;\n(j)the door locking device type;\n(k)the guiderail size;\n(l)the number or size of a hoisting rope;\n(m)the overspeed governor;\n(n)the restrictor or one‑way restrictor;\n(o)the rupture valve;\n(p)an E/E/PE;\n(q)the safety gear;\n(r)the traction sheave;\n(s)the unintended car movement protection means;\n(t)the access to the machinery spaces.\nAny works to change any of the following in relation to the lift:\n(a)the software in a manner that affects safety functionalities;\n(b)the type of the hoisting rope;\n(c)the landing door type;\n(d)the car door type;\n(e)the compensation system;\n(f)the hydraulic jack;\n(g)the pawl device;\n(h)the pressure relief valve.\n5.Mechanised car parking system\nAny works to change any of the following in relation to the man machine interface of a mechanised car parking system:\n(a)the design of the anti‑fall device;\n(b)the controls of and logic programming that affects the transfer area;\n(c)the position or coverage of the door protective device;\n(d)the emergency door location;\n(e)the rated load;\n(f)the dimension of the transfer area;\n(g)the coverage of any sensor that detects or limits movement within the transfer area;\n(h)the user exit door location;\n(i)the vehicle entrance and exit location.\nNIL"
+   }
+  },
+  {
+   "id": "SG-H365-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulations 9(3)(e) and 19(a)\nSpecified documents\nFirst column\nSecond column\nFixed installation\nDocuments required\n1.Escalator\n(a)the following drawings (with at least 300 dots per inch resolution and dimensions in millimetres clearly marked):\n(i)a location plan;\n(ii)a site plan showing —\n(A)the location and layout of the site with boundary lines clearly verged;\n(B)the outline of the building which fixed installation works are to be carried out marked in colour or otherwise; and\n(C)the north point, or the geo reference, and the number and adjoining lots and the Mukim (MK) or Town Subdivision (TS) number of the lot;\n(iii)one or more design plans that collectively show the escalator’s safety zone, clear height and structural support;\n(b)one or more factory acceptance test reports that collectively show the following:\n(i)proof of calculation of sufficient breakage resistance of the step chains, racks, and any other parts directly driving the steps, pallets or belt of the escalator;\n(ii)a calculation of the stopping distance for loaded moving walks with adjustment data;\n(iii)proof testing of the steps or pallets;\n(iv)proof of the belt’s breaking strength;\n(v)proof of the stopping distance and deceleration values of the escalator.\n2.Inclined lifting platform or stairlift\nThe following documents (with at least 300 dots per inch resolution and dimensions in millimetres clearly marked):\n(a)a location plan;\n(b)a site plan showing —\n(i)the location and layout of the site with boundary lines clearly verged;\n(ii)the outline of the building which fixed installation works are to be carried out marked in colour or otherwise; and\n(iii)the north point, or the geo reference, and the number and adjoining lots and the Mukim (MK) or Town Subdivision (TS) number of the lot;\n(c)a layout of the equipment, in elevation and plan view, that shows the lift carriage size and clearance;\n(d)where applicable, the following documents on the lift’s control system:\n(i)the test certificate for each E/E/PE of the lift (including any accompanying document);\n(ii)the test procedure relating to each E/E/PE of the lift.\n3.Vertical platform lift\nThe following documents (with at least 300 dots per inch resolution and dimensions in millimetres clearly marked):\n(a)a location plan;\n(b)site plan showing —\n(i)the location and layout of the site with boundary lines clearly verged;\n(ii)the outline of the building which fixed installation works are to be carried out marked in colour or otherwise; and\n(iii)the north point, or the geo reference, and the number and adjoining lots and the Mukim (MK) or Town Subdivision (TS) number of the lot;\n(c)a layout of the equipment, in elevation and plan view, that shows the lift car and lift way enclosure;\n(d)where applicable, the following documents on the lift’s control system:\n(i)the test certificate relating to each E/E/PE of the lift (including any accompanying document);\n(ii)the test procedure relating to each E/E/PE of the lift.\n4.Lift (traction) other than a lift mentioned in item 2 or 3\nThe following drawings (with at least 300 dots per inch resolution and dimensions in millimetres clearly marked):\n(a)one or more floor plans that collectively show —\n(i)the location of any machine room and lift shaft;\n(ii)the plan, elevation and section views of the access path to the machine room;\n(iii)any ladder or staircase to the machine room level, any safety railing at the edge of any passageway leading to the machine room and the distance between the passageway and the edge of the roof or the building; and\n(iv)any occupancy space below pit (for example, an underground carpark);\n(b)one or more site plans that collectively show the matters referred to in paragraph (a)(i) to (iv) and —\n(i)the location and layout of the site with boundary lines clearly verged;\n(ii)the outline of the building which fixed installation works are to be carried out marked in colour or otherwise; and\n(iii)the north point, or the geo reference, and the number and adjoining lots and the Mukim (MK) or Town Subdivision (TS) number of the lot;\n(c)a machine room layout plan showing —\n(i)the plan, elevation and section views of the machine room, including dimensions of any entrance to the machine room; and\n(ii)the space around the controller and machinery;\n(d)one or more hoistway and lift car cross sectional plans that collectively show —\n(i)all car top refuge spaces when the car is above the top landing with the counterweight buffer fully compressed;\n(ii)all car bottom refuge spaces when the car is at the lowest position and the car buffer is fully compressed;\n(iii)the dimensions and position of any pit ladder;\n(iv)the car and counterweight buffer strokes; and\n(v)where the lift uses compensation tie‑down — a table showing the actual jump value.\n5.Lift (hydraulic) other than a lift mentioned in item 2 or 3\nThe following drawings (with at least 300 dots per inch resolution and dimensions in millimetres clearly marked):\n(a)one or more floor plans that collectively show —\n(i)the location of any machine room and lift shaft;\n(ii)the plan, elevation and section views of the access path to the machine room; and\n(iii)any ladder or staircase to the machine room level, any safety railing at the edge of any passageway leading to the machine room and the distance between the passageway and the edge of the roof or the building;\n(b)one or more site plans that collectively show the matters referred to in paragraph (a)(i), (ii) and (iii) and —\n(i)the location and layout of the site with boundary lines clearly verged;\n(ii)the outline of the building which fixed installation works are to be carried out marked in colour or otherwise; and\n(iii)the north point, or the geo reference, and the number and adjoining lots and the Mukim (MK) or Town Subdivision (TS) number of the lot;\n(c)one or more machine room layout plans that collectively show —\n(i)the plan, elevation and section views of the machine room, including dimensions of any entrance to the machine room; and\n(ii)the space around the controller and machinery;\n(d)one or more hoistway and lift car cross sectional plans that collectively show —\n(i)all car top refuge spaces when the car is at the highest position;\n(ii)all car bottom refuge spaces when the car is at the lowest position and the car buffer is fully compressed;\n(iii)the dimensions and position of any pit ladder; and\n(iv)the car buffer strokes.\n6.Mechanised car parking system\nThe following drawings (with at least 300 dots per inch resolution and dimensions in millimetres clearly marked):\n(a)a location plan that shows the location of the mechanised car parking system, including but not limited to the following:\n(i)the location of the transfer area (including where a vehicle will enter into or exit from, the transfer area);\n(ii)the location of control panel of the mechanised car parking system;\n(iii)the location of the sensors that are part of the man machine interface;\n(iv)the location of any user exit door for the transfer area;\n(v)the location of any emergency door for the transfer area;\n(b)a site plan that shows —\n(i)the matters referred to in paragraph (a);\n(ii)the north point, or the geo reference;\n(iii)the number and adjoining lots; and\n(iv)the Mukim (MK) or Town Subdivision (TS) number of the lot;\n(c)design drawings of the man machine interface of the mechanised car parking system (in plan view, elevation view and sectional view) showing —\n(i)whether the mechanised car parking system operation type is automatic, semi‑automatic or manual (hold‑to‑run);\n(ii)the design of the transfer area, showing where a vehicle should be situated and the length, width and height of the transfer area;\n(iii)where the control panel (that contains the hold‑to‑run button, start button and stop button) will be installed;\n(iv)where an emergency stop button will be installed;\n(v)where a door protective device will be installed and its dimension and coverage;\n(vi)where an anti‑fall device will be installed and its dimensions; and\n(vii)the coverage (within the transfer area) of sensors."
+   }
+  },
+  {
+   "id": "SG-H365-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulations 5(1)(c), 7, 8, 17(i), 21(2) and (3), 30(2)(d)(i) and 35(1)(b)(ii)(A)\nObjectives and performance requirements\nfor the design and installation\nof fixed installations\nA. General\n1. This Schedule sets out the objectives and performance requirements that must be complied with when designing and installing a fixed installation.\nB. Escalators\nObjective\n2. The objective of paragraphs 3 and 4 is to provide a convenient means of transportation and to protect people from injury while using an escalator.\nPerformance requirement\n3. An escalator —\n(a)must move people safely; and\n(b)must not produce excessive acceleration or deceleration.\n4.—(1) Any escalator must have one or more video recorders that are able to capture, store and play-back video footage of any incident occurring on the escalator and at any landing area.\n(2) Each video recorder must be able to store video footage in a retrievable format and play‑back the video footage with sufficient clarity for investigation purposes.\nC. Lifts\nObjective\n5. The objective of paragraphs 6 to 11 is to provide a convenient means of vertical transportation and to protect people from injury while using a lift.\nPerformance requirement\n6.—(1) Subject to sub‑paragraph (2), a lift —\n(a)must move people safely; and\n(b)must not produce excessive acceleration or deceleration.\n(2) Sub‑paragraph (1) does not apply to a stairlift or vertical platform lift that —\n(a)has a maximum vertical displacement of less than 1,000 millimetres when the lift is in operation;\n(b)exerts a maximum downward force of less than 150 Newtons when the lift moves downwards; and\n(c)serves a single residential unit.\n7.—(1) A lift (other than a lift installed in a private home solely for the use of its occupants or a stairlift) must have one or more video recorders able to capture, store and play‑back video footage of any incident occurring in the lift and at any landing area.\n(2) Each video recorder must be able to store video footage in a retrievable format and play‑back the video footage with sufficient clarity for investigation purposes.\n8. Any lift (except a stairlift) must be designed and installed with a telephone, intercom system or other communication device that enables a passenger in the lift to notify or directly communicate with a person outside the lift that is able to respond to an emergency.\n9. A building comprising 5 or more storeys (including the ground level and any basement level) must be provided with at least one passenger lift.\n10. Any lift interior fitting and fixture must be securely fastened by appropriate mechanical fasteners.\n11. The hoistway of a vertical platform lift must have enclosures of sufficient height and strength to —\n(a)prevent passengers from falling from height from the lift platform or lift landing; and\n(b)prevent persons from entering the hoistway.\nD. Mechanised car parking systems\nObjective\n12. The objective of paragraph 13 is to protect people who use, operate or are near to a mechanised car parking system.\nPerformance requirement\n13. The man machine interface of a mechanised car parking system must function to ensure that if a person is inside the transfer area of the mechanised car parking system or trying to access the mechanised car parking system — all parts of the mechanised car parking system within the transfer area remains stationary."
+   }
+  },
+  {
+   "id": "SG-H365-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE\nRegulations 30(2)(e), 35(1)(c) and 39(2)(a) and (3)\nPart 1\nMaintenance outcomes for Escalators\nFirst column\nSecond column\nAreas of maintenance\nOutcomes\n1.Signage and indicator\n(a)Safety signages and direction indicators are clearly displayed.\n(b)An escalator step edge is clearly demarcated with yellow lines.\n(c)There is sufficient lighting near an escalator comb.\n2.Anti‑climbing, anti‑sliding, access restriction and deflecting device\nAny anti-climbing, anti‑sliding, access restriction or deflecting device for the escalator is in place and is functioning properly.\n3.Emergency stop switch\nActivating an emergency stop switch stops the escalator.\n4.Handrail system\n(a)The handrail moves in the same direction and at the same speed (or within 2% faster) as the escalator step.\n(b)When a foreign object enters a handrail inlet, a handrail inlet safety switch activates and stops the escalator.\n5.Housekeeping of escalator\nAny machinery and machinery space in the escalator’s driving station, return station and truss area —\n(a)is only used for a purpose that is connected with the operation or maintenance of the escalator;\n(b)is kept clean and free from any discarded item or leaked oil; and\n(c)is not used to store any item.\n6.Driving machine\n(a)The driving machine does not leak oil.\n(b)All moveable parts, joints and gear boxes of the driving machine and sprockets are sufficiently cleaned, lubricated, free to move or rotate and free from rust.\n(c)The driving machine is securely mounted.\n(d)All coupling (direct, gear or chain) is secured, properly aligned and tensioned for effective transmission.\n7.Brakes and auxiliary brakes\n(a)All moveable parts and joints of the brake or auxiliary brake are sufficiently lubricated and be free to move or rotate.\n(b)The brake and auxiliary brake (if any) are not contaminated with any oil or grease.\n(c)The brake and auxiliary brake (if any), when activated, stop the escalator within the distance specified in the applicable standard.\n(d)The brake or auxiliary brake, when not activated, does not act against the escalator motion.\n(e)The mechanical connections between the brake and auxiliary brake (if any) and the step band are secure.\n8.Safety switch\nActivating a safety switch must stop the escalator.\n9.Excessive speed and unintentional reversal protection\nThe escalator stops if the escalator exceeds the escalator’s rated speed by 20%.\n10.Operational clearance\nThe clearance between an escalator step and an escalator skirt panel, between an escalator step and an escalator comb, and between any other 2 areas where a clearance is required complies with the applicable standard.\n11.Any escalator parts\nNo part of the escalator is so corroded, worn, damaged or dysfunctional so as to affect the escalator’s safe operation.\n12.Controller and electrical system\n(a)There is a grounding and earthing connection for each controller and electrical system and the connection is firmly secured.\n(b)If the escalator is unsafe for any passenger or worker maintaining the escalator, the controller stops the escalator and prevents the escalator from moving further.\n(c)The controller, the electronic and electrical systems, all wiring and the circuit board (including the printed circuit board containing a contact or electronic component) are not overheated, delaminated, burned, warped, corroded or otherwise defective.\n(d)All wiring in the controller or electronic and electrical system is properly connected and insulated and does not have any wire conducting element exposed or other defects.\n(e)Upon the failure of any component in a controller or electrical system, the controllers and electrical systems bring the escalator to a safe state.\nPart 2\nMaintenance outcomes for Lifts\nDivision 1 — Lifts (excluding vertical platform lifts)\nFirst column\nSecond column\nAreas of maintenance\nOutcomes\n1.Door open control\n(a)When a lift’s car doors and lift landing doors are opened and a button to control the opening of those doors is pressed, those doors stay open.\n(b)When a lift’s car doors and lift landing doors are partly closed and a button to control the opening of those doors is pressed, those doors open.\n2.Door protective device\nUpon activation of a door protective device, the lift car door and the lift landing door at that level stops closing and re‑opens.\n3.Lift car door and lift landing door\n(a)The lift car only moves when each lift car door and lift landing door is closed and locked, and —\n(i)subject to sub‑paragraph (ii), the gap at the lift car doorway is not more than 12 millimetres;\n(ii)where a lift car door sill is obstructed, the upthrust rollers of the lift car door are set so that —\n(A)if the lift’s entrance height is not more than 2.1 metres, the gap at the lift car doorway is not more than 25 millimetres;\n(B)if the lift’s entrance height is more than 2.1 metres, the gap at the lift car doorway is not more than 25 millimetres plus 3 millimetres for every 0.5 metre that the lift’s entrance height exceeds 2.1 metres; or\n(C)the gap at the lift car doorway is not more than a distance that the Commissioner of Building Control considers to be safe for that type of lift;\n(iii)the gap at the lift landing doorway is not more than 10 millimetres;\n(iv)the clearance between the lift’s car door panels is not more than 10 millimetres; and\n(v)the clearance between the lift’s car door panels and uprights, lintels or sills is not more than 10 millimetres.\n(b)When a lift landing door is opened or unlocked while the lift car is moving, the lift stops immediately.\n(c)When a lift car door is opened when the lift car is moving, the lift stops immediately.\n(d)A stationary lift does not move when its lift car door is opened.\n(e)A lift car door or lift landing door (including any component of the lift car door or lift landing door like a door shoe, roller, hanger or linkage) is not excessively worn.\n4.Lift car emergency alarm\nWhen a lift car emergency alarm button is pressed, an alarm is heard from —\n(a)outside the lift well; and\n(b)the floor designated in the lift’s standard.\n5.Lift car intercom\nThe lift car intercom system is functioning properly when a lift car intercom button is pressed.\n6.Lighting and ventilation fan\nThe lighting and ventilation fan for the lift car are functioning properly.\n7.Emergency power supply for emergency alarm, intercom, emergency lights and ventilation fan of the lift car\nThe emergency power supply for the emergency alarm, intercom, emergency lights and ventilation fan of the lift car is functioning properly even when the normal power supply to the lift is disrupted.\n8.Lift car’s emergency lights and ventilation fan\nThe lift car’s emergency lights and the ventilation fan are functioning properly under emergency power supply.\n9.Movement of lift car\nThe lift car’s movement does not cause any abnormal sound or vibration.\n10.Housekeeping of lift\nAny machinery, machinery space, lift pit, hoistway or lift car top —\n(a)is only used for a purpose that is connected with the operation or maintenance of the lift;\n(b)is kept clean and free from any discarded item or leaked oil; and\n(c)is not used to store any item.\n11.Lift machine and drive (including motor, gear box, drive sheave and motor generator set)\n(a)The lift machine and drive does not leak oil.\n(b)All moveable parts, joints and the gear box of the lift machine and drive are sufficiently lubricated.\n(c)The lift machine and drive are securely mounted.\n12.Brakes of lift machine and drive\n(a)The lift machine brake is not contaminated with, or at risk of being contaminated with, any oil or grease.\n(b)The lift machine brake, when activated, causes the lift car to —\n(i)slow down;\n(ii)stop; and\n(iii)not move from where the lift car stopped.\n(c)If the lift is fitted with an additional brake system to prevent uncontrolled lift car motion, the additional brake, when activated, causes the lift car to —\n(i)stop; and\n(ii)not move from where the lift car stopped.\n13.Direct current machine\n(a)The carbon brush length is within the tolerance the manufacturer recommends.\n(b)The insulation at a carbon brush holder does not have any carbon particle build‑up that may cause flash‑over and burning.\n(c)The commutator is free from any foreign deposit and does not cause any sparking when in use.\n14.Overspeed governor\n(a)The overspeed governor is functioning properly and is able to activate the lift’s safety gear.\n(b)The ropes of the overspeed governor are not worn beyond the manufacturer’s recommendation or, where the manufacturer’s recommendation is not available, the applicable standard.\n(c)The tensioning device of the overspeed governor is functioning properly and stops the lift in the case of excessive elongation of the governor rope.\n15.Main ropes and compensation rope\n(a)The main ropes are properly and evenly tensioned.\n(b)No main rope or compensation rope is worn beyond the manufacturer’s recommendation or, where the manufacturer’s recommendation is not available, the applicable standard.\n16.Compensation rope and compensation rope sheave tie‑down and tensioning\n(a)If the lift has a compensation rope sheave tie‑down, the compensation rope must be guided through the compensation rope sheave tie‑down and properly tensioned, in accordance with the manufacturer’s recommendation.\n(b)If the lift does not have a compensation rope sheave tie‑down, the compensation rope does not run against the walls and pit of the lift shaft, the guiderails and the buffer.\n17.Buffer\n(a)There is sufficient oil in the buffer (as indicated by the oil level gauge) in accordance with the manufacturer’s recommendation.\n(b)The buffer provides enough cushioning upon impact to protect any passenger in the lift car.\n(c)The buffer is firmly secured to the pit floor of the lift shaft and plumbed.\n18.Controller and electrical system\n(a)There is a grounding and earthing connection for each controller and electrical system, and the connection is firmly secured.\n(b)If the lift is unsafe for any passenger or worker maintaining the lift, the controller stops the lift and prevents the lift from moving further.\n(c)The safety switch for the lift is functioning properly.\n(d)The controller, the electronic and electrical systems, all wiring and the circuit board (including the printed circuit board containing any contact or electronic component) are not overheated, delaminated, burned, warped, corroded or otherwise defective.\n(e)All wiring in the controller or electronic and electrical system is properly connected and insulated and does not have any wire conducting element exposed or other defects.\n(f)Upon the failure of any component in a controller or electrical system, the controllers and electrical systems bring the lift to a safe state.\n19.Guide shoe or roller of lift car and counterweight\n(a)The lift car and counterweight are guided by one or more guide shoes or rollers.\n(b)The guide shoe liner or roller is not worn out.\n20.Guide rail for lift car and counterweight\nThe guide rail is not worn out or out of alignment so as to affect the operation of the lift.\n21.Safety gear\n(a)All safety gears and their linkages are capable of being activated by the overspeed governor.\n(b)All safety gears, when activated, stop and hold the lift car and counterweight within the allowable distance in accordance with the applicable standard.\n22.Any lift parts\nNo part of the lift is so corroded, worn, damaged or dysfunctional so as to affect the lift’s safe operation.\n23.Stopping or level accuracy\nIf the lift car stops at a landing floor level, it stops within 10 millimetres of that landing floor level.\nDivision 2 — Vertical platform lifts\nFirst column\nSecond column\nAreas of maintenance\nOutcomes\n1.User control device\n(a)The lift platform moves only when a user control device (which controls platform movement) is continuously pressed and held to the “run” setting.\n(b)The emergency stop fitted on the platform, when activated, stops the lift platform.\n2.Edge protective device\nThe edge protective device, when activated, stops the lift platform.\n3.Landing and landing door\n(a)The lift platform only moves —\n(i)when each landing door for the lift platform is closed and locked; or\n(ii)when levelling, re‑levelling or anti‑creeping in an unlocking zone.\n(b)The lift platform only moves when each locking element is engaged to at least 7 millimetres.\n(c)The locked landing door does not open upon an average person’s pulling or pushing the landing door.\n(d)During levelling, re‑levelling or anti‑creeping within an unlocking zone of a floor, the lift platform stops if —\n(i)one landing door is unlocked; and\n(ii)the lift platform is more than 50 millimetres away from the unlocked landing door’s sill level.\n4.Emergency alarm device\n(a)When a lift platform emergency alarm button is pressed, the emergency alarm device is functioning properly and is heard from outside the lift well.\n(b)When a lift platform intercom button is pressed, an intercom system allows a person on the platform and a person at a readily accessible point outside the lift well to speak with each other.\n5.Emergency operation of hydraulic drive system\n(a)The manually operated emergency lowering valve is functioning properly even if there is a power failure.\n(b)For a lift platform fitted with a safety gear or a clamping device, there is a hand‑pump available for use.\n6.Emergency power supply\nThe emergency power supply for the lift platform lights, an emergency alarm device, the intercom and the lift platform’s emergency manual operation, are functioning properly even if the lift platform’s normal power supply is disrupted.\n7.Movement of vertical platform\nThe lift platform’s movement does not cause any abnormal sound or vibration.\n8.Stopping, levelling, re‑levelling, accuracy and inclination\n(a)The lift platform stops at a floor within 10 millimetres of the floor.\n(b)The lift platform re‑levels at a floor within 20 millimetres of the floor.\n(c)The horizontal distance between the lift platform and inner surface of enclosed lift way is not more than 20 millimetres.\n(d)For a hydraulic drive system —\n(i)the lifting platform’s creeping distance is not more than 20 millimetres from the corresponding landing;\n(ii)the anti-creeping device is functioning properly even if there is a power failure; and\n(iii)any pawl device that is provided maintains the platform at the landing level.\n(e)For a hydraulic drive system of direct acting where more than one jack is used to raise the platform, the lift platform is not inclined more than 10 millimetres from the horizontal.\n9.Driving unit\n(a)The driving unit’s machine and drive is not stained with oil or leak oil or any other lubricant.\n(b)All moveable parts, joints or gear box of the driving unit are sufficiently lubricated.\n(c)The driving unit’s lift machine and driving system are securely mounted.\n(d)All moving pinions on the rack (including any connected component) or moving chain (including any connected component) are not obstructed.\n10.Driving unit brakes\n(a)The lift platform brake, when activated, causes the lift platform to stop and not move from where the lift platform stopped.\n(b)The lift platform brake is not contaminated with, or at risk of being contaminated with, any oil or grease.\n(c)If the lift platform is fitted with an additional brake system to prevent uncontrolled lift platform motion, the additional brake, when activated, causes the lift platform to —\n(i)stop; and\n(ii)not move from where the lift car stopped.\n11.Overspeed governor\n(a)The overspeed governor is functioning properly and is able to activate the lift safety gear.\n(b)The overspeed governor’s ropes are not worn beyond the manufacturer’s recommendation or, where the manufacturer’s recommendation is not available, the applicable standard.\n12.Safety gear\n(a)All safety gears and their linkages are capable of being activated by the overspeed governor.\n(b)All safety gears for the lift, when activated, stop and hold the lift platform within the allowable distance in accordance with the applicable standard.\n13.Safety device\n(a)The safety device is functioning properly when the lift is in operation.\n(b)The safety device, when activated, is able to stop the lift platform and hold the lift platform where the lift platform has stopped.\n(c)The safety device is not excessively worn, corroded or damaged.\n(d)The safety device is not misaligned, bypassed or tampered with.\n14.Rack and pinion\nThe rack and pinion gear tooth are not excessively worn, corroded or damaged.\n15.Ropes and chains\n(a)The main ropes are properly and evenly tensioned.\n(b)The main rope and compensation rope are not excessively worn beyond the manufacturer’s recommendation or, where the manufacturer’s recommendation is not available, the applicable standard.\n(c)For a rope or chain drive system, the electric safety device —\n(i)monitors the status of the rope or chain (as the case may be) when the lift is in operation; and\n(ii)when activated, stops the lift platform.\n(d)The pulley, sprocket or guide element is not excessively worn, corroded or damaged.\n16.Friction traction\nThe rail of the traction wheel drive is not contaminated with any grease or oil.\n17.Hydraulic system\n(a)The hydraulic valves, rupture valves and restrictor of the hydraulic system are functioning properly.\n(b)The hydraulic system’s jacks, pipes, flexible hoses, valves, restrictors and filters are not corroded or deformed and do not leak oil or any other lubricant.\n(c)There is sufficient oil in a hydraulic system tank (as indicated by the oil level gauge) in accordance with the manufacturer’s recommendation.\n(d)The hydraulic system tank is not corroded and does not leak oil or any other lubricant.\n18.Controller and electrical system\n(a)There is a grounding and earthing connection for each controller and electrical system, and the connection is firmly secured.\n(b)If the lift is unsafe for any passenger or worker maintaining the lift, the controller stops the lift and prevents the lift from moving further.\n(c)The safety switch for the lift is functioning properly.\n(d)All wiring in a controller or an electronic and electrical system is properly connected and insulated and does not have any wire conducting element exposed or other defects.\n(e)Upon the failure of any component in a controller or electrical system, the controllers and electrical systems bring the lift to a safe state.\n19.Any lift parts\nNo part of the lift is so corroded, worn, damaged or dysfunctional so as to affect the safe operation of the lift.\n20.Housekeeping of lift\nAny machinery, machinery space, lift pit, hoistway or platform ceiling —\n(a)is only used for a purpose that is connected with the operation or maintenance of the lift;\n(b)is kept clean and free from any discarded item or leaked oil; and\n(c)is not used to store any item.\nPart 3\nMaintenance outcomes for\nMechanised Car Parking Systems\nFirst column\nSecond column\nAreas of maintenance\nOutcomes\n1.Door locking mechanism and door monitoring sensor\nThe locking mechanism and monitoring sensor for any door that is part of the man machine interface of the mechanised car parking system, are functioning properly.\n2.Door protective device\nA door protective device, when activated, stops the main entrance of the man machine interface of the mechanised car parking system from closing and opens that main entrance.\n3.Main entrance and emergency door\nAll moveable parts of the transfer area do not move unless the main entrance and each emergency door is closed and locked.\n4.Emergency stop button\nWhen an emergency stop button is pressed, all moveable parts of the man machine interface of the mechanised car parking system stop moving.\n5.Transfer area\nThe transfer area —\n(a)is not used for purposes other than those connected with the operation or maintenance of the man machine interface of the mechanised car parking system;\n(b)is kept clean and free from any item that is not required for the man machine interface of the mechanised car parking system to operate; and\n(c)is not used to store any other item.\n6.Brakes\n(a)No brake for any moveable part of the man machine interface of the mechanised car parking system is contaminated with, or is at risk of being contaminated with, any oil or grease.\n(b)The brakes for the moveable parts of the man machine interface of the mechanised car parking system, when activated, cause the man machine interface to stop and not move from where the man machine interface has stopped.\n7.Switches and sensors\nThe safety switch or sensor of the man machine interface of the mechanised car parking system, when activated, causes the moveable parts of the man machine interface of the mechanised car parking system to stop.\n8.Any mechanised car parking system parts\nNo part of the man machine interface of the mechanised car parking system is so corroded, worn, damaged or dysfunctional so as to affect the safe operation of the man machine interface of the mechanised car parking system.\n9.Operational gap\nThe gap between the platform of a transfer area and the landing is not wider than specified by the manufacturer or, in the absence of such specification, the applicable standard.\n10.Anti-fall device\nAny means or structure to prevent the lowering of a load carrier is functioning properly."
+   }
+  },
+  {
+   "id": "SG-H365-A900004",
+   "no": 900004,
+   "noLabel": {
+    "en": "FIFTH SCHEDULE"
+   },
+   "text": {
+    "en": "FIFTH SCHEDULE\nRegulations 4 and 45(1)\nPart 1\nModification of Part 2 of Act\nFirst column\nSecond column\nProvision of Act\nModified and reproduced in\nthese Regulations as\nSection 5(1) and (2)\nRegulation 9(1) and (2)\nSection 5(3) to (6)\nRegulation 11(1) to (4)\nSection 5A\nRegulation 14(1) to (4)\nSection 5B\nRegulation 15\nSection 6A\nRegulation 45\nSection 8\nRegulation 20\nSection 9\nRegulation 21\nSection 11\nRegulation 22\nSection 19\nRegulation 26\nSection 20\nRegulation 24\nSection 22(1)\nRegulation 43(1)\nPart 2\nModification of Building Control RegulationS 2003\nFirst column\nSecond column\nProvision of Building Control Regulations 2003\nModified and reproduced in\nthese Regulations as\nRegulation 4(1)\nRegulation 9(3)\nRegulation 4(2)(a) and (b)\nRegulation 9(1)(b)\nRegulation 6\nRegulation 17\nRegulation 7\nRegulation 18\nRegulation 8\nRegulation 19\nRegulation 13\nRegulation 10\nRegulation 14(1)\nRegulation 12(1)\nRegulation 14(2)\nRegulation 11(5)\nRegulation 15\nRegulation 12(2)\nRegulation 16\nRegulation 13\nRegulation 17\nRegulation 46\nRegulation 18(1)\nRegulation 14(3)(a)\nRegulation 18(2A)\nRegulation 14(2)\nRegulation 18(3A) and (5)\nRegulation 14(5) and (6)\nRegulation 19\nRegulation 15(1)\nRegulation 20(2) and (3)\nRegulation 45(2)(d) and (e)\nRegulation 23\nRegulation 21(4)(c)\nRegulation 25\nRegulation 22(5)\nRegulation 26\nRegulation 7\nRegulation 27\nRegulation 8\nRegulation 30\nRegulation 23\nRegulation 48\nRegulation 5(2)\nRegulation 50\nRegulation 25"
+   }
+  }
+ ]
+}

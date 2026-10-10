@@ -1,0 +1,52 @@
+{
+ "id": "SG-H1447",
+ "title": {
+  "zh": null,
+  "en": "Exemption",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p18",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MVTPRCA1960-N1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 553,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MVTPRCA1960-N1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 1 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1447-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Motor Vehicles (Third-Party Risks and Compensation) Act\n(Chapter 189, Section 22)\nExemption\nN 1\nG.N. No. S 33/1995\nREVISED EDITION 1996\n(15th May 1996)\n[27th January 1995]\nThe Minister for Communications hereby exempts all motor vehicles which are the property of any government of any State in the Federation of Malaysia from all the provisions of the Act, other than sections 6 and 18 thereof (relating to payment of compensation exceeding $5,000 to the Public Trustee and prohibition of solicitation by any person in respect of claims, respectively)."
+   }
+  }
+ ]
+}

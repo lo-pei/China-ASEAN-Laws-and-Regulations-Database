@@ -1,0 +1,107 @@
+{
+ "id": "SG-H2288",
+ "title": {
+  "zh": null,
+  "en": "Income Tax (International Tax Compliance Agreements) (Country-By-Country Reporting) Regulations 2018",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p29",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ITA1947-S75-2018",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 8754,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ITA1947-S75-2018?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 5 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2288-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Income Tax (International Tax Compliance Agreements) (Country-By-Country Reporting) Regulations 2018 and come into operation on 5 February 2018."
+   }
+  },
+  {
+   "id": "SG-H2288-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations —\n“authorised person” means a person authorised by the Comptroller under section 105L of the Act;\n“constituent entity” —\n(a)in relation to an MNE group that is a Type A group, means any entity of the MNE group, whether or not the entity has a permanent establishment; and\n(b)in relation to an MNE group that is a Type B group, means the single entity of the Type B group, and includes a permanent establishment of the Type B group for which separate financial statements are prepared;\n“country‑by‑country report” has the same meaning as in section 105I of the Act;\n“entity” means any person that is not an individual, but excludes the Government, and the government of any country;\n“FRS 110” means the financial reporting standard known as Financial Reporting Standard 110 (Consolidated Financial Statements) made or formulated by the Accounting Standards Committee under the Accounting Standards Act 2007;\n[S 147/2023 wef 31/12/2021]\n[S 147/2023 wef 01/04/2023]\n“MNE group” means a Multinational Enterprise group;\n“SFRS(I) 10” means the financial reporting standard known as Singapore Financial Reporting Standard (International) 10 (Consolidated Financial Statements) that is made, and amended from time to time, under Part 3 of the Accounting Standards Act 2007;\n[S 57/2020 wef 22/01/2020]\n[S 147/2023 wef 31/12/2021]\n“Type A group” means a group of entities related through ownership or control in such a way that the group is either —\n(a)required to prepare consolidated financial statements for financial reporting purposes under FRS 110, SFRS(I) 10 or an equivalent financial reporting standard in a country outside Singapore; or\n[S 57/2020 wef 22/01/2020]\n(b)would have been so required if equity interests in any of the entities were traded on any stock exchange in Singapore or elsewhere;\n“Type B group” means a single entity with one or more permanent establishments;\n“ultimate parent entity” —\n(a)in relation to an MNE group that is a Type A group, means a constituent entity of the MNE group —\n(i)that owns, directly or indirectly, a sufficient interest in one or more constituent entities of the MNE group such that —\n(A)it is required under FRS 110, SFRS(I) 10 or an equivalent financial reporting standard in a country outside Singapore to prepare consolidated financial statements for the MNE group; or\n[S 57/2020 wef 22/01/2020]\n(B)it would have been so required if its equity interests were traded on any stock exchange in its jurisdiction of tax residence; and\n(ii)in which no other constituent entity of the MNE group owns (directly or indirectly) an interest described in sub‑paragraph (i); or\n(b)in relation to an MNE group that is a Type B group, means the single entity of the Type B group.\n(2) In these Regulations, a Type A group is an MNE group for an accounting period if the Type A group —\n(a)has a consolidated group revenue of not less than $1,125 million (or its equivalent in foreign currency) in the accounting period immediately before that accounting period; and\n(b)has 2 or more entities that are resident for a tax purpose in different countries.\n(3) In these Regulations, a Type B group is an MNE group for an accounting period if the Type B group —\n(a)has a revenue of not less than $1,125 million (or its equivalent in foreign currency) in the accounting period immediately before that accounting period; and\n(b)is resident for a tax purpose in one country and is also subject to income tax or tax of a similar character with respect to its business carried out through a permanent establishment in another country."
+   }
+  },
+  {
+   "id": "SG-H2288-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "3. These Regulations apply to a Type A group or Type B group in respect of any of its accounting periods beginning on or after 1 January 2017."
+   }
+  },
+  {
+   "id": "SG-H2288-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Obligation of ultimate parent entity of MNE group to submit country‑by‑country report"
+   },
+   "text": {
+    "en": "4.—(1) Subject to regulation 5, where —\n(a)a Type A group or Type B group is an MNE group for any of its accounting periods; and\n(b)its ultimate parent entity is resident in Singapore,\nits ultimate parent entity must submit to the Comptroller or an authorised person a country‑by‑country report for that accounting period for all constituent entities of the MNE group.\n(1A) The ultimate parent entity must submit to the Comptroller or an authorised person a notice in accordance with paragraph (1B) that it is an entity that has to submit a country‑by‑country report under paragraph (1).\n[S 669/2022 wef 12/08/2022]\n(1B) The notice must be —\n(a)submitted for each accounting period in the form and manner determined by the Comptroller; and\n(b)submitted no later than 3 months after the end of the accounting period, or such later time as the Comptroller may permit.\n[S 669/2022 wef 12/08/2022]\n(1C) Paragraph (1A) applies to a country‑by‑country report for each accounting period that begins on or after 1 January 2022.\n[S 669/2022 wef 12/08/2022]\n(1D) To avoid doubt, paragraph (1A) does not apply to an ultimate parent entity to which the Comptroller has given a written notice under regulation 5(2)(a) that it need not submit a country‑by‑country report for that accounting period.\n[S 669/2022 wef 12/08/2022]\n(2) The ultimate parent entity must submit the country‑by‑country report to the Comptroller or an authorised person no later than 12 months after the end of the accounting period, or such later time as the Comptroller may permit.\n(3) The ultimate parent entity must keep and retain in safe custody all records that it uses to prepare a country‑by‑country report for a period of 5 years after the end of the accounting period.\n(4) A requirement under paragraph (1), (1A) or (2) is a requirement under section 105M(1)(b) of the Act, the failure or neglect to comply with which (if such failure or neglect is without reasonable excuse) is an offence under section 105M(1) of the Act.\n[S 869/2021 wef 16/11/2021]\n[S 669/2022 wef 12/08/2022]\n(5) A requirement under paragraph (3) is a requirement the failure or neglect to comply with which (if such failure or neglect is without reasonable excuse) is an offence under section 105M(1B) of the Act.\n[S 869/2021 wef 16/11/2021]"
+   }
+  },
+  {
+   "id": "SG-H2288-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Designation of constituent entity to submit country‑by‑country report in place of ultimate parent entity"
+   },
+   "text": {
+    "en": "5.—(1) This regulation applies where —\n(a)a particular Type A group is an MNE group for any of its accounting periods; and\n(b)in that accounting period —\n(i)the Government is the sole shareholder of the ultimate parent entity of the Type A group; and\n(ii)the Minister informed the Comptroller that a country‑by‑country report by the ultimate parent entity of the Type A group would contain information, the disclosure of which would be contrary to Singapore’s vital interests.\n(2) The Comptroller may, after taking into account the information in paragraph (1)(b)(ii) —\n(a)give written notice to the ultimate parent entity that the ultimate parent entity need not submit that country‑by‑country report; and\n(b)give written notice to one or more other constituent entities of the MNE group to submit a country‑by‑country report for that accounting period in place of the ultimate parent entity.\n(3) A constituent entity of the MNE group given a written notice under paragraph (2)(b) must submit to the Comptroller or an authorised person a country‑by‑country report for that accounting period for all the constituent entities of the MNE group in respect of which the firstmentioned constituent entity —\n(a)is required under FRS 110, SFRS(I) 10 or an equivalent financial reporting standard in a country outside Singapore to prepare consolidated financial statements; or\n[S 57/2020 wef 22/01/2020]\n(b)would have been so required if the equity interests of the firstmentioned constituent entity were traded on any stock exchange in Singapore or elsewhere.\n(4) The constituent entity must submit the country‑by‑country report for an accounting period to the Comptroller or an authorised person no later than —\n(a)12 months after the end of the accounting period; or\n(b)such later time as the Comptroller may permit in the particular case.\n(5) The constituent entity must keep and retain in safe custody all records that it uses to prepare a country‑by‑country report for an accounting period for a period of at least 5 years after the end of the accounting period.\n(6) A requirement under paragraph (3) or (4) is a requirement under section 105M(1)(b) of the Act, the failure or neglect to comply with which (if such failure or neglect is without reasonable excuse) is an offence under section 105M(1) of the Act.\n[S 869/2021 wef 16/11/2021]\n(7) A requirement under paragraph (5) is a requirement the failure or neglect to comply with which (if such failure or neglect is without reasonable excuse) is an offence under section 105M(1B) of the Act.\n[S 869/2021 wef 16/11/2021]"
+   }
+  }
+ ]
+}

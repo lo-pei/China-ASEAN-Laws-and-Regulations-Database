@@ -1,0 +1,107 @@
+{
+ "id": "SG-H2127",
+ "title": {
+  "zh": null,
+  "en": "Income Tax (Exemption of Income of Locally Administered Trust) Regulations 2007",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p27",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ITA1947-S693-2007",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 3679,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ITA1947-S693-2007?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 5 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2127-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Income Tax (Exemption of Income of Locally Administered Trust) Regulations 2007 and shall be deemed to have come into operation on 17th February 2006."
+   }
+  },
+  {
+   "id": "SG-H2127-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations —\n“eligible locally administered trust” means a locally administered trust created in writing ––\n(a)which does not arise from a will or from the administration of the estate of a deceased person;\n(b)the assets of which do not, at any time, include assets transferred (other than by way of a sale on market terms and conditions) from any person carrying on business in Singapore, where the income derived by that person from that business was not, or would not have been if not for the transfer, exempt from tax; and\n(c)which is administered by a trustee company in Singapore;\n“holding company”, in relation to a locally administered trust, means a company —\n(a)[Deleted by S 929/2022 wef 06/12/2022]\n(b)which is set up to hold the assets of the locally administered trust;\n(c)the operations of which consist solely of trading or making investments for the purpose of the locally administered trust; and\n(d)all the shares of which are held by trustees of the locally administered trust, or by their nominee or nominees,\nbut does not include ––\n(i)a company the shares of which have been transferred to the locally administered trust, where, at any time prior to any such transfer, the company was carrying on a business in Singapore which generated income that was not, or would not have been if not for the transfer, exempt from tax; or\n(ii)on or after 21st December 2007, a company, the relevant income of which is derived from assets which have been transferred (other than by way of a sale on market terms and conditions) from a person carrying on a business in Singapore, where the income derived by that person from those assets was not, or would not have been if not for their transfer, exempt from tax;\n“nominee” means any person who acts as a nominee or custodian in relation to shares of a holding company for and on behalf of the trustees of a locally administered trust.\n(2) For the purposes of these Regulations, a locally administered trust is administered by a trustee company if ––\n(a)the trustee company provides services to the locally administered trust in its capacity as trustee of the locally administered trust, including providing services as manager or administrator of a holding company of that locally administered trust; or\n(b)the trustee company provides services to a trustee of the locally administered trust under a contract for services with that trustee, such services being all or any of the following:\n(i)the establishing of the locally administered trust or a holding company of the locally administered trust;\n(ii)the administration or management of the locally administered trust or a holding company of the locally administered trust."
+   }
+  },
+  {
+   "id": "SG-H2127-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "3. Subject to regulation 4, there shall be exempt from tax the relevant income of —\n(a)an eligible locally administered trust; and\n(b)a holding company of an eligible locally administered trust."
+   }
+  },
+  {
+   "id": "SG-H2127-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Deduction of certain losses not allowed"
+   },
+   "text": {
+    "en": "4. No deduction shall be allowed under the Act to any eligible locally administered trust or holding company of such trust in respect of any loss arising from any transaction that would have been exempted from tax under regulation 3 had it resulted in a gain or profit."
+   }
+  },
+  {
+   "id": "SG-H2127-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Keeping of records"
+   },
+   "text": {
+    "en": "5. Every trustee company administering an eligible locally administered trust shall keep and maintain such records of the particulars of every settlor and beneficiary of the locally administered trust as may be required by the Minister or an authorised body for the purposes of these Regulations.\n[S 929/2022 wef 06/12/2022]"
+   }
+  }
+ ]
+}

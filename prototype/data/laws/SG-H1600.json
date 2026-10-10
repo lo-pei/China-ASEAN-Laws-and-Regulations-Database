@@ -1,0 +1,107 @@
+{
+ "id": "SG-H1600",
+ "title": {
+  "zh": null,
+  "en": "Foreign Recruiting Act 1875",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p20",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act FRA1875",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1469,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/FRA1875?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 5 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1600-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Foreign Recruiting Act 1875."
+   }
+  },
+  {
+   "id": "SG-H1600-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless there is something repugnant in the subject or context, “foreign State” includes any person or persons exercising, or assuming to exercise, the powers of government in or over any country, colony, province, or people beyond the limits of Singapore."
+   }
+  },
+  {
+   "id": "SG-H1600-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Power to prohibit or permit recruiting"
+   },
+   "text": {
+    "en": "3. If any person is, within the limits of Singapore, obtaining, or attempting to obtain, recruits for the service of any foreign State in any capacity, the President may by order in writing, signed by the Minister, either prohibit that person from so doing or permit him to do so subject to any conditions which the President imposes."
+   }
+  },
+  {
+   "id": "SG-H1600-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Power to impose conditions"
+   },
+   "text": {
+    "en": "4. The President may by general order notified in the Gazette either prohibit recruiting for the service of any foreign State, or impose upon such recruiting any conditions which he thinks fit."
+   }
+  },
+  {
+   "id": "SG-H1600-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Punishment of offences"
+   },
+   "text": {
+    "en": "5. Any person who in violation of the prohibition of the President, or of any condition subject to which permission to recruit has been accorded —\n(a)induces or attempts to induce any person to accept, agree to accept, or to proceed to any place with a view of obtaining, any commission or employment in the service of any foreign State; or\n(b)knowingly aids in the engagement of any person so induced by forwarding or conveying him, or by advancing money, or in any other way whatever,\nshall be guilty of an offence and shall be liable on conviction to a fine or to imprisonment for a term not exceeding 7 years or to both."
+   }
+  }
+ ]
+}

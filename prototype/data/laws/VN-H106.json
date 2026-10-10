@@ -1,0 +1,2162 @@
+{
+ "id": "VN-H106",
+ "title": {
+  "zh": null,
+  "en": null,
+  "orig": null
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p05",
+ "language": "en",
+ "level": null,
+ "category": null,
+ "status": null,
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 212,
+ "chars": 73368,
+ "source": {
+  "name": "越南 — Decree on Personal Data Protection (Ngh\u0000 \u0000\u0000nh s\u0000 13/2023/N\u0000-CP) — GOVERNMENT No.",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-08",
+ "completenessNote": "全文，共 212 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。（本次由归档原件补录入库）",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "VN-H106-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1. This Decree provides for personal data protection and the responsibility for personal"
+   },
+   "text": {
+    "en": "1. This Decree provides for personal data protection and the responsibility for personal\ndata protection of relevant agencies, organizations and individuals."
+   }
+  },
+  {
+   "id": "VN-H106-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2. This Decree applies to:"
+   },
+   "text": {
+    "en": "2. This Decree applies to:\na) Vietnamese agencies, organizations and individuals;\nb) Foreign agencies, organizations and individuals in Vietnam;\nc) Vietnamese agencies, organizations and individuals operating overseas;\nd) Foreign agencies, organizations and individuals directly involved in or rel ating to\nthe processing of personal data in Vietnam.\nArticle 2. Interpretations\nIn this Decree, the following terms and phrases shall be construed as follows:"
+   }
+  },
+  {
+   "id": "VN-H106-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "1. Personal data means information in the form of symbols, letters, numbers, images,"
+   },
+   "text": {
+    "en": "1. Personal data means information in the form of symbols, letters, numbers, images,\nsounds or the like on an electronic medium that is associated with a particular person or helps\nto identify a particular person. Personal data includes basic personal data and sensitive personal\ndata."
+   }
+  },
+  {
+   "id": "VN-H106-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "2. Information that helps to identify a particular person means information formed from"
+   },
+   "text": {
+    "en": "2. Information that helps to identify a particular person means information formed from\nhis/her activities that, when combined with other stored data and/or information, can identify\na particular person."
+   }
+  },
+  {
+   "id": "VN-H106-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "3. Basic personal data includes:"
+   },
+   "text": {
+    "en": "3. Basic personal data includes:\na) Family name, middle name and first name as stated in the birth certificate, and other\nname (if any);\nb) Date of birth; date of death or disappearance;\nc) Gender;\nd) Place of birth, place of birth registration, place of permanent residence, place of\ntemporary residence, place of current residence, hometown, contact address;\ndd) Nationality;\ne) Personal photos/ images;\ng) Phone number, identity card number, personal identification number, passport\nnumber, driver’s license number, license plate number, personal tax number, social insurance\nnumber, medical insurance card number;\nh) Marital status;\n(i) Information on family relationships (parents, children);\nk) Information about a person’s digital account; personal data reflecting activities and\nhistory of activities in cyberspace;\nl) Other information relating to a particular person or helpin g to identify a particular\nperson that is not specified in Clause 4 of this Article."
+   }
+  },
+  {
+   "id": "VN-H106-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "4. Sensitive personal data means personal data associated with the rights to privacy of"
+   },
+   "text": {
+    "en": "4. Sensitive personal data means personal data associated with the rights to privacy of\na person that, when violated, will directly affect his/her legitimate rights and in terests,\nincluding:\na) Political views, religious views;\nb) Health status and private life recorded in the medical record, excluding information\nabout blood type;\nc) Information relating to racial or ethnic origin;\nd) Information about inherited or acquired genetic characteristics of a person;\ndd) Information about a person’s physical attributes and/or biological characteristics;\ne) Information about a person’s sex life and/or sexual orientation;\n\ng) Data on crimes and/or offenses collected and stored by law enforcement agencies;\nh) Customer information of credit institutions, foreign bank branches, payment\nintermediary service providers, and other authorized organizations, including: customer\nidentification information as prescribed by law, account i nformation, deposit information,\ndeposited asset information, transaction information, and/or information about organizations\nand/or individuals as guarantors at credit institutions, bank branches and/or payment\nintermediary service providers;\n(i) Location data of a person identified through location services;\nk) Other personal data that is required by law to be specific and require necessary\nsecurity measures."
+   }
+  },
+  {
+   "id": "VN-H106-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "5. Personal data protection means the prevention, detection, stopping and handling of"
+   },
+   "text": {
+    "en": "5. Personal data protection means the prevention, detection, stopping and handling of\nviolations relating to personal data in accordance with the law."
+   }
+  },
+  {
+   "id": "VN-H106-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "6. Data subject means a person reflected/identified by personal data."
+   },
+   "text": {
+    "en": "6. Data subject means a person reflected/identified by personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "7. Personal data processing means one or more activities affecting personal data, such"
+   },
+   "text": {
+    "en": "7. Personal data processing means one or more activities affecting personal data, such\nas: collection, recording, analysis, confirmat ion, storage, correction, publicity, combination,\naccess, retrieval, recovery, encryption, decryption, copying, sharing, transmission, provision,\ntransference, deletion, and destruction of personal data or other related actions."
+   }
+  },
+  {
+   "id": "VN-H106-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "8. A data subject’s consent  means a clear, voluntary, and affirmative expression of"
+   },
+   "text": {
+    "en": "8. A data subject’s consent  means a clear, voluntary, and affirmative expression of\nhis/her permission to process his/her personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "9. A Personal Data Controller means an organization or individual that determines the"
+   },
+   "text": {
+    "en": "9. A Personal Data Controller means an organization or individual that determines the\npurposes for which and the means by which personal data is processed."
+   }
+  },
+  {
+   "id": "VN-H106-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "10. A Personal Data Processor means an organization or individual that performs data"
+   },
+   "text": {
+    "en": "10. A Personal Data Processor means an organization or individual that performs data\nprocessing on behalf of the controller, under a contract or agreement with the controller."
+   }
+  },
+  {
+   "id": "VN-H106-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "11. A Personal Data Controller -Processor means an organization or indi vidual that"
+   },
+   "text": {
+    "en": "11. A Personal Data Controller -Processor means an organization or indi vidual that\nsimultaneously determines the purposes for which and the means by which personal data is\nprocessed, and also directly processes personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "12. A third party means an organization or individual other than the data subject, the"
+   },
+   "text": {
+    "en": "12. A third party means an organization or individual other than the data subject, the\nPersonal Data Controller, the Personal Data Processor, and the Personal Data Controller -\nProcessor that is permitted to process personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "13. Automated processing of personal data means a form of personal data processing"
+   },
+   "text": {
+    "en": "13. Automated processing of personal data means a form of personal data processing\nperformed by electronic means in order to eva luate, analyze and/or predict the activities of a\nparticular person, such as: habits, hobbies, reliability, behavior, location, tendencies, capacities\nand other information."
+   }
+  },
+  {
+   "id": "VN-H106-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "14. Cross -border Transfer of personal data means the use of cyberspace, electronic"
+   },
+   "text": {
+    "en": "14. Cross -border Transfer of personal data means the use of cyberspace, electronic\ndevices and/or means or other forms to transfer personal data of Vietnamese citizens to a\nlocation outside the territory of the Socialist Republic of Vietnam or use a location located\n\noutside the territory of the Socialist Republic of Vietnam to process p ersonal data of\nVietnamese citizens, including:\na) Organizations, enterprises and/or individuals transferring personal data of\nVietnamese citizens to organizations, enterprises and/or management departments overseas for\nprocessing in accordance with the purposes agreed upon by the data subject;\nb) Processing of personal data of Vietnamese citizens using automated systems located\noutside the territory of the Socialist Republic of Vietnam by the Personal Data Controller,\nPersonal Data Controller -Processor, or  Personal Data Processor in accordance with the\npurposes agreed upon by the data subject.\nArticle 3. Principles of personal data protection"
+   }
+  },
+  {
+   "id": "VN-H106-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "1. Personal data is processed in accordance with the law."
+   },
+   "text": {
+    "en": "1. Personal data is processed in accordance with the law."
+   }
+  },
+  {
+   "id": "VN-H106-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "2. The data subject is made aware of activities relating to the processing of his/her"
+   },
+   "text": {
+    "en": "2. The data subject is made aware of activities relating to the processing of his/her\npersonal data, unless otherwise provided for by law."
+   }
+  },
+  {
+   "id": "VN-H106-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "3. Personal data is processed only for the purposes that have been registered and"
+   },
+   "text": {
+    "en": "3. Personal data is processed only for the purposes that have been registered and\ndeclared by the Personal Data Contro ller, Personal Data Processor, Personal Data Controller -\nProcessor, and/or Third Party."
+   }
+  },
+  {
+   "id": "VN-H106-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "4. Personal data collected must be appropriate and limited within the scope and"
+   },
+   "text": {
+    "en": "4. Personal data collected must be appropriate and limited within the scope and\npurposes of processing. Personal data may not be bought or sold in any form, unless otherwise\nprovided by law."
+   }
+  },
+  {
+   "id": "VN-H106-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "5. Personal data is updated and supplemented in accordance with the purposes  of"
+   },
+   "text": {
+    "en": "5. Personal data is updated and supplemented in accordance with the purposes  of\nprocessing."
+   }
+  },
+  {
+   "id": "VN-H106-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "6. Personal data is subject to protection and confidentiality measures during the"
+   },
+   "text": {
+    "en": "6. Personal data is subject to protection and confidentiality measures during the\nprocessing, including protection against violations of  regulations on personal data protection\nand prevention of loss, destruction or damage caused by incidents or using technical measures."
+   }
+  },
+  {
+   "id": "VN-H106-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "7. Personal data is only stored for a period suitable for the purpose s of processing,"
+   },
+   "text": {
+    "en": "7. Personal data is only stored for a period suitable for the purpose s of processing,\nunless otherwise provided for by law."
+   }
+  },
+  {
+   "id": "VN-H106-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "8. The [Personal] Data Controller and  the Personal Data Controller-Processor are"
+   },
+   "text": {
+    "en": "8. The [Personal] Data Controller and  the Personal Data Controller-Processor are\nresponsible for complying with the principles of processing personal data specified in Clauses\n1 to 7 of this Article and demonstrat ing their compliance with these principles of processing\npersonal data.\nArticle 4. Handling violations of regulations on personal data protection\nAgencies, organizations and individuals that violate regulations on personal data\nprotection, depending on the se verity, may be subject to discipline, administrative sanctions,\nor criminal penalty as prescribed.\nArticle 5. State management in personal data protection\nThe Government shall unify the state management of personal data protection.\n\nContents of state management of personal data protection include:"
+   }
+  },
+  {
+   "id": "VN-H106-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "1. Submit to the competent state agencies for promulgation or promulgate within its"
+   },
+   "text": {
+    "en": "1. Submit to the competent state agencies for promulgation or promulgate within its\ncompetence legal documents ; direct and organize the implementation of legal documents on\npersonal data protection."
+   }
+  },
+  {
+   "id": "VN-H106-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "2. Formulate and organize the implementation of strategies, policies, schemes, projects,"
+   },
+   "text": {
+    "en": "2. Formulate and organize the implementation of strategies, policies, schemes, projects,\nprograms and plans on personal data protection."
+   }
+  },
+  {
+   "id": "VN-H106-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "3. Provide guidance to agencies, organizations and individuals on measures, processes"
+   },
+   "text": {
+    "en": "3. Provide guidance to agencies, organizations and individuals on measures, processes\nand standards for protecting personal data in accordance with the law."
+   }
+  },
+  {
+   "id": "VN-H106-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "4. Propagate and educat e on the law on personal data  protection; communicate and"
+   },
+   "text": {
+    "en": "4. Propagate and educat e on the law on personal data  protection; communicate and\ndisseminate knowledge and skills of personal data protection."
+   }
+  },
+  {
+   "id": "VN-H106-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "5. Develop , train  and foster cadres, civil servants, public employees and persons"
+   },
+   "text": {
+    "en": "5. Develop , train  and foster cadres, civil servants, public employees and persons\nassigned to protect personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "6. Inspect and examine the implementation of regulations on personal data protection;"
+   },
+   "text": {
+    "en": "6. Inspect and examine the implementation of regulations on personal data protection;\nsettle complaints  and denunciations, and handle violations of regulations on personal data\nprotection in accordance with the law."
+   }
+  },
+  {
+   "id": "VN-H106-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "7. Collect statistics, inform and report the situation of personal data protection and the"
+   },
+   "text": {
+    "en": "7. Collect statistics, inform and report the situation of personal data protection and the\nimplementation of the laws on personal data protection to the competent state agencies."
+   }
+  },
+  {
+   "id": "VN-H106-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "8. Engage in international cooperation on personal data protection."
+   },
+   "text": {
+    "en": "8. Engage in international cooperation on personal data protection.\nArticle 6. Application of the Decree on Personal Data Protection, relevant laws\nand international treaties\nThe protection of personal data shall be carried out  in accordance with the provisions\nof international treaties to which the Socialist Republic of Vietnam is a contracting party, other\nrelevant laws and this Decree.\nArticle 7. International cooperation on personal data protection"
+   }
+  },
+  {
+   "id": "VN-H106-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "1. Develop an internationa l cooperation mechanism to facilitate the effective"
+   },
+   "text": {
+    "en": "1. Develop an internationa l cooperation mechanism to facilitate the effective\nenforcement of the laws on personal data protection."
+   }
+  },
+  {
+   "id": "VN-H106-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "2. Participate in mutual legal assistance in personal data protection of other countries,"
+   },
+   "text": {
+    "en": "2. Participate in mutual legal assistance in personal data protection of other countries,\nincluding notification, request for complaint, investigation  assistance and information\nexchange, with appropriate measures to protect personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "3. Organize conferences, seminars, and scientific research and promote international"
+   },
+   "text": {
+    "en": "3. Organize conferences, seminars, and scientific research and promote international\ncooperation in law enforcement to protect personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "4. Organize bilateral and multilateral meetings, exchange experience on law -making"
+   },
+   "text": {
+    "en": "4. Organize bilateral and multilateral meetings, exchange experience on law -making\nand practices on personal data protection."
+   }
+  },
+  {
+   "id": "VN-H106-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "5. Transfer technology for personal data protection."
+   },
+   "text": {
+    "en": "5. Transfer technology for personal data protection.\nArticle 8. Prohibited acts"
+   }
+  },
+  {
+   "id": "VN-H106-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "1. Processing personal data contrary to the laws on personal data protection."
+   },
+   "text": {
+    "en": "1. Processing personal data contrary to the laws on personal data protection."
+   }
+  },
+  {
+   "id": "VN-H106-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "2. Processing personal data to create information and/ or data to fight against the State"
+   },
+   "text": {
+    "en": "2. Processing personal data to create information and/ or data to fight against the State\nof the Socialist Republic of Vietnam."
+   }
+  },
+  {
+   "id": "VN-H106-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "3. Processing personal data to create information and /or data that affect national"
+   },
+   "text": {
+    "en": "3. Processing personal data to create information and /or data that affect national\nsecurity, social order and safety, or legitimate rights and interests of other organizations and/or\nindividuals."
+   }
+  },
+  {
+   "id": "VN-H106-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "4. Obstructing personal data protection activities of the competent agencies."
+   },
+   "text": {
+    "en": "4. Obstructing personal data protection activities of the competent agencies."
+   }
+  },
+  {
+   "id": "VN-H106-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "5. Taking advantage of personal data protection activities to violate the law."
+   },
+   "text": {
+    "en": "5. Taking advantage of personal data protection activities to violate the law.\nChapter II\nPERSONAL DATA PROTECTION ACTIVITIES\nSection 1\nRIGHTS AND OBLIGATIONS OF DATA SUBJECTS\nArticle 9. Rights of data subjects"
+   }
+  },
+  {
+   "id": "VN-H106-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "1. Right to know"
+   },
+   "text": {
+    "en": "1. Right to know\nData subjects are made aware of the processing of their personal data, unless otherwise\nprovided by law."
+   }
+  },
+  {
+   "id": "VN-H106-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "2. Right to consent"
+   },
+   "text": {
+    "en": "2. Right to consent\nData subjects may consent or refuse to consent the processing of their personal data,\nexcept for the cases specified in Article 17 of this Decree."
+   }
+  },
+  {
+   "id": "VN-H106-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "3. Right to access"
+   },
+   "text": {
+    "en": "3. Right to access\nData subjects may access to view, correct or request correction of their personal data,\nunless otherwise provided by law."
+   }
+  },
+  {
+   "id": "VN-H106-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "4. Right to withdraw consent"
+   },
+   "text": {
+    "en": "4. Right to withdraw consent\nData subjects may withdraw their consent, unless otherwise provided by law."
+   }
+  },
+  {
+   "id": "VN-H106-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "5. Right to delete data"
+   },
+   "text": {
+    "en": "5. Right to delete data\nData subjects may delete or request their personal data to be deleted, unless otherwise\nprovided by law."
+   }
+  },
+  {
+   "id": "VN-H106-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "6. Right to restrict data processing"
+   },
+   "text": {
+    "en": "6. Right to restrict data processing\na) Data subjects may request restriction of the processing of their personal data, unless\notherwise provided by law;\nb) The r estriction of data processing shall be  carried out within 72 hours after the\nrequest of the data subject, with respect to all personal data that the data subject requests to be\nrestricted, unless otherwise provided for by law."
+   }
+  },
+  {
+   "id": "VN-H106-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "7. Right to request the provision of data"
+   },
+   "text": {
+    "en": "7. Right to request the provision of data\nData subjects may request the Personal Data Controller or Personal Data Controller -\nProcessor to provide their personal data, unless otherwise provided by law."
+   }
+  },
+  {
+   "id": "VN-H106-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "8. Right to object to data processing"
+   },
+   "text": {
+    "en": "8. Right to object to data processing\na) Data subject s may object to the Personal Data Controller ’s or Personal Data\nController-Processor’s processing of  their personal data in order to prevent or limit the\ndisclosure of personal data or the use of personal data for advertising and marketing purposes,\nunless otherwise provided by law;\nb) The Personal Data Controller or Personal Data Controller-Processor shall fulfill the\nrequest of the data subject within 72 hours after receiving his/her request, unless otherwise\nprovided for by law."
+   }
+  },
+  {
+   "id": "VN-H106-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "9. Right to complain, denounce and initiate lawsuits"
+   },
+   "text": {
+    "en": "9. Right to complain, denounce and initiate lawsuits\nData subjects have the right to complain, denounce or initiate a lawsuit in accordance\nwith the law."
+   }
+  },
+  {
+   "id": "VN-H106-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "10. Right to claim compensation of damages"
+   },
+   "text": {
+    "en": "10. Right to claim compensation of damages\nData subjects have the right to claim damages in accordance with the law when there\nis a violation of regulations on personal data protection with regard to their personal data,\nunless otherwise agreed by the parties or otherwise provided for by law."
+   }
+  },
+  {
+   "id": "VN-H106-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "11. Right to self-defense"
+   },
+   "text": {
+    "en": "11. Right to self-defense\nData subjects have the right to protect themselves according to the provisions of the\nCivil Code, other relevant laws and this Decree, or request the competent agencies and\norganizations to implement methods of civil rights protection as prescribed in Article 11 of the\nCivil Code.\nArticle 10. Obligations of data subjects"
+   }
+  },
+  {
+   "id": "VN-H106-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "1. To p rotect their  own personal data;  to request other relevant organizations and"
+   },
+   "text": {
+    "en": "1. To p rotect their  own personal data;  to request other relevant organizations and\nindividuals to protect their personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "2. To respect and protect the personal data of others."
+   },
+   "text": {
+    "en": "2. To respect and protect the personal data of others."
+   }
+  },
+  {
+   "id": "VN-H106-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "3. To p rovide their personal data in a complete and accurate manner when giving"
+   },
+   "text": {
+    "en": "3. To p rovide their personal data in a complete and accurate manner when giving\nconsent to the processing of personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "4. To participate in propaganda and dissemination of skills of personal data protection."
+   },
+   "text": {
+    "en": "4. To participate in propaganda and dissemination of skills of personal data protection."
+   }
+  },
+  {
+   "id": "VN-H106-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "5. To comply with the laws on personal data protection and participate in the prevention"
+   },
+   "text": {
+    "en": "5. To comply with the laws on personal data protection and participate in the prevention\nand combating of violations of regulations on personal data protection.\nSection 2\nPERSONAL DATA PROTECTION IN PROCESSING PERSONAL DATA\n\nArticle 11. Consent of data subjects"
+   }
+  },
+  {
+   "id": "VN-H106-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "1. The consent of a data subject shall be required for all activities in the processing of"
+   },
+   "text": {
+    "en": "1. The consent of a data subject shall be required for all activities in the processing of\npersonal data, unless otherwise provided for by law."
+   }
+  },
+  {
+   "id": "VN-H106-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "2. The consent of a data subject is only valid when it is voluntary and the data subject"
+   },
+   "text": {
+    "en": "2. The consent of a data subject is only valid when it is voluntary and the data subject\nclearly knows the following:\na) The type of personal data to be processed;\nb) The purposes of processing the personal data;\nc) Organizations and/or individuals permitted to process the personal data;\nd) His/her rights and obligations."
+   }
+  },
+  {
+   "id": "VN-H106-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "3. The consent of a data subject must be expressed clearly and s pecifically in writing,"
+   },
+   "text": {
+    "en": "3. The consent of a data subject must be expressed clearly and s pecifically in writing,\nby voice, by ticking a consent box, in the syntax of consent via text message, by selecting the\nconsent technical settings or by another action that shows his/her consent."
+   }
+  },
+  {
+   "id": "VN-H106-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "4. The consent must be made for a single purpose. When there  are multiple purposes,"
+   },
+   "text": {
+    "en": "4. The consent must be made for a single purpose. When there  are multiple purposes,\nthe Personal Data Controller or Personal Data Controller -Processor shall list the purposes for\nthe data subject to agree to one or more of the listed purposes."
+   }
+  },
+  {
+   "id": "VN-H106-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "5. The consent of a data subject must be expressed in a format that can be printed, or"
+   },
+   "text": {
+    "en": "5. The consent of a data subject must be expressed in a format that can be printed, or\nreproduced in writing, including in electronic form or verifiable format."
+   }
+  },
+  {
+   "id": "VN-H106-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "6. The silence or non-response of the data subject is not considered as consent."
+   },
+   "text": {
+    "en": "6. The silence or non-response of the data subject is not considered as consent."
+   }
+  },
+  {
+   "id": "VN-H106-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "7. The data subject may give partial or conditional consent."
+   },
+   "text": {
+    "en": "7. The data subject may give partial or conditional consent."
+   }
+  },
+  {
+   "id": "VN-H106-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "8. For the processing of sensitive personal data, the data subject must be informed that"
+   },
+   "text": {
+    "en": "8. For the processing of sensitive personal data, the data subject must be informed that\nthe data to be processed is sensitive personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "9. The consent of a data subject is valid until the data subject decides otherwise or the"
+   },
+   "text": {
+    "en": "9. The consent of a data subject is valid until the data subject decides otherwise or the\ncompetent state agency requests otherwise in writing."
+   }
+  },
+  {
+   "id": "VN-H106-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "10. In the event of a dispute, the responsibility for proving the consent of the data"
+   },
+   "text": {
+    "en": "10. In the event of a dispute, the responsibility for proving the consent of the data\nsubject lies on the Personal Data Controller or Personal Data Controller-Processor."
+   }
+  },
+  {
+   "id": "VN-H106-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "11. With authorization in accordance with the provisions of the Civil Code,"
+   },
+   "text": {
+    "en": "11. With authorization in accordance with the provisions of the Civil Code,\norganizations and/or individuals may act on behalf of the data subject to carry out procedures\nrelating to the processing of his/her personal data with the Personal Data Controller or Personal\nData Controller-Processor in the event that the data subject clearly knows and give consent as\nprescribed in Clause 3 of this Article, unless otherwise provided for by law.\nArticle 12. Withdrawal of consent"
+   }
+  },
+  {
+   "id": "VN-H106-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "1. Withdrawal of consent does not affect the legality of the data processing that was"
+   },
+   "text": {
+    "en": "1. Withdrawal of consent does not affect the legality of the data processing that was\nconsented to prior to the withdrawal of consent."
+   }
+  },
+  {
+   "id": "VN-H106-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "2. Withdrawal of consent must be in a format that can be printed  or reproduced in"
+   },
+   "text": {
+    "en": "2. Withdrawal of consent must be in a format that can be printed  or reproduced in\nwriting, including in electronic form or verifiable format."
+   }
+  },
+  {
+   "id": "VN-H106-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "3. Upon receiving a request for withdrawal of consent from a data subject, the Personal"
+   },
+   "text": {
+    "en": "3. Upon receiving a request for withdrawal of consent from a data subject, the Personal\nData Controller or Personal Data Controller-Processor shall notify the data subject of possible\nconsequences and damages when the consent is withdrawn."
+   }
+  },
+  {
+   "id": "VN-H106-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "4. After implementing the provisions in Clause 2 of this Article, the Personal Data"
+   },
+   "text": {
+    "en": "4. After implementing the provisions in Clause 2 of this Article, the Personal Data\nController, the Personal Data Processor, the Personal Data Controller-Processor, and any Third\nParty must stop  processing and request relevant organizations and individuals to stop\nprocessing the data of the data subject withdrawing his/her consent.\nArticle 13. Notice of personal data processing"
+   }
+  },
+  {
+   "id": "VN-H106-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "1. The notice is made once before processing personal data."
+   },
+   "text": {
+    "en": "1. The notice is made once before processing personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "2. The contents of the notice given to the data subject about personal data processing"
+   },
+   "text": {
+    "en": "2. The contents of the notice given to the data subject about personal data processing\ninclude:\na) The purpose(s) of processing;\nb) The type of personal data to be process ed in relation to the purposes of processing\nspecified in Point a, Clause 2 of this Article;\nc) The method of processing;\nd) Information about other organizations and/or individuals relating to the purposes of\nprocessing specified in Point a, Clause 2 of this Article;\ndd) Potential unexpected consequences and/or damages;\ne) The start time and the end time of personal data processing."
+   }
+  },
+  {
+   "id": "VN-H106-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "3. The notice to the data subject must be given in a format that can be printed, or"
+   },
+   "text": {
+    "en": "3. The notice to the data subject must be given in a format that can be printed, or\nreproduced in writing, including in electronic form or verifiable format."
+   }
+  },
+  {
+   "id": "VN-H106-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "4. The Personal Data Controller or Personal Data Controller -Processor does not need"
+   },
+   "text": {
+    "en": "4. The Personal Data Controller or Personal Data Controller -Processor does not need\nto comply with the provisions in Clause 1 of this Article in the following cases:\na) The data subject clearly knows and fully agrees with the contents specified in Clauses\n1 and 2 of this Article before agreeing to the Personal Data Controller’s or Personal Data\nController- Processor’s collection of personal data in accordance with the provisions in Article\n9 of this Decree;\nb) Personal data is processed by a competent state agency for serving the operations of\nthe state agency in accordance with the law.\nArticle 14. Provision of personal data"
+   }
+  },
+  {
+   "id": "VN-H106-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "1. The data subject may request the Personal Data Controller or Personal Data"
+   },
+   "text": {
+    "en": "1. The data subject may request the Personal Data Controller or Personal Data\nController-Processor to provide to the data subject his/her own personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "2. The Personal Data Controller or Personal Data Controller-Processor may:"
+   },
+   "text": {
+    "en": "2. The Personal Data Controller or Personal Data Controller-Processor may:\na) Provide personal data of the data subject to other organizations and/or individuals\nwith the consent of the data subject, unless otherwise provided for by law;\nb) Provide personal data of the data subject on his/her behalf to other organizations\nand/or individuals with his/her agreement to such representation and authorization, unless\notherwise provided for by law."
+   }
+  },
+  {
+   "id": "VN-H106-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "3. The provision of personal data of the data subject is to be carried out by the Personal"
+   },
+   "text": {
+    "en": "3. The provision of personal data of the data subject is to be carried out by the Personal\nData Controller or Personal Data Controller-Processor within 72 hours after the request of the\ndata subject, unless otherwise provided by law."
+   }
+  },
+  {
+   "id": "VN-H106-A81",
+   "no": 81,
+   "noLabel": {
+    "en": "4. The Personal Data Controller or Personal Data Controller-Processor may not provide"
+   },
+   "text": {
+    "en": "4. The Personal Data Controller or Personal Data Controller-Processor may not provide\npersonal data in the following cases:\na) [When the provision] causes harm to national defense, national security, and/or social\norder and safety;\nb) When the provision of personal data of the data subject may affect the safety, and/or\nphysical or mental health of others;\nc) When the data subject does not agree to the provision, or representation, or\nauthorization of the receipt of personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A82",
+   "no": 82,
+   "noLabel": {
+    "en": "5. Forms of request to provide personal data:"
+   },
+   "text": {
+    "en": "5. Forms of request to provide personal data:\na) The data subject directly or by authorizing another person comes to the headquarters\nof the Personal Data Controller or Personal Data Controller -Processor to request provision of\npersonal data.\nThe request receiver is responsible for guiding the requestor to fill in the request form\nfor provision of personal data.\nIf the requestor is illiterate or disabled and cannot write the request, the request receiver\nshall be responsible for helping to fill in the request form for provision of personal data;\nb) The writt en request for provision of personal data, made under Forms No. 01 and\nNo. 02 attached in the Appendix to this Decree shall be sent via electronic network, by post or\nfax to the Personal Data Controller or Personal Data Controller-Processor."
+   }
+  },
+  {
+   "id": "VN-H106-A83",
+   "no": 83,
+   "noLabel": {
+    "en": "6. The request  form for provision of personal data must be written in Vietnamese,"
+   },
+   "text": {
+    "en": "6. The request  form for provision of personal data must be written in Vietnamese,\nincluding the following main contents:\na) Full name; place of residence, address; identity card number, citizen identification\ncard number or passport number of the requestor; fax number, telephone, email address (if\nany);\n\nb) Personal data requested, including the name of the document, file or material;\nc) Form of provision of personal data;\nd) Reasons and purposes for requesting provision of personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A84",
+   "no": 84,
+   "noLabel": {
+    "en": "7. The request for provision of personal data specified in Clause 2 of this Article must"
+   },
+   "text": {
+    "en": "7. The request for provision of personal data specified in Clause 2 of this Article must\nbe accompanied by the written consent of the relevant individual or organization."
+   }
+  },
+  {
+   "id": "VN-H106-A85",
+   "no": 85,
+   "noLabel": {
+    "en": "8. Receipt of requests for provision of personal data"
+   },
+   "text": {
+    "en": "8. Receipt of requests for provision of personal data\na) The Personal Data Controller or Personal Data Controller-Processor are responsible\nfor receiving requests for provision of personal data and monitoring the process and list of the\nprovision of personal data according to the requests;\nb) If the requested personal data does not fall under its authority, the Personal Data\nController or Personal Data Controller-Processor receiving the request must notify and direct\nthe requestor to the competent agency, or clearly notify its inability to provide personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A86",
+   "no": 86,
+   "noLabel": {
+    "en": "9. Handling requests for provision of personal data"
+   },
+   "text": {
+    "en": "9. Handling requests for provision of personal data\nUpon receiving a valid request for provision of personal data, the Personal Data\nController or Personal Data Controller-Processor responsible for providing personal data shall\nnotify the time limit, location, and form of provision of personal data; actual  expenses for\nprinting, copying, photocopying and sending information by post and/or fax (if any), and\npayment method and payment term; and provide personal data according to the order and\nprocedures specified in this Article.\nArticle 15. Correction of personal data"
+   }
+  },
+  {
+   "id": "VN-H106-A87",
+   "no": 87,
+   "noLabel": {
+    "en": "1. Data subjects:"
+   },
+   "text": {
+    "en": "1. Data subjects:\na) Can a ccess to view and correct/edit their personal data after collection by the\nPersonal Data Controller or Personal Data Controller-Processor with their consent , unles s\notherwise provided for by law;\nb) If it is not possible to directly correct/edit [their personal data] for technical reasons\nor for other reasons, the data subject may request the Personal Data Controller or Personal Data\nController-Processor to correct/edit their personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A88",
+   "no": 88,
+   "noLabel": {
+    "en": "2. The Personal Data Controller or Personal Data Controller-Processor shall correct/edit"
+   },
+   "text": {
+    "en": "2. The Personal Data Controller or Personal Data Controller-Processor shall correct/edit\nthe personal data of the data subject after obtaining the consent of the personal data subject as\nsoon as possible or in accordance with the specialized laws. If it is not possible, the data subject\nmust be notified 72 hours after the receipt of his/her request for correction of his/her personal\ndata."
+   }
+  },
+  {
+   "id": "VN-H106-A89",
+   "no": 89,
+   "noLabel": {
+    "en": "3. The Personal Data Processor  or a Third Party may correct/edit the personal data of"
+   },
+   "text": {
+    "en": "3. The Personal Data Processor  or a Third Party may correct/edit the personal data of\nthe data subject after obtaining the written consent of the Personal Data Controller or Personal\nData Controller-Processor and fully knowing that the consent of the data subject has been\nobtained.\n\nArticle 16. Storage, deletion and destruction of personal data"
+   }
+  },
+  {
+   "id": "VN-H106-A90",
+   "no": 90,
+   "noLabel": {
+    "en": "1. Data subjects may request the Personal Data Controller or the Personal Data"
+   },
+   "text": {
+    "en": "1. Data subjects may request the Personal Data Controller or the Personal Data\nController-Processor to delete their personal data in the following cases:\na) The data subjects find it is no longer necessary for the agreed purpose of collection\nand accepts any possible damages upon the request for data deletion;\nb) The data subjects withdraw their consent;\nc) The data subjects object to the processing of data and the Personal Data Controller\nor Personal Data Controller-Processor does not have a legitimate reason to continue processing;\nd) The personal data is not processed in accordance with the agreed purpose or the\nprocessing of personal data is in violation of the law;\ndd) The personal data must be deleted in accordance with the law."
+   }
+  },
+  {
+   "id": "VN-H106-A91",
+   "no": 91,
+   "noLabel": {
+    "en": "2. Data deletion shall not apply at the request of the data subject in the following cases:"
+   },
+   "text": {
+    "en": "2. Data deletion shall not apply at the request of the data subject in the following cases:\na) The law does not allow the deletion of the data;\nb) The personal data is processed by a competent state agency for the purpose of serving\nthe operation of the state agency in accordance with the law;\nc) The personal data has been publicly disclosed in accordance with the law;\nd) The personal data is processed for the purpose of serving requirements of the law,\nscientific research or statistics in accordance with the law;\ndd) In the event of an emergency of national defense, national security, social order and\nsafety, major disasters, or dangerous epidemics; when there is a risk of threatening national\nsecurity and national defense but not to the extent of declaring a state of emergency; to prevent\nand combat riots and terrorism; to prevent and combat crimes and law violations;\ne) In response to an emergency situation that threatens the life, health or safety of the\ndata subject or others in an emergency."
+   }
+  },
+  {
+   "id": "VN-H106-A92",
+   "no": 92,
+   "noLabel": {
+    "en": "3. In the event that  an enterprise is divided, separated, merged, consolidated or"
+   },
+   "text": {
+    "en": "3. In the event that  an enterprise is divided, separated, merged, consolidated or\ndissolved, personal data shall be transferred in accordance with the law."
+   }
+  },
+  {
+   "id": "VN-H106-A93",
+   "no": 93,
+   "noLabel": {
+    "en": "4. In the event of division, separation or merger of agencies, organizations or"
+   },
+   "text": {
+    "en": "4. In the event of division, separation or merger of agencies, organizations or\nadministrative bodies, or reorganization or  transformation of the ownership form of state\nenterprises, personal data shall be transferred in accordance with the law."
+   }
+  },
+  {
+   "id": "VN-H106-A94",
+   "no": 94,
+   "noLabel": {
+    "en": "5. Data deletion shall be carried out within 72 hours upon the request of the data subject"
+   },
+   "text": {
+    "en": "5. Data deletion shall be carried out within 72 hours upon the request of the data subject\nwith respect to all personal data collected b y the Personal Data Controller or Personal Data\nController-Processor, unless otherwise provided by law."
+   }
+  },
+  {
+   "id": "VN-H106-A95",
+   "no": 95,
+   "noLabel": {
+    "en": "6. The Personal Data Controller, Personal Data Controller -Processor, Personal Data"
+   },
+   "text": {
+    "en": "6. The Personal Data Controller, Personal Data Controller -Processor, Personal Data\nProcessor, and/or Third Party shall store personal data in a form approp riate to its operations\n\nand have measures to protect personal data in accordance with the law."
+   }
+  },
+  {
+   "id": "VN-H106-A96",
+   "no": 96,
+   "noLabel": {
+    "en": "7. The Personal Data Controller, Personal Data Controller -Processor, Personal Data"
+   },
+   "text": {
+    "en": "7. The Personal Data Controller, Personal Data Controller -Processor, Personal Data\nProcessor, and/or Third Party shall irrecoverably delete data in the following cases:\na) The data is processed for improper purposes or the purpose of processing personal\ndata has been fulfilled with the consent of the data subject;\nb) The storage of personal data is no longer necessary for the operation of the Personal\nData Controller, Personal Data Controller-Processor, Personal Data Processor, or Third Party;\nc) The Personal Data Controller, Personal Data Controller -Processor, Personal Data\nProcessor, or Third Party is dissolved or no longer operates or declares bankruptcy or has its\nbusiness activities terminated in accordance with the law.\nArticle 17. Cases where processing of personal data does not require the consent of\nthe data subject"
+   }
+  },
+  {
+   "id": "VN-H106-A97",
+   "no": 97,
+   "noLabel": {
+    "en": "1. In an emergency situation, when relevant personal data needs be processed"
+   },
+   "text": {
+    "en": "1. In an emergency situation, when relevant personal data needs be processed\nimmediately to protect the life and health of the data subject or others. It is the responsibility\nof the Personal Data Controller, Personal Data Controller-Processor, Personal Data Processor,\nor a Third Party to prove this case."
+   }
+  },
+  {
+   "id": "VN-H106-A98",
+   "no": 98,
+   "noLabel": {
+    "en": "2. Disclosure of personal data in accordance with the law."
+   },
+   "text": {
+    "en": "2. Disclosure of personal data in accordance with the law."
+   }
+  },
+  {
+   "id": "VN-H106-A99",
+   "no": 99,
+   "noLabel": {
+    "en": "3. Processing of personal data by a competent state agency in the event of an emergency"
+   },
+   "text": {
+    "en": "3. Processing of personal data by a competent state agency in the event of an emergency\nof national defense, national security, social order and safety, major disaster, or dangerous\nepidemic; when there is a risk of threatening security and national defense but not to the extent\nof declaring a state of emergency; to prevent and combat riots a nd terrorism; to prevent and\ncombat crimes and law violations in accordance with the law."
+   }
+  },
+  {
+   "id": "VN-H106-A100",
+   "no": 100,
+   "noLabel": {
+    "en": "4. To f ulfill the contractual obligations of the data subject with relevant agencies,"
+   },
+   "text": {
+    "en": "4. To f ulfill the contractual obligations of the data subject with relevant agencies,\norganizations, and individuals as prescribed by law."
+   }
+  },
+  {
+   "id": "VN-H106-A101",
+   "no": 101,
+   "noLabel": {
+    "en": "5. To serve the activities of state agencies as prescribed by specialized laws."
+   },
+   "text": {
+    "en": "5. To serve the activities of state agencies as prescribed by specialized laws.\nArticle 18. Processing of personal data obtained from audio and video recording\nactivities in public places\nCompetent agencies and organizations may carry out audio and/or video recording and\nprocess personal data obtained from audio or video recording activities in public places for the\npurpose of protecting national security, social order and safety, or the legitimate rights and\ninterests of organizations and individuals as prescribed by law without the consent of the data\nsubject. When carrying out audio and/or video recording, it is the responsibility of competent\nagencies and organizations to notify the data subject so that he/she can understand that he/she\nis being recorded or filmed, unless otherwise provided for by law.\nArticle 19. Processing of personal data of persons declared missing or deceased"
+   }
+  },
+  {
+   "id": "VN-H106-A102",
+   "no": 102,
+   "noLabel": {
+    "en": "1. The processing of personal data related to the personal data of a person who is"
+   },
+   "text": {
+    "en": "1. The processing of personal data related to the personal data of a person who is\ndeclared missing or deceased must be consented to by his/her spouse or his/her adult\nchild/children. In the absence of such persons, the consent must be obtained from the father or\nmother of the person declared missing or deceased, except for the cases specified in Articles\n17 and 18 of this Decree."
+   }
+  },
+  {
+   "id": "VN-H106-A103",
+   "no": 103,
+   "noLabel": {
+    "en": "2. In the absence of all the persons mentioned in Clause 1 of this Article, it is considered"
+   },
+   "text": {
+    "en": "2. In the absence of all the persons mentioned in Clause 1 of this Article, it is considered\nthat there is no consent.\nArticle 20. Processing of children’s personal data"
+   }
+  },
+  {
+   "id": "VN-H106-A104",
+   "no": 104,
+   "noLabel": {
+    "en": "1. Processing of children’s personal data is always done in accordance with the"
+   },
+   "text": {
+    "en": "1. Processing of children’s personal data is always done in accordance with the\nprinciple of protecting the rights and in the best interests of children."
+   }
+  },
+  {
+   "id": "VN-H106-A105",
+   "no": 105,
+   "noLabel": {
+    "en": "2. The processing of children’s personal data must be consented to by the child in cases"
+   },
+   "text": {
+    "en": "2. The processing of children’s personal data must be consented to by the child in cases\nwhere the child is a full 7 years of age or older and must [also] be consented to by the parent\nor guardian as prescribed, except for cases specified by the provisions of Article 17 of this\nDecree. The Personal Data Controller, Personal Data Controller -Processor, Personal Data\nProcessor, or a Third Party must verify the age of children before processing children’s\npersonal data."
+   }
+  },
+  {
+   "id": "VN-H106-A106",
+   "no": 106,
+   "noLabel": {
+    "en": "3. Children’s personal data must be stopped from processing, and must be irrecoverably"
+   },
+   "text": {
+    "en": "3. Children’s personal data must be stopped from processing, and must be irrecoverably\ndeleted or destroyed in the following cases:\na) The data is processed for improper purposes or the purpose of processing personal\ndata has been fulfilled with the consent of the data subject, unless otherwise provided for by\nlaw;\nb) The child’s parent or guardian withdraws his/her consent to the processing of the\nchild’s personal data, unless otherwise provided for by law;\nc) At the request of a competent functional authority when there are sufficient grounds\nto prove that the processing of personal data affects children’s legitimate rights and interests,\nunless otherwise provided for by law.\nArticle 21. Protection of personal data in the business of services of marketing\nand/or introduction of advertising products"
+   }
+  },
+  {
+   "id": "VN-H106-A107",
+   "no": 107,
+   "noLabel": {
+    "en": "1. Organizations and individuals providing services of marketing and/or introduction of"
+   },
+   "text": {
+    "en": "1. Organizations and individuals providing services of marketing and/or introduction of\nadvertising products may only use customers’ personal data collected through their business\nactivities to provide services of marketing and/or introduction of advertising products with the\nconsent of the data subject."
+   }
+  },
+  {
+   "id": "VN-H106-A108",
+   "no": 108,
+   "noLabel": {
+    "en": "2. The processing of a customer’s personal data to provide services of marketing and/or"
+   },
+   "text": {
+    "en": "2. The processing of a customer’s personal data to provide services of marketing and/or\nintroduction of advertising products must be done with the consent of the customer, on the\nbasis that the customer is well aware of the contents, methods, forms, and frequency of product\nintroduction."
+   }
+  },
+  {
+   "id": "VN-H106-A109",
+   "no": 109,
+   "noLabel": {
+    "en": "3. Organizations and individuals providing services of marketing and/or introduction of"
+   },
+   "text": {
+    "en": "3. Organizations and individuals providing services of marketing and/or introduction of\nadvertising products are responsible for proving that the use of personal data of customers to\nwhom products are introduced is in accord with the provisions of Clauses 1 and 2 of this\n\nArticle.\nArticle 22. Unauthorized/ illegal collection, transfer, purchase and sale of personal\ndata"
+   }
+  },
+  {
+   "id": "VN-H106-A110",
+   "no": 110,
+   "noLabel": {
+    "en": "1. Organizations and individuals involved in personal data processing must apply"
+   },
+   "text": {
+    "en": "1. Organizations and individuals involved in personal data processing must apply\npersonal data protection measures to prevent unauthorized /illegal collection of personal data\nfrom the systems and equipment used for their services."
+   }
+  },
+  {
+   "id": "VN-H106-A111",
+   "no": 111,
+   "noLabel": {
+    "en": "2. It is a violation of law  to set up software systems, technical measures or organize"
+   },
+   "text": {
+    "en": "2. It is a violation of law  to set up software systems, technical measures or organize\nactivities of collecting, transferring, purchasing or selling personal data without the consent of\ndata subjects.\nArticle 23. Notice on violation of regulations on personal data protection"
+   }
+  },
+  {
+   "id": "VN-H106-A112",
+   "no": 112,
+   "noLabel": {
+    "en": "1. When detecting a violation of regulations on personal data protection, the Personal"
+   },
+   "text": {
+    "en": "1. When detecting a violation of regulations on personal data protection, the Personal\nData Controller or Personal Data Controller -Processor shall notify the Ministry of Public\nSecurity (Department of Cybersecurity and High-Tech Crime Prevention) within 72 hours after\nthe violation occurs according to Form No. 03 in the Appendices to this Decree. If the notice\nis made after 72 hours, the reason for the delayed/late notice must be attached."
+   }
+  },
+  {
+   "id": "VN-H106-A113",
+   "no": 113,
+   "noLabel": {
+    "en": "2. The Personal Data Processor must notify the Personal Data Controller as quickly as"
+   },
+   "text": {
+    "en": "2. The Personal Data Processor must notify the Personal Data Controller as quickly as\npossible after noticing a violation on regulations on personal data protection."
+   }
+  },
+  {
+   "id": "VN-H106-A114",
+   "no": 114,
+   "noLabel": {
+    "en": "3. Contents of notice on violation of regulations on personal data protection:"
+   },
+   "text": {
+    "en": "3. Contents of notice on violation of regulations on personal data protection:\na) Description of the nature of the breach of regulations on personal data protection,\nincluding: time, place, act, organization, individual, types of personal data and amount/ size of\nrelevant data;\nb) Contact details of the employee a ssigned the task of data protection or the\norganization or individual responsible for the protection of personal data;\nc) Description of possible consequences and/or damages of the violation of regulations\non personal data protection;\nd) Description of the measures taken to address and minimize the harm of violations of\nregulations on personal data protection."
+   }
+  },
+  {
+   "id": "VN-H106-A115",
+   "no": 115,
+   "noLabel": {
+    "en": "4. In cases where it is not possible to fully report the contents specified in Clause 3 of"
+   },
+   "text": {
+    "en": "4. In cases where it is not possible to fully report the contents specified in Clause 3 of\nthis Article, the notice may be made in batches and/or stages."
+   }
+  },
+  {
+   "id": "VN-H106-A116",
+   "no": 116,
+   "noLabel": {
+    "en": "5. The Personal Data Controller or Personal Data Controller -Processor must make a"
+   },
+   "text": {
+    "en": "5. The Personal Data Controller or Personal Data Controller -Processor must make a\nwritten Confirmation of the occurrence of violations of regulations on personal data protection,\nand coordinate with the Ministry of Public Security (Department of Cybersecurit y and High-\nTech Crime Prevention) to handle the violations."
+   }
+  },
+  {
+   "id": "VN-H106-A117",
+   "no": 117,
+   "noLabel": {
+    "en": "6. Organizations and individuals shall notify the Ministry of Public Security"
+   },
+   "text": {
+    "en": "6. Organizations and individuals shall notify the Ministry of Public Security\n(Department of Cybersecurity and High-Tech Crime Prevention) when detecting the following\ncases:\n\na) Detecting violations of the law on personal data;\nb) Personal data is processed for incorrect purposes, not in accordance with the original\nagreement between the data subject and the Personal Data Controller or Personal Data\nController-Processor, or in contravention of the provisions of law;\nc) The rights of the data subject are not protected or not properly implemented;\nd) Other cases as prescribed by law.\nSection 3\nIMPACT ASSESSMENT AND CROSS-BORDER TRANSFER OF PERSONAL\nDATA\nArticle 24. Impact assessment of personal data processing"
+   }
+  },
+  {
+   "id": "VN-H106-A118",
+   "no": 118,
+   "noLabel": {
+    "en": "1. The Personal Data Controller or Personal Data Controller-Processor shall make and"
+   },
+   "text": {
+    "en": "1. The Personal Data Controller or Personal Data Controller-Processor shall make and\nkeep its Personal Data Processing Impact Assessment Record from the time it starts processing\npersonal data.\nThe Personal Data Processing Impact Assessment Record of the Personal Data\nController or Personal Data Controller-Processor shall contain:\na) Information and contact details of the Personal Data Controller or Personal Data\nController-Processor;\nb) Full names and contact details of the organization assigned to perform the task of\nprotecting personal data and the personal data protection officer of the Personal Data Controller\nor Personal Data Controller-Processor;\nc) The purpose of the personal data processing;\nd) The categories of personal data to be processed;\ndd) Organizations and/or individuals receiving personal data, including organizations\nand/or individuals outside of Vietnam;\ne) Instances/ Cases of cross-border transfer of personal data;\ng) The period of time/ time for processing personal data; the envisaged period of time/\nestimated time for deleting or destroying personal data (if any);\nh) A description of the personal data protection measures applied;\n(i) Assessment of the impact of the processing of personal data; potential unexpected\nconsequences and/or damages, and measures to minimize or eliminate such risk or harm."
+   }
+  },
+  {
+   "id": "VN-H106-A119",
+   "no": 119,
+   "noLabel": {
+    "en": "2.  The Personal Data Processor shall make and keep a Personal Data Processing Impact"
+   },
+   "text": {
+    "en": "2.  The Personal Data Processor shall make and keep a Personal Data Processing Impact\nAssessment Record in the case of implementation of a contract with the  Personal Data\nController. The Personal Data Processing Impact Assessment Record of the Personal Data\nProcessor shall contain:\n\na) Information and contact details of the Personal Data Processor;\nb) Full names and contact details of the organization assigned to process personal data\nand the personal data processing officer of the Personal Data Processor;\nc) A description of the processing activities and the categories of personal data\nprocessed under the contract with the Personal Data Controller;\nd) The period of time/time for processing personal data; the envisaged period of time /\nestimated time for deleting or destroying personal data (if any);\ndd) Instances/ Cases of cross-border transfer of personal data;\ne) A general description of the personal data protection measures applied;\ng) Potential unexpected consequences and/or damages, and measures to minimize or\neliminate such risk or harm."
+   }
+  },
+  {
+   "id": "VN-H106-A120",
+   "no": 120,
+   "noLabel": {
+    "en": "3. The Personal Data Processing Impact Assessment Record specified in Clauses 1 and"
+   },
+   "text": {
+    "en": "3. The Personal Data Processing Impact Assessment Record specified in Clauses 1 and\n2 of this Article is made in writing with le gal validity by the Personal Data Controller, the\nPersonal Data Controller-Processor or the Personal Data Processor."
+   }
+  },
+  {
+   "id": "VN-H106-A121",
+   "no": 121,
+   "noLabel": {
+    "en": "4. The Personal Data Processing Impact Assessment Record must always be available"
+   },
+   "text": {
+    "en": "4. The Personal Data Processing Impact Assessment Record must always be available\nfor inspection and evaluation by the Ministry of Public Security and one original copy thereof\nmust be sent to the Ministry of Public Security ( Department of Cybersecurity and High -Tech\nCrime Prevention) according to Form No. 04 in the Appendices to this Decree within 60 days\nfrom the date of processing of personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A122",
+   "no": 122,
+   "noLabel": {
+    "en": "5. The Ministry of Public Security (Department of Cybersecurity and High-Tech Crime"
+   },
+   "text": {
+    "en": "5. The Ministry of Public Security (Department of Cybersecurity and High-Tech Crime\nPrevention) shall evaluate, and request the Personal Data Controller, the P ersonal Data\nController-Processor or the Personal Data Processor to complete the Personal Data Processing\nImpact Assessment Record if the record is incomplete and not in accordance with regulations."
+   }
+  },
+  {
+   "id": "VN-H106-A123",
+   "no": 123,
+   "noLabel": {
+    "en": "6. The Personal Data Controller, the Personal Data Controller-Processor or the Personal"
+   },
+   "text": {
+    "en": "6. The Personal Data Controller, the Personal Data Controller-Processor or the Personal\nData Processor shall update and supplement the Personal Data Processing Impact Assessment\nRecord when there is a change in the contents of the Record sent to the Ministry of Public\nSecurity (Department of Cybersecurity and High -Tech Crime Prevention) according to Form\nNo. 05 in the Appendices to this Decree.\nArticle 25. Cross-border Transfer of personal data"
+   }
+  },
+  {
+   "id": "VN-H106-A124",
+   "no": 124,
+   "noLabel": {
+    "en": "1. Personal data of Vietnamese citizens can be  cross-border transferred if the Data"
+   },
+   "text": {
+    "en": "1. Personal data of Vietnamese citizens can be  cross-border transferred if the Data\nTransferring Party makes a Record of Impact Assessment of Cross-border transfer of personal\ndata and carries out the procedures as prescribed in Clauses 3, 4 and 5 of this Article. The\nparties transferring data outside of Vietnam include the Personal Data Controller, the Personal\nData Controller-Processor, the Personal Data Processor or a Third Party."
+   }
+  },
+  {
+   "id": "VN-H106-A125",
+   "no": 125,
+   "noLabel": {
+    "en": "2. A Record of Impact Assessment of Cross -border transfer of personal data  shall"
+   },
+   "text": {
+    "en": "2. A Record of Impact Assessment of Cross -border transfer of personal data  shall\ncontain:\na) Information and contact details of the Party transferring and the Party receiving\n\npersonal data of Vietnamese citizens;\nb) Full names and contact details of the organization and/or individual in charge of the\nData Transferring Party related to the transfer an d receipt of personal data of Vietnamese\ncitizens;\nc) Description and explanation of the objectives of the activities of processing personal\ndata of Vietnamese citizens after being cross-border transferred;\nd) Description and clarification of the categories of p ersonal data being cross-border\ntransferred;\ndd) Description and clear statement of compliance with regulations on personal data\nprotection in this Decree, detailing the personal data protection measures applied;\ne) Assessment of the impact of the processing of personal data; potential unexpected\nconsequences and/or damages, and measures to minimize or eliminate such risk or harm;\ng) The consent of the data subject as prescribed in Article 11 of this Decree, on the basis\nof being well aware of the response and complaint mechanism when incidents or requests arise;\nh) A document showing the binding and responsibility between organizations a nd\nindividuals that transfer and receive personal data of Vietnamese citizens for the processing of\npersonal data."
+   }
+  },
+  {
+   "id": "VN-H106-A126",
+   "no": 126,
+   "noLabel": {
+    "en": "3. The Record of Impact Assessment of Cross -border transfer of personal data  must"
+   },
+   "text": {
+    "en": "3. The Record of Impact Assessment of Cross -border transfer of personal data  must\nalways be available to serve the inspection and evaluation act ivities of the Ministry of Public\nSecurity.\nThe party cross-border transferring data shall send 01 original of the Record to the\nMinistry of Public Security ( Department of Cybersecurity and High -Tech Crime Prevention)\naccording to Form 06 in the Appendices  to this Decree within 60 days from the date of\nprocessing of personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A127",
+   "no": 127,
+   "noLabel": {
+    "en": "4. The Data Transferring Party shall notify the Ministry of Public Security (Department"
+   },
+   "text": {
+    "en": "4. The Data Transferring Party shall notify the Ministry of Public Security (Department\nof Cybersecurity and High -Tech Crime Prevention ) in writing of information about the data\ntransfer and contact details of the organization and/or individual in charge after the data transfer\nhas taken place successfully."
+   }
+  },
+  {
+   "id": "VN-H106-A128",
+   "no": 128,
+   "noLabel": {
+    "en": "5. The Ministry of Public Security (Department of Cybersecurity and High-Tech Crime"
+   },
+   "text": {
+    "en": "5. The Ministry of Public Security (Department of Cybersecurity and High-Tech Crime\nPrevention) shall evaluate and request the Data Transferring Party to complete the Record of\nImpact Assessment of Cross -border transfer of personal data  if the Record is incomplete and\nnot in accordance with regulations."
+   }
+  },
+  {
+   "id": "VN-H106-A129",
+   "no": 129,
+   "noLabel": {
+    "en": "6. The party cross-border transferring data shall update and supplement the Record of"
+   },
+   "text": {
+    "en": "6. The party cross-border transferring data shall update and supplement the Record of\nImpact Assessment of Cross -border transfer of personal data  when there is a change in the\ncontents of the Record sent to the Ministry of Public Security ( Department of Cybersecurity\nand High-Tech Crime Prevention) according to Form No. 05 in the Appendices to this Decree.\nThe time limit to complete the Record for the Party  cross-border transferring data is 10 days\nfrom the date of request."
+   }
+  },
+  {
+   "id": "VN-H106-A130",
+   "no": 130,
+   "noLabel": {
+    "en": "7. Based on the specific situation, the Ministry of Public Security shall decide to inspect"
+   },
+   "text": {
+    "en": "7. Based on the specific situation, the Ministry of Public Security shall decide to inspect\nthe cross-border transfer of personal data once a year, except for cases of detecting violations\nof the law on protection of personal data specified in this Decree or cases of disclosure or loss\nof personal data of Vietnamese citizens."
+   }
+  },
+  {
+   "id": "VN-H106-A131",
+   "no": 131,
+   "noLabel": {
+    "en": "8. The Ministry of Public Security shall decide to request the party cross-border"
+   },
+   "text": {
+    "en": "8. The Ministry of Public Security shall decide to request the party cross-border\ntransferring data to stop cross-border transferring personal data in the following cases:\na) When it is discovered that the transferred personal data is used fo r activities that\nviolate the interests and national security of the Socialist Republic of Vietnam;\nb) When the party cross-border transferring personal data fails to comply with the\nprovisions of Clauses 5 and 6 of this Article;\nc) When the party cross-border transferring data allows an incident of disclosure or\nloss of personal data of Vietnamese citizens to occur.\nSection 4\nMEASURES AND CONDITIONS TO ENSURE PROTECTION OF PERSONAL\nDATA\nArticle 26. Measures to protect personal data"
+   }
+  },
+  {
+   "id": "VN-H106-A132",
+   "no": 132,
+   "noLabel": {
+    "en": "1. Personal data protection measures shall be applied from the very beginning and"
+   },
+   "text": {
+    "en": "1. Personal data protection measures shall be applied from the very beginning and\nthroughout the processing of personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A133",
+   "no": 133,
+   "noLabel": {
+    "en": "2. Measures to protect personal data shall include:"
+   },
+   "text": {
+    "en": "2. Measures to protect personal data shall include:\na) Management measures taken by organizations or individuals related to the\nprocessing of personal data;\nb) Technical measures taken by organizations or individuals related to the processing\nof personal data;\nc) Measures taken by competent state management agencies in accordance with this\nDecree and relevant laws;\nd) Investigation and procedural measures taken by competent state agencies;\ndd) Other measures as prescribed by law.\nArticle 27. Basic personal data protection"
+   }
+  },
+  {
+   "id": "VN-H106-A134",
+   "no": 134,
+   "noLabel": {
+    "en": "1. Application of the measures specified in Clause 2, Article 26 of this Decree."
+   },
+   "text": {
+    "en": "1. Application of the measures specified in Clause 2, Article 26 of this Decree."
+   }
+  },
+  {
+   "id": "VN-H106-A135",
+   "no": 135,
+   "noLabel": {
+    "en": "2. Developing and promulgating personal data protection  policy, clearly stating what"
+   },
+   "text": {
+    "en": "2. Developing and promulgating personal data protection  policy, clearly stating what\nneeds to be done according to the provisions of this Decree."
+   }
+  },
+  {
+   "id": "VN-H106-A136",
+   "no": 136,
+   "noLabel": {
+    "en": "3. Encouraging the application of personal data protection standards appropriate to the"
+   },
+   "text": {
+    "en": "3. Encouraging the application of personal data protection standards appropriate to the\nfields, industries and activities related to the processing of personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A137",
+   "no": 137,
+   "noLabel": {
+    "en": "4. Checking network security for the system and the means and equipment in service"
+   },
+   "text": {
+    "en": "4. Checking network security for the system and the means and equipment in service\nof personal data processing before processing, irrecoverable deletion or destruction of devices\ncontaining personal data.\nArticle 28. Protection of sensitive personal data"
+   }
+  },
+  {
+   "id": "VN-H106-A138",
+   "no": 138,
+   "noLabel": {
+    "en": "1. Application of the measures specified in Clause 2, Article 26 and Article 27 of this"
+   },
+   "text": {
+    "en": "1. Application of the measures specified in Clause 2, Article 26 and Article 27 of this\nDecree."
+   }
+  },
+  {
+   "id": "VN-H106-A139",
+   "no": 139,
+   "noLabel": {
+    "en": "2. Designating a department with the function of protecting personal data, designating"
+   },
+   "text": {
+    "en": "2. Designating a department with the function of protecting personal data, designating\npersonnel in charge of personal data protection and discussing information about th e\ndepartment and individual in charge of personal data protection with the Agency specializing\nin the protection of personal data. If the Personal Data Controller, Personal Data Controller -\nProcessor, Personal Data Processor or a Third Party are individuals , information of the\nimplementing individual shall be discussed."
+   }
+  },
+  {
+   "id": "VN-H106-A140",
+   "no": 140,
+   "noLabel": {
+    "en": "3. Notifying the data subject that the sensitive personal data of the data subject shall be"
+   },
+   "text": {
+    "en": "3. Notifying the data subject that the sensitive personal data of the data subject shall be\nprocessed, except for the cases specified in Clause 4, Article 13, Article 7 and Article 18 of\nthis Decree.\nArticle 29. Agency in charge of personal data protection and national portal on\npersonal data protection"
+   }
+  },
+  {
+   "id": "VN-H106-A141",
+   "no": 141,
+   "noLabel": {
+    "en": "1. The agency in charge of personal data protection is the Department of Cybersecurity"
+   },
+   "text": {
+    "en": "1. The agency in charge of personal data protection is the Department of Cybersecurity\nand High-Tech Crime Prevention under the Ministry of Public S ecurity, which is responsible\nfor assisting the Ministry of Public Security in performing the state management of personal\ndata protection."
+   }
+  },
+  {
+   "id": "VN-H106-A142",
+   "no": 142,
+   "noLabel": {
+    "en": "2. The national portal on personal data protection shall:"
+   },
+   "text": {
+    "en": "2. The national portal on personal data protection shall:\na) Provide information on the guidelines and policies of the [Communist] Party and\nlaws of the State on personal data protection;\nb) Propagate and disseminate policies and laws on personal data protection;\nc) Update information and situation of personal data protection;\nd) Receive information, records and data on personal data protection activities through\ncyberspace;\ndd) Provide information on results of evaluation of personal data protection of relevant\nagencies, organizations and individuals;\ne) Receive notices on violations of regulations on personal data protection;\ng) Warn and coordinate in warning about risks and acts of infringing personal data in\naccordance with the law;\nh) Handle violations of personal data protection in accordance with the law;\n(i) Perform other activities in accordance with the law on personal data protection.\n\nArticle 30. Conditions for ensuring the protection of personal data"
+   }
+  },
+  {
+   "id": "VN-H106-A143",
+   "no": 143,
+   "noLabel": {
+    "en": "1. Personal data protection forces:"
+   },
+   "text": {
+    "en": "1. Personal data protection forces:\na) The personal data protection task force is located at the Agency in charge of personal\ndata protection;\nb) Departments and personnel with the function of protecting personal data designated\nin agencies, organizations and enterprises must ensure the implementation of regulations on\npersonal data protection;\nc) Organizations and individuals are mobilized to participate in the protection of\npersonal data;\nd) The Ministry of Public Security shall develop specific programs and plans to develop\nhuman resources for personal data protection."
+   }
+  },
+  {
+   "id": "VN-H106-A144",
+   "no": 144,
+   "noLabel": {
+    "en": "2. Agencies, organizations and individuals are responsible for propagating and"
+   },
+   "text": {
+    "en": "2. Agencies, organizations and individuals are responsible for propagating and\ndisseminating knowledge and skills and raisi ng awareness of personal data protection for\nagencies, organizations and individuals."
+   }
+  },
+  {
+   "id": "VN-H106-A145",
+   "no": 145,
+   "noLabel": {
+    "en": "3. Physical facilities and operating conditions for the Agency in charge of personal data"
+   },
+   "text": {
+    "en": "3. Physical facilities and operating conditions for the Agency in charge of personal data\nprotection are ensured.\nArticle 31. Funds for personal data protection activities"
+   }
+  },
+  {
+   "id": "VN-H106-A146",
+   "no": 146,
+   "noLabel": {
+    "en": "1. Financial sources for personal data protection include the state budget; support from"
+   },
+   "text": {
+    "en": "1. Financial sources for personal data protection include the state budget; support from\ndomestic and foreign agencies, organizations and individuals; revenues from the provision of\npersonal data protection services; international aid and other legitimate sources of revenue."
+   }
+  },
+  {
+   "id": "VN-H106-A147",
+   "no": 147,
+   "noLabel": {
+    "en": "2. Funds for personal data protection of state agencies shall be guaranteed by the state"
+   },
+   "text": {
+    "en": "2. Funds for personal data protection of state agencies shall be guaranteed by the state\nbudget and shall be included in the annual state budget estimates. The management and use of\nfunds from the state budget must comply with the law on state budget."
+   }
+  },
+  {
+   "id": "VN-H106-A148",
+   "no": 148,
+   "noLabel": {
+    "en": "3. Funds for personal data protection of organizations and enterprises shall be arranged"
+   },
+   "text": {
+    "en": "3. Funds for personal data protection of organizations and enterprises shall be arranged\nand implemented by organizations and enterprises themselves according to regulations.\nChapter III\nRESPONSIBILITIES OF AGENCIES, ORGANIZATIONS AND INDIVIDUALS\nArticle 32. Responsibilities of the Ministry of Public Security"
+   }
+  },
+  {
+   "id": "VN-H106-A149",
+   "no": 149,
+   "noLabel": {
+    "en": "1. To assist the Government in performing unified state management of personal data"
+   },
+   "text": {
+    "en": "1. To assist the Government in performing unified state management of personal data\nprotection."
+   }
+  },
+  {
+   "id": "VN-H106-A150",
+   "no": 150,
+   "noLabel": {
+    "en": "2. To provide guidance and implement personal data protection activities, protect the"
+   },
+   "text": {
+    "en": "2. To provide guidance and implement personal data protection activities, protect the\nrights of data subjects against acts of violating the provisions of the law on personal data\nprotection, and propose the promulgation of Standards for personal data protection and\nrecommendations for application."
+   }
+  },
+  {
+   "id": "VN-H106-A151",
+   "no": 151,
+   "noLabel": {
+    "en": "3. To set up, manage and operate the national portal on personal data protection."
+   },
+   "text": {
+    "en": "3. To set up, manage and operate the national portal on personal data protection."
+   }
+  },
+  {
+   "id": "VN-H106-A152",
+   "no": 152,
+   "noLabel": {
+    "en": "4. To evaluate results of personal data protection of relevant agencies, organizations"
+   },
+   "text": {
+    "en": "4. To evaluate results of personal data protection of relevant agencies, organizations\nand individuals."
+   }
+  },
+  {
+   "id": "VN-H106-A153",
+   "no": 153,
+   "noLabel": {
+    "en": "5. To receive records, forms and information on personal data protection according to"
+   },
+   "text": {
+    "en": "5. To receive records, forms and information on personal data protection according to\nthe provisions of this Decree."
+   }
+  },
+  {
+   "id": "VN-H106-A154",
+   "no": 154,
+   "noLabel": {
+    "en": "6. To promote meas ures and conduct research for innovation in the field of personal"
+   },
+   "text": {
+    "en": "6. To promote meas ures and conduct research for innovation in the field of personal\ndata protection, and implement international cooperation on personal data protection."
+   }
+  },
+  {
+   "id": "VN-H106-A155",
+   "no": 155,
+   "noLabel": {
+    "en": "7. To inspect, examine, and settle complaints and denunciations, and handle violations"
+   },
+   "text": {
+    "en": "7. To inspect, examine, and settle complaints and denunciations, and handle violations\nof regulations on personal data protection in accordance with the law.\nArticle 33. Responsibilities of the Ministry of Information and Communications"
+   }
+  },
+  {
+   "id": "VN-H106-A156",
+   "no": 156,
+   "noLabel": {
+    "en": "1. To direct media agencies, press, organizations and enterprises under its management"
+   },
+   "text": {
+    "en": "1. To direct media agencies, press, organizations and enterprises under its management\nto implement personal data protection according to the provisions of this Decree."
+   }
+  },
+  {
+   "id": "VN-H106-A157",
+   "no": 157,
+   "noLabel": {
+    "en": "2. To develop, provide guidance and implement measures for personal data protection,"
+   },
+   "text": {
+    "en": "2. To develop, provide guidance and implement measures for personal data protection,\nand ensure network information security for personal data in information and communication\nactivities according to the assigned functions and tasks."
+   }
+  },
+  {
+   "id": "VN-H106-A158",
+   "no": 158,
+   "noLabel": {
+    "en": "3. To coordinate with the Ministry of Public Security in inspecting, examining and"
+   },
+   "text": {
+    "en": "3. To coordinate with the Ministry of Public Security in inspecting, examining and\nhandling violations of the law on personal data protection.\nArticle 34. Responsibilities of the Ministry of National Defense\nTo manage, inspect, examine, supervise, and handle violations and apply regulations on\npersonal data protection to agencies, organizations and individuals under the management of\nthe Ministry of National Defense in accordance with the law and assigned functions and tasks.\nArticle 35. Responsibilities of the Ministry of Science and Technology"
+   }
+  },
+  {
+   "id": "VN-H106-A159",
+   "no": 159,
+   "noLabel": {
+    "en": "1. To coordinate with the Ministry of Public Security in developing Personal Da ta"
+   },
+   "text": {
+    "en": "1. To coordinate with the Ministry of Public Security in developing Personal Da ta\nProtection Standards and recommendations for the application of Personal Data Protection\nStandards."
+   }
+  },
+  {
+   "id": "VN-H106-A160",
+   "no": 160,
+   "noLabel": {
+    "en": "2. To research and discuss with the Ministry of Public Security on measures for"
+   },
+   "text": {
+    "en": "2. To research and discuss with the Ministry of Public Security on measures for\npersonal data protection to keep up with the development of science and technology.\nArticle 36. Responsibilities of ministries, ministerial -level agencies, and\nGovernment agencies"
+   }
+  },
+  {
+   "id": "VN-H106-A161",
+   "no": 161,
+   "noLabel": {
+    "en": "1. To perform state management of personal data protection for sectors and fields under"
+   },
+   "text": {
+    "en": "1. To perform state management of personal data protection for sectors and fields under\ntheir management according to the provisions of the law on personal data protection."
+   }
+  },
+  {
+   "id": "VN-H106-A162",
+   "no": 162,
+   "noLabel": {
+    "en": "2. To develop and implement the contents and tasks of personal data protection"
+   },
+   "text": {
+    "en": "2. To develop and implement the contents and tasks of personal data protection\nspecified in this Decree."
+   }
+  },
+  {
+   "id": "VN-H106-A163",
+   "no": 163,
+   "noLabel": {
+    "en": "3. To supplement regulations on personal data protection in the formulation and"
+   },
+   "text": {
+    "en": "3. To supplement regulations on personal data protection in the formulation and\n\nimplementation of tasks of ministries and sectors."
+   }
+  },
+  {
+   "id": "VN-H106-A164",
+   "no": 164,
+   "noLabel": {
+    "en": "4. To a llocate funds for personal data protection activities according to the current"
+   },
+   "text": {
+    "en": "4. To a llocate funds for personal data protection activities according to the current\nbudget management decentralization/ hierarchy."
+   }
+  },
+  {
+   "id": "VN-H106-A165",
+   "no": 165,
+   "noLabel": {
+    "en": "5. To promulgate an Open Data List in accordance with regulations on personal data"
+   },
+   "text": {
+    "en": "5. To promulgate an Open Data List in accordance with regulations on personal data\nprotection.\nArticle 37. Responsibilities of the People’s Committees of the provinces and cities\nunder direct management of the Central Government"
+   }
+  },
+  {
+   "id": "VN-H106-A166",
+   "no": 166,
+   "noLabel": {
+    "en": "1. To perform state management of personal data protection in the sectors and fields"
+   },
+   "text": {
+    "en": "1. To perform state management of personal data protection in the sectors and fields\nunder their management according to the provisions of the law on protection of personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A167",
+   "no": 167,
+   "noLabel": {
+    "en": "2. To implement regulations on personal data protection specified in this Decree."
+   },
+   "text": {
+    "en": "2. To implement regulations on personal data protection specified in this Decree."
+   }
+  },
+  {
+   "id": "VN-H106-A168",
+   "no": 168,
+   "noLabel": {
+    "en": "3. To allocate funds for personal data protection activities according to the current"
+   },
+   "text": {
+    "en": "3. To allocate funds for personal data protection activities according to the current\nbudget management decentralization/hierarchy."
+   }
+  },
+  {
+   "id": "VN-H106-A169",
+   "no": 169,
+   "noLabel": {
+    "en": "4. To promulgate an Open Data List in accordance with regulations on personal data"
+   },
+   "text": {
+    "en": "4. To promulgate an Open Data List in accordance with regulations on personal data\nprotection.\nArticle 38. Responsibilities of the Personal Data Controller"
+   }
+  },
+  {
+   "id": "VN-H106-A170",
+   "no": 170,
+   "noLabel": {
+    "en": "1. To implement organizational and technical measures and appropriate safety and"
+   },
+   "text": {
+    "en": "1. To implement organizational and technical measures and appropriate safety and\nsecurity measures to prove that data processing activities have been carried out in accordance\nwith the law on personal data protection, and to review and update these measures as necessary."
+   }
+  },
+  {
+   "id": "VN-H106-A171",
+   "no": 171,
+   "noLabel": {
+    "en": "2. To record and store system logs of personal data processing."
+   },
+   "text": {
+    "en": "2. To record and store system logs of personal data processing."
+   }
+  },
+  {
+   "id": "VN-H106-A172",
+   "no": 172,
+   "noLabel": {
+    "en": "3. To provide notifica tions of violations of regulations on personal data protection as"
+   },
+   "text": {
+    "en": "3. To provide notifica tions of violations of regulations on personal data protection as\nprescribed in Article 23 of this Decree."
+   }
+  },
+  {
+   "id": "VN-H106-A173",
+   "no": 173,
+   "noLabel": {
+    "en": "4. To select a Personal Data Processor in accordance with a clear mandate and work only"
+   },
+   "text": {
+    "en": "4. To select a Personal Data Processor in accordance with a clear mandate and work only\nwith a Personal Data Processor that has appropriate protection measures in place."
+   }
+  },
+  {
+   "id": "VN-H106-A174",
+   "no": 174,
+   "noLabel": {
+    "en": "5. To ensure the rights of data subjects as prescribed in Article 9 of this Decree."
+   },
+   "text": {
+    "en": "5. To ensure the rights of data subjects as prescribed in Article 9 of this Decree."
+   }
+  },
+  {
+   "id": "VN-H106-A175",
+   "no": 175,
+   "noLabel": {
+    "en": "6. The Personal Data Controller is responsible to the data subject for damages caused by"
+   },
+   "text": {
+    "en": "6. The Personal Data Controller is responsible to the data subject for damages caused by\nthe processing of personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A176",
+   "no": 176,
+   "noLabel": {
+    "en": "7. To coordinate with the Min istry of Public Security and state agencies having"
+   },
+   "text": {
+    "en": "7. To coordinate with the Min istry of Public Security and state agencies having\ncompetence in personal data protection, to provide information for investigation and handling\nof violations of the law on personal data protection.\nArticle 39. Responsibilities of the Personal Data Processor"
+   }
+  },
+  {
+   "id": "VN-H106-A177",
+   "no": 177,
+   "noLabel": {
+    "en": "1. Only receive personal data after having a contract or an agreement on data processing"
+   },
+   "text": {
+    "en": "1. Only receive personal data after having a contract or an agreement on data processing\nwith the Personal Data Controller."
+   }
+  },
+  {
+   "id": "VN-H106-A178",
+   "no": 178,
+   "noLabel": {
+    "en": "2. Process personal data in accordance with the contract or the agreement signed with"
+   },
+   "text": {
+    "en": "2. Process personal data in accordance with the contract or the agreement signed with\nthe Personal Data Controller."
+   }
+  },
+  {
+   "id": "VN-H106-A179",
+   "no": 179,
+   "noLabel": {
+    "en": "3. Fully implement measures to protect personal data as specified in this Decree and"
+   },
+   "text": {
+    "en": "3. Fully implement measures to protect personal data as specified in this Decree and\nother relevant legal documents."
+   }
+  },
+  {
+   "id": "VN-H106-A180",
+   "no": 180,
+   "noLabel": {
+    "en": "4. The Personal Data Processor is responsible to the data subject for damages caused"
+   },
+   "text": {
+    "en": "4. The Personal Data Processor is responsible to the data subject for damages caused\nby its processing of personal data."
+   }
+  },
+  {
+   "id": "VN-H106-A181",
+   "no": 181,
+   "noLabel": {
+    "en": "5. Delete, return all personal data to the Personal Data Controller after finishing its"
+   },
+   "text": {
+    "en": "5. Delete, return all personal data to the Personal Data Controller after finishing its\nprocessing of [personal] data."
+   }
+  },
+  {
+   "id": "VN-H106-A182",
+   "no": 182,
+   "noLabel": {
+    "en": "6. Cooperate with the Ministry of Public Security and the state authorities in protecting"
+   },
+   "text": {
+    "en": "6. Cooperate with the Ministry of Public Security and the state authorities in protecting\npersonal data, providing information for investigation and handling of violations of the law on\nprotection of personal data.\nArticle 40. Responsibilities of the Personal Data Controller-Processor\nFully comply with regulations on the responsibilities of the Personal Data Controller\nand the Personal Data Processor.\nArticle 41. Responsibilities of Third Parties\nFully comply with regulations on responsibilit ies for processing personal data as\nprescribed in this Decree.\nArticle 42. Responsibilities of relevant organizations and individuals"
+   }
+  },
+  {
+   "id": "VN-H106-A183",
+   "no": 183,
+   "noLabel": {
+    "en": "1. Apply measures to pr otect their own personal data, assume responsibility for the"
+   },
+   "text": {
+    "en": "1. Apply measures to pr otect their own personal data, assume responsibility for the\naccuracy of personal data provided by them."
+   }
+  },
+  {
+   "id": "VN-H106-A184",
+   "no": 184,
+   "noLabel": {
+    "en": "2. Comply with regulations on protection of personal data in this Decree."
+   },
+   "text": {
+    "en": "2. Comply with regulations on protection of personal data in this Decree."
+   }
+  },
+  {
+   "id": "VN-H106-A185",
+   "no": 185,
+   "noLabel": {
+    "en": "3. Timely report to the Ministry of Public Security with regard to violations  related to"
+   },
+   "text": {
+    "en": "3. Timely report to the Ministry of Public Security with regard to violations  related to\npersonal data protection activities."
+   }
+  },
+  {
+   "id": "VN-H106-A186",
+   "no": 186,
+   "noLabel": {
+    "en": "4. Cooperate with the Ministry of Public Security in handling violations related to"
+   },
+   "text": {
+    "en": "4. Cooperate with the Ministry of Public Security in handling violations related to\npersonal data protection activities.\nChapter IV\nIMPLEMENTATION\nArticle 43. Effect"
+   }
+  },
+  {
+   "id": "VN-H106-A187",
+   "no": 187,
+   "noLabel": {
+    "en": "1. This Decree takes effect from 01 July 2023."
+   },
+   "text": {
+    "en": "1. This Decree takes effect from 01 July 2023."
+   }
+  },
+  {
+   "id": "VN-H106-A188",
+   "no": 188,
+   "noLabel": {
+    "en": "2. Micro -enterprises, small enterprises, medium -sized enterprises and start -up"
+   },
+   "text": {
+    "en": "2. Micro -enterprises, small enterprises, medium -sized enterprises and start -up\nenterprises have the option to waive the regulations regarding assignment of an individual and\npersonal data protection division for the first 2 years as from the establishment of their business."
+   }
+  },
+  {
+   "id": "VN-H106-A189",
+   "no": 189,
+   "noLabel": {
+    "en": "3. Micro -enterprises, small enterprises, medium -sized enterprises and start -up"
+   },
+   "text": {
+    "en": "3. Micro -enterprises, small enterprises, medium -sized enterprises and start -up\nenterprises directly engaged in personal data processing activities will not be exempted from\nbeing subject to the provisions of Clause 2 of this Article.\n\nArticle 44. Implementation responsibilities"
+   }
+  },
+  {
+   "id": "VN-H106-A190",
+   "no": 190,
+   "noLabel": {
+    "en": "1. The Minister of Public Security directs, examines and provides guidance on the"
+   },
+   "text": {
+    "en": "1. The Minister of Public Security directs, examines and provides guidance on the\nimplementation of this Decree."
+   }
+  },
+  {
+   "id": "VN-H106-A191",
+   "no": 191,
+   "noLabel": {
+    "en": "2. Ministers, directors of ministerial-level agencies, directors of government-affiliated"
+   },
+   "text": {
+    "en": "2. Ministers, directors of ministerial-level agencies, directors of government-affiliated\nagencies, chairpersons of People's Committees of provinces and municipalities are responsible\nfor implementation of this Decree.\n\nRecipients:\n- Secretariat of the Communist Party’s Central\nCommittee;\n- Prime Minister, Deputy Prime Ministers;\n- Ministries, ministerial-level authorities, government-\naffiliated authorities;\n- People's Councils and People's Committees of\nprovinces and municipalities;\n- Central Office and Divisions of the Communist Party\nCommittee;\n- Office of the General Secretary;\n- Office of the President;\n- Council for Ethnic Minorities and Committees of the\nNational Assembly;\n- Office of the National Assembly;\n- People's Supreme Procuracy;\n- Supreme People's Court;\n- State Audit Office;\n- National Financial Supervisory Commission;\n- Bank for Social Policies;\n- Vietnam Development Bank;\n- Central Committee of Vietnam Fatherland Front;\n- Central Body of Unions;\n- Government Office: Minister Chairman of Government\nOffice, Vice Chairpersons of Government Office,\nAssistants to Prime Minister, General Director of the\nGovernment Office’s Portal, Departments, Bureaus,\naffiliated agencies, Official Gazette;\n- Filed: Archives, Procedure Control (2b)TM\nFOR THE GOVERNMENT\nFOR THE PRIME MINISTER\nDEPUTY PRIME MINISTER\n\n[Signed and sealed]\n\nTran Luu Quang\n\nAppendix\n(Attached to Government’s Decree No. 13/2023/ND-CP dated 17 April 2023)\n_____________\n\nForm No. 01 Request form for provision of personal data (for individual)\nForm No. 02 Request form for provision of personal data (for organizations,\nenterprises)\nForm No. 03 Notice on violation of regulations on personal data protection\nForm No. 04 Notice on submission of Personal Data Processing Impact Assessment\nRecord\nForm No. 05 Notice on change of Record contents\nForm No. 06 Record of Impact Assessment of Cross-border Transfer of Personal Data\n\nForm No. 01\nIndependence – Freedom – Happiness\n______________________\n\n…, date….…….\nREQUEST FOR PROVISION OF PERSONAL DATA\n(For individual)\nTo: …..\n1. Full name of individual requesting provision of personal data: ..............................\n2. Representative/guardian1: ........................................................................................\n3. ID Card / Citizen Identity Card / Passport No.  .......................................................\nIssued on   ... / ......... /….. by ........................................................................................\n4. Residence2: ...............................................................................................................\n5. Telephone3 .................................. ; Fax ................................ ; Email: .................\n6. Personal data requested4: .........................................................................................\n7. Purpose(s) of the request:........................................................................................."
+   }
+  },
+  {
+   "id": "VN-H106-A192",
+   "no": 192,
+   "noLabel": {
+    "en": "8. Request for provision of personal data for the:"
+   },
+   "text": {
+    "en": "8. Request for provision of personal data for the:\na) first time  b) other: ............. (specify the number of times that the\nrequest with the above contents has been submitted)"
+   }
+  },
+  {
+   "id": "VN-H106-A193",
+   "no": 193,
+   "noLabel": {
+    "en": "9. Number of copies5: ............................."
+   },
+   "text": {
+    "en": "9. Number of copies5: ............................."
+   }
+  },
+  {
+   "id": "VN-H106-A194",
+   "no": 194,
+   "noLabel": {
+    "en": "10. Method for receiving personal data:"
+   },
+   "text": {
+    "en": "10. Method for receiving personal data:\n□ Receiving at the place of request\n□ Receiving via post office (please specify the receipt address): ................................\n□ Fax (please specify the facsimile number): ..............................................................\n□ Receiving via electronic network (please specify the receiving [electronic] address):\n\n□ Other (please specify): .............................................................................................."
+   }
+  },
+  {
+   "id": "VN-H106-A195",
+   "no": 195,
+   "noLabel": {
+    "en": "11. Attached documents (in case of provision [of personal data] with conditions):...."
+   },
+   "text": {
+    "en": "11. Attached documents (in case of provision [of personal data] with conditions):....\n\nREQUESTOR\n(sign, specify full name)\n\n_____________\n1 In accordance with the provisions set out on  Civil Code on representatives and\nguardians of requestors of information who are minors, persons with limited civil act capacity,\npersons having lost their civil act capacity, persons having cognitive and behavioral difficulties,\netc.\n2 Write the place of residence of the representative/guardian.\n3 Write phone number, fax, email of the representative/guardian.\n4 Write name of data subject and relevant information to be provided.\n5 Printed copy, photocopy, duplicate or file of data.\n\nForm No. 02\nIndependence – Freedom – Happiness\n______________________\n\n…, date….…….\nREQUEST FOR PROVISION OF PERSONAL DATA\n(For organization or enterprise)\nTo: …..\n1. Name of organization, enterprise: ...........................................................................\n2. Representative of the organization or enterprise1: ..................................................\n3. ID Card / Citizen Identity Card / Passport No. .......................................................\nIssued on ..... / ......... /…… by  .....................................................................................\n4. Head office address of organization, enterprise: .....................................................\n5. Telephone number2 ...................... ; Fax .................................. ; Email: ................\n6. Personal data being requested: ................................................................................\n7. Purpose(s) of the request:........................................................................................"
+   }
+  },
+  {
+   "id": "VN-H106-A196",
+   "no": 196,
+   "noLabel": {
+    "en": "8. Request for provision of personal data for the:"
+   },
+   "text": {
+    "en": "8. Request for provision of personal data for the:\na) first time  ..............................................  b) other: …. (specify the number of times\nthat the request with the above contents has been submitted)\n9. Number of copies3: ................................................................................................."
+   }
+  },
+  {
+   "id": "VN-H106-A197",
+   "no": 197,
+   "noLabel": {
+    "en": "10. Method of receiving personal data:"
+   },
+   "text": {
+    "en": "10. Method of receiving personal data:\n□ Receiving at the place of request\n□ Receiving via post office (please specify the receipt address): ...............................\n□ Fax (please specify the facsimile number): .............................................................\n□ Receiving via electronic network (please specify the receiving [electronic] address):\n\n□ Other (please specify): ............................................................................................."
+   }
+  },
+  {
+   "id": "VN-H106-A198",
+   "no": 198,
+   "noLabel": {
+    "en": "11. Attached documents (in case of provision [of personal data] with conditions):...."
+   },
+   "text": {
+    "en": "11. Attached documents (in case of provision [of personal data] with conditions):....\n\nREQUESTOR 4\n(sign, specify full name)\n\n___________\n1 In accordance with  the provisions set out in the  Civil Code on representatives of\norganizations and enterprises\n2 Write telephone number, facsimile number, email of representative of the requestor\nrequesting provision of information.\n3 Printed copy, photocopy, duplicate or file of data.\n4 Representative signs, specifies full name and affixes seal of the organization or\nenterprise.\n\nForm No. 03\n\nNAME OF\n_________\nNo.: …\nIndependence – Freedom – Happiness\n______________________\n\n…., date .........\n\nNOTICE\nON VIOLATION OF REGULATIONS ON PERSONAL DATA PROTECTION\nTo: Ministry of Public Security\n(Department of Cybersecurity and Hi-Tech Crime Prevention under the Ministry of Public\nSecurity)\n\nIn compliance with regulations on personal data protection, ............. 1 submits to the\nMinistry of Public Security a Personal Data Processing Impact Assessment Record as follows:"
+   }
+  },
+  {
+   "id": "VN-H106-A199",
+   "no": 199,
+   "noLabel": {
+    "en": "1. Information on organization or enterprise"
+   },
+   "text": {
+    "en": "1. Information on organization or enterprise\n- Name of organization or enterprise: .........................................................................\n- Head office address: .................................................................................................\n- Address of the transaction office: .............................................................................\n- Establishment Decision / Enterprise Registration Certificate / Business Registration\nCertificate / Investment Certificate No.: ..... issued by .... on ......... in .........\n- Telephone: ............................. Website .....................................................................\n- Person in charge of personal data protection:\nFull name: ...................................................................................................................\nPosition: ......................................................................................................................\nContact telephone (landline and mobile): ...................................................................\nEmail: .........................................................................................................................."
+   }
+  },
+  {
+   "id": "VN-H106-A200",
+   "no": 200,
+   "noLabel": {
+    "en": "2. Description of acts of violation of personal data protection regulations"
+   },
+   "text": {
+    "en": "2. Description of acts of violation of personal data protection regulations\n- Time: .........................................................................................................................\n- Place: ........................................................................................................................\n- Acts of violation: ......................................................................................................\n - Organization, individual, types of personal data and the amount/ size of data involved;\n- Person in charge of personal data protection: ............................................................\nFull name: ....................................................................................................................\nPosition: .......................................................................................................................\nContact telephone (landline and mobile): ....................................................................\nEmail: ...........................................................................................................................\n\n- Consequences that occurred: .....................................................................................\n- Applicable measures: ................................................................................................."
+   }
+  },
+  {
+   "id": "VN-H106-A201",
+   "no": 201,
+   "noLabel": {
+    "en": "3. Attached documents"
+   },
+   "text": {
+    "en": "3. Attached documents\n1. …………\n2. …………"
+   }
+  },
+  {
+   "id": "VN-H106-A202",
+   "no": 202,
+   "noLabel": {
+    "en": "4. Undertakings"
+   },
+   "text": {
+    "en": "4. Undertakings\n(Name of agency, organization, enterprise) hereby undertakes to assume responsibility\nbefore the laws for the accuracy and legality of the provided information and the attached\ndocuments.\n\nRecipients:\n- As above;\n....\n\nFOR THE ORGANIZATION OR\n(sign, specify full name, seal)\n\n_________\n1 Name of organization or enterprise\n\nForm No. 04\n\nNAME OF\n_________\nNo.: …\nIndependence – Freedom – Happiness\n______________________\n…., date .........\n\nNOTICE\nON SUBMISSION OF\nPERSONAL DATA PROCESSING\n IMPACT ASSESSMENT RECORD\nTo: Ministry of Public Security\n(Department of Cybersecurity and Hi-Tech Crime Prevention under the Ministry of Public\nSecurity)\n\nIn compliance with regulations on personal data protection, ............. 1 submits to the\nMinistry of Public Security a Personal Data Processing Impact Assessment Record as follows:"
+   }
+  },
+  {
+   "id": "VN-H106-A203",
+   "no": 203,
+   "noLabel": {
+    "en": "1. Information on organization or enterprise"
+   },
+   "text": {
+    "en": "1. Information on organization or enterprise\n- Name of organization or enterprise: .........................................................................\n- Head office address: .................................................................................................\n- Address of the transaction office: .............................................................................\n- Establishment Decision / Enterprise Registration Certificate / Business Registration\nCertificate / Investment Certificate No.: ..... issued by .... on ......... in .........\n- Telephone: ............................. Website .....................................................................\n- Person in charge of personal data protection:\nFull name: ...................................................................................................................\nPosition: ......................................................................................................................\nContact telephone (landline and mobile): ...................................................................\nEmail: .........................................................................................................................."
+   }
+  },
+  {
+   "id": "VN-H106-A204",
+   "no": 204,
+   "noLabel": {
+    "en": "2. Personal Data Processing Impact Assessment Record"
+   },
+   "text": {
+    "en": "2. Personal Data Processing Impact Assessment Record\n1. …………\n2. …………"
+   }
+  },
+  {
+   "id": "VN-H106-A205",
+   "no": 205,
+   "noLabel": {
+    "en": "3. Undertakings"
+   },
+   "text": {
+    "en": "3. Undertakings\n(Name of agency, organization, enterprise) hereby undertakes to assume responsibility\nbefore the laws for the accuracy and legality of the Dossier of Impact Evaluation of Personal\nData Processing and the attached documents.\n\nRecipients:\n- As above;\n....\nFOR THE  ORGANIZATION OR\n(sign, specify full name, seal)\n\n_________\n1 Name of organization or enterprise\n\nForm No. 05\n\nNAME OF\n_________\nNo.: …\nIndependence – Freedom – Happiness\n______________________\n…., date .........\n\nNOTICE\nON CHANGE OF CONTENTS OF RECORD ……1\nTo: Ministry of Public Security\n(Department of Cybersecurity and Hi-Tech Crime Prevention under the Ministry of Public\nSecurity)\n\nIn compliance with regulations on personal data protection, ............. 2 submits to the\nMinistry of Public Security a Personal Data Processing Impact Assessment Record as follows:"
+   }
+  },
+  {
+   "id": "VN-H106-A206",
+   "no": 206,
+   "noLabel": {
+    "en": "1. Information on organization or enterprise"
+   },
+   "text": {
+    "en": "1. Information on organization or enterprise\n- Name of organization or enterprise: .........................................................................\n- Head office address: .................................................................................................\n- Address of the transaction office: .............................................................................\n- Establishment Decision / Enterprise Registration Certificate / Business Registration\nCertificate / Investment Certificate No.: ..... issued by .... on ......... in .........\n- Telephone: ............................. Website .....................................................................\n- Person in charge of personal data protection:\nFull name: ...................................................................................................................\nPosition: ......................................................................................................................\nContact telephone (landline and mobile): ...................................................................\nEmail: .........................................................................................................................."
+   }
+  },
+  {
+   "id": "VN-H106-A207",
+   "no": 207,
+   "noLabel": {
+    "en": "2. Brief description of changes to contents of the Record"
+   },
+   "text": {
+    "en": "2. Brief description of changes to contents of the Record\n- Content(s) of change:................................................................................................\n- Reason(s) for change: ..............................................................................................."
+   }
+  },
+  {
+   "id": "VN-H106-A208",
+   "no": 208,
+   "noLabel": {
+    "en": "3. Attached documents:"
+   },
+   "text": {
+    "en": "3. Attached documents:\n1. ……\n2. ……"
+   }
+  },
+  {
+   "id": "VN-H106-A209",
+   "no": 209,
+   "noLabel": {
+    "en": "4. Undertaking"
+   },
+   "text": {
+    "en": "4. Undertaking\n(Name of agency, organization, enterprise) hereby undertakes to assume responsibility\nbefore the laws for the accuracy and legality of the contents of change and the attached\ndocuments.\n\nRecipients:\n- As above;\n....\n\nFOR THE ORGANIZATION OR\n(sign, specify full name, seal)\n\n________\n1 Record name: Record of Personal Data Processing Impact Assessment or Record of\nImpact Assessment of Cross-border Transfer of Personal Data.\n2 Name of organization or enterprise.\n\nForm No. 06\n\nNAME OF\n_________\nNo.: …\nIndependence – Freedom – Happiness\n______________________\n…., date .........\n\nRECORD OF IMPACT ASSESSMENT OF CROSS-BORDER TRANSFER OF\nPERSONAL DATA\nTo: Ministry of Public Security\n(Department of Cybersecurity and Hi-Tech Crime Prevention under the Ministry of Public\nSecurity)\n\nIn compliance with regulations on personal data protection, ............. 1 submits to the\nMinistry of Public Security a Record of Impact Assessment of Cross-border Transfer of Personal\nData as follows:"
+   }
+  },
+  {
+   "id": "VN-H106-A210",
+   "no": 210,
+   "noLabel": {
+    "en": "1. Information on organization or enterprise"
+   },
+   "text": {
+    "en": "1. Information on organization or enterprise\n- Name of organization or enterprise: .........................................................................\n- Head office address: .................................................................................................\n- Address of the transaction office: .............................................................................\n- Establishment Decision / Enterprise Registration Certificate / Business Registration\nCertificate / Investment Certificate No.: ..... issued by .... on ......... in .........\n- Telephone: ............................. Website .....................................................................\n- Person in charge of personal data protection:\nFull name: ...................................................................................................................\nPosition: ......................................................................................................................\nContact telephone (landline and mobile): ...................................................................\nEmail: .........................................................................................................................."
+   }
+  },
+  {
+   "id": "VN-H106-A211",
+   "no": 211,
+   "noLabel": {
+    "en": "2. Record of Impact Assessment of Cross-border Transfer of Personal Data"
+   },
+   "text": {
+    "en": "2. Record of Impact Assessment of Cross-border Transfer of Personal Data\n1. …………\n2. …………"
+   }
+  },
+  {
+   "id": "VN-H106-A212",
+   "no": 212,
+   "noLabel": {
+    "en": "3. Undertakings"
+   },
+   "text": {
+    "en": "3. Undertakings\n(Name of agency, organization, enterprise) hereby undertakes to assume responsibility\nbefore the laws for the accuracy and legality of the Record of Impact Assessment of Cross-border\nTransfer of Personal Data and the attached documents.\n\nRecipients:\n- As above;\n....\n\nFOR THE  ORGANIZATION OR\n(sign, specify full name, seal)\n\n_________\n1 Name of organization or enterprise"
+   }
+  }
+ ]
+}

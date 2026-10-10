@@ -1,0 +1,653 @@
+{
+ "id": "TL-H041",
+ "title": {
+  "zh": "法律Actividades Petrolíferas",
+  "en": null,
+  "orig": "Lei das Actividades Petrolíferas"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "amended",
+ "promulgatedDate": "2005-08-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "据公报标题，本法经 Lei n.º 1/2019、Lei n.º 6/2019 修改；本库收录的是本法原始公布文本，修改后的合并本未另行收录。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 13/2005",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 47,
+ "chars": 46741,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2002_2005/leis_parlamento_nacional/13_2005.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 47 条；逐字取自官方公报 PDF（public/docs/2002_2005/leis_parlamento_nacional/13_2005.pdf）第 —–— 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 【据公报标题，本法经 《第1/2019号法律》、《第6/2019号法律》 修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H041-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Título Sucinto"
+   },
+   "text": {
+    "pt": "Esta Lei pode ser citada como a “Lei das Actividades Petrolíferas”."
+   }
+  },
+  {
+   "id": "TL-H041-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Definições"
+   },
+   "text": {
+    "pt": "Para efeitos desta Lei:\n“Afiliada” significa, no que concerne a uma Pessoa Autorizada (ou se mais que uma Pessoa, no que diz respeito a cada uma dessas Pessoas), a Pessoa que Controla, é Controlada, ou está sob Controlo comum da Pessoa Autorizada ou qualquer uma dessas Pessoas, consoante seja o caso;\n“Ano Civil” significa o período de 12 meses com início no dia 1 de Janeiro e fim no dia 31 de Dezembro do mesmo ano, em conformidade com o Calendário Gregoriano;\n“Área Autorizada” significa a área que é a cada momento objecto de uma Autorização;\n“Área do Contrato” significa a Área Autorizada nos termos de um Contrato Petrolífero;\n“Autorização” significa uma Autorização de Acesso, um Contrato Petrolífero, uma Autorização de Prospecção ou uma Autorização de Uso de Percolação e qualquer contrato celebrado em relação a tais Autorizações ou Contratos;\n“Autorização de Acesso” significa a autorização concedida nos termos do Artigo 11.º;\n“Autorização de Uso de Percolação” significa a autorização concedida nos termos do Artigo 12.º;\n“Autorização de Prospecção” significa a autorização concedida nos termos do Artigo 9.º;\n“Cabeça do Poço” significa o ponto onde o Petróleo sai do limite do Poço e sistemas associados;\n\"Código” significa o Código de Exploração Mineira do Petróleo adoptado nos termos da alínea a) do\nArtigo 7.º do Tratado, com as eventuais revogações, derrogações, modificações e aditamentos de que venha a ser objecto, bem como os regulamentos elaborados e directivas emitidas ao seu abrigo;\n“Contratante” significa a Pessoa ou, no caso de mais que uma Pessoa, o grupo de Pessoas com quem o Ministério celebrou um Contrato Petrolífero;\n“Contratante pelo Estado” significa o Contratante constituído segundo as leis de Timor-Leste que é controlado, directa ou indirectamente, por Timor-Leste;\n“Contrato Petrolífero” significa um contrato, uma licença ou qualquer outro tipo de autorização celebrado ou concedida nos termos do Artigo 10.º.\n“Controlo” significa, em relação a uma Pessoa, o poder que outra Pessoa tenha para assegurar:\n–       através da detenção ou disposição, directa ou indirecta, de acções ou de direitos de voto, da ou relativos à Pessoa mencionada em primeiro lugar ou qualquer outra Pessoa; ou –       por virtude de quaisquer poderes conferidos pelos estatutos da primeira Pessoa ou qualquer outra Pessoa ou de qualquer outro documento susceptível de conferir poderes semelhantes, que os assuntos da primeira Pessoa sejam conduzidos ou geridos de forma subordinada à direcção ou decisões daquela outra Pessoa;\n“Desmantelamento” significa, em relação à Área Autorizada ou a uma parte da mesma, conforme o caso, abandono, desmantelamento, transferência, remoção e abate para sucata ou lixo de estruturas, instalações, apoios, equipamentos e outros bens, e outros trabalhos, usados nas Operações Petrolíferas na Área Autorizada, para limpeza da mesma, por forma a deixá-la em condições e segura, assim como para a protecção do ambiente;\n“Funcionário Público” significa um funcionário da Administração Pública ou equiparado, membro do Parlamento, Governo, Tribunais e Ministério Público;\n“Gás Natural” significa todos os hidrocarbonetos gasosos e inertes, incluindo gás mineral húmido, gás mineral seco, gás produzido em associação com petróleo bruto (casing head gas) e gás residual remanescente após a extracção de hidrocarbonetos líquidos do gás húmido, com a excepção de petróleo bruto;\n“Governo” significa o Governo da República Democrática de Timor-Leste;\n“Inspector” tem o significado enunciado no n.º 1 do Artigo 26.º;\n“Jazida” significa uma formação subterrânea porosa e permeável contendo uma concentração natural, individualizada e separada, de hidrocarbonetos (líquidos e/ou gasosos) susceptíveis de produção, que é circunscrita por barreiras de rocha impermeável ou água e caracterizada por um sistema natural de pressão único;\n“Lei” significa a Lei das Actividades Petrolíferas de Timor-Leste, com as eventuais revogações, derrogações, modificações e aditamentos de que venha a ser objecto, bem como os regulamentos elaborados e directivas emitidas ao seu abrigo;\n“Melhores Técnicas e Práticas da Indústria Petrolífera” tem o significado que lhe é dado no nº 1 do\nArtigo 23º;\n“Ministério” significa o ministério ou qualquer outro departamento a que sejam conferidas atribuições e competências no que respeita à presente Lei;\n“Operações Petrolíferas” significa as actividades dirigidas a:\n–       prospecção de Petróleo;\n–       pesquisa, desenvolvimento, exploração, venda ou exportação de Petróleo; ou –       construção, instalação ou operação de quaisquer estruturas, instalações ou apoios para o desenvolvimento, exploração e exportação de Petróleo, ou desmantelamento ou remoção de qualquer dessas estruturas, instalações ou apoios;\n“Operador” significa a Pessoa Autorizada ou outra Pessoa nomeada numa Autorização ou acordo de unitização para organizar e supervisionar Operações Petrolíferas;\n“Parlamento” significa o Parlamento Nacional de Timor-Leste;\n“Percolação” significa, no que concerne ao Petróleo, o Petróleo que brota à superfície, naturalmente, através de condutas naturais;\n“Pessoa” inclui sociedades ou quaisquer outras entidades jurídicas, mesmo que sem personalidade jurídica;\n“Pessoa Autorizada” significa:\n–       no que respeita a um Contrato Petrolífero, o Contratante; e –       no que respeita a qualquer outra Autorização, a Pessoa a quem essa outra Autorização foi concedida;\n“Petróleo” significa:\n–       qualquer hidrocarboneto de origem natural, no estado gasoso, líquido ou sólido;\n–       qualquer mistura de hidrocarbonetos de origem natural, no estado gasoso, líquido ou sólido; ou –       qualquer Petróleo, tal como é definido supra, que tenha sido reintroduzido numa jazida;\n“Petróleo Bruto” significa petróleo mineral bruto e todos os hidrocarbonetos líquidos no seu estado natural ou obtidos de gás húmido por condensação ou extracção;\n“Poço” significa uma perfuração na superfície terrestre escavada ou furada com o objectivo de produção de Petróleo;\n“Território de Timor-Leste” consiste no território de Timor-Leste, incluindo o seu mar territorial, em conjunto com a sua zona económica exclusiva e plataforma continental, relativamente ao qual ao abrigo do direito internacional, Timor-Leste goza de direitos de soberania para efeitos de pesquisa e exploração dos seus recursos naturais;\n“Timor-Leste” significa a República Democrática de Timor-Leste; e “Tratado” significa o Tratado do Mar de Timor celebrado em 20 de Maio de 2002 entre o Governo de Timor-Leste e o Governo da Austrália."
+   }
+  },
+  {
+   "id": "TL-H041-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "heading": {
+    "pt": "Âmbito Espacial de Aplicação"
+   },
+   "text": {
+    "pt": "1.    Esta Lei aplica-se ao Território de Timor-Leste.\n2.    Salvo disposição em contrário, esta Lei não se aplica a qualquer área que esteja sujeita a ajustes provisórios nos termos do n.º 3 do Artigo 83º, da Convenção das Nações Unidas sobre Direito do Mar, assinada em Montego Bay em 10 de Dezembro de 1982."
+   }
+  },
+  {
+   "id": "TL-H041-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "heading": {
+    "pt": "Âmbito Material de Aplicação"
+   },
+   "text": {
+    "pt": "1.    Esta Lei aplica-se às Operações Petrolíferas.\n2.    A existência de uma Autorização em vigor numa determinada área não obsta à existência de autorizações de pesquisa e exploração de substâncias minerais que não o Petróleo, desde que essa outra actividade não impeça ou interfira com a correcta execução das Operações Petrolíferas."
+   }
+  },
+  {
+   "id": "TL-H041-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "heading": {
+    "pt": "Título sobre o Petróleo"
+   },
+   "text": {
+    "pt": "1.    O título jurídico sobre o Petróleo existente no Território de Timor-Leste, e o controlo desse Petróleo, pertencem a Timor-Leste.\n2.    O título jurídico sobre o Petróleo apenas pode ser adquirido por uma Pessoa após aquele ter sido legalmente extraído e recuperado."
+   }
+  },
+  {
+   "id": "TL-H041-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "heading": {
+    "pt": "Exercício pelo Ministério das suas Competências e Funções"
+   },
+   "text": {
+    "pt": "1.    O Ministério deverá exercer as suas competências e funcões ao abrigo da presente Lei, e das Autorizações concedidas ao seu abrigo, de uma forma que:\na)      assegure uma gestão sã e equilibrada de recursos;\nb)      garanta que o Petróleo é explorado e desenvolvido em termos que minimizem os danos para o ambiente, sejam economicamente sustentáveis, promovam investimentos adicionais e contribuam para um desenvolvimento de Timor-Leste a longo prazo;\nc)      seja razoável; e\nd)      seja consistente com as Melhores Técnicas e Práticas da Indústria Petrolífera.\n2.    Antes de exercer qualquer competência ou função, o Ministério pode dar a oportunidade às Pessoas susceptíveis de serem afectadas pelo exercício dessas competências ou funções de serem ouvidas, e deverá considerar as alegações pertinentes apresentadas por essas Pessoas."
+   }
+  },
+  {
+   "id": "TL-H041-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "heading": {
+    "pt": "Restrições de Direitos dos Funcionários Públicos"
+   },
+   "text": {
+    "pt": "1.    Os Funcionários Públicos não adquirirão, nem tentarão adquirir ou deter:\na)      uma Autorização ou um interesse, directo ou indirecto, numa Autorização; ou\nb)      uma participação numa sociedade, ou numa sua Afiliada, que detenha uma Autorização.\n2.    Qualquer documento que conceda ou implique conceder a um Funcionário Público um interesse, directo ou indirecto, numa Autorização será nulo, relativamente a esse conteúdo.\n3.    A aquisição ou detenção de uma Autorização, interesse ou participação pelo cônjuge ou por filhos menores de um Funcionário Público será considerada como aquisição ou detenção pelo Funcionário Público."
+   }
+  },
+  {
+   "id": "TL-H041-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "heading": {
+    "pt": "Quadriculação"
+   },
+   "text": {
+    "pt": "Para os efeitos da presente Lei, o Território de Timor-Leste, ou partes dele, serão divididos em blocos em conformidade com uma grade geográfica.\nCAPÍTULO II\nAUTORIZAÇÃO DE OPERAÇÕES PETROLÍFERAS"
+   }
+  },
+  {
+   "id": "TL-H041-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "heading": {
+    "pt": "Autorizações de Prospecção"
+   },
+   "text": {
+    "pt": "1.    O Ministério pode conceder uma Autorização de Prospecção, referente a uma determinada área, a uma Pessoa ou um grupo de Pessoas.\n2.    a)      Uma Autorização de Prospecção confere direito a efectuar levantamentos geológicos, geofísicos, geoquímicos e geotécnicos na Área Autorizada.\nb)      A Autorização de Prospecção exigirá que a Pessoa Autorizada comunique ao Ministério o progresso e os resultados das actividades de prospecção, e mantenha confidencialidade relativamente aos mesmos.\nc)      A Autorização de Prospecção não autoriza o titular desta a perfurar um Poço, nem confere qualquer preferência ou direito de celebrar um Contrato Petrolífero.\n3.    Antes da concessão de uma Autorização de Prospecção relativa a uma área que seja objecto de uma Autorização ainda em vigor, o Ministério deverá notificar por escrito o titular desta Autorização.\n4.    a)      O titular de uma Autorização de Prospecção pode, em qualquer momento, renunciar à mesma, através de uma notificação por escrito ao Ministério, desde que tenha cumprido todas as obrigações a que estava adstrito em virtude dessa Autorização.\nb)      Se o titular não tiver satisfeito alguma condição ou cumprido alguma obrigação a que está adstrito em virtude da Autorização de Prospecção, o Ministério pode revogar ou resolver tal Autorização através de notificação por escrito ao seu titular."
+   }
+  },
+  {
+   "id": "TL-H041-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "heading": {
+    "pt": "Contratos Petrolíferos"
+   },
+   "text": {
+    "pt": "1.    O Ministério pode celebrar um Contrato Petrolífero, relativamente a uma determinada área, com uma Pessoa ou um grupo de Pessoas, desde que, no segundo caso, estas tenham celebrado um Contrato de Operação Conjunta aprovado pelo Ministério ao abrigo do n.º 1 do Artigo 18.º.\n2.    Para ser elegível como parte num Contrato Petrolífero, uma Pessoa deve:\na)      possuir ou ter acesso a capacidade financeira, conhecimentos e capacidade técnica para desenvolver Operações Petrolíferas na Área do Contato;\nb)      não ter qualquer registo de incumprimento de princípios de boa cidadania empresarial (corporate citizenship); e\nc)      ser uma sociedade ou entidade de responsabilidade limitada.\n3.    a)      Sem prejuízo do disposto nos Artigos 11º e 12º, um Contrato Petrolífero confere ao Contratante o direito exclusivo de desenvolver Operações Petrolíferas na Área do Contrato.\nb)      O objecto do Contrato Petrolífero poderá estar limitado a Petróleo Bruto, Gás Natural ou outros componentes do Petróleo.\n4.    a)      Uma Pessoa Autorizada deverá notificar ao Ministério, por escrito, no prazo de vinte e quatro\n(24) horas, qualquer descoberta de Petróleo na Área Autorizada.\nb)      O Contratante deverá fornecer toda a informação relativa à descoberta que venha a ser requerida pelo Ministério.\n5.    O Contrato Petrolífero obrigará o Contratante a desenvolver apenas as Operações Petrolíferas que estejam de acordo com os programas de trabalho, planos e orçamentos aprovados pelo Ministério."
+   }
+  },
+  {
+   "id": "TL-H041-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "heading": {
+    "pt": "Autorizações de Acesso"
+   },
+   "text": {
+    "pt": "1.    a)      O Ministério pode conceder uma Autorização de Acesso, referente a uma determinada área, a uma Pessoa ou grupo de Pessoas.\nb)      O Ministério não pode conceder uma Autorização de Acesso relativamente a uma área que seja objecto de um Contrato Petrolífero, um Autorização de Prospecção ou uma Autorização de Uso de Percolação em vigor, sem ter considerado quaisquer alegações apresentadas pelos titulares de tais Autorizações, de tal forma que não venha a existir interferência com os direitos dessa outra Pessoa Autorizada.\n2.    a)      Enquanto vigorar, uma Autorização de Acesso autoriza o seu titular a realizar uma ou mais das seguintes acções:\n(i)        construir, instalar e operar estruturas, instalações e apoios; e\n(ii)       desenvolver outros trabalhos; especificadas na Autorização, relativamente à Área Autorizada.\nb)      A Autorização de Acesso não autoriza o seu titular a perfurar um Poço.\n3.    a)      Uma Autorização de Acesso:\n(i)        pode ser objecto de renúncia pelo seu titular, através de notificação por escrito ao Ministério, e desde que a Pessoa Autorizada tenha cumprido todas as obrigações a que estava adstrita em virtude dessa Autorização; e\n(ii)       pode ser revogada pelo Ministério, em qualquer altura, através de notificação por escrito ao seu titular, se este não tiver satisfeito alguma condição ou cumprido alguma obrigação decorrente dessa Autorização.\nb)      A renúncia, revogação ou resolução de uma Autorização de Acesso será objecto de notificação por escrito, pelo Ministério, a qualquer Pessoa Autorizada na Área Autorizada de quem tenha sido autorizada a realização de operações ao abrigo dessa Autorização de Acesso.\n4.    O Ministério pode emitir directivas para os titulares de Autorizações de Acesso e a outras Pessoas Autorizadas, no que concerne à coordenação das suas respectivas Operações Petrolíferas."
+   }
+  },
+  {
+   "id": "TL-H041-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "heading": {
+    "pt": "Autorizações de Uso de Percolação"
+   },
+   "text": {
+    "pt": "1.    a)      O Ministério pode conceder uma Autorização de Uso de Percolação em relação a uma determinada área.\nb)      O Ministério pode conceder uma Autorização de Uso de Percolação a uma Pessoa que esteja a actuar com este objectivo por conta de uma categoria de Pessoas identificadas na Autorização.\n2.    a)      Uma Autorização de Uso de Percolação confere um direito exclusivo à exploração de uma Percolação numa determinada área.\nb)      Uma Autorização de Uso de Percolação exigirá que a Pessoa Autorizada comunique ao Ministério o progresso e os resultados de tal exploração.\nc)      Uma Autorização de Uso de Percolação especificará a profundidade máxima até à qual a Pessoa Autorizada pode perfurar um Poço.\n3.    a)      Não obstante a alínea a) do n.º 3 do Artigo 10º, pode ser concedida uma Autorização de Uso de Percolação que se refira a uma área que já tenha sido objecto de uma outra Autorização que não uma Autorização de Uso de Percolação, prevalecendo a Autorização de Uso de Percolação em caso de conflito.\nb)      Antes da concessão de uma Autorização de Uso de Percolação relativamente a uma determinada área que já tenha sido objecto de uma outra Autorização ainda em vigor, o Ministério notificará por escrito o titular desta última Autorização.\nc)      Qualquer Autorização concedida posteriormente à Autorização de Uso de Percolação estará sujeita aos direitos dos titulares das Autorizações de Uso de Percolação.\n4.    a)      Uma Autorização de Uso de Percolação:\n(i)        pode ser objecto de renúncia pelo seu titular através de notificação por escrito ao Ministério, desde que a Pessoa Autorizada tenha cumprido todas as obrigações a que estava adstrita em virtude dessa Autorização; e\n(ii)       pode ser revogada ou resolvida pelo Ministério, em qualquer altura, através de uma notificação por escrito ao seu titular, se este não tiver satisfeito alguma condição ou cumprido alguma obrigação decorrente dessa Autorização.\nb)      A renúncia, revogação ou resolução de uma Autorização de Uso de Percolação será objecto de notificação por escrito, pelo Ministério, a qualquer Pessoa Autorizada na Área Autorizada a quem tenha sido autorizada a realização de operações ao abrigo dessa Autorização de Uso de Percolação."
+   }
+  },
+  {
+   "id": "TL-H041-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "heading": {
+    "pt": "Apresentação de Propostas"
+   },
+   "text": {
+    "pt": "1.    a)      O convite para apresentação de propostas para obtenção de Autorizações será objecto de concurso público a determinar pelo Ministério.\nb)      Não obstante o disposto no parágrafo anterior, o Ministério pode decidir conceder Autorizações, por negociação directa, sem convite por concurso público:\n(i)        no caso de Autorizações de Acesso; ou\n(ii)       no caso de todos os outros tipos de Autorização, quando seja no interesse público assim o fazer.\nc)      No caso de proceder nos termos da anterior alínea b), o Ministério fundamentará a sua decisão em termos adequados.\nd)      As propostas serão submetidas numa língua oficial de Timor-Leste ou, caso se encontrem noutra língua, serão acompanhadas de uma tradução oficial para uma língua oficial de Timor-Leste, e serão submetidas em envelope fechado.\n2.    a)      O concurso deverá especificar a área a que diz respeito, as actividades envolvidas, os critérios à luz dos quais as propostas serão avaliadas, as taxas que devem ser pagas na entrega da proposta, quando aplicável, assim como o prazo em que tais propostas deverão ser apresentadas e a forma como serão efectuadas.\nb)      Salvo disposição em contrário constante dos termos do concurso, o Ministério pode decidir não conceder a Autorização a qualquer das propostas apresentadas.\n3.    a)      Uma proposta para obtenção de uma Autorização deverá incluir propostas relativas:\n(i)        à protecção da saúde, segurança e bem-estar das pessoas envolvidas ou afectadas pelas Operações Petrolíferas;\n(ii)       à protecção do ambiente, prevenção, minimização e remediação da poluição, e outros danos ambientais que possam decorrer das Operações Petrolíferas;\n(iii)      à formação e treino, e contratação preferencial, de nacionais de Timor-Leste para trabalharem nas Operações Petrolíferas; e\n(iv)      à aquisição de bens e serviços a Pessoas residentes em Timor-Leste.\nb)      Uma Autorização concedida a um proponente obriga-o ao cumprimento das propostas mencionadas na anterior alínea a).\n4.    O Ministério não concederá uma Autorização relativamente a uma área sem que tenha procedido a uma avaliação de todas as candidaturas apresentadas em resposta ao concurso e em conformidade com o mesmo."
+   }
+  },
+  {
+   "id": "TL-H041-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "heading": {
+    "pt": "Operações Petrolíferas em Caso de Cessação de Vigência do Tratado"
+   },
+   "text": {
+    "pt": "Uma vez terminada a vigência do Tratado, o Ministério concederá uma Autorização ou celebrará um Contrato Petrolífero com aquelas Pessoas que estiverem a desenvolver Operações Petrolíferas ao abrigo dos termos do Tratado, em condições equivalentes àquelas que se encontravam em vigor ao abrigo do Tratado, com as alterações necessárias decorrentes do disposto no artigo 22.º."
+   }
+  },
+  {
+   "id": "TL-H041-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "heading": {
+    "pt": "Operações Petrolíferas em Geral"
+   },
+   "text": {
+    "pt": "1.    Os Contratos Petrolíferos, Autorizações de Acesso e Autorizações de Uso de Percolação determinarão que seja concedido acesso a terceiros em termos e condições razoáveis.\n2.    a)      Se em relação a uma determinada Autorização existir mais do que uma Pessoa Autorizada, as obrigações e responsabilidades de cada Pessoa Autorizada ao abrigo da Autorização são obrigações e responsabilidades de todos eles em regime de solidariedade.\nb)      No respeitante a um Contrato Petrolífero, o Contratante pelo Estado pode ser isento pelo Ministério do requisito estipulado na alínea anterior.\n3.    Uma Autorização é nula ab initio se obtida em violação das leis de Timor-Leste, incluindo as leis respeitantes à corrupção."
+   }
+  },
+  {
+   "id": "TL-H041-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "heading": {
+    "pt": "Restituição e Reparação"
+   },
+   "text": {
+    "pt": "1.    Sem prejuízo da efectivação de responsabilidade penal, a Pessoa que, sem estar devidamente habilitada por uma Autorização, empreenda Operações Petrolíferas:\na)      restituirá a Timor-Leste um montante igual ao valor de mercado do Petróleo desenvolvido, explorado ou exportado, a que acrescem juros de mora a uma taxa a ser determinada pelo Ministério, mas não superior à taxa legal em vigor;\nb)      perdará direito a toda a infra-estrutura e equipamento usado nessas Operações Petrolíferas, ou assegurará a remoção de tais infra-estruturas e equipamentos ou será responsável pelo pagamento dos custos de uma tal remoção; e\nc)      procederá à limpeza da poluição resultante dessas Operações Petrolíferas, ou reembolsará Timor-Leste de todos os custos em que este tenha incorrido em resultado dessa limpeza.\n2.    As medidas previstas no númeo anterior aplicar-se-ão cumulativamente, ou não, em conformidade com uma determinação pelo Ministério, tendo em vista repor Timor-Leste na situação em que se encontraria se o referido Petróleo não tivesse sido ilegitimamente subtraído e as referidas Operações Petrolíferas não tivessem sido empreendidas.\n3.    A responsabilidade decorrente do número anterior, de Pessoas que estejam ou tenham estado envolvidas, conjuntamente, em Operações Petrolíferas, é uma responsabilidade solidária."
+   }
+  },
+  {
+   "id": "TL-H041-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "heading": {
+    "pt": "Restrições ao Exercício dos Direitos"
+   },
+   "text": {
+    "pt": "1.    a)      Uma Pessoa Autorizada não exercerá qualquer dos direitos decorrentes de uma Autorização ou desta Lei:\n(i)        em quaisquer bens imóveis do domínio público sem o consentimento da autoridade responsável;\n(ii)       em quaisquer bens imóveis do domínio privado do Estado sem o consentimento da autoridade responsável; ou\n(iii)      em quaisquer bens imóveis de propriedade privada sem o pagamento de uma indemnização justa e razoável ao proprietário.\nb)      O proprietário de qualquer bem imóvel situado numa Área Autorizada permanece titular do direito de uso e fruição do seu bem, na medida em que tal uso e fruição não interfira com Operações Petrolíferas.\nc)      Uma Autorização pode limitar ou por outra forma controlar o uso de infra-estruturas públicas por uma Pessoa Autorizada, bem como a utilização e/ou consumo, por essa Pessoa, de outros recursos naturais, incluindo árvores, areia, gravilha, rocha e água.\nd)      Uma Autorização não dispensa a Pessoa Autorizada de requerer e obter quaisquer outras autorizações, aprovações ou licenças legalmente exigíveis.\n2.    Uma Pessoa Autorizada não exercerá quaisquer dos direitos decorrentes de uma Autorização ou desta Lei de forma que interfira com a pesca, a navegação ou qualquer outra actividade marítima lícita, sem o consentimento por escrito da autoridade responsável.\n3.    a)      A Pessoa Autorizada é responsável pelo pagamento de uma indemnização justa e razoável se, no decurso de Operações Petrolíferas:\n(i)        perturbar os direitos do proprietário de qualquer bem imóvel, ou lhe causar qualquer dano; ou\n(ii)       claramente interferir com a pesca, a navegação ou qualquer outra actividade marítima lícita.\nb)      Quando o valor de quaisquer direitos tenha sido aumentado em virtude das Operações Petrolíferas, a indemnização a pagar no que diz respeito a esses direitos não excederá qualquer montante que seria devido se tal valor não tivesse sido aumentado.\n4.    O valor da indemnização justa e razoável, a pagar nos termos do presente artigo, será decidido pelo Ministério, tendo em conta as alegações apresentadas pelos interessados."
+   }
+  },
+  {
+   "id": "TL-H041-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "heading": {
+    "pt": "Aprovação pelo Ministério"
+   },
+   "text": {
+    "pt": "1.    Um contrato de operação conjunta, um contrato de levantamento de Petróleo Bruto (lifting arrangement) e qualquer contrato relacionado com as Operações Petrolíferas, assim como quaisquer alterações a tais contratos, serão sujeitos à aprovação pelo Ministério.\n2.    a)      Todas as mudanças no Controlo de uma Pessoa Autorizada serão sujeitas à aprovação prévia pelo Ministério.\nb)      Sempre que uma mudança no Controlo ocorra sem autorização prévia pelo Ministério, o Ministério pode revogar a Autorização em questão.\nc)      A alínea a) do presente n.º 2 não será aplicável se a mudança no Controlo for o resultado directo de uma aquisição de acções ou de outros valores mobiliários cotados num mercado de capitais reconhecido.\nd)      Para os fins da alínea a) do presente n.º 2, mudança no Controlo inclui as situações em que uma Pessoa deixe de exercer o Controlo (quer o Controlo passe ou não a ser exercido por outra Pessoa) e em que uma Pessoa obtenha o Controlo (quer o Controlo fosse ou não anteriormente detido por outra Pessoa).\n3.    Salvo  prévio consentimento por escrito do Ministério, ou se explicitamente disposto nos termos da Autorização, nenhuma cessão, transferência, trespasse, novação, fusão, oneração ou qualquer outro negócio relativo à Autorização será considerado válido, nem produzirá quaisquer efeitos."
+   }
+  },
+  {
+   "id": "TL-H041-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "heading": {
+    "pt": "Contrato de Unitização"
+   },
+   "text": {
+    "pt": "1.    a)      Sempre que uma Jazida esteja localizada parcialmente numa Área do Contrato e parcialmente noutra Área do Contrato:\n(i)        o Ministério pode através de notificação por escrito exigir que os Contratantes celebrem um contrato de unitização entre si, com o fim de assegurar uma mais efectiva e optimizada produção de Petróleo nessa Jazida; e\n(ii)       se os contratantes não tiverem chegado a acordo num prazo de dezoito (18) meses a contar da recepção da notificação referida na sub-alínea (i), cabe ao Ministério decidir sobre os termos do contrato de unitização.\nb)      Sempre que uma Jazida esteja localizada parcialmente numa Área do Contrato e parcialmente numa área que não seja objecto de um Contrato Petrolífero:\n(i)        o Ministério pode através de notificação por escrito exigir que o Contratante celebre um contrato de unitização com o Ministério, com o fim de assegurar uma mais efectiva e optimizada produção de Petróleo relativamente a essa Jazida; e\n(ii)       se um acordo não tiver sido obtido no prazo de dezoito (18) meses a contar da recepção da notificação referida na sub-alínea (i), cabe ao Ministério decidir sobre os termos do contrato de unitização, salvo se o Contrato Petrolífero dispuser de forma diversa.\n2.    Sem prejuízo da regulação de outras matérias, o contrato de unitização definirá a quantidade de Petróleo em cada uma das áreas abrangidas pelo contrato de unitização, e nomeará o Operador responsável pela produção do Petróleo abrangido pelo contrato de unitização.\n3.    O Ministério só pode aprovar o desenvolvimento ou exploração da Jazida após o contrato de unitização ter sido aprovado ou decidido nos termos do n.º 1 do presente artigo.\n4.    Quaisquer alterações ao contrato de unitização serão sujeitas à aprovação pelo Ministério."
+   }
+  },
+  {
+   "id": "TL-H041-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "heading": {
+    "pt": "Resolução de Litígios"
+   },
+   "text": {
+    "pt": "1.    a)      O Ministério pode investigar, e decidir sobre, todos os litígios que envolvam Pessoas que se encontrem a desenvolver Operações Petrolíferas:\n(i)        entre estas Pessoas, quando os acordos celebrados entre elas não estabeleçam um mecanismo de resolução de litígios; ou\n(ii)       quando envolvam terceiros (que não o Governo) que não se encontrem a desenvolver tais Operações Petrolíferas, desde que estes aceitem a jurisdição do Ministério para a resoluçãodo litígio.\nb)      O Ministério pode recusar proceder à resolução de qualquer litígio que lhe seja submetido e, se o fizer, notificará por escrito as partes envolvidas no litígio.\nc)      O Ministério pode, tendo em consideração todas as circunstâncias relevantes, emitir directivas que possam ser necessárias para conferir efeito à sua decisão no âmbito dos procedimentos efectuados em conformidade com este artigo, podendo ordenar o pagamento, a efectuar por uma parte envolvida no litígio, a qualquer outra parte envolvida, de uma indemnização definida por critérios de justiça e razoabilidade.\n2.    a)      Caso surja uma disputa entre uma Pessoa Autorizada e o Ministério, relativamente à interpretação e aplicação dos termos de uma Autorização, ou execução da mesma, as partes tentarão resolver o litígio pela via negocial.\nb)      Se tal litígio não puder ser resolvido pela via negocial, qualquer parte pode submeter a resolução do mesmo a arbitragem ou à autoridade judicial competente."
+   }
+  },
+  {
+   "id": "TL-H041-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "heading": {
+    "pt": "Dispensa e Alteração de Condições e Obrigações"
+   },
+   "text": {
+    "pt": "O Ministério pode dispensar uma Pessoa Autorizada do cumprimento das condições e obrigações constantes da sua Autorização, e pode também acordar em alterar ou suspender tais condições e obrigações, de forma temporária ou permanente, e sujeitando-as ou não a qualquer condição.\nCAPÍTULO III\nPARTICIPAÇÃO DO ESTADO"
+   }
+  },
+  {
+   "id": "TL-H041-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "heading": {
+    "pt": "Participação do Estado em Operações Petrolíferas"
+   },
+   "text": {
+    "pt": "1.    A decisão relativa à participação de Timor-Leste em Operações Petrolíferas será tomada pelo Conselho de Ministros, o qual pode delegar esta competência no Primeiro-Ministro.\n2.    Esta Lei aplicar-se-á ao Contratante pelo Estado nos mesmos termos em que é aplicável a qualquer outro Contratante, com as adaptações necessárias.\n3.    Cada Autorização estipulará o direito de Timor-Leste a participar em Operações Petrolíferas, até uma quota-parte máxima de vinte por cento (20%) do património.\n4.    A participação de Timor-Leste pode ter lugar em qualquer fase das Operações Petrolíferas, em conformidade com os termos e condições a estabelecer por contrato.\nCAPÍTULO IV\nDESENVOLVIMENTO DE ACTIVIDADES PETROLÍFERAS"
+   }
+  },
+  {
+   "id": "TL-H041-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "heading": {
+    "pt": "Práticas de Trabalho"
+   },
+   "text": {
+    "pt": "1.    As Operações Petrolíferas serão conduzidas de acordo com as Melhores Técnicas e Práticas da Indústria Petrolífera, ou seja, de acordo com as técnicas, práticas e procedimentos empregues na indústria petrolífera, a nível mundial, por operadores prudentes e diligentes, em circunstâncias e sob condições similares àquelas que se verificam em relação a aspectos relevantes das Operações Petrolíferas, principalmente destinadas a garantir:\n(a)     a conservação de recursos petrolíferos, o que implica a utilização de métodos e processos adequados a maximizar a extracção e recuperação de hidrocarbonetos, de uma forma técnica e economicamente sustentável, com um correspondente controlo do declínio de reservas, e a minimização de perdas à superfície;\nb)      a segurança operacional, o que implica a utilização de métodos e processos que promovam a segurança ocupacional e a prevenção de acidentes;\nc)      a protecção ambiental, o que requer a adopção de métodos e processos que minimizem o impacte de Operações Petrolíferas sobre o ambiente.\n2.    A produção de Petróleo terá lugar:\na)      de tal maneira que seja produzido o máximo possível do Petróleo localizado em cada depósito individual, ou em vários depósitos associados;\nb)      de acordo com as Melhores Técnicas e Práticas da Indústria Petrolífera e com princípios económicos sãos e equilibrados; e\nc)      de maneira a que seja evitado o desperdício de Petróleo ou energia da Jazida.\n3.    Os Contratantes levarão a cabo uma avaliação contínua da estratégia de produção e das soluções técnicas, e adoptarão todas as medidas necessárias para as realizar, informando o Ministério de quaisquer alterações relevantes, de acordo com as Melhores Técnicas e Práticas da Indústria Petrolífera."
+   }
+  },
+  {
+   "id": "TL-H041-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "heading": {
+    "pt": "Desmantelamento"
+   },
+   "text": {
+    "pt": "Uma Pessoa Autorizada procederá ao Desmantelamento:\na)      quando ocorrer a extinção da Autorização; ou\nb)      se deixar de ser necessário para a prossecução das Operações Petrolíferas; e, em qualquer caso:\nc)      salvo com o consentimento por escrito do Ministério e de acordo com as condições desse consentimento; ou\nd)      a não ser que a Autorização disponha em sentido diverso.\nPARTE V\nINFORMAÇÃO E INVESTIGAÇÃO"
+   }
+  },
+  {
+   "id": "TL-H041-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "heading": {
+    "pt": "Dados e Informações"
+   },
+   "text": {
+    "pt": "1.    Timor-Leste detém a propriedade de todos os dados e informação, sejam brutos, derivados, processados, interpretados ou analisados, obtidos ao abrigo de qualquer Autorização.\n2.    Os dados e informações obtidos no decorrer das Operações Petrolíferas poderão ser livremente exportados pelas Pessoas Autorizadas, podendo o Ministério exigir que um original, ou no caso de um tarolo (core), rocha, fluido ou qualquer outra amostra física, porção utilizável do original, de todos esses dados e informação, quer físicos quer electrónicos, seja mantido em Timor-Leste."
+   }
+  },
+  {
+   "id": "TL-H041-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "heading": {
+    "pt": "Auditoria e Inspecção"
+   },
+   "text": {
+    "pt": "1.    a)      O Ministério pode nomear uma pessoa para assumir as funções de Inspector para os efeitos da presente Lei (um “Inspector”).\nb)      O Inspector disporá dos poderes e direitos estabelecidos em regulamentação própria.\n2.    Quando solicitado, a Pessoa Autorizada disponibilizará os seus livros e contas ao Ministério, para efeitos de auditoria."
+   }
+  },
+  {
+   "id": "TL-H041-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "heading": {
+    "pt": "Extinção das Autorizações"
+   },
+   "text": {
+    "pt": "1.    a)      A cessação de uma Autorização, qualquer que seja o motivo, não prejudica os direitos e obrigações remanescentes nos termos desta Lei ou da Autorização, ou dos direitos e obrigações adquiridos ao seu abrigo antes da cessação, mantendo-se ainda em vigor, pelo período para tal necessário, todas as disposições de uma Autorização que sejam razoavelmente necessárias para o total cumprimento desses direitos e obrigações.\nb)      O Ministério tem competência para extinguir uma Autorização em conformidade com os termos estabelecidos na Autorização.\n2.    a)      Se existir mais do que uma Pessoa Autorizada, no que diz respeito a uma determinada Autorização, e surjam circunstâncias que legitimem a extinção dessa Autorização pelo Ministério, este poderá optar por extingui-la parcialmente, em relação àquelas Pessoas Autorizadas cujos actos e omissões tenham conduzido a tais circunstâncias (ou em relação a quem esses actos, omissões ou factos tenham ocorrido), ficando o Ministério obrigado neste caso a notificar as restantes Pessoas Autorizadas.\nb)      Se o Ministério determinar a extinção de uma Autorização ao abrigo da alínea anterior, as restantes Pessoas Autorizadas, na proporção das respectivas quotas-partes, terão direito de preferência na aquisição da Autorização extinta. Qualquer parte da Autorização extinta que não seja adquirida pelas restantes Pessoas Autorizadas reverterá para Timor-Leste."
+   }
+  },
+  {
+   "id": "TL-H041-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "heading": {
+    "pt": "Sub-rogação em Matéria de Responsabilidade Civil"
+   },
+   "text": {
+    "pt": "Uma Pessoa Autorizada:\na)      defenderá, manterá indemne e desresponsabilizará o Governo e o Ministério, e pagará as necessárias indemnizações, relativamente a todos os pedidos de indemnização, questões de responsabilidade civil, reclamações, pretensões e quaisquer outros pedidos, apresentados por terceiros, que resultem, directa ou indirectamente, de Operações Petrolíferas; e\nb)      estará coberta por seguro de responsabilidade objectiva relativamente a quaisquer pedidos, pretensões ou reclamações referidas na alínea anterior, no montante que o Ministério a qualquer momento exija, salvo se o Ministério considerar, após consulta com a Pessoa Autorizada, que a responsabilidade potencial decorrente da alínea anterior pode ser coberta por outros meios.\nCAPÍTULO VI\nINFORMAÇÃO PÚBLICA"
+   }
+  },
+  {
+   "id": "TL-H041-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "heading": {
+    "pt": "Publicação pelo Ministério"
+   },
+   "text": {
+    "pt": "1.    O Ministério publicará, no Jornal da República:\na)      aviso de concessão ou celebração de Autorizações, e um sumário dos termos de tais Autorizações;\nb)      concurso para apresentação de propostas para obtenção de Autorizações ao abrigo da alínea (a), do n.º 1, do artigo 13.º; e\nc)      aviso de extinção de Autorizações.\n2.    O Ministério publicará convites para apresentação de propostas para obtenção de Autorizações ao abrigo da alínea (a), do n.º 1, do artigo 13.º nos meios de comunicação social, da forma que for estabelecida em regulamentação própria."
+   }
+  },
+  {
+   "id": "TL-H041-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "heading": {
+    "pt": "Registo Público"
+   },
+   "text": {
+    "pt": "1.    a)     O Ministério colocará à disposição do público:\n(i)        cópias de todas as Autorizações e respectivas modificações, estejam ou não em vigor;\n(ii)       detalhes de dispensas concedidas, e alterações ou suspensões acordadas, ao abrigo do\nartigo 21.º;\n(iii)      cópias de todos os contratos de unitização.\nb)      O Ministério colocará à disposição do público, em formato de sumário, e num prazo razoável após tal lhe ter sido requerido, detalhes relativos a:\n(i)        todas as Autorizações, e respectivas modificações, estejam ou não em vigor, e contratos de unitização, referidos no parágrafo anterior;\n(ii)       planos de desenvolvimento aprovados ao abrigo de um Contrato Petrolífero;\n(iii)      todas as transmissões e outros negócios autorizados, relativos a Autorizações, sem prejuízo da confidencialidade e termos comerciais; e\n(iv)      todas as Autorizações, e respectivas modificações, estejam ou não em vigor, e contratos de unitização, que sejam fornecidos em cumprimento do Código.\nc)      O Ministério colocará à disposição do público, em formato de sumário, e num prazo razoável após tal lhe ter sido requerido, detalhes relativos às Operações Petrolíferas na área coberta pelo Tratado, fornecidos em cumprimento do Código.\n2.    No prazo de dez (10) dias úteis após tal lhe ter sido requerido, o Ministério publicará, em formato de sumário, a fundamentação de:\na)      concessão de uma Autorização decorrente de convite para apresentação de propostas ao abrigo da alínea a), do n.º 1, do artigo 13.º;\nb)      concessão de uma Autorização por negociação directa ao abrigo da alínea b), do n.º 1, do\nartigo 13.º;\nc)      aprovação de um plano de desenvolvimento ao abrigo de um Contrato Petrolífero;\nd)      dispensas concedidas, e alterações ou suspensões acordadas, ao abrigo do artigo 21.º; e\ne)      quaisquer decisões, concessões ou aprovações que, nos termos de uma Autorização, exija publicação.\n3.    a)      As empresas estão obrigadas a apresentar relatórios relativos ao cumprimento das obrigações e requisitos a que estejam sujeitas nos termos da Lei e de Autorizações, da maneira e com o detalhe exigido pela Autorização respectiva e em regulamentação própria.\nb)      O Ministério colocará à disposição do público tais relatórios.\n4.    O Ministério colocará à disposição do público os relatórios apresentados por Pessoas Autorizadas em relação a pagamentos referentes a Operações Petrolíferas efectuados ao Governo de Timor--Leste, tal como exigido por lei.\n5.    A informação a que é feita referência no presente artigo será colocada à disposição de qualquer Pessoa mediante o pagamento de uma taxa a estabelecer para o efeito em regulamentação própria.\n6.    A informação a que é feita referência nas alíneas b) e c), do n.º 1, do presente artigo será colocada à disposição do público em pelo menos uma das línguas oficiais de Timor-Leste.\nPARTE VII\nREGULAMENTOS E DIRECTIVAS"
+   }
+  },
+  {
+   "id": "TL-H041-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "heading": {
+    "pt": "Regulamentos"
+   },
+   "text": {
+    "pt": "1.    O Governo poderá emitir regulamentos ao abrigo desta Lei no que respeita às seguintes matérias:\na)      quadriculação do Território de Timor-Leste;\nb)      pesquisa e produção de Petróleo;\nc)      uso e divulgação de dados, informação, registos e relatórios;\nd)      medição e venda ou alienação de Petróleo;\ne)      saúde e segurança;\nf)       protecção e restauração do meio ambiente;\ng)      gestão de recursos;\nh)      estruturas, instalações e apoios;\n(i)       limpeza ou qualquer outra remediação dos efeitos das fugas de Petróleo;\nj)       abandono e desmantelamento;\nk)      controlo do movimento de pessoas, navios, aeronaves, veículos e quaisquer outras estruturas ou plataformas, para dentro e para fora de Timor-Leste e dentro do seu Território;\nl)       programas de trabalho e orçamentos;\nm)     controlo de tarifas cobradas no acesso de terceiros;\nn)      auditoria a uma Pessoa Autorizada e às suas contas e registos;\no)      relatórios elaborados por Pessoas Autorizadas relativos ao cumprimento das obrigações a que estejam sujeitas por efeito da Lei e Autorizações, incluindo as relativas a:\n(i)        treino e emprego de nacionais de Timor-Leste,\n(ii)       aquisição de bens e serviços em Timor-Leste,\n(iii)      saúde e segurança ocupacional, e\n(iv)      protecção ambiental;\np)    taxas a serem pagas, incluindo pelos proponentes à obtenção de Autorizações, por Pessoas Autorizadas e Pessoas que desejem consultar o registo público; e\nq)    quaisquer outras matérias relacionadas com esta Lei.\n2.    O Ministério publicará os regulamentos no Jornal da República."
+   }
+  },
+  {
+   "id": "TL-H041-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "heading": {
+    "pt": "Directivas"
+   },
+   "text": {
+    "pt": "Para além da competência de emitir directivas ao abrigo do n.º 4, do artigo 11.º e da alínea c), do n.º 1, do artigo 20.º, o Ministério pode emitir directivas para as Pessoas Autorizadas:\na)      relativamente a qualquer matéria a que faz referência o n.º 1, do artigo 31.º; ou\nb)      exigindo por qualquer outra forma o cumprimento da Lei ou da sua Autorização.\nCAPÍTULO VIII\nDISPOSIÇÕES SANCIONATÓRIAS"
+   }
+  },
+  {
+   "id": "TL-H041-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "heading": {
+    "pt": "Âmbito Espacial e Material de Aplicação deste Capítulo"
+   },
+   "text": {
+    "pt": "1.    O disposto nos artigos 34.º, 35.º, 37.º, 39.º, 40.º, 41.º e 43.º é, com as adaptações necessárias, aplicável a áreas sujeitas ao Tratado.\n2.    As disposições do presente Capítulo não prejudicam a efectivação de responsabilidade penal e civil nos termos da lei geral."
+   }
+  },
+  {
+   "id": "TL-H041-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "heading": {
+    "pt": "Actividades Não Autorizadas"
+   },
+   "text": {
+    "pt": "1.    Quem, sem para tal estar devidamente habilitado por uma Autorização, empreenda Operações Petrolíferas, é punido com prisão de três (3) meses a cinco (5) anos ou multa não inferior a cem\n(100) dias.\n2.    Se o prejuízo estimado causado ao Estado for superior a cinquenta mil dólares dos Estados Unidos da América (USD $50.000,00) a pena será de um (1) a oito (8) anos de prisão ou multa não inferior a cento e cinquenta (150) dias."
+   }
+  },
+  {
+   "id": "TL-H041-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "heading": {
+    "pt": "Perigo para Pessoas, Bens Patrimoniais e Meio Ambiente"
+   },
+   "text": {
+    "pt": "Quem, mediante uma conduta infractora do disposto na presente Lei ou no Código, criar perigo para a vida ou para a integridade física de outrem, ou para bens patrimoniais de valor elevado, ou criar perigo grave para o meio ambiente, é punido com:\na)    Prisão de um (1) a oito (8) anos ou multa não inferior a duzentos (200) dias, se a conduta e a criação do perigo forem dolosos;\nb)    Prisão até cinco (5) anos ou multa não inferior a cem (100) dias, se a conduta for dolosa e a criação do perigo ocorrer por negligência."
+   }
+  },
+  {
+   "id": "TL-H041-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "heading": {
+    "pt": "Impedir ou Perturbar o Exercício de Funções pelo Inspector"
+   },
+   "text": {
+    "pt": "1.    Quem, directa ou indirectamente, em qualquer medida e por qualquer meio, impedir ou dificultar, ou levar outrem a impedir ou dificultar, o exercício de poderes de fiscalização e funções pelo Inspector, é punido com prisão de três (3) meses a quatro (4) anos ou multa não inferior a cem\n(100) dias.\n2.    A tentativa é punível."
+   }
+  },
+  {
+   "id": "TL-H041-A37",
+   "no": 37,
+   "noLabel": {
+    "pt": "Artigo 37.º"
+   },
+   "heading": {
+    "pt": "Informação Falsa ou Enganosa"
+   },
+   "text": {
+    "pt": "1.    Quem,\na)      na apresentação de propostas ao abrigo desta Lei ou do Código, ou em conexão com essas propostas, prestar, dolosa ou negligentemente, qualquer informação que seja materialmente falsa ou enganosa, ou\nb)      dolosa ou negligentemente, incluir ou permitir que seja incluída, em qualquer relatório, declaração de imposto, ou declaração ajuramentada, apresentados ao abrigo de qualquer disposição desta Lei ou de uma Autorização, qualquer informação que seja falsa ou enganosa, é punido com prisão até três (3) anos ou multa não inferior a setenta e cinco (75) dias.\n2.    A tentativa é punível."
+   }
+  },
+  {
+   "id": "TL-H041-A38",
+   "no": 38,
+   "noLabel": {
+    "pt": "Artigo 38.º"
+   },
+   "heading": {
+    "pt": "Incumprimento de Regulamentos e Directivas"
+   },
+   "text": {
+    "pt": "1.    Em caso de incumprimento, ainda que negligente, por uma Pessoa, dos regulamentos a que faz referência o artigo 31.º, e/ou das directivas a que faz referência o artigo 32.º, o Ministério pode exigir o cumprimento imediato de todas as obrigações regulamentares e/ou proceder à execução de quaisquer actos materiais adequados e necessários ao cumprimento de tais obrigações, sendo os custos e despesas imputados à Pessoa em questão.\n2.    O Estado tem direito de regresso relativamente aos custos e despesas incorridos nos termos da alínea anterior, acrescidos de juros de mora a taxa a ser determinada pelo Ministério. O montante em questão constitui uma dívida ao Estado."
+   }
+  },
+  {
+   "id": "TL-H041-A39",
+   "no": 39,
+   "noLabel": {
+    "pt": "Artigo 39.º"
+   },
+   "heading": {
+    "pt": "Penas Acessórias"
+   },
+   "text": {
+    "pt": "Relativamente aos crimes previstos na presente Lei podem ser aplicadas as seguintes penas acessórias:\na)      Privação temporária do direito de participação em concursos públicos no âmbito de Operações Petrolíferas, designadamente os que se refiram a Autorizações e à aquisição de bens e serviços;\nb)      Embargo de obras, nos casos em que possam provocar dano irreversível a interesses públicos relevantes;\nc)      Interdição, até um máximo de dois (2) anos, do exercício das actividades, se a Pessoa tiver praticado, durante o prazo de um (1) ano a contar da data da primeira infracção, três (3) infracções às normas da presente Lei;\nd)      Rescisão de Autorizações;\ne)      Caução de boa conduta;\nf)       Privação do direito a subsídios ou subvenções outorgados por entidades ou serviços públicos;\ng)      Publicidade da decisão condenatória; e/ou\nh)      Outras medidas cautelares que se revelem adequadas tendo em conta as circunstâncias do caso concreto."
+   }
+  },
+  {
+   "id": "TL-H041-A40",
+   "no": 40,
+   "noLabel": {
+    "pt": "Artigo 40.º"
+   },
+   "heading": {
+    "pt": "Responsabilidade de Pessoas Colectivas e Equiparadas"
+   },
+   "text": {
+    "pt": "1.    As pessoas colectivas, sociedades, meras associações de facto e quaisquer outras entidades jurídicas, incluindo aquelas sem personalidade jurídica, são responsáveis pelas infracções previstas no presente Capítulo quando cometidas pelos seus órgãos ou representantes em seu nome e no interesse colectivo.\n2.    A responsabilidade é excluída quando o agente tiver actuado contra ordens ou instruções expressas de quem de direito.\n3.    A responsabilidade das entidades referidas no n.º 1 não exclui a responsabilidade individual dos respectivos agentes.\n4.    As entidades referidas no n.º 1 respondem solidariamente, nos termos da lei civil, pelo pagamento das multas ou indemnizações, ou o cumprimento de quaisquer obrigações, derivadas de factos relativos ou com incidência em matérias abrangidas pelo âmbito de aplicação da presente Lei."
+   }
+  },
+  {
+   "id": "TL-H041-A41",
+   "no": 41,
+   "noLabel": {
+    "pt": "Artigo 41.º"
+   },
+   "heading": {
+    "pt": "Multa a Pessoas Colectivas e Equiparadas"
+   },
+   "text": {
+    "pt": "1.    No caso de pessoas colectivas, sociedades, meras associações de facto e quaisquer outras entidades jurídicas, incluindo aquelas sem personalidade jurídica, cada dia de multa corresponde a uma quantia entre cinco dólares dos Estados Unidos da América (USD $5,00) e dez mil dólares dos Estados Unidos da América (USD $10.000,00) que o tribunal fixará em função da situação económica e financeira da pessoa colectiva ou equiparada e dos seus encargos.\n2.    Se a multa for aplicada a uma entidade sem personalidade jurídica, responderá por ela o património comum e, na sua falta ou insuficiência, solidariamente, o património de cada um dos associados."
+   }
+  },
+  {
+   "id": "TL-H041-A42",
+   "no": 42,
+   "noLabel": {
+    "pt": "Artigo 42.º"
+   },
+   "heading": {
+    "pt": "Fiscalização"
+   },
+   "text": {
+    "pt": "Compete ao Ministério e ao Inspector, e a quaisquer outros órgãos da Administração Pública a quem tal competência seja delegada, nos termos legais e regulamentares, assegurar a fiscalização do cumprimento das normas constantes desta Lei, sem prejuízo das competências atribuídas por lei a outras entidades públicas."
+   }
+  },
+  {
+   "id": "TL-H041-A43",
+   "no": 43,
+   "noLabel": {
+    "pt": "Artigo 43.º"
+   },
+   "heading": {
+    "pt": "Título Executivo Extrajudicial"
+   },
+   "text": {
+    "pt": "Constitui título executivo extrajudicial, para efeitos de cobrança coerciva nos termos da lei geral, a certidão passada pelo Ministério relativa a dívida constituída ou quantia devida nos termos da presente Lei, que não seja saldada num prazo razoável a ser estabelecido pelo Ministério, o qual deve ser notificado por escrito à Pessoa devedora."
+   }
+  },
+  {
+   "id": "TL-H041-A44",
+   "no": 44,
+   "noLabel": {
+    "pt": "Artigo 44.º"
+   },
+   "heading": {
+    "pt": "Legislação Subsidiária"
+   },
+   "text": {
+    "pt": "A legislação penal, assim como a legislação administrativa e civil relevante, são aplicáveis, subsidiariamente, com as adaptações necessárias, para a efectivação dos termos do presente Capítulo.\nCAPÍTULO IX\nOUTRAS DISPOSIÇÕES E DISPOSIÇÕES FINAIS"
+   }
+  },
+  {
+   "id": "TL-H041-A45",
+   "no": 45,
+   "noLabel": {
+    "pt": "Artigo 45.º"
+   },
+   "heading": {
+    "pt": "Disposição Transitória"
+   },
+   "text": {
+    "pt": "1.    O disposto no artigo 16.º é, com as adaptações necessárias, aplicável a todas as Operações Petrolíferas empreendidas desde 28 de Novembro de 1975 que não estejam, ou não tenham estado, devidamente habilitadas por uma Autorização.\n2.    O Ministério pode, no exercício de poderes discricionários, emitir regulamentos que estabeleçam o procedimento administrativo a ser seguido, assim como as obrigações a serem acatadas, pelas Pessoas que se envolveram ou estejam envolvidas, à data da entrada em vigor desta Lei, em Operações Petrolíferas sem se encontrarem ao abrigo de uma Autorização, de forma a que as Operações Petrolíferas passadas e/ou presentes sejam consideradas, para efeitos desta Lei, em conformidade com uma Autorização."
+   }
+  },
+  {
+   "id": "TL-H041-A46",
+   "no": 46,
+   "noLabel": {
+    "pt": "Artigo 46.º"
+   },
+   "heading": {
+    "pt": "Intransmissibilidade"
+   },
+   "text": {
+    "pt": "Uma Autorização concedida a uma pessoa singular não pode ser transmitida por morte do seu titular sem autorização expressa do Ministério, sem prejuízo da transmissão do valor patrimonial que lhe corresponda."
+   }
+  },
+  {
+   "id": "TL-H041-A47",
+   "no": 47,
+   "noLabel": {
+    "pt": "Artigo 47.º"
+   },
+   "heading": {
+    "pt": "Entrada em Vigor"
+   },
+   "text": {
+    "pt": "Esta Lei entrará em vigor no dia seguinte ao da sua publicação no Jornal da República."
+   }
+  }
+ ]
+}

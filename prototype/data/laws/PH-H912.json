@@ -1,0 +1,84 @@
+{
+ "id": "PH-H912",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Purchase of Certain Shares of Capital Stock of the Manila Railroad Company of the Philippine Islands, for Which the Government Has not Yet Subscribed Under Act Numbered Three Thousand One Hundred Sixteen, as Amended by Act Numbered Three Thousand Four Hundred Eighty Four and Commonwealth Act Numbered Three Hundred Fourteen",
+  "orig": "An Act Authorizing the Purchase of Certain Shares of Capital Stock of the Manila Railroad Company of the Philippine Islands, for Which the Government Has not Yet Subscribed Under Act Numbered Three Thousand One Hundred Sixteen, as Amended by Act Numbered Three Thousand Four Hundred Eighty Four and Commonwealth Act Numbered Three Hundred Fourteen"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p12",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1954-06-15",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1077",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1245,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1954/ra_1077_1954.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1954/ra_1077_1954.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H912-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The Secretary of Finance, with the approval of the President of the Philippines, is hereby authorized to purchase sixteen thousand five hundred forty shares of capital stock of the Manila Railroad Company of the Philippine Islands of the par value of three million three hundred eight thousand pesos, this number of shares not having been subscribed for out of seventy thousand shares which the Government was authorized to subscribe for under Act Numbered Three thousand one hundred sixteen, as amended by Act Numbered Three thousand four hundred eighty four and Commonwealth Act Numbered Three hundred fourteen."
+   }
+  },
+  {
+   "id": "PH-H912-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The sum of three million three hundred eight thousand pesos is hereby appropriated out of any funds in the National Treasury not otherwise appropriated."
+   }
+  },
+  {
+   "id": "PH-H912-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The Manila Railroad Company of the Philippine Islands shall expend these funds for the acquisition and/or improvement of its rolling stock and other physical property, as the said funds are in effect a reimbursement of what said Railroad Company had expended out of its own income for the construction of the line connecting Aloneros, Quezon, on the main line south with Pamplona, Camarines, Sur, Legaspi line."
+   }
+  },
+  {
+   "id": "PH-H912-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1954."
+   }
+  }
+ ]
+}

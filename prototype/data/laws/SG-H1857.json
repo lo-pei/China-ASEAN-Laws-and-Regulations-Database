@@ -1,0 +1,101 @@
+{
+ "id": "SG-H1857",
+ "title": {
+  "zh": null,
+  "en": "Housing and Development (Singapore Labour Foundation) Order",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p23",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation HDA1959-OR12",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1323,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/HDA1959-OR12?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 5 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1857-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Order may be cited as the Housing and Development (Singapore Labour Foundation) Order."
+   }
+  },
+  {
+   "id": "SG-H1857-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Singapore Labour Foundation may purchase HDB flat"
+   },
+   "text": {
+    "en": "2. The Singapore Labour Foundation, a body corporate established under the Singapore Labour Foundation Act (Cap. 302), shall be entitled to purchase from the Board the flats comprised in Block 5 Changi Village Road which are set out in the First Schedule, and sold subject to the provisions of Part IV of the Act."
+   }
+  },
+  {
+   "id": "SG-H1857-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Modifications to Part IV of Act"
+   },
+   "text": {
+    "en": "3. The provisions of Part IV of the Act shall apply in relation to the Singapore Labour Foundation with the modifications set out in the Second Schedule."
+   }
+  },
+  {
+   "id": "SG-H1857-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nParagraph 2\n#03-2001, #03-2003, #03-2007, #03-2009, #03-2011, #03-2013, #03-2015, #03-2017, #03-2019, #03-2021, #03-2023, #03-2029, #03-2031, #03-2039, #03-2041, #03-2043, #03-2045, #03-2047, #03-2049, #03-2051, #03-2053, #03-2055, #04-2015, #04-2017, #04-2019, #04-2021, #04-2023, #04-2025, #04-2027, #04-2029, #04-2031, #04-2033, #04-2035, #04-2037, #04-2039, #04-2041, #04-2043, #04-2051 and #04-2053."
+   }
+  },
+  {
+   "id": "SG-H1857-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nParagraph 3\n1. Sections 47, 48, 48B, 49, 52 and 56(1)(b), (j) and (l) of the Act shall not apply to the Singapore Labour Foundation.\n2. For the avoidance of doubt, the exemptions in paragraph 1 shall not extend to any assignee or purchaser of any such flat from the Singapore Labour Foundation.\n[G.N. Nos. S 541/2008; S334/2009]"
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "SG-H2977",
+ "title": {
+  "zh": null,
+  "en": "Landing Place for Dangerous Goods (S.p.c. Pte. Ltd.)",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p37",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation 236-N4",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 813,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/236-N4?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 2 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2977-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Port of Singapore Authority Act\n[Rg 6.]\n(Chapter 236 and Regulation 40(2))\nLanding Place for Dangerous Goods (S.p.c. Pte. Ltd.)\nN 4\nREVISED EDITION 1990\n(25th March 1992)\n[18th June 1976]\nThe Port of Singapore Authority hereby declares the wharves, piers and jetties belonging to Singapore Petroleum Co. Pte. Ltd. and more particularly described in the Schedule hereto as a landing place for dangerous goods."
+   }
+  },
+  {
+   "id": "SG-H2977-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nThe area is bounded within the straight lines joining the following co-ordinates of the Jurong Town Corporation grid in links based upon the origin at Government Offices Building being in Latitude 01° 17′ 15.528″ North, Longitude 103° 51′ 10.808″ East:\n(a)7 518.86 North 66 222.88 West;\n(b)7 150.88 North 66 312.92 West;\n(c)7 176.03 North 66 415.12 West; and\n(d)7 543.99 North 66 326.42 West."
+   }
+  }
+ ]
+}

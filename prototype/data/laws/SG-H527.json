@@ -1,0 +1,81 @@
+{
+ "id": "SG-H527",
+ "title": {
+  "zh": null,
+  "en": "Central Provident Fund (Platform Earnings — Excluded Payments) Notification 2024",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p07",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CPFA1953-S1027-2024",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 3456,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CPFA1953-S1027-2024?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H527-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. This Notification is the Central Provident Fund (Platform Earnings — Excluded Payments) Notification 2024 and comes into operation on 1 January 2025."
+   }
+  },
+  {
+   "id": "SG-H527-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In this Notification —\n“dental treatment” means any of the following:\n(a)the performance of any procedure, work, service or investigation, the giving of any treatment or advice, or any attendance, that a dentist considers necessary for the treatment or diagnosis of any dental ailment, infirmity or defect (other than a solely aesthetic defect);\n(b)the performance of any procedure, the giving of any treatment or advice, or any attendance, that is usually provided by dentists for the maintenance of dental hygiene;\n“dependant”, in relation to a platform worker, means —\n(a)a natural child or stepchild of the platform worker;\n(b)a child whose adoption, guardianship or foster care by the platform worker is recognised by the law or consular authority of the place of nationality of the platform worker or child; or\n(c)a spouse of the platform worker under a marriage that is recognised by the law of the country, territory or state in which the marriage took place;\n“medical treatment” means any of the following that a medical practitioner considers necessary for the treatment or diagnosis of any physical or mental ailment, infirmity or defect (other than a solely aesthetic defect):\n(a)the performance of any procedure, work, service or investigation;\n(b)the giving of any treatment or advice;\n(c)any attendance;\n“relevant treatment” means any dental treatment, medical treatment or traditional Chinese medicine treatment, whether in Singapore or elsewhere;\n“traditional Chinese medicine treatment” means any of the following that a practitioner of traditional Chinese medicine considers necessary for the treatment or diagnosis, on the basis of traditional Chinese medicine, of any physical ailment, infirmity or defect (other than a solely aesthetic defect):\n(a)the performance of any procedure, work, service or investigation;\n(b)the giving of any treatment or advice;\n(c)any attendance.\n(2) In sub‑paragraph (1), a reference to a dentist, a medical practitioner or a practitioner of traditional Chinese medicine is a reference to —\n(a)in a case of any relevant treatment in Singapore — a registered dentist (as defined in section 2 of the Dental Registration Act 1999), a registered medical practitioner (as defined in section 2(1) of the Medical Registration Act 1997) or a registered person (as defined in section 2 of the Traditional Chinese Medicine Practitioners Act 2000), as the case may be; and\n(b)in a case of any relevant treatment outside Singapore — a dentist, medical practitioner or practitioner of traditional Chinese medicine (as the case may be) who is qualified to practise under the law of the country, territory or state in which that relevant treatment is provided."
+   }
+  },
+  {
+   "id": "SG-H527-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Excluded payments"
+   },
+   "text": {
+    "en": "3. For the purposes of the definition of “platform earnings” in section 2(1) of the Act, the following payments that become due to a platform worker from a platform operator are excluded payments:\n(a)any payment to reimburse a platform worker for any amount incurred in respect of any relevant treatment received or to be received by the platform worker or an individual who is a dependant of the platform worker at the time that the payment becomes due;\n(b)any payment to reimburse any special expenses incurred by a platform worker by reason of the platform worker’s provision of a platform service."
+   }
+  }
+ ]
+}

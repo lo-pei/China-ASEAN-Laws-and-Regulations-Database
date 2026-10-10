@@ -1,0 +1,618 @@
+{
+ "id": "TL-H085",
+ "title": {
+  "zh": "法律关于反腐败委员会",
+  "en": null,
+  "orig": "Lei Sobre a Comissão Anti-Corrupção"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "amended",
+ "promulgatedDate": "2009-07-15",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "据公报标题，本法经 Lei n.º 1/2024 修改；本库收录的是本法原始公布文本，修改后的合并本未另行收录。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 8/2009",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 36,
+ "chars": 25594,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2009/serie_1/serie1_no25.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 36 条；逐字取自官方公报 PDF（public/docs/2009/serie_1/serie1_no25.pdf）第 3308–3326 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 公报另在本法之后重排了《第 7/2004 号法律》的全文（葡文 republicação「再版公告」体例）——该部分系他法条文，不属本法，已剔除，未并入本条目。 【据公报标题，本法经 《第1/2024号法律》 修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H085-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I PRINCÍPIOS GERAIS, NATUREZA E MISSÃO DA COMISSÃO ANTI -CORRUPÇÃO"
+   },
+   "heading": {
+    "pt": "Objecto da Lei"
+   },
+   "text": {
+    "pt": "A presente lei cria a Comissão Anti-Corrupção, abreviadamente designada por Comissão."
+   }
+  },
+  {
+   "id": "TL-H085-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I PRINCÍPIOS GERAIS, NATUREZA E MISSÃO DA COMISSÃO ANTI -CORRUPÇÃO"
+   },
+   "heading": {
+    "pt": "Definições"
+   },
+   "text": {
+    "pt": "Para os efeitos desta Lei entende-se por:\na)   Corrupção passiva para acto ilícito, nos termos do artigo\n292.° do Código Penal, o funcionário que por si, ou por interposta pessoal, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, sem que lhe seja devida, vantagem patrimonial ou não patrimonial, ou a sua promessa, para um qualquer acto ou omissão contrários aos deveres do cargo, ainda que anteriores àquela solicitação ou aceitação;\nb)   Corrupção passiva para acto lícito, nos termos do artigo\n293.° do Código Penal, o funcionário que por si, ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, sem que lhe seja devida, vantagem patrimonial ou não patrimonial, ou a sua promessa, para um qualquer acto ou omissão não contrários aos deveres do cargo, ainda que anteriores àquela solicitação ou aceitação; e, o funcionário que por si, ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, sem que lhe seja devida, vantagem patrimonial ou não patrimonial de pessoa que perante ele tenha tido, tenha ou venha a ter qualquer pretensão dependente do exercício das suas funções públicas.\nc)   Corrupção activa, nos termos do artigo 294.° do Código Penal, quem por si, ou por interposta pessoa com o seu consentimento ou ratificação, der ou prometer a funcionário, ou a terceiro com conhecimento daquele, vantagem patrimonial ou não patrimonial que ao funcionário não seja devida, com o fim indicado no artigo 292º ou no artigo 293. do Código Penal;\nd)   Peculato, nos termos do artigo 295.° do Código Penal, o funcionário que ilegitimamente se apropriar em proveito próprio ou de outra pessoa, de dinheiro ou coisa móvel, pública ou particular, que lhe seja entregue, esteja na sua posse ou lhe seja acessível em razão das suas funções;\ne)   Peculato de uso, nos termos do artigo 296.° do Código Penal, o funcionário que fizer uso ou permitir que outra pessoa o faça para fins alheios àqueles a que se destinam, de veículos ou de outras coisas móveis de valor significativo, que lhe seja entregue, esteja na sua posse ou lhe seja acessível em razão das suas funções, para obter, para si ou para terceiro, benefício ilegítimo ou causar prejuízo a alguém;\nf)   Abuso de poder, nos termos do artigo 297.° do Código Penal, o funcionário que abusar de poderes ou violar deveres inerentes às suas funções, com intenção de obter para si ou para terceiro, benefício ilegítimo ou causar prejuízo a outra pessoa;\ng)   Participação Económica em negócio, nos termos do artigo\n299.° do Código Penal, o funcionário que, em razão do exercício de cargo público, deva intervir em contrato ou outra operação ou actividade, e se aproveitar dessa condição, para obter para si ou para terceiro, directamente ou por interposta pessoa, vantagem patrimonial, ou, por qualquer outra forma, participação económica ilícita e deste modo lesar os interesses públicos que lhe cumpriria administrar, fiscalizar, defender ou realizar.\nh)   Agente Público, nos termos do artigo 302.° do Código Penal, os funcionários civis, os agentes administrativos, os membros das forças civis e policiais, bem como todas as outras pessoas incluídas nas alíneas d), e) e f) e no n.º 2 do referido artigo.\n(i)   Pessoa, uma pessoa singular ou colectiva (incluindo bancos e outras instituições financeiras), e relativamente a uma pessoa colectiva inclui os seus directores, administradores e responsáveis.\nj)   Instalações incluem, designadamente, o interior, o exterior e os anexos dos edifícios;\nk)   Móveis inclui, designadamente, veículos, barcos, aviões e contentores."
+   }
+  },
+  {
+   "id": "TL-H085-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I PRINCÍPIOS GERAIS, NATUREZA E MISSÃO DA COMISSÃO ANTI -CORRUPÇÃO"
+   },
+   "heading": {
+    "pt": "Natureza da Comissão"
+   },
+   "text": {
+    "pt": "1.   A Comissão é uma pessoa colectiva de direito público, dotada de personalidade jurídica, com independência técnica e autonomia administrativa e financeira.\n2.   À Comissão é atribuído o estatuto de órgão de polícia criminal especializada, independente, pautando-se apenas, na sua intervenção, por critérios de estrita legalidade e objectividade nos termos da lei.\n3.   Na sua qualidade de órgão de polícia criminal, a Comissão actua sob a direcção da autoridade judiciária competente nos termos da lei"
+   }
+  },
+  {
+   "id": "TL-H085-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I PRINCÍPIOS GERAIS, NATUREZA E MISSÃO DA COMISSÃO ANTI -CORRUPÇÃO"
+   },
+   "heading": {
+    "pt": "Missão da Comissão"
+   },
+   "text": {
+    "pt": "A Comissão tem por missão proceder a acções de prevenção e investigação criminal dos crimes de corrupção em qualquer das suas formas, peculato, abuso de poder, tráfico de influências e participação económica em negócio, tal como definidos na legislação penal."
+   }
+  },
+  {
+   "id": "TL-H085-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I PRINCÍPIOS GERAIS, NATUREZA E MISSÃO DA COMISSÃO ANTI -CORRUPÇÃO"
+   },
+   "heading": {
+    "pt": "Competências da Comissão"
+   },
+   "text": {
+    "pt": "1.   Em matéria de prevenção criminal a Comissão tem competência para:\na)   Recolher e analisar informações relativas às causas, e prevenção da corrupção;\nb)   Realizar acções de sensibilização destinadas a limitar a prática dos actos de corrupção, motivando as pessoas a adoptar precauções ou reduzir os actos e as situações que facilitem a ocorrência de condutas criminosas;\nc)   Aconselhar qualquer instituição ou entidade pública sobre formas de prevenir e combater condutas de corrupção.\n2.   Em matéria de investigação criminal, a Comissão tem competência para exercer as atribuições conferidas nos termos da lei aos órgãos de polícia criminal, nomeadamente:\na)   Realizar o inquérito ou praticar os actos de inquérito delegados pelo Ministério Público;\nb)   Colher a notícia do crime;\nc)  Descobrir os agentes responsáveis pela prática do crime;\nd)   Averiguar indícios ou notícias de factos que possam constituir crime;\ne)   Proceder à identificação e detenção de pessoas;\nf)   Proceder às notificações necessárias, por si ou com recurso a outra autoridade policial;\ng)  Realizar interrogatórios no âmbito da investigação e demais actos instrutórios necessários para o desempenho das suas atribuições;\nh)   Realizar buscas e revistas;\n(i)   Apreender objectos e documentos;\nj)   Realizar vigilâncias;\nk)   Proceder à intercepção e gravação de conversações ou comunicações telefónicas, mediante autorização judicial;\nl)   Proceder a exames de livros, documentos, registos, arquivos e outros elementos pertinentes em poder de entidades objecto de investigação, bem como de quaisquer vestígios de infracções;\nm)  Proceder a perícias, medições e colheitas de amostras para exames laboratoriais;\nn)   Promover a selagem de quaisquer instalações.\n3.    Em matéria de investigação criminal a Comissão pode ainda propor ao Ministério Público que solicite a adopção de medidas cautelares, nos termos da legislação processual penal, nomeadamente:\na)   Que seja ordenado o congelamento de contas bancárias quando existam fortes indícios de que contêm proveitos provenientes dos crimes previstos no artigo 4.°;\nb)   Que seja ordenado o não uso de quaisquer activos na posse, custódia ou controlo de qualquer pessoa;\n4.   No cumprimento das respectivas funções, a Comissão deve dar a máxima prioridade na investigação dos casos de corrupção de maior gravidade ou complexidade.\n5.  São aplicáveis à Comissão os regimes especiais previstos nos Decretos-Lei n.º 4/2006, de 1 de Março, e n.º 2/2007, de 8 de Março.\n6.   Os actos praticados pela Comissão sem o prévio mandato da autoridade judiciária competente, nos  casos e termos previstos na lei, devem ser validados pela autoridade judiciária competente no prazo máximo de 72 horas, sob pena da sua nulidade.\n7. A validação deve ser requerida, com carácter de urgência, pelo Ministério Público."
+   }
+  },
+  {
+   "id": "TL-H085-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ESTRUTURA"
+   },
+   "heading": {
+    "pt": "Comissão"
+   },
+   "text": {
+    "pt": "A Comissão é composta por um Comissário, Comissários Adjuntos e pessoal de apoio."
+   }
+  },
+  {
+   "id": "TL-H085-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ESTRUTURA"
+   },
+   "heading": {
+    "pt": "Comissário"
+   },
+   "text": {
+    "pt": "1. O Comissário é designado pelo Parlamento Nacional, sob proposta do Governo, por maioria absoluta dos Deputados desde que estejam presentes, pelo menos, três quartos dos Deputados em efectividade de funções, e toma posse perante o Presidente do Parlamento Nacional.\n2. Ao Comissário compete:\na)   Dirigir a actividade da Comissão;\nb)   Praticar todos os actos e diligências da competência da Comissão no âmbito da prevenção criminal, designadamente emitir recomendações e elaborar relatórios;\nc)   Coordenar os actos e diligências de investigação criminal a cargo da Comissão;\nd)   Distribuir pelo pessoal técnico investigador os processos de inquérito e os actos delegados pelo Ministério Público ou atribuídos pelo juiz no âmbito dos processos judiciais;\ne)   Controlar a legalidade dos actos e diligências de prevenção e investigação criminal levados a cabo pela Comissão;\nf)   Assegurar a coordenação do pessoal técnico investigador com as autoridades judiciárias;\ng)   Assegurar a coordenação da Comissão com os demais órgãos de polícia criminal;\nh)   Proceder ao recrutamento dos técnicos investigadores e demais pessoal de apoio, nos termos definidos na lei;\n(i)    Exercer poder disciplinar sobre o pessoal ao serviço da Comissão;\nj)    Elaborar relatório anual sobre a actividade da Comissão, nomadamente sobre o número de intervenções em processos de inquérito, a apresentar ao Parlamento Nacional;\nk)   Exercer as demais competências atribuídas por lei.\n3.   O Comissário pode delegar as suas funções nos seus adjuntos, que podem subdelegar, sem prejuízo da faculdade de, a todo o tempo, avocar os poderes delegados.\n4.    Não são delegáveis os poderes para emissão de orientações onde qualquer acção possa interferir com direitos à privacidade ou a liberdade pessoal de um indivíduo, elaboração de recomendações e relatórios."
+   }
+  },
+  {
+   "id": "TL-H085-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ESTRUTURA"
+   },
+   "heading": {
+    "pt": "Elegibilidade"
+   },
+   "text": {
+    "pt": "1.   O Comissário é um cidadão timorense, no pleno gozo das suas capacidades, escolhido de entre:\na)   Magistrados Judiciais;\nb)   Magistrados do Ministério Público;\nc)   Defensores Públicos;\nd)   Advogados;\ne)  Juristas de reconhecido mérito com experiência profissional superior a cinco anos;\nf)   Agentes de polícia com experiência profissional na carreira superior a cinco anos;\ng)   Técnicos de investigação criminal com experiência profissional na carreira ou em área funcional semelhante superior a cinco anos.\n2.   O candidato a Comissário deve ser reconhecido pelo seu elevado nível de independência e imparcialidade.\n3.   O Comissário está sujeito ao envio da declaração de “Registo de Interesses” prevista nos artigos 6.º a 8.º da Lei n.º 7/ 2007, de 25 de Julho e legislação complementar."
+   }
+  },
+  {
+   "id": "TL-H085-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ESTRUTURA"
+   },
+   "heading": {
+    "pt": "Incompatibilidades"
+   },
+   "text": {
+    "pt": "1.   O Comissário exerce as suas funções a tempo inteiro e o exercício destas funções é incompatível com:\na)   O desempenho de quaisquer outras funções públicas ou privadas;\nb)   Actividades políticas;\nc)   Auferir remunerações por qualquer outra actividade ou cargo;\n2.   O Comissário cessa qualquer das actividades acima referidas antes de assumir funções."
+   }
+  },
+  {
+   "id": "TL-H085-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ESTRUTURA"
+   },
+   "heading": {
+    "pt": "Responsabilidade civil e criminal"
+   },
+   "text": {
+    "pt": "1.  O Comissário não responde civil ou criminalmente por actos praticados e opiniões emitidas no exercício das suas funções, sendo a acção judicial de responsabilidade civil intentada contra o Estado, que tem direito de regresso.\n2.  O Comissário responde perante o Parlamento Nacional pelas infracções cometidas no exercício das suas funções e por manifesta e grave violação das suas obrigações nos termos da presente Lei.\n3.  O Parlamento Nacional informa o Procurador-Geral da República quando tenha conhecimento de qualquer crime cometido pelo Comissário no exercício das suas funções.\n4.   Em caso de procedimento criminal contra o Comissário, e acusado este definitivamente, o Parlamento Nacional decide sobre o levantamento da imunidade.\n5.   O levantamento da imunidade é solicitado ao Parlamento Nacional pelo juiz competente, sendo a decisão tomada por maioria dos Deputados presentes.\n6.   A decisão de não levantamento da imunidade suspende automaticamente os prazos de prescrição relativamente ao objecto da acusação previstos nas leis criminais."
+   }
+  },
+  {
+   "id": "TL-H085-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ESTRUTURA"
+   },
+   "heading": {
+    "pt": "Mandato e Procedimento"
+   },
+   "text": {
+    "pt": "1.   O Comissário é eleito para um mandato de quatro anos, renovável uma só vez, por igual período.\n2.   O mandato do Comissário cessa automaticamente:\na)   Pelo seu termo;\nb)   Quando sofra de incapacidade física ou mental permanente que o impeça de desempenhar as suas funções, atestada por uma comissão nomeada pelo Parlamento Nacional composta por três médicos do Serviço Nacional de Saúde;\nc)   O Comissário aceitar ou desempenhar qualquer cargo, função ou actividade incompatível com o seu mandato;\nd)   Em caso de morte;\ne)   Em caso de renúncia;\nf)   Em caso de condenação, por sentença transitada em julgado e a pena de prisão efectiva.\ng)   Exoneração, aprovada por maioria absoluta dos Deputados, desde que estejam presentes, pelo menos, três quartos dos Deputados em efectividade de funções, sob proposta fundamentada do Primeiro Ministro, em caso de violação das obrigações do Comissário decorrentes da lei.\n3.   Admitida a proposta de exoneração, a Mesa procede à sua distribuição à Comissão Especializada Permanente competente, para parecer no prazo de cinco dias.\n4.   Antes de emitir o seu parecer, a Comissão deve, obrigatoriamente, ouvir o Comissário.\n5.   A Mesa do Parlamento Nacional declara a cessação do mandato.\n6.   O Governo deve propor ao Parlamento Nacional a eleição do novo Comissário, que deve ocorrer até 30 dias antes do termo do mandato, nos termos previstos para a primeira eleição.\n7.   No caso de cessação do mandato por motivo diferente do seu termo, o Governo propõe ao Parlamento Nacional a designação de um dos Comissários Adjuntos como Comissário Interino.\n8.   No caso previsto no número anterior, a eleição do Comissário tem carácter de urgência e deve estar concluída no prazo de dois meses a contar da cessação."
+   }
+  },
+  {
+   "id": "TL-H085-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ESTRUTURA"
+   },
+   "heading": {
+    "pt": "Comissários Adjuntos"
+   },
+   "text": {
+    "pt": "1.   O Comissário pode nomear, para o coadjuvar, até três Comissários Adjuntos.\n2.   Podem ser nomeados como Comissários Adjuntos aqueles que sejam titulares de licenciatura, designadamente em direito, economia, gestão, contabilidade e administração pública, e desde que nessas áreas tenham, pelo menos, cinco anos de experiência profissional.\n3.   Os Comissários Adjuntos são nomeados para um mandato de quatro anos, podendo ser renovado uma única vez, por igual período.\n4.   Aos Comissários Adjuntos é aplicável, com as necessárias adaptações, o disposto nos artigos  9.°, 10. ° e 11.º  da presente lei."
+   }
+  },
+  {
+   "id": "TL-H085-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ESTRUTURA"
+   },
+   "heading": {
+    "pt": "Pessoal de Apoio"
+   },
+   "text": {
+    "pt": "1.   Para assegurar o cabal desempenho das funções da Comissão, o Comissário recruta técnicos investigadores e demais pessoal necessário.\n2.    Ao pessoal de apoio, incluindo ao seu recrutamento, é aplicável o regime geral da função pública.\n3.   O estatuto do pessoal técnico de investigação é estabelecido em regulamentação autónoma."
+   }
+  },
+  {
+   "id": "TL-H085-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DEVERES E GARANTIAS"
+   },
+   "heading": {
+    "pt": "Dever de sigilo"
+   },
+   "text": {
+    "pt": "Às investigações e inquéritos da responsabilidade da Comissão é aplicável o regime de segredo de justiça instituído na lei penal e processual penal."
+   }
+  },
+  {
+   "id": "TL-H085-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DEVERES E GARANTIAS"
+   },
+   "heading": {
+    "pt": "Confidencialidade"
+   },
+   "text": {
+    "pt": "Sem prejuízo do disposto no artigo 22.°, os documentos, informações e outro material probatório recolhidos pela Comissão são confidenciais até à acusação, de acordo com o regime de segredo de justiça estabelecido na lei."
+   }
+  },
+  {
+   "id": "TL-H085-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DEVERES E GARANTIAS"
+   },
+   "heading": {
+    "pt": "Interrogatórios"
+   },
+   "text": {
+    "pt": "1.   Os interrogatórios realizados pela Comissão são conduzidos pelo Comissário, por um Comissário Adjunto, ou por pessoal técnico de investigação, conforme determinação do Comissário, nos termos da lei.\n2.   Aquele que for notificado para interrogatório tem o direito a ser informado, antes do interrogatório, da natureza da alegação ou da queixa a ser investigada, nos termos da lei.\n3.   Os interrogatórios não são públicos e é permitida a presença de advogado, direito do qual os interrogados devem ser formal e atempadamente informados, nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H085-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DEVERES E GARANTIAS"
+   },
+   "heading": {
+    "pt": "Garantias do exercício da actividade de investigação"
+   },
+   "text": {
+    "pt": "No exercício das suas funções, o Comissário, os Comissários Adjuntos no exercício de funções delegadas e o pessoal técnico de investigação gozam das prerrogativas dos órgãos de polícia criminal, nos termos da lei processual penal, designadamente:\na)   Direito de acesso e livre-trânsito, nos termos da lei, pelo tempo e no horário necessários ao desempenho das suas funções, em todos os serviços e instalações das entidades públicas e privadas sujeitas ao exercício das suas atribuições;\nb)   Solicitar a colaboração das autoridades policiais, nos casos de recusa de acesso ou obstrução ao exercício da acção de investigação por parte dos destinatários, para remover tal obstrução e garantir a realização e a segurança dos actos investigatórios;\nc)   Utilizar nos locais sob investigação, por cedência das respectivas entidades investigadas, instalações em condições de dignidade e de eficácia para o desempenho das suas funções;\nd)   Trocar correspondência, em serviço, com todas as entidades públicas ou privadas sobre assuntos de serviço da sua competência."
+   }
+  },
+  {
+   "id": "TL-H085-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DEVERES E GARANTIAS"
+   },
+   "heading": {
+    "pt": "Inviolabilidade de documentos"
+   },
+   "text": {
+    "pt": "1.   As correspondências, materiais ou informações fornecidas, obtidas ou recolhidas pela Comissão estão isentas de censura ou de quaisquer interferências.\n2.   Os arquivos, ficheiros, documentos, comunicações, propriedades, fundos e activos da Comissão ou na posse da Comissão, são invioláveis e só podem ser acedidos ou tornados públicos nos termos da legislação aplicável."
+   }
+  },
+  {
+   "id": "TL-H085-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DEVERES E GARANTIAS"
+   },
+   "heading": {
+    "pt": "Notificação"
+   },
+   "text": {
+    "pt": "Aquele que, devidamente notificado pela Comissão, injustificadamente não comparecer ou não cooperar com a Comissão, é punido nos termos da legislação penal e processual penal."
+   }
+  },
+  {
+   "id": "TL-H085-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DEVERES E GARANTIAS"
+   },
+   "heading": {
+    "pt": "Conclusão da investigação"
+   },
+   "text": {
+    "pt": "1.Concluída a investigação, a Comissão remete o seu relatório final ao Ministério Público, nos termos da legislação processual penal.\n2.  Quando, no âmbito da investigação, a Comissão conclua que os factos sob investigação não tipificam os crimes previstos no artigo 4.º, envia o respectivo processo, com carácter de urgência, às entidades competentes.\n3.  Quando não exista matéria relevante para o exercício da acção penal, a Comissão pode emitir recomendações dirigidas às entidades ou pessoas objecto da investigação no sentido de melhorarem os seus procedimentos."
+   }
+  },
+  {
+   "id": "TL-H085-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DEVERES E GARANTIAS"
+   },
+   "heading": {
+    "pt": "Uso dos depoimentos, documentos e outras provas"
+   },
+   "text": {
+    "pt": "Os depoimentos, documentos ou outros objectos apresentados pela testemunha no interrogatório ou no inquérito perante a Comissão podem ser admissíveis como provas contra qualquer pessoa em qualquer processo."
+   }
+  },
+  {
+   "id": "TL-H085-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DEVERES E GARANTIAS"
+   },
+   "heading": {
+    "pt": "Protecção de testemunhas e de assistentes da Comissão"
+   },
+   "text": {
+    "pt": "1.   O Comissário pode solicitar, nos termos da legislação aplicável, protecção para as testemunhas e para outras pessoas que colaborem com a Comissão.\n2.    As testemunhas e as pessoas envolvidas nas investigações a cargo da Comissão têm o direito de requerer protecção, nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H085-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III DEVERES E GARANTIAS"
+   },
+   "heading": {
+    "pt": "Casos de não punição"
+   },
+   "text": {
+    "pt": "1.   Não é punível a conduta de quem, prévia e devidamente autorizado por despacho fundamentado da autoridade judiciária competente, aceitar instrumentalmente, por si ou por intermédio de um terceiro, solicitação ilícita formulada por funcionário ou não funcionário, se tal se mostrar adequado à prova da prática de qualquer dos crimes no âmbito da aplicação da presente lei.\n2.   Pode igualmente ser autorizada a aceitação instrumental de benefícios, se tal se mostrar adequado à prova da prática de qualquer dos crimes previstos no artigo 4.° da presente lei."
+   }
+  },
+  {
+   "id": "TL-H085-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV COLABORAÇÃO COM A COMISSÃO"
+   },
+   "heading": {
+    "pt": "Dever geral de colaboração com a Comissão"
+   },
+   "text": {
+    "pt": "1.   Os serviços da administração directa, indirecta e autónoma do Estado objecto de investigação encontram-se vinculados aos deveres de informação e cooperação.\n2.   Todas as pessoas singulares e colectivas, com salvaguarda dos respectivos direitos e interesses legítimos, têm o dever de colaborar com a Comissão."
+   }
+  },
+  {
+   "id": "TL-H085-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV COLABORAÇÃO COM A COMISSÃO"
+   },
+   "heading": {
+    "pt": "Deveres especiais de colaboração"
+   },
+   "text": {
+    "pt": "1.   A Comissão, no desempenho das suas atribuições tem direito à colaboração e cooperação das entidades públicas, podendo requisitar às que para o efeito sejam competentes, quaisquer investigações, inquéritos, sindicâncias, peritagens, exames ou diligências necessárias.\n2.    As entidades públicas são obrigadas a prestar informações à Comissão e a fornecer-lhe documentos e demais elementos ao seu dispor, bem como atender às solicitações pelo mesmo formuladas, podendo ser-lhes fixado prazo para o seu cumprimento.\n3.   A Comissão, os demais órgãos da polícia criminal e o Ministério Público têm um dever especial de cooperação e de coordenação da respectiva actividade, nos termos da legislação processual penal."
+   }
+  },
+  {
+   "id": "TL-H085-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV COLABORAÇÃO COM A COMISSÃO"
+   },
+   "heading": {
+    "pt": "Colaboração com outras instituições"
+   },
+   "text": {
+    "pt": "A Comissão pode estabelecer acordos, incluindo, quando seja o caso, memorandos de entendimento, com qualquer outra instituição congénere, nacional ou estrangeira, com  vista:\na)   Ao desempenho em cooperação das respectivas atribuições;\nb)   Ao uso conjunto de instalações e pessoal;\nc)   A troca de informações."
+   }
+  },
+  {
+   "id": "TL-H085-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV COLABORAÇÃO COM A COMISSÃO"
+   },
+   "heading": {
+    "pt": "Transmissão de matérias a outros órgãos"
+   },
+   "text": {
+    "pt": "1.   Sem prejuízo do dever geral de confidencialidade previsto na Lei, a Comissão pode, antes, durante ou após a investigação de qualquer facto, transmitir qualquer matéria para investigação ou outra acção ao Procurador-Geral ou outra entidade legalmente competente.\n2.   O Comissário pode solicitar informações e relatórios a qualquer entidade, relativamente a matérias relacionadas com a respectiva actividade."
+   }
+  },
+  {
+   "id": "TL-H085-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V RESPONSABILIDADE PERANTE O PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Relatórios"
+   },
+   "text": {
+    "pt": "1.   A Comissão deve apresentar ao Parlamento Nacional, até ao dia 31 de Março de cada ano, um relatório geral das actividades relativo ao ano anterior.\n2.   Do referido relatório deve constar:\na)   A descrição do tipo de investigações conduzidas pela Comissão;\nb)   A avaliação da resposta das autoridades competentes a recomendações feitas pela Comissão;\nc)   A natureza geral e a extensão de qualquer informação comunicada entre a Comissão e outras autoridades;\nd)   O número das investigações conduzidas pela Comissão das quais resultaram acusações ou acções disciplinares;\ne)   A descrição das actividades da Comissão durante esse ano em relação à sua função de prevenção e educação; e\nf)   Quaisquer recomendações de alteração de legislação que a Comissão considere importantes  como resultado do desempenho das suas funções.\n3.   A Comissão pode, em qualquer altura, apresentar um relatório especial sobre qualquer matéria de política geral ou administrativa relacionada com a sua actividade.\n4. O Parlamento Nacional, através da Mesa, pode, com a regularidade que entender, solicitar relatórios à Comissão relativamente às respectivas actividades gerais, salvaguardando sempre o dever de confidencialidade e sigilo das investigações."
+   }
+  },
+  {
+   "id": "TL-H085-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI ORÇAMENTO"
+   },
+   "heading": {
+    "pt": "Orçamento"
+   },
+   "text": {
+    "pt": "1.   A Comissão tem um orçamento anual suficiente para assegurar o seu funcionamento, e adequado a manter a sua independência, imparcialidade e eficiência, atribuído nos termos da lei.\n2.   O orçamento da Comissão é preparado, aprovado e gerido nos termos da lei.\n3.   A Comissão está proibida de receber fundos de quaisquer outras fontes.\n4.   A Comissão deve manter livros de contas e de outros registos em relação às suas funções ou actividades.\n5.   Os relatórios de contas são apresentados anualmente ao Parlamento Nacional e auditados pelo Tribunal Superior Administrativo, Fiscal e de Contas, ou sujeitos a auditoria externa independente."
+   }
+  },
+  {
+   "id": "TL-H085-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Alterações à Lei n.º 7/2004"
+   },
+   "text": {
+    "pt": "1.   O n.º 3 do artigo 5.°, a alínea a) do n.º 1 do artigo 13.°, o artigo\n23.°, a alínea a) do artigo 24.°, a alínea a) do n.º 1 do 25.° e o n.º 1 do artigo 47.° da Lei n.º 7/2004, de 26 de Maio, que aprova o Estatuto do Provedor dos Direitos Humanos e Justiça, passam a ter a seguinte redacção:\n“Artigo 5. º Natureza\n1.\n[...]\n2.   [...]\n3.   A Provedoria dos Direitos Humanos e Justiça, adiante designada por “Provedoria”, tem por finalidade prevenir a má administração e proteger e promover os direitos humanos e liberdades fundamentais das pessoas, singulares ou colectivas, em todo o território nacional.\n4.   […]\n5.   […]\nArtigo 13.º Requisitos de elegibilidade\n1.   [...]\na)   Experiência e qualificações suficientes para investigar e elaborar relatórios sobre violações de direitos humanos e má administração;\nb)   […]\nc)   […]\n2.   […]\nArtigo 23.º Investigação Compete ao Provedor de Direitos Humanos e Justiça investigar violações de direitos humanos e liberdades e garantias fundamentais, situações de má administração, ilegalidade, injustiça manifesta e ausência de um processo justo e equitativo.\nArtigo 24.º Fiscalização e recomendação […]\na)   Supervisionar o funcionamento dos poderes públicos, nomeadamente do Governo e dos seus órgãos e das entidades privadas que levam a cabo funções e serviços públicos, podendo abrir inquéritos sobre violações sistemáticas e generalizadas de direitos humanos ou de má administração;\nb)   […]\nc)   […]\nd)   […]\ne)   […]\nArtigo 25.º Promoção dos direitos humanos e da boa governação\n1.   […]\na)   Promover uma cultura de respeito pelos direitos humanos, boa governação, nomeadamente através de declarações públicas, campanhas de informação ou quaisquer outros meios adequados a informar o público em geral e a Administração Pública, e generalizar a informação sobre direitos humanos e boa governação.\nb)  […]\n2.   […]\na)   […]\nb)   […]\nc)   […]\n3.   […]\nArtigo 47.º Recomendações\n1.   O Provedor de Direitos Humanos e Justiça deve identificar as causas de violação dos direitos humanos, abuso e má gestão numa entidade pública e elaborar recomendações para a sua correcção, prevenção ou eliminação e para a observância dos mais altos padrões de direitos humanos, do princípio da legalidade, da ética e da eficiência.\n2.   […]\n3.   […]\n4.   […]”"
+   }
+  },
+  {
+   "id": "TL-H085-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Revogações"
+   },
+   "text": {
+    "pt": "São revogados os artigos 26.º e 27.º da Lei n.º 7/2004, de 26 de Maio."
+   }
+  },
+  {
+   "id": "TL-H085-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Regime transitório"
+   },
+   "text": {
+    "pt": "1.   A Comissão exercerá actos de investigação e inquérito no âmbito dos processos instaurados após a entrada em funcionamento da Comissão.\n2.   Todas as matérias relativas aos crimes cuja investigação é da competência da Comissão, que venham ao conhecimento de qualquer órgão do Estado, designadamente, Provedoria dos Direitos Humanos e da Justiça e da Inspecção-Geral do Estado, após a entrada em funcionamento da Comissão, devem ser encaminhadas para a Comissão."
+   }
+  },
+  {
+   "id": "TL-H085-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Legislação autónoma"
+   },
+   "text": {
+    "pt": "1.   O Governo aprova legislação relativa ao estatuto do pessoal técnico de investigação.\n2.   Até à aprovação da legislação referida no número anterior, é aplicável ao pessoal técnico de investigação o regime aplicável à Polícia Nacional de Timor-Leste, nos termos a regulamentar pelo Governo."
+   }
+  },
+  {
+   "id": "TL-H085-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Nomeação do Primeiro Comissário"
+   },
+   "text": {
+    "pt": "No prazo de 60 dias após a publicação da presente lei, o Governo propõe ao Parlamento Nacional a eleição do Comissário."
+   }
+  },
+  {
+   "id": "TL-H085-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Republicação"
+   },
+   "text": {
+    "pt": "É republicada, em anexo, que é parte integrante da presente lei, a Lei n.º 7/2004, de 26 de Maio, que aprova o Estatuto do Provedor dos Direitos Humanos e Justiça, com a redacção actual."
+   }
+  },
+  {
+   "id": "TL-H085-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "1. A presente Lei entra em vigor 30 dias após a sua publicação.\n2. A Comissão entra em funcionamento no prazo de 90 dias após a publicação da presente Lei."
+   }
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "PH-H600",
+ "title": {
+  "zh": null,
+  "en": "An Act Further Amending Section Two Hundred and Eighty-six of the Revised Administrative Code, as Amended",
+  "orig": "An Act Further Amending Section Two Hundred and Eighty-six of the Revised Administrative Code, as Amended"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p08",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1951-05-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 611",
+ "officialCode": null,
+ "topics": [
+  "administrative"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1580,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1951/ra_611_1951.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1951/ra_611_1951.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H600-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section two hundred and eighty-six of the Revised Administrative Code, as amended, is hereby further amended to read as follows:\n\"Section 286. When vacation leave and sick leave may be taken. - Vacation leave and sick leave shall be cumulative and any part thereof which may not be taken within the calendar year in which earned may be carried over to the succeeding years, but whenever any officer, employee, or laborer of the Government of the Philippines shall voluntarily resign or be separated from the service through no fault of his own, he shall be entitled to the commutation of all accumulated vacation and/or sick leave to his credit: Provided, That the total vacation leave and sick leave that can accumulate to the credit of any officer or employee shall, in no case, exceed five months: Provided, further, That the proper Department Head may in his discretion authorize the commutation of the salary that would be received during the period. of vacation and sick leave of any appointed officer or employee or teacher or laborer of the Philippine Government and direct its payment on or before the beginning of such leave from the fund out of which the salary would have been paid: Provided, furthermore, That no person whose leave has been commuted following his separation from the service shall be reappointed or reemployed under the Government of the Philippines before the expiration of the leave commuted unless he first refunds the money value of the unexpired portion of the leave commuted.\""
+   }
+  },
+  {
+   "id": "PH-H600-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, May 5, 1951."
+   }
+  }
+ ]
+}

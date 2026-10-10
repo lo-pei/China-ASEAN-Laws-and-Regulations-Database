@@ -1,0 +1,52 @@
+{
+ "id": "VN-H080",
+ "title": {
+  "zh": "宪法_2013",
+  "en": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam 2013",
+  "orig": null
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p04",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2013",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "越南官方发布渠道",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 1240,
+ "source": {
+  "name": "越南官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "文本未能可靠切分为条文（或原件为目录式排版），按整篇收录，未作改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "VN-H080-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "# Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam 2013 > 本文件为自动采集的元数据头，随原始文件一同保存。\n> 原始文件未被改写；正文逐字照录于同目录下的原始文件。\n| 项目 | 内容 | | --- | --- | | 原文标题 | Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam 2013 | | 中文译名 | 宪法 | | 英文译名 | Constitution of the Socialist Republic of Vietnam 2013 | | 法律领域 | 宪法 | | 颁布机构 | 越南国会；越南政府门户网站（chinhphu.vn） | | 官方来源 URL | https://xaydungchinhsach.chinhphu.vn/print/toan-van-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119231225213002261.htm | | 数据抓取实际 URL | https://xaydungchinhsach.chinhphu.vn/print/toan-van-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119231225213002261.htm | | 颁布日期 | 2013 | | 生效日期 | 未核实（来源未标注） | | 修订日期 | 未核实（来源未标注） | | 版本 | 官方公布文本 | | 原文语种 | vi | | 来源类型 | 官方（越南政府门户 chinhphu.vn / 官方公报 congbao.chinhphu.vn） | | 抓取日期 | 2026-10-03 | | 本地文件 | 越南_宪法_2013_vi.html | | 文件格式 | html | | 文件大小(字节) | 98195 | | 页数 |  | | 字数 | 13358 | | SHA-256 | caedb855c0163131dad7686321fefaffc1e2d00d67a31d0c8cc35757fcd3afdb | | HTTP 状态 | 200 | | HTTPS 证书校验 | verified | | 完整性/缺失范围 | 官方页面 HTML 全文（已保存 HTML 快照与 Markdown 转换，未改写） | | 备注 | 政府门户的 /print/ 全文页。越南官方公报的 PDF 文件托管于 g7.cdnchinhphu.vn 并使用临时签名令牌，本环境无法稳定取得，故采用官方门户 HTML 全文。 | | 采集说明 | 官方来源未提供可直接下载的 PDF；已保存网页 HTML 快照，并将全部可见文本机械转换为 Markdown（未改写、未摘要）。 |"
+   }
+  }
+ ]
+}

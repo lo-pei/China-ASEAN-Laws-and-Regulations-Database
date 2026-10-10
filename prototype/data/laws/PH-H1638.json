@@ -1,0 +1,64 @@
+{
+ "id": "PH-H1638",
+ "title": {
+  "zh": null,
+  "en": "An Act to Repeal Section Eleven-A of Act Numbered Twenty-Seven Hundred and Six, as Amended",
+  "orig": "An Act to Repeal Section Eleven-A of Act Numbered Twenty-Seven Hundred and Six, as Amended"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p23",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1957-06-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1804",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 809,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1957/ra_1804_1957.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1957/ra_1804_1957.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1638-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section eleven-A of Act Numbered Twenty-seven hundred and six, as inserted by Republic Act Numbered Seventy-four and amended by Executive Order Numbered Three hundred and eighty, series of nineteen hundred and fifty, is repealed: Provided, That failure of any school, college or university to pay in full on or before the effectivity of this Act the assessment levied and accruing on the gross income from the tuition and other fees of students as provided for by Republic Act Numbered Seventy-four shall be sufficient cause for the revocation by the Secretary of Education, upon recommendation of the Director of Private Schools, of all permits and recognitions granted to the school, college or university."
+   }
+  },
+  {
+   "id": "PH-H1638-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect on June thirty, nineteen hundred and fifty-seven.\nApproved: June 22, 1957."
+   }
+  }
+ ]
+}

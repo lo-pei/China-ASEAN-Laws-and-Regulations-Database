@@ -1,0 +1,1012 @@
+{
+ "id": "TH-H1107",
+ "title": {
+  "zh": null,
+  "en": null,
+  "orig": null
+ },
+ "country": "TH",
+ "countryName": "泰国",
+ "layer": "intl",
+ "pack": "th-p11",
+ "language": "en",
+ "level": null,
+ "category": null,
+ "status": null,
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 97,
+ "chars": 102728,
+ "source": {
+  "name": "泰国 — Personal Data Protection Act, B.E. 2562 (2019)",
+  "url": "https://www.etda.or.th/getattachment/e820df2c-848f-4e03-86cb-a9dad38cc713/ENG-Version.aspx"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-08",
+ "completenessNote": "全文，共 97 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TH-H1107-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2 This Act shall come into force on the day following the date"
+   },
+   "text": {
+    "en": "Section 2 This Act shall come into force on the day following the date\nof its publication in the Government Gazette, except for the provisions of Chapter II, Chapter\nIII, Chapter V, Chapter VI, Chapter VII, and section 95, and section 96, which shall come\ninto effect after the lapse of a period of one year from the date of its publication in the\nGovernment Gazette."
+   }
+  },
+  {
+   "id": "TH-H1107-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3 In the event that there is any sector-specific law governing"
+   },
+   "text": {
+    "en": "Section 3 In the event that there is any sector-specific law governing\nthe protection of Personal Data in any manner, any business or any entity, the provisions of\nsuch law shall apply, except:\n(1) for the provisions with respect to the collection, use, or disclosure of\nPersonal Data and the provisions with respect to the rights of  data subjects including relevant\npenalties, the provisions of this Act shall apply additionally, regardless of whether they are\nrepetitious with the above specific law;\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\n(2) for the provisions with respect to complaints, provisions granting power\nto the expert committee to issue an order to protect the data subject, and provisions with respect\nto the power and duties of the Competent Official, including relevant penalties, the provisions\nof this Act shall apply in the following circumstances:\n(a) in the event that such law has no provision with respect to complaints;\n(b) in the event that such law has the provisions giving the power to the\ncompetent official, who has the power to consider the complaints under such law, to issue an\norder to protect the data subject , but  such power is not equal to the power of the expert\ncommittee under this Act; and either the competent official who has power under such law\nmakes a request to the expert committee, or data subject files a complaint with the expert\ncommittee under this Act, as the case may be."
+   }
+  },
+  {
+   "id": "TH-H1107-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4 This Act shall not apply to:"
+   },
+   "text": {
+    "en": "Section 4 This Act shall not apply to:\n(1)  the collection, use, or disclosure of Personal Data by a Person who collects\nsuch Personal Data for personal benefit or household activity of such Person only;\n (2) operation s of public authorities having the duties to maintain state\nsecurity, including financial security of the state or public  safety, including the duties with\nrespect to the prevention and suppression of money laundering , forensic science  or\ncybersecurity;\n(3) a Person or a juristic person who uses or discloses Personal Data that is\ncollected only for the activities of mass media, fine arts, or literature, which are only in\naccordance with professional ethics or for public interest;\n(4) The House of Re presentatives, the Senate, and the Parliament, including\nthe committee appointed by the House of Representatives, the Senate, or the Parliament, which\ncollect, use or disclose Personal Data in their consideration under the duties and power of the\nHouse of Representatives, the Senate, the Parliament or their committee, as the case may be;\n(5) trial and adju dication of courts and work  operations of officers in legal\nproceedings, legal execution, and deposit of property, including work operations in accordance\nwith the criminal justice procedure;\n(6) operations of data undertaken by a credit bureau company and its members,\naccording to the law governing the operations of a credit bureau business.\nThe exceptions to apply all or parts of the  provisions of this Act to any Data\nController in any manner, business or entity, in a similar manner to the  Data Controller in\nparagraph one, or for any other public interest purpose, shall be promulgated in the form of the\nRoyal Decree.\nThe Data Controller under paragraph one (2), (3), (4), (5), and (6) and the Data\nController of the entities that are exempted under the Royal Decree in accordance with\nparagraph two shall also put in place a security protection of Personal Data in accordance with\nthe standard."
+   }
+  },
+  {
+   "id": "TH-H1107-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5 This Act applies to the collection, use, or disclosure of"
+   },
+   "text": {
+    "en": "Section 5 This Act applies to the collection, use, or disclosure of\nPersonal Data by a Data Controller or a Data Processor that is in the Kingdom of Thailand,\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\nregardless of whether such collection, use , or disclosure  takes place in the Kingdom of\nThailand or not.\nIn the event that a Data Controller or a Data Processor is outside the Kingdom\nof Thailand, this Act shall apply to the collection, use, or disclosure of Personal Data of  data\nsubjects who are in the Kingdom of Thailand, where the activities of such Data Controller or\nData Processor are the following activities:\n\n(1) the offering of goods or services to the data subjects who are in the\nKingdom of Thailand, irrespective of whether the payment is made by the data subject;\n(2) the monitoring of the data subject’s behavior, where the behavior takes\nplace in the Kingdom of Thailand."
+   }
+  },
+  {
+   "id": "TH-H1107-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6 In this Act,"
+   },
+   "text": {
+    "en": "Section 6 In this Act,\n“Personal Data” means any information relating to a Person, which enables\nthe identification of such Person, whether directly or indirectly, but not including the\ninformation of the deceased Persons in particular;\n“Data Controller” means a Person or a juristic person having the power and\nduties to make decisions regarding the collection, use, or disclosure of the Personal Data;\n“Data Processor” means a Person or a juristic person who operates in relation\nto the collection, use, or disclosure of the Personal Data pursuant to the orders given by or on\nbehalf of a Data Controller, whereby such Person or juristic person is not the Data Controller;\n“Person” means a natural person;\n“Committee” means the Personal Data Protection Committee;\n“Competent Official” means any person appointed by the Minister to perform\nacts under this Act;\n“Office” means the Office of the Personal Data Protection Committee;\n“Secretary-General” means the Secretary-General of the Personal Data\nProtection Committee;\n“Minister” means the Minister who is in charge under this Act."
+   }
+  },
+  {
+   "id": "TH-H1107-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7 The Minister of Digital Economy and Society shall be in"
+   },
+   "text": {
+    "en": "Section 7 The Minister of Digital Economy and Society shall be in\ncharge under this Act, and shall have the power to appoint the Competent Official to perform\nacts under this Act.\n\nChapter I\n\nPersonal Data Protection Committee\n\n---------------------------"
+   }
+  },
+  {
+   "id": "TH-H1107-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8 There shall be a Personal Data  Protection Committee,"
+   },
+   "text": {
+    "en": "Section 8 There shall be a Personal Data  Protection Committee,\nconsisting of:\n(1)  a Chairperson who is selected and appointed from  persons having\ndistinguished knowledge, skills, and experience in the field of Personal Data  protection,\nconsumer protection, information technology and communication, social science, law, health,\nfinance, or any other field that must be relevant to, and useful for the protection of Personal\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\nData;\n(2) the Permanent Secretary of the Ministry of Digital Economy and Society,\nshall be a Vice-Chairperson;\n(3) directors by position as five members consisting of the Permanent Secretary\nof the  Prime Minister Office, the Secretary -General of the Council of State, the Secretary -\nGeneral of the Consumer Protection Board, the Director -General of the Rights and Liberties\nProtection Department, and the Attorney General;\n(4) honorary directors as nine members, selected and appointed from the\npersons having distinguished knowledge, skills, and experience in the field of Personal Data\nprotection, consumer protection, information technology and communication, social science,\nlaw, health, finance, or any other field that must be relevant to, and useful for the protection of\nPersonal Data.\nThe Secretary-General shall be a  director and secretary, and the Secretary -\nGeneral shall appoint assistant secretaries from the officials of the Office not exceeding two\npersons.\nThe rules and procedures on the selection of persons to be appointed as the\nChairperson and honorary directors, including the selection of the Chairperson and honorary\ndirector to replace the Chairperson and the honorary director who vacates office before the\nexpiration of the term under section 13, shall be as prescribed by the notification issued by the\nCabinet by taking into account the transparency and fairness in the selection."
+   }
+  },
+  {
+   "id": "TH-H1107-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9 There shall be a selection committee of eight members having"
+   },
+   "text": {
+    "en": "Section 9 There shall be a selection committee of eight members having\nthe duty to select the appropriate persons who should be appointed as the Chairperson in section\n8(1) or the honorary director in section 8 (4), consisting of:\n(1) two persons appointed by the Prime Minister;\n(2) two persons appointed by the President of the Parliament;\n(3) two persons appointed by the Ombudsman;\n(4) two persons appointed by the National Human Rights Commission.\nIn the event that the person having the appointment power in (2), (3), or (4) is\nunable to appoint members of the selection committee in his part within forty- five days from\nthe date of notice from the Office, the Office shall nominate the persons to the Prime Minister\nto consider and appoint the appropriate persons to be the selection committee on behalf of such\nperson having the appointment power.\nThe selection committee shall select one member to act as the Chairperson of\nthe selection committee and another one member to act as the Secretary of the selection\ncommittee and the Office shall perform the duty as the administrative unit of the selection\ncommittee.\nIn the event that any member of the selection committee is vacant, a new\nmember must be selected to replace such vacancy without delay. During the time that no new\nmember has been selected, the selection committee shall consist of the existing members.\nNo member of the section committee shall be entitled to be nominated as the\nChairperson in section 8 (1) or the honorary director in section 8 (4)."
+   }
+  },
+  {
+   "id": "TH-H1107-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10 In selecting the Chairperson in section 8 (1) or the honorary"
+   },
+   "text": {
+    "en": "Section 10 In selecting the Chairperson in section 8 (1) or the honorary\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\ndirector in section 8 (4), the selection committee shall select the persons who have qualifications\nin section 8 (1)or section 8 (4) as the case may be, including having the qualifications and no\nprohibited characteristics under section 11 and agree to be nominated for the selection in the\nsame number as the number of Chairperson to be appointed in section 8 (1) or the number of the\nhonorary director in to be appointed in section 8 (4).\nAfter the Chairperson in section 8 (1) or the honorary director in section 8 (4)\nhave been selected, the selection committee shall submit the name of Chairperson in section 8\n(1) or the honorary director in section 8 (4) together with the evidence of qualifications and no\nprohibited characteristics as well as the consent of such persons to the Cabinet for the\nappointment as the Chairperson in section 8 (1) or the honorary director in section 8 (4).\nThe Prime Minister shall publish names of the Chairperson in section 8 (1) or\nhonorary directors in section 8 (4) who are appointed by the Cabinet in the Government Gazette."
+   }
+  },
+  {
+   "id": "TH-H1107-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11 The Chairperson and the honorary director shall have the"
+   },
+   "text": {
+    "en": "Section 11 The Chairperson and the honorary director shall have the\nqualifications, and shall not be under the following prohibited characteristics:\n(1) being of Thai nationality;\n(2) not being bankrupt, or having been previously dishonestly bankrupt;\n(3) not being an incompetent or quasi-incompetent person;\n(4) not having been previously subjected to a final judgment to imprisonment\nregardless of whether he or she has actually been imprisoned or not , except for an offence\ncommitted by negligence or a misdemeanor;\n(5) not having been previously fired, dismissed or discharged from official\nservice, a government agency or a state enterprise or private agency on the grounds of dishonest\nperformance of duties or having committed severe wrongful conducts;\n(6) not having been previously removed from office according to the law;\n(7) not being a person holding political position, a member of local assembly or\nin a management position of local administration, a director or person holding position\nresponsible for the management of political party, an adviser or officer of political party."
+   }
+  },
+  {
+   "id": "TH-H1107-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12 The Chairperson and the honorary director shall hold office for"
+   },
+   "text": {
+    "en": "Section 12 The Chairperson and the honorary director shall hold office for\na term of four years.\nUpon the expiration of the term of office under paragraph one,  if a new\nChairperson or the honorary director has not yet been appointed, the Chairperson or the honorary\ndirector whose term of office has expired, shall be in office to continue to perform his or her\nduties until a new Chairperson or honorary director assumes his or her duties.\nThe Chairperson, or the honorary director, who vacates office upon the\nexpiration of the term, may be reappointed, but shall not seat in his or her office for more than\ntwo terms."
+   }
+  },
+  {
+   "id": "TH-H1107-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13 In addition to vacating office upon the expiration of the term"
+   },
+   "text": {
+    "en": "Section 13 In addition to vacating office upon the expiration of the term\nunder section 12, the Chairperson and the honorary director vacates office upon:\n(1) death;\n(2) resignation;\n(3) being dismissed by the Cabinet due to negligence in the performance of\nduty, disgraceful behavior, or incapability;\n(4) being disqualified, or under any of  the prohibited characteristics under\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019"
+   }
+  },
+  {
+   "id": "TH-H1107-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "section 11.\nIn the case where the Chairperson or the honorary director vacates office before"
+   },
+   "text": {
+    "en": "section 11.\nIn the case where the Chairperson or the honorary director vacates office before\nthe expiration of the term, the person appointed to replace the vacant office shall be in office for\nthe remaining term of office of such vacated Chairperson or honorary director, except where the\nremaining term of office is less than ninety days, in which case the appointment of a new\nChairperson or a new honorary director may not have to be made.\nIn the case where the Chairperson or the honorary director vacates office before\nthe expiration of the term, the Committee shall consist of all existing members until a new\nChairperson or a new honorary director is appointed, according to paragraph two, and in the case\nwhere the Chairperson vacates office before the expiration of the term, the Vice-Chairperson\nshall temporarily perform duties of the Chairperson."
+   }
+  },
+  {
+   "id": "TH-H1107-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 14 At a meeting of the Committee, the presence of not less than"
+   },
+   "text": {
+    "en": "Section 14 At a meeting of the Committee, the presence of not less than\none-half of all the members is required to constitute a quorum.\nThe Chairperson shall preside over the meeting. In the case where the\nChairperson does not attend the meeting, or is unable to perform the duties, the Vice-Chairperson\nshall act as a chairperson of the meeting. In the case where the Chairperson and the Vice-\nChairperson do not attend the meeting, or are unable to perform the duties, the attending members\nshall elect one member among themselves to be the chairperson of the meeting.\nA decision of the meeting shall be made by a majority of votes. Each member\nshall have one vote. In case of equal votes, the chairperson of the meeting shall have an additional\nvote as the decisive vote.\nThe meetings of the Committee may be may be undertaken by electronic means,\nor any other means, as prescribed by the Committee."
+   }
+  },
+  {
+   "id": "TH-H1107-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 15 Any member who has a direct or indirect interest in the matter"
+   },
+   "text": {
+    "en": "Section 15 Any member who has a direct or indirect interest in the matter\nbeing considered in the meeting, shall inform the Committee of such interest prior to the meeting,\nand such member shall be prohibited from attending the meeting that is considering such matter."
+   }
+  },
+  {
+   "id": "TH-H1107-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 16 The Committee shall have the following duties and power:"
+   },
+   "text": {
+    "en": "Section 16 The Committee shall have the following duties and power:\n(1) to make the master plan on the operation for the promotion and protection\nof Personal Data, which are consistent with policies, national strategies and relevant national\nplans, in order to propose to the committee of the national digital economy and society, in\naccordance with the law governing development of the digital economy and society;\n(2) to promote and support government agencies and the private sector in\ncarrying out of activities in accordance with the master plan under (1), as well as to conduct the\nevaluation of the operation result of such master plan;\n(3) to determine measures or guidelines of the operation in relation to Personal\nData protection in order to comply with this Act;\n(4) to issue notifications or rules for the execution of this Act;\n(5) to announce and establish criteria for providing protection of Personal Data\nwhich is sent or transferred to a foreign country;\n(6) to announce and establish guidance for the protection of Personal Data as\nguidelines which the Data Controller and the Data Processor shall comply;\n(7) to recommend the Cabinet on the enactment, or revision, of the existing laws\nor rules applicable to the protection of Personal Data;\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\n(8) to recommend the Cabinet on the enactment of the Royal Decree or\nreconsideration the suitability of this Act at least every five years;\n(9) to provide advice or consultancy on any operation for the protection of\nPersonal Data of the government agency and private agency, in acting in compliance with this\nAct;\n(10) to interpret and render rulings with respect to the issues arising from the\nenforcement of this Act;\n(11) to promote and support learning skills and understanding on the protection\nof Personal Data among the public;\n(12) to promote and support research for the development of technology relating\nto the protection of Personal Data;\n(13) to perform any other acts as prescribed by this Act, or other laws, which\nstate the duties and power of the Committee."
+   }
+  },
+  {
+   "id": "TH-H1107-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 17 The Chairperson, the Vice-Chairperson, and Committee shall"
+   },
+   "text": {
+    "en": "Section 17 The Chairperson, the Vice-Chairperson, and Committee shall\nreceive a meeting allowance and other benefits in accordance with the rules prescribed by the\nCabinet.\nThe Chairperson of the sub-committees, the sub-committees, the Chairperson of\nthe expert committee and expert committee appointed by the Committee shall receive a meeting\nallowance and other benefits in accordance with the rules prescribed by the Committee with\napproval of the Ministry of Finance."
+   }
+  },
+  {
+   "id": "TH-H1107-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 18 The Committee shall have the power to appoint sub-committees"
+   },
+   "text": {
+    "en": "Section 18 The Committee shall have the power to appoint sub-committees\nfor considering or performing any act as prescribed by the Committee.\nIn the meeting of the sub-committee, the substances of sections 14 and 15 shall\napply mutatis mutandis.\nChapter II\n\nPersonal Data Protection\n\n---------------------------\n\nPart 1 General Provisions\n----------------------------"
+   }
+  },
+  {
+   "id": "TH-H1107-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 19 The Data Controller shall not collect, use, or disclose Personal"
+   },
+   "text": {
+    "en": "Section 19 The Data Controller shall not collect, use, or disclose Personal\nData, unless the data subject has given consent  prior to or at the time of such collection, use, or\ndisclosure, except the case where it is permitted to do so by the provisions of this Act or any other\nlaws.\nA request for  consent shall be explicitly made i n  a written statement, or via\nelectronic means, unless it cannot be done by its nature.\nIn requesting consent from the data subject, the Personal Data Controller  shall\nalso inform the purpose of the collection, use, or disclosure of the Personal Data. Such request\nfor consent shall be presented in a manner which is clearly distinguishable from the other matters,\nin an easily accessible and intelligible form and statements, using clear and plain language, and\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\ndoes not deceptive or misleading to the  data subject in respect to such purpose. In this regard,\nthe Committee may require the Data Controller to request for data subject's consent in accordance\nwith the form and statements as prescribed by the Committee.\nIn requesting consent from the data subject, the Data Controller shall utmost take\ninto account that the data subject's consent is freely given. Also, the entering into the contract,\nincluding any provisions of the service shall not be a condition to obtaining consent for the\ncollection, use, or disclosure of Personal Data that is not necessary or not related to such contract\nentering, including the provisions of the service.\nThe data subject may withdraw his or her consent at any time. The withdrawal\nof consent shall be as easy as to giving consent, unless there is a restriction of the withdrawal of\nconsent by law, or the contract which gives benefits to the data subject. However, the withdrawal\nof consent shall not affect the collection, use, or disclosure of personal data that the data subject\nhas already given consent legally under this Chapter.\nIn the event that the withdrawal of consent will affect the  data subject in any\nmanner, the Data Controller shall inform the data subject of such consequences of consent's\nwithdrawal.\nThe request for the data subject’s consent which is not in accordance with those\nprescribed in this Chapter shall have no binding effect on the data subject and shall no longer\nenable the Data Controller to collect, use, or disclose the Personal Data."
+   }
+  },
+  {
+   "id": "TH-H1107-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 20 In the event that the data subject is a minor who is not sui juris"
+   },
+   "text": {
+    "en": "Section 20 In the event that the data subject is a minor who is not sui juris\nby marriage or has no capacity as a sui juris person under section 27 of the Civil and Commercial\nCode, the request for the consent from such data subject shall be made as follows:\n(1) In the event that the minor’s giving of consent is not any act which the minor\nmay be entitled to act alone as prescribed under section 22, section 23, or section 24 of the Civil\nand Commercial Code, such act also requires consent of the holder of parental responsibility over\nthe child;\n(2) Where the minor is below the age of  ten years, the consent shall be obtained\nfrom the holder of parental responsibility over the child.\nIn the event that the data subject is incompetent, the consent must be obtained\nfrom the custodian who has the power to act on behalf of the incompetent person.\nIn the event that the data subject is quasi-incompetent, the consent must be\nobtained from the curator who has the power to act on behalf of the quasi-incompetent person.\nThe provisions of paragraphs one, two, and three shall apply mutatis mutandis\nto the withdrawal of consent of the data subject, the notice given to the data subject, the exercise\nof rights of the data subject, the complaint of the data subject, and any other acts under this Act\nfor the data subject who is a minor, an incompetent or quasi-incompetent person."
+   }
+  },
+  {
+   "id": "TH-H1107-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 21 The Data Controller shall collect, use, or disclose Personal Data"
+   },
+   "text": {
+    "en": "Section 21 The Data Controller shall collect, use, or disclose Personal Data\naccording to the purpose notified to the data subject prior to or at the time of such collection.\nThe collection, use, or disclosure of Personal Data shall not be conducted in a\nmanner that is different from the purpose previously notified to the data subject in accordance\nwith paragraph one, unless:\n(1) the data subject has been informed of such new purpose, and the consent is\nobtained prior to the time of collection, use, or disclosure;\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\n(2) it can be done by the provisions of this Act or in other laws.\n\nPart 2\n\nPersonal Data Collection\n\n---------------------------"
+   }
+  },
+  {
+   "id": "TH-H1107-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 22 The collection of Personal Data shall be limited to the extent"
+   },
+   "text": {
+    "en": "Section 22 The collection of Personal Data shall be limited to the extent\nnecessary in relation to the lawful purpose of the Data Controller."
+   }
+  },
+  {
+   "id": "TH-H1107-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 23 In collecting the Personal Data, the Data Controller shall"
+   },
+   "text": {
+    "en": "Section 23 In collecting the Personal Data, the Data Controller shall\ninform the data subject, prior to or at the time of such collection, of the following details, except\nthe case where the data subject already knows of such details:\n(1)  the purpose of the collection for use or disclosure of the Personal Data,\nincluding the purpose which is permitted under section 24 for the collection of Personal Data\nwithout the data subject's consent;\n(2) notification of the case where the data subject must provide his or her\nPersonal Data for compliance with a law, or contract, or where it is necessary to provide the\nPersonal Data for the purpose of entering into the contract, including notification of the possible\neffect where the data subject does not provide such Personal Data;\n(3) the Personal Data to be collected and the period for which the Personal\nData will be retained. If it is not possible to specify the retention period, the expected data\nretention period according the data retention standard shall be specified;\n(4) the categories of Persons or entities to whom the collected Personal Data\nmay be disclosed;\n(5) information, address, and the contact channel details of the Data Controller,\nwhere applicable, of the Data Controller's representative or data protection officer;\n(6) the rights of the data subject under section 19 paragraph five, section 30\nparagraph one, section 31 paragraph one, section 32 paragraph one, section 33 paragraph one,\nsection 34 paragraph one, section 36 paragraph one, and section 73 paragraph one."
+   }
+  },
+  {
+   "id": "TH-H1107-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 24 The Data Controller shall not collect Personal Data without the"
+   },
+   "text": {
+    "en": "Section 24 The Data Controller shall not collect Personal Data without the\nconsent of the data subject, unless:\n(1) it is for the achievement of the purpose relating to the preparation of the\nhistorical documents or the archives for public interest, or for the purpose relating to research or\nstatistics, in which the suitable measures to safeguard the data subject's rights and freedoms are\nput in place and in accordance with the notification as prescribed by the Committee;\n(2) it is for preventing or suppressing a danger to a Person’s life, body or health;\n(3) it is necessary for the performance of a contract to which the data subject is\na party, or in order to take steps at the request of the data subject prior to entering into a contract;\n(4) it is necessary for the performance of a task carried out in the public interest\nby the Data Controller, or it is necessary for the exercising of official authority vested in the Data\nController;\n(5) it is necessary for legitimate interests of the Data Controller or any other\nPersons or juristic persons other than the Data Controller, except where such interests are\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\noverridden by the fundamental rights of the data subject of his or her Personal Data;\n(6) it is necessary for compliance with a law to which the  Data Controller is\nsubjected."
+   }
+  },
+  {
+   "id": "TH-H1107-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 25 The Data Controller shall not collect Personal Data from any"
+   },
+   "text": {
+    "en": "Section 25 The Data Controller shall not collect Personal Data from any\nother source, apart from the data subject directly, except where:\n(1) the Data Controller has informed the data subject  of the collection  of\nPersonal Data from other source without delay, but shall not exceed thirty days upon the date of\nsuch collection, and has obtained the consent from the data subject;\n(2) it is a collection of Personal Data which falls within the exceptions to\nrequest consent under section 24 or section 26.\nThe provisions with respect to notice of the new purpose in section 21, and the\nnotice of information details in section 23 shall apply mutatis mutandis to the collection of the\nPersonal Data which requires consent in paragraph one, except for the following circumstances:\n(1) the data subject has been aware of such new purposes or details;\n(2) the Data Controller can prove that the notice of such new purposes or\ninformation details is impossible or will obstruct the use or disclosure of the Personal Data, in\nparticular for achieving the purposes in relation to scientific , historical, or statistical research\npurposes. In such cases, the Data Controller shall take suitable measures to protect the data\nsubject 's rights, freedoms and interests;\n(3) the use or disclosure of the Personal Data shall be carried out on an urgent\nbasis as required by law, and suitable measures have been implemented to protect the data\nsubject's interest;\n(4) the Data Controller is aware of or acquires such Personal Data from his or\nher duty or occupation or profession, and shall maintain new purposes or certain information\ndetails as prescribed in section 23 with confidentiality as required by law.\nTo notify the information detailed in paragraph two, the Data Controller shall\nprovide such information to the data subject within thirty days after the date of collection such of\nPersonal Data, unless the Personal Data are to be used for communication with the data subject,\nthe notice of information details shall be provided at the time of the first communication to that\ndata subject. If a disclosure to another Person is envisaged, the notice of information details shall\nbe provided prior to the time of the first disclosure."
+   }
+  },
+  {
+   "id": "TH-H1107-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 26  Any collection of Personal Data pertaining to racial, ethnic"
+   },
+   "text": {
+    "en": "Section 26  Any collection of Personal Data pertaining to racial, ethnic\norigin, political opinions, cult, religious or philosophical beliefs, sexual behavior, criminal\nrecords, health data, disability, trade union information, genetic data, biometric data, or of any\ndata which may affect the data subject in the same manner, as prescribed by the\nCommittee, is prohibited, without the explicit consent from the data subject, except where:\n*(1) it is to prevent or suppress a danger to life, body or health of the Person ,\nw h e\nr e  the data subject is incapable of giving consent by whatever reason;\n*(2) it is carried out in the course of legitimate activities with appropriate safeguards\nby  the foundations, associations or any other not-for-profit bodies with a political, religious,\nphilosophical, or trade union purposes for their members, former members of the bodies, or\npersons having regular contact with such foundations, associations or not-for-profit bodies in\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\nconnection with their purposes, without disclosing the Personal Data outside of such\nfoundations, associations or not-for-profit bodies;\n*(3) it is information that is disclosed to the public with the explicit consent\nof the d\nata subject;\n*(4) it is necessary for the establishment, compliance,  exercise or defense of\nleg\nal claims;\n*(5) it is necessary for compliance with a law to achieve the purposes with\nrespect to:\n(a) preventive medicine or occupational medicine, the assessment of\nworking capacity of the employee,  medical diagnosis, the provision of health or social care,\nmedical treatment, the management of health or social care systems and services.  In the event\nthat it is not for compliance with the law, and such Personal Data is under the responsibility of\nthe occupational or profession practitioner or person having the duty to keep such Personal Data\nas confidential under the law, it must be for compliance with the contract between the data subject\nand the medical practitioner;\n(b) public interest in public health, such as protecting against cross-border\ndangerous contagious disease or epidemics which may  be contagious or pestilent, or ensuring\nstandards or quality of medicines, medicinal products or medical devices, on the basis that there\nis a provision of suitable and specific measures to safeguard the rights and freedom of the data\nsubject, in particul ar maintaining the confidentiality of Personal Data in accordance with the\nduties or professional ethics;\n(c) employment protection, social security, national health security, social\nhealth welfare of the entitled person by law , the road accident victims protection, or social\nprotection in which the collection of Personal Data is necessary for  exercising the rights or\ncarrying out the obligations of the Data Controller or the data subject, by providing the suitable\nmeasures to protect the fundamental rights and interest of the data subject;\n(d) it is for the scientific, historical, or statistic research purposes, or other\npublic interests which must be carried out only to the extent necessary to achieve such purposes,\nand the suitable measures have been provided to protect the fundamental rights and interest of\nthe data subject as prescribed by the Committee;\n(e) the substantial public interest, by providing the suitable measures to\nprotect the fundamental rights and interest of the data subject.\nThe biometric data in paragraph one shall mean the Personal Data arising from\nthe use of technics or technology related to the physical or behavioral dominance of Person,\nwhich can be used to identify such Person apart from other Persons, such as the facial recognition\ndata, iris recognition data or fingerprint recognition data.\nIn the case of the collection of the Personal Data relating to criminal record, such\ncollection shall be carried out under the control of authorized official authority under the law, or\nthe data protection measure has been implemented according to rules prescribed by the\nCommittee.\n\nPart 3\n\nUse or Disclosure of Personal Data\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\n---------------------------"
+   }
+  },
+  {
+   "id": "TH-H1107-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 27 The Data Controller shall not use  or disclose Personal Data"
+   },
+   "text": {
+    "en": "Section 27 The Data Controller shall not use  or disclose Personal Data\nwithout the consent of the data subject, unless it is the Personal Data which is collected without\nrequirement of consent under section 24 or section 26.\nThe Person or juristic person who obtains Personal Data  as a result of the\ndisclosure under paragraph one shall not use or disclose such Personal Data for any purpose other\nthan the purpose previously notified to the Data Controller in the request to obtain such Personal\nData.\nIn the event that the Data Controller uses or discloses the Personal Data which\nis exempted from consent requirement in paragraph one, the Data Controller  shall maintain a\nrecord of such use or disclosure in the record under section 39."
+   }
+  },
+  {
+   "id": "TH-H1107-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 28 In th e event that the Data Controller sends or transfers the"
+   },
+   "text": {
+    "en": "Section 28 In th e event that the Data Controller sends or transfers the\nPersonal Data to a foreign country, the destination country or international organization that\nreceives such Personal Data shall have adequate data protection standard, and shall be carried out\nin accordance with the rules for the protection of Personal Data as prescribed by the Committee\nin section 16(5), except in the following circumstances:\n(1) where it is for compliance with the law;\n(2) where the consent of the data subject has been obtained, provided that the\ndata subject  has been informed of the inadequate Personal Data  protection standards of the\ndestination country or international organization;\n(3) where it is necessary for the performance of a contract to which the data\nsubject is a party, or in order to take steps at the request of the data subject prior to entering into\na contract;\n(4)  where it is for compliance with a contract between the Data Controller, and\nother Persons or juristic persons for the interests of the data subject;\n(5) where it is to prevent or suppress a danger to the life, body, or health of the\ndata subject or other Persons, when the data subject is incapable of giving the consent at such\ntime;\n(6) where it is necessary for carrying out the activities in relation to substantial\npublic interest.\nIn the event that there is a problem with regard to the adequacy of Personal Data\nprotection standards of the destination country or international organization, such problem shall\nbe submitted to the Committee to decide. The decision made by the Committee may be reviewed\nwhen there is a new evidence convincing that the destination country or international organization\nthat receives such Personal Data has developed adequate Personal Data protection standards."
+   }
+  },
+  {
+   "id": "TH-H1107-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 29 In the event that the Data Controller or the Data Processor who"
+   },
+   "text": {
+    "en": "Section 29 In the event that the Data Controller or the Data Processor who\nis in the Kingdom of Thailand has put in place a Personal Data protection policy regarding the\nsending or transferring of Personal Data to another Data Controller or Data Processor who is in\na foreign country, and is in the same affiliated business, or is in the same group of undertakings,\nin order to jointly operate the business or group of undertakings. If such Personal Data protection\npolicy has been reviewed and certified by the Office, the sending or transferring of Personal Data\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\nto a foreign country, which is in accordance with such reviewed and certified Personal Data\nprotection policy, can be carried out and shall be exempt from compliance with section 28.\nThe Personal Data  protection policy, the nature of the same affiliated\nundertaking or affiliated business in order to jointly operate the undertaking or business, and the\nrules and methods for the review and certification in paragraph one shall be as prescribed and\nannounced by the Committee.\nIn the absent of a decision by the Committee in accordance with section 28, or\nthe Personal Data protection policy referred in paragraph one, the Data Controller or the Data\nProcessor may send or transfer the Personal Data to a foreign country in exemption to compliance\nwith section 28, if the Data Controller or the Data Processor provides suitable protection measures\nwhich enable the enforcement of the data subject’s rights, including effective legal remedial\nmeasures according to the rules and methods as prescribed and announced by the Committee.\n\nChapter III\n\nRights of the data subject\n\n---------------------------"
+   }
+  },
+  {
+   "id": "TH-H1107-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 30 T he data subject is entitled to request access to and obtain  copy"
+   },
+   "text": {
+    "en": "Section 30 T he data subject is entitled to request access to and obtain  copy\nof the Personal Data related to him or her, which is under the responsibility of the Data Controller,\nor to request the disclosure of the acquisition of  the Personal Data obtained without his or her\nconsent.\nThe Data Controller shall perform as requested in paragraph one. The request\ncan be rejected only where it is permitted by law or pursuant to a court order, and such access\nand obtaining a copy of the Personal Data would adversely affect the rights and freedoms of\nothers.\nIn the case that the Data Controller rejects the requests in paragraph one, the\nData Controller shall record its rejection together with  supporting reasons in the record as\nprescribed in section 39.\nWhen the data subject makes a request as in paragraph one, and such request\ncannot be rejected based on the reasons in paragraph two, the Data Controller shall fulfill the\nrequest without delay, but shall not exceed thirty days from the date of receiving such request.\n The Committee may prescribe rules for the access to and request to obtain a\ncopy of the Personal Data in paragraph one, including the extension of the period under paragraph\nfour, or other rules as appropriate."
+   }
+  },
+  {
+   "id": "TH-H1107-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 31 The data subject shall have the right to receive the Personal Data"
+   },
+   "text": {
+    "en": "Section 31 The data subject shall have the right to receive the Personal Data\nconcerning him or her from the Data Controller. The Data Controller shall arrange such Personal\nData to be in the format which is readable or commonly used by ways of automatic tools  or\nequipment, and can be used or disclosed by automat ed means. The data subject is also entitled\nto:\n(1) request the Data Controller to send or transfer the Personal Data in such\nformats to other Data Controllers if it can be done by the automatic means;\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\n(2) request to directly obtain the Personal Data in such formats that the Data\nController sends or transfers to other Data Controllers, unless it is impossible to do so because\nof the technical circumstances.\n The Personal Data in paragraph one must be the Personal Data that the data\nsubject has given consent for the collection, use, or disclosure of such Personal Data according\nto the rules under this Act, or the Personal Data that is exempted from consent requirements\nunder section 24 (3), or any other Personal Data referred to under section 24 as prescribed by\nthe Committee.\n The exercise of rights of the data subject in paragraph one shall not apply to\nthe sending or transferring of Personal Data by the Data Controller which is the performance of\na task carried out in the public interest, or for compliance with law, or such exercise of rights\nshall not violate the rights and freedoms of others. In the event that the Data Controller rejects\nthe request by such reasons, the Data Controller shall make a record of such rejection of the\nrequest together with reasons in the record as prescribed in section 39."
+   }
+  },
+  {
+   "id": "TH-H1107-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 32 The data subject  has the right to object the collection, use, or"
+   },
+   "text": {
+    "en": "Section 32 The data subject  has the right to object the collection, use, or\ndisclosure of the Personal Data concerning him or her, at any time, in the following\ncircumstances:\n(1) Where the Personal Data is collected with the exemption to consent\nrequirements under section 24 (4) or (5), unless the Data Controller can prove that:\n(a) the collection, use, or disclosure of such Personal Data can be\ndemonstrated by the Data Controller that there is a compelling legitimate ground;\n(b) the collection, use, or disclosure of such Personal Data is carried out\nfor the establishment, compliance or exercise of legal claims, or defense of legal claims;\n(2) the collection, use, or disclosure of such Personal Data is for the purpose of\ndirect marketing;\n(3) the collection, use, or disclosure of the Personal Data for the purpose of\nscientific, historical or statistic research, unless it is necessary to performance of a task\ncarried out for reasons of public interest by the Data Controller.\n In the event that the data subject exercises his or her right to object in paragraph\none, the Data Controller shall no longer be able to collect, use, or disclose such Personal Data,\nand the Data Controller shall immediately distinguish such personal data clearly from the other\nmatters at the time when the data subject gives the notice of objection to the Data Controller.\n In the event that the Data Controller rejects the objection by the reasons in (1)\n(a) or (b) or (3), the Data Controller shall record such rejection of objection request together\nwith reasons in the record as prescribed in section 39."
+   }
+  },
+  {
+   "id": "TH-H1107-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 33 The data subject  shall have the right to request the Data"
+   },
+   "text": {
+    "en": "Section 33 The data subject  shall have the right to request the Data\nController to erase or destroy the Personal Data, or anonymize the Personal Data to become the\nanonymous data which cannot identify the data subject, where the following ground applies:\n(1) the Personal Data is no longer necessary in relation to the purposes for\nwhich it was collected, used or disclosed;\n(2) the data subject  withdraws consent on which the  collection, use, or\ndisclosure is based on, and where the Data Controller has no legal ground for such collection,\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\nuse, or disclosure;\n(3) the data subject objects to the collection, use, or disclosure of the Personal\nData referred in Section 32 (1), and the Data Controller cannot reject to such request as referred\nin section 32 (1) (a) or (b), or where the data subject exercise his or her right to object as referred\nin section 32 (2);\n(4) the Personal Data have been unlawfully collected,  used, or disclosed under\nthis Chapter.\nParagraph one shall not apply to the extent that such Personal Data retention is\nnecessary for the purpose of freedom of expression, the purpose under section 24 (1) or (4) or\nsection 26(5) (a) or (b), the purpose of establishment, compliance or exercise of legal claims, or\ndefense of legal claims, or the purpose for compliance with the law.\nWhere the Data Controller has made the Personal Data  disclose to public and\nis requested to er ase or destroy the Personal Data , or make the Personal Data  become the\nanonymous data which can not identify the data subject pursuant to paragraph one, the Data\nController shall be responsible for the course of action, both the implementation of technology\nand the expenses to fulfil the request, and inform other Data Controllers in order to obtain their\nresponses regarding the action to be taken to fulfil such request.\nIn the event that the Data Controller does not take action in accordance with\nparagraph one or three, the data subject shall have the right to complain to expert committee to\norder the Data Controller to take such action.\nThe Committee may announce the rules for the erasure or destruction of\nPersonal Data, or anonymization of the Personal Data to become the anonymous data which\ncannot identify the data subject pursuant to paragraph one."
+   }
+  },
+  {
+   "id": "TH-H1107-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 34 The data subject  shall have the right to request the Data"
+   },
+   "text": {
+    "en": "Section 34 The data subject  shall have the right to request the Data\nController to restrict the use of the Personal Data, where the following applies:\n(1) when the Data Controller is pending examination process in accordance\nwith the data subject's request pursuant to section 36;\n(2) when it is the Personal Data which shall be erased or destroyed pursuant to\nsection 33 (4), but the data subject requests the rest riction of the use of such Personal Data\ninstead;\n(3) when it is no longer necessary to retain such Personal Data for the purposes\nof such collection, but the data subject has necessity to request the retention for the purposes of\nthe establishment, compliance, or exercise of legal claims, or the defense of legal claims;\n(4) when the Data Controller is pending verification with regard to section 32\n(1), or pending examination with regard to section 32 (3) in order to reject the objection request\nmade by the data subject in accordance to section 32 paragraph three.\nIn the event that the Data Controller does not take action in accordance with\nparagraph one, the data subject shall have the right to complain to expert committee to order the\nData Controller to take such action.\nThe Committee may prescribe and announce rules regarding  the suspension of\nuse in accordance with paragraph one."
+   }
+  },
+  {
+   "id": "TH-H1107-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 35 The Data Controller shall ensure that the Personal Data remains"
+   },
+   "text": {
+    "en": "Section 35 The Data Controller shall ensure that the Personal Data remains\naccurate, up-to-date, complete, and not misleading.\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019"
+   }
+  },
+  {
+   "id": "TH-H1107-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 36 In the case where the data subject  requests the Data"
+   },
+   "text": {
+    "en": "Section 36 In the case where the data subject  requests the Data\nController to act in compliance with section 35, if the Data Controller does not take action\nregarding the request of the data subject, the Data Controller shall record such request of the\ndata subject together with reasons, in the record as prescribed in section 39.\nThe provisions of section 34 paragraph two shall apply mutatis mutandis."
+   }
+  },
+  {
+   "id": "TH-H1107-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 37  The Data Controller shall have the following duties:"
+   },
+   "text": {
+    "en": "Section 37  The Data Controller shall have the following duties:\n(1) provide appropriate security measures for preventing the unauthorized or\nunlawful loss, access to, use, alteration, correction or disclosure of Personal Data, and such\nmeasures must be reviewed when it is necessary, or when the technology has changed in order\nto efficiently maintain the appropriate security and safety. It shall also be in accordance with the\nminimum standard specified and announced by the Committee;\n(2)  in the circumstance where the Personal Data is to be provided to other\nPersons or legal persons, apart from the Data Controller, the Data Controller shall take action to\nprevent such person from using or disclosing such Personal Data  unlawfully or without\nauthorization;\n(3) put in place the examination system for erasure or destruction of the\nPersonal Data when the retention period ends, or when the Personal Data is irrelevant or beyond\nthe purpose necessary for which it has been collected, or when the data subject has request to\ndo so, or when the data subject withdraws consent, except where the retention of such Personal\nData is for the purpose of freedom of expression, the purpose under section 24 (1) or (4) or\nsection 26 (5) (a) or (b) , the purpose of the establishment,  compliance or exercise of legal\nclaims, or defense of legal claims, or the purpose of compliance with the law. The provision in\nsection 33 paragraph five shall be used to govern the erasure or destruction of Personal Data\nmutatis mutandis;\n(4) notify the Office of any Personal Data breach without delay and, where\nfeasible, within 72 hours after having become aware of it, unless such Personal Data breach is\nunlikely to result in a risk to the rights and freedoms of the Persons. If the Personal Data breach\nis likely to result in a hig h risk to the rights and freedoms of the Persons, the Data Controller\nshall also notify the Personal Data breach and the remedial measures to the data subject without\ndelay. The notification and the exemption to the notification shall be made in accordance  with\nthe rules and procedures set forth by the Committee;\n(5) in the event of being the Data Controller pursuant to section 5 paragraph\ntwo, the Data Controller shall designate in writing a representative of the Data Controller who\nmust be in the Kingdom of Thailand and be authorized to act on behalf of the Data Controller\nwithout any limitation of liability with respect to the collection, use or disclosure of the Personal\nData according to the purposes of the Data Controller."
+   }
+  },
+  {
+   "id": "TH-H1107-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 38 The provisions of t h e  representative designation in section"
+   },
+   "text": {
+    "en": "Section 38 The provisions of t h e  representative designation in section\n37 (5) shall not apply to the following Data Controller:\n(1) the  Data  Controller  which  is  a  public authority as  prescribed and\nannounced  by the Committee;\n(2) the Data Controller which engages in the profession or business of\ncollecting, using, or disclosing Personal Data, that does not have the nature pursuant to section\n26, and does not have a large amount of Personal Data as prescribed by the Committee in section\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\n41 (2).\nIn the event that the Data Controller in section 5 paragraph two has a Data\nProcessor, the provisions of section 37 (5) and the provisions in paragraph one shall apply to such\nData Processor mutatis mutandis."
+   }
+  },
+  {
+   "id": "TH-H1107-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 39 The Data Controller shall maintain, at least, the following"
+   },
+   "text": {
+    "en": "Section 39 The Data Controller shall maintain, at least, the following\nrecords in order to enable the data subject and the Office to check upon, which can be either\nin a written or electronic form:\n(1) the collected Personal Data;\n(2) the purpose of the collection of the Personal Data in each category;\n(3) details of the Data Controller;\n(4) the retention period of the Personal Data;\n(5) rights and methods for access to the Personal Data, including the\nconditions regarding the  Person having the right to access the Personal Data and the\nconditions to access such Personal Data;\n(6) the use or disclosure under section  27 paragraph three;\n(7) the rejection of request or objection according to section 30 paragraph\nthree, section 31 paragraph three, section 32 paragraph three, and section 36 paragraph one;\n(8) explanation of the appropriate security measures pursuant to section 37\n(1).\nThe provisions in paragraph one shall apply to the representative of the Data\nController under section 5 paragraph two mutatis mutandis.\nThe provisions in (1), (2), (3), (4), (5), (6) and (8) may not apply to the Data\nController who is a small organization pursuant to the rules as prescribed by the Committee,\nunless the collection, use, or disclosure of such Personal Data is likely to result in a risk to the\nrights and freedoms of data subjects, or not a business where the collection, use, or disclosure\nof the Personal Data is occasional, or involving in the collection, use, or disclosure of the\nPersonal Data pursuant to section 26."
+   }
+  },
+  {
+   "id": "TH-H1107-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 40  The Personal Data Processor shall have the following duties:"
+   },
+   "text": {
+    "en": "Section 40  The Personal Data Processor shall have the following duties:\n(1) carry out the activities related  to the collection, use, or disclosure of\nPersonal Data only pursuant to the instruction given by the Data Controller, except where such\ninstruction is contrary to the law or  any provisions regarding Personal Data protection under\nthis Act;\n(2) provide appropriate security measures for preventing unauthorized or\nunlawful loss, access to, use, alteration, correction or disclosure, of Personal Data, and notify\nthe Data Controller of the Personal Data breach that occurred;\n(3) prepare and maintain records of personal data processing activities in\naccordance with the rules and methods set forth by the Committee.\nThe Data Processor, who fails to comply with (1) for the collection, use, or\ndisclosure of the Personal Data, shall be regarded as the Data Controller for the collection,\nuse, or disclosure of such Personal Data.\nIn carrying out the activities in accordance with the Data Processor's obligations\nas assigned by the Data Controller under paragraph one, the Data Controller shall prepare an\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\nagreement between the parties to control the activities carried out by the Data Processor to be in\naccordance with the Data Processor's obligations for compliance with this Act.\nThe prov isions in (3) may not apply to the Data Processor who is a small\norganization pursuant to the rules as prescribed by the Committee, unless the collection, use, or\ndisclosure of such Personal Data is likely to result in a risk to the rights and freedoms of data\nsubjects, or not a business where the collection, use, or disclosure of the Personal Data  is\noccasional, or involving in the collection, use, or disclosure of the Personal Data pursuant to"
+   }
+  },
+  {
+   "id": "TH-H1107-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "section 26.\nSection 41 The Data Controller and the Data Processor shall designate a"
+   },
+   "text": {
+    "en": "section 26.\nSection 41 The Data Controller and the Data Processor shall designate a\ndata protection officer in the following circumstances:\n(1) the Data Controller or the Data Processor is a public authority as\nprescribed and announced by the Committee;\n(2) the activities of the Data Controller or the Data Processor in the\ncollection, use, or disclosure of the Personal Data require a regular monitoring of the Personal\nData or the system, by the reason of having a large number of Personal Data as prescribed and\nannounced by the Committee;\n(3) the core activity of the Data Controller or the Data Processor is the\ncollection, use, or disclosure of the Personal Data according to section 26.\nIn the event that the Data Controller or the Data Processor are in the same\naffiliated business or are in the same group of undertakings, in order to jointly operate the\nbusiness or group of undertakings as prescribed and announced by the Committee according to\nsection 29 paragraph two, such Data Controller or Data Processor may jointly designate a data\nprotection officer. In this regard, each establishment of the Data Controller or the Data\nProcessor in the same affiliated business or in the same group of undertakings must be able to\neasily contact the data protection officer.\nThe provisions in paragraph two shall apply to the Data Controller or the Data\nProcessor who is a public authority in (1) that is large in size or has several establishments\nmutatis mutandis.\nIn the event that the Data Controller or the Data Processor in paragraph one\nhas to designate the representative according to section 37 (5), the provisions in paragraph one\nshall apply to the representative mutatis mutandis.\nThe Data Controller and the Data Processor shall have an obligation to\nprovide the information of the data protection officer, contact address, and contact channels to\nthe data subject and the Office. The data subject shall be able to contact the data protection\nofficer with respect to the collection, use, or disclosure of the Personal Data and the exercise\nof rights of the data subject under this Act.\nThe Committee may prescribe and announce the qualifications of the data\nprotection officer by taking into account the knowledge or expertise with respect to the\nPersonal Data protection.\nThe personal data protection officer may be a staff of the Data Controller or\nthe Data Processor, or a service provider under the contract with the Data Controller or the\nData Processor."
+   }
+  },
+  {
+   "id": "TH-H1107-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 42 The data protection officer shall have the following duties:"
+   },
+   "text": {
+    "en": "Section 42 The data protection officer shall have the following duties:\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\n(1) give advices to the Data Controller or the Data Processor, including the\nemployees or service providers of the Data Controller or of the Data Processor with respect to\ncompliance with this Act;\n(2) investigate the performance of the Data Controller or the Data Processor,\nincluding the employees or service providers of the Data Controller or of the Data Processor\nwith respect to the collection, use, or disclosure of the Personal Data for compliance with this\nAct;\n(3) coordinate and cooperate with the Office in the circumstance where there\nare problems with respect to the collection, use, or disclosure of the Personal Data undertaken\nby the Data Controller or the Data Processor, including the employees or service providers of\nthe Data Controller or of the Data Processor with respect to the compliance with this Act;\n(4) keep confidentiality of the Personal Data known or acquired in the course\nof his or her performance of duty under this Act.\nThe Data Controller or the Data Processor shall support the data protection\nofficer in performing the tasks by providing adequate tools or equipment as well as facilitate\nthe access to the Personal Data in order to perform the duties.\nThe Data Controller or the Data Processor shall not dismiss or terminate the\ndata protection officer’s employment by the reason that the data protection officer performs\nhis or her duties under this Act. In the event that there is any problem when performing the\nduties, the data protection officer must be able to directly report to the chief  executive of the\nData Controller or the Data Processor.\nThe data protection officer may be able to perform other duties or tasks but\nthe Data Controller or the Data Processor must warrant to the Office that such duties or tasks\nare not against or contrary to the performance of the duties under this Act.\n\nChapter IV\n\nOffice of the Personal Data Protection Committee\n\n---------------------------"
+   }
+  },
+  {
+   "id": "TH-H1107-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 43 There shall be an Office of the Personal Data  Protection"
+   },
+   "text": {
+    "en": "Section 43 There shall be an Office of the Personal Data  Protection\nCommittee, whose objectives are to protect Personal Data, encourage and support the country’s\ndevelopment regarding Personal Data protection.\nThe Office shall act as a government agency, with the status of a juristic person.\nThe Office shall not be deemed a public sector under the law on administrative organization of\nthe state, or a state enterprise under the law on budget procedures or other laws.\nThe Office’s operation shall not be governed by the laws on labor protection,\nlabor relations, state enterprise labor relations, social security, and workmen’s compensation.\nHowever, the staff and employees of the Office shall be entitled to compensation at the rate not\nless than the rate stipulated by the laws on labor protection, social security, and workmen’s\ncompensation.\nThe Office shall be deemed a government agency under the law on tort liability\nof government official.\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019"
+   }
+  },
+  {
+   "id": "TH-H1107-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 44 In addition to the Office’s duty to carry out its operations to"
+   },
+   "text": {
+    "en": "Section 44 In addition to the Office’s duty to carry out its operations to\nachieve the objectives as set out in section 43 paragraph one, the Office shall have the duty to\nperform academic and administrative tasks for the Committee, the commission supervising the\nOffice of Personal Data Protection Committee, the expert committee, and the sub -committee.\nThe Office shall also have the following duties and power:\n(1) to draft the master plan on the operation for the promotion and protection\nof Personal Data, w hich are consistent with policies, national strategies and relevant national\nplans, and to draft the master plan and corrective measures regarding the difficulties in carrying\nout such policies, national strategies and national plans in order to propose to the Committee;\n(2) to promote and support the research for the development of technology\nrelating to the protection of Personal Data;\n(3) to analyze and certify the compliance with and accuracy of the standards or\nmeasures, or the supervision mechanism in connection with Personal Data protection, as well as\nto review and certify the Personal Data protection policy according to section 29;\n(4) to conduct surveys, collect information, and follow the latest updates and\ntrends on Personal Data protection, as well as to conduct analysis and research on Personal Data\nprotection issues that affect the country’s development, to propose to the Committee.\n(5) to liaise with the public sector, state enterprises, local government\nadministration, public organizations, or other organizations of the country regarding Personal\nData protection;\n(6) to provide consultations to government agency and private agency in acting\nin compliance with this Act;\n(7) to act as the center to provide academic services or services related to\nPersonal Data protection to the government agency, private agencies, and the public, including\nto promote and provide knowledge and understanding regarding Personal Data protection;\n(8) to establish course outlines and provide training of the performance of the\nData Controller, Data Processor, data protection officer, employees, service providers, or the\npeople in general;\n(9) to enter into agreements and cooperate with organizations or agencies both\ndomestic and international, in the matters relating to the Office’s operation carried out under the\nOffice’s duties and power, upon obtaining the approval from the Committee;\n(10) to follow-up on and evaluate compliance with this Act;\n(11) to carry out other duties  as assigned by the Committee, the commission\nsupervising the Office of Personal Data Protection Committee, the expert committee, or the sub-\ncommittee, or as specified by law."
+   }
+  },
+  {
+   "id": "TH-H1107-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 45 In carrying out the Office’s  operation, apart from those"
+   },
+   "text": {
+    "en": "Section 45 In carrying out the Office’s  operation, apart from those\nstipulated under section 44, the Office shall also have the power and dut ies to carry out the\nfollowing:\n(1) to hold the title to, be in the possession of, and hold the property right\nto properties;\n(2) to create rights or carry out all kinds of juristic acts to bind upon properties,\nas well as to carry out any other juristic acts for the purpose of carrying out the Office’s operation;\n(3) to provide and to give funding to support the Office’s operations;\n(4) to impose fees, maintenance fees, compensation, or service fees for the\nOffice’s operations according to the Office’s objectives, in accordance with the criteria and at\nthe rate specified by the Office, with the approval of the commission supervising the Office\nof Personal Data Protection Committee;\n(5) to carry out any other acts that the law specifies to be the duties and powers\nof the Office , or as assigned by the Committee, the commission supervising the Office  of\nPersonal Data Protection Committee, the expert committee, or the sub-committee.\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019"
+   }
+  },
+  {
+   "id": "TH-H1107-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 46 The fund and properties used in the Office’s business"
+   },
+   "text": {
+    "en": "Section 46 The fund and properties used in the Office’s business\noperations shall consist of the following:\n(1) initial budget provided by the government under section 94 paragraph one;\n(2) general grants as reasonably provided by the government on a yearly basis;\n(3) subsidy from domestic  or international government agencies , or\ninternational governmental organizations;\n(4) fees, maintenance fees, compensation, service fees, or incomes incurred\nfrom the Office’s operations carried out under the Office’s duties and power;\n(5)  interests of funds or any other incomes obtained from properties of the\nOffice.\nThe funds and properties of the Office under paragraph one are required to be\nsubmitted to the Ministry of Finance as public revenue."
+   }
+  },
+  {
+   "id": "TH-H1107-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 47 The immovable properties that the Office acquires by the"
+   },
+   "text": {
+    "en": "Section 47 The immovable properties that the Office acquires by the\npurchase or exchange using the Office’s revenue in section 46 (4) or (5) shall be under the\nOffice’s ownership."
+   }
+  },
+  {
+   "id": "TH-H1107-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 48 There shall be a commission supervising the Office of"
+   },
+   "text": {
+    "en": "Section 48 There shall be a commission supervising the Office of\nPersonal Data Protection Committee consisting of a Chairperson, who is selected and\nappointed from a person having distinguished knowledge, skills and experience in Personal Data\nprotection, the Permanent Secretary of the Ministry of Digital Economy and Society, and the\nSecretary-General of Office of the National Digital Economy and Society Commission as\ndirectors, and six honorary directors which , at least three p ersons, are selected and\nappointed from persons having distinguished knowledge, skills and experience in Personal\nData protection,  and other related areas which will be useful for the operation of the Office.\nThe Secretary-General shall be a director and secretary, and shall appoint\nassistant secretaries from the officials of the Office not exceeding two persons.\nThe substances of section 11 and section 13 shall apply to the Chairperson and\nthe honorary director of the Commission mutatis mutandis."
+   }
+  },
+  {
+   "id": "TH-H1107-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 49 There shall be a selection committee of eight members,"
+   },
+   "text": {
+    "en": "Section 49 There shall be a selection committee of eight members,\nconsisting of the persons appointed by the Committee, having the duty to select the appropriate\npersons who should be appointed as the Chairperson and the honorary director in section 48.\nThe selection committee shall select one member to act as the Chairperson of\nthe selection committee and another one member to act as the Secretary of the selection\ncommittee and the Office shall perform the duty as the administrative unit of the selection\ncommittee.\nIn the event that any member of the selection committee is vacant, a new member\nmust be selected to replace such vacancy without delay. During the time that no new member\nhas been selected, the selection committee shall consist of the existing members.\nNo member of the Section Committee shall be entitled to be nominated as the\nChairperson and the honorary director in section 48.\nThe rules and procedures of selection shall be as prescribed by the Committee\nby taking into account the transparency and fairness in the selection.\n\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019"
+   }
+  },
+  {
+   "id": "TH-H1107-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 50 In selecting the Chairperson and the honorary director in"
+   },
+   "text": {
+    "en": "Section 50 In selecting the Chairperson and the honorary director in\nsection 48, the selection committee shall select the persons who have qualifications in section\n48 paragraph one, including having the qualifications and no prohibited characteristics  under\nsection 48 paragraph three and agree to be nominated for the selection in the same number as\nthe number of Chairperson and the honorary director to be appointed in section 48.\nAfter the total number of Chairperson and the honorary director in section 48\nhave been selected, the selection committee shall submit the name of Chairperson and the\nhonorary director in section 48 together with the evidence of qualifications and no prohibited\ncharacteristics as well as the consent of such persons to the Committee for the appointment as\nthe Chairperson and the honorary director according to section 48.\nThe Committee shall publish names of the appointed Chairperson and the\nhonorary directors in section 48 in the Government Gazette."
+   }
+  },
+  {
+   "id": "TH-H1107-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 51 The Chairperson and the honorary director in section 48 shall"
+   },
+   "text": {
+    "en": "Section 51 The Chairperson and the honorary director in section 48 shall\nhold office for a term of four  years.\nUpon the expiration of the term of office in paragraph one, the appointment of\nthe new Chairperson and the new honorary director must be done within sixty  days. If the new\nChairperson or the new honorary director has not yet been appointed, the Chairperson or the\nhonorary director whose term of office has expired, shall be in office to continue to perform his or\nher duties until the new appointed Chairperson or the honorary director assumes his or her duties.\nThe Chairperson, or the honorary director , who vacates office upon the\nexpiration of the term, may be reappointed, but shall not seat in his or her office for more than\ntwo terms."
+   }
+  },
+  {
+   "id": "TH-H1107-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 52 In the case where the Chairperson or the honorary director in"
+   },
+   "text": {
+    "en": "Section 52 In the case where the Chairperson or the honorary director in\nsection 48 vacates office before the  expiration of the term, the commission supervising the\nOffice of Personal Data Protection Committee shall consist of all the existing members until\nthe new Chairperson or the new honorary director is appointed. In the case where the Chairperson\nvacates office before the expiration of the term, the Permanent Secretary of the Ministry of\nDigital Economy and Society shall temporarily perform the duties of the Chairperson.\nThe new Chairperson and honorary director shall be appointed to replace the\nvacant office within sixty days from the date of the vacant office and shall be in office for the\nremaining office term of the replaced person. If the remaining office term of the Chairperson\nand the honorary director is less than ninety days, the appointment of the new Chairperson or the\nnew honorary director may not have to be made."
+   }
+  },
+  {
+   "id": "TH-H1107-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 53 At a meeting of the commission supervising the Office of"
+   },
+   "text": {
+    "en": "Section 53 At a meeting of the commission supervising the Office of\nPersonal Data Protection Committee, the presence of not less than one-half of all the members\nis required to constitute a quorum.\nThe Chairperson shall preside over the meeting. If the Chairperson does not\nattend the meeting, or is unable to perform the duties, the attending members shall elect one\nmember among themselves to be the chairperson of the meeting.\nA decision of the meeting shall be made by a majority of votes. Each member\nshall have one vote. In case of equal votes, the chairperson of the meeting shall have an\nadditional vote as the decisive vote.\nAny member having an interest in the matter to be considered in the meeting\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\nshall be prohibited from attending such meeting.\nThe meeting of the commission supervising the Office of Personal Data\nProtection Committee may be undertaken by electronic means, as prescribed by the Committee."
+   }
+  },
+  {
+   "id": "TH-H1107-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 54 The Commission Supervising the Office of Personal Data"
+   },
+   "text": {
+    "en": "Section 54 The Commission Supervising the Office of Personal Data\nProtection Committee shall have the following powers and duties:\n(1) to prescribe administration policy and give approval to the Office’s\noperation plan;\n(2) to issue rules governing the organization, financial matters, human\nresources administration, general administrative works, internal audit, including welfares and\nsupport services of the Office;\n(3) to approve the annual operation plan, annual spending plan and annual\nbudget of the Office;\n(4) to control the administration and operation of the Office and the\nSecretary-General to be in accordance with this Act and other related laws;\n(5) to appoint a selection committee for the selection of the Secretary-General;\n(6) to determine any appeals against the administrative orders of the\nSecretary-General in the part of the Office’s administration;\n(7) to evaluate the result of the Office’s operation and the Secretary-\nGeneral’s work performance;\n(8) to perform any other duties prescribed by this Act or other related laws as\nthe duties and power of the Commission Supervising the Office of Personal Data Protection\nCommittee or as assigned by the Committee or the Cabinet.\nFor the rules in (2), if there is a restriction of the power of the Secretary-\nGeneral in entering into a juristic act with a third party, it must be published in the Government\nGazette."
+   }
+  },
+  {
+   "id": "TH-H1107-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 55 The commission supervising the Office of Personal Data"
+   },
+   "text": {
+    "en": "Section 55 The commission supervising the Office of Personal Data\nProtection Committee shall have the power to appoint a sub-committee to perform any duties\nor act as assigned by the commission supervising the Office of Personal Data Protection\nCommittee.\nThe commission supervising the Office of Personal Data Protection Committee\nmay appoint persons having skills or experience that will be useful for the duties performed by\nthe commission supervising the Office of Personal Data Protection Committee as its advisers.\nThe performance of duties and numbers of the sub-committee in paragraph one\nor persons in paragraph two shall be in accordance with those prescribed by the commission\nsupervising the Office of Personal Data Protection Committee.\nFor a meeting of the sub-committee, the substances of section 53 shall apply\nmutatis mutandis."
+   }
+  },
+  {
+   "id": "TH-H1107-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 56 The Chairperson and members of the commission supervising"
+   },
+   "text": {
+    "en": "Section 56 The Chairperson and members of the commission supervising\nthe Office of Personal Data Protection Committee, advisers of the commission supervising the\nOffice of Personal Data Protection Committee, Chairperson and members of the sub-\ncommittee appointed by the commission supervising the Office of Personal Data Protection\nCommittee shall receive a meeting allowance or other benefits according to the rules\nprescribed by the Committee with the approval of the Ministry of Finance.\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019"
+   }
+  },
+  {
+   "id": "TH-H1107-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 57 There shall be a Secretary-General who is appointed by the"
+   },
+   "text": {
+    "en": "Section 57 There shall be a Secretary-General who is appointed by the\ncommission supervising the Office of Personal Data Protection Committee and the Secretary-\nGeneral has the duty to administer the affairs of the Office.\nThe appointment of the Secretary-General in paragraph one shall be made in\naccordance with the rules and methods of recruitment, as prescribed by the commission\nsupervising the Office of Personal Data Protection Committee."
+   }
+  },
+  {
+   "id": "TH-H1107-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 58 A person to be appointed Secretary-General must have the"
+   },
+   "text": {
+    "en": "Section 58 A person to be appointed Secretary-General must have the\nqualifications as follows:\n(1) being of Thai nationality;\n(2) being not lower than thirty-five years old but not over sixty years old;\n(3) having knowledge, skills and experience in the areas related to the mission\nof the Office and administration;"
+   }
+  },
+  {
+   "id": "TH-H1107-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 59 Any person holding any of the following prohibiting"
+   },
+   "text": {
+    "en": "Section 59 Any person holding any of the following prohibiting\ncharacteristics shall not be Secretary-General:\n(1) being bankrupt or having been dishonestly bankrupt;\n(2) being an incompetent or quasi-incompetent person;\n(3) having been previously imprisoned by final court judgement, regardless of\nwhether there was actual punishment of imprisonment , except for an offences committed by\nnegligence or a misdemeanors;\n(4) being a civil official, staff, or employee of government agency, or state\nenterprise, or other governmental organization, or local official agency;\n(5) being or having been previously an official politician, a person holding\npolitical position , a member of the local assembly, or in a management position of local\nadministration, unless having been discharged from his or her office of not less than one year;\n(6) being or having been previously a director, or other political position in\na political party, or an officer of the political party, unless having been discharged from his or\nher office of not less than one year;\n(7) having been previously  dismissed, fired, or discharged from an official\nposition or any other previous organization on grounds of dishonest performance of duties or\nsevere wrongful conduct;\n(8) having been discharged on grounds of not passing the performance\nevaluation in accordance with section 62(4);\n(9) being a direct or indirect interested person in the Office's related business."
+   }
+  },
+  {
+   "id": "TH-H1107-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 60 The Secretary-General shall hold office for each term of four"
+   },
+   "text": {
+    "en": "Section 60 The Secretary-General shall hold office for each term of four\nyears and may be reappointed. However, the Secretary-General shall not hold office more than\ntwo terms.\nNot less than thirty days but not over sixty days before the end of the office\nterm of the Secretary-General or within sixty days from the date that the Secretary-General\nvacates office before the end of the office term, the commission supervising the Office of\nPersonal Data Protection Committee shall appoint a selection committee to select a new Secretary-\nGeneral. The selection committee shall nominate not more than three appropriate persons to\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\nthe commission supervising the Office of Personal Data Protection Committee."
+   }
+  },
+  {
+   "id": "TH-H1107-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 61 In each year, the performance of the Secretary-General shall be"
+   },
+   "text": {
+    "en": "Section 61 In each year, the performance of the Secretary-General shall be\nevaluated in accordance with the period and method prescribed by the commission supervising\nthe Office of Personal Data Protection Committee."
+   }
+  },
+  {
+   "id": "TH-H1107-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 62 In addition to vacating office upon the expiration of the term"
+   },
+   "text": {
+    "en": "Section 62 In addition to vacating office upon the expiration of the term\nin section 60, the Secretary-General shall vacate office upon:\n(1) death;\n(2) resignation;\n(3) being disqualified under section 58, or under any of the prohibited\ncharacteristics under section 59;\n(4) being dismissed by the commission supervising the Office of Personal Data\nProtection Committee due to failure to pass the performance evaluation, disgraceful behavior,\nnegligence or dishonesty in the performance of duties, or incapability."
+   }
+  },
+  {
+   "id": "TH-H1107-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 63 The Secretary-General shall have the following duties and"
+   },
+   "text": {
+    "en": "Section 63 The Secretary-General shall have the following duties and\npower:\n(1) to manage the works of the Office for the achievements according to\nthe Office’s missions and in accordance with the national policies and plans, strategic plans,\npolicy of the Cabinet, of the Committee and of the commission supervising the Office of\nPersonal Data Protection Committee and according to the rules, regulations or resolutions of\nthe commission supervising the Office of Personal Data Protection Committee;\n(2) to establish regulations with respect to the operations of the Office which\nare not contrary to or against the laws, the Cabinet resolutions and the regulations, rules,\nrequirements, policies, resolutions or notifications prescribed by the commission supervising\nthe Office of Personal Data Protection Committee;\n(3) to act as the supervisor of the staffs and employees of the Office and\nto evaluate the performance of the staffs and employees of the Office according to the Office’s\nrules or regulations;\n(4) to appoint the Deputy Secretary-General and the Assistant Secretary-\nGeneral by the approval of the commission supervising the Office of Personal Data Protection\nCommittee in order to act as the Secretary-General’s assistant as assigned by the Secretary-\nGeneral;\n(5) to recruit, appoint, promote, decrease or deduct the salary of, and to\ntake disciplinary action against the staffs and employees of the Office, as well as to dismiss\nthe staffs and employees of the Office according to the rules or regulations of the commission\nsupervising the Office of Personal Data Protection Committee;\n(6) to perform any act according to the regulations, rules, requirements,\npolicies, resolutions or notifications prescribed by the Commission Supervising the Office of\nPersonal Data Protection Committee.\nThe Secretary-General shall be responsible for the administration of the Office\nand shall directly report to the commission supervising the Office of Personal Data Protection\nCommittee."
+   }
+  },
+  {
+   "id": "TH-H1107-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 64 In the Office’s affairs related to the third party, the Secretary-"
+   },
+   "text": {
+    "en": "Section 64 In the Office’s affairs related to the third party, the Secretary-\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\nGeneral shall act as the Office’s representative. In this connection, the Secretary-General may\ngrant the power to any person to perform any specific work on his or her behalf according to the\nrules prescribed by the commission supervising the Office of Personal Data  Protection\nCommittee."
+   }
+  },
+  {
+   "id": "TH-H1107-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 65 The commission supervising the Office of Personal Data"
+   },
+   "text": {
+    "en": "Section 65 The commission supervising the Office of Personal Data\nProtection Committee shall be responsible for determining salary rate and other benefits of the\nSecretary-General according to the rules prescribed by the Cabinet."
+   }
+  },
+  {
+   "id": "TH-H1107-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Section 66 In the interests of administration of the Office, the Secretary-"
+   },
+   "text": {
+    "en": "Section 66 In the interests of administration of the Office, the Secretary-\nGeneral may request a civil official, staff, officer, or employee of a public sector, government\nagency, state enterprise, civil local administration, public organization or other government\nagencies to work as its temporary staff or employee, provided that the approval is obtained from\nhis or her supervisor or employer with an agreement made at the time of such approval. In the\nevent that a government official is approved to work as a temporary staff or employee, it shall\nbe deemed that such person is permitted to leave the original official service or employment to\nperform any work.\nUpon the end of the term approved to work for the Office, the government\nofficial in paragraph one shall be entitled to return and be appointed to be in office and to receive\nthe salary in the original official service or work unit not lower than the original level of position\nand salary according to the agreement made at the time of the approval.\nIn the event that such government official has returned and been appointed to\nwork in the original official service or work unit in paragraph two, the period that such\ngovernment official worked for the Office shall be counted as full time working in such original\nofficial service or work unit, as the case may be, for the purpose of calculating pension or other\nbenefits of the same nature."
+   }
+  },
+  {
+   "id": "TH-H1107-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Section 67 For the civil official or government official who is working in"
+   },
+   "text": {
+    "en": "Section 67 For the civil official or government official who is working in\ncompensation for the scholarship granted to him or her by a public sector, or government agency\nand is transferred to work at the Office by the approval of his or her supervisor of the original\npublic sector or government agency, it shall be deemed that working in the Office has\nreimbursed the compensation under the scholarship contract and the work period with the Office\nshall be counted as a time period of compensation for the scholarship.\nIn the event that any government agency makes a request that the Office’s\nofficer who is working in compensation for the scholarship granted to him or her by the Office\nto be a civil official or government official in such government agency, such request must be\napproved by the Secretary-General first and it shall be deemed that working in such government\nagency has reimbursed the compensation under the scholarship contract and the work period\nwith such government agency shall be counted as  the time period of compensation for the\nscholarship."
+   }
+  },
+  {
+   "id": "TH-H1107-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Section 68 Accounting of the Office shall be made in accordance with"
+   },
+   "text": {
+    "en": "Section 68 Accounting of the Office shall be made in accordance with\ninternational standards according to the forms and rules prescribed by the commission\nsupervising the Office of Personal Data Protection Committee."
+   }
+  },
+  {
+   "id": "TH-H1107-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Section 69 The Office shall prepare financial statements and accounting"
+   },
+   "text": {
+    "en": "Section 69 The Office shall prepare financial statements and accounting\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\nstatements and send them to the auditor within one hundred and twenty days from the date of the\nfiscal year-end.\nThe Government Audit Office or a certified public accountant approved by the\nGovernment Audit Office shall be the Office’s auditor and shall evaluate the Office’s\nexpenditures and property on an annual basis and report the auditing results to the commission\nsupervising the Office of Personal Data Protection Committee for certification."
+   }
+  },
+  {
+   "id": "TH-H1107-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Section 70 The Office shall prepare an annual operation report and submit"
+   },
+   "text": {
+    "en": "Section 70 The Office shall prepare an annual operation report and submit\nto the commission supervising the Office of Personal Data  Protection Committee and the\nMinister within one hundred and eighty  days from the date of the fiscal year -end and shall\ndisseminate this report to the public.\nThe annual operation report in paragraph one must display the details of the\nbalance sheet which has been given an opinion by the auditor, as well as the Office’s\nachievement and evaluation report of the Office’s performance in the preceding year.\nThe evaluation of the Office’s performance  under paragraph two  must be\nundertaken by a third party approved by the commission supervising the Office of Personal Data\nProtection Committee.\n\nChapter V\n\nComplaints\n\n------------------------------------"
+   }
+  },
+  {
+   "id": "TH-H1107-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "Section 71 The Committee shall appoint one or more expert committees"
+   },
+   "text": {
+    "en": "Section 71 The Committee shall appoint one or more expert committees\nbased upon their field of expertise, or as the Committee deems fit.\nThe qualifications and prohibitions, term of office, vacation from office, and\nother operations of the expert committee  shall be in accordance with  the Committee’s\nnotification."
+   }
+  },
+  {
+   "id": "TH-H1107-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "Section 72 The expert committee  shall have the following duties and"
+   },
+   "text": {
+    "en": "Section 72 The expert committee  shall have the following duties and\npower:\n(1) consider complaints under this Act;\n(2) investigate any act of the Data Controller or the Data Processor, including\nthe employees or the contractors of the Data Controller or the Data Processor in connection\nwith the Personal Data that causes damage to the data subject;\n(3) settle disputes in connection with Personal Data;\n(4) carry out any other acts which are stipulated as the expert committee’s duty\nand power under this Act or as assigned by the Committee."
+   }
+  },
+  {
+   "id": "TH-H1107-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "Section 73 The data subject has the right to file a complaint in the event"
+   },
+   "text": {
+    "en": "Section 73 The data subject has the right to file a complaint in the event\nthat the Data Controller or the Data Processor, including the employees or the service providers\nof the Data Controller or the  Data Processor violates or does not comply with  this Act, or\nnotifications issued in accordance with this Act.\nThe filing, refusal of acceptance, dismissal, consideration, and timeframe for the\nconsideration of the complaints shall be in accordance with the Committee’s rule by taking into\naccount the refusal of acceptance of the complaints or dismissal of the matter in the event that\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\nthere has been the authority to consider such matter under other laws."
+   }
+  },
+  {
+   "id": "TH-H1107-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "Section 74 In the event that a complainant does not comply with the rules"
+   },
+   "text": {
+    "en": "Section 74 In the event that a complainant does not comply with the rules\nprovided in section 73 paragraph two, or the complaint filed is prohibited from being accepted\nfor consideration under such rules, the expert committee shall not accept such complaint for\nconsideration.\nIf, after the expert committee ’s consideration of the complaint pursuant to\nsection 72 (1), or the investigation of any act pursuant to section 72 (2), it is found that such\ncomplaint or act has no ground , the expert committee shall issue an order to dismiss such\ncomplaint or investigation.\nIf, after the expert committee’s consideration or investigation under paragraph\ntwo, it is found that such complaint or act can be settled, and the concerned parties are willing to\nsettle the dispute, the expert committee shall proceed with the dispute settlement. However, if\nsuch complaint or act cannot be settled, or the dispute settlement fails, the expert committee shall\nhave the power to issue the following orders:\n(1) for the Data Controller or the Data Processor to perform, or rectify their act\nwithin the specified period of time;\n(2) to prohibit the Data Controller or the Data Processor from carrying out\nan act which causes damage to the data subject, or for the Data Controller to carry out any act\nto cease the damage within the specified period of time;\nIn the event that the  Data Controller or the Data Processor does not comply\nwith the orders provided under paragraph three (1) or (2), the provisions in connection with\nadministrative enforcement under the law on administrative procedure shall be applied mutatis\nmutandis. In the event that the properties of the Data Controller or the Data Processor are to be\nseized, attached, or sold by auction, as required by the law on administrative procedure, the\nexpert committee shall have the power to order such seizure, attachment, and sale by auction\nfor such purpose.\nThe issuance of the order under paragraph one, two, or three (1) or (2) shall\nbe in accordance with the criteria and methods under the Committee’s notification.\nThe orders of the expert committee shall be signed by the Chairperson of the\nexpert committee.\n  The order of the expert committee in this Section shall be final.\n In order to p roceed in accordance with this s ection, when the consideration\nresult is issued, the expert committee shall inform the complainant of such result together with\nthe reasons. In case that the complaint is not accepted for consideration or dismissed as such\ncomplaint has already been under consideration of an official authority  under other laws, the\nexpert committee shall inform the complainant of the same. If the complainant wishes to propose\nsuch matter to the official authority under other laws, the expert committee shall proceed to do\nso and shall be deemed that such official authority has received such complaint from the date\nwhen the expert committee has received such complaint."
+   }
+  },
+  {
+   "id": "TH-H1107-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "Section 75 The expert committee shall have the power to order any person"
+   },
+   "text": {
+    "en": "Section 75 The expert committee shall have the power to order any person\nto submit documents or information in connection with the subject matter of a complaint, or\nany other matter related to the protection of the Personal Data under this Act. The expert\ncommittee shall also have the power to request any person to make a statement of facts.\n\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019"
+   }
+  },
+  {
+   "id": "TH-H1107-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "Section 76 In order to act in accordance with this Act , the Competent"
+   },
+   "text": {
+    "en": "Section 76 In order to act in accordance with this Act , the Competent\nOfficer shall have the following duties and power:\n(1) request the Data Controller, the Data Processor, or any person in writing,\nto provide information or submit any documents or evidence in connection with the actions or\noffenses under this Act;\n(2) investigate and collect facts, and report to the expert committee in the\nevent that the Data Controller, the Data Processor, or any person, has committed an offense\nor caused damage due to their violation of or non-compliance with this Act or notifications\nissued in accordance with this Act.\nIn carrying out the duty in (2), if there is a necessity to protect the benefits\nof the data subject or for  public's interest, the Competent Officer shall file a compliant to the\ncompetent court to issue an order granting permission to the Competent Officer to enter the\npremises of the Data Controller, or any person involved in the offense under this Act, during\nthe interval between sunrise and sunset or during the business hours of such premises, to\ninvestigate and collect facts, seize, or attach documents, evidence, or any other items related to\nthe offense, or which has a cause to believe that they are used to commit such offense.\nIn order to appoint the Competent Officer, the Minister shall consider appointing\nsuch person from the civil officials or other government officials whose position is not lower than\na civil official at the operational level or equivalent, and having the qualifications in accordance\nwith the notification issued by the Committee.\nDuring the performance of his or her duties under this Section, the Competent\nOfficer shall present his or her identification card to the relevant persons and be provided with\nreasonable facilitation by the relevant persons.\nThe identification card of the Competent Officer shall be in accordance with the\nform required by the notification of the Committee.\n\nChapter VI\n\nCivil Liability\n\n---------------------------"
+   }
+  },
+  {
+   "id": "TH-H1107-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "Section 77 The Data Controller or the Data Processor, whose operation"
+   },
+   "text": {
+    "en": "Section 77 The Data Controller or the Data Processor, whose operation\nin relation to Personal Data violates or fails to comply with the provisions of this Act which\ncauses damages to the  data subject, shall compensate the data subject  for such damages,\nregardless of whether such operation is performed intentionally or negligently, except where\nthe Data Controller or the Data Processor can prove that such operation was a result of:\n(1) a force majeure, or the data subject’s own act or omission to act;\n(2) an action taken in compliance with an order of a government official\nexercising its duties and power under the law;\nThe compensation  under paragraph one includes all necessary  expenses\nincurred by the data subject for the prevention of the damages likely to occur, or which was\nspent to suppress the damages occurred."
+   }
+  },
+  {
+   "id": "TH-H1107-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "Section 78 The court shall have the power to order the Data Controller or"
+   },
+   "text": {
+    "en": "Section 78 The court shall have the power to order the Data Controller or\nthe Data Processor to pay punitive damages in addition to the actual compensation rendered\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\nby the court as deems fit, but shall not exceeding two times of such actual compensation\namount, by taking into account the relating circumstances such as the severity of damages\nincurred by the data subject, the interest obtained by the Data Controller or the Data Processor,\nthe financial status of the Data Controller or the Data Processor, remedy provided by the Data\nController or the Data Processor, or the data subject’s act in contributing to cause the damages.\nThe claim for compensation from the wrongful act against the Personal Data\nunder this Act shall be barred by prescription after the lapse of three years from the date that\nthe injured person know of the damages and the identity of the Data Controller or the Data\nProcessor who is to be liable, or after ten years from the date of which the wrongful act\nagainst the Personal Data took place.\n\nChapter VII\n\nPenalties\n\n---------------------------\n\nPart I\n\nCriminal Liability\n\n-----------------------------"
+   }
+  },
+  {
+   "id": "TH-H1107-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "Section 79 Any Data Controller who violates the provisions under section"
+   },
+   "text": {
+    "en": "Section 79 Any Data Controller who violates the provisions under section\n27 paragraph one or paragraph two, or fails to comply with section 28, which relates to the\nPersonal Data under section 26 in a manner that is likely to cause other person to suffer any\ndamage, impair his or her reputation, or expose such other person to be scorned, hated, or\nhumiliated, shall be punished with imprisonment for a term not exceeding six months, a fine\nnot exceeding Baht five hundred thousand, or both.\nAny Data Controller who violates the provisions under section 27 paragraph\none or paragraph two, or fails to comply with section 28, which relates to the Personal Data\nunder section 26 in order to unlawfully benefit himself or herself, or another person, shall\nbe punished with imprisonment for a term not exceeding one year, a fine not exceeding\nBaht one million, or both.\nThe offenses under this section are compoundable offenses."
+   }
+  },
+  {
+   "id": "TH-H1107-A81",
+   "no": 81,
+   "noLabel": {
+    "en": "Section 80 Any person who comes to know the Personal Data of another"
+   },
+   "text": {
+    "en": "Section 80 Any person who comes to know the Personal Data of another\nperson as a result of performing duties under this Act and discloses it to any other person shall\nbe punished with imprisonment for a term not exceeding six months, a fine not exceeding\nBaht five hundred thousand, or both.\nThe provisions of paragraph one shall not be enforced against disclosures in\nany of the following circumstances:\n(1) where it is a performance of duty;\n(2) where it is for the benefit of an investigation, or a trial in court;\n(3) where it is a disclosure to a domestic or a foreign government agency\nwhich has authority under the law;\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\n(4) where the written consent of such data subject has been obtained for the\ndisclosure for such specific occasion;\n(5) where it is in relation to a legal lawsuit, which is openly disclosed to\nthe public."
+   }
+  },
+  {
+   "id": "TH-H1107-A82",
+   "no": 82,
+   "noLabel": {
+    "en": "Section 81 In the case where the offender who commits the offense"
+   },
+   "text": {
+    "en": "Section 81 In the case where the offender who commits the offense\nunder this Act is a juristic person and the offense is conducted as a result of the instructions\ngiven by or the act of any director, manager or person, who shall be responsible for such act\nof the juristic person, or in the case where such person has a duty to instruct or perform any\nact, but omits to instruct or perform such act until the juristic person commits such offense,\nsuch person shall also be punished with the punishment as prescribed for such offense.\n\nPart II\n\nAdministrative Liability\n\n-----------------------------"
+   }
+  },
+  {
+   "id": "TH-H1107-A83",
+   "no": 83,
+   "noLabel": {
+    "en": "Section 82 Any Data Controller who fails to comply with section 23,"
+   },
+   "text": {
+    "en": "Section 82 Any Data Controller who fails to comply with section 23,\nsection 30 paragraph four, section 39 paragraph one , section 41 paragraph one, or section 42\nparagraph two or paragraph three, or fails to obtain consent using a form or statement set forth\nby the Committee under section 19 paragraph three, or fails to notify the impact of the withdrawal\nof consent under section 19 paragraph six, or fails to comply with section 23 which applies mutatis\nmutandis according to section 25 paragraph two, shall be punished with an administrative\nfine not exceeding Baht one million."
+   }
+  },
+  {
+   "id": "TH-H1107-A84",
+   "no": 84,
+   "noLabel": {
+    "en": "Section 83 Any Data Controller who violates or fails to comply with"
+   },
+   "text": {
+    "en": "Section 83 Any Data Controller who violates or fails to comply with\nsection 21, section 22, section 24, section 25 paragraph one, section 27 paragraph one or two,"
+   }
+  },
+  {
+   "id": "TH-H1107-A85",
+   "no": 85,
+   "noLabel": {
+    "en": "section 28, section 32 paragraph two, or section 37, or who obtains consent by deceiving"
+   },
+   "text": {
+    "en": "section 28, section 32 paragraph two, or section 37, or who obtains consent by deceiving\nor misleading the data subject about the purposes, or fails to comply with section 21 which\napplies mutatis mutandis according to section 25 paragraph two, or fails to send or transfer\nthe Personal Data in accordance with section 29 paragraph one or paragraph three, shall be\npunished with an administrative fine not exceeding Baht three million."
+   }
+  },
+  {
+   "id": "TH-H1107-A86",
+   "no": 86,
+   "noLabel": {
+    "en": "Section 84 Any Data Controller who violates section 26 paragraph one or"
+   },
+   "text": {
+    "en": "Section 84 Any Data Controller who violates section 26 paragraph one or\nthree, or section 27 paragraph one or paragraph two, or section 28 in relation to the Personal\nData under section 26, or fails to send or transfer the Personal Data under section 26 to be in\naccordance with section 29 paragraph one or paragraph three,  shall be punished with an\nadministrative fine not exceeding Baht five million."
+   }
+  },
+  {
+   "id": "TH-H1107-A87",
+   "no": 87,
+   "noLabel": {
+    "en": "Section 85 Any Data Processor who fails to comply with section 41"
+   },
+   "text": {
+    "en": "Section 85 Any Data Processor who fails to comply with section 41\nparagraph one, or section 42 paragraph two or three, shall be punished with an administrative\nfine not exceeding Baht one million."
+   }
+  },
+  {
+   "id": "TH-H1107-A88",
+   "no": 88,
+   "noLabel": {
+    "en": "Section 86 Any Data Processor who fails to comply with section 40 without"
+   },
+   "text": {
+    "en": "Section 86 Any Data Processor who fails to comply with section 40 without\nappropriate reasons, or fails to send or transfer the Personal Data in accordance with section 29\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\nparagraph one or three, or fails to comply with section 37 (5) which applies mutatis mutandis\naccording to section 38 paragraph two, shall be punished with an administrative fine not\nexceeding Baht three million."
+   }
+  },
+  {
+   "id": "TH-H1107-A89",
+   "no": 89,
+   "noLabel": {
+    "en": "Section 87 Any Data Processor who send or transfer the Personal Data"
+   },
+   "text": {
+    "en": "Section 87 Any Data Processor who send or transfer the Personal Data\nunder section 26 paragraph one or three, by not complying with section 29 paragraph one or\nthree, shall be punished with an administrative fine not exceeding Baht five million."
+   }
+  },
+  {
+   "id": "TH-H1107-A90",
+   "no": 90,
+   "noLabel": {
+    "en": "Section 88 Any representative of the Data Controller or of the Data"
+   },
+   "text": {
+    "en": "Section 88 Any representative of the Data Controller or of the Data\nProcessor who fails to comply with section 39 paragraph one which applies mutatis mutandis\naccording to section 39 paragraph two, and section 41 paragraph one which applies mutatis\nmutandis according to section 41 paragraph four, shall be punished with an administrative\nfine not exceeding Baht one million."
+   }
+  },
+  {
+   "id": "TH-H1107-A91",
+   "no": 91,
+   "noLabel": {
+    "en": "Section 89 Any person who fails to act in compliance with the order given"
+   },
+   "text": {
+    "en": "Section 89 Any person who fails to act in compliance with the order given\nby the expert committee, or fails to provide statement of facts under section 75, or fails to comply\nwith section 76(1), or fails to facilitate government officials under section 76 paragraph four,\nshall be punished with an administrative fine not exceeding Baht five hundred thousand."
+   }
+  },
+  {
+   "id": "TH-H1107-A92",
+   "no": 92,
+   "noLabel": {
+    "en": "Section 90 The expert committee shall have the power to render the"
+   },
+   "text": {
+    "en": "Section 90 The expert committee shall have the power to render the\npunishment as an administrative fine prescribed in this Part. In the event that it deems fit,\nthe expert committee may issue an order for rectification or a warning first.\nIn determining whether to issue an order to impose an administrative fine, the\nexpert committee shall take into consideration the severity of the circumstances of the act of\noffense, size of the business of the Data Controller or the Data Processor, or other\ncircumstances according to the rules prescribed by the Committee.\nIn cases where a person imposed with an administrative fine refuses to pay\nsuch fine, the provisions concerning the execution of administrative orders under the\nadministrative procedure law shall apply mutatis mutandis. In cases where there is no officer to\nexecute an administrative order, or there is such officer but such order cannot be executed\notherwise, the expert committee shall be entitled to file a lawsuit with the Administrative\nCourt in order to demand payment of such fine. In such event, if the Administrative Court is\nof the opinion that the order that imposes an administrative fine is lawful, the Administrative\nCourt may render judgment and order seizure or attachment of assets for sale by auctions, to\npay such fine.\nThe order to impose the administrative fine and the administrative execution\nshall apply mutatis mutandis according to section 74 paragraph six, and the administrative\nexecution per paragraph three shall apply mutatis mutandis according to section 74 paragraph\nfour.\n\nTransitional Provisions\n\n----------------"
+   }
+  },
+  {
+   "id": "TH-H1107-A93",
+   "no": 93,
+   "noLabel": {
+    "en": "Section 91 At the early stage, the Committee shall consist of committee"
+   },
+   "text": {
+    "en": "Section 91 At the early stage, the Committee shall consist of committee\nmembers under section 8 (2) and (3), and the Secretary -General shall be the committee\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\nmember and secretary , who shall perform duties as necessary for the time being, but for not\nmore than ninety  days from the effective date of this Act. A Vice-Chairperson shall\ntemporarily act as a Chairperson.\nThe Office shall manage to appoint a Chairperson under section 8 (1), and\nthe honorary director under section 8 (4), within ninety  days from the effective date of this Act."
+   }
+  },
+  {
+   "id": "TH-H1107-A94",
+   "no": 94,
+   "noLabel": {
+    "en": "Section 92 A commission supervising the Office of the Personal Data"
+   },
+   "text": {
+    "en": "Section 92 A commission supervising the Office of the Personal Data\nProtection Committee shall be set up within ninety days from the date when the Chairperson and\nthe honorary director are appointed in accordance with section 91.\nThe Secretary-General shall be appointed within ninety days from the date when\nthe Office has been set up in accordance with section 93."
+   }
+  },
+  {
+   "id": "TH-H1107-A95",
+   "no": 95,
+   "noLabel": {
+    "en": "Section 93 The Office shall be set up in order to operate in accordance with"
+   },
+   "text": {
+    "en": "Section 93 The Office shall be set up in order to operate in accordance with\nthis Act within one year from the effective date of this Act.\nDuring the period when the Office has not yet been duly set up, the Office of the\nPermanent Secretary of the Ministry of Digital Economy and Society shall perform the duties in\naccordance with this Act, and the Minister shall appoint a Deputy Permanent  Secretary of the\nMinistry of Digital Economy and Society to perform the Secretary-General's duties until there is\nan appointment of the Secretary-General in accordance with section 92 paragraph two."
+   }
+  },
+  {
+   "id": "TH-H1107-A96",
+   "no": 96,
+   "noLabel": {
+    "en": "Section 94 At the early stages, the Cabinet shall allocate the initial budget"
+   },
+   "text": {
+    "en": "Section 94 At the early stages, the Cabinet shall allocate the initial budget\nfor the Office as necessary.\nThe Ministry shall propose to the Cabinet to consider procuring a civil official,\nofficial, staff, or any other operating officer in other government organizations to temporarily act\nas an official of the Office within the period specified by the Cabinet.\nIt shall be deemed that t he civil official, official, staff, or any other operating\nofficer in other government organizations who temporarily act as an official of the Office in\naccordance with paragraph t wo remains in his or her own position, and still receive salary or\nwages, as the case may be , from his or her original department. The Committee may also\ndetermine a special remuneration for the civil official, staff, official, or any other operating officer\nin other government organizations in accordance with paragraph two during his or her operation\nin the Office.\nWithin one hundred and eighty days from the date on which the Office has been\nset up, the Office shall proceed to recruit the civil official, official, staff, or any other operating\nofficer in other government organizations in accordance with paragraph two to be a permanent\nofficial of the Office afterwards.\nAny civil official, official, staff, or any other operating officer in other\ngovernment organizations who has been recruited and seated in accordance with paragraph four\nshall have his or her working period for his or her previous department continued and counted\ntogether with his or her working period for the operation in the Office under this Act."
+   }
+  },
+  {
+   "id": "TH-H1107-A97",
+   "no": 97,
+   "noLabel": {
+    "en": "Section 95 For Personal Data that has previously been collected by a Data"
+   },
+   "text": {
+    "en": "Section 95 For Personal Data that has previously been collected by a Data\nController before the effective date o f  this Act, the Data Controller shall be entitled to\ncontinue to collect and use such Personal Data for the original purposes. However, the Data\nController shall prepare and publicize a consent withdrawal method to facilitate the data\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\nsubject, who do es not wish the Data Controller to continue collecting and us ing his or her\nPersonal Data, to notify his or her withdrawal of consent easily.\nThe disclosure and other acts other than the collection and use of Personal Data\nunder paragraph one, shall be in accordance with the provisions hereunder."
+   }
+  },
+  {
+   "id": "TH-H1107-A98",
+   "no": 98,
+   "noLabel": {
+    "en": "Section 96 The issuance of the regulations and notifications in"
+   },
+   "text": {
+    "en": "Section 96 The issuance of the regulations and notifications in\naccordance with this Act shall be completed within one year from the date this Act enters into\nforce. If such cannot be carried out, the Minister shall report to the Cabinet the reasons thereof.\n\nCountersigned by\nGeneral Prayut Chan-o-cha\nPrime Minister\n\n (Unofficial Translation)\n\nNo. 136 Chapter 69 Gor Government Gazette 27 May 2019\n\nRemarks :- The reason for the enactment of this Act is that there are and have been many cases\nof violations of the right to the privacy protection of personal data resulting in the nuisance to\nor damages to  data subjects. In addition, technological developments have increased the ease,\nconvenience, and swiftness of the collection, use, and disclosure of personal data that are done\nin a manner constituting such violations, which also causes the damage to the economy overall.\nTherefore, it is appropriate to have a law governing personal data protection in general in order\nto prescribe rules, mechanisms, or measures regulating personal data protection as a matter of\ngeneral principles, and thus the Act is necessary to be enacted."
+   }
+  }
+ ]
+}

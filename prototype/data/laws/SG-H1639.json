@@ -1,0 +1,120 @@
+{
+ "id": "SG-H1639",
+ "title": {
+  "zh": null,
+  "en": "Government Contracts Act 1966",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p21",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act GCA1966",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 1923,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/GCA1966?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 6 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1639-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Government Contracts Act 1966."
+   }
+  },
+  {
+   "id": "SG-H1639-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Contracts on behalf of Government"
+   },
+   "text": {
+    "en": "2.—(1) All contracts made in Singapore for or on behalf of the Government shall, if reduced to writing, be made in the name of the Government and may be signed by a Minister or by any public officer duly authorised in writing by the Minister for Finance, either specially in any particular case, or generally for all contracts below a certain value in his Ministry or department.\n(2) In making an authorisation under subsection (1), it shall be sufficient for the Minister for Finance to name the office held by such public officer and the Minister may cause the authorisation to be published in the Gazette.\n(3) For the purposes of this section, an individual who is an employee of a statutory body under a secondment arrangement making available temporarily to the Government the service of the individual is deemed to be a public officer during that secondment.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H1639-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Contracts made outside Singapore"
+   },
+   "text": {
+    "en": "3. All contracts made outside Singapore for or on behalf of the Government by a person either generally or specially authorised in writing in that behalf by the Minister for Finance shall, so far as they come within the jurisdiction of the courts in Singapore, be deemed to be Government contracts."
+   }
+  },
+  {
+   "id": "SG-H1639-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "No other contracts to be binding"
+   },
+   "text": {
+    "en": "4. No contracts, made after 15 March 1967, shall be binding upon the Government, unless entered into in accordance with this Act and the Constitution.\n[11/91]"
+   }
+  },
+  {
+   "id": "SG-H1639-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Limitation of personal liability of public officer"
+   },
+   "text": {
+    "en": "5. No public officer shall be liable to be sued personally upon any contract which he makes in that capacity; but a public officer shall be personally liable when he expressly pledges his personal credit or where he contracts otherwise than as the agent of the Government."
+   }
+  },
+  {
+   "id": "SG-H1639-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Provision in respect of land"
+   },
+   "text": {
+    "en": "6.—(1) Grants and leases of State lands and leases made under the Foreshores Act 1920 shall be signed by a Collector of Land Revenue.\n(2) Nothing in this Act shall be deemed to affect the provisions of any written law in Singapore as to the use or occupation of State land."
+   }
+  }
+ ]
+}

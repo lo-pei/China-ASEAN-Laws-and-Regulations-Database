@@ -1,0 +1,644 @@
+{
+ "id": "SG-H907",
+ "title": {
+  "zh": null,
+  "en": "Credit Bureau (Appeals) Regulations 2025",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p12",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CBA2016-S316-2025",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 38,
+ "chars": 51037,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CBA2016-S316-2025?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 38 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H907-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 GENERAL"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Credit Bureau (Appeals) Regulations 2025 and come into operation on 21 May 2025."
+   }
+  },
+  {
+   "id": "SG-H907-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 GENERAL"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“appeal” means an appeal under section 12, 32(1), (2) or (3) or 47(1), (2) or (3) of the Act;\n“Appeal Advisory Committee” means an Appeal Advisory Committee constituted under section 67(2)(a) of the Act;\n“Appeal Advisory Panel” means the Appeal Advisory Panel appointed under section 68(1) of the Act;\n“appeal proceedings” means proceedings before an Appeal Advisory Committee regarding an appeal contained in a notice of appeal;\n“Appeals Secretary” means an Appeals Secretary appointed under regulation 3(1);\n“appellant” means any person who wishes to appeal to the Minister under section 12, 32(1), (2) or (3) or 47(1), (2) or (3) of the Act;\n“decision of the Authority” means a decision, direction or other act of the Authority mentioned in section 12, 32(1), (2) or (3) or 47(1), (2) or (3) of the Act;\n“legal representative”, in relation to a party to any appeal, means any advocate and solicitor named in the register of practitioners and having in force a practising certificate issued under the Legal Profession Act 1966, retained by the party to represent the party in the appeal;\n“notice of appeal” means a notice of appeal mentioned in regulation 10;\n“party” means the appellant or the Authority;\n“virtual meeting technology” means any technology that allows a person to participate in a meeting without being physically present at the place of meeting."
+   }
+  },
+  {
+   "id": "SG-H907-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 GENERAL"
+   },
+   "heading": {
+    "en": "Appeals Secretary"
+   },
+   "text": {
+    "en": "3.—(1) The Minister may appoint one or more officers or employees of the Authority, either by name or by office, to perform the functions of an Appeals Secretary for the purposes of these Regulations.\n(2) The Appeals Secretary must provide administrative and secretarial support to the Minister, the Appeal Advisory Panel or any Appeal Advisory Committee in the performance of the Minister’s, the Panel’s or the Committee’s functions, as the case may be.\n(3) Without limiting paragraph (2), the Appeals Secretary must —\n(a)act as the channel of communication between a party and the Minister, the Appeal Advisory Panel or the Appeal Advisory Committee;\n(b)transmit information or documents in accordance with these Regulations;\n(c)upon receipt of any information or document sent in accordance with regulation 4(1), transmit the information or document as soon as practicable to the Minister (or the Minister’s legal representative) or the Appeal Advisory Committee, as the case may be; and\n(d)assist the Appeal Advisory Committee to fix the date, time and place of any meeting, case management conference or oral hearing of the Committee.\n(4) The Appeals Secretary may attend any meeting, case management conference or oral hearing of any Appeal Advisory Committee."
+   }
+  },
+  {
+   "id": "SG-H907-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 GENERAL"
+   },
+   "heading": {
+    "en": "Submission of information or documents"
+   },
+   "text": {
+    "en": "4.—(1) Any information or document to be filed with, sent to or served on the Minister, the Appeal Advisory Committee or the Appeals Secretary in connection with an appeal must be addressed to the “Appeals Secretary” and sent to the email address AAP_Secretariat@mas.gov.sg.\n(2) Subject to paragraph (3), a party must forward a copy of any information or document filed with, sent to or served on the Minister, the Appeal Advisory Committee or the Appeals Secretary, to the other party as soon as practicable.\n(3) Paragraph (2) does not apply to a notice of appeal and any information, document or part of a document, in respect of which the Authority has requested confidential treatment under regulation 22."
+   }
+  },
+  {
+   "id": "SG-H907-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 1 GENERAL"
+   },
+   "heading": {
+    "en": "Representation"
+   },
+   "text": {
+    "en": "5. In any appeal proceedings —\n(a)an appellant may be represented by —\n(i)one or more persons authorised by the appellant to represent the appellant in the appeal (each called in these Regulations an authorised representative); or\n(ii)one or more legal representatives; and\n(b)the Authority may be represented by —\n(i)one or more officers authorised by the Authority to represent the Authority in the appeal (each called in these Regulations an authorised officer); or\n(ii)one or more legal representatives."
+   }
+  },
+  {
+   "id": "SG-H907-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 APPEAL ADVISORY COMMITTEE"
+   },
+   "heading": {
+    "en": "Members of Appeal Advisory Committee"
+   },
+   "text": {
+    "en": "6.—(1) Every Appeal Advisory Committee must consist of —\n(a)a chairperson; and\n(b)2 or more other members,\nas the Minister may appoint from the members of the Appeal Advisory Panel.\n(2) The Minister may appoint an alternate chairperson from among the appointed members and, in the absence of the chairperson, the alternate chairperson has all the powers conferred on the chairperson by these Regulations.\n(3) A member of an Appeal Advisory Committee must declare to the Minister the nature and extent of all conflicts of interest or potential conflicts of interest (if any) with the member’s duties or interests as a member of that Committee, including those arising from —\n(a)the member’s holding of any office;\n(b)the member’s interest in any contract;\n(c)the member’s possession or ownership of any property; or\n(d)any direct or indirect relationship to the appellant.\n(4) Where the Minister is satisfied that the chairperson, the alternate chairperson or any other member of an Appeal Advisory Committee is unable to carry out that person’s duties properly and effectively because of any conflict of interest or potential conflict of interest mentioned in paragraph (3), the Minister may appoint another chairperson or alternate chairperson or replace that other member, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H907-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 APPEAL ADVISORY COMMITTEE"
+   },
+   "heading": {
+    "en": "Quorum"
+   },
+   "text": {
+    "en": "7. The quorum of any meeting, case management conference (other than a case management conference held in an asynchronous manner by exchange of written correspondence with the parties) or oral hearing of an Appeal Advisory Committee is 2 persons, of whom one must be the chairperson or alternate chairperson, and no business is to be transacted unless such a quorum is present."
+   }
+  },
+  {
+   "id": "SG-H907-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 APPEAL ADVISORY COMMITTEE"
+   },
+   "heading": {
+    "en": "Determination of Appeal Advisory Committee"
+   },
+   "text": {
+    "en": "8. Every decision of an Appeal Advisory Committee (whether made at a meeting of the Committee, by a circulation of papers among the members of the Committee, or by any other means) must be decided by a majority of votes and, in the case of an equality of votes, the chairperson is entitled to a casting vote."
+   }
+  },
+  {
+   "id": "SG-H907-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 APPEAL ADVISORY COMMITTEE"
+   },
+   "heading": {
+    "en": "Meetings and hearings, etc., not open to public"
+   },
+   "text": {
+    "en": "9. Every meeting, case management conference and oral hearing of an Appeal Advisory Committee must be held in private."
+   }
+  },
+  {
+   "id": "SG-H907-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 MAKING APPEAL AND DOCUMENTS OF APPEAL"
+   },
+   "heading": {
+    "en": "Making appeal: notice of appeal"
+   },
+   "text": {
+    "en": "10.—(1) An appeal to the Minister is made by filing with the Appeals Secretary, within the time stipulated in section 12, 32(1), (2) or (3) or 47(1), (2) or (3) of the Act (as the case may be), a notice of appeal in Form 1 of the Schedule.\n(2) The Appeals Secretary must, as soon as practicable upon receipt of the notice of appeal, forward a copy of the notice of appeal to the Minister and send a copy of the notice of appeal to the Authority.\n(3) Where the Minister refers an appeal to an Appeal Advisory Committee, the Appeals Secretary must —\n(a)notify the Authority and the appellant that the appeal has been referred by the Minister to the Committee; and\n(b)forward a copy of the notice of appeal to the Committee."
+   }
+  },
+  {
+   "id": "SG-H907-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 MAKING APPEAL AND DOCUMENTS OF APPEAL"
+   },
+   "heading": {
+    "en": "Contents of notice of appeal"
+   },
+   "text": {
+    "en": "11. A notice of appeal —\n(a)must state —\n(i)the name and address of the appellant;\n(ii)the name and address of each authorised representative of the appellant or each legal representative of the appellant, if any; and\n(iii)an address in Singapore, and an email address (if any), for the service of documents;\n(b)must contain —\n(i)a brief description of the decision of the Authority appealed against; and\n(ii)a brief description of the grounds for appealing against the decision of the Authority and as to whether the appeal is against the whole, or only a part, of the decision of the Authority; and\n(c)must be signed and dated by —\n(i)the appellant;\n(ii)any authorised representative of the appellant, on the appellant’s behalf, if the details provided in paragraph (a)(ii) relate to one or more authorised representatives of the appellant; or\n(iii)any legal representative of the appellant, on the appellant’s behalf, if the details provided in paragraph (a)(ii) relate to one or more legal representatives of the appellant."
+   }
+  },
+  {
+   "id": "SG-H907-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 MAKING APPEAL AND DOCUMENTS OF APPEAL"
+   },
+   "heading": {
+    "en": "Authority’s reasons"
+   },
+   "text": {
+    "en": "12.—(1) The Authority must, within 28 days after the date on which it receives a copy of a notice of appeal from the Appeals Secretary under regulation 10(2) —\n(a)file with the Appeals Secretary the Authority’s reasons; and\n(b)cause a copy of the Authority’s reasons to be served on the appellant.\n(2) The Appeals Secretary must, as soon as practicable upon receipt of the Authority’s reasons, forward the Authority’s reasons to the Appeal Advisory Committee.\n(3) The following persons may, upon an application of the Authority made within the time specified in paragraph (1), extend the time specified in that paragraph for the filing of the Authority’s reasons:\n(a)where the Appeal Advisory Committee has been constituted at the time of the application — the Committee;\n(b)in all other cases — the Minister."
+   }
+  },
+  {
+   "id": "SG-H907-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 MAKING APPEAL AND DOCUMENTS OF APPEAL"
+   },
+   "heading": {
+    "en": "Contents of Authority’s reasons"
+   },
+   "text": {
+    "en": "13.—(1) The Authority’s reasons —\n(a)must state —\n(i)the name and address of the Authority;\n(ii)the name and email address of each authorised officer of the Authority or each legal representative of the Authority, if any; and\n(iii)an email address for the service of documents;\n(b)subject to paragraph (2), must contain —\n(i)a concise statement of the facts;\n(ii)a summary of the grounds for the decision of the Authority;\n(iii)the arguments of fact or law upon which the Authority will rely; and\n(iv)the outcome sought by the Authority;\n(c)must be signed and dated by —\n(i)any authorised officer of the Authority, on the Authority’s behalf, if the details provided in sub‑paragraph (a)(ii) relate to one or more authorised officers of the Authority; or\n(ii)any legal representative of the Authority, on the Authority’s behalf, if the details provided in sub‑paragraph (a)(ii) relate to one or more legal representatives of the Authority; and\n(d)subject to paragraph (2), must include a copy of all the documents supporting those arguments of fact or law and any other document mentioned in the matters stated in sub‑paragraph (b).\n(2) Where the Authority has made a request for confidential treatment of a document, part of a document, or information under regulation 22 and the Minister does not make a decision in respect of the Authority’s request before the expiry of the period within which the Authority must file the Authority’s reasons under these Regulations —\n(a)the Authority may, in the Authority’s reasons, omit the document, part of the document, or information for which confidential treatment has been requested; but\n(b)where the Authority considers it possible to summarise or redact the material in the document, part of the document or information, the Authority must —\n(i)in the Authority’s reasons, provide the non‑confidential version of the document, part of the document or information mentioned in regulation 22(3)(a); and\n(ii)notify the Appeal Advisory Committee and the appellant that material in the document, part of the document or information has been summarised or redacted."
+   }
+  },
+  {
+   "id": "SG-H907-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 MAKING APPEAL AND DOCUMENTS OF APPEAL"
+   },
+   "heading": {
+    "en": "Response"
+   },
+   "text": {
+    "en": "14.—(1) The appellant must, within 28 days after the date on which the Authority serves the Authority’s reasons on the appellant under these Regulations —\n(a)file with the Appeals Secretary a response; and\n(b)cause a copy of the response to be served on the Authority.\n(2) The Appeals Secretary must, as soon as practicable upon receipt of the appellant’s response, forward the appellant’s response to the Appeal Advisory Committee.\n(3) The Appeal Advisory Committee may, upon an application of the appellant made within the time specified in paragraph (1), extend the time specified in that paragraph for the filing of a response."
+   }
+  },
+  {
+   "id": "SG-H907-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 MAKING APPEAL AND DOCUMENTS OF APPEAL"
+   },
+   "heading": {
+    "en": "Contents of response"
+   },
+   "text": {
+    "en": "15. A response —\n(a)must contain —\n(i)a concise statement of the facts in the appeal;\n(ii)a summary of the grounds for appealing against the decision of the Authority;\n(iii)the arguments of fact or law supporting each ground of appeal; and\n(iv)the outcome sought by the appellant;\n(b)must be signed and dated by —\n(i)the appellant;\n(ii)any authorised representative of the appellant, on the appellant’s behalf; or\n(iii)any legal representative of the appellant, on the appellant’s behalf; and\n(c)must include a copy of all the documents supporting those arguments of fact or law and any other document mentioned in the matters stated in paragraph (a)."
+   }
+  },
+  {
+   "id": "SG-H907-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 4 CASE MANAGEMENT"
+   },
+   "heading": {
+    "en": "Consolidation"
+   },
+   "text": {
+    "en": "16.—(1) Where 2 or more appeal proceedings are pending in relation to the same decision of the Authority, or involve the same or similar facts or issues, an Appeal Advisory Committee for any of those appeal proceedings (called in this regulation the specified appeal proceedings) may at any time, on the application of a party to the specified appeal proceedings or on its own initiative, order that the proceedings or any particular issue raised in the proceedings be consolidated or heard together.\n(2) Before making an order under paragraph (1), the Appeal Advisory Committee for the specified appeal proceedings must —\n(a)invite all the parties to the specified appeal proceedings and all of the other proceedings to make their submissions and, if the Committee deems necessary, invite all the parties to appear before and be heard by the Committee in relation to the consolidation; and\n(b)ensure that all the submissions of all the parties mentioned in sub‑paragraph (a) are provided to the Appeal Advisory Committee of every one of the other proceedings.\n(3) The Appeal Advisory Committee for the specified appeal proceedings must not make an order under paragraph (1) unless every Appeal Advisory Committee of each of the other proceedings agrees to the making of the order.\n(4) If the Appeal Advisory Committees for all the appeal proceedings are unable to reach a unanimous decision, the matter must be referred to the Minister for decision.\n(5) Where an order under paragraph (1) or a decision under paragraph (4) is made for any appeal proceedings or issues to be consolidated or heard together —\n(a)the Appeal Advisory Committee for the specified appeal proceedings has conduct of the consolidated appeal proceedings, or the appeal proceedings in which the issues are to be heard, as the case may be (each called in this paragraph the combined proceedings);\n(b)the Appeal Advisory Committee for the specified appeal proceedings may give any directions under regulation 18 for the proper administration of the combined proceedings;\n(c)subject to any direction mentioned in sub‑paragraph (b), the time limit specified in these Regulations for the doing of anything by a party for the purposes of any of the appeal proceedings that have been consolidated continues to apply to the doing of that thing by that party for the purposes of the combined proceedings;\n(d)where any appeal proceedings are consolidated with the specified appeal proceedings, the Appeal Advisory Committee for the appeal proceedings that are consolidated with the specified appeal proceedings dissolves on the date of the order or decision; and\n(e)where any issues originally raised in any one or more appeal proceedings are to be heard together by the Appeal Advisory Committee for the specified appeal proceedings —\n(i)the Appeal Advisory Committee for the specified appeal proceedings must —\n(A)inform the Appeal Advisory Committee of every one of the other proceedings of its recommendations on the issues that are heard together; and\n(B)in its report to the Minister under regulation 31 for the specified appeal proceedings, state its recommendations on the issues that are heard together and on any other issues in the specified appeal proceedings; and\n(ii)the Appeal Advisory Committee for each of the other proceedings —\n(A)is bound by the recommendations made by the Appeal Advisory Committee for the specified appeal proceedings on the issues that are heard together and must not consider or make any recommendations on those issues;\n(B)may proceed with the other proceedings either concurrently with or after the combined proceedings; and\n(C)must, in its report to the Minister under regulation 31 for the other proceedings —\n(CA)state the recommendations of the Appeal Advisory Committee for the specified appeal proceedings on the issues that are heard together; and\n(CB)state its recommendations on the other issues in the other proceedings, after considering, where relevant, the recommendations of the Appeal Advisory Committee for the specified appeal proceedings on the issues that are heard together."
+   }
+  },
+  {
+   "id": "SG-H907-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 CASE MANAGEMENT"
+   },
+   "heading": {
+    "en": "Conduct and timetable of proceedings"
+   },
+   "text": {
+    "en": "17. The Appeal Advisory Committee must, as soon as practicable after the appellant has filed its response under these Regulations, determine and notify the parties in writing of all of the following:\n(a)the manner in which the appeal proceedings are to be conducted, including —\n(i)whether the Committee will conduct an oral hearing of the appeal or will make recommendations based on written or documentary evidence provided or produced without holding any oral hearing of the appeal; and\n(ii)where an oral hearing of the appeal will be held, whether the oral hearing is to be heard —\n(A)at a physical place;\n(B)at a physical place and using virtual meeting technology; or\n(C)using virtual meeting technology only;\n(b)where an oral hearing of the appeal is to be held, the date, time and place (if applicable) for the oral hearing;\n(c)a timetable outlining —\n(i)where an oral hearing of the appeal will be held, the steps to be taken by the parties in preparation for the oral hearing and the time limit to be observed by the parties for the taking of each step; and\n(ii)where an oral hearing of the appeal will not be held, the steps to be taken by the parties before the Committee makes recommendations based on the written or documentary evidence provided or produced, and the time limit to be observed by the parties for the taking of each step;\n(d)where an oral hearing of the appeal will be held, the procedure and time limits to be observed during the oral hearing, including the order in which the parties are to present their respective cases."
+   }
+  },
+  {
+   "id": "SG-H907-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 CASE MANAGEMENT"
+   },
+   "heading": {
+    "en": "Directions"
+   },
+   "text": {
+    "en": "18.—(1) The Appeal Advisory Committee may at any time, whether at a case management conference or otherwise, on the request of a party in the manner described in paragraph (4) or on its own initiative, give one or more of the directions mentioned in paragraph (2), or any other directions in relation to the appeal proceedings that the Committee thinks fit.\n(2) The Appeal Advisory Committee may give directions —\n(a)on any time limits to be observed in the conduct of the appeal proceedings for the doing of anything (in addition to those mentioned in regulation 17(c) and (d));\n(b)that the parties file a reply, rejoinder or other additional submissions;\n(c)for the preparation and exchange of skeletal arguments;\n(d)for the filing by the appellant or the Authority of a core bundle or core bundles comprising a copy of every document on which the appellant or the Authority (as the case may be) relies, including the written statements of witnesses of fact and expert witnesses, if any;\n(e)requiring any person to attend an oral hearing and give evidence or to produce any document or material;\n(f)as to the evidence which may be required or admitted in appeal proceedings before the Committee and the extent to which it must be oral or written;\n(g)as to the submission of a list of witnesses, including expert witnesses, whom the parties intend to call;\n(h)as to the submission of witness statements or expert reports;\n(i)as to the examination or cross‑examination of witnesses;\n(j)as to the abridgement or extension of any time limit other than —\n(i)a time limit that applies to the Committee; or\n(ii)a time limit that is specified by the Minister under these Regulations;\n(k)for the disclosure between, or the production by, the parties of documents or classes of documents;\n(l)for the inspection of any movable property in the possession or control of a party, whether by the Committee or another party;\n(m)for the appointment and instruction of experts, whether by the Committee or by the parties, and the manner in which expert evidence is to be given; and\n(n)for hearing a person who is not a party where, in any appeal proceedings, it is proposed to give a direction in relation to that person.\n(3) The Appeal Advisory Committee may, in particular, on its own initiative —\n(a)put questions to any party, witness or person mentioned in regulation 21, or any other person who appears before the Committee during an oral hearing in relation to an order under regulation 16;\n(b)invite the parties and any other person who appears before the Committee during an oral hearing in relation to an order under regulation 16 to make written or oral submissions on certain aspects of the appeal proceedings or to address an issue or question;\n(c)ask any party, witness or person mentioned in regulation 21, or any other person who appears before the Committee for an oral hearing in relation to an order under regulation 16, for information or particulars;\n(d)ask for any document relating to the appeal to be produced; and\n(e)summon the parties or their representatives to case management conferences.\n(4) A request by a party for directions under paragraph (1) must be —\n(a)made in writing and sent by the party to the Appeals Secretary as soon as practicable;\n(b)copied by that party to the other party, as soon as practicable;\n(c)forwarded by the Appeals Secretary to the Appeal Advisory Committee as soon as practicable upon receipt of the request; and\n(d)served by the Appeals Secretary, in any manner that the Appeals Secretary may generally or specifically determine, on any other person who may be affected by such directions, as determined by the Appeal Advisory Committee after taking into account the submissions (if any) of the parties."
+   }
+  },
+  {
+   "id": "SG-H907-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 CASE MANAGEMENT"
+   },
+   "heading": {
+    "en": "Case management conference"
+   },
+   "text": {
+    "en": "19.—(1) The Appeal Advisory Committee must, as soon as practicable after the appellant has filed its response under these Regulations, give directions for a case management conference to be held where it appears to the Committee that any appeal proceedings would be facilitated by holding such a conference and, in particular —\n(a)to ensure the efficient conduct of the appeal proceedings;\n(b)to determine the points on which the parties have to present further arguments or which call for further evidence to be produced;\n(c)to clarify the terms of the orders sought by the parties, their arguments of fact and law and the points at issue between them; or\n(d)to ensure that all agreements reached between the parties about the points at issue and the conduct of the appeal proceedings are recorded.\n(2) The Appeal Advisory Committee may, at any time, on the request of a party or on its own initiative, give directions for further case management conferences to be held.\n(3) The Appeal Advisory Committee may conduct a case management conference in any manner it considers to be appropriate, including —\n(a)by meeting at a physical place;\n(b)by meeting at a physical place and using virtual meeting technology;\n(c)by meeting using virtual meeting technology only; or\n(d)in an asynchronous manner by exchange of written correspondence with the parties.\n(4) Where a case management conference is held in accordance with paragraph (3)(d), the Appeal Advisory Committee must —\n(a)before giving any direction on any matter, give each party an opportunity to address the Committee on the intended direction; and\n(b)before giving any direction that affects a party’s rights or interests, give that party an opportunity to address the Committee and respond to any submission made by the other party on the intended direction."
+   }
+  },
+  {
+   "id": "SG-H907-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 CASE MANAGEMENT"
+   },
+   "heading": {
+    "en": "Evidence"
+   },
+   "text": {
+    "en": "20.—(1) Subject to section 68 of the Act, the Appeal Advisory Committee —\n(a)is not bound by the provisions of the Evidence Act 1893 or by any other written law relating to evidence; and\n(b)may give directions as to —\n(i)the issues on which it requires evidence;\n(ii)the nature of the evidence which it requires to decide those issues; and\n(iii)the manner in which the evidence is to be placed before the Committee.\n(2) The Appeal Advisory Committee may admit or exclude any evidence adduced by any party or any witness —\n(a)whether oral or documentary;\n(b)whether admissible or inadmissible under any written law for the time being in force relating to the admissibility of evidence; and\n(c)whether or not the evidence was available when the contested decision of the Authority was made.\n(3) Where an oral hearing of the appeal is to be held, the Appeal Advisory Committee may, before the oral hearing, direct the parties to submit a list of witnesses, including expert witnesses, whom the parties intend to call, with a description of the subject matter of the testimony to be given by each witness and the relevance of the testimony to the points at issue between the parties.\n(4) The Appeal Advisory Committee may require any witness to give evidence on oath or affirmation, or to provide his or her testimony in writing, whether by way of a signed witness statement, an affidavit or any other form of recording.\n(5) The Appeal Advisory Committee may allow a witness to give evidence through a video link or by other means.\n(6) The Appeal Advisory Committee may, at any oral hearing of an appeal, allow, refuse to allow, or limit the appearance of a witness, or dispense with the need to call a witness to give oral evidence if a witness statement has been submitted in respect of that witness.\n(7) The Appeal Advisory Committee may, at any time before the Minister makes a decision (including after the Committee submits a report to the Minister under regulation 31), call for any further evidence or explanation from all or any of the parties to be given, in the presence of the other party or parties, that the Committee may consider necessary.\n(8) The Appeal Advisory Committee may determine whether any claim of legal privilege is valid.\n(9) To avoid doubt —\n(a)a party may request any witness to give oral evidence or to produce any document or material; and\n(b)a party (or his, her or its authorised representative, legal representative or authorised officer) may interview any witness or potential witness, prior to calling that person to give evidence or to produce any document or material, at any oral hearing of an appeal."
+   }
+  },
+  {
+   "id": "SG-H907-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 CASE MANAGEMENT"
+   },
+   "heading": {
+    "en": "Witnesses"
+   },
+   "text": {
+    "en": "21.—(1) Where an oral hearing of the appeal is to be held, the Appeal Advisory Committee may, in its discretion, summon —\n(a)all or any of the witnesses proposed by any party; and\n(b)any other person,\nto give evidence before the Committee or to produce any document or material.\n(2) The Appeals Secretary must, at least 7 days before the oral hearing of an appeal, cause to be served on any person who is summoned to appear before an Appeal Advisory Committee to give evidence or to produce any document or material, a written notice of the date, time and place (if applicable) at which, and the manner in which, the Committee will sit.\n(3) The Appeals Secretary may determine the manner in which the written notice mentioned in paragraph (2) is to be served.\n(4) The Appeals Secretary must, as soon as practicable, send to the Authority and the appellant a copy of the written notice mentioned in paragraph (2).\n(5) Any person who is summoned by an Appeal Advisory Committee under paragraph (1) and who intentionally omits to attend at the date, time and place (if any), and in the manner, specified in the written notice mentioned in paragraph (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000."
+   }
+  },
+  {
+   "id": "SG-H907-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 CASE MANAGEMENT"
+   },
+   "heading": {
+    "en": "Requests for confidential treatment"
+   },
+   "text": {
+    "en": "22.—(1) The Authority may at any time request confidential treatment of a document, part of a document or information that the Authority intends to rely on, or is required under these Regulations to file or submit, in connection with any appeal proceedings.\n(2) A request mentioned in paragraph (1) must —\n(a)be made in writing by the Authority and sent to the Appeals Secretary;\n(b)where the request relates to part of a document, state the relevant words, figures or passages for which confidentiality is claimed;\n(c)contain the reasons for the request for withholding the document or information from the appellant and, where the request relates to part of a document, the reasons specific to each such part; and\n(d)where the request relates to a document or information that must be filed or submitted by a certain time under these Regulations, be made before the time limit for filing or submitting that document or information expires.\n(3) The Authority must, when making a request under paragraph (1) —\n(a)if the Authority considers it possible to summarise or redact the material in the document, part of the document or information, file with the Appeal Advisory Committee a non‑confidential version of the document, part of the document or information in a form that can be given to the appellant; and\n(b)if the Authority does not consider it possible to provide a non‑confidential version of the document, part of the document or information in a form that can be given to the appellant, file with the Appeal Advisory Committee a statement setting out the reasons why it is not possible to summarise or redact the material in the document, part of the document or information.\n(4) The Authority must, at the same time it makes a request mentioned in paragraph (1), notify the appellant that the Authority has made a request, but the Authority is not required to provide the appellant with a copy of the request or any details relating to the request.\n(5) The Appeals Secretary must, as soon as practicable upon receipt of a request mentioned in paragraph (1), forward the request to the Appeal Advisory Committee.\n(6) The Authority must provide to the Appeal Advisory Committee a copy of the entire document, part of the document, or information, for which confidential treatment is requested.\n(7) As soon as practicable after receiving a request under paragraph (1), the Appeal Advisory Committee must submit a report to the Minister stating the recommendations of the Committee in relation to the request and the grounds upon which the Committee relied in making any recommendation.\n(8) The Minister may, after considering the recommendations of the Appeal Advisory Committee mentioned in paragraph (7) —\n(a)refuse to grant any confidential treatment of the document, part of the document or information; or\n(b)grant the confidential treatment requested on any terms and conditions that the Minister thinks fit (including changes to the summary or redacting of material in any non‑confidential version under paragraph (3)), if (and only if) the Minister is satisfied that the document, part of the document or information contains or is, in the Minister’s opinion —\n(i)information the disclosure of which would be contrary to the public interest, including (to avoid doubt) information the disclosure of which would be prejudicial to the national security of Singapore;\n(ii)commercial information the disclosure of which would or may significantly harm the legitimate business interests of the undertaking to which it relates; or\n(iii)information relating to the private affairs of an individual the disclosure of which would or may significantly harm the interests of that individual.\n(9) The Appeals Secretary must notify the Authority of the Minister’s decision in respect of the Authority’s request.\n(10) The Authority must, as soon as practicable after being notified of the Minister’s decision, notify the appellant whether the Minister has —\n(a)refused to grant any confidential treatment of the document, part of the document or information;\n(b)granted confidential treatment of the whole of the document, part of the document or information; or\n(c)granted confidential treatment of the document, part of the document or information, subject to the Authority providing a non‑confidential version of the document, part of the document or information to the appellant,\nbut the Authority is not required to provide the appellant with a copy of the decision, the Minister’s reasons for the decision, and any details as to what is to be or has been summarised or redacted.\n(11) Where the Minister refuses to grant any confidential treatment of the document, part of the document or information, the Authority must —\n(a)in the case where the document, part of the document or information is a document or information mentioned in regulation 13(1)(b) or (d) and the Minister makes his or her decision at least one business day before the last day of the period within which the Authority must file the Authority’s reasons under these Regulations, include a copy of the document, part of the document or information in the Authority’s reasons; and\n(b)in all other cases, serve a copy of the document, part of the document or information on the appellant as soon as practicable after the Authority is notified of the Minister’s decision.\n(12) Where the Minister grants confidential treatment subject to the Authority providing a non-confidential version of the document, part of the document or information mentioned in paragraph (3)(a) to the appellant, the Authority must —\n(a)in the case where the document, part of the document or information is a document or information mentioned in regulation 13(1)(b) or (d) and the Minister makes his or her decision at least one business day before the last day of the period within which the Authority must file the Authority’s reasons under these Regulations —\n(i)include the non-confidential version in the Authority’s reasons; and\n(ii)notify the appellant at the time the non‑confidential version is served, that material in the document, part of the document or information has been summarised or redacted; and\n(b)in all other cases —\n(i)serve the non-confidential version on the appellant as soon as practicable after the Authority is notified of the Minister’s decision (unless the Authority has previously served the non‑confidential version on the appellant); and\n(ii)notify the appellant at the time the non‑confidential version is served, that material in the document, part of the document or information has been summarised or redacted (unless the Authority has previously so notified the appellant).\n(13) Where the Minister grants confidential treatment subject to changes to the summary or redacting of material in any non‑confidential version filed under paragraph (3)(a), the Authority must —\n(a)make the necessary changes or redactions;\n(b)in the case where the document, part of the document or information is a document or information mentioned in regulation 13(1)(b) or (d) and the Minister makes his or her decision at least one business day before the last day of the period within which the Authority must file the Authority’s reasons under these Regulations —\n(i)include the revised non‑confidential version in the Authority’s reasons; and\n(ii)notify the appellant at the time the revised non‑confidential version is served, that material in the document, part of the document or information has been summarised or redacted; and\n(c)in all other cases —\n(i)serve the revised non‑confidential version on the appellant as soon as practicable after the Authority is notified of the Minister’s decision; and\n(ii)notify the appellant at the time the revised non‑confidential version is served, that material in the document, part of the document or information has been summarised or redacted.\n(14) Where paragraph (13) applies, the non‑confidential version filed under paragraph (3)(a) is treated as expunged and a party must not rely upon that non‑confidential version of the document, part of the document or information in the appeal proceedings.\n(15) To avoid doubt, in a case where paragraph (11)(b), (12)(b) or (13)(c) applies, the time limits specified in these Regulations continue to apply to the appellant, unless the Appeal Advisory Committee otherwise directs under regulation 18.\n(16) In this regulation, “business day” means any day other than a Saturday, Sunday or public holiday."
+   }
+  },
+  {
+   "id": "SG-H907-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 CASE MANAGEMENT"
+   },
+   "heading": {
+    "en": "Reliance on confidential material"
+   },
+   "text": {
+    "en": "23.—(1) An Appeal Advisory Committee may —\n(a)rely on any document or part thereof or any information for which confidential treatment has been requested under regulation 22, for the purposes of making a recommendation for the purposes of that regulation; and\n(b)rely on any document or part thereof or any information in respect of which confidential treatment has been granted under regulation 22, for the purposes of making a recommendation for the purposes of regulation 31.\n(2) The Minister may —\n(a)rely on any document or part thereof or any information for which confidential treatment has been requested under regulation 22, for the purposes of making a decision under regulation 22(8); and\n(b)rely on any document or part thereof or any information in respect of which confidential treatment has been granted under regulation 22, for the purposes of deciding the appeal."
+   }
+  },
+  {
+   "id": "SG-H907-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 CASE MANAGEMENT"
+   },
+   "heading": {
+    "en": "Failure to comply with directions"
+   },
+   "text": {
+    "en": "24.—(1) If a party fails to comply with any direction given by the Appeal Advisory Committee in accordance with these Regulations, the Committee may, if it considers that the justice of the case so requires, recommend to the Minister that such party be debarred from taking any further part in the appeal proceedings unless permitted by the Minister.\n(2) Upon receipt of a recommendation mentioned in paragraph (1), the Minister may, if the Minister considers that the justice of the case so requires, order that the party mentioned in that paragraph be debarred from taking any further part in the appeal proceedings without the Minister’s permission."
+   }
+  },
+  {
+   "id": "SG-H907-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 5 DETERMINING APPEAL"
+   },
+   "heading": {
+    "en": "Hearing of appeals, etc."
+   },
+   "text": {
+    "en": "25.—(1) Subject to the provisions of the Act and these Regulations, the Appeal Advisory Committee has full discretion to conduct the appeal proceedings in any manner that the Committee considers appropriate.\n(2) The Appeal Advisory Committee must conduct an oral hearing of the appeal unless the Committee is of the view that the Committee is able to make recommendations based on the written or documentary evidence provided or produced without holding any oral hearing of the appeal.\n(3) Where the Appeal Advisory Committee conducts an oral hearing of the appeal —\n(a)the Committee must ensure that the first day of the oral hearing is held within the period of 42 days after the appellant files and serves the appellant’s response under these Regulations;\n(b)the Committee must give the Authority and the appellant a reasonable opportunity to appear before, and be heard by, the Committee; and\n(c)regulations 26, 27 and 28 apply.\n(4) Where the Appeal Advisory Committee decides to make recommendations based on the written or documentary evidence provided or produced without holding any oral hearing of the appeal —\n(a)the Committee must give the Authority and the appellant a reasonable opportunity to make submissions on the written or documentary evidence;\n(b)the Committee must direct the Authority and the appellant to file and exchange their respective submissions mentioned in sub‑paragraph (a) on a date no later than 42 days after the appellant files and serves the appellant’s response under these Regulations; and\n(c)regulation 29 applies.\n(5) Despite paragraph (4)(b), the Appeal Advisory Committee may, after the submissions mentioned in paragraph (4)(a) are filed and exchanged, direct the parties to file and exchange additional submissions on any aspect of the appeal proceedings, or to address any issue or question, on a date after the last day of the 42‑day period mentioned in paragraph (4)(b).\n(6) The Appeal Advisory Committee may, on the application of a party or if it considers that the justice of the case so requires, recommend to the Minister to extend the time limit provided under paragraph (3)(a) or (4)(b), as the case may be.\n(7) The Minister may, after considering the recommendations of the Appeal Advisory Committee, extend the time limit provided under paragraph (3)(a) or (4)(b), as the case may be."
+   }
+  },
+  {
+   "id": "SG-H907-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 5 DETERMINING APPEAL"
+   },
+   "heading": {
+    "en": "Oral hearing — Procedure"
+   },
+   "text": {
+    "en": "26.—(1) Where an oral hearing is held, the oral hearing must be opened and directed by the chairperson of the Appeal Advisory Committee.\n(2) The Appeal Advisory Committee must, so far as it appears to the Committee to be appropriate, seek to avoid undue formality in the appeal proceedings, and must conduct the oral hearing in any manner that it considers to be appropriate for the clarification of the issues before it and generally for the just, expeditious and economical conduct of the proceedings.\n(3) Unless the Appeal Advisory Committee otherwise directs —\n(a)where a party fails, in accordance with any direction of the Committee, to notify the Committee and the other party of a witness that the firstmentioned party proposes to call upon to give evidence before the Committee, the firstmentioned party must not call that witness; and\n(b)an expert or witness of fact must not be heard unless the relevant expert report or witness statement has been submitted before the oral hearing of an appeal and in accordance with any direction of the Committee.\n(4) The Appeal Advisory Committee may limit the cross‑examination of witnesses to any extent or in any manner it considers appropriate.\n(5) If, at the time appointed for the oral hearing of an appeal, any party to the appeal proceedings does not appear, the Appeal Advisory Committee may, if the Committee is satisfied that the party has been duly notified of the oral hearing, proceed with the oral hearing."
+   }
+  },
+  {
+   "id": "SG-H907-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 5 DETERMINING APPEAL"
+   },
+   "heading": {
+    "en": "Oral hearing — Adjournment"
+   },
+   "text": {
+    "en": "27. Where the Appeal Advisory Committee conducts an oral hearing, the Committee may, in its discretion, adjourn any oral hearing on any ground, and may fix a date for a further hearing."
+   }
+  },
+  {
+   "id": "SG-H907-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 5 DETERMINING APPEAL"
+   },
+   "heading": {
+    "en": "Oral hearing — Summary of arguments"
+   },
+   "text": {
+    "en": "28. At the close of an oral hearing of an appeal, the Appeal Advisory Committee must direct the Authority and appellant to file a summary of the Authority’s and the appellant’s respective arguments raised in the appeal."
+   }
+  },
+  {
+   "id": "SG-H907-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 5 DETERMINING APPEAL"
+   },
+   "heading": {
+    "en": "Proceedings other than by way of oral hearing — Summary of arguments"
+   },
+   "text": {
+    "en": "29. Where the Appeal Advisory Committee decides to make recommendations without holding any oral hearing, then, as soon as practicable after both the Authority and the appellant have filed and exchanged all submissions mentioned in regulation 25(4)(a) and (5), the Committee must give directions to the Authority and appellant to file a summary of the Authority’s and the appellant’s respective arguments raised in the appeal."
+   }
+  },
+  {
+   "id": "SG-H907-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 5 DETERMINING APPEAL"
+   },
+   "heading": {
+    "en": "Withdrawal of appeal"
+   },
+   "text": {
+    "en": "30.—(1) The appellant may, at any time before the Appeals Secretary notifies the parties of the Minister’s decision in the appeal in accordance with regulation 32, withdraw the appeal by sending the Appeals Secretary a written notice to that effect, and copying the Authority.\n(2) The Appeals Secretary must, as soon as practicable upon receipt of the written notice, forward that notice to the Appeal Advisory Committee and the Minister."
+   }
+  },
+  {
+   "id": "SG-H907-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 5 DETERMINING APPEAL"
+   },
+   "heading": {
+    "en": "Report of Appeal Advisory Committee"
+   },
+   "text": {
+    "en": "31.—(1) Where the Appeal Advisory Committee conducts an oral hearing of an appeal, the Committee must submit a report to the Minister —\n(a)within any period that the Minister directs; or\n(b)in the absence of such direction, as soon as practicable after —\n(i)the Authority and the appellant file the summary of arguments mentioned in regulation 28; or\n(ii)where the Committee directs the parties to file and exchange any closing or additional submissions on a date which is after the date the Authority and the appellant file the summary of arguments mentioned in regulation 28, the date of filing and exchange of those submissions (or, where there is more than such one direction, the latest of those dates).\n(2) Where the Appeal Advisory Committee decides to make recommendations based on the written or documentary evidence provided or produced without holding any oral hearing of the appeal, the Committee must submit a report to the Minister —\n(a)within any period that the Minister directs; or\n(b)in the absence of such direction, as soon as practicable after the Authority and the appellant have filed and exchanged all submissions mentioned in regulation 25(4)(a) and (5).\n(3) The report under paragraph (1) or (2) must —\n(a)state the recommendations of the Appeal Advisory Committee on the issues in the appeal, and the grounds upon which the Committee relied in making any recommendation; and\n(b)be accompanied by the summaries, prepared by the Authority and the appellant in compliance with a direction under regulation 28 or 29 (as the case may be) of the respective arguments raised in the appeal.\n(4) In making the report under paragraph (1) or (2), the Appeal Advisory Committee may —\n(a)place any weight on the evidence given or document or material produced by any person as the Committee thinks fit;\n(b)disregard such evidence, documents or material or any part thereof;\n(c)exclude such evidence, documents or material or any part thereof altogether; or\n(d)draw any inference as it thinks fit in respect of such evidence, documents or material, including the failure to give evidence or produce documents or material.\n(5) The report and the accompanying summaries must be kept confidential and a person must not disclose the report, any accompanying summary, or any part thereof, to any other person other than the Minister, unless the Minister otherwise directs.\n(6) Any person who contravenes paragraph (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H907-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 5 DETERMINING APPEAL"
+   },
+   "heading": {
+    "en": "Decision of Minister"
+   },
+   "text": {
+    "en": "32. The Appeals Secretary must notify the appellant, the Authority and any other party in the appeal of the Minister’s decision in respect of the appeal."
+   }
+  },
+  {
+   "id": "SG-H907-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 5 DETERMINING APPEAL"
+   },
+   "heading": {
+    "en": "Dissolution of Appeal Advisory Committee"
+   },
+   "text": {
+    "en": "33. An Appeal Advisory Committee constituted in respect of an appeal dissolves upon the withdrawal of that appeal or upon the Minister confirming, varying or reversing the decision of the Authority on appeal."
+   }
+  },
+  {
+   "id": "SG-H907-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Confidential nature of proceedings"
+   },
+   "text": {
+    "en": "34.—(1) Subject to paragraph (3), the parties, the Appeals Secretary, the Appeal Advisory Committee and all other persons must at all times treat all matters relating to the appeal proceedings as confidential.\n(2) Subject to paragraph (3), a person must not, unless authorised by the Minister, disclose any information, document or evidence (whether oral or documentary) tendered or produced in any appeal proceedings, or any part thereof, to any person other than —\n(a)the Minister (or the Minister’s legal representative);\n(b)the Appeals Secretary;\n(c)a member of the Appeal Advisory Committee;\n(d)the Authority (or any of the Authority’s authorised officers or legal representatives); or\n(e)the appellant (or any of the appellant’s authorised representatives or legal representatives).\n(3) Paragraphs (1) and (2) do not apply to —\n(a)the disclosure of the Minister’s decision in an appeal, or any part thereof; and\n(b)the disclosure of any information, document or evidence, or any part thereof —\n(i)by the person who tendered or produced such information or document; or\n(ii)which is in the public domain.\n(4) Any person who contravenes paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H907-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "35.—(1) Without affecting section 78 of the Act, any document required to be served on the appellant for the purpose of any appeal proceedings under these Regulations may be served —\n(a)where the appellant is an individual, by leaving it at the address for service stated in the appellant’s notice of appeal;\n(b)where the appellant is a partnership or a body corporate, by leaving it at, or by sending it by prepaid registered post to, the address for service stated in the appellant’s notice of appeal; or\n(c)where the appellant has stated an email address for service of documents in the appellant’s notice of appeal, by sending it by email to that email address.\n(2) Any document required to be served on the Authority for the purpose of any appeal proceedings under these Regulations must be sent to the Authority by email to the email address for service stated in the Authority’s reasons filed under regulation 12(1).\n(3) Where it appears to the Appeal Advisory Committee that there is a good reason to authorise service by a method not permitted by the Act or these Regulations, the Committee may, on the request of a party or on its own initiative, make an order permitting and specifying an alternative method of service.\n(4) The Appeal Advisory Committee may dispense with service of a document if the interests of justice so require."
+   }
+  },
+  {
+   "id": "SG-H907-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Time"
+   },
+   "text": {
+    "en": "36.—(1) A period specified by the Minister, an Appeal Advisory Committee or in these Regulations, that is expressed in days, weeks or months after or from the happening of an event or the doing of any act or thing excludes the day on which the event happens or the act or thing is done.\n(2) Where the time specified by the Minister, an Appeal Advisory Committee or these Regulations for doing any act expires on a Saturday, Sunday or public holiday, the act is in time if done on the next following working day.\n(3) Where the Minister or an Appeal Advisory Committee directs that an act be done within a time not exceeding 7 days, Saturdays, Sundays and public holidays must not be reckoned in the computation of time."
+   }
+  },
+  {
+   "id": "SG-H907-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Irregularities"
+   },
+   "text": {
+    "en": "37.—(1) Any irregularity resulting from a failure to comply with any provision of these Regulations before the Minister has reached his or her decision does not of itself render the appeal proceedings void.\n(2) Where any such irregularity comes to the attention of an Appeal Advisory Committee, the Committee —\n(a)must, if the Committee considers that any person may have been prejudiced by the irregularity, give directions to cure or waive the irregularity before submitting its report to the Minister under regulation 31; and\n(b)may, in any other case, give directions to cure or waive the irregularity before submitting its report to the Minister under regulation 31.\n(3) An Appeal Advisory Committee is entitled to take into account any irregularity in its report to the Minister under regulation 31.\n(4) The following may be corrected at any time by the chairperson or alternate chairperson (as the case may be) of an Appeal Advisory Committee by certificate under his or her hand:\n(a)clerical mistakes in any document recording a direction or any appeal proceedings under these Regulations;\n(b)errors arising in such a document from an accidental slip or omission."
+   }
+  },
+  {
+   "id": "SG-H907-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRegulation 10(1)\nFORM 1\nCREDIT BUREAU ACT 2016\nCREDIT BUREAU (APPEALS) REGULATIONS 2025\nNOTICE OF APPEAL\nDate of Service of Notice on Appeals Secretary:\nName of Appellant:\nNRIC No. / Passport No. / FIN No. / Company Registration No.* of the Appellant:\nAddress(es) of the Appellant:\nEmail address of the Appellant*:\nTelephone Number(s) of the Appellant:\nName of each of the Appellant’s authorised representative or legal representative*:\nAddress of each of the Appellant’s authorised representative or legal representative*:\nAddress for service of documents:\nEmail address for service of documents (if applicable#):\nThis appeal is made under section ___ of the Credit Bureau Act 2016.\nThe appeal is against the decision of the Authority of:\n(state the date of the decision of the Authority and provide a brief description of decision of the Authority appealed against, a brief description of the grounds for appealing against the decision of the Authority, and identify whether the appeal is against the whole, or only part, of the decision of the Authority)\n____________________\nSignature of Appellant/\nauthorised representative or legal representative\nacting for the Appellant*\n*Delete if inapplicable\n#By providing an email address for service of documents, the Appellant consents to service of documents by email"
+   }
+  }
+ ]
+}

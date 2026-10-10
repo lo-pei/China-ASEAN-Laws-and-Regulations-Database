@@ -1,0 +1,1306 @@
+{
+ "id": "SG-H1650",
+ "title": {
+  "zh": null,
+  "en": "Government Technology Agency Act 2016",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p21",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act GTAA2016",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 81,
+ "chars": 60386,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/GTAA2016?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 81 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。其中 16 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1650-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Government Technology Agency Act 2016."
+   }
+  },
+  {
+   "id": "SG-H1650-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“Agency” means the Government Technology Agency established by section 3;\n“Chairperson”, in relation to the Agency, means the member of the Agency who is appointed under section 13(1)(a) as the Chairperson of the Agency, and includes any individual acting in that capacity;\n“Chief Executive” means the Chief Executive of the Agency, and includes any individual acting in that capacity;\n“committee”, in relation to the Agency, means a committee of the Agency appointed under section 36;\n“committee member” means a member of a committee of the Agency appointed under section 36;\n“company” has the meaning given by section 4(1) of the Companies Act 1967;\n“delegate”, in relation to the Agency, means a person to whom the Agency, under section 38(1), delegates any of its functions or powers;\n“Deputy Chairperson”, in relation to the Agency, means the member of the Agency who is appointed under section 13(1)(b) as the Deputy Chairperson of the Agency;\n“document” includes any device or medium on which information is recorded or stored;\n“employee”, in relation to the Agency, means —\n(a)in the case of Part 10, an individual who is employed by the Agency under a contract of service; or\n(b)in any other case, an individual who is employed by the Agency under a contract of service or who is otherwise engaged to perform duties in the Agency;\n“function”, in relation to the Agency, means a function conferred on the Agency by this Act or any other Act;\n“info-communications technology” means any technology employed in the collection, storage, use or transmission of information, and includes a technology that involves the use of a computer or a telecommunication system;\n“member”, in relation to the Agency, means a member of the Agency appointed under section 11, and includes a temporary member appointed under section 15(2);\n“power”, in relation to the Agency, means a power given to the Agency by this Act or any other Act;\n“public authority” means a body that is established or constituted by or under a public Act to perform or discharge a public function, but does not include a Town Council established under section 4 of the Town Councils Act 1988;\n“public entity” means a body corporate (not being a public authority) that —\n(a)provides an essential service to the public or a section of the public; and\n(b)receives funding or other facilities or support from the Government in connection with the provision of the essential service;\n“public sector” means the Government and all public authorities, and includes any part of the public sector;\n“public sector body” means a Ministry, a Government department, a public authority or any other body of persons in the public sector;\n“system”, in relation to info‑communications technology or related engineering, includes infrastructure and application;\n“telecommunication system” has the meaning given by section 2 of the Telecommunications Act 1999.\n[5/2018; S 461/2020]"
+   }
+  },
+  {
+   "id": "SG-H1650-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, FUNCTIONS AND POWERSOF AGENCY"
+   },
+   "heading": {
+    "en": "Government Technology Agency"
+   },
+   "text": {
+    "en": "3. A body called the Government Technology Agency is established by this section."
+   }
+  },
+  {
+   "id": "SG-H1650-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, FUNCTIONS AND POWERSOF AGENCY"
+   },
+   "heading": {
+    "en": "Agency is body corporate"
+   },
+   "text": {
+    "en": "4. The Agency —\n(a)is a body corporate with perpetual succession;\n(b)may acquire, hold and dispose of real and personal property; and\n(c)may sue and be sued in its corporate name."
+   }
+  },
+  {
+   "id": "SG-H1650-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, FUNCTIONS AND POWERSOF AGENCY"
+   },
+   "heading": {
+    "en": "Objectives and functions of Agency"
+   },
+   "text": {
+    "en": "5.—(1) The objectives of the Agency are to —\n(a)harness and deploy info-communications technology and related engineering for services that benefit Singapore; and\n(b)develop the necessary capabilities to support the delivery of those services.\n(2) The Agency has the following functions:\n(a)to act as a lead agency in the public sector in respect of the functions specified in paragraphs (b) to (g);\n(b)to advise and make recommendations to the Government on national needs and policies in respect of info‑communications technology and related engineering matters;\n(c)to provide, develop, implement or operate, or direct or facilitate the provision, development, implementation or operation, of info‑communications technology and related engineering systems and services in the public sector;\n(d)to ensure the security and reliability of info‑communications technology and related engineering systems and services in the public sector;\n(e)to provide consultancy, project management and other services, manpower and facilities for info‑communications technology and related engineering systems and services to the public sector;\n(f)to undertake the procurement of info‑communications technology and related engineering goods (including equipment and systems) and services for —\n(i)the public sector; and\n(ii)any other organisation that the Minister may, by written notice to the Agency and with the agreement of that organisation, designate;\n(g)to promote and develop competencies and professional standards in the public sector in relation to info‑communications technology and related engineering matters;\n(h)to collaborate, in the performance of its functions, with other public sector bodies that have similar or related functions;\n(i)to promote or undertake research into, and development of matters relating to, info‑communications technology and related engineering systems and services in the public sector;\n(j)to develop and promote, and collaborate with the public sector on, the use of info‑communications technology and related engineering in the public sector for the technological advancement of Singapore;\n(k)to assist, where appropriate, a public entity with the security and reliability of that public entity’s info‑communications technology and related engineering systems and services;\n(l)to represent Singapore and advance Singapore’s interest internationally in relation to info‑communications technology and related engineering matters for the public sector;\n(m)to promote and facilitate public participation in the development of info‑communications technology and related engineering capabilities for Singapore;\n(n)to perform any other functions that may be conferred on the Agency by any other Act.\n(3) The Agency may also undertake any other functions that the Minister may, by notification in the Gazette, assign to the Agency, and in so undertaking —\n(a)the Agency is deemed to be fulfilling the purposes of this Act; and\n(b)the provisions of this Act apply to the Agency in respect of those other functions.\n(4) Nothing in this section imposes on the Agency, directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which the Agency would not otherwise be subject."
+   }
+  },
+  {
+   "id": "SG-H1650-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, FUNCTIONS AND POWERSOF AGENCY"
+   },
+   "heading": {
+    "en": "Powers of Agency"
+   },
+   "text": {
+    "en": "6.—(1) Subject to this Act, the Agency has power to do all things necessary or convenient to be done for, or in connection with, the performance of its functions.\n(2) Without limiting subsection (1), the powers of the Agency mentioned in that subsection include power —\n(a)to develop and issue codes and guidelines on data protection standards for the public sector in respect of the use of info‑communications technology and related engineering systems and services;\n(b)to collaborate with other persons (in or outside Singapore), in respect of info‑communications technology and related engineering matters for the public sector;\n(c)to organise, provide for or collaborate with any person on training programmes for, assessments and certifications of, and scholarships for, persons in relation to info‑communications technology and related engineering systems and services;\n(d)to enter into agreements and arrangements;\n(e)to execute and manage agreements on behalf of the public sector for the procurement of info‑communications technology and related engineering goods (including equipment and systems) and services;\n(f)to form or participate in the formation of a body corporate, unincorporated association or trust, or enter into a joint venture with any person;\n(g)to charge for the provision of goods or services, or the performance of work, by or on behalf of the Agency;\n(h)to waive or refund the whole or part of any fee or charges payable or paid to the Agency under this Act or any other Act administered by the Agency;\n(i)to carry out any works or activities that the Agency considers necessary, advantageous or convenient for making the best use of the Agency’s assets;\n(j)to accept grants, gifts, donations or contributions from any source, or raise funds by all lawful means;\n(k)to provide financial support, grant, aid or assistance to any person in connection with any function of the Agency; and\n(l)to do any other thing that is incidental to the performance of its functions.\n(3) To avoid doubt, subsection (1) does not limit any other power given to the Agency by any other provision in this Act or by any other Act."
+   }
+  },
+  {
+   "id": "SG-H1650-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, FUNCTIONS AND POWERSOF AGENCY"
+   },
+   "heading": {
+    "en": "Powers of Agency in relation to proposals for privatisation"
+   },
+   "text": {
+    "en": "7.—(1) Where the Minister proposes to transfer any property or function of the Agency to another body corporate (called in this section the transferee), the Agency has the power to do anything which, in the opinion of the Agency, is appropriate for the purpose of —\n(a)facilitating the implementation of the Minister’s proposal;\n(b)facilitating the implementation of, or securing a modification of, any related proposal of the Minister;\n(c)promoting, in relation to the Minister’s proposal or related proposal, the interest of the transferee; or\n(d)promoting, in relation to the Minister’s proposal or related proposal, the interest of a body corporate that may become, under the Minister’s proposal or related proposal, a member of the same group as the transferee.\n(2) To avoid doubt, subsection (1) does not limit any other power given to the Agency by any other provision in this Act or by any other Act.\n(3) For the purposes of subsection (1)(d), a body corporate is a member of the same group as the transferee if —\n(a)the body corporate is a holding company or subsidiary of the transferee; or\n(b)the body corporate is another subsidiary of the transferee’s holding company.\n(4) In this section —\n“holding company” and “subsidiary” have the meanings given by section 5 of the Companies Act 1967;\n“related proposal” means a proposal of the Minister that relates to the Minister’s proposal to transfer a property or function of the Agency to the transferee, and includes a proposal relating to or connected with —\n(a)any property, right or liability of the Agency that would be affected by the proposed transfer, or that is proposed to be transferred to the transferee;\n(b)the performance, whether before or after the transfer, of a function of the Agency that is proposed to be transferred to the transferee; or\n(c)the formation, flotation, control, finances, or officers or employees, of the transferee or of any other body corporate that may become, under the Minister’s proposal or related proposal, a member of the same group as the transferee."
+   }
+  },
+  {
+   "id": "SG-H1650-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, FUNCTIONS AND POWERSOF AGENCY"
+   },
+   "heading": {
+    "en": "Directions of Minister, etc."
+   },
+   "text": {
+    "en": "8.—(1) The Minister may give to the Agency any direction under section 5 of the Public Sector (Governance) Act 2018.\n[5/2018]\n(2) To avoid doubt, the Minister is entitled —\n(a)to have information in the possession of the Agency; and\n(b)where the information is in or on a document, to have, and make and retain copies of, that document.\n(3) For the purposes of this section, the Minister may request the Agency —\n(a)to provide information to the Minister; or\n(b)to give the Minister access to information.\n(4) The Agency must comply with a request under subsection (3).\n(5) In this section, “information” means information specified, or of a description specified, by the Minister that relates to the Agency’s functions, and includes a document."
+   }
+  },
+  {
+   "id": "SG-H1650-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, FUNCTIONS AND POWERSOF AGENCY"
+   },
+   "heading": {
+    "en": "Agency’s symbols, etc."
+   },
+   "text": {
+    "en": "9.—(1) The Agency has the exclusive right to the use of one or more symbols or representations as it may select or devise (each called in this section the Agency’s symbol or representation), and to display or exhibit those symbols or representations in connection with the Agency’s activities or affairs.\n(2) A person who —\n(a)uses, without the prior written permission of the Agency, a symbol or representation that is identical with the Agency’s symbol or representation; or\n(b)uses a symbol or representation that so resembles the Agency’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or to cause confusion,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H1650-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AGENCY"
+   },
+   "heading": {
+    "en": "Membership of Agency"
+   },
+   "text": {
+    "en": "10.—(1) The Agency consists of at least 6 and not more than 17 members.\n(2) One of the members (who is not the Chairperson or Deputy Chairperson) may be the Chief Executive."
+   }
+  },
+  {
+   "id": "SG-H1650-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AGENCY"
+   },
+   "heading": {
+    "en": "Appointment of members of Agency"
+   },
+   "text": {
+    "en": "11.—(1) Each member is to be appointed by the Minister.\n(2) Every appointment must be made by instrument in writing given to the member.\n(3) The instrument must state —\n(a)the term of the appointment; and\n(b)the date the appointment takes effect (which must not be earlier than the date on which the member receives the instrument)."
+   }
+  },
+  {
+   "id": "SG-H1650-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AGENCY"
+   },
+   "heading": {
+    "en": "Membership disqualification"
+   },
+   "text": {
+    "en": "12.—(1) In appointing members, the Minister must have regard to whether the members will collectively possess the appropriate knowledge, skills and experience to assist the Agency to perform its functions effectively.\n(2) The following individuals are disqualified to be or from being a member:\n(a)a Judge or judicial officer;\n(b)an undischarged bankrupt;\n(c)an individual who has been sentenced to imprisonment for a term of 6 months or more, and has not received a free pardon;\n(d)an individual who is —\n(i)disqualified under section 154(1) of the Companies Act 1967 from acting as a director, or from taking part (directly or indirectly) in the management, of a company during the period of disqualification in that section;\n(ii)disqualified by a court order (under section 149(1), 149A(1) or 154(2) of the Companies Act 1967) from being a director or in any way (directly or indirectly) being concerned in, or taking part in, the management of a company during the period of disqualification in the court order;\n(iii)disqualified under section 58(1) of the Variable Capital Companies Act 2018 from acting as a director, or taking part (whether directly or indirectly) in the management of a VCC during the period of disqualification in that provision; or\n(iv)disqualified by a court order under section 56(1), 57(1) or 58(2) of the Variable Capital Companies Act 2018 from being a director or in any way (whether directly or indirectly) being concerned in, or taking part in, the management of a VCC during the period of disqualification in the court order;\n(e)an individual who lacks capacity in respect of his or her duties as a member within the meaning of the Mental Capacity Act 2008, or in respect of whom an order is made under section 10 of the Mental Health (Care and Treatment) Act 2008.\n[S 461/2020]\n(3) In this section, “VCC” has the meaning given by section 2(1) of the Variable Capital Companies Act 2018.\n[S 461/2020]"
+   }
+  },
+  {
+   "id": "SG-H1650-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AGENCY"
+   },
+   "heading": {
+    "en": "Chairperson and Deputy Chairperson"
+   },
+   "text": {
+    "en": "13.—(1) The Minister may, by instrument in writing, appoint —\n(a)a member to be the Chairperson of the Agency for the period specified in the instrument; and\n(b)a member (other than the Chairperson) to be the Deputy Chairperson of the Agency for the period specified in the instrument.\n(2) A member who is appointed as the Chief Executive is not eligible for an appointment under subsection (1).\n(3) The Chairperson or Deputy Chairperson holds office until whichever of the following first happens:\n(a)his or her term of office as Chairperson or Deputy Chairperson (as the case may be) expires;\n(b)he or she ceases to hold office as a member;\n(c)the Minister terminates the appointment as Chairperson or Deputy Chairperson, as the case may be.\n(4) The Deputy Chairperson has and may perform all the functions and exercise all the powers of the Chairperson in relation to a matter if —\n(a)the Chairperson is unavailable; or\n(b)the Chairperson is interested (within the meaning given by Part 4 of the Public Sector (Governance) Act 2018) in the matter.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H1650-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AGENCY"
+   },
+   "heading": {
+    "en": "Premature vacancies"
+   },
+   "text": {
+    "en": "14.—(1) If a premature vacancy occurs in the office of a member, the Minister may, subject to sections 10 and 12, appoint an individual to fill the vacancy and hold that office for the remainder of the term for which the vacating member was appointed.\n(2) Section 11 applies to an appointment under subsection (1).\n(3) In this section, “premature vacancy”, for an office, means a vacancy that occurs in that office for any reason other than the expiry of the term of office."
+   }
+  },
+  {
+   "id": "SG-H1650-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AGENCY"
+   },
+   "heading": {
+    "en": "Temporary Chairperson and members"
+   },
+   "text": {
+    "en": "15.—(1) The Minister may appoint an individual (other than the Chief Executive) to act temporarily as the Chairperson of the Agency during any period, or during all periods, when the Chairperson —\n(a)is absent from duty or Singapore; or\n(b)is, for any reason, unable to perform the duties of the office.\n(2) The Minister may appoint an individual to act temporarily as a member of the Agency (other than the Chairperson) during any period, or during all periods, when the member —\n(a)is absent from duty or Singapore; or\n(b)is, for any reason, unable to perform the duties of the office.\n(3) An individual is ineligible for appointment under this section to act as the Chairperson or a member if the individual is disqualified under section 12(2) from appointment as a member."
+   }
+  },
+  {
+   "id": "SG-H1650-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AGENCY"
+   },
+   "heading": {
+    "en": "Removal of member"
+   },
+   "text": {
+    "en": "16.—(1) The Minister may, at any time and without giving any reason, remove a member from office.\n(2) Every removal under subsection (1) must be made by written notice to the member.\n(3) The notice must state the date the removal takes effect (which must not be earlier than the date on which the member receives the notice)."
+   }
+  },
+  {
+   "id": "SG-H1650-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AGENCY"
+   },
+   "heading": {
+    "en": "Resignation from office"
+   },
+   "text": {
+    "en": "17.—(1) A member may resign his or her office by written notice to the Minister.\n(2) The resignation is effective —\n(a)on the expiry of one month after the date on which the Minister receives the notice; or\n(b)on any later date specified in the notice."
+   }
+  },
+  {
+   "id": "SG-H1650-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AGENCY"
+   },
+   "heading": {
+    "en": "Validity of acts, etc."
+   },
+   "text": {
+    "en": "18.—(1) The performance of any function, or the exercise of any power, of the Agency by the Agency is not affected merely because at the relevant time —\n(a)there was a vacancy in the membership of the Agency, including a vacancy arising from the failure to appoint a member;\n(b)there was some defect or irregularity existing in the appointment or continuance in office of an individual purporting to be a member; or\n(c)there was an irregularity in the Agency’s decision-making procedure (but only if the irregularity did not affect the merits of the decision made).\n[5/2018]\n(2) The acts of an individual as a member of the Agency are not affected merely because there was some defect or irregularity existing in the appointment or continuance in office of the individual purporting to be a member."
+   }
+  },
+  {
+   "id": "SG-H1650-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AGENCY"
+   },
+   "heading": {
+    "en": "Term of appointment"
+   },
+   "text": {
+    "en": "19.—(1) The term of appointment of a member must not exceed 3 years.\n(2) A member may be re-appointed."
+   }
+  },
+  {
+   "id": "SG-H1650-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AGENCY"
+   },
+   "heading": {
+    "en": "Remuneration, etc."
+   },
+   "text": {
+    "en": "20. The members are to be paid, out of the funds of the Agency, such salaries, fees and allowances as the Minister may determine."
+   }
+  },
+  {
+   "id": "SG-H1650-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AGENCY"
+   },
+   "heading": {
+    "en": "Vacation of office"
+   },
+   "text": {
+    "en": "21.—(1) A member ceases to hold office if he or she —\n(a)dies;\n(b)is adjudicated a bankrupt;\n(c)becomes disqualified from being a member under section 12(2);\n(d)is removed from office in accordance with section 16;\n(e)resigns in accordance with section 17;\n(f)fails, without reasonable cause, to disclose any interest required to be disclosed under the Public Sector (Governance) Act 2018 and the Agency reports to the Minister under that Act of the member’s failure to do so;\n(g)fails to attend 3 consecutive meetings of the Agency without the approval of the Agency; or\n(h)is not re-appointed when his or her term of office expires.\n[5/2018]\n(2) A member is not entitled to any compensation or other payment or benefit relating to his or her ceasing, for any reason, to hold office as a member."
+   }
+  },
+  {
+   "id": "SG-H1650-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AGENCY"
+   },
+   "heading": {
+    "en": "Other terms and conditions"
+   },
+   "text": {
+    "en": "22. The Minister may specify other terms and conditions of appointment of a member in the instrument of appointment."
+   }
+  },
+  {
+   "id": "SG-H1650-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AGENCY"
+   },
+   "text": {
+    "en": "23. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1650-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AGENCY"
+   },
+   "text": {
+    "en": "24. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1650-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AGENCY"
+   },
+   "text": {
+    "en": "25. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1650-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AGENCY"
+   },
+   "text": {
+    "en": "26. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1650-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AGENCY"
+   },
+   "text": {
+    "en": "27. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1650-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AGENCY"
+   },
+   "heading": {
+    "en": "Procedure generally"
+   },
+   "text": {
+    "en": "28. Except as otherwise provided under this Act or any other Act, the members may regulate their own procedure."
+   }
+  },
+  {
+   "id": "SG-H1650-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AGENCY"
+   },
+   "heading": {
+    "en": "Notice of meetings"
+   },
+   "text": {
+    "en": "29.—(1) The Agency is to hold such meetings as are necessary for performing its functions.\n(2) The Chairperson must appoint the times and places of the meetings of the Agency, and cause notice of those meetings to be given to each member not present when the appointment is made.\n(3) If the Chairperson receives a written request, signed by 4 or more members, that a meeting of the Agency be convened for a purpose specified in the request, the Chairperson must, within 7 days after receiving the request, convene a meeting for that purpose."
+   }
+  },
+  {
+   "id": "SG-H1650-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AGENCY"
+   },
+   "text": {
+    "en": "30. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1650-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AGENCY"
+   },
+   "heading": {
+    "en": "Quorum"
+   },
+   "text": {
+    "en": "31.—(1) The quorum for a meeting of the Agency is the higher of the following:\n(a)one-third of the number of members;\n(b)3 members.\n(2) No business may be transacted at a meeting of the Agency if a quorum is not present."
+   }
+  },
+  {
+   "id": "SG-H1650-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AGENCY"
+   },
+   "heading": {
+    "en": "Presiding at meetings"
+   },
+   "text": {
+    "en": "32.—(1) At a meeting of the Agency, the following person presides:\n(a)if there is a Chairperson and he or she is present and is not interested (within the meaning given by Part 4 of the Public Sector (Governance) Act 2018) in the matter — the Chairperson;\n(b)if there is no Chairperson, or the Chairperson is not present or is interested (within the meaning given by Part 4 of the Public Sector (Governance) Act 2018) in the matter, and there is a Deputy Chairperson who is present and is not interested (within the meaning given by Part 4 of the Public Sector (Governance) Act 2018) in the matter — the Deputy Chairperson;\n(c)in any other case, the member elected, from among the members present at the meeting, to preside.\n[5/2018]\n(2) The person specified in subsection (1)(b) or (c) may perform the functions and exercise the powers of the Chairperson for the purposes of the meeting."
+   }
+  },
+  {
+   "id": "SG-H1650-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AGENCY"
+   },
+   "heading": {
+    "en": "Voting at meetings"
+   },
+   "text": {
+    "en": "33.—(1) Each member has one vote.\n(2) In addition to his or her general vote, the person presiding at a meeting has, in the case of an equality of votes at the meeting, a casting vote.\n(3) A decision is adopted by the Agency at a meeting if it is agreed to by all members present at the meeting without dissent or if a majority of the votes cast on it are in favour of it.\n(4) A member present at a meeting of the Agency is presumed to have agreed to, and to have cast a vote in favour of, a decision of the Agency unless he or she expressly dissents from or votes against the decision at the meeting."
+   }
+  },
+  {
+   "id": "SG-H1650-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AGENCY"
+   },
+   "text": {
+    "en": "34. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1650-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AGENCY"
+   },
+   "heading": {
+    "en": "Execution of documents"
+   },
+   "text": {
+    "en": "35.—(1) The Agency must have a seal.\n(2) The seal of the Agency is to be kept and used as authorised by the Agency.\n(3) A document is duly executed by the Agency if —\n(a)the seal of the Agency is affixed to the document in the presence of one of its members who must sign the document to attest that the seal was so affixed, and the document is signed —\n(i)by any 2 members generally or specially authorised by the Agency for the purpose; or\n(ii)by one member and the Chief Executive; or\n(b)it is signed on behalf of the Agency by a person or persons authorised to do so by the Agency and in accordance with the terms of that authorisation.\n(4) Where a document is to be executed under seal, the Agency may, under subsection (3)(b), authorise one or more of its employees to execute, on the Agency’s behalf, the document under the Agency’s seal in accordance with the terms of that authorisation.\n(5) A document purporting to be executed in accordance with this section is presumed to be duly executed until the contrary is shown.\n(6) All courts, judges and persons acting judicially are to take judicial notice of the imprint of the seal of the Agency appearing on a document.\n(7) When a document is produced bearing a seal purporting to be the seal of the Agency, it is presumed that the seal is the seal of the Agency until the contrary is shown."
+   }
+  },
+  {
+   "id": "SG-H1650-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AGENCY"
+   },
+   "heading": {
+    "en": "Appointment of committees"
+   },
+   "text": {
+    "en": "36.—(1) The Agency may appoint any number of committees that it thinks fit for purposes which, in the opinion of the Agency, would be better regulated and managed by means of those committees.\n(2) A committee appointed under this section may consist of such individuals as the Agency thinks fit, and may include individuals who are not members of the Agency.\n(3) Without limiting subsection (1), the Agency may appoint any committee —\n(a)to advise the Agency on matters relating to the Agency’s functions and powers that are referred to the committee by the Agency; or\n(b)to perform any function or exercise any power of the Agency that is delegated to the committee, if the committee includes at least one member of the Agency.\n(4) An individual must not be appointed as a member of a committee unless, before appointment, he or she discloses to the Agency the details of any interest (within the meaning given by Part 4 of the Public Sector (Governance) Act 2018) the individual may have if he or she were a member of that committee.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H1650-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AGENCY"
+   },
+   "heading": {
+    "en": "Proceedings of committees, etc."
+   },
+   "text": {
+    "en": "37.—(1) Subject to this Act, the Public Sector (Governance) Act 2018 and the control of the Agency, a committee appointed under section 36 may regulate its own proceedings and business.\n[5/2018]\n(2) Section 18 applies, with the necessary modifications, to a committee and the members of the committee."
+   }
+  },
+  {
+   "id": "SG-H1650-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AGENCY"
+   },
+   "heading": {
+    "en": "Ability to delegate"
+   },
+   "text": {
+    "en": "38.—(1) The Agency may delegate any of its functions or powers, either generally or specially and subject to any conditions or restrictions that it thinks fit, to any of the following persons:\n(a)a member of the Agency;\n(b)the Chief Executive or an employee of the Agency;\n(c)a committee of the Agency that includes at least one member of the Agency;\n(d)a company that is incorporated in Singapore and is a subsidiary of the Agency.\n(2) A delegation under subsection (1) must be by written notice given to the delegate.\n(3) Subsection (1) does not apply to any function or power under this Act or any other Act that is declared by this Act or that other Act to be non‑delegable.\n[5/2018]\n(4) A delegation in accordance with this section is not affected —\n(a)by any change in the membership of a committee (where the delegate is the committee), so long as the committee includes at least one member of the Agency; or\n(b)by any change in the individual appointed as the Chief Executive or holding any specified office in the Agency (where the delegate is the Chief Executive or the holder of the specified office).\n[5/2018]\n(5) For the purposes of subsection (1)(d), a company is a subsidiary of the Agency if —\n(a)the Agency is the sole member of that company; or\n(b)the Agency, as a member of that company, holds more than half of the voting power in that company."
+   }
+  },
+  {
+   "id": "SG-H1650-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AGENCY"
+   },
+   "heading": {
+    "en": "Validity of delegate’s acts, etc."
+   },
+   "text": {
+    "en": "39. A delegate who purports to perform a function or exercise a power under delegation —\n(a)is taken to do so in accordance with the terms of the delegation under section 38, unless the contrary is shown; and\n(b)must produce evidence of the delegation, if reasonably requested to do so."
+   }
+  },
+  {
+   "id": "SG-H1650-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 5 PERSONNEL MATTERS"
+   },
+   "heading": {
+    "en": "Chief Executive, officers and employees, etc."
+   },
+   "text": {
+    "en": "40.—(1) There must be a Chief Executive of the Agency, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.\n[5/2018]\n(2) The Agency may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —\n(a)is absent from duty or Singapore; or\n(b)is, for any reason, unable to perform the duties of the office.\n[5/2018]\n(3) The Agency may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H1650-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 5 PERSONNEL MATTERS"
+   },
+   "text": {
+    "en": "41. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1650-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 5 PERSONNEL MATTERS"
+   },
+   "text": {
+    "en": "42. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1650-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 5 PERSONNEL MATTERS"
+   },
+   "heading": {
+    "en": "Preservation of secrecy"
+   },
+   "text": {
+    "en": "43.—(1) The Chief Executive, a member, an employee or a delegate of the Agency, or a committee member, who has information in his or her capacity as such that would not otherwise be available to him or her, must not disclose that information to any person except —\n(a)in the performance of the Agency’s functions;\n(b)with the prior authorisation from the Agency to do so;\n(c)in complying with the requirements in this Act for a member of the Agency or a committee member to disclose an interest;\n(d)as required or allowed by this Act or any other Act; or\n(e)as required by an order of court.\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H1650-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 5 PERSONNEL MATTERS"
+   },
+   "heading": {
+    "en": "Protection from personal liability"
+   },
+   "text": {
+    "en": "44. No liability shall lie against the Chief Executive, any member, employee or delegate of the Agency, any committee member, or any other person acting under the direction of the Agency, for anything which is done or purported to be done, or omitted to be done, in good faith and with reasonable care in —\n(a)the performance or purported performance of any function of the Agency; or\n(b)the exercise or purported exercise of any power of the Agency."
+   }
+  },
+  {
+   "id": "SG-H1650-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Financial year"
+   },
+   "text": {
+    "en": "45. The financial year of the Agency begins on 1 April of each year and ends on 31 March of the succeeding year."
+   }
+  },
+  {
+   "id": "SG-H1650-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Revenue and property of Agency"
+   },
+   "text": {
+    "en": "46.—(1) The funds and property of the Agency include —\n(a)all moneys paid to the Agency by way of grants, subsidies, donations, gifts and contributions for the purposes of the Agency;\n(b)all moneys paid to, and all other moneys and property lawfully received by, the Agency for the purposes of the Agency;\n(c)all fees, charges and other sums paid to the Agency (or an employee of the Agency or any other person acting on behalf of the Agency), under this Act or any other Act administered by the Agency, except as otherwise provided in section 47 or that other Act;\n(d)all moneys, dividends, royalties, interest or income received from any transaction made under the powers of the Agency under this Act or any other Act administered by the Agency;\n(e)all moneys borrowed by the Agency under this Act; and\n(f)all accumulations of income derived from any property or moneys referred to in paragraphs (a) to (e).\n(2) The moneys of the Agency are to be applied only in payment of expenses incurred by it in the discharge of its functions, obligations and liabilities, and in making any payment that the Agency is authorised or required to make."
+   }
+  },
+  {
+   "id": "SG-H1650-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Payments into Consolidated Fund"
+   },
+   "text": {
+    "en": "47. All sums collected for the composition of an offence under this Act or any other Act administered by the Agency must be paid into the Consolidated Fund."
+   }
+  },
+  {
+   "id": "SG-H1650-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Bank accounts"
+   },
+   "text": {
+    "en": "48.—(1) The Agency must open and maintain one or more accounts with such bank or banks as the Agency thinks fit.\n(2) Every account under subsection (1) may only be operated by a person who is authorised to do so by the Agency."
+   }
+  },
+  {
+   "id": "SG-H1650-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "49. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1650-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "50. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1650-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Power of investment"
+   },
+   "text": {
+    "en": "51. The Agency may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965."
+   }
+  },
+  {
+   "id": "SG-H1650-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Issue of shares, etc."
+   },
+   "text": {
+    "en": "52. As a consequence of —\n(a)the vesting of any property, right or liability in the Agency under this Act; or\n(b)any capital injection or other investment by the Government in the Agency in accordance with any other written law,\nthe Agency must issue such shares or other securities to the Minister for Finance as that Minister may direct."
+   }
+  },
+  {
+   "id": "SG-H1650-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Borrowing power"
+   },
+   "text": {
+    "en": "53.—(1) The Agency cannot raise loans for the performance of its functions under this Act or any other Act administered by the Agency except in accordance with this section.\n(2) Subject to subsection (3), the Agency may raise loans by —\n(a)mortgage, overdraft or other means, with or without security;\n(b)charge, whether legal or equitable, on any property vested in the Agency or on any other revenue receivable by the Agency under this Act or any other written law; or\n(c)the creation and issue of debentures or bonds, or such other instrument as the Minister may approve.\n(3) The Agency may raise loans under subsection (2) —\n(a)from the Government; or\n(b)with the approval of the Minister, from another source, whether in or outside Singapore.\n(4) For the purposes of this section, the power to raise loans includes the power to enter into any financial agreement or arrangement under which credit facilities are granted to the Agency for the purchase of goods or services."
+   }
+  },
+  {
+   "id": "SG-H1650-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "54. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1650-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "55."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "55. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1650-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "56."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "56. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1650-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "57."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "57. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1650-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "58."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "58. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1650-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "59."
+   },
+   "chapter": {
+    "en": "PART 7 SECURITY AND RELIABILITY OFSYSTEMS AND SERVICES — PUBLIC SECTOR"
+   },
+   "heading": {
+    "en": "Purpose of this Part"
+   },
+   "text": {
+    "en": "59. The purpose of this Part is to ensure the security and reliability of info‑communications technology and related engineering systems and services in the public sector."
+   }
+  },
+  {
+   "id": "SG-H1650-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "60."
+   },
+   "chapter": {
+    "en": "PART 7 SECURITY AND RELIABILITY OFSYSTEMS AND SERVICES — PUBLIC SECTOR"
+   },
+   "heading": {
+    "en": "Power to issue directives, etc."
+   },
+   "text": {
+    "en": "60. The Agency may develop and issue directives, codes, standards or guidelines for the public sector in relation to the architecture or use of info‑communications technology or related engineering systems or services in the public sector."
+   }
+  },
+  {
+   "id": "SG-H1650-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "61."
+   },
+   "chapter": {
+    "en": "PART 7 SECURITY AND RELIABILITY OFSYSTEMS AND SERVICES — PUBLIC SECTOR"
+   },
+   "heading": {
+    "en": "Monitoring of compliance"
+   },
+   "text": {
+    "en": "61.—(1) The Agency may monitor the public sector’s compliance —\n(a)with the directives, codes, standards or guidelines issued by the Agency under section 60; or\n(b)where a public sector body authorises the Agency to do so, with the directives, codes, standards or guidelines (relating to the architecture or use of info‑communications technology or related engineering systems or services in the public sector) issued or directed by that public sector body.\n(2) For the purpose of subsection (1), the Agency may carry out, or authorise any person to carry out, an audit of the architecture or use of any info-communications technology or related engineering system or service in the public sector.\n(3) The Agency may report on the compliance of a public sector body with any directive, code, standard or guideline mentioned in subsection (1) —\n(a)to the public sector body; or\n(b)to any other person within the public sector."
+   }
+  },
+  {
+   "id": "SG-H1650-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "62."
+   },
+   "chapter": {
+    "en": "PART 7 SECURITY AND RELIABILITY OFSYSTEMS AND SERVICES — PUBLIC SECTOR"
+   },
+   "heading": {
+    "en": "Remedial measures, etc."
+   },
+   "text": {
+    "en": "62.—(1) Where the Agency is of the opinion that additional measures are required to safeguard or restore the security or reliability of any info‑communications technology or related engineering system or service in the public sector, the Agency may, with the authorisation of the Minister —\n(a)implement, or direct the public sector body responsible for that system or service (called in this section the responsible public sector body) to implement, any security, mitigation or recovery measures that the Agency considers necessary; and\n(b)direct the deployment of any resources (including personnel) of the responsible public sector body, that the Agency considers necessary, for the purpose of implementing the measures.\n(2) In this section, “measures” includes the development and implementation of systems and services."
+   }
+  },
+  {
+   "id": "SG-H1650-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "63."
+   },
+   "chapter": {
+    "en": "PART 7 SECURITY AND RELIABILITY OFSYSTEMS AND SERVICES — PUBLIC SECTOR"
+   },
+   "heading": {
+    "en": "Power to obtain information, etc."
+   },
+   "text": {
+    "en": "63.—(1) For the purposes of sections 61 and 62, the Agency may require a public sector body to grant access, or make the necessary arrangements for access to be granted, to the Agency or any person authorised by the Agency in respect of —\n(a)any information or document relating to any info‑communications technology or related engineering system or service;\n(b)any info‑communications technology or related engineering system or service; or\n(c)any premises containing that information or document, or that info‑communications technology or related engineering system or service.\n(2) The Agency’s powers under subsection (1) are subject to any other Act that prohibits or restricts the disclosure of information."
+   }
+  },
+  {
+   "id": "SG-H1650-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "64."
+   },
+   "chapter": {
+    "en": "PART 8 SECURITY AND RELIABILITY OF SYSTEMSAND SERVICES — PUBLIC ENTITIES"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "64. In this Part, unless the context otherwise requires —\n“designated public entity” means a public entity that is declared by the Minister under section 66(3) to be a designated public entity;\n“relevant system or service”, in relation to a designated public entity, means the system or service of the designated public entity in respect of which arrangements are established under section 66;\n“responsible Minister”, in relation to a public entity or designated public entity, means the Minister charged with the responsibility for —\n(a)the sector or industry that includes the public entity or designated public entity; or\n(b)the public authority that regulates the public entity or designated public entity."
+   }
+  },
+  {
+   "id": "SG-H1650-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "65."
+   },
+   "chapter": {
+    "en": "PART 8 SECURITY AND RELIABILITY OF SYSTEMSAND SERVICES — PUBLIC ENTITIES"
+   },
+   "heading": {
+    "en": "Responsible Minister’s request to Agency"
+   },
+   "text": {
+    "en": "65. A responsible Minister may request the Agency to assist a public entity to ensure the security or reliability of any info‑communications technology or related engineering system or service of the public entity if the responsible Minister is of the opinion that —\n(a)the security or reliability of the system or service is at significant risk or has been significantly compromised; and\n(b)it is in the public interest, or in the interest of public safety or the security of Singapore, to make the request to the Agency."
+   }
+  },
+  {
+   "id": "SG-H1650-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "66."
+   },
+   "chapter": {
+    "en": "PART 8 SECURITY AND RELIABILITY OF SYSTEMSAND SERVICES — PUBLIC ENTITIES"
+   },
+   "heading": {
+    "en": "Arrangements with public entity"
+   },
+   "text": {
+    "en": "66.—(1) Upon the responsible Minister making a request under section 65, the Minister charged with the responsibility for the Agency may direct the Agency to establish the necessary arrangements with the public entity on the steps that the Agency may take under section 67, including with respect to —\n(a)the matters in respect of which the Agency may exercise its powers under section 67; and\n(b)the methodologies and procedures to be adopted by the Agency when exercising its powers under section 67.\n(2) The arrangements established under subsection (1) must be submitted to the responsible Minister for his or her approval.\n(3) After the responsible Minister approves the arrangements, the Minister charged with the responsibility for the Agency may, by notification in the Gazette, declare the public entity to be a designated public entity and specify the date on which the arrangements are to take effect.\n(4) The Agency and the designated public entity may, at any time, by agreement, vary the arrangements with the approval of the responsible Minister."
+   }
+  },
+  {
+   "id": "SG-H1650-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "67."
+   },
+   "chapter": {
+    "en": "PART 8 SECURITY AND RELIABILITY OF SYSTEMSAND SERVICES — PUBLIC ENTITIES"
+   },
+   "heading": {
+    "en": "Agency’s powers"
+   },
+   "text": {
+    "en": "67. Subject to the arrangements established and approved under section 66, the Agency may do any or all of the following in relation to the designated public entity:\n(a)develop, and recommend to the designated public entity, directives, codes, standards or guidelines in relation to the architecture or use of the relevant system or service of the designated public entity;\n(b)carry out an audit, or require an audit to be carried out, of the architecture or use of the relevant system or service;\n(c)advise the designated public entity to implement any security, mitigation or recovery measures that the Agency considers necessary;\n(d)advise the designated public entity on the deployment of any resources (including personnel) of the designated public entity, that the Agency considers necessary, for the purpose of implementing the measures;\n(e)report to the designated public entity and the responsible Minister on the matter, including on the outcome of the investigations undertaken by, and the status of the designated public entity’s adoption and implementation of any advice or recommendation of, the Agency."
+   }
+  },
+  {
+   "id": "SG-H1650-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "68."
+   },
+   "chapter": {
+    "en": "PART 9 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "68.—(1) The Chief Executive, or an employee of the Agency authorised in writing by the Agency, may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:\n(a)one half of the amount of the maximum fine that is prescribed for the offence;\n(b)$2,000.\n(2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence."
+   }
+  },
+  {
+   "id": "SG-H1650-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "69."
+   },
+   "chapter": {
+    "en": "PART 9 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Offences by corporations"
+   },
+   "text": {
+    "en": "69.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that —\n(a)an officer, employee or agent of the corporation engaged in that conduct within the scope of his or her actual or apparent authority; and\n(b)the officer, employee or agent had that state of mind,\nis evidence that the corporation had that state of mind.\n(2) Where a corporation commits an offence under this Act, a person —\n(a)who is —\n(i)an officer of the corporation; or\n(ii)an individual involved in the management of the corporation and in a position to influence the conduct of the corporation in relation to the commission of the offence; and\n(b)who —\n(i)consented or connived, or conspired with others, to effect the commission of the offence;\n(ii)is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the corporation; or\n(iii)knew or ought reasonably to have known that the offence by the corporation (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,\nshall be guilty of that same offence as is the corporation, and shall be liable on conviction to be punished accordingly.\n(3) A person mentioned in subsection (2) may rely on a defence that would be available to the corporation if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the corporation would bear.\n(4) To avoid doubt, this section does not affect the application of —\n(a)Chapters 5 and 5A of the Penal Code 1871; or\n(b)the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence.\n(5) To avoid doubt, subsection (2) also does not affect the liability of the corporation for an offence under this Act, and applies whether or not the corporation is convicted of the offence.\n(6) In this section —\n“corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act 2005;\n“officer”, in relation to a corporation, means any director, partner, chief executive, manager, secretary or other similar officer of the corporation, and includes —\n(a)any person purporting to act in any such capacity; and\n(b)for a corporation whose affairs are managed by its members, any of those members as if the member were a director of the corporation;\n“state of mind” of a person includes —\n(a)the knowledge, intention, opinion, belief or purpose of the person; and\n(b)the person’s reasons for the intention, opinion, belief or purpose."
+   }
+  },
+  {
+   "id": "SG-H1650-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "70."
+   },
+   "chapter": {
+    "en": "PART 9 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Offences by unincorporated associations or partnerships"
+   },
+   "text": {
+    "en": "70.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that —\n(a)an employee or agent of the unincorporated association or partnership engaged in that conduct within the scope of his or her actual or apparent authority; and\n(b)the employee or agent had that state of mind,\nis evidence that the unincorporated association or partnership had that state of mind.\n(2) Where an unincorporated association or a partnership commits an offence under this Act, a person —\n(a)who is —\n(i)an officer of the unincorporated association or a member of its governing body;\n(ii)a partner in the partnership; or\n(iii)an individual involved in the management of the unincorporated association or partnership and in a position to influence the conduct of the unincorporated association or partnership (as the case may be) in relation to the commission of the offence; and\n(b)who —\n(i)consented or connived, or conspired with others, to effect the commission of the offence;\n(ii)is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the unincorporated association or partnership; or\n(iii)knew or ought reasonably to have known that the offence by the unincorporated association or partnership (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,\nshall be guilty of the same offence as is the unincorporated association or partnership (as the case may be), and shall be liable on conviction to be punished accordingly.\n(3) A person mentioned in subsection (2) may rely on a defence that would be available to the unincorporated association or partnership if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the unincorporated association or partnership would bear.\n(4) To avoid doubt, this section does not affect the application of —\n(a)Chapters 5 and 5A of the Penal Code 1871; or\n(b)the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence.\n(5) To avoid doubt, subsection (2) also does not affect the liability of an unincorporated association or a partnership for an offence under this Act, and applies whether or not the unincorporated association or partnership is convicted of the offence.\n(6) In this section —\n“officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes —\n(a)any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; and\n(b)any person purporting to act in any such capacity;\n“partner” includes a person purporting to act as a partner;\n“state of mind” of a person includes —\n(a)the knowledge, intention, opinion, belief or purpose of the person; and\n(b)the person’s reasons for the intention, opinion, belief or purpose."
+   }
+  },
+  {
+   "id": "SG-H1650-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "71."
+   },
+   "chapter": {
+    "en": "PART 9 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "71.—(1) A document that is permitted or required by this Act to be served on a person may be served as described in this section.\n(2) A document permitted or required by this Act to be served on an individual may be served —\n(a)by giving it to the individual personally;\n(b)by sending it by prepaid registered post to the address specified by the individual for the service of documents or, if no address is so specified, the individual’s residential address or business address;\n(c)by leaving it at the individual’s residential address with an adult apparently resident there, or at the individual’s business address with an adult apparently employed there;\n(d)by affixing a copy of the document in a conspicuous place at the individual’s residential address or business address;\n(e)by sending it by fax to the fax number given by the individual as the fax number for the service of documents; or\n(f)by sending it by email to the individual’s email address.\n(3) A document permitted or required by this Act to be served on a partnership (other than a limited liability partnership) may be served —\n(a)by giving it to any partner or other similar officer of the partnership;\n(b)by leaving it at, or by sending it by prepaid registered post to, the partnership’s business address;\n(c)by sending it by fax to the fax number used at the partnership’s business address; or\n(d)by sending it by email to the partnership’s email address.\n(4) A document permitted or required by this Act to be served on a body corporate (including a limited liability partnership) or unincorporated association may be served —\n(a)by giving it to the secretary or other similar officer of the body corporate or unincorporated association, or the manager of the limited liability partnership;\n(b)by leaving it at, or by sending it by prepaid registered post to, the body corporate’s or unincorporated association’s registered office or principal office in Singapore;\n(c)by sending it by fax to the fax number used at the body corporate’s or unincorporated association’s registered office or principal office in Singapore; or\n(d)by sending it by email to the body corporate’s or unincorporated association’s email address.\n(5) Service of a document under this section takes effect —\n(a)if the document is sent by fax and a notification of successful transmission is received, on the day of transmission;\n(b)if the document is sent by email, at the time that the email becomes capable of being retrieved by the person; and\n(c)if the document is sent by prepaid registered post, 2 days after the day the document was posted (even if it is returned undelivered).\n(6) However, this section does not apply to documents to be served in proceedings in court.\n(7) In this section —\n“business address” means —\n(a)in the case of an individual, the individual’s usual or last known place of business in Singapore; or\n(b)in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore;\n“email address” means the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act;\n“residential address” means an individual’s usual or last known place of residence in Singapore."
+   }
+  },
+  {
+   "id": "SG-H1650-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "72."
+   },
+   "chapter": {
+    "en": "PART 9 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Exclusion of public authority"
+   },
+   "text": {
+    "en": "72. The Minister may, by written notice to the Agency and a public authority, exclude that public authority from the application of any provision of this Act where the application of that provision to that public authority is inappropriate."
+   }
+  },
+  {
+   "id": "SG-H1650-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "73."
+   },
+   "chapter": {
+    "en": "PART 9 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "73. The Agency may, with the approval of the Minister, make regulations prescribing matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act."
+   }
+  },
+  {
+   "id": "SG-H1650-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "74."
+   },
+   "chapter": {
+    "en": "PART 10 TRANSFER OF UNDERTAKINGS ANDPERSONNEL TO AGENCY"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "74. In this Part, unless the context otherwise requires —\n“agreement” includes an arrangement and an undertaking;\n“asset”, in relation to the transferor, means property of any kind (whether tangible or intangible, whether arising from, accruing under, created or evidenced by or the subject of, an instrument or otherwise and whether actual or contingent) of the transferor on the eve of the transfer date and includes, without limitation, any —\n(a)legal or equitable interest in real or personal property, whether situated in or outside Singapore;\n(b)chose in action;\n(c)money or securities;\n(d)plant and equipment, whether situated in or outside Singapore;\n(e)intellectual property;\n(f)infrastructure, whether situated in or outside Singapore; and\n(g)right;\n“Info-communications Development Authority of Singapore” means the Info-communications Development Authority of Singapore established by section 3 of the Info‑communications Development Authority of Singapore Act (Cap. 137A, 2000 Revised Edition);\n“liability”, in relation to the transferor, means any liability, debt or obligation (whether actual or contingent, liquidated or unliquidated, and whether owed alone or jointly, or jointly and severally, with any other person) of the transferor on the eve of the transfer date;\n“records”, in relation to the transferor, means registers, papers, documents, minutes, receipts, books of account and other records, however compiled, recorded or stored, of the transferor existing on the eve of the transfer date;\n“right”, in relation to the transferor, means any right, power, privilege or immunity of the transferor on the eve of the transfer date;\n“transfer date” means 1 October 2016;\n“transferor” means the Info‑communications Development Authority of Singapore;\n“transferring IDA employee” means an employee of the Info‑communications Development Authority of Singapore who, on the eve of the transfer date, is in the Government Technology Agency Designate Wing of the Info‑communications Development Authority of Singapore;\n“transferring IDA function” means the functions discharged by the Government Technology Agency Designate Wing of the Info-communications Development Authority of Singapore on the eve of the transfer date."
+   }
+  },
+  {
+   "id": "SG-H1650-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "75."
+   },
+   "chapter": {
+    "en": "PART 10 TRANSFER OF UNDERTAKINGS ANDPERSONNEL TO AGENCY"
+   },
+   "heading": {
+    "en": "Transfer of undertakings to Agency"
+   },
+   "text": {
+    "en": "75.—(1) On the transfer date, all assets and liabilities of the Info‑communications Development Agency of Singapore, to the extent that they relate, directly or indirectly, to the transferring IDA function, are transferred to the Agency.\n(2) A certificate signed by the Minister certifying whether an asset or a liability specified in the certificate has been transferred to the Agency under subsection (1) is admissible in evidence in any proceedings as proof of the matters stated in the certificate.\n(3) When any asset or liability of the transferor is transferred to the Agency under subsection (1), the following provisions have effect:\n(a)the asset vests in the Agency without the need for any further conveyance, transfer, assignment or assurance;\n(b)the liability becomes the liability of the Agency;\n(c)all legal or other proceedings relating to that asset or liability that are pending immediately before the transfer date by or against the transferor (or a predecessor of the transferor) are taken to be proceedings pending by or against the Agency;\n(d)any legal or other proceedings relating to that asset or liability which could have been started immediately before the transfer date by or against the transferor (or a predecessor of the transferor) may be started by or against the Agency;\n(e)a judgment or order of a court or other tribunal obtained before the transfer date by or against the transferor (or a predecessor of the transferor) relating to that asset or liability becomes enforceable by or against the Agency;\n(f)any document in any legal or other proceedings relating to that asset or liability that has been served on or by the transferor (or a predecessor of the transferor) before the transfer date is taken, where appropriate, to have been served on or by the Agency;\n(g)any act, matter or thing done or omitted to be done before the transfer date in relation to that asset or liability by, to or in respect of the transferor (or a predecessor of the transferor) is (to the extent to which that act, matter or thing has any force or effect) taken to have been done or omitted to be done by, to or in respect of the Agency;\n(h)a reference to the transferor (or a predecessor of the transferor) in any Act, any instrument made under any Act, any agreement or any document of any kind is taken to be or includes (to the extent to which the reference relates to that asset or liability) a reference to the Agency;\n(i)any agreement relating to that asset or liability and to which the transferor (or a predecessor of the transferor) is a party becomes enforceable by or against the Agency.\n(4) The operation of this section does not —\n(a)constitute a breach of, or default under, any Act or other law, or any agreement, or otherwise a civil wrong or criminal wrong;\n(b)constitute a breach of duty of confidence (whether arising by contract, in equity, by custom, or in any other way);\n(c)constitute a breach of any contractual provision prohibiting, restricting or regulating the assignment or transfer of assets or liabilities or the disclosure of any information;\n(d)constitute a termination of any agreement or obligation, fulfil any condition that allows a person to terminate or otherwise releases a person from any agreement or obligation, or give rise to any right or remedy in respect of any agreement or obligation; or\n(e)constitute frustration of any contract, or cause any agreement to be void or otherwise unenforceable.\n(5) No attornment to the Agency by a lessee of the transferor is required."
+   }
+  },
+  {
+   "id": "SG-H1650-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "76."
+   },
+   "chapter": {
+    "en": "PART 10 TRANSFER OF UNDERTAKINGS ANDPERSONNEL TO AGENCY"
+   },
+   "heading": {
+    "en": "Transfer of employees to Agency"
+   },
+   "text": {
+    "en": "76.—(1) On the transfer date, every transferring IDA employee —\n(a)stops being an employee of the transferor; and\n(b)is each transferred to the service, and becomes an employee, of the Agency on terms no less favourable than those enjoyed by the employee on the eve of the transfer date.\n(2) A certificate signed by the Minister certifying whether an individual named in the certificate has been transferred to the service of the Agency under subsection (1) is admissible in evidence in any proceedings as proof of the matters stated in the certificate.\n(3) The transfer of an employee of the transferor to the Agency under subsection (1) —\n(a)does not interrupt continuity of that employee’s service;\n(b)does not constitute a retrenchment or redundancy of that employee’s employment by the transferor; and\n(c)does not entitle that employee to any compensation or other payment or benefit merely because he or she stops being employed by the transferor.\n(4) Nothing in this section prevents —\n(a)any of the terms and conditions of employment of an individual transferred to the service of the Agency under subsection (1) from being altered by or under any law, award or agreement with effect from any time after the transfer date; and\n(b)an individual transferred to the service of the Agency under subsection (1) from resigning from that service any time after the transfer date, in accordance with the terms and conditions of his or her employment then applicable.\n(5) To avoid doubt, section 18A of the Employment Act 1968 does not apply to the transfer of any employee of the transferor to the service of the Agency under subsection (1)."
+   }
+  },
+  {
+   "id": "SG-H1650-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "77."
+   },
+   "chapter": {
+    "en": "PART 10 TRANSFER OF UNDERTAKINGS ANDPERSONNEL TO AGENCY"
+   },
+   "heading": {
+    "en": "General preservation of employment terms, etc."
+   },
+   "text": {
+    "en": "77.—(1) When an employee of the transferor is transferred to the service of the Agency under section 76(1) (called in this section a transferred employee), the transferred employee’s service with the Agency must be regarded for all purposes as having been continuous with his or her service with the transferor immediately before the transfer date.\n(2) On the transfer date —\n(a)a transferred employee retains all accrued rights as if his or her employment with the Agency were a continuation of employment with the transferor;\n(b)the liabilities of the transferor relating to the transferred employee’s accrued rights to annual, sick, maternity or other leave and superannuation become the liabilities of the Agency; and\n(c)a reference in the contract of employment that had effect in relation to the transferred employee immediately before the transfer date is taken to be, or includes, a reference to the Agency.\n(3) Until the time the Agency draws up the terms and conditions of employment for the transferred employee, the Agency is to be regarded as employing the transferred employee on the same terms and conditions of his or her employment with the transferor on the eve of the transfer date.\n(4) Any term or condition of employment drawn up by the Agency relating to the length of service of the transferred employee with the Agency must recognise the length of service of that employee with the transferor (including any previous service of that employee taken to be service with the transferor) to be service with the Agency.\n(5) For any conduct of the transferred employee when he or she was employed by the transferor which would have rendered that employee liable to be reprimanded, reduced in rank, retired, dismissed or punished by the transferor, the Agency may —\n(a)start any disciplinary proceedings against that employee;\n(b)carry on and complete any disciplinary proceedings started by the transferor against that employee if those proceedings are pending on the eve of the transfer date; and\n(c)reprimand, reduce in rank, retire, dismiss or otherwise punish that employee as if that employee were not transferred.\n(6) Where, on the eve of the transfer date, any matter about the conduct of the transferred employee during his or her employment with the transferor concerned —\n(a)was in the course of being heard or investigated by a committee of the transferor acting under due authority; or\n(b)had been heard or investigated, but no order, ruling or direction had been made, by that committee,\nthat committee must complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before that date, and that order, ruling or direction is to be regarded as an order, ruling or direction of the Agency."
+   }
+  },
+  {
+   "id": "SG-H1650-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "78."
+   },
+   "chapter": {
+    "en": "PART 10 TRANSFER OF UNDERTAKINGS ANDPERSONNEL TO AGENCY"
+   },
+   "heading": {
+    "en": "Transfer of records"
+   },
+   "text": {
+    "en": "78. On the transfer date, every record, or part of a record, of the transferor that relates to the following becomes the record of the Agency:\n(a)any asset or liability transferred to the Agency under section 75(1);\n(b)any transferring IDA employee."
+   }
+  },
+  {
+   "id": "SG-H1650-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "79."
+   },
+   "chapter": {
+    "en": "PART 11 SAVING AND TRANSITIONAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "79. In this Part, unless the context otherwise requires —\n“Former IDA” means the Info-communications Development Authority of Singapore established by section 3 of the Info‑communications Development Authority of Singapore Act (Cap. 137A, 2000 Revised Edition);\n“transfer date” means 1 October 2016;\n“transferring IDA function”, in relation to the Former IDA, has the meaning given by section 74."
+   }
+  },
+  {
+   "id": "SG-H1650-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "80."
+   },
+   "chapter": {
+    "en": "PART 11 SAVING AND TRANSITIONAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "80.—(1) This Part applies in respect of the Former IDA in relation to the transferring IDA function.\n(2) This Part does not affect the operation of, or derogate from —\n(a)any provision in Part 10; or\n(b)section 16 of the Interpretation Act 1965."
+   }
+  },
+  {
+   "id": "SG-H1650-A81",
+   "no": 81,
+   "noLabel": {
+    "en": "81."
+   },
+   "chapter": {
+    "en": "PART 11 SAVING AND TRANSITIONAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Saving and transitional provisions"
+   },
+   "text": {
+    "en": "81.—(1) Any guideline or standard of performance that is issued by the Former IDA for the public sector (in relation to the transferring IDA function) under the Info‑communications Development Authority of Singapore Act (Cap. 137A, 2000 Revised Edition), and is in force immediately before the transfer date, remains in force and is deemed to have been issued by the Agency under this Act, to the extent that it is not inconsistent with this Act.\n(2) Every act done by or on behalf of the Former IDA (in relation to the transferring IDA function) has effect as though it was done by or on behalf of the Agency, and remains in force until the Agency invalidates, revokes, cancels or otherwise determines that act.\n(3) Where anything has been started by or on behalf of the Former IDA (in relation to the transferring IDA function) before the transfer date, the Agency may carry on and complete that thing on or after that date."
+   }
+  }
+ ]
+}

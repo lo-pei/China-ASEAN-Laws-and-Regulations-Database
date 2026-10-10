@@ -1,0 +1,184 @@
+{
+ "id": "PH-H4899",
+ "title": {
+  "zh": null,
+  "en": "The Charter of the City of General Santos.",
+  "orig": "An Act Amending and Repealing Certain Sections of Republic Act Numbered Fifty-Four Hundred Twelve, Known as \"The Charter of the City of General Santos.\""
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p69",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1971-08-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6386",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 14,
+ "chars": 4018,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1971/ra_6386_1971.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 14 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1971/ra_6386_1971.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 29 条，缺 11、12、13、14、15、16、17、18、19、21、22、23、24、26、27、28）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号。 源文存在同号重出的条款（第 8 条）：该处官方页面确有两段均标同一 Section 号，本库照录其 `no` 值（不改动官方编号），条文 `id` 以 `_2`「_3」后缀保证唯一。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4899-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section eight of Republic Act Numbered Fifty-four hundred twelve is hereby amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H4899-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "The Mayor. -The Mayor shall be the chief executive of the city. He shall be elected at large by the qualified voters of the city. No person shall be eligible for the position of mayor unless at the date of the election he is at least twenty-five years of age, a resident of the city for at least two years prior to his election, and a qualified voter therein. He shall hold office for four years until his successor shall have been duly elected and qualified, unless sooner removed for cause and shall receive a salary of thirteen thousand eight hundred pesos per annum \""
+   }
+  },
+  {
+   "id": "PH-H4899-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The first paragraph and subparagraph (b), of Section ten of the same Act are also amended to read as follows:\n\"SEC. 10. General Powers and Duties of the Mayor. - The mayor shall have immediate supervision and control over the executive and administrative functions of the different departments of the city. * * * \"(b) To safeguard all the lands, buildings, records, moneys, credits, and other property and rights of the city, and, subject to the provisions of this Charter, have supervision and control over all its property;\""
+   }
+  },
+  {
+   "id": "PH-H4899-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Subparagraph (rr) of Section sixteen of the same Act is hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H4899-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Section twenty of the same Act is also amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H4899-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "text": {
+    "en": "Appointment and removal of officials and employees .-The President of the Philippines, with the consent of the Commission on Appointments, shall appoint the city judges and the auxiliary judges of the city; the city treasurer, the city engineer, the city fiscal and his assistants, the city health officer, and the city superintendent of schools. Said officers shall not be suspended nor removed except in the manner and for causes provided by law. Subject to the provisions of the Civil Service Law, the mayor, from a list of nominees recommended by the department head or chief of office concerned, shall appoint all other officers and employees paid out of city funds and they shall not be suspended or removed except in accordance with law.\""
+   }
+  },
+  {
+   "id": "PH-H4899-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "The first paragraph of Section twenty-five of the same Act is also amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H4899-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "text": {
+    "en": "Execution of authorized public works and Improvements. -All public works constructions, repair and improvements of the city shall be carried out by administration of the Office of the City Engineer. The approval of plans and specifications thereof by the city mayor with the favorable recommendation of the city council and the city engineer shall constitute sufficient warrant for the undertaking and execution of said projects.\""
+   }
+  },
+  {
+   "id": "PH-H4899-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "The first paragraph of Section twenty-nine of the same Act is also amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H4899-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "text": {
+    "en": "The Chief of Police. -His powers, duties and compensation.-There shall be a chief of police who shall have immediate charge of the police department and shall perform such duties prescribed by the Police Act of Nineteen hundred sixty-six in addition to those enumerated in this section and shall receive a salary in accordance with law.\""
+   }
+  },
+  {
+   "id": "PH-H4899-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "Section thirty-one of the same Act is repealed without prejudice to the retention of the incumbent who shall be absorbed by the other units or divisions of the Police Department: Provided, That he possesses the necessary qualifications prescribed by the Civil Service Law and the Police Act of Nineteen hundred sixty-six."
+   }
+  },
+  {
+   "id": "PH-H4899-A8_2",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "The title of article nineteen of the same Act is hereby amended to read as follows:\n\"Article XIX.-Disposition of lands of the public domain within the city.\""
+   }
+  },
+  {
+   "id": "PH-H4899-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "text": {
+    "en": "Section ninety-eight of the same Act is hereby amended to read as follows:\n\"Section 98. The disposition of all lands of the public domain within the city shall be in accordance with the provisions of Commonwealth Act Numbered One hundred and forty-one, as amended: Provided, That all incomes and receipts derived from such disposition shall accrue exclusively to the city as provided in this Act.\""
+   }
+  },
+  {
+   "id": "PH-H4899-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 16, 1971."
+   }
+  }
+ ]
+}

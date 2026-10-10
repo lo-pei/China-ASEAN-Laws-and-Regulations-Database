@@ -1,0 +1,637 @@
+{
+ "id": "PH-H4533",
+ "title": {
+  "zh": null,
+  "en": "An Act Regulating the Practice of Pharmacy and Setting Standards of Pharmaceutical Education in the Philippines and for Other Purposes.",
+  "orig": "An Act Regulating the Practice of Pharmacy and Setting Standards of Pharmaceutical Education in the Philippines and for Other Purposes."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p64",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1969-06-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 5921",
+ "officialCode": null,
+ "topics": [
+  "education",
+  "health"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 46,
+ "chars": 36672,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1969/ra_5921_1969.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 46 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1969/ra_5921_1969.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4533-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Objectives. This Act provides for and shall govern (a) the standardization and regulation of pharmaceutical education; (b) the examination for registration of graduates of schools of pharmacy and (c) the supervision, control and regulation of the practice of pharmacy in the Philippines."
+   }
+  },
+  {
+   "id": "PH-H4533-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Enforcement. For the purposes of implementing the provisions of this Act, the Council of Pharmaceutical Education and the Board of Pharmacy are hereby created.\nThe Council of Pharmaceutical Education"
+   }
+  },
+  {
+   "id": "PH-H4533-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "chapter": {
+    "en": "ARTICLE II"
+   },
+   "text": {
+    "en": "The Council of Pharmaceutical Education and its composition. The Council of Pharmaceutical Education shall be composed of the Secretary of Education, Chairman, the Undersecretary of Health Services, the Food and Drug Administrator, the Chairman of the Board of Pharmacy, the dean of the College of Pharmacy, University of the Philippines, the dean of a college of pharmacy, representing duly accredited private schools of pharmacy, and a representative of the bona fide national pharmaceutical organizations in the Philippines.\nIt shall be incumbent upon all deans of duly accredited colleges of pharmacy of private colleges and universities by agreement among themselves to promulgate rules and regulations regarding the selection of one from among their group to represent them in the said Council and it shall be incumbent upon all presidents of bona fide national pharmaceutical organizations in the Philippines by agreement to promulgate rules and regulations regarding the selection of one from among them to represent them in the said Council.\nThe members of the Council shall hold office until their successors have been appointed, elected or designated and duly qualified."
+   }
+  },
+  {
+   "id": "PH-H4533-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "chapter": {
+    "en": "ARTICLE II"
+   },
+   "text": {
+    "en": "Functions. The functions of the Council of Pharmaceutical Education shall be:\n(a) To promulgate rules and regulations relative to Pharmaceutical Education in the Philippines;\n(b) To submit such rules and regulations, which shall have a binding effect, for implementation to the proper agencies such as Department of Education, the Board of Pharmacy, the bona fide national pharmaceutical organizations in the Philippines and others;\n(c) To recognize and accredit colleges of pharmacy in the different private colleges and universities; and\n(d) To approve the accreditation of community or prescription pharmacies, pharmaceutical manufacturing laboratories and hospital pharmacies for purposes of pharmacy internship."
+   }
+  },
+  {
+   "id": "PH-H4533-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "chapter": {
+    "en": "ARTICLE II"
+   },
+   "text": {
+    "en": "Meetings and traveling expenses. The Council of Pharmaceutical Education shall meet at least once a month for regular business and as often as the Council may decide. The Chairman and members of the Council of Pharmaceutical Education shall not be entitled to any compensation except for traveling expenses in connection with their official duties as herein provided.\nThe Board of Pharmacy and Examination and Registration of Pharmacists"
+   }
+  },
+  {
+   "id": "PH-H4533-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "chapter": {
+    "en": "ARTICLE III"
+   },
+   "text": {
+    "en": "The Board of Pharmacy and its Composition. The Board of Pharmacy shall be composed of a Chairman and two members who shall be appointed by the President of the Philippines with the consent of the Commission of Appointments, from a list of nominees recommended by the Commissioner of Civil Service who shall secure such lists from bona fide professional national organizations of pharmacists which should be certified in accordance with Republic Act Numbered Five hundred forty-six."
+   }
+  },
+  {
+   "id": "PH-H4533-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "chapter": {
+    "en": "ARTICLE III"
+   },
+   "text": {
+    "en": "Qualification of Board members. To be appointed a member of the Board of Pharmacy, a person shall be:\n(a) A natural born citizen of the Philippines;\n(b) A duly registered pharmacist and has been in the practice of pharmacy for at least ten years;\n(c) Of good moral character and of recognized standing in the pharmaceutical profession;\n(d) At the time of appointment, not a member of the faculty of any school, college or university offering courses in pharmacy; nor have any direct or indirect pecuniary interests in such school or college of pharmacy; and\n(e) A member of good standing of any bona fide national pharmaceutical association of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H4533-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "chapter": {
+    "en": "ARTICLE III"
+   },
+   "text": {
+    "en": "Tenure of office and fees of board members. The Chairman and members of the Board of Pharmacy shall hold office for three years after appointment or until their successors shall have been appointed and duly qualified: Provided , That members of the first Board to be appointed after the approval of this Act shall hold office for the following terms: Chairman for three years, one member for two years and one member for one year: Provided , further, That any chairman or member may be reappointed for another term of three years but in no case shall be serve continuously for more than six years. The most senior member of the Board shall automatically be the Chairman.\nThe Chairman and members of the Board shall each receive the sum of ten pesos for each applicant examined regardless of whether or not he is already in the government service when appointed."
+   }
+  },
+  {
+   "id": "PH-H4533-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "chapter": {
+    "en": "ARTICLE III"
+   },
+   "text": {
+    "en": "Removal of the Board members. The chairman or member of the Board may be removed by the President of the Philippines if found guilty of neglect of duty, incompetence, malpractice, or unprofessional, unethical, immoral, or dishonorable conduct, after having been given the opportunity to defend himself in a proper administrative investigation. The President may in his discretion suspend such member under investigation: Provided, however , That the period of suspension shall not exceed sixty days after which the latter shall be automatically reinstated pending the outcome of the investigation."
+   }
+  },
+  {
+   "id": "PH-H4533-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "chapter": {
+    "en": "ARTICLE III"
+   },
+   "text": {
+    "en": "Executive Officer of the Board. The Commissioner of Civil Service shall be the Executive Officer of the Board and shall conduct the examination given by it according to the rules and regulations promulgated by him and approved by the President of the Philippines. The Secretary of the Board of Examiners in accordance with Republic Act Numbered Five hundred and forty six shall also be the Secretary of the Board. To assist both officials, there shall be appointed from the ranking employees of the Board of Examiners, an Assistant Secretary, a Legal Officer and a Records Officer with compensation of eight thousand eight hundred thirty-two pesos, seven thousand two hundred thirty-six pesos and five thousand nine hundred twenty-eight pesos, respectively who may also perform identical functions for the other existing examination boards. All the records of the Board including examination papers, minutes of deliberation and records of administrative proceedings shall be kept by the Secretary of the Board."
+   }
+  },
+  {
+   "id": "PH-H4533-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "chapter": {
+    "en": "ARTICLE III"
+   },
+   "text": {
+    "en": "Powers and duties of the Board. The Board of Pharmacy, conformably with the provisions of this Act is vested with authority:\n(a) To examine applicants for the practice of pharmacy;\n(b) To issue certificates of registration or pharmacists.\n(c) To reprimand any pharmacist or to suspend or revoke his certificate of registration on the grounds as provided for in Section thirteen hereof, after a formal administrative investigation has been conducted by it.\n(d) To promulgate from time to time the necessary rules and regulations for the effective enforcement of this Act, subject to the approval of the President upon advice of the Commissioner of Civil Service;\n(e) To study the conditions affecting the practice of pharmacy in the Philippines;\n(f) To check the employment of qualified personnel in drug stores, hospital pharmacies, drug or pharmaceutical laboratories, cosmetic laboratories and similar establishments for which the Board may designate inspectors from the Board of Pharmacy; and\n(g) To encourage the development of botanical gardens and their inspection particularly the propagation of Philippine medicinal plants with the cooperation of the Department of Agriculture and Natural Resources."
+   }
+  },
+  {
+   "id": "PH-H4533-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "chapter": {
+    "en": "ARTICLE III"
+   },
+   "text": {
+    "en": "Detailmen, requirements, qualifications and fees. Any person who shall be employed as detailman by any pharmaceutical or drug laboratory or other manufacturers of medical, dental pharmaceutical, biological and veterinary products and by distributors, dealers or wholesalers of said products, doing business directly or indirectly in the Philippines, shall be required, at the beginning of each year, to register with the Board of Pharmacy that he is employed as such.\n(a) An applicant for registration shall be, preferably, a graduate of a college of pharmacy.\nThere shall be an initial fee of twenty pesos upon registration and thereafter fifteen pesos shall be charged annually for renewal. Upon payment of said fees, the proper credential shall be issued to the applicant.\n(b) It shall be incumbent upon the drug establishments referred to in this section to require that detailmen employed or to be employed by them possess the necessary credentials issued by the Board of Pharmacy as provided for herein.\nFor purposes of this section, a detailman is one who represents any duly authorized manufacturer, dealer, distributor, representative or wholesaler of drugs, pharmaceuticals, biologic products and devices, whose primary duty is to introduce or reacquaint a product or products prepared, distributed or made by said manufacturers, dealer, distributor, representative or wholesaler to the physician, dentist, pharmacist, veterinarian or any other qualified person and which forms part of their program for promotion by describing its use, composition, action, dosage, administration, contra-indication, advantages and other salient information relative to said drug, pharmaceutical, biological product or device."
+   }
+  },
+  {
+   "id": "PH-H4533-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "chapter": {
+    "en": "ARTICLE III"
+   },
+   "text": {
+    "en": "Grounds for reprimand, suspension or revocation of registrant certificate. Any of the following shall be sufficient ground for reprimanding a pharmacist, or for suspending or revoking his certificate of registration:\n(a) Conviction by a court of competent jurisdiction of any violation as penalized in sections forty and forty-one hereof;\n(b) Immoral or dishonorable conduct which includes conviction by a competent court of any criminal offense involving moral turpitude;\n(c) Fraud or deceit in the acquisition of the certificate of registration;\n(d) Gross negligence, ignorance or incompetence in the practice of his profession resulting in the injury damage or death of another;\n(e) Malpractice, including aiding or abetting the commission of criminal abortion or sex crimes through illegal compounding, dispensing or sale of abortive or sex drugs as the case may be;\n(f) Acting as a dummy of an alien or of a person who is not qualified to establish and operate a retail drugstore;\n(g) Addiction to alcoholic beverage or to any habit-forming drug rendering him incompetent to practice his profession;\n(h) Insanity;\n(i) False or extravagant or unethical advertisements wherein other things than his name, profession, limitation of practice, office and home address and the like are mentioned; and\n(j) Violations of any provision of the Code of Ethics which may be adopted as part of the Rules and Regulations of the Board."
+   }
+  },
+  {
+   "id": "PH-H4533-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "chapter": {
+    "en": "ARTICLE III"
+   },
+   "text": {
+    "en": "Administrative Investigation. Administrative investigations shall be conducted by all the members of the Board sitting en banc. The existing rules of evidence shall be observed as far as practicable during administrative investigations.\nIf the Board, by majority vote of the members, shall find that the charges are sustained by evidence adduced, it may at its discretion reprimand the respondent or revoke or suspend his certificate of registration. In case of suspension, it shall be for a period of not more than six months. Where the certificate of registration has been revoked as herein provided, the Board may, after the expiration of six months and upon application, issue a new certificate of registration in place of a revoked certificate without the necessity of undergoing any examination if the respondent in the meanwhile has conducted himself in an exemplary manner."
+   }
+  },
+  {
+   "id": "PH-H4533-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "chapter": {
+    "en": "ARTICLE III"
+   },
+   "text": {
+    "en": "Procedure and rules. The Board of Pharmacy upon receipt of a formal complaint under oath against any pharmacist, shall furnish the latter a copy of the complaint which he shall answer within ten days from receipt hereof. If the Board of Pharmacy, after careful study of the records, finds that there is a valid grounds to the charge it shall conduct a formal investigation setting the dates of hearing thereof. For this purpose, a subpoena or subpoena duces tecum may be issued by the Chairman of the Board. The proceedings shall at all times be recorded. The investigation shall be terminated and resolved within ninety days from the time of the first date of hearing has been set and heard."
+   }
+  },
+  {
+   "id": "PH-H4533-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "chapter": {
+    "en": "ARTICLE III"
+   },
+   "text": {
+    "en": "Right of respondent. The respondent pharmacist shall be entitled to be heard by himself or be represented by counsel; to have a speedy and public hearing to confront and to cross-examine witnesses against him; to summon and present witnesses in his behalf; and to any other process for the protection of his individual or civil rights."
+   }
+  },
+  {
+   "id": "PH-H4533-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "chapter": {
+    "en": "ARTICLE III"
+   },
+   "text": {
+    "en": "Appeal from judgment. The decision of the Board of Pharmacy shall automatically become final thirty days from notice to respondent, unless the latter after receipt of the decision and within the same period has appealed to the President of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H4533-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "chapter": {
+    "en": "ARTICLE III"
+   },
+   "text": {
+    "en": "Candidate for board examination. A candidate for the board examination in Pharmacy shall have the following qualifications:\n(a) He shall be a natural-born citizen of the Philippines;\n(b) He shall be of good moral character;\n(c) He shall have completed an Internship Program which shall consist of at least nine hundred sixty hours, one-half of which shall be spent equally distributed in a prescription pharmacy, a pharmaceutical manufacturing laboratory and a hospital pharmacy duly accredited by the Council of Pharmacy and the rest of the hours of internship shall be spent in any or all of the said establishments at the choice of the candidate.\nFor this purpose, the above-mentioned prescription pharmacy, pharmaceutical manufacturing laboratory and hospital pharmacy shall keep a separate record of Pharmacy students who have undergone said internship program directly under their control and as a result thereof shall issue the proper certificate of said hours of internship. It shall also be the duty of said establishments to submit annually a complete report of the names of those who have undergone training under their supervision and the corresponding number of hours of internship credit of each of the pharmacy students to their respective colleges or school and to the Board of Pharmacy for proper accreditation; and\n(d) He shall have graduated with a degree of Bachelor of Science in Pharmacy or with an equivalent degree from a school, college or university duly accredited by the Council of Pharmaceutical Education after satisfactorily completing a standard pharmacy course of not less than five academic years."
+   }
+  },
+  {
+   "id": "PH-H4533-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "chapter": {
+    "en": "ARTICLE III"
+   },
+   "text": {
+    "en": "Scope of Examination. The pharmacist examination shall consist of both theoretical and practical examinations. The theoretical examination shall include subjects in Chemistry, Biological Sciences and Pharmacy.\nThe Chemistry subjects shall include (1) General, Inorganic, Pharmaceutical and Physical Chemistry, (2) Organic and Medicinal or Pharmaceutical Chemistry, (3) Qualitative, Quantitative and Drug Assaying. The Biological Science subjects shall include (4) Physiology and Biochemistry, (5) Microbiology and Public Health, (6) Pharmacology and Toxicology. The Pharmacy subjects shall include (7) Botany and Pharmacognosy, (8) General Pharmacy, (9) Compounding and Dispensing, (10) Physical and Manufacturing Pharmacy, (11) Pharmacy Administration, and (12) Pharmaceutical Jurisprudence and Ethics. The subjects shall be weighted as follows: Chemistry, thirty per cent; Biological Science, twenty per cent; Pharmacy, fifty per cent.\nThe practical examination shall consist of (1) Identification and Analysis of Drugs, (2) Preparation of Official Pharmaceuticals, (3) Compounding and Dispensing of Prescriptions and Fixing of Prices of Prescriptions, and (4) Manufacturing Pharmacy and Quality Control. The practical examination shall be weighted as follows: Identification and Analysis of Drugs, thirty per cent; Compounding of Official Pharmaceutical Preparations, Dispensing and Fixing of Price of Prescription and Manufacturing Pharmacy and Quality Control, seventy per cent.\nIt shall be the duty of the Board of Pharmacy to prepare the schedules of the theoretical and practical examinations and the syllabus of each subject to be given two months before the dates of the examination wherein they are to be used."
+   }
+  },
+  {
+   "id": "PH-H4533-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "chapter": {
+    "en": "ARTICLE III"
+   },
+   "text": {
+    "en": "Ratings required. In order to pass the examination, a candidate must obtain on the basis of one hundred per cent a general average of seventy-five per cent or over in both the theoretical and practical examinations, with no ratings below fifty per cent in more than two subjects in the theoretical examinations: Provided , That any candidate who passed in the theoretical examination but failed in the practical examination, may, upon taking a re-examination, repeat only the practical examination and vice-versa: Provided, further , That any candidate who fails to pass the theoretical or practical examination in three successive attempts shall not be admitted in the fourth examination unless be could present to the Board a certification that he had enrolled and undergone within the year preceding, a pre-board review course from a duly accredited college of Pharmacy."
+   }
+  },
+  {
+   "id": "PH-H4533-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "chapter": {
+    "en": "ARTICLE III"
+   },
+   "text": {
+    "en": "Holding of examination. Examination for registration to practice pharmacy in the Philippines shall be given twice a year in the City of Manila and environment as the Board of Pharmacy may fix."
+   }
+  },
+  {
+   "id": "PH-H4533-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "chapter": {
+    "en": "ARTICLE III"
+   },
+   "text": {
+    "en": "Fees for examination and registration. The Board of Pharmacy shall charge for each applicant for examination the sum of fifty pesos, and after passing the Board examinations, for each certificate of registration twenty pesos; and for each duplicate registration certificate, ten pesos. All fees shall be paid to the cashier of the Board of Examiners and all expenses, including the fees of the Board members shall be disbursed by him from such funds.\nPractice of Pharmacy"
+   }
+  },
+  {
+   "id": "PH-H4533-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Definition of practice of pharmacy. A person shall be deemed to be practicing pharmacy within the meaning of this Article, who shall, for fee, salary, percentage or other reward paid or given directly to himself or indirectly through another, prepare or manufacture, analyze, assay, preserve, store, distribute or sell any medicine, drug, chemicals, cosmetics, pharmaceuticals, devices or contrivances used in pursuance thereof; or render pharmaceutical service in any office or drug and cosmetic establishment where scientific, technological or professional knowledge of Pharmacy is applied; or engage in teaching scientific, technological or professional pharmacy subject in a college of pharmacy; or conduct or undertake scientific pharmaceutical research for biological and bacteriological testings and examinations.\nHowever, persons performing executive managerial or administrative functions and their subordinate personnel employed in the pharmaceutical laboratories referred to in the second paragraph of Section twenty-seven hereof shall not be considered for purposes of this definition, considered persons in the practice of pharmacy."
+   }
+  },
+  {
+   "id": "PH-H4533-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Prerequisite for the practice of pharmacy. No person shall engage in the practice of pharmacy in the Philippines unless he is at least twenty-one years of age, has satisfactorily passed the corresponding examination given by the Board of Pharmacy, and is a holder of a valid certificate of registration duly issued to him by said Board."
+   }
+  },
+  {
+   "id": "PH-H4533-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Sale of medicine, pharmaceuticals, drugs and devices. No medicine, pharmaceutical, or drug of whatever nature and kind or device shall be compounded, dispensed, sold or resold, or otherwise be made available to the consuming public except through a prescription drugstore or hospital pharmacy, duly established in accordance with the provisions of this Act.\nPharmaceutical, drug or biological manufacturing establishments, importers and wholesalers of drugs, medicines, or biologic products are authorized to sell their products only at wholesale to duly established retail drugstore or hospital pharmacies."
+   }
+  },
+  {
+   "id": "PH-H4533-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Markings and inhibition to the sale of drug samples. No sample of any drug, biological product, device or proprietary medicine, given or intended to be given for free to the physician and other qualified person by any manufacturer or distributor of its representative or detailman as part of its program or promotion, may be sold.\nThe statement \"Sample, not for sale\" shall appear conspicuously on the container, package or carton of the drug or device to be given."
+   }
+  },
+  {
+   "id": "PH-H4533-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Pharmacist required and compensation. Every pharmacy, drugstore or hospital pharmacy whether owned by the government or a private person or firm shall at all times when open for business be under the personal and immediate supervision of a registered pharmacist: Provided , That no pharmacist shall have personal supervision of more than one such establishment. In cases where a drug establishment operates in more than one shift, each shift must be under the supervision and control of a registered pharmacists.\nDrug or pharmaceutical laboratories or similar establishments engaged in the repackaging, manufacture or sale of drugs, biologic products and pharmaceutical products in quantities greatly in excess of the therapeutic doses of each substance; such processes involving the preparation, quality control or repackaging of said products shall for each respective operation be under the direct and immediate supervision of a registered pharmacist, or, in the sale of pharmaceuticals, medicines and drugs at wholesale, such business shall be conducted under the immediate supervision of a registered pharmacist practicing only in such establishment.\nEvery pharmacist employed as such in any of the establishments mentioned in this section whose capitalization is not less than ten thousand pesos shall receive, notwithstanding any provisions of law to the contrary, a minimum compensation similar to that of government pharmacists."
+   }
+  },
+  {
+   "id": "PH-H4533-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Display of certificate required. It shall be the duty of every pharmacist engaged in the practice of pharmacy either on his own account or under the employ of another, to display his certificate of registration in a prominent and conspicuous place in pharmacy, drugstore, hospital pharmacy or drug establishment which he operates or in which he is employed. No pharmacist shall with his knowledge allow his certificate of registration to be displayed in such establishments when he is not actually employed or operating therein in his professional capacity."
+   }
+  },
+  {
+   "id": "PH-H4533-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Responsibility for quality of drugs. In cases of drugs, pharmaceuticals or poisons sold in their original packings, the seal of which has not been broken or tampered with, the liability that may arise because of their quality and purity , rests upon the manufacturer or in his absence, upon the importer, the distributor, representative or dealer who was responsible for their distribution or sale.\nIt shall be unlawful for any reason, whoever, to manufacture, prepare, sell or administer any prescription, drug, pharmaceutical or poison under any fraudulent name, direction or pretense or to adulterate any drug, pharmaceutical, medicine or poison so used, sold or offered for sale. Any drug, pharmaceutical, medicine or poison shall be held to be adulterated or deteriorated within the meaning of this section if it differs from the standard of quality or purity given in the United States Pharmacopoeia or National Formulary, both in their latest edition or, in lieu thereof, in any standard reference for drugs and medicines given official recognition; and those which fall within the meaning as provided for in the Food, Drug and Cosmetic Act, (Republic Act Numbered Thirty-seven hundred twenty)."
+   }
+  },
+  {
+   "id": "PH-H4533-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Filling and refilling of prescription. No prescription shall be filled or compounded except by a registered pharmacist in the employ of the drugstore or pharmacy. It shall be incumbent upon the pharmacist so compounding or filling the prescription to see to it that every component of the prescription called for metes the standard or purity and quality given in the standard references. Students undergoing pharmaceutical internship may assist said pharmacist in the compounding and dispensing of the prescription called for.\nNo prescription shall be refilled except upon express order of the person so prescribing."
+   }
+  },
+  {
+   "id": "PH-H4533-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Label of dispensed medicine. Upon every box, bottle, or other package containing medicine sold or dispensed by a pharmacist based on prescription, there shall be pasted, affixed or imprinted a seal of label bearing, among others, the name and address of pharmacy; the names and quantities of the ingredients; required doses thereof, its expiration date if any; the name of the prescriber, date and the number of prescription; and the direction for its use.\nEvery prescription, which in its preparation, contains any quantity of a drug which is habit-forming, or a derivative of such drug, shall have in the label attached to the container the added statement \"Warning may be habit forming.\nEvery prescription for external use filled in the drugstore shall bear a red label showing in black ink the components of such prescription and the words \"For external use only\" at the bottom of the label."
+   }
+  },
+  {
+   "id": "PH-H4533-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Record books for prescription. All prescriptions dispersed in the drugstore shall be recorded in the book kept for the purpose indicating therein, among others, the name of the manufacturer, the original stock, lot and control numbers of the main ingredients of the prescriptions, which book shall be open to inspection by the proper authorities at any time of the day when the pharmacy is open to the public and must be preserved for a period of not less than two years the last entry in it has been made. All prescription shall be attached to said book for prescriptions and numbered consecutively and shall be preserved for the same length of time as the prescription book."
+   }
+  },
+  {
+   "id": "PH-H4533-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Inhibition against use of cipher or unusual terms in prescriptions and prescription switching. No pharmacist shall compound or dispense prescriptions, recipes or formulas which are written in ciphers, codes or secret keys or in which they are employed unusual names of drugs which differ from the names ordinarily used for such drugs in standard pharmacopoeias or formularies.\nNo pharmacist dispensing or compounding prescriptions shall substitute the drug or drugs called for in the prescription with any other drug or substance or ingredient without prior consultation with, and a written consent of, the person prescribing."
+   }
+  },
+  {
+   "id": "PH-H4533-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Provisions relative to dispensing of violent poisons. Every pharmacist who dispenses, sells or otherwise delivers any of the violent poisons intended for medicinal use, to wit: arsenical preparations, phosphorus; corrosive sublimate; atropine, strychnine, or any of their salts, hycocyanic acid or any of its salts; oil of bitter almonds containing hydrocyanic acid or prassic acid; oil of mirbane (Nitro-benzene); and such other poisonous substances which may from time to time be classified under this category by the Food and Drug Administration; shall do so only upon prescription of a duly licensed physician, dentist or veterinarian. He shall make or cause to be made in a separate book, kept for the purpose, an entry stating the date of each sale and the name and address of the purchaser, the name and quantity of the poison sold and the purpose for which it was claimed to be purchased, before delivering it to the purchaser.\nNo prescription, the prescribed dose of which contains a dangerous quantity of poison, shall be filled without first consulting the prescribing authority and verifying the prescription. The pharmacist before delivery of such poison to the purchaser shall acquaint the latter of its poisonous character.\nThe pharmacist shall also affix to every box, bottle or other package containing any dangerous or poisonous drug, another label of red paper upon which shall be printed in large letters the word \"Poison\" and a vignette representing a skull and bones before delivering it to the purchaser.\nNo poison specified in this section shall be sold or otherwise delivered to any person less than eighteen years of age or who is mentally deranged or under the influence of liquor or one who is apparently addicted to opiate and other habit-forming drugs.\nThe books kept for the purpose of recording the sale of violent poisons shall be open at all times to the inspection of the proper authorities, and every such book shall be preserved for at least five years after the last entry in it has been made.\nShould any of the poisons above-stated be intended for purposes other than medicinal, the same may be sold without a prescription by the pharmacist but the other requirements of this section must be complied with."
+   }
+  },
+  {
+   "id": "PH-H4533-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Provisions relative to dispensing of less violent poisons. Every pharmacist who dispenses, sells or delivers any poison which is less violent in category as classified by the Food and Drug Administration may do so even without the prescription of a physician and its sale may be recorded in the poison book. The other requirements as provided for in Section thirty-four hereof, however, shall be complied with."
+   }
+  },
+  {
+   "id": "PH-H4533-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Receptacle for poisonous drugs. The poisonous drugs specified in Section thirty-four and thirty-five hereof shall be kept in a cabinet to be provided in every pharmacy carrying such drugs in stock and the same shall be kept securely-locked when not in use."
+   }
+  },
+  {
+   "id": "PH-H4533-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Provisions relative to dispensing of abolifecients or anti-conceptional substances and devices. No drug or chemical product or device capable of provoking abortion or preventing conception as classified by the Food and Drug Administration shall be delivered or sold to any person without a proper prescription by a duly licensed physician.\nThe pharmacist in charge of a drug store or pharmacy after filling a prescription containing abortive or anti-conceptional substance or devices shall record in a separate register book for abortives and anti-conceptionals, the following data;\n(a) Number and date of the prescription;\n(b) Name and address of the physician;\n(c) Name, quantity and manufacturer of the drug;\n(d) Name and address of the purchaser;\n(e) Date of filling the prescription; and\n(f) Signature of the pharmacist filling the prescription."
+   }
+  },
+  {
+   "id": "PH-H4533-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Provisions relative to dispensing of potent drugs. Every pharmacist who dispenses, sells or delivers any drug, which falls under the classification of the Food and Drug Administration as potent drugs shall do so only upon prescription of a duly licensed physician, dentist or veterinarian."
+   }
+  },
+  {
+   "id": "PH-H4533-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Requirements for the opening and operation of drugstores and pharmacies. The minimum requirements necessary for the opening and operation of drugstores and pharmacies shall be in accordance with the rules and regulations to be prescribed by the Food and Drug Administration in accordance with the provisions of this Act. Only natural-born Filipino citizens who are registered pharmacists can apply for the opening of a retail drugstore."
+   }
+  },
+  {
+   "id": "PH-H4533-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Penal provisions. Any person who shall violate any of the provisions of Sections twelve, twenty-four, twenty-five, twenty-six, twenty-seven and twenty-nine of this Act or any person who shall make false representation to procure a registration certificate as pharmacist for himself or for another; or any person who shall allow anyone in his employ who is not a registered pharmacist to engage in the practice of pharmacy; or any person who shall falsely display within the establishment the certificate of registration of a pharmacist who is not actually and regularly employed therein as such or to act as a dummy for any alien or an unqualified person for the purpose of opening and operating a retail drugstore; shall, upon conviction thereof, be sentenced to a fine of not less than one thousand pesos but not exceeding four thousand pesos or to an imprisonment of not less than six months and one day but not more than four years, in the discretion of the court."
+   }
+  },
+  {
+   "id": "PH-H4533-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Other penalties. Any pharmacist who shall violate any of the provisions of Sections twenty-eight, thirty, thirty-one, thirty-two, thirty-three, thirty-four, thirty-five, thirty-seven and thirty-eight of this Act or any pharmacist after his certificate of registration has been lawfully suspended or revoked, who continues to engage in the practice of pharmacy, shall, upon conviction thereof, be sentenced to a fine of not less than one hundred pesos but shall not exceed five hundred pesos or to an imprisonment of not less than thirty days but not more than four months, in the discretion of the court.\nAny person other than citizens of the Philippines having been found guilty of any violation as provided for in this and the preceding section shall, after having paid the fine or having served his sentence or both when so required be also subject to deportation."
+   }
+  },
+  {
+   "id": "PH-H4533-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Definition of terms. For purposes of this Act, the term (a) \"Pharmacy\" or \"Drug Store\" means a place or establishment where drugs, chemical products, active principles of drugs, pharmaceuticals, proprietary medicines or pharmaceutical specialties, devices, and poisons are sold at retail and where medical, dental and veterinary prescriptions are compounded and dispensed.\n(b) \"Drug or Pharmaceutical Laboratory\" or Pharmaceutical Manufacturing Laboratory\" means an establishment where pharmaceuticals, proprietary medicines or pharmaceutical specialties are prepared, compounded, standardized and distributed or sold.\n(c) \"Wholesaler\" means and includes every person who acts as a jobber, merchant, broker or agent, who sells or distributes for resale pharmaceuticals, proprietary medicines or pharmaceutical specialties.\n(d) \"Person\" means and includes an individual, partnership, corporation or association.\n(e) \"Drug\" means (1) articles recognized in the official United States Pharmacopoeia, official Hemeopathic Pharmacopoeia of the United States or official National Formulary, or any of their supplements; (2) articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or animals; (3) articles (other than food) intended to effect the structure or any function of the body of man or animals; and (4) articles intended for use as a component of any articles specified in clauses (1), (2), or (3), but not include devices or their components, parts or accessories.\n(f) \"Pharmaceuticals\", \"Proprietary Medicines\" or \"Pharmaceutical Specialties\" means any drug, preparation or mixture of drugs marked under a trade name and intended for the cure, mitigation or prevention of disease in man or animals.\n(g) \"Device\" means instruments, apparatus or contrivances including their components, parts and accessories, intended (1) for use in the diagnosis, cure, mitigation, treatment or prevention of disease in man or animals; or\n(2) to effect the structure or any function of the body of man or animals.\n(h) \"Biologic Products\" are viruses, sera, toxins and analogous products used for the prevention or cure of human diseases.\n(i) \"Poison\" is any drug, active principle, or preparation of the same, capable of destroying life or seriously endangering health when applied externally to the body or introduced internally in moderate doses.\n(j) \"Cipher\" means a method of secret writing that substitutes other letters or characters for the letter intended or transposes the letter after arranging them in blocks or squares.\n(k) \"Code\" means a system of words or other symbols arbitrarily used to represent words.\n(l) \"Secret Keys\" means a characteristics style or symbols kept from the knowledge of others or disclosed confidentially to but one of few."
+   }
+  },
+  {
+   "id": "PH-H4533-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Final Provisions. To carry out the provisions of this Act, there is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of thirty thousand pesos within the fiscal year of the approval hereof. Thereafter, such funds as are necessary for the maintenance and operation of the Board of Pharmacy and of the Council of Pharmaceutical Education shall be included in the annual General Appropriations Act."
+   }
+  },
+  {
+   "id": "PH-H4533-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Repealing clause. The following are hereby repealed: Sections seven hundred seventeen to seven hundred fifty-seven inclusive, Sections two thousand six hundred seventy-five to two thousand six hundred seventy-seven inclusive of the Revised Administrative Code, as amended; and such other laws or part of laws, executive orders, administrative orders; circulars, regulations and memoranda inconsistent or incompatible with this Act."
+   }
+  },
+  {
+   "id": "PH-H4533-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Separability of provisions. If any part, section or provision of this Act shall be held invalid or unconstitutional, no other part, section or provision thereof shall be affected thereby."
+   }
+  },
+  {
+   "id": "PH-H4533-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46."
+   },
+   "chapter": {
+    "en": "ARTICLE IV"
+   },
+   "text": {
+    "en": "Effectivity. This Act shall take effect upon its approval.\nApproved: June 21, 1969"
+   }
+  }
+ ]
+}

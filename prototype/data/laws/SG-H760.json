@@ -1,0 +1,78 @@
+{
+ "id": "SG-H760",
+ "title": {
+  "zh": null,
+  "en": "Community Disputes Resolution (Notice to Attend Court) Regulations 2025",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p10",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CDRA2015-S251-2025",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1197,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CDRA2015-S251-2025?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H760-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Community Disputes Resolution (Notice to Attend Court) Regulations 2025 and come into operation on 7 April 2025."
+   }
+  },
+  {
+   "id": "SG-H760-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Prescribed notice"
+   },
+   "text": {
+    "en": "2. A notice served on a person to attend court under section 13T of the Act must be in the form set out in the Schedule."
+   }
+  },
+  {
+   "id": "SG-H760-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRegulation 2\nNOTICE TO ATTEND COURT\n(SECTION 13T(1) OF THE COMMUNITY DISPUTES\nRESOLUTION ACT 2015)\nCase Reference Number:\nCourt Reference Number:\n[Respondent’s full name]\n[Respondent’s address]\nYou are required to answer to the charge of:\n[state the offence],\nof the Community Disputes Resolution Act 2015,\nin person before the State Courts No. [state court number], located at 1 Havelock Square, Singapore 059724 on [state date] at [state time].\nIf you do not have a valid excuse, neglect or refuse to appear on the abovementioned date and time, a warrant to arrest you may be issued.\n[Name and signature of authorised officer]\n[Designation of authorised officer]\nCommunity Relations Unit\nMunicipal Services Office\nMinistry of National Development\nDate of issue:\nReceived by:\nInterpreted using [language] (if any) by:\n__________________\n(Signature)\n__________________\n(Signature)\n[Name of Respondent]\n[Name of interpreter]"
+   }
+  }
+ ]
+}

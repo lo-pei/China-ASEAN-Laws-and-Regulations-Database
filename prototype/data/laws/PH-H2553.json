@@ -1,0 +1,64 @@
+{
+ "id": "PH-H2553",
+ "title": {
+  "zh": null,
+  "en": "An Act Creating Certain Barrios in the Municipal of Dumingag, Province of Zamboanga del Sur",
+  "orig": "An Act Creating Certain Barrios in the Municipal of Dumingag, Province of Zamboanga del Sur"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p36",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1960-06-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2826",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1264,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1960/ra_2826_1960.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1960/ra_2826_1960.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H2553-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The following sitios in the Municipality of Dumingag, Province of Zamboanga del Sur, are converted into barrios of said municipality, to wit:\nSitio Bag-ong Basak to Barrio Bag-ong Basak;\nSitio Bag-ong Princesa to Barrio Bag-ong Princesa;\nSitio Bag-ong Valencia to Barrio Bag-ong Valencia;\nSitio Bocayan to Barrio Bocayan;\nSitio Boniao to Barrio Boniao;\nSitio Calumangi to Barrio Calumangi;\nSitio Dapiwak to Barrio Dapiwak;\nSitio Dekayo to Barrio Dekayo;\nSitio Ditolan to Barrio Ditolan;\nSitio Gelicton to Barrio Gelicton;\nSitio Gonain to Barrio Gonain;\nSitio Guintananan to Barrio Guintananan;\nSitio Guitran to Barrio Guitran;\nSitio Landing to Barrio Landing;\nSitio Manguilos to Barrio Manguilos;\nSitio Macasing to Barrio Macasing;\nSitio Mahayahay to Barrio Mahayahay;\nSitio Maralag to Barrio Maralag;\nSitio Marañgan to Barrio Marañgan;\nSitio Palili to Barrio Palili;\nSitio Paraiso to Barrio Paraiso;\nSitio Poguan to Barrio Poguan;\nSitio Santa Cruz to Barrio Santa Cruz;\nSitio Senoto to Barrio Senoto;\nSitio Timonan (Lower) to Barrio Timonan (Lower);\nSitio Timonan (Upper) to Barrio Timonan (Upper);\nSitio Tuñgawan to Barrio Tuñgawan;\nSitio Tuboy to Barrio Tuboy; and\nSitio Yabu to Barrio Yabu."
+   }
+  },
+  {
+   "id": "PH-H2553-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1960."
+   }
+  }
+ ]
+}

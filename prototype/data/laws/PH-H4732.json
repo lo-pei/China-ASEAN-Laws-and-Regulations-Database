@@ -1,0 +1,74 @@
+{
+ "id": "PH-H4732",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Sections One and Two of Republic Act Numbered Fifty Four Hundred Seventy-Four",
+  "orig": "An Act Amending Sections One and Two of Republic Act Numbered Fifty Four Hundred Seventy-Four"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p67",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1970-11-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6145",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 965,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1970/ra_6145_1970.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1970/ra_6145_1970.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4732-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Sections one and two of Republic Act Numbered Fifty-four hundred seventy-four are hereby amended to read as follows:\n\"Sec. 1. It shall be unlawful for any person, association or corporation to catch or cause to be caught, sell, offer to sell, purchase, or have in possession any of the fish specie called \"ipon\" during the months of September to October and February to March for the whole Province of Ilocos Norte.\n\"Sec. 2. Any violation of this Act shall be punished by a fine not exceeding two hundred pesos or with imprisonment of not less than six months, or both such fine and imprisonment in the discretion of the court. If the violation is committed by an association or corporation the criminal liability shall devolve upon the president, director, manager or managing partner responsible thereof.\""
+   }
+  },
+  {
+   "id": "PH-H4732-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Any provision of law inconsistent with the provisions of this Act is hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H4732-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: November 9, 1970."
+   }
+  }
+ ]
+}

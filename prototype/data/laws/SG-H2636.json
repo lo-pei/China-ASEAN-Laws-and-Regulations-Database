@@ -1,0 +1,91 @@
+{
+ "id": "SG-H2636",
+ "title": {
+  "zh": null,
+  "en": "Infrastructure Protection (Protected Areas) (No. 4) Order 2021",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p33",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation IPA2017-S517-2021",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 3013,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/IPA2017-S517-2021?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 4 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2636-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. This Order is the Infrastructure Protection (Protected Areas) (No. 4) Order 2021 and comes into operation on 16 July 2021."
+   }
+  },
+  {
+   "id": "SG-H2636-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Premises declared to be protected area"
+   },
+   "text": {
+    "en": "2. The premises described in the second column of the Schedule are declared to be a protected area for the purposes of the Act, and the person specified in the first column of that Schedule is designated as the authority of the protected area."
+   }
+  },
+  {
+   "id": "SG-H2636-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Revocations"
+   },
+   "text": {
+    "en": "3.—(1) Item (4) of the Schedule to the Protected Areas (Consolidation) Order (O 15) is deleted.\n(2) The Protected Areas (No. 3) Order 2010 (G.N. No. S 539/2010) is revoked."
+   }
+  },
+  {
+   "id": "SG-H2636-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Area\nCommander, 9th Flotilla/Force Protection Group\nRSS SINGAPURA - CHANGI NAVAL BASE SEA AREA\nAll that area comprised in part of Lot 5322K in Mukim No. 31 and part of foreshore within the territorial waters of the Republic of Singapore occupied by “RSS SINGAPURA - CHANGI NAVAL BASE SEA AREA” containing an area of about 5,539,918.0 square metres and bounded approximately as follows:\nCommencing at a point 33,111.907 metres North and 48,258.149 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n33,111.907\n48,258.149\n33,114.322\n48,349.453\n33,133.606\n49,084.905\n33,608.443\n49,072.455\n33,626.790\n49,772.215\n33,151.953\n49,784.665\n33,161.782\n50,159.520\n33,162.548\n50,188.729\n33,176.976\n50,198.632\n33,295.899\n50,280.254\n33,434.711\n50,376.526\n33,445.556\n50,378.945\n33,456.409\n50,373.292\n33,460.386\n50,360.167\n33,453.486\n50,348.832\n33,442.810\n50,345.087\n33,425.793\n50,347.658\n33,310.752\n50,270.807\n33,363.498\n50,193.163\n33,653.886\n50,184.649\n33,868.213\n50,179.024\n34,076.144\n50,172.930\n34,093.474\n50,172.493\n34,114.014\n50,955.850\n32,689.473\n50,993.202\n31,629.837\n51,020.987\n31,560.856\n48,390.186\n31,551.805\n48,045.000\n32,478.714\n48,045.000\n32,481.086\n48,048.863\n32,486.537\n48,057.260\n32,492.197\n48,065.517\n32,498.063\n48,073.629\n32,504.131\n48,081.591\n32,510.397\n48,089.398\n32,516.858\n48,097.045\n32,523.508\n48,104.527\n32,530.345\n48,111.840\n32,537.363\n48,118.979\n32,544.559\n48,125.938\n32,551.927\n48,132.715\n32,559.463\n48,139.305\n32,567.163\n48,145.702\n32,575.021\n48,151.905\n32,583.032\n48,157.908\n32,591.192\n48,163.707\n32,599.495\n48,169.300\n32,607.936\n48,174.682\n32,616.509\n48,179.850\n32,625.210\n48,184.801\n32,634.032\n48,189.532\n32,642.971\n48,194.039\n32,652.020\n48,198.321\n32,661.174\n48,202.373\n32,670.427\n48,206.194\n32,679.773\n48,209.782\n32,689.206\n48,213.133\n32,698.720\n48,216.246\n32,708.310\n48,219.119\n32,717.969\n48,221.750\n32,727.691\n48,224.137\n32,737.470\n48,226.279\n32,747.299\n48,228.175\n32,757.174\n48,229.823\n32,767.086\n48,231.222\n32,777.031\n48,232.372\n32,787.001\n48,233.271\nto the point of commencement.\nThe boundaries of “RSS SINGAPURA - CHANGI NAVAL BASE SEA AREA” are more particularly delineated in Survey Plan No. 732GAZ filed in the office of the Director, Building and Infrastructure Programme Centre, Defence Science and Technology Agency, Singapore, a copy of which is set out below."
+   }
+  }
+ ]
+}

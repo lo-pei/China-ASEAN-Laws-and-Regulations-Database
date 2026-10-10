@@ -1,0 +1,107 @@
+{
+ "id": "SG-H820",
+ "title": {
+  "zh": null,
+  "en": "Contributory Negligence and Personal Injuries Act 1953",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p10",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act CNPIA1953",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 3513,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/CNPIA1953?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 5 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H820-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Contributory Negligence and Personal Injuries Act 1953."
+   }
+  },
+  {
+   "id": "SG-H820-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“court”, in relation to any claim, means the court or arbitrator by or before whom the claim falls to be determined;\n“damage” includes loss of life and personal injury;\n“dependant” means any person for whose benefit an action could be brought under section 20 of the Civil Law Act 1909;\n“fault” means negligence, breach of statutory duty or other act or omission which gives rise to a liability in tort or would, apart from this Act, give rise to the defence of contributory negligence."
+   }
+  },
+  {
+   "id": "SG-H820-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Apportionment of liability in case of contributory negligence"
+   },
+   "text": {
+    "en": "3.—(1) Where any person suffers damage as the result partly of his own fault and partly of the fault of any other person or persons, a claim in respect of that damage shall not be defeated by reason of the fault of the person suffering the damage, but the damages recoverable in respect thereof shall be reduced to such extent as the court thinks just and equitable having regard to the claimant’s share in the responsibility for the damage.\n(2) Subsection (1) shall not operate to defeat any defence arising under a contract.\n(3) Where any contract or written law providing for the limitation of liability is applicable to the claim, the amount of damages recoverable by the claimant under subsection (1) shall not exceed the maximum limit so applicable.\n(4) Where damages are recoverable by any person under subsection (1) subject to such reduction as is therein mentioned, the court shall find and record the total damages which would have been recoverable if the claimant had not been at fault.\n(5) Where any person dies as the result partly of his own fault and partly of the fault of any other person or persons, and accordingly if an action were brought for the benefit of the estate under section 10 of the Civil Law Act 1909, the damages recoverable would be reduced under subsection (1), any damages recoverable in an action brought for the benefit of —\n(a)the dependants of that person under section 20 of the Civil Law Act 1909; or\n(b)any person under section 21 of the Civil Law Act 1909,\nshall be reduced to a proportionate extent.\n(6) Where, in any case to which subsection (1) applies, one of the persons at fault avoids liability to any other such person or his personal representative by pleading the Limitation Act 1959 or any other written law limiting the time within which proceedings may be taken, he shall not be entitled to recover any damages or contributions from that other person or personal representative by virtue of that subsection."
+   }
+  },
+  {
+   "id": "SG-H820-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Saving for Maritime Conventions Act 1911"
+   },
+   "text": {
+    "en": "4. This Act shall not apply to any claims to which section 1 of the Maritime Conventions Act 1911 applies and that Act shall have effect as if this Act had not been passed."
+   }
+  },
+  {
+   "id": "SG-H820-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Common employment"
+   },
+   "text": {
+    "en": "5.—(1) It shall not be a defence to an employer who is sued in respect of personal injuries caused by the negligence of a person employed by him, that that person was at the time the injuries were caused in common employment with the person injured.\n(2) Any provision in a contract of service or apprenticeship, or in an agreement collateral thereto shall be void insofar as it would have the effect of excluding or limiting any liability of the employer in respect of personal injuries caused to the person employed or apprenticed by the negligence of persons in common employment with him.\n(3) In this section, “personal injury” includes any disease and any impairment of a person’s physical or mental condition, and “injured” shall be construed accordingly."
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "SG-H3428",
+ "title": {
+  "zh": null,
+  "en": "Order under Section 11(3)",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p43",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation RELA1983-S174-2006",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1236,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/RELA1983-S174-2006?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 2 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3428-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Revised Edition of the Laws Act\n(Chapter 275)\nOrder under Section 11 (3)\nWhereas pursuant to section 10 of the Revised Edition of the Laws Act, the Law Revision Commissioners have published in loose-leaf form the Acts set out in Part I of the Schedule as in force on 1st March 2006 and the Acts set out in Part II of the Schedule as in force on 1st April 2006:\nAnd Whereas it is provided under section 11(3) of the Revised Edition of the Laws Act that the Commissioners shall transmit to the President a copy of each of the loose-leaf edition of these Acts and the President may thereupon, by order published in the Gazette, specify that the loose-leaf edition of these Acts shall, in all courts and for all purposes, be the sole and only proper law of Singapore in respect of those Acts:\nNow therefore it is hereby ordered by the President that the loose-leaf edition of these Acts shall, with effect from 1st April 2006, be the sole and only proper law of Singapore in respect of those Acts."
+   }
+  },
+  {
+   "id": "SG-H3428-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nPart I\n1. Boundaries and Survey Maps Act (Chapter 25)\n2. Land Surveyors Act (Chapter 156)\n3. Stamp Duties Act (Chapter 312)\nPart II\n1. Diplomatic and Consular Relations Act (Chapter 82A)\n2. Securities and Futures Act (Chapter 289)"
+   }
+  }
+ ]
+}

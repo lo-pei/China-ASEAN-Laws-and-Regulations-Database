@@ -1,0 +1,114 @@
+{
+ "id": "PH-H4257",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing for An Additional School Division in the Province of Quezon, Amending for This Purpose Republic Act Numbered Thirty-Four Hundred",
+  "orig": "An Act Providing for An Additional School Division in the Province of Quezon, Amending for This Purpose Republic Act Numbered Thirty-Four Hundred"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p60",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1969-04-03",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 5458",
+ "officialCode": null,
+ "topics": [
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 7,
+ "chars": 1723,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1969/ra_5458_1969.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 7 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1969/ra_5458_1969.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文存在同号重出的条款（第 1、2 条）：该处官方页面确有两段均标同一 Section 号，本库照录其 `no` 值（不改动官方编号），条文 `id` 以 `_2`「_3」后缀保证唯一。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4257-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The title of Republic Act Numbered Thirty-four hundred is hereby amended to read as follows:\n\"An Act to provide for three school divisions in the Province of Quezon.\""
+   }
+  },
+  {
+   "id": "PH-H4257-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section one of the same Act is hereby amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H4257-A1_2",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There shall be three school divisions in the Province of Quezon; one shall include all the municipalities in the sub-province of Aurora. The permanent station of the superintendent of schools of this division shall be in the Municipality of Baler. The second division shall include the municipalities of Mauban, Sampaloc, Infanta, Real, General Nakar, Polillo, and Burdeos and the municipal districts of Jumalig, Panukulan and Patnanungan. The permanent station of the superintendent of schools of this division shall be the Municipality of Mauban. The third division shall include all the rest of the municipalities of the province. The permanent station of the superintendent of schools of this division shall be in the City of Lucena.\""
+   }
+  },
+  {
+   "id": "PH-H4257-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Section two of the same Act is hereby amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H4257-A2_2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The Director of Public Schools shall reorganize the School Division of the Province of Quezon into three school divisions commencing with the school year nineteen hundred sixty-seven to nineteen hundred sixty-eight, in accordance with the provisions of this Act.\""
+   }
+  },
+  {
+   "id": "PH-H4257-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Such sums as may be necessary to carry out the purpose of this Act for the school year nineteen hundred sixty-seven to nineteen hundred sixty-eight are hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated. The sum necessary for the same purpose in subsequent school years shall be included in the General Appropriations Act."
+   }
+  },
+  {
+   "id": "PH-H4257-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

@@ -1,0 +1,480 @@
+{
+ "id": "SG-H542",
+ "title": {
+  "zh": null,
+  "en": "Central Provident Fund (Self-Employed Persons) Regulations 1992",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p07",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CPFA1953-RG25",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 35,
+ "chars": 84133,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CPFA1953-RG25?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 35 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 3 篇以 900000+ 序号随同收录。其中 4 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H542-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations are the Central Provident Fund (Self-Employed Persons) Regulations 1992."
+   }
+  },
+  {
+   "id": "SG-H542-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations —\n“additional allowance” means the non‑pensionable annual allowance, bonuses and other allowances payable to any Member of Parliament as a holder of that office at intervals of more than a month;\n“allowance” means the allowance payable to an elected Member as a holder of that office;\n“APE” has the meaning given by paragraph 1(1), read with paragraph 1(2), of the Fourth Schedule to the Act;\n[S 888/2025 wef 01/01/2026]\n“Comptroller” means the Comptroller of Income Tax appointed under section 3 of the Income Tax Act 1947, and includes a Deputy Comptroller or an Assistant Comptroller so appointed;\n“contributions notice” means a notice issued on or after 1 November 2024 of the amount of contributions payable by a self‑employed person computed or recomputed by the Board;\n“elected Member”, “non‑constituency Member” and “nominated Member” have the meanings given by Article 39 (1)(a), (b) and (c) of the Constitution, respectively;\n“honorarium” means the honorarium payable to a nominated Member or a non‑constituency Member as a holder of that office;\n“income” means the assessable income accrued in or derived from Singapore or received in Singapore from outside Singapore from any trade, business, profession or vocation other than from employment under a contract of service ascertained in accordance with section 37(1) of the Income Tax Act 1947;\n“Member of Parliament” means an elected Member, a non‑constituency Member or a nominated Member;\n“notice of assessment” means the notice of assessment of income by the Comptroller under section 72 of the Income Tax Act 1947;\n“notice of computation” means a notice issued before 1 November 2024 of the amount of contributions payable by a self‑employed person, computed by the Board, and, if there has been a recomputation of the amount of contributions payable by the self‑employed person under regulation 6, 7(6) or 7A(5), includes a notice issued before that date of that recomputed amount;\n“notice of contribution” means the notice of contribution issued under regulation 7(5) before 1 November 2024;\n“platform remuneration” has the meaning given by section 2(1) of the Act;\n“platform worker” has the meaning given by section 5(1) of the Platform Workers Act 2024;\n“relevant public officer” means a person who is or was on the pensionable establishment in any of the public services and continues to be eligible to receive medical benefits under the terms of his or her service from the Government upon his or her retirement, but does not include a person on the Medisave‑cum‑Subsidised Outpatient (MSO) Scheme as described in the Government Instruction Manual relating to medical benefits;\n“relevant year” means the year in respect of which any contributions are payable under these Regulations;\n“self‑employed person” means any person, being a citizen or permanent resident of Singapore, who accrues, derives or receives income, and includes a Member of Parliament.\n(2) Despite section 2(1A)(b) of the Act, for the purposes of these Regulations, the anniversary of the date of birth of a person who is born on 29 February, in any year that is not a leap year, is deemed to be 28 February of that year."
+   }
+  },
+  {
+   "id": "SG-H542-A2.001",
+   "no": 2.001,
+   "noLabel": {
+    "en": "2A."
+   },
+   "heading": {
+    "en": "Exclusion of platform remuneration"
+   },
+   "text": {
+    "en": "2A.—(1) Pursuant to section 8A(9) of the Act, sections 9A and 9B of the Act do not apply to any platform remuneration paid or payable to a platform worker on or after 1 January 2025.\n[S 888/2025 wef 01/01/2026]\n(2) In these Regulations, except in regulation 7A(4) and (4A), “income” excludes any platform remuneration paid or payable to a platform worker on or after 1 January 2025.\n[S 888/2025 wef 01/01/2026]"
+   }
+  },
+  {
+   "id": "SG-H542-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "3.—(1) Subject to paragraph (2), these Regulations apply to a self‑employed person whose income is more than $6,000 for any relevant year.\n(2) Paragraph (1) and regulations 4, 6, 7, 7A, 8, 9, 9A, 12, 13, 14, 15 and 18 do not apply to a Member of Parliament in respect of any allowance or honorarium or additional allowance received by him or her.\n[S 888/2025 wef 01/01/2026]"
+   }
+  },
+  {
+   "id": "SG-H542-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Amount of contributions"
+   },
+   "text": {
+    "en": "4.—(1) Subject to paragraph (2) and regulation 8A, every self‑employed person to whom these Regulations apply must pay contributions into the Fund on his or her own behalf —\n(a)at the applicable rate specified in the second column of items 1 to 11 in the First Schedule in respect of the period specified in the first column thereto;\n(b)at the applicable rate specified in the second, third and fourth columns of item 12 in the First Schedule in respect of each relevant year in the period from 1 January 2007 to 31 December 2009;\n(c)at the applicable rate specified in the second, third and fourth columns of item 13 in the First Schedule in respect of the relevant year beginning 1 January 2010;\n(d)at the applicable rate specified in the second, third and fourth columns of item 14 in the First Schedule in respect of the relevant year beginning 1 January 2011;\n(e)at the applicable rate specified in the second, third and fourth columns of item 15 in the First Schedule in respect of the relevant year beginning 1 January 2012;\n(f)at the applicable rate specified in the second, third, fourth and fifth columns of item 16 in the First Schedule in respect of the relevant year beginning 1 January 2013;\n(g)at the applicable rate specified in the second, third, fourth and fifth columns of item 17 in the First Schedule in respect of the relevant year beginning 1 January 2014;\n(h)at the applicable rate specified in the second, third, fourth and fifth columns of item 18 in the First Schedule in respect of the relevant year beginning 1 January 2015;\n(i)at the applicable rate specified in the second, third, fourth and fifth columns of item 19 in the First Schedule in respect of each relevant year beginning 1 January 2016, 1 January 2017, 1 January 2018, 1 January 2019, 1 January 2020, 1 January 2021 or 1 January 2022;\n(j)at the applicable rate specified in the second, third, fourth and fifth columns of item 20 in the First Schedule in respect of the relevant year beginning 1 January 2023;\n(k)at the applicable rate specified in the second, third, fourth and fifth columns of item 21 in the First Schedule in respect of the relevant year beginning 1 January 2024;\n(l)at the applicable rate specified in the second, third, fourth and fifth columns of item 22 in the First Schedule in respect of the relevant year beginning 1 January 2025; and\n(m)at the applicable rate specified in the second, third, fourth and fifth columns of item 23 in the First Schedule in respect of the relevant year beginning 1 January 2026 and every subsequent relevant year.\n(2) Subject to regulation 8A, every self‑employed person to whom these Regulations apply and who is a relevant public officer for the whole or any part of 1997 or any subsequent relevant year must, in respect of that year, pay contributions into the Fund on his or her own behalf equivalent to 6% of his or her income for that year or such other amount as may be determined by the Minister for Health.\n(3) Paragraphs (5) to (9) apply to contributions payable in respect of any relevant year before 1 January 2002.\n(4) Paragraphs (10) and (11) apply to contributions payable in respect of the relevant year beginning 1 January 2002 and every subsequent relevant year before 1 January 2018.\n(5) Subject to paragraphs (7) and (8), every self‑employed person must, before the end of any relevant year, pay contributions computed on the basis of his or her income stated in a notice of assessment issued to the self‑employed person in respect of such income accrued, derived or received in the year preceding the relevant year and to be adjusted in the year immediately following the relevant year in accordance with regulation 6.\n(6) Where, as at 1 July of the year 1992 or as at 1 January of any subsequent relevant year, the notice of assessment in respect of a self‑employed person’s income accrued, derived or received in the preceding year has not been issued by the Comptroller, the self‑employed person must pay the contributions computed on the basis of the income stated in the most recent notice of assessment issued to the self‑employed person.\n(7) Where, as at 1 July of the year 1992 or as at 1 January of any subsequent relevant year, no notice of assessment has been previously issued to a self‑employed person but the Comptroller has previously informed that person that on the basis of the income declared in the return of income submitted by that person, he or she is not liable to pay income tax, that person must pay the contributions on the basis of the income declared in such return.\n(8) Where, as at 1 January of any relevant year, no notice of assessment has been previously issued to a self‑employed person but a notice of computation has been issued to that person, he or she must pay the contributions on the basis of the income stated in the most recent notice of computation.\n(9) The contributions payable by a self‑employed person in respect of any relevant year before 1 January 2002 —\n(a)must be paid —\n(i)before the end of the relevant year; or\n(ii)where the Board has extended the period for payment, within such period as may be extended by the Board; and\n(b)may be paid in instalments, so long as the total amount of contributions is paid within the relevant period mentioned in sub‑paragraph (a).\n(10) The contributions payable by a self‑employed person in respect of the relevant year beginning 1 January 2002 and any subsequent relevant year before 1 January 2018 —\n(a)must be paid —\n(i)within 30 days after the date of issue of the notice of computation or contributions notice (if any) for the relevant year; or\n(ii)where the Board has extended the period for payment in any particular case, within such period as may be extended by the Board; and\n(b)may be paid in instalments, so long as the total amount of contributions is paid within the relevant period mentioned in sub‑paragraph (a).\n(11) Subject to regulation 6(3), the contributions mentioned in paragraph (10) must be computed on the basis of the self‑employed person’s income as stated in —\n(a)the notice of assessment issued to the self‑employed person in respect of the income he or she accrued, derived or received in the relevant year; or\n(b)the return of income submitted by the self‑employed person to the Comptroller in respect of the income he or she accrued, derived or received in the relevant year if the Comptroller has informed the person that on the basis of the income declared in such return, he or she is not liable to pay income tax."
+   }
+  },
+  {
+   "id": "SG-H542-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Contributions payable by Member of Parliament"
+   },
+   "text": {
+    "en": "5.—(1) Every Member of Parliament must, in each calendar month and on his or her own behalf, pay contributions into the Fund in respect of his or her allowance or honorarium and additional allowance at the applicable rate set out in the Second Schedule.\n(2) The Clerk of Parliament —\n(a)is entitled to deduct from the allowance or honorarium and additional allowance payable to a Member of Parliament, at the time of each such payment, the amount of contributions payable by the Member of Parliament under paragraph (1); and\n(b)must pay the amount deducted under sub‑paragraph (a) into the Fund not later than 14 days after the end of the month in respect of which the contributions are payable.\n(3) The contributions payable under paragraph (1) are in addition to any other contributions the Member of Parliament may be liable to pay into the Fund under the Act or any regulations made under section 77(1) of the Act."
+   }
+  },
+  {
+   "id": "SG-H542-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Recomputation of contributions"
+   },
+   "text": {
+    "en": "6.—(1) When the notice of assessment in respect of the income accrued, derived or received by a self‑employed person in any relevant year is subsequently issued after the end of the relevant year, the amount of contributions payable by the person must be recomputed on the basis of the amount of income stated in that assessment.\n(2) Where a self‑employed person’s income in any relevant year is not stated in a notice of assessment because his or her income is not chargeable to tax, the amount of contributions payable for that year may be recomputed on the basis of the amount of income assessed by the Comptroller and stated in a notice of computation or contributions notice, as the case may be.\n(3) Where the notice of assessment in respect of income of a self‑employed person for any relevant year before 1 January 2018 is amended or varied on appeal or where a notice of additional assessment has been issued by the Comptroller, the amount of contributions payable by the person for that year must be recomputed by taking into account the amount of income which has been varied or added.\n(4) Paragraphs (1) and (2) do not apply to contributions payable by a self‑employed person for the relevant year beginning 1 January 2002 and any subsequent relevant year."
+   }
+  },
+  {
+   "id": "SG-H542-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Payment and computation of contributions for relevant year starting on or after 1 January 2018 but before 1 January 2023"
+   },
+   "text": {
+    "en": "7.—(1) The contributions payable by a self‑employed person for each relevant year starting on or after 1 January 2018 but before 1 January 2023 must be paid not later than —\n(a)where the self‑employed person’s contributions are computed under paragraph (3)(a) — 30 days after the date of issue of the notice of computation or contributions notice (if any) for the relevant year;\n(b)where the self‑employed person’s contributions are computed under paragraph (3)(b) — 30 days after the date of issue of the notice of contribution or contributions notice (if any) for the relevant year; or\n(c)in any particular case where the Board specifies an extended period of payment — the end of the extended period specified by the Board.\n(2) The contributions mentioned in paragraph (1) may be paid in instalments, so long as the total amount of contributions is paid not later than the time of payment applicable to the contributions under paragraph (1).\n(3) The contributions for a relevant year mentioned in paragraph (1) are to be computed on the basis of the self‑employed person’s income stated —\n(a)where a notice of assessment is issued in respect of income accrued, derived or received by the self‑employed person in the relevant year — in that notice of assessment; or\n(b)where the self‑employed person is not required to furnish a return of income to the Comptroller under section 62 of the Income Tax Act 1947 for the relevant year — in a declaration by the self‑employed person to the Board in the form and manner required by the Board.\n(4) Where a notice of assessment is issued to a self‑employed person in respect of the self‑employed person’s income accrued, derived or received in a relevant year, a notice of computation or contributions notice (as the case may be) must be issued to the self‑employed person stating the amount of contributions payable by the self‑employed person for the relevant year —\n(a)computed in accordance with paragraph (3)(a); or\n(b)if a recomputation mentioned in paragraph (6)(a) is carried out, recomputed in accordance with that paragraph.\n(5) The Board must issue a notice of contribution or contributions notice (as the case may be) to a self‑employed person stating the amount of contributions payable by the self‑employed person for a relevant year if —\n(a)the Board is satisfied that the self‑employed person is liable to make a contribution for that relevant year, computed in accordance with paragraph (3)(b); or\n(b)a recomputation mentioned in paragraph (6)(b) is carried out.\n(6) The Board may in its discretion recompute the amount of contributions payable by a self‑employed person for a relevant year if the Board is satisfied that the self‑employed person is liable to pay an amount other than the relevant amount specified in a notice of computation, notice of contribution or contributions notice (as the case may be) that was previously issued to the self‑employed person, after taking into account —\n(a)any notice of assessment issued to the self‑employed person, or notice of additional assessment or notice of revised assessment issued by the Comptroller under section 74 or 76 of the Income Tax Act 1947, for the relevant year; or\n(b)any information and supporting documents that the Board may require, given by the self‑employed person to the Board in the manner the Board requires."
+   }
+  },
+  {
+   "id": "SG-H542-A7.001",
+   "no": 7.001,
+   "noLabel": {
+    "en": "7A."
+   },
+   "heading": {
+    "en": "Payment and computation of contributions for relevant year starting on or after 1 January 2023"
+   },
+   "text": {
+    "en": "7A.—(1) This regulation applies to the contributions payable by a self‑employed person for each relevant year starting on or after 1 January 2023.\n(2) A self‑employed person must pay the contributions for each relevant year not later than —\n(a)30 days after the date of issue of the notice of computation or contributions notice (as the case may be) for the relevant year; or\n(b)where the Board specifies an extended period of payment for the contributions for a relevant year — the end of that extended period.\n(3) The contributions for a relevant year may be paid in instalments, so long as the total amount of those contributions is paid not later than the time of payment applicable to those contributions under paragraph (2).\n(4) The notice of computation or contributions notice (as the case may be) must state the amount of the contributions payable by the self‑employed person for the relevant year —\n(a)as computed on the basis of the self‑employed person’s income for the relevant year stated in a notice of assessment in respect of that income; or\n(b)as recomputed under paragraph (5).\n(4A) Despite paragraph (4), where a self-employed person is during the relevant year also paid platform remuneration as a platform worker, the contributions notice must state the amount of the contributions payable by the self-employed person for the relevant year —\n(a)as computed on the basis of the self-employed person’s income for the relevant year stated in a notice of assessment, less his or her total APE for each of the relevant months in that year; or\n(b)as recomputed under paragraph (5).\n[S 888/2025 wef 01/01/2026]\n(5) The Board may in its discretion recompute the amount of contributions payable by a self‑employed person for a relevant year if the Board is satisfied that the self‑employed person is liable to pay an amount other than the relevant amount specified in a notice of computation or contributions notice (as the case may be) that was previously issued to the self‑employed person, after taking into account —\n(a)any notice of assessment;\n(b)any notice of additional assessment or notice of revised assessment issued by the Comptroller under section 74 or 76 of the Income Tax Act 1947; or\n(c)any information or supporting documents that the Board may require, given by or in respect of the self‑employed person to the Board in the manner the Board requires,\n[S 888/2025 wef 01/01/2026]\nin respect of the self‑employed person’s income for the relevant year."
+   }
+  },
+  {
+   "id": "SG-H542-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Additional contributions"
+   },
+   "text": {
+    "en": "8.—(1) Where the contributions payable by a self‑employed person for any relevant year recomputed in accordance with regulation 6, 7(6) or 7A(5) exceed the contributions already paid by him or her for that year, the self‑employed person must make such amount of additional contributions as is equivalent to the difference to the Fund.\n(2) The self‑employed person must contribute the amount of the difference mentioned in paragraph (1) within 30 days or such other extended time as the Board may allow after the date of issue of the notice of computation, notice of contribution or contributions notice, as the case may be.\n(3) Any additional contributions mentioned in paragraph (1) may be paid in instalments so long as the total amount of such contributions is paid within the relevant period mentioned in paragraph (2)."
+   }
+  },
+  {
+   "id": "SG-H542-A8.001",
+   "no": 8.001,
+   "noLabel": {
+    "en": "8A."
+   },
+   "heading": {
+    "en": "Deduction of estimated contributions"
+   },
+   "text": {
+    "en": "8A.—(1) Subject to paragraph (2), the amount of contributions payable by a self‑employed person for a relevant year starting on or after 1 January 2020 computed in accordance with regulation 4(1) or (2), or recomputed under regulation 7(6) or 7A(5) (as the case may be) (C) is to be reduced by the total amount of estimated contributions payable to the Fund under section 9B of the Act for the self‑employed person for the relevant year (E) (if any).\n(2) If E is more than C, the contribution payable by the self‑employed person under section 9A of the Act for that relevant year is nil."
+   }
+  },
+  {
+   "id": "SG-H542-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Application to reduce contributions for relevant year starting before 1 January 2025"
+   },
+   "text": {
+    "en": "9.—(1) This regulation applies to a self‑employed person who during the relevant year starting before 1 January 2025 was also employed as an employee and where contributions in respect of such employment have been made to the Board.\n[S 888/2025 wef 01/01/2026]\n(2) Any self‑employed person to whom this regulation applies may apply in writing to the Board to reduce the amount of contributions he or she is liable to pay under these Regulations so that the aggregate amount of all contributions paid into the self‑employed person’s account in the Fund (excluding contributions paid in respect of additional wages) for the relevant year does not exceed the maximum amount determined in accordance with paragraph (3).\n[S 888/2025 wef 01/01/2026]\n(3) The maximum amount mentioned in paragraph (2) is the following, whichever is the higher:\n(a)the maximum amount specified in the First Schedule for the relevant year which is applicable to the applicant, after deducting the total amount of estimated contributions payable to the Fund under section 9B of the Act for the applicant for the relevant year, if any;\n(b)a proportion of 12 times the maximum amount of contributions an employer is liable to pay in respect of the applicant’s ordinary wages for the month as prescribed in —\n(i)the First Schedule to the Act; or\n(ii)the First or Second Schedule to the Central Provident Fund (Public Sector Employees) Regulations 2011,\nas the case may be.\n(4) For the purposes of paragraph (3)(b), the proportion must be —\n(a)ascertained by reference to such proportion of the contributions the Minister has under section 13(4) of the Act directed the Board to pay into the medisave account of the applicant; and\n(b)determined and computed in such manner as the Board may think fit.\n[S 888/2025 wef 01/01/2026]"
+   }
+  },
+  {
+   "id": "SG-H542-A9.001",
+   "no": 9.001,
+   "noLabel": {
+    "en": "9A."
+   },
+   "heading": {
+    "en": "Application to reduce contributions for relevant year starting on or after 1 January 2025"
+   },
+   "text": {
+    "en": "9A.—(1) This regulation applies to a self-employed person who during a relevant year starting on or after 1 January 2025 is also an employee, a platform worker or both, and where contributions in respect of his or her wages or platform remuneration or both (as the case may be) have been made to the Board.\n(2) A self-employed person mentioned in paragraph (1) may apply in writing to the Board to reduce the amount of contributions he or she is liable to pay under these Regulations so that the aggregate amount of all contributions paid into the self-employed person’s account in the Fund (excluding any contributions paid in respect of additional wages) for the relevant year does not exceed the maximum amount prescribed in the Third Schedule.\n[S 888/2025 wef 01/01/2026]"
+   }
+  },
+  {
+   "id": "SG-H542-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Application to reduce contributions by Member of Parliament"
+   },
+   "text": {
+    "en": "10.—(1) This regulation applies to a Member of Parliament who during any relevant year is liable to make contributions to the Board under regulations 4 and 5.\n(2) Any Member of Parliament to whom this regulation applies may apply in writing to the Board to reduce the amount of contributions the Member of Parliament is liable to pay under regulations 4 and 5 so that the aggregate amount of all contributions paid into his or her account for the relevant year does not exceed the maximum amount determined in accordance with paragraph (3).\n(3) The maximum amount mentioned in paragraph (2) is —\n(a)the maximum amount specified in the First Schedule for the relevant year which is applicable to the Member of Parliament, after deducting the total amount of estimated contributions payable to the Fund under section 9B of the Act for the Member of Parliament for the relevant year, if any; or\n(b)a proportion of 12 times the maximum amount of contributions that the Member of Parliament is liable to pay in respect of his or her allowance or honorarium and additional allowance for the month as prescribed in the Second Schedule,\nwhichever is the higher.\n(4) For the purposes of paragraph (3)(b), the proportion must be —\n(a)ascertained by reference to such proportion of the contributions the Minister has under section 13(4) of the Act directed the Board to pay into the medisave account of the Member of Parliament; and\n(b)determined and computed in such manner as the Board may think fit."
+   }
+  },
+  {
+   "id": "SG-H542-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "text": {
+    "en": "11. [Deleted by S 194/2016]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H542-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Notice of amount of income and additional contributions"
+   },
+   "text": {
+    "en": "12. The Board may, in consultation with the Comptroller, carry out the recomputation mentioned in regulation 6 and the self‑employed person must be notified in writing of the amount of his or her income for any relevant year and any amount of additional contributions payable for that year."
+   }
+  },
+  {
+   "id": "SG-H542-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Deferment of payment of small contributions"
+   },
+   "text": {
+    "en": "13. Despite regulation 8, where the amount of additional contributions payable for any relevant year —\n(a)is less than one dollar, it is to be disregarded; or\n(b)is less than such amount as the Board may determine, payment of the additional contributions may be deferred till the end of the year immediately following the relevant year or such other later time as the Board may allow."
+   }
+  },
+  {
+   "id": "SG-H542-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Calculation of contributions"
+   },
+   "text": {
+    "en": "14. In calculating the amount of contributions payable under regulation 4, 7, 7A, 8 or 8A, any fraction of a dollar is to be disregarded."
+   }
+  },
+  {
+   "id": "SG-H542-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Contributions payable by persons who have not received assessment from Comptroller"
+   },
+   "text": {
+    "en": "15.—(1) Despite regulations 4 and 7 and subject to paragraph (2), where a self‑employed person as at 1 July of the year 1992 or as at 1 January of any subsequent relevant year has not previously received any notice of assessment or any notice from the Comptroller informing the self‑employed person that on the basis of the income declared in his or her return of income, he or she is not liable to pay income tax, the self‑employed person must pay contributions on his or her own behalf equivalent to —\n(a)$90 in respect of the period from 1 July to 31 December 1992;\n(b)$180 in respect of the period from 1 January to 31 December 1993;\n(c)$240 in respect of the period from 1 January to 31 December 1994;\n(d)$300 in respect of the period from 1 January to 31 December 1995;\n(e)$360 in respect of the period from 1 January to 31 December 1996;\n(f)$360 in respect of the period from 1 January to 31 December 1997 if the self‑employed person has not attained 35 years of age before 1 January 1997 for the whole or any part of that period;\n(g)$420 in respect of the period from 1 January to 31 December 1997 if the self‑employed person has attained 35 years of age before 1 January 1997 and is not a relevant public officer for the whole or any part of that period;\n(h)$360 in respect of any relevant year from 1 January 1997 to 31 December 2002 if the self‑employed person has attained 35 years of age on 1 January in that relevant year and is a relevant public officer for the whole or any part of that relevant year;\n(i)$360 in respect of any relevant year from 1 January 1998 to 31 December 2002 if the self‑employed person has not attained 35 years of age on 1 January in that relevant year;\n(j)$420 in respect of any relevant year from 1 January 1998 to 31 December 2002 if the self‑employed person has attained 35 years of age but has not attained 45 years of age on 1 January in that relevant year and is not a relevant public officer for the whole or any part of that relevant year;\n(k)$480 in respect of any relevant year from 1 January 1998 to 31 December 2002 if the self‑employed person has attained 45 years of age on 1 January in that relevant year and is not a relevant public officer for the whole or any part of that relevant year;\n(l)$540 in respect of any relevant year from 1 January 2003 to 31 December 2006 if the self‑employed person has not attained 35 years of age on 1 January in that relevant year;\n(m)$630 in respect of any relevant year from 1 January 2003 to 31 December 2006 if the self‑employed person has attained 35 years of age but has not attained 45 years of age on 1 January in that relevant year and is not a relevant public officer for the whole or any part of that relevant year;\n(n)$720 in respect of any relevant year from 1 January 2003 to 31 December 2006 if the self‑employed person has attained 45 years of age on 1 January in that relevant year and is not a relevant public officer for the whole or any part of that relevant year;\n(o)$540 in respect of any relevant year from 1 January 2003 to 31 December 2006 if the self‑employed person is a relevant public officer for the whole or any part of that relevant year;\n(p)$195 in respect of any relevant year from 1 January 2007 to 31 December 2009 if the self‑employed person has not attained 35 years of age on 1 January in that relevant year;\n(q)$225 in respect of any relevant year from 1 January 2007 to 31 December 2009 if the self‑employed person has attained 35 years of age but has not attained 45 years of age on 1 January in that relevant year;\n(r)$254 in respect of any relevant year from 1 January 2007 to 31 December 2009 if the self‑employed person has attained 45 years of age on 1 January in that relevant year;\n(s)$199 in respect of the relevant year beginning 1 January 2010 if the self‑employed person has not attained 35 years of age on 1 January in that relevant year;\n(t)$230 in respect of the relevant year beginning 1 January 2010 if the self‑employed person has attained 35 years of age but has not attained 45 years of age on 1 January in that relevant year;\n(u)$260 in respect of the relevant year beginning 1 January 2010 if the self‑employed person has attained 45 years of age on 1 January in that relevant year;\n(v)$209 in respect of any relevant year from 1 January 2011 to 31 December 2013 if the self‑employed person has not attained 35 years of age on 1 January in that relevant year;\n(w)$240 in respect of any relevant year from 1 January 2011 to 31 December 2013 if the self‑employed person has attained 35 years of age but has not attained 45 years of age on 1 January in that relevant year;\n(x)$270 in respect of any relevant year from 1 January 2011 to 31 December 2012 if the self‑employed person has attained 45 years of age on 1 January in that relevant year;\n(y)$270 in respect of the relevant year beginning 1 January 2013 if the self‑employed person has attained 45 years of age but has not attained 50 years of age on 1 January in that relevant year;\n(z)$285 in respect of the relevant year beginning 1 January 2013 if the self‑employed person has attained 50 years of age on 1 January in that relevant year;\n(za)$315 in respect of the relevant year beginning 1 January 2014 if the self‑employed person has not attained 35 years of age on 1 January in that relevant year;\n(zb)$360 in respect of the relevant year beginning 1 January 2014 if the self‑employed person has attained 35 years of age but has not attained 45 years of age on 1 January in that relevant year;\n(zc)$405 in respect of the relevant year beginning 1 January 2014 if the self‑employed person has attained 45 years of age but has not attained 50 years of age on 1 January in that relevant year;\n(zd)$427 in respect of the relevant year beginning 1 January 2014 if the self‑employed person has attained 50 years of age on 1 January in that relevant year;\n(ze)$360 in respect of the relevant year beginning 1 January 2015 or any subsequent relevant year before 1 January 2020 if the self‑employed person has not attained 35 years of age on 1 January in that relevant year;\n(zf)$405 in respect of the relevant year beginning 1 January 2015 or any subsequent relevant year before 1 January 2020 if the self‑employed person has attained 35 years of age but has not attained 45 years of age on 1 January in that relevant year;\n(zg)$450 in respect of the relevant year beginning 1 January 2015 or any subsequent relevant year before 1 January 2020 if the self‑employed person has attained 45 years of age but has not attained 50 years of age on 1 January in that relevant year; and\n(zh)$472 in respect of the relevant year beginning 1 January 2015 or any subsequent relevant year before 1 January 2020 if the self‑employed person has attained 50 years of age on 1 January in that relevant year.\n(2) If a self‑employed person mentioned in paragraph (1) informs the Board in such manner as the Board may require of the amount of the person’s income, and satisfies the Board with such supporting documents as the Board may require (including any notice of assessment mentioned in paragraph (3)), that the amount of the person’s income is such as would render him or her liable to pay any amount other than the relevant amount specified in paragraph (1), the person must, where the Board has in its discretion recomputed the amount the person is liable to pay under regulation 4, pay that other amount instead of the relevant amount specified in paragraph (1).\n(3) If the Comptroller subsequently issues to a self‑employed person mentioned in paragraph (1) a notice of assessment in respect of the income accrued, derived or received in any relevant year beginning 1 January 2002 or any subsequent year before 1 January 2020 —\n(a)the Board may —\n(i)recompute the amount of contributions payable by the person for that relevant year on the basis of the amount of income stated in that notice of assessment in accordance with regulation 4 or 7; and\n(ii)issue a notice to the self‑employed person informing him or her of the recomputed amount; and\n(b)the self‑employed person must pay that other amount recomputed by the Board instead of the relevant amount specified in paragraph (1).\n(4) The contributions payable under this regulation by a self‑employed person mentioned in paragraph (1) for any relevant year —\n(a)must be paid —\n(i)before 1 June of the year immediately after the relevant year; or\n(ii)where the Board has extended the period for payment, within such period as may be extended by the Board; and\n(b)may be paid in instalments, so long as the total amount of contributions is paid within the relevant period mentioned in sub‑paragraph (a)."
+   }
+  },
+  {
+   "id": "SG-H542-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Contributions payable despite objection or appeal"
+   },
+   "text": {
+    "en": "16. The contributions payable under these Regulations must be paid within the time provided for in these Regulations despite any objection or appeal against the notice of assessment unless the Board extends the time within which the payment is to be made."
+   }
+  },
+  {
+   "id": "SG-H542-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "heading": {
+    "en": "Voluntary estimated contributions"
+   },
+   "text": {
+    "en": "17.—(1) A person (called in this regulation the payer) from whom a revenue payment is due to a self‑employed person but who is not required to pay any estimated contribution to the self‑employed person under section 9B of the Act may, with the self‑employed person’s consent, pay to the Fund a voluntary estimated contribution for that self‑employed person.\n(2) No voluntary estimated contribution may be made under paragraph (1) by a payer in respect of a revenue payment —\n(a)to a self‑employed person who is excluded under regulation 9 of the Central Provident Fund (Contribute As You Earn Scheme) Regulations 2019 from receiving estimated contributions; or\n(b)if the payment of the estimated contribution by the payer in respect of that revenue payment is waived under section 9C of the Act."
+   }
+  },
+  {
+   "id": "SG-H542-A17.027",
+   "no": 17.027,
+   "noLabel": {
+    "en": "17AA."
+   },
+   "text": {
+    "en": "17AA. [Deleted by S 1020/2021]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H542-A17.028",
+   "no": 17.028,
+   "noLabel": {
+    "en": "17AB."
+   },
+   "heading": {
+    "en": "Voluntary contributions to medisave account"
+   },
+   "text": {
+    "en": "17AB. Where any contribution has been paid voluntarily to the Fund by or for a self‑employed person which is intended to be paid to the self‑employed person’s medisave account, the Board may apply the whole or part of the contribution towards —\n(a)any contribution that is or becomes payable by the self‑employed person under these Regulations or section 9A of the Act, as the case may be; and\n(b)any interest that is or becomes payable by the self‑employed person under section 9(2) of the Act."
+   }
+  },
+  {
+   "id": "SG-H542-A17.001",
+   "no": 17.001,
+   "noLabel": {
+    "en": "17A."
+   },
+   "heading": {
+    "en": "Moneys received under nomination by memorandum, or as cash grants or contributions from Government"
+   },
+   "text": {
+    "en": "17A.—(1) Where any sum has been transferred to a self‑employed person’s accounts in the Fund in accordance with section 25(1)(a)(ii) or (iii) of the Act, the Board may apply the whole or any part of that sum towards any contribution or interest which is or may become payable by the person to the Board under regulation 4, 5, 6, 7, 7A, 8 or 15 for any relevant year.\n(2) Where any sum has been credited to a self‑employed person’s account in the Fund in accordance with section 14(1) or 57C(1)(b) of the Act, the Board may, if the Minister directs, apply the whole or any part of that sum or any interest on that sum towards any contribution or interest which is or may become payable by the person to the Board under regulation 4, 5, 6, 7, 7A, 8 or 15 for any relevant year."
+   }
+  },
+  {
+   "id": "SG-H542-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "heading": {
+    "en": "Registration"
+   },
+   "text": {
+    "en": "18.—(1) Every self‑employed person must, before 31 December 1992 or within 3 months of the commencement of the self‑employed person’s trade, business, profession or vocation (whichever is the later) obtain, complete and submit to the Board a registration form as may be determined by the Board unless the self‑employed person has been otherwise notified by the Board.\n(2) Every self‑employed person, whose particulars have been provided by the Comptroller or any other authority or who has completed and submitted the registration form to the Board, must be registered and allotted a reference number.\n(3) Every registered self‑employed person who ceases to be engaged in his or her trade, business, profession or vocation must inform the Board in writing within one month of such cessation and if the self‑employed person subsequently resumes his or her trade, business, profession or vocation, the self‑employed person must inform the Board in writing within one month after so resuming."
+   }
+  },
+  {
+   "id": "SG-H542-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "heading": {
+    "en": "Request for information and returns"
+   },
+   "text": {
+    "en": "19. The Board may, by written notice, require —\n(a)any person to furnish, within the time specified in the notice or such other extended time as the Board may allow, any information that may be required by the Board for the purpose of inquiring into or ascertaining that person’s or any other person’s liability under these Regulations; or\n(b)any self‑employed person, within the time specified in the notice or such other extended time as the Board may allow, to complete and deliver to the Board any return specified in the notice, including a return of income for any relevant year or any other previous year."
+   }
+  },
+  {
+   "id": "SG-H542-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "heading": {
+    "en": "Transmission of information by Comptroller"
+   },
+   "text": {
+    "en": "20. The Comptroller may, for the purposes of enabling the Board to compute the amount of contributions payable by a self‑employed person in a relevant year, transmit to the Board information in respect of the self‑employed person’s income for the relevant year stated in —\n(a)a notice of assessment; or\n(b)a notice of additional assessment or notice of revised assessment (if any) issued by the Comptroller under section 74 or 76 of the Income Tax Act 1947."
+   }
+  },
+  {
+   "id": "SG-H542-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "text": {
+    "en": "21. [Deleted by S 713/2024]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H542-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "text": {
+    "en": "22. [Deleted by S 713/2024]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H542-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "heading": {
+    "en": "Service of notices"
+   },
+   "text": {
+    "en": "23. Where a person to whom there has been addressed a registered letter containing any notice which may be given under the provisions of these Regulations is informed of the fact that there is a registered letter awaiting the person at a post office and the person refuses or neglects to take delivery of the letter, the notice is deemed to have been served on the person on the date on which the person was informed that there was a registered letter awaiting the person at the post office."
+   }
+  },
+  {
+   "id": "SG-H542-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "heading": {
+    "en": "Notice of change of address"
+   },
+   "text": {
+    "en": "24.—(1) Every self‑employed person liable to pay contributions under these Regulations must immediately inform the Board in writing of any change of his or her address, except that a self‑employed person who changes his or her residential address is deemed to have informed the Board of such change in compliance with this paragraph upon the self‑employed person making a report of the change under section 10 of the National Registration Act 1965.\n(2) Where any person has changed his or her address without informing the Board as required under paragraph (1), any notice or document given or served on the person by posting the notice or document or a copy of the notice or document to the person at his or her last known address is deemed to have been duly given or served and is conclusive evidence of the fact of service."
+   }
+  },
+  {
+   "id": "SG-H542-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "25. The Minister, or such other person as the Minister may in writing authorise, may in his or her discretion exempt any person or class of persons from any or all of the provisions of these Regulations."
+   }
+  },
+  {
+   "id": "SG-H542-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulations 4, 9(3)(a) and 10(3)(a)\nRates of Contributions\nPeriod in respect of which contribution is payable\nRates\n1.1 July to 31 December 1992\nAn amount equivalent to 3% of half of the income for that year subject to a maximum of $1,080.\n2.1 January to 31 December 1993\nAn amount equivalent to 3% of the income for that year subject to a maximum of $2,160.\n3.1 January to 31 December 1994\nAn amount equivalent to 4% of the income for that year subject to a maximum of $2,880.\n4.1 January to 31 December 1995\nAn amount equivalent to 5% of the income for that year subject to a maximum of $3,600.\n5.1 January to 31 December 1996\nAn amount equivalent to 6% of the income for that year subject to a maximum of $4,320.\n6.1 January to 31 December 1997\n(a)For a self‑employed person who has not attained 35 years of age on 1 January 1997 —\nAn amount equivalent to 6% of the income for that year subject to a maximum of $4,320.\n(b)For a self‑employed person who has attained 35 years of age on 1 January 1997 —\nAn amount equivalent to 7% of the income for that year subject to a maximum of $5,040.\n7.For each relevant year between 1 January 1998 and 31 December 2002\n(a)For a self‑employed person who has not attained 35 years of age on 1 January 1998 or any subsequent year before 1 January 2003 —\nAn amount equivalent to 6% of the income for that year subject to a maximum of $4,320.\n(b)For a self‑employed person who has attained 35 years of age but has not attained 45 years of age on 1 January 1998 or any subsequent year before 1 January 2003 —\nAn amount equivalent to 7% of the income for that year subject to a maximum of $5,040.\n(c)For a self‑employed person who has attained 45 years of age on 1 January 1998 or any subsequent year before 1 January 2003 —\nAn amount equivalent to 8% of the income for that year subject to a maximum of $5,760.\n8.1 January to 31 December 2003\n(a)For a self‑employed person who has not attained 35 years of age on 1 January 2003 —\nAn amount equivalent to 6% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $4,320.\n(b)For a self‑employed person who has attained 35 years of age but has not attained 45 years of age on 1 January 2003 —\nAn amount equivalent to 7% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $5,040.\n(c)For a self‑employed person who has attained 45 years of age on 1 January 2003 —\nAn amount equivalent to 8% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $5,760.\n9.1 January to 31 December 2004\n(a)For a self‑employed person who has not attained 35 years of age on 1 January 2004 —\nAn amount equivalent to 6% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $3,960.\n(b)For a self‑employed person who has attained 35 years of age but has not attained 45 years of age on 1 January 2004 —\nAn amount equivalent to 7% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $4,620.\n(c)For a self‑employed person who has attained 45 years of age on 1 January 2004 —\nAn amount equivalent to 8% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $5,280.\n10.1 January to 31 December 2005\n(a)For a self‑employed person who has not attained 35 years of age on 1 January 2005 —\nAn amount equivalent to 6% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $3,600.\n(b)For a self‑employed person who has attained 35 years of age but has not attained 45 years of age on 1 January 2005 —\nAn amount equivalent to 7% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $4,200.\n(c)For a self‑employed person who has attained 45 years of age on 1 January 2005 —\nAn amount equivalent to 8% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $4,800.\n11.1 January to 31 December 2006\n(a)For a self‑employed person who has not attained 35 years of age on 1 January 2006 —\nAn amount equivalent to 6% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $3,240.\n(b)For a self‑employed person who has attained 35 years of age but has not attained 45 years of age on 1 January 2006 —\nAn amount equivalent to 7% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $3,780.\n(c)For a self‑employed person who has attained 45 years of age on 1 January 2006 —\nAn amount equivalent to 8% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $4,320.\n12. For each relevant year in the period from 1 January 2007 to 31 December 2009, the contributions payable by a self‑employed person are as follows:\nTotal amount of the self‑employed person’s income\nSelf‑employed person who has not attained 35 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 35 years of age but has not attained 45 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 45 years of age on 1 January of the relevant year\n(1)\n(2)\n(3)\n(4)\nNot exceeding $6,000\nNil\nNil\nNil\nExceeding $6,000 but not exceeding $12,000\nAn amount equal to 2.17% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 2.5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 2.83% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nExceeding $12,000 but not exceeding $18,000\nAn amount equal to the sum of $260.40 and 0.1516 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) of the year and $12,000.\nAn amount equal to the sum of $300 and 0.175 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) of the year and $12,000.\nAn amount equal to the sum of $339.60 and 0.1984 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) of the year and $12,000.\nExceeding $18,000\nAn amount equal to 6.5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $3,510.\nAn amount equal to 7.5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $4,050.\nAn amount equal to 8.5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $4,590.\n13. For the relevant year beginning 1 January 2010, the contributions payable by a self‑employed person are as follows:\nTotal amount of the self‑employed person’s income\nSelf‑employed person who has not attained 35 years of age on 1 January 2010\nSelf‑employed person who has attained 35 years of age but has not attained 45 years of age on 1 January 2010\nSelf‑employed person who has attained 45 years of age on 1 January 2010\n(1)\n(2)\n(3)\n(4)\nNot exceeding $6,000\nNil\nNil\nNil\nExceeding $6,000 but not exceeding $12,000\nAn amount equal to 2.22% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 2.56% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 2.89% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nExceeding $12,000 but not exceeding $18,000\nAn amount equal to the sum of $266.40 and 0.1557 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) of the year and $12,000.\nAn amount equal to the sum of $307.20 and 0.1789 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) of the year and $12,000.\nAn amount equal to the sum of $346.80 and 0.2023 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) of the year and $12,000.\nExceeding $18,000\nAn amount equal to 6.67% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $3,601.\nAn amount equal to 7.67% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $4,141.\nAn amount equal to 8.67% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $4,681.\n14. For the relevant year beginning 1 January 2011, the contributions payable by a self‑employed person are as follows:\nTotal amount of the self‑employed person’s income\nSelf‑employed person who has not attained 35 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 35 years of age but has not attained 45 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 45 years of age on 1 January of the relevant year\n(1)\n(2)\n(3)\n(4)\nNot exceeding $6,000\nNil\nNil\nNil\nExceeding $6,000 but not exceeding $12,000\nAn amount equal to 2.33% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 2.67% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 3% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nExceeding $12,000 but not exceeding $18,000\nAn amount equal to the sum of $279.60 and 0.1634 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) of the year and $12,000.\nAn amount equal to the sum of $320.40 and 0.1866 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) of the year and $12,000.\nAn amount equal to the sum of $360 and 0.21 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) of the year and $12,000.\nExceeding $18,000\nAn amount equal to 7% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $3,920.\nAn amount equal to 8% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $4,480.\nAn amount equal to 9% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $5,040.\n15. For the relevant year beginning 1 January 2012, the contributions payable by a self‑employed person are as follows:\nTotal amount of the self‑employed person’s income\nSelf‑employed person who has not attained 35 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 35 years of age but has not attained 45 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 45 years of age on 1 January of the relevant year\n(1)\n(2)\n(3)\n(4)\nNot exceeding $6,000\nNil\nNil\nNil\nExceeding $6,000 but not exceeding $12,000\nAn amount equal to 2.33% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 2.67% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 3% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nExceeding $12,000 but not exceeding $18,000\nAn amount equal to the sum of $279.60 and 0.1634 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) of the year and $12,000.\nAn amount equal to the sum of $320.40 and 0.1866 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) of the year and $12,000.\nAn amount equal to the sum of $360 and 0.21 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) of the year and $12,000.\nExceeding $18,000\nAn amount equal to 7% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $4,200.\nAn amount equal to 8% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $4,800.\nAn amount equal to 9% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $5,400.\n16. For the relevant year beginning 1 January 2013, the contributions payable by a self‑employed person are as follows:\nTotal amount of the self‑employed person’s income\nSelf‑employed person who has not attained 35 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 35 years of age but has not attained 45 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 45 years of age but has not attained 50 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 50 years of age on 1 January of the relevant year\n(1)\n(2)\n(3)\n(4)\n(5)\nNot exceeding $6,000\nNil\nNil\nNil\nNil\nExceeding $6,000 but not exceeding $12,000\nAn amount equal to 2.33% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 2.67% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 3% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 3.17% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nExceeding $12,000 but not exceeding $18,000\nAn amount equal to the sum of $279.60 and 0.1634 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $320.40 and 0.1866 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $360 and 0.21 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $380.40 and 0.2216 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nExceeding $18,000\nAn amount equal to 7% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $4,200.\nAn amount equal to 8% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $4,800.\nAn amount equal to 9% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $5,400.\nAn amount equal to 9.5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $5,700.\n17. For the relevant year beginning 1 January 2014, the contributions payable by a self‑employed person are as follows:\nTotal amount of the self‑employed person’s income\nSelf‑employed person who has not attained 35 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 35 years of age but has not attained 45 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 45 years of age but has not attained 50 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 50 years of age on 1 January of the relevant year\n(1)\n(2)\n(3)\n(4)\n(5)\nNot exceeding $6,000\nNil\nNil\nNil\nNil\nExceeding $6,000 but not exceeding $12,000\nAn amount equal to 3.5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 4% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 4.5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 4.75% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nExceeding $12,000 but not exceeding $18,000\nAn amount equal to the sum of $420 and 0.14 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) of the year and $12,000.\nAn amount equal to the sum of $480 and 0.16 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) of the year and $12,000.\nAn amount equal to the sum of $540 and 0.18 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) of the year and $12,000.\nAn amount equal to the sum of $570 and 0.19 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) of the year and $12,000.\nExceeding $18,000\nAn amount equal to 7% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $4,200.\nAn amount equal to 8% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $4,800.\nAn amount equal to 9% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $5,400.\nAn amount equal to 9.5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $5,700.\n18. For the relevant year beginning 1 January 2015, the contributions payable by a self‑employed person are as follows:\nTotal amount of the self‑employed person’s income\nSelf‑employed person who has not attained 35 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 35 years of age but has not attained 45 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 45 years of age but has not attained 50 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 50 years of age on 1 January of the relevant year\n(1)\n(2)\n(3)\n(4)\n(5)\nNot exceeding $6,000\nNil\nNil\nNil\nNil\nExceeding $6,000 but not exceeding $12,000\nAn amount equal to 4% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 4.5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 5.25% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nExceeding $12,000 but not exceeding $18,000\nAn amount equal to the sum of $480 and 0.16 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $540 and 0.18 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $600 and 0.20 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $630 and 0.21 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nExceeding $18,000\nAn amount equal to 8% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $4,800.\nAn amount equal to 9% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $5,400.\nAn amount equal to 10% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $6,000.\nAn amount equal to 10.5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $6,300.\n19. For each relevant year beginning 1 January 2016, 1 January 2017, 1 January 2018, 1 January 2019, 1 January 2020, 1 January 2021 or 1 January 2022, the contributions payable by a self‑employed person are as follows:\nTotal amount of the self‑employed person’s income\nSelf‑employed person who has not attained 35 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 35 years of age but has not attained 45 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 45 years of age but has not attained 50 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 50 years of age on 1 January of the relevant year\n(1)\n(2)\n(3)\n(4)\n(5)\nNot exceeding $6,000\nNil\nNil\nNil\nNil\nExceeding $6,000 but not exceeding $12,000\nAn amount equal to 4% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 4.5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 5.25% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nExceeding $12,000 but not exceeding $18,000\nAn amount equal to the sum of $480 and 0.16 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $540 and 0.18 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $600 and 0.20 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $630 and 0.21 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nExceeding $18,000\nAn amount equal to 8% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $5,760.\nAn amount equal to 9% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $6,480.\nAn amount equal to 10% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $7,200.\nAn amount equal to 10.5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $7,560.\n20. For the relevant year beginning 1 January 2023, the contributions payable by a self‑employed person are as follows:\nTotal amount of the self‑employed person’s income\nSelf‑employed person who has not attained 35 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 35 years of age but has not attained 45 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 45 years of age but has not attained 50 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 50 years of age on 1 January of the relevant year\n(1)\n(2)\n(3)\n(4)\n(5)\nNot exceeding $6,000\nNil\nNil\nNil\nNil\nExceeding $6,000 but not exceeding $12,000\nAn amount equal to 4% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 4.5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 5.25% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nExceeding $12,000 but not exceeding $18,000\nAn amount equal to the sum of $480 and 0.16 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $540 and 0.18 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $600 and 0.20 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $630 and 0.21 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nExceeding $18,000\nAn amount equal to 8% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $5,856.\nAn amount equal to 9% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $6,588.\nAn amount equal to 10% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $7,320.\nAn amount equal to 10.5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $7,686.\n21. For the relevant year beginning 1 January 2024, the contributions payable by a self‑employed person are as follows:\nTotal amount of the self‑employed person’s income\nSelf‑employed person who has not attained 35 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 35 years of age but has not attained 45 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 45 years of age but has not attained 50 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 50 years of age on 1 January of the relevant year\n(1)\n(2)\n(3)\n(4)\n(5)\nNot exceeding $6,000\nNil\nNil\nNil\nNil\nExceeding $6,000 but not exceeding $12,000\nAn amount equal to 4% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 4.5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 5.25% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nExceeding $12,000 but not exceeding $18,000\nAn amount equal to the sum of $480 and 0.16 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $540 and 0.18 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $600 and 0.20 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $630 and 0.21 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nExceeding $18,000\nAn amount equal to 8% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $6,528.\nAn amount equal to 9% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $7,344.\nAn amount equal to 10% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $8,160.\nAn amount equal to 10.5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $8,568.\n22. For the relevant year beginning 1 January 2025, the contributions payable by a self‑employed person are as follows:\nTotal amount of the self‑employed person’s income\nSelf‑employed person who has not attained 35 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 35 years of age but has not attained 45 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 45 years of age but has not attained 50 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 50 years of age on 1 January of the relevant year\n(1)\n(2)\n(3)\n(4)\n(5)\nNot exceeding $6,000\nNil\nNil\nNil\nNil\nExceeding $6,000 but not exceeding $12,000\nAn amount equal to 4% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 4.5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 5.25% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nExceeding $12,000 but not exceeding $18,000\nAn amount equal to the sum of $480 and 0.16 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $540 and 0.18 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $600 and 0.20 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $630 and 0.21 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nExceeding $18,000\nAn amount equal to 8% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $7,104.\nAn amount equal to 9% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $7,992.\nAn amount equal to 10% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $8,880.\nAn amount equal to 10.5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $9,324.\n23. For the relevant year beginning 1 January 2026 and every subsequent year, the contributions payable by a self‑employed person are as follows:\nTotal amount of the self‑employed person’s income\nSelf‑employed person who has not attained 35 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 35 years of age but has not attained 45 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 45 years of age but has not attained 50 years of age on 1 January of the relevant year\nSelf‑employed person who has attained 50 years of age on 1 January of the relevant year\n(1)\n(2)\n(3)\n(4)\n(5)\nNot exceeding $6,000\nNil\nNil\nNil\nNil\nExceeding $6,000 but not exceeding $12,000\nAn amount equal to 4% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 4.5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nAn amount equal to 5.25% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year.\nExceeding $12,000 but not exceeding $18,000\nAn amount equal to the sum of $480 and 0.16 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $540 and 0.18 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $600 and 0.20 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nAn amount equal to the sum of $630 and 0.21 of the difference between the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year and $12,000.\nExceeding $18,000\nAn amount equal to 8% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $7,680.\nAn amount equal to 9% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $8,640.\nAn amount equal to 10% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $9,600.\nAn amount equal to 10.5% of the income (less any allowance or honorarium he or she received for that year as a Member of Parliament) for that year, subject to a maximum of $10,080."
+   }
+  },
+  {
+   "id": "SG-H542-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulations 5(1) and 10(3)(b)\nRates of contributions for\nMembers of Parliament\n1. Subject to paragraphs 2, 3 and 4, with effect from 1 January 2026, the contributions payable by a Member of Parliament are as follows:\nAmount of the total allowance or honorarium, and additional allowance, of the Member of Parliament for the calendar month\nContributions payable by the Member of Parliament for the calendar month\n55 years of age\nand below\nAbove 55\nbut not more than\n60 years of age\nAbove 60\nbut not more than\n65 years of age\nAbove 65\nbut not more than\n70 years of age\nAbove 70 years of age\n(1)\n(2)\n(3)\n(4)\n(5)\n(6)\nNot exceeding $500\nNil\nNil\nNil\nNil\nNil\nExceeding $500 but\nnot exceeding $750\nAn amount equal\nto 0.6 of the difference between —\n(a)the sum of the total allowance or honorarium of the Member of Parliament for the month and any additional allowance of the Member of Parliament payable in the month; and\nAn amount equal\nto 0.54 of the difference between —\n(a)the sum of the total allowance or honorarium of the Member of Parliament for the month and any additional allowance of the Member of Parliament payable in the month; and\nAn amount equal\nto 0.375 of the difference between —\n(a)the sum of the total allowance or honorarium of the Member of Parliament for the month and any additional allowance of the Member of Parliament payable in the month; and\nAn amount equal\nto 0.225 of the difference between —\n(a)the sum of the total allowance or honorarium of the Member of Parliament for the month and any additional allowance of the Member of Parliament payable in the month; and\nAn amount equal\nto 0.15 of the difference between —\n(a)the sum of the total allowance or honorarium of the Member of Parliament for the month and any additional allowance of the Member of Parliament payable in the month; and\n(b)$500.\n(b)$500.\n(b)$500.\n(b)$500.\n(b)$500.\nExceeding $750\nAn amount equal to the sum of —\n(a)20% of the total allowance or honorarium of the Member of Parliament for the month, subject to a maximum of 20% of the Monthly Ceiling; and\nAn amount equal to the sum of —\n(a)18% of the total allowance or honorarium of the Member of Parliament for the month, subject to a maximum of 18% of the Monthly Ceiling; and\nAn amount equal to the sum of —\n(a)12.5% of the total allowance or honorarium of the Member of Parliament for the month, subject to a maximum of 12.5% of the Monthly Ceiling; and\nAn amount equal to the sum of —\n(a)7.5% of the total allowance or honorarium of the Member of Parliament for the month, subject to a maximum of 7.5% of the Monthly Ceiling; and\nAn amount equal to the sum of —\n(a)5% of the total allowance or honorarium of the Member of Parliament for the month, subject to a maximum of 5% of the Monthly Ceiling; and\n(b)20% of any additional allowance of the Member of Parliament payable in the month.\n(b)18% of any additional allowance of the Member of Parliament payable in the month.\n(b)12.5% of any additional allowance of the Member of Parliament payable in the month.\n(b)7.5% of any additional allowance of the Member of Parliament payable in the month.\n(b)5% of any additional allowance of the Member of Parliament payable in the month.\n[S 888/2025 wef 01/01/2026]\n2.—(1) Subject to sub‑paragraph (2), in computing or recomputing the amount of total allowance or honorarium for the purposes of paragraph 3, the amount of total allowance or honorarium for each month which is in excess $6,000 is to be disregarded.\n(2) In computing or recomputing the amount of total allowance or honorarium for the year 2023 or any subsequent year for the purposes of paragraph 3, instead of applying sub‑paragraph (1), the amount of total allowance or honorarium for each month which is in excess of the Monthly Ceiling is to be disregarded.\n3.—(1) No contribution is payable by a Member of Parliament on any part of the additional allowance for any year that is in excess of the applicable amount less the amount of total allowance or honorarium of the Member of Parliament for that year.\n(2) Where the contribution payable by a Member of Parliament on any part of the additional allowance for any year (called in this sub‑paragraph the current year) is computed or recomputed before the end of the current year, no contribution is payable on any part of the additional allowance that is in excess of the amount computed in either of the following ways, at the option of the Member of Parliament:\n(a)the applicable amount less —\n(i)the amount of total allowance or honorarium of the Member of Parliament for the year immediately preceding the current year; and\n(ii)the additional allowance of the Member of Parliament already paid for the current year;\n(b)the applicable amount less —\n(i)the amount of total allowance or honorarium that the Member of Parliament expects to receive for the current year; and\n(ii)the additional allowance of the Member of Parliament already paid for the current year.\n(3) The amount of contributions payable by a Member of Parliament on the additional allowance of the Member of Parliament for any year (called in this sub‑paragraph the current year) must be computed or recomputed (as the case may be) in each of the following circumstances:\n(a)whenever any additional allowance of the Member of Parliament for the current year is payable;\n(b)if the Member of Parliament ceases to hold that office in the current year, at the end of the last month the Member of Parliament holds that office in that year;\n(c)if the Member of Parliament is still holding that office on 31 December of the current year, at the end of that year.\n4. For the purpose of this Schedule —\n(a)the contributions payable in respect of a Member of Parliament above 55, 60, 65 or 70 years of age are payable from the first day of the month following the month in which the Member of Parliament attains that age;\n(b)the amount of contributions payable in respect of a Member of Parliament is rounded down to the nearest dollar;\n(c)“applicable amount” means the sum of $102,000;\n(d)“Monthly Ceiling” is —\n(i)in respect of each month from January to August (both inclusive) in the year 2023 — $6,000;\n(ii)in respect of each month from September to December (both inclusive) in the year 2023 — $6,300;\n(iii)in respect of each month in the year 2024 — $6,800;\n(iv)in respect of each month in the year 2025 — $7,400; and\n(v)in respect of each month in the year 2026 and every subsequent year — $8,000; and\n(e)“year” means the period beginning on 1 January and ending on 31 December."
+   }
+  },
+  {
+   "id": "SG-H542-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulation 9A(2)\nMaximum amount for relevant years\nstarting on or after 1 January 2025\nRelevant year\nAge of self-employed person\nMaximum amount\n1.Starting on 1 January 2025\nBelow 35 years of age on 1 January 2025\n$7,104\n35 years of age or older but below 45 years of age on 1 January 2025\n$7,992\n45 years of age or older but below 50 years of age on 1 January 2025\n$8,880\n50 years of age or older on 1 January 2025\n$9,324\n2.Starting on or after 1 January 2026\nBelow 35 years of age on 1 January of the relevant year\n$7,680\n35 years of age or older but below 45 years of age on 1 January of the relevant year\n$8,640\n45 years of age or older but below 50 years of age on 1 January of the relevant year\n$9,600\n50 years of age or older on 1 January of the relevant year\n$10,080\n[S 888/2025 wef 01/01/2026]"
+   }
+  }
+ ]
+}

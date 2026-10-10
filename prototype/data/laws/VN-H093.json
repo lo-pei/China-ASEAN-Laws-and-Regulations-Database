@@ -1,0 +1,2332 @@
+{
+ "id": "VN-H093",
+ "title": {
+  "zh": null,
+  "en": null,
+  "orig": null
+ },
+ "country": "VN",
+ "countryName": "越南",
+ "layer": "intl",
+ "pack": "vn-p05",
+ "language": "vi",
+ "level": null,
+ "category": null,
+ "status": null,
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 229,
+ "chars": 74881,
+ "source": {
+  "name": "越南 — Luật Trọng tài thương mại số 54/2010/QH12",
+  "url": "https://vbpl.vn/van-ban/chi-tiet/luat-trong-tai-thuong-mai-so-54-2010-qh12--25700"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-08",
+ "completenessNote": "全文，共 229 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。（本件原文语种为 vi）（本次由归档原件补录入库）",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "VN-H093-A1",
+   "no": 1,
+   "noLabel": {
+    "vi": "1. Tranh chấp giữa các bên phát sinh từ hoạt động thương mại."
+   },
+   "text": {
+    "vi": "1. Tranh chấp giữa các bên phát sinh từ hoạt động thương mại."
+   }
+  },
+  {
+   "id": "VN-H093-A2",
+   "no": 2,
+   "noLabel": {
+    "vi": "2. Tranh ch ấp phát sinh gi ữa các bên trong đó ít nh ất m ột bên có ho ạt động"
+   },
+   "text": {
+    "vi": "2. Tranh ch ấp phát sinh gi ữa các bên trong đó ít nh ất m ột bên có ho ạt động\nthương mại."
+   }
+  },
+  {
+   "id": "VN-H093-A3",
+   "no": 3,
+   "noLabel": {
+    "vi": "3. Tranh chấp khác gi ữa các bên mà pháp lu ật quy định được giải quyết bằng"
+   },
+   "text": {
+    "vi": "3. Tranh chấp khác gi ữa các bên mà pháp lu ật quy định được giải quyết bằng\nTrọng tài.\nĐiều 3. Giải thích từ ngữ\nTrong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+   }
+  },
+  {
+   "id": "VN-H093-A4",
+   "no": 4,
+   "noLabel": {
+    "vi": "1. Trọng tài thương mại là phương thức giải quyết tranh chấp do các bên th ỏa"
+   },
+   "text": {
+    "vi": "1. Trọng tài thương mại là phương thức giải quyết tranh chấp do các bên th ỏa\nthuận và được tiến hành theo quy định của Luật này."
+   }
+  },
+  {
+   "id": "VN-H093-A5",
+   "no": 5,
+   "noLabel": {
+    "vi": "2. Thỏa thuận trọng tài là thỏa thuận giữa các bên về việc giải quyết bằng Trọng"
+   },
+   "text": {
+    "vi": "2. Thỏa thuận trọng tài là thỏa thuận giữa các bên về việc giải quyết bằng Trọng\ntài tranh chấp có thể phát sinh hoặc đã phát sinh."
+   }
+  },
+  {
+   "id": "VN-H093-A6",
+   "no": 6,
+   "noLabel": {
+    "vi": "3. Các bên tranh ch ấp là cá nhân, cơ quan, tổ chức Việt Nam hoặc nước ngoài"
+   },
+   "text": {
+    "vi": "3. Các bên tranh ch ấp là cá nhân, cơ quan, tổ chức Việt Nam hoặc nước ngoài\ntham gia tố tụng trọng tài với tư cách nguyên đơn, bị đơn.\n66 CÔNG BÁO/Số 564 + 565 ngày 25-9-2010"
+   }
+  },
+  {
+   "id": "VN-H093-A7",
+   "no": 7,
+   "noLabel": {
+    "vi": "4. Tranh chấp có yếu tố nước ngoài là tranh chấp phát sinh trong quan hệ thương"
+   },
+   "text": {
+    "vi": "4. Tranh chấp có yếu tố nước ngoài là tranh chấp phát sinh trong quan hệ thương\nmại, quan hệ pháp luật khác có yếu tố nước ngoài được quy định tại Bộ luật Dân sự."
+   }
+  },
+  {
+   "id": "VN-H093-A8",
+   "no": 8,
+   "noLabel": {
+    "vi": "5. Trọng tài viên là người được các bên lựa chọn hoặc được Trung tâm trọng tài"
+   },
+   "text": {
+    "vi": "5. Trọng tài viên là người được các bên lựa chọn hoặc được Trung tâm trọng tài\nhoặc Tòa án chỉ định để giải quyết tranh chấp theo quy định của Luật này."
+   }
+  },
+  {
+   "id": "VN-H093-A9",
+   "no": 9,
+   "noLabel": {
+    "vi": "6. Trọng tài quy chế là hình thức giải quyết tranh chấp tại một Trung tâm trọng"
+   },
+   "text": {
+    "vi": "6. Trọng tài quy chế là hình thức giải quyết tranh chấp tại một Trung tâm trọng\ntài theo quy định của Luật này và quy tắc tố tụng của Trung tâm trọng tài đó."
+   }
+  },
+  {
+   "id": "VN-H093-A10",
+   "no": 10,
+   "noLabel": {
+    "vi": "7. Trọng tài vụ việc là hình thức giải quyết tranh chấp theo quy định của Luật này"
+   },
+   "text": {
+    "vi": "7. Trọng tài vụ việc là hình thức giải quyết tranh chấp theo quy định của Luật này\nvà trình tự, thủ tục do các bên thỏa thuận.\n8. Địa điểm giải quyết tranh chấp là nơi Hội đồng trọng tài tiến hành giải quyết\ntranh chấp theo sự thỏa thuận lựa chọn của các bên hoặc do Hội đồng trọng tài quyết\nđịnh nếu các bên không có thỏa thuận. Nếu địa điểm giải quyết tranh chấp được tiến\nhành trên lãnh thổ Việt Nam thì phán quyết phải được coi là tuyên tại Việt Nam mà\nkhông phụ thuộc vào nơi Hội đồng trọng tài tiến hành phiên họp để ra phán quyết đó."
+   }
+  },
+  {
+   "id": "VN-H093-A11",
+   "no": 11,
+   "noLabel": {
+    "vi": "9. Quyết định trọng tài là quyết định của Hội đồng trọng tài trong quá trình giải"
+   },
+   "text": {
+    "vi": "9. Quyết định trọng tài là quyết định của Hội đồng trọng tài trong quá trình giải\nquyết tranh chấp."
+   }
+  },
+  {
+   "id": "VN-H093-A12",
+   "no": 12,
+   "noLabel": {
+    "vi": "10. Phán quyết trọng tài là quyết định của Hội đồng trọng tài giải quyết toàn bộ"
+   },
+   "text": {
+    "vi": "10. Phán quyết trọng tài là quyết định của Hội đồng trọng tài giải quyết toàn bộ\nnội dung vụ tranh chấp và chấm dứt tố tụng trọng tài."
+   }
+  },
+  {
+   "id": "VN-H093-A13",
+   "no": 13,
+   "noLabel": {
+    "vi": "11. Trọng tài nước ngoài là Trọng tài được thành lập theo quy định của pháp luật"
+   },
+   "text": {
+    "vi": "11. Trọng tài nước ngoài là Trọng tài được thành lập theo quy định của pháp luật\ntrọng tài n ước ngoài do các bên th ỏa thuận lựa chọn để tiến hành gi ải quyết tranh\nchấp ở ngoài lãnh thổ Việt Nam hoặc trong lãnh thổ Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H093-A14",
+   "no": 14,
+   "noLabel": {
+    "vi": "12. Phán quyết của trọng tài nước ngoài là phán quyết do Trọng tài nước ngoài"
+   },
+   "text": {
+    "vi": "12. Phán quyết của trọng tài nước ngoài là phán quyết do Trọng tài nước ngoài\ntuyên ở ngoài lãnh thổ Việt Nam hoặc ở trong lãnh thổ Việt Nam để giải quyết tranh\nchấp do các bên thỏa thuận lựa chọn.\nĐiều 4. Nguyên tắc giải quyết tranh chấp bằng Trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A15",
+   "no": 15,
+   "noLabel": {
+    "vi": "1. Trọng tài viên phải tôn trọng thỏa thuận của các bên nếu thỏa thuận đó không"
+   },
+   "text": {
+    "vi": "1. Trọng tài viên phải tôn trọng thỏa thuận của các bên nếu thỏa thuận đó không\nvi phạm điều cấm và trái đạo đức xã hội."
+   }
+  },
+  {
+   "id": "VN-H093-A16",
+   "no": 16,
+   "noLabel": {
+    "vi": "2. Trọng tài viên ph ải độc lập, khách quan, vô t ư và tuân theo quy định c ủa"
+   },
+   "text": {
+    "vi": "2. Trọng tài viên ph ải độc lập, khách quan, vô t ư và tuân theo quy định c ủa\npháp luật."
+   }
+  },
+  {
+   "id": "VN-H093-A17",
+   "no": 17,
+   "noLabel": {
+    "vi": "3. Các bên tranh chấp đều bình đẳng về quyền và nghĩa vụ. Hội đồng trọng tài có"
+   },
+   "text": {
+    "vi": "3. Các bên tranh chấp đều bình đẳng về quyền và nghĩa vụ. Hội đồng trọng tài có\ntrách nhiệm tạo điều kiện để họ thực hiện các quyền và nghĩa vụ của mình."
+   }
+  },
+  {
+   "id": "VN-H093-A18",
+   "no": 18,
+   "noLabel": {
+    "vi": "4. Giải quyết tranh ch ấp bằng Trọng tài được tiến hành không công khai, tr ừ"
+   },
+   "text": {
+    "vi": "4. Giải quyết tranh ch ấp bằng Trọng tài được tiến hành không công khai, tr ừ\ntrường hợp các bên có thỏa thuận khác."
+   }
+  },
+  {
+   "id": "VN-H093-A19",
+   "no": 19,
+   "noLabel": {
+    "vi": "5. Phán quyết trọng tài là chung thẩm."
+   },
+   "text": {
+    "vi": "5. Phán quyết trọng tài là chung thẩm.\nCÔNG BÁO/Số 564 + 565 ngày 25-9-2010 67\nĐiều 5. Điều kiện giải quyết tranh chấp bằng Trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A20",
+   "no": 20,
+   "noLabel": {
+    "vi": "1. Tranh chấp được giải quyết bằng Trọng tài nếu các bên có thỏa thuận trọng tài."
+   },
+   "text": {
+    "vi": "1. Tranh chấp được giải quyết bằng Trọng tài nếu các bên có thỏa thuận trọng tài.\nThỏa thuận trọng tài có thể được lập trước hoặc sau khi xảy ra tranh chấp."
+   }
+  },
+  {
+   "id": "VN-H093-A21",
+   "no": 21,
+   "noLabel": {
+    "vi": "2. Trường hợp một bên tham gia thỏa thuận trọng tài là cá nhân chết hoặc mất năng"
+   },
+   "text": {
+    "vi": "2. Trường hợp một bên tham gia thỏa thuận trọng tài là cá nhân chết hoặc mất năng\nlực hành vi, thỏa thuận trọng tài vẫn có hiệu lực đối với người thừa kế hoặc người đại\ndiện theo pháp luật của người đó, trừ trường hợp các bên có thỏa thuận khác."
+   }
+  },
+  {
+   "id": "VN-H093-A22",
+   "no": 22,
+   "noLabel": {
+    "vi": "3. Trường hợp một bên tham gia th ỏa thuận trọng tài là t ổ chức phải chấm dứt"
+   },
+   "text": {
+    "vi": "3. Trường hợp một bên tham gia th ỏa thuận trọng tài là t ổ chức phải chấm dứt\nhoạt động, bị phá sản, giải thể, hợp nhất, sáp nhập, chia, tách hoặc chuyển đổi hình\nthức tổ chức, thỏa thuận trọng tài vẫn có hiệu lực đối với tổ chức tiếp nhận quyền và\nnghĩa vụ của tổ chức đó, trừ trường hợp các bên có thỏa thuận khác.\nĐiều 6. Tòa án từ chối thụ lý trong trường hợp có thỏa thuận trọng tài\nTrong trường hợp các bên tranh chấp đã có thỏa thuận trọng tài mà một bên khởi\nkiện tại Tòa án thì Tòa án phải từ chối thụ lý, trừ trường hợp thỏa thuận trọng tài vô\nhiệu hoặc thỏa thuận trọng tài không thể thực hiện được.\nĐiều 7. Xác định Tòa án có thẩm quyền đối với hoạt động trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A23",
+   "no": 23,
+   "noLabel": {
+    "vi": "1. Trường hợp các bên đã có thỏa thuận lựa chọn một Tòa án cụ thể thì Tòa án"
+   },
+   "text": {
+    "vi": "1. Trường hợp các bên đã có thỏa thuận lựa chọn một Tòa án cụ thể thì Tòa án\ncó thẩm quyền là Tòa án được các bên lựa chọn."
+   }
+  },
+  {
+   "id": "VN-H093-A24",
+   "no": 24,
+   "noLabel": {
+    "vi": "2. Trường hợp các bên không có thỏa thuận lựa chọn Tòa án thì thẩm quyền của"
+   },
+   "text": {
+    "vi": "2. Trường hợp các bên không có thỏa thuận lựa chọn Tòa án thì thẩm quyền của\nTòa án được xác định như sau:\na) Đối với việc chỉ định Trọng tài viên để thành lập Hội đồng trọng tài vụ việc thì\nTòa án có thẩm quyền là Tòa án nơi cư trú của bị đơn nếu bị đơn là cá nhân hoặc nơi\ncó trụ sở của bị đơn nếu bị đơn là tổ chức. Trường hợp có nhiều bị đơn thì Tòa án có\nthẩm quyền là Tòa án nơi cư trú hoặc nơi có trụ sở của một trong các bị đơn đó.\nTrường hợp bị đơn có n ơi cư trú ho ặc trụ sở ở nước ngoài thì Tòa án có th ẩm\nquyền là Tòa án nơi cư trú hoặc nơi có trụ sở của nguyên đơn;\nb) Đối với việc thay đổi Trọng tài viên của Hội đồng trọng tài vụ việc thì Tòa án\ncó thẩm quyền là Tòa án nơi Hội đồng trọng tài giải quyết tranh chấp;\nc) Đối với yêu cầu giải quyết khiếu nại quyết định của Hội đồng trọng tài về thỏa\nthuận trọng tài vô hiệu, thỏa thuận trọng tài không thể thực hiện được, thẩm quyền\ncủa Hội đồng trọng tài thì Tòa án có thẩm quyền là Tòa án nơi Hội đồng trọng tài ra\nquyết định;\nd) Đối với yêu cầu Tòa án thu thập chứng cứ thì Tòa án có thẩm quyền là Tòa án\nnơi có chứng cứ cần được thu thập;\nđ) Đối với yêu cầu Tòa án áp d ụng biện pháp khẩn cấp tạm thời thì Tòa án có\nthẩm quyền là Tòa án nơi biện pháp khẩn cấp tạm thời cần được áp dụng;\n68 CÔNG BÁO/Số 564 + 565 ngày 25-9-2010\ne) Đối với việc triệu tập người làm chứng thì Tòa án có th ẩm quyền là Tòa án\nnơi cư trú của người làm chứng;\ng) Đối với yêu c ầu hủy phán quy ết trọng tài, đăng ký phán quy ết trọng tài v ụ\nviệc thì Tòa án có thẩm quyền là Tòa án nơi Hội đồng trọng tài đã tuyên phán quyết\ntrọng tài."
+   }
+  },
+  {
+   "id": "VN-H093-A25",
+   "no": 25,
+   "noLabel": {
+    "vi": "3. Tòa án có th ẩm quyền đối với hoạt động trọng tài quy định tại khoản 1 và"
+   },
+   "text": {
+    "vi": "3. Tòa án có th ẩm quyền đối với hoạt động trọng tài quy định tại khoản 1 và\nkhoản 2 Điều này là Tòa án nhân dân tỉnh, thành phố trực thuộc Trung ương.\nĐiều 8. Xác định Cơ quan thi hành án có thẩm quyền thi hành phán quyết\ntrọng tài, quy ết định áp d ụng bi ện pháp kh ẩn c ấp t ạm th ời c ủa H ội đồng\ntrọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A26",
+   "no": 26,
+   "noLabel": {
+    "vi": "1. Cơ quan thi hành án dân sự có thẩm quyền thi hành phán quyết trọng tài là Cơ"
+   },
+   "text": {
+    "vi": "1. Cơ quan thi hành án dân sự có thẩm quyền thi hành phán quyết trọng tài là Cơ\nquan thi hành án dân s ự tỉnh, thành phố trực thuộc Trung ương nơi Hội đồng trọng\ntài ra phán quyết."
+   }
+  },
+  {
+   "id": "VN-H093-A27",
+   "no": 27,
+   "noLabel": {
+    "vi": "2. Cơ quan thi hành án dân sự có thẩm quyền thi hành quyết định áp dụng biện"
+   },
+   "text": {
+    "vi": "2. Cơ quan thi hành án dân sự có thẩm quyền thi hành quyết định áp dụng biện\npháp khẩn cấp tạm thời của Hội đồng trọng tài là Cơ quan thi hành án dân s ự tỉnh,\nthành phố trực thuộc Trung ương nơi biện pháp khẩn cấp tạm thời cần được áp dụng.\nĐiều 9. Thương lượng, hòa giải trong tố tụng trọng tài\nTrong quá trình t ố tụng trọng tài, các bên có quy ền tự do th ương lượng, thỏa\nthuận với nhau v ề việc giải quyết tranh ch ấp hoặc yêu c ầu Hội đồng trọng tài hòa\ngiải để các bên thỏa thuận với nhau về việc giải quyết tranh chấp.\nĐiều 10. Ngôn ngữ\n1. Đối với tranh chấp không có y ếu tố nước ngoài, ngôn ng ữ sử dụng trong tố\ntụng trọng tài là ti ếng Việt, trừ trường hợp tranh chấp mà ít nh ất một bên là doanh\nnghiệp có vốn đầu tư nước ngoài. Trường hợp bên tranh chấp không sử dụng được\ntiếng Việt thì được chọn người phiên dịch ra tiếng Việt.\n2. Đối với tranh ch ấp có y ếu tố nước ngoài, tranh ch ấp mà ít nh ất một bên là\ndoanh nghiệp có vốn đầu tư nước ngoài, ngôn ngữ sử dụng trong tố tụng trọng tài do\ncác bên thỏa thuận. Trường hợp các bên không có thỏa thuận thì ngôn ngữ sử dụng\ntrong tố tụng trọng tài do Hội đồng trọng tài quyết định.\nĐiều 11. Địa điểm giải quyết tranh chấp bằng Trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A28",
+   "no": 28,
+   "noLabel": {
+    "vi": "1. Các bên có quyền thỏa thuận địa điểm giải quyết tranh chấp; trường hợp không"
+   },
+   "text": {
+    "vi": "1. Các bên có quyền thỏa thuận địa điểm giải quyết tranh chấp; trường hợp không\ncó thỏa thuận thì Hội đồng trọng tài quyết định. Địa điểm giải quyết tranh chấp có\nthể ở trong lãnh thổ Việt Nam hoặc ngoài lãnh thổ Việt Nam.\nCÔNG BÁO/Số 564 + 565 ngày 25-9-2010 69"
+   }
+  },
+  {
+   "id": "VN-H093-A29",
+   "no": 29,
+   "noLabel": {
+    "vi": "2. Trừ trường hợp các bên có th ỏa thuận khác, H ội đồng trọng tài có th ể tiến"
+   },
+   "text": {
+    "vi": "2. Trừ trường hợp các bên có th ỏa thuận khác, H ội đồng trọng tài có th ể tiến\nhành phiên h ọp tại địa điểm được xem là thích h ợp cho vi ệc trao đổi ý ki ến giữa\ncác thành viên của Hội đồng trọng tài, việc lấy lời khai của người làm chứng, tham\nvấn ý kiến các chuyên gia hoặc tiến hành việc giám định hàng hóa, tài sản hoặc tài\nliệu khác.\nĐiều 12. Gửi thông báo và trình tự gửi thông báo\nNếu các bên không có thỏa thuận khác hoặc quy tắc tố tụng của Trung tâm trọng\ntài không quy định khác, cách thức và trình tự gửi thông báo trong tố tụng trọng tài\nđược quy định như sau:"
+   }
+  },
+  {
+   "id": "VN-H093-A30",
+   "no": 30,
+   "noLabel": {
+    "vi": "1. Các bản giải trình, văn thư giao dịch và tài liệu khác của mỗi bên phải được"
+   },
+   "text": {
+    "vi": "1. Các bản giải trình, văn thư giao dịch và tài liệu khác của mỗi bên phải được\ngửi tới Trung tâm trọng tài hoặc Hội đồng trọng tài với số bản đủ để mỗi thành viên\ntrong Hội đồng trọng tài có một bản, bên kia một bản và một bản lưu tại Trung tâm\ntrọng tài;"
+   }
+  },
+  {
+   "id": "VN-H093-A31",
+   "no": 31,
+   "noLabel": {
+    "vi": "2. Các thông báo, tài li ệu mà Trung tâm tr ọng tài ho ặc Hội đồng trọng tài g ửi"
+   },
+   "text": {
+    "vi": "2. Các thông báo, tài li ệu mà Trung tâm tr ọng tài ho ặc Hội đồng trọng tài g ửi\ncho các bên được gửi đến địa chỉ của các bên hoặc gửi cho đại diện của các bên theo\nđúng địa chỉ do các bên thông báo;"
+   }
+  },
+  {
+   "id": "VN-H093-A32",
+   "no": 32,
+   "noLabel": {
+    "vi": "3. Các thông báo, tài liệu có thể được Trung tâm trọng tài hoặc Hội đồng trọng tài"
+   },
+   "text": {
+    "vi": "3. Các thông báo, tài liệu có thể được Trung tâm trọng tài hoặc Hội đồng trọng tài\ngửi bằng phương thức giao trực tiếp, thư bảo đảm, thư thường, fax, telex, telegram,\nthư điện tử hoặc bằng phương thức khác có ghi nhận việc gửi này;"
+   }
+  },
+  {
+   "id": "VN-H093-A33",
+   "no": 33,
+   "noLabel": {
+    "vi": "4. Các thông báo, tài li ệu do Trung tâm tr ọng tài ho ặc Hội đồng trọng tài g ửi"
+   },
+   "text": {
+    "vi": "4. Các thông báo, tài li ệu do Trung tâm tr ọng tài ho ặc Hội đồng trọng tài g ửi\nđược coi là đã nhận được vào ngày mà các bên ho ặc đại diện của các bên đã nhận\nhoặc được coi là đã nhận nếu thông báo, tài li ệu đó đã được gửi phù h ợp với quy\nđịnh tại khoản 2 Điều này;"
+   }
+  },
+  {
+   "id": "VN-H093-A34",
+   "no": 34,
+   "noLabel": {
+    "vi": "5. Thời hạn nhận thông báo, tài li ệu được tính kể từ ngày tiếp theo ngày được"
+   },
+   "text": {
+    "vi": "5. Thời hạn nhận thông báo, tài li ệu được tính kể từ ngày tiếp theo ngày được\ncoi là đã nhận thông báo, tài liệu. Nếu ngày tiếp theo là ngày lễ hoặc ngày nghỉ theo\nquy định của nước, vùng lãnh th ổ nơi mà thông báo, tài li ệu đã được nhận thì thời\nhạn này bắt đầu được tính từ ngày làm việc đầu tiên tiếp theo. Nếu ngày cuối cùng\ncủa thời hạn này là ngày l ễ hoặc ngày nghỉ theo quy định của nước, vùng lãnh th ổ\nnơi mà thông báo, tài li ệu được nhận thì ngày hết hạn sẽ là cuối ngày làm việc đầu\ntiên tiếp theo.\nĐiều 13. Mất quyền phản đối\nTrong trường hợp một bên phát hi ện có vi ph ạm quy định của Luật này ho ặc\ncủa thỏa thuận trọng tài mà v ẫn tiếp tục thực hiện tố tụng trọng tài và không ph ản\nđối những vi phạm trong thời hạn do Luật này quy định thì mất quyền phản đối tại\nTrọng tài hoặc Tòa án.\n70 CÔNG BÁO/Số 564 + 565 ngày 25-9-2010\nĐiều 14. Luật áp dụng giải quyết tranh chấp\n1. Đối với tranh chấp không có y ếu tố nước ngoài, Hội đồng trọng tài áp d ụng\npháp luật Việt Nam để giải quyết tranh chấp.\n2. Đối với tranh chấp có yếu tố nước ngoài, Hội đồng trọng tài áp dụng pháp luật\ndo các bên lựa chọn; nếu các bên không có thỏa thuận về luật áp dụng thì Hội đồng\ntrọng tài quyết định áp dụng pháp luật mà Hội đồng trọng tài cho là phù hợp nhất."
+   }
+  },
+  {
+   "id": "VN-H093-A35",
+   "no": 35,
+   "noLabel": {
+    "vi": "3. Trường hợp pháp luật Việt Nam, pháp luật do các bên lựa chọn không có quy"
+   },
+   "text": {
+    "vi": "3. Trường hợp pháp luật Việt Nam, pháp luật do các bên lựa chọn không có quy\nđịnh cụ thể liên quan đến nội dung tranh chấp thì Hội đồng trọng tài được áp dụng\ntập quán quốc tế để giải quyết tranh chấp nếu việc áp dụng hoặc hậu quả của việc áp\ndụng đó không trái với các nguyên tắc cơ bản của pháp luật Việt Nam.\nĐiều 15. Quản lý nhà nước về Trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A36",
+   "no": 36,
+   "noLabel": {
+    "vi": "1. Quản lý nhà nước về Trọng tài bao gồm các nội dung sau đây:"
+   },
+   "text": {
+    "vi": "1. Quản lý nhà nước về Trọng tài bao gồm các nội dung sau đây:\na) Ban hành và hướng dẫn thi hành các văn bản quy phạm pháp luật về Trọng tài;\nb) Cấp, thu hồi Giấy phép thành lập và Giấy đăng ký hoạt động của Trung tâm\ntrọng tài; Chi nhánh, Văn phòng đại diện của tổ chức trọng tài nước ngoài tại Việt Nam;\nc) Công b ố danh sách Tr ọng tài viên c ủa các t ổ chức tr ọng tài ho ạt động t ại\nViệt Nam;\nd) Tuyên truyền, phổ biến pháp luật về Trọng tài; hợp tác quốc tế trong lĩnh vực\ntrọng tài; hướng dẫn việc đào tạo, bồi dưỡng Trọng tài viên;\nđ) Kiểm tra, thanh tra và xử lý vi phạm pháp luật về Trọng tài;\ne) Giải quyết khiếu nại, tố cáo liên quan đến các hoạt động quy định tại điểm b,\nc, d và đ khoản này."
+   }
+  },
+  {
+   "id": "VN-H093-A37",
+   "no": 37,
+   "noLabel": {
+    "vi": "2. Chính phủ thống nhất quản lý nhà nước về Trọng tài."
+   },
+   "text": {
+    "vi": "2. Chính phủ thống nhất quản lý nhà nước về Trọng tài."
+   }
+  },
+  {
+   "id": "VN-H093-A38",
+   "no": 38,
+   "noLabel": {
+    "vi": "3. Bộ Tư pháp chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về"
+   },
+   "text": {
+    "vi": "3. Bộ Tư pháp chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về\nTrọng tài."
+   }
+  },
+  {
+   "id": "VN-H093-A39",
+   "no": 39,
+   "noLabel": {
+    "vi": "4. Sở Tư pháp tỉnh, thành phố trực thuộc Trung ương giúp Bộ Tư pháp thực hiện"
+   },
+   "text": {
+    "vi": "4. Sở Tư pháp tỉnh, thành phố trực thuộc Trung ương giúp Bộ Tư pháp thực hiện\nmột số nhiệm vụ theo quy định của Chính phủ và quy định tại Luật này.\nChương II\nTHỎA THUẬN TRỌNG TÀI\nĐiều 16. Hình thức thỏa thuận trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A40",
+   "no": 40,
+   "noLabel": {
+    "vi": "1. Thỏa thuận trọng tài có thể được xác lập dưới hình thức điều khoản trọng tài"
+   },
+   "text": {
+    "vi": "1. Thỏa thuận trọng tài có thể được xác lập dưới hình thức điều khoản trọng tài\ntrong hợp đồng hoặc dưới hình thức thỏa thuận riêng.\nCÔNG BÁO/Số 564 + 565 ngày 25-9-2010 71"
+   }
+  },
+  {
+   "id": "VN-H093-A41",
+   "no": 41,
+   "noLabel": {
+    "vi": "2. Thỏa thuận trọng tài phải được xác lập dưới dạng văn bản. Các hình thức thỏa"
+   },
+   "text": {
+    "vi": "2. Thỏa thuận trọng tài phải được xác lập dưới dạng văn bản. Các hình thức thỏa\nthuận sau đây cũng được coi là xác lập dưới dạng văn bản:\na) Thỏa thuận được xác lập qua trao đổi giữa các bên bằng telegram, fax, telex,\nthư điện tử và các hình thức khác theo quy định của pháp luật;\nb) Thỏa thuận được xác lập thông qua trao đổi thông tin bằng văn bản giữa các bên;\nc) Thỏa thuận được luật sư, công ch ứng viên ho ặc tổ chức có th ẩm quyền ghi\nchép lại bằng văn bản theo yêu cầu của các bên;\nd) Trong giao dịch các bên có dẫn chiếu đến một văn bản có thể hiện thỏa thuận\ntrọng tài như hợp đồng, chứng từ, điều lệ công ty và những tài liệu tương tự khác;\nđ) Qua trao đổi về đơn kiện và bản tự bảo vệ mà trong đó thể hiện sự tồn tại của\nthỏa thuận do một bên đưa ra và bên kia không phủ nhận.\nĐiều 17. Quyền lựa chọn phương thức giải quyết tranh chấp của người tiêu\ndùng\nĐối với các tranh chấp giữa nhà cung cấp hàng hóa, dịch vụ và người tiêu dùng,\nmặc dù điều khoản trọng tài đã được ghi nhận trong các điều kiện chung về cung cấp\nhàng hóa, dịch vụ do nhà cung cấp soạn sẵn thỏa thuận trọng tài thì người tiêu dùng\nvẫn được quyền lựa chọn Trọng tài hoặc Tòa án để giải quyết tranh chấp. Nhà cung\ncấp hàng hóa, d ịch vụ chỉ được quyền khởi kiện tại Trọng tài nếu được người tiêu\ndùng chấp thuận.\nĐiều 18. Thỏa thuận trọng tài vô hiệu"
+   }
+  },
+  {
+   "id": "VN-H093-A42",
+   "no": 42,
+   "noLabel": {
+    "vi": "1. Tranh chấp phát sinh trong các l ĩnh vực không thuộc thẩm quyền của Trọng"
+   },
+   "text": {
+    "vi": "1. Tranh chấp phát sinh trong các l ĩnh vực không thuộc thẩm quyền của Trọng\ntài quy định tại Điều 2 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H093-A43",
+   "no": 43,
+   "noLabel": {
+    "vi": "2. Người xác lập thỏa thuận trọng tài không có th ẩm quyền theo quy định của"
+   },
+   "text": {
+    "vi": "2. Người xác lập thỏa thuận trọng tài không có th ẩm quyền theo quy định của\npháp luật."
+   }
+  },
+  {
+   "id": "VN-H093-A44",
+   "no": 44,
+   "noLabel": {
+    "vi": "3. Người xác lập thỏa thuận trọng tài không có năng lực hành vi dân sự theo quy"
+   },
+   "text": {
+    "vi": "3. Người xác lập thỏa thuận trọng tài không có năng lực hành vi dân sự theo quy\nđịnh của Bộ luật Dân sự."
+   }
+  },
+  {
+   "id": "VN-H093-A45",
+   "no": 45,
+   "noLabel": {
+    "vi": "4. Hình thức của thỏa thuận trọng tài không phù h ợp với quy định tại Điều 16"
+   },
+   "text": {
+    "vi": "4. Hình thức của thỏa thuận trọng tài không phù h ợp với quy định tại Điều 16\ncủa Luật này."
+   }
+  },
+  {
+   "id": "VN-H093-A46",
+   "no": 46,
+   "noLabel": {
+    "vi": "5. Một trong các bên b ị lừa dối, đe dọa, cưỡng ép trong quá trình xác l ập thỏa"
+   },
+   "text": {
+    "vi": "5. Một trong các bên b ị lừa dối, đe dọa, cưỡng ép trong quá trình xác l ập thỏa\nthuận trọng tài và có yêu cầu tuyên bố thỏa thuận trọng tài đó là vô hiệu."
+   }
+  },
+  {
+   "id": "VN-H093-A47",
+   "no": 47,
+   "noLabel": {
+    "vi": "6. Thỏa thuận trọng tài vi phạm điều cấm của pháp luật."
+   },
+   "text": {
+    "vi": "6. Thỏa thuận trọng tài vi phạm điều cấm của pháp luật.\n72 CÔNG BÁO/Số 564 + 565 ngày 25-9-2010\nĐiều 19. Tính độc lập của thỏa thuận trọng tài\nThỏa thuận trọng tài hoàn toàn độc lập với hợp đồng. Việc thay đổi, gia hạn, hủy\nbỏ hợp đồng, hợp đồng vô hiệu hoặc không thể thực hiện được không làm mất hiệu\nlực của thỏa thuận trọng tài.\nChương III\nTRỌNG TÀI VIÊN\nĐiều 20. Tiêu chuẩn Trọng tài viên"
+   }
+  },
+  {
+   "id": "VN-H093-A48",
+   "no": 48,
+   "noLabel": {
+    "vi": "1. Những người có đủ các tiêu chuẩn sau đây có thể làm Trọng tài viên:"
+   },
+   "text": {
+    "vi": "1. Những người có đủ các tiêu chuẩn sau đây có thể làm Trọng tài viên:\na) Có năng lực hành vi dân sự đầy đủ theo quy định của Bộ luật Dân sự;\nb) Có trình độ đại học và đã qua thực tế công tác theo ngành đã học từ 5 năm\ntrở lên;\nc) Trong tr ường h ợp đặc bi ệt, chuyên gia có trình độ chuyên môn cao và có\nnhiều kinh nghiệm thực tiễn, tuy không đáp ứng được yêu cầu nêu tại điểm b khoản\nnày, cũng có thể được chọn làm Trọng tài viên."
+   }
+  },
+  {
+   "id": "VN-H093-A49",
+   "no": 49,
+   "noLabel": {
+    "vi": "2. Những người có đủ tiêu chu ẩn quy định tại khoản 1 Điều này nh ưng thuộc"
+   },
+   "text": {
+    "vi": "2. Những người có đủ tiêu chu ẩn quy định tại khoản 1 Điều này nh ưng thuộc\nmột trong các trường hợp sau đây không được làm Trọng tài viên:\na) Ng ười đang là Th ẩm phán, Ki ểm sát viên, Điều tra viên, Ch ấp hành viên,\ncông chức thuộc Tòa án nhân dân, Vi ện kiểm sát nhân dân, C ơ quan điều tra, C ơ\nquan thi hành án;\nb) Người đang là bị can, bị cáo, người đang chấp hành án hình sự hoặc đã chấp\nhành xong bản án nhưng chưa được xóa án tích."
+   }
+  },
+  {
+   "id": "VN-H093-A50",
+   "no": 50,
+   "noLabel": {
+    "vi": "3. Trung tâm trọng tài có thể quy định thêm các tiêu chu ẩn cao hơn tiêu chuẩn"
+   },
+   "text": {
+    "vi": "3. Trung tâm trọng tài có thể quy định thêm các tiêu chu ẩn cao hơn tiêu chuẩn\nquy định tại khoản 1 Điều này đối với Trọng tài viên của tổ chức mình.\nĐiều 21. Quyền, nghĩa vụ của Trọng tài viên"
+   }
+  },
+  {
+   "id": "VN-H093-A51",
+   "no": 51,
+   "noLabel": {
+    "vi": "1. Chấp nhận hoặc từ chối giải quyết tranh chấp."
+   },
+   "text": {
+    "vi": "1. Chấp nhận hoặc từ chối giải quyết tranh chấp.\n2. Độc lập trong việc giải quyết tranh chấp."
+   }
+  },
+  {
+   "id": "VN-H093-A52",
+   "no": 52,
+   "noLabel": {
+    "vi": "3. Từ chối cung cấp các thông tin liên quan đến vụ tranh chấp."
+   },
+   "text": {
+    "vi": "3. Từ chối cung cấp các thông tin liên quan đến vụ tranh chấp.\n4. Được hưởng thù lao."
+   }
+  },
+  {
+   "id": "VN-H093-A53",
+   "no": 53,
+   "noLabel": {
+    "vi": "5. Giữ bí mật nội dung vụ tranh chấp mà mình gi ải quyết, trừ trường hợp phải"
+   },
+   "text": {
+    "vi": "5. Giữ bí mật nội dung vụ tranh chấp mà mình gi ải quyết, trừ trường hợp phải\ncung cấp thông tin cho cơ quan nhà nước có thẩm quyền theo quy định của pháp luật.\nCÔNG BÁO/Số 564 + 565 ngày 25-9-2010 73"
+   }
+  },
+  {
+   "id": "VN-H093-A54",
+   "no": 54,
+   "noLabel": {
+    "vi": "6. Bảo đảm giải quyết tranh chấp vô tư, nhanh chóng, kịp thời."
+   },
+   "text": {
+    "vi": "6. Bảo đảm giải quyết tranh chấp vô tư, nhanh chóng, kịp thời."
+   }
+  },
+  {
+   "id": "VN-H093-A55",
+   "no": 55,
+   "noLabel": {
+    "vi": "7. Tuân thủ quy tắc đạo đức nghề nghiệp."
+   },
+   "text": {
+    "vi": "7. Tuân thủ quy tắc đạo đức nghề nghiệp.\nĐiều 22. Hiệp hội trọng tài\nHiệp hội trọng tài là t ổ chức xã hội - nghề nghiệp của Trọng tài viên và Trung\ntâm trọng tài trong phạm vi cả nước. Việc thành lập và hoạt động của Hiệp hội trọng\ntài được thực hiện theo quy định của pháp luật về hội nghề nghiệp.\nChương IV\nTRUNG TÂM TRỌNG TÀI\nĐiều 23. Chức năng của Trung tâm trọng tài\nTrung tâm trọng tài có chức năng tổ chức, điều phối hoạt động giải quyết tranh\nchấp bằng Trọng tài quy ch ế và h ỗ trợ Trọng tài viên v ề các m ặt hành chính, v ăn\nphòng và các trợ giúp khác trong quá trình tố tụng trọng tài.\nĐiều 24. Điều kiện và thủ tục thành lập Trung tâm trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A56",
+   "no": 56,
+   "noLabel": {
+    "vi": "1. Trung tâm trọng tài được thành lập khi có ít nh ất năm sáng lập viên là công"
+   },
+   "text": {
+    "vi": "1. Trung tâm trọng tài được thành lập khi có ít nh ất năm sáng lập viên là công\ndân Việt Nam có đủ điều kiện là Trọng tài viên quy định tại Điều 20 của Luật này đề\nnghị thành lập và được Bộ trưởng Bộ Tư pháp cấp Giấy phép thành lập."
+   }
+  },
+  {
+   "id": "VN-H093-A57",
+   "no": 57,
+   "noLabel": {
+    "vi": "2. Hồ sơ đề nghị thành lập Trung tâm trọng tài gồm:"
+   },
+   "text": {
+    "vi": "2. Hồ sơ đề nghị thành lập Trung tâm trọng tài gồm:\na) Đơn đề nghị thành lập;\nb) Dự thảo điều lệ của Trung tâm trọng tài theo mẫu do Bộ Tư pháp ban hành;\nc) Danh sách các sáng lập viên và các giấy tờ kèm theo chứng minh những người\nnày có đủ điều kiện quy định tại Điều 20 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H093-A58",
+   "no": 58,
+   "noLabel": {
+    "vi": "3. Trong th ời hạn 30 ngày, k ể từ ngày nh ận được hồ sơ đầy đủ và h ợp lệ, Bộ"
+   },
+   "text": {
+    "vi": "3. Trong th ời hạn 30 ngày, k ể từ ngày nh ận được hồ sơ đầy đủ và h ợp lệ, Bộ\ntrưởng Bộ Tư pháp cấp Giấy phép thành lập Trung tâm trọng tài và phê chuẩn điều\nlệ của Trung tâm trọng tài; trường hợp từ chối phải trả lời bằng văn bản và nêu rõ\nlý do.\nĐiều 25. Đăng ký hoạt động của Trung tâm trọng tài\nTrong thời hạn 30 ngày, kể từ ngày nhận được Giấy phép thành lập, Trung tâm\ntrọng tài ph ải đăng ký ho ạt động tại Sở Tư pháp t ỉnh, thành ph ố trực thuộc Trung\nương nơi Trung tâm tr ọng tài đặt trụ sở. Hết thời hạn này n ếu Trung tâm tr ọng tài\nkhông đăng ký thì giấy phép không còn giá trị.\n74 CÔNG BÁO/Số 564 + 565 ngày 25-9-2010\nSở Tư pháp cấp Giấy đăng ký hoạt động cho Trung tâm trọng tài chậm nhất 15\nngày, kể từ ngày nhận được yêu cầu đăng ký.\nĐiều 26. Công bố thành lập Trung tâm trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A59",
+   "no": 59,
+   "noLabel": {
+    "vi": "1. Trong thời hạn 30 ngày, kể từ ngày được cấp Giấy đăng ký hoạt động, Trung"
+   },
+   "text": {
+    "vi": "1. Trong thời hạn 30 ngày, kể từ ngày được cấp Giấy đăng ký hoạt động, Trung\ntâm trọng tài phải đăng báo hàng ngày của trung ương hoặc báo địa phương nơi đăng\nký hoạt động trong ba số liên tiếp về những nội dung chủ yếu sau đây:\na) Tên, địa chỉ trụ sở của Trung tâm trọng tài;\nb) Lĩnh vực hoạt động của Trung tâm trọng tài;\nc) Số Giấy đăng ký hoạt động, cơ quan cấp, ngày, tháng, năm cấp;\nd) Thời điểm bắt đầu hoạt động của Trung tâm trọng tài."
+   }
+  },
+  {
+   "id": "VN-H093-A60",
+   "no": 60,
+   "noLabel": {
+    "vi": "2. Trung tâm tr ọng tài ph ải niêm y ết t ại tr ụ sở nh ững n ội dung quy định t ại"
+   },
+   "text": {
+    "vi": "2. Trung tâm tr ọng tài ph ải niêm y ết t ại tr ụ sở nh ững n ội dung quy định t ại\nkhoản 1 Điều này và danh sách Tr ọng tài viên c ủa Trung tâm trọng tài.\nĐiều 27. Tư cách pháp nhân và cơ cấu của Trung tâm trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A61",
+   "no": 61,
+   "noLabel": {
+    "vi": "1. Trung tâm trọng tài có tư cách pháp nhân, có con dấu và tài khoản riêng."
+   },
+   "text": {
+    "vi": "1. Trung tâm trọng tài có tư cách pháp nhân, có con dấu và tài khoản riêng."
+   }
+  },
+  {
+   "id": "VN-H093-A62",
+   "no": 62,
+   "noLabel": {
+    "vi": "2. Trung tâm trọng tài hoạt động không vì mục đích lợi nhuận."
+   },
+   "text": {
+    "vi": "2. Trung tâm trọng tài hoạt động không vì mục đích lợi nhuận."
+   }
+  },
+  {
+   "id": "VN-H093-A63",
+   "no": 63,
+   "noLabel": {
+    "vi": "3. Trung tâm trọng tài được lập Chi nhánh, Văn phòng đại diện ở trong nước và"
+   },
+   "text": {
+    "vi": "3. Trung tâm trọng tài được lập Chi nhánh, Văn phòng đại diện ở trong nước và\nnước ngoài."
+   }
+  },
+  {
+   "id": "VN-H093-A64",
+   "no": 64,
+   "noLabel": {
+    "vi": "4. Trung tâm tr ọng tài có Ban điều hành và Ban th ư ký. C ơ cấu, bộ máy c ủa"
+   },
+   "text": {
+    "vi": "4. Trung tâm tr ọng tài có Ban điều hành và Ban th ư ký. C ơ cấu, bộ máy c ủa\nTrung tâm trọng tài do điều lệ của Trung tâm quy định.\nBan điều hành Trung tâm trọng tài gồm có Chủ tịch, một hoặc các Phó Chủ tịch,\ncó thể có Tổng thư ký do Chủ tịch Trung tâm trọng tài cử. Chủ tịch Trung tâm trọng\ntài là Trọng tài viên."
+   }
+  },
+  {
+   "id": "VN-H093-A65",
+   "no": 65,
+   "noLabel": {
+    "vi": "5. Trung tâm trọng tài có danh sách Trọng tài viên."
+   },
+   "text": {
+    "vi": "5. Trung tâm trọng tài có danh sách Trọng tài viên.\nĐiều 28. Quyền và nghĩa vụ của Trung tâm trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A66",
+   "no": 66,
+   "noLabel": {
+    "vi": "1. Xây d ựng điều l ệ và quy t ắc t ố t ụng c ủa Trung tâm tr ọng tài phù h ợp v ới"
+   },
+   "text": {
+    "vi": "1. Xây d ựng điều l ệ và quy t ắc t ố t ụng c ủa Trung tâm tr ọng tài phù h ợp v ới\nnhững quy định của Luật này."
+   }
+  },
+  {
+   "id": "VN-H093-A67",
+   "no": 67,
+   "noLabel": {
+    "vi": "2. Xây dựng tiêu chuẩn Trọng tài viên và quy trình xét chọn, lập danh sách Trọng"
+   },
+   "text": {
+    "vi": "2. Xây dựng tiêu chuẩn Trọng tài viên và quy trình xét chọn, lập danh sách Trọng\ntài viên, xóa tên Trọng tài viên trong danh sách Trọng tài viên của tổ chức mình."
+   }
+  },
+  {
+   "id": "VN-H093-A68",
+   "no": 68,
+   "noLabel": {
+    "vi": "3. Gửi danh sách Trọng tài viên và những thay đổi về danh sách Trọng tài viên"
+   },
+   "text": {
+    "vi": "3. Gửi danh sách Trọng tài viên và những thay đổi về danh sách Trọng tài viên\ncủa Trung tâm trọng tài cho Bộ Tư pháp để công bố."
+   }
+  },
+  {
+   "id": "VN-H093-A69",
+   "no": 69,
+   "noLabel": {
+    "vi": "4. Chỉ định Trọng tài viên để thành lập Hội đồng trọng tài trong nh ững trường"
+   },
+   "text": {
+    "vi": "4. Chỉ định Trọng tài viên để thành lập Hội đồng trọng tài trong nh ững trường\nhợp quy định tại Luật này.\nCÔNG BÁO/Số 564 + 565 ngày 25-9-2010 75"
+   }
+  },
+  {
+   "id": "VN-H093-A70",
+   "no": 70,
+   "noLabel": {
+    "vi": "5. Cung cấp dịch vụ trọng tài, hòa giải và các phương thức giải quyết tranh chấp"
+   },
+   "text": {
+    "vi": "5. Cung cấp dịch vụ trọng tài, hòa giải và các phương thức giải quyết tranh chấp\nthương mại khác theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H093-A71",
+   "no": 71,
+   "noLabel": {
+    "vi": "6. Cung cấp các dịch vụ hành chính, văn phòng và các dịch vụ khác cho việc giải"
+   },
+   "text": {
+    "vi": "6. Cung cấp các dịch vụ hành chính, văn phòng và các dịch vụ khác cho việc giải\nquyết tranh chấp."
+   }
+  },
+  {
+   "id": "VN-H093-A72",
+   "no": 72,
+   "noLabel": {
+    "vi": "7. Thu phí tr ọng tài và các kho ản hợp pháp khác có liên quan đến hoạt động"
+   },
+   "text": {
+    "vi": "7. Thu phí tr ọng tài và các kho ản hợp pháp khác có liên quan đến hoạt động\ntrọng tài."
+   }
+  },
+  {
+   "id": "VN-H093-A73",
+   "no": 73,
+   "noLabel": {
+    "vi": "8. Trả thù lao và các chi phí khác cho Trọng tài viên."
+   },
+   "text": {
+    "vi": "8. Trả thù lao và các chi phí khác cho Trọng tài viên."
+   }
+  },
+  {
+   "id": "VN-H093-A74",
+   "no": 74,
+   "noLabel": {
+    "vi": "9. Tổ chức bồi dưỡng nâng cao trình độ và k ỹ năng giải quyết tranh ch ấp cho"
+   },
+   "text": {
+    "vi": "9. Tổ chức bồi dưỡng nâng cao trình độ và k ỹ năng giải quyết tranh ch ấp cho\nTrọng tài viên."
+   }
+  },
+  {
+   "id": "VN-H093-A75",
+   "no": 75,
+   "noLabel": {
+    "vi": "10. Báo cáo định kỳ hàng năm về hoạt động của Trung tâm trọng tài với Sở Tư"
+   },
+   "text": {
+    "vi": "10. Báo cáo định kỳ hàng năm về hoạt động của Trung tâm trọng tài với Sở Tư\npháp nơi Trung tâm trọng tài đăng ký hoạt động."
+   }
+  },
+  {
+   "id": "VN-H093-A76",
+   "no": 76,
+   "noLabel": {
+    "vi": "11. Lưu trữ hồ sơ, cung cấp các bản sao quyết định trọng tài theo yêu cầu của các"
+   },
+   "text": {
+    "vi": "11. Lưu trữ hồ sơ, cung cấp các bản sao quyết định trọng tài theo yêu cầu của các\nbên tranh chấp hoặc cơ quan nhà nước có thẩm quyền.\nĐiều 29. Chấm dứt hoạt động của Trung tâm trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A77",
+   "no": 77,
+   "noLabel": {
+    "vi": "1. Hoạt động của Trung tâm trọng tài chấm dứt trong các trường hợp sau đây:"
+   },
+   "text": {
+    "vi": "1. Hoạt động của Trung tâm trọng tài chấm dứt trong các trường hợp sau đây:\na) Các trường hợp được quy định tại điều lệ của Trung tâm trọng tài;\nb) Bị thu hồi Giấy phép thành lập, Giấy đăng ký hoạt động."
+   }
+  },
+  {
+   "id": "VN-H093-A78",
+   "no": 78,
+   "noLabel": {
+    "vi": "2. Chính ph ủ quy định chi tiết các trường hợp bị thu hồi Giấy phép thành l ập,"
+   },
+   "text": {
+    "vi": "2. Chính ph ủ quy định chi tiết các trường hợp bị thu hồi Giấy phép thành l ập,\nGiấy đăng ký ho ạt động và trình t ự, th ủ tục ch ấm dứt ho ạt động c ủa Trung tâm\ntrọng tài.\nChương V\nKHỞI KIỆN\nĐiều 30. Đơn khởi kiện và các tài liệu kèm theo"
+   }
+  },
+  {
+   "id": "VN-H093-A79",
+   "no": 79,
+   "noLabel": {
+    "vi": "1. Trường hợp giải quyết tranh ch ấp tại Trung tâm tr ọng tài, nguyên đơn phải"
+   },
+   "text": {
+    "vi": "1. Trường hợp giải quyết tranh ch ấp tại Trung tâm tr ọng tài, nguyên đơn phải\nlàm đơn khởi kiện gửi đến Trung tâm tr ọng tài. Tr ường hợp vụ tranh ch ấp được\ngiải quyết bằng Trọng tài vụ việc, nguyên đơn phải làm đơn khởi kiện và gửi cho\nbị đơn.\n2. Đơn khởi kiện gồm có các nội dung sau đây:\na) Ngày, tháng, năm làm đơn khởi kiện;\nb) Tên, địa chỉ của các bên; tên, địa chỉ của người làm chứng, nếu có;\n76 CÔNG BÁO/Số 564 + 565 ngày 25-9-2010\nc) Tóm tắt nội dung vụ tranh chấp;\nd) Cơ sở và chứng cứ khởi kiện, nếu có;\nđ) Các yêu cầu cụ thể của nguyên đơn và giá trị vụ tranh chấp;\ne) Tên, địa chỉ người được nguyên đơn chọn làm Trọng tài viên hoặc đề nghị chỉ\nđịnh Trọng tài viên."
+   }
+  },
+  {
+   "id": "VN-H093-A80",
+   "no": 80,
+   "noLabel": {
+    "vi": "3. Kèm theo đơn khởi kiện, phải có thỏa thuận trọng tài, bản chính hoặc bản sao"
+   },
+   "text": {
+    "vi": "3. Kèm theo đơn khởi kiện, phải có thỏa thuận trọng tài, bản chính hoặc bản sao\ncác tài liệu có liên quan.\nĐiều 31. Thời điểm bắt đầu tố tụng trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A81",
+   "no": 81,
+   "noLabel": {
+    "vi": "1. Trường hợp tranh chấp được giải quyết tại Trung tâm trọng tài, nếu các bên"
+   },
+   "text": {
+    "vi": "1. Trường hợp tranh chấp được giải quyết tại Trung tâm trọng tài, nếu các bên\nkhông có th ỏa thuận khác, thì th ời điểm bắt đầu tố tụng trọng tài được tính t ừ khi\nTrung tâm trọng tài nhận được đơn khởi kiện của nguyên đơn."
+   }
+  },
+  {
+   "id": "VN-H093-A82",
+   "no": 82,
+   "noLabel": {
+    "vi": "2. Trường hợp tranh chấp được giải quyết bằng Trọng tài vụ việc, nếu các bên"
+   },
+   "text": {
+    "vi": "2. Trường hợp tranh chấp được giải quyết bằng Trọng tài vụ việc, nếu các bên\nkhông có thỏa thuận khác, thì thời điểm bắt đầu tố tụng trọng tài được tính từ khi bị\nđơn nhận được đơn khởi kiện của nguyên đơn.\nĐiều 32. Thông báo đơn khởi kiện\nNếu các bên không có thỏa thuận khác hoặc quy tắc tố tụng của Trung tâm trọng\ntài không có quy định khác, trong thời hạn 10 ngày, kể từ ngày nhận được đơn khởi\nkiện, các tài liệu kèm theo và ch ứng từ nộp tạm ứng phí trọng tài, Trung tâm trọng\ntài phải gửi cho bị đơn bản sao đơn khởi kiện của nguyên đơn và những tài liệu theo\nquy định tại khoản 3 Điều 30 của Luật này.\nĐiều 33. Thời hiệu khởi kiện giải quyết tranh chấp bằng Trọng tài\nTrừ trường hợp luật chuyên ngành có quy định khác, thời hiệu khởi kiện theo thủ\ntục trọng tài là 02 năm, kể từ thời điểm quyền và lợi ích hợp pháp bị xâm phạm.\nĐiều 34. Phí trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A83",
+   "no": 83,
+   "noLabel": {
+    "vi": "1. Phí trọng tài là khoản thu từ việc cung cấp dịch vụ giải quyết tranh chấp bằng"
+   },
+   "text": {
+    "vi": "1. Phí trọng tài là khoản thu từ việc cung cấp dịch vụ giải quyết tranh chấp bằng\nTrọng tài. Phí trọng tài gồm:\na) Thù lao Trọng tài viên, chi phí đi lại và các chi phí khác cho Trọng tài viên;\nb) Phí tham v ấn chuyên gia và các tr ợ giúp khác theo yêu c ầu của Hội đồng\ntrọng tài;\nc) Phí hành chính;\nd) Phí chỉ định Trọng tài viên vụ việc của Trung tâm trọng tài theo yêu cầu của\ncác bên tranh chấp;\nCÔNG BÁO/Số 564 + 565 ngày 25-9-2010 77\nđ) Phí sử dụng các dịch vụ tiện ích khác được cung cấp bởi Trung tâm trọng tài."
+   }
+  },
+  {
+   "id": "VN-H093-A84",
+   "no": 84,
+   "noLabel": {
+    "vi": "2. Phí trọng tài do Trung tâm trọng tài ấn định. Trường hợp vụ tranh chấp được"
+   },
+   "text": {
+    "vi": "2. Phí trọng tài do Trung tâm trọng tài ấn định. Trường hợp vụ tranh chấp được\ngiải quyết bởi Trọng tài vụ việc, phí trọng tài do Hội đồng trọng tài ấn định."
+   }
+  },
+  {
+   "id": "VN-H093-A85",
+   "no": 85,
+   "noLabel": {
+    "vi": "3. Bên thua ki ện phải chịu phí tr ọng tài, tr ừ trường hợp các bên có th ỏa thuận"
+   },
+   "text": {
+    "vi": "3. Bên thua ki ện phải chịu phí tr ọng tài, tr ừ trường hợp các bên có th ỏa thuận\nkhác hoặc quy tắc tố tụng trọng tài quy định khác hoặc Hội đồng trọng tài có sự phân\nbổ khác.\nĐiều 35. Bản tự bảo vệ và việc gửi bản tự bảo vệ"
+   }
+  },
+  {
+   "id": "VN-H093-A86",
+   "no": 86,
+   "noLabel": {
+    "vi": "1. Bản tự bảo vệ gồm có các nội dung sau đây:"
+   },
+   "text": {
+    "vi": "1. Bản tự bảo vệ gồm có các nội dung sau đây:\na) Ngày, tháng, năm làm bản tự bảo vệ;\nb) Tên và địa chỉ của bị đơn;\nc) Cơ sở và chứng cứ tự bảo vệ, nếu có;\nd) Tên và địa chỉ của người được bị đơn chọn làm Trọng tài viên hoặc đề nghị\nchỉ định Trọng tài viên.\n2. Đối với vụ tranh ch ấp được giải quyết tại Trung tâm tr ọng tài, n ếu các bên\nkhông có thỏa thuận khác hoặc quy tắc tố tụng của Trung tâm trọng tài không có quy\nđịnh khác, thì trong thời hạn 30 ngày, kể từ ngày nhận được đơn khởi kiện và các tài\nliệu kèm theo, bị đơn phải gửi cho Trung tâm trọng tài bản tự bảo vệ. Theo yêu cầu\ncủa một bên hoặc các bên, thời hạn này có thể được Trung tâm trọng tài gia hạn căn\ncứ vào tình tiết cụ thể của vụ việc.\n3. Đối với vụ tranh ch ấp được giải quyết bằng Trọng tài v ụ việc, nếu các bên\nkhông có th ỏa thuận khác, thì trong th ời hạn 30 ngày, k ể từ ngày nh ận được đơn\nkhởi kiện của nguyên đơn và các tài liệu kèm theo, bị đơn phải gửi cho nguyên đơn\nvà Trọng tài viên bản tự bảo vệ, tên và địa chỉ của người mà mình chọn làm Trọng\ntài viên."
+   }
+  },
+  {
+   "id": "VN-H093-A87",
+   "no": 87,
+   "noLabel": {
+    "vi": "4. Trường hợp bị đơn cho rằng vụ tranh chấp không thuộc thẩm quyền của Trọng"
+   },
+   "text": {
+    "vi": "4. Trường hợp bị đơn cho rằng vụ tranh chấp không thuộc thẩm quyền của Trọng\ntài, không có thỏa thuận trọng tài, thỏa thuận trọng tài vô hiệu hoặc thỏa thuận trọng\ntài không thể thực hiện được thì phải nêu rõ điều đó trong bản tự bảo vệ."
+   }
+  },
+  {
+   "id": "VN-H093-A88",
+   "no": 88,
+   "noLabel": {
+    "vi": "5. Trường hợp bị đơn không n ộp bản tự bảo vệ theo quy định tại khoản 2 và"
+   },
+   "text": {
+    "vi": "5. Trường hợp bị đơn không n ộp bản tự bảo vệ theo quy định tại khoản 2 và\nkhoản 3 Điều này thì quá trình giải quyết tranh chấp vẫn được tiến hành.\nĐiều 36. Đơn kiện lại của bị đơn"
+   }
+  },
+  {
+   "id": "VN-H093-A89",
+   "no": 89,
+   "noLabel": {
+    "vi": "1. Bị đơn có quy ền kiện lại nguyên đơn về những vấn đề có liên quan đến vụ"
+   },
+   "text": {
+    "vi": "1. Bị đơn có quy ền kiện lại nguyên đơn về những vấn đề có liên quan đến vụ\ntranh chấp.\n78 CÔNG BÁO/Số 564 + 565 ngày 25-9-2010\n2. Đơn kiện lại của bị đơn phải được gửi cho Trung tâm trọng tài. Trong trường\nhợp vụ tranh chấp được giải quyết bằng Trọng tài vụ việc, đơn kiện lại phải gửi cho\nHội đồng trọng tài và nguyên đơn. Đơn kiện lại phải được nộp cùng thời điểm nộp\nbản tự bảo vệ."
+   }
+  },
+  {
+   "id": "VN-H093-A90",
+   "no": 90,
+   "noLabel": {
+    "vi": "3. Trong thời hạn 30 ngày, kể từ ngày nhận được đơn kiện lại, nguyên đơn phải"
+   },
+   "text": {
+    "vi": "3. Trong thời hạn 30 ngày, kể từ ngày nhận được đơn kiện lại, nguyên đơn phải\ngửi bản tự bảo vệ cho Trung tâm trọng tài. Trường hợp vụ tranh chấp được giải quyết\nbằng Trọng tài vụ việc, nguyên đơn phải gửi bản tự bảo vệ cho Hội đồng trọng tài\nvà bị đơn."
+   }
+  },
+  {
+   "id": "VN-H093-A91",
+   "no": 91,
+   "noLabel": {
+    "vi": "4. Việc giải quyết đơn kiện lại do H ội đồng trọng tài gi ải quyết đơn khởi kiện"
+   },
+   "text": {
+    "vi": "4. Việc giải quyết đơn kiện lại do H ội đồng trọng tài gi ải quyết đơn khởi kiện\ncủa nguyên đơn thực hiện theo quy định của Luật này về trình tự, thủ tục giải quyết\nđơn khởi kiện của nguyên đơn.\nĐiều 37. Rút đơn khởi kiện, đơn kiện lại; sửa đổi, bổ sung đơn khởi kiện,\nđơn kiện lại hoặc bản tự bảo vệ"
+   }
+  },
+  {
+   "id": "VN-H093-A92",
+   "no": 92,
+   "noLabel": {
+    "vi": "1. Trước khi Hội đồng trọng tài ra phán quyết trọng tài, các bên có quyền rút đơn"
+   },
+   "text": {
+    "vi": "1. Trước khi Hội đồng trọng tài ra phán quyết trọng tài, các bên có quyền rút đơn\nkhởi kiện, đơn kiện lại."
+   }
+  },
+  {
+   "id": "VN-H093-A93",
+   "no": 93,
+   "noLabel": {
+    "vi": "2. Trong quá trình t ố tụng trọng tài, các bên có th ể sửa đổi, bổ sung đơn khởi"
+   },
+   "text": {
+    "vi": "2. Trong quá trình t ố tụng trọng tài, các bên có th ể sửa đổi, bổ sung đơn khởi\nkiện, đơn kiện lại hoặc bản tự bảo vệ. Hội đồng trọng tài có quyền không chấp nhận\ncác sửa đổi, bổ sung này n ếu thấy rằng việc đó có th ể bị lạm dụng nhằm gây khó\nkhăn, trì hoãn vi ệc ra phán quy ết trọng tài ho ặc vượt quá ph ạm vi c ủa thỏa thuận\ntrọng tài áp dụng cho vụ tranh chấp.\nĐiều 38. Thương lượng trong tố tụng trọng tài\nKể từ thời điểm bắt đầu tố tụng trọng tài, các bên vẫn có quyền tự mình thương\nlượng, thỏa thuận chấm dứt việc giải quyết tranh chấp.\nTrong trường hợp các bên tự thỏa thuận được với nhau chấm dứt việc giải quyết\ntranh chấp thì có quyền yêu cầu Chủ tịch Trung tâm trọng tài ra quyết định đình chỉ\ngiải quyết tranh chấp.\nChương VI\nHỘI ĐỒNG TRỌNG TÀI\nĐiều 39. Thành phần Hội đồng trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A94",
+   "no": 94,
+   "noLabel": {
+    "vi": "1. Thành phần Hội đồng trọng tài có thể bao gồm một hoặc nhiều Trọng tài viên"
+   },
+   "text": {
+    "vi": "1. Thành phần Hội đồng trọng tài có thể bao gồm một hoặc nhiều Trọng tài viên\ntheo sự thỏa thuận của các bên.\nCÔNG BÁO/Số 564 + 565 ngày 25-9-2010 79"
+   }
+  },
+  {
+   "id": "VN-H093-A95",
+   "no": 95,
+   "noLabel": {
+    "vi": "2. Trường hợp các bên không có th ỏa thuận về số lượng Trọng tài viên thì H ội"
+   },
+   "text": {
+    "vi": "2. Trường hợp các bên không có th ỏa thuận về số lượng Trọng tài viên thì H ội\nđồng trọng tài bao gồm ba Trọng tài viên.\nĐiều 40. Thành lập Hội đồng trọng tài tại Trung tâm trọng tài\nTrong trường hợp các bên không có th ỏa thuận khác ho ặc quy t ắc tố tụng của\nTrung tâm trọng tài không quy định khác, vi ệc thành l ập Hội đồng trọng tài được\nquy định như sau:"
+   }
+  },
+  {
+   "id": "VN-H093-A96",
+   "no": 96,
+   "noLabel": {
+    "vi": "1. Trong thời hạn 30 ngày, kể từ ngày nhận được đơn khởi kiện và yêu cầu chọn"
+   },
+   "text": {
+    "vi": "1. Trong thời hạn 30 ngày, kể từ ngày nhận được đơn khởi kiện và yêu cầu chọn\nTrọng tài viên do Trung tâm tr ọng tài gửi đến, bị đơn phải chọn Trọng tài viên cho\nmình và báo cho Trung tâm trọng tài biết hoặc đề nghị Chủ tịch Trung tâm trọng tài\nchỉ định Trọng tài viên. Nếu bị đơn không chọn Trọng tài viên hoặc không đề nghị\nChủ tịch Trung tâm trọng tài chỉ định Trọng tài viên, thì trong thời hạn 07 ngày, kể\ntừ ngày hết thời hạn quy định tại khoản này, Chủ tịch Trung tâm trọng tài chỉ định\nTrọng tài viên cho bị đơn;"
+   }
+  },
+  {
+   "id": "VN-H093-A97",
+   "no": 97,
+   "noLabel": {
+    "vi": "2. Trường hợp vụ tranh chấp có nhiều bị đơn thì trong th ời hạn 30 ngày, kể từ"
+   },
+   "text": {
+    "vi": "2. Trường hợp vụ tranh chấp có nhiều bị đơn thì trong th ời hạn 30 ngày, kể từ\nngày nhận được đơn khởi kiện do Trung tâm trọng tài gửi đến, các bị đơn phải thống\nnhất chọn Trọng tài viên hoặc thống nhất yêu cầu chỉ định Trọng tài viên cho mình.\nNếu các b ị đơn không ch ọn được Trọng tài viên, thì trong th ời hạn 07 ngày, kể từ\nngày h ết th ời h ạn quy định t ại kho ản này, Ch ủ t ịch Trung tâm tr ọng tài ch ỉ định\nTrọng tài viên cho các bị đơn;"
+   }
+  },
+  {
+   "id": "VN-H093-A98",
+   "no": 98,
+   "noLabel": {
+    "vi": "3. Trong thời hạn 15 ngày, kể từ ngày các Trọng tài viên được các bên chọn hoặc"
+   },
+   "text": {
+    "vi": "3. Trong thời hạn 15 ngày, kể từ ngày các Trọng tài viên được các bên chọn hoặc\nđược Chủ tịch Trung tâm trọng tài chỉ định, các Trọng tài viên này bầu một Trọng tài\nviên khác làm Chủ tịch Hội đồng trọng tài. Hết thời hạn này mà việc bầu không thực\nhiện được, thì trong thời hạn 07 ngày, kể từ ngày hết thời hạn quy định tại khoản này,\nChủ tịch Trung tâm trọng tài chỉ định Chủ tịch Hội đồng trọng tài;"
+   }
+  },
+  {
+   "id": "VN-H093-A99",
+   "no": 99,
+   "noLabel": {
+    "vi": "4. Trường hợp các bên thỏa thuận vụ tranh chấp do một Trọng tài viên duy nhất"
+   },
+   "text": {
+    "vi": "4. Trường hợp các bên thỏa thuận vụ tranh chấp do một Trọng tài viên duy nhất\ngiải quyết nhưng không chọn được Trọng tài viên trong thời hạn 30 ngày, kể từ ngày\nbị đơn nhận được đơn khởi kiện, thì theo yêu cầu của một hoặc các bên và trong thời\nhạn 15 ngày, kể từ ngày nhận được yêu cầu, Chủ tịch Trung tâm trọng tài sẽ chỉ định\nTrọng tài viên duy nhất.\nĐiều 41. Thành lập Hội đồng trọng tài vụ việc\nTrường hợp các bên không có thỏa thuận khác, việc thành lập Hội đồng trọng tài\nvụ việc được quy định như sau:\n80 CÔNG BÁO/Số 564 + 565 ngày 25-9-2010"
+   }
+  },
+  {
+   "id": "VN-H093-A100",
+   "no": 100,
+   "noLabel": {
+    "vi": "1. Trong thời hạn 30 ngày, kể từ ngày bị đơn nhận được đơn khởi kiện của nguyên"
+   },
+   "text": {
+    "vi": "1. Trong thời hạn 30 ngày, kể từ ngày bị đơn nhận được đơn khởi kiện của nguyên\nđơn, bị đơn phải chọn Trọng tài viên và thông báo cho nguyên đơn biết Trọng tài\nviên mà mình chọn. Hết thời hạn này, nếu bị đơn không thông báo cho nguyên đơn\ntên Trọng tài viên mà mình ch ọn và các bên không có th ỏa thuận khác về việc chỉ\nđịnh Trọng tài viên, thì nguyên đơn có quyền yêu cầu Tòa án có thẩm quyền chỉ định\nTrọng tài viên cho bị đơn;"
+   }
+  },
+  {
+   "id": "VN-H093-A101",
+   "no": 101,
+   "noLabel": {
+    "vi": "2. Trường hợp vụ tranh ch ấp có nhi ều bị đơn, thì các b ị đơn phải thống nhất"
+   },
+   "text": {
+    "vi": "2. Trường hợp vụ tranh ch ấp có nhi ều bị đơn, thì các b ị đơn phải thống nhất\nchọn Trọng tài viên trong thời hạn 30 ngày, kể từ ngày nhận được đơn khởi kiện của\nnguyên đơn và các tài li ệu kèm theo. Hết thời hạn này, nếu các bị đơn không chọn\nđược Trọng tài viên và nếu các bên không có thỏa thuận khác về việc chỉ định Trọng\ntài viên, thì một hoặc các bên có quyền yêu cầu Tòa án có thẩm quyền chỉ định Trọng\ntài viên cho các bị đơn;"
+   }
+  },
+  {
+   "id": "VN-H093-A102",
+   "no": 102,
+   "noLabel": {
+    "vi": "3. Trong thời hạn 15 ngày, kể từ ngày được các bên chọn hoặc được Tòa án chỉ"
+   },
+   "text": {
+    "vi": "3. Trong thời hạn 15 ngày, kể từ ngày được các bên chọn hoặc được Tòa án chỉ\nđịnh, các Trọng tài viên b ầu một Trọng tài viên khác làm Ch ủ tịch Hội đồng trọng\ntài. Trong trường hợp không bầu được Chủ tịch Hội đồng trọng tài và các bên không\ncó thỏa thuận khác thì các bên có quyền yêu cầu Tòa án có thẩm quyền chỉ định Chủ\ntịch Hội đồng trọng tài;"
+   }
+  },
+  {
+   "id": "VN-H093-A103",
+   "no": 103,
+   "noLabel": {
+    "vi": "4. Trong trường hợp các bên thỏa thuận vụ tranh chấp do một Trọng tài viên duy"
+   },
+   "text": {
+    "vi": "4. Trong trường hợp các bên thỏa thuận vụ tranh chấp do một Trọng tài viên duy\nnhất giải quyết nhưng không chọn được Trọng tài viên trong thời hạn 30 ngày, kể từ\nngày bị đơn nhận được đơn khởi kiện, nếu các bên không có thỏa thuận yêu cầu một\nTrung tâm trọng tài chỉ định Trọng tài viên, thì theo yêu cầu của một hoặc các bên,\nTòa án có thẩm quyền chỉ định Trọng tài viên duy nhất;"
+   }
+  },
+  {
+   "id": "VN-H093-A104",
+   "no": 104,
+   "noLabel": {
+    "vi": "5. Trong thời hạn 07 ngày, kể từ ngày nhận được yêu cầu của các bên quy định"
+   },
+   "text": {
+    "vi": "5. Trong thời hạn 07 ngày, kể từ ngày nhận được yêu cầu của các bên quy định\ntại các khoản 1, 2, 3 và 4 c ủa Điều này, Chánh án Tòa án có thẩm quyền phải phân\ncông một Thẩm phán chỉ định Trọng tài viên và thông báo cho các bên.\nĐiều 42. Thay đổi Trọng tài viên"
+   }
+  },
+  {
+   "id": "VN-H093-A105",
+   "no": 105,
+   "noLabel": {
+    "vi": "1. Trọng tài viên ph ải từ chối giải quyết tranh chấp, các bên có quy ền yêu cầu"
+   },
+   "text": {
+    "vi": "1. Trọng tài viên ph ải từ chối giải quyết tranh chấp, các bên có quy ền yêu cầu\nthay đổi Trọng tài viên giải quyết tranh chấp trong các trường hợp sau đây:\na) Trọng tài viên là người thân thích hoặc là người đại diện của một bên;\nb) Trọng tài viên có lợi ích liên quan trong vụ tranh chấp;\nc) Có căn cứ rõ ràng cho thấy Trọng tài viên không vô tư, khách quan;\nCÔNG BÁO/Số 564 + 565 ngày 25-9-2010 81\nd) Đã là hòa giải viên, người đại diện, luật sư của bất cứ bên nào trước khi đưa\nvụ tranh chấp đó ra giải quyết tại trọng tài, trừ trường hợp được các bên chấp thuận\nbằng văn bản."
+   }
+  },
+  {
+   "id": "VN-H093-A106",
+   "no": 106,
+   "noLabel": {
+    "vi": "2. Kể từ khi được chọn hoặc được chỉ định, Trọng tài viên phải thông báo bằng"
+   },
+   "text": {
+    "vi": "2. Kể từ khi được chọn hoặc được chỉ định, Trọng tài viên phải thông báo bằng\nvăn bản cho Trung tâm trọng tài hoặc Hội đồng trọng tài và các bên v ề những tình\ntiết có thể ảnh hưởng đến tính khách quan, vô tư của mình.\n3. Đối với vụ tranh chấp được giải quyết tại Trung tâm trọng tài, nếu Hội đồng\ntrọng tài chưa được thành lập, việc thay đổi Trọng tài viên do Ch ủ tịch Trung tâm\ntrọng tài quyết định. Nếu Hội đồng trọng tài đã được thành lập, việc thay đổi Trọng\ntài viên do các thành viên còn l ại của Hội đồng trọng tài quyết định. Trong trường\nhợp các thành viên còn lại của Hội đồng trọng tài không quyết định được hoặc nếu\ncác Trọng tài viên hay Trọng tài viên duy nhất từ chối giải quyết tranh chấp, Chủ tịch\nTrung tâm trọng tài quyết định về việc thay đổi Trọng tài viên.\n4. Đối với vụ tranh chấp do Hội đồng trọng tài vụ việc giải quyết, việc thay đổi\nTrọng tài viên sẽ do các thành viên còn lại của Hội đồng trọng tài quyết định. Trong\ntrường hợp các thành viên còn l ại của Hội đồng trọng tài không quy ết định được\nhoặc nếu các Tr ọng tài viên hay Tr ọng tài viên duy nh ất từ chối giải quyết tranh\nchấp, thì trong th ời hạn 15 ngày, k ể từ ngày nh ận được yêu c ầu của một hoặc các\nTrọng tài viên nói trên, của một hoặc các bên tranh chấp, Chánh án Tòa án có thẩm\nquyền phân công một Thẩm phán quyết định về việc thay đổi Trọng tài viên."
+   }
+  },
+  {
+   "id": "VN-H093-A107",
+   "no": 107,
+   "noLabel": {
+    "vi": "5. Quyết định của Chủ tịch Trung tâm tr ọng tài ho ặc của Tòa án trong tr ường"
+   },
+   "text": {
+    "vi": "5. Quyết định của Chủ tịch Trung tâm tr ọng tài ho ặc của Tòa án trong tr ường\nhợp quy định tại khoản 3 và khoản 4 Điều này là quyết định cuối cùng."
+   }
+  },
+  {
+   "id": "VN-H093-A108",
+   "no": 108,
+   "noLabel": {
+    "vi": "6. Trong trường hợp Trọng tài viên vì sự kiện bất khả kháng hoặc trở ngại khách"
+   },
+   "text": {
+    "vi": "6. Trong trường hợp Trọng tài viên vì sự kiện bất khả kháng hoặc trở ngại khách\nquan mà không thể tiếp tục tham gia giải quyết tranh chấp hoặc bị thay đổi thì việc\nchọn, chỉ định Trọng tài viên thay thế được thực hiện theo trình tự, thủ tục quy định\ncủa Luật này."
+   }
+  },
+  {
+   "id": "VN-H093-A109",
+   "no": 109,
+   "noLabel": {
+    "vi": "7. Sau khi tham khảo ý kiến của các bên, Hội đồng trọng tài mới được thành lập"
+   },
+   "text": {
+    "vi": "7. Sau khi tham khảo ý kiến của các bên, Hội đồng trọng tài mới được thành lập\ncó thể xem xét l ại những vấn đề đã được đưa ra tại các phiên h ọp giải quyết tranh\nchấp của Hội đồng trọng tài trước đó.\nĐiều 43. Xem xét thỏa thuận trọng tài vô hiệu, thỏa thuận trọng tài không\nthể thực hiện được, thẩm quyền của Hội đồng trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A110",
+   "no": 110,
+   "noLabel": {
+    "vi": "1. Trước khi xem xét n ội dung vụ tranh chấp, Hội đồng trọng tài phải xem xét"
+   },
+   "text": {
+    "vi": "1. Trước khi xem xét n ội dung vụ tranh chấp, Hội đồng trọng tài phải xem xét\nhiệu lực của thỏa thuận trọng tài; th ỏa thuận trọng tài có th ể thực hiện được hay\n82 CÔNG BÁO/Số 564 + 565 ngày 25-9-2010\nkhông và xem xét th ẩm quy ền c ủa mình. Trong tr ường h ợp v ụ vi ệc thu ộc th ẩm\nquyền giải quyết của mình thì Hội đồng trọng tài tiến hành giải quyết tranh chấp theo\nquy định của Luật này. Trường hợp không thuộc thẩm quyền giải quyết của mình,\nthỏa thuận trọng tài vô hiệu hoặc xác định rõ thỏa thuận trọng tài không thể thực hiện\nđược thì Hội đồng trọng tài quyết định đình chỉ việc giải quyết và thông báo ngay\ncho các bên biết."
+   }
+  },
+  {
+   "id": "VN-H093-A111",
+   "no": 111,
+   "noLabel": {
+    "vi": "2. Trong quá trình giải quyết tranh chấp, nếu phát hiện Hội đồng trọng tài vượt"
+   },
+   "text": {
+    "vi": "2. Trong quá trình giải quyết tranh chấp, nếu phát hiện Hội đồng trọng tài vượt\nquá thẩm quyền, các bên có thể khiếu nại với Hội đồng trọng tài. Hội đồng trọng tài\ncó trách nhiệm xem xét, quyết định."
+   }
+  },
+  {
+   "id": "VN-H093-A112",
+   "no": 112,
+   "noLabel": {
+    "vi": "3. Trường hợp các bên đã có thỏa thuận giải quyết tranh chấp tại một Trung tâm"
+   },
+   "text": {
+    "vi": "3. Trường hợp các bên đã có thỏa thuận giải quyết tranh chấp tại một Trung tâm\ntrọng tài cụ thể nhưng Trung tâm trọng tài này đã chấm dứt hoạt động mà không có\ntổ chức trọng tài kế thừa, thì các bên có thể thỏa thuận lựa chọn Trung tâm trọng tài\nkhác; nếu không thỏa thuận được, thì có quyền khởi kiện ra Tòa án để giải quyết."
+   }
+  },
+  {
+   "id": "VN-H093-A113",
+   "no": 113,
+   "noLabel": {
+    "vi": "4. Trường hợp các bên đã có thỏa thuận cụ thể về việc lựa chọn Trọng tài viên"
+   },
+   "text": {
+    "vi": "4. Trường hợp các bên đã có thỏa thuận cụ thể về việc lựa chọn Trọng tài viên\ntrọng tài v ụ việc, nhưng tại thời điểm xảy ra tranh ch ấp, vì s ự kiện bất khả kháng\nhoặc trở ngại khách quan mà Tr ọng tài viên không th ể tham gia gi ải quyết tranh\nchấp, thì các bên có th ể thỏa thuận lựa chọn Trọng tài viên khác để thay th ế; nếu\nkhông thỏa thuận được, thì có quyền khởi kiện ra Tòa án để giải quyết."
+   }
+  },
+  {
+   "id": "VN-H093-A114",
+   "no": 114,
+   "noLabel": {
+    "vi": "5. Trường hợp các bên đã có thỏa thuận trọng tài nhưng không chỉ rõ hình thức"
+   },
+   "text": {
+    "vi": "5. Trường hợp các bên đã có thỏa thuận trọng tài nhưng không chỉ rõ hình thức\ntrọng tài hoặc không thể xác định được tổ chức trọng tài cụ thể, thì khi có tranh chấp,\ncác bên phải thỏa thuận lại về hình thức trọng tài hoặc tổ chức trọng tài cụ thể để giải\nquyết tranh chấp. Nếu không thỏa thuận được thì việc lựa chọn hình thức, tổ chức\ntrọng tài để giải quyết tranh chấp được thực hiện theo yêu cầu của nguyên đơn.\nĐiều 44. Khiếu nại và giải quyết khiếu nại quyết định của Hội đồng trọng\ntài về việc không có th ỏa thuận trọng tài, th ỏa thuận trọng tài vô hi ệu, thỏa\nthuận trọng tài không thể thực hiện được, thẩm quyền của Hội đồng trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A115",
+   "no": 115,
+   "noLabel": {
+    "vi": "1. Trong trường hợp không đồng ý v ới quyết định của Hội đồng trọng tài quy"
+   },
+   "text": {
+    "vi": "1. Trong trường hợp không đồng ý v ới quyết định của Hội đồng trọng tài quy\nđịnh tại Điều 43 của Luật này, trong thời hạn 05 ngày làm việc, kể từ ngày nhận được\nquyết định của Hội đồng trọng tài, các bên có quyền gửi đơn yêu cầu Tòa án có thẩm\nquyền xem xét lại quyết định của Hội đồng trọng tài. Bên khiếu nại phải đồng thời\nthông báo việc khiếu nại cho Hội đồng trọng tài.\n2. Đơn khiếu nại phải có những nội dung chủ yếu sau đây:\na) Ngày, tháng, năm làm đơn khiếu nại;\nCÔNG BÁO/Số 564 + 565 ngày 25-9-2010 83\nb) Tên và địa chỉ của bên khiếu nại;\nc) Nội dung yêu cầu.\n3. Đơn khiếu n ại phải kèm theo b ản sao đơn kh ởi kiện, thỏa thuận trọng tài,\nquyết định của Hội đồng trọng tài. Trường hợp giấy tờ kèm theo b ằng tiếng nước\nngoài thì phải dịch ra tiếng Việt và được chứng thực hợp lệ."
+   }
+  },
+  {
+   "id": "VN-H093-A116",
+   "no": 116,
+   "noLabel": {
+    "vi": "4. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được đơn khiếu nại, Chánh"
+   },
+   "text": {
+    "vi": "4. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được đơn khiếu nại, Chánh\nán Tòa án có thẩm quyền phân công một Thẩm phán xem xét, giải quyết đơn khiếu\nnại. Trong thời hạn 10 ngày làm việc, kể từ ngày được phân công, Thẩm phán phải\nxem xét, quyết định. Quyết định của Tòa án là cuối cùng."
+   }
+  },
+  {
+   "id": "VN-H093-A117",
+   "no": 117,
+   "noLabel": {
+    "vi": "5. Trong khi Tòa án giải quyết đơn khiếu nại, Hội đồng trọng tài vẫn có thể tiếp"
+   },
+   "text": {
+    "vi": "5. Trong khi Tòa án giải quyết đơn khiếu nại, Hội đồng trọng tài vẫn có thể tiếp\ntục giải quyết tranh chấp."
+   }
+  },
+  {
+   "id": "VN-H093-A118",
+   "no": 118,
+   "noLabel": {
+    "vi": "6. Trong trường hợp Tòa án quyết định vụ tranh chấp không thuộc thẩm quyền"
+   },
+   "text": {
+    "vi": "6. Trong trường hợp Tòa án quyết định vụ tranh chấp không thuộc thẩm quyền\ncủa Hội đồng trọng tài, không có th ỏa thuận trọng tài, thỏa thuận trọng tài vô hiệu\nhoặc thỏa thu ận trọng tài không th ể thực hiện được, Hội đồng tr ọng tài ra quy ết\nđịnh đình ch ỉ gi ải quy ết tranh ch ấp. N ếu không có th ỏa thu ận khác, các bên có\nquyền khởi kiện vụ tranh ch ấp ra Tòa án. Th ời hiệu khởi kiện ra Tòa án được xác\nđịnh theo quy định c ủa pháp lu ật. Th ời gian t ừ ngày nguyên đơn kh ởi ki ện t ại\nTrọng tài đến ngày Tòa án ra quyết định thụ lý giải quyết vụ tranh chấp không tính\nvào thời hiệu khởi kiện.\nĐiều 45. Thẩm quyền xác minh sự việc của Hội đồng trọng tài\nTrong quá trình giải quyết tranh chấp, Hội đồng trọng tài có quyền gặp hoặc trao\nđổi với các bên với sự có mặt của bên kia bằng các hình thức thích hợp để làm sáng\ntỏ các vấn đề có liên quan đến vụ tranh chấp. Hội đồng trọng tài có thể tự mình hoặc\ntheo yêu cầu của một hoặc các bên tìm hiểu sự việc từ người thứ ba, với sự có mặt\ncủa các bên hoặc sau khi đã thông báo cho các bên biết.\nĐiều 46. Thẩm quyền của Hội đồng trọng tài về thu thập chứng cứ"
+   }
+  },
+  {
+   "id": "VN-H093-A119",
+   "no": 119,
+   "noLabel": {
+    "vi": "1. Các bên có quyền và nghĩa vụ cung cấp chứng cứ cho Hội đồng trọng tài để"
+   },
+   "text": {
+    "vi": "1. Các bên có quyền và nghĩa vụ cung cấp chứng cứ cho Hội đồng trọng tài để\nchứng minh các sự việc có liên quan đến nội dung đang tranh chấp."
+   }
+  },
+  {
+   "id": "VN-H093-A120",
+   "no": 120,
+   "noLabel": {
+    "vi": "2. Theo yêu cầu của một hoặc các bên, Hội đồng trọng tài có quyền yêu cầu người"
+   },
+   "text": {
+    "vi": "2. Theo yêu cầu của một hoặc các bên, Hội đồng trọng tài có quyền yêu cầu người\nlàm chứng cung cấp thông tin, tài liệu có liên quan đến việc giải quyết tranh chấp."
+   }
+  },
+  {
+   "id": "VN-H093-A121",
+   "no": 121,
+   "noLabel": {
+    "vi": "3. Hội đồng trọng tài tự mình hoặc theo yêu cầu của một hoặc các bên, có quyền"
+   },
+   "text": {
+    "vi": "3. Hội đồng trọng tài tự mình hoặc theo yêu cầu của một hoặc các bên, có quyền\ntrưng cầu giám định, định giá tài sản trong vụ tranh chấp để làm căn cứ cho việc giải\n84 CÔNG BÁO/Số 564 + 565 ngày 25-9-2010\nquyết tranh chấp. Phí giám định, định giá do bên yêu c ầu giám định, định giá tạm\nứng hoặc do Hội đồng trọng tài phân bổ."
+   }
+  },
+  {
+   "id": "VN-H093-A122",
+   "no": 122,
+   "noLabel": {
+    "vi": "4. Hội đồng trọng tài tự mình hoặc theo yêu cầu của một hoặc các bên, có quyền"
+   },
+   "text": {
+    "vi": "4. Hội đồng trọng tài tự mình hoặc theo yêu cầu của một hoặc các bên, có quyền\ntham vấn ý kiến của các chuyên gia. Chi phí chuyên gia do bên yêu c ầu tham vấn\ntạm ứng hoặc do Hội đồng trọng tài phân bổ."
+   }
+  },
+  {
+   "id": "VN-H093-A123",
+   "no": 123,
+   "noLabel": {
+    "vi": "5. Trong trường hợp Hội đồng trọng tài, một hoặc các bên đã áp dụng các biện"
+   },
+   "text": {
+    "vi": "5. Trong trường hợp Hội đồng trọng tài, một hoặc các bên đã áp dụng các biện\npháp cần thiết để thu thập chứng cứ mà vẫn không thể tự mình thu thập được thì có\nthể gửi văn bản đề nghị Tòa án có th ẩm quyền yêu c ầu cơ quan, t ổ chức, cá nhân\ncung cấp tài liệu đọc được, nghe được, nhìn được hoặc hiện vật khác liên quan đến\nvụ tranh ch ấp. Văn bản đề nghị phải nêu rõ n ội dung v ụ việc đang giải quyết tại\nTrọng tài, ch ứng cứ cần thu th ập, lý do không thu th ập được, tên, địa chỉ của cơ\nquan, tổ chức, cá nhân đang quản lý, lưu giữ chứng cứ cần thu thập đó."
+   }
+  },
+  {
+   "id": "VN-H093-A124",
+   "no": 124,
+   "noLabel": {
+    "vi": "6. Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được văn bản, đơn yêu cầu"
+   },
+   "text": {
+    "vi": "6. Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được văn bản, đơn yêu cầu\nthu thập chứng cứ, Chánh án Tòa án có thẩm quyền phân công một Thẩm phán xem\nxét, giải quyết yêu cầu thu thập chứng cứ. Trong thời hạn 05 ngày làm vi ệc, kể từ\nngày được phân công, Thẩm phán phải có văn bản yêu cầu cơ quan, tổ chức, cá nhân\nđang quản lý, l ưu giữ cung c ấp chứng cứ cho Tòa án và g ửi văn bản đó cho Viện\nkiểm sát cùng cấp để thực hiện chức năng, nhiệm vụ theo quy định của pháp luật.\nCơ quan, tổ chức, cá nhân đang quản lý, lưu giữ chứng cứ có trách nhiệm cung\ncấp đầy đủ, kịp thời chứng cứ theo yêu cầu của Tòa án trong thời hạn 15 ngày, kể từ\nngày nhận được yêu cầu.\nTrong thời hạn 05 ngày làm việc, kể từ ngày nhận được chứng cứ do cơ quan, tổ\nchức, cá nhân cung cấp, Tòa án phải thông báo cho Hội đồng trọng tài, bên yêu cầu\nbiết để tiến hành việc giao nhận chứng cứ.\nTrường hợp quá thời hạn quy định mà cơ quan, tổ chức, cá nhân không cung cấp\nchứng cứ theo yêu cầu thì Tòa án phải thông báo ngay cho H ội đồng trọng tài, bên\nyêu cầu biết đồng thời có văn bản yêu cầu cơ quan, tổ chức có thẩm quyền xử lý theo\nquy định của pháp luật.\nĐiều 47. Thẩm quyền của Hội đồng trọng tài về triệu tập người làm chứng"
+   }
+  },
+  {
+   "id": "VN-H093-A125",
+   "no": 125,
+   "noLabel": {
+    "vi": "1. Theo yêu cầu của một hoặc các bên và xét th ấy cần thiết, Hội đồng trọng tài"
+   },
+   "text": {
+    "vi": "1. Theo yêu cầu của một hoặc các bên và xét th ấy cần thiết, Hội đồng trọng tài\ncó quyền yêu cầu người làm chứng có mặt tại phiên họp giải quyết tranh chấp. Chi\nphí cho người làm chứng do bên yêu cầu triệu tập người làm chứng chịu hoặc do Hội\nđồng trọng tài phân bổ.\nCÔNG BÁO/Số 564 + 565 ngày 25-9-2010 85"
+   }
+  },
+  {
+   "id": "VN-H093-A126",
+   "no": 126,
+   "noLabel": {
+    "vi": "2. Trường hợp người làm chứng đã được Hội đồng trọng tài triệu tập hợp lệ mà"
+   },
+   "text": {
+    "vi": "2. Trường hợp người làm chứng đã được Hội đồng trọng tài triệu tập hợp lệ mà\nkhông đến phiên họp nhưng không có lý do chính đáng và việc vắng mặt của họ gây\ncản trở cho việc giải quyết tranh chấp, thì Hội đồng trọng tài gửi văn bản đề nghị Tòa\nán có th ẩm quyền ra quy ết định triệu tập người làm ch ứng đến phiên h ọp của Hội\nđồng trọng tài. Văn bản phải nêu rõ nội dung vụ việc đang được giải quyết tại Trọng\ntài; họ, tên, địa chỉ của người làm chứng; lý do cần triệu tập người làm chứng; thời\ngian, địa điểm người làm chứng cần phải có mặt."
+   }
+  },
+  {
+   "id": "VN-H093-A127",
+   "no": 127,
+   "noLabel": {
+    "vi": "3. Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được văn bản đề nghị triệu"
+   },
+   "text": {
+    "vi": "3. Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được văn bản đề nghị triệu\ntập người làm chứng của Hội đồng trọng tài, Chánh án Tòa án có thẩm quyền phân\ncông một Thẩm phán xem xét, giải quyết yêu cầu triệu tập người làm chứng. Trong\nthời hạn 05 ngày làm vi ệc, kể từ ngày được phân công, Th ẩm phán ph ải ra quy ết\nđịnh triệu tập người làm chứng.\nQuyết định triệu tập người làm chứng phải ghi rõ tên Hội đồng trọng tài yêu cầu\ntriệu tập người làm chứng; nội dung v ụ tranh chấp; họ, tên, địa chỉ của người làm\nchứng; thời gian, địa điểm người làm chứng phải có mặt theo yêu cầu của Hội đồng\ntrọng tài.\nTòa án phải gửi ngay quyết định này cho Hội đồng trọng tài, người làm chứng\nđồng thời gửi cho Viện kiểm sát cùng c ấp để thực hiện chức năng, nhiệm vụ theo\nquy định của pháp luật.\nNgười làm chứng có nghĩa vụ nghiêm chỉnh thi hành quyết định của Tòa án.\nChi phí cho người làm chứng được thực hiện theo quy định tại khoản 1 Điều này.\nChương VII\nBIỆN PHÁP KHẨN CẤP TẠM THỜI\nĐiều 48. Quyền yêu cầu áp dụng biện pháp khẩn cấp tạm thời"
+   }
+  },
+  {
+   "id": "VN-H093-A128",
+   "no": 128,
+   "noLabel": {
+    "vi": "1. Các bên tranh chấp có quyền yêu cầu Hội đồng trọng tài, Tòa án áp dụng biện"
+   },
+   "text": {
+    "vi": "1. Các bên tranh chấp có quyền yêu cầu Hội đồng trọng tài, Tòa án áp dụng biện\npháp khẩn cấp tạm thời theo quy định của Luật này và các quy định của pháp luật có\nliên quan, trừ trường hợp các bên có thỏa thuận khác."
+   }
+  },
+  {
+   "id": "VN-H093-A129",
+   "no": 129,
+   "noLabel": {
+    "vi": "2. Việc yêu cầu Tòa án áp dụng biện pháp khẩn cấp tạm thời không bị coi là sự"
+   },
+   "text": {
+    "vi": "2. Việc yêu cầu Tòa án áp dụng biện pháp khẩn cấp tạm thời không bị coi là sự\nbác bỏ thỏa thuận trọng tài hoặc khước từ quyền giải quyết tranh chấp bằng Trọng tài.\nĐiều 49. Thẩm quyền của Hội đồng trọng tài áp dụng biện pháp khẩn cấp\ntạm thời\n86 CÔNG BÁO/Số 564 + 565 ngày 25-9-2010"
+   }
+  },
+  {
+   "id": "VN-H093-A130",
+   "no": 130,
+   "noLabel": {
+    "vi": "1. Theo yêu cầu của một trong các bên, H ội đồng trọng tài có thể áp dụng một"
+   },
+   "text": {
+    "vi": "1. Theo yêu cầu của một trong các bên, H ội đồng trọng tài có thể áp dụng một\nhoặc một số biện pháp khẩn cấp tạm thời đối với các bên tranh chấp."
+   }
+  },
+  {
+   "id": "VN-H093-A131",
+   "no": 131,
+   "noLabel": {
+    "vi": "2. Các biện pháp khẩn cấp tạm thời bao gồm:"
+   },
+   "text": {
+    "vi": "2. Các biện pháp khẩn cấp tạm thời bao gồm:\na) Cấm thay đổi hiện trạng tài sản đang tranh chấp;\nb) Cấm hoặc buộc bất kỳ bên tranh ch ấp nào thực hiện một hoặc một số hành\nvi nhất định nhằm ngăn ngừa các hành vi ảnh hưởng bất lợi đến quá trình t ố tụng\ntrọng tài;\nc) Kê biên tài sản đang tranh chấp;\nd) Yêu cầu bảo tồn, cất trữ, bán hoặc định đoạt bất kỳ tài sản nào của một hoặc\ncác bên tranh chấp;\nđ) Yêu cầu tạm thời về việc trả tiền giữa các bên;\ne) Cấm chuyển dịch quyền về tài sản đối với tài sản đang tranh chấp."
+   }
+  },
+  {
+   "id": "VN-H093-A132",
+   "no": 132,
+   "noLabel": {
+    "vi": "3. Trong quá trình giải quyết tranh chấp, nếu một trong các bên đã yêu cầu Tòa"
+   },
+   "text": {
+    "vi": "3. Trong quá trình giải quyết tranh chấp, nếu một trong các bên đã yêu cầu Tòa\nán áp dụng một hoặc một số biện pháp khẩn cấp tạm thời quy định tại khoản 2 Điều\nnày mà sau đó lại có đơn yêu cầu Hội đồng trọng tài áp dụng biện pháp khẩn cấp tạm\nthời thì Hội đồng trọng tài phải từ chối."
+   }
+  },
+  {
+   "id": "VN-H093-A133",
+   "no": 133,
+   "noLabel": {
+    "vi": "4. Trước khi áp dụng biện pháp khẩn cấp tạm thời, Hội đồng trọng tài có quyền"
+   },
+   "text": {
+    "vi": "4. Trước khi áp dụng biện pháp khẩn cấp tạm thời, Hội đồng trọng tài có quyền\nbuộc bên yêu cầu áp dụng biện pháp khẩn cấp tạm thời thực hiện nghĩa vụ bảo đảm\ntài chính."
+   }
+  },
+  {
+   "id": "VN-H093-A134",
+   "no": 134,
+   "noLabel": {
+    "vi": "5. Hội đồng trọng tài áp dụng biện pháp khẩn cấp tạm thời khác hoặc vượt quá"
+   },
+   "text": {
+    "vi": "5. Hội đồng trọng tài áp dụng biện pháp khẩn cấp tạm thời khác hoặc vượt quá\nyêu cầu áp dụng biện pháp khẩn cấp tạm thời của bên yêu cầu mà gây thiệt hại cho\nbên yêu cầu, bên bị áp dụng hoặc người thứ ba thì người bị thiệt hại có quyền khởi\nkiện ra Tòa án để yêu cầu giải quyết bồi thường theo quy định của pháp luật về tố\ntụng dân sự.\nĐiều 50. Thủ tục áp dụng biện pháp khẩn cấp tạm thời của Hội đồng trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A135",
+   "no": 135,
+   "noLabel": {
+    "vi": "1. Bên yêu cầu áp dụng biện pháp khẩn cấp tạm thời phải làm đơn gửi đến Hội"
+   },
+   "text": {
+    "vi": "1. Bên yêu cầu áp dụng biện pháp khẩn cấp tạm thời phải làm đơn gửi đến Hội\nđồng trọng tài.\n2. Đơn yêu cầu áp dụng biện pháp khẩn cấp tạm thời phải có các nội dung chính\nsau đây:\na) Ngày, tháng, năm làm đơn;\nb) Tên, địa chỉ của bên có yêu cầu áp dụng biện pháp khẩn cấp tạm thời;\nc) Tên, địa chỉ của bên bị yêu cầu áp dụng biện pháp khẩn cấp tạm thời;\nCÔNG BÁO/Số 564 + 565 ngày 25-9-2010 87\nd) Tóm tắt nội dung tranh chấp;\nđ) Lý do cần phải áp dụng biện pháp khẩn cấp tạm thời;\ne) Biện pháp khẩn cấp tạm thời cần được áp dụng và các yêu cầu cụ thể.\nKèm theo đơn yêu cầu áp dụng biện pháp khẩn cấp tạm thời, bên yêu cầu phải\ncung cấp cho Hội đồng trọng tài chứng cứ để chứng minh cho s ự cần thiết phải áp\ndụng biện pháp khẩn cấp tạm thời đó."
+   }
+  },
+  {
+   "id": "VN-H093-A136",
+   "no": 136,
+   "noLabel": {
+    "vi": "3. Theo quy ết định c ủa H ội đồng tr ọng tài, bên yêu c ầu áp d ụng bi ện pháp"
+   },
+   "text": {
+    "vi": "3. Theo quy ết định c ủa H ội đồng tr ọng tài, bên yêu c ầu áp d ụng bi ện pháp\nkhẩn cấp tạm thời phải gửi một khoản tiền, kim khí quý, đá quý ho ặc giấy tờ có\ngiá do Hội đồng trọng tài ấn định tương ứng với giá trị thiệt hại có thể phát sinh do\náp dụng biện pháp khẩn cấp tạm thời không đúng gây ra để bảo vệ lợi ích của bên\nbị yêu cầu áp dụng biện pháp khẩn cấp tạm thời. Khoản tiền, kim khí quý, đá quý\nhoặc giấy tờ có giá được gửi vào tài kho ản phong t ỏa tại ngân hàng do H ội đồng\ntrọng tài quyết định."
+   }
+  },
+  {
+   "id": "VN-H093-A137",
+   "no": 137,
+   "noLabel": {
+    "vi": "4. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đơn, ngay sau khi bên yêu"
+   },
+   "text": {
+    "vi": "4. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đơn, ngay sau khi bên yêu\ncầu đã thực hiện biện pháp b ảo đảm quy định tại khoản 3 Điều này thì H ội đồng\ntrọng tài xem xét ra quy ết định áp dụng biện pháp khẩn cấp tạm thời. Trường hợp\nkhông chấp nhận yêu cầu, Hội đồng trọng tài thông báo b ằng văn bản và nêu rõ lý\ndo cho bên yêu cầu biết."
+   }
+  },
+  {
+   "id": "VN-H093-A138",
+   "no": 138,
+   "noLabel": {
+    "vi": "5. Việc thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời của Hội đồng"
+   },
+   "text": {
+    "vi": "5. Việc thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời của Hội đồng\ntrọng tài được thực hiện theo quy định của pháp luật về thi hành án dân sự.\nĐiều 51. Thẩm quyền, thủ tục thay đổi, bổ sung, hủy bỏ biện pháp khẩn cấp\ntạm thời của Hội đồng trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A139",
+   "no": 139,
+   "noLabel": {
+    "vi": "1. Theo yêu cầu của một bên, Hội đồng trọng tài có quyền thay đổi, bổ sung, hủy"
+   },
+   "text": {
+    "vi": "1. Theo yêu cầu của một bên, Hội đồng trọng tài có quyền thay đổi, bổ sung, hủy\nbỏ biện pháp khẩn cấp tạm thời vào bất kỳ thời điểm nào trong quá trình giải quyết\ntranh chấp."
+   }
+  },
+  {
+   "id": "VN-H093-A140",
+   "no": 140,
+   "noLabel": {
+    "vi": "2. Thủ tục thay đổi, bổ sung biện pháp khẩn cấp tạm thời được thực hiện theo"
+   },
+   "text": {
+    "vi": "2. Thủ tục thay đổi, bổ sung biện pháp khẩn cấp tạm thời được thực hiện theo\nquy định tại Điều 50 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H093-A141",
+   "no": 141,
+   "noLabel": {
+    "vi": "3. Hội đồng trọng tài hủy bỏ biện pháp khẩn cấp tạm thời đã được áp dụng trong"
+   },
+   "text": {
+    "vi": "3. Hội đồng trọng tài hủy bỏ biện pháp khẩn cấp tạm thời đã được áp dụng trong\ncác trường hợp sau đây:\na) Bên yêu cầu áp dụng biện pháp khẩn cấp tạm thời đề nghị hủy bỏ;\nb) Bên phải thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời đã nộp tài\nsản hoặc có người khác thực hiện biện pháp bảo đảm thi hành nghĩa vụ đối với bên\ncó yêu cầu;\n88 CÔNG BÁO/Số 564 + 565 ngày 25-9-2010\nc) Nghĩa vụ của bên có nghĩa vụ chấm dứt theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H093-A142",
+   "no": 142,
+   "noLabel": {
+    "vi": "4. Thủ tục hủy bỏ biện pháp khẩn cấp tạm thời được thực hiện như sau:"
+   },
+   "text": {
+    "vi": "4. Thủ tục hủy bỏ biện pháp khẩn cấp tạm thời được thực hiện như sau:\na) Bên yêu cầu phải có đơn đề nghị hủy bỏ biện pháp khẩn cấp tạm thời gửi Hội\nđồng trọng tài;\nb) Hội đồng trọng tài xem xét ra quyết định hủy bỏ biện pháp khẩn cấp tạm thời\nvà xem xét, quyết định để bên yêu cầu áp dụng biện pháp khẩn cấp tạm thời nhận lại\ntài sản bảo đảm quy định tại khoản 3 Điều 50 của Luật này, trừ trường hợp bên yêu\ncầu Hội đồng trọng tài áp dụng biện pháp khẩn cấp tạm thời phải chịu trách nhiệm\nbồi thường do yêu cầu không đúng gây thiệt hại cho bên bị áp dụng biện pháp khẩn\ncấp tạm thời hoặc cho người thứ ba.\nQuyết định hủy bỏ biện pháp khẩn cấp tạm thời phải được gửi ngay cho các bên\ntranh chấp và Cơ quan thi hành án dân sự.\nĐiều 52. Trách nhiệm của bên yêu cầu áp dụng biện pháp khẩn cấp tạm thời\nBên yêu cầu áp dụng biện pháp khẩn cấp tạm thời phải chịu trách nhiệm về yêu\ncầu của mình. Trong trường hợp bên yêu cầu áp dụng biện pháp khẩn cấp tạm thời\nkhông đúng và gây thiệt hại cho bên kia hoặc cho người thứ ba thì phải bồi thường.\nĐiều 53. Thẩm quyền, trình tự, thủ tục của Tòa án áp d ụng, thay đổi, hủy\nbỏ biện pháp khẩn cấp tạm thời"
+   }
+  },
+  {
+   "id": "VN-H093-A143",
+   "no": 143,
+   "noLabel": {
+    "vi": "1. Sau khi n ộp đơn khởi kiện, nếu quyền và lợi ích hợp pháp của mình bị xâm"
+   },
+   "text": {
+    "vi": "1. Sau khi n ộp đơn khởi kiện, nếu quyền và lợi ích hợp pháp của mình bị xâm\nhại hoặc có nguy cơ trực tiếp bị xâm hại, một bên có quyền làm đơn gửi đến Tòa án\ncó thẩm quyền yêu cầu áp dụng một hoặc một số biện pháp khẩn cấp tạm thời."
+   }
+  },
+  {
+   "id": "VN-H093-A144",
+   "no": 144,
+   "noLabel": {
+    "vi": "2. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được đơn yêu cầu áp dụng"
+   },
+   "text": {
+    "vi": "2. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được đơn yêu cầu áp dụng\nbiện pháp khẩn cấp tạm thời, Chánh án Tòa án có thẩm quyền phân công một Thẩm\nphán xem xét, gi ải quyết. Trong thời hạn 03 ngày làm vi ệc, kể từ ngày được phân\ncông, Thẩm phán phải xem xét, quyết định áp dụng hoặc không áp dụng biện pháp\nkhẩn cấp tạm thời. Thẩm phán phải ra quyết định áp dụng biện pháp khẩn cấp tạm\nthời ngay sau khi ng ười yêu cầu thực hiện biện pháp bảo đảm. Trường hợp không\nchấp nhận yêu cầu thì Thẩm phán phải thông báo bằng văn bản và nêu rõ lý do cho\nngười yêu cầu biết."
+   }
+  },
+  {
+   "id": "VN-H093-A145",
+   "no": 145,
+   "noLabel": {
+    "vi": "3. Một bên có quyền yêu cầu Tòa án thay đổi, bổ sung, hủy bỏ biện pháp khẩn"
+   },
+   "text": {
+    "vi": "3. Một bên có quyền yêu cầu Tòa án thay đổi, bổ sung, hủy bỏ biện pháp khẩn\ncấp tạm thời. Việc phân công Thẩm phán xem xét giải quyết đơn yêu cầu thay đổi,\nbổ sung, h ủy b ỏ bi ện pháp kh ẩn c ấp t ạm th ời được th ực hi ện theo quy định t ại\nkhoản 2 Điều này.\nCÔNG BÁO/Số 564 + 565 ngày 25-9-2010 89"
+   }
+  },
+  {
+   "id": "VN-H093-A146",
+   "no": 146,
+   "noLabel": {
+    "vi": "4. Trình tự, thủ tục áp dụng, thay đổi, bổ sung, hủy bỏ biện pháp khẩn cấp tạm"
+   },
+   "text": {
+    "vi": "4. Trình tự, thủ tục áp dụng, thay đổi, bổ sung, hủy bỏ biện pháp khẩn cấp tạm\nthời và kiểm sát việc tuân theo pháp luật trong việc áp dụng biện pháp khẩn cấp tạm\nthời của Tòa án thực hiện theo quy định của Bộ luật Tố tụng dân sự."
+   }
+  },
+  {
+   "id": "VN-H093-A147",
+   "no": 147,
+   "noLabel": {
+    "vi": "5. Trong quá trình giải quyết tranh chấp, nếu một trong các bên đã yêu cầu Hội"
+   },
+   "text": {
+    "vi": "5. Trong quá trình giải quyết tranh chấp, nếu một trong các bên đã yêu cầu Hội\nđồng trọng tài áp dụng một hoặc một số biện pháp khẩn cấp tạm thời mà lại có đơn\nyêu cầu Tòa án áp dụng biện pháp khẩn cấp tạm thời thì Tòa án phải từ chối và trả\nlại đơn yêu cầu, trừ trường hợp yêu cầu áp dụng biện pháp khẩn cấp tạm thời không\nthuộc thẩm quyền của Hội đồng trọng tài.\nChương VIII\nPHIÊN HỌP GIẢI QUYẾT TRANH CHẤP\nĐiều 54. Chuẩn bị phiên họp giải quyết tranh chấp"
+   }
+  },
+  {
+   "id": "VN-H093-A148",
+   "no": 148,
+   "noLabel": {
+    "vi": "1. Trường hợp các bên không có thỏa thuận khác hoặc quy tắc tố tụng của Trung"
+   },
+   "text": {
+    "vi": "1. Trường hợp các bên không có thỏa thuận khác hoặc quy tắc tố tụng của Trung\ntâm trọng tài không có quy định khác, thời gian và địa điểm mở phiên họp do Hội\nđồng trọng tài quyết định."
+   }
+  },
+  {
+   "id": "VN-H093-A149",
+   "no": 149,
+   "noLabel": {
+    "vi": "2. Trường hợp các bên không có thỏa thuận khác hoặc quy tắc tố tụng của Trung"
+   },
+   "text": {
+    "vi": "2. Trường hợp các bên không có thỏa thuận khác hoặc quy tắc tố tụng của Trung\ntâm trọng tài không có quy định khác, giấy triệu tập tham dự phiên họp phải được\ngửi cho các bên chậm nhất 30 ngày trước ngày mở phiên họp.\nĐiều 55. Thành phần, thủ tục phiên họp giải quyết tranh chấp"
+   }
+  },
+  {
+   "id": "VN-H093-A150",
+   "no": 150,
+   "noLabel": {
+    "vi": "1. Phiên họp giải quyết tranh chấp được tiến hành không công khai, tr ừ trường"
+   },
+   "text": {
+    "vi": "1. Phiên họp giải quyết tranh chấp được tiến hành không công khai, tr ừ trường\nhợp các bên có thỏa thuận khác."
+   }
+  },
+  {
+   "id": "VN-H093-A151",
+   "no": 151,
+   "noLabel": {
+    "vi": "2. Các bên có thể trực tiếp hoặc ủy quyền cho người đại diện tham dự phiên họp"
+   },
+   "text": {
+    "vi": "2. Các bên có thể trực tiếp hoặc ủy quyền cho người đại diện tham dự phiên họp\ngiải quyết tranh chấp; có quyền mời người làm chứng, người bảo vệ quyền và lợi ích\nhợp pháp của mình."
+   }
+  },
+  {
+   "id": "VN-H093-A152",
+   "no": 152,
+   "noLabel": {
+    "vi": "3. Trong trường hợp có s ự đồng ý c ủa các bên, H ội đồng trọng tài có th ể cho"
+   },
+   "text": {
+    "vi": "3. Trong trường hợp có s ự đồng ý c ủa các bên, H ội đồng trọng tài có th ể cho\nphép những người khác tham dự phiên họp giải quyết tranh chấp."
+   }
+  },
+  {
+   "id": "VN-H093-A153",
+   "no": 153,
+   "noLabel": {
+    "vi": "4. Trình tự, thủ tục tiến hành phiên họp giải quyết tranh chấp do quy tắc tố tụng"
+   },
+   "text": {
+    "vi": "4. Trình tự, thủ tục tiến hành phiên họp giải quyết tranh chấp do quy tắc tố tụng\ntrọng tài của Trung tâm trọng tài quy định; đối với Trọng tài vụ việc do các bên thỏa\nthuận.\nĐiều 56. Việc vắng mặt của các bên"
+   }
+  },
+  {
+   "id": "VN-H093-A154",
+   "no": 154,
+   "noLabel": {
+    "vi": "1. Nguyên đơn đã được triệu tập hợp lệ tham dự phiên họp giải quyết tranh chấp"
+   },
+   "text": {
+    "vi": "1. Nguyên đơn đã được triệu tập hợp lệ tham dự phiên họp giải quyết tranh chấp\nmà vắng mặt không có lý do chính đáng hoặc rời phiên họp giải quyết tranh chấp mà\n90 CÔNG BÁO/Số 564 + 565 ngày 25-9-2010\nkhông được Hội đồng trọng tài chấp thuận thì bị coi là đã rút đơn khởi kiện. Trong\ntrường hợp này, Hội đồng trọng tài tiếp tục giải quyết tranh chấp nếu bị đơn có yêu\ncầu hoặc có đơn kiện lại."
+   }
+  },
+  {
+   "id": "VN-H093-A155",
+   "no": 155,
+   "noLabel": {
+    "vi": "2. Bị đơn đã được triệu tập hợp lệ tham dự phiên họp giải quyết tranh chấp mà"
+   },
+   "text": {
+    "vi": "2. Bị đơn đã được triệu tập hợp lệ tham dự phiên họp giải quyết tranh chấp mà\nvắng mặt không có lý do chính đáng hoặc rời phiên h ọp giải quyết tranh ch ấp mà\nkhông được Hội đồng trọng tài chấp thuận thì H ội đồng trọng tài vẫn tiếp tục giải\nquyết tranh chấp căn cứ vào tài liệu và chứng cứ hiện có."
+   }
+  },
+  {
+   "id": "VN-H093-A156",
+   "no": 156,
+   "noLabel": {
+    "vi": "3. Theo yêu cầu của các bên, Hội đồng trọng tài có thể căn cứ vào hồ sơ để tiến"
+   },
+   "text": {
+    "vi": "3. Theo yêu cầu của các bên, Hội đồng trọng tài có thể căn cứ vào hồ sơ để tiến\nhành phiên họp giải quyết tranh chấp mà không cần sự có mặt của các bên.\nĐiều 57. Hoãn phiên họp giải quyết tranh chấp\nKhi có lý do chính đáng, một hoặc các bên có th ể yêu c ầu Hội đồng trọng tài\nhoãn phiên họp giải quyết tranh chấp. Yêu cầu hoãn phiên họp giải quyết tranh chấp\nphải được lập bằng văn bản, nêu rõ lý do kèm theo ch ứng cứ và được gửi đến Hội\nđồng tr ọng tài ch ậm nh ất 07 ngày làm vi ệc tr ước ngày m ở phiên h ọp gi ải quy ết\ntranh chấp. Nếu Hội đồng trọng tài không nhận được yêu cầu theo thời hạn này, bên\nyêu cầu hoãn phiên h ọp giải quyết tranh chấp phải chịu mọi chi phí phát sinh, n ếu\ncó. Hội đồng trọng tài xem xét, quyết định chấp nhận hay không chấp nhận yêu cầu\nhoãn phiên họp và thông báo kịp thời cho các bên.\nThời hạn hoãn phiên họp do Hội đồng trọng tài quyết định.\nĐiều 58. Hòa giải, công nhận hòa giải thành\nTheo yêu cầu của các bên, Hội đồng trọng tài tiến hành hòa giải để các bên thỏa\nthuận với nhau về việc giải quyết tranh chấp. Khi các bên thỏa thuận được với nhau\nvề việc giải quyết trong vụ tranh chấp thì Hội đồng trọng tài lập biên bản hòa giải\nthành có chữ ký của các bên và xác nhận của các Trọng tài viên. Hội đồng trọng tài\nra quyết định công nhận sự thỏa thuận của các bên. Quy ết định này là chung th ẩm\nvà có giá trị như phán quyết trọng tài.\nĐiều 59. Đình chỉ giải quyết tranh chấp"
+   }
+  },
+  {
+   "id": "VN-H093-A157",
+   "no": 157,
+   "noLabel": {
+    "vi": "1. Vụ tranh chấp được đình chỉ giải quyết trong các trường hợp sau đây:"
+   },
+   "text": {
+    "vi": "1. Vụ tranh chấp được đình chỉ giải quyết trong các trường hợp sau đây:\na) Nguyên đơn hoặc bị đơn là cá nhân đã chết mà quyền, nghĩa vụ của họ không\nđược thừa kế;\nb) Nguyên đơn hoặc bị đơn là cơ quan, tổ chức đã chấm dứt hoạt động, bị phá\nsản, giải thể, hợp nhất, sáp nhập, chia, tách ho ặc chuyển đổi hình thức tổ chức mà\nkhông có cơ quan, tổ chức nào tiếp nhận quyền, nghĩa vụ của cơ quan, tổ chức đó;\nCÔNG BÁO/Số 564 + 565 ngày 25-9-2010 91\nc) Nguyên đơn rút đơn khởi kiện hoặc được coi là đã rút đơn khởi kiện theo quy\nđịnh tại khoản 1 Điều 56 của Luật này, trừ trường hợp bị đơn yêu cầu tiếp tục giải\nquyết tranh chấp;\nd) Các bên thỏa thuận chấm dứt việc giải quyết tranh chấp;\nđ) Tòa án đã quyết định vụ tranh chấp không thuộc thẩm quyền của Hội đồng\ntrọng tài, không có thỏa thuận trọng tài, thỏa thuận trọng tài vô hiệu hoặc thỏa thuận\ntrọng tài không thể thực hiện được theo quy định tại khoản 6 Điều 44 của Luật này."
+   }
+  },
+  {
+   "id": "VN-H093-A158",
+   "no": 158,
+   "noLabel": {
+    "vi": "2. Hội đồng trọng tài ra quyết định đình chỉ giải quyết tranh chấp. Trường hợp"
+   },
+   "text": {
+    "vi": "2. Hội đồng trọng tài ra quyết định đình chỉ giải quyết tranh chấp. Trường hợp\nHội đồng trọng tài ch ưa được thành l ập thì Ch ủ tịch Trung tâm tr ọng tài ra quy ết\nđịnh đình chỉ giải quyết tranh chấp."
+   }
+  },
+  {
+   "id": "VN-H093-A159",
+   "no": 159,
+   "noLabel": {
+    "vi": "3. Khi có quy ết định đình chỉ giải quyết tranh ch ấp, các bên không có quy ền"
+   },
+   "text": {
+    "vi": "3. Khi có quy ết định đình chỉ giải quyết tranh ch ấp, các bên không có quy ền\nkhởi kiện yêu c ầu Trọng tài gi ải quyết lại vụ tranh ch ấp đó nếu việc khởi kiện vụ\ntranh chấp sau không có gì khác v ới vụ tranh chấp trước về nguyên đơn, bị đơn và\nquan hệ pháp luật có tranh chấp, trừ các trường hợp quy định tại điểm c và điểm đ\nkhoản 1 Điều này.\nChương IX\nPHÁN QUYẾT TRỌNG TÀI\nĐiều 60. Nguyên tắc ra phán quyết"
+   }
+  },
+  {
+   "id": "VN-H093-A160",
+   "no": 160,
+   "noLabel": {
+    "vi": "1. Hội đồng trọng tài ra phán quyết trọng tài bằng cách biểu quyết theo nguyên"
+   },
+   "text": {
+    "vi": "1. Hội đồng trọng tài ra phán quyết trọng tài bằng cách biểu quyết theo nguyên\ntắc đa số."
+   }
+  },
+  {
+   "id": "VN-H093-A161",
+   "no": 161,
+   "noLabel": {
+    "vi": "2. Trường hợp biểu quyết không đạt được đa số thì phán quyết trọng tài được lập"
+   },
+   "text": {
+    "vi": "2. Trường hợp biểu quyết không đạt được đa số thì phán quyết trọng tài được lập\ntheo ý kiến của Chủ tịch Hội đồng trọng tài.\nĐiều 61. Nội dung, hình thức và hiệu lực của phán quyết trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A162",
+   "no": 162,
+   "noLabel": {
+    "vi": "1. Phán quyết trọng tài phải được lập bằng văn bản và có các nội dung chủ yếu"
+   },
+   "text": {
+    "vi": "1. Phán quyết trọng tài phải được lập bằng văn bản và có các nội dung chủ yếu\nsau đây:\na) Ngày, tháng, năm và địa điểm ra phán quyết;\nb) Tên, địa chỉ của nguyên đơn và bị đơn;\nc) Họ, tên, địa chỉ của Trọng tài viên;\nd) Tóm tắt đơn khởi kiện và các vấn đề tranh chấp;\nđ) Căn cứ để ra phán quyết, trừ khi các bên có thỏa thuận không cần nêu căn cứ\ntrong phán quyết;\n92 CÔNG BÁO/Số 564 + 565 ngày 25-9-2010\ne) Kết quả giải quyết tranh chấp;\ng) Thời hạn thi hành phán quyết;\nh) Phân bổ chi phí trọng tài và các chi phí khác có liên quan;\n(i) Chữ ký của Trọng tài viên."
+   }
+  },
+  {
+   "id": "VN-H093-A163",
+   "no": 163,
+   "noLabel": {
+    "vi": "2. Khi có Tr ọng tài viên không ký tên vào phán quy ết trọng tài, Ch ủ tịch Hội"
+   },
+   "text": {
+    "vi": "2. Khi có Tr ọng tài viên không ký tên vào phán quy ết trọng tài, Ch ủ tịch Hội\nđồng trọng tài ph ải ghi vi ệc này trong phán quy ết trọng tài và nêu rõ lý do. Trong\ntrường hợp này, phán quyết trọng tài vẫn có hiệu lực."
+   }
+  },
+  {
+   "id": "VN-H093-A164",
+   "no": 164,
+   "noLabel": {
+    "vi": "3. Phán quyết trọng tài được ban hành ngay tại phiên họp hoặc chậm nhất là 30"
+   },
+   "text": {
+    "vi": "3. Phán quyết trọng tài được ban hành ngay tại phiên họp hoặc chậm nhất là 30\nngày, kể từ ngày kết thúc phiên họp cuối cùng."
+   }
+  },
+  {
+   "id": "VN-H093-A165",
+   "no": 165,
+   "noLabel": {
+    "vi": "4. Phán quyết trọng tài phải được gửi cho các bên ngay sau ngày ban hành. Các"
+   },
+   "text": {
+    "vi": "4. Phán quyết trọng tài phải được gửi cho các bên ngay sau ngày ban hành. Các\nbên có quyền yêu cầu Trung tâm trọng tài hoặc Hội đồng trọng tài vụ việc cấp bản\nsao phán quyết trọng tài."
+   }
+  },
+  {
+   "id": "VN-H093-A166",
+   "no": 166,
+   "noLabel": {
+    "vi": "5. Phán quyết trọng tài là chung thẩm và có hiệu lực kể từ ngày ban hành."
+   },
+   "text": {
+    "vi": "5. Phán quyết trọng tài là chung thẩm và có hiệu lực kể từ ngày ban hành.\nĐiều 62. Đăng ký phán quyết trọng tài vụ việc"
+   }
+  },
+  {
+   "id": "VN-H093-A167",
+   "no": 167,
+   "noLabel": {
+    "vi": "1. Theo yêu cầu của một hoặc các bên tranh chấp, phán quyết của Trọng tài vụ"
+   },
+   "text": {
+    "vi": "1. Theo yêu cầu của một hoặc các bên tranh chấp, phán quyết của Trọng tài vụ\nviệc được đăng ký tại Tòa án nơi Hội đồng trọng tài đã ra phán quyết trước khi yêu\ncầu Cơ quan thi hành án dân sự có thẩm quyền tổ chức thi hành phán quyết trọng tài\nđó. Việc đăng ký hoặc không đăng ký phán quyết trọng tài không ảnh hưởng đến nội\ndung và giá trị pháp lý của phán quyết trọng tài."
+   }
+  },
+  {
+   "id": "VN-H093-A168",
+   "no": 168,
+   "noLabel": {
+    "vi": "2. Trong thời hạn 01 năm, kể từ ngày ban hành phán quyết trọng tài, bên yêu cầu"
+   },
+   "text": {
+    "vi": "2. Trong thời hạn 01 năm, kể từ ngày ban hành phán quyết trọng tài, bên yêu cầu\nđăng ký phán quyết trọng tài vụ việc phải gửi đơn xin đăng ký phán quyết trọng tài\ntới Tòa án có th ẩm quyền quy định tại khoản 1 Điều này kèm theo b ản chính hoặc\nbản sao có chứng thực hợp lệ các tài liệu sau đây:\na) Phán quyết trọng tài do Hội đồng trọng tài vụ việc ban hành;\nb) Biên b ản phiên h ọp giải quy ết tranh ch ấp của Hội đồng tr ọng tài v ụ việc,\nnếu có;\nc) Bản chính hoặc bản sao thỏa thuận trọng tài đã được chứng thực hợp lệ.\nBên yêu c ầu ph ải ch ịu trách nhi ệm về tính xác th ực của các tài li ệu gửi cho\nTòa án."
+   }
+  },
+  {
+   "id": "VN-H093-A169",
+   "no": 169,
+   "noLabel": {
+    "vi": "3. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được đơn xin đăng ký phán"
+   },
+   "text": {
+    "vi": "3. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được đơn xin đăng ký phán\nquyết, Chánh án Tòa án phải phân công một Thẩm phán xem xét đơn đăng ký phán\nCÔNG BÁO/Số 564 + 565 ngày 25-9-2010 93\nquyết. Trong thời hạn 10 ngày, kể từ ngày được phân công, Thẩm phán phải kiểm tra\ntính xác thực của các tài li ệu gửi kèm theo đơn và thực hiện việc đăng ký. Trường\nhợp xác định phán quyết trọng tài không có thật thì Thẩm phán từ chối đăng ký, trả\nlại đơn yêu cầu và các tài liệu kèm theo và phải thông báo ngay cho bên có yêu cầu\nbiết, đồng thời nêu rõ lý do. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được\nthông báo của Tòa án, người yêu cầu đăng ký phán quyết trọng tài có quyền khiếu\nnại với Chánh án Tòa án về việc từ chối đăng ký phán quyết trọng tài. Trong thời hạn\n03 ngày làm vi ệc, kể từ ngày nhận được khiếu nại, Chánh án Tòa án ph ải xem xét\nvà ra quyết định giải quyết khiếu nại. Quyết định giải quyết khiếu nại của Chánh án\nTòa án là quyết định cuối cùng."
+   }
+  },
+  {
+   "id": "VN-H093-A170",
+   "no": 170,
+   "noLabel": {
+    "vi": "4. Nội dung đăng ký phán quyết Trọng tài:"
+   },
+   "text": {
+    "vi": "4. Nội dung đăng ký phán quyết Trọng tài:\na) Thời gian, địa điểm thực hiện việc đăng ký;\nb) Tên Tòa án tiến hành việc đăng ký;\nc) Tên, địa chỉ của bên yêu cầu thực hiện việc đăng ký;\nd) Phán quyết được đăng ký;\nđ) Chữ ký của người có thẩm quyền và đóng dấu của Tòa án.\nĐiều 63. Sửa chữa và giải thích phán quyết; phán quyết bổ sung"
+   }
+  },
+  {
+   "id": "VN-H093-A171",
+   "no": 171,
+   "noLabel": {
+    "vi": "1. Trong thời hạn 30 ngày, kể từ ngày nhận được phán quyết, trừ khi các bên có"
+   },
+   "text": {
+    "vi": "1. Trong thời hạn 30 ngày, kể từ ngày nhận được phán quyết, trừ khi các bên có\nthỏa thuận khác v ề thời hạn, một bên có th ể yêu c ầu Hội đồng trọng tài s ửa chữa\nnhững lỗi rõ ràng về chính tả, về số liệu do nhầm lẫn hoặc tính toán sai trong phán\nquyết nhưng phải thông báo ngay cho bên kia bi ết. Trường hợp Hội đồng trọng tài\nthấy yêu cầu này là chính đáng thì phải sửa chữa trong thời hạn 30 ngày, kể từ ngày\nnhận được yêu cầu."
+   }
+  },
+  {
+   "id": "VN-H093-A172",
+   "no": 172,
+   "noLabel": {
+    "vi": "2. Trong thời hạn 30 ngày, kể từ ngày nhận được phán quyết, trừ trường hợp các"
+   },
+   "text": {
+    "vi": "2. Trong thời hạn 30 ngày, kể từ ngày nhận được phán quyết, trừ trường hợp các\nbên có thỏa thuận khác về thời hạn, một bên có thể yêu cầu Hội đồng trọng tài giải\nthích về điểm cụ thể hoặc phần nội dung của phán quyết nhưng phải thông báo ngay\ncho bên kia. Nếu Hội đồng trọng tài thấy rằng yêu cầu này là chính đáng thì phải giải\nthích trong thời hạn 30 ngày, kể từ ngày nhận được yêu cầu. Nội dung giải thích này\nlà một phần của phán quyết."
+   }
+  },
+  {
+   "id": "VN-H093-A173",
+   "no": 173,
+   "noLabel": {
+    "vi": "3. Trong thời hạn 30 ngày, kể từ ngày ban hành phán quy ết, Hội đồng trọng tài"
+   },
+   "text": {
+    "vi": "3. Trong thời hạn 30 ngày, kể từ ngày ban hành phán quy ết, Hội đồng trọng tài\ncó thể chủ động sửa những lỗi quy định tại khoản 1 Điều này và thông báo ngay cho\ncác bên.\n94 CÔNG BÁO/Số 564 + 565 ngày 25-9-2010"
+   }
+  },
+  {
+   "id": "VN-H093-A174",
+   "no": 174,
+   "noLabel": {
+    "vi": "4. Trường hợp các bên không có thỏa thuận khác, trong thời hạn 30 ngày, kể từ"
+   },
+   "text": {
+    "vi": "4. Trường hợp các bên không có thỏa thuận khác, trong thời hạn 30 ngày, kể từ\nngày nhận được phán quyết, một bên có thể yêu cầu Hội đồng trọng tài ra phán quyết\nbổ sung đối với những yêu cầu được trình bày trong quá trình tố tụng nhưng không\nđược ghi trong phán quy ết và phải thông báo ngay cho bên kia bi ết. Nếu Hội đồng\ntrọng tài cho rằng yêu cầu này là chính đáng thì ra phán quyết bổ sung trong thời hạn\n45 ngày, kể từ ngày nhận được yêu cầu."
+   }
+  },
+  {
+   "id": "VN-H093-A175",
+   "no": 175,
+   "noLabel": {
+    "vi": "5. Trường hợp cần thiết, Hội đồng trọng tài có th ể gia h ạn việc sửa chữa, giải"
+   },
+   "text": {
+    "vi": "5. Trường hợp cần thiết, Hội đồng trọng tài có th ể gia h ạn việc sửa chữa, giải\nthích hoặc ra phán quyết bổ sung theo quy định tại các khoản 1, 2 và 4 Điều này.\nĐiều 64. Lưu trữ hồ sơ"
+   }
+  },
+  {
+   "id": "VN-H093-A176",
+   "no": 176,
+   "noLabel": {
+    "vi": "1. Trung tâm trọng tài có trách nhiệm lưu trữ hồ sơ vụ tranh chấp đã thụ lý. Hồ"
+   },
+   "text": {
+    "vi": "1. Trung tâm trọng tài có trách nhiệm lưu trữ hồ sơ vụ tranh chấp đã thụ lý. Hồ\nsơ vụ tranh ch ấp do Trọng tài v ụ việc giải quyết được các bên ho ặc các Trọng tài\nviên lưu trữ."
+   }
+  },
+  {
+   "id": "VN-H093-A177",
+   "no": 177,
+   "noLabel": {
+    "vi": "2. Hồ sơ trọng tài được lưu trữ trong thời hạn 05 năm, kể từ ngày ra phán quyết"
+   },
+   "text": {
+    "vi": "2. Hồ sơ trọng tài được lưu trữ trong thời hạn 05 năm, kể từ ngày ra phán quyết\ntrọng tài hoặc quyết định đình chỉ giải quyết tranh chấp bằng Trọng tài.\nChương X\nTHI HÀNH PHÁN QUYẾT TRỌNG TÀI\nĐiều 65. Tự nguyện thi hành phán quyết trọng tài\nNhà nước khuyến khích các bên tự nguyện thi hành phán quyết trọng tài.\nĐiều 66. Quyền yêu cầu thi hành phán quyết trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A178",
+   "no": 178,
+   "noLabel": {
+    "vi": "1. Hết thời hạn thi hành phán quy ết trọng tài mà bên ph ải thi hành phán quy ết"
+   },
+   "text": {
+    "vi": "1. Hết thời hạn thi hành phán quy ết trọng tài mà bên ph ải thi hành phán quy ết\nkhông t ự nguy ện thi hành và c ũng không yêu c ầu hủy phán quy ết trọng tài theo\nquy định t ại Điều 69 c ủa Lu ật này, bên được thi hành phán quy ết tr ọng tài có\nquyền làm đơn yêu c ầu Cơ quan thi hành án dân s ự có thẩm quyền thi hành phán\nquyết trọng tài.\n2. Đối với phán quyết của Trọng tài vụ việc, bên được thi hành có quyền làm đơn\nyêu cầu Cơ quan thi hành án dân sự có thẩm quyền thi hành phán quyết trọng tài sau\nkhi phán quyết được đăng ký theo quy định tại Điều 62 của Luật này.\nĐiều 67. Thi hành phán quyết trọng tài\nPhán quyết trọng tài được thi hành theo quy định của pháp luật về thi hành án\ndân sự.\nCÔNG BÁO/Số 564 + 565 ngày 25-9-2010 95\nChương XI\nHỦY PHÁN QUYẾT TRỌNG TÀI\nÐiều 68. Căn cứ hủy phán quyết trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A179",
+   "no": 179,
+   "noLabel": {
+    "vi": "1. Tòa án xem xét việc hủy phán quyết trọng tài khi có đơn yêu cầu của một bên."
+   },
+   "text": {
+    "vi": "1. Tòa án xem xét việc hủy phán quyết trọng tài khi có đơn yêu cầu của một bên."
+   }
+  },
+  {
+   "id": "VN-H093-A180",
+   "no": 180,
+   "noLabel": {
+    "vi": "2. Phán quyết trọng tài bị hủy nếu thuộc một trong các trường hợp sau đây:"
+   },
+   "text": {
+    "vi": "2. Phán quyết trọng tài bị hủy nếu thuộc một trong các trường hợp sau đây:\na) Không có thỏa thuận trọng tài hoặc thỏa thuận trọng tài vô hiệu;\nb) Thành phần Hội đồng trọng tài, thủ tục tố tụng trọng tài không phù h ợp với\nthỏa thuận của các bên hoặc trái với các quy định của Luật này;\nc) Vụ tranh chấp không thuộc thẩm quyền của Hội đồng trọng tài; trường hợp\nphán quyết trọng tài có nội dung không thuộc thẩm quyền của Hội đồng trọng tài thì\nnội dung đó bị hủy;\nd) Chứng cứ do các bên cung c ấp mà H ội đồng trọng tài c ăn cứ vào đó để ra\nphán quyết là giả mạo; Trọng tài viên nhận tiền, tài sản hoặc lợi ích vật chất khác của\nmột bên tranh chấp làm ảnh hưởng đến tính khách quan, công bằng của phán quyết\ntrọng tài;\nđ) Phán quyết trọng tài trái với các nguyên tắc cơ bản của pháp luật Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H093-A181",
+   "no": 181,
+   "noLabel": {
+    "vi": "3. Khi Tòa án xem xét đơn yêu c ầu hủy phán quy ết trọng tài, ngh ĩa vụ chứng"
+   },
+   "text": {
+    "vi": "3. Khi Tòa án xem xét đơn yêu c ầu hủy phán quy ết trọng tài, ngh ĩa vụ chứng\nminh được xác định như sau:\na) Bên yêu c ầu h ủy phán quy ết tr ọng tài quy định t ại các điểm a, b, c và d\nkhoản 2 Điều này có ngh ĩa vụ chứng minh H ội đồng tr ọng tài đã ra phán quy ết\nthuộc một trong các tr ường hợp đó;\nb) Đối với yêu cầu hủy phán quyết trọng tài quy định tại điểm đ khoản 2 Điều\nnày, Tòa án có trách nhiệm chủ động xác minh thu thập chứng cứ để quyết định hủy\nhay không hủy phán quyết trọng tài.\nĐiều 69. Quyền yêu cầu hủy phán quyết trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A182",
+   "no": 182,
+   "noLabel": {
+    "vi": "1. Trong thời hạn 30 ngày, kể từ ngày nhận được phán quyết trọng tài, nếu một"
+   },
+   "text": {
+    "vi": "1. Trong thời hạn 30 ngày, kể từ ngày nhận được phán quyết trọng tài, nếu một\nbên có đủ căn cứ để chứng minh được rằng Hội đồng trọng tài đã ra phán quyết thuộc\nmột trong những trường hợp quy định tại khoản 2 Điều 68 của Luật này, thì có quyền\nlàm đơn gửi Tòa án có thẩm quyền yêu cầu hủy phán quyết trọng tài. Đơn yêu cầu\nhủy phán quyết trọng tài phải kèm theo các tài li ệu, chứng cứ chứng minh cho yêu\ncầu hủy phán quyết trọng tài là có căn cứ và hợp pháp.\n96 CÔNG BÁO/Số 564 + 565 ngày 25-9-2010"
+   }
+  },
+  {
+   "id": "VN-H093-A183",
+   "no": 183,
+   "noLabel": {
+    "vi": "2. Trường hợp gửi đơn quá hạn vì sự kiện bất khả kháng thì thời gian có sự kiện"
+   },
+   "text": {
+    "vi": "2. Trường hợp gửi đơn quá hạn vì sự kiện bất khả kháng thì thời gian có sự kiện\nbất khả kháng không được tính vào thời hạn yêu cầu hủy phán quyết trọng tài.\nĐiều 70. Đơn yêu cầu hủy phán quyết trọng tài\n1. Đơn yêu cầu hủy phán quyết trọng tài phải có các nội dung chủ yếu sau đây:\na) Ngày, tháng, năm làm đơn;\nb) Tên và địa chỉ của bên có yêu cầu;\nc) Yêu cầu và căn cứ hủy phán quyết trọng tài."
+   }
+  },
+  {
+   "id": "VN-H093-A184",
+   "no": 184,
+   "noLabel": {
+    "vi": "2. Kèm theo đơn yêu cầu phải có các giấy tờ sau đây:"
+   },
+   "text": {
+    "vi": "2. Kèm theo đơn yêu cầu phải có các giấy tờ sau đây:\na) Bản chính hoặc bản sao phán quyết trọng tài đã được chứng thực hợp lệ;\nb) Bản chính hoặc bản sao thỏa thuận trọng tài đã được chứng thực hợp lệ.\nGiấy tờ kèm theo đơn yêu c ầu bằng tiếng nước ngoài ph ải được dịch ra ti ếng\nViệt và bản dịch phải được chứng thực hợp lệ.\nĐiều 71. Tòa án xét đơn yêu cầu hủy phán quyết trọng tài"
+   }
+  },
+  {
+   "id": "VN-H093-A185",
+   "no": 185,
+   "noLabel": {
+    "vi": "1. Sau khi th ụ lý đơn yêu cầu hủy phán quyết trọng tài, Tòa án có th ẩm quyền"
+   },
+   "text": {
+    "vi": "1. Sau khi th ụ lý đơn yêu cầu hủy phán quyết trọng tài, Tòa án có th ẩm quyền\nthông báo ngay cho Trung tâm trọng tài hoặc các Trọng tài viên của Hội đồng trọng\ntài vụ việc, các bên tranh chấp và Viện kiểm sát cùng cấp."
+   }
+  },
+  {
+   "id": "VN-H093-A186",
+   "no": 186,
+   "noLabel": {
+    "vi": "2. Trong thời hạn 07 ngày làm việc, kể từ ngày thụ lý, Chánh án Tòa án chỉ định"
+   },
+   "text": {
+    "vi": "2. Trong thời hạn 07 ngày làm việc, kể từ ngày thụ lý, Chánh án Tòa án chỉ định\nmột Hội đồng xét đơn yêu cầu gồm ba Thẩm phán, trong đó có một Thẩm phán làm\nchủ tọa theo sự phân công của Chánh án Tòa án.\nTrong thời hạn 30 ngày, kể từ ngày được chỉ định, Hội đồng xét đơn yêu cầu phải\nphải mở phiên họp để xét đơn yêu cầu hủy phán quyết trọng tài. Tòa án phải chuyển\nhồ sơ cho Viện kiểm sát cùng cấp nghiên cứu trong thời hạn 07 ngày làm việc trước\nngày mở phiên họp để tham dự phiên họp của Tòa án xét đơn yêu cầu. Hết thời hạn\nnày, Viện kiểm sát phải gửi trả lại hồ sơ cho Tòa án để mở phiên họp xem xét đơn\nyêu cầu."
+   }
+  },
+  {
+   "id": "VN-H093-A187",
+   "no": 187,
+   "noLabel": {
+    "vi": "3. Phiên họp được tiến hành với sự có mặt của các bên tranh ch ấp, luật sư của"
+   },
+   "text": {
+    "vi": "3. Phiên họp được tiến hành với sự có mặt của các bên tranh ch ấp, luật sư của\ncác bên, nếu có, Kiểm sát viên Viện kiểm sát cùng c ấp. Trường hợp một trong các\nbên yêu cầu Hội đồng xét đơn vắng mặt hoặc đã được triệu tập hợp lệ mà vắng mặt\nkhông có lý do chính đáng hoặc rời phiên họp mà không được Hội đồng chấp thuận\nthì Hội đồng vẫn tiến hành xét đơn yêu cầu hủy quyết định trọng tài.\nCÔNG BÁO/Số 564 + 565 ngày 25-9-2010 97"
+   }
+  },
+  {
+   "id": "VN-H093-A188",
+   "no": 188,
+   "noLabel": {
+    "vi": "4. Khi xét đơn yêu cầu, Hội đồng xét đơn yêu cầu căn cứ vào các quy định tại"
+   },
+   "text": {
+    "vi": "4. Khi xét đơn yêu cầu, Hội đồng xét đơn yêu cầu căn cứ vào các quy định tại\nĐiều 68 của Luật này và các tài liệu kèm theo để xem xét, quyết định; không xét xử\nlại nội dung vụ tranh chấp mà Hội đồng trọng tài đã giải quyết. Sau khi xem xét đơn\nvà các tài liệu kèm theo, nghe ý kiến của những người được triệu tập, nếu có, Kiểm\nsát viên trình bày ý ki ến của Viện kiểm sát, Hội đồng thảo luận và quyết định theo\nđa số."
+   }
+  },
+  {
+   "id": "VN-H093-A189",
+   "no": 189,
+   "noLabel": {
+    "vi": "5. Hội đồng xét đơn yêu cầu có quyền ra quyết định hủy hoặc không hủy phán"
+   },
+   "text": {
+    "vi": "5. Hội đồng xét đơn yêu cầu có quyền ra quyết định hủy hoặc không hủy phán\nquyết trọng tài. Trong trường hợp bên yêu cầu hủy phán quyết trọng tài rút đơn hoặc\nđã được triệu tập hợp lệ mà vắng mặt không có lý do chính đáng hoặc rời phiên họp\nmà không được Hội đồng chấp thuận thì H ội đồng ra quy ết định đình chỉ việc xét\nđơn yêu cầu."
+   }
+  },
+  {
+   "id": "VN-H093-A190",
+   "no": 190,
+   "noLabel": {
+    "vi": "6. Trong thời hạn 05 ngày làm việc, kể từ ngày ra quyết định, Tòa án gửi quyết"
+   },
+   "text": {
+    "vi": "6. Trong thời hạn 05 ngày làm việc, kể từ ngày ra quyết định, Tòa án gửi quyết\nđịnh cho các bên, Trung tâm trọng tài hoặc Trọng tài viên Trọng tài vụ việc và Viện\nkiểm sát cùng cấp."
+   }
+  },
+  {
+   "id": "VN-H093-A191",
+   "no": 191,
+   "noLabel": {
+    "vi": "7. Theo yêu cầu của một bên và xét thấy phù hợp, Hội đồng xét đơn yêu cầu có"
+   },
+   "text": {
+    "vi": "7. Theo yêu cầu của một bên và xét thấy phù hợp, Hội đồng xét đơn yêu cầu có\nthể tạm đình chỉ việc xem xét giải quyết đơn yêu cầu hủy phán quyết trọng tài trong\nthời hạn không quá 60 ngày để tạo điều kiện cho Hội đồng trọng tài khắc phục sai\nsót tố tụng trọng tài theo quan điểm của Hội đồng trọng tài nhằm loại bỏ căn cứ hủy\nbỏ phán quyết trọng tài. Hội đồng trọng tài phải thông báo cho Tòa án bi ết về việc\nkhắc phục sai sót tố tụng. Trường hợp Hội đồng trọng tài không tiến hành khắc phục\nsai sót tố tụng thì Hội đồng tiếp tục xét đơn yêu cầu hủy phán quyết trọng tài."
+   }
+  },
+  {
+   "id": "VN-H093-A192",
+   "no": 192,
+   "noLabel": {
+    "vi": "8. Trường hợp Hội đồng xét đơn yêu cầu ra quyết định hủy phán quyết trọng tài,"
+   },
+   "text": {
+    "vi": "8. Trường hợp Hội đồng xét đơn yêu cầu ra quyết định hủy phán quyết trọng tài,\ncác bên có thể thỏa thuận lại để đưa vụ tranh chấp đó ra giải quyết tại Trọng tài hoặc\nmột bên có quyền khởi kiện tại Tòa án. Trường hợp Hội đồng xét đơn yêu cầu không\nhủy phán quyết trọng tài thì phán quyết trọng tài được thi hành."
+   }
+  },
+  {
+   "id": "VN-H093-A193",
+   "no": 193,
+   "noLabel": {
+    "vi": "9. Trong m ọi tr ường h ợp, th ời gian gi ải quy ết tranh ch ấp t ại Trọng tài, th ời"
+   },
+   "text": {
+    "vi": "9. Trong m ọi tr ường h ợp, th ời gian gi ải quy ết tranh ch ấp t ại Trọng tài, th ời\ngian tiến hành thủ tục hủy phán quyết trọng tài tại Tòa án không tính vào thời hiệu\nkhởi kiện."
+   }
+  },
+  {
+   "id": "VN-H093-A194",
+   "no": 194,
+   "noLabel": {
+    "vi": "10. Quyết định của Tòa án là quyết định cuối cùng và có hiệu lực thi hành."
+   },
+   "text": {
+    "vi": "10. Quyết định của Tòa án là quyết định cuối cùng và có hiệu lực thi hành.\nĐiều 72. Lệ phí Tòa án liên quan đến Trọng tài\nLệ phí về yêu cầu Tòa án chỉ định Trọng tài viên, áp d ụng biện pháp khẩn cấp\ntạm thời, yêu cầu hủy phán quyết trọng tài, đăng ký phán quyết trọng tài và những lệ\nphí khác được thực hiện theo quy định của pháp luật về án phí và lệ phí tòa án.\n98 CÔNG BÁO/Số 564 + 565 ngày 25-9-2010\nChương XII\nTỔ CHỨC VÀ HOẠT ĐỘNG CỦA TRỌNG TÀI\nNƯỚC NGOÀI TẠI VIỆT NAM\nĐiều 73. Điều kiện hoạt động của Tổ chức trọng tài nước ngoài tại Việt Nam\nTổ chức trọng tài nước ngoài đã được thành lập và đang hoạt động hợp pháp tại\nnước ngoài, tôn tr ọng Hiến pháp và pháp lu ật của Cộng hòa xã h ội chủ nghĩa Việt\nNam thì được phép hoạt động tại Việt Nam theo quy định của Luật này.\nĐiều 74. Hình thức hoạt động của Tổ chức trọng tài nước ngoài tại Việt Nam\nTổ chức trọng tài nước ngoài hoạt động tại Việt Nam dưới các hình thức sau đây:"
+   }
+  },
+  {
+   "id": "VN-H093-A195",
+   "no": 195,
+   "noLabel": {
+    "vi": "1. Chi nhánh của Tổ chức trọng tài nước ngoài (sau đây gọi là Chi nhánh);"
+   },
+   "text": {
+    "vi": "1. Chi nhánh của Tổ chức trọng tài nước ngoài (sau đây gọi là Chi nhánh);"
+   }
+  },
+  {
+   "id": "VN-H093-A196",
+   "no": 196,
+   "noLabel": {
+    "vi": "2. Văn phòng đại diện của Tổ chức trọng tài n ước ngoài (sau đây gọi là V ăn"
+   },
+   "text": {
+    "vi": "2. Văn phòng đại diện của Tổ chức trọng tài n ước ngoài (sau đây gọi là V ăn\nphòng đại diện).\nĐiều 75. Chi nhánh"
+   }
+  },
+  {
+   "id": "VN-H093-A197",
+   "no": 197,
+   "noLabel": {
+    "vi": "1. Chi nhánh là đơn vị phụ thuộc của Tổ chức trọng tài nước ngoài, được thành"
+   },
+   "text": {
+    "vi": "1. Chi nhánh là đơn vị phụ thuộc của Tổ chức trọng tài nước ngoài, được thành\nlập và thực hiện hoạt động trọng tài tại Việt Nam theo quy định của Luật này."
+   }
+  },
+  {
+   "id": "VN-H093-A198",
+   "no": 198,
+   "noLabel": {
+    "vi": "2. Tổ chức trọng tài nước ngoài và Chi nhánh của mình chịu trách nhiệm về hoạt"
+   },
+   "text": {
+    "vi": "2. Tổ chức trọng tài nước ngoài và Chi nhánh của mình chịu trách nhiệm về hoạt\nđộng của Chi nhánh trước pháp luật Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H093-A199",
+   "no": 199,
+   "noLabel": {
+    "vi": "3. Tổ chức trọng tài nước ngoài cử một Trọng tài viên làm Tr ưởng Chi nhánh."
+   },
+   "text": {
+    "vi": "3. Tổ chức trọng tài nước ngoài cử một Trọng tài viên làm Tr ưởng Chi nhánh.\nTrưởng Chi nhánh là người đại diện theo ủy quyền của Tổ chức trọng tài nước ngoài\ntại Việt Nam.\nĐiều 76. Quy ền và ngh ĩa v ụ c ủa Chi nhánh c ủa Tổ ch ức tr ọng tài n ước\nngoài tại Việt Nam"
+   }
+  },
+  {
+   "id": "VN-H093-A200",
+   "no": 200,
+   "noLabel": {
+    "vi": "1. Thuê trụ sở, thuê, mua các phương tiện, vật dụng cần thiết cho hoạt động của"
+   },
+   "text": {
+    "vi": "1. Thuê trụ sở, thuê, mua các phương tiện, vật dụng cần thiết cho hoạt động của\nChi nhánh."
+   }
+  },
+  {
+   "id": "VN-H093-A201",
+   "no": 201,
+   "noLabel": {
+    "vi": "2. Tuyển dụng lao động là người Việt Nam, người nước ngoài để làm việc tại Chi"
+   },
+   "text": {
+    "vi": "2. Tuyển dụng lao động là người Việt Nam, người nước ngoài để làm việc tại Chi\nnhánh theo quy định của pháp luật Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H093-A202",
+   "no": 202,
+   "noLabel": {
+    "vi": "3. Mở tài kho ản bằng đồng Việt Nam, b ằng ngoại tệ tại ngân hàng được phép"
+   },
+   "text": {
+    "vi": "3. Mở tài kho ản bằng đồng Việt Nam, b ằng ngoại tệ tại ngân hàng được phép\nhoạt động tại Việt Nam để phục vụ cho hoạt động của Chi nhánh."
+   }
+  },
+  {
+   "id": "VN-H093-A203",
+   "no": 203,
+   "noLabel": {
+    "vi": "4. Chuyển thu nh ập của Chi nhánh ra n ước ngoài theo quy định của pháp lu ật"
+   },
+   "text": {
+    "vi": "4. Chuyển thu nh ập của Chi nhánh ra n ước ngoài theo quy định của pháp lu ật\nViệt Nam.\nCÔNG BÁO/Số 564 + 565 ngày 25-9-2010 99"
+   }
+  },
+  {
+   "id": "VN-H093-A204",
+   "no": 204,
+   "noLabel": {
+    "vi": "5. Có con dấu mang tên Chi nhánh theo quy định của pháp luật Việt Nam."
+   },
+   "text": {
+    "vi": "5. Có con dấu mang tên Chi nhánh theo quy định của pháp luật Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H093-A205",
+   "no": 205,
+   "noLabel": {
+    "vi": "6. Chỉ định Trọng tài viên để thành lập Hội đồng trọng tài theo ủy quyền của tổ"
+   },
+   "text": {
+    "vi": "6. Chỉ định Trọng tài viên để thành lập Hội đồng trọng tài theo ủy quyền của tổ\nchức trọng tài nước ngoài."
+   }
+  },
+  {
+   "id": "VN-H093-A206",
+   "no": 206,
+   "noLabel": {
+    "vi": "7. Cung cấp dịch vụ trọng tài, hòa giải và các phương thức giải quyết tranh chấp"
+   },
+   "text": {
+    "vi": "7. Cung cấp dịch vụ trọng tài, hòa giải và các phương thức giải quyết tranh chấp\nthương mại khác theo quy định của pháp luật."
+   }
+  },
+  {
+   "id": "VN-H093-A207",
+   "no": 207,
+   "noLabel": {
+    "vi": "8. Cung cấp các dịch vụ hành chính, văn phòng và các dịch vụ khác cho việc giải"
+   },
+   "text": {
+    "vi": "8. Cung cấp các dịch vụ hành chính, văn phòng và các dịch vụ khác cho việc giải\nquyết tranh chấp của Hội đồng trọng tài nước ngoài."
+   }
+  },
+  {
+   "id": "VN-H093-A208",
+   "no": 208,
+   "noLabel": {
+    "vi": "9. Thu phí trọng tài và các khoản thu hợp pháp khác."
+   },
+   "text": {
+    "vi": "9. Thu phí trọng tài và các khoản thu hợp pháp khác."
+   }
+  },
+  {
+   "id": "VN-H093-A209",
+   "no": 209,
+   "noLabel": {
+    "vi": "10. Trả thù lao cho Trọng tài viên."
+   },
+   "text": {
+    "vi": "10. Trả thù lao cho Trọng tài viên."
+   }
+  },
+  {
+   "id": "VN-H093-A210",
+   "no": 210,
+   "noLabel": {
+    "vi": "11. Tổ chức bồi dưỡng nâng cao trình độ và kỹ năng giải quyết tranh chấp cho"
+   },
+   "text": {
+    "vi": "11. Tổ chức bồi dưỡng nâng cao trình độ và kỹ năng giải quyết tranh chấp cho\nTrọng tài viên."
+   }
+  },
+  {
+   "id": "VN-H093-A211",
+   "no": 211,
+   "noLabel": {
+    "vi": "12. Lưu trữ hồ sơ, cung cấp các bản sao quyết định trọng tài theo yêu cầu của các"
+   },
+   "text": {
+    "vi": "12. Lưu trữ hồ sơ, cung cấp các bản sao quyết định trọng tài theo yêu cầu của các\nbên tranh chấp hoặc cơ quan nhà nước có thẩm quyền của Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H093-A212",
+   "no": 212,
+   "noLabel": {
+    "vi": "13. Hoạt động theo đúng lĩnh vực ghi trong Giấy phép thành lập, Giấy đăng ký"
+   },
+   "text": {
+    "vi": "13. Hoạt động theo đúng lĩnh vực ghi trong Giấy phép thành lập, Giấy đăng ký\nhoạt động."
+   }
+  },
+  {
+   "id": "VN-H093-A213",
+   "no": 213,
+   "noLabel": {
+    "vi": "14. Chấp hành quy định của pháp luật Việt Nam có liên quan đến hoạt động của"
+   },
+   "text": {
+    "vi": "14. Chấp hành quy định của pháp luật Việt Nam có liên quan đến hoạt động của\nChi nhánh."
+   }
+  },
+  {
+   "id": "VN-H093-A214",
+   "no": 214,
+   "noLabel": {
+    "vi": "15. Báo cáo định kỳ hàng năm về hoạt động của Chi nhánh với Sở Tư pháp nơi"
+   },
+   "text": {
+    "vi": "15. Báo cáo định kỳ hàng năm về hoạt động của Chi nhánh với Sở Tư pháp nơi\nChi nhánh đăng ký hoạt động.\nĐiều 77. Văn phòng đại diện"
+   }
+  },
+  {
+   "id": "VN-H093-A215",
+   "no": 215,
+   "noLabel": {
+    "vi": "1. Văn phòng đại diện là đơn vị phụ thuộc của Tổ chức trọng tài n ước ngoài"
+   },
+   "text": {
+    "vi": "1. Văn phòng đại diện là đơn vị phụ thuộc của Tổ chức trọng tài n ước ngoài\nđược thành lập và tìm ki ếm, thúc đẩy cơ hội hoạt động trọng tài tại Việt Nam theo\nquy định của Luật này."
+   }
+  },
+  {
+   "id": "VN-H093-A216",
+   "no": 216,
+   "noLabel": {
+    "vi": "2. Tổ chức trọng tài n ước ngoài ph ải chịu trách nhi ệm về hoạt động của Văn"
+   },
+   "text": {
+    "vi": "2. Tổ chức trọng tài n ước ngoài ph ải chịu trách nhi ệm về hoạt động của Văn\nphòng đại diện trước pháp luật Việt Nam.\nĐiều 78. Quyền và nghĩa vụ của Văn phòng đại diện của Tổ chức trọng tài\nnước ngoài tại Việt Nam"
+   }
+  },
+  {
+   "id": "VN-H093-A217",
+   "no": 217,
+   "noLabel": {
+    "vi": "1. Tìm ki ếm, thúc đẩy các c ơ hội ho ạt động tr ọng tài c ủa t ổ ch ức mình t ại"
+   },
+   "text": {
+    "vi": "1. Tìm ki ếm, thúc đẩy các c ơ hội ho ạt động tr ọng tài c ủa t ổ ch ức mình t ại\nViệt Nam."
+   }
+  },
+  {
+   "id": "VN-H093-A218",
+   "no": 218,
+   "noLabel": {
+    "vi": "2. Thuê trụ sở, thuê, mua các phương tiện, vật dụng cần thiết cho hoạt động của"
+   },
+   "text": {
+    "vi": "2. Thuê trụ sở, thuê, mua các phương tiện, vật dụng cần thiết cho hoạt động của\nVăn phòng đại diện.\n100 CÔNG BÁO/Số 564 + 565 ngày 25-9-2010"
+   }
+  },
+  {
+   "id": "VN-H093-A219",
+   "no": 219,
+   "noLabel": {
+    "vi": "3. Tuyển dụng lao động là ng ười Việt Nam, ng ười nước ngoài để làm vi ệc tại"
+   },
+   "text": {
+    "vi": "3. Tuyển dụng lao động là ng ười Việt Nam, ng ười nước ngoài để làm vi ệc tại\nVăn phòng đại diện theo quy định của pháp luật Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H093-A220",
+   "no": 220,
+   "noLabel": {
+    "vi": "4. Mở tài kho ản bằng ngoại tệ, bằng đồng Việt Nam t ại ngân hàng được phép"
+   },
+   "text": {
+    "vi": "4. Mở tài kho ản bằng ngoại tệ, bằng đồng Việt Nam t ại ngân hàng được phép\nhoạt động tại Việt Nam và ch ỉ được sử dụng tài khoản này vào ho ạt động của Văn\nphòng đại diện."
+   }
+  },
+  {
+   "id": "VN-H093-A221",
+   "no": 221,
+   "noLabel": {
+    "vi": "5. Có con dấu mang tên Văn phòng đại diện theo quy định của pháp luật Việt Nam."
+   },
+   "text": {
+    "vi": "5. Có con dấu mang tên Văn phòng đại diện theo quy định của pháp luật Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H093-A222",
+   "no": 222,
+   "noLabel": {
+    "vi": "6. Hoạt động đúng mục đích, phạm vi và th ời hạn được quy định trong Gi ấy"
+   },
+   "text": {
+    "vi": "6. Hoạt động đúng mục đích, phạm vi và th ời hạn được quy định trong Gi ấy\nphép thành lập Văn phòng đại diện."
+   }
+  },
+  {
+   "id": "VN-H093-A223",
+   "no": 223,
+   "noLabel": {
+    "vi": "7. Không được thực hiện hoạt động trọng tài tại Việt Nam."
+   },
+   "text": {
+    "vi": "7. Không được thực hiện hoạt động trọng tài tại Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H093-A224",
+   "no": 224,
+   "noLabel": {
+    "vi": "8. Chỉ được thực hiện các hoạt động xúc tiến, quảng bá hoạt động trọng tài theo"
+   },
+   "text": {
+    "vi": "8. Chỉ được thực hiện các hoạt động xúc tiến, quảng bá hoạt động trọng tài theo\nquy định của pháp luật Việt Nam."
+   }
+  },
+  {
+   "id": "VN-H093-A225",
+   "no": 225,
+   "noLabel": {
+    "vi": "9. Chấp hành quy định của pháp luật Việt Nam có liên quan đến hoạt động của"
+   },
+   "text": {
+    "vi": "9. Chấp hành quy định của pháp luật Việt Nam có liên quan đến hoạt động của\nVăn phòng đại diện."
+   }
+  },
+  {
+   "id": "VN-H093-A226",
+   "no": 226,
+   "noLabel": {
+    "vi": "10. Báo cáo định kỳ hàng năm về hoạt động của Văn phòng đại diện với Sở Tư"
+   },
+   "text": {
+    "vi": "10. Báo cáo định kỳ hàng năm về hoạt động của Văn phòng đại diện với Sở Tư\npháp nơi Văn phòng đại diện đăng ký hoạt động.\nĐiều 79. Hoạt động của Chi nhánh, Văn phòng đại diện của Tổ chức trọng\ntài nước ngoài tại Việt Nam\nViệc thành lập, đăng ký, hoạt động và chấm dứt hoạt động của Chi nhánh, Văn\nphòng đại diện của Tổ chức trọng tài nước ngoài tại Việt Nam được thực hiện theo\nquy định của pháp luật Việt Nam và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa\nViệt Nam là thành viên. Chính ph ủ quy định chi tiết thủ tục thành lập, đăng ký và\nchấm dứt hoạt động của Chi nhánh, Văn phòng đại diện của Tổ chức trọng tài nước\nngoài tại Việt Nam.\nChương XIII\nĐIỀU KHOẢN THI HÀNH\nĐiều 80. Áp d ụng Lu ật đối v ới các Trung tâm tr ọng tài được thành l ập\ntrước ngày Luật này có hiệu lực\nCác Trung tâm trọng tài được thành lập trước ngày Luật này có hiệu lực không\nphải làm thủ tục thành lập lại. Các Trung tâm trọng tài phải sửa đổi, bổ sung điều lệ,\nquy tắc tố tụng trọng tài cho phù h ợp với quy định của Luật này trong th ời hạn 12\nCÔNG BÁO/Số 564 + 565 ngày 25-9-2010 101\ntháng, kể từ ngày Luật này có hiệu lực. Hết thời hạn nêu trên mà các Trung tâm trọng\ntài không sửa đổi, bổ sung điều lệ, quy tắc tố tụng trọng tài thì bị thu hồi Giấy phép\nthành lập và phải chấm dứt hoạt động.\nĐiều 81. Hiệu lực thi hành"
+   }
+  },
+  {
+   "id": "VN-H093-A227",
+   "no": 227,
+   "noLabel": {
+    "vi": "1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2011."
+   },
+   "text": {
+    "vi": "1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2011."
+   }
+  },
+  {
+   "id": "VN-H093-A228",
+   "no": 228,
+   "noLabel": {
+    "vi": "2. Pháp lệnh Trọng tài thương mại số 03/2003/PL-UBTVQH11 hết hiệu lực kể"
+   },
+   "text": {
+    "vi": "2. Pháp lệnh Trọng tài thương mại số 03/2003/PL-UBTVQH11 hết hiệu lực kể\ntừ ngày Luật này có hiệu lực."
+   }
+  },
+  {
+   "id": "VN-H093-A229",
+   "no": 229,
+   "noLabel": {
+    "vi": "3. Các th ỏa thuận trọng tài được ký k ết trước ngày Lu ật này có hi ệu lực được"
+   },
+   "text": {
+    "vi": "3. Các th ỏa thuận trọng tài được ký k ết trước ngày Lu ật này có hi ệu lực được\nthực hiện theo các quy định của pháp luật tại thời điểm ký thỏa thuận trọng tài.\nĐiều 82. Quy định chi tiết và hướng dẫn thi hành\nChính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trong phạm\nvi nhiệm vụ, quyền hạn của mình quy định chi tiết và hướng dẫn thi hành các điều,\nkhoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này\nđể đáp ứng yêu cầu quản lý nhà nước.\n_____________________\nLuật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII,\nkỳ họp thứ 7 thông qua ngày 17 tháng 6 năm 2010.\nCHỦ TỊCH QUỐC HỘI\nNguyễn Phú Trọng"
+   }
+  }
+ ]
+}

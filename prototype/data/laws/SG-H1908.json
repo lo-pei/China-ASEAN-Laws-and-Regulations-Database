@@ -1,0 +1,117 @@
+{
+ "id": "SG-H1908",
+ "title": {
+  "zh": null,
+  "en": "Income Tax (Adjustment on Change of Basis of Computing Taxable Surplus of Life Insurers) Regulations 2009",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p24",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ITA1947-S273-2009",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 5151,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ITA1947-S273-2009?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 6 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1908-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1.—(1) These Regulations may be cited as the Income Tax (Adjustment on Change of Basis of Computing Taxable Surplus of Life Insurers) Regulations 2009.\n(2) Regulations 2 and 3 shall have effect for the year of assessment 2006 and subsequent years of assessment.\n(3) Regulation 4 shall have effect for the year of assessment 2006."
+   }
+  },
+  {
+   "id": "SG-H1908-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“Form 14” means Form 14 of the Fifth Schedule to the Insurance (Accounts and Statements) Regulations (Cap. 142, Rg 2) which were revoked on 23rd August 2004, and which is reproduced in the Schedule;\n“qualifying amount”, in relation to any year of assessment (referred to in this definition as “relevant year of assessment”), means the amount computed in accordance with the following formula:\n(A + B – C) + D,\nwhere A\nis the amount reflected in row 26 of the completed Form 14 for Singapore or Offshore Insurance Fund, as the case may be, submitted by a registered insurer to the Monetary Authority of Singapore in respect of its participating fund as at 31st December 2004, less any surplus of the insurer which has not been subject to tax in any year of assessment prior to the year of assessment 2006;\nB\nis the aggregate of the amounts reflected in row 21 and row 22 of the completed Form 14 for Singapore or Offshore Insurance Fund, as the case may be, submitted by a registered insurer to the Monetary Authority of Singapore in respect of its participating fund as at 31st December 2004, less any surplus of the insurer which has not been subject to tax in any year of assessment prior to the year of assessment 2006;\nC\nis the aggregate of any amount excluded under regulation 3 for the year of assessment 2006 and any subsequent year of assessment up to the year of assessment immediately preceding the relevant year of assessment; and\nD is —\n(a)if the insurer is an amalgamated company in a qualifying amalgamation referred to in section 34C of the Act, the sum total of such qualifying amounts of all the amalgamating companies in the qualifying amalgamation transferred to the amalgamated company as at the day immediately before the date of amalgamation; and\n(b)if the insurer is not such an amalgamated company, zero.\n[S 155/2011 wef 22/01/2009]"
+   }
+  },
+  {
+   "id": "SG-H1908-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Computation of gains or profits"
+   },
+   "text": {
+    "en": "3. In the ascertainment of gains or profits under paragraphs (a) and (c) of section 26(6) of the Act, where the amount derived from the application of section 26(6)(a)(iii) or (c)(iii) is greater than zero, the amount shall exclude the lower of the following:\n(a)the amount derived for that year of assessment; and\n(b)the qualifying amount for that year of assessment."
+   }
+  },
+  {
+   "id": "SG-H1908-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Adjustments on change in basis of valuation"
+   },
+   "text": {
+    "en": "4. Where, as a result of the revaluation on 1st January 2005 of the liabilities of a life insurer in respect of non-participating policies and investment-linked policies under regulation 20 of the Insurance (Valuation and Capital) Regulations 2004 (G.N. No. S 498/2004) —\n(a)the amount of liabilities of the life insurer on 1st January 2005 is less than that as of 31st December 2004, the difference in the liabilities shall be chargeable to tax for the year of assessment 2006;\n(b)the amount of liabilities of the life insurer on 1st January 2005 is more than that as of 31st December 2004, the difference in the liabilities shall be allowed as a deduction for the year of assessment 2006."
+   }
+  },
+  {
+   "id": "SG-H1908-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Payment arrangement"
+   },
+   "text": {
+    "en": "5. A life insurer may, subject to the Comptroller’s approval and any conditions that the Comptroller may impose, pay any tax arising under regulation 4(a) within the period of 5 years from 1st January 2006 or in accordance with such other arrangement as the Comptroller may approve."
+   }
+  },
+  {
+   "id": "SG-H1908-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRegulation 2\nNAME OF INSURER ______________________________\nFORM 14 — VALUATION RESULT AND DISTRIBUTION OF SURPLUS AS AT _________________\nCo Code\n☐☐☐☐☐\nYear\n☐☐☐☐\nMth\n☐☐\nTotal Non-Linked\n:☐\nParticipating\n:☐\nNon-Participating\n:☐\nInvestment-Linked\n:☐\n_______________\n(Name of the Fund)\n$\nParticulars\nRow\nNo.\nSingapore\nInsurance\nFund\nOffshore\nInsurance\nFund\nA. Valuation Result\nBalance of Revenue Account carried forward\n1\nBonus payments made to policyholders in anticipation of a surplus\n2\nNet transfers out of Fund\n3\nTotal (1 to 3)\n4\nNet liabilities under policies —\nIn Singapore Currency\n5\nIn Other Currencies\n6\nTotal Net Liabilities (5+6)\n7\nOther Reserves\n8\nSurplus (4−7−8)\n9\nB. Composition of Surplus\nBalance of surplus brought forward unappropriated from last valuation\n10\nSources of surplus arising in the year —\nInterest\n11\nMortality\n12\nExpense\n13\nSurrenders\n14\nForfeitures\n15\nTransfers into Fund\n16\nOthers\n17\nTotal surplus arising in the year (11 to 17)\n18\nTotal (10+18) (=9)\n19\nC. Distribution of Surplus\nBonus payments made to policyholders in anticipation of a surplus (=2)\n20\nDistributed to policyholders —\nCash Bonus\n21\nReversionary Bonus\n22\nTotal distributed to policyholders (20 to 22)\n23\nDistributed to shareholders\n24\nTotal distributed surplus (23+24)\n25\nBalance of surplus carried forward\nunappropriated\n26\nTotal (25+26) (=9)\n27\nName and Signature of Actuary : ________________________\nNames and Signatures of 2 Directors : ________________________\n________________________\nName and Signature of Principal Officer : ________________________\nDate: ________________________"
+   }
+  }
+ ]
+}

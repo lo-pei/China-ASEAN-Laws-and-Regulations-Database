@@ -1,0 +1,906 @@
+{
+ "id": "SG-H2801",
+ "title": {
+  "zh": null,
+  "en": "Insolvency, Restructuring and Dissolution (Voluntary Winding Up) Regulations 2020",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p35",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation IRDA2018-S608-2020",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 54,
+ "chars": 29402,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/IRDA2018-S608-2020?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 54 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2801-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Insolvency, Restructuring and Dissolution (Voluntary Winding Up) Regulations 2020 and come into operation on 30 July 2020."
+   }
+  },
+  {
+   "id": "SG-H2801-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Application of these Regulations"
+   },
+   "text": {
+    "en": "2.—(1) These Regulations apply to any company that is wound up under Division 3 of Part 8 of the Act but not a company that is wound up voluntarily under the simplified winding up programme established under section 250C of the Act.\n[S 49/2021 wef 29/01/2021]\n(2) Unless otherwise stated in these Regulations —\n(a)the provisions in Division 1 of Part 2 and Parts 6, 9, 10 and 11 apply to both a creditors’ voluntary winding up and a members’ voluntary winding up;\n(b)the provisions in Division 2 of Part 2 apply only to a members’ voluntary winding up; and\n(c)the provisions in Parts 3, 4, 5, 7 and 8 apply only to a creditors’ voluntary winding up."
+   }
+  },
+  {
+   "id": "SG-H2801-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Forms"
+   },
+   "text": {
+    "en": "3. The Forms to be used for the purposes of these Regulations are those set out on the Internet website of the Ministry of Law at https://www.mlaw.gov.sg, and any reference in these Regulations to a numbered form (where the number may include alphanumeric characters) is to be construed as a reference to the current version of the form bearing the corresponding number that is displayed at that website."
+   }
+  },
+  {
+   "id": "SG-H2801-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 PRESCRIBED FORMS"
+   },
+   "heading": {
+    "en": "Statutory declaration and declaration under section 161(1) of Act"
+   },
+   "text": {
+    "en": "4.—(1) For the purposes of section 161(1) of the Act —\n(a)the statutory declaration to be lodged with the Official Receiver must be in the form set out in the First Schedule to the Oaths and Declaration Act (Cap. 211); and\n(b)the declaration to be lodged with the Registrar of Companies must be in Form VWU‑1.\n(2) The declaration mentioned in paragraph (1)(b) must —\n(a)identify the company; and\n(b)provide the names and identification numbers of the directors making the declaration."
+   }
+  },
+  {
+   "id": "SG-H2801-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 PRESCRIBED FORMS"
+   },
+   "heading": {
+    "en": "Affidavit and list of creditors under section 185 of Act"
+   },
+   "text": {
+    "en": "5.—(1) For the purposes of section 185(5) of the Act, the affidavit, stating that the notice of any meeting has been posted, must be in Form VWU‑2.\n(2) For the purposes of section 185(9) of the Act, the list of creditors assembled to be used at every meeting must be in Form VWU‑3."
+   }
+  },
+  {
+   "id": "SG-H2801-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 PRESCRIBED FORMS"
+   },
+   "heading": {
+    "en": "Notice of appointment, etc., under section 191 of Act"
+   },
+   "text": {
+    "en": "6. For the purposes of section 191 of the Act —\n(a)the notice of the liquidator’s appointment and of the address of the liquidator’s office mentioned in section 191(1)(a) of the Act must be in Form VWU‑4, and must contain the following information:\n(i)the name of the company being wound up;\n(ii)the name and identification number of the liquidator;\n(iii)the date of the liquidator’s appointment;\n(iv)the address of the liquidator’s office;\n(b)the notice of the change in the address of the liquidator’s office mentioned in section 191(1)(b) of the Act must be in Form VWU‑5, and must contain the following information:\n(i)the name of the company being wound up;\n(ii)the name and identification number of the liquidator;\n(iii)the new address of the liquidator’s office; and\n(c)the notice of the liquidator’s resignation or removal from office mentioned in section 191(3) of the Act must be in Form VWU‑6, and must contain the following information:\n(i)the name of the company being wound up;\n(ii)the name and identification number of the liquidator;\n(iii)the date of the liquidator’s resignation or removal from office, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H2801-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 PRESCRIBED FORMS"
+   },
+   "heading": {
+    "en": "Liquidator’s account and statement under section 192 of Act"
+   },
+   "text": {
+    "en": "7.—(1) For the purposes of section 192(1) of the Act, the account of the liquidator’s receipts and payments and statement of the position in the winding up must be in accordance with Form VWU‑7.\n(2) For the purposes of section 192(2) of the Act, the notice of the lodgment of the account and statement mentioned in paragraph (1) must be in accordance with Form VWU‑8.\n(3) To avoid doubt, the forms mentioned in this regulation must be used even if the liquidator has not during any period for which an account has to be lodged with the Official Receiver, received or paid any money on account of the company."
+   }
+  },
+  {
+   "id": "SG-H2801-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 PRESCRIBED FORMS"
+   },
+   "heading": {
+    "en": "Statement of affairs under section 163(2) of Act"
+   },
+   "text": {
+    "en": "8. For the purposes of section 163(2) of the Act, the statement of affairs of the company must be in accordance with Form VWU‑9."
+   }
+  },
+  {
+   "id": "SG-H2801-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 PRESCRIBED FORMS"
+   },
+   "heading": {
+    "en": "Notice of meeting under section 165(7) of Act"
+   },
+   "text": {
+    "en": "9. For the purposes of section 165(7) of the Act, the notice that is required to be lodged within 7 days after a meeting under section 165(1) of the Act is held must be in accordance with Form VWU‑10, and must state —\n(a)the name of the company to which the meeting relates; and\n(b)the date that the meeting was held."
+   }
+  },
+  {
+   "id": "SG-H2801-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Proof of debts"
+   },
+   "text": {
+    "en": "10. Every creditor must prove the creditor’s debt, unless the Court in any particular winding up gives directions that any creditor or class of creditors is to be admitted without proof."
+   }
+  },
+  {
+   "id": "SG-H2801-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Mode of proof"
+   },
+   "text": {
+    "en": "11. A debt must be proved by filing with the liquidator by any of the following means a declaration verifying the debt:\n(a)delivery by electronic means in accordance with section 442 of the Act;\n(b)sending through the post;\n(c)any other means agreed between the liquidator and the creditor of the company filing the proof."
+   }
+  },
+  {
+   "id": "SG-H2801-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Verification of proof"
+   },
+   "text": {
+    "en": "12. A declaration proving a debt may be made by the creditor, or by any person authorised by or on behalf of the creditor."
+   }
+  },
+  {
+   "id": "SG-H2801-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Contents of proof"
+   },
+   "text": {
+    "en": "13.—(1) A declaration proving a debt must be in accordance with Form VWU‑11.\n(2) A proof of debt must state the following matters:\n(a)the creditor’s name and address (including an electronic mail address, if available);\n(b)the total amount of the creditor’s claim as at the date of commencement of the winding up;\n(c)whether the amount claimed includes interest within the meaning of section 222(4) of the Act and, if so —\n(i)the amount of interest that has accrued from the date of commencement of the winding up;\n(ii)the rate of interest; and\n(iii)the period for which the interest was calculated;\n(d)whether or not the amount claimed includes goods and services tax and, if so, the amount of the tax;\n(e)the particulars of how and when the debt was incurred by the company;\n(f)the particulars of any security held by the creditor, the date on which the security was given and the value at which the creditor assesses the security;\n(g)the name, address and authority of the person filing the proof, if that person is not the creditor.\n(3) The documents substantiating the claim specified in the proof of debt must accompany the proof of debt."
+   }
+  },
+  {
+   "id": "SG-H2801-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Costs of proof"
+   },
+   "text": {
+    "en": "14. A creditor must bear the costs of proving the creditor’s debt unless the Court otherwise orders."
+   }
+  },
+  {
+   "id": "SG-H2801-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Discount"
+   },
+   "text": {
+    "en": "15.—(1) Subject to paragraph (2), a creditor proving the creditor’s debt must deduct from the claim all trade and other discounts that would have been available to the company but for the company’s liquidation.\n(2) The creditor is not required to deduct any discount (not exceeding 5% on the net amount of the creditor’s claim) for immediate, early or cash settlement of the creditor’s claim."
+   }
+  },
+  {
+   "id": "SG-H2801-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Periodical payments"
+   },
+   "text": {
+    "en": "16.—(1) Subject to paragraph (2), in a case where any rent or other payment falls due on a day of any stated period, and the resolution to wind up a company is made on a day other than that day, any person entitled to the rent or payment may prove for a proportionate part of the rent or payment up to (and including) the date of the resolution, as if the rent or payment grew due from day to day.\n(2) If the liquidator or company that is being wound up remains in occupation of premises demised to the company, nothing in these Regulations affects the right of the landlord of the premises to claim payment from the liquidator or company, of rent during the period of the liquidator’s or company’s occupation."
+   }
+  },
+  {
+   "id": "SG-H2801-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Prescribed rate of interest under section 222 of Act"
+   },
+   "text": {
+    "en": "17. For the purposes of section 222(1) and (2)(b)(ii) of the Act, in an insolvent winding up of a company, the prescribed rate of interest allowed on a debt is the rate of interest on judgment debts provided for under the Rules of Court for the time being in force."
+   }
+  },
+  {
+   "id": "SG-H2801-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Proof for debt payable at a future time"
+   },
+   "text": {
+    "en": "18.—(1) A creditor may prove for a debt not payable on the date of the resolution to wind up the company, as if it were so payable, and may receive dividends rateably with the other creditors, deducting only from the dividend a rebate of interest at the rate of interest on judgment debts provided for under the Rules of Court for the time being in force.\n(2) The rebate of interest is to be computed from the date of the declaration of a dividend to the date on which the debt would have become payable according to the terms on which it was contracted."
+   }
+  },
+  {
+   "id": "SG-H2801-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Proof of debt filed by licensed moneylenders"
+   },
+   "text": {
+    "en": "19.—(1) A moneylender licensed under the Moneylenders Act (Cap. 188) (called in this regulation a licensed moneylender) filing a proof of debt in respect of a loan made by the licensed moneylender as a licensed moneylender must, within 14 days after the date of filing of the proof of debt, file a copy of the following documents in respect of the loan:\n(a)the note of the contract for the loan, mentioned in section 20(1)(a) of that Act;\n(b)the statement of account mentioned in section 21(1) of that Act, that was last supplied to the company before the date of the resolution to wind up the company.\n(2) A reference in paragraph (1) to a licensed moneylender filing a proof of debt is a reference to a person who, at the time the loan mentioned in that paragraph is granted, is a licensed moneylender, whether or not the person continues to be so licensed at the time the proof of debt is filed."
+   }
+  },
+  {
+   "id": "SG-H2801-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Workmen’s wages"
+   },
+   "text": {
+    "en": "20.—(1) In a case where it appears that there are numerous claims for wages by the workmen or other persons employed by the company, it is sufficient if one proof in accordance with Form VWU‑11 for all the claims is made either by a foreman or by some other person on behalf of those creditors.\n(2) The proof must be accompanied by a schedule (which forms part of the proof) that sets out the following information relating to each of the creditors:\n(a)his or her name;\n(b)his or her personal identification number or passport number;\n(c)his or her address;\n(d)the amount owed to him or her, and the amount of each component of wages or salary owed to him or her.\n(3) Any proof made in compliance with this regulation has the same effect as if separate proofs had been made by each of the workmen or other persons employed by the company."
+   }
+  },
+  {
+   "id": "SG-H2801-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 PROOF OF DEBTS"
+   },
+   "heading": {
+    "en": "Production of bills of exchange and promissory notes"
+   },
+   "text": {
+    "en": "21. Where a creditor seeks to prove in respect of a bill of exchange, promissory note or other negotiable instrument or security on which the company is liable, the bill of exchange, promissory note, instrument or security must, subject to any order of the Court made to the contrary, be produced to the liquidator and be marked by the liquidator before the proof may be admitted either for voting or for any purpose."
+   }
+  },
+  {
+   "id": "SG-H2801-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 ADMISSION AND REJECTION OF PROOFS"
+   },
+   "heading": {
+    "en": "Notice to creditors to prove"
+   },
+   "text": {
+    "en": "22.—(1) Subject to the provisions of the Act, and unless the Court otherwise orders, the liquidator may from time to time fix a date (that must be at least 14 days after the date of the notice mentioned in paragraph (2)) on or before which the creditors of the company are to prove their debts or claims, or be excluded from the benefit of any distribution made before the debts are proved.\n(2) The liquidator must give notice of the date mentioned in paragraph (1) —\n(a)by advertisement made in Form VWU‑12 in the Gazette and in at least one English local daily newspaper; and\n(b)in writing in accordance with Form VWU‑13 —\n(i)to every creditor who, to the liquidator’s knowledge, claims to be a creditor of the company and whose claim has not been admitted; and\n(ii)to every person mentioned in the statement of affairs as a creditor who has not proved the person’s debt."
+   }
+  },
+  {
+   "id": "SG-H2801-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 ADMISSION AND REJECTION OF PROOFS"
+   },
+   "heading": {
+    "en": "Examination of proof"
+   },
+   "text": {
+    "en": "23.—(1) The liquidator must examine every proof of debt filed with the liquidator and the grounds of the debt, and must in writing admit or reject the proof in whole or in part, or require further evidence in support of the proof.\n(2) If the liquidator rejects (whether in whole or in part) a proof filed by a creditor, the liquidator must state in writing in accordance with Form VWU‑14 to the creditor the grounds of the rejection."
+   }
+  },
+  {
+   "id": "SG-H2801-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 ADMISSION AND REJECTION OF PROOFS"
+   },
+   "heading": {
+    "en": "Oaths"
+   },
+   "text": {
+    "en": "24. For the purpose of any of the liquidator’s duties in relation to proofs of debt, the liquidator may administer oaths and take affidavits."
+   }
+  },
+  {
+   "id": "SG-H2801-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 ADMISSION AND REJECTION OF PROOFS"
+   },
+   "heading": {
+    "en": "Creditor’s proof that has been admitted"
+   },
+   "text": {
+    "en": "25. Where a creditor’s proof has been admitted (whether in whole or in part), the notice of dividend mentioned in regulation 38(6) is sufficient notification to the creditor of the admission."
+   }
+  },
+  {
+   "id": "SG-H2801-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 5 PROXIES IN RELATION TO CREDITORS’ VOLUNTARY WINDING UP"
+   },
+   "heading": {
+    "en": "Proxies"
+   },
+   "text": {
+    "en": "26.—(1) A creditor or contributory may vote in any meeting of creditors or contributories either in person or by proxy.\n(2) Where a person is authorised in the manner provided by section 179(3) of the Companies Act (Cap. 50) to represent a corporation at any meeting of creditors or contributories, that person must produce to the chairperson of the meeting a certificate mentioned in section 179(5) of that Act.\n(3) No person below 18 years of age may be appointed a general or special proxy."
+   }
+  },
+  {
+   "id": "SG-H2801-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 5 PROXIES IN RELATION TO CREDITORS’ VOLUNTARY WINDING UP"
+   },
+   "heading": {
+    "en": "Form of instrument of proxy"
+   },
+   "text": {
+    "en": "27.—(1) An instrument of general proxy must be in Form VWU‑15.\n(2) An instrument of special proxy must be in Form VWU‑16."
+   }
+  },
+  {
+   "id": "SG-H2801-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 5 PROXIES IN RELATION TO CREDITORS’ VOLUNTARY WINDING UP"
+   },
+   "heading": {
+    "en": "Form of instrument of proxy to be sent with notice of meeting"
+   },
+   "text": {
+    "en": "28.—(1) The notice of a meeting to be sent to each creditor or contributory of the company must be accompanied by the general and special forms of instrument of proxy.\n(2) No name or description of any person is to be written or printed on the form of an instrument of proxy before the instrument is sent to the creditors or contributories."
+   }
+  },
+  {
+   "id": "SG-H2801-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 5 PROXIES IN RELATION TO CREDITORS’ VOLUNTARY WINDING UP"
+   },
+   "heading": {
+    "en": "Special proxy"
+   },
+   "text": {
+    "en": "29. A creditor or contributory may give a special proxy to any person to vote at any meeting of creditors, meeting of contributories or meeting of creditors and contributories, or at any adjourned meeting of such meeting —\n(a)for or against the appointment or continuance in office of any specified person as liquidator or member of the committee of inspection; and\n(b)on any question relating to any matter other than a matter mentioned in paragraph (a) and arising at the meeting or adjourned meeting."
+   }
+  },
+  {
+   "id": "SG-H2801-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 5 PROXIES IN RELATION TO CREDITORS’ VOLUNTARY WINDING UP"
+   },
+   "heading": {
+    "en": "Proxy to liquidator"
+   },
+   "text": {
+    "en": "30. A creditor or contributory may appoint the liquidator or, if there is no liquidator, the chairperson of the meeting, to act as the general or special proxy of the creditor or contributory."
+   }
+  },
+  {
+   "id": "SG-H2801-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 5 PROXIES IN RELATION TO CREDITORS’ VOLUNTARY WINDING UP"
+   },
+   "heading": {
+    "en": "Holder of proxy not to vote on financially interested matter"
+   },
+   "text": {
+    "en": "31.—(1) A person acting under a general or special proxy must not vote in favour of any resolution that would directly or indirectly place the person, his or her partner or employer in a position to receive any remuneration out of the estate of the company otherwise than rateably as a creditor with the other creditors of the company.\n(2) Despite paragraph (1), a person who holds a special proxy to vote for an application to the Court in favour of the appointment of that person as liquidator of the company may use the proxy and vote accordingly.\n(3) For the purposes of paragraph (1), a person (A) is a partner of another person (B) if A and B (whether with one or more other persons or otherwise) have entered into partnership with one another with a view to carrying on business for profit."
+   }
+  },
+  {
+   "id": "SG-H2801-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 5 PROXIES IN RELATION TO CREDITORS’ VOLUNTARY WINDING UP"
+   },
+   "heading": {
+    "en": "Time for lodgment of instrument of proxy"
+   },
+   "text": {
+    "en": "32. An instrument of proxy must be lodged with the liquidator no later than 4 p.m. on the day before the meeting or adjourned meeting at which the instrument of proxy is to be used."
+   }
+  },
+  {
+   "id": "SG-H2801-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 5 PROXIES IN RELATION TO CREDITORS’ VOLUNTARY WINDING UP"
+   },
+   "heading": {
+    "en": "Use of proxy by person appointed by Official Receiver"
+   },
+   "text": {
+    "en": "33. If the Official Receiver holds any proxy but is unable to attend the meeting for which the proxy is given, the Official Receiver may, in writing, appoint a person under the Official Receiver’s official control to use the proxy on his or her behalf, in any manner as the Official Receiver may direct."
+   }
+  },
+  {
+   "id": "SG-H2801-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 5 PROXIES IN RELATION TO CREDITORS’ VOLUNTARY WINDING UP"
+   },
+   "heading": {
+    "en": "Proxy of creditor who is blind or incapable of writing"
+   },
+   "text": {
+    "en": "34.—(1) The instrument of proxy of a creditor who is blind or incapable of writing may be accepted, if the creditor has signed or inserted his or her mark on the instrument in the presence of a witness.\n(2) This applies only if the witness —\n(a)writes the information on the instrument of proxy;\n(b)certifies at the foot of the instrument of proxy —\n(i)that the information has been written at the creditor’s request; and\n(ii)the creditor has made the request in the presence of the witness before the creditor signed or inserted his or her mark on the instrument; and\n(c)signs and provides his or her name and residential address on the instrument of proxy."
+   }
+  },
+  {
+   "id": "SG-H2801-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 6 DISCLAIMER"
+   },
+   "heading": {
+    "en": "Notice of disclaimer under section 230 of Act"
+   },
+   "text": {
+    "en": "35.—(1) For the purposes of section 230(1) of the Act, the notice to be given by a liquidator in a voluntary winding up to disclaim onerous property (called in this Part the notice of disclaimer) must be in Form VWU‑17.\n(2) The liquidator must state in the notice of disclaimer that the company disclaims all the company’s interests in the property, and the notice must contain the following information or particulars:\n(a)the title “Notice of disclaimer under section 230 of the Insolvency, Restructuring and Dissolution Act 2018 (Act 40 of 2018)”;\n(b)the name of the company;\n(c)the name of the liquidator and his or her contact details;\n(d)a brief description of the property being disclaimed and, if the property is land, the full address of the property;\n(e)whether the property being disclaimed is onerous property of the kind described in section 230(2)(a) or (b)(i), (ii) or (iii) of the Act, and how the property is such onerous property;\n(f)the date of the disclaimer."
+   }
+  },
+  {
+   "id": "SG-H2801-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 6 DISCLAIMER"
+   },
+   "heading": {
+    "en": "Service of copy of notice of disclaimer on interested persons"
+   },
+   "text": {
+    "en": "36.—(1) The liquidator disclaiming any onerous property must, within 14 days after the date of the notice of disclaimer, serve a copy of the notice on —\n(a)in a case where the property is an unprofitable contract under section 230(2)(a) of the Act — any person who, to the liquidator’s knowledge, is a party to the contract or has an interest under the contract;\n(b)in a case where the property is of a leasehold nature mentioned in section 231 of the Act — any person who is claiming under the company as sub‑lessee or mortgagee mentioned in section 231(1) of the Act; and\n(c)in any case — any person who (to the liquidator’s knowledge) —\n(i)claims an interest in the disclaimed property; or\n(ii)is under a liability in respect of the disclaimed property, not being a liability discharged by the disclaimer.\n(2) The copy of the notice of disclaimer may be served on a person mentioned in paragraph (1) —\n(a)personally;\n(b)by prepaid registered post; or\n(c)by electronic means in accordance with section 442 of the Act.\n(3) If subsequently, it comes to the liquidator’s knowledge that any person has an interest in the disclaimed property that would have entitled the person to receive a copy of the notice of disclaimer under paragraph (1), the liquidator must then as soon as reasonably practicable serve on that person a copy of the notice.\n(4) Without affecting paragraphs (1) and (3), the liquidator may at any time serve a copy of the notice of disclaimer on any person who, in the liquidator’s opinion, ought to be informed of the disclaimer."
+   }
+  },
+  {
+   "id": "SG-H2801-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 6 DISCLAIMER"
+   },
+   "heading": {
+    "en": "Application by person interested in property"
+   },
+   "text": {
+    "en": "37. For the purposes of section 230(4)(b)(i) of the Act, the application in writing must contain the following information or particulars:\n(a)the name of the company in liquidation;\n(b)a brief description of the property and, if the property is land, the full address of the property;\n(c)the nature of the interest which the person has in the property;\n(d)the date of the application."
+   }
+  },
+  {
+   "id": "SG-H2801-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 7 DIVIDENDS"
+   },
+   "heading": {
+    "en": "Dividends to creditors"
+   },
+   "text": {
+    "en": "38.—(1) A liquidator who intends to declare a dividend must, not more than 2 months before the declaration —\n(a)publish in the Gazette a notice of his or her intention to declare a dividend; and\n(b)send the notice to every creditor mentioned in the statement of affairs made under section 163(2) or 166(4) of the Act who has not proved the creditor’s debt.\n(2) The notice of intention to declare a dividend must specify the latest date by which a proof must be filed, being a date at least 14 days after the date of the notice.\n(3) The liquidator must, within 14 days after the latest date for filing a proof of debt mentioned in the notice of intention to declare a dividend, in writing either admit or reject wholly or in part, every proof filed with the liquidator, or require further evidence in support of the proof.\n(4) Where a creditor, after the latest date for filing a proof of debt mentioned in the notice of intention to declare a dividend, appeals against the decision of the liquidator rejecting a proof —\n(a)the appeal must be commenced and notice of the appeal given to the liquidator within 7 days after the date of the notice of rejection against which the appeal is made; and\n(b)the liquidator must make provision for the dividend payable upon the proof and the probable costs of the appeal in the event of the proof being admitted.\n(5) If no appeal has been commenced within the time mentioned in paragraph (4)(a), the liquidator must exclude the proof that has been rejected from participation in the dividend.\n(6) Immediately after the expiry of the time mentioned in paragraph (4)(a), the liquidator must —\n(a)declare a dividend;\n(b)publish in the Gazette a notice of dividend in accordance with Form VWU‑18; and\n(c)send the notice of dividend to each creditor whose proof has been admitted (whether in whole or in part), specifying the percentage of dividend payable and the amount of dividend payable to each creditor.\n(7) If it becomes necessary, in the liquidator’s opinion, to postpone the declaration of dividend beyond the period of 2 months mentioned in paragraph (1), the liquidator must publish in the Gazette a fresh notice of his or her intention to declare a dividend.\n(8) The same procedure is to be followed in relation to a fresh notice of the liquidator’s intention to declare a dividend mentioned in paragraph (7), except that fresh notice need not be given to any creditor mentioned in the statement of affairs who has not proved the creditor’s debt.\n(9) A person to whom a dividend is payable may lodge with the liquidator a document in Form VWU‑19 to state that the dividend is to be paid to some other person specified in the document.\n(10) A document lodged under paragraph (9) is sufficient authority for the liquidator to pay the dividend to the person specified in the document."
+   }
+  },
+  {
+   "id": "SG-H2801-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 8 GENERAL PROVISIONS RELATING TO LIQUIDATORS AND COMMITTEES OF INSPECTION OF COMPANIES IN CREDITORS’ VOLUNTARY WINDING UP"
+   },
+   "heading": {
+    "en": "Restrictions relating to liquidator’s remuneration"
+   },
+   "text": {
+    "en": "39.—(1) Except as provided by the Act or any subsidiary legislation made under the Act, the liquidator of a company must not make any arrangement for or accept any gift, remuneration, consideration or benefit (whether pecuniary or otherwise) that is beyond the remuneration to which the liquidator is entitled under the Act and the subsidiary legislation, from the following persons:\n(a)a solicitor, auctioneer or any other person connected with the company;\n(b)any person who is employed in or in connection with the winding up of the company.\n(2) The liquidator must not make any arrangement to give up any part of the liquidator’s remuneration to a person mentioned in paragraph (1)(a) or (b)."
+   }
+  },
+  {
+   "id": "SG-H2801-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 8 GENERAL PROVISIONS RELATING TO LIQUIDATORS AND COMMITTEES OF INSPECTION OF COMPANIES IN CREDITORS’ VOLUNTARY WINDING UP"
+   },
+   "heading": {
+    "en": "Committee of inspection not to make profit"
+   },
+   "text": {
+    "en": "40.—(1) Except with the sanction of the Court, a member of the committee of inspection of a company is not, directly or indirectly, entitled to —\n(a)derive any profit from any transaction arising out of the winding up of the company; or\n(b)receive out of the company’s assets any payment for —\n(i)any service rendered by the member in connection with the administration of the company’s assets; or\n(ii)any goods supplied by the member to the liquidator for or on account of the company.\n(2) If it appears to the committee of inspection or to any meeting of the creditors or contributories that any profit has been derived or payment has been received by a member of the committee of inspection contrary to this regulation, the committee, creditors or contributories (as the case may be) may disallow the payment or recover the profit."
+   }
+  },
+  {
+   "id": "SG-H2801-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 8 GENERAL PROVISIONS RELATING TO LIQUIDATORS AND COMMITTEES OF INSPECTION OF COMPANIES IN CREDITORS’ VOLUNTARY WINDING UP"
+   },
+   "heading": {
+    "en": "Books to be kept by liquidator"
+   },
+   "text": {
+    "en": "41.—(1) The liquidator must —\n(a)keep a book (whether in physical or electronic form) to be called the Cash Book, in which the liquidator must enter from day to day the receipts and payments made by the liquidator; and\n(b)keep any other books as may be directed by the committee of inspection or, if there is no committee of inspection, by the creditors.\n(2) The liquidator must submit all the books kept by the liquidator to the committee of inspection or, if there is no committee of inspection, to the creditors, together with any other books, documents, papers and accounts in the liquidator’s possession relating to his or her office as liquidator of the company as and when the committee of inspection or the creditors (as the case may be) direct."
+   }
+  },
+  {
+   "id": "SG-H2801-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 8 GENERAL PROVISIONS RELATING TO LIQUIDATORS AND COMMITTEES OF INSPECTION OF COMPANIES IN CREDITORS’ VOLUNTARY WINDING UP"
+   },
+   "heading": {
+    "en": "Liquidator carrying on business"
+   },
+   "text": {
+    "en": "42. Where the liquidator carries on the business of the company, the liquidator must —\n(a)keep a distinct account of the trading (called in these Regulations the trading account); and\n(b)incorporate in the Cash Book the total weekly amount of the receipts and payments on the trading account."
+   }
+  },
+  {
+   "id": "SG-H2801-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 8 GENERAL PROVISIONS RELATING TO LIQUIDATORS AND COMMITTEES OF INSPECTION OF COMPANIES IN CREDITORS’ VOLUNTARY WINDING UP"
+   },
+   "heading": {
+    "en": "Liquidator’s trading account"
+   },
+   "text": {
+    "en": "43.—(1) The liquidator must from time to time as required by the committee of inspection (if any) or the creditors —\n(a)verify by statutory declaration the trading account; and\n(b)submit the verified trading account in accordance with Form VWU‑20 —\n(i)where a committee of inspection is appointed — to the committee of inspection or a member of the committee as may be appointed by the committee for that purpose; or\n(ii)where no committee of inspection is appointed — to a person nominated by the creditors.\n(2) The committee of inspection or member of the committee mentioned in paragraph (1)(b)(i) or the person nominated under paragraph (1)(b)(ii) (as the case may be) must examine and certify the trading account submitted by the liquidator."
+   }
+  },
+  {
+   "id": "SG-H2801-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 8 GENERAL PROVISIONS RELATING TO LIQUIDATORS AND COMMITTEES OF INSPECTION OF COMPANIES IN CREDITORS’ VOLUNTARY WINDING UP"
+   },
+   "heading": {
+    "en": "Expenses of sales"
+   },
+   "text": {
+    "en": "44. Where the liquidator sells any property forming part of a company’s assets through an auctioneer or other agent, the gross proceeds of the sale must be paid over by the auctioneer or agent to the liquidator, and the charges and expenses connected with the sale must afterwards be paid to the auctioneer or agent."
+   }
+  },
+  {
+   "id": "SG-H2801-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 8 GENERAL PROVISIONS RELATING TO LIQUIDATORS AND COMMITTEES OF INSPECTION OF COMPANIES IN CREDITORS’ VOLUNTARY WINDING UP"
+   },
+   "heading": {
+    "en": "Notice of resignation of liquidator"
+   },
+   "text": {
+    "en": "45. A liquidator who intends to resign his or her office must give at least 2 months’ written notice of his or her resignation to the creditors and contributories of the company."
+   }
+  },
+  {
+   "id": "SG-H2801-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 8 GENERAL PROVISIONS RELATING TO LIQUIDATORS AND COMMITTEES OF INSPECTION OF COMPANIES IN CREDITORS’ VOLUNTARY WINDING UP"
+   },
+   "heading": {
+    "en": "Duties of liquidator on resignation, etc."
+   },
+   "text": {
+    "en": "46. A person (A) who resigns as liquidator of a company or is removed from the office of liquidator must, within 14 days after the date on which another person (B) is appointed to fill the vacancy, deliver to B all the books kept by A and all other books, documents, papers and accounts in A’s possession relating to the office of liquidator."
+   }
+  },
+  {
+   "id": "SG-H2801-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 9 RESTRICTIONS ON COMPANY’S DEALINGS AND TRANSACTIONS WITH LIQUIDATOR OR COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Dealings with assets"
+   },
+   "text": {
+    "en": "47. The liquidator or a member of the committee of inspection of a company must not, while acting as the liquidator or a member of the committee, directly or indirectly purchase any of the company’s assets, except with the leave of the Court."
+   }
+  },
+  {
+   "id": "SG-H2801-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 9 RESTRICTIONS ON COMPANY’S DEALINGS AND TRANSACTIONS WITH LIQUIDATOR OR COMMITTEE OF INSPECTION"
+   },
+   "heading": {
+    "en": "Restriction on purchase of goods by liquidator"
+   },
+   "text": {
+    "en": "48. Where the liquidator carries on the business of the company, the liquidator must not, except with the sanction of the Court, enter into a transaction to purchase any goods from any person for the carrying on of that business, if the liquidator would obtain any portion of the profit (if any) received by that person from the transaction."
+   }
+  },
+  {
+   "id": "SG-H2801-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 10 UNCLAIMED OR UNDISTRIBUTED ASSETS AND OUTSTANDING ASSETS OF DEFUNCT COMPANY"
+   },
+   "heading": {
+    "en": "Liquidator to provide information to Official Receiver"
+   },
+   "text": {
+    "en": "49.—(1) Every person who has acted as liquidator of any company, whether the liquidation has been concluded or not, must provide to the Official Receiver —\n(a)an account of any money in the person’s hands or under the person’s control representing unclaimed or undistributed funds, dividends or other moneys of the company; and\n(b)any other particulars required by the Official Receiver for the purpose of ascertaining or getting into any money payable to the Official Receiver to be placed to the credit of the Companies Liquidation Account.\n(2) The Official Receiver may, from time to time, require the person to verify the account and particulars by affidavit."
+   }
+  },
+  {
+   "id": "SG-H2801-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 10 UNCLAIMED OR UNDISTRIBUTED ASSETS AND OUTSTANDING ASSETS OF DEFUNCT COMPANY"
+   },
+   "heading": {
+    "en": "Certificate of moneys paid under section 197(1) of Act"
+   },
+   "text": {
+    "en": "50. For the purposes of section 197(1) of the Act, the certificate of receipt for the moneys paid to the Official Receiver must be in accordance with Form VWU‑21, and must include the following information:\n(a)the name of the company in liquidation;\n(b)the name and address of the liquidator’s office;\n(c)the amount of moneys paid to the Official Receiver;\n(d)the date on which the moneys were paid to the Official Receiver."
+   }
+  },
+  {
+   "id": "SG-H2801-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 10 UNCLAIMED OR UNDISTRIBUTED ASSETS AND OUTSTANDING ASSETS OF DEFUNCT COMPANY"
+   },
+   "heading": {
+    "en": "Demand for payment out of Companies Liquidation Account"
+   },
+   "text": {
+    "en": "51.—(1) A demand made under section 197(7) of the Act by a person claiming to be the owner of any moneys placed to the credit of the Companies Liquidation Account must —\n(a)be made in the form and manner that the Official Receiver may from time to time direct; and\n(b)unless the Official Receiver otherwise directs, be accompanied by a certificate of the liquidator stating that the person is the owner of the moneys.\n(2) The Official Receiver may direct the person mentioned in paragraph (1) to provide further evidence to support the person’s demand."
+   }
+  },
+  {
+   "id": "SG-H2801-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 10 UNCLAIMED OR UNDISTRIBUTED ASSETS AND OUTSTANDING ASSETS OF DEFUNCT COMPANY"
+   },
+   "heading": {
+    "en": "Application by liquidator for payment out"
+   },
+   "text": {
+    "en": "52.—(1) A liquidator who needs to make any payment out of moneys that have been placed to the credit of the Companies Liquidation Account under section 197 of the Act, either by way of distribution or in respect of the costs or expenses of the liquidation, must apply to the Official Receiver in the form and manner that the Official Receiver may direct.\n(2) On receiving the application, the Official Receiver may —\n(a)direct that payment be made by means of an electronic funds transfer system designated by the Official Receiver to the liquidator or the person to whom the payment is to be made of the sum required for the purposes mentioned in paragraph (1); or\n(b)direct that a cheque be issued in favour of the person to whom the payment is to be made and that the liquidator deliver the cheque to the person."
+   }
+  },
+  {
+   "id": "SG-H2801-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART 10 UNCLAIMED OR UNDISTRIBUTED ASSETS AND OUTSTANDING ASSETS OF DEFUNCT COMPANY"
+   },
+   "heading": {
+    "en": "Disposal of outstanding interests under section 214 of Act"
+   },
+   "text": {
+    "en": "53.—(1) Where the Official Receiver intends to sell or otherwise dispose of or deal with an estate (or any part of an estate) or any property or interest in property under section 214(1) of the Act, the Official Receiver must give notice of the intention —\n(a)by publication in the Gazette; and\n(b)by giving any other notice (including publication in an English local daily newspaper or a notice given outside Singapore) that the Official Receiver thinks necessary, taking into account the location of the estate or property.\n(2) The notice must state that a person who is legally or beneficially interested in the estate, property or interest must, within the time (not being less than 2 months) specified in the notice, inform the Official Receiver in writing of the nature of the person’s interest in the estate, property or interest.\n(3) At the expiration of the time specified in the notice, the Official Receiver may sell or otherwise dispose of or deal with the estate, property or interest in accordance with section 214 of the Act."
+   }
+  },
+  {
+   "id": "SG-H2801-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Prescribed value under section 234(1)(c) of Act"
+   },
+   "text": {
+    "en": "54. For the purposes of section 234(1)(c)(i) and (ii) of the Act, the prescribed value is $500."
+   }
+  }
+ ]
+}

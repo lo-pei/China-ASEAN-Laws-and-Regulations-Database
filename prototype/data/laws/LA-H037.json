@@ -1,0 +1,380 @@
+{
+ "id": "LA-H037",
+ "title": {
+  "zh": "民法典_2018_en_gazette",
+  "en": null,
+  "orig": null
+ },
+ "country": "LA",
+ "countryName": "老挝",
+ "layer": "intl",
+ "pack": "la-p01",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "老挝官方发布渠道",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 27,
+ "chars": 15690,
+ "source": {
+  "name": "老挝官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "自 2026-10-06 全库备份回流（_work/_backup_20261006/data/LA-H037.json）；条文逐字取自该备份，未改写、未补全；原始来源见 source 字段。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "LA-H037-A604",
+   "no": 604,
+   "noLabel": {
+    "en": "Article 604"
+   },
+   "heading": {
+    "en": "Rights and Obligations of the Executor of the Wills"
+   },
+   "text": {
+    "en": "The Will may only be executed once the owner of the property has died. \nThe Executor of the Will has the right to do all that is deemed necessary and \nsuitable in order to execute the Will. \nThe Executor of the Will shall not receive any bonus for the execution of the \nWill, but is entitled to compensation for necessary expenses in the preservation and \nadministration of the inheritance. \nThe Executor of the Will has the obligation to notify the heirs regarding the \nexecution."
+   }
+  },
+  {
+   "id": "LA-H037-A605",
+   "no": 605,
+   "noLabel": {
+    "en": "Article 605"
+   },
+   "heading": {
+    "en": "Opening the Wills"
+   },
+   "text": {
+    "en": "After the owner of the inheritance/heritage has deceased within fifteen days the \nhead of village and public notary who kept the will and testaments shall bring the Will\nto open for the person who has the right to inherit.\nCHAPTER 4\nACCEPTANCE, WAIVER AND FORFEITURE OF RIGHT TO INHERITANCE \nA. ACCEPTANCE AND WAIVER OF INHERITANCE"
+   }
+  },
+  {
+   "id": "LA-H037-A606",
+   "no": 606,
+   "noLabel": {
+    "en": "Article 606"
+   },
+   "heading": {
+    "en": "Request for Opening of Inheritance"
+   },
+   "text": {
+    "en": "Any heir may request the open of inheritance at any time from the date of the \ndeath of the owner of the inheritance/heritage, except as otherwise provided in the Will\nor as agreed otherwise.\nIf there is an heir who has not yet reached the age of maturity, the opening of \nthe heritage may be postponed until such heir reaches the age of maturity.  In case the \nopen of the heritage at that time, such shall be attended by an officer of the notary public \nor the village chief in order to be certified.\nIn all cases, if a spouse dies and the surviving spouse has remarried, the \nchildren may request open of the inheritance."
+   }
+  },
+  {
+   "id": "LA-H037-A607",
+   "no": 607,
+   "noLabel": {
+    "en": "Article 607"
+   },
+   "heading": {
+    "en": "Making an Inventory of Inheritance"
+   },
+   "text": {
+    "en": "Prior to distribution of inheritance, an inventory of the property of the owner \nof the inheritance shall be made as follows: \n1. Property that original assets and matrimonial property; \n2. Property that the owner of the inheritance has lent, consigned, mortgaged or \npledged to others, been embezzled, concealed, or misappropriated by others \nprior to death; \n133\n3. Funeral expenses and repayment of the debts of the owner of the inheritance. \nAfter settling the list of receivables and expenses, the inheritance may be \ndividing in their respective parts."
+   }
+  },
+  {
+   "id": "LA-H037-A608",
+   "no": 608,
+   "noLabel": {
+    "en": "Article 608"
+   },
+   "heading": {
+    "en": "Period of Limitation for Claims on Inheritance"
+   },
+   "text": {
+    "en": "Claims for inheritance may be made within three years from the date of the \ndeath of the owner of the inheritance. After such period has passed, the right to bring a \nclaim will be terminated, except in case the claimant has not reached the age of 18 years \nafter the death of the owner of the inheritance or other sufficient reasons."
+   }
+  },
+  {
+   "id": "LA-H037-A609",
+   "no": 609,
+   "noLabel": {
+    "en": "Article 609"
+   },
+   "text": {
+    "en": "Distribution of Inheritance Under the Administration of an Heir \nAn heir administering inheritance that has yet to be distributed has the has the \nright to request the distribution of such inheritance at any time regardless of whether \nthe period of limitation provided in Article 608 of this Civil Code has passed."
+   }
+  },
+  {
+   "id": "LA-H037-A610",
+   "no": 610,
+   "noLabel": {
+    "en": "Article 610"
+   },
+   "heading": {
+    "en": "Acceptance of Inheritance"
+   },
+   "text": {
+    "en": "An heir by operation of law shall be deemed a recipient of the inheritance once \nhe/she expresses his/ her intention to accept the inheritance before the village \nadministration authorities where the inheritance was opened. \nAn heir by operation of a Will shall be deemed a recipient of the inheritance \nonce he/she expresses his/her intention to accept the inheritance before the office of the \nnotary public or village administration authorities where there is no office of the notary \npublic.\nAcceptance of the inheritance shall be made within six months of opening the \ninheritance.\nIn case an heir waives his /her right to inheritance, the person accepting the \ninheritance of the waiver shall express his /her intention to accept such inheritance \nwithin the remaining period . If the remaining period is less than three months, the \nperson who wishes to accept the inheritance has the right to request the court for an \nextension of such period but by no more than three months. \nAn officer of the notary public or the village chief shall issue a certificate of \ninheritance to the heir(s) as evidence."
+   }
+  },
+  {
+   "id": "LA-H037-A611",
+   "no": 611,
+   "noLabel": {
+    "en": "Article 611"
+   },
+   "heading": {
+    "en": "Inheritance which is not Accepted within Due Time"
+   },
+   "text": {
+    "en": "Inheritance which is still in its original form passed down to any heir who has \nnot accepted it within the period stated in Paragraph 3, of Article 610 of this Civil Code, \nbut which has been accepted by another heir or handed over to the State shall be \nreturned to the original he ir who failed to accept the inheritance, only if the recipient \n134\nheir or the State gives its consent . If consent is not provided, the court will consider a \ndecision in favor of the original heir if there is sufficient reason.\nIn case an heir by operation of law or by operation of a Will dies after the \nopening of inheritance, but did not accept his part of the inheritance within the period \nstated in Paragraph 3, Article 610 of this Civil Code the heirs of the deceased shall be \nentitled to the inheritance."
+   }
+  },
+  {
+   "id": "LA-H037-A612",
+   "no": 612,
+   "noLabel": {
+    "en": "Article 612"
+   },
+   "heading": {
+    "en": "Waiver of Inheritance"
+   },
+   "text": {
+    "en": "Heirs by operation of law or by the operation of a Will may waive their \ninheritance in favor of an individual, State organization, foundation or any fund. Such \nwaiver shall be made within six months from the date of the opening of inheritance. \nPersons waiving their inheritance awarded by operation of law shall express \ntheir intent in writing to the village administration authorities stating the name of the \nindividual or the organization that has received its favor.\nPersons waiving their inheritance awarded by operation of Will shall express \ntheir intent in writing to office of the notary public stating the name of the individual \nor the organization that has received its favor.\nIn case such persons or organizations are not identified, the inheritance so \nwaived will pass to other heirs by operation of law.\nIn case heirs have not accepted the inheritance within the period stated in \nParagraph 3, of Article 610 of this Civil Code that he/she shall be regard as waiver of \ntheir inheritance and such inheritance will pass to other heirs by operation of law."
+   }
+  },
+  {
+   "id": "LA-H037-A613",
+   "no": 613,
+   "noLabel": {
+    "en": "Article 613"
+   },
+   "heading": {
+    "en": "Waiver of Inheritance by Persons Having No Capacity to Act"
+   },
+   "text": {
+    "en": "Heirs who have not yet reached the age of 18 years or have no capacity to act \nwill not be able to waive their inheritance, unless their parents or their guardians ’ \nconsent."
+   }
+  },
+  {
+   "id": "LA-H037-A614",
+   "no": 614,
+   "noLabel": {
+    "en": "Article 614"
+   },
+   "heading": {
+    "en": "Right of Persons waiving their inheritance"
+   },
+   "text": {
+    "en": "Heirs who waiving their inheritance passed down his /her inheritance to other \nheirs also has the right to inherit inheritance instead, but not the part that he /she has \nwaiver.\nB. FORFEITURE OF RIGHT TO INHERITANCE"
+   }
+  },
+  {
+   "id": "LA-H037-A615",
+   "no": 615,
+   "noLabel": {
+    "en": "Article 615"
+   },
+   "heading": {
+    "en": "Forfeiture of Right to Inheritance"
+   },
+   "text": {
+    "en": "Heirs will forfeit their right to inheritance as follows:\n1.  Fraud or misappropriation of inheritance; \n135\n2. Forfeiture of Right to Inheritance of Parents and Children pursuant to a \ndecision of a court;\n3. Forfeiture the Right to Inheritance by Operation of Law and by Operation \nof Will."
+   }
+  },
+  {
+   "id": "LA-H037-A616",
+   "no": 616,
+   "noLabel": {
+    "en": "Article 616"
+   },
+   "heading": {
+    "en": "Fraud or Misappropriation of Inheritance"
+   },
+   "text": {
+    "en": "Heirs who defraud, concealing or misappropriate inheritance that exceeds their \nshare of entitlement shall not receive any part of the inheritance and shall also return \nall the inheritance that was taken.  \nIf the defrauding, concealing or misappropriation is less than or equal their share \nof entitlement, they shall not receive their share.\nThis article will not apply to heirs by operation of Will whom the owner of the \ninheritance has awarded the inheritance to the heirs."
+   }
+  },
+  {
+   "id": "LA-H037-A617",
+   "no": 617,
+   "noLabel": {
+    "en": "Article 617"
+   },
+   "heading": {
+    "en": "Forfeiture of Right to Inheritance of Parents and Children"
+   },
+   "text": {
+    "en": "Parents losing their rights of parenthood pursuant to a decision of a court will \nnot have the right to inherit property from their children, similarly, the children will not \nhave the right to inherit from their parents, except where the child has not yet reached \nmaturity. \nIn case parents are declared by a decision of a court to have not fulfilled their \nobligations in raising their children, they will not have the right to inherit from their \nchildren. Children who reach maturity and are declared by a decision of a court to have \nnot fulfilled their obligations in caring for their parents will similarly not have the right \nof inheritance from their parents."
+   }
+  },
+  {
+   "id": "LA-H037-A618",
+   "no": 618,
+   "noLabel": {
+    "en": "Article 618"
+   },
+   "text": {
+    "en": "Persons Forfeiting the Right to Inheritance by Operation of Law and by \nOperation of Will \nPersons forfeiting the right to inheritance by operation of law or by operation of \nWill are as follows: \n1. Persons declared by a court decision as having intentionally caused or attempted \nto cause death or serious injury to the owner of the assets or the entitled heirs in \norder to gain the assets;\n2. Persons destroying, concealing or forging Will in whole or in part; \n3. Persons residing in the same province or district as the dec eased who, upon \nlearning of the death, fail, without any reason, to either arrange a funeral or to \nentrust another person to undertake such on their behalf;\n4. Persons who force the owner of the assets to make, revoke or alter a Will in \nwhole or in part;\n136\n5. Persons concealing or hiding violators who have affected the life or health of \nthe owner of the inheritance by causing serious injury to, disability or Died; \n6. Persons whom a court has declared have been unfaithful to the owner of the \nassets or heirs as provided the Penal Code.\nThe persons stated above will only lose their right to inheritance when the owner \nof the inheritance states his /her intention in writing, except where the owner of the \ninheritance becomes deceased in accordance with Items 1, 3 and 5 of this Article.\nIf the individuals stated above have acted unjustly, refused to be under the \nguardianship of their parents, refused to take care of their parents during old -age or in \ntimes of sickness and had the capability to do so shall forfeit their right to inheritance \nand shall perform in accordance with Paragraph 2, Article 617 of this Civil Code."
+   }
+  },
+  {
+   "id": "LA-H037-A619",
+   "no": 619,
+   "noLabel": {
+    "en": "Article 619"
+   },
+   "heading": {
+    "en": "Cancelation of Forfeiture of Right to Inheritance"
+   },
+   "text": {
+    "en": "The owner of the inheritance may cancel the forfeiture of right to inheritance as \nprovided in Article 618 by giving its intent under evidence or in the presence of \nwitnesses.\nCHAPTER 5\nADMINISTRATION OF INHERITANCE AND RESPONSIBILITIES OF HEIRS TO \nDEBTS OF THE OWNER OF INHERITANCE\nA. ADMINISTRATION OF INHERITANCE"
+   }
+  },
+  {
+   "id": "LA-H037-A620",
+   "no": 620,
+   "noLabel": {
+    "en": "Article 620"
+   },
+   "heading": {
+    "en": "Administration of Inheritance"
+   },
+   "text": {
+    "en": "Upon a request for the administration of inheritance, creditor or in cases of \nnecessity, the officers of the notary public or the village chief at the place of opening \nof inheritance takes place or court shall determine meas ures for the administration of \ninheritance or appoint an administrator of inheritance in order to ensure the interests of \nheirs and creditors."
+   }
+  },
+  {
+   "id": "LA-H037-A621",
+   "no": 621,
+   "noLabel": {
+    "en": "Article 621"
+   },
+   "heading": {
+    "en": "Person not Entitled to be Administrators of Inheritance"
+   },
+   "text": {
+    "en": "Persons not entitled to be administrators of inheritance are as follows:\n1. Persons with no capacity to act;\n2. Persons declared bankrupt by the court who are in the period of prohibition; \n3. Persons who have had their rights to parenthood withdrawn and persons \nwho have forfeited their right to inheritance as defined in Civil Procedure \nlaw and Articles 617 and 618 of this Civil Code."
+   }
+  },
+  {
+   "id": "LA-H037-A622",
+   "no": 622,
+   "noLabel": {
+    "en": "Article 622"
+   },
+   "heading": {
+    "en": "Rights and Duties of Administrators of Inheritance"
+   },
+   "text": {
+    "en": "The rights and duties of administrators of inheritance are as follows:\n137\n \n1. To establish an inventory of the inheritance in the presence of the heirs . In \nthe event any heir is unable to attend, the administrator of the inheritance \nshall be notified, the making of such inventory shall be undertaken in the \npresence of at least two -thirds of the total heirs and shall be completed \nwithin one month of the appointment of the administrator; \n2. To receive the claims of creditors and to settle the debts of the Owner debts \nbefore the heirs receive the inheritance;\n3. To distribute the inheritance to the heirs according to their respective parts. \nThe administrator of the inheritance has no right to claim for any allowance for \nthe administration of the heritage, unless the heirs are willing award such."
+   }
+  },
+  {
+   "id": "LA-H037-A623",
+   "no": 623,
+   "noLabel": {
+    "en": "Article 623"
+   },
+   "text": {
+    "en": "Administration of Inheritance of Persons who has no Capacity to Act\nAdministration of Inheritance of Persons who has no capacity to act by \noperation of Will shall be follow as defined in Article 599 of this Civil Code.\nFor the administration of Inheritance of Persons who has no capacity to act that \naccept from inheritance by operation of Law or n ot defined in Will , shall be given to \nparents or Guardian shall be administration of his/her Property. \nThe right of Guardian shall be ended when children reached the age of 18 years \nor persons with no capacity to act became normal."
+   }
+  },
+  {
+   "id": "LA-H037-A624",
+   "no": 624,
+   "noLabel": {
+    "en": "Article 624"
+   },
+   "text": {
+    "en": "Cancelation or Alteration of Administrator of the Inheritance  \nHeirs has the right to demand to court for consider to Cancelation or Alteration \nof Administration of the Inheritance, if measure of the Administration of Inheritance \nissued by the Officer of the notary public or village Chief are not in accordance with \nthe facts or in conflict with the law and regulation. \nHeirs has the right to demand to court to Cancellation of the Appointment of the \nAdministrator of the Inheritance and appoint a new administrator as a replacement if \nany administrator fails to perform its rights and duties or performs carelessly or without \ngood faith.\nB. RESPONSIBILITIES OF HEIRS TO DEBTS OF THE OWNER OF \nINHERITANCE"
+   }
+  },
+  {
+   "id": "LA-H037-A625",
+   "no": 625,
+   "noLabel": {
+    "en": "Article 625"
+   },
+   "heading": {
+    "en": "Settlement of Debts"
+   },
+   "text": {
+    "en": "Heirs, by operation of law or by operation of Will shall be responsible for the \nsettlement of debts of the owner of the inheritance up to the amount of inheri tance \nreceived.\n \nIf the heritage has not yet been distributed, the creditor has the right to claim for \nsettlement of all debts from the heirs or from the administrator of the inheritance.\n138\n \nIf the inheritance has been distributed, the creditor may request any of the heirs \nto settle the debts. In case any heir settles the debts to the creditor in excess of the part \nof the inheritance that such heir has received, other heirs shall reimburse such payment \nto such heir in equal amounts.\n \nIf any heir is unable to settle debts according to his/her part, the other heirs shall \nsettle the debts of the creditor on his/her behalf in equal parts.\n \nThe settlement of the debts of the owner of the inheritance heritage shall be \nborne only from the property of the inheritance."
+   }
+  },
+  {
+   "id": "LA-H037-A626",
+   "no": 626,
+   "noLabel": {
+    "en": "Article 626"
+   },
+   "heading": {
+    "en": "Period for Making Claims for the Settlement of Debts"
+   },
+   "text": {
+    "en": "The creditor has the right to claim for settlement of debts against heirs who have \nreceived the inheritance or from the administrator or the executor of the Will or to \nsubmit a request for debt settlement to the office of the notary public or the head of the \nvillage administration authorities where the opening of inheritance took place, or to the \ncourts within three years of the opening of inheritance. \nIf the creditor has not m ade any claim or submitted a request for settlement of \ndebts within six months, the creditor will have no further rights without sufficient \nreason."
+   }
+  },
+  {
+   "id": "LA-H037-A627",
+   "no": 627,
+   "noLabel": {
+    "en": "Article 627"
+   },
+   "heading": {
+    "en": "Scope of Rights to Decide over Inheritance"
+   },
+   "text": {
+    "en": "Prior to the opening of inheritance or the receipt of certificates of acceptance of \ninheritance, the guardian or heir administering the inheritance shall have no right to \ndecide over such inheritance, excepts in instances where expenses have been paid for \nthe following:\n \n1. Care, medical treatment or the funeral expenses of the owner of the \ninheritance;\n2. Care of individuals under the support of the owner of the inheritance;\n3. Payment of wages and other obligations of the owner of the inheritance; \n4. Preservation and administration of the inheritance."
+   }
+  },
+  {
+   "id": "LA-H037-A628",
+   "no": 628,
+   "noLabel": {
+    "en": "Article 628"
+   },
+   "text": {
+    "en": "Distribution of Inheritance where no Agreement Can be Reached \nIf no agreement can be reached on the distribution of inheritance among heirs, \nthe court will decide if claims are made. \n139\nPart IX\nFINAL PROVISIONS"
+   }
+  },
+  {
+   "id": "LA-H037-A629",
+   "no": 629,
+   "noLabel": {
+    "en": "Article 629"
+   },
+   "heading": {
+    "en": "Implementation"
+   },
+   "text": {
+    "en": "The Government of the Lao People ’s Democratic Republic, the People’ s\nSupreme Court, the People’s Supreme Prosecutor is responsible for the implementation \nof this Civil Code.\nAll Lao citizens, foreigners, aliens, and stateless persons who live, run business, \ndo commerce or professional works in the Lao PDR and all organizations must respect \nand implement this Civil Code."
+   }
+  },
+  {
+   "id": "LA-H037-A630",
+   "no": 630,
+   "noLabel": {
+    "en": "Article 630"
+   },
+   "heading": {
+    "en": "Effectiveness"
+   },
+   "text": {
+    "en": "This Civil Code shall be effective from the date after fifteen days of officially \npublished in the Lao Official Gazette which shall be placed on its publicationafter 365 \ndays from the date of issuance of the Presidential Decree on the Promulgation. \nAny provision of legislations adopted prior to effectiveness of this Civil Code \nshall be still applied, unless otherwise specified by laws.\nThis Civil Code replaced to Law on Contract ual and Non-Contractual \nObligations, Law on Family, Law on Ownership, Law on Inheritance and some articles \nof Law on Secured Transactions and other laws related to civil relationships. \nPresident of the National Assembly\nPany YATHOTOU\nPART IX"
+   }
+  }
+ ]
+}

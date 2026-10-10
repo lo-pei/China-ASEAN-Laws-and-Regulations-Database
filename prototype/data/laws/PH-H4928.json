@@ -1,0 +1,114 @@
+{
+ "id": "PH-H4928",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending the Title and Sections One and Five of Republic Act Numbered Fifty-Three Hundred Nine (Re Electric Light, Ice and Cold Storage Franchise of Moreno Y Llorca).",
+  "orig": "An Act Amending the Title and Sections One and Five of Republic Act Numbered Fifty-Three Hundred Nine (Re Electric Light, Ice and Cold Storage Franchise of Moreno Y Llorca)."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p70",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1971-10-04",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6416",
+ "officialCode": null,
+ "topics": [
+  "investment"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 7,
+ "chars": 2440,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1971/ra_6416_1971.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 7 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1971/ra_6416_1971.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文存在同号重出的条款（第 1、5 条）：该处官方页面确有两段均标同一 Section 号，本库照录其 `no` 值（不改动官方编号），条文 `id` 以 `_2`「_3」后缀保证唯一。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4928-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The title of Republic Act Numbered Fifty-three hundred nine is hereby amended to read as follows:\n\"An Act granting Moreno y Llorca Hermanos, Inc., a franchise to install, operate and maintain an electric light, heat, power, ice and cold storage plant in the Island of Tablas, Province of Romblon, and to sell and distribute electric light, heat, power, and ice and supply cold storage herein.\""
+   }
+  },
+  {
+   "id": "PH-H4928-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Sections one and five of the same Act are here-y amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H4928-A1_2",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Subject to the terms and conditions established in Act Numbered Thirty-six hundred thirty-six, as mended by Commonwealth Act Numbered One hundred thirty-two, and to the provisions of the Constitution, there granted to Moreno y Llorca Hermanos, Inc., for a period of twenty-five years from the approval of this Act, the right, privilege and authority to install, operate and maintain electric light, heat and power system whether from its own generating units or potential hydraulic power from undeveloped water resources of the island, and ice plant and cold storage for the purpose of generating, distributing of electric light, heat and/or power and manufacturing ice for sale and for supplying cold storage in the Island Tablas, Province of Romblon.\n\""
+   }
+  },
+  {
+   "id": "PH-H4928-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "If the grantee shall not commence the generation of electricity and the manufacture and distribution of ice and electricity in the Island of Tablas, Province of Romblon, within two years from the approval of this amendatory Act, unless prevented by an act of God or force majeure, martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantee's control, this franchise be null and void.\""
+   }
+  },
+  {
+   "id": "PH-H4928-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The grantee shall not lease, transfer, grant the usufruct of, sell or assign this franchise or the rights, privileges acquired thereunder, to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other person, company, or corporation organized for the same purpose, without the approval and/or consent of the Congress of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H4928-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to five per centum of its gross earnings under this franchise, three per centum of which shall accrue to the national government and two per centum to the municipality where the franchise is in operation."
+   }
+  },
+  {
+   "id": "PH-H4928-A5_2",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nEnacted without executive approval, October 4, 1971."
+   }
+  }
+ ]
+}

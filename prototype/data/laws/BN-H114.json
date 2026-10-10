@@ -1,0 +1,52 @@
+{
+ "id": "BN-H114",
+ "title": {
+  "zh": "公司法_1957",
+  "en": "Companies Act (Chapter 39)",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p06",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1957-01-01",
+ "effectiveDate": "1957-01-01",
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "文莱官方发布渠道",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 1006,
+ "source": {
+  "name": "文莱官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "文本未能可靠切分为条文（或原件为目录式排版），按整篇收录，未作改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-H114-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "# Companies Act (Chapter 39) > 本文件为自动采集的元数据头，随原始文件一同保存。\n> 原始文件未被改写；正文逐字照录于同目录下的原始文件。\n| 项目 | 内容 | | --- | --- | | 原文标题 | Companies Act (Chapter 39) | | 官方页面标注标题 | COMPANIES ACT | TOG Template 2 | | 中文译名 | 公司法（第39章） | | 英文译名 | Companies Act | | 法律领域 | 公司与投资 | | 颁布机构 | 文莱总检察署（BRULAW） | | 官方来源 URL | https://www.agc.gov.bn/wp-content/uploads/2026/07/CAP-39-2021-ED-COMPANIES-ACT.pdf | | 数据抓取实际 URL | https://www.agc.gov.bn/wp-content/uploads/2026/07/CAP-39-2021-ED-COMPANIES-ACT.pdf | | 颁布日期 | 1957-01-01（官方记录页标注 commenced 1 Jan 1957） | | 生效日期 | 1957-01-01 | | 修订日期 | 2016、2017、2018、2019、2020 年公司法修正令；2025 年法律修订更正令（S 29/2025） | | 版本 | 2021 年版（官方标注 2021 ED） | | 原文语种 | en | | 来源类型 | 官方（agc.gov.bn） | | 抓取日期 | 2026-10-03 | | 本地文件 | 文莱_公司法_1957_en.pdf | | 文件格式 | pdf | | 文件大小(字节) | 9914238 | | 页数 | 352 | | 字数 |  | | SHA-256 | 5c487b20db8db01c015889964c2f77dc86c69390a01041dbee56b22f3fee3f96 | | HTTP 状态 | 200 | | HTTPS 证书校验 | verified | | 完整性/缺失范围 | 官方 2021 年版全文 PDF（未删节） | | 备注 | 官方记录页另列多份修正令与规则，本文件仅保存主法合并本。 |"
+   }
+  }
+ ]
+}

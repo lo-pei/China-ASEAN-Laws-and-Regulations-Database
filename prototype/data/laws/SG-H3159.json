@@ -1,0 +1,81 @@
+{
+ "id": "SG-H3159",
+ "title": {
+  "zh": null,
+  "en": "Mercantile Law Amendment Act 1856",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p40",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act MLAA1856",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1984,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/MLAA1856?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3159-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Written guarantee not to be invalid by reason that consideration does not appear in writing"
+   },
+   "text": {
+    "en": "1. No special promise to be made by any person to answer for the debt, default, or miscarriage of another person, being in writing, and signed by the party to be charged therewith, or some other person by him thereunto lawfully authorised, shall be deemed invalid to support an action, suit, or other proceeding to charge the person by whom such promise shall have been made, by reason only that the consideration for such promise does not appear in writing, or by necessary inference from a written document."
+   }
+  },
+  {
+   "id": "SG-H3159-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Surety who discharges liability to be entitled to assignment of all securities held by creditor, and to stand in place of creditor"
+   },
+   "text": {
+    "en": "2. Every person who, being surety for the debt or duty of another, or being liable with another for any debt or duty, shall pay such debt or perform such duty, shall be entitled to have assigned to him, or to a trustee for him, every judgment, specialty, or other security which shall be held by the creditor in respect of such debt or duty, whether such judgment, specialty, or other security shall or shall not be deemed at law to have been satisfied by the payment of the debt or performance of the duty, and such person shall be entitled to stand in the place of the creditor, and to use all the remedies, and, if need be, and upon a proper indemnity, to use the name of the creditor, in any action or other proceeding, at law or in equity, in order to obtain from the principal debtor, or any co‑surety, co‑contractor, or co‑debtor, as the case may be, indemnification for the advances made and loss sustained by the person who shall have so paid such debt or performed such duty, and such payment or performance so made by such surety shall not be pleadable in bar of any such action or other proceeding by him:\nProvided that no co-surety, co‑contractor, or co‑debtor shall be entitled to recover from any other co‑surety, co‑contractor, or co‑debtor, by the means aforesaid, more than the just proportion to which, as between those parties themselves, such last‑mentioned person shall be justly liable."
+   }
+  },
+  {
+   "id": "SG-H3159-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "3. This Act may be cited as the Mercantile Law Amendment Act 1856."
+   }
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "id": "PH-H6370",
+ "title": {
+  "zh": "对《修订刑法典》的修改",
+  "en": "An Act Amending Article 286, Section Three, Chapter Two, Title Nine of Act No. 3815, as Amended, Otherwise Known as the Revised Penal Code",
+  "orig": "An Act Amending Article 286, Section Three, Chapter Two, Title Nine of Act No. 3815, as Amended, Otherwise Known as the Revised Penal Code"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p90",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1995-02-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 7890",
+ "officialCode": null,
+ "topics": [
+  "criminal"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1462,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1995/ra_7890_1995.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1995/ra_7890_1995.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H6370-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Article 286, Section Three, Chapter Two, Title Nine of Act No. 3815, as amended, is hereby further amended to read as follows:\n\"ART. 286. Grave Coercions. - the penalty of prision correccional and a fine not exceeding Six thousand pesos shall be imposed upon any person who, without any authority of law, shall by means of violence, threats or intimidation, prevent another from doing something not prohibited by law, or compel him to do something against his will, whether it be right or wrong.\n\"If the coercion be committed in violation of the exercise of the right of suffrage, or for the purpose of compelling another to perform any religions act, or to prevent him from exercising such right or from so doing such act, the penalty next higher in degree shall be imposed.\""
+   }
+  },
+  {
+   "id": "PH-H6370-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section 261, Paragraphs (d)(1) and (2), Article XXII of Batas Pambansa Blg. 881 is hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H6370-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "All other election laws, decrees, executive orders, rules and regulations, or parts thereof inconsistent with the provisions of this Act are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H6370-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "If, for any reason, any section or provision of this Act, or any portion thereof, the application of such section, provision or portion to any person, group or circumstance is declared invalid or unconstitutional, the remainder of this Act or application of such section, provision or portion thereof to other persons, groups or circumstances shall not be affected by such declaration."
+   }
+  },
+  {
+   "id": "PH-H6370-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

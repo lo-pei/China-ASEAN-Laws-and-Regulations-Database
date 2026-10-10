@@ -1,0 +1,120 @@
+{
+ "id": "TL-H003",
+ "title": {
+  "zh": "Interpretação do Direito Vigente em 19 de Maio de 2002",
+  "en": null,
+  "orig": "Interpretação do Direito Vigente em 19 de Maio de 2002"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2002-07-10",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 2/2002",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 1398,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2002_2005/leis_parlamento_nacional/2_2002.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 6 条；逐字取自官方公报 PDF（public/docs/2002_2005/leis_parlamento_nacional/2_2002.pdf）第 —–— 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H003-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Direito aplicável"
+   },
+   "text": {
+    "pt": "A legislação vigente em Timor-Leste em 19 de Maio de 2002 mantém-se em vigor, com as necessárias adaptações, em tudo o que se não mostrar contrário à Constituição e aos princípios nela consignados."
+   }
+  },
+  {
+   "id": "TL-H003-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Transferência de poderes"
+   },
+   "text": {
+    "pt": "Os poderes atribuídos ao Administrador de Transição pela legislação vigente em Timor-Leste em 19 de Maio de 2002 passam a ser exercidos pelas autoridades competentes da República Democrática de Timor-Leste, em conformidade com a Constituição e os princípios nela consignados."
+   }
+  },
+  {
+   "id": "TL-H003-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "heading": {
+    "pt": "Validade das nomeações"
+   },
+   "text": {
+    "pt": "As nomeações vigentes em Timor-Leste em 19 de Maio de 2002 mantém transitoriamente a sua validade até que novas nomeações tenham lugar, em conformidade com a lei."
+   }
+  },
+  {
+   "id": "TL-H003-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "heading": {
+    "pt": "Validade dos documentos"
+   },
+   "text": {
+    "pt": "Quaisquer documentos, certificados, licenças ou autorizações, emitidos pela Administração Transitória das Nações Unidas em Timor-Leste, doravante designada abreviadamente por UNTAET, e válidos em Timor-Leste em 19 de Maio de 2002, são válidos, sem prejuízo do prazo de caducidade dos mesmos ser anterior a esta data e de poderem ser, entretanto, substituídos por novos documentos, em conformidade com a lei."
+   }
+  },
+  {
+   "id": "TL-H003-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "heading": {
+    "pt": "Missões estrangeiras"
+   },
+   "text": {
+    "pt": "As missões de representação estrangeiras estabelecidas em Timor-Leste em 19 de Maio de 2002, nos termos do Regulamento da UNTAET n.º 2000/31, de 27 de Setembro, mantêm o seu estatuto até que sejam acreditadas como missões diplomáticas ou consulares junto da República Democrática de Timor- Leste."
+   }
+  },
+  {
+   "id": "TL-H003-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "heading": {
+    "pt": "Efeitos"
+   },
+   "text": {
+    "pt": "A presente lei produz efeitos desde o dia 20 de Maio de 2002."
+   }
+  }
+ ]
+}

@@ -1,0 +1,316 @@
+{
+ "id": "SG-H3189",
+ "title": {
+  "zh": null,
+  "en": "Merchant Shipping (Medical Stores) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p40",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MSA1995-RG3",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 22,
+ "chars": 16361,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MSA1995-RG3?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 22 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 4 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3189-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Merchant Shipping (Medical Stores) Regulations."
+   }
+  },
+  {
+   "id": "SG-H3189-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“chemical” means any chemical listed in the following International Maritime Organization publications:\n(a)the General Index of the International Maritime Dangerous Goods Code;\n(b)the Index of Dangerous Chemicals Carried in Bulk; and\n(c)Chapter XIX of the International Code for the Construction and Equipment of Ships Carrying Liquified Gases in Bulk;\n“foreign-going ship” includes every ship employed in trading or going between some place or places in Singapore and some place or places situated beyond the limits prescribed for home-trade ships;\n“home-trade ship” means a ship plying solely upon a home-trade voyage;\n“home-trade voyage” means a voyage within the following limits:\nan imaginary line drawn from a position in the Gulf of Martaban in latitude 16° 15′ north, longitude 96° east in a south‑easterly direction to a position in latitude 15° north, longitude 97° east, thence due south to a position in latitude 9° north, longitude 97° east, thence in a south‑westerly direction to a position in latitude 6° north, longitude 94° east, thence due south to a position latitude 4° north, longitude 94° east, thence in a south‑easterly direction to a position in latitude 8° south, longitude 104° east, thence in an easterly direction to a position in latitude 10° south, longitude 120° east, thence due east to a position in latitude 10° south, longitude 125° east, thence due north to a position in latitude 8° north, longitude 125° east, thence due west to a position in latitude 8° north, longitude 110° east, thence in a 315° direction (N.W. true) to the coast of Vietnam, thence initially westward following the coasts of Vietnam, Cambodia, Thailand, the West Malaysia and Myanmar to the starting point;\n“malarial areas” means the areas as specified in the Third Schedule;\n“special limit voyage” means a voyage within the following limits:\nfrom a point where the longitude 103° 00′ east cuts the west coast of Johor, thence due south to latitude 00° 30′ north, thence due east to longitude 105° 00′ east, thence due north to latitude 01° 00′ north, thence to the point 02° 00′ north, 104° 15′ east, thence due west to the coast of Johor and thence following the coast of Johor westwards to the starting point."
+   }
+  },
+  {
+   "id": "SG-H3189-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "3. These Regulations shall apply to all Singapore ships."
+   }
+  },
+  {
+   "id": "SG-H3189-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Medicines and medical stores for foreign-going ships"
+   },
+   "text": {
+    "en": "4.—(1) Every foreign-going ship shall keep on board a supply of medicines and medical stores according to Scale IA set out in the First Schedule provided that the number of persons on board does not exceed 30.\n(2) When more than 30 persons are carried, then in addition to the items required under Scale IA, a set each of items listed in Scale IB set out in the First Schedule must be carried for each additional 30 persons or part thereof."
+   }
+  },
+  {
+   "id": "SG-H3189-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Medicines and medical stores for home-trade ships"
+   },
+   "text": {
+    "en": "5. Every home-trade ship shall keep on board a supply of medicines and medical stores according to Scale II set out in the First Schedule."
+   }
+  },
+  {
+   "id": "SG-H3189-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Medicines and medical stores for ships plying within special limit"
+   },
+   "text": {
+    "en": "6. Every ship plying within Special Limit from the Port of Singapore shall keep on board the supply of medicines and medical stores according to Scale III set out in the First Schedule."
+   }
+  },
+  {
+   "id": "SG-H3189-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Ships without doctors as crew members"
+   },
+   "text": {
+    "en": "7.—(1) Every ship going to sea carrying more than 12 passengers but without a qualified doctor as a member of the crew shall carry, in addition to the medicines and medical stores specified in the main Scale which the vessel is required to carry under regulation 4, 5 or 6, those specified in Scale V in Part 5 of the First Schedule.\n(2) All medicines required to be carried under Scale V in Part 5 of the First Schedule shall be kept in a doctor’s attache case.\n(3) Any item which cannot be included in the case should, where possible, be strapped to it; otherwise, the item shall be kept in a place adjacent to the case.\n(4) The doctor’s attache case shall be locked, the key to the case kept in the possession of the master or someone nominated by him, and the case kept in a locked cabinet.\n(5) The case should be labelled clearly as follows:\n“The medicines in this case are to be used only by a qualified doctor, or someone under the direct supervision of a doctor on board the ship.”."
+   }
+  },
+  {
+   "id": "SG-H3189-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Obtaining, use and disposal of morphine from doctor’s attache case"
+   },
+   "text": {
+    "en": "8. The obtaining, use and disposal of morphine from the doctor’s attache case shall be recorded in the ship’s controlled Drug Register in accordance with the Ship Captain’s Medical Guide."
+   }
+  },
+  {
+   "id": "SG-H3189-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Quantity of medicines and medical stores"
+   },
+   "text": {
+    "en": "9. The quantity of medicines and medical stores to be kept on board a ship referred to in these Regulations shall be as prescribed in the First Schedule regardless of the length of voyage."
+   }
+  },
+  {
+   "id": "SG-H3189-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Inspection of medicines and medical stores"
+   },
+   "text": {
+    "en": "10. The medicines and medical stores shall be inspected at least once in every 12 months by a registered pharmacist, who, on being satisfied that the ship is provided with medicines and medical stores in accordance with the appropriate scale, shall issue a certificate to that effect."
+   }
+  },
+  {
+   "id": "SG-H3189-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Ships carrying chemicals"
+   },
+   "text": {
+    "en": "11.—(1) Any ship carrying a chemical as whole or part of her cargo, or any residues of chemicals from earlier voyages shall carry the medicines and medical stores set out in Scale IV of the First Schedule in the quantities specified thereof.\n(2) In addition to the types and quantities of medicines and medical stores required to be carried under paragraph (1), the ship shall also carry the required type of medicines and medical stores specified in the Second Schedule as antidote and ancilliary equipment for the chemical and the required additional quantity of such antidote and ancilliary equipment shall be that specified in the Chemicals Supplement to the Ship Captain’s Medical Guide or the IMO Medical First Aid Guide."
+   }
+  },
+  {
+   "id": "SG-H3189-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Additional medical supplies"
+   },
+   "text": {
+    "en": "12. There shall be kept on board every ship on a voyage on which a qualified doctor is carried as a member of the crew any additional supplies which the doctor may reasonably require having regard to the size of the crew, the number of passengers on board and the intended voyage."
+   }
+  },
+  {
+   "id": "SG-H3189-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Standards of medicines and medical stores"
+   },
+   "text": {
+    "en": "13. All medicines and other medical stores kept on board a ship in accordance with these Regulations shall conform to the standards and requirements set out in the current editions of the British National Formulary or the British Pharmacopoeia or the European Pharmacopoeia or the United States Pharmacopoeia, and with the requirements of and specifications set out in the First and Fourth Schedules."
+   }
+  },
+  {
+   "id": "SG-H3189-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Packaging and labelling of containers"
+   },
+   "text": {
+    "en": "14.—(1) Without prejudice to any other written law, any container of medicines or other medical stores required by these Regulations to be kept on board a ship —\n(a)shall have in English on a label the particulars specified in the First Schedule;\n(b)in the case of a container of tablets or capsules, shall be capable of reclosure to prevent ingress of moisture;\n(c)in the case of a container of disinfectant, shall not show deleterious reaction with the disinfectant after storage in normal conditions for 6 months;\n(d)in the case of an insecticide, shall be air-tight, water-tight, packed in a suitable and sturdy case and, if the container is a pressure canister, have a cap or other means of protecting the valve against accidental opening when the canister is not in use; and\n(e)in the case of medicine or disinfectant not in the container supplied by its manufacturer, shall be packed in a sturdy, brown-coloured or non-translucent container.\n(2) Any label referred to in paragraph (1)(a) shall either be firmly affixed to the container and rendered resistant to moisture by varnish or other effective means or be an integral part of the container.\n(3) The particulars required by paragraph (1)(a) to be shown on labels are —\n(a)the ordering name by which the medicine or medical store is referred to in the First Schedule;\n(b)any storage requirements laid down in any of the publications referred to in regulation 13, or elsewhere in these Regulations;\n(c)if the medicines or medical stores are perishable, the expiry date as defined in regulation 16;\n(d)the name and address of the supplier of the medicines and medical stores, the product licence number and batch number;\n(e)in the case of any container of a disinfectant or of an antiseptic prescribed in any of the Scales set out in the First Schedule, the dilution recommended for any purposes stated thereon;\n(f)in the case of any container of an insecticide prescribed in any of the Scales set out in the First Schedule, instructions for use and precautions to be taken as detailed in paragaraphs 6 and 7 of the Fourth Schedule; and\n(g)in the case of a container of hypochlorite, a notice indicating that the chemical may combust spontaneously and that the hypochlorite should be stored in a cool dark place."
+   }
+  },
+  {
+   "id": "SG-H3189-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Storage of medicines"
+   },
+   "text": {
+    "en": "15.—(1) Any medicine or medical store shall be stored in accordance with the instructions on its container.\n(2) Any medicine shall, where applicable, be stored in accordance with the requirements for controlled drugs contained in the Ship Captain’s Medical Guide, and subject thereto, unless it is required to be kept in a refrigerator or in a first-aid satchel or box, shall be stored —\n(a)in the medical cabinet; or\n(b)in a cool, dry, locked cabinet or locked container."
+   }
+  },
+  {
+   "id": "SG-H3189-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Replenishment of dated medicines"
+   },
+   "text": {
+    "en": "16.—(1) Where —\n(a)a ship is required to have on board any medicine or other medical stores in accordance with any of the Scales set out in the First Schedule; and\n(b)any label required by regulation 14(1)(a) to be borne by any container or any such medicine or other medical stores, indicates a date after which the medicine or other medical store contained in it is not to be used (hereafter called the expiry date),\nthat medicine or medical store shall be replaced at the earliest possible date after the expiry date, and in any event within 3 months of the expiry date.\n(2) Medicines or medicinal stores which have passed the expiry date shall, once replacements have been obtained, or after 3 months, whichever is the earlier, be disposed of in accordance with the Ship Captain’s Medical Guide."
+   }
+  },
+  {
+   "id": "SG-H3189-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "heading": {
+    "en": "Offences"
+   },
+   "text": {
+    "en": "17.—(1) If any provision of these Regulations is contravened, the owner of the ship shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.\n(2) It shall be a defence for any person charged in connection with a contravention of any provision of these Regulations to show that the deficiency was caused by medicines and medical stores being used for their proper purpose and that it has not been reasonably practicable to replace them.\n(3) It shall be a defence for a person charged under these Regulations to show that he took all reasonable precautions and exercised all due diligence to avoid commission of the offence."
+   }
+  },
+  {
+   "id": "SG-H3189-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "heading": {
+    "en": "Exemptions"
+   },
+   "text": {
+    "en": "18. The Director may exempt any person or ship or description of persons or ships from all or any of the provisions of these Regulations on such terms as he may specify and may, subject to giving reasonable notice, alter or cancel any such exemption granted."
+   }
+  },
+  {
+   "id": "SG-H3189-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulations 4, 5, 6, 7, 9, 11, 13, 14 and 16.\nIn this Schedule, the following annotations are used:\n(a)To be used ONLY on medical advice and to be labelled accordingly.\n(b)Only required when the vessel is proceeding to or operating in a malarial area as defined in the Third Schedule.\n(c)To be labelled “Not to be used more than four weeks after first opening”.\n(d)Only required when the vessel is proceeding to or operating in tropical waters.\n(e)An oxygen resuscitator set with accessories that will permit the equipment to give therapy with both 24 per cent and 35 per cent oxygen will be acceptable in lieu of this item if sufficient oxygen is carried for three hours treatment at 35 per cent in addition to that required for resuscitation.\n(f)Passenger vessels must carry one first-aid kit for every 50 persons or fraction thereof that they are licensed to carry subject to a maximum of three kits.\n(g)A pre-packed press-button pressure canister may be used in lieu.\n(h)Not required on vessels of less than 80 grt.\n(i)Where an oxygen resuscitator is carried in compliance with Scale IV it will not be necessary to carry a second set to meet Scale V.\nPart 1\nMedicines\nPart 2\nInstruments, Appliances and Measuring Equipment\nNote: The packing for any item on these scales shall, where practicable, include the information given in the ordering description below.\nPart 3\nBandages, Cotton Wool and Dressings\nNote: The packing for any item on these scales shall, where practicable, include the information given in the ordering description below.\nPart 4\nSundries and Publications\nNote: The packing for any item on these scales shall, where practicable, include the information given in the ordering description for that item.\nPart 5\nScale V"
+   }
+  },
+  {
+   "id": "SG-H3189-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 11.\nAdditional items required on vessels carrying\nchemicals as whole or part of cargo\n1. When a vessel is carrying a chemical as whole or part of the cargo, the master must ensure that the correct antidote to the chemcial plus necessary ancilliary equipment (i.e. syringes) are also carried.\n2. The correct antidote can be identified from the following Table. The Table numbers shown at the top of each column relate to the tables in the Chemical Supplement to the Ship Captain’s Medical Guide and the IMO Medical First Aid Guide.\n3. Where a “X” is marked in the Table, it indicates that the medicine or medical store is to be carried and the quantity that is required to be carried is specified in the Chemical Supplement to the Ship Captain’s Medical Guide and the IMO Medical First Aid Guide."
+   }
+  },
+  {
+   "id": "SG-H3189-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulation 2 and the First Schedule\nMalaria areas\nAll areas shaded on the map which forms part of this Schedule are malarial areas."
+   }
+  },
+  {
+   "id": "SG-H3189-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE\nRegulations 13 and 14(3)(f)\nPart I\nSpecification of Disinfectants\n1. General description — The disinfectant shall be a white fluid and shall be a finely dispersed, stabilised emulsion containing coal-tar acids or other phenolic bodies, with or without hydrocarbons.\n2. Germicidal value and the method of its determination — The germicidal value shall not be less than 1.7 when determined by the modified Chick-Martin method as laid down by the British Standards Specification No. 808, confirmed by PD 2627, 1960.\n3. Stability before dilution — On standing for 3 months at ordinary temperatures (5°C to 30°C) the disinfectant fluid shall not precipitate nor show separation of more than traces of oil. A creamed fluid which can be rendered homogenous by gentle mixing may be carried.\n4. Stability after dilution — The disinfectant fluid shall be miscible with distilled water and artificial sea-water (27 grammes of sodium chloride and 5 grammes of crystalline magnesium sulphate (MgSO471120) dissolved in and made up to 1,000 ml with distilled water and filtered before use) in proportions of 1%, 2%, 3%, 4% and 5% to give a stable emulsion which shall not break nor show more than traces of separation of either top or bottom oil, when maintained at 18°C — 22°C for 6 hours, the sample and diluent having each been brought to a temperature within that range before mixing by pouring the sample into the diluent from a cylinder.\n5. Odour and corrosive action — The fluid shall be free from objectionable smell and when used as directed shall have no more corrosive action on metals than that occasioned by the water employed as a diluent.\nPart II\nSpecification of Insecticides and Means of Application\n6. Insecticide formulations:\n(a)When used in accordance with instructions for use which shall be specified on the label affixed to the container of an insecticide spray solution or insecticide powder —\n(i)shall be effective for the purpose specified in those instructions; and\n(ii)shall not be harmful to human being;\n(b)shall be suitable for use in crew and passenger accomodation and in spaces used for the preparation of food; and\n(c)shall be free from offensive odour and, so far as possible, shall be non-staining.\n7. Insecticide formulations shall be —\n(a)in the form of a spray solution not having a flash point lower that 48.9°C (120°F) when tested by the Abel method and containing an effective concentration of insecticide, when applied as a space spray or as a residual spray in accordance with instructions referred to in paragraph 6(a) by either —\n(i)a hand-operated, continuous-action sprayer fitted with a nozzle capable of producing a fine mist without coarse droplets; or\n(ii)a pre-packed press-button pressure canister; and\n(b)in the form of a powder packed in a dredger and effective when applied to the body or clothing of an infected person in accordance with the instructions referred to in paragraph 6(a).\n[G.N. No. S 56/96]"
+   }
+  }
+ ]
+}

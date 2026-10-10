@@ -1,0 +1,74 @@
+{
+ "id": "PH-H8474",
+ "title": {
+  "zh": null,
+  "en": "An Act Converting the Provincial Road From the Municipality of Bonifacio to the Municipality of Don Victoriano, Province of Misamis Occidental Into a National Road",
+  "orig": "An Act Converting the Provincial Road From the Municipality of Bonifacio to the Municipality of Don Victoriano, Province of Misamis Occidental Into a National Road"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p120",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2010-02-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 10017",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 426,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2010/ra_10017_2010.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2010/ra_10017_2010.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H8474-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The provincial road from the Municipality of Bonifacio to the Municipality of Don Victoriano, Province of Misamis Occidental is hereby converted into a national road."
+   }
+  },
+  {
+   "id": "PH-H8474-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The Secretary of the Department of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provision of this Act."
+   }
+  },
+  {
+   "id": "PH-H8474-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect fifteen (15) days after its publication in. a newspaper of general circulation."
+   }
+  }
+ ]
+}

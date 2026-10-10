@@ -1,0 +1,96 @@
+{
+ "id": "PH-H221",
+ "title": {
+  "zh": null,
+  "en": "An Act to Provide for the Medical Inspection of Children Enrolled in Private Schools, Colleges and Universities in the Philippines",
+  "orig": "An Act to Provide for the Medical Inspection of Children Enrolled in Private Schools, Colleges and Universities in the Philippines"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p02",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1947-06-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 124",
+ "officialCode": null,
+ "topics": [
+  "civil",
+  "education",
+  "health"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1143,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1947/ra_124_1947.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1947/ra_124_1947.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H221-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Effective July first, nineteen hundred and forty-seven, it shall be the duty of the principal, director and/or president of a private school, college or university, with a total enrollment of three hundred or more to provide part or full time physician for the yearly medical inspection of the pupils and students enrolled therein, who shall render reports at the end of every quarter, to wit: end of September, December, March and June of each school year, of their school health activities to the Director of Health. Said physician shall be placed under the direct supervision of the Bureau of Health."
+   }
+  },
+  {
+   "id": "PH-H221-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "It shall be incumbent on the Bureau of Health to formulate a school health medical inspection program to be observed by private schools, colleges and universities in the Philippines."
+   }
+  },
+  {
+   "id": "PH-H221-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Any principal, director or president of a private school, college or university who fails to comply with this or part of this Act, shall, upon conviction, pay a fine of not more than five hundred pesos."
+   }
+  },
+  {
+   "id": "PH-H221-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Any act or part thereof in conflict with the provisions of this Act is hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H221-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1947"
+   }
+  }
+ ]
+}

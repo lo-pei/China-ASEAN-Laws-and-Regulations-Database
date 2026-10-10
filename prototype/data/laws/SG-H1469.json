@@ -1,0 +1,224 @@
+{
+ "id": "SG-H1469",
+ "title": {
+  "zh": null,
+  "en": "Factors Act 1889",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p19",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act FA1889",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 14,
+ "chars": 8087,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/FA1889?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 14 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1469-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "1.—(1) For the purposes of this Act —\n“document of title” includes any bill of lading, dock warrant, warehouse-keeper’s certificate, and warrant or order for the delivery of goods, and any other document used in the ordinary course of business as proof of the possession or control of goods, or authorising or purporting to authorise, either by endorsement or by delivery, the possessor of the document to transfer or receive goods thereby represented;\n“goods” includes wares and merchandise;\n“mercantile agent” means a mercantile agent having in the customary course of his business as such agent authority either to sell goods, or to consign goods for the purpose of sale, or to buy goods, or to raise money on the security of goods;\n“person” includes any body of persons corporate or unincorporate;\n“pledge” includes any contract pledging, or giving a lien or security on, goods, whether in consideration of an original advance or of any further or continuing advance or of any pecuniary liability.\n(2) A person shall be deemed to be in possession of goods or of the documents of title to goods, where the goods or documents are in the person’s actual custody or are held by any other person subject to his control or for him or on his behalf."
+   }
+  },
+  {
+   "id": "SG-H1469-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Powers of mercantile agent with respect to disposition of goods"
+   },
+   "text": {
+    "en": "2.—(1) Where a mercantile agent is, with the consent of the owner, in possession of goods or of the documents of title to goods, any sale, pledge, or other disposition of the goods, made by him when acting in the ordinary course of business of a mercantile agent, shall, subject to the provisions of this Act, be as valid as if he were expressly authorised by the owner of the goods to make the same:\nProvided that the person taking under the disposition acts in good faith, and has not at the time of the disposition notice that the person making the disposition has no authority to make the same.\n(2) Where a mercantile agent has, with the consent of the owner, been in possession of goods or of the documents of title to goods, any sale, pledge, or other disposition, which would have been valid if the consent had continued, shall be valid notwithstanding the determination of the consent:\nProvided that the person taking under the disposition has not at the time thereof notice that the consent has been determined.\n(3) Where a mercantile agent has obtained possession of any documents of title to goods by reason of his being or having been, with the consent of the owner, in possession of the goods represented thereby, or of any other documents of title to the goods, his possession of the first-mentioned documents shall, for the purposes of this Act, be deemed to be with the consent of the owner.\n(4) For the purposes of this Act, the consent of the owner shall be presumed in the absence of evidence to the contrary."
+   }
+  },
+  {
+   "id": "SG-H1469-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Effect of pledges of documents of title"
+   },
+   "text": {
+    "en": "3. A pledge of the documents of title to goods shall be deemed to be a pledge of the goods."
+   }
+  },
+  {
+   "id": "SG-H1469-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Pledge for antecedent debt"
+   },
+   "text": {
+    "en": "4. Where a mercantile agent pledges goods as security for a debt or liability due from the pledgor to the pledgee before the time of the pledge, the pledgee shall acquire no further right to the goods than could have been enforced by the pledgor at the time of the pledge."
+   }
+  },
+  {
+   "id": "SG-H1469-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Rights acquired by exchange of goods or documents"
+   },
+   "text": {
+    "en": "5. The consideration necessary for the validity of a sale, pledge, or other disposition of goods, in pursuance of this Act, may be either a payment in cash, or the delivery or transfer of other goods, or of a document of title to goods, or of a negotiable security, or any other valuable consideration; but where goods are pledged by a mercantile agent in consideration of the delivery or transfer of other goods, or of a document of title to goods, or of a negotiable security, the pledgee shall acquire no right or interest in the goods so pledged in excess of the value of the goods, documents, or security when so delivered or transferred in exchange."
+   }
+  },
+  {
+   "id": "SG-H1469-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Agreements through clerks, etc."
+   },
+   "text": {
+    "en": "6. For the purposes of this Act, an agreement made with a mercantile agent through a clerk or other person authorised in the ordinary course of business to make contracts of sale or pledge on his behalf shall be deemed to be an agreement with the agent."
+   }
+  },
+  {
+   "id": "SG-H1469-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Provisions as to consignors and consignees"
+   },
+   "text": {
+    "en": "7.—(1) Where the owner of goods has given possession of the goods to another person for the purpose of consignment or sale, or has shipped the goods in the name of another person, and the consignee of the goods has not had notice that such person is not the owner of the goods, the consignee shall, in respect of advances made to or for the use of such person, have the same lien on the goods as if such person were the owner of the goods, and may transfer any such lien to another person.\n(2) Nothing in this section shall limit or affect the validity of any sale, pledge, or disposition, by a mercantile agent."
+   }
+  },
+  {
+   "id": "SG-H1469-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Disposition by seller remaining in possession"
+   },
+   "text": {
+    "en": "8. Where a person, having sold goods, continues, or is, in possession of the goods or of the documents of title to the goods, the delivery or transfer by that person, or by a mercantile agent acting for him, of the goods or documents of title under any sale, pledge, or other disposition thereof, or under any agreement for sale, pledge, or other disposition thereof, to any person receiving the same in good faith and without notice of the previous sale, shall have the same effect as if the person making the delivery or transfer were expressly authorised by the owner of the goods to make the same."
+   }
+  },
+  {
+   "id": "SG-H1469-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Disposition by buyer obtaining possession"
+   },
+   "text": {
+    "en": "9. Where a person, having bought or agreed to buy goods, obtains with the consent of the seller possession of the goods or the documents of title to the goods, the delivery or transfer, by that person or by a mercantile agent acting for him, of the goods or documents of title under any sale, pledge, or other disposition thereof, or under any agreement for sale, pledge, or other disposition thereof, to any person receiving the same in good faith and without notice of any lien or other right of the original seller in respect of the goods, shall have the same effect as if the person making the delivery or transfer were a mercantile agent in possession of the goods or documents of title with the consent of the owner."
+   }
+  },
+  {
+   "id": "SG-H1469-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Effect of transfer of documents on vendor’s lien or right of stoppage in transitu"
+   },
+   "text": {
+    "en": "10. Where a document of title to goods has been lawfully transferred to a person as a buyer or owner of the goods, and that person transfers the document to a person who takes the document in good faith and for valuable consideration, the last-mentioned transfer shall have the same effect for defeating any vendor’s lien or right of stoppage in transitu as the transfer of a bill of lading has for defeating the right of stoppage in transitu."
+   }
+  },
+  {
+   "id": "SG-H1469-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Mode of transferring documents"
+   },
+   "text": {
+    "en": "11. For the purposes of this Act, the transfer of a document may be by endorsement, or, where the document is by custom or by its express terms transferable by delivery or makes the goods deliverable to the bearer, then by delivery."
+   }
+  },
+  {
+   "id": "SG-H1469-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Saving for rights of true owner"
+   },
+   "text": {
+    "en": "12.—(1) Nothing in this Act shall authorise an agent to exceed or depart from his authority as between himself and his principal, or exempt him from any liability, civil or criminal, for so doing.\n(2) Nothing in this Act shall prevent the owner of goods from recovering the goods from any agent or his trustee in bankruptcy at any time before the sale or pledge thereof, or shall prevent the owner of goods pledged by any agent from having the right to redeem the goods at any time before the sale thereof, on satisfying the claim for which the goods were pledged, and paying to the agent, if by him required, any money in respect of which the agent would by law be entitled to retain the goods or the documents of title thereto, or any of them, by way of lien as against the owner, or from recovering from any person with whom the goods have been pledged any balance of money remaining in his hands as the produce of the sale of the goods after deducting the amount of his lien.\n(3) Nothing in this Act shall prevent the owner of goods sold by an agent from recovering from the buyer the price agreed to be paid for the same, or any part of that price, subject to any right of set off on the part of the buyer against the agent."
+   }
+  },
+  {
+   "id": "SG-H1469-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Saving for common law powers of agent"
+   },
+   "text": {
+    "en": "13. The provisions of this Act shall be construed in amplification and not in derogation of the powers exercisable by an agent independently of this Act."
+   }
+  },
+  {
+   "id": "SG-H1469-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "14. This Act may be cited as the Factors Act 1889."
+   }
+  }
+ ]
+}

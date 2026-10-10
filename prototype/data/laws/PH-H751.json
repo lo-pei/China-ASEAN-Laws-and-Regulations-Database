@@ -1,0 +1,104 @@
+{
+ "id": "PH-H751",
+ "title": {
+  "zh": "对《国家国内税收法典》的修改",
+  "en": "An Act to Amend Sections Two Hundred and Forty-two, Two Hundred and Forty-three and to Repeal Section Two Hundred and Forty-four of Commonwealth Act Numbered Four Hundred and Sixty-six, Otherwise Known as the National Internal Revenue Code",
+  "orig": "An Act to Amend Sections Two Hundred and Forty-two, Two Hundred and Forty-three and to Repeal Section Two Hundred and Forty-four of Commonwealth Act Numbered Four Hundred and Sixty-six, Otherwise Known as the National Internal Revenue Code"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p10",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1953-06-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 909",
+ "officialCode": null,
+ "topics": [
+  "tax"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 2971,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1953/ra_909_1953.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 6 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1953/ra_909_1953.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H751-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Paragraph (b) of section two hundred and forty-two of Commonwealth Act Numbered Four hundred and sixty-six is hereby amended to read as follows:\n\"(b) Royalties \"(1) On coal, such royalties as may be specified in the lease, which shall not be less than ten centavos per ton of one thousand and sixteen kilograms.\n\"(2) On gold, a royalty of one and one-half per centum of the actual market value of the annual gross output thereof.\n\"(3) On all other minerals, extracted from, or mineral products of, mineral lands of the first, second, fourth and fifth groups as provided for in the Mining Act, a royalty of one and one-half per centum of the actual market value of the gross output thereof.\n\"Before the minerals or mineral products are removed from the mines, the Collector of Internal Revenue or his representatives shall first be notified of such removal on a form prescribed for the purpose.\n\"The rentals and royalties at the rates herein established or at such rates as hereafter may be prescribed by law shall be paid by the lessee and a provision to this affect shall be deemed to be a part of every contract of lease covering the mineral lands and mineral products referred to in this section.\""
+   }
+  },
+  {
+   "id": "PH-H751-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section two hundred and forty-three of Commonwealth Act Numbered Four hundred and sixty-six is also amended to read as follows:\n\"Section 243. Ad valorem taxes on output of mineral lands not covered by lease.—There shall be assessed and collected on the actual market value of the annual gross output of the minerals or mineral products extracted or produced from all mineral lands, not covered by lease, an ad valorem tax, payable to the Collector of Internal Revenue, in the amount of one and one-half per centum of the value of said output.\n\"Before the minerals or mineral products are removed from the mines the Collector of Internal Revenue or his representative shall first be notified of such removal on a form prescribed for the purpose.\""
+   }
+  },
+  {
+   "id": "PH-H751-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Section two hundred and forty-four of Commonwealth Act Numbered Four hundred and sixty-six is repealed."
+   }
+  },
+  {
+   "id": "PH-H751-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "New mines, and old mines which resume operation, when certified to as such by the Secretary of Agriculture and Natural Resources upon the recommendation of the Director of Mines, shall be exempt from the payment of income tax during the first three years of actual commercial production: Provided, That, any such mine and/or mines making a complete return of its capital investment at any time within the said period, shall pay income tax from that year."
+   }
+  },
+  {
+   "id": "PH-H751-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Notwithstanding the provisions of section one hundred and ninety of the Internal Revenue Code and section one of Republic Act Numbered Six hundred and one, known as the Foreign Exchange Tax, all articles imported by gold mining Companies which will be used in the operation of the said mining companies are exempt from tax: Provided, That these exemptions shall apply during a period of three years."
+   }
+  },
+  {
+   "id": "PH-H751-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
+   }
+  }
+ ]
+}

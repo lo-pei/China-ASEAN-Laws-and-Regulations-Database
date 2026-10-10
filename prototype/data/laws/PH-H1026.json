@@ -1,0 +1,104 @@
+{
+ "id": "PH-H1026",
+ "title": {
+  "zh": null,
+  "en": "An Act to Demonetize Treasury Certificates and Central Bank Notes of Over One Hundred Peso Denominations and for Other Purposes",
+  "orig": "An Act to Demonetize Treasury Certificates and Central Bank Notes of Over One Hundred Peso Denominations and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p14",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1954-08-25",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1191",
+ "officialCode": null,
+ "topics": [
+  "tax"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 2938,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1954/ra_1191_1954.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 6 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1954/ra_1191_1954.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1026-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Any provisions of law, rules and regulations to the contrary notwithstanding, the Central Bank of the Philippines is hereby ordered to demonetized Treasury certificates and Central Bank notes of the denominations of over one hundred pesos, and to replace them with certificates and bank notes of lower denominations."
+   }
+  },
+  {
+   "id": "PH-H1026-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "To carry out the purposes of this Act, the owners or holders of Treasury certificates and Central Bank notes, either individual persons, associations, corporations, or institutions, of the denominations of over one hundred pesos, are required to surrender them to the Central Bank of the Philippines within six months from the approval of this Act, and in exchange to receive from the Bank their equivalent amount in money in Treasury Certificates or Central Bank notes of smaller denominations."
+   }
+  },
+  {
+   "id": "PH-H1026-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The Central Bank, through its monetary Board, shall promulgate the necessary rules and regulations to effect and facilitate the surrendering and replacing of said Treasury certificates and Central Bank notes to be demonetized, under the provisions of this Act. There shall be no question asked from the owners or holders as to the origin of said treasury certificates and bank notes and as to whether taxes were collected on them or not in the preceding years. Said paper money shall, in case where the owners or holders failed to include them in their corresponding tax returns, be included in their income tax returns and in other forms of taxes corresponding to the calendar year nineteen hundred and fifty-three without incurring any penalty."
+   }
+  },
+  {
+   "id": "PH-H1026-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "The Central Bank shall publish or cause to be published the serial numbers of the Treasury certificates and Central Bank notes that have been demonetized and surrendered under the provisions of this Act, and, likewise, it shall publish or cause to be published, the serial numbers of those which have not been surrendered or which must have been lost, as shall be known by the Central Bank from the treasury certificates and bank notes that have been surrendered and replaced."
+   }
+  },
+  {
+   "id": "PH-H1026-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "To all intents and purposes, the Treasury certificates and the Central Bank notes of the denominations of over one hundred pesos, demonetized under this Act, shall be considered as condemned by the Central Bank of the Philippines after six months from the approval of this Act and no issuance of such denominations except in an emergency shall be made for at least one year from the date such denominations are considered condemned under the provisions of this section. Nothing in this Act, however, shall prevent the owners or holders of said treasury certificates and bank notes for using them in buying government bonds and securities and such industrial bonds and securities as shall be approved by the Securities and Exchange Commission or in depositing them in banks during said period of six months after approval of this Act."
+   }
+  },
+  {
+   "id": "PH-H1026-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: August 25, 1954."
+   }
+  }
+ ]
+}

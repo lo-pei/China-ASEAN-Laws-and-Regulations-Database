@@ -1,0 +1,215 @@
+{
+ "id": "SG-H3198",
+ "title": {
+  "zh": null,
+  "en": "Merchant Shipping (Returns of Births and Deaths) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p40",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MSA1995-RG26",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 14,
+ "chars": 10454,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MSA1995-RG26?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 14 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 3 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3198-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Merchant Shipping (Returns of Births and Deaths) Regulations."
+   }
+  },
+  {
+   "id": "SG-H3198-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definition"
+   },
+   "text": {
+    "en": "2. In these Regulations, “Registrar-General” means the Registrar-General of Births and Deaths appointed under the Registration of Births and Deaths Act (Cap. 267) and includes any registrar appointed thereunder."
+   }
+  },
+  {
+   "id": "SG-H3198-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Where person is born on board Singapore ship outside Singapore"
+   },
+   "text": {
+    "en": "3. Where a child is born on board a Singapore ship which is outside Singapore, the master of the ship shall make a return of the birth in accordance with regulations 6 and 7."
+   }
+  },
+  {
+   "id": "SG-H3198-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Where person dies on board Singapore ship outside Singapore"
+   },
+   "text": {
+    "en": "4. Where —\n(a)any person dies on board a Singapore ship which is outside Singapore; or\n(b)any person employed in any Singapore ship dies outside Singapore,\nthe master of the ship shall —\n(i)make a return of the death in accordance with regulations 6 and 7; and\n(ii)as soon as practicable but not more than 3 days after the death, notify the death to such person (if any) as the deceased may have named to him as his next-of-kin."
+   }
+  },
+  {
+   "id": "SG-H3198-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Where citizen of Singapore is born or dies on board ship not registered in Singapore"
+   },
+   "text": {
+    "en": "5. Where —\n(a)a citizen of Singapore is born or dies on board a ship not registered in Singapore; and\n(b)the ship thereafter calls at Singapore in the course of or at the end of the voyage during which the birth or death occurs,\nthe master of the ship shall make a return of the birth or of the death in accordance with regulations 6 and 7."
+   }
+  },
+  {
+   "id": "SG-H3198-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Person by whom, and time within which, return of birth or death to be made"
+   },
+   "text": {
+    "en": "6. Any return of a birth or of a death required to be made under regulation 3, 4 or 5 shall be made by the master of the ship to the Director as soon as practicable but within 30 days after the birth or death to which it relates."
+   }
+  },
+  {
+   "id": "SG-H3198-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Form and contents of return of birth or death"
+   },
+   "text": {
+    "en": "7. A return of a birth or of a death required to be made under regulation 3, 4 or 5 —\n(a)shall be in writing;\n(b)shall be signed by the master of the ship as informant; and\n(c)shall contain —\n(i)in the case of a birth, the particulars specified in the First Schedule; and\n(ii)in the case of a death, the particulars specified in the Second Schedule, or so many of these particulars as the master may reasonably be able to obtain, having regard to the circumstances of the death."
+   }
+  },
+  {
+   "id": "SG-H3198-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Director to send copy of return to Registrar-General"
+   },
+   "text": {
+    "en": "8. When a return made in accordance with regulations 6 and 7 has been transmitted to him, the Director shall send a copy certified by him to be a true copy of that return to the Registrar-General."
+   }
+  },
+  {
+   "id": "SG-H3198-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Inquiry into cause of death"
+   },
+   "text": {
+    "en": "9.—(1) Where a death has occurred on board a ship, the master of the ship shall inquire into the nature and cause of the death and shall forward a report of the inquiry to the Director without delay.\n(2) The report shall contain the particulars specified in the Third Schedule, or so many of these particulars as the master may reasonably be able to obtain having regard to the circumstances of the death."
+   }
+  },
+  {
+   "id": "SG-H3198-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Where master of ship unable to perform duty under regulation 9"
+   },
+   "text": {
+    "en": "10. Where it appears to the Director that the master of a ship cannot perform the duty imposed on him by regulation 9 in respect of a death on board the ship because the master has himself died or is incapacitated or missing, the Director shall record such of the information specified in the Second and Third Schedules as he may be able to obtain in the circumstances of the death."
+   }
+  },
+  {
+   "id": "SG-H3198-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Offence"
+   },
+   "text": {
+    "en": "11. The master of a ship who fails to comply with the provisions of regulation 3, 4, 5, 6, 7 or 9 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000."
+   }
+  },
+  {
+   "id": "SG-H3198-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 7 (c) (i)\nParticulars required to be contained in returns of births under regulations 3, 5, 6 and 7.\n1. Ship in which birth occurred —\n(a)name of the ship; and\n(b)official number.\n2. Child —\n(a)date and time (in Greenwich Mean Time) of birth;\n(b)\n(i)if the birth takes place at sea, the position of the ship by latitude and longitude at the time of birth; and\n(ii)in any other case, the place of birth;\n(c)name (if any) and surname; and\n(d)sex.\n3. Father —\n(a)name and surname;\n(b)country of domicile;\n(c)race and nationality;\n(d)National registration identity card or passport number;\n(e)occupation, rank or profession; and\n(f)date of birth,\nbut if the child is illegitimate, no particulars of the father shall be given except at the joint request of the mother and of the person acknowledging himself to be the father, given to the informant in writing and signed by both the mother and that person.\n4. Mother —\n(a)name;\n(b)\n(i)maiden surname; and\n(ii)surname at marriage, if different from maiden surname;\n(c)country of domicile;\n(d)race and nationality;\n(e)National registration identity card or passport number; and\n(f)date of birth.\n5. Informant —\n(a)full name of master;\n(b)country of domicile;\n(c)race and nationality;\n(d)address; and\n(e)qualification."
+   }
+  },
+  {
+   "id": "SG-H3198-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 7 (c) (ii)\nParticulars required to be contained in returns of deaths under regulations 4, 5, 6 and 7.\n1. The ship in which the death occurred or in which the deceased was employed —\n(a)name of ship;\n(b)official number; and\n(c)name of its owner and his address.\n2. The deceased —\n(a)date of death or loss;\n(b)\n(i)if the death takes place on board the ship or in a ship’s boat or if the deceased is lost from the ship or a ship’s boat, the place of death or, if at sea the position of the ship or ship’s boat by latitude and longitude at the time of death or loss (as the case may require); and\n(ii)in any other case, the place of death;\n(c)name and surname;\n(d)sex;\n(e)date of birth (if known) or age;\n(f)maiden surname (if known) in case of a married woman;\n(g)occupation, rank or profession;\n(h)usual residence at time of death or loss;\n(i)race and nationality;\n(j)National registration identity card or passport number; and\n(k)cause of death or loss (certified if possible by the ship’s doctor or other medical practitioner).\n3. Informant —\n(a)full name of master;\n(b)country of domicile;\n(c)race and nationality;\n(d)address; and\n(e)qualification."
+   }
+  },
+  {
+   "id": "SG-H3198-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulation 9(2)\nParticulars required to be contained in reports of inquiries into deaths under regulation 9.\nPart I\n1. Ship in which the death occurred or in which the deceased was employed —\n(a)name of ship; and\n(b)official number.\n2. The deceased —\n(a)date of death or loss;\n(b)\n(i)if the death takes place on board the ship or on a ship’s boat or if the deceased is lost from the ship, or a ship’s boat, the place of death or loss or, if at sea the position of the ship or ship’s boat by latitude and longitude at the time of death or loss (as the case may require); and\n(ii)in any other case, the place of death;\n(c)name and surname;\n(d)sex;\n(e)date of birth (if known) or age;\n(f)occupation, rank or profession;\n(g)usual residence at time of death or loss;\n(h)race and nationality; and\n(i)cause of death or loss.\nPart II\nParticulars required in every case of death.\n1. The port or place from which the ship departed and the port or place to which the ship was proceeding at the time of the death or loss.\n2. The date of leaving the last port.\n3. The nature of the cargo.\n4. The date and place where the deceased was engaged.\n5. The number of years the deceased had worked at sea.\n6. The competency of the deceased in respect of the work —\n(a)for which he was engaged; and\n(b)on which he was employed at the time of the death or loss.\n7. The nature of any complaint made by the deceased regarding —\n(a)accommodation;\n(b)ventilation;\n(c)sanitary arrangements;\n(d)ship’s gear, life-saving or other equipment;\n(e)food;\n(f)water;\n(g)medical stores;\n(h)ill-treatment;\n(i)threats; or\n(j)neglect.\n8. The number of seamen employed and whether they were sufficient and efficient.\n9. The temperature in the engine-room at the time the deceased fell ill or was injured, if the deceased was a member of the engineering staff and was on duty.\n10. Whether medical or surgical aid was given.\n11. Whether drugs or other medication was given and the number of times given.\n12. The report of the death or loss to the proper authority.\n13. Whether an inquiry by a Coroner or other such authority was held and the result of such an inquiry.\nPart III\nParticulars Required in the Case of Death by Accident, Violence, Suicide or Disappearance.\n1. The place where the deceased was at the time of the occurrence, and if he was on duty, what was he doing.\n2. The period the deceased was on duty.\n3. The efficiency of the seamen working with the deceased at the time of the occurrence.\n4. The state of the ship with regard to her navigation and to the safety of the seamen at work.\n5. The damage or loss sustained by the ship or her machinery, gear, rigging or cargo at the time of the occurrence.\n6. The measures adopted to secure the safety of the deceased if he was employed on work of exceptional danger.\n7. The state of the weather and the sea at the time of occurrence.\n8. The state of the hatchway with regard to lighting and other measures taken to prevent accident at the time of the occurrence if death was due to a fall down a hatchway.\n9. The state of the deceased’s physical appearance and whether the circumstances point to suicide.\n10. In the event that the deceased was missing, the possible explanation for his disappearance.\n11. The name of the person (if any) who saw the deceased falling overboard if the deceased fell overboard.\n12. The relationship of the deceased with the other seamen.\n13. The habits of the deceased with regard to the consumption of intoxicating liquors and narcotics.\n14. The state of the ship’s gangway with regard to lighting and measures taken to prevent accident if the deceased was going to or from the ship at the time of the occurrence.\n15. The means taken to rescue the deceased.\n16. The treatment given to the deceased if he was injured.\n17. The person at fault (if any) and the reason he is at fault.\n18. The primary cause of the occurrence and the immediate cause of death.\nPart IV\nParticulars Required in Case of Death by Disease.\n1. The nature of the disease.\n2. The length of the illness.\n3. The chief symptoms.\n4. In the case of infectious or contagious illness, the steps taken to prevent further infection.\n5. The date the deceased was transferred to the ship’s hospital.\n6. The person attending to the deceased and the treatment given.\n7. The injury or injuries received by deceased in any accident, fight, drunkenness, etc., which contributed to his illness.\n8. In the case of sudden death from cardiac problems or convulsions, the disclosure made by the deceased of his illness.\n9. The habits of the deceased with regard to the consumption of intoxicating liquors and narcotics.\n10. The date of discharge of the deceased from the ship on account of his illness.\n11. The primary cause of the illness and the immediate cause of death.\nPart V\nNames and designation of persons interviewed by the master."
+   }
+  }
+ ]
+}

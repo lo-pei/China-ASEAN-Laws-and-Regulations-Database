@@ -1,0 +1,1241 @@
+{
+ "id": "SG-H3601",
+ "title": {
+  "zh": null,
+  "en": "Public Transport Council Act 1987",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p45",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act PTCA1987",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 76,
+ "chars": 122946,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/PTCA1987?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 76 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 3 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3601-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Public Transport Council Act 1987."
+   }
+  },
+  {
+   "id": "SG-H3601-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“bookable vehicle” means any of the following vehicles used or intended to be used in providing an on‑demand passenger transport service through a booking taken or facilitated by a provider of a ride‑hail service:\n(a)a taxi;\n(b)a private hire car (within the meaning given by the Road Traffic Act 1961) which is hired, or made available for hire, under a contract (express or implied) for use as a whole with a driver for the purpose of conveying one or more passengers (if any) in that car;\n“booking”, in relation to a ride‑hail service, means a booking for a bookable vehicle to be used in providing an on‑demand passenger transport service taken or facilitated by the provider of the ride‑hail service;\n“bus” means any motor vehicle registered as a bus under the Road Traffic Act 1961;\n“bus fare” means the price payable by a passenger for any bus service involving the carriage of the passenger on a bus;\n“bus operator”, in relation to a bus service, means the person who operates the bus service but does not include —\n(a)the Land Transport Authority of Singapore; or\n(b)a person who merely arranges for the registration of a bus, drives a bus, or maintains or arranges for the maintenance of a bus;\n“bus service” means a service for the carriage of passengers for a fare by buses on roads for journeys wholly or partly within Singapore according to predetermined routes and timetables with 2 or more bus stopping points within Singapore, but does not include a bus service excluded from this definition by the Minister by order in the Gazette;\n“bus service licence” means a licence granted (or deemed granted) under the Bus Services Industry Act 2015 to operate one or more bus services;\n“Chairperson” means the Chairperson of the Council and includes any temporary Chairperson of the Council;\n“Chief Executive” means the Chief Executive of the Council, and includes any individual acting in that capacity;\n“clearing”, in relation to a ticket payment service, means any arrangement, process, mechanism or facility provided by a person in respect of ticket transactions, by which —\n(a)information relating to the terms of those transactions are verified by such person with a view to confirming the authenticity of those transactions; or\n(b)the amount payable to the parties under those transactions is calculated and verified;\n“Council” means the Public Transport Council established under section 3;\n“fare” means —\n(a)any bus fare;\n(b)any train fare;\n(c)any ride-hail fare; or\n(d)any street-hail fare;\n“invalid ticket” means a ticket that is for a journey on a bus or train operated by a public bus operator or licensed rapid transit system operator for which a ticket is required and —\n(a)that is used, or attempted to be used —\n(i)for a journey that is not the journey for which the ticket was issued;\n(ii)to over-travel the fare that was paid for the journey, without reasonable excuse; or\n(iii)by a person who is not the first user of a ticket which is non-transferable;\n(b)that has been altered or defaced;\n(c)that is counterfeit; or\n(d)that is expired;\n“Land Transport Authority of Singapore” or “LTA” means the public authority of that name constituted under the Land Transport Authority of Singapore Act 1995;\n“licensed” means —\n(a)licensed under the Bus Services Industry Act 2015 in the case of a bus operator;\n(b)licensed under the Rapid Transit Systems Act 1995 in the case of an operator of a rapid transit system;\n(c)licensed under the Road Traffic Act 1961 in the case of a taxi driver; or\n(d)licensed under the Point-to-Point Passenger Transport Industry Act 2019 in the case of a provider of a ride‑hail service provided using bookable vehicles, or a street‑hail service;\n“licensee” means a person to whom any licence has been granted under this Act;\n“limited liability partnership” has the meaning given by section 4(1) of the Limited Liability Partnerships Act 2005;\n“manager” —\n(a)in relation to a company, means the principal executive officer of the company for the time being by whatever name called and whether or not he or she is a director of the company; and\n(b)in relation to a limited liability partnership, has the meaning given by section 2(1) of the Limited Liability Partnerships Act 2005;\n“on-demand passenger transport service” and “on-demand ride booking service” have the meanings given by the Point‑to‑Point Passenger Transport Industry Act 2019;\n“over-travel”, in relation to a fare, means to remain on a bus or train after the place, distance or time covered by the fare paid for the journey has been reached and includes, for a smartcard ticket, tapping out before the completion of the journey or part of the journey;\n“paid area” means —\n(a)any platform of a railway station that is part of a rapid transit system; and\n(b)any area between such a platform and any ticket barrier access or ticket validating machine past which access is gained to the platform;\n“passenger” means an individual carried upon a bus, train, taxi or bookable vehicle (as the case may be) but does not include —\n(a)an owner, a driver or fare collector of a bus, train, taxi or bookable vehicle while carrying out work or on duty in that capacity; or\n(b)a public transport official while carrying out work or on duty in that capacity;\n“penalty fee” means the penalty fee referred to in section 53;\n“price”, in relation to any fare, includes —\n(a)the amount of any rate, fee, levy and charge and any other valuable consideration (however described) for a journey by bus, train, taxi or bookable vehicle (as the case may be), whether or not it is paid or given to an operator of a bus service or train service, a provider of a street‑hail service or ride‑hail service or a driver of a bus, train, taxi or bookable vehicle;\n(b)the provision of, or arrangements for, a discount, concession, allowance, rebate or credit applying in relation to any amount in paragraph (a); and\n(c)in the case of a ride-hail fare, includes the amount of a booking fee,\nbut does not include a consideration of a kind prescribed by the Minister by order in the Gazette for the purposes of this definition;\n“pricing policy” means the policy for setting any fare, including a policy relating to the level or structure of prices for any fare;\n“public authority” means a body established or constituted by or under a public Act to perform or discharge a public function;\n“public bus operator” means a licensed bus operator who is party to a public bus services contract for the provision of bus services specified in that contract, and includes a licensed bus operator holding a Class 1 bus service licence but is not party to such a contract;\n“public bus services contract” has the meaning given by the Bus Services Industry Act 2015;\n“public service vehicle” has the meaning given by the Road Traffic Act 1961;\n“Public Transport Fund” means the fund of that name established under Part 4;\n“public transport official” means an individual appointed by the Council as a public transport official under section 51;\n“rapid transit system” has the meaning given by the Rapid Transit Systems Act 1995;\n“ride-hail common pricing scheme” means a contract made between the prescribed ride‑hail industry participants providing a ride‑hail service that provides —\n(a)for a common price or price structure for a fare component in relation to that ride‑hail service; and\n(b)for periodic reviews of that common price or price structure,\nand includes any variation of that contract;\n“ride-hail fare” means the price paid or given for the use of a ride‑hail service, whether or not it is paid or given to the provider of the ride‑hail service, a driver or any other person, and includes a booking fee;\n“ride-hail industry participant”, for a type of ride‑hail service, means any of the following:\n(a)a ride-hail service licensee authorised to provide that type of ride‑hail service;\n(b)any person or class of persons prescribed for the purposes of this definition either generally, or with respect to that particular type of ride‑hail service;\n“ride-hail service” means —\n(a)an on-demand passenger transport service of any type provided using bookable vehicles; or\n(b)an on-demand ride booking service of any type provided using bookable vehicles;\n“ride-hail service licensee” means a person to whom a ride-hail service licence to provide a ride-hail service is granted (on renewal or otherwise) or deemed granted under the Point‑to‑Point Passenger Transport Industry Act 2019;\n“smartcard reader” means a device or combination of devices that is capable of electronically reading, recording and processing information from a ticket that is a smartcard, and copying or transferring information from the smartcard and storing and displaying the information in legible form;\n“street-hail common pricing scheme” means a contract made between the prescribed street‑hail industry participants providing a street‑hail service that provides —\n(a)for a common price or price structure for a fare component in relation to that street‑hail service; and\n(b)for periodic reviews of that common price or price structure,\nand includes any variation of that contract;\n“street-hail fare” means the price paid or given for the use of a street‑hail service, whether or not it is paid or given to the provider of the street‑hail service, a driver or any other person, but does not include any booking fee for a taxi made available, or to be made available, in providing on‑demand passenger transport services;\n“street-hail industry participant” means any of the following:\n(a)a street-hail service licensee;\n(b)a taxi driver licensed under the Road Traffic Act 1961 to drive a taxi not owned by a street‑hail service licensee;\n(c)any person or class of persons prescribed for the purposes of this definition either generally, or with respect to a class of street‑hail service;\n“street-hail service” means a service involving the transport by road of passengers within, or partly within, Singapore for hire or reward —\n(a)provided using motor vehicles which are taxis; and\n(b)under which any individual can hail or hire on‑demand such a motor vehicle when it is —\n(i)standing or plying for hire on a road; and\n(ii)authorised under the Point‑to‑Point Passenger Transport Industry Act 2019 or the Road Traffic Act 1961 to stand or ply for hire on a road;\n“street-hail service licensee” means a person to whom a street‑hail service licence to provide a street‑hail service is granted (on renewal or otherwise) or deemed granted under the Point‑to‑Point Passenger Transport Industry Act 2019;\n“tap in”, where payment of a fare is made using a smartcard, means to present a smartcard ticket to a smartcard reader on starting a journey, or part of a journey, resulting in a response from the smartcard reader that the transaction is successful;\n“tapping out”, where payment of a fare is made using a smartcard, means to present a smartcard ticket to a smartcard reader on completing a journey, or part of a journey, resulting in a response from the smartcard reader that the transaction is successful;\n“taxi” means any public service vehicle which is classified as a taxi under the Second Schedule to the Road Traffic Act 1961;\n“ticket” means any form of authorisation, issued for the conveyance of any passenger on a rapid transit system or on any bus operated by a public bus operator, or both;\n“ticket payment service” means —\n(a)a service for —\n(i)the clearing of any ticket transaction; or\n(ii)the sale, topping-up, replacement or refund, or the management of the use, of a mode of payment for tickets; or\n(b)any other services that the Council may, by order in the Gazette, prescribe;\n“ticket payment service licence” means a licence granted under Part 5;\n“ticket transaction” means any record of a fare deduction created by the use of a mode of payment for tickets;\n“train” means a train used as part of a rapid transit system the operation of which is licensed under the Rapid Transit Systems Act 1995;\n“train fare” means the price payable by a passenger for any service involving the carriage of the passenger on a train operated by a licensed rapid transit system operator;\n“train service” means the service for the transport of passengers by one or more trains on a rapid transit system within Singapore for a fare.\n[30/2015; 31/2015; 5/2018; 20/2019]"
+   }
+  },
+  {
+   "id": "SG-H3601-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 PUBLIC TRANSPORT COUNCIL"
+   },
+   "heading": {
+    "en": "Establishment and constitution of Public Transport Council"
+   },
+   "text": {
+    "en": "3.—(1) A council called the Public Transport Council is established, which consists of the following members:\n(a)a Chairperson;\n(b)any other members that the Minister may determine.\n(2) The First Schedule has effect with respect to the Council, its members and proceedings."
+   }
+  },
+  {
+   "id": "SG-H3601-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 PUBLIC TRANSPORT COUNCIL"
+   },
+   "heading": {
+    "en": "Council is body corporate"
+   },
+   "text": {
+    "en": "4.—(1) The Public Transport Council is re-constituted as a body corporate with perpetual succession, capable of all of the following by that name:\n(a)suing and being sued;\n(b)acquiring, holding and disposing of movable and immovable property;\n(c)doing and suffering all acts and things that a body corporate may by law do and suffer.\n[31/2015]\n(2) The Council must have an official seal, which may be broken, changed, altered or made anew as the Council thinks fit.\n[31/2015]\n(3) All deeds and other documents requiring the seal of the Council must be sealed with the official seal of the Council.\n[31/2015]\n(4) Every instrument to which the official seal of the Council is affixed must be signed —\n(a)by any 2 members of the Council generally or specially authorised by the Council for the purpose; or\n(b)by one member of the Council and the Chief Executive.\n[31/2015]\n(5) All courts, judges and persons acting judicially must take judicial notice of the official seal of the Council affixed to any document and must presume that it was duly affixed.\n[3A\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 PUBLIC TRANSPORT COUNCIL"
+   },
+   "heading": {
+    "en": "Functions of Council"
+   },
+   "text": {
+    "en": "5.—(1) The functions of the Council are —\n(a)to set or approve fares and fare pricing policies for bus services, train services, street‑hail services and ride‑hail services in Singapore;\n(b)to promote and facilitate the integration of bus fares and train fares to ensure the provision of efficient public passenger transport services and facilities;\n(c)to evaluate and recommend to the Government improvements to, or otherwise advise the Government in respect of, bus services, train services, street‑hail services and ride‑hail services in Singapore so that they —\n(i)may satisfy all reasonable passenger demands in Singapore for bus services, train services, street‑hail services and ride‑hail services;\n(ii)may offer an attractive alternative to private motor vehicle transport, and the extent of such travel, in Singapore;\n(iii)are effectively and efficiently integrated so as to facilitate seamless travel for passengers within and between different modes of land transport and greater mobility within communities in Singapore; and\n(iv)provide viable public passenger transport services at a reasonable cost to the community and the Government;\n(d)to undertake surveys or other arrangements to obtain public feedback on any matter relating to the provision of bus services, train services, street‑hail services and ride‑hail services in Singapore;\n(e)to exercise licensing and regulatory functions in respect of the provision of ticket payment services in Singapore; and\n(f)to perform such functions as the Minister may, by order in the Gazette, assign.\n[31/2015; 20/2019]\n(2) Nothing in this section is to be construed as imposing on the Council, directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject.\n[4\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 PUBLIC TRANSPORT COUNCIL"
+   },
+   "heading": {
+    "en": "Powers of Council"
+   },
+   "text": {
+    "en": "6.—(1) The Council has power to do anything for the purpose of discharging its functions under this Act or which is incidental or conducive to the discharge of those functions and, in particular, may —\n(a)grant ticket payment service licences and supervise and enforce compliance with the terms of those licences; and\n(b)appoint and employ on such terms and conditions as the Council may determine such officers, employees and agents as the Council thinks fit for the effective performance of its functions.\n[31/2015]\n(2) The Council must furnish the Minister with information with respect to its property and activities in such manner and at such times as the Minister may require.\n[5\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 PUBLIC TRANSPORT COUNCIL"
+   },
+   "heading": {
+    "en": "Directions by Minister"
+   },
+   "text": {
+    "en": "7. The Minister may give to the Council any direction under section 5 of the Public Sector (Governance) Act 2018.\n[5A\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3601-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 PUBLIC TRANSPORT COUNCIL"
+   },
+   "heading": {
+    "en": "Appointment of committees and delegation"
+   },
+   "text": {
+    "en": "8.—(1) The Council may appoint from among its own members or from other persons who are not members such number of committees as it thinks fit for purposes which, in the opinion of the Council, would be better regulated and managed by means of such committees.\n[31/2015]\n(2) The Council may, subject to such conditions or restrictions as it thinks fit, delegate any of the functions, duties or powers of the Council under this Act or any other written law to —\n(a)the Chairperson or Chief Executive;\n(b)any committee appointed under subsection (1); or\n(c)any member, officer or employee of the Council.\n[31/2015]\n(3) However, the Council is not authorised by subsection (2) to delegate any function, duty or power conferred by any provision in Part 8.\n[31/2015; 5/2018]\n(4) Any function, duty or power delegated under subsection (2) to any committee or person may be performed or exercised by the committee or person to whom it has been delegated in the name and on behalf of the Council.\n[5B\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 PUBLIC TRANSPORT COUNCIL"
+   },
+   "heading": {
+    "en": "Chief Executive, officers and employees, etc."
+   },
+   "text": {
+    "en": "9.—(1) There must be a Chief Executive of the Council, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.\n[5/2018]\n(2) The Council may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —\n(a)is absent from duty or Singapore; or\n(b)is, for any reason, unable to perform the duties of the office.\n[5/2018]\n(3) The Council may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, any other officers, employees, consultants and agents that may be necessary for the effective performance of its functions.\n[5C\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3601-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 PUBLIC TRANSPORT COUNCIL"
+   },
+   "heading": {
+    "en": "Preservation of secrecy"
+   },
+   "text": {
+    "en": "10.—(1) Except for the purpose of the performance of his or her duties, or the exercise of his or her functions or when lawfully required to do so by any court or where required or allowed by the provisions of any written law, an individual who is or has been —\n(a)a member, an officer, an employee or an agent of the Council;\n(b)a member of a committee of the Council; or\n(c)an inspector,\nmust not disclose any information relating to the affairs of the Council or of any other person which has been obtained by the individual in the performance of the individual’s duties or the exercise of the individual’s functions under this Act.\n[31/2015; 5/2018]\n(2) Any individual who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.\n[5D\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 PUBLIC TRANSPORT COUNCIL"
+   },
+   "heading": {
+    "en": "Protection from personal liability"
+   },
+   "text": {
+    "en": "11. No liability shall lie personally against any member, officer or employee of the Council, committee member or other person acting under the direction of the Council who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act.\n[6\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Expenses"
+   },
+   "text": {
+    "en": "12. Except as otherwise provided, all expenses incurred in carrying out the purposes of this Act must be met from the funds of the Council.\n[8"
+   }
+  },
+  {
+   "id": "SG-H3601-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Grants to Council"
+   },
+   "text": {
+    "en": "13. For the purpose of enabling the Council to carry out its functions under this Act or any other written law, the Minister may make grants to the Council of such sums as the Minister may determine out of moneys to be provided by Parliament.\n[9"
+   }
+  },
+  {
+   "id": "SG-H3601-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Bank accounts and application of revenue"
+   },
+   "text": {
+    "en": "14.—(1) The Council must open and maintain an account or accounts with such bank or banks as the Council thinks fit.\n(2) Every such account must be operated upon as far as practicable by cheque signed by such person or persons authorised to do so by the Council.\n(3) The moneys of the Council must be applied only in payment or discharge of expenses, obligations and liabilities of the Council and in making any payments that the Council is authorised or required to make.\n[10"
+   }
+  },
+  {
+   "id": "SG-H3601-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Issue of shares, etc."
+   },
+   "text": {
+    "en": "15. As a consequence of —\n(a)the vesting of any property, rights or liabilities of the Government in the Council under this Act; or\n(b)any capital injection or other investment by the Government in the Council in accordance with any written law,\nthe Council must issue such shares or other securities to the Minister for Finance as that Minister may direct.\n[10A\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Power of investment"
+   },
+   "text": {
+    "en": "16. The Council may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965.\n[10B\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Financial year"
+   },
+   "text": {
+    "en": "17. The financial year of the Council begins on 1 April of each year and ends on 31 March of the succeeding year.\n[11\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3601-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 PUBLIC TRANSPORT FUND"
+   },
+   "heading": {
+    "en": "Public Transport Fund"
+   },
+   "text": {
+    "en": "18.—(1) A Government fund called the Public Transport Fund is established comprising —\n(a)all moneys appropriated from the Consolidated Fund and authorised to be paid into the Public Transport Fund by any written law;\n(b)all contributions made pursuant to the Council’s direction under section 50(1), and any other donations made by any person for the purposes of the Fund;\n(c)all financial penalties imposed, on or after 1 April 2016, by the LTA —\n(i)under the Bus Services Industry Act 2015 on a public bus operator for a breach of a condition in the bus service licence; or\n(ii)under the Rapid Transit Systems Act 1995 on a licensed rapid transit system operator for a breach of a condition in the rapid transit system operator’s licence; and\n(d)all investments out of moneys in the Public Transport Fund authorised to be made by this Act and the proceeds of any such investment, including the net income from such investments.\n[31/2015]\n(2) As from 1 April 2016, the Government must pay into the Public Transport Fund such sum as the Minister for Finance may determine out of moneys to be provided by Parliament for the Public Transport Fund.\n[31/2015]\n(3) For the purposes of subsection (1)(d), the net income from investments is the amount ascertained by adding to, or deducting from, the income received from investments of moneys in the Public Transport Fund, any profit derived or loss sustained (as the case may be) from the realisation of such investments.\n[11A\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 PUBLIC TRANSPORT FUND"
+   },
+   "heading": {
+    "en": "Purposes of Public Transport Fund"
+   },
+   "text": {
+    "en": "19.—(1) Subject to section 25, the moneys in the Public Transport Fund may be withdrawn only for the following purposes:\n(a)to provide (directly to individuals or through organisations) cash grants, rebates, reliefs and other financial assistance to passengers using bus services or train services;\n(b)to invest subject to the limits in the Financial Procedure Act 1966 for investments of public moneys;\n(c)to meet expenses referred to in section 20 incidental to or arising from the administration, investment and management of moneys in the Public Transport Fund.\n[31/2015]\n(2) For the purposes of subsection (1)(b), investing includes engaging in any financial activity, or participating in any financial arrangement, for the purpose of managing or hedging against any financial risk that arises or is likely to arise from any investment.\n[11B\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 PUBLIC TRANSPORT FUND"
+   },
+   "heading": {
+    "en": "Expenses"
+   },
+   "text": {
+    "en": "20.—(1) All costs, expenses and charges incurred in relation to making any investment of moneys in the Public Transport Fund must be charged upon and are payable out of that Fund.\n[31/2015]\n(2) All other expenses incidental to or arising from the administration and management of moneys in the Public Transport Fund must be charged upon and are payable out of the Public Transport Fund, including but not limited to the following:\n(a)the cost of auditing the accounts of the Public Transport Fund, and the remuneration of the auditor if he or she is not the Auditor‑General;\n(b)all reasonable legal costs and all reasonable expenses incurred by the LTA in connection with the collection or attempted collection of any outstanding amounts (including any interest) of financial penalties referred to in section 18(1)(c);\n(c)all reasonable expenses incurred by any public authority or person whom the Minister appoints under regulations made under section 27 to disburse financial assistance using moneys in the Public Transport Fund in carrying out their duties under that appointment and doing any thing incidental to or in connection with the purposes of that appointment.\n[31/2015]\n(3) However, no remuneration or allowances payable to a public officer may be met out of moneys in the Public Transport Fund.\n[11C\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 PUBLIC TRANSPORT FUND"
+   },
+   "heading": {
+    "en": "Withdrawals"
+   },
+   "text": {
+    "en": "21.—(1) Moneys cannot be withdrawn from the Public Transport Fund unless they are charged upon that Fund or are authorised to be withdrawn or transferred under this Act.\n[31/2015]\n(2) Despite section 13 of the Financial Procedure Act 1966, payment may be made out of the Public Transport Fund only if the payment is approved by the Minister or an accounting officer authorised, in writing, by the Minister.\n[11D\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 PUBLIC TRANSPORT FUND"
+   },
+   "heading": {
+    "en": "Financial year"
+   },
+   "text": {
+    "en": "22. The financial year of the Public Transport Fund begins on 1 April of each year and ends on 31 March of the succeeding year.\n[11E\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 PUBLIC TRANSPORT FUND"
+   },
+   "heading": {
+    "en": "Accounts"
+   },
+   "text": {
+    "en": "23.—(1) The Minister must designate one or more public officers to be accounting officers of the Public Transport Fund.\n[31/2015]\n(2) Every accounting officer of the Public Transport Fund must —\n(a)cause to be kept proper accounts and records of all transactions and affairs relating to the Public Transport Fund, or the transactions and affairs of the part of that Fund that the accounting officer is in charge of, as the case may be;\n(b)do all things necessary to ensure that payments out of the Public Transport Fund and the disbursement of those moneys are properly authorised and correctly made; and\n(c)ensure that adequate control is maintained over the assets and receipts of the Public Transport Fund, or the assets and receipts of the part of that Fund that the accounting officer is in charge of, as the case may be.\n[31/2015]\n(3) A public officer designated under subsection (1) is also an accounting officer of the Public Transport Fund for the purposes of the Financial Procedure Act 1966.\n[11F\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 PUBLIC TRANSPORT FUND"
+   },
+   "heading": {
+    "en": "Financial statements and audit"
+   },
+   "text": {
+    "en": "24.—(1) As soon as practicable after the close of each financial year, the Minister must —\n(a)cause to be prepared financial statements and accounts of the Public Transport Fund in respect of the financial year; and\n(b)cause to be submitted to the Auditor‑General the financial statements and accounts prepared under paragraph (a).\n[31/2015]\n(2) The Auditor-General must audit or cause an audit of the financial statements and accounts prepared under subsection (1) and report on them.\n[31/2015]\n(3) As soon as the accounts of the Public Transport Fund and the financial statements have been audited, a copy of the audited financial statements, together with a copy of any report made by the Auditor‑General, must be submitted to the Minister.\n[31/2015]\n(4) Where the Auditor‑General is not the auditor of the Public Transport Fund, a copy of the audited financial statements and any report made by the auditor must be forwarded to the Auditor‑General.\n[31/2015]\n(5) The Minister must as soon as practicable cause a copy of the audited financial statements of the Public Transport Fund and the auditor’s report to be presented to Parliament.\n[11G\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 PUBLIC TRANSPORT FUND"
+   },
+   "heading": {
+    "en": "Dissolution of Public Transport Fund"
+   },
+   "text": {
+    "en": "25. Upon dissolution of the Public Transport Fund during any term of office of the Government (within the meaning of the Constitution), the balance then remaining in the Public Transport Fund must be transferred to the Consolidated Fund and added to the reserves of the Government not accumulated by it during that term of office.\n[11H\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 PUBLIC TRANSPORT FUND"
+   },
+   "heading": {
+    "en": "Recovery for overpayment, etc., and offences"
+   },
+   "text": {
+    "en": "26.—(1) Where any amount of moneys in the Public Transport Fund is withdrawn and paid —\n(a)to a person by way of cash grant, rebate, relief or other financial assistance and the person is not eligible to receive that cash grant, rebate, relief or financial assistance, or is eligible for a lower amount;\n(b)without authorisation or in excess of authorisation, to a public authority or person appointed by the Minister under regulations made under section 27 to disburse cash grants, rebates, reliefs or financial assistance using moneys in the Public Transport Fund; or\n(c)for any other purposes which are not authorised or in excess of authorisation under this Act,\nthe amount that has been paid or paid in excess (as the case may be) is recoverable as a debt due to the Government in a court of competent jurisdiction.\n[31/2015]\n(2) If —\n(a)a person furnishes a document, or makes a statement (whether orally, in writing or any other way) or gives information for the purpose of or in connection with obtaining, for that person or another person, any cash grant, rebate, relief or other financial assistance in section 19(1)(a) out of moneys in the Public Transport Fund;\n(b)the document, statement or information is false or misleading, or the statement or information omits any matter or thing without which the statement or information (as the case may be) is misleading; and\n(c)the person knows, or ought reasonably to have known, that the document is false or misleading, or that the statement or information is as described in paragraph (b),\nthe person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.\n[31/2015]\n(3) Subsection (2) does not apply if the document, statement or information is not false or misleading in a material particular, or if the statement or information did not omit any matter or thing without which the statement or information (as the case may be) is misleading in a material particular.\n[11I\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 4 PUBLIC TRANSPORT FUND"
+   },
+   "heading": {
+    "en": "Public Transport Fund regulations"
+   },
+   "text": {
+    "en": "27.—(1) The Minister may make regulations —\n(a)describing the individuals or classes of bus or train passengers to whom cash grants, rebates, reliefs and other financial assistance may be given from moneys in the Public Transport Fund, including the amount, manner of and the terms and conditions for so providing;\n(b)providing for the appointment by the Council of any public authority or other person to disburse cash grants, rebates, reliefs and other financial assistance using moneys in the Public Transport Fund and to do anything incidental;\n(c)prescribing that any act or omission in contravention of any regulations shall be an offence punishable with a fine not exceeding $5,000 or with imprisonment for a term not exceeding 12 months or with both; and\n(d)prescribing anything required to carry out the purposes or provisions of this Part.\n[31/2015]\n(2) All regulations made under this section must be presented to Parliament as soon as possible after publication in the Gazette.\n[11J\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 5 LICENSING OF TICKET PAYMENT SERVICES"
+   },
+   "heading": {
+    "en": "Ticket payment service licences"
+   },
+   "text": {
+    "en": "28.—(1) A person must not provide or cause to be provided any ticket payment service without a ticket payment service licence.\n(2) An application for the grant or renewal of a ticket payment service licence must be made to the Council in such form or manner as the Council may require and must be accompanied by such particulars, information and documents as may be specified by the Council.\n(3) Subject to section 34, upon receipt of an application under subsection (2), the Council may —\n(a)grant or renew the licence permitting the applicant to provide a ticket payment service for such period and on such terms and conditions as the Council thinks fit; or\n(b)refuse to grant or renew the licence.\n[19"
+   }
+  },
+  {
+   "id": "SG-H3601-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 5 LICENSING OF TICKET PAYMENT SERVICES"
+   },
+   "heading": {
+    "en": "Matters to be considered by Council in granting or renewing ticket payment service licences"
+   },
+   "text": {
+    "en": "29. In exercising its discretion to grant, renew or refuse to grant or renew a ticket payment service licence under section 28 and the terms and conditions to impose on the ticket payment service licence, the Council must have regard to the financial standing of the applicant and the applicant’s ability to maintain an adequate, satisfactory, secure and efficient ticket payment service.\n[20"
+   }
+  },
+  {
+   "id": "SG-H3601-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 5 LICENSING OF TICKET PAYMENT SERVICES"
+   },
+   "heading": {
+    "en": "Conditions of ticket payment service licence"
+   },
+   "text": {
+    "en": "30.—(1) Without limiting section 28(3), the Council may, in granting or renewing a ticket payment service licence, impose conditions —\n(a)requiring the payment to the Council of a fee on the grant or renewal of the licence or periodic fees for the duration of the licence, or both, of such amount as may be prescribed by the Council;\n(b)requiring the payment to the Council of a security deposit or performance bond on the grant of the licence, of such amount as may be determined by the Council;\n(c)relating to any fee or charge imposed or collectible by the licensee;\n(d)relating to the provision or operation of any ticket payment service;\n(e)relating to the standards of performance to be complied by the licensee in connection with the provision or operation of ticket payment services;\n(f)relating to competition and the abuse of dominant position with respect to the provision or operation of any ticket payment service;\n(g)requiring the licensee to furnish information with respect to the licensee’s ticket payment service to the Council or any agent appointed by the Council in such manner and at such times as the Council may require;\n(h)requiring the licensee to seek the approval of the Council before making any material change to any operating rule or activity of the licensee’s ticket payment service;\n(i)if the licensee is a company, requiring the approval of the Council for the appointment, reappointment or removal of any individual as the chairperson of the board of directors of that company; and\n(j)requiring the licensee to undergo and pass such audit as the Council may determine for compliance with —\n(i)the relevant provisions of this Act;\n(ii)the terms and conditions of the licence;\n(iii)the codes of practice issued, approved or modified by the Council under section 36;\n(iv)any direction given by the Council under section 37; and\n(v)the standards of performance issued by the Council under paragraph (e).\n[20/2019]\n(2) For the purpose of subsection (1)(j) —\n(a)the audit must be conducted by —\n(i)officers of the Council who have been duly designated by the Council for the purpose; or\n(ii)a qualified independent audit team approved by the Council for the purpose;\n(b)the Council may require the licensee —\n(i)to submit to the Council or to the persons conducting the audit such information as the Council may specify which pertains to the provision or operation of any ticket payment service by the licensee; and\n(ii)to allow the persons conducting the audit to carry out on-site collection or verification of any information which pertains to the provision or operation of any ticket payment service by the licensee;\n(c)any sample size used by the persons conducting the audit is deemed to be reasonable; and\n(d)the costs of and incidental to the conduct of the audit must be borne by the licensee.\n[21"
+   }
+  },
+  {
+   "id": "SG-H3601-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 5 LICENSING OF TICKET PAYMENT SERVICES"
+   },
+   "heading": {
+    "en": "Council may provide ticket payment service"
+   },
+   "text": {
+    "en": "31. If there is for any reason no person providing any ticket payment service for the land transport system in Singapore or any part of the system, the Council may provide or cause to be provided a ticket payment service having regard to the reasonable requirements of the system in Singapore or part thereof.\n[22"
+   }
+  },
+  {
+   "id": "SG-H3601-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 6 FUEL EQUALISATION FUND"
+   },
+   "heading": {
+    "en": "Establishment of Fuel Equalisation Fund"
+   },
+   "text": {
+    "en": "32.—(1) Every person to whom a Class 1 bus service licence or a licence under Part 3 of the Rapid Transit Systems Act 1995 has been granted must —\n(a)establish and maintain a Fuel Equalisation Fund (called in this Part the Fund) for the purpose of mitigating the effects of any increase in fuel price and electricity tariff; and\n(b)pay into the Fund an annual contribution of such amount as the Council may, from time to time, determine.\n[30/2015]\n(2) A person mentioned in subsection (1) must not withdraw any sum of money from the Fund except with the approval of the Council.\n(3) An application to withdraw any sum of money from the Fund must be made to the Council in such form or manner as the Council may require.\n(4) Upon receiving an application under subsection (3), the Council may —\n(a)grant the application to withdraw the sum of money from the Fund in full or in part for the purpose mentioned in subsection (1)(a), subject to such conditions as the Council thinks fit; or\n[Act 17 of 2025 wef 23/09/2026]\n(b)reject the application.\n[22A\n(5) Despite subsection (4), the Council may, subject to such conditions as the Council thinks fit, grant an application to withdraw any sum of money from the Fund, for a purpose other than the purpose mentioned in subsection (1)(a), if —\n(a)the Fund is established and maintained by a person to whom a Class 1 bus service licence has been granted (called A);\n(b)the application is made by A;\n(c)the sum of money applied to be withdrawn does not exceed Z; and\n(d)the sum of money that is applied to be withdrawn does not include any amount paid into the Fund under subsection (1)(b) on or after the date of commencement of section 4 of the Transport Sector (Miscellaneous Amendments) Act 2025.\n[Act 17 of 2025 wef 23/09/2026]\n(6) In subsection (5)(c), Z is an amount determined in accordance with the formula X – Y, where —\n(a)X is the amount standing in the Fund immediately before 1 January 2014; and\n(b)Y is the aggregate of the sum of moneys withdrawn from the Fund under subsection (4)(a) or (5) (as the case may be) on or after 1 January 2014 but prior to the application in question.\n[Act 17 of 2025 wef 23/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H3601-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 6 FUEL EQUALISATION FUND"
+   },
+   "heading": {
+    "en": "Contravention of section 32"
+   },
+   "text": {
+    "en": "33.—(1) If the Council is satisfied that any person mentioned in section 32(1) has contravened section 32(1) or (2) or any condition imposed under section 32(4) or (5), the Council may, by written notice, require that person to pay to the Council a financial penalty in respect of the contravention of an amount not exceeding $100,000.\n[Act 17 of 2025 wef 23/09/2026]\n(2) Unless otherwise directed by the Minister, the financial penalty payable by the person under subsection (1) does not absolve the person —\n(a)from the person’s compliance with section 32(1); and\n(b)if the Council requires the person to do so, from paying into the Fund such sum of money withdrawn by the person from the Fund without the approval of the Council.\n(3) The Council must, in any notice requiring the payment of a financial penalty, specify the date before which the financial penalty is to be paid, being a date not earlier than the end of the period within which an appeal against the decision may be brought under section 40.\n(4) Any financial penalty payable by any person under subsection (1) is recoverable as a debt due to the Council from that person, and the person’s liability to pay such penalty is not affected by the person’s licence ceasing (for any reason) to be in force.\n[22B"
+   }
+  },
+  {
+   "id": "SG-H3601-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL PROVISIONS RELATING TO LICENCES"
+   },
+   "heading": {
+    "en": "Constitution of partnership or company to be licensed"
+   },
+   "text": {
+    "en": "34.—(1) If the applicant for a licence under Part 5 is a partnership, all the partners of the partnership must be approved by the Council before the licence may be granted or renewed.\n[30/2015]\n(2) If the applicant for a licence under Part 5 is a limited liability partnership —\n(a)all the partners of the limited liability partnership must be approved by the Council; and\n(b)where any partner is a company, all the directors of that company must be approved by the Council,\nbefore the licence may be granted or renewed.\n[30/2015]\n(3) If the applicant for a licence under Part 5 is a company, all the directors of the company must be approved by the Council before the licence may be granted or renewed.\n[30/2015]\n(4) A person must not be appointed to be a new partner or director of a licensee unless the person is approved by the Council.\n(5) Every licensee to whom a licence has been granted under Part 5 must inform the Council of —\n(a)if the licensee is a partnership, the withdrawal by, or the expulsion of, any partner from the partnership;\n(b)if the licensee is a limited liability partnership, the withdrawal by, or the expulsion of, any partner from the limited liability partnership and, where any partner is a company, the resignation or removal of any director of that company;\n(c)if the licensee is a company, the resignation or removal of any director of the company; and\n(d)if the licensee is a partnership, limited liability partnership or company, the death of any partner or director.\n[22C\n[30/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL PROVISIONS RELATING TO LICENCES"
+   },
+   "heading": {
+    "en": "Licensee to submit accounts"
+   },
+   "text": {
+    "en": "35.—(1) Every licensee to whom a licence has been granted under Part 5 must submit —\n(a)a copy of the balance sheet and of the profit and loss account for the financial year which have been respectively audited by the licensee’s auditors (including every document required by law to be annexed or attached thereto) and certified to be a true copy by —\n(i)the licensee;\n(ii)if the licensee is a partnership, a partner of the partnership;\n(iii)if the licensee is a limited liability partnership, a partner or manager of the limited liability partnership, as the case may be; or\n(iv)if the licensee is a company, a director or the manager or the secretary of the company, as the case may be; and\n(b)a certified copy of the report of the auditors thereon,\nwithin 3 months after the close of each financial year of the licensee’s undertaking or within such extended period as the Council may approve.\n[30/2015]\n(2) If the balance sheet or profit and loss account is in a language other than English, there must also be annexed to it a translation in English certified to be a correct translation.\n(3) If the balance sheet or profit and loss account did not comply with the requirements of the law in force at the date of the audit, there must be made such additions to and corrections in the copy in order to make it comply with the requirements, and the fact that the copy has been so amended must be stated thereon.\n(4) The licensee must cause to be attached to the profit and loss account a statement or statements of the total revenue and expenditure of the licensee for the financial year containing such particulars and in such form as the Council may direct.\n(5) The statement or statements mentioned in subsection (4) must be duly audited and signed by —\n(a)the licensee;\n(b)if the licensee is a partnership, a partner of the partnership;\n(c)if the licensee is a limited liability partnership, a partner or manager of the limited liability partnership, as the case may be; or\n(d)if the licensee is a company, at least 2 of the directors of the company.\n[22D"
+   }
+  },
+  {
+   "id": "SG-H3601-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL PROVISIONS RELATING TO LICENCES"
+   },
+   "heading": {
+    "en": "Codes of practice, etc."
+   },
+   "text": {
+    "en": "36.—(1) The Council may issue or approve and, from time to time, modify codes of practice in connection with —\n(a)the operation or provision of any ticket payment service by licensees;\n(b)the conduct of licensees; and\n(c)the preservation and promotion of fair competition among providers of ticket payment services.\n[30/2015]\n(2) Every licensee must comply with any code of practice issued, approved or modified by the Council under subsection (1), except that if any provision in any such code of practice is inconsistent with this Act, that provision does not have effect to the extent of the inconsistency.\n(3) The Council may, if the circumstances so warrant, exempt any licensee from any provision in any code of practice, whether unconditionally or subject to such conditions as the Council thinks fit to impose, and whether permanently or for such time as the Council may specify.\n(4) Any code of practice issued, approved or modified by the Council is deemed not to be subsidiary legislation.\n[22E"
+   }
+  },
+  {
+   "id": "SG-H3601-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL PROVISIONS RELATING TO LICENCES"
+   },
+   "heading": {
+    "en": "Directions affecting licensee"
+   },
+   "text": {
+    "en": "37.—(1) The Council may give directions to be observed by licensees for or in respect of the following matters:\n(a)the extent, hours and general level of ticket payment services to be operated or provided by licensees;\n(b)the provision of ticket payment services by licensees;\n(c)the preservation and promotion of fair competition among providers of ticket payment services;\n(d)any other matters affecting the interests of the public in connection with the services provided by licensees.\n[30/2015]\n(2) Any direction given under subsection (1) —\n(a)may require the licensee concerned to do or to refrain from doing (as the case may be) such things as are specified or described in the direction;\n(b)takes effect at such time, being the earliest practicable time, as is determined by or under that direction; and\n(c)may be revoked at any time by the Council.\n(3) Before giving any direction to any licensee under subsection (1), the Council —\n(a)must give notice to the licensee —\n(i)informing the licensee of the proposed direction and setting out its effect; and\n(ii)specifying the time within which representations or objections to the proposed direction may be made by the licensee in connection with the proposed direction,\nunless the Council, in respect of any particular direction, considers that it is not practicable or desirable that such notice be given; and\n(b)must consider any representation or objection which is duly made by the licensee in accordance with paragraph (a)(ii).\n(4) Every licensee must comply with every direction given to the licensee by the Council under this section.\n[22F"
+   }
+  },
+  {
+   "id": "SG-H3601-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL PROVISIONS RELATING TO LICENCES"
+   },
+   "heading": {
+    "en": "Modification of licence conditions"
+   },
+   "text": {
+    "en": "38.—(1) Subject to this section, the Council may, without any compensation, add to, delete or modify the conditions of a licence imposed under this Act.\n(2) Before making any addition to or deletion or modification of the conditions of a licence under subsection (1), the Council must give notice to the licensee —\n(a)stating that it proposes to make the addition, deletion or modification in the manner specified in the notice; and\n(b)specifying the time (not being less than 28 days from the date of service of the notice on such licensee) within which the licensee may make written representations to the Council with respect to the proposed addition, deletion or modification.\n(3) Upon receipt of any written representation referred to in subsection (2)(b), the Council must consider the representation and may —\n(a)reject the representation;\n(b)amend the proposed addition, deletion or modification in such manner as it thinks fit having regard to the representation; or\n(c)withdraw the proposed addition, deletion or modification.\n(4) Where the Council —\n(a)rejects any written representation under subsection (3)(a); or\n(b)amends any proposed addition, deletion or modification under subsection (3)(b),\nthe Council must issue a written direction to the licensee requiring the licensee, within the time specified by the Council, to give effect to the addition, deletion or modification as specified in the notice or as amended by the Council, as the case may be.\n(5) The Council must not enforce its direction —\n(a)during the period referred to in section 40(1); and\n(b)while the appeal of the licensee is under consideration by the Minister.\n(6) If no written representation is received by the Council within the time specified in subsection (2)(b) or if any written representation made under that subsection is subsequently withdrawn, the Council may immediately carry out the addition to or deletion or modification of the conditions of the licence as specified in the notice given to the licensee under subsection (2).\n[22G"
+   }
+  },
+  {
+   "id": "SG-H3601-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL PROVISIONS RELATING TO LICENCES"
+   },
+   "heading": {
+    "en": "Suspension or cancellation of licence, etc."
+   },
+   "text": {
+    "en": "39.—(1) Subject to subsection (2), if any licensee —\n(a)contravenes or fails to secure the compliance by the licensee’s employees, agents or contractors with —\n(i)any condition of a ticket payment service licence; or\n(ii)any provision of this Act;\n(b)in the opinion of the Council, fails or is likely to fail to provide and maintain an adequate, satisfactory, secure and efficient ticket payment service;\n(c)goes into compulsory or voluntary liquidation other than for the purpose of reconstruction or amalgamation;\n(d)makes any assignment to, or composition with, the licensee’s creditors;\n(e)fails to comply with any code of practice issued, approved or modified under section 36; or\n(f)fails to comply with any direction given under section 37,\nthe Council may, by written notice and without any compensation, do all or any of the following:\n(g)suspend or cancel the licence of the licensee;\n(h)forfeit the whole or any part of any security deposit or performance bond paid to the Council by the licensee or by the licensee’s bank pursuant to a bank guarantee;\n(i)require the licensee to pay, within a specified period, a financial penalty of such amount not exceeding $100,000 for each contravention or breach as the Council thinks fit.\n[30/2015]\n(2) The Council must not impose any financial penalty under subsection (1)(i) on any licensee by reason only that under subsection (1)(b) the Council is of the opinion that the licensee is likely to fail to provide and maintain an adequate and satisfactory bus service or an adequate, satisfactory, secure and efficient ticket payment service, as the case may be.\n[22H"
+   }
+  },
+  {
+   "id": "SG-H3601-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL PROVISIONS RELATING TO LICENCES"
+   },
+   "heading": {
+    "en": "Appeal to Minister"
+   },
+   "text": {
+    "en": "40.—(1) Any licensee aggrieved by —\n(a)any refusal by the Council to renew a licence under section 28(3);\n(b)any condition imposed by the Council under section 30(1)(e);\n(c)any decision of the Council made under section 32(4) or (5), 33(1) or 39(1)(g), (h) or (i);\n[Act 17 of 2025 wef 23/09/2026]\n(d)anything contained in any code of practice issued, approved or modified by the Council under section 36; or\n(e)any direction given by the Council under section 37 or issued by the Council under section 38(4),\nmay, within 14 days of the receipt of the notice relating to the relevant matter, appeal to the Minister.\n[30/2015]\n(2) Unless otherwise provided, where an appeal is lodged under this section, the decision, direction or other thing appealed against must be complied with until the determination of the appeal.\n(3) The Minister may determine an appeal under this section by confirming, varying or reversing any decision or direction of the Council or by amending any condition imposed or code of practice issued, approved or modified by the Council.\n(4) The decision of the Minister in any appeal is final.\n[22I"
+   }
+  },
+  {
+   "id": "SG-H3601-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 8 BUS FARES, STREET‑HAIL AND RIDE‑HAIL FAREPRICING POLICIES AND TRAIN FARES"
+   },
+   "heading": {
+    "en": "Bus, train, street-hail and ride-hail fares"
+   },
+   "text": {
+    "en": "41.—(1) A person must not demand or take from a bus passenger, for any bus service involving the carriage of the passenger on a bus and operated by the person, or by the person on behalf of the licensed bus operator of the bus service, a bus fare that —\n(a)is more than the maximum price approved under section 47 or 48 for that bus service;\n(b)is inconsistent with any part of the pricing policy set or approved under section 47 or 48 for that bus service; or\n(c)is different from the bus fare last published by the licensed bus operator for that bus service.\n[31/2015; 20/2019]\n(2) A person must not demand or take from a train passenger, for any train service involving the carriage of the passenger on a train and operated by the person, or by the person on behalf of the licensed rapid transit system operator, a train fare that —\n(a)is more than the maximum price approved under section 47 or 48 for that train service;\n(b)is inconsistent with any part of the pricing policy set or approved under section 47 or 48 for that train service; or\n(c)is different from the train fare last published by the licensed rapid transit system operator for that train service.\n[31/2015]\n(3) A person must not initiate the collection of, or collect, a street‑hail fare for a passenger’s journey in a taxi provided in the course of a street‑hail service if the street‑hail fare —\n(a)is inconsistent with any part of the pricing policy set under section 43 for that street‑hail service; or\n(b)is more than the street‑hail fare last published by the street‑hail service licensee authorised to provide that street‑hail service.\n[20/2019]\n(4) A person must not initiate the collection of, or collect, a ride‑hail fare for a passenger’s journey in a bookable vehicle provided in the course of an on‑demand passenger transport service relating to a ride‑hail service if the ride‑hail fare —\n(a)is inconsistent with any part of the pricing policy set under section 45 for that ride‑hail service; or\n(b)is more than the ride‑hail fare last published by the ride‑hail service licensee authorised to provide that ride‑hail service.\n[20/2019]\n(5) A street‑hail service licensee or ride‑hail service licensee which offers to the public, or any section of the public, as the case may be —\n(a)any street‑hail service for any street‑hail fare that is inconsistent with any part of the pricing policy set under section 43 for that street‑hail service; or\n(b)any ride‑hail service for any ride‑hail fare that is inconsistent with any part of the pricing policy set under section 45 for that ride‑hail service,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 6 months or to both.\n[20/2019]\n(6) If any dispute arises as to the fare calculated according to distance, the dispute may be referred to the Council or to the officer‑in‑charge of any police station whose decision is final, and any certificate issued by the Council or the police officer with regard thereto is admissible in evidence.\n(7) Any person who demands or takes or attempts to take any money in contravention of subsection (1), (2), (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.\n[31/2015; 20/2019]\n(8) To avoid doubt, an offence under this section is a strict liability offence.\n[20/2019]\n(9) For the purposes of this section, where the Council revokes or suspends its approval of any bus fare or train fare under section 47(5) or (6)(a) (called in this section the replaced fare) —\n(a)the last revocation revives the bus fare or train fare approved (if any) by the Council previous to it approving the replaced fare, and with effect from the revocation, the bus fare or train fare revived is to be regarded as an approved maximum price for the fare; or\n(b)for the period of suspension, the bus fare or train fare approved by the Council previous to the suspension of the replaced fare is revived, and for that period, the replaced bus fare or train fare is not to be regarded as an approved maximum price for the fare.\n[31/2015]\n(10) To avoid doubt, subsections (1) and (7) bind —\n(a)the Land Transport Authority of Singapore in respect of every public bus services contract it is a party to, or when the Land Transport Authority of Singapore operates a bus service, as if it is the bus operator in that subsection;\n(b)every public bus operator providing bus services under a public bus services contract as if it is the bus operator in that subsection; and\n(c)every employee of the Land Transport Authority of Singapore or a bus operator referred to in paragraph (b) employed to deliver those bus services.\n[23\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 8 BUS FARES, STREET‑HAIL AND RIDE‑HAIL FAREPRICING POLICIES AND TRAIN FARES"
+   },
+   "heading": {
+    "en": "Obtaining information for fare setting or reviews, etc."
+   },
+   "text": {
+    "en": "42.—(1) In this section, “relevant person” means —\n(a)any licensed bus operator;\n(b)any licensed rapid transit system operator; or\n(c)any street‑hail industry participant or ride‑hail industry participant.\n[31/2015; 20/2019]\n(2) The Council may by written notice require a relevant person to furnish, within a reasonable period and in such form and manner as may be specified in the notice, such accounts, financial statements or other documents and information —\n(a)which the Council considers necessary to carry out the functions or duties of or assigned to the Council by or under section 43, 45, 47 or 48; and\n(b)which are within the knowledge of the relevant person or are in the relevant person’s custody or under the relevant person’s control.\n[31/2015; 20/2019]\n(3) The power to require a relevant person to furnish any accounts, financial statements, document or information under subsection (2) includes the power to require the relevant person, or any person who is or was an officer or employee of the relevant person, to provide an explanation of the accounts, financial statements, document or information.\n[31/2015]\n(4) Any person who, in furnishing any accounts, financial statements, document or information required under subsection (2) —\n(a)makes a statement which the person knows to be false or misleading in a material particular; or\n(b)recklessly makes a statement which is false or misleading in a material particular,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.\n[31/2015]\n(5) Any person who, without reasonable excuse, refuses to furnish any accounts, financial statements, document or information required under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.\n[31/2015]\n(6) The Council may by written notice require the LTA to furnish or supply to the Council any particulars or information —\n(a)which are obtained by the LTA in the performance of its function under the Bus Services Industry Act 2015; and\n(b)which the Council considers necessary to carry out the functions or duties of or assigned to the Council by or under this Part.\n[31/2015]\n(7) Despite the provisions of the Land Transport Authority of Singapore Act 1995, the LTA must furnish the particulars and information required under subsection (6) within such time as may be agreed to between the Council and the LTA.\n[23A\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 8 BUS FARES, STREET‑HAIL AND RIDE‑HAIL FAREPRICING POLICIES AND TRAIN FARES"
+   },
+   "heading": {
+    "en": "Street-hail fare pricing policy orders"
+   },
+   "text": {
+    "en": "43.—(1) Subject to subsection (4) and any regulations made under subsection (8), the Council may, by order in the Gazette (called a street‑hail fare pricing policy order), set the pricing policy for street‑hail fares for any street‑hail service.\n[31/2015; 20/2019]\n(2) A street‑hail fare pricing policy order for a street‑hail service may set the price‑fixing factors for street‑hail fares in any manner the Council considers appropriate, including —\n(a)fixing the components of street‑hail fares for the street‑hail service;\n(b)fixing the pricing policy or principles that are to be applied in relation to the street‑hail service provided;\n(c)specifying a factor or factors to be applied, and the manner in which such a factor is or factors are to be applied, in setting street‑hail fares or terms and conditions for the street‑hail service provided;\n(d)fixing the basis on which prices of street‑hail fares are to be calculated for different taxis, for different types of journeys by taxis, for different passengers or for hiring of taxis in different circumstances;\n(e)fixing a price for components of a street‑hail fare where a street‑hail common pricing scheme is permitted and there is no street‑hail common pricing scheme in effect;\n(f)fixing a maximum or minimum price or price range, or a maximum rate of increase or decrease or minimum rate of increase or decrease in the price or the maximum and minimum price for street‑hail fares for the street‑hail service provided, or other price control formula;\n(g)regulating or prohibiting payment surcharges and charges on transactions involving payment of a street‑hail fare; and\n(h)any other terms the Council considers appropriate.\n[31/2015; 20/2019]\n(3) A street‑hail fare pricing policy order for a street‑hail service may —\n(a)permit the street‑hail industry participants, by a street‑hail common pricing scheme, to vary one or more components of a street‑hail fare for the street‑hail service set for that component in the street‑hail fare pricing policy order; and\n(b)require a street‑hail industry participant to provide information to other street‑hail industry participants, passengers, prospective passengers or others, or generally publish, or cause to be published, information, relating to its prices of and pricing policies for street‑hail fares for street‑hail services provided by the street‑hail industry participant.\n[31/2015; 20/2019]\n(4) In making a street‑hail fare pricing policy order, the Council may consider the following factors:\n(a)the demand and supply of street‑hail services and ride‑hail services;\n(b)the standards of quality, reliability and safety of the street‑hail services and ride‑hail services, whether those standards are specified by legislation, agreement or otherwise, and any suggested or actual changes to those standards;\n(c)the need for greater efficiency in providing passengers responsive, safe, competitive, efficient and accessible street‑hail services and ride‑hail services;\n(d)any other matters that the Council considers relevant.\n[31/2015; 20/2019]\n(5) A street‑hail fare pricing policy order under subsection (1) takes effect on a date specified in the order, and —\n(a)cannot be varied (except as contemplated by the order); and\n(b)may be revoked by the Council with or without making another street‑hail fare pricing policy order in replacement.\n[31/2015; 20/2019]\n(6) Before the date a street‑hail fare pricing policy order under subsection (1) comes into effect, the Council must give notice of the making of the order in such manner as will secure adequate publicity for it.\n[31/2015; 20/2019]\n(7) However, failure to comply with subsection (6) in respect of any such order under subsection (1) does not in itself invalidate the order.\n[31/2015]\n(8) The Minister may make regulations prescribing the content, form and procedure that must be followed by the Council in connection with the preparation and making of a street‑hail fare pricing policy order for the purposes of subsection (1).\n[23B\n[31/2015; 20/2019]"
+   }
+  },
+  {
+   "id": "SG-H3601-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 8 BUS FARES, STREET‑HAIL AND RIDE‑HAIL FAREPRICING POLICIES AND TRAIN FARES"
+   },
+   "heading": {
+    "en": "Lodgment of street‑hail fares and street‑hail common pricing schemes"
+   },
+   "text": {
+    "en": "44.—(1) Within the prescribed period after a street‑hail fare pricing policy order is made for any street‑hail service but before it takes effect for the street‑hail service, every street‑hail industry participant providing that street‑hail service must —\n(a)determine the prices of street‑hail fares for that street‑hail service if no prices are set by that order; and\n(b)lodge with the Council those prices determined, together with any supporting information the Council may require.\n[31/2015; 20/2019]\n(2) Where a street‑hail fare pricing policy order for a street‑hail service permits a street‑hail common pricing scheme to vary one or more components of the street‑hail fare in the street‑hail fare pricing policy order, the prescribed street‑hail industry participants for the street‑hail common pricing scheme —\n(a)may start collective negotiations among themselves to determine the common prices of those components of street‑hail fares to be charged, or to vary those common prices, and the period during which those prices will apply; and\n(b)must lodge with the Council the street‑hail common pricing scheme with the common prices determined or varied under that scheme and the effective date of those prices, together with any supporting information the Council may require.\n[31/2015; 20/2019]\n(3) The common prices last lodged with the Council under subsection (2)(b) for any component of a street‑hail fare for street‑hail services have the effect of varying, from the date specified in the lodgment, any price set by the Council in the street‑hail fare pricing policy order for that component for those street‑hail services (even though not agreed to by all the prescribed street‑hail industry participants providing those street‑hail services) until the street‑hail common pricing scheme is terminated.\n[31/2015; 20/2019]\n(4) A group of licensed taxi drivers who drive taxis not owned by a street‑hail service licensee may appoint an association, organisation or a body (whether corporate or unincorporate) recognised by the Council for the purpose of this section to be a bargaining representative to negotiate a street‑hail common pricing scheme on behalf of the group.\n[31/2015; 20/2019]\n(5) To have effect, a street‑hail common pricing scheme for any component of a street‑hail fare —\n(a)must be in writing;\n(b)must be agreed to by the street‑hail industry participants prescribed for that component of the street‑hail fare;\n(c)must be made after following the procedure (if prescribed) in connection with the preparation and making; and\n(d)must state a process for dispute resolution.\n[31/2015; 20/2019]\n(6) A street‑hail industry participant may be party to more than one street‑hail common pricing scheme.\n[31/2015; 20/2019]\n(7) For the purposes of the Third Schedule to the Competition Act 2004, every street‑hail common pricing scheme permitted by a street‑hail fare pricing policy order is, when made, to be regarded as an agreement made in order to comply with a legal requirement.\n[23C\n[31/2015; 20/2019]"
+   }
+  },
+  {
+   "id": "SG-H3601-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 8 BUS FARES, STREET‑HAIL AND RIDE‑HAIL FAREPRICING POLICIES AND TRAIN FARES"
+   },
+   "heading": {
+    "en": "Ride-hail fare pricing policy orders"
+   },
+   "text": {
+    "en": "45.—(1) Subject to subsection (5) and any regulations made under subsection (9), the Council may, by order in the Gazette (called a ride‑hail fare pricing policy order), set the pricing policy for ride‑hail fares for all types of or any type of ride‑hail service.\n[20/2019]\n(2) Different ride-hail fare pricing policy orders may be made under subsection (1) in relation to different types of ride‑hail services.\n[20/2019]\n(3) A ride-hail fare pricing policy order for a ride‑hail service may set the price fixing factors for ride‑hail fares in any manner the Council considers appropriate, including —\n(a)fixing the components of ride‑hail fares for the ride‑hail service;\n(b)fixing the pricing policy or principles that are to be applied in relation to the ride‑hail service provided;\n(c)specifying a factor or factors to be applied, and the manner in which such a factor is or factors are to be applied, in setting ride‑hail fares or terms and conditions for the ride‑hail service provided;\n(d)fixing the basis on which prices of ride-hail fares are to be calculated for different bookable vehicles, for different types of journeys by bookable vehicles, for different passengers or for hiring of bookable vehicles in different circumstances;\n(e)fixing a price for components of a ride‑hail fare where a ride‑hail common pricing scheme is permitted and there is no ride‑hail common pricing scheme in effect;\n(f)fixing a maximum or minimum price or price range, or a maximum rate of increase or decrease or minimum rate of increase or decrease in the price or the maximum and minimum price for ride‑hail fares for the ride‑hail service provided, or other price control formula;\n(g)regulating or prohibiting payment surcharges and charges on transactions involving payment of a ride‑hail fare; and\n(h)any other terms the Council considers appropriate.\n[20/2019]\n(4) A ride-hail fare pricing policy order relating to a type of ride‑hail service may —\n(a)permit the ride-hail industry participants, by a ride‑hail common pricing scheme, to vary one or more components of a ride‑hail fare for that ride-hail service set for that component in the ride‑hail fare pricing policy order; and\n(b)require a ride-hail industry participant of that type of ride‑hail service to provide information to other ride‑hail industry participants, passengers, prospective passengers or others, or generally publish, or cause to be published, information relating to its prices of and pricing policies for ride‑hail fares for ride‑hail services provided by the ride‑hail industry participant.\n[20/2019]\n(5) In making a ride-hail fare pricing policy order relating to a type of ride‑hail service, the Council may consider the following factors:\n(a)the demand and supply of ride‑hail services and street‑hail services;\n(b)the standards of quality, reliability and safety of ride‑hail services and street‑hail services, whether those standards are specified by legislation, agreement or otherwise, and any suggested or actual changes to those standards;\n(c)the need for greater efficiency in providing passengers responsive, safe, competitive, efficient and accessible ride‑hail services and street‑hail services;\n(d)any other matters that the Council considers relevant.\n[20/2019]\n(6) A ride‑hail fare pricing policy order under subsection (1) relating to a type of ride‑hail service takes effect on a date specified in the order, and —\n(a)cannot be varied (except as contemplated by the order); and\n(b)may be revoked by the Council with or without making another ride‑hail fare pricing policy order in replacement in relation to that same type of ride‑hail service.\n[20/2019]\n(7) Before the date a ride‑hail fare pricing policy order under subsection (1) relating to a type of ride‑hail service comes into effect, the Council must give notice of the making of the order in such manner as will secure adequate publicity for it.\n[20/2019]\n(8) However, failure to comply with subsection (7) in respect of any such order under subsection (1) does not in itself invalidate the order.\n[20/2019]\n(9) The Minister may make regulations prescribing the content, form and procedure that must be followed by the Council in connection with the preparation and making of a ride‑hail fare pricing policy order for the purposes of subsection (1).\n[23D\n[20/2019]"
+   }
+  },
+  {
+   "id": "SG-H3601-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 8 BUS FARES, STREET‑HAIL AND RIDE‑HAIL FAREPRICING POLICIES AND TRAIN FARES"
+   },
+   "heading": {
+    "en": "Lodgment of ride-hail fares and ride-hail common pricing schemes"
+   },
+   "text": {
+    "en": "46.—(1) Within the prescribed period after a ride‑hail fare pricing policy order is made for any ride‑hail service but before it takes effect for the ride‑hail service, every ride‑hail industry participant providing that ride‑hail service must —\n(a)determine the prices of ride-hail fares for that ride‑hail service if no prices are set by that order; and\n(b)lodge with the Council those prices determined unless the nature of the ride‑hail fare makes lodgment impracticable, together with any supporting information the Council may require.\n[20/2019]\n(2) Where a ride-hail fare pricing policy order for a ride‑hail service permits a ride‑hail common pricing scheme to vary one or more components of the ride‑hail fare in the ride‑hail fare pricing policy order, the prescribed ride‑hail industry participants for that ride‑hail common pricing scheme —\n(a)may start collective negotiations among themselves to determine the common prices of those components of ride‑hail fares to be charged, or to vary those common prices, and the period during which those prices will apply; and\n(b)must lodge with the Council the ride‑hail common pricing scheme with the common prices determined or varied under that scheme and the effective date of those prices, together with any supporting information the Council may require.\n[20/2019]\n(3) The common prices last lodged with the Council under subsection (2)(b) for any component of a ride‑hail fare for ride‑hail services have the effect of varying, from the date specified in the lodgment, any price set by the Council in the ride‑hail fare pricing policy order for that component for those ride‑hail services (even though not agreed to by all the prescribed ride‑hail industry participants providing those ride‑hail services) until the ride‑hail common pricing scheme is terminated.\n[20/2019]\n(4) To have effect, a ride-hail common pricing scheme for any component of a ride‑hail fare —\n(a)must be in writing;\n(b)must be agreed to by the ride‑hail industry participants prescribed for that component of the ride‑hail fare;\n(c)must be made after following the procedure (if prescribed) in connection with the preparation and making; and\n(d)must state a process for dispute resolution.\n[20/2019]\n(5) A ride-hail industry participant may be party to more than one ride‑hail common pricing scheme.\n[20/2019]\n(6) For the purposes of the Third Schedule to the Competition Act 2004, every ride‑hail common pricing scheme permitted by a ride‑hail fare pricing policy order is, when made, to be regarded as an agreement made in order to comply with a legal requirement.\n[23E\n[20/2019]"
+   }
+  },
+  {
+   "id": "SG-H3601-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 8 BUS FARES, STREET‑HAIL AND RIDE‑HAIL FAREPRICING POLICIES AND TRAIN FARES"
+   },
+   "heading": {
+    "en": "Application for approval of fares"
+   },
+   "text": {
+    "en": "47.—(1) An application for the Council’s approval of the price of, or the pricing policy for, any bus fare or train fare, must —\n(a)be made in such form and manner as the Council may determine; and\n(b)be supported by such documents (including certified copies of any balance sheet and profit and loss account, and any auditor’s report, relating to the applicant’s undertaking) as the Council may require.\n[31/2015]\n(2) In considering any application for approval of the price of, or the pricing policy for, any bus fare or train fare, the Council must take into account —\n(a)the need for the applicant to remain financially viable;\n(b)the requirements imposed by or under section 49;\n(c)the need for fare concessions to address the interests of certain passengers like the elderly and students;\n(d)facilitating integrated and seamless travel by passengers making journeys which involve the use of —\n(i)the bus services and train services of more than one bus operator (whether or not a public bus operator) or rapid transit system operator;\n(ii)more than one bus service or train service (whether or not operated by the same person); or\n(iii)both bus services and train services (whether or not operated by the same person);\n(e)facilitating the integration of bus fares and train fares;\n(f)the need to optimise the bus and rapid transit system network capacity of buses and trains and to ensure economic, financial and technical viability of the public bus system and the rapid transit system;\n(g)whether increases in bus fares or train fares could cause financial hardship to commuters because there is, or is imminent, a severe economic recession in Singapore or other extenuating circumstances; and\n(h)the need for public interest to be safeguarded.\n[31/2015]\n(3) On receipt of an application under subsection (1), the Council may —\n(a)refuse the application; or\n(b)approve the application subject to such conditions as the Council thinks fit, such as any requirement in section 48(5)(b), (c) or (d).\n[31/2015]\n(4) The Council’s approval under subsection (3) or decision on review under section 48 may be expressed in one or more of the following terms:\n(a)fixing the price or the rate of increase or decrease in the price of bus fares or train fares;\n(b)fixing a maximum or minimum price, or a maximum rate of increase in the maximum price, of bus fares or train fares;\n(c)fixing an average price for specified bus services or train services, or an average rate of increase or decrease in the average price of bus fares or train fares;\n(d)specifying pricing policies or principles for bus fares or train fares, including a policy or principle requiring prospective passengers to be informed in advance of any change in bus fares or train fares;\n(e)specifying an amount determined by reference to a general price index, the cost of production, a rate of return on assets employed or any other specified factor;\n(f)specifying an amount determined by reference to quantity (such as number of journeys or passengers), location, period or other specified factor relevant to the supply of the bus services or train services;\n(g)any other terms the Council considers appropriate.\n[31/2015]\n(5) Subject to subsection (7), the Council may, by order and without compensation, revoke any approval granted under subsection (3)(b) or section 48 if the Council is satisfied that —\n(a)the applicant has failed to comply with any condition imposed by the Council under subsection (3)(b) or requirements in section 48(5) on that approval;\n(b)the approval had been obtained by fraud or misrepresentation;\n(c)the applicant has been convicted of an offence under this Act;\n(d)it is in the public interest to do so; or\n(e)the applicant has refused or failed to comply with an order of the Council made under subsection (6)(b) or subsection (3)(b) or with section 50.\n[31/2015]\n(6) Subject to subsection (7), the Council may, in any case in which it considers that no cause of sufficient gravity exists for revoking any approval granted under subsection (3)(b) to an applicant for such approval, by order —\n(a)suspend the approval for a period not exceeding 6 months;\n(b)impose on the applicant concerned a financial penalty of an amount not exceeding $100,000; or\n(c)publicly censure the applicant concerned.\n(7) Before exercising any of its powers under subsection (5) or (6), the Council must —\n(a)give to the applicant concerned written notice of its intention to do so; and\n(b)in the notice, call upon the applicant to show cause within such period as may be specified in the notice as to why the Council should not make any order under subsection (5) or (6), being a period of at least 7 days after the Council informs the applicant concerned of such intention.\n(8) If the applicant —\n(a)fails to show cause within the period of time given or such extended period of time as the Council may allow; or\n(b)fails to show sufficient cause,\nas to why the order under subsection (5) or (6) (as the case may be) should not be made, the Council must give written notice to the applicant concerned of the Council’s order made under the respective subsection.\n(9) In any proceedings under subsection (5) or (6) in relation to the conviction of an applicant for a criminal offence, the Council must accept the applicant’s conviction as final and conclusive.\n(10) Nothing in this section requires —\n(a)the LTA to apply to the Council for approval of bus fares —\n(i)for bus services provided under a public bus services contract (within the meaning of the Bus Services Industry Act 2015) to which the LTA is a party; or\n(ii)for bus services provided by the LTA when LTA operates the bus services; or\n(b)a public bus operator which provides a bus service according to the provisions of a public bus services contract to apply to the Council for approval of bus fares for the bus service specified in that contract.\n[24\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 8 BUS FARES, STREET‑HAIL AND RIDE‑HAIL FAREPRICING POLICIES AND TRAIN FARES"
+   },
+   "heading": {
+    "en": "Unilateral review of fares, etc."
+   },
+   "text": {
+    "en": "48.—(1) The Council may, on its own initiative, review —\n(a)the price of, or the pricing policy for —\n(i)any bus fare specified in a public bus services contract for any bus service;\n(ii)any bus fare approved under section 47 for bus services; or\n(iii)any train fare approved under section 47; or\n(b)the price of or pricing policy for any fare approved on review under this section.\n[31/2015]\n(2) A review under this section of any fare or fare pricing policy must take into account the matters referred to in section 47(2) and comply with section 49.\n[31/2015]\n(3) Without limiting subsection (1), a review under this section of the price of, or the pricing policy for, any bus fare or train fare, may be carried out for the purpose of promoting or facilitating —\n(a)the integration of bus fares and train fares;\n(b)arrangements for the through-carriage of passengers on bus services and train services provided by licensed bus operators (whether or not public bus operators) and licensed rapid transit system operators, respectively; and\n(c)the making by passengers of any journey which involves the use of —\n(i)the services of more than one such operator;\n(ii)more than one bus service or train service (whether or not operated by the same person); or\n(iii)both bus services and train services (whether or not operated by the same person).\n[31/2015]\n(4) On completing any review under subsection (1) in relation to the price of, or pricing policy for, any bus fare or train fare, the Council may —\n(a)add to, delete and substitute, or otherwise modify —\n(i)any part of its approval under section 47(3) or approval on review under this section; or\n(ii)any of the conditions for its approval under section 47(3), or approval on review under this section; or\n(b)set the price of or pricing policy for the bus fare to be specified in a public bus services contract for any bus service,\nand the fare or fare pricing policy so added to, substituted or otherwise modified, or set is, for the purposes of this Part, to be regarded as approved under this section.\n[31/2015]\n(5) In particular, a decision of the Council under subsection (4) in relation to any bus fare for bus services provided by a public bus operator, or any train fare for train services provided by a licensed rapid transit system operator, may do any of the following:\n(a)add to the price of the fare for those bus services or train services, the carry‑forward amount available to the bus operator of those bus services or the rapid transit system operator of those train services, as the case may be;\n(b)require the bus operator or rapid transit system operator concerned and, in the case of bus services provided under public bus services contracts, the LTA, to reallocate revenues among themselves for the provision of their respective services, such as —\n(i)entering into an agreement with each other, or with the LTA or another bus operator or rapid transit system operator, on such terms and conditions as the Council may specify for the reallocation of revenues; and\n(ii)taking such steps to ensure that the agreement is given effect to;\n(c)require the public bus operator or licensed rapid transit system operator, or the LTA in the case of bus services provided under public bus services contracts, to grant fare concessions —\n(i)for any specified class of passengers of buses or trains used to provide those bus services or train services, as the case may be; or\n(ii)for bus or train journeys starting at a specified place or area or starting or ending at any specified time;\n(d)require every public bus operator and licensed rapid transit system operator who agree to provide services for the through‑carriage of passengers provided by them to publish, or cause to be published, the through fares for those services.\n[31/2015]\n(6) Before making a decision under subsection (5), the Council must —\n(a)give notice of its proposed review under this section in the manner prescribed under subsection (7); and\n(b)after giving such notice, consult —\n(i)the LTA; and\n(ii)such licensed bus operator or licensed rapid transit system operator who would in the Council’s opinion be affected by the decision.\n[31/2015]\n(7) The Minister may make regulations prescribing the content, form and procedure to be followed, and the methodology or other matters to be included in connection with the preparation, review and approval of fares or fare pricing policies under this section.\n[24AA\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 8 BUS FARES, STREET‑HAIL AND RIDE‑HAIL FAREPRICING POLICIES AND TRAIN FARES"
+   },
+   "heading": {
+    "en": "Fare review mechanism"
+   },
+   "text": {
+    "en": "49.—(1) When approving under section 47, or approving on review under section 48, the price of any bus fare or train fare, the Council must do so only in accordance with the fare adjustment formula set out in the Third Schedule.\n[31/2015]\n(2) Where the bus fare charged by a public bus operator, or the train fare charged by a licensed rapid transit system operator, or the bus fare or train fare approved under section 47, or approved on review under section 48, for any year is less than the maximum permitted using the fare adjustment formula set out in the Third Schedule —\n(a)no public bus operator or licensed rapid transit system operator is entitled to demand a bus fare or train fare that includes that excess for that year; but\n(b)the excess may be claimed (in whole or in part) by the public bus operator or licensed rapid transit system operator concerned when applying for approval of any bus fare or train fare for the subsequent year or years, up to the maximum permitted using that fare adjustment formula.\n[31/2015]\n(3) However, the Council may refuse to add the excess referred to in subsection (2) to any bus fare or train fare with respect to a public bus operator or licensed rapid transit system operator if the bus operator or rapid transit system operator makes no claim under subsection (2)(b) when applying under section 47 for approval of the bus fare or train fare.\n[24AB\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 8 BUS FARES, STREET‑HAIL AND RIDE‑HAIL FAREPRICING POLICIES AND TRAIN FARES"
+   },
+   "heading": {
+    "en": "Contribution of proportion of fare increases"
+   },
+   "text": {
+    "en": "50.—(1) Where the Council —\n(a)approved under section 47 an increase in any bus fare for any bus service provided by a public bus operator or in any train fare for any train service; or\n(b)approved on review under section 48 any bus fares or train fares that is an increase in any bus fare for any bus service provided by a public bus operator or in any train fare for any train service,\nevery public bus operator and every licensed rapid transit system operator providing that bus service or train service (as the case may be) must contribute to the Public Transport Fund an amount set by the Council under this section.\n[31/2015]\n(2) In setting the amount of contribution that a public bus operator or a licensed rapid transit system operator must make under subsection (1), the Council must have regard to the estimated increase in revenue of the public bus operator or licensed rapid transit system operator that is attributable to the increase in fares approved or varied by the Council under section 47 or 48, as the case may be.\n[31/2015]\n(3) The Council may set the contribution in one or more of the following terms:\n(a)a fixed amount or rate of the estimated increase in revenue that is attributable to the increase in bus fares or train fares approved or revised by the Council under section 47 or 48, respectively;\n(b)any other terms as the Council considers appropriate.\n[31/2015]\n(4) The contributions that a public bus operator or a licensed rapid transit system operator has to make under subsection (1) must be made within the prescribed period after the effective date of any fare increase so approved or revised under section 47 or 48 (as the case may be) and thereafter, at the prescribed time in every subsequent year until the Council in writing directs otherwise.\n[31/2015]\n(5) Any unpaid contribution and any penalty or interest imposed under regulations made under section 73(2)(d) may be recovered as a Government debt in a court of competent jurisdiction.\n[31/2015]\n(6) The Minister may make regulations prescribing the content, form and procedure that must be followed by the Council in connection with the setting of contributions for the purposes of subsection (1).\n[24AC\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 9 PUBLIC TRANSPORT OFFICIALS"
+   },
+   "heading": {
+    "en": "Appointment of public transport officials"
+   },
+   "text": {
+    "en": "51.—(1) The Council may, with the approval of the Minister, in writing appoint any employee or class of employees of a public bus operator, a licensed rapid transit system operator or the Council to be public transport officials for the purposes of this Part.\n[31/2015]\n(2) The Council may also appoint any employee or class of employees of the LTA to be public transport officials for bus services that the LTA operates in Singapore.\n[31/2015]\n(3) Subject to the directions of the Council under subsection (5), a public transport official may require any individual who is travelling or attempting to travel on, or has travelled on —\n(a)any bus that is part of a bus service provided by a public bus operator; or\n(b)any train that is part of a train service provided by a licensed rapid transit system,\nto produce to the public transport official the individual’s ticket for the journey for inspection and, if the ticket is a concession ticket, evidence of the individual’s entitlement to the concession.\n[31/2015]\n(4) Subject to the directions of the Council under subsection (5), a public transport official may seize any ticket produced under subsection (3) if the public transport official has reason to believe that the ticket is an invalid ticket.\n[31/2015]\n(5) The Council may give directions to public transport officials in relation to the offering of an opportunity to pay penalty fees under section 53 and the exercise of any of their powers under this Part.\n[24A\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 9 PUBLIC TRANSPORT OFFICIALS"
+   },
+   "heading": {
+    "en": "Identification card to be produced"
+   },
+   "text": {
+    "en": "52.—(1) Every public transport official when exercising any powers under this Part must —\n(a)declare his or her office; and\n(b)on demand, produce to any person affected by the exercise of those powers such identification card as the Council may direct to be carried by a public transport official.\n(2) It is not an offence for any person to refuse to comply with any request, demand or order made or given by any public transport official if the public transport official refuses to declare his or her office and produce his or her identification card, on demand being made by the person.\n[24B"
+   }
+  },
+  {
+   "id": "SG-H3601-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART 9 PUBLIC TRANSPORT OFFICIALS"
+   },
+   "heading": {
+    "en": "Penalty fee for bus fare or train fare evasion"
+   },
+   "text": {
+    "en": "53.—(1) A public transport official who believes on reasonable grounds that an individual —\n(a)who is travelling or attempting to travel or has travelled on a bus that is part of a bus service provided by a public bus operator; or\n(b)who is travelling or is attempting to travel (including entering a paid area within any railway premises) or has travelled on a train that is part of a train service provided by a licensed rapid transit system,\nis evading or has evaded payment of the fare lawfully required of the individual’s use of the bus or train (as the case may be) may, by notice, offer the individual concerned an opportunity to pay a penalty fee of the prescribed amount.\n[31/2015]\n(2) Every offer of an opportunity to pay a penalty fee is subject to directions given by the Council under section 51(5).\n[31/2015]\n(3) An individual who is given an offer by a public transport official of an opportunity to pay a penalty fee under subsection (1) may, within the prescribed period and in accordance with the prescribed procedure, appeal to the Council to hear such appeal against the offer.\n[31/2015]\n(4) On receiving an appeal under subsection (3), the Council, or an officer designated by the Council to hear the appeal, may —\n(a)confirm the offer by the public transport official, and vary the time within which the penalty fee must be paid; or\n(b)cancel the offer by the public transport official the making of which is, in the opinion of the Council or officer, not equitable,\nand every decision on appeal is final.\n[31/2015]\n(5) An individual who is offered by a public transport official an opportunity to pay a penalty fee may accept the offer by paying the penalty fee, or by arranging for another person to pay the penalty fee —\n(a)to a person directed by the public transport official and authorised by the Council to receive payments of penalty fees; or\n(b)to the Council itself,\nin the manner and within the time determined by the Council or under subsection (4)(a) if an appeal under subsection (3) is made.\n[20/2019]\n(6) An offer of an opportunity to pay a penalty fee is withdrawn if the penalty fee is not paid within the time referred to in subsection (5).\n[31/2015]\n(7) On receiving payment of the penalty fee under subsection (5), the Council must give or cause to be given to the individual a receipt acknowledging that payment.\n[31/2015; 20/2019]\n(8) An individual who pays (by himself or herself or by arrangement with another) a penalty fee in accordance with subsection (5) cannot be prosecuted for an offence under section 54 or offered composition under section 67.\n[24C\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART 9 PUBLIC TRANSPORT OFFICIALS"
+   },
+   "heading": {
+    "en": "Bus fare or train fare evasion"
+   },
+   "text": {
+    "en": "54.—(1) An individual who is evading or has evaded payment of the fare in relation to —\n(a)a bus that is part of a bus service provided by a public bus operator; or\n(b)a train that is part of a train service provided by a licensed rapid transit system,\nshall be guilty of an offence and shall be liable on conviction —\n(c)to a fine not exceeding $1,000; and\n(d)where the person is a repeat offender, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.\n[31/2015]\n(2) A person is a repeat offender in relation to an offence under subsection (1) if the person who is convicted, or found guilty, of an offence under that provision (called the current offence) has been convicted or found guilty, whether before, on or after 29 February 2016, of a qualifying offence before the date on which the person is convicted or found guilty of the current offence.\n[31/2015]\n(3) In subsection (2), a qualifying offence means —\n(a)an offence under subsection (1); or\n(b)an offence under section 24C(5) of this Act as in force before 29 February 2016.\n[31/2015]\n(4) For the purposes of this section and section 53, an individual evades payment of a fare in relation to a bus or train if the individual —\n(a)when attempting to travel, for an intended journey on the bus or train (including entering a paid area within any railway premises), without reasonable excuse —\n(i)does not pay the fare lawfully required;\n(ii)if using a smartcard ticket, does not tap in;\n(iii)attempts to travel on a concession fare without being entitled to the concession; or\n(iv)attempts to travel on an invalid ticket;\n(b)in relation to all or part of a journey travelled on the bus or train, without reasonable excuse —\n(i)does not pay the fare lawfully required;\n(ii)if using a smartcard ticket, does not tap in or tap out;\n(iii)travels on a concession fare without being entitled to the concession; or\n(iv)travels on an invalid ticket; or\n(c)without reasonable excuse, does or omits to do any other act that is prescribed in relation to any journey or intended travel on a bus or train.\n[31/2015]\n(5) For the purposes of this section and section 53, an individual is presumed, until the contrary is proved, to evade payment of a fare in relation to a bus or train if the individual, when requested by a public transport official —\n(a)fails to produce to the public transport official any ticket for the individual’s journey;\n(b)produces to the public transport official a concession ticket for the individual’s journey and then fails to produce evidence of the individual’s entitlement to the concession;\n(c)produces to the public transport official a smartcard ticket for the individual’s journey that, upon inspection by the official using a smartcard reader, is an invalid ticket, and then fails to produce a valid ticket for the journey; or\n(d)produces to the public transport official a ticket that is not a smartcard for the individual’s journey that, upon inspection by the official, is an invalid ticket, and then fails to produce a valid ticket for the journey.\n[24CA\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "55."
+   },
+   "chapter": {
+    "en": "PART 9 PUBLIC TRANSPORT OFFICIALS"
+   },
+   "heading": {
+    "en": "Evidentiary provisions in proceedings for bus fare or train fare evasion"
+   },
+   "text": {
+    "en": "55.—(1) If a fact relating to a smartcard ticket is relevant in proceedings relating to an offence under section 54, evidence of that fact as indicated or determined by —\n(a)a prescribed device that was used in the prescribed manner (if any); or\n(b)a printed document that was produced by a prescribed process,\nis admissible in evidence in those proceedings.\n[31/2015]\n(2) For the purposes of this section, a fact relates to a smartcard ticket if it relates to —\n(a)the smartcard ticket itself, including its type, identifying numbers and manner of acquisition;\n(b)the holder of the smartcard ticket;\n(c)the existence, or possible existence, of an entitlement to use a bus service or train service; or\n(d)the use of the smartcard ticket.\n[31/2015]\n(3) A certificate purporting to be issued by a public transport official who used a smartcard reader to read, copy or transfer information from a smartcard ticket produced to the public transport official for inspection certifying as to the information read, copied or transferred from the smartcard ticket in relation to all or any of the following matters:\n(a)the smartcard ticket number;\n(b)the smartcard ticket type;\n(c)the name of the smartcard ticket holder;\n(d)the use of the smartcard ticket;\n(e)the entitlement to use a bus service or train service,\nis admissible in evidence in any proceedings relating to an offence under section 54.\n[31/2015]\n(4) Subject to subsection (10), if a certificate is issued under subsection (3) in respect of a smartcard ticket, it is presumed for the purposes of any proceedings relating to an offence under section 54 that the smartcard ticket had accurately recorded and discharged the information recorded, copied or transferred from it by the smartcard reader.\n[31/2015]\n(5) Subject to subsection (10), if the prosecution, in proceedings relating to an offence under section 54 serves on the accused, by the required time, a copy of a certificate referred to in subsection (3), the certificate is conclusive proof of —\n(a)the facts and matters stated in that certificate;\n(b)the fact that the smartcard reader used was a prescribed device;\n(c)the fact that the smartcard reader was used in the prescribed manner (if any); and\n(d)the fact that the smartcard reader had operated correctly.\n[31/2015]\n(6) Subject to subsection (10), if the prosecution in proceedings relating to an offence under section 54 serves on the accused, within the required time, a notice setting out the presumptions set out in subsection (4), the facts that are the subject of the presumptions are to be taken to have been conclusively proved.\n[31/2015]\n(7) A certificate purporting to be issued by a person authorised by the Chief Executive certifying that —\n(a)at all relevant times the prescribed devices specified in the certificate had operated correctly and had indicated or determined the facts (if any) stated in the certificate; or\n(b)at all relevant times, the printed documents specified in the certificate had been produced by a prescribed process,\nis admissible in evidence in any proceedings relating to an offence under section 54.\n[31/2015]\n(8) Subject to subsection (10), if the prosecution in proceedings relating to an offence under section 54 serves on the accused, within the required time, a copy of a certificate referred to in subsection (7), the certificate is conclusive proof —\n(a)that the person giving the certificate was authorised to do so;\n(b)in the case of a certificate under subsection (7)(a), of —\n(i)the fact that at all relevant times the prescribed devices specified in the certificate had operated correctly; and\n(ii)the facts (if any) stated in the certificate as indicated or determined by the prescribed devices; and\n(c)in the case of a certificate under subsection (7)(b), of —\n(i)the fact that at all relevant times the printed documents specified in the certificate had been produced by a prescribed process; and\n(ii)the facts indicated or determined by the printed documents.\n[31/2015]\n(9) In this section, “required time” means no less than 56 days before the hearing for the relevant offence under section 54.\n[31/2015]\n(10) The accused in any proceedings relating to an offence under section 54 may give written notice to the prosecution at least 28 days before the hearing, or any shorter period ordered by the court or agreed to by the prosecution, that —\n(a)the accused requires the person giving a certificate referred to in subsection (3) or (7) to be called as a witness;\n(b)the accused intends to adduce evidence in rebuttal of any fact or matter contained in the certificate; or\n(c)the accused intends to adduce evidence in rebuttal of any fact that is the subject of a presumption set out in subsection (4).\n[31/2015]\n(11) To avoid doubt, nothing in this section prevents the prosecution adducing evidence to explain any fact or matter contained in a certificate referred to in this section.\n[24CB\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "56."
+   },
+   "chapter": {
+    "en": "PART 9 PUBLIC TRANSPORT OFFICIALS"
+   },
+   "heading": {
+    "en": "Offence of non-payment of ride-hail fare or street-hail fare"
+   },
+   "text": {
+    "en": "56.—(1) A passenger of a taxi commits an offence if —\n(a)the passenger is transported on a journey within or partly within Singapore in the taxi provided in the course of a street‑hail service; and\n(b)the passenger, without reasonable excuse, fails or refuses, at the end of the journey and after a demand by the driver of the taxi, to pay the street‑hail fare for the journey which is collectible under this Act.\n[20/2019]\n(2) A passenger of a bookable vehicle commits an offence if —\n(a)the passenger is transported on a journey within or partly within Singapore in the bookable vehicle provided in the course of an on‑demand passenger transport service to which a ride‑hail service relates; and\n(b)the passenger, without reasonable excuse, fails or refuses, at the end of the journey and after a demand by the driver of the bookable vehicle, to pay the ride‑hail fare for the journey which is collectible under this Act.\n[20/2019]\n(3) A passenger who is guilty of an offence under subsection (1) or (2) shall be liable on conviction either —\n(a)to a fine not exceeding $1,000; or\n(b)where the person is a repeat offender, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.\n[20/2019]\n(4) A person is a repeat offender in relation to an offence under subsection (1) if the person who is convicted, or found guilty, of an offence under that provision (called the current offence) has been convicted or found guilty, before the date on which the person is convicted or found guilty of the current offence, of any of the following offences:\n(a)an offence under subsection (1);\n(b)an offence under section 24D as in force before 30 October 2020.\n[20/2019]\n(5) A person is a repeat offender in relation to an offence under subsection (2) if the person who is convicted, or found guilty, of an offence under that provision (called the current offence) has been convicted or found guilty, before the date on which the person is convicted or found guilty of the current offence, of any of the following offences:\n(a)an offence under subsection (2);\n(b)an offence under section 24D as in force before 30 October 2020.\n[24D\n[20/2019]"
+   }
+  },
+  {
+   "id": "SG-H3601-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "57."
+   },
+   "chapter": {
+    "en": "PART 9 PUBLIC TRANSPORT OFFICIALS"
+   },
+   "heading": {
+    "en": "Power to require evidence of identity"
+   },
+   "text": {
+    "en": "57.—(1) Any individual who is required by a public transport official to pay a penalty fee must —\n(a)give his or her name and address and any other proof of identity; and\n(b)furnish any other particulars,\nthat the public transport official may require.\n[20/2019]\n(2) Any individual who refuses to furnish any information required of him or her by any public transport official under subsection (1) or wilfully misstates such information shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.\n[24E"
+   }
+  },
+  {
+   "id": "SG-H3601-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "58."
+   },
+   "chapter": {
+    "en": "PART 9 PUBLIC TRANSPORT OFFICIALS"
+   },
+   "heading": {
+    "en": "Powers of arrest"
+   },
+   "text": {
+    "en": "58.—(1) A public transport official or police officer may arrest without warrant any individual whom he or she has reason to believe has committed an offence under this Part, if the name and address of the individual are unknown to him or her and —\n(a)the individual declines to give his or her name or address; or\n(b)there is reason to doubt the accuracy of the name or address, if given.\n(2) An individual arrested under subsection (1) may be detained until his or her name and address are correctly ascertained.\n(3) An individual arrested under subsection (2) must not be detained longer than is necessary for bringing him or her before a court.\n[24F"
+   }
+  },
+  {
+   "id": "SG-H3601-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "59."
+   },
+   "chapter": {
+    "en": "PART 10 INVESTIGATIONS"
+   },
+   "heading": {
+    "en": "Investigation into affairs of licensee"
+   },
+   "text": {
+    "en": "59.—(1) The Council may appoint one or more inspectors to investigate the affairs of a licensee or such aspects of the affairs of a licensee as are specified in the instrument of appointment.\n(2) An inspector appointed by the Council may, and if so directed by the Council must, make interim reports to the Council and on the conclusion of the investigation, the inspector must report the inspector’s opinion on or in relation to the affairs that the inspector has been appointed to investigate together with the facts upon which the inspector’s opinion is based to the Council.\n(3) A copy of the report must be forwarded by the Council to the registered office of the licensee.\n(4) The Council may, if it is of the opinion that it is necessary in the public interest to do so, cause the report to be printed and published.\n(5) In this Part —\n“affairs”, in relation to a licensee, includes —\n(a)the promotion, formation, membership, control, trading, dealings, business and property of the licensee;\n(b)the ownership of shares in, debentures of and interests made available by the licensee;\n(c)the ascertainment of the persons who are or have been financially interested in the success or failure or apparent success or failure of the licensee or are or have been able to control or materially to influence the policy of the licensee; and\n(d)the circumstances under which a person acquired or disposed of or became entitled to acquire or dispose of shares in, debentures of or interests made available by the licensee;\n“officer or agent”, in relation to a licensee, includes —\n(a)a director, banker, solicitor or an auditor of the licensee;\n(b)a person who at any time —\n(i)has been a person referred to in paragraph (a); or\n(ii)has been otherwise employed or appointed by the licensee;\n(c)a person who —\n(i)has in the person’s possession any property of the licensee;\n(ii)is indebted to the licensee; or\n(iii)is capable of giving information concerning the promotion, formation, trading, dealings, affairs or property of the licensee; and\n(d)where there are reasonable grounds for suspecting or believing that a person is a person referred to in paragraph (c), that person.\n[24G"
+   }
+  },
+  {
+   "id": "SG-H3601-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "60."
+   },
+   "chapter": {
+    "en": "PART 10 INVESTIGATIONS"
+   },
+   "heading": {
+    "en": "Procedure and powers of inspectors"
+   },
+   "text": {
+    "en": "60.—(1) If an inspector appointed to investigate the affairs of a licensee which is a company thinks it necessary for the purposes of the investigation to investigate also the affairs of any other company which is or has at any relevant time been deemed to be or have been related to the licensee by virtue of section 6 of the Companies Act 1967, the inspector has power to do so.\n(2) The inspector must report to the Council on the affairs of the other company so far as the inspector thinks the results of the investigation of the other company are relevant to the investigation of the affairs of the licensee.\n(3) The licensee and every officer or agent of the licensee must, if required by an inspector appointed under this Part, produce to the inspector all books and documents in its, his or her custody or power and must give to the inspector all assistance in connection with the investigation which it, he or she is reasonably able to give.\n(4) An inspector may, by written notice, require the licensee and any officer or agent of the licensee to appear for examination on oath or affirmation (which the inspector is authorised to administer) in relation to the business of the licensee.\n(5) The notice under subsection (4) may require the production of all books and documents in the custody or under the control of a licensee or any officer or agent of the licensee.\n(6) An inspector who pursuant to this section requires the production of all books and documents in the custody or power or under the control of an officer or agent of any licensee —\n(a)may take possession of all such books and documents;\n(b)may retain all such books and documents for such time as the inspector considers to be necessary for the purpose of the investigation; and\n(c)must permit the licensee to have access at all reasonable times to all such books and documents so long as they remain in the inspector’s possession.\n(7) A licensee or any officer or agent of the licensee who fails to comply with a requirement of any notice issued under subsection (4) or fails or refuses to answer any question which is put to it, him or her by an inspector with respect to the affairs of the licensee shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.\n(8) A person who is or has formerly been an officer or agent of a licensee is not entitled to refuse to answer any question which is relevant or material to the investigation on the ground that the person’s answer might tend to incriminate the person.\n(9) If a person referred to in subsection (8) claims that the answer to any question might incriminate the person and, but for that subsection, the person would have been entitled to refuse to answer the question, the answer to the question must not be used in any subsequent criminal proceedings except in the case of a charge against the person for making a false statement.\n(10) Subject to subsection (8), a person is entitled to refuse to answer a question on the ground that the answer might tend to incriminate the person.\n(11) An inspector may cause notes of any examination under this Part to be recorded and reduced to writing, to be read to or by and signed by the person examined.\n(12) Any such signed notes may, except in the case of any answer which that person would not have been required to give but for subsection (8), thereafter be used in evidence in any legal proceedings against that person.\n[24H"
+   }
+  },
+  {
+   "id": "SG-H3601-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "61."
+   },
+   "chapter": {
+    "en": "PART 10 INVESTIGATIONS"
+   },
+   "heading": {
+    "en": "Report of inspector to be admissible in evidence"
+   },
+   "text": {
+    "en": "61. A copy of the report of any inspector appointed under this Part certified as correct by the Council is admissible in any legal proceedings as evidence of the opinion of the inspector and of the facts upon which the inspector’s opinion is based in relation to any matter contained in the report.\n[24I"
+   }
+  },
+  {
+   "id": "SG-H3601-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "62."
+   },
+   "chapter": {
+    "en": "PART 10 INVESTIGATIONS"
+   },
+   "heading": {
+    "en": "Costs of investigations"
+   },
+   "text": {
+    "en": "62. The expenses of and incidental to an investigation by an inspector appointed under this Part must be paid out of the funds of the Council.\n[24J"
+   }
+  },
+  {
+   "id": "SG-H3601-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "63."
+   },
+   "chapter": {
+    "en": "PART 10 INVESTIGATIONS"
+   },
+   "heading": {
+    "en": "Penalty for delaying or obstructing investigation"
+   },
+   "text": {
+    "en": "63.—(1) Any person who with intent to defeat the purposes of this Part, or to delay or obstruct the carrying out of an investigation under this Part —\n(a)destroys, conceals or alters any book, document or record of or relating to a licensee; or\n(b)sends or attempts to send or conspires with any other person to send out of Singapore any such book, document or record or any property of any description belonging to or in the disposition or under the control of a licensee,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.\n(2) If in any prosecution for an offence under subsection (1) it is proved that the person charged with the offence —\n(a)has destroyed, concealed or altered any book, document or record of or relating to the licensee; or\n(b)has sent or attempted to send or conspired to send out of Singapore any book, document or record or any property of any description belonging to or in the disposition or under the control of the licensee,\nthe onus of proving that in so doing the person had not acted with intent to defeat the purposes of this Part, or to delay or obstruct the carrying out of an investigation under this Part lies on the person.\n[24K"
+   }
+  },
+  {
+   "id": "SG-H3601-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "64."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Penalty for unauthorised ticket payment service"
+   },
+   "text": {
+    "en": "64. Any person who contravenes section 28(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part of a day during which the offence continues after conviction.\n[25A\n[30/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "65."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Offences by bodies corporate, etc."
+   },
+   "text": {
+    "en": "65.—(1) Where an offence under this Act committed by a body corporate is proved —\n(a)to have been committed with the consent or connivance of an officer; or\n(b)to be attributable to any neglect on the officer’s part,\nthe officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.\n(2) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with the member’s functions of management as if the member were a director of the body corporate.\n(3) Where an offence under this Act committed by a partnership is proved —\n(a)to have been committed with the consent or connivance of a partner; or\n(b)to be attributable to any neglect on the partner’s part,\nthe partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.\n(4) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —\n(a)to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or\n(b)to be attributable to any neglect on the part of such an officer or a member,\nthe officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.\n(5) In this section —\n“body corporate” includes a limited liability partnership;\n“officer” —\n(a)in relation to a body corporate, means any director, partner, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or\n(b)in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of such a committee and includes any person purporting to act in any such capacity;\n“partner” includes a person purporting to act as a partner.\n(6) Regulations may provide for the application of any provision of this section, with such modifications as the Council considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.\n[25B"
+   }
+  },
+  {
+   "id": "SG-H3601-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "66."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Jurisdiction of court"
+   },
+   "text": {
+    "en": "66. Despite any provision to the contrary in the Criminal Procedure Code 2010, a District Court has jurisdiction to try any offence under this Act and has power to impose the full penalty or punishment in respect of the offence.\n[25C"
+   }
+  },
+  {
+   "id": "SG-H3601-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "67."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "67.—(1) The Council, or any officer of the Council or the LTA authorised by the Council, may compound any offence under this Act or any regulations made under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:\n(a)one half of the amount of the maximum fine that is prescribed for the offence;\n(b)$10,000.\n[Act 17 of 2025 wef 23/09/2026]\n(2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence.\n[31/2015]\n(3) All sums collected under this section must be paid into the Consolidated Fund.\n[26\n[31/2015]"
+   }
+  },
+  {
+   "id": "SG-H3601-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "68."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Recovery of sums payable"
+   },
+   "text": {
+    "en": "68.—(1) Where any fee, contribution, financial penalty or other sum payable under this Act remains due and unpaid by a licensee, the Council may require the licensee to pay interest thereon at the prescribed rate, and any such fee, contribution, financial penalty or other sum, and any interest thereon, may be recovered by the Council in any court of competent jurisdiction as if they were simple contract debts.\n(2) The licensee’s liability to pay is not affected by the licensee’s licence ceasing (for any reason) to be in force.\n[26A"
+   }
+  },
+  {
+   "id": "SG-H3601-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "69."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Moneys recovered or collected by Council"
+   },
+   "text": {
+    "en": "69.—(1) All moneys recovered, and fees, charges, security deposits and performance bonds collected under this Act, other than licence fees and financial penalties, must be paid into and form part of the moneys of the Council.\n[31/2015]\n(2) All licence fees and financial penalties collected under this Act must be paid into the Consolidated Fund.\n[26B"
+   }
+  },
+  {
+   "id": "SG-H3601-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "70."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "70. The Council may by order in the Gazette and subject to such conditions as it may impose, exempt any person or class of persons from all or any of the provisions of this Act or any regulations made under this Act.\n[27"
+   }
+  },
+  {
+   "id": "SG-H3601-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "71."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "71.—(1) Any notice, order or document required or authorised by this Act or any regulations made under this Act to be served on any person, and any summons issued by a court against any person in connection with any offence under this Act or the regulations may be served on the person —\n(a)by delivering it to the person or to some adult member or employee of the person’s family or household at the person’s last known place of residence;\n(b)by leaving it at the person’s usual or last known place of residence or place of business in an envelope addressed to the person;\n(c)by sending it by registered post addressed to the person at the person’s usual or last known place of residence or place of business; or\n(d)in the case of an incorporated company, a partnership or a body of persons —\n(i)by delivering it to the secretary or other like officer of the company, partnership or body of persons at its registered office or principal place of business; or\n(ii)by sending it by registered post addressed to the company, partnership or body of persons at its registered office or principal place of business.\n(2) Any notice, order, document or summons sent by registered post to any person in accordance with subsection (1) is deemed to be duly served on the person at the time when the notice, order, document or summons (as the case may be) would in the ordinary course of post be delivered and, in proving service of the notice, order, document or summons, it is sufficient to prove that the envelope containing the same was properly addressed, stamped and posted by registered post.\n[27A"
+   }
+  },
+  {
+   "id": "SG-H3601-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "72."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Amendment of Schedule"
+   },
+   "text": {
+    "en": "72.—(1) The Minister may at any time, by order in the Gazette, amend the Third Schedule.\n(2) The Minister may, in any order made under subsection (1), make such incidental, consequential or supplementary provision as may be necessary or expedient.\n[27B"
+   }
+  },
+  {
+   "id": "SG-H3601-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "73."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "73.—(1) The Council may, with the approval of the Minister, make regulations for, or in respect of, every purpose which is considered by the Council necessary or expedient for carrying out the provisions of this Act.\n(2) Without limiting subsection (1), the Council may make regulations for all or any of the following purposes:\n(a)to prescribe the manner and form in which applications for ticket payment service licences are to be made, the documents to be submitted in support of such applications and the form of such licences;\n(b)to prescribe a scale of fees for and ticket payment service licences;\n(c)to prescribe the manner and form in which applications for the approval of bus fares or train fares, or a pricing policy for bus services or train services, are to be made and the documents to be submitted in support of such applications;\n(d)to prescribe the date and manner by which any contribution is payable under section 50 to the Public Transport Fund, the penalties for the late payment of any such contribution and to impose interest for late payment of any such contribution or penalty;\n(e)to require returns to be made by persons by whom contributions under section 50 are payable, and the conditions relating to the making of such returns;\n(f)to regulate the procedure of the Council, to the extent not inconsistent with the Public Sector (Governance) Act 2018;\n(g)to prescribe the powers and duties of the officers and employees of the Council;\n(h)to control and regulate the conduct of the officers and employees of the Council;\n(i)to prescribe the offences under this Act that may be compounded under section 67;\n(j)to prescribe devices for the purposes of section 55 and the manner of using (including testing) those devices;\n(k)to prescribe the processes for loading information onto a prescribed device or a prescribed computer system, copying or transferring information between prescribed devices or between a prescribed device and a prescribed computer system, storing of information by a prescribed device or prescribed computer system and producing a printed record of information stored by a prescribed device or prescribed computer system;\n(l)to prescribe anything that is required to be prescribed under this Act.\n[30/2015; 31/2015; 5/2018]\n(3) The Council may, in making any regulations, provide that any contravention of, or failure or neglect to comply with, any regulation shall be an offence and may prescribe a fine with which such offence shall be punishable but so that no such fine shall exceed for any one offence the sum of $5,000.\n[28"
+   }
+  },
+  {
+   "id": "SG-H3601-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nSection 3\nConstitution and proceedings of Council\nConstitution of Council\n1.—(1) The Council consists of such members as may be appointed by the Minister.\n(2) The Minister may appoint the Chief Executive to be a member of the Council.\nAppointment of Chairperson and Deputy Chairperson\n2.—(1) The Chairperson and the Deputy Chairperson must be appointed by the Minister from among its members.\n(2) The Deputy Chairperson may, subject to such directions as may be given by the Chairperson, exercise all or any of the powers exercisable by the Chairperson under this Act.\nTemporary Chairperson or Deputy Chairperson\n3. The Minister may appoint any member to be a temporary Chairperson or temporary Deputy Chairperson during the temporary incapacity from illness or otherwise or during the temporary absence from Singapore of the Chairperson or the Deputy Chairperson, as the case may be.\nRevocation of appointment\n4. The Minister may revoke the appointment of the Chairperson, the Deputy Chairperson or any appointed member without assigning any reason.\nTenure of office of appointed member\n5. The Chairperson, the Deputy Chairperson or an appointed member, unless his or her appointment is revoked by the Minister or unless he or she resigns during his or her term of office, holds office for such period as the Minister may determine and is eligible for reappointment.\nFilling of vacancies\n6. If an appointed member resigns, dies or has his or her appointment revoked before the expiry of the term for which he or she has been appointed, the Minister may appoint a person to fill the vacancy for the residue of the term for which his or her predecessor was appointed.\nSalaries, etc., payable to members\n7. There are to be paid to the Chairperson, the Deputy Chairperson and other members, out of the funds of the Council, such salaries, fees and allowances as the Minister may determine.\nMeetings of Council\n8.—(1) The Council must meet for the despatch of business at such times and places as the Chairperson may appoint.\n(2) At every meeting of the Council, one half of the number of members shall form a quorum.\n(3) A decision at a meeting of the Council is adopted by a simple majority of the members present and voting except that in the case of an equality of votes the Chairperson or member presiding has a casting vote in addition to his or her original vote.\n(4) The Chairperson or in his or her absence the Deputy Chairperson presides at meetings of the Council.\n(5) Where both the Chairperson and the Deputy Chairperson are absent at a meeting, such member as the members present may elect presides at that meeting.\n(6) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Council may make rules to regulate its own procedures generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings at those meetings, the keeping of minutes and the custody, production and inspection of such minutes.\nCouncil may act despite vacancy\n9. The Council may act despite any vacancy in its membership.\n[31/2015; 5/2018; S 59/98; S 48/2003]"
+   }
+  },
+  {
+   "id": "SG-H3601-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3601-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nSections 49(1) and (2) and 72\nFare adjustment formula\n1. The fare adjustment formula is 0.5 cCPI + 0.4 WI + 0.1 EI − 0.1% + 1.1%, where —\n(a)for an approval mentioned in section 49(1) in 2025 —\n(i)cCPI is the change in Core Consumer Price Index between the first 18-month period and the second 18-month period;\n(ii)WI is the change in National Average Monthly Earnings between the first 18-month period and the second 18-month period, adjusted to account for any change in the employer’s Central Provident Fund contribution rate as specified in the Central Provident Fund Act 1953; and\n(iii)EI is the change in Energy Index for electricity and fuel between the first 18-month period and the second 18-month period; and\n[S 669/2025 wef 09/10/2025]\n(b)for an approval mentioned in section 49(1) in 2026 or any subsequent year —\n(i)cCPI is the change in Core Consumer Price Index between the relevant first 12-month period and the second 12-month period that is immediately before that first 12-month period;\n(ii)WI is the change in National Average Monthly Earnings between the relevant first 12-month period and the second 12-month period that is immediately before that first 12-month period, adjusted to account for any change in the employer’s Central Provident Fund contribution rate as specified in the Central Provident Fund Act 1953; and\n(iii)EI is the change in Energy Index for electricity and fuel between the relevant first 12-month period and the second 12-month period that is immediately before that first 12-month period.\n[S 669/2025 wef 09/10/2025]\n(c)[Deleted by S 669/2025 wef 09/10/2025]\n[S 669/2025 wef 09/10/2025]\n2. In this Schedule —\n“first 12-month period” means the period starting on 1 July of year N – 1 and ending on and including 30 June of year N;\n“first 18-month period” means the period starting on 1 January 2024 and ending on and including 30 June 2025;\n“second 12-month period” means the period starting on 1 July of year N – 2 and ending on and including 30 June of year N – 1;\n“second 18-month period” means the period starting on 1 January 2023 and ending on and including 30 June 2024;\n“year N” means the year in respect of which either or both the following occurs:\n(a)a new application for the Council’s approval under section 47 is made;\n(b)the Council undertakes a new review under section 48.\n[S 669/2025 wef 09/10/2025]\n[S 798/2022 wef 10/10/2022]"
+   }
+  }
+ ]
+}

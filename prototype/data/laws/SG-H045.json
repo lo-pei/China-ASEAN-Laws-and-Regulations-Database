@@ -1,0 +1,117 @@
+{
+ "id": "SG-H045",
+ "title": {
+  "zh": null,
+  "en": "Accountants (Prescribed Documents and Information) Rules 2024",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p01",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation AA2004-S946-2024",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 2432,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/AA2004-S946-2024?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 6 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H045-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Rules are the Accountants (Prescribed Documents and Information) Rules 2024 and come into operation on 9 December 2024."
+   }
+  },
+  {
+   "id": "SG-H045-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Prescribed documents under section 12B(1) of Act"
+   },
+   "text": {
+    "en": "2. Any document filed with the Registrar relating to the following matters is prescribed as a document a copy of or an extract from which may be given or certified by the Registrar under section 12B(1) of the Act:\n(a)approval of an accounting corporation, accounting firm or accounting LLP;\n(b)change in particulars of an accounting corporation, accounting firm or accounting LLP;\n(c)revocation of the approval of an accounting corporation, accounting firm or accounting LLP."
+   }
+  },
+  {
+   "id": "SG-H045-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Excluded documents under section 12B(3) of Act"
+   },
+   "text": {
+    "en": "3. For the purposes of section 12B(3) of the Act, a document (other than a form mentioned in rule 4) that contains any of the following information about an individual that is filed or lodged with, or obtained by, the Registrar on or after 9 December 2024, is an excluded document to which section 12B(1) of the Act does not apply:\n(a)the individual’s date of birth;\n(b)the individual’s residential address;\n(c)the individual’s email address;\n(d)the individual’s mobile telephone number."
+   }
+  },
+  {
+   "id": "SG-H045-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Prescribed information under section 12B(4)(c) of Act"
+   },
+   "text": {
+    "en": "4. For the purposes of section 12B(4)(c) of the Act, the reference to a document in section 12B(1) of the Act excludes the following entries in a form submitted on the electronic transaction system:\n(a)in the case of an individual —\n(i)the individual’s email address;\n(ii)the individual’s mobile telephone number; and\n(iii)the individual’s residential address;\n(b)in the case of an accounting corporation — the accounting corporation’s email address;\n(c)in the case of an accounting firm — the accounting firm’s email address;\n(d)in the case of an accounting LLP — the accounting LLP’s email address."
+   }
+  },
+  {
+   "id": "SG-H045-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Fees for copies, extracts and certification"
+   },
+   "text": {
+    "en": "5.—(1) The fees specified in the Schedule are payable in the manner determined by the Registrar.\n(2) The Registrar may for any reason waive, refund or remit, whether wholly or in part, any fee specified in the Schedule."
+   }
+  },
+  {
+   "id": "SG-H045-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRule 5\nFees\n1.\nFor supplying a copy of, or an extract from, any document mentioned in rule 2 (without attachments) which is filed with the Registrar\n$11 per document\n2.\nFor supplying a copy of, or an extract from, any document mentioned in rule 2 (including attachments) which is filed with the Registrar\n$26 per document\n3.\nCertification of a copy of, or an extract from, any document mentioned in rule 2 as the copy which is filed with the Registrar\n$1 per page or part of a page for electronic certification"
+   }
+  }
+ ]
+}

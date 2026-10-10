@@ -1,0 +1,77 @@
+{
+ "id": "CN-JI-0165",
+ "title": {
+  "zh": "最高人民法院关于海关行政处罚案件诉讼管辖问题的解释",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p07",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2002-01-30",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 251,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于海关行政处罚案件诉讼管辖问题的解释_20020130.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，整篇作为一条录入，共 1 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于海关行政处罚案件诉讼管辖问题的解释_20020130.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0165-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "全文"
+   },
+   "text": {
+    "zh": "最高人民法院\n关于海关行政处罚案件诉讼\n管辖问题的解释\n法释〔2002〕4号\n（2002年1月28日最高人民法院审判委员会第1209次会议通过 2002年1月30日最高人民法院公告公布 自2002年2月7日起施行）\n为规范海事法院的受理案件范围，根据《中华人民共和国行政诉讼法》的有关规定，现就海关行政处罚案件的诉讼管辖问题解释如下：\n相对人不服海关作出的行政处罚决定提起诉讼的案件，由有管辖权的地方人民法院依照《中华人民共和国行政诉讼法》的有关规定审理。相对人向海事法院提起诉讼的，海事法院不予受理。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于海关行政处罚案件诉讼管辖问题的解释"
+  },
+  "promulgatedDate": "2002-01-30",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

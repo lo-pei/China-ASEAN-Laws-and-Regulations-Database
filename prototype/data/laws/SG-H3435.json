@@ -1,0 +1,62 @@
+{
+ "id": "SG-H3435",
+ "title": {
+  "zh": null,
+  "en": "Order under Section 11(3)",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p43",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation RELA1983-S344-2003",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1518,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/RELA1983-S344-2003?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 2 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3435-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Revised Edition of the Laws Act\n(Chapter 275)\nOrder under Section 11 (3)\nWhereas pursuant to section 10 of the Revised Edition of the Laws Act, the Law Revision Commissioners have published in loose-leaf form the Acts set out in the Schedule as in force on 30th June 2003:\nAnd Whereas it is provided under section 11(3) of the Revised Edition of the Laws Act that the Commissioners shall transmit to the President a copy of each of the loose-leaf edition of these Acts and the President may thereupon, by order published in the Gazette, specify that the loose-leaf edition of these Acts shall, in all courts and for all purposes, be the sole and only proper law of Singapore in respect of those Acts:\nNow therefore it is hereby ordered by the President that the loose-leaf edition of these Acts shall, with effect from 31st July 2003, be the sole and only proper law of Singapore in respect of those Acts."
+   }
+  },
+  {
+   "id": "SG-H3435-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\n1. Arms and Explosives Act (Chapter 13)\n2. Banking Act (Chapter 19)\n3. Broadcasting Act (Chapter 28)\n4. Infectious Diseases Act (Chapter 137)\n5. International Development Association Act (Chapter 144A)\n6. Media Development Authority of Singapore Act (Chapter 172)\n7. National Environment Agency Act (Chapter 195)\n8. Payment and Settlement Systems (Finality and Netting) Act (Chapter 231)\n9. Republic Polytechnic Act (Chapter 270)\n10. Strategic Goods (Control) Act (Chapter 300)\n11. Smoking (Control of Advertisements and Sale of Tobacco) Act\n12. Terrorism (Suppression of Financing) Act (Chapter 325)"
+   }
+  }
+ ]
+}

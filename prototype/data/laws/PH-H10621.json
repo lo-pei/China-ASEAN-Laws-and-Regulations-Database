@@ -1,0 +1,104 @@
+{
+ "id": "PH-H10621",
+ "title": {
+  "zh": "对《国家国内税收法典 1997》的修改",
+  "en": "An Act Amending Sections 134 and 168 of Republic Act No. 8424, Otherwise Known as the National Internal Revenue Code of 1997, as Amended",
+  "orig": "An Act Amending Sections 134 and 168 of Republic Act No. 8424, Otherwise Known as the National Internal Revenue Code of 1997, as Amended"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p151",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2025-08-29",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 12235",
+ "officialCode": null,
+ "topics": [
+  "tax"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 2485,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2025/ra_12235_2025.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 6 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2025/ra_12235_2025.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H10621-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section 134 of the National Internal Revenue Code of 1997, as amended, is hereby amended to read as follows:\n\"Section 134. Denatured Alcohol. - Ethyl alcohol of not less than one hundred eighty degrees (180o) proof (ninety percent (90%) alcohol by volume), whether imported or locally manufactured, shall, when suitably denatured under Section 168 of this Code and rendered unfit for oral intake, be exempt from the excise tax, prescribed in Section 141: Provided, however, That such alcohol shall be subject to tax under Section 106(A) of this Code: Provided, further, That if such alcohol is to be used for motive power, it shall be taxed under Section 148(d) of this Code: Provided, finally, That any alcohol, previously rendered unfit for oral intake after denaturing but subsequently rendered fit for oral intake after undergoing further processing shall be taxed under Section 141 of this Code and such tax shall be paid by the person in possession of such reprocessed spirits.\""
+   }
+  },
+  {
+   "id": "PH-H10621-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section 168 of the National Internal Revenue Code of 1997, as amended, is hereby amended to read as follows:\n\"Section 168. Denaturing Within the Philippines. - For purposes of this Title, the process of denaturing alcohol of not less than one hundred eighty degrees (180o) proof (ninety percent (90%) alcohol by volume) in the Philippines shall be effected prior to removal from the premises of duly registered distilleries, and compounding plants where the rectifying facilities are located: Provided, That the denaturing process shall be done in accordance with the rules and regulations to be issued by the BIR which shall include the denaturant formulations to be used: Provided, further, That the BIR shall require a confirmatory testing prior to the removal of the denatured alcohol: Provided, finally, That the BIR shall designate BIR representatives to monitor the denaturing process.\""
+   }
+  },
+  {
+   "id": "PH-H10621-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Within ninety (90) days from the effectivity of this Act, the Secretary of Finance shall promulgate the necessary guidelines for the effective implementation of this Act."
+   }
+  },
+  {
+   "id": "PH-H10621-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "If any provision of this Act is declared unconstitutional or invalid, the validity of other provisions shall not be affected thereby."
+   }
+  },
+  {
+   "id": "PH-H10621-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "All laws, decrees, orders, rules and regulations, other issuances, or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H10621-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
+   }
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "BN-H115",
+ "title": {
+  "zh": "所得税法_1949",
+  "en": "Income Tax Act (Chapter 35)",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p06",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1949-12-31",
+ "effectiveDate": "1949-12-31",
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "文莱官方发布渠道",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 1002,
+ "source": {
+  "name": "文莱官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "文本未能可靠切分为条文（或原件为目录式排版），按整篇收录，未作改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-H115-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "# Income Tax Act (Chapter 35) > 本文件为自动采集的元数据头，随原始文件一同保存。\n> 原始文件未被改写；正文逐字照录于同目录下的原始文件。\n| 项目 | 内容 | | --- | --- | | 原文标题 | Income Tax Act (Chapter 35) | | 官方页面标注标题 | INCOME TAX ACT | TOG Template 2 | | 中文译名 | 所得税法（第35章） | | 英文译名 | Income Tax Act | | 法律领域 | 税法 | | 颁布机构 | 文莱总检察署（BRULAW） | | 官方来源 URL | https://www.agc.gov.bn/wp-content/uploads/2026/07/CAP-35-2024-ED-INCOME-TAX-ACT.pdf | | 数据抓取实际 URL | https://www.agc.gov.bn/wp-content/uploads/2026/07/CAP-35-2024-ED-INCOME-TAX-ACT.pdf | | 颁布日期 | 1949-12-31（官方记录页标注 commenced 31 Dec 1949） | | 生效日期 | 1949-12-31 | | 修订日期 | 2016、2017、2018、2020、2022、2024 年所得税法修正令（最新 S 46/2024） | | 版本 | 2024 年版（官方标注 2024 ED） | | 原文语种 | en | | 来源类型 | 官方（agc.gov.bn） | | 抓取日期 | 2026-10-03 | | 本地文件 | 文莱_所得税法_1949_en.pdf | | 文件格式 | pdf | | 文件大小(字节) | 709900 | | 页数 | 151 | | 字数 |  | | SHA-256 | ad50ed528b50e727a6b89ce06446144a60c69c7c7c39c6fd6a98ead2df4a7334 | | HTTP 状态 | 200 | | HTTPS 证书校验 | verified | | 完整性/缺失范围 | 官方 2024 年版全文 PDF（未删节） | | 备注 | 官方记录页另列大量税务协定令与规则，未一并采集。 |"
+   }
+  }
+ ]
+}

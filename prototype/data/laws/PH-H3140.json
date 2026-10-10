@@ -1,0 +1,84 @@
+{
+ "id": "PH-H3140",
+ "title": {
+  "zh": null,
+  "en": "An Act Creating the Municipality of Laguindingan in the Province of Misamis Oriental",
+  "orig": "An Act Creating the Municipality of Laguindingan in the Province of Misamis Oriental"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p44",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1963-06-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 3824",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1452,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1963/ra_3824_1963.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1963/ra_3824_1963.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3140-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The barrios of Aromahon, Gasi, Kibaghot, Laguindingan, Liberty, Mauswagon, Moog, Sambulawan, Sinai and Tubajon are hereby separated from the Municipality of Alubijid, Province of Misamis Oriental, and constituted into a new municipality of the same province to be known as the Municipality of Laguindingan."
+   }
+  },
+  {
+   "id": "PH-H3140-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The boundaries of the Municipality of Laguindingan are as follows:\n\"Beginning at point marked \"1\" on plan which is N 15° 42’ E, 10,060.00 meters from BLLM No. 2 located at Barrio Lourdes, thence S 44° 53’ W, 1,258.00 meters to point \"2\" thence S 15° 39’ W, 1651.00 meters to point \"3\" thence S 39° 52’ W, 672.00 meters to point \"4\" thence S 15° 39’ W, 972.50 meters to point \"5\" thence S 1° 58’ W, 911.30 meters to point \"6\" thence S 17° 55’ W, 3,214.00 meters to point \"7\" thence S 13° 50’ W, 342.90 meters to point \"8\" thence following the old Alubijid-Gitagum boundary (Natural) N 15° 00’ W, 3,800.00 meters to point \"9\" thence N 18° 00’ W, 5,800 meters to point \"10\" thence following the natural shore line, approximately 9,710.00 meters to point of beginning.\""
+   }
+  },
+  {
+   "id": "PH-H3140-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The first mayor, vice-mayor and councilors of the municipality shall be appointed by the President of the Philippines with the consent of the Commission on Appointments and shall continue in office until their successors shall have been elected in the next election for local officials and shall have qualified."
+   }
+  },
+  {
+   "id": "PH-H3140-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
+   }
+  }
+ ]
+}

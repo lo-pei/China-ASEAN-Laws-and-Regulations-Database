@@ -1,0 +1,470 @@
+{
+ "id": "PH-H037",
+ "title": {
+  "zh": "ElectronicCommerceActRA8792",
+  "en": "Republic Act No. 8792",
+  "orig": null
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p02",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2000",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "菲律宾官方发布渠道",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "articleCount": 42,
+ "chars": 45038,
+ "source": {
+  "name": "菲律宾官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "自 2026-10-06 全库备份回流（_work/_backup_20261006/data/PH-H037.json）；条文逐字取自该备份，未改写、未补全；原始来源见 source 字段。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H037-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "Short Title - This Act shall be known as the \"Electronic Commerce Act of 2000.\""
+   }
+  },
+  {
+   "id": "PH-H037-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Article 2"
+   },
+   "text": {
+    "en": "Declaration of Policy - The State recognizes the vital role of information and communications technology (ICT) in nation-building; the need to create an information-friendly environment which supports and ensures the availability, diversity and affordability of ICT products and services; the primary responsibility of the private sector in contributing investments and services in telecommunications and information technology; the need to develop, with appropriate training programs and institutional policy changes, human resources for the information technology age, a labor force skilled in the use of ICT and a population capable of operating and utilizing electronic appliances and computers; its obligation to facilitate the transfer and promotion of technology; to ensure network security, connectivity and neutrality of technology for the national benefit; and the need to marshal, organize and deploy national information infrastructures, comprising in both telecommunications network and strategic information services, including their interconnection to the global information networks, with the necessary and appropriate legal, financial, diplomatic and technical framework, systems and facilities.\n\nPART II\nELECTRONIC COMMERCE IN GENERAL\n\nCHAPTER I\nGENERAL PROVISIONS"
+   }
+  },
+  {
+   "id": "PH-H037-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Article 3"
+   },
+   "text": {
+    "en": "Objective - This Act aims to facilitate domestic and international dealings, transactions, arrangements agreements, contracts and exchanges and storage of information through the utilization of electronic, optical and similar medium, mode, instrumentality and technology to recognize the authenticity and reliability of electronic documents related to such activities and to promote the universal use of electronic transaction in the government and general public."
+   }
+  },
+  {
+   "id": "PH-H037-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Article 4"
+   },
+   "text": {
+    "en": "Sphere of Application - This Act shall apply to any kind of data message and electronic document used in the context of commercial and non-commercial activities to include domestic and international dealings, transactions, arrangements, agreements contracts and exchanges and storage of information."
+   }
+  },
+  {
+   "id": "PH-H037-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Article 5"
+   },
+   "text": {
+    "en": "Definition of Terms - For the purposes of this Act, the following terms are defined, as follows:\n\n(a) \"Addressee\" refers to a person who is intended by the originator to receive the electronic data message or electronic document. The term does not include a person acting as an intermediary with respect to that electronic data message or electronic data document.\n\n(b) \"Computer\" refers to any device or apparatus which, by electronic, electro-mechanical, or magnetic impulse, or by other means, is capable of receiving, recording, transmitting, storing, processing, retrieving, or producing information, data, figures, symbols or other modes of written expression according to mathematical and logical rules or of performing any one or more of these functions.\n\n(c) \"Electronic Data Message\" refers to information generated, sent, received or stored by electronic, optical or similar means.\n\n(d) \"Information and Communications System\" refers to a system intended for and capable of generating, sending, receiving, storing, or otherwise processing electronic data messages or electronic documents and includes the computer system or other similar device by or in which data is recorded or stored and any procedures related to the recording or storage of electronic data message or electronic document.\n\n(e) \"Electronic Signature\" refers to any distinctive mark, characteristic and/or sound in electronic form, representing the identity of a person and attached to or logically associated with the electronic data message or electronic document or any methodology or procedures employed or adopted by a person and executed or adopted by such person with the intention of authenticating or approving an electronic data message or electronic document.\n\n(f) \"Electronic Document\" refers to information or the representation of information, data, figures, symbols or other modes of written expression, described or however represented, by which a right is established or an obligation extinguished, or by which a fact may be prove and affirmed, which is receive, recorded, transmitted, stored, processed, retrieved or produced electronically.\n\n(g) \"Electronic Key\" refers to a secret code which secures and defends sensitive information that cross over public channels into a form decipherable only with a matching electronic key.\n\n(h) \"Intermediary\" refers to a person who in behalf of another person and with respect to a particular electronic document sends, receives and/or stores provides other services in respect of that electronic data message or electronic document.\n\n(i) \"Originator\" refers to a person by whom, or on whose behalf, the electronic document purports to have been created, generated and/or sent. The term does not include a person acting as an intermediary with respect to that electronic document.\n\n(j) \"Service provider\" refers to a provider of -\n\ni. On-line services or network access or the operator of facilities therefor, including entities offering the transmission, routing, or providing of connections for online communications, digital or otherwise, between or among points specified by a user, of electronic documents of the user's choosing; or\n\nii. The necessary technical means by which electronic documents of an originator may be stored and made accessible to designated or undesignated third party.\n\nSuch service providers shall have no authority to modify or alter the content of the electronic data message or electronic document received or to make any entry therein on behalf of the originator, addressee or any third party unless specifically authorized to do so, and who shall retain the electronic document in accordance with the specific request or as necessary for the purpose of performing the services it was engaged to perform.\n\nCHAPTER II\nLEGAL RECOGNITION OF ELECTRONIC WRITING\nOR DOCUMENT AND DATA MESSAGES"
+   }
+  },
+  {
+   "id": "PH-H037-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Article 6"
+   },
+   "text": {
+    "en": "Legal Recognition of Electronic Data Messages - Information shall not be denied legal effect, validity or enforceability solely on the grounds that it is in the data message purporting to give rise to such legal effect, or that it is merely referred to in that electronic data message."
+   }
+  },
+  {
+   "id": "PH-H037-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Article 7"
+   },
+   "text": {
+    "en": "Legal Recognition of Electronic Documents - Electronic documents shall have the legal effect, validity or enforceability as any other document or legal writing, and -\n\n(a) Where the law requires a document to be in writing, that requirement is met by an electronic document if the said electronic document maintains its integrity and reliability and can be authenticated so as to be usable for subsequent reference, in that -\n\ni. The electronic document has remained complete and unaltered, apart from the addition of any endorsement and any authorized change, or any change which arises in the normal course of communication, storage and display; and\n\nii. The electronic document is reliable in the light of the purpose for which it was generated and in the light of all relevant circumstances.\n\n(b) Paragraph (a) applies whether the requirement therein is in the form of an obligation or whether the law simply provides consequences for the document not being presented or retained in its original from.\n\n(c) Where the law requires that a document be presented or retained in its original form, that requirement is met by an electronic document if -\n\ni. There exists a reliable assurance as to the integrity of the document from the time when it was first generated in its final form; and\n\nii. That document is capable of being displayed to the person to whom it is to be presented: Provided, That no provision of this Act shall apply to vary any and all requirements of existing laws on formalities required in the execution of documents for their validity.\n\nFor evidentiary purposes, an electronic document shall be the functional equivalent of a written document under existing laws.\n\nThis Act does not modify any statutory rule relating to admissibility of electronic data massages or electronic documents, except the rules relating to authentication and best evidence."
+   }
+  },
+  {
+   "id": "PH-H037-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Article 8"
+   },
+   "text": {
+    "en": "Legal Recognition of Electronic Signatures. - An electronic signature on the electronic document shall be equivalent to the signature of a person on a written document if that signature is proved by showing that a prescribed procedure, not alterable by the parties interested in the electronic document, existed under which -\n\n(a) A method is used to identify the party sought to be bound and to indicate said party's access to the electronic document necessary for his consent or approval through the electronic signature;\n\n(b) Said method is reliable and appropriate for the purpose for which the electronic document was generated or communicated, in the light of all circumstances, including any relevant agreement;\n\n(c) It is necessary for the party sought to be bound, in or order to proceed further with the transaction, to have executed or provided the electronic signature; and\n\n(d) The other party is authorized and enabled to verify the electronic signature and to make the decision to proceed with the transaction authenticated by the same."
+   }
+  },
+  {
+   "id": "PH-H037-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Article 9"
+   },
+   "text": {
+    "en": "Presumption Relating to Electronic Signatures - In any proceedings involving an electronic signature, it shall be presumed that -\n\n(a) The electronic signature is the signature of the person to whom it correlates; and\n\n(b) The electronic signature was affixed by that person with the intention of signing or approving the electronic document unless the person relying on the electronically signed electronic document knows or has noticed of defects in or unreliability of the signature or reliance on the electronic signature is not reasonable under the circumstances."
+   }
+  },
+  {
+   "id": "PH-H037-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Article 10"
+   },
+   "heading": {
+    "en": "Original Documents. -"
+   },
+   "text": {
+    "en": "(1) Where the law requires information to be presented or retained in its original form, that requirement is met by an electronic data message or electronic document if;\n\n(a) the integrity of the information from the time when it was first generated in its final form, as an electronic data message or electronic document is shown by evidence aliunde or otherwise; and\n\n(b) where it is required that information be resented, that the information is capable of being displayed to the person to whom it is to be presented.\n\n(2) Paragraph (1) applies whether the requirement therein is in the form of an obligation or whether the law simply provides consequences for the information not being presented or retained in its original form.\n\n(3) For the purpose of subparagraph (a) of paragraph (1):\n\n(a) the criteria for assessing integrity shall be whether the information has remained complete and unaltered, apart from the addition of any endorsement and any change which arises in the normal course of communication, storage and display ; and\n\n(b) the standard of reliability required shall be assessed in the light of purposed for which the information was generated and in the light of all the relevant circumstances."
+   }
+  },
+  {
+   "id": "PH-H037-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Article 11"
+   },
+   "text": {
+    "en": "Authentication of Electronic Data Messages and Electronic Documents. - Until the Supreme Court by appropriate rules shall have so provided, electronic documents, electronic data messages and electronic signatures, shall be authenticated by demonstrating, substantiating and validating a claimed identity of a user, device, or another entity is an information or communication system, among other ways, as follows;\n\n(a) The electronic signature shall be authenticated by proof than a letter , character, number or other symbol in electronic form representing the persons named in and attached to or logically associated with an electronic data message, electronic document, or that the appropriate methodology or security procedures, when applicable, were employed or adopted by such person, with the intention of authenticating or approving in an electronic data message or electronic document;\n\n(b) The electronic data message or electronic document shall be authenticated by proof that an appropriate security procedure, when applicable was adopted and employed for the purpose of verifying the originator of an electronic data message and/or electronic document, or detecting error or alteration in the communication, content or storage of an electronic document or electronic data message from a specific point, which, using algorithm or codes, identifying words or numbers, encryptions, answers back or acknowledgement procedures, or similar security devices.\n\nThe supreme court may adopt such other authentication procedures, including the use of electronic notarization systems as necessary and advisable, as well as the certificate of authentication on printed or hard copies of the electronic document or electronic data messages by electronic notaries, service providers and other duly recognized or appointed certification authorities.\n\nThe person seeking to introduce an electronic data message or electronic document in any legal proceeding has the burden of proving its authenticity by evidence capable of supporting a finding that the electronic data message or electronic document is what the person claims it be.\n\nIn the absence of evidence to the contrary, the integrity of the information and communication system in which an electronic data message or electronic document is recorded or stored may be established in any legal proceeding -\n\na.) By evidence that at all material times the information and communication system or other similar device was operating in a manner that did not affect the integrity of the electronic data message and/or electronic document, and there are no other reasonable grounds to doubt the integrity of the information and communication system,\n\nb.) By showing that the electronic data message and/or electronic document was recorded or stored by a party to the proceedings who is adverse in interest to the party using it; or\n\nc.) By showing that the electronic data message and/or electronic document was recorded or stored in the usual and ordinary course of business by a person who is not a party to the proceedings and who did not act under the control of the party using the record."
+   }
+  },
+  {
+   "id": "PH-H037-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Article 12"
+   },
+   "text": {
+    "en": "Admissibility and Evidential Weight of Electronic Data Message or Electronic Document. - In any legal proceedings, nothing in the application of the rules on evidence shall deny the admissibility of an electronic data message or electronic document in evidence -\n\n(a) On the sole ground that it is in electronic form; or\n\n(b) On the ground that it is not in the standard written form, and the electronic data message or electronic document meeting, and complying with the requirements under Sections 6 or 7 hereof shall be the best evidence of the agreement and transaction contained therein.\n\nIn assessing the evidential weight of an electronic data message or electronic document, the reliability of the manner in which it was generated, stored or communicated, the reliability of the manner in which its originator was identified, and other relevant factors shall be given due regard."
+   }
+  },
+  {
+   "id": "PH-H037-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Article 13"
+   },
+   "text": {
+    "en": "Retention of Electronic Data Message or Electronic Document. - Notwithstanding any provision of law, rule or regulation to the contrary -\n\n(a) The requirement in any provision of law that certain documents be retained in their original form is satisfied by retaining them in the form of an electronic data message or electronic document which -\n\n(i) Remains accessible so as to be usable for subsequent reference;\n\n(ii) Is retained in the format in which it was generated, sent or received, or in a format which can be demonstrated to accurately represent the electronic data message or electronic document generated, sent or received;\n\n(iii) Enables the identification of its originator and addressee, as well as the determination of the date and the time it was sent or received.\n\n(b) The requirement referred to in paragraph (a) is satisfied by using the services of a third party, provided that the conditions set fourth in subparagraph s (i), (ii) and (iii) of paragraph (a) are met."
+   }
+  },
+  {
+   "id": "PH-H037-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Article 14"
+   },
+   "text": {
+    "en": "Proof by Affidavit. - The matters referred to in Section 12, on admissibility and Section 9, on the presumption of integrity, may be presumed to have been established by an affidavit given to the best of the deponent's knowledge subject to the rights of parties in interest as defined in the following section."
+   }
+  },
+  {
+   "id": "PH-H037-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Article 15"
+   },
+   "text": {
+    "en": "Cross - Examination.\n\n(1) A deponent of an affidavit referred to in Section 14 that has been introduced in evidence may be cross-examined as of right by a party to the proceedings who is adverse in interest to the party who has introduced the affidavit or has caused the affidavit to be introduced.\n\n(2) Any party to the proceedings has the right to cross-examine a person referred to in section 11, paragraph 4, sub paragraph c.\n\nCHAPTER III.\nCOMMUNICATION OF ELECTRONIC DATA MESSAGES OR ELECTRONIC DOCUMENTS"
+   }
+  },
+  {
+   "id": "PH-H037-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Article 16"
+   },
+   "text": {
+    "en": "Formation of Validity of Electronic Contracts.\n\n(1) Except as otherwise agreed by the parties, an offer, the acceptance of an offer and such other elements required under existing laws for the formation of contracts may be expressed in, demonstrated and proved by means of electronic data messages or electronic documents and no contract shall be denied validity or enforceability on the sole ground that it is in the form of an electronic data message or electronic document, or that any or all of the elements required under existing laws for the formation of contracts is expressed, demonstrated and proved by means of electronic data messages or electronic documents.\n\n(2) Electronic transactions made through networking among banks, or linkages thereof with other entities or networks, and vice versa, shall be deemed consummated upon the actual dispensing of cash or the debit of one account and the corresponding credit to another, whether such transaction is initiated by the depositor or by an authorized collecting party: Provided, that the obligation of one bank, entity, or person similarly situated to another arising therefrom shall be considered absolute and shall not be subjected to the process of preference of credits."
+   }
+  },
+  {
+   "id": "PH-H037-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Article 17"
+   },
+   "text": {
+    "en": "Recognition by Parties of Electronic Data Message or Electronic Document. - As between the originator and the addressee of an electronic data message or electronic document, a declaration of will or other statement shall not be denied legal effect, validity or enforceability solely on the ground that it is in the form of an electronic data message."
+   }
+  },
+  {
+   "id": "PH-H037-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Article 18"
+   },
+   "heading": {
+    "en": "Attribution of Electronic Data Message. -"
+   },
+   "text": {
+    "en": "(1) An electronic data message or electronic document is that of the originator if it was sent by the originator himself.\n\n(2) As between the originator and the addressee, an electronic data message or electronic document is deemed to be that of the originator if it was sent:\n\n(a) by a person who had the authority to act on behalf of the originator with respect to that electronic data message or electronic document; or\n\n(b) by an information system programmed by, or on behalf of the originator to operate automatically.\n\n(3) As between the originator and the addressee, an addressee is entitled to regard an electronic data message or electronic document as being that of the originator, and to act on that assumption, if:\n\n(a) in order to ascertain whether the electronic data message or electronic document was that of the originator, the addressee properly applied a procedure previously agreed to by the originator for that purpose; or\n\n(b) the electronic data message or electronic document as received by the addressee resulted from the actions of a person whose relationship with the originator or with any agent of the originator enabled that person to gain access to a method used by the originator to identify electronic data messages as his own.\n\n(4) Paragraph (3) does not apply:\n\n(a) as of the time when the addressee has both received notice from the originator that the electronic data message or electronic document is not that of the originator, and has reasonable time to act accordingly; or\n\n(b) in a case within paragraph (3) sub-paragraph (b), at any time when the addressee knew or should have known, had it exercised reasonable care of used any agreed procedure, that the electronic data message or electronic document was not that of the originator.\n\n(5) Where an electronic data message or electronic document is that of the originator or is deemed to be that of the originator, or the addressee is entitled to act on that assumption, then, as between the originator and the addressee, the addressee is entitled to regard the electronic data message or electronic document as received as being what the originator intended to send, and to act on that assumption. The addressee is not so entitled when it knew or should have known, had it exercised treasonable care or used any agreed procedure, that the transmission resulted in any error in the electronic data message or electronic document as received.\n\n(6) The addressee is entitled to regard each electronic data message or electronic document received as a separate electronic data message or electronic document and to act on that assumption, except to the extent that it duplicates another electronic data message or electronic document and the addressee knew or should have known, had it exercised reasonable care or used any agreed procedure, that the electronic data message or electronic document was a duplicate."
+   }
+  },
+  {
+   "id": "PH-H037-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Article 19"
+   },
+   "text": {
+    "en": "Error on Electronic Data Message or Electronic Document. - The addressee is entitled to regard the electronic data message or electronic document received as that which the originator intended to send, and to act on that assumption, unless the addressee knew or should have known, had the addressee exercised reasonable care or used the appropriate procedure -\n\n(a) That the transmission resulted in any error therein or in the electronic document when the electronic data message or electronic document enters the designated information system, or\n\n(b) That electronic data message or electronic document is sent to an information system which is not so designated by the addressee for the purposes."
+   }
+  },
+  {
+   "id": "PH-H037-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Article 20"
+   },
+   "text": {
+    "en": "Agreement on Acknowledgement of Receipt of Electronic Data Messages or Electronic Documents. - The following rules shall apply where, on or before sending an electronic data message or electronic document, the originator and the addressee have agreed, or in that electronic document or electronic data message, the originator has requested, that receipt of the electronic document or electronic data message be acknowledged:\n\na.) Where the originator has not agreed with the addressee that the acknowledgement be given in a particular form or by a particular method, an acknowledgement may be given by or through any communication by the addressee, automated or otherwise, or any conduct of the addressee, sufficient to indicate to the originator that the electronic data message or electronic document has been received.\n\nb.) Where the originator has stated that the effect or significance of the electronic data message or electronic document is conditional on receipt of the acknowledgement thereof, the electronic data message or electronic document is treated as though it has never been sent, until the acknowledgement is received.\n\nc.) Where the originator has not stated that the effect or significance of the electronic data message or electronic document is conditional on receipt of the acknowledgement, and the acknowledgement has not been received by the originator within the time specified or agreed or, if no time has been specified or agreed, within the reasonable time, the originator may give notice to the addressee stating that no acknowledgement has been received and specifying a reasonable time by which the acknowledgement must be received; and if the acknowledgement is not received within the time specified in subparagraph (c), the originator may, upon notice to the addressee, treat the electronic document or electronic data as though it had never been sent, or exercise any other rights it may have."
+   }
+  },
+  {
+   "id": "PH-H037-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Article 21"
+   },
+   "text": {
+    "en": "Time of Dispatch of Electronic Data Messages or Electronic Documents. - Unless otherwise agreed between the originator and the addressee, the dispatch of an electronic data message or electronic document occurs when it enters an information system outside the control of the originator or of the person who sent the electronic data message or electronic document on behalf of the originator."
+   }
+  },
+  {
+   "id": "PH-H037-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Article 22"
+   },
+   "text": {
+    "en": "Time of Receipt of Electronic Data Messages or Electronic Documents. - Unless otherwise agreed between the originator and the addressee, the time of receipt of an electronic data message or electronic document is as follows:\n\na.) If the addressee has designated an information system for the purpose of receiving electronic data message or electronic document, receipt occurs at the time when the electronic data message or electronic document enters the designated information system: Provide, however, that if the originator and the addressee are both participants in the designated information system, receipt occurs at the time when the electronic data message or electronic document is retrieved by the addressee;\n\nb.) If the electronic data message or electronic document is sent to an information system of the addressee that is not the designated information system, receipt occurs at the time when the electronic data message or electronic document is retrieved by the addressee;\n\nc.) If the addressee has not designated an information system, receipt occurs when the electronic data message or electronic document enters an information system of the addressee.\n\nThese rules apply notwithstanding that the place where the information system is located may be different from the place where the electronic data message or electronic document is deemed to be received."
+   }
+  },
+  {
+   "id": "PH-H037-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Article 23"
+   },
+   "text": {
+    "en": "Place of Dispatch and Receipt of Electronic Data Messages or Electronic Documents. - Unless otherwise agreed between the originator and the addressee, an electronic data message or electronic document is deemed to be dispatched at the place where the originator has its place of business and received at the place where the addressee has its place of business. This rule shall apply even if the originator or addressee had used a laptop other portable device to transmit or received his electronic data message or electronic document. This rule shall also apply to determine the tax situs of such transaction.\n\nFor the purpose hereof -\n\na. If the originator or addressee has more than one place of business, the place of business is that which has the closest relationship to the underlying transaction or, where there is no underlying transaction, the principal place of business.\n\nb. If the originator or the addressee does not have a place of business, reference is to be made to its habitual residence; or\n\nc. The \"usual place of residence\" in relation to a body corporate, means the place where it is incorporated or otherwise legally constituted."
+   }
+  },
+  {
+   "id": "PH-H037-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Article 24"
+   },
+   "text": {
+    "en": "Choice of Security Methods. - Subject to applicable laws and /or rules and guidelines promulgated by the Department of Trade and Industry with other appropriate government agencies, parties to any electronic transaction shall be free to determine the type of level of electronic data message and electronic document security needed, and to select and use or implement appropriate technological methods that suit their need.\n\nPART III\nELECTRONIC COMMERCE IN SPECIFIC AREAS\n\nCHAPTER I.\nCARRIAGE OF GOODS"
+   }
+  },
+  {
+   "id": "PH-H037-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Article 25"
+   },
+   "text": {
+    "en": "Actions Related to Contracts of Carriage of Goods. - Without derogating from the provisions of part two of this law, this chapter applies to any action in connection with, or in pursuance of, a contract of carriage of goods, including but not limited to:\n\n(a) (i) furnishing the marks, number, quantity or weight of goods;\n\n(ii) stating or declaring the nature or value of goods;\n\n(iii) issuing a receipt for goods;\n\n(iv) confirming that goods have been loaded;\n\n(b) (i) notifying a person of terms and conditions of the contract;\n\n(ii) giving instructions to a carrier;\n\n(c) (i) claiming delivery of goods;\n\n(ii) authorizing release of goods;\n\n(iii) giving notice of loss of, or damage to goods;\n\n(d) giving any other notice or statement in connection with the performance of the contract;\n\n(e) undertaking to deliver goods to a named person or a person authorized to claim delivery;\n\n(f) granting, acquiring, renouncing, surrendering, transferring or negotiating rights in goods;\n\n(g) acquiring or transferring rights and obligations under the contract."
+   }
+  },
+  {
+   "id": "PH-H037-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Article 26"
+   },
+   "text": {
+    "en": "Transport Documents. - (1) Where the law requires that any action referred to contract of carriage of goods be carried out in writing or by using a paper document, that requirement is met if the action is carried out by using one or more data messages or electronic documents.\n\n(2) Paragraph (1) applies whether the requirement there in is in the form of an obligation or whether the law simply provides consequences for failing either to carry out the action in writing or to use a paper document.\n\n(3) If a right is to be granted to, or an obligation is to be acquired by, one person and no person, and if the law requires that, in order to effect this, the right or obligation must be conveyed to that person by the transfer, or use of, a paper document, that requirement is met if the right or obligation is conveyed by using one or more electronic data messages or electronic documents unique;\n\n(4) For the purposes of paragraph (3), the standard of reliability required shall be assessed in the light of the purpose for which the right or obligation was conveyed and in the light of all the circumstances, including any relevant agreement.\n\n(5) Where one or more data messages are used to effect any action in subparagraphs (f) and (g) of Section 25, no paper document used to effect any such action is valid unless the use of electronic data message or electronic document has been terminated and replaced by the used of paper documents. A paper document issued in these circumstances shall contain a statement of such termination. The replacement of the electronic data messages or electronic documents by paper documents shall not affect the rights or obligation of the parties involved.\n\n(6) If a rule of laws is compulsorily applicable to a contract of carriage of goods which is in, or is evidenced by, a paper document, that rule shall not be inapplicable to such a contract of carriage of goods which is evidenced by one or more electronic data messages or electronic documents by reason of the fact that the contract is evidenced by such electronic data messages or electronic documents instead of by a paper document.\n\nPART IV\nELECTRONIC TRANSACTIONS IN GOVERNMENT"
+   }
+  },
+  {
+   "id": "PH-H037-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Article 27"
+   },
+   "text": {
+    "en": "Government Use of Electronic Data Messages, Electronic Documents and Electronic Signatures. - Notwithstanding any law to the contrary, within two (2) years from the date of the effectivity of this Act, all departments, bureaus, offices and agencies of the government, as well as all government-owned and -controlled corporations, that pursuant to law require or accept the filling of documents, require that documents be created, or retained and/or submitted, issue permits, licenses or certificates of registration or approval, or provide for the method and manner of payment or settlement of fees and other obligations to the government, shall -\n\n(a) accept the creation, filing or retention of such documents in the form of electronic data messages or electronic documents;\n\n(b) issue permits, licenses, or approval in the form of electronic data messages or electronic documents;\n\n(c) require and/or accept payments, and issue receipts acknowledging such payments, through systems using electronic data messages or electronic documents; or\n\n(d) transact the government business and/or perform governmental functions using electronic data messages or electronic documents, and for the purpose, are authorized to adopt and promulgate, after appropriate public hearing and with due publication in newspapers of general circulation, the appropriate rules, regulations, or guidelines, to, among others, specify -\n\n1) the manner and format in which such electronic data messages or electronic documents shall be filed, created, retained or issued;\n\n2) where and when such electronic data messages or electronic documents have to signed, the use of an electronic signature, the type of electronic signature required;\n\n3) the format of an electronic data message or electronic document and the manner the electronic signature shall be affixed to the electronic data message or electronic document;\n\n4) the control processes and procedures as appropriate to ensure adequate integrity, security and confidentiality of electronic data messages or electronic documents or records of payments;\n\n5) other attributes required to electronic data messages or electronic documents or payments; and\n\n6) the full or limited use of the documents and papers for compliance with the government requirements: Provided, that this Act shall be itself mandate any department of the government, organ of state or statutory corporation to accept or issue any document in the form of electronic data messages or electronic documents upon the adoption, promulgation and publication of the appropriate rules, regulations or guidelines."
+   }
+  },
+  {
+   "id": "PH-H037-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Article 28"
+   },
+   "text": {
+    "en": "RPWEB To Promote the Use of Electronic Documents or Electronic Data Messages In Government and to the General Public. - Within two (2) years from the effectivity of this Act, there shall be installed an electronic online network in accordance with Administrative Order 332 and House of Representatives Resolution 890, otherwise known as RPWEB, to implement Part IV of this Act to facilitate the open, speedy and efficient electronic online transmission, conveyance and use of electronic data messages or electronic documents amongst all government departments, agencies, bureaus, offices down to the division level and to the regional and provincial offices as practicable as possible, government owned and controlled corporations, local government units, other public instrumentalities, universities, colleges and other schools, and universal access to the general public.\n\nThe RPWEB network shall serve as initial platform of the government information infrastructure (GII) to facilitate the electronic online transmission and conveyance of government services to evolve and improve by better technologies or kinds and electronic online wide area networks utilizing, but not limited to, fiber optic, satellite, wireless and other broadband telecommunication mediums or modes.\n\nTo facilitate the rapid development of the GII, the Department of Transportation and Communications, National Telecommunications Commission and the National Computer Center are hereby directed to aggressively promote and implement a policy environment and regulatory framework that shall lead to the substantial reduction of costs of including, but not limited to, lease lines, land, satellite and dial-up telephone access, cheap broadband and wireless accessibility by government departments, agencies, bureaus, offices, government owned and controlled corporations, local government units, other public instrumentalities and the general public, to include the establishment of a government website portal and a domestic internal exchange system to facilitate strategic access to government and amongst agencies thereof and the general public and for the speedier flow of locally generated internal traffic within the Philippines.\n\nThe physical infrastructure of cable and wireless system for cable TV and broadcast excluding programming content and the management thereof shall be considered as within the activity of telecommunications for the purpose of electronic commerce and to maximize the convergence of ICT in the installation of the GII."
+   }
+  },
+  {
+   "id": "PH-H037-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Article 29"
+   },
+   "text": {
+    "en": "Authority of the Department of Trade and Industry and Participating Entities. - The Department of Trade and Industry (DTI) shall direct supervise the promotion and development of electronic commerce in the country with relevant government agencies, without prejudice to the provisions of Republic Act 7653 (Charter of Bangko Sentral ng Pilipinas) and Republic Act No. 337, (General Banking Act) as amended.\n\nAmong others, the DTI is empowered to promulgate rules and regulations, as well as provide quality standards or issue certifications, as the case may be, and perform such other functions as may be necessary for the implementation of this Act in the area of electronic commerce to include, but shall not limited to, the installation of an online public information and quality and price monitoring system for goods and services aimed in protecting the interests of the consuming public availing of the advantages of this Act.\n\nPART V\nFINAL PROVISIONS"
+   }
+  },
+  {
+   "id": "PH-H037-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Article 30"
+   },
+   "text": {
+    "en": "Extent of Liability of a Service Provider. - Except as otherwise provided in this Section, no person or party shall be subject to any civil or criminal liability in respect of the electronic data message or electronic document for which the person or party acting as a service provider as defined in Section 5 merely provides access if such liability is founded on -\n\n(a) The obligations and liabilities of the parties under the electronic data message or electronic document;\n\n(b) The making, publication, dissemination or distribution of such material or any statement made in such material, including possible infringement of any right subsisting in or in relation to such material. Provided, That:\n\ni. The service provider does not have actual knowledge, or is not aware of the facts or circumstances from which it is apparent, that the making, publication, dissemination or distribution of such material is unlawful or infringes any rights subsisting in or in relation to such material;\n\nii The service provider does not knowingly receive a financial benefit directly attributable to the unlawful or infringing activity; and\n\niii. The service provider does not directly commit any infringement or other unlawful act and does not induce or cause another person or party to commit any infringement or other unlawful act and/or does not benefit financially from the infringing activity or unlawful act or another person or party; Provider, further, That nothing in this Section shall affect -\n\n(a) Any obligation founded on contract;\n\n(b) The obligation of a service provider as such under a licensing or other regulatory regime established under written law; or\n\n(c) Any obligation imposed under any written law;\n\n(d) The civil liability of any party to the extent that such liability forms the basis for injunctive relief issued by a court under any law requiring that the service provider take or refrain from actions necessary to remove, block or deny access to any material, or to preserve evidence of a violation of law."
+   }
+  },
+  {
+   "id": "PH-H037-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Article 31"
+   },
+   "text": {
+    "en": "Lawful Access. - Access to an electronic file, or an electronic signature of an electronic data message or electronic document shall only be authorized and enforced in favor of the individual or entity having a legal right to the possession or the use of plaintext, electronic signature or file or solely for the authorized purposes. The electronic key for identity or integrity shall not be made available to any person or party without the consent of the individual or entity in lawful possession of that electronic key;"
+   }
+  },
+  {
+   "id": "PH-H037-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Article 32"
+   },
+   "text": {
+    "en": "Obligation of Confidentiality. - Except for the purposes authorized under this Act, any person who obtained access to any electronic key, electronic data message or electronic document, book, register, correspondence, information, or other material pursuant to any powers conferred under this Act, shall not convey to or share the same with any other person."
+   }
+  },
+  {
+   "id": "PH-H037-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Article 33"
+   },
+   "text": {
+    "en": "Penalties. - The following Acts, shall be penalized by fine and/or imprisonment, as follows:\n\n(a) Hacking or crackling with refers to unauthorized access into or interference in a computer system/server or information and communication system; or any access in order to corrupt, alter, steal, or destroy using a computer or other similar information and communication devices, without the knowledge and consent of the owner of the computer or information and communications system, including the introduction of computer viruses and the like, resulting in the corruption, destruction, alteration, theft or loss of electronic data messages or electronic documents shall be punished by a minimum fine of One Hundred Thousand pesos (P 100,000.00) and a maximum commensurate to the damage incurred and a mandatory imprisonment of six (6) months to three (3) years;\n\n(b) Piracy or the unauthorized copying, reproduction, dissemination, or distribution, importation, use, removal, alteration, substitution, modification, storage, uploading, downloading, communication, making available to the public, or broadcasting of protected material, electronic signature or copyrighted works including legally protected sound recordings or phonograms or information material on protected works, through the use of telecommunication networks, such as, but not limited to, the internet, in a manner that infringes intellectual property rights shall be punished by a minimum fine of one hundred thousand pesos (P 100,000.00) and a maximum commensurate to the damage incurred and a mandatory imprisonment of six (6) months to three (3) years;\n\n(c) Violations of the Consumer Act of Republic Act No. 7394 and other relevant to pertinent laws through transaction covered by or using electronic data messages or electronic documents, shall be penalized with the same penalties as provided in those laws;\n\n(d) Other violations of the provisions of this Act, shall be penalized with a maximum penalty of one million pesos (P 1,000,000.00) or six (6) years imprisonment."
+   }
+  },
+  {
+   "id": "PH-H037-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Article 34"
+   },
+   "text": {
+    "en": "Implementing Rules and Regulations. - The DTI, Department of Budget and Management and the Bangko Sentral ng Pilipinas are hereby empowered to enforced the provisions of this Act and issue implementing rules and regulations necessary, in coordination with the Department of Transportation and Communications, National Telecommunications Commission, National Computer Center, National Information Technology Council, Commission on Audit, other concerned agencies and the private sector, to implement this Act within sixty (60) days after its approval.\n\nFailure to Issue rules and regulations shall not in any manner affect the executory nature of the provisions of this Act."
+   }
+  },
+  {
+   "id": "PH-H037-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Article 35"
+   },
+   "text": {
+    "en": "Oversight Committee. - There shall be Congressional Oversight Committee composed of the Committees and Trade and Industry/Commerce, Science and Technology, Finance and Appropriations of both the Senate and House of Representatives, which shall meet at least every quarter of the first two years and every semester for the third year after the approval of this Act to oversee its implementation. The DTI, DBM, Bangko Sentral ng Pilipinas, and other government agencies as may be determined by the Congressional Committee shall provide a quarterly performance report of their actions taking in the implementation of this Act for the first three (3) years."
+   }
+  },
+  {
+   "id": "PH-H037-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Article 36"
+   },
+   "text": {
+    "en": "Appropriations. - The amount necessary to carry out the provisions of Sections 27 and 28 of this Act shall be charged against any available funds and/or savings under the General Appropriations Act of 2000 in the first year of effectivity of this Act. Thereafter, the funds needed for the continued implementation shall be included in the annual General Appropriations Act."
+   }
+  },
+  {
+   "id": "PH-H037-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Article 37"
+   },
+   "text": {
+    "en": "Statutory Interpretation. - Unless otherwise expressly provided for, the interpretation of this Act shall give due regard to its international origin and the need to promote uniformity in its application and the observance of good faith in international trade relations. The generally accepted principles of international law and convention on electronic commerce shall likewise be considered."
+   }
+  },
+  {
+   "id": "PH-H037-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Article 38"
+   },
+   "text": {
+    "en": "Variation by Agreement. - As between parties involved in generating, sending, receiving, storing or otherwise processing electronic data message or electronic document, any provision of this Act may be varied by agreement between and among them."
+   }
+  },
+  {
+   "id": "PH-H037-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Article 39"
+   },
+   "text": {
+    "en": "Reciprocity. - All benefits, privileges, advantages or statutory rules established under this Act, including those involving practice of profession, shall be enjoyed only by parties whose country origin grants the same benefits and privileges or advantages to Filipino citizens."
+   }
+  },
+  {
+   "id": "PH-H037-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Article 40"
+   },
+   "text": {
+    "en": "Separability Clause. - The provisions of this Act are hereby declared separable and in the event of any such provision is declared unconstitutional, the other provisions, which are not affected, shall remain in force and effect."
+   }
+  },
+  {
+   "id": "PH-H037-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Article 41"
+   },
+   "text": {
+    "en": "Repealing Clause. - All other laws, decrees, rules and regulations or parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H037-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Article 42"
+   },
+   "text": {
+    "en": "Effectivity. - This Act shall take effect immediately after its publication in the Official Gazette or in at least two (2) national newspapers of general circulation.\n\nApproved:\n\nJune 14, 2000\n\n(Sgd.) JOSEPH E. ESTRADA\nPresident of the Philippines\n\nSource: http://www.dilg.gov.ph/PDF_File/issuances/republic_acts/RA_8792.PDF\n\nThe Lawphil Project - Arellano Law Foundation"
+   }
+  }
+ ]
+}

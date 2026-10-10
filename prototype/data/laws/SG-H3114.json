@@ -1,0 +1,554 @@
+{
+ "id": "SG-H3114",
+ "title": {
+  "zh": null,
+  "en": "Medical Registration (Disciplinary Commission and Disciplinary Tribunal) Rules 2022",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p39",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MRA1997-S537-2022",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 32,
+ "chars": 29211,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MRA1997-S537-2022?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 32 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3114-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Rules are the Medical Registration (Disciplinary Commission and Disciplinary Tribunal) Rules 2022 and come into operation on 1 July 2022."
+   }
+  },
+  {
+   "id": "SG-H3114-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Rules, unless the context otherwise requires —\n“disciplinary offence” means an act or omission in respect of which a practitioner may be subject to disciplinary proceedings under Part 7 of the Act;\n“first hearing date”, in relation to a hearing of an inquiry, means the date fixed for the commencement of the hearing;\n“hearing” means the hearing of an inquiry by a Disciplinary Tribunal and includes a resumed hearing under rule 21(3);\n“inquiry” means a formal inquiry that a Disciplinary Tribunal is appointed under section 58(1) or 59(1) of the Act to conduct;\n“party” means a party to an inquiry;\n“respondent”, in relation to a complaint or an inquiry, means the registered medical practitioner who is the subject of the complaint or inquiry, as the case may be;\n“Secretariat of the Disciplinary Commission” means the Secretariat comprising public officers appointed under rule 31."
+   }
+  },
+  {
+   "id": "SG-H3114-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 REFERRALS TO DISCIPLINARY COMMISSION"
+   },
+   "heading": {
+    "en": "Referral of time-barred complaints"
+   },
+   "text": {
+    "en": "3. Any complaint or information referred by the Medical Council to the President of the Disciplinary Commission after the expiry of the period mentioned in section 41(3) of the Act or under section 42(1) or (2) of the Act must include the following:\n(a)a copy of the complaint or information and any supporting documents;\n(b)the Medical Council’s views as to the date that the period mentioned in section 41(1), (2) or (3) of the Act (as the case may be) had expired;\n(c)a statement by the Medical Council of the reasons —\n(i)where the complaint or information is referred to the President of the Disciplinary Commission after the expiry of the period mentioned in section 41(3) of the Act — why the Medical Council did not refer the complaint or information before the expiry of the period mentioned in that provision;\n(ii)where the complaint or information is referred to the President of the Disciplinary Commission under section 42(1) of the Act — why the complainant did not make a complaint or provide the information to the Medical Council before the expiry of the period mentioned in section 41(1) of the Act, as far as the reasons are known to the Medical Council; or\n(iii)where the complaint or information is referred to the President of the Disciplinary Commission under section 42(2) of the Act — why the Medical Council did not refer the complaint or information before the expiry of the period mentioned in section 41(2) of the Act."
+   }
+  },
+  {
+   "id": "SG-H3114-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 REFERRALS TO DISCIPLINARY COMMISSION"
+   },
+   "heading": {
+    "en": "Referral for appointment of Disciplinary Tribunal in serious cases"
+   },
+   "text": {
+    "en": "4. Where the Medical Council refers any complaint or information to the President of the Disciplinary Commission under section 40(7) of the Act for the appointment of a Disciplinary Tribunal, the Medical Council must submit the following at the same time as the referral:\n(a)the full name, identification number and registration status of the respondent;\n(b)the address of the respondent’s principal place of residence in Singapore;\n(c)the contact number of the respondent;\n(d)the electronic mail address or addresses of the respondent;\n(e)the name, principal business address and telephone or facsimile number of —\n(i)every hospital, institution or medical practice at which the respondent practises in Singapore; or\n(ii)where the respondent is not practising in Singapore at the time of the referral — every hospital, institution or medical practice at which the respondent last practised in Singapore;\n(f)the complaint or information in relation to the respondent;\n(g)every charge preferred by the Medical Council and the particulars in support of each charge;\n(h)where the complaint or information has been referred to an Interim Orders Committee — the names of the members of the Interim Orders Committee;\n(i)a statement of the specific grounds under section 40(7) of the Act upon which the complaint or information is being referred to the Disciplinary Tribunal."
+   }
+  },
+  {
+   "id": "SG-H3114-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 REFERRALS TO DISCIPLINARY COMMISSION"
+   },
+   "heading": {
+    "en": "Referral for appointment of Disciplinary Tribunal where recommended by Complaints Committee"
+   },
+   "text": {
+    "en": "5. Where the Medical Council refers any complaint or information to the President of the Disciplinary Commission under section 46(8) of the Act for the appointment of a Disciplinary Tribunal, the Medical Council must submit the following at the same time as the referral:\n(a)the information mentioned in rule 4(a) to (g);\n(b)the names of the members of the Complaints Committee that inquired into the complaint or information;\n(c)where the complaint or information has been referred to an Inquiry Committee, a Review Committee, a Health Committee or an Interim Orders Committee — the names of the members of each such committee."
+   }
+  },
+  {
+   "id": "SG-H3114-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 JOINING OF INQUIRIES"
+   },
+   "heading": {
+    "en": "Joining of disciplinary offences in one inquiry for one respondent"
+   },
+   "text": {
+    "en": "6. The President of the Disciplinary Commission or the Chief Justice (as the case may be) may appoint a Disciplinary Tribunal to conduct a single inquiry into 2 or more disciplinary offences alleged to be committed by a respondent where —\n(a)the disciplinary offences form or are a part of a series of disciplinary offences of the same or a similar character; or\n(b)the disciplinary offences are so connected as to form part of the same transaction."
+   }
+  },
+  {
+   "id": "SG-H3114-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 JOINING OF INQUIRIES"
+   },
+   "heading": {
+    "en": "Joint inquiry against 2 or more respondents"
+   },
+   "text": {
+    "en": "7. The President of the Disciplinary Commission or the Chief Justice (as the case may be) may appoint a Disciplinary Tribunal to conduct a joint inquiry against —\n(a)2 or more respondents alleged to have committed the same disciplinary offence in the same transaction;\n(b)2 or more respondents alleged to have committed different disciplinary offences in the same transaction;\n(c)2 or more respondents alleged to have committed 2 or more disciplinary offences which form or are a part of a series of disciplinary offences of the same or a similar character;\n(d)2 or more respondents alleged to have committed 2 or more disciplinary offences, if all of those offences arise from the same series of acts or omissions, whether or not they form part of the same transaction; or\n(e)one or more respondents alleged to have committed a disciplinary offence and one or more respondents alleged to have —\n(i)abetted the firstmentioned respondent or respondents to commit that disciplinary offence; or\n(ii)attempted to commit that disciplinary offence with the firstmentioned respondent or respondents."
+   }
+  },
+  {
+   "id": "SG-H3114-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 JOINING OF INQUIRIES"
+   },
+   "heading": {
+    "en": "Joining of inquiries with consent"
+   },
+   "text": {
+    "en": "8.—(1) Where a respondent is charged with 2 or more disciplinary offences in a case other than that in rule 6, the President of the Disciplinary Commission or the Chief Justice (as the case may be) may appoint a Disciplinary Tribunal to conduct a single inquiry into any 2 or more of those disciplinary offences if, at the time of the appointment of the Disciplinary Tribunal, the Medical Council and the respondent consent to have all such disciplinary offences dealt with at the same inquiry.\n(2) Where 2 or more respondents are charged with separate disciplinary offences in a case other than that in rule 7, the President of the Disciplinary Commission or the Chief Justice (as the case may be) may appoint a Disciplinary Tribunal to conduct a joint inquiry against 2 or more of those respondents if, at the time of the appointment of the Disciplinary Tribunal, the Medical Council and all such respondents consent to a joint inquiry.\n(3) Despite paragraphs (1) and (2), the Disciplinary Tribunal must not hold a single inquiry or joint inquiry (as the case may be) in relation to a respondent who had earlier given consent under paragraph (1) or (2), if —\n(a)at the time when the consent was given, the respondent was not represented by counsel; and\n(b)at any time before the first hearing date, the respondent objects to the Disciplinary Tribunal holding the single inquiry or joint inquiry, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H3114-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 JOINING OF INQUIRIES"
+   },
+   "heading": {
+    "en": "Disciplinary Tribunal may hold separate inquiries where respondent is prejudiced"
+   },
+   "text": {
+    "en": "9. Despite the provisions of this Part, a Disciplinary Tribunal that is of the view that a respondent may be prejudiced or embarrassed in the respondent’s defence by the holding of a single inquiry or joint inquiry under rule 6, 7 or 8 may, at any stage of the inquiry, hold separate inquiries for one or more disciplinary offences alleged to have been committed by the respondent."
+   }
+  },
+  {
+   "id": "SG-H3114-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEEDINGS OF A DISCIPLINARY TRIBUNAL"
+   },
+   "heading": {
+    "en": "Notice of inquiry"
+   },
+   "text": {
+    "en": "10.—(1) Where a Disciplinary Tribunal is appointed under section 58(1) or 59(1) of the Act to conduct an inquiry, the Disciplinary Commission must serve, on the Medical Council and every respondent to the inquiry, a notice of inquiry in accordance with paragraph (2).\n(2) The notice of inquiry must —\n(a)specify, in the form of a charge or charges preferred by the Medical Council, the matters that the Disciplinary Tribunal is to inquire into;\n(b)state the date, time and place at which a pre-hearing conference is to be held;\n(c)be accompanied by the particulars in support of each charge;\n(d)be in the form set out in www.dc.gov.sg; and\n(e)be served in accordance with section 68B of the Act."
+   }
+  },
+  {
+   "id": "SG-H3114-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEEDINGS OF A DISCIPLINARY TRIBUNAL"
+   },
+   "heading": {
+    "en": "Summary of defence"
+   },
+   "text": {
+    "en": "11.—(1) A respondent may serve a summary of defence on the Medical Council no later than 10 days before the date of the pre‑hearing conference mentioned in rule 10(2)(b).\n(2) Where a respondent serves a summary of defence on the Medical Council, the respondent must, at the same time, submit the summary of defence to the Disciplinary Tribunal."
+   }
+  },
+  {
+   "id": "SG-H3114-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEEDINGS OF A DISCIPLINARY TRIBUNAL"
+   },
+   "heading": {
+    "en": "Pre-hearing conference"
+   },
+   "text": {
+    "en": "12.—(1) A Disciplinary Tribunal may, at any time after it is appointed, on its own motion or upon the application of any party, direct any party to attend a pre-hearing conference before the Disciplinary Tribunal.\n(2) The Disciplinary Tribunal may make one or more of the following orders at a pre‑hearing conference:\n(a)that one or more independent experts are to be appointed;\n(b)that each party may appoint their own respective experts;\n(c)the time within which any expert report is to be submitted to the Disciplinary Tribunal and served on the Medical Council and respondent;\n(d)the calling of any other witness to give evidence in relation to the complaint or information, whether or not any party will be calling that witness to give evidence for that party;\n(e)the submission of a witness statement by the witness mentioned in sub‑paragraph (d);\n(f)the date or dates on which the hearing of the inquiry is to be held, which must be no earlier than 28 days after the date the notice of inquiry is served on the respondent, unless the respondent agrees to an earlier date for the hearing;\n(g)any other order or direction (which may include a waiver or modification of any requirement under rule 11, 16, 17 or 18) as the Disciplinary Tribunal thinks fit for the just, expeditious and economical disposal of the inquiry.\n(3) The Disciplinary Tribunal may be assisted at the pre‑hearing conference by an advocate and solicitor appointed by the Disciplinary Tribunal under section 59B(1)(b) of the Act.\n(4) The Disciplinary Tribunal may adjourn a pre‑hearing conference from time to time, either generally or to a particular date, as may be appropriate."
+   }
+  },
+  {
+   "id": "SG-H3114-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEEDINGS OF A DISCIPLINARY TRIBUNAL"
+   },
+   "heading": {
+    "en": "Disclosure of documents"
+   },
+   "text": {
+    "en": "13.—(1) Subject to paragraph (2), the Disciplinary Tribunal may, upon the application of any party, order the other party (A) to produce a document in A’s possession or control that is relevant to any matter before the Disciplinary Tribunal.\n(2) Without affecting section 51(3) of the Act, paragraph (1) does not apply to, or in relation to, the following documents:\n(a)any report from an Inquiry Committee or a Complaints Committee to the Medical Council prepared in relation to an investigation or inquiry commenced under Part 7 of the Act or any document containing the internal deliberations of the Inquiry Committee or Complaints Committee in the preparation of the report;\n(b)any correspondence between an Inquiry Committee or a Complaints Committee and an investigator exchanged in relation to an investigation directed under section 43(3)(b)(ii) or (c) or 45(7)(b) of the Act;\n(c)a document supplied by a public authority to the Medical Council or any Inquiry Committee or Complaints Committee, in respect of which disclosure would be, in the opinion of the public authority, contrary to the public interest."
+   }
+  },
+  {
+   "id": "SG-H3114-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEEDINGS OF A DISCIPLINARY TRIBUNAL"
+   },
+   "heading": {
+    "en": "Requests for confidential treatment"
+   },
+   "text": {
+    "en": "14.—(1) A request for the confidential treatment of a document, part of a document, or information, produced or given for the purposes of an inquiry must —\n(a)be made to the Disciplinary Tribunal in writing by the party who produced the document or gave the information, when producing the document or giving the information;\n(b)where the request relates to part of a document, state the relevant words, figures or passages for which confidentiality is claimed; and\n(c)contain the reasons for the request for withholding the document or information from any party and, where the request relates to part of a document, the reasons specific to each such part.\n(2) The party making the request must also submit to the Disciplinary Tribunal, if the person considers it possible to summarise or redact the material in the document, part of the document, or information, a non‑confidential version of the document, part of the document or information (as the case may be) in a form that can be given to any party.\n(3) A request for confidential treatment must not be considered if the request does not comply with paragraph (1), unless the Disciplinary Tribunal considers that the circumstances are exceptional.\n(4) The Disciplinary Tribunal may grant the confidential treatment requested on any condition the Disciplinary Tribunal thinks fit (including changes to the summary or redacting of material in any non‑confidential version under paragraph (2)), if the Disciplinary Tribunal is satisfied that the document, part of the document, or information contains, or is, in the Disciplinary Tribunal’s opinion —\n(a)information the disclosure of which would be contrary to the public interest;\n(b)commercial information the disclosure of which may significantly harm the legitimate business interests of the undertaking to which it relates; or\n(c)information relating to the private affairs of an individual the disclosure of which would or may significantly harm the interests of that individual.\n(5) In the event of a dispute as to whether the confidential treatment should be granted, the Disciplinary Tribunal must decide the matter after considering oral or written submissions from the parties, taking into account the matters referred to in paragraph (4).\n(6) If the Disciplinary Tribunal grants the confidential treatment, the party making the request for the confidential treatment must, no later than 5 working days after the Disciplinary Tribunal’s decision —\n(a)in the case where the grant is subject to changes to the summary or redacting of material in any non‑confidential version filed under paragraph (2) —\n(i)make the necessary changes or redactions;\n(ii)submit the revised non‑confidential version to the Disciplinary Tribunal; and\n(iii)send the revised non‑confidential version to the other party or parties, as the case may be; and\n(b)in any other case, send to the other party or parties the non‑confidential version submitted under paragraph (2), if any,\nand notify the other party or parties that the document, part of the document, or information has been summarised or redacted.\n(7) The Disciplinary Tribunal must not, for the purpose of making any finding under section 59D(1) of the Act, rely on any document, part of a document, or information to which confidential treatment is granted, but may rely on the non‑confidential version submitted (if any) under paragraph (2) or (6)(a), as the case may be."
+   }
+  },
+  {
+   "id": "SG-H3114-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEEDINGS OF A DISCIPLINARY TRIBUNAL"
+   },
+   "heading": {
+    "en": "Disciplinary Tribunal may give directions by letter"
+   },
+   "text": {
+    "en": "15.—(1) Without affecting rules 12 and 13, the Disciplinary Tribunal may give the parties directions relating to the conduct of the inquiry by way of a letter.\n(2) A letter containing the directions of the Disciplinary Tribunal must be signed by a member of the Secretariat of the Disciplinary Commisision."
+   }
+  },
+  {
+   "id": "SG-H3114-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEEDINGS OF A DISCIPLINARY TRIBUNAL"
+   },
+   "heading": {
+    "en": "Preparation of agreed documents"
+   },
+   "text": {
+    "en": "16. All the parties must, no later than 5 days before the first hearing date, jointly prepare the following:\n(a)a statement of agreed facts;\n(b)an agreed bundle of documents, comprising every document or exhibit in respect of which parties are agreed as to authenticity."
+   }
+  },
+  {
+   "id": "SG-H3114-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEEDINGS OF A DISCIPLINARY TRIBUNAL"
+   },
+   "heading": {
+    "en": "Exchange of documents"
+   },
+   "text": {
+    "en": "17. A party must exchange with the other party or parties (as the case may be) the following documents no later than 5 days before the first hearing date:\n(a)where the Disciplinary Tribunal has allowed the party to appoint its own expert — every expert report by that expert prepared in relation to the inquiry;\n(b)the list of witnesses that the party will be calling at the hearing;\n(c)witness statements, if any;\n(d)every document or exhibit mentioned in a witness statement or that the party wishes to use at the hearing;\n(e)the party’s opening statement for the hearing, stating —\n(i)the nature of the case;\n(ii)the legal and factual issues in dispute; and\n(iii)the witnesses and documents in support of each factual proposition of the party and the precedents and authorities supporting each legal proposition of the party."
+   }
+  },
+  {
+   "id": "SG-H3114-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEEDINGS OF A DISCIPLINARY TRIBUNAL"
+   },
+   "heading": {
+    "en": "Medical Council to send hearing bundle"
+   },
+   "text": {
+    "en": "18.—(1) The Medical Council must, no later than 5 days before the first hearing date —\n(a)send 5 copies of the hearing bundle to the Disciplinary Commission; and\n(b)send one copy of the hearing bundle to every respondent.\n(2) The hearing bundle mentioned in paragraph (1) must comprise —\n(a)the notice of inquiry mentioned in rule 10(1);\n(b)the summary of defence mentioned in rule 11(1), if any; and\n(c)all the documents mentioned in rules 16 and 17."
+   }
+  },
+  {
+   "id": "SG-H3114-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEEDINGS OF A DISCIPLINARY TRIBUNAL"
+   },
+   "heading": {
+    "en": "Postponement of hearing"
+   },
+   "text": {
+    "en": "19.—(1) Subject to section 59A(10) and (11) of the Act, a Disciplinary Tribunal may, on its own motion or upon the application of any party, postpone a hearing at any time.\n(2) An application for the postponement of a hearing must be made in writing to the chairman of the Disciplinary Tribunal no later than 21 days before the first hearing date, unless the Disciplinary Tribunal allows the application to be made in a shorter period before the commencement of the hearing, and must be supported by good reasons."
+   }
+  },
+  {
+   "id": "SG-H3114-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEEDINGS OF A DISCIPLINARY TRIBUNAL"
+   },
+   "heading": {
+    "en": "Conduct of hearing"
+   },
+   "text": {
+    "en": "20.—(1) The hearing of an inquiry by the Disciplinary Tribunal is to be held in private.\n(2) The following procedure applies to a hearing unless the Disciplinary Tribunal orders otherwise under rule 21, in relation to each respondent to the hearing:\n(a)the charge or charges must first be read out to the respondent;\n(b)the respondent may object to any charge on a point of law, and if any such objection is upheld by the Disciplinary Tribunal, no further proceedings may be taken on the charge to which the objection relates;\n(c)the Medical Council must present the facts on which the complaint is based, and adduce evidence of the facts alleged in the charge or charges;\n(d)the respondent may adduce evidence to substantiate the respondent’s defence;\n(e)each party may cross-examine any witness of the other party after the evidence-in-chief (whether orally or by way of a witness statement) has been completed, and each party may re-examine any of the party’s witnesses after the cross-examination of that witness;\n(f)at the close of the respondent’s case, the respondent may address the Disciplinary Tribunal;\n(g)the Medical Council may make a closing address.\n(3) Where at any stage in the proceedings the Disciplinary Tribunal determines that the evidence adduced is insufficient or there is no evidence to substantiate any charge, the Disciplinary Tribunal must discontinue further proceedings on the charge."
+   }
+  },
+  {
+   "id": "SG-H3114-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEEDINGS OF A DISCIPLINARY TRIBUNAL"
+   },
+   "heading": {
+    "en": "Disciplinary Tribunal may make directions for conduct of hearing"
+   },
+   "text": {
+    "en": "21.—(1) A Disciplinary Tribunal may, during any hearing —\n(a)give such directions for the proceedings of the hearing as the Disciplinary Tribunal thinks fit;\n(b)conduct the proceedings in such manner as the Disciplinary Tribunal thinks fit;\n(c)enquire into any matter which the Disciplinary Tribunal may consider relevant to the proceedings (whether or not such matter has been raised by a party);\n(d)where any party does not appear at the hearing and the Disciplinary Tribunal is satisfied that rule 10 is complied with — proceed with the hearing in the absence of that party and make such orders as the Disciplinary Tribunal thinks fit; and\n(e)subject to section 59A(10) and (11) of the Act, adjourn the hearing to a later date as the Disciplinary Tribunal thinks fit.\n(2) The directions which a Disciplinary Tribunal may give under paragraph (1)(a) include directions on one or more of the following matters:\n(a)the giving of evidence orally or by written statement;\n(b)the time limited for giving oral testimony;\n(c)the time limited for oral arguments;\n(d)the length of any written submissions;\n(e)where appropriate, the giving of evidence through a live video or live television link, having regard to the considerations in section 62A of the Evidence Act 1893.\n(3) Where the Disciplinary Tribunal has adjourned a hearing under paragraph (1)(e), and it appears to the chairman of the Disciplinary Tribunal that the attendance of parties is required for the Disciplinary Tribunal to resume consideration of the case, the Disciplinary Tribunal must notify the parties of the date, time and place where parties are to attend before the Disciplinary Tribunal."
+   }
+  },
+  {
+   "id": "SG-H3114-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEEDINGS OF A DISCIPLINARY TRIBUNAL"
+   },
+   "heading": {
+    "en": "Reference to documents where no relevant witness is called"
+   },
+   "text": {
+    "en": "22.—(1) The Disciplinary Tribunal may, at any stage in the proceedings, refer to any written statement or medical reference material in respect of which no relevant witness is called, if —\n(a)every respondent to the inquiry consents to the reference; or\n(b)after consultation with the advocate and solicitor appointed under section 59B(1)(b) of the Act (if any) the Disciplinary Tribunal is satisfied that the reception of the written statement or medical reference material is desirable to enable the Disciplinary Tribunal to perform its duty or discharge its functions.\n(2) A copy of the written statement or medical reference material referred to in paragraph (1) must be made available to all the parties.\n(3) Where, despite the reference of any written statement or medical reference material by the Disciplinary Tribunal under paragraph (1), the Disciplinary Tribunal is of the opinion that it should be supplemented by oral testimony —\n(a)the Disciplinary Tribunal may request that a relevant witness be called as a witness and adjourn the hearing for the purpose; and\n(b)on subsequently resuming the hearing, unless the relevant witness gives oral evidence, the Disciplinary Tribunal may disregard the written statement or medical reference material.\n(4) In this rule, “relevant witness”, in relation to —\n(a)any written statement — means the author of the statement; and\n(b)any medical reference material — means a medical expert witness."
+   }
+  },
+  {
+   "id": "SG-H3114-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEEDINGS OF A DISCIPLINARY TRIBUNAL"
+   },
+   "heading": {
+    "en": "Medical Council may withdraw charge or consent to amendment, etc., of charges"
+   },
+   "text": {
+    "en": "23.—(1) The Medical Council must consider any representations received from the respondent in respect of any charge framed against the respondent and may —\n(a)if the Medical Council considers it fair to do so and at any time before the Disciplinary Tribunal makes a finding under section 59D of the Act, withdraw any charge against the respondent; or\n(b)if the Medical Council considers it fair and expedient to do so, consent to —\n(i)the subsequent amendment, substitution or amalgamation by the Disciplinary Tribunal of one or more charges against the respondent; or\n(ii)the taking into consideration of one or more charges by the Disciplinary Tribunal for the purposes of exercising the powers of the Disciplinary Tribunal under section 59D(2) of the Act.\n(2) The Medical Council may appoint a committee to exercise the powers and functions of the Medical Council under paragraph (1).\n(3) The number and terms of office of the members of a committee appointed under paragraph (2), and the number of those members necessary to form a quorum, may be fixed by the Medical Council at the time of the appointment of the committee."
+   }
+  },
+  {
+   "id": "SG-H3114-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEEDINGS OF A DISCIPLINARY TRIBUNAL"
+   },
+   "heading": {
+    "en": "Disciplinary Tribunal may alter charge or frame new charge"
+   },
+   "text": {
+    "en": "24.—(1) A Disciplinary Tribunal may alter a charge or frame a new charge against a respondent, whether in substitution for or in addition to an existing charge, at any time before it makes a finding under section 59D of the Act.\n(2) An altered charge or a new charge must be read and explained to the respondent.\n(3) Where a charge is altered or a new charge is framed under paragraph (1), the Disciplinary Tribunal must immediately call on the respondent to enter a plea and to state whether the respondent is ready for the hearing to proceed on the altered or new charge.\n(4) If the respondent declares that the respondent is not ready for the hearing to proceed on the altered or new charge, the Disciplinary Tribunal must duly consider any reason the respondent gives.\n(5) Despite paragraph (4), if the Disciplinary Tribunal thinks that proceeding immediately with the hearing is unlikely to prejudice the respondent’s defence or the conduct of the case by the Medical Council, the Disciplinary Tribunal may proceed with the hearing.\n(6) Subject to section 59A(10) and (11) of the Act, if, after considering any reason given by the respondent under paragraph (4), the Disciplinary Tribunal thinks that proceeding immediately with the hearing is likely to prejudice the respondent’s defence or the conduct of the case by the Medical Council, the Disciplinary Tribunal may direct a new hearing or adjourn the hearing for as long as it thinks necessary.\n(7) If the hearing proceeds after a charge is altered or a new charge is framed by the Disciplinary Tribunal, the parties must, on application to the Disciplinary Tribunal by any party, be allowed to recall or re‑summon and examine any witness who may have been examined, with respect to the altered or new charge only, unless the Disciplinary Tribunal thinks that the application is frivolous or vexatious, or is otherwise an abuse of process."
+   }
+  },
+  {
+   "id": "SG-H3114-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEEDINGS OF A DISCIPLINARY TRIBUNAL"
+   },
+   "heading": {
+    "en": "Findings of Disciplinary Tribunal"
+   },
+   "text": {
+    "en": "25.—(1) After the closing address by the Medical Council, the Disciplinary Tribunal must inform the parties of its findings in relation to the facts of the case either immediately or on a subsequent date of which reasonable notice must be given to the parties.\n(2) If the Disciplinary Tribunal is satisfied that the charge or any of the charges made against the respondent have been proved, the Disciplinary Tribunal must invite the respondent to address the Disciplinary Tribunal by way of mitigation and, after hearing such address (if any) may make one or more orders mentioned in section 59D(2) of the Act."
+   }
+  },
+  {
+   "id": "SG-H3114-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEEDINGS OF A DISCIPLINARY TRIBUNAL"
+   },
+   "heading": {
+    "en": "Outstanding charges"
+   },
+   "text": {
+    "en": "26.—(1) Where a Disciplinary Tribunal makes a finding under section 59D(1) of the Act against a respondent in respect of a disciplinary offence, the Disciplinary Tribunal, in making an order under section 59D(2) of the Act, may, with the consent of the Medical Council and the respondent, take into consideration any other outstanding disciplinary offences that the respondent admits to have committed.\n(2) After the Disciplinary Tribunal has made one or more orders under section 59D(2) of the Act, disciplinary action must not be taken against the respondent in respect of any such other disciplinary offences that the Disciplinary Tribunal had taken into consideration under this rule unless the findings of the Disciplinary Tribunal in respect of the original disciplinary offence mentioned in paragraph (1) are set aside."
+   }
+  },
+  {
+   "id": "SG-H3114-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEEDINGS OF A DISCIPLINARY TRIBUNAL"
+   },
+   "heading": {
+    "en": "Warning may be administered where party hampers inquiry"
+   },
+   "text": {
+    "en": "27.—(1) If the Disciplinary Tribunal is satisfied that any party or any party’s counsel is hampering or attempting to hamper the progress of the inquiry, the chairman of the Disciplinary Tribunal may administer a warning to the party or party’s counsel, as the case may be.\n(2) If after such warning the Disciplinary Tribunal is satisfied that the warning is being disregarded, the Disciplinary Tribunal must make a written note of this and proceed with and complete the inquiry in any manner which it thinks fit."
+   }
+  },
+  {
+   "id": "SG-H3114-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 4 PROCEEDINGS OF A DISCIPLINARY TRIBUNAL"
+   },
+   "heading": {
+    "en": "Tribunal’s legal counsel must not intervene"
+   },
+   "text": {
+    "en": "28. An advocate and solicitor appointed under section 59B(1)(b) of the Act by a Disciplinary Tribunal must not —\n(a)participate in or influence the making of any decision by the Disciplinary Tribunal other than to advise the Disciplinary Tribunal on a question of law that is referred to the advocate and solicitor by the Disciplinary Tribunal; or\n(b)intervene to advise the Disciplinary Tribunal on an issue of law except where it appears to the advocate and solicitor that, without the intervention, there is a possibility of a mistake of law being made or where the advocate and solicitor is aware of a procedural irregularity."
+   }
+  },
+  {
+   "id": "SG-H3114-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Disciplinary Tribunal may meet to consider further orders"
+   },
+   "text": {
+    "en": "29.—(1) Where a Disciplinary Tribunal has imposed any condition or restriction under section 59D(2)(d) or 59E(2) of the Act and information is subsequently received that the respondent is in a material respect not complying with the condition or restriction —\n(a)the Disciplinary Tribunal or any Disciplinary Tribunal appointed in its place may meet to consider the case; and\n(b)if the attendance of any party is required by the Disciplinary Tribunal, the Disciplinary Tribunal must notify the party of the date, time and place of the meeting.\n(2) Part 3 and rules 12 to 24, 27, 28 and 30 apply to a meeting where the attendance of any party is required."
+   }
+  },
+  {
+   "id": "SG-H3114-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Form of subpoena"
+   },
+   "text": {
+    "en": "30. A subpoena mentioned in section 59A(5) of the Act must be in accordance with Form 29 of Appendix A of the Supreme Court Practice Directions 2021, with such variations as the circumstances require."
+   }
+  },
+  {
+   "id": "SG-H3114-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Secretariat of the Disciplinary Commission"
+   },
+   "text": {
+    "en": "31. There is to be a Secretariat of the Disciplinary Commission, comprising one or more public officers appointed by the Minister, whose function is to provide administrative and secretariat support and assistance, to the Disciplinary Commission in the carrying out of the Disciplinary Commission’s functions."
+   }
+  },
+  {
+   "id": "SG-H3114-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Records to be kept by Disciplinary Commission"
+   },
+   "text": {
+    "en": "32. For the purposes of section 57(2)(d) of the Act, the Disciplinary Commission must maintain a register of every individual who is a member of the Complaints Panel or a Health Committee and the following information in relation to each of those individuals in the register:\n(a)the qualifications of the individual;\n(b)the training attended by the individual for the purposes of discharging the individual’s duties as a member of the Complaints Panel or a Health Committee, as the case may be."
+   }
+  }
+ ]
+}

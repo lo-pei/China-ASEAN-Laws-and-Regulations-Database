@@ -1,0 +1,964 @@
+{
+ "id": "SG-H320",
+ "title": {
+  "zh": null,
+  "en": "Boundaries and Survey Maps (Conduct of Cadastral Surveys) Rules 2005",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p04",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation BSMA1998-R5",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 58,
+ "chars": 32178,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/BSMA1998-R5?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 58 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H320-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Rules are the Boundaries and Survey Maps (Conduct of Cadastral Surveys) Rules 2005."
+   }
+  },
+  {
+   "id": "SG-H320-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Rules —\n“existing void area”, in relation to a strata lot in a subdivided building, means any void area that is created in the strata lot under any of the following circumstances:\n(a)where, pursuant to an application for written permission submitted before 1 June 2023, development is carried out on the strata lot or to erect the subdivided building under any provisional permission or written permission granted or deemed to have been granted under the Planning Act 1998 before, on or after 1 June 2023;\n(b)where development is carried out on the strata lot that is authorised or deemed to have been authorised under section 21(6) of the Planning Act 1998, in respect of which —\n(i)the lodgment of plans is required for the authorisation; and\n(ii)the plans were lodged before 1 June 2023;\n(c)where development is carried out on the strata lot that is authorised or deemed to have been authorised under section 21(6) of the Planning Act 1998, in respect of which —\n(i)the lodgment of plans is not required for the authorisation;\n(ii)the written consent of the owner of the land is required; and\n(iii)the written consent is obtained before 1 June 2023;\n(d)where development is carried out on the strata lot that is authorised or deemed to have been authorised under section 21(6) of the Planning Act 1998, in respect of which —\n(i)the lodgment of plans or the written consent of the owner of the land on which the subdivided building is situated is not required for the authorisation; and\n(ii)the development started before 1 June 2023;\n“floor area”, in relation to a strata lot in a subdivided building, means the floor area of the strata lot (whether within or outside a building, whether covered or otherwise, and whether or not enclosed) measured with reference to the boundaries of the strata lot approved in the subdivision permission granted for the subdivided building under the Planning Act 1998, and excludes any void area (whether or not an existing void area) within the boundaries of the strata lot;\n“ISN” means a network of control ISN markers with ISN co‑ordinates approved by the Chief Surveyor;\n“ISN co-ordinates” means a plane rectangular co‑ordinate system based on the SVY21 datum and using a transverse mercator projection with projection origin (unmarked) located at —\nLatitude\n1° 22' 00\" N\nLongitude\n103° 50' 00\" E\nNorthing\n38744.572 m\nEasting\n28001.642 m;\n“ISN marker” means a survey marker designed for integrated surveys with geographical and ISN co‑ordinates approved by the Chief Surveyor;\n“ppm” means parts per million;\n“strata area”, in relation to a strata lot, means —\n(a)the floor area of the strata lot; and\n(b)any existing void area within the boundaries of the strata lot approved in the subdivision permission granted for the subdivided building under the Planning Act 1998;\n“strata subdivision” has the meaning given by the Land Titles (Strata) Act 1967;\n“subdivided building” has the meaning given by the Land Titles (Strata) Act 1967;\n“survey document” includes any plan, field book, field notes, form, sketch, computation or information recorded or derived from a survey;\n“SVY21 datum” means a geodetic co-ordinate datum based on the WGS84 ellipsoid and a reference point known as BASE7 (located at Pillar 7 Lower Peirce Reservoir) with values fixed at —\nLatitude\n1°22'\n02.915414\" N\nLongitude\n103° 49'\n31.975227\" E\nEllipsoidal Height\n26.824 m\nReduced Level\n17.113 m\nGeoidal Undulation\n9.711 m;\n“WGS84 ellipsoid” means a mathematical surface with the following definitions:\nSemi-major axis\n6378137.0000 m\nSemi-minor axis\n6356752.3142 m\nFlattening\n1/298.257223563\nEccentricity\n0.0818191908426.\n(2) Any reference to a survey document includes, unless the context otherwise requires, a reference to a survey document in electronic form."
+   }
+  },
+  {
+   "id": "SG-H320-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Registered surveyor to be familiar with related legislation"
+   },
+   "text": {
+    "en": "3.—(1) Every registered surveyor must be familiar with —\n(a)the Act and any rules made under the Act; and\n(b)the Acts specified in the Schedule and any subsidiary legislation made under them.\n(2) Every registered surveyor must be familiar with, and must comply with, all the directives and circulars issued by the Chief Surveyor from time to time."
+   }
+  },
+  {
+   "id": "SG-H320-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Personal direction and supervision of surveys"
+   },
+   "text": {
+    "en": "4. Every cadastral survey must be carried out by or under the immediate personal direction and supervision of a registered surveyor and in strict compliance with these Rules."
+   }
+  },
+  {
+   "id": "SG-H320-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Existing survey data to be obtained"
+   },
+   "text": {
+    "en": "5.—(1) A registered surveyor or a representative authorised by the registered surveyor must, before commencing a cadastral survey, obtain existing survey data relating to the survey he or she is to carry out, by —\n(a)consulting the records of the Authority or, if he or she is so directed by the Authority, the records of any other registered surveyor or other relevant authorities; and\n(b)obtaining from the Chief Surveyor the lot numbers to be used in connection with the survey he or she is to carry out.\n(2) A registered surveyor or his or her representative must not —\n(a)use any lot numbers for the survey he or she is to carry out other than those obtained from the Chief Surveyor, unless he or she has obtained prior approval from the Chief Surveyor; or\n(b)use or quote any lot number in any instrument or caveat to be lodged with the Authority, unless the lot number or the relevant assurance plan, certified plan or strata certified plan from which the lot number is obtained has been approved by the Chief Surveyor."
+   }
+  },
+  {
+   "id": "SG-H320-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Compliance with requirements"
+   },
+   "text": {
+    "en": "6. A registered surveyor must, before carrying out work on any cadastral survey, check that the proposed cadastral survey is in accordance with all requirements of the Authority and other relevant authorities."
+   }
+  },
+  {
+   "id": "SG-H320-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Errors in previous survey"
+   },
+   "text": {
+    "en": "7. A registered surveyor who discovers an error in a previous cadastral survey which materially affects the accuracy of his or her cadastral survey must —\n(a)supply the Chief Surveyor with a full report of the error together with all relevant information relating to the error; and\n(b)rectify the error in the survey that he or she is carrying out only after he or she has received directions to do so from the Chief Surveyor."
+   }
+  },
+  {
+   "id": "SG-H320-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Form of survey document to be submitted"
+   },
+   "text": {
+    "en": "8.—(1) A registered surveyor must, upon the completion of a cadastral survey, submit to the Chief Surveyor the survey documents required under the Act and these Rules, and such other survey documents as the Chief Surveyor may require.\n(2) Every survey document used in a cadastral survey and submitted to the Chief Surveyor must be in such form as the Chief Surveyor may approve."
+   }
+  },
+  {
+   "id": "SG-H320-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Field equipment"
+   },
+   "text": {
+    "en": "9.—(1) A registered surveyor engaged in cadastral survey work in Singapore must —\n(a)test his or her field equipment at least once every 12 months to ensure that it is in good adjustment; and\n(b)together with any survey document submitted to the Chief Surveyor in relation to a cadastral survey, submit all test results of the field equipment used in that survey, for the period that the field equipment was used in the survey.\n(2) The registered surveyor must —\n(a)keep all test results (including data used for such tests) of any field equipment used in a cadastral survey, for the entire period of that survey until the Chief Surveyor has approved that survey; and\n(b)whenever required to do so within that period, produce to the Chief Surveyor any of the test results and the data used for the test."
+   }
+  },
+  {
+   "id": "SG-H320-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Abbreviations, symbols and conventional signs in survey documents"
+   },
+   "text": {
+    "en": "10. The abbreviations, symbols and conventional signs adopted by the Authority must be used in survey documents."
+   }
+  },
+  {
+   "id": "SG-H320-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Plan forms"
+   },
+   "text": {
+    "en": "11. Plan forms of the quality approved by the Chief Surveyor must be used for all plans to be deposited with the Authority."
+   }
+  },
+  {
+   "id": "SG-H320-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Plotting on plans"
+   },
+   "text": {
+    "en": "12. The plotting of all points on plans must be by co‑ordinates."
+   }
+  },
+  {
+   "id": "SG-H320-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Corrections on plans"
+   },
+   "text": {
+    "en": "13.—(1) The correction of printed information on any plan must be made by drawing a line through the incorrect entry but without obliterating it, and printing the correct entry nearby.\n(2) The correction of an incorrectly drawn line or mark on any plan must be made by one or more crosses on the incorrect line or mark and by redrawing the correct line or mark in its correct position.\n(3) Each correction must be initialled by the registered surveyor who prepared the plan.\n(4) A registered surveyor must not make or permit to be made any correction on any plan by erasing any part of a plan."
+   }
+  },
+  {
+   "id": "SG-H320-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Notice to enter land to conduct survey"
+   },
+   "text": {
+    "en": "14. Where a notice has been given to an occupier of any land under section 12(2) of the Act, the registered surveyor must submit a copy of the notice to the Chief Surveyor at least 3 working days (excluding Saturdays, Sundays and public holidays) prior to the date of entry on the land."
+   }
+  },
+  {
+   "id": "SG-H320-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Certification in relation to encroachment"
+   },
+   "text": {
+    "en": "15. A survey plan submitted to the Chief Surveyor for approval must be accompanied by a certificate signed by the registered surveyor in the following form:\n“I, .......................................................................... , a surveyor registered under the Land Surveyors Act 1991, certify that:\n(a)there (*is/is no) encroachment affecting any land parcel adjoining the land parcel under my survey;\n*(b)(if there is encroachment affecting any land parcel adjoining the land parcel under my survey) the particulars of the encroachment are as follows:\n(i)Lot and Mukim/TS No. of adjoining land parcel: _______________\n(ii)Ownership of adjoining land parcel: *State/Private\n(iii)The encroachment is as shown in: ___________ (state survey document)\n(iv)Description of encroachment: _______________\n(v)The encroachment *was/was not created by the purchaser or owner of the land parcel under my survey; and\n*(c)(if the encroachment was created by the purchaser or owner of the land parcel surveyed by me) the encroachment has been resolved by: ____________ (describe the manner of resolution). A copy of ___________________________ (describe documentary evidence of resolution of encroachment) is attached.\n(Signature and date of certification)\nRegistered Surveyor.\n*Delete whichever is inapplicable.”."
+   }
+  },
+  {
+   "id": "SG-H320-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "16. This Part applies to the survey of every land lot."
+   }
+  },
+  {
+   "id": "SG-H320-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Survey under SVY21 datum"
+   },
+   "text": {
+    "en": "17. The survey of every land lot must be conducted under SVY21 datum."
+   }
+  },
+  {
+   "id": "SG-H320-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Datum"
+   },
+   "text": {
+    "en": "18.—(1) A registered surveyor must traverse and connect at least 4 ISN markers to establish a datum acceptable to the Chief Surveyor for every survey of a land lot.\n(2) The ISN markers must fully enclose the survey area, unless the Chief Surveyor directs otherwise."
+   }
+  },
+  {
+   "id": "SG-H320-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Approved survey marks"
+   },
+   "text": {
+    "en": "19. A registered surveyor must use survey marks approved by the Chief Surveyor."
+   }
+  },
+  {
+   "id": "SG-H320-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Emplacement prior to or during survey"
+   },
+   "text": {
+    "en": "20. Approved survey marks must be emplaced on the ground prior to or during the course of the survey."
+   }
+  },
+  {
+   "id": "SG-H320-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Stability of marks"
+   },
+   "text": {
+    "en": "21. A registered surveyor must take reasonable care to ensure that approved survey marks emplaced on the ground are of the appropriate type and are stable."
+   }
+  },
+  {
+   "id": "SG-H320-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Accuracy"
+   },
+   "text": {
+    "en": "22. A registered surveyor must conduct every cadastral survey according to established principles of survey and must attain the accuracy specified as follows:\n(a)the precision of every measured vector must be such that the standard deviations of its length and direction do not exceed 5 millimetres ± 5 ppm and ± 5 seconds, respectively;\n(b)wherever applicable, the position of every ISN marker adopted in the survey must have an error ellipse with its semi‑major axis not exceeding 0.020 metres;\n(c)the length of every traverse circuit must not exceed 2,500 metres;\n(d)the angular misclose must not exceed 10√n seconds where n is the number of traverse stations occupied in the traverse;\n(e)every traverse circuit must comprise a closed loop;\n(f)the fractional linear misclose of traverses must be better than 1:20,000;\n(g)every vector that is not checked internally must not exceed 50 metres in length and must be checked independently."
+   }
+  },
+  {
+   "id": "SG-H320-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Boundaries"
+   },
+   "text": {
+    "en": "23.—(1) The extent of the land under any survey of a land lot is to be that marked on the ground at the time of survey.\n(2) Boundary marks found on the ground during the course of any subsequent survey of land lot must not be disturbed unless there is clear evidence that they are no longer in the position in which they were emplaced at the time of the previous survey."
+   }
+  },
+  {
+   "id": "SG-H320-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Survey and marking of boundaries"
+   },
+   "text": {
+    "en": "24.—(1) Survey of boundaries by long radiations must be avoided.\n(2) All boundary points must be marked on the ground unless they fall in inaccessible positions, such as within walls and pillars of buildings.\n(3) When any boundary point of a land lot cannot be marked by reason of obstructing features such as ponds or other structures, appropriate reference marks to facilitate the determination of the actual boundary point on the ground must be emplaced.\n(4) The appropriate reference marks mentioned in paragraph (3) may be placed on the intersecting boundaries as near as possible to the obstructing feature.\n(5) Every boundary mark emplaced must be at a station on a closed traverse, failing which, its position is to be determined by 2 independent sets of measurements, both angular and linear, from such a station, except that the second angular measurement must be made from a different back station, if available, from the one used in the first angular observation.\n(6) Previously surveyed boundaries need not be fully re‑measured, if —\n(a)the previously emplaced marks on the ground are intact; and\n(b)the previous survey had an adequate technical value.\n(7) In a sub-divisional survey, the re‑survey of boundaries not affected by the subdivision may be confined to the measurement of the lines required for the closing of traverses.\n(8) Along a straight boundary, marks must be emplaced on the ground at intervals not exceeding 200 metres.\n(9) All new boundaries, including natural feature boundaries, must follow straight lines.\n(10) Boundary points on natural feature boundaries need not be marked on the ground.\n(11) Boundaries that curve must be marked by straight lines on the ground such that no point on the curve is more than 20 centimetres from such straight lines.\n(12) In any survey where boundary lines cannot be measured directly, the registered surveyor must, wherever possible, emplace appropriate traverse marks on the nearest suitable structures, such as alongside the kerbs of metalled roads and driveways and, the coping of concrete drains, with sufficient short connections to the boundary points of the land lots."
+   }
+  },
+  {
+   "id": "SG-H320-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Survey involving high water mark"
+   },
+   "text": {
+    "en": "25.—(1) Any survey involving the 2.515‑metre high water mark must be referred to the Chief Surveyor together with a copy of a plan showing full relevant details.\n(2) The registered surveyor conducting the survey referred to in paragraph (1) must thereafter be informed of the accepted boundary by the Chief Surveyor.\n(3) The determination of the 2.515-metre high water mark must, where practicable, be based on nearby bench marks established by the Authority or other bench marks approved for use by the Chief Surveyor, and the permissible closing error of the levelling for such purpose must not exceed ± 15√K millimetres where K is the length of the level line in kilometres.\n(4) The reduced level of the 2.515-metre high water mark must be 0.960 metres above the datum adopted by the Authority, being Mean Sea Level."
+   }
+  },
+  {
+   "id": "SG-H320-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Topographical details"
+   },
+   "text": {
+    "en": "26. Natural and artificial features that are found within 0.5 metres of the boundaries surveyed must be measured."
+   }
+  },
+  {
+   "id": "SG-H320-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Boundary discrepancies"
+   },
+   "text": {
+    "en": "27.—(1) If there are differences between the dimensions of boundaries on the ground and those on the survey documents beyond stipulated tolerances, the registered surveyor must take appropriate measures to determine whether the differences are due to encroachments, to movements of marks or to defects in the previous survey.\n(2) The Chief Surveyor may amend the co‑ordinates of land boundaries if he or she is satisfied that it is necessary to describe with more certainty the boundaries of the land."
+   }
+  },
+  {
+   "id": "SG-H320-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Field notes"
+   },
+   "text": {
+    "en": "28. All field measurements must be recorded in a format approved by the Chief Surveyor."
+   }
+  },
+  {
+   "id": "SG-H320-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Purpose of computations"
+   },
+   "text": {
+    "en": "29. All computations required to be submitted with any field notes and plans of a cadastral survey must —\n(a)show the accuracy and adequacy of the field work; and\n(b)determine the areas of the land lots surveyed."
+   }
+  },
+  {
+   "id": "SG-H320-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Units of measurement"
+   },
+   "text": {
+    "en": "30. Linear measurements must be made in metric units."
+   }
+  },
+  {
+   "id": "SG-H320-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Calculated and scaled areas"
+   },
+   "text": {
+    "en": "31.—(1) Areas must be computed using any appropriate mathematical formula from the co‑ordinates of the land lot, provided that the area computed using a particular mathematical formula does not differ by more than one hundredth of a square metre when the area of the same land lot is computed using another mathematical formula.\n(2) Co-ordinates correct to 3 decimal places are to be used.\n(3) Areas must be calculated and entered to the nearest tenth of a square metre.\n(4) Scaled areas, where applicable, must be entered to the nearest square metre and distinguished from other areas by the abbreviation “Sc.” that is entered after the scaled areas."
+   }
+  },
+  {
+   "id": "SG-H320-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Plan scales"
+   },
+   "text": {
+    "en": "32.—(1) Except under circumstances which are, in the opinion of the Chief Surveyor, unusual, certified plans must be plotted according to the following scales:\n(a)for built-up areas, housing estates and party wall surveys — 1:100, 1:200 or 1:500;\n(b)for other surveys — 1:1,000, 1:2,000, 1:5,000 or 1:10,000.\n(2) The scale on which a certified plan is drawn must be so selected such that the information of each land lot can be clearly seen.\n(3) If, on any part of a certified plan, measurements would otherwise be illegible or difficult to interpret, a diagram drawn on a scale larger than that of the plan or drawn not to scale may be added as an inset."
+   }
+  },
+  {
+   "id": "SG-H320-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Representation of boundary lines on certified plan"
+   },
+   "text": {
+    "en": "33. Boundary lines must be represented by firm black lines on any certified plan."
+   }
+  },
+  {
+   "id": "SG-H320-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Information on certified plan"
+   },
+   "text": {
+    "en": "34. The information shown on a certified plan must be so printed that it is unnecessary to orientate the plan form in order to interpret it."
+   }
+  },
+  {
+   "id": "SG-H320-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Certified plan number"
+   },
+   "text": {
+    "en": "35. A certified plan must be allotted a serial number by the Chief Surveyor, which is to be known as the certified plan number."
+   }
+  },
+  {
+   "id": "SG-H320-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Plan heading"
+   },
+   "text": {
+    "en": "36. The heading of each certified plan must include —\n(a)the certified plan number allotted by the Chief Surveyor to that plan;\n(b)the Mukim number or Town Subdivision number of the land lot or lots surveyed; and\n(c)the scale of the plan, in the form of a representative fraction."
+   }
+  },
+  {
+   "id": "SG-H320-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Information to be shown on certified plan"
+   },
+   "text": {
+    "en": "37. A certified plan must contain the following information:\n(a)a schedule showing the original lot number and the previous certified plan number and, in the case of a subdivision or amalgamation, the new lot numbers;\n(b)the lot numbers of land lots under survey as significantly shown near the centre of the respective lots to which they refer;\n(c)the area of each land lot under survey shown beneath the lot number or, where it is necessary to show such area more clearly, such area may be tabulated with the lot number;\n(d)the station number for each boundary point;\n(e)the adjacent lot numbers;\n(f)the Northing and Easting co‑ordinates of each boundary point tabulated with reference to their respective station numbers;\n(g)the North Point;\n(h)the words “All co‑ordinates shown are based on SVY21 datum.”;\n(i)the name of the registered surveyor who conducted the survey, the name of every assistant employed by the registered surveyor who assisted in the conduct of the survey (if any) and the date of completion of the survey;\n(j)the certified plan number from which any co‑ordinates have been wholly or partly compiled;\n(k)the names of the draftsman and the person who checked the plan, and the dates of completion of the drafting and checking of the plan;\n(l)the sketch plan “SK” number and pages;\n(m)the numbers and boundaries of any Mukim and Town Subdivision;\n(n)the co-ordinate lines accompanied by their values, and cadastral map sheet lines accompanied by their respective map numbers within the area;\n(o)the survey marks by means of conventional signs and abbreviations;\n(p)the street names and house numbers;\n(q)the approved or authorised plan reference number;\n(r)the plan reference number referred to in the request for survey;\n(s)the relevant file reference number of the Authority;\n(t)any other information, numerical or otherwise, that may be of relevance in locating boundaries or survey marks."
+   }
+  },
+  {
+   "id": "SG-H320-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 2 SURVEY OF LAND LOT"
+   },
+   "heading": {
+    "en": "Certification of survey documents and plans"
+   },
+   "text": {
+    "en": "38. A survey document and a certified plan deposited with the Authority under section 14 of the Act must be accompanied by a certificate signed by the registered surveyor who conducted the survey as follows:\n“I, .........................................................................., a surveyor registered under the Land Surveyors Act 1991, certify that this document has been prepared by me or under my immediate supervision, in accordance with the Boundaries and Survey Maps (Conduct of Cadastral Surveys) Rules 2005.\n(Signature and date of certification)\nRegistered Surveyor.”."
+   }
+  },
+  {
+   "id": "SG-H320-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 3 STRATA SURVEY"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "39. This Part applies to the survey of every strata lot."
+   }
+  },
+  {
+   "id": "SG-H320-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 3 STRATA SURVEY"
+   },
+   "heading": {
+    "en": "Field survey procedures"
+   },
+   "text": {
+    "en": "40.—(1) Every strata lot must be surveyed and the linear measurements of the survey must be rounded off to the nearest centimetre.\n(2) The building comprising the strata lots must be fixed directly in relation to the boundaries of the lot on which the building is situated unless ground circumstances do not permit such fixing, and all common properties which encroach on adjacent land must be surveyed.\n(3) Where strata lots on the same storey or on different storeys of a building are identical, the strata lots of one such storey may be shown in the field book complete with dimensions.\n(4) Every page of the field book bearing diagrams of identical strata lots must contain the following statement:\n“All strata lots including those shown as ‘similar’ herein have been entered into and all relevant measurements have been fully made.”.\n(5) Where the strata lots involve land, they must be marked with the approved survey marks on the ground."
+   }
+  },
+  {
+   "id": "SG-H320-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 3 STRATA SURVEY"
+   },
+   "heading": {
+    "en": "Strata boundaries"
+   },
+   "text": {
+    "en": "41. Unless otherwise stipulated on the strata certified plan, the common boundary of any lot with another lot or with the common property must be the centre of the floor, wall or ceiling, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H320-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 3 STRATA SURVEY"
+   },
+   "heading": {
+    "en": "Certification of field book"
+   },
+   "text": {
+    "en": "42. The first diagram page of the field book of every strata survey deposited with the Authority under section 14 of the Act must bear a certificate signed by the registered surveyor who conducted the survey in the following form:\n“I, ....................................................., a surveyor registered under the Land Surveyors Act 1991, certify that these field notes and diagrams on pages ........... to ........... are a correct and complete record of the survey done by me, or under my immediate personal direction and supervision, in strict compliance with the Boundaries and Survey Maps (Conduct of Cadastral Surveys) Rules 2005.\n(Signature and date of certification)\nRegistered Surveyor.”."
+   }
+  },
+  {
+   "id": "SG-H320-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 3 STRATA SURVEY"
+   },
+   "heading": {
+    "en": "Strata certified plan"
+   },
+   "text": {
+    "en": "43. Every strata certified plan must contain —\n(a)a site plan;\n(b)a storey plan; and\n(c)an elevation sketch."
+   }
+  },
+  {
+   "id": "SG-H320-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 3 STRATA SURVEY"
+   },
+   "heading": {
+    "en": "Plan scales"
+   },
+   "text": {
+    "en": "44.—(1) Except under circumstances which are, in the opinion of the Chief Surveyor, unusual, all strata certified plans must be plotted according to the following scales:\n(a)for site plans — 1:200, 1:500 or 1:1,000;\n(b)for storey plans — 1:100 or 1:200.\n(2) The scale on which a strata certified plan is drawn must be so selected such that the area of each strata lot and all relevant details can be clearly seen.\n(3) If, on any part of a strata certified plan, measurements or details would otherwise be illegible or difficult to interpret, a diagram drawn on a scale larger than that of the plan or drawn not to scale may be added as an inset."
+   }
+  },
+  {
+   "id": "SG-H320-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 3 STRATA SURVEY"
+   },
+   "heading": {
+    "en": "Representation of boundary lines on strata certified plan"
+   },
+   "text": {
+    "en": "45. Boundary lines must be represented by firm black lines on any strata certified plan."
+   }
+  },
+  {
+   "id": "SG-H320-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 3 STRATA SURVEY"
+   },
+   "heading": {
+    "en": "Strata certified plan number"
+   },
+   "text": {
+    "en": "46. A strata certified plan must be allotted a serial number issued by the Chief Surveyor, which is to be known as the strata certified plan number."
+   }
+  },
+  {
+   "id": "SG-H320-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 3 STRATA SURVEY"
+   },
+   "heading": {
+    "en": "Plan heading"
+   },
+   "text": {
+    "en": "47. The heading of each strata certified plan must include —\n(a)the strata certified plan number allotted by the Chief Surveyor to that plan;\n(b)the Mukim or Town Subdivision number of the strata lot or lots surveyed; and\n(c)the scales of the site and storey plans, in the form of representative fractions shown below the respective plans."
+   }
+  },
+  {
+   "id": "SG-H320-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 3 STRATA SURVEY"
+   },
+   "heading": {
+    "en": "Plan schedule"
+   },
+   "text": {
+    "en": "48. A strata certified plan must contain a schedule showing the original strata lot number and the previous strata certified plan number and, in the case of a subdivision or amalgamation, the new strata lot numbers."
+   }
+  },
+  {
+   "id": "SG-H320-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 3 STRATA SURVEY"
+   },
+   "heading": {
+    "en": "Site plan"
+   },
+   "text": {
+    "en": "49. A site plan must show —\n(a)the numbers and boundaries of any Mukim and Town Subdivision;\n(b)the land lot number and the area of the land lot;\n(c)the boundary lines of the land lot on which the building is sited;\n(d)the outline of the building;\n(e)the natural and artificial features that are found within 0.5 metres of the boundaries surveyed;\n(f)the encroachment (if any) on adjacent land lots;\n(g)the street names and house numbers;\n(h)the cadastral map number; and\n(i)the North Point."
+   }
+  },
+  {
+   "id": "SG-H320-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 3 STRATA SURVEY"
+   },
+   "heading": {
+    "en": "Storey plan"
+   },
+   "text": {
+    "en": "50. A storey plan must show —\n(a)details of the strata lots on each storey or where strata lots on different storeys are identical, the details of the strata lots on one such storey;\n(b)the strata lot numbers of strata lots under survey as significantly shown near the centre of their respective strata lots;\n(c)the strata area of each strata lot under survey beneath its respective strata lot number;\n(d)where a strata lot occupies more than one storey, a table showing —\n(i)the strata area of each storey of the strata lot;\n(ii)the total strata area of the strata lot;\n(iii)the void area (other than an existing void area) in each storey of the strata lot, if any; and\n(iv)where there are existing void areas in the strata lot —\n(A)the floor area of each storey of the strata lot;\n(B)the total floor area of the strata lot;\n(C)the existing void area in each storey of the strata lot; and\n(D)the total existing void area in the strata lot;\n(e)the adjacent strata lot numbers;\n(f)boundary marks emplaced for strata lots involving land, by means of abbreviations, symbols and conventional signs used by the Authority;\n(g)the encroachment (if any) on adjacent land lots; and\n(h)the North Point."
+   }
+  },
+  {
+   "id": "SG-H320-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 3 STRATA SURVEY"
+   },
+   "heading": {
+    "en": "Elevation sketch"
+   },
+   "text": {
+    "en": "51.—(1) An elevation sketch must contain —\n(a)the strata lot numbers;\n(b)the corresponding unit numbers for each storey; and\n(c)the ceiling height of each storey rounded off to the nearest centimetre.\n(2) Where it is not possible to show the strata lot numbers on the elevation sketch, the strata lot numbers and their corresponding unit numbers must be tabulated."
+   }
+  },
+  {
+   "id": "SG-H320-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 3 STRATA SURVEY"
+   },
+   "heading": {
+    "en": "Additional information to be shown on strata certified plan (other than for subdivided building)"
+   },
+   "text": {
+    "en": "52. A strata certified plan, other than a strata certified plan for a subdivided building, must contain the following information and references:\n(a)the name of the registered surveyor who conducted the survey, the name of every assistant employed by the registered surveyor who assisted in the conduct of the survey (if any) and the date of completion of the survey;\n(b)the field book number and pages;\n(c)where applicable, the number of any building plan approved by the Commissioner of Building Control under the Building Control Act 1989, from which the details on the strata certified plan have been compiled;\n(d)where applicable, the number of the subdivision plan approved by the Chief Planner under the Planning Act 1998;\n(e)where applicable, the date of the plan for subdivision of the building which has been authorised by a notification made by the Minister under section 21(6) of the Planning Act 1998;\n(f)the relevant file reference number from the Authority."
+   }
+  },
+  {
+   "id": "SG-H320-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART 3 STRATA SURVEY"
+   },
+   "heading": {
+    "en": "Certification of strata certified plan (other than for subdivided building)"
+   },
+   "text": {
+    "en": "53. A strata certified plan, other than a strata certified plan for a subdivided building, must bear a certificate by the registered surveyor who conducted the survey in the following form:\n“I, ..........................................................., a surveyor registered under the Land Surveyors Act 1991, certify that this plan correctly represents the survey done in strict compliance with the Boundaries and Survey Maps (Conduct of Cadastral Surveys) Rules 2005.\n(Signature and date of certification)\nRegistered Surveyor.”."
+   }
+  },
+  {
+   "id": "SG-H320-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART 3 STRATA SURVEY"
+   },
+   "heading": {
+    "en": "Lodgment of strata certified plan for subdivided building"
+   },
+   "text": {
+    "en": "54. All strata certified plans in relation to any survey of one or more strata lots comprised in a subdivided building, when lodged with the Authority, are to be collectively known as the strata title plan for that subdivided building."
+   }
+  },
+  {
+   "id": "SG-H320-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "55."
+   },
+   "chapter": {
+    "en": "PART 3 STRATA SURVEY"
+   },
+   "heading": {
+    "en": "Additional requirements for strata title plan"
+   },
+   "text": {
+    "en": "55. A strata title plan lodged with the Authority must, in addition to the requirements relating to strata certified plans, comply with the following requirements:\n(a)the strata certified plan number must be endorsed on the bottom right‑hand corner of the plan as “ST ........”;\n(b)the Mukim or Town Subdivision of the land parcel must be stated on the immediate left‑hand side of the strata certified plan number;\n(c)the plan must measure 500 millimetres in length by 353 millimetres in width and must have clear margins on the face of each sheet of not less than 40 millimetres on the left‑hand side and not less than 15 millimetres on the right‑hand side, at the top and at the bottom;\n(d)each sheet must be numbered consecutively and the number must be endorsed on the top right‑hand corner of each sheet as “Sheet ......”;\n(e)the first sheet must contain the strata title plan heading, a site plan, the relevant field book numbers and pages, the relevant cadastral map numbers and the certifications mentioned in rule 56;\n(f)the second sheet must contain a plan schedule of subdivision, a legend of the common property, an elevation sketch, and where applicable, a legend setting out the provisional lots and a table of accessory lots;\n(g)subsequent sheets must contain storey plans;\n(h)where a strata lot occupies more than one storey, subsequent sheets must contain a table showing —\n(i)the strata area of each storey of the strata lot;\n(ii)the total strata area of the strata lot;\n(iii)the void area (other than an existing void area) in each storey of the strata lot, if any; and\n(iv)where there are existing void areas in the strata lot —\n(A)the floor area of each storey of the strata lot;\n(B)the total floor area of the strata lot;\n(C)the existing void area in each storey of the strata lot; and\n(D)the total existing void area in the strata lot."
+   }
+  },
+  {
+   "id": "SG-H320-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "56."
+   },
+   "chapter": {
+    "en": "PART 3 STRATA SURVEY"
+   },
+   "heading": {
+    "en": "Certification of strata title plan"
+   },
+   "text": {
+    "en": "56.—(1) The first sheet of a strata title plan must bear —\n(a)a certificate signed by the registered surveyor in the following form:\n“I, .............................................................. of ............................................., a surveyor registered under the Land Surveyors Act 1991 certify that:\n(a)all buildings and lots shown in this Strata Title Plan prepared by me containing sheets (No. ......... to .........) in relation to the external surface boundaries of the parcel are in accordance with *the approved Building Plans No. ......... dated ................../the approved subdivision plans ......... dated ................../the plan dated .................. for the subdivision of the building which has been authorised by a notification made by the Minister under section 21(6) of the Planning Act 1998; and\n(b)this plan correctly represents the survey done in strict compliance with the Boundaries and Survey Maps (Conduct of Cadastral Surveys) Rules 2005.\n(Signature and date of certification)\nRegistered Surveyor.\n*Delete whichever is inapplicable.”; and\n(b)a certification of approval signed by the Chief Surveyor in the following form:\n“I, ................................................................., Chief Surveyor, Singapore, certify that the strata certified plans ST ...... to ...... shown on this Strata Title Plan have been lodged with the Singapore Land Authority and approved by me.\nDate:\nSignature: ”.\n(2) In the case of phased development where any provisional lot created in a strata subdivision is to be surveyed only upon completion of the construction of the building, the following paragraph must be added to the certification of approval by the Chief Surveyor under paragraph (1)(b):\n“The boundaries and dimensions of the provisional lot are inconclusive and are subject to survey.”."
+   }
+  },
+  {
+   "id": "SG-H320-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "57."
+   },
+   "chapter": {
+    "en": "PART 3 STRATA SURVEY"
+   },
+   "heading": {
+    "en": "Transitional provisions"
+   },
+   "text": {
+    "en": "57.—(1) Any cadastral survey commenced before 31 March 2005 must continue to be conducted in accordance with the revoked Land Surveyors (Conduct of Cadastral Surveys) Rules (Cap. 156, R 4, 2002 Revised Edition) as if those Rules had not been revoked.\n(2) Any act, matter or thing that was done under or for the purposes of the revoked Land Surveyors (Conduct of Cadastral Surveys) Rules (Cap. 156, R 4, 2002 Revised Edition) is, so far as it is not inconsistent with the provisions of these Rules, to be taken to have been done for the purposes of and have effect as if it had been done under the corresponding provisions of these Rules."
+   }
+  },
+  {
+   "id": "SG-H320-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRule 3(1)\nRelevant Acts\n1. Building Maintenance and Strata Management Act 2004\n2. Foreshores Act 1920\n3. Housing Developers (Control and Licensing) Act 1965\n4. Land Acquisition Act 1966\n5. Land Surveyors Act 1991\n6. Land Titles Act 1993\n7. Land Titles (Strata) Act 1967\n8. Planning Act 1998\n9. Sale of Commercial Properties Act 1979\n10. Sewerage and Drainage Act 1999\n11. State Lands Act 1920\n12. State Lands Encroachments Act 1883\n13. Street Works Act 1995"
+   }
+  }
+ ]
+}

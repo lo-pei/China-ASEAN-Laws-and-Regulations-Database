@@ -1,0 +1,105 @@
+{
+ "id": "PH-H4929",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Sections Three and Seven of Republic Act Numbered Forty-Six Hundred Fifty-Two, Entitled \"An Act Granting the Philippine Monorail Transit System, Incorporated a Franchise to Establish, Maintain and Operate a Monorail Transportation Service in the City of Manila and Suburbs and Cebu City and Province.\"",
+  "orig": "An Act Amending Sections Three and Seven of Republic Act Numbered Forty-Six Hundred Fifty-Two, Entitled \"An Act Granting the Philippine Monorail Transit System, Incorporated a Franchise to Establish, Maintain and Operate a Monorail Transportation Service in the City of Manila and Suburbs and Cebu City and Province.\""
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p70",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1971-10-04",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6417",
+ "officialCode": null,
+ "topics": [
+  "investment",
+  "company"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 1793,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1971/ra_6417_1971.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 6 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1971/ra_6417_1971.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 7 条，缺 5、6）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号。 源文存在同号重出的条款（第 3 条）：该处官方页面确有两段均标同一 Section 号，本库照录其 `no` 值（不改动官方编号），条文 `id` 以 `_2`「_3」后缀保证唯一。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4929-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section three of Republic Act Numbered Forty-six hundred fifty-two is hereby amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H4929-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "In the event that the grantee fails to commence construction of the monorail transportation service contemplated in this Act within three years, nor commence operation of the service within eight years from the approval of this Act, this franchise shall be null and void unless prevented by fortuitous cause or force majeure, martial law, riot, civil commotion, usurpation by a military power, or any other reasonable cause beyond the grantee's control: Provided, however, That all the time during which the grantee, its successors and assigns, may be prevented from carrying out the terms and conditions of this franchise shall be added to the time allowed by this franchise for compliance with its provisions.\""
+   }
+  },
+  {
+   "id": "PH-H4929-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section seven of the same Act is amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H4929-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "The grantee shall not lease, transfer, grant the usufruct of, sell or assign this franchise, nor any rights and privileges acquired thereunder to any individual, company or corporation, nor merge with any other individual, company or corporation. The grantee also shall not sell any share of its capital stock to any person other than the incorporators thereof, before the completion and approval of the feasibility survey of this project. Any provincial, city or municipal government whose territorial area is directly served by the monorail transit service is authorized to invest therein through purchase of shares of the capital stock of the grantee.\""
+   }
+  },
+  {
+   "id": "PH-H4929-A3_2",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Any provision of law to the contrary notwithstanding, the franchise shall be limited to the City of Manila and suburbs and shall exclude Cebu City and province."
+   }
+  },
+  {
+   "id": "PH-H4929-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nEnacted without executive approval, October 4, 1971."
+   }
+  }
+ ]
+}

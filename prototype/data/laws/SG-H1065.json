@@ -1,0 +1,68 @@
+{
+ "id": "SG-H1065",
+ "title": {
+  "zh": null,
+  "en": "Customs (Rebate on Motor Cars) Order",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p14",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CA1960-OR7",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1503,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CA1960-OR7?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 2 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1065-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Order may be cited as the Customs (Rebate on Motor Cars) Order."
+   }
+  },
+  {
+   "id": "SG-H1065-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Rebate on excise duties for off-peak car"
+   },
+   "text": {
+    "en": "2.—(1) If a motor car is registered as an off-peak car upon its first registration in Singapore under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules (Cap. 276, R 5), the person registered as the owner of the motor car shall be granted a rebate on the excise duties paid in respect of that motor car, determined in accordance with the formula —\nwhere\nT\nis equal to the sum of A, B and C, if the sum of A, B and C does not exceed the maximum rebate or, otherwise, the amount of the maximum rebate;\nA\nis the amount of excise duties paid in respect of the motor car under the Customs (Duties) Order (O 4);\nB\nis the quota premium payable under rule 13(1) of the Road Traffic (Motor Vehicles, Quota System) Rules (Cap. 276, R 31) for the certificate of entitlement of the motor car; and\nC\nis the net additional registration fee as prescribed in rule 8(3) of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules.\n(2) For the purposes of sub-paragraph (1), “maximum rebate” means the maximum rebate prescribed in rule 8(3) of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules.\n(3) The amount of the rebate under sub-paragraph (1) shall not be refunded but shall only be used to set off the additional registration fee payable under rule 6 of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules (Cap. 276, R 5) in respect of the motor car.\n[G.N. Nos. S 165/91; S622/2000]"
+   }
+  }
+ ]
+}

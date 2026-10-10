@@ -1,0 +1,133 @@
+{
+ "id": "SG-H817",
+ "title": {
+  "zh": null,
+  "en": "Consumer Protection (Fair Trading) (Regulated Financial Products and Services) Regulations 2009",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p10",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CPFTA2003-RG5",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 7,
+ "chars": 4138,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CPFTA2003-RG5?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 7 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H817-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations are the Consumer Protection (Fair Trading) (Regulated Financial Products and Services) Regulations 2009."
+   }
+  },
+  {
+   "id": "SG-H817-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations —\n“MAS-regulated financial products” means any arrangements, transactions and contracts regulated, or supplied by any person regulated, under any written law administered by the Monetary Authority of Singapore;\n“MAS-regulated financial services” means any services regulated, or supplied by any person regulated, under any written law administered by the Monetary Authority of Singapore;\n“MAS-regulated financial products or services” means MAS‑regulated financial products or MAS‑regulated financial services;\n“regulated financial products” means any arrangements, transactions and contracts regulated, or supplied by any person regulated, under any written law administered by the Monetary Authority of Singapore or under the Commodity Trading Act 1992;\n“regulated financial services” means any services regulated, or supplied by any person regulated, under any written law administered by the Monetary Authority of Singapore or under the Commodity Trading Act 1992;\n“regulated financial products or services” means regulated financial products or regulated financial services.\n(2) For the purposes of the definitions of “MAS‑regulated financial products”, “MAS‑regulated financial services”, “regulated financial products” and “regulated financial services” in paragraph (1), a reference to a person regulated under a written law includes a person exempted from being licensed, approved or regulated under that written law."
+   }
+  },
+  {
+   "id": "SG-H817-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Application of Act modified"
+   },
+   "text": {
+    "en": "3. The Act applies with the modifications prescribed in these Regulations."
+   }
+  },
+  {
+   "id": "SG-H817-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Considerations in determining unfair practice"
+   },
+   "text": {
+    "en": "4.—(1) For the purposes of section 5(3)(a) of the Act, a court may, in considering the reasonableness of the actions of a supplier of regulated financial products or services, take into account the inherent risks of the financial products or services supplied, if all relevant information concerning such risks has been provided to the consumer in good faith.\n(2) A supplier of regulated financial products or services is not taken to have engaged in an unfair practice by reason only that the following terms are included in an insurance contract supplied by the supplier:\n(a)terms that clearly define or circumscribe the insured risk;\n(b)terms that clearly define or circumscribe the insurer’s liability."
+   }
+  },
+  {
+   "id": "SG-H817-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Multiple actions"
+   },
+   "text": {
+    "en": "5.—(1) In any action under section 6(1) of the Act involving an unfair practice relating to the supply of regulated financial products or services, the amount of the claim or the value of the subject matter for the purposes of section 6(2) is determined based on the aggregate amounts of the claims or the aggregate values of the subject matters (as the case may be) in —\n(a)that action; and\n(b)all other actions under section 6(1) of the Act, involving the same unfair practice and between the same consumer and supplier, commenced before that action.\n(2) For the purposes of paragraph (1), actions are taken to involve the same unfair practice if the unfair practice complained of in each action is established based on substantially the same facts.\n(3) In applying this regulation, a court may exclude in whole or in part the amount of the claim or value of the subject matter (as the case may be) in any of the other actions mentioned in paragraph (1) from being aggregated, if the court is satisfied that it would be just to do so in the circumstances of the case."
+   }
+  },
+  {
+   "id": "SG-H817-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Specified dispute resolution scheme"
+   },
+   "text": {
+    "en": "6. For the purposes of section 7(11) of the Act, any dispute resolution scheme approved, or deemed to be approved, by the Monetary Authority of Singapore under section 31 of the Financial Services and Markets Act 2022 is a specified dispute resolution scheme in respect of disputes relating to MAS‑regulated financial products or services supplied by a subscriber to that dispute resolution scheme."
+   }
+  },
+  {
+   "id": "SG-H817-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Application of sections 8, 9 and 10 of Act"
+   },
+   "text": {
+    "en": "7. Sections 8 (Voluntary compliance agreement), 9 (Declaration or injunction) and 10 (Injunction against person from knowingly abetting, aiding, permitting or procuring supplier to engage in unfair practice) of the Act do not apply to any unfair practice relating to MAS‑regulated financial products or services."
+   }
+  }
+ ]
+}

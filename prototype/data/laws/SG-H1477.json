@@ -1,0 +1,940 @@
+{
+ "id": "SG-H1477",
+ "title": {
+  "zh": null,
+  "en": "Family Justice Act 2014",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p19",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act FJA2014",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 57,
+ "chars": 79329,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/FJA2014?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 57 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1477-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Family Justice Act 2014."
+   }
+  },
+  {
+   "id": "SG-H1477-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2.—(1) In this Act —\n“alternative dispute resolution process” means a process by which a dispute (or any issue in the dispute) is resolved other than by litigation, including by mediation, arbitration, conciliation or neutral evaluation;\n[Act 18 of 2023 wef 31/01/2024]\n“District Judge” means a District Judge appointed under section 9(1) of the State Courts Act 1970;\n“Family Justice Rules” means the Family Justice Rules made under this Act and any other written law by the Family Justice Rules Committee constituted under section 46(1);\n“family proceedings” means —\n(a)any civil proceedings under section 53 of the Administration of Muslim Law Act 1966;\n(b)any civil proceedings under the Adoption of Children Act 2022;\n[Act 20 of 2022 wef 15/10/2024]\n(c)any civil proceedings under the Guardianship of Infants Act 1934;\n(d)any civil proceedings under the Inheritance (Family Provision) Act 1966;\n(e)any civil proceedings under the International Child Abduction Act 2010;\n(f)any civil proceedings for the distribution of an intestate estate in accordance with the Intestate Succession Act 1967;\n(g)any civil proceedings under the Legitimacy Act 1934;\n(h)any civil proceedings under section 10 of the Maintenance of Parents Act 1995;\n(i)[Deleted by Act 16 of 2016]\n(j)any civil proceedings under the Maintenance Orders (Reciprocal Enforcement) Act 1975;\n(k)any civil proceedings under the Mental Capacity Act 2008;\n(l)any civil proceedings under the Mental Health (Care and Treatment) Act 2008;\n(m)any civil proceedings under the Status of Children (Assisted Reproduction Technology) Act 2013;\n(n)any civil proceedings under section 17A(2) of the Supreme Court of Judicature Act 1969;\n(o)any civil proceedings under the Voluntary Sterilisation Act 1974;\n(oa)any civil or quasi‑criminal proceedings under the Vulnerable Adults Act 2018;\n(p)any civil or quasi-criminal proceedings under the Women’s Charter 1961;\n(q)on or after 1 January 2015, any civil proceedings under the Probate and Administration Act 1934; and\n(r)on or after 1 December 2016, any civil proceedings under the Wills Act 1838;\n“family support programme or activity” means any programme or activity carried out for the purpose of addressing or resolving any relationship issue or relationship problem between spouses or former spouses, between siblings or between parent and child;\n“judicial officer” means a District Judge or Magistrate who is designated as a judge of the Family Court or a judge of the Youth Court, or a Registrar;\n“Magistrate” means a Magistrate appointed under section 10(1) of the State Courts Act 1970;\n“mediation” means a process by which one or more mediators (whether court‑appointed mediators or otherwise) assist the parties to a dispute by —\n(a)facilitating an amicable settlement of the dispute or any issue in the dispute; and\n(b)where an amicable settlement is reached by the parties — discussing or facilitating the carrying out of any matter pursuant to the settlement;\n[Act 18 of 2023 wef 31/01/2024]\n“officer”, in relation to the Family Justice Courts, means a person who is attached to the Family Justice Courts under section 17;\n“registered medical practitioner” means a registered medical practitioner under the Medical Registration Act 1997 who has in force a practising certificate granted under that Act;\n“Registrar” means the registrar, the deputy registrar or any assistant registrar of the Family Justice Courts;\n“relevant proceedings” means any proceedings over which the Family Justice Courts exercise jurisdiction (except criminal jurisdiction);\n[Act 18 of 2023 wef 14/10/2024]\n“Rules of Court” means the Rules of Court made under the Supreme Court of Judicature Act 1969 and any other written law by the Rules Committee constituted under section 80(3) of that Act;\n“Tribunal for the Maintenance of Parents” means the Tribunal for the Maintenance of Parents established under section 13 of the Maintenance of Parents Act 1995.\n[16/2016; 27/2018; 40/2019]\n[Act 18 of 2023 wef 31/01/2024]\n(2) In this Act, unless the context otherwise requires, a reference to the general supervisory and revisionary jurisdiction of the General Division of the High Court is to be construed as a reference to the general supervisory and revisionary jurisdiction of the General Division of the High Court under section 27 of the Supreme Court of Judicature Act 1969, and includes a reference to all powers exercisable by the General Division of the High Court under sections 23 to 28 of that Act.\n[40/2019]"
+   }
+  },
+  {
+   "id": "SG-H1477-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 FAMILY JUSTICE COURTS"
+   },
+   "heading": {
+    "en": "Family Justice Courts"
+   },
+   "text": {
+    "en": "3. The Family Justice Courts consist of —\n(a)the Family Division of the High Court;\n(b)the Family Courts; and\n(c)the Youth Courts."
+   }
+  },
+  {
+   "id": "SG-H1477-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 FAMILY JUSTICE COURTS"
+   },
+   "heading": {
+    "en": "Family Division of High Court"
+   },
+   "text": {
+    "en": "4.—(1) There shall be a division of the General Division of the High Court known as the Family Division, through which the General Division of the High Court exercises —\n(a)such part of the original and appellate civil jurisdiction of the General Division of the High Court as is specified in this Act;\n(b)such part of the appellate criminal jurisdiction of the General Division of the High Court as is specified in this Act; and\n(c)the general supervisory and revisionary jurisdiction of the General Division of the High Court over the Family Courts, the Youth Courts and the Tribunal for the Maintenance of Parents.\n[40/2019]\n(2) Subject to this Act, the provisions of the Supreme Court of Judicature Act 1969 apply to the Family Division of the High Court."
+   }
+  },
+  {
+   "id": "SG-H1477-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 FAMILY JUSTICE COURTS"
+   },
+   "heading": {
+    "en": "Family Courts and Youth Courts"
+   },
+   "text": {
+    "en": "5. There shall be within Singapore the following subordinate courts with such jurisdiction as is conferred by this Act or any other written law:\n(a)Family Courts;\n(b)Youth Courts."
+   }
+  },
+  {
+   "id": "SG-H1477-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 FAMILY JUSTICE COURTS"
+   },
+   "text": {
+    "en": "6. [Repealed by Act 25 of 2021 wef 01/04/2022]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1477-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 FAMILY JUSTICE COURTS"
+   },
+   "heading": {
+    "en": "Seals of courts"
+   },
+   "text": {
+    "en": "7. The Family Justice Courts are to have and use as occasion may require a seal or seals of such nature as the Chief Justice may, by notification in the Gazette, prescribe."
+   }
+  },
+  {
+   "id": "SG-H1477-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 FAMILY JUSTICE COURTS"
+   },
+   "heading": {
+    "en": "Process of courts"
+   },
+   "text": {
+    "en": "8. All writs, summonses, warrants, orders, notices and other mandatory processes issued by the Family Justice Courts must be signed by a judicial officer and must bear the seal of the court issuing the same."
+   }
+  },
+  {
+   "id": "SG-H1477-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 FAMILY JUSTICE COURTS"
+   },
+   "heading": {
+    "en": "Sittings of Family Courts and Youth Courts"
+   },
+   "text": {
+    "en": "9.—(1) Subject to subsection (2), every Family Court and every Youth Court sits on every day of the year except on Saturdays, Sundays and public holidays.\n(2) Despite subsection (1), a judicial officer may lawfully sit on a Saturday, Sunday or public holiday or during a vacation authorised under section 38 if —\n(a)the Presiding Judge of the Family Justice Courts, with the concurrence of the Chief Justice, has directed the judicial officer to sit on that day or during that vacation; or\n(b)in the opinion of the judicial officer, the business to be despatched is extremely urgent.\n(3) Every Family Court and every Youth Court sits at such times and at such places as the Chief Justice may from time to time appoint.\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H1477-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 FAMILY JUSTICE COURTS"
+   },
+   "heading": {
+    "en": "Sittings in private, etc."
+   },
+   "text": {
+    "en": "10.—(1) Subject to subsection (2), all matters and proceedings in a Family Justice Court must be heard in private.\n[Act 25 of 2021 wef 01/04/2022]\n(2) A Family Justice Court has power to hear any matter or any part thereof in an open and public court, or by way of an open and public hearing, to which the public generally may have access, if the Court is satisfied that it is expedient in the interests of justice, or for other sufficient reason to do so.\n[Act 25 of 2021 wef 01/04/2022]\n(3) A Family Justice Court may, in any matter or proceeding or any part thereof tried or held or to be tried or held before it, if satisfied that it is expedient in the interests of justice, public safety, public security or propriety, the national interest or national security of Singapore, or for other sufficient reason to do so, order that any of the following, which is contained in any court document or intended to be produced before the Court, be removed or be sufficiently redacted:\n(a)the name, address or photograph of any witness in that matter or proceeding;\n(b)any evidence or any other thing likely to lead to the identification of any such witness by any person other than a party to that matter or proceeding;\n[Act 25 of 2021 wef 01/04/2022]\n(c)any information that, if disclosed, may be prejudicial to the national interest or national security of Singapore.\n[Act 25 of 2021 wef 01/04/2022]\n(4) A Family Justice Court may at any time order that no person is to —\n(a)publish the name, address or photograph of any witness in any matter or proceeding or any part thereof tried or held or to be tried or held before it, or any evidence or any other thing likely to lead to the identification of any such witness;\n[Act 25 of 2021 wef 01/04/2022]\n(b)do any other act which is likely to lead to the identification of any witness mentioned in paragraph (a); or\n[Act 25 of 2021 wef 01/04/2022]\n(c)publish any information relating to any matter or proceeding before the court that, if disclosed, may be prejudicial to the national interest or national security of Singapore.\n[Act 25 of 2021 wef 01/04/2022]\n(5) Any person who acts in contravention of any order under subsection (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.\n(6) Section 8 of the Supreme Court of Judicature Act 1969 does not apply to the Family Division of the High Court."
+   }
+  },
+  {
+   "id": "SG-H1477-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 FAMILY JUSTICE COURTS"
+   },
+   "heading": {
+    "en": "Court may conduct hearing through electronic means of communication"
+   },
+   "text": {
+    "en": "11.—(1) Without limiting section 10, a Family Justice Court may conduct the hearing of any matter or proceeding (other than a matter or proceeding prescribed by the Criminal Procedure Rules or the Family Justice Rules) through a live video link, a live television link, a live audio link or any other electronic means of communication approved by the Chief Justice.\n(2) Subsection (1) does not affect the operation of section 26A of the Administration of Justice (Protection) Act 2016, section 62A of the Evidence Act 1893* and section 281 of the Criminal Procedure Code 2010*.\n[*Updated to be consistent with the 2020 Revised Edition]\n(3) A Family Justice Court must not conduct any part of a hearing of a matter through a live audio link only, without an accompanying live video link or live television link —\n(a)where oral evidence is given during that part of the hearing (including in a trial of an offence) in a criminal or quasi-criminal proceeding;\n(b)where oral evidence is given during that part of the hearing (including in a trial of an action) in a civil proceeding, unless all the parties consent; or\n(c)where the matter is prescribed by the Criminal Procedure Rules or the Family Justice Rules.\n(4) For the purposes of subsection (3), a court is not considered to have conducted a part of a hearing of a matter through a live audio link only and without an accompanying live video link or live television link, by reason only of a temporary disruption in the accompanying live video link or live television link that was insignificant and which did not affect the court’s duty to conduct proceedings fairly.\n(5) A Family Justice Court must not conduct a hearing of a matter or proceeding in the manner provided under subsection (1), if to do so would be inconsistent with the court’s duty to ensure that the hearing is conducted fairly to all parties.\n(6) A Family Court or a Youth Court is deemed to be sitting at a place appointed under section 9(3) when the court conducts a hearing of a matter or proceeding in the manner provided under subsection (1) (whether any judicial officer of the court is situated in Singapore or outside Singapore).\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H1477-A11.001",
+   "no": 11.001,
+   "noLabel": {
+    "en": "11A."
+   },
+   "chapter": {
+    "en": "PART 2 FAMILY JUSTICE COURTS"
+   },
+   "heading": {
+    "en": "Court may prohibit, etc., further applications or documents"
+   },
+   "text": {
+    "en": "11A.—(1) Subsections (2) and (3) apply where an order (called a relevant order) has been made by a Family Justice Court in any relevant proceedings.\n(2) Where a Family Justice Court is satisfied that the filing of any application (called in this subsection Application X1) by a party to vary, suspend, discharge, rescind, set aside or revoke a relevant order, or any document in support of Application X1 (called in this subsection Document X1), will or is likely to —\n(a)be without merit, having regard to the party’s past conduct in the relevant proceedings or any other proceedings before a Family Justice Court involving facts or reliefs that are the same as or similar to those in the relevant proceedings; or\n(b)where a child is or was a party to or a subject of the relevant proceedings or the proceedings in Application X1 — have an adverse effect on the welfare of the child,\nthe Court may make all or any of the following orders:\n(c)an order prohibiting the party from filing Application X1 or any other application to vary, suspend, discharge, rescind, set aside or revoke the relevant order, without the permission of the Court;\n(d)an order prohibiting the party from filing Document X1 or any other document in support of Application X1 or any other application to vary, suspend, discharge, rescind, set aside or revoke the relevant order, without the permission of the Court;\n(e)an order prohibiting the party from filing any application to amend, vary or discharge an order mentioned in paragraph (c) or (d) without the permission of the Court.\n(3) Where a Family Justice Court is satisfied that an application (called in this subsection Application X2) filed by a party on or after the date of commencement of section 3 of the Family Justice Reform Act 2023 to vary, suspend, discharge, rescind, set aside or revoke a relevant order, or any document filed in support of Application X2 (called in this subsection Document X2), will or is likely to be of the nature mentioned in subsection (2)(a) or have the effect mentioned in subsection (2)(b) in relation to a child who is or was a party to or subject of the relevant proceedings or the proceedings in Application X2, the Court may make all or any of the following orders:\n(a)an order that Application X2 be treated as dismissed or Document X2 be treated as expunged (as the case may be) on a date specified by the Court, if the party does not comply by that date with one or more conditions imposed by the Court;\n(b)an order staying the proceedings in Application X2 until the specified date mentioned in paragraph (a);\n(c)an order prohibiting the party from filing any other application to vary, suspend, discharge, rescind, set aside or revoke the relevant order, without the permission of the Court;\n(d)an order prohibiting the party from filing any document in support of Application X2 or any other application to vary, suspend, discharge, rescind, set aside or revoke the relevant order, without the permission of the Court;\n(e)an order prohibiting the party from filing any application to amend, vary or discharge an order mentioned in paragraph (a), (b), (c) or (d) without the permission of the Court.\n(4) Subsections (5) and (6) apply where any relevant proceedings (whether commenced before, on or after the date of commencement of section 3 of the Family Justice Reform Act 2023) are pending before a Family Justice Court.\n(5) Where a Family Justice Court is satisfied that the filing of any application (called in this subsection Application X3) by a party in the relevant proceedings, or any document in support of Application X3 (called in this subsection Document X3), will or is likely to —\n(a)impede the just, expeditious or economical resolution or disposal of any matter in the relevant proceedings; or\n(b)where a child is a party to or a subject of the relevant proceedings — have an adverse effect on the welfare of the child,\nthe Court may make all or any of the following orders:\n(c)an order prohibiting the party from filing Application X3 or any other application in the relevant proceedings, without the permission of the Court;\n(d)an order prohibiting the party from filing Document X3 or any other document in support of Application X3 or any other application in the relevant proceedings, without the permission of the Court;\n(e)an order prohibiting the party from filing any application to amend, vary or discharge an order mentioned in paragraph (c) or (d) without the permission of the Court.\n(6) Where a Family Justice Court is satisfied that any application (called in this subsection Application X4) filed by a party on or after the date of commencement of section 3 of the Family Justice Reform Act 2023 in the relevant proceedings, or any document filed in support of Application X4 (called in this subsection Document X4), will or is likely to be of the nature mentioned in subsection (5)(a) or have the effect mentioned in subsection (5)(b) in relation to a child who is a party to or subject of the relevant proceedings, the Court may make all or any of the following orders:\n(a)an order that Application X4 be treated as dismissed or Document X4 be treated as expunged (as the case may be) on a date specified by the Court, if the party does not comply by that date with one or more conditions imposed by the Court;\n(b)an order staying the proceedings in Application X4 until the specified date mentioned in paragraph (a);\n(c)an order prohibiting the party from filing any other application in the relevant proceedings, without the permission of the Court;\n(d)an order prohibiting the party from filing any document in support of Application X4 or any other application in the relevant proceedings, without the permission of the Court;\n(e)an order prohibiting the party from filing any application to amend, vary or discharge an order mentioned in paragraph (a), (b), (c) or (d) without the permission of the Court.\n(7) An order prohibiting the filing of any application or document under subsection (2)(c) or (d), (3)(c) or (d), (5)(c) or (d) or (6)(c) or (d) may be of a general nature or a particular nature.\n(8) Any application filed by a party, or any document filed in support of such an application, contrary to any order under subsection (2)(c), (d) or (e), (3)(c), (d) or (e), (5)(c), (d) or (e) or (6)(c), (d) or (e), is to be treated as dismissed or expunged —\n(a)without the Court having to make any further order; and\n(b)without the need for any other party to be heard on the merits of that application.\n(9) To avoid doubt, an order under subsection (2)(c), (d) or (e), (3)(c), (d) or (e), (5)(c), (d) or (e) or (6)(c), (d) or (e) does not prohibit the filing of an application for any permission required by the order.\n[Act 18 of 2023 wef 14/10/2024]"
+   }
+  },
+  {
+   "id": "SG-H1477-A11.002",
+   "no": 11.002,
+   "noLabel": {
+    "en": "11B."
+   },
+   "chapter": {
+    "en": "PART 2 FAMILY JUSTICE COURTS"
+   },
+   "heading": {
+    "en": "Court may make order without application"
+   },
+   "text": {
+    "en": "11B.—(1) Subject to subsection (2), a Family Justice Court may, in the course of any relevant proceedings commenced on or after the date of commencement of section 4 of the Family Justice Reform Act 2023 and on its own motion, make an order on any issue arising in a cause or matter, including an order of a substantive nature, which the Court has the power to make on the application of any person.\n(2) A Family Justice Court must not make an order of a substantive nature on the basis of subsection (1) unless —\n(a)every person likely to be affected by the order has been given an opportunity to be heard concerning the order; and\n(b)the Court is satisfied that it is in the interests of justice to make the order.\n[Act 18 of 2023 wef 15/10/2024]"
+   }
+  },
+  {
+   "id": "SG-H1477-A11.003",
+   "no": 11.003,
+   "noLabel": {
+    "en": "11C."
+   },
+   "chapter": {
+    "en": "PART 2 FAMILY JUSTICE COURTS"
+   },
+   "heading": {
+    "en": "Court may impose restrictions on cross-examination"
+   },
+   "text": {
+    "en": "11C.—(1) Subsection (2) applies where an applicant or a respondent in any relevant proceedings commenced on or after the date of commencement of section 4 of the Family Justice Reform Act 2023 cross-examines or intends to cross-examine a witness in person or by counsel, in the relevant proceedings.\n(2) A Family Justice Court may, on its own motion or the application of any party, make any or both of the following orders in the circumstances prescribed by the Family Justice Rules:\n(a)an order that the cross-examination be restricted in scope or duration;\n(b)an order that the cross-examination (or any part of the cross-examination) must be conducted in any manner prescribed by the Family Justice Rules.\n[Act 18 of 2023 wef 15/10/2024]"
+   }
+  },
+  {
+   "id": "SG-H1477-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Appointment of Presiding Judge of Family Justice Courts"
+   },
+   "text": {
+    "en": "12.—(1) For the purposes of the administration of this Act, the President may, on the recommendation of the Chief Justice, appoint a Supreme Court Judge or a Judicial Commissioner to be the Presiding Judge of the Family Justice Courts for such period as the Chief Justice may recommend.\n[40/2019]\n(2) Despite any other written law, the Presiding Judge of the Family Justice Courts may sit in any Family Court or Youth Court and act as a judge thereof, in which case he or she has all the jurisdiction, power and privileges of such a judge.\n(3) A Supreme Court Judge or a Judicial Commissioner may, during the period of his or her appointment as the Presiding Judge of the Family Justice Courts, continue to sit in the General Division of the High Court, the Appellate Division of the High Court or the Court of Appeal in accordance with the Constitution.\n[40/2019]\n(4) Any person appointed to be the Presiding Judge of the Family Justice Courts must, although the period of his or her appointment as such has expired or his or her appointment as such has been revoked, in relation to any case heard by him or her as a judge of a Family Court or Youth Court, continue to sit as such a judge for the purpose of giving judgment or otherwise."
+   }
+  },
+  {
+   "id": "SG-H1477-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Designation of judges of Family Courts"
+   },
+   "text": {
+    "en": "13.—(1) A Family Court is presided over by a District Judge, or a Magistrate, who is designated by the Chief Justice as a judge of the Family Court.\n(2) A person is designated as a judge of the Family Court for such period as the Chief Justice may determine.\n(3) Any person designated as a judge of the Family Court must, although the period of his or her designation as such has expired or his or her designation as such has been revoked, in relation to any case heard by him or her as a judge of a Family Court, continue to sit as such a judge for the purpose of giving judgment or otherwise."
+   }
+  },
+  {
+   "id": "SG-H1477-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Designation of judges of Youth Courts"
+   },
+   "text": {
+    "en": "14.—(1) A Youth Court is presided over by a District Judge, or a Magistrate, who is designated by the Chief Justice as a judge of the Youth Court.\n(2) A person is designated as a judge of the Youth Court for such period as the Chief Justice may determine.\n(3) Any person designated as a judge of the Youth Court must, although the period of his or her designation as such has expired or his or her designation as such has been revoked, in relation to any case heard by him or her as a judge of a Youth Court, continue to sit as such a judge for the purpose of giving judgment or otherwise."
+   }
+  },
+  {
+   "id": "SG-H1477-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Appointments and qualifications of registrar, deputy registrar and assistant registrars"
+   },
+   "text": {
+    "en": "15.—(1) The President may, on the recommendation of the Chief Justice, appoint a registrar, a deputy registrar and assistant registrars of the Family Justice Courts.\n(2) A person must not be appointed to be or to act as the registrar, the deputy registrar or an assistant registrar unless he or she is a qualified person as defined in section 2 of the Legal Profession Act 1966.\n(3) The registrar, deputy registrar and assistant registrars are ex officio commissioners for oaths."
+   }
+  },
+  {
+   "id": "SG-H1477-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Jurisdiction, powers and duties of registrar, deputy registrar and assistant registrars"
+   },
+   "text": {
+    "en": "16.—(1) The registrar, deputy registrar and assistant registrars of the Family Justice Courts have, subject to this Act and any other written law, such jurisdiction, powers and duties as may be prescribed by the Family Justice Rules or, prior to their enactment, the Rules of Court.\n(2) Subject to this Act and any other written law, all powers and duties conferred and imposed on the registrar, whether by this Act or any other written law, may be exercised and performed by the deputy registrar or any assistant registrar."
+   }
+  },
+  {
+   "id": "SG-H1477-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Officers of Family Justice Courts"
+   },
+   "text": {
+    "en": "17. There are to be attached to the Family Justice Courts such commissioners for oaths, interpreters, clerks, bailiffs, process servers, counsellors, social workers, psychologists and other officers as, from time to time, may appear to the Chief Justice to be necessary for the administration of justice and the due execution of all powers and duties which are vested in the Family Justice Courts."
+   }
+  },
+  {
+   "id": "SG-H1477-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Powers and duties of certain officers of Family Justice Courts"
+   },
+   "text": {
+    "en": "18.—(1) The bailiffs and process servers must —\n(a)execute all writs, summonses, warrants, orders, notices and other processes of the Family Justice Courts given to them; and\n(b)make a return of the same together with the manner of the execution thereof to the court from which the process issued.\n(2) The bailiffs in executing any enforcement order for seizure and sale of property, any other enforcement order or any writ of distress may effect an entry into any building, and for that purpose (if necessary) may break open any outer or inner door or window of the building or any receptacle therein, using such force as is reasonably necessary to effect an entry.\n[Act 25 of 2021 wef 15/10/2024]\n(3) The bailiffs must arrest and receive all such persons and property as are committed to the custody of the Family Justice Courts.\n(4) The Registrar may engage any auxiliary police officer appointed under the Police Force Act 2004*, any security agency, a provider of transport and of warehousing, a valuer, an estate agent, a broker, a solicitor or any other appropriate person to assist the bailiff in the discharge of the bailiff’s duties.\n[Act 25 of 2021 wef 01/04/2022]\n[*Updated to be consistent with the 2020 Revised Edition]"
+   }
+  },
+  {
+   "id": "SG-H1477-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Solicitor, etc., authorised to act as bailiff"
+   },
+   "text": {
+    "en": "19.—(1) Subject to such directions as may be given by the Presiding Judge of the Family Justice Courts, the Registrar may authorise a solicitor or a person employed by a solicitor to exercise the powers and perform the duties of a bailiff during such period or on such occasion as the Registrar thinks fit and subject to such terms and conditions as the Registrar may determine.\n(2) Section 45(2) applies to a solicitor or person authorised under subsection (1) as it applies to an officer of the Family Justice Courts."
+   }
+  },
+  {
+   "id": "SG-H1477-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Oaths of officers"
+   },
+   "text": {
+    "en": "20.—(1) The registrar, deputy registrar and assistant registrars of the Family Justice Courts and such other officers of the Family Justice Courts as may be required by the Chief Justice must, before exercising the functions of their respective offices, take and subscribe the appropriate oath of office set out in the First Schedule.\n[16/2016]\n(2) The oath mentioned in subsection (1) may be taken and subscribed before the Presiding Judge of the Family Justice Courts or a Supreme Court Judge or a Judicial Commissioner.\n[40/2019]\n(2A) To avoid doubt, where an oath of office is required to be taken and subscribed under subsection (1), a person may take and subscribe the oath by appearing before the Presiding Judge of the Family Justice Courts, a Supreme Court Judge or a Judicial Commissioner through a live video link or live television link created using a remote communication technology that allows the Presiding Judge of the Family Justice Courts, Supreme Court Judge or Judicial Commissioner (as the case may be) to —\n(a)maintain visual contact and communicate with the person taking the oath, and any interpreter present, throughout the process;\n(b)confirm the identity of the person taking the oath and any interpreter present; and\n(c)verify by inspection the oath to be subscribed.\n[Act 25 of 2023 wef 01/12/2023]\n(3) Where the oath is taken before the Presiding Judge of the Family Justice Courts, he or she must —\n(a)enter in the record of the Family Justice Courts that the oath was duly administered and taken before him or her; and\n(b)transmit a certified copy of the entry to the Registrar of the Supreme Court."
+   }
+  },
+  {
+   "id": "SG-H1477-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 APPOINTMENTS, POWERS AND DUTIES"
+   },
+   "heading": {
+    "en": "Appointments and revocations to be published in Gazette"
+   },
+   "text": {
+    "en": "21. All appointments and revocations made under this Part must be published in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H1477-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Original civil jurisdiction of General Division of High Court exercisable through Family Division"
+   },
+   "text": {
+    "en": "22.—(1) The part of the civil jurisdiction of the General Division of the High Court which is exercised through the Family Division consists of —\n(a)the jurisdiction conferred on the General Division of the High Court by sections 17(1)(a), (d), (e) and (f) and 17A of the Supreme Court of Judicature Act 1969; and\n(b)such other jurisdiction relating to family proceedings as is vested in or conferred on the General Division of the High Court by any written law.\n[40/2019]\n(2) To avoid doubt, the Family Division of the High Court has, when exercising any jurisdiction mentioned in subsection (1)(a) or (b), all the powers of the General Division of the High Court in the exercise of its original civil jurisdiction.\n[40/2019]"
+   }
+  },
+  {
+   "id": "SG-H1477-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Appellate civil jurisdiction of General Division of High Court exercisable through Family Division"
+   },
+   "text": {
+    "en": "23.—(1) The part of the appellate civil jurisdiction of the General Division of the High Court which is exercised through the Family Division consists of —\n(a)the hearing of appeals from Family Courts when exercising jurisdiction of a quasi‑criminal or civil nature; and\n(b)the hearing of appeals and special cases from the Tribunal for the Maintenance of Parents.\n[40/2019]\n(2) Subject to subsection (2A), an appeal lies to the General Division of the High Court from any decision of a Family Court exercising jurisdiction of a quasi‑criminal or civil nature.\n[16/2016; 40/2019]\n(2A) An appeal lies to the General Division of the High Court from a decision of a Family Court only with the permission of that Family Court or the General Division of the High Court in any case specified in the Second Schedule subject to any exception specified in that Schedule.\n[40/2019]\n[Act 25 of 2021 wef 15/10/2024]\n(2B) An appeal shall lie to the General Division of the High Court from a decision of a Family Court in proceedings under Part 3 of the Protection from Harassment Act 2014*, only with permission of that Family Court or the General Division of the High Court.\n[Act 17 of 2019 wef 15/10/2024]\n[Act 40 of 2019 wef 15/10/2024]\n[Act 25 of 2021 wef 15/10/2024]\n[*Updated to be consistent with the 2020 Revised Edition]\n(2C) An order of the General Division of the High Court giving or refusing permission under subsection (2A) or (2B) is final.\n[Act 18 of 2023 wef 31/01/2024]\n(3) An appeal to the General Division of the High Court from a decision of a Family Court —\n(a)may be heard before one Judge or 3 Judges; and\n(b)if heard before 3 Judges, must be decided in accordance with the opinion of the majority of the Judges composing the General Division of the High Court.\n[40/2019]\n(4) No Judge is to sit in the General Division of the High Court on the hearing of, or determine any application in proceedings incidental or preliminary to —\n(a)an appeal from a judgment or an order made by him or her as the Presiding Judge of the Family Justice Courts; or\n(b)any proceedings relating to any judgment, order or direction made by him or her as the Presiding Judge of the Family Justice Courts.\n[40/2019]"
+   }
+  },
+  {
+   "id": "SG-H1477-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Appellate criminal jurisdiction of General Division of High Court exercisable through Family Division"
+   },
+   "text": {
+    "en": "24.—(1) The part of the appellate criminal jurisdiction of the General Division of the High Court which is exercised through the Family Division consists of —\n(a)the hearing of appeals from Family Courts when exercising criminal jurisdiction; and\n(b)the hearing of appeals from Youth Courts.\n[40/2019]\n(2) An appeal lies to the General Division of the High Court from any decision of a Family Court exercising criminal jurisdiction or any decision of a Youth Court.\n[40/2019]\n(3) An appeal to the General Division of the High Court from a decision of a Family Court or Youth Court —\n(a)may be heard before one Judge or 3 Judges according to the provisions of the law for the time being in force relating to criminal procedure; and\n(b)if heard before 3 Judges, must be decided in accordance with the opinion of the majority of the Judges composing the General Division of the High Court.\n[40/2019]\n(4) No Judge is to sit in the General Division of the High Court on the hearing of, or determine any application in proceedings incidental or preliminary to —\n(a)an appeal against a conviction before him or her, or a sentence passed by him or her, as the Presiding Judge of the Family Justice Courts;\n(b)any application made under section 400 of the Criminal Procedure Code 2010 in relation to any judgment or order made, or sentence passed, by him or her as the Presiding Judge of the Family Justice Courts; or\n(c)any proceedings relating to any judgment, order or direction made by him or her as the Presiding Judge of the Family Justice Courts.\n[40/2019]"
+   }
+  },
+  {
+   "id": "SG-H1477-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Family Division may exercise entire jurisdiction of General Division of High Court"
+   },
+   "text": {
+    "en": "25. To avoid doubt, the Family Division of the High Court may exercise the entire original and appellate civil and criminal jurisdiction of the General Division of the High Court under the Supreme Court of Judicature Act 1969 and under any other written law.\n[40/2019]"
+   }
+  },
+  {
+   "id": "SG-H1477-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Jurisdiction of Family Courts"
+   },
+   "text": {
+    "en": "26.—(1) A Family Court is a court of record.\n(2) Subject to subsections (4), (5) and (6), a Family Court has —\n(a)all the civil jurisdiction of the General Division of the High Court mentioned in section 22(1)(a) and (b);\n(b)when exercising any jurisdiction mentioned in section 22(1)(a) or (b), all the powers of the General Division of the High Court in the exercise of the original civil jurisdiction of the General Division of the High Court; and\n(c)such other jurisdiction relating to family proceedings as is conferred on a Family Court by any written law.\n[40/2019]\n(3) Without limiting subsection (2), the jurisdiction of a Family Court to hear and try any civil proceedings which come within the jurisdiction of the Syariah Court constituted under the Administration of Muslim Law Act 1966 is the same as that of the General Division of the High Court, as if section 17A of the Supreme Court of Judicature Act 1969 applies to a Family Court with the modification that any reference in that section to the General Division of the High Court is a reference to a Family Court.\n[40/2019]\n(3A) Where an application may be made to either a Family Court or the Family Division of the High Court, the application must be made in the first instance to a Family Court.\n[Act 18 of 2023 wef 15/10/2024]\n(4) Despite subsections (2), (3) and (3A), the Chief Justice may by order in the Gazette direct that any class or description of family proceedings specified in the order are to be heard and determined by the Family Division of the High Court.\n[16/2016]\n(5) Subject to section 28A of the Supreme Court of Judicature Act 1969 and any order made under subsection (1) of that section, the jurisdiction of a Family Court under subsection (2) does not include —\n(a)any supervisory jurisdiction or revisionary jurisdiction;\n(b)any jurisdiction relating to the judicial review of any act done or decision made by any person or authority, including the issue of any of the following prerogative orders:\n(i)a Mandatory Order;\n(ii)a Prohibiting Order;\n(iii)a Quashing Order;\n(iv)an Order for Review of Detention;\n(c)any jurisdiction vested exclusively in the General Division of the High Court, in a Youth Court, in any State Court, or in any judicial, quasi‑judicial or administrative tribunal, by written law; and\n(d)any jurisdiction expressly excluded by written law.\n[40/2019]\n(6) A Family Court has jurisdiction to grant relief by way of interpleader, and to order the sale of any property subject to interpleader proceedings, only in either of the following circumstances:\n(a)where a bailiff of the Family Justice Courts is charged with the execution of any process or enforcement order of a Family Justice Court, and claim is made to any money or other movable property taken or intended to be taken in execution of the process or under or pursuant to the enforcement order, or to the proceeds or value of any such property, by any person other than the person against whom the process is issued;\n[Act 25 of 2021 wef 15/10/2024]\n(b)where the person seeking relief —\n(i)is a party to any proceedings before a Family Justice Court; and\n(ii)is under liability for any debt, money or other movable property for or in respect of which the person has been or expects to be sued by 2 or more parties making adverse claims thereto.\n(6A) The Family Court has the jurisdiction and powers of a District Court to hear civil proceedings in relation to any claim or order under the Protection from Harassment Act 2014*, except any claim under section 11 of that Act.\n[Act 17 of 2019 wef 15/10/2024]\n[*Updated to be consistent with the 2020 Revised Edition]\n(6B) Where any written law specifies that any provisions of the Criminal Procedure Code 2010 apply to any family proceedings, those provisions apply to the family proceedings in the Family Court with any modifications that may be prescribed by the Family Justice Rules.\n[Act 18 of 2023 wef 15/10/2024]\n(7) The criminal jurisdiction of a Family Court is the same as that of a District Court under section 50 of the State Courts Act 1970 and section 8 of the Criminal Procedure Code 2010.\n(8) When a Family Court exercises criminal jurisdiction in any proceedings —\n(a)the Family Court has all the powers of a District Court exercising criminal jurisdiction; and\n(b)the provisions of the Criminal Procedure Code 2010 apply to those proceedings in the Family Court, with any modifications that may be prescribed by the Family Justice Rules.\n[Act 18 of 2023 wef 15/10/2024]\n(9) Subject to any other written law, a Family Court may, either on its own motion or on the application of any person, order any party to any proceedings in a Family Court, or any child involved in or whose custody or welfare is involved in the proceedings —\n(a)to undergo any mediation or other alternative dispute resolution process or counselling, or to participate in any family support programme or activity, as directed by the Family Court; or\n(b)to attend any professional clinical or therapeutic intervention sessions as directed by the Family Court.\n[Act 18 of 2023 wef 31/01/2024]\n(10) Where a Family Court orders any party or child to undergo any mediation or other alternative dispute resolution process under subsection (9), the Family Court also has the following powers:\n(a)to conduct the mediation or other alternative dispute resolution process;\n(b)to appoint a judicial officer, an officer of the Family Justice Courts or any other person to conduct the mediation or other alternative dispute resolution process.\n[Act 18 of 2023 wef 31/01/2024]\n(11) Despite the provisions of the Administration of Justice (Protection) Act 2016, failure to comply with any order made under subsection (9) on or after the date of commencement of section 6(e) of the Family Justice Reform Act 2023 does not constitute a contempt of court.\n[Act 18 of 2023 wef 31/01/2024]\n(12) Where a person fails to comply with any order made under subsection (9) on or after the date of commencement of section 6(e) of the Family Justice Reform Act 2023 in any proceedings, the Family Court may —\n(a)stay the proceedings until the order has been complied with;\n(b)order any person responsible for the non‑compliance to pay the costs of the proceedings; or\n(c)make any other order that the Family Court thinks fit.\n[Act 18 of 2023 wef 31/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H1477-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Assessors to assist Family Court"
+   },
+   "text": {
+    "en": "27.—(1) In any proceedings before a Family Court, the Court may, if it thinks fit on the application of any party, or on its own motion, summon to its assistance, in such manner as may be prescribed by the Family Justice Rules, one or more persons of skill and experience in the matter to which the proceedings relate who may be willing to sit with the Court and act as assessors.\n[Act 18 of 2023 wef 15/10/2024]\n(2) The remuneration of any assessor for sitting under this section is to be —\n(a)fixed by the agreement of all the parties to the dispute and the assessor or, failing such agreement, by the Family Court; and\n(b)treated as costs in the proceedings unless the Family Court orders otherwise.\n[Act 18 of 2023 wef 15/10/2024]\n(3) Where any person is proposed to be summoned as an assessor, objection to him or her, either personally or in respect of his or her qualification, may be taken by any party in such manner as may be prescribed by the Family Justice Rules.\n[Act 18 of 2023 wef 15/10/2024]"
+   }
+  },
+  {
+   "id": "SG-H1477-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Examination and assessment of child, etc."
+   },
+   "text": {
+    "en": "28.—(1) In any proceedings before a Family Court involving the custody or welfare of a child or involving a person, the Court may, on the application of any party to those proceedings or on its own motion, appoint a registered medical practitioner, psychologist, counsellor, social worker or mental health professional to examine and assess the child or person (as the case may be) for the purposes of preparing expert evidence for use in those proceedings.\n(2) Where a registered medical practitioner, psychologist, counsellor, social worker or mental health professional who is not appointed by the Family Court under subsection (1) examines or assesses the child or person, no evidence arising out of that examination or assessment is to be adduced in those proceedings without the permission of the Court.\n[Act 25 of 2021 wef 15/10/2024]\n(3) A registered medical practitioner, psychologist, counsellor, social worker or mental health professional appointed under subsection (1) may make such enquiries relevant to the examination and assessment of the child or person as may be provided for under the Family Justice Rules or, prior to their enactment, the Rules of Court."
+   }
+  },
+  {
+   "id": "SG-H1477-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "General power to transfer proceedings from Family Court to General Division of High Court, and vice versa"
+   },
+   "text": {
+    "en": "29.—(1) The General Division of the High Court or a Family Court may, either on its own motion or on the application of any party, order any proceedings in a Family Court to be transferred to the General Division of the High Court, if it appears to the General Division of the High Court or Family Court (as the case may be) that those proceedings, by reason of involving some important question of law or of being a test case, or for any other sufficient reason, should be tried in the General Division of the High Court.\n[40/2019]\n(2) The General Division of the High Court may, if it thinks fit, and either on its own motion or on the application of any party, order any proceedings in the General Division of the High Court to be transferred to a Family Court.\n[40/2019]\n(3) An order made by the General Division of the High Court under subsection (1) or (2), or by a Family Court under subsection (1), may be made on such terms as the General Division of the High Court or Family Court (as the case may be) sees fit.\n[40/2019]"
+   }
+  },
+  {
+   "id": "SG-H1477-A29.001",
+   "no": 29.001,
+   "noLabel": {
+    "en": "29A."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Oral hearing not needed generally"
+   },
+   "text": {
+    "en": "29A.—(1) Subject to subsection (2), a Family Court may decide any matter in its civil or quasi-criminal jurisdiction without hearing oral arguments, other than a matter prescribed by the Family Justice Rules.\n(2) Subsection (1) does not allow any part of a proceeding where oral evidence is given (including any part of a trial of an action) to be conducted without an oral hearing, unless all the parties consent.\n(3) Subject to subsection (4), a Family Court may, in any matter that the court may decide without hearing oral arguments, direct that the matter be heard in an asynchronous manner by exchange of written correspondence with the party or parties using such means of communications as directed by the court.\n(4) A Family Court must not hear a matter in an asynchronous manner if to do so would be inconsistent with the court’s duty to ensure that the proceedings are conducted fairly to all parties.\n(5) To avoid doubt, this section does not affect the power of a Family Court to hear oral arguments before deciding any matter that may be decided without hearing oral arguments.\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H1477-A29.002",
+   "no": 29.002,
+   "noLabel": {
+    "en": "29B."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Summary dismissal of certain matters"
+   },
+   "text": {
+    "en": "29B.—(1) A District Judge sitting in a Family Court may, on his or her own motion, summarily dismiss any appeal made against a decision of the Registrar relating to civil or quasi-criminal proceedings, if the District Judge is satisfied of any of the following:\n(a)every issue in the appeal has already been decided by a Family Court or a higher court in an earlier matter in which the appellant was involved, and the appeal therefore has no merit;\n(b)such conditions as may be prescribed by the Family Justice Rules are met.\n(2) Before summarily dismissing any appeal under subsection (1), a District Judge sitting in a Family Court must —\n(a)give the appellant a reasonable opportunity to show cause why the appeal should not be summarily dismissed; and\n(b)consider any representations of the appellant.\n(3) In this section, “appeal” includes part of an appeal.\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H1477-A29.003",
+   "no": 29.003,
+   "noLabel": {
+    "en": "29C."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Satisfaction of judgments and orders for payment of money"
+   },
+   "text": {
+    "en": "29C.—(1) Where a judgment or an order is made, by a Family Court in any family proceedings, under which any sum of money is payable (whether by way of satisfaction of the claim or counterclaim in the proceedings or by way of costs or otherwise), the Family Court may, as it thinks fit, order the money to be paid either —\n(a)in a lump sum, whether immediately or within a period fixed by the Family Court; or\n(b)by instalments payable at the times fixed by the Family Court.\n(2) If at any time it appears to the satisfaction of a Family Court that any party to any family proceedings is unable from any cause to pay any sum recovered against the party (whether by way of satisfaction of the claim or counterclaim in the proceedings or by way of costs or otherwise) or any instalment of the sum, the Family Court may, in its discretion, suspend or stay any judgment or order given or made in the proceedings —\n(a)for any time and on any terms that the Family Court thinks fit; and\n(b)from time to time until it appears that the cause of inability has ceased.\n(3) Where an order for payment by instalments is made, no enforcement (except under any maintenance enforcement proceedings) may issue except with the permission of the Family Court.\n(4) This section does not apply to —\n(a)any sum payable (whether by way of satisfaction of the claim or counterclaim in the proceedings or by way of costs or otherwise) under any judgment or order made by a Family Court before the date of commencement of section 8 of the Family Justice Reform Act 2023;\n(b)any monthly or periodical sum ordered to be paid under a maintenance order; or\n(c)any maintenance ordered to be paid in maintenance enforcement proceedings.\n(5) In subsection (4) —\n“maintenance enforcement proceedings” means the proceedings in court arising from any application under the Women’s Charter 1961 to enforce any payment or payments required to be made under a maintenance order, including any appeal against any decision made by the court on the application;\n“maintenance order” means —\n(a)an order for maintenance made by the Syariah Court under the Administration of Muslim Law Act 1966;\n(b)an order for the payment of money in respect of the maintenance of an infant made under the Guardianship of Infants Act 1934;\n(c)an order for maintenance made under the Maintenance of Parents Act 1995;\n(d)a maintenance order, as defined in section 2 of the Maintenance Orders (Reciprocal Enforcement) Act 1975, which is registered or confirmed by the court under that Act;\n(e)an order for the payment of monthly sums or a lump sum for the maintenance of a wife, an incapacitated husband or a child, made or deemed to be made by a court under Part 8 of the Women’s Charter 1961; or\n(f)an order for the payment of monthly or periodical sums or a lump sum by way of maintenance or alimony to a wife or former wife or an incapacitated husband or incapacitated former husband, or by way of maintenance for the benefit of any child, under Part 10 of the Women’s Charter 1961.\n[Act 18 of 2023 wef 15/10/2024]"
+   }
+  },
+  {
+   "id": "SG-H1477-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Jurisdiction of Registrar"
+   },
+   "text": {
+    "en": "30. Any jurisdiction and powers conferred on the Family Division of the High Court or a Family Court by this Act or any other written law may be exercised, to the extent authorised by this Act, the Family Justice Rules or any other written law, by a Registrar."
+   }
+  },
+  {
+   "id": "SG-H1477-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Execution of deed, signing of document or indorsement of negotiable instrument"
+   },
+   "text": {
+    "en": "31.—(1) If any judgment or order of the Family Division of the High Court or a Family Court is for the execution of a deed, the signing of a document or the indorsement of a negotiable instrument, and the party ordered to execute the deed, sign the document or indorse the instrument is absent, or neglects or refuses to do so —\n(a)any party interested in having the deed executed, the document signed or the instrument indorsed may prepare a deed, a document or an indorsement of the instrument in accordance with the terms of the judgment or order, and tender the same to a Registrar for execution upon the proper stamp, if any is required by law; and\n(b)the signature of the Registrar on the deed, document or indorsement, by order of the Family Division of the High Court or the Family Court (as the case may be), has the same effect as the execution of the deed, signing of the document or indorsement of the instrument by the party ordered to execute the deed, sign the document or indorse the instrument.\n(2) Nothing in this section is to be held to abridge the powers of the Family Division of the High Court or a Family Court to proceed by attachment against any person neglecting or refusing to execute, sign or indorse any such deed, document or instrument."
+   }
+  },
+  {
+   "id": "SG-H1477-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "General provision relating to appeals from Family Court exercising quasi-criminal or civil jurisdiction"
+   },
+   "text": {
+    "en": "32. Subject to section 23, the Family Justice Rules or, prior to their enactment, the Rules of Court regulate and prescribe the procedure on appeals from a Family Court exercising jurisdiction of a quasi‑criminal or civil nature to the General Division of the High Court.\n[40/2019]"
+   }
+  },
+  {
+   "id": "SG-H1477-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Agreement not to appeal from Family Court exercising civil jurisdiction"
+   },
+   "text": {
+    "en": "33.—(1) An appeal cannot be brought against a decision of the Family Court exercising civil jurisdiction, where the parties have agreed in writing signed by or on behalf of each party that the decision is final, unless the party seeking to appeal proves that —\n(a)the decision is affected by fraud or illegality; or\n(b)there was a fundamental breach of the rules of natural justice in the proceedings resulting in the decision.\n(2) An agreement mentioned in subsection (1) —\n(a)may be made before or after the decision to which the agreement relates is made; and\n(b)may relate to part of a decision, in which case references in subsection (1) to a decision are to be read as references to that part of the decision.\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H1477-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Appeal from Family Court exercising civil or quasi‑criminal jurisdiction not to operate as stay of execution or enforcement"
+   },
+   "text": {
+    "en": "34.—(1) An appeal from a Family Court exercising civil or quasi‑criminal jurisdiction does not operate as a stay of execution or enforcement or of proceedings under the judgment or order appealed from, unless the Family Court or the General Division of the High Court so orders.\n[40/2019]\n[Act 18 of 2023 wef 31/01/2024]\n(2) No intermediate act or proceeding is invalidated except so far as the General Division of the High Court may direct.\n[40/2019]\n[Act 18 of 2023 wef 31/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H1477-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Jurisdiction of Youth Courts"
+   },
+   "text": {
+    "en": "35.—(1) A Youth Court has the jurisdiction and powers conferred on it by the Children and Young Persons Act 1993.\n(1A) Where any written law specifies that any provisions of the Criminal Procedure Code 2010 apply to any proceedings under the Children and Young Persons Act 1993, those provisions apply to those proceedings, with any modifications that may be prescribed by the Family Justice Rules.\n[Act 18 of 2023 wef 15/10/2024]\n(2) When a Youth Court exercises criminal jurisdiction in any proceedings —\n(a)the Youth Court has all the powers of a District Court exercising criminal jurisdiction; and\n(b)subject to the Children and Young Persons Act 1993, the provisions of the Criminal Procedure Code 2010 (except section 240(6) of that Code) apply to the Youth Court and those proceedings with any modifications that may be prescribed by the Family Justice Rules.\n[Act 18 of 2023 wef 15/10/2024]\n(3) Subject to any other written law, a Youth Court may, either on its own motion or on the application of any person, order any party to any proceedings in a Youth Court to undergo such mediation or other alternative dispute resolution process or counselling, or to participate in such family support programme or activity, as the Youth Court may direct.\n[Act 18 of 2023 wef 31/01/2024]\n(4) Where a Youth Court orders any party to undergo any mediation or other alternative dispute resolution process under subsection (3), the Youth Court also has the following powers:\n(a)to conduct the mediation or other alternative dispute resolution process;\n(b)to appoint a judicial officer, an officer of the Family Justice Courts or any other person to conduct the mediation or other alternative dispute resolution process.\n[Act 18 of 2023 wef 31/01/2024]\n(5) Despite the provisions of the Administration of Justice (Protection) Act 2016, failure to comply with any order made under subsection (3) on or after the date of commencement of section 10(e) of the Family Justice Reform Act 2023 does not constitute a contempt of court.\n[Act 18 of 2023 wef 31/01/2024]\n(6) Where a person fails to comply with any order made under subsection (3) on or after the date of commencement of section 10(e) of the Family Justice Reform Act 2023 in any proceedings, the Youth Court may —\n(a)stay the proceedings until the order has been complied with;\n(b)order any person responsible for the non‑compliance to pay the costs of the proceedings; or\n(c)make any other order that the Youth Court thinks fit.\n[Act 18 of 2023 wef 31/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H1477-A35.001",
+   "no": 35.001,
+   "noLabel": {
+    "en": "35A."
+   },
+   "chapter": {
+    "en": "PART 4 JURISDICTION"
+   },
+   "heading": {
+    "en": "Oral hearing not needed generally"
+   },
+   "text": {
+    "en": "35A.—(1) Subject to subsection (2), a Youth Court may decide any matter in its jurisdiction without hearing oral arguments, other than a matter prescribed by the Criminal Procedure Rules or the Family Justice Rules.\n(2) Subsection (1) does not allow any part of a proceeding where oral evidence is given (including any part of a trial of an offence) to be conducted without an oral hearing.\n(3) Subject to subsection (4), a Youth Court may, in any matter that the court may decide without hearing oral arguments, direct that the matter be heard in an asynchronous manner by exchange of written correspondence with the party or parties, using such means of communication as directed by the court.\n(4) A Youth Court must not hear a matter in an asynchronous manner if to do so would be inconsistent with the court’s duty to ensure that the proceedings are conducted fairly to all parties.\n(5) To avoid doubt, this section does not affect the power of a Youth Court to hear oral arguments before deciding any matter that may be decided without hearing oral arguments.\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H1477-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Registry of Family Justice Courts"
+   },
+   "text": {
+    "en": "36.—(1) There shall be an office of the Family Justice Courts called the Registry of the Family Justice Courts, comprising such departments as the Presiding Judge of the Family Justice Courts, with the concurrence of the Chief Justice, may from time to time determine.\n(2) The Registry is under the control and supervision of the registrar of the Family Justice Courts.\n(3) The Registry is open on every day of the year except on Saturdays, Sundays and public holidays.\n(4) Despite subsection (3), a Registrar may lawfully sit or carry out the business of the Registry on a Saturday, Sunday or public holiday if —\n(a)the Presiding Judge of the Family Justice Courts, with the concurrence of the Chief Justice, has directed the Registrar to do so on that day; or\n(b)in the Registrar’s opinion, the business to be despatched is extremely urgent.\n(5) The office hours of the Registry are such times as the Presiding Judge of the Family Justice Courts, with the concurrence of the Chief Justice, may from time to time direct."
+   }
+  },
+  {
+   "id": "SG-H1477-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Distribution of business"
+   },
+   "text": {
+    "en": "37. The distribution of business in the Family Justice Courts must be made in accordance with such directions, which may be of a general or a particular nature, as may be given, with the concurrence of the Chief Justice, by the Presiding Judge of the Family Justice Courts."
+   }
+  },
+  {
+   "id": "SG-H1477-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Vacations for Family Courts"
+   },
+   "text": {
+    "en": "38. The Chief Justice may authorise vacations for Family Courts not exceeding 15 days in any calendar year."
+   }
+  },
+  {
+   "id": "SG-H1477-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "List of touts"
+   },
+   "text": {
+    "en": "39.—(1) The registrar of the Family Justice Courts may publish a list of persons proved to his or her satisfaction, by evidence of general repute or otherwise, to act as touts or unauthorised advisers to suitors or other persons, and may alter and amend the list.\n(2) The registrar of the Family Justice Courts may, by general or special order, exclude from the precincts of the Family Justice Courts any person whose name is included in the list, except when that person is a party to or a witness in any proceedings in a Family Justice Court, when he or she is allowed to remain for such time as is necessary.\n(3) A person’s name must not be included in the list until he or she has been heard or had an opportunity of being heard against such inclusion.\n(4) An appeal lies to a Judge of the Family Division of the High Court in chambers from an order made by the registrar of the Family Justice Courts to include a person’s name in the list.\n(5) The decision of the Judge of the Family Division of the High Court is final.\n(6) A copy of the list must be kept hung up in the Registry of the Family Justice Courts and must be published in the Gazette.\n(7) A person whose name appears in the list of touts under section 73 of the Supreme Court of Judicature Act 1969, or the list of touts under section 62 of the State Courts Act 1970, is deemed to be included in the list under this section, and vice versa."
+   }
+  },
+  {
+   "id": "SG-H1477-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Impounding documents"
+   },
+   "text": {
+    "en": "40.—(1) A Family Court or Youth Court may order any document produced before it in any proceedings to be impounded.\n(2) The document which has been impounded must not be delivered out of the custody of the Family Court or Youth Court or inspected except on an order signed by a judicial officer.\n(3) The Family Court or Youth Court that impounded the document may direct the document to be sent to the Attorney-General, the Commissioner of Stamp Duties or any other officer of the Government."
+   }
+  },
+  {
+   "id": "SG-H1477-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Disqualification of judicial officers"
+   },
+   "text": {
+    "en": "41.—(1) Except with the approval of the Chief Justice, a judicial officer —\n(a)shall not be capable of —\n(i)accepting or taking any other office of emolument; or\n(ii)carrying on any business either directly or indirectly; and\n(b)must not accept any fees of office, perquisites, emoluments or advantages, other than his or her salary and allowances.\n(2) Without limiting subsection (1), a judicial officer may, with the approval of the Chief Justice —\n(a)be appointed to any commission of inquiry, committee of inquiry or other judicial, quasi-judicial or administrative tribunal, or hold any office in any institution or society for charitable purposes or for the advancement or encouragement of art, science, education or other knowledge; and\n(b)receive an allowance or other honorarium in respect of that appointment or office."
+   }
+  },
+  {
+   "id": "SG-H1477-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Judicial officers not to act where interested"
+   },
+   "text": {
+    "en": "42. A judicial officer must not, except with the approval of the Chief Justice and with the consent of the parties, investigate, try or commit for trial any proceedings to which he or she is a party or in which he or she is personally interested."
+   }
+  },
+  {
+   "id": "SG-H1477-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Officers not to bid at sales under any written law"
+   },
+   "text": {
+    "en": "43. Any officer of the Family Justice Courts having any duty to perform in connection with the sale of any property under any written law must not, directly or indirectly, purchase or bid for the property."
+   }
+  },
+  {
+   "id": "SG-H1477-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Misconduct of officers"
+   },
+   "text": {
+    "en": "44.—(1) Without affecting any written law and rules governing the conduct and discipline of public officers, if any officer of the Family Justice Courts is charged —\n(a)with extortion or misconduct while acting under colour of the process of the Family Justice Courts; or\n(b)with not duly paying or accounting for any money levied by him or her under the authority of this Act, the Supreme Court of Judicature Act 1969, the Family Justice Rules or the Rules of Court,\nit is lawful for a District Judge designated as a judge of the Family Court or judge of the Youth Court, and nominated by the Presiding Judge of the Family Justice Courts, to inquire into the matter in a summary manner.\n(2) For the purpose of any such inquiry, the District Judge may summon and enforce the attendance of all necessary parties in the like manner as the attendance of witnesses in any case may be enforced.\n(3) On any such inquiry, the District Judge may make such order as he or she thinks just for the repayment of the money extorted or the due payment of the money levied, and for the payment of damages and costs, and also, if he or she thinks fit, may impose such fine upon the officer, not exceeding $100 for each offence, as appears to the District Judge to be adequate.\n(4) If it is found by the District Judge that any officer, while employed in carrying out the officer’s duties under this Act, the Supreme Court of Judicature Act 1969, the Family Justice Rules or the Rules of Court or in exercising any of the powers thereof, has wilfully and corruptly exacted or accepted any fee or reward, other than such fees as are for the time being allowed under this Act, the Supreme Court of Judicature Act 1969, the Family Justice Rules or the Rules of Court, that officer shall, in addition to being liable for damages under subsection (3), be incapable of being an officer of the Family Justice Courts.\n(5) An appeal lies to the Chief Justice from an order made by the District Judge under this section.\n(6) The decision of the Chief Justice is final."
+   }
+  },
+  {
+   "id": "SG-H1477-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Protection of judicial and other officers"
+   },
+   "text": {
+    "en": "45.—(1) A judicial officer shall not be liable to be sued for any act done by him or her in the discharge of his or her judicial duty whether or not within the limits of his or her jurisdiction, provided that he or she at the time in good faith believed himself or herself to have jurisdiction to do or order the act complained of.\n(2) No officer of the Family Justice Courts charged with the duty of executing any writ, summons, warrant, order, notice or other mandatory process of the court shall be liable to be sued for the execution of or attempting to execute such writ, summons, warrant, order, notice or other mandatory process, or in respect of any damage caused to any property in effecting or attempting to effect execution, unless he or she knowingly acted in excess of the authority conferred upon him or her by such writ, summons, warrant, order, notice or other mandatory process of the court.\n(3) An officer of the Family Justice Courts is not to be deemed to have acted knowingly in excess of his or her authority merely by reason of the existence of a dispute as to the ownership of any property seized under any enforcement order or writ of distress.\n[Act 25 of 2021 wef 15/10/2024]\n(4) No judicial officer, officer of the Family Justice Courts or court‑appointed mediator shall be liable to be sued for an act done by him or her for the purposes of any court proceedings, or any mediation or other alternative dispute resolution process conducted by him or her, in the Family Division of the High Court, a Family Court or a Youth Court, if the act —\n(a)was done in good faith; and\n(b)did not involve any fraud or wilful misconduct on his or her part.\n(5) A child representative appointed to represent the interests of a child in any proceedings involving the child, or the custody and welfare of the child, shall not be liable to be sued for an act done by the child representative for the purposes of those proceedings, or any mediation or other alternative dispute resolution process related to those proceedings, if the act —\n(a)was done in good faith; and\n(b)did not involve any fraud or wilful misconduct on the part of the child representative.\n[16/2016]\n(6) Where a registered medical practitioner, psychologist, counsellor, social worker or mental health professional is appointed by a Family Court to examine and assess a child or person for the purposes of preparing expert evidence for use in any proceedings involving the custody or welfare of that child or involving that person (as the case may be), the registered medical practitioner, psychologist, counsellor, social worker or mental health professional (as the case may be) shall not be liable to be sued for an act done by him or her for the purposes of the examination or assessment, or the preparation of the expert evidence for use in those proceedings, if the act —\n(a)was done in good faith; and\n(b)did not involve any fraud or wilful misconduct on his or her part.\n[16/2016]\n(7) A person who provides advice to a Family Justice Court under section 11A of the Guardianship of Infants Act 1934, section 12 of the International Child Abduction Act 2010, section 130 of the Women’s Charter 1961 or any other written law as the Minister may by order in the Gazette prescribe, shall not be liable to be sued for any advice so provided on or after the appointed date (including in the form of a report) or any act done on or after that date by that person for the purposes or in the course of providing the advice (including in the form of a report), if —\n(a)the advice was provided, or the act was done, in good faith; and\n(b)the advice or act did not involve any fraud or wilful misconduct on his or her part.\n[Act 18 of 2023 wef 31/01/2024]\n(8) A parenting coordinator appointed by a Family Justice Court to conduct a parenting coordination programme shall not be liable to be sued for any act done on or after the appointed date by the parenting coordinator for the purposes of the parenting coordination programme, if the act —\n(a)was done in good faith; and\n(b)did not involve any fraud or wilful misconduct on his or her part.\n[Act 18 of 2023 wef 31/01/2024]\n(9) A person (called a referrer) who, at the request of a Family Justice Court, refers any party to the proceedings or any child involved in or whose custody or welfare is involved in the proceedings for any professional clinical or therapeutic intervention, shall not be liable to be sued for any act done on or after the appointed date by the referrer for the purposes of the referral, if the act —\n(a)was done in good faith; and\n(b)did not involve any fraud or wilful misconduct on the part of the referrer.\n[Act 18 of 2023 wef 31/01/2024]\n(10) In this section —\n“appointed date” means —\n(a)in the case of a person who provides advice to a Family Justice Court under any written law prescribed by order in the Gazette for the purposes of subsection (7) — the date prescribed by that order, being a date not earlier than the date of that order; or\n(b)in any other case — the date of commencement of section 11 of the Family Justice Reform Act 2023;\n“parenting coordination programme” means a family support programme for the purpose of addressing or resolving any disagreement about any parenting matter between spouses or former spouses, arising from any relationship issue or relationship problem between spouses or former spouses, or between a parent and a child.\n[Act 18 of 2023 wef 31/01/2024]"
+   }
+  },
+  {
+   "id": "SG-H1477-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Family Justice Rules"
+   },
+   "text": {
+    "en": "46.—(1) There is a Family Justice Rules Committee consisting of —\n(a)the Chief Justice, who is the Chairperson of the Committee;\n(b)a Supreme Court Judge to be appointed by the Chief Justice for such period as the Chief Justice may specify in writing;\n(c)the Presiding Judge of the Family Justice Courts;\n(d)the registrar of the Family Justice Courts;\n(e)the Director of Legal Aid; and\n(f)2 practising advocates and solicitors to be appointed by the Chief Justice for such period as the Chief Justice may specify in writing.\n[40/2019]\n(2) The Family Justice Rules Committee may make Family Justice Rules regulating and prescribing the procedure (including the method of pleading) and the practice to be followed in the Family Division of the High Court, the Family Courts and the Youth Courts in all causes and matters whatsoever in or with respect to which those Courts respectively have for the time being jurisdiction (including the procedure and practice to be followed in the Registry of the Family Justice Courts) and any matters incidental to or relating to any such procedure or practice.\n(3) Without limiting subsection (2), Family Justice Rules may be made for the following purposes:\n(a)prescribing the manner in which, and the time within which, any application, which under this Act or any other written law is to be made to the Family Division of the High Court, a Family Court or a Youth Court, must be made;\n(b)prescribing what part of the business which may be transacted and of the jurisdiction and powers which may be exercised by a Judge, or a judge of a Family Court or Youth Court, in court or in chambers, may be transacted or exercised by the Registrar (including provisions for appeals against decisions of the Registrar);\n(c)regulating and prescribing the procedure to be followed on appeals from a Family Court or Youth Court to the General Division of the High Court, and the procedure in connection with the transfer of any proceedings from a Family Court to the General Division of the High Court or from the General Division of the High Court to a Family Court;\n(d)prescribing the scales of allowances, costs and fees to be taken, or paid to any party or witness, in any proceedings in the Family Division of the High Court, a Family Court or a Youth Court, and regulating any matters relating to the costs of proceedings in such Courts;\n(e)enabling proceedings —\n(i)to be commenced in a Family Court against the estate of a deceased person (whether by the appointment of a person to represent the estate or otherwise) where no grant of probate or letters of administration has been made;\n(ii)purporting to have been commenced in a Family Court by or against a person to be treated, if he or she was dead at their commencement, as having been commenced by or against (as the case may be) his or her estate whether or not a grant of probate or letters of administration was made before their commencement; and\n(iii)commenced or treated as commenced in a Family Court by or against the estate of a deceased person to be maintained (whether by substitution of parties, amendment or otherwise) by or against (as the case may be) a person appointed to represent the estate or, if a grant of probate or letters of administration is or has been made, by or against the personal representatives;\n(f)regulating the means by which particular facts may be proved, and the mode in which evidence thereof may be given, in any proceedings or on any application in connection with or at any stage of any proceedings;\n(g)regulating the joinder of parties and prescribing in what cases persons absent, but having an interest in a cause or matter, are bound by any order made therein, and in what cause or matter orders may be made for the representation of absent persons by one or more parties to a cause or matter;\n(h)providing for the appointment of a child representative to represent the interests of a child in any proceedings involving the child, or the custody and welfare of the child, and for the remuneration of the child representative;\n(ha)prescribing the modes by which the wishes of a child may be determined by the Family Division of the High Court or a Family Court;\n[Act 18 of 2023 wef 31/01/2024]\n(i)regulating the rate of interest payable on all debts, including judgment debts, or on the sums found due on taking accounts between parties, or on sums found due and unpaid by receivers or other persons liable to account to the court, except that the rate of interest must not in any case exceed 8% per annum, unless it has been otherwise agreed between the parties;\n(j)prescribing in what cases money due under a judgment or order is to be paid into court;\n(k)providing for the enforcement of any order of the Family Division of the High Court (in the exercise of its original or appellate civil jurisdiction) or of the Family Court;\n(l)regulating the modes in which an enforcement order for seizure and sale of property may be executed, and the manner in which seizure may be made of any property seizable thereunder, and the mode of sale by a bailiff or any other officer of the Family Justice Courts of any property so seized, and the manner in which the right and title of purchasers of the property at any sale by any officer of the Family Justice Courts may be secured to the purchasers;\n[Act 25 of 2021 wef 15/10/2024]\n(m)regulating the discovery of a judgment debtor’s property in aid of the enforcement of any judgment or order;\n[Act 25 of 2021 wef 15/10/2024]\n(n)the taking of evidence before an examiner on commission or by letters of request, and prescribing the circumstances in which evidence so taken may be read on the trial of an action;\n(o)prescribing in what cases and on what conditions a court may act upon the certificate of accountants, actuaries or other scientific persons;\n[Act 25 of 2021 wef 01/04/2022]\n(p)amending, altering or adding to the forms set out in, or in any subsidiary legislation made under, any Act mentioned in the definition of “family proceedings” in section 2(1);\n[Act 25 of 2021 wef 01/04/2022]\n(q)prescribing anything that is required or permitted under this Act to be prescribed by the Family Justice Rules.\n[Act 25 of 2021 wef 01/04/2022]\n[40/2019]\n(4) The Family Justice Rules may, instead of providing for any matter, refer to any provision made or to be made for that matter by practice directions issued for the time being by the registrar of the Family Justice Courts.\n(5) At any meeting of the Family Justice Rules Committee, 5 members form a quorum and all questions must be decided by a majority of votes of the members present and voting.\n(6) No Family Justice Rules may be made without the consent of the Chief Justice.\n(7) All Family Justice Rules made under this section must be presented to Parliament as soon as possible after publication in the Gazette.\n(8) Prior to the enactment of Family Justice Rules on any matter which may be dealt with under those Rules, the Rules Committee constituted under section 80(3) of the Supreme Court of Judicature Act 1969 may make Rules of Court for dealing with that matter."
+   }
+  },
+  {
+   "id": "SG-H1477-A46.001",
+   "no": 46.001,
+   "noLabel": {
+    "en": "46A."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Amendment of Second Schedule"
+   },
+   "text": {
+    "en": "46A.—(1) The Minister may, after consulting the Chief Justice, by order in the Gazette, amend the Second Schedule.\n[16/2016]\n(2) An order under subsection (1) may contain such provisions of a saving or transitional nature as appear to the Minister, after consulting the Chief Justice, to be necessary or expedient.\n[16/2016]"
+   }
+  },
+  {
+   "id": "SG-H1477-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Saving and transitional provisions"
+   },
+   "text": {
+    "en": "47.—(1) Despite sections 4, 22, 23 and 24, any family proceedings (not being probate proceedings) commenced in the High Court before 1 October 2014 are, on and after that date, to be continued in and dealt with by the High Court as if those sections had not been enacted.\n(2) Despite sections 4 and 22, any contentious probate proceedings commenced in the High Court before 1 January 2015 are, on and after that date, to be continued in and dealt with by the High Court as if those sections had not been enacted.\n(3) Any non-contentious probate proceedings commenced in the High Court before 1 January 2015 are, on and after that date, to be continued in and dealt with by the Family Division of the High Court.\n(4) Any family proceedings (not being probate proceedings) commenced in a District Court or Magistrate’s Court before 1 October 2014 are, on and after that date, to be continued in and dealt with by a Family Court.\n(5) Despite amendments made to the Probate and Administration Act 1934 and State Courts Act 1970 on 1 January 2015, any contentious probate proceedings commenced in a District Court before that date are, on and after that date, to be continued in and dealt with by a District Court.\n(6) The following provisions continue to apply to any contentious probate proceedings commenced in a District Court before 1 January 2015 as if the Probate and Administration Act 1934 and State Courts Act 1970 had not been amended on that date:\n(a)sections 2 (definitions of “court” and “judge”), 31, 34, 36, 39, 40, 43(2), 45, 50(1), 53, 54, 66(1) and (2) and 67(1) and (2) of the Probate and Administration Act 1934 as in force immediately before 1 January 2015;\n(b)sections 2 (definition of “District Court limit”), 26(a) and 27 of the State Courts Act 1970 as in force immediately before 1 January 2015.\n(7) Despite sections 4 and 23, any appeal from any contentious probate proceedings commenced in a District Court is, if the appeal is commenced in the High Court before 1 January 2015, to be continued in and dealt with by the High Court, on and after that date, as if those sections had not been enacted.\n(8) Any non-contentious probate proceedings commenced in a District Court before 1 January 2015 is, on and after that date, to be continued in and dealt with by a Family Court.\n(9) Any family proceedings transferred to a District Court before 1 October 2014 pursuant to an order made by the Chief Justice under section 28A of the Supreme Court of Judicature Act 1969 is, on and after that date, to be continued in and dealt with by a Family Court.\n(10) Any proceedings commenced in a Juvenile Court before 1 October 2014 is, on and after that date, to be continued in and dealt with by a Youth Court.\n(11) [Omitted as having had effect]\n(12) [Omitted as spent]\n(13) In this section, “probate proceedings” means any civil proceedings under the Probate and Administration Act 1934."
+   }
+  },
+  {
+   "id": "SG-H1477-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nSection 20(1)\nForms of oaths and affirmations\n1. OATHS OF OFFICE AND ALLEGIANCE OF REGISTRAR\nI, ................................................................................................, having been appointed to the office of .................................................................................., do solemnly swear (or affirm) that I will faithfully discharge my judicial duties and I will do right to all manner of people after the laws and usages of the Republic of Singapore without fear or favour, affection or ill will to the best of my ability, and I will be faithful and bear true allegiance to the Republic of Singapore.\nTaken and subscribed before me at .............................................. this .............. day of ........................... .\nOfficer Administering the Oath\n2. OATH OF OFFICE OF INTERPRETER\nI, ................................................................................................., having been appointed an interpreter of the Family Justice Courts, do solemnly swear (or affirm) that I will faithfully interpret, translate and transcribe from the .................................................. language into the English language and from the English language into the ................................... language to the best of my knowledge, skill and ability and without fear or favour, affection or ill will.\nTaken and subscribed before me at .............................................. this .............. day of ........................... .\nOfficer Administering the Oath\n3. OATH OF OFFICE OF\nOTHER OFFICER OF FAMILY JUSTICE COURTS\nI, .................................................................................., having been appointed to the office of ........................................................................................ in the Family Justice Courts, do solemnly swear (or affirm) that I will not use or exercise my office corruptly during the time that I remain therein, neither will I take or accept by any means whatsoever any fee or reward from any person or persons, but will truly and faithfully and with convenient speed execute the duties assigned to me and will make true and faithful returns as to the manner and time of the execution of all writs, summonses, warrants, orders, notices and other mandatory processes given to me.\nTaken and subscribed before me at .............................................. this .............. day of ........................... .\nOfficer Administering the Oath\n[16/2016]"
+   }
+  },
+  {
+   "id": "SG-H1477-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nSections 23(2A) and 46A\nOrders made by Family Court\nthat are appealable only with permission\nAn appeal lies to the General Division of the High Court from a decision of a Family Court only with the permission of that Family Court or the General Division of the High Court in any of the following cases:\n(a)where a Family Court makes an order giving unconditional permission to defend any proceedings;\n[Act 25 of 2021 wef 15/10/2024]\n(b)where a Family Court makes an order giving permission to defend any proceedings on condition that the party defending those proceedings pays into court or gives security for the sum claimed, except if the appellant is that party;\n[Act 25 of 2021 wef 15/10/2024]\n(c)where a Family Court makes an order setting aside unconditionally a default judgment, regardless of how the default judgment was obtained (including whether by reason of a breach of an order of court or otherwise);\n(d)where a Family Court makes an order setting aside a default judgment on condition that the party against whom the judgment had been entered pays into court or gives security for the sum claimed, regardless of how the default judgment was obtained (including whether by reason of a breach of an order of court or otherwise), except if the appellant is that party.\n[16/2016; 40/2019]\n[Act 25 of 2021 wef 15/10/2024]"
+   }
+  }
+ ]
+}

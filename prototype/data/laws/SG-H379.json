@@ -1,0 +1,1324 @@
+{
+ "id": "SG-H379",
+ "title": {
+  "zh": null,
+  "en": "Building Control Regulations 2003",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p05",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation BCA1989-S666-2003",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 81,
+ "chars": 148170,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/BCA1989-S666-2003?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 81 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H379-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Building Control Regulations 2003 and shall come into operation on 1st January 2004."
+   }
+  },
+  {
+   "id": "SG-H379-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“acceptable solution” means the specifications, design, material or method of construction set out in an Approved Document;\n“alternative solution” means a solution that entails the use of any design, material or method of construction that differs completely or partially from those in the acceptable solution;\n[Deleted by S 54/2008 wef 15/02/2008]\n“approved” means approved by the Commissioner of Building Control;\n“Approved Document” means an Approved Document issued by the Commissioner of Building Control under regulation 27;\n“architectural works” means any building works other than structural works, geotechnical building works, fixed installation works and works relating to mechanical or electrical installations in buildings;\n[S 854/2023 wef 18/12/2023]\n“building envelope” means the elements of a building which enclose air-conditioned spaces through which thermal energy may be transferred from the exterior;\n“code of practice” means the relevant Singapore Standard Code of Practice, and where there is no such code of practice means the relevant British Standard Code of Practice or any other relevant code of practice which is acceptable to the Commissioner of Building Control;\n“deemed approved” means deemed approved by the Commissioner of Building Control under section 5AA(1) of the Act;\n[S 854/2023 wef 18/12/2023]\n[Deleted by S 54/2008 wef 15/02/2008]\n“existing building” means any building in respect of which a certificate of statutory completion or a temporary occupation permit has been issued;\n“floor” includes a horizontal platform forming the surface of a storey and any joist, board, timber, stone, concrete, steel or other material connected with or forming part of such platform;\n“foundation” means that part of a building which is below or in direct contact with the ground, and through which the weight of the building and the loads acting on the building are transmitted to the ground, and includes any footing, raft or pile of the building;\n[S 709/2017 wef 15/12/2017]\n“fresh air” means normal outdoor air not unduly affected by odours, smoke, effluents, dust, fumes discharges from mechanical plants and the like;\n“geotechnical report” means calculations, plans or report prepared in respect of geotechnical building works by a qualified person who is a geotechnical engineer showing —\n(a)the results of the findings, evaluation and interpretation of the site investigation and laboratory tests;\n(b)assessment of and recommendations on the geotechnical aspects for the design and construction of the geotechnical building works; and\n[S 591/2012 wef 01/12/2012]\n(c)plans showing those elements of building works designed by the person who is a geotechnical engineer;\n[S 250/2008 wef 01/10/2008]\n[S 591/2012 wef 01/12/2012]\n“gross floor area” has the same meaning as “floor area” in the Planning (Development) Rules 2008 (G.N. No. S 113/2008);\n[S 579/2022 wef 01/08/2022]\n“household shelter”, “public shelter” and “storey shelter” have the same meanings as in the Civil Defence Shelter Act 1997;\n[S 579/2022 wef 31/12/2021]\n“immaterial changes”, in relation to building works, means any changes that do not affect the objectives and performance requirements set out in the Fifth Schedule relating to the approved plans or deemed approved plans, and that —\n(a)do not affect any key structural elements; or\n(b)affect the key structural elements but the effects are localised in nature and do not require a re-design of the key structural elements;\n[S 665/2013 wef 01/04/2014]\n[S 854/2023 wef 18/12/2023]\n“imposed load” or “imposed loading” means the load assumed to be introduced by the intended occupancy or use, including distributed, concentrated, impact and inertia but does not include wind loads;\n“lightning protection system” means a system comprising an air-termination system, a down-conductor system and an earth-termination system, which is installed on or within a building and collectively intercepts, conducts and disperses lightning currents to earth;\n[S 134/2026 wef 01/04/2026]\n[Deleted by S 616/2025 wef 01/10/2025]\n“load bearing”, in relation to a part of a building (including its foundation), means that part of the building which bears a load other than that due to its own weight and wind pressure on its own surface;\n“material changes”, in relation to building works, means any changes other than immaterial changes;\n[S 665/2013 wef 01/04/2014]\n“mechanical ventilation” means the process of supplying or removing air to or from a building or part thereof by mechanical means or devices;\n“natural ventilation” means the supply of outside air to a building or removal of inside air from a building by means of windows and other openings;\n“ready‑mixed concrete” means concrete in a fresh state that is manufactured in a batching plant situated at any location, and supplied for use in an unhardened form;\n[S 665/2013 wef 28/10/2013]\n“record plan” means a plan showing the immaterial changes made to the building works of the approved plan or deemed approved plan;\n[S 854/2023 wef 18/12/2023]\n“residential building” means a building or part thereof designed or adapted or used for human habitation such as a detached, semi-detached or terraced house or residential flat, and includes any outbuilding and other covered structure which are intended for the enjoyment of the occupiers of the building or part thereof or are otherwise appurtenant to such a building;\n“retaining wall” means a structure used to resist the lateral displacement or support the load of any retained material and includes any contiguous or secant bored-piled or diaphragm wall, reinforced concrete wall, steel sheet pile wall, soil nailed wall, reinforced earth wall, crib wall, gabions wall, cofferdam, tied-back wall or other types of wall serving the same purpose;\n[S 54/2008 wef 15/02/2008]\n“safety barrier integrated with a window” means a barrier —\n(a)that is put in place to prevent a person from falling from a height where there is a vertical drop of 1,000 millimetres or more; and\n(b)that is integrated with a window;\n[S 905/2022 wef 01/03/2023]\n“service road” means a road required by the competent authority under the Planning Act 1998;\n[S 579/2022 wef 31/12/2021]\n“Singapore Accreditation Council” means the national authority for accreditation of conformity assessment bodies in Singapore;\n[S 709/2017 wef 15/12/2017]\n“site formation works” means any kind of site formation and includes earthworks for site stabilisation, the construction of foundations, basements, sub-structures, piling, underpinning, ground anchors, trenches or any other kind of ground works;\n[S 54/2008 wef 15/02/2008]\n“standardised design” means an acceptable solution specified in the Approved Document as the standardised design;\n[S 905/2022 wef 01/03/2023]\n[Deleted by S 665/2013 wef 01/04/2014]\n“supervising qualified person” means the qualified person appointed under section 8(1)(b) or 11(1)(d)(ii) of the Act to supervise the carrying out of any building works;\n[S 54/2008 wef 15/02/2008]\n[S 905/2022 wef 01/03/2023]\n“window” does not include any feature that is a safety barrier integrated with a window.\n[S 905/2022 wef 01/03/2023]\n[S 616/2025 wef 01/10/2025]"
+   }
+  },
+  {
+   "id": "SG-H379-A2.001",
+   "no": 2.001,
+   "noLabel": {
+    "en": "2A."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Geotechnical building works"
+   },
+   "text": {
+    "en": "2A. For the purposes of paragraph (d) in the definition of “geotechnical building works” in the Act, all types of foundation works for buildings of 30 or more storeys are prescribed as geotechnical building works.\n[S 591/2012 wef 01/12/2012]"
+   }
+  },
+  {
+   "id": "SG-H379-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "3.—(1) Parts II, III and IV of these Regulations apply to all building works except any of the following:\n(a)any building works for which an application for the approval of plans was submitted before 1 January 2004;\n(b)any building works for which an application for the approval of any amendment to the plans mentioned in sub‑paragraph (a) was made before, on or after 1 January 2004;\n(c)any building works for a temporary building or building works for the occupation of a temporary building;\n(d)any fixed installation works (other than fixed installation works for any supporting structure or enclosure that is used, or designed to be used, to operate a fixed installation);\n(e)any insignificant building works.\n(2) Part IVA of these Regulations applies to all building works except the building works mentioned in paragraph (1)(a), (b), (c) and (d).\n(3) Part V of these Regulations applies to the following:\n(a)all building works (except the building works mentioned in paragraph (1)(d));\n(b)all buildings (except fixed installations);\n(c)all exterior features of buildings (except exterior features of fixed installations);\n(d)all façades of buildings (except façades of fixed installations).\n(4) Part VA of these Regulations applies to the following:\n(a)all buildings (including fixed installations);\n(b)all exterior features of buildings (including exterior features of fixed installations);\n(c)all façades of buildings (including façades of fixed installations).\n(5) Regulations 45 and 46 apply to the following:\n(a)all buildings (except fixed installations);\n(b)all exterior features of buildings (except exterior features of fixed installations);\n(c)all façades of buildings (except façades of fixed installations).\n[S 616/2025 wef 01/10/2025]"
+   }
+  },
+  {
+   "id": "SG-H379-A3.001",
+   "no": 3.001,
+   "noLabel": {
+    "en": "3A."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Insignificant building works"
+   },
+   "text": {
+    "en": "3A. For the purposes of section 4(d) of the Act, insignificant building works are any of the building works specified in the First Schedule.\n[S 54/2008 wef 15/02/2008]\n[S 709/2017 wef 15/12/2017]"
+   }
+  },
+  {
+   "id": "SG-H379-A3.002",
+   "no": 3.002,
+   "noLabel": {
+    "en": "3B."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Lodgment works"
+   },
+   "text": {
+    "en": "3B. For the purposes of section 5AA(7)(a) of the Act, lodgment works are any of the building works specified in the Ninth Schedule.\n[S 854/2023 wef 18/12/2023]"
+   }
+  },
+  {
+   "id": "SG-H379-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Application for approval of plans of building works"
+   },
+   "text": {
+    "en": "4.—(1) For the purposes of section 5(1) of the Act, an application for approval of the plans of building works shall be accompanied by the following documents:\n(a)the following plans of the building works prepared in accordance with these Regulations and such other requirements as the Commissioner of Building Control may, from time to time, specify:\n(i)building plans;\n(ii)detailed structural plans and design calculations;\n(iii)site formation plans and pile layout plans;\n[S 250/2008 wef 01/10/2008]\n(iv)where applicable, civil defence shelter plans;\n[S 665/2013 wef 01/04/2014]\n(v)where applicable, geotechnical building works plans;\n[S 250/2008 wef 01/10/2008]\n[S 591/2012 wef 01/12/2012]\n[S 665/2013 wef 01/04/2014]\n[S 134/2026 wef 01/04/2026]\n(vi)where applicable, demolition works plans;\n[S 665/2013 wef 01/04/2014]\n(vii)where applicable, lightning protection system plans;\n[S 134/2026 wef 01/04/2026]\n(b)a notification signed by the developer of those building works or the builder of the building works of the appointment of the qualified person who prepared the plans of the building works;\n[S 54/2008 wef 15/02/2008]\n(c)where the written permission of the competent authority is required under the Planning Act 1998 in respect of any development of land involving the proposed building works, a copy of the notice of grant of written permission issued by the competent authority or a copy of the lodgment receipt in lieu of written permission issued by the competent authority;\n[S 709/2017 wef 15/12/2017]\n[S 579/2022 wef 31/12/2021]\n(d)where an application has been made under section 6A(1) of the Act for a waiver or modification of any requirement of these Regulations, a copy of the application;\n[S 54/2008 wef 15/02/2008]\n(e)where alternative solutions are to be utilised in respect of the building works, a list of the alternative solutions together with the certification of one or more specialists in the alternative solutions referred to in section 9(2)(b)(ii) of the Act, where such certification has been obtained; and\n[S 54/2008 wef 15/02/2008]\n[S 665/2013 wef 01/04/2014]\n(f)such other document as the Commissioner of Building Control may require.\n[S 54/2008 wef 15/02/2008]\n(2) The application for approval of plans and the documents referred to in paragraph (1)(b), (e) and (f) shall be —\n(a)in such form as may be required by the Commissioner of Building Control; and\n(b)accompanied by the appropriate fee specified in the Second Schedule.\n[S 54/2008 wef 15/02/2008]"
+   }
+  },
+  {
+   "id": "SG-H379-A4.001",
+   "no": 4.001,
+   "noLabel": {
+    "en": "4A."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Lodgment of plans for deemed approval of lodgment works"
+   },
+   "text": {
+    "en": "4A.—(1) For the purposes of section 5AA(2)(b) of the Act, the plans of any lodgment works —\n(a)must include the following:\n(i)building plans;\n(ii)detailed structural plans and design calculations;\n(iii)site formation plans and pile layout plans;\n(iv)where applicable, civil defence shelter plans;\n(v)where applicable, demolition works plans;\n(vi)where applicable, lightning protection system plans;\n[S 134/2026 wef 01/04/2026]\n(b)must be prepared in accordance with regulations 6 to 11A; and\n[S 134/2026 wef 01/04/2026]\n(c)must be prepared in such a manner that the lodgment works, when designed and constructed in accordance with those plans, would comply with —\n(i)the objectives and performance requirements set out in the Fifth Schedule; and\n(ii)where applicable, the relevant requirements in the technical code entitled “Technical Requirements for Household Shelters” issued by the Commissioner of Civil Defence under section 14 of the Civil Defence Shelter Act 1997, as amended from time to time.\n(2) For the purposes of section 5AA(2)(a) of the Act, a lodgment of the plans of any lodgment works must be accompanied by the following documents:\n(a)a notification signed by the developer or the builder of the lodgment works of the appointment of the qualified person who prepared the plans;\n(b)a certificate by that qualified person stating that the plans are prepared in accordance with paragraph (1)(c);\n(c)where a written permission of the competent authority is required under the Planning Act 1998 in respect of any development of land involving the proposed lodgment works, a copy of the notice of grant of written permission issued by the competent authority or a copy of the lodgment receipt in lieu of written permission issued by the competent authority;\n(d)where an application has been made under section 6A(1) of the Act for a waiver or modification of any requirement of these Regulations, a copy of the application.\n(3) A lodgment under paragraph (2) must —\n(a)be in the form required by the Commissioner of Building Control; and\n(b)be accompanied by the appropriate fee specified in the Second Schedule.\n[S 854/2023 wef 18/12/2023]"
+   }
+  },
+  {
+   "id": "SG-H379-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Plans of alterations and additions to buildings"
+   },
+   "text": {
+    "en": "5.—(1) Where any building works consist of repairs, alterations or additions to an existing building and the qualified person who prepared the building plans has reasonable grounds for suspecting that the building works may affect the structural stability or integrity of the building, the building plans mentioned in regulation 4 or 4A (as the case may be) must be accompanied by a certification from an appropriate professional engineer that —\n(a)he has inspected the building and investigated its overall structure; and\n(b)in his opinion, the building is capable or incapable of resisting the forces and moments which may be increased or altered by reason of the repairs, alterations or additions.\n[S 854/2023 wef 18/12/2023]\n(2) Where the qualified person who prepared the building plans referred to in paragraph (1) is a professional engineer in the appropriate discipline, he may provide the certification himself."
+   }
+  },
+  {
+   "id": "SG-H379-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Preparation of plans for approval and lodgment"
+   },
+   "text": {
+    "en": "6. All plans of building works accompanying any application for approval of the plans under section 5(1) of the Act, amended plans under section 5A(1) of the Act, plans of any lodgment works under section 5AA(1) of the Act, and amended plans of any lodgment works under section 5AB(1)(b)(i) of the Act shall be prepared and signed, or be accompanied by an endorsement signed, by an appropriate qualified person as determined in accordance with the Third Schedule and shall —\n(a)be produced in a clear and intelligible manner;\n(b)contain project information in the format that the Commissioner of Building Control specifies;\n[S 854/2023 wef 18/12/2023]\n(c) distinguish the different types of materials to be used in the building works;\n[S 854/2023 wef 18/12/2023]\n(d)contain a full description or generic name in any specification of materials or components given or shown on the plans;\n[S 854/2023 wef 18/12/2023]\n(e)demarcate clearly the new building works from the existing building by suitable markings;\n(f)delineate clearly the building works to be deleted, demolished or removed by suitable markings;\n(g) if applicable, be numbered serially where the first plan is numbered as 1 of n and the last plan as n of n (n being the total number of pages of the relevant plans); and\n[S 854/2023 wef 18/12/2023]\n(h)comply with such other requirements as the Commissioner of Building Control may specify.\n[S 54/2008 wef 15/02/2008]\n[S 854/2023 wef 18/12/2023]"
+   }
+  },
+  {
+   "id": "SG-H379-A6.001",
+   "no": 6.001,
+   "noLabel": {
+    "en": "6A."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Maximum number of qualified persons to prepare plans of lodgment works"
+   },
+   "text": {
+    "en": "6A.—(1) The plans mentioned in section 5AA(1) of the Act or amended plans mentioned in section 5AB(1)(b)(i) of the Act for each of the following types of lodgment works must be prepared and signed (or be accompanied by an endorsement signed) by no more than one appropriate qualified person as determined in accordance with the Third Schedule:\n(a)architectural works;\n(b)structural works.\n(2) To avoid doubt, the plans mentioned in paragraph (1)(a) and (b) may be prepared and signed (or be accompanied by an endorsement signed) by the same qualified person.\n[S 854/2023 wef 18/12/2023]"
+   }
+  },
+  {
+   "id": "SG-H379-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Scale of plans"
+   },
+   "text": {
+    "en": "7. All plans of building works shall be drawn to the following scales where submitted in paper form:\n(a) key/location plan\n—\n1:10,000;\n(b) site plan\n—\nAt least 1:1000; and\n(c) others\n—\nAt least 1:200."
+   }
+  },
+  {
+   "id": "SG-H379-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Particulars to be shown on building plans"
+   },
+   "text": {
+    "en": "8. All building plans shall, where applicable, consist of or contain the following:\n(a)a site plan showing —\n(i)the location and layout of the site with boundary lines clearly verged;\n[S 854/2023 wef 18/12/2023]\n(ii)the outline of the building to be erected or building in which building works are to be carried out marked in colour or otherwise;\n(iii)the north point, or the georeference, and the number of the lot and adjoining lots and the Mukim (MK) or Town Subdivision (TS) number of the lot;\n[S 854/2023 wef 18/12/2023]\n(iv)the distance between the new building to be erected or the building works to be carried out and the lot boundary;\n(v)the retaining wall on the lot;\n(vi)the existing and proposed platform levels and slopes; and\n(vii)the ingress and egress to the site;\n(b)the floor plan of each storey including the roof plan of the building containing or showing —\n(i)clear statements indicating the purpose of every room or space in the building;\n(ii)the types of materials to be used for the main elements of the buildings;\n(iii)the grid lines or dimensions between columns, corridors, staircase landing and the thickness of walls and columns;\n(iv)the type of plant, equipment or water tank proposed to be installed and the location of the equipment and every plant room or water tank room;\n(v)clear statements indicating every part of the building that is to be air-conditioned or mechanically ventilated;\n(vi)in respect of the first storey, the existing and proposed platform levels of the site and adjoining lots; and\n(vii)in respect of the first storey, the distance between the new building and the lot boundary; and\n(c)such other details or plans as the Commissioner of Building Control may require."
+   }
+  },
+  {
+   "id": "SG-H379-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Particulars to be shown on detailed structural plans and design calculations"
+   },
+   "text": {
+    "en": "9.—(1) Without prejudice to regulations 6 and 7, all detailed structural plans shall —\n(a)be in accordance with the provisions of the Act and these Regulations and any other requirement of the Commissioner of Building Control;\n(b)be signed, or be accompanied by an endorsement signed, by the qualified person who prepared the detailed structural plans and design calculations, and by an accredited checker unless the building works are of a type in respect of which the certificate of an accredited checker referred to in section 5(2)(d)(i) of the Act is not required under regulation 12;\n[S 54/2008 wef 15/02/2008]\n[S 854/2023 wef 18/12/2023]\n(c)bear a certificate from the qualified person who prepared and signed the structural plans on the first and last sheets of the plans stating that he has taken into consideration the loads imposed by all the building works as shown in the building plans or any amendment thereto, or be accompanied by such a certificate;\n[S 854/2023 wef 18/12/2023]\n(d)bear a certificate by an accredited checker referred to in section 5(2)(d)(i) of the Act on the first and last sheets of the plans, or be accompanied by such a certificate, unless the building works are of a type in respect of which such a certificate is not required under regulation 12;\n[S 54/2008 wef 15/02/2008]\n[S 854/2023 wef 18/12/2023]\n(e)contain information on the respective area of every floor plan, the imposed load for which the floor system or part thereof has been designed;\n[S 854/2023 wef 18/12/2023]\n(f)contain information on the type or types of foundation to be used;\n[S 854/2023 wef 18/12/2023]\n(g)contain the specifications of the materials to be used; and\n(h)contain information on the fixing and framing details of any external cladding and safety barriers against falling from a height (if applicable).\n[S 54/2008 wef 15/02/2008]\n[S 854/2023 wef 18/12/2023]\n(2) The design calculations shall be prepared in such format and manner as the Commissioner of Building Control may require and shall —\n(a)contain a contents page;\n(b)be signed and endorsed, or be accompanied by an endorsement signed, by the qualified person who prepared the detailed structural plans and design calculations;\n[S 665/2013 wef 01/04/2014]\n[S 854/2023 wef 18/12/2023]\n(c)bear a certificate by the qualified person who prepared the detailed structural plans and design calculations on the first and last sheets of the calculations stating that, to the best of his knowledge and belief, the design calculations have been prepared in accordance with these Regulations and that he is the person who prepared the design calculations, or be accompanied by such a certificate;\n[S 854/2023 wef 18/12/2023]\n(d)state in the certificate of the qualified person referred to in sub-paragraph (c) the number of pages per book and a numbering of every page in the book;\n[S 854/2023 wef 18/12/2023]\n(e)contain a Design Information Sheet giving a summary of the design information including, where applicable, the design loads, codes of practice, assumptions, soil investigation report, foundation system, wind loads and other information relevant to the design in question;\n(f)contain a Structural Summary Sheet showing the structural system, the form of the structure, the key structural elements, the provision for overall stability and structural analysis;\n(g)contain a Grouping of Structural Elements Sheet containing a list of designed structural elements that are similar; and\n[S 598/2004 wef 01/10/2004]\n(h)contain an Analysis and Design of Structural Elements Sheet showing the detailed design and calculations of —\n(i)the foundation;\n(ii)the shearwall, corewall and all structural elements resisting horizontal forces;\n(iii)the column and all vertical load bearing structural elements;\n(iv)the transfer beams or plates, cantilevers, pre-stressed beams and flat slabs;\n(v)the space truss and portal frame;\n(vi)any shaft, tunnel or connections, or cavern structure;\n[S 54/2008 wef 15/02/2008]\n(vii)the retaining walls and supporting structures; and\n[S 54/2008 wef 15/02/2008]\n(viii)the overall structural system under wind loads, if applicable.\n[S 54/2008 wef 15/02/2008]\n(3) Where a computer programme is used in the design calculations —\n(a)the details of the programme including assumptions, limitations and the like shall be explained by the qualified person in his submission; and\n(b)the inputs and outputs from the programme shall be endorsed and submitted by the qualified person and shall form part of the design calculations submitted by him.\n(4) The certificates referred to in paragraphs (1)(c) and (d) and (2)(c) shall be in such form as the Commissioner of Building Control may specify."
+   }
+  },
+  {
+   "id": "SG-H379-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Particulars to be shown on site formation plans and pile layout plans"
+   },
+   "text": {
+    "en": "10.—(1) Without prejudice to regulations 6 and 7, all site formation plans and calculations shall —\n(a)be in accordance with the provisions of the Act and these Regulations and any other requirement of the Commissioner of Building Control;\n(b)show the contour lines at intervals of 500 mm in height or contain information on the spot levels of the existing site and adjoining lands drawn with reference to the ordnance datum;\n[S 854/2023 wef 18/12/2023]\n(c)contain information on the location of the site formation works;\n[S 854/2023 wef 18/12/2023]\n(d)contain information on the finished formation levels, including platform level for the building or buildings and the finished road levels;\n[S 854/2023 wef 18/12/2023]\n(e)show the slope of any excavation or filling exceeding 1500 mm in depth; and\n(f)contain information on the means of protecting the site formation works against erosion, earthslip, slope failure or instability.\n[S 854/2023 wef 18/12/2023]\n(2) The pile layout plans shall contain information on —\n(a)the types of piles and the specification of materials to be used;\n(b)the location of piles and site investigation boreholes;\n[S 54/2008 wef 15/02/2008]\n(c)the estimated pile penetration depth for each design zone;\n[S 54/2008 wef 15/02/2008]\n(d)the minimum embedded pile length into competent stratum, where applicable;\n[S 54/2008 wef 15/02/2008]\n(e)the unit skin friction and unit end bearing resistance for pile designs;\n[S 54/2008 wef 15/02/2008]\n(f)the allowable pile bearing capacity before and after deduction of negative skin friction (if applicable) and details of pile joints;\n[S 54/2008 wef 15/02/2008]\n(g)the allowable total and differential foundation settlement;\n[S 54/2008 wef 15/02/2008]\n(h)the allowable vibration limit during pile installation; and\n[S 54/2008 wef 15/02/2008]\n(i)the sectional details of piles and number and type of pile load tests and the location of ultimate pile load tests.\n[S 54/2008 wef 15/02/2008]\n[S 854/2023 wef 18/12/2023]"
+   }
+  },
+  {
+   "id": "SG-H379-A10.001",
+   "no": 10.001,
+   "noLabel": {
+    "en": "10A."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Particulars to be shown in geotechnical building works plans"
+   },
+   "text": {
+    "en": "10A.—(1) The geotechnical building works plans referred to in regulation 4(1)(a) shall consist of or contain the following, where applicable:\n(a)plans of any tunnelling support system;\n(b)plans of any excavation and earth retaining structures;\n(ba)plans for constructing or stabilising any slope;\n[S 591/2012 wef 01/12/2012]\n(c)plans of the foundation;\n(d)instrumentation and monitoring plans.\n[S 591/2012 wef 01/12/2012]\n(2) Without prejudice to regulations 6, 7 and 8, all geotechnical building works plans shall —\n(a)be in accordance with the provisions of the Act and these Regulations and any other requirement of the Commissioner of Building Control;\n(b)be signed and endorsed, or be accompanied by an endorsement signed, by the qualified person who prepared the plans and calculations, and by the appropriate accredited checker;\n[S 854/2023 wef 18/12/2023]\n(c)bear a certificate by the qualified person who prepared the plans on the first and last sheets of the calculations stating that, to the best of his knowledge and belief, the design calculations have been prepared in accordance with these Regulations and that he is the person who prepared the design calculations, or be accompanied by such a certificate;\n[S 854/2023 wef 18/12/2023]\n(d)state in the certificate of the qualified person referred to in sub-paragraph (c) the number of pages per book and a numbering of every page in the book;\n[S 854/2023 wef 18/12/2023]\n(e)be accompanied by an Information Sheet giving a summary of the key design and construction information including, where applicable, load conditions, codes of practice, assumptions, earth-retaining system, tunnel support system, foundation system, and other information relevant to the design and construction in question;\n(f)be accompanied by an impact assessment report on neighbouring structures and a site investigation report;\n(g)be accompanied by a geotechnical report which shall contain —\n(i)a summary to highlight the key elements of the design and the issues addressed;\n(ii)evaluation and interpretation of existing information and investigation and monitoring results;\n(iii)assessment of geotechnical parameters and groundwater conditions;\n(iv)geotechnical assumptions, analysis, design and calculations;\n(v)geotechnical requirements relating to the design and construction of the geotechnical building works including testing, validating, controlling, inspecting and monitoring;\n[S 591/2012 wef 01/12/2012]\n(vi)geotechnical reviews; and\n(vii)any other details as the Commissioner of Building Control may require; and\n(h)be accompanied by such other reports as the Commissioner of Building Control may require.\n[S 591/2012 wef 01/12/2012]\n(3) The plans of a tunnel support system for the design and construction of any tunnel with diameter, width or height of more than 2 metres shall contain, where applicable —\n(a)layout, sections and details of all excavation and tunnel support works showing —\n(i)subsurface information including plan showing layout of investigation boreholes and subsurface profile along each tunnel axis;\n(ii)maximum depth, and extent of excavation at each stage including heading, bench and invert;\n(iii)face pressure and other key performance indicators for ensuring stability of tunnel during construction;\n(iv)location of planned stoppages and necessary ground improvement and monitoring details; and\n(v)profile and the nature of the site and its surrounds including ground topography, neighbouring structures, subsurface geological and geotechnical data, and groundwater conditions;\n(b)layout, sections, details and material specifications of tunnel support elements and structures, tunnel face support system and overall tunnel support system and other structural elements showing types, sizes and material specifications of members to be used and the connection details;\n(c)layout, sections and details of earth or ground strengthening, improvement or protection works including layout, sections and sizes of all elements, material specifications, details of inspections and tests to be carried out;\n(d)method and sequence of construction including duration and spatial limits of critical activities;\n(e)details of inspections and tests to be carried out;\n(f)details of any special precautions, groundwater control measures, control and protective measures required during excavation, installation and removal of any tunnel support element;\n(g)other specifications and relevant particulars; and\n(h)such other details as the Commissioner of Building Control may require.\n(4) The plans of any excavation and earth retaining structures, or plans for constructing or stabilising any slope, in relation to any geotechnical building works shall contain, where applicable —\n(a)layout, sections and details of all excavation and earth retaining works showing —\n(i)subsurface information including plan showing layout of investigation boreholes and surface profile along and across the excavation boundary;\n(ii)maximum depth, and extent of excavation at each stage; and\n(iii)profile and the nature of the site and its surrounds including ground topography, neighbouring structures, subsurface geological and geotechnical data, and groundwater conditions;\n(b)layout, sections, details and material specifications of earth retaining elements and structures, wall elevation showing the wall founding depth or penetration depth or minimum wall embedment requirement, and overall retaining system;\n(c)layout, sections and details of struts, anchors, soil nails, walers, king posts, bracings, corbels and other structural elements showing types, sizes and material specifications of members to be used, connection details, and where appropriate, inspections and tests to be carried out;\n(d)layout and sections of earth berms or slope showing type of soils, size and location of berms, internal and external drainage provisions and protection measures including against surface weathering;\n(e)layout, sections and details of earth or ground strengthening, improvement or protection works including layout, sections and sizes of all elements, material specifications, details of inspections and tests to be carried out;\n(f)layout, sections and details of permanent support system to the earth retaining system showing details of lateral bracing element, and connection details;\n(g)method and sequence of construction including duration and spatial limits of critical activities;\n(h)details of inspections and tests to be carried out;\n(i)details of any special precautions, groundwater control measures, control and protective measures required during excavation, and installation and removal of any earth retaining element;\n(j)other specifications and relevant particulars; and\n(k)such other details as the Commissioner of Building Control may require.\n[S 591/2012 wef 01/12/2012]\n(5) The foundation plans for the design and construction of foundation for buildings of 30 or more storeys shall contain, where applicable —\n(a)the layout, sections and details of all foundation works showing —\n(i)types of piles or foundation and specification of material to be used;\n(ii)location of piles or foundation and site investigation boreholes;\n(iii)pile or foundation founding depth or pile minimum embedment into competent stratum for each pile or foundation;\n(iv)unit shaft friction, pile base resistance or foundation bearing pressure;\n(v)allowable foundation capacity before and after accounting for negative skin friction where applicable, allowable tension, and lateral load;\n(vi)details of pile reinforcements, pile joints, connection with pilecap, pile shops;\n(vii)allowable total and differential foundation movement; and\n(viii)allowable vibration limit; and\n(b)the number, type of pile or foundation tests, structural integrity tests and location of preliminary test pile or ultimate load tests and site investigation for the tests.\n(6) The instrumentation and monitoring plans shall contain, where applicable —\n(a)layout and location of neighbouring structures in relation to the geotechnical building works;\n[S 591/2012 wef 01/12/2012]\n(b)numbers, types, locations, details and other particulars of instruments for monitoring forces and movement of structural elements, building and ground movements, and variations in the groundwater or piezometric levels;\n(c)frequency and duration of monitoring;\n(d)allowable ground or building movement limits;\n(e)allowable vibration limits;\n(f)where applicable, long-term instrumentation, monitoring and maintenance requirements;\n(g)other specifications and relevant particulars; and\n(h)such other details as the Commissioner of Building Control may require.\n[S 250/2008 wef 01/10/2008]\n[S 591/2012 wef 01/12/2012]"
+   }
+  },
+  {
+   "id": "SG-H379-A10.002",
+   "no": 10.002,
+   "noLabel": {
+    "en": "10B."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Particulars to be shown in demolition works plans"
+   },
+   "text": {
+    "en": "10B.—(1) The demolition works plans referred to in regulations 4(1)(a)(vi) and 4A(1)(a)(v) shall consist of or contain such of the following as may be applicable:\n(a)demolition plans;\n(b)instrumentation and monitoring plans.\n[S 854/2023 wef 18/12/2023]\n(2) Without prejudice to regulations 6, 7, 8 and 9, all demolition works plans shall —\n(a)be in accordance with the provisions of the Act and these Regulations and any other requirement of the Commissioner of Building Control; and\n(b)be accompanied by —\n(i)an impact assessment report on neighbouring structures, which shall include design calculations showing the stability and adequacy of every structural element the structural continuity of which is to be truncated by the demolition works;\n(ii)design calculations showing that the floor is capable of resisting —\n(A)the load from the debris; or\n(B)where a demolition machine is intended to be placed on the floor of the building in accordance with the demolition works plans, the load from the demolition machine and the debris; and\n(iii)such reports as the Commissioner of Building Control may require.\n(3) Each demolition plan shall contain such of the following as may be applicable:\n(a)the location and site plan of the building to be demolished, which includes the distances between the building to be demolished and adjacent buildings which are not to be demolished;\n(b)structural floor plans showing or containing information on —\n(i)in respect of each area of each floor plan, the imposed load for which the floor system or part thereof has been designed;\n(ii)the demolition sequence and demolition zone for each floor;\n(iii)the method statement on the handling and disposal of debris;\n(iv)the type and weight of the demolition machine; and\n(v)the location of the temporary ramp;\n[S 854/2023 wef 18/12/2023]\n(c)a layout plan showing or containing information on the demolition sequence of —\n(i)all beams;\n(ii)all columns;\n(iii)all walls;\n(iv)all slabs; and\n(v)all edge parapets;\n[S 854/2023 wef 18/12/2023]\n(d)the following information on safety and environmental protection measures:\n(i)layout plan, details, material specifications and elevation view of shoring and temporary supports;\n(ii)layout plan, details and material specifications of protective hoardings, covered walkways, catch platform, catch fans, scaffolding, protective screens and safety nets;\n(iii)where a demolition machine is used, the route of safe movement of the demolition machine;\n(iv)where a continuous beam extends from the building to be demolished to an adjacent building and the beam is to be cut off at the boundary of the buildings, the anchorage detail of the existing reinforcement bars of the beam where it is to be cut off.\n(4) Each instrumentation and monitoring plan shall contain such of the following as may be applicable:\n(a)the layout and location of other buildings (that are not to be demolished) in relation to the building to be demolished;\n(b)the number, types, location, details and other particulars of instruments for monitoring building and ground movements;\n(c)the frequency and duration of monitoring;\n(d)allowable vibration limits;\n(e)the location of closed‑circuit television cameras to monitor the progress of the demolition work, especially for demolition of high‑rise buildings.\n[S 665/2013 wef 01/04/2014]"
+   }
+  },
+  {
+   "id": "SG-H379-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Particulars to be shown on civil defence shelter plans"
+   },
+   "text": {
+    "en": "11.—(1) The civil defence shelter plans referred to in regulations 4(1)(a)(iv) and 4A(1)(a)(iv) shall consist of —\n(a)civil defence shelter building plans;\n(b)civil defence shelter structural plans; and\n(c)in the case of public shelters —\n(i)civil defence shelter mechanical plans;\n(ii)civil defence shelter electrical plans; and\n(iii)civil defence shelter shock design plans.\n[S 854/2023 wef 18/12/2023]\n(2) Without prejudice to regulations 6 and 7, all civil defence shelter plans shall —\n(a)be signed, or be accompanied by an endorsement signed, by the qualified person who prepared the plans;\n[S 854/2023 wef 18/12/2023]\n(b)bear a certificate on the first and last sheets of the plans, or be accompanied by a certificate, from the qualified person stating that —\n(i)the plans have been prepared in accordance with these Regulations; and\n(ii)the plans have been prepared in such a manner that the household shelter, public shelter or storey shelter, when designed and constructed in accordance with those plans, would comply with these Regulations and the relevant technical requirements under the Civil Defence Shelter Act 1997; and\n[S 854/2023 wef 18/12/2023]\n(c)be accompanied by design calculations and the relevant technical documents showing the details of the mounting brackets, expansion anchor bolts and shock isolators, where applicable.\n(3) All design calculations shall be signed by the qualified person who prepared the calculations and either bear a certificate referred to in paragraph (2)(b) on the first and last sheets of the calculations or be accompanied by such a certificate.\n[S 854/2023 wef 18/12/2023]\n(4) The civil defence shelter building plans of a household or storey shelter shall contain —\n(a)a site plan;\n(b)the floor plans, sections and elevations containing information on —\n(i)the shelter type, gross floor area of each dwelling type and size and number of each type;\n(ii)the location and layout in relation to the overall building with the outline of the shelters marked; and\n(iii)the setback distances of shelter walls and shelter dimensions;\n[S 854/2023 wef 18/12/2023]\n(c)the details showing the location of the blast door, ventilation openings and fixtures such as power-points, lighting points, telephone points and radio and television antenna outlets in the shelter;\n(d)the schematic details showing the routing and penetration of service conduits in the shelter; and\n(e)such other details as the Commissioner of Building Control may require.\n(5) The civil defence shelter building plans of a public shelter shall contain floor plans, sections and elevations containing information on —\n(a)the bounds of protection;\n(b)the details, layout and dimensions of the main shelter area, auxiliary areas, plant rooms, generator room, water tanks (including their capacity), air locks, access ways, entrances and exits;\n(c)the locations and overall dimensions of protective blast doors, hatches, blast valves, sealing devices, louvres and gas-tight doors; and\n(d)such other details as the Commissioner of Building Control may require.\n[S 854/2023 wef 18/12/2023]\n(6) The civil defence shelter structural plans of a household shelter or storey shelter shall contain —\n(a)the floor plans indicating the shelter;\n(b)the vertical and horizontal sections through the shelter tower and an indication of the structural dimensions and reinforcement details;\n(c)the cross sectional details of openings such as the blast door opening, ventilation openings and services penetrations; and\n(d)such other details as the Commissioner of Building Control may require.\n(7) The civil defence shelter structural plans of a public shelter shall contain —\n(a)pile layout plans showing —\n(i)the types of piles;\n(ii)the location of piles; and\n(iii)the column loads including collapse load;\n(b)structural plans showing —\n(i)the floor plans indicating the public shelter;\n(ii)the details of structural elements with sections;\n(iii)the imposed loading for the structural floor system;\n(iv)the details of reinforcement around openings for doors, hatches, ventilation and services penetrations;\n(v)the specification of materials;\n(vi)the types of foundation, where applicable; and\n(vii)the minimum allowable soil bearing capacity, where applicable; and\n(c)such other details as the Commissioner of Building Control may require.\n(8) The civil defence shelter mechanical plans of a public shelter shall contain —\n(a)the air-conditioning and mechanical ventilation plans;\n(b)the water supply and reticulation plans;\n(c)the sanitary and drainage plans; and\n(d)such other details as the Commissioner of Building Control may require.\n(9) The civil defence shelter electrical plans of a public shelter shall contain —\n(a)the power and lighting plans;\n(b)the communications plans;\n(c)the generator system plans; and\n(d)such other details as the Commissioner of Building Control may require.\n(10) The civil defence shelter shock design plans of a public shelter shall contain —\n(a)the shock design plans;\n(b)the calculations for the support system of every architectural fixture and mechanical and electrical equipment and services; and\n(c)such other details as the Commissioner of Building Control may require.\n(11) The certificate referred to in paragraph (2)(b) shall be in such form as the Commissioner of Building Control may specify."
+   }
+  },
+  {
+   "id": "SG-H379-A11.001",
+   "no": 11.001,
+   "noLabel": {
+    "en": "11A."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Particulars to be shown on lightning protection system plans"
+   },
+   "text": {
+    "en": "11A.—(1) The lightning protection system plans mentioned in regulations 4(1)(a)(vii) and 4A(1)(a)(vi) must specify the class of lightning protection system and where applicable, consist of or contain the following:\n(a)a site plan containing or showing —\n(i)the location and layout of the site with boundary lines clearly verged;\n(ii)the outline of the building to be erected or building in which building works are to be carried out marked in colour or otherwise;\n(iii)the north point, or the georeference, and the number of the lot and adjoining lots and the Mukim (MK) or Town Subdivision (TS) number of the lot;\n(iv)the distance between the new building to be erected or the building works to be carried out and the lot boundary;\n(v)any retaining wall on the lot;\n(vi)any existing and proposed platform level and slope; and\n(vii)the ingress and egress to the site;\n(b)the roof plan of the building containing or showing —\n(i)the air-termination system; and\n(ii)the location of the down conductors;\n(c)one or more elevation plans containing or showing —\n(i)the zones of lightning protection provided by the air-termination network for the open roof spaces and the sides of the building; and\n(ii)the location of the down conductors;\n(d)the floor plan of each storey where the earth electrodes are located;\n(e)one or more plans containing or showing —\n(i)the details and the location of the points where there is equipotential bonding between the air-termination system, down-conductor system and earth-termination system; and\n(ii)the details and the location of the points where there is equipotential bonding of the lightning protection system to electrically conductive parts of the building (except mechanical and electrical services);\n(f)such other details or plans as the Commissioner of Building Control may require.\n(2) Without affecting regulations 6 and 7, all lightning protection system plans must —\n(a)be in accordance with the provisions of the Act and these Regulations and any other requirement of the Commissioner of Building Control;\n(b)be signed, or be accompanied by an endorsement signed, by the qualified person who prepared the lightning protection system plans; and\n(c)bear a certificate from the qualified person who prepared the lightning protection system plans stating that the plans have been prepared in accordance with the Act and these Regulations, or be accompanied by such certificate.\n[S 134/2026 wef 01/04/2026]"
+   }
+  },
+  {
+   "id": "SG-H379-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Minor building works"
+   },
+   "text": {
+    "en": "12. The building works specified in the Fourth Schedule are building works the plans of which do not require a certification from an accredited checker for the purposes of section 5 or 5A of the Act.\n[S 54/2008 wef 15/02/2008]"
+   }
+  },
+  {
+   "id": "SG-H379-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Non-acceptance of application for approval of plans"
+   },
+   "text": {
+    "en": "13. The Commissioner of Building Control may refuse to accept an application for approval of any plans of building works if —\n(a)the application or the plans of building works submitted do not comply with any requirement of the Act or these Regulations;\n(b)the application is not complete or not in accordance with any other requirement of the Commissioner of Building Control; or\n(c)the appropriate fee specified in the Second Schedule has not been paid.\n[S 54/2008 wef 15/02/2008]"
+   }
+  },
+  {
+   "id": "SG-H379-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Approval and deemed approval of plans"
+   },
+   "text": {
+    "en": "14.—(1) Where the Commissioner of Building Control approves any plans of building works under section 5(3)(a) of the Act, he shall notify the developer of the building works and the qualified person who prepared and submitted those plans of his approval and of the terms and conditions, if any, subject to which the approval has been granted.\n[S 54/2008 wef 15/02/2008]\n(2) For the avoidance of doubt, no approval of any plans of building works under section 5(3)(a) of the Act, or deemed approval of any plans of lodgment works under section 5AA(1) of the Act, shall be taken to —\n(a)confer any title to land;\n(b)act as a waiver of any term in any lease or licence;\n(c)grant any exemption from or permit any contravention of any provision of these Regulations; or\n(d)waive or modify the application of these Regulations to those building works where no such waiver or modification has been granted under section 6A(1) of the Act in relation to the building works.\n[S 54/2008 wef 15/02/2008]\n[S 854/2023 wef 18/12/2023]\n[S 854/2023 wef 18/12/2023]"
+   }
+  },
+  {
+   "id": "SG-H379-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Disapproval of plans"
+   },
+   "text": {
+    "en": "15. Where the Commissioner of Building Control disapproves any plans of building works under section 5(3)(c) of the Act, he shall notify the developer of the building works and the qualified person who prepared and submitted those plans.\n[S 54/2008 wef 15/02/2008]\n[S 709/2017 wef 15/12/2017]"
+   }
+  },
+  {
+   "id": "SG-H379-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Return of disapproved or withdrawn plans"
+   },
+   "text": {
+    "en": "16.—(1) Where any plans of building works have been disapproved, the Commissioner of Building Control may return the disapproved plans to the qualified person.\n(2) Where any plans have been withdrawn by the qualified person or developer before or after approval, the Commissioner of Building Control may return the plans to the qualified person or developer, as the case may be.\n[S 54/2008 wef 15/02/2008]\n(3) Where the Commissioner of Building Control has notified a qualified person or developer to collect any plans (whether on paper or in electronic form) that are to be returned under paragraph (1) or (2), and such plans are not collected within one month from the date of the notice, the Commissioner of Building Control may destroy or dispose of the plans (including the medium in which they are stored) in any way he thinks fit.\n[S 54/2008 wef 15/02/2008]"
+   }
+  },
+  {
+   "id": "SG-H379-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Refund of fees"
+   },
+   "text": {
+    "en": "17.—(1) Any fee paid to the Commissioner of Building Control under these Regulations is not refundable.\n(2) Despite paragraph (1), the Commissioner of Building Control may, in his or her discretion, refund in whole or in part, any fee paid under these Regulations.\n[S 854/2023 wef 18/12/2023]"
+   }
+  },
+  {
+   "id": "SG-H379-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Requirements for deviation from approved plans"
+   },
+   "text": {
+    "en": "18.—(1) Where it is desired that any building works deviate from the approved plans of those building works, an application shall be made to the Commissioner of Building Control under section 5A(1) of the Act and shall, without prejudice to that section, be accompanied by the amended plan of the buildings works showing clearly the departures or deviations.\n[S 54/2008 wef 15/02/2008]\n(2) Where the deviations involve material changes to the structural design, the qualified person appointed under section 8(1)(a) or 11(1)(d)(i) of the Act and, in the case of major building works, the accredited checker shall submit the structural plans and design calculations to the Commissioner of Building Control for approval before construction.\n[S 54/2008 wef 15/02/2008]\n(2A) Where the deviations involve material changes to building works other than the structural design, the qualified person appointed under section 8(1)(a) or 11(1)(d)(i) of the Act shall submit the building plans to the Commissioner of Building Control for approval before construction.\n[S 665/2013 wef 01/04/2014]\n(3) Notwithstanding paragraph (1), where the departures or deviations involve immaterial changes to the structural design, the qualified person appointed under section 8(1)(a) or 11(1)(d)(i) shall only be required to prepare and submit to the Commissioner of Building Control —\n(a)the record plans;\n(b)his certificate stating that to the best of his knowledge and belief the departures or deviations do not affect the structural adequacy or stability of the building;\n(c)a certificate from an accredited checker stating that to the best of his knowledge and belief, the record plans do not show any inadequacy in key structural elements of the building to be erected or affected by building works carried out in accordance with those plans; and\n(d)on the completion of the building works, a report stating the departures and deviations accompanied by the detailed structural plans and design calculations showing such departures and deviations.\n[S 54/2008 wef 15/02/2008]\n[S 665/2013 wef 01/04/2014]\n(3A) Notwithstanding paragraph (1), where the departures or deviations involve immaterial changes to building works other than the structural design, the qualified person appointed under section 8(1)(a) or 11(1)(d)(i) of the Act shall only be required to prepare and submit to the Commissioner of Building Control —\n(a)the record plans;\n(b)his certificate stating that to the best of his knowledge and belief, the departures or deviations —\n(i)have been completed in accordance with the provisions of the Act and these Regulations; and\n(ii)do not affect the objectives and performance requirements set out in the Fifth Schedule relating to the approved plans; and\n(c)such other certificate or document as may be required by the Commissioner of Building Control.\n[S 665/2013 wef 01/04/2014]\n(4) The qualified person appointed under section 8(1)(a) or 11(1)(d)(i) of the Act shall keep and maintain a record of all departures and deviations relating to the structural elements of the building works.\n[S 54/2008 wef 15/02/2008]\n(5) The certificates referred to in paragraphs (3)(b) and (c) and (3A)(b) and (c) shall be in such form as the Commissioner of Building Control may specify.\n[S 665/2013 wef 01/04/2014]\n(6) Every application under section 5A(1) of the Act must be accompanied by the appropriate fee specified in the Second Schedule.\n[S 443/2017 wef 10/09/2017]\n[S 854/2023 wef 18/12/2023]"
+   }
+  },
+  {
+   "id": "SG-H379-A18.001",
+   "no": 18.001,
+   "noLabel": {
+    "en": "18A."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Requirements for deviation from lodged plans"
+   },
+   "text": {
+    "en": "18A.—(1) This regulation applies to a lodgment of amended plans of lodgment works mentioned in section 5AB(1)(b)(i) of the Act.\n(2) Where the departure or deviation from the initial plans involves a material change to the lodgment works, the developer of the lodgment works must lodge with the Commissioner of Building Control —\n(a)the plans of the lodgment works showing such departure or deviation; and\n(b)if the departure or deviation involves material changes to the structural design, the structural plans and design calculation showing such departure or deviation.\n(3) Where the departure or deviation involves only an immaterial change to the lodgment works, the developer of the lodgment works is only required to submit to the Commissioner of Building Control —\n(a)the record plans;\n(b)a certificate by the qualified person who prepared the amended plans stating that to the best of the qualified person’s knowledge and belief, the departure or deviation —\n(i)has been completed in accordance with the provisions of the Act and these Regulations; and\n(ii)does not affect the objectives and performance requirements set out in the Fifth Schedule relating to the deemed approved plans;\n(c)if the departure or deviation involves an immaterial change to the structural design, all of the following documents:\n(i)a certificate by the qualified person who prepared the amended plans stating that to the best of the qualified person’s knowledge and belief, the departure or deviation does not affect the structural adequacy or stability of the building;\n(ii)on the completion of the lodgment works, a report stating the departure or deviation together with the detailed structural plans and design calculations showing such departure or deviation; and\n(d)such other certificate or document as may be required by the Commissioner or Building Control.\n(4) Every lodgment under paragraph (1) must be accompanied by the appropriate fee specified in the Second Schedule.\n[S 854/2023 wef 18/12/2023]"
+   }
+  },
+  {
+   "id": "SG-H379-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Validity period of approval or deemed approval"
+   },
+   "text": {
+    "en": "19. For the purposes of section 5B(1)(c) of the Act, the approval or deemed approval of any plans of building works granted by the Commissioner of Building Control shall lapse if the building works are not commenced within 24 months from the date of approval or deemed approval, as the case may be.\n[S 54/2008 wef 15/02/2008]\n[S 854/2023 wef 18/12/2023]"
+   }
+  },
+  {
+   "id": "SG-H379-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Application for modification or waiver of building regulations"
+   },
+   "text": {
+    "en": "20.—(1) Where any proposed building works shown in any plans do not comply with the provisions of these Regulations relating to the design and construction of buildings, the developer or an appropriate qualified person appointed by him shall make an application under section 6A(1) of the Act.\n[S 54/2008 wef 15/02/2008]\n(2) For the purposes of section 6A(2) of the Act, any such application shall be accompanied by a declaration signed by an appropriate qualified person stating every item of the building works shown in the plans that does not comply with the provisions of these Regulations relating to design and construction.\n[S 54/2008 wef 15/02/2008]\n(3) Every application under section 6A(1) of the Act shall be accompanied by the appropriate fee specified in the Second Schedule.\n[S 549/2005 wef 01/09/2005]\n[S 54/2008 wef 15/02/2008]"
+   }
+  },
+  {
+   "id": "SG-H379-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART II SUBMISSION, APPROVAL AND LODGMENT OF PLANS"
+   },
+   "heading": {
+    "en": "Permit to carry out structural works"
+   },
+   "text": {
+    "en": "21.—(1) An application for a permit to carry out any structural works (including piling or site formation works or the demolition of a building) under section 6(1) of the Act shall be in such form as the Commissioner of Building Control may require.\n[S 54/2008 wef 15/02/2008]\n(2) Where any part of a building under construction or undergoing alteration is to be demolished, no separate permit for the demolition works shall be required.\n(3) For the purposes of section 6(2)(e) of the Act, an application for a permit to carry out any demolition of a building shall be accompanied by —\n(a)a method statement detailing how the demolition works are to be carried out; and\n(b)an impact assessment report on surrounding buildings.\n[S 54/2008 wef 15/02/2008]\n(4) For the purposes of section 6(2)(e) of the Act, an application for a permit to carry out any piling or site formation works shall be accompanied by —\n(a)an impact assessment report on surrounding buildings and other structures; and\n(b)a notification specifying the date of commencement of the piling or site formation works.\n[S 54/2008 wef 15/02/2008]"
+   }
+  },
+  {
+   "id": "SG-H379-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART III DUTIES OF QUALIFIED PERSONS, SITE SUPERVISORS AND BUILDERS DURING CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Site records"
+   },
+   "text": {
+    "en": "22. For the purposes of section 9(4)(d) of the Act, the supervising qualified person appointed in respect of any building works shall keep and maintain at the premises on which the building works are carried out the following documents, books and records:\n(a)for major building works, a schedule of the structural works to be carried out every 3 months, specifying, in particular, the excavation, installation, testing, removal, construction or fabrication of the key structural elements in the structural works;\n[S 54/2008 wef 15/02/2008]\n(b)a record of attendance of the qualified person and the site supervisor;\n(c)a site record book;\n(d)a copy of the approved or deemed approved structural plans including all amendments thereto;\n[S 854/2023 wef 18/12/2023]\n(e)a record of all the departures or deviations relating to the structural elements of the building works as provided by the qualified person appointed under section 8(1)(a) or 11(1)(d)(i) of the Act;\n[S 54/2008 wef 15/02/2008]\n(f)a record of inspection and approval for concreting;\n(g)a record of repairs to defective structural works;\n(h)a site investigation report;\n[S 54/2008 wef 15/02/2008]\n(i)a record of piles installed;\n(j)a record of pile load tests;\n(k)a record of tests on cement, sand and aggregates;\n(l)a record of concrete cube tests;\n(m)a record of tests on steel reinforcements;\n(n)a record of tests on pre-stressing steel;\n(o)a record of pre-stressing works;\n(p)a record of tests on welding works and all welders’ certificates;\n[S 54/2008 wef 15/02/2008]\n(q)a record of ground anchor, soil nails or rock bolt tests and, where applicable, stressing loads;\n[S 54/2008 wef 15/02/2008]\n(r)a record of inspection and approval at each of the following stages of the building works: excavation, installation, construction and removal stage of the building works;\n[S 54/2008 wef 15/02/2008]\n(s)a record of inspection and approval for strut, soil nails, rock bolts, or anchor during installation and removal;\n[S 54/2008 wef 15/02/2008]\n(t)a record of instrumentation and monitoring reports;\n[S 54/2008 wef 15/02/2008]\n(u)a record of actions taken where monitoring results of earth-retaining wall deflection or adjacent ground settlements exceed the allowable limits or where damages occur in the neighbouring properties;\n[S 54/2008 wef 15/02/2008]\n(v)a record and test results of earth or ground improvement or strengthening works;\n[S 54/2008 wef 15/02/2008]\n(w)a record of tests on fixings of external claddings and safety barriers against falling from a height;\n[S 54/2008 wef 15/02/2008]\n(x)the mill certificates and test results for structural steel sections;\n[S 54/2008 wef 15/02/2008]\n[S 134/2026 wef 01/04/2026]\n(y)a record of all other tests of or in connection with the building works;\n[S 54/2008 wef 15/02/2008]\n[S 134/2026 wef 01/04/2026]\n(z)a record of inspection and of the test results relating to the electrical continuity of the lightning protection system installed at any building on the premises at which building works are carried out;\n[S 134/2026 wef 01/04/2026]\n(za)a record of inspection and of the measurement of earth electrodes and overall earth-termination system resistance.\n[S 134/2026 wef 01/04/2026]"
+   }
+  },
+  {
+   "id": "SG-H379-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART III DUTIES OF QUALIFIED PERSONS, SITE SUPERVISORS AND BUILDERS DURING CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Submission of progress reports and certificates"
+   },
+   "text": {
+    "en": "23.—(1) For the purposes of section 9(4)(e) of the Act, the supervising qualified person appointed in respect of any building works shall prepare and submit the following reports and certificates relating to the building works at the corresponding times or intervals of the building works, where applicable:\n(a)[Deleted by S 54/2008 wef 15/02/2008]\n(b)[Deleted by S 54/2008 wef 15/02/2008]\n(c)a notice of completion of all piling works carried out, a record plan showing full details of the piling works and a certificate of supervision of those piling works within 28 days of completion of those piling works;\n(d)on completion of all building works, his certificate stating that the building works have been carried out under his supervision; and\n(e)within 14 days of his ceasing to carry out his duties under the Act, a summary report of all those building works which have been carried out under his supervision and a certificate of such supervision.\n[S 54/2008 wef 15/02/2008]\n(2) The certificates referred to in paragraph (1)(c), (d) and (e) shall be in such form as the Commissioner of Building Control may require."
+   }
+  },
+  {
+   "id": "SG-H379-A23.001",
+   "no": 23.001,
+   "noLabel": {
+    "en": "23A."
+   },
+   "chapter": {
+    "en": "PART III DUTIES OF QUALIFIED PERSONS, SITE SUPERVISORS AND BUILDERS DURING CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Large and small-scale building works"
+   },
+   "text": {
+    "en": "23A.—(1) Any building works the value of which is more than $7.5 million shall be large building works for the purposes of section 7(1)(b) of the Act.\n[S 643/2008 wef 18/12/2008]\n(2) Any building works the value of which is not more than $7.5 million are small-scale building works for the purposes of section 7(1)(c) of the Act.\n[S 54/2008 wef 15/02/2008]\n[S 643/2008 wef 18/12/2008]"
+   }
+  },
+  {
+   "id": "SG-H379-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART III DUTIES OF QUALIFIED PERSONS, SITE SUPERVISORS AND BUILDERS DURING CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Site supervisors"
+   },
+   "text": {
+    "en": "24.—(1) For the purposes of section 10(1)(a) of the Act, the team of site supervisors appointed in respect of the structural elements of any large building works shall comprise the following number of persons:\n(a)where the value of the large building works is more than $7.5 million but not exceeding $15 million — one site supervisor who is a resident technical officer;\n[S 643/2008 wef 18/12/2008]\n(b)where the value of the large building works is more than $15 million but not exceeding $30 million —\n(i)one site supervisor who is a resident engineer; or\n(ii)one site supervisor who is a resident technical officer, if the building works are at the stage when they comprise ancillary works, external works or ancilliary and external works;\n[S 709/2017 wef 15/12/2017]\n(c)where the value of the large building works is more than $30 million but not exceeding $75 million —\n(i)2 site supervisors, one of whom must be a resident engineer and the other must be a resident technical officer;\n(ii)one site supervisor who is a resident engineer, if —\n(A)the building works are at the stage when they comprise only piling and foundation works; or\n(B)the building works are at least 80% completed as measured by gross floor area; or\n(iii)one site supervisor who is a resident technical officer, if the building works are at the stage when they comprise ancillary works, external works or ancilliary and external works;\n[S 709/2017 wef 15/12/2017]\n(d)where the value of the large building works is more than $75 million but not exceeding $150 million —\n(i)3 site supervisors, one of whom must be a resident engineer and the other 2 must each be a resident technical officer;\n(ii)2 site supervisors, one of whom must be a resident engineer and the other must be a resident technical officer, if —\n(A)the building works are at the stage when they comprise only piling and foundation works; or\n(B)the building works are at least 80% completed as measured by gross floor area; or\n(iii)one site supervisor who is a resident technical officer, if the building works are at the stage when they comprise ancillary works, external works or ancilliary and external works;\n[S 709/2017 wef 15/12/2017]\n(e)where the value of the large building works is more than $150 million —\n(i)5 site supervisors, 2 of whom must each be a resident engineer and the other 3 must each be a resident technical officer;\n(ii)6 site supervisors, one of whom must be a resident engineer and the other 5 must each be a resident technical officer;\n(iii)if the building works are at the stage when they comprise only piling and foundation works —\n(A)3 site supervisors, 2 of whom must each be a resident engineer and the other must be a resident technical officer; or\n(B)4 site supervisors, one of whom must be a resident engineer and the other 3 must each be a resident technical officer;\n(iv)2 site supervisors, one of whom must be a resident engineer and the other must be a resident technical officer, if the building works are at least 80% completed as measured by gross floor area; or\n(v)one site supervisor who is a resident technical officer, if the building works are at the stage when they comprise ancillary works, external works or ancilliary and external works.\n[S 709/2017 wef 15/12/2017]\n(2) For the purposes of section 10(3)(a) of the Act, no person shall be appointed as a site supervisor in respect of any building works unless he is a resident technical officer or a resident engineer.\n(3) For the purposes of section 10(3)(b) of the Act, the Joint Accreditation Committee of the Institution of Engineers Singapore (IES) and the Association of Consulting Engineers Singapore (ACES) is the organisation to which a person must be and remain accredited with in order to be appointed as a site supervisor in respect of any building works.\n(4) In this regulation —\n“Building and Construction Authority Academy” has the same meaning as in the Building and Construction Authority (Registration of Construction Personnel) Regulations 2008 (G.N. No. S 642/2008);\n[S 665/2013 wef 01/04/2014]\n“resident engineer” means any person who —\n(a)is a professional engineer in the civil or structural engineering discipline registered under the Professional Engineers Act 1991;\n[S 579/2022 wef 31/12/2021]\n(b)possesses a university degree or any other professional qualification recognised by the Professional Engineers Board for registration as a professional engineer under the Professional Engineers Act 1991 in the civil or structural engineering discipline;\n[S 579/2022 wef 31/12/2021]\n(c)possesses a postgraduate master’s degree or doctoral degree in Civil Engineering or Structural Engineering from any university recognised by the Professional Engineers Board for registration as a professional engineer under the Professional Engineers Act 1991;\n[S 579/2022 wef 31/12/2021]\n(d)is a Chartered Engineer registered by the Engineering Council United Kingdom in the Civil Engineering or Structural Engineering discipline;\n(e)possesses a university degree in Civil Engineering or Structural Engineering from any university that is specified by the Commissioner of Building Control in the list that is —\n(i)obtainable from his office at the Building and Construction Authority, 52 Jurong Gateway Road #11-01, Singapore 608550; and\n[S 709/2017 wef 15/12/2017]\n(ii)available in the Internet website of the Building and Construction Authority at https://www1.bca.gov.sg,\n[S 134/2026 wef 31/03/2026]\nand has at least one year of relevant postgraduate practical experience in design or construction of structural works as may be acceptable to the Commissioner of Building Control; or\n(f)possesses such other qualification and period of practical experience as the Commissioner of Building Control may determine, being a qualification and practical experience that is substantially equivalent to any qualification and practical experience referred to in paragraphs (a) to (e);\n“resident technical officer” means any person who —\n(a)possesses a degree from any local university or a diploma from any local polytechnic in Civil Engineering or Structural Engineering;\n(b)possesses a diploma in any construction-related field from any local polytechnic or the Building and Construction Authority Academy, and has at least one year of such relevant practical experience in full-time supervision of structural works in construction sites in Singapore as may be acceptable to the Commissioner of Building Control;\n[S 665/2013 wef 01/04/2014]\n(c)possesses a diploma or higher certificate from any foreign polytechnic in Civil Engineering or Structural Engineering and has at least 2 years of such relevant practical experience in full-time supervision of structural works in construction sites as may be acceptable to the Commissioner of Building Control;\n[S 709/2017 wef 15/12/2017]\n(d)[Deleted by S 665/2013 wef 01/04/2014]\n(e)possesses a degree from any foreign university in Civil Engineering or Structural Engineering and has at least 2 years of such relevant practical experience in full-time supervision of structural works in construction sites as may be acceptable to the Commissioner of Building Control;\n[S 709/2017 wef 15/12/2017]\n(f)possesses a National Certificate on Construction Supervision (NCCS) from the Building and Construction Authority Academy and has at least one year of such relevant practical experience in full‑time supervision of structural works in construction sites in Singapore as may be acceptable to the Commissioner of Building Control; or\n[S 665/2013 wef 01/04/2014]\n(g)possesses such other qualification and period of post‑qualification practical experience in full-time supervision of structural works in construction sites as the Commissioner of Building Control may determine, being a qualification and practical experience that is substantially equivalent to any qualification and practical experience referred to in paragraphs (a) to (f).\n[S 54/2008 wef 15/02/2008]\n[S 665/2013 wef 01/04/2014]\n(5) For the purposes of paragraph (1), a reference to any ancillary works, external works or ancilliary and external works, as the case may be, includes a reference to any construction of any external cladding, safety barrier, covered walkway or detached single storey building.\n[S 709/2017 wef 15/12/2017]"
+   }
+  },
+  {
+   "id": "SG-H379-A24.001",
+   "no": 24.001,
+   "noLabel": {
+    "en": "24A."
+   },
+   "chapter": {
+    "en": "PART III DUTIES OF QUALIFIED PERSONS, SITE SUPERVISORS AND BUILDERS DURING CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Duties of qualified persons regarding geotechnical building works"
+   },
+   "text": {
+    "en": "24A.—(1) Every qualified person appointed under section 8(1)(a) or 11(1)(d)(i) of the Act to prepare the plans of geotechnical aspects of geotechnical building works shall carry out the tasks set out in Part I of the Eighth Schedule.\n[S 591/2012 wef 01/12/2012]\n(2) Every supervising qualified person appointed in respect of the geotechnical aspects of geotechnical building works shall carry out the tasks set out in Part II of the Eighth Schedule.\n[S 250/2008 wef 01/10/2008]\n[S 591/2012 wef 01/12/2012]"
+   }
+  },
+  {
+   "id": "SG-H379-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART III DUTIES OF QUALIFIED PERSONS, SITE SUPERVISORS AND BUILDERS DURING CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Change of builder"
+   },
+   "text": {
+    "en": "25. If any builder is unwilling or unable to carry out his duties, his notification given under section 11(4) of the Act to the Commissioner of Building Control shall be accompanied by a summary report describing the building works completed by him and his certificate of completion in such form as the Commissioner of Building Control may require.\n[S 54/2008 wef 15/02/2008]"
+   }
+  },
+  {
+   "id": "SG-H379-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART IV DESIGN AND CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Compliance with design and construction requirements"
+   },
+   "text": {
+    "en": "26. Subject to the Act and regulation 27, all buildings shall be designed and all building works shall be carried out in compliance with the objectives and performance requirements set out in the Fifth Schedule and any other requirement in these Regulations."
+   }
+  },
+  {
+   "id": "SG-H379-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART IV DESIGN AND CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Acceptable solutions"
+   },
+   "text": {
+    "en": "27.—(1) The Commissioner of Building Control may issue, in such form as he thinks fit, and from time to time amend, one or more Approved Documents setting out the specifications, materials, designs or methods of construction (referred to in these Regulations as acceptable solutions) which shall, without prejudice to any alternative means of achieving compliance, be deemed to comply with the relevant objectives and performance requirements set out in the Fifth Schedule for the design and construction of buildings or endorse, in whole or in part, any document for use in establishing compliance with the requirements of these Regulations.\n(2) The plans of any building works that are prepared in accordance with the acceptable solutions and any building works carried out in accordance with the acceptable solutions shall be deemed to comply with the relevant objectives and performance requirements set out in the Fifth Schedule."
+   }
+  },
+  {
+   "id": "SG-H379-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART IV DESIGN AND CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Civil defence shelters"
+   },
+   "text": {
+    "en": "28. Where any building is required to be provided with a household shelter, public shelter or storey shelter under the Civil Defence Shelter Act 1997, the shelter shall be designed and constructed in accordance with the following applicable technical codes issued by the Commissioner of Civil Defence under section 14 of that Act:\n(a)Technical Requirements for Household Shelters;\n(aa)Technical Requirements for Storey Shelters;\n[S 709/2017 wef 15/12/2017]\n(b)Technical Requirements for S1-S5 Public Shelters;\n(c)Technical Requirements for S6-S9 Public Shelters;\n[S 709/2017 wef 15/12/2017]\n(d)Technical Requirements for S10-S29 Public Shelters;\n[S 709/2017 wef 15/12/2017]\n(e)CD Shelter Requirements for MRT Stations.\n[S 709/2017 wef 15/12/2017]\n[S 579/2022 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H379-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART IV DESIGN AND CONSTRUCTION"
+   },
+   "text": {
+    "en": "29. [Deleted by S 616/2025 wef 01/10/2025]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H379-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART IV DESIGN AND CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Protective hoardings"
+   },
+   "text": {
+    "en": "30.—(1) Where —\n(a)any builder appointed under section 8(1) of the Act intends to —\n(i)erect or demolish any building;\n(ii)alter or repair an outer part of any building;\n(iii)carry out any foundation works or basement excavation including any temporary retaining works; or\n(iv)carry out any site formation works; and\n[S 54/2008 wef 15/02/2008]\n(b)such works are likely to cause obstruction or inconvenience to or endanger members of the public,\nthe builder shall, before commencing such works, erect or cause to be erected protective hoardings or other similar temporary structures of solid and robust construction to the satisfaction of the Commissioner of Building Control in order to separate the building or the entire site where such works are intended to be carried out from a street, footway or any adjoining or adjacent property.\n(2) Where the building under construction, demolition, alteration or repair is more than one storey in height and abuts or is near a street or other buildings, the builder shall provide catch platforms, safety nettings and other measures for the safety of the public.\n[S 709/2017 wef 15/12/2017]\n(3) The builder must, in relation to —\n(a)the protective hoardings and other similar temporary structures mentioned in paragraph (1); and\n(b)the catch platforms, safety nettings and other measures for the safety of the public mentioned in paragraph (2),\ncomply with regulation 20 of the Building Control (Temporary Buildings) Regulations 2018 (G.N. No. S 807/2018).\n[S 808/2018 wef 01/03/2019]\n(4) The builder must, within such time as may be specified by the Commissioner of Building Control, take such steps, precautions or safety measures as required by the Commissioner of Building Control in relation to a protective structure and must do so to the satisfaction of the Commissioner of Building Control.\n[S 808/2018 wef 01/03/2019]\n(5) On completion of the building works, the builder must remove or cause to be removed all protective structures erected for the building works, to the satisfaction of the Commissioner of Building Control.\n[S 808/2018 wef 01/03/2019]\n(6) In this regulation, “protective structure” means a protective hoarding (and footways, if any) or other similar temporary structure mentioned in paragraph (1) or a catch platform, safety netting and other safety measure mentioned in paragraph (2).\n[S 808/2018 wef 01/03/2019]"
+   }
+  },
+  {
+   "id": "SG-H379-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART IV DESIGN AND CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Site investigation"
+   },
+   "text": {
+    "en": "31.—(1) Where foundation, tunnels, site formation (including excavations) or related earthworks are proposed to be constructed or carried out on any premises, an investigation of the site shall be undertaken by the qualified person appointed under section 8(1)(a) or 11(1)(d)(i) of the Act in respect of the structural elements of the relevant building works in order to establish the type and character of the ground and groundwater conditions on which the foundations, tunnels, site formation (including excavations) or earthworks are to be constructed or carried out.\n(2) Whenever any site investigation is to be carried out, the qualified person appointed under section 8(1)(a) or 11(1)(d)(i) of the Act shall carry out proper and adequate site investigation —\n(a)in accordance with the relevant standards and codes of practice;\n[S 709/2017 wef 31/12/2018]\n(b)by conducting adequate investigation boreholes and other appropriate investigation means, in-situ field tests and laboratory tests to establish the ground and groundwater conditions, their variability and the geotechnical aspects for the works to be carried out; and\n[S 709/2017 wef 31/12/2018]\n(c)by ensuring that all site investigation works are carried out by an accredited inspection body approved by the Singapore Accreditation Council under the Council’s scheme for Accreditation of Inspection Bodies for Site Investigation.\n[S 709/2017 wef 31/12/2018]\n(3) Whenever any site investigation is to be carried out in respect of the building works, the qualified person appointed under section 8(1)(a) or 11(1)(d)(i) of the Act shall submit the site investigation reports to the Commissioner of Building Control and in accordance with paragraph (4).\n(4) All site investigation reports shall contain field and laboratory data, and tests and results, and shall be accompanied by a certificate from an appropriate professional engineer who, having carried out, supervised or directed the site investigation, certifies that he has verified the accuracy of the information given in the site investigation report.\n[S 54/2008 wef 15/02/2008]"
+   }
+  },
+  {
+   "id": "SG-H379-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART IV DESIGN AND CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Pre-construction survey"
+   },
+   "text": {
+    "en": "32.—(1) Where any demolition of any building, or any piling or foundation works, any tunnelling works, or any site formation works (including excavation works) are to be constructed or carried out, the builder shall, before commencing such works, carry out a pre-construction survey to establish the condition of existing buildings and structures adjacent or in otherwise close proximity to the building works.\n(2) Before the building works commence, the builder shall give to each owner of every existing building and structure adjacent or in otherwise close proximity to the building works a copy of the report of a pre-construction survey carried out under paragraph (1) (referred to as the pre-construction survey report) on the owner’s property.\n(3) The builder shall keep at the site a complete set of all the pre-construction survey reports of pre-construction surveys carried out under paragraph (1) by the builder.\n[S 54/2008 wef 15/02/2008]"
+   }
+  },
+  {
+   "id": "SG-H379-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART IV DESIGN AND CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Impact assessment report"
+   },
+   "text": {
+    "en": "33.—(1) The report of any investigation under regulation 31 or 32 shall contain recommendations on the measures to be taken in connection with the construction or carrying out of any demolition of a building, any piling or foundation works, any tunnelling works, or any site formation works (including excavation works) so as to prevent any settlement or other movement which may impair the stability of or cause damage to the whole or part of any premises or building adjacent or in otherwise close proximity to the building works.\n[S 54/2008 wef 15/02/2008]\n[S 709/2017 wef 15/12/2017]\n(2) The builder must carry out every measure mentioned in paragraph (1).\n[S 709/2017 wef 15/12/2017]"
+   }
+  },
+  {
+   "id": "SG-H379-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART IV DESIGN AND CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Measures to protect trenches and pits"
+   },
+   "text": {
+    "en": "34. The builder appointed shall take measures to ensure that the trenches and pits at the site are adequately protected against erosion, failure and instability at all times.\n[S 54/2008 wef 15/02/2008]"
+   }
+  },
+  {
+   "id": "SG-H379-A34.001",
+   "no": 34.001,
+   "noLabel": {
+    "en": "34A."
+   },
+   "chapter": {
+    "en": "PART IV DESIGN AND CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Formation of new slope or embankment"
+   },
+   "text": {
+    "en": "34A. Where the building works result in the formation of a new slope or embankment, the qualified person appointed under section 8(1)(a) or 11(1)(d)(i) of the Act shall determine and ascertain the integrity and stability of the new slope or embankment; and where appropriate, provide or cause to be provided a retaining wall or other earth retaining structure, or protective measures to stabilise the new slope or embankment.\n[S 54/2008 wef 15/02/2008]\n[S 101/2020 wef 10/02/2020]"
+   }
+  },
+  {
+   "id": "SG-H379-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART IV DESIGN AND CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Drainage of excavations"
+   },
+   "text": {
+    "en": "35.—(1) The builder shall provide or cause to be provided, and shall maintain, proper and adequate drainage for all excavations as long as the excavations continue.\n[S 54/2008 wef 15/02/2008]\n(2) Where any lowering of the water table is envisaged, the builder shall carry out or cause to be carried out adequate provisions to ensure that the lowering of the water table will not cause any damage to surrounding structures, roads and other properties.\n[S 54/2008 wef 15/02/2008]"
+   }
+  },
+  {
+   "id": "SG-H379-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART IV DESIGN AND CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Protection of foundations and excavations"
+   },
+   "text": {
+    "en": "36.—(1) The builder shall provide or cause to be provided earth retaining structures to protect the sides of all foundations or excavations for any building works so as to prevent any settlement or other movement which may impair the stability of or cause damage to the whole or part of any adjoining premises or building.\n[S 101/2020 wef 10/02/2020]\n(2) The supervising qualified person appointed in respect of any building works shall regularly inspect the excavations and earth retaining structures referred to in paragraph (1) comprised in the building works and the builder shall maintain their safe condition at all times as long as the excavations remain.\n[S 54/2008 wef 15/02/2008]\n[S 101/2020 wef 10/02/2020]"
+   }
+  },
+  {
+   "id": "SG-H379-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART IV DESIGN AND CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Instrumentation and monitoring results"
+   },
+   "text": {
+    "en": "37.—(1) Where required, the supervising qualified person appointed in respect of any building works shall provide to the Commissioner of Building Control the results of any instrumentation monitoring carried out on the site of the building works.\n(2) The supervising qualified person appointed in respect of any building works shall —\n(a)regularly inspect all instrumentation for monitoring, including any settlement or movement or deformation of the ground in relation to which the building works are carried out and the structure of adjacent properties and analyse the results thereof; and\n(b)report periodically to the Commissioner of Building Control the instrumentation monitoring results.\n(3) When any ground movement exceeds the allowable limits, the supervising qualified person appointed in respect of any building works and the builder of those building works shall notify the Commissioner of Building Control as soon as practicable regarding such movement.\n(4) A builder of any building works shall —\n(a)where applicable, provide or cause to be provided protective measures for the structures of adjacent properties so that their safe condition is maintained at all times as long as the excavations continue;\n(b)put in place protective measures to prevent damage to the instrumentation for monitoring referred to in paragraph (2);\n(c)notify the supervising qualified person appointed in respect of the building works of any such instrumentation that is damaged as soon as practicable; and\n(d)replace or cause to be replaced any such instrumentation that is damaged or malfunctioning in a timely manner.\n[S 54/2008 wef 15/02/2008]"
+   }
+  },
+  {
+   "id": "SG-H379-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART IV DESIGN AND CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Materials for construction"
+   },
+   "text": {
+    "en": "38.—(1) No person shall use or cause to be used in any building works any material specified in the Sixth Schedule without the permission of the Commissioner of Building Control.\n[S 54/2008 wef 15/02/2008]\n(2) The Commissioner of Building Control may grant permission under paragraph (1) subject to such terms and conditions as he thinks fit and such terms and conditions shall be complied with by the person to whom permission is granted.\n(3) The Commissioner of Building Control may, at any time in writing, direct the supervising qualified person appointed in respect of any building works or the builder thereof to furnish to the Commissioner of Building Control within 14 days from the date of receipt of such written direction —\n(a)samples of the materials used in the building works;\n(b)information on the source thereof;\n(c)specifications of the materials; and\n(d)reports of tests carried out on the materials,\nand the supervising qualified person or builder shall comply with such direction.\n[S 54/2008 wef 15/02/2008]"
+   }
+  },
+  {
+   "id": "SG-H379-A38.001",
+   "no": 38.001,
+   "noLabel": {
+    "en": "38A."
+   },
+   "chapter": {
+    "en": "PART IV DESIGN AND CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Ready-mixed concrete"
+   },
+   "text": {
+    "en": "38A.—(1) No person shall use or cause to be used any ready‑mixed concrete for structural elements in any major building works, unless —\n(a)the ready‑mixed concrete is obtained from a plant which holds a valid product conformity certificate; and\n(b)the specification of the ready‑mixed concrete is listed in the product conformity certificate.\n[S 665/2013 wef 28/10/2013]\n(2) In this regulation, “product conformity certificate” means a certificate issued by a certification body accredited by the Singapore Accreditation Council under the Council’s Accredited Scheme for Product Certification Bodies for the certification of ready‑mixed concrete.\n[S 709/2017 wef 15/12/2017]"
+   }
+  },
+  {
+   "id": "SG-H379-A38.002",
+   "no": 38.002,
+   "noLabel": {
+    "en": "38B."
+   },
+   "chapter": {
+    "en": "PART IV DESIGN AND CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Prohibited designs for exterior of building"
+   },
+   "text": {
+    "en": "38B.—(1) Subject to paragraph (2), no person shall install or permit the installation of any movable panel that is to be fixed on the exterior surface of a building or any part thereof.\n(2) Paragraph (1) shall not apply to the installation of any movable panel on the exterior surface of a detached, semi‑detached, terrace or linked house, or any part thereof, that is used solely as a residence.\n(3) In this regulation, “movable panel” includes a board, frame, plank, pane and the like which is designed to slide along a guide or track, or pivot about a pin, and which is constructed of any material.\n[S 665/2013 wef 28/10/2013]"
+   }
+  },
+  {
+   "id": "SG-H379-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART IV DESIGN AND CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Construction tests"
+   },
+   "text": {
+    "en": "39.—(1) The tests to be conducted of or in connection with building works under section 7A(1) of the Act shall be in accordance with the objectives and performance requirements set out in the Fifth Schedule.\n[S 54/2008 wef 15/02/2008]\n(2) For the purposes of section 7A(2) of the Act, construction tests to be carried out in respect of the materials used in the building works and the building works shall be carried out in the following manner:\n(a)any test that is to be carried out at the premises where building works are carried out shall be carried out under the direction and supervision of the supervising qualified person appointed in respect of those building works;\n[S 54/2008 wef 15/02/2008]\n(b)any test that is to be carried out in accordance with approved standards in a laboratory shall be carried out in a laboratory approved by the Singapore Accreditation Council under the Singapore Laboratory Accreditation Scheme (SAC-SINGLAS);\n[S 54/2008 wef 15/02/2008]\n(c)the taking of any sample of subject-matter for carrying out such tests shall be carried out under the supervision and direction of the supervising qualified person appointed in respect of those building works; and\n[S 54/2008 wef 15/02/2008]\n(d)any test of materials used in building works shall be conducted on a sample taken from the same materials used or to be used in the building works."
+   }
+  },
+  {
+   "id": "SG-H379-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART IV DESIGN AND CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Failure of test"
+   },
+   "text": {
+    "en": "40.—(1) Where any test carried out at the premises or in any accredited laboratory fails to meet the minimum requirements stipulated in these Regulations or any approved code of practice, the supervising qualified person shall —\n(a)notify the Commissioner of Building Control as soon as practicable; and\n(b)together with the qualified person appointed under section 8(1)(a) or 11(1)(d)(i) of the Act recommend appropriate steps, measures or remedial works to be carried out.\n[S 54/2008 wef 15/02/2008]\n(2) Where the steps, measures or remedial works recommended under paragraph (1)(b) are acceptable to the Commissioner of Building Control, the Commissioner of Building Control may —\n(a)direct the supervising qualified person to implement, or cause to be implemented, the recommendations within such period of time as may be specified by the Commissioner of Building Control; or\n[S 54/2008 wef 15/02/2008]\n(b)give any other written direction on other appropriate steps or measures to be taken,\nand the supervising qualified person shall comply with such direction.\n[S 54/2008 wef 15/02/2008]"
+   }
+  },
+  {
+   "id": "SG-H379-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART IV DESIGN AND CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Taking of samples for analysis"
+   },
+   "text": {
+    "en": "41.—(1) For the purposes of section 33(2) of the Act and subject to paragraph (2), any sample of building materials used in any building works shall be taken in the following manner:\n(a)the person taking the sample (referred to in this regulation as a sampling officer) shall immediately notify the developer, the supervising qualified person appointed in respect of the building works or any other person having possession of the building materials of his intention to take the sample;\n[S 54/2008 wef 15/02/2008]\n(b)the sampling officer shall, after taking the sample, immediately divide the sample into 3 parts and cause each part to be marked and sealed or fastened in such manner as its nature will permit in the presence of the person referred to in paragraph (1)(a);\n(c)the sampling officer shall deliver one part of the sample to the person referred to in paragraph (1)(a); and\n(d)the sampling officer shall personally deliver one part of the sample to an analyst for analysis and retain the remaining one part for future comparison.\n(2) Where it is not reasonably practicable to divide any sample or the division of the sample might impede the proper analysis of the materials, paragraph (1) shall be taken to be complied with if the sampling officer —\n(a)causes the sample to be marked and sealed or fastened in such manner as its nature will permit in the presence of the person referred to in paragraph (1)(a); and\n(b)then personally delivers the sample to an analyst for analysis."
+   }
+  },
+  {
+   "id": "SG-H379-A41.001",
+   "no": 41.001,
+   "noLabel": {
+    "en": "41A."
+   },
+   "chapter": {
+    "en": "PART IVA INSTALLATION OF EXTERIOR FEATURES"
+   },
+   "heading": {
+    "en": "Definitions of this Part"
+   },
+   "text": {
+    "en": "41A. In this Part ––\n“air-conditioning unit” includes a window air-conditioning unit and any condensing equipment of an air-conditioning unit;\n“approved window contractor” means a company or firm which is registered by the Authority as an approved window contractor under the regulatory work-head RW01 of the Authority’s Contractors’ Registry;\n“Authority” means the Building and Construction Authority;\n“installation” includes repairing, replacing, modifying and other works connected with or carried out for the purpose of installation;\n“trained air-conditioning unit installer” means an individual certified by the Authority as a trained air-conditioning unit installer;\n“trained window installer” means an individual certified by the Authority as a trained window installer.\n[S 598/2004 wef 01/10/2004]"
+   }
+  },
+  {
+   "id": "SG-H379-A41.002",
+   "no": 41.002,
+   "noLabel": {
+    "en": "41B."
+   },
+   "chapter": {
+    "en": "PART IVA INSTALLATION OF EXTERIOR FEATURES"
+   },
+   "heading": {
+    "en": "Installation of air-conditioning unit by trained air-conditioning unit installer"
+   },
+   "text": {
+    "en": "41B.—(1) Any person who desires to install an air-conditioning unit on the exterior of any building or which projects outwards from any building shall engage a trained air-conditioning unit installer to carry out the installation works relating to the air-conditioning unit.\n(2) No person shall install any air-conditioning unit on the exterior of any building or which projects outwards from any building unless he is a trained air-conditioning unit installer.\n(3) Any person who contravenes paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.\n[S 598/2004 wef 01/10/2004]"
+   }
+  },
+  {
+   "id": "SG-H379-A41.003",
+   "no": 41.003,
+   "noLabel": {
+    "en": "41C."
+   },
+   "chapter": {
+    "en": "PART IVA INSTALLATION OF EXTERIOR FEATURES"
+   },
+   "heading": {
+    "en": "Duties of trained air-conditioning unit installer"
+   },
+   "text": {
+    "en": "41C.—(1) Subject to paragraph (2), every trained air-conditioning unit installer engaged to carry out the installation works relating to an air-conditioning unit under regulation 41B shall install a structural supporting system for the air-conditioning unit that complies with the specifications set out in Part I, II, III or IV of the Seventh Schedule, as the case may be, and the requirements in this Part.\n[S 905/2022 wef 01/03/2023]\n(2) A trained air-conditioning unit installer may depart from the specifications and requirements under paragraph (1) if ––\n(a)he has obtained the prior written approval of the Commissioner of Building Control to such departure; or\n(b)in relation to a flat or building in any housing estate of the Housing and Development Board, he has complied with the specifications approved by that Board.\n(3) A trained air-conditioning unit installer shall, not later than 14 days after the completion of installation works relating to any air-conditioning unit, submit a report of the completed works to the Commissioner of Building Control, in such form as the Commissioner of Building Control shall determine.\n(4) Any trained air-conditioning unit installer who fails to comply with paragraph (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.\n[S 598/2004 wef 01/10/2004]"
+   }
+  },
+  {
+   "id": "SG-H379-A41.004",
+   "no": 41.004,
+   "noLabel": {
+    "en": "41D."
+   },
+   "chapter": {
+    "en": "PART IVA INSTALLATION OF EXTERIOR FEATURES"
+   },
+   "heading": {
+    "en": "Installation of window by trained window installer, etc."
+   },
+   "text": {
+    "en": "41D.—(1) Any person who desires to install a window on any building shall engage an approved window contractor or a builder to install the window.\n[S 665/2013 wef 28/10/2013]\n(1A) Any person who desires to install, in the course of any building works, a window that is to be an exterior feature of a building, shall engage a builder to perform the installation.\n[S 665/2013 wef 28/10/2013]\n(2) Subject to paragraph (2A), no person shall install any window that is or is to be an exterior feature of any building unless —\n(a)he is a trained window installer; or\n(b)he is doing so under the supervision and guidance of a trained window installer.\n[S 478/2007 wef 17/09/2007]\n(2A) No trained window installer shall install, or supervise and guide the installation of, any window that is or is to be an exterior feature of any building unless he is —\n(a)a director;\n(b)a partner;\n(c)the sole proprietor; or\n(d)an employee,\nof an approved window contractor or a builder engaged under paragraph (1) or (1A), as the case may be.\n[S 478/2007 wef 17/09/2007]\n[S 665/2013 wef 28/10/2013]\n(3) Any person who contravenes paragraph (1), (1A), (2) or (2A) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.\n[S 598/2004 wef 01/10/2004]\n[S 478/2007 wef 17/09/2007]\n[S 665/2013 wef 28/10/2013]"
+   }
+  },
+  {
+   "id": "SG-H379-A41.105",
+   "no": 41.105,
+   "noLabel": {
+    "en": "41DA."
+   },
+   "chapter": {
+    "en": "PART IVA INSTALLATION OF EXTERIOR FEATURES"
+   },
+   "heading": {
+    "en": "Replacement or reinstatement of safety barrier integrated with a window by approved window contractor, etc."
+   },
+   "text": {
+    "en": "41DA.—(1) A person who desires to replace or reinstate a safety barrier integrated with a window —\n(a)for or in connection with the replacement or reinstatement of a railing, balustrade or similar barrier constructed of any material other than non-laminated glass, using the same material, design and fixing details; or\n(b)in a residential building in accordance with the standardised design,\nmust engage an approved window contractor or a builder for the replacement or reinstatement.\n(2) Subject to paragraph (3), a person must not carry out a replacement or reinstatement mentioned in paragraph (1) unless —\n(a)the person is a trained window installer who has completed the Module on Replacement and Reinstatement of Safety Barriers Integrated with Windows that is approved by the Authority; or\n(b)the person does so under the supervision and guidance of a trained window installer who has completed the Module on Replacement and Reinstatement of Safety Barriers Integrated with Windows that is approved by the Authority.\n(3) A trained window installer must not replace or reinstate, or supervise and guide the replacement or reinstatement of, a safety barrier integrated with a window in the circumstances mentioned in paragraph (1) unless he is one of the following of an approved window contractor or a builder engaged under paragraph (1):\n(a)a director;\n(b)a partner;\n(c)the sole proprietor;\n(d)an employee.\n(4) Any person who contravenes paragraph (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.\n[S 905/2022 wef 01/03/2023]"
+   }
+  },
+  {
+   "id": "SG-H379-A41.005",
+   "no": 41.005,
+   "noLabel": {
+    "en": "41E."
+   },
+   "chapter": {
+    "en": "PART IVA INSTALLATION OF EXTERIOR FEATURES"
+   },
+   "heading": {
+    "en": "Duties of builder, approved window contractor and trained window installer"
+   },
+   "text": {
+    "en": "41E.—(1) Every builder, approved window contractor or trained window installer appointed to install a window under regulation 41D or appointed to replace or reinstate a safety barrier integrated with a window under regulation 41DA shall carry out the works in compliance with the objectives and performance requirements set out in the Fifth Schedule and the requirements in this Part.\n[S 598/2004 wef 01/10/2004]\n[S 665/2013 wef 28/10/2013]\n[S 905/2022 wef 01/03/2023]\n(1A) A builder or an approved window contractor appointed under regulation 41D(1) to carry out the replacement or modification of windows or appointed under regulation 41DA(1) to carry out the reinstatement or replacement of a safety barrier integrated with a window shall, not later than 14 days after the completion of the replacement, modification or reinstatement works, submit a certification of the completion of work to the Commissioner of Building Control in such form or manner as the Commissioner of Building Control may determine.\n[S 665/2013 wef 28/10/2013]\n[S 905/2022 wef 01/03/2023]\n(2) Any builder or approved window contractor who fails to comply with paragraph (1) or (1A), and any trained window installer who fails to comply with paragraph (1), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.\n[S 665/2013 wef 28/10/2013]"
+   }
+  },
+  {
+   "id": "SG-H379-A41.006",
+   "no": 41.006,
+   "noLabel": {
+    "en": "41F."
+   },
+   "chapter": {
+    "en": "PART IVA INSTALLATION OF EXTERIOR FEATURES"
+   },
+   "heading": {
+    "en": "Qualifications for certification as trained air-conditioning unit installer"
+   },
+   "text": {
+    "en": "41F. No person shall be certified by the Authority as a trained air-conditioning unit installer unless he has completed such training course on the installation of a structural supporting system to support an air-conditioning unit as the Authority may require.\n[S 598/2004 wef 01/10/2004]"
+   }
+  },
+  {
+   "id": "SG-H379-A41.007",
+   "no": 41.007,
+   "noLabel": {
+    "en": "41G."
+   },
+   "chapter": {
+    "en": "PART IVA INSTALLATION OF EXTERIOR FEATURES"
+   },
+   "heading": {
+    "en": "Requirements for registration as approved window contractor"
+   },
+   "text": {
+    "en": "41G. The Authority may register as an approved window contractor any company or firm which ––\n(a)is recognised by the Housing and Development Board as a trained window contractor; or\n(b)has at least 2 trained window installers each of whom is either a director, a partner, the sole proprietor or an employee of the company or firm, as the case may be.\n[S 598/2004 wef 01/10/2004]"
+   }
+  },
+  {
+   "id": "SG-H379-A41.008",
+   "no": 41.008,
+   "noLabel": {
+    "en": "41H."
+   },
+   "chapter": {
+    "en": "PART IVA INSTALLATION OF EXTERIOR FEATURES"
+   },
+   "heading": {
+    "en": "Qualifications for certification as trained window installer"
+   },
+   "text": {
+    "en": "41H. No person shall be certified by the Authority as a trained window installer unless —\n(a)he has completed such training course on safety of windows as the Authority may require; and\n(b)he has, before commencing the training course in paragraph (a), acquired 12 months or such other period of practical experience in the installation of windows as the Authority may require.\n[S 598/2004 wef 01/10/2004]\n[S 478/2007 wef 17/09/2009]"
+   }
+  },
+  {
+   "id": "SG-H379-A41.009",
+   "no": 41.009,
+   "noLabel": {
+    "en": "41I."
+   },
+   "chapter": {
+    "en": "PART IVA INSTALLATION OF EXTERIOR FEATURES"
+   },
+   "heading": {
+    "en": "Revocation of registration"
+   },
+   "text": {
+    "en": "41I.—(1) The Authority may revoke the registration of any approved window contractor which ––\n(a)has been convicted of an offence which, in the opinion of the Authority, renders it unfit to remain registered as an approved window contractor;\n(b)has breached any of the conditions of its registration; or\n(c)is, in the opinion of the Authority, unable to effectively carry out its duties under these Regulations or any other building regulations as an approved window contractor.\n(2) Where the Authority intends to revoke the registration of any approved window contractor under paragraph (1), the Authority shall notify that approved window contractor and give it an opportunity to be heard.\n(3) Any approved window contractor whose registration has been revoked under paragraph (1), may, within 14 days after receiving notice of such revocation, appeal to the Minister whose decision shall be final.\n[S 598/2004 wef 01/10/2004]"
+   }
+  },
+  {
+   "id": "SG-H379-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART V OCCUPATION OF BUILDINGS"
+   },
+   "heading": {
+    "en": "Certificate of statutory completion"
+   },
+   "text": {
+    "en": "42.—(1) On completion of any building works, the developer of the building works shall apply to the Commissioner of Building Control for —\n(a)a certificate of statutory completion; or\n(b)a temporary occupation permit.\n[S 54/2008 wef 15/02/2008]\n(1A) An application to the Commissioner of Building Control for the expedited processing of an application under paragraph (1)(b) must be accompanied by a fee of —\n(a)$500, if the building works are up to 3,000 m2 in area; or\n(b)$1,000, if the building works exceed 3,000 m2 in area.\n[S 134/2026 wef 31/03/2026]\n(1B) An application to the Commissioner of Building Control (in connection with an application under paragraph (1)(b)) to conduct an expedited inspection of the building or any part of the building in respect of which the building works have been carried out must be accompanied by a fee of $3,000.\n[S 134/2026 wef 31/03/2026]\n(1C) To avoid doubt, the fees mentioned in paragraphs (1A) and (1B) are in addition to the fees payable under Parts 2, 3 and 3A of the Second Schedule.\n[S 134/2026 wef 31/03/2026]\n(2) The Commissioner of Building Control may issue a certificate of statutory completion in respect of a building or any part thereof in respect of which any building works have been carried out where —\n(a)the building works have been completed in accordance with the provisions of the Act and these Regulations;\n(b)every report and certificate referred to in regulation 23 have been submitted by the appropriate qualified person to the Commissioner of Building Control in accordance with that regulation;\n(c)the certificate from the builder referred to in section 11(1)(f) of the Act has been submitted to the Commissioner of Building Control in accordance with that provision;\n[S 415/2024 wef 15/06/2024]\n(ca)if the building works are specialist building works — the certificate from the licensed specialist builder referred to in section 11(2)(aa) of the Act has been submitted to the Commissioner of Building Control in accordance with that provision;\n[S 415/2024 wef 15/06/2024]\n(d)all the written directions given by the Commissioner of Building Control to the appropriate qualified person who prepared the plans of the building works or who supervised the carrying out of the building works or part thereof under section 5(3)(b) of the Act have been complied with;\n[S 54/2008 wef 15/02/2008]\n(e)all the requirements either shown or endorsed on the approved or deemed approved plans have been complied with;\n[S 854/2023 wef 18/12/2023]\n(f)the record plans of the detailed structural plans, design calculations and building plans incorporating all the departures or deviations from the approved or deemed approved structural plans, design calculations and building plans have been submitted to the Commissioner of Building Control;\n[S 665/2013 wef 28/10/2013]\n[S 854/2023 wef 18/12/2023]\n(fa)such of the following clearances, permits, approvals, certificates, notifications or certifications as may be applicable have been submitted to the Commissioner of Building Control:\n(i)clearances, permits or approvals under the Fire Safety Act 1993 relating to fire safety from the Commissioner of Civil Defence;\n[S 579/2022 wef 31/12/2021]\n(ii)clearances, permits or approvals under the Sewerage and Drainage Act 1999 relating to sewerage and drainage from the Public Utilities Board;\n[S 579/2022 wef 31/12/2021]\n(iii)clearances, permits, approvals or certifications under the Environmental Protection and Management Act 1999 from the Director‑General of Environmental Protection;\n[S 579/2022 wef 31/12/2021]\n[S 854/2023 wef 18/12/2023]\n(iv)clearances, permits, approvals or certificates under the Street Works Act 1995, Parking Places Act 1974 and Electric Vehicles Charging Act 2022 from the Land Transport Authority of Singapore;\n[S 579/2022 wef 31/12/2021]\n[S 797/2023 wef 08/12/2023]\n(v)clearances, permits or approvals under the Parks and Trees Act 2005 from the Commissioner of Parks and Recreation;\n[S 665/2013 wef 28/10/2013]\n[S 579/2022 wef 31/12/2021]\n[S 302/2023 wef 01/06/2023]\n(vi)any clearance issued by the Urban Redevelopment Authority confirming that all the conditions of an approval by an authorised officer under section 10(1), 12(1) or 13(1) of the Common Services Tunnels Act 2018 have been complied with;\n[S 302/2023 wef 01/06/2023]\n(vii)any notification or certification issued by a market support services licensee that it has checked an electrical installation mentioned in regulation 5(1)(b) of the Electricity (Electrical Installations) Regulations (Rg 5) in accordance with the requirements of the Energy Market Authority of Singapore;\n[S 302/2023 wef 01/06/2023]\n(viii)any approval by the Commissioner of Infrastructure Protection of a certificate of works completion under the Infrastructure Protection Act 2017;\n[S 302/2023 wef 01/06/2023]\n(ix)any clearance issued by the Urban Redevelopment Authority acknowledging that a declaration has been submitted in accordance with section 24B(4) of the Planning Act 1998;\n[S 302/2023 wef 01/06/2023]\n[S 854/2023 wef 18/12/2023]\n(x)any certification issued by the Director-General of Public Health under Part 5A of the Environmental Public Health Act 1987; and\n[S 854/2023 wef 18/12/2023]\n[S 797/2023 wef 08/12/2023]\n(g)such other certificate or document as may be required by the Commissioner of Building Control has been submitted.\n(3) In this regulation —\n“area”, in relation to building works, means —\n(a)the area of the storey or storeys in respect of the general building; or\n(b)the area of the plan view of the specified building,\nor both (including, where applicable, any increase thereof) used for calculating the appropriate fee in Part 2, 3 or 3A of the Second Schedule (as the case may be) for the application for approval of the plans for the building works under section 5 or 5A of the Act, or for the lodgment of the plans under section 5AA of the Act;\n“expedited inspection” means an inspection to be conducted within an expedited time after the receipt of an application for such inspection by the Commissioner of Building Control;\n“expedited processing”, in relation to an application, means the provision of a decision on the application within an expedited time after the receipt of the application by the Commissioner of Building Control;\n“expedited time” means such expedited timelines as the Commissioner of Building Control may specify on the Internet website of the Building and Construction Authority at https://www1.bca.gov.sg;\n“general building” and “specified building” have the meanings given by paragraph 1(1) of the Second Schedule.\n[S 134/2026 wef 31/03/2026]"
+   }
+  },
+  {
+   "id": "SG-H379-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART V OCCUPATION OF BUILDINGS"
+   },
+   "heading": {
+    "en": "Temporary occupation permit"
+   },
+   "text": {
+    "en": "43.—(1) A certificate of statutory completion shall not be issued in respect of any building where —\n(a)there are requirements still to be complied with under the Act or these Regulations;\n(b)any of the written directions or requirements shown or endorsed on the plans have not been fully complied with;\n(c)there are departures or deviations from any approved or deemed approved plans of building works; or\n[S 854/2023 wef 18/12/2023]\n(d)the building works have not been fully completed.\n(2) Notwithstanding paragraph (1), the Commissioner of Building Control may, if he is satisfied that the non-compliance, deviation or non-completion of the building works is neither of a serious nature nor in any way detrimental to the well-being or safety of the persons who may occupy the building or part thereof, grant a temporary occupation permit for the occupation or use of the building.\n(3) A temporary occupation permit may be granted where —\n(a)every report or certificate referred to in regulation 23 by the appropriate qualified person has been submitted to the Commissioner of Building Control;\n(b)the certificate from the builder referred to in section 11(1)(f) of the Act has been submitted to the Commissioner of Building Control in accordance with that provision;\n[S 415/2024 wef 15/06/2024]\n(ba)if the building works are specialist building works — the certificate from the licensed specialist builder referred to in section 11(2)(aa) of the Act has been submitted to the Commissioner of Building Control in accordance with that provision;\n[S 415/2024 wef 15/06/2024]\n(c)the record plans of the detailed structural plans, design calculations and building plans incorporating all the departures or deviations from the approved or deemed approved structural plans, design calculations and building plans have been submitted to the Commissioner of Building Control;\n[S 665/2013 wef 28/10/2013]\n[S 854/2023 wef 18/12/2023]\n(ca)such of the clearances, permits, approvals, certificates, notifications or certifications referred to in regulation 42(2)(fa) as may be applicable have been submitted to the Commissioner of Building Control; and\n[S 665/2013 wef 28/10/2013]\n[S 302/2023 wef 01/06/2023]\n[S 797/2023 wef 08/12/2023]\n(d)such other certificate or document as may be required by the Commissioner of Building Control has been submitted.\n(4) [Deleted by S 665/2013 wef 28/10/2013]"
+   }
+  },
+  {
+   "id": "SG-H379-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART V OCCUPATION OF BUILDINGS"
+   },
+   "heading": {
+    "en": "Separation of part of building under construction"
+   },
+   "text": {
+    "en": "44. Where a temporary occupation permit for part of the building is granted, the person for whom the temporary occupation permit is granted shall ensure that the part that may be occupied are separated from the other parts with proper hoardings or other barriers."
+   }
+  },
+  {
+   "id": "SG-H379-A44.001",
+   "no": 44.001,
+   "noLabel": {
+    "en": "44A."
+   },
+   "chapter": {
+    "en": "PART VA MAINTENANCE OF BUILDINGS"
+   },
+   "heading": {
+    "en": "Appeal against notice to maintain"
+   },
+   "text": {
+    "en": "44A.—(1) For the purposes of section 25F(1) of the Act, a person who intends to appeal against a notice to maintain served under section 25E(4) of the Act may file an appeal in accordance with paragraph (2).\n(2) The appeal must —\n(a)be addressed to the Permanent Secretary, Ministry of National Development;\n(b)be sent by email to MND_HQ@mnd.gov.sg;\n(c)contain —\n(i)a summary of the grounds of appeal; and\n(ii)a succinct presentation of the appellant’s arguments of fact or law supporting each ground of appeal; and\n(d)be accompanied by a copy of the following documents:\n(i)the notice to maintain served on the appellant;\n(ii)any other correspondence between the appellant and the Commissioner of Building Control in relation to the notice to maintain;\n(iii)any other document supporting the ground of the appeal or argument of fact or law.\n[S 616/2025 wef 01/10/2025]"
+   }
+  },
+  {
+   "id": "SG-H379-A44.002",
+   "no": 44.002,
+   "noLabel": {
+    "en": "44B."
+   },
+   "chapter": {
+    "en": "PART VA MAINTENANCE OF BUILDINGS"
+   },
+   "heading": {
+    "en": "Painting of external surface of buildings"
+   },
+   "text": {
+    "en": "44B.—(1) This regulation applies in relation to any external surface of a building that is painted.\n(2) Every owner of a building must ensure that the external surface of the building is painted so as to prevent structural damage to the wall, at intervals of not more than 7 years or such longer interval as the Commissioner of Building Control, in any particular case, may allow in writing.\n(3) Any person who contravenes paragraph (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.\n[S 616/2025 wef 01/10/2025]"
+   }
+  },
+  {
+   "id": "SG-H379-A44.003",
+   "no": 44.003,
+   "noLabel": {
+    "en": "44C."
+   },
+   "chapter": {
+    "en": "PART VA MAINTENANCE OF BUILDINGS"
+   },
+   "heading": {
+    "en": "Maintenance of boundary gates and boundary fences"
+   },
+   "text": {
+    "en": "44C.—(1) This regulation applies in relation to any boundary gate or boundary fence, that is a structure or part of a building.\n(2) If a boundary gate or boundary fence is in a state that it will collapse or be likely to collapse, the owner or owners of the boundary gate or boundary fence must ensure that it is repaired without delay.\n(3) Any person who contravenes paragraph (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.\n(4) In this regulation, “boundary fence” means any fence along the boundary of a property, and includes a boundary wall fence but does not include a retaining wall.\n[S 616/2025 wef 01/10/2025]"
+   }
+  },
+  {
+   "id": "SG-H379-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART VI MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Overloading"
+   },
+   "text": {
+    "en": "45.—(1) No building shall be subjected to any load beyond its design loads as indicated in the approved or deemed approved detailed structural plans and design calculations relating to the building.\n[S 854/2023 wef 18/12/2023]\n(2) Paragraph (1) shall not apply with respect to any load which may be required or permitted by the Commissioner of Building Control for the purpose of load testing."
+   }
+  },
+  {
+   "id": "SG-H379-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART VI MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Notice as to loads"
+   },
+   "text": {
+    "en": "46. In every storey of a non-residential building, there shall be exhibited by the owner of the building, at an appropriate place, permanently and conspicuously, a floor diagram and a notice incised or embossed on metal, plastic or other durable material stating the imposed load for which the floor has been designed."
+   }
+  },
+  {
+   "id": "SG-H379-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART VI MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Power to prescribe procedures and set standards"
+   },
+   "text": {
+    "en": "47. The Commissioner of Building Control may, from time to time, issue or amend codes or other documents setting out such standards, designs, requirements, procedures or other details pertaining to the matters under the Act and these Regulations, not inconsistent with the provisions of the Act and these Regulations, as he thinks fit."
+   }
+  },
+  {
+   "id": "SG-H379-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART VI MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Application of standards or code of practice"
+   },
+   "text": {
+    "en": "48. Where any standard or code of practice is cited or referred to in any document issued under these Regulations, and there is subsequently issued a corresponding Singapore Standard or Code of Practice on the same subject matter, the document shall be construed as if the corresponding Singapore Standard or Code of Practice has superseded such standard or code of practice and shall be complied with."
+   }
+  },
+  {
+   "id": "SG-H379-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART VI MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Search, inspection and provision of copy of approved drawings"
+   },
+   "text": {
+    "en": "49.—(1) The Commissioner of Building Control may, on an application accompanied by a fee of $45, allow the owner of a building to which any building works relate, or the owner’s authorised agent, to search and inspect the approved or deemed approved drawings of the building works retained by the Commissioner of Building Control (called in this regulation the approved drawings) on such terms and conditions as the Commissioner of Building Control may decide.\n(2) The Commissioner of Building Control may, on payment of a further fee specified in paragraph (3), provide a copy of any of the approved drawings to the owner or the owner’s authorised agent mentioned in paragraph (1).\n(3) The fee in paragraph (2) is $65 for —\n(a)each set of the approved drawings that is uniquely identified by a reference number in a format required by the Commissioner of Building Control; or\n(b)any part of a set mentioned in sub-paragraph (a).\n[S 134/2026 wef 31/03/2026]"
+   }
+  },
+  {
+   "id": "SG-H379-A49.001",
+   "no": 49.001,
+   "noLabel": {
+    "en": "49A."
+   },
+   "chapter": {
+    "en": "PART VI MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Provision of building information"
+   },
+   "text": {
+    "en": "49A. The Commissioner of Building Control may, on an application accompanied by a fee of $45, provide the owner of a building or the owner’s authorised agent with —\n(a)the date of issuance of the certificate of statutory completion or, where there are no records of such date, the date of issuance of the temporary occupation permit, in respect of that building; or\n(b)the name of the qualified person appointed to prepare the plans of the building works for that building.\n[S 134/2026 wef 31/03/2026]"
+   }
+  },
+  {
+   "id": "SG-H379-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART VI MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Penalty"
+   },
+   "text": {
+    "en": "50. Any person who contravenes regulation 24A, 25, 26, 30(1), (2), (3), (4) or (5), 31(1), (2) or (3), 32, 33(1) or (2), 34, 34A, 35(1) or (2), 36(1) or (2), 37, 38(1) or (3), 38A(1), 38B(1), 40(1) or (2), 44, 45(1) or 46 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.\n[S 54/2008 wef 15/02/2008]\n[S 250/2008 wef 01/10/2008]\n[S 665/2013 wef 28/10/2013]\n[S 709/2017 wef 15/12/2017]\n[S 808/2018 wef 01/03/2019]\n[S 616/2025 wef 01/10/2025]"
+   }
+  },
+  {
+   "id": "SG-H379-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART VI MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Revocation and savings"
+   },
+   "text": {
+    "en": "51.—(1) The Building Control Regulations (Rg 1) are revoked.\n(2) Notwithstanding paragraph (1), the revoked Building Control Regulations shall continue to apply to any of the following building works as if those Regulations have not been revoked:\n(a)building works for which an application for the approval of plans is submitted before 1st January 2004; and\n(b)building works for which an application for the approval of any amendment to the plans referred to in paragraph (a) is made on or after 1st January 2004."
+   }
+  },
+  {
+   "id": "SG-H379-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 3A\nInsignificant building works\n1. Building works carried out for or in connection with —\n(a)site formation works involving any excavation or filling not exceeding 1,500 millimetres in depth or height;\n(b)any shaft, manhole, trench or tunnel for the purpose of laying sewer, water or other utility pipes, where the pipe does not exceed 1,000 millimetres in internal diameter, and where the building works are not located within the site of other building works that are not specified in this Schedule;\n[S 665/2013 wef 01/04/2014]\n(c)any boundary wall, boundary fence or gate, that is not load bearing;\n[S 218/2025 wef 01/04/2025]\n(d)any awning, windowhood or cantilevered roof constructed of tiles, and having a projection not exceeding 1,400 millimetres;\n[S 665/2013 wef 01/04/2014]\n(e)any awning, windowhood or cantilevered roof constructed of lightweight material, or glass not exceeding a thickness of 13 millimetres, and having a horizontal projection not exceeding 3,000 millimetres;\n[S 665/2013 wef 01/04/2014]\n(f)any single storey shelter (whether open-sided or enclosed) that is erected on the ground or on an existing reinforced concrete roof and —\n(i)does not exceed an area of 10 square metres if the shelter does not contain any safety barriers; or\n(ii)does not exceed an area of 50 square metres if —\n(A)the shelter is in a private space within a residential building;\n(B)the span of beam of the shelter does not exceed 6 metres;\n(C)the span of any cantilever of the shelter does not exceed 3 metres;\n(D)the sides of the shelter are enclosed with lightweight material, windows or doors;\n(E)the sides of the shelter do not act as safety barriers; and\n(F)the roof of the shelter is constructed of lightweight material;\n[S 218/2025 wef 01/04/2025]\n(fa)any trellis;\n[S 665/2013 wef 01/04/2014]\n(fb)any single storey detached booth, covered walkway, kiosk, guardhouse, bin centre, and the like, at the ground level, not exceeding an area of 10 square metres;\n[S 709/2017 wef 15/12/2017]\n(fc)any single storey shed or hut not exceeding an area of 10 square metres for housing fuel tanks, mechanical or electrical equipment;\n[S 709/2017 wef 15/12/2017]\n(fd)temporary decking over any trench or excavation site, where the decking —\n(i)is not accessible to the public; or\n(ii)has a span not exceeding 3 metres;\n[S 218/2025 wef 01/04/2025]\n(fe)the removal of any temporary decking over any trench or excavation site;\n[S 218/2025 wef 01/04/2025]\n(g)any canal or drain, including any associated earth retaining structure, if —\n(i)the depth of the canal or drain, as measured from the ground to the soffit of the base of the canal or drain, does not exceed 1,500 millimetres; or\n(ii)the following conditions are met:\n(A)the depth of the canal or drain, as measured from the ground to the soffit of the base of the canal or drain, exceeds 1,500 millimetres but does not exceed 2,500 millimetres;\n(B)the distance between each point of the canal or drain and any adjacent building or slope is at least 2 times the depth of the canal or drain as mentioned in sub‑paragraph (A);\n[S 101/2020 wef 10/02/2020]\n(h)any box culvert with a span not exceeding 5,000 millimetres, including any associated earth retaining structure, if —\n(i)the depth of the box culvert, as measured from the ground to the soffit of the base of the box culvert, does not exceed 1,500 millimetres; or\n(ii)the following conditions are met:\n(A)the depth of the box culvert, as measured from the ground to the soffit of the base of the box culvert, exceeds 1,500 millimetres but does not exceed 2,500 millimetres;\n(B)the distance between each point of the box culvert and any adjacent building or slope is at least 2 times the depth of the box culvert as mentioned in sub‑paragraph (A);\n[S 101/2020 wef 10/02/2020]\n(i)[Deleted by S 709/2017 wef 15/12/2017]\n(j)any pipe rack or support not exceeding 2,000 millimetres in height;\n(k)any height restriction gantry;\n(l)any concrete or brick vault used for housing tanks located under the ground at a depth not exceeding 1,500 millimetres;\n[S 665/2013 wef 01/04/2014]\n(m)any plinth or other base not exceeding 2.5 metres in height and not supported by piled foundation, where the space on or below the plinth or other base is not accessible except for maintenance purposes, that is used for the sole purpose of supporting —\n(i)any mechanical plant, tank, equipment, machinery or other components (other than a building) not exceeding 2.5 metres in height; or\n(ii)any sculpture if —\n(A)no part of the sculpture exceeds 6 metres from the plinth or other base on which the sculpture stands; and\n(B)the side of the sculpture with the largest surface area does not exceed an area of 10 square metres;\n[S 218/2025 wef 01/04/2025]\n(n)the enclosing of any sides of a balcony, yard or terrace with windows and glass panels in residential buildings;\n[S 665/2013 wef 01/04/2014]\n(o)the creation of any opening in a non-load bearing wall or the sealing up of any wall opening;\n(p)the demolition, restoration or reinstatement of any non-load bearing wall;\n(q)any retaining wall or earth retaining structure not supported by piled foundation that —\n(i)is not located within a horizontal distance of 3 metres from another retaining wall or earth retaining structure; and\n(ii)is constructed —\n(A)with structural steel or reinforced concrete and with a visible height not exceeding 1.5 metres; or\n(B)with any material other than structural steel or reinforced concrete and with a visible height not exceeding one metre;\n[S 218/2025 wef 01/04/2025]\n(r)any retaining wall or earth retaining structure for supporting the face of an excavation made for the purpose of constructing any pile cap, footing, sump, lift pit or trench, provided that the size of the pile cap, footing, sump, lift pit or trench does not exceed 10 square metres in area and 2 metres in depth;\n[S 643/2008 wef 01/10/2008]\n[S 665/2013 wef 01/04/2014]\n[S 101/2020 wef 10/02/2020]\n(s)the replacement or reinstatement of any railing, balustrade or similar barrier constructed of any material other than non‑laminated glass, using the same material, design and fixing details;\n[S 665/2013 wef 01/04/2014]\n(t)any single storey building on land used for agriculture or to house livestock, including a greenhouse or a building used to house fixed plant or machinery, if —\n(i)no part of the building is —\n(A)used as a dwelling or for the purposes of packing; or\n(B)made accessible to the public for any purpose; and\n(ii)each point of the building is situated not less than 1.5 times its height away from —\n(A)any adjacent building, except where the adjacent building is another single storey building described in this sub-paragraph; or\n(B)any route of public access;\n[S 218/2025 wef 01/04/2025]\n(ta)any single storey floating building used for aquaculture or the harvesting of solar energy, including a floating greenhouse or a floating building used to house fixed plant or machinery, if —\n(i)no part of the building is made accessible to the public for any purpose; and\n(ii)each point of the building is situated not less than 1.5 times its height away from —\n(A)any adjacent building, except where the adjacent building is another single storey floating building described in this sub-paragraph; or\n(B)any route of public access;\n[S 218/2025 wef 01/04/2025]\n(u)any pre-fabricated swimming or wading pool placed on the ground, if —\n(i)the maximum depth of water that the pool may contain does not exceed one metre; and\n(ii)where the pool is located on higher ground — the distance between the pool and any retaining structure or slope exceeds 3 metres and the difference in elevation of the ground levels is less than 1.5 metres;\n[S 218/2025 wef 01/04/2025]\n(ua)the removal of any pre-fabricated swimming or wading pool placed on the ground;\n[S 218/2025 wef 01/04/2025]\n(v)any loft that —\n(i)has only timber flooring; and\n(ii)does not exceed an area of 5 square metres;\n[S 709/2017 wef 15/12/2017]\n[S 218/2025 wef 01/04/2025]\n(w)the removal of any loft of timber or steel construction;\n[S 218/2025 wef 01/04/2025]\n(x)any netted fencing that —\n(i)does not act as a safety barrier; and\n(ii)has a highest point not exceeding 10 metres above the ground or adjacent floor;\n[S 218/2025 wef 01/04/2025]\n(y)any structure in a playground (whether indoor or outdoor), if the structure —\n(i)is designed for the primary purpose of giving users amusement, pleasure, thrills or excitement (including climbers, slides and trampolines); and\n(ii)does not exceed 6 metres in height;\n[S 218/2025 wef 01/04/2025]\n(z)any lighting masts, lattice towers or other similar structure not exceeding 15 metres in height;\n[S 218/2025 wef 01/04/2025]\n(za)any single level platform (including the space below the platform) —\n(i)used solely for the purpose of the storage of goods;\n(ii)located in an industrial building or a part of an industrial building;\n(iii)that is not accessible to the public;\n(iv)that —\n(A)does not exceed a height of 4 metres; and\n(B)does not exceed an area of 50 square metres;\n(v)where no span of beam or any slab that is part of the platform exceeds 6 metres; and\n(vi)where no span of any cantilever that is part of the platform exceeds 3 metres;\n[S 218/2025 wef 01/04/2025]\n(zb)any staircase, ladder or similar device that is used solely for providing access to a single level platform described in sub-paragraph (za);\n[S 218/2025 wef 01/04/2025]\n(zc)any cladding or screen wall supporting a lightweight material, or green wall, where —\n(i)no part of the framing structure of the cladding, screen wall or green wall exceeds 6 metres above the adjoining ground or floor level; or\n(ii)the cladding, screen wall or green wall has an aggregate surface area on the face of a building that does not exceed 10 square metres;\n[S 218/2025 wef 01/04/2025]\n(zd)any single storey detached bus shelter erected on a public street, including any associated safety bollards, where —\n(i)the area of the roof plan does not exceed 35 square metres;\n(ii)no span of beam in the bus shelter exceeds 6 metres;\n(iii)no span of any cantilever in the bus shelter exceeds 3 metres; and\n(iv)the height of the bus shelter does not exceed 4 metres; or\n[S 218/2025 wef 01/04/2025]\n(ze)any single storey lean-to extension with roof covering of tiles, or of any lighter material, in any bungalow, semi-detached, terrace or linked house.\n[S 218/2025 wef 01/04/2025]\n2. Replacement or changing of windows and doors.\n2A. Replacement or reinstatement of a safety barrier integrated with a window in a residential building that is carried out in accordance with the standardised design.\n[S 905/2022 wef 01/03/2023]\n3. Replacement of existing floor and wall finishes.\n4. Installation or replacement of any false ceiling structure (including any supporting system that is used solely for supporting the false ceiling structure) that —\n(a)is suspended from the main structural ceiling;\n(b)is made of lightweight material;\n(c)is used solely for aesthetic purposes, including the complete or partial concealment of wiring, piping or ductwork; and\n(d)is not accessible to any person,\nprovided that no span of the supporting system supporting the false ceiling structure exceeds 6 metres.\n[S 218/2025 wef 01/04/2025]\n4A. Demolition of any false ceiling structure that is suspended from the main structural ceiling (including any supporting system that is used solely for supporting the structure).\n[S 218/2025 wef 01/04/2025]\n5. One to one replacement of timber roof or other roof covering not involving any replacement of roof trusses.\n6. Erection or alteration of any partition (including any supporting system that is used solely for supporting the partition) up to a height not exceeding 10 metres provided that —\n(a)if the partition is in any bungalow, semi-detached, terrace or linked house — any non-laminated glass used in the partition is not situated more than 2.4 metres in height above the floor level; or\n(b)if the partition is in any other building — the partition is constructed of lightweight material.\n[S 218/2025 wef 01/04/2025]\n7. Construction of any raised floor or the topping up of balconies, and the like, with lightweight materials.\n8. [Deleted by S 709/2017 wef 15/12/2017]\n9. Installation of any roller shutter or grilled door.\n10. [Deleted by S 218/2025 wef 01/04/2025 wef 01/04/2025]\n11. [Deleted by S 709/2017 wef 15/12/2017]\n12. All air-conditioning works.\n12A. One to one replacement or reinstatement of any lightning protection system, or any repairs to any existing lightning protection system, except where those building works are located within the site of other building works that are not specified in this Schedule.\n[S 134/2026 wef 01/04/2026]\n13. Demolition of any awning, windowhood or cantilevered roof, having a projection not exceeding 6 metres, or not exceeding 10 metres above the adjoining ground or floor level.\n[S 218/2025 wef 01/04/2025]\n14. Demolition of an entire standalone non-residential single storey building that does not exceed a height of 10 metres and an area of 100 square metres, provided that —\n(a)the building is not —\n(i)a vehicular or pedestrian bridge; or\n(ii)a chimney constructed with concrete;\n(b)the building is at least 15 metres away from any residential building; and\n(c)each point of the building is situated a distance of at least 1.5 times its height from —\n(i)any other building; or\n(ii)any route of public access.\n[S 218/2025 wef 01/04/2025]\n15. Formation of any opening in a slab (excluding a cantilever slab, a flat slab and any prestressed elements) for the installation of building services that does not involve the alteration of any other structural elements of the relevant building, provided that —\n(a)the slab is a ground slab (situated at-grade); or\n(b)where the slab is not a ground slab —\n(i)if the opening is —\n(A)a circle — the opening does not exceed 150 millimetres in diameter; or\n(B)a rectangle or square — no side of the opening exceeds 150 millimetres; and\n(ii)if there is already an opening in the slab — the distance between the centre of the opening to be formed and the edge of any other openings in the slab is not less than 450 millimetres.\n[S 218/2025 wef 01/04/2025]\n16. In this Schedule —\n“agriculture” includes horticulture, fruit growing, the growing of plants for seed and aquaculture;\n“lightweight material” means —\n(a)any sheet or board material such as timber board, plywood, fibreboard, plasterboard, gypsum board, calcium silicate board, fibre-based cement board, aluminium sheet, corrugated metal sheet or polycarbonate sheet;\n(b)any concrete product made with lightweight aggregates such as pumice, perlite or vermiculite; or\n(c)any hollow concrete block, hollow glass block, autoclaved aerated concrete block and the like;\n“non-laminated glass” means glass other than laminated glass;\n“non-load bearing wall” or “non-load bearing vertical panel” means a wall or vertical panel (as the case may be) that supports no load other than its own weight;\n“partition” means a non-load bearing wall or non-load bearing vertical panel, that is used for the subdivision of spaces within a building;\n“public street” has the meaning given by section 2 of the Street Works Act 1995.\n[S 218/2025 wef 01/04/2025]"
+   }
+  },
+  {
+   "id": "SG-H379-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulations 4(2)(b), 4A(3)(b), 13(c), 18(6), 18A(4), 20(3) and 42(1C) and (3)\nFees\nPart 1\nDEFINITIONS\nDefinitions\n1.—(1) In this Schedule, unless the context otherwise requires —\n“first storey”, in relation to a general building that is the subject of an application under section 5, 5A or 6 of the Act, or of a lodgment under section 5AA of the Act, means the storey designated as the first storey in the building plans submitted with the application or lodged with the Commissioner of Building Control, as the case may be;\n[S 854/2023 wef 18/12/2023]\n“general building” means a building that is not a specified building, and includes a type 1 building;\n[S 695/2020 wef 31/08/2020]\n“SGFA” or “statistical gross floor area” —\n(a)in relation to one storey in a general building in a development, means the floor area of that storey;\n(b)in relation to 2 or more storeys in a general building in a development, means the aggregate of the floor areas of those storeys in that general building; and\n(c)in relation to 2 or more storeys in 2 or more general buildings in a development, means the aggregate of the floor areas of those storeys in those general buildings;\n“specified building” means —\n(a)a bridge;\n(b)a bund;\n(c)a canal;\n(d)a chimney;\n(e)a dry dock;\n(f)a jetty;\n(g)a landing stage;\n(h)a lighting mast;\n(i)a pier;\n(j)a retaining wall;\n(k)a tank (other than a water tank on a roof);\n(l)a tunnel;\n(m)a underpass;\n(n)a wharf;\n(o)a sewage treatment plant;\n(p)a silo;\n(q)a slip dock;\n(r)a slope;\n(s)a swimming pool; or\n(t)any other similar structure;\n“storey” includes a basement;\n[S 695/2020 wef 31/08/2020]\n“type 1 building” means any agricultural or industrial building, being a building that is constructed or used, or is to be constructed or used, primarily for one or more of the following purposes:\n(a)the growing, cultivation, picking or harvesting of any plant, fungi or algae intended for human or animal consumption or other commercial purposes;\n(b)the rearing, breeding or processing of any animal or invertebrate intended for human or animal consumption or other commercial purposes;\n(c)the manufacturing, preparation, preservation, processing, brewing, packing, canning, bottling or storage of any foodstuff or beverage;\n(d)the carrying out of activities involving agricultural science or agri-biotechnology in relation to food or food biotechnology;\n(e)the manufacturing, assembling, altering, repairing, servicing, ornamenting, finishing, cleaning, washing, packing, canning, adapting, breaking up or demolishing of any article or part of an article;\nExamples\nBuildings that are constructed or used primarily for any of the following purposes:\n(a)the assembly, manufacture, repair or servicing of any machinery or plant;\n(b)the assembly, repair or servicing of —\n(i)any computer hardware, audiovisual equipment, and other communication or electronic equipment, apparatus or parts;\n(ii)any office, computing or accounting machinery; or\n(iii)any photographic or optical goods;\n(c)the assembly, repair, servicing or refilling of any fire extinguishers;\n(d)the assembly, repair or servicing of any vehicle;\n(e)the assembly, repair, servicing or maintenance of any engine, motor or mechanical pump;\n(f)the cutting, grinding or polishing of marble or ceramic tiles.\n(f)the blending, canning or bottling of any substance;\n(g)the processing, recovery, refining or treatment of any metal or minerals;\n(h)the storing, sorting, processing, treatment or recycling of plastic materials, metal scraps, horticultural waste or electrical or electronic waste;\n(i)the storage of any goods, products or substances;\n(j)the carrying out of any printing works;\n(k)as a data centre.\n[S 695/2020 wef 31/08/2020]\n(2) For the purposes of paragraphs 3, 4B, 5, 6, 7A, 9 and 10AA —\n(a)a reference to a storey (of a general building) above sublevel is a reference to any of the following:\n(i)a storey that has a finished floor level that is not more than 6 metres below the finished floor level of the first storey;\n(ii)the first storey of the general building;\n(iii)a storey that is above the first storey; and\n(b)a reference to a storey (of a general building) below sublevel is a reference to a storey of the general building that has a finished floor level that is more than 6 metres below the finished floor level of the first storey of the general building.\n[S 631/2025 wef 01/10/2025]\n[S 222/2026 wef 17/04/2026]\n(3) For the purposes of paragraphs 4, 4B, 7, 7A, 10 and 10AA —\n(a)a reference to a plan view of a specified building is a reference to the plan view of the entire specified building; and\n(b)a reference to a plan view of a specified building at below sublevel is a reference to the plan view of all parts of the specified building that are more than 6 metres below —\n(i)the proposed platform level of the specified building; or\n(ii)where there is no proposed platform level, the existing platform level of the specified building.\n[S 631/2025 wef 01/10/2025]\n[S 222/2026 wef 17/04/2026]\nPart 2\nFEES FOR APPLICATIONS UNDER SECTION 5 OF ACT\nApplication fees for approval of building works\n2. The fee payable for an application for approval of plans of building works under section 5 of the Act is the aggregate of the following:\n(a)where the building works consist only of —\n(i)the erection or extension of any one or more general buildings in a development;\n(ii)the demolition of any part of that building or those buildings in sub‑paragraph (i); or\n(iii)site formation works connected with or carried out for the purpose of building works described in sub‑paragraph (i) or (ii),\nthe fee calculated in accordance with paragraph 3;\n[S 709/2017 wef 02/04/2018]\n[S 631/2025 wef 01/10/2025]\n(b)where the building works consist only of —\n(i)the erection or extension of a specified building;\n(ii)the demolition of any part of a specified building; or\n(iii)site formation works connected with or carried out for the purpose of building works described in sub‑paragraph (i) or (ii),\nthe fee calculated in accordance with paragraph 4;\n[S 709/2017 wef 02/04/2018]\n[S 631/2025 wef 01/10/2025]\n(ba)where the building works consist of the demolition of an entire general building or specified building (including site formation works connected with or carried out for the purpose of such building works), the fee calculated in accordance with paragraph 4A;\n[S 709/2017 wef 02/04/2018]\n(bb)where the building works consist of the erection or extension of one or more general buildings carried out in connection with the erection or extension of one or more specified buildings in a development (including site formation works connected with or carried out for the purpose of such erection or extension), the fee calculated in accordance with paragraph 4B;\n[S 631/2025 wef 01/10/2025]\n(c)subject to sub-paragraph (d), where the building works consist of the alteration, addition or repair of a general building (including site formation works connected with or carried out for the purpose of such building works but excluding the building works described in sub-paragraph (f)), the fee calculated in accordance with paragraph 5;\n[S 222/2026 wef 17/04/2026]\n(d)where the building works —\n(i)consist of any alteration, addition or repair of a general building that is a non‑residential general building (including site formation works connected with or carried out for the purpose of such building works but excluding the building works described in sub-paragraph (f)); and\n[S 222/2026 wef 17/04/2026]\n(ii)require the submission of any structural plans,\nthe fee calculated in accordance with paragraph 6;\n(e)where the building works consist of the alteration, addition or repair of a specified building (including site formation works connected with or carried out for the purpose of such building works but excluding the building works described in sub-paragraph (f)), the fee calculated in accordance with paragraph 7;\n[S 222/2026 wef 17/04/2026]\n(f)where the building works consist of the alteration, addition or repair of one or more general buildings referred to in sub-paragraph (c) or (d), carried out in connection with the alteration, addition or repair of one or more specified buildings in a development (including site formation works connected with or carried out for the purpose of such building works), the fee calculated in accordance with paragraph 7A.\n[S 222/2026 wef 17/04/2026]\nFee for erection, extension or demolition of general buildings\n3. The fee mentioned in paragraph 2(a) in relation to the building works in respect of a general building or general buildings in a development mentioned in that paragraph is an amount computed in accordance with the formula A + B, where —\n(a)A is a sum calculated at a rate of $400 for every 100 m2 or part thereof of the SGFA of every storey below sublevel (in respect of which the building works are to be carried out) in every general building in the development; and\n(b)B is a sum calculated at a rate of —\n(i)for every general building in the development that is a type 1 building —\n(A)$150 for every 100 m2 or part thereof of the first 10,000 m2; and\n(B)$220 for every subsequent 100 m2 or part thereof,\nof the SGFA of every storey above sublevel (in respect of which the building works are to be carried out) in that general building; and\n(ii)for every other general building in the development —\n(A)$300 for every 100 m2 or part thereof of the first 2,500 m2; and\n(B)$270 for every subsequent 100 m2 or part thereof,\n[S 1003/2024 wef 30/12/2024]\nof the SGFA of every storey above sublevel (in respect of which the building works are to be carried out) in that building.\n[S 695/2020 wef 31/08/2020]\nFee for erection, extension or demolition of specified buildings\n4.—(1) The fee mentioned in paragraph 2(b) in relation to the building works in respect of a specified building mentioned in that paragraph is an amount computed in accordance with the formula A + B, where —\n(a)A is a sum calculated at a rate of $400 for every 100 m2 or part thereof of the area of the plan view of the specified building at below sublevel; and\n(b)B is a sum calculated at a rate of —\n(i)$300 for every 100 m2 or part thereof of the first 2,500 m2; and\n(ii)$270 for every subsequent 100 m2 or part thereof,\n[S 1003/2024 wef 30/12/2024]\nof the area that is computed in accordance with the formula in sub‑paragraph (2).\n(2) The formula mentioned in sub-paragraph (1)(b) is C – D, where —\n(a)C is the area of the plan view of the specified building; and\n(b)D is the area of the plan view of the specified building at below sublevel.\nFee for demolition of entire general building or specified building\n4A. The fee mentioned in paragraph 2(ba) —\n(a)in relation to the demolition of an entire general building is calculated at a rate of $200 for each storey of the building; and\n(b)in relation to the demolition of an entire specified building is calculated at a rate of $200 for every 5 metres or part thereof of the height of the building.\n[S 709/2017 wef 02/04/2018]\nFee for erection or extension of general buildings in connection with erection or extension of specified buildings\n4B.—(1) The fee mentioned in paragraph 2(bb) in relation to the building works in respect of one or more general buildings and one or more specified buildings in a development mentioned in that paragraph is an amount computed in accordance with the formula A + B, where —\n(a)A is a sum calculated at a rate of $400 for every 100 m2 or part thereof of the aggregate of —\n(i)the SGFA of every storey below sublevel in every general building in the development; and\n(ii)the areas of the plan views of every specified building in the development at below sublevel,\nin respect of which the building works are to be carried out; and\n(b)B is a sum calculated at a rate of —\n(i)if the development to which the building works relate comprises at least one type 1 building —\n(A)$150 for every 100 m2 or part thereof of the first 10,000 m2; and\n(B)$220 for every subsequent 100 m2 or part thereof,\nof the aggregate specified area; or\n(ii)if the development to which the building works relate comprises one or more general buildings, none of which is a type 1 building —\n(A)$300 for every 100 m2 or part thereof of the first 2,500 m2; and\n(B)$270 for every subsequent 100 m2 or part thereof,\nof the aggregate specified area.\n(2) In sub‑paragraph (1)(b), the aggregate specified area is the aggregate of the following:\n(a)the SGFA of every storey above sublevel (in respect of which the building works are to be carried out) in every general building in the development;\n(b)the aggregate of the areas of the plan views of every specified building (in respect of which the building works are to be carried out) in the development after deducting every area of the plan views of every specified building (in respect of which the building works are to be carried out) in the development at below sublevel.\n[S 631/2025 wef 01/10/2025]\nFee for alterations, additions or repairs of general buildings\n5.—(1) The fee mentioned in paragraph 2(c) in relation to the building works in respect of a general building mentioned in that paragraph is a sum calculated at a rate of $200 for every storey of the general building, in respect of which any alteration, addition or repair is to be carried out.\n(2) Where any alteration or addition of the general building involves increasing the floor area of the general building, in addition to the fee specified in sub‑paragraph (1), there must be paid a fee that is computed in accordance with the formula A + B, where —\n(a)A is a sum calculated at a rate of $400 for every 100 m2 or part thereof of the increase in the floor area of all the storeys of the general building below sublevel; and\n(b)B is a sum calculated at a rate of —\n(i)$300 for every 100 m2 or part thereof of the first 2,500 m2; and\n(ii)$270 for every subsequent 100 m2 or part thereof,\n[S 1003/2024 wef 30/12/2024]\nof the increase in the floor area of all the storeys of the general building above sublevel.\nFee for alterations, additions or repairs of non-residential buildings\n6.—(1) The fee mentioned in paragraph 2(d) in relation to the building works in respect of a general building mentioned in that paragraph is a sum calculated at a rate of $400 for every storey of the general building, in respect of which the alteration, addition or repair is to be carried out.\n(2) Where any alteration or addition of the general building involves increasing the floor area of the general building, in addition to the fee specified in sub‑paragraph (1), there must be paid a fee that is computed in accordance with the formula A + B, where —\n(a)A is a sum calculated at a rate of $400 for every 100 m2 or part thereof of the increase in the floor area of all the storeys of the general building below sublevel; and\n(b)B is a sum calculated at a rate of —\n(i)$300 for every 100 m2 or part thereof of the first 2,500 m2; and\n(ii)$270 for every subsequent 100 m2 or part thereof,\n[S 1003/2024 wef 30/12/2024]\nof the increase in the floor area of all the storeys of the general building above sublevel.\nFee for alterations, additions or repairs of specified buildings\n7.—(1) The fee mentioned in paragraph 2(e) in relation to the building works in respect of a specified building mentioned in that paragraph is $400.\n(2) Where any alteration or addition of the specified building involves increasing the area of the plan view of the specified building, in addition to the fee specified in sub‑paragraph (1), there must be paid a fee that is computed in accordance with the formula A + B, where —\n(a)A is a sum calculated at a rate of $400 for every 100 m2 or part thereof of the increase in the area of the plan view of the specified building at below sublevel; and\n(b)B is a sum calculated at a rate of —\n(i)$300 for every 100 m2 or part thereof of the first 2,500 m2; and\n(ii)$270 for every subsequent 100 m2 or part thereof,\n[S 1003/2024 wef 30/12/2024]\nof the area that is computed in accordance with the formula in sub‑paragraph (3).\n(3) The formula mentioned in sub-paragraph (2)(b) is C – D, where —\n(a)C is the increase in the area of the plan view of the specified building; and\n(b)D is the increase in the area of the plan view of the specified building at below sublevel.\n(4) For the purposes of sub-paragraph (2), B is deemed to be zero if the area calculated in accordance with the formula in sub‑paragraph (3) is a negative value.\nFee for alterations, additions or repairs of general buildings in connection with alterations, additions or repairs of specified buildings\n7A.—(1) The fee mentioned in paragraph 2(f) in relation to the building works for the alteration, addition or repair of one or more general buildings and one or more specified buildings in a development mentioned in that paragraph is a sum calculated in accordance with the formula A + B + C, where —\n(a)A is a sum calculated at a rate of $400 for every storey in every general building in the development that is a non-residential general building in respect of which the building works are to be carried out;\n(b)B is a sum calculated at a rate of $200 for every storey in every other general building in the development in respect of which the building works are to be carried out; and\n(c)C is a sum calculated at a rate of $400 for every specified building in the development in respect of which the building works are to be carried out, which neither abuts nor is connected to any storey of any general building in the development in respect of which the building works are also to be carried out.\n(2) To avoid doubt, for the purposes of sub-paragraph (1), where there are no building works in respect of a general building as are mentioned in sub-paragraph (1)(a) or (b) or in respect of a specified building as are mentioned in sub-paragraph (1)(c), A, B or C (as the case may be) is zero.\n(3) Where the alteration or addition involves increasing the floor area of one or more of the general buildings or the area of the plan view of one or more of the specified buildings in the development, then, in addition to the fee specified in sub-paragraph (1), there must be paid a fee that is computed in accordance with the formula D + E, where —\n(a)D is a sum calculated at a rate of $400 for every 100 m2 or part thereof of the aggregate of the following:\n(i)the aggregate of the increase in the floor areas of all the storeys of every such general building below sublevel;\n(ii)the aggregate of the increase in the areas of the plan views of every such specified building at below sublevel; and\n(b)E is a sum calculated at a rate of —\n(i)$300 for every 100 m2 or part thereof of the first 2,500 m2; and\n(ii)$270 for every subsequent 100 m2 or part thereof,\nof the aggregate specified area.\n(4) In sub-paragraph (3)(b), the aggregate specified area is computed in accordance with the formula F + G, where —\n(a)F is the aggregate of the increase in the floor areas of all the storeys of every general building in the development mentioned in sub-paragraph (3) above sublevel; and\n(b)G is the aggregate of the increase in the area of the plan view at above sublevel in respect of every specified building in the development mentioned in sub-paragraph (3).\n(5) In sub-paragraph (4)(b), the increase in the area of the plan view at above sublevel in respect of a specified building is computed in accordance with the formula H − I, where —\n(a)H is the increase in the area of the plan view of the specified building; and\n(b)I is the increase in the area of the plan view of the specified building at below sublevel,\nor zero, whichever is greater.\n[S 222/2026 wef 17/04/2026]"
+   }
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "PH-H3070",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing for the Incorporation of Professional, Civic, or Other Non-Profit or Non-Stock Organizations, Amending for the Purpose the Corporation Law",
+  "orig": "An Act Providing for the Incorporation of Professional, Civic, or Other Non-Profit or Non-Stock Organizations, Amending for the Purpose the Corporation Law"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p43",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1963-06-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 3634",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1505,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1963/ra_3634_1963.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1963/ra_3634_1963.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3070-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Act Numbered Fourteen hundred fifty-nine, as amended, otherwise known as the Corporation Law, is further amended by inserting between Sections seventy-four and seventy-five thereof a new section which shall read as follows:\n\"Sec. 74. Any professional, civil or other non-profit or non-stock organization in existence for fifteen years may, upon the written consent of two-thirds of the membership entitled to vote at a meeting called for the purpose, incorporate itself as a non-stock or non-profit corporation by filing with the Securities and Exchange and Exchange Commission articles of incorporation verified by affidavit or affirmation of its president or secretary, setting forth the following:\n\"(1) That it is a professional, civic or any other non-profit on non-stock corporation;\n\"(2) That two-thirds of its membership have given their written consent or have voted to incorporate at a meeting held for the purpose;\n\"(3) The place where the principal office of the corporation is to established and located which place must be within the Philippines;\n\"(4) The names and addresses of the members of the board.\n\"Such corporation shall be entitled to continue its internal government under the terms and conditions of its constitution and by-laws, and to have all the privileges and obligations of other corporations established under this Act, except insofar as inconsistent with the provisions of its constitution and by-laws.\""
+   }
+  },
+  {
+   "id": "PH-H3070-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
+   }
+  }
+ ]
+}

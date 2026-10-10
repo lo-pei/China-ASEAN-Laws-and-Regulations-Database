@@ -1,0 +1,62 @@
+{
+ "id": "SG-H1106",
+ "title": {
+  "zh": null,
+  "en": "Denominations and Characteristics of Coin",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p14",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CA1967-S279-2003",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1151,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CA1967-S279-2003?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 2 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1106-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Currency Act\n(Chapter 69)\nPursuant to section 17(5) of the Currency Act, it is hereby notified for general information that the denomination and characteristics of the coin to be issued on 12th June 2003 by the Monetary Authority of Singapore, are as shown in the Schedule."
+   }
+  },
+  {
+   "id": "SG-H1106-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nDESCRIPTION OF THE $5 SILVER PROOF COIN\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n5 Dollar\nSilver 92.5% Copper 7.5%\n8.25 g 0.20 g\n23.30 mm 0.15 mm\n2.30 mm + 0.20 mm\nScallop\nPlain\nThe Singapore Arms in the centre with the latent image below it. The latent image bears the year-date and MAS logo. A ring of beads surrounds the Singapore Arms with the word “SINGAPORE” in the 4 official languages around the circumference of the coin. The position of the mintmark is at 7 o’ clock of the coin.\nThe flower, Vanda Miss Joaquim in the centre with the figures “$5” below it. A ring of beads surrounds the flower with the words “FIVE DOLLARS” and 5 dots at the outer ring of the coin.\n(a) Reverse Design of the $5 Silver Proof Coin\n(b) Obverse Design of the $5 Silver Proof Coin\n(c) Latent Image."
+   }
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "id": "TL-H139",
+ "title": {
+  "zh": "对《第3/2009号法律》的第一次修改",
+  "en": null,
+  "orig": "Primeira alteração à Lei no 3/2009, de 8 de julho Lideranças Comunitárias e sua eleição"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p03",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2015-08-12",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "本法系对《第3/2009号法律》的修改。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 3/2015",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 838,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2015/serie_1/SERIE_I_NO_30.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自官方公报 PDF（public/docs/2015/serie_1/SERIE_I_NO_30.pdf）第 8155–8156 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 【本法系对《第3/2009号法律》的修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H139-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Objeto"
+   },
+   "text": {
+    "pt": "A presente lei procede à primeira alteração à Lei n.º 3/2009, de 8 de julho, Lideranças Comunitárias e sua eleição."
+   }
+  },
+  {
+   "id": "TL-H139-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Alterações à Lei n.º 3/2009, de 8 de julho"
+   },
+   "text": {
+    "pt": "O artigo 26.º da Lei n.º 3/2009, de 8 de julho, passa a ter a seguinte redação:\n“Artigo 26.º Convocação da eleição e calendário eleitoral\n1.   O Governo convoca a eleição das lideranças comunitárias e aprova o calendário das operações eleitorais, por decreto, mediante proposta do STAE.\n2.   A CNE supervisiona o cumprimento do calendário eleitoral previsto no número anterior.”"
+   }
+  },
+  {
+   "id": "TL-H139-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "heading": {
+    "pt": "Realização da eleição dos líderes comunitários"
+   },
+   "text": {
+    "pt": "A próxima eleição dos líderes comunitários realiza-se até ao final do mês de outubro de 2016."
+   }
+  },
+  {
+   "id": "TL-H139-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "heading": {
+    "pt": "Mandato dos líderes comunitários"
+   },
+   "text": {
+    "pt": "Os líderes comunitários em funções na data da entrada em vigor da presente lei mantêm-se no exercício das mesmas até à posse dos líderes comunitários eleitos em novo sufrágio eleitoral."
+   }
+  },
+  {
+   "id": "TL-H139-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

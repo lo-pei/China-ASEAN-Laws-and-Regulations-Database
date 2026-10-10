@@ -1,0 +1,792 @@
+{
+ "id": "SG-H161",
+ "title": {
+  "zh": null,
+  "en": "Air Navigation (Licensing of Air Services) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p02",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ANA1966-RG2",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 48,
+ "chars": 55438,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ANA1966-RG2?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 48 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 3 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H161-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and application"
+   },
+   "text": {
+    "en": "1.—(1) These Regulations may be cited as the Air Navigation (Licensing of Air Services) Regulations.\n(2) These Regulations shall not apply to any flight referred to in paragraph 2 of the Air Navigation (Prohibited Flights) Order (O 6)."
+   }
+  },
+  {
+   "id": "SG-H161-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“Agreement” means the International Air Services Transit Agreement adopted at Chicago on 7th December 1944;\n“air service” means any service comprising the carriage of passengers, mail or cargo for hire or reward by means of an aircraft;\n“air services agreement” means an agreement or arrangement entered into between the Government and the government of another country under which the provision of air services is permitted;\n“assignment”, in relation to a licence granted under Part IA or II, means the transfer of the authorisation to provide all air services which are the subject of the licence;\n[S 649/2011 wef 19/12/2011]\n“Authority” means the Civil Aviation Authority of Singapore established under the Civil Aviation Authority of Singapore Act (Cap. 41) as in force immediately before 1st July 2009 and reconstituted by the Civil Aviation Authority of Singapore Act 2009 (Act 17 of 2009);\n[S 128/2010 wef 01/03/2010]\n“Chief Executive” means the Chief Executive of the Authority and includes any person acting in that capacity;\n[S 128/2010 wef 01/03/2010]\n“Committee” means the Air Traffic Rights Committee established under regulation 2D;\n“country” includes a territory;\n“non-scheduled journey” means a journey that is not scheduled;\n“permit” means a permit granted under regulation 15;\n“provisional licence” means a licence granted under regulation 9;\n“scheduled journey” means a journey which is undertaken between the same 2 or more places and a series of which constitutes a systematic service operated in such a manner that the benefits thereof are available to members of the public from time to time seeking to take advantage of them;\n[S 649/2011 wef 19/12/2011]\n“transfer”, in relation to a licence granted under Part IA or II, means the transfer in part of the authorisation to provide the air services which are the subject of the licence.\n[S 649/2011 wef 19/12/2011]"
+   }
+  },
+  {
+   "id": "SG-H161-A2.001",
+   "no": 2.001,
+   "noLabel": {
+    "en": "2A."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "No air service to be provided without licence"
+   },
+   "text": {
+    "en": "2A.—(1) Subject to these Regulations —\n(a)no person shall provide any air services referred to in regulation 2C, except under and in accordance with a licence granted under Part IA; and\n(b)no person shall provide any air services referred to in regulation 4, except under and in accordance with a licence granted under Part II.\n[S 128/2010 wef 01/03/2010]\n(2) Any person who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a second or subsequent offence, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years, or to both.\n(3) This regulation shall not apply to —\n(a)any person who provides any air services under and in accordance with any air services agreement as an airline designated, nominated or otherwise authorised by the government of another country under that air services agreement; or\n(b)the airline of any country which is a party to the Agreement where its aircraft merely flies across Singapore without landing, or where its aircraft lands in Singapore, in accordance with the provisions of that Agreement."
+   }
+  },
+  {
+   "id": "SG-H161-A2.002",
+   "no": 2.002,
+   "noLabel": {
+    "en": "2B."
+   },
+   "chapter": {
+    "en": "PART IA LICENCES FOR SCHEDULED JOURNEYS UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Definitions of this Part"
+   },
+   "text": {
+    "en": "2B.—(1) In this Part —\n“air operator certificate” means an air operator certificate granted under paragraph 87 of the Air Navigation Order (O 2);\n“air traffic right” means the right of an airline designated, nominated or otherwise authorised by the Government to provide air services on scheduled journeys from, to or over a country under an air services agreement, and includes the city to be served, the route on which the air services are to be provided, the type of traffic to be carried and the capacity to be provided;\n“available air traffic right” means any air traffic right other than an air traffic right in respect of which a licence is in force;\n“Chairman” means the Chairman of the Committee;\n“licence” means a licence granted under this Part;\n“licensee” means a person who holds a licence.\n(2) A reference in this Part to the suspension of a licence by the Committee includes a reference to the suspension by the Committee of the right to exercise one or more air traffic rights conferred by the licence.\n(3) A reference in this Part to the revocation of a licence by the Committee includes a reference to the revocation by the Committee of the right to exercise one or more air traffic rights conferred by the licence.\n(4) A reference in this Part to the variation of a licence by the Committee includes a reference to the variation of one or more air traffic rights that may be exercised by a licensee under the licence."
+   }
+  },
+  {
+   "id": "SG-H161-A2.003",
+   "no": 2.003,
+   "noLabel": {
+    "en": "2C."
+   },
+   "chapter": {
+    "en": "PART IA LICENCES FOR SCHEDULED JOURNEYS UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "2C. This Part shall apply only to the provision of air services on scheduled journeys under and in accordance with an air services agreement."
+   }
+  },
+  {
+   "id": "SG-H161-A2.004",
+   "no": 2.004,
+   "noLabel": {
+    "en": "2D."
+   },
+   "chapter": {
+    "en": "PART IA LICENCES FOR SCHEDULED JOURNEYS UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Air Traffic Rights Committee"
+   },
+   "text": {
+    "en": "2D.—(1) For the purposes of allocating air traffic rights under this Part, there shall be established a Committee comprising a Chairman and not less than 3 other members, which shall be known as the Air Traffic Rights Committee.\n(2) The Chairman and every other member of the Committee shall be appointed by the Minister for a period not exceeding 2 years and each shall be eligible for re-appointment.\n(3) The Minister may at any time revoke the appointment of the Chairman or any other member of the Committee for any reason and may appoint any person to fill any vacancy which may arise in the Committee.\n(4) The Chairman or any other member of the Committee may at any time resign from his office by notice in writing to the Minister.\n(5) Subject to the provisions of this Part, the Committee may regulate its own procedure.\n(6) The Authority shall provide administrative and secretarial support to the Committee in the performance of its functions."
+   }
+  },
+  {
+   "id": "SG-H161-A2.005",
+   "no": 2.005,
+   "noLabel": {
+    "en": "2E."
+   },
+   "chapter": {
+    "en": "PART IA LICENCES FOR SCHEDULED JOURNEYS UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Functions of Committee"
+   },
+   "text": {
+    "en": "2E. The functions of the Committee are —\n(a)to consider any application for the grant or renewal of a licence to provide air services which are the subject of any available air traffic rights, and to grant or renew such licence on such terms and conditions as the Committee may determine or to refuse to grant or renew such licence;\n[S 649/2011 wef 19/12/2011]\n(b)to review any such licence, and to affirm, suspend, revoke or vary such licence pursuant to the review; and\n[S 649/2011 wef 19/12/2011]\n(c)to consider any application for approval to transfer or assign any licence, and to approve the transfer or assignment of such licence subject to such terms and conditions as the Committee may determine or to refuse such approval.\n[S 649/2011 wef 19/12/2011]"
+   }
+  },
+  {
+   "id": "SG-H161-A2.006",
+   "no": 2.006,
+   "noLabel": {
+    "en": "2F."
+   },
+   "chapter": {
+    "en": "PART IA LICENCES FOR SCHEDULED JOURNEYS UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Application for grant or renewal of licence"
+   },
+   "text": {
+    "en": "2F.—(1) An application for the grant or renewal of a licence to provide air services which are the subject of any available air traffic rights shall be made to the Committee.\n(2) Except as otherwise provided in this regulation, the application shall be made in such form and manner as the Committee may require.\n(3) When an application is made to the Committee for the grant or renewal of a licence under this Part, the applicant must first submit to the Committee the information specified in Part I of the First Schedule unless —\n(a)the applicant already holds a valid Traffic Rights Application Certificate granted under regulation 2H(1)(a) relating to a network of air services that covers the air services that are the subject of the application; or\n(b)the Committee specifies otherwise.\n[S 649/2011 wef 19/12/2011]\n(4) After receiving a Traffic Rights Application Certificate under regulation 2H(1)(a), the applicant for the grant or renewal of a licence —\n(a)who is the holder of a valid air operator certificate; and\n(b)whose application relates to air services within the network of air services that are the subject of the Traffic Rights Application Certificate,\nmust submit to the Committee the information specified in Part II of the First Schedule, unless the Committee specifies otherwise.\n[S 649/2011 wef 19/12/2011]\n(5) Unless otherwise allowed by the Committee, the application shall —\n(a)if it is an application for the grant of a licence, be made at least 6 months before the date on which the applicant proposes to commence the provision of air services that are the subject of the application; and\n(b)if it is an application for the renewal of a licence, be made at least 6 months before the date of expiry of the licence.\n(6) The Committee may require an applicant to furnish such other documents and information as the Committee thinks fit and the applicant shall comply with such requirement.\n(7) The Committee may reject an application without further consideration if the applicant does not comply with this regulation.\n[S 322/2011 wef 10/06/2011]"
+   }
+  },
+  {
+   "id": "SG-H161-A2.007",
+   "no": 2.007,
+   "noLabel": {
+    "en": "2G."
+   },
+   "chapter": {
+    "en": "PART IA LICENCES FOR SCHEDULED JOURNEYS UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Matters to be considered by Committee"
+   },
+   "text": {
+    "en": "2G.—(1) The Committee may take into account the following matters when considering an application for the grant or renewal of a licence:\n(a)the nationality of the applicant or, if the applicant is a body corporate, the place of its incorporation and the nationalities of the persons whom the Committee considers hold substantial ownership and effective control of the applicant;\n(b)the financial resources of the applicant and his ability to maintain adequate, satisfactory, safe and efficient air services;\n(c)the applicant’s proposals for providing air services in terms of —\n(i)the network of air services the applicant intends to provide and the aircraft fleet to be used for those air services, including the proposed date of commencement of those air services;\n(ii)the market segments targeted;\n(iii)the branding for the air services to be provided;\n(iv)the markets to be served under co-operative arrangements with other operators; and\n(v)the viability of the applicant’s overall business model, including traffic forecasts of the air services to be provided by the applicant;\n(d)whether there are available air traffic rights relating to the network of air services proposed to be provided by the applicant;\n(e)the extent to which the applicant’s proposed overall network of air services will promote Singapore as an air hub;\n(f)any other benefits that would accrue to Singapore by the applicant’s proposed overall network of air services;\n(g)whether the applicant is the holder of an air operator certificate;\n(h)the applicant’s proposals for providing air services in terms of —\n(i)the cities to be served;\n(ii)the routes on which the air services are to be provided;\n(iii)the aircraft types and configurations to be used;\n(iv)the frequency, capacity and timetable of the air services to be provided;\n(v)the types of traffic to be carried;\n(vi)the tariffs to be charged and conditions of tariffs;\n(vii)the expected load factors of passenger and cargo carriage;\n(viii)the expected load factors of passenger and cargo carriage that must be achieved in order to avoid any financial loss in providing the air services concerned;\n(ix)the date on which the provision of air services is to commence and the ability of the applicant to enter the air services market quickly;\n(x)the nature of the air services to be provided, including any joint services, code-sharing and other arrangements to be entered into with one or more airlines with respect to the air services to be provided;\n(xi)the applicant's business strategy (including the tariffs to be charged and conditions of tariffs, the proposed range and quality of services to be provided and the applicant’s explanation as to how the applicant intends to meet the commitments contained in his proposals); and\n(xii)the international civil aviation requirements relating to operational and safety standards;\n(i)the provision of air services by other airlines along the routes in respect of which the application is made;\n(j)the demand for air services along the routes in respect of which the application is made;\n(k)the applicant’s past performance in respect of any air services provided by him prior to the application;\n(l)the extent to which tourism can be promoted if a licence is granted to the applicant or if his licence is renewed;\n(m)the extent to which international trade can be promoted if a licence is granted to the applicant or if his licence is renewed;\n(n)the extent to which Singapore can be promoted as an air hub if a licence is granted to the applicant or if his licence is renewed;\n(o)the benefits that would ensue to the public if a licence is granted to the applicant or if his licence is renewed (including the availability of effective, efficient, economical and safe air services);\n(p)the extent to which good relations and co-operation (particularly in respect of the provision of air services) with foreign governments can be fostered if a licence is granted to the applicant or if his licence is renewed; and\n(q)any other benefits that would accrue to Singapore if a licence is granted to the applicant or if his licence is renewed.\n[S 322/2011 wef 10/06/2011]\n(2) In addition to the matters referred to in paragraph (1), the Committee may also take into account any other matter which it considers relevant."
+   }
+  },
+  {
+   "id": "SG-H161-A2.008",
+   "no": 2.008,
+   "noLabel": {
+    "en": "2H."
+   },
+   "chapter": {
+    "en": "PART IA LICENCES FOR SCHEDULED JOURNEYS UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Grant or renewal of licence"
+   },
+   "text": {
+    "en": "2H.—(1) When an applicant for the grant or renewal of a licence under this Part, pursuant to regulation 2F(3), submits to the Committee the information specified in Part I of the First Schedule, the Committee may, after taking into account the matters referred to in regulation 2G(1)(a), (b), (c), (d), (e) and (f) and any other relevant matter under regulation 2G(2) —\n(a)issue a Traffic Rights Application Certificate to the applicant stating —\n(i)the network of air services which the applicant may provide; and\n(ii)that the Committee is satisfied that the applicant satisfies such criteria upon which the Traffic Rights Application Certificate is issued; or\n(b)refuse to grant or renew the licence.\n[S 649/2011 wef 19/12/2011]\n(2) When an applicant for the grant or renewal of a licence under this Part, pursuant to regulation 2F(4), submits to the Committee the information specified in Part II of the First Schedule, the Committee may, after taking into account the matters referred to in regulation 2G(1)(g) to (q) and any other relevant matter under regulation 2G(2) —\n(a)grant or renew the licence subject to such terms and conditions as it may determine; or\n(b)refuse to grant or renew the licence,\nas the case may be.\n[S 649/2011 wef 19/12/2011]\n(3) The Committee shall issue a Traffic Rights Application Certificate, stating the network of air services which may be provided, to every person who, immediately before 10th June 2011, is the holder of a licence granted under this Part.\n(4) Any Traffic Rights Application Certificate issued under paragraph (1)(a) shall cease to be valid if the holder of the Traffic Rights Application Certificate does not provide any air services which are the subject matter of the Certificate for any period of one consecutive year beginning on or after the date of issue of the Certificate.\n(5) Without prejudice to any other ground on which the Committee may refuse to grant or renew a licence, the Committee may, in particular, refuse to grant or renew a licence —\n(a)if the applicant is not a citizen of Singapore, or not a company incorporated in Singapore which the Committee considers to be substantially owned and effectively controlled by the Government or citizens of Singapore or both;\n(b)if the Committee is not satisfied that the applicant has sufficient financial resources to provide the air services in respect of which the application is made;\n(c)if the grant or renewal of the licence would result in a contravention of the air services agreement in relation to which the application is made; or\n(d)if the applicant does not hold a valid air operator certificate.\n[S 322/2011 wef 10/06/2011]"
+   }
+  },
+  {
+   "id": "SG-H161-A2.009",
+   "no": 2.009,
+   "noLabel": {
+    "en": "2I."
+   },
+   "chapter": {
+    "en": "PART IA LICENCES FOR SCHEDULED JOURNEYS UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Period and form of licence"
+   },
+   "text": {
+    "en": "2I.—(1) A licence may be —\n(a)a Category A licence, which shall be valid for such period (not exceeding 10 years) as is specified therein and which, on each renewal, shall be valid for such further period (not exceeding 10 years) as is specified on such renewal; or\n[S 822/2013 wef 01/01/2014]\n(b)a Category B licence, which shall be valid until it is cancelled, revoked or suspended under this Part.\n[S 128/2010 wef 01/03/2010]\n(1A) The Committee may upon the application of a licensee convert a Category A licence to a Category B licence if the Committee thinks fit to do so.\n[S 128/2010 wef 01/03/2010]\n(1B) An application under paragraph (1A) shall be made in such form and manner as the Committee may require.\n[S 128/2010 wef 01/03/2010]\n(2) A licence shall be in such form as the Committee may determine."
+   }
+  },
+  {
+   "id": "SG-H161-A2.01",
+   "no": 2.01,
+   "noLabel": {
+    "en": "2J."
+   },
+   "chapter": {
+    "en": "PART IA LICENCES FOR SCHEDULED JOURNEYS UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Fees and charges"
+   },
+   "text": {
+    "en": "2J.—(1) A licensee shall, for the duration of his licence, pay to the Authority on such date and in such manner as the Committee may determine an annual fee for each city in respect of which air services are provided under his licence, or a pro-rata amount of that fee if the period to which the licence relates is less or more than 12 months.\n[S 649/2011 wef 19/12/2011]\n[S 606/2013 wef 23/09/2013]\n(1A) The annual fee payable for each city under paragraph (1) shall be as follows:\n(a)where the licensee holds only a Category A licence —\n(i)if the air services are provided or to be provided any time between 1 April 2022 and 31 March 2023 (both dates inclusive), the sum of —\n(A)$1,617.75 for air services provided between 1 April 2022 and 30 November 2022 (both dates inclusive); and\n(B)$895.07 for air services to be provided between 1 December 2022 and 31 March 2023 (both dates inclusive); or\n(ii)if the air services are to be provided on or after 1 April 2023 — $2,700;\n[S 877/2022 wef 01/12/2022]\n(b)where the licensee holds both a Category A licence and a Category B licence —\n(i)if the air services are provided or to be provided any time between 1 April 2022 and 31 March 2023 (both dates inclusive), the sum of —\n(A)$1,617.75 for air services provided between 1 April 2022 and 30 November 2022 (both dates inclusive); and\n(B)$895.07 for air services to be provided between 1 December 2022 and 31 March 2023 (both dates inclusive); or\n(ii)if the air services are to be provided on or after 1 April 2023 — $2,700;\n[S 877/2022 wef 01/12/2022]\n(c)where the licensee holds only a Category B licence —\n(i)if the air services are provided or to be provided any time between 1 April 2022 and 31 March 2023 (both dates inclusive), the sum of —\n(A)$1,604.38 for air services provided between 1 April 2022 and 30 November 2022 (both dates inclusive); and\n(B)$762.47 for air services to be provided between 1 December 2022 and 31 March 2023 (both dates inclusive); or\n(ii)if the air services are to be provided on or after 1 April 2023 — $2,300.\n[S 877/2022 wef 01/12/2022]\n(2) Where there is in force an international agreement to which Singapore is a party pursuant to which any fees or charges are payable to the government of another country or any international organisation that are (whether directly or indirectly) connected with, incidental to or arising from the flight of an aircraft of a licensee over any territory or region as specified in the agreement, such fees and charges shall be borne by the licensee.\n(3) Where the Government is required under the terms of the international agreement to pay any fees or charges referred to in paragraph (2), the Government may recover the amount of any payment to be borne by the licensee from the licensee, and the licensee shall reimburse the Government for that amount.\n(4) Without prejudice to the Committee’s power to impose any other terms or conditions under regulation 2H(2)(a), the obligations imposed on a licensee under paragraphs (1) to (3) shall form part of the conditions of his licence.\n[S 322/2011 wef 10/06/2011]"
+   }
+  },
+  {
+   "id": "SG-H161-A2.011",
+   "no": 2.011,
+   "noLabel": {
+    "en": "2K."
+   },
+   "chapter": {
+    "en": "PART IA LICENCES FOR SCHEDULED JOURNEYS UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Licensee not exempted from other laws"
+   },
+   "text": {
+    "en": "2K. The grant of a licence to a person does not exempt him from complying with the requirements of any law relating to air navigation or air transport."
+   }
+  },
+  {
+   "id": "SG-H161-A2.012",
+   "no": 2.012,
+   "noLabel": {
+    "en": "2L."
+   },
+   "chapter": {
+    "en": "PART IA LICENCES FOR SCHEDULED JOURNEYS UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Review of licence"
+   },
+   "text": {
+    "en": "2L.—(1) The Committee may review any licence granted under this Part —\n(a)at any time on its own motion if the Committee believes that there are grounds for suspending, revoking or varying the licence; or\n(b)upon the written application of the licensee to vary the licence.\n(2) The Committee may, having completed a review under paragraph (1) —\n(a)suspend the licence for such period as the Committee thinks fit;\n(b)revoke the licence;\n(c)affirm the licence; or\n(d)vary the licence."
+   }
+  },
+  {
+   "id": "SG-H161-A2.013",
+   "no": 2.013,
+   "noLabel": {
+    "en": "2M."
+   },
+   "chapter": {
+    "en": "PART IA LICENCES FOR SCHEDULED JOURNEYS UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Suspension, revocation, etc., of licence"
+   },
+   "text": {
+    "en": "2M.—(1) The Committee may suspend, revoke or vary a licence on its own motion if —\n(a)the licensee is no longer —\n(i)a citizen of Singapore; or\n(ii)a company incorporated in Singapore which the Committee considers to be substantially owned and effectively controlled by the Government or citizens of Singapore, or both;\n(b)the licensee no longer holds an air operator certificate;\n(c)the licensee or, in the case of a body corporate, any of its officers is convicted of an offence under the Act or these Regulations or any other written law relating to air navigation or air transport;\n(d)the licensee contravenes or ceases to satisfy any provision or requirement of these Regulations or any term or condition of the licence;\n(e)due to a change in circumstances, it is inevitable that the licensee will contravene or cease to satisfy any provision or requirement of these Regulations or any term or condition of the licence;\n(f)the licensee —\n(i)does not commence providing the air services that the licensee was licensed to provide under a Category A licence on the date of commencement of the licence; or\n(ii)does not provide all the air services that the licensee is licensed to provide under a Category A licence for any cumulative period of 2 months out of any 6 months period after —\n(A)the date of commencement of the licence, where the licence is granted on or after 15th July 2005; or\n(B)15th July 2005, where the licence is granted and is in force before that date;\n[S 338/2010 wef 01/07/2010]\n(g)the licensee provides the air services that the licensee is licensed to provide in a manner that contravenes, or is likely to contravene, the air services agreement in relation to which the licence was granted or renewed;\n[S 128/2010 wef 01/03/2010]\n(ga)the air services agreement in relation to which the licence was granted is suspended or terminated;\n[S 128/2010 wef 01/03/2010]\n(gb)after the transfer or assignment of the licence to the licensee, the licensee ceases to be related (within the meaning of regulation 2U(6)) to the transferor of the licence;\n[S 649/2011 wef 19/12/2011]\n(h)the licensee had in his application for the grant, renewal, transfer or assignment of a licence furnished any information which is false or misleading; or\n(i)it is in the interest of the public to suspend or revoke the licence or vary any term or condition of the licence.\n(1A) Where a licence is issued to a licensee on or after 1st July 2010, the first of the 6-month period referred to in paragraph (1)(f)(ii) shall commence from the date the licence was issued.\n[S 338/2010 wef 01/07/2010]\n(1B) Where a licence is issued to a licensee before 1st July 2010 and the licensee has not, as at that date, contravened paragraph (1)(f)(ii) in force immediately before that date, the first of the 6-month period referred to in paragraph (1)(f)(ii) shall commence from 1st July 2010 in respect of that licence.\n[S 338/2010 wef 01/07/2010]\n(2) In addition to the grounds specified in paragraph (1), the Minister may direct the Committee to revoke, suspend or vary any licence if it appears to the Minister that the continued holding of the licence by the licensee, or the holding of the licence on the terms or conditions subject to which it was granted, is or is likely to be detrimental to the interests of Singapore, and the Committee shall comply with such direction."
+   }
+  },
+  {
+   "id": "SG-H161-A2.014",
+   "no": 2.014,
+   "noLabel": {
+    "en": "2N."
+   },
+   "chapter": {
+    "en": "PART IA LICENCES FOR SCHEDULED JOURNEYS UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Notice of suspension, revocation, etc., of licence"
+   },
+   "text": {
+    "en": "2N. If the Committee proposes to suspend, revoke or vary any licence on its own motion, it shall —\n(a)serve a notice on the licensee not less than 7 working days before the date on which the suspension, revocation or variation is to take effect —\n(i)informing the licensee of the proposed suspension, revocation or variation; and\n(ii)stating the ground on which the licence is to be suspended, revoked or varied; and\n(b)consider such written representations as the licensee may have made to the Committee before the expiration of the notice."
+   }
+  },
+  {
+   "id": "SG-H161-A2.015",
+   "no": 2.015,
+   "noLabel": {
+    "en": "2O."
+   },
+   "chapter": {
+    "en": "PART IA LICENCES FOR SCHEDULED JOURNEYS UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Application for variation of terms and conditions of licence"
+   },
+   "text": {
+    "en": "2O.—(1) A licensee may at any time apply to the Committee to vary a licence.\n(2) The application shall —\n(a)be in writing and be in such form as the Committee may require;\n(b)specify the variation being requested; and\n(c)contain such documents or information as the Committee may require.\n(3) Where the Committee approves the transfer of a licence from a licensee (referred to as the transferor) to another (referred to as the transferee), the licence held by the transferor shall remain valid but varied to the extent that the Committee has approved the transfer of the authorisation to provide air services under that licence to the transferee.\n[S 649/2011 wef 19/12/2011]"
+   }
+  },
+  {
+   "id": "SG-H161-A2.016",
+   "no": 2.016,
+   "noLabel": {
+    "en": "2P."
+   },
+   "chapter": {
+    "en": "PART IA LICENCES FOR SCHEDULED JOURNEYS UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Surrender of licence"
+   },
+   "text": {
+    "en": "2P.—(1) A licensee may at any time surrender his licence to the Committee for cancellation.\n(2) If a licensee applies to the Committee for a new licence in substitution for the current licence, he shall, if a new licence is granted to him, surrender the current licence for cancellation on or before the date from which the new licence is to take effect.\n(3) Upon the Committee approving the assignment of a licence from a licensee to another, the licensee shall without delay surrender the licence in its possession to the Committee for cancellation.\n[S 649/2011 wef 19/12/2011]"
+   }
+  },
+  {
+   "id": "SG-H161-A2.017",
+   "no": 2.017,
+   "noLabel": {
+    "en": "2Q."
+   },
+   "chapter": {
+    "en": "PART IA LICENCES FOR SCHEDULED JOURNEYS UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Appeals to Minister"
+   },
+   "text": {
+    "en": "2Q.—(1) Any person who is aggrieved by a decision of the Committee —\n(a)to refuse to grant or renew a licence;\n(aa)to refuse to approve a transfer or an assignment of a licence;\n[S 649/2011 wef 19/12/2011]\n(b)to suspend or revoke a licence; or\n(c)to vary or refuse to vary a licence,\nmay, within 14 working days of receipt of a notification of such a decision, appeal to the Minister.\n(2) Every appeal to the Minister shall —\n(a)be in writing;\n(b)state the decision of the Committee in respect of which the appeal is sought; and\n(c)specify the grounds on which the appeal is made.\n(3) The Minister may require the applicant to furnish such documents or information as the Minister considers necessary to enable him to make a determination on the appeal.\n(4) The appeal shall be considered and disposed of in such manner as the Minister thinks fit and the decision of the Minister shall be final."
+   }
+  },
+  {
+   "id": "SG-H161-A2.018",
+   "no": 2.018,
+   "noLabel": {
+    "en": "2R."
+   },
+   "chapter": {
+    "en": "PART IA LICENCES FOR SCHEDULED JOURNEYS UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Delegation of power in respect of temporary variations and excess air traffic rights"
+   },
+   "text": {
+    "en": "2R.—(1) The Committee may, subject to such conditions as it thinks fit, delegate, in writing, to any person the power of the Committee to vary, upon the application of a licensee, the licence in respect of —\n(a)the cities to be served;\n(b)the routes on which the air services are to be provided;\n(c)the frequency and capacity of services to be provided; and\n(d)the types of traffic to be carried.\n(2) The Committee shall not under paragraph (1) empower any delegate (other than the Chairman) to allow any variation which is effective for more than 7 months.\n(3) The Committee may, subject to such conditions as it thinks fit, delegate, in writing, to the Chairman the power to grant or renew a licence to provide air services which are the subject of any available air traffic rights for which one or more applications for a licence are made where there are sufficient air traffic rights.\n(4) For the purposes of this Part, the exercise of the power of a delegate to vary a licence under paragraph (1) or to grant or renew a licence under paragraph (3) shall be deemed to be the exercise of such power by the Committee.\n(5) For the purpose of this regulation, there are sufficient air traffic rights if the air traffic rights in respect of which one or more applications are made can be allocated to all the applicants without depriving any applicant of any of the air traffic rights in respect of which he has made his application."
+   }
+  },
+  {
+   "id": "SG-H161-A2.019",
+   "no": 2.019,
+   "noLabel": {
+    "en": "2S."
+   },
+   "chapter": {
+    "en": "PART IA LICENCES FOR SCHEDULED JOURNEYS UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Transitional"
+   },
+   "text": {
+    "en": "2S.—(1) Notwithstanding any provision in this Part, where a person has been providing scheduled air services in respect of any air traffic rights immediately before 3rd October 2003, the Minister shall, upon application by the person, grant to the person a licence to provide the air services in respect of the air traffic rights that the person has been exercising at any time from 1st January 2003 to 3rd October 2003 (both dates inclusive).\n(2) An application made under paragraph (1) shall be made in such form and manner as the Minister may determine.\n(3) A licence granted under paragraph (1) shall be valid for a period of 10 years and shall be subject to such terms and conditions as the Minister may determine.\n(4) A licence granted under paragraph (1) may be renewed by the Committee subject to such terms and conditions as the Committee may determine.\n(5) The provisions of this Part, other than regulation 2I(1), (1A) and (1B), shall apply to a licence granted under paragraph (1) as if the licence were granted by the Committee.\n[S 128/2010 wef 01/03/2010]"
+   }
+  },
+  {
+   "id": "SG-H161-A2.02",
+   "no": 2.02,
+   "noLabel": {
+    "en": "2T."
+   },
+   "chapter": {
+    "en": "PART IA LICENCES FOR SCHEDULED JOURNEYS UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Reduction, waiver or refund of fees"
+   },
+   "text": {
+    "en": "2T. The Minister may in any particular case reduce, waive or refund any fee payable under this Part."
+   }
+  },
+  {
+   "id": "SG-H161-A2.021",
+   "no": 2.021,
+   "noLabel": {
+    "en": "2U."
+   },
+   "chapter": {
+    "en": "PART IA LICENCES FOR SCHEDULED JOURNEYS UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Transfer and assignment of licences"
+   },
+   "text": {
+    "en": "2U.—(1) Where the holder of a licence (referred to in these Regulations as the transferor) desires to transfer or assign the licence to another person (referred to in these Regulations as the transferee), any joint application by them under regulation 19 to the Committee for approval to transfer or assign the licence must, in addition to such requirements as are specified in regulation 19 —\n(a)be made no later than 6 months before the date on which the licence is proposed to be transferred or assigned, as the case may be;\n(b)be accompanied by the information specified in the Second Schedule; and\n(c)be accompanied by an application by the transferee for the grant of that licence,\nand the applications may be summarily refused if this paragraph is not complied with.\n(2) The Committee shall consider any joint application for approval to transfer or assign a licence together with the transferee’s application for the grant of a licence, and regulations 2F, 2G and 2H shall apply to and in relation to the transferee’s application for the licence with such modifications as are necessary.\n(3) Notwithstanding regulation 19(5), the Committee shall not approve the transfer or assignment, as the case may be, of a licence from a transferor to a transferee if the transferor and transferee are not related and the application is made in circumstances other than those described in regulation 19(3).\n(4) Where the Committee refuses to approve the transfer or assignment of a licence that is the subject of an application under regulation 19, the Committee must without delay inform the transferor and the transferee of its decision.\n(5) Upon an approval of any assignment of a licence, the transferor shall cease to be a licensee but shall remain liable for any act or omission done, caused, permitted or made by the transferor before the assignment.\n(6) For the purposes of these Regulations, a transferee is related to the transferor, and vice versa, if —\n(a)the transferee is the wholly-owned subsidiary of the transferor;\n(b)the transferor is a wholly-owned subsidiary of the transferee; or\n(c)the transferor and the transferee are each wholly-owned subsidiaries of the same holding corporation,\nand “wholly-owned subsidiary” has the same meaning given in the Companies Act (Cap. 50).\n[S 649/2011 wef 19/12/2011]"
+   }
+  },
+  {
+   "id": "SG-H161-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART II LICENCES FOR SCHEDULED JOURNEYS OTHER THAN UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Definitions for this Part"
+   },
+   "text": {
+    "en": "3. In this Part —\n“licence” means a licence granted under this Part;\n“licensee” means a person who holds a licence."
+   }
+  },
+  {
+   "id": "SG-H161-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART II LICENCES FOR SCHEDULED JOURNEYS OTHER THAN UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "4. This Part shall apply only to the provision of air services on any scheduled journey —\n(a)where at least one place on that scheduled journey is in Singapore; and\n(b)which is not under or in accordance with an air services agreement.\n[S 128/2010 wef 01/03/2010]"
+   }
+  },
+  {
+   "id": "SG-H161-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART II LICENCES FOR SCHEDULED JOURNEYS OTHER THAN UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Grant of licence"
+   },
+   "text": {
+    "en": "5.—(1) An application for the grant of a licence to provide any air services that are not the subject of any available air traffic rights within the meaning of Part IA shall be made to the Minister.\n(2) The Minister may grant a licence on such terms and conditions as he may determine, or refuse to grant the licence.\n(3) A licensee and any person having a financial interest in the business of the licensee shall refrain from stipulating that any other person shall —\n(a)refuse to permit any person to act as agent for another licensee in respect of any business of providing an air service; or\n(b)grant such facilities to such other licensee only on onerous terms.\n(4) A licensee shall perform such reasonable services as any public postal licensee may from time to time require for the conveyance of mails and of any person who may be in charge thereof upon journeys made under the licence.\n(5) The remuneration for any services performed under paragraph (4) shall be such amount as may be from time to time determined by agreement between the public postal licensee and the licensee.\n(6) In default of such an agreement being reached, the remuneration shall be determined by 2 arbitrators, one to be appointed by the public postal licensee and the other by the licensee and the provisions of the Arbitration Act (Cap. 10) shall apply to such arbitration as if the same were pursuant to an arbitration agreement within the meaning of that Act."
+   }
+  },
+  {
+   "id": "SG-H161-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART II LICENCES FOR SCHEDULED JOURNEYS OTHER THAN UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Application for a licence"
+   },
+   "text": {
+    "en": "6.—(1) An application for a licence shall be made in such form and manner as the Minister may require.\n[S 128/2010 wef 01/03/2010]\n(2) Every applicant for a licence shall furnish to the Minister such other particulars as he may reasonably require in relation to the application."
+   }
+  },
+  {
+   "id": "SG-H161-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART II LICENCES FOR SCHEDULED JOURNEYS OTHER THAN UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Matters to be taken into consideration"
+   },
+   "text": {
+    "en": "7.—(1) In the consideration of an application for a licence, the Minister shall have regard to the co-ordination and development of air services generally with the object of ensuring the most effective service to the public while avoiding uneconomical over-lapping, and generally to the interests of the public, including those of persons requiring or likely to require facilities for air transport, as well as those of persons providing such facilities.\n(2) In particular, the Minister shall have regard to the following matters:\n(a)the existence of other air services in the area in respect of which the licence is applied for;\n(b)the demand for air transport in that area;\n(c)the degree of efficiency and regularity of any air service provided for in that area whether by the applicant or by any other persons;\n(d)the period for which such air services have been provided by the applicant or other persons;\n(e)whether the applicant is likely to provide a satisfactory air service in respect of safety, continuity, regularity of operation, frequency, punctuality, reasonableness of charges and general efficiency;\n(f)the financial resources of the applicant;\n(g)the type of aircraft proposed to be used; and\n(h)the remuneration and general conditions of employment of the aircrew and other personnel employed by the applicant."
+   }
+  },
+  {
+   "id": "SG-H161-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART II LICENCES FOR SCHEDULED JOURNEYS OTHER THAN UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Validity of period of licence"
+   },
+   "text": {
+    "en": "8.—(1) A licence shall be in such form as the Minister may determine and shall be in force for such period of time and subject to such conditions as the Minister may in each case determine.\n[S 128/2010 wef 01/03/2010]\n(2) If a licensee makes an application for the renewal of a licence on or before the date of expiry of the licence, the Minister may extend the period of validity of the licence to the date when the application is approved or rejected."
+   }
+  },
+  {
+   "id": "SG-H161-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART II LICENCES FOR SCHEDULED JOURNEYS OTHER THAN UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Provisional licence"
+   },
+   "text": {
+    "en": "9.—(1) The Minister may if he thinks fit, pending the determination of an application for a licence, grant to the applicant a provisional licence which shall remain in force until the application is approved or rejected.\n(2) Regulation 5(2) to (6) shall apply, with the necessary modifications to a provisional licence.\n(3) A provisional licence shall be in such form as the Minister may determine.\n[S 128/2010 wef 01/03/2010]"
+   }
+  },
+  {
+   "id": "SG-H161-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART II LICENCES FOR SCHEDULED JOURNEYS OTHER THAN UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Revocation or suspension of licence"
+   },
+   "text": {
+    "en": "10.—(1) Subject to paragraphs (2), (3) and (4), the Minister may revoke or suspend a licence if —\n(a)the licensee is convicted of an offence under the Act or these Regulations or any other written law relating to air navigation or air transport;\n(b)the licensee being a body corporate, any of its officers is convicted of such an offence;\n(c)the licensee has failed to comply with or contravened any of the provisions of these Regulations or any condition of his licence; or\n(d)the licensee has, in his application for the licence, furnished information which is false or misleading.\n(2) Before revoking or suspending a licence under paragraph (1), the Minister shall by notice in writing inform the licensee of the grounds upon which it is proposed to revoke or suspend the licence.\n(3) The Minister shall not revoke or suspend a licence unless he is satisfied, after having caused an inquiry to be held if the licensee (by notice in writing) requires him to do so, that the licence should be revoked or cancelled.\n(4) The Minister shall inform the licensee of the date, time and place of such inquiry and shall give him an opportunity of being heard.\n(5) The Minister may —\n(a)appoint such person or persons as he thinks fit to hold an inquiry under this regulation; and\n(b)give to such person or persons directions not inconsistent with these Regulations as to the manner in which the inquiry shall be held and the matters into which such inquiry shall be made.\n(6) Such person or persons shall submit a report on the findings of the inquiry and his or their recommendations to the Minister.\n(7) Notwithstanding paragraphs (2) and (3), if the Minister is of the opinion that immediate suspension of a licence is necessary in the public interest, he may suspend the licence with immediate effect.\n(8) For the purposes of paragraph (1)(b), “officer” means a director, general manager or other officer and includes any person who is authorised to act as such."
+   }
+  },
+  {
+   "id": "SG-H161-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART II LICENCES FOR SCHEDULED JOURNEYS OTHER THAN UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Surrender of licence"
+   },
+   "text": {
+    "en": "11.—(1) A licensee may at any time surrender his licence to the Minister for cancellation.\n(2) If a licensee applies to the Minister for a new licence in substitution for the current licence, he shall, if a new licence is granted to him, surrender the current licence for cancellation on the date from which the new licence takes effect."
+   }
+  },
+  {
+   "id": "SG-H161-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART II LICENCES FOR SCHEDULED JOURNEYS OTHER THAN UNDER AIR SERVICES AGREEMENT"
+   },
+   "heading": {
+    "en": "Returns"
+   },
+   "text": {
+    "en": "12.—(1) The Chief Executive may by written notice require a licensee to furnish, within such reasonable period and in such form and manner as may be specified in the notice, such information relating to the air services provided by the licensee under the licence as may be specified in the notice.\n(2) Without prejudice to the generality of paragraph (1), the information which the Chief Executive may require a licensee to furnish under this regulation includes the following:\n(a)the frequency of the licensee’s operation of air services under the licence;\n(b)the routes operated by the licensee;\n(c)the number of passengers carried on each flight;\n(d)the volume and type of mail and cargo carried on each flight;\n(e)the total number of passengers carried under the licence;\n(f)the total volume of mail and cargo carried under the licence.\n[S 128/2010 wef 01/03/2010]"
+   }
+  },
+  {
+   "id": "SG-H161-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART III PERMITS FOR JOURNEYS OTHER THAN SCHEDULED JOURNEYS"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "13. This Part shall apply only to the provision of air services on non-scheduled journeys."
+   }
+  },
+  {
+   "id": "SG-H161-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART III PERMITS FOR JOURNEYS OTHER THAN SCHEDULED JOURNEYS"
+   },
+   "heading": {
+    "en": "Aircraft to which this Part applies not to be used without a permit"
+   },
+   "text": {
+    "en": "14.—(1) Subject to these Regulations, no person shall provide any air services on any non-scheduled journey between 2 or more places of which at least one is in Singapore, except under and in accordance with a permit granted by the Chief Executive.\n(2) Any person who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,500 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a second or subsequent offence, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.\n(3) This regulation shall not apply to any journey performed under Article 5 of the Chicago Convention if the aircraft performing the journey flies across Singapore without landing or lands in Singapore for non-traffic purposes only."
+   }
+  },
+  {
+   "id": "SG-H161-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART III PERMITS FOR JOURNEYS OTHER THAN SCHEDULED JOURNEYS"
+   },
+   "heading": {
+    "en": "Grant of permit"
+   },
+   "text": {
+    "en": "15.—(1) Where an application is made for a permit, the Chief Executive may —\n(a)grant, subject to such conditions as he may impose —\n(i)upon an application under regulation 16(4), an express permit to provide air services on the single one-way or return flight specified in the permit; or\n(ii)upon an application under regulation 16(3), a normal permit to provide air services on such journeys as may be specified in the permit; or\n(b)refuse to grant any such permit.\n[S 649/2011 wef 19/12/2011]\n(2) The Chief Executive may at any time vary or revoke one or more of the existing conditions of a permit or impose conditions or additional conditions thereto.\n(3) A permit shall, unless previously revoked or suspended, remain in force for such period of time as the Chief Executive may determine.\n(4) A permit shall be in such form as the Chief Executive may determine ."
+   }
+  },
+  {
+   "id": "SG-H161-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART III PERMITS FOR JOURNEYS OTHER THAN SCHEDULED JOURNEYS"
+   },
+   "heading": {
+    "en": "Application for permit"
+   },
+   "text": {
+    "en": "16.—(1) An application for a permit shall be made in such form as the Chief Executive may require.\n(2) The Chief Executive may require an applicant for a permit to furnish such particulars relating to the application as the Chief Executive thinks fit and such applicant shall comply with the requisition.\n(3) A person seeking a normal permit must submit an application for the normal permit at least 3 whole working days before the day of the first flight on the (one-way or return) journeys to be specified in the normal permit; and any such application not made in compliance with this regulation may be refused.\n[S 649/2011 wef 19/12/2011]\n(4) Notwithstanding paragraph (3), a person may in special circumstances apply for an express permit to provide air services on a single one-way or return flight taking place at least 24 hours after the application is made; and any such application not made in compliance with this regulation may be refused.\n[S 649/2011 wef 19/12/2011]\n(5) In this regulation, “working day” means —\n(a)a period that begins at 8.30 a.m. and ends at 6 p.m. on any Monday to Thursday that the Authority is open for business; and\n(b)a period that begins at 8.30 a.m. and ends at 5.30 p.m. on any Friday that the Authority is open for business,\nand any application under this regulation that is made after the close of business shall be deemed to have been made on the next working day.\n[S 649/2011 wef 19/12/2011]"
+   }
+  },
+  {
+   "id": "SG-H161-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART III PERMITS FOR JOURNEYS OTHER THAN SCHEDULED JOURNEYS"
+   },
+   "heading": {
+    "en": "Revocation or suspension of permit"
+   },
+   "text": {
+    "en": "17.—(1) The Chief Executive may revoke or suspend any permit if —\n(a)the holder of the permit is convicted of an offence under the Act or these Regulations or any other written law relating to air navigation or air transport;\n(b)the holder of the permit being a body corporate, any of its officers is convicted of such an offence;\n(c)the holder of the permit has failed to comply with or contravened any of the provisions of these Regulations or condition of his permit; or\n(d)the holder of the permit has, in his application for the permit, furnished any information which is false or misleading.\n(2) For the purposes of paragraph (1)(b), “officer” means a director, general manager or other officer and includes any person who is authorised to act as such."
+   }
+  },
+  {
+   "id": "SG-H161-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART III PERMITS FOR JOURNEYS OTHER THAN SCHEDULED JOURNEYS"
+   },
+   "heading": {
+    "en": "Fees for permit"
+   },
+   "text": {
+    "en": "18.—(1) There shall be paid to the Authority upon the grant of a permit the following fees:\n(a)for each express permit applied for under regulation 16(4) — $252;\n[S 351/2013 wef 01/07/2013]\n(b)for each normal permit applied for under regulation 16(3) —\n(i)$84 for a normal permit covering a single one-way or return flight;\n[S 351/2013 wef 01/07/2013]\n(ii)$162 for a normal permit covering 2 or more one-way or return flights but not more than 5 such flights;\n[S 351/2013 wef 01/07/2013]\n(iii)$326 for a normal permit covering more than 5 one-way or return flights but not more than 10 such flights; or\n[S 351/2013 wef 01/07/2013]\n(iv)$810 for a normal permit covering more than 10 one-way or return flights.\n[S 649/2011 wef 19/12/2011]\n[S 351/2013 wef 01/07/2013]\n(2) Where the maximum laden weight of the aircraft used is below 2,730 kilogrammes any fee payable under this regulation shall be half the relevant amount specified in paragraph (1)."
+   }
+  },
+  {
+   "id": "SG-H161-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "No assignment, etc., of benefits of licence or permit"
+   },
+   "text": {
+    "en": "19.—(1) Subject to the provisions of this regulation, the holder of a licence granted under Part IA or II (referred to in this regulation as a licence) or of a permit granted under Part III shall not —\n(a)assign, transfer or otherwise dispose of any of the benefits of his licence or permit; or\n(b)permit another person to participate in any of the benefits, or exercise any of the powers or authority granted under the licence or permit.\n(2) The holder of a licence or permit may transfer or assign the licence or permit to another person only with the prior approval of the relevant authority.\n[S 649/2011 wef 19/12/2011]\n(2A) Every application for approval to a transfer or an assignment of a licence or permit must be —\n(a)made to the relevant authority;\n(b)made jointly by the holder of the licence or permit and the person to whom the holder wishes to transfer or assign the licence or permit; and\n(c)in the case of a licence under Part IA, in accordance with regulation 2U.\n[S 649/2011 wef 19/12/2011]\n(3) Where the holder of a licence or permit —\n(a)dies;\n(b)in the case of a company, is wound up or goes into liquidation or is otherwise dissolved; or\n(c)ceases, for any other reason, to provide any air services in respect of which his licence or permit is granted,\nany person who wishes to carry on the holder’s business of providing the air services shall apply to the relevant authority for the transfer of the licence or permit (as the case may be) to him.\n[S 128/2010 wef 01/03/2010]\n(4) The relevant authority may, upon the receipt of an application under paragraph (3), grant provisional approval to the person making the application to commence the provision of the air services until his application is approved or rejected; and that person shall not, when providing those air services at any time until his application is approved or rejected, be treated to be in contravention of regulation 2A or 14.\n(5) Without prejudice to regulation 2U, the relevant authority may, on receipt of an application under paragraph (2) or (3), approve the transfer or assignment of the licence or permit on such terms and conditions as it thinks fit if it is satisfied that —\n(a)such transfer or assignment would not involve or result in any disruption of the air services provided by the holder of the licence or permit prior to the proposed transfer or assignment; and\n(b)the proposed transferee or assignee is willing and able to substantially comply with the terms and conditions of the licence or permit.\n[S 649/2011 wef 19/12/2011]\n(5A) In making its determination under paragraph (5) with respect to an application for approval to a transfer or an assignment of a licence granted under Part IA, the Committee shall have regard to —\n(a)the reasons for the transfer;\n(b)whether the transferee is a designated carrier under the air services agreement relating to the provision of air services under the licence;\n(c)whether the transferee is the holder of a valid air operator certificate;\n(d)the matters referred to in regulation 2G(1)(h) to (q) in so far as these apply to both the transferor and transferee; and\n(e)any matters considered by the Committee at the time the licence was granted to the transferor, including any other competing applications for that same licence at that time.\n[S 649/2011 wef 19/12/2011]\n(6) Except as otherwise provided in this regulation and regulation 2U, an application for the assignment of a licence or permit shall be —\n(a)made in such form and manner; and\n(b)accompanied by such documents and information,\nas the relevant authority may require.\n[S 649/2011 wef 19/12/2011]\n(7) Nothing in this regulation shall be construed as imposing an obligation on the relevant authority to approve the transfer or assignment of a licence or permit in any case.\n(8) In this regulation, “relevant authority” means —\n(a)in the case of a licence under Part IA, the Committee;\n(b)in the case of a licence under Part II, the Minister; or\n(c)in the case of a permit under Part III, the Chief Executive.\n[S 128/2010 wef 01/03/2010]"
+   }
+  },
+  {
+   "id": "SG-H161-A19.001",
+   "no": 19.001,
+   "noLabel": {
+    "en": "19A."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Penalty"
+   },
+   "text": {
+    "en": "19A. Any person who, for the purpose of obtaining for himself or another person —\n(a)a licence under Part IA or II or a permit under Part III; or\n(b)the renewal, variation, transfer or assignment of a licence under Part IA or II or a permit under Part III,\nknowingly or recklessly furnishes the Committee, the Minister or the Chief Executive (as the case may be) with any information which is false or misleading in a material particular, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a second or subsequent offence, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both."
+   }
+  },
+  {
+   "id": "SG-H161-A19.002",
+   "no": 19.002,
+   "noLabel": {
+    "en": "19B."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Fees not refundable"
+   },
+   "text": {
+    "en": "19B. Subject to regulation 2T, the fees payable under these Regulations shall not be refundable."
+   }
+  },
+  {
+   "id": "SG-H161-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "20. The Minister may, subject to such conditions or limitations as he may see fit to impose, exempt any person or class of persons from all or any of the provisions of these Regulations."
+   }
+  },
+  {
+   "id": "SG-H161-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Power to prevent aircraft flying"
+   },
+   "text": {
+    "en": "21. If it appears to the Minister or the Chief Executive that any aircraft is intended or likely to be flown in contravention of any of the provisions of these Regulations, the Minister or the Chief Executive, as the case may be, may —\n(a)direct the operator of the aircraft not to permit the aircraft to make, or the commander of the aircraft not to make, the particular flight; and\n(b)take such steps as are necessary to detain the aircraft.\n[S 128/2010 wef 01/03/2010]"
+   }
+  },
+  {
+   "id": "SG-H161-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Offence by body corporate"
+   },
+   "text": {
+    "en": "22. Where an offence under these Regulations has been committed by a company, any person who at the time of the commission of the offence was a director, general manager, secretary or other officer of the company or who was purporting to act in any such capacity, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly unless he proves that —\n(a)the offence was committed without his consent or connivance; and\n(b)he exercised such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances."
+   }
+  },
+  {
+   "id": "SG-H161-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulations 2F and 2H\nInformation required in application for licence\nPart I\n1. If the applicant is a body corporate, information about the persons who hold ownership of the applicant, and about the persons who control the applicant.\n2. Information about the applicant’s financial resources.\n3. Information about —\n(a)the network of air services the applicant intends to provide and the aircraft fleet to be used for those air services, including the proposed date of commencement of those air services;\n(b)the market segments targeted;\n(c)the branding for the air services to be provided;\n(d)the markets to be served under co-operative arrangements with other operators; and\n(e)the viability of the applicant’s overall business model, including traffic forecasts of the air services to be provided by the applicant.\n4. Information about the extent to which the applicant’s proposed overall network of air services will promote Singapore as an air hub.\n5. Information about any other benefits that would accrue to Singapore by the applicant’s proposed overall network of air services.\nPart II\n1. Information about —\n(a)the cities to be served;\n(b)the routes on which the air services are to be provided;\n(c)the aircraft types and configurations to be used;\n(d)the frequency, capacity and timetable of the air services to be provided;\n(e)the types of traffic to be carried;\n(f)the tariffs to be charged and conditions of tariffs;\n(g)the expected load factors of passenger and cargo carriage;\n(h)the expected load factors of passenger and cargo carriage that must be achieved in order to avoid any financial loss in providing the air services concerned;\n(i)the proposed date on which the provision of air services is to commence;\n(j)the nature of the air services to be provided, including any joint services, code-sharing and other arrangements to be entered into with one or more airlines with respect to the air services to be provided;\n(k)the benefits that would ensue to the public if a licence is granted to the applicant or is renewed;\n(l)the extent to which tourism can be promoted if a licence is granted to the applicant or is renewed;\n(m)the extent to which international trade can be promoted if a licence is granted to the applicant or is renewed;\n(n)the extent to which Singapore can be promoted as an air hub if a licence is granted to the applicant or if his licence is renewed; and\n(o)any other benefits that would accrue to Singapore if a licence is granted to the applicant or if his licence is renewed.\n[S 322/2011 wef 10/06/2011]\n[S 649/2011 wef 19/12/2011]"
+   }
+  },
+  {
+   "id": "SG-H161-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 2U\nInformation required in application\nfor approval to transfer or assign licence\ngranted under Part IA\n1. The identity and particulars of any person who —\n(a)controls more than half the voting power in the transferor and the transferee, respectively;\n(b)holds more than half of the issued share capital of the transferor and the transferee, respectively (excluding any part thereof which consists of preference shares and treasury shares); or\n(c)controls the composition of the board of directors of the transferor and transferee, respectively.\n2. The relationship between the transferor and the transferee.\n3. The cities to be served by the transferor and the transferee, respectively, after the transfer or assignment of the licence.\n4. The routes on which air services are to be provided by the transferor and the transferee, respectively, after the transfer or assignment of the licence.\n5. The types and configurations of the aircraft to be used by the transferee on the flights under the licence.\n6. The frequency, capacity and timetable of the air services to be provided by the transferor and the transferee, respectively, after the transfer or assignment of the licence.\n7. The types of traffic to be carried by the transferor and the transferee, respectively, after the transfer or assignment of the licence.\n8. The tariffs to be charged by the transferor and the transferee, respectively, after the transfer or assignment of the licence, and the conditions of those tariffs.\n9. The expected load factors of passenger and cargo carriage —\n(a)of the transferor and the transferee, respectively, after the transfer or assignment of the licence; and\n(b)that must be achieved by the transferor and the transferee, respectively, after such transfer or assignment in order to avoid any financial loss in providing air services under their respective licences.\n10. The date on which the transferee proposes to start providing air services under the licence to be transferred or assigned.\n11. The nature of the air services to be provided by the transferor and transferee, respectively, after the transfer or assignment of the licence, including any joint services, code-sharing or other arrangements entered or to be entered into with other airlines with respect to the air services to be provided by the transferor and transferee, respectively.\n12. The benefits that would ensue to the public if the transfer or assignment of the licence is approved.\n13. The extent to which —\n(a)tourism in Singapore would be promoted;\n(b)international trade with Singapore would be promoted;\n(c)Singapore as an air hub would be promoted;\n(d)any other benefits would accrue to Singapore,\nif the transfer or assignment of the licence is approved.\n14. The reason or reasons for the transfer or assignment of the licence.\n[S 649/2011 wef 19/12/2011]"
+   }
+  },
+  {
+   "id": "SG-H161-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nDeleted by S 128/2010, wef 01/03/2010.\n[G.N. Nos. S 344/74; S 244/83; S240/90; S 200/93; S 476/93; S 21/96; S 454/2001; S476/2003; S 747/2004; S451/2005]"
+   }
+  }
+ ]
+}

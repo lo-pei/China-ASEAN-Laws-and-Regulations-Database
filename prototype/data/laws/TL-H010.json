@@ -1,0 +1,471 @@
+{
+ "id": "TL-H010",
+ "title": {
+  "zh": "法律Nacionalidade",
+  "en": null,
+  "orig": "Lei da Nacionalidade"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2002-10-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 9/2002",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 33,
+ "chars": 11839,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2002_2005/leis_parlamento_nacional/9_2002.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 33 条；逐字取自官方公报 PDF（public/docs/2002_2005/leis_parlamento_nacional/9_2002.pdf）第 —–— 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H010-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Objecto"
+   },
+   "text": {
+    "pt": "A presente lei estabelece as condições de atribuição, aquisição, perda e reaquisição da nacionalidade timorense."
+   }
+  },
+  {
+   "id": "TL-H010-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Princípios básicos"
+   },
+   "text": {
+    "pt": "1.      A nenhum cidadão pode ser arbitrariamente retirada a nacionalidade nem negado o direito de mudar de nacionalidade.\n2.                  Para efeitos da presente lei:\na)                        A nacionalidade é determinada por lei e constitui um vínculo jurídico entre o indivíduo e o Estado;\nb)                        Estrangeiro é o indivíduo que não tenha vínculo jurídico de nacionalidade com a República Democrática de Timor-Leste;\nc)                        Apátrida é o indivíduo que não possa demonstrar vínculo jurídico de nacionalidade com qualquer Estado."
+   }
+  },
+  {
+   "id": "TL-H010-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "heading": {
+    "pt": "Modalidades"
+   },
+   "text": {
+    "pt": "A nacionalidade timorense pode ser:\na)      Originária;\nb)      Adquirida."
+   }
+  },
+  {
+   "id": "TL-H010-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "heading": {
+    "pt": "Aplicação no tempo"
+   },
+   "text": {
+    "pt": "A atribuição, a aquisição, a perda e a reaquisição da nacionalidade timorense são regidas pela lei em vigor, no momento em que se verifiquem os actos e factos que lhes dão origem."
+   }
+  },
+  {
+   "id": "TL-H010-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "heading": {
+    "pt": "Efeitos da atribuição da nacionalidade"
+   },
+   "text": {
+    "pt": "A atribuição da nacionalidade timorense produz efeitos desde o nascimento e não prejudica a validade das relações jurídicas anteriormente estabelecidas com fundamento em outra nacionalidade."
+   }
+  },
+  {
+   "id": "TL-H010-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "heading": {
+    "pt": "Efeitos da perda da nacionalidade"
+   },
+   "text": {
+    "pt": "Os efeitos da perda da nacionalidade produzem-se a partir da data dos actos ou factos que lhe deram origem."
+   }
+  },
+  {
+   "id": "TL-H010-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "heading": {
+    "pt": "Competência do Ministro da Justiça"
+   },
+   "text": {
+    "pt": "É da competência do Ministro da Justiça apreciar e decidir todas as questões respeitantes à atribuição, aquisição, perda e reaquisição da nacionalidade, quando essa competência não pertença ao Parlamento Nacional.\nCapítulo II\nNacionalidade originária"
+   }
+  },
+  {
+   "id": "TL-H010-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "heading": {
+    "pt": "Nacionalidade originária"
+   },
+   "text": {
+    "pt": "1. São cidadãos originários de Timor-Leste, desde que tenham nascido em território nacional:\na)                              Filhos de pai ou mãe nascidos em Timor-Leste;\nb)                              Filhos de pais incógnitos, apátridas ou de nacionalidade desconhecida;\nc)                              Filhos de pai ou mãe estrangeiros que, sendo maiores de dezassete anos, declararem, por si, querer ser timorenses.\n2. São cidadãos originários de Timor-Leste, ainda que nascidos em território estrangeiro, os filhos de pai ou mãe timorenses.\nCapítulo III\nNacionalidade adquirida"
+   }
+  },
+  {
+   "id": "TL-H010-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "heading": {
+    "pt": "Aquisição por motivo de filiação"
+   },
+   "text": {
+    "pt": "A nacionalidade timorense pode ser concedida aos filhos menores, de pai ou mãe com nacionalidade timorense adquirida, desde que os pais o solicitem, podendo os filhos optar por outra nacionalidade quando atinjam a maioridade."
+   }
+  },
+  {
+   "id": "TL-H010-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "heading": {
+    "pt": "Aquisição por adopção"
+   },
+   "text": {
+    "pt": "1.  Os filhos adoptados plenamente por cidadão timorense adquirem a nacionalidade timorense.\n2. Entende-se por adopção plena, para os efeitos da presente lei, a adopção que extingue totalmente os anteriores vínculos com a família natural, salvo para efeitos de constituir impedimento para casamento."
+   }
+  },
+  {
+   "id": "TL-H010-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "heading": {
+    "pt": "Aquisição por casamento"
+   },
+   "text": {
+    "pt": "1. O estrangeiro casado com nacional timorense pode adquirir a nacionalidade timorense desde que o requeira e à data do pedido satisfaça cumulativamente as seguintes condições:\na)                              Estar casado há mais de cinco anos;\nb)                              Residir em território nacional pelo menos há dois anos;\nc)                              Saber falar uma das línguas oficiais.\n2. Adquire ainda a nacionalidade timorense o estrangeiro casado com nacional timorense se pelo facto do casamento perder a sua anterior nacionalidade.\n3. A declaração de nulidade ou a anulação do casamento não prejudica a nacionalidade adquirida pelo cônjuge que o contraiu de boa fé."
+   }
+  },
+  {
+   "id": "TL-H010-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "heading": {
+    "pt": "Aquisição por naturalização"
+   },
+   "text": {
+    "pt": "1.   O Ministro da Justiça pode conceder a nacionalidade timorense ao estrangeiro que o requeira e à data do pedido satisfaça cumulativamente as seguintes condições:\na)                              Ser maior perante a lei timorense e a lei do Estado de origem;\nb)                              Residir habitual e regularmente em Timor-Leste há pelo menos 10 anos contados antes de 7 de Dezembro de 1975 ou a partir do dia 20 de Maio de 2002;\nc)                              Saber falar uma das línguas oficiais;\nd)                             Oferecer garantias morais e cívicas de integração na sociedade timorense;\ne)                              Possuir capacidade para reger a sua pessoa e para prover à sua subsistência;\nf)                               Conhecer a história e a cultura de Timor-Leste.\n2.   Não são considerados residentes habituais, nem residentes regulares, os cidadãos estrangeiros que fixaram residência em Timor-Leste por força da política de transmigração ou da ocupação militar estrangeira."
+   }
+  },
+  {
+   "id": "TL-H010-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "heading": {
+    "pt": "Naturalização por altos e relevantes serviços"
+   },
+   "text": {
+    "pt": "O Parlamento Nacional pode conceder a nacionalidade timorense ao cidadão estrangeiro que tenha prestado altos e relevantes serviços ao país.\nCapítulo IV\nPerda e reaquisição de nacionalidade"
+   }
+  },
+  {
+   "id": "TL-H010-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "heading": {
+    "pt": "Perda da nacionalidade"
+   },
+   "text": {
+    "pt": "1. Perde a nacionalidade timorense:\na)      Aquele que voluntariamente adquira uma nacionalidade estrangeira e manifeste pretensão de não querer ser timorense;\nb)      Os filhos menores de nacionais timorenses nascidos no estrangeiro e que por tal facto tenham igualmente outra nacionalidade, se, ao atingirem a maioridade, manifestarem a pretensão de não querer ser timorenses.\n2. Perde ainda a nacionalidade timorense obtida por naturalização a pessoa que:\na)      Preste serviço militar a Estado estrangeiro, a menos que seja expressamente autorizado por acordo celebrado com o Estado em questão;\nb)      Sem autorização do Governo, exerça funções de soberania a favor de Estado estrangeiro;\nc)      For condenada definitivamente por crime contra a segurança externa do Estado timorense;\nd)     Obtiver a nacionalidade falsificando documentos, usando meios fraudulentos ou induzindo, por qualquer outra forma, em erro as autoridades competentes."
+   }
+  },
+  {
+   "id": "TL-H010-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "heading": {
+    "pt": "Reaquisição de nacionalidade"
+   },
+   "text": {
+    "pt": "1.   Se a nacionalidade timorense for perdida por causa da declaração de vontade dos pais durante a menoridade, os cidadãos afectados podem readquirir a nacionalidade por opção depois de atingida a maioridade.\n2.   Os cidadãos referidos no número anterior devem fazer prova de que têm  residência estabelecida em território nacional há pelo menos um ano.\n3.   Quando a nacionalidade timorense tenha sido perdida por qualquer das razões previstas no n.º 1 do\nartigo 14.º, poderá ser readquirida, por deliberação do Ministério da Justiça, desde que o indivíduo tenha estabelecido residência no território nacional há pelo menos cinco anos.\nCapítulo V\nOposição à aquisição ou reaquisição da nacionalidade"
+   }
+  },
+  {
+   "id": "TL-H010-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "heading": {
+    "pt": "Fundamentos"
+   },
+   "text": {
+    "pt": "Constituem fundamentos de oposição à aquisição ou reaquisição da nacionalidade timorense:\na)                              A manifesta inexistência de qualquer vínculo efectivo à sociedade timorense;\nb)                              A condenação por crime doloso punível com pena de prisão superior a oito anos nos termos da lei;\nc)                              A condenação por crime contra a segurança interna ou externa do Estado de Timor-Leste;\nd)                             O exercício sem autorização do Governo de funções de soberania a favor de Estado estrangeiro;\ne)                              A prestação de serviço militar a favor de Estado estrangeiro, fora dos casos expressamente autorizados."
+   }
+  },
+  {
+   "id": "TL-H010-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "heading": {
+    "pt": "Legitimidade"
+   },
+   "text": {
+    "pt": "1.      A oposição é exercida pelo Ministério Público, com recurso para o Supremo Tribunal de Justiça, no prazo de seis meses a contar da declaração de vontade de que depende a aquisição ou reaquisição da nacionalidade.\n2.      É obrigatória para todas as autoridades e facultativa para os cidadãos a denúncia ao Ministério Público dos factos a que se refere o artigo anterior.\n3.      Até que esteja  instalado o Supremo Tribunal de Justiça, o julgamento dos recursos interpostos nos termos do n.º 1 caberá aos juizes timorenses do Tribunal de Recurso.\nCapítulo VI\nRegisto e prova da nacionalidade"
+   }
+  },
+  {
+   "id": "TL-H010-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "heading": {
+    "pt": "Factos sujeitos a registo"
+   },
+   "text": {
+    "pt": "1.      Estão sujeitos a registo obrigatório, em livro próprio, na Conservatória dos Registos Centrais, todos os factos que determinem a atribuição, a aquisição, a perda e a reaquisição da nacionalidade.\n2.      Exceptuam-se do disposto no número anterior a atribuição da nacionalidade quando feita através de inscrição do nascimento no registo civil timorense e a sua aquisição mediante adopção por mero facto da lei.\n3.      O registo dos actos a que se refere o n.º 1 deste artigo é feito a requerimento dos interessados."
+   }
+  },
+  {
+   "id": "TL-H010-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "heading": {
+    "pt": "Declaração de nacionalidade"
+   },
+   "text": {
+    "pt": "1.      As declarações de nacionalidade que se consubstanciem numa manifestação de vontade tendente à obtenção da cidadania timorense podem ser prestadas perante agentes diplomáticos ou consulares timorenses e são oficiosamente registadas com base nos documentos necessários, que para o efeito são remetidos à Conservatória dos Registos Centrais.\n2.      A simples inscrição ou matrícula consular não constitui, só por si, título atributivo da nacionalidade timorense."
+   }
+  },
+  {
+   "id": "TL-H010-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "heading": {
+    "pt": "Averbamento da nacionalidade"
+   },
+   "text": {
+    "pt": "Todo o registo que se refira à atribuição, aquisição, perda ou reaquisição da nacionalidade é sempre averbado ao assento de nascimento do interessado."
+   }
+  },
+  {
+   "id": "TL-H010-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "heading": {
+    "pt": "Assentos de nascimento de filhos de cidadãos estrangeiros"
+   },
+   "text": {
+    "pt": "1.      Nos assentos de nascimento de filhos de cidadãos estrangeiros ou de nacionalidade desconhecida, nascidos em Timor-Leste, far-se-á constar essa qualidade.\n2.      A nacionalidade estrangeira ou desconhecida, para efeitos do número anterior, deve ser, sempre que possível, comprovada por documento que demonstre que nenhum dos pais é timorense."
+   }
+  },
+  {
+   "id": "TL-H010-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "heading": {
+    "pt": "Estabelecimento da filiação ou adopção posterior ao registo de nascimento"
+   },
+   "text": {
+    "pt": "Quando a filiação da pessoa estrangeira nascida em Timor-Leste for estabelecida ou decretada depois do registo do seu nascimento, é  averbada ao assento de nascimento  a nacionalidade dos progenitores ou adoptantes timorenses, com menção da decisão judicial que a tiver estabelecido e respectiva comunicação do facto."
+   }
+  },
+  {
+   "id": "TL-H010-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "heading": {
+    "pt": "Prova de nacionalidade originária"
+   },
+   "text": {
+    "pt": "1.      A nacionalidade timorense originária de indivíduos nascidos em território timorense de pai ou mãe timorense prova-se pelo assento de nascimento, do qual não conste qualquer menção em contrário.\n2.      A nacionalidade timorense de indivíduo nascido no estrangeiro prova-se, consoante os casos, pelo registo da declaração do qual depende a sua atribuição ou pelas menções constantes do assento de nascimento, lavrado por inscrição no registo civil timorense, ou da certidão de baptismo."
+   }
+  },
+  {
+   "id": "TL-H010-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "heading": {
+    "pt": "Prova de aquisição e perda de nacionalidade"
+   },
+   "text": {
+    "pt": "1.      A aquisição e perda da nacionalidade provam-se pelos respectivos registos ou pelos consequentes averbamentos à margem dos assentos de nascimento.\n2.      À prova da aquisição da nacionalidade por adopção é aplicável o n.° 1 do artigo anterior."
+   }
+  },
+  {
+   "id": "TL-H010-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "heading": {
+    "pt": "Pareceres do Conservador dos Registos Centrais"
+   },
+   "text": {
+    "pt": "Compete ao Conservador dos Registos Centrais emitir parecer sobre todas as questões de nacionalidade, designadamente sobre as que lhe devem ser submetidas pelos agentes consulares, em caso de dúvida sobre a nacionalidade timorense da pessoa que solicita a matrícula ou inscrição consular."
+   }
+  },
+  {
+   "id": "TL-H010-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "heading": {
+    "pt": "Certificados de nacionalidade"
+   },
+   "text": {
+    "pt": "1.      Independentemente da existência de registo, podem ser passados pelo Conservador dos Registos Centrais, a requerimento do interessado, certificados de nacionalidade timorense.\n2.      A força probatória do certificado pode ser afastada, por qualquer meio, sempre que não exista registo da nacionalidade do respectivo titular.\nCapítulo VII\nContencioso da nacionalidade"
+   }
+  },
+  {
+   "id": "TL-H010-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "heading": {
+    "pt": "Legitimidade"
+   },
+   "text": {
+    "pt": "Tem legitimidade para interpor recurso de quaisquer actos relativos à atribuição, aquisição, perda e reaquisição de nacionalidade timorense os directamente interessados e o Ministério Público."
+   }
+  },
+  {
+   "id": "TL-H010-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "heading": {
+    "pt": "Tribunal competente"
+   },
+   "text": {
+    "pt": "1.      A apreciação dos recursos a que se refere o artigo anterior cabe à secção civil do Supremo Tribunal de Justiça.\n2.      Até que esteja completada a instalação do Supremo Tribunal de Justiça, o julgamento dos recursos interpostos nos termos do artigo anterior caberá ao colectivo dos juízes timorenses do Tribunal de Recurso."
+   }
+  },
+  {
+   "id": "TL-H010-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "heading": {
+    "pt": "Conflito de nacionalidade timorense e estrangeira"
+   },
+   "text": {
+    "pt": "Não será reconhecida nem poderá produzir efeitos na ordem jurídica interna qualquer outra nacionalidade atribuída aos cidadãos timorenses."
+   }
+  },
+  {
+   "id": "TL-H010-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "heading": {
+    "pt": "Conflito de nacionalidades estrangeiras"
+   },
+   "text": {
+    "pt": "Nos conflitos de nacionalidades estrangeiras prevalecerá a nacionalidade do Estado em cujo território o plurinacional tenha a sua residência habitual ou, na falta desta, a do Estado com o qual mantenha um vínculo mais estreito.\nCapítulo VIII\nDisposições finais"
+   }
+  },
+  {
+   "id": "TL-H010-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "heading": {
+    "pt": "Regulamentação"
+   },
+   "text": {
+    "pt": "O Governo regulamentará a presente lei no prazo de 180 dias a contar da data da sua publicação."
+   }
+  },
+  {
+   "id": "TL-H010-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "heading": {
+    "pt": "Resolução de dúvidas"
+   },
+   "text": {
+    "pt": "As dúvidas que surgirem na interpretação e aplicação da presente lei serão resolvidas pelo Governo."
+   }
+  },
+  {
+   "id": "TL-H010-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor 30 dias depois da data da sua publicação."
+   }
+  }
+ ]
+}

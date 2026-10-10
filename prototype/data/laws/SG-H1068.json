@@ -1,0 +1,198 @@
+{
+ "id": "SG-H1068",
+ "title": {
+  "zh": null,
+  "en": "Customs (Valuation) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p14",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CA1960-RG8",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 12,
+ "chars": 35400,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CA1960-RG8?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 12 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1068-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Customs (Valuation) Regulations."
+   }
+  },
+  {
+   "id": "SG-H1068-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations, unless the context otherwise requires —\n“computed value” means the value determined in accordance with regulation 8;\n“country of export” or “the country from which any goods are exported” means the country from which the goods are transported directly to Singapore or, as the case may be, the country from which the goods are deemed to be transported pursuant to paragraph (4)(b);\n“deductive value” means the value determined in accordance with regulation 7;\n“goods of the same class or kind” means imported goods that —\n(a)are within a group or range of imported goods produced by a particular industry or industry sector that includes identical goods or similar goods in relation to the goods being valued; and\n(b)for the purposes of —\n(i)regulation 7, were exported from any country; and\n(ii)regulation 8, were produced in and exported from the country in and from which the goods being valued were produced and exported;\n“identical goods” means imported goods that —\n(a)are the same in all respects, including physical characteristics, quality and reputation, as the goods being valued, except for minor differences in appearance that do not affect the value of the goods;\n(b)were produced in the country in which the goods being valued were produced; and\n(c)were produced by or on behalf of the person who produced the goods being valued,\nbut does not include imported goods where engineering, development work, art work, design work, plans or sketches undertaken in Singapore were supplied, directly or indirectly, by the buyer of those imported goods free of charge or at a reduced cost for use in connection with the production and sale for export of those imported goods;\n“price paid or payable”, in relation to any goods, means the aggregate of all amounts paid or payable by the buyer to or for the benefit of the seller in respect of the goods;\n“produce” includes grow, manufacture and mine;\n“similar goods” means imported goods that —\n(a)closely resemble the goods being valued in respect of component materials and parts and characteristics and are functionally and commercially interchangeable with the goods being valued having regard to the quality and reputation (including any relevant trade mark) of the goods and the goods being valued;\n(b)were produced in the country in which the goods being valued were produced; and\n(c)were produced by or on behalf of the person who produced the goods being valued,\nbut does not include imported goods where engineering, development work, art work, design work, plans or sketches undertaken in Singapore were supplied, directly or indirectly, by the buyer of those imported goods free of charge or at a reduced cost for use in connection with the production and sale for export of those imported goods;\n“sufficient information”, in respect of the determination of any amount, difference or adjustment, means objective and quantifiable information that clearly establishes the accuracy of the amount, difference or adjustment;\n“transaction value” means the value determined in accordance with regulations 3 and 4.\n(2) For the purposes of these Regulations, persons shall be deemed to be related only if —\n(a)they are officers or directors of one another’s businesses;\n(b)they are legally recognised partners in business;\n(c)they are employer and employee;\n(d)any person directly or indirectly owns, controls or holds 5 per cent or more of the outstanding voting stock or shares of both of them;\n(e)one of them, directly or indirectly, controls the other;\n(f)both of them are, directly or indirectly, controlled by a third person;\n(g)together they, directly or indirectly, control a third person; or\n(h)they are members of the same family.\n(3) Persons who are associated in business with one another in that one is the sole agent, sole distributor or sole concessionaire, however described, of the other shall be deemed to be related for the purposes of these Regulations if they fall within the criteria of paragraph (2).\n(4) For the purposes of these Regulations —\n(a)where there are no goods that were produced by or on behalf of the person who produced the goods being valued and that are otherwise identical goods or similar goods, goods that were produced by or on behalf of a different person and that are otherwise identical goods or similar goods shall be deemed to be identical goods or similar goods, as the case may be; and\n(b)goods exported to Singapore from any country but passing through any other country on their way to Singapore (whether transhipped in that other country or not) shall be deemed to be transported directly from the first-mentioned country.\n(5) In the interpretation of these Regulations, regard shall be had to —\n(a)the Interpretative Notes in Annex I to the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade 1994; and\n(b)the Decision of 26th April 1984 on the Treatment of Interest Charges in the Customs Value of Imported Goods."
+   }
+  },
+  {
+   "id": "SG-H1068-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Transaction value as primary basis of valuation"
+   },
+   "text": {
+    "en": "3.—(1) For the levying of customs duty or excise duty, the value of imported goods shall be their transaction value, that is, the price paid or payable for the goods when sold for export to Singapore, adjusted in accordance with regulation 4, if —\n(a)there are no restrictions respecting the disposition or use of the goods by the buyer, other than restrictions that —\n(i)are imposed by law;\n(ii)limit the geographical area in which the goods may be resold; or\n(iii)do not substantially affect the value of the goods;\n(b)the sale of the goods or the price paid or payable for the goods is not subject to some condition or consideration in respect of which a value cannot be determined;\n(c)any part of the proceeds of any subsequent resale, disposal, or use of the goods by the buyer is to accrue, directly or indirectly, to the seller, the price paid or payable for the goods includes the value of that part of the proceeds or can be adjusted in accordance with regulation 4; and\n(d)the buyer and the seller of the goods are not related at the time the goods are sold for export or, where the buyer and the seller are related at that time —\n(i)their relationship did not influence the price paid or payable for the goods; or\n(ii)the importer demonstrates that the transaction value of the goods meets the requirements set out in paragraph (2).\n(2) In a sale between related persons, for the purpose of showing that the relationship did not influence the transaction value, the importer may produce evidence that the transaction value of the goods being valued, taking into consideration any relevant factors including such factors and differences as enumerated in paragraph (6), closely approximates the customs value of other goods determined at the same time or substantially at the same time as the goods being valued, being —\n(a)the transaction value of identical goods or similar goods in respect of a sale of those goods for export to Singapore between a seller and a buyer who are not related at the time of the sale;\n(b)the deductive value of identical goods or similar goods determined in accordance with regulation 7;\n(c)the computed value of identical goods or similar goods determined in accordance with regulation 8; or\n(d)where sub-paragraphs (a), (b) and (c) do not apply, the price of identical goods or similar goods charged to —\n(i)an unrelated buyer in the country of export;\n(ii)an unrelated buyer in a country other than Singapore or the country of export; or\n(iii)other related buyers in Singapore.\n[S 146/2003 wef 01/04/2003]\n(3) In any case where the proper officer of customs is of the opinion that the relationship between the buyer and the seller of any goods influenced the price paid or payable for the goods, he shall inform the importer, in writing if so requested, of the grounds on which he formed his opinion, and shall give the importer a reasonable opportunity to satisfy him that the relationship did not influence the price.\n(4) Where —\n(a)the proper officer of customs —\n(i)has reason to doubt the truth or accuracy of the customs value determined under this regulation;\n(ii)has requested for further explanation or evidence from the importer that such value represents the price actually paid or payable for the imported goods, and if requested by the importer, has informed the importer in writing of the grounds for doubting the truth or accuracy of —\n(A)the customs value determined under this regulation; or\n(B)any particulars or documents submitted by the importer;\n(iii)has not received any response from the importer or has not been satisfied by the importer’s response that the customs value can be determined under this regulation; and\n(iv)has decided that the customs value cannot be determined under this regulation and informed the importer in writing of his decision and the reasons for that decision; or\n(b)for any other reason, the proper officer of customs is of the opinion that the customs value cannot be determined under this regulation,\nthe customs value shall be determined by proceeding sequentially through regulations 5 to 9 to the first such regulation under which the customs value can, in the opinion of the proper officer of customs, be determined.\n[S 186/2005 wef 01/04/2005]\n(5) Notwithstanding paragraph (4), on the written request of the importer to the proper officer of customs the order of consideration of the valuation basis provided for in regulations 7 and 8 shall be reversed.\n(6) The factors and differences referred to in paragraph (2) are as follows:\n(a)the nature of the goods being valued;\n(b)the nature of the industry that produces the goods being valued;\n(c)the season in which the goods being valued are imported;\n(d)whether a difference in values is commercially significant;\n(e)the commercial levels at which the sales take place;\n(f)the quantity levels of the sales;\n(g)any of the amounts referred to in regulation 4(2) and (3); and\n(h)the costs, charges or expenses incurred by a seller, when he sells to a buyer to whom he is not related that are not incurred when a seller sells to a buyer to whom he is related."
+   }
+  },
+  {
+   "id": "SG-H1068-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Adjustment of price paid or payable"
+   },
+   "text": {
+    "en": "4.—(1) In determining the transaction value of goods under regulation 3, the price paid or payable for the goods shall be adjusted in the manner specified in paragraphs (2) and (3).\n(2) The price paid or payable for the goods shall be adjusted by adding amounts, to the extent that each such amount is not otherwise included in the price paid or payable for the goods and is determined on the basis of sufficient information, equal to —\n(a)commissions and brokerage in respect of the goods incurred by the buyer, other than fees paid or payable by the buyer to his agent for the service of representing him overseas in respect of the purchase of the goods;\n(b)the packing costs and charges incurred by the buyer in respect of the goods, including the cost of cartons, cases and other containers and coverings that are treated for customs purposes as being part of the imported goods and all expenses of packing incidental to placing the goods in the condition in which they are transported to Singapore;\n(c)the value of any of the following goods and services:\n(i)materials, components, parts and other goods incorporated in the imported goods;\n(ii)tools, dies, moulds and other goods utilised in the production of the imported goods;\n(iii)materials consumed in the production of the imported goods; or\n(iv)engineering, development work, art work, design work, plans and sketches undertaken elsewhere than in Singapore and necessary for the production of the imported goods,\ndetermined in the manner specified in paragraphs (5) to (8), that are supplied, directly or indirectly, by the buyer free of charge or at a reduced cost for use in connection with the production and sale for export of the imported goods, apportioned to the imported goods in a reasonable manner and in accordance with generally accepted accounting principles;\n(d)royalties and licence fees, including payments for patents, trademarks and copyrights in respect of the imported goods that the buyer must pay, directly or indirectly, as a condition of the sale of the goods for export to Singapore, exclusive of charges for the right to reproduce the imported goods in Singapore;\n(e)the value of any part of the proceeds of any subsequent resale, disposal or use of the goods by the buyer that accrues or is to accrue, directly or indirectly, to the seller; and\n(f)the cost of transportation and insurance of, and the loading, unloading, and handling charges, and other charges and expenses associated with the transportation of the imported goods from the country of export to Singapore.\n(3) After the additions are made in accordance with paragraph (2), the price paid or payable for the goods shall be further adjusted by deducting amounts, to the extent that each such amount is otherwise included in the price paid or payable for the goods, equal to any of the following costs, charges or expenses:\n(a)any reasonable cost, charge or expense that is incurred for the construction, erection, assembly or maintenance of, or technical assistance provided in respect of, the goods after the goods are imported;\n(b)any reasonable cost, charge or expense that is incurred in respect of the transportation or insurance of the goods within Singapore and any reasonable cost, charge or expense associated therewith; or\n(c)any customs duties, excise duties or other taxes payable in Singapore by reason of the importation or sale of the goods,\nif the cost, charge or expense is identified separately from the balance of the price paid or payable for the goods.\n(4) Where any adjustment in terms of paragraphs (1), (2) and (3) cannot, in the opinion of the proper officer of customs, be made because of the lack of sufficient information, then the transaction value of the goods being valued cannot be determined under regulation 3.\n(5) The value of the goods and services supplied, directly or indirectly, by the buyer of any goods being valued shall be determined in accordance with paragraphs (6), (7) and (8).\n(6) In the case of materials, components, parts and other goods incorporated in the goods being valued or any materials consumed in the production of the goods being valued —\n(a)by ascertaining —\n(i)their cost of acquisition where they were acquired by the buyer from a person who was not related to him at the time of their acquisition;\n(ii)their cost of acquisition incurred by the person related to the buyer, where the goods were acquired by the buyer from a person who was related to him at the time of their acquisition but who did not produce them; or\n(iii)their cost of production where they were produced by the buyer or a person related to him at the time of their production; and\n(b)by adding thereto —\n(i)the cost of their transportation to the place of production of the goods being valued; and\n(ii)the value added to them by any repairs or modifications made to them after they were so acquired or produced.\n(7) In the case of tools, dies, moulds and other goods utilised in the production of the goods being valued —\n(a)by ascertaining —\n(i)their cost of acquisition where they were acquired by the buyer from a person who was not related to him at the time they were so acquired;\n(ii)their cost of acquisition incurred by the person related to the buyer, where they were acquired by the buyer from a person related to him at the time they were so acquired but who did not produce them; or\n(iii)their cost of production where they were produced by the buyer or a person related to him at the time of their production;\n(b)by adding thereto —\n(i)the cost of their transportation to the place of production of the goods being valued; and\n(ii)the value added to them by any repairs or modifications made to them after they were so acquired or produced; and\n(c)by deducting therefrom an amount to account for any previous use of the goods made after the goods were so acquired or produced.\n(8) In the case of engineering, development work, art work, design work, plans and sketches, undertaken elsewhere than in Singapore and necessary for the production of the goods being valued, by ascertaining —\n(a)their cost of acquisition or of the lease thereof, where they were acquired or leased by the buyer from a person who was not related to him at the time they were so acquired or leased and are not generally available to the public;\n(b)their cost of acquisition or of the lease thereof incurred by the person related to the buyer, where they were acquired or leased by the buyer from a person related to him at the time they were so acquired or leased, but who did not produce them and are not generally available to the public;\n(c)the cost to the public of obtaining them where they are available generally to the public; or\n(d)the cost of production thereof where they were produced by the buyer or a person related to him at the time of their production."
+   }
+  },
+  {
+   "id": "SG-H1068-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Transaction value of identical goods as value"
+   },
+   "text": {
+    "en": "5.—(1) Subject to paragraphs (2), (3) and (4), where the customs value of imported goods cannot, in the opinion of the proper officer of customs, be determined under regulation 3, the customs value of the goods shall be the transaction value of identical goods in respect of a sale of those goods for export to Singapore if that transaction value is the customs value of the identical goods and the identical goods were exported at the same or substantially the same time as the goods being valued and were sold under the following conditions:\n(a)to a buyer at the same or substantially the same commercial level as the buyer of the goods being valued; and\n(b)in the same or substantially the same quantities as the goods being valued.\n(2) Where the customs value of imported goods cannot be determined under paragraph (1) because identical goods were not sold under the conditions described in paragraph (1)(a) and (b), there shall be substituted therefor identical goods sold under any of the following conditions:\n(a)to a buyer at the same or substantially the same commercial level as the buyer of the goods being valued but in quantities different from the quantities in which those goods were sold;\n(b)to a buyer at a commercial level different from that of the buyer of the goods being valued but in the same or substantially the same quantities as the quantities in which those goods were sold; or\n(c)to a buyer at a commercial level different from that of the buyer of the goods being valued and in quantities different from the quantities in which those goods were sold.\n(3) For the purposes of determining the customs value of imported goods under paragraph (1), the transaction value of identical goods shall be adjusted by adding thereto or deducting therefrom, as the case may be, amounts to account for —\n(a)commercially significant differences between the costs, charges and expenses referred to in regulation 4(2)(f) in respect of the identical goods and those costs, charges and expenses in respect of the goods being valued that are attributable to differences in distances and modes of transport; and\n(b)where the transaction value is in respect of identical goods sold under the conditions described in any of sub-paragraphs (a), (b) and (c) of paragraph (2), differences in the commercial levels of the buyers of the identical goods and the goods being valued or the quantities in which the identical goods and the goods being valued were sold or both, as the case may be,\nif each such amount can, in the opinion of the proper officer of customs, be determined on the basis of sufficient information; and where any such amount cannot be so determined, the customs value of the goods being valued shall not be determined on the basis of the transaction value of those identical goods under this regulation.\n(4) Where, in relation to imported goods being valued, there are 2 or more transaction values of identical goods that meet all the requirements set out in paragraphs (1) and (3) or where there is no such transaction value but there are 2 or more transaction values of identical goods sold under the conditions described in any of sub-paragraphs (a), (b) and (c) of paragraph (2) that meet all the requirements set out in this paragraph that are applicable by virtue of paragraph (2), the customs value of the goods being valued shall be determined on the basis of the lowest such transaction value."
+   }
+  },
+  {
+   "id": "SG-H1068-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Transaction value of similar goods as value"
+   },
+   "text": {
+    "en": "6.—(1) Subject to paragraph (2) and regulation 5(2), (3) and (4), where the customs value of imported goods cannot, in the opinion of the proper officer of customs, be determined under regulation 5, the customs value of the goods shall be the transaction value of similar goods in respect of a sale of those goods for export to Singapore if that transaction value is the customs value of the similar goods and the similar goods were exported at the same or substantially the same time as the goods being valued and were sold under the following conditions:\n(a)to a buyer at the same or substantially the same commercial level as the buyer of the goods being valued; and\n(b)in the same or substantially the same quantities as the goods being valued.\n(2) Paragraphs (2), (3) and (4) of regulation 5 shall apply to this regulation in respect of similar goods as if every reference in those paragraphs to “identical goods” were a reference to “similar goods”."
+   }
+  },
+  {
+   "id": "SG-H1068-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Deductive value as value"
+   },
+   "text": {
+    "en": "7.—(1) Subject to regulation 3(4) and (5), where the customs value cannot, in the opinion of the proper officer of customs, be determined under regulation 6, the customs value of the goods shall be the deductive value in respect of the goods.\n(2) Where the goods being valued or identical goods or similar goods are sold in Singapore in the condition in which they were imported at the same or substantially the same time as the time of importation of the goods being valued, the deductive value of the goods being valued shall be the price per unit in respect of sales described in paragraph (5), determined in accordance with that paragraph and adjusted in accordance with paragraph (6), at which the greatest number of units of the goods being valued or identical goods or similar goods are so sold.\n(3) Where the goods being valued or identical goods or similar goods are sold in Singapore in the condition in which they were imported before the expiration of 90 days after the importation of the goods being valued but are not so sold at the same or substantially the same time as the time of that importation, the deductive value of the goods being valued shall be the price per unit in respect of sales described in paragraph (5), determined in accordance with that paragraph and adjusted in accordance with paragraph (6), at which the greatest number of units of the goods being valued or identical goods or similar goods are so sold at the earliest date after the importation of the goods being valued.\n(4) Where the goods being valued or identical goods or similar goods are not sold in Singapore in the circumstances described in paragraph (2) or (3), but the goods being valued, after being assembled, packaged or further processed in Singapore, are sold in Singapore before the expiration of 90 days after the importation and the importer of the goods being valued requests that this paragraph be applied in the determination of the customs value of those goods, the deductive value of the goods being valued shall be the price per unit, in respect of sales described in paragraph (5), determined in accordance with that paragraph and adjusted in accordance with paragraph (6), at which the greatest number of units of the goods being valued are so sold.\n(5) For the purposes of paragraphs (2), (3) and (4), the price per unit in respect of any goods being valued or identical goods or similar goods shall be determined by ascertaining the unit price in respect of sales of the goods at the first commercial level after their importation to persons who —\n(a)are not related to the persons from whom they buy the goods at the time the goods are sold to them; and\n(b)have not supplied, directly or indirectly, free of charge or at a reduced cost for use in connection with the production and sale for export of the goods, any of the goods or services referred to in regulation 4(2)(c),\nat which the greatest number of units of the goods is sold where, in the opinion of the proper officer of customs, a sufficient number of such sales have been made to permit a determination of the price per unit of the goods.\n(6) For the purposes of paragraphs (2), (3) and (4), the price per unit in respect of any goods being valued or identical goods or similar goods, shall be adjusted by deducting therefrom an amount equal to the aggregate of —\n(a)an amount, determined in the manner specified in paragraph (8), equal to —\n(i)the amount of commission generally earned on a unit basis; or\n(ii)the amount for profit and general expenses, including all costs of marketing the goods, considered together as a whole, that is generally reflected on a unit basis,\nin connection with sales in Singapore of goods of the same class or kind as those goods;\n(b)reasonable costs, charges and expenses that are incurred in respect of the transportation and insurance of the goods within Singapore and reasonable costs, charges and expenses associated therewith to the extent that an amount for such costs, charges and expenses is not deducted in respect of general expenses under sub-paragraph (a);\n(c)any customs duties, excise duties or other taxes payable in Singapore by reason of the importation or sale of the goods, to the extent that an amount for such duties and taxes is not deducted in respect of general expenses under sub-paragraph (a); and\n(d)where paragraph (4) applies, the amount of the value added to the goods that is attributable to the assembly, packaging or further processing in Singapore of the goods, if that amount is determined, in the opinion of the proper officer of customs, on the basis of sufficient information.\n(7) Where an amount referred to in paragraph (6)(d) in respect of any goods being valued cannot, in the opinion of the proper officer of customs, be determined on the basis of sufficient information, then the customs value of the goods cannot be determined on the basis of the deductive value under paragraph (4).\n(8) An amount equal to the amount of commission or the amount for profit and general expenses referred to in paragraph (6)(a) shall be calculated on a percentage basis and determined on the basis of information prepared in a manner consistent with generally accepted accounting principles that is supplied —\n(a)by or on behalf of the importer of the goods being valued; or\n(b)where the information supplied by or on behalf of the importer of the goods being valued is not sufficient information, by an examination of sales in Singapore of the narrowest group or range of goods of the same class or kind as the goods being valued from which sufficient information can, in the opinion of the proper officer of customs, be obtained."
+   }
+  },
+  {
+   "id": "SG-H1068-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Computed value as value"
+   },
+   "text": {
+    "en": "8.—(1) Subject to regulation 3(4) and (5), where the customs value of imported goods cannot, in the opinion of the proper officer of customs, be determined under regulation 7, the customs value of the goods shall be the computed value in respect of those goods.\n(2) The computed value of the goods being valued is the aggregate of amounts equal to —\n(a)the costs, charges and expenses incurred in respect of, or the value of —\n(i)materials employed in producing the goods being valued; and\n(ii)the production or other processing of the goods being valued,\ndetermined in the manner specified in paragraph (3), including, without limiting the generality of the foregoing —\n(iii)the costs, charges and expenses referred to in regulation 4(2)(b);\n(iv)the value of any of the goods and services referred to in regulation 4(2)(c), determined and apportioned to the goods being valued as referred to in that regulation, whether or not such goods and services have been supplied free of charge or at a reduced cost; and\n(v)the costs, charges and expenses incurred by the producer in respect of engineering, development work, art work, design work, plans or sketches undertaken in Singapore that were supplied, directly or indirectly, by the buyer of the goods being valued for use in connection with the production and sale for export of those goods to the extent that such elements are charged to the producer of the goods, apportioned to the goods being valued as referred to in regulation 4(2)(c);\n(b)the amount, determined in the manner specified in paragraph (4), for profit and general expenses, considered together as a whole, generally reflected in sales for export to Singapore of goods of the same class or kind as the goods being valued, made by the producers of the goods to buyers in Singapore who are not related to the producers from whom they buy the goods at the time the goods are sold to them; and\n(c)the costs of transportation and insurance of, and the loading, unloading, and handling charges, and other charges and expenses associated with the transportation of the goods being valued from the country of export to Singapore.\n(3) The costs, charges and expenses incurred in respect of, or the value of, the materials employed in producing the goods being valued and the production or other processing of the goods being valued shall be determined on the basis of —\n(a)the commercial accounts of the producer of the goods being valued; or\n(b)any other sufficient information relating to the production of the goods being valued,\nthat are supplied by or on behalf of the producer of the goods and prepared in a manner consistent with the generally accepted accounting principles of the country of production of the goods being valued.\n(4) The amount of profit and general expenses referred to in paragraph (2)(b) shall be calculated on a percentage basis and determined on the basis of information prepared in a manner consistent with generally acceptable accounting principles of the country of production of the goods being valued and that is supplied —\n(a)by or on behalf of the producer of the goods being valued; or\n(b)where the information supplied by or on behalf of the producer of the goods being valued is not sufficient information, by an examination of sales for export to Singapore of the narrowest group or range of goods of the same class or kind referred to in paragraph (2)(b) from which sufficient information can, in the opinion of the proper officer of customs, be obtained.\n(5) For the purposes of this regulation, “general expenses” means the direct and indirect costs, charges and expenses of producing and selling goods for export, other than the costs, charges and expenses referred to in paragraph (2)(a) and (c)."
+   }
+  },
+  {
+   "id": "SG-H1068-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Residual basis of valuation"
+   },
+   "text": {
+    "en": "9.—(1) Where the value of imported goods cannot, in the opinion of the proper officer of customs, be determined under regulation 8, it shall be determined on information available in Singapore on the basis of a value derived from the methods of valuation set out in regulations 3 to 8 interpreted in a flexible manner and reasonably adjusted to the extent necessary to arrive at a value of the goods.\n(2) A customs value shall not be determined on the basis of —\n(a)the selling price in Singapore of goods produced in Singapore;\n(b)a basis which provides for the acceptance of the higher of 2 alternative values;\n(c)the price of goods on the domestic market of the country of exportation;\n(d)the cost of production other than computed values that have been determined for identical goods or similar goods in accordance with regulation 8;\n(e)the price of goods for export to a country other than Singapore;\n(f)minimum customs values; or\n(g)arbitrary or fictitious values."
+   }
+  },
+  {
+   "id": "SG-H1068-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Determination of value by Customs"
+   },
+   "text": {
+    "en": "10.—(1) The value of goods pursuant to these Regulations shall be determined by any proper officer of customs and customs duty or excise duty shall be payable in accordance with that determination unless, pursuant to these Regulations, a different amount is proved to be the correct value of the goods.\n(2) If, upon an objection received from the importer of the goods or for any other reason, the proper officer of customs is satisfied that any determination made under the provisions of these Regulations in respect of any goods is inconsistent with the Regulations or incorrect for any other reason, he shall amend his determination in respect of that determination accordingly and customs duty or excise duty shall be payable in accordance with that amended determination.\n(3) Where a proper officer of customs amends his determination of the value of any goods pursuant to these Regulations otherwise than as a result of an objection received from the importer of the goods he shall give notice to the importer of the amended determination.\n(4) In determining the value of any imported goods for the purposes of paragraph (1) or (2), a proper officer of customs may require an importer or any other person concerned with the importation of the goods, to do any of the following:\n(a)provide to the proper officer of customs, in any form that he may require, any information that is in his opinion necessary for a proper valuation of the goods;\n(b)produce to the proper officer of customs, any book of accounts or other document of whatever nature relating to the purchase, importation or sale of the goods by the importer or other person (as the case may be), that is in the opinion of that officer, necessary for a proper valuation of the goods.\n[S 296/2026 wef 01/06/2026]"
+   }
+  },
+  {
+   "id": "SG-H1068-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Supply of information"
+   },
+   "text": {
+    "en": "11.—(1) Subject to paragraph (2), upon written request by the importer of any goods, the Director-General shall give notice to him in writing of the value of the goods, and the basis of the determination of that value, including the provisions of these Regulations applying to the goods.\n(2) Any information which is by its nature confidential, or which has been provided to the Director-General by any government or person on a confidential basis for the purpose of determining the value of any goods, shall not be disclosed to any other government or person without the specific authority of that government or person, except to the extent to which it may require to be disclosed in any legal proceedings arising out of the determination."
+   }
+  },
+  {
+   "id": "SG-H1068-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Foreign currency conversion"
+   },
+   "text": {
+    "en": "12.—(1) This regulation applies to the conversion of a foreign currency into Singapore currency in order to determine the value of any imported goods for the purposes of levying customs duty or excise duty under the Act.\n(2) For the purposes of levying customs duty on any goods, the rate of exchange is the selling rate on the date of importation of the goods.\n(3) Subject to paragraph (4), for the purposes of levying excise duty on any goods, the rate of exchange is the selling rate on the date of the authorisation under regulation 11(2), 12(2) or 13(6) of the Customs Regulations (Rg 2) pursuant to which the goods are removed under those Regulations.\n(4) For the purposes of levying excise duty on any goods imported by post, the rate of exchange is the selling rate on the date on which excise duty is assessed by the proper officer of customs.\n(5) For the purposes of this regulation, the selling rate on any date is the selling rate in Singapore on that date, as notified by the Director-General in the manner determined by the Director-General.\n[S 873/2022 wef 11/11/2022]"
+   }
+  }
+ ]
+}

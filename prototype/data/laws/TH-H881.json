@@ -1,0 +1,84 @@
+{
+ "id": "TH-H881",
+ "title": {
+  "zh": null,
+  "en": null,
+  "orig": "พระราชกำหนดนิรโทษกรรมแก่ผู้กระทำความผิดเนื่องในการชุมนุมกันระหว่างวันที่ 17 พฤษภาคม พ.ศ. 2535 ถึงวันที่ 21 พฤษภาคม พ.ศ. 2535 พ.ศ. 2535"
+ },
+ "country": "TH",
+ "countryName": "泰国",
+ "layer": "intl",
+ "pack": "th-p10",
+ "language": "th",
+ "level": "decree",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1992-05-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "泰国国务委员会办公室（OCS）",
+ "docNumber": "นท022-1C-0001",
+ "officialCode": "นท022-1C-0001",
+ "topics": [
+  "other"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 615,
+ "source": {
+  "name": "泰国国务委员会办公室（Office of the Council of State, สำนักงานคณะกรรมการกฤษฎีกา）法律检索系统",
+  "url": "https://searchlaw.ocs.go.th/council-of-state/#/public/doc/N1g1SjhiTDZPZFhaVnpzcjhrNmFMdz09"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 泰国国务委员会办公室（Office of the Council of State, สำนักงานคณะกรรมการกฤษฎีกา）法律检索系统官方详情页（https://searchlaw.ocs.go.th/council-of-state/#/public/doc/N1g1SjhiTDZPZFhaVnpzcjhrNmFMdz09），未改写、未摘译、未节选；原文语言：泰语（th）。 条文抬头依官方原件为「มาตรา N」（第 N 条）体例，本库照录官方写法；编/章/节/款标题依原件「บรรพ …」「ลักษณะ …」「หมวด …」「ส่วน …」层级还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TH-H881-A1",
+   "no": 1,
+   "noLabel": {
+    "th": "มาตรา 1"
+   },
+   "text": {
+    "th": "มาตรา ๑ พระราชกำหนดนี้เรียกว่า “พระราชกำหนดนิรโทษกรรมแก่ผู้กระทำความผิดเนื่องในการชุมนุมกันระหว่างวันที่ ๑๗ พฤษภาคม พ.ศ. ๒๕๓๕ ถึงวันที่ ๒๑ พฤษภาคม พ.ศ. ๒๕๓๕ พ.ศ. ๒๕๓๕”"
+   }
+  },
+  {
+   "id": "TH-H881-A2",
+   "no": 2,
+   "noLabel": {
+    "th": "มาตรา 2"
+   },
+   "text": {
+    "th": "มาตรา ๒ พระราชกำหนดนี้ให้ใช้บังคับตั้งแต่วันประกาศในราชกิจจานุเบกษาเป็นต้นไป"
+   }
+  },
+  {
+   "id": "TH-H881-A3",
+   "no": 3,
+   "noLabel": {
+    "th": "มาตรา 3"
+   },
+   "text": {
+    "th": "มาตรา ๓ บรรดาการกระทำทั้งหลายทั้งสิ้นของบุคคลที่เกี่ยวเนื่องกับการชุมนุมกันระหว่างวันที่ ๑๗ พฤษภาคม พ.ศ. ๒๕๓๕ ถึงวันที่ ๒๑ พฤษภาคม พ.ศ. ๒๕๓๕ และได้กระทำในระหว่างวันดังกล่าวไม่ว่าได้กระทำในฐานะเป็นตัวการ ผู้สนับสนุน ผู้ใช้ให้กระทำหรือผู้ถูกใช้ หากการกระทำนั้นผิดต่อกฎหมายก็ให้ผู้กระทำพ้นจากความผิด และความรับผิดชอบโดยสิ้นเชิง"
+   }
+  },
+  {
+   "id": "TH-H881-A4",
+   "no": 4,
+   "noLabel": {
+    "th": "มาตรา 4"
+   },
+   "text": {
+    "th": "มาตรา ๔ ให้นายกรัฐมนตรีรักษาการตามพระราชกำหนดนี้"
+   }
+  }
+ ]
+}

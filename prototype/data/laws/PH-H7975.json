@@ -1,0 +1,74 @@
+{
+ "id": "PH-H7975",
+ "title": {
+  "zh": null,
+  "en": "An Act Defining the Liability of Ship Agents in the Tramp Service and for other purposes",
+  "orig": "An Act Defining the Liability of Ship Agents in the Tramp Service and for other purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p113",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2008-12-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 9515",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 3130,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2008/ra_9515_2008.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2008/ra_9515_2008.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H7975-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Definition of Terms. - As used in this Act:\n(a) \"Ship Agent\" shall mean the person entrusted with the provisioning or representing the vessel in the port in which it may be found;\n(b) \"General Agent\" shall mean a ship agent appointed by the ship owner or carrier in the liner service for all voyages and covered by a General Agency Agreement whereby the agent assumes the role and responsibility of its principal within the Philippine territory including but not limited to solicitation of cargo and freight, payment of discharging or loading expenses, collection of shipping charges and issuing/releasing bills of lading and cargo manifest;\n(c) \"Tramp Agent\" shall mean a ship agent appointed by the ship owner, charterer or carrier iti the tramp service for one particular voyage whose authority is limited to the customary and usual procedures and formalities required for the facilitation of the vessel’s entry, stay and departure in the port and does not include the assumption of the ship owner’s, charterer’s, or carrier’s obligations with the shipper or receiver for the goods carried by the ship;\n(d) \"Tramp Service\" shall mean the operation of a contract carrier which has no regular and fixed routes and schedules but accepts cargo wherever and whenever the shipper desires, is hired on a contractual basis, or chartered by any one or few shippers under mutually agreed terms and usually carries bulk or break bulk cargoes; and\n(e) \"Liner Service\" shall mean the operation of a common carrier which publicly offers its services without discrimination to any user, has regular ports of call/destination, fixed sailing schedules and frequencies and published freight rates and attendant charges and usually carries multiple consignments."
+   }
+  },
+  {
+   "id": "PH-H7975-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Liabilty of the Ship Agent, General Agent and Tramp Agent. - The responsibility or liability, if any, of the ship agent, general agent and tramp agent shall continue to be governed by the pertinent provisions of the Code of Commerce: Provided, that in the case of the tramp agent, his liability shall not extend to the obligations assumed by the ship owner, charterer or carrier with the shipper or receiver for the goods carried by the ship: Provided, further, That it is the duty of the tramp agent, however, to assist the shipper or receiver in making cargo liability claims against the ship owner, charterer or carrier: Provided, finally, That failure or inaction to perform the aforesaid duty shall subject the tramp agent to applicable administrative sanctions based on the Implementing Rules and Regulations (IRR) to be formulated thereon by the Maritime Industry Authority (MARINA) under the Depatment of Transportation and Communication (DOTC) and by the Philippine Shippers Bureau (PSB) under the Department of Trade and Industry (DTI)."
+   }
+  },
+  {
+   "id": "PH-H7975-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Repealing Clause. - All applicable laws, decrees, executive orders, rules and regulations which are inconsistent with this Act are hereby amended or modified accordingly.\nSection 4 Effectivity. - This Act shall take effect fifteen (15) days following the completion of its publication in two (2) national newspaper of general circulation."
+   }
+  }
+ ]
+}

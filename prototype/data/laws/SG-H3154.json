@@ -1,0 +1,772 @@
+{
+ "id": "SG-H3154",
+ "title": {
+  "zh": null,
+  "en": "Mental Capacity Regulations 2010",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p40",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MCA2008-S105-2010",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 47,
+ "chars": 36400,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MCA2008-S105-2010?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 47 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 8 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3154-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Mental Capacity Regulations 2010 and shall come into operation on 1st March 2010."
+   }
+  },
+  {
+   "id": "SG-H3154-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“care facility” means —\n(a)any day centre or home for the disabled or the aged; or\n(b)any welfare, nursing, rehabilitation or convalescent home;\n[S 531/2018 wef 01/09/2018]\n“certified copy” means a document certified by the Public Guardian under paragraph 11 of the First Schedule to the Act as a copy of an instrument intended to create a lasting power of attorney and registered under that Schedule;\n[S 524/2014 wef 01/09/2014]\n[S 870/2022 wef 14/11/2022]\n“family member”, in relation to a person, means —\n(a)a spouse of the person;\n(b)a child of the person, including an adopted child and a step-child;\n(c)a father or mother of the person;\n(d)a father-in-law or mother-in-law of the person;\n(e)a brother or sister of the person; or\n(f)any other individual who is related by blood or marriage and who is living in the same household as the person;\n“LPA Certificate”, in relation to an instrument made with a view to creating a lasting power of attorney, means the certificate which is required to be included in the instrument by virtue of paragraph 2(1)(e) of the First Schedule to the Act;\n“Public Guardian’s email address” means the email address that is specified on the Public Guardian’s website as the email address to which communications to the Public Guardian may be sent;\n[S 870/2022 wef 14/11/2022]\n“Public Guardian’s postal address” means the postal address that is specified on the Public Guardian’s website as the postal address to which communications to the Public Guardian may be sent;\n[S 870/2022 wef 14/11/2022]\n[Deleted by S 524/2014 wef 01/09/2014]\n[Deleted by S 501/2019 wef 01/08/2019]\n“Public Guardian’s website” means the Internet website of the Public Guardian at http://www.msf.gov.sg/opg;\n[S 524/2014 wef 01/09/2014]\n[S 501/2019 wef 01/08/2019]\n“Visitor” means a member of the Board of Visitors appointed under section 35 of the Act."
+   }
+  },
+  {
+   "id": "SG-H3154-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Differences in forms"
+   },
+   "text": {
+    "en": "3.—(1) Any reference in these Regulations to a form provided at the Public Guardian’s website or in the electronic transaction system is to be treated as including —\n(a)a form to the same effect but which differs in an immaterial respect in form or mode of expression; or\n(b)a form to the same effect but with such variations as circumstances may require or as the Public Guardian may approve.\n[S 870/2022 wef 14/11/2022]\n(2) If an instrument intended to create a lasting power of attorney differs in an immaterial respect in form or mode of expression from any of the forms mentioned in regulation 4(1), such difference is to be dealt with in accordance with paragraph 3 of the First Schedule to the Act.\n[S 501/2019 wef 01/08/2019]"
+   }
+  },
+  {
+   "id": "SG-H3154-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Circumstances in which instrument may be made without using electronic transaction system"
+   },
+   "text": {
+    "en": "4. For the purposes of section 11(2A)(d) of the Act, the Public Guardian may allow an instrument conferring authority of the kind mentioned in section 11(1) of the Act to be made without using the electronic transaction system if it is not possible to use the electronic transaction system for this purpose because the donor, the donee or (if there is more than one donee) any donee does not satisfy —\n(a)any of the conditions of access to, or the use of, the electronic transaction system; or\n(b)any of the security and authentication requirements for such access or use,\ndetermined by the Public Guardian under section 10B(4)(a) or (b) of the Act.\n[S 870/2022 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3154-A4.001",
+   "no": 4.001,
+   "noLabel": {
+    "en": "4A."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Notices to Public Guardian under section 11(7) or (8) of Act"
+   },
+   "text": {
+    "en": "4A. A notice to the Public Guardian under section 11(7) or (8) of the Act must be in the form provided at the Public Guardian’s website and sent to the Public Guardian’s postal address or Public Guardian’s email address.\n[S 870/2022 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3154-A4.002",
+   "no": 4.002,
+   "noLabel": {
+    "en": "4B."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Prescribed website"
+   },
+   "text": {
+    "en": "4B. For the purposes of paragraphs 1(1)(a)(ii), 3, 4(1)(b), 6, 10(2) and 16 of the First Schedule to the Act, the prescribed website is the Public Guardian’s website.\n[S 870/2022 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3154-A4.003",
+   "no": 4.003,
+   "noLabel": {
+    "en": "4C."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Prescribed requirements for execution of instrument"
+   },
+   "text": {
+    "en": "4C.—(1) For the purposes of paragraph 1(1)(d) of the First Schedule to the Act, the prescribed requirements in connection with the execution of an instrument are —\n(a)where the donor requires any information mentioned in paragraph 2(1)(a) of the First Schedule to the Act to be translated to the donor, the translation must be conducted by the person mentioned in paragraph 2(1)(e) of that Schedule (called in this regulation the witness) or another person (called in this regulation the translator) before the witness;\n(b)the full name of, and the number of the identity card issued to, each of the following persons under the National Registration Act 1965, or (if no identity card is issued to the person) the number of the person’s passport or other official identification document, must be specified on the instrument:\n(i)the donor;\n(ii)the donee or (if there is more than one donee) every donee;\n(iii)the replacement donee or (if there is more than one replacement donee) every replacement donee;\n(iv)the witness;\n(v)if applicable, the translator;\n(c)where the instrument is made using the electronic transaction system — the instrument must be executed in accordance with the requirements determined by the Public Guardian under section 10B(4) of the Act; and\n(d)where the instrument is made using any form at the Public Guardian’s website instead of using the electronic transaction system — the requirements in paragraph (2).\n(2) For the purposes of paragraph (1)(d), the requirements are —\n(a)a donee must sign the instrument in the presence of a witness;\n(b)a replacement donee (if any) must sign the instrument in the presence of a witness;\n(c)where a translator had translated any information mentioned in paragraph 2(1)(a) of the First Schedule to the Act to a donee or replacement donee, the translator must indicate this fact on the instrument and be the witness mentioned in sub‑paragraph (a) or (b), as the case may be;\n(d)the donor must execute the instrument in accordance with paragraph 1(1)(c) of the First Schedule to the Act;\n(e)subject to paragraph (1)(a), where a translator had translated any information mentioned in paragraph 2(1)(a) of the First Schedule to the Act to the donor, the translator must indicate this fact on the instrument;\n(f)after the steps mentioned in sub-paragraphs (a) to (e) have been taken, the donor must sign at the end of every page of the instrument; and\n(g)the donor, a donee or a replacement donee (if any) may not witness any signature required for the instrument.\n(3) Any reference in paragraph (2) to a person signing an instrument (however expressed) includes the person signing it by means of a mark or thumbprint made on the instrument at the appropriate place.\n[S 870/2022 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3154-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Persons other than individuals who can be appointed property and affairs donees"
+   },
+   "text": {
+    "en": "5. For the purpose of paragraph (a) of the definition of “professional donee” in section 2(1) of the Act, licensed trust companies within the meaning of section 2 of the Trust Companies Act (Cap. 336) are prescribed persons who may be appointed as a donee of a lasting power of attorney in respect of a donor’s property and affairs.\n[S 531/2018 wef 01/09/2018]"
+   }
+  },
+  {
+   "id": "SG-H3154-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "text": {
+    "en": "6. [Deleted by S 524/2014 wef 01/09/2014]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3154-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Persons who may provide LPA Certificate"
+   },
+   "text": {
+    "en": "7.—(1) For the purposes of paragraph 2(1)(e) of the First Schedule to the Act and subject to paragraph (2), the following persons are persons of a prescribed description who may give an LPA Certificate:\n(a)a legally qualified medical practitioner who is registered as specialists in psychiatry under the Medical Registration Act (Cap. 174);\n(b)a legally qualified medical practitioner who is accredited by the Public Guardian to issue LPA Certificates; and\n(c)an advocate and solicitor of the Supreme Court who has in force a practising certificate under the Legal Profession Act (Cap. 161).\n[S 501/2019 wef 01/08/2019]\n(2) A person is disqualified from giving an LPA Certificate in respect of any instrument intended to create a lasting power of attorney if that person is —\n(a)a family member of the donor;\n(b)a donee of that power;\n(c)a donee of any other lasting power of attorney which has been executed by the donor (whether or not it has been revoked);\n(d)a family member of a donee within sub-paragraphs (b) and (c);\n(e)a director or an employee of a person other than an individual acting as a donee within sub-paragraphs (b) and (c);\n(f)a business partner or an employee of —\n(i)the donor; or\n(ii)a donee within sub-paragraphs (b) and (c);\n(g)an owner, a director, a manager or an employee of any care facility where the donor lives or is cared for when the instrument is executed; or\n(h)a family member of a person within sub-paragraph (g).\n(3) For the purposes of paragraph (2), “donee” includes a “replacement donee”."
+   }
+  },
+  {
+   "id": "SG-H3154-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Prescribed period for payment of registration fee and for registration"
+   },
+   "text": {
+    "en": "8.—(1) For the purposes of paragraph 4(3) of the First Schedule to the Act, the prescribed period within which the prescribed fee for the registration of the instrument must be paid is 6 months after the date on which the application for the registration of the instrument is made.\n(2) For the purposes of paragraph 4(5) of the First Schedule to the Act, the prescribed period at the end of which the Public Guardian must register an instrument as a lasting power of attorney in accordance with that paragraph is, subject to paragraph (3), 21 days after —\n(a)where only one donee is appointed under the instrument — the date on which the Public Guardian gives the donee a notice under paragraph 5 of the First Schedule to the Act of the receipt of an application for the registration of an instrument (called in this regulation the specified notice); or\n(b)where more than one donee is appointed under the instrument — the date on which the Public Guardian gives every donee the specified notice or (if the specified notices are given on different dates) the last of those dates.\n(3) For the purposes of paragraph (2), where the last day of the period of 21 days falls on a non‑business day, the prescribed period includes the next day that is not a non‑business day.\n(4) In this regulation, “non-business day” means Saturday, Sunday or public holiday.\n[S 870/2022 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3154-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "text": {
+    "en": "9. [Deleted by S 524/2014 wef 01/09/2014]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3154-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "text": {
+    "en": "10. [Deleted by S 870/2022 wef 14/11/2022]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3154-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "text": {
+    "en": "11. [Deleted by S 870/2022 wef 14/11/2022]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3154-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Notice of receipt of application for registration"
+   },
+   "text": {
+    "en": "12.—(1) The form of notice which the Public Guardian must give to the donee (or donees) when the Public Guardian receives an application from a donor for the registration of a lasting power of attorney is that which is provided at the Public Guardian’s website.\n[S 501/2019 wef 01/08/2019]\n(2) [Deleted by S 870/2022 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3154-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Objection to registration: notice to Public Guardian to be given by donee"
+   },
+   "text": {
+    "en": "13.—(1) This regulation deals with any objection to the registration of an instrument as a lasting power of attorney which is to be made to the Public Guardian by the donee of the power.\n[S 524/2014 wef 01/09/2014]\n(2) Where the donee of the power —\n(a)is entitled to receive notice under paragraph 5 of the First Schedule to the Act of an application for the registration of the instrument; and\n[S 524/2014 wef 01/09/2014]\n[S 870/2022 wef 14/11/2022]\n(b)wishes to object to registration on a ground set out in paragraph 9(1)(b) of the First Schedule to the Act,\n[S 870/2022 wef 14/11/2022]\nhe must do so by the date specified in the notice.\n[S 524/2014 wef 01/09/2014]\n(3) A notice of objection must be given in the form provided at the Public Guardian’s website, setting out —\n(a)the name and address of the objector;\n(b)the name and address of the donor of the power;\n(c)if known, the name and address of the other donee (or donees); and\n[S 501/2019 wef 01/08/2019]\n(d)the ground for making the objection.\n[S 870/2022 wef 14/11/2022]\n(3A) A notice of objection must be sent to the Public Guardian’s postal address or Public Guardian’s email address.\n[S 870/2022 wef 14/11/2022]\n(4) The Public Guardian must notify the objector as to whether he is satisfied that the ground of the objection is established.\n(5) At any time after receiving the notice of objection and before giving the notice required by paragraph (4), the Public Guardian may require the objector to provide such further information, or produce such documents, as the Public Guardian reasonably considers necessary to enable him to determine whether the ground for making the objection is established.\n(6) Where —\n(a)the Public Guardian is satisfied that the ground of the objection is established; but\n(b)by virtue of section 15(6) of the Act, the instrument is not revoked,\nthe notice under paragraph (4) must contain a statement to that effect.\n(7) Nothing in this regulation prevents an objector from making a further objection under paragraph 9 of the First Schedule to the Act where —\n(a)the notice under paragraph (4) indicates that the Public Guardian is not satisfied that the particular ground of objection to which that notice relates is established; and\n(b)the date specified in the notice under paragraph (2) has not expired.\n[S 870/2022 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3154-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "text": {
+    "en": "14. [Deleted by S 870/2022 wef 14/11/2022]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3154-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Objection to registration: application to court"
+   },
+   "text": {
+    "en": "15.—(1) This regulation deals with any objection to the registration of an instrument as a lasting power of attorney which is to be made to the court.\n(2) The grounds for making an application to the court are —\n(a)that one or more of the requirements for the creation of a lasting power of attorney have not been met;\n(b)that the power has been revoked, or has otherwise come to an end, on a ground other than the grounds set out in paragraph 9(1)(b) of the First Schedule to the Act;\n[S 870/2022 wef 14/11/2022]\n(c)any of the grounds set out in section 17(3) of the Act.\n[S 501/2019 wef 01/08/2019]\n(3) Where any person —\n(a)is entitled to receive notice under paragraph 5 of the First Schedule to the Act of an application for the registration of the instrument; and\n[S 524/2014 wef 01/09/2014]\n[S 870/2022 wef 14/11/2022]\n(b)wishes to object to registration on one or more of the grounds set out in paragraph (2),\nhe must make an application to the court by the date specified in the notice.\n(4) A notice of an application to the court, which a person making an objection to the court is required to give to the Public Guardian under paragraph 9(3)(b)(ii) of the First Schedule to the Act, must be in the form provided at the Public Guardian’s website and sent to the Public Guardian’s postal address or Public Guardian’s email address.\n[S 870/2022 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3154-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Notifying applicants of non-registration of lasting power of attorney"
+   },
+   "text": {
+    "en": "16. Where the Public Guardian is prevented from registering an instrument as a lasting power of attorney by virtue of —\n(a)any non-compliance with paragraph 4(2) of the First Schedule to the Act (application for registration of instrument not accompanied by instrument);\n[S 870/2022 wef 14/11/2022]\n(b)paragraph 7(1) of that Schedule (instrument not made in accordance with section 12A or First Schedule);\n[S 870/2022 wef 14/11/2022]\n(c)paragraph 8(2) of that Schedule (deputy already appointed);\n[S 870/2022 wef 14/11/2022]\n(d)paragraph 9(2) of that Schedule (ground for objection by donee established); or\n[S 870/2022 wef 14/11/2022]\n(e)paragraph 9(4) of that Schedule (application made to court objecting to registration of instrument),\nhe must notify the person (or persons) who applied for registration of that fact.\n[S 870/2022 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3154-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "text": {
+    "en": "17. [Deleted by S 870/2022 wef 14/11/2022]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3154-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "text": {
+    "en": "18. [Deleted by S 870/2022 wef 14/11/2022]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3154-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Loss or destruction of instrument registered as lasting power of attorney"
+   },
+   "text": {
+    "en": "19.—(1) This regulation applies where —\n(a)a person is required by or under the Act to deliver to the Public Guardian any of the following documents:\n(i)an instrument registered as a lasting power of attorney;\n(ii)[Deleted by S 501/2019 wef 01/08/2019]\n(iii)a certified copy of that registered instrument; and\n[S 524/2014 wef 01/09/2014]\n(b)the document has been lost or destroyed.\n(2) The person required to deliver the document must provide to the Public Guardian a statutory declaration setting out —\n(a)if known, the date of the loss or destruction and the circumstances in which it occurred;\n(b)otherwise, a statement of when he last had the document in his possession.\n[S 524/2014 wef 01/09/2014]"
+   }
+  },
+  {
+   "id": "SG-H3154-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Disclaimer of appointment by donee of lasting power of attorney"
+   },
+   "text": {
+    "en": "20.—(1) A donee or a replacement donee (called in this regulation A) who wishes to disclaim A’s appointment as such must —\n(a)give a notice of this to the donor and every donee (excluding the donee wishing to disclaim) (each called in this regulation B) in the form provided at the Public Guardian’s website by —\n(i)delivering it personally to the donor or B;\n(ii)prepaid registered post or ordinary post to the last postal address of the donor or B; or\n(iii)if A is unable to send the notice in the manner described in sub‑paragraph (i), or sub‑paragraph (ii) because A does not know the last postal address of the donor or B — sending it to the last email address of the donor or B, as the case may be; and\n(b)give a notice to the Public Guardian, in the form provided at the Public Guardian’s website, by sending it to the Public Guardian’s postal address or Public Guardian’s email address.\n(2) In this regulation —\n“last email address” means —\n(a)an email address of the donor or B (as the case may be) at which A corresponds with the donor or B (as the case may be); or\n(b)if there is no such email address — an email address which the donor or B (as the case may be) represents to A as the email address to which communications to the donor or B (as the case may be) may be sent;\n“last postal address” means —\n(a)the postal address of the donor or B (as the case may be) at which A corresponds with the donor or B (as the case may be);\n(b)if there is no postal address mentioned in paragraph (a) — a postal address which the donor or B (as the case may be) represents to A as the postal address to which communications to the donor or B (as the case may be) may be sent; or\n(c)if there is no postal address mentioned in paragraph (a) or (b) — the usual or last known place of residence or business of the donor or B (as the case may be).\n[S 870/2022 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3154-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Revocation by donor of lasting power of attorney"
+   },
+   "text": {
+    "en": "21.—(1) For the purposes of section 15(9) of the Act, a donor who revokes a lasting power of attorney must —\n(a)give a written notice of this to the donee or (if there is more than one donee) every donee by —\n(i)delivering it personally to the donee;\n(ii)prepaid registered post or ordinary post to the donee’s last postal address; or\n(iii)if the donor is unable to send the notice in the manner described in sub‑paragraph (i), or sub‑paragraph (ii) because the donor does not know the donee’s last postal address — sending it to the last email address of the donee; and\n(b)give a notice to the Public Guardian, in the form provided at the Public Guardian’s website, by sending it to the Public Guardian’s postal address or Public Guardian’s email address.\n(2) In this regulation —\n“last email address” means —\n(a)an email address of the donee at which the donor corresponds with the donee; or\n(b)if there is no such email address — an email address which the donee represents to the donor as the email address to which communications to the donee may be sent;\n“last postal address” means —\n(a)the postal address of the donee at which the donor corresponds with the donee;\n(b)if there is no postal address mentioned in paragraph (a) — a postal address which the donee represents to the donor as the postal address to which communications to the donee may be sent; or\n(c)if there is no postal address mentioned in paragraph (a) or (b) — the usual or last known place of residence or business of the donee.\n[S 870/2022 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3154-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "text": {
+    "en": "22. [Deleted by S 870/2022 wef 14/11/2022]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3154-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Donor to inform Public Guardian of certain events"
+   },
+   "text": {
+    "en": "23. A donor of a lasting power of attorney who does not lack capacity must notify the Public Guardian within 14 days of any event that revokes the lasting power of attorney or the appointment of any of the donees."
+   }
+  },
+  {
+   "id": "SG-H3154-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART II LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Donee to inform Public Guardian of certain events"
+   },
+   "text": {
+    "en": "24. A donee of a lasting power of attorney must inform the Public Guardian within 14 days of any event that terminates his appointment or revokes his powers (in whole or in part)."
+   }
+  },
+  {
+   "id": "SG-H3154-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART III FUNCTIONS OF PUBLIC GUARDIAN"
+   },
+   "heading": {
+    "en": "Establishing and maintaining registers"
+   },
+   "text": {
+    "en": "25.—(1) In this Part, “the registers” means —\n(a)the register of lasting powers of attorney;\n[S 531/2018 wef 01/09/2018]\n(b)the register of court orders appointing deputies; and\n[S 531/2018 wef 01/09/2018]\n(c)the register of professional deputies,\nwhich the Public Guardian must establish and maintain.\n[S 531/2018 wef 01/09/2018]\n(2) On each register the Public Guardian may include —\n(a)information about a registered instrument or a registered order as the Public Guardian considers appropriate;\n[S 531/2018 wef 01/09/2018]\n[S 501/2019 wef 01/08/2019]\n(b)entries which relate to an instrument or order for which registration has been cancelled; and\n[S 531/2018 wef 01/09/2018]\n(c)such information, as the Public Guardian considers appropriate, on professional deputies.\n[S 531/2018 wef 01/09/2018]\n(3) Each register may be established and maintained in any form and manner as the Public Guardian may determine.\n[S 501/2019 wef 01/08/2019]"
+   }
+  },
+  {
+   "id": "SG-H3154-A25.001",
+   "no": 25.001,
+   "noLabel": {
+    "en": "25A."
+   },
+   "chapter": {
+    "en": "PART III FUNCTIONS OF PUBLIC GUARDIAN"
+   },
+   "heading": {
+    "en": "Rectification or updating on Public Guardian’s initiative"
+   },
+   "text": {
+    "en": "25A.—(1) For the purposes of section 33A(1)(b)(ii) of the Act, the prescribed Singapore public sector agencies are as follows:\n(a)the Ministry of Home Affairs;\n(b)the Insolvency and Public Trustee’s Office;\n(c)the Family Justice Courts constituted by the Family Justice Act 2014;\n(d)the Supreme Court constituted by the Constitution.\n(2) For the purposes of section 33A(2) of the Act, the Public Guardian need not give written notice to the person whose particulars or document is to be rectified or updated by the Public Guardian if that person has died.\n(3) A written objection to the Public Guardian under section 33A(3) of the Act must be sent to the Public Guardian’s postal address or Public Guardian’s email address.\n[S 162/2023 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H3154-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART III FUNCTIONS OF PUBLIC GUARDIAN"
+   },
+   "heading": {
+    "en": "Disclosure of information on register of court orders appointing deputies: search by Public Guardian"
+   },
+   "text": {
+    "en": "26.—(1) Any person may, by an application made under paragraph (2), request the Public Guardian to carry out a search of the register of court orders appointing deputies.\n[S 870/2022 wef 14/11/2022]\n(2) An application must be in the form and manner required by the Public Guardian and must —\n(a)state —\n(i)[Deleted by S 870/2022 wef 14/11/2022]\n(ii)the name of the person to whom the application relates; and\n(iii)such other details about that person as the Public Guardian may require for the purpose of carrying out the search; and\n(b)be accompanied by the appropriate fee specified in the Mental Capacity (Public Guardian Fees) Regulations 2010.\n[S 501/2019 wef 01/08/2019]\n(3) The search shall be confined to such information as the Public Guardian considers appropriate.\n[S 870/2022 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3154-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART III FUNCTIONS OF PUBLIC GUARDIAN"
+   },
+   "heading": {
+    "en": "Application for certified copy of instrument registered under Act as lasting power of attorney by donor or donee"
+   },
+   "text": {
+    "en": "27. A person may, on application to the Public Guardian and on payment of the prescribed fee, obtain a certified copy of an instrument registered under the Act as a lasting power of attorney of which the person is the donor or a donee.\n[S 524/2014 wef 01/09/2014]"
+   }
+  },
+  {
+   "id": "SG-H3154-A27.001",
+   "no": 27.001,
+   "noLabel": {
+    "en": "27A."
+   },
+   "chapter": {
+    "en": "PART III FUNCTIONS OF PUBLIC GUARDIAN"
+   },
+   "heading": {
+    "en": "Application for electronic copy of instrument registered under Act as lasting power of attorney by donee for another person"
+   },
+   "text": {
+    "en": "27A.—(1) Subject to paragraph (2), the donee or (if there is more than one donee) any donee of an instrument registered under the Act as a lasting power of attorney (whether registered before, on or after 14 November 2022) may, for the purpose of making a decision for the donor who lacks capacity, apply to the Public Guardian for an electronic copy of the lasting power of attorney to be sent to a person, who is neither a donee or donor of the lasting power of attorney.\n(2) An application mentioned in paragraph (1) must be accompanied by a declaration by the donee that as at the date of the application, a medical practitioner has assessed and certified that the donor of the lasting power of attorney lacks capacity to make decisions about any matter relating to the donor’s personal welfare or property and affairs, or both.\n[S 870/2022 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3154-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART III FUNCTIONS OF PUBLIC GUARDIAN"
+   },
+   "heading": {
+    "en": "Application for certified copy of instrument registered under Act as lasting power of attorney by other persons"
+   },
+   "text": {
+    "en": "28.—(1) This regulation applies in any case where there is an instrument registered under the Act as a lasting power of attorney concerning a person (“P”) and regulation 27 is not applicable.\n(2) On receipt of an application with the prescribed fee by a person for a certified copy of an instrument registered under the Act as a lasting power of attorney made in accordance with paragraph (3), the Public Guardian may, if he considers that there is good reason to do so, furnish a certified copy of the registered instrument to the applicant.\n(3) An application must be made in the form and manner required by the Public Guardian, and state —\n(a)the name of P;\n(b)the reasons for making the application; and\n(c)what steps, if any, the applicant has taken to obtain a copy of the instrument from P.\n(4) The Public Guardian may require the applicant to provide any further information or documents to enable the Public Guardian to determine the application.\n(5) In determining whether to furnish a certified copy of the registered instrument to the applicant, the Public Guardian may in his discretion consider any relevant facts, including —\n(a)the connection between P and the applicant;\n(b)the reasons for requesting the information (in particular, why the information cannot or should not be obtained directly from P);\n(c)the benefit to P, or any detriment he may suffer, if a disclosure is made; and\n(d)any detriment that another person may suffer if a disclosure is made or not made."
+   }
+  },
+  {
+   "id": "SG-H3154-A28.001",
+   "no": 28.001,
+   "noLabel": {
+    "en": "28A."
+   },
+   "chapter": {
+    "en": "PART III FUNCTIONS OF PUBLIC GUARDIAN"
+   },
+   "heading": {
+    "en": "Access to view lasting powers of attorney on electronic transaction system"
+   },
+   "text": {
+    "en": "28A. The Public Guardian must give access to the following persons to view an instrument registered under the Act as a lasting power of attorney (whether registered before, on or after 14 November 2022) on the electronic transaction system:\n(a)the donor of the lasting power of attorney;\n(b)the donee or (if there is more than one donee) any donee of the lasting power of attorney.\n[S 870/2022 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3154-A28.002",
+   "no": 28.002,
+   "noLabel": {
+    "en": "28B."
+   },
+   "chapter": {
+    "en": "PART III FUNCTIONS OF PUBLIC GUARDIAN"
+   },
+   "heading": {
+    "en": "Request for information on lasting power of attorney"
+   },
+   "text": {
+    "en": "28B. A person specified in the first column of the table in the Schedule may request for any information relating to the lasting power of attorney of a donor (called in this regulation P), if —\n(a)subject to section 10C(2) of the Act, the request is made using the electronic transaction system and in the form provided in the electronic transaction system;\n(b)the person provides to the Public Guardian the person’s reason for the request;\n(c)the person submits to the Public Guardian —\n(i)a declaration that as at the date of the request, P lacks capacity to make decisions about any matter relating to P’s personal welfare, or property and affairs, or both; and\n(ii)any other information or document that the Public Guardian requires to determine the application;\n(d)the request is accompanied by the applicable fees prescribed in the Mental Capacity (Public Guardian Fees) Regulations 2010 (G.N. No. S 106/2010);\n(e)the requirements specified opposite that person in the second column of the table in the Schedule are satisfied; and\n(f)the Public Guardian is of the opinion that it is in the best interests of P to provide the information to the person.\n[S 870/2022 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3154-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART III FUNCTIONS OF PUBLIC GUARDIAN"
+   },
+   "heading": {
+    "en": "Persons required to give security for discharge of their functions"
+   },
+   "text": {
+    "en": "29.—(1) This regulation applies in any case where the court orders a person (“S”) to give to the Public Guardian security for the discharge of his functions.\n(2) The security must be given by S in such form and manner as the court may direct.\n(3) S complies with the requirement to give security only if the Public Guardian is satisfied that all the requirements imposed by the court in relation to the giving of security have been met."
+   }
+  },
+  {
+   "id": "SG-H3154-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART III FUNCTIONS OF PUBLIC GUARDIAN"
+   },
+   "heading": {
+    "en": "Enforcement following court order of endorsed security"
+   },
+   "text": {
+    "en": "30.—(1) This regulation applies to any security given to the Public Guardian in respect of which an enforcement has been provided.\n(2) Where the court orders the enforcement of the security, the Public Guardian must notify the court when payment has been made of the amount secured."
+   }
+  },
+  {
+   "id": "SG-H3154-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART III FUNCTIONS OF PUBLIC GUARDIAN"
+   },
+   "heading": {
+    "en": "Content of reports"
+   },
+   "text": {
+    "en": "31.—(1) Any report which the court requires a deputy to submit to the Public Guardian must include such material as the court may direct.\n(2) The report must also contain or be accompanied by —\n(a)specified information or information of a specified description; or\n(b)specified documents or documents of a specified description.\n(3) Where powers as respects a person’s property and affairs are conferred on a deputy under section 20 of the Act, the information specified by the Public Guardian under paragraph (2) may include accounts which —\n(a)deal with specified matters; and\n(b)are provided in a specified form.\n(4) The Public Guardian may require any information provided to be verified or any document produced to be authenticated.\n(5) In this regulation, “specified” means specified in a notice in writing given to the deputy by the Public Guardian."
+   }
+  },
+  {
+   "id": "SG-H3154-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART III FUNCTIONS OF PUBLIC GUARDIAN"
+   },
+   "heading": {
+    "en": "Power to require final report on termination of appointment"
+   },
+   "text": {
+    "en": "32.—(1) This regulation applies where —\n(a)the person on whose behalf a deputy was appointed to act has died;\n(b)the deputy has died;\n(c)the court has made an order discharging the deputy; or\n(d)the deputy otherwise ceases to be under a duty to discharge the functions to which his appointment relates.\n(2) The Public Guardian may require the deputy (or, in the case of the deputy’s death, his personal representatives) to submit a final report on the discharge of his functions.\n(3) A final report must be submitted —\n(a)before the end of such reasonable period as may be specified; and\n(b)at such place as may be specified.\n(4) Where the Public Guardian is dissatisfied with any aspect of the final report, he may apply to the court for an appropriate remedy (including enforcement of security given by the deputy).\n(5) In this regulation, “specified” means specified in a notice in writing given to the deputy or his personal representatives by the Public Guardian."
+   }
+  },
+  {
+   "id": "SG-H3154-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART III FUNCTIONS OF PUBLIC GUARDIAN"
+   },
+   "heading": {
+    "en": "Power to require information from deputies"
+   },
+   "text": {
+    "en": "33.—(1) This regulation applies in any case where —\n(a)the Public Guardian has received representations (including complaints) about —\n(i)the way in which a deputy is exercising his powers; or\n(ii)any failure to exercise them; or\n(b)it appears to the Public Guardian that there are other circumstances which —\n(i)give rise to concerns about, or dissatisfaction with, the conduct of the deputy (including any failure to act); or\n(ii)otherwise constitute good reason to seek information about the deputy’s discharge of his functions.\n(2) The Public Guardian may require the deputy —\n(a)to provide specified information or information of a specified description; or\n(b)to produce specified documents or documents of a specified description.\n(3) The information or documents must be provided or produced —\n(a)before the end of such reasonable period as may be specified; and\n(b)at such place as may be specified.\n(4) The Public Guardian may require any information provided to be verified or any document produced to be authenticated.\n(5) In this regulation, “specified” means specified in a notice in writing given to the deputy by the Public Guardian."
+   }
+  },
+  {
+   "id": "SG-H3154-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART III FUNCTIONS OF PUBLIC GUARDIAN"
+   },
+   "heading": {
+    "en": "Right of deputy to require review of decisions made by Public Guardian"
+   },
+   "text": {
+    "en": "34.—(1) A deputy may require the Public Guardian to reconsider any decision he has made in relation to the deputy.\n(2) The right under paragraph (1) is exercisable by giving notice of exercise of the right to the Public Guardian before the end of the period of 14 days beginning with the date on which notice of the decision is given to the deputy.\n(3) The notice of exercise of the right must —\n(a)state the grounds on which reconsideration is required; and\n(b)contain or be accompanied by any relevant information or documents.\n(4) At any time after receiving the notice and before reconsidering the decision to which it relates, the Public Guardian may require the deputy to provide him with such further information, or to produce such documents, as he reasonably considers necessary to enable him to reconsider the matter.\n(5) The Public Guardian must give to the deputy —\n(a)written notice of his decision on reconsideration; and\n(b)if he upholds the previous decision, a statement of his reasons."
+   }
+  },
+  {
+   "id": "SG-H3154-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART III FUNCTIONS OF PUBLIC GUARDIAN"
+   },
+   "heading": {
+    "en": "Applications to court"
+   },
+   "text": {
+    "en": "35. The Public Guardian has the function of making applications to the court in connection with his functions under the Act in such circumstances as he considers it necessary or appropriate to do so."
+   }
+  },
+  {
+   "id": "SG-H3154-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART III FUNCTIONS OF PUBLIC GUARDIAN"
+   },
+   "heading": {
+    "en": "Visits by Visitor at direction of Public Guardian"
+   },
+   "text": {
+    "en": "36.—(1) This regulation applies where the Public Guardian directs a Visitor to visit any person under any provision of the Act or these Regulations.\n(2) Where the visit is to be carried out by a Visitor —\n(a)the Public Guardian may —\n(i)give such directions to the Visitor; and\n(ii)provide him with such information concerning the person to be visited,\nas the Public Guardian considers necessary for the purposes of enabling the visit to take place and the Visitor to prepare any report the Public Guardian may require; and\n(b)the Visitor must seek to carry out the visit and take all reasonable steps to obtain such other information as he considers necessary for the purpose of preparing a report.\n(3) A Visitor must submit any report requested by the Public Guardian in accordance with any timetable specified by the Public Guardian.\n(4) If he considers it appropriate to do so, the Public Guardian may, in relation to any person interviewed in the course of preparing a report —\n(a)disclose the report to him; and\n(b)invite him to comment on it."
+   }
+  },
+  {
+   "id": "SG-H3154-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART III FUNCTIONS OF PUBLIC GUARDIAN"
+   },
+   "heading": {
+    "en": "Functions in relation to persons carrying out specific transactions"
+   },
+   "text": {
+    "en": "37.—(1) This regulation applies where, in accordance with an order made under section 20(2)( a) of the Act, a person (“T”) has been authorised to carry out any transaction for a person who lacks capacity.\n(2) The Public Guardian has the functions of —\n(a)receiving any reports from T which the court may require; and\n(b)dealing with representations (including complaints) about —\n(i)the way in which the transaction has been or is being carried out; or\n(ii)any failure to carry it out.\n(3) Regulations 31, 32 and 33 have effect in relation to T as they have effect in relation to a deputy."
+   }
+  },
+  {
+   "id": "SG-H3154-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART III FUNCTIONS OF PUBLIC GUARDIAN"
+   },
+   "heading": {
+    "en": "Power to require information from donees of lasting power of attorney"
+   },
+   "text": {
+    "en": "38.—(1) This regulation applies where it appears to the Public Guardian that there are circumstances suggesting that the donee of a lasting power of attorney may —\n(a)have behaved, or may be behaving, in a way that contravenes his authority or is not in the best interests of the donor of the power;\n(b)be proposing to behave in a way that would contravene that authority or would not be in the donor’s best interests; or\n(c)have failed to comply with the requirements of an order made, or directions given, by the court.\n(2) The Public Guardian may require the donee —\n(a)to provide specified information or information of a specified description; or\n(b)to produce specified documents or documents of a specified description.\n(3) The information or documents must be provided or produced —\n(a)before the end of such reasonable period as may be specified; and\n(b)at such place as may be specified.\n(4) The Public Guardian may require —\n(a)any information provided to be verified in such manner; or\n(b)any document produced to be authenticated in such manner,\nas he may require.\n(5) In this regulation, “specified” means specified in a notice in writing given to the donee by the Public Guardian."
+   }
+  },
+  {
+   "id": "SG-H3154-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART IV MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Notice of change in mobile telephone number under section 43C(7) of Act"
+   },
+   "text": {
+    "en": "39. For the purposes of section 43C(7) of the Act, the prescribed period within which the person mentioned in that section must give notice to the Public Guardian of any change to the person’s mobile telephone number is one month after the change.\n[S 870/2022 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3154-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRegulation 28B\nFirst column\nSecond column\nPerson\nRequirements\n1.Next-of-kin of P\nThe next-of-kin must submit to the Public Guardian satisfactory evidence that —\n(a)he or she is a next-of-kin of P; and\n(b)the next-of-kin —\n(i)does not know the identity of P’s donee; or\n(ii)is unable to contact P’s donee after having made reasonable attempts to do so.\n2.The healthcare service licensee providing a licensable healthcare service to P\nThe healthcare service licensee must submit to the Public Guardian satisfactory evidence that —\n(a)P is receiving the licensable healthcare service from the healthcare service licensee; and\n(b)the healthcare service licensee —\n(i)does not know the identity of P’s next‑of‑kin or donee; or\n(ii)is unable to contact P’s next‑of‑kin or donee after having made reasonable attempts to do so.\n3.The embassy of a country of which P is a citizen\nThe embassy must submit to the Public Guardian satisfactory evidence that —\n(a)P is a citizen of the country;\n(b)P is in Singapore; and\n(c)the embassy —\n(i)does not know the identity of P’s donee or next-of-kin; or\n(ii)is unable to contact P’s donee or next-of-kin after having made reasonable attempts to do so.\n4.A person who wishes to apply for an order of the court under section 20(2)(b) of the Act to appoint a deputy to make decisions on P’s behalf in relation to a matter or matters concerning P’s personal welfare or P’s property and affairs\nThe person must submit to the Public Guardian satisfactory evidence that —\n(a)the person —\n(i)does not know the identity of P’s donee; or\n(ii)is unable to contact P’s donee after having made reasonable attempts to do so; and\n(b)the person has taken one or more steps for the purpose of commencing proceedings to apply for the order.\nIn this Schedule —\n“healthcare service licensee” means a person who holds a licence under the Healthcare Services Act 2020 to provide a licensable healthcare service;\n“licensable healthcare service” has the meaning given by section 3(1) of the Healthcare Services Act 2020.\n[S 870/2022 wef 14/11/2022]\n[S 821/2023 wef 18/12/2023]"
+   }
+  }
+ ]
+}

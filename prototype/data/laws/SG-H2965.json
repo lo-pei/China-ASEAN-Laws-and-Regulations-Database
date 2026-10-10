@@ -1,0 +1,1076 @@
+{
+ "id": "SG-H2965",
+ "title": {
+  "zh": null,
+  "en": "Land Titles Rules",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p37",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation LTA1993-R1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 66,
+ "chars": 40783,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/LTA1993-R1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 66 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 8 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2965-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Rules may be cited as the Land Titles Rules."
+   }
+  },
+  {
+   "id": "SG-H2965-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Rules, unless the context otherwise requires —\n“authorised agent” means an attorney authorised in accordance with Part XVI of the Act;\n[S 481/2016 wef 03/10/2016]\n“clearance certificate” means a certificate issued under section 10(2) of the Residential Property Act (Cap. 274);\n[S 530/2014 wef 15/08/2014]\n“identity card” means an identity card issued under the National Registration Act (Cap. 201);\n“qualifying certificate” means a certificate evidencing an approval granted under section 31(3) of the Residential Property Act;\n[S 530/2014 wef 15/08/2014]\n“Registry” means the Land Titles Registry."
+   }
+  },
+  {
+   "id": "SG-H2965-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART II INITIAL REGISTRATION OF TITLES"
+   },
+   "heading": {
+    "en": "Cancellation of caution as to inconclusiveness of boundaries"
+   },
+   "text": {
+    "en": "3. Where the Chief Surveyor has approved as conclusive the boundaries and dimensions of any land shown in a plan filed with him, the Registrar shall —\n(a)make in the appropriate part of the land-register an entry of the reference number of the plan; and\n(b)cancel the caution in that part of the land-register as to the inconclusiveness of the boundaries and dimensions of that land."
+   }
+  },
+  {
+   "id": "SG-H2965-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART II INITIAL REGISTRATION OF TITLES"
+   },
+   "heading": {
+    "en": "Alterations or cancellation due to issue of State title, etc."
+   },
+   "text": {
+    "en": "4. Where —\n(a)any caution as to the inconclusiveness of the boundaries and dimensions of any land is cancelled under rule 3(b); or\n(b)a State title is issued in respect of any land which has been brought under the provisions of the Act pursuant to a Collector’s Certificate,\nthe Registrar may require the registered proprietor or any other person entitled to possession of a certificate of title relating to the land to produce the certificate of title for the purpose of the Registrar either cancelling the certificate of title consequent on the creation of a new edition of a folio or making a suitable alteration to the certificate of title."
+   }
+  },
+  {
+   "id": "SG-H2965-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART II INITIAL REGISTRATION OF TITLES"
+   },
+   "heading": {
+    "en": "Nomination on primary application"
+   },
+   "text": {
+    "en": "5.—(1) Where before the issue of a certificate of title pursuant to a primary application some person other than the applicant has or will become entitled to the land therein comprised, the applicant may nominate that person as the proprietor in whose name the certificate of title should be issued.\n(2) The Registrar, if he is satisfied that the person nominated is entitled to the whole of the estate in the land as owner of the land and no other person has made any claim in writing against the land, may give effect to such nomination."
+   }
+  },
+  {
+   "id": "SG-H2965-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART II INITIAL REGISTRATION OF TITLES"
+   },
+   "heading": {
+    "en": "Certificate of title for leasehold estate"
+   },
+   "text": {
+    "en": "6. A certificate of title issued for a leasehold estate comprised in a lease registered under the Act or the Registration of Deeds Act (Cap. 269) shall indicate the term of the lease, and the covenants and conditions subject to which the lease was made may be indicated by reference to the lease."
+   }
+  },
+  {
+   "id": "SG-H2965-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART III INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Quality and size of forms"
+   },
+   "text": {
+    "en": "7.—(1) All instruments lodged for registration and any plans annexed thereto shall be clearly legible, being either typed, printed or photographically produced, and shall be in a form suitable for microfilming or imaging.\n(2) All instruments lodged for registration and any plans annexed thereto shall —\n(a)be made on wide-ruled durable quality paper; and\n(b)measure 30 centimetres in length by 21 centimetres in breadth (A4 size).\n(c)[Deleted by S 276/2003 wef 09/06/2003]\n(3) Where an instrument lodged for registration affects part of any land, the part so affected shall be clearly delineated and hatched in the plan annexed to the instrument.\n[S 530/2014 wef 15/08/2014]\n(4) Any annexure to an instrument lodged for registration shall be authenticated by the party taking under or to be bound by the instrument or by his solicitor unless the Registrar dispenses with such authentication."
+   }
+  },
+  {
+   "id": "SG-H2965-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART III INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Common covenants and conditions in leases or mortgages"
+   },
+   "text": {
+    "en": "8.—(1) The Registrar may require that similar terms, covenants and conditions which are intended to apply to 2 or more leases issued by the same lessor, or to 2 or more mortgages created in favour of the same mortgagee, to be set out in a Memorandum of Lease or Memorandum of Mortgage (referred to in this rule as a Document), as the case may be, in the approved form.\n(2) The Document shall be filed with the Registrar prior to the lodgment of any such instrument of lease or mortgage in the Registry for registration.\n(3) The covenants and conditions set out in a Document filed with the Registrar shall bind the affected parties to every instrument of lease or mortgage which makes a reference to the Document by its number allotted by the Registrar.\n(4) The Registrar may refuse to accept for lodgment any instrument of lease or mortgage which exceeds 10 sheets and which sets out in full the terms, covenants and conditions which, in the opinion of the Registrar, should be set out in a Document to be filed with the Registrar prior to the lodgment of the instrument of lease or mortgage.\n(5) This rule shall not apply to the standard covenants and conditions for mortgages prescribed under section 172 of the Act.\n[S 30/2012 wef 01/02/2012]"
+   }
+  },
+  {
+   "id": "SG-H2965-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART III INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Particulars of acquiring party to be disclosed in instruments"
+   },
+   "text": {
+    "en": "9.—(1) For the purpose of complying with the requirements of section 19 of the Residential Property Act (Cap. 274), every instrument under which a person acquires an estate or interest in land shall disclose —\n(a)in the case of a natural person, the following particulars:\n(i)where the person is a citizen of Singapore, his citizenship status and the number of his identity card;\n(ii)where the person is a citizen of Singapore but has yet to be issued with an identity card, his citizenship status and the number of his birth certificate, passport or citizenship certificate;\n[S 530/2014 wef 15/08/2014]\n(iii)where the person is not a citizen but a permanent resident of Singapore, his citizenship, his permanent resident status and the number of his identity card (if any) or his unique identification number relating to his permanent resident status issued to him by the relevant Government department or statutory authority in Singapore; or\n[S 530/2014 wef 15/08/2014]\n(iv)where the person is neither a citizen nor a permanent resident of Singapore but holds a pass (issued to him by the relevant Government department or statutory authority in Singapore) assigned with a foreign identification number, his citizenship and either the foreign identification number or the number of his passport;\n[S 530/2014 wef 15/08/2014]\n(b)in the case of a body corporate, the following particulars:\n(i)where the body corporate is formed in Singapore and registered under the Companies Act (Cap. 50) or the Limited Liability Partnerships Act (Cap. 163A), the place of formation of the body corporate, the registration number of the body corporate assigned by the Registrar of Companies or the Registrar of Limited Liability Partnerships (as the case may be) and the registered address of the body corporate in Singapore;\n(ii)where the body corporate is formed outside Singapore and has a registered office or place of business in Singapore, the place of formation of the body corporate, the registration number (if any) of the body corporate assigned by the Registrar of Companies or the Registrar of Limited Liability Partnerships (as the case may be) and the address of the body corporate in Singapore for service of notices; or\n(iii)where the body corporate is formed outside Singapore and has no registered office or place of business in Singapore, the place of formation of the body corporate and the address of the body corporate in Singapore for service of notices; or\n[S 530/2014 wef 15/08/2014]\n(c)in the case of an unincorporated body, its place of formation, and where formed in Singapore, its registration number as assigned by the relevant Government department or statutory authority in Singapore.\n(2) The Registrar may require the instrument referred to in paragraph (1) be lodged together with such other documents as the Registrar may require, including a copy of the following:\n(a)in the case of a natural person, any approval of the Minister obtained by the natural person under section 25(2) of the Residential Property Act; or\n(b)in the case of a body corporate, any clearance certificate or qualifying certificate obtained by the body corporate.\n[S 530/2014 wef 15/08/2014]\n(3) The family name, surname or the first name of a person (where applicable) acquiring any estate or interest in land under an instrument shall be shown in the instrument in the same order as that shown in his identity card, birth certificate, passport or other document of identity, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H2965-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART III INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Alterations to instruments"
+   },
+   "text": {
+    "en": "10.—(1) [Deleted by S 276/2003 wef 09/06/2003]\n(2) [Deleted by S 276/2003 wef 09/06/2003]\n(3) Alterations of or additions to any wording in any instrument or plan shall not be made by the parties or their solicitors after the instrument has been registered."
+   }
+  },
+  {
+   "id": "SG-H2965-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART III INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Joint interests"
+   },
+   "text": {
+    "en": "11. An instrument shall not deal with the land of 2 or more proprietors, nor be made in favour of 2 or more persons, unless such proprietors are or are about to become co-tenants."
+   }
+  },
+  {
+   "id": "SG-H2965-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART III INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Consideration"
+   },
+   "text": {
+    "en": "12.—(1) Where consideration is expressed in an instrument to have been paid to any party, the execution of the instrument by that party shall imply an acknowledgment by him of the receipt of such consideration.\n(2) Where an approved form expresses the consideration for a transaction in a particular manner, the expression of consideration in any other manner or the omission to express any consideration at all shall not constitute a substantial departure from the approved form."
+   }
+  },
+  {
+   "id": "SG-H2965-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART III INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Capacity of party executing"
+   },
+   "text": {
+    "en": "13. An instrument executed by any person mentioned in section 56(2) of the Act shall indicate clearly the capacity in which that person executes the instrument."
+   }
+  },
+  {
+   "id": "SG-H2965-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART III INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Execution by illiterate"
+   },
+   "text": {
+    "en": "14. When an instrument lodged for registration has been signed by a party who appears to the Registrar to be illiterate, then, unless a certificate of correctness by a solicitor under section 59 of the Act is endorsed on the instrument, the Registrar may require the production of a certificate by some competent person that the contents of the instrument have been carefully read over and explained to the illiterate party and that the party appeared fully to understand the purport and effect thereof."
+   }
+  },
+  {
+   "id": "SG-H2965-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART III INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Powers of appointment"
+   },
+   "text": {
+    "en": "15. A power of appointment may be created by an instrument of transfer modified as the circumstances require."
+   }
+  },
+  {
+   "id": "SG-H2965-A15.001",
+   "no": 15.001,
+   "noLabel": {
+    "en": "15A."
+   },
+   "chapter": {
+    "en": "PART III INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Dispensation with proof of due execution of instrument"
+   },
+   "text": {
+    "en": "15A. For the purposes of section 57(3)(d) of the Act, the prescribed purposes for which the Registrar may dispense with proof of due execution of an instrument intended for registration under the Act are as follows:\n(a)the registration of any order of the General Division of the High Court or a Strata Titles Board made under Part 5A of the Land Titles (Strata) Act 1967;\n(b)the registration of a total or partial discharge of a mortgage or a charge;\n(c)the registration of the vesting of any land in the State following the determination of a State title;\n(d)the registration of a charge referred to in section 43(1) of the Building Maintenance and Strata Management Act 2004;\n(e)the registration of an instrument of discharge, or an order of court, referred to in section 43(5) of the Building Maintenance and Strata Management Act 2004;\n(f)the registration of any order of court made under section 97A or 105A of the Act;\n(g)the registration of any transfer of a mortgage or a charge.\n[S 30/2024 wef 01/02/2024]"
+   }
+  },
+  {
+   "id": "SG-H2965-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART IV LODGMENT FOR REGISTRATION"
+   },
+   "heading": {
+    "en": "Lodgment in person"
+   },
+   "text": {
+    "en": "16. Instruments that relate to a manual folio or as the Registrar may direct shall be lodged for registration in person."
+   }
+  },
+  {
+   "id": "SG-H2965-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART IV LODGMENT FOR REGISTRATION"
+   },
+   "heading": {
+    "en": "Time and place for lodgment"
+   },
+   "text": {
+    "en": "17. Instruments that relate to a manual folio or such other instruments as directed by the Registrar shall be lodged for registration at the Registry from 8.30 a.m. to 1 p.m. every day except on a Saturday, Sunday or public holiday or between such other hours as the Registrar may direct.\n[S 276/2003 wef 09/06/2003]\n[S 530/2014 wef 15/08/2014]"
+   }
+  },
+  {
+   "id": "SG-H2965-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART IV LODGMENT FOR REGISTRATION"
+   },
+   "heading": {
+    "en": "Accompanying documents and particulars, etc."
+   },
+   "text": {
+    "en": "18.—(1) An instrument for registration that relates to a manual folio or as the Registrar may direct shall be lodged together with a lodgment form containing the following particulars:\n(a)the signature, name and address of the person by whom the instrument is lodged or that of the solicitor acting on his behalf;\n(b)a schedule of all instruments listed in order of priority for registration;\n(c)a schedule of all documents lodged with the instruments;\n(d)the name, identity card particulars and signature of the person authorised to collect the instrument after registration;\n(e)the code assigned by the Registry to the law firm for the purpose of these Rules and the stamp of the law firm; and\n(f)any other particulars as may be required by the Registrar.\n(2) A lodgment form shall accompany —\n(a)each instrument if lodged singly; or\n(b)each set of related instruments."
+   }
+  },
+  {
+   "id": "SG-H2965-A18.001",
+   "no": 18.001,
+   "noLabel": {
+    "en": "18A."
+   },
+   "chapter": {
+    "en": "PART IV LODGMENT FOR REGISTRATION"
+   },
+   "heading": {
+    "en": "Requirement for signature"
+   },
+   "text": {
+    "en": "18A. An instrument that does not purport to dispose of or to create an interest in registered land, and that is intended to be lodged other than in the form of an electronic record, must be signed —\n(a)for an application to notify an order of court mentioned in rule 32(1) — by the person for whose benefit the order of court has been made or the authorised agent of that person;\n(b)for a caveat or an extension of the caveat — by the caveator or the authorised agent of the caveator;\n(c)for an application to register an enforcement order or an order of court mentioned in rule 38(1) or for an application to withdraw or cancel such registration — by the applicant or the applicant’s authorised agent;\n(d)for a notification of an application for an order for a collective sale made under Part 5A of the Land Titles (Strata) Act 1967, and a cancellation of such notification — by the authorised representatives mentioned in section 84A(2) of that Act or the authorised agent of the authorised representatives;\n(e)for an application to register an order of court or an order of a Strata Titles Board (as the case may be) made pursuant to an application for an order for a collective sale under Part 5A of the Land Titles (Strata) Act 1967 — by the authorised representatives mentioned in section 84A(2) of that Act or the authorised agent of the authorised representatives; or\n(f)for any other instrument that does not purport to dispose of or to create an interest in registered land — by the applicant or the applicant’s authorised agent.\n[S 30/2024 wef 01/02/2024]"
+   }
+  },
+  {
+   "id": "SG-H2965-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART IV LODGMENT FOR REGISTRATION"
+   },
+   "heading": {
+    "en": "Refusal to accept for lodgment"
+   },
+   "text": {
+    "en": "19.—(1) The Registrar may refuse to accept an instrument presented for lodgment if —\n(a)it is not accompanied by a cheque or authorisation for payment of the appropriate fees specified in the Schedule;\n[S 530/2014 wef 15/08/2014]\n(b)it is not accompanied by the relevant document of title and all other documents required by the Act, these Rules or the Registrar for registration or notification of the instrument;\n[S 530/2014 wef 15/08/2014]\n(c)it is not substantially in an approved form; or\n(d)it does not comply with any requirement made, with respect to the instrument, by or under the Act or these Rules.\n(2) Notwithstanding that an instrument may have been accepted for lodgment by the Registrar, an instrument shall be deemed not to have been lodged if the cheque or authorisation for payment of the appropriate fees specified in the Schedule is subsequently dishonoured.\n[S 530/2014 wef 15/08/2014]"
+   }
+  },
+  {
+   "id": "SG-H2965-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART IV LODGMENT FOR REGISTRATION"
+   },
+   "heading": {
+    "en": "Unreasonable delay in complying with requisitions"
+   },
+   "text": {
+    "en": "20.—(1) Where, in the opinion of the Registrar, there has been unreasonable delay in complying with any requisition made by him in connection with an instrument (other than a caveat) lodged for registration or notification —\n(a)he may reject the instrument or, if the instrument is lodged in a set of related instruments, the set of instruments without refunding the fee or fees paid in respect thereof after giving to the person having conduct of the matter 14 days’ notice in writing of his intention to do so; and\n[S 530/2014 wef 15/08/2014]\n(b)after rejecting the instrument or set of instruments, as the case may be, he shall proceed to cancel the particulars of the instrument or instruments entered on the land-register and other records of the Registry and thereafter return the instrument or set of instruments to the person who lodged it.\n(2) Where a caveat is deemed to have been withdrawn by reason of section 117(3) of the Act, the Registrar shall not be obliged to refund the fee paid in respect of the caveat.\n(3) For the purpose of paragraph (1), a delay shall not be considered unreasonable unless —\n(a)it has continued for more than 14 days from the date of the requisition by the Registrar; and\n(b)no satisfactory explanation of the delay has been furnished to the Registrar."
+   }
+  },
+  {
+   "id": "SG-H2965-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "Separate certificates of title"
+   },
+   "text": {
+    "en": "21.—(1) Where 2 or more lots are comprised in a certificate of title (referred to in this paragraph as the original certificate of title), no instrument involving a transfer of ownership of any of those lots shall be accepted for registration, unless —\n(a)one or more separate certificates of title have been issued for the lot or lots which form the subject of that transfer; or\n(b)all those lots comprised in the original certificate of title are the subject of that transfer.\n(2) Where the lot comprised in a certificate of title (referred to in this paragraph as the original certificate of title) has been subdivided, no instrument involving a transfer of any subdivided part of that lot shall be accepted for registration, unless —\n(a)one or more separate certificates of title have been issued for the subdivided part or parts which form the subject of that transfer; or\n(b)all the subdivided parts comprised in the original certificate of title are the subject of that transfer.\n[S 530/2014 wef 15/08/2014]"
+   }
+  },
+  {
+   "id": "SG-H2965-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "Dealings of leasehold comprised in certificate of title"
+   },
+   "text": {
+    "en": "22. Where a folio is created for a leasehold estate comprised in a lease —\n(a)all instruments relating to the leasehold estate shall be notified on such folio; and\n[S 530/2014 wef 15/08/2014]\n(b)a suitable notification or endorsement that such folio has been created shall be entered on the land-register or lease, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H2965-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "Use of produced document"
+   },
+   "text": {
+    "en": "23.—(1) Where, for the purpose of registration of any instrument, a document of title is produced by some person other than the person entitled to possession of such document of title, the Registrar may require the instrument to be lodged together with a production form or an authorisation form.\n(2) The production form or authorisation form referred to in paragraph (1) —\n(a)shall be signed by the person entitled to the possession of the document of title, or that person’s solicitor or authorised agent; and\n(b)shall indicate the purpose for which the document of title is produced.\n(3) The Registrar shall not use the document of title for any other purpose except with the consent, expressed or implied, of the person who produced the document of title.\n[S 530/2014 wef 15/08/2014]"
+   }
+  },
+  {
+   "id": "SG-H2965-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "Consent of mortgagee or chargee to replacement of certificates of title, etc."
+   },
+   "text": {
+    "en": "24. An application under section 43 of the Act for a new certificate of title or a new subsidiary certificate of title shall be endorsed with the consent of any registered mortgagee or chargee of land to be comprised in the new certificate of title or new subsidiary certificate of title.\n[S 530/2014 wef 15/08/2014]"
+   }
+  },
+  {
+   "id": "SG-H2965-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "text": {
+    "en": "25. [Deleted by S 276/2003 wef 09/06/2003]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2965-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "Transfer by mortgagee"
+   },
+   "text": {
+    "en": "26. The Registrar may register a transfer on sale executed by the proprietor of a mortgage notwithstanding the fact that the transferor was not registered as proprietor at the time when the sale took place."
+   }
+  },
+  {
+   "id": "SG-H2965-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "Satisfaction of charge"
+   },
+   "text": {
+    "en": "27. An application to enter in the land-register a notification of satisfaction of a charge may be made by any person interested in the land subject to the charge."
+   }
+  },
+  {
+   "id": "SG-H2965-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "Mortgagee’s, etc., consent to easement"
+   },
+   "text": {
+    "en": "28. Where the proprietor of land subject to a mortgage, charge or lease has granted an easement with the consent of a proprietor of that mortgage, charge or lease, the Registrar shall refer to such consent in the memorial of registration of the easement."
+   }
+  },
+  {
+   "id": "SG-H2965-A28.001",
+   "no": 28.001,
+   "noLabel": {
+    "en": "28A."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "text": {
+    "en": "28A. [Deleted by S 30/2024 wef 01/02/2024]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2965-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "Application for issue of certificate of title for mortgaged land"
+   },
+   "text": {
+    "en": "29.—(1) A reference in an endorsement cancelling a previous folio to the instrument or document occasioning the cancellation of that folio shall be sufficient indication of the reason for such cancellation within the meaning of section 30(3) of the Act.\n(2) [Deleted by S 256/2005 wef 01/06/2005]\n(3) An application for one or more new folios for the whole of the land in an existing folio or for the combination of 2 or more parcels of land in one or more existing folios under section 30 of the Act, or for the creation of a new folio for a leasehold estate, shall be accompanied by the written consent of any registered mortgagee or chargee of land to be comprised in the new folio or folios.\n[S 530/2014 wef 15/08/2014]"
+   }
+  },
+  {
+   "id": "SG-H2965-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "Surrender of leasehold estate"
+   },
+   "text": {
+    "en": "30.—(1) A surrender of a leasehold estate shall be supported by evidence to show that the surrender has been accepted by all necessary parties.\n(2) Where an instrument of surrender of a leasehold estate is executed by the lessee with the consent of any mortgagee or chargee of the leasehold estate, the Registrar shall cancel the mortgage or charge upon registration of the surrender.\n(3) Upon the surrender of a lease on which any sublease is registered, the Registrar shall enter a notification of the new reversion on the sublease or the folio of the land-register created for the sublease, as the case may be.\n[S 530/2014 wef 15/08/2014]"
+   }
+  },
+  {
+   "id": "SG-H2965-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "New certificates of title for creation of easements"
+   },
+   "text": {
+    "en": "31. For the purposes of section 97(5) and (6) of the Act, the Registrar may, in any case if he thinks fit, require the issue of a new certificate of title.\n[S 530/2014 wef 15/08/2014]"
+   }
+  },
+  {
+   "id": "SG-H2965-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "Creation, variation or extinguishment of easement pursuant to order of court"
+   },
+   "text": {
+    "en": "32.—(1) Where an easement has been created, varied or wholly or partially extinguished by an order of court, an application shall be made to the Registrar to notify the order of court on the land-register.\n(2) An application referred to in paragraph (1) shall be lodged together with a duly certified copy of the order of court.\n[S 530/2014 wef 15/08/2014]\n[S 481/2016 wef 03/10/2016]\n[S 30/2024 wef 01/02/2024]"
+   }
+  },
+  {
+   "id": "SG-H2965-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "Personal representative who becomes absolute owner of land"
+   },
+   "text": {
+    "en": "33. A personal representative who has become registered as proprietor by transmission of the land of a deceased proprietor may file a statement with the Registrar that he is or has become the absolute owner of the land and stating his entitlement to the land."
+   }
+  },
+  {
+   "id": "SG-H2965-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "text": {
+    "en": "34. [Deleted by S 30/2024 wef 01/02/2024]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2965-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "Acceptance of nomination in caveat"
+   },
+   "text": {
+    "en": "35. Where a caveat prohibits registration of any dealing affecting the land except with the consent of some person nominated in the caveat, the Registrar may require evidence, either by endorsement on the caveat or otherwise, to show that such person accepts the nomination.\n[S 530/2014 wef 15/08/2014]"
+   }
+  },
+  {
+   "id": "SG-H2965-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "Dealings subject to caveats"
+   },
+   "text": {
+    "en": "36. Where an instrument refers in its memorandum of prior encumbrances to a caveat, such reference shall, for the purposes of section 115(2)(a) of the Act, be sufficient expression that the instrument is subject to the interest claimed under the caveat."
+   }
+  },
+  {
+   "id": "SG-H2965-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "Caveats against unregistered land"
+   },
+   "text": {
+    "en": "37. A caveat against unregistered land shall be in the approved form for caveats of registered land and shall, in addition, state the name and address of the caveatee upon whom notice is to be served under section 117(1) of the Act."
+   }
+  },
+  {
+   "id": "SG-H2965-A37.001",
+   "no": 37.001,
+   "noLabel": {
+    "en": "37A."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "text": {
+    "en": "37A. [Deleted by S 481/2016 wef 03/10/2016]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2965-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "Application to register an enforcement order or order of court"
+   },
+   "text": {
+    "en": "38.—(1) An application for registration of an enforcement order or an order of court may be made by the claimant in the suit in which the order has been issued, or by a person for whose benefit the order has been issued, or by the person directed, appointed or empowered by the court to deal with the land in respect of which the order has been issued.\n[S 30/2012 wef 01/02/2012]\n[S 30/2024 wef 01/02/2024]\n(2) [Deleted by S 30/2024 wef 01/02/2024]\n[S 30/2024 wef 01/02/2024]"
+   }
+  },
+  {
+   "id": "SG-H2965-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "Notice of entry of enforcement order"
+   },
+   "text": {
+    "en": "39.—(1) An enforcement order issued on a judgment against the personal representative of a deceased proprietor in his capacity as such may be registered against the title to the land of the deceased proprietor.\n[S 30/2024 wef 01/02/2024]\n(2) When the Registrar has entered an enforcement order on the land-register, he shall notify the proprietor against whose interest the enforcement order has been entered.\n[S 30/2024 wef 01/02/2024]\n[S 30/2024 wef 01/02/2024]"
+   }
+  },
+  {
+   "id": "SG-H2965-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "Covenants in restraint of trade"
+   },
+   "text": {
+    "en": "40. Where an instrument which complies with the requirements of Part XIV of the Act purports to prohibit or otherwise control the conduct on the servient land of any trade, business or profession, the Registrar shall not be concerned to consider whether such restraints are enforceable."
+   }
+  },
+  {
+   "id": "SG-H2965-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "Extinguishment or variation of restriction"
+   },
+   "text": {
+    "en": "41. Where a restriction has been wholly or partially extinguished or varied by an order of court under section 140(5) of the Act, every person having a registered interest in the servient land shall apply to the Registrar to notify the order of court on the land-register.\n[S 30/2012 wef 01/02/2012]\n[S 530/2014 wef 15/08/2014]"
+   }
+  },
+  {
+   "id": "SG-H2965-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "text": {
+    "en": "42. [Deleted by S 481/2016 wef 03/10/2016]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2965-A42.001",
+   "no": 42.001,
+   "noLabel": {
+    "en": "42A."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "text": {
+    "en": "42A. [Deleted by S 30/2024 wef 01/02/2024]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2965-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "Defunct entries"
+   },
+   "text": {
+    "en": "43.—(1) Any proprietor claiming that an entry in the land-register has ceased to affect his land may request the Registrar to exercise the power of cancellation conferred on him by section 29(8) of the Act.\n(2) The Registrar shall not be bound to comply with such request unless he is satisfied that no other method of disposing of the entry in question is reasonably practical.\n(3) Whenever the Registrar endorses a discharge of mortgage, or a surrender of lease or any other entry in the land-register, whereby some previous entry ceases to affect the land to which it related, he shall —\n(a)in the case of a manual folio, stamp on that previous entry the word “discharged”, “surrendered”, “cancelled” or any other appropriate word, as the case may be, but in such manner as to leave that previous entry legible; and\n(b)in the case of a computer folio, make an entry in that folio to the effect that the mortgage, lease or previous entry has been discharged, surrendered or cancelled."
+   }
+  },
+  {
+   "id": "SG-H2965-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART V REGISTRATION PROCEDURES"
+   },
+   "heading": {
+    "en": "Notice of intention to correct land-register"
+   },
+   "text": {
+    "en": "44.—(1) Where the Registrar intends to correct the land-register under section 159 of the Act, he shall give 21 days’ notice of his intention to the proprietor and to any other person who, in the opinion of the Registrar, may be affected by the correction.\n(2) No such notice need be given if, in the opinion of the Registrar, the intended correction would not prejudice the proprietor or other person."
+   }
+  },
+  {
+   "id": "SG-H2965-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART VI SEARCHES"
+   },
+   "heading": {
+    "en": "Inspection of land-register, documents and other records"
+   },
+   "text": {
+    "en": "45.—(1) The land-register shall be open to inspection at the Registry every Monday to Friday (except on a public holiday) from 8.30 a.m. to 5.30 p.m., or at such other times as the Registrar may direct.\n[S 530/2014 wef 15/08/2014]\n(2) A person who has been granted permission to inspect the land-register or other documents or records kept at the Registry shall carry out his inspection in an expeditious manner.\n(3) Where the Registrar is satisfied that there are members of the public and public officers awaiting their turn to inspect a document which is being inspected by another person, the Registrar may restrict the time available for any person to inspect the document.\n(4) A person carrying out an inspection of the land‑register or any other document or record kept at the Registry may on payment of the appropriate fee specified in the Schedule, apply for a photographic copy, microprint or printout of any information contained in that land-register, document or record for his use.\n[S 530/2014 wef 15/08/2014]"
+   }
+  },
+  {
+   "id": "SG-H2965-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART VI SEARCHES"
+   },
+   "heading": {
+    "en": "Restriction on writing materials"
+   },
+   "text": {
+    "en": "46.—(1) No person shall use any pen or other writing instrument which produces indelible writing to make any alteration of or addition to the land‑register, unless he is authorised by the Registrar to do so.\n[S 530/2014 wef 15/08/2014]\n(2) Any person who fails to comply with paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000."
+   }
+  },
+  {
+   "id": "SG-H2965-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART VI SEARCHES"
+   },
+   "heading": {
+    "en": "Conduct in Registry"
+   },
+   "text": {
+    "en": "47.—(1) Except with permission of the Registrar, no person shall enter or remain in any part of the Registry not open to the public.\n(2) No person shall smoke, drink or eat or behave in a noisy or disorderly manner in any part of the Registry which is open to the public.\n(3) The Registrar may direct any person who fails to comply with paragraph (1) or (2) to leave the Registry forthwith and may prohibit that person from making any search at the Registry for such period of time as determined by the Registrar."
+   }
+  },
+  {
+   "id": "SG-H2965-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART VI SEARCHES"
+   },
+   "heading": {
+    "en": "Requisitions for official searches"
+   },
+   "text": {
+    "en": "48. All requisitions for official searches shall be clearly legible, being either typed, printed or photographically produced, and shall be in a form suitable for microfilming or imaging.\n[S 530/2014 wef 15/08/2014]"
+   }
+  },
+  {
+   "id": "SG-H2965-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART VII COMPUTERISATION"
+   },
+   "text": {
+    "en": "49. [Deleted by S 276/2003 wef 09/06/2003]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2965-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART VII COMPUTERISATION"
+   },
+   "heading": {
+    "en": "Lodgment in relation to computer folio"
+   },
+   "text": {
+    "en": "50.—(1) Every instrument lodged for registration or notification shall relate to lands comprised wholly in either computer folios or manual folios, and shall not relate to lands comprised partly in a computer folio and a manual folio.\n(2) Upon the lodgment of any instrument for registration or notification affecting land comprised in a computer folio, the Registrar shall, not later than 48 hours after 12 noon of the day of such lodgment, enter on the computer folio the particulars of such lodgment.\n(3) Any public holiday falling after the lodgment of an instrument shall not be reckoned for the purposes of paragraph (2)."
+   }
+  },
+  {
+   "id": "SG-H2965-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART VIII MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Certification of plans"
+   },
+   "text": {
+    "en": "51. The Chief Surveyor may, by writing under his hand, delegate to any officer of the Registry the power to certify plans as true in respect of matters under the administration and control of the Registrar."
+   }
+  },
+  {
+   "id": "SG-H2965-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART VIII MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Production of document for inspection"
+   },
+   "text": {
+    "en": "52. A person required by the Registrar to produce an instrument for his inspection under section 7(1)(c) or (2) of the Act shall produce the instrument to the Registrar within 21 days of the request of the Registrar or within such further period as the Registrar may specify in writing to that person."
+   }
+  },
+  {
+   "id": "SG-H2965-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART VIII MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Microfilming and storage of instruments"
+   },
+   "text": {
+    "en": "53.—(1) Every instrument which has been registered or notified on the land-register shall be microfilmed or stored by any method for the purpose of preserving the records of the Registry.\n(2) The Registrar may, in accordance with section 44 of the Act, forward any document or instrument which has been finally registered or notified to be stored in the National Archives of Singapore or in any relevant Government department.\n[S 530/2014 wef 15/08/2014]"
+   }
+  },
+  {
+   "id": "SG-H2965-A53.001",
+   "no": 53.001,
+   "noLabel": {
+    "en": "53A."
+   },
+   "chapter": {
+    "en": "PART VIII MISCELLANEOUS"
+   },
+   "text": {
+    "en": "53A. [Deleted by S 276/2003 wef 09/06/2003]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2965-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART IX FEES"
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "54.—(1) The fees specified in the Schedule shall be payable to the Registrar in respect of the matters specified in that Schedule.\n[S 347/2010 wef 01/10/2010]\n(2) The fees specified in the Schedule are inclusive of goods and services tax chargeable under the Goods and Services Tax Act (Cap. 117A) on the matters in respect of which the fees are payable.\n[S 150/2005 wef 01/04/2005]"
+   }
+  },
+  {
+   "id": "SG-H2965-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "55."
+   },
+   "chapter": {
+    "en": "PART IX FEES"
+   },
+   "heading": {
+    "en": "Additional fee for instruments which are not in order for registration"
+   },
+   "text": {
+    "en": "55.—(1) Where an instrument lodged for registration or notification is, in the opinion of the Registrar, not in order for registration or notification, as the case may be, the Registrar may —\n(a)refuse to accept the instrument or, if the instrument is lodged in a set of related instruments, the set of instruments, for registration or notification without refunding the fee or fees paid in respect thereof; or\n(b)if he accepts the instrument or set of instruments, as the case may be, subject to compliance with his requisitions, require an additional fee to be paid in respect thereof when the Registrar —\n(i)accepts any rectification or amendment made to the deficient instrument; or\n(ii)receives the document of title or other supporting document that he requires for the registration or notification of the instrument.\n[S 530/2014 wef 15/08/2014]\n(2) The additional fee payable under paragraph (1)(b) in respect of any instrument which is not in order for registration or notification shall be the fee specified in the Schedule.\n[S 662/2007 wef 11/12/2007]\n(2A) The additional fee referred to in paragraph (2) shall in no case be paid by any party to that instrument if he is represented by a solicitor but shall be paid by the solicitor for such party.\n[S 426/2004 wef 15/07/2004]\n(3) Where the Registrar has refused to accept an instrument or set of instruments, as the case may be, for registration or notification without refunding the fee or fees paid in respect thereof, and after such refusal a fresh instrument or set of instruments is lodged in place of the first-mentioned instrument or set of instruments, the fee or fees payable in respect of that fresh instrument or set of instruments shall in no case be paid by any party to that fresh instrument or set of instruments if he is represented by a solicitor but shall be paid by the solicitor for any such party."
+   }
+  },
+  {
+   "id": "SG-H2965-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "56."
+   },
+   "chapter": {
+    "en": "PART IX FEES"
+   },
+   "heading": {
+    "en": "Registrar’s lien for fees"
+   },
+   "text": {
+    "en": "56. For the purpose of securing payment of any fees incurred in addition to those paid or assessed on lodgment of an instrument and any related document, the Registrar shall be entitled to withhold delivery of the relevant document of title and the instrument until all such fees due have been paid.\n[S 530/2014 wef 15/08/2014]"
+   }
+  },
+  {
+   "id": "SG-H2965-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "57."
+   },
+   "chapter": {
+    "en": "PART IX FEES"
+   },
+   "heading": {
+    "en": "Fees not payable in certain matters"
+   },
+   "text": {
+    "en": "57. No fee shall be payable in respect of any of the following matters:\n(a)notifying a change of address;\n(b)notifying subsisting encumbrances which have been registered or notified in the records of the Registry of Deeds or the Registry, as the case may be, on a folio of the land-register or a related instrument pursuant to the issue of a certificate of title;\n(c)correction of departmental errors in the land-register;\n(d)cancellation of a caution on the land-register as to inconclusiveness of boundaries and dimensions of land;\n(e)altering a certificate of title to include information relating to a State title upon the issue of such title; and\n(f)issuing a certificate of title for a new edition of a folio."
+   }
+  },
+  {
+   "id": "SG-H2965-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "58."
+   },
+   "chapter": {
+    "en": "PART IX FEES"
+   },
+   "heading": {
+    "en": "Remission, waiver and refunds"
+   },
+   "text": {
+    "en": "58. The Registrar may, in his discretion, remit, waive or refund, wholly or in part, any fee paid or payable under these Rules.\n[S 662/2007 wef 11/12/2007]"
+   }
+  },
+  {
+   "id": "SG-H2965-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "59."
+   },
+   "chapter": {
+    "en": "PART IX FEES"
+   },
+   "heading": {
+    "en": "Assurance fund"
+   },
+   "text": {
+    "en": "59. For the purposes of section 151 of the Act, 5% of the fees collected by the Registrar under the Act shall be set apart to constitute the assurance fund."
+   }
+  },
+  {
+   "id": "SG-H2965-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRules 19, 45, 54 and 55\nFees\n1.Application for the creation of new folios or an application under section 43 of the Act for a new certificate of title or a new subsidiary certificate of title\n$78.30\n2.Issuing a certificate of title pursuant to alienation of land by the State or creation of a new folio\n$70\n3.[Deleted by S 530/2014 wef 15/08/2014]\n4.Registration or notification of each of the following instruments:\n$68.30\n(a)transfer\n(b)mortgage or submortgage\n(c)charge\n(d)postponement\n(e)lease or sublease\n(f)creation, variation, release or extinguishment (in whole or part) of an easement\n(g)restriction\n(h)statutory obligation or acquisition\n(i)declaration relating to manner of holding by co-tenants\n(j)transmission to personal representatives or Official Assignee upon the death or bankruptcy of a proprietor, or a person other than personal representatives\n(k)entitlement to an interest upon death of a joint tenant or a life tenant or upon defeasance of the interest of the proprietor\n(l)enforcement order\n(m)order of court\n(n)cancellation of registration of an instrument referred to in paragraph (l) or (m)\n(o)application to cancel a caution relating to title under section 26 of the Act\n(p)[Deleted by S 530/2014 wef 15/08/2014]\n5.Registration of an instrument of transfer or vesting relating to the transfer or vesting of mortgages or charges pursuant to any merger, amalgamation or acquisition of banks, or other financial institutions, under the Banking Act (Cap. 19), the Companies Act (Cap. 50) or any other written law —\n(a)for up to the first 5 folios or lease in each instrument\n$68.30\n(b)for each additional folio or lease thereafter, subject to a maximum of 50 folios or leases per instrument\n$4 per folio or lease\n6.—(1)[Deleted by S 530/2014 wef 15/08/2014&#93;\n(2) Dispensation with the production of a document of title, under section 42(2)(e) of the Act, including the investigation fee but excluding the cost of publishing any notice required by the Registrar under section 42(3) of the Act\n$45.30\n(3) Registration of an instrument of discharge or partial discharge of mortgage or charge, satisfaction of charge, or surrender of lease\n$45.30\n(4) Notification of determination of lease on the happening of an event, re-entry or on surrender by operation of law or in any other lawful manner, pursuant to application made\n$45.30\n(5) Application for correction of or notification of change of name\n$45.30\n(6) Filing of a memorandum of lease or mortgage or a variation thereto\n$45.30\n(7) Application, filing, registration, notification or examination of each instrument or document relating to any certificate of title accepted by the Registrar, for which a fee is not herein prescribed and which is not exempted by rule 57\n$45.30\n7.—(1) Explaining the meaning of the certificate of correctness under section 59 of the Act and verifying the identity and capacity of the person executing the certificate, including the attestation thereof\n$35.65\n(2) Attending to the preparation and lodgment of any instrument (other than explaining the meaning of the certificate of correctness referred to in paragraph (1))\n$70\n8.Lodgment of a caveat or extension of a caveat (including cost of sending notice to caveatee) or an application to notify a Central Provident Fund charge\n$64.45\n9.Withdrawal or partial withdrawal of a caveat or a discharge or partial discharge of a charge in favour of the Central Provident Fund Board\n$49.15\n10.Lodgment of an application by a caveatee under section 127 of the Act, including giving of notice to the caveator\n$145\n11.Requesting the Registrar to set forth in writing the grounds of his refusal under section 152(1) of the Act\n$254.85\n12.Registration of the following instruments relating to flats or units sold under the Housing and Development Act (Cap. 129):\n$38.30\n(a)instruments specified in item 4(a) to (k)\n(b)instruments specified in item 6(3)\n13.Registration of instruments relating to market or food stalls (whether sold by the Housing and Development Board or other Government authority)\n$38.30\n14.Searching of the land-register, including inspection of the current instruments registered\n$2 per person per day\n15.Application for an official search of the land-register or of any interest registered or notified thereon, and for each certificate of an official search provided\n$54.25\n16.For each final official search\n$69.55\n17.—(1) Supply of a copy, reproduced by any means, of any of the following documents available for public search:\n$1 per page or part thereof\n(a)certificate of title available for manual search\n(b)computerised certificate of title available for manual search\n(c)index of easement plans deposited with the Registry\n(d)strata title plan and contents thereof\n(e)approved plan attached to a certificate of title or to an instrument with lots delineated thereon where the copy of the plan is not required to be coloured\n(2) Supply of a copy, reproduced by any means, of any instrument or document (not listed in paragraph (1)) available for public search\n$4.20 per instrument or document\n(3) Supply of a copy, reproduced by any means, of an approved plan attached to a certificate of title or to an instrument with lots delineated thereon where the plan is required to be coloured\n$8.40 per page or part thereof\n18.Certification of a copy of any of the documents listed in —\n$3.15 per page or part thereof\n(a)item 17(1) and (2) (including cost of supplying the copy)\n(b)item 17(3) (excluding cost of supplying the copy)\n19.For each search in electronic form —\n(a)for viewing, or for each printout of, the Caveat Index\n$8.40\n(b)for each printout of —\n(i)a folio of the land-register (other than a folio of the land-register that comprises a development where separate folios have not been issued for the individual units)\n$16\n(ii)a folio of the land-register in respect of a particular unit within a development for which separate folios have not been issued for the individual units\n$16\n(iii)details of the estate and land in a folio of the land-register\n$4.70\n(iv)details of the proprietor in a folio of the land-register\n$5.80\n(v)other details of the property in a folio of the land-register (other than a folio of the land-register that comprises a development where separate folios have not been issued for the individual units)\n$11\n(vi)other details of the property in a folio of the land-register in respect of a particular unit within a development for which separate folios have not been issued for the individual units\n$11\n(c)for each printout giving details of a pending instrument\n$7.90\n(d)for each printout giving details of a registered instrument\n$7.90\n(e)for each printout giving details of a management corporation\n$5.80\n(f)for each Lot Base System printout of —\n(i)the current information on a lot\n$5.80\n(ii)the derivation, sub-division, amalgamation and other particulars of a lot including indices to lands and caveats\n$5.80\n(g)for each printout giving the history of the instruments shown on and lodged against the certificate of title after it was computerised\n$11.55\n(h)for each printout of a folio of the land-register with additional information from the Commissioner of Lands (other than a folio of the land-register that comprises a development where separate folios have not been issued for the individual units)\n$16\n(i)for each printout of a folio of the land-register with additional information from the Commissioner of Lands, in respect of a particular unit within a development for which separate folios have not been issued for the individual units\n$16\n(j)for each printout giving details of land and ownership information\n$5.25\n(k)for certification of a printout referred to in paragraphs (a) to (g) (excluding cost of printout)\n$2.10 per page or part thereof\n20.Additional fee payable under rule 55(1)(b)\n$38\n21.—(1) Registration of application for vesting of space adding item (commercial)\n$80.85\n(2) Registration of application for vesting of space adding item (residential)\n$77\n22.Supply of an updated computerised certificate of title\n$20.40.\n[S 30/2024 wef 01/02/2024]\n[S 530/2014 wef 15/08/2014]"
+   }
+  }
+ ]
+}

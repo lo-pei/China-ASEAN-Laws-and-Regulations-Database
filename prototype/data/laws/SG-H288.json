@@ -1,0 +1,91 @@
+{
+ "id": "SG-H288",
+ "title": {
+  "zh": null,
+  "en": "Banking (Exemption from Sections 15A and 15B) Order 2004",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p04",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation BA1970-S788-2004",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 2974,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/BA1970-S788-2004?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 4 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H288-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. This Order may be cited as the Banking (Exemption from Sections 15A and 15B) Order 2004 and shall come into operation on 1st January 2005."
+   }
+  },
+  {
+   "id": "SG-H288-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In this Order, unless the context otherwise requires —\n“immediate holding company” has the same meaning as in section 5(4) of the Companies Act (Cap. 50) read with section 5(1)(a) thereof;\n“specified person” means a person specified in the Schedule;\n[Deleted by S 716/2016 wef 03/01/2017]\n“wholly owned subsidiary” has the same meaning as in section 5B of the Companies Act."
+   }
+  },
+  {
+   "id": "SG-H288-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "3.—(1) The Minister hereby exempts a specified person —\n(a)from section 15A(1) of the Act, where the specified person is a substantial shareholder of Citibank Singapore Limited; and\n(b)from section 15B(1) of the Act, where the specified person is a 20% controller of Citibank Singapore Limited,\nsubject to the condition that there shall not be any change in the interest or interests, in the voting shares in the specified person, held by the immediate holding company of the specified person as at 1 October 2018.\n[S 498/2005 wef 01/08/2005]\n[S 723/2015 wef 24/11/2015]\n[S 716/2016 wef 03/01/2017]\n[S 709/2018 wef 01/10/2018]\n(2) The Minister hereby exempts Citigroup Holding (Singapore) Private Limited —\n(a)from section 15A(1) of the Act, where Citigroup Holding (Singapore) Private Limited is a substantial shareholder of Citibank Singapore Limited; and\n(b)from section 15B(1) of the Act, where Citigroup Holding (Singapore) Private Limited is a 20% controller of Citibank Singapore Limited,\nsubject to the following conditions:\n(i)Citigroup Holding (Singapore) Private Limited must remain a wholly owned subsidiary of Citigroup, Inc.;\n[S 486/2022 wef 24/06/2022]\n(ii)Citibank Singapore Limited shall remain a wholly owned subsidiary of Citigroup Holding (Singapore) Private Limited; and\n(iii)Citigroup Holding (Singapore) Private Limited shall provide to the Authority such information or documents as the Authority may require by notice in writing, within such time as may be specified in the notice.\n(3) [Deleted by S 723/2015 wef 24/11/2015]\n(4) The Minister hereby exempts any shareholder of Citigroup, Inc. —\n(a)from section 15A(1) of the Act, where that shareholder, by virtue of its shareholdings in Citigroup, Inc., becomes a substantial shareholder of Citibank Singapore Limited; or\n(b)from section 15B(1) of the Act, where that shareholder, by virtue of its shareholdings in Citigroup, Inc., becomes a 12% controller, a 20% controller or an indirect controller, as the case may be, of Citibank Singapore Limited."
+   }
+  },
+  {
+   "id": "SG-H288-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nParagraph 2\nSpecified persons\n1.Citigroup Asia Pacific Holding LLC (formerly known as Citigroup Asia Pacific Holding Corporation)\n[S 723/2015 wef 24/11/2015]\n2.Citibank Overseas Investment Corporation\n3.Citibank, N.A.\n4.Citicorp LLC (formerly known as Citicorp.)\n[S 716/2016 wef 03/01/2017]\n5.Citi Investments Bahamas Ltd.\n[S 145/2019 wef 01/10/2018]\n6.Citi Overseas Holdings Bahamas Ltd.\n[S 723/2015 wef 24/11/2015]"
+   }
+  }
+ ]
+}

@@ -1,0 +1,356 @@
+{
+ "id": "SG-H3295",
+ "title": {
+  "zh": null,
+  "en": "Nanyang Technological University (Corporatisation) Act 2005",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p41",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act NTUCA2005",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 20,
+ "chars": 13610,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/NTUCA2005?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 20 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3295-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Nanyang Technological University (Corporatisation) Act 2005."
+   }
+  },
+  {
+   "id": "SG-H3295-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2.—(1) In this Act, unless the context otherwise requires —\n“Board” means the Board of Trustees of the university company mentioned in its constituent documents;\n“constituent documents”, in relation to the university company, means the memorandum of association and articles of association of the university company;\n“predecessor university” means the Nanyang Technological University established under the repealed Nanyang Technological University Act (Cap. 192, 1992 Revised Edition);\n“university company” means the company limited by guarantee incorporated under the Companies Act 1967 under the name “Nanyang Technological University”.\n(2) To avoid doubt —\n(a)any reference in this Act to property vested in the predecessor university is a reference to such property, whether situated in Singapore or elsewhere; and\n(b)any reference in this Act to rights or liabilities of the predecessor university is a reference to such rights to which the predecessor university is entitled or such liabilities to which the predecessor university is subject (as the case may be) whether under the laws of Singapore or of any country outside Singapore, and includes such rights or liabilities arising under loans raised by the predecessor university."
+   }
+  },
+  {
+   "id": "SG-H3295-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 PROVISIONS RELATING TO UNIVERSITY COMPANY"
+   },
+   "heading": {
+    "en": "Function of university company"
+   },
+   "text": {
+    "en": "3. The function of the university company is to pursue, within the limits of the financial resources available to it, the objects provided by its constituent documents and, in particular, to confer and award degrees, diplomas and certificates, including honorary degrees and other distinctions."
+   }
+  },
+  {
+   "id": "SG-H3295-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 PROVISIONS RELATING TO UNIVERSITY COMPANY"
+   },
+   "heading": {
+    "en": "Accountability and evaluation"
+   },
+   "text": {
+    "en": "4.—(1) The university company must comply with the accountability framework set out by way of any written agreement between the university company and the Minister or any person authorised by the Minister.\n(2) The university company must evaluate the performance of its activities in accordance with such quality assurance framework as the Minister may determine.\n(3) The university company must participate in the evaluation of its activities by any external review panel that the Minister may commission from time to time."
+   }
+  },
+  {
+   "id": "SG-H3295-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 PROVISIONS RELATING TO UNIVERSITY COMPANY"
+   },
+   "heading": {
+    "en": "Directions in respect of policies on higher education in Singapore"
+   },
+   "text": {
+    "en": "5.—(1) The Minister may, in consultation with the university company, establish any policies on higher education in Singapore that the Minister thinks fit and may direct the university company to implement those policies.\n(2) The university company must comply with any direction given by the Minister under subsection (1)."
+   }
+  },
+  {
+   "id": "SG-H3295-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 PROVISIONS RELATING TO UNIVERSITY COMPANY"
+   },
+   "heading": {
+    "en": "Appointment to Board"
+   },
+   "text": {
+    "en": "6.—(1) The Board consists of such number of trustees as the Minister may appoint.\n(2) The Minister may, at any time, remove or replace any trustee, or appoint new or additional trustees to the Board."
+   }
+  },
+  {
+   "id": "SG-H3295-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 PROVISIONS RELATING TO UNIVERSITY COMPANY"
+   },
+   "heading": {
+    "en": "Consent of Minister"
+   },
+   "text": {
+    "en": "7.—(1) The prior written consent of the Minister is required for —\n(a)the admission of any person as a member of the university company and the removal of any such member;\n(b)the disposal of the whole or substantially the whole of the university company’s undertaking or property;\n(c)the voluntary winding up of the university company;\n(d)the addition, deletion or alteration of any provision of the constituent documents of the university company; and\n(e)the removal of any trustee from the Board.\n(2) The requirements under subsection (1) apply in addition to the requirements prescribed by the Companies Act 1967 and the Insolvency, Restructuring and Dissolution Act 2018 in respect of the matters referred to in subsection (1)(a) to (e).\n[40/2018]\n(3) Any act done or agreement made in contravention of subsection (1) has no effect and is unenforceable at law."
+   }
+  },
+  {
+   "id": "SG-H3295-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 PROVISIONS RELATING TO UNIVERSITY COMPANY"
+   },
+   "heading": {
+    "en": "Provision of funds"
+   },
+   "text": {
+    "en": "8.—(1) The Minister must pay to the university company such moneys as Parliament may provide from time to time for the funding of the university company.\n(2) All moneys paid to the university company under subsection (1) may only be applied or expended by the university company for such objects provided by its constituent documents as the Minister may allow."
+   }
+  },
+  {
+   "id": "SG-H3295-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 PROVISIONS RELATING TO UNIVERSITY COMPANY"
+   },
+   "heading": {
+    "en": "Access to accounts and summary of financial statements"
+   },
+   "text": {
+    "en": "9.—(1) The Minister or a person authorised by the Minister (called in this section an authorised person) is entitled, at all reasonable times, to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the university company.\n(2) The Minister or an authorised person may require any person to provide any information in that person’s possession, or to which that person has access, that the Minister or authorised person considers necessary for ascertaining —\n(a)whether moneys paid to the university company under section 8 were applied or expended in accordance with that section; or\n(b)any other matters that the Minister or authorised person considers necessary.\n(3) The university company must make available to the public, at such frequency and in such manner as the Minister may determine, a summary of the financial statements of the university company which must be in such form and contain such information as the Minister may determine.\n(4) Any person who, without reasonable excuse, fails to comply with any requirement of the Minister or an authorised person under subsection (2), or who otherwise hinders, obstructs or delays the Minister or an authorised person in the performance of his or her duties or in the exercise of his or her powers under this section, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000."
+   }
+  },
+  {
+   "id": "SG-H3295-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 PROVISIONS RELATING TO UNIVERSITY COMPANY"
+   },
+   "heading": {
+    "en": "Application of Societies Act 1966 to student bodies"
+   },
+   "text": {
+    "en": "10.—(1) Despite anything to the contrary in the Societies Act 1966, the provisions of that Act have effect in relation to any student body constituted pursuant to the provisions of the constituent documents of the university company.\n(2) The Minister charged with the responsibility for societies may, by order in the Gazette, exempt any student body mentioned in subsection (1) from all or any of the provisions of the Societies Act 1966 subject to any conditions specified in the order."
+   }
+  },
+  {
+   "id": "SG-H3295-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 PROVISIONS RELATING TO UNIVERSITY COMPANY"
+   },
+   "heading": {
+    "en": "Act to prevail over constituent documents, etc."
+   },
+   "text": {
+    "en": "11.—(1) Any provision of the constituent documents, or any regulation of the university company made pursuant to any provision of the constituent documents, that is inconsistent with any provision of this Act is, to the extent of the inconsistency, void.\n(2) Nothing in this Act is to be construed as excusing or exempting the university company from complying with any written law that, apart from this Act, would apply to the university company."
+   }
+  },
+  {
+   "id": "SG-H3295-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 TRANSFER OF PROPERTY, RIGHTS, LIABILITIES,EMPLOYEES, ETC., TO UNIVERSITY COMPANY"
+   },
+   "heading": {
+    "en": "Transfer to university company of property, rights and liabilities"
+   },
+   "text": {
+    "en": "12.—(1) On 1 April 2006, such property, rights and liabilities comprised in the undertaking of the predecessor university determined by the Minister and agreed to by the Minister for Finance are, by virtue of this section and without further assurance, act or deed, transferred to and vested in the university company.\n(2) Any property which by any scheme, will or other instrument or otherwise was held upon trust for any specific foundation or object of the predecessor university and which has been transferred to or vests in the university company by virtue of subsection (1) must, after the transfer or vesting, be held upon trust for and applied as far as possible to the like foundation or object of the university company.\n(3) Any property which was held upon any trust and which has been transferred to or vests in the university company by virtue of subsection (1) must, after the transfer or vesting, be held upon the same trust.\n(4) If any question arises as to whether any particular property, right or liability has been transferred to or vested in the university company under subsection (1), a certificate under the hand of the Minister for Finance is conclusive evidence that the property, right or liability was or was not so transferred or vested.\n(5) Any immovable property to be transferred to and vested in the university company under subsection (1) must be held by the university company upon the tenure and subject to the terms and conditions determined by the President.\n(6) All proceedings by or against the predecessor university which were commenced before 1 April 2006 and which are pending on that date may be continued, completed and enforced by or against the university company on and after that date.\n(7) Every agreement relating to any of the transferred properties to which the predecessor university was a party immediately before 1 April 2006, whether or not of a nature that the rights and liabilities under the agreement can be assigned, has effect on and after that date as if —\n(a)the university company had been a party to the agreement; and\n(b)every reference in the agreement to the predecessor university were substituted in respect of anything to be done on or after that date with a reference to the university company."
+   }
+  },
+  {
+   "id": "SG-H3295-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 TRANSFER OF PROPERTY, RIGHTS, LIABILITIES,EMPLOYEES, ETC., TO UNIVERSITY COMPANY"
+   },
+   "heading": {
+    "en": "Transfer of employees"
+   },
+   "text": {
+    "en": "13.—(1) On and after 1 April 2006, all persons employed immediately before that date by the predecessor university must be transferred to the service of the university company on terms no less favourable than those enjoyed by them immediately prior to their transfer.\n(2) Until the terms and conditions of service are drawn up by the university company, the scheme and terms and conditions of service in the predecessor university continue to apply to every person transferred to the service of the university company under subsection (1) as if the person were still in the service of the predecessor university."
+   }
+  },
+  {
+   "id": "SG-H3295-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 TRANSFER OF PROPERTY, RIGHTS, LIABILITIES,EMPLOYEES, ETC., TO UNIVERSITY COMPANY"
+   },
+   "heading": {
+    "en": "Service rights, etc., of transferred employees"
+   },
+   "text": {
+    "en": "14.—(1) The university company must, in drawing up the terms and conditions of service of any person transferred to the service of the university company under section 13, consider the terms and conditions of service, including any accrued rights to leave, enjoyed by that person while in the employment of the predecessor university.\n(2) The university company must, in drawing up any term or condition relating to the length of service of any person with the university company, provide for the recognition of service under the predecessor university by that person to be service under the university company."
+   }
+  },
+  {
+   "id": "SG-H3295-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 TRANSFER OF PROPERTY, RIGHTS, LIABILITIES,EMPLOYEES, ETC., TO UNIVERSITY COMPANY"
+   },
+   "heading": {
+    "en": "Existing contracts"
+   },
+   "text": {
+    "en": "15. All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1 April 2006 to which the predecessor university is a party continue in force on and after that date and are enforceable by or against the university company as if the university company had been named in them or had been a party to them instead of the predecessor university."
+   }
+  },
+  {
+   "id": "SG-H3295-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 TRANSFER OF PROPERTY, RIGHTS, LIABILITIES,EMPLOYEES, ETC., TO UNIVERSITY COMPANY"
+   },
+   "heading": {
+    "en": "Continuation and completion of disciplinary proceedings"
+   },
+   "text": {
+    "en": "16.—(1) Where any disciplinary proceedings commenced before 1 April 2006 against —\n(a)any employee of the predecessor university transferred to the service of the university company under section 13; or\n(b)any student of the predecessor university,\nare pending on that date, the proceedings must, on and after that date, be carried on and completed by the university company.\n(2) Where any hearing or investigation by a duly authorised committee of the predecessor university has commenced before 1 April 2006, but no order, ruling or direction has been made immediately before that date, the committee must, on or after that date, complete the hearing or investigation and may make such order, ruling or direction as it could have made under the authority vested in it before that date.\n(3) Any order, ruling or direction made by a committee under subsection (2) is to be treated as an order, ruling or direction of the university company and has the same force and effect as if it had been made by a duly authorised committee of the university company."
+   }
+  },
+  {
+   "id": "SG-H3295-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 TRANSFER OF PROPERTY, RIGHTS, LIABILITIES,EMPLOYEES, ETC., TO UNIVERSITY COMPANY"
+   },
+   "heading": {
+    "en": "Misconduct or neglect of duty by employee before transfer"
+   },
+   "text": {
+    "en": "17. The university company may reprimand, reduce in rank, retire, dismiss or punish in any other manner a person who had, while the person was in the employment of the predecessor university, been guilty of any misconduct or neglect of duty which would have rendered the person liable to be reprimanded, reduced in rank, retired, dismissed or punished in any other manner if the person had continued to be in the employment of the predecessor university, and if this Act had not been enacted."
+   }
+  },
+  {
+   "id": "SG-H3295-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Students’ Union"
+   },
+   "text": {
+    "en": "18. On 1 April 2006, the students’ association known as the Nanyang Technological University Students’ Union and its constituent bodies are deemed to be constituted pursuant to the provisions of the constituent documents of the university company."
+   }
+  },
+  {
+   "id": "SG-H3295-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Register of Guild of Graduates"
+   },
+   "text": {
+    "en": "19. The provisions of the Schedule apply to all persons whose names are on the register of the Guild of Graduates of the predecessor university."
+   }
+  },
+  {
+   "id": "SG-H3295-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nSection 19\nProvisions applicable to Register of Guild of Graduates\n1. The university company must maintain a Register of Graduates which consists of —\n(a)the names of all persons who on 7 August 1980 were members of the Guild of Graduates of the former Nanyang University and of all persons on whom degrees of that university had been conferred by virtue of section 18(2) of the National University of Singapore Act (Cap. 204, 2002 Revised Edition);\n(b)the names of all persons who immediately before 1 April 2006 were members of the Guild of Graduates of the predecessor university, of all graduates of the National University of Singapore who were matriculated students of the Nanyang Technological Institute before 1 July 1991 and of all persons on whom degrees of the predecessor university had been conferred; and\n(c)the names of all graduates of the University.\n2. The Register of Graduates may be in the form determined by the Board but must be divided into 3 Parts, as follows:\n(a)Part A contains the names of all persons specified in paragraph 1(a);\n(b)Part B contains the names of all persons specified in paragraph 1(b);\n(c)Part C contains the names of all graduates of the University.\n3. Any person whose name is on the Register of Graduates may receive such documents or other papers of the University as determined by the Board from time to time.\n4. In this Schedule, “University” means the university known as the Nanyang Technological University operated, maintained and promoted by the university company."
+   }
+  }
+ ]
+}

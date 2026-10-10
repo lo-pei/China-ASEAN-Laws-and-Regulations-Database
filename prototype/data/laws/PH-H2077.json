@@ -1,0 +1,64 @@
+{
+ "id": "PH-H2077",
+ "title": {
+  "zh": null,
+  "en": "An Act to Further Amend the First Paragraph of Section One Hundred Eighty-Nine of the National Internal Revenue Code",
+  "orig": "An Act to Further Amend the First Paragraph of Section One Hundred Eighty-Nine of the National Internal Revenue Code"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p29",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1959-06-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2344",
+ "officialCode": null,
+ "topics": [
+  "tax"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1465,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1959/ra_2344_1959.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1959/ra_2344_1959.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H2077-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The first paragraph of section on hundred eighty-nine of Commonwealth Act Numbered Four hundred sixty-six, otherwise known as the National Internal Revenue Code, as amended, is further amended to read as follows:\nSec. 189 . Percentage tax upon proprietors or operators of rope factories, sugar centrals, rice mills, coconut oil mills, corn mills, and desiccated coconut factories. -Proprietors or operators of rope factories, sugar centrals, rice mills, coconut oil mills, corn mills and desiccated coconut factories shall pay a tax equivalent to two per centum of the gross value in money of all the rope, sugar, rice, coconut oil, ground or milled corn, and desiccated coconut manufactured or milled by them, including the by-products of the raw materials from which the said articles are produced or manufactured, such tax to be based on the actual selling price or market value of these articles at the time they leave the factory or mill warehouse: Provided, However, That this tax shall not apply to ropes, coconut oil, and the by-products of copra from which it is produced or manufactured, and desiccated coconuts, if such ropes, oil, copra by products and desiccated coconuts shall be removed for exportation and are actually exported without returning to the Philippines, whether so exported in their original state, or as an ingredient or part of any manufactured article or product.\""
+   }
+  },
+  {
+   "id": "PH-H2077-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1959."
+   }
+  }
+ ]
+}

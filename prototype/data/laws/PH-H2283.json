@@ -1,0 +1,74 @@
+{
+ "id": "PH-H2283",
+ "title": {
+  "zh": "设立Rosario市",
+  "en": "An Act Creating Certain Barrios in the Municipality of Rosario, Province of Batangas",
+  "orig": "An Act Creating Certain Barrios in the Municipality of Rosario, Province of Batangas"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p32",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1959-06-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2554",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1302,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1959/ra_2554_1959.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1959/ra_2554_1959.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H2283-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The following barrios in the Municipality of Rosario, Province of Batangas, are constituted into barrios of said municipality as follows:\n1. The barrio of Macalamcam is divided into two distinct and independent barrios to be known as the barrios of Macalamcam-A and Macalamcam-B;\n2. The barrio of Putingkahoy is divided into two distinct and independent barrios to be known as the barrios of Putingkahoy and Nazi;\n3. The barrio of Matamis is divided into two distinct and independent barrios to be known as the barrios of Matamis and Antipolo;\n4. The barrio of Mayuro is divided into two distinct and independent barrios to be known as the barrios of Mayuro and Bayawang, and\n5. The barrio of Tulos is divided into two distinct and independent barrios to be known as the barrios of Tulos and Calantas.\nThe boundaries of the above-mentioned barrios shall be determined and fixed by the Municipal Council of the Municipality of Rosario, Province of Batangas, within one year from the date of the approval of this Act."
+   }
+  },
+  {
+   "id": "PH-H2283-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The sitios of Lumbangan, Cantarilya and Makukak in the Municipality of Rosario, Province of Batangas, are constituted into a district and independent barrio of said municipality to be known as the barrio of Lumbangan."
+   }
+  },
+  {
+   "id": "PH-H2283-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1959."
+   }
+  }
+ ]
+}

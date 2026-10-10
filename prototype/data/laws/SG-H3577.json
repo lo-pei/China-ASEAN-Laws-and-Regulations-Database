@@ -1,0 +1,81 @@
+{
+ "id": "SG-H3577",
+ "title": {
+  "zh": null,
+  "en": "Presbyterian Church Ordinance 1876",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p45",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act PCO1876",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1972,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/PCO1876?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3577-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Ordinance may be cited as the Presbyterian Church Ordinance 1876."
+   }
+  },
+  {
+   "id": "SG-H3577-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Power to sell land comprised in Indenture No. 215"
+   },
+   "text": {
+    "en": "2. The said trustees, William Jeffrey, John James Greenshields, Matthew Little, Robert Jamie, John Anderson, Robert Little, M.D., and John Stowe Young, or the survivors of them, or any 2 or more of such surviving trustees who are for the time being resident within the Colony may sell and dispose of the said piece or parcel of land comprised in and demised by the hereinbefore recited indenture of lease, No. 215, made between the said United Company of Merchants of England trading to the East Indies, of the one part, and the said C. H. Thompson, of the other part, dated 25 January 1827, and also all erections and buildings which have been erected and are now standing on the said premises, with power also to execute assurances, give effectual receipts for the purchase money, and do all other acts and things for completing such sale as they, or the survivors of them, or any 2 or more of such survivors, think proper."
+   }
+  },
+  {
+   "id": "SG-H3577-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Application of proceeds of sale"
+   },
+   "text": {
+    "en": "3.—(1) The moneys to arise from such sale, after deducting the costs and expenses attending the sale or otherwise incurred in relation thereto, shall be paid to the trustees, or continuing acting trustees for the time being, of the said piece or parcel of land so granted by Her Majesty the Queen as hereinbefore mentioned for the purpose of erecting and building on such land or any part thereof a new church or chapel or other place of worship for the use of the members and congregation of the said Presbyterian Church in Singapore, and shall be applied by such trustees to the building of such church or chapel only.\n(2) The building when erected shall be held subject to the trusts set out in the grant above recited, and dated 6 May 1875.\n(3) The receipts for the purchase money given by the persons exercising the power of sale hereby conferred shall be sufficient discharges to the purchasers, who shall not be bound to see to the application of such purchase money."
+   }
+  }
+ ]
+}

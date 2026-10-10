@@ -1,0 +1,64 @@
+{
+ "id": "PH-H417",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Sections Three and Six of Republic Act Numbered Three Hundred Eleven Abolishing the People's Court and the Office of Special Prosecutors",
+  "orig": "An Act Amending Sections Three and Six of Republic Act Numbered Three Hundred Eleven Abolishing the People's Court and the Office of Special Prosecutors"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p05",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1948-07-13",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 324",
+ "officialCode": null,
+ "topics": [
+  "judiciary"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 2573,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1948/ra_324_1948.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1948/ra_324_1948.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H417-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Sections three and six of Republic Act Numbered Three hundred eleven are amended to read as follows:\n\"Sec. 3. There are hereby created in the Office of the Solicitor General fifteen positions of Special Attorneys, each with a salary of not more than seven thousand two hundred pesos per annum. Said Special Attorneys shall be appointed by the Secretary of Justice for a term of one year: Provided, However, That the appointment may be renewed from year to year if in the judgment of the Secretary of Justice their services or those of any of them are still needed. The Special Attorneys shall take charged of, or assist in, the prosecution of treason cases not embraced by the said Proclamation Numbered Fifty-one and perform such other duties as may be assigned to them by the Secretary of Justice or by the Solicitor General from time to time in the interest of public service.\n\"The personnel of the People’s Court and of the Office of Special Prosecutors may be detailed by the Secretary of Justice to the Office of Special Attorneys, but those whose services are no longer needed, whether temporary or permanent, shall be given a gratuity as follows: Those who have served in said offices for one year or more prior to the approval of this Act, a gratuity corresponding to six months’ salary; and those who have served for less than one year, a gratuity corresponding to four months’ salary: Provided, That any personnel so separated who may subsequently be re-appointed to a position in any branch of the Government or any of its instrumentalities before the expiration of the period covered by the gratuity given to him, as hereinabove mentioned, shall refund do much of the amount received corresponding to the unexpired portion of the period covered by his gratuity: Provided, further, That the Department head may, upon being satisfied that the financial condition of such employee so requires, authorize to refund to be made in monthly installments, the amount whereof to be fixed by him and deducted from the salary of such employee in the new position.\"\n\"Sec. 6. There is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, the sum of three hundred and seventy-five thousand pesos, for salary and wages and other expenses of the Office of Special Attorneys provided in this Act for the period from July 1, 1948 to June 30, 1949, and the sum of one hundred and ninety thousand pesos for the payment of the gratuity provided in section three of this Act.\""
+   }
+  },
+  {
+   "id": "PH-H417-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: July 13, 1948."
+   }
+  }
+ ]
+}

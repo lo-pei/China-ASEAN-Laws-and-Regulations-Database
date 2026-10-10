@@ -1,0 +1,104 @@
+{
+ "id": "PH-H1777",
+ "title": {
+  "zh": null,
+  "en": "An Act Dividing the Municipality of Compostela, Province of Davao, into Two Municipalities, One to Retain the Name “Compostela,” and the Other to be Known as the Municipality of Nabunturan",
+  "orig": "An Act Dividing the Municipality of Compostela, Province of Davao, into Two Municipalities, One to Retain the Name “Compostela,” and the Other to be Known as the Municipality of Nabunturan"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p25",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1957-06-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2038",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 2012,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1957/ra_2038_1957.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 6 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1957/ra_2038_1957.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1777-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The Municipality of Compostela, Province of Davao, is hereby divided into two municipalities, one to retain the name \"Compostela,\" and the other to be known as the Municipality of Nabunturan, with the seat of government at the present barrio of Nabunturan."
+   }
+  },
+  {
+   "id": "PH-H1777-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The boundary line between the two municipalities shall run straight northwesterly from the Municipal Boundary Monument No. 15, located on the boundary between the present Municipality of Compostela and the Municipality of Pantukan, to Barrio Boundary Monument No. 4, located near the barrio of Siocon, and there to Municipal Boundary Monument No. 7, located on the boundary between the present Municipality of Compostela and the Municipality of Monkayo."
+   }
+  },
+  {
+   "id": "PH-H1777-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The Municipality of Nabunturan, as herein organized, shall contain the barrios of Linoan, Pangotosan, Magading, Cabidianan, Manat, Kaw, Mainit, Andili, Nuevo Iloco, Sao-sao, Libasan, and Nabunturan, and the sitios of Matilo, Anislagan, New Leyte, Guisok, Tabontabon, Sasa and Linda."
+   }
+  },
+  {
+   "id": "PH-H1777-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "The Municipality of Compostela shall have its present territory minus the portion thereof included in the Municipality of Nabunturan. It shall transfer its seat of government, now temporarily at the barrio of Nabunturan, to Compostela proper, but it shall not hereafter construct or establish any public building, plaza, or playground within Compostela proper, which is situated in a patented area owned by a single individual."
+   }
+  },
+  {
+   "id": "PH-H1777-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "The present mayor, vice-mayor and councilors of Compostela who are now in the barrio of Nabunturan shall, until the expiration of their term of office, act respectively as mayor, vice-mayor and councilors of the new Municipality of Nabunturan, and their substitutes in the Municipality of Compostela shall be appointed by the President of the Philippines, to hold office until their successors shall have been elected in the next regular election of provincial and municipal officials, and shall have qualified."
+   }
+  },
+  {
+   "id": "PH-H1777-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "This Act shall take effect thirty days after its approval.\nApproved: June 23, 1957."
+   }
+  }
+ ]
+}

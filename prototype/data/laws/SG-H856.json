@@ -1,0 +1,198 @@
+{
+ "id": "SG-H856",
+ "title": {
+  "zh": null,
+  "en": "Coroners (Electronic Filing for Coroners’ Courts) Regulations 2015",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p11",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CA2010-RG4",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 12,
+ "chars": 14780,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CA2010-RG4?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 12 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H856-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations are the Coroners (Electronic Filing for Coroners’ Courts) Regulations 2015."
+   }
+  },
+  {
+   "id": "SG-H856-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "2. These Regulations apply to —\n(a)every investigation into a death which is reported to a Coroner under section 11 of the Act;\n(b)every procedure relating to the viewing of a body by a Coroner under section 12 of the Act;\n(c)every procedure relating to, or arising from, a Coroner’s decision under section 25(2) of the Act not to hold an inquiry;\n(d)every pre-inquiry review held under section 28 of the Act; and\n(e)every inquiry."
+   }
+  },
+  {
+   "id": "SG-H856-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "3. In these Regulations —\n“application”, in the context of the filing, delivery or conveyance of an application by means of electronic transmission or by using the electronic filing service, means a written application or request relating to —\n(a)any matter concerning a death which is reported to a Coroner under section 11 of the Act;\n(b)any matter relating to the viewing of a body by a Coroner under section 12 of the Act;\n(c)any matter relating to, or arising from, a Coroner’s decision under section 25(2) of the Act not to hold an inquiry;\n(d)any pre-inquiry review held under section 28 of the Act; or\n(e)any inquiry;\n“authorised agent” means a person who is designated under regulation 6 by an authorised user to be the authorised user’s authorised agent;\n“authorised user” means any entity that the Coroners’ Courts authorise to use the electronic filing system;\n“conditioned statement” means any written statement made by a witness which is admissible in evidence under section 33 of the Act in an inquiry;\n“confirmation receipt” means a confirmation that is transmitted to an authorised user or an authorised agent after the authorised user or the authorised agent has filed, delivered or conveyed any application or document through the electronic filing service;\n“deemed” means deemed until the contrary is proved;\n“document” has the meaning given by section 3 of the Evidence Act 1893;\n“electronic filing” means the process by which an authorised user or an authorised agent files with, or delivers or conveys to, the Coroners’ Courts any application or document by means of an electronic transmission;\n“electronic filing service” means the electronic filing service established under regulation 4;\n“electronic filing service provider” means the electronic filing service provider appointed under regulation 5;\n“electronic transmission” means electronic transmission by an authorised user or an authorised agent through the electronic filing service;\n“entity” means the Attorney‑General’s Chambers, a department of the Government or a public authority;\n“identification code” means the identification code of an authorised user or an authorised agent that is to be used in conjunction with the electronic filing service;\n“Registrar” means the registrar of the State Courts."
+   }
+  },
+  {
+   "id": "SG-H856-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Establishment of electronic filing service"
+   },
+   "text": {
+    "en": "4.—(1) The Registrar may, with the approval of the Chief Justice, establish an electronic filing service for the filing, delivery or conveyance of every application or document relating to —\n(a)any matter concerning a death which is reported to a Coroner under section 11 of the Act;\n(b)any matter relating to the viewing of a body by a Coroner under section 12 of the Act;\n(c)any matter relating to, or arising from, a Coroner’s decision under section 25(2) of the Act not to hold an inquiry;\n(d)any pre-inquiry review held under section 28 of the Act; or\n(e)any inquiry.\n(2) The Coroners’ Courts are to maintain in electronic form the official case file for any report to a Coroner of a death and any subsequent proceedings relating to that death, and the electronic documents in that case file are to be the official court record.\n(3) If a Coroner’s Court makes an electronic record, document or image of a document that is filed, served, delivered or conveyed in hard copy, the electronic record, document or image of the document is to be the official court record."
+   }
+  },
+  {
+   "id": "SG-H856-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Electronic filing service provider and superintendent"
+   },
+   "text": {
+    "en": "5.—(1) The electronic filing service is to be operated by an electronic filing service provider appointed by the Registrar with the approval of the Chief Justice.\n(2) The Registrar is to be the superintendent of any electronic filing service provider appointed under paragraph (1)."
+   }
+  },
+  {
+   "id": "SG-H856-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Authorised user and authorised agent"
+   },
+   "text": {
+    "en": "6.—(1) Any entity which is an authorised user may designate one or more of its officers or employees to be an authorised agent or authorised agents, in accordance with such procedure as may be required by the Registrar and on such terms and conditions as the Registrar thinks fit.\n(2) Any person so designated by an authorised user under paragraph (1) must be given access by the administrator of the authorised user to use the electronic filing service."
+   }
+  },
+  {
+   "id": "SG-H856-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Electronic filing"
+   },
+   "text": {
+    "en": "7.—(1) Subject to paragraphs (3), (5) and (6), every application or document mentioned in regulation 4(1) must be filed, delivered or conveyed by an authorised user or an authorised agent using the electronic filing service in accordance with these Regulations and any other requirements that may be imposed by the Registrar or the State Coroner.\n(2) The requirement in paragraph (1) for the filing, delivery or conveyance of any such application or document is satisfied by the filing, delivery or conveyance of a single copy of the application or document using the electronic filing service in accordance with these Regulations.\n(3) Despite paragraph (1), the Registrar or any Coroner may allow to be filed, delivered or conveyed any application or document mentioned in regulation 4(1) by any means other than the electronic filing service.\n(4) The form of any application or document mentioned in regulation 4(1) must be as set out in any form that the Registrar or the State Coroner may require.\n(5) Where a party —\n(a)is an authorised user or an authorised agent; and\n(b)intends to tender a document as evidence,\nthe party must file, before the commencement of the inquiry or as directed by a Coroner where the Coroner has decided under section 25(2) of the Act not to hold an inquiry, an electronic reproduction of the document using the electronic filing service in accordance with these Regulations and any other requirements that may be imposed by the Registrar or the State Coroner.\n(6) A Coroner may, in the Coroner’s discretion, allow a party to tender a document as evidence, even though the party has not complied with paragraph (5).\n(7) Any application or document which is filed, delivered or conveyed through the electronic filing service by an authorised user using an identification code is deemed to have been so filed, delivered or conveyed by the authorised user and with the intention of the authorised user to do so.\n(8) Any application or document which is filed, delivered or conveyed through the electronic filing service by an authorised agent of an authorised user using an identification code is deemed to have been so filed, delivered or conveyed —\n(a)on behalf of and with the authority of the authorised user; and\n(b)with the intention of the authorised user to do so.\n(9) To avoid doubt, every application or document which is filed with, or delivered or conveyed to, a Coroner’s Court using an identification code in compliance with the security procedures of the electronic filing service is to be treated as a secure electronic record within the meaning of the Electronic Transactions Act 2010."
+   }
+  },
+  {
+   "id": "SG-H856-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Signing of electronic documents"
+   },
+   "text": {
+    "en": "8.—(1) Where any application or document is filed, delivered or conveyed using the electronic filing service, any requirement under the Act relating to the signing by, or the signature of, an authorised user or authorised agent, is deemed to be complied with if the identification code of the authorised user or authorised agent has been, directly or indirectly, applied to or associated with the application or document, or the transmission containing the application or document.\n(2) For the purposes of paragraph (1) —\n(a)where the identification code of an authorised user is, directly or indirectly, applied to or associated with any application or document, or any transmission containing any application or document, which is in compliance with the security procedures of the electronic filing service —\n(i)the application or document is deemed to be signed by the authorised user; and\n(ii)the contents of the application or document are deemed to be endorsed by the authorised user; or\n(b)where the identification code of an authorised agent of an authorised user is, directly or indirectly, applied to or associated with any application or document, or any transmission containing any application or document, which is in compliance with the security procedures of the electronic filing service —\n(i)the application or document is deemed to be signed by the authorised agent on behalf of and with the authority of the authorised user; and\n(ii)the contents of the application or document are deemed to be endorsed by the authorised user.\n(3) To avoid doubt, the application or association of the identification code of an authorised user or an authorised agent, directly or indirectly, to or with any application or document, or any transmission containing any application or document, which is in compliance with the security procedures of the electronic filing service, is to be treated as a secure electronic signature within the meaning of the Electronic Transactions Act 2010."
+   }
+  },
+  {
+   "id": "SG-H856-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Date of filing"
+   },
+   "text": {
+    "en": "9.—(1) Where any application or document is filed, delivered or conveyed using the electronic filing service by an authorised user or an authorised agent, it is deemed to be filed, delivered or conveyed on the date and at the time that the first part of the electronic transmission of the application or the document from the authorised user or the authorised agent is received in the computer system of the Coroners’ Courts.\n(2) The authorised user or authorised agent may produce a confirmation receipt issued by the electronic filing service provider as evidence of —\n(a)the filing, delivery or conveyance of any application or document filed, delivered or conveyed by the authorised user or authorised agent; or\n(b)the date and time of filing, delivery or conveyance of the application or document.\n(3) If the Registrar or a Coroner is satisfied for any reason that any application or document should be treated as having been filed, delivered or conveyed through the electronic filing service, or issued by a Coroner’s Court, at some earlier date and time than the date and time mentioned in paragraph (1) —\n(a)the Registrar or Coroner may cause the electronic filing service to reflect that earlier date and time; and\n(b)that earlier date and time is deemed for the purposes of any proceedings in any Coroner’s Court to be the date and time on and at which the application or document was filed, delivered or conveyed, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H856-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Applications and documents to comply with certain matters"
+   },
+   "text": {
+    "en": "10.—(1) Every application or document must —\n(a)contain any information and particulars of the death that may be required by the Registrar or a Coroner; and\n(b)comply with any other requirements that may be imposed by the Registrar or a Coroner.\n(2) The Registrar, a Coroner or any authorised officer or employee of the Coroners’ Courts, may reject any application or document if the application or document does not comply with the Act, these Regulations or any requirement imposed by the Registrar or a Coroner.\n(3) Any application or document rejected under this regulation is to be treated as having been filed only on the date on which the application or document is subsequently accepted for filing by the Registrar, a Coroner or any authorised officer or employee of the Coroners’ Courts, and not before.\n(4) Every document, if not in the English language, must be accompanied by a translation of the document certified by a court interpreter, or a translation verified by the affidavit of a person qualified to translate the document, before the document may be received, filed or used in a Coroner’s Court.\n(5) Amendments to any document must be effected in any manner that may be determined by the Registrar or a Coroner."
+   }
+  },
+  {
+   "id": "SG-H856-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Issuance of orders, certificates and other documents by Coroner’s Court"
+   },
+   "text": {
+    "en": "11.—(1) In any proceedings relating to any death reported to a Coroner, a Coroner’s Court may transmit, deliver or convey to any authorised user or authorised agent any order, certificate or other document through the electronic filing service.\n(2) The personal service of the printed form of a summons transmitted electronically, or the execution of the printed form of a warrant, has the same legal effect as the personal service of an original summons or the execution of an original warrant."
+   }
+  },
+  {
+   "id": "SG-H856-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Affidavits, statements and other documentary evidence"
+   },
+   "text": {
+    "en": "12.—(1) Affidavits, conditioned statements and other documentary evidence filed in the Coroners’ Courts using the electronic filing service may be used in any proceedings to which these Regulations apply to the same extent and for the same purposes as paper affidavits, paper conditioned statements or other documentary evidence filed in the Coroners’ Courts.\n(2) Where an affidavit is to be filed in the Coroners’ Courts using the electronic filing service, the affidavit must comply with all of the following requirements:\n(a)the affidavit must be sworn in the usual way in which the deponent signs the original paper affidavit;\n(b)a true and complete electronic image of the original paper affidavit must be created;\n(c)the original paper affidavit must be retained, for a period of 7 years after the electronic image is filed, by the party who filed that electronic image.\n(3) Despite paragraph (2)(c), if the original paper affidavit is lost or destroyed or for any other reason becomes unavailable during the period mentioned in that paragraph, a Coroner may grant permission for the electronic image of the original paper affidavit that had been filed in the Coroners’ Courts using the electronic filing service to be used in the proceedings for which the original paper affidavit was filed, or in any other proceedings.\n(4) Paragraphs (2)(b) and (c) and (3) apply to conditioned statements to the same extent and in like manner as they apply to affidavits.\n(5) Where other documentary evidence is to be filed in the Coroners’ Courts using the electronic filing service, the documentary evidence must comply with both the following requirements:\n(a)a true and complete electronic copy of the original documentary evidence must be created;\n(b)the original documentary evidence must be retained for a period of 7 years after the electronic copy is filed, by the party who filed that electronic copy.\n(6) Despite paragraph (5)(b), if the original documentary evidence is lost or destroyed or for any other reason becomes unavailable during the period mentioned in that paragraph, a Coroner may grant permission for the electronic copy of the original documentary evidence that had been filed in the Coroners’ Courts using the electronic filing service to be used in the proceedings for which the original documentary evidence was filed, or in any other proceedings."
+   }
+  }
+ ]
+}

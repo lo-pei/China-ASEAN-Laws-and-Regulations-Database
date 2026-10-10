@@ -1,0 +1,1246 @@
+{
+ "id": "SG-H854",
+ "title": {
+  "zh": null,
+  "en": "Copyright Tribunals (Procedure) Regulations 2021",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p11",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CA2021-RG4",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 76,
+ "chars": 65077,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CA2021-RG4?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 76 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H854-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations are the Copyright Tribunals (Procedure) Regulations 2021."
+   }
+  },
+  {
+   "id": "SG-H854-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations —\n“address for service”, in relation to a person, means the person’s address for service under regulation 13;\n“case”, “officer”, “party”, “president”, “presiding member”, “proceeding” and “secretary” have the meanings given by section 477;\n“case file number”, in relation to a proceeding, means the case file number allotted by the secretary to the proceeding under regulation 9;\n“CMO” has the meaning given by section 459(1);\n“Court” means the General Division of the High Court;\n“intending user” has the meaning given by section 468;\n“person” includes an organisation;\n“Registry” means the Registry of the Tribunals established under regulation 4;\n“sealed” means sealed with the seal of the Tribunals;\n“specified form”, in relation to a provision of these Regulations, means a form specified at https://www.ipos.gov.sg for the purposes of the provision;\n“tariff scheme” has the meaning given by section 459(3).\n(2) In these Regulations, a reference to a section is a reference to a section of the Act."
+   }
+  },
+  {
+   "id": "SG-H854-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Seal"
+   },
+   "text": {
+    "en": "3.—(1) The Tribunals are to have a seal of a nature and pattern that the president approves.\n(2) For the purposes of these Regulations, a document is sealed if the seal of the Tribunals or an image of that seal is affixed to the document —\n(a)by hand, electronic means or any other means; and\n(b)by or with the authority of the secretary.\n(3) For the purposes of these Regulations, a document bearing the seal of the Tribunals or an image of that seal is presumed to be sealed in accordance with paragraph (2) unless the contrary is proved.\n(4) All courts and persons acting judicially must take judicial notice of the seal of the Tribunals."
+   }
+  },
+  {
+   "id": "SG-H854-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Registry"
+   },
+   "text": {
+    "en": "4.—(1) The Tribunals must have a Registry for the transaction of business relating to the proceedings in the Tribunals and for the keeping of records of all proceedings.\n(2) The Registry is to be situated at the place directed by the Minister or by any person authorised by the Minister.\n(3) The Registry must be open on the days and at the hours directed by the secretary.\n(4) Any records, books or documents kept at the Registry may be kept in electronic form."
+   }
+  },
+  {
+   "id": "SG-H854-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Advertisements"
+   },
+   "text": {
+    "en": "5. For the purposes of these Regulations, a document is advertised if it is published —\n(a)once in the Gazette; or\n(b)once in an English local daily newspaper and, if the document relates to a copyright work or protected performance in Chinese, Malay or Tamil, once in a local daily newspaper of that language."
+   }
+  },
+  {
+   "id": "SG-H854-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Filing of documents"
+   },
+   "text": {
+    "en": "6.—(1) Unless the presiding member directs otherwise, where these Regulations require or permit a document to be filed, the document must be filed by —\n(a)lodging the document at the Registry at a time when that office is open for business; or\n(b)sending the document by email to the email address specified for this purpose at https://www.ipos.gov.sg.\n(2) For the purposes of these Regulations, a document is treated as filed at the time and on the date that —\n(a)if the document is lodged in accordance with paragraph (1)(a) — the secretary accepts the document for filing; or\n(b)if the document is sent by email in accordance with paragraph (1)(b) — the secretary accepts the document for filing by email.\n(3) The secretary may refuse to accept a document for filing if the document does not substantially comply with these Regulations.\n(4) The secretary must refuse to accept any of the following documents if the fee specified in the First Schedule for filing that document is not paid:\n(a)any notice under regulation 65(3)(e);\n(b)any case brought to a Tribunal under the Act.\n(5) Where the president or a deputy president has directed that a specified number of copies of any class of documents must be filed, a person filing a document in that class must file that number of copies of the document.\n(6) A filed document must show the filing date of the document.\n(7) The following particulars of every filed document must be kept at the Registry:\n(a)the time of delivery at the Registry of the document for filing;\n(b)the filing date of the document;\n(c)the title of the proceeding that the document is part of.\n(8) In this regulation and the First Schedule, “case” has the meaning given by regulation 26.\n(9) In this regulation, “secretary” includes any officer charged with the duty of receiving and filing any documents."
+   }
+  },
+  {
+   "id": "SG-H854-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Documents for use in proceedings, etc."
+   },
+   "text": {
+    "en": "7.—(1) Unless the nature of the document renders it impracticable, a document prepared by a party for use in a proceeding must be on paper of durable quality, approximately 297 millimetres long by 210 millimetres wide, and having a margin not less than 20 millimetres wide to be left blank on either side of the paper.\n(2) Except where these Regulations otherwise provide, a document prepared by a party for use in a proceeding must be produced —\n(a)in an electronic form; or\n(b)by printing, handwriting (which must be clear and legible), typewriting (but not by means of a carbon), or any combination of those means.\n(3) For the purpose of these Regulations, a document is deemed to be printed if it is produced by type lithography or stencil duplicating.\n(4) Any type used in producing a document for use in a proceeding must give a clear and legible impression and must be not smaller than —\n(a)11 point type for printing or electronic documents; or\n(b)elite type for type lithography, stencil duplicating or typewriting.\n(5) Any document produced by a photographic or similar process giving a positive and permanent representation free from blemishes, to the extent that it contains a facsimile of any printed, handwritten or typewritten matter, is treated for the purposes of these Regulations as if it were printed, handwritten or typewritten, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H854-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "English language"
+   },
+   "text": {
+    "en": "8. A filed document must —\n(a)be in the English language; or\n(b)be accompanied by a translation of the document verified by an affidavit of a person who is qualified to translate the document as if it is to be received, filed or used in the State Courts."
+   }
+  },
+  {
+   "id": "SG-H854-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "File numbers of proceedings"
+   },
+   "text": {
+    "en": "9.—(1) The secretary must cause a case file number to be allotted to every proceeding.\n(2) One case file number may be allotted to all proceedings that, in the opinion of the secretary, are related to each other."
+   }
+  },
+  {
+   "id": "SG-H854-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Sealing of documents"
+   },
+   "text": {
+    "en": "10.—(1) Where —\n(a)a person (X) is required by or under these Regulations to serve on another person a sealed copy of a filed document;\n(b)a copy of the document is filed by or on behalf of X; and\n(c)the secretary accepts the document for filing,\nthe secretary must cause the document to be sealed and returned to X.\n(2) In this regulation, “secretary” includes any officer charged with the duty of receiving and filing any documents."
+   }
+  },
+  {
+   "id": "SG-H854-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Signing of documents"
+   },
+   "text": {
+    "en": "11. Where, in connection with a proceeding, a person (X) signs a document on behalf of another person (Y), X must state in the document that X is signing the document on behalf of Y."
+   }
+  },
+  {
+   "id": "SG-H854-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "12.—(1) A document that is required or permitted by or under these Regulations to be served on a person (X) in connection with a proceeding may be served on X —\n(a)if X has specified an address for service (being the address of a place in Singapore) — by delivering the document to X personally or by leaving the document at, or by sending the document by post addressed to X at, that address;\n(b)if X has specified an address for service (being an email address) — by sending the document to that email address; or\n(c)if sub‑paragraphs (a) and (b) do not apply —\n(i)if X is a body corporate —\n(A)by delivering the document personally to the manager or secretary of the body corporate; or\n(B)if the body corporate has a registered office under any written law, by leaving it at that office or by sending it by post addressed to the body corporate at that office or, if the body corporate does not have a registered office, by sending it by post addressed to the body corporate at its principal place of business in Singapore;\n(ii)if X is an organisation other than a body corporate —\n(A)by delivering the document personally to the manager, secretary or other similar officer of the organisation; or\n(B)by sending it by post addressed to the organisation at its principal place of business in Singapore; or\n(iii)in any other case —\n(A)by delivering the document personally to X; or\n(B)by sending it by post addressed to X at the address of the place of residence or business of X last known to the person serving the document.\n(2) A Tribunal may, in relation to a document that is required or permitted by or under these Regulations to be served, order that —\n(a)the document be served in a manner different from the manner provided by paragraph (1); or\n(b)the document need not be served."
+   }
+  },
+  {
+   "id": "SG-H854-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Address for service"
+   },
+   "text": {
+    "en": "13.—(1) A person who files a document in connection with a proceeding must specify an address for service in the document.\n(2) Paragraph (1) does not apply if the person has previously filed a document in connection with the proceeding and specified an address for service in that document.\n(3) A person may change the person’s address for service in connection with a proceeding by —\n(a)filing a written notice (which must be signed by or on behalf of the person) specifying a new address for service; and\n(b)causing a copy of the notice to be served on every other party to the proceeding within 7 days after the notice is filed.\n(4) For the purposes of this regulation, a person may only specify an address of a place in Singapore or an email address (or both) as an address for service.\n(5) For the purposes of these Regulations, a person’s address for service is —\n(a)subject to sub-paragraph (b), the address specified by the person in accordance with paragraph (1); or\n(b)the address specified by the person in the notice or the latest notice (as the case may be) under paragraph (3)."
+   }
+  },
+  {
+   "id": "SG-H854-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Proof of service"
+   },
+   "text": {
+    "en": "14. Proof of the service of any document may be given by means of an affidavit."
+   }
+  },
+  {
+   "id": "SG-H854-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Recording of orders of Tribunal"
+   },
+   "text": {
+    "en": "15. The secretary must —\n(a)ensure that an order of a Tribunal and the date on which it was made is recorded in a document signed by the secretary; and\n(b)cause a copy of the document to be kept."
+   }
+  },
+  {
+   "id": "SG-H854-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Notification of orders of Tribunal and of reasons"
+   },
+   "text": {
+    "en": "16.—(1) A Tribunal must, when making an order, state in writing its reasons for making the order.\n(2) The secretary must —\n(a)cause a copy of the document recording the order and of the reasons of a Tribunal to be served on each party in respect of which the order was made; and\n(b)cause a copy of the document recording the order and of the reasons to be made available at the Registry for public inspection when the Registry is open for business.\n(3) In paragraphs (1) and (2), “order” does not include an interim order or an order that is made in respect of an application that is ancillary to another proceeding.\n(4) The president may direct the secretary to cause particulars of any order of a Tribunal to be advertised.\n(5) Paragraphs (2) and (4) do not apply in relation to an order that is suspended pending a reference of a question of law to the Court."
+   }
+  },
+  {
+   "id": "SG-H854-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Forms"
+   },
+   "text": {
+    "en": "17. Variations may be made to any specified form in any particular case if the circumstances so require."
+   }
+  },
+  {
+   "id": "SG-H854-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Opportunity to present case"
+   },
+   "text": {
+    "en": "18. In these Regulations, unless the context otherwise requires, where a person is given an opportunity to present a case, that person must be given an opportunity, at the option of that person, of submitting representations in writing, or of being heard, or both."
+   }
+  },
+  {
+   "id": "SG-H854-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Evidence in form of written statements"
+   },
+   "text": {
+    "en": "19.—(1) A Tribunal may permit a person appearing as a witness before the Tribunal to give evidence by tendering, and verifying by oath or affirmation, a written statement.\n(2) The written statement mentioned in paragraph (1) must be filed."
+   }
+  },
+  {
+   "id": "SG-H854-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Prescribed representatives under section 495(c)"
+   },
+   "text": {
+    "en": "20.—(1) This regulation prescribes the persons who may represent a party under section 495(c), if permission is given by the Tribunal in accordance with that provision.\n(2) The following persons may represent a party in a proceeding before a Tribunal:\n(a)if the party is a body corporate — a director or other officer, or an employee, of the body corporate;\n(b)if the party is an unincorporated body of persons or a member of such a body — a member, or an officer or employee, of the body;\n(c)if sub‑paragraphs (a) and (b) do not apply, and the party is not an individual — an employee of the party."
+   }
+  },
+  {
+   "id": "SG-H854-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Summons to witness"
+   },
+   "text": {
+    "en": "21.—(1) A summons to a person to appear before the Tribunal under section 491(2)(d) must be substantially in the specified form and must be sealed.\n(2) Despite regulation 12, a summons under section 491(2)(d) must be served on a person —\n(a)by delivering a copy of the summons to the person personally; and\n(b)if requested by the person at the time of service — by showing the sealed copy of the summons to the person at that time."
+   }
+  },
+  {
+   "id": "SG-H854-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Extension of time"
+   },
+   "text": {
+    "en": "22.—(1) This regulation applies in relation to any period prescribed or allowed by or under these Regulations to —\n(a)file a document;\n(b)serve a document; or\n(c)do any other act.\n(2) A Tribunal or the presiding member may (whether before, on or after the expiration of the period mentioned in paragraph (1)) extend that period subject to any conditions."
+   }
+  },
+  {
+   "id": "SG-H854-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "23. The fees specified in the First Schedule are payable in respect of the corresponding matters set out in that Schedule."
+   }
+  },
+  {
+   "id": "SG-H854-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Witnesses’ costs, fees and expenses"
+   },
+   "text": {
+    "en": "24.—(1) This regulation applies to a person (called in this regulation a witness) who —\n(a)attends to give evidence in a proceeding;\n(b)attends to give evidence and produce documents or articles in a proceeding; or\n(c)attends to produce documents or articles in a proceeding,\nin accordance with a summons, or at the request of a party to the proceeding or of a Tribunal.\n(2) A witness (whether or not the witness is called to give evidence or to produce documents or articles) is entitled to payment in accordance with the scale of costs, fees and expenses set out in the Second Schedule, subtracting any amount previously paid to the witness for the expenses of attendance in the proceeding.\n(3) The following persons must pay to the witness the costs, fees and expenses mentioned in paragraph (2):\n(a)if the witness is summoned or requested to attend the proceeding on behalf of a Tribunal — the Government;\n(b)if sub‑paragraph (a) does not apply — the person on whose behalf the witness is summoned or at whose request the witness attends the proceeding."
+   }
+  },
+  {
+   "id": "SG-H854-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Power to waive procedural requirements and effect of non‑compliance"
+   },
+   "text": {
+    "en": "25.—(1) Subject to the Act, a Tribunal may in special circumstances, and subject to any conditions, exempt a person from compliance with any procedural requirements of these Regulations in relation to any proceeding.\n(2) Subject to the Act, if a proceeding or an order of a Tribunal does not comply with any provision of these Regulations —\n(a)the non-compliance does not render the proceeding or order void; but\n(b)the Tribunal may, in any manner and on any terms —\n(i)set aside (whether wholly or in part) as irregular;\n(ii)amend; or\n(iii)otherwise deal with,\nthe proceeding or order."
+   }
+  },
+  {
+   "id": "SG-H854-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Definitions of this Division"
+   },
+   "text": {
+    "en": "26. In this Division —\n“case” means —\n(a)any application to a Tribunal under the Act (but not an interlocutory application); or\n(b)any reference to a Tribunal under the Act,\nand any reference to the bringing of a case has a corresponding meaning;\n“interlocutory application” means an application to a Tribunal under regulation 30, 32, 33, 34, 35 or 37."
+   }
+  },
+  {
+   "id": "SG-H854-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Particulars to be included in case or interlocutory application"
+   },
+   "text": {
+    "en": "27.—(1) A case before a Tribunal or an interlocutory application must —\n(a)state the name of the person bringing the case or making the interlocutory application;\n(b)state the general nature of the case or interlocutory application and specify the provision of the Act, or of any regulations made under the Act, under which the case is brought or the interlocutory application is made;\n(c)unless the president otherwise directs, include any other matter that is required by these Regulations to be included in a case or an interlocutory application made under that provision;\n(d)include any particulars that the president directs to be included;\n(e)be signed by or on behalf of the person bringing the case or making the interlocutory application; and\n(f)be filed in the specified form.\n(2) In this regulation, “president” includes a deputy president designated by the president for the purposes of this regulation."
+   }
+  },
+  {
+   "id": "SG-H854-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Service of notice of case or interlocutory application"
+   },
+   "text": {
+    "en": "28.—(1) Subject to these Regulations, a person (X) bringing a case before a Tribunal must, within 7 days after the case is filed, cause the following documents to be served on every other person who, at the time of filing, is party to the case:\n(a)a notice of the bringing of the case;\n(b)a sealed copy of the case.\n(2) A notice of the bringing of a case must —\n(a)be in the specified form;\n(b)be addressed to the person (Y) on whom it is served;\n(c)inform Y that the case to which the notice relates has been brought and that Y is, under these Regulations, a party to the case; and\n(d)be signed by or on behalf of X.\n(3) A person making an interlocutory application in a case must, within 7 days after the interlocutory application is filed, cause a sealed copy of the interlocutory application to be served on every other person who, at the time of filing, is party to the case."
+   }
+  },
+  {
+   "id": "SG-H854-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Advertisement of cases"
+   },
+   "text": {
+    "en": "29.—(1) Subject to paragraphs (3) and (4), where a case is brought before a Tribunal, the person bringing the case must, within 10 days after the case is filed, cause a notice of the bringing of the case to be advertised.\n(2) The notice must —\n(a)be in the specified form;\n(b)specify the date on which the case was brought and the relevant case file number;\n(c)state the name and the address for service of the person who brought the case; and\n(d)state the general nature of the case and specify the provision of the Act, or the regulations made under the Act, under which the case is brought.\n(3) The presiding member may direct that the notice need not be advertised or that the notice be advertised in a manner other than that specified in regulation 5.\n(4) This regulation does not apply to an application made in relation to —\n(a)section 199(1) or (5), 251(2)(e)(ii), 252(2)(d)(ii) or 253(2)(c)(ii); or\n(b)regulation 5(3)(d) of the Copyright (Royalties for Musical Records) Regulations 2021."
+   }
+  },
+  {
+   "id": "SG-H854-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Preliminary hearing of case"
+   },
+   "text": {
+    "en": "30.—(1) A party to a case may, at or after the time the case is filed, apply for a preliminary hearing.\n(2) The application must specify the date on which the case was filed and the relevant case file number.\n(3) Subject to paragraph (4), within 7 days after the notice of the bringing of a case is served, the presiding member —\n(a)must, if an application is made in accordance with paragraphs (1) and (2), fix a time and place for a preliminary hearing of the case; or\n(b)may, on his or her own motion, fix a time and place for a preliminary hearing of the case,\nfor the purpose of dealing with any matter connected with the case.\n(4) Paragraph (3) does not apply to a case in respect of which the Tribunal decides not to have a hearing.\n(5) The secretary must cause a notice of the time and place fixed under paragraph (3) to be served on —\n(a)each party to the case; and\n(b)each person (if any) who has applied to the Tribunal to be made a party to the case.\n(6) Despite section 486, the presiding member may sit alone at the preliminary hearing of a case to hear and decide any matter arising in the preliminary hearing."
+   }
+  },
+  {
+   "id": "SG-H854-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Time and place of hearing of cases and interlocutory applications"
+   },
+   "text": {
+    "en": "31.—(1) Subject to paragraph (2), the presiding member must fix a time and place for the hearing of a case or an interlocutory application in a case.\n(2) Paragraph (1) does not apply to —\n(a)a case, or an interlocutory application, in respect of which the Tribunal decides not to have a hearing; and\n(b)an interlocutory application under regulation 34.\n(3) The secretary must cause a notice of the time and place fixed under paragraph (1) to be served on —\n(a)each party to the case; and\n(b)each person (if any) who has applied to the Tribunal to be made a party to the case and whose application to be made a party has yet to be decided by a Tribunal."
+   }
+  },
+  {
+   "id": "SG-H854-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Amendment of documents in cases and interlocutory applications"
+   },
+   "text": {
+    "en": "32.—(1) A Tribunal may, subject to any conditions, grant permission to a party to a case to amend a document previously filed by that party in connection with that case or with an interlocutory application in that case.\n(2) Where permission is granted to a party to a case to amend a document, the party must —\n(a)file a statement of the amendments in the specified form; and\n(b)within 7 days after the statement is filed, cause a sealed copy of the statement to be served on every other party to the case.\n(3) The amendments are deemed to be made at the time the statement is filed.\n(4) To avoid doubt, this regulation does not prevent a person from filing a notice specifying a new address for service under regulation 13(3)."
+   }
+  },
+  {
+   "id": "SG-H854-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Consolidation of cases"
+   },
+   "text": {
+    "en": "33.—(1) Where 2 or more cases are pending before a Tribunal, the president may, on his or her own motion or on the application of a party to any of the cases —\n(a)direct that some or all of the cases be considered together; and\n(b)give any consequential directions.\n(2) Before giving a direction under paragraph (1), the president must give each party to each of the cases concerned an opportunity of presenting a case.\n(3) An application under paragraph (1) for 2 or more cases to be considered together must specify —\n(a)the dates on which each of those cases were filed; and\n(b)the relevant case file numbers of each of those cases."
+   }
+  },
+  {
+   "id": "SG-H854-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Applications to be made party to case"
+   },
+   "text": {
+    "en": "34.—(1) An application to a Tribunal to be made a party to a case must —\n(a)be made within 14 days after the date when notice of the bringing of the case was advertised under regulation 29(1);\n(b)specify the date when the case was brought and the relevant case file number;\n(c)set out the interest of the applicant —\n(i)where the case is a reference under section 470(1), 471(2) or 472(2) — in the operation of the tariff scheme to which the reference relates;\n(ii)where the case is an application for permission of a Tribunal under section 472(4) to bring a reference — in the operation of the tariff scheme to the extent that it relates to the class of cases specified in that application; and\n(iii)where sub‑paragraphs (i) and (ii) do not apply — in the matter in dispute; and\n(d)request the Tribunal to make the applicant a party to the case.\n(2) The Tribunal must give an opportunity to present a case to —\n(a)the applicant;\n(b)each party to the case; and\n(c)any other person who has applied to be made a party to the case.\n(3) Where an organisation (whether claiming to be representative of persons requiring permission under a tariff scheme or not) or a person (whether requiring permission under a tariff scheme or not) applies to be made a party to —\n(a)a reference in relation to section 470(1), 471(2) or 472(2); or\n(b)an application in relation to section 472(4),\nthe Tribunal may make that organisation or person a party to the reference or application if the Tribunal is satisfied that the organisation or person has a substantial interest in the operation of the tariff scheme to which the reference or application relates.\n(4) An interlocutory application under this regulation must be dealt with at any preliminary hearing fixed under regulation 30 or at the hearing of the case to which it relates."
+   }
+  },
+  {
+   "id": "SG-H854-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Other interlocutory applications"
+   },
+   "text": {
+    "en": "35.—(1) A party to a case may apply to the Tribunal for an order with respect to any matter relating to the case that is not specifically provided for by the provisions of this Division.\n(2) The application must —\n(a)specify the date when the case was instituted;\n(b)specify the relevant case file number; and\n(c)set out the circumstances or events giving rise to the application.\n(3) A party (X) to the case may consent to the making of the order sought by the application by —\n(a)endorsing X’s consent on the application; or\n(b)setting out X’s consent in a separate document and filing that document.\n(4) If the document mentioned in paragraph (3)(b) is not filed together with the application, X must, within 7 days after that document is filed, serve a copy of that document on the applicant.\n(5) Despite regulation 28, the notice of the making of the application and a copy of the application —\n(a)need not be served on a party to the case who has consented to the making of the order sought by the application; and\n(b)with the permission of the presiding member, need not be served on any party to the case specified by the presiding member.\n(6) A party to the case may object to the application by filing a notice of objection in the specified form within 14 days after the notice of the making of the application was served on the party.\n(7) A person objecting to the application must cause a sealed copy of the notice of objection to be served on the applicant within 7 days after notice of the objection is filed.\n(8) A notice of objection must —\n(a)be in writing;\n(b)specify the date on which the application was filed and the relevant case file number;\n(c)state the name of the party objecting to the application;\n(d)state the grounds of the objection; and\n(e)be signed by or on behalf of the party objecting to the application.\n(9) The Tribunal must consider the application and, subject to paragraph (10), may make any order in relation to the application that the Tribunal considers reasonable in the circumstances.\n(10) The Tribunal must give the applicant and each party objecting to the application an opportunity to present a case before deciding on the application."
+   }
+  },
+  {
+   "id": "SG-H854-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Hearing of interlocutory applications"
+   },
+   "text": {
+    "en": "36.—(1) Where there are 2 or more interlocutory applications in a case, the interlocutory applications may be heard together.\n(2) Despite section 486, the presiding member may sit alone to hear and decide any interlocutory application."
+   }
+  },
+  {
+   "id": "SG-H854-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Withdrawal of cases and interlocutory applications"
+   },
+   "text": {
+    "en": "37.—(1) A case (other than a reference) or an interlocutory application before a Tribunal may, with the permission of the Tribunal, be withdrawn by the person who brought the case or made the application at any time before the Tribunal has decided on the case or application.\n(2) The permission of a Tribunal under paragraph (1) may be granted subject to any conditions that the Tribunal thinks reasonable.\n(3) A reference to a Tribunal may be withdrawn in accordance with the provisions of the Act."
+   }
+  },
+  {
+   "id": "SG-H854-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Withdrawal how effected"
+   },
+   "text": {
+    "en": "38.—(1) Subject to paragraph (2), the withdrawal of a case or an interlocutory application takes effect when the person withdrawing the case or interlocutory application —\n(a)files a notice in the specified form that —\n(i)specifies the date on which the case was brought or the interlocutory application was made, and the relevant case file number;\n(ii)states that the person who brought the case or made the interlocutory application is now withdrawing it; and\n(iii)is signed by or on behalf of that person; and\n(b)serves a sealed copy of the notice on every other party to the case or interlocutory application.\n(2) Where the Tribunal gives permission to withdraw under regulation 37, the steps required by paragraph (1) must be complied with within 7 days after the permission is granted."
+   }
+  },
+  {
+   "id": "SG-H854-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 121 — causing sounds embodied in sound recording to be heard in public"
+   },
+   "text": {
+    "en": "39.—(1) An application to a Tribunal to decide the amount of equitable remuneration under section 121(b)(ii) for causing the sounds embodied in a sound recording to be heard in public must —\n(a)be made by the copyright owner or the person (X) who causes the sound recording to be heard in public;\n(b)set out the events giving rise to the application and, in particular, must —\n(i)identify the sound recording to which the application relates;\n(ii)state the date on and place at which —\n(A)the sound recording was first commercially published; and\n(B)the sound recording is caused to be heard in public;\n(iii)state the mode of and means by which —\n(A)the sound recording was first commercially published; and\n(B)the sound recording is caused to be heard in public;\n(iv)state whether the applicant is the copyright owner or X;\n(v)if the applicant is the copyright owner — state the name of X; and\n(vi)if the applicant is X — state the name of the copyright owner;\n(c)request a Tribunal to decide the amount of equitable remuneration for causing the sounds embodied in the sound recording to be heard in public; and\n(d)be in the specified form.\n(2) The parties to the application are —\n(a)the copyright owner; and\n(b)X."
+   }
+  },
+  {
+   "id": "SG-H854-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 198 — copying or communicating material for educational purposes"
+   },
+   "text": {
+    "en": "40.—(1) An application to a Tribunal to decide the amount of equitable remuneration under section 198(5)(b) for making a copy of an authorial work or of a recording of a protected performance (called in this paragraph the relevant material) or for communicating the relevant material must —\n(a)be made by the rights owner or the body (X) administering an educational institution;\n(b)set out the circumstances or events giving rise to the application and, in particular, must —\n(i)identify the relevant material to which the application relates;\n(ii)state whether the applicant is the rights owner or X;\n(iii)if the applicant is the rights owner — state the name of X; and\n(iv)if the applicant is X — state the name of the rights owner;\n(c)request a Tribunal to decide the amount of equitable remuneration for making a copy of or communicating the relevant material; and\n(d)be in the specified form.\n(2) The parties to the application are —\n(a)the rights owner; and\n(b)X."
+   }
+  },
+  {
+   "id": "SG-H854-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 217 — copying by body administering institution aiding persons with intellectual disabilities"
+   },
+   "text": {
+    "en": "41.—(1) An application to a Tribunal to decide the amount of equitable remuneration under section 217(4)(b) for making a copy of an authorial work must —\n(a)be made by the copyright owner or the body (X) administering an institution aiding persons with intellectual disabilities;\n(b)set out the circumstances or events giving rise to the application and, in particular, must —\n(i)identify the work to which the application relates;\n(ii)identify the copy to which the application relates;\n(iii)state whether the applicant is the copyright owner or X;\n(iv)if the applicant is the copyright owner — state the name of X; and\n(v)if the applicant is X — state the name of the copyright owner;\n(c)request a Tribunal to decide the amount of equitable remuneration for making the copy of the authorial work; and\n(d)be in the specified form.\n(2) The parties to the application are —\n(a)the copyright owner; and\n(b)X."
+   }
+  },
+  {
+   "id": "SG-H854-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 246 — communication by analogue broadcast"
+   },
+   "text": {
+    "en": "42.—(1) An application to a Tribunal to decide the amount of equitable remuneration under section 246(2)(b)(ii)(B) for communicating a sound recording or a recording of a protected performance must —\n(a)be made by the rights owner or the person (X) who communicates the recording;\n(b)set out the events giving rise to the application and, in particular, must —\n(i)identify the recording to which the application relates;\n(ii)state the date on and place at which —\n(A)the recording was first commercially published; and\n(B)the recording is communicated;\n(iii)state the mode of and means by which —\n(A)the recording was first commercially published; and\n(B)the recording is communicated;\n(iv)state whether the applicant is the rights owner or X;\n(v)if the applicant is the rights owner — state the name of X; and\n(vi)if the applicant is X — state the name of the rights owner;\n(c)request a Tribunal to decide the amount of equitable remuneration for communicating the recording; and\n(d)be in the specified form.\n(2) The parties to the application are —\n(a)the rights owner; and\n(b)X."
+   }
+  },
+  {
+   "id": "SG-H854-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 247 — communication by freely available non‑interactive digital broadcast"
+   },
+   "text": {
+    "en": "43.—(1) An application to a Tribunal to decide the amount of equitable remuneration under section 247(2)(b)(ii)(B) for communicating a sound recording or a recording of a protected performance must —\n(a)be made by the rights owner or the person (X) who communicates the recording;\n(b)set out the events giving rise to the application and, in particular, must —\n(i)identify the recording to which the application relates;\n(ii)state the date on and place at which —\n(A)the recording was first commercially published; and\n(B)the recording is communicated;\n(iii)state the mode of and means by which —\n(A)the recording was first commercially published; and\n(B)the recording is communicated;\n(iv)state whether the applicant is the rights owner or X;\n(v)if the applicant is the rights owner — state the name of X; and\n(vi)if the applicant is X — state the name of the rights owner;\n(c)request a Tribunal to decide the amount of equitable remuneration for communicating the recording; and\n(d)be in the specified form.\n(2) The parties to the application are —\n(a)the rights owner; and\n(b)X."
+   }
+  },
+  {
+   "id": "SG-H854-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 247 — communication by non-freely available non‑interactive digital broadcast"
+   },
+   "text": {
+    "en": "44.—(1) An application to a Tribunal to decide the amount of equitable remuneration under section 247(4)(b)(ii) for communicating a sound recording or a recording of a protected performance must —\n(a)be made by the rights owner or the person (X) who communicates the recording;\n(b)set out the events giving rise to the application and, in particular, must —\n(i)identify the recording to which the application relates;\n(ii)state the date on and place at which the recording is communicated;\n(iii)state the mode of and means by which the recording is communicated;\n(iv)state whether the applicant is the rights owner or X;\n(v)if the applicant is the rights owner — state the name of X; and\n(vi)if the applicant is X — state the name of the rights owner;\n(c)request a Tribunal to decide the amount of equitable remuneration for communicating the recording; and\n(d)be in the specified form.\n(2) The parties to the application are —\n(a)the rights owner; and\n(b)X."
+   }
+  },
+  {
+   "id": "SG-H854-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 248 — communication by other non-interactive digital transmission"
+   },
+   "text": {
+    "en": "45.—(1) An application to a Tribunal to decide the amount of equitable remuneration under section 248(2)(b)(ii) for communicating a sound recording or a recording of a protected performance must —\n(a)be made by the rights owner or the person (X) who communicates the recording;\n(b)set out the events giving rise to the application and, in particular, must —\n(i)identify the recording to which the application relates;\n(ii)state the date on and place at which the recording is communicated;\n(iii)state the mode of and means by which the recording is communicated;\n(iv)state whether the applicant is the rights owner or X;\n(v)if the applicant is the rights owner — state the name of X; and\n(vi)if the applicant is X — state the name of the rights owner;\n(c)request a Tribunal to decide the amount of equitable remuneration for communicating the recording; and\n(d)be in the specified form.\n(2) The parties to the application are —\n(a)the rights owner; and\n(b)X."
+   }
+  },
+  {
+   "id": "SG-H854-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 251 — copying literary, dramatic and musical works for broadcasting"
+   },
+   "text": {
+    "en": "46.—(1) An application to a Tribunal to determine the amount of equitable remuneration under section 251(2)(e)(ii) for making a copy of a literary, dramatic or musical work must —\n(a)be made by the copyright owner or the person (X) who makes the sound recording or film of the work;\n(b)set out the events giving rise to the application and, in particular, must —\n(i)identify the work to which the application relates;\n(ii)identify the sound recording or film to which the application relates;\n(iii)state whether the applicant is the copyright owner or X;\n(iv)if the applicant is the copyright owner — state the name of X; and\n(v)if the applicant is X — state the name of the copyright owner;\n(c)request a Tribunal to decide the amount that is equitable remuneration for making the copy of the literary, dramatic or musical work; and\n(d)be in the specified form.\n(2) The parties to the application are —\n(a)the copyright owner; and\n(b)X."
+   }
+  },
+  {
+   "id": "SG-H854-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 252 — making film of artistic works for television broadcasting or cable programmes"
+   },
+   "text": {
+    "en": "47.—(1) An application to a Tribunal to decide the amount of equitable remuneration under section 252(2)(d)(ii) for making a film of an artistic work must —\n(a)be made by the copyright owner or the person (X) who makes the film;\n(b)set out the events giving rise to the application and, in particular, must —\n(i)identify the artistic work to which the application relates;\n(ii)identify the film to which the application relates;\n(iii)state whether the applicant is the copyright owner or X;\n(iv)if the applicant is the copyright owner — state the name of X; and\n(v)if the applicant is X — state the name of the copyright owner;\n(c)request a Tribunal to decide the amount that is equitable remuneration for making the film; and\n(d)be in the specified form.\n(2) The parties to the application are —\n(a)the copyright owner; and\n(b)X."
+   }
+  },
+  {
+   "id": "SG-H854-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 253 — copying sound recording or recording of performance for broadcasting"
+   },
+   "text": {
+    "en": "48.—(1) An application to a Tribunal to decide the amount of equitable remuneration under section 253(2)(c)(ii) for making a copy of a sound recording or of a recording of a protected performance, or for recording a protected performance live, must —\n(a)be made by rights owner or the person (X) who makes the copy or records the protected performance live;\n(b)set out the events giving rise to the application and, in particular, must include the matters specified in paragraph (2);\n(c)request a Tribunal to decide the amount that is equitable remuneration for making the copy of the recording, or for recording the protected performance live, as the case may be; and\n(d)be in the specified form.\n(2) The application must —\n(a)if the application relates to making a copy of a sound recording or of a recording of a protected performance —\n(i)identify the recording to which the application relates;\n(ii)identify the copy to which the application relates;\n(iii)state whether the applicant is the rights owner or X;\n(iv)if the applicant is the rights owner — state the name of X; and\n(v)if the applicant is X — state the name of the rights owner; or\n(b)if the application relates to recording a protected performance live —\n(i)identify the protected performance to which the application relates;\n(ii)identify the recording to which the application relates;\n(iii)state whether the applicant is the rights owner or X;\n(iv)if the applicant is the rights owner — state the name of X; and\n(v)if the applicant is X — state the name of the rights owner.\n(3) The parties to the application are —\n(a)the rights owner; and\n(b)X."
+   }
+  },
+  {
+   "id": "SG-H854-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 539 — equitable remuneration payable under 1987 Act"
+   },
+   "text": {
+    "en": "49. An application to a Tribunal to decide the amount of equitable remuneration under section 539(2)(b) in respect of a person’s liability under a provision of the 1987 Act must be made in accordance with the Copyright Tribunals (Procedure) Regulations (Cap. 63, Rg 6, 2010 Revised Edition) in force immediately before 21 November 2021, using the relevant form prescribed by those Regulations."
+   }
+  },
+  {
+   "id": "SG-H854-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 470 — proposed tariff scheme"
+   },
+   "text": {
+    "en": "50.—(1) A reference of a tariff scheme to a Tribunal under section 470(1) must —\n(a)be made by the CMO referring the tariff scheme;\n(b)set out the circumstances or events giving rise to the reference and, in particular, must —\n(i)state that the CMO referring the tariff scheme proposes to bring the scheme into force;\n(ii)state the nature of the tariff scheme;\n(iii)state the works or protected performances to which the tariff scheme and the permission granted under the scheme relate; and\n(iv)state whether the CMO referring the tariff scheme is the rights owner, or is acting as agent for one or more rights owners in relation to the negotiation or granting of permission under the scheme;\n(c)request the Tribunal to make an order under section 470(2); and\n(d)be in the specified form.\n(2) The reference must be accompanied by a copy of the tariff scheme.\n(3) The parties to the reference are —\n(a)the CMO referring the tariff scheme; and\n(b)the organisations or persons (if any) that are made parties to the reference under regulation 34."
+   }
+  },
+  {
+   "id": "SG-H854-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 471 — in‑force tariff scheme"
+   },
+   "text": {
+    "en": "51.—(1) A reference of a tariff scheme to a Tribunal under section 471(2) must —\n(a)be made by —\n(i)the CMO that formulated the tariff scheme;\n(ii)an intending user of the tariff scheme; or\n(iii)an organisation that claims to be representative of intending users of the tariff scheme;\n(b)set out the circumstances or events giving rise to the reference and, in particular, must —\n(i)state whether the person referring the tariff scheme is the CMO, intending user or organisation mentioned in sub‑paragraph (a)(i), (ii) or (iii);\n(ii)specify the class of cases to which the reference relates;\n(iii)state the name of the other party to the dispute that gave rise to the reference; and\n(iv)set out particulars of the matter in dispute;\n(c)request the Tribunal to make an order under section 471(4); and\n(d)be in the specified form.\n(2) Where the reference is made by an organisation that claims to be representative of intending users of the tariff scheme, the Tribunal must, before determining the question whether the organisation is reasonably representative of the class of persons that it claims to represent, give to the following persons an opportunity to present a case in relation to that question:\n(a)each party to the reference;\n(b)each person who has applied to be made a party to the reference and whose application has yet to be decided.\n(3) The parties to the reference are —\n(a)the CMO, intending user or organisation referring the tariff scheme;\n(b)if the reference is not made by the CMO that formulated the tariff scheme — that CMO; and\n(c)the organisations or persons (if any) that are made parties to the reference under regulation 34."
+   }
+  },
+  {
+   "id": "SG-H854-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 472 — review of orders made in respect of tariff scheme"
+   },
+   "text": {
+    "en": "52.—(1) A reference of a tariff scheme to a Tribunal under section 472(2) in respect of an existing order mentioned in section 472(1) must —\n(a)be made by —\n(i)the CMO operating the tariff scheme;\n(ii)an intending user of the tariff scheme; or\n(iii)an organisation that claims to be representative of intending users of the tariff scheme;\n(b)set out the circumstances or events giving rise to the reference and, in particular, must —\n(i)specify the date on which the existing order was made and the relevant case file number;\n(ii)state whether the person referring the scheme is the CMO, intending user or organisation mentioned in sub‑paragraph (a)(i), (ii) or (iii);\n(iii)specify the class of cases to which the reference relates;\n(iv)state the name of the other party to the dispute that gave rise to the reference;\n(v)set out particulars of the matter in dispute; and\n(vi)where permission of a Tribunal is required for bringing the reference —\n(A)if that permission has already been granted — specify the date when a Tribunal granted the permission and the relevant case file number; and\n(B)in any other case — state the grounds on which permission is sought for the making of the reference and request the Tribunal to grant permission for bringing the reference;\n(c)request the Tribunal to make an order under section 472(6); and\n(d)be in the specified form.\n(2) Where the reference is made by an organisation that claims to be representative of intending users of the tariff scheme, the Tribunal must, before determining the question whether the organisation is reasonably representative of the class of persons that it claims to represent, give to the following persons an opportunity to present a case in relation to that question:\n(a)each party to the reference;\n(b)each person who has applied to be made a party to the reference and whose application has yet to be decided.\n(3) The parties to the reference are —\n(a)the CMO, intending user or organisation referring the tariff scheme;\n(b)if the reference is not made by the CMO operating the tariff scheme — that CMO; and\n(c)the organisations or persons (if any) that are made parties to the reference under regulation 34."
+   }
+  },
+  {
+   "id": "SG-H854-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 472 — permission of Tribunal to review existing order"
+   },
+   "text": {
+    "en": "53.—(1) An application for the permission of a Tribunal to bring a reference under section 472(4) in respect of an existing order mentioned in section 472(1) must be made in accordance with this regulation.\n(2) The application must —\n(a)be made by —\n(i)the CMO operating the tariff scheme;\n(ii)the intending user of the tariff scheme; or\n(iii)the organisation that claims to be representative of intending users of the tariff scheme,\nthat seeks to refer the tariff scheme to the Tribunal;\n(b)set out the circumstances or events giving rise to the application and, in particular, must —\n(i)describe the general nature of the tariff scheme as previously confirmed or varied by a Tribunal;\n(ii)specify the class of cases in relation to which the applicant wishes to refer the tariff scheme to the Tribunal;\n(iii)specify the date when the existing order was made and the relevant case file number;\n(iv)state the name of the other party to the dispute that gave rise to the application;\n(v)set out particulars of the matter in dispute; and\n(vi)state the grounds on which permission is sought;\n(c)request the Tribunal to grant permission to the applicant to refer the tariff scheme to the Tribunal to the extent that it relates to that class of cases; and\n(d)be in the specified form.\n(3) The parties to the application are —\n(a)the CMO, intending user or organisation making the application;\n(b)if the application is not made by the CMO operating the tariff scheme — that CMO; and\n(c)any person that is made a party to the application under regulation 34.\n(4) The Tribunal must consider the application and, after giving to each party to the application an opportunity to present a case, must make an order to grant or refuse the application."
+   }
+  },
+  {
+   "id": "SG-H854-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 474 — application against CMO for refusal to grant permission (where tariff scheme applies)"
+   },
+   "text": {
+    "en": "54.—(1) An application to a Tribunal under section 474(1)(a)(i) must —\n(a)be made by the person (X) who claims, in a case to which a tariff scheme applies, that the CMO operating the tariff scheme has refused to grant X (or procure the grant to X of) permission in accordance with the terms of the tariff scheme after a request was made by X;\n(b)set out the circumstances or events giving rise to the application and, in particular, must —\n(i)specify the case in which the grant of permission is required by X;\n(ii)specify the tariff scheme applicable in that case;\n(iii)state the name of the CMO operating the tariff scheme; and\n(iv)specify the date or the approximate date on which X requested the CMO to grant permission in accordance with the terms of the tariff scheme, or to procure the grant of the permission;\n(c)request the Tribunal to make an order under section 474(4); and\n(d)be in the specified form.\n(2) The parties to the application are —\n(a)the CMO operating the tariff scheme; and\n(b)X."
+   }
+  },
+  {
+   "id": "SG-H854-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "55."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 474 — application against CMO for unreasonable terms (where tariff scheme applies)"
+   },
+   "text": {
+    "en": "55.—(1) An application to a Tribunal under section 474(1)(a)(ii) must —\n(a)be made by the person (X) who claims, in a case to which a tariff scheme applies, that the terms of the tariff scheme for granting (or procuring the grant of) permission to X are unreasonable in the circumstances;\n(b)set out the circumstances or events giving rise to the application and, in particular, must —\n(i)specify the case in which the grant of permission is required by X;\n(ii)specify the tariff scheme applicable in that case;\n(iii)state the name of the CMO operating the tariff scheme; and\n(iv)specify the terms that the grant of permission would, in that case, be subject to and that are claimed by X to be unreasonable in the circumstances of the case;\n(c)request the Tribunal to make an order under section 474(4); and\n(d)be in the specified form.\n(2) The parties to the application are —\n(a)the CMO operating the tariff scheme; and\n(b)X."
+   }
+  },
+  {
+   "id": "SG-H854-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "56."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 474 — application against CMO by intending user (where no tariff scheme applicable or in force)"
+   },
+   "text": {
+    "en": "56.—(1) An application to a Tribunal under section 474(1)(b) must —\n(a)be made by the person (Y) who claims to require permission in a case where a tariff scheme does not apply, has not been formulated or is not in force;\n(b)set out the circumstances or events giving rise to the application and, in particular, must —\n(i)specify the case in which the grant of permission is required by Y;\n(ii)state the name of the CMO concerned;\n(iii)if section 474(1)(b)(ii)(A) is applicable — specify the date or the approximate date on which Y requested the CMO to grant permission or to procure the grant of permission; and\n(iv)if section 474(1)(b)(ii)(B) is applicable — specify the terms that the CMO proposes that the grant of permission should be subject to and that are claimed by Y to be unreasonable;\n(c)request the Tribunal to make an order under section 474(4); and\n(d)be in the specified form.\n(2) The parties to the application are —\n(a)the CMO concerned; and\n(b)Y."
+   }
+  },
+  {
+   "id": "SG-H854-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "57."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 474 — application against CMO by organisation representing users (where no tariff scheme applicable or in force)"
+   },
+   "text": {
+    "en": "57.—(1) An application to a Tribunal under section 474(1)(c) must —\n(a)be made by the organisation (Z) that is representative of persons to which section 474(1)(b) applies;\n(b)set out the circumstances or events giving rise to the application and, in particular, must —\n(i)specify the cases in which one or more grants of permission are required by persons represented by Z;\n(ii)state the name of the CMO concerned;\n(iii)if section 474(1)(b)(ii)(A) is applicable — specify the dates or the approximate dates on which the CMO was requested to grant permissions to persons represented by Z, or to procure the grant of permissions; and\n(iv)if section 474(1)(b)(ii)(B) is applicable — specify the terms that the CMO proposes that permissions to be granted to persons represented by Z should be subject to and that are claimed by Z to be unreasonable;\n(c)request the Tribunal to make an order under section 474(4); and\n(d)be in the specified form.\n(2) The parties to the application are —\n(a)the CMO concerned; and\n(b)Z."
+   }
+  },
+  {
+   "id": "SG-H854-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "58."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Suspension of orders under sections 470, 471, 472, 473 and 474"
+   },
+   "text": {
+    "en": "58.—(1) Where a Tribunal —\n(a)makes an order under section 470(2), 471(4), 472(6) or 474(4) in a case; and\n(b)refers a question of law in the case to the Court after making the order,\nthe Tribunal may suspend the order.\n(2) While an order made under section 470(2) is suspended —\n(a)section 470(4)(a) operates as if the order had not been made; and\n(b)section 473 does not operate in relation to the order.\n(3) While an order made under section 471(4) is suspended —\n(a)section 471(7) and (8) operates as if the order had not been made; and\n(b)section 473 does not operate in relation to the order.\n(4) While an order made under section 472(6) is suspended —\n(a)section 472(9) and (10) operates as if the order had not been made; and\n(b)section 473 does not operate in relation to the order.\n(5) While an order made under section 474(4) is suspended, section 474(5) and (7) does not operate in relation to the order."
+   }
+  },
+  {
+   "id": "SG-H854-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "59."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 199 — suspension order against body administering educational institution"
+   },
+   "text": {
+    "en": "59.—(1) An application to a Tribunal by the Attorney-General under section 199(2) must —\n(a)identify the body administering an educational institution in respect of which the application for an order suspending the application of section 198 is made;\n(b)set out details of the record keeping offences of which that body has been convicted;\n(c)annex certified copies of the convictions for those offences;\n(d)specify the period recommended to suspend the application of section 198 in relation to that body; and\n(e)be in the specified form.\n(2) The parties to the application are —\n(a)the Attorney‑General; and\n(b)the body administering the educational institution in respect of which the application for an order suspending the application of section 198 is made.\n(3) In this regulation, “record keeping offence” has the meaning given by section 199(6)."
+   }
+  },
+  {
+   "id": "SG-H854-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "60."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 199 — revocation of suspension order"
+   },
+   "text": {
+    "en": "60.—(1) An application to a Tribunal under section 199(5) by a body administering an educational institution must —\n(a)identify the order under section 199(1) to which the application relates;\n(b)annex a certified copy of that order;\n(c)set out details of the steps taken since the making of the order by the body making the application to ensure that no further contravention of any record keeping offence will be committed;\n(d)request a Tribunal to revoke the order to which the application relates; and\n(e)be in the specified form.\n(2) The parties to the application are —\n(a)the Attorney‑General; and\n(b)the body administering the educational institution.\n(3) In this regulation, “record keeping offence” has the meaning given by section 199(6)."
+   }
+  },
+  {
+   "id": "SG-H854-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "61."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Section 286 — terms of public acts"
+   },
+   "text": {
+    "en": "61.—(1) An application to a Tribunal to decide the terms for doing a public act under section 286(1)(b) must —\n(a)be made by —\n(i)the rights owner; or\n(ii)the Government;\n(b)set out the circumstances or events giving rise to the application and, in particular, must —\n(i)identify the work or protected performance to which the application relates;\n(ii)identify the public act that was done, or is proposed to be done, under section 285(1);\n(iii)state whether the applicant is the rights owner or the Government;\n(iv)if the applicant is the rights owner — state whether the public act was done, or is proposed to be done, by the Government; and\n(v)if the applicant is the Government — state the name of the rights owner;\n(c)request the Tribunal to decide the terms as between the rights owner and the Government for doing the public act; and\n(d)be in the specified form.\n(2) The parties to the application are —\n(a)the rights owner; and\n(b)the Government.\n(3) In this regulation, “public act” has the meaning given by section 284(1)."
+   }
+  },
+  {
+   "id": "SG-H854-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "62."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Apportionment of royalty for musical records"
+   },
+   "text": {
+    "en": "62.—(1) An application to a Tribunal to decide the apportionment of royalty payable in respect of a work under regulation 5(3)(d) of the Copyright (Royalties for Musical Records) Regulations 2021 must —\n(a)be made by —\n(i)the copyright owner (X) of the musical work; or\n(ii)the copyright owner (Y) of the literary or dramatic work;\n(b)set out the circumstances or events giving rise to the application and, in particular, must —\n(i)identify the musical work and the literary or dramatic work to which the application relates;\n(ii)identify the record to which the application relates;\n(iii)state whether the applicant is X or Y;\n(iv)if the applicant is X — state the name of Y; and\n(v)if the applicant is Y — state the name of X;\n(c)request a Tribunal to decide the manner in which the royalty payable in respect of the musical work and of the literary or dramatic work is to be apportioned between the owners of the copyrights in those works; and\n(d)be in the specified form.\n(2) The parties to the application mentioned in paragraph (1) are X and Y."
+   }
+  },
+  {
+   "id": "SG-H854-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "63."
+   },
+   "chapter": {
+    "en": "PART 3 APPLICATIONS AND REFERENCES TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Manner and time for payment of royalty for musical records"
+   },
+   "text": {
+    "en": "63.—(1) An application to a Tribunal to decide the manner or time, or both, for payment of the prescribed royalty in respect of an included work under regulation 65(1)(b) or 67(5)(b) of the Copyright Regulations 2021 must —\n(a)be made by —\n(i)the copyright owner of the included work; or\n(ii)the person (X) who makes a record of the included work;\n(b)set out the circumstances or events giving rise to the application and, in particular, must —\n(i)identify the included work to which the application relates;\n(ii)identify the record to which the application relates;\n(iii)specify whether the application relates to the manner or time of payment of the prescribed royalty, or to both;\n(iv)specify the manner or time, or both (as the case may be), for payment of the royalty requested by the copyright owner;\n(v)state whether the applicant is the copyright owner or X;\n(vi)if the applicant is the copyright owner — state the name of X; and\n(vii)if the applicant is X — state the name of the copyright owner;\n(c)request a Tribunal to decide the manner or time, or both (as the case may be), for payment of the prescribed royalty; and\n(d)be in the specified form.\n(2) The parties to the application are —\n(a)the copyright owner; and\n(b)X.\n(3) In this regulation, “included work” has the meaning given by regulation 63 of the Copyright Regulations 2021."
+   }
+  },
+  {
+   "id": "SG-H854-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "64."
+   },
+   "chapter": {
+    "en": "PART 4 RECORDS ROYALTY SYSTEM INQUIRY PROCEDURE"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "64. This Part applies in relation to any inquiry by a Tribunal under section 262(2)."
+   }
+  },
+  {
+   "id": "SG-H854-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "65."
+   },
+   "chapter": {
+    "en": "PART 4 RECORDS ROYALTY SYSTEM INQUIRY PROCEDURE"
+   },
+   "heading": {
+    "en": "Advertisement of intended inquiry"
+   },
+   "text": {
+    "en": "65.—(1) The presiding member must fix the time and place for the start of an inquiry by the Tribunal under section 262(2).\n(2) The secretary must cause to be advertised, on the date or dates that the presiding member specifies (but not less than 30 days or more than 3 months before the time fixed under paragraph (1)), a notice containing the particulars mentioned in paragraph (3).\n(3) The notice must —\n(a)state that the Tribunal has been requested to hold an inquiry under section 262(2);\n[S 658/2026 wef 01/10/2026]\n(b)specify the matter to which the inquiry relates, including whether the inquiry is to extend to records generally or to be confined to any class of records;\n(c)if the inquiry is to be confined to any class of records — give a description of the class;\n(d)specify the time and place at which the inquiry is to start;\n(e)specify the period, of at least 10 days, within which a person, who has a substantial interest in the matter to which the inquiry relates and who wishes to present a case to the Tribunal in relation to the matter, must file a notice in the specified form of the person’s intention; and\n(f)state that any notice mentioned in sub-paragraph (e) must be accompanied by —\n(i)a statement of the nature of the evidence that the person giving the notice proposes to adduce at the inquiry; and\n(ii)a list of the documents (if any) that the person proposes to produce or refer to at the inquiry."
+   }
+  },
+  {
+   "id": "SG-H854-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "66."
+   },
+   "chapter": {
+    "en": "PART 4 RECORDS ROYALTY SYSTEM INQUIRY PROCEDURE"
+   },
+   "heading": {
+    "en": "Amendments, further particulars, etc., and service of documents before inquiry"
+   },
+   "text": {
+    "en": "66.—(1) At any time before the time fixed for the start of the inquiry but not more than 14 days after the end of the period specified under regulation 65(3)(e), any person who has, in accordance with that regulation, filed a notice may file a statement of further particulars of the nature of the evidence that the person wishes to produce or refer to at the inquiry.\n(2) Whenever requested by the Tribunal to do so, any person who has, in accordance with regulation 65(3)(e) and (f), filed a notice must, within any period that may be specified in the request, file —\n(a)any further particulars that the Tribunal may request of a statement of the nature of the evidence that the person wishes to adduce at the inquiry;\n(b)any number of copies that the Tribunal may specify of any document that the person has filed in accordance with these Regulations; and\n(c)a copy of any document that the person wishes to produce or refer to at the inquiry.\n(3) The secretary must cause copies of any documents that have been filed by any party to the inquiry in accordance with this Part (other than paragraph (2)(c)) to be served on the other parties to the inquiry.\n(4) Any party (X) to the inquiry must take all reasonable steps to provide to any other party (Y) to the inquiry an opportunity to examine the documents specified in the list accompanying the notice filed by X under regulation 65(3)(f)(ii), other than any documents that are readily available to Y without recourse to X."
+   }
+  },
+  {
+   "id": "SG-H854-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "67."
+   },
+   "chapter": {
+    "en": "PART 4 RECORDS ROYALTY SYSTEM INQUIRY PROCEDURE"
+   },
+   "heading": {
+    "en": "Right of audience at inquiry"
+   },
+   "text": {
+    "en": "67. The Tribunal must add a person as a party to the inquiry and must give the person an opportunity to present a case to the Tribunal at the inquiry, if —\n(a)the Tribunal is satisfied that the person has a substantial interest in the matter to which the inquiry relates; and\n(b)the person has —\n(i)filed a notice of the person’s wish to present the person’s case to a Tribunal at the inquiry in accordance with regulation 65(3)(e) and (f);\n(ii)complied with any request made to the person by the Tribunal under regulation 66(2); and\n(iii)fulfilled the requirements of regulation 66(4)."
+   }
+  },
+  {
+   "id": "SG-H854-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "68."
+   },
+   "chapter": {
+    "en": "PART 4 RECORDS ROYALTY SYSTEM INQUIRY PROCEDURE"
+   },
+   "heading": {
+    "en": "Procedure"
+   },
+   "text": {
+    "en": "68.—(1) The Tribunal may determine the procedure at and in connection with the inquiry and admit evidence for the purposes of the inquiry.\n(2) A party to an inquiry under section 262(2) is entitled to give evidence and may —\n(a)call witnesses;\n(b)produce or refer to documents mentioned in the party’s filed list; and\n(c)be given an opportunity to put questions directly to any other person giving evidence.\n(3) Despite paragraph (2)(b), a party is entitled to produce or refer to any document not mentioned in the party’s filed list, if —\n(a)the Tribunal grants permission to produce or refer to the document; or\n(b)the document —\n(i)is mentioned in any other party’s filed list; or\n(ii)has been produced or referred to at the inquiry by any other party.\n(4) If any party to the inquiry fails to appear, the Tribunal may proceed with the inquiry in that party’s absence or may adjourn the inquiry until a later date.\n(5) Before concluding any inquiry in the absence of any party, the Tribunal must consider any documents filed by that party in accordance with these Regulations if the documents have been disclosed to the other parties before or at the inquiry.\n(6) The Tribunal may adjourn the inquiry and —\n(a)if the date, time and place of the adjourned inquiry are announced at the inquiry — no further notice of the inquiry is required; or\n(b)if sub‑paragraph (a) does not apply — notice of the adjourned inquiry must be advertised in accordance with regulation 65(2).\n(7) In this regulation, “filed list”, in relation to a party to an inquiry, means the list of documents accompanying the notice filed by the party in accordance with regulation 65(3)(f)(ii) or any amendment to the list of documents filed under regulation 66."
+   }
+  },
+  {
+   "id": "SG-H854-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "69."
+   },
+   "chapter": {
+    "en": "PART 5 REFERENCES TO GENERAL DIVISION OF HIGH COURT"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "69. This Part applies for the purposes of section 494."
+   }
+  },
+  {
+   "id": "SG-H854-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "70."
+   },
+   "chapter": {
+    "en": "PART 5 REFERENCES TO GENERAL DIVISION OF HIGH COURT"
+   },
+   "heading": {
+    "en": "Request for reference of question of law to Court"
+   },
+   "text": {
+    "en": "70.—(1) For the purposes of section 494(3)(b), a request to a Tribunal for the reference of a question of law in a case to the Court must —\n(a)be in the specified form;\n(b)state the name of the party making the request;\n(c)specify the question of law;\n(d)request the Tribunal to refer that question to the Court;\n(e)be signed by or on behalf of the party making the request; and\n(f)be filed.\n(2) The party making the request must cause a written notice of the making of the request, together with a sealed copy of the request, to be served on every other party to the case —\n(a)where the hearing of the case to which the request relates has not started or has been adjourned — within 7 days after the request is filed but not later than the date fixed for the start of the hearing or to which the hearing has been adjourned; or\n(b)in any other case — within 7 days after the request is filed.\n(3) For the purposes of paragraph (2), a notice of the making of a request must —\n(a)be addressed to the party (X) on whom it is served; and\n(b)inform X that X may, within 21 days after service of the notice, present a case in writing to the Tribunal in relation to the request.\n(4) Each party to the request may present a case in writing to the Tribunal in relation to the request —\n(a)for the party making the request — within 21 days after the request is filed; or\n(b)for every other party to the case — within 21 days after service on that party of the notice.\n(5) Despite paragraph (4), the Tribunal may give to each party mentioned in that paragraph an opportunity to present a case orally to the Tribunal.\n(6) The secretary must cause a notice of the decision of the Tribunal on the request to be served on —\n(a)the party that made the request; and\n(b)each party that —\n(i)presented a case to the Tribunal in relation to the request; or\n(ii)notified the Tribunal that the party wished to be informed of the decision."
+   }
+  },
+  {
+   "id": "SG-H854-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "71."
+   },
+   "chapter": {
+    "en": "PART 5 REFERENCES TO GENERAL DIVISION OF HIGH COURT"
+   },
+   "heading": {
+    "en": "Fixing of new date for hearing or further hearing where party makes request"
+   },
+   "text": {
+    "en": "71.—(1) Where —\n(a)a party makes a request under section 494(3)(b) in a case; and\n(b)a date has been fixed for the hearing or a further hearing of that case that is less than 14 days after the date of the filing of the request,\nthe presiding member must fix a new date for the hearing or further hearing of that case that is more than 14 days after the date of the filing of the request.\n(2) The secretary must cause a notice of the date fixed by the presiding member under paragraph (1) to be served on each party to the case."
+   }
+  },
+  {
+   "id": "SG-H854-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "72."
+   },
+   "chapter": {
+    "en": "PART 5 REFERENCES TO GENERAL DIVISION OF HIGH COURT"
+   },
+   "heading": {
+    "en": "Adjournment pending decision of Court"
+   },
+   "text": {
+    "en": "72. Where a Tribunal refers a question of law arising in a case before it for the opinion of the Court under section 494(1), and the Tribunal has not decided on the case, the Tribunal must adjourn its hearing of the case until the question referred has been heard and decided by the Court."
+   }
+  },
+  {
+   "id": "SG-H854-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "73."
+   },
+   "chapter": {
+    "en": "PART 5 REFERENCES TO GENERAL DIVISION OF HIGH COURT"
+   },
+   "heading": {
+    "en": "Suspension of orders of Tribunal pending reference of question of law to Court"
+   },
+   "text": {
+    "en": "73.—(1) Where, after the date on which a Tribunal has given its decision in a case, the Tribunal refers to the Court a question of law that arose in the course of the case, the Tribunal may suspend the operation of any order made by the Tribunal in the case.\n(2) Where an order of a Tribunal is suspended under paragraph (1), the secretary must —\n(a)cause a written notice of the suspension to be served on each party to the case; and\n(b)if particulars of the order have been advertised in any manner pursuant to a direction under regulation 16(4) — cause particulars of the suspension to be advertised in the same manner."
+   }
+  },
+  {
+   "id": "SG-H854-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "74."
+   },
+   "chapter": {
+    "en": "PART 5 REFERENCES TO GENERAL DIVISION OF HIGH COURT"
+   },
+   "heading": {
+    "en": "Cases before Tribunal after determination of question of law by Court"
+   },
+   "text": {
+    "en": "74.—(1) Where a question of law arising in a case has been referred to, and decided by, the Court under section 494, any party to the case before the Court may file a copy of the order of the Court.\n(2) Subject to paragraph (3), when a copy of the order of the Court has been filed under paragraph (1), the presiding member must fix a time and place for the resumption of the hearing of the case and the secretary must cause a notice of that time and place to be served on the parties to the case.\n(3) Paragraph (2) does not apply where the question of law was referred to the Court after the Tribunal had given its decision in the case and that decision is consistent with the opinion of the Court."
+   }
+  },
+  {
+   "id": "SG-H854-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulations 6(4) and (8) and 23\nFees\n1.For a photographic copy of a document —\n(a)for one page; and\n$3\n(b)for each additional page\n$0.40\n2.For a copy of the reasons for an order made by the Tribunal —\n(a)for one page; and\n$3\n(b)for each additional page\n$0.40\n3.Filing fee for —\n(a)any notice under regulation 65(3)(e); and\n$200\n(b)any case brought to a Tribunal under the Act\n$200"
+   }
+  },
+  {
+   "id": "SG-H854-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 24(2)\nWitnesses’ costs, fees and expenses\n1. The following fees are payable for the following witnesses:\n(a)for a witness called because of the professional, scientific or other special skill, or knowledge, of the witness — an amount (of at least $100 and not more than $150 per day) that the Tribunal, or the person assessing costs in relation to the proceeding, determines;\n(b)for any other witness —\n(i)if the witness is remunerated in the witness’s occupation by wages, salary or fees — the amount of wages, salary or fees lost, by reason of the attendance, but not more than $50 per day; or\n(ii)if sub‑paragraph (a) does not apply — $30 per day.\n2. In addition to the above fees —\n(a)a witness may be allowed any sum that the Tribunal, or the person assessing costs in relation to the proceeding, thinks reasonable for the expenses of conveyance of the witness to and from the place where the witness attends to give evidence or to produce documents or articles; and\n(b)a witness called because of the professional, scientific or other special skill, or knowledge, of the witness may be allowed any fees that the Tribunal, or the person assessing costs in relation to the proceeding, thinks reasonable for —\n(i)qualifying to give the evidence; and\n(ii)an attendance before the Tribunal not covered by the provisions of this Schedule when the witness is acting as an expert in assisting a representative of a party during the hearing."
+   }
+  }
+ ]
+}

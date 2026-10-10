@@ -1,0 +1,114 @@
+{
+ "id": "PH-H1351",
+ "title": {
+  "zh": null,
+  "en": "An Act Regulating the Collection, Processing and Sale of Human Blood, and the Establishment and Operation of Blood Banks and Blood Processing Laboratories",
+  "orig": "An Act Regulating the Collection, Processing and Sale of Human Blood, and the Establishment and Operation of Blood Banks and Blood Processing Laboratories"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p19",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1956-06-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1517",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 7,
+ "chars": 3254,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1956/ra_1517_1956.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 7 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1956/ra_1517_1956.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1351-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "In order to promote public health, it is declared a national policy to prevent trafficking in human blood and its products and derivatives."
+   }
+  },
+  {
+   "id": "PH-H1351-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "As used in this Act:\n\"Blood\" means human blood, processed or unprocessed, and includes its products and derivatives.\n\"Person\" includes corporations, partnerships, associations, and organizations.\n\"Cost\" means the actual purchase price of unprocessed blood and its handling charges, such as those for its collection, processing, storage, transportation, and sale, and a reasonable allowance for spoilage."
+   }
+  },
+  {
+   "id": "PH-H1351-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "It shall be the unlawful for any person to establish or operate a blood bank or blood processing laboratory, or to collect or process blood if he is not a licensed physician, or to sell blood collected from another person, even if authorized by the latter, without first securing a license from the Department of Health: Provided, That in cases of emergency, blood transfusion shall be allowed under the responsibility of the attending physician without such license: And Provided, further, That persons operating blood banks and blood processing laboratories on the date of the approval of this Act may continue to operate and same if they secure such license within sixty days from the date of the issuance of the rules and regulations provided for in section five hereof.\nNo license shall be granted or renewed by the Department of Health for the establishment or operation of a blood bank or blood processing laboratory unless such bank or laboratory be established or operated in accordance with accepted scientific standards, is under the administration, direction and supervision of a licensed and qualified physician, and blood is collected and/or processed therein by licensed physicians or under their direct supervision and responsibility.\nNo license shall be granted or renewed by said Department for the collection and/or processing of blood unless the licensee complies with the requirements hereinabove established for blood banks and blood processing laboratories."
+   }
+  },
+  {
+   "id": "PH-H1351-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Blood banks and processing laboratories shall be operated on a non-profit basis. Blood collecting or processing by other blood collectors or processors or by individual physicians shall also be on a non-profit basis. Blood shall be sold by such banks and laboratories, other blood collectors or processors, and individual physicians at cost."
+   }
+  },
+  {
+   "id": "PH-H1351-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "The Secretary of Health is charged with the responsibility of strictly enforcing this Act, and shall issue such rules and regulations as may be necessary to carry out its provisions, including rules and regulations prescribing, from time to time, the maximum ceilings for handling charges of blood, such as charges for its collection, processing, storage, transportation, and sale, and a reasonable allowance for spoilage, which shall be considered as part of the cost of blood."
+   }
+  },
+  {
+   "id": "PH-H1351-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Any person who violates any provision of this Act or of the rules and regulations issued thereunder shall be punished by imprisonment for not less than one month and not more than one year or by a fine of not less than one hundred pesos and not more than one thousand pesos or by both such fine and imprisonment in the discretion of the court."
+   }
+  },
+  {
+   "id": "PH-H1351-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956."
+   }
+  }
+ ]
+}

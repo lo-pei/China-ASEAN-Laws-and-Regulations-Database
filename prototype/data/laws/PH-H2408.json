@@ -1,0 +1,74 @@
+{
+ "id": "PH-H2408",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Carigara, Province of Leyte, to be Known as the Carigara Emergency Hospital, and Appropriating Funds Therefor",
+  "orig": "An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Carigara, Province of Leyte, to be Known as the Carigara Emergency Hospital, and Appropriating Funds Therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p34",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1960-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2681",
+ "officialCode": null,
+ "topics": [
+  "health"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1013,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1960/ra_2681_1960.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1960/ra_2681_1960.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H2408-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There shall be established, under the supervision of the Director of Medical Services, an emergency hospital in the Municipality of Carigara, Province of Leyte, to be known as the Carigara Emergency Hospital. While there is no national building to house the said emergency hospital, the Municipality of Carigara shall provide the necessary building in the meantime at a site to be determined by the Municipal Council of the Municipality of Carigara in consultation with the Director of Medical Services."
+   }
+  },
+  {
+   "id": "PH-H2408-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The sum of seventy-five thousand pesos is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment and operation of the said hospital, purchase of equipments and for administrative expenses during the fiscal year nineteen hundred and sixty-one. Such sums as may be needed for its operation and maintenance in subsequent years shall be included in the annual General Appropriations Act."
+   }
+  },
+  {
+   "id": "PH-H2408-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960."
+   }
+  }
+ ]
+}

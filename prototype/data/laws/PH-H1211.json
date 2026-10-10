@@ -1,0 +1,64 @@
+{
+ "id": "PH-H1211",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Twenty of Commonwealth Act Numbered One Hundred Eighty-Six, as Amended by Republic Act Numbered Six Hundred Sixty, Entitled “An Act to Create and Establish a ‘Government Service Insurance System’ to Provide for its Administration and to Appropriate the Necessary Funds Therefor”",
+  "orig": "An Act to Amend Section Twenty of Commonwealth Act Numbered One Hundred Eighty-Six, as Amended by Republic Act Numbered Six Hundred Sixty, Entitled “An Act to Create and Establish a ‘Government Service Insurance System’ to Provide for its Administration and to Appropriate the Necessary Funds Therefor”"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p17",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1955-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1377",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1565,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1955/ra_1377_1955.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1955/ra_1377_1955.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1211-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section twenty of Commonwealth Act Numbered One hundred eighty-six, as amended by Republic Act Numbered Six hundred sixty, is hereby amended to read as follows:\n\"Sec. 20. Auditing and legal service. — The Auditor General and the Secretary of Justice shall be the ex-officio Auditor and Legal Adviser of the System, respectively. The Auditor General, or his authorized representative, shall submit to the Board soon after the close of each fiscal year audited statements showing the financial condition and progress of the System for the fiscal year just closed, and the Actuary shall make, as of the end of each fiscal year, an actuarial examination and valuation of the System: Provided, However , That the Insurance Commissioner or his authorized representatives shall make an examination into the financial condition and methods of transacting business of the system at least once in two years and the report of said examination shall be submitted to the board and copies thereof be furnished the Congress and the Office of the President of the Philippines within a reasonable time after the close of the examination: And Provided, finally, That for each examination the system shall apply to the Office of the Insurance Commissioner an amount equal to the actual expenses of said office in the conduct of the examination, including the salaries of the examiners and of the actuary of said office who have been assigned to make such examination for the actual time spent in said examination.\""
+   }
+  },
+  {
+   "id": "PH-H1211-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1955."
+   }
+  }
+ ]
+}

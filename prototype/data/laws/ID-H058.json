@@ -1,0 +1,52 @@
+{
+ "id": "ID-H058",
+ "title": {
+  "zh": "宪法合并单一文本_1945",
+  "en": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 (Satu Naskah)",
+  "orig": null
+ },
+ "country": "ID",
+ "countryName": "印度尼西亚",
+ "layer": "intl",
+ "pack": "id-p03",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1945",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "印度尼西亚官方发布渠道",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 1149,
+ "source": {
+  "name": "印度尼西亚官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "文本未能可靠切分为条文（或原件为目录式排版），按整篇收录，未作改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "ID-H058-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "# Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 (Satu Naskah) > 本文件为自动采集的元数据头，随原始文件一同保存。\n> 原始文件未被改写；正文逐字照录于同目录下的原始文件。\n| 项目 | 内容 | | --- | --- | | 原文标题 | Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 (Satu Naskah) | | 中文译名 | 印度尼西亚共和国1945年宪法（合并单一文本） | | 英文译名 | Constitution of the Republic of Indonesia of 1945 (consolidated single text) | | 法律领域 | 宪法 | | 颁布机构 | 印度尼西亚人民协商会议（MPR RI）；BPK JDIH 发布 | | 官方来源 URL | https://peraturan.bpk.go.id/Download/92288/UUD45_SatuNaskah.pdf | | 数据抓取实际 URL | https://peraturan.bpk.go.id/Download/92288/UUD45_SatuNaskah.pdf | | 颁布日期 | 1945（含 1999、2000、2001、2002 年四次修正之合并文本） | | 生效日期 | 未核实（来源未标注） | | 修订日期 | 1999、2000、2001、2002 年四次修正 | | 版本 | 官方「Satu Naskah」（单一文本/合并本） | | 原文语种 | id | | 来源类型 | 官方（peraturan.bpk.go.id，印尼审计署 JDIH） | | 抓取日期 | 2026-10-03 | | 本地文件 | 印度尼西亚_宪法合并单一文本_1945_id.pdf | | 文件格式 | pdf | | 文件大小(字节) | 196608 | | 页数 | 28 | | 字数 |  | | SHA-256 | 6d629da7bdbec439629899c30ffea9df0aba842bf2406fad8ff6cc393edd3854 | | HTTP 状态 | 200 | | HTTPS 证书校验 | verified | | 完整性/缺失范围 | 官方公布 PDF 全文（未删节） | | 备注 | 本文件为含四次修正的现行合并文本，是判断「现行有效」宪法的依据；同一官方记录页另列 1945 年原始文本及各次修正单独文本（/Download/92283—92287）。 |"
+   }
+  }
+ ]
+}

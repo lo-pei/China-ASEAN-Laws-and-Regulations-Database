@@ -1,0 +1,1539 @@
+{
+ "id": "LA-H020",
+ "title": {
+  "zh": "税法",
+  "en": "Law on Tax",
+  "orig": null
+ },
+ "country": "LA",
+ "countryName": "老挝",
+ "layer": "intl",
+ "pack": "la-p01",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "amended",
+ "promulgatedDate": "2005",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "⚠ 质量缺陷：既有正文混入了 WIPO 网站导航文字（“Nice Classification / Vienna Classification / Global Design Database …”），非法律条文；使用时应以官方 PDF 为准。",
+ "issuingBody": "老挝国会",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "tax"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 115,
+ "chars": 114329,
+ "source": {
+  "name": "既有批次（资源爬取 / 《东盟法律分类》归档）",
+  "url": "https://www.wipo.int/wipolex/en/text/496300"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "★ 本部正文为**既有批次**（2026-10-04）所存，非本轮（2026-10-06）抓取；原文语言：英语。本轮官方公报详情页对该法仅提供纯扫描 PDF（无文字层），无可抽取正文，故迁移既有正文以保留可用文本，并按「A 层优先 / 正文不倒退」口径保留原 id。 所存 115 条，条号范围第 1–108 条。 ⚠ 质量缺陷：既有正文混入了 WIPO 网站导航文字（“Nice Classification / Vienna Classification / Global Design Database …”），非法律条文；使用时应以官方 PDF 为准。 既有批次的切分与抬头整理度低于本轮标准，后续应以官方完整版（或 OCR 后人工校勘）重新抓取替换。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": [],
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "LA-H020-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Article 6"
+   },
+   "heading": {
+    "en": "er Express Database"
+   },
+   "text": {
+    "en": "ter Express Database Nice Classification Vienna Classification Global Design Database International Designs Bulletin Hague Express Database Locarno Classification Lisbon Express Database Global Brand Database for GIs PLUTO Plant Variety Database GENIE Database WIPO-Administered Treaties WIPO Lex - IP Laws, Treaties & Judgments WIPO Standards IP Statistics WIPO Pearl (Terminology) WIPO Publications Country IP Profiles WIPO Knowledge Center World Intangible Investment Highlights WIPO Technology Trends Global Innovation Index World Intellectual Property Report PCT – The International Patent System ePCT Budapest – The International Microorganism Deposit System Madrid – The International Trademark System eMadrid"
+   }
+  },
+  {
+   "id": "LA-H020-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Article 6"
+   },
+   "heading": {
+    "en": "er (armorial bearings, flags, state emblems)"
+   },
+   "text": {
+    "en": "ter (armorial bearings, flags, state emblems) Hague – The International Design System eHague Lisbon – The International System of Appellations of Origin and Geographical Indications eLisbon UPOV PRISMA Mediation Arbitration Expert Determination Domain Name Disputes Centralized Access to Search and Examination (CASE) Digital Access Service (DAS) WIPO Pay Current Account at WIPO WIPO Assemblies Standing Committees Calendar of Meetings WIPO Webcast WIPO Official Documents Development Agenda Tailored Initiatives & Projects Collaborative Forums & Dialogues Innovation, Creativity and Development Acceleration Program IP for Impact National IP Strategies Cooperation Hub Technology and Innovation Support Centers (TISC) Technology Transfer Inventor Assistance Program IP Commercialization WIPO GREEN WIPO's Pat-INFORMED Accessible Books Consortium WIPO for Creators Member States Observers Director General Activities by Unit External Offices Global Forum on IP and AI AI Infrastructure Interchange AI Tools & Services Staff Positions Affiliated Personnel Positions Procurement Results & Budget Financial Reporting Oversight Arabic English Spanish French Russian Chinese Laws Treaties Judgments Browse By Jurisdiction Lao People's Democratic Republic LA020 Back Tax Law Part II Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR LAO PEOPLE'S DEMOCRATIC REPUBLIC PEACE INDEPENDENCE DEMOCRACY UNITY PROSPERITY ________________ President’s Office No. 46/OP DECREE of the PRESIDENT of the LAO PEOPLE'S DEMOCRATIC REPUBLIC On the Promulgation of the Tax Law Pursuant to Chapter 6, Article 67, point 1 of the Constitution of the Lao People's Democratic Republic which provides for the promulgation of the Constitution and of laws which are adopted by the National Assembly;\nPursuant to Resolution No. 27/NA, dated 20 May 2005, of the National Assembly of the Lao People's Democratic Republic regarding the adoption of the Amended Tax Law; and Pursuant to the Proposal No. 08/NASC, dated 23 May 2005, of the National Assembly Standing Committee.\nThe President of the Lao People's Democratic Republic\nDecrees That:"
+   }
+  },
+  {
+   "id": "LA-H020-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "heading": {
+    "en": "Purpose"
+   },
+   "text": {
+    "en": "The Tax Law is hereby promulgated."
+   }
+  },
+  {
+   "id": "LA-H020-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Article 2"
+   },
+   "heading": {
+    "en": "This decree shall enter into force on the date it is signed."
+   },
+   "text": {
+    "en": "Vientiane, 25 May 2005 The President of the Lao People’s Democratic Republic [Seal and Signature] Khamtai SIPHANDONE Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR LAO PEOPLE'S DEMOCRATIC REPUBLIC PEACE INDEPENDENCE DEMOCRACY UNITY PROSPERITY ________________ National Assembly No. 04/NA 19 May, 2005 TAX LAW Part I General Provisions"
+   }
+  },
+  {
+   "id": "LA-H020-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "heading": {
+    "en": "Purpose"
+   },
+   "text": {
+    "en": "The Tax Law determines principles, rules, methods and measures relating to taxation in order to promote manufacturing, services and remittance to the State budget by individuals, legal entities and organisations, which carry out business or make a living on a permanent or temporary basis in the Lao PDR [or] in a foreign country, [and] those which reside or have a place of business located in Laos, in order to justly equalize revenue among all levels of peoples, and to ensure redistribution by the State and to contribute to socio-economic development."
+   }
+  },
+  {
+   "id": "LA-H020-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Article 2"
+   },
+   "heading": {
+    "en": "Taxation"
+   },
+   "text": {
+    "en": "Taxes [refers to] financial obligations of individuals, legal entities [and] organisations including foreign persons which carry out business or make a living on a permanent or temporary basis in the Lao PDR[,] as well as those which reside or have a place of business located in Laos [but] carry out activities in a foreign country which generate income[, and] which must be paid according to the rates specified in the Tax Law."
+   }
+  },
+  {
+   "id": "LA-H020-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Article 3"
+   },
+   "heading": {
+    "en": "Scope of Application of the Tax Law"
+   },
+   "text": {
+    "en": "The Tax Law applies to individuals, legal entities [and] organisations including foreign persons which carry out business or make a living on a permanent or temporary basis in the Lao PDR as well as those which reside or 1 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR have a place of business located in Laos [but] carry out activities in a foreign country which generate income."
+   }
+  },
+  {
+   "id": "LA-H020-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Article 4"
+   },
+   "heading": {
+    "en": "Tax Authority1"
+   },
+   "text": {
+    "en": "The tax authority [refers to] an organisation which is attached to the Ministry of Finance and which is responsible for the implementation of the Tax Law, [and] for the collection of tax revenue, fees and other service charges.\nA staff member [refers to] a Lao citizen who is recruited and assigned to work on a permanent basis within the tax authority.\nA tax officer [refers to] an employee of the tax authority who has been appointed to perform duties outside his office2."
+   }
+  },
+  {
+   "id": "LA-H020-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Article 5"
+   },
+   "heading": {
+    "en": "Modification of Tax Rates"
+   },
+   "text": {
+    "en": "In necessary and urgent situations which require changes to be made to the tax rates in order to protect national interests and to be consistent with the socio-economic situation from time to time, the government shall be the one to send a proposal to the National Assembly Standing Committee which will in turn submit to the President of the State for consideration and issuance of a Presidential edict which will, on a temporary basis, promulgate the amendment. Thereafter, the National Assembly Standing Committee shall submit the amendment to the next session of the National Assembly for adoption as a law.\nIndividuals and organisations are prohibited from changing the tax rates stipulated in this law."
+   }
+  },
+  {
+   "id": "LA-H020-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Article 6"
+   },
+   "heading": {
+    "en": "International Relations and Cooperation"
+   },
+   "text": {
+    "en": "The State promotes regional and international cooperation in taxation, the exchange of technical expertise [and] information and in other tax matters on the basis of mutual interests and consistent with the economic situation from time to time.\n1 In the Lao language, the word roughly meaning “the entire organisation of responsible governmental agencies” is capable of being translated as any one of the following English words:\n“organisation”, “agency”, or “authority”. In choosing which English word to use, the translators have adopted the following convention. Where the governmental agencies in question have in practice adopted an English term for themselves (e.g., the Tax Authority), the translators have used that term. Otherwise, as in this law, the translators have used the generic term “organisation”.\n2 Two categories of employees of the Tax Authority are defined in this provision, “staff members” whose work ought to keep them in the offices of the tax authority most of the time and the “tax officers” whose work is performed outside the premises of the tax authority (often on assignment to other governmental agencies).\n2 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR Part II Tax System"
+   }
+  },
+  {
+   "id": "LA-H020-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Article 7"
+   },
+   "heading": {
+    "en": "Types of Taxes"
+   },
+   "text": {
+    "en": "Types of taxes consist of indirect and direct taxes."
+   }
+  },
+  {
+   "id": "LA-H020-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Article 8"
+   },
+   "heading": {
+    "en": "Indirect Taxes"
+   },
+   "text": {
+    "en": "Indirect taxes [refers to] taxes which are collected from the consumer of goods3, from the importation of goods, [and from] sales of goods and general services through persons who conduct [such activities] within the territory of the Lao PDR.\nIndirect taxes consist of:\n• Business turnover tax;\n• Excise tax."
+   }
+  },
+  {
+   "id": "LA-H020-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Article 9"
+   },
+   "heading": {
+    "en": "Direct Taxes"
+   },
+   "text": {
+    "en": "Direct taxes [refers to] taxes which are collected from individuals, legal entities [and] organisations including foreign persons which generate income in the Lao PDR as well as from those which reside in or have a place of business in Laos [but] carry out activities in a foreign country.\nDirect taxes consist of:\n• Profits tax;\n• Minimum tax;\n• Income tax;\n• Fees and other service charges.\n3 The Lao language has two words for goods that may roughly be translated as “goods that the relevant person intends to use for himself” and “goods that the relevant person intends to use in business”.\nThe same item, in the hands of different persons with different intentions towards that same item, would therefore fall into different categories. For example, a bottle of shampoo in the hands of the person wishing to wash his hair would fall in the first category, (and the first word would be used for it) while the same bottle of shampoo in the hands of the importer, or a supermarket would be in the second category.\nThe translators believe that the single English word “goods”, without further qualification, would cover both these Lao words. In this law, the two Lao words are virtually always used together (with a very few instances of the second word being used on its own but without any apparent distinction). Therefore, the translators have simply translated these two words (whenever they appear together or when either appears alone) as “goods”.\n3 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR Part III Business Turnover Tax Chapter 1 Rules relating to Business Turnover Tax"
+   }
+  },
+  {
+   "id": "LA-H020-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Article 10"
+   },
+   "heading": {
+    "en": "Business Turnover Tax"
+   },
+   "text": {
+    "en": "Business turnover tax [refers to] an indirect tax which a consumer of goods or general services pays into the State budget through persons who conduct businesses as provided in Article 12 of this law."
+   }
+  },
+  {
+   "id": "LA-H020-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Article 11"
+   },
+   "heading": {
+    "en": "Scope of Business Turnover Tax"
+   },
+   "text": {
+    "en": "Business turnover tax shall be collected from the sale of goods and general services undertaken within the territory of the Lao PDR as well as on the importation of goods, except goods and services stipulated in Article 13 of this law."
+   }
+  },
+  {
+   "id": "LA-H020-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Article 12"
+   },
+   "heading": {
+    "en": "Business Turnover Tax Payment"
+   },
+   "text": {
+    "en": "Individuals, legal entities or organisations which carry out activities shall be subject to business turnover tax regardless of whether they maintain an advanced, ordinary or basic accounting system and regardless of whether the activities are of an ongoing or ad hoc nature, or whether such activities are of a business or non-business nature.\nThe following activities are subject to business turnover tax:\n1. The importation of goods from abroad which is the bringing of goods into the territory of the Lao PDR;\n2. The sale of imported or domestically produced goods regardless of whether such sale is a wholesale [sale], retail sale, cash sale, sale on credit, [sale] by consignment or [sale by] barter;\n3. General services [, which refers to] an economic activity which is not an importation or production, [or] a sale of goods, but is a provision of labour to another person for which a service fee is received as compensation, such as: transportation, postal [services], telecommunications, construction, repair, contracting for or managing a market4, land development for sale of the right to use5, hotel activities, tourism, food and beverage operations, artistic activities, 4 This is a reference to physical marketplaces for buying and selling goods. Persons have to bid for or contract for the right to run or manage such markets.\n5 Readers may wish to refer to the Land Law for more information on the different types of “title” to land (one of which is the “right to use”).\n4 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR sports activities, entertainment, medical activities, brokerage or agency, property insurance, casino [operation] and other activities which involve the provision of labour and the receipt of compensation except activities which are provided for in Article 13 of this law."
+   }
+  },
+  {
+   "id": "LA-H020-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Article 13"
+   },
+   "heading": {
+    "en": "Exemption from Business Turnover Tax"
+   },
+   "text": {
+    "en": "The following activities are exempt from business turnover tax:\n1. The importation of plant species, animal species and insecticides;\n2. The importation of materials, equipment and chemicals for research and scientific analysis;\n3. The importation of gold for the institution that prints banknotes6;\n4. The importation of banknotes or coins;\n5. The importation of[,]or activities relating to[,] tax stamps or postal stamps for official use;\n6. The importation of aircraft and equipment relating to international air transport;\n7. The importation of goods including inflammable fuel and other types of fuel used in aircrafts which are used in international transport;\n8. The importation of goods for diplomats, embassies and international organisations located in the Lao PDR upon approval of the Ministry of Foreign Affairs;\n9. The importation of goods which are exempt or temporarily exempt from import duty as stipulated in the Law on Customs;\n10. The importation, [and]7 sale of vaccines, animal medicines and traditional medicines;\n11. The sale of agricultural products produced by farmers themselves8;\n12. The sale of agricultural products, [and] handicraft products by private individuals or civil servants within family operated businesses or by a member of a collective;\n13. Activities relating to planting seedlings or saplings, forestation, planting industrial trees, planting fruit trees, [and] planting medicinal trees;\n14. The export sale of goods, packaging services and insurance services relating to export;\n15. The sale of authorised textbooks, newspapers and other magazines;\n6 This is a reference to the national mint.\n7 In Lao, a comma is often used, without further elaboration, to mean “and”. Wherever the intended meaning is clear, the translators have translated such commas in one of two ways: (i) by deleting the comma and substituting it with the word “and’ in square brackets (i.e., [and]); or (ii) by retaining the comma and adding the word “and” in square brackets (i.e., , [and]). Where the meaning is more ambiguous, the translators have translated the text literally, retaining the comma alone.\n8 In the original text, it is unclear whether the word “themselves” qualifies “farmers” or “sale”.\n5 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR\n16. International transportation and services directly relating to such international transportation; international transportation means the transport of passengers or goods from abroad or to a foreign country by land, water or air;\n17. Transportation by use of human labour, all types of animal labour, and un-motorised boats;\n18. Leasing immovable property such as: land, houses, or other property by persons who do not carry out business activities;\n19. The export sale of services;\n20. Freelance activities by individuals who do not have a permanent place of business;\n21. Educational activities such as: nursery schools, kindergartens, primary schools, secondary [and] high schools9, undergraduate [educational institutions], graduate [educational institutions], vocational schools and training centres;\n22. Approved charity activities which generate income organized by State organisations, the Lao Front for National Construction, mass organisations and social organisations;\n23. Activities relating to banking, finance institutions, health insurance, life insurance, livestock insurance and insurance of plantations;\n24. Domestic manufacture of bio fertiliser;\n25. Fire engines, ambulances, vehicles for disabled people and other professional vehicles used by government agencies including vehicles used in national defence and security;10\n26. Artificial organs of humans and animals used for medical research purposes;\n27. Goods and services donated to aid projects as stipulated in specific regulations.\nChapter 2 Basis, Time for Calculation and Collection of Business Turnover Tax"
+   }
+  },
+  {
+   "id": "LA-H020-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Article 14"
+   },
+   "heading": {
+    "en": "Basis for Calculation of Business Turnover Tax"
+   },
+   "text": {
+    "en": "The basis for calculation of business turnover tax is determined for each specific case as follows:\n9 The translators are aware that names for educational institutions are specific to culture and jurisdiction. Here, the term “secondary [and] high school” is intended to refer to those institutions which together would bring a child from the end of primary school to the start of undergraduate studies.\n10 The translators are aware that the items in points 25 and 26 are not stated in terms of “activities”.\nPresumably, the reference is to the sale and import of these items but there is nothing in the text to resolve this ambiguity.\n6 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR • For the importation of goods from abroad [the basis for calculation] is the declared value for customs plus customs duty and excise tax (if any);\n• For goods sold domestically [the basis for calculation] is the sale price excluding business turnover tax;\n• For goods that are produced under contract [the basis for calculation] is the amount charged for such production (consisting of: the cost of hiring, the cost of raw materials and other expenses relating to production);\n• For the sale of goods on credit [the basis for calculation] is the total actual price of the goods paid by the purchaser;\n• For services [the basis for calculation] is the total income received from such services;\n• For goods and services which are subject to excise tax11 the basis for calculation [of business turnover tax] includes the excise tax but excludes business turnover tax.\nThe basis for calculation of taxes provided in this article includes all costs from additional payments.12"
+   }
+  },
+  {
+   "id": "LA-H020-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Article 15"
+   },
+   "heading": {
+    "en": "Time for Calculation and Collection of Business Turnover Tax"
+   },
+   "text": {
+    "en": "The time for calculation and collection of business turnover tax is determined for each specific case as follows:\n• For the importation of goods from abroad, business turnover tax is calculated and collected when filing the customs declaration;\n• For products, [and] goods sold domestically, business turnover tax is calculated and collected when such goods are delivered or when there is a transfer of the right to use or when an invoice is issued regardless of whether the purchaser has paid or not paid [for the goods];\n• For services [business turnover tax] is calculated and collected upon full or partial13 completion of the services."
+   }
+  },
+  {
+   "id": "LA-H020-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Article 16"
+   },
+   "heading": {
+    "en": "Calculation of Business Turnover Tax in the Case of Personal Use and"
+   },
+   "text": {
+    "en": "Temporary Import\nGoods imported or domestically produced, construction items, or services which the business people use themselves or which are to be given as gifts, [and] 11 This appears to be a reference to goods and services that are also subject to excise tax in addition to business turnover tax.\n12 This appears to be a reference to costs such as interest.\n13 The literal translation of this term is “progress”.\n7 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR prizes are subject to business turnover tax pursuant to this law, except for activities stipulated in Article 13 of this law. The basis for calculation [of the tax] is the price of goods and services used at the relevant place and time.14 All sales of goods which are temporarily imported from abroad and which are entitled to an exemption from import duty or subject to other special incentives are subject to business turnover tax. The basis for calculation [of the tax] is the actual sale-purchase price at the time [of the transaction].\nChapter 3 Business Turnover Tax Rates and Declaration and Payment of Business Turnover Tax"
+   }
+  },
+  {
+   "id": "LA-H020-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Article 17"
+   },
+   "heading": {
+    "en": "Rates of Business Turnover Tax"
+   },
+   "text": {
+    "en": "There are 2 business turnover tax rates for domestic production, importation, sale [and] services: 5 % and 10 % as provided in the following table:\n1. Domestic Production, Importation and Sale Business Turnover Tax Rates No Descriptions Domestic Production Importation and Sale of Goods 1 Seedlings; Exempt 5% 2 Produce from cultivation and livestock; Exempt 10% 3 Agricultural products such as: rice, tapioca, and corn flour and other kinds of flour;\nExempt 10% 4 Food products including food additives; Exempt 10% 5 Milled rice, unmilled rice, salt; Exempt 10% 6 Malt, wheat; Exempt 5% 7 Fertilizer, animal feed, broken rice, rice bran; Exempt 5% 8 Raw materials, semi-finished goods, chemicals used for agricultural, industrial and handicrafts 5% 5% 14 The translators are aware that a similar concept is addressed in Article 27 fourth bullet point but the language in the two provisions is slightly different.\n8 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR production;\n9 Machinery, equipment used in cultivation, animal husbandry and agricultural, industrial and handicrafts production;\n5% 5% 10 Machinery, vehicles used in clearing, mining, oil and gas [exploration], infrastructure construction such as: bridges, roads, irrigation, dams, and airports including component parts of such infrastructure;\n5% 5% 11 Tools, equipment for fishing, fishery; Exempt 5% 12 Cotton threads; Exempt 5% 13 Silk threads, other fibres (excluding cotton threads);\nExempt 5% 14 All types of cloth (excluding silk and synthetic cloths), clothing, hats, shoes, belts (excluding silver, gold alloy and gold belts), mattresses, pillows and umbrellas;\n5% 10% 15 Products from silk threads and other fibres; 5% 10% 16 Suitcases, travel bags, handbags and similar items;\n5% 10% 17 Household goods made of wood and rattan such as: sofas, tables, chairs, beds, and others;\n5% 10% 18 Watches, eyeglasses; 5% 10% 19 Personal hygiene products and general cleaning items;\n5% 10% 20 Perfume and cosmetic products; 5% 10% 21 Sewing machines including their components and spare parts;\nExempt 5% 22 Medicines for human treatment; 5% 10% 23 General medical equipment; Exempt 5% 24 Educational equipment; Exempt 5% 9 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR 25 Sports and gymnastic equipment; Exempt 5% 26 Regular children's toys; Exempt 5% 27 Products used in drawing and painting, fine arts and handicrafts;\n5% 10% 28 General office equipment including typewriters, mimeograph machines, photocopy machines, calculators, computers including their components and spare parts;\n5% 10% 29 Communication and telecommunication equipment including their components and spare parts;\n5% 10% 30 Water supply; 5% 10% 31 Tools and equipment for water supply; 5% 10% 32 All types of drinking water; 5% 10% 33 Soft drinks, and other kinds of non-alcoholic beverages;\n5% 10% 34 Ice, ice cream; 5% 10% 35 Electricity and electric power generators; 5% 5% 36 Tools and equipment for electricity; 5% 10% 37 Electrical household appliances such as: refrigerators, electric ovens, irons, water cooling machines, rice cookers, boiling pots, fans, vacuum cleaners, washing machines, meat grinders, fruit blenders and similar items, including their components and spare parts;\n5% 10% 38 Air conditioners, heaters, including their components and spare parts;\n5% 10% 39 Televisions, radios, tape recorders, recording devices, hi-fi devices, photo cameras, film cameras, film for shooting movies, photo camera film, video cassettes, recorded audio cassettes, telescopes, similar products including their 5% 10% 10 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR components and spare parts;\n40 Blank audio and video cassettes and blank audio and video CDs;\n5% 10% 41 Musical instruments and components; 5% 10% 42 Billiard or snooker tables, football tables, game boxes and components;\n10% 10% 43 Playing cards and similar items; 10% 10% 44 Unprocessed minerals such as: iron, lead, cast iron, copper and other similar minerals;\n5% 5% 45 Gypsum, lignite, coal; 5% 10% 46 Inflammable gas and other similar gas; 5% 5% 47 Precious metals and stones such as: silver, gold, diamonds, gems, gemstones, pearls and other precious metals;\n5% 10% 48 Charcoal and fire wood; 5% 10% 49 Products from tea, coffee and other crops; 5% 10% 50 Materials and general construction equipment including wood, forest products, rocks, sand, black soil and red soil;\n10% 10% 51 Bricks and tiles; 5% 10% 52 Ships, motorboats for domestic transportation or tourism, including their components and spare parts;\n5% 10% 53 Motorboats and sports equipment; 5% 10% 54 Bicycles, cyclos15, including their components and spare parts;\nExempt 5% 55 Motorcycles, motor cyclos, tuk-tuks, jumbos16, 5% 10% 15 This is a reference to the “cyclo” which is a non-motorised passenger vehicle similar to a trishaw.\n11 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR passenger vehicles, trucks, buses, vans, petroleum trucks, sedans, pick-ups, jeeps, including their components, spare parts and batteries;\n56 All types of inflammable fuel, lubricants, brake oil, hydraulic oil, grease17 and asphalt for roads;\n5% 5% 57 Traditional alcoholic beverages, wine; 5% 10% 58 Beer, alcohol and all types of alcoholic beverages;\n10% 10% 59 Cigarettes containing shredded tobacco, packaged cigarettes including cigars;\n10% 10% 60 Raw tobacco leaves, dry unprocessed18 tobacco leaves;\nExempt 10% 61 Tobacco components, processed19 tobacco leaves and shredded tobacco;\n10% 10% 62 Firecrackers; Banned production Banned importation 63 Rockets, fireworks, matches and all types of match boxes;\n5% 10% 64 Explosive materials used in deriving rocks for construction;\n5% 10% 65 Sports guns, air guns; 5% 10% 66 All types of weapons used in hunting; Banned production Banned importation 67 Electrical toys and toys controlled by a modern system;\n10% 10% 68 Roll paper, pack paper for use in the printing 5% 5% 16 The terms “motor cyclo”, “tuk-tuk” and jumbo” are references to motorised passenger vehicles common in Laos.\n17 The literal term is “sticky oil”.\n18 The literal translation of this phrase is “that have not been through the barn”.\n19 The literal translation of this phrase is “that have been through the barn”.\n12 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR industry;\n69 Paper products; 5% 10% 70 Other goods. 10% 10%\n2. Services No Descriptions Business Turnover Tax Rates 1 Agricultural services using machinery; 5% 2 Analysis of land for cultivation, construction land, forest land and analysis of different minerals;\n5% 3 Land clearing for cultivation and animal husbandry;\n5% 4 Land excavation, sand scooping and land clearing for construction;\n5% 5 Timber exploitation, exploitation of non-timber forest products and other resources;\n10% 6 Activities relating to sawmills, wood and rattan processing plants;\n10% 7 Activities relating to tobacco leaf barns; 10% 8 Medical treatment for humans or animals; 5% 9 Physiotherapy and therapeutic sauna; 5% 10 Abattoirs and general animal slaughter; 5% 11 Printing services; 5% 12 Cleaning services; 5% 13 Security services; 5% 14 Decoration activities; 5% 15 Services relating to the management of markets, 10% 13 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR airports and parking lots;\n16 Construction services relating to bridges, roads, irrigation, dams, harbours and airports;\n10% 17 Construction, installation and general repairs; 10% 18 Activities relating to land development for sale of right to use and real estate construction for sale;\n10% 19 Postal and transportation services; 5% 20 Telecommunication services; 10% 21 Activities relating to hotels, guesthouses, resorts, tourism, food and beverage operations;\n10% 22 Activities relating to entertainment such as: bars, discotheques, karaoke;\n10% 23 Activities relating to working with silver, gold and other materials;\n5% 24 Activities relating to polishing diamonds, gems, gemstones and other materials;\n5% 25 Agency or brokerage activities; 10% 26 Activities relating to advertising, research20, planning and information analysis;\n5% 27 Activities relating to accounting and legal consultancy;\n5% 28 Consultancy services relating to engineering, architecture and other consultancy services;\n10% 29 Activities relating to drama, folklore activities and fine arts;\n5% 30 Activities relating to sports such as: football, volleyball, basketball, boxing, tennis, bowling, gymnastics, horse racing, all kinds of car racing, badminton, golf and other types of sports competition;\n5% 20 This term has the connotation of business rather than scientific research.\n14 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR 31 Activities relating to snooker or billiards; 5% 32 Activities relating to photography, filming, recording and playing, and rental of: movies, discs, videos, CDs, VCDs and DVDs;\n5% 33 Business operations relating to the lease of houses, warehouses, factories, land, machines, vehicles, equipment and other assets;\n10% 34 Services relating to garments, foot wear manufacturing, upholstering and photography21;\n5% 35 Services relating to barbers and beauty salons; 5% 36 Services relating to laundries; 5% 37 Activities relating to lotteries; 10% 38 Services relating to bridges, roads, irrigation and harbours;\n10% 39 Insurance of properties such as: land, water and air transportation vehicles, houses, factory buildings, warehouses, constructed and installed items, survey area, exploration area, transportation of goods and other property insurance for business purposes and for general purposes;\n5% 40 Services relating to pawn shops; 10% 41 Casino activities; 10% 42 Other services. 10%"
+   }
+  },
+  {
+   "id": "LA-H020-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Article 18"
+   },
+   "heading": {
+    "en": "Persons with a Duty to Declare and Pay Business Turnover Tax"
+   },
+   "text": {
+    "en": "Persons with the duty to pay business turnover tax as stipulated in Article 10 of this law must declare and pay business turnover tax for each specific case as follows:\n• On each importation of goods from abroad, the importer must file a customs declaration form with the customs checkpoint in order to 21 The translators are aware that “photography” does not appear to belong in this section (and appears to be a repetition of item 32). However, the translators are unable to resolve this word (which appears in the Lao text) in any other way.\n15 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR make a tax payment. The tax must be paid in full before the goods can be removed from the customs checkpoint;\n• For a sale of goods by the producer, [the producer], the service provider, the importer and the seller must submit a tax declaration to the tax authority at the place where he22 is registered by the 15th day of the following month in order to make monthly business turnover tax payments;\n• In the event that an enterprise or project owner in the Lao PDR has received an invoice from a foreign individual or foreign legal entity conducting activities which have generated income stipulated in"
+   }
+  },
+  {
+   "id": "LA-H020-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Article 12"
+   },
+   "heading": {
+    "en": "of this law [, the enterprise or project owner] must"
+   },
+   "text": {
+    "en": "withhold business turnover tax in order to remit to the State budget as stipulated in articles 14, 15 and 17 of this law.\nEnterprises which carry out business or project owners in the Lao PDR which have withheld business turnover tax from foreign individuals or legal entities which carry out business activities abroad must make a separate tax declaration and file such tax declaration within 15 days from the date of issuance of an invoice.\nChapter 4 Offset of Business Turnover Tax Paid at Initial Stage"
+   }
+  },
+  {
+   "id": "LA-H020-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Article 19"
+   },
+   "heading": {
+    "en": "Businesspersons who are Permitted to Offset Business Turnover Tax"
+   },
+   "text": {
+    "en": "Producers, service providers, importers and the seller of goods as provided in articles 11 and 12 of this law, who have paid business turnover tax at the initial stage, have the right to offset the tax paid against the tax payable monthly. In the event that the tax paid at the initial stage is less [than the tax payable], the difference must be paid. In the event that the tax paid at the initial stage is higher [than the tax payable], the excess amount will be offset against [the tax payable] in the following months.\nPersons with the right to offset such tax shall be those who are registered with the tax authorities and those who maintain proper accounting. They should also have complete documents to evidence their tax payments.\nThe offset of business turnover tax is specified in separate regulations."
+   }
+  },
+  {
+   "id": "LA-H020-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Article 20"
+   },
+   "heading": {
+    "en": "Scope for Offsetting Business Turnover Tax"
+   },
+   "text": {
+    "en": "22 Readers should note that the Lao language does not distinguish between genders in pronouns. In this translation, a reference to a gender is a reference to all genders, unless the context requires otherwise.\nThe translators’ decision to use the male gender was made in the interests of simplicity and consistency.\n16 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR Offsetting business turnover tax paid at the initial stage must be conducted within the following scope:\n• For producers, the amount that can be offset is the amount of tax already paid in connection with the purchase of raw materials, semi-finished materials, production equipment, transportation vehicles, spare parts and various equipment which are used directly in the production;\n• For service providers, the amount that can be offset is the amount of tax already paid in connection with the purchase of transportation vehicles, spare parts or other components which are used directly in the service;\n• For importers, the amount that can be offset is the amount of tax already paid on the goods which has imported for resale or for processing;\n• For the seller of goods, the amount that can be offset is the amount of tax already paid on goods purchased from the importer, the producer and the domestic seller for the purpose of resale or processing.\nNo other offsetting against monthly tax payable is allowed beyond what is stipulated above, such as:\n• Tax paid at the initial stage which is related to service fees;\n• Tax paid at the initial stage in connection with the purchase of transportation vehicles, including components and spare parts which are not directly used in the major activities of an enterprise;\n• Tax paid at the initial stage in connection with the purchase of goods for personal use of the management or the employees of the enterprise."
+   }
+  },
+  {
+   "id": "LA-H020-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Article 21"
+   },
+   "heading": {
+    "en": "Import for the Purpose of Export Production and Import for the"
+   },
+   "text": {
+    "en": "Purpose of Re-export\nProducers or service providers who import for the purpose of export production and importers of goods from abroad for the purpose of re-export to a third country who have paid business turnover tax at the initial stage as stipulated in Article 18 of this law, have the right to offset such tax against the amount of monthly tax payable.\nThe offsetting of tax must be performed in conformity with the conditions stipulated in Article 20 of this law and must be supported by import and export documents."
+   }
+  },
+  {
+   "id": "LA-H020-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Article 22"
+   },
+   "heading": {
+    "en": "Credit of Business Turnover Tax Paid"
+   },
+   "text": {
+    "en": "17 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR In the event of cancelled sales of goods or services between the buyer and the seller[,] the business turnover tax paid may be credited against the tax payable within the month of such cancellation of sales or against the tax payable in the following months.\nPart IV\nExcise Tax\nChapter 1 Scope of Excise Tax, Goods and Services Subject to Excise Tax and Exempt from Excise Tax"
+   }
+  },
+  {
+   "id": "LA-H020-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Article 23"
+   },
+   "heading": {
+    "en": "Excise Tax"
+   },
+   "text": {
+    "en": "Excise tax [refers to] an indirect tax which is collected from certain types of luxury goods and services."
+   }
+  },
+  {
+   "id": "LA-H020-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Article 24"
+   },
+   "heading": {
+    "en": "Scope of Excise Tax"
+   },
+   "text": {
+    "en": "Excise tax is collected from certain types of goods and services which are sold or provided within the territory of the Lao PDR."
+   }
+  },
+  {
+   "id": "LA-H020-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Article 25"
+   },
+   "heading": {
+    "en": "Goods and Services Subject to Excise Tax"
+   },
+   "text": {
+    "en": "The types of goods and services subject to excise tax are as follows:\n1. Inflammable fuel;\n2. Alcohol or alcoholic beverages;\n3. Soft drinks, mineral water, soda, stimulant beverages, instant beverages and other similar beverages;\n4. Cigarettes containing shredded tobacco, packaged cigarettes, cigars;\n5. Perfumes, cosmetic products;\n6. Playing cards and similar items, rockets and fireworks;\n7. Vans, buses, trucks, sedans, pick-ups, jeeps, and motorbikes;\n8. Speedboats, motorised sports boats including the engine and components;\n9. Electrical equipment: air conditioners, satellite receivers, audio and visual players, photo cameras, audio and visual recorders, musical instruments including their equipment and components;\n10. Freezers, water heaters, washing machines, vacuum cleaners;\n11. The importation, sale and services relating to billiard or snooker tables, football tables and other game machines;\n12. Services relating to entertainment: bars, discotheques, karaoke;\n13. The use of mobile phone services, cable television, internet;\n14. Activities relating to lotteries;\n15. Activities relating to casinos.\n18 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR"
+   }
+  },
+  {
+   "id": "LA-H020-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Article 26"
+   },
+   "heading": {
+    "en": "Goods and Services Exempt from Excise Tax"
+   },
+   "text": {
+    "en": "The following goods and services are exempt from excise tax:\n• Goods and services stipulated in Article 25 of this law exported for sale abroad upon a certification by the relevant officials of the Lao PDR;\n• Lamp oil;\n• 90 percent proof alcohol for medical use;\n• Certain types of goods and services distributed or provided to foreign diplomatic organisations and international organisations in the Lao PDR in accordance with regulations issued by the Ministry of Foreign Affairs;\n• Goods which are exempt from import duty in accordance with the Customs Law.\nChapter 2 Basis for Calculation, Rate, Declaration and Payment of Excise Tax"
+   }
+  },
+  {
+   "id": "LA-H020-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Article 27"
+   },
+   "heading": {
+    "en": "Basis for Calculation of Excise Tax"
+   },
+   "text": {
+    "en": "The basis for calculation of excise tax is determined for each specific case as follows:\n• For goods imported from abroad the basis for calculation is the declared value for customs plus customs duty ;\n• For domestically produced goods and [goods] produced under contract, [the basis for calculation] is the cost [of] sale at the place of production excluding excise tax;\n• For services [the basis for calculation] is the service cost excluding excise tax;\n• For goods and services for personal use and to be given out as gifts, [and] prizes , [the basis for calculation] is the cost of similar goods and services sold and provided to others at the price in that particular location and at such time.\nThe amount for calculation of tax in this article includes the total cost from additional payments."
+   }
+  },
+  {
+   "id": "LA-H020-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Article 28"
+   },
+   "heading": {
+    "en": "Rates of Excise Tax"
+   },
+   "text": {
+    "en": "The details of excise tax rates are as follows:\nNo Types of Goods and Services Subject to Rates in 19 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR Excise Tax Percentage 1 Inflammable fuel:\n- Super gasoline 25% - Regular gasoline 24% - Diesel 12% - Aviation gasoline 10% - Lubricant oil, hydraulic oil, grease and brake oil 5% 2 Alcohol or alcoholic beverages:\n- Alcohol or alcoholic beverages over 15% proof 70% - Alcohol, wine and other alcoholic beverages under 15% proof 60% - Beer 50% 3 Mineral water, instant beverages and other similar beverages 10% - Carbonated beverages 20% - Soda and stimulant beverages 30% 4 Cigarettes containing shredded tobacco, packaged cigarettes and cigars;\n55% 5 Perfumes and cosmetic products ; 30% 6 Playing cards and similar items, rockets and fireworks; 70% 7 Cars:\n- Vans with 15 seats and less 25% - Buses with more than 15 seats 20% - All kinds of trucks 10% - All kinds of motorcycles 20% - Soft roof jeeps 30% - Hard roof jeeps under 2,000 CC 65% - Hard roof jeeps from 2,001 CC to 4,000 CC 70% - Hard roof jeeps with more than 4,001 CC 75% - Sedan cars under 1,000 CC 60% - Sedan cars from 1,001 CC to 1,500 CC 65% 20 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR - Sedan cars from 1,501 CC to 3,000 CC 75% - Sedan cars with more than 3,001 CC 90% - 2-door pickups, 2 and a half doors (high or low) 20% - 4-door pickups, 4 and a half doors (high or low) 25% 8 Speed boats, sport motor boats including engines and components;\n10% 9 Electrical equipment: air conditioners, satellite receivers, audio and visual players, photo cameras, audio and visual recorders, musical instruments including their equipment and components;\n15% 10 Freezers, water heaters, washing machines, vacuum cleaners;\n10% 11 Importation, sale and services relating to billiard or snooker tables, football tables and other game machines;\n20% 12 Entertainment services: bars, discotheques, karaoke; 25% 13 The use of mobile phone services, cable television, internet; 10% 14 Lottery activities; 10% 15 Casinos activities. 15% For inflammable fuel, the government will determine a specific rate (%) and an ad valorem rate (monetary amount per unit23) in accordance with the economic situation from time to time.\n23 The monetary amount per unit would be e.g., x Kip per litre.\n21 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR"
+   }
+  },
+  {
+   "id": "LA-H020-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Article 29"
+   },
+   "heading": {
+    "en": "Declaration and Payment of Excise Tax"
+   },
+   "text": {
+    "en": "Importers, [and] producers of certain types of goods and service [providers] of certain types of services stipulated in Article 25 of this law have the duty to declare and pay excise tax in accordance with the following:\n• For importation, the importer must submit a customs declaration form at each importation of goods to the customs checkpoint in order to make tax payment. The tax must be paid in full before the goods can be removed from the customs checkpoint;\n• In the case of domestic production and services, the producer and service provider must submit a monthly excise tax declaration to the tax authority where it is registered by the 15th day of the following month in order to make the monthly excise tax payment.\nPart V\nProfit Tax\nChapter 1 Scope, Persons Subject to Profit Tax"
+   }
+  },
+  {
+   "id": "LA-H020-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Article 30"
+   },
+   "heading": {
+    "en": "Profit Tax"
+   },
+   "text": {
+    "en": "Profit tax [refers to] a direct tax which is imposed on the profit of individuals or legal entities which conduct business in manufacturing, trade and services."
+   }
+  },
+  {
+   "id": "LA-H020-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Article 31"
+   },
+   "heading": {
+    "en": "Scope of Profit Tax"
+   },
+   "text": {
+    "en": "The profit tax is collected from the annual profit of persons generating profit regardless of whether the person generating profit is an individual or a legal entity in the Lao PDR or in a foreign country as stipulated in Article 2 and Article 33 of this law."
+   }
+  },
+  {
+   "id": "LA-H020-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Article 32"
+   },
+   "heading": {
+    "en": "Profit Subject to Tax"
+   },
+   "text": {
+    "en": "Profit from business operations [refers to] the profit which arises from conducting agricultural and forestry production business, industry and handicrafts [business], including exploitation of natural resources, import-export trade, wholesale, retail and general services such as: logging, mining, transportation, postal [services], telecommunications, construction, repair, land development for sale of the right to use, contracting for or operating markets, bidding and construction of various projects sponsored by State funds, aid funds or foreign loans, banking activities, activities of financial institutions, insurance, hotel activities, tourism, food and beverage operations, casino activities, lottery activities, artistic activities, sports, agency or brokerage activities.\n22 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR"
+   }
+  },
+  {
+   "id": "LA-H020-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Article 33"
+   },
+   "heading": {
+    "en": "Persons Subject to Profit Tax"
+   },
+   "text": {
+    "en": "Sole-trader enterprises and legal entities which belong to Lao citizens, [resident] aliens, [and] apatrids24 [,] including foreigners which carry out activities which generate profit in the Lao PDR[,] must pay profit tax to the State budget.\nFor enterprises which carry out business in a foreign country[,] but [which] carry out activities or enter into joint ventures under contracts which generate income in the Lao PDR, such enterprises must declare and pay profit tax in the Lao PDR. Before making payment to such foreign enterprises[,] project owners or enterprises must withhold profit tax in order to pay to the State budget."
+   }
+  },
+  {
+   "id": "LA-H020-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Article 34"
+   },
+   "heading": {
+    "en": "Exemption from or Reduction of Profit Tax"
+   },
+   "text": {
+    "en": "Persons who have been licensed by the government to invest in projects and other priority areas in the Lao PDR shall receive tax exemptions or shall pay profit tax at a reduced rate on a case by case basis in accordance with the law on promotion of investment.25 In order to receive tax exemptions or to pay [profit] tax at a reduced rate, investors mentioned above must maintain a proper accounting system in accordance with the Enterprise Accounting Law.\nIn the event of natural disasters such as typhoons, diseases, fire, [and] war, the exemption from profit tax or reduction of profit tax will be decided by the government.\nChapter 2 Basis for Calculation and Rates of Profit Tax"
+   }
+  },
+  {
+   "id": "LA-H020-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Article 35"
+   },
+   "heading": {
+    "en": "Basis for Calculation of Profit Tax"
+   },
+   "text": {
+    "en": "The basis for calculation of profit tax consists of two methods26 as follows:\n1. Based on the advanced27 or the ordinary accounting system;\n24 Readers may wish to refer to the Law on Lao Nationality for the distinction between aliens, apatrids (i.e. persons unable to certify their nationality) and foreign individuals.\n25 This reference is deliberately in lower case because it could pertain to both the foreign and domestic investment laws.\n26 There are two regimes for profit tax. In the first regime are enterprises that keep two kinds of accounts. Therefore, there is a total of three methods of calculating the tax basis.\n23 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR The basis for calculation of profit tax for sole-trader enterprises and legal entities which maintain the advanced or ordinary accounting system as are stipulated in the Enterprise Accounting Law consists of two methods as follows:\n• Net profit at the close of the accounting year [, which refers to] the difference between the actual remaining value of assets at close of accounts and the actual remaining value of assets at the start of the accounting year minus the amount of additional capital contributed plus personal drawings of [shareholders of] the enterprise within the accounting year.\n• The difference between the gross income and total authorised [deductible] expenses of the accounting year.\n2. Based on the basic accounting system.\nThe basis for calculation of profit tax of small business persons and freelancers which maintain the basic accounting system is the difference between the gross income and the total authorised [deductible] expenses of the accounting year. In the event that the difference cannot be calculated, the gross annual profit [will be treated as the basis for calculation].\nThe gross annual profit is the annual income multiplied by the profit ratio of each type of activity.\nThe government is to define clearly the regulations regarding the administration of taxpayers according to the basic accounting system and the profit ratio of each type of activity."
+   }
+  },
+  {
+   "id": "LA-H020-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Article 36"
+   },
+   "heading": {
+    "en": "Method of Calculation of Profit Tax"
+   },
+   "text": {
+    "en": "The method of profit tax calculation is a calculation of an annual payment on the basis of total profit within the year.\nThe calculation of annual profit tax payable is as follows:\n1. For legal entities which carry out business activities and social organisations[,] the profit tax is calculated on the total annual net profit according to the flat rate28 provided in Article 40 of this law;\n2. For sole-trader enterprises[,] before calculating [profit] tax of those who have profit from carrying out business or from freelance 27 This is literal translation. It refers to an accrual system, whereas the term “ordinary” refers to an intermediate system between accrual system and a cash system (which is addressed in the next paragraph).\n28 This is reference to flat rate of 35% in first bullet point of Article 40.\n24 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR activities the annual exempt amount must be deducted from the total annual income subject to [profit] tax.\nIn the event that the taxpayer has paid profit tax on a quarterly basis in accordance with Article 43 of this law there must be a recalculation of the actual annual profit tax payable.\nIncome and expense in foreign currency must be converted into Kip currency in accordance with the bank exchange rate from time to time."
+   }
+  },
+  {
+   "id": "LA-H020-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Article 37"
+   },
+   "heading": {
+    "en": "Deductible Expenses"
+   },
+   "text": {
+    "en": "Businesses that maintain the advanced or the ordinary accounting system are allowed to deduct annual deductible expenses as follows:\n1. General Expenses Relating to Business Operations:\n• The cost of electricity, water supply, telephone, advertising [and] repairs;\n• The cost of travel, entertaining guests can be deducted up to\n0.40% of the annual income for each type of expense;\n• Salaries of staff [and] workers including social welfare, [and] social security costs;\n• Service fees, [and] interest expenses on loans, [and] transportation charges;\n• The cost of rental of premises for business operations;\n• Property insurance premiums of enterprises;\n• Business turnover tax [not permitted] to be offset29 and other fees.\n2. Fixed Asset Depreciation:\nA depreciation deduction [refers to] a deduction of the reduction in value of fixed assets which have depleted over their period of use or whose technical [capacity] has changed30 in order to accrue funds to purchase a new asset in the future to replace the old one.\n29 The literal translation of this term is “non-deductible” or “non-offsettable”. Readers can refer to"
+   }
+  },
+  {
+   "id": "LA-H020-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Article 20"
+   },
+   "heading": {
+    "en": "for description of paid business turnover tax that can be offset from monthly bu"
+   },
+   "text": {
+    "en": "tax payments.\n30 This appears to be a reference to assets whose technical capacities have been surpassed by newer technology, thereby reducing their current value, and such reduction in value can be taken as a deduction.\n25 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR The calculation of the depreciation deduction based on the period of use shall be performed in accordance with the rates provided in the table below:\nDepreciable Fixed Assets of Enterprises Period of Use\nAnnual\nDeduction\nRate\nEnterprise establishment cost 2 years 50% Structures used for industrial purposes:\n- 20 years old and less - From 21 to 40 years old 20 years 40 years 5%\n2.5% Structures used for commercial and residential purposes:\n- permanent structures - semi-permanent structures 20 years 10 years 5% 10% Machinery, excavators, clearing and hauling vehicles used in industry, agriculture, handicrafts and other construction work 5 years 20% Land transport vehicles 5 years 20% Equipment or sets of tools used for professional purposes or certain works 5 years 20% Office equipment and supplies 10 years 10% Installations, improvements and decorations 10 years 10% Ships and passenger aircraft 20 years 5% The depreciation deduction [which] may be calculated using either a fixed method or a reduced value method is based on the cost of fixed assets. The depreciation which has already been calculated must be shown in the general ledger at year end. The total annual depreciation or [depreciation for] a portion of the year which has not been recorded in the accounts shall not be considered as expenses which may be deducted from annual profit. In the event of a sale of any asset during the year, the annual depreciation or the [depreciation for] a portion of the year shall be deducted from the cost in order to calculate the excess value or reduced value31 of such asset.\nA fixed asset which has been fully depreciated according to the period of use must not be deducted in the following year.\n31 The terms “excess value” and “reduced value” appear to be references to the capital gain and capital loss, respectively, that may be realised on the sale of the asset.\n26 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR\n3. Reserves for unexpected expenses and risks that are highly likely to occur, amortization of fixed assets32, stock33 value, value of accounts receivable.\nReserves which are not applied according to plans34 or are not used or are not fully used must be recorded as annual profit subject to tax.\nFreelancers are not authorized to establish any kind of reserves for deduction from annual profit."
+   }
+  },
+  {
+   "id": "LA-H020-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Article 38"
+   },
+   "heading": {
+    "en": "Non- Deductible Expenses"
+   },
+   "text": {
+    "en": "Expenses that are not deductible in calculating the annual profit tax of businesses that maintain the advanced or the ordinary accounting system are as follows:\n• Expenses which are not directly related to business operations such as: golfing, dancing, sports, and other entertainment [activities];\n• Profit tax and minimum tax of enterprises;\n• Salaries which a partnership company pays to its partners or the salary that the owner of a sole-trader enterprise pays to himself;\n• Interest paid on [loans] taken by the shareholder in order to pay for the capital investment;\n• All types of fines;\n• Donations, support payment, gifts and prizes.\nThese non-deductible expenses may be used only when profit tax has been paid35, [and] for companies that have entered into a joint venture with the State [, such non-deductible expenses] may be used only after paying dividends to the State."
+   }
+  },
+  {
+   "id": "LA-H020-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Article 39"
+   },
+   "heading": {
+    "en": "Calculation of Profit Tax using the Deemed Method36"
+   },
+   "text": {
+    "en": "Individuals or legal entities that do not maintain an accounting system or do not properly maintain an accounting system are subject to the following:\n32 In the Lao language, the same term “fixed asset” is used for both tangible and intangible fixed assets. In the context of “amortization”, this appears to be a reference to intangible fixed assets.\n33 This term refers to “stock” in the sense of inventory.\n34 This term has the connotation of “in accordance with the purpose of the reserve”.\n35 The phrase “may be used only when profit tax has been paid” is intended to designate these as “after tax” expenses.\n36 The literal translation of this term is “compulsory” method.\n27 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR The basis for calculation of the profit tax payable is the annual income multiplied by the profit ratio of each type of activity as provided in Article 35 of this law. In the event that individuals or legal entities are not able to determine their income, the tax authority shall collaborate with the other relevant sectors37 and shall determine the income based upon the actual38 information and data."
+   }
+  },
+  {
+   "id": "LA-H020-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Article 40"
+   },
+   "heading": {
+    "en": "Profit Tax Rates"
+   },
+   "text": {
+    "en": "The profit tax rates consist of general rates and reduced rates as follows:\n1. General Rates:\n• The rate of 35 % applies to businesses of legal entities.\n• The profit tax rate of foreign investors is stipulated in the law on the promotion of foreign investment39 in the Lao PDR which is in force;\n• Sole-trader enterprises, enterprises which pay tax based on a basic accounting system and freelancers shall follow the table below:\nLevel Taxable Profit at Each Level Basis ofcalculation Tax rate Profit Tax at each Level Total Taxes Payable 1 2 3 4 5 2,400,000 Kip and below 2,400,001 Kip to 5,000,000 Kip 5,000,001 Kip to 10,000,000 Kip 10,000,001 Kip to 30,000,000 Kip 30,000,001 Kip to 60,000,000 Kip Above 60,000,000 Kip 2,400,000 2,600,000 5,000,000 20,000,000 30,000,000 …… 0% 10% 15% 20% 30% 35% 0 260,000 750,000 4,000,000 9,000,000 …… 0 260,000 1,010,000 5,010,000 14,010,000 …… 37 The word “sector” is often used to refer to the cluster of government ministries or agencies engaged in a particular activity.\n38 The term “actual” may suggest obtaining information from other similar activities that have available accounts or obtaining information about this taxpayer which the authorities are able to obtain from other sourses.\n39 This reference is intentionally written in lower case because it refers to whichever promotion law is then in force.\n28 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR\n2. Reduced Rates:\nReduced rates are determined in the law on promotion of domestic investment or the law on promotion of foreign investment which are in force.\nChapter 3 Declaration and Payment of Profit Tax, Closing of Accounts40 and Carry Forward of Losses"
+   }
+  },
+  {
+   "id": "LA-H020-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Article 41"
+   },
+   "heading": {
+    "en": "Regime of Profit Tax Declaration"
+   },
+   "text": {
+    "en": "1 . Profit tax payment based on actual income [of] taxpayers using the advanced or ordinary accounting system which are individuals or legal entities41:\n• Taxpayers who maintain the advanced accounting system [refers to] those who have annual business income of more than two billion four hundred million Kip (2,400,000,000 Kip);\n• Taxpayers who maintain the ordinary accounting system [refers to] those who have annual business income from two hundred million Kip (200,000,000 Kip) to two billion four hundred million Kip (2,400,000,000 Kip).\n2. The payment of profit tax based on the basic accounting system [refers to] payment by persons who conduct small businesses or freelancers who have annual business income of less than two hundred million Kip (200,000,000 Kip).\nTax authorities shall collaborate with relevant sectors to calculate and determine payment of profit tax and other taxes prescribed by the State and must stipulate [such calculation and determination] in the agreement between the tax authority and the taxpayer based on the assessment of the annual income. Such agreement is effective for one year. In the event that the taxpayer has the intention to terminate the agreement [such taxpayer must] give 60 days notice prior to the expiration of the agreement to the tax authority. The tax authority has the right to terminate the agreement at all times if it finds that the taxpayer's activities have expanded beyond what was determined in the agreement, and the [tax authority has the right] to demand collection of taxes from the excess [income] derived from such increased activities, based upon complete information confirming such [excess income].\n40 The Lao language uses two terms “closing of accounts” and “summary of accounts” interchangeably. The translators have simply chosen “closing of accounts”.\n41 This is a literal translation. This sentence appears to be a title or description of the two bullet points to follow.\n29 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR"
+   }
+  },
+  {
+   "id": "LA-H020-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Article 42"
+   },
+   "heading": {
+    "en": "Summary of Accounts and Profit Tax Declaration"
+   },
+   "text": {
+    "en": "The summary of accounts of business persons and freelancers including their branches and representatives must be consolidated with the summary of accounts of the parent company in order to calculate, declare and make annual profit tax payment [at the tax office] where the parent company is registered for tax purposes."
+   }
+  },
+  {
+   "id": "LA-H020-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Article 43"
+   },
+   "heading": {
+    "en": "Payment of Profit Tax"
+   },
+   "text": {
+    "en": "Business persons who pay profit tax according to the advanced or the ordinary accounting system must pay profit tax on a quarterly basis, based upon the previous year's profit, or the profit projected in the plan for the accounting year. The actual amount of annual tax payable shall be recalculated in the last quarter at the closing of the accounts at year end, profit tax payment must be made in four quarters each of 3 months as follows:\n• Before the 10th of April for the first quarter;\n• Before the 10th of July for the second quarter;\n• Before the 10th of October for the third quarter;\n• Before the 10th of March of the following year for the fourth quarter.\nIn the event that the profit tax paid quarterly within the year exceeds the actual annual profit tax payable, the excess profit tax paid shall be offset against profit tax payable in the following year.\nA balance sheet and other accounting documents must be filed with the tax authority before the first of March of every year. Minutes of the meetings of the shareholders or of the partners of the company regarding the use of or the distribution of dividends must be filed with the tax authority within ten days from the closing date of the partners' or shareholders' meeting.\nGroups of companies consisting of many enterprises in different sectors which have common investments must file a consolidated balance sheet and a consolidated profit and loss statement and must report other benefits to the tax authority where [such group] is registered for tax purposes in accordance with the timetable stipulated above.\nTaxpayers who pay profit tax based on the basic accounting system must pay obligations in accordance with the terms of their agreements.\nBefore making a payment to individuals or legal entities in a foreign country who carry out activities that generate income as stipulated in Article 33, paragraph 2 of this law, the project or enterprise owner carrying out business in 30 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR the Lao PDR must withhold profit tax in order to pay to the State budget in accordance with the calculation stipulated in Article 39 and Article 40 of this law.\nThe project or enterprise owner who carries out business in the Lao PDR who has withheld tax from an individual or legal entity which carries out business in a foreign country must file a separate tax declaration within thirty days from the date of withholding such tax."
+   }
+  },
+  {
+   "id": "LA-H020-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Article 44"
+   },
+   "heading": {
+    "en": "Carry Forward of Annual Losses to the Following Year"
+   },
+   "text": {
+    "en": "Business persons and freelancers who pay profit tax based on the advanced or ordinary accounting system [, who] maintain complete accounts in accordance with the Law on Enterprise Accounting and who suffer annual losses may, pursuant o approval by the tax authority, carry [such losses] forward for deduction from the profit within the following three years. Upon expiration of this period, any remaining loss may not be further deducted from the profit."
+   }
+  },
+  {
+   "id": "LA-H020-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Article 45"
+   },
+   "heading": {
+    "en": "Request to Maintain Accounts"
+   },
+   "text": {
+    "en": "Taxpayers who maintain the basic accounting system or those who are eligible to pay tax based on such accounting system who wish to pay profit tax based on the ordinary accounting system have the right to request to change to the tax authority where they are registered for tax purposes and will obtain approval as requested.\nFor taxpayers to whom an agreement still applies, the request to change the tax payment system must be submitted no later than sixty days before the expiration of the agreement."
+   }
+  },
+  {
+   "id": "LA-H020-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Article 46"
+   },
+   "heading": {
+    "en": "Closing of Accounts"
+   },
+   "text": {
+    "en": "Business persons or freelancers who pay profit tax based the advanced accounting system or the ordinary accounting system must close their accounts on 31 December of each year, except in the case of cessation, sale, assignment or transfer of business activities to another person during the year or when business activities have been completed."
+   }
+  },
+  {
+   "id": "LA-H020-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Article 47"
+   },
+   "heading": {
+    "en": "Cessation, Sale, Assignment or Transfer of Business Activities"
+   },
+   "text": {
+    "en": "When there is a cessation, sale, assignment or transfer of activities, in part or in whole to another person, business persons or freelancers must close their accounts and file with the tax authority where that person is registered for tax purposes within ten days from the date of such cessation, sale, assignment or transfer in order to fully pay outstanding taxes. If it is a sale, assignment or transfer of activities to another person, a detailed notice containing the name and surname, and address of the buyer, the assignee or the transferee must be given.\n31 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR In the event that the business person dies the successor has the duty to provide the necessary information regarding the declaration of income to the tax authority within ninety days from the date the business person died in order to pay outstanding tax on behalf of the deceased. Liability for tax payment on behalf of the deceased is restricted to the amount of the inheritance received.\nChapter 4 Minimum Tax"
+   }
+  },
+  {
+   "id": "LA-H020-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Article 48"
+   },
+   "heading": {
+    "en": "Minimum Tax"
+   },
+   "text": {
+    "en": "The minimum tax [refers to] a direct tax, which is a minimum obligation of business persons and freelancers who pay profit tax based on the advanced or ordinary accounting system and who have declared a loss or have a profit under a certain level as provided in the law."
+   }
+  },
+  {
+   "id": "LA-H020-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Article 49"
+   },
+   "heading": {
+    "en": "Persons who shall pay Minimum Tax"
+   },
+   "text": {
+    "en": "Business persons and freelancers within the territory of the Lao PDR, regardless of whether they are individuals or legal entities, Lao, resident aliens, apatrids [or] foreigners, who pay tax based on the advanced or the ordinary accounting system and who have declared a loss or have a profit under a certain level must pay a minimum tax."
+   }
+  },
+  {
+   "id": "LA-H020-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Article 50"
+   },
+   "heading": {
+    "en": "Minimum Tax Exemption"
+   },
+   "text": {
+    "en": "Persons who are exempt from the minimum tax include:\n• Foreign investors who are in the period of the annual profit tax exemption pursuant to the law on the promotion of foreign investments in the Lao PDR;\n• Domestic investors who are in the period of the annual profit tax exemption pursuant to the law on the promotion of domestic investments;\n• Taxpayers who pay profit tax based on the basic accounting system.\n• Companies which make a loss or have a profit under a certain level and which have been certified by an audit organisation or audit firm which is recognised by the government of the Lao PDR."
+   }
+  },
+  {
+   "id": "LA-H020-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Article 51"
+   },
+   "heading": {
+    "en": "Minimum Tax Rates"
+   },
+   "text": {
+    "en": "The minimum tax consists of two rates as follows:\n32 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR • The rate of the minimum tax shall be 0.25% of the annual total business income excluding business turnover tax, for all types of domestic manufacturing activities;\n• The rate of the minimum tax shall be 1% of the annual total business income excluding business turnover tax, for trade and services including freelancers."
+   }
+  },
+  {
+   "id": "LA-H020-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Article 52"
+   },
+   "heading": {
+    "en": "Calculation and Payment of Minimum Tax"
+   },
+   "text": {
+    "en": "The minimum tax is a tax payable annually based on the total business income excluding business turnover tax or the total income of the previous year according to the rates stipulated in Article 51 of this law.\nPersons with the duty to pay tax must file a tax declaration to the tax authority where such person is registered for tax purposes before 1 March of each year in order to calculate and to issue an order to pay tax."
+   }
+  },
+  {
+   "id": "LA-H020-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Article 53"
+   },
+   "heading": {
+    "en": "Deduction of Minimum Tax"
+   },
+   "text": {
+    "en": "Annual profit tax which has been paid quarterly within the year must be credited against the minimum tax payable. If the minimum tax paid is higher than the annual profit tax payable the minimum tax paid shall be considered as a tax obligation.\nPart VI\nIncome Tax\nChapter 1 Scope of Income Tax and Persons Subject to Income Tax"
+   }
+  },
+  {
+   "id": "LA-H020-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Article 54"
+   },
+   "heading": {
+    "en": "Income Tax"
+   },
+   "text": {
+    "en": "Income tax [refers to] a direct tax imposed on the income of individuals or legal entities who generate income as provided in this law."
+   }
+  },
+  {
+   "id": "LA-H020-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Article 55"
+   },
+   "heading": {
+    "en": "Scope of Income Tax and Income Tax Obligations"
+   },
+   "text": {
+    "en": "Organisations, individuals or legal entities whether Lao, [resident] aliens, foreigners, including apatrids[,] generating income in the Lao PDR in accordance with the provisions of Article 56 of this law must pay income tax to the State budget.\nA resident of the Lao PDR who works abroad for less than 180 days and who earns income has the duty to declare and pay income tax in the Lao PDR if that person is exempt from having to pay income tax abroad.\n33 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR Lao employees working in embassies, consular offices or international organisations abroad must declare and pay income tax in accordance with the regulations of the Lao PDR.\nForeign persons working in the Lao PDR who receive their salaries abroad must pay income tax in Laos if they reside in Laos for more than one hundred eighty days in [any] tax year, unless there is a separate agreement between the government of the Lao PDR and the relevant party."
+   }
+  },
+  {
+   "id": "LA-H020-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Article 56"
+   },
+   "heading": {
+    "en": "Income Subject to Tax"
+   },
+   "text": {
+    "en": "Income subject to tax is as follows:\n1. Income from salary, general labour wages, bonuses, position and title honoraria, annual allowances, allowances relating to board of directors meetings of a company and other benefits received in cash or in kind;\n2. Income from movable property such as: distribution of dividends or other benefits to the partners or shareholders of a company, profit from the sale of shares, interest income from loans, guarantee42 fees received according to a contract or other binding obligations except when there is a separate agreement between the government of the Lao PDR and the relevant party;\nIncome from dividends or other benefits which are subject to tax, including profits which have been used in any form whether directly or indirectly, except profits which have been maintained in the reserves or which have been [re-]invested in the company capital; annual allowances, allowances relating to board of directors meetings, benefits received from the increase or the decrease of the company's capital, merger, the transfer of shares, value added arising from the winding up or liquidation of a company;\n3. Income from immovable property such as: lease of land, houses, or other property including other benefit sin kind;\n4. Income from patents, copyright, trademarks or other intellectual property."
+   }
+  },
+  {
+   "id": "LA-H020-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Article 57"
+   },
+   "heading": {
+    "en": "Tax Exempt Income"
+   },
+   "text": {
+    "en": "Tax exempt income is as follows:\n42 The same word may also be translated as “security”.\n34 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR\n1. Income from agricultural production generated by farmers themselves;\n2. Salary income below43 the level of the lowest wage stipulated in Table 1 of Article 60 of this law44;\n3. Salaries of foreign experts implementing aid projects in the Lao PDR, as provided for in an agreement between the Lao government and the relevant party;\n4. Salaries of diplomats and employees of other international organisations located in the Lao PDR;\n5. Certain types of allowances which have been approved within the scope of the Labour Law;\n6. Moneys withheld for pension funds or some other welfare funds, spousal or child allowances;\n7. One-time allowances, pensions, [and] per diems;\n8. Income from artistic activities, sports, charity or other public activities which have been properly authorized;\n9. Interest on deposits, interest on government bonds or debentures45;\n10. Social security;\n11. Lottery winnings;\n12. Allowances which are rewards or prizes paid by an official authority to those with a good record of monitoring46, seeking out, defending against, combating against and preventing wrongful acts that violate the laws and regulations of the country; [and]\n13. Prizes [received] for achievements in relation to scientific research and invention.\n43 The Lao word is ambiguous as to whether the range includes the level or starts below it.\n44 This is a reference to the wage specified in Level 1 of Table 1.\n45 The literal translation of this term is “share loan”.\n46 In the Lao language, the same word is used to represent all of the following related (but slightly different) concepts: \"control\", \"inspection\", \"supervision\", \"audit\" and \"monitoring\". The translators have adopted the following convention in this law. The term “control” is used primarily when referring to determining compliance with plans and actions established by the tax authority. When referring to State audits of taxpayers, the term “audit” is used. Otherwise the translators have chosen the terms “inspection” and “monitoring” (and variants thereof) as the most appropriate English equivalent. Readers should note and bear in mind the other meanings that might have been intended.\n35 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR Chapter 2 Declaration and Basis of Calculation of Income Tax"
+   }
+  },
+  {
+   "id": "LA-H020-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Article 58"
+   },
+   "heading": {
+    "en": "Declaration and Payment of Income Tax"
+   },
+   "text": {
+    "en": "Persons earning income as stipulated in Article 55 of this law must declare and pay income tax to the relevant tax authority47 as determined by the government."
+   }
+  },
+  {
+   "id": "LA-H020-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Article 59"
+   },
+   "heading": {
+    "en": "Basis for Calculation of Income Tax"
+   },
+   "text": {
+    "en": "The basis for calculation of each type of income tax is as follows:\n1. Income from salaries which is the amount of salary plus the value of material benefits and all other benefits in kind received under the contract;\n2. Income from movable assets which are:\n• The amount of profit or other benefits distributed to partners or shareholders in accordance with the company’s regulations or in accordance with a resolution of the general meeting of shareholders of the company;\n• The amount of profit received from the sale of shares of partners or shareholders;\n• The amount of interest income from loans, security fees received according to a contract or other contractual obligations, whether made by direct payment to the income earner or credited to his account.\n3. Income from immovable property such as rent under a lease or the value of different benefits in kind received according to a contract or other binding obligations;\n4. Income from patents, copyright, trademarks or from other rights which is the total income received according to a contract or other binding obligations."
+   }
+  },
+  {
+   "id": "LA-H020-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Article 60"
+   },
+   "heading": {
+    "en": "Income Tax Rates"
+   },
+   "text": {
+    "en": "1. Income from salary is subject to a progressive tax rate as provided in the tables below:\nTable No.1 is for persons who have an income of not more than one million five hundred thousand Kip:\n47 The literal translation of this term is “tax authority which has the right and duty to administer”.\n36 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR Levels Taxable Salary 48 at each Level Basis of Calculation Tax Rates Salary Tax at each Level 1 2 300,000 Kip and below 300,001 [Kip] to 1,500,000 [Kip] 300,000 1,200,000 0% 5% 0 60,000 Table No.2 is for persons who have an income of more than one million and five hundred thousand Kip:\nLevels Taxable Salary at Each Level Basis ofCalculation Tax Rates Salary Tax at each Level 1 2 3 4 5 From 1 [Kip] to 1,500,000 Kip 1,500,001 [Kip] to 4,000,000 [Kip] 4,000,001 [Kip] to 8,000,000 [Kip] 8,000,001 [Kip] to 15,000,000 [Kip] 15,000,000 Kip and up…...\n1,500,000 2,500,000 4,000,000 7,000,000 …… 5% 10% 15% 20% 25% 75,000 250,000 600,000 1,400,000 ……\n2. Income from patents, copyright, trademarks, and other intellectual property of individuals or legal entities 5%\n3. Income from dividends, profits from the sale of shares, interest from loans, security fees of individuals or legal entities 10%\n4. Income from non-commercial operations of the Lao Front for National Construction, mass organisations and social organisations 10%\n5. Income from the lease of houses, land or other assets. 15% 48 The salaries in Tables 1 and 2 are monthly salaries.\n37 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR Chapter 3 Calculation[,] Declaration and Payment of Income Tax"
+   }
+  },
+  {
+   "id": "LA-H020-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Article 61"
+   },
+   "heading": {
+    "en": "Calculation of Income Tax"
+   },
+   "text": {
+    "en": "Income tax is calculated and paid on an annual basis or [paid] in accordance with the agreement based on the total of all types of income. Before making a tax calculation, income in foreign currencies must be calculated in Kip currency at the bank exchange rate from time to time.\nPersons who receive a salary of 1,500,000 Kip and below who must pay monthly tax [shall,] prior to calculation, deduct the monthly exempt amount in the amount of 300,000 Kip from the salary subject to tax. Persons who receive a salary of more than 1,500,000 Kip must pay in accordance with the progressive rates stipulated in Table 2 of Article 60 of this law.\nIn the event that taxpayers have already paid income tax in advance within the year, the advance tax payment must be credited against annual income tax payable."
+   }
+  },
+  {
+   "id": "LA-H020-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Article 62"
+   },
+   "heading": {
+    "en": "Income Tax on Salary"
+   },
+   "text": {
+    "en": "Income tax on salaries is payable monthly through withholding when paying salaries. The method of calculation of such tax shall be in accordance with the provisions of Article 61 of this law.\nIn the event that a taxpayer receives salary from many different sources or underreports his income, his tax will be recalculated at the end of the year."
+   }
+  },
+  {
+   "id": "LA-H020-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Article 63"
+   },
+   "heading": {
+    "en": "Income from Immovable Property"
+   },
+   "text": {
+    "en": "Income from the lease of immovable property (fixed assets) shall be paid each time the income is received. In the event that a taxpayer has received an advance payment for lease for many years all at once49, the income tax will be calculated for each year, and shall be multiplied by the number of years for which payment has been received in advance."
+   }
+  },
+  {
+   "id": "LA-H020-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Article 64"
+   },
+   "heading": {
+    "en": "Income from Movable Capital"
+   },
+   "text": {
+    "en": "Income tax from dividends, profit from the sale of shares, interest [income from] loans, security fees, income from patents, copyright, trademarks or other intellectual property is payable each time income is derived by withholding when making payment.\n49 This appears to be a reference to a multi-year lease where the rental is paid in advance for several years.\n38 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR In the event that income from movable property has been included in the income of an enterprise which is regularly paying profit tax, such income shall not be subject to income tax. In the event that the income tax has been already withheld from such income, [such tax] must be credited against the annual profit tax payable. In the event that the tax withheld is higher than the annual profit tax payable the balance shall be carried forward for deduction in the following year.\nChapter 4 Submission of Income Tax Declaration"
+   }
+  },
+  {
+   "id": "LA-H020-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Article 65"
+   },
+   "heading": {
+    "en": "Income from Salary"
+   },
+   "text": {
+    "en": "Organisations, enterprises, or individuals who pay salaries to employees, workers, civil servants and other individuals on the basis of a contract or other binding obligation have the duty to calculate and withhold income tax from the monthly salary each month before making payment and submit a tax declaration to the tax authority by the fifteenth of the following month in order to pay tax."
+   }
+  },
+  {
+   "id": "LA-H020-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Article 66"
+   },
+   "heading": {
+    "en": "Income from Immovable Property"
+   },
+   "text": {
+    "en": "Persons who receive income from the lease of immovable property have the duty to file a tax declaration to the tax authority where such taxpayer is registered within ten days from the date of receipt of the rent in order to calculate and issue a tax payment order.\nIn the event that the declaration of the rent in the contract does not reflect the actual [rent], the tax officers have the right to inspect and recalculate the tax by comparing with the average market rent for similar property in the same area.\nIn the event that the right to use land or other assets has been given for no cost, the beneficiary of the use of those assets has the duty to pay income tax on behalf of the owner of such assets. The tax shall be calculated based on the actual situation by comparing with the average market rent for similar property in the same area.\nIn the event that the lessor does not charge for the lease for a certain period of time, because the lessee has himself paid for clearing, construction, maintaining or repairing the location leased, the benefits in kind received by the lessor will be subject to income tax. The basis for the calculation of annual income tax is the value of the clearing, construction, maintenance and all repair costs divided by the amount of time that the lessee has not paid for the lease.\nIn the event that there is no tax declaration and payment within [the specified] period, the person earning income from the lease shall be subject to a compulsory tax payment in accordance with the provisions of Article 82 of this law.\n39 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR"
+   }
+  },
+  {
+   "id": "LA-H020-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Article 67"
+   },
+   "heading": {
+    "en": "Income from Movable Capital"
+   },
+   "text": {
+    "en": "Individuals or legal entities which distribute dividends, profit from the sale of shares, interest income on loans, income from security and income from patents, copyright, trademarks or other intellectual property to income earners, have the duty to withhold tax and file a list50 with the tax authority where the person is registered within ten days from the date of payment of such income in order to calculate and issue a tax payment order.\nPart VII\nFees and Service Charges"
+   }
+  },
+  {
+   "id": "LA-H020-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Article 68"
+   },
+   "heading": {
+    "en": "Fees and Service Charges"
+   },
+   "text": {
+    "en": "Fees and service charges are direct obligations of persons, organisations or legal entities which use services in relation to documents51 or other public services."
+   }
+  },
+  {
+   "id": "LA-H020-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Article 69"
+   },
+   "heading": {
+    "en": "Collection of Fees and Service Charges"
+   },
+   "text": {
+    "en": "Government organisations shall collect fees and other service charges from the use of services relating to documents and other public services such as: the issuance of enterprise registration licences, tax registration licences, business licenses, permits, certificates or other official documents, the use of roads, the entry into and exit from the country, the issuance of visas to enter and exit the country, residency in Laos, the use of radio and television satellite receivers, the affixing of advertising signs, shop signs, and other services in the Lao PDR."
+   }
+  },
+  {
+   "id": "LA-H020-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Article 70"
+   },
+   "heading": {
+    "en": "Determination of the Rates of Fees and Service Charges"
+   },
+   "text": {
+    "en": "The rates of fees and service charges of each government sector are determined in presidential edicts in order to meet the actual socio-economic conditions from time to time."
+   }
+  },
+  {
+   "id": "LA-H020-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Article 71"
+   },
+   "heading": {
+    "en": "Remittance of Fees and Service Charges"
+   },
+   "text": {
+    "en": "Revenues generated from fees and service charges must be completely and centrally remitted to the State budget.\n50 The literal translation of this term is “list” although one would expect that such list accompanies a tax declaration. However, the text does not refer to the declaration here.\n51 In the context, it would appear that these are “official” documents. See Article 69.\n40 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR Part VIII Obligations and Rights of Taxpayers, Responsibilities of Persons and Relevant Organisations and Rules on the Administration of Taxes, Fees and Service Charges"
+   }
+  },
+  {
+   "id": "LA-H020-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "Article 72"
+   },
+   "heading": {
+    "en": "Duties and Rights of Taxpayers"
+   },
+   "text": {
+    "en": "1. Taxpayers have the following duties:\n• To register and renew tax registration certificates;\n• To properly, fully and timely calculate, declare and pay tax to the State budget;\n• To be responsible for clear and accurate tax declaration, calculation, offsetting, exemption and reduction;\n• To disclose bank accounts, accounts with the treasury and other credit arrangements to the tax authority;\n• To maintain accounting systems, invoices and other documents in accordance with the laws and regulations;\n• To provide accounting documents, invoices, cash flow accounts and other relevant documents relating to tax calculation to the tax authority at its request;\n• To apply measures decided by the tax authority [and imposed] on the taxpayer pursuant to the laws and regulations;\n2. Taxpayers have the following rights:\n• To request the tax authority to provide information, data, clarification, explanation and advice on policy issues, tax regulations including determination of the taxpayers’ tax obligations;\n• To request the tax authority to keep taxpayers’ information and data confidential;\n• To receive tax reductions and tax exemptions according to the laws and regulations;\n• To request the tax authority to deduct the tax that has been overpaid according to the laws and regulations;\n• To file a complaint to the tax authority for using measures against the taxpayers which they find are inconsistent with the Tax Law;\n• To request the tax authority to refund money or materials to taxpayers in the event that a tax measure has been taken in violation of the laws and regulations and [such measure] has caused damage to such taxpayers;\n• To file a petition regarding the violation of laws and regulations by tax authorities and tax officers.\n41 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR"
+   }
+  },
+  {
+   "id": "LA-H020-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "Article 73"
+   },
+   "heading": {
+    "en": "Responsibility of Organisations and Relevant Persons"
+   },
+   "text": {
+    "en": "Organisations and relevant persons have the responsibility to implement the Tax Law as follows:\n1. To monitor [and] provide data [and] information relating to taxpayers and to coordinate with and provide assistance to the tax authority pursuant to their mandates;\n2. To file a petition regarding violations of the Tax Law. The tax authority and other relevant sectors must not disclose information for the petitioner52;\n3. To strictly prohibit organisations and persons from obstructing, interfering with or threatening tax authorities and officers in the performance of their duties."
+   }
+  },
+  {
+   "id": "LA-H020-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "Article 74"
+   },
+   "heading": {
+    "en": "Tax Calculation and Payment Plan and Maintenance of Accounts"
+   },
+   "text": {
+    "en": "1. Tax calculation and payment plan Business units shall annually file a tax payment plan for each type of tax to the tax authority where they are registered. After receiving such plan the tax authority must compare, [and] analyse with actual information. If it is found that such plan is inappropriate [, the tax authority] must request [such business units] to recalculate. Once the plan has been rectified the business units shall submit [it] to the tax authority before the preparation of the following annual budget in accordance with the regulations.\nIn the event that the rectified payment plan is still inappropriate, the tax authority shall collaborate with other relevant sectors in order to prepare an annual tax payment plan of such enterprise.\n2. Maintenance of Accounts Taxpayers who maintain the advanced, ordinary and basic accounting systems[,] as provided in Article 43 paragraph 1 of this law, must maintain full and accurate accounts in conformity with the rules stipulated in the Enterprise Accounting Law of the Lao PDR.\nBefore using a book of accounts, such book must be registered and allocated with a number, stamped, and certified by the signature of the relevant tax officer. All accounting documents used must be kept for ten years and must be available at all times for inspection by tax officers.\n52 The literal language is slightly awkward but appears to be a reference to the fact that such prohibition of disclosure is “for the good” of the petitioner.\n42 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR A computerized accounting system must be registered in accordance with the accounting regulations."
+   }
+  },
+  {
+   "id": "LA-H020-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "Article 75"
+   },
+   "heading": {
+    "en": "Issuance of Invoices for the Sale of Goods and Services"
+   },
+   "text": {
+    "en": "Persons conducting manufacturing, [or] trade, [persons providing] services and freelancers who pay profit tax according to the advanced, ordinary and basic accounting systems as stipulated in Article 41 of this law must issue an invoice to the buyer or the user of services at the time of each sale of goods or provision of service.\nOrganisations, persons, legal entities using funds from the State budget and all settlements by persons and legal entities which conduct business must use invoices in accordance with the laws and regulations.\nThe organisation administering the tax is to print and administer the use of invoices.\nThe government will determine in detail the administration and use of invoices."
+   }
+  },
+  {
+   "id": "LA-H020-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "Article 76"
+   },
+   "heading": {
+    "en": "Tax Calculation and Collection"
+   },
+   "text": {
+    "en": "Tax calculation and collection will be carried out as follows:\n1. For business units which do not maintain any accounting system or do not maintain a full accounting system and for small businesses paying tax on the basis of the basic accounting system, the tax collection unit shall be responsible for calculating the tax and for issuing a tax payment order and will prepare and submit a daily list to its tax authority53;\n2. Medium and large business units maintaining an accurate and full accounting system as provided in the Accounting Law have the duty to calculate and file tax declarations themselves with the treasury;\n3. The revenue, fees and service charges collection unit54 shall be responsible for calculating and issuing a tax payment order and for collection55 and will prepare and submit a daily list to its tax authority;\n53 This is reference to the tax authority to which the tax collection unit reports.\n54 This is a generic reference to whichever governmental unit is responsible for collecting revenue or fees or services charges, as relevant.\n55 The translators are aware that point 1 is missing the word “collection”.\n43 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR\n4. The tax authority shall be responsible for monitoring and collecting taxes that have been calculated and to fully remit them to the national treasury."
+   }
+  },
+  {
+   "id": "LA-H020-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "Article 77"
+   },
+   "heading": {
+    "en": "Adjustment of Taxes"
+   },
+   "text": {
+    "en": "In calculating the taxes payable, if the amount of taxes calculated yields a number containing a figure in the hundreds [of Kip], such figure shall be rounded up or down to the closest figure in the thousands."
+   }
+  },
+  {
+   "id": "LA-H020-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "Article 78"
+   },
+   "heading": {
+    "en": "Method of Payment of Taxes, Fees and Service Charges"
+   },
+   "text": {
+    "en": "Payment of taxes, fees and service charges shall be made in Kip currency and shall be paid in full; [such payment] can be made by cash, cheque, transfer money56 or bonds. The amount of taxes, fees, service charges and penalties denominated in foreign currency pursuant to the laws and regulations can be paid in Kip calculated based on the State bank exchange rate from time to time. The fees and other service charges collected by Lao embassies and consulates abroad, the fees for using the airspace of57 the Lao PDR and certain income which has been determined by the government to be collected in foreign currencies shall be paid in foreign currencies. Payment of all types of taxes, fees and other service charges which have been calculated and collected shall be fully remitted to the State budget after receiving a tax payment order within the period of time specified in this law."
+   }
+  },
+  {
+   "id": "LA-H020-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "Article 79"
+   },
+   "heading": {
+    "en": "Rights to File a Request"
+   },
+   "text": {
+    "en": "Taxpayers who believe that they have paid tax incorrectly may request the tax authority where they are registered for a recalculation of the tax payable within one year from the date that they have paid the tax. A request filed after this period of time shall not be considered.\nIn the event that a person who has filed a request to [re]calculate the tax has received an unsatisfactory reply, such person has the right to appeal to a tax authority at the next higher level."
+   }
+  },
+  {
+   "id": "LA-H020-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "Article 80"
+   },
+   "heading": {
+    "en": "Tax Refund58"
+   },
+   "text": {
+    "en": "In the event of an incorrect calculation of taxes, such as double tax payments, payments made based on incorrect tax rates, overpayment of tax, failure to use a tax credit, the tax authorities must resolve [these problems] by 56 This appears to be a reference to electronic and wire transfers.\n57 The literal translation of this phrase is “fees for flying over the sky of the Lao PDR”.\n58 The term refund also connotes the offset and the refund of the overpaid taxes in cash.\n44 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR crediting such amount against a similar type of tax or other types of tax payable in the following month, quarter or year.\nIn the event that the calculation of taxes was made incorrectly in respect of individuals or legal entities which do not conduct business, the tax authority must give a refund."
+   }
+  },
+  {
+   "id": "LA-H020-A81",
+   "no": 81,
+   "noLabel": {
+    "en": "Article 81"
+   },
+   "heading": {
+    "en": "Timeframe for Tax Collection"
+   },
+   "text": {
+    "en": "In the event of incomplete or incorrect tax calculation and collection, the tax authority has the right to demand such tax amount within three years from the date of payment of tax.\nIn the event that tax has been calculated but the taxpayer avoids payment of such tax, the tax authority has the right to demand such outstanding tax after three years but not more than ten years."
+   }
+  },
+  {
+   "id": "LA-H020-A82",
+   "no": 82,
+   "noLabel": {
+    "en": "Article 82"
+   },
+   "heading": {
+    "en": "Calculation and Payment of Mandatory Taxes"
+   },
+   "text": {
+    "en": "A mandatory tax [refers] to tax which the taxpayer must pay pursuant to the tax authority’s calculation based on the information and data which are consistent with the laws and regulations.\nA taxpayer must pay mandatory taxes in the following circumstances:\n• [A taxpayer] does not maintain accounts or does not allow tax officers to perform an audit;\n• [A taxpayer] does not file a tax declaration and [make] payment or [does not file] annual accounting documents in accordance with the provisions of the law;\n• [A taxpayer] does not provide a response or provides a false response to the tax authority.\nIn the event that a business is conducted by individuals or legal entities which have the duty to calculate tax but under-calculate the tax or do not calculate tax in accordance with the provisions of the law, such persons are responsible for paying the shortfall or the amount of tax which has not been collected in full to the State budget according to the laws and regulations."
+   }
+  },
+  {
+   "id": "LA-H020-A83",
+   "no": 83,
+   "noLabel": {
+    "en": "Article 83"
+   },
+   "heading": {
+    "en": "Penalties"
+   },
+   "text": {
+    "en": "Taxpayers who violate the provisions regarding the declaration and payment of taxes provided in this law shall be subject to measures according to each specific case as follows:\n1. In the event that [the taxpayer] delays in making tax declarations or [delays the payment of] taxes according to an agreement on the 45 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR payment of tax based on the basic accounting system, [that taxpayer] shall be fined at five percent (5%) of the amount of tax payable for each month or quarter of delay. In calculating such fine, if such delay is not a complete month or quarter, then such [fine] shall be computed as a full month or quarter. In any event, such fine shall not exceed the amount of the tax payable;\n2. In the event of improper maintenance of accounts, incomplete declaration and payment of taxes, sale of goods or provision of services without issuing an invoice, falsifying invoices or other accounting documents, [the offenders] shall be subject to the three measures as follows:\n• To pay the taxes due in full;\n• To pay additional taxes at thirty percent (30%) of the taxes due;\n• To pay fines according to regulations on enterprise accounting;\nIn the event of a second offence, in addition to having to pay back the taxes due, [the taxpayer must also]:\n• Pay additional taxes at sixty percent (60%) of the amount of taxes due;\n• Pay fines in accordance with regulations on enterprise accounting; and • Permanently cease operations and give public notice [of cessation of operation] through the mass media.\n3. In the event that [the taxpayer] does not maintain accounts in accordance with the laws, refuses to allow tax officers to inspect, does not declare and pay tax, does not submit annual accounting documents as provided for in this law, or does not timely respond to tax authorities who have requested a presentation of evidence, explanations, various data, information regarding the calculation of tax, [the offending taxpayer] shall be subject to three measures as follows:\n• To pay mandatory taxes in accordance with the provisions of"
+   }
+  },
+  {
+   "id": "LA-H020-A82",
+   "no": 82,
+   "noLabel": {
+    "en": "Article 82"
+   },
+   "heading": {
+    "en": "of this law;"
+   },
+   "text": {
+    "en": "• To pay an additional fifty percent (50%) of the amount of the taxes due;\n• To pay fines in accordance with the regulations on enterprise accounting;\nIn the event of a second offence, in addition to payment of mandatory taxes, [the tax payer] must:\n• Pay additional taxes at one hundred percent (100%) of the amount of taxes due;\n46 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR • Pay fines according to the regulations on enterprise accounting; and • Permanently cease operations and give public notice [of cessation of operation] through the mass media.\n4. In the event of delayed tax payments, after having received the tax payment order, the taxpayer shall:\n• Be fined at five percent (5%) of the amount of tax payable at the first notice for tax payment, ten percent (10%) at the second notice, and fifteen percent (15%) at the third notice. For each notice, [the taxpayer will be given] ten days to pay the tax;\n• Be subject to temporary suspension of activities and temporary withdrawal of enterprise registration license and tax registration certificate for one month if the [taxpayer] fails to pay the tax after the expiration of the period allocated pursuant to the third demand notice.\nWhen closing down the business activities, the tax authority must appoint a committee to seize the assets of the taxpayer. The seizure must have been approved by a court.59 The committee shall comprise:\n• Tax officer;60 • Auditor;\n• Trade official;\n• Police officer;\n• Official from other relevant sector.\nUpon expiration of a period of one month, if the taxpayer has still not paid its taxes, its activities shall be terminated and its enterprise registration certificate and tax registration certificate shall be revoked permanently. At the same time, a petition shall be filed with the courts to prosecute [the taxpayer] under the law.\nIf a taxpayer is impolite, rude, threatening, obstructive, or commits some other criminally wrongful act, that taxpayer shall be adjudicated under the law.\nDuring the cessation, seizure of assets or during court proceedings, if the taxpayer completely pays all of his outstanding taxes and fines, the tax authorities have the right to nullify the cessation of activities, cancel the seizure of the assets, 59 Readers may wish to refer to the Law on Judgment Enforcement for seizure procedures.\n60 The Lao language does not require nouns to contain information as to whether they are singular or plural. The items in this list are ambiguous as to whether they are singular or plural; therefore, the translators have simply used the singular form and have made no attempt to describe or qualify such entities.\n47 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR or may request the withdrawal of the petition from the court which will cause the prosecution of the taxpayer to end."
+   }
+  },
+  {
+   "id": "LA-H020-A84",
+   "no": 84,
+   "noLabel": {
+    "en": "Article 84"
+   },
+   "heading": {
+    "en": "Consideration of Requests regarding Tax Calculation"
+   },
+   "text": {
+    "en": "The tax authority has the duty to consider the taxpayer’s request regarding the tax calculation and must give a response to the taxpayer within thirty days from the date the request is received. In considering such request if it is found that the taxpayer has sufficient reasons because the taxpayer has complete supporting documents, the tax authority shall rectify the incorrect tax calculation or solve the matter by giving a refund as stipulated in Article 80 of this law.\nIn the event that the taxpayer is not satisfied with the decision of the tax authority where the taxpayer is registered and has submitted to the tax authority at the next higher level, once the tax authority has received the request [such tax authority] must consider [and] resolve within thirty days from the date of receipt of the request. If the tax authority does not resolve the request or does not resolve the request in accordance with the laws, the taxpayer has the right to file a petition with the people’s court."
+   }
+  },
+  {
+   "id": "LA-H020-A85",
+   "no": 85,
+   "noLabel": {
+    "en": "Article 85"
+   },
+   "heading": {
+    "en": "Writing-off of Uncollectible Tax"
+   },
+   "text": {
+    "en": "The tax authority has the duty to prepare an annual list containing the tax payment orders61 [of uncollectible tax] which could not be collected in the previous year for some necessary reason such as the taxpayer disappeared or passed away without any remaining property, and to report to the Director of the Tax Department through the local administration authority in order to submit further to the Minister of Finance to consider writing off [such uncollectible tax] in accordance with the Law on State Budget.\nPart IX\nStructure and Activities Relating to Taxation\nChapter 1 Structure of Tax Administration"
+   }
+  },
+  {
+   "id": "LA-H020-A86",
+   "no": 86,
+   "noLabel": {
+    "en": "Article 86"
+   },
+   "heading": {
+    "en": "Status and Role"
+   },
+   "text": {
+    "en": "The Tax Authority refers to an organisation under the Ministry of Finance [which], according to a vertical line of [reporting], has a role in the administration, inspection of sources62 of income and administration of tax 61 This appears to be a reference to a list which is prepared annually and contains the numbers assigned to the tax payment orders in respect of which tax has not been paid.\n62 The Lao language uses a specific word to refer to sources of income which also connotes what type of income it is.\n48 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR collection throughout the country [to ensure remittance] centrally into the State budget."
+   }
+  },
+  {
+   "id": "LA-H020-A87",
+   "no": 87,
+   "noLabel": {
+    "en": "Article 87"
+   },
+   "heading": {
+    "en": "Organisational Structure"
+   },
+   "text": {
+    "en": "The organisational structure of the tax authority is as follows:\n• Central level : tax department;\n• Provincial level: tax offices;\n• District level: tax units."
+   }
+  },
+  {
+   "id": "LA-H020-A88",
+   "no": 88,
+   "noLabel": {
+    "en": "Article 88"
+   },
+   "heading": {
+    "en": "Rights and Duties of the Tax Authority"
+   },
+   "text": {
+    "en": "The tax authority at each level has the following rights and duties:\n1. Tax Department • To study strategic plans, programs, policies, laws and regulations [and] management mechanisms63 relating to tax administration in order to submit to the higher authority for consideration;\n• To supervise, lead and implement the Tax Law in a uniform manner throughout the country in order to ensure accurate, full and timely tax collection into the State budget;\n• To disseminate and raise public awareness on the Tax Law in order to raise knowledge and self implementation of the [Tax] Law by taxpayers, to ensure that all persons [and] organisations in the society understand the significance64 and benefits of taxation, so that they provide active support to taxation activities and provide service [and] assistance to taxpayers;\n• To inspect tax declaration, exemptions, calculations, payments and the implementation of tax policies for organisations, [and] taxpayers and [by] organisations which have been assigned to collect taxes, as well as to apply measures against persons who have violated tax administration rules and to resolve requests filed by the people in accordance with the laws and regulations;\n• To demand taxpayers as well as credit institutions, relevant organisations and persons to provide accounts, invoices, data [and] information, and other documents relating to the calculation and payment of taxes; to apply measures to organisations [and] individuals who do not perform their duties 63 This general term refers to the procedure for managing tax administration.\n64 The Lao term connotes something that is of a special nature or is or very good.\n49 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR relating to the provision of documents or to those who do not cooperate with various tax and fee collection;\n• To formulate and implement training programs, to assign, appoint, transfer, rotate staff members pursuant to the approval of the higher authority and to reward, promote, or apply disciplinary measures against staff members which are under its responsibility in coordination with the relevant sectors;\n• To establish, manage and use technology, information and to modernize taxation activities;\n• To summarize, evaluate and report to the Minister of Finance on the implementation of taxation activities throughout the country;\n• To liaise [and] cooperate with foreign countries in the area of taxation based on assignment of the higher authority;\n• To exercise such other rights and perform such other duties as stipulated in the laws.\n2. Tax Offices • To implement the Tax Law in a uniform manner within its scope of responsibility in order to ensure accurate, full and timely tax collection into the State budget;\n• To propagate, disseminate and raise public awareness of the Tax Law in order to raise knowledge and self implementation of the [Tax] Law by taxpayers, to ensure that all persons and organisations in the society understand the significance and benefits of taxation, so that they provide active support to taxation activities and provide services [and] assistance to taxpayers;\n• To inspect tax declaration, exemptions, calculations, payments and the implementation of tax policies for organisations, [and] taxpayers and [by] organisations which have been assigned to collect taxes, as well as to apply measures against persons who have violated tax administration rules and to resolve requests filed by the people in accordance with the laws and regulations;\n• To demand taxpayers as well as credit institutions, relevant organisations and persons to provide accounts, invoices, data [and] information, and other documents relating to the calculation and payment of taxes; to apply measures to organisations [and] individuals who do not perform their duties relating to the provision of documents or to those who do not cooperate with various tax and fee collection;\n• To establish, manage and use technology, information to modernize taxation activities;\n• To monitor, control, evaluate and report to the provincial governors, mayors or chief of special zone and the Tax 50 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR Department on the implementation of taxation activities in their areas;\n• To collaborate with relevant sectors in the implementation of their duties;\n• To exercise such other rights and perform such other duties as stipulated in the laws.\n3. Tax Units • To implement plans, policies and mechanisms of management of taxation administration within their areas;\n• To prepare plans, calculate and collect taxes, fees and other service charges by establishing a list of business units; 65 • To advise [on and] administer the collection of taxes, fees and other service charges and to determine the tax payment for persons who maintain a basic accounting system within the scope of their responsibilities;\n• To disseminate the tax law and regulations and other relevant laws;\n• To coordinate with relevant sectors in the implementation of taxation activities;\n• To monitor, inspect and evaluate and report to the district chief and the provincial tax office on issues relating to the implementation of taxation activities in their areas;\n• To exercise such other rights and perform such other duties as stipulated in the laws and regulations."
+   }
+  },
+  {
+   "id": "LA-H020-A89",
+   "no": 89,
+   "noLabel": {
+    "en": "Article 89"
+   },
+   "heading": {
+    "en": "Structure of Personnel"
+   },
+   "text": {
+    "en": "The structure of personnel of the tax authority is as follows:\n• Director General, deputy director generals of department;\n• Director, Deputy Director at the provincial level;\n• Head of Unit66, Deputy Head of Unit at the district level;\nIn addition to the above, there are technical staff and administrative staff.\n65 This list refers to a list of business units under the responsibility of a district office responsible for small businesses which are not formally registered like enterprises.\n66 The term “units” refers to work units engaged in a particular activity. In this article, the unit is involved in activities relating to tax administration.\n51 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR Appointments or dismissals of staff members at each level shall be in compliance with the Law on Government, the Law on Local Administration and various regulations issued by the government."
+   }
+  },
+  {
+   "id": "LA-H020-A90",
+   "no": 90,
+   "noLabel": {
+    "en": "Article 90"
+   },
+   "heading": {
+    "en": "Criteria of Tax Staff Members"
+   },
+   "text": {
+    "en": "Staff members must have a clear background, must be faithful and be in accord with party policy, laws and regulations, must have a good personality, must have loyalty, be fair, must not be involved in embezzlement, corruption, misappropriation, must be disciplined67, be in solidarity [with others], be hardworking, have healthy living habits, be responsible for their duties, be interested in studying, be in good health, possess good technical knowledge of taxation and have a good grasp of the relevant laws and regulations."
+   }
+  },
+  {
+   "id": "LA-H020-A91",
+   "no": 91,
+   "noLabel": {
+    "en": "Article 91"
+   },
+   "heading": {
+    "en": "Confidentiality"
+   },
+   "text": {
+    "en": "Tax staff members performing their duties or who have been assigned to a case must keep official secrets strictly confidential.\nChapter 2 Rights and Duties of Tax Officers"
+   }
+  },
+  {
+   "id": "LA-H020-A92",
+   "no": 92,
+   "noLabel": {
+    "en": "Article 92"
+   },
+   "heading": {
+    "en": "Rights of Tax Officers"
+   },
+   "text": {
+    "en": "Tax officers have the following rights:\n1. To receive assistance and support from government organisations, the local administration at all levels, the armed forces and other persons in case of necessity or when there is a request from the tax authority;\n2. To gather information relating to taxation activities from relevant organisations, enterprises or individuals;\n3. To demand that relevant organisations, individuals or legal entities submit accounting documents [and] other information;\n4. To perform desk audits68 of taxpayers; to perform field audits at the enterprise’s offices and to perform audits without advance notification;\n5. To perform audits at relevant locations: goods in storage, movement of goods within the country;\n6. To exercise other rights as assigned."
+   }
+  },
+  {
+   "id": "LA-H020-A93",
+   "no": 93,
+   "noLabel": {
+    "en": "Article 93"
+   },
+   "heading": {
+    "en": "Duties of Tax Officers"
+   },
+   "text": {
+    "en": "67 The Lao term connotes discipline and also that the discipline relates to the staff member’s dealings with the committee responsible for the office of the staff member.\n68 This term refers to the process of reviewing a taxpayer’s accounting documents in the tax office rather than at the taxpayer’s premises.\n52 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR Tax officers have the following duties:\n1. To strictly implement the Tax Law, other laws, orders and other regulations to ensure accurate, full and timely tax collection;\n2. To advise [and] explain the Tax Law and other regulations to taxpayers including organisations and persons in the society in order to raise the knowledge [and] understanding about the significance and benefits of taxation so that they will pay tax voluntarily;\n3. To inspect declarations, exemptions, deductions, payments, calculations and outstanding taxes;\n4. To safeguard documents, materials and official secrets;\n5. To perform other duties as assigned."
+   }
+  },
+  {
+   "id": "LA-H020-A94",
+   "no": 94,
+   "noLabel": {
+    "en": "Article 94"
+   },
+   "heading": {
+    "en": "Uniform and Insignia"
+   },
+   "text": {
+    "en": "The tax authority has its own uniform and insignia. When performing duties, tax officials must wear uniforms bearing the insignia and official badges which are approved by the government.\nPart X\nAdministration and Inspection of Taxation Activities\nChapter 1 Administration of Taxation Activities"
+   }
+  },
+  {
+   "id": "LA-H020-A95",
+   "no": 95,
+   "noLabel": {
+    "en": "Article 95"
+   },
+   "heading": {
+    "en": "Organisations responsible for the Administration of"
+   },
+   "text": {
+    "en": "Taxation Activities\nThe organisations responsible for the administration of taxation activities comprise:\n• The Ministry of Finance;\n• The finance division at the provincial level;\n• The financial office at the district level."
+   }
+  },
+  {
+   "id": "LA-H020-A96",
+   "no": 96,
+   "noLabel": {
+    "en": "Article 96"
+   },
+   "heading": {
+    "en": "Rights and Duties of the Ministry of Finance"
+   },
+   "text": {
+    "en": "The Ministry of Finance has the following rights and duties in the administration of taxation activities:\n• To prepare strategy [and] policy plans, policies, laws and regulations and programs relating to taxation activities for submission to the government for consideration;\n• To issue regulations, decisions, orders, instructions and notification regarding taxation;\n53 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR • To supervise, monitor [and] control the implementation of tax collection plans throughout the country;\n• To propagate, disseminate policy, laws and regulations pertaining to the Tax Law and other relevant laws;\n• To collaborate with sectors at the central and local level sectors, to supervise, monitor, inspect and promote the implementation of the Tax Law;\n• To study [and] advise the tax sector69 at each level to maintain proper accounting regimes in accordance with the laws and regulations;\n• To summarize and report on taxation activities to the government;\n• To reward persons who have outstanding performance, to take disciplinary actions against persons who have violated the laws and regulations;\n• To exercise such other rights and perform such other duties as stipulated in the laws and regulations."
+   }
+  },
+  {
+   "id": "LA-H020-A97",
+   "no": 97,
+   "noLabel": {
+    "en": "Article 97"
+   },
+   "heading": {
+    "en": "Rights and Duties of the Finance Division at the Provincial Level"
+   },
+   "text": {
+    "en": "The finance division at the provincial level has the rights and duties to administer taxation activities as follows:\n• To supervise [and] advise tax staff at the provincial and district level in the administration of the collection of taxes, fees and service charges into the State budget in a uniform and accurate and full manner in accordance with the law and regulations;\n• To disseminate policies, laws and regulations pertaining to taxation and other relevant laws;\n• To control the performance of duty of tax staff;\n• To advise tax offices within their scope of responsibility in the maintenance of accounts, statistics and reporting on tax revenue to the higher authority on a permanent basis;\n• To summarize and report on issues relating to taxation activities to the Minister of Finance, governors, mayors, or chief of special zone;\n• To reward persons who have outstanding performance, to take disciplinary actions against persons who have violated the laws and regulations;\n• To exercise other rights and perform other duties upon assignment."
+   }
+  },
+  {
+   "id": "LA-H020-A98",
+   "no": 98,
+   "noLabel": {
+    "en": "Article 98"
+   },
+   "heading": {
+    "en": "Rights and Duties of Finance Office at the District Level"
+   },
+   "text": {
+    "en": "The financial office at the district level has the following rights and duties in the administration of tax activities:\n69 This term refers to the entire government apparatus for taxation at different levels.\n54 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR • To implement plans and policies relating to taxation in its area;\n• To propagate, disseminate policies, laws and regulations pertaining to taxation and other relevant laws;\n• To collaborate with other relevant sectors in the study [and] determination of the basis of tax [calculation] of businesses that maintain a basic accounting system;\n• To monitor, control, evaluate [and] report on the implementation of taxation activities in its locality to the district chief and director of the finance division at the provincial level;\n• To reward persons who have outstanding performance, take disciplinary actions against persons who have violated the laws and regulations;\n• To exercise other rights and perform other duties upon assignment.\nChapter 2 Tax Audit"
+   }
+  },
+  {
+   "id": "LA-H020-A99",
+   "no": 99,
+   "noLabel": {
+    "en": "Article 99"
+   },
+   "heading": {
+    "en": "Organisations Responsible for Tax Inspections"
+   },
+   "text": {
+    "en": "The oganisations responsible for tax inspections comprise: internal and external organisations.\n1. The internal inspection organisations are:\n• The Ministry of Finance, Tax Department, Finance Audit Department;\n• The finance division at the provincial level, tax office at the provincial level, finance audit office at the provincial level;\n• The finance office at the district level, tax units at the district level, finance audit unit at the district level.\n2. The external inspection organisations are:\n• State Audit Organisation;\n• National Audit Authority.\nIn addition to the above, the local administration at different levels, the Lao Front for National Construction, mass organisations, social organisations, media and other relevant sectors must take part in the inspection in accordance with their roles."
+   }
+  },
+  {
+   "id": "LA-H020-A100",
+   "no": 100,
+   "noLabel": {
+    "en": "Article 100"
+   },
+   "heading": {
+    "en": "Rights and Duties of Internal Inspection Organisations"
+   },
+   "text": {
+    "en": "Internal inspection organisations have the right and duty to inspect the implementation of laws and regulations, the performance of duties and responsibilities of the tax authorities at all levels which are under their 55 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR responsibility, such as the preparation of plans, the calculation and collection of taxes, fees and other service charges.\nThe government determines in detail the rights [and] duties of internal inspection organisations in respect of the tax sector."
+   }
+  },
+  {
+   "id": "LA-H020-A101",
+   "no": 101,
+   "noLabel": {
+    "en": "Article 101"
+   },
+   "heading": {
+    "en": "Rights, Duties of External Audit Organisations"
+   },
+   "text": {
+    "en": "External inspection organisations have the right and duty to inspect the performance of roles, rights, duties, responsibilities of the tax authorities at all levels within the scope of their rights and duties in order to ensure efficiency, transparency and fairness in taxation activities."
+   }
+  },
+  {
+   "id": "LA-H020-A102",
+   "no": 102,
+   "noLabel": {
+    "en": "Article 102"
+   },
+   "heading": {
+    "en": "Types of Inspection"
+   },
+   "text": {
+    "en": "Inspections by the tax authorities comprise the following three types:\n• A regular inspection;\n• An inspection following an advance notice;\n• An inspection without advance notice.\nA regular inspection refers to an inspection which is carried out according to plans, on a regular basis and at a specified time.\nAn inspection following an advance notice refers to an inspection which is not performed according to plans, [but only] when deemed necessary and of which the entity to be inspected is notified in advance.\nAn inspection without advance notice refers to an emergency inspection of which the entity to be inspected is not notified in advance.\nIn performing inspections, the tax authority, [and] tax inspectors shall strictly comply with the laws and regulations.\nPart XI\nPolicies towards Persons with Outstanding Performance and Measures Against Offenders Chapter 1 Policies towards Persons with Outstanding Performance"
+   }
+  },
+  {
+   "id": "LA-H020-A103",
+   "no": 103,
+   "noLabel": {
+    "en": "Article 103"
+   },
+   "heading": {
+    "en": "Policies towards Persons with Outstanding Performance"
+   },
+   "text": {
+    "en": "Civil servants and other individuals who have participated in audits, monitoring, seeking out, providing various information which resulted in the 56 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR discovery of tax evasion, the collection of tax from an underreported income and a fine of the offender, will be rewarded or will be [entitled] to other policies as determined by the government."
+   }
+  },
+  {
+   "id": "LA-H020-A104",
+   "no": 104,
+   "noLabel": {
+    "en": "Article 104"
+   },
+   "heading": {
+    "en": "Policies towards Taxpayers"
+   },
+   "text": {
+    "en": "Taxpayers who have properly, completely, and timely performed their obligations as stipulated in this law shall be rewarded and shall be entitled to various appropriate privileges in their business activities.\nChapter 2 Measures Against Offenders"
+   }
+  },
+  {
+   "id": "LA-H020-A105",
+   "no": 105,
+   "noLabel": {
+    "en": "Article 105"
+   },
+   "heading": {
+    "en": "Measures Against Tax Officials"
+   },
+   "text": {
+    "en": "Tax officials who have committed wrongdoings shall be re-educated and shall be subject to light or severe disciplinary measures or punishment as in the following cases:\nIn the event that a tax official has committed a wrongdoing which does not affect70 the laws and regulations, revenues and reputation of the tax authority, [such official] will be re-educated and given a warning.\nIn the event that a tax official has violated the laws and regulations such as: [such official] disclosed confidential State information, abused his position, abused his power, conspired with a taxpayer, abandoned his duty, is negligent in performing his duties, has not performed duties as assigned without sufficient reasons, falsified invoices or other documents, collected money without remitting [such money] to the treasury, received bribes, or other acts which are damaging to the State, society or rights and interests of the citizen, the official shall be subject to disciplinary action according to regulations regarding civil servants, or shall be prosecuted under the laws and regulations."
+   }
+  },
+  {
+   "id": "LA-H020-A106",
+   "no": 106,
+   "noLabel": {
+    "en": "Article 106"
+   },
+   "heading": {
+    "en": "Measures Against Taxpayers and Other Individuals"
+   },
+   "text": {
+    "en": "Taxpayers who have violated the Tax Law will be subject to re-education measures, fines or criminal punishment depending on the gravity of the case as follows:\n1. Taxpayers who have committed minor offences such as delays in the registration or renewal of tax registration, delays in making a tax declaration and payment, not maintaining full and proper accounts in 70 This is a literal translation. The Lao word has the connotation of “negatively affecting” something.\n57 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR accordance with the accounting regulations, not affixing tax stamps will be fine, given a warning and re-educated;\n2. For a violation of laws and regulations which causes the State budget to be depleted, the taxpayers must pay all taxes due and will be fined in specific cases as stipulated in Article 83 of this law;\n3. Taxpayers who have committed serious offences such as: destroying evidence, falsifying documents, conspiring to conceal wrongdoings relating to tax payment, taking bribes, causing physical harm must be subject to the Penal Law and must fully compensate for the damages.\nOther persons who have violated the Tax Law will be subject to re-education measures, fines or criminal punishment depending on the gravity of the case such as: failure to cooperate, failure to provide assistance, failure to provide information which they possess to the tax officers as requested[,] or concealing wrongdoings which cause damage to the interests of the State [and] the society.\n58 Translation Endorsed by the Law Committee of the National Assembly of the Lao PDR Part XII Final Provisions"
+   }
+  },
+  {
+   "id": "LA-H020-A107",
+   "no": 107,
+   "noLabel": {
+    "en": "Article 107"
+   },
+   "heading": {
+    "en": "Implementation"
+   },
+   "text": {
+    "en": "The government of the Lao People’s Democratic Republic shall implement this law."
+   }
+  },
+  {
+   "id": "LA-H020-A108",
+   "no": 108,
+   "noLabel": {
+    "en": "Article 108"
+   },
+   "heading": {
+    "en": "Effectiveness"
+   },
+   "text": {
+    "en": "This law enters into force thirty days from the date of the promulgating decree issued by the President of the Lao People’s Democratic Republic.\nThis law repeals Tax Law No: 04/95/NA, dated 14 October 1995; the amended Tax Law No.03/NA, dated 10 April 2001, and [Tax Law] No 10/NA, dated 12 October 2002.\nAll provisions [and] regulations which contravene this law are null and void.\nVientiane, 19 May 2005 President of the National Assembly [Seal and signature] Samane VIGNAKET 59"
+   }
+  }
+ ]
+}

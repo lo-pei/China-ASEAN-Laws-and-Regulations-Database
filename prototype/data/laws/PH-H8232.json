@@ -1,0 +1,84 @@
+{
+ "id": "PH-H8232",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing for the Reapportionment of Legislative Districts in the Province of Lanao Del Norte",
+  "orig": "An Act Providing for the Reapportionment of Legislative Districts in the Province of Lanao Del Norte"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p117",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2009-11-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 9774",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1239,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2009/ra_9774_2009.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2009/ra_9774_2009.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 5 条，缺 4）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H8232-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Legislative Districts. - The Province ofLanao del Norte, which shall have two (2) legislative districts of twenty - two (22) municipalities to commence in the next elections after the effectivity of this Act, is hereby reapportioned as follows: First District (1) Baroy (2) Tubod (3) Kolambugan (4) Maigo (5) Bacolod (6) Kauswagan (7) Linamon(8) Tagoloan (9) Baloi (10) Matunggao (11) Pantar Second District (1) Pantao Ragat (2) Poona Piagapo (3) Munai (4) Tangkal (5) Magsaysay (6) Salvador (7) I,ala 2 (8) Sultan Naga Dimaporo (SND) (9) Kapatagan (10) Sapad (11) Nunungan"
+   }
+  },
+  {
+   "id": "PH-H8232-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Incumbent Representatives. - The incumbent representatives of the first and second legislative districts of the Province of Lanao del Norte shall continue to represent their respective legislative districts until the new representatives shall have been elected and qualified."
+   }
+  },
+  {
+   "id": "PH-H8232-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Rules and Regulations. - The Commission on Elections shall issue the necessary rules and regulations to implement this Act. SEC: 4. Repealing Clause. All laws, rules and regulations inconsistent with this Act are hereby repealed, amended or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H8232-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Effectivity. - This Act shall take effect immediately upon its publication in at least two (2) newspapers of general circulation."
+   }
+  }
+ ]
+}

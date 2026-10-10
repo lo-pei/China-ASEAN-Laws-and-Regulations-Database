@@ -1,0 +1,284 @@
+{
+ "id": "SG-H3503",
+ "title": {
+  "zh": null,
+  "en": "People’s Association Act 1960",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p44",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act PAA1960",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 19,
+ "chars": 15920,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/PAA1960?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 19 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3503-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the People’s Association Act 1960."
+   }
+  },
+  {
+   "id": "SG-H3503-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Establishment and incorporation of People’s Association"
+   },
+   "text": {
+    "en": "2.—(1) A corporation called the People’s Association (called in this Act the Association) is constituted.\n(2) The Association has perpetual succession and a common seal.\n(3) The Association may sue and be sued in its corporate name and perform any other acts that bodies corporate may by law perform."
+   }
+  },
+  {
+   "id": "SG-H3503-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Powers of Association to be vested in Board of Management"
+   },
+   "text": {
+    "en": "3. The powers of the Association and the management and control of the Association and of its property and affairs are vested in a Board of Management (called in this Act the Board)."
+   }
+  },
+  {
+   "id": "SG-H3503-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Constitution of Association"
+   },
+   "text": {
+    "en": "4.—(1) The Association consists of —\n(a)the Prime Minister as Chairperson;\n(b)a Minister to be appointed by the Chairperson as Deputy Chairperson;\n(c)8 members to be appointed by the Chairperson; and\n(d)one member to be appointed by the Chairperson in consultation with each of the organisations mentioned in the Schedule.\n(2) All letters of appointment to the persons mentioned in subsection (1)(b), (c) and (d) must be issued by the Chairperson, who may revoke any appointment at any time without assigning any reason.\n(3) Members of the Association appointed by the Chairperson in accordance with subsection (1)(b), (c) and (d) must —\n(a)hold office for a period of 3 years from the dates of their respective appointments; and\n(b)be eligible for re‑appointment on completion of that period.\n(4) There must be a Secretary-Treasurer, who is a person appointed by the Chairperson from among the members appointed under subsection (1)(c).\n(5) The Board may by notification in the Gazette —\n(a)vary the number of its members and provide in what manner additional members (if any) are appointed; and\n(b)add to or amend the Schedule.\n(6) If a vacancy occurs in the membership of the Association under subsection (1)(b), (c) or (d), by reason of death, resignation, revocation of an appointment under subsection (2) or for any other cause, the Chairperson must —\n(a)in the case of a vacancy under subsection (1)(b) or (c), appoint a person to fill the vacancy; and\n(b)in the case of a vacancy under subsection (1)(d), in consultation with the organisation concerned, appoint a person to fill the vacancy.\n(7) A person appointed under subsection (6)(a) or (b) holds office for so long as the member in whose place he or she is appointed would have held office."
+   }
+  },
+  {
+   "id": "SG-H3503-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Constitution of Board"
+   },
+   "text": {
+    "en": "5.—(1) The Board consists of —\n(a)the persons mentioned in section 4(1)(a), (b) and (c); and\n(b)4 members to be elected from among themselves by the persons mentioned in section 4(1)(d) at a general meeting of the Association.\n(2) The Secretary-Treasurer of the Association is the Secretary‑Treasurer of the Board.\n(3) Members of the Board elected under subsection (1)(b) hold office for a period of 3 years from the date of their election and are eligible for re‑election.\n(4) The term of office of a member of the Board elected under subsection (1)(b) ceases upon the revocation of his or her appointment as a member of the Association under section 4(2), or if his or her appointment as a member of the Association has expired and he or she has not been re‑appointed under section 4(3)."
+   }
+  },
+  {
+   "id": "SG-H3503-A5.001",
+   "no": 5.001,
+   "noLabel": {
+    "en": "5A."
+   },
+   "heading": {
+    "en": "Directions by Minister"
+   },
+   "text": {
+    "en": "5A. The Minister may give to the Association any direction under section 5 of the Public Sector (Governance) Act 2018.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3503-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Meetings"
+   },
+   "text": {
+    "en": "6.—(1) The Board may meet as often as it considers necessary, but it must in any case meet at least once in 3 months to discuss the management and affairs of the Association.\n(2) General meetings of the Association may be held as often as the Board considers necessary, but the Board must in any case convene a general meeting once in every 3 years.\n(3) Before the holding of a general meeting of the Association, the Board must cause a notice to be sent to all members of the Association giving them at least 7 days’ notice of the holding of the general meeting, and specifying the date, time and place of the meeting and the business to be transacted thereat.\n(4) The notice mentioned in subsection (3) is deemed to have been received by a member if sent by ordinary post or despatched by messenger to the address of the member as stated in the records of the Association.\n(5) The Chairperson —\n(a)presides at all meetings of the Association and of the Board; and\n(b)has the right to vote on any question coming before or arising at any meeting of the Association or of the Board.\n(6) The Deputy Chairperson, in the absence of the Chairperson, presides at all meetings of the Association and of the Board and when so doing has and may exercise all the powers and functions of the Chairperson.\n(7) In the absence of both the Chairperson and the Deputy Chairperson at any meeting of the Association or of the Board, any member that the members present may select acts as Chairperson.\n(8) The quorum at all meetings of the Association is one‑third of the total number of members of the Association, and no business is to be transacted unless a quorum is present.\n(9) The quorum at every meeting of the Board is 5 members of the Board, and no business is to be transacted unless a quorum is present.\n(10) All questions coming before or arising at any meeting of the Association or of the Board must be decided by a majority of the members present and voting thereon at that meeting of the Association or of the Board, and in the case of an equality of votes, the person presiding at the meeting has a second or casting vote."
+   }
+  },
+  {
+   "id": "SG-H3503-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Disclosure of interest"
+   },
+   "text": {
+    "en": "7.—(1) Division 1 of Part 4 of the Public Sector (Governance) Act 2018 applies as if —\n(a)a reference in that Division to a member of a public body includes a reference to a member of the Board; and\n(b)a reference in that Division to a meeting of a public body includes a reference to a meeting of the Board.\n[5/2018]\n(2) Subsection (1) also applies to any member of a committee appointed in accordance with section 9(b) when the member is present at a meeting of any committee."
+   }
+  },
+  {
+   "id": "SG-H3503-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Objects of Association"
+   },
+   "text": {
+    "en": "8. The objects of the Association are —\n(a)the organisation and the promotion of group participation in social, cultural, educational and athletic activities for the people of Singapore in order that they may realise that they belong to a multiracial community, the interests of which transcend sectional loyalties;\n(b)the establishment of such institutions as may be necessary for the purpose of leadership training in order to instil in leaders a sense of national identity and a spirit of dedicated service to a multiracial community;\n(c)the fostering of community bonding and strengthening of social cohesion among the people of Singapore;\n(d)the performance of such other functions as may be conferred upon the Association by any written law; and\n(e)the carrying out of such activities as appear to the Board to be advantageous towards, or necessary or convenient for, the furtherance of the objects of the Association as set out in paragraphs (a) to (d)."
+   }
+  },
+  {
+   "id": "SG-H3503-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Powers of Board"
+   },
+   "text": {
+    "en": "9. In order to achieve the objects set out in section 8, the Board may —\n(a)make rules to regulate the proceedings of the Association and of the Board and generally to carry out the purposes of this Act;\n(b)appoint committees and allocate duties to and regulate the exercise of executive power by the committees and the members of the Board;\n(c)appoint such officers and employees as the Board thinks fit for the purpose of carrying into effect the provisions of this Act, and regulate the conduct and dismissal of those officers and employees;\n(d)enter into contracts, establish trusts and generally regulate the transactions of all business connected with the Association;\n(e)receive fees from persons participating in recreational activities organised by the Association, contributions from the Government and from other sources and raise funds by all lawful means to carry out the purposes of this Act, and moneys so received or raised must be administered in accordance with the provisions of this Act;\n(f)manage or run community centres, clubs, institutes and such other bodies as the Board thinks fit;\n(g)assist other bodies by contributions or otherwise to promote recreational activities for children, young persons and adults;\n(h)acquire, purchase, lease, take, hold and enjoy movable and immovable property of every description, and sell, convey, assign, surrender and yield up, mortgage, demise, reassign, transfer or otherwise dispose of any movable and immovable property vested in the Association upon such terms as the Board considers fit;\n(i)award certificates of proficiency to persons who attend any of the courses or activities organised by the Association, after tests approved by the Association;\n(j)authorise the governing body of any institution established under section 8(b) to carry out such activities as are not inconsistent with the objects of the Association as set out in section 8 and as are in accordance with the constitution of the institution; and\n(k)generally do all such other acts as may be necessary to achieve the objects of the Association."
+   }
+  },
+  {
+   "id": "SG-H3503-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Protection from personal liability"
+   },
+   "text": {
+    "en": "10. No suit or other legal proceedings shall lie against —\n(a)any member, officer or employee of the Association or any other person acting under the direction of the Association;\n(b)any member of the Board or any person acting under the direction of the Board; or\n(c)any member or officer of any committee appointed by the Board or any person acting under the direction of such committee,\nfor anything which is in good faith done or intended to be done in the execution or purported execution of this Act."
+   }
+  },
+  {
+   "id": "SG-H3503-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Execution of documents"
+   },
+   "text": {
+    "en": "11.—(1) All deeds, documents or other instruments requiring the seal of the Association must be sealed with the common seal of the Association in the presence of the Chairperson or the Deputy Chairperson and one other member of the Board, who must sign every such deed, document or other instrument to which the common seal is affixed.\n(2) The signature of the Chairperson, Deputy Chairperson and the member of the Board mentioned in subsection (1) is sufficient evidence that the seal was duly and properly affixed and that it is the lawful seal of the Association."
+   }
+  },
+  {
+   "id": "SG-H3503-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "text": {
+    "en": "12. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3503-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Bank accounts and application of funds"
+   },
+   "text": {
+    "en": "13.—(1) The Board may deposit all moneys belonging to the Association in such account or accounts which it may open with —\n(a)any bank or banks licensed under the Banking Act 1970; or\n(b)any finance company or companies licensed under the Finance Companies Act 1967.\n(2) The account or accounts in which the moneys belonging to the Association are to be deposited may be opened in the name of —\n(a)the Association; or\n(b)the management committee or any other approved constituent committee of any community centre, club, institute or other body managed or run by the Board.\n(3) Each bank account must be operated by such person authorised to do so by the Board.\n(4) The Board may invest the funds of the Association in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965."
+   }
+  },
+  {
+   "id": "SG-H3503-A13.001",
+   "no": 13.001,
+   "noLabel": {
+    "en": "13A."
+   },
+   "heading": {
+    "en": "Issue of shares, etc."
+   },
+   "text": {
+    "en": "13A. As a consequence of the vesting of any property, rights or liabilities of the Government in the Association under this Act, or of any capital injection or other investment by the Government in the Association in accordance with any written law, the Association must issue such shares or other securities to the Minister for Finance as that Minister may direct."
+   }
+  },
+  {
+   "id": "SG-H3503-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Accounts and audit"
+   },
+   "text": {
+    "en": "14. The financial year of the Association begins on 1 April of each year and ends on 31 March of the succeeding year."
+   }
+  },
+  {
+   "id": "SG-H3503-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Association’s symbols"
+   },
+   "text": {
+    "en": "15.—(1) The Association has the exclusive right to the use of such symbols (called in this section the Association’s symbols) as it may devise or adopt from time to time and thereafter display or exhibit in connection with its activities or affairs.\n(2) The Association must publish the Association’s symbols in the Gazette.\n(3) Any person who uses a symbol identical with, or which so resembles, any of the Association’s symbols as to be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H3503-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Chief Executive"
+   },
+   "text": {
+    "en": "16.—(1) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to be a Chief Executive of the Association, or to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —\n(a)is absent from duty or Singapore; or\n(b)is, for any reason, unable to perform the duties of the office.\n[5/2018]\n(2) The appointment, removal, discipline and promotion of the Chief Executive of the Association must be in accordance with the Public Sector (Governance) Act 2018.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3503-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nSection 4(1) and (5)\nMember Organisations\n1.Alumni International Singapore\n2.Association of Nanyang University Graduates\n3.Basketball Association of Singapore\n4.[Deleted by S 267/2025 wef 14/04/2025]\n5.Chinese Calligraphy Society of Singapore\n6.Chinese Dance Artistes’ Association\n7.Chinese Theatre Circle Ltd\n8.Consumers Association of Singapore\n9.Er Woo Amateur Musical and Dramatic Association\n10.Football Association of Singapore\n11.Girl Guides, Singapore\n12.Hindi Society (Singapore)\n13.Institute of Singapore Chartered Accountants (formerly known as the Institute of Certified Public Accountants of Singapore)\n14.Institute of Technical Education, Singapore\n15.Malay Youth Literary Association (Persatuan Persuratan Pemuda Pemudi Melayu)\n16.Metro Philharmonic Society\n17.Metropolitan Young Men’s Christian Association of Singapore\n18.Nanyang Academy of Fine Arts\n19.Nanyang Technological University Students’ Union\n20.National Council of Social Service\n21.National Trades Union Congress\n22.National University of Singapore Society\n23.National University of Singapore Students’ Union\n24.Ngee Ann Polytechnic Students’ Union\n25.Perkumpulan Seni (Arts Group)\n26.Persatuan Pemudi Islam Singapura\n27.Pets Enterprises & Traders Association, Singapore (PETAS)\n28.Qigong Shi Ba Shi Association (Singapore)\n29.Radio Modellers Singapore\n30.St John Singapore\n31.Singapore Cycling Federation\n32.Singapore Arts Federation\n33.Singapore Art Society\n34.Singapore Badminton Association\n35.Singapore Bowling Federation\n36.Singapore Canoe Federation\n37.Singapore Chefs Association\n38.Singapore Chess Federation\n39.Singapore Chinese Teachers’ Union\n40.Singapore Contract Bridge Association\n41.Singapore Council of Women’s Organisations\n42.Singapore Dance Theatre\n43.Singapore Dragon Boat Association\n44.Singapore Floorball Association\n45.Singapore Hadrah and Kompang Association (PEHAKS) (Persatuan Hadrah Dan Kompang Singapura)\n46.Singapore Indian Fine Arts Society\n47.Singapore Judo Federation\n48.Singapore Karate-Do Federation\n49.Singapore Malay Teachers’ Union (Kesatuan Guru-Guru Melayu Singapura)\n50.Singapore Malay Youth Library Association (Taman Bacaan Pemuda Pemudi Melayu Singapura)\n51.Singapore Middle School Chinese Teachers’ Association\n52.Singapore National Co-operative Federation Ltd\n53.Singapore Numismatic Association\n54.Singapore Philatelic Society\n55.Singapore Polytechnic Graduates’ Guild\n56.Singapore Polytechnic Students’ Union\n57.Singapore Professional Centre\n58.Singapore Red Cross Society\n59.Singapore Sailing Federation\n60.The Singapore Scout Association\n61.Singapore Sepaktakraw Federation\n62.Singapore Silat Federation (Persekutuan Silat Singapura)\n63.Singapore Squash Rackets Association\n64.Singapore Stamp Club\n65.Singapore Swimming Association\n66.Singapore Table Tennis Association\n67.Singapore Taekwondo Federation\n68.Singapore Tamil Teachers’ Union\n69.Singapore Teachers’ Union\n70.Singapore Tennis Association\n71.Singapore Weiqi Association\n72.Singapore Wushu Dragon & Lion Dance Federation\n73.Singapore Xiangqi General Association\n74.Singapore Youth Flying Club\n75.Society of Chinese Artists\n76.Sports Boules Singapore\n77.Sriwana\n78.Tamils Representative Council\n79.The Boys’ Brigade in Singapore\n80.The Eurasian Association, Singapore\n81.The Girls’ Brigade Singapore\n82.The Photographic Society of Singapore\n83.Volleyball Association of Singapore\n84.Young Men’s Christian Association of Singapore\n85.Young Women’s Christian Association of Singapore\n[S 406/2013; S 439/2013; S 584/2015; S 259/2017]"
+   }
+  }
+ ]
+}

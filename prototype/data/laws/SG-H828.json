@@ -1,0 +1,540 @@
+{
+ "id": "SG-H828",
+ "title": {
+  "zh": null,
+  "en": "Control of Plants (Cultivation of Plants) (Licensing and Certification) Rules",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p11",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CPA1993-R2",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 32,
+ "chars": 23171,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CPA1993-R2?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 32 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H828-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Rules may be cited as the Control of Plants (Cultivation of Plants) (Licensing and Certification) Rules."
+   }
+  },
+  {
+   "id": "SG-H828-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Rules, unless the context otherwise requires —\n“consignment” means any consignment of a single type of plant, fresh fruit or vegetable which has been produced for sale or supply;\n“crop” means any unharvested crop of a single type of plant, fresh fruit or vegetable which has been produced for sale or supply;\n“cultivation of plants” means the commercial production of any plant (whether from seed, tuber, cutting, rhizome, bulb, corm, stock, budwood, slip, sucker, graft, scion or any other part whatsoever from which such plant may be propagated) or fresh fruit or vegetable, but excludes the operation of any nursery or outlet for the primary purpose of the retail sale of plants;\n“farm” means any land or premises, whether enclosed by fencing or not, used for the cultivation of plants;\n“licence” means a licence issued by the Director-General under section 31 of the Act for the cultivation of plants;\n[S 296/2004 wef 01/06/2004]\n“licensee” means the holder of a licence;\n“permitted pesticide” means any pesticide which is registered under the Control of Plants (Registration of Pesticides) Rules (R 3);\n“pesticide operator” means a person who is authorised, whether by virtue of a pesticide operator’s certificate, to carry out or supervise the application or use of pesticides in the cultivation of plants or any activity directly relating to such work;\n“pesticide operator’s certificate” means a certificate issued by the Director-General under rule 14(1) certifying that the person to whom the certificate is issued is competent to carry out or supervise the application or use of pesticides in the cultivation of plants and authorising him to carry out or supervise such work;\n[S 296/2004 wef 01/06/2004]\n“unregistered pesticide” means any pesticide which is not registered under the Control of Plants (Registration of Pesticides) Rules (R 3)."
+   }
+  },
+  {
+   "id": "SG-H828-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Limitation of application of Rules"
+   },
+   "text": {
+    "en": "3. These Rules shall not apply to —\n(a)the cultivation of plants by any Government agency or statutory body; or\n(b)the cultivation of plants by tissue culture or micro-propagation techniques."
+   }
+  },
+  {
+   "id": "SG-H828-A3.001",
+   "no": 3.001,
+   "noLabel": {
+    "en": "3A."
+   },
+   "chapter": {
+    "en": "PART II FARM LICENCE FOR CULTIVATION OF PLANTS"
+   },
+   "heading": {
+    "en": "Keeping or maintenance of farm"
+   },
+   "text": {
+    "en": "3A. No person shall keep or maintain a farm except in accordance with a valid licence issued by the Director-General under section 31 of the Act and in accordance with the conditions, if any, of that licence.\n[S 296/2004 wef 01/06/2004]"
+   }
+  },
+  {
+   "id": "SG-H828-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART II FARM LICENCE FOR CULTIVATION OF PLANTS"
+   },
+   "heading": {
+    "en": "Fees for licence and renewal of licence"
+   },
+   "text": {
+    "en": "4. Every application for a licence and every application for the renewal of a licence shall be accompanied by the appropriate fee specified in the First Schedule."
+   }
+  },
+  {
+   "id": "SG-H828-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART II FARM LICENCE FOR CULTIVATION OF PLANTS"
+   },
+   "heading": {
+    "en": "Application for and issue or renewal of licence"
+   },
+   "text": {
+    "en": "5.—(1) In determining whether to issue or refuse to issue a licence to an applicant, the Director-General may consider the suitability of the land or premises to be licensed for use as a farm.\n(2) For the purposes of paragraph (1), the Director-General may, at any time —\n(a)enter and inspect the land or premises in respect of which the application for a licence is made, or cause such land or premises to be inspected by an authorised officer;\n(b)require the applicant to make available any relevant documentation for inspection and copying; and\n(c)require the applicant, at his own expense, to make such alteration or improvement to such land or premises or to provide, fix or install such facilities or structures as the Director-General may specify.\n(3) The Director-General may refuse to issue a licence to an applicant if —\n(a)the applicant or one of his partners or, if the applicant is a body corporate, one of its directors —\n(i)had previously been convicted of an offence under the Act; or\n(ii)had previously held a licence issued under the Act and the licence or permit, as the case may be, was subsequently revoked or suspended under section 32 of the Act; or\n(b)in the opinion of the Director-General —\n(i)the applicant is not a fit and proper person to be granted a licence; or\n(ii)the land or premises in respect of which the licence is being applied for is or are not suitable for use as a farm.\n(4) Paragraphs (1), (2) and (3) shall apply, with the necessary modifications, to an application for the renewal of a licence.\n[S 296/2004 wef 01/06/2004]"
+   }
+  },
+  {
+   "id": "SG-H828-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART II FARM LICENCE FOR CULTIVATION OF PLANTS"
+   },
+   "heading": {
+    "en": "Renewal of licence"
+   },
+   "text": {
+    "en": "6. Every application for the renewal of a licence may be made at any time during one month immediately preceding its expiry."
+   }
+  },
+  {
+   "id": "SG-H828-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART II FARM LICENCE FOR CULTIVATION OF PLANTS"
+   },
+   "text": {
+    "en": "7. [Deleted by S 296/2004 wef 01/06/2004]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H828-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART II FARM LICENCE FOR CULTIVATION OF PLANTS"
+   },
+   "heading": {
+    "en": "Replacement of lost or defaced licence"
+   },
+   "text": {
+    "en": "8.—(1) Where a licence has been lost or defaced before its expiry, the licensee may apply to the Director-General for the issue of a certified true copy of the licence.\n[S 296/2004 wef 01/06/2004]\n(2) Upon receiving an application under paragraph (1) and the payment of the appropriate fee specified in the First Schedule, the Director-General shall issue a certified true copy of the licence to the licensee and the certified true copy of the licence so issued shall have the same effect as the original thereof.\n[S 296/2004 wef 01/06/2004]\n(3) Any licensee to whom a certified true copy of a licence has been issued in replacement of a licence which he has lost shall, upon discovering the original licence, forthwith return the certified true copy of the licence to the Director-General.\n[S 296/2004 wef 01/06/2004]\n(4) No certified true copy of a licence shall be issued in place of a defaced licence unless the defaced licence is surrendered to the Director-General for cancellation.\n[S 296/2004 wef 01/06/2004]\n(5) No refund shall be made for the fee paid —\n(a)for a certified true copy of a licence upon its return to the Director-General under paragraph (3); or\n[S 296/2004 wef 01/06/2004]\n(b)for a licence surrendered to the Director-General under paragraph (4).\n[S 296/2004 wef 01/06/2004]"
+   }
+  },
+  {
+   "id": "SG-H828-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART II FARM LICENCE FOR CULTIVATION OF PLANTS"
+   },
+   "heading": {
+    "en": "Transfer of licence"
+   },
+   "text": {
+    "en": "9. No licensee shall transfer or assign the benefit of his licence to any other person without the prior approval of the Director-General.\n[S 296/2004 wef 01/06/2004]"
+   }
+  },
+  {
+   "id": "SG-H828-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART II FARM LICENCE FOR CULTIVATION OF PLANTS"
+   },
+   "heading": {
+    "en": "Alteration of licence"
+   },
+   "text": {
+    "en": "10. Any person who, without lawful authority, alters any licence issued under these Rules or knowingly makes use of any licence so altered shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H828-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART II FARM LICENCE FOR CULTIVATION OF PLANTS"
+   },
+   "heading": {
+    "en": "Revoked or suspended licence to be surrendered"
+   },
+   "text": {
+    "en": "11.—(1) A licensee shall, upon the receipt of a notice, referred to in section 32(3) of the Act, of the revocation or suspension of his licence, forthwith surrender his licence to the Director-General.\n[S 296/2004 wef 01/06/2004]\n(2) The Director-General shall, upon the expiry of the period of suspension of a licence which has been surrendered to him under paragraph (1), return the licence to the person to whom the licence was issued if the licence has not at that time expired.\n[S 296/2004 wef 01/06/2004]"
+   }
+  },
+  {
+   "id": "SG-H828-A11.001",
+   "no": 11.001,
+   "noLabel": {
+    "en": "11A."
+   },
+   "chapter": {
+    "en": "PART II FARM LICENCE FOR CULTIVATION OF PLANTS"
+   },
+   "heading": {
+    "en": "Power to waive or refund fees"
+   },
+   "text": {
+    "en": "11A. Subject to rule 8(5), the Director-General may, if he thinks fit, waive or refund the whole or any part of the licence fee payable under these Rules.\n[S 296/2004 wef 01/06/2004]"
+   }
+  },
+  {
+   "id": "SG-H828-A11.002",
+   "no": 11.002,
+   "noLabel": {
+    "en": "11B."
+   },
+   "chapter": {
+    "en": "PART II FARM LICENCE FOR CULTIVATION OF PLANTS"
+   },
+   "heading": {
+    "en": "Directives"
+   },
+   "text": {
+    "en": "11B.—(1) The Director-General may, at any time, issue to any licensee such written directives as he thinks necessary for the proper management and operation of a farm.\n(2) Where a licence is revoked or suspended under section 32 of the Act, the Director-General may issue to the person whose licence was revoked or suspended such written directives as he thinks necessary for the proper care and handling of the plants in the farm to which the licence relates.\n(3) Every licensee or person to whom any written directive is issued by the Director-General under paragraph (1) or (2) shall comply with such written directive.\n[S 296/2004 wef 01/06/2004]"
+   }
+  },
+  {
+   "id": "SG-H828-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART III PESTICIDE OPERATOR’S CERTIFICATE"
+   },
+   "heading": {
+    "en": "Application for pesticide operator’s certificate"
+   },
+   "text": {
+    "en": "12. Every application for a pesticide operator’s certificate shall be made in such form as the Director-General may provide and shall specify such particulars as the Director-General may require.\n[S 296/2004 wef 01/06/2004]"
+   }
+  },
+  {
+   "id": "SG-H828-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART III PESTICIDE OPERATOR’S CERTIFICATE"
+   },
+   "heading": {
+    "en": "Director-General may require applicant to undergo medical examination, test or training"
+   },
+   "text": {
+    "en": "13.—(1) Upon receiving an application under rule 12, the Director-General may, for the purpose of satisfying himself that the applicant is sufficiently competent and, in all other respects, a fit and proper person to be entrusted to apply or otherwise use pesticides in the cultivation of plants safely, require the applicant —\n(a)to undergo a medical examination; and\n(b)to take and successfully complete such tests as the Director-General may set.\n[S 296/2004 wef 01/06/2004]\n(2) The Director-General may require any applicant who does not possess the requisite qualification, training or practical experience in pesticide application to undergo such training as may be conducted by him prior to taking any test referred to in paragraph (1)(b).\n[S 296/2004 wef 01/06/2004]\n(3) Any applicant who does not successfully complete any test referred to in paragraph (1)(b) may apply to the Director-General for a re-test and the date of the re-test shall be decided by the Director-General.\n[S 296/2004 wef 01/06/2004]"
+   }
+  },
+  {
+   "id": "SG-H828-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART III PESTICIDE OPERATOR’S CERTIFICATE"
+   },
+   "heading": {
+    "en": "Issue of certificate"
+   },
+   "text": {
+    "en": "14.—(1) Upon being satisfied that the applicant is sufficiently competent and in all other respects a fit and proper person to be entrusted to apply or otherwise use pesticides in the cultivation of plants safely and upon the payment of the appropriate fee specified in the First Schedule, the Director-General may issue a pesticide operator’s certificate to the applicant subject to such conditions as he may think fit to impose.\n[S 296/2004 wef 01/06/2004]\n(2) Every pesticide operator’s certificate shall be in such form as the Director-General may determine.\n[S 296/2004 wef 01/06/2004]\n(3) Notwithstanding paragraph (1), the Director-General may refuse to issue a pesticide operator’s certificate without assigning any reason.\n[S 296/2004 wef 01/06/2004]\n(4) The Director-General may at any time add to, vary or revoke any of the conditions subject to which a pesticide operator’s certificate has been issued.\n[S 296/2004 wef 01/06/2004]"
+   }
+  },
+  {
+   "id": "SG-H828-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART III PESTICIDE OPERATOR’S CERTIFICATE"
+   },
+   "heading": {
+    "en": "Duration of pesticide operator’s certificate"
+   },
+   "text": {
+    "en": "15. Subject to section 13 of the Act and rule 17, every pesticide operator’s certificate shall be valid for a period not exceeding 3 years and may be renewed upon its expiry."
+   }
+  },
+  {
+   "id": "SG-H828-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART III PESTICIDE OPERATOR’S CERTIFICATE"
+   },
+   "heading": {
+    "en": "Renewal, replacement, transfer and alteration of pesticide operator’s certificate"
+   },
+   "text": {
+    "en": "16. Rules 8, 9 and 10 shall apply, with the necessary modifications, to a pesticide operator’s certificate as they apply to a licence."
+   }
+  },
+  {
+   "id": "SG-H828-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART III PESTICIDE OPERATOR’S CERTIFICATE"
+   },
+   "heading": {
+    "en": "Procedure on cancellation or suspension of pesticide operator’s certificate"
+   },
+   "text": {
+    "en": "17. Rule 11 shall apply, with the necessary modifications, upon the cancellation or suspension of a pesticide operator’s certificate under section 13 of the Act as they apply upon the cancellation or suspension of a licence under rule 11(1)."
+   }
+  },
+  {
+   "id": "SG-H828-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART IV PROVISIONS REGULATING CULTIVATION OF PLANTS AND SALE AND SUPPLY OF FRESH FRUITS AND VEGETABLES"
+   },
+   "heading": {
+    "en": "Disposal of pesticide and waste material"
+   },
+   "text": {
+    "en": "18.—(1) Every licensee shall ensure that any pesticide and waste material arising from the cultivation of plants on his farm is properly disposed of in accordance with —\n(a)the requirements specified in the Second Schedule; and\n(b)such directions as the Director-General may give from time to time.\n(2) Where any licensee or pesticide operator has disposed of any pesticide or pesticide container under rule 23(1)(fa), the licensee or pesticide operator, as the case may be, shall furnish to the Director-General, within a period of 7 days of the disposal, a letter from a chemical disposal company acknowledging the receipt and disposal of the pesticide.\n[S 296/2004 wef 01/06/2004]"
+   }
+  },
+  {
+   "id": "SG-H828-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART IV PROVISIONS REGULATING CULTIVATION OF PLANTS AND SALE AND SUPPLY OF FRESH FRUITS AND VEGETABLES"
+   },
+   "heading": {
+    "en": "Use and storage of pesticide"
+   },
+   "text": {
+    "en": "19.—(1) No pesticide shall be applied or used in the cultivation of plants or kept or stored on any farm unless the pesticide is registered with the Director-General under the Control of Plants (Registration of Pesticides) Rules (R 3).\n[S 296/2004 wef 01/06/2004]\n(2) Every licensee shall ensure that the application or use of any pesticide in the cultivation of plants on his farm is carried out or supervised by a pesticide operator certified by the Director-General under rule 14(1) or (2).\n[S 296/2004 wef 01/06/2004]"
+   }
+  },
+  {
+   "id": "SG-H828-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART IV PROVISIONS REGULATING CULTIVATION OF PLANTS AND SALE AND SUPPLY OF FRESH FRUITS AND VEGETABLES"
+   },
+   "heading": {
+    "en": "Duties of pesticide operator"
+   },
+   "text": {
+    "en": "20.—(1) It shall be the duty of every pesticide operator to ensure that —\n(a)any pesticide applied or used by him or by any person under his supervision in the cultivation of plants is registered with the Director-General under the Control of Plants (Registration of Pesticides) Rules;\n(b)the application or use of any pesticide by him or by any person under his supervision in the cultivation of plants is carried out in accordance with the instructions specified by the manufacturer of the pesticide, including, but not limited to, any instructions relating to —\n(i)the dosage and frequency of the application or use of the pesticide;\n(ii)the types of crops or plants in respect of which the pesticide may be applied or used;\n(iii)the types of pests for the control of which the pesticide may be applied or used;\n(iv)the method of application or use of the pesticide;\n(v)the pre-harvest interval in the application or use of the pesticide;\n(vi)any restrictions as to the application or use of the pesticide;\n(vii)the safety and protection of the person applying or using the pesticide; and\n(viii)the protection of the environment;\n(c)any person who applies or uses any pesticide in the cultivation of plants under his supervision is given sufficient information, instruction and guidance as to the application or use of the pesticide;\n(d)any pesticide applied or used in the cultivation of plants is properly stored in the farm, or disposed of, in accordance with the requirements specified in the Second Schedule;\n(e)any container which has been used on the farm to contain any pesticide is cleaned or disposed of in accordance with the requirements specified in the Second Schedule;\n(f)any fresh fruit or vegetable produced on the farm for sale or supply does not contain —\n(i)any residue of any unregistered pesticide; or\n(ii)any residue of any permitted pesticide exceeding —\n(A)the level specified in the Ninth Schedule to the Food Regulations (Cap. 283, Rg 1) in respect of that pesticide; or\n[S 217/2019 wef 01/04/2019]\n(B)where no such specification has been made in the Ninth Schedule to the Food Regulations in respect of any such pesticide, the level recommended by the Joint FAO/WHO Codex Alimentarius Commission in respect of that pesticide; and\n[S 217/2019 wef 01/04/2019]\n(g)a record relating to the application of any pesticide in the cultivation of plants on the farm is made and kept in such manner as the Director-General may require.\n(2) Every pesticide operator shall, whenever required to do so by the Director-General or an authorised officer, as the case may be —\n(a)submit to the Director-General any record made by him under paragraph (1)(g); or\n(b)produce any such record to the authorised officer for inspection."
+   }
+  },
+  {
+   "id": "SG-H828-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART IV PROVISIONS REGULATING CULTIVATION OF PLANTS AND SALE AND SUPPLY OF FRESH FRUITS AND VEGETABLES"
+   },
+   "heading": {
+    "en": "Licensee not to supply or sell fresh fruits or vegetables with pesticide residue exceeding specified level"
+   },
+   "text": {
+    "en": "21. No licensee shall supply or sell any fresh fruit or vegetable containing any residue of any unregistered pesticide or any residue of any permitted pesticide exceeding the level referred to in rule 20(1)(f)(ii)."
+   }
+  },
+  {
+   "id": "SG-H828-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART V POWERS OF AUTHORISED OFFICERS"
+   },
+   "heading": {
+    "en": "Powers to take samples for laboratory analysis, to prohibit harvest of crop and to detain consignment"
+   },
+   "text": {
+    "en": "22.—(1) An authorised officer may, for the purpose of ascertaining whether any crop or consignment of any plant, fresh fruit or vegetable produced for sale or supply by any licensee contains any residue of any unregistered pesticide or any residue of any permitted pesticide exceeding the level referred to in rule 20(1)(f)(ii), at any time enter the farm of the licensee and —\n(a)take such samples from the crop or consignment as may reasonably be necessary for laboratory analysis or examination; and\n(b)where it appears to him to be necessary to do so, prohibit the harvest of the crop or the distribution or sale of the consignment pending the result of the laboratory analysis or examination of the sample.\n(2) No payment shall be made for any sample taken under paragraph (1).\n(3) Where an authorised officer takes any sample under paragraph (1), the following procedure shall apply:\n(a)the authorised officer shall —\n(i)seal the sample in such manner as its nature permits;\n(ii)label the sample with the particulars of the licensee, the crop or consignment from which it is taken and the date on which it is taken; and\n(iii)sign his name on the label; and\n(b)the licensee or, where the licensee is not present, the person having charge of the farm at the material time shall sign an acknowledgment that the sample taken comes from the crop or consignment produced by the licensee,\nand thereafter the authorised officer shall forthwith deliver the sample to an authorised analyst for laboratory analysis or examination to determine whether the sample contains any residue of any unregistered pesticide or any residue of any permitted pesticide exceeding the level referred to in rule 20(1)(f)(ii).\n(4) Where an authorised officer has prohibited the harvest of a crop or the distribution or sale of any consignment pending the result of the laboratory analysis or examination of the sample taken therefrom under paragraph (1), the authorised officer —\n(a)shall cause the crop or consignment to be marked or labelled for identification; and\n(b)in the case of a consignment, may direct the licensee or, where the licensee is not present, the person having charge of the farm at the material time, to remove the consignment to such place as the authorised officer may specify and detain it thereat pending the result of the laboratory analysis or examination of the sample taken.\n(5) Any person who —\n(a)harvests any crop against the order of the authorised officer or, without the authority of the authorised officer, tampers with, removes, distributes, sells or otherwise disposes of, the whole or any part of a consignment which has been detained by the authorised officer under paragraph (4); or\n(b)alters, counterfeits, defaces, destroys, erases or removes any mark placed by the authorised officer for the identification of the crop or any label affixed by the authorised officer to the consignment for the identification thereof,\nshall be guilty of an offence.\n(6) Where the result of the laboratory analysis or examination of the sample taken under paragraph (1) confirms that the sample does not contain any residue of any unregistered pesticide or any residue of any permitted pesticide exceeding the level referred to in rule 20(1)(f)(ii), the authorised officer shall forthwith lift the prohibition against the harvest of the crop or direct the release of the consignment, as the case may be.\n(7) Where the result of the laboratory analysis or examination of the sample taken under paragraph (1) confirms that the sample does contain any unregistered pesticide or any residue of any permitted pesticide exceeding the level referred to in rule 20(1)(f)(ii), the authorised officer may, in accordance with such directions as the Director-General may give, order that the whole crop or consignment from which the sample is taken be seized and dealt with or disposed of in accordance with section 40(1)(b) or (c) of the Act.\n[S 296/2004 wef 01/06/2004]"
+   }
+  },
+  {
+   "id": "SG-H828-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART V POWERS OF AUTHORISED OFFICERS"
+   },
+   "heading": {
+    "en": "Powers of authorised officers"
+   },
+   "text": {
+    "en": "23.—(1) In addition to the general powers conferred by section 37(1) of the Act and the powers conferred by these Rules, an authorised officer may, at any time —\n(a)enter and inspect any premises which he has reason to believe has been used or is being used for the cultivation of plants;\n(b)enter and inspect any farm for the purpose of ascertaining whether any unregistered pesticide is being applied, kept, stored or used thereon;\n[S 296/2004 wef 01/06/2004]\n(c)inspect any place used for the storage of the pesticides which are being applied or used in the cultivation of plants;\n(d)open and examine any container or receptacle which contains or which the authorised officer reasonably believes to contain any pesticide;\n(e)require any licensee or any other person having the charge of the licensee’s farm or any pesticide operator to furnish such information and particulars as the authorised officer may reasonably require;\n(f)require any pesticide operator to produce for inspection any record made by him under rule 20(1)(g);\n[S 296/2004 wef 01/06/2004]\n(fa)require any licensee or pesticide operator to dispose of, in accordance with the requirements specified in the Second Schedule, any pesticide or pesticide container that is found on the farm; and\n[S 296/2004 wef 01/06/2004]\n(g)do such other act or thing as may be necessary for the purpose of carrying out his duties under these Rules.\n(2) Any person who obstructs any authorised officer in the exercise of his powers under this rule shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H828-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART VI OFFENCE, PENALTY AND FORFEITURE"
+   },
+   "heading": {
+    "en": "Making of false declarations, etc."
+   },
+   "text": {
+    "en": "24. Any person who, being required by or by virtue of these Rules to make any declaration, statement or representation or to produce any document or who, for the purpose of obtaining any licence or pesticide operator’s certificate —\n(a)makes or presents any declaration, statement or representation which, to his knowledge, is false in any material particular; or\n(b)produces any document which, to his knowledge, is false in any material particular or has not been made by the person by whom it purports to have been made, or has been in any way altered or tampered with,\nshall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H828-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART VI OFFENCE, PENALTY AND FORFEITURE"
+   },
+   "heading": {
+    "en": "Offences"
+   },
+   "text": {
+    "en": "25. Any person who contravenes rule 3A, 9, 11(1), 11B(3), 18(1) or (2), 19(1) or (2), 20(1) or (2), 21 or 22(3)(b) shall be guilty of an offence.\n[S 296/2004 wef 01/06/2004]"
+   }
+  },
+  {
+   "id": "SG-H828-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART VI OFFENCE, PENALTY AND FORFEITURE"
+   },
+   "heading": {
+    "en": "Penalty"
+   },
+   "text": {
+    "en": "26. Any person who is guilty of an offence under these Rules shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both."
+   }
+  },
+  {
+   "id": "SG-H828-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART VI OFFENCE, PENALTY AND FORFEITURE"
+   },
+   "heading": {
+    "en": "Forfeiture of consignment upon conviction"
+   },
+   "text": {
+    "en": "27. Where any person is convicted of an offence under these Rules, the court may order that any consignment and any container, receptacle or other article to which the offence relates shall be forfeited to the Board and disposed of as the Director-General thinks fit.\n[S 217/2019 wef 01/04/2019]"
+   }
+  },
+  {
+   "id": "SG-H828-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRules 4, 8(2) and 14(1)\nFees\n1.For the issue or renewal of a farm licence\n$100 per year\n2.For the issue or renewal of a pesticide operator’s certificate\n$210 for 3 years\n3.For a certified true copy of a document\n$9.45\n[S 450/2006 wef 01/08/2006]"
+   }
+  },
+  {
+   "id": "SG-H828-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRule 20(1)(d) and (e)\nRequirements for Storage and Disposal of Pesticide and Cleaning and Disposal of Pesticide Container\n1. Requirements for storage of pesticide\n(1) Any pesticide used in the cultivation of plants shall be stored —\n(a)in a dry and well-ventilated place away from direct sunlight or any dwelling-house or watercourse or any food, animal feed or other combustible material;\n(b)under lock and key and out of the reach of children;\n(c)in its original container and with its original label intact; and\n(d)in accordance with any other directions, as the Director-General may give from time to time.\n[S 296/2004 wef 01/06/2004]\n(2) There shall be placed at a conspicuous part of the place in which any pesticide is stored a sign in such form as the Director-General may require, stating that that place is used for the storage of pesticides.\n[S 296/2004 wef 01/06/2004]\n2. Requirements for the cleaning and disposal of pesticide container\n(1) Any container which has been used to contain any pesticide shall be emptied and rinsed at least 3 times before being disposed of.\n(2) The water used to rinse the container shall not be discharged directly into any watercourse, drain or water source\n(3) The container shall not be used to contain water for human or animal use, food or animal feed and shall be rendered unusable before disposal.\n(4) The disposal of any container used to contain any pesticide shall be carried out by a chemical disposal company approved by the Director-General.\n[S 296/2004 wef 01/06/2004]\n3. Requirements for the disposal of pesticide\n(1) No pesticide, including unused or unfinished concentrates or spray solutions, shall be discharged directly into any watercourse, watersource or drain, or in a manner that may contaminate the environment or pose a hazard to livestock, wildlife or human health.\n(2) The disposal of any pesticide shall be carried out by a chemical disposal company approved by the Director-General.\n[S 296/2004 wef 01/06/2004]"
+   }
+  }
+ ]
+}

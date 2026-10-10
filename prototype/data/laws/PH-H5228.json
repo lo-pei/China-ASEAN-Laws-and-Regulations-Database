@@ -1,0 +1,64 @@
+{
+ "id": "PH-H5228",
+ "title": {
+  "zh": null,
+  "en": "An Act Changing the Name of the Vito Cruz Street in the Districts of Malate and Singalong, City of Manila, and in the Municipality of Makati, Metro Manila, to Pablo de Leon Ocampo Street in Honor of Pablo de Leon Ocampo, Lawyer, Editor, Parliamentarian, Statesman and Nationalist",
+  "orig": "An Act Changing the Name of the Vito Cruz Street in the Districts of Malate and Singalong, City of Manila, and in the Municipality of Makati, Metro Manila, to Pablo de Leon Ocampo Street in Honor of Pablo de Leon Ocampo, Lawyer, Editor, Parliamentarian, Statesman and Nationalist"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p74",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1989-06-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6731",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 388,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1989/ra_6731_1989.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1989/ra_6731_1989.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H5228-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The name of the Vito Cruz Street in the districts of Malate and Singalong, City of Manila, traversing the Municipality of Makati, Metro Manila, is hereby changed to Pablo de Leon Ocampo Street in honor of Pablo de Leon Ocampo, lawyer, editor, parliamentarian, statesman and nationalist."
+   }
+  },
+  {
+   "id": "PH-H5228-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its publication in at least two (2) newspapers of general circulation."
+   }
+  }
+ ]
+}

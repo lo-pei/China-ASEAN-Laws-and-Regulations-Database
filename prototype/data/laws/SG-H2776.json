@@ -1,0 +1,506 @@
+{
+ "id": "SG-H2776",
+ "title": {
+  "zh": null,
+  "en": "Insolvency, Restructuring and Dissolution (Filing, Lodgment and Submission of Documents) Regulations 2020",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p35",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation IRDA2018-S586-2020",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 29,
+ "chars": 20480,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/IRDA2018-S586-2020?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 29 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2776-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Insolvency, Restructuring and Dissolution (Filing, Lodgment and Submission of Documents) Regulations 2020 and come into operation on 30 July 2020."
+   }
+  },
+  {
+   "id": "SG-H2776-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“document” includes any application, form, report, certification, notice, confirmation, declaration, return or other document (whether in electronic form or otherwise) filed or lodged with, or submitted to, the Official Assignee, the Official Receiver or the Registrar of Companies;\n“transaction” —\n(a)in relation to the Official Assignee or the Official Receiver, means —\n(i)the filing or lodgment of any document with the Official Assignee or the Official Receiver (as the case may be) or the submission, production, delivery, provision or sending of any document to the Official Assignee or the Official Receiver, as the case may be;\n(ii)the making of any application, submission or request to the Official Assignee or the Official Receiver, as the case may be;\n(iii)the provision of any undertaking or declaration to the Official Assignee or the Official Receiver, as the case may be; or\n(iv)the extraction, retrieval, or accessing of any document, record or information maintained by the Official Assignee or the Official Receiver, as the case may be; or\n(b)in relation to the Registrar of Companies, has the meaning given by section 255(4) of the Act."
+   }
+  },
+  {
+   "id": "SG-H2776-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Forms"
+   },
+   "text": {
+    "en": "3.—(1) The forms to be used for the purposes of these Regulations —\n(a)in the case of a transaction with the Official Assignee or the Official Receiver, are those set out on the Internet website of the Ministry of Law at https://www.mlaw.gov.sg; or\n(b)in the case of a transaction with the Registrar of Companies, are those set out on the Internet website of the Accounting and Corporate Regulatory Authority at https://www.bizfile.gov.sg.\n(2) Where such forms are applicable, any costs occasioned by the use of any other forms that are not prescribed must, unless the Court otherwise directs, be borne by the party using such other forms."
+   }
+  },
+  {
+   "id": "SG-H2776-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Particulars prescribed by forms"
+   },
+   "text": {
+    "en": "4. Where a form prescribed under the Act or any subsidiary legislation made under the Act requires completion by the insertion of, or the attachment to the form of a document that contains, particulars or other matters mentioned in the form, those particulars or other matters are prescribed as the particulars or other matters required under the Act or the subsidiary legislation for which the form is prescribed."
+   }
+  },
+  {
+   "id": "SG-H2776-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Directions in forms"
+   },
+   "text": {
+    "en": "5. A form to be used for the purposes of these Regulations must be completed in accordance with any direction specified by the Official Assignee, the Official Receiver or the Registrar of Companies, or in the form."
+   }
+  },
+  {
+   "id": "SG-H2776-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Electronic filing system"
+   },
+   "text": {
+    "en": "6. An electronic filing system is established for the purpose of carrying out transactions with the Official Receiver under these Regulations, which may be accessed through the Official Receiver’s Internet website at https://www.mlaw.gov.sg."
+   }
+  },
+  {
+   "id": "SG-H2776-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Requirement to use electronic filing system"
+   },
+   "text": {
+    "en": "7.—(1) Except as provided in paragraph (2) or as the Official Receiver otherwise requires or permits, a person seeking to carry out any transaction with the Official Receiver under the Act must do so using the electronic filing system on the electronic filing form provided for that purpose and in accordance with these Regulations, and any practice circular or practice direction issued by the Official Receiver.\n(2) If a transaction mentioned in paragraph (1) cannot be carried out using the electronic filing system (whether because of a failure or unavailability of or interruption to the electronic filing system or otherwise), the person seeking to carry out the transaction must do so —\n(a)in the manner specified in any practice circular or practice direction issued by the Official Receiver; and\n(b)in any other form set out on the Official Receiver’s Internet website mentioned in regulation 6.\n(3) The Official Receiver may refuse to process a transaction if the person seeking to carry out the transaction with the Official Receiver —\n(a)does not comply with paragraph (1) or (2);\n(b)does not comply with regulation 9;\n(c)being required to complete an electronic filing form or any other form provided by the Official Receiver for that purpose, fails to properly complete the form in accordance with the instructions contained in the form;\n(d)being required to attach any document to, or provide any information required in, an electronic filing form or any other form provided by the Official Receiver for that purpose, fails to attach the document or provide the information, as the case may be; or\n(e)fails to pay the fee prescribed for the transaction.\n(4) To avoid doubt, a reference to a refusal to process a transaction with the Official Receiver in paragraph (3) includes, where the transaction relates to the filing or lodgment of a document with the Official Receiver, a refusal to accept the document for filing or lodgment.\n(5) This regulation applies subject to regulations 23 and 24."
+   }
+  },
+  {
+   "id": "SG-H2776-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Receipt of submission"
+   },
+   "text": {
+    "en": "8.—(1) Without affecting regulation 7(3) and (4), any application, request or document transmitted by means of the electronic filing system is considered to have been submitted to and received by the Official Receiver if the last byte of the transmission is received by the server designated by the Official Receiver for the receipt of such transmissions.\n(2) A person who files or lodges with the Official Receiver any application, request or document by means of the electronic filing system may produce a record of transmission issued through the electronic filing system together with a copy of the notification of acceptance of the transmission by the Official Receiver as evidence of —\n(a)the filing or lodgment of the application, request or document; and\n(b)the date and time the filing or lodgment took place."
+   }
+  },
+  {
+   "id": "SG-H2776-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Identification documents"
+   },
+   "text": {
+    "en": "9. The Official Receiver may require a person who carries out any transaction with the Official Receiver to produce the person’s identity card, passport or any other identification document that the Official Receiver may accept, to verify the person’s identity."
+   }
+  },
+  {
+   "id": "SG-H2776-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "General requirements for documents filed or lodged with Official Receiver"
+   },
+   "text": {
+    "en": "10.—(1) Any document that is to accompany a form to be filed or lodged with the Official Receiver must —\n(a)comply with any direction specified by the Official Receiver; and\n(b)be filed or lodged in accordance with any direction specified by the Official Receiver or in that form.\n(2) Without limiting paragraph (1), a direction specified by the Official Receiver or in the form may provide for the format in which the document is to be filed or lodged."
+   }
+  },
+  {
+   "id": "SG-H2776-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Electronic filing system"
+   },
+   "text": {
+    "en": "11. An electronic filing system is established for the purpose of carrying out transactions with the Official Assignee under these Regulations, which may be accessed through the Official Assignee’s Internet website at https://www.mlaw.gov.sg."
+   }
+  },
+  {
+   "id": "SG-H2776-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Requirement to use electronic filing system"
+   },
+   "text": {
+    "en": "12.—(1) Except as provided in paragraph (2) or as the Official Assignee otherwise requires or permits, a person seeking to carry out any transaction with the Official Assignee under the Act must do so using the electronic filing system on the electronic filing form provided for that purpose and in accordance with these Regulations, and any practice circular or practice direction issued by the Official Assignee.\n(2) If a transaction mentioned in paragraph (1) cannot be carried out using the electronic filing system (whether because of a failure or unavailability of or interruption to the electronic filing system or otherwise), the person seeking to carry out the transaction must do so —\n(a)in the manner specified in any practice circular or practice direction issued by the Official Assignee; and\n(b)in any other form set out on the Official Assignee’s Internet website mentioned in regulation 11.\n(3) The Official Assignee may refuse to process a transaction if the person seeking to carry out the transaction with the Official Assignee —\n(a)does not comply with paragraph (1) or (2);\n(b)does not comply with regulation 14;\n(c)being required to complete an electronic filing form or any other form provided by the Official Assignee for that purpose, fails to properly complete the form in accordance with the instructions contained in the form;\n(d)being required to attach any document to, or provide any information required in, an electronic filing form or any other form provided by the Official Assignee for that purpose, fails to attach the document or provide the information, as the case may be; or\n(e)fails to pay the fee prescribed for the transaction.\n(4) To avoid doubt, a reference to a refusal to process a transaction with the Official Assignee in paragraph (3) includes, where the transaction relates to the filing or lodgment of a document with the Official Assignee, a refusal to accept the document for filing or lodgment."
+   }
+  },
+  {
+   "id": "SG-H2776-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Receipt of submission"
+   },
+   "text": {
+    "en": "13.—(1) Without affecting regulation 12(3) and (4), any application, request or document transmitted by means of the electronic filing system is considered to have been submitted to and received by the Official Assignee if the last byte of the transmission is received by the server designated by the Official Assignee for the receipt of such transmissions.\n(2) A person who files or lodges with the Official Assignee any application, request or document by means of the electronic filing system may produce a record of transmission issued through the electronic filing system together with a copy of the notification of acceptance of the transmission by the Official Assignee as evidence of —\n(a)the filing or lodgment of the application, request or document; and\n(b)the date and time the filing or lodgment took place."
+   }
+  },
+  {
+   "id": "SG-H2776-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Identification documents"
+   },
+   "text": {
+    "en": "14. The Official Assignee may require a person who carries out any transaction with the Official Assignee to produce the person’s identity card, passport or any other identification document that the Official Assignee may accept, to verify the person’s identity."
+   }
+  },
+  {
+   "id": "SG-H2776-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "General requirements for documents filed or lodged with Official Assignee"
+   },
+   "text": {
+    "en": "15.—(1) Any document that is to accompany a form to be filed or lodged with the Official Assignee must —\n(a)comply with any direction specified by the Official Assignee; and\n(b)be filed or lodged in accordance with any direction specified by the Official Assignee or in that form.\n(2) Without limiting paragraph (1), a direction specified by the Official Assignee or in the form may provide for the format in which the document is to be filed or lodged."
+   }
+  },
+  {
+   "id": "SG-H2776-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Requirement to use electronic transaction system"
+   },
+   "text": {
+    "en": "16.—(1) Except as provided in paragraph (2) or as the Registrar of Companies otherwise requires or permits, a person seeking to carry out any transaction with the Registrar of Companies under the Act must do so —\n(a)using the electronic transaction system established under Part 6A of the Accounting and Corporate Regulatory Authority Act 2004 (which may be accessed through the Internet website of the Registrar of Companies at https://www.bizfile.gov.sg) on the electronic transaction form provided for that purpose; and\n[S 956/2024 wef 31/12/2021]\n(b)in accordance with these Regulations and any practice direction issued by the Registrar of Companies.\n(2) If a transaction mentioned in paragraph (1) cannot be carried out using the electronic transaction system (whether because of a failure or unavailability of or interruption to the electronic transaction system), the person seeking to carry out the transaction must do so in any form and manner determined by the Registrar of Companies.\n(3) The Registrar of Companies may refuse to process a transaction if the person seeking to carry out the transaction with the Registrar of Companies —\n(a)does not comply with paragraph (1) or (2);\n(b)does not comply with regulation 18;\n(c)being required to complete an electronic transaction form or any other form provided by the Registrar of Companies for that purpose, fails to properly complete the form in accordance with the instructions contained in the form;\n(d)being required to attach any document to, or provide any information required in, an electronic transaction form provided by the Registrar of Companies for that purpose, fails to attach the document or provide the information, as the case may be; or\n(e)fails to pay the fee prescribed for the transaction.\n(4) To avoid doubt, a reference to a refusal to process a transaction with the Registrar of Companies in paragraph (3) includes, where the transaction relates to the filing or lodging of a document with the Registrar of Companies, a refusal to accept the document for filing or lodgment."
+   }
+  },
+  {
+   "id": "SG-H2776-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Receipt of submission"
+   },
+   "text": {
+    "en": "17.—(1) Without affecting regulation 16(3) and (4), any application, request or document transmitted by means of the electronic transaction system is considered to have been submitted to and received by the Registrar of Companies if the last byte of the transmission is received by the server designated by the Registrar of Companies for the receipt of such transmissions.\n(2) A person who files or lodges with the Registrar of Companies any application, request or document by means of the electronic transaction system may produce a record of transmission issued through the electronic transaction system together with a copy of the notification of acceptance of the transmission by the Registrar of Companies as evidence of —\n(a)the filing or lodgment of the application, request or document; and\n(b)the date and time the filing or lodgment took place."
+   }
+  },
+  {
+   "id": "SG-H2776-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Identification documents"
+   },
+   "text": {
+    "en": "18. The Registrar of Companies may require a person who carries out any transaction with the Registrar of Companies under the Act to produce the person’s identity card, passport or any other identification document that the Registrar of Companies may accept, to verify the person’s identity."
+   }
+  },
+  {
+   "id": "SG-H2776-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "General requirements for documents filed or lodged with Registrar of Companies"
+   },
+   "text": {
+    "en": "19.—(1) Any document that is to accompany a form to be filed or lodged with the Registrar of Companies must —\n(a)comply with any direction specified by the Registrar of Companies; and\n(b)be filed or lodged in accordance with any direction specified by the Registrar of Companies or in that form.\n(2) Without limiting paragraph (1), a direction specified by the Registrar of Companies or in the form may provide for the format in which the document is to be filed or lodged."
+   }
+  },
+  {
+   "id": "SG-H2776-A19.001",
+   "no": 19.001,
+   "noLabel": {
+    "en": "19A."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Excluded documents under section 254(3A) of Act"
+   },
+   "text": {
+    "en": "19A. For the purposes of section 254(3A) of the Act, a document filed or lodged with, or obtained by, the Registrar of Companies on or after 9 December 2024 (other than a form mentioned in regulation 19B) that contains any of the following information about an individual is an excluded document to which section 254(2A) of the Act does not apply:\n(a)the individual’s date of birth;\n(b)the individual’s residential address;\n(c)the individual’s email address;\n(d)the individual’s mobile telephone number.\n[S 956/2024 wef 09/12/2024]\n[S 207/2026 wef 06/05/2026]"
+   }
+  },
+  {
+   "id": "SG-H2776-A19.002",
+   "no": 19.002,
+   "noLabel": {
+    "en": "19B."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Prescribed information under section 254(3B)(c) of Act"
+   },
+   "text": {
+    "en": "19B. For the purposes of section 254(3B)(c) of the Act, the reference to a document in section 254(2A) of the Act excludes the following entries in a form submitted on the electronic transaction system mentioned in regulation 16(1)(a):\n(a)a person’s email address;\n(b)an individual’s residential address;\n(c)an individual’s mobile telephone number.\n[S 956/2024 wef 09/12/2024]\n[S 207/2026 wef 06/05/2026]"
+   }
+  },
+  {
+   "id": "SG-H2776-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL PROVISIONS FOR FILING OR LODGMENT OF FORMS AND DOCUMENTS ATTACHED TO FORMS"
+   },
+   "heading": {
+    "en": "Certified translations of documents"
+   },
+   "text": {
+    "en": "20.—(1) For the purposes of section 265 of the Act, “certified translation” means a translation that —\n(a)in the case of a translation made outside Singapore —\n(i)is certified by an official to whom the custody of the original instrument, certificate, contract or document is committed, being an official holding or purporting to hold an office corresponding to that of the Official Receiver or the Registrar of Companies (as the case may be) in the place in which the corporation is formed or incorporated;\n(ii)is certified by a notary public or a translator duly admitted and sworn in accordance with the law of the place in which the corporation is formed or incorporated; or\n(iii)is certified by a Singapore consular officer in the place in which the corporation is formed or incorporated; or\n(b)in the case of a translation made within Singapore, is certified by a person approved by the Official Receiver or the Registrar of Companies (as the case may be) to be a correct translation in the English language.\n(2) The Official Receiver or the Registrar of Companies (as the case may be) may, before accepting a translation for lodgment, require the person lodging the translation to provide to the Official Receiver or the Registrar of Companies (as the case may be) any evidence that the Official Receiver or the Registrar of Companies (as the case may be) thinks sufficient of the ability of the person by whom the translation is made to make the translation.\n(3) In this regulation, “Singapore consular officer” means a Consul or a person performing consular functions on behalf of the Government."
+   }
+  },
+  {
+   "id": "SG-H2776-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL PROVISIONS FOR FILING OR LODGMENT OF FORMS AND DOCUMENTS ATTACHED TO FORMS"
+   },
+   "heading": {
+    "en": "Time for filing or lodgment of documents"
+   },
+   "text": {
+    "en": "21. Where a form or document is required under the Act or any subsidiary legislation made under the Act to be filed or lodged with the Official Assignee, the Official Receiver or the Registrar of Companies, but a period of time within which that form or document is to be filed or lodged is not prescribed, that form or document must be filed or lodged —\n(a)within 14 days; or\n(b)in the case of a form or document required to be filed or lodged by a foreign company, within a further period that the Official Assignee, the Official Receiver or the Registrar of Companies (as the case may be) may in special circumstances allow,\nafter the occurrence of the event to which the form or document relates."
+   }
+  },
+  {
+   "id": "SG-H2776-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL PROVISIONS FOR FILING OR LODGMENT OF FORMS AND DOCUMENTS ATTACHED TO FORMS"
+   },
+   "heading": {
+    "en": "Affidavit and statutory declaration"
+   },
+   "text": {
+    "en": "22.—(1) Except as otherwise provided in the Act, any subsidiary legislation made under the Act or in any form, an affidavit or a statutory declaration sworn or declared on behalf of a corporation for the purposes of the Act or any subsidiary legislation made under the Act must be sworn or declared by a director or the secretary of the corporation.\n(2) Where an affidavit or a statutory declaration prescribed by the Act or any subsidiary legislation made under the Act purports to be sworn or declared at a place outside Singapore, the affidavit or statutory declaration is sufficient for the purposes of the Act or the subsidiary legislation if it purports to be sworn or declared in accordance with the requirements of the law of that place."
+   }
+  },
+  {
+   "id": "SG-H2776-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL PROVISIONS FOR FILING OR LODGMENT OF FORMS AND DOCUMENTS ATTACHED TO FORMS"
+   },
+   "heading": {
+    "en": "Filing or lodgment of documents with Registrar of Companies and Official Receiver"
+   },
+   "text": {
+    "en": "23. A document filed or lodged with the Registrar of Companies in accordance with section 72E(2)(b), 72M(15), 81(1) or (2), 83(1)(c)(i), 85(1)(a), 94(3)(e) or (5)(a), 105(1)(a), 108(7), 111(7), 112(3), 115(5), 132(1) and (2)(a), 141(3), 148(3) or (6), 149(6), 165(7), 180(3) or (8), 186(4), 191(1) or (3), 208(2), 211(5) or 250OB(7) of the Act, or section 180(7) of the Act (as replaced by section 250L(7) of the Act), is deemed to have been also filed or lodged with the Official Receiver upon payment of the prescribed fees (if any) for both the filings or lodgments.\n[S 27/2026 wef 29/01/2026]"
+   }
+  },
+  {
+   "id": "SG-H2776-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL PROVISIONS FOR FILING OR LODGMENT OF FORMS AND DOCUMENTS ATTACHED TO FORMS"
+   },
+   "heading": {
+    "en": "Filing or lodgment of order of Court"
+   },
+   "text": {
+    "en": "24. Subject to regulation 23, a copy of an order of the Court to be filed or lodged with the Official Receiver or the Registrar of Companies under the Act must, unless expressly provided in the applicable form, be filed or lodged in the form on the electronic filing system mentioned in regulation 6 or electronic transaction system mentioned in regulation 16(1)(a) (as the case may be) that relates to the general filing or lodgment of orders of the Court."
+   }
+  },
+  {
+   "id": "SG-H2776-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 MATTERS RELATING TO RECTIFICATION OF PARTICULARS ON REGISTER KEPT BY REGISTRAR OF COMPANIES"
+   },
+   "heading": {
+    "en": "Prescribed form to notify error in document under section 257(1) of Act"
+   },
+   "text": {
+    "en": "25. For the purpose of section 257(1) of the Act, the “prescribed form” is the form titled “Notice of Error” set out on the electronic transaction system mentioned in regulation 16(1)(a)."
+   }
+  },
+  {
+   "id": "SG-H2776-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 MATTERS RELATING TO RECTIFICATION OF PARTICULARS ON REGISTER KEPT BY REGISTRAR OF COMPANIES"
+   },
+   "heading": {
+    "en": "Prescribed department or Ministry of Government, etc., under section 258(1)(b)(ii) of Act"
+   },
+   "text": {
+    "en": "26. For the purposes of section 258(1)(b)(ii) of the Act —\n(a)each of the following is a prescribed department or Ministry of the Government:\n(i)the Department of Statistics, Ministry of Energy, Trade and Industry;\n[S 659/2026 wef 01/10/2026]\n(ii)the Ministry of Home Affairs;\n(iii)the Ministry of Manpower; and\n(b)Singapore Post Limited is a prescribed body corporate."
+   }
+  },
+  {
+   "id": "SG-H2776-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 4 MATTERS RELATING TO RECTIFICATION OF PARTICULARS ON REGISTER KEPT BY REGISTRAR OF COMPANIES"
+   },
+   "heading": {
+    "en": "Prescribed circumstances under section 258(2) of Act"
+   },
+   "text": {
+    "en": "27. For the purpose of section 258(2) of the Act, the prescribed circumstances are where —\n(a)the conflict is between the particulars of the company or person in a register, and —\n(i)the Singapore Standard Industrial Classification obtained from the Department of Statistics, Ministry of Energy, Trade and Industry;\n[S 659/2026 wef 01/10/2026]\n(ii)the particulars (including residential address) of the person registered under the National Registration Act 1965 obtained from the Ministry of Home Affairs;\n[S 956/2024 wef 31/12/2021]\n(iii)the foreign identification number of a foreigner obtained from the Ministry of Manpower; or\n(iv)the building name, postal code or street name of a property obtained from Singapore Post Limited; and\n(b)the Registrar of Companies is satisfied that the effort involved in giving the written notice mentioned in section 258(2) of the Act would be excessive, having regard to the likelihood that the company or person whose particulars are to be rectified or updated would object to the rectification or update."
+   }
+  }
+ ]
+}

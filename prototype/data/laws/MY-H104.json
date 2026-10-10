@@ -1,0 +1,52 @@
+{
+ "id": "MY-H104",
+ "title": {
+  "zh": "雇佣法_1955",
+  "en": "EMPLOYMENT ACT 1955",
+  "orig": null
+ },
+ "country": "MY",
+ "countryName": "马来西亚",
+ "layer": "intl",
+ "pack": "my-p06",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1955",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "马来西亚官方发布渠道",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 1029,
+ "source": {
+  "name": "马来西亚官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "文本未能可靠切分为条文（或原件为目录式排版），按整篇收录，未作改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "MY-H104-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "# EMPLOYMENT ACT 1955 > 本文件为自动采集的元数据头，随原始文件一同保存。\n> 原始文件未被改写；正文逐字照录于同目录下的原始文件。\n| 项目 | 内容 | | --- | --- | | 原文标题 | EMPLOYMENT ACT 1955 | | 官方页面标注标题 | Malaysia Federal Legislation | | 中文译名 | 雇佣法 | | 英文译名 | Employment Act 1955 | | 法律领域 | 劳动法 | | 颁布机构 | 马来西亚总检察署（Attorney General's Chambers, LOM） | | 官方来源 URL | https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20265%20-%20Employment%20Act%201955.pdf | | 数据抓取实际 URL | https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20265%20-%20Employment%20Act%201955.pdf | | 颁布日期 | 1955（1955-06-04 御准；1955-06-27 宪报公布） | | 生效日期 | 未核实（来源未标注） | | 修订日期 | 未核实（来源未标注） | | 版本 | 马来西亚法规在线（LOM）现行合并版 | | 原文语种 | en | | 来源类型 | 官方（Laws of Malaysia, lom.agc.gov.my，总检察署） | | 抓取日期 | 2026-10-03 | | 本地文件 | 马来西亚_雇佣法_1955_en.pdf | | 文件格式 | pdf | | 文件大小(字节) | 673871 | | 页数 | 120 | | 字数 |  | | SHA-256 | 1ee65655aedadc7d1ea2e47526036106149835583d246e61d3de3d10749e1b95 | | HTTP 状态 | 200 | | HTTPS 证书校验 | verified | | 完整性/缺失范围 | 官方合并版 PDF 全文（未删节） | | 备注 | PDF 路径由 LOM 官方记录页内的 PDF 阅读器链接解析得到，非人工推测。 |"
+   }
+  }
+ ]
+}

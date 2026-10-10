@@ -1,0 +1,2545 @@
+{
+ "id": "SG-H3028",
+ "title": {
+  "zh": null,
+  "en": "Limited Liability Partnerships (Winding Up) Rules",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p38",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation LLPA2005-R2",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 193,
+ "chars": 111716,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/LLPA2005-R2?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 193 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3028-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Rules may be cited as the Limited Liability Partnerships (Winding Up) Rules."
+   }
+  },
+  {
+   "id": "SG-H3028-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Rules, unless the context otherwise requires —\n“applicant” means a person making an application to wind up an LLP and includes an LLP making an application to wind itself up;\n“Assessing Master” means the Registrar or other officer of the Court whose duty it is to assess costs in the proceedings of the Court under its ordinary jurisdiction;\n[S 197/2022 wef 01/04/2022]\n“Court” means the General Division of the High Court;\n[S 1037/2020 wef 02/01/2021]\n“creditor” includes a corporation and a firm of creditors in partnership;\n“filed” means filed in the Court;\n“form” means a form set out in the First Schedule, and a form referred to by a number means the form so numbered in that Schedule;\n“limited liability partnership” or “LLP” means a limited liability partnership which is being wound up or against which proceedings to have it wound up have been commenced;\n“liquidator” includes a provisional liquidator;\n“proceedings” means the proceedings in the winding up of an LLP under the Act;\n“Registrar” means the Registrar of the Supreme Court and includes a Deputy Registrar and an Assistant Registrar;\n“sealed” means sealed with the seal of the Court.\n[S 197/2022 wef 01/04/2022]\n[Deleted by S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Use of forms"
+   },
+   "text": {
+    "en": "3.—(1) For the purpose of these Rules, the forms prescribed in the First Schedule where applicable, and where they are not applicable, forms of the like character, with such variations as circumstances may require, shall be used.\n(2) Where such forms are applicable any costs occasioned by the use of any other forms not prescribed shall, unless the Court otherwise directs, be borne by the party using such other forms."
+   }
+  },
+  {
+   "id": "SG-H3028-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Office of Registrar"
+   },
+   "text": {
+    "en": "4.—(1) All proceedings in the winding up of LLPs in the Court shall be attached to the Registrar, who shall, together with the necessary clerks and officers, and subject to the Act and these Rules, act under the general or special directions of the Judge.\n(2) In every cause or matter within the jurisdiction of the Judge, whether by virtue of the Act or by transfer, or otherwise, the Registrar shall, in addition to his powers and duties under these Rules, have all the powers and duties assigned to him under section 62 of the Supreme Court of Judicature Act (Cap. 322)."
+   }
+  },
+  {
+   "id": "SG-H3028-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Matters to be heard in Court and Chambers"
+   },
+   "text": {
+    "en": "5.—(1) The following matters and applications in Court shall be heard before the Judge in open Court:\n(a)winding up applications;\n(b)appeals to Court;\n(c)applications under paragraph 97 of the Fifth Schedule to the Act;\n(d)applications for the committal of any person to prison for contempt;\n(e)applications to rectify the Register; and\n(f)such matters and applications as the Judge may from time to time by any general or special orders direct to be heard before him in open Court.\n(2) Every other matter or application to the Court under the Act to which these Rules apply may be heard and determined in Chambers."
+   }
+  },
+  {
+   "id": "SG-H3028-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Applications in Chambers"
+   },
+   "text": {
+    "en": "6. Subject to the provisions of the Act and these Rules —\n(a)the Registrar may under the general or special directions of the Judge hear and determine any application or matter which under the Act or these Rules may be heard and determined in Chambers;\n(b)any matter or application before the Registrar may at any time be adjourned by him to be heard before the Judge either in Chambers or in Court; and\n(c)any matter or application may if the Judge or, as the case may be, the Registrar, thinks fit be adjourned from Chambers to Court, or from Court to Chambers."
+   }
+  },
+  {
+   "id": "SG-H3028-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Originating applications and summonses"
+   },
+   "text": {
+    "en": "7.—(1) Every winding up application and any other application by which any proceedings are commenced in Court shall be made by originating application supported by an affidavit.\n[S 197/2022 wef 01/04/2022]\n(2) Subject to the provisions of these Rules, the originating application and supporting affidavit shall be served on the party affected thereby not less than 8 days before the date appointed for the hearing of the application.\n[S 197/2022 wef 01/04/2022]\n(3) Every interlocutory application shall be made by summons in Form 1, and the summons shall, unless otherwise ordered —\n(a)be served on every person against whom an order is sought;\n(b)require that person or the persons to whom the summons is addressed to attend at the time and place named in the summons; and\n(c)be served not less than 8 days before the day specified in the summons.\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Title of proceedings"
+   },
+   "text": {
+    "en": "8.—(1) Every proceeding in a winding up matter shall be dated and shall, with any necessary additions, be intituled as follows:\n“IN THE GENERAL DIVISION OF THE HIGH COURT OF\nTHE REPUBLIC OF SINGAPORE\nLWU O.A. No.\nof 20\n)\n)\n(Seal)\nIn the Matter of\nthe Limited Liability Partnerships Act (Cap. 163A)\nAND\nIn the matter of .................................................................................”.\n[S 197/2022 wef 01/04/2022]\n[S 1037/2020 wef 02/01/2021]\n(2) The first proceeding in every winding up matter shall have a distinctive number assigned to it in the office of the Registrar, and all proceedings in any matter subsequent to the first proceeding shall bear the same number as the first proceeding."
+   }
+  },
+  {
+   "id": "SG-H3028-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Written or printed proceedings"
+   },
+   "text": {
+    "en": "9. All proceedings shall be written or printed or partly written or partly printed."
+   }
+  },
+  {
+   "id": "SG-H3028-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Process to be sealed"
+   },
+   "text": {
+    "en": "10. All orders, summonses, applications, warrants, process of any kind (including notices when issued by the Court) and office copies in any winding up matter shall be sealed."
+   }
+  },
+  {
+   "id": "SG-H3028-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Issue of originating application, etc."
+   },
+   "text": {
+    "en": "11. Every originating application and summons in a winding up matter in the Court shall be prepared by the person making the application or his solicitor and issued from the office of the Registrar.\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Orders"
+   },
+   "text": {
+    "en": "12.—(1) Every order whether made in Court or in Chambers in the winding up of an LLP shall be drawn up by the person making the application or his solicitor and signed by the Registrar, unless in any proceedings or class of proceedings the Judge or Registrar who makes the order shall direct that no order need be drawn up.\n(2) Where a direction is given that no order need be drawn up the note or the memorandum of the order, signed or initialled by the Judge or the Registrar making the order, shall be sufficient evidence of the order having been made."
+   }
+  },
+  {
+   "id": "SG-H3028-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "File of proceedings in office of Registrar"
+   },
+   "text": {
+    "en": "13. All originating applications, affidavits, summonses, orders, proofs, notices, depositions, bills of costs and other proceedings in the Court in a winding up matter shall be kept and remain of record in the office of the Registrar.\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Office copies"
+   },
+   "text": {
+    "en": "14. All office copies of originating applications, affidavits, depositions, papers and writings, or any part thereof, required by the Official Receiver or any liquidator, partner, creditor, officer of an LLP or other person entitled thereto, shall be provided by the Registrar duly certified by him.\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Use of file by Official Receiver"
+   },
+   "text": {
+    "en": "15. When, in the exercise of his functions under the Act or these Rules, the Official Receiver requires the inspection or use of the file of proceedings the Registrar shall, on request, transmit the file of proceedings to the Official Receiver."
+   }
+  },
+  {
+   "id": "SG-H3028-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Defacement of stamps"
+   },
+   "text": {
+    "en": "16. Every officer of the Court who shall receive any document to which an adhesive stamp shall be affixed shall immediately upon receipt of the document deface the stamp thereon."
+   }
+  },
+  {
+   "id": "SG-H3028-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "heading": {
+    "en": "Service of originating application or summons and supporting affidavit"
+   },
+   "text": {
+    "en": "17.—(1) Subject to any order to the contrary, every originating application and summons and the affidavit in support thereof shall be served upon every person against whom any order or other relief is sought but the Court may at any time direct that service be effected or notice of proceedings be given to any person who may be affected by the order or other relief sought and may at any time direct the manner in which such service is to be effected or such notice given; and any person so served or notified shall be entitled to be heard.\n[S 197/2022 wef 01/04/2022]\n(2) Any document referred to as an exhibit in an affidavit shall be made available for inspection by any person upon whom service of the affidavit is required.\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A17.001",
+   "no": 17.001,
+   "noLabel": {
+    "en": "17A."
+   },
+   "heading": {
+    "en": "Duration and renewal of originating application for purpose of service"
+   },
+   "text": {
+    "en": "17A.—(1) Subject to the other provisions of these Rules, for the purposes of service, an originating application is valid in the first instance for 6 months beginning with the date of its issue.\n[S 197/2022 wef 01/04/2022]\n(2) Subject to paragraph (3), where an originating application has not been served on a defendant, the Court may by order extend the validity of the originating application from time to time for such period, not exceeding 6 months at any one time, beginning with the day next following that on which it would otherwise expire, as may be specified in the order, if any application for extension is made to the Court before that day.\n[S 197/2022 wef 01/04/2022]\n(3) Where the Court is satisfied on an application under paragraph (2) that, despite the making of reasonable efforts, it may not be possible to serve an originating application within 6 months, the Court may, if it thinks fit, extend the validity of the originating application for such period, not exceeding 12 months at any one time, as the Court may specify.\n[S 197/2022 wef 01/04/2022]\n(4) Before an originating application, the validity of which has been extended under this rule, is served, it must be marked with an official stamp in Form 1A showing the period from which the validity of the originating application has been so extended.\n[S 197/2022 wef 01/04/2022]\n(5) A note of the renewal must be entered in the cause book.\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "heading": {
+    "en": "Mode of service"
+   },
+   "text": {
+    "en": "18. Except as otherwise provided by the Act, these Rules or any order —\n(a)all notices, summonses and other documents except those of which personal service is required, shall be deemed to be sufficiently served if left at or sent by prepaid post to the last known address of the person to be served therewith or to the address (if any) at which such person has authorised service on him to be effected; and the notice, summons or document if so sent by prepaid post shall be considered as served at the time that the same ought to be delivered in the ordinary course of post by the post office, and notwithstanding the same may be returned by the post office;\n(b)no service shall be deemed invalid by reason that the name, or any of the names other than the surname of the person to be served, has been omitted from the document containing the person’s name if the Court is satisfied that in other respects the service of the document has been sufficient;\n(c)when the solicitor for a party to be served accepts service of a document on behalf of that party and indorses the original or a copy thereof to that effect, that service shall be deemed sufficient."
+   }
+  },
+  {
+   "id": "SG-H3028-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "heading": {
+    "en": "Publication in Gazette"
+   },
+   "text": {
+    "en": "19. Except as otherwise provided by the Act, these Rules or any order —\n(a)all matters which require to be gazetted shall be published once in the Gazette;\n(b)all matters which require to be advertised shall be published once in a local newspaper;\n(c)all matters required to be gazetted subsequent to a winding up order shall be gazetted by the liquidator;\n(d)where any winding up order is amended or any matter which has been gazetted has been amended or altered or where any matter was wrongly or inaccurately gazetted or advertised the order or matter shall be re-gazetted or re-advertised with the necessary amendments and alterations."
+   }
+  },
+  {
+   "id": "SG-H3028-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "heading": {
+    "en": "Memorandum of advertisements to be filed"
+   },
+   "text": {
+    "en": "20. Unless otherwise expressly provided in the Act, these Rules or unless otherwise expressly ordered, where any matter is gazetted or advertised in connection with any proceedings under the Act or these Rules —\n(a)a memorandum as in Form 58 referring to and giving the date of the Gazette or advertisement, signed by the person responsible for the publication in the Gazette or newspaper or his solicitor shall be filed —\n(i)if the advertisement relates to proceedings for or in connection with a winding up by the Court, by the liquidator; or\n(ii)in any other case, by the party responsible for publishing the advertisement;\n(b)in the case of an advertisement for or in connection with a winding up by the Court, a copy of the newspaper or Gazette in which the advertisement appeared shall be delivered to the Official Receiver and a copy to the liquidator by the party responsible for publishing the advertisement; and\n(c)such a memorandum shall be prima facie evidence that the advertisement to which it refers was published in the Gazette or in the issue of the newspaper mentioned in it."
+   }
+  },
+  {
+   "id": "SG-H3028-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "heading": {
+    "en": "Enforcement of judgments or orders"
+   },
+   "text": {
+    "en": "21. Every judgment or order of the Court made in the exercise of the powers conferred by the Act and these Rules may be enforced by the Court as if it were a judgment or order of the Court made in the exercise of its ordinary jurisdiction."
+   }
+  },
+  {
+   "id": "SG-H3028-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "heading": {
+    "en": "Form of winding up application"
+   },
+   "text": {
+    "en": "22.—(1) Every application for the winding up of an LLP by the Court shall be made by originating application.\n[S 197/2022 wef 01/04/2022]\n(2) The application for the winding up of an LLP shall be —\n(a)in Form 2 if it is made by the LLP itself; and\n(b)in Form 3 if it is made by a person other than the LLP.\n(3) Where an application to wind up an LLP is made by a person other than the LLP, that person shall be referred to in Form 3 and all proceedings as the claimant.\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "heading": {
+    "en": "Filing of winding up application"
+   },
+   "text": {
+    "en": "23.—(1) A winding up application shall be filed at the office of the Registrar who shall appoint the time and place at which the winding up application is to be heard.\n(2) Notice of the time and place appointed for hearing the winding up application shall be written on the winding up application and sealed copies thereof, and the Registrar may at any time before the winding up application has been advertised, alter the time appointed and fix another time."
+   }
+  },
+  {
+   "id": "SG-H3028-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "heading": {
+    "en": "Advertisement of winding up application"
+   },
+   "text": {
+    "en": "24. Every winding up application shall be advertised 7 clear days (or such longer time as the Court may direct) before the hearing, in Form 4 as follows:\n(a)once in the Gazette and once at least in one English and one Chinese local daily newspaper or in such other newspapers as the Court may direct; and\n(b)the advertisement shall state the day on which the winding up application was filed and the name and address of the applicant and of his solicitor and contain a note at the foot thereof, stating that any person who intends to appear on the hearing of the winding up application, either to oppose or support, must send notice of such intention to the applicant or to his solicitor, within the time and in the manner prescribed by rule 28, and an advertisement of an application for the winding up of an LLP by the Court which does not contain such a note shall be deemed irregular, and if the applicant or his solicitor does not within the time hereby prescribed or within such extended time as the Registrar may allow duly advertise the winding up application in the manner prescribed by this rule, the appointment of the time and place at which the winding up application is to be heard shall be cancelled by the Registrar and the winding up application shall be removed from the file unless the Judge or the Registrar shall otherwise direct."
+   }
+  },
+  {
+   "id": "SG-H3028-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "heading": {
+    "en": "Affidavit supporting application for winding up"
+   },
+   "text": {
+    "en": "25.—(1) Every application for the winding up of an LLP by the Court shall be supported by an affidavit.\n(2) The affidavit supporting an application to wind up an LLP shall state —\n(a)the date of registration of the LLP;\n(b)the registered office of the LLP; and\n(c)the grounds on which the application for winding up is made.\n(3) The affidavit supporting a winding up application shall be in Form 5 and shall be made by the applicant or by one of the applicants, if more than one, or, in the case where the application is made by a corporation, by some director, manager, secretary or other principal officer thereof and shall be filed and served together with the winding up application, and such affidavit shall be prima facie evidence of the statements therein."
+   }
+  },
+  {
+   "id": "SG-H3028-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "heading": {
+    "en": "Service of winding up application and supporting affidavit"
+   },
+   "text": {
+    "en": "26.—(1) Every winding up application and supporting affidavit shall, unless filed by the LLP, be served upon the LLP at the registered office of the LLP, and if there is no registered office, then at the principal or last known principal place of business of the LLP, if any can be found, by leaving a copy with any partner, officer or employee of the LLP there, or in case no such partner, officer or employee can be found there, then by leaving a copy at such registered office or principal place of business, or by serving it on such partner or partners of the LLP as the Court may direct; and where the LLP is being wound up voluntarily, the winding up application and supporting affidavit shall also be served upon the liquidator (if any) appointed for the purpose of winding up the affairs of the LLP. The affidavit of service of the winding up application and supporting affidavit may be in Form 6 or 7.\n(2) Where a winding up application is filed by any person other than the liquidator of the LLP in relation to an LLP which is in the course of being wound up, the winding up application and supporting affidavit shall be personally served upon the liquidator.\n(3) A copy of the winding up application and supporting affidavit shall also be served upon the Official Receiver."
+   }
+  },
+  {
+   "id": "SG-H3028-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "heading": {
+    "en": "Copy of winding up application and supporting affidavit to be furnished to creditor or partner"
+   },
+   "text": {
+    "en": "27. Every partner or creditor of the LLP shall be entitled to be furnished by the applicant or his solicitor with a copy of the winding up application and supporting affidavit within 48 hours after requiring the same, upon payment of 50 cents per folio of 100 words for such copy."
+   }
+  },
+  {
+   "id": "SG-H3028-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "heading": {
+    "en": "Notice of intention to appear"
+   },
+   "text": {
+    "en": "28.—(1) Every person who intends to appear on the hearing of a winding up application shall serve on the applicant or his solicitor notice of his intention. The notice shall be signed by such person or by his solicitor and shall give the address of the person signing it and shall be served, or if sent by post shall be posted in such time as in the ordinary course of post to reach the address not later than 12 o'clock noon of the day previous to the day appointed for the hearing of the winding up application.\n(2) The notice may be in Form 8 with such variations as circumstances may require.\n(3) A person who has failed to comply with this rule shall not, without special permission of the Court, be allowed to appear at the hearing of the winding up application.\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "heading": {
+    "en": "List of persons intending to appear"
+   },
+   "text": {
+    "en": "29.—(1) The applicant or his solicitor shall prepare a list in Form 9 of the names and addresses of the persons who have given notice of their intention to appear at the hearing of the winding up application and of their respective solicitors.\n(2) On the day appointed for hearing the winding up application a fair copy of the list or if no notice of intention to appear has been given, a statement to that effect, shall be handed by the applicant or his solicitor to the Court prior to the hearing of the winding up application."
+   }
+  },
+  {
+   "id": "SG-H3028-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "heading": {
+    "en": "Affidavits opposing winding up application and affidavits in reply"
+   },
+   "text": {
+    "en": "30.—(1) Affidavits in opposition to an application for the winding up of an LLP shall be filed and a copy thereof served on the applicant or his solicitor at least 7 days before the time appointed for the hearing of the winding up application.\n(2) Any affidavit in reply to an affidavit filed in opposition to a winding up application (including a further affidavit in support of any of the facts alleged in the winding up application) shall be filed within 3 days of the date of service on the applicant or his solicitor of the affidavit in opposition and a copy thereof served on the party opposing the winding up application or his solicitor."
+   }
+  },
+  {
+   "id": "SG-H3028-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "heading": {
+    "en": "Approved liquidator to be nominated"
+   },
+   "text": {
+    "en": "31.—(1) When filing the winding up application, the applicant may nominate in writing an approved liquidator who may be appointed liquidator if an order for the winding up of the LLP is made by the Court.\n(2) Before the hearing of the winding up application, the applicant or his solicitor shall obtain and file the consent in writing of the approved liquidator nominated."
+   }
+  },
+  {
+   "id": "SG-H3028-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "heading": {
+    "en": "Attendance on Registrar"
+   },
+   "text": {
+    "en": "32.—(1) After a winding up application has been filed, the applicant or his solicitor shall on a day to be appointed by the Registrar attend before the Registrar and satisfy him that —\n(a)the winding up application has been duly published in the Gazette and advertised;\n(b)the affidavit supporting the winding up application and the affidavit of service, if any, have been duly filed;\n(c)the consent in writing of the approved liquidator nominated by the applicant has been obtained and filed;\n(d)the provisions of these Rules as to winding up applications have been duly complied with; and\n(e)a sum of $4,400 has been deposited with the Official Receiver to cover the fees and expenses to be incurred by the approved liquidator or the Official Receiver, as the case may be, and any goods and services tax chargeable under the Goods and Services Tax Act (Cap. 117A) on the supply of services to which those fees or expenses relate. This deposit shall be refunded to the applicant by the liquidator before he takes any action under paragraph 76 of the Fifth Schedule to the Act.\n(2) No order, except an order for the dismissal or adjournment of the winding up application, shall be made on the application of any person making the winding up application who has not, prior to the hearing of the winding up application, attended before the Registrar at the time appointed and satisfied him in the manner required by this rule."
+   }
+  },
+  {
+   "id": "SG-H3028-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "heading": {
+    "en": "Substitution of any person as applicant"
+   },
+   "text": {
+    "en": "33.—(1) When an applicant is not entitled to make a winding up application or, whether so entitled or not, where he —\n(a)fails to take all the steps prescribed by these Rules preliminary to the hearing of the winding up application;\n(b)consents to withdraw his winding up application or to allow it to be dismissed or the hearing to be adjourned; or\n(c)fails to appear in support of his winding up application when it is called on in Court on the day originally fixed for the hearing thereof or on any day to which the hearing has been adjourned or if appearing does not apply for an order in terms of the prayer of his winding up application, the Court may, upon such terms as it thinks just, substitute as applicant any person who, in the opinion of the Court, would have a right to make the winding up application and who is desirous of proceeding with the winding up application.\n(2) An order to substitute an applicant may, where an applicant fails to advertise his winding up application within the time prescribed by or under these Rules or consents to withdraw his winding up application, be made by the Registrar or the Court at any time before the date fixed for the hearing of the winding up application."
+   }
+  },
+  {
+   "id": "SG-H3028-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "heading": {
+    "en": "Notice of winding up order"
+   },
+   "text": {
+    "en": "34.—(1) When an order is made for the winding up of an LLP the applicant shall immediately inform the liquidator of the making thereof in Form 10 and within 14 days of the pronouncement thereof publish in the Gazette and advertise a notice of the making of the order in Form 11.\nService of copy of winding up order\n(2) Unless otherwise directed by the Court, the copy of the winding up order required by paragraph 9 of the Fifth Schedule to the Act to be served upon the manager of the LLP may be served either personally or by prepaid letter addressed to such manager at the registered office of the LLP (if any) or if there is no such registered office at its principal or last known place of business.\nNotice at foot of every winding up order\n(3) An order to wind up an LLP in Form 12 shall contain at the foot thereof a notice stating that it will be the duty of the persons mentioned in paragraph 18(2) of the Fifth Schedule to the Act to make out the LLP’s statement of affairs and to attend on the liquidator at such time and place as he may appoint."
+   }
+  },
+  {
+   "id": "SG-H3028-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "heading": {
+    "en": "Order appointing provisional liquidator"
+   },
+   "text": {
+    "en": "35.—(1) At any time after the making of a winding up application, the Court may, upon the application of any creditor or partner of the LLP and upon proof by affidavit of sufficient ground for the appointment of a provisional liquidator, make the appointment upon such terms as the Court shall think just or necessary.\nContents of order\n(2) An order appointing a provisional liquidator under paragraph 15 of the Fifth Schedule to the Act shall be in Form 13 and shall state the nature and give a short description of the property which the provisional liquidator is ordered to take possession and the duties to be performed by him."
+   }
+  },
+  {
+   "id": "SG-H3028-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "heading": {
+    "en": "Report of liquidator"
+   },
+   "text": {
+    "en": "36. A report made by the liquidator pursuant to paragraph 19 of the Fifth Schedule to the Act shall state in narrative form the facts and matters which the liquidator is required or desires to bring to the notice of the Court."
+   }
+  },
+  {
+   "id": "SG-H3028-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "heading": {
+    "en": "Reports of liquidator to be filed in Court"
+   },
+   "text": {
+    "en": "37.—(1) The following reports to be made by the liquidator shall be filed in Court and a copy lodged with the Registrar of Limited Liability Partnerships and with the Official Receiver:\n(a)under paragraph 19(1) of the Fifth Schedule to the Act — preliminary report in a winding up by the Court;\n(b)under paragraph 19(2) of the Fifth Schedule to the Act — further reports in a winding up by the Court; and\n(c)under paragraph 26(2) of the Fifth Schedule to the Act — report in relation to application to stay winding up proceedings.\n(2) A further report made under paragraph 19(2) of the Fifth Schedule to the Act shall not be open to the inspection of any creditor, partner or other person unless the Court shall so direct."
+   }
+  },
+  {
+   "id": "SG-H3028-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "heading": {
+    "en": "Consideration of further report"
+   },
+   "text": {
+    "en": "38.—(1) Any further report made under paragraph 19(2) of the Fifth Schedule to the Act shall be considered by the Judge in Chambers upon the application of the liquidator made by summons without notice. The Judge may direct service of the summons upon any other person concerned.\n[S 197/2022 wef 01/04/2022]\n(2) The liquidator shall personally or by counsel or solicitor attend when the report is being considered and give the Judge any further information or explanation with reference to the matters stated in the report which the Judge may require."
+   }
+  },
+  {
+   "id": "SG-H3028-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "heading": {
+    "en": "Appointment of special manager"
+   },
+   "text": {
+    "en": "39.—(1) An application by the liquidator for the appointment of a special manager under paragraph 28 of the Fifth Schedule to the Act shall be supported by a report of the liquidator in which shall be stated the amount of remuneration which in the opinion of the liquidator ought to be allowed to the special manager.\n(2) The remuneration of the special manager shall, unless the Court in any special case otherwise directs, be stated in the order appointing him, but the Court may at any subsequent time for good cause shown, make an order increasing, reducing or otherwise altering such remuneration."
+   }
+  },
+  {
+   "id": "SG-H3028-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "heading": {
+    "en": "Accounting by special manager"
+   },
+   "text": {
+    "en": "40. Every special manager shall submit an account in the form relating to the account of receipts and payment by a receiver or receiver and manager as may be prescribed by the Minister under the Act, to the liquidator on whose application he was appointed by the Court and when such account is approved by the liquidator, the totals of the receipts and payments shall be added by the liquidator to his accounts."
+   }
+  },
+  {
+   "id": "SG-H3028-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "heading": {
+    "en": "Preparation of statement of affairs"
+   },
+   "text": {
+    "en": "41.—(1) Every person who under paragraph 18 of the Fifth Schedule to the Act has been required by the liquidator to submit and verify a statement as to the affairs of the LLP shall be furnished by the liquidator with a copy of the form relating to the statement of affairs as may be prescribed by the Minister under the Act.\n(2) The liquidator may from time to time hold personal interviews with every such person as is mentioned in paragraph 18(2)(a), (b) and (c) of the Fifth Schedule to the Act for the purpose of investigating the LLP's affairs and it shall be the duty of every such person to attend on the liquidator at such time and place as the liquidator may appoint and give the liquidator all information that he may require."
+   }
+  },
+  {
+   "id": "SG-H3028-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "heading": {
+    "en": "Extension of time for submitting statement of affairs"
+   },
+   "text": {
+    "en": "42. When any person requires any extension of time for submitting the statement of affairs, he shall apply to the liquidator who may, if he thinks fit, give a written certificate extending the time, which certificate shall be filed and shall render an application to the Court unnecessary."
+   }
+  },
+  {
+   "id": "SG-H3028-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "heading": {
+    "en": "Information subsequent to statement of affairs"
+   },
+   "text": {
+    "en": "43. After the statement of affairs of an LLP has been submitted to the liquidator, it shall be the duty of each person who has made or concurred in making it, if and when required, to attend on the liquidator and answer all such questions as may be put to him and give all such further information as may be required of him by the liquidator in relation to the statement of affairs."
+   }
+  },
+  {
+   "id": "SG-H3028-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "heading": {
+    "en": "Default"
+   },
+   "text": {
+    "en": "44. Any default in complying with the requirements of paragraph 18 of the Fifth Schedule to the Act shall be reported by the liquidator to the Court."
+   }
+  },
+  {
+   "id": "SG-H3028-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "heading": {
+    "en": "As to costs of preparing statement of affairs"
+   },
+   "text": {
+    "en": "45. A person who is required to make or concur in making any statement of affairs of an LLP shall, before incurring any costs or expenses in and about the preparation and making of the statement, apply to the liquidator for his sanction, and submit a statement of the estimated costs and expenses which it is intended to incur; and, except by order of the Court, no person shall be allowed out of the assets of the LLP any costs or expenses which have not, before being incurred, been sanctioned by the liquidator."
+   }
+  },
+  {
+   "id": "SG-H3028-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "heading": {
+    "en": "Appointment of liquidator on report of meetings of creditors and partners"
+   },
+   "text": {
+    "en": "46.—(1) As soon as possible after the first meetings of creditors and partners have been held, the Official Receiver or the chairman of the meetings, as the case may be, shall report in Form 19 the result of each meeting of the Court.\n(2) After the results of the meetings of creditors and partners have been reported to the Court, the Court may, upon the application of the Official Receiver, immediately make the appointments necessary for giving effect to the resolutions passed at such meetings if the meetings of the creditors and partners have each passed the same resolutions or if the resolutions passed at the 2 meetings are identical in effect. In any other case the Court shall fix a time and place for considering the resolutions and determinations (if any) of the meetings, deciding the differences (if any), and making such order as may be necessary.\n(3) When a time and place have been fixed for the consideration of the resolutions and determinations of the meetings, the time and place shall be advertised by the Official Receiver in such manner as the Court shall direct, but so that the first or only advertisement shall be published not less than 7 days before the time so fixed.\n(4) When considering the resolutions and determinations of the meetings the Court may hear the Official Receiver and any creditor or partner.\n(5) If a liquidator is appointed a copy of the order in Form 20 appointing him shall be transmitted by him to the Official Receiver and the Official Receiver shall, as soon as the liquidator has given security, cause notice of the appointment to be published in the Gazette. The expenses of gazetting such notice shall be paid by the liquidator, but may be charged by him on the assets of the LLP.\n(6) Every appointment of a liquidator shall be advertised in Form 22 by the liquidator in such manner as the Court directs immediately after the liquidator has given the required security."
+   }
+  },
+  {
+   "id": "SG-H3028-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "heading": {
+    "en": "Provisions as to security"
+   },
+   "text": {
+    "en": "47. Where a liquidator other than the Official Receiver has been appointed, the following provisions as to security shall have effect —\n(a)the security shall be given to such officers or persons, and in such manner as the Official Receiver may from time to time direct;\n(b)it shall not be necessary that security shall be given in each separate winding up; but security may be given either specially in a particular winding up, or generally, to be available for any winding up in which the person giving security may be appointed, as liquidator;\n(c)the Official Receiver shall fix the amount and nature of such security, and may from time to time, as he thinks fit, either increase or diminish the amount of special or general security which any person has given;\n(d)the certificate of the Official Receiver as in Form 21 that a liquidator has given security to his satisfaction shall be filed with the Registrar; and\n(e)the cost of furnishing the required security by a liquidator, including any premiums which he may pay to a guarantee society, shall be borne by him personally, and shall not be charged against the assets of the LLP as an expense incurred in the winding up."
+   }
+  },
+  {
+   "id": "SG-H3028-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "heading": {
+    "en": "Failure to give or keep up security"
+   },
+   "text": {
+    "en": "48.—(1) If a liquidator fails to give the required security within the time stated for that purpose in the order appointing him, or any extension thereof, the Official Receiver shall report such failure to the Court, which may thereupon rescind the order appointing the liquidator.\n(2) If a liquidator fails to keep up his security, the Official Receiver shall report such failure to the Court, which may thereupon remove the liquidator, and make such order as to costs as the Court shall think fit."
+   }
+  },
+  {
+   "id": "SG-H3028-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "heading": {
+    "en": "Application for examination under paragraph 31 of Fifth Schedule to Act"
+   },
+   "text": {
+    "en": "49. An application to the Court to summon persons for examination under paragraph 31 of the Fifth Schedule to the Act shall be made without notice and may be made by the liquidator or any creditor or partner. If made by a creditor or partner the summons and affidavit in support thereof shall be served on the liquidator.\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "heading": {
+    "en": "Application for public examination under paragraph 32 of Fifth Schedule to Act"
+   },
+   "text": {
+    "en": "50. An application for an order for a public examination under paragraph 32 of the Fifth Schedule to the Act may be made without notice by the liquidator.\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "heading": {
+    "en": "Application for examination under paragraph 60 of Fifth Schedule to Act"
+   },
+   "text": {
+    "en": "51. An application for an order for the examination of the liquidator or other persons under paragraph 60 of the Fifth Schedule to the Act may be made without notice by the Official Receiver, the Registrar of Limited Liability Partnerships or any creditor or partner and shall be supported by affidavit.\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "heading": {
+    "en": "Attendance of liquidator or Official Receiver under paragraph 31 of Fifth Schedule to Act"
+   },
+   "text": {
+    "en": "52. The liquidator or the Official Receiver may attend in person or by counsel or solicitor at any examination of a witness under paragraph 31 of the Fifth Schedule to the Act and he or his counsel or solicitor may take notes of the examination for his use, and put such questions to the persons examined as the Court may allow."
+   }
+  },
+  {
+   "id": "SG-H3028-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "heading": {
+    "en": "Application for appointment"
+   },
+   "text": {
+    "en": "53.—(1) Upon an order directing a person to attend for public examination being made under paragraph 32 of the Fifth Schedule to the Act in Form 23, the liquidator shall apply without notice for the appointment of a day on which the public examination is to be held. Such order may be in Form 24.\n[S 197/2022 wef 01/04/2022]\n(2) The liquidator or his solicitor shall cause a notice of the day and place appointed for holding the public examination in Form 25 to be served on the person to be examined."
+   }
+  },
+  {
+   "id": "SG-H3028-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "heading": {
+    "en": "Notice of appointment to creditors and partners"
+   },
+   "text": {
+    "en": "54.—(1) The liquidator shall give notice of the public examination to the creditors and partners by gazetting and advertising a notice of the time and place appointed for holding the examination.\n(2) Where an adjournment of the public examination has been directed, notice of the adjournment shall not, unless otherwise directed by the Court, be published in the Gazette or advertised."
+   }
+  },
+  {
+   "id": "SG-H3028-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "55."
+   },
+   "heading": {
+    "en": "Examinations under paragraph 31 or 32 of Fifth Schedule to Act"
+   },
+   "text": {
+    "en": "55. Where an order has been made for a private examination under paragraph 31 of the Fifth Schedule to the Act or for a public examination under paragraph 32 of the Fifth Schedule to the Act —\n(a)the examination shall be held in Chambers or before a District Judge if the Court so directs, and in the case of an examination under paragraph 31 of the Fifth Schedule to the Act he may order that the examination not be held in open Court and not be open to the public;\n(b)the Court may either in the order for examination or by such subsequent order give directions as to the matters on which any person is to be examined;\n(c)if a person examined before a District Judge fails or refuses to answer to the satisfaction of the District Judge any question which the District Judge may allow to be put, the District Judge may in respect of such failure or refusal exercise any powers which the Court might have exercised had the failure or refusal been made in an examination before the Court;\n(d)where on an examination held before a District Judge he considers the examination is unnecessarily protracted, or for any other sufficient cause, he may adjourn the examination of any person so that the examination may be held before the Court."
+   }
+  },
+  {
+   "id": "SG-H3028-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "56."
+   },
+   "heading": {
+    "en": "Shorthand notes of examination"
+   },
+   "text": {
+    "en": "56.—(1) If the Court or person before whom any examination under the Act or these Rules is directed to be held considers that it would be desirable that a person, other than the person before whom an examination is taken, should be appointed to take down in shorthand or otherwise record the evidence of any person examined, it shall be competent for the Court or person before whom the examination is taken to make the appointment.\n(2) The person at whose instance the examination is taken shall nominate a person for the purpose as in Form 26 and the person so nominated shall be appointed unless the Court or person holding the examination shall otherwise direct.\n(3) Every person so appointed shall be paid by the person at whose instance the appointment was made or out of the assets of the LLP as may be directed by the Court."
+   }
+  },
+  {
+   "id": "SG-H3028-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "57."
+   },
+   "heading": {
+    "en": "Filing of notes of deposition"
+   },
+   "text": {
+    "en": "57.—(1) The notes of the depositions of a person examined under paragraph 31 of the Fifth Schedule to the Act, whether before the Court or before any person appointed to take such examination, shall be filed, but shall not be open to the inspection of any creditor, partner, or other person, except the liquidator or his solicitor, unless the Court shall so direct, and the Court may from time to time give such general or special directions as it shall think expedient as to the custody and inspection of such notes and the furnishing of copies of or extracts therefrom.\n(2) The notes of the depositions of a person examined under paragraph 32 of the Fifth Schedule to the Act shall be in Form 27 or 28 and after being signed as required by paragraph 32(7) of the Fifth Schedule to the Act, shall be filed and shall be open to the inspection of the liquidator and of any creditor or partner."
+   }
+  },
+  {
+   "id": "SG-H3028-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "58."
+   },
+   "heading": {
+    "en": "Failure to attend or absconding warrant for arrest"
+   },
+   "text": {
+    "en": "58. If any person who has been directed by the Court to attend for public examination fails to attend at the time and place appointed and no good cause is shown by him for such failure or, if before the day appointed for the examination the liquidator satisfies the Court that such person has absconded or that there is reason for believing that he is about to abscond with a view to avoiding examination, it shall be lawful for the Court, upon proof to its satisfaction that notice of the order and of the time and place appointed for attendance at the public examination was duly served, without any further notice, to issue a warrant in Form 29 for the arrest of the person required to attend, or to make such other order as the Court shall think just."
+   }
+  },
+  {
+   "id": "SG-H3028-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "59."
+   },
+   "heading": {
+    "en": "Disclaimer"
+   },
+   "text": {
+    "en": "59.—(1) Any application for permission to disclaim any part of the property of an LLP pursuant to paragraph 86(1) of the Fifth Schedule to the Act shall be by summons without notice. Such summons shall be supported by an affidavit showing who are the parties interested and what their interests are. On hearing the summons the Court shall give such directions as it sees fit and, in particular, directions as to the notices to be given to the parties interested or any of them and the Court may adjourn the application to enable any such party to attend.\n[S 197/2022 wef 01/04/2022]\n(2) Where a liquidator disclaims a leasehold interest, he shall immediately file the disclaimer in Form 30 with the Registrar. The disclaimer shall contain particulars of the interest disclaimed and a statement of the persons to whom notice of disclaimer as in Form 31 has been given. Until the disclaimer is filed by the liquidator the disclaimer shall be in operative.\n(3) Where any person claims to be interested in any part of the property of the LLP which the liquidator wishes to disclaim, he shall, at the request of the liquidator, furnish a statement of the interest so claimed by him."
+   }
+  },
+  {
+   "id": "SG-H3028-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "60."
+   },
+   "heading": {
+    "en": "Vesting of disclaimed property"
+   },
+   "text": {
+    "en": "60.—(1) Any application under paragraph 86(6) of the Fifth Schedule to the Act for an order for the vesting of any disclaimed property in or the delivery of any such property to any person shall be supported by the affidavit filed on the application for permission to disclaim the property.\n[S 197/2022 wef 01/04/2022]\n(2) Where such an application relates to disclaimed property of a leasehold nature and it appears that there is any mortgagee (including a chargee or caveator having a lien by way of deposit of document of title) or under-lessee of such property the Court may direct that notice shall be given to such mortgagee or under-lessee that if he does not elect to accept and apply for such a vesting order upon the terms required by paragraph (1) and imposed by the Court within a time to be fixed by the Court and stated in the notice, he will be excluded from all interest in and security upon the property and the Court may adjourn the application for the notice to be given and for the mortgagee or under-lessee to be added as a party to and served with the application and, if he sees fit, to make such election and application as is mentioned in the notice. If at the expiration of the time so fixed by the Court the mortgagee or under-lessee fails to make such election and application the Court may make a vesting order in relation to the property and excluding the mortgagee or under-lessee from all interest in or security upon the property."
+   }
+  },
+  {
+   "id": "SG-H3028-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "61."
+   },
+   "heading": {
+    "en": "Report by liquidator on arrangements and compromises"
+   },
+   "text": {
+    "en": "61. In a winding up by the Court if application is made to the Court under paragraph 20(1) of the Fifth Schedule to the Act to sanction any compromise or arrangement the Court may before giving its sanction thereto, hear a report by the liquidator as to the terms of the scheme, and as to the conduct of the managers and other officers of the LLP and as to any other matters which in the opinion of the liquidator, ought to be brought to the attention of the Court."
+   }
+  },
+  {
+   "id": "SG-H3028-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "62."
+   },
+   "heading": {
+    "en": "Production of documents for settling order"
+   },
+   "text": {
+    "en": "62.—(1) Subject to any direction to the contrary every order shall be passed and entered immediately and it shall be the duty of the person making the application or his solicitor and of all other persons who have appeared on the hearing of an originating application not later than the day after the order is pronounced in Court, to leave at the office of the Registrar all the documents required for the purpose of enabling the Registrar to settle the order immediately.\n[S 197/2022 wef 01/04/2022]\n(2) It shall not be necessary for the Registrar to make an appointment to settle the order unless in any particular case special circumstances make an appointment necessary."
+   }
+  },
+  {
+   "id": "SG-H3028-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "63."
+   },
+   "heading": {
+    "en": "Collection and application of LLP’s assets by liquidator"
+   },
+   "text": {
+    "en": "63.—(1) The duties imposed on the Court by paragraph 27(1) of the Fifth Schedule to the Act in a winding up by the Court with regard to the collection of the assets of the LLP and the application of the assets in discharge of the LLP's liabilities, shall be discharged by the liquidator subject to the control of the Court.\n(2) For the purpose of the discharge by the liquidator of the duties imposed by paragraph 27(1) of the Fifth Schedule to the Act and paragraph (1), the liquidator in a winding up by the Court shall for the purpose of acquiring or retaining possession of the property of the LLP, be in the same position as if he were a receiver of the property appointed by the Court, and the Court may, on his application, enforce such acquisition or retention accordingly."
+   }
+  },
+  {
+   "id": "SG-H3028-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "64."
+   },
+   "heading": {
+    "en": "Power of liquidator to require delivery of property"
+   },
+   "text": {
+    "en": "64.—(1) The powers conferred on the Court by paragraph 60(5) of the Fifth Schedule to the Act shall be exercised by the liquidator.\n(2) Any partner for the time being on the list of partners, and any trustee, receiver, banker, agent or officer of an LLP which is being wound up shall on notice from the liquidator in Form 32 within such time as he shall by notice in writing require, pay, deliver, convey, surrender or transfer to or into the hands of the liquidator any money or property or books and papers which are in his hands and to which the LLP is prima facie entitled, and the Court may on the application of the liquidator order the payment, delivery, conveyance, surrender or transfer."
+   }
+  },
+  {
+   "id": "SG-H3028-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "65."
+   },
+   "heading": {
+    "en": "Liquidator to settle list of partners"
+   },
+   "text": {
+    "en": "65. The liquidator shall with all convenient speed after his appointment settle a list of partners of the LLP, and shall appoint a time and place for that purpose."
+   }
+  },
+  {
+   "id": "SG-H3028-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "66."
+   },
+   "heading": {
+    "en": "Partners listed may attend proceedings"
+   },
+   "text": {
+    "en": "66.—(1) Every person for the time being on the list of partners of the LLP and every person whose proof has been admitted shall be at liberty at his own expense to attend proceedings in relation to the winding up of an LLP by the Court, and shall be entitled upon payment of the costs occasioned thereby to have notice of all such proceedings as he shall by written request desire.\n(2) If the Court is of the opinion that the attendance of any such person upon any proceedings has occasioned additional costs which ought not to be borne by the funds of the LLP it may direct such costs or a gross sum in lieu thereof to be paid by that person and that person shall not be entitled to attend any further proceedings until he has paid the costs.\n(3) The Court may from time to time appoint any one or more of the creditors or partners to represent before the Court at the expense of the LLP all or any class of the creditors or partners upon any question or in relation to any proceedings before the Court and may remove the person so appointed.\n(4) If more than one person is appointed under this rule to represent one class, the persons appointed shall employ the same solicitor to represent them."
+   }
+  },
+  {
+   "id": "SG-H3028-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "67."
+   },
+   "heading": {
+    "en": "List of partners"
+   },
+   "text": {
+    "en": "67. The list of partners in Form 33 shall contain a statement of the address of, and extent of interest to be attributed to each partner, and shall distinguish the several classes of partners."
+   }
+  },
+  {
+   "id": "SG-H3028-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "68."
+   },
+   "heading": {
+    "en": "Appointment of time and place for settlement of list"
+   },
+   "text": {
+    "en": "68. The liquidator shall give notice in writing of the time and place appointed for the settlement of the list of partners in Form 34 to every person whom he proposes to include in the list, and shall state in the notice to each person in what character and for what interest he proposes to include such person in such list."
+   }
+  },
+  {
+   "id": "SG-H3028-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "69."
+   },
+   "heading": {
+    "en": "Settlement of list of partners"
+   },
+   "text": {
+    "en": "69. On the day appointed for settlement of the list of partners the liquidator shall hear any person who objects to being settled as a partner, and after such hearing shall finally settle the list in Form 35 which, when so settled, shall be the list of partners of the LLP."
+   }
+  },
+  {
+   "id": "SG-H3028-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "70."
+   },
+   "heading": {
+    "en": "Notice to partners"
+   },
+   "text": {
+    "en": "70. The liquidator shall immediately thereafter give notice in Form 36 to every person whom he has finally placed on the list of partners stating in what character and for what interest he has been placed on the list, and in the notice inform that person that any application for the removal of his name from the list, or for a variation of the list, must be made to the Court by summons within 21 days from the date of the service on the partner or alleged partner of the notice."
+   }
+  },
+  {
+   "id": "SG-H3028-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "71."
+   },
+   "heading": {
+    "en": "Application to Court to vary list"
+   },
+   "text": {
+    "en": "71.—(1) Subject to the power of the Court to extend the time or to allow an application to be made, notwithstanding the expiration of the time limited for that purpose, no application to the Court by any person who objects to the list of partners as finally settled by the liquidator shall be entertained after the expiration of 21 days from the date of the service of such notice on such person.\n(2) The liquidator shall not in any case be personally liable to pay any costs of or in relation to an application to set aside or vary his act or decision in settling the name of a person on the list of partners of an LLP."
+   }
+  },
+  {
+   "id": "SG-H3028-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "72."
+   },
+   "heading": {
+    "en": "Variation of or addition to list of partners"
+   },
+   "text": {
+    "en": "72.—(1) The liquidator may from time to time vary or add to the list of partners, but any variation or addition shall be made in the same manner in all respects as the settlement of the original list.\n(2) Such supplemental list of partners shall be in Form 37."
+   }
+  },
+  {
+   "id": "SG-H3028-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "73."
+   },
+   "heading": {
+    "en": "Proof of debt"
+   },
+   "text": {
+    "en": "73. In a winding up by the Court every creditor shall prove his debt, unless the Judge in any particular winding up shall give directions that any creditors or class of creditors shall be admitted without proof."
+   }
+  },
+  {
+   "id": "SG-H3028-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "74."
+   },
+   "heading": {
+    "en": "Mode of proof"
+   },
+   "text": {
+    "en": "74.—(1) A debt shall be proved in any winding up by delivering or sending through the post to the liquidator a statutory declaration verifying the debt together with the prescribed filing fee.\n(2) A proof of debt required under paragraph (1) may be filed electronically."
+   }
+  },
+  {
+   "id": "SG-H3028-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "75."
+   },
+   "heading": {
+    "en": "Verification of proof"
+   },
+   "text": {
+    "en": "75. A declaration proving a debt may be made by the creditor himself or by any person authorised by or on behalf of the creditor."
+   }
+  },
+  {
+   "id": "SG-H3028-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "76."
+   },
+   "heading": {
+    "en": "Contents of proof"
+   },
+   "text": {
+    "en": "76.—(1) A declaration proving a debt —\n(a)shall be in the form relating to proof of debt as may be prescribed by the Minister under the Act, or where it is filed electronically, in such electronic form as may be required by the Official Receiver; and\n(b)must be filed by the creditor within 3 months after the winding up order is made.\n(2) The documents substantiating the claim specified in the proof of debt shall accompany the proof of debt.\n(3) If the proof of debt is filed electronically, the documents substantiating the claim specified in the proof of debt must be sent to the Official Receiver within 14 days from the date of submission of the proof of debt."
+   }
+  },
+  {
+   "id": "SG-H3028-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "77."
+   },
+   "heading": {
+    "en": "Statement of security"
+   },
+   "text": {
+    "en": "77. A declaration proving a debt shall state whether the creditor is or is not a secured creditor."
+   }
+  },
+  {
+   "id": "SG-H3028-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "78."
+   },
+   "heading": {
+    "en": "Costs of proof"
+   },
+   "text": {
+    "en": "78. A creditor shall bear the costs of proving his debt unless the Court otherwise orders."
+   }
+  },
+  {
+   "id": "SG-H3028-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "79."
+   },
+   "heading": {
+    "en": "Discounts"
+   },
+   "text": {
+    "en": "79. A creditor proving his debt shall deduct therefrom all trade discounts, but he shall not be compelled to deduct any discounts, not exceeding 5% on the net amount of his claim, which he may have agreed to allow for payment in cash."
+   }
+  },
+  {
+   "id": "SG-H3028-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "80."
+   },
+   "heading": {
+    "en": "Periodical payments"
+   },
+   "text": {
+    "en": "80. When any rent or other payment falls due at stated periods, and the winding up order or resolution to wind up is made at any time other than one of those periods, the persons entitled to the rent or payment may prove for a proportionate part thereof up to the date of the winding up order or resolution as if the rent or payment grew due from day to day:\nProvided that where the liquidator remains in occupation of premises demised to an LLP which is being wound up, nothing herein contained shall prejudice or affect the right of the landlord of the premises to claim payment from the LLP, or the liquidator, of rent during the period of the LLP’s or the liquidator’s occupation."
+   }
+  },
+  {
+   "id": "SG-H3028-A81",
+   "no": 81,
+   "noLabel": {
+    "en": "81."
+   },
+   "heading": {
+    "en": "Interest"
+   },
+   "text": {
+    "en": "81. On any debt or sum, payable at a certain time or otherwise, whereon interest is not reserved or agreed for, and which is overdue at the date of the winding up order or resolution, the creditor may prove for interest at a rate not exceeding 6% per annum to that date from the time when the debt or sum was payable, if the debt or sum is payable by virtue of a written instrument at a certain time, and if payable otherwise, then from the time when a demand in writing has been made, giving notice that interest will be claimed from the date of the demand until the time of payment."
+   }
+  },
+  {
+   "id": "SG-H3028-A82",
+   "no": 82,
+   "noLabel": {
+    "en": "82."
+   },
+   "heading": {
+    "en": "Proof for debt payable at future time"
+   },
+   "text": {
+    "en": "82. A creditor may prove for a debt not payable at the date of the winding up order or resolution, as if it were payable presently, and may receive dividends equally with the other creditors, deducting only thereout a rebate of interest at the rate of 6% per annum computed from the declaration of a dividend to the time when the debt would have become payable according to the terms on which it was contracted."
+   }
+  },
+  {
+   "id": "SG-H3028-A83",
+   "no": 83,
+   "noLabel": {
+    "en": "83."
+   },
+   "heading": {
+    "en": "Workmen’s wages"
+   },
+   "text": {
+    "en": "83.—(1) In any case in which it appears that there are numerous claims for wages by workmen and others employed by the LLP, it shall be sufficient if one proof for all the claims is made either by a foreman or by some other person on behalf of the creditors in accordance with rules 75 and 76.\n(2) A schedule setting forth the names and addresses of the workmen and others, and the amounts severally due to them —\n(a)shall accompany the proof; or\n(b)where the proof is submitted to the Official Receiver electronically, must be sent to the Official Receiver within 14 days after the submission of the proof.\n(3) Any proof made in compliance with this rule shall have the same effect as if separate proofs had been made by each of the said workmen and others."
+   }
+  },
+  {
+   "id": "SG-H3028-A84",
+   "no": 84,
+   "noLabel": {
+    "en": "84."
+   },
+   "heading": {
+    "en": "Production of bills of exchange and promissory notes"
+   },
+   "text": {
+    "en": "84. Where a creditor seeks to prove in respect of a bill of exchange, promissory note or other negotiable instrument or security on which the LLP is liable, the bill of exchange, promissory note, instrument or security must, subject to any special order of the Court made to the contrary, be produced to the liquidator and marked by him before the proof can be admitted either for voting or for any purpose."
+   }
+  },
+  {
+   "id": "SG-H3028-A85",
+   "no": 85,
+   "noLabel": {
+    "en": "85."
+   },
+   "heading": {
+    "en": "Statement of accounts"
+   },
+   "text": {
+    "en": "85. A licensed moneylender filing a proof of debt under rule 74 in respect of a loan made by him shall, within 14 days from the date of filing thereof, file a statement of accounts in the form specified in the First Schedule to the Moneylenders Act (Cap. 188)."
+   }
+  },
+  {
+   "id": "SG-H3028-A86",
+   "no": 86,
+   "noLabel": {
+    "en": "86."
+   },
+   "heading": {
+    "en": "Notice to creditors to prove"
+   },
+   "text": {
+    "en": "86. Subject to the provisions of the Act, and unless otherwise ordered by the Court, the liquidator in any winding up may from time to time fix a day (which shall not be less than 14 days from the date of the notice) on or before which the creditors of the LLP are to prove their debts or claims, or be excluded from the benefit of any distribution made before the debts are proved, and the liquidator shall give notice of the day so fixed by advertisement in the Gazette in Form 57(3) and in such newspaper as he shall think convenient, and also notice in writing of such day in Form 39 or 40 to every person who, to the knowledge of the liquidator, claims to be a creditor of the LLP and whose claim has not been admitted or, in a winding up by the Court, to every person mentioned in the statement of affairs as a creditor who has not proved his debt."
+   }
+  },
+  {
+   "id": "SG-H3028-A87",
+   "no": 87,
+   "noLabel": {
+    "en": "87."
+   },
+   "heading": {
+    "en": "Examination of proof"
+   },
+   "text": {
+    "en": "87. The liquidator shall examine every proof of debt lodged with him and the grounds of the debt, and shall in writing admit or reject it, in whole or in part, or require further evidence in support of it. If he rejects a proof he shall state in writing in Form 38 to the creditor the grounds of the rejection."
+   }
+  },
+  {
+   "id": "SG-H3028-A88",
+   "no": 88,
+   "noLabel": {
+    "en": "88."
+   },
+   "heading": {
+    "en": "Appeal by creditor"
+   },
+   "text": {
+    "en": "88. If a creditor or partner is dissatisfied with the decision of the liquidator in respect of a proof, the Court may, on the application of the creditor or partner, reverse or vary the decision; but subject to the power of the Court to extend the time, no application to reverse or vary the decision of the liquidator in a winding up by the Court rejecting a proof sent to him by a creditor, or person claiming to be a creditor, shall be entertained, unless notice of the application is given before the expiration of 21 days from the date of the service of the notice of rejection."
+   }
+  },
+  {
+   "id": "SG-H3028-A89",
+   "no": 89,
+   "noLabel": {
+    "en": "89."
+   },
+   "heading": {
+    "en": "Expunging at instance of liquidator"
+   },
+   "text": {
+    "en": "89. If the liquidator thinks that a proof has been improperly admitted, the Court may, on the application of the liquidator, after notice to the creditor who made the proof, expunge the proof or reduce its amount."
+   }
+  },
+  {
+   "id": "SG-H3028-A90",
+   "no": 90,
+   "noLabel": {
+    "en": "90."
+   },
+   "heading": {
+    "en": "Expunging at instance of creditor"
+   },
+   "text": {
+    "en": "90. The Court may also expunge or reduce a proof upon the application of a creditor or partner if the liquidator declines to interfere in the matter."
+   }
+  },
+  {
+   "id": "SG-H3028-A91",
+   "no": 91,
+   "noLabel": {
+    "en": "91."
+   },
+   "heading": {
+    "en": "Oaths"
+   },
+   "text": {
+    "en": "91. For the purpose of any of his duties in relation to proofs, the liquidator, in a winding up by the Court, may administer oaths and take affidavits."
+   }
+  },
+  {
+   "id": "SG-H3028-A92",
+   "no": 92,
+   "noLabel": {
+    "en": "92."
+   },
+   "heading": {
+    "en": "Procedure where creditor appeals"
+   },
+   "text": {
+    "en": "92. The liquidator in a winding up by the Court shall, within 3 days after receiving notice from a creditor of his intention to appeal against a decision rejecting a proof, file such proof with the Registrar, with a memorandum thereon of his disallowance thereof."
+   }
+  },
+  {
+   "id": "SG-H3028-A93",
+   "no": 93,
+   "noLabel": {
+    "en": "93."
+   },
+   "heading": {
+    "en": "Time for dealing with proofs"
+   },
+   "text": {
+    "en": "93. The liquidator shall within 14 days from the latest date for lodging proofs mentioned in the notice of his intention to declare a dividend, in writing either admit or reject wholly or in part, every proof lodged with him, or require further evidence in support thereof."
+   }
+  },
+  {
+   "id": "SG-H3028-A94",
+   "no": 94,
+   "noLabel": {
+    "en": "94."
+   },
+   "heading": {
+    "en": "Creditor’s proof which has been admitted"
+   },
+   "text": {
+    "en": "94. Where a creditor’s proof has been admitted, the notice of dividend shall be sufficient notification to the creditor of the admission."
+   }
+  },
+  {
+   "id": "SG-H3028-A95",
+   "no": 95,
+   "noLabel": {
+    "en": "95."
+   },
+   "heading": {
+    "en": "Costs of appeal against rejection"
+   },
+   "text": {
+    "en": "95. The liquidator shall in no case be personally liable for costs in relation to an appeal from his decision rejecting any proof wholly or in part."
+   }
+  },
+  {
+   "id": "SG-H3028-A96",
+   "no": 96,
+   "noLabel": {
+    "en": "96."
+   },
+   "heading": {
+    "en": "Dividends to creditors"
+   },
+   "text": {
+    "en": "96.—(1) Not more than 2 months before declaring a dividend, the liquidator in any winding up shall publish in the Gazette a notice of his intention to do so, and at the same time send the notice to every creditor mentioned in the statement of affairs who has not proved his debt. Such notice shall specify the latest date up to which proofs must be lodged, which shall not be less than 14 days from the date of the notice.\n(2) Where a creditor, after the latest date for lodging proofs mentioned in the notice of intention to declare a dividend, appeals against the decision of the liquidator rejecting a proof —\n(a)the appeal shall be commenced and notice thereof given to the liquidator within 7 days from the date of the notice of rejection against which the appeal is made; and\n(b)the liquidator shall make provision for the dividend payable upon the proof and the probable costs of the appeal in the event of the proof being admitted.\n(3) If no appeal has been commenced within the prescribed time, the liquidator shall exclude the proof which has been rejected from participation in the dividend.\n(4) Immediately after the expiration of the time fixed by this rule for appealing against the decision of the liquidator he shall proceed to declare a dividend, and shall publish in the Gazette a notice as in Form 57 (4) and shall also send a notice of dividend to each creditor whose proof has been admitted specifying the percentage of dividend payable and the amount of dividend payable to him.\n(5) If it becomes necessary, in the opinion of the liquidator to postpone the declaration of the dividend beyond the prescribed limit of 2 months, the liquidator shall cause a fresh notice of his intention to declare a dividend to be published in the Gazette, and thereafter the same procedure shall be followed as in the case of the original notice; but no fresh notice need be given to creditors mentioned in the statement of affairs who have not proved their debts.\n(6) Dividends may at the request and risk of the person to whom they are payable be transmitted to him by post.\n(7) If a person to whom dividends are payable desires that they shall be paid to some other person he may lodge with the liquidator a document in Form 41 which shall be a sufficient authority for payment of the dividend to the person therein named."
+   }
+  },
+  {
+   "id": "SG-H3028-A97",
+   "no": 97,
+   "noLabel": {
+    "en": "97."
+   },
+   "heading": {
+    "en": "Return of capital to partners"
+   },
+   "text": {
+    "en": "97. Every order by which the liquidator in a winding up by the Court is authorised to make a return to partners of the LLP shall, unless the Court shall otherwise direct, contain or have appended thereto a schedule or list (which the liquidator shall prepare) setting out in tabular form the full names and addresses of the persons to whom the return is to be paid, and the amount of money payable to each person, and particulars of the transfers of partnership interests which have been made or the variations in the list of partners which have arisen since the date of the settlement of the list of partners and such other information as may be requisite to enable the return to be made. The schedule or list shall be in Form 42 with such variations as circumstances shall require, and the notice of return to each partner shall specify the amount payable to each partner."
+   }
+  },
+  {
+   "id": "SG-H3028-A98",
+   "no": 98,
+   "noLabel": {
+    "en": "98."
+   },
+   "heading": {
+    "en": "Remittances to Limited Liability Partnerships Liquidation Account"
+   },
+   "text": {
+    "en": "98.—(1) Unless otherwise directed by the Court, every liquidator of an LLP which is being wound up by the Court shall pay, without deduction, all moneys received by him, as liquidator of the LLP, to the Limited Liability Partnerships Liquidation Account.\n(2) Such remittances are to be made once a week, or immediately if a sum of $1,000 or more has been received by the liquidator. The remittances may be made by cheque crossed “Official Receiver, credit of Limited Liability Partnerships Liquidation Account.”."
+   }
+  },
+  {
+   "id": "SG-H3028-A99",
+   "no": 99,
+   "noLabel": {
+    "en": "99."
+   },
+   "heading": {
+    "en": "Mode of payments out of Limited Liability Partnerships Liquidation Account"
+   },
+   "text": {
+    "en": "99.—(1) All payments out of the Limited Liability Partnerships Liquidation Account shall be made by the Official Receiver.\n(2) All necessary disbursements made by a liquidator on account of an LLP which is being wound up by the Court to the date of his application for release shall be repaid to him out of any moneys standing to the credit of the LLP in the Limited Liability Partnerships Liquidation Account on application to the Official Receiver.\n(3) After the liquidator has declared a dividend he may apply to the Official Receiver for funds available for the purpose standing to the credit of the LLP in the Limited Liability Partnerships Liquidation Account, the application to be supported by a certified list of creditors showing the amounts of their proofs and the moneys they are due to receive by way of dividend.\n(4) The Official Receiver shall in no case be held liable for any payments made on the requisition of a liquidator."
+   }
+  },
+  {
+   "id": "SG-H3028-A100",
+   "no": 100,
+   "noLabel": {
+    "en": "100."
+   },
+   "heading": {
+    "en": "Court may give directions"
+   },
+   "text": {
+    "en": "100. Notwithstanding any other provisions in these Rules, the Court may in any case give special directions with respect to the payment, deposit or custody of moneys or securities payable to or coming into the possession of a liquidator."
+   }
+  },
+  {
+   "id": "SG-H3028-A101",
+   "no": 101,
+   "noLabel": {
+    "en": "101."
+   },
+   "heading": {
+    "en": "First meetings of creditors and partners"
+   },
+   "text": {
+    "en": "101. The meetings of creditors and partners under paragraph 11 of the Fifth Schedule to the Act (referred to in these Rules as the first meetings of creditors and partners) shall be held within 21 days, or if a special manager has been appointed then within one month, after the date of the winding up order or within such further time as the Court may approve."
+   }
+  },
+  {
+   "id": "SG-H3028-A102",
+   "no": 102,
+   "noLabel": {
+    "en": "102."
+   },
+   "heading": {
+    "en": "Notice of first meetings"
+   },
+   "text": {
+    "en": "102. The Official Receiver shall give notice of the dates fixed by him for the first meetings of creditors and partners by advertisement in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H3028-A103",
+   "no": 103,
+   "noLabel": {
+    "en": "103."
+   },
+   "heading": {
+    "en": "Summoning of first meetings"
+   },
+   "text": {
+    "en": "103. The first meetings of creditors and partners shall be summoned as hereinafter provided."
+   }
+  },
+  {
+   "id": "SG-H3028-A104",
+   "no": 104,
+   "noLabel": {
+    "en": "104."
+   },
+   "heading": {
+    "en": "Form of notices of first meetings"
+   },
+   "text": {
+    "en": "104. The notices of first meetings of creditors and partners shall be in Forms 14 and 15, respectively, and the notices to creditors shall state a time within which the creditors must lodge their proofs in order to entitle them to vote at the first meeting."
+   }
+  },
+  {
+   "id": "SG-H3028-A105",
+   "no": 105,
+   "noLabel": {
+    "en": "105."
+   },
+   "heading": {
+    "en": "Notice of first meetings to officers of LLP"
+   },
+   "text": {
+    "en": "105.—(1) The Official Receiver shall also give to each of the managers, and other officers of the LLP who in his opinion ought to attend the first meetings of creditors and partners, 7 days’ notice in Form 16, of the time and place appointed for each meeting, such notice to be delivered personally or sent by prepaid post, as may be convenient.\n(2) It shall be the duty of every manager or officer who receives notice of such meeting to attend if so required by the Official Receiver, and if any such manager or officer fails to attend the Official Receiver shall report the failure to the Court."
+   }
+  },
+  {
+   "id": "SG-H3028-A106",
+   "no": 106,
+   "noLabel": {
+    "en": "106."
+   },
+   "heading": {
+    "en": "Summary of statement of affairs"
+   },
+   "text": {
+    "en": "106.—(1) The Official Receiver shall also, as soon as practicable, send to each creditor mentioned in the LLP’s statement of affairs, and to each person appearing from the LLP’s books or otherwise to be a partner of the LLP a summary of the LLP’s statement of affairs, including the causes of its failure and any observations which the Official Receiver may think fit to make.\n(2) The proceedings at a meeting shall not be invalidated by reason of any summary or notice required by these Rules not having been sent or received before the meeting.\n(3) Where prior to the winding up order the LLP had commenced to be wound up voluntarily the Official Receiver may, if he sees fit to do so, send to the persons aforesaid or any of them an account of such voluntary winding up showing how the winding up had been conducted and how the property of the LLP had been disposed of and any observations which the Official Receiver may think fit to make on such account or on the voluntary winding up."
+   }
+  },
+  {
+   "id": "SG-H3028-A107",
+   "no": 107,
+   "noLabel": {
+    "en": "107."
+   },
+   "heading": {
+    "en": "Liquidator’s meetings of creditors and partners"
+   },
+   "text": {
+    "en": "107.—(1) In addition to the first meetings of creditors and partners and in addition also to meetings of creditors and partners directed to be held by the Court under paragraph 73 of the Fifth Schedule to the Act (referred to in these Rules as Court meetings of creditors and partners), the liquidator in any winding up by the Court may himself from time to time subject to the provisions of the Act and the control of the Court summon, hold and conduct meetings of the creditors or partners (referred to in these Rules as liquidator's meetings of creditors and partners) for the purpose of ascertaining their wishes in all matters relating to the winding up.\n(2) The notice calling for such meeting shall be in Form 43."
+   }
+  },
+  {
+   "id": "SG-H3028-A108",
+   "no": 108,
+   "noLabel": {
+    "en": "108."
+   },
+   "heading": {
+    "en": "Application of rules as to meetings"
+   },
+   "text": {
+    "en": "108. Except where and so far as the nature of the subject matter or the context may otherwise require, the rules as to meetings hereinafter set out shall apply to first meetings, Court meetings and liquidator's meetings of creditors and partners, but so nevertheless that the rules shall take effect as to first meetings subject and without prejudice to any express provisions of the Act and as to Court meetings, subject and without prejudice to any express directions of the Court."
+   }
+  },
+  {
+   "id": "SG-H3028-A109",
+   "no": 109,
+   "noLabel": {
+    "en": "109."
+   },
+   "heading": {
+    "en": "Summoning of meetings"
+   },
+   "text": {
+    "en": "109.—(1) The liquidator shall summon all meetings of creditors and partners by giving not less than 7 days’ notice of the time and place thereof in the Gazette and in one local newspaper; and shall not less than 7 days before the day appointed for the meeting send by post to every person appearing, by the LLP’s books, to be a creditor of the LLP, notice of the meeting of creditors, and to every person appearing, by the LLP’s books, or otherwise, to be a partner of the LLP, notice of the meeting of partners.\n(2) The notice to each creditor shall be sent to the address given in his proof, or, if he has not proved, to the address given in the statement of affairs of the LLP, or to such other address as may be known to the person summoning the meeting.\n(3) The notice to each partner shall be sent to the address mentioned in the LLP’s books as the address of such partner, or to such other address as may be known to the person summoning the meeting.\n(4) This rule shall not apply to meetings under paragraph 43 or 55 of the Fifth Schedule to the Act."
+   }
+  },
+  {
+   "id": "SG-H3028-A110",
+   "no": 110,
+   "noLabel": {
+    "en": "110."
+   },
+   "heading": {
+    "en": "Proof of notice"
+   },
+   "text": {
+    "en": "110. An affidavit as in Form 44 by the liquidator or his solicitor or the clerk of either of such persons, that the notice of any meeting has been duly posted, shall be sufficient evidence of such notice having been duly sent to the person to whom the notice was addressed."
+   }
+  },
+  {
+   "id": "SG-H3028-A111",
+   "no": 111,
+   "noLabel": {
+    "en": "111."
+   },
+   "heading": {
+    "en": "Place of meetings"
+   },
+   "text": {
+    "en": "111. Every meeting shall be held at such place as, in the opinion of the person convening the meeting, is most convenient for the majority of the creditors or partners or both and different times or places or both may if thought expedient be named for the meetings of creditors and for the meetings of partners."
+   }
+  },
+  {
+   "id": "SG-H3028-A112",
+   "no": 112,
+   "noLabel": {
+    "en": "112."
+   },
+   "heading": {
+    "en": "Costs of calling meeting"
+   },
+   "text": {
+    "en": "112.—(1) The costs of summoning a meeting of creditors or partners at the instance of any person other than the liquidator shall be paid by the person at whose instance it is summoned who shall before the meeting is summoned deposit with the liquidator such sum as may be required by the liquidator as security for the payment of such costs.\n(2) The costs of summoning such meetings of creditors or partners, including all disbursements for printing, stationery, postage and the hire of room, shall be calculated at the following rate for each creditor or partner to whom notice is required to be sent, namely, $1 per creditor or partner for the first 50 creditors or partners, 75 cents per creditor or partner for the next 50 creditors or partners, 50 cents per creditor or partner for any number of creditors or partners after the first 100.\n(3) The costs shall be repaid out of the assets of the LLP if the Court shall by order, or if the creditors or partners (as the case may be) shall by resolution so direct.\n(4) This rule shall not apply to meetings under paragraph 43 or 44(5) of the Fifth Schedule to the Act."
+   }
+  },
+  {
+   "id": "SG-H3028-A113",
+   "no": 113,
+   "noLabel": {
+    "en": "113."
+   },
+   "heading": {
+    "en": "Chairman of meeting"
+   },
+   "text": {
+    "en": "113.—(1) Where a meeting is summoned by the liquidator, he, or a person nominated by him, shall be chairman of the meeting.\n(2) At every other meeting of creditors or partners the chairman shall be such person as the meeting by resolution shall appoint.\n(3) This rule shall not apply to meetings under paragraph 43 of the Fifth Schedule to the Act."
+   }
+  },
+  {
+   "id": "SG-H3028-A114",
+   "no": 114,
+   "noLabel": {
+    "en": "114."
+   },
+   "heading": {
+    "en": "Ordinary resolution of creditors and partners"
+   },
+   "text": {
+    "en": "114. At a meeting of creditors a resolution shall be deemed to be passed when a majority in number and value of the creditors present, personally or by proxy, and voting on the resolution, have voted in favour of the resolution, and at a meeting of the partners a resolution shall be deemed to be passed when a majority in number and value of the partners present, personally or by proxy, and voting on the resolution, have voted in favour of the resolution, the value of the partners being determined according to the number of votes conferred on each partner by the LLP."
+   }
+  },
+  {
+   "id": "SG-H3028-A115",
+   "no": 115,
+   "noLabel": {
+    "en": "115."
+   },
+   "heading": {
+    "en": "Copy of resolution to be filed"
+   },
+   "text": {
+    "en": "115. The liquidator shall file with the Registrar a copy, certified by him, of every resolution of a meeting of creditors or partners."
+   }
+  },
+  {
+   "id": "SG-H3028-A116",
+   "no": 116,
+   "noLabel": {
+    "en": "116."
+   },
+   "heading": {
+    "en": "Non-reception of notice by creditor"
+   },
+   "text": {
+    "en": "116. Where a meeting of creditors or partners is summoned by notice, the proceedings and resolutions at the meeting shall, unless the Court otherwise orders, be valid, notwithstanding that some creditors or partners may not have received the notice sent to them."
+   }
+  },
+  {
+   "id": "SG-H3028-A117",
+   "no": 117,
+   "noLabel": {
+    "en": "117."
+   },
+   "heading": {
+    "en": "Adjournment"
+   },
+   "text": {
+    "en": "117. The chairman may with the consent of the meeting adjourn it from time to time and from place to place, and then shall issue a memorandum in Form 45 but the adjourned meeting shall be held at the same place as the original place of meeting unless in the resolution for adjournment another place is specified or unless the Court otherwise orders."
+   }
+  },
+  {
+   "id": "SG-H3028-A118",
+   "no": 118,
+   "noLabel": {
+    "en": "118."
+   },
+   "heading": {
+    "en": "Quorum"
+   },
+   "text": {
+    "en": "118.—(1) A meeting may not act for any purpose except the election of a chairman, the proving of debts and the adjournment of the meeting unless there are present or represented thereat in the case of a creditors’ meeting at least 3 creditors entitled to vote or in the case of a meeting of partners at least 3 partners or all the creditors entitled to vote or all the partners, if the number of the creditors entitled to vote or the partners, as the case may be, shall, not exceed 3.\n(2) If within half an hour from the time appointed for the meeting a quorum of creditors or partners is not present or represented, the meeting shall be adjourned to the same day in the following week at the same time and place or to such other day as the chairman may appoint, not being less than 7 nor more than 21 days from the day from which the meeting was adjourned.\n(3) 1If within half an hour from the time appointed for the adjourned meeting a quorum of creditors or partners is not present or represented, the adjourned meeting shall not be further adjourned.\n1 Form 17, First Schedule (memorandum of proceedings at an adjourned first meeting).\n(4) The list of creditors assembled to be used at every meeting shall be in Form 18."
+   }
+  },
+  {
+   "id": "SG-H3028-A119",
+   "no": 119,
+   "noLabel": {
+    "en": "119."
+   },
+   "heading": {
+    "en": "Creditors entitled to vote"
+   },
+   "text": {
+    "en": "119.—(1) In the case of a first meeting of creditors or of an adjournment thereof a person shall not be entitled to vote as a creditor unless he has duly lodged with the Official Receiver not later than the time mentioned for that purpose in the notice convening the meeting or adjourned meeting a proof of the debt which he claims to be due to him from the LLP.\n(2) In the case of a Court meeting or liquidator’s meeting of creditors a person shall not be entitled to vote as a creditor unless he has lodged with the liquidator a proof of the debt which he claims to be due to him from the LLP and such proof has been admitted wholly or in part before the date on which the meeting is held:\nProvided that this rule and rules 120, 121, 122 and 123 shall not apply to a Court meeting of creditors held prior to the first meeting of creditors."
+   }
+  },
+  {
+   "id": "SG-H3028-A120",
+   "no": 120,
+   "noLabel": {
+    "en": "120."
+   },
+   "heading": {
+    "en": "Cases in which creditors may not vote"
+   },
+   "text": {
+    "en": "120. A creditor shall not vote in respect of any unliquidated or contingent debt, or any debt the value of which is not ascertained, nor shall a creditor vote in respect of any debt on or secured by a current bill of exchange or promissory note held by him unless he is willing to treat the liability to him thereon of every person who is liable thereon antecedently to the LLP, and against whom a receiving order in bankruptcy has not been made, as a security in his hands, and to estimate the value thereof, and for the purpose of voting, but not for the purposes of dividend, to deduct it from his proof."
+   }
+  },
+  {
+   "id": "SG-H3028-A121",
+   "no": 121,
+   "noLabel": {
+    "en": "121."
+   },
+   "heading": {
+    "en": "Votes of secured creditors"
+   },
+   "text": {
+    "en": "121. For the purpose of voting, a secured creditor shall, unless he surrenders his security, state in his proof the particulars of his security, the date when it was given, and the value at which he assesses it, and shall be entitled to vote only in respect of the balance (if any) due to him after deducting the value of his security. If he votes in respect of his whole debt he shall be deemed to have surrendered his security, unless the Court on application is satisfied that the omission to value the security has arisen from inadvertence."
+   }
+  },
+  {
+   "id": "SG-H3028-A122",
+   "no": 122,
+   "noLabel": {
+    "en": "122."
+   },
+   "heading": {
+    "en": "Creditor required to give up security"
+   },
+   "text": {
+    "en": "122. The liquidator may, within 28 days after a proof estimating the value of a security as aforesaid has been used in voting at a meeting, require the creditor to give up the security for the benefit of the creditors generally on payment of the value so estimated with an addition thereto of 20%:\nProvided that where a creditor has valued his security he may at any time before being required to give it up correct the valuation by a new proof and deduct the new value from his debt, but in that case the said addition of 20% shall not be made if the security is required to be given up."
+   }
+  },
+  {
+   "id": "SG-H3028-A123",
+   "no": 123,
+   "noLabel": {
+    "en": "123."
+   },
+   "heading": {
+    "en": "Admission and rejection of proofs for purpose of voting"
+   },
+   "text": {
+    "en": "123. The chairman shall have power to admit or reject a proof for the purpose of voting, but his decision shall be subject to appeal to the Court. If he is in doubt whether a proof shall be admitted or rejected he shall mark it as objected to and allow the creditor to vote subject to the vote being declared invalid in the event of the objection being sustained."
+   }
+  },
+  {
+   "id": "SG-H3028-A124",
+   "no": 124,
+   "noLabel": {
+    "en": "124."
+   },
+   "heading": {
+    "en": "Statement of security"
+   },
+   "text": {
+    "en": "124. For the purpose of voting at any meeting in a voluntary liquidation a secured creditor shall, unless he surrenders his security, lodge with the liquidator or where there is no liquidator at the registered office of the LLP before the meeting a statement giving the particulars of his security, the date when it was given and the value at which he assesses it."
+   }
+  },
+  {
+   "id": "SG-H3028-A125",
+   "no": 125,
+   "noLabel": {
+    "en": "125."
+   },
+   "heading": {
+    "en": "Minutes of meeting"
+   },
+   "text": {
+    "en": "125.—(1) The chairman shall cause minutes of the proceedings at the meeting to be drawn up and fairly entered in a book kept for that purpose and the minutes shall be signed by him or by the chairman of the next ensuing meeting.\n(2) A list of creditors and partners present at every meeting shall be made and kept in Form 18."
+   }
+  },
+  {
+   "id": "SG-H3028-A126",
+   "no": 126,
+   "noLabel": {
+    "en": "126."
+   },
+   "heading": {
+    "en": "Proxies"
+   },
+   "text": {
+    "en": "126. A creditor or a partner may vote either in person or by proxy. Where a person is authorised in the manner provided by section 179(3) of the Companies Act (Cap. 50) to represent a corporation at any meeting of creditors or partners that person shall produce to the liquidator or the chairman of the meeting a certificate under section 179 (5) of that Act. The succeeding rules as to proxies shall not (unless otherwise directed by the Court) apply to a Court meeting of creditors or partners prior to the first meeting."
+   }
+  },
+  {
+   "id": "SG-H3028-A127",
+   "no": 127,
+   "noLabel": {
+    "en": "127."
+   },
+   "heading": {
+    "en": "Form of proxies"
+   },
+   "text": {
+    "en": "127. Every instrument of proxy shall be in accordance with Form 46 or 47."
+   }
+  },
+  {
+   "id": "SG-H3028-A128",
+   "no": 128,
+   "noLabel": {
+    "en": "128."
+   },
+   "heading": {
+    "en": "Forms of proxy to be sent with notices"
+   },
+   "text": {
+    "en": "128. General and special forms of proxy shall be sent to the creditors and partners with the notice summoning the meeting, and neither the name nor description of the Official Receiver or liquidator or any other person shall be printed or inserted in the body of any instrument of proxy before it is so sent."
+   }
+  },
+  {
+   "id": "SG-H3028-A129",
+   "no": 129,
+   "noLabel": {
+    "en": "129."
+   },
+   "heading": {
+    "en": "General proxies to managers or clerks"
+   },
+   "text": {
+    "en": "129. A creditor or a partner may give a general proxy to his manager or clerk or any other person in his regular employment."
+   }
+  },
+  {
+   "id": "SG-H3028-A130",
+   "no": 130,
+   "noLabel": {
+    "en": "130."
+   },
+   "heading": {
+    "en": "Special proxies"
+   },
+   "text": {
+    "en": "130. A creditor or a partner may give a special proxy to any person to vote at any specified meeting or adjournment thereof —\n(a)for or against the appointment or continuance in office of any specified person as liquidator or member of the committee of inspection; and\n(b)on all questions relating to any matter other than those referred to above and arising at the meeting or an adjournment thereof."
+   }
+  },
+  {
+   "id": "SG-H3028-A131",
+   "no": 131,
+   "noLabel": {
+    "en": "131."
+   },
+   "heading": {
+    "en": "Solicitation by liquidator to obtain proxies"
+   },
+   "text": {
+    "en": "131. Where it appears to the satisfaction of the Court that any solicitation has been used by or on behalf of a liquidator in obtaining proxies or in procuring his appointment as liquidator except by the direction of a meeting of creditors or partners, the Court if it thinks fit may order that no remuneration be allowed to the person by whom or on whose behalf the solicitation was exercised notwithstanding any resolution of the committee of inspection or of the creditors or partners to the contrary."
+   }
+  },
+  {
+   "id": "SG-H3028-A132",
+   "no": 132,
+   "noLabel": {
+    "en": "132."
+   },
+   "heading": {
+    "en": "Proxies to liquidator"
+   },
+   "text": {
+    "en": "132. A creditor or a partner in any winding up may appoint the liquidator or, if there is no liquidator, the chairman of the meeting to act as his general or special proxy."
+   }
+  },
+  {
+   "id": "SG-H3028-A133",
+   "no": 133,
+   "noLabel": {
+    "en": "133."
+   },
+   "heading": {
+    "en": "Holder of proxy not to vote on matter in which he is financially interested"
+   },
+   "text": {
+    "en": "133. No person acting either under a general or a special proxy shall vote in favour of any resolution which would, directly or indirectly, place himself, his partner or employer in a position to receive any remuneration out of the estate of the LLP otherwise than as a creditor rateably with the other creditors of the LLP:\nProvided that where any person holds special proxies to vote for an application to the Court in favour of the appointment of himself as liquidator he may use the said proxies and vote accordingly."
+   }
+  },
+  {
+   "id": "SG-H3028-A134",
+   "no": 134,
+   "noLabel": {
+    "en": "134."
+   },
+   "heading": {
+    "en": "Proxies"
+   },
+   "text": {
+    "en": "134.—(1) A proxy intended to be used at the first meeting of creditors or partners, or an adjournment thereof, shall be lodged with the Official Receiver not later than the time mentioned for that purpose in the notice convening the meeting or the adjourned meeting, which time shall not be earlier than 12 o’clock noon of the day but one before, nor later than 12 o’clock noon of the day before the day appointed for such meeting, unless the Court otherwise directs.\n(2) In every other case a proxy shall be lodged with the liquidator not later than 4 o'clock in the afternoon of the day before the meeting or adjourned meeting at which it is to be used.\n(3) No person who is a minor shall be appointed a general or special proxy."
+   }
+  },
+  {
+   "id": "SG-H3028-A135",
+   "no": 135,
+   "noLabel": {
+    "en": "135."
+   },
+   "heading": {
+    "en": "Use of proxies by deputy"
+   },
+   "text": {
+    "en": "135. Where the Official Receiver who holds any proxies cannot attend the meeting for which they are given, he may, in writing, depute some person under his official control to use the proxies on his behalf, and in such manner as he may direct."
+   }
+  },
+  {
+   "id": "SG-H3028-A136",
+   "no": 136,
+   "noLabel": {
+    "en": "136."
+   },
+   "heading": {
+    "en": "Filling in where creditor blind or incapable"
+   },
+   "text": {
+    "en": "136. The proxy of a creditor blind or incapable of writing may be accepted, if the creditor has attached his signature or mark thereto in the presence of a witness, who shall add to his signature his description and residence:\nProvided that all insertions in the proxy are in the handwriting of the witness and the witness shall have certified at the foot of the proxy that all the insertions have been made by him at the request of the creditor, and in his presence before he attached his signature or mark."
+   }
+  },
+  {
+   "id": "SG-H3028-A137",
+   "no": 137,
+   "noLabel": {
+    "en": "137."
+   },
+   "heading": {
+    "en": "Remuneration of liquidator"
+   },
+   "text": {
+    "en": "137.—(1) If the Official Receiver is of the opinion that the remuneration of a liquidator as fixed by the committee of inspection is unnecessarily large, the Official Receiver may apply to the Court and thereupon the Court shall fix the amount of the remuneration of the liquidator.\n(2) This rule shall only apply to a liquidator appointed in a winding up by the Court."
+   }
+  },
+  {
+   "id": "SG-H3028-A138",
+   "no": 138,
+   "noLabel": {
+    "en": "138."
+   },
+   "heading": {
+    "en": "Limit of remuneration"
+   },
+   "text": {
+    "en": "138. Except as provided by the Act or these Rules, a liquidator shall not under any circumstances whatever, make any arrangement for, or accept from any solicitor, auctioneer, or any other person connected with the LLP of which he is liquidator, or who is employed in or in connection with the winding up of the LLP, any gift, remuneration, or pecuniary or other consideration or benefit whatever beyond the remuneration to which under the Act and these Rules he is entitled as liquidator, nor shall he make any arrangement for giving up, or give up any part of the remuneration to any such solicitor, auctioneer or other person."
+   }
+  },
+  {
+   "id": "SG-H3028-A139",
+   "no": 139,
+   "noLabel": {
+    "en": "139."
+   },
+   "heading": {
+    "en": "Dealings with assets"
+   },
+   "text": {
+    "en": "139. Neither the liquidator nor any member of the committee of inspection of an LLP shall, while acting as liquidator or member of the committee, except by permission of the Court, either directly or indirectly, by himself or any employer, partner, agent or employee, become purchaser of any part of the LLP’s assets and any such purchase made contrary to this rule may be set aside by the Court on the application of the Official Receiver or any creditor or partner and the Court may make such order as to costs as the Court shall think fit.\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A140",
+   "no": 140,
+   "noLabel": {
+    "en": "140."
+   },
+   "heading": {
+    "en": "Restriction on purchase of goods by liquidator"
+   },
+   "text": {
+    "en": "140. Where the liquidator carries on the business of the LLP, he shall not, without the express sanction of the Court, purchase goods for the carrying on of the business from any person whose connection with him is of such a nature as would result in his obtaining any portion of the profit (if any) arising out of the transaction."
+   }
+  },
+  {
+   "id": "SG-H3028-A141",
+   "no": 141,
+   "noLabel": {
+    "en": "141."
+   },
+   "heading": {
+    "en": "Committee of inspection not to make profit"
+   },
+   "text": {
+    "en": "141.—(1) No member of a committee of inspection shall, except under and with the sanction of the Court, directly or indirectly, by himself or any employer, partner, agent or employee, be entitled to derive any profit from any transaction arising out of the winding up, or to receive out of the assets any payment for services rendered by him in connection with the administration of the assets, or for any goods supplied by him to the liquidator for or on account of the LLP.\n(2) In a winding up by the Court, if it appears to the Official Receiver or, in a voluntary winding up, if it appears to the committee of inspection, or to any meeting of creditors or partners, that any profit or payment has been made contrary to this rule, they may disallow the payment or recover the profit, as the case may be, on the audit of the liquidator’s accounts or otherwise."
+   }
+  },
+  {
+   "id": "SG-H3028-A142",
+   "no": 142,
+   "noLabel": {
+    "en": "142."
+   },
+   "heading": {
+    "en": "Cost of obtaining sanction of Court"
+   },
+   "text": {
+    "en": "142. In any case in which the sanction of the Court is obtained under rule 140 or 141 the cost of obtaining the sanction shall be borne by the person in whose interest the sanction is obtained, and shall not be payable out of the LLP’s assets."
+   }
+  },
+  {
+   "id": "SG-H3028-A143",
+   "no": 143,
+   "noLabel": {
+    "en": "143."
+   },
+   "heading": {
+    "en": "Sanction of payments to committee of inspection"
+   },
+   "text": {
+    "en": "143. Where the sanction of the Court to a payment to a member of a committee of inspection for services rendered by him in connection with the administration of the LLP’s assets is obtained, the order of the Court shall specify the nature of the services and the sanction shall only be given where the service performed is of a special nature; and except by the express sanction of the Court no remuneration shall, under any circumstances, be paid to a member of a committee for services rendered by him in the discharge of the duties attaching to his office as a member of such committee."
+   }
+  },
+  {
+   "id": "SG-H3028-A144",
+   "no": 144,
+   "noLabel": {
+    "en": "144."
+   },
+   "heading": {
+    "en": "Notice of liquidator’s intention to apply for release"
+   },
+   "text": {
+    "en": "144. A liquidator before making application for his release in Form 55 shall give notice of his intention to do so in Form 54 to all the creditors who have proved their debts and to all the partners, and shall send with the notice a summary of all receipts and payments in the winding up in Form 56."
+   }
+  },
+  {
+   "id": "SG-H3028-A145",
+   "no": 145,
+   "noLabel": {
+    "en": "145."
+   },
+   "heading": {
+    "en": "Meetings of creditors and partners to consider resignation of liquidator"
+   },
+   "text": {
+    "en": "145.—(1) A liquidator who desires to resign his office shall summon separate meetings of the creditors and partners of the LLP to decide whether or not the resignation shall be accepted.\nMemorandum of resignation to be filed\n(2) If the creditors and partners by resolutions both agree to accept the resignation of the liquidator, he shall file with the Registrar, the Official Receiver and the Registrar of Limited Liability Partnerships a memorandum of his resignation and the resignation shall thereupon take effect.\nCourt consideration of application to resign\n(3) In any other case the liquidator shall report to the Court the result of the meetings and thereupon the Court may, upon the application of the liquidator, determine whether or not his resignation shall be accepted and may give such directions and make such orders as in its opinion shall be necessary.\nNotice of acceptance of resignation to be filed\n(4) On the Court pronouncing a determination that a resignation shall be accepted the liquidator shall immediately file a notice thereof with the Official Receiver and the Registrar of Limited Liability Partnerships.\n(5) The Court may dispense with all or any of the requirements of this rule."
+   }
+  },
+  {
+   "id": "SG-H3028-A146",
+   "no": 146,
+   "noLabel": {
+    "en": "146."
+   },
+   "heading": {
+    "en": "Office of liquidator vacated by his insolvency"
+   },
+   "text": {
+    "en": "146. If a Receiving Order in bankruptcy is made against the liquidator, he shall thereby vacate his office, and for the purpose of the application of the Act and these Rules he shall be deemed to have been removed."
+   }
+  },
+  {
+   "id": "SG-H3028-A147",
+   "no": 147,
+   "noLabel": {
+    "en": "147."
+   },
+   "heading": {
+    "en": "Proceedings on resignation, etc., of liquidator"
+   },
+   "text": {
+    "en": "147. Upon a liquidator resigning or being released or removed from his office, he shall deliver up to the Official Receiver or the new liquidator, as the case may be, all books kept by him and all other books, documents, papers and accounts in his possession relating to the office of liquidator. The release of a liquidator shall not take effect until he has delivered over to the Official Receiver or the new liquidator, as the case may be, all the books, documents, papers and accounts aforesaid."
+   }
+  },
+  {
+   "id": "SG-H3028-A148",
+   "no": 148,
+   "noLabel": {
+    "en": "148."
+   },
+   "heading": {
+    "en": "Application for special bank account"
+   },
+   "text": {
+    "en": "148.—(1) In a winding up by the Court, if the committee of inspection satisfies the Court that for the purpose of carrying on the business of the LLP or of obtaining advances, or for any other reason, it is to the advantage of the creditors or partners that the liquidator should have an account with any other bank, the Court shall, on the application of the committee of inspection, authorise the liquidator to make his payments into such other bank as the committee may select instead of to the Limited Liability Partnerships Liquidation Account, and thereupon those payments shall be made in the prescribed manner.\n(2) The Court may grant such authorisation as is referred to in paragraph (1) for such time and on such terms as it may think fit, and may at any time order the account to be closed if it is of the opinion that the account is no longer required for the purposes mentioned in the application."
+   }
+  },
+  {
+   "id": "SG-H3028-A149",
+   "no": 149,
+   "noLabel": {
+    "en": "149."
+   },
+   "heading": {
+    "en": "Payments into and out of bank"
+   },
+   "text": {
+    "en": "149.—(1) Where the liquidator in a winding up by the Court is authorised to have a special bank account, he shall immediately pay all moneys received by him into that account to the credit of the liquidator of the LLP.\n(2) All payments out of that account shall be made by cheque payable to order, and every cheque shall have marked or written on the face of it the name of the LLP, and shall be signed by the liquidator, and shall be countersigned by at least one member of the committee of inspection, and by such other person, if any, as the committee of inspection may appoint."
+   }
+  },
+  {
+   "id": "SG-H3028-A150",
+   "no": 150,
+   "noLabel": {
+    "en": "150."
+   },
+   "heading": {
+    "en": "Record Book"
+   },
+   "text": {
+    "en": "150. In a winding up by the Court the provisional liquidator, until a liquidator is appointed by the Court, and thereafter the liquidator, shall keep a book to be called the “Record Book”, in which he shall record all minutes, all proceedings held and resolutions passed at any meeting of creditors or partners, or of the committee of inspection, and all such matters as may be necessary to give a correct view of his administration of the LLP’s affairs, but he shall not be bound to insert in the Record Book any document of a confidential nature (such as the opinion of counsel on any matter affecting the interest of the creditors or partners), nor need he exhibit the document to any person other than a member of the committee of inspection or the Official Receiver."
+   }
+  },
+  {
+   "id": "SG-H3028-A151",
+   "no": 151,
+   "noLabel": {
+    "en": "151."
+   },
+   "heading": {
+    "en": "Cash Book"
+   },
+   "text": {
+    "en": "151.—(1) In a winding up by the Court the provisional liquidator, until a liquidator is appointed by the Court, and thereafter the liquidator, shall keep a book to be called the “Cash Book” in which he shall (subject to the provisions of these Rules as to trading accounts) enter from day to day the receipts and payments made by him.\n(2) The liquidator, other than the Official Receiver, shall submit the Record Book and Cash Book, together with any other requisite books and vouchers, to the committee of inspection (if any) when required, and not less than once every 3 months.\n(3) In a creditors’ voluntary winding up the liquidator shall keep such books as the committee of inspection or, if there is no such committee, as the creditors direct and all books kept by the liquidator shall be submitted to the committee of inspection or, if there is no such committee, to the creditors, with any other books, documents, papers and accounts in his possession relating to his office as liquidator of the LLP as and when the committee of inspection or, if there is no such committee, the creditors direct."
+   }
+  },
+  {
+   "id": "SG-H3028-A152",
+   "no": 152,
+   "noLabel": {
+    "en": "152."
+   },
+   "heading": {
+    "en": "Investment of assets in securities and realisation of securities"
+   },
+   "text": {
+    "en": "152.—(1) Where the committee of inspection is of the opinion that any part of the cash balance standing to the credit of the account of the LLP in the Limited Liability Partnerships Liquidation Account should be invested, the committee shall sign a certificate and request in Forms 48 and 49, respectively, and the liquidator shall transmit such certificate and request to the Official Receiver.\n(2) Where the committee of inspection is of the opinion that it is advisable to sell any of the securities in which the moneys of the LLP or the LLP’s assets are invested the committee shall sign a certificate and request to that effect, and the liquidator shall transmit such certificate and request to the Official Receiver.\n(3) Where in a winding up by the Court in which there is no committee of inspection a case has in the opinion of the liquidator arisen under paragraph 68 of the Fifth Schedule to the Act for an investment of funds of the LLP or a sale of securities in which the LLP’s funds have been invested, the liquidator shall sign and transmit to the Official Receiver a certificate of the facts on which his opinion is founded, and a request to the Official Receiver to make the investment or sale mentioned in the certificate, and the Official Receiver may thereupon, if he thinks fit, invest or sell the whole or any part of the funds or securities, as provided in that paragraph, and the certificate and request shall be sufficient authority to the Official Receiver for the said investment or sale."
+   }
+  },
+  {
+   "id": "SG-H3028-A153",
+   "no": 153,
+   "noLabel": {
+    "en": "153."
+   },
+   "heading": {
+    "en": "Audit of Cash Book"
+   },
+   "text": {
+    "en": "153. The committee of inspection shall not less than once every 3 months audit the liquidator’s Cash Book and certify in Form 50 under its hand the day on which the Book was audited."
+   }
+  },
+  {
+   "id": "SG-H3028-A154",
+   "no": 154,
+   "noLabel": {
+    "en": "154."
+   },
+   "heading": {
+    "en": "Liquidator’s accounts"
+   },
+   "text": {
+    "en": "154.—(1) The liquidator shall, at the expiration of 6 months from the date of the winding up order, and at the expiration of every succeeding 6 months thereafter until his release, transmit to the Official Receiver a copy of the Cash Book for such period in duplicate, together with the necessary vouchers and copies of the certificates of audit by the committee of inspection.\n(2) The liquidator shall forward with the first accounts a summary of the LLP’s statement of affairs, showing thereon in red ink the amounts realised, and explaining the cause of the non-realisation of such assets as may be unrealised.\n(3) The liquidator shall also at the end of every 6 months forward to the Official Receiver, with his accounts, a report on the position of the liquidation of the LLP in such form as the Official Receiver may direct.\n(4) When the assets of the LLP have been fully realised and distributed, the liquidator shall immediately send in his accounts to the Official Receiver, although the 6 months may not have expired.\n(5) The accounts sent in by the liquidator shall be verified by him by statutory declaration."
+   }
+  },
+  {
+   "id": "SG-H3028-A155",
+   "no": 155,
+   "noLabel": {
+    "en": "155."
+   },
+   "heading": {
+    "en": "Liquidator carrying on business"
+   },
+   "text": {
+    "en": "155. Where the liquidator carries on the business of the LLP, he shall keep a distinct account of the trading, and shall incorporate in the Cash Book the total weekly amount of the receipts and payments on such trading account."
+   }
+  },
+  {
+   "id": "SG-H3028-A156",
+   "no": 156,
+   "noLabel": {
+    "en": "156."
+   },
+   "heading": {
+    "en": "Liquidator’s trading account"
+   },
+   "text": {
+    "en": "156. The trading account shall from time to time, and not less than once in every month, be verified by statutory declaration and the liquidator shall thereupon submit the account in Form 51 to the committee of inspection (if any) or such member thereof as may be appointed by the committee for that purpose, who shall examine and certify the account."
+   }
+  },
+  {
+   "id": "SG-H3028-A157",
+   "no": 157,
+   "noLabel": {
+    "en": "157."
+   },
+   "heading": {
+    "en": "Expenses of sales"
+   },
+   "text": {
+    "en": "157. Where property forming part of an LLP’s assets is sold by the liquidator through an auctioneer or other agent, the gross proceeds of the sale shall be paid over by the auctioneer or agent, and the charges and expenses connected with the sale shall afterwards be paid to the auctioneer or agent, on the production of the necessary certificate of the Assessing Master.\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A158",
+   "no": 158,
+   "noLabel": {
+    "en": "158."
+   },
+   "heading": {
+    "en": "Judge may order transfer of pending actions to himself"
+   },
+   "text": {
+    "en": "158. Where an order has been made for the winding up of an LLP the Judge shall have power to order the transfer to him of any action, cause or matter pending, brought or continued by or against the LLP."
+   }
+  },
+  {
+   "id": "SG-H3028-A159",
+   "no": 159,
+   "noLabel": {
+    "en": "159."
+   },
+   "heading": {
+    "en": "Powers of Court"
+   },
+   "text": {
+    "en": "159. Where any action, cause or matter brought by or against an LLP against which a winding up order has been made is so transferred the Court may determine and deal with any application, matter or proceeding which, if the action, cause or matter had not been transferred, would have been determined in Chambers."
+   }
+  },
+  {
+   "id": "SG-H3028-A160",
+   "no": 160,
+   "noLabel": {
+    "en": "160."
+   },
+   "heading": {
+    "en": "Assessment of costs payable by liquidator"
+   },
+   "text": {
+    "en": "160. Every solicitor, manager, accountant, auctioneer, broker or other person employed by a liquidator in a winding up by the Court shall on request by the liquidator in Form 52 (to be made a sufficient time before the declaration of a dividend) deliver his bill of costs or charges to the Assessing Master for the purpose of assessment; and if he fails to do so within the time stated in the request or such extended time as the Registrar may allow, the liquidator shall declare and distribute the dividend without regard to such person’s claim, and subject to any order of the Court the claim shall be forfeited.\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A161",
+   "no": 161,
+   "noLabel": {
+    "en": "161."
+   },
+   "heading": {
+    "en": "Notice of appointment to assess"
+   },
+   "text": {
+    "en": "161. Where a bill of costs or charges in any winding up has been lodged with the Assessing Master he shall give notice of an appointment to assess the bill of costs or charges to the liquidator and to the person to or by whom the bill of costs or charges is or are to be paid.\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A162",
+   "no": 162,
+   "noLabel": {
+    "en": "162."
+   },
+   "heading": {
+    "en": "Copy of bill of costs to be furnished to liquidator"
+   },
+   "text": {
+    "en": "162. Every person whose bill of costs or charges in a winding up by the Court is or are to be assessed shall furnish a copy of his bill or charges to be so assessed to the liquidator.\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A163",
+   "no": 163,
+   "noLabel": {
+    "en": "163."
+   },
+   "heading": {
+    "en": "Attendance at assessment"
+   },
+   "text": {
+    "en": "163. The liquidator may attend or be represented on the assessment.\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A164",
+   "no": 164,
+   "noLabel": {
+    "en": "164."
+   },
+   "heading": {
+    "en": "Certificate of assessment"
+   },
+   "text": {
+    "en": "164. Upon the assessment of any bill of costs, charges or expenses being completed, the Assessing Master shall issue to the person presenting the bill for assessment his certificate of assessment in Form 53.\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A165",
+   "no": 165,
+   "noLabel": {
+    "en": "165."
+   },
+   "heading": {
+    "en": "Certificate as to special terms of remuneration, etc."
+   },
+   "text": {
+    "en": "165. Where the bill of costs or charges of any solicitor, manager, accountant, auctioneer, broker or other person employed by a liquidator is or are payable out of the assets of the LLP, a certificate in writing, signed by the liquidator, shall, on the assessment, be produced to the Assessing Master setting forth any special terms of remuneration which have been agreed to, and in the case of the bill of costs of a solicitor, a copy of the resolution or other authority sanctioning his employment.\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A166",
+   "no": 166,
+   "noLabel": {
+    "en": "166."
+   },
+   "heading": {
+    "en": "Liquidator's charges"
+   },
+   "text": {
+    "en": "166.—(1) Where a liquidator or special manager in a winding up by the Court receives remuneration for his services as such, no payment shall be allowed on his account in respect of the performance by any other person of the ordinary duties which are required by the Act or these Rules to be performed by himself.\n(2) Where a liquidator is a solicitor he may contract that the remuneration for his services as liquidator shall include all professional services."
+   }
+  },
+  {
+   "id": "SG-H3028-A167",
+   "no": 167,
+   "noLabel": {
+    "en": "167."
+   },
+   "heading": {
+    "en": "Application for costs"
+   },
+   "text": {
+    "en": "167. Where any party to or person affected by any proceedings desires to make an application for an order that he be allowed his costs or any part of them incidental to such proceedings and the application is not made at the time of the proceedings —\n(a)the party or person shall serve notice of his intended application on the liquidator;\n(b)the liquidator may appear on such application and object thereto; and\n(c)no costs of or incidental to such application shall be allowed to the party or person making the application, unless the Court is satisfied that the application could not have been made at the time of the proceedings."
+   }
+  },
+  {
+   "id": "SG-H3028-A168",
+   "no": 168,
+   "noLabel": {
+    "en": "168."
+   },
+   "heading": {
+    "en": "Costs"
+   },
+   "text": {
+    "en": "168. No payments in respect of bills of costs, charges or expenses of solicitors, managers, accountants, brokers or other persons, other than payments for costs and expenses incurred and sanctioned under rule 45 and payments of bills which have been assessed and allowed under orders made for the assessment thereof, shall be allowed out of the assets of the LLP without proof that the same have been duly assessed and allowed by the Assessing Master. The Assessing Master shall satisfy himself before passing such bills of costs or charges that the employment of the solicitor or other person in respect of the matters mentioned in the bills or charges has been duly sanctioned:\nProvided that the Official Receiver when acting as liquidator may without assessment allow and pay the costs, charges and expenses of any person employed by him where such costs, charges and expenses are within the scale usually allowed by the Court and do not exceed the sum of $25,000.\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A169",
+   "no": 169,
+   "noLabel": {
+    "en": "169."
+   },
+   "heading": {
+    "en": "Costs ordered by Court or Judge to be paid by LLP"
+   },
+   "text": {
+    "en": "169. Nothing in rule 168 shall apply to or affect costs which, in the course of legal proceedings by or against an LLP which is being wound up by the Court, are ordered by the Court in which such proceedings are pending, or a Judge thereof, to be paid by the LLP or the liquidator, or the rights of the person to whom the costs are payable."
+   }
+  },
+  {
+   "id": "SG-H3028-A170",
+   "no": 170,
+   "noLabel": {
+    "en": "170."
+   },
+   "heading": {
+    "en": "Attendance of liquidator"
+   },
+   "text": {
+    "en": "170. Where the attendance of the liquidator is required in any proceedings in Court or Chambers, the liquidator need not attend in person, except in cases where the Court directs him to attend in person."
+   }
+  },
+  {
+   "id": "SG-H3028-A171",
+   "no": 171,
+   "noLabel": {
+    "en": "171."
+   },
+   "heading": {
+    "en": "Conclusion of voluntary winding up deemed to be date of dissolution of LLP"
+   },
+   "text": {
+    "en": "171. The voluntary winding up of an LLP shall be deemed to be concluded at the date of the dissolution of the LLP, unless at such date any funds or assets of the LLP remain unclaimed or undistributed in the hands of or under the control of the liquidator, or any person who has acted as liquidator, in which case the winding up shall not be deemed to be concluded until the funds or assets have either been distributed or paid into the Limited Liability Partnerships Liquidation Account."
+   }
+  },
+  {
+   "id": "SG-H3028-A172",
+   "no": 172,
+   "noLabel": {
+    "en": "172."
+   },
+   "heading": {
+    "en": "Time for lodging account and statement under paragraph 64 of Fifth Schedule to Act"
+   },
+   "text": {
+    "en": "172.—(1) In every winding up the accounts and statements with respect to the proceedings in and position of the liquidation of an LLP, the winding up of which is not concluded within 6 months after the appointment of a liquidator, shall be sent to the Registrar of Limited Liability Partnerships and the Official Receiver twice in every year.\n(2) The first such account commencing at the date when a liquidator was first appointed and brought down to the end of 6 months after the appointment of the liquidator, shall be sent within one month from the expiration of such 6 months, or within such extended period as the Court may sanction, and the subsequent accounts shall be sent at intervals of 6 months, each account being brought down to the end of the 6 months for which it is sent."
+   }
+  },
+  {
+   "id": "SG-H3028-A173",
+   "no": 173,
+   "noLabel": {
+    "en": "173."
+   },
+   "heading": {
+    "en": "Form of liquidator’s account and statement"
+   },
+   "text": {
+    "en": "173. The account of a liquidator’s receipts and payments and the statement which the liquidator is required to lodge with the Registrar of Limited Liability Partnerships and the Official Receiver under paragraph 64 of the Fifth Schedule to the Act shall be in the form relating to the account of receipts and payments and statement of the position in the winding up, as may be prescribed by the Minister under the Act. Such form shall also be used even where a liquidator has not during any period for which an account has to be lodged, received or paid any money on account of the LLP."
+   }
+  },
+  {
+   "id": "SG-H3028-A174",
+   "no": 174,
+   "noLabel": {
+    "en": "174."
+   },
+   "heading": {
+    "en": "Investments representing unclaimed funds"
+   },
+   "text": {
+    "en": "174. Money invested or deposited at interest by a liquidator shall be deemed to be money under his control, and when such money forms part of the minimum balance payable into the Limited Liability Partnerships Liquidation Account, the liquidator shall realise the investment or withdraw the deposit, and shall pay the proceeds into the Limited Liability Partnerships Liquidation Account:\nProvided that where the money is invested in Government securities, the securities may, with the permission of the Official Receiver, be transferred to the control of the Official Receiver instead of being immediately realised and the proceeds thereof paid into the Limited Liability Partnerships Liquidation Account. If and when the money represented by the securities is required wholly or in part for the purposes of the liquidation, the Official Receiver may realise the securities wholly or in part and pay the proceeds of realisation into the Limited Liability Partnerships Liquidation Account and deal with the proceeds in the same way as other moneys paid into that Account may be dealt with."
+   }
+  },
+  {
+   "id": "SG-H3028-A175",
+   "no": 175,
+   "noLabel": {
+    "en": "175."
+   },
+   "heading": {
+    "en": "Liquidator to furnish information to Official Receiver"
+   },
+   "text": {
+    "en": "175. Every person who has acted as liquidator of any LLP, whether the liquidation has been concluded or not, shall furnish to the Official Receiver particulars of any money in his hands or under his control representing unclaimed or undistributed assets of the LLP and such other particulars as the Official Receiver may require for the purpose of ascertaining or getting in any money payable into the Limited Liability Partnerships Liquidation Account. The Official Receiver may require such particulars to be verified by affidavit."
+   }
+  },
+  {
+   "id": "SG-H3028-A176",
+   "no": 176,
+   "noLabel": {
+    "en": "176."
+   },
+   "heading": {
+    "en": "Official Receiver may call for verified accounts"
+   },
+   "text": {
+    "en": "176. The Official Receiver may at any time order any such person to submit an account verified by affidavit of the sums received and paid by him as liquidator of the LLP and may direct and enforce an audit of the account."
+   }
+  },
+  {
+   "id": "SG-H3028-A177",
+   "no": 177,
+   "noLabel": {
+    "en": "177."
+   },
+   "heading": {
+    "en": "Application for payment out by person entitled"
+   },
+   "text": {
+    "en": "177. An application by a person claiming to be entitled to any money paid into the Limited Liability Partnerships Liquidation Account in pursuance of paragraph 69 of the Fifth Schedule to the Act, shall be made in such form and manner as the Official Receiver may from time to time direct, and shall, unless the Official Receiver otherwise directs, be accompanied by the certificate of the liquidator that the person claiming is entitled and such further evidence as the Official Receiver may direct."
+   }
+  },
+  {
+   "id": "SG-H3028-A178",
+   "no": 178,
+   "noLabel": {
+    "en": "178."
+   },
+   "heading": {
+    "en": "Application by liquidator for payment out"
+   },
+   "text": {
+    "en": "178. A liquidator who requires to make payments out of money paid into the Limited Liability Partnerships Liquidation Account in pursuance of paragraph 69 of the Fifth Schedule to the Act either by way of distribution or in respect of the costs and expenses of the proceedings, shall apply in such form and manner as the Official Receiver may direct, and the Official Receiver may thereupon either make an order for payment to the liquidator of the sum required by him for the purposes aforesaid, or may direct cheques to be issued to the liquidator for transmission to the persons to whom the payments are to be made."
+   }
+  },
+  {
+   "id": "SG-H3028-A179",
+   "no": 179,
+   "noLabel": {
+    "en": "179."
+   },
+   "heading": {
+    "en": "Appointment"
+   },
+   "text": {
+    "en": "179.—(1) Judicial notice shall be taken of the appointment of the Official Receiver.\n(2) Any person appointed to act for the Official Receiver shall during his tenure of office have all the status, rights and powers, and be subject to all the liabilities of the Official Receiver."
+   }
+  },
+  {
+   "id": "SG-H3028-A180",
+   "no": 180,
+   "noLabel": {
+    "en": "180."
+   },
+   "heading": {
+    "en": "Removal"
+   },
+   "text": {
+    "en": "180. When the Official Receiver is removed from his office, notice of the order removing him shall be published in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H3028-A181",
+   "no": 181,
+   "noLabel": {
+    "en": "181."
+   },
+   "heading": {
+    "en": "Assistants"
+   },
+   "text": {
+    "en": "181. An Assistant Official Receiver shall be an officer of the Court like the Official Receiver and, subject to the directions of the Court, he may represent the Official Receiver in all proceedings in Court, or in any administrative or other matter. Judicial notice shall be taken of the appointment of an Assistant Official Receiver and he may be appointed or removed in the same manner as is provided in the case of the Official Receiver."
+   }
+  },
+  {
+   "id": "SG-H3028-A182",
+   "no": 182,
+   "noLabel": {
+    "en": "182."
+   },
+   "heading": {
+    "en": "Duties where no assets"
+   },
+   "text": {
+    "en": "182. Where an LLP against which a winding up order has been made has no available assets, the liquidator shall not be required to incur any expense in relation to the winding up without the express directions of the Court."
+   }
+  },
+  {
+   "id": "SG-H3028-A183",
+   "no": 183,
+   "noLabel": {
+    "en": "183."
+   },
+   "heading": {
+    "en": "Official Receiver to act for committee of inspection where there is no committee of inspection"
+   },
+   "text": {
+    "en": "183. Where there is no committee of inspection any functions of the committee of inspection, subject to the directions of the Court, may be exercised by the Official Receiver."
+   }
+  },
+  {
+   "id": "SG-H3028-A184",
+   "no": 184,
+   "noLabel": {
+    "en": "184."
+   },
+   "heading": {
+    "en": "Appeals from Official Receiver"
+   },
+   "text": {
+    "en": "184. An appeal to the Court from an act or a decision of the Official Receiver acting otherwise than as liquidator of an LLP, shall be brought within 21 days from the time when the decision or act appealed against is done, pronounced or made."
+   }
+  },
+  {
+   "id": "SG-H3028-A185",
+   "no": 185,
+   "noLabel": {
+    "en": "185."
+   },
+   "heading": {
+    "en": "Electronic filing system"
+   },
+   "text": {
+    "en": "185. There shall be established an electronic filing system for the purposes of carrying out transactions with the Official Receiver under these Rules."
+   }
+  },
+  {
+   "id": "SG-H3028-A186",
+   "no": 186,
+   "noLabel": {
+    "en": "186."
+   },
+   "heading": {
+    "en": "Duty of person carrying out electronic filing"
+   },
+   "text": {
+    "en": "186. Any person who wishes to file, serve, deliver or otherwise convey an application or a request or document by means of the electronic filing system shall do so in accordance with these Rules and any practice directions issued by the Official Receiver."
+   }
+  },
+  {
+   "id": "SG-H3028-A187",
+   "no": 187,
+   "noLabel": {
+    "en": "187."
+   },
+   "heading": {
+    "en": "Receipt of submission"
+   },
+   "text": {
+    "en": "187.—(1) Any application, request or document transmitted by means of the electronic filing system is considered to have been submitted to and received by the Official Receiver if the last byte of the transmission is received by the server designated by the Official Receiver for the receipt of such transmissions.\n(2) Any person who files with or sends to the Official Receiver any application, request or document by means of the electronic filing system may produce a record of transmission issued through the electronic filing system together with a copy of the notification of acceptance of the transmission by the Official Receiver as evidence of —\n(a)the filing or sending of the application, request or document; and\n(b)the date and time the filing or sending took place."
+   }
+  },
+  {
+   "id": "SG-H3028-A188",
+   "no": 188,
+   "noLabel": {
+    "en": "188."
+   },
+   "heading": {
+    "en": "Enlargement or abridgment of time"
+   },
+   "text": {
+    "en": "188.—(1) The Court may, in any case in which it shall see fit, extend or abridge the time appointed by these Rules or fixed by any order of the Court for doing any act or taking any proceeding.\n(2) The Court may, at any time during the progress of the liquidation, on the application of the liquidator or the Official Receiver, direct that such of the books, papers and documents of the LLP or of the liquidator as are no longer required for the purpose of the liquidation, may be sold, destroyed or otherwise disposed of."
+   }
+  },
+  {
+   "id": "SG-H3028-A189",
+   "no": 189,
+   "noLabel": {
+    "en": "189."
+   },
+   "heading": {
+    "en": "Formal defect not to invalidate proceedings"
+   },
+   "text": {
+    "en": "189.—(1) No proceedings under the Act or these Rules shall be invalidated by any formal defect or by any irregularity, unless the Court is of the opinion that substantial injustice has been caused by the defect or irregularity, and that the injustice cannot be remedied by any order of the Court.\n(2) No defect or irregularity in the appointment or election of a receiver, liquidator, or member of a committee of inspection shall vitiate any act done by him in good faith."
+   }
+  },
+  {
+   "id": "SG-H3028-A190",
+   "no": 190,
+   "noLabel": {
+    "en": "190."
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "190.—(1) Fees in accordance with the provisions of the Second Schedule shall be leviable by the Court.\n(2) For assessment of costs, the same fees as are payable in the General Division of the High Court shall be leviable.\n[S 1037/2020 wef 02/01/2021]\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRule 3\nFORM 1A\nRule 17A\nNOTICE OF RENEWAL OF ORIGINATING APPLICATION\nRenewed for months from the date of 20 by an order of Court dated the day of 20 .\nDated this day of 20 .\nSolicitor for the\n[S 197/2022 wef 01/04/2022]\nFORM 2\nRule 22\nIN THE GENERAL DIVISION OF THE HIGH COURT OF THE REPUBLIC OF SINGAPORE\nLWU O.A. No. )\nof 20 )\n(Seal).\nIn the Matter of the Limited Liability\nPartnerships Act (Cap. 163A)\nAND\nIn the Matter of ______________________\nApplicant.\nORIGINATING APPLICATION\nLet all parties concerned attend before the Judge on _________________ (date/time) on the hearing of an application by the application that:\n(1)a winding up order be made against the applicant; [and\n(2)_________________ be appointed as liquidator of the applicant].\nDated this day of 20 .\nRegistrar.\nThis summons is taken out by of solicitor for the applicant whose address is\nNote: This summons shall be served together with an affidavit in support of the application.\nThis summons may not be served more than 6 calendar months after the above date unless renewed by order of the Court.\n[S 197/2022 wef 01/04/2022]\n[S 1037/2020 wef 02/01/2021]\nFORM 3\nRule 22\nIN THE GENERAL DIVISION OF THE HIGH COURT OF\nTHE REPUBLIC OF SINGAPORE\nLWU O.A. No. )\nof 20 )\n(Seal).\nIn the Matter of the Limited Liability\nPartnerships Act (Cap. 163A)\nAND\nIn the Matter of ______________________\nBetween\nClaimant.\nand\nDefendant.\nORIGINATING APPLICATION\nLet all parties concerned attend before the Judge on _________________ (date/time) on the hearing of an application by the claimant that:\n(1)a winding up order be made against the defendant; [and\n(2)_________________ be appointed as liquidator of the defendant].\nDated this day of 20 .\nRegistrar.\nThis summons is taken out by of solicitor for the claimant whose address is\nNote: This summons shall be served together with an affidavit in support of the application.\nThis summons may not be served more than 6 calendar months after the above date unless renewed by order of the Court.\nIf a defendant does not attend personally or by his counsel or solicitor at the time and place abovementioned such order will be made as the Court may think just and expedient.\n[S 197/2022 wef 01/04/2022]\n[S 1037/2020 wef 02/01/2021]\nFORM 4\nRule 24\nADVERTISEMENT OF WINDING UP APPLICATION\n(Title)\nNotice is hereby given that an application for the winding up of the abovenamed limited liability partnership by the General Division of the High Court was, on the day of 20 filed by of , a creditor (or as the case may be), and that the winding up application is directed to be heard before the Court sitting at at o’clock, on the day of 20 ; and any creditor or partner of the limited liability partnership desiring to support or oppose the making of an order on the winding up application may appear at the time of hearing by himself or his counsel for that purpose; and a copy of the winding up application will be furnished to any creditor or partner of the limited liability partnership requiring the copy of the winding up application by the undersigned on payment of the regulated charge for the same.\nThe Applicant’s address is\nThe Applicant’s solicitor is of\n(Signature) (a)\nNote: Any person who intends to appear on the hearing of the winding up application must serve on or send by post to the (b) , notice in writing of his intention to do so. The notice must state the name and address of the person, or, if a firm, the name and address of the firm, and must be signed by the person, firm, or his or their solicitor (if any) and must be served, or, if posted, must be sent by post in sufficient time to reach the abovenamed not later than 12 o’clock noon of the day of 20 (the day before the day appointed for the hearing of the winding up application).\n(a)To be signed by the solicitor to the applicant or by the applicant if he has no solicitor.\n(b)Solicitor or applicant, as the case may be.\n[S 1037/2020 wef 02/01/2021]\nFORM 52\nRule 160\nREQUEST TO DELIVER BILL\nFOR ASSESSMENT\n(Title)\nI hereby request that you will, within days of this date, or such further time as the Court may allow, deliver for assessment by the proper officer, your bill of costs [or charges] as (a) failing which, I shall, in pursuance of the Limited Liability Partnerships Act (Cap. 163A) and the Limited Liability Partnerships (Winding Up) Rules (R 2), proceed to declare and distribute a dividend without regard to any claim which you may have against the assets of the limited liability partnership and your claim against the assets of the limited liability partnership will be liable to be forfeited.\nDated this day of 20 .\n(a)Here state nature of employment\n[S 197/2022 wef 01/04/2022]\nFORM 53\nRule 164\nCERTIFICATE OF ASSESSMENT\n(Title)\nI hereby certify that I have assessed the bill of costs [or charges] [or expenses] of C.D. [here state capacity in which employed or engaged] [where necessary add “pursuant to an order of the Court dated day of 20 ”], and have allowed the same at the sum of dollars [where necessary add “which sum is to be paid to the said C.D. by as directed by the said order”].\nDated this day of 20 .\n___________________\nRegistrar\n$\n[S 197/2022 wef 01/04/2022]\nFORM 56\nRule 144\nSTATEMENT TO ACCOMPANY NOTICE OF\nAPPLICATION FOR RELEASE\n(Title)\nStatement showing position of limited liability partnership\nat date of application for release\nDr.\nCr.\nEstimated to produce as per limited liability partnership’s statement of affairs\nReceipts\nPayment\n$\n¢\nBy court fees (including stationery, printing and postage in respect of partners, creditors and debtors, and fees for audit)\n$\n¢\n$\n¢\n$\n¢\nTo total receipts from date of Winding Up Order, viz: (State particulars under the several headings specified in the statement of affairs)\nLaw costs of winding up application\nLaw costs of solicitor to liquidator\nOther law costs\nLiquidator’s remuneration, viz:\nReceipts per trading account\n$\n¢\nOther receipts\n% on $\nassets realised\nTotal\n% on $\nassets distributed in dividend\nLess:\n$\n¢\nShorthand writer’s charges\nPayments to redeem securities\nSpecial manager’s charges\nCosts of execution\nPerson appointed to assist in preparation of statement of affairs\nPayments per trading accounts\nAuctioneer’s charges as assessed\nOther assessed costs\nCosts of possession and maintenance of estate\nCosts of notices in Gazette and local papers\nIncidental outlay\n$\nNet realisations\n$\nTotal costs and charges\n$\nCreditors, viz:\n$\n¢\n(a)Preferential\n(b)Unsecured: dividend of $... per centum\nThe estimate of amount expected to rank for dividend was $\nAmount returned to partners\n$\nBalance\n$\nAssets not yet realised estimated to produce $\n(Add here any special remarks the liquidator thinks desirable).\nCreditors can obtain any further information by inquiry at the office of the Liquidator.\nDated this day of 20 .\n(Signature of Liquidator)\n(Address)\n[S 197/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H3028-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRule 190\nFees\n1.Every winding up application\n$75\n2.Every bond with sureties\n$10\n3.Every order to attend court, order to produce documents or summons\n$4\n4.On issuing an office copy of a judgment or order made in Court (except an order upon an application for winding up, an order adjourning a public examination, and an order appointing a shorthand writer) —\n(a)if made in Court\n$20\n(b)if not made in Court\n$10\n5.Every order adjourning a public examination\n$10\n6.Every order appointing a shorthand writer\n$10\n7.Every affidavit filed\n$10\n8.For taking an affidavit or an affirmation in lieu of an affidavit, or a declaration, except for proof of debts, for each person making the same\n$4\nAnd in addition thereto for each exhibit referred to therein and required to be marked\n$1\n9.[Deleted by S 588/2013 wef 15/10/2013]\n10.Every other office copy, each folio of 100 words\n$1\n11.On every application to the Court to approve a reconstruction or other scheme by which the affairs of the LLP are to be wound up otherwise than by the realisation and distribution of assets\n$100\n12.On every order of the Court approving such reconstruction or scheme, a fee according to the following scale on the estimated value of the LLP’s property transferred or otherwise disposed of, viz:\n(a)on the first $100,000 or fraction thereof\n1/ 4%\n(b)on the next $900,000 or fraction thereof\n1/8%\n(c)above $1 million\n1 ̸ 10%\n13.On every application to Court under the Fifth Schedule to the Act (other than the application mentioned above)\n$50.\n[S 197/2022 wef 01/04/2022]\n[S 588/2013 wef 15/10/2013]\n[G.N. Nos. S 532/2005; S 869/2005]"
+   }
+  }
+ ]
+}

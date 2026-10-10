@@ -1,0 +1,110 @@
+{
+ "id": "CN-JI-0395",
+ "title": {
+  "zh": "最高人民法院关于审理注册商标、企业名称与在先权利冲突的民事纠纷案件若干问题的规定",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p10",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2020-12-29",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "最高人民法院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 482,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于审理注册商标、企业名称与在先权利冲突的民事纠纷案件若干问题的规定_20201229.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，第一条至第四条，共 4 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于审理注册商标、企业名称与在先权利冲突的民事纠纷案件若干问题的规定_20201229.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0395-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "第一条"
+   },
+   "text": {
+    "zh": "原告以他人注册商标使用的文字、图形等侵犯其著作权、外观设计专利权、企业名称权等在先权利为由提起诉讼，符合民事诉讼法第一百一十九条规定的，人民法院应当受理。\n原告以他人使用在核定商品上的注册商标与其在先的注册商标相同或者近似为由提起诉讼的，人民法院应当根据民事诉讼法第一百二十四条第（三）项的规定，告知原告向有关行政主管机关申请解决。但原告以他人超出核定商品的范围或者以改变显著特征、拆分、组合等方式使用的注册商标，与其注册商标相同或者近似为由提起诉讼的，人民法院应当受理。"
+   }
+  },
+  {
+   "id": "CN-JI-0395-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "第二条"
+   },
+   "text": {
+    "zh": "原告以他人企业名称与其在先的企业名称相同或者近似，足以使相关公众对其商品的来源产生混淆，违反反不正当竞争法第六条第（二）项的规定为由提起诉讼，符合民事诉讼法第一百一十九条规定的，人民法院应当受理。"
+   }
+  },
+  {
+   "id": "CN-JI-0395-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "第三条"
+   },
+   "text": {
+    "zh": "人民法院应当根据原告的诉讼请求和争议民事法律关系的性质，按照民事案件案由规定，确定注册商标或者企业名称与在先权利冲突的民事纠纷案件的案由，并适用相应的法律。"
+   }
+  },
+  {
+   "id": "CN-JI-0395-A4",
+   "no": 4,
+   "noLabel": {
+    "zh": "第四条"
+   },
+   "text": {
+    "zh": "被诉企业名称侵犯注册商标专用权或者构成不正当竞争的，人民法院可以根据原告的诉讼请求和案件具体情况，确定被告承担停止使用、规范使用等民事责任。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于审理注册商标、企业名称与在先权利冲突的民事纠纷案件若干问题的规定"
+  },
+  "issuingBody": {
+   "zh": "最高人民法院"
+  },
+  "promulgatedDate": "2020-12-29",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

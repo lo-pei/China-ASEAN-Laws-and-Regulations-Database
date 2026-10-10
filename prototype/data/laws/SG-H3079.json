@@ -1,0 +1,78 @@
+{
+ "id": "SG-H3079",
+ "title": {
+  "zh": null,
+  "en": "Maritime and Port Authority of Singapore (Designated Operating Entities) Notification 2025",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p39",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MPASA1996-S244-2025",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 643,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MPASA1996-S244-2025?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3079-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Notification is the Maritime and Port Authority of Singapore (Designated Operating Entities) Notification 2025."
+   }
+  },
+  {
+   "id": "SG-H3079-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Designated operating entities"
+   },
+   "text": {
+    "en": "2.—(1) The Authority designates each entity specified in the first column of the Schedule as a designated operating entity.\n(2) The designation of an entity as a designated operating entity takes effect on the date specified for that entity in the second column of the Schedule."
+   }
+  },
+  {
+   "id": "SG-H3079-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nParagraph 2\nDesignated operating entities\nFirst column\nDesignated operating entity\nSecond column\nDate designation takes effect\n1.PSA Marine (Pte) Ltd\n(UEN 199702494W)\n15 April 2025\n2.Jurong Port Pte Ltd\n(UEN 200007468N)\n15 April 2025"
+   }
+  }
+ ]
+}

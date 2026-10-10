@@ -1,0 +1,105 @@
+{
+ "id": "PH-H1239",
+ "title": {
+  "zh": null,
+  "en": "An Act Prohibiting Disclosure of or Inquiry Into, Deposits with Any Banking Institution and Providing Penalty Therefor",
+  "orig": "An Act Prohibiting Disclosure of or Inquiry Into, Deposits with Any Banking Institution and Providing Penalty Therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p17",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1955-09-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1405",
+ "officialCode": null,
+ "topics": [
+  "tax",
+  "criminal"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 2707,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1955/ra_1405_1955.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 6 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1955/ra_1405_1955.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1239-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "It is hereby declared to be the policy of the Government to give encouragement to the people to deposit their money in banking institutions and to discourage private hoarding so that the same may be properly utilized by banks in authorized loans to assist in the economic development of the country."
+   }
+  },
+  {
+   "id": "PH-H1239-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "1 All deposits of whatever nature with banks or banking institutions in the Philippines including investments in bonds issued by the Government of the Philippines, its political subdivisions and its instrumentalities, are hereby considered as of an absolutely confidential nature and may not be examined, inquired or looked into by any person, government official, bureau or office, except upon written permission of the depositor, or in cases of impeachment, or upon order of a competent court in cases of bribery or dereliction of duty of public officials, or in cases where the money deposited or invested is the subject matter of the litigation."
+   }
+  },
+  {
+   "id": "PH-H1239-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "It shall be unlawful for any official or employee of a banking institution to disclose to any person other than those mentioned in Section two hereof any information concerning said deposits."
+   }
+  },
+  {
+   "id": "PH-H1239-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "All Acts or parts of Acts, Special Charters, Executive Orders, Rules and Regulations which are inconsistent with the provisions of this Act are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H1239-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Any violation of this law will subject offender upon conviction, to an imprisonment of not more than five years or a fine of not more than twenty thousand pesos or both, in the discretion of the court."
+   }
+  },
+  {
+   "id": "PH-H1239-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: September 9, 1955 Footnote 1 This Section and Section 3 were both amended by PD No. 1792 issued January 16, 1981, PD 1792 was expressly repealed by Sec 135 of R.A. No. 7653, approved June 14, 1993. The original sections 2 and 3 of R.A. No.1405 are hereby reproduced for reference, as follows; \"Sec 2 All deposits of whatever nature with banks or banking institutions in the Philippines including investments in bonds issued by the Government of the Philippines, its political subdivisions and its instrumentalities, are hereby considered as of an absolutely confidential nature and may not be examined, inquired or looked into by any person, government official, bureau or office, except upon written per-mission of the depositor, or in cases of impeachment, or upon order of a competent court in cases of bribery or dereliction of duty of public officials. or in cases where the money deposited or invested is the subject matter of the litigation,\" \"Sec. 3. It shall be unlawful for any official or employee of a banking institution to disclose to any person other than those mentioned in Section two hereof any information concerning said deposits.\""
+   }
+  }
+ ]
+}

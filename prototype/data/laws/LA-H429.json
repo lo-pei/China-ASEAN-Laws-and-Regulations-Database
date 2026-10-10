@@ -1,0 +1,3822 @@
+{
+ "id": "LA-H429",
+ "title": {
+  "zh": null,
+  "en": null,
+  "orig": null
+ },
+ "country": "LA",
+ "countryName": "老挝",
+ "layer": "intl",
+ "pack": "la-p02",
+ "language": "en",
+ "level": null,
+ "category": null,
+ "status": null,
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 378,
+ "chars": 115700,
+ "source": {
+  "name": "老挝 — 劳动法_2013_en_【存疑ASEAN译本】",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-08",
+ "completenessNote": "全文，共 378 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。（本次由归档原件补录入库）",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "LA-H429-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1. Labor affairs is work in skills development, promotion of recr uitment and protection of"
+   },
+   "text": {
+    "en": "1. Labor affairs is work in skills development, promotion of recr uitment and protection of\nlabor;"
+   }
+  },
+  {
+   "id": "LA-H429-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2. Workforce means persons aged fourteen years to sixty years who are able to work;"
+   },
+   "text": {
+    "en": "2. Workforce means persons aged fourteen years to sixty years who are able to work;"
+   }
+  },
+  {
+   "id": "LA-H429-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3. Employer means a person, legal entity or organization using employees for its activities by"
+   },
+   "text": {
+    "en": "3. Employer means a person, legal entity or organization using employees for its activities by\npaying salary or wages, and providing other benefits as determined by law and the\nemployment contract;"
+   }
+  },
+  {
+   "id": "LA-H429-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4. Employee means a person working under the supervision of an employer while receiving"
+   },
+   "text": {
+    "en": "4. Employee means a person working under the supervision of an employer while receiving\ncompensation for work through salary or wages, including benefits as d etermined by law,\nregulations and the employment contract;"
+   }
+  },
+  {
+   "id": "LA-H429-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5. Migrant labor means Lao labor that migrates domestically and abroad, including foreign"
+   },
+   "text": {
+    "en": "5. Migrant labor means Lao labor that migrates domestically and abroad, including foreign\nlabor entering Laos;"
+   }
+  },
+  {
+   "id": "LA-H429-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6. Registered employee means an employee working within a legally registered labor unit;"
+   },
+   "text": {
+    "en": "6. Registered employee means an employee working within a legally registered labor unit;"
+   }
+  },
+  {
+   "id": "LA-H429-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7. Unregistered employee means an employee working outside of a labor unit, including"
+   },
+   "text": {
+    "en": "7. Unregistered employee means an employee working outside of a labor unit, including\nfreelance workers;\n\nUnofficial translation of Labor Law, update on 13 October 2014 2"
+   }
+  },
+  {
+   "id": "LA-H429-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8. Household worker means employees working in households of other people on a basic"
+   },
+   "text": {
+    "en": "8. Household worker means employees working in households of other people on a basic\ncontract that outlines duties, daily working hours, salary, payment terms and residency terms;"
+   }
+  },
+  {
+   "id": "LA-H429-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9. Foreign employee means a foreigner that undertakes work in a labor unit or project located"
+   },
+   "text": {
+    "en": "9. Foreign employee means a foreigner that undertakes work in a labor unit or project located\nwithin the Lao PDR;"
+   }
+  },
+  {
+   "id": "LA-H429-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10. Youth labor means employees aged between twelve and under eighteen years;"
+   },
+   "text": {
+    "en": "10. Youth labor means employees aged between twelve and under eighteen years;"
+   }
+  },
+  {
+   "id": "LA-H429-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11. Child labor means youth labor unauthorized to work in dangerous jobs or sectors, working"
+   },
+   "text": {
+    "en": "11. Child labor means youth labor unauthorized to work in dangerous jobs or sectors, working\novertime, or undertaking hard labor, including children under the age of twelve years\nundertaking economic work;"
+   }
+  },
+  {
+   "id": "LA-H429-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12. Employee representative means a person selected by the employee as representative in labor"
+   },
+   "text": {
+    "en": "12. Employee representative means a person selected by the employee as representative in labor\nactivities;"
+   }
+  },
+  {
+   "id": "LA-H429-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13. Recruitment services means advice or coun sel on information, legislation and facilitation"
+   },
+   "text": {
+    "en": "13. Recruitment services means advice or coun sel on information, legislation and facilitation\nfor jobseekers and for employers who ac quire employees through the government\nrecruitment network or recruitment service enterprises;"
+   }
+  },
+  {
+   "id": "LA-H429-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14. Labor skills means the skills, expertise, capacity to work and attitude to work;"
+   },
+   "text": {
+    "en": "14. Labor skills means the skills, expertise, capacity to work and attitude to work;\n15. Labor skill standards means the basic technical levels used to define the levels of expertise\nand capacity deemed sufficient for the quality and correctness of work performed, according\nto procedures and punctuality;"
+   }
+  },
+  {
+   "id": "LA-H429-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16. Labor skills development location means a labor skills development cent er, institution,"
+   },
+   "text": {
+    "en": "16. Labor skills development location means a labor skills development cent er, institution,\nlabor unit, business unit and locations for activities by social organi zations of the Party and\ngovernment, as well as private organizations authorized to conduct skills development;"
+   }
+  },
+  {
+   "id": "LA-H429-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17. Labor skill evaluator means the person responsible for conducting skill evaluation and"
+   },
+   "text": {
+    "en": "17. Labor skill evaluator means the person responsible for conducting skill evaluation and\nassessment of skill standards at a skills development location;\n18. Labor skills development means skills training, upgrading skills, expertise, and capacity in\nwork when working according to national skill standards;"
+   }
+  },
+  {
+   "id": "LA-H429-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19. Labor unit means legally registered production, business or service units in the economic"
+   },
+   "text": {
+    "en": "19. Labor unit means legally registered production, business or service units in the economic\nand social sector registered according to laws and regulations;"
+   }
+  },
+  {
+   "id": "LA-H429-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20. Labor market means the supply and demand sources for labor in society;"
+   },
+   "text": {
+    "en": "20. Labor market means the supply and demand sources for labor in society;"
+   }
+  },
+  {
+   "id": "LA-H429-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21. Light work for youth means work that is not dangerous to health, both physically and"
+   },
+   "text": {
+    "en": "21. Light work for youth means work that is not dangerous to health, both physically and\nmentally, and which does not affect the development of the body, mind or psychology, or the\nstudies of the youth employee;"
+   }
+  },
+  {
+   "id": "LA-H429-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22. Hazardous work means all types of work that entail an element of dangerous risk to the"
+   },
+   "text": {
+    "en": "22. Hazardous work means all types of work that entail an element of dangerous risk to the\nhealth of the body, the mind, the psychological makeup or personal safety of the employee;"
+   }
+  },
+  {
+   "id": "LA-H429-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23. Using labor by force means the use of labor where the employee does not voluntaril y accept"
+   },
+   "text": {
+    "en": "23. Using labor by force means the use of labor where the employee does not voluntaril y accept\nthe assigned work or which is inconsistent with the employment contract, any forceful use of\nthe employee or working population for the benefit of an individual or group;"
+   }
+  },
+  {
+   "id": "LA-H429-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24. Foreign organization means an embassy, consulate, agency of the United Natio ns,"
+   },
+   "text": {
+    "en": "24. Foreign organization means an embassy, consulate, agency of the United Natio ns,\ninternational nongovernmental organization, international financial institution, aid\norganizations, loan fund, or cooperation project with Laos, and a foreign office which has\nreceived authorization to operate in the Lao PDR;"
+   }
+  },
+  {
+   "id": "LA-H429-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25. Tripartite organization means an organization that includes lab or administration,"
+   },
+   "text": {
+    "en": "25. Tripartite organization means an organization that includes lab or administration,\norganization representing employers, and organizations representing employees;"
+   }
+  },
+  {
+   "id": "LA-H429-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26. Tripartite principles means the principles by which tripartite organizations engage with"
+   },
+   "text": {
+    "en": "26. Tripartite principles means the principles by which tripartite organizations engage with\nlabor;\n\nUnofficial translation of Labor Law, update on 13 October 2014 3"
+   }
+  },
+  {
+   "id": "LA-H429-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27. Work environment means al l working conditions that may affect the health of the body,"
+   },
+   "text": {
+    "en": "27. Work environment means al l working conditions that may affect the health of the body,\nmind or psychological state of the employee , particularly light, sound, color, odor, steam,\ndust, pollution, vibration, facilities, etc., or the atmosphere of the workplace"
+   }
+  },
+  {
+   "id": "LA-H429-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28. Discrimination in the workplace means all actions by the employer that hinders, is biased,"
+   },
+   "text": {
+    "en": "28. Discrimination in the workplace means all actions by the employer that hinders, is biased,\nor limits opportunities for promotion and confidence on the part of the employee;"
+   }
+  },
+  {
+   "id": "LA-H429-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29. Collective labor contract means a joint agreement between multiple employees or employee"
+   },
+   "text": {
+    "en": "29. Collective labor contract means a joint agreement between multiple employees or employee\nrepresentatives and one or more employers in accordance with regulations and the law.\nArticle 4 (Revised) Policy on Labor\nThe State promotes research, the use of science and technology, labor skills development,\ninnovation, and labour skills competition, provision of information on labor, in order to improve\nthe quality of employees , with the aim of promoting employment, to supply labor to the local\nmarket and abroad, and to increase the methods for the management and protection of legitimate\ninterests of employees and employers.\nThe State focuses on promotion of employment for the poor, disadvantaged, disabled,\nunemployed, and for those with social problems, to ensure they receive labor skills development\nand have access to recruitment services in order to find employment, earn an income and receive\nfair treatment, with the aim of overcoming poverty.\nThe State promotes employment among Lao labor both domestically and sending labor\nabroad, and administers foreign labor working in the Lao PDR in those positions unable to b e\nfilled by Lao labor, with the aim of balancing the supply and demand for labor.\nThe State encourages people, legal entities and organizations to build skills development\ncenters and recruitment service networks in order to contribute to skills developmen t and\nrecruitment and to strengthen labor, making it more competitive regionally and internationally.\nArticle 5 (Revised) Principles of labor affairs\nLabor-related affairs shall operate based on the following principles:"
+   }
+  },
+  {
+   "id": "LA-H429-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "1. Operations based on an employment contract between the employee and the employer,"
+   },
+   "text": {
+    "en": "1. Operations based on an employment contract between the employee and the employer,\nensuring both parties benefit without discrimination;"
+   }
+  },
+  {
+   "id": "LA-H429-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "2. Ensure all working conditions are safe, with salary or wages paid in full, and all"
+   },
+   "text": {
+    "en": "2. Ensure all working conditions are safe, with salary or wages paid in full, and all\nresponsibilities in regard to social insurance implemented for the employee;"
+   }
+  },
+  {
+   "id": "LA-H429-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "3. Ensure a balance of Lao labor alongside foreign labor;"
+   },
+   "text": {
+    "en": "3. Ensure a balance of Lao labor alongside foreign labor;"
+   }
+  },
+  {
+   "id": "LA-H429-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "4. Ensure the right of membership to and establishment of private and mass organizations"
+   },
+   "text": {
+    "en": "4. Ensure the right of membership to and establishment of private and mass organizations\nor social organizations within the labor unit in accordance with the law;"
+   }
+  },
+  {
+   "id": "LA-H429-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "5. Use labor alongside the building and development of skills in accordance with the"
+   },
+   "text": {
+    "en": "5. Use labor alongside the building and development of skills in accordance with the\nnational socio-economic development plan and the demand of the labor market;"
+   }
+  },
+  {
+   "id": "LA-H429-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "6. Ensure a balance of labor principles in accordance with the economic structure;"
+   },
+   "text": {
+    "en": "6. Ensure a balance of labor principles in accordance with the economic structure;"
+   }
+  },
+  {
+   "id": "LA-H429-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "7. No forced labor in any form;"
+   },
+   "text": {
+    "en": "7. No forced labor in any form;"
+   }
+  },
+  {
+   "id": "LA-H429-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "8. Implement tripartite principles, conventions and international agreements to which the"
+   },
+   "text": {
+    "en": "8. Implement tripartite principles, conventions and international agreements to which the\nLao PDR is party.\nArticle 6 (Revised) Scope of Application of the Labor Law\nThis labor law applies to all employers, registered and unregistered employees, Lao\nemployees working for foreign organi zations, and foreign employees working within the Lao\n\nUnofficial translation of Labor Law, update on 13 October 2014 4\nPDR.\nThis labor law does not apply to government officials, solders, police working in the party\norganization, government, Lao national for construction and mass organizations.\nHousehold workers must comply with the working contract between the household and\nthe employee.\nArticle 7 International Cooperation\nThe State widely promotes international and regional cooperation in relation to labor\naffairs by exchanging experience, scientif ic information, technology and attracting investment\nfor the development of labor-related affairs, and the implementation of international conventions\nto which the Lao PDR is a party.\nSection II\nLabor Skills Development\nChapter 1\nLabor Skills Development System\nArticle 8 Labor Skills Development System\nLabor skills development systems include skills courses, evaluation and certification of\nlabor skills , and competitive skills through the participation of labor skills development\nlocations and labor units.\nArticle 9 (New) Target Groups\nTarget groups to receive labor skills development include:"
+   }
+  },
+  {
+   "id": "LA-H429-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "1. Disadvantaged persons, the poor, and the disabled;"
+   },
+   "text": {
+    "en": "1. Disadvantaged persons, the poor, and the disabled;"
+   }
+  },
+  {
+   "id": "LA-H429-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "2. Persons without qualifications, persons changing careers, and the unemployed;"
+   },
+   "text": {
+    "en": "2. Persons without qualifications, persons changing careers, and the unemployed;"
+   }
+  },
+  {
+   "id": "LA-H429-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "3. Persons with real experience;"
+   },
+   "text": {
+    "en": "3. Persons with real experience;"
+   }
+  },
+  {
+   "id": "LA-H429-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "4. Persons with basic qualifications and persons with a level of skill that can be"
+   },
+   "text": {
+    "en": "4. Persons with basic qualifications and persons with a level of skill that can be\nupgraded;"
+   }
+  },
+  {
+   "id": "LA-H429-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "5. Other interested persons."
+   },
+   "text": {
+    "en": "5. Other interested persons.\nArticle 10 Form of Labor Skills Development\nLabor skills development has two forms, as follows:"
+   }
+  },
+  {
+   "id": "LA-H429-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "1. Within a labor skills development location;"
+   },
+   "text": {
+    "en": "1. Within a labor skills development location;"
+   }
+  },
+  {
+   "id": "LA-H429-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "2. Outside a labor skills development location or mobile training activity."
+   },
+   "text": {
+    "en": "2. Outside a labor skills development location or mobile training activity.\nArticle 11 (New) Labor Skills Development Suppliers\nIndividuals, legal entities and organizations can all be labor skills development suppliers\nin accordance with conditions determined in this law.\nEmployees that receive funding from employers for imp roving skills or qualifications\ndomestically or abroad must return to their labor unit upon completion. If they fail to comply, the\nrelevant person must refund the employer in accordance w ith the contract or internal regulations\nof the labor unit.\n\nUnofficial translation of Labor Law, update on 13 October 2014 5\nArticle 12 (New) Basic Factors of Labor Skills Development\nLabor skills development includes the following factors:"
+   }
+  },
+  {
+   "id": "LA-H429-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "1. Having trainers and other personnel with a high standard of qualification, capacity,"
+   },
+   "text": {
+    "en": "1. Having trainers and other personnel with a high standard of qualification, capacity,\nexperience or expertise;"
+   }
+  },
+  {
+   "id": "LA-H429-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "2. Regulations governing management and evaluation of labor skills."
+   },
+   "text": {
+    "en": "2. Regulations governing management and evaluation of labor skills."
+   }
+  },
+  {
+   "id": "LA-H429-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "3. Having labor skills development course content consistent with the labor market"
+   },
+   "text": {
+    "en": "3. Having labor skills development course content consistent with the labor market"
+   }
+  },
+  {
+   "id": "LA-H429-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "4. Sufficient location, materials, training and evaluation equipment used for skills"
+   },
+   "text": {
+    "en": "4. Sufficient location, materials, training and evaluation equipment used for skills\ndevelopment and evaluation;"
+   }
+  },
+  {
+   "id": "LA-H429-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "5. Having criteria for skills and regulations of skill evaluation as specified in this law"
+   },
+   "text": {
+    "en": "5. Having criteria for skills and regulations of skill evaluation as specified in this law"
+   }
+  },
+  {
+   "id": "LA-H429-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "6. Having budget or capital for skills development in accordance with different"
+   },
+   "text": {
+    "en": "6. Having budget or capital for skills development in accordance with different\noccupations\nArticle 13 (New) Level Structure of Labor Skills Standards\nThe level structure of labor skills standards is as follows:"
+   }
+  },
+  {
+   "id": "LA-H429-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "1. Labor skills level 1: a basic level earned after six months or less of study and after"
+   },
+   "text": {
+    "en": "1. Labor skills level 1: a basic level earned after six months or less of study and after\npassing a skills evaluation test to demonstrate knowledge, skills and qualifications in\nsimple tasks;"
+   }
+  },
+  {
+   "id": "LA-H429-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "2. Labor skills level 2: a semi -skilled level earned after six months of study and after"
+   },
+   "text": {
+    "en": "2. Labor skills level 2: a semi -skilled level earned after six months of study and after\npassing a skills evaluation test to demonstrate knowledge, skills and qualifications in\na variety of complex tasks;"
+   }
+  },
+  {
+   "id": "LA-H429-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "3. Labor skills level 3: an expert level earned after six months of study for candidates"
+   },
+   "text": {
+    "en": "3. Labor skills level 3: an expert level earned after six months of study for candidates\nthat have passed level two skills evaluation and having relevant work experience of at\nleast one year. To achieve level three, the candidate must demonstrate knowledge,\ncapacity, skills and qualifications in the use of relevant technical equipment in their\nprofessional duties and within a team;"
+   }
+  },
+  {
+   "id": "LA-H429-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "4. Labor skills level 4: an engineer level earned after six months of training for"
+   },
+   "text": {
+    "en": "4. Labor skills level 4: an engineer level earned after six months of training for\ncandidates that have passed level three skills evaluation and have relevant work\nexperience of at least one year. To reach level four, the candidate must have the\nknowledge, capacity, skills and qualifications for undertaking their professional\nduties and must be able to interpret technical terms, supervise work and ensure\nstandards of quality;"
+   }
+  },
+  {
+   "id": "LA-H429-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "5. Labor skills level 5: a supervisor y level earned after six months of training for"
+   },
+   "text": {
+    "en": "5. Labor skills level 5: a supervisor y level earned after six months of training for\ncandidates that have passed level four skills evaluation and have relevant work\nexperience of two or more years. To reach level five, the candidate must have the\nknowledge, capacity, skills and a wide range of qualifications to perform their\nprofessional duties, be able to plan, lead, manage, monitor and inspect the labor unit\nand coordinate with all relevant sectors.\nLabor skills level can be developed in accordance with social-economic growth in each period\nArticle 14 (New) Skills Developers\nSkills developers include the following:"
+   }
+  },
+  {
+   "id": "LA-H429-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "1. Teachers of theory;"
+   },
+   "text": {
+    "en": "1. Teachers of theory;"
+   }
+  },
+  {
+   "id": "LA-H429-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "2. Practical trainers;"
+   },
+   "text": {
+    "en": "2. Practical trainers;\n\nUnofficial translation of Labor Law, update on 13 October 2014 6"
+   }
+  },
+  {
+   "id": "LA-H429-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "3. Skills evaluators;"
+   },
+   "text": {
+    "en": "3. Skills evaluators;"
+   }
+  },
+  {
+   "id": "LA-H429-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "4. Skills development managers."
+   },
+   "text": {
+    "en": "4. Skills development managers.\nArticle 15 (New) Standards of Skills Developer\nSkills developer must meet the following criteria:"
+   }
+  },
+  {
+   "id": "LA-H429-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "1. Possess qualifications, ethics, a love of teaching, be of sound character, and be"
+   },
+   "text": {
+    "en": "1. Possess qualifications, ethics, a love of teaching, be of sound character, and be\nresponsible;"
+   }
+  },
+  {
+   "id": "LA-H429-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "2. Have graduated in a relevant field with a high level of expertise, completed teacher"
+   },
+   "text": {
+    "en": "2. Have graduated in a relevant field with a high level of expertise, completed teacher\ntraining or have passed skills training;"
+   }
+  },
+  {
+   "id": "LA-H429-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "3. Have knowledge of a foreign language."
+   },
+   "text": {
+    "en": "3. Have knowledge of a foreign language.\nArticle 16 (New) Skills Evaluation\nSkills evaluation means the assessment of knowledge, skills and ability to undertake\nwork of a target group that have graduated from a skills development course , or a candidate that\nhas applied for evaluation in order to upgrade their level with the aim of ensuring employment\nand salary or wages as appropriate.\nSkills evaluation includes an evaluation panel, regulations, conditions for evaluat ors,\nevaluation, the unde rtaking of evaluation of skills and practical implementation, grading,\nassessment and certification.\nArticle 17 (New) Career Advice\nThe Ministry of Labor and Social Welfare, in cooperation with the Ministry of Education\nand Sports and other relevant sect ors, ha s created a mechanism for career advice, raising\nawareness and providing counsel in relation to studying or training , and undertaking professions\nprior to job placement.\nChapter 2\nLabor Skills Development Courses\nArticle 18 Labor Skills Development Courses\nLabor skills development courses are target reference documents pertaining to skills\ndevelopment, structure, content on theory and practical application according to the subject\nmatter, and methodology of learning and teaching to ensure effecti veness. Trainees and trainers\nplay a central role, while testing and assessment has the aim of ensuring knowledge, skills and\ngoals are consistent with the requirements of socio -economic development and the labor market\nat any given time.\nArticle 19 Creation and Development of Courses\nThe labor skills developer will research, create and develop a course curriculum that is\nconsistent with the demands of the labor market.\nThe creation and development of courses must involve the Party and government or\nprivate committee to ensure compliance with labor skills standards and real socio -economic\nconditions of the nation, and to maintain regional and international links.\n\nUnofficial translation of Labor Law, update on 13 October 2014 7\nArticle 20 Authorization and Cancellation of Courses\nThe Ministry of Education and Sports i s the body that authorizes, promotes and cancels\nskills development courses at the national level according to recommendations by the Ministry\nof Labor and Social Welfare\nProvincial and municipal departments of education and sports are the bodies that\nauthorize, promote and cancel skills development courses at local levels according to the\nrecommendations of provincial or municipal departments of labor and social welfare after\nreceiving approval by the Ministry of Education and Sports.\nChapter 3\nSkills Standards\nArticle 21 Formulating Labor Skills Standards\nThe formulation of labor skills standards will begin at a labor skills development location\nwith a committee made up of the Party and government and the private sector, as well as\ntechnical experts in the field of education and labor, who will coordinate with the relevant\nprofessional association.\nLabor skills standards must be trialed and improved to be consistent with socio -economic\ngrowth and advancements in technology at any time.\nThe National Adv isory Council for Vocational Education and Labor Skills Development\nis the body that considers recognition of labor skills standards to be promulgated by the Ministry\nof Labor and Social Welfare.\nArticle 22 (New) Levels of Labor Skills Standards\nLabor skills standards at each stage shall be divided as follows:"
+   }
+  },
+  {
+   "id": "LA-H429-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "1. Level 1 labor skills: Basic level;"
+   },
+   "text": {
+    "en": "1. Level 1 labor skills: Basic level;"
+   }
+  },
+  {
+   "id": "LA-H429-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "2. Level 2 labor skills: Semi-skilled level;"
+   },
+   "text": {
+    "en": "2. Level 2 labor skills: Semi-skilled level;"
+   }
+  },
+  {
+   "id": "LA-H429-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "3. Level 3 labor skills: Expert level;"
+   },
+   "text": {
+    "en": "3. Level 3 labor skills: Expert level;"
+   }
+  },
+  {
+   "id": "LA-H429-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "4. Level 4 labor skills: Engineer level;"
+   },
+   "text": {
+    "en": "4. Level 4 labor skills: Engineer level;"
+   }
+  },
+  {
+   "id": "LA-H429-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "5. Level 5 labor skills: Supervisory level."
+   },
+   "text": {
+    "en": "5. Level 5 labor skills: Supervisory level.\nArticle 23 (New) Comparison of Labor Skill Levels\nComparison of labor skill levels is as follows:"
+   }
+  },
+  {
+   "id": "LA-H429-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "1. Basic labor skill level is equivalent to the first professional level, level one;"
+   },
+   "text": {
+    "en": "1. Basic labor skill level is equivalent to the first professional level, level one;"
+   }
+  },
+  {
+   "id": "LA-H429-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "2. Semi-skilled labor skill level is equivalent to the second professional level, level two;"
+   },
+   "text": {
+    "en": "2. Semi-skilled labor skill level is equivalent to the second professional level, level two;"
+   }
+  },
+  {
+   "id": "LA-H429-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "3. Expert labor skill level is equivalent to the third professional level, level three;"
+   },
+   "text": {
+    "en": "3. Expert labor skill level is equivalent to the third professional level, level three;"
+   }
+  },
+  {
+   "id": "LA-H429-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "4. Engineer labor skill level is equivalent to the professional level;"
+   },
+   "text": {
+    "en": "4. Engineer labor skill level is equivalent to the professional level;"
+   }
+  },
+  {
+   "id": "LA-H429-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "5. Supervisory labor skill level is equivalent to the highest level."
+   },
+   "text": {
+    "en": "5. Supervisory labor skill level is equivalent to the highest level.\nArticle 24 (New) Recognition of Labor Skills Standards\nThe employer must recogni ze the professional qualifications and labor skill level of the\nemployee upon employment.\n\nUnofficial translation of Labor Law, update on 13 October 2014 8\nThe employer must set the salary or wages in accordance with the labor skill level of the\nemployee.\nThe employer must certify expertise and participation in training and skills evaluation on\nthe part of the employee as one of their responsibilities.\nChapter 4\nLabor Skills Competition\nArticle 25 (New) Labor Skills Competition\nLabor skills competition means the use of knowledge, capacity and skills intocompetition\nin order to promote and improve those labor skills standards which is organized by the\ngovernment organization or public-private organization or private organization.\nLabor skills competition composes of five levels, at the educational institution level, at\nprovincial level, at national level, at regional level and international level.\nArticle 26 (New) Organization of  Labor Skills Competition\nCompetition of labor skills at an educational insti tution level and provincial level may be\norganized at least once a year in accordance with the conditions and actual capacity.\nCompetition of labor skills at the national level shall be conducted at least once per year\nwith the participation of the person selected from the competitions at educational institution\nlevel and at the provincial level.\nFor competition of labor skills at the regional and international levels, a person should be\nselected from the the national competition level.\nArticle 27 (New) Organization Responsible for Labor Skills Competition\nThe Ministry of Labor and Social Welfare is responsible for labor skills development and\nhas the duty of overseeing and managing competiti on oflabor skills at the national, regional and\ninternational levels.\nThe provincial and municipal departments of labor and social welfare, in coordination\nwith the provincial and municipal departments of education and sports , are responsible for\nsupervision and administration of competiti on of labor skills at educa tional institution s and\nprovincial levels as agreed with the Ministry of Labor and Social Welfare.\nArticle 28 (New) Obligations in Labor Skills Development\nThe employer has the direct obligation to provide training to labor under its responsibility\nwith the aim of improving production quality and competitiveness by setting aside an annual\ndedicated fund of 1% from the annual salary or wages reserve fund of employees to cover\nexpenses for labor skills training.\nThe employee must take ownership for study an d labor skills development to improve\nknowledge, capacity, skills and goals in regard to labor with the aim of gradually becoming\nmore industrious.\n\nUnofficial translation of Labor Law, update on 13 October 2014 9\nSection III\nRecruitment Promotion\nChapter 1\nThe Recruitment System\nArticle 29 (New) Recruitment\nRecruitment is the creation of conditions of employment or careers development, and\nhaving the option to work in accordance with the demand of the labor market.\nArticle 30 Recruitment Service Networks\nRecruitment service networks include:"
+   }
+  },
+  {
+   "id": "LA-H429-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "1. Village level labor units and social welfare;"
+   },
+   "text": {
+    "en": "1. Village level labor units and social welfare;"
+   }
+  },
+  {
+   "id": "LA-H429-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "2. District level recruitment centers ;"
+   },
+   "text": {
+    "en": "2. District level recruitment centers ;"
+   }
+  },
+  {
+   "id": "LA-H429-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "3. Provincial, municipality level recruitment centers;"
+   },
+   "text": {
+    "en": "3. Provincial, municipality level recruitment centers;"
+   }
+  },
+  {
+   "id": "LA-H429-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "4. Recruitment enterprises;"
+   },
+   "text": {
+    "en": "4. Recruitment enterprises;"
+   }
+  },
+  {
+   "id": "LA-H429-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "5. Labor skills development locations."
+   },
+   "text": {
+    "en": "5. Labor skills development locations.\nArticle 31 Forms of Recruitment\nForms of recruitment include:"
+   }
+  },
+  {
+   "id": "LA-H429-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "1. Creating employment opportunities;"
+   },
+   "text": {
+    "en": "1. Creating employment opportunities;"
+   }
+  },
+  {
+   "id": "LA-H429-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "2. Domestic recruitment services;"
+   },
+   "text": {
+    "en": "2. Domestic recruitment services;"
+   }
+  },
+  {
+   "id": "LA-H429-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "3. Recruitment services sending labor abroad;"
+   },
+   "text": {
+    "en": "3. Recruitment services sending labor abroad;"
+   }
+  },
+  {
+   "id": "LA-H429-A81",
+   "no": 81,
+   "noLabel": {
+    "en": "4. Importation of foreign labor."
+   },
+   "text": {
+    "en": "4. Importation of foreign labor.\nChapter 2\nCreation of Employment Opportunities\nArticle 32 Creation of Employment Opportunities\nCreation of employment opportunities is intended to provide employment for employees\nlocally, with the aim of addressing unemployment, the migration of urban labor from rural areas\nto cities , and illegal trans -border labor. It aims to create conditions providing choice, revenue\nand poverty reduction for employees.\nArticle 33 Elements of employment opportunity creation\nThe creation of employment opportunities includes the following elements:"
+   }
+  },
+  {
+   "id": "LA-H429-A82",
+   "no": 82,
+   "noLabel": {
+    "en": "1. Promotion of occupational freedom, working from the home, and the hiring of"
+   },
+   "text": {
+    "en": "1. Promotion of occupational freedom, working from the home, and the hiring of\ndisadvantaged persons, women, disabled persons, or the elderly;"
+   }
+  },
+  {
+   "id": "LA-H429-A83",
+   "no": 83,
+   "noLabel": {
+    "en": "2. Employment in rural areas, daily labor, contractors, temporary workers, trainees;"
+   },
+   "text": {
+    "en": "2. Employment in rural areas, daily labor, contractors, temporary workers, trainees;"
+   }
+  },
+  {
+   "id": "LA-H429-A84",
+   "no": 84,
+   "noLabel": {
+    "en": "3. Reserving jobs for Lao citizens; especially a traditional jobs of Lao ethnic groups, jobs"
+   },
+   "text": {
+    "en": "3. Reserving jobs for Lao citizens; especially a traditional jobs of Lao ethnic groups, jobs\npromoting Lao traditions, indigenous knowled ge, jobs do not require high knowledge\nor big capital. The list of these jobs are specified in a separate list."
+   }
+  },
+  {
+   "id": "LA-H429-A85",
+   "no": 85,
+   "noLabel": {
+    "en": "4. Establishing career fairs."
+   },
+   "text": {
+    "en": "4. Establishing career fairs.\nArticle 34 Responsibilities of Local Authorities\nLocal authorities at all levels must create conditions for employm ent and promote\nemployment for employees through policy -making, planning and creating projects for the\n\nUnofficial translation of Labor Law, update on 13 October 2014 10\npromotion of occupational freedom, reservation of work for local people and creati ng a balance\nof labor according to the economic structure and demands of the labor market.\nArticle 35 Establishing Career Fairs\nCareer fairs are established to create opportunities for employers and employees to meet\nand receive or make applications, and supply labor in accordance with the socio -economic\ndevelopment plan and demands of the labor market.\nChapter 3\nDomestic Recruitment Services\nArticle 36 Domestic Recruitment Services\nThe labor and social welfare sector, recruitment enterprises and social organizations that\nhave received authorization may offer domestic recruitment services.\nLabor units requiring such labor may accept applications by themselves.\nArticle 37 Labor Requirement Plan\nAll forms of investment, including labor units, must have a labor requirement plan at all\ntimes.\nThe labor requirement plan pertaining to each sector must be reported to the relevant labor\nadministration authority in order for the planning of sufficient provision of labor to respond to\ndemand.\nChapter 4\nOverseas Recruitment Services\nArticle 38 Foreign Recruitment Services\nForeign recruitment services means the sending of Lao labor overseas for training,\npractical training, upgrading education, upgrading technical knowledge and capacity, labor skills\ndevelopment and fulfilling goals.\nThe State does not permit the sending of Lao lab or overseas for employment in vocations\nor areas that are dangerous to health and safety, contrary to Lao customs and traditions , or the\nlaws of the Lao PDR, or any country in which safety cannot be guaranteed.\nArticle 39 Agencies Sending Lao Labor Abroad\nAgencies sending Lao labor abroad include:"
+   }
+  },
+  {
+   "id": "LA-H429-A86",
+   "no": 86,
+   "noLabel": {
+    "en": "1. The Labor Administration Agency;"
+   },
+   "text": {
+    "en": "1. The Labor Administration Agency;"
+   }
+  },
+  {
+   "id": "LA-H429-A87",
+   "no": 87,
+   "noLabel": {
+    "en": "2. Recruitment enterprises."
+   },
+   "text": {
+    "en": "2. Recruitment enterprises.\nLabor units may send Lao employees abroad for training in accordance with autho rization\nof the Labor Administration Agency.\nArticle 40 Rights and Obligations of Labor Recruitment Agencies\nAgencies sending Lao labor abroad have the following rights and obligations:\n\nUnofficial translation of Labor Law, update on 13 October 2014 11"
+   }
+  },
+  {
+   "id": "LA-H429-A88",
+   "no": 88,
+   "noLabel": {
+    "en": "1. Liaise with the company and nation that accept ing Lao labor to work through"
+   },
+   "text": {
+    "en": "1. Liaise with the company and nation that accept ing Lao labor to work through\ndiplomatic channels;"
+   }
+  },
+  {
+   "id": "LA-H429-A89",
+   "no": 89,
+   "noLabel": {
+    "en": "2. Sign working agreements pertaining to the sending of Lao labor overseas;"
+   },
+   "text": {
+    "en": "2. Sign working agreements pertaining to the sending of Lao labor overseas;"
+   }
+  },
+  {
+   "id": "LA-H429-A90",
+   "no": 90,
+   "noLabel": {
+    "en": "3. Hold training for Lao labor before departing for abroad;"
+   },
+   "text": {
+    "en": "3. Hold training for Lao labor before departing for abroad;"
+   }
+  },
+  {
+   "id": "LA-H429-A91",
+   "no": 91,
+   "noLabel": {
+    "en": "4. Monitor, evaluate, protect, administer and assist Lao labor during the time it is abroad,"
+   },
+   "text": {
+    "en": "4. Monitor, evaluate, protect, administer and assist Lao labor during the time it is abroad,\nand arr ange their return after expiration of any working contract or in the event of\nemergency;"
+   }
+  },
+  {
+   "id": "LA-H429-A92",
+   "no": 92,
+   "noLabel": {
+    "en": "5. Pay any registration fees, service fees, or taxes to the government correctly and in full;"
+   },
+   "text": {
+    "en": "5. Pay any registration fees, service fees, or taxes to the government correctly and in full;"
+   }
+  },
+  {
+   "id": "LA-H429-A93",
+   "no": 93,
+   "noLabel": {
+    "en": "6. Respect and perform any rights or obligations as determined by law."
+   },
+   "text": {
+    "en": "6. Respect and perform any rights or obligations as determined by law.\nChapter 5\nImportation of Foreign Labor\nArticle 41 (Revised) Authorization of Importation and Use of Foreign Labor\nProduction units, businesses and services have the right to request authorization for the\nimportation and use of foreign labor in accordance with the planned demand of foreign labor\nafter receiving approval for their periodic quota from the Ministry of Labor and Social Welfare.\nProvincial and Municipality Department of Labor and Social Welfare study and plan a\ndemand of foreign workers and authoriz e the importation of foreign workers according to the\nquota approved from the Ministry of Labor and Social Welfare.\nArticle 42 (Revised) Conditions for the Importation of Foreign Labor\nThe impor tation of foreign labor by all production units, businesses, and service units\nmust comply with the following conditions:"
+   }
+  },
+  {
+   "id": "LA-H429-A94",
+   "no": 94,
+   "noLabel": {
+    "en": "1. Have a sufficient investment value for conducting business and paying the salaries or"
+   },
+   "text": {
+    "en": "1. Have a sufficient investment value for conducting business and paying the salaries or\nwages of foreign labor;"
+   }
+  },
+  {
+   "id": "LA-H429-A95",
+   "no": 95,
+   "noLabel": {
+    "en": "2. Have a plan for the use of labor each year;"
+   },
+   "text": {
+    "en": "2. Have a plan for the use of labor each year;"
+   }
+  },
+  {
+   "id": "LA-H429-A96",
+   "no": 96,
+   "noLabel": {
+    "en": "3. Have positions available and necessary technical staff as appropriate;"
+   },
+   "text": {
+    "en": "3. Have positions available and necessary technical staff as appropriate;"
+   }
+  },
+  {
+   "id": "LA-H429-A97",
+   "no": 97,
+   "noLabel": {
+    "en": "4. Implement other conditions as necessary."
+   },
+   "text": {
+    "en": "4. Implement other conditions as necessary.\nArticle 43 Conditions for Foreign Labor Working in the Lao PDR\nForeign labor working in the Lao PDR are subject to the following conditions:"
+   }
+  },
+  {
+   "id": "LA-H429-A98",
+   "no": 98,
+   "noLabel": {
+    "en": "1. Must be over the age of twenty years;"
+   },
+   "text": {
+    "en": "1. Must be over the age of twenty years;"
+   }
+  },
+  {
+   "id": "LA-H429-A99",
+   "no": 99,
+   "noLabel": {
+    "en": "2. Must have the skills and a professional level consistent with the required position;"
+   },
+   "text": {
+    "en": "2. Must have the skills and a professional level consistent with the required position;"
+   }
+  },
+  {
+   "id": "LA-H429-A100",
+   "no": 100,
+   "noLabel": {
+    "en": "3. Have a clean personal history;"
+   },
+   "text": {
+    "en": "3. Have a clean personal history;"
+   }
+  },
+  {
+   "id": "LA-H429-A101",
+   "no": 101,
+   "noLabel": {
+    "en": "4. Be in good health;"
+   },
+   "text": {
+    "en": "4. Be in good health;"
+   }
+  },
+  {
+   "id": "LA-H429-A102",
+   "no": 102,
+   "noLabel": {
+    "en": "5. Other conditions as deemed necessary."
+   },
+   "text": {
+    "en": "5. Other conditions as deemed necessary.\nArticle 44 (New) Registration and Issuance of Work Permits\nLabor units that receive authorization to import foreign labor must register and apply for a\nwork permit within one month from the day of receiving authorization.\nA work permit will be issued at the same time as a work visa (LA -B2) and shall expire in\naccordance with the employment contract.\n\nUnofficial translation of Labor Law, update on 13 October 2014 12\nRegistration and issuance of temporary work permits shall not exceed three months for\nlabor imported for a probationary period, for monitoring and evaluation of projects, or for the\ninstallation and reparation of machinery in accordance with an equipment sales contract.\nArticle 45 Limitations on the Use of Foreign Labor\nForeign labor working in the Lao PDR under an employment contract are authorized to\nremain for a period of not more than twelve months and may request an extension for an interval\nof not more than twelve months. In total, the total working period may not exceed five years.\nManagement level and specific specialist will be considered specifically.\nConsideration of requests to extend the period of employment at each interval will be\nbased on the necessity of work, business operations, expansion of production and the use of new\ntechnology.\nChapter 6\nEstablishment and Dissolution of Recruitment Service Enterprises\nArticle 46 Establishment of Recruitment Service Enterprises\nIndividuals, legal entities, or foreigners in partnership with Lao citizens intending to\nestablish a recruitment service enterprise must comply with the law on promotion of investment,\nlaws on enterprises, and other relevant regulations through the agreement of t he Ministry of\nLabor and Social Welfare.\nArticle 47 Conditions for the Establishment of Recruitment Service Enterprises\nThe establishment of recruitment service enterprises are subject to the following\nconditions:"
+   }
+  },
+  {
+   "id": "LA-H429-A103",
+   "no": 103,
+   "noLabel": {
+    "en": "1. Holding a Lao citizenship;"
+   },
+   "text": {
+    "en": "1. Holding a Lao citizenship;"
+   }
+  },
+  {
+   "id": "LA-H429-A104",
+   "no": 104,
+   "noLabel": {
+    "en": "2. Have technical staff with a clea n record, and have a level of education and expertise"
+   },
+   "text": {
+    "en": "2. Have technical staff with a clea n record, and have a level of education and expertise\nappropriate for the business operation;"
+   }
+  },
+  {
+   "id": "LA-H429-A105",
+   "no": 105,
+   "noLabel": {
+    "en": "3. Include feasibility study documentation in accordance with regulations;"
+   },
+   "text": {
+    "en": "3. Include feasibility study documentation in accordance with regulations;"
+   }
+  },
+  {
+   "id": "LA-H429-A106",
+   "no": 106,
+   "noLabel": {
+    "en": "4. Have an office, equipment, an area for basic skills training, and have k nowledgeable"
+   },
+   "text": {
+    "en": "4. Have an office, equipment, an area for basic skills training, and have k nowledgeable\nand capable personnel;"
+   }
+  },
+  {
+   "id": "LA-H429-A107",
+   "no": 107,
+   "noLabel": {
+    "en": "5. Have registered capital for domestic recruitment in the amount of at least two hundred"
+   },
+   "text": {
+    "en": "5. Have registered capital for domestic recruitment in the amount of at least two hundred\nmillion kip and a cash security guarantee in kip equal to two thousand United States\ndollars;"
+   }
+  },
+  {
+   "id": "LA-H429-A108",
+   "no": 108,
+   "noLabel": {
+    "en": "6. Have registered capital for recruitment services both domestic and abroad in the"
+   },
+   "text": {
+    "en": "6. Have registered capital for recruitment services both domestic and abroad in the\namount of at least two billion kip and a cash security guarantee in kip equal to twenty\nthousand United States dollars.\nThe cash security guarantee must be deposited into an account of the Ministry of Labor and Social\nWelfare before receiving authorization, to be used as a reserve fund against emergencies or any\nerrors on the part of the enterprise.\nArticle 48 Issuance and Extension of Authorization for Operating a Recruitment Business\nThe Labor Administration Agency issues authorization for operating a recruitment\nservices enterprise for a period of three years , which can be extended every three years\naccording to the following conditions:\n\nUnofficial translation of Labor Law, update on 13 October 2014 13"
+   }
+  },
+  {
+   "id": "LA-H429-A109",
+   "no": 109,
+   "noLabel": {
+    "en": "1. Has full registered capital and cash security guarantee as determined in Article 47 of"
+   },
+   "text": {
+    "en": "1. Has full registered capital and cash security guarantee as determined in Article 47 of\nthis law;"
+   }
+  },
+  {
+   "id": "LA-H429-A110",
+   "no": 110,
+   "noLabel": {
+    "en": "2. Has complied with the law and paid all financial obligations in full;"
+   },
+   "text": {
+    "en": "2. Has complied with the law and paid all financial obligations in full;"
+   }
+  },
+  {
+   "id": "LA-H429-A111",
+   "no": 111,
+   "noLabel": {
+    "en": "3. Has efficiently provided recruitment and management services to employees."
+   },
+   "text": {
+    "en": "3. Has efficiently provided recruitment and management services to employees.\nArticle 49 (New) Processing Employment Applications\nThe person processing employment applications at the recruitment service enterprise must\ncomply with the following conditions:"
+   }
+  },
+  {
+   "id": "LA-H429-A112",
+   "no": 112,
+   "noLabel": {
+    "en": "1. Must be an employee of the recruitment service enterprise who has been assigned the"
+   },
+   "text": {
+    "en": "1. Must be an employee of the recruitment service enterprise who has been assigned the\ntask of processing employment applications;"
+   }
+  },
+  {
+   "id": "LA-H429-A113",
+   "no": 113,
+   "noLabel": {
+    "en": "2. Has an employee identification card authorized by the Labor Administration Agency;"
+   },
+   "text": {
+    "en": "2. Has an employee identification card authorized by the Labor Administration Agency;"
+   }
+  },
+  {
+   "id": "LA-H429-A114",
+   "no": 114,
+   "noLabel": {
+    "en": "3. Has been given authorization to receive employment applications by local authorities."
+   },
+   "text": {
+    "en": "3. Has been given authorization to receive employment applications by local authorities.\nArticle 50 Dissolution\nA recruitment service enterprise will be dissolved in the following cases:"
+   }
+  },
+  {
+   "id": "LA-H429-A115",
+   "no": 115,
+   "noLabel": {
+    "en": "1. In case of an order issued by the government or Labor Administration Agency;"
+   },
+   "text": {
+    "en": "1. In case of an order issued by the government or Labor Administration Agency;"
+   }
+  },
+  {
+   "id": "LA-H429-A116",
+   "no": 116,
+   "noLabel": {
+    "en": "2. In case of a request for dissolution by the owner of the enterprise;"
+   },
+   "text": {
+    "en": "2. In case of a request for dissolution by the owner of the enterprise;"
+   }
+  },
+  {
+   "id": "LA-H429-A117",
+   "no": 117,
+   "noLabel": {
+    "en": "3. In case of bankruptcy as decided by the court."
+   },
+   "text": {
+    "en": "3. In case of bankruptcy as decided by the court.\nSection IV\nLabor Protection\nChapter 1\nLabor Regulations\nArticle 51 (Revised) Hours of Work\nThe employer must set hours of work and hours of rest for the employee as part of its\nresponsibilities in accordance with the location of the labor unit and real working conditions.\nNormal hours of work in every labor unit will be no more t han six days per week and\neight hours per day or no more than forty -eight hours per week, regardless of the type of salary\nor wage.\nHours of rest for lunch break shall be no less than sixty minutes and may not be included\nin hours of work.\nSpecific hours of work could be determined for specific occupation or economic sectors\nwhere it is deemed necessary based on approval from labor management authority after tripartite\nconsultation and unanimous consent.\nHours of work must not exceed six hours per day or th irty-six hours per week for\nemployees whose occupations are in sectors that involve:\n Exposure to radiation or to dangerous communicable diseases;\n Exposure to vapors or smoke which are hazardous to health;\n Direct exposure to dangerous materials or chemicals, such as explosives;\n Working in pits, or in underground tunnels, under water or at high elevations;\n Working in abnormally hot or cold places;\n Working directly with constantly vibrating equipment.\n\nUnofficial translation of Labor Law, update on 13 October 2014 14\nAside from the above, there are other forms of dangerous work determined by specific\nterminology.\nNormal hours of work may be reduced as appropriate in cases wherein danger cannot be\nprevented or controlled.\nArticle 52 Time Counted as Hours of Work\nThe following types of time lost shall be calculated as part of daily hours worked:"
+   }
+  },
+  {
+   "id": "LA-H429-A118",
+   "no": 118,
+   "noLabel": {
+    "en": "1. Time spent on technical preparation at the start and end of work;"
+   },
+   "text": {
+    "en": "1. Time spent on technical preparation at the start and end of work;"
+   }
+  },
+  {
+   "id": "LA-H429-A119",
+   "no": 119,
+   "noLabel": {
+    "en": "2. Hourly breaks not exceeding 15 minutes, in certain sectors in which work is divided"
+   },
+   "text": {
+    "en": "2. Hourly breaks not exceeding 15 minutes, in certain sectors in which work is divided\ninto different periods for different tasks or which operate on the basis of shifts;"
+   }
+  },
+  {
+   "id": "LA-H429-A120",
+   "no": 120,
+   "noLabel": {
+    "en": "3. A 45-minute meal break per shift for shift workers."
+   },
+   "text": {
+    "en": "3. A 45-minute meal break per shift for shift workers.\nThe employer must establish an appropriate production schedule so as to enable workers\nto rest for at least five to ten minutes after having worked for two hours. Should a necessity arise\nfor any technical or mechanical reason, work by rotation must be organized so that workers can\nrest appropriately.\nTime lost that is counted as daily hours of work should be specified in the internal\nregulations on work of the labor unit.\nArticle 53 Overtime\nAn employer may request employees to work overtime if necessary, subject to the prior\nconsent of the trade union, worker's representative, or the majority of employees.\nOvertime shall not exceed forty -five hours per month or three hours per day, but it is\nprohibited to work more than four consecutive days, except in the case of an emergency such as\ncombating natural disasters or an accident that would cause great damage to its labor unit.\nWhen working overtime in any instance, the employer must notify and explai n the\nnecessity of the work to the employee in advance , as well as pay overtime wag es as determined\nin this law.\nWhere overtime is necessary for more than forty -five hours in any one month, the\nemployer must first request authorization from the Labor Administration Agency which is\nresponsible for its labor unit and receive approval from the trade union or workers'\nrepresentatives, or the majority of employees in its labor unit.\nArticle 54 Weekly Rest Days\nWorkers have the right to at least one day’s rest within a week or four days per month ,\nwhich may be Sunday or any other day as agreed between the workers and the employer.\nArticle 55 (New) Official Holidays and Customary Holidays\nEmployees have the right to rest on official holidays and receive their normal salary or\nwage as follows:"
+   }
+  },
+  {
+   "id": "LA-H429-A121",
+   "no": 121,
+   "noLabel": {
+    "en": "1. National Day, 2 December (one day);"
+   },
+   "text": {
+    "en": "1. National Day, 2 December (one day);"
+   }
+  },
+  {
+   "id": "LA-H429-A122",
+   "no": 122,
+   "noLabel": {
+    "en": "2. International New Year, 1 January (one day);"
+   },
+   "text": {
+    "en": "2. International New Year, 1 January (one day);"
+   }
+  },
+  {
+   "id": "LA-H429-A123",
+   "no": 123,
+   "noLabel": {
+    "en": "3. International Women's Day, 8 March (one day) for females;"
+   },
+   "text": {
+    "en": "3. International Women's Day, 8 March (one day) for females;"
+   }
+  },
+  {
+   "id": "LA-H429-A124",
+   "no": 124,
+   "noLabel": {
+    "en": "4. The Lao New Year festival (three days);"
+   },
+   "text": {
+    "en": "4. The Lao New Year festival (three days);"
+   }
+  },
+  {
+   "id": "LA-H429-A125",
+   "no": 125,
+   "noLabel": {
+    "en": "5. International Labor Day, 1 May (one day);"
+   },
+   "text": {
+    "en": "5. International Labor Day, 1 May (one day);\n\nUnofficial translation of Labor Law, update on 13 October 2014 15"
+   }
+  },
+  {
+   "id": "LA-H429-A126",
+   "no": 126,
+   "noLabel": {
+    "en": "6. National Teacher's Day, 7 October (one day, teachers and education management"
+   },
+   "text": {
+    "en": "6. National Teacher's Day, 7 October (one day, teachers and education management\nonly);"
+   }
+  },
+  {
+   "id": "LA-H429-A127",
+   "no": 127,
+   "noLabel": {
+    "en": "7. The national day of employees who do not hold Lao citizenship (one day on the"
+   },
+   "text": {
+    "en": "7. The national day of employees who do not hold Lao citizenship (one day on the\nnational day of the relevant nation).\nIn cases where official holidays fall on weekly rest da ys in any given week, a replacement\nrest day will be chosen as substitution.\nCustomary holidays are subject to agreement between the employer and the employee.\nArticle 56 Sick Leave\nUpon presentation of a medical certificate, workers that are remunerated on a monthly\nbasis shall be entitled to sick leave with full pay for not more than thirty days per year.\nFor workers who work on a daily or hourly paid basis, per unit of production basis , or on\nthe basis of specific work contracts, they will be entitled to payment during sick leave only if\nthey have worked for more than ninety days.\nThe provisions of this article shall not apply to sick leave occurred from labor accidents or\noccupational diseases.\nArticle 57 (Revised) Annual Leave\nEmployees that have w orked consecutively for one year have the right to annual leave of\nfifteen days. Employees who work in sectors that are dangerous to health, as determined in\nArticle 51 of this law, shall have the right to annual leave of eighteen days. The employe r shall\nset the annual leave dates for the employee in advance or in accordance with any agreement\nbetween the employer and employee.\nIn both cases of annual leave, the employee has the right to receive salary or wages in full\nas normal.\nWeekly rest days, officia l holidays, customary holidays and personal leave are not\ncounted in annual leave.\nIf an employee is unable to take annual leave because of a reason stemming from their\nemployer, the employer must pay an extra wage to the employee equal to one hundred percent of\nthe normal wage according to the days that the employee was unable to take leave.\nArticle 58 (New) Personal Leave\nEmployees have the right to take personal leave of not less than three days while\nmaintaining wages or salary in the following cases:\n1. The employee's own father, mother, husband or wife and children are injured and hospitalized\nand there is nobody to take care of them;"
+   }
+  },
+  {
+   "id": "LA-H429-A128",
+   "no": 128,
+   "noLabel": {
+    "en": "2. The employee's father, mother, husband or wife and children pass away;"
+   },
+   "text": {
+    "en": "2. The employee's father, mother, husband or wife and children pass away;"
+   }
+  },
+  {
+   "id": "LA-H429-A129",
+   "no": 129,
+   "noLabel": {
+    "en": "3. The employee gets married;"
+   },
+   "text": {
+    "en": "3. The employee gets married;"
+   }
+  },
+  {
+   "id": "LA-H429-A130",
+   "no": 130,
+   "noLabel": {
+    "en": "4. The employee's wife gives birth or miscarries;"
+   },
+   "text": {
+    "en": "4. The employee's wife gives birth or miscarries;"
+   }
+  },
+  {
+   "id": "LA-H429-A131",
+   "no": 131,
+   "noLabel": {
+    "en": "5. The employee is affected by natural disasters."
+   },
+   "text": {
+    "en": "5. The employee is affected by natural disasters.\nEmployees who request personal leave for personal reasons must apply for personal leave with\nthe employer, to be confirmed by the trade union or employee representative or a head of the labor\nunit.\nArticle 59 (New) Unauthorized Use of Forced Labor\n\nUnofficial translation of Labor Law, update on 13 October 2014 16\nNo matter in what form, the use of forced labor is not authorized except in the following\ncases:"
+   }
+  },
+  {
+   "id": "LA-H429-A132",
+   "no": 132,
+   "noLabel": {
+    "en": "1. The use of labor in accordance with the law for national defen se, or for national"
+   },
+   "text": {
+    "en": "1. The use of labor in accordance with the law for national defen se, or for national\nsecurity;"
+   }
+  },
+  {
+   "id": "LA-H429-A133",
+   "no": 133,
+   "noLabel": {
+    "en": "2. The use of labor in the event of emergencies , including fires, natural disasters or"
+   },
+   "text": {
+    "en": "2. The use of labor in the event of emergencies , including fires, natural disasters or\ndisease epidemics;"
+   }
+  },
+  {
+   "id": "LA-H429-A134",
+   "no": 134,
+   "noLabel": {
+    "en": "3. The undertaking of work resulting from a court decision under the administration of"
+   },
+   "text": {
+    "en": "3. The undertaking of work resulting from a court decision under the administration of\nrelevant government officials;"
+   }
+  },
+  {
+   "id": "LA-H429-A135",
+   "no": 135,
+   "noLabel": {
+    "en": "4. The undertaking of group work in ac cordance with the decision of local authorities,"
+   },
+   "text": {
+    "en": "4. The undertaking of group work in ac cordance with the decision of local authorities,\norganizations, or associations to which the employee is attached or is a member.\nArticle 60 (New) Rights in Membership of Organizations and Appointment of Representative\nEmployees or employers have the righ t to apply for membership of mass organizations or\nother social organizations that operate legally within the Lao PDR, and have the right to appoint\na representative within the labor unit or workplace.\nChapter 2\nNight Work and Night Shifts\nArticle 61 Night Work\nNight is defined as the hours between 22:00 and 06:00.\nNight work is any type of work that is undertaken for no less than seven consecutive\nhours at night.\nEmployees working at night have the right to at least eleven hours rest before beginning\nwork on a new day.\nIn cases where a night worker is unable to work at night due to health reasons, and\npossesses a medical certificate, the employer may temporarily move the employee to a more\nsuitable shift with a salary or wage in accordance with that de termined in paragraph two, Article\n91, of this law.\nArticle 62 Shift Work\nIn cases of production, business operations and services where it is necessary for\ncontinuous work , or where cessation would damage business operations, the employer may\nassign multiple shifts. However, each shift may not be longer than eight hours per shift or not\nlonger than six hours per shift for types of work determined in Article 51 of this law.\nIn cases where an employee undertakes a night shift from 2 2:00 to 06:00, the emplo yee\nhas the right to at least eleven hours rest before commencing a new shift.\n\nUnofficial translation of Labor Law, update on 13 October 2014 17\nChapter 3\nInternal Regulations of Labor Units\nArticle 63 (New) Internal Regulations of Labor Units\nThe internal regulations of a labor unit are considered a legislation that the employer must\ndevise to implement the labor law , which establishes specific regulations for the protection of\nthe employee that may not be covered in the law.\nThe internal regulations of a labor unit must be accepted through consultation between the\nemployer and the trade union or employee representative or majority of workers within the labor\nunit.\nThe internal regulations of a labor unit shall be effective on the day of approval by the\nLabor Administration Agency.\nThe Labor Administration h as the right to advise labor units to revise its internal\nregulations when it is necessary.\nThe internal regulations of a labor unit must be written in the Lao language. In cases\nwhere a labor unit includes foreign labor, the internal regulations must be t ranslated into that\nforeign language.\nArticle 64 (Revised) Content of Internal Regulations\nThe internal regulations of a labor unit shall include the following content:"
+   }
+  },
+  {
+   "id": "LA-H429-A136",
+   "no": 136,
+   "noLabel": {
+    "en": "1. The times for commencing and completing the work of the labor unit and the location"
+   },
+   "text": {
+    "en": "1. The times for commencing and completing the work of the labor unit and the location\nor duties of the labor unit (if any);"
+   }
+  },
+  {
+   "id": "LA-H429-A137",
+   "no": 137,
+   "noLabel": {
+    "en": "2. The times for breaks, lunch breaks and necessary breaks during work hours;"
+   },
+   "text": {
+    "en": "2. The times for breaks, lunch breaks and necessary breaks during work hours;"
+   }
+  },
+  {
+   "id": "LA-H429-A138",
+   "no": 138,
+   "noLabel": {
+    "en": "3. Weekly rest days;"
+   },
+   "text": {
+    "en": "3. Weekly rest days;"
+   }
+  },
+  {
+   "id": "LA-H429-A139",
+   "no": 139,
+   "noLabel": {
+    "en": "4. Rest days due to injury or other necessary reasons;"
+   },
+   "text": {
+    "en": "4. Rest days due to injury or other necessary reasons;"
+   }
+  },
+  {
+   "id": "LA-H429-A140",
+   "no": 140,
+   "noLabel": {
+    "en": "5. Restrictions and health and safety measures including the use of e quipment, tools and"
+   },
+   "text": {
+    "en": "5. Restrictions and health and safety measures including the use of e quipment, tools and\nprotective gear for protection against workplace accidents and occupational diseases;"
+   }
+  },
+  {
+   "id": "LA-H429-A141",
+   "no": 141,
+   "noLabel": {
+    "en": "6. Procedures and methods for conflict resolution in labor or disciplinary actions;"
+   },
+   "text": {
+    "en": "6. Procedures and methods for conflict resolution in labor or disciplinary actions;"
+   }
+  },
+  {
+   "id": "LA-H429-A142",
+   "no": 142,
+   "noLabel": {
+    "en": "7. Benefits and mandatory regulations for employees."
+   },
+   "text": {
+    "en": "7. Benefits and mandatory regulations for employees.\nArticle 65 Dissemination of Internal Regulations\nAfter internal regulations of a labor unit are authorized, the employer must disseminate\nthe information to employees and they must be universally recognized as appropriate. As such,\nthe internal regulations must be po sitioned for dissemination or placed in a location clearly\nvisible to employees, can be easily read, or be handed out as a pamphlet to employees.\nChapter 4\nLao Labor Working Abroad\nArticle 66 (New) Administration of Lao Labor Working Abroad\nThe Ministry of Labor and Social Welfare has the duty to administer Lao labor working\nabroad in conjunction with the parties involved.\nIn cases where it is deemed necessary, the Ministry of Labor and Social Welfare , in\nconjunction with the Ministry of Foreign Affai rs, may recommend the government appoint a\n\nUnofficial translation of Labor Law, update on 13 October 2014 18\nrepresentative for the administration of labor to be attached to the embassy or consulate of the\nLao PDR in a foreign country for the purposes of undertaking administrative duties, protection\nof, and representing the legitimate interests of Lao labor.\nArticle 67 (New) Rights and Duties of Lao Labor Administrators Abroad\nIn the protection of the rights and interests of Lao labor working abroad, the administrator\nof Lao labor abroad has the following rights and duties:"
+   }
+  },
+  {
+   "id": "LA-H429-A143",
+   "no": 143,
+   "noLabel": {
+    "en": "1. Collect and supply information and educate employees;"
+   },
+   "text": {
+    "en": "1. Collect and supply information and educate employees;"
+   }
+  },
+  {
+   "id": "LA-H429-A144",
+   "no": 144,
+   "noLabel": {
+    "en": "2. Assist in labor dispute resolution;"
+   },
+   "text": {
+    "en": "2. Assist in labor dispute resolution;"
+   }
+  },
+  {
+   "id": "LA-H429-A145",
+   "no": 145,
+   "noLabel": {
+    "en": "3. Assist labor in legal proceedings or prosecutions;"
+   },
+   "text": {
+    "en": "3. Assist labor in legal proceedings or prosecutions;"
+   }
+  },
+  {
+   "id": "LA-H429-A146",
+   "no": 146,
+   "noLabel": {
+    "en": "4. Issue certification documentation for Lao labor and other relevant documentation;"
+   },
+   "text": {
+    "en": "4. Issue certification documentation for Lao labor and other relevant documentation;"
+   }
+  },
+  {
+   "id": "LA-H429-A147",
+   "no": 147,
+   "noLabel": {
+    "en": "5. Assist in cases of deportati on, abandonment, emergencies and other cases of rights"
+   },
+   "text": {
+    "en": "5. Assist in cases of deportati on, abandonment, emergencies and other cases of rights\nviolations;"
+   }
+  },
+  {
+   "id": "LA-H429-A148",
+   "no": 148,
+   "noLabel": {
+    "en": "6. Coordinate with relevant organizations abroad in order to undertake any necessary"
+   },
+   "text": {
+    "en": "6. Coordinate with relevant organizations abroad in order to undertake any necessary\nduties;"
+   }
+  },
+  {
+   "id": "LA-H429-A149",
+   "no": 149,
+   "noLabel": {
+    "en": "7. Ensure rights and undertake duties according to the law."
+   },
+   "text": {
+    "en": "7. Ensure rights and undertake duties according to the law.\nChapter 5\nForeign Labor in Laos\nArticle 68 (Revised) Acceptance of Foreign Labor\nEmployers have the duty, when creating a staffing plan within a labor unit, to give priority\nto Lao labor. However, if the demand for labor cannot be supplied by Lao nationals, the\nemployer has the right to request the use of foreign labor.\nThe ratio of acceptance of foreign labor within a labor unit must be as follows:"
+   }
+  },
+  {
+   "id": "LA-H429-A150",
+   "no": 150,
+   "noLabel": {
+    "en": "1. Fifteen percent of the total number of Lao labor ers within a labor unit for technical"
+   },
+   "text": {
+    "en": "1. Fifteen percent of the total number of Lao labor ers within a labor unit for technical\nexperts undertaking physical labor;"
+   }
+  },
+  {
+   "id": "LA-H429-A151",
+   "no": 151,
+   "noLabel": {
+    "en": "2. Twenty-five percent of the total number of Lao labor ers within a labor unit for"
+   },
+   "text": {
+    "en": "2. Twenty-five percent of the total number of Lao labor ers within a labor unit for\ntechnical experts undertaking mental labor.\nFor large projects, priority projects of the government spanning five years or under, the\nuse of foreign labor will be in accordance with the contract be tween the project owner and the\ngovernment.\nFor foreign employees, according to professions that can be undertaken in participation\nwith any country, namely countries within Southeast Asia if any, they must comply with specific\nlegislation.\nForeign labor working in the Lao PDR will be protected and administered in accordance\nwith this law and other relevant regulations of the Lao PDR.\nArticle 69 (New) Rights and Obligations of Foreign Labor\nForeign workers have the following rights:"
+   }
+  },
+  {
+   "id": "LA-H429-A152",
+   "no": 152,
+   "noLabel": {
+    "en": "1. Legal protection according to the laws of the Lao PDR;"
+   },
+   "text": {
+    "en": "1. Legal protection according to the laws of the Lao PDR;"
+   }
+  },
+  {
+   "id": "LA-H429-A153",
+   "no": 153,
+   "noLabel": {
+    "en": "2. Equal performance to Lao labor when undertaking the same work at the same standard"
+   },
+   "text": {
+    "en": "2. Equal performance to Lao labor when undertaking the same work at the same standard\nof labor and under the same work conditions, including salary or wages.\n\nUnofficial translation of Labor Law, update on 13 October 2014 19\nForeign labor has the following obligations:"
+   }
+  },
+  {
+   "id": "LA-H429-A154",
+   "no": 154,
+   "noLabel": {
+    "en": "1. Respect for the laws and customs of Laos;"
+   },
+   "text": {
+    "en": "1. Respect for the laws and customs of Laos;"
+   }
+  },
+  {
+   "id": "LA-H429-A155",
+   "no": 155,
+   "noLabel": {
+    "en": "2. Plans for capacity building in technical knowledge among Lao workers;"
+   },
+   "text": {
+    "en": "2. Plans for capacity building in technical knowledge among Lao workers;"
+   }
+  },
+  {
+   "id": "LA-H429-A156",
+   "no": 156,
+   "noLabel": {
+    "en": "3. Pay income taxes in accordance with the law;"
+   },
+   "text": {
+    "en": "3. Pay income taxes in accordance with the law;"
+   }
+  },
+  {
+   "id": "LA-H429-A157",
+   "no": 157,
+   "noLabel": {
+    "en": "4. Exit the Lao PDR within fifteen days after the expiration of a working contract."
+   },
+   "text": {
+    "en": "4. Exit the Lao PDR within fifteen days after the expiration of a working contract.\nArticle 70 (New) Rights and Obligations of Labor Units\nIn the administration of foreign labor, labor units have the following rights and\nobligations:"
+   }
+  },
+  {
+   "id": "LA-H429-A158",
+   "no": 158,
+   "noLabel": {
+    "en": "1. Advise foreign labor in complying with the laws and customs of Laos;"
+   },
+   "text": {
+    "en": "1. Advise foreign labor in complying with the laws and customs of Laos;"
+   }
+  },
+  {
+   "id": "LA-H429-A159",
+   "no": 159,
+   "noLabel": {
+    "en": "2. Create an appropriate plan for capacity building and submit the plan to the Labor"
+   },
+   "text": {
+    "en": "2. Create an appropriate plan for capacity building and submit the plan to the Labor\nAdministration Agency;"
+   }
+  },
+  {
+   "id": "LA-H429-A160",
+   "no": 160,
+   "noLabel": {
+    "en": "3. Facilitate the exit of foreign labor from the Lao PDR upon the expiration of the"
+   },
+   "text": {
+    "en": "3. Facilitate the exit of foreign labor from the Lao PDR upon the expiration of the\nemployment contract and return the work permit to the Labor Administration Agency\nChapter 6\nSocial Insurance\nArticle 71 (Revised) Social Insurance\nEvery labor unit and employee must be insured and make payments into the National\nSocial Security Fund to receive social security benefits of any kind as determined in the Law on\nSocial Security.\nIn case, employees who have not contributed to the national social security fund or have\ncontributed but are not yet entitled to the benefits, employers must be responsible according to\nthe law and regulations. .\nArticle 72 Retirement Age and Entitlement for Retirement Benefits\nRetirement age and entitlement to retirement benefits of employees are as follows:"
+   }
+  },
+  {
+   "id": "LA-H429-A161",
+   "no": 161,
+   "noLabel": {
+    "en": "1. Having reached 60 years old for male a nd 55 years old for female and at least 1 5 working"
+   },
+   "text": {
+    "en": "1. Having reached 60 years old for male a nd 55 years old for female and at least 1 5 working\nyears;"
+   }
+  },
+  {
+   "id": "LA-H429-A162",
+   "no": 162,
+   "noLabel": {
+    "en": "2. For those employees who have worked continuously 5 years and more in the hazardous"
+   },
+   "text": {
+    "en": "2. For those employees who have worked continuously 5 years and more in the hazardous\nconditions with 55 years of age for male and 50 years for female and at least 15 working\nyears ;\nHaving paid s ocial security contributions in full for 15 years or longer, has p oor health status and\nmiss 3 years of age to reach retirement age, shall be also entitled to old-age pension.\nArticle 73 Administration and Use of the National Social Insurance Fund\nThe National Social Insurance Fund is administered and utilized to ensure the rights and interests of\nemployees and employers and in accordance with the Law on Social Security and State Budget Law.\nArticle 74: Lump sum payment\nEmployees who do not meet full conditions as stated in the Article 72 of this law, shall be entitled to\na lump sum payment, which is equal to 1.5  of his/her monthly salary or wage by calculated b ased on\nthe last six months multiplied by  number of working years.\n\nUnofficial translation of Labor Law, update on 13 October 2014 20\nSection V\nEmployment Contracts\nChapter 1\nEmployment Contracts\nArticle 75 (Revised) Employment Contracts\nAn employment contract is an agreement between an employee and an employer or\nbetween an employee representative and an employer representative in regard to conditions of\nwork, salary or wages, welfare, and other policies.\nEmployment contracts must be based on the principle of equality and consensus between\nan employer and an employee and in accordance with the law.\nArticle 76 (Revised) Duration of Employment Contracts\nAn employment contract may be made either for a fixed term or for an indefinite period\ndepending on the agreement between the employer and the employee concerned.\nThe duration of fixed term employment contracts, including any extensions, may be not\nlonger than three years. If the duration is longer than three years, the contract will be held to be\nan indefinite employment contract. The extension of any employment cont ract must be made\nwithin sixty days from the date of expiration of the prior contract, except in cases of employment\ncontracts with set durations in accordance with project length or seasons.\nArticle 77 (Revised) Forms of Employment Contracts\nEmployment contracts may take two forms: verbal or written.\nEmployment contracts must be made in writing in cases where one party or both parties\nare a legal entity or organization.\nEmployment contracts may be verbal in cases where the employer and employee are both\nindividuals.\nArticle 78 (New) Content of Employment Contracts\nThe content of employment contracts must include the following:"
+   }
+  },
+  {
+   "id": "LA-H429-A163",
+   "no": 163,
+   "noLabel": {
+    "en": "1. Name and surname of the employer and employee;"
+   },
+   "text": {
+    "en": "1. Name and surname of the employer and employee;"
+   }
+  },
+  {
+   "id": "LA-H429-A164",
+   "no": 164,
+   "noLabel": {
+    "en": "2. Scope of work, rights, obligations, responsibilities and occupational duties of the"
+   },
+   "text": {
+    "en": "2. Scope of work, rights, obligations, responsibilities and occupational duties of the\nemployee;"
+   }
+  },
+  {
+   "id": "LA-H429-A165",
+   "no": 165,
+   "noLabel": {
+    "en": "3. Salary or wages of the employee;"
+   },
+   "text": {
+    "en": "3. Salary or wages of the employee;"
+   }
+  },
+  {
+   "id": "LA-H429-A166",
+   "no": 166,
+   "noLabel": {
+    "en": "4. Duration of the employment contract, date of commencement and expiry of the"
+   },
+   "text": {
+    "en": "4. Duration of the employment contract, date of commencement and expiry of the\ncontract;"
+   }
+  },
+  {
+   "id": "LA-H429-A167",
+   "no": 167,
+   "noLabel": {
+    "en": "5. Address of the employer and employee;"
+   },
+   "text": {
+    "en": "5. Address of the employer and employee;"
+   }
+  },
+  {
+   "id": "LA-H429-A168",
+   "no": 168,
+   "noLabel": {
+    "en": "6. Form of payment for salary or wages;"
+   },
+   "text": {
+    "en": "6. Form of payment for salary or wages;"
+   }
+  },
+  {
+   "id": "LA-H429-A169",
+   "no": 169,
+   "noLabel": {
+    "en": "7. Duration of trial period for employees;"
+   },
+   "text": {
+    "en": "7. Duration of trial period for employees;"
+   }
+  },
+  {
+   "id": "LA-H429-A170",
+   "no": 170,
+   "noLabel": {
+    "en": "8. Welfare and other policies for employees;"
+   },
+   "text": {
+    "en": "8. Welfare and other policies for employees;"
+   }
+  },
+  {
+   "id": "LA-H429-A171",
+   "no": 171,
+   "noLabel": {
+    "en": "9. Working days, rest days and holidays;"
+   },
+   "text": {
+    "en": "9. Working days, rest days and holidays;\n10.Benefits the employee will receive at the expiration of the employment contract;\n\nUnofficial translation of Labor Law, update on 13 October 2014 21\n11.Other matters that both parties deem necessary in accordance with the law.\nArticle 79 (Revised) Probation of Employees\nAfter sig ning an employment contract with an employee, the employee may be placed\nunder probation by the employer to evaluate whether the employee has or does not have\nadequate competence.\nFor unskilled work, the duration of the probationary period shall not excee d thirty days.\nFor work requiring specialized skills, the duration of the probationary period shall not exceed\nsixty days.\nWhere the worker fails to undertake the probationary period resulting from sickness or\nother reason of necessity, the duration of suc h absence shall not be counted as part of the\nprobationary period. The duration of absence may not be more than ten days ; otherwise, the\nemployer has the right to cancel the employment contract.\nSeven days before the end of the probationary period, the em ployer shall inform the\nworker in writing as to whether or not his employment will be confirmed.\nDuring the probationary period, workers shall receive salary or wages of not less than\nninety percent of the salary or wages for such work.\nDuring the probationary period, each party has the right to terminate the probation at any\ntime, but must give the other party at least three days advance notice for non -skilled work and\nfive days advance notice for skilled work.\nIn such termination of probation, the worker has the right to receive salary or wages and\nremuneration covered by other policies provided under the laws from the beginning of the\nprobation period to the date of cessation such work.\nChapter 2\nTermination and Expiration of Employment Contracts\nArticle 80 (Revised) Cancellation of Employment Contracts\nEither party of the contract may cancel an indefinite employment contract at any time , but\nmust notify the other party at least thirty days in advance for employees undertaking physical\nlabor and forty-five days for employees undertaking mental labor.\nFixed term contracts may be cancelled upon the agreement of both parties or when the\ncontract is violated by either party. In cases of contractual violation, the violating party is\nresponsible for compen sation of any damage caused . If the employer violates the contract, the\nemployer must pay the salary for the remaining month and comply with other benefits in\naccordance with the contract and the law.\nArticle 81 Suspension or Postponement of Employment Contracts\nEmployment contracts may be suspended or postponed in cases where the employee must\nundertake national service in accordance with the law, or is held, detained , or restricted to a\ncertain area. The duration of suspension may not exceed one year ; other cases shall be\ndetermined according to the Law on Labor.\nThe employee will not receive salary or other benefits during the period the employment\ncontract is suspended or postponed . However, the employer must accept the employee upon\nreturn to an appropriate position comparable to the position prior to suspension or postponement.\nIf no such position is available, the employer must pay compensation owing to the cancellation\n\nUnofficial translation of Labor Law, update on 13 October 2014 22\nof the employment contract according to the duration of employment prior to suspe nsion or\npostponement. In the event the employee does not return to work or refuses a new position, the\nrelevant person shall have no right to request compensation or other benefits from the employer.\nArticle 82 (Revised) Cancellation of Employment Contract by the Employer\nThe employer may cancel an employment contract but must pay compensation to the\nemployee in the following cases:"
+   }
+  },
+  {
+   "id": "LA-H429-A172",
+   "no": 172,
+   "noLabel": {
+    "en": "1. The worker lacks specialized skills or is not in good health but has a medical"
+   },
+   "text": {
+    "en": "1. The worker lacks specialized skills or is not in good health but has a medical\ncertificate, and after allowing the worker i n question to undertake other, more\nappropriate work according to their ability and health, yet the person in question is\nstill unable to work;"
+   }
+  },
+  {
+   "id": "LA-H429-A173",
+   "no": 173,
+   "noLabel": {
+    "en": "2. The employer considers it necessary to reduce the number of workers in order to"
+   },
+   "text": {
+    "en": "2. The employer considers it necessary to reduce the number of workers in order to\nimprove the work within the labo r unit after consulting the trade union or employee\nrepresentative or the majority of employees, and has reported to the Labor\nAdministration Agency.\nThe employer must make notification in writing and make explanation of the reasons for\nretrenchment in advance, following the duration determined in Article 80 of this law.\nArticle 83 (Revised) Cancellation of Employment Contract by the Employee\nThe employee has the right to request cancellation of an employment contract and receive\ncompensation in the following cases:"
+   }
+  },
+  {
+   "id": "LA-H429-A174",
+   "no": 174,
+   "noLabel": {
+    "en": "1. The employee is not in good health after receiving treatment and possesses a medical"
+   },
+   "text": {
+    "en": "1. The employee is not in good health after receiving treatment and possesses a medical\ncertificate, and the employer has already moved the employee to a new position but\nthe employee remains unable to work;"
+   }
+  },
+  {
+   "id": "LA-H429-A175",
+   "no": 175,
+   "noLabel": {
+    "en": "2. The employee h as made objections towa rd the employer in accordance with the"
+   },
+   "text": {
+    "en": "2. The employee h as made objections towa rd the employer in accordance with the\nemployment contract multiple times without resolution;"
+   }
+  },
+  {
+   "id": "LA-H429-A176",
+   "no": 176,
+   "noLabel": {
+    "en": "3. The relocation of the workplace is cited as reason for the employee being unable to"
+   },
+   "text": {
+    "en": "3. The relocation of the workplace is cited as reason for the employee being unable to\nundertake their duties , with certification from the trade union or employee\nrepresentative and village authority in writing;"
+   }
+  },
+  {
+   "id": "LA-H429-A177",
+   "no": 177,
+   "noLabel": {
+    "en": "4. In the event t here is any molestation, harassment, or sexual harassment on the part of"
+   },
+   "text": {
+    "en": "4. In the event t here is any molestation, harassment, or sexual harassment on the part of\nthe employer, or the employer ignores the occurrence of such actions.\nIn the event of cancellation of the contract in acco rdance with this Article, the employee\nmust make notification in writing and explain the reason to the employer in advance in\naccordance with the duration determined in Article 80 of this law.\nFixed term employment contracts may be cancelled in accordance with sections 2 and 4 of\nthis Article. After payment of compensation, the employer is responsible for payment of salary\nand wages and other outstanding benefits that according to the employment contract.\nArticle 84 (New) The Sale or Transfer of Business Activities and Partnerships\nIn cases where the employer sells, transfers business activit ies or enters into a partnership\nwith another company, or there is a change of employer, the original employer must give\nadvance notification to employees in writing according to the duration determi ned in Article 80\nof this law.\n\nUnofficial translation of Labor Law, update on 13 October 2014 23\nAfter any sale or transfer of business activit ies or partnership with another company, the original\nemployer and the new employer must determine clear responsibilities to employees and ensure\nmutual interests of employees based on the law and regulations.\nArticle 85 (Revised) Rights of Employees during the Period of Advance Notice\nDuring the period of time after which the employee has given advance notice, the\nemployee has the right to take one day of leave each week for the purpose of seeking new work,\nand will receive the same salary or wages as during the ordinary work period.\nShould the employee encounter an accident or injury during this period, the recovery time\nshall not be counted as the notice period.\nArticle 86 (Revised) Termination of Employment Contract due to the Fault of the Employee\nThe employer has the right to cancel the employment contract without paying\ncompensation and without requesting permission from the Labor Administration Agency in\ncases where the employee has committed any of the following faults:"
+   }
+  },
+  {
+   "id": "LA-H429-A178",
+   "no": 178,
+   "noLabel": {
+    "en": "1. Causing deliberate damage to the employer;"
+   },
+   "text": {
+    "en": "1. Causing deliberate damage to the employer;"
+   }
+  },
+  {
+   "id": "LA-H429-A179",
+   "no": 179,
+   "noLabel": {
+    "en": "2. Violating the internal regulations of the labor unit or employment contract after"
+   },
+   "text": {
+    "en": "2. Violating the internal regulations of the labor unit or employment contract after\nreceiving a warning from the employer;"
+   }
+  },
+  {
+   "id": "LA-H429-A180",
+   "no": 180,
+   "noLabel": {
+    "en": "3. Neglecting duties for four consecutive days without reason;"
+   },
+   "text": {
+    "en": "3. Neglecting duties for four consecutive days without reason;"
+   }
+  },
+  {
+   "id": "LA-H429-A181",
+   "no": 181,
+   "noLabel": {
+    "en": "4. Has been sentenced to imprisonment by the court system and been confined to the"
+   },
+   "text": {
+    "en": "4. Has been sentenced to imprisonment by the court system and been confined to the\nlocation of the offence perpetrated d eliberately against the labor unit, excepting other\ndeliberate offences;"
+   }
+  },
+  {
+   "id": "LA-H429-A182",
+   "no": 182,
+   "noLabel": {
+    "en": "5. Violating the rights of other employees, especially women, and has received a"
+   },
+   "text": {
+    "en": "5. Violating the rights of other employees, especially women, and has received a\nwarning already;\nIn the event of cancellation of the employment contract according to this Article, the\nemployee has the right to receive salary or wages from the employer in full.\nArticle 87 (New) Unauthorized Termination of Employment Contracts\nCases wherein an employment contract may not be terminated are as follows:"
+   }
+  },
+  {
+   "id": "LA-H429-A183",
+   "no": 183,
+   "noLabel": {
+    "en": "1. Women who are pregnant or have a child aged less than one year;"
+   },
+   "text": {
+    "en": "1. Women who are pregnant or have a child aged less than one year;"
+   }
+  },
+  {
+   "id": "LA-H429-A184",
+   "no": 184,
+   "noLabel": {
+    "en": "2. Employees who are undergoing medical treatment or rehabilitation and possess a"
+   },
+   "text": {
+    "en": "2. Employees who are undergoing medical treatment or rehabilitation and possess a\nmedical certificate;"
+   }
+  },
+  {
+   "id": "LA-H429-A185",
+   "no": 185,
+   "noLabel": {
+    "en": "3. Employees who are employee representatives or heads of trade unions within the labor"
+   },
+   "text": {
+    "en": "3. Employees who are employee representatives or heads of trade unions within the labor\nunit;"
+   }
+  },
+  {
+   "id": "LA-H429-A186",
+   "no": 186,
+   "noLabel": {
+    "en": "4. Employees involved in legal proceedings or who have been detained or are awaiting a"
+   },
+   "text": {
+    "en": "4. Employees involved in legal proceedings or who have been detained or are awaiting a\ncourt decision;"
+   }
+  },
+  {
+   "id": "LA-H429-A187",
+   "no": 187,
+   "noLabel": {
+    "en": "5. Employees who are injured and undergoing treatment and possess a medical"
+   },
+   "text": {
+    "en": "5. Employees who are injured and undergoing treatment and possess a medical\ncertificate or have recently experienced a disaster;"
+   }
+  },
+  {
+   "id": "LA-H429-A188",
+   "no": 188,
+   "noLabel": {
+    "en": "6. Employees on annual leave or on leave with the permission of the employer;"
+   },
+   "text": {
+    "en": "6. Employees on annual leave or on leave with the permission of the employer;"
+   }
+  },
+  {
+   "id": "LA-H429-A189",
+   "no": 189,
+   "noLabel": {
+    "en": "7. Employees who are performing work in other locations after being assigned by the"
+   },
+   "text": {
+    "en": "7. Employees who are performing work in other locations after being assigned by the\nemployer;"
+   }
+  },
+  {
+   "id": "LA-H429-A190",
+   "no": 190,
+   "noLabel": {
+    "en": "8. Employees in the process of making a claim against, or taking legal action against the"
+   },
+   "text": {
+    "en": "8. Employees in the process of making a claim against, or taking legal action against the\nemployer, or who are cooperating with government officials in relati on to the Labor\nLaw, and in relation to labor disputes within the labor unit of the employee.\n\nUnofficial translation of Labor Law, update on 13 October 2014 24\nIf the employer intends to cancel the employment contract in any of the above cases, it\nmust receive authorization from the Labor Administration Agency.\nTime bound contract can be terminated when the contract comes to an end.\nArticle 88 (Revised) Unjustified Termination of Employment Contracts\nTermination of an employment contract by the employer is unjustified where:"
+   }
+  },
+  {
+   "id": "LA-H429-A191",
+   "no": 191,
+   "noLabel": {
+    "en": "1. The employment contract is terminated without sufficient reason;"
+   },
+   "text": {
+    "en": "1. The employment contract is terminated without sufficient reason;"
+   }
+  },
+  {
+   "id": "LA-H429-A192",
+   "no": 192,
+   "noLabel": {
+    "en": "2. The employer terminates the employment contract by abusing its power directly or"
+   },
+   "text": {
+    "en": "2. The employer terminates the employment contract by abusing its power directly or\nindirectly, or violates the basic rights of the employee such that the employee is\nunable to undertake their work;"
+   }
+  },
+  {
+   "id": "LA-H429-A193",
+   "no": 193,
+   "noLabel": {
+    "en": "3. The employer violates the employment contract after receiving a prior protest from the"
+   },
+   "text": {
+    "en": "3. The employer violates the employment contract after receiving a prior protest from the\nemployee or employee representative, but does not resolve the situation or make any\nchanges, thus forcing the employee to resign.\nArticle 89 (New) Consequences of Unjustified Termination of Employment Contracts\nThe unjustified termination of employment contracts has the following consequences:"
+   }
+  },
+  {
+   "id": "LA-H429-A194",
+   "no": 194,
+   "noLabel": {
+    "en": "1. The employee has the right to request reinstatement to their former position or to be"
+   },
+   "text": {
+    "en": "1. The employee has the right to request reinstatement to their former position or to be\nassigned to other appropriate work;"
+   }
+  },
+  {
+   "id": "LA-H429-A195",
+   "no": 195,
+   "noLabel": {
+    "en": "2. In the event that the employer does not reins tate the employee , or the employee has"
+   },
+   "text": {
+    "en": "2. In the event that the employer does not reins tate the employee , or the employee has\nstopped work, the employer must pay compensation as well as other outstanding\nbenefits in accordance with the employment contract and the law.\nArticle 90 Compensation for the Cancellation of Employment Contracts\nCompensation for the cancellation of employment contracts shall be ten percent of the last\nsalary or wage multiplied by the total number of months worked;\nFor unjustified termination of employment contracts in accordance with Article 8 8,\nthe employer shall pay compensation to the employee  fift een percent of the last salary or\nwage multiplied by the total number of months worked;\nEmployees who receive wages by unit of production or who receive unspecific wages\nshall calculate an average of the last three month’s wages as a basis for calculating compensation.\nRegarding the cancellation of employment contracts for reasons that are not specified in\nthis law, the employer must implement compensation in accordance with the employment\ncontract, according to interna l regulations of the labor unit or in accordance with the agreement\nbetween the employer and the employee.\nArticle 91 (Revised) Temporary Transfer of Employees to other Work\nIf necessary, the employer may transfer an employee to perform another task in t he same\nlabor unit for a period not exceeding three months. If the period exceeds three months, the\nemployer and employee must reach a new agreement.\nDuring the period of temporary transfer, if the new salary or wages for the work are\nhigher, the employe e shall receive the new salary or wages. If the salary or wages payable for\nthe new task are lower than that payable for the old task, the salary or wages for the old task\nmust be maintained.\nWhen the employee returns to his original task, the employee shall receive the original\nsalary or wage as was received before the transfer.\n\nUnofficial translation of Labor Law, update on 13 October 2014 25\nIn the event that the employee has been transferred to a new , lower task due to\ndisciplinary sanction, salary or wages shall be paid in accordance with the new task.\nArticle 92 Responsibilities of the New Employer\nA new employer that accepts an employee w hile knowing that the employee still has\noutstanding labor commitments to the former employer, either direct or indirect, the new\nemployer must take responsibility for any damages caused to the former employer.\nArticle 93 Expiration of Employment Contracts\nThe employment contract may expire in the following cases:"
+   }
+  },
+  {
+   "id": "LA-H429-A196",
+   "no": 196,
+   "noLabel": {
+    "en": "1. The employment contract has been fully implemented;"
+   },
+   "text": {
+    "en": "1. The employment contract has been fully implemented;"
+   }
+  },
+  {
+   "id": "LA-H429-A197",
+   "no": 197,
+   "noLabel": {
+    "en": "2. A fixed term employment contract has reached the end of its duration;"
+   },
+   "text": {
+    "en": "2. A fixed term employment contract has reached the end of its duration;"
+   }
+  },
+  {
+   "id": "LA-H429-A198",
+   "no": 198,
+   "noLabel": {
+    "en": "3. Both parties to the contract agree to its cancellation;"
+   },
+   "text": {
+    "en": "3. Both parties to the contract agree to its cancellation;"
+   }
+  },
+  {
+   "id": "LA-H429-A199",
+   "no": 199,
+   "noLabel": {
+    "en": "4. The death of the individual employee or employer;"
+   },
+   "text": {
+    "en": "4. The death of the individual employee or employer;"
+   }
+  },
+  {
+   "id": "LA-H429-A200",
+   "no": 200,
+   "noLabel": {
+    "en": "5. The employee has been sentenced to imprisonment by the court system without leave."
+   },
+   "text": {
+    "en": "5. The employee has been sentenced to imprisonment by the court system without leave.\nThe expiration of a contract in case of death of the employ ee is held to be a cancellation\nof the employment contract ; therefore, the employer must pay compensation equal to fifty\npercent of compensation calculated in accordance with Article 90 of this law.\nArticle 94 (New) Extension of an Employment Contract\nBefore the expiration of a fixed term employment contract, if both parties to the contract\nwish to extend the contract, they must provide each other with advance notice of at least fifteen\ndays and must undertake the extension of the contract within sixty day s; otherwise, the contract\nwill be deemed an indefinite contract.\nArticle 95 Issuance of Reference Certification\nThe employer must issue a work reference for the employee within seven days from the\ndate the employee ceases work. The reference must indic ate the starting date , date of cessation\nof work, and the employee’s professional position. Aside from this, the employee may request\ncertification of salary or wages and observations on work performance.\nSection VI\nEmployment of Women and Youths\nChapter 1\nThe Employment of Women\nArticle 96 (New) Gender Equality in the Workplace\nFemale employees have the right to employment and profession s in every sector that do\nnot conflict with the law , including production, business and management, and may participat e\nin training, labor skills improvement and providing expertise. Female employees shall receive a\nsalary or wages equal to that of male employees, excepting some forms of work that has\nnegative effects upon the reproductive health of women, which must be protected in every case.\n\nUnofficial translation of Labor Law, update on 13 October 2014 26\nArticle 97 (Revised) The Employment of Pregnant Women or Women Caring for Newborns\nIt is prohibited to employ a woman during pregnancy or during the period she is caring for\na child under one year of age to perform the following work:"
+   }
+  },
+  {
+   "id": "LA-H429-A201",
+   "no": 201,
+   "noLabel": {
+    "en": "1. Work in a shop with an elevation of more than two meters;"
+   },
+   "text": {
+    "en": "1. Work in a shop with an elevation of more than two meters;"
+   }
+  },
+  {
+   "id": "LA-H429-A202",
+   "no": 202,
+   "noLabel": {
+    "en": "2. Work lifting and carrying by hand, carrying on shoulders, carrying on a pole, or the"
+   },
+   "text": {
+    "en": "2. Work lifting and carrying by hand, carrying on shoulders, carrying on a pole, or the\nbearing of loads heavier than ten kilograms;"
+   }
+  },
+  {
+   "id": "LA-H429-A203",
+   "no": 203,
+   "noLabel": {
+    "en": "3. Night work;"
+   },
+   "text": {
+    "en": "3. Night work;"
+   }
+  },
+  {
+   "id": "LA-H429-A204",
+   "no": 204,
+   "noLabel": {
+    "en": "4. Overtime or working on rest days;"
+   },
+   "text": {
+    "en": "4. Overtime or working on rest days;"
+   }
+  },
+  {
+   "id": "LA-H429-A205",
+   "no": 205,
+   "noLabel": {
+    "en": "5. Work which involves standing for longer than two consecutive hours;"
+   },
+   "text": {
+    "en": "5. Work which involves standing for longer than two consecutive hours;"
+   }
+  },
+  {
+   "id": "LA-H429-A206",
+   "no": 206,
+   "noLabel": {
+    "en": "6. Works specified in the list of hazardous works."
+   },
+   "text": {
+    "en": "6. Works specified in the list of hazardous works.\nA woman during pregnancy or during the period she is caring for a child under one year\nof age that has previously undertaken any of the wo rk outlined above must be transferred by the\nemployer to a new and more appropriate position temporarily, and shall maintain the same salary\nor wage.\nArticle 98 (Revised) Maternity Leave Before and After Giving Birth\nBefore and after giving birth, women workers shall be entitled to at least one hundred and\nfive days of maternity leave ; however, at least forty -two days of s uch leave shall be taken after\ngiving birth. In cases of giving birth to twins, maternity leave shall be at le ast one hundred and\ntwenty days. During such a period, the employee shall receive full payment at the normal salary\nor wages.\nIn the event that as a result of giving birth , a woman worker requires leave beyond the set\namount of days due to treatment and rehabilitation after giving birth, the employee has the right\nto receive subsidies as determined in the Law on Social Security.\nAfter giving birth, for a period of up to one year, female employees have the right to rest\nfor one hour per day , or care for their child or have the right to leave to take their child for\nvaccinations according to regulations.\nFemale employees who miscarry will receive l eave for a certain period as per the\ndirections of a physician and will receive salary or wages as normal.\nArticle 99 (Revised) Maternity Support\nA female employee has the right to receive an allowance for giving birth or miscarriage as\ndetermined by the Law on Social Security.\nArticle 100 (New) Prohibited Actions against Female Employees\nEmployers may not take the following actions against female employees:"
+   }
+  },
+  {
+   "id": "LA-H429-A207",
+   "no": 207,
+   "noLabel": {
+    "en": "1. Check for pregnancy before accepting the employee;"
+   },
+   "text": {
+    "en": "1. Check for pregnancy before accepting the employee;"
+   }
+  },
+  {
+   "id": "LA-H429-A208",
+   "no": 208,
+   "noLabel": {
+    "en": "2. Create conditions that block or deny female employees who are married or pregnant;"
+   },
+   "text": {
+    "en": "2. Create conditions that block or deny female employees who are married or pregnant;"
+   }
+  },
+  {
+   "id": "LA-H429-A209",
+   "no": 209,
+   "noLabel": {
+    "en": "3. Cancel the employment contract due to marriage or pregnancy."
+   },
+   "text": {
+    "en": "3. Cancel the employment contract due to marriage or pregnancy.\nChapter 2\nThe Use of Youth Employees\nArticle 101 (Revised) Acceptance of Youth Employees\n\nUnofficial translation of Labor Law, update on 13 October 2014 27\nEmployers may accept employees under the age of eighteen years but not younger than\nfourteen years; however, they are prohibited from working overtime.\nWhen necessary, the employer may accept and use youth employe es under the age of\nfourteen, but not younger than twelve years, and must ensure the work is light work such as:"
+   }
+  },
+  {
+   "id": "LA-H429-A210",
+   "no": 210,
+   "noLabel": {
+    "en": "1. Work that will not negatively impact the body, psychology or mind;"
+   },
+   "text": {
+    "en": "1. Work that will not negatively impact the body, psychology or mind;"
+   }
+  },
+  {
+   "id": "LA-H429-A211",
+   "no": 211,
+   "noLabel": {
+    "en": "2. Work that will not obstruct attendance of school, professional guidance or vocational"
+   },
+   "text": {
+    "en": "2. Work that will not obstruct attendance of school, professional guidance or vocational\ntraining.\nThe list of light work is specified separately.\nArticle 102 (New) Unauthorized Use of Youth Employees\nCases wherein the use of youth employees is prohibited are as follows:"
+   }
+  },
+  {
+   "id": "LA-H429-A212",
+   "no": 212,
+   "noLabel": {
+    "en": "1. Work in activities, duties and locations that are unsafe, dangerous to the health of the"
+   },
+   "text": {
+    "en": "1. Work in activities, duties and locations that are unsafe, dangerous to the health of the\nbody, psychology or mind;"
+   }
+  },
+  {
+   "id": "LA-H429-A213",
+   "no": 213,
+   "noLabel": {
+    "en": "2. Forced labor;"
+   },
+   "text": {
+    "en": "2. Forced labor;"
+   }
+  },
+  {
+   "id": "LA-H429-A214",
+   "no": 214,
+   "noLabel": {
+    "en": "3. Work to repay debts;"
+   },
+   "text": {
+    "en": "3. Work to repay debts;"
+   }
+  },
+  {
+   "id": "LA-H429-A215",
+   "no": 215,
+   "noLabel": {
+    "en": "4. Human trafficking;"
+   },
+   "text": {
+    "en": "4. Human trafficking;"
+   }
+  },
+  {
+   "id": "LA-H429-A216",
+   "no": 216,
+   "noLabel": {
+    "en": "5. Trade or deception into the sex industry or solicitation of prostitution, photography or"
+   },
+   "text": {
+    "en": "5. Trade or deception into the sex industry or solicitation of prostitution, photography or\npornography;"
+   }
+  },
+  {
+   "id": "LA-H429-A217",
+   "no": 217,
+   "noLabel": {
+    "en": "6. Trade or deception into the movement and production, transportation, possession of"
+   },
+   "text": {
+    "en": "6. Trade or deception into the movement and production, transportation, possession of\nnarcotics or addictive substances.\nThe list of hazardous works is specified separately.\nArticle 103 (New) Creating Records for Youth Employees\nEmployers must keep records on youth employees with the following content:"
+   }
+  },
+  {
+   "id": "LA-H429-A218",
+   "no": 218,
+   "noLabel": {
+    "en": "1. Name and surname;"
+   },
+   "text": {
+    "en": "1. Name and surname;"
+   }
+  },
+  {
+   "id": "LA-H429-A219",
+   "no": 219,
+   "noLabel": {
+    "en": "2. Age and date of birth;"
+   },
+   "text": {
+    "en": "2. Age and date of birth;"
+   }
+  },
+  {
+   "id": "LA-H429-A220",
+   "no": 220,
+   "noLabel": {
+    "en": "3. Date of commencing work;"
+   },
+   "text": {
+    "en": "3. Date of commencing work;"
+   }
+  },
+  {
+   "id": "LA-H429-A221",
+   "no": 221,
+   "noLabel": {
+    "en": "4. Position."
+   },
+   "text": {
+    "en": "4. Position.\nThe record must be supplied to labor inspection officials and other relevant parties.\nSection VII\nSalary and Wages\nChapter 1\nDetermining Salaries and Wages\nArticle 104 (Revised) Salaries and Wages\nSalaries and wages are compensation for work on the part of the employee t hat are\npayable by the employer in accordance with an employment contract, either monthly, daily,\nhourly, as a lump sum or by unit of production.\nArticle 105 (New) Minimum Wage\n\nUnofficial translation of Labor Law, update on 13 October 2014 28\nMinimum Wage is the level of salary or wages which the government announce its\nofficial use on each period to ensure a basic livelihood\nArticle 106 (New) Basic Salary and Total Salary\nBasic salary is the salary that an employer pays to an employee according to the\nemployment contract and basic agreement, depending on level of education, knowledge, capacity,\nexpertise and work experience.\nTotal salary is the money that an employee receives in total within one month, including\nbasic salary, subsidies, per production unit pay and other policies.\nArticle107 (New) Daily Wages and Wages by Unit of Production\nDaily wages are compensation work undertaken daily according to a basic employment\ncontract.\nWages by unit of production is compensation according to productivity received by the\nemployee according to a basic employment contract.\nThe level of daily wages or wages by unit of production in one month may not be lower\nthan minimum wage.\nArticle 108 (Revised) Determination of Salary or Minimum Wage\nThe State promulgates the level of minimum wage or salary at every interval based on the\nresults of consultations with third parties.\nThe State does not authorize an employer to determine a minimum salary or wage at a\nlevel lower than that promulgated at any interval.\nThe minimum wage or salary can be determined for each area or sector.\nArticle 109 (Revised) Form and Methods for Payment of Salary and Wages\nSalary or wages may be paid in cash or in materials.\nWhen paying salaries or wages, at any time, the employer must record the payment and\nensure the employee signs a receipt.\nThe employer must notify the employee of the account and calculation of salary or wages.\nWhen making payments in materials in lieu of cash for salary or wages, it should be at an\nappropriate rate and stated as money , but it must be agreed upon by the emp loyee or employee\nrepresentative.\nChapter 2\nProtection of Benefits in Wages or Salary\nArticle 110 (Revised) Payment\nThe employer must pay the salary or wages to the employee at least once per month in\naccordance with the set time.\nSubsidies, remuneration or other policies will be paid according to the regulations of the\nlabor unit.\n\nUnofficial translation of Labor Law, update on 13 October 2014 29\nFor wages paid by unit of production, wages must be paid to the employee at least twice\nper month.\nShould the employer delay payment of salary or wages without sufficient reason, the\nemployer must pay an extra amount to the employee as agreed in the employment contract.\nIn the event that an employee gives birth, falls miscarries, is injured or has an accident\nand requests advance payment of salary or wages, the employer must consider advance payment\nas appropriate . Deduction of salary or wages paid in advance should not b e more than twenty\npercent of a salary or wage.\nArticle 111 (Revised) Payment of Salary or Wages in the Event of Temporary Suspension of\nWork\nWhere a labor unit is ordered to suspend production and business activities or to stop\nproduction, or the employ er suspends production temporarily, the employer must pay an\nallowance to each employee of not less than fifty percent (50%) of the salary or wages for the\nperiod of such temporary suspension of business activities.\nArticle 112 (Revised) Preferential Right to Receive Salary or Wages\nWhere a labor unit is winding up, is bankrupt or is under a court order for total\nconfiscation of its property, the employer must give priority to employees in the payment of\nsalaries or wages.\nArticle 113 (Revised) Deductions from Salary or Wages to Compensate for Damage\nDeductions from an employee's salary or wages to compensate for damage to the property\nof a labor unit caused by the employee shall be made according to the value of actual damage.\nIn the event that the e mployee does not have assets for compensation, his salary or wages\nmust be deducted for compensation ; however, the maximum deduction shall not exceed 20% of\nhis salary or wages\nThe employer is prohibited from deducting salary or wages from the employee fo r the\npurposes of binding the employee to itself and for the payment of fees or charges in regard to\nemployment or work.\nChapter 3\nOvertime and Holiday Pay\nArticle 114 Calculation of Overtime\nFor overtime on a work day , from 17:00 to 22:00, the employee shall be entitled to extra\nwages equal to one hundred and fifty percent of the normal rate.\nFor overtime on a work day , from 22:00 to 06:00, the employee shall be entitled to extra\nwages equal to two hundred percent of the normal rate.\nOvertime should be calculated by payment of salary or wage s divided by twenty six days,\nthen divided by eight hours, and then multiplied by percentage amount and multiplied by the\namount of extra hours worked.\nArticle 115 (New) Payment for Work on Weekly Rest Days or Official Holidays\n\nUnofficial translation of Labor Law, update on 13 October 2014 30\nFor overtime worked on a weekly rest day or official holiday, the employee shall be paid\non the basis of two hundred and fifty percent (250%) of the hourly wage of a regular working day\nfor each hour worked.\nFor o vertime worked from 16:00 to 22:00 on a of weekly rest day or holiday , the\nemployee shall be paid on the basis of three hundred percent (300%) of the hourly wage of a\nregular working day for each hour worked.\nFor overtime worked at night on a weekly rest day or holiday, from 22:00 to 06:00, the\nemployee shall be paid on the basis of three hundred and fifty percent (350%) of the hourly wage\nof a regular working day for each hour worked.\nThe method of calculation should be in accordance with that determined in Article 11 4 of\nthis law.\nArticle 116 (New) Specific Payments for Night Work or Shift Work\nSpecific payments for night work or shift work shall be paid at no less than fifteen percent\nof the hourly wage of a regular working day for each hour worked.\nThis specific pay shall be calculated by d ividing the regular salary or wage by twenty six\ndays, then divided by eight hours, and then multipl ied by fifteen percent and multipl ied again by\nthe number of hours worked at night or shift.\nSection VIII\nLabor Occupational Safety and Health\nChapter 1\nProtection of Labor Safety and Health\nArticle 117 (New) Labor Occupational Safety and Health\nLabor occupational health and safety is a joint activity between the employer and the\nemployee in the assurance of occupational safety and health in the workplac e, including risk\nassessment of the work environment, appropriate measures for reducing hazards and risks,\nmethods for protecting against workplace accidents, protection against injury and occupational\ndiseases and the gradual creation of a culture of safety at the workplace at all times.\nArticle 118 (New) Obligations of the State\nThe State has the following obligations:"
+   }
+  },
+  {
+   "id": "LA-H429-A222",
+   "no": 222,
+   "noLabel": {
+    "en": "1. Determining, implementing and revising policies and national strategies in relation to"
+   },
+   "text": {
+    "en": "1. Determining, implementing and revising policies and national strategies in relation to\nlabor health and safety consistent with the natio nal socio-economic development plan\nby:\n(A) Having measures for protection against workplace accidents or occupational\ndiseases by reducing the causes of hazards that may occur due to the work\nenvironment;\n(B) Determining duties and responsibilities for relevant government sector s, the\nemployer, the employee , and other relevant sectors in the protection of health and\nsafety in the workplace."
+   }
+  },
+  {
+   "id": "LA-H429-A223",
+   "no": 223,
+   "noLabel": {
+    "en": "2. Determining health and safety measures and ensuring all relevant parties participate in"
+   },
+   "text": {
+    "en": "2. Determining health and safety measures and ensuring all relevant parties participate in\nlabor health and safety;\n\nUnofficial translation of Labor Law, update on 13 October 2014 31"
+   }
+  },
+  {
+   "id": "LA-H429-A224",
+   "no": 224,
+   "noLabel": {
+    "en": "3. Establishing, develop ing and improv ing labor health and safety systems at each"
+   },
+   "text": {
+    "en": "3. Establishing, develop ing and improv ing labor health and safety systems at each\ninterval to include responsible agencies, participation between employees and\nemployers, provision of information, consultation services, training, collection and\nanalysis of data on injuries and occupational diseases;"
+   }
+  },
+  {
+   "id": "LA-H429-A225",
+   "no": 225,
+   "noLabel": {
+    "en": "4. Making appropriate investments in research, aid or facilitation for the labor unit that"
+   },
+   "text": {
+    "en": "4. Making appropriate investments in research, aid or facilitation for the labor unit that\nproduces tools or equipment used in the protection of safety and health, inc luding\npersonal protective gear;"
+   }
+  },
+  {
+   "id": "LA-H429-A226",
+   "no": 226,
+   "noLabel": {
+    "en": "5. Creating an account of occupational diseases , both physical and mental , through"
+   },
+   "text": {
+    "en": "5. Creating an account of occupational diseases , both physical and mental , through\nconsultation with representatives of relevant agencies perta ining to employers or\nemployees;"
+   }
+  },
+  {
+   "id": "LA-H429-A227",
+   "no": 227,
+   "noLabel": {
+    "en": "6. Having measures for the protection of employees or those who inform of malpractice"
+   },
+   "text": {
+    "en": "6. Having measures for the protection of employees or those who inform of malpractice\nor neglect in regard to workplace health and safety in the labor unit.\nArticle 119 (New) Obligations of the Employer\nThe employer has the following obligations:"
+   }
+  },
+  {
+   "id": "LA-H429-A228",
+   "no": 228,
+   "noLabel": {
+    "en": "1. Instill appropriate measures to ensure workplace health and safety for the employee"
+   },
+   "text": {
+    "en": "1. Instill appropriate measures to ensure workplace health and safety for the employee\nworking under its administration;"
+   }
+  },
+  {
+   "id": "LA-H429-A229",
+   "no": 229,
+   "noLabel": {
+    "en": "2. Ensure the workplace, machinery, equipment and procedures in the production of"
+   },
+   "text": {
+    "en": "2. Ensure the workplace, machinery, equipment and procedures in the production of\nmetals or chemicals and explosive materials in the labor unit are safe or do not pose a\ndanger to the health of employees;"
+   }
+  },
+  {
+   "id": "LA-H429-A230",
+   "no": 230,
+   "noLabel": {
+    "en": "3. Regularly inspect all safety measures and improve any that are inappropriate;"
+   },
+   "text": {
+    "en": "3. Regularly inspect all safety measures and improve any that are inappropriate;"
+   }
+  },
+  {
+   "id": "LA-H429-A231",
+   "no": 231,
+   "noLabel": {
+    "en": "4. Assess risks to employee health and safety at least once per year and then report to the"
+   },
+   "text": {
+    "en": "4. Assess risks to employee health and safety at least once per year and then report to the\nLabor Administration Agency;"
+   }
+  },
+  {
+   "id": "LA-H429-A232",
+   "no": 232,
+   "noLabel": {
+    "en": "5. Maintain the workplace, safety systems, environment and atmosphere when working"
+   },
+   "text": {
+    "en": "5. Maintain the workplace, safety systems, environment and atmosphere when working\nto ensure good conditions for the health of the employees;"
+   }
+  },
+  {
+   "id": "LA-H429-A233",
+   "no": 233,
+   "noLabel": {
+    "en": "6. Provide appropriate facilitation of welfare for employees in the workplace;"
+   },
+   "text": {
+    "en": "6. Provide appropriate facilitation of welfare for employees in the workplace;"
+   }
+  },
+  {
+   "id": "LA-H429-A234",
+   "no": 234,
+   "noLabel": {
+    "en": "7. Supply information, recommendations, training and protection for employees so that"
+   },
+   "text": {
+    "en": "7. Supply information, recommendations, training and protection for employees so that\nthey may undertake their work safely;"
+   }
+  },
+  {
+   "id": "LA-H429-A235",
+   "no": 235,
+   "noLabel": {
+    "en": "8. Supply individual safety gear to employees in full and in good condition according to"
+   },
+   "text": {
+    "en": "8. Supply individual safety gear to employees in full and in good condition according to\ninternational standards;"
+   }
+  },
+  {
+   "id": "LA-H429-A236",
+   "no": 236,
+   "noLabel": {
+    "en": "9. Prohibit the use of addictive substances or drink, or any mind altering substances in or"
+   },
+   "text": {
+    "en": "9. Prohibit the use of addictive substances or drink, or any mind altering substances in or\naround the workplace;\n10.Hold training on basic health and safety knowledge, pro tection from occupational\ndiseases, namely HIV, for the employees at least once per year;\n11.Appoint employees responsible for labor health and safety;\n12.Other obligations as determined by law;\nArticle 120 (New) Obligations of the Employee\nThe employee must strictly comply with the health and safety regulations of the labor unit.\nThe employee must participate in health and safety activities held by the employer or\norganization.\n\nUnofficial translation of Labor Law, update on 13 October 2014 32\nIf the employee notices or believes there to b e any hazard to safety or health in the\nworkplace, the employee must notify the party responsible for health and safety or the head of the\nlabor unit as soon as possible.\nAfter informing the employer about dangers in the workplace, if the employer does not\npay attention or resolve the issue, the employee must inform the Labor Administration Agency or\nthe government unit responsible for health and safety, or other relevant organization.\nArticle121 (New) Obligations of Designers, Producers, Importers, Suppliers and Installers\nDesigners, producers, importers, suppliers or deliverers , and those installing machinery,\nequipment or materials, must ensure health and safety as follows:"
+   }
+  },
+  {
+   "id": "LA-H429-A237",
+   "no": 237,
+   "noLabel": {
+    "en": "1. Ensure machinery, equipment or materials are used correctly and pose no danger to"
+   },
+   "text": {
+    "en": "1. Ensure machinery, equipment or materials are used correctly and pose no danger to\nthe health and safety of the user;"
+   }
+  },
+  {
+   "id": "LA-H429-A238",
+   "no": 238,
+   "noLabel": {
+    "en": "2. Recommend methods for installation and use of machinery , equipment and other"
+   },
+   "text": {
+    "en": "2. Recommend methods for installation and use of machinery , equipment and other\nmaterials, provide information regarding the dangers of machinery, equipment and\nchemicals that may be used, and recommend protection methods;"
+   }
+  },
+  {
+   "id": "LA-H429-A239",
+   "no": 239,
+   "noLabel": {
+    "en": "3. Research or provide training in scientific and new knowledge that is consistent with"
+   },
+   "text": {
+    "en": "3. Research or provide training in scientific and new knowledge that is consistent with\nthe two paragraphs above.\nArticle 122 (New) Risk Assessment and Creation of Internal Regulations\nThe employer must inspect and assess risks to safety and health within the labor unit and\nworkplace regularly and report the results of the risk assessment to the Labor Inspection Agency\nat least once per year. The risk assessment can be undertaken by the employer, labor inspection\nofficials or labor health and safety service organizations authorized by t he Labor Administration\nAgency.\nThe employer must create internal regulations consistent with relevant law s and\nsuccessfully complete consultation with trade unions or employee representatives or the majority\nof employees within the labor unit.\nArticle 123 (New) Officials and Responsible Unit on the Labor Health and Safety in a Labor\nUnit\nEconomic labor units with one hundred or less employees must have at least one\nemployee responsible for labor health and safety.\nLabor units or workplaces working in t he areas of construction and mining must h ave at\nleast one employee responsible for labor health and safety.\nLabor units with over one hundred employees must appoint a unit and in case of necessity,\na safety and health board responsible for labor health and safety shall be established.\nEmployees responsible for labor health and safety must have the knowledge or have\nundergone training, or have a degree or certification from an institute or organization in regard to\nlabor health and safety recognized by the Labor Administration Agency.\nArticle 124 (New) Medical Staff in Labor Units\nLabor units located in the suburbs or remote areas that have fifty or more employees must\nhave a medical practitioner attached to the labor unit.\nLabor units with less than fifty employees must maintain a medicine cabinet and have one\nemployee as primary nurse.\n\nUnofficial translation of Labor Law, update on 13 October 2014 33\nArticle 125 (New) Recording and Reporting of Workplace Accidents\nWhenever an accident occurs within a labor unit that causes the employees to take time\noff work for fo ur or more days, the employer must record the cause of the accident in detail and\nreport it to the Labor Administration Agency.\nWhenever a workplace accident or occupational disease causes injury to an employee,\nmajor injury or death, the employer must re port the incident to the Labor Administration Agency\nwithin three days.\nArticle 126 (New) Medical Examination of Employees\nThe employer must facilitate medical examinations of employees at least once per year.\nEmployees who work in dangerous areas or wo rk at night must undergo medical examinations at\nleast twice per year.\nChapter 2\nLabor Accidents and Occupational Diseases\nArticle 127 (Revised) Labor Accidents and Occupational Diseases\nA labor accident is an accident that occurs when the employee i s working inside or\noutside the workplace, at a temporary resting place during work hours , or when traveling to or\nfrom work.\nAn accident that occurs during the time a worker performs tasks that are not assigned by\nthe employer or its representative , or occurring after completion of the assigned work, shall not\nbe considered a labor accident.\nOccupational disease is any disease occurring as the result of an occupation. The various\ntypes of occupational diseases are determined by specific regulations.\nArticle 128 (New) Treatment of the Victims of Labor Accidents and Occupational Diseases\nIf an employee is injured as a result of a labor accident or occupational disease, the\nemployer or social insurance implementation agency must take responsibility for the c ost of\ntreatment as determined in the Law on Social Insurance.\nFor the course of the treatment and rehabilitation, the employee has the right to receive\ntheir normal salary or wages from the employer, but for no longer than six months . If the limit is\nreached, the employer or social insurance implementation agency will cover the cost in\naccordance with the Law on Social Insurance.\nIn cases where the employee dies from a labor accident or occupational disease, the\nemployer or social insurance implementatio n agency must take responsibility for the funeral and\nremuneration as determined in the Law on Social Insurance.\nIf a worker dies while assign ed to another workplace by the employer , the cost of\ntransferring his body or remains to his family shall also be borne by the employer.\nIn cases where the employee loses a limb or organ due to accident or occupational dis ease,\nthe employer or the social insurance implementation agency must take responsibility to pay\nremuneration as determined in the Law on Social Insurance.\n\nUnofficial translation of Labor Law, update on 13 October 2014 34\nArticle 129 (Revised) Salaries or Wages and Allowance for the Death of Employees Outside of\nLabor Accidents of Occupational Diseases\nEmployees who are victims of accidents or disease outside of labor accidents and\noccupational diseases and take leave for treatment and rehabilitation over consecutive days for\nlonger than one month, and who possess medical certification, have the right to receive salary and\nwages for one month or thirty days per one year from the employer. Should treatment continue,\nthe employee will receive a subsidy for sickness from the employer or social insurance\nimplementation agency as determined in the Law on Social Security\nIf the employee dies, the employer or social insurance implementation agency must pay a\nonce-off remuneration to the family or successor of the employee as determined in the Law on\nSocial Insurance.\nSection IX\nMigrant Labor\nArticle 130 Types of Migrant Labor\nThere are three types of migrant labor as follows:"
+   }
+  },
+  {
+   "id": "LA-H429-A240",
+   "no": 240,
+   "noLabel": {
+    "en": "1. Migrant labor within the country;"
+   },
+   "text": {
+    "en": "1. Migrant labor within the country;"
+   }
+  },
+  {
+   "id": "LA-H429-A241",
+   "no": 241,
+   "noLabel": {
+    "en": "2. Migrant labor exiting of the country;"
+   },
+   "text": {
+    "en": "2. Migrant labor exiting of the country;"
+   }
+  },
+  {
+   "id": "LA-H429-A242",
+   "no": 242,
+   "noLabel": {
+    "en": "3. Migrant labor entering the country."
+   },
+   "text": {
+    "en": "3. Migrant labor entering the country.\nArticle 131 Migrant Labor within the Country\nMigrant labor within the country is Lao labor that migrates from its own locality and\nenters another district or province in order to seek legal employment.\nMigrant labor within the country receives full protection and benefits and must comply\nwith the law.\nArticle 132 Migrant Labor Exiting the Country\nMigrant labor exiting the country is Lao labor that migrates out of the country into\nanother country in order to seek employment.\nThe rights and obligations of migrant labor exiting the country are in accordance with the\nemployment contract and the rules of the relevant country.\nArticle 133 Migrant Labor Entering the Country\nMigrant labor entering the country is foreign labor that migrates into the country in order\nto work according to an employment contract;\nThe rights and obligations of migrant labor entering the country should be in accordance\nwith an employment contract, Article 69 of this law, and other relevant laws of the Lao PDR.\nArticle 134 Obligations when Accepting and Delivering Migrant Labor\nObligations in relation to accepting and delivering migrant labor are as follows:"
+   }
+  },
+  {
+   "id": "LA-H429-A243",
+   "no": 243,
+   "noLabel": {
+    "en": "1. Comply with the contract between countries;"
+   },
+   "text": {
+    "en": "1. Comply with the contract between countries;"
+   }
+  },
+  {
+   "id": "LA-H429-A244",
+   "no": 244,
+   "noLabel": {
+    "en": "2. Ensure safety during the movement of labor;"
+   },
+   "text": {
+    "en": "2. Ensure safety during the movement of labor;"
+   }
+  },
+  {
+   "id": "LA-H429-A245",
+   "no": 245,
+   "noLabel": {
+    "en": "3. Create conditions wherein the employee and members of their family can access"
+   },
+   "text": {
+    "en": "3. Create conditions wherein the employee and members of their family can access\ninformation, education, healthcare and social insurance;\n\nUnofficial translation of Labor Law, update on 13 October 2014 35"
+   }
+  },
+  {
+   "id": "LA-H429-A246",
+   "no": 246,
+   "noLabel": {
+    "en": "4. Ensure the employee receives training, skills training and certification of expertise;"
+   },
+   "text": {
+    "en": "4. Ensure the employee receives training, skills training and certification of expertise;"
+   }
+  },
+  {
+   "id": "LA-H429-A247",
+   "no": 247,
+   "noLabel": {
+    "en": "5. Ensure the employee is repatriated or returned to their home country after expiration"
+   },
+   "text": {
+    "en": "5. Ensure the employee is repatriated or returned to their home country after expiration\nof the employment contract.\nArticle 135 Measures on Migrant Labor without Documentation\nMigrant labor without documentation in accordance with Article 130 of this law should be\ndealt with according to measures determined by the relevant laws.\nSeasonal migrant labor must resettle in ac cordance with the Law on Family Registration\nand other relevant laws and regulations.\nSection X\nLabor Fund\nArticle 136 Labor Fund\nA labor fund is a fund created to serve the creation and development of labor skills, assist\nLao employees working abroad, and assist foreign employees working in the Lao PDR.\nArticle 137 (Revised) Sources for the Labor Fund\nThe labor fund is sourced from:"
+   }
+  },
+  {
+   "id": "LA-H429-A248",
+   "no": 248,
+   "noLabel": {
+    "en": "1. One percent (1%) of employees from tax amount of income or wage of employees"
+   },
+   "text": {
+    "en": "1. One percent (1%) of employees from tax amount of income or wage of employees\nwhich is transferred by the Ministry of Finance to the fund"
+   }
+  },
+  {
+   "id": "LA-H429-A249",
+   "no": 249,
+   "noLabel": {
+    "en": "2. One percent (1%) of salary or wages of employees without deducting from the salary"
+   },
+   "text": {
+    "en": "2. One percent (1%) of salary or wages of employees without deducting from the salary\nor wages from the employee but deducting from the fund of the labor unit directly"
+   }
+  },
+  {
+   "id": "LA-H429-A250",
+   "no": 250,
+   "noLabel": {
+    "en": "3. Employees working abroad equal to five percent (5%) of one month's salar y or wages"
+   },
+   "text": {
+    "en": "3. Employees working abroad equal to five percent (5%) of one month's salar y or wages\nin accordance with the employment contract;"
+   }
+  },
+  {
+   "id": "LA-H429-A251",
+   "no": 251,
+   "noLabel": {
+    "en": "4. Those who import foreign labor to work in the Lao PDR equal to fifteen percent (15%)"
+   },
+   "text": {
+    "en": "4. Those who import foreign labor to work in the Lao PDR equal to fifteen percent (15%)\nof registration fees for issuing work permits for one person per month;"
+   }
+  },
+  {
+   "id": "LA-H429-A252",
+   "no": 252,
+   "noLabel": {
+    "en": "5. Contributions by individuals, legal entitie s, international organizations, both domestic"
+   },
+   "text": {
+    "en": "5. Contributions by individuals, legal entitie s, international organizations, both domestic\nand foreign, mass organizations and social organizations;"
+   }
+  },
+  {
+   "id": "LA-H429-A253",
+   "no": 253,
+   "noLabel": {
+    "en": "6. Benefits derived from the fund and from other activities."
+   },
+   "text": {
+    "en": "6. Benefits derived from the fund and from other activities.\nArticle 138 Administration and Use of Funds\nAdministration and use of the labor fund must be carried out transparently and can be\naudited according to its objectives in accordance with Article 3 136 of this law, the Law on State\nBudget and other relevant laws, details are determined by specific legislation.\n\nUnofficial translation of Labor Law, update on 13 October 2014 36\nSection XI\nInformation on Labor\nArticle 139 (New) Provision of Labor Information\nThe Labor Administration Agency, l abor unit, and other relevant sectors have the duty of\nthe mutual provision of information on labor.\nLabor units must re port information on labor to the Labor Administration Agency as\nnormal.\nThe Labor Administration Agency and the labor unit must supply information on l abor to\nthe employee.\nArticle 140 Information on the Labor Market\nInformation on the labor market is information regarding the demand and supply of labor,\nincluding the status of employees, from the following sources:"
+   }
+  },
+  {
+   "id": "LA-H429-A254",
+   "no": 254,
+   "noLabel": {
+    "en": "1. Reports from recruitment networks;"
+   },
+   "text": {
+    "en": "1. Reports from recruitment networks;"
+   }
+  },
+  {
+   "id": "LA-H429-A255",
+   "no": 255,
+   "noLabel": {
+    "en": "2. Demand according to the plan of sectors, labor units, and domestic or foreign projects;"
+   },
+   "text": {
+    "en": "2. Demand according to the plan of sectors, labor units, and domestic or foreign projects;"
+   }
+  },
+  {
+   "id": "LA-H429-A256",
+   "no": 256,
+   "noLabel": {
+    "en": "3. Surveys on labor;"
+   },
+   "text": {
+    "en": "3. Surveys on labor;"
+   }
+  },
+  {
+   "id": "LA-H429-A257",
+   "no": 257,
+   "noLabel": {
+    "en": "4. Census information;"
+   },
+   "text": {
+    "en": "4. Census information;"
+   }
+  },
+  {
+   "id": "LA-H429-A258",
+   "no": 258,
+   "noLabel": {
+    "en": "5. The databases of relevant sectors;"
+   },
+   "text": {
+    "en": "5. The databases of relevant sectors;"
+   }
+  },
+  {
+   "id": "LA-H429-A259",
+   "no": 259,
+   "noLabel": {
+    "en": "6. Other sources."
+   },
+   "text": {
+    "en": "6. Other sources.\nArticle 141 (Revised) Information on Labor Protection\nLabor units must report and provide information on labor prot ection to the Labor\nAdministration Agency every three months.\nInformation on labor administration includes the following:"
+   }
+  },
+  {
+   "id": "LA-H429-A260",
+   "no": 260,
+   "noLabel": {
+    "en": "1. The numbers of Lao and foreign employees categorized by field and gender;"
+   },
+   "text": {
+    "en": "1. The numbers of Lao and foreign employees categorized by field and gender;"
+   }
+  },
+  {
+   "id": "LA-H429-A261",
+   "no": 261,
+   "noLabel": {
+    "en": "2. The numbers of employees under the age of eighteen years categorized by field and"
+   },
+   "text": {
+    "en": "2. The numbers of employees under the age of eighteen years categorized by field and\ngender;"
+   }
+  },
+  {
+   "id": "LA-H429-A262",
+   "no": 262,
+   "noLabel": {
+    "en": "3. The lowest salary or wages, the highest, and the average salary or wages of employees"
+   },
+   "text": {
+    "en": "3. The lowest salary or wages, the highest, and the average salary or wages of employees\nin the labor unit;"
+   }
+  },
+  {
+   "id": "LA-H429-A263",
+   "no": 263,
+   "noLabel": {
+    "en": "4. The number of employees that have fallen victim to accidents or occupational diseases"
+   },
+   "text": {
+    "en": "4. The number of employees that have fallen victim to accidents or occupational diseases\ncategorized by field and gender;"
+   }
+  },
+  {
+   "id": "LA-H429-A264",
+   "no": 264,
+   "noLabel": {
+    "en": "5. Employees receiving disciplinary action or cancellation of employment contracts;"
+   },
+   "text": {
+    "en": "5. Employees receiving disciplinary action or cancellation of employment contracts;"
+   }
+  },
+  {
+   "id": "LA-H429-A265",
+   "no": 265,
+   "noLabel": {
+    "en": "6. The number of new employees;"
+   },
+   "text": {
+    "en": "6. The number of new employees;"
+   }
+  },
+  {
+   "id": "LA-H429-A266",
+   "no": 266,
+   "noLabel": {
+    "en": "7. Workplace disputes;"
+   },
+   "text": {
+    "en": "7. Workplace disputes;"
+   }
+  },
+  {
+   "id": "LA-H429-A267",
+   "no": 267,
+   "noLabel": {
+    "en": "8. Other information."
+   },
+   "text": {
+    "en": "8. Other information.\nArticle 142 (New) Survey and Registration of Labor\nThe Labor Administration Agency, together with other relevant sectors, has the duty to\nsurvey and register labor for administration and use.\nSurveys shall be as follows:"
+   }
+  },
+  {
+   "id": "LA-H429-A268",
+   "no": 268,
+   "noLabel": {
+    "en": "1. Surveys of the workforce;"
+   },
+   "text": {
+    "en": "1. Surveys of the workforce;"
+   }
+  },
+  {
+   "id": "LA-H429-A269",
+   "no": 269,
+   "noLabel": {
+    "en": "2. Surveys of labor units."
+   },
+   "text": {
+    "en": "2. Surveys of labor units.\n\nUnofficial translation of Labor Law, update on 13 October 2014 37\nRegistration shall be as follows:"
+   }
+  },
+  {
+   "id": "LA-H429-A270",
+   "no": 270,
+   "noLabel": {
+    "en": "1. Registration of Lao employees working within the country;"
+   },
+   "text": {
+    "en": "1. Registration of Lao employees working within the country;"
+   }
+  },
+  {
+   "id": "LA-H429-A271",
+   "no": 271,
+   "noLabel": {
+    "en": "2. Registration of Lao employees working abroad;"
+   },
+   "text": {
+    "en": "2. Registration of Lao employees working abroad;"
+   }
+  },
+  {
+   "id": "LA-H429-A272",
+   "no": 272,
+   "noLabel": {
+    "en": "3. Registration of labor units with trade unions or employee representatives;"
+   },
+   "text": {
+    "en": "3. Registration of labor units with trade unions or employee representatives;"
+   }
+  },
+  {
+   "id": "LA-H429-A273",
+   "no": 273,
+   "noLabel": {
+    "en": "4. Registration of labor units with trade unions and collective employment contracts ;"
+   },
+   "text": {
+    "en": "4. Registration of labor units with trade unions and collective employment contracts ;\nregistration of foreign employees working in the Lao PDR.\nSection XII\nProhibitions\nArticle 141 Prohibitions for Employers\nThe employer is prohibited from the following actions:"
+   }
+  },
+  {
+   "id": "LA-H429-A274",
+   "no": 274,
+   "noLabel": {
+    "en": "1. Cancelling an employment contract without authorization from the Labor"
+   },
+   "text": {
+    "en": "1. Cancelling an employment contract without authorization from the Labor\nAdministration Agency as determined in Article 87 of this law;"
+   }
+  },
+  {
+   "id": "LA-H429-A275",
+   "no": 275,
+   "noLabel": {
+    "en": "2. Obstructing employment or using di rect or indirect force to make a n employee stop"
+   },
+   "text": {
+    "en": "2. Obstructing employment or using di rect or indirect force to make a n employee stop\nwork due to marital status, gender discrimination, or infection of HIV;"
+   }
+  },
+  {
+   "id": "LA-H429-A276",
+   "no": 276,
+   "noLabel": {
+    "en": "3. Using forced labor of any kind, whether directly or indirectly;"
+   },
+   "text": {
+    "en": "3. Using forced labor of any kind, whether directly or indirectly;"
+   }
+  },
+  {
+   "id": "LA-H429-A277",
+   "no": 277,
+   "noLabel": {
+    "en": "4. Violating the personal rights of employees, especially female employees, through"
+   },
+   "text": {
+    "en": "4. Violating the personal rights of employees, especially female employees, through\nspeech, sight, text, touch or touching inappropriate areas;"
+   }
+  },
+  {
+   "id": "LA-H429-A278",
+   "no": 278,
+   "noLabel": {
+    "en": "5. Employing persons under the age of twelve years;"
+   },
+   "text": {
+    "en": "5. Employing persons under the age of twelve years;"
+   }
+  },
+  {
+   "id": "LA-H429-A279",
+   "no": 279,
+   "noLabel": {
+    "en": "6. Using employees for two shifts within one day;"
+   },
+   "text": {
+    "en": "6. Using employees for two shifts within one day;"
+   }
+  },
+  {
+   "id": "LA-H429-A280",
+   "no": 280,
+   "noLabel": {
+    "en": "7. Concealing labor accidents or disputes with workers;"
+   },
+   "text": {
+    "en": "7. Concealing labor accidents or disputes with workers;"
+   }
+  },
+  {
+   "id": "LA-H429-A281",
+   "no": 281,
+   "noLabel": {
+    "en": "8. Handing over, transferring or moving foreign labor to work in other locations not"
+   },
+   "text": {
+    "en": "8. Handing over, transferring or moving foreign labor to work in other locations not\nsubject to its labor unit and without authorization from the Labor Administration\nAgency;"
+   }
+  },
+  {
+   "id": "LA-H429-A282",
+   "no": 282,
+   "noLabel": {
+    "en": "9. Direct or indirect discrimination toward employees within the labor unit;"
+   },
+   "text": {
+    "en": "9. Direct or indirect discrimination toward employees within the labor unit;\n10.Any other actions which are in violation of the law.\nArticle 144 Prohibitions for Employees\nThe employer is prohibited from the following actions:"
+   }
+  },
+  {
+   "id": "LA-H429-A283",
+   "no": 283,
+   "noLabel": {
+    "en": "1. Dereliction of duty or cessation of work without reasonable cause;"
+   },
+   "text": {
+    "en": "1. Dereliction of duty or cessation of work without reasonable cause;"
+   }
+  },
+  {
+   "id": "LA-H429-A284",
+   "no": 284,
+   "noLabel": {
+    "en": "2. Violating the employment contract and internal regulations of the labor unit;"
+   },
+   "text": {
+    "en": "2. Violating the employment contract and internal regulations of the labor unit;"
+   }
+  },
+  {
+   "id": "LA-H429-A285",
+   "no": 285,
+   "noLabel": {
+    "en": "3. Violating the personal rights of others within the labor unit;"
+   },
+   "text": {
+    "en": "3. Violating the personal rights of others within the labor unit;"
+   }
+  },
+  {
+   "id": "LA-H429-A286",
+   "no": 286,
+   "noLabel": {
+    "en": "4. Any other actions which are in violation of the law."
+   },
+   "text": {
+    "en": "4. Any other actions which are in violation of the law.\nArticle 145 Prohibitions for Labor Inspection Officials\nLabor inspection officials are prohibited from the following actions:"
+   }
+  },
+  {
+   "id": "LA-H429-A287",
+   "no": 287,
+   "noLabel": {
+    "en": "1. Abuse of authority or excessive use of power;"
+   },
+   "text": {
+    "en": "1. Abuse of authority or excessive use of power;"
+   }
+  },
+  {
+   "id": "LA-H429-A288",
+   "no": 288,
+   "noLabel": {
+    "en": "2. Concealing, hiding, impeding or falsifying documentation;"
+   },
+   "text": {
+    "en": "2. Concealing, hiding, impeding or falsifying documentation;"
+   }
+  },
+  {
+   "id": "LA-H429-A289",
+   "no": 289,
+   "noLabel": {
+    "en": "3. Receiving, claiming, agreeing to or giving bribes;"
+   },
+   "text": {
+    "en": "3. Receiving, claiming, agreeing to or giving bribes;"
+   }
+  },
+  {
+   "id": "LA-H429-A290",
+   "no": 290,
+   "noLabel": {
+    "en": "4. Concealing labor accidents or labor disputes;"
+   },
+   "text": {
+    "en": "4. Concealing labor accidents or labor disputes;\n\nUnofficial translation of Labor Law, update on 13 October 2014 38"
+   }
+  },
+  {
+   "id": "LA-H429-A291",
+   "no": 291,
+   "noLabel": {
+    "en": "5. Revealing a labor unit's business secrets;"
+   },
+   "text": {
+    "en": "5. Revealing a labor unit's business secrets;"
+   }
+  },
+  {
+   "id": "LA-H429-A292",
+   "no": 292,
+   "noLabel": {
+    "en": "6. Allowing another party to use a labor inspection card or uniform;"
+   },
+   "text": {
+    "en": "6. Allowing another party to use a labor inspection card or uniform;"
+   }
+  },
+  {
+   "id": "LA-H429-A293",
+   "no": 293,
+   "noLabel": {
+    "en": "7. Any other actions in violation of the law."
+   },
+   "text": {
+    "en": "7. Any other actions in violation of the law.\nArticle 146 Prohibitions for Other Individuals or Organizations\nOther individuals or organizations are prohibited from the following actions:"
+   }
+  },
+  {
+   "id": "LA-H429-A294",
+   "no": 294,
+   "noLabel": {
+    "en": "1. Using individuals or groups within an organization for their own private benefit or"
+   },
+   "text": {
+    "en": "1. Using individuals or groups within an organization for their own private benefit or\nthat of their family or party;"
+   }
+  },
+  {
+   "id": "LA-H429-A295",
+   "no": 295,
+   "noLabel": {
+    "en": "2. Providing recruitment services either domestically or abroad without prior"
+   },
+   "text": {
+    "en": "2. Providing recruitment services either domestically or abroad without prior\nauthorization;"
+   }
+  },
+  {
+   "id": "LA-H429-A296",
+   "no": 296,
+   "noLabel": {
+    "en": "3. Any other actions in violation of the law."
+   },
+   "text": {
+    "en": "3. Any other actions in violation of the law.\nSection XIII\nResolution of Labor Disputes\nArticle 147 Types of Labor Disputes\nLabor disputes aris e when an employer and its employees cannot reach consensus on a\nlabor issue.\nLabor disputes are divided into two types as follows:"
+   }
+  },
+  {
+   "id": "LA-H429-A297",
+   "no": 297,
+   "noLabel": {
+    "en": "1. Disputes concerning the implementation of the Labor Law, internal regulations of the"
+   },
+   "text": {
+    "en": "1. Disputes concerning the implementation of the Labor Law, internal regulations of the\nlabor unit, labor regulations, employment contracts, or other legislation relating to\nlabor;"
+   }
+  },
+  {
+   "id": "LA-H429-A298",
+   "no": 298,
+   "noLabel": {
+    "en": "2. Disputes relating to benefits, which refers to disputes relating to claims by employees"
+   },
+   "text": {
+    "en": "2. Disputes relating to benefits, which refers to disputes relating to claims by employees\nfor new rights and benefits which they request their employer to resolve.\nArticle 148 (New) Forms of Labor Dispute Resolution\nResolution of labor disputes will be undertaken according to the following methods:\n Compromise;\n Administrative resolutions;\n Resolution by the committee for labor dispute resolution;\n Court rulings;\n Dispute resolution consistent with international protocols.\nArticle 149 (New) Compromise\nCompromise is the resolution of disputes according to the law and disputes in relation to\nbenefits at the same labor unit level through consultation, negotiation and compromise by\npeaceful means between the employer and the employee.\nWhen coming to a compromise, there shall be participation on the part of the trade union\nor employee representative of the labor unit. The results of the resolution must be recorded in\nwriting and include the signatures or thumbprints of those involved.\n\nUnofficial translation of Labor Law, update on 13 October 2014 39\nArticle 150 (New) Administrative Resolutions\nAdministrative resolutions are dispute resolutions according to the law and disputes in\nrelation to benefits by the Labor Administration Agency.\nArticle 151 (New) Resolution by the Committee for Labor Dispute Resolution\nResolution by the Committee for Labor Dispute Resolution is the resolution of disputes in\nrelation to benefits.\nWhen the Committee for Labor Dispute Resolution receives a claim from either p arty or\nboth parties, the committee must undertake resolution according to its role, rights and duties and\nin accordance with the law.\nArticle 152 (New) Court Rulings\nIn cases of labor disputes, either party may appeal to the pe ople's court or labor c ourt for\nconsideration and ruling in accordance with the law.\nArticle 153 (New) Dispute Resolution with International Characteristics\nResolution of labor disputes with international characteristics can be brought before the\nLabor Administration Agency, the Committee for Resolution of Labor Disputes, or in accordance\nwith conventions or international agreements to which the Lao PDR is a party.\nArticle 154 Prohibition of Work Stoppage During Disputes\nIn cases where a labor dispute is still in the proce ss of resolution as stated in Article 148\nof this law , the employee must continue work as normal and the employer must make the\nworkplace available , except in very serious cases or in the event that a tripartite organization\nagrees to a work stoppage to avoid damage that may occur.\nIn case labor dispute cannot be resolved, strike could be organized based on law and\nregulations.\nSection XIV\nTripartite Organization\nChapter 1\nThe Labor Administration Agency\nArticle 155 Labor Administration Agency\nThe gove rnment is the central body that manages labor uniform ly across the nation by\nappointing the Ministry of Labor and Social Welfare as the body directly responsible for\ncoordinating such management with relevant local sectors and authorities.\nThe Labor Administration Agency is comprised of:\n The Ministry of Labor and Social Welfare;\n The labor and social welfare division of each province and city;\n The labor and social welfare office in each district and municipality;\n Labor Units and Social Welfare at the village level.\n\n\nUnofficial translation of Labor Law, update on 13 October 2014 40\nArticle 156 Rights and Duties of the Ministry of Labor and Social Welfare\nThe Ministry of Labor and Social Welfare has the following rights and duties relating to\nlabor activities:"
+   }
+  },
+  {
+   "id": "LA-H429-A299",
+   "no": 299,
+   "noLabel": {
+    "en": "1. To research and draw up strategic plans, laws and regulations on the building and"
+   },
+   "text": {
+    "en": "1. To research and draw up strategic plans, laws and regulations on the building and\ndevelopment of labor skills, job placement, and administration of labor, and to submit\nproposals to the government for consideration and approval;"
+   }
+  },
+  {
+   "id": "LA-H429-A300",
+   "no": 300,
+   "noLabel": {
+    "en": "2. To disseminate, monitor, s upervise and inspect the implementation of strategic plans,"
+   },
+   "text": {
+    "en": "2. To disseminate, monitor, s upervise and inspect the implementation of strategic plans,\nthe labor Law, and other regulations on labor;"
+   }
+  },
+  {
+   "id": "LA-H429-A301",
+   "no": 301,
+   "noLabel": {
+    "en": "3. To supervise, monitor, establish labor skills standards, evaluate, and c ertify"
+   },
+   "text": {
+    "en": "3. To supervise, monitor, establish labor skills standards, evaluate, and c ertify\ncompetitive labor skills;"
+   }
+  },
+  {
+   "id": "LA-H429-A302",
+   "no": 302,
+   "noLabel": {
+    "en": "4. To research, consider, approve or cancel the establishment of recruitment service"
+   },
+   "text": {
+    "en": "4. To research, consider, approve or cancel the establishment of recruitment service\nnetworks, labor skills development centers, and protect labor;"
+   }
+  },
+  {
+   "id": "LA-H429-A303",
+   "no": 303,
+   "noLabel": {
+    "en": "5. To establish and conduct scientific research on labor, statistics and information, the"
+   },
+   "text": {
+    "en": "5. To establish and conduct scientific research on labor, statistics and information, the\nlabor market and others;"
+   }
+  },
+  {
+   "id": "LA-H429-A304",
+   "no": 304,
+   "noLabel": {
+    "en": "6. To collaborate with other sectors and o rganizations in developing labor skills, job"
+   },
+   "text": {
+    "en": "6. To collaborate with other sectors and o rganizations in developing labor skills, job\nplacement and labor protection;"
+   }
+  },
+  {
+   "id": "LA-H429-A305",
+   "no": 305,
+   "noLabel": {
+    "en": "7. To research a quota for approval, importation, registration and issuance of work"
+   },
+   "text": {
+    "en": "7. To research a quota for approval, importation, registration and issuance of work\npermit cards to foreign employees"
+   }
+  },
+  {
+   "id": "LA-H429-A306",
+   "no": 306,
+   "noLabel": {
+    "en": "8. To administer Lao workers working within the country and abroad , and foreign"
+   },
+   "text": {
+    "en": "8. To administer Lao workers working within the country and abroad , and foreign\nworkers working in the Lao PDR, in collaboration with other sectors at central and\nlocal levels;"
+   }
+  },
+  {
+   "id": "LA-H429-A307",
+   "no": 307,
+   "noLabel": {
+    "en": "9. Monitor, asses and certify labor standards for labor units;"
+   },
+   "text": {
+    "en": "9. Monitor, asses and certify labor standards for labor units;\n10.Administer the use of labor funds in accordance with the law;\n11.Guidance and mediation of labor disputes;\n12.Create a database on labor;\n13.Cooperation with foreign countries, regional or international (countries) in relation to\nlabor affairs;\n14.Summarize and report the results of implementation of labor works to the government\nroutinely;\n15.Implement other rights and responsibilities as determined by the law.\nArticle 157 Rights and Duties of the Labor and Social Welfare Division of Each Province and\nCity\nThe labor and social welfare division of each province or city has the following rights and\nduties relating to labor:"
+   }
+  },
+  {
+   "id": "LA-H429-A308",
+   "no": 308,
+   "noLabel": {
+    "en": "1. To elaborate on the strategic plan and the development plan on labor;"
+   },
+   "text": {
+    "en": "1. To elaborate on the strategic plan and the development plan on labor;"
+   }
+  },
+  {
+   "id": "LA-H429-A309",
+   "no": 309,
+   "noLabel": {
+    "en": "2. Disseminate, evaluate, and give guidance on the implementation of the law on labor"
+   },
+   "text": {
+    "en": "2. Disseminate, evaluate, and give guidance on the implementation of the law on labor\nwithin the area of its responsibility;"
+   }
+  },
+  {
+   "id": "LA-H429-A310",
+   "no": 310,
+   "noLabel": {
+    "en": "3. To collaborate with other divisions and organizations in labor skills development, job"
+   },
+   "text": {
+    "en": "3. To collaborate with other divisions and organizations in labor skills development, job\nplacement and labor protection;"
+   }
+  },
+  {
+   "id": "LA-H429-A311",
+   "no": 311,
+   "noLabel": {
+    "en": "4. Administer Lao labor working domestically and abroad, and foreign workers working"
+   },
+   "text": {
+    "en": "4. Administer Lao labor working domestically and abroad, and foreign workers working\nin the Lao PDR, in collaboration with other relevant sectors;"
+   }
+  },
+  {
+   "id": "LA-H429-A312",
+   "no": 312,
+   "noLabel": {
+    "en": "5. Administer and use labor funds in accordance with the law;"
+   },
+   "text": {
+    "en": "5. Administer and use labor funds in accordance with the law;\n\nUnofficial translation of Labor Law, update on 13 October 2014 41"
+   }
+  },
+  {
+   "id": "LA-H429-A313",
+   "no": 313,
+   "noLabel": {
+    "en": "6. Mediate labor disputes according to its role and responsibilities;"
+   },
+   "text": {
+    "en": "6. Mediate labor disputes according to its role and responsibilities;"
+   }
+  },
+  {
+   "id": "LA-H429-A314",
+   "no": 314,
+   "noLabel": {
+    "en": "7. To research, approve or cancel the establishment of recruitment service networks and"
+   },
+   "text": {
+    "en": "7. To research, approve or cancel the establishment of recruitment service networks and\nlabor skills development centers, and make recommendations for the Ministry of\nLabor and Social Welfare;"
+   }
+  },
+  {
+   "id": "LA-H429-A315",
+   "no": 315,
+   "noLabel": {
+    "en": "8. To approve importation, registration, issuance of work permit cards to foreign"
+   },
+   "text": {
+    "en": "8. To approve importation, registration, issuance of work permit cards to foreign\nemployees"
+   }
+  },
+  {
+   "id": "LA-H429-A316",
+   "no": 316,
+   "noLabel": {
+    "en": "9. Supervise, evaluate and administer the activities of recruitment services networks and"
+   },
+   "text": {
+    "en": "9. Supervise, evaluate and administer the activities of recruitment services networks and\nlabor skills development centers, which have been est ablished within its\nresponsibility;\n10.Monitor and collect information on labor and the labor market;\n11.Cooperate with foreign countries on labor affairs as directed from higher authorities;\n12.Summarize and report on labor affairs to the higher authorities routinely;\n13.Implement other rights and responsibilities in accordance with the law.\nArticle 158 Rights and Duties of the Labor and Social Welfare Office of Each District and\nMunicipality\nThe Labor and Social Welfare Office of each district or municipality has the following\nrights and duties relating to labor:"
+   }
+  },
+  {
+   "id": "LA-H429-A317",
+   "no": 317,
+   "noLabel": {
+    "en": "1. To disseminate, monitor, and inspect the implementation of laws and regulations on"
+   },
+   "text": {
+    "en": "1. To disseminate, monitor, and inspect the implementation of laws and regulations on\nlabor under its responsibility;"
+   }
+  },
+  {
+   "id": "LA-H429-A318",
+   "no": 318,
+   "noLabel": {
+    "en": "2. Coordinate with every office and organization in the development of labor sk ills,"
+   },
+   "text": {
+    "en": "2. Coordinate with every office and organization in the development of labor sk ills,\nrecruitment and protection of labor under its responsibility;"
+   }
+  },
+  {
+   "id": "LA-H429-A319",
+   "no": 319,
+   "noLabel": {
+    "en": "3. Mediate labor disputes according to its role and responsibilities;"
+   },
+   "text": {
+    "en": "3. Mediate labor disputes according to its role and responsibilities;"
+   }
+  },
+  {
+   "id": "LA-H429-A320",
+   "no": 320,
+   "noLabel": {
+    "en": "4. Evaluate and administer the activities of recruitment service networks under its"
+   },
+   "text": {
+    "en": "4. Evaluate and administer the activities of recruitment service networks under its\nresponsibility;"
+   }
+  },
+  {
+   "id": "LA-H429-A321",
+   "no": 321,
+   "noLabel": {
+    "en": "5. Monitor and collect information on labor and the labor market;"
+   },
+   "text": {
+    "en": "5. Monitor and collect information on labor and the labor market;"
+   }
+  },
+  {
+   "id": "LA-H429-A322",
+   "no": 322,
+   "noLabel": {
+    "en": "6. Summarize and report on labor affairs to the higher authorities routinely;"
+   },
+   "text": {
+    "en": "6. Summarize and report on labor affairs to the higher authorities routinely;"
+   }
+  },
+  {
+   "id": "LA-H429-A323",
+   "no": 323,
+   "noLabel": {
+    "en": "7. Implement other rights and responsibilities in accordance with the law."
+   },
+   "text": {
+    "en": "7. Implement other rights and responsibilities in accordance with the law.\nArticle 159 (New) Rights and Duties of the Labor and Social Welfare Office of Each Village\nThe Labor and Social Welfare Office of each village has the following rights and duties\nrelating to labor:"
+   }
+  },
+  {
+   "id": "LA-H429-A324",
+   "no": 324,
+   "noLabel": {
+    "en": "1. Disseminate the law on labor under its responsibility;"
+   },
+   "text": {
+    "en": "1. Disseminate the law on labor under its responsibility;"
+   }
+  },
+  {
+   "id": "LA-H429-A325",
+   "no": 325,
+   "noLabel": {
+    "en": "2. Mediate labor disputes that occur within its village;"
+   },
+   "text": {
+    "en": "2. Mediate labor disputes that occur within its village;"
+   }
+  },
+  {
+   "id": "LA-H429-A326",
+   "no": 326,
+   "noLabel": {
+    "en": "3. Monitor and administer the activities of foreign labor within its village , including Lao"
+   },
+   "text": {
+    "en": "3. Monitor and administer the activities of foreign labor within its village , including Lao\nlabor working abroad;"
+   }
+  },
+  {
+   "id": "LA-H429-A327",
+   "no": 327,
+   "noLabel": {
+    "en": "4. Collect information on labor to report to higher authorities;"
+   },
+   "text": {
+    "en": "4. Collect information on labor to report to higher authorities;"
+   }
+  },
+  {
+   "id": "LA-H429-A328",
+   "no": 328,
+   "noLabel": {
+    "en": "5. Summarize and report on labor affairs to the higher authorities routinely;"
+   },
+   "text": {
+    "en": "5. Summarize and report on labor affairs to the higher authorities routinely;"
+   }
+  },
+  {
+   "id": "LA-H429-A329",
+   "no": 329,
+   "noLabel": {
+    "en": "6. Implement rights and duties in accordance with the law."
+   },
+   "text": {
+    "en": "6. Implement rights and duties in accordance with the law.\nArticle 160 (Revised) Rights and Duties of Other Relevant Sectors\nSectors and administrative agencies at the local level relating to labor have the rights and\nduties to collaborate with the labor and social welfare sector in accordanc e with their roles and\nresponsibilities in the development of labor skills, recruitment and protection of labor, in order to\n\nUnofficial translation of Labor Law, update on 13 October 2014 42\ndevelop labor affairs and contribute to the protection of the rights and legitimate interes ts of\nemployees and employers.\nArticle 161 National Labor Committee\nThe National Labor Committee was established by the government to research policy on\nminimum wage, resolve labor disputes, research the conventions and contracts of international\nlabor organizations, labor health and safety, d evelop labor skills, recruitment, determine\nstandards and measures in relation to labor and others.\nThe National Labor Committee is comprised of representatives from major third party\norganizations, presided over by government, and is provided with a secretariat.\nThe rights and responsibilities of the National Labor Committee and secretariat are\ndetermined by specific legislation.\nChapter 2\nAgencies Representing Employers\nArticle 162 (New) Agencies Representing Employers\nAgencies representing employer s are agents of Lao and foreign employers conducting\nbusiness, production and services in every economic sector within the Lao PDR, and have the\nrole of protecting the rights of employers.\nArticle 163 (New) Rights and Responsibilities of Agencies Representing Employers\nAgencies representing employers have rights and responsibilities as follows:"
+   }
+  },
+  {
+   "id": "LA-H429-A330",
+   "no": 330,
+   "noLabel": {
+    "en": "1. Mobilize, campaign, establish and rally every business unit to mutually assist and"
+   },
+   "text": {
+    "en": "1. Mobilize, campaign, establish and rally every business unit to mutually assist and\nensure business activities are effective, correct and in accordance with the law;"
+   }
+  },
+  {
+   "id": "LA-H429-A331",
+   "no": 331,
+   "noLabel": {
+    "en": "2. Mobilize and encourage employers to comply with legislation, employment contracts,"
+   },
+   "text": {
+    "en": "2. Mobilize and encourage employers to comply with legislation, employment contracts,\nthe social insurance system and other obligations in relation to labor;"
+   }
+  },
+  {
+   "id": "LA-H429-A332",
+   "no": 332,
+   "noLabel": {
+    "en": "3. Encourage employers to create conditions and environments that are safe for"
+   },
+   "text": {
+    "en": "3. Encourage employers to create conditions and environments that are safe for\nemployees;"
+   }
+  },
+  {
+   "id": "LA-H429-A333",
+   "no": 333,
+   "noLabel": {
+    "en": "4. Contribute to the creation and revision of labor law;"
+   },
+   "text": {
+    "en": "4. Contribute to the creation and revision of labor law;"
+   }
+  },
+  {
+   "id": "LA-H429-A334",
+   "no": 334,
+   "noLabel": {
+    "en": "5. Participate in the creation of labor contracts and collective bargaining;"
+   },
+   "text": {
+    "en": "5. Participate in the creation of labor contracts and collective bargaining;"
+   }
+  },
+  {
+   "id": "LA-H429-A335",
+   "no": 335,
+   "noLabel": {
+    "en": "6. Participate in labor dispute resolution in accordance with and under its responsibility;"
+   },
+   "text": {
+    "en": "6. Participate in labor dispute resolution in accordance with and under its responsibility;"
+   }
+  },
+  {
+   "id": "LA-H429-A336",
+   "no": 336,
+   "noLabel": {
+    "en": "7. Encourage labor units to contribute to labor skills development, create labor skills"
+   },
+   "text": {
+    "en": "7. Encourage labor units to contribute to labor skills development, create labor skills\nstandards, run tests, hold training and improve professional levels for employees ,\nincluding accepting employees into its own labor unit."
+   }
+  },
+  {
+   "id": "LA-H429-A337",
+   "no": 337,
+   "noLabel": {
+    "en": "8. Implement other rights and mandates as specified in the law and regulations"
+   },
+   "text": {
+    "en": "8. Implement other rights and mandates as specified in the law and regulations\nChapter 3\nAgencies Representing Employees\nArticle 164 (New) Agencies Representing Employees\nAgencies representing employees are trade unions , with the role of participating in the\nprotection of the rights and benefits of employees that work within a labor unit.\n\nUnofficial translation of Labor Law, update on 13 October 2014 43\nTrade unions can be established within labor units that have been operating for at least six\nmonths or within other branches of work where employees see fit to establish such, at the central,\nprovincial, municipal or district level.\nArticle 165 (New) Rights and Responsibilities of Agencies Representing Employees\nAgencies representing employees have the following rights and responsibilities:"
+   }
+  },
+  {
+   "id": "LA-H429-A338",
+   "no": 338,
+   "noLabel": {
+    "en": "1. Educate, mobilize and encourage employees to comply with laws, employment"
+   },
+   "text": {
+    "en": "1. Educate, mobilize and encourage employees to comply with laws, employment\ncontracts, the social insurance system , the labor unit production plan and other\nobligations in relation to labor;"
+   }
+  },
+  {
+   "id": "LA-H429-A339",
+   "no": 339,
+   "noLabel": {
+    "en": "2. Contribute to the creation and revision of laws in relation to labor;"
+   },
+   "text": {
+    "en": "2. Contribute to the creation and revision of laws in relation to labor;"
+   }
+  },
+  {
+   "id": "LA-H429-A340",
+   "no": 340,
+   "noLabel": {
+    "en": "3. Participate in the creation of labor contracts and collective bargaining;"
+   },
+   "text": {
+    "en": "3. Participate in the creation of labor contracts and collective bargaining;"
+   }
+  },
+  {
+   "id": "LA-H429-A341",
+   "no": 341,
+   "noLabel": {
+    "en": "4. Participate in labor dispute resolution in accordance with and under its responsibility;"
+   },
+   "text": {
+    "en": "4. Participate in labor dispute resolution in accordance with and under its responsibility;"
+   }
+  },
+  {
+   "id": "LA-H429-A342",
+   "no": 342,
+   "noLabel": {
+    "en": "5. Encourage employees to become members of its organization or to establish a"
+   },
+   "text": {
+    "en": "5. Encourage employees to become members of its organization or to establish a\ngrassroots trade union unit.\nArticle 166(New) Employee Representatives\nLabor units comprising ten or more employees must hav e an employee representative or\ntrade union.\nThe employee representative must be an individual appointed by employees for the\nimplementation of duties in place of employees within the labor unit or other professional\nbranches.\nFor labor units that have gr assroots trade union units, it is held that the head of the\ngrassroots trade union unit is the employee representative;\nIn cases where a labor unit has not yet established a grassroots labor trade union, the\nemployees may appoint their own representative. Labor units with ten to fifty employees must\nhave one representative , and for units with fifty-one to one hundred employees, they must have\ntwo representatives with one extra representative for every further one hundred employees.\nArticle 167 (New) Rights and Responsibilities of Employee Representatives\nEmployee representatives have the following rights and responsibilities:"
+   }
+  },
+  {
+   "id": "LA-H429-A343",
+   "no": 343,
+   "noLabel": {
+    "en": "1. Build solidarity, and to educate and mobilize employees to be disciplined in their"
+   },
+   "text": {
+    "en": "1. Build solidarity, and to educate and mobilize employees to be disciplined in their\nprofessional work;"
+   }
+  },
+  {
+   "id": "LA-H429-A344",
+   "no": 344,
+   "noLabel": {
+    "en": "2. Promote and protect the legitimate interests of employees;"
+   },
+   "text": {
+    "en": "2. Promote and protect the legitimate interests of employees;"
+   }
+  },
+  {
+   "id": "LA-H429-A345",
+   "no": 345,
+   "noLabel": {
+    "en": "3. Participate in labor dispute resolution, collective bargaining, the creation of"
+   },
+   "text": {
+    "en": "3. Participate in labor dispute resolution, collective bargaining, the creation of\nemployment contracts and internal regulations of labor units;"
+   }
+  },
+  {
+   "id": "LA-H429-A346",
+   "no": 346,
+   "noLabel": {
+    "en": "4. Recommend improvements to wages, work conditions, and social insurance systems;"
+   },
+   "text": {
+    "en": "4. Recommend improvements to wages, work conditions, and social insurance systems;"
+   }
+  },
+  {
+   "id": "LA-H429-A347",
+   "no": 347,
+   "noLabel": {
+    "en": "5. Recommend the establishment of agencies representing employees or trade unions"
+   },
+   "text": {
+    "en": "5. Recommend the establishment of agencies representing employees or trade unions\nwithin labor units;"
+   }
+  },
+  {
+   "id": "LA-H429-A348",
+   "no": 348,
+   "noLabel": {
+    "en": "6. Receive protection in accordance with the law."
+   },
+   "text": {
+    "en": "6. Receive protection in accordance with the law."
+   }
+  },
+  {
+   "id": "LA-H429-A349",
+   "no": 349,
+   "noLabel": {
+    "en": "7. Implement the rights and duties as stated in the law and regulations"
+   },
+   "text": {
+    "en": "7. Implement the rights and duties as stated in the law and regulations\nArticle 168 (New) Facilitation of Activities\nLabor units must facilitate the activities of employer representatives and grass roots trade\nunions by appointing an appropriate time and location.\n\nUnofficial translation of Labor Law, update on 13 October 2014 44\nChapter 4\nBargaining and Collective Labor Contracts\nArticle 169 Collective Bargaining\nCollective bargai ning is consultation and negotiation between employers and employee\nrepresentatives or trade unions regarding work conditions or recruitment, wages, welfare and\nother benefits not contrary to the law, based on the principle of equality and mutual benefit.\nArticle 170 (New) Collective Labor contracts\nCollective labor contracts are the result of collective bargaining or documentation agreed\nupon for implementation according to the law.\nCollective labor agreements must be submitted to the Labor Administration Agency for\nexamination, and must be registered or notarized by the court to ensure official use.\nSection XV\nThe Labor Inspection Agency and Labor Inspection\nArticle 171 The Labor Inspection Affairs Agencies\nThe labor inspection affairs agencies is comprised of:"
+   }
+  },
+  {
+   "id": "LA-H429-A350",
+   "no": 350,
+   "noLabel": {
+    "en": "1. The Internal Inspection Agency, which is the same agency as the Labor"
+   },
+   "text": {
+    "en": "1. The Internal Inspection Agency, which is the same agency as the Labor\nAdministration Agency as determined in Article 155 of this law."
+   }
+  },
+  {
+   "id": "LA-H429-A351",
+   "no": 351,
+   "noLabel": {
+    "en": "2. The External Inspection Agency is comprised of:"
+   },
+   "text": {
+    "en": "2. The External Inspection Agency is comprised of:\n The National Assembly, as determined in the Law on th e Monitoring of the National\nAssembly;\n The Government Inspection Authority and Anti-Corruption Organization as\ndetermined in the law;\n The State Audit Organization as determined in the law on state auditing;\n The Lao Front for National Construction, mass org anizations, the people and the\nmedia."
+   }
+  },
+  {
+   "id": "LA-H429-A352",
+   "no": 352,
+   "noLabel": {
+    "en": "3. Labor inspection officers"
+   },
+   "text": {
+    "en": "3. Labor inspection officers\nExternal inspection has the objective of inspecting the implementation of duties of the Labor\nAdministration Agency to ensure its strength, transparency, fairness and efficiency.\nArticle 172 (New) Content of Labor Affairs Inspection\nInspection of labor affairs has the following content:"
+   }
+  },
+  {
+   "id": "LA-H429-A353",
+   "no": 353,
+   "noLabel": {
+    "en": "1. Implementation of policies, strategic plans, action plans, and laws on labor affairs e.g.,"
+   },
+   "text": {
+    "en": "1. Implementation of policies, strategic plans, action plans, and laws on labor affairs e.g.,\ninspection of environment and working condition, employment contracts, internal\nregulations, salary or wage, working hour, break hour, overtime work, social security,\noccupational safety and health and labor welfare."
+   }
+  },
+  {
+   "id": "LA-H429-A354",
+   "no": 354,
+   "noLabel": {
+    "en": "2. Plans programs and projects for scientific and technological research on labor affairs;"
+   },
+   "text": {
+    "en": "2. Plans programs and projects for scientific and technological research on labor affairs;"
+   }
+  },
+  {
+   "id": "LA-H429-A355",
+   "no": 355,
+   "noLabel": {
+    "en": "3. Implementation of work on labor affairs."
+   },
+   "text": {
+    "en": "3. Implementation of work on labor affairs."
+   }
+  },
+  {
+   "id": "LA-H429-A356",
+   "no": 356,
+   "noLabel": {
+    "en": "4. Use of foreign labor both in formal and informal sectors"
+   },
+   "text": {
+    "en": "4. Use of foreign labor both in formal and informal sectors"
+   }
+  },
+  {
+   "id": "LA-H429-A357",
+   "no": 357,
+   "noLabel": {
+    "en": "5. Use of child labor and female labor"
+   },
+   "text": {
+    "en": "5. Use of child labor and female labor\nB.\n\nUnofficial translation of Labor Law, update on 13 October 2014 45\nArticle 173 (New) Forms of Labor Affairs Inspection\nLabor affairs inspection will take the following forms:"
+   }
+  },
+  {
+   "id": "LA-H429-A358",
+   "no": 358,
+   "noLabel": {
+    "en": "1. Inspection is a routine system of inspection undertaken as per a plan over a fixed time"
+   },
+   "text": {
+    "en": "1. Inspection is a routine system of inspection undertaken as per a plan over a fixed time\nperiod;"
+   }
+  },
+  {
+   "id": "LA-H429-A359",
+   "no": 359,
+   "noLabel": {
+    "en": "2. Inspection with advance notice is inspection undertaken outside of the plan when"
+   },
+   "text": {
+    "en": "2. Inspection with advance notice is inspection undertaken outside of the plan when\ndeemed necessary, with advance notification for the party undergoing inspection;"
+   }
+  },
+  {
+   "id": "LA-H429-A360",
+   "no": 360,
+   "noLabel": {
+    "en": "3. Sudden inspection is urg ent inspection without advance notice for the party"
+   },
+   "text": {
+    "en": "3. Sudden inspection is urg ent inspection without advance notice for the party\nundergoing inspection."
+   }
+  },
+  {
+   "id": "LA-H429-A361",
+   "no": 361,
+   "noLabel": {
+    "en": "4. Inspection to follow up on the result s from the implementation of what the labor"
+   },
+   "text": {
+    "en": "4. Inspection to follow up on the result s from the implementation of what the labor\ninspection officers advised and instructed employers to improve or solve or issues\nwhich could not ensure safety of employees"
+   }
+  },
+  {
+   "id": "LA-H429-A362",
+   "no": 362,
+   "noLabel": {
+    "en": "5. Special inspection is an inspection in accordance with an order or specific"
+   },
+   "text": {
+    "en": "5. Special inspection is an inspection in accordance with an order or specific\nannouncement from a higher authority, or at the request of an agency representing\nemployers, or an agency representing employees.\nAny labor inspection must be implemented strictly in accordance with the law\nThe results of every inspection must be entered into each period for dissemination for the public\ngood, namely the num ber of labor inspection officer s, statistics on the labor unit, the number of\nlabor units that have violated the law, the number of labor units that have been disciplined, and\nother measures in relation to labor inspection.\nArticle 174 (New) Labor Inspection Officials\nLabor inspection officials are employees that have been appointed by the Labor\nAdministration Agency to undertake their duties in labor inspection.\nLabor inspection officals are subject to the following standards:"
+   }
+  },
+  {
+   "id": "LA-H429-A363",
+   "no": 363,
+   "noLabel": {
+    "en": "1. Be a full state employee and have worked within the labor and social welfare sector"
+   },
+   "text": {
+    "en": "1. Be a full state employee and have worked within the labor and social welfare sector\nfor at least three years;"
+   }
+  },
+  {
+   "id": "LA-H429-A364",
+   "no": 364,
+   "noLabel": {
+    "en": "2. Have undergone training in regard to labor inspection;"
+   },
+   "text": {
+    "en": "2. Have undergone training in regard to labor inspection;"
+   }
+  },
+  {
+   "id": "LA-H429-A365",
+   "no": 365,
+   "noLabel": {
+    "en": "3. Have good qualifications and are responsible and honest in their work;"
+   },
+   "text": {
+    "en": "3. Have good qualifications and are responsible and honest in their work;"
+   }
+  },
+  {
+   "id": "LA-H429-A366",
+   "no": 366,
+   "noLabel": {
+    "en": "4. Keeps the secrets of the labor unit when inspecting;"
+   },
+   "text": {
+    "en": "4. Keeps the secrets of the labor unit when inspecting;"
+   }
+  },
+  {
+   "id": "LA-H429-A367",
+   "no": 367,
+   "noLabel": {
+    "en": "5. Respects and strictly follows the law."
+   },
+   "text": {
+    "en": "5. Respects and strictly follows the law.\nArticle 175 (New) Rights and Responsibilities of Labor Inspection Officials\nLabor inspection officials have the following rights and responsibilities:"
+   }
+  },
+  {
+   "id": "LA-H429-A368",
+   "no": 368,
+   "noLabel": {
+    "en": "1. Inspect labor at every labor unit and workplace at all times;"
+   },
+   "text": {
+    "en": "1. Inspect labor at every labor unit and workplace at all times;"
+   }
+  },
+  {
+   "id": "LA-H429-A369",
+   "no": 369,
+   "noLabel": {
+    "en": "2. Inspect employment contracts, internal regulations, records of timesheets, accounts for"
+   },
+   "text": {
+    "en": "2. Inspect employment contracts, internal regulations, records of timesheets, accounts for\nsalaries or wages, calculation of overtime, subsidies, environment and safety;"
+   }
+  },
+  {
+   "id": "LA-H429-A370",
+   "no": 370,
+   "noLabel": {
+    "en": "3. Make enquiries with employers and employees and other relevant individuals;"
+   },
+   "text": {
+    "en": "3. Make enquiries with employers and employees and other relevant individuals;"
+   }
+  },
+  {
+   "id": "LA-H429-A371",
+   "no": 371,
+   "noLabel": {
+    "en": "4. Record images, sounds, copies of documents and collect examples;"
+   },
+   "text": {
+    "en": "4. Record images, sounds, copies of documents and collect examples;"
+   }
+  },
+  {
+   "id": "LA-H429-A372",
+   "no": 372,
+   "noLabel": {
+    "en": "5. Issue w arnings to employers and employees that violate this law and other laws in"
+   },
+   "text": {
+    "en": "5. Issue w arnings to employers and employees that violate this law and other laws in\nrelation to labor;\n\nUnofficial translation of Labor Law, update on 13 October 2014 46"
+   }
+  },
+  {
+   "id": "LA-H429-A373",
+   "no": 373,
+   "noLabel": {
+    "en": "6. Order the suspension of machinery or equipment or other items in cases where"
+   },
+   "text": {
+    "en": "6. Order the suspension of machinery or equipment or other items in cases where\nmachinery or equipment is unsafe for employees;"
+   }
+  },
+  {
+   "id": "LA-H429-A374",
+   "no": 374,
+   "noLabel": {
+    "en": "7. Fine employers and employees that violate labor laws;"
+   },
+   "text": {
+    "en": "7. Fine employers and employees that violate labor laws;"
+   }
+  },
+  {
+   "id": "LA-H429-A375",
+   "no": 375,
+   "noLabel": {
+    "en": "8. Assess and certify the duration of work within the Lao PDR for foreign employees;"
+   },
+   "text": {
+    "en": "8. Assess and certify the duration of work within the Lao PDR for foreign employees;"
+   }
+  },
+  {
+   "id": "LA-H429-A376",
+   "no": 376,
+   "noLabel": {
+    "en": "9. Invite agencies representing employers and agencies representing employees,"
+   },
+   "text": {
+    "en": "9. Invite agencies representing employers and agencies representing employees,\ntechnical engineers, experts and relevant technical experts to participate in labor\ninspections;\n10.Create plans and procedures for labor inspections;\n11.Encourage, recommend and consult employers and employees;\n12.Encourage employers and employees to comply with the law;\n13.Cooperate with other sectors that are relevant to labor inspection;\n14.Evaluate, summarize and report results of inspections to higher authorities routinely;\n15.Implement other rights and duties as determined by the law and as assigned.\nBefore inspection commences anytime, inspection officials must present the ID card.\nDuring each inspection, officials must make a report with signature of employers.\nArticle 176 (New) End of Duty as Labor Inspection Official\nDuty as a labor inspection official will come to an end in the following cases:"
+   }
+  },
+  {
+   "id": "LA-H429-A377",
+   "no": 377,
+   "noLabel": {
+    "en": "1. Reassignment;"
+   },
+   "text": {
+    "en": "1. Reassignment;"
+   }
+  },
+  {
+   "id": "LA-H429-A378",
+   "no": 378,
+   "noLabel": {
+    "en": "2. Retirement;"
+   },
+   "text": {
+    "en": "2. Retirement;"
+   }
+  },
+  {
+   "id": "LA-H429-A379",
+   "no": 379,
+   "noLabel": {
+    "en": "3. Disciplinary action;"
+   },
+   "text": {
+    "en": "3. Disciplinary action;"
+   }
+  },
+  {
+   "id": "LA-H429-A380",
+   "no": 380,
+   "noLabel": {
+    "en": "4. Death."
+   },
+   "text": {
+    "en": "4. Death.\nArticle 177 (New) Uniforms and ID Cards for Labor Inspection Officials\nLabor inspection officials have a uniform and ID card for use in labor inspection work.\nThe Ministry of Labor and Social Welfare is the body that determines the uniform and\nID card for labor inspection officials.\nSection XVI\nPolicies Toward Persons with Outstanding Achievements and Measures Against\nViolators\nArticle 178 Policies Toward Persons with Outstanding Achievements\nIndividuals or organizations that make outstanding achievem ents in the implementation\nof this law will receive awards and other policies in accordance with the law.\nArticle 179 Measures Against Violators\nAny individual or legal entity that violates this law shall be re -educated, warned, fined,\nsubject to tempora ry suspension of business, subject to withdrawal of business licen se or\nbrought to court proceeding s based on the nature of the offence, including having to\ncompensate for the civil damage caused, as regulated by the laws and regulations.\n\nUnofficial translation of Labor Law, update on 13 October 2014 47\nSection XVII\nFinal Provisions\nArticle 180 Implementation\nThe government of the Lao People's Democratic Republic is to implement this law.\nArticle 181 Effectiveness\nThis law is effective ninety days after the president of the Lao People's Democratic\nRepublic issues a decree promulgating its use.\nThis law replaces Labor Law No. 06/NA, Dated 27 December, 2006.\nAny provisions that contradict this law are repealed.\nPresident of the National Assembly\nSeal and Signature\nPany YATHOTOU"
+   }
+  }
+ ]
+}

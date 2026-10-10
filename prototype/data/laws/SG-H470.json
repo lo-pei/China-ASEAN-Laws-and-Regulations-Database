@@ -1,0 +1,81 @@
+{
+ "id": "SG-H470",
+ "title": {
+  "zh": null,
+  "en": "Casino Control (Prescribed Casino Chips) Regulations 2026",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p06",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CCA2006-S648-2026",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1111,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CCA2006-S648-2026?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H470-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Casino Control (Prescribed Casino Chips) Regulations 2026 and come into operation on 21 September 2026."
+   }
+  },
+  {
+   "id": "SG-H470-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“cashless wagering system” means a method of wagering and accounting in which the validity and value of electronic credits are determined, monitored and retained by a computer which is operated and maintained by a casino operator, and includes any computerised system which facilitates electronic credit transfers directly to or from a game, gaming machine or gaming program;\n“electronic credit transfer” means a transfer made through the use of a cashless wagering system to or from a game, gaming machine or gaming program of a player’s electronic credits;\n“electronic credits”, in relation to a player, means wagering credits maintained in an electronic account for the player in a cashless wagering system, which have a fixed dollar wagering value and may be used for the purpose of casino gambling."
+   }
+  },
+  {
+   "id": "SG-H470-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Electronic credits prescribed as casino chips"
+   },
+   "text": {
+    "en": "3. For the purposes of paragraph (b) of the definition of “casino chip” in section 2(1) of the Act, electronic credits are prescribed as casino chips."
+   }
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "id": "PH-H1319",
+ "title": {
+  "zh": null,
+  "en": "Land Reform Act of 1955",
+  "orig": "An Act Amending Certain Sections of Republic Act Numbered Fourteen Hundred, Otherwise Known as the “Land Reform Act of 1955”"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p18",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1956-06-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1485",
+ "officialCode": null,
+ "topics": [
+  "environment"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1753,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1956/ra_1485_1956.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1956/ra_1485_1956.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1319-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section eleven of Republic Act Numbered Fourteen hundred is amended to read as follows:\n\"Sec. 11. Lands subject to purchase. — The Administration, acting for and on behalf of the Government, may negotiate to purchase any privately-owned agricultural land when the majority of the tenants therein or occupants thereof in case of abandoned land petition for such purchase.\""
+   }
+  },
+  {
+   "id": "PH-H1319-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section sixteen of the same Act is amended to read as follows:\n\"Sec. 16. When proper. -The Administration may initiate and prosecute expropriation proceedings for the acquisition of private agricultural land subject to the provisions of section six, paragraph (2), upon petition of a majority of the tenants or occupants thereof in case of abandoned land and after it is convinced of the suitability of such land for subdivision into family-size farm units, and that public interest will be served by its immediate acquisition, when any of the following conditions exists:\n\"(1) That the landowner falling within the terms of section six, paragraph (2), continues to refuse to sell after all efforts have been exhausted by the Administration to negotiate for its purchase; or \"(2) The landowner is willing to sell under sections eleven and twelve but cannot agree with the Administration as to the price and/or the manner of its payment.\""
+   }
+  },
+  {
+   "id": "PH-H1319-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Paragraph (3) of section twenty-three of the same Act is amended to read as follows:\n\"(3) At cost—shall mean the purchase price plus six per cent interest per annum which includes the one per cent per annum for administration expenses, plus actual expenses for survey, subdivision and registration. The cost shall be paid on the basis of a twenty-five-year amortization plan."
+   }
+  },
+  {
+   "id": "PH-H1319-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956."
+   }
+  }
+ ]
+}

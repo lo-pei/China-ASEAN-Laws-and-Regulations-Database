@@ -1,0 +1,52 @@
+{
+ "id": "BN-H061",
+ "title": {
+  "zh": null,
+  "en": null,
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p08",
+ "language": "en",
+ "level": null,
+ "category": null,
+ "status": null,
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 538,
+ "source": {
+  "name": "文莱 — INCOME TAX (PETROLEUM) ACT (Chapter 119)",
+  "url": "https://www.agc.gov.bn/wp-content/uploads/2026/07/CAP-119-6-2022-ED-INCOME-TAX-PETROLEUM-ACT.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-08",
+ "completenessNote": "全文，共 1 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-H061-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "原文标题：INCOME TAX (PETROLEUM) ACT (Chapter 119)\n官方来源 URL：https://www.agc.gov.bn/wp-content/uploads/2026/07/CAP-119-6-2022-ED-INCOME-TAX-PETROLEUM-ACT.pdf\n颁布日期 / 生效日期 / 修订日期：— / — / 2022年汇编版\n版本：Cap.119, 2022 consolidated edition\n抓取日期：2026-10-03\n原文语种：en（英语）\n中文译名：石油（所得）税法\n英文译名：Income Tax (Petroleum) Act\n\n说明：本文件为文莱总检察署(AGC)官方「Laws of Brunei / BruLaw」数据库发布的合并汇编版(consolidated edition)权威原件(PDF)，逐字照录，未做任何改写、摘要或删节。\n校验值(SHA-256)：86aab54380e74d942c738c105a466568caba367343895fe3df1ba7ac8a427a1f\n逐字法律正文见同名词 PDF 原件：文莱_石油所得税法_2022_en.pdf\n备注：石油行业特别所得税"
+   }
+  }
+ ]
+}

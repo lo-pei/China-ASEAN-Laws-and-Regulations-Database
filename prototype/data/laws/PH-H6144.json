@@ -1,0 +1,754 @@
+{
+ "id": "PH-H6144",
+ "title": {
+  "zh": "1993年总拨款法",
+  "en": "General Appropriation Act of 1993",
+  "orig": "General Appropriation Act of 1993 An Act Appropriating Funds for the Operation of the Government of the Republic of the Philippines from January First to December Thirty-First, Nineteen Hundred and Ninety-Four, and for other purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p87",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1993-12-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 7663",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 71,
+ "chars": 87466,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1993/ra_7663_1993.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 71 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1993/ra_7663_1993.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 72 条，缺 59）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H6144-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Appropriation of Funds. The following sums, or so much thereof as may be necessary, are hereby appropriated out of any funds in the National Treasury of the Philippines not otherwise appropriated, for the operation of the Government of the Republic of the Philippines from January one to December thirty-one, nineteen hundred and ninety-four except where otherwise specifically provided herein:\nSUMMARY OF FY 1994 NEW APPROPRIATIONS (Amount, In thousand pesos) &emsp;I.&emsp;&emsp;CONGRESS OF THE PHILIPPINES 1,784,832,000\nA. Senate 472,000,000 &emsp;&emsp;A.1 Senate Electoral Tribunal 27,713,000\nB. Commission on Appointments 82,907,000\nC. House of Representatives 1,171,924,000 &emsp;&emsp;C.1 House Electoral Tribunal 30,288,000 &emsp;II. &emsp;&emsp;OFFICE OF THE PRESIDENT 611,749,002\nA. The President's Offices 611,749,002 &emsp;III. &emsp;&emsp; OFFICE OF THE VICE-PRESIDENT 45,363,000\nA. Office of the Vice-President 45,363,000 &emsp;IV.&emsp;&emsp; DEPARTMENT OF AGRARIAN REFORM 827,716,000\nA. Office of the Secretary 827,716,000 &emsp;V. &emsp;&emsp;DEPARTMENT OF AGRICULTURE 6,430,469,000\nA. Office of the Secretary 5,972,162,000\nB. Agricultural Credit Policy Council 75,730,000\nC. Fertilizer and Pesticide Authority 15,804,000\nD. Fiber Industry Development Authority 84,074,000\nE. Livestock Development Council 8,978,000\nF. National Agricultural and Fishery Council 86,927,000\nG. National Meat Inspection Commission 43,170,000\nH. National Nutrition Council 28,787,000\nI. National Stud Farm 5,599,000\nJ. Philippine Carabao Center 102,422,000\nK. Sacobia Development Authority 6,816,000 &emsp;VI. &emsp;&emsp;DEPARTMENT OF BUDGET AND MANAGEMENT 261,101,000\nA. Office of the Secretary 258,085,000\nB. Procurement Service 3,016,000 &emsp;VII. &emsp;&emsp;DEPARTMENT OF EDUCATION, CULTURE AND SPORTS 37,956,910,000\nA. Office of the Secretary 37,780,450,000\nB. National Historical Institute 49,295,000\nC. National Library 36,374,000\nD. National Museum 58,907,000\nE. Records Management and Archives Office 20,099,000\nF. Philippine High School for the Arts 11,785,000 &emsp;VIII. &emsp;&emsp;STATE UNIVERSITIES AND COLLEGES 6,078,360,000\nA. NATIONAL CAPITAL REGION 2,506,144,000 &emsp;&emsp;A.1 Eulogio \"Amang\" Rodriguez Institute of Science and Technology 47,069,000 &emsp;&emsp;A.2 Philippine Merchant Marine Academy 42,217,000 &emsp;&emsp;A.3 Philippine Normal University 104,607,000 &emsp;&emsp;A.4 Philippine State College of Aeronautics 24,150,000 &emsp;&emsp;A.5 Polytechnic University of the Philippines 257,420,000 &emsp;&emsp;A.6 Rizal Technological Colleges 66,128,000 &emsp;&emsp;A.7 Technological University of the Philippines 126,440,000 &emsp;&emsp;A.8 University of the Philippines System 1,838,113,000\nB. REGION I – ILOCOS 416,955,000 &emsp;&emsp;B.1 Don Mariano Marcos Memorial State University 158,354,000 &emsp;&emsp;B.2 Mariano Marcos State University 98,735,000 &emsp;&emsp;B.3 Cotton Research and Development Institute 19,955,000 &emsp;&emsp;B.4 Pangasinan State University 75,216,000 &emsp;&emsp;B.5 University of Northern Philippines 64,695,000\nC. CORDILLERA ADMINISTRATIVE REGION 139,874,000 &emsp;&emsp;C.1 Abra State Institute of Science and Technology 16,900,000 &emsp;&emsp;C.2 Benguet State University 60,545,000 &emsp;&emsp;C.3 Ifugao State College of Agriculture and Forestry 23,683,000 &emsp;&emsp;C.4 Kalinga-Apayao State College 13,447,000 &emsp;&emsp;C.5 Mt. Province State Polytechnic College 25,299,000\nD. REGION II - CAGAYAN VALLEY 258,596,000 &emsp;&emsp;D.1 Cagayan State University 102,872,000 &emsp;&emsp;D.2 Isabela State University 88,602,000 &emsp;&emsp;D.3 Nueva Vizcaya State Institute of Technology 35,955,000 &emsp;&emsp;D.4 Nueva Vizcaya State Polytechnic College 19,765,000 &emsp;&emsp;D.5 Quirino State College 11,402,000 &emsp;&emsp;E. REGION III - CENTRAL LUZON 295,196,000 &emsp;&emsp;E.1 Bulacan College of Arts and Trades 34,387,000 &emsp;&emsp;E.2 Central Luzon Polytechnic College 42,922,000 &emsp;&emsp;E.3 Central Luzon State University 86,616,000 &emsp;&emsp;E.4 Don Honorio Ventura College of Arts and Trades 29,970,000 &emsp;&emsp;E.5 Pampanga Agricultural College 26,806,000 &emsp;&emsp;E.6 Tarlac College of Agriculture 28,624,000 &emsp;&emsp;E.7 Tarlac State University 33,475,000 &emsp;&emsp;E.8 Western Luzon Agricultural College 12,396,000 &emsp;&emsp;F. REGION IV - SOUTHERN TAGALOG AND PALAWAN 306,096,000 &emsp;&emsp;F.1 Don Severino Agricultural College 52,152,000 &emsp;&emsp;F.2 Laguna State Polytechnic College 17,154,000 &emsp;&emsp;F.3 Marinduque State College 19,910,000 &emsp;&emsp;F.4 Occidental Mindoro National College 25,619,000 &emsp;&emsp;F.5 Pablo Borbon Memorial Institute of Technology 32,054,000 &emsp;&emsp;F.6 Palawan National Agricultural College 41,198,000 &emsp;&emsp;F.7 Palawan State College 32,284,000 &emsp;&emsp;F.8 Rizal College of Agriculture and Technology 32,893,000 &emsp;&emsp;F.9 Romblon State College 19,627,000 &emsp;&emsp;F.10 Southern Luzon Polytechnic College 33,205,000 &emsp;&emsp;G. REGION V- BICOL 251,477,000 &emsp;&emsp;G.1 Bicol University 111,094,000 &emsp;&emsp;G.2 Camarines Norte State College 35,721,000 &emsp;&emsp;G.3 Camarines Sur Polytechnic College 9,429,000 &emsp;&emsp;G.4 Camarines Sur State Agricultural College 35,760,000 &emsp;&emsp;G.5 Catanduanes State College 44,761,000 &emsp;&emsp;G.6 Partido State College 14,712,000 &emsp;&emsp;H. REGION VI - WESTERN VISAYAS 299,848,000 &emsp;&emsp;H.1 Aklan State College of Agriculture 28,616,000 &emsp;&emsp;H.2 Iloilo State College of Fisheries 24,139,000 &emsp;&emsp;H.3 Northern Iloilo Polytechnic State College 35,577,000 &emsp;&emsp;H.4 Paglaum State College 25,376,000 &emsp;&emsp;H.5 Panay State Polytechnic College 37,615,000 &emsp;&emsp;H.6 Polytechnic State College of Antique 15,265,000 &emsp;&emsp;H.7 West Visayas State University 86,470,000 &emsp;&emsp;H.8 Western Visayas College of Science and Technology 46,790,000 &emsp;&emsp;I. REGION VII - CENTRAL VISAYAS 125,722,000 &emsp;&emsp;I.1 Cebu State College 25,579,000 &emsp;&emsp;I.2 Cebu State College of Science and Technology 70,244,000 &emsp;&emsp;I.3 Central Visayas Polytechnic College 29,899,000 &emsp;&emsp;J. REGION VIII - EASTERN VISAYAS 293,944,000 &emsp;&emsp;J.1 Eastern Samar State College 26,254,000 &emsp;&emsp;J.2 Leyte Institute of Technology 37,626,000 &emsp;&emsp;J.3 Leyte State College 24,053,000 &emsp;&emsp;J.4 Naval Institute of Technology 15,534,000 &emsp;&emsp;J.5 Palompon Institute of Technology 21,653,000 &emsp;&emsp;J.6 Samar State Polytechnic College 23,381,000 &emsp;&emsp;J.7 Tiburcio Tancinco Memorial Institute of Science and Technology 13,031,000 &emsp;&emsp;J.8 University of Eastern Philippines 39,768,000 &emsp;&emsp;J.9 Visayas State College of Agriculture 86,224,000 &emsp;&emsp;J.10 Tomas Oppus Normal College 6,420,000 &emsp;&emsp;K. REGION IX - WESTERN MINDANAO 223,058,000 &emsp;&emsp;K.1 Basilan State College 10,897,000 &emsp;&emsp;K.2 Sulu State College 14,660,000 &emsp;&emsp;K.3 MSU-Tawi-Tawi College of Technology and Oceanography 86,045,000 &emsp;&emsp;K.4 Tawi-Tawi Regional Agricultural College 14,440,000 &emsp;&emsp;K.5 Western Mindanao State University 64,391,000 &emsp;&emsp;K.6 Zamboanga State College of Marine Sciences and Technology 32,625,000 &emsp;&emsp;L. REGION X - NORTHERN MINDANAO 169,947,000 &emsp;&emsp;L.1 Bukidnon State College 26,303,000 &emsp;&emsp;L.2 Central Mindanao University 86,943,000 &emsp;&emsp;L.3 Mindanao Polytechnic State College 33,200,000 &emsp;&emsp;L.4 Misamis Oriental State College of Agriculture and Technology 10,656,000 &emsp;&emsp;L.5 Northern Mindanao State Institute of Science and Technology 12,845,000 &emsp;&emsp;M. REGION XI - SOUTHEASTERN MINDANAO 81,204,000 &emsp;&emsp;M.1 Davao Oriental State College of Science and Technology 14,073,000 &emsp;&emsp;M.2 Southern Philippines Agri-Business and Marine and Aquatic School of Technology 14,272,000 &emsp;&emsp;M.3 University of Southeastern Philippines 52,859,000 &emsp;&emsp;N. REGION XII - CENTRAL MINDANAO 670,299,000 &emsp;&emsp;N.1 Cotabato Foundation College of Science and Technology 27,130,000 &emsp;&emsp;N.2 Cotabato City State Polytechnic College 20,396,000 &emsp;&emsp;N.3 Mindanao State University 402,124,000 &emsp;&emsp;N.4 MSU-Iligan Institute of Technology 120,956,000 &emsp;&emsp;N.5 University of Southern Mindanao 72,255,000 &emsp;&emsp;N.6 Sultan Kudarat Polytechnic State College 27,438,000 &emsp;&emsp;O. FACULTY AND STAFF AND DEVELOPMENT FUND 40,000,000 IX. DEPARTMENT OF ENERGY 293,867,000\nX. DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES 4,377,961,000 &emsp;&emsp;A. Office of the Secretary 4,238,731,000 &emsp;&emsp;B. National Mapping and Resource Information Authority 139,230,000 XI. DEPARTMENT OF FINANCE 3,282,273,000 &emsp;&emsp;A. Office of the Secretary 87,785,000 &emsp;&emsp;B. Bureau of Customs 765,650,000 &emsp;&emsp;C. Bureau of Internal Revenue 1,873,336,000 &emsp;&emsp;D. Bureau of Local Government Finance 197,006,000 &emsp;&emsp;E. Bureau of the Treasury 182,009,000 &emsp;&emsp;F. Central Board of Assessment Appeals 4,634,000 &emsp;&emsp;G. Economic Intelligence and Investigation Bureau 119,776,000 &emsp;&emsp;H. Fiscal Incentives Review Board 419,000 &emsp;&emsp;I. Insurance Commission 33,657,000 &emsp;&emsp;J. National Tax Research Center 18,001,000 XII. DEPARTMENT OF FOREIGN AFFAIRS 1,572,727,000 &emsp;&emsp;A. Office of the Secretary 1,540,414,000 &emsp;&emsp;B. Foreign Service Institute 24,447,000 &emsp;&emsp;C. Technical Cooperation Council of the Philippines 2,117,000 &emsp;&emsp;D. UNESCO National Commission of the Philippines 5,749,000 XIII DEPARTMENT OF HEALTH 7,418,233,000 &emsp;&emsp;A. Office of the Secretary 7,332,191,000 &emsp;&emsp;B. Dangerous Drugs Board 41,325,000 &emsp;&emsp;C. Philippine Medical Care Commission 44,717,000 XIV. DEPARTMENT OF THE INTERIOR AND LOCAL GOVERNMENT 12,919,893,000 &emsp;&emsp;A. Office of the Secretary 970,313,000 &emsp;&emsp;B. Local Government Academy 45,549,000 &emsp;&emsp;C. National Police Commission 265,658,000 &emsp;&emsp;D. Philippine National Police 9,820,527,000 &emsp;&emsp;E. Bureau of Fire Protection 1,276,172,000 &emsp;&emsp;F. Bureau of Jail Management and Penology 426,802,000 &emsp;&emsp;G. Philippine Public Safety College 114,872,000 XV. DEPARTMENT OF JUSTICE 2,212,182,000 &emsp;&emsp;A. Office of the Secretary 821,729,000 &emsp;&emsp;B. Bureau of Corrections 262,423,000 &emsp;&emsp;C. Public Attorney's Office 264,911,000 &emsp;&emsp;D. Bureau of Immigration 80,577,000 &emsp;&emsp;E. Commission on the Settlement of Land Problems 22,899,000 &emsp;&emsp;F. National Bureau of Investigation 303,026,000 &emsp;&emsp;G. Land Registration Authority 212,870,000 &emsp;&emsp;H. Office of the Government Corporate Counsel 22,190,000 &emsp;&emsp;I. Office of the Solicitor General 70,198,000 &emsp;&emsp;J. Parole and Probation Administration 151,359,000 XVI. DEPARTMENT OF LABOR AND EMPLOYMENT 1,771,421,000 &emsp;&emsp;A. Office of the Secretary 843,821,000 &emsp;&emsp;B. Institute for Labor Studies 10,652,000 &emsp;&emsp;C. National Conciliation and Mediation Board 54,165,000 &emsp;&emsp;D. National Labor Relations Commission 145,714,000 &emsp;&emsp;E. National Manpower and Youth Council 551,974,000 &emsp;&emsp;F. National Maritime Polytechnic 20,203,000 &emsp;&emsp;G. National Wages and Productivity Commission 50,306,000 &emsp;&emsp;H. Philippine Overseas Employment Administration 94,586,000 XVII. DEPARTMENT OF NATIONAL DEFENSE 22,694,974,000 &emsp;&emsp;A. Office of the Secretary 88,751,000 &emsp;&emsp;B. Armed Forces of the Philippines 20,309,489,000 &emsp;&emsp;B.1 General Headquarters 2,581,755,000 &emsp;&emsp;B.2 Philippine Air Force 2,769,809,000 &emsp;&emsp;B.3 Philippine Army 6,073,002,000 &emsp;&emsp;B.4 Philippine Navy 3,384,820,000 &emsp;&emsp;B.5 Presidential Security Group 169,781,000 &emsp;&emsp;B.6 Armed Forces of the Philippines Medical Center 226,648,000 &emsp;&emsp;B.7 Citizen Armed Forces Geographical Units 877,185,000 &emsp;&emsp;B.8 Philippine Military Academy 241,512,000 &emsp;&emsp;B.9 AFP - Reservist and Retiree Affairs Program 39,607,000 &emsp;&emsp;B.10 AFP Pension and Gratuity 2,165,502,000 &emsp;&emsp;B.11 AFP Modernization Program 1,779,868,000 &emsp;&emsp;C. Government Arsenal 160,086,000 &emsp;&emsp;D. National Defense College of the Philippines 17,083,000 &emsp;&emsp;E. Office of Civil Defense 38,057,000 &emsp;&emsp;F. Philippine Veterans Affairs Office 2,081,508,000 &emsp;&emsp;F.1 Philippine Veterans Affairs Office (Proper) 1,783,434,000 &emsp;&emsp;F.2 Military Shrine Services 10,482,000 &emsp;&emsp;F.3 Veterans Memorial Medical Center 287,592,000 XVIII. DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS 23,180,953,000 &emsp;&emsp;A. Office of the Secretary 23,157,946,000 &emsp;&emsp;B. National Water Resources Board 17,253,000 &emsp;&emsp;C. Toll Regulatory Board 5,754,000 XIX. DEPARTMENT OF SCIENCE AND TECHNOLOGY 2,857,318,000 &emsp;&emsp;A. Office of the Secretary 1,347,770,000 &emsp;&emsp;B. Advanced Science and Technology Institute 32,208,000 &emsp;&emsp;C. Food and Nutrition Research Institute 38,555,000 &emsp;&emsp;D. Forest Products Research and Development Institute 33,520,000 &emsp;&emsp;E. Industrial Technology Development Institute 98,249,000 &emsp;&emsp;F. Metals Industry Research and Development Center 68,126,000 &emsp;&emsp;G. National Academy of Science and Technology 7,198,000 &emsp;&emsp;H. National Research Council of the Philippines 14,030,000 &emsp;&emsp;I. Philippine Atmospheric, Geophysical and Astronomical Services Administration 675,292,000 &emsp;&emsp;J. Philippine Council for Advanced Science and Technology Research and Development 34,433,000 &emsp;&emsp;K. Philippine Council for Agriculture, Forestry and Natural Resources Research and Development 75,223,000 &emsp;&emsp;L. Philippine Council for Aquatic and Marine Research and Development 11,412,000 &emsp;&emsp;M. Philippine Council for Health Research and Development 20,986,000 &emsp;&emsp;N. Philippine Council for Industry and Energy Research and Development 18,481,000 &emsp;&emsp;O. Philippine Institute of Volcanology and Seismology 53,778,000 &emsp;&emsp;P. Philippine Nuclear Research Institute 69,241,000 &emsp;&emsp;Q. Philippine Science High School 105,974,000 &emsp;&emsp;R. Philippine Textile Research Institute 21,045,000 &emsp;&emsp;S. Science Education Institute 88,741,000 &emsp;&emsp;T. Science and Technology Information Institute 15,141,000 &emsp;&emsp;U. Technology Application and Promotion Institute 27,915,000 XX. DEPARTMENT OF SOCIAL WELFARE AND DEVELOPMENT 774,315,000 &emsp;&emsp;A. Office of the Secretary 756,029,000 &emsp;&emsp;B. Council for the Welfare of Children and Youth 4,831,000 &emsp;&emsp;C. National Council for the Welfare of Disabled Persons 13,455,000 XXI. DEPARTMENT OF TOURISM 384,206,000 &emsp;&emsp;A. Office of the Secretary 282,011,000 &emsp;&emsp;B. Intramuros Administration 32,217,000 &emsp;&emsp;C. National Parks Development Committee 69,978,000 XXII. DEPARTMENT OF TRADE AND INDUSTRY 1,439,108,000 &emsp;&emsp;A. Office of the Secretary 1,091,509,000 &emsp;&emsp;B. Board of Investments 146,024,000 &emsp;&emsp;C. Bonded Export Marketing Board 3,018,000 &emsp;&emsp;D. Construction Industry Authority of the Philippines 22,202,000 &emsp;&emsp;E. Construction Manpower Development Foundation 14,607,000 &emsp;&emsp;F. International Coffee Organization - Certifying Agency 5,226,000 &emsp;&emsp;G. Philippine Trade Training Center 25,237,000 &emsp;&emsp;H. Product Development and Design Center of the Philippines 131,285,000 XXIII. DEPARTMENT OF TRANSPORTATION AND COMMUNICATIONS 4,817,567,000 &emsp;&emsp;A. Office of the Secretary 4,681,751,000 &emsp;&emsp;B. Civil Aeronautics Board 10,846,000 &emsp;&emsp;C. Maritime Industry Authority 60,428,000 &emsp;&emsp;D. National Telecommunications Commission 58,334,000 &emsp;&emsp;E. Office of Transportation Cooperatives 6,208,000 XXIV. NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY 303,015,000 &emsp;&emsp;A. Office of the Director-General 215,906,000 &emsp;&emsp;B. Commission on Population 58,871,000 &emsp;&emsp;C. Philippine National Volunteer Service Coordinating Agency 5,556,000 &emsp;&emsp;D. Tariff Commission 22,682,000 XXV NATIONAL STATISTICAL COORDINATION BOARD 339,636,000 &emsp;&emsp;A. Office of the Secretary-General 31,763,000 &emsp;&emsp;B. National Statistics Office 302,321,000 &emsp;&emsp;C. Statistical Research and Training Center 5,552,000 XXVI. OFFICE OF THE PRESS SECRETARY 475,795,000 &emsp;&emsp;A. Office of the Press Secretary (Proper) 51,358,000 &emsp;&emsp;B. Bureau of Broadcast Services 132,999,000 &emsp;&emsp;C. Bureau of Communications Services 13,146,000 &emsp;&emsp;D. National Printing Office 100,742,000 &emsp;&emsp;E. News and Information Bureau 49,524,000 &emsp;&emsp;F. Philippine Information Agency 95,941,000 &emsp;&emsp;G. Presidential Broadcast Staff (RTVM) 32,085,000 XXVII. OTHER EXECUTIVE OFFICES 2,001,485,000 &emsp;&emsp;A. Commission on the Filipino Language 15,612,000 &emsp;&emsp;B. Commission on Filipinos Overseas 15,601,000 &emsp;&emsp;C. Committee on Privatization 874,000 &emsp;&emsp;D. Cooperatives Development Authority 196,033,000 &emsp;&emsp;E. Energy Regulatory Board 43,175,000 &emsp;&emsp;F. Games and Amusements Board 13,502,000 &emsp;&emsp;G. Government Corporate Monitoring and Coordinating Committee 7,835,000 &emsp;&emsp;H. Housing and Land Use Regulatory Board 61,572,000 &emsp;&emsp;I. Housing and Urban Development Coordinating Council 124,906,000 &emsp;&emsp;J. Metropolitan Manila Authority 132,897,000 &emsp;&emsp;K. Movie and Television Review and Classification Board 6,445,000 &emsp;&emsp;L. National Commission on Culture and Arts 45,302,000 &emsp;&emsp;M. National Commission on the Role of Filipino Women 18,171,000 &emsp;&emsp;N. National Computer Center 102,423,000 &emsp;&emsp;O. National Intelligence Coordinating Agency 100,778,000 &emsp;&emsp;P. National Security Council 57,714,000 &emsp;&emsp;Q. Office on Muslim Affairs 106,609,000 &emsp;&emsp;R. Office for Northern Cultural Communities 85,454,000 &emsp;&emsp;S. Office for Southern Cultural Communities 96,642,000 &emsp;&emsp;T. Palawan Council for Sustainable Development Staff 29,172,000 &emsp;&emsp;U. Philippine Gamefowl Commission 4,238,000 &emsp;&emsp;V. Philippine Human Resource Development Center 23,785,000 &emsp;&emsp;W. Philippine Racing Commission 12,214,000 &emsp;&emsp;X. Philippine Sports Commission 70,595,000 &emsp;&emsp;Y. Presidential Commission on Good Government 83,528,000 &emsp;&emsp;Z. Presidential Commission for the Urban Poor 29,213,000 &emsp;&emsp;AA. Presidential Committee on the Philippine Nuclear Power Plant 271,660,000 &emsp;&emsp;BB. Presidential Council on Youth Affairs 22,266,000 &emsp;&emsp;CC. Presidential Legislative Liaison Office 15,432,000 &emsp;&emsp;DD. Presidential Management Staff 74,219,000 &emsp;&emsp;EE. Securities and Exchange Commission 119,533,000 &emsp;&emsp;FF. Videogram Regulatory Board 14,085,000 XXVIII. JOINT LEGISLATIVE-EXECUTIVE COUNCILS 3,064,001 &emsp;&emsp;A. Joint Legislative-Executive Foreign Debt Council 1 &emsp;&emsp;B. Legislative-Executive Development Advisory Council 3,064,000 XXIX. THEJUDICIARY 3,091,973,000 &emsp;&emsp;A. Supreme Court of the Philippines and the Lower Courts 2,764,303,000 &emsp;&emsp;A.1 Presidential Electoral Tribunal 36,302,000 &emsp;&emsp;B. Sandiganbayan 41,158,000 &emsp;&emsp;C. Court of Appeals 235,983,000 &emsp;&emsp;D. Court of Tax Appeals 14,227,000 XXX. CONSTITUTIONAL OFFICES 2,808,198,000 &emsp;&emsp;A. Civil Service Commission 229,454,000 &emsp;&emsp;A.1 Career Executive Service Board 48,703,000 &emsp;&emsp;A.2 Professional Regulation Commission 64,039,000 &emsp;&emsp;B. Commission on Audit 1,546,955,000 &emsp;&emsp;C. Commission on Elections 919,047,000 XXXI. OFFICE OF THE OMBUDSMAN 178,406,000 XXXII. COMMISSION ON HUMAN RIGHTS 101,465,000 XXXIII. AUTONOMOUS REGIONS 2,115,851,000 &emsp;&emsp;A. Cordillera Administrative Region 26,079,000 &emsp;&emsp;A.1 Cordillera Administrative Region (Proper) 15,655,000 &emsp;&emsp;A.2 Kalinga Special Development Authority 10,424,000 &emsp;&emsp;B. Autonomous Regional Government in Muslim Mindanao 2,089,772,000 XXXIV. BUDGETARY SUPPORT TO GOVERNMENT CORPORATIONS 6,744,384,001 &emsp;&emsp;A. DEPARTMENT OF AGRICULTURE 1,996,424,000 &emsp;&emsp;A.1 National Food Authority 1,479,384,000 &emsp;&emsp;A.2 National Tobacco Administration 107,963,000 &emsp;&emsp;A.3 Philippine Coconut Authority 80,000,000 &emsp;&emsp;A.4 Philippine Fisheries Development Authority 17,513,000 &emsp;&emsp;A.5 Philippine Rice Research Institute 142,086,000 &emsp;&emsp;A.6 Quedan and Rural Credit Guarantee Corporation 90,000,000 &emsp;&emsp;A.7 Sugar Regulatory Administration 79,478,000 &emsp;&emsp;B. DEPARTMENT OF ENERGY 1,408,918,000 &emsp;&emsp;B.1 National Electrification Administration 588,918,000 &emsp;&emsp;B.2 National Power Corporation 820,000,000 &emsp;&emsp;C. DEPARTMENT OF FINANCE 150,000,000 &emsp;&emsp;C.1 Philippine Crop Insurance Corporation 50,000,000 &emsp;&emsp;C.2 Philippine Export and Foreign Loan Guarantee Corporation 100,000,000 &emsp;&emsp;D. DEPARTMENT OF HEALTH 359,531,000 &emsp;&emsp;D.1 Lung Center of the Philippines 83,835,000 &emsp;&emsp;D.2 National Kidney Institute 95,000,000 &emsp;&emsp;D.3 Philippine Children's Medical Center 93,196,000 &emsp;&emsp;D.4 Philippine Heart Center 87,500,000 &emsp;&emsp;E. DEPARTMENT OF NATIONAL DEFENSE 12,932,001 &emsp;&emsp;E.1 Philippine Veterans Assistance Commission &emsp;&emsp;E.2 PHIVIDEC Industrial Authority 12,932,000 &emsp;&emsp;F. DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS 539,206,000 &emsp;&emsp;F.1 Local Water Utilities Administration 539,206,000 &emsp;&emsp;G. DEPARTMENT OF TOURISM 66,273,000 &emsp;&emsp;G.1 Philippine Convention and Visitors Corporation 66,273,000 &emsp;&emsp;H. DEPARTMENT OF TRADE AND INDUSTRY 126,752,000 &emsp;&emsp;H.1 Center for International TradeExpositions and Missions 64,042,000 &emsp;&emsp;H.2 Cottage Industry Technology Center 8,310,000 &emsp;&emsp;H.3 Export Processing Zone Authority 54,400,000 &emsp;&emsp;I. DEPARTMENT OF TRANSPORTATION AND COMMUNICATIONS 483,336,000 &emsp;&emsp;I.1 Light Rail Transit Authority 46,237,000 &emsp;&emsp;I.2 Philippine National Railways 437,099,000 &emsp;&emsp;J. NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY 15,000,000 &emsp;&emsp;J.1 Philippine Institute for Development Studies 15,000,000 &emsp;&emsp;K. OFFICE OF THE PRESS SECRETARY 90,000,000 &emsp;&emsp;K.1 People's Television Network, Incorporated 90,000,000 &emsp;&emsp;L. OTHER EXECUTIVE OFFICES 1,476,047,000 &emsp;&emsp;L.1 Asset Privatization Trust 21,600,000 &emsp;&emsp;L.2 Bases Conversion and Development Authority 35,000,000 &emsp;&emsp;L.3 Home Insurance and Guaranty Corporation 300,000,000 &emsp;&emsp;L.4 National Home Mortgage Finance Corporation 472,600,000 &emsp;&emsp;L.5 National Housing Authority 425,000,000 &emsp;&emsp;L.6 Philippine Deposit Insurance Corporation 10,000,000 &emsp;&emsp;L.7 Philippine Retirement Authority 7,000,000 &emsp;&emsp;L.8 Southern Philippines Development Authority 7,920,000 &emsp;&emsp;L.9 Subic Bay Metropolitan Authority 196,927,000 &emsp;&emsp;M. BUDGETARY SUPPORT TO GOVERNMENT CORPORATIONS 19,965,000 XXXV. AGRARIAN REFORM FUND 28,000,000 &emsp;&emsp;A. Agrarian Reform Fund 28,000,000 XXXVI. ALLOCATIONS TO LOCAL GOVERNMENT UNITS 49,462,997,000 &emsp;&emsp;A. Internal Revenue Allotment 46,753,000,000 &emsp;&emsp;B. Magna Carta for Public Health Workers Devolved to LGUs 662,000,000 &emsp;&emsp;C. Special Shares of LGUs in the Proceeds of National Taxes 1,468,000,000 &emsp;&emsp;D. Countrywide Industrialization Fund 120,000,000 &emsp;&emsp;E. Local Officials Insurance Premium Fund 47,000,000 &emsp;&emsp;F. Municipal Development Fund 412,997,000 XXXVII. AREA DEVELOPMENT ASSISTANCE FUND 58,123,000 &emsp;&emsp;A. Aurora Integrated Area Development Project 10,330,000 &emsp;&emsp;B. Bondoc Development Program 9,642,000 &emsp;&emsp;C. Central Visayas Water and Sanitation Project 38,151,000 XXXVIII. CALAMITY FUND 2,000,000,000 XXXIX. COMPENSATION ADJUSTMENT FUND 7,000,000,000 XL. CONTINGENT FUND 800,000,000 XLI. COUNTRYWIDE DEVELOPMENT FUND 2,977,000,000 XLII. FOREIGN-ASSISTED PROJECTS SUPPORT FUND 462,375,000 XLIII. GENERAL FUND ADJUSTMENTS 207,500,000 XLIV. INTERNATIONAL COMMITMENTS FUND 664,803,000 XLV. MISCELLANEOUS PERSONNEL BENEFITS FUND 2,806,468,000 XLVI. NATIONAL UNIFICATION FUND 200,000,000 XLVII. PROPERTY REPLACEMENT FUND 47,500,000 XLVIII. APPROPRIATIONS FOR DEBT SERVICE 86,323,438,000 XLIX. UNPROGRAMMED FUND 7,500,000,000 TOTAL NEW APPROPRIATIONS 322,694,974,004 GENERAL PROVISIONS Receipts and Income"
+   }
+  },
+  {
+   "id": "PH-H6144-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Fees, Charges and Assessments. All fees, charges, assessments, and other receipts or revenues collected by departments, bureaus, offices or agencies in the exercise of their functions, at such rates as are now or may be approved by the Secretary concerned, shall be deposited with the National Treasury and shall accrue to the General Fund pursuant to Section 44 of Book VI, E.O. No. 292 and Section 3 of B.P. Blg. 325: Provided, That certain receipts may be recorded as income of a Special Fund, a Fiduciary or a Trust Fund, or a fund other than the General Fund, when authorized by law and following such rules and regulations as may be issued by the Permanent Committee created under Section 45 of Book VI, E.O. No. 292: Provided, further, That all revenues or income accruing to special accounts in the General Fund may be made available for expenditure, subject to the Special Provision in this Act for the agencies concerned and to Special Budgets required under Section 35 of Book VI, E.O. No. 292: and Provided, furthermore, That whenever practicable and taking into account the cost reduction program of the government, when an agency contracts with another government office for fabrication of furniture or equipment, or for computer, printing or other services, the agency rendering such services may assess the requesting agency for the cost of production and services rendered and may utilize the proceeds thereof, subject to Section 35 of Book VI, E.O. No. 292, except as otherwise provided in this Act: and Provided,finally, That the schedule of fees, charges and assessments collectible by any government agency including government-owned and/or controlled corporations shall be posted in big bold characters in a conspicuous place in said government agency or corporation, including its branches or extension offices and that the updating and continuous display of said schedule shall be the responsibility of the head of the agency or corporation concerned."
+   }
+  },
+  {
+   "id": "PH-H6144-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Revolving Fund. Revolving funds shall be established and maintained only in cases where said funds are expressly created and authorized by law. Revolving funds already in existence shall continue their operations, except those which are converted into \"Use of Income\" provisions in this Act. Receipts derived from business-type activities of departments, bureaus, offices or agencies which are authorized by law to be constituted into a Revolving Fund shall be separately recorded and deposited in an authorized government depository bank, and may be made available for operational expenses of the said activity of the agency concerned, subject to the conditions prescribed under the special provision of the agency concerned and the rules and regulations as may be prescribed by the aforementioned Permanent Committee. The Revolving Fund shall be considered self-perpetuating and self-liquidating and all obligations or expenditures incurred by virtue of said business-type activities shall be charged against the Revolving Fund: Provided, That interest and other income earned shall be deposited with the National Treasury and shall accrue to the General Fund pursuant to Section 65 of P.D. No. 1445 in relation to Section 29(l) of Article VI of the Constitution. The agency concerned shall submit to the Department of Budget and Management, copy furnished the House Committee on Appropriations and the Senate Committee on Finance, a quarterly report of the income from this Fund and a quarterly report of expenditure. In case of failure to submit said requirements, no withdrawal in the subsequent quarter shall be allowed in audit except upon certification of the Department of Budget and Management that said report was submitted."
+   }
+  },
+  {
+   "id": "PH-H6144-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Trust Receipts. Receipts from non-tax sources authorized by law for specific purposes which are collected/received by a government office or agency acting as a trustee, agent or administrator, or which have been received as guaranty for the fulfillment of an obligation, and all other collections classified by law or regulations as trust receipts shall be treated as trust liability of the agency concerned and deposited in an authorized government depository bank or in the National Treasury, as the case may be, subject to the conditions prescribed under the Special Provisions of the agency concerned and to the rules and regulations as determined by the Permanent Committee created under Section 45 of Book VI, E.O. No. 292. Payment out of such funds shall be made in accordance with the purpose for which the fund is created and subject to accounting and auditing regulations: Provided, That deposits in authorized government depository banks shall be withdrawable, subject to existing budget, accounting and auditing rules and regulations without the need for issuance of a Notice of Cash Allocation: Provided, further, That if the amount is deposited in an interest-earning account, the interest shall accrue to the General Fund and shall be remitted to the National Treasury at the end of each quarter."
+   }
+  },
+  {
+   "id": "PH-H6144-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Seminar and Conference Fees. Departments, bureaus, offices or agencies which conduct training programs approved jointly by the Department of Budget and Management and the Civil Service Commission are authorized to collect seminar and conference fees from government and private agency participants, at such standard rates as the Department of Budget and Management and the Civil Service Commission shall deem appropriate. The proceeds derived from such seminars or conferences may be made available for the conduct of such seminars and conferences, subject to pertinent budget, accounting and auditing rules and regulations: Provided, That any excess therefrom shall be remitted to the National Treasury: Provided, further, That upon the conclusion of the seminar or conference, the office authorized to conduct the same shall submit to the Department of Budget and Management a report of the income realized and of the expenses incurred: Provided, finally, That no appropriation authorized in this Act shall be used to support or augment expenses for seminars or conferences."
+   }
+  },
+  {
+   "id": "PH-H6144-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Sale of Non-Serviceable, Obsolete and Other Unnecessary Equipment. Departments, bureaus, offices or agencies are hereby authorized to sell non-serviceable, obsolete, and other unnecessary equipment. Fifty percent (50%) of the proceeds from the sale of equipment of the agency shall be deemed automatically appropriated for the purchase of new ones except cars, vans and the like and for the repair or rehabilitation of existing vital equipment for which no fund has been provided in this Act."
+   }
+  },
+  {
+   "id": "PH-H6144-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "Sale of Products. Departments, bureaus, offices or agencies are hereby authorized to sell products of agricultural, industrial or other projects, including official publications. The proceeds derived therefrom shall be deposited with the National Treasury and shall accrue to the General Fund, pursuant to Section 44 of Book VI, E.O. No. 292, unless otherwise provided by law or by Special Provision in this Act."
+   }
+  },
+  {
+   "id": "PH-H6144-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "Donations. Departments, bureaus, offices or agencies are authorized to accept donations, contributions, grants, bequests or gifts, in cash or in kind, from foreign governments, international and local agencies, private entities or individuals for purposes relevant to their functions. Such receipts shall be accounted for in the books of the government and shall be subject to pertinent accounting and auditing rules and regulations. Such donations, whether in cash or in kind, shall be deemed automatically appropriated for the purposes specified by the donor. Receipts from cash donations and sale of donated commodities shall be remitted to the National Treasury and recorded as a Special Account in the General Fund. The Department of Budget and Management shall issue the necessary obligational authority on the basis of the grant agreement and in accordance with a Work and Financial Plan to be submitted by the recipient agency. The corresponding cash requirements shall be released upon remittance of the grant proceeds as certified by the Bureau of Treasury. The agency concerned shall submit to the Department of Budget and Management and to the Commission on Audit a quarterly report of the expenditures or disbursements of the amount released. The implementation of this section shall be in accordance with the rules and regulations issued jointly by the Department of Budget and Management and the Department of Finance."
+   }
+  },
+  {
+   "id": "PH-H6144-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "text": {
+    "en": "Expenditures Funded from Borrowing. The amounts appropriated in this Act and funded from local or foreign borrowing shall be released in accordance with loan drawdowns or in the manner stipulated in the financing agreement concerned, subject to Section 35 of Book VI, E.O. No. 292."
+   }
+  },
+  {
+   "id": "PH-H6144-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "text": {
+    "en": "Foreign Purchases and Other Importations. Purchases under foreign military sales agreements, heavy equipment imports for infrastructure projects and other importations of agencies which are financed by foreign borrowings or by Bangko Sentral consolidated borrowing programs shall be subject to the requirement of a certification of availability of appropriations released for the purpose, to the requirements of LOI No. 880 and to applicable laws, rules and regulations."
+   }
+  },
+  {
+   "id": "PH-H6144-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "text": {
+    "en": "Loan Agreements. Departments, bureaus, offices or agencies, including government-owned and/or controlled corporations, shall in no case enter into foreign or domestic loan agreements, whether in cash or in kind, except upon concurrence of the Secretary of Budget and Management with respect to peso requirements and implications on expenditure ceilings and prior approval of the President of the Philippines, with the prior concurrence of the Monetary Board, subject to such limitations as may be provided by law: Provided, That the Monetary Board shall within thirty days from the end of every quarter of the calendar year, submit to the Congress of the Philippines a report of its decisions on applications for loans to be contracted or guaranteed by the government or government-owned and/or controlled corporations which have the effect of increasing the foreign debt. Loans shall not be contracted by agencies of the national government unless the full amount of the loan is covered by an Obligational Authority issued by the Secretary of Budget and Management. For this purpose, the budgetary implications of foreign-assisted projects shall be explicitly considered by the Secretary of Budget and Management and the office or agency concerned at the time of project design and financing negotiations. The project study shall specify the cash flow requirements of the project among others, for: (a) payment of principal and interest; (b) peso component of capital costs and project preparation; (c) infrastructure and support facilities needed to be directly financed by government; (d) operating and other expenditures which will be ultimately required for general fund support when the project is implemented; and (e) peso requirements needed as counterpart."
+   }
+  },
+  {
+   "id": "PH-H6144-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "text": {
+    "en": "Performance Bonds and Deposits. Performance bonds and deposits filed or posted by private persons or entities with agencies of the government shall be deposited with an authorized government depository bank as trust liabilities and under the name of the agency concerned. Upon faithful performance of the undertaking or termination of the obligation for which the bond or deposit was required, any amount due shall be returned to the filing party and the office or agency concerned, withdrawable in accordance with accounting and auditing rules and regulations: Provided, That any interest accruing on deposit accounts and any forfeited amounts shall be recorded as income of the General Fund and shall be remitted to the National Treasury at the end of each quarter. This provision shall apply to bonds posted in cash, such as bidder's bond, guaranty bonds, bail bonds, judicial deposits for the benefit of clients, cash under litigation deposited in court or quasi-judicial bodies and other refundable and judicial bonds, and all bonds and deposits required by law, rules and regulations to be posted to ensure the faithful performance of an activity or undertaking.\nAUTHORIZED EXPENDITURES"
+   }
+  },
+  {
+   "id": "PH-H6144-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "text": {
+    "en": "Restrictions on the Use of Appropriated Funds . The amounts released, particularly for, but not limited to, petroleum, oil and lubricants as well as for water, illumination and power services, telephone and other communication services, rents, retirement gratuity and terminal leave requirements shall be disbursed solely for such items of expenditures in accordance with the Work and Financial Plan as approved by the Secretary of Budget and Management.\nThe use of funds in violation of this Section shall be null and void, and shall subject the erring officials and employees to disciplinary action under the provisions of Sections 43 and 80 of Book VI, E.O. No. 292 and to appropriate criminal action under existing penal laws."
+   }
+  },
+  {
+   "id": "PH-H6144-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "text": {
+    "en": "Restrictions on the Use of Government Funds. No government funds shall be utilized for the following purposes:\n(1) To purchase motor vehicles, except medical ambulances, military and police patrol vehicles, other utility vehicles, road construction equipment, motorized bancas, those used for mass transport when necessary in the interest of the public service, and those authorized by the President, the Senate President, the Speaker of the House of Representatives, or the Chief Justice of the Supreme Court;\n(2) To defray foreign travel expenses of any government official or employee, except in the case of training seminar or conference abroad when the officials and other personnel of the foreign mission cannot effectively represent the country therein and travels necessitated by international commitments;\n(3) To provide fuel, parts, repair and maintenance to any government vehicle which is not permanently marked \"For Official Use Only\" with the name or logo of the agency, nor otherwise properly identified as a government vehicle and does not carry its official government plate number, except official vehicles assigned to the President, Vice-President, Senate President, Speaker of the House of Representatives, Chief Justice of the Supreme Court and Chairmen of the Constitutional Commissions and those used by personnel performing intelligence and national security functions: Provided, That in case of transport crisis, such as that occasioned by street demonstrations, welgang bayan, floods, typhoons and other emergencies, all government vehicles of any type whether luxury cars or utility vehicles, shall be made available to meet the emergency and utilized to transport for free the commuters on a round-the-clock basis;\n(4) To pay honoraria , allowances or other forms of compensation to any government official or employee, except those specifically authorized by law;\n(5) To be invested in nongovernment securities, money market placements and similar investments or deposited in private banking institutions.\nThe provisions of this section shall apply to local government units, political subdivisions and government-owned and/or controlled corporations.\nThe implementation of this section shall be in accordance with the rules and regulations issued by the Department of Budget and Management, in coordination with the Commission on Audit."
+   }
+  },
+  {
+   "id": "PH-H6144-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "text": {
+    "en": "National Internal Revenue Taxes and Import Duties of National and Local Government Agencies as well as Government-Owned and / or Controlled Corporations, Including Armed Forces of the Philippines Commissary, Exchange Service (AFPCES) and Philippine National Police Storage Store System (PNPSSS). National internal revenue taxes and import duties payable by national government agencies to the National Government as well as customs duties and taxes for the importation of equipment by local government units, are deemed automatically appropriated. Tax expenditure subsidy to various government-owned and/or controlled corporations, including AFPCES, thru the Department of National Defense, and PNPSSS thru the Department of the Interior and Local Government, shall be deemed automatically appropriated, subject to approval by the Fiscal Incentives Review Board (FIRB) pursuant to Executive Order No. 93, as amended. The amounts pertaining to such taxes and duties shall be considered as revenue and expenditure of the government.\nThe implementation of this section shall be in accordance with guidelines jointly issued by the Department of Budget and Management and the Department of Finance."
+   }
+  },
+  {
+   "id": "PH-H6144-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "text": {
+    "en": "Expenditure Components. Except by act of the Congress of the Philippines, no change or modification shall be made in the expenditure items authorized in this Act and other appropriations laws unless in cases of augmentations from savings in appropriations as authorized under Section 25(5) of Article VI of the Constitution."
+   }
+  },
+  {
+   "id": "PH-H6144-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "text": {
+    "en": "Use of Savings. The President of the Philippines, the President of the Senate, the Speaker of the House of Representatives, the Chief Justice of the Supreme Court, the Heads of Constitutional Commissions under Article IX of the Constitution, the Ombudsman, and the Commission on Human Rights are hereby authorized to augment any item in this Act for their respective offices from savings in other items of their respective appropriations."
+   }
+  },
+  {
+   "id": "PH-H6144-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "text": {
+    "en": "Priority in the Use of Savings. In the use of savings, priority shall be given to the augmentation of the amounts set aside for compensation, bonus, retirement gratuity, terminal leave, old-age pension of veterans and other personnel benefits authorized by law and those expenditure items authorized in agency Special Provisions and in other sections of the General Provisions of this Act."
+   }
+  },
+  {
+   "id": "PH-H6144-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "text": {
+    "en": "Meaning of Savings and Augmentation. Savings refer to portions or balances of any programmed appropriation free of any obligation or encumbrance still available after the satisfactory completion or unavoidable discontinuance or abandonment of the work, activity or purpose for which the appropriation is authorized, or arising from unpaid compensation and related costs pertaining to vacant positions and leaves of absence without pay.\nAugmentation implies the existence in this Act of an item, project, activity or purpose with an appropriation which upon implementation or subsequent evaluation of needed resources is determined to be deficient. In no case, therefore, shall a non­existent item, project, activity, purpose or object of expenditure be funded by augmentation from savings or by the use of appropriations authorized otherwise in this Act."
+   }
+  },
+  {
+   "id": "PH-H6144-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "text": {
+    "en": "Information Outlay. The appropriations pertaining to information activities of various departments, bureaus, offices or agencies shall be released upon presentation of an appropriate program of activities prepared by their respective Heads, copies of which shall be furnished the House Committee on Appropriations and the Senate Committee on Finance."
+   }
+  },
+  {
+   "id": "PH-H6144-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "text": {
+    "en": "Purchase of Supplies, Materials and Equipment Spare Parts. The stock on hand of supplies, materials and equipment spare parts to be acquired through ordinary purchase out of appropriations herein provided shall at no time exceed normal three-month requirements, subject to pertinent rules and regulations issued by competent authority: Provided, That heads of departments, bureaus, offices or agencies or other instrumentalities of the government may approve the build-up of stocks on hand of critical supplies and materials as defined or specified by the Department of Budget and Management in anticipation of cost increases, or requirement of a national emergency, or of an impending shortage in the items concerned, specifying maximum quantities of individual items. Unless otherwise approved by the President, upon the joint recommendation of the Secretary concerned and the Chairman of the Commission on Audit, these stocks shall not exceed one year's need."
+   }
+  },
+  {
+   "id": "PH-H6144-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "text": {
+    "en": "Emergency Purchases. Unless otherwise provided in this Act, departments, bureaus, offices or agencies of the National Government are authorized to make emergency purchases of supplies, materials and spare parts of motor transport equipment that are urgently needed for the repair of ambulances, motor vehicles, vessels and aircrafts or to meet an emergency which may involve the loss of, or danger to, life and/or property, or are to be used in connection with a project or activity which cannot be delayed without causing detriment to the public service, in a monthly amount not exceeding four percent (4%) of the annual agency expenditure program for supplies and materials out of the appropriations allotted for maintenance and other operating expenses of the agency concerned, except as may be authorized by the President of the Philippines upon the joint recommendation of the Department of Budget and Management and the Commission on Audit."
+   }
+  },
+  {
+   "id": "PH-H6144-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "text": {
+    "en": "Purchase of Locally Manufactured Products. All appropriations for the procurement of equipment, supplies and materials authorized in this Act shall be used only for the purchase of locally manufactured equipment, parts, accessories, medicines and drugs, supplies and materials, except when none of the desired quality or standard is available in the market or when the price of the locally manufactured product is more than fifteen percent (15%) of that of a similar product offered by an entity other than a domestic entity pursuant to Section 4 of the Flag Law (Commonwealth Act No. 138, as amended."
+   }
+  },
+  {
+   "id": "PH-H6144-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "text": {
+    "en": "Cultural and Athletic Activities. An amount not exceeding ₱50,000 per annum out of the appropriations allotted for maintenance and other operating expenses for each department, bureau, office or agency and ₱20,000 for each regional office of each regionalized department, bureau, office or agency, may be used for cultural and athletic activities, including purchase of uniforms at not more than ₱700 for each participant, and for supplies and necessary expenses for said activities. The amounts fixed in this Section constitute the allowable maximum to be expended by any department, bureau, office or agency for its cultural and athletic activities, except as otherwise approved by the President of the Philippines: Provided, That these amounts may be pooled by the Secretary concerned into one fund, programmed and controlled to best serve the needs of the department and all the offices, bureaus and agencies therein.\nFor purposes of this Section, the term \"office or agency\" shall be construed to refer only to departments and bureaus and the regular government offices or agencies under them."
+   }
+  },
+  {
+   "id": "PH-H6144-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "text": {
+    "en": "Contracting Multi-Year Projects. In the implementation of multi-year projects, no agency shall enter into a contract without a multi-year Obligational Authority issued by the Department of Budget and Management for the purpose.\nNotwithstanding the issuance of the multi-year Obligational Authority, the obligation to be incurred in any given calendar year, shall in no case exceed the amount programmed for implementation of the multi-year projects during said calendar year."
+   }
+  },
+  {
+   "id": "PH-H6144-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "text": {
+    "en": "Extraordinary and Miscellaneous Expenses. Appropriations herein authorized may be used for extraordinary expenses not exceeding:\n(a) ₱120,000 for each Secretary or equivalent;\n(b) ₱40,000 for each Undersecretary or equivalent;\n(c) ₱16,000 for each Assistant Secretary, head of bureau or organization of equal rank to a bureau and for each Department Regional Director; and\n(d) ₱8,000 for each Bureau Regional Director.\nIn addition, miscellaneous expenses not exceeding ₱24,000 for each of the offices under the above named officials are herein authorized.\nFor purposes of this Section, extraordinary and miscellaneous expenses shall include, but shall not be limited to, expenses incurred for:\n(a) meetings, seminars and conferences;\n(b) official entertainment;\n(c) public relations;\n(d) educational, athletic and cultural activities;\n(e) contributions to civic or charitable institutions;\n(f) membership in government associations;\n(g) membership in national professional organizations duly accredited by the Professional Regulation Commission;\n(h) membership in the Integrated Bar of the Philippines;\n(i) subscription to professional technical journals and informative magazines, library books and materials;\n(j) office equipment and supplies; and\n(k) other similar expenses not supported by the regular budget allocation.\nIn case of deficiency, the fund provided for the purpose shall be augmented from savings of the agency.\nNo portion of the amounts authorized herein shall be used for salaries, wages, allowances, intelligence and confidential expenses.\nThese expenditures shall be subject to the accounting and auditing rules and regulations."
+   }
+  },
+  {
+   "id": "PH-H6144-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "text": {
+    "en": "Release of Intelligence and Confidential Funds. - No amount appropriated in this Act shall be released or disbursed for confidential and intelligence activities unless specifically identified and authorized as such intelligence or confidential fund in this Act.\nIntelligence and confidential funds provided for in the budgets of departments, bureaus, offices or agencies of the national government, including amounts from savings authorized by Special Provisions to be used for intelligence and counter-intelligence activities, shall be released only upon approval of the President of the Philippines: Provided, That at least eighty percent (80%) of intelligence and confidential funds shall be used for field operations.\nAll departments, bureaus and offices shall submit to the Secretary of the Department of Budget and Management, the Chairman of the House Committee on Appropriations and the Chairman of the Senate Committee on Finance, a quarterly report on the utilization of intelligence and confidential funds."
+   }
+  },
+  {
+   "id": "PH-H6144-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "text": {
+    "en": "Release of Funds. Any provision of law to the contrary notwithstanding, the appropriations authorized for the Judiciary, Congress of the Philippines, the Commission on Human Rights, the Office of the Ombudsman, the Civil Service Commission, the Commission on Audit and the Commission on Elections in this Act shall be automatically and regularly released in accordance with the Work and Financial Plan."
+   }
+  },
+  {
+   "id": "PH-H6144-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "text": {
+    "en": "Disbursement of Funds. All appropriated funds shall be disbursed only through the National Treasury and/or originally-chartered government-owned or controlled banks."
+   }
+  },
+  {
+   "id": "PH-H6144-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "text": {
+    "en": "Funding of Contracts and Future Payment of Contractual Obligations. Notwithstanding the availability of deferred payment terms, departments, bureaus, offices or agencies concerned, before entering into contracts involving the expenditure of public funds, including contracts for services or consultancy, contracts of lease, equipment rental, construction of partitions or improvements in leased buildings, or contracts involving an increase in the approved contract price shall secure a certification of availability of funds for the purpose from the agency Chief Accountant, subject to applicable rules and regulations as may be issued by the Department of Budget and Management and to Sections 40 and 58 of Book VI, E.O. No. 292: Provided, That the certification of availability of funds sufficient to cover the cost of the contracted activities shall be contained in and made part of the contract duly signed by the Chief Accountant of the contracting agency, as provided for by LOI No. 968. Departments, bureaus, offices or agencies, before entering into contracts for delivery of goods or services against future payment, shall likewise first secure a certification of the availability of the full contracted amount for such goods or services out of the agency's appropriations. No contracts shall be entered into nor work undertaken without such certification of fund availability."
+   }
+  },
+  {
+   "id": "PH-H6144-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31."
+   },
+   "text": {
+    "en": "Service Contracts. - Departments, bureaus, offices or agencies of the National Government are hereby authorized to enter into contracts with other government agencies, private firms and nongovernmental organizations for services related or incidental to their respective functions and operations, through public bidding or negotiated contracts, whenever it is impractical or more expensive for the government to directly undertake such functions and operations, subject to accounting and auditing rules and regulations: Provided, That the execution of the service contracts shall not operate to automatically abolish or render vacant any existing occupied position in the contracting office or agency."
+   }
+  },
+  {
+   "id": "PH-H6144-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32."
+   },
+   "text": {
+    "en": "Health Financial Assistance Program. Subject to the enactment of a law for the purpose, the amount necessary to cover increases authorized in medicare benefits for GSIS Medicare beneficiaries shall be taken from budgetary savings of national government agencies. For this purpose, the Department of Budget and Management is hereby authorized to set aside the amount necessary to cover this year's Financial Assistance Program from the appropriations provided in this Act for the current operating expenses of the national government agencies concerned. In subsequent years, the requirement for the Health Financial Assistance Program shall be included in the respective budgets of the agencies concerned. The Department of Budget and Management, the Philippine Medical Care Commission and the Government Service Insurance System shall jointly promulgate the necessary rules and regulations to implement this Section."
+   }
+  },
+  {
+   "id": "PH-H6144-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33."
+   },
+   "text": {
+    "en": "Funding of Personnel Benefits. The personnel benefits costs of government officials and employees shall be charged against the respective funds from which their compensations are paid.\nAll authorized supplemental or additional compensation, fringe benefits and other personal services costs of officials and employees whose salaries are drawn from special accounts or special funds, such as salary increases and adjustments, merit increases, incentive and service fees, vacation and sick leaves, retirement and life insurance premiums, compensation insurance premiums, health insurance (Medicare) premiums, HDMF contributions, hospitalization and medical benefits, scholarship and educational benefits, training and seminar expenses, all kinds of allowances, whether commutable or reimbursable, in cash or in kind, and other personnel benefits and privileges authorized by law, including the payment of retirement gratuities, separation pay and terminal leave benefits, shall be charged against the corresponding fund from which their basic salaries are drawn and in no case shall such personnel benefits costs be charged against the General Fund of the national government.\nOfficials and employees on detail with other offices, including the representatives and support personnel of auditing units assigned to serve other offices or agencies, shall be paid their salaries, emoluments, allowances and the foregoing supplemental compensation, fringe benefits and other personal services costs from the appropriations of their parent agencies, and in no case shall such be charged against the appropriations of the agencies where they are assigned or detailed, except when authorized by law."
+   }
+  },
+  {
+   "id": "PH-H6144-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34."
+   },
+   "text": {
+    "en": "Personnel Benefits Fund. The Employees Compensation Insurance Premium Fund, the National Government Contributions to the Health Insurance (Medicare) Fund and the Employers' Share in the Home Development Mutual Fund (Pag-IBIG) shall be released directly by the Department of Budget and Management to the Government Service Insurance System and the Home Development Mutual Fund.\nPayment of amelioration benefits to cover the year-end bonus and cash gift provided under Republic Act No. 6686 shall be released to the department, bureau, office or agency concerned.\nSavings generated in one department, bureau, office or agency shall be used to augment deficient funds in other departments, bureaus, offices or agencies."
+   }
+  },
+  {
+   "id": "PH-H6144-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35."
+   },
+   "text": {
+    "en": "Travelling Expenses. Officials and employees of the government may be allowed full payment of claims for reimbursement of travelling and related expenses incurred in the course of official travel, certified by the head of the agency concerned as absolutely necessary in the performance of an assignment and supported by receipts, chargeable to the allotment for travelling expenses.\nThe implementation of this Section shall be in accordance with the rules and regulations to be issued by the Department of Budget and Management."
+   }
+  },
+  {
+   "id": "PH-H6144-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36."
+   },
+   "text": {
+    "en": "Representation and Transportation Allowances. - The following officials and those of equivalent rank as may be determined by the Department of Budget and Management while in the actual performance of their respective functions are hereby granted monthly commutable representation and transportation allowances payable from the programmed appropriations provided for their respective offices not exceeding the rates indicated below, which shall apply to each type of allowance:\n(a) At ₱3,500 for Secretaries or equivalent;\n(b) At ₱2,400 for Department Undersecretaries or equivalent;\n(c) At ₱2,000 for Assistant Secretaries, Bureau Directors and Department Regional Directors or equivalent;\n(d) At ₱1,700 for Assistant Bureau Directors, Department Assistant Regional Directors, Bureau Regional Directors, Department Service Chiefs or equivalent;\n(e) At ₱1,400 for Assistant Bureau Regional Directors or equivalent;\n(f) At ₱1,300 for Chief of Divisions, identified as such in the Personal Services Itemization.\nThe transportation allowance herein authorized shall not be granted to officials who are assigned a government vehicle or use government motor transportation. Unless otherwise provided by law, no amount appropriated in this Act shall be used to pay for representation and/or transportation allowances, whether commutable or reimbursable, which exceed the rates authorized under this Section. Previous administrative authorizations not consistent with the rates and conditions herein specified shall no longer be valid and payment shall not be allowed.\nAllowances of those officials who are receiving salaries from special accounts or special funds shall be charged against the corresponding fund from which their salaries are charged. Officials on detail with other offices, including officials of the Commission on Audit assigned to serve other offices or agencies, shall be paid the allowance herein authorized from the appropriations of their parent agencies."
+   }
+  },
+  {
+   "id": "PH-H6144-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37."
+   },
+   "text": {
+    "en": "Official Vehicles and Transport. Government motor transportation may be used by the following officials, including those who may be specifically authorized by the President of the Philippines, the President of the Senate with respect to the Senate, and the Speaker, with respect to the House of Representatives, with costs chargeable to the appropriations authorized for their respective offices:\n(a) The President of the Philippines;\n(b) The Vice-President;\n(c) The President of the Senate;\n(d) The Speaker of the House of Representatives;\n(e) The Chief Justice of the Supreme Court;\n(f) The Secretaries, Undersecretaries and officials of equivalent rank;\n(g) The Presiding Justice of the Court of Appeals;\n(h) Ambassadors, Ministers Plenipotentiary and Consuls in charge of Consulates, in their respective stations abroad;\n(i) The Chief of Staff, the Vice-Chief of Staff and the Commanding Generals of the major services of the Armed Forces of the Philippines; and\n(j) The Heads of Constitutional Commissions."
+   }
+  },
+  {
+   "id": "PH-H6144-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38."
+   },
+   "text": {
+    "en": "Uniform and Clothing Allowance. The appropriations herein provided for each department, bureau, office or agency may be used for uniform and clothing allowance of employees at not more than ₱1,300 each per annum which may be given in kind, subject to the discretion of the department head concerned. Savings in the appropriations for each department, bureau or office may be used for this purpose where no amount is specifically appropriated in this Act."
+   }
+  },
+  {
+   "id": "PH-H6144-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39."
+   },
+   "text": {
+    "en": "Hazard Duty Pay. Upon recommendation of the Department Head and approval of the Department of Budget and Management, hazard pay may be allowed to officials and employees who are actually assigned in hardship or difficult areas, strife-torn or embattled areas, distressed or isolated stations, prison camps, mental hospitals, radiation-exposed clinics or laboratories, or disease-infested areas or in areas declared under state of calamity or emergency for the duration thereof which expose them to great danger, contagion, radiation, volcanic activity/eruption, occupational risks or perils to life, chargeable to savings in the appropriations of the department/agency concerned, which shall not be less than ₱100 nor more than ₱300 each per month, except in cases where the rates are specifically provided for under special laws, charters or enabling acts, in which case such rates shall govern, or where more incentives are needed to attract applicants, in which case the sum may be augmented at the rates to be determined by the Department Heads as may be necessary: Provided, That hazard pay by reason of strife-torn or embattled areas shall be subject to the certification issued by the Secretary of National Defense and the rates thereof shall be determined by the Secretary of Budget and Management on the basis of the area classification certified by the Secretary of National Defense. The Secretary of Budget and Management and the Secretary of National Defense shall review from time to time authorizations for the payment of hazard duty pay in strife-torn and embattled areas earlier issued and shall terminate such authorizations in areas where conditions no longer justify the continuation of hazard duty pay."
+   }
+  },
+  {
+   "id": "PH-H6144-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40."
+   },
+   "text": {
+    "en": "Honoraria. Departments, bureaus, offices or agencies are authorized to use their respective appropriations for payment of honoraria as compensation for services rendered by researchers, experts and specialists who are acknowledged authorities in their field of specialization and military personnel who are rendering security service to the Congress of the Philippines including its Committees, at such rates as the Department of Budget and Management may authorize, unless otherwise specifically provided by law."
+   }
+  },
+  {
+   "id": "PH-H6144-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41."
+   },
+   "text": {
+    "en": "Authorized Deductions, Incentive and Service Fees. Deductions from salaries, emoluments or other benefits accruing to any government employee may be allowed for the payment of obligations due or owing to government lending institutions such as government banks, the Government Service Insurance System, duly licensed insurance companies, savings and loans associations, and those organized for, and managed by, government employees. Deductions under Section 21 of R.A. No. 4670, otherwise known as the Magna Carta for Public School Teachers may be allowed, including such deductions representing amortizations arising from educational loan for tuition fees, reasonable amount for textbooks and other school obligations granted by insurance companies duly licensed by the Insurance Commission: Provided, That such deductions shall not reduce the employee's take home pay to an amount lower than one thousand pesos, after deducting all other statutory deductions: Provided, further, That the agencies and offices with existing deductions arrangements with private lenders, shall continue such deductions until the credits/loans outstanding or the premiums of the policies in force at the date of passage of this Act shall have been fully paid.\nService fees collected shall be deposited with the National Treasury or public financial institution and shall accrue to the General Fund, pursuant to Section 44 of Book VI, E.O. No. 292. Such fees may be made available for payment of incentive or service fees to employees who are actually and directly involved in the collection: Provided, however, That such payment to any employee may not, in the aggregate exceed fifty percent (50%) of his annual salary.\nAny surplus of service fees deposited with the National Treasury pursuant to the provisions of the second paragraph hereof, shall form part of a provident fund to be established by the agency in favor of all its employees, which shall be available to employees for emergency needs, school and educational loans, hospitalization loans, minor but immediate need of repair of houses and other similar circumstances. This fund shall be administered pursuant to a set of uniform rules and regulations which the Office of the President shall promulgate."
+   }
+  },
+  {
+   "id": "PH-H6144-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42."
+   },
+   "text": {
+    "en": "Special Counsel Allowance. Lawyer-personnel in the legal staffs of departments, bureaus, offices or agencies of the National Government appearing in Court as special counsel in collaboration with the Solicitor General or Fiscals concerned are hereby authorized an allowance of ₱200 for each appearance, chargeable to savings in the appropriations allotted for personal services of their respective offices, but not exceeding ₱1,000 a month."
+   }
+  },
+  {
+   "id": "PH-H6144-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43."
+   },
+   "text": {
+    "en": "Quarters Allowance. Except as may be authorized by law, government officials and employees who, by virtue of their positions, are furnished free quarters or are charged only a nominal rate in government-owned buildings such as dormitories or living quarters in hospitals, state colleges, universities and schools, foreign posts and elsewhere, shall forfeit entitlement to any quarters allowance. In cases where portions of rented private buildings are authorized to be utilized for officials' quarters, the excess of rental cost over the quarters allowance of the officials shall be borne by the officials or employees concerned. Those who enjoy free quarters in government-owned or rented buildings but who are not entitled to quarters privileges, shall be charged the corresponding cost of rentals therefor. Unless fixed by law or regulations, the rate of quarters allowance or rental, as the case may be, shall be determined by the Department of Budget and Management."
+   }
+  },
+  {
+   "id": "PH-H6144-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44."
+   },
+   "text": {
+    "en": "Compensation of Contractual Personnel. Heads of departments, bureaus, offices or agencies, when authorized in their respective appropriations as provided in this Act, may hire consultants, experts and other contractual personnel to perform specific vital activities or services which cannot be provided by the regular staff of the agency, limited to such period when their services are reasonably required and to activities that shall have a definite expected output. Such contractual personnel may be paid compensation inclusive of fees, honoraria , per diems compensation and allowances not exceeding 120 percent of the minimum salary of an equivalent position in the National Classification and Compensation Plan, except as may be authorized by the Department of Budget and Management in the following instances: (a) when the consultant or expert is an acknowledged authority in his field of specialization; and (b) where the consultant or expert is hired to perform a specific activity or service that requires technical skill and expertise which local labor force cannot provide, or if such expertise is available, the supply is limited: Provided, That in no case shall such compensation exceed the salary of his immediate superior, except as may be otherwise approved jointly by the Civil Service Commission and the Department of Budget and Management."
+   }
+  },
+  {
+   "id": "PH-H6144-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45."
+   },
+   "text": {
+    "en": "Use of Appropriations for Retirement Gratuity and Terminal Leave. Release of appropriations authorized in this Act to cover retirement gratuity benefit claims shall be made on the basis of the Work and Financial Plan of offices and agencies as approved by the Department of Budget and Management. In no case shall payment be made except on the basis of creditable services as computed by the Government Service Insurance System in accordance with the provisions of existing retirement laws. Unless otherwise authorized by law, no amount appropriated in this Act shall be used for payment of retirement gratuity under the provisions of Section 12(c) of C.A. No. 186, as amended by R.A. No. 1616 and terminal leave benefits of retiring officials and employees which include in the computation thereof additional compensation as defined under retirement laws such as bonuses, per diems , allowances and overtime pay, or salary, pay or compensation given in addition to the base pay of the position or rank as fixed by law or regulation.\nSavings generated in one department, bureau, office or agency shall be used to augment deficient funds in other departments, bureaus, offices or agencies.\nThe implementation of this section shall be in accordance with the rules and regulations issued jointly by the Civil Service Commission and the Department of Budget and Management."
+   }
+  },
+  {
+   "id": "PH-H6144-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46."
+   },
+   "text": {
+    "en": "Unauthorized Pre-Retirement Promotions and Salary Increases. No portion of the appropriations provided in this Act shall be used for automatic promotions or for salary increases and adjustments granted to retiring officials and employees, which are not authorized by law and duly formalized in a National Compensation Circular.\nThe implementation of this section shall be in accordance with the rules and regulations issued jointly by the Civil Service Commission and the Department of Budget and Management."
+   }
+  },
+  {
+   "id": "PH-H6144-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47."
+   },
+   "text": {
+    "en": "Personal Liability of Officials for Payment of Unauthorized Personal Services Cost. No official or employee of the National Government, including those of government-owned and/or controlled corporations, shall be paid any unauthorized personal services benefits charged against the appropriations in this Act, other appropriations laws or income of the government.\nThe payment of any unauthorized personal services benefit in violation of this Section is null and void. The erring officials and employees shall be subject to disciplinary action under the provisions of Section 43, Chapter 5 and Section 80, Chapter 7 of Book VI, E.O. No. 292 and to appropriate criminal action under existing penal laws.\nADMINISTRATIVE PROCEDURES"
+   }
+  },
+  {
+   "id": "PH-H6144-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48."
+   },
+   "text": {
+    "en": "Scaling Down and Phase-Out of Activities of Agencies within the Executive Branch. The heads of departments, bureaus, offices and agencies are hereby directed to identify their respective activities which are no longer essential in the delivery of public services and which may be scaled down, phased-out or abolished, subject to Civil Service rules and regulations. Said activities shall be reported to the Office of the President through the Department of Budget and Management and to the Chairman, Committee on Appropriations of the House of Representatives and the Chairman, Committee on Finance of the Senate. Actual scaling down, phase-out or abolition of the activities shall be effected pursuant to Circulars or Orders issued for the purpose by the Office of the President.\nSavings generated by departments, bureaus, offices and agencies on the abolition, phase-out or scaling down of unnecessary activities may be used by the departments, bureaus, offices and agencies concerned for the augmentation of their respective programs, projects and activities."
+   }
+  },
+  {
+   "id": "PH-H6144-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49."
+   },
+   "text": {
+    "en": "Implementation of Reorganization. Pursuant to Section 42, Chapter 5, Book VI of the Administrative Code of 1987, the appropriations includingthe functions, projects, purposes and activities authorized in this Act may be realigned as may be necessary to implement the reorganization of departments, bureaus, offices or agencies of the government as mandated by law. Any unexpended balances or savings in appropriations may be made available for the payment of retirement gratuities and separation benefits as authorized under existing laws to personnel affected by the reorganization."
+   }
+  },
+  {
+   "id": "PH-H6144-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50."
+   },
+   "text": {
+    "en": "Entitlement to Personnel Economic Relief Allowance (PERA). The Personnel Economic Relief Allowance (PERA) in the amount of Five hundred pesos (₱500) per month shall be granted to all appointive national and local government employees occupying itemized plantilla positions with Salary Grade 23 or below, to casual and contractual employees of equivalent grade who have rendered at least twelve (12) months continuous or uninterrupted service and to company grade officers and non­commissioned and enlisted personnel of the Armed Forces of the Philippines who are receiving regular pay and to uniformed personnel of the Philippine National Police, Bureau of Fire Protection, Bureau of Jail Management and Penology and the Philippine Public Safety College: Provided, That employees of government-owned and/or controlled corporations shall be paid from their respective corporate fund: Provided, further, That appointive local government employees, except members of local legislative bodies, shall be paid from their respective internal revenue allotment and local funds in accordance with the following schedule:\nFor Provinces/Cities\nFor Municipalities\nSpecial Cities and 1st Class 100% 90% 2nd Class and 3rd Class 90% 80% 4th Class, 5th Class and 6th Class 80% 70% Provided, furthermore, That no employee whether national, local or corporate, receiving commutable representation and/or transportation allowance or equivalent fringe benefits or allowances under existing corporate policy or practice shall be granted the Personnel Economic Relief Allowance (PERA) herein authorized."
+   }
+  },
+  {
+   "id": "PH-H6144-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51."
+   },
+   "text": {
+    "en": "Grant of Additional Compensation of ₱500 Per Month. An additional compensation in the amount of Five hundred pesos (P500) per month shall be granted (1) to public school teachers occupying positions allocated to Salary Grade 25 and below; (2) to uniformed personnel of the Philippine National Police up to the rank of Superintendent and of the Armed Forces of the Philippines up to the rank of Lieutenant Colonel; and (3) to the rest of government personnel occupying positions allocated to Salary Grade 25 and below, whether regular personnel or full-time casual, those on temporary status or contractual personnel whose employments are in the nature of a regular employee, pursuant to A.O. No. 53 dated May 17,1993."
+   }
+  },
+  {
+   "id": "PH-H6144-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52."
+   },
+   "text": {
+    "en": "Pay Adjustment of AFP and PNP, BFP, BJMP, and PPSC Uniformed Personnel. The President of the Philippines is authorized to adjust the basic pay of the AFP military personnel and of the uniformed personnel of the Philippine National Police (PNP), Bureau of Fire Protection (BFP), Bureau of Jail Management and Penology (B JMP) and the Philippine Public Safety College (PPSC) upon the recommendation of the AFP Chief of Staff and the Secretary of National Defense, the PNP Director-General, the Chairman of the National Police Commission and the Secretary of the Department of the Interior and Local Government, as applicable within their respective jurisdictions, and the Secretary of Budget and Management: Provided, That the fund requirements for the implementation of such adjustment for fiscal year 1994 shall be drawn from the Compensation Adjustment Fund and other appropriate funding sources authorized in this Act and from savings in the appropriations of the agencies concerned."
+   }
+  },
+  {
+   "id": "PH-H6144-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53."
+   },
+   "text": {
+    "en": "Funding of National Government Agencies in the Autonomous Regions. National government offices and agencies in the Autonomous Region of Muslim Mindanao which are not excluded under paragraph (9), Section 2, Article V of R.A. No. 6734, together with their personnel, equipment, properties and budgets shall be placed under the control and supervision of the Regional Government, pursuant to a schedule prescribed by the Oversight Committee in accordance with its mandate under the provisions of R.A. No. 6734. Prior to said transfer, the said agencies of the national government shall continue their operations and discharge of their respective functions."
+   }
+  },
+  {
+   "id": "PH-H6144-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54."
+   },
+   "text": {
+    "en": "Use of Fund and Releases to the Autonomous Region in Muslim Mindanao. The lump-sum appropriations provided in the various departments of the national government intended for the Autonomous Region in Muslim Mindanao shall be used for regular programs and specific activities identified upon the initiative of the respective Representatives of the Congressional Districts therein. No portion of the lump-sum appropriation provided herein shall be released without the concurrence of the said Representatives of the Congressional Districts."
+   }
+  },
+  {
+   "id": "PH-H6144-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55."
+   },
+   "text": {
+    "en": "Training Programs. Departments, bureaus, offices or agencies shall review and formulate their training programs to make the same responsive to the organizational needs and manpower requirements of agencies and the need to train personnel in skills and attitudes. Such training programs shall be consistent with the rules and regulations issued by the Training Coordination Committee created under LOI No. 754, which shall review and evaluate training activities."
+   }
+  },
+  {
+   "id": "PH-H6144-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56."
+   },
+   "text": {
+    "en": "Direct Release of Funds to Regional Offices. Funds allotted for regional offices but included in the budgets of their central offices or which are specifically allocated for the different regions shall be released directly to said regional offices. Imposition of any retention or deduction as reserves shall not be allowed except as may be authorized by the Department of Budget and Management. For this purpose, the Department of Budget and Management shall identify by region the expenditure programs of agencies in the national government budget and shall release funds intended for them in accordance with the approved regional distribution of expenditures specifying the region of destination. Copies of fund releases to the said regional offices shall be furnished the House Committee on Appropriations and the Senate Committee on Finance."
+   }
+  },
+  {
+   "id": "PH-H6144-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57."
+   },
+   "text": {
+    "en": "Prohibition Against Deduction /Retention of Allotment. Fund releases from appropriations provided in this Act for any function/project shall be transmitted intact or in full to the office or agency concerned and no retention or deduction as reserves or overhead shall be made, except as authorized by law or upon direction of the President of the Philippines. The Commission on Audit shall ensure compliance with this provision to the extent that sub-allotments by departments and/or central agencies to their subordinate offices are in conformity with allocations in budgetary Advice of Allotments issued by the Department of Budget and Management."
+   }
+  },
+  {
+   "id": "PH-H6144-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58."
+   },
+   "text": {
+    "en": "Work and Financial Plan. All departments, bureaus, offices and agencies, including government-owned and/ or controlled corporations, shall submit their respective Work and Financial Plans as may be required by the Department of Budget and Management as the basis for the release of allotments and notices of cash allocations.\nThe Work and Financial Plan shall be prepared in accordance with the form and content as prescribed by the Secretary of Budget and Management.\nNo deviations shall be allowed from the approved Work and Financial Plan except upon prior approval of the Secretary of Budget and Management.\nAgencies, however, may augment an item of expenditure within Maintenance and Other Operating Expenses (MOOE) from savings in other items of MOOE not exceeding one-third (1/3) of the appropriated amount to be augmented.\nSection 59 . Submission of Quarterly Reports. Within thirty (30) days after the end of each quarter, each department, bureau, office or agency shall submit a quarterly report to the House Committee on Appropriations and the Senate Committee on Finance, copy furnished the Department of Budget and Management, the Commission on Audit, and the appropriate Committee Chairman of the House of Representatives on their cumulative allotments, obligations incurred/liquidated, total disbursements, unliquidated obligations, unobligated and unexpended balances, and the results of expended appropriations.\nThe quarterly report shall include detailed statements on the disbursements and utilization of appropriations for the purchase of motor vehicles and equipment, capital investment outlays, as well as appropriations earmarked and released for rentals, travels, petroleum, oil and lubricants, water, illumination and power services, and telephone and other communication services.\nLikewise, the Department of Budget and Management shall submit to the House Committee on Appropriations, the Senate Committee on Finance and the appropriate Committee Chairman of the House of Representatives, a quarterly report on releases made from the lump-sum Special Purpose Funds, Supplemental Appropriations, Continuing Appropriations and Automatic Appropriations and, as applicable, the unreleased balances of such appropriations."
+   }
+  },
+  {
+   "id": "PH-H6144-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60."
+   },
+   "text": {
+    "en": "Unauthorized Organizational Changes. Unless otherwise created by law or directed by the President of the Philippines, no organizational unit or changes in key position in any department or agency shall be authorized in their respective organization structures and be funded from appropriations provided by this Act."
+   }
+  },
+  {
+   "id": "PH-H6144-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61."
+   },
+   "text": {
+    "en": "Implementation of Construction Projects. Construction projects funded from capital outlays authorized in this Act under the various departments, bureaus, offices or agencies of the national government, including the construction of buildings for state universities, colleges, schools, hospitals, sanitaria, health centers and health stations, roads and bridges, shall be implemented only in accordance with the appropriate standards and specifications for the planning, survey, design and construction of the project as prescribed by the Department of Public Works and Highways or the Department of Transportation and Communications, through either of said departments as the case may be. In addition, land use and zoning guidelines as prescribed by existing laws, rules and regulations shall be strictly observed. In the implementation of the construction projects, Sections 2, 3, 4, 5, 6, 7, 9,10 and 12 of Executive Order No. 182, entitled \"Rationalizing Public Works Measures, Appropriating Funds for Public Works, and for Other Purposes,\" and other legislations on public works shall be strictly complied with, except as otherwise provided in this Act."
+   }
+  },
+  {
+   "id": "PH-H6144-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62."
+   },
+   "text": {
+    "en": "Availability of Capital Outlay Appropriations. Appropriations for capital outlays authorized in this Act shall be available for release and obligation for the purpose specified for a period extending to one Fiscal Year after the end of the year in which appropriated."
+   }
+  },
+  {
+   "id": "PH-H6144-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63."
+   },
+   "text": {
+    "en": "Realignment / Relocation of Capital Outlays and Public Works Projects. The amount appropriated in this Act for construction, replacement, rehabilitation and completion of school buildings, hospitals, sanitaria, health centers, clinics, herbal processing plants, warehouses, and health stations, as well as waterworks/supply and other public works projects under the current year infrastructure program in this Act may be realigned/relocated in cases of imbalanced allocation of projects within the district, duplication of projects, overlapping of funding source and similar cases: Provided, That such request for realignment/relocation shall be made forty-five (45) days after the receipt of the original Advice of Allotment by the agency concerned except in cases of duplication of projects and overlapping of funding source: Provided, further, That such realignment/ relocation is within the congressional district for which the funds were originally allocated: Provided, furthermore, That the realignment shall be for projects within the same category and shall not exceed the total amount originally allocated for the congressional district: and Provided, finally, That the realignment/ relocation shall be made upon the initiative and consent of the representative of the district concerned and with the concurrence of any one of the following: The District Engineer, the Regional Director or Secretary of the Department concerned, regardless of the cost of the project being realigned or relocated.\nThe Department of Budget and Management shall accordingly issue the Advice of Allotment to effect the necessary adjustment without prejudice to the immediate implementation of the realignment/relocation by the concerned implementing agencies."
+   }
+  },
+  {
+   "id": "PH-H6144-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64."
+   },
+   "text": {
+    "en": "Release of Funds. Release of funds for construction, repair and maintenance, rehabilitation, replacement, completion, betterment or improvement of roads and bridges, port works, flood control, waterworks/supply and government buildings and structures as well as for Internal Revenue Allotment and other financial support to local government units shall be made with at least ten (10) days prior written notice to the representative of the district concerned.\nFailure to comply with this Section shall be considered negligence in the performance of duty subject to appropriate administrative/penal sanction."
+   }
+  },
+  {
+   "id": "PH-H6144-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65."
+   },
+   "text": {
+    "en": "Implementing Agency for Nationally Funded Projects. Pursuant to SEC. 17(c) of R.A. No. 7160, the Local Government Code of 1991, projects, facilities, programs and services funded under the General Appropriations Act shall be implemented by the appropriate national government department or agency, irrespective of the nature and location of such projects, facilities, programs and services."
+   }
+  },
+  {
+   "id": "PH-H6144-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 66."
+   },
+   "text": {
+    "en": "Prohibited Expenses in Revolving Funds and Use of Income. No amount of the revolving funds or agency income authorized in this Act for use by the agency shall be used for the payment of discretionary and representation expenses."
+   }
+  },
+  {
+   "id": "PH-H6144-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Section 67."
+   },
+   "text": {
+    "en": "Prohibition on the Release of Funds for Unfilled Positions. No amount herein appropriated for salaries of authorized itemized positions which are unfilled except those in the Judiciary, schools and educational institutions, and hospitals shall be released by the Department of Budget and Management. Amount generated from unfilled positions shall be used to augment the Compensation Adjustment Fund for increase of salaries and wages of all national government personnel, including uniformed personnel of the Armed Forces of the Philippines, Philippine National Police, Bureau of Fire Protection, Bureau of Jail Management and Penology and the Philippine Public Safety College, and the Miscellaneous Personnel Benefits Fund."
+   }
+  },
+  {
+   "id": "PH-H6144-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Section 68."
+   },
+   "text": {
+    "en": "Priority Requirements of New Provinces. All departments, bureaus, offices and agencies shall give priority in their organizational structure and resource allocation to the requirements of the newly created provinces of Biliran, Guimaras and Sarangani for operations and the delivery of basic public services, especially for education, health, labor and welfare, peace and order, administration of justice, revenue collection and other finance services, tourism, environment and natural resources programs."
+   }
+  },
+  {
+   "id": "PH-H6144-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Section 69."
+   },
+   "text": {
+    "en": "Budget Authority. The Philippine National Oil Company (PNOC), the National Power Corporation (NPC) and the National Electrification Administration (NEA) are authorized to operate on the basis of their respective budgets for fiscal year 1993 for the first semester of 1994 until such earlier time as their annual budget is submitted to, and approved by, Congress pursuant to Section 13 of R.A. No. 7638: Provided, That this provision shall not in any way prejudice the upgrading by the President of the compensation of the personnel of the National Power Corporation in accordance with Section 5 of R.A. No. 7648."
+   }
+  },
+  {
+   "id": "PH-H6144-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Section 70."
+   },
+   "text": {
+    "en": "Legislative Liaison Officers. Department Legislative Liaison Officers shall preferably carry the rank of an Assistant Secretary."
+   }
+  },
+  {
+   "id": "PH-H6144-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Section 71."
+   },
+   "text": {
+    "en": "Separability Clause . If for any reason any section or provision of this Act is declared unconstitutional or invalid, other sections or provisions hereof which are not affected thereby shall continue to be in full force and effect."
+   }
+  },
+  {
+   "id": "PH-H6144-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "Section 72."
+   },
+   "text": {
+    "en": "Effectivity . The provisions of this Act shall take effect on January one, nineteen hundred and ninety-four, unless otherwise provided herein.\nApproved, December 30,1993.\nMALACAÑANG\nManila\nDecember 30,1993"
+   }
+  }
+ ]
+}

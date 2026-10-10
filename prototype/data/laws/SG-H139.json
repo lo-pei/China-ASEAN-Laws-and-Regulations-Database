@@ -1,0 +1,373 @@
+{
+ "id": "SG-H139",
+ "title": {
+  "zh": null,
+  "en": "Agency for Science, Technology and Research Act 1990",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p02",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act ASTRA1990",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 26,
+ "chars": 25505,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/ASTRA1990?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 26 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 2 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H139-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Agency for Science, Technology and Research Act 1990."
+   }
+  },
+  {
+   "id": "SG-H139-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“Agency” means the Agency for Science, Technology and Research established under section 3;\n“chief executive officer” means the chief executive of the Agency, and includes any individual acting in that capacity;\n“commercial application”, in relation to any knowledge or technology, means the application, utilisation or exploitation of such knowledge or technology in the manufacture, production, sale, distribution or provision of goods or services in the course of any trade, business, enterprise or profession, and includes any business or commercial activity that is necessary for or related to the promotion, development or growth of any such trade, business, enterprise or profession;\n“financial assistance” includes assistance by way of grant, loan, loan guarantee, the purchase or guarantee of bonds, debentures, notes or other debt obligations or the purchase or acquisition of any stock, shares or other equity securities;\n“member” means a member of the Agency and includes the Chairperson.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H139-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Establishment of Agency for Science, Technology and Research"
+   },
+   "text": {
+    "en": "3.—(1) A body called the Agency for Science, Technology and Research is established, which is a body corporate with perpetual succession and a common seal and is by that name capable of —\n(a)suing and being sued;\n(b)acquiring, owning, holding and developing or disposing of property, both movable and immovable; and\n(c)doing and suffering such other acts or things as bodies corporate may lawfully do and suffer.\n(2) The Agency may perform any of its functions or carry out any of its duties under the business name of A*STAR, or such other business name as the Minister may, by notification in the Gazette, specify."
+   }
+  },
+  {
+   "id": "SG-H139-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Common seal"
+   },
+   "text": {
+    "en": "4.—(1) The Agency must have a common seal and such seal may be broken, altered or made anew as the Agency thinks fit.\n(2) All deeds and other documents requiring the seal of the Agency must be sealed with the common seal of the Agency in the presence of, and be signed by —\n(a)the Chairperson or a Deputy Chairperson of the Agency; and\n(b)an employee of the Agency who is authorised by resolution or otherwise in writing (either generally or specially) to act in that behalf.\n(3) Such signing is sufficient evidence that the common seal of the Agency has been duly and properly affixed and that the seal is the lawful common seal of the Agency.\n(4) All courts, judges and persons acting judicially are to take judicial notice of the common seal of the Agency affixed to any document and presume that it was duly affixed.\n(5) The Agency may, by resolution or otherwise in writing, appoint an employee of the Agency or any other agent (either generally or specially) to execute or sign on behalf of the Agency any agreement or other instrument not under seal in relation to any matter coming within the powers of the Agency.\n(6) Section 11 of the Registration of Deeds Act 1988 does not apply to any instrument purporting to have been executed under subsection (2)."
+   }
+  },
+  {
+   "id": "SG-H139-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Constitution of Agency"
+   },
+   "text": {
+    "en": "5.—(1) The Agency consists of —\n(a)a Chairperson; and\n(b)not less than 8 and not more than 20 other members.\n(2) The Schedule applies to the Agency, its members and proceedings."
+   }
+  },
+  {
+   "id": "SG-H139-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Functions of Agency"
+   },
+   "text": {
+    "en": "6.—(1) The functions of the Agency are —\n(a)to initiate, promote, stimulate, encourage, facilitate and assist in the development of an environment that is conducive —\n(i)to the creation and development of world class research and development capabilities in science (including biomedicine and metrology), engineering and technology in Singapore;\n(ii)to the development and nurture of scientific talent and technical capability in scientific and technological knowledge, research and development that is desirable to support the private sector and public sector, and to the creation of intellectual capital in Singapore; and\n(iii)to the commercial application of scientific knowledge or technology in Singapore;\n(b)to support, direct, stimulate and undertake research and development in the areas of science (including biomedicine and metrology), engineering and technology;\n(c)to stimulate, encourage, facilitate, coordinate and direct scientific and technological research and development by the Government, educational institutions and research communities within and outside Singapore, and to facilitate cooperation, communication, collaboration and exchange of ideas and knowledge between them;\n(d)to provide financial assistance for research and development in the areas of science (including biomedicine and metrology), engineering and technology;\n(e)to promote manpower training and development in the areas of science (including biomedicine and metrology), engineering and technology;\n(f)to provide advice and guidance to the Government in the formulation of its policies and laws on all aspects of science (including biomedicine and metrology), engineering and technology, and on any matter relating to or affecting the commercial application of scientific knowledge or technology;\n(g)to establish, develop and manage public institutes and research institutes in the areas of science (including biomedicine and metrology), engineering and technology;\n(h)to undertake the promotion of science (including biomedicine and metrology), engineering and technology among youths and to create, foster and encourage public awareness and understanding of the importance of science and technology in Singapore;\n(i)to create, develop, apply for, acquire and hold intellectual property and rights and enter into arrangements for the commercial application of any such intellectual property and rights on such terms as to royalties or otherwise as the Agency thinks fit;\n(j)to represent Singapore internationally in respect of matters relating to science (including biomedicine and metrology), engineering and technology;\n(k)to serve as the national body in the area of metrology, and to advise the Government and industrial, commercial and other organisations in respect of matters relating to metrology; and\n(l)to promote and facilitate the national metrology programme and the participation of Singapore in international metrology activities.\n[54/2007]\n(2) In carrying out its functions, the Agency must —\n(a)have regard to the needs of Singapore and its resources;\n(b)have regard to the policies and directions of the Research, Innovation and Enterprise Council established under the National Research Fund Act 2006; and\n(c)promote developments, commercial applications and innovation in areas of science (including biomedicine and metrology), engineering and technology that increase the economic growth, productivity and employment opportunities in Singapore, that enjoy good export market prospects and that will enhance Singapore’s international competitiveness.\n[17/2006; 54/2007]\n(3) In addition to the functions specified in subsection (1), the Agency may undertake such other functions as the Minister may assign to the Agency and in so doing —\n(a)the Agency is deemed to be fulfilling the purposes of this Act; and\n(b)the provisions of this Act apply to the Agency in respect of such additional functions.\n(4) Nothing in this section is to be construed as imposing on the Agency, directly or indirectly, any form of duty or liability enforceable by proceedings before any court."
+   }
+  },
+  {
+   "id": "SG-H139-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Powers of Agency"
+   },
+   "text": {
+    "en": "7.—(1) The Agency has power to do all things that are necessary or convenient to be done for, or in connection with, the performance of its functions and, in particular, may —\n(a)appoint committees or councils consisting of persons who may or may not be members of the Agency and delegate to any such committee or council such of its powers and functions which, in the opinion of the Agency, would be better regulated and managed by means of such committees or councils;\n(b)form or participate in the formation of any company or enter into any joint venture or partnership for the purposes of this Act;\n(c)establish institutes for the conduct of research and development in the areas of science (including biomedicine and metrology), engineering and technology;\n(d)provide financial assistance (including scholarships) —\n(i)for the training and development of manpower in Singapore required for or conducive to the conduct of scientific and technological research and development, or to the commercial application of scientific knowledge or technology; or\n(ii)to any person in the public or private sector for scientific and technological research and development, or for any commercial application of scientific knowledge or technology, in areas defined by the Agency;\n(e)provide or develop incubator facilities for new enterprises, and business support facilities to growing enterprises, which are based on or involved in the commercial application of scientific knowledge or technology developed by any public institute, research institute, educational institution, hospital or other specialty centre, whether or not funded by the Agency;\n(f)establish a national standard of weights, measures and other quantities, hold custody and disseminate the measurement parameters of standards of such weights, measures and other quantities, and verify and develop methods for the measurement of such weights, measures and other quantities;\n(g)develop, verify and calibrate instruments and equipment and issue certificates to the effect that an instrument or equipment complies with the specifications applicable to it and control the use of such certificates;\n(h)undertake such measurement activities as the Agency considers necessary for the upgrading of quality standards in industry or for gaining international recognition;\n(i)establish, administer and operate any scheme considered by the Agency to be necessary or desirable for the development of the metrology infrastructure;\n(j)provide information resources on matters relating to metrology;\n(k)conduct proficiency tests on matters relating to metrology;\n(l)initiate and undertake or enter into contractual testing, consultancy, research or development projects for the purposes of its functions;\n(m)collect, compile, analyse and disseminate by any convenient means information of a statistical nature or otherwise concerning matters relating to its functions;\n(n)receive, acquire, develop or hold, or sell, mortgage or otherwise dispose of any property, movable or immovable, or any interest in the property;\n(o)establish and maintain offices within and outside Singapore;\n(p)promote or undertake publicity in any form;\n(q)publish or produce, or sponsor the publication or production of, periodicals, booklets, films and other materials in written, electronic or other media;\n(r)receive donations and contributions from any source and raise funds by all lawful means;\n(s)with the approval of the Minister, establish any scheme for the payment of gratuities, pensions, provident fund or other superannuation benefits to such employees or classes of employees of the Agency as it may determine on their death in or retirement from the service of the Agency or on their otherwise leaving the service of the Agency; and\n(t)generally do anything incidental to or consequential upon the exercise of any of its powers or the discharge of its functions under this Act.\n[54/2007; 5/2018]\n(2) The Agency may, with the approval of the Minister, make rules to regulate the proceedings of the Agency and generally to carry out the purposes of this Act.\n(3) The Agency may, in addition to the powers vested in it by subsection (1), exercise such other powers as the Minister may authorise the Agency in writing to exercise."
+   }
+  },
+  {
+   "id": "SG-H139-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Grants-in-aid"
+   },
+   "text": {
+    "en": "8. For the purpose of enabling the Agency to carry out its functions under this Act, the Minister may make grants‑in‑aid to the Agency of such sums of money as the Minister may determine out of moneys to be provided by Parliament."
+   }
+  },
+  {
+   "id": "SG-H139-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Power to borrow"
+   },
+   "text": {
+    "en": "9. The Agency may for the purposes of this Act raise loans from the Government or, with the Minister’s consent, from any other source."
+   }
+  },
+  {
+   "id": "SG-H139-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Issue of shares, etc."
+   },
+   "text": {
+    "en": "10. As a consequence of —\n(a)the vesting of any property, rights or liabilities of the Government in the Agency under this Act; or\n(b)any capital injection or other investment by the Government in the Agency in accordance with any written law,\nthe Agency must issue such shares or other securities to the Minister for Finance as that Minister may direct."
+   }
+  },
+  {
+   "id": "SG-H139-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Bank accounts and application of revenue"
+   },
+   "text": {
+    "en": "11.—(1) The Agency must open and maintain one or more accounts with any bank or banks that the Agency thinks fit.\n(2) Every account under subsection (1) must be operated upon as far as practicable by cheque signed by such person or persons authorised to do so by the Agency.\n(3) The moneys of the Agency must be applied only in payment or discharge of the expenses, obligations and liabilities of the Agency and in making any payments that the Agency is authorised or required to make."
+   }
+  },
+  {
+   "id": "SG-H139-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Power of investment"
+   },
+   "text": {
+    "en": "12. The Agency may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965.\n[45/2004]"
+   }
+  },
+  {
+   "id": "SG-H139-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "text": {
+    "en": "13. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H139-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Financial year"
+   },
+   "text": {
+    "en": "14. The financial year of the Agency begins on 1 April of each year and ends on 31 March of the succeeding year.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H139-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Directions by Minister"
+   },
+   "text": {
+    "en": "15.—(1) The Minister may give to the Agency any direction under section 5 of the Public Sector (Governance) Act 2018.\n[5/2018]\n(2) The annual report for any year must set out any directions given by the Minister under subsection (1) and must contain a report of any action taken by the Agency during that year pursuant to the directions."
+   }
+  },
+  {
+   "id": "SG-H139-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Chief executive officer, other officers and employees, etc."
+   },
+   "text": {
+    "en": "16.—(1) There must be a chief executive officer of the Agency, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.\n[5/2018]\n(2) The Agency may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the chief executive officer during any period, or during all periods, when the chief executive officer —\n(a)is absent from duty or Singapore; or\n(b)is, for any reason, unable to perform the duties of the office.\n[5/2018]\n(3) The Agency may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H139-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "heading": {
+    "en": "Protection from personal liability"
+   },
+   "text": {
+    "en": "17. No suit or other legal proceedings shall lie personally against any member, officer or employee of the Agency or other person acting under the direction of the Agency for anything which is in good faith done or intended to be done in the execution or purported execution of this Act."
+   }
+  },
+  {
+   "id": "SG-H139-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "text": {
+    "en": "18. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H139-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "heading": {
+    "en": "Preservation of secrecy"
+   },
+   "text": {
+    "en": "19.—(1) Except for the purpose of performing his or her duties or exercising his or her functions or when lawfully required to do so by any court or where required or allowed by the provisions of any written law, a member, officer, employee or agent of the Agency must not disclose any information relating to the affairs of any person which has been obtained by the member, officer, employee or agent in the performance of his or her duties or the exercise of his or her functions.\n[5/2018]\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H139-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "heading": {
+    "en": "Symbol or representation of Agency"
+   },
+   "text": {
+    "en": "20.—(1) The Agency has the exclusive right to the use of such symbol or representation as the Agency may select or devise and to display or exhibit such symbol or representation in connection with the Agency’s activities or affairs.\n(2) Any person who —\n(a)uses a symbol or representation that is identical to the Agency’s symbol or representation; or\n(b)uses a symbol or representation that so resembles the Agency’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or cause confusion,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H139-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "heading": {
+    "en": "Saving provisions"
+   },
+   "text": {
+    "en": "21.—(1) The change of the name of the National Science and Technology Board to the Agency for Science, Technology and Research under the National Science and Technology Board (Amendment) Act 2002 does not —\n(a)operate to create a new legal entity;\n(b)prejudice or affect the identity of the body corporate constituted by the Board or its continuity as a body corporate;\n(c)affect the exercise of any right, or the enforcement of any obligation by or against the Board, or any other person; or\n(d)render defective any legal proceedings by or against the Board,\nand any legal proceedings that might have been continued or started by or against it by its former name may be continued or started by or against it by its new name “Agency for Science, Technology and Research”.\n(2) Any reference in any written law or document to the National Science and Technology Board and to the National Science and Technology Board Act (Cap. 201A, 1991 Revised Edition) is to be read as a reference to the Agency for Science, Technology and Research and the Agency for Science, Technology and Research Act 1990, respectively.\n(3) Any contract, arrangement or other transaction purporting to be entered into by the Agency for Science, Technology and Research, or by any person on behalf of the Agency, on or after 1 January 2002 but prior to the commencement of the National Science and Technology Board (Amendment) Act 2002 binds the Agency as if the Agency had been a party to the contract, arrangement or transaction, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H139-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "heading": {
+    "en": "Transfer to Agency of property, assets, liabilities, etc., relating to metrology"
+   },
+   "text": {
+    "en": "22.—(1) As from 1 January 2008, all movable and immovable property vested in the Board and used or managed by the national metrology centre of the Board, and all assets, interests, rights, privileges, liabilities and obligations of the Board relating to the national metrology centre, are transferred to and vest in the Agency without further assurance, act or deed.\n(2) If any question arises as to whether any particular property, asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Agency under subsection (1), a certificate under the hand of the Minister is conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.\n(3) In this section and sections 23, 24 and 27, “Board” means the Standards, Productivity and Innovation Board established under section 3 of the Standards, Productivity and Innovation Board Act (Cap. 303A, 2002 Revised Edition).\n[54/2007]"
+   }
+  },
+  {
+   "id": "SG-H139-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "heading": {
+    "en": "Transfer of employees"
+   },
+   "text": {
+    "en": "23.—(1) As from 1 January 2008, every person employed immediately before that date by the Board in its national metrology centre is transferred to the service of the Agency on terms no less favourable than those enjoyed by him or her immediately prior to his or her transfer.\n(2) If any question arises as to whether any person has been transferred to the service of the Agency under subsection (1), a certificate under the hand of the Minister is conclusive evidence that the person was or was not so transferred.\n(3) Until such time as terms and conditions of service are drawn up by the Agency, the scheme and terms and conditions of service in the Board continue to apply to every person transferred to the service of the Agency under subsection (1) as if he or she were still in the service of the Board.\n(4) The terms and conditions to be drawn up by the Agency must take into account the terms and conditions of service (including salaries and accrued rights to leave) enjoyed by the persons transferred to the service of the Agency under subsection (1) while in the employment of the Board.\n(5) Any term or condition relating to the length of service with the Agency must recognise the length of service of the persons so transferred while in the employment of the Board to be service with the Agency.\n[54/2007]"
+   }
+  },
+  {
+   "id": "SG-H139-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "heading": {
+    "en": "Existing contracts"
+   },
+   "text": {
+    "en": "24. All deeds, bonds, agreements, instruments and arrangements subsisting immediately before 1 January 2008 to which the Board, or any person acting on its behalf, is a party and relating to —\n(a)the national metrology centre of the Board;\n(b)any property, asset, interest, right, privilege, liability or obligation transferred to and vested in the Agency under section 22; or\n(c)any employee of the Board transferred to the service of the Agency under section 23,\ncontinue in force on and after that date and are enforceable by or against the Agency as if, instead of the Board or the person acting on its behalf, the Agency had been named therein or had been a party thereto.\n[54/2007]"
+   }
+  },
+  {
+   "id": "SG-H139-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "heading": {
+    "en": "Misconduct or neglect of duty by employee before transfer"
+   },
+   "text": {
+    "en": "25. The Agency may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person transferred to the service of the Agency under section 23 who had, while he or she was in the employment of the Board, been guilty of any misconduct or neglect of duty which would have rendered him or her liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he or she had continued to be in the employment of the Board, and if section 23 had not been enacted.\n[54/2007]"
+   }
+  },
+  {
+   "id": "SG-H139-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nSection 5\nConstitution and proceedings of Agency\nAppointment of Chairperson and other members\n1.—(1) The Chairperson and other members must be appointed by the Minister.\n(2) The Minister may appoint the chief executive officer to be a member of the Agency.\nTenure of office of members\n2. A member holds office on such conditions and for such term, as the Minister may determine.\nDeputy Chairperson\n3.—(1) The Minister may appoint not more than 2 members to be Deputy Chairpersons of the Agency.\n(2) At any time when the Chairperson is absent or otherwise incapable of acting and no temporary Chairperson has been appointed —\n(a)such one of the Deputy Chairpersons as the Chairperson may designate; or\n(b)if there is only one Deputy Chairperson, that Deputy Chairperson,\nmay exercise any of the functions of the Chairperson.\nTemporary Chairperson\n4. The Minister may appoint any member to be a temporary Chairperson during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairperson.\nTemporary members\n5. The Minister may appoint any person to be a temporary member during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of any member.\nRevocation of appointment\n6. The Minister may, at any time, revoke the appointment of the Chairperson or a Deputy Chairperson or any member without giving any reason.\nResignation\n7. Any member may resign from his or her appointment at any time by giving written notice to the Minister.\nChairperson may delegate functions\n8. The Chairperson may, by instrument in writing, authorise any member to exercise any power or perform any function conferred on the Chairperson by or under this Act.\nVacation of office\n9. The office of a member is vacated if the member —\n(a)has been absent, without leave of the Agency, from 3 consecutive meetings of the Agency; or\n(b)becomes in any manner disqualified from membership of the Agency.\nFilling of vacancies\n10. If a member resigns, dies or has his or her appointment revoked or otherwise vacates his or her office before the expiry of the term for which he or she has been appointed, the Minister may appoint another person for the unexpired period of the term of office of the member in whose place he or she is appointed.\nDisqualification from membership\n11. No person may be appointed or continue to hold office as a member if he or she —\n(a)has a mental disorder and is incapable of managing himself or herself, or his or her affairs;\n(b)is an undischarged bankrupt or has made any arrangement or composition with his or her creditors; or\n(c)is convicted of an offence involving dishonesty, fraud or moral turpitude and has not received a free pardon.\nSalaries, fees and allowances payable to members\n12. There are to be paid to the Chairperson and other members out of the funds of the Agency such salaries, fees and allowances as the Minister may determine.\nMeetings and proceedings of Agency\n13.—(1) The Chairperson may summon meetings as often as may be required.\n(2) The quorum at every meeting of the Agency is the higher of the following:\n(a)one-third of the total number of members;\n(b)3 members.\n(3) A decision at a meeting of the Agency is to be adopted by a simple majority of the members present and voting except that in the case of an equality of votes the Chairperson or member presiding has a casting vote in addition to his or her original vote.\n(4) The Chairperson or in his or her absence a Deputy Chairperson presides at all meetings of the Agency.\n(5) Where both the Chairperson and every Deputy Chairperson are absent at a meeting, a member elected by the members present presides at that meeting.\n(6) Where not less than 4 members of the Agency request the Chairperson by written notice signed by them to convene a meeting of the Agency for any purpose specified in the notice, the Chairperson must, within 7 days from the receipt of the notice, convene a meeting for that purpose.\n(7) The Agency may act despite any vacancy in its membership.\n(8) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Agency may make rules to regulate its own procedure generally, and, in particular, the holding of meetings, the notice to be given of the meetings, the proceedings at the meetings, the keeping of minutes and the custody, production and inspection of the minutes.\nValidity of acts\n14. The acts of a member are valid despite any defect in his or her appointment or qualifications.\n[21/2008; 25/2009; 5/2018]"
+   }
+  }
+ ]
+}

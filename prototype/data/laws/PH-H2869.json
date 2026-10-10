@@ -1,0 +1,64 @@
+{
+ "id": "PH-H2869",
+ "title": {
+  "zh": "设立San Juan市",
+  "en": "An Act Creating the Barrio of Sapangan in the Municipality of San Juan, Province of Batangas",
+  "orig": "An Act Creating the Barrio of Sapangan in the Municipality of San Juan, Province of Batangas"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p40",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1961-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 3392",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 840,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1961/ra_3392_1961.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1961/ra_3392_1961.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H2869-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The sitio of Sapangan in the barrio of Sampiro, Municipality of San Juan, Province of Batangas, is separated from said barrio and constituted into a distinct and independent barrio of said municipality, to be known as the barrio of Sapangan. The barrio shall be bounded on the North by the Municipality of Rosario along the summit or the highest peak of the mountain of Matan-ag, Talon and a portion of Sabutan Creek; on the East by Sabutan Creek; on the South by an imaginary straight line running from East to West beginning from the bank of Sabutan Creek passing through the center of a big duhat tree and a big tamarind tree located near the terminal of the finished Sampiro Road up to the bank of the Sampiro Creek on the West; and on the West by the Sampiro Creek."
+   }
+  },
+  {
+   "id": "PH-H2869-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
+   }
+  }
+ ]
+}

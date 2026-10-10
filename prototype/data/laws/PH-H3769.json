@@ -1,0 +1,74 @@
+{
+ "id": "PH-H3769",
+ "title": {
+  "zh": "设立Mauban市",
+  "en": "An Act Creating a Branch Office of the Register of Deeds of the Province of Quezon, with Permanent Station at the Municipality of Mauban, Same Province and Authorizing the Appropriation of Funds Therefor",
+  "orig": "An Act Creating a Branch Office of the Register of Deeds of the Province of Quezon, with Permanent Station at the Municipality of Mauban, Same Province and Authorizing the Appropriation of Funds Therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p53",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1966-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4784",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 974,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1966/ra_4784_1966.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1966/ra_4784_1966.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3769-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There is hereby created a branch office of the Register of Deeds of the Province of Quezon, with permanent station at the Municipality of Mauban, same province, which shall perform all the duties and functions of the register of deeds for the following municipalities: Mauban, Sampaloc, Infanta, Real, General Nakar, Polillo, Burdeos, Jumalig, Panukulan and Patnanungan."
+   }
+  },
+  {
+   "id": "PH-H3769-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "To carry out the provisions of this Act, there is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of fifteen thousand pesos which shall be spent for the following.\n(a) Deputy Register of Deed ₱3,720.00\n(b) One clerk 1,800.00\n(c) One clerk 1,560.00\n(d) One janitor-messenger 1,440.00\n(e) Sundry expenses 6,480.00 Total outlay ₱15,000.00 Such sums as may be necessary for the same purpose in subsequent years shall be included in the annual General Appropriations Act."
+   }
+  },
+  {
+   "id": "PH-H3769-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
+   }
+  }
+ ]
+}

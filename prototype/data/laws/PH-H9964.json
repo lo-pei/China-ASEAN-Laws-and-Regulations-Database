@@ -1,0 +1,84 @@
+{
+ "id": "PH-H9964",
+ "title": {
+  "zh": null,
+  "en": "An Act Reapportioning the Second Legislative District of the Province of Rizal Into Three (3) Legislative Districts",
+  "orig": "An Act Reapportioning the Second Legislative District of the Province of Rizal Into Three (3) Legislative Districts"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p142",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2021-03-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 11533",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 837,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2021/ra_11533_2021.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2021/ra_11533_2021.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H9964-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The Second Legislative District of the Province of Rizal is hereby reapportioned into three (3) legislative districts, to take effect in the 2022 national and local elections. Each of legislative district shall be composed of the following municipalities:\nSECOND LEGISLATIVE DISTRICT\n(1) Cardona\n(2) Baras\n(3) Tanay\n(4) Morong\n(5) Jala-jala\n(6) Pililia\n(7) Teresa THIRD LEGISLATIVE DISTRICT\n(1) San Mateo FOURTH LEGISLATIVE DISTRICT\n(1) Rodriguez"
+   }
+  },
+  {
+   "id": "PH-H9964-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The Commission on Elections shall issue the necessary implementing rules and regulations within thirty (30) days after the effectivity of this Act."
+   }
+  },
+  {
+   "id": "PH-H9964-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "All laws, rules and regulations which are inconsistent with this Act are hereby repealed or amended accordingly."
+   }
+  },
+  {
+   "id": "PH-H9964-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
+   }
+  }
+ ]
+}

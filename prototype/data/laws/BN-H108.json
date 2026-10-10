@@ -1,0 +1,52 @@
+{
+ "id": "BN-H108",
+ "title": {
+  "zh": "宪法_1959",
+  "en": "Constitutional Matters I – Constitution of Brunei Darussalam (2022 Edition)",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p06",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1959-09-29",
+ "effectiveDate": "1959-09-29",
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "文莱官方发布渠道",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 1294,
+ "source": {
+  "name": "文莱官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "文本未能可靠切分为条文（或原件为目录式排版），按整篇收录，未作改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-H108-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "# Constitutional Matters I – Constitution of Brunei Darussalam (2022 Edition) > 本文件为自动采集的元数据头，随原始文件一同保存。\n> 原始文件未被改写；正文逐字照录于同目录下的原始文件。\n| 项目 | 内容 | | --- | --- | | 原文标题 | Constitutional Matters I – Constitution of Brunei Darussalam (2022 Edition) | | 官方页面标注标题 | CONSTITUTIONAL MATTERS I &#8211; CONSTITUTION OF BRUNEI DARUSSALAM | TOG Template 2 | | 中文译名 | 文莱达鲁萨兰国宪法 | | 英文译名 | Constitution of Brunei Darussalam | | 法律领域 | 宪法 | | 颁布机构 | 文莱总检察署（Attorney General's Chambers, BRULAW） | | 官方来源 URL | https://www.agc.gov.bn/wp-content/uploads/2026/07/CONST.-I-2022-ED-CONSTITUTION-OF-BRUNEI-DARUSSALAM.pdf | | 数据抓取实际 URL | https://www.agc.gov.bn/wp-content/uploads/2026/07/CONST.-I-2022-ED-CONSTITUTION-OF-BRUNEI-DARUSSALAM.pdf | | 颁布日期 | 1959-09-29（官方记录页标注 commencement 29 Sep 1959） | | 生效日期 | 1959-09-29 | | 修订日期 | 2021 年修宪令（S 22/2021）、2024 年修宪令（S 42/2024）（前者见官方记录页所列修订文件） | | 版本 | 2022 年版（官方标注 2022 ED） | | 原文语种 | en | | 来源类型 | 官方（Attorney General's Chambers 官方网站 agc.gov.bn） | | 抓取日期 | 2026-10-03 | | 本地文件 | 文莱_宪法_1959_en.pdf | | 文件格式 | pdf | | 文件大小(字节) | 673293 | | 页数 | 72 | | 字数 |  | | SHA-256 | 8225b0c1829901f8448c6ef8732648dfa120f49bf6f33f62bb0f969c4bf4b748 | | HTTP 状态 | 200 | | HTTPS 证书校验 | verified | | 完整性/缺失范围 | 官方 2022 年版全文 PDF（未删节） | | 备注 | 文莱无成文宪法单一法典外之修宪另以修宪令行之；本文件为官方 2022 年版合并本。 |"
+   }
+  }
+ ]
+}

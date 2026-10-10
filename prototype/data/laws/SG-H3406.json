@@ -1,0 +1,62 @@
+{
+ "id": "SG-H3406",
+ "title": {
+  "zh": null,
+  "en": "Order under Section 11 (3)",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p43",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation RELA1983-OR10",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1755,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/RELA1983-OR10?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 2 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3406-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Revised Edition of the Laws Act\n(Chapter 275, Section 11(3))\nOrder under Section 11(3)\nO 10\nG.N. No. S 96/1995\nREVISED EDITION 1995\n(15th March 1994)\n[15th March 1994]\nWhereas pursuant to section 10 of the Revised Edition of the Laws Act, the Law Revision Commissioners have published in the loose-leaf form the Acts set out in the Schedule as in force on 31st December 1994:\nAnd Whereas it is enacted by section 11(3) of the Revised Edition of the Laws Act that the Commissioners shall transmit to the President a copy of each of the loose-leaf edition of these Acts and the President may thereupon, by order published in the Gazette, specify that the loose-leaf edition of these Acts shall, in all courts and for all purposes, be the sole and only proper law of Singapore in respect of those Acts:\nNow therefore it is hereby ordered by the President that the loose-leaf edition of these Acts shall, with effect from 15th March 1995, be the sole and only proper law of Singapore in respect of those Acts."
+   }
+  },
+  {
+   "id": "SG-H3406-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\n(1)The Charities Act (Chapter 37).\n(2)The Controlled Premises (Special Provisions) Act (Chapter 60).\n(3)The Customs Act (Chapter 70).\n(4)The Development Fund Act (Chapter 80).\n(5)The Enlistment Act (Chapter 93).\n(6)The Finance Companies Act (Chapter 108).\n(7)The Immigration Act (Chapter 133).\n(8)The International Arbitration Act (Chapter 143A).\n(9)The Judges’ Remuneration Act (Chapter 147).\n(10)The Parliamentary Elections Act (Chapter 218).\n(11)The Patents Act (Chapter 221).\n(12)The Revised Edition of the Laws Act (Chapter 275).\n(13)The Singapore Armed Forces Act (Chapter 295).\n(14)The Singapore Broadcasting Authority Act (Chapter 297).\n(15)The Statutory Bodies and Government Companies (Protection of Secrecy) Act (Chapter 319)."
+   }
+  }
+ ]
+}

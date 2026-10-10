@@ -1,0 +1,84 @@
+{
+ "id": "PH-H2677",
+ "title": {
+  "zh": "经费拨款法",
+  "en": "An Act Appropriating the Sum of One Million Pesos for the Relief and Rehabilitation of the Fire Victims of the Municipality of Lao-ang, Province of Samar, and for the Reconstruction of Public Works Which were Destroyed by the Fire of March Twenty-Seven, Nineteen Hundred Sixty-One",
+  "orig": "An Act Appropriating the Sum of One Million Pesos for the Relief and Rehabilitation of the Fire Victims of the Municipality of Lao-ang, Province of Samar, and for the Reconstruction of Public Works Which were Destroyed by the Fire of March Twenty-Seven, Nineteen Hundred Sixty-One"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p38",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1961-06-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 3071",
+ "officialCode": null,
+ "topics": [
+  "company"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1823,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1961/ra_3071_1961.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1961/ra_3071_1961.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H2677-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of one million pesos for the relief and rehabilitation of the fire victims of the Municipality of Lao-ang, Province of Samar, and for the reconstruction of public works which were destroyed by a fire which occurred in said municipality of March twenty-seven, nineteen hundred sixty-one: Provided, However, That this amount of one million pesos shall be used for widening of streets and reclaiming foreshore lands bordering the Municipality of Lao-ang, Province of Samar."
+   }
+  },
+  {
+   "id": "PH-H2677-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Subject to pertinent provisions of law and regulations enforced, authority is hereby granted to the Office of the District Engineer, first engineering district, Province of Samar, to undertake and carry out the widening of streets, the reclamation by dredging, filling and/or by other means any foreshore lands bordering the Municipality of Lao-ang, Province of Samar."
+   }
+  },
+  {
+   "id": "PH-H2677-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Any and all lands reclaimed as herein provided, shall be the property of the Municipality of Lao-ang Province of Samar: Provided, That such lands shall be leased, sold, or disposed of, giving priority to the fire victims of the Municipality of Lao-ang, Province of Samar, in the year nineteen hundred and sixty-one whose annual income is less than two thousand pesos, and shall be leased, sold or disposed of in any other manner in accordance with existing laws, except that the new foreshore along the reclaimed lands shall continue to be the property of the National Government: Provided, further, That the proceeds thereof shall constitute as a trust fund to be used for the repair and improvement of the area destroyed by the conflagration in a manner as the Municipal Council of Lao-ang shall determine."
+   }
+  },
+  {
+   "id": "PH-H2677-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon it approval.\nApproved: June 17, 1961."
+   }
+  }
+ ]
+}

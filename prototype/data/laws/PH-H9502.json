@@ -1,0 +1,922 @@
+{
+ "id": "PH-H9502",
+ "title": {
+  "zh": "2018 年动产担保交易法",
+  "en": "An Act Strengthening the Secured Transactions Legal Framework in the Philippines, Which Shall Provide for the Creation, Perfection, Determination of Priority, Establishment of a Centralized Notice Registry, and Enforcement of Security Interests in Personal Property, and for Other Purposes",
+  "orig": "An Act Strengthening the Secured Transactions Legal Framework in the Philippines, Which Shall Provide for the Creation, Perfection, Determination of Priority, Establishment of a Centralized Notice Registry, and Enforcement of Security Interests in Personal Property, and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p135",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2018-08-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 11057",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 68,
+ "chars": 42897,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2018/ra_11057_2018.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 68 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2018/ra_11057_2018.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H9502-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Title. -This Act shall be known as the \"Personal Property Security Act\"."
+   }
+  },
+  {
+   "id": "PH-H9502-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Declaration of Policy. -It is the policy of the State to promote economic activity by increasing access to least cost credit, particularly for micro, small, and medium enterprises (MSMEs), by establishing a unified and modern legal framework for securing obligations with personal property.\nDEFINITIONS AND SCOPE"
+   }
+  },
+  {
+   "id": "PH-H9502-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "chapter": {
+    "en": "CHAPTER  1"
+   },
+   "text": {
+    "en": "Definition of Terms. -As used in this Act, the following terms shall mean:\n(a) Commodity contract – a commodity futures contract, an option on a commodity futures contract, a commodity option, or another contract if the contract or option is:\n(1) Traded on or subject to the rules of a board of trade that has been designated as a contract market for such a contract; or\n(2) Traded on a foreign commodity board of trade, exchange, or market, and is carried on the books of a commodity intermediary for a commodity customer;\n(b) Control agreement –\n(1) With respect to securities, means an agreement in writing among the issuer or the intermediary, the grantor and the secured creditor, according to which the issuer or the intermediary agrees to follow instructions from the secured creditor with respect to the security, without further consent from the grantor;\n(2) With respect to rights to deposit account, means an agreement in writing among the deposit-taking institution, the grantor and the secured creditor, according to which the deposit-taking institution agrees to follow instructions from the secured creditor with respect to the payment of funds credited to the deposit account without further consent from the grantor;\n(3) With respect to commodity contracts, means an agreement in writing among the grantor, secured creditor, and intermediary, according to which the commodity intermediary will apply any value distributed on account of the commodity contract as directed by the secured creditor without further consent by the commodity customer or grantor;\n(c) Grantor –\n(1) The person who grants a security interest in collateral to secure its own obligation or that of another person;\n(2) A buyer or other transferee of a collateral that acquires its right subject to a security interest;\n(3) A transferor in an outright transfer of an accounts receivable; or\n(4) A lessee of goods;\n(d) Non-inter mediated securities – securities other than securities credited to a securities account and rights in securities resulting from the credit of securities to a securities account;\n(e) Notice – a statement of information that is registered in the Registry relating to a security interest or lien. The term includes an initial notice., amendment notice, and termination notice;\n(f) Proceeds – any property received upon sale, lease or other disposition of collateral, or whatever is collected on or distributed with respect to collateral, claims arising out of the loss or damage to the collateral, as well as a right to insurance payment or other compensation for loss or damage of the collateral;\n(g) Purchase money security interest – a security interest in goods taken by the seller to secure the price or by a person who gives value to enable the grantor to acquire the goods to the extent that the credit is used for that purpose;\n(h) Registry – the centralized and nationwide electronic registry established in the Land Registration Authority (LRA) where notice of a security interest and a lien in personal property may be registered;\n(i) Secured creditor – a person that has a security interest. For the purposes of registration and priority only, it includes a buyer of account receivable and a lessor of goods under an operating lease for not less than one (1) year;\n(j) Security interest – a property right in collateral that secures payment or other performance of an obligation, regardless of whether the parties have denominated it as a security interest, and regardless of the type of asset, the status of the grantor or secured creditor, or the nature of the secured obligation; including the right of a buyer of accounts receivable and a lessor under an operating lease for not less than one (1) year; and\n(k) Writing – for the purpose of this Act includes electronic records."
+   }
+  },
+  {
+   "id": "PH-H9502-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "chapter": {
+    "en": "CHAPTER  1"
+   },
+   "text": {
+    "en": "Scope of the Act. — This Act shall apply to all transactions of any form that secure an obligation with movable collateral, except interests in aircrafts subject to Republic Act No. 9497, or the \"Civil Aviation Authority Act of 2008\", and interests in ships subject to Presidential Decree No. 1521, or the \"Ship Mortgage Decree of 1978\".\nCREATION OF SECURITY INTEREST"
+   }
+  },
+  {
+   "id": "PH-H9502-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "chapter": {
+    "en": "CHAPTER  2"
+   },
+   "text": {
+    "en": "Creation of a Security Interest. —\n(a) A security interest shall be created by a security agreement,\n(b) A security agreement may provide for the creation of a security interest in a future property, but the security interest in that property is created only when the grantor acquires rights in it or the power to encumber it."
+   }
+  },
+  {
+   "id": "PH-H9502-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "chapter": {
+    "en": "CHAPTER  2"
+   },
+   "text": {
+    "en": "Security Agreement. — A security agreement must be contained in a written contract signed by the parties. It may consist of one or more writings that, taken together, establish the intent of the parties to create a security interest.\nThe security agreement shall likewise provide for the language to be used in agreements and notices. The grantor shall be given the option to have the agreement and notices in Filipino. The Department of Finance (DOF) shall prepare model agreements in plain English and Filipino."
+   }
+  },
+  {
+   "id": "PH-H9502-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "chapter": {
+    "en": "CHAPTER  2"
+   },
+   "text": {
+    "en": "Description of Collateral. — A description of collateral shall be considered sufficient, whether it is specific or general, if it reasonably identifies the collateral. A description such as \"all personal property\", \"all equipment\", \"all inventory\", or \"all personal property within a generic category\" of the grantor shall be sufficient."
+   }
+  },
+  {
+   "id": "PH-H9502-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "chapter": {
+    "en": "CHAPTER  2"
+   },
+   "text": {
+    "en": "Right to Proceeds and Commingled Funds and Money. —\n(a) A security interest in personal property shall extend to its identifiable or traceable proceeds.\n(b) Where proceeds in the form of funds credited to a deposit account or money are commingled with other funds or money:\n(1) The security interest shall extend to the commingled money or funds, notwithstanding that the proceeds have ceased to be identifiable to the extent they remain traceable:\n(2) The security interest in the commingled funds or money shall be limited to the amount of the proceeds immediately before they were commingled: and\n(3) If at any time after the commingling, the balance credited to the deposit account or the amount of the commingled money is less than the amount of the proceeds immediately before they were commingled, the security interest against the commingled funds or money shall be limited to the lowest amount of the commingled funds or money between the time when the proceeds were commingled and the time the security interest in the proceeds is claimed."
+   }
+  },
+  {
+   "id": "PH-H9502-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "chapter": {
+    "en": "CHAPTER  2"
+   },
+   "text": {
+    "en": "Continuity of Security Interest. — A security interest shall continue in collateral notwithstanding sale, lease, license, exchange, or other disposition of the collateral, except as otherwise provided in Section 21 of this Act, or agreed upon by the parties."
+   }
+  },
+  {
+   "id": "PH-H9502-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "chapter": {
+    "en": "CHAPTER  2"
+   },
+   "text": {
+    "en": "Contractual Limitation on the Creation of a Security Interest. —\n(a) A security interest in an account receivable shall be effective notwithstanding any agreement between the grantor and the account debtor or any secured creditor limiting in any way the grantor’s right to create a security interest.\n(b) Nothing in this section shall affect any obligation or liability of the grantor for breach of the agreement in subsection (a).\n(c) Any stipulation limiting the grantor’s right to create a security interest shall be void.\n(d) This section shall apply only to accounts receivable arising from:\n(1) A contract for the supply or lease of goods or services other than financial services;\n(2) A construction contract or a contract for the sale or lease of real property; and\n(3) A contract for the sale, lease or license of intellectual property.\nPERFECTION OF SECURITY INTEREST"
+   }
+  },
+  {
+   "id": "PH-H9502-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "chapter": {
+    "en": "CHAPTER  3"
+   },
+   "text": {
+    "en": "Perfection of Security Interest. —\n(a) A security interest shall be perfected when it has been created and the secured creditor has taken one of the actions in accordance with Section 12.\n(b) On perfection, a security interest becomes effective against third parties."
+   }
+  },
+  {
+   "id": "PH-H9502-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "chapter": {
+    "en": "CHAPTER  3"
+   },
+   "text": {
+    "en": "Means of Perfection. — A security interest may be perfected by:\n(a) Registration of a notice with the Registry;\n(b) Possession of the collateral by the secured creditor; and\n(c) Control of investment property and deposit account.\nA security interest in any tangible asset may be perfected by registration or possession. A security interest in investment property and deposit account may be perfected by registration or control."
+   }
+  },
+  {
+   "id": "PH-H9502-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "chapter": {
+    "en": "CHAPTER  3"
+   },
+   "text": {
+    "en": "Perfection by Control. —\n(a) A security interest in a deposit account or investment property may be perfected by control through:\n(1) The creation of the security interest in favor of the deposit-taking institution or the intermediary;\n(2) The conclusion of a control agreement; or\n(3) For an investment property that is an electronic security not held with an intermediary, the notation of the security interest in the books maintained by or on behalf of the issuer for the purpose of recording the name of the holder of the securities.(b) Nothing in this Act shall require a deposit-taking institution or an intermediary to enter into a control agreement, even if the grantor so requests. A deposit-taking institution or an intermediary that has entered into such an agreement shall not be required to confirm the existence of the agreement to another person unless requested to do so by the grantor."
+   }
+  },
+  {
+   "id": "PH-H9502-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "chapter": {
+    "en": "CHAPTER  3"
+   },
+   "text": {
+    "en": "Perfection in Proceeds. —\n(a) Upon disposition of collateral, a security interest shall extend to proceeds of the collateral without further act and be continuously perfected, if the proceeds are in the form of money, accounts receivable, negotiable instruments or deposit accounts.\n(b) Upon disposition of the collateral, if the proceeds are in a form different from money, accounts receivable, negotiable instruments or deposit accounts, the security interest in such proceeds must be perfected by one of the means applicable to the relevant type of collateral within fifteen (15) days after the grantor receives such proceeds; otherwise, the security interest in such proceeds shall not be effective against third parties."
+   }
+  },
+  {
+   "id": "PH-H9502-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "chapter": {
+    "en": "CHAPTER  3"
+   },
+   "text": {
+    "en": "Change in Means of Perfection. — A security interest shall remain perfected despite a change in the means for achieving perfection: Provided, That there was no time when the security interest was not perfected."
+   }
+  },
+  {
+   "id": "PH-H9502-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "chapter": {
+    "en": "CHAPTER  3"
+   },
+   "text": {
+    "en": "Assignment of Security Interest. — If a secured creditor assigns a perfected security interest, an amendment notice may be registered to reflect the assignment.\nPRIORITY OF SECURITY INTEREST"
+   }
+  },
+  {
+   "id": "PH-H9502-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "chapter": {
+    "en": "CHAPTER  4"
+   },
+   "text": {
+    "en": "Priority Rules. — The priority of security interests and liens in the same collateral shall be determined according to time of registration of a notice or perfection by other means, without regard to the order of creation of the security interests and liens."
+   }
+  },
+  {
+   "id": "PH-H9502-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "chapter": {
+    "en": "CHAPTER  4"
+   },
+   "text": {
+    "en": "Priority for Perfection by Control.—\n(a) A security interest in a deposit account with respect to which the secured creditor is the deposit-taking institution or the intermediary shall have priority over a competing security interest perfected by any method.\n(b) A security interest in a deposit account or investment property that is perfected by a control agreement shall have priority over a competing security interest except a security interest of the deposit-taking institution or the intermediary.\n(c) The order of priority among competing security interests in a deposit account or investment property that were perfected by the conclusion of control agreements shall be determined on the basis of the time of conclusion of the control agreements.\n(d) Any rights to set-off that the deposit-taking institution may have against a grantor’s right to payment of funds credited to a deposit account shall have priority over a security interest in the deposit account.\n(e) A security interest in a security certificate perfected by the secured creditor’s possession of the certificate shall have priority over a competing security interest perfected by registration of a notice in the Registry.\n(f) A security interest in electronic securities not held with an intermediary perfected by a notation of the security interests in the books maintained for that purpose by or on behalf of the issuer shall have priority over a security interest in the same securities perfected by any other method.\n(g) A security interest in electronic securities not held with an intermediary perfected by the conclusion of a control agreement shall have priority over a security interest in the same securities perfected by registration of a notice in the Registry.\n(h) The order of priority among competing security interests in electronic securities not held with an intermediary perfected by the conclusion of control agreements is determined on the basis of the time of conclusion of the control agreements."
+   }
+  },
+  {
+   "id": "PH-H9502-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "chapter": {
+    "en": "CHAPTER  4"
+   },
+   "text": {
+    "en": "Priority for Instruments and Negotiable Documents. -A security interest in an instrument or negotiable document that is perfected by possession of the instrument or the negotiable document shall have priority over a security interest in the instrument or negotiable document that is perfected by registration of a notice in the Registry."
+   }
+  },
+  {
+   "id": "PH-H9502-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "chapter": {
+    "en": "CHAPTER  4"
+   },
+   "text": {
+    "en": "Priority and Plight of Retention by Operation of Law. -A person who provides services or materials with respect to the goods, in the ordinary course of business, and retains possession of the goods shall have priority over a perfected security interest in the goods until payment thereof."
+   }
+  },
+  {
+   "id": "PH-H9502-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "chapter": {
+    "en": "CHAPTER  4"
+   },
+   "text": {
+    "en": "Transferee Exceptions. -Any party who obtains, in the ordinary course of business, any movable property containing a security interest shall take the same free of such security interest provided he was in good faith. No such good faith shall exist if the security interest in the movable property was registered prior to his obtaining the property."
+   }
+  },
+  {
+   "id": "PH-H9502-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "chapter": {
+    "en": "CHAPTER  4"
+   },
+   "text": {
+    "en": "Effect of the Grantor’s Insolvency on the Priority of a Security Interest. -Subject to the applicable insolvency law, a security interest perfected prior to the commencement of insolvency proceedings in respect of the grantor shall remain perfected and retain the priority it had before the commencement of the insolvency proceedings."
+   }
+  },
+  {
+   "id": "PH-H9502-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "chapter": {
+    "en": "CHAPTER  4"
+   },
+   "text": {
+    "en": "Purchase Money Security Interest. —\n(a) A purchase money security interest in equipment and its proceeds shall have priority over a conflicting security interest, if a notice relating to the purchase money security interest is registered within three (3) business days after the grantor receives possession of the equipment.\n(b) A purchase money security interest in consumer goods that is perfected by registration of notice not later than three (3) business days after the grantor obtains possession of the consumer goods shall have priority over a conflicting security interest.\n(c) A purchase money security interest in inventory, intellectual property or livestock shall have priority over a conflicting perfected security interest in the same inventory, intellectual property or livestock if:\n(1) The purchase money security interest is perfected when the grantor receives possession of the inventory or livestock, or acquires rights to intellectual property; and\n(2) Before the grantor receives possession of the inventory or livestock, or acquires rights in intellectual property, the purchase money secured creditor gives written notification to the holder of the conflicting perfected security interest in the same types of inventory, livestock, or intellectual property. The notification sent to the holder of the conflicting security interest may cover multiple transactions between the purchase money secured creditor and the grantor without the need to identify each transaction.\n(d) The purchase money security interest in equipment or consumer goods perfected timely in accordance with subsections (a) and (b), shall have priority over the rights of a buyer, lessee, or lien holder which arise between delivery of the equipment or consumer goods to the grantor and the time the notice is registered."
+   }
+  },
+  {
+   "id": "PH-H9502-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "chapter": {
+    "en": "CHAPTER  4"
+   },
+   "text": {
+    "en": "Livestock. -A perfected security interest in livestock securing an obligation incurred to enable the grantor to obtain food or medicine for the livestock shall have priority over any other security interest in the livestock, except for a perfected purchase money security interest in the livestock, if the secured creditor providing credit for food or medicine gives written notification to the holder of the conflicting perfected security interest in the same livestock before the grantor receives possession of the food or medicine."
+   }
+  },
+  {
+   "id": "PH-H9502-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "chapter": {
+    "en": "CHAPTER  4"
+   },
+   "text": {
+    "en": "Fixtures, Accessions, and Commingled Goods. -A perfected security interest in a movable property which has become a fixture, or has undergone accession or commingling shall continue provided the movable property involved can still be reasonably traced. In determining ownership over fixtures, accessions, and commingled goods, the provisions of Book II of Republic Act No. 386 or the \"Civil Code of the Philippines\" shall apply.\nREGISTRATION – REGISTRY"
+   }
+  },
+  {
+   "id": "PH-H9502-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "chapter": {
+    "en": "CHAPTER  5"
+   },
+   "text": {
+    "en": "Establishment of Electronic Registry. —\n(a) The Registry shall be established in and administered by the LRA.\n(b) The Registry shall provide electronic means for registration and searching of notices."
+   }
+  },
+  {
+   "id": "PH-H9502-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "chapter": {
+    "en": "CHAPTER  5"
+   },
+   "text": {
+    "en": "Public Record.—\n(a) Information contained in a registered notice shall be considered as a public record.\n(b) Any person may search notices registered in the Registry.\n(c) The electronic records of the Registry shall be the official records."
+   }
+  },
+  {
+   "id": "PH-H9502-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "chapter": {
+    "en": "CHAPTER  5"
+   },
+   "text": {
+    "en": "Sufficiency of Notice.—\n(a) An initial notice of security interest shall not be rejected:\n(1) If it identifies the grantor by an identification number, as further prescribed in the regulations;\n(2) If it identifies the secured creditor or an agent of the secured creditor by name;\n(3) If it provides an address for the grantor and secured creditor or its agent;\n(4) If it describes the collateral: and\n(5) If the prescribed fee has been tendered, or an arrangement has been made for payment of fees by other means.\n(b) If the Registry rejects to register a notice, it shall promptly communicate the fact of and reason for its rejection to the person who submitted the notice.\n(c) Each grantor must authorize the registration of an initial notice by signing a security agreement or otherwise in writing.\n(d) A notice may be registered before a security agreement is concluded. Once a security agreement is concluded, the date of registration of the notice shall be reckoned from the date the notice was registered.\n(e) A notice of lien may be registered by a lien holder without the consent of the person against whom the lien is sought to be enforced.\n(f) Description of the collateral in a notice shall be entered in English."
+   }
+  },
+  {
+   "id": "PH-H9502-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "chapter": {
+    "en": "CHAPTER  5"
+   },
+   "text": {
+    "en": "One Notice Sufficient for Security Interests Under Multiple Security Agreements. -The registration of a single notice may relate to security interests created by the grantor under one (1) or more than one security agreement."
+   }
+  },
+  {
+   "id": "PH-H9502-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "chapter": {
+    "en": "CHAPTER  5"
+   },
+   "text": {
+    "en": "Effectiveness of Notice.—\n(a) A notice shall be effective at the time it is discoverable on the records of the Registry.\n(b) A notice shall be effective for the duration of the term indicated in the notice unless a continuation notice is registered before the term lapses.\n(c) A notice substantially complying with the requirements of this Chapter shall be effective unless it is seriously misleading.\n(d) A notice that may not be retrieved in a search of the Registry against the correct identifier of the grantor shall be ineffective with respect to that grantor."
+   }
+  },
+  {
+   "id": "PH-H9502-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31."
+   },
+   "chapter": {
+    "en": "CHAPTER  5"
+   },
+   "text": {
+    "en": "Seriously Misleccding Notice. -A notice that does not provide the identification number of the grantor shall be seriously misleading."
+   }
+  },
+  {
+   "id": "PH-H9502-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32."
+   },
+   "chapter": {
+    "en": "CHAPTER  5"
+   },
+   "text": {
+    "en": "Amendment of Notice.—\n(a) A notice may be amended by the registration of an amendment notice that:\n(1) Identifies the initial notice by its registration number; and\n(2) Provides the new information.\n(b) An amendment notice that adds collateral that is not proceeds must be authorized by the grantor in writing.\n(c) An amendment notice that adds a grantor must be authorized by the added grantor in writing.\n(d) An amendment notice shall be effective only as to each secured creditor who authorizes it.\n(e) An amendment notice that adds collateral or a grantor shall be effective as to the added collateral or grantor from the date of its registration."
+   }
+  },
+  {
+   "id": "PH-H9502-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33."
+   },
+   "chapter": {
+    "en": "CHAPTER  5"
+   },
+   "text": {
+    "en": "Continuation of Notice.—\n(a) The period of effectiveness of a notice may be continued by registering an amendment notice that identifies the initial notice by its registration number.\n(b) Continuation of notice may be registered only within six (6) months before the expiration of the effective period of the notice."
+   }
+  },
+  {
+   "id": "PH-H9502-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34."
+   },
+   "chapter": {
+    "en": "CHAPTER  5"
+   },
+   "text": {
+    "en": "Termination of Effectiveness of a Notice.—\n(a) The effectiveness of a notice may be terminated by registering a termination notice that:\n(1) Identifies the initial notice by its registration number; and\n(2) Identifies each secured creditor who authorizes the registration of the termination notice.\n(b) A termination notice terminates effectiveness of the notice as to each authorizing secured creditor."
+   }
+  },
+  {
+   "id": "PH-H9502-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35."
+   },
+   "chapter": {
+    "en": "CHAPTER  5"
+   },
+   "text": {
+    "en": "Registry Duties.—\n(a) For each registered notice, the Registry shall:\n(1) Assign a unique registration number;\n(2) Create a record that bears the number assigned to the initial notice and the date and time of registration; and\n(3) Maintain the record for public inspection.\n(b) The Registry shall index notices by the identification number of the grantor and, for notices containing a serial number of a motor vehicle, by serial number.\n(c) The Registry shall provide a copy of the electronic record of the notice, including the registration number and the date and time of registration to the person who submitted it.\n(d) The Registry shall maintain the capability to retrieve a record by the identification number of the grantor, and by serial number of a motor vehicle.\n(e) The Registry shall maintain records of lapsed notices for a period of ten (10) years after the lapse.\n(f) The duties of the Registry shall be merely administrative in nature. By registering a notice or refusing to register a notice, the Registry does not determine the sufficiency, correctness, authenticity, or validity of any information contained in the notice."
+   }
+  },
+  {
+   "id": "PH-H9502-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36."
+   },
+   "chapter": {
+    "en": "CHAPTER  5"
+   },
+   "text": {
+    "en": "Search of Registry Records and Certified Report.—\n(a) The Registry shall communicate the following information to any person who requests it:\n(1) Whether there are in the Registry any unlapsed notices that indicate the grantor's identification number or vehicle serial number that exactly matches the relevant criterion provided by the searcher;\n(2) The registration number, and the date and time of registration of each notice; and\n(3) All of the information contained in each notice.\n(b) If requested, the Registry shall issue a certified report of the results of a search that is an official record of the Registry and shall be admissible into evidence in judicial proceedings without extrinsic evidence of its authenticity."
+   }
+  },
+  {
+   "id": "PH-H9502-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37."
+   },
+   "chapter": {
+    "en": "CHAPTER  5"
+   },
+   "text": {
+    "en": "Disclosure of Information.—\n(a) The secured creditor must provide to the grantor at its request:\n(1) The current amount of the unpaid secured obligation; and\n(2) A list of assets currently subject to a security interest.\n(b) The secured creditor may require payment of a fee for each request made by the grantor in subsection (a) in this section, but the grantor is entitled to a reply without charge once every six (6) months.\n(c) A security interest in a deposit account shall not:\n(1) Affect the rights and obligations of the deposit-taking institution without its consent; or\n(2) Require the deposit-taking institution to provide any information about the deposit account to third parties."
+   }
+  },
+  {
+   "id": "PH-H9502-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38."
+   },
+   "chapter": {
+    "en": "CHAPTER  5"
+   },
+   "text": {
+    "en": "Fees Set by Regulation.—\n(a) The fees for registering a notice and for requesting a certified search report shall be set by regulation issued by the DOF for the recovery of reasonable costs of establishing and operating the Registry.\n(b) The fee structure or any change thereof under subsection (a) shall further consider that the same shall not be burdensome to either lender or grantor.\n(c) There shall be no fee for electronic searches of the Registry records or for the registration of termination notices.\n(d) The Registry may charge fees for services not mentioned above."
+   }
+  },
+  {
+   "id": "PH-H9502-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39."
+   },
+   "chapter": {
+    "en": "CHAPTER  5"
+   },
+   "text": {
+    "en": "When the Grantor May Demand Amendment or Termination of Notice. -A grantor may give a written demand to the secured creditor to amend or terminate the effectiveness of the notice if:\n(a) All the obligations under the security agreement to which the registration relates have been performed and there is no commitment to make future advances;\n(b) The secured creditor has agreed to release part of the collateral described in the notice;\n(c) The collateral described in the notice includes an item or kind of property that is not a collateral under a security agreement between the secured creditor and the grantor;\n(d) No security agreement exists between the parties; or\n(e) The security interest is extinguished in accordance with this Act."
+   }
+  },
+  {
+   "id": "PH-H9502-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40."
+   },
+   "chapter": {
+    "en": "CHAPTER  5"
+   },
+   "text": {
+    "en": "Matters That May be Required by Demand. -Upon receipt of the demand submitted under Section 39, the secured creditor must register, within fifteen (15) working days, an amendment or termination notice:\n(a) Terminating the registration in a case within subsections (a), (d) or (e) of Section 39;\n(b) Amending the registration to release some property that is no longer collateral in a case within subsection (c) of Section 39 or that was never collateral under a security agreement between the secured creditor and the grantor in a case within subsection (c) of Section 39."
+   }
+  },
+  {
+   "id": "PH-H9502-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41."
+   },
+   "chapter": {
+    "en": "CHAPTER  5"
+   },
+   "text": {
+    "en": "Procedure for Noncompliance with Demand. -If the secured creditor fails to comply with the demand within fifteen (15) working days after its receipt, the person giving the demand under Section 39 may ask the proper court to issue an order terminating or amending the notice as appropriate."
+   }
+  },
+  {
+   "id": "PH-H9502-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42."
+   },
+   "chapter": {
+    "en": "CHAPTER  5"
+   },
+   "text": {
+    "en": "Compulsory Amendment or Termination by Court Order.—\n(a) The court may, on application by the grantor, issue an order that the notice be terminated or amended in accordance with the demand, which order shall be conclusive and binding-on the LRA: Provided, That the secured creditor wrho disagrees with the order of the court may appeal the order.\n(b) The court may make any other order it deems proper for the purpose of giving effect to an order under subsection (a) of this section.\n(c) The LRA shall amend or terminate a notice in accordance with a court order made under subsection (a) of this section as soon as reasonably practicable after receiving the order."
+   }
+  },
+  {
+   "id": "PH-H9502-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43."
+   },
+   "chapter": {
+    "en": "CHAPTER  5"
+   },
+   "text": {
+    "en": "No Fee for Compliance of Demand. -A secured creditor shall not charge any fee for compliance with a demand received under Section 39."
+   }
+  },
+  {
+   "id": "PH-H9502-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44."
+   },
+   "chapter": {
+    "en": "CHAPTER  5"
+   },
+   "text": {
+    "en": "When Registration and Search Constitutes Interference with Privacy of Individual. -A person who submitted a notice for registration or carried out a search of the Registry with a frivolous, malicious or criminal purpose or intent shall be subject to civil and criminal penalties according to the relevant laws.\nENFORCEMENT OF SECURITY INTEREST SECURED CREDITOR’S RIGHTS"
+   }
+  },
+  {
+   "id": "PH-H9502-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45."
+   },
+   "chapter": {
+    "en": "CHAPTER  6"
+   },
+   "text": {
+    "en": "Right of Redemption.—\n(a) Any person who is entitled to receive a notification of disposition in accordance with this Chapter is entitled to redeem the collateral by paying or otherwise performing the secured obligation in full, including the reasonable cost of enforcement.\n(b) The right of redemption may be exercised, unless:\n(1) The person entitled to redeem has not, after the default, waived in writing the right to redeem;\n(2) The collateral is sold or otherwise disposed of, acquired or collected by the secured creditor or until the conclusion of an agreement by the secured creditor for that purpose; and\n(3) The secured creditor has retained the collateral."
+   }
+  },
+  {
+   "id": "PH-H9502-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46."
+   },
+   "chapter": {
+    "en": "CHAPTER  6"
+   },
+   "text": {
+    "en": "Right of Higher-Ranking Secured. Creditor to Take Over Enforcement. —\n(a) Even if another secured creditor or a lien holder has commenced enforcement, a secured creditor whose security-interest has priority over that of the enforcing secured creditor or lien holder shall be entitled to take over the enforcement process.\n(b) The right referred to in subsection (a) of this section may be invoked at any time before the collateral is sold or otherwise disposed of, or retained by the secured creditor or until the conclusion of an agreement by the secured creditor for that purpose.\n(c) The right of the higher-ranking secured creditor to take over the enforcement process shall include the right to enforce the rights by any method available to a secured creditor under this Act."
+   }
+  },
+  {
+   "id": "PH-H9502-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47."
+   },
+   "chapter": {
+    "en": "CHAPTER  6"
+   },
+   "text": {
+    "en": "Expedited Repossession of the Collateral. —\n(a) The secured creditor may take possession of the collateral without judicial process if the security agreement so stipulates: Provided, That possession can be taken without a breach of the peace.\n(b) If the collateral is a fixture, the secured creditor, if it has priority over all owners and mortgagees, may remove the fixture from the real property to which it is affixed without judicial process. The secured creditor shall exercise due care in removing the fixture.\n(c) If, upon default, the secured creditor cannot take possession of collateral without breach of the peace, the secured creditor may proceed as follows:\n(1) The secured creditor shall be entitled to an expedited hearing upon application for an order granting the secured creditor possession of the collateral. Such application shall include a statement by the secured creditor, under oath, verifying the existence of the security agreement attached to the application and identifying at least one event of default by the debtor under the security agreement;\n(2) The secured creditor shall provide the debtor, grantor, and, if the collateral is a fixture, any real estate mortgagee, a copy of the application, including all supporting documents and evidence for the order granting the secured creditor possession of the collateral; and\n(3) The secured creditor is entitled to an order granting possession of the collateral upon the court finding that a default has occurred under the security agreement and that the secured creditor has a right to take possession of the collateral. The court may direct the grantor to take such action as the court deems necessary and appropriate so that the secured creditor may take possession of the collateral: Provided, That breach of the peace shall include entering the private residence of the grantor without permission, resorting to physical violence or intimidation, or being accompanied by a law enforcement officer when taking possession or confronting the grantor."
+   }
+  },
+  {
+   "id": "PH-H9502-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48."
+   },
+   "chapter": {
+    "en": "CHAPTER  6"
+   },
+   "text": {
+    "en": "Recovery in Special Cases. — Upon default, the secured creditor may without judicial process:\n(a) Instruct the account debtor to make payment to the secured creditor, and apply such payment to the satisfaction of the obligation secured by the security interest after deducting the secured creditor’s reasonable collection expenses. On request of the account debtor, the secured creditor shall provide evidence of its security interest to the account debtor when it delivers the instruction to the account debtor;\n(b) In a negotiable document that is perfected by possession, proceed as to the negotiable document or goods covered by the negotiable document;\n(c) In a deposit account maintained by the secured creditor, apply the balance of the deposit account to the obligation secured by the deposit account; and\n(d) I n other cases of security interest in a deposit account perfected by control, instruct the deposit-taking institution to pay the balance of the deposit account to the secured creditor’s account."
+   }
+  },
+  {
+   "id": "PH-H9502-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49."
+   },
+   "chapter": {
+    "en": "CHAPTER  6"
+   },
+   "text": {
+    "en": "Right to Dispose of Collateral.—\n(a) After default, a secured creditor may sell or otherwise dispose of the collateral, publicly or privately, in its present condition or following any commercially reasonable preparation or processing.\n(b) The secured creditor may buy the collateral at any public disposition, or at a private disposition but only if the collateral is of a kind that is customarily sold on a recognized market or the subject of widely distributed standard price quotations."
+   }
+  },
+  {
+   "id": "PH-H9502-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50."
+   },
+   "chapter": {
+    "en": "CHAPTER  6"
+   },
+   "text": {
+    "en": "Commercial Reasonableness Required. —\n(a) In disposing of collateral, the secured creditor shall act in a commercially reasonable manner.\n(b) A disposition is commercially reasonable if the secerned creditor disposes of the collateral in conformity with commercial practices among dealers in that type of property.\n(c) A disposition is not commercially unreasonable merely because a better price could have been obtained by disposition at a different time or by a different method from the time and method selected by the secured creditor.\n(d) If a method of disposition of collateral has been approved in any legal proceeding, it is conclusively commercially reasonable."
+   }
+  },
+  {
+   "id": "PH-H9502-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51."
+   },
+   "chapter": {
+    "en": "CHAPTER  6"
+   },
+   "text": {
+    "en": "Notification of Disposition. —\n(a) Not later than ten (10) days before disposition of the collateral, the secured creditor shall notify:\n(1) The grantor;\n(2) Any other secured creditor or lien holder who, five (5) days before the date notification is sent to the grantor, held a security interest or lien in the collateral that was perfected by registration; and\n(3) Any other person from whom the secured creditor received notification of a claim of an interest in the collateral if the notification was received before the secured creditor gave notification of the proposed disposition to the grantor.\n(b) The grantor may waive the right to be notified.\n(c) A notification of disposition is sufficient if it identifies the grantor and the secured creditor; describes the collateral; states the method of intended disposition; and states the time and place of a public disposition or the time after which other disposition is to be made.\n(d) The requirement to send a notification under this section shall not apply if the collateral is perishable or threatens to decline speedily in value or is of a type customarily sold on a recognized market."
+   }
+  },
+  {
+   "id": "PH-H9502-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52."
+   },
+   "chapter": {
+    "en": "CHAPTER  6"
+   },
+   "text": {
+    "en": "Application of Proceeds. —\n(a) The proceeds of disposition shall be applied in the following order:\n(1) The reasonable expenses of taking, holding, preparing for disposition, and disposing of the collateral, including reasonable attorneys’ fees and legal expenses incurred by the secured creditor;\n(2) The satisfaction of the obligation secured by the security interest of the enforcing secured creditor; and\n(3) The satisfaction of obligations secured by any subordinate security interest or hen in the collateral if a written demand and proof of the interest are received before distribution of the proceeds is completed.\n(b) The secured creditor shall account to the grantor for any surplus, and, unless otherwise agreed, the debtor is liable for any deficiency."
+   }
+  },
+  {
+   "id": "PH-H9502-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53."
+   },
+   "chapter": {
+    "en": "CHAPTER  6"
+   },
+   "text": {
+    "en": "Rights of Buyers and Other Third Parties. —\n(a) If a secured creditor sells the collateral under this Chapter, the buyer shall acquire the grantor’s right in the asset free of the rights of any secured creditor or lien holder.\n(b) If a secured creditor leases or licenses the collateral under this Chapter, the lessee or licensee shall be entitled to the benefit of the lease or license during its term.\n(c) If a secured creditor sells, leases or licenses the collateral not in compliance with this Chapter, the buyer, lessee or licensee of the collateral shall acquire the rights or benefits described in subsections (a) and (b) of this section: Provided, That it had no knowledge of a violation of this Chapter that materially prejudiced the rights of the grantor or another person."
+   }
+  },
+  {
+   "id": "PH-H9502-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54."
+   },
+   "chapter": {
+    "en": "CHAPTER  6"
+   },
+   "text": {
+    "en": "Retention of Collateral by Secured Creditor. —\n(a) After default, the secured creditor may propose to the debtor and grantor to take all or part of the collateral in total or partial satisfaction of the secured obligation, and shall send a proposal to:\n(1) The debtor and the grantor;\n(2) Any other secured creditor or lien holder who, five (5) days before the proposal is sent to the debtor and the grantor, perfected its security interest or lien by registration; and\n(3) Any other person with an interest in the collateral who has given a written notification to the secured creditor before the proposal is sent to the debtor and the grantor.\n(b) The secured creditor may retain the collateral in the case of:\n(1) A proposal for the acquisition of the collateral in full satisfaction of the secured obligation, unless the secured creditor receives an objection in writing from any person entitled to receive such a proposal within twenty (20) days after the proposal is sent to that person; or\n(2) A proposal for the acquisition of the collateral in partial satisfaction of the secured obligation, only if the secured creditor receives the affirmative consent of each addressee of the proposal in writing within twenty (20) days after the proposal is sent to that person.\nTRANSITIONAL PROVISIONS"
+   }
+  },
+  {
+   "id": "PH-H9502-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55."
+   },
+   "chapter": {
+    "en": "CHAPTER  7"
+   },
+   "text": {
+    "en": "Interpretation of Transitional Provisions. — For this Chapter, unless the context otherwise requires:\n(a) Existing secured creditor – means a secured creditor with a prior security interest;\n(b) Prior law – means any law that existed or in force before the effectivity of this Act;\n(c) Prior interest – means a security interest created or provided for by an agreement or other transaction that was made or entered into before the effectivity of this Act and that had not been terminated before the effectivity of this Act, but excludes a security interest that is renewed or extended by a security agreement or other transaction made or entered into on or after the effectivity of this Act; and\n(d) Transitional period - means the period from the date of effectivity of this Act until the date when the Registry has been established and operational."
+   }
+  },
+  {
+   "id": "PH-H9502-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56."
+   },
+   "chapter": {
+    "en": "CHAPTER  7"
+   },
+   "text": {
+    "en": "Creation of Prior Interest. —\n(a) Creation of prior interest shall be determined by prior laws.\n(b) A prior interest remains effective between the parties notwithstanding its creation did not comply with the creation requirements of this Act."
+   }
+  },
+  {
+   "id": "PH-H9502-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57."
+   },
+   "chapter": {
+    "en": "CHAPTER  7"
+   },
+   "text": {
+    "en": "Perfection of Prior Interest. —\n(a) A prior interest that was perfected under prior law continues to be perfected under this Act until the earlier of:\n(1) The time the prior interest would cease to be perfected under prior law; and\n(2) The expiration of the transitional period.\n(b) If the perfection requirements of this Act are satisfied before the perfection of a prior interest ceases in accordance with subsection (a) of this section, the prior interest continues to be perfected under this Act from the time when it was perfected under the prior law.\n(c) If the perfection requirements of this Act are not satisfied before the perfection of a prior interest ceases in accordance with subsection (a) of this section, the prior interest is perfected only from the time it is perfected under this Act.\n(d) A written agreement between a grantor and a secured creditor creating a prior interest is sufficient to constitute authorization by the grantor of the registration of a notice covering assets described in that agreement under this Act.\n(e) If a prior interest referred to in subsection (b) of this section was perfected by the registration of a notice under prior law, the time of registration under the prior law shall be the time to be used for purposes of applying the priority rules of this Act."
+   }
+  },
+  {
+   "id": "PH-H9502-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58."
+   },
+   "chapter": {
+    "en": "CHAPTER  7"
+   },
+   "text": {
+    "en": "Priority of Prior Interest. —\n(a) The priority of a prior interest as against the rights of a competing claimant is determined by the prior law if:\n(1) The security interest and the rights of all competing claimant arose before the effectivity of this Act; and\n(2) The priority status of these rights has not changed since the effectivity of this Act.\n(b) For purposes of subsection (a)(2) of this section, the priority status of a prior interest has changed only if:\n(1) It was perfected when this Act took effect, but ceased to be perfected; or\n(2) It was not perfected under prior law when this Act took effect, and was only perfected under this Act."
+   }
+  },
+  {
+   "id": "PH-H9502-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59."
+   },
+   "chapter": {
+    "en": "CHAPTER  7"
+   },
+   "text": {
+    "en": "Enforcement of Prior Interest. —\n(a) If any step or action has been taken to enforce a prior interest before the effectivity of this Act, enforcement may continue under prior law or may proceed under this Act.\n(b) Subject to subsection (a) of this section, prior law shall apply to a matter that is the subject of proceedings before a court before the effectivity of this Act.\nCONGRESSIONAL OVERSIGHT AND MISCELLANEOUS PROVISIONS"
+   }
+  },
+  {
+   "id": "PH-H9502-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60."
+   },
+   "chapter": {
+    "en": "CHAPTER  8"
+   },
+   "text": {
+    "en": "Congressional Oversight and Periodic Review. — A Congressional Oversight Committee shall be created that will conduct a periodic review every five (5) years commencing from the effectivity of this Act. The Congressional Oversight Committee shall be composed of the Chairperson of the Senate Committee on Banks, Financial Institutions and Currencies, the Chairperson of the House of Representatives Committee on Banks and Financial Intermediaries, and representatives of other relevant congressional committees."
+   }
+  },
+  {
+   "id": "PH-H9502-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61."
+   },
+   "chapter": {
+    "en": "CHAPTER  8"
+   },
+   "text": {
+    "en": "Interpretation. — If there is conflict between a provision of this Act and a provision of any other law, this Act shall govern unless the other law specifically cites or amends the conflicting provisions of this law."
+   }
+  },
+  {
+   "id": "PH-H9502-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62."
+   },
+   "chapter": {
+    "en": "CHAPTER  8"
+   },
+   "text": {
+    "en": "Implementing Rules and Regulations. — Within six (6) months from the passage of this Act, the DOF in coordination with the Department of Justice, through the LRA, shall promulgate the necessary rules and regulations for’ the effective implementation of this Act."
+   }
+  },
+  {
+   "id": "PH-H9502-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63."
+   },
+   "chapter": {
+    "en": "CHAPTER  8"
+   },
+   "text": {
+    "en": "Rules on Enforcement Procedure. — Subject to Section 47, the expedited hearing/proceedings shall be conducted in a summary manner consistent with the declared policies of this Act and in accordance with the rules of procedure that the Supreme Court may promulgate."
+   }
+  },
+  {
+   "id": "PH-H9502-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64."
+   },
+   "chapter": {
+    "en": "CHAPTER  8"
+   },
+   "text": {
+    "en": "Sourcing of Funds. — The funds needed for the implementation of this Act shall be taken from the Special Account arising from revenues collected by the LRA under Section 111 of Presidential Decree No. 1529, without need for any further government approval."
+   }
+  },
+  {
+   "id": "PH-H9502-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65."
+   },
+   "chapter": {
+    "en": "CHAPTER  8"
+   },
+   "text": {
+    "en": "Separability Clause. — Should any provision herein be declared unconstitutional, the same shall not affect the validity of the other provisions of this Act."
+   }
+  },
+  {
+   "id": "PH-H9502-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 66."
+   },
+   "chapter": {
+    "en": "CHAPTER  8"
+   },
+   "text": {
+    "en": "Repealing Clause. — The following laws, and all laws, decrees, orders, and issuances or portions thereof, which are inconsistent with the provisions of this Act, are hereby repealed, amended, or modified accordingly:\n(a) Sections 1 to 16 of Act No. 1508, otherwise known as \"The Chattel Mortgage Law\";\n(b) Articles 2085-2123, 2127, 2140-2141, 2241, 2243, and 2246-2247 of Republic Act No. 386, otherwise known as the \"Civil Code of the Philippines\";\n(c) Section 13 of Republic Act No. 5980, as amended by Republic Act No. 8556, otherwise known as the \"Financing Company Act of 1998\";\n(d) Sections 114-116 of Presidential Decree No. 1529, otherwise known as the \"Property Registration Decree\";\n(e) Section 10 of Presidential Decree No. 1529, insofar as the provision thereof is inconsistent with this Act; and\n(f) Section 5(e) of Republic Act No. 4136, otherwise known as the \"Land Transportation and Traffic Code\"."
+   }
+  },
+  {
+   "id": "PH-H9502-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Section 67."
+   },
+   "chapter": {
+    "en": "CHAPTER  8"
+   },
+   "text": {
+    "en": "Effectivity. — This Act shall take effect fifteen (15) days after publication in at least two (2) newspapers of general circulation."
+   }
+  },
+  {
+   "id": "PH-H9502-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Section 68."
+   },
+   "chapter": {
+    "en": "CHAPTER  8"
+   },
+   "text": {
+    "en": "Implementation. — Notwithstanding the entry into force of this Act under Section 67, the implementation of the Act shall be conditioned upon the Registry being established and operational under"
+   }
+  }
+ ]
+}

@@ -1,0 +1,906 @@
+{
+ "id": "SG-H1607",
+ "title": {
+  "zh": null,
+  "en": "Gambling Regulatory Authority of Singapore Act 2022",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p20",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act GRASA2022",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 54,
+ "chars": 60079,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/GRASA2022?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 54 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1607-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title and commencement"
+   },
+   "text": {
+    "en": "1. This Act is the Gambling Regulatory Authority of Singapore Act 2022 and comes into operation on a date that the Minister appoints by notification in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H1607-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“appointed day” means the date of commencement of Part 2;\n“Authority” means the Gambling Regulatory Authority of Singapore, which is the Casino Regulatory Authority of Singapore continued and renamed under section 3;\n“Casino Regulatory Authority” means the Casino Regulatory Authority of Singapore established under the Casino Control Act 2006 in force before the appointed day;\n“Chairperson”, in relation to the Authority, means the member of the Authority who is appointed under section 12 as the Chairperson of the Authority, and includes any person appointed under section 14 to act in that capacity;\n“Chief Executive” means the Chief Executive of the Authority appointed under section 31, and includes any person acting in that capacity;\n“committee” means a committee of the Authority appointed under section 27;\n“committee member” means an individual appointed to be a member of a committee;\n“delegate” means a person to whom the Authority under section 29(1) delegates the performance or exercise of any of its functions or powers;\n“Deputy Chairperson”, in relation to the Authority, means a member of the Authority who is appointed under section 12 as a Deputy Chairperson of the Authority;\n“functions”, in relation to the Authority, means functions conferred on the Authority by this Act or any other Act;\n“gambling” includes any of the following which is not social gambling:\n(a)participating in a lottery;\n(b)playing a game of chance (which includes a game that is partly a game of chance and partly a game requiring skill);\n(c)making or accepting bets or bookmaking;\n“member”, in relation to the Authority, means a member of the Authority appointed under section 10, and includes any person appointed under section 14 to act in that capacity;\n“public authority” means a body corporate established by a public Act for the purposes of a public function;\n“Singapore Totalisator Board” means the Singapore Totalisator Board established under section 3 of the Singapore Totalisator Board Act 1987;\n“social gambling” has the meaning given by the Gambling Control Act 2022;\n“subdelegate” means a person to whom a delegate under section 29(2) further delegates the performance or exercise of any of the Authority’s functions or powers."
+   }
+  },
+  {
+   "id": "SG-H1607-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 FUNCTIONS AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Gambling Regulatory Authority of Singapore"
+   },
+   "text": {
+    "en": "3. Despite section 48(2), the Casino Regulatory Authority of Singapore continues to exist under this section and is renamed as the Gambling Regulatory Authority of Singapore."
+   }
+  },
+  {
+   "id": "SG-H1607-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 FUNCTIONS AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Authority is body corporate"
+   },
+   "text": {
+    "en": "4.—(1) The Authority —\n(a)is a body corporate with perpetual succession;\n(b)may acquire, hold and dispose of real and personal property; and\n(c)may sue and be sued in its corporate name.\n(2) The Authority may use, and operate under, one or more trading names approved by the Minister.\n(3) A trading name can be an abbreviation or adaptation of the Authority’s corporate name, or a name other than the Authority’s corporate name.\n(4) The Authority must cause notice of every trading name approved under subsection (2) to be published in the Gazette; but failure to do so does not invalidate the approval or use of that name."
+   }
+  },
+  {
+   "id": "SG-H1607-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 FUNCTIONS AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Functions of Authority"
+   },
+   "text": {
+    "en": "5.—(1) The Authority has the following functions:\n(a)to scrutinise, regulate and control gambling in or affecting Singapore to ensure that it is conducted honestly and free from criminal influence and exploitation;\n(b)to inquire into, and make recommendations to or otherwise advise the Minister on, matters relating to gambling, either on its own motion or upon the request of the Minister;\n(c)to research and inquire into matters relating to the control of gambling, including the probity and financial security and viability of persons involved in the management of gambling operations;\n(d)to work collaboratively with —\n(i)the National Council on Problem Gambling to reduce the prevalence of problem gambling and the severity of harm from gambling;\n[Act 29 of 2024 wef 30/10/2024]\n(ii)the Singapore Police Force and public authorities or other persons (whether in or outside Singapore) responsible for investigating and prosecuting crimes, or for the regulation and control of the conduct of gambling, including sharing information with them for crime prevention and in circumstances where the Authority reasonably suspects an offence under any written law or other law may have been committed; and\n[Act 29 of 2024 wef 30/10/2024]\n(iii)the Ministry of Trade and Industry to ensure that any casino licensed by the Authority is and remains a part of an integrated resort developed on the designated site on which the casino is located;\n[Act 29 of 2024 wef 30/10/2024]\n(e)to foster responsible gambling and minimise the harm from gambling;\n(f)to set and maintain appropriate standards and levels of accountability for the conduct of gambling;\n(g)to perform such other functions as may be conferred on the Authority by any other Act.\n(2) In performing the functions conferred on the Authority by subsection (1), the Authority must have regard to —\n(a)the need to minimise harm caused by gambling, particularly the adverse social effects of lawful gambling;\n(b)the promotion of probity and integrity of persons involved in the conduct of gambling;\n(c)the conduct, extent and character of gambling and the provision, use and location of gambling and like wagering facilities, available to people in Singapore;\n(d)the need to ensure that the public in Singapore obtains reasonable net benefits from the conduct of gambling; and\n(e)the maintenance of public confidence and trust that gambling in Singapore is conducted honestly and free from criminal influence and exploitation.\n(3) In addition to the functions conferred by this section, the Authority may undertake such other functions as the Minister may assign to the Authority, by notification in the Gazette, and in so undertaking —\n(a)the Authority is deemed to be fulfilling the purposes of this Act; and\n(b)the provisions of this Act apply to the Authority in respect of those other functions.\n(4) Nothing in this section imposes on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which the Authority would not otherwise be subject.\n(5) In this section, “casino”, “designated site” and “integrated resort” have the meanings given by section 2(1) of the Casino Control Act 2006.\n[Act 29 of 2024 wef 30/10/2024]"
+   }
+  },
+  {
+   "id": "SG-H1607-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 FUNCTIONS AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Powers of Authority"
+   },
+   "text": {
+    "en": "6.—(1) The Authority has power to do all things necessary or expedient to be done for, or in connection with, the performance of its functions.\n(2) Without limiting subsection (1), the powers of the Authority include the following:\n(a)to enter into contracts, agreements or arrangements;\n(b)to acquire, develop, hold and dispose of real or personal property;\n(c)to appoint and act through agents;\n(d)to employ staff and engage consultants;\n(e)to publish or provide any information, or publish or sponsor the publication of works;\n(f)with the approval of the Minister, to form or join in the formation of a company, an association, a trust or a partnership or enter into a joint venture with any person;\n(g)to be a member of a company, an association, a trust or a partnership;\n(h)to charge for the provision of goods or services, or the performance of work, by or on behalf of the Authority;\n(i)to waive the payment of fees and charges payable to the Authority;\n(j)to accept gifts, grants, bequests and devises made to the Authority, and act as trustee of money and other property vested in the Authority on trust;\n(k)to do any other thing that is incidental or conducive to the performance of its functions.\n(3) To avoid doubt, subsection (1) does not limit any other power given to the Authority by any other provision in this Act or by any other Act.\n(4) The Authority may exercise its powers inside or outside Singapore."
+   }
+  },
+  {
+   "id": "SG-H1607-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 FUNCTIONS AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Directions of Minister, etc."
+   },
+   "text": {
+    "en": "7.—(1) The Minister may give to the Authority any direction under section 5 of the Public Sector (Governance) Act 2018.\n(2) To avoid doubt, the Minister is entitled —\n(a)to have information in the possession of the Authority; and\n(b)where the information is in or on a document, to have, and make and retain copies of, that document.\n(3) For the purposes of subsection (2), the Minister may request the Authority —\n(a)to provide information to the Minister; or\n(b)to give the Minister access to information.\n(4) The Authority must comply with a request under subsection (3).\n(5) In this section —\n“document” includes any tape, disk or other device or medium on which information is recorded or stored;\n“information” means information specified, or of a description specified, by the Minister that relates to the functions of the Authority."
+   }
+  },
+  {
+   "id": "SG-H1607-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 FUNCTIONS AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Authority’s symbol, etc."
+   },
+   "text": {
+    "en": "8.—(1) The Authority has the exclusive right to the use of one or more symbols or representations as the Authority may select or devise (each called the Authority’s symbol or representation), and to display or exhibit those symbols or representations in connection with the Authority’s activities or affairs.\n(2) A person who —\n(a)uses, without the prior written permission of the Authority, a symbol or representation identical with the Authority’s symbol or representation; or\n(b)uses a symbol or representation which so resembles the Authority’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or to cause confusion,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part of a day during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H1607-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Membership of Authority"
+   },
+   "text": {
+    "en": "9.—(1) The Authority consists of at least 5 and not more than 17 members.\n(2) One of the members (who is not the Chairperson) may be the Chief Executive."
+   }
+  },
+  {
+   "id": "SG-H1607-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Appointment of Authority members"
+   },
+   "text": {
+    "en": "10.—(1) Each member of the Authority is to be appointed by the Minister.\n(2) Every appointment must be made by instrument in writing given to the member.\n(3) The instrument must state —\n(a)the term of the appointment; and\n(b)the date the appointment takes effect, which must not be a date earlier than the date the instrument is received by the member."
+   }
+  },
+  {
+   "id": "SG-H1607-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Membership disqualification"
+   },
+   "text": {
+    "en": "11.—(1) In appointing members of the Authority, the Minister must have regard to whether the members of the Authority will collectively possess the appropriate knowledge, skills and experience for the Authority to perform its functions effectively.\n(2) However, the following individuals are disqualified from being a member of the Authority:\n(a)an undischarged bankrupt or an individual who has an arrangement with any of his or her creditors;\n(b)a Judge or judicial officer;\n(c)an individual who has been sentenced to imprisonment for a term of 6 months or more, and has not received a free pardon;\n(d)an individual who is —\n(i)disqualified under section 154(1) of the Companies Act 1967 from acting as a director, or taking part (whether directly or indirectly) in the management, of a company during the period of disqualification in that section; or\n(ii)disqualified from being a director or in any way, whether directly or indirectly, being concerned in, or from taking part in, the management of a company by a court order under section 149(1), 149A(1) or 154(2) of the Companies Act 1967 during the period of disqualification in the court order;\n(e)an individual —\n(i)who lacks capacity in respect of his or her duties as a member within the meaning of the Mental Capacity Act 2008; or\n(ii)in respect of whom an order is made under section 10 of the Mental Health (Care and Treatment) Act 2008."
+   }
+  },
+  {
+   "id": "SG-H1607-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Chairperson and Deputy Chairperson"
+   },
+   "text": {
+    "en": "12.—(1) The Minister may, by instrument in writing, appoint —\n(a)a member (other than the Chief Executive) to be the Chairperson of the Authority for the period specified in the instrument; and\n(b)one or more members (other than the Chairperson) to be a Deputy Chairperson of the Authority for the period specified in the instrument.\n(2) The Chairperson or a Deputy Chairperson holds office until —\n(a)his or her term of office as Chairperson or Deputy Chairperson (as the case may be) expires;\n(b)he or she ceases to hold office as a member of the Authority; or\n(c)the Minister terminates the appointment as Chairperson or Deputy Chairperson, as the case may be,\nwhichever first happens.\n(3) A Deputy Chairperson has and may exercise all of the functions and powers of the Chairperson in relation to a matter if —\n(a)the Chairperson is unavailable; or\n(b)the Chairperson is interested in the matter (within the meaning given by Part 4 of the Public Sector (Governance) Act 2018)."
+   }
+  },
+  {
+   "id": "SG-H1607-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Premature vacancies"
+   },
+   "text": {
+    "en": "13.—(1) If a premature vacancy occurs in the office of any member of the Authority, the Minister may, subject to sections 9, 10 and 11, appoint an individual to fill the vacancy and hold that office for the remainder of the term for which the vacating member was appointed.\n(2) In this section, “premature vacancy”, for an office, means a vacancy that occurs in that office for any reason other than the expiry of the term of office."
+   }
+  },
+  {
+   "id": "SG-H1607-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Acting Chairperson and members"
+   },
+   "text": {
+    "en": "14.—(1) The Minister may appoint an individual to act temporarily as the Chairperson during any period, or during all periods, when the Chairperson —\n(a)is absent from duty or Singapore; or\n(b)is, for any reason, unable to perform the duties of the office.\n(2) The Minister may appoint an individual to act temporarily as a member of the Authority (other than the Chairperson) during any period, or during all periods, when the member —\n(a)is absent from duty or Singapore; or\n(b)is, for any reason, unable to perform the duties of the office.\n(3) An individual is ineligible for appointment under this section to act as the Chairperson or a member of the Authority if the individual is disqualified under section 11(2) for appointment as a member of the Authority."
+   }
+  },
+  {
+   "id": "SG-H1607-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Removal of member"
+   },
+   "text": {
+    "en": "15.—(1) The Minister may, at any time and without giving any reason, remove a member of the Authority from office.\n(2) Every removal under subsection (1) must be made by written notice given to the member with a copy to the Authority.\n(3) The notice must state the date the removal takes effect, which must not be a date earlier than the date the notice is received by the member."
+   }
+  },
+  {
+   "id": "SG-H1607-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Resignation from office"
+   },
+   "text": {
+    "en": "16.—(1) A member of the Authority may resign his or her office by written notice to the Minister (with a copy to the Authority) signed by the member.\n(2) The resignation is effective when the notice in subsection (1) is received by the Minister or at any later time specified in the notice."
+   }
+  },
+  {
+   "id": "SG-H1607-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Validity of acts, etc."
+   },
+   "text": {
+    "en": "17.—(1) Despite section 33 of the Interpretation Act 1965, the exercise of any power or performance of any function of the Authority by the Authority is not affected merely because at the relevant time —\n(a)there was a vacancy in the membership of the Authority, including a vacancy arising from the failure to appoint a member;\n(b)there was some defect or irregularity existing in the appointment or continuance in office of the individual purporting to be a member of the Authority; or\n(c)there was an irregularity in the Authority’s decision‑making procedure that does not affect the merits of the decision made.\n(2) The acts of an individual as a member of the Authority are not affected merely because —\n(a)there was some defect or irregularity existing in the appointment or continuance in office of the individual purporting to be a member of the Authority; or\n(b)in the case of an individual acting in the capacity of the Chairperson, member or Chief Executive, the occasion for the individual so acting, or for his or her appointment, had not arisen or had ended."
+   }
+  },
+  {
+   "id": "SG-H1607-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Term of appointment"
+   },
+   "text": {
+    "en": "18.—(1) Subject to section 20, each member of the Authority holds office for a period of 3 years or any shorter period specified in the instrument of appointment.\n(2) A member of the Authority may be re‑appointed."
+   }
+  },
+  {
+   "id": "SG-H1607-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Remuneration, etc."
+   },
+   "text": {
+    "en": "19. The members of the Authority may be paid, out of the funds of the Authority, such salaries, fees and allowances as the Minister determines."
+   }
+  },
+  {
+   "id": "SG-H1607-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 CONSTITUTION AND MEMBERSHIP OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Vacation of office"
+   },
+   "text": {
+    "en": "20.—(1) A member of the Authority ceases to hold office if he or she —\n(a)dies;\n(b)is adjudicated a bankrupt or makes an arrangement with any of his or her creditors;\n(c)becomes otherwise disqualified from being a member under section 11(2);\n(d)is removed from office in accordance with section 15;\n(e)resigns in accordance with section 16;\n(f)fails without reasonable cause to disclose any interest required under Division 1 of Part 4 of the Public Sector (Governance) Act 2018 and a notice is given under that Act to the Minister about that default;\n(g)fails to attend 3 consecutive meetings of the Authority without the approval of the Authority; or\n(h)is not re‑appointed when his or her term of office expires.\n(2) A member of the Authority is not entitled to any compensation or other payment or benefit relating to his or her ceasing, for any reason, to hold office as a member."
+   }
+  },
+  {
+   "id": "SG-H1607-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AUTHORITY"
+   },
+   "heading": {
+    "en": "Procedure generally"
+   },
+   "text": {
+    "en": "21. Except as otherwise provided under this Act or any other Act, the members of the Authority must regulate their own procedure."
+   }
+  },
+  {
+   "id": "SG-H1607-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AUTHORITY"
+   },
+   "heading": {
+    "en": "Notice of meetings"
+   },
+   "text": {
+    "en": "22.—(1) The Authority must hold such meetings as are necessary for the performance of its functions.\n(2) The Chairperson must appoint the times and places of the meetings of the Authority, and cause notice of those meetings to be given to each member, including those not present when the appointment is made.\n(3) The meetings of the Authority must be held in accordance with the provisions of this Act and Part 4 of the Public Sector (Governance) Act 2018."
+   }
+  },
+  {
+   "id": "SG-H1607-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AUTHORITY"
+   },
+   "heading": {
+    "en": "Quorum"
+   },
+   "text": {
+    "en": "23.—(1) The quorum is the number that is one‑third the number of members or 3 members, whichever is higher.\n(2) No business may be transacted at a meeting of the Authority if a quorum is not present."
+   }
+  },
+  {
+   "id": "SG-H1607-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AUTHORITY"
+   },
+   "heading": {
+    "en": "Presiding at meetings"
+   },
+   "text": {
+    "en": "24.—(1) At a meeting of the Authority, the following person presides:\n(a)if there is a Chairperson and he or she is present and is not interested (within the meaning given by Part 4 of the Public Sector (Governance) Act 2018) in the matter — the Chairperson;\n(b)if there is no Chairperson, or the Chairperson is not present or is interested (within the meaning given by Part 4 of the Public Sector (Governance) Act 2018) in the matter, and a Deputy Chairperson who is not so interested in the matter is present — a Deputy Chairperson;\n(c)in any other case, the member elected from among themselves to preside.\n(2) A person mentioned in subsection (1)(b) or (c) may exercise all the powers and functions of the Chairperson for the purposes of the meeting."
+   }
+  },
+  {
+   "id": "SG-H1607-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AUTHORITY"
+   },
+   "heading": {
+    "en": "Voting at meetings"
+   },
+   "text": {
+    "en": "25.—(1) Each member has one vote.\n(2) In addition to his or her general vote, the member presiding at a meeting has, in the case of an equality of votes, a casting vote.\n(3) A resolution of the Authority is passed if it is agreed by all members present without dissent, or if a majority of the members who are entitled to vote on the matter cast votes in favour of it.\n(4) A member present at a meeting of the Authority is presumed to have agreed to, and to have voted in favour of, a resolution of the Authority unless he or she expressly dissents from or votes against the resolution at the meeting."
+   }
+  },
+  {
+   "id": "SG-H1607-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AUTHORITY"
+   },
+   "heading": {
+    "en": "Execution of documents"
+   },
+   "text": {
+    "en": "26.—(1) The Authority must have a seal.\n(2) The seal of the Authority is to be kept and used as authorised by the Authority.\n(3) A document is duly executed by the Authority if —\n(a)the seal of the Authority is affixed to the document in the presence of one of its members who must sign the document to attest that the seal was so affixed, and the document is signed —\n(i)by any 2 members generally or specially authorised by the Authority for the purpose; or\n(ii)by one member and the Chief Executive; or\n(b)the document is signed on behalf of the Authority by a person or persons authorised to do so by the Authority and in accordance with the terms of that authorisation.\n(4) A document purporting to be executed in accordance with this section is presumed to be duly executed until the contrary is shown.\n(5) All courts, judges and persons acting judicially are to take judicial notice of the imprint of the seal of the Authority appearing on a document.\n(6) When a document is produced bearing a seal purporting to be the seal of the Authority, it must be presumed that the seal is the seal of the Authority until the contrary is shown."
+   }
+  },
+  {
+   "id": "SG-H1607-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AUTHORITY"
+   },
+   "heading": {
+    "en": "Appointment of committees"
+   },
+   "text": {
+    "en": "27.—(1) The Authority may, by resolution, appoint any number of committees that the Authority thinks fit for purposes which, in the opinion of the Authority, would be better regulated and managed by means of those committees.\n(2) A committee appointed under this section may consist of any number of individuals that the Authority thinks fit, and may include individuals who are not members of the Authority.\n(3) Without limiting subsection (1), the Authority may appoint committees —\n(a)to advise the Authority on any matters relating to the Authority’s functions and powers that are referred to the committee by the Authority; or\n(b)to perform or exercise any of the Authority’s functions and powers that are delegated to the committee, if the committee includes at least one member of the Authority.\n(4) An individual may not be appointed as a member of a committee unless, before appointment, he or she discloses to the Authority the details of any interest (within the meaning given by Part 4 of the Public Sector (Governance) Act 2018) the individual may have if he or she were a member of that committee."
+   }
+  },
+  {
+   "id": "SG-H1607-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AUTHORITY"
+   },
+   "heading": {
+    "en": "Proceedings of committees"
+   },
+   "text": {
+    "en": "28.—(1) Section 17 applies to a committee, and to committee members or individuals purporting to be committee members, with the necessary modifications.\n(2) Subject to this Act, the Public Sector (Governance) Act 2018 and any restrictions by a resolution under section 29(1), a committee may regulate its own proceedings and business as it thinks fit."
+   }
+  },
+  {
+   "id": "SG-H1607-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AUTHORITY"
+   },
+   "heading": {
+    "en": "Ability to delegate, etc."
+   },
+   "text": {
+    "en": "29.—(1) The Authority may delegate the performance or exercise of any of its functions or powers, either generally or specially, to any of the following persons by resolution and written notice to the person or persons:\n(a)a member of the Authority;\n(b)the Chief Executive, any employee of the Authority or any other person performing duties in the Authority;\n(c)a committee;\n(d)a wholly‑owned subsidiary company of the Authority;\n(e)a person engaged as a contractor by the Authority.\n(2) A delegation by the Authority under subsection (1) of the performance or exercise of any of its functions or powers —\n(a)to a person in subsection (1)(a), (b) or (c) may authorise the delegate to subdelegate the performance or exercise of the function or power to another member, an appropriately qualified employee of the Authority or person performing duties in the Authority (called in this Act a subdelegate); or\n(b)to a person in subsection (1)(d) or (e) may authorise the delegate to subdelegate the performance or exercise of the function or power to an appropriately qualified employee of that delegate (also called in this Act a subdelegate),\nbut subject to the same restrictions, and with the same effect, as if the subdelegate were the delegate.\n(3) Subsections (1) and (2) do not apply to any power under this Act or any other Act administered by the Authority that is declared by that Act to be non‑delegable.\n(4) A delegation or subdelegation in accordance with this Act is not affected by any change in the membership of the Authority or of any committee or by any change in the Chief Executive or employee.\n(5) In this section —\n(a)a reference to a wholly‑owned subsidiary company of the Authority includes a company limited by guarantee the sole member of which is the Authority; and\n(b)a reference to a person performing duties in the Authority includes a person performing duties in the Authority under a contract, or under an arrangement making available temporarily to the Authority the services of public officers (or secondment)."
+   }
+  },
+  {
+   "id": "SG-H1607-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 4 DECISION-MAKING BY AUTHORITY"
+   },
+   "heading": {
+    "en": "Power of delegate, etc."
+   },
+   "text": {
+    "en": "30.—(1) A delegate (or subdelegate) who purports to perform a function or exercise a power under delegation (or subdelegation) —\n(a)is taken to be in accordance with the terms of a delegation (or subdelegation) under section 29, unless the contrary is shown; and\n(b)must produce evidence of his or her authority to do so, if reasonably requested to do so.\n(2) A subdelegate to whom a function or power of the Authority is subdelegated under section 29(2) is not authorised to further delegate that function or power to anyone else."
+   }
+  },
+  {
+   "id": "SG-H1607-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 5 PERSONNEL MATTERS"
+   },
+   "heading": {
+    "en": "Appointment of Chief Executive"
+   },
+   "text": {
+    "en": "31.—(1) There must be a Chief Executive of the Authority, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.\n(2) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —\n(a)is absent from duty or Singapore; or\n(b)is, for any reason, unable to perform the duties of the office."
+   }
+  },
+  {
+   "id": "SG-H1607-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 5 PERSONNEL MATTERS"
+   },
+   "heading": {
+    "en": "Officers, etc."
+   },
+   "text": {
+    "en": "32. The Authority may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as the Authority may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions."
+   }
+  },
+  {
+   "id": "SG-H1607-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 5 PERSONNEL MATTERS"
+   },
+   "heading": {
+    "en": "Public servants"
+   },
+   "text": {
+    "en": "33.—(1) Every delegate and subdelegate of the Authority is taken to be a public servant for the purposes of the Penal Code 1871.\n(2) Every delegate and subdelegate of the Authority is, in relation to his or her administration, assessment, collection and enforcement of payment of —\n(a)any financial penalty imposed under any written law administered by the Authority; or\n(b)any composition sum collected under this Act or any other written law administered by the Authority,\ntaken to be a public officer for the purposes of the Financial Procedure Act 1966; and section 20 of that Act applies to each of these persons even though they are not or were not in the employment of the Government.\n(3) This section does not affect sections 20 and 21 of the Public Sector (Governance) Act 2018."
+   }
+  },
+  {
+   "id": "SG-H1607-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 5 PERSONNEL MATTERS"
+   },
+   "heading": {
+    "en": "Preservation of secrecy"
+   },
+   "text": {
+    "en": "34.—(1) A member, an employee, a delegate or subdelegate of the Authority, the Chief Executive or a committee member, who has information in his or her capacity as such that would not otherwise be available to him or her, must not disclose that information to any person except —\n(a)in the performance of the Authority’s functions;\n(b)with the prior authorisation from the Authority to do so;\n(c)for the purposes of any proceedings for an offence under this Act, or any report of those proceedings;\n(d)as required by an order of court;\n(e)in complying with the requirements in this Act for members to disclose interests; or\n(f)as required or allowed by the Authority, the Chief Executive, the member, employee, delegate or subdelegate of the Authority or the committee member, by or under this Act or any other Act.\n(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 2 years or to both.\n(3) To avoid doubt, this section does not limit the operation of section 192 of the Casino Control Act 2006."
+   }
+  },
+  {
+   "id": "SG-H1607-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 5 PERSONNEL MATTERS"
+   },
+   "heading": {
+    "en": "Protection from personal liability"
+   },
+   "text": {
+    "en": "35. No liability shall lie against any member, any committee member, the Chief Executive or any employee, delegate or subdelegate of the Authority, or any other person acting under the direction of the Authority, for anything which is done or purported to be done, or omitted to be done, in good faith and with reasonable care in —\n(a)the performance or purported performance of any function of the Authority; or\n(b)the exercise or purported exercise of any power for, or in connection with, the performance of its functions."
+   }
+  },
+  {
+   "id": "SG-H1607-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Financial year"
+   },
+   "text": {
+    "en": "36. The financial year of the Authority begins on 1 April of each year and ends on 31 March of the succeeding year."
+   }
+  },
+  {
+   "id": "SG-H1607-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Revenue and property of Authority"
+   },
+   "text": {
+    "en": "37. The funds and property of the Authority include —\n(a)all moneys paid to the Authority by way of grants, subsidies, donations, gifts and contributions for the purposes of the Authority;\n(b)all moneys paid to, and all other moneys and property lawfully received by, the Authority for the purposes of the Authority;\n(c)all fees and charges payable to the Authority under this Act or any other Act administered by the Authority;\n(d)all moneys, dividends, royalties, interest or income received from any transaction made pursuant to the powers conferred on the Authority under this Act or any other Act administered by the Authority;\n(e)all moneys borrowed by the Authority under this Act; and\n(f)all accumulations of income derived from any property or money mentioned in paragraphs (a) to (e)."
+   }
+  },
+  {
+   "id": "SG-H1607-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Bank accounts"
+   },
+   "text": {
+    "en": "38.—(1) The Authority must open and maintain one or more accounts with such bank or banks as the Authority thinks fit.\n(2) Every such account must only be operated by a person who is authorised to do so by the Authority."
+   }
+  },
+  {
+   "id": "SG-H1607-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Financial accounts and records"
+   },
+   "text": {
+    "en": "39. The Authority must —\n(a)keep proper accounts and records of its transactions and affairs; and\n(b)do all things necessary to ensure that —\n(i)all payments out of its moneys are correctly made and properly authorised; and\n(ii)adequate control is maintained over the property and assets of, or in the custody of, the Authority and over the expenditure incurred by the Authority."
+   }
+  },
+  {
+   "id": "SG-H1607-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Power of investment"
+   },
+   "text": {
+    "en": "40. The Authority may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965."
+   }
+  },
+  {
+   "id": "SG-H1607-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Issue of shares, etc."
+   },
+   "text": {
+    "en": "41. As a consequence of —\n(a)the vesting of any property, rights or liabilities in the Authority under this Act; or\n(b)any capital injection or other investment by the Government in the Authority in accordance with any other written law,\nthe Authority must issue such shares or other securities to the Minister for Finance as that Minister may direct."
+   }
+  },
+  {
+   "id": "SG-H1607-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Borrowing power"
+   },
+   "text": {
+    "en": "42.—(1) The Authority cannot raise loans for the performance of its functions under this Act or any other Act administered by the Authority except in accordance with this section.\n(2) Subject to subsection (3), the Authority may raise loans by —\n(a)mortgage, overdraft or other means, with or without security;\n(b)charge, whether legal or equitable, on any property vested in the Authority or on any other revenue receivable by the Authority under this Act or any other written law; or\n(c)the creation and issue of debentures, bonds or any other instrument as the Minister may approve.\n(3) The Authority may raise loans —\n(a)from the Government; or\n(b)with the approval of the Minister, from another source, whether within or outside Singapore.\n(4) For the purposes of this section, the power to raise loans includes the power to make any financial agreement whereby credit facilities are granted to the Authority for the purchase of goods, materials or things."
+   }
+  },
+  {
+   "id": "SG-H1607-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "43.—(1) The Chief Executive, or an employee of the Authority authorised in writing by the Authority, may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:\n(a)one half of the amount of the maximum fine that is prescribed for the offence;\n(b)$2,000.\n(2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence.\n(3) All sums collected under this section must be paid into the Consolidated Fund."
+   }
+  },
+  {
+   "id": "SG-H1607-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL"
+   },
+   "heading": {
+    "en": "Offences by corporations"
+   },
+   "text": {
+    "en": "44.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that —\n(a)an officer, employee or agent of the corporation engaged in that conduct within the scope of his or her actual or apparent authority; and\n(b)the officer, employee or agent had that state of mind,\nis evidence that the corporation had that state of mind.\n(2) Where a corporation commits an offence under this Act, a person —\n(a)who is —\n(i)an officer of the corporation; or\n(ii)an individual involved in the management of the corporation and in a position to influence the conduct of the corporation in relation to the commission of the offence; and\n(b)who —\n(i)consented or connived, or conspired with others, to effect the commission of the offence;\n(ii)is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the corporation; or\n(iii)knew or ought reasonably to have known that the offence by the corporation (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,\nshall be guilty of that same offence as is the corporation, and shall be liable on conviction to be punished accordingly.\n(3) A person mentioned in subsection (2) may rely on a defence that would be available to the corporation if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the corporation would bear.\n(4) To avoid doubt, this section does not affect the application of —\n(a)Chapters 5 and 5A of the Penal Code 1871; or\n(b)any written law or practice regarding the admissibility of evidence.\n(5) To avoid doubt, subsection (2) also does not affect the liability of the corporation for an offence under this Act, and applies whether or not the corporation is convicted of the offence.\n(6) In this section —\n“corporation” includes a limited liability partnership;\n“officer”, in relation to a corporation, means any director, partner, chief executive, manager, secretary or other similar officer of the corporation, and includes —\n(a)any person purporting to act in any such capacity; and\n(b)for a corporation whose affairs are managed by its members, any of those members as if the member were a director of the corporation;\n“reasonable steps”, in relation to the commission of an offence, includes, but is not limited to, such action (if any) of the following kinds as is reasonable in all the circumstances:\n(a)action towards —\n(i)assessing the corporation’s compliance with the provision creating the offence; and\n(ii)ensuring that the corporation arranged regular professional assessments of its compliance with the provision;\n(b)action towards ensuring that the corporation’s employees, agents and contractors are provided with information, training, instruction and supervision appropriate to them to enable them to comply with the provision creating the offence so far as the provision is relevant to them;\n(c)action towards ensuring that —\n(i)the equipment and other resources; and\n(ii)the structures, work systems and other processes,\nrelevant to compliance with the provision creating the offence are appropriate in all the circumstances;\n(d)action towards creating and maintaining a corporate culture that does not direct, encourage, tolerate or lead to non‑compliance with the provision creating the offence;\n“state of mind” of a person includes —\n(a)the knowledge, intention, opinion, belief or purpose of the person; and\n(b)the person’s reasons for the intention, opinion, belief or purpose.\n(7) The Minister may make rules to provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any corporation formed or recognised under the law of a territory outside Singapore."
+   }
+  },
+  {
+   "id": "SG-H1607-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL"
+   },
+   "heading": {
+    "en": "Offences by unincorporated associations or partnerships"
+   },
+   "text": {
+    "en": "45.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that —\n(a)an employee or agent of the unincorporated association or partnership engaged in that conduct within the scope of his or her actual or apparent authority; and\n(b)the employee or agent had that state of mind,\nis evidence that the unincorporated association or partnership had that state of mind.\n(2) Where an unincorporated association or a partnership commits an offence under this Act, a person —\n(a)who is —\n(i)an officer of the unincorporated association or a member of its governing body;\n(ii)a partner in the partnership; or\n(iii)an individual involved in the management of the unincorporated association or partnership and in a position to influence the conduct of the unincorporated association or partnership (as the case may be) in relation to the commission of the offence; and\n(b)who —\n(i)consented or connived, or conspired with others, to effect the commission of the offence;\n(ii)is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the unincorporated association or partnership; or\n(iii)knew or ought reasonably to have known that the offence by the unincorporated association or partnership (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,\nshall be guilty of the same offence as is the unincorporated association or partnership (as the case may be), and shall be liable on conviction to be punished accordingly.\n(3) A person mentioned in subsection (2) may rely on a defence that would be available to the unincorporated association or partnership if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the unincorporated association or partnership would bear.\n(4) To avoid doubt, this section does not affect the application of —\n(a)Chapters 5 and 5A of the Penal Code 1871; or\n(b)any written law or practice regarding the admissibility of evidence.\n(5) To avoid doubt, subsection (2) also does not affect the liability of an unincorporated association or a partnership for an offence under this Act, and applies whether or not the unincorporated association or partnership is convicted of the offence.\n(6) In this section —\n“officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes —\n(a)any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; and\n(b)any person purporting to act in any such capacity;\n“partner” includes a person purporting to act as a partner;\n“reasonable steps” has the meaning given by section 44;\n“state of mind” has the meaning given by section 44."
+   }
+  },
+  {
+   "id": "SG-H1607-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL"
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "46.—(1) A document that is permitted or required by this Act to be served on a person may be served as described in this section.\n(2) A document permitted or required by this Act to be served on an individual may be served —\n(a)by giving it to the individual personally;\n(b)by sending it by prepaid registered post to the address specified by the individual for the service of documents or, if no address is so specified, the individual’s residential address or business address;\n(c)by leaving it at the individual’s residential address with an adult apparently resident there, or at the individual’s business address with an adult apparently employed there;\n(d)by affixing a copy of the document in a conspicuous place at the individual’s residential address or business address;\n(e)by sending it by fax to the fax number last known to the person giving or serving the document as the fax number for the service of documents on the individual; or\n(f)by sending it by email to the individual’s last email address.\n(3) A document permitted or required by this Act to be served on a partnership (other than a limited liability partnership) may be served —\n(a)by giving it to any partner, secretary or other similar officer of the partnership;\n(b)by leaving it at, or by sending it by prepaid registered post to, the partnership’s business address;\n(c)by sending it by fax to the fax number used at the partnership’s business address; or\n(d)by sending it by email to the partnership’s last email address.\n(4) A document permitted or required by this Act to be served on a body corporate (including a limited liability partnership) or an unincorporated association may be served —\n(a)by giving it to the secretary or other similar officer of the body corporate or unincorporated association, or the limited liability partnership’s manager;\n(b)by leaving it at, or by sending it by post to, the registered office or principal office in Singapore of the body corporate or unincorporated association;\n(c)by sending it by fax to the fax number used at the registered office or principal office in Singapore of the body corporate or unincorporated association; or\n(d)by sending it by email to the last email address of the body corporate or unincorporated association.\n(5) In addition, a document (other than a summons) permitted or required by this Act to be served on an individual, a partnership, a body corporate or an unincorporated association may be served —\n(a)by giving an electronic notice to the individual, partnership, body corporate or unincorporated association (called in this section an addressee) by the addressee’s chosen means of notification, stating that the document is available and how the addressee may use the addressee’s chosen means of access to access the document’s contents; or\n(b)by any other method authorised by regulations made under section 47 for the service of documents of that kind provided the addressee consents (expressly or impliedly) to service of a document of that kind in that way.\n(6) Service of a document takes effect —\n(a)if the document is sent by fax and a notification of successful transmission is received, on the day of transmission;\n(b)if the document is sent by email, at the time that the email becomes capable of being retrieved by the person to whom it is sent; or\n(c)if the document is sent by post, 2 days after the day the document was posted (even if it is returned undelivered).\n(7) However, service of any document under this Act on a person by email or by an electronic notice at the person’s chosen means of notification, may be effected only with the person’s prior consent (express or implied) to service in that way.\n(8) This section does not apply to documents to be served in proceedings in court.\n(9) In this section —\n“business address” means —\n(a)in the case of an individual, the individual’s usual or last known place of business in Singapore; or\n(b)in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore;\n“chosen means of access”, for an addressee on whom is or is to be served a document permitted or required by this Act, means an electronic means the addressee agrees with the person giving or serving the document as the means by which the addressee may access that document’s contents;\n“chosen means of notification”, for an addressee on whom is or is to be served a document permitted or required by this Act, means an electronic means that the addressee nominates to the person giving or serving the document as the means by which the addressee may be notified that such a document has been served on the addressee;\n“document” includes a notice or an order permitted or required by this Act to be served;\n“last email address” means the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act;\n“residential address” means an individual’s usual or last known place of residence in Singapore."
+   }
+  },
+  {
+   "id": "SG-H1607-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "47. The Authority may, with the approval of the Minister, make regulations prescribing matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act."
+   }
+  },
+  {
+   "id": "SG-H1607-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 8 CONSEQUENTIAL AND RELATED AMENDMENTS TO OTHER ACTS"
+   },
+   "heading": {
+    "en": "Amendment of Casino Control Act 2006"
+   },
+   "text": {
+    "en": "48.—(1) Section 2 of the Casino Control Act 2006 is amended —\n(a)by deleting the definitions of “authorised person” and “Authority” in subsection (1) and substituting the following definitions:\n“ “authorised person”, for any provision of this Act, means an officer or employee of the Authority or other individual who is appointed as an authorised person under section 6 for the purposes of that provision;\n“Authority” means the Gambling Regulatory Authority of Singapore, which is the Casino Regulatory Authority of Singapore continued and renamed as the Gambling Regulatory Authority of Singapore under section 3 of the Gambling Regulatory Authority of Singapore Act 2022;”;\n(b)by deleting the definition of “Chairperson” in subsection (1);\n(c)by deleting the words “section 13(3)” in the definition of “inspector” in subsection (1) and substituting the words “section 7”;\n(d)by deleting the definition of “member” in subsection (1);\n(e)by deleting the words “for Home Affairs” in the definition of “Minister” in subsection (1) and substituting the words “charged with the responsibility for gambling suppression”; and\n(f)by inserting, immediately after subsection (3), the following subsection:\n“(4) A reference in this Act to an individual performing duties in the Authority is a reference to —\n(a)an employee of the Authority; or\n(b)a public officer performing duties in the Authority under a secondment arrangement making available temporarily to the Authority the services of public officers.”.\n(2) Part 2 of the Casino Control Act 2006 is amended —\n(a)by deleting the Part heading and Division 1 heading and substituting the following Part heading:\n“PART 2\nADMINISTRATION”;\n(b)by repealing sections 5 to 13 (including the headings of Divisions 2 and 3) and substituting the following sections:\n“Authority responsible to administer Act\n5. It is the function of the Authority to exercise licensing and regulatory functions in accordance with this Act with respect to the operation of casinos in Singapore, and to administer this Act where not expressly otherwise provided.\nAuthorised persons\n6.—(1) The Authority may, in relation to any provision of this Act, appoint —\n(a)any individual performing duties in the Authority; or\n(b)a public officer,\nto be an authorised person for the purposes of that provision, either generally or in a particular case.\n(2) The Authority may delegate the exercise of all or any of the powers conferred or duties imposed upon it by any provision of this Act to any authorised person; and any reference in that provision of this Act to the Authority includes a reference to such an authorised person.\n(3) However, nothing in this section authorises delegating the following non‑delegable powers:\n(a)the power of delegation conferred by this section;\n(b)any power of the Authority to make subsidiary legislation under this Act.\n(4) Any delegation under subsection (2) may be general or in a particular case, and may be subject to such conditions or limitations as set out in this Act or as the Authority may specify.\nInspectors\n7.—(1) The Authority may in writing appoint as an inspector any individual who is performing duties in the Authority and has suitable qualifications to properly exercise the powers of an inspector.\n(2) The Authority must issue to each inspector an identification card, which must be carried at all times by the inspector when exercising powers conferred on an inspector by or under this Act.\n(3) Every inspector who is not an employee of the Authority and acting under this section is deemed to be a public servant for the purposes of the Penal Code 1871.”; and\n(c)by repealing Divisions 4, 5 and 6.\n(3) Section 190(1) of the Casino Control Act 2006 is amended by deleting the words “12(1) or” in paragraph (e).\n(4) Section 192 of the Casino Control Act 2006 is amended —\n(a)by deleting the words “be incurred by —” and substituting the words “lie against any of the following:”;\n(b)by deleting the word “or” at the end of paragraph (f);\n(c)by deleting the words “12(1) or” in paragraph (g);\n(d)by inserting, immediately after the words “in good faith”, the words “and with reasonable care”;\n(e)by deleting the words “or any other written law;” in paragraph (h) and substituting the word “; or”;\n(f)by deleting the words “or any other written law; or” in paragraph (i) and substituting a full‑stop; and\n(g)by deleting paragraph (j).\n(5) Section 193 of the Casino Control Act 2006 is amended by deleting the words “12(1) or”.\n(6) Section 196 of the Casino Control Act 2006 is amended by deleting subsection (4).\n(7) Section 197 of the Casino Control Act 2006 is repealed and the following section substituted therefor:\n“Recovering and collecting financial penalties, etc.\n197.—(1) All the following must be collected by the Authority and paid into the Consolidated Fund:\n(a)any financial penalties imposed under section 54 or 93, or any regulations made under section 110B(6) regarding disciplinary action against licensed international market agents and licensed international market agent representatives;\n(b)any moneys under a performance bond, deposit or other form of security required under section 185C and forfeited for the purpose of meeting any financial penalty imposed;\n(c)any winnings forfeited under section 128(2);\n(d)any composition sum collected under sections 152 and 196, respectively.\n(2) Any sum mentioned in subsection (1)(a), (b) or (c) (or any part thereof) that has become due and payable by a person but has not been paid may be recovered as if a debt due to the Authority from that person; and the person’s liability to pay is not affected by the person’s licence ceasing, for any reason, to be in force.”.\n(8) The Casino Control Act 2006 is amended —\n(a)by deleting paragraphs (a) and (b) of section 200(2); and\n(b)by repealing the First Schedule."
+   }
+  },
+  {
+   "id": "SG-H1607-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 8 CONSEQUENTIAL AND RELATED AMENDMENTS TO OTHER ACTS"
+   },
+   "heading": {
+    "en": "Amendment of Gambling Duties Act 2022"
+   },
+   "text": {
+    "en": "49.—(1) The Gambling Duties Act 2022 is amended by inserting, immediately after section 42, the following section:\n“Confidentiality\n43.—(1) Except as provided in subsection (2), section 6 of the Income Tax Act 1947 applies to every individual having any official duty or being employed in the administration of this Act in relation to all returns, accounts, statements, records, information, assessment and other documents relating to the gaming revenue or items of the gaming revenue of any taxable person which are required to be lodged or provided to the Commissioner or an enforcement official in accordance with this Act with the necessary modifications as that section applies to any documents, information, returns, assessment lists or copies of such lists relating to the income or items of income of any person.\n(2) Despite section 6(12) of the Income Tax Act 1947, the Commissioner or an enforcement official may —\n(a)provide to any officer of the Gambling Regulatory Authority of Singapore (or GRAS); and\n(b)upon the request of the GRAS, permit any officer of the GRAS to have access (including taking copies of) to,\nany information obtained by the Commissioner or enforcement official in the performance of the Commissioner’s or enforcement official’s duties under this Act —\n(c)where the information is required by the officer of the GRAS in the performance of the officer’s duties in administering or facilitating the administration of any written law that is a function of the GRAS; and\n(d)to the extent that the Commissioner is satisfied that the information or access is necessary for the performance of those duties of that officer.\n(3) In this section —\n“Gambling Regulatory Authority of Singapore” or “GRAS” means the Gambling Regulatory Authority of Singapore, which is the Casino Regulatory Authority of Singapore continued and renamed under section 3 of the Gambling Regulatory Authority of Singapore Act 2022;\n“officer of the Gambling Regulatory Authority of Singapore” means —\n(a)an employee of the GRAS; or\n(b)a public officer performing duties in the GRAS under a secondment arrangement making available temporarily to the GRAS the services of public officers.”.\n(2) Section 43 of the Gambling Duties Act 2022 is repealed."
+   }
+  },
+  {
+   "id": "SG-H1607-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 8 CONSEQUENTIAL AND RELATED AMENDMENTS TO OTHER ACTS"
+   },
+   "heading": {
+    "en": "Amendment of Singapore Totalisator Board Act 1987"
+   },
+   "text": {
+    "en": "50.—(1) The long title to the Singapore Totalisator Board Act 1987 is amended by deleting the words “and to regulate the conduct of betting by agencies of the Board,”.\n(2) Section 2 of the Singapore Totalisator Board Act 1987 is amended —\n(a)by deleting the definitions of “advertisement”, “lottery” and “writing”;\n(b)by inserting, immediately after the definition of “chief executive”, the following definition:\n“ “Gambling Regulatory Authority of Singapore” means the Casino Regulatory Authority of Singapore continued and renamed as the Gambling Regulatory Authority of Singapore under the Gambling Regulatory Authority of Singapore Act 2022;”;\n(c)by deleting the words “appointed by” in the definition of “totalisator agency” and substituting the words “under the supervision of”; and\n(d)by deleting the semi‑colon at the end of the definition of “turf club” and substituting a full‑stop.\n(3) Section 4 of the Singapore Totalisator Board Act 1987 is amended —\n(a)by deleting paragraph (a) of subsection (1) and substituting the following paragraph:\n“(a)to supervise the affairs of a turf club operating in Singapore;”;\n(b)by deleting paragraph (c) of subsection (1);\n(c)by deleting paragraph (f) of subsection (1) and substituting the following paragraph:\n“(f)to work collaboratively with the Gambling Regulatory Authority of Singapore to foster responsible gambling and reduce the prevalence of unauthorised gambling.”; and\n(d)by inserting, immediately after subsection (3), the following subsection:\n“(4) However, nothing in this Act confers on the Board a function or power to conduct on its own behalf any race meeting or a totalisator for gaming in relation to any racing or otherwise.”.\n(4) The Singapore Totalisator Board Act 1987 is amended by inserting, immediately after section 4, the following section:\n“Contributing to charitable, etc., purposes\n4A. The Board also has the function to ensure that public benefits may be derived from any racing or gaming conducted by a turf club or totalisator agency which is under the supervision of the Board, through regular contributions out of their proceeds or profits so as to fund distributions under section 5 by the Board.”.\n(5) Section 5 of the Singapore Totalisator Board Act 1987 is amended —\n(a)by deleting paragraph (a) of subsection (1) and substituting the following paragraph:\n“(a)to distribute sums, out of moneys forming part of the funds of the Board and not required by it in the exercise of its functions under section 4, for all or any of the following purposes:\n(i)public, social or charitable purposes relating to Singapore;\n(ii)the promotion of culture, art and sport generally in Singapore;”;\n(b)by deleting paragraph (c) of subsection (1) and substituting the following paragraph:\n“(c)to suspend or revoke any totalisator or gaming activity established by any totalisator agency under the supervision of the Board.”; and\n(c)by deleting subsection (2).\n(6) Section 9(2) of the Singapore Totalisator Board Act 1987 is amended by deleting paragraph (a).\n(7) Section 15 of the Singapore Totalisator Board Act 1987 is amended —\n(a)by deleting the words “the Board and any” in subsection (1) and substituting the word “every”; and\n(b)by deleting subsection (3).\n(8) Sections 18, 19, 20, 21 and 22 of the Singapore Totalisator Board Act 1987 are repealed.\n(9) Section 24 of the Singapore Totalisator Board Act 1987 is repealed and the following section substituted therefor:\n“Power to make regulations\n24. The Minister may make such regulations as the Minister considers necessary or expedient to give effect to the provisions and for the due administration of this Act.”."
+   }
+  },
+  {
+   "id": "SG-H1607-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 8 CONSEQUENTIAL AND RELATED AMENDMENTS TO OTHER ACTS"
+   },
+   "heading": {
+    "en": "Consequential amendments to other Acts"
+   },
+   "text": {
+    "en": "51.—(1) The Schedule to the Accounting Standards Act 2007 is amended —\n(a)by deleting item 5; and\n(b)by inserting, immediately after item 14, the following item:\n“14A.\nGambling Regulatory Authority of Singapore\nGambling Regulatory Authority of Singapore Act 2022”.\n(2) The Schedule to the Attorney‑General (Additional Functions) Act 2014 is amended —\n(a)by deleting item 3; and\n(b)by inserting, immediately after item 6, the following item:\n“6A. Gambling Regulatory Authority of Singapore”.\n(3) Paragraph 6 of the First Schedule to the Central Provident Fund Act 1953 is amended by deleting item (6A) and substituting the following item:\n“(6A) Gambling Regulatory Authority of Singapore.”.\n(4) The Schedule to the Official Secrets Act 1935 is amended —\n(a)by deleting item 2; and\n(b)by inserting, immediately after item 11, the following item:\n“11A. Gambling Regulatory Authority of Singapore”.\n(5) Item 7 of the Schedule to the Organised Crime Act 2015 is amended by deleting the words “Casino Regulatory Authority of Singapore” in the second column and substituting the words “Gambling Regulatory Authority of Singapore”.\n(6) Part 1 of the First Schedule to the Public Sector (Governance) Act 2018 is amended —\n(a)by deleting item 4; and\n(b)by inserting, immediately after item 12, the following item:\n“12A.\nGambling Regulatory Authority of Singapore\nGambling Regulatory Authority of Singapore Act 2022”.\n(7) The Schedule to the Statutory Bodies and Government Companies (Protection of Secrecy) Act 1983 is amended —\n(a)by deleting item 3; and\n(b)by inserting, immediately after item 10, the following item:\n“10A.\nGambling Regulatory Authority of Singapore\nGambling Regulatory Authority of Singapore Act 2022”.\n(8) The Schedule to the Statutory Corporations (Contributions to Consolidated Fund) Act 1989 is amended —\n(a)by deleting item 5; and\n(b)by inserting, immediately after item 14, the following item:\n“14A.\nGambling Regulatory Authority of Singapore\nGambling Regulatory Authority of Singapore Act 2022”."
+   }
+  },
+  {
+   "id": "SG-H1607-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 9 SAVING AND TRANSITIONAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Saving arrangements for renaming of Casino Regulatory Authority of Singapore"
+   },
+   "text": {
+    "en": "52.—(1) From the appointed day, any reference in any written law or contract or other document to the Casino Regulatory Authority is a reference to the Authority.\n(2) The change in corporate name of the Casino Regulatory Authority under section 3 does not operate —\n(a)to create a new legal entity;\n(b)to prejudice or affect the identity of the body corporate and public authority constituted by the Casino Regulatory Authority or its continuity as a body corporate and public authority;\n(c)to affect the property of, or the exercise of any right or the enforcement of any obligation by or against, the Casino Regulatory Authority; or\n(d)to render defective any legal proceedings by or against the Casino Regulatory Authority.\n(3) From the appointed day, any legal proceedings that might have been continued or commenced by or against the Authority in its former corporate name of the Casino Regulatory Authority may be continued or commenced by or against the Authority in its new corporate name of the Gambling Regulatory Authority of Singapore.\n(4) From the appointed day, any reference in any written law or document to the Casino Regulatory Authority and to the Casino Control Act 2006 in connection with the Casino Regulatory Authority must be read as a reference to the Gambling Regulatory Authority of Singapore and the Gambling Regulatory Authority of Singapore Act 2022, respectively."
+   }
+  },
+  {
+   "id": "SG-H1607-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART 9 SAVING AND TRANSITIONAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Saving and transitional provision for section 48"
+   },
+   "text": {
+    "en": "53. To avoid doubt, despite section 48, every individual who, immediately before the appointed day, is —\n(a)the Chairperson or a member of the Casino Regulatory Authority;\n(b)a member of a committee appointed under section 12 of the Casino Control Act 2006;\n(c)the Chief Executive of the Casino Regulatory Authority appointed under section 13 of the Casino Control Act 2006; or\n(d)an officer, employee, consultant or agent appointed under section 13 of the Casino Control Act 2006,\ncontinues to hold such office as if he or she were appointed under the corresponding provision in this Act."
+   }
+  },
+  {
+   "id": "SG-H1607-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART 9 SAVING AND TRANSITIONAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Other saving and transitional provisions"
+   },
+   "text": {
+    "en": "54.—(1) Despite section 50(8), any offence allegedly committed before the date of the commencement of that provision and which is, immediately before that date, prescribed as a compoundable offence for the purposes of section 22 of the Singapore Totalisator Board Act 1987, may continue to be compounded as if section 22 of that Act had not been repealed by section 50(8).\n(2) For a period of 2 years after the date of commencement of section 50, the Minister charged with the responsibility for finance may, by regulations, prescribe such additional provisions of a saving or transitional nature consequent on the enactment of that provision as that Minister may consider necessary or expedient.\n(3) For a period of 2 years after the date of commencement of any other provision of this Act, the Minister may, by regulations, prescribe such additional provisions of a saving or transitional nature consequent on the enactment of that provision as the Minister may consider necessary or expedient.\n(4) To avoid doubt, nothing in or done under this Part prejudices section 16 of the Interpretation Act 1965."
+   }
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "PH-H7484",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing for the Composition of the City Council of Muntinlupa, Amending for This Purpose Section 11 of Republic Act No. 7926, Otherwise Known as the Charter of The City of Muntinlupa",
+  "orig": "An Act Providing for the Composition of the City Council of Muntinlupa, Amending for This Purpose Section 11 of Republic Act No. 7926, Otherwise Known as the Charter of The City of Muntinlupa"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p106",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2001-03-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 9016",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 921,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2001/ra_9016_2001.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2001/ra_9016_2001.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H7484-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section 11 of Republic Act No. 7926, otherwise known as the Charter of the City of Muntinlupa, is hereby amended to read as follows:\n\"Section 11. The Sangguniang Panlungsod. - The sangguniang panlungsod, the legislative body of the City, shall be composed of the city vice mayor who shall be the presiding officer, eight (8) councilors per district who shall compose the regular sanggunian members elected by popular vote, the president of the city chapter of the liga ng mga barangay, the president of the panlungsod na pederasyon ng mga sangguniang kabataan, and the sectoral representatives, as members. In the local elections of May 2001, the qualified voters of the City of Muntinlupa shall already vote for the eight (8) members per district of the sangguniang panlungsod, as mandated under this Act."
+   }
+  },
+  {
+   "id": "PH-H7484-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect immediately after its publication in at least two (2) newspapers of general circulation."
+   }
+  }
+ ]
+}

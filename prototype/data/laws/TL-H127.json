@@ -1,0 +1,185 @@
+{
+ "id": "TL-H127",
+ "title": {
+  "zh": "2013年国家总预算",
+  "en": null,
+  "orig": "Orçamento Geral do Estado para 2013"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p03",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2013-03-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 2/2013",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 11,
+ "chars": 7851,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2013/serie_1/serie1_no7a.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 11 条；逐字取自官方公报 PDF（public/docs/2013/serie_1/serie1_no7a.pdf）第 1–23 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H127-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Definições"
+   },
+   "text": {
+    "pt": "Para os efeitos da presente lei, entende-se por:\na)   “Categoria de Despesa”, o agrupamento das despesas sob as cinco categorias seguintes:\n(i)    “Salários e Vencimentos”, o montante global que um Órgão pode gastar com Salários e Vencimentos para os titulares dos cargos políticos e os funcionários permanentes, temporários e em tempo parcial; (ii)   “Bens e Serviços”, o montante global que um Órgão pode gastar na aquisição de Bens e Serviços; (iii)  “Transferências Públicas”, o montante global que um Órgão pode gastar em subvenções públicas e pagamentos consignados; (iv)   “Capital Menor”, o montante global que um Órgão pode gastar na aquisição de bens de Capital Menor;\nv)   “Capital de Desenvolvimento”, o montante global que um Órgão pode gastar em projectos de Capital de Desenvolvimento.\nb)   “Despesas Compensadas pelas Receitas”, as despesas suportadas pelas receitas próprias cobradas pelos serviços e fundos autónomos, desde que o montante não exceda o valor total das receitas que deram entrada nas contas relevantes do Tesouro;\nc)   “Dotação Orçamental”, o montante máximo inscrito no OGE a favor de um Órgão com vista à realização de determinada despesa;\nd)   “Órgão / Órgãos”, o termo genérico adoptado no Orçamento para indicar o sector público administrativo sujeito à disciplina orçamental e que, segundo a classificação orgânica, se pode dividir em títulos, tais como Gabinete do Presidente da República, Parlamento Nacional, Governo (Gabinete do Primeiro-Ministro, Presidência do Conselho de Ministros, Ministérios e Secretarias de Estado), Tribunais e Procuradoria-Geral da República, bem como outras instituições que constam do Anexo II;\ne)   “Rubricas de Despesa”, as rubricas de despesa individuais dentro de cada Categoria de Despesa, com base na estrutura de código de contas de despesa mantida pelo Tesouro."
+   }
+  },
+  {
+   "id": "TL-H127-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Aprovação"
+   },
+   "text": {
+    "pt": "É aprovado o Orçamento Geral do Estado para o período compreendido entre 1 de Janeiro de 2013 e 31 de Dezembro de 2013, incluindo:\na)   O total de receitas por agrupamentos, incluindo as receitas próprias dos serviços e fundos autónomos, dos fundos especiais e dos empréstimos, constantes do Anexo I à presente lei, dela fazendo parte integrante;\nb)   O total de despesas por agrupamentos, incluindo as verbas a serem transferidas do Orçamento Geral do Estado para os serviços e fundos autónomos, em 2013, constantes do Anexo II à presente lei, dela fazendo parte integrante;\nc)   O total de despesas dos serviços e fundos autónomos a serem financiadas a partir das suas receitas próprias e do Orçamento Geral do Estado, constantes do Anexo III à presente lei, dela fazendo parte integrante;\nd)   O total de despesas correspondentes à dotação do Fundo das Infra-Estruturas, para 2013, incluindo saldos transitados e despesas financiadas através do recurso ao endividamento público, constantes do Anexo IV à presente lei, dela fazendo parte integrante;\ne)   O total das despesas correspondentes à dotação do Fundo de Desenvolvimento do Capital Humano, para 2013, incluindo saldos transitados, constantes do Anexo V à presente lei, dela fazendo parte integrante.\nCapítulo II\nReceitas"
+   }
+  },
+  {
+   "id": "TL-H127-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "heading": {
+    "pt": "Impostos e taxas"
+   },
+   "text": {
+    "pt": "Durante o ano de 2013, o Governo está autorizado a cobrar os impostos e taxas constantes da legislação em vigor.\nCapítulo III\nAutorização para transferência do Fundo Petrolífero e uso dos saldos da Conta do Tesouro"
+   }
+  },
+  {
+   "id": "TL-H127-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "heading": {
+    "pt": "Limite autorizado para crédito do OGE e uso dos saldos da Conta do Tesouro"
+   },
+   "text": {
+    "pt": "1.   Nos termos e para os efeitos do disposto no artigo 7.º da Lei n.º 9/2005, de 3 de Agosto, na redação que lhe foi dada pela Lei n.º 12/2011, de 28 de Setembro (Lei do Fundo Petrolífero), o montante das transferências do Fundo Petrolífero para 2013 não excede $787 milhões de dólares e só se efectua após cumprimento do disposto no artigo 8.º da supracitada lei.\n2.   Após se ter atingido uma execução orçamental de $1.386,7 milhões, o Governo recorre ao uso, parcial ou total, dos saldos da Conta do Tesouro, com informação prévia ao Parlamento Nacional.\nCapítulo IV\nConstituição de dívida pública"
+   }
+  },
+  {
+   "id": "TL-H127-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "heading": {
+    "pt": "Montante máximo de endividamento autorizado"
+   },
+   "text": {
+    "pt": "1.   Com o objectivo de fazer face às necessidades de financiamento relacionadas com a construção de infra-estruturas estratégicas para o desenvolvimento do País, fica o Governo autorizado, nos termos do artigo 20.º da Lei n.º 13/2009, de 21 de Outubro, sobre Orçamento e Gestão Financeira, e do\nartigo 3.º da Lei n.º 13/2011, de 28 de Setembro, sobre o Regime da Dívida Pública, a recorrer ao endividamento externo concessional até ao montante máximo de $223,5 milhões de dólares, com um prazo máximo de 40 anos.\n2.   Sem prejuízo do disposto no número anterior, em 2013 o financiamento proveniente de empréstimos não excede $43,6 milhões de dólares.\nCapítulo V\nExecução Orçamental"
+   }
+  },
+  {
+   "id": "TL-H127-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "heading": {
+    "pt": "Pagamento de impostos sobre importações"
+   },
+   "text": {
+    "pt": "O Tesouro fica autorizado a estabelecer e a implementar um mecanismo de contabilidade para o registo e controlo das receitas e despesas, correspondente ao pagamento de impostos sobre importações efectuadas pelos Órgãos ou em seu nome."
+   }
+  },
+  {
+   "id": "TL-H127-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "heading": {
+    "pt": "Dotações para todo o Governo"
+   },
+   "text": {
+    "pt": "De acordo com os critérios claros e precisos estabelecidos relativamente às despesas públicas, o Governo inscreve no orçamento das Dotações para Todo o Governo as seguintes dotações, cuja gestão fica a cargo do Ministério das Finanças:\na)   Fundo de Contrapartidas;\nb)   Auditoria Externa;\nc)   Reserva de Contingência;\nd)   Quotas de Membro de Organizações Internacionais;\ne)   Pagamento de pensões aos Ex-titulares e Ex-membros dos Órgãos de Soberania;\nf)   Construção de Postos Integrados na Fronteira;\ng)   Fundo de Contribuição às Instituições de Carácter Social;\nh)   Provisão para g7+;\n(i)   Provisão para Regulação das Telecomunicações;\nj)   Serviço de Registo e Verificação Empresarial;\nk)   Provisão para Impacto dos Regimes Especiais;\nl)   Secretariado dos Grandes Projectos;\nm)   Provisão para Serviços Legais;\nn)   Agência de Cooperação de Timor-Leste.\nCapítulo VI\nServiços e fundos autónomos e fundos especiais"
+   }
+  },
+  {
+   "id": "TL-H127-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "heading": {
+    "pt": "Receitas próprias"
+   },
+   "text": {
+    "pt": "1.   As previsões das receitas a serem cobradas pelos serviços e fundos autónomos constam do Anexo I.\n2.   As despesas resultantes das transferências a partir do OGE para os serviços e fundos autónomos e para os fundos especiais, bem como a previsão das respectivas despesas, constam do Anexo II.\n3.   Os orçamentos por categoria de despesa relativos aos serviços e fundos autónomos parcialmente financiados por receitas próprias constam do Anexo III.\n4.   A dotação do Fundo das Infra-Estruturas consta do Anexo IV.\n5.   A dotação do Fundo de Desenvolvimento do Capital Humano consta do Anexo V.\n6.   Os Avisos de Autorização de Despesa a favor dos serviços e fundos autónomos, a partir das receitas próprias, só podem ser autorizados após recepção, por parte do Estado, das respectivas receitas, sendo as referidas autorizações obrigatoriamente de valor igual ou inferior.\nCapítulo VII\nDisposições finais"
+   }
+  },
+  {
+   "id": "TL-H127-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "heading": {
+    "pt": "Financiamento através de doadores independentes"
+   },
+   "text": {
+    "pt": "1.   Cada Órgão só pode estabelecer acordos com doadores independentes para o fornecimento de recursos adicionais ou complementares ao financiamento contido nas afectações orçamentais na presente lei, mediante parecer prévio obrigatório do ministro responsável pela área das Finanças.\n2.   A gestão deste financiamento deve ser feita de acordo com as directivas emitidas pelo Ministério das Finanças e com os requisitos dos doadores."
+   }
+  },
+  {
+   "id": "TL-H127-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "heading": {
+    "pt": "Responsabilidade"
+   },
+   "text": {
+    "pt": "1.   A assinatura de contratos sem cabimento orçamental gera responsabilidade política, financeira, civil e criminal, nos termos do artigo 46.º da Lei n.º 13/2009, de 21 de Outubro, sobre Orçamento e Gestão Financeira.\n2.   Para efeitos de efectivação da responsabilidade financeira prevista no número anterior, considera-se que o titular do cargo político procede a um pagamento indevido, sujeito a condenação em reposição da quantia correspondente, nos termos do artigo 44.º e seguintes da Lei n.º 9/2011, de 17 de Agosto, que aprova a Orgânica da Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas."
+   }
+  },
+  {
+   "id": "TL-H127-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação, com efeitos a partir de 1 de Janeiro de 2013."
+   }
+  }
+ ]
+}

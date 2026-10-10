@@ -1,0 +1,94 @@
+{
+ "id": "TL-H068",
+ "title": {
+  "zh": "Autoriza o Presidente da Republica a renovar a declaracao do estado de sitio no distrito de Ermera",
+  "en": null,
+  "orig": "Autoriza o Presidente da Republica a renovar a declaracao do estado de sitio no distrito de Ermera"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2008-04-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 7/2008",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1103,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2008/serie_1/serie1_no15.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自官方公报 PDF（public/docs/2008/serie_1/serie1_no15.pdf）第 2192–2193 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H068-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "(Estado de sítio)"
+   },
+   "text": {
+    "pt": "O Parlamento Nacional, sob proposta do Governo e ouvidos o Conselho de Estado e o Conselho Superior de Defesa e Segurança, autoriza o Presidente da República a decretar a renovação do estado de sítio no distrito de Ermera."
+   }
+  },
+  {
+   "id": "TL-H068-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "(Cessação dos estados de excepção)"
+   },
+   "text": {
+    "pt": "Cessam automaticamente, por decurso do prazo fixado no Decreto Presidencial n.º 48/2008, de 20 de Março, o estado de sítio nos distritos de Aileu, Bobonaro, Covalima, Ainaro, Liquiçá e Manufahi e o estado de emergência nos distritos de Baucau, Lautem, Manatuto, Viqueque e Díli."
+   }
+  },
+  {
+   "id": "TL-H068-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "heading": {
+    "pt": "(Duração)"
+   },
+   "text": {
+    "pt": "O estado de sítio supra autorizado tem a duração de 30 (trinta) dias, com início às 22h00 do dia 22 de Abril e termo às 22h00 do dia 21 de Maio de 2008."
+   }
+  },
+  {
+   "id": "TL-H068-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "heading": {
+    "pt": "(Especificação dos direitos)"
+   },
+   "text": {
+    "pt": "Durante o estado de sítio no distrito de Ermera, fica o Presidente da República autorizado a suspender os seguintes direitos:\na)   Direito de livre circulação, com recolher obrigatório entre as 22h00 e as 6h00, salvaguardados os direitos previstos nas alíneas c) e f) do número 1 do artigo 3º da Lei n.º 3/2008, de 22 de Fevereiro;\nb)   Direitos de manifestação e de reunião, salvaguardados os direitos previstos nas alíneas d), e) e f) do número 1 do"
+   }
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "id": "SG-H3639",
+ "title": {
+  "zh": null,
+  "en": "Service Lands Act 1963",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p46",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act SLA1963",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1214,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/SLA1963?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 2 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3639-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Service Lands Act 1963."
+   }
+  },
+  {
+   "id": "SG-H3639-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Removal of unlawful occupants of lands used for the purposes of any Malaysian forces"
+   },
+   "text": {
+    "en": "2.—(1) The provisions of this section shall apply to lands used or to be used for the purposes of any military, naval or air forces of Malaysia.\n(2) A Magistrate’s Court, on the information of the Federal Lands Commissioner or a person authorised by him that any person is in unlawful occupation of any land to which this section applies, may issue a summons for the appearance before the Court of the person informed against; and on his appearing to the summons or (in default of his appearance thereto) on proof of service of the summons the Court may proceed in a summary way to hear and determine the information.\n(3) If on the hearing of the information the Court is satisfied of the truth thereof, the Court shall by warrant require any police officer specified in the warrant forthwith to dispossess and remove such person from the land, and on behalf of the Federal Lands Commissioner to take possession of the land together with all crops growing thereon and all buildings and other immovable property upon and affixed to the land; and the warrant may be executed by any police officer into whose hands the warrant may come, whether or not it is addressed to him."
+   }
+  }
+ ]
+}

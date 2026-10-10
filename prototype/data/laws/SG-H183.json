@@ -1,0 +1,782 @@
+{
+ "id": "SG-H183",
+ "title": {
+  "zh": null,
+  "en": "Allied Health Professions (Professional Conduct and Discipline) Regulations 2013",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p03",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation AHPA2011-RG2",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 47,
+ "chars": 52150,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/AHPA2011-RG2?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 47 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H183-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations are the Allied Health Professions (Professional Conduct and Discipline) Regulations 2013."
+   }
+  },
+  {
+   "id": "SG-H183-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“Council’s solicitor” means an advocate and solicitor appointed under section 68 of the Act;\n“counsel” means an advocate and solicitor representing a registered allied health professional in any disciplinary proceedings under the Act;\n“disciplinary offence” means an act or omission in respect of which a registered allied health professional may be subject to disciplinary proceedings under the Act;\n“legal assessor” means an assessor appointed under section 70(1) of the Act;\n“party” means a party to an inquiry by a Disciplinary Tribunal."
+   }
+  },
+  {
+   "id": "SG-H183-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 PROFESSIONAL CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Professional conduct and ethics"
+   },
+   "text": {
+    "en": "3. Every registered allied health professional must observe the pronouncements on professional matters and professional ethics issued from time to time by the Council."
+   }
+  },
+  {
+   "id": "SG-H183-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 PROFESSIONAL CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Notice of inquiry"
+   },
+   "text": {
+    "en": "4.—(1) Where a Disciplinary Tribunal has been appointed under section 50(1) of the Act, the Council’s solicitor must send a notice set out in Form 1 of the First Schedule to the registered allied health professional concerned.\n(2) The notice mentioned in paragraph (1) must —\n(a)specify, in the form of a charge or charges determined by the Complaints Committee or (where the matter is referred to the Disciplinary Tribunal under section 39(4) or 49(13)(c)(i) of the Act) the Council, the matters which the Disciplinary Tribunal will inquire into;\n(b)state the date, time and place at which the inquiry will be held;\n(c)be sent —\n(i)by delivering it to the registered allied health professional, an adult member of his or her family, or an employee of his or her family or of his or her practice, at the registered allied health professional’s last known address; or\n(ii)by registered post addressed to the registered allied health professional at his or her last known address; and\n(d)be accompanied by a copy of the report of any expert witness whom the Council’s solicitor intends to call at the inquiry.\n(3) An inquiry must not be held earlier than 28 days after the date of the notice of inquiry except with the agreement of the registered allied health professional."
+   }
+  },
+  {
+   "id": "SG-H183-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 PROFESSIONAL CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Postponement or adjournment"
+   },
+   "text": {
+    "en": "5.—(1) Subject to section 51(9) and (10) of the Act, a Disciplinary Tribunal may, of its own motion or upon the application of any party, postpone the commencement of any inquiry or adjourn any proceedings at any time.\n(2) An application for the postponement of the commencement of an inquiry must be made in writing to the chairperson of the Disciplinary Tribunal at least 21 days before the date fixed for the commencement of the inquiry, unless the Disciplinary Tribunal allows the application to be made in a shorter period before the commencement of the inquiry, and must be supported by good reasons."
+   }
+  },
+  {
+   "id": "SG-H183-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 PROFESSIONAL CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Power to make orders and give directions for just, expeditious and economical disposal of inquiries"
+   },
+   "text": {
+    "en": "6.—(1) A Disciplinary Tribunal may, at any time after it is appointed, of its own motion or upon the application of any party, direct any party or the parties to attend a pre‑inquiry conference before the chairperson of the Disciplinary Tribunal, in order that the chairperson may make such orders or give such directions of an administrative nature as he or she thinks fit for the just, expeditious and economical disposal of the inquiry.\n(2) Where the chairperson of the Disciplinary Tribunal is a registered allied health professional, he or she may be assisted at the pre‑inquiry conference by —\n(a)a legal assessor; or\n(b)any member of the Disciplinary Tribunal who is a person mentioned in section 50(1)(a)(ii) or (iii) of the Act.\n(3) The chairperson of the Disciplinary Tribunal may adjourn a pre‑inquiry conference from time to time, either generally or to a particular date, as may be appropriate.\n(4) The chairperson of the Disciplinary Tribunal may, in exercising his or her powers under this regulation, make such recommendation as to costs, as he or she thinks fit, to the Disciplinary Tribunal, including costs occasioned by any non‑compliance with a direction given or an order made by the chairperson under this regulation."
+   }
+  },
+  {
+   "id": "SG-H183-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 PROFESSIONAL CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Supply of document"
+   },
+   "text": {
+    "en": "7.—(1) If the registered allied health professional wishes to raise any defence at the inquiry, the registered allied health professional or his or her counsel must, at least 10 days before the date fixed for the commencement of the inquiry, send to the Council’s solicitor the report of any expert witness whom the registered allied health professional or his or her counsel intends to call at the inquiry.\n(2) The Council’s solicitor must, as soon as practicable, send to the executive secretary of the Council —\n(a)a copy each of the notice mentioned in regulation 4(1) and any report mentioned in regulation 4(2)(d); and\n(b)a copy of any report received from the registered allied health professional or his or her counsel under paragraph (1).\n(3) The Council’s solicitor and the registered allied health professional or his or her counsel must, as far as possible, co‑operate to prepare an agreed statement of facts, an agreed bundle of documents or exhibits to be used at the inquiry and their lists of witnesses to be called at the inquiry.\n(4) The Council’s solicitor must, at least 5 days before the commencement of the inquiry or within such time as may be directed by the chairperson of the Disciplinary Tribunal at a pre‑inquiry conference, send the following, if available, to the executive secretary of the Council and the registered allied health professional or his or her counsel:\n(a)the opening statements of the parties;\n(b)the agreed statement of facts;\n(c)the agreed bundle of documents or exhibits to be used at the inquiry;\n(d)lists of witnesses whom the parties intend to call at the inquiry;\n(e)copies of any other documents which are to be used at the inquiry.\n(5) The Council’s solicitor may —\n(a)request to receive from the registered allied health professional or his or her counsel copies of any documents in the possession of the registered allied health professional or his or her counsel which are relevant to the matter before the Disciplinary Tribunal; or\n(b)give notice to the registered allied health professional or his or her counsel to produce before the Disciplinary Tribunal any such documents."
+   }
+  },
+  {
+   "id": "SG-H183-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 PROFESSIONAL CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Subpoena"
+   },
+   "text": {
+    "en": "8. A subpoena issued under section 51(5) of the Act must be in accordance with the form mentioned in Order 15, Rule 4(1) of the Rules of Court 2021, with any variations that the circumstances may require."
+   }
+  },
+  {
+   "id": "SG-H183-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 PROFESSIONAL CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Waiver"
+   },
+   "text": {
+    "en": "9. The Disciplinary Tribunal may, in any particular case, waive all or any of the requirements in regulations 4(2)(d) and 7."
+   }
+  },
+  {
+   "id": "SG-H183-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 PROFESSIONAL CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Council may consent to amendment, etc., of charges"
+   },
+   "text": {
+    "en": "10.—(1) The Council must consider any representations received from a registered allied health professional or his or her counsel in respect of any charge framed against the registered allied health professional and may, if the Council considers it fair and expedient to do so, consent to —\n(a)the subsequent amendment, withdrawal, substitution or amalgamation by the Disciplinary Tribunal of one or more charges against the registered allied health professional; or\n(b)the taking into consideration of one or more charges by the Disciplinary Tribunal for the purpose of exercising the powers of the Disciplinary Tribunal under section 53(2) of the Act.\n(2) The Council may appoint a committee to exercise the powers and functions of the Council under paragraph (1).\n(3) The number and terms of office of the members of a committee appointed under paragraph (2), and the number of those members necessary to form a quorum, are to be fixed by the Council at the time of the appointment of the committee."
+   }
+  },
+  {
+   "id": "SG-H183-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 PROFESSIONAL CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Conduct of inquiry"
+   },
+   "text": {
+    "en": "11.—(1) At the inquiry, the case against the registered allied health professional may be presented by the Council’s solicitor.\n(2) The registered allied health professional may appear in person or be represented by counsel.\n(3) Where neither the registered allied health professional nor his or her counsel is present, the Disciplinary Tribunal may proceed with the inquiry if it is satisfied that regulation 4 has been complied with.\n(4) The Disciplinary Tribunal must adopt the following procedure for holding its inquiry, but may make any variations or modifications that it thinks fit in any particular case:\n(a)the charge or charges must first be read out to the registered allied health professional;\n(b)the registered allied health professional or his or her counsel may object to any charge on a point of law, and if any such objection is upheld, no further proceedings are to be taken on the charge to which the objection relates;\n(c)the Council’s solicitor must present the facts on which the complaint is based, and adduce evidence of the facts alleged in the charge or charges;\n(d)the registered allied health professional or his or her counsel may adduce evidence to substantiate the registered allied health professional’s defence;\n(e)both the Council’s solicitor and the registered allied health professional or his or her counsel may cross‑examine witnesses of the other party after the evidence‑in‑chief has been completed, and each party may re‑examine their witnesses after the cross‑examination;\n(f)at the close of his or her case, the registered allied health professional or his or her counsel may address the Disciplinary Tribunal;\n(g)the Council’s solicitor must make his or her closing address.\n(5) Where at any point in the proceedings the Disciplinary Tribunal determines that the evidence brought forward is insufficient or there is no evidence to substantiate any charge or all of the charges, the Disciplinary Tribunal must discontinue further proceedings on the charge or charges.\n(6) If the Disciplinary Tribunal is satisfied that the registered allied health professional or his or her counsel is hampering or attempting to hamper the progress of the inquiry, the chairperson of the Disciplinary Tribunal must administer a warning to the registered allied health professional and, where appropriate, his or her counsel.\n(7) If after such warning the Disciplinary Tribunal is satisfied that the warning is being disregarded, the Disciplinary Tribunal must make a written note of this and must proceed with and complete the inquiry in any manner which it thinks fit.\n(8) The inquiry by the Disciplinary Tribunal must be held in private."
+   }
+  },
+  {
+   "id": "SG-H183-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 PROFESSIONAL CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Disciplinary Tribunal may alter charge or frame new charge"
+   },
+   "text": {
+    "en": "12.—(1) A Disciplinary Tribunal may alter a charge or frame a new charge, whether in substitution for or in addition to an existing charge, at any time before it makes a finding under section 53 of the Act.\n(2) An altered charge or a new charge must be read and explained to the registered allied health professional.\n(3) If a charge is altered or a new charge is framed under paragraph (1), the Disciplinary Tribunal must immediately call on the registered allied health professional to enter his or her plea and to state whether he or she is ready for the inquiry to proceed on the altered or new charge.\n(4) If the registered allied health professional declares that he or she is not ready for the inquiry to proceed on the altered or new charge, the Disciplinary Tribunal must duly consider any reason he or she gives.\n(5) Despite paragraph (4), if the Disciplinary Tribunal thinks that proceeding immediately with the inquiry is unlikely to prejudice the registered allied health professional’s defence or the conduct of the case by the Council’s solicitor, then the Disciplinary Tribunal may proceed with the inquiry.\n(6) If, after considering any reason given by the registered allied health professional under paragraph (4), the Disciplinary Tribunal thinks that proceeding immediately with the inquiry is likely to prejudice the registered allied health professional’s defence or the conduct of the case by the Council’s solicitor, then the Disciplinary Tribunal may direct a new inquiry or adjourn the inquiry for as long as it thinks necessary.\n(7) If a charge is altered or a new charge is framed by the Disciplinary Tribunal after the start of an inquiry, the Council’s solicitor and the registered allied health professional must, on application to the Disciplinary Tribunal by either party, be allowed to recall or re‑summon and examine any witness who may have been examined, with respect to the altered or new charge only, unless the Disciplinary Tribunal thinks that the application is frivolous or vexatious, or is otherwise an abuse of process."
+   }
+  },
+  {
+   "id": "SG-H183-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 PROFESSIONAL CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Joining of similar disciplinary offences and inquiry for more than one disciplinary offence"
+   },
+   "text": {
+    "en": "13.—(1) When a registered allied health professional is alleged to have committed 2 or more disciplinary offences, a single inquiry into any number of those disciplinary offences may be held if the disciplinary offences form or are part of a series of disciplinary offences of the same or a similar character.\n(2) If, in one series of acts or omissions so connected as to form the same transaction, 2 or more disciplinary offences are committed by the same registered allied health professional, then a single inquiry into every such disciplinary offence may be held."
+   }
+  },
+  {
+   "id": "SG-H183-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 2 PROFESSIONAL CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Inquiries against 2 or more registered allied health professionals"
+   },
+   "text": {
+    "en": "14. A joint inquiry or separate inquiries may be held against —\n(a)2 or more registered allied health professionals alleged to have committed the same disciplinary offence in the same transaction;\n(b)2 or more registered allied health professionals alleged to have committed different disciplinary offences in the same transaction;\n(c)2 or more registered allied health professionals alleged to have committed 2 or more disciplinary offences which form or are part of a series of disciplinary offences of the same or a similar character;\n(d)2 or more registered allied health professionals alleged to have committed 2 or more disciplinary offences, if all of those offences arise from the same series of acts or omissions, whether or not they form the same transaction; or\n(e)one or more registered allied health professionals alleged to have committed a disciplinary offence and one or more registered allied health professionals alleged to have abetted or attempted to commit that disciplinary offence."
+   }
+  },
+  {
+   "id": "SG-H183-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 2 PROFESSIONAL CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Single or joint inquiries with consent"
+   },
+   "text": {
+    "en": "15.—(1) A Disciplinary Tribunal may inquire into 2 or more disciplinary offences together at a single inquiry or order a joint inquiry, even though it cannot do so by virtue of regulation 13 or 14, if —\n(a)in a case where a registered allied health professional is charged with 2 or more disciplinary offences — the Council and the registered allied health professional consent to have all the disciplinary offences dealt with at the same inquiry; or\n(b)in a case where 2 or more registered allied health professionals are charged with separate disciplinary offences — the Council and all the registered allied health professionals consent to a joint inquiry.\n(2) Despite paragraph (1), the Disciplinary Tribunal must not hold a single or joint inquiry in relation to a registered allied health professional who had earlier given consent under that paragraph, if —\n(a)at the time when the consent was given — the registered allied health professional was not represented by counsel; and\n(b)at the time of the inquiry — that registered allied health professional objects to the Disciplinary Tribunal holding the single or joint inquiry."
+   }
+  },
+  {
+   "id": "SG-H183-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 2 PROFESSIONAL CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Separate inquiry where registered allied health professional is prejudiced"
+   },
+   "text": {
+    "en": "16. Despite any other provision in these Regulations, a Disciplinary Tribunal may order, before or at any stage of an inquiry in relation to a registered allied health professional, that a separate inquiry be held into one or more disciplinary offences alleged to have been committed by the registered allied health professional, if the Disciplinary Tribunal is of the view that the registered allied health professional may be prejudiced or embarrassed in his or her defence because —\n(a)a single inquiry is being held into more than one disciplinary offence under regulation 13 or 15(1)(a); or\n(b)a joint inquiry is being held under regulation 14 or 15(1)(b) against the registered allied health professional together with one or more other registered allied health professionals."
+   }
+  },
+  {
+   "id": "SG-H183-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 2 PROFESSIONAL CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Findings of Disciplinary Tribunal"
+   },
+   "text": {
+    "en": "17.—(1) After the closing address by the Council’s solicitor, the Disciplinary Tribunal must inform the parties of its findings in relation to the facts of the case either immediately or on a subsequent date of which reasonable notice must be given to the parties.\n(2) If the Disciplinary Tribunal is satisfied that the charge or any of the charges made against the registered allied health professional have been proved, the Disciplinary Tribunal must invite the registered allied health professional or his or her counsel to address the Disciplinary Tribunal by way of mitigation and, after hearing the address (if any) proceed to exercise the powers under section 53(2) of the Act."
+   }
+  },
+  {
+   "id": "SG-H183-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 2 PROFESSIONAL CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Outstanding charges"
+   },
+   "text": {
+    "en": "18.—(1) Where a Disciplinary Tribunal makes a finding under section 53(1) of the Act against a registered allied health professional in respect of a disciplinary offence, the Disciplinary Tribunal, in exercising its powers under section 53(2) of the Act, may, with the consent of the Council and the registered allied health professional, take into consideration any other outstanding disciplinary offences that the registered allied health professional admits to have committed.\n(2) After the Disciplinary Tribunal has exercised its powers under section 53(2) of the Act, disciplinary action must not be taken against the registered allied health professional in respect of any such other disciplinary offences that the Disciplinary Tribunal had taken into consideration under this regulation unless the findings of the Disciplinary Tribunal in respect of the original disciplinary offence mentioned in paragraph (1) are set aside."
+   }
+  },
+  {
+   "id": "SG-H183-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 2 PROFESSIONAL CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Publication of outcome of inquiry"
+   },
+   "text": {
+    "en": "19. The Disciplinary Tribunal may, in its discretion, publish an account of the inquiry and its findings and may cause the dean, the secretary or any other proper officer of any institution of higher learning from which the registered allied health professional had received his or her qualification to be informed of any removal of his or her name from any register."
+   }
+  },
+  {
+   "id": "SG-H183-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 2 PROFESSIONAL CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Transcript of notes of inquiry"
+   },
+   "text": {
+    "en": "20. Upon the application of any interested party and payment of the fee specified in the Second Schedule, the Council may furnish that party with a transcript of the inquiry or a copy of any document tendered at the inquiry."
+   }
+  },
+  {
+   "id": "SG-H183-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 2 PROFESSIONAL CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Documents before Disciplinary Tribunal"
+   },
+   "text": {
+    "en": "21.—(1) The Disciplinary Tribunal may, at any stage in the proceedings, refer to any written statement or reference material, even though its author or, in the case of reference material, an expert may not be called, if —\n(a)the registered allied health professional consents; or\n(b)after consultation with the legal assessor, the Disciplinary Tribunal is satisfied that the reception of the written statement or reference material is desirable to enable the Disciplinary Tribunal to perform its duty or discharge its functions.\n(2) A copy of the written statement or reference material mentioned in paragraph (1) must be made available to the registered allied health professional at the inquiry.\n(3) Where, even though any written statement or reference material has been referred to by the Disciplinary Tribunal under paragraph (1), the Disciplinary Tribunal is of the opinion that it should be supplemented by oral testimony —\n(a)the Disciplinary Tribunal may request that the author or, in the case of reference material, an expert be called as a witness and adjourn the hearing for the purpose; and\n(b)on subsequently resuming the hearing, unless the author or expert (as the case may be) gives oral evidence, the Disciplinary Tribunal is entitled to disregard the written statement or reference material."
+   }
+  },
+  {
+   "id": "SG-H183-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 2 PROFESSIONAL CONDUCT AND DISCIPLINE"
+   },
+   "heading": {
+    "en": "Resumed hearing"
+   },
+   "text": {
+    "en": "22.—(1) If, in any case where the Disciplinary Tribunal has adjourned the case or postponed its finding, it appears to the chairperson of the Disciplinary Tribunal that the Disciplinary Tribunal should resume consideration of the case, the chairperson of the Disciplinary Tribunal must notify the Council’s solicitor and the registered allied health professional or his or her counsel of the date, time and place where the Disciplinary Tribunal will meet to resume its consideration of the case.\n(2) Without limiting paragraph (1), where a Disciplinary Tribunal has imposed any condition or restriction under section 53(2)(d) or 54(2) of the Act and information is subsequently received that the registered allied health professional is in a material respect not complying with the condition or restriction —\n(a)the Disciplinary Tribunal or any Disciplinary Tribunal appointed in its place may meet to consider the case; and\n(b)the executive secretary of the Council must notify the Council’s solicitor and the registered allied health professional or his or her counsel of the date, time and place of the meeting.\n(3) Regulations 5 to 21 apply, with the necessary modifications, to any meeting under paragraph (1) or (2)."
+   }
+  },
+  {
+   "id": "SG-H183-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 3 PERFORMANCE AND FITNESS ASSESSMENTS"
+   },
+   "heading": {
+    "en": "Performance Assessment Panels"
+   },
+   "text": {
+    "en": "23.—(1) A Performance Assessment Panel appointed under section 45(1) of the Act must comprise —\n(a)2 registered allied health professionals of at least 10 years’ standing from the same profession as the registered allied health professional who has agreed to undergo a performance assessment; and\n(b)a lay person, if the Complaints Committee thinks it desirable having regard to the nature of the issues likely to arise in the performance assessment.\n(2) In assessing the quality of a registered allied health professional’s professional services, a Performance Assessment Panel —\n(a)may do such acts as it deems fit, including the following:\n(i)visiting the registered allied health professional’s place of work;\n(ii)interviewing the registered allied health professional;\n(iii)interviewing third parties, such as the person who made the complaint or referred the information;\n(iv)reviewing a sample of the registered allied health professional’s records and practice documents;\n(v)having a case-based discussion with the registered allied health professional using a selection of some cases to explore the registered allied health professional’s reasoning; but\n(b)must not, despite sub‑paragraph (a), do any act that is inconsistent with the Act or any instructions which may be issued by the Complaints Committee."
+   }
+  },
+  {
+   "id": "SG-H183-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 3 PERFORMANCE AND FITNESS ASSESSMENTS"
+   },
+   "heading": {
+    "en": "Reasons for performance assessment"
+   },
+   "text": {
+    "en": "24. In deciding whether to authorise an investigator to obtain the consent of a registered allied health professional under section 44(3)(a) of the Act to undergo a performance assessment, the Complaints Committee must have regard to all of the following:\n(a)any apparent tendency by the registered allied health professional to use inappropriate or outdated techniques;\n(b)any apparent lack of basic professional knowledge on the part of the registered allied health professional;\n(c)any apparent lack of familiarity with basic clinical or administrative procedures on the part of the registered allied health professional;\n(d)any apparent poor record keeping or failure to keep up‑to‑date records by the registered allied health professional;\n(e)any apparent inadequate practice arrangements involving the registered allied health professional;\n(f)any apparent inadequate hygiene arrangements involving the registered allied health professional;\n(g)any other matter that the Complaints Committee considers relevant."
+   }
+  },
+  {
+   "id": "SG-H183-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 3 PERFORMANCE AND FITNESS ASSESSMENTS"
+   },
+   "heading": {
+    "en": "Fitness Assessment Panels"
+   },
+   "text": {
+    "en": "25.—(1) A Fitness Assessment Panel appointed under section 46(1) of the Act must comprise 2 registered medical practitioners of at least 15 years’ standing.\n(2) The report submitted by a Fitness Assessment Panel under section 46(3) of the Act must address all relevant matters relating to the registered allied health professional’s fitness to practise, including the following:\n(a)the Fitness Assessment Panel’s opinion on whether the registered allied health professional is fit to practise, either generally or in a limited way;\n(b)any recommendation by the Fitness Assessment Panel, including recommendations on the appropriate restrictions or limitations to be imposed on the registered allied health professional’s practice."
+   }
+  },
+  {
+   "id": "SG-H183-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 HEALTH COMMITTEES"
+   },
+   "heading": {
+    "en": "Invitation to submit to medical examination"
+   },
+   "text": {
+    "en": "26.—(1) Where a complaint or information is referred to a Health Committee under section 41(2)(a), 49(2)(a) or 52(1) of the Act, the chairperson of the Health Committee may send a written notice to the registered allied health professional —\n(a)inviting him or her to agree, within 14 days after receiving the notice, to an examination by at least 2 registered medical practitioners to be appointed by the Health Committee and to agree that they should furnish to the Health Committee reports on his or her fitness to practise; or\n(b)if the information received by the Health Committee includes reports on the registered allied health professional by other medical practitioners who have recently examined him or her and it appears to the Health Committee that the reports afford sufficient medical evidence that the registered allied health professional’s fitness to practise may be impaired by reason of a physical or mental condition, informing him or her of the foregoing.\n(2) The Health Committee must, in the notice mentioned in paragraph (1) —\n(a)inform the registered allied health professional that he or she may nominate not more than 2 other registered medical practitioners to examine him or her and report to the Health Committee on his or her fitness to practise at his or her own expense; and\n(b)invite the registered allied health professional to submit any observations or other evidence which he or she may wish to offer as to his or her own fitness to practise.\n(3) The Health Committee may, as soon as practicable, proceed with its inquiry and make such order as it thinks fit under section 58 of the Act, if the registered allied health professional —\n(a)refuses to be examined;\n(b)having agreed to a medical examination, subsequently fails to submit to the medical examination when it has been arranged by the Health Committee or, in the case of a medical examination by a medical practitioner nominated under paragraph (2)(a), within 30 days after the despatch of the notice mentioned in paragraph (1) (or such further period as the Health Committee may allow); or\n(c)does not reply within 14 days after the despatch of the notice mentioned in paragraph (1) (or such further period as the Health Committee may allow).\n(4) The chairperson of the Health Committee must forward to the registered allied health professional, together with the notice mentioned in paragraph (1), copies of any complaint or information and of any statutory declaration or affidavit made in support of the complaint or information."
+   }
+  },
+  {
+   "id": "SG-H183-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 4 HEALTH COMMITTEES"
+   },
+   "heading": {
+    "en": "Medical examination"
+   },
+   "text": {
+    "en": "27.—(1) If the registered allied health professional agrees to submit to a medical examination by the medical practitioners appointed by a Health Committee in response to an invitation sent under regulation 26(1)(a), the Health Committee must make arrangements for the examination.\n(2) The Health Committee must send to the medical practitioners mentioned in paragraph (1) and any medical practitioner nominated under regulation 26(2)(a) the information received by the Health Committee and must ask them to report to the Health Committee —\n(a)on the fitness of the registered allied health professional to practise, either generally or on a limited basis; and\n(b)on their recommendations (if any) as to the management of the allied health professional’s case."
+   }
+  },
+  {
+   "id": "SG-H183-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 4 HEALTH COMMITTEES"
+   },
+   "heading": {
+    "en": "Provision of medical reports to registered allied health professional"
+   },
+   "text": {
+    "en": "28. The Health Committee must —\n(a)send to the registered allied health professional copies of the reports obtained under regulation 27(2); and\n(b)invite the registered allied health professional to submit any further written observations or other evidence which he or she may wish to offer as to his or her own fitness to practise."
+   }
+  },
+  {
+   "id": "SG-H183-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 4 HEALTH COMMITTEES"
+   },
+   "heading": {
+    "en": "Notice of inquiry by Health Committee"
+   },
+   "text": {
+    "en": "29.—(1) If the registered allied health professional does not agree to submit to a medical examination in response to an invitation sent under regulation 26(1)(a), the Health Committee must, as soon as practicable, send to the registered allied health professional a notice —\n(a)indicating the physical or mental condition by reason of which it is alleged that his or her fitness to practise is impaired;\n(b)stating the date, time and place at which the inquiry will be held; and\n(c)inviting the registered allied health professional to state whether he or she proposes to attend the inquiry, and inform him or her that he or she may be represented by counsel and may be accompanied by his or her medical adviser.\n(2) The notice mentioned in paragraph (1) must be sent —\n(a)by delivering it to the registered allied health professional, an adult member of his or her family, or an employee of his or her family or of his or her practice, at the registered allied health professional’s last known address; or\n(b)by registered post, addressed to the registered allied health professional at his or her last known address.\n(3) Except with the agreement of the registered allied health professional, no case is to be heard by the Health Committee at any date earlier than 28 days after the date of the notice mentioned in paragraph (1).\n(4) The notice mentioned in paragraph (1) must be accompanied by copies of any report, written statement and other document before the Health Committee which have not already been sent to the registered allied health professional."
+   }
+  },
+  {
+   "id": "SG-H183-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 4 HEALTH COMMITTEES"
+   },
+   "heading": {
+    "en": "Attendance at inquiry"
+   },
+   "text": {
+    "en": "30. Where neither the registered allied health professional nor his or her counsel is present, the Health Committee may proceed with the inquiry if the Health Committee is satisfied that regulation 29 has been complied with."
+   }
+  },
+  {
+   "id": "SG-H183-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 4 HEALTH COMMITTEES"
+   },
+   "heading": {
+    "en": "Application of certain regulations to Health Committee"
+   },
+   "text": {
+    "en": "31.—(1) Where —\n(a)the Chairperson of the Complaints Panel appointed under section 38(1)(a) of the Act has referred any complaint or information to a Health Committee under section 41(2)(a) of the Act;\n(b)a Complaints Committee has ordered that any inquiry be held by a Health Committee under section 49(2)(a) of the Act; or\n(c)a Disciplinary Tribunal has referred a question to a Health Committee under section 52(1) of the Act,\nsubject to paragraph (2), regulations 5, 7, 8, 9, 11(4) to (8), 20 and 21 apply, with the necessary modifications, to the Health Committee.\n(2) For the purposes of any proceedings before a Health Committee, a reference to a Disciplinary Tribunal in regulations 5, 7, 9, 11(4) to (8) and 21 is to be read as a reference to a Health Committee."
+   }
+  },
+  {
+   "id": "SG-H183-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 4 HEALTH COMMITTEES"
+   },
+   "heading": {
+    "en": "Determination of Health Committee"
+   },
+   "text": {
+    "en": "32.—(1) At the conclusion of the proceedings, the Health Committee must consider and determine whether or not it is of the view that the registered allied health professional’s fitness to practise is impaired by reason of his or her physical or mental condition.\n(2) In reaching its judgment, the Health Committee is entitled to consider —\n(a)the registered allied health professional’s current physical or mental condition;\n(b)any continuing and episodic condition which the registered allied health professional may have or suffer from; and\n(c)a condition which the registered allied health professional used to have or suffer from and which, although currently in remission, may be expected to recur."
+   }
+  },
+  {
+   "id": "SG-H183-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 4 HEALTH COMMITTEES"
+   },
+   "heading": {
+    "en": "Announcement of determination"
+   },
+   "text": {
+    "en": "33.—(1) The Health Committee must notify the Registrar of any order made under section 58 of the Act and the Registrar must serve on the registered allied health professional a notice in accordance with section 58(9) of the Act.\n(2) The chairperson of the Health Committee may announce the determination of the Health Committee under regulation 32 in the terms that the Health Committee may approve."
+   }
+  },
+  {
+   "id": "SG-H183-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 4 HEALTH COMMITTEES"
+   },
+   "heading": {
+    "en": "Resumed hearing"
+   },
+   "text": {
+    "en": "34.—(1) If, in any case where a Health Committee has adjourned the case or postponed its finding, it appears to the chairperson of the Health Committee that the Health Committee should resume consideration of the case, the chairperson of the Health Committee must notify the registered allied health professional of the date, time and place where the Health Committee will meet to resume its consideration of the case.\n(2) Without limiting paragraph (1), where a Health Committee has imposed any condition or restriction under section 58(1)(c), (4) or (5)(b) of the Act and information is subsequently received that the registered allied health professional is in a material respect not complying with the condition or restriction —\n(a)the Health Committee may meet to consider the case; and\n(b)the chairperson of the Health Committee must notify the Council’s solicitor and the registered allied health professional of the date, time and place of the meeting.\n(3) Regulations 30 to 33 apply, with the necessary modifications, to any meeting under paragraph (1) or (2).\n(4) Before any meeting under paragraph (1) or (2), the chairperson of the Health Committee may invite the registered allied health professional to submit to a further medical examination in the manner provided in regulation 26 with any modifications that the Health Committee thinks fit."
+   }
+  },
+  {
+   "id": "SG-H183-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 5 PROCEEDINGS OF INTERIM ORDERS COMMITTEES"
+   },
+   "heading": {
+    "en": "Definitions of this Part"
+   },
+   "text": {
+    "en": "35. In this Part —\n“initial hearing” means the first hearing by an Interim Orders Committee after a case has been referred to the Interim Orders Committee, including any such hearing that has been adjourned;\n“review hearing” means a hearing of an Interim Orders Committee that is held in accordance with section 62 of the Act."
+   }
+  },
+  {
+   "id": "SG-H183-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 5 PROCEEDINGS OF INTERIM ORDERS COMMITTEES"
+   },
+   "heading": {
+    "en": "Notice of interim hearing"
+   },
+   "text": {
+    "en": "36.—(1) Where any complaint or information regarding any registered allied health professional has been referred to an Interim Orders Committee under section 60(3) of the Act, the Council’s solicitor must send a notice as set out in Form 2 of the First Schedule to the registered allied health professional —\n(a)informing him or her of the referral;\n(b)providing a brief statement of the matters which appear to raise the issue whether —\n(i)his or her registration should be suspended or made subject to conditions; and\n(ii)this action is necessary for the protection of members of the public or is otherwise in the public interest or in his or her interest, pending the conclusion of the proceedings against him or her in accordance with section 66(2) of the Act;\n(c)stating the date, time and place at which the Interim Orders Committee is to hold a hearing of the case;\n(d)inviting him or her to —\n(i)submit his or her observations on the case (if any) in writing; and\n(ii)state whether he or she proposes to attend the hearing; and\n(e)informing him or her that he or she may be represented or accompanied at the hearing by his or her counsel.\n(2) A hearing must not be held earlier than 14 days after the date of the notice mentioned in paragraph (1), except with the agreement of the registered allied health professional or in an urgent case."
+   }
+  },
+  {
+   "id": "SG-H183-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 5 PROCEEDINGS OF INTERIM ORDERS COMMITTEES"
+   },
+   "heading": {
+    "en": "Initial hearing"
+   },
+   "text": {
+    "en": "37.—(1) Before the date of an initial hearing (other than any such hearing that has been adjourned), the Council must make available to each member of the Interim Orders Committee concerned —\n(a)a copy of the notice mentioned in regulation 36(1);\n(b)all the documents that have been produced in connection with the case; and\n(c)any written observation submitted by or on behalf of the registered allied health professional pursuant to the notice.\n(2) The Council must make available to the registered allied health professional all the documents that have been made available to the Interim Orders Committee under paragraph (1)(b).\n(3) Subject to paragraph (4), the Interim Orders Committee may receive oral, documentary or other evidence of any fact or matter which appears to it to be relevant to its inquiry.\n(4) A person must not give oral evidence at the hearing unless the Interim Orders Committee considers that such evidence is necessary to enable it to perform its duty or discharge its functions.\n(5) The Interim Orders Committee may, at any stage in its proceedings, allow a party to produce any written evidence at the hearing, if —\n(a)the registered allied health professional consents; or\n(b)after consultation with the legal assessor, the Interim Orders Committee is satisfied that the reception of the evidence is desirable to enable the Interim Orders Committee to perform its duty or discharge its functions.\n(6) Where the Interim Orders Committee has allowed any party to produce any written evidence at the hearing, a copy of the evidence must be given to each of the following:\n(a)the registered allied health professional;\n(b)the Council’s solicitor;\n(c)the Interim Orders Committee.\n(7) At the hearing, the Interim Orders Committee may invite the Council’s solicitor to address it as to whether an order under section 61 of the Act should be made, and the registered allied health professional or his or her counsel is to be given the opportunity to speak last.\n(8) Subject to paragraph (7), the procedure at the hearing is as the Interim Orders Committee may determine.\n(9) At the hearing, the Council’s solicitor and the registered allied health professional or his or her counsel may, subject to paragraph (4), call witnesses and may put questions to any person called as a witness.\n(10) Members of the Interim Orders Committee may put questions to any person called as a witness."
+   }
+  },
+  {
+   "id": "SG-H183-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 5 PROCEEDINGS OF INTERIM ORDERS COMMITTEES"
+   },
+   "heading": {
+    "en": "Review hearing"
+   },
+   "text": {
+    "en": "38.—(1) Before a review hearing (other than any such hearing that has been adjourned), the Council must make available to the Interim Orders Committee concerned —\n(a)a copy of the order which is to be reviewed and the reasons for the making of the order; and\n(b)all the documents that have been produced to an Interim Orders Committee in connection with the case at the initial hearing and all the documents that have been produced to an Interim Orders Committee in connection with the case since the order was made.\n(2) The Council must make available to the registered allied health professional all the documents that have been made available to the Interim Orders Committee under paragraph (1)(b).\n(3) Regulation 37(4), (5) and (6) applies to a review hearing as it applies to an initial hearing.\n(4) Subject to section 64 of the Act, an order mentioned in section 61 of the Act may, with the prior written consent of the registered allied health professional, be reviewed without convening a hearing."
+   }
+  },
+  {
+   "id": "SG-H183-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 5 PROCEEDINGS OF INTERIM ORDERS COMMITTEES"
+   },
+   "heading": {
+    "en": "Application of certain regulations to Interim Orders Committee"
+   },
+   "text": {
+    "en": "39.—(1) Subject to paragraph (2), regulations 5, 7, 8, 9 and 20 apply, with the necessary modifications, in relation to an Interim Orders Committee as they apply in relation to a Disciplinary Tribunal.\n(2) For the purposes of paragraph (1) —\n(a)the period of 21 days before the date fixed for the commencement of an inquiry mentioned in regulation 5(2); and\n(b)the period of 10 days before the date mentioned in regulation 7(1),\nmust each be substituted with the period of 7 days before the date fixed for the hearing by the Interim Orders Committee."
+   }
+  },
+  {
+   "id": "SG-H183-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 5 PROCEEDINGS OF INTERIM ORDERS COMMITTEES"
+   },
+   "heading": {
+    "en": "Decision of Interim Orders Committee"
+   },
+   "text": {
+    "en": "40.—(1) An Interim Orders Committee must give its decision and brief reasons for the decision orally at the end of a hearing or, where an order mentioned in section 61 of the Act has been reviewed without convening a hearing pursuant to regulation 38(4), at the conclusion of the review by the Interim Orders Committee.\n(2) The Interim Orders Committee must notify the registered allied health professional of his or her right to apply to the General Division of the High Court under section 65(3) of the Act."
+   }
+  },
+  {
+   "id": "SG-H183-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 5 PROCEEDINGS OF INTERIM ORDERS COMMITTEES"
+   },
+   "heading": {
+    "en": "Concurrent proceedings"
+   },
+   "text": {
+    "en": "41.—(1) The proceedings of an Interim Orders Committee in relation to a matter are to proceed concurrently with any proceedings of a Complaints Committee, Disciplinary Tribunal or Health Committee in relation to that matter.\n(2) Any application to the General Division of the High Court under section 65 of the Act in relation to a matter is to proceed concurrently with any proceedings of a Complaints Committee, Disciplinary Tribunal or Health Committee in relation to that matter."
+   }
+  },
+  {
+   "id": "SG-H183-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 6 RESTORATION OF NAME TO REGISTERUNDER PART 5 OF ACT"
+   },
+   "heading": {
+    "en": "Application for restoration"
+   },
+   "text": {
+    "en": "42.—(1) An application for the restoration of any name to a register under Part 5 of the Act must —\n(a)be made in writing, addressed to the Registrar of the Council, and signed by the applicant;\n(b)state the grounds on which the application is made;\n(c)be accompanied by any other information, statements or documents required by the Council; and\n(d)be accompanied by the fee specified in the Second Schedule.\n(2) Without limiting paragraph (1)(c), the Council may require the applicant to furnish proof that he or she has adequate clinical knowledge and skills to practise as a registered allied health professional in his or her prescribed profession and for that purpose may require the applicant —\n(a)to undergo and pass an assessment conducted or arranged by the Council or by any other person or persons that the Council may appoint; and\n(b)to attend the courses of instruction that the Council may determine.\n(3) In addition to the requirements in paragraph (1), an application under section 56 of the Act (for the restoration of a name removed from a register pursuant to an order made by the Disciplinary Tribunal) must be accompanied by —\n(a)a statutory declaration as set out in Form 3 of the First Schedule; and\n(b)at least 2 certificates of the applicant’s identity and good character as set out in Form 4 of the First Schedule, each signed by a different registered allied health professional of at least 10 years’ standing and who is not a related person.\n(4) In addition to the requirements in paragraph (1), an application under section 59 of the Act (for the restoration of a name removed from a register on the recommendation of a Health Committee) must be supported by medical reports given by 2 registered medical practitioners certifying that the applicant is fit to practise.\n(5) The Council may, if it thinks fit in any case or class of cases, dispense with any requirement or requirements in paragraphs (1) and (2).\n(6) The Council may, if it thinks fit, require further evidence or information from an applicant under this regulation.\n(7) In paragraph (3)(b), “related person” means the applicant’s spouse, parent, sibling or child."
+   }
+  },
+  {
+   "id": "SG-H183-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 6 RESTORATION OF NAME TO REGISTERUNDER PART 5 OF ACT"
+   },
+   "heading": {
+    "en": "Consideration by Council"
+   },
+   "text": {
+    "en": "43.—(1) On receipt of an application mentioned in regulation 42, the Registrar must refer it to the Council for consideration.\n(2) Except with the permission of the Council, the applicant must not appear before the Council on the consideration of the application.\n(3) The Council must consider the application in private and may, if it thinks fit, adjourn the consideration to a future date or require the applicant to be examined by a registered allied health professional in the same allied health profession as the applicant or a registered medical practitioner, or both, to be appointed by the Council.\n(4) If the Council directs the restoration of the applicant’s name to the register, the Registrar must send notice of the restoration to the authorities or persons (if any) to whom he or she has previously given notice of removal."
+   }
+  },
+  {
+   "id": "SG-H183-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL"
+   },
+   "heading": {
+    "en": "Duty of legal assessor"
+   },
+   "text": {
+    "en": "44.—(1) Where a legal assessor has been invited to be present at any proceedings before, or during any deliberations of, the Council, a Complaints Committee, a Disciplinary Tribunal, a Health Committee or an Interim Orders Committee (collectively or individually called in this regulation the Committee), he or she must —\n(a)attend those proceedings or deliberations as an observer;\n(b)advise the Committee on any question of law arising in those proceedings or deliberations; and\n(c)assist the Committee with the drafting, but not participate in or influence the making by the Committee, of any decision of the Committee.\n(2) Without limiting paragraph (1), the legal assessor must, in any proceedings before, or during any deliberations of, the Committee —\n(a)advise the Committee on any question of law that is referred to him or her by the Committee;\n(b)intervene to advise the Committee on an issue of law where it appears to him or her that, without his or her intervention, there is the possibility of a mistake of law being made; and\n(c)intervene to advise the Committee of any irregularity in the conduct of the proceedings or in the deliberations which comes to his or her knowledge.\n(3) Subject to paragraph (4), where a legal assessor tenders any advice to the Committee in any proceedings before the Committee, the advice must be tendered in the presence of every party or representative of a party who is present at the proceedings.\n(4) Paragraph (3) does not apply if —\n(a)the advice is tendered during any deliberations of the Committee; or\n(b)the Committee considers that it would be prejudicial to the performance of its duty or the discharge of its functions for the advice to be tendered in the presence of the parties or their representatives."
+   }
+  },
+  {
+   "id": "SG-H183-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 7 GENERAL"
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "45.—(1) The fees specified in the Second Schedule are payable to the Council.\n(2) The Council may, subject to any conditions that it may direct, exempt any person or class of persons from all or any of the fees payable under these Regulations.\n(3) The Council may remit or refund, in whole or in part, any fee payable under these Regulations in any particular case or class of cases."
+   }
+  },
+  {
+   "id": "SG-H183-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nFORM 1\nRegulation 4(1)\nALLIED HEALTH PROFESSIONS ACT 2011\nALLIED HEALTH PROFESSIONS\n(PROFESSIONAL CONDUCT AND DISCIPLINE)\nREGULATIONS 2013\nNOTICE OF INQUIRY BY DISCIPLINARY TRIBUNAL\nDate: _____________\nDear Sir/Madam,\nNotice is given to you that in consequence of (a complaint made against you to the Allied Health Professions Council) (information received by the Allied Health Professions Council), an inquiry is to be held by the Disciplinary Tribunal into the following charge (charges) against you:\n(If the charge relates to conviction) That you were on (state day and date) at (specify court recording the conviction) convicted of (set out the particulars of the conviction in sufficient detail to identify the case), which is an offence (involving fraud or dishonesty) or (implying a defect in character which makes you unfit for your profession).\n(If the charge relates to conduct, set out briefly the facts alleged) and that in relation to the facts alleged you have (been guilty of improper conduct which brings disrepute to your profession) (been guilty of professional misconduct) (failed to provide professional services of the quality which is reasonable to expect from you) (contravened or failed to comply with section 25 of the Allied Health Professions Act 2011).\n(Where there is more than one charge, the charges are to be numbered consecutively, charges relating to conviction being set out before charges relating to conduct).\nNotice is further given to you that on (state day and date), a meeting of the Disciplinary Tribunal/a pre‑inquiry conference will be held at (specify place) at (specify time) to consider the abovementioned charge (charges) against you.\nYou are invited to answer in writing the abovementioned charge (charges) and also to appear before the Disciplinary Tribunal at the place and time specified above, for the purpose of answering it (them). You may appear in person or by counsel. The Disciplinary Tribunal has power, if you do not appear, to hear and decide upon the said charge (charges) in your absence. The Disciplinary Tribunal also has powers to proceed with and complete the inquiry in any manner which it thinks fit if a warning against hampering the progress of an inquiry is disregarded, and to order costs to be paid by you under section 53(5) of the Allied Health Professions Act 2011.\nIf you intend to raise any defence at the inquiry, you or your counsel must, at least 10 days before the date fixed for the commencement of the inquiry, send to the Council’s solicitor the report of any expert witness whom you or your counsel intend to call at the inquiry. You are also requested to co‑operate with the Council’s solicitor to prepare an agreed statement of facts, an agreed bundle of documents or exhibits to be used at the inquiry and lists of witnesses to be called at the inquiry.\nIf you desire to make any application that the inquiry be postponed, you must send a written application to the executive secretary of the Council at least 21 days before the date fixed for commencement of the inquiry, stating good reasons for the postponement.\nYours faithfully,\n(Signed)\nCouncil’s solicitor.\nFORM 2\nRegulation 36(1)\nALLIED HEALTH PROFESSIONS ACT 2011\nALLIED HEALTH PROFESSIONS\n(PROFESSIONAL CONDUCT AND DISCIPLINE)\nREGULATIONS 2013\nNOTICE OF INQUIRY BY INTERIM ORDERS COMMITTEE\nDate: __________________\nDear Sir/Madam,\nNotice is given to you that a hearing is to be held by an Interim Orders Committee to determine whether, pending the conclusion of the inquiry or proceedings under Part 5 of the Allied Health Professions Act 2011 —\n(a)your registration should be suspended or made subject to conditions; and\n(b)this action is necessary for the protection of members of the public or is otherwise in the public interest or in your interest or both,\narising from the facts and circumstances set out below.\nThe facts and circumstances are:\n(state the matters giving rise to an interim inquiry by the Interim Orders Committee)\nThe hearing will be held on (specify date) at (specify place) at (specify time).\nYou are invited to submit observations on the case in writing and also to appear before the Interim Orders Committee at the place, date, and time specified above, for the purpose of making submissions on the case. You may appear in person or by counsel. Please inform the executive secretary of the Council, at least 7 days before that date, whether you will be appearing, and if so whether in person or by counsel.\nIf you intend to raise any defence at the hearing, you or your counsel must, at least 7 days before the date fixed for the hearing, send to the Council’s solicitor the report of any expert witness whom you or your counsel intend to call at the interim inquiry. You are also requested to co‑operate with the Council’s solicitor to prepare an agreed statement of facts, an agreed bundle of documents or exhibits to be used at the hearing.\nIf you desire to make any application that the hearing be postponed, you must send a written application to the executive secretary of the Council at least 7 days before the date fixed for commencement of the hearing, stating good reasons for the postponement.\nYours faithfully,\n(Signed)\nCouncil’s solicitor.\nFORM 3\nRegulation 42(3)(a)\nALLIED HEALTH PROFESSIONS ACT 2011\nALLIED HEALTH PROFESSIONS\n(PROFESSIONAL CONDUCT AND DISCIPLINE)\nREGULATIONS 2013\nSTATUTORY DECLARATION FOR RESTORATION\nTO REGISTER UNDER SECTION 56 OF ACT\nI, of do solemnly and sincerely declare as follows:\n1. I am the person originally registered as with the qualification or status of …………………………………………… and I apply for the restoration of my name to the\n2. To the best of my knowledge, I am not suffering from, and have never suffered from, any physical or mental condition which impairs my fitness to practise in my profession, and I am not undergoing and have not undergone any treatment for such condition except for\n3. On the …………… day of …………… (month) …………… (year), the Disciplinary Tribunal ordered my name to be removed from the under section 53 or 54 of the Allied Health Professions Act 2011, and the offence for which the Disciplinary Tribunal ordered the removal of my name was …………………………………………\n4. Since the removal of my name from the I have been residing at ………………………………….……………. and my occupation has been …………………………………………………………\n5. The grounds of my application are in the attached statement, and I make this solemn declaration by virtue of the Oaths and Declarations Act 2000, and subject to the penalties provided by that Act for making false statements in statutory declarations, conscientiously believing the statements contained in this declaration to be true in every particular.\nSigned …….…………………………\nDeclared at …………. on …………… 20 ………\nBefore me\n…………………………………………\n(Signature and title of officer before\nwhom the declaration is made).\nFORM 4\nRegulation 42(3)(b)\nALLIED HEALTH PROFESSIONS ACT 2011\nALLIED HEALTH PROFESSIONS\n(PROFESSIONAL CONDUCT AND DISCIPLINE)\nREGULATIONS 2013\nCERTIFICATE OF IDENTITY AND GOOD CHARACTER\nI, of certify as follows:\n1.I am a registered …………… of ……………. years’ standing.\n12.I am not the spouse, parent, sibling or child of …………………\n3.I have read the statutory declaration of ………………………… made on the ……. day of ………… (month) …………. (year).\n14.The said ………………………………………………… is the same person as …………………………………………… whose name formerly stood in the ………………………………………………. (relevant register of the Allied Health Professions Act 2011) with the following qualifications or status ……………………………………………\n15.I have been and am well acquainted with the said ………………………… both before and since his or her name was removed from the register, and I believe him or her to be a person of good character, and the statements in the said declaration are to the best of my knowledge, information and belief true.\nSigned ………………………\nDate ………………………...\n1 Enter name of person applying for restoration to register under section 56 of the Allied Health Professions Act 2011."
+   }
+  },
+  {
+   "id": "SG-H183-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulations 20, 42(1)(d) and 45(1)\nFees\nFirst column\nSecond column\n1.Transcript of inquiry and copies of documents tendered at inquiry under regulation 20\n$15 per page\n2.Application under regulation 42 for restoration of name to any register\n$400."
+   }
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "id": "PH-H397",
+ "title": {
+  "zh": "经费拨款法",
+  "en": "An Act Appropriating the Sum of Four Hundred Thousand Pesos for the Maintenance of the Pili Agricultural School, Camarines Sur, the Guinobatan Rural High School, Albay, Sta. Maria Agricultural School, Ilocos Sur, Lombatan Agricultural School, Lanao, Upi Agricultural School, Cotabato, Indang Rural High School, Cavite, and the San Carlos Rural High School, Pangasinan",
+  "orig": "An Act Appropriating the Sum of Four Hundred Thousand Pesos for the Maintenance of the Pili Agricultural School, Camarines Sur, the Guinobatan Rural High School, Albay, Sta. Maria Agricultural School, Ilocos Sur, Lombatan Agricultural School, Lanao, Upi Agricultural School, Cotabato, Indang Rural High School, Cavite, and the San Carlos Rural High School, Pangasinan"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p05",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1948-06-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 303",
+ "officialCode": null,
+ "topics": [
+  "education",
+  "environment"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 868,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1948/ra_303_1948.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1948/ra_303_1948.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H397-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The sum of four hundred thousand pesos, or so much thereof as may be necessary, is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, for the maintenance of the Pili Agricultural School in the Province of Camarines Sur, the Guinobatan Rural High School in the Province of Albay, Sta. Maria Agricultural School, Ilocos Sur, Lombatan Agricultural School, Lanao, Upi Agricultural School, Cotabato, Indang Rural High School, Cavite, and the San Carlos Rural High School in the Province of Pangasinan, said sum to be expended by the Director of Public Schools with the approval of the Secretary of Education, for the fiscal year ending June thirtieth, nineteen hundred and forty-nine. Thereafter said sum shall be included in the Annual General Appropriation Acts."
+   }
+  },
+  {
+   "id": "PH-H397-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1948."
+   }
+  }
+ ]
+}

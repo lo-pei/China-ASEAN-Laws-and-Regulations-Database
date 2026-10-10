@@ -1,0 +1,74 @@
+{
+ "id": "PH-H1396",
+ "title": {
+  "zh": null,
+  "en": "An Act Converting the Iligan City High School in the City of Iligan to a National Technical School, and Authorizing the Appropriation of Funds Therefor",
+  "orig": "An Act Converting the Iligan City High School in the City of Iligan to a National Technical School, and Authorizing the Appropriation of Funds Therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p19",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1956-06-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1562",
+ "officialCode": null,
+ "topics": [
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 633,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1956/ra_1562_1956.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1956/ra_1562_1956.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1396-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The Iligan City High School located in the City of Iligan is hereby converted to a national technical school. The Secretary of Education is hereby empowered to reorganize said school accordingly."
+   }
+  },
+  {
+   "id": "PH-H1396-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The sum of two hundred thousand pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of said school during the school year nineteen hundred fifty-five to nineteen hundred fifty-six. The necessary funds for the purpose shall be included in the annual General Appropriations Act."
+   }
+  },
+  {
+   "id": "PH-H1396-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956."
+   }
+  }
+ ]
+}

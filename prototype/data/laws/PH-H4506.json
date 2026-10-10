@@ -1,0 +1,64 @@
+{
+ "id": "PH-H4506",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Sections Ten and Thirteen of Republic Act Numbered Forty-Five Hundred Seventy-Two",
+  "orig": "An Act Amending Sections Ten and Thirteen of Republic Act Numbered Forty-Five Hundred Seventy-Two"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p64",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1969-06-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 5709",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1640,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1969/ra_5709_1969.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1969/ra_5709_1969.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4506-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Sections ten and thirteen of Republic Act Numbered Forty-five hundred seventy-two, entitled \"An Act converting the Leyte Regional School of Arts and Trades into the Leyte Institute of Technology giving \"It corporate existence, providing for a Board of Trustees, defining the Board's responsibilities and duties, providing higher vocational, professional, educational and technical instruction and training in trade and industrial education, offering of technological, engineering, education and other professional courses, and for other purposes\" are hereby amended to read as follows:\n\"Section 10. There shall be a Registrar who shall keep records of the Institute and perform such other duties as may be designated by the President of the Institute. There shall be one secretary of the Institute who shall act as Seceretary of the Board of Trustees and keep records of the proceedings of Board meetings as well as perform such other functions as may be designated by the Board.\n\"Section 13. The compensation per annum of the following shall be fixed by law: President-twenty thousand pesos: Registrar-seven thousand two hundred pesos; one Secretary-four thousand two hundred pesos; Dean of Instruction-ten thousand eight hundred pesos; Dean of College-ten thousand eight hundred pesos; Lecturers- thirty pesos an hour; Heads of Departments-ten thousand pesos; Professors-nine thousand six hundred pesos; Associate Professors-eight thousand four hundred pesos; Instructors-four thousand two hundred pesos to eight thousand four hundred pesos.\""
+   }
+  },
+  {
+   "id": "PH-H4506-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, June 21, 1969."
+   }
+  }
+ ]
+}

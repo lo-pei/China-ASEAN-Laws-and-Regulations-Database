@@ -1,0 +1,251 @@
+{
+ "id": "SG-H650",
+ "title": {
+  "zh": null,
+  "en": "Civil List and Gratuity Act 1970",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p08",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act CLGA1970",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 14,
+ "chars": 4065,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/CLGA1970?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 14 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 3 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H650-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Civil List and Gratuity Act 1970.\n[20/2012]"
+   }
+  },
+  {
+   "id": "SG-H650-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 CIVIL LIST"
+   },
+   "heading": {
+    "en": "Civil list of President"
+   },
+   "text": {
+    "en": "2.—(1) There shall be paid for the civil list of the President so long as he holds office the yearly sums specified in the Schedule.\n(2) Payments in respect of the amounts for the privy purse and entertainment allowance specified in Class 1 of the Schedule shall be made to the President.\n(3) Payments of the acting President’s allowance specified in Class 1 of the Schedule shall be made to the person exercising the functions of the office of President pursuant to Article 22N or 22O of the Constitution.\n(4) Payments in respect of the amounts specified in Classes 2, 3 and 4 of the Schedule shall be made by or on the instructions of the Private Secretary to the President in accordance with any written law governing the disbursement of public funds.\n(5) No payment in respect of the amounts specified in Class 1 of the Schedule shall be made in respect of any period during which the office of the President is vacant."
+   }
+  },
+  {
+   "id": "SG-H650-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 CIVIL LIST"
+   },
+   "heading": {
+    "en": "Charge on Consolidated Fund"
+   },
+   "text": {
+    "en": "3. The sums required for payments under section 2 shall be charged on and paid out of the Consolidated Fund."
+   }
+  },
+  {
+   "id": "SG-H650-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 CIVIL LIST"
+   },
+   "heading": {
+    "en": "Payment"
+   },
+   "text": {
+    "en": "4. The yearly sums payable under Class 1 of the Schedule shall —\n(a)accrue from day to day; and\n(b)be payable monthly on the last day of each month or on such other day as the Minister may from time to time determine."
+   }
+  },
+  {
+   "id": "SG-H650-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 1 CIVIL LIST"
+   },
+   "heading": {
+    "en": "Appropriation"
+   },
+   "text": {
+    "en": "5.—(1) In the application of the sums paid in respect of any year under section 2, the amounts specified in the Schedule shall be appropriated to the classes of expenditure specified therein respectively in that year.\n(2) If it appears that the sum appropriated to any class of expenditure in any year will not be wholly required for the expenditure of that class in that year, the amount not so required may, with the approval of the Minister, be applied as an addition to the sum available for any other class.\n(3) The sums to be expended by or on the instructions of the Private Secretary to the President in respect of Classes 2, 3 and 4 of the Schedule for any year shall be expended in that year by the Private Secretary to the President in conformity with the detailed estimates for that year submitted by him to, and approved by, the Minister."
+   }
+  },
+  {
+   "id": "SG-H650-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 1 CIVIL LIST"
+   },
+   "heading": {
+    "en": "Change of holder of office"
+   },
+   "text": {
+    "en": "6. In the event of there being a change of holder of the office of President, there shall be made such adjustments and distribution of the annual payment due under section 2 in respect of the amounts specified for Class 1 of the Schedule as the circumstances of the case may require."
+   }
+  },
+  {
+   "id": "SG-H650-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 1 CIVIL LIST"
+   },
+   "heading": {
+    "en": "Variation of Schedule"
+   },
+   "text": {
+    "en": "7. Parliament may, from time to time, by resolution vary the Schedule."
+   }
+  },
+  {
+   "id": "SG-H650-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 GRATUITY"
+   },
+   "text": {
+    "en": "8. [Repealed by Act 20 of 2012]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H650-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 GRATUITY"
+   },
+   "text": {
+    "en": "9. [Repealed by Act 20 of 2012]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H650-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 GRATUITY"
+   },
+   "heading": {
+    "en": "Gratuity on death"
+   },
+   "text": {
+    "en": "10. Where, after 1 July 1970, the President or a former President dies, there may be paid to his dependants or, if there are no dependants, to his legal personal representative a gratuity of such amount as Parliament may by resolution determine."
+   }
+  },
+  {
+   "id": "SG-H650-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 GRATUITY"
+   },
+   "text": {
+    "en": "11. [Repealed by Act 20 of 2012]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H650-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 GRATUITY"
+   },
+   "heading": {
+    "en": "Gratuity not to be assignable"
+   },
+   "text": {
+    "en": "12. A gratuity granted under this Act shall not be —\n(a)assignable or transferable except for the purpose of satisfying —\n(i)a debt due to the Government; or\n(ii)an order of any court for the payment of periodical sums of money towards the maintenance of the wife, or former wife or minor child of the former President to whom the gratuity has been granted; and\n(b)attached, sequestered or levied upon for or in respect of any debt or claim whatever except a debt due to the Government.\n[20/2012]"
+   }
+  },
+  {
+   "id": "SG-H650-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 GRATUITY"
+   },
+   "heading": {
+    "en": "Gratuities to be paid out of Pension Fund"
+   },
+   "text": {
+    "en": "13. There shall be charged on and paid out of the Pension Fund established by the Pension Fund Act 1995 all such sums of money as may, from time to time, be granted by way of gratuity in accordance with this Act.\n[20/2012]"
+   }
+  },
+  {
+   "id": "SG-H650-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nSections 2, 4, 5(1) and (3), 6 and 7\nSums payable\nClass 1\n(a)The privy purse\n$1,568,900\n(b)Entertainment allowance\n$73,000\n(c)Acting President’s allowance\n$4,500\nClass 2\nSalaries of personal staff\n$7,318,000\nClass 3\nExpenses of household\n$4,542,000\nClass 4\nSpecial services\n$1,288,000\n[S 130/2026 wef 06/03/2026]\n[S 126/2023 wef 06/03/2023]\n[S 772/2004; S 52/2005; S 185/2005; S 36/2006; S 183/2006; S 43/2007; S 37/2008; S 175/2008; S 139/2009; S 203/2010; S 177/2011; S 137/2012]"
+   }
+  }
+ ]
+}

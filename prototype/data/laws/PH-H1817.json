@@ -1,0 +1,64 @@
+{
+ "id": "PH-H1817",
+ "title": {
+  "zh": "经费拨款法",
+  "en": "An Act Appropriating the Amount of Two Million Four Hundred Forty-Eight Thousand Three Hundred Forty-Four Pesos as Additional Funds for the Operation of the Bureau of Prisons During the Period from July First, Nineteen Hundred and Fifty-Eight to June Thirtieth, Nineteen Hundred and Fifty-Nine",
+  "orig": "An Act Appropriating the Amount of Two Million Four Hundred Forty-Eight Thousand Three Hundred Forty-Four Pesos as Additional Funds for the Operation of the Bureau of Prisons During the Period from July First, Nineteen Hundred and Fifty-Eight to June Thirtieth, Nineteen Hundred and Fifty-Nine"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p25",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1958-06-13",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2078",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1362,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1958/ra_2078_1958.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1958/ra_2078_1958.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1817-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The following sums are hereby appropriated out of any funds in the National Treasury not otherwise appropriated as additional appropriation for the operation of the Bureau of Prisons during the period from July 1, 1958 to June 30, 1959:\nGENERAL FUND\nI. - PERSONAL SERVICES 1 One hundred fifty guards at ₱1,716 ₱257.400.00 2 Two medical officers at ₱4,632 9,264.00 3 Three penal psychiatrists at ₱4,632 13,896.00 4 Five guidance-counselors at ₱3,108 15,540.00 5 One radiologist :\n4,632.00 6 Six nurses at ₱2.304 13,824.00 7 Five penal institutions teachers at ₱2,196 10,980.00 8 Seven clerks I at ₱1,800 12,600.00 9 Six nursing attendants at ₱1,548 9,288.00 Total for personal services ₱347,424.00 =========== II.- MAINTENANCE AND OTHER OPERATING EXPENSES 1 Supplies and materials ₱2,000,920.00 2 Sundry expenses 68,000.00 Total for maintenance and other operating expenses ₱2,068,920.00 =========== III.- FURNITURE AND EQUIPMENT 1 Equipment outlay ₱32.000.00 Total for furniture and equipment ₱32,000.00 ========= IV.- SUMMARY Total for personal services ₱347,424.00 Total for maintenance and other operating expenses 2,068,920.00 Total for furniture and equipment 32,000.00 Total additional appropriation for current operating expenditures for the Bureau of Prisons ₱2,448,344.00 ==========="
+   }
+  },
+  {
+   "id": "PH-H1817-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 13, 1958."
+   }
+  }
+ ]
+}

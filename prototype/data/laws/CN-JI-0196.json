@@ -1,0 +1,120 @@
+{
+ "id": "CN-JI-0196",
+ "title": {
+  "zh": "最高人民法院关于内地与香港特别行政区相互执行仲裁裁决的补充安排",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p08",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2020-11-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "最高人民法院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ITEM",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 469,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于内地与香港特别行政区相互执行仲裁裁决的补充安排_20201126.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，一、至五、，共 5 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于内地与香港特别行政区相互执行仲裁裁决的补充安排_20201126.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0196-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "一、"
+   },
+   "text": {
+    "zh": "《安排》所指执行内地或者香港特别行政区仲裁裁决的程序，应解释为包括认可和执行内地或者香港特别行政区仲裁裁决的程序。"
+   }
+  },
+  {
+   "id": "CN-JI-0196-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "二、"
+   },
+   "text": {
+    "zh": "将《安排》序言及第一条修改为：“根据《中华人民共和国香港特别行政区基本法》第九十五条的规定，经最高人民法院与香港特别行政区（以下简称香港特区）政府协商，现就仲裁裁决的相互执行问题作出如下安排：\n“一、内地人民法院执行按香港特区《仲裁条例》作出的仲裁裁决，香港特区法院执行按《中华人民共和国仲裁法》作出的仲裁裁决，适用本安排。”"
+   }
+  },
+  {
+   "id": "CN-JI-0196-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "三、"
+   },
+   "text": {
+    "zh": "将《安排》第二条第三款修改为：“被申请人在内地和香港特区均有住所地或者可供执行财产的，申请人可以分别向两地法院申请执行。应对方法院要求，两地法院应当相互提供本方执行仲裁裁决的情况。两地法院执行财产的总额，不得超过裁决确定的数额。”"
+   }
+  },
+  {
+   "id": "CN-JI-0196-A4",
+   "no": 4,
+   "noLabel": {
+    "zh": "四、"
+   },
+   "text": {
+    "zh": "在《安排》第六条中增加一款作为第二款：“有关法院在受理执行仲裁裁决申请之前或者之后，可以依申请并按照执行地法律规定采取保全或者强制措施。”"
+   }
+  },
+  {
+   "id": "CN-JI-0196-A5",
+   "no": 5,
+   "noLabel": {
+    "zh": "五、"
+   },
+   "text": {
+    "zh": "本补充安排第一条、第四条自2020年11月27日起施行，第二条、第三条在香港特别行政区完成有关程序后，由最高人民法院公布施行日期。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于内地与香港特别行政区相互执行仲裁裁决的补充安排"
+  },
+  "issuingBody": {
+   "zh": "最高人民法院"
+  },
+  "promulgatedDate": "2020-11-09",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

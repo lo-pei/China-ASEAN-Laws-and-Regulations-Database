@@ -1,0 +1,1080 @@
+{
+ "id": "SG-H3153",
+ "title": {
+  "zh": null,
+  "en": "Mental Capacity Act 2008",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p40",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act MCA2008",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 66,
+ "chars": 141372,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/MCA2008?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 66 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 3 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3153-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Mental Capacity Act 2008."
+   }
+  },
+  {
+   "id": "SG-H3153-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2.—(1) In this Act, unless the context otherwise requires —\n“appropriate consent” has the meaning given by the Human Biomedical Research Act 2015;\n“clinical trial” means a clinical trial within the meaning of the Medicines Act 1975 or the Health Products Act 2007;\n“court” means the General Division of the High Court or a Family Court;\n“deputy” means a person appointed by the court under section 20(2)(b) to make decisions on behalf of another person (“P”) in relation to a matter or matters concerning all or any of the following in respect of which P lacks capacity:\n(a)P’s personal welfare;\n(b)P’s property and affairs;\n[Act 16 of 2021 wef 14/11/2022]\n“donee” means a person who is conferred authority by a donor (“P”) under a lasting power of attorney to make decisions about all or any of the following when P no longer has capacity to make such decisions:\n(a)P’s personal welfare, or matters concerning P’s personal welfare that are specified in the lasting power of attorney;\n(b)P’s property and affairs, or matters concerning P’s property and affairs that are specified in the lasting power of attorney;\n[Act 16 of 2021 wef 14/11/2022]\n“donor” means a person (“P”) who confers authority on a donee (or donees) under a lasting power of attorney to make decisions about all or any of the following when P no longer has capacity to make those decisions:\n(a)P’s personal welfare, or matters concerning P’s personal welfare that are specified in the lasting power of attorney;\n(b)P’s property and affairs, or matters concerning P’s property and affairs that are specified in the lasting power of attorney;\n[Act 16 of 2021 wef 14/11/2022]\n“electronic”, “electronic record”, “record”, “secure electronic signature”, “signed” and “signature” have the meanings given by section 2(1) of the Electronic Transactions Act 2010*;\n[Act 16 of 2021 wef 14/11/2022]\n“electronic instrument” means an electronic record that confers authority of the kind mentioned in section 11(1);\n[Act 16 of 2021 wef 14/11/2022]\n“electronic transaction system” means the electronic transaction system established by the Public Guardian under section 10B(1);\n[Act 16 of 2021 wef 14/11/2022]\n“lasting power of attorney” has the meaning given by section 11;\n“life-sustaining treatment”, in relation to a person, means treatment which, in the view of another person providing health care for that person, is necessary to sustain life;\n“non-electronic lasting power of attorney” means a lasting power of attorney that is created using non-electronic means;\n[Act 16 of 2021 wef 14/11/2022]\n“professional deputy” means a person —\n(a)who offers or provides the services of a deputy for remuneration; and\n(b)who is registered with the Public Guardian as a professional deputy;\n“professional donee” means a person —\n(a)who is a professional deputy or is within a class of persons prescribed as qualified to be a professional donee; and\n(b)who offers or provides the services of a donee for remuneration;\n“property” includes any thing in action and any interest in real or personal property;\n“Public Guardian” means the Public Guardian appointed under section 30(1) and, unless the context otherwise requires, includes any Assistant Public Guardian appointed under section 30(1A);\n“registered medical practitioner” means any person who is registered as a medical practitioner under the Medical Registration Act 1997;\n“Singapore public sector agency” has the meaning given by section 2(1) of the Public Sector (Governance) Act 2018;\n[Act 16 of 2021 wef 01/04/2023]\n“treatment” includes a diagnostic or other procedure;\n“will” includes codicil.\n[*Updated to be consistent with the 2020 Revised Edition]\n[27/2014; 29/2015; 10/2016; 40/2019]\n(2) In this Act, references to making decisions, in relation to a donee of a lasting power of attorney or a deputy appointed by the court, include, where appropriate, acting on decisions made.\n(3) For the purposes of this Act, a reference to an instrument that confers authority of the kind mentioned in section 11(1) includes an electronic instrument made in accordance with section 11(2)(b)(ii).\n[Act 16 of 2021 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3153-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 PERSONS WHO LACK CAPACITY"
+   },
+   "heading": {
+    "en": "Principles"
+   },
+   "text": {
+    "en": "3.—(1) The following principles apply for the purposes of this Act.\n(2) A person must be assumed to have capacity unless it is established that the person lacks capacity.\n(3) A person is not to be treated as unable to make a decision unless all practicable steps to help the person to do so have been taken without success.\n(4) A person is not to be treated as unable to make a decision merely because the person makes an unwise decision.\n(5) An act done, or a decision made, under this Act for or on behalf of a person who lacks capacity must be done, or made, in the person’s best interests.\n(6) Before the act is done, or the decision is made, regard must be had to whether the purpose for which it is needed can be as effectively achieved in a way that is less restrictive of the person’s rights and freedom of action."
+   }
+  },
+  {
+   "id": "SG-H3153-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 PERSONS WHO LACK CAPACITY"
+   },
+   "heading": {
+    "en": "Persons who lack capacity"
+   },
+   "text": {
+    "en": "4.—(1) For the purposes of this Act, a person lacks capacity in relation to a matter if at the material time the person is unable to make a decision for himself or herself in relation to the matter because of an impairment of, or a disturbance in the functioning of, the mind or brain.\n(2) It does not matter whether the impairment or disturbance is permanent or temporary.\n(3) A lack of capacity cannot be established merely by reference to —\n(a)a person’s age or appearance; or\n(b)a condition of the person, or an aspect of the person’s behaviour, which might lead others to make unjustified assumptions about the person’s capacity.\n(4) In proceedings under this Act (other than proceedings for offences under this Act), any question whether a person lacks capacity within the meaning of this Act must be decided on the balance of probabilities.\n(5) Subject to section 21, no power which a person (“D”) may exercise under this Act —\n(a)in relation to a person who lacks capacity; or\n(b)where D reasonably thinks that a person lacks capacity,\nis exercisable in relation to a person below 21 years of age."
+   }
+  },
+  {
+   "id": "SG-H3153-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 PERSONS WHO LACK CAPACITY"
+   },
+   "heading": {
+    "en": "Inability to make decisions"
+   },
+   "text": {
+    "en": "5.—(1) For the purposes of section 4, a person is unable to make a decision for himself or herself if the person is unable —\n(a)to understand the information relevant to the decision;\n(b)to retain that information;\n(c)to use or weigh that information as part of the process of making the decision; or\n(d)to communicate his or her decision (whether by talking, using sign language or any other means).\n(2) A person is not to be regarded as unable to understand the information relevant to a decision if the person is able to understand an explanation of it given to him or her in a way that is appropriate to his or her circumstances (using simple language, visual aids or any other means).\n(3) The fact that a person is able to retain the information relevant to a decision for a short period only does not prevent the person from being regarded as able to make the decision.\n(4) The information relevant to a decision includes information about the reasonably foreseeable consequences of —\n(a)deciding one way or another; or\n(b)failing to make the decision."
+   }
+  },
+  {
+   "id": "SG-H3153-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 PERSONS WHO LACK CAPACITY"
+   },
+   "heading": {
+    "en": "Best interests"
+   },
+   "text": {
+    "en": "6.—(1) In determining for the purposes of this Act what is in a person’s best interests, the person making the determination must not make it merely on the basis of —\n(a)the person’s age or appearance; or\n(b)a condition of the person, or an aspect of the person’s behaviour, which might lead others to make unjustified assumptions about what might be in the person’s best interests.\n(2) The person making the determination must consider all the relevant circumstances and, in particular, take the steps specified in subsections (3) to (9).\n(3) He or she must consider —\n(a)whether it is likely that the person will at some time have capacity in relation to the matter in question; and\n(b)if it appears likely that the person will, when that is likely to be.\n(4) He or she must, so far as is reasonably practicable, permit and encourage the person to participate, or to improve the person’s ability to participate, as fully as possible in any act done for the person and any decision affecting the person.\n(5) Where the determination relates to life-sustaining treatment, he or she must not, in considering whether the treatment is in the best interests of the person concerned, be motivated by a desire to bring about the death of the person concerned.\n(6) Where the determination relates to the giving, refusal or revocation of —\n(a)appropriate consent of the person concerned under the Human Biomedical Research Act 2015 — he or she must take into account such matters, considerations and procedures as may be prescribed under Part 3 of that Act; or\n(b)consent of the person concerned under any written law relating to a clinical trial — he or she must take into account such matters, considerations and procedures as may be prescribed in such written law.\n[29/2015]\n(7) Where the determination relates to the disposition or settlement of the person’s property, he or she must be motivated by a desire to ensure, so far as is reasonably practicable, that the person’s property is preserved for application towards the costs of the person’s maintenance during the person’s life.\n(8) He or she must consider, so far as is reasonably ascertainable —\n(a)the person’s past and present wishes and feelings (and, in particular, any relevant written statement made by the person when the person had capacity);\n(b)the beliefs and values that would be likely to influence his or her decision if the person had capacity; and\n(c)the other factors that the person would be likely to consider if the person were able to do so.\n(9) He or she must take into account, if it is practicable and appropriate to consult them, the views of —\n(a)anyone named by the person as someone to be consulted on the matter in question or on matters of that kind;\n(b)anyone engaged in caring for the person or interested in the person’s welfare;\n(c)any donee of a lasting power of attorney granted by the person; and\n(d)any deputy appointed for the person by the court,\nas to what would be in the person’s best interests and, in particular, as to the matters mentioned in subsection (8).\n(10) The duties imposed by subsections (1) to (9) also apply in relation to the exercise of any powers which —\n(a)are exercisable under a lasting power of attorney; or\n(b)are exercisable by a person under this Act where the person reasonably believes that another person lacks capacity.\n(11) In the case of an act done, or a decision made, by a person other than the court, there is sufficient compliance with this section if (having complied with the requirements of subsections (1) to (9)) the person reasonably believes that what the person does or decides is in the best interests of the person concerned.\n(12) In subsection (2), “relevant circumstances” are those —\n(a)of which the person making the determination is aware; and\n(b)which it would be reasonable to regard as relevant."
+   }
+  },
+  {
+   "id": "SG-H3153-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 ACTS IN CONNECTION WITH CARE OR TREATMENT"
+   },
+   "heading": {
+    "en": "Acts in connection with care or treatment"
+   },
+   "text": {
+    "en": "7.—(1) If a person (“D”) does an act in connection with the care or treatment of another person (“P”), the act is one to which this section applies if —\n(a)before doing the act, D takes reasonable steps to establish whether P lacks capacity in relation to the matter in question; and\n(b)when doing the act, D reasonably believes —\n(i)that P lacks capacity in relation to the matter; and\n(ii)that it will be in P’s best interests for the act to be done.\n(2) D does not incur any liability in relation to the act that D would not have incurred if P —\n(a)had had capacity to consent in relation to the matter; and\n(b)had consented to D’s doing the act.\n(3) Nothing in this section —\n(a)excludes a person’s civil liability for loss or damage, or the person’s criminal liability, resulting from the person’s negligence in doing the act;\n(b)affects the operation of the Advance Medical Directive Act 1996;\n(c)applies to the conduct of a clinical trial; or\n(d)applies to the conduct of human biomedical research within the meaning of the Human Biomedical Research Act 2015 or the removal or use of human tissue under that Act.\n[29/2015]"
+   }
+  },
+  {
+   "id": "SG-H3153-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 ACTS IN CONNECTION WITH CARE OR TREATMENT"
+   },
+   "heading": {
+    "en": "Section 7 acts: limitations"
+   },
+   "text": {
+    "en": "8.—(1) If D does an act that is intended to restrain P, it is not an act to which section 7 applies unless 2 further conditions are satisfied.\n(2) The first condition is that D reasonably believes that it is necessary to do the act in order to prevent harm to P.\n(3) The second condition is that the act is a proportionate response to —\n(a)the likelihood of P’s suffering harm; and\n(b)the seriousness of that harm.\n(4) For the purposes of this section, D restrains P if D —\n(a)uses, or threatens to use, force to secure the doing of an act which P resists; or\n(b)restricts P’s liberty of movement, whether or not P resists.\n(5) Section 7 does not authorise a person to do an act which is inconsistent with a decision made, within the scope of the authority of, and in accordance with this Act, by —\n(a)a donee of a lasting power of attorney granted by P; or\n(b)a deputy appointed for P by the court."
+   }
+  },
+  {
+   "id": "SG-H3153-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 ACTS IN CONNECTION WITH CARE OR TREATMENT"
+   },
+   "heading": {
+    "en": "Payment for necessary goods and services"
+   },
+   "text": {
+    "en": "9.—(1) If necessary goods or services are supplied to a person who lacks capacity to contract for the supply, the person must pay a reasonable price for them.\n(2) In subsection (1), “necessary” means suitable to a person’s condition in life and to the person’s actual requirements at the time when the goods or services are supplied."
+   }
+  },
+  {
+   "id": "SG-H3153-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 ACTS IN CONNECTION WITH CARE OR TREATMENT"
+   },
+   "heading": {
+    "en": "Expenditure"
+   },
+   "text": {
+    "en": "10.—(1) If an act to which section 7 applies involves expenditure for necessary goods or services within the meaning of section 9, it is lawful for D to apply money in P’s actual possession for meeting the expenditure.\n(2) If the expenditure is borne for P by D, it is lawful for D —\n(a)to reimburse himself or herself out of money in P’s actual possession; or\n(b)to be otherwise indemnified by P.\n(3) Subsections (1) and (2) do not affect any power under which (apart from those subsections) a person —\n(a)has lawful control of P’s money or other property; and\n(b)has power to spend money for P’s benefit."
+   }
+  },
+  {
+   "id": "SG-H3153-A10.001",
+   "no": 10.001,
+   "noLabel": {
+    "en": "10A."
+   },
+   "chapter": {
+    "en": "PART 3A ELECTRONIC TRANSACTION SYSTEM*"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "10A. In this Part, unless the context otherwise requires —\n“document” includes a document in electronic form;\n“malfunction”, in relation to the electronic transaction system, includes any defect or breakdown in that system or in any equipment, software or telecommunication networks used in or in connection with that system;\n“transaction”, in relation to the Public Guardian, means —\n(a)the filing or lodging of any document with the Public Guardian, or the submission, production, delivery, furnishing or sending of any document to the Public Guardian, under or for the purposes of this Act;\n(b)the making of any application, submission or request to the Public Guardian under or for the purposes of this Act;\n(c)the provision of any undertaking or declaration to the Public Guardian under or for the purposes of this Act; and\n(d)the extraction, retrieval or accessing of any document, record or information maintained by the Public Guardian under or for the purposes of this Act.\n[Act 16 of 2021 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3153-A10.002",
+   "no": 10.002,
+   "noLabel": {
+    "en": "10B."
+   },
+   "chapter": {
+    "en": "PART 3A ELECTRONIC TRANSACTION SYSTEM*"
+   },
+   "heading": {
+    "en": "Establishment of electronic transaction system"
+   },
+   "text": {
+    "en": "10B.—(1) The Public Guardian may establish an electronic transaction system —\n(a)to enable any donor to create an electronic instrument with a view to creating a lasting power of attorney;\n(b)to enable any person to carry out any transaction with the Public Guardian;\n(c)to enable a person to give a notice to another person under or for the purposes of this Act;\n(d)to enable the Public Guardian to issue any approval, certification, notice or other document under or for the purposes of this Act;\n(e)to enable the Public Guardian to attach a note to any lasting power of attorney;\n(f)to enable the Public Guardian to provide to persons entitled copies or extracts of documents filed or lodged with, submitted to, or issued by, the Public Guardian;\n(g)to enable the Public Guardian to provide a service for the supply to the public of non-confidential information relating to transactions with the Public Guardian; and\n(h)to enable the Public Guardian to carry out any of the Public Guardian’s functions, or to provide any other service falling within those functions.\n(2) The non-confidential information that may be provided under the service mentioned in subsection (1)(g) —\n(a)may include —\n(i)information extracted from documents filed or lodged with, submitted to, or issued by, the Public Guardian; and\n(ii)collations, summaries, reports or analyses of documents filed or lodged with, submitted to, or issued by, the Public Guardian; and\n(b)may be derived from documents filed or lodged with, submitted to, or issued by, the Public Guardian other than through the electronic transaction system.\n(3) Where any transaction with the Public Guardian can be carried out using the electronic transaction system, the Public Guardian may refuse to process the transaction unless —\n(a)the transaction is carried out in accordance with this Part, including the requirements for the use of the electronic transaction system specified in subsection (4);\n(b)the transaction meets the requirements prescribed in this Act or specified by the Public Guardian (as the case may be) for that transaction; and\n(c)the fee payable for the transaction has been paid.\n(4) Subject to this Part and any regulations made under section 46, the Public Guardian may, from time to time, determine the requirements for the use of the electronic transaction system, which may include —\n(a)conditions of access to, and use of, the electronic transaction system;\n(b)security and authentication requirements for access to, and use of, the electronic transaction system;\n(c)retention and production of documents supporting or authenticating transactions; and\n(d)modes of payment for transactions.\n(5) The Public Guardian must keep a record, in such form as the Public Guardian may determine, of —\n(a)all transactions with the Public Guardian that are carried out using the electronic transaction system;\n(b)all approvals, certifications, notices and other documents issued by the Public Guardian under or for the purposes of this Act through the electronic transaction system; and\n(c)all notes attached by the Public Guardian to any lasting power of attorney using the electronic transaction system.\n(6) The Public Guardian must ensure that each of the following documents is kept in such form as the Public Guardian may determine, that ensures the integrity, and enables the retrieval, of the document:\n(a)any lasting power of attorney that is created using the electronic transaction system;\n(b)any electronic copy of a non-electronic lasting power of attorney.\n[Act 16 of 2021 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3153-A10.003",
+   "no": 10.003,
+   "noLabel": {
+    "en": "10C."
+   },
+   "chapter": {
+    "en": "PART 3A ELECTRONIC TRANSACTION SYSTEM*"
+   },
+   "heading": {
+    "en": "Requirement to use electronic transaction system"
+   },
+   "text": {
+    "en": "10C.—(1) Except as provided in subsection (2), a person who wishes to carry out a transaction with the Public Guardian —\n(a)must do so using the electronic transaction system if the transaction is an application for the registration of an instrument purporting to create a lasting power of attorney;\n(b)must do so using the electronic transaction system if required by the Public Guardian; or\n(c)may do so using the electronic transaction system if permitted by the Public Guardian.\n(2) If a transaction with the Public Guardian under or for the purposes of this Act cannot be carried out using the electronic transaction system —\n(a)because the person mentioned in subsection (1) is unable to carry out the transaction using the electronic transaction system due to the person’s physical disability or other circumstance;\n(b)because the electronic transaction system is unavailable; or\n(c)for any other reason,\nthe transaction must be carried out in the form and manner determined by the Public Guardian.\n[Act 16 of 2021 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3153-A10.004",
+   "no": 10.004,
+   "noLabel": {
+    "en": "10D."
+   },
+   "chapter": {
+    "en": "PART 3A ELECTRONIC TRANSACTION SYSTEM*"
+   },
+   "heading": {
+    "en": "Electronic transaction system malfunction, errors and omissions"
+   },
+   "text": {
+    "en": "10D.—(1) Despite any other written law or rule of law, the Public Guardian may —\n(a)correct any error or omission in any register kept by the Public Guardian under this Act;\n(b)correct any error or omission in any document filed or lodged with, or submitted to, the Public Guardian; and\n(c)supply entries or records omitted to be made in any register mentioned in paragraph (a),\nif the error or omission has occurred or arisen as a result of any malfunction of the electronic transaction system.\n(2) The Public Guardian must maintain a record of every correction made under subsection (1).\n(3) When any error or omission has been corrected under subsection (1), the error or omission is deemed not to have occurred.\n(4) The Public Guardian, an Assistant Public Guardian, an authorised officer or any person acting under the direction of the Public Guardian or an Assistant Public Guardian is not liable for any loss or damage suffered by any person by reason of any error or omission, if —\n(a)the error or omission had occurred or arisen as a result of any malfunction of the electronic transaction system; and\n(b)the malfunction of the electronic transaction system had occurred despite the Public Guardian having acted in good faith and with reasonable care to prevent such a malfunction from occurring.\n[Act 16 of 2021 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3153-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 4 LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Lasting powers of attorney"
+   },
+   "text": {
+    "en": "11.—(1) A lasting power of attorney is a power of attorney under which the donor (“P”) confers on the donee (or donees) authority to make decisions about all or any of the following:\n(a)P’s personal welfare or specified matters concerning P’s personal welfare;\n(b)P’s property and affairs or specified matters concerning P’s property and affairs,\nwhen P no longer has capacity to make such decisions.\n(2) A lasting power of attorney is not created unless —\n(a)section 12 is complied with;\n(b)an instrument conferring authority of the kind mentioned in subsection (1) —\n(i)being one executed by P before the date of commencement of section 4 of the Mental Capacity (Amendment) Act 2021 — is made and registered in accordance with the First Schedule as in force immediately before that date; or\n(ii)being one executed by P on or after the date of commencement of section 4 of the Mental Capacity (Amendment) Act 2021 —\n(A)is made using the electronic transaction system in accordance with section 12A and the First Schedule, or (in a case under subsection (2A)) is made in accordance with the First Schedule; and\n(B)is registered in accordance with the First Schedule; and\n[Act 16 of 2021 wef 14/11/2022]\n(c)at the time when P executes the instrument, P has attained the age of 21 years and has capacity to execute it.\n(2A) The Public Guardian may allow an instrument conferring authority of the kind mentioned in subsection (1) to be made in accordance with the First Schedule, without using the electronic transaction system, in any one or more of the following circumstances:\n(a)the donor is unable to make the instrument using the electronic transaction system due to the donor’s physical disability or other circumstance;\n(b)the donee is unable to sign the instrument using the electronic transaction system due to the donee’s physical disability or other circumstance;\n(c)the electronic transaction system is unavailable;\n(d)any other prescribed circumstances.\n[Act 16 of 2021 wef 14/11/2022]\n(3) Subject to section 12B, an instrument which —\n(a)purports to create a lasting power of attorney; but\n(b)does not comply with this section, section 12 or the First Schedule,\nconfers no authority.\n[Act 15 of 2024 wef 04/05/2024]\n(4) The authority conferred by a lasting power of attorney is subject to —\n(a)the provisions of this Act and, in particular, sections 3 (principles) and 6 (best interests); and\n(b)any conditions or restrictions specified in the instrument.\n(5) On or after the date of commencement of section 4 of the Mental Capacity (Amendment) Act 2021, the Public Guardian may return any non-electronic lasting power of attorney that is kept by the Public Guardian (whether registered before, on or after that date) to its donor if —\n(a)the Public Guardian has ensured that an electronic copy of the lasting power of attorney (including all the notes attached to it under this Act), that is free from any relevant error, is made, and kept in the electronic transaction system (called in this section the electronic copy);\n(b)the return of the non-electronic lasting power of attorney is accompanied by a notice to the effect that unless the Public Guardian is notified by the donor of any relevant error in the electronic copy within 90 days (or any longer prescribed period) after the date of the notice, the electronic copy will be treated as being free from any relevant error and as the lasting power of attorney; and\n(c)a notice is sent to the donee of the lasting power of attorney (or if there is more than one donee, each of them) to the effect that where the donor lacks capacity to verify whether there is a relevant error in the electronic copy or to give a notice to the Public Guardian of any relevant error in the electronic copy, then the donee (or if there is more than one donee, any of them) may give a notice to the Public Guardian of any relevant error in the electronic copy within 90 days (or any longer prescribed period) after the date of the notice, and unless this is done the electronic copy will be treated as being free from any relevant error and as the lasting power of attorney.\n[Act 16 of 2021 wef 14/11/2022]\n(6) The Public Guardian may also send —\n(a)a notice mentioned in subsection (5)(b) to the donor of a non-electronic lasting power of attorney that was registered before the date of commencement of section 4 of the Mental Capacity (Amendment) Act 2021; and\n(b)a notice mentioned in subsection (5)(c) to the donee of such lasting power of attorney (or if there is more than one donee, each of them),\nwhere —\n(c)the Public Guardian has, before that date, returned the non-electronic lasting power of attorney to its donor or donee (or if there is more than one donee, any of them); and\n(d)the Public Guardian has before or after such return ensured that an electronic copy of the lasting power of attorney (including all the notes attached to it under this Act), that is free from any relevant error, was made and is kept in the electronic transaction system (also called in this section the electronic copy).\n[Act 16 of 2021 wef 14/11/2022]\n(7) The donor of a non-electronic lasting power of attorney who received a notice mentioned in subsection (5)(b) may within 90 days (or any longer prescribed period) after the date of the notice, give a notice to the Public Guardian of any relevant error in the electronic copy (called in this section a notice of error).\n[Act 16 of 2021 wef 14/11/2022]\n(8) A donee of a non-electronic lasting power of attorney who received a notice mentioned in subsection (5)(c) may, if the donor of the lasting power of attorney lacks capacity to verify whether there is a relevant error in the electronic copy or to give a notice to the Public Guardian of any relevant error in the electronic copy, within 90 days (or any longer prescribed period) after the date of the notice, give a notice to the Public Guardian of any relevant error in the electronic copy (also called in this section a notice of error).\n[Act 16 of 2021 wef 14/11/2022]\n(9) A notice of error under subsection (8) must be accompanied by a certificate from a registered medical practitioner verifying the lack of capacity of the donor to carry out any act described in that subsection, or to undertake tasks of a similar nature.\n[Act 16 of 2021 wef 14/11/2022]\n(10) On receipt of a notice of error under subsection (7) or (8), the Public Guardian may, if satisfied that there is a relevant error in the electronic copy, rectify the relevant error.\n[Act 16 of 2021 wef 14/11/2022]\n(11) The Public Guardian must give a written notice of the Public Guardian’s decision whether or not to rectify the relevant error to the donor and to the donee or (if there is more than one donee) every donee.\n[Act 16 of 2021 wef 14/11/2022]\n(12) Subject to sections 15A and 16A, the electronic copy of a non-electronic lasting power of attorney is treated as being free from any relevant error and as the lasting power of attorney —\n(a)if no notice of error is received by the Public Guardian by the last day of the period mentioned in subsection (5)(b) or (c), whichever is the later — on the next day (called in this section the expiry day); or\n(b)if a notice of error is received by the Public Guardian within the period mentioned in subsection (5)(b) or (c) —\n(i)where the Public Guardian decides to rectify the relevant error — on the later of the following:\n(A)the expiry day;\n(B)the day on which the Public Guardian rectifies the relevant error; or\n(ii)where the Public Guardian decides not to rectify the relevant error — on the later of the following:\n(A)the expiry day;\n(B)the day on which the Public Guardian sends the written notice under subsection (11).\n[Act 16 of 2021 wef 14/11/2022]\n(13) To avoid doubt, the treatment of the electronic copy of a non-electronic lasting power of attorney as being free from any relevant error and as the lasting power of attorney under subsection (12) does not affect the rights and obligations of any party under the lasting power of attorney, and the date of registration of the lasting power of attorney remains as the date of registration of the non-electronic lasting power of attorney.\n[Act 16 of 2021 wef 14/11/2022]\n(14) In this section, “relevant error”, in relation to an electronic copy of a non-electronic lasting power of attorney, means any disparity or inconsistency between the electronic copy and the lasting power of attorney that is registered by the Public Guardian.\n[Act 16 of 2021 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3153-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 4 LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Appointment of donees"
+   },
+   "text": {
+    "en": "12.—(1) A donee of a lasting power of attorney must be —\n(a)where the power relates only to P’s property and affairs —\n(i)an individual who has attained the age of 21 years and provides to P the services of a donee without remuneration;\n(ii)an individual who is a professional donee and is not related to P by blood or marriage; or\n(iii)a professional donee who is not an individual; and\n(b)in any other case —\n(i)an individual who has attained the age of 21 years and provides to P the services of a donee without remuneration; or\n(ii)an individual who is a professional donee and is not related to P by blood or marriage.\n[10/2016]\n(2) A person who is an undischarged bankrupt may not be appointed as donee of a lasting power of attorney in relation to P’s property and affairs.\n(3) Subsections (4) to (7) apply in relation to an instrument under which 2 or more persons are to act as donees of a lasting power of attorney.\n(4) The instrument may appoint them to act —\n(a)jointly;\n(b)jointly and severally; or\n(c)jointly in respect of some matters and jointly and severally in respect of others.\n(5) To the extent to which it does not specify whether they are to act jointly or jointly and severally, the instrument is to be assumed to appoint them to act jointly.\n(6) If they are to act jointly, a failure, as respects one of them, to comply with the requirements of subsection (1) or (2) or Part 1 or 2 of the First Schedule prevents a lasting power of attorney from being created.\n[Act 16 of 2021 wef 14/11/2022]\n(7) If they are to act jointly and severally, a failure, as respects one of them, to comply with the requirements of subsection (1) or (2) or Part 1 or 2 of the First Schedule —\n(a)prevents the appointment taking effect in that person’s case; but\n(b)does not prevent a lasting power of attorney from being created in the case of the other or others.\n[Act 16 of 2021 wef 14/11/2022]\n(8) An instrument used to create a lasting power of attorney —\n(a)cannot give the donee (or, if more than one, any of them) power to appoint a substitute or successor; but\n(b)may itself appoint a person (called in subsection (9) the replacement donee) to replace the donee (or, if more than one, any of them) on the occurrence of an event mentioned in section 15(5)(a) to (d) which has the effect of terminating the donee’s appointment.\n[10/2016]\n(9) To avoid doubt, an instrument used to create a lasting power of attorney —\n(a)may itself appoint one or more replacement donees in respect of a particular donee; but\n(b)cannot itself appoint a person to replace any replacement donee.\n[Act 16 of 2021 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3153-A12.001",
+   "no": 12.001,
+   "noLabel": {
+    "en": "12A."
+   },
+   "chapter": {
+    "en": "PART 4 LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Execution of lasting power of attorney"
+   },
+   "text": {
+    "en": "12A.—(1) On or after the date of commencement of section 6 of the Mental Capacity (Amendment) Act 2021, where a rule of law requires an instrument conferring authority of the kind mentioned in section 11(1) to be a deed, that requirement is met by an electronic record in the electronic transaction system if —\n(a)the electronic record clearly states on its face that it is intended to be a deed by P;\n(b)P signs the electronic record by applying a secure electronic signature to the electronic record in the electronic transaction system;\n(c)P’s signature is attested by a witness who witnesses P’s execution of the electronic record; and\n(d)the executed electronic record is delivered as a deed by P.\n(2) Without limiting subsection (1)(d), an executed electronic record is treated as having been delivered as a deed by P on P making an application to the Public Guardian to register it as a lasting power of attorney.\n[Act 16 of 2021 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3153-A12.002",
+   "no": 12.002,
+   "noLabel": {
+    "en": "12B."
+   },
+   "chapter": {
+    "en": "PART 4 LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Validation"
+   },
+   "text": {
+    "en": "12B.—(1) Despite anything in section 12A(1), an instrument conferring authority of the kind mentioned in section 11(1) that is in the form of an electronic record in the electronic transaction system is not invalid as a deed by reason only that the electronic record does not state on its face that it is intended to be a deed in accordance with section 12A(1)(a), if —\n(a)the instrument was made using the electronic transaction system in compliance with section 12A (except subsection (1)(a) of that section); and\n(b)the instrument was made between 14 November 2022 and 4 January 2024 (both dates inclusive).\n(2) Despite anything in this Act, a lasting power of attorney is not invalidly created under section 11(2) by reason only that the instrument which purports to create the lasting power of attorney is an instrument mentioned in subsection (1).\n(3) No legal proceedings may be instituted on or after 6 March 2024 in any court in respect of the validity of a lasting power of attorney mentioned in subsection (2) by reason of the instrument which purports to create the lasting power of attorney not being made in accordance with section 12A(1)(a).\n(4) Subsections (1), (2) and (3) do not affect the power of the court under section 17 to determine whether one or more of the requirements for the creation of a lasting power of attorney (not being a requirement under section 12A(1)(a)) have been met.\n[Act 15 of 2024 wef 04/05/2024]"
+   }
+  },
+  {
+   "id": "SG-H3153-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 4 LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Lasting powers of attorney: restrictions"
+   },
+   "text": {
+    "en": "13.—(1) A donee under a lasting power of attorney (or, if more than one, any of them) may only make decisions under the lasting power of attorney where P lacks capacity, or the donee reasonably believes that P lacks capacity.\n(2) A lasting power of attorney does not authorise the donee (or, if more than one, any of them) to do an act that is intended to restrain P, unless 2 further conditions are satisfied.\n(3) The first condition is that the donee reasonably believes that it is necessary to do the act in order to prevent harm to P.\n(4) The second condition is that the act is a proportionate response to —\n(a)the likelihood of P’s suffering harm; and\n(b)the seriousness of that harm.\n(5) For the purposes of this section, the donee restrains P if the donee —\n(a)uses, or threatens to use, force to secure the doing of an act which P resists; or\n(b)restricts P’s liberty of movement, whether or not P resists,\nor if the donee authorises another person to do any of those things.\n(6) Subject to subsection (8), where a lasting power of attorney authorises the donee (or, if more than one, any of them) to make decisions about P’s personal welfare, the authority extends to giving or refusing consent to the carrying out or continuation of a treatment by a person providing health care for P if, and only if, the instrument contains express provision to that effect.\n(7) For the purposes of subsection (6), treatment, in relation to P, includes the conduct of a clinical trial on P.\n(7A) Where a lasting power of attorney authorises the donee (or, if more than one, any of them) to make decisions about P’s personal welfare, the authority extends to giving, refusing or revoking appropriate consent involving P under the Human Biomedical Research Act 2015 if, and only if, the instrument contains express provision to that effect.\n[29/2015]\n(8) Despite anything in the lasting power of attorney, a donee authorised to make decisions about P’s personal welfare may not make any decision with respect to the carrying out or continuation of —\n(a)life-sustaining treatment on P, whether or not amounting to extraordinary life-sustaining treatment within the meaning of section 2 of the Advance Medical Directive Act 1996; or\n(b)any other treatment on P which a person providing health care reasonably believes is necessary to prevent a serious deterioration in P’s condition.\n(9) Despite anything in the lasting power of attorney, a donee authorised to make decisions about P’s property and affairs may not —\n(a)make, on P’s behalf, any nomination under section 132(2) or 133(2) of the Insurance Act 1966;\n(b)where any nomination under section 132(2) or 133(2) of the Insurance Act 1966 has been made by P or by the court on P’s behalf, revoke, on P’s behalf, that nomination under section 132(7) or 133(4) (as the case may be) of that Act; or\n(c)execute a will for P.\n(9A) Despite anything in the lasting power of attorney, a donee authorised to make decisions about P’s property and affairs may not —\n(a)execute under section 15(6A) or 25(1) of the Central Provident Fund Act 1953, on P’s behalf, any memorandum under section 25(1) of that Act; or\n(b)where any such memorandum has been executed, or any nomination has been made under section 25(1) of that Act, by P or by the court on P’s behalf, revoke, on P’s behalf, that memorandum or nomination, as the case may be.\n(10) Despite any other provision of this Act, a person dealing with a donee in matters relating to P’s personal welfare or property may require the donee to produce a certificate from a registered medical practitioner stating that P’s lack of capacity is likely to be permanent, and if the donee fails to produce the certificate, the person may refuse to accept the donee’s authority to make decisions for P in such matters.\n[Act 16 of 2021 wef 14/11/2022]\n(11) This section does not affect any other power conferred on a donee of a lasting power of attorney under any other written law."
+   }
+  },
+  {
+   "id": "SG-H3153-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 4 LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Scope of lasting powers of attorney: gifts"
+   },
+   "text": {
+    "en": "14.—(1) Where a lasting power of attorney confers authority to make decisions about P’s property and affairs, it does not authorise a donee (or, if more than one, any of them) to dispose of the donor’s property by making gifts except to the extent permitted under subsections (2) and (3).\n(2) The donee may make gifts if, and only if, the lasting power of attorney contains express authorisation to that effect.\n(3) Where the express authorisation in the lasting power of attorney does not specify the value of the gift or gifts to be made, the donee —\n(a)may make a gift or gifts of such value which are not unreasonable having regard to all the circumstances and, in particular, the size of the donor’s estate; and\n(b)must have regard to the principle in section 6(7).\n(4) Subsection (3) does not affect section 11(4)."
+   }
+  },
+  {
+   "id": "SG-H3153-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 4 LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Revocation of lasting powers of attorney, etc."
+   },
+   "text": {
+    "en": "15.—(1) This section applies if —\n(a)P has executed an instrument with a view to creating a lasting power of attorney; or\n(b)a lasting power of attorney is registered as having been conferred by P,\nand in this section, references to revoking the power include revoking the instrument.\n(2) P may, at any time when P has capacity to do so, revoke the power.\n(3) P’s bankruptcy revokes the power so far as it relates to P’s property and affairs.\n(4) The occurrence in relation to a donee of an event mentioned in subsection (5) —\n(a)terminates the donee’s appointment; and\n(b)except in the cases given in subsection (6), revokes the power.\n(5) The events are —\n(a)the disclaimer of the appointment by the donee in accordance with such requirements as may be prescribed for the purposes of this section in regulations made under this Act;\n(b)subject to subsection (7), the death or bankruptcy of the donee or, if the donee is a person other than an individual, its liquidation, winding up, dissolution or being under judicial management;\n(c)subject to subsection (8), the dissolution or annulment of a marriage between the donor and the donee;\n(d)the lack of capacity of the donee.\n(6) The cases mentioned in subsection (4)(b) are —\n(a)the donee is replaced under the terms of the instrument;\n(b)the donee is one of 2 or more persons appointed to act as donees jointly and severally in respect of any matter and, after the event, there is at least one remaining donee.\n(7) The bankruptcy of a donee does not terminate the donee’s appointment, or revoke the power, insofar as the donee’s authority relates to P’s personal welfare.\n(8) The dissolution or annulment of a marriage between the donor and the donee does not terminate the appointment of a donee, or revoke the power, if the instrument provided that it was not to do so.\n(9) A donor who revokes a lasting power of attorney must notify all the following persons that the donor has done so:\n(a)the Public Guardian;\n(b)the donee or (if there is more than one donee) every donee.\n[Act 16 of 2021 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3153-A15.001",
+   "no": 15.001,
+   "noLabel": {
+    "en": "15A."
+   },
+   "chapter": {
+    "en": "PART 4 LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Rectification by Public Guardian"
+   },
+   "text": {
+    "en": "15A.—(1) The donor or donee (or if there is more than one donee, any of them) of a non-electronic lasting power of attorney may, at any time after the date an electronic copy of it is treated as being free from any relevant error and as the lasting power of attorney under section 11(12), give a notice to the Public Guardian of any relevant error in the electronic copy.\n(2) The Public Guardian may, upon receipt of any notice mentioned in subsection (1) or on the Public Guardian’s own initiative, rectify a relevant error in an electronic copy of a non-electronic lasting power of attorney.\n(3) The Public Guardian must give a written notice of any rectification under subsection (2) to the donor and the donee or (if there is more than one donee) every donee of the non-electronic lasting power of attorney.\n(4) The Public Guardian must maintain a record of every rectification made under subsection (2).\n(5) In this section —\n“electronic copy”, in relation to a non-electronic lasting power of attorney, means an electronic copy of the lasting power of attorney caused to be made and kept in the electronic transaction system by the Public Guardian;\n“relevant error”, in relation to an electronic copy of a non-electronic lasting power of attorney, means any disparity or inconsistency between the electronic copy and the lasting power of attorney that is registered by the Public Guardian.\n[Act 16 of 2021 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3153-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 4 LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Protection of donees and others if lasting power of attorney not validly created, revoked or suspended, etc."
+   },
+   "text": {
+    "en": "16.—(1) This section applies where —\n(a)an instrument purporting to create a lasting power of attorney has been registered under the First Schedule, but a lasting power of attorney was not validly created, whether or not the registration is cancelled at the time of the act or transaction in question; or\n(b)a lasting power of attorney, or a power under a lasting power of attorney, is revoked or suspended.\n[10/2016]\n(2) A donee who does an act that would have been within the scope of the lasting power of attorney without knowing of the non‑existence, revocation or suspension of the lasting power of attorney or the power under the lasting power of attorney does not incur any liability to P or any other person, despite the non‑existence, revocation or suspension.\n[10/2016]\n(3) If a lasting power of attorney or a power under a lasting power of attorney is non‑existent, revoked or suspended, a person (called in this section a third party) who deals or otherwise transacts in good faith with the donee, without knowing of the non‑existence, revocation or suspension, is entitled to rely on the lasting power of attorney or the power under the lasting power of attorney in relation to that dealing or transaction in the same manner and to the same extent as if the lasting power of attorney or the power under the lasting power of attorney exists or had not been revoked or suspended.\n[10/2016]\n(4) It is conclusively presumed in favour of a purchaser from a third party who dealt or otherwise transacted with a donee that the dealing or transaction was valid if —\n(a)the dealing or transaction was completed within 12 months after the date on which the instrument intending to create a lasting power of attorney was registered; or\n(b)the third party makes a statutory declaration, before, on or within 3 months after, the completion of the purchase by the purchaser, that the third party had no reason at the time of the dealing or transaction with the donee to doubt the donee’s authority to deal or transact.\n[10/2016]\n(5) In subsection (4), “purchaser” means a person claiming through the third party and who acquires the property in good faith and for valuable consideration.\n[10/2016]\n(6) For the purposes of this section, knowledge that a lasting power of attorney or a power under a lasting power of attorney does not exist or has been revoked or suspended includes knowledge of the happening of any event —\n(a)which prevents the lasting power of attorney from being created; or\n(b)which has the effect of revoking or suspending the lasting power of attorney or the power under the lasting power of attorney.\n[10/2016]\n(7) In this section, where 2 or more donees are appointed under a lasting power of attorney, a reference to the donee is a reference to all or any of the donees.\n[10/2016]\n(8) This section applies only to acts and transactions made on or after 30 June 2016, whether the lasting power of attorney or the power under the lasting power of attorney is created or purported to be created, or revoked or suspended, before, on or after that date.\n[10/2016]"
+   }
+  },
+  {
+   "id": "SG-H3153-A16.001",
+   "no": 16.001,
+   "noLabel": {
+    "en": "16A."
+   },
+   "chapter": {
+    "en": "PART 4 LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Protection of donees and others if electronic copy of lasting power of attorney has relevant error"
+   },
+   "text": {
+    "en": "16A.—(1) If an electronic copy of a non-electronic lasting power of attorney has a relevant error, a donee of the lasting power of attorney who does an act in reliance on the electronic copy without knowing of the relevant error does not incur any liability to P or to any other person, by reason only of the relevant error.\n(2) If an electronic copy of a non-electronic lasting power of attorney has a relevant error, a person who deals or otherwise transacts in good faith with the donee without knowing of the relevant error is entitled to rely on the electronic copy in relation to that dealing or transaction.\n(3) In this section, where 2 or more donees are appointed under a non-electronic lasting power of attorney, a reference to the donee is a reference to all or any of the donees.\n(4) In this section —\n“electronic copy”, in relation to a non-electronic lasting power of attorney, means —\n(a)an electronic copy of the lasting power of attorney that is treated as being free from any relevant error and as the lasting power of attorney under section 11(12); or\n(b)where the electronic copy mentioned in paragraph (a) has been rectified by the Public Guardian under section 15A(2), the electronic copy so rectified;\n“relevant error”, in relation to an electronic copy of a non-electronic lasting power of attorney, means any disparity or inconsistency between the electronic copy and the lasting power of attorney that is registered by the Public Guardian.\n[Act 16 of 2021 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3153-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Powers of court in relation to validity of lasting powers of attorney"
+   },
+   "text": {
+    "en": "17.—(1) This section and section 18 apply if —\n(a)a person (“P”) has executed or purported to execute an instrument with a view to creating a lasting power of attorney; or\n(b)an instrument has been registered as a lasting power of attorney conferred by P.\n(2) The court may determine any question relating to —\n(a)whether one or more of the requirements for the creation of a lasting power of attorney have been met;\n(b)whether the power has been revoked or has otherwise come to an end.\n(3) Subsection (4) applies if the court is satisfied —\n(a)that fraud or undue pressure was used to induce P —\n(i)to execute an instrument for the purpose of creating a lasting power of attorney; or\n(ii)to create a lasting power of attorney;\n(b)that the donee (or any of the donees, if more than one) of a lasting power of attorney —\n(i)is convicted, on or after 1 September 2018 (but not before the donee’s appointment under the lasting power of attorney), of an offence (whenever committed) of criminal misappropriation, criminal breach of trust, cheating, theft or extortion or any other offence involving fraud or dishonesty, whether as against P or another person;\n(ii)engages or has engaged in conduct that contravenes the donee’s authority, or that is not in P’s best interests (whether or not the donee is acting under a lasting power of attorney); or\n(iii)proposes to engage in conduct that would contravene the donee’s authority, or that would not be in P’s best interests (whether or not the donee is acting under a lasting power of attorney); or\n(c)where the donee (or any of the donees, if more than one) of a lasting power of attorney is a professional donee, that —\n(i)the registration of the donee as a professional deputy is cancelled or the donee is no longer within a class of persons prescribed as qualified to be a professional donee; and\n(ii)P lacks capacity.\n[10/2016]\n(4) The court may —\n(a)direct that an instrument purporting to create the lasting power of attorney is not to be registered;\n(b)if P lacks capacity to do so, revoke the instrument or the lasting power of attorney; or\n(c)in a case referred to in subsection (3)(c), revoke the instrument or the lasting power of attorney so far as it relates to the donee whose registration as a professional deputy is cancelled or who is no longer within a class of persons prescribed as qualified to be a professional donee.\n[10/2016]\n(5) If there is more than one donee, the court may under subsection (4)(b) revoke the instrument or the lasting power of attorney in respect of all or such of the matters to which the lasting power of attorney relates as the court thinks fit, so far as it relates to any of the donees.\n[10/2016]\n(6) The court may under subsection (4)(b) or (c) revoke the instrument or the lasting power of attorney in respect of all or such of the matters to which the lasting power of attorney relates as the court thinks fit.\n[10/2016]\n(7) The court may make further orders or give directions as the court thinks necessary or expedient for giving effect to, or otherwise in connection with, the revocation of the instrument or the lasting power of attorney.\n[10/2016]\n(8) In this section, “donee” includes an intended donee."
+   }
+  },
+  {
+   "id": "SG-H3153-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 LASTING POWERS OF ATTORNEY"
+   },
+   "heading": {
+    "en": "Powers of court in relation to operation of lasting powers of attorney"
+   },
+   "text": {
+    "en": "18.—(1) The court may determine any question as to the meaning or effect of a lasting power of attorney or an instrument purporting to create one.\n(2) The court may —\n(a)give directions with respect to decisions —\n(i)which the donee of a lasting power of attorney has authority to make; and\n(ii)which P lacks capacity to make;\n(b)give any consent or authorisation to act which the donee would have to obtain from P if P had capacity to give it.\n(3) The court may, if P lacks capacity to do so —\n(a)give directions to the donee with respect to the rendering by the donee of reports or accounts and the production of records kept by the donee for that purpose;\n(b)require the donee to supply information or produce documents or things in the donee’s possession as donee;\n(c)give directions with respect to the remuneration or expenses of the donee;\n(d)relieve the donee wholly or partly from any liability which the donee has or may have incurred on account of a breach of the donee’s duties as donee.\n(4) The court may authorise the making of gifts which are not within section 14(3).\n(5) Where 2 or more donees are appointed under a lasting power of attorney, this section applies as if references to the donee were to all or any of them."
+   }
+  },
+  {
+   "id": "SG-H3153-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 5 GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES"
+   },
+   "heading": {
+    "en": "Power to make declarations"
+   },
+   "text": {
+    "en": "19.—(1) The court may make declarations as to —\n(a)whether a person has or lacks capacity to make a decision specified in the declaration;\n(b)whether a person has or lacks capacity to make decisions on the matters described in the declaration;\n(c)the lawfulness or otherwise of any act done, or yet to be done, in relation to that person.\n(2) In subsection (1)(c), “act” includes an omission and a course of conduct."
+   }
+  },
+  {
+   "id": "SG-H3153-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 5 GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES"
+   },
+   "heading": {
+    "en": "Powers to make decisions and appoint deputies: general"
+   },
+   "text": {
+    "en": "20.—(1) This section applies if a person (“P”) lacks capacity in relation to a matter or matters concerning —\n(a)P’s personal welfare; or\n(b)P’s property and affairs.\n(2) The court may —\n(a)by making an order, make the decision or decisions on P’s behalf in relation to the matter or matters; or\n(b)appoint a person (called in this Act a deputy) to make decisions on P’s behalf in relation to the matter or matters.\n(3) The powers of the court under this section are subject to the provisions of this Act and, in particular, to sections 3 (principles) and 6 (best interests).\n(4) When deciding whether it is in P’s best interests to appoint a deputy, the court must have regard (in addition to the matters mentioned in section 6) to the principles that —\n(a)a decision by the court is to be preferred to the appointment of a deputy to make a decision; and\n(b)the powers conferred on a deputy should be as limited in scope and duration as is reasonably practicable in the circumstances.\n(5) Subject to section 25 (restrictions on deputies), the court may make such further orders or give such directions, and confer on a deputy such powers or impose on the deputy such duties, as it thinks necessary or expedient for giving effect to, or otherwise in connection with, an order or appointment made by it under subsection (2).\n(6) Without affecting section 6, the court may make the order, give the directions or make the appointment on such terms as it considers are in P’s best interests, even though no application is before the court for an order, directions or an appointment on those terms.\n(7) An order of the court may be varied or discharged by a subsequent order.\n(8) The court may, in particular, revoke the appointment of a deputy or vary the powers conferred on the deputy if it is satisfied that —\n(a)the deputy is convicted, on or after 1 September 2018 (but not before the deputy’s appointment by the court), of an offence (whenever committed) of criminal misappropriation, criminal breach of trust, cheating, theft or extortion or any other offence involving fraud or dishonesty, whether as against P or another person;\n(b)the deputy engages or has engaged in conduct that contravenes the deputy’s authority conferred by the court, or that is not in P’s best interests (whether or not the deputy is acting under a court order);\n(c)the deputy proposes to engage in conduct that would contravene the deputy’s authority conferred by the court, or that would not be in P’s best interests (whether or not the deputy is acting under a court order); or\n(d)where the deputy is a professional deputy, the registration of the deputy as a professional deputy is cancelled.\n[10/2016]"
+   }
+  },
+  {
+   "id": "SG-H3153-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 5 GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES"
+   },
+   "heading": {
+    "en": "Powers to make decisions and appoint deputies: minors"
+   },
+   "text": {
+    "en": "21.—(1) Subject to subsection (2), the powers under section 20 as respects any matter may be exercised even though P has not attained the age of 21 years, if the court considers it likely that P will still lack capacity to make decisions in respect of that matter when P attains the age of 21 years.\n(2) When deciding whether it is in P’s best interests to appoint a deputy to make decisions on P’s behalf, the court must have regard (in addition to the matters mentioned in section 20) to the principle that an appointment of the parents or guardian of P as deputy is to be preferred to the appointment of any other person as deputy."
+   }
+  },
+  {
+   "id": "SG-H3153-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 5 GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES"
+   },
+   "heading": {
+    "en": "Section 20 powers: personal welfare"
+   },
+   "text": {
+    "en": "22.—(1) The powers under section 20 as respects P’s personal welfare include —\n(a)deciding where P is to live;\n(b)deciding what contact (if any) P is to have with any specified person;\n(c)making an order prohibiting a named person from having contact with P;\n(d)subject to subsection (3), giving or refusing consent to the carrying out or continuation of a treatment (including the conduct of a clinical trial) by a person providing health care for P;\n(e)giving, refusing or revoking of appropriate consent involving P under the Human Biomedical Research Act 2015; and\n(f)giving a direction that a person responsible for P’s health care allow a different person to take over that responsibility.\n[29/2015]\n(2) Subsection (1) —\n(a)is subject to section 25 (restrictions on deputies); and\n(b)does not affect any other order or decision which may be made by the court or deputy under any other written law.\n(3) Nothing in subsection (1)(d) affects the operation of the Advance Medical Directive Act 1996."
+   }
+  },
+  {
+   "id": "SG-H3153-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 5 GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES"
+   },
+   "heading": {
+    "en": "Section 20 powers: property and affairs"
+   },
+   "text": {
+    "en": "23.—(1) Subject to this section, the powers under section 20 as respects P’s property and affairs include —\n(a)the control and management of P’s property;\n(b)the sale, exchange, charging, gift or other disposition of P’s property;\n(c)the acquisition of property in P’s name or on P’s behalf;\n(d)the carrying on, on P’s behalf, of any profession, trade or business;\n(e)the taking of a decision which will have the effect of dissolving a partnership of which P is a member;\n(f)the carrying out of any contract entered into by P;\n(g)the discharge of P’s debts and of any of P’s obligations, whether legally enforceable or not;\n(h)the settlement of any of P’s property by way of trust, whether for P’s benefit or for the benefit of others;\n(i)the making, on P’s behalf, of any nomination under section 132(2) or 133(2) of the Insurance Act 1966;\n(j)where any nomination under section 132(2) or 133(2) of the Insurance Act 1966 has been made by P or on P’s behalf, the revoking, on P’s behalf, of that nomination under section 132(7) or 133(4) (as the case may be) of that Act;\n(k)the execution for P of a will;\n(l)the executing under section 15(6A) or 25(1) of the Central Provident Fund Act 1953, on P’s behalf, of any memorandum under section 25(1) of that Act;\n(m)where any such memorandum has been executed, or any nomination has been made under section 25(1) of that Act, by P or by the court on P’s behalf, the revoking, on P’s behalf, of that memorandum or nomination, as the case may be;\n(n)the maintenance, education, benefit and advancement of P’s spouse, P’s parent, a child of P below 21 years of age or an intellectually disabled child of P;\n(o)the exercise of any power (including a power to consent) vested in P whether beneficially or as trustee under a trust;\n(p)the conduct of legal proceedings in P’s name or on P’s behalf.\n(2) Without affecting section 20(3), the court, in making an order for the disposition or settlement of P’s property under subsection (1)(b) or (h), must have regard to the principle in section 6(7).\n(3) No will may be made under subsection (1)(k) at a time when P has not attained the age of 21 years.\n(4) The provisions of the Second Schedule supplement the provisions of this section.\n(5) Section 20(7) is subject to paragraph 6 of the Second Schedule.\n(6) Subsection (1) is subject to section 25 (restrictions on deputies)."
+   }
+  },
+  {
+   "id": "SG-H3153-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 5 GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES"
+   },
+   "heading": {
+    "en": "Appointment of deputies"
+   },
+   "text": {
+    "en": "24.—(1) A deputy appointed by the court must be —\n(a)where the appointment confers powers relating only to P’s property and affairs —\n(i)an individual who has attained the age of 21 years and provides to P the services of a deputy without remuneration;\n(ii)an individual who is a professional deputy and is not related to P by blood or marriage; or\n(iii)a professional deputy who is not an individual; and\n(b)in any other case —\n(i)an individual who has attained the age of 21 years and provides to P the services of a deputy without remuneration; or\n(ii)an individual who is a professional deputy and is not related to P by blood or marriage.\n[10/2016]\n(2) The court may appoint an individual as a deputy by appointing the holder for the time being of a specified office or position.\n(3) A person may not be appointed as a deputy without the person’s consent.\n(4) The court may appoint 2 or more deputies to act —\n(a)jointly;\n(b)jointly and severally; or\n(c)jointly in respect of some matters and jointly and severally in respect of others.\n(5) When appointing a deputy, the court may at the same time appoint one or more other persons to succeed the deputy (each called in this Act a successor deputy) —\n(a)in such circumstances, or on the happening of such events, as may be specified by the court; and\n(b)for such period as may be specified by the court.\n(6) In the case of an application to which section 21 applies, the court is to have regard to the wishes of the parents or guardian of P on the choice of the successor deputy.\n(7) A deputy is to be treated as P’s agent in relation to anything done or decided by the deputy within the scope of the deputy’s appointment and in accordance with this Part.\n(8) A deputy under subsection (1)(a)(i) or (b)(i) is entitled to be reimbursed out of P’s property for the deputy’s reasonable expenses in discharging the deputy’s functions, but is not entitled to remuneration.\n[10/2016]\n(9) A deputy under subsection (1)(a)(ii) or (iii) or (b)(ii) is entitled —\n(a)to be reimbursed out of P’s property for the deputy’s reasonable expenses in discharging the deputy’s functions; and\n(b)to such remuneration, as the court determines, out of P’s property for discharging the deputy’s functions.\n[10/2016]\n(10) The court may confer on a deputy powers to —\n(a)take possession or control of all or any specified part of P’s property;\n(b)exercise all or any specified powers in respect of it, including such powers of investment as the court may determine.\n(11) The court may require a deputy —\n(a)to give to the Public Guardian such security as the court thinks fit for the due discharge of the deputy’s functions; and\n(b)to submit to the Public Guardian such reports at such times or at such intervals as the court may direct."
+   }
+  },
+  {
+   "id": "SG-H3153-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 5 GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES"
+   },
+   "heading": {
+    "en": "Restrictions on deputies"
+   },
+   "text": {
+    "en": "25.—(1) A deputy does not have power to make a decision on behalf of P in relation to a matter if the deputy knows or has reasonable grounds for believing that P has capacity in relation to the matter.\n(2) Nothing in section 20(5) or 22 permits a deputy to be given power —\n(a)to prohibit a named person from having contact with P; or\n(b)to direct a person responsible for P’s health care to allow a different person to take over that responsibility.\n(3) A deputy may not be given powers with respect to —\n(a)the disposition of P’s property by making gifts;\n(b)the making, on P’s behalf, of any nomination under section 132(2) or 133(2) of the Insurance Act 1966;\n(c)where any nomination under section 132(2) or 133(2) of the Insurance Act 1966 has been made by P or by the court on P’s behalf, the revoking, on P’s behalf, of that nomination under section 132(7) or 133(4) (as the case may be) of that Act;\n(d)the execution for P of a will;\n(e)the executing under section 15(6A) or 25(1) of the Central Provident Fund Act 1953, on P’s behalf, of any memorandum under section 25(1) of that Act;\n(f)where any such memorandum has been executed, or any nomination has been made under section 25(1) of that Act, by P or by the court on P’s behalf, the revoking, on P’s behalf, of that memorandum or nomination, as the case may be; or\n(g)the carrying out or continuation of —\n(i)life-sustaining treatment on P, whether or not amounting to extraordinary life-sustaining treatment within the meaning of section 2 of the Advance Medical Directive Act 1996; or\n(ii)any other treatment on P which a person providing health care reasonably believes is necessary to prevent a serious deterioration in P’s condition.\n(4) A deputy may not be given power to make a decision on behalf of P which is inconsistent with a decision made by the donee of a lasting power of attorney granted by P (or, if there is more than one donee, by any of them) that is within the scope of the donee’s authority and in accordance with this Act.\n(5) The authority conferred on a deputy is subject to the provisions of this Act and, in particular, sections 3 (principles) and 6 (best interests).\n(6) A deputy may not do an act that is intended to restrain P unless 4 conditions are satisfied.\n(7) The first condition is that, in doing the act, the deputy is acting within the scope of an authority expressly conferred on the deputy by the court.\n(8) The second condition is that P lacks, or the deputy reasonably believes that P lacks, capacity in relation to the matter in question.\n(9) The third condition is that the deputy reasonably believes that it is necessary to do the act in order to prevent harm to P.\n(10) The fourth condition is that the act is a proportionate response to —\n(a)the likelihood of P’s suffering harm; or\n(b)the seriousness of that harm.\n(11) For the purposes of this section, a deputy restrains P if the deputy —\n(a)uses, or threatens to use, force to secure the doing of an act which P resists; or\n(b)restricts P’s liberty of movement, whether or not P resists,\nor if the deputy authorises another person to do any of those things."
+   }
+  },
+  {
+   "id": "SG-H3153-A25.001",
+   "no": 25.001,
+   "noLabel": {
+    "en": "25A."
+   },
+   "chapter": {
+    "en": "PART 5 GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES"
+   },
+   "heading": {
+    "en": "Professional deputies"
+   },
+   "text": {
+    "en": "25A.—(1) Any person who intends to offer and provide the services of a deputy for remuneration must register with the Public Guardian as a professional deputy.\n[10/2016]\n(2) The Public Guardian may register a person as a professional deputy upon being satisfied that the person meets all the prescribed criteria.\n[10/2016]\n(3) A professional deputy’s registration under this section may be subject to such terms and conditions as the Public Guardian may specify.\n[10/2016]\n(4) The Public Guardian may cancel the registration of a professional deputy at the professional deputy’s request or upon the occurrence of any prescribed event.\n[10/2016]\n(5) Before cancelling a professional deputy’s registration upon the occurrence of any prescribed event, the Public Guardian must give the professional deputy written notice of the intention to cancel the registration.\n[10/2016]\n(6) The professional deputy may make representations to the Public Guardian within the prescribed period after receiving the notice in subsection (5).\n[10/2016]\n(7) The Public Guardian must consider any representations made by the professional deputy under subsection (6) before making a decision.\n[10/2016]\n(8) The Public Guardian must inform the professional deputy in writing of the decision within the prescribed period after the end of the period in subsection (6) for making representations.\n[10/2016]\n(9) Any person who is aggrieved by the Public Guardian’s refusal to register the person as a professional deputy or cancellation of the person’s registration as a professional deputy may within the prescribed period appeal to the Minister, whose decision is final.\n[10/2016]\n(10) Where a person’s registration as a professional deputy is cancelled, the Public Guardian must within the prescribed period inform all the following persons of the cancellation:\n(a)where the person has been appointed as a donee in any lasting power of attorney, the donor of the lasting power of attorney;\n(b)the prescribed person or persons, if any.\n[10/2016]"
+   }
+  },
+  {
+   "id": "SG-H3153-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 6 EXCLUDED DECISIONS AND DECLARATORY PROVISIONS"
+   },
+   "heading": {
+    "en": "Excluded decisions"
+   },
+   "text": {
+    "en": "26. Nothing in this Act permits a decision on any of the following matters to be made on behalf of a person:\n(a)consenting to marriage;\n(b)consenting to touching of a sexual nature;\n(c)consenting to a decree of divorce being granted on the basis of 3 years’ separation;\n(d)consenting or revoking consent to the making of an adoption order under the Adoption of Children Act 2022 or any corresponding previous written law;\n[Act 20 of 2022 wef 15/10/2024]\n(e)adopting or renouncing a religion;\n(f)receiving treatment for change of gender;\n(g)consenting or revoking consent to treatment for sexual sterilisation within the meaning of the Voluntary Sterilisation Act 1974;\n(h)consenting or revoking consent to treatment to terminate pregnancy;\n(i)registering or withdrawing an objection under section 8 of the Human Organ Transplant Act 1987 in respect of removal of an organ from the person upon his death;\n(j)making or revoking an advance medical directive under section 3 or 7 of the Advance Medical Directive Act 1996;\n(k)making or revoking a gift of a body or any part thereof under section 3 or 9 of the Medical (Therapy, Education and Research) Act 1972;\n(l)such other matter as may be prescribed."
+   }
+  },
+  {
+   "id": "SG-H3153-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 6 EXCLUDED DECISIONS AND DECLARATORY PROVISIONS"
+   },
+   "heading": {
+    "en": "Mental Health (Care and Treatment) Act 2008 matters"
+   },
+   "text": {
+    "en": "27.—(1) Nothing in this Act authorises anyone —\n(a)to give a patient medical treatment for mental disorder; or\n(b)to consent to a patient’s being given medical treatment for mental disorder,\nif, at the time when it is proposed to treat the patient, his or her treatment is regulated by the Mental Health (Care and Treatment) Act 2008.\n(2) In this section, “treatment” and “mental disorder” have the meanings given by the Mental Health (Care and Treatment) Act 2008."
+   }
+  },
+  {
+   "id": "SG-H3153-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 6 EXCLUDED DECISIONS AND DECLARATORY PROVISIONS"
+   },
+   "heading": {
+    "en": "Voting rights"
+   },
+   "text": {
+    "en": "28. Nothing in this Act permits a decision on voting at an election for any public office, or at a national referendum, to be made on behalf of a person."
+   }
+  },
+  {
+   "id": "SG-H3153-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 6 EXCLUDED DECISIONS AND DECLARATORY PROVISIONS"
+   },
+   "heading": {
+    "en": "Scope of Act"
+   },
+   "text": {
+    "en": "29.—(1) To avoid doubt, it is declared that nothing in this Act is to be taken to affect the law relating to murder, culpable homicide not amounting to murder or abetment of suicide.\n[29/2015]\n(2) To avoid doubt, it is declared that nothing in this Act is to be taken to affect the giving, refusing or revoking of consent on behalf of a person who lacks mental capacity by a person who is expressly authorised to do so under —\n(a)the Human Biomedical Research Act 2015; or\n(b)any written law relating to a clinical trial.\n[29/2015]"
+   }
+  },
+  {
+   "id": "SG-H3153-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 7 PUBLIC GUARDIAN AND BOARD OF VISITORS"
+   },
+   "heading": {
+    "en": "Public Guardian"
+   },
+   "text": {
+    "en": "30.—(1) For the purposes of this Act, there is to be an officer known as the Public Guardian to be appointed by the Minister.\n(1A) The Minister may appoint any number of Assistant Public Guardians that the Minister thinks necessary to assist the Public Guardian in the proper discharge of the Public Guardian’s functions.\n[10/2016]\n(1B) An Assistant Public Guardian may exercise all the powers of the Public Guardian, except the powers exercisable under subsections (3) and (4).\n[10/2016]\n(2) If the Public Guardian is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any reason temporarily unable to perform his or her duties, the Minister may appoint an Assistant Public Guardian or any other person to act in the place of the Public Guardian during any such period of absence from duty.\n[10/2016]\n(3) The Public Guardian may in writing appoint any public officer as an authorised officer for the purposes of this Act.\n(4) The Public Guardian may delegate to any authorised officer all or any of the functions or powers conferred on the Public Guardian by this Act except the powers conferred by this subsection.\n(5) The Public Guardian may disclose information obtained in connection with the administration or execution of this Act to any authorised officer if this is necessary to enable the authorised officer to perform his or her official duties under this Act.\n(6) An authorised officer to whom information under subsection (5) is disclosed may only disclose or use the information to the extent necessary for performing his or her official duties under this Act, but not otherwise.\n(7) Any person who contravenes subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.\n(8) Subsections (5) and (6) do not affect any right of disclosure under this Act or any other written law or rule of law.\n(9) The Public Guardian and every Assistant Public Guardian are deemed to be public servants for the purposes of the Penal Code 1871.\n[10/2016]"
+   }
+  },
+  {
+   "id": "SG-H3153-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 7 PUBLIC GUARDIAN AND BOARD OF VISITORS"
+   },
+   "heading": {
+    "en": "Functions of Public Guardian"
+   },
+   "text": {
+    "en": "31.—(1) The Public Guardian has the following functions:\n(a)establishing and maintaining a register of lasting powers of attorney;\n(b)establishing and maintaining a register of orders appointing deputies;\n(ba)establishing and maintaining a register of professional deputies;\n(c)supervising deputies appointed by the court;\n(d)directing a member of the Board of Visitors to visit —\n(i)a donee of a lasting power of attorney;\n(ii)a deputy appointed by the court; or\n(iii)the person granting the lasting power of attorney or for whom the deputy is appointed (“P”),\nand to make a report to the Public Guardian on such matters as the Public Guardian may direct;\n(e)receiving security which the court requires a person to give for the discharge of the person’s functions;\n(f)receiving reports from donees of lasting powers of attorney and deputies appointed by the court;\n(g)reporting to the court on such matters relating to proceedings under this Act as the court requires;\n(h)dealing with representations (including complaints) about the way in which a donee of a lasting power of attorney or a deputy appointed by the court is exercising the donee’s or the deputy’s powers;\n(i)dealing with representations (including complaints) about any act purportedly carried out under section 10;\n(j)investigating any contravention or alleged contravention of any provision of this Act;\n(k)publishing, in any manner the Public Guardian thinks appropriate, any information he or she thinks appropriate about the discharge of his or her functions;\n[10/2016]\n[Act 16 of 2021 wef 14/11/2022]\n(l)establishing and maintaining the electronic transaction system.\n[Act 16 of 2021 wef 14/11/2022]\n(2) The functions conferred by subsection (1)(c), (h) and (i) may be discharged in cooperation with any other person who has functions relating to the care or treatment or the property and affairs of P.\n(3) The Minister may, by regulations, make provision —\n(a)conferring on the Public Guardian other functions in connection with this Act;\n(b)in connection with the discharge by the Public Guardian of his or her functions.\n(4) Regulations made under subsection (3)(b) may in particular make provision as to —\n(a)the giving of security by deputies appointed by the court and the enforcement and discharge of security so given;\n(b)the fees which the Public Guardian may charge;\n(c)the way in which, and funds from which, such fees are to be paid;\n(d)exemptions from and reductions in such fees;\n(e)remission of such fees in whole or in part; and\n(f)the making of reports to the Public Guardian by deputies appointed by the court and others who are directed by the court to carry out any transaction for a person who lacks capacity."
+   }
+  },
+  {
+   "id": "SG-H3153-A31.001",
+   "no": 31.001,
+   "noLabel": {
+    "en": "31A."
+   },
+   "chapter": {
+    "en": "PART 7 PUBLIC GUARDIAN AND BOARD OF VISITORS"
+   },
+   "heading": {
+    "en": "Public Guardian may interview donor"
+   },
+   "text": {
+    "en": "31A.—(1) If on receiving an application to register an instrument purporting to create a lasting power of attorney, the Public Guardian has reasonable cause to suspect that fraud or undue pressure was used to induce a person (“P”) to —\n(a)execute the instrument; or\n(b)execute the instrument to appoint a particular person as P’s donee,\nthe Public Guardian or an authorised officer mentioned in section 30(3) may require P to appear before the Public Guardian or the authorised officer (as the case may be) at any reasonable time and at any convenient place.\n(2) The Public Guardian or authorised officer may interview P to ascertain whether any fraud or undue pressure was used to induce P to do either of the acts mentioned in subsection (1)(a) or (b).\n(3) Where the Public Guardian has reason to suspect that fraud or undue pressure has been used to induce P to execute an instrument to appoint a particular person as P’s donee, the Public Guardian may disclose to P the following information:\n(a)the number of lasting powers of attorney under which that person is appointed as donee;\n(b)the number of applications pending for the registration of an instrument that appoints that person as a donee under the instrument.\n[Act 16 of 2021 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3153-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 7 PUBLIC GUARDIAN AND BOARD OF VISITORS"
+   },
+   "heading": {
+    "en": "Powers of investigation by Public Guardian"
+   },
+   "text": {
+    "en": "32.—(1) The Public Guardian may, for the purpose of discharging his or her functions under this Act —\n(a)require any person who has any information which relates or is reasonably believed to relate to a person who lacks capacity to provide the Public Guardian with the information;\n(b)require any person who has in the person’s custody or under the person’s control any document which relates or is reasonably believed to relate to a person who lacks capacity —\n(i)to provide the Public Guardian with a copy of or an extract from the document; or\n(ii)unless the document forms part of the records or other documents of a public authority or any court of competent jurisdiction, to provide the Public Guardian with the document itself for his or her inspection; or\n(c)require any person mentioned in paragraph (a) or (b) to attend at a specified time and place to provide such information orally or in writing, or such documents or copies or extracts thereof, as the case may be.\n(2) The Public Guardian is entitled without payment to keep any copy or extract provided under subsection (1).\n(3) Where a document provided for inspection under subsection (1)(b)(ii) is not held by any person entitled to the custody of the document, the Public Guardian may keep it or deliver it to any other person who may be entitled to the custody of the document.\n(4) The Public Guardian has at all times full and free access to all buildings, places, books, papers and electronic computing or storage devices for the purpose of discharging his or her functions under this Act, and may, without payment, inspect, copy or make extracts from any such books, papers or electronic computing or storage devices.\n(5) The Public Guardian may take possession of any book, paper or electronic computing or storage device mentioned in subsection (4), and remove it from any building or place, where in his or her opinion —\n(a)the inspection, copying thereof or extraction therefrom cannot reasonably be performed without taking possession;\n(b)the book, paper or electronic computing or storage device may be interfered with or destroyed unless possession thereof is taken; or\n(c)the book, paper or electronic computing or storage device may be required as evidence in proceedings for an offence under this Act.\n(6) Any person who fails to comply with any requirement specified under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.\n(7) If a person is charged with an offence for failing to comply with any requirement specified under subsection (1), it is a defence for the person to prove that the person had a reasonable excuse for failing to comply with the requirement.\n(8) Any person who —\n(a)knowingly or recklessly provides to the Public Guardian or an authorised officer any information or document which is false or misleading in a material particular; or\n(b)wilfully alters, suppresses, conceals or destroys any document or any part of such document which the person is or may be required to provide under this Act,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.\n(9) Nothing in this section —\n(a)compels a professional legal adviser to disclose or produce a privileged communication, or a document or other material containing a privileged communication, made by or to him or her in that capacity; or\n(b)authorises the taking of any such document or other material which is in his or her possession.\n(10) Subject to subsection (11), the Public Guardian may disclose to another public officer any information received by him or her under or for the purposes of this Act, where the disclosure is made for any purpose —\n(a)connected with the discharge of the functions of the Public Guardian; and\n(b)of enabling or assisting that other public officer to discharge any of his or her functions.\n(11) Where any information disclosed to the Public Guardian under this Act is so disclosed subject to any express restriction on the disclosure of the information by the Public Guardian, the Public Guardian’s power of disclosure under subsection (10) is, in relation to the information, exercisable by the Public Guardian subject to any such restriction."
+   }
+  },
+  {
+   "id": "SG-H3153-A32.001",
+   "no": 32.001,
+   "noLabel": {
+    "en": "32A."
+   },
+   "chapter": {
+    "en": "PART 7 PUBLIC GUARDIAN AND BOARD OF VISITORS"
+   },
+   "heading": {
+    "en": "Evidence of transaction with Public Guardian"
+   },
+   "text": {
+    "en": "32A.—(1) Despite any other written law or rule of law, any document prepared by the Public Guardian that —\n(a)consists of information reproduced or extracted from any original document; and\n(b)contains a statement by the Public Guardian that the information is a true reproduction or extract of the original document,\nis in any proceedings admissible in evidence in place of and to the same extent as the original document, unless evidence to the contrary is adduced.\n(2) A copy of an instrument certified by the Public Guardian under paragraph 11 of the First Schedule to be a true copy of the original instrument registered to create a lasting power of attorney is —\n(a)evidence of the contents of the original instrument on the date and time specified on that copy; and\n(b)evidence of the registration of the instrument by the Public Guardian on the date and time specified on that copy.\n(3) In this section, “original document” means a document that is filed or lodged with, submitted to, or issued by, the Public Guardian.\n[Act 16 of 2021 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3153-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 7 PUBLIC GUARDIAN AND BOARD OF VISITORS"
+   },
+   "heading": {
+    "en": "Appointment of auditors"
+   },
+   "text": {
+    "en": "33.—(1) Without affecting the Public Guardian’s functions and powers under this Act, the Public Guardian may appoint in writing an auditor to assist the Public Guardian in examining, either generally or in relation to any particular matter —\n(a)any report of a donee of a lasting power of attorney or of a deputy appointed by the court; and\n(b)any book, document, electronic computing or storage device or information obtained or received by the Public Guardian in the discharge or exercise of the Public Guardian’s functions or powers under this Act.\n[10/2016]\n(2) A person is not qualified for appointment as an auditor under subsection (1) unless the person is a public accountant who is registered or deemed to be registered under the Accountants Act 2004.\n[10/2016]\n(3) For the purposes of this section, the Public Guardian may disclose to an auditor appointed under subsection (1) any book, document, electronic computing or storage device or information obtained or received by the Public Guardian under this Act, where the disclosure is necessary to enable the auditor to carry out an examination under subsection (1).\n[10/2016]\n(4) The auditor must, upon completion of the examination under subsection (1), submit a report to the Public Guardian.\n[10/2016]"
+   }
+  },
+  {
+   "id": "SG-H3153-A33.001",
+   "no": 33.001,
+   "noLabel": {
+    "en": "33A."
+   },
+   "chapter": {
+    "en": "PART 7 PUBLIC GUARDIAN AND BOARD OF VISITORS"
+   },
+   "heading": {
+    "en": "Rectification or updating on Public Guardian’s initiative"
+   },
+   "text": {
+    "en": "33A.—(1) The Public Guardian may rectify or update any particulars or document in a register kept by the Public Guardian, if the Public Guardian is satisfied that —\n(a)there is an error or a defect in the particulars or document arising from any grammatical, typographical or similar mistake; or\n(b)there is evidence of a conflict between the particulars of a person and —\n(i)any other information in the register relating to that person; or\n(ii)any other information relating to that person obtained from any Singapore public sector agency that may be prescribed.\n(2) Before the Public Guardian rectifies or updates a register under subsection (1), the Public Guardian must, except under prescribed circumstances, give written notice to the person whose particulars or document is to be rectified or updated of the Public Guardian’s intention to do so, and state in the notice —\n(a)the reasons for and details of the proposed rectification or updating to be made to the register; and\n(b)the date by which any written objection to the proposed rectification or updating must be delivered to the Public Guardian, being a date at least 14 days (or any longer prescribed period) after the date of the notice.\n(3) The person notified under subsection (2) may deliver to the Public Guardian, not later than the date specified under subsection (2)(b), a written objection to the proposed rectification or updating of the register.\n(4) The Public Guardian must not rectify or update the register if the Public Guardian receives a written objection under subsection (3) to the proposed rectification or updating of the register by the date specified under subsection (2)(b), unless the Public Guardian is satisfied that the objection is frivolous or vexatious or has been withdrawn.\n(5) The Public Guardian may rectify or update the register if the Public Guardian does not receive a written objection under subsection (3) by the date specified under subsection (2)(b).\n(6) The Public Guardian may include such notation as the Public Guardian thinks fit on a register for the purposes of providing information relating to any error or defect in any particulars or document in the register, and may remove such notation if the Public Guardian is satisfied that it no longer serves any useful purpose.\n(7) Despite anything in this section, the Public Guardian may, if the Public Guardian is satisfied that there is any error or defect in any particulars or document in a register, by written notice, request that the person to which the particulars or document relates take such steps within such time as the Public Guardian may specify to ensure that the error or defect is rectified.\n(8) In this section —\n“document” does not include a lasting power of attorney;\n“register” means —\n(a)a register of lasting powers of attorney;\n(b)a register of orders appointing deputies; or\n(c)a register of professional deputies.\n[Act 16 of 2021 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H3153-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 7 PUBLIC GUARDIAN AND BOARD OF VISITORS"
+   },
+   "heading": {
+    "en": "Protection from personal liability"
+   },
+   "text": {
+    "en": "34. No liability shall lie personally against any of the following individuals who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act:\n(a)the Public Guardian, any Assistant Public Guardian, any authorised officer or any person acting under the direction of the Public Guardian or an Assistant Public Guardian;\n(b)any member of the Board of Visitors;\n(c)any auditor appointed under section 33.\n[10/2016]"
+   }
+  },
+  {
+   "id": "SG-H3153-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 7 PUBLIC GUARDIAN AND BOARD OF VISITORS"
+   },
+   "heading": {
+    "en": "Board of Visitors"
+   },
+   "text": {
+    "en": "35.—(1) The Minister may appoint persons to be members of a Board of Visitors.\n[Act 5 of 2025 wef 09/03/2025]\n(1A) An appointment under subsection (1) must be published in the Gazette.\n[Act 5 of 2025 wef 09/03/2025]\n(2) The Board of Visitors consists of —\n(a)Special Visitors; and\n(b)General Visitors.\n(3) A person is not qualified to be a Special Visitor unless he or she —\n(a)is a registered medical practitioner or appears to the Minister to have other suitable qualifications or training; and\n(b)appears to the Minister to have special knowledge of and experience in cases of impairment of or disturbance in the functioning of the mind or brain.\n(4) A General Visitor need not have a medical qualification.\n(5) A member of the Board of Visitors —\n(a)may be appointed for such term and subject to such conditions; and\n(b)may be paid such remuneration and allowances,\nas the Minister may determine.\n(6) For the purpose of carrying out his or her functions under this Act in relation to a person who lacks capacity (“P”), a member of the Board of Visitors may, at all reasonable times, examine and take copies of —\n(a)any health record; and\n(b)any record held by any person and compiled in connection with a social services function,\nso far as the record relates to P.\n(7) A member of the Board of Visitors may also for that purpose interview P in private."
+   }
+  },
+  {
+   "id": "SG-H3153-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 8 SUPPLEMENTARY POWERS, PRACTICE AND PROCEDURE OF COURT"
+   },
+   "heading": {
+    "en": "Interim orders and directions"
+   },
+   "text": {
+    "en": "36. The court may, pending the determination of an application to it in relation to a person (“P”), make an order or give directions in respect of any matter if —\n(a)there is reason to believe that P lacks capacity in relation to the matter;\n(b)the matter is one to which its powers under this Act extend; and\n(c)it is in P’s best interests to make the order, or give the directions, without delay."
+   }
+  },
+  {
+   "id": "SG-H3153-A36.001",
+   "no": 36.001,
+   "noLabel": {
+    "en": "36A."
+   },
+   "chapter": {
+    "en": "PART 8 SUPPLEMENTARY POWERS, PRACTICE AND PROCEDURE OF COURT"
+   },
+   "heading": {
+    "en": "Orders of suspension"
+   },
+   "text": {
+    "en": "36A.—(1) Despite section 36, on the application of a person mentioned in subsection (2), the court may make an order to suspend, for such period as the court thinks fit, all or any of the powers of P’s donee or deputy (called in this section an order of suspension) even where no application has been made to the court in relation to P.\n[10/2016]\n(2) The following persons may apply to the court for an order of suspension:\n(a)the Public Guardian;\n(b)a person mentioned in section 38(1)(a), (b) or (c);\n(c)any other person, but only with the permission of the court.\n[10/2016]\n(3) The court may make an order of suspension under subsection (1) if the court has reason to believe that —\n(a)P lacks capacity;\n(b)the donee or deputy —\n(i)is charged on or after 30 June 2016 (but not before the donee’s or deputy’s appointment under the lasting power of attorney or by the court, as the case may be) with an offence (whenever committed) of criminal misappropriation, criminal breach of trust, cheating, theft or extortion or any other offence involving fraud or dishonesty, whether as against P or another person; or\n(ii)engages, proposes to engage or has engaged (whether before, on or after 30 June 2016) in conduct that —\n(A)affects the suitability of the donee or deputy concerned to act as a donee or deputy; or\n(B)compromises P’s best interests in relation to P’s personal welfare or P’s property and affairs,\nwhether or not the donee or deputy concerned is acting under a lasting power of attorney or court order, as the case may be; and\n(c)there is a risk of dissipation of P’s property by the donee or deputy concerned if the order of suspension is not made.\n[10/2016]\n(4) The court may make further orders or give directions as the court thinks necessary or expedient for giving effect to, or otherwise in connection with, an order of suspension.\n[10/2016]\n(5) An order of suspension may be varied or discharged by a subsequent order.\n[10/2016]\n(6) In this section, “P” means the person who lacks capacity and —\n(a)before lacking capacity, has conferred a lasting power of attorney on one or more donees; or\n(b)in respect of whom the court has appointed one or more deputies.\n[10/2016]\n(7) In this section —\n(a)where 2 or more donees are appointed under a lasting power of attorney, a reference to the donee is a reference to all or any of the donees; and\n(b)where 2 or more deputies are appointed by the court for P, a reference to the deputy is a reference to all or any of the deputies.\n[10/2016]"
+   }
+  },
+  {
+   "id": "SG-H3153-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 8 SUPPLEMENTARY POWERS, PRACTICE AND PROCEDURE OF COURT"
+   },
+   "heading": {
+    "en": "Power to call for reports"
+   },
+   "text": {
+    "en": "37.—(1) This section applies where, in proceedings brought in respect of a person (“P”), the court is considering a question relating to P.\n(2) The court may require a report to be made to it by the Public Guardian or a member of the Board of Visitors.\n(3) The court may require any person to arrange for a report to be made by one of its officers or employees.\n(4) The report must deal with such matters relating to P as the court may direct.\n(5) The Family Justice Rules may specify matters which, unless the court directs otherwise, must also be dealt with in the report.\n[27/2014]\n(6) The report may be made in writing or orally as the court may direct.\n(7) In complying with a requirement, the Public Guardian or a member of the Board of Visitors may, at all reasonable times, examine and take copies of —\n(a)any health record; and\n(b)any record held by any person and compiled in connection with a social services function,\nso far as the record relates to P.\n(8) If the Public Guardian or a member of the Board of Visitors is making a visit in the course of complying with a requirement, he or she may interview P in private.\n(9) If a member of the Board of Visitors who is a Special Visitor is making a visit in the course of complying with a requirement, he or she may if the court so directs carry out in private a medical, psychiatric or psychological examination of P’s capacity and condition."
+   }
+  },
+  {
+   "id": "SG-H3153-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 8 SUPPLEMENTARY POWERS, PRACTICE AND PROCEDURE OF COURT"
+   },
+   "heading": {
+    "en": "Applications to court"
+   },
+   "text": {
+    "en": "38.—(1) No permission is required for an application to the court for the exercise of any of its powers under this Act —\n(a)by a person who lacks, or is alleged to lack, capacity and, if such a person has not attained the age of 21 years, by anyone with parental rights with respect to the person;\n(b)by the donor or a donee of a lasting power of attorney to which the application relates;\n(c)by a deputy appointed by the court for a person to whom the application relates;\n(d)by a person named in an existing order of the court, if the application relates to the order; or\n(e)by the Public Guardian where it appears to him or her that —\n(i)a person lacks capacity;\n(ii)no application has been made or is likely to be made for an order under this Act; and\n(iii)an order under this Act is necessary for the protection of the personal welfare, property or affairs of the person.\n(2) Subject to the Family Justice Rules, permission is required for any other application to the court.\n[27/2014]\n(3) In deciding whether to grant permission the court is to, in particular, have regard to —\n(a)the applicant’s connection with the person to whom the application relates;\n(b)the reasons for the application;\n(c)the benefit to the person to whom the application relates of the proposed order or directions; and\n(d)whether the benefit can be achieved in any other way."
+   }
+  },
+  {
+   "id": "SG-H3153-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 8 SUPPLEMENTARY POWERS, PRACTICE AND PROCEDURE OF COURT"
+   },
+   "heading": {
+    "en": "Family Justice Rules"
+   },
+   "text": {
+    "en": "39.—(1) The Family Justice Rules Committee constituted under section 46(1) of the Family Justice Act 2014 may make Family Justice Rules —\n(a)to regulate and prescribe the procedure and practice to be followed in respect of proceedings under this Act; and\n(b)to provide for costs and fees of such proceedings, and for regulating any matter relating to the costs of such proceedings.\n[27/2014]\n(2) Without limiting subsection (1), the Family Justice Rules may make provision —\n(a)as to the manner and form in which proceedings are to be commenced;\n(b)as to the persons entitled to be notified of, and be made parties to, the proceedings;\n(c)for enabling the court to appoint a suitable person to act in the name of, or on behalf of, or to represent the person to whom the proceedings relate;\n(d)for enabling an application to the court to be disposed of without a hearing;\n(e)for enabling the court to proceed with, or with any part of, a hearing in the absence of the person to whom the proceedings relate;\n(f)for enabling or requiring the proceedings or any part of them to be conducted in private and for enabling the court to determine who is to be admitted when the court sits in private and to exclude specified persons when it sits in public;\n(g)as to what may be received as evidence (whether or not admissible apart from the Family Justice Rules) and the manner in which it is to be presented;\n(h)for the enforcement of orders made and directions given in the proceedings;\n(i)for regulating matters relating to the costs of those proceedings, including prescribing scales of costs to be paid to legal or other representatives;\n(j)as to the way in which, and funds from which, fees and costs are to be paid;\n(k)for charging fees and costs upon the estate of the person to whom the proceedings relate, if such charge does not cause any interest of the person in any property to fail or determine or to be prevented from recommencing;\n(l)for the payment of fees and costs within a specified time of the death of the person to whom the proceedings relate or the conclusion of the proceedings.\n[27/2014]\n(3) The Family Justice Rules may, instead of providing for any matter, refer to provision made or to be made about that matter by practice directions issued for the time being by the registrar of the Family Justice Courts.\n[27/2014]"
+   }
+  },
+  {
+   "id": "SG-H3153-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 8 SUPPLEMENTARY POWERS, PRACTICE AND PROCEDURE OF COURT"
+   },
+   "heading": {
+    "en": "Costs"
+   },
+   "text": {
+    "en": "40.—(1) Subject to the Family Justice Rules, the costs of and incidental to all proceedings in the court are in its discretion.\n[27/2014]\n(2) The court has full power to determine by whom and to what extent the costs are to be paid.\n(3) The court may, in any proceedings —\n(a)disallow; or\n(b)order the legal or other representatives concerned to meet,\nthe whole of any wasted costs or such part of them as may be determined in accordance with the Family Justice Rules.\n[27/2014]\n(4) In subsection (3) —\n“legal or other representative”, in relation to a party to proceedings, means any person exercising a right of audience or right to conduct litigation on the party’s behalf;\n“wasted costs” means any costs incurred by a party —\n(a)as a result of any improper, unreasonable or negligent act or omission on the part of any legal or other representative or any employee of such a representative; or\n(b)which, in the light of any such act or omission occurring after they were incurred, the court considers it is unreasonable to expect that party to pay."
+   }
+  },
+  {
+   "id": "SG-H3153-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Codes of practice"
+   },
+   "text": {
+    "en": "41.—(1) The Minister may issue one or more codes of practice —\n(a)for the guidance of persons assessing whether a person has capacity in relation to any matter;\n(b)for the guidance of persons acting in connection with the care or treatment of another person;\n(c)for the guidance of donees of lasting powers of attorney;\n(d)for the guidance of deputies appointed by the court; and\n(e)with respect to such other matters concerned with this Act as the Minister thinks fit.\n(2) The Minister may publish any such code of practice, including any revocation, variation, revision or amendment thereto in such manner as the Minister thinks fit.\n(3) The Minister may revoke, vary, revise or amend the whole or any part of any code of practice issued under this section in such manner as the Minister thinks fit.\n(4) The Minister may delegate any power under this section so far as he or she considers expedient.\n(5) It is the duty of a person to have regard to any relevant code if the person is acting in relation to a person who lacks capacity and is doing so in one or more of the following ways:\n(a)as the donee of a lasting power of attorney;\n(b)as a deputy appointed by the court;\n(c)in a professional capacity;\n(d)for remuneration.\n(6) If it appears to a court conducting any civil or criminal proceedings that —\n(a)a provision of a code of practice; or\n(b)a failure to comply with a code of practice,\nis relevant to a question arising in the proceedings, the provision or failure must be taken into account in deciding the question.\n(7) To avoid doubt, any code of practice issued under this section is deemed not to be subsidiary legislation."
+   }
+  },
+  {
+   "id": "SG-H3153-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Ill-treatment"
+   },
+   "text": {
+    "en": "42.—(1) Subsection (2) applies if a person (“D”) —\n(a)has the care of a person (“P”) who lacks, or whom D reasonably believes to lack, capacity;\n(b)is the donee of a lasting power of attorney created by P; or\n(c)is a deputy appointed by the court for P,\nand P is 16 years of age or above.\n(2) D shall be guilty of an offence if D ill-treats or causes, procures or knowingly permits P to be ill-treated by any other person.\n(3) For the purposes of this section, D ill-treats P if D —\n(a)subjects P to physical or sexual abuse;\n(b)wilfully or unreasonably does, or causes P to do, any act which endangers or is likely to endanger the safety of P or which causes or is likely to cause P —\n(i)any unnecessary physical pain, suffering or injury;\n(ii)any emotional injury; or\n(iii)any injury to P’s health or development; or\n(c)wilfully or unreasonably neglects, abandons or exposes P with full intention of abandoning P or in circumstances that are likely to endanger the safety of P or to cause P —\n(i)any unnecessary physical pain, suffering or injury;\n(ii)any emotional injury; or\n(iii)any injury to P’s health or development.\n(4) For the purpose of subsection (3)(c), D is deemed to have neglected P in circumstances likely to cause P unnecessary physical pain, suffering or injury or emotional injury or injury to P’s health or development if D wilfully or unreasonably neglects to provide adequate food, clothing, medical aid, lodging, care or other necessities of life for P.\n(5) D may be convicted of an offence under this section notwithstanding —\n(a)that any actual suffering or injury on the part of P or the likelihood of any suffering or injury on the part of P was obviated by the action of another person; or\n(b)the death of P.\n(6) Subject to subsection (7), any person who is guilty of an offence under this section shall be liable on conviction —\n(a)in the case where death is caused to P, to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 14 years or to both; and\n(b)in any other case, to a fine not exceeding $8,000 or to imprisonment for a term not exceeding 8 years or to both.\n[15/2019]\n(7) The court may, in lieu of or in addition to any punishment specified in subsection (6), order the person guilty of an offence under this section to execute a bond, with or without sureties, as the court may determine, to be of good behaviour for such period as the court thinks fit, and may include in such bond a condition requiring the person to undergo such counselling, psychotherapy or other programme as may be specified therein.\n(8) If a person who is ordered to execute a bond of good behaviour under subsection (7) fails to comply with any of the conditions of the bond, the person shall —\n(a)if the bond is in lieu of a penalty under subsection (6), be liable to the penalty provided for in that subsection; or\n(b)if the bond is in addition to a penalty under subsection (6), be liable to a further fine not exceeding $20,000 or to a further term of imprisonment not exceeding 7 years or to both.\n(9) In this section, “court” means any court of competent jurisdiction."
+   }
+  },
+  {
+   "id": "SG-H3153-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Information relating to persons who lack capacity"
+   },
+   "text": {
+    "en": "43.—(1) Any person who knows or has reason to suspect that a person who lacks capacity is in need of care or protection may make a notification to the Public Guardian of the facts and circumstances on which the person’s knowledge or suspicion is based.\n(2) Any health care worker who makes a notification under subsection (1) —\n(a)may not, by virtue of doing so, be held in any proceedings before any court or tribunal or in any other respect to have breached any code of professional etiquette or ethics, or to have departed from any accepted form of professional conduct; and\n(b)insofar as he or she has acted in good faith, shall incur no civil or criminal liability in respect of the notification or the provision of any information contained in the notification.\n(3) In subsection (2), “health care worker” means any registered medical practitioner, dentist registered under the Dental Registration Act 1999, pharmacist registered under the Pharmacists Registration Act 2007, therapist, psychologist, social worker, counsellor, nurse, attendant or other person providing health care services.\n(4) Any person appearing as a witness in any proceedings in any court or tribunal or before a person authorised by law to hear evidence may not be compelled —\n(a)to disclose the identity of any person who has made a notification under subsection (1), or any information likely to lead to the disclosure of the identity of such a person; or\n(b)to produce any report or document which identifies, or is likely to identify, any person who has made a notification under subsection (1).\n(5) In this section, “court” means any court of competent jurisdiction."
+   }
+  },
+  {
+   "id": "SG-H3153-A43.001",
+   "no": 43.001,
+   "noLabel": {
+    "en": "43A."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Notification of change of address"
+   },
+   "text": {
+    "en": "43A.—(1) Subject to subsection (2), every donor and donee of a lasting power of attorney and every deputy appointed by the court must inform the Public Guardian in writing of —\n(a)where the donor, donee or deputy is an individual — any change in the place of residence of the donor, donee or deputy, as the case may be; and\n(b)where the donee or deputy is a person other than an individual — any change in the registered business address of the donee or deputy, as the case may be.\n[10/2016]\n(2) If a donor, donee or deputy changes his or her place of residence and reports the change under section 10 of the National Registration Act 1965, that donor, donee or deputy (as the case may be) is taken to have informed the Public Guardian of the change of that place of residence in accordance with subsection (1)(a).\n[10/2016]\n(3) Where a person (“P”) lacks capacity, a donee of a lasting power of attorney created by P or a deputy appointed by the court for P, as the case may be, may on P’s behalf inform the Public Guardian in writing of any change in P’s place of residence.\n[10/2016]"
+   }
+  },
+  {
+   "id": "SG-H3153-A43.002",
+   "no": 43.002,
+   "noLabel": {
+    "en": "43B."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "General exemption"
+   },
+   "text": {
+    "en": "43B. The Minister may, by order in the Gazette, exempt any person or class of persons from all or any provisions of this Act or the regulations, either generally or in a particular case and subject to such conditions as the Minister may impose.\n[10/2016]"
+   }
+  },
+  {
+   "id": "SG-H3153-A43.003",
+   "no": 43.003,
+   "noLabel": {
+    "en": "43C."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "43C.—(1) A document that is permitted or required by this Act to be served by the Public Guardian on a person may be served as described in this section.\n(2) This section does not apply to documents to be served in proceedings in court for an offence or any other matter under this Act.\n(3) Subject to subsections (2), (6), (7), (8) and (9), a document may be served on an individual —\n(a)by giving it to the individual personally;\n(b)by sending it by prepaid registered post or ordinary post to the address specified by the individual for the service of documents or, if no address is so specified, the individual’s residential address or business address;\n(c)by leaving it at the individual’s residential address with an adult person apparently residing there, or at the individual’s business address with an adult person apparently employed there;\n(d)by affixing a copy of the document in a conspicuous place at the individual’s residential address or business address;\n(e)by sending it by fax to the fax number given by the individual as the fax number for the service of documents under this Act;\n(f)by sending it by email to the individual’s email address; or\n(g)by sending it to the individual’s account with the electronic transaction system and notifying the individual of this fact by —\n(i)email to the individual’s email address; or\n(ii)an electronic notice to the individual’s mobile telephone number via short message service.\n(4) Subject to subsections (2), (6), (7), (8) and (9), a document may be served on a partnership (other than a limited liability partnership) —\n(a)by giving it to any partner or other similar officer of the partnership;\n(b)by leaving it at, or by sending it by prepaid registered post or ordinary post to, the partnership’s business address;\n(c)by sending it by fax to the fax number used at the partnership’s business address;\n(d)by sending it by email to the partnership’s email address; or\n(e)by sending it to the partnership’s account with the electronic transaction system and notifying the partnership of this fact by —\n(i)email to the partnership’s email address; or\n(ii)an electronic notice to the partnership’s mobile telephone number via short message service.\n(5) Subject to subsections (2), (6), (7), (8) and (9), a document may be served on a body corporate (including a limited liability partnership) or an unincorporated association —\n(a)by giving it to the secretary or other similar officer of the body corporate or unincorporated association, or the limited liability partnership’s manager;\n(b)by leaving it at, or by sending it by prepaid registered post or ordinary post to, the body corporate’s or unincorporated association’s registered office or principal office in Singapore;\n(c)by sending it by fax to the fax number used at the body corporate’s or unincorporated association’s registered office or principal office in Singapore;\n(d)by sending it by email to the body corporate’s or unincorporated association’s email address; or\n(e)by sending it to the body corporate’s or unincorporated association’s account with the electronic transaction system and notifying the body corporate or unincorporated association of this fact by —\n(i)email to the body corporate’s or unincorporated association’s email address; or\n(ii)an electronic notice to the body corporate’s or unincorporated association’s mobile telephone number via short message service.\n(6) A document may only be served on a person by sending it to the person’s account with the electronic transaction system and notifying the person of this fact by an electronic notice to the person’s mobile telephone number via short message service under subsection (3)(g)(ii), (4)(e)(ii) or (5)(e)(ii) if the person has —\n(a)given written consent to the Public Guardian to serve any document using that manner of service; and\n(b)provided the person’s mobile telephone number to the Public Guardian for this purpose.\n(7) Where a person has given the person’s written consent to the Public Guardian under subsection (6)(a) and provided the person’s mobile telephone number to the Public Guardian under subsection (6)(b), and there is a change to the person’s mobile telephone number, the person must, as soon as practicable but not later than the prescribed period, give notice to the Public Guardian of such change in any manner and form that the Public Guardian requires.\n(8) Each of the following notices may not be served by sending it to the person’s account with the electronic transaction system and notifying the person of this fact by an electronic notice to the person’s mobile telephone number via short message service under subsection (3)(g)(ii), (4)(e)(ii) or (5)(e)(ii):\n(a)a notice under section 11(5)(b) or (c);\n(b)a notice under paragraph 5 of the First Schedule;\n(c)a notice of cancellation of registration of an instrument as a lasting power of attorney under paragraph 12(2) of the First Schedule;\n(d)a notice to inform a person of the Public Guardian’s refusal to register the person as a professional deputy under section 25A;\n(e)a notice of intention to cancel the registration of a professional deputy under section 25A(5);\n(f)a notice of intention to rectify a register under section 33A(2).\n(9) The notices mentioned in subsection (8)(a) and (c) to (f) may not be served by ordinary post.\n(10) Service of a document on a person under this section takes effect —\n(a)if the document is sent by prepaid registered post — on the second day after the day the document was posted (even if it is returned undelivered);\n(b)if the document is sent by fax and a notification of successful transmission is received — on the day of the transmission;\n(c)if the document is sent by email — at the time that the email becomes capable of being retrieved by the person at the email address of the person; or\n(d)if the document is sent to the person’s account with the electronic transaction system — at the time when an electronic record of the document reaches the person’s account.\n(11) In this section —\n“business address” means —\n(a)in the case of an individual, the individual’s usual or last known place of business in Singapore; and\n(b)in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore;\n“email address” means the last email address given by the addressee concerned to the Public Guardian as the email address for the service of documents under this Act;\n“mobile telephone number” means the last mobile telephone number given by the addressee concerned to the Public Guardian as the mobile telephone number for the service of an electronic notice under subsection (3)(g)(ii), (4)(e)(ii) or (5)(e)(ii);\n“person”, in respect of which a document may be served, includes a partnership and an unincorporated association;\n“residential address” means an individual’s usual or last known place of residence in Singapore.\n[Act 16 of 2021 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3153-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Jurisdiction of District Court"
+   },
+   "text": {
+    "en": "44. Despite any provision to the contrary in the Criminal Procedure Code 2010, a District Court has jurisdiction to try any offence under this Act and has power to impose the full penalty or punishment in respect of the offence."
+   }
+  },
+  {
+   "id": "SG-H3153-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Amendment of Schedules"
+   },
+   "text": {
+    "en": "45. The Minister may, by order in the Gazette, amend, add to or vary the First, Second or Third Schedule."
+   }
+  },
+  {
+   "id": "SG-H3153-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "46.—(1) The Minister may make such regulations as may be necessary or expedient for carrying out the purposes and provisions of this Act and for prescribing anything that may be required or authorised to be prescribed by this Act.\n[10/2016]\n(2) The regulations made under subsection (1) may, in particular —\n(a)prescribe different classes of professional donees, and provide for matters relating to professional donees;\n[Act 16 of 2021 wef 14/11/2022]\n(b)provide for matters relating to professional deputies, including but not limited to their duties, the registration of professional deputies by the Public Guardian, applications for registration, exemptions from one or more criteria for registration and cancellation of registration;\n[10/2016]\n[Act 16 of 2021 wef 14/11/2022]\n(c)prescribe the form and manner in which any prescribed notice is required to be given by any person to the Public Guardian, or to be given by a donor to a donee or vice versa;\n[Act 16 of 2021 wef 14/11/2022]\n(d)prescribe the persons who may be given access by the Public Guardian to view a lasting power of attorney on the electronic transaction system or obtain any information on any particular lasting power of attorney, and the requirements that must be satisfied before the Public Guardian may give such access or information, as the case may be; and\n[Act 16 of 2021 wef 14/11/2022]\n(e)contain such supplementary and incidental provisions as appear to the Minister to be appropriate for carrying out the purposes of Part 3A*.\n[*Updated to be consistent with the 2020 Revised Edition]\n[Act 16 of 2021 wef 14/11/2022]\n(3) For the purposes of subsection (2)(c), a different form and manner may be prescribed for any notice to be given to the Public Guardian or donor or donee under different circumstances.\n[Act 16 of 2021 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3153-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Savings and transitional provisions"
+   },
+   "text": {
+    "en": "47. The provisions of the Third Schedule have effect with respect to transitional matters arising from the repeal of Part I of the Mental Disorders and Treatment Act (Cap. 178, 1985 Revised Edition)."
+   }
+  },
+  {
+   "id": "SG-H3153-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nSections 11(2), (2A) and (3), 12(6) and (7), 16(1), 32A(2), 43C(8) and 45\nLasting powers of attorney: formalities\nPart 1\nMAKING INSTRUMENTS\nGeneral requirements as to making instruments\n1.—(1) An instrument is not made in accordance with this Schedule unless —\n(a)subject to paragraph 3 —\n(i)it is made using the electronic transaction system and is in the prescribed form provided in the electronic transaction system; or\n(ii)in a case where section 11(2A) applies — it is in any of the forms provided at the prescribed website;\n(b)it complies with paragraph 2;\n(c)the donor executes the instrument in the presence of a witness, who must be a person mentioned in paragraph 2(1)(e), and must attest the donor’s execution of the instrument; and\n(d)all the prescribed requirements in connection with its execution are satisfied.\n(2) Regulations made under section 46 may make different provision according to whether —\n(a)the instrument relates to personal welfare or to property and affairs (or to both); or\n(b)only one or more than one donee is to be appointed (and if more than one, whether jointly or jointly and severally).\nRequirements as to content of instruments\n2.—(1) The instrument must include —\n(a)the information specified in any of the forms mentioned in paragraph 1(1)(a) about the purpose of the instrument and the effect of a lasting power of attorney;\n(b)a statement by the donor to the effect that the donor —\n(i)has read the information mentioned in sub-paragraph (a) (or has had it read to the donor); and\n(ii)intends the authority conferred under the instrument to mean authority to make decisions on the donor’s behalf in circumstances where the donor no longer has capacity;\n(c)a statement by the donee (or if there is more than one donee, each of them) to the effect that the donee —\n(i)has read the information mentioned in sub-paragraph (a) (or has had it read to the donee); and\n(ii)understands the duties imposed on a donee of a lasting power of attorney under sections 3 (the principles) and 6 (best interests);\n(d)a statement by the replacement donee (if any) or if there is more than one replacement donee, each of them, to the effect that the replacement donee —\n(i)has read the information mentioned in sub-paragraph (a) (or has had it read to the replacement donee); and\n(ii)understands the duties imposed on a donee of a lasting power of attorney under sections 3 (the principles) and 6 (best interests);\n(e)a certificate by a person of a prescribed description that, in the person’s opinion, at the time when the donor executes the instrument —\n(i)the donor understands the purpose of the instrument and the scope of the authority conferred under it;\n(ii)no fraud or undue pressure is being used to induce the donor to create a lasting power of attorney; and\n(iii)there is nothing else which would prevent a lasting power of attorney from being created by the instrument; and\n(f)a statement by the person mentioned in sub-paragraph (e) that the person witnessed the donor’s execution of the instrument.\n(2) The certificate mentioned in sub-paragraph (1)(e) may not be given by a person appointed as donee under the instrument.\nFailure to comply with form\n3.—(1) If an instrument differs in an immaterial respect in form or mode of expression from any form for an instrument provided at the prescribed website or in the electronic transaction system (as the case may be), it is to be treated by the Public Guardian as sufficient in point of form and expression.\n(2) The court may declare that an instrument which is not in any form for an instrument provided at the prescribed website or in the electronic transaction system (as the case may be) is to be treated as if it were, if the court is satisfied that the persons executing the instrument intended it to create a lasting power of attorney.\n(3) To avoid doubt, an instrument is treated as being made in a form for the instrument provided at the prescribed website or in the electronic transaction system (as the case may be), if it complies with the form that was provided at the prescribed website or in the electronic transaction system (as the case may be) at the time of its making.\nPart 2\nREGISTRATION\nApplications and procedure for registration\n4.—(1) An application to the Public Guardian for the registration of an instrument that is intended to create a lasting power of attorney must be made —\n(a)within 6 months (or any longer period determined by the Public Guardian if the Public Guardian is satisfied that there is good reason for the delay) after the date on which the donor executes the instrument;\n(b)using the electronic transaction system or, in a case where section 10C(2) or 11(2A) applies, in the form provided at the prescribed website; and\n(c)by the donor.\n(2) An application made under sub-paragraph (1) must be accompanied by the instrument.\n(3) Unless waived by the Public Guardian in any particular case, the prescribed fee for the registration of the instrument must be paid in the manner specified by the Public Guardian, within the prescribed period (or any longer period determined by the Public Guardian if the Public Guardian is satisfied that there is good reason for the delay).\n(4) If the prescribed fee is not paid in accordance with sub-paragraph (3), the application is treated as not having been made.\n(5) Subject to paragraphs 7, 8 and 9, the Public Guardian must register the instrument as a lasting power of attorney at the end of the prescribed period if —\n(a)the application complies with sub-paragraphs (1), (2) and (3); and\n(b)the Public Guardian is not aware that any of the following events has occurred:\n(i)the donor has passed away;\n(ii)the instrument is revoked as a result of the donor’s bankruptcy;\n(iii)the donor has revoked the instrument;\n(iv)the instrument is revoked as a result of an event mentioned in section 15(5)(a), (b), (c) or (d).\n(6) A person who, in an application for registration of an instrument, makes a statement which the person knows to be false in a material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.\nNotification to donee\n5. As soon as is practicable after receiving an application by the donor under paragraph 4(1) and determining that the application is in order, the Public Guardian must notify the donee (or donees) that the application has been received.\nNotification requirements\n6. A notice under paragraph 5 must include such information (if any) as may be mentioned at the prescribed website.\nInstrument not made properly or containing ineffective provision\n7.—(1) If it appears to the Public Guardian that an instrument is not made in accordance with section 12A and this Schedule or, in a case where section 11(2A) applies, in accordance with this Schedule, the Public Guardian must not register the instrument unless the court directs the Public Guardian to do so.\n(2) Sub-paragraph (3) applies if the court determines under section 18(1) that the instrument contains a provision which —\n(a)would be ineffective as part of a lasting power of attorney; or\n(b)would prevent the instrument from operating as a valid lasting power of attorney.\n(3) The court must —\n(a)notify the Public Guardian that it has severed the provision; or\n(b)direct the Public Guardian not to register the instrument.\n(4) Where the court notifies the Public Guardian that the court has severed a provision, the Public Guardian must register the instrument with a note to that effect attached to it.\nDeputy already appointed\n8.—(1) Sub-paragraph (2) applies if it appears to the Public Guardian that —\n(a)there is a deputy appointed by the court for the donor; and\n(b)the powers conferred on the deputy would, if the instrument were registered, to any extent conflict with the powers conferred on the attorney.\n(2) The Public Guardian must not register the instrument unless the court directs the Public Guardian to do so.\nObjection by donee\n9.—(1) Sub-paragraph (2) applies if a donee —\n(a)receives a notice under paragraph 5 of an application for the registration of an instrument; and\n(b)before the end of the prescribed period, gives notice to the Public Guardian of an objection to the registration on the ground that an event mentioned in section 15(3) or (5)(a) to (d) has occurred which has revoked the instrument.\n(2) If the Public Guardian is satisfied that the ground for making the objection is established, the Public Guardian must not register the instrument unless the court, on the application of the person applying for the registration —\n(a)is satisfied that the ground is not established; and\n(b)directs the Public Guardian to register the instrument.\n(3) Sub-paragraph (4) applies if a donee —\n(a)receives a notice under paragraph 5 of an application for the registration of an instrument; and\n(b)before the end of the prescribed period —\n(i)makes an application to the court objecting to the registration on a prescribed ground; and\n(ii)notifies the Public Guardian of the application.\n(4) The Public Guardian must not register the instrument unless the court directs the Public Guardian to do so.\nRegistration\n10.—(1) The Public Guardian may register an instrument in any form and manner as the Public Guardian may determine (including in an electronic form and by electronic means).\n(2) Where the Public Guardian registers an instrument under this Schedule, the Public Guardian must give notice of such registration, in the form provided at the prescribed website, to the following persons:\n(a)the donor;\n(b)the donee (or if there is more than one donee, each of them).\nEvidence of registration, etc.\n11. The Public Guardian may, in accordance with any prescribed requirements (if prescribed), give to a person a copy of, or certify a copy of, an instrument registered by the Public Guardian under this Schedule to create a lasting power of attorney.\nPart 3\nCANCELLATION OF REGISTRATION AND\nNOTIFICATION OF SEVERANCE\nCancellation of registration\n12.—(1) The Public Guardian must cancel the registration of an instrument as a lasting power of attorney —\n(a)upon receipt of a notice mentioned in section 15(9)(a), if the Public Guardian is satisfied that the donor has taken such steps as are necessary in law to revoke the lasting power of attorney; or\n(b)on being satisfied that the power has been revoked —\n(i)as a result of the donor’s bankruptcy;\n(ii)as a result of the donor’s death; or\n(iii)on the occurrence of an event mentioned in section 15(5)(a), (b), (c) or (d).\n(2) If the Public Guardian cancels the registration of an instrument, the Public Guardian must notify —\n(a)the donor (except where sub-paragraph (1)(b)(ii) applies); and\n(b)the donee (or if there is more than one donee, each of them).\nDirection by court to cancel registration\n13. The court must direct the Public Guardian to cancel the registration of an instrument as a lasting power of attorney if the court —\n(a)determines under section 17(2)(a) that a requirement for creating the power was not met;\n(b)determines under section 17(2)(b) that the power has been revoked or has otherwise come to an end; or\n(c)revokes the power under section 17(4)(b) or (c).\nCircumstances for severance or cancellation\n14.—(1) Sub-paragraph (2) applies if the court determines under section 18(1) that a lasting power of attorney contains a provision which —\n(a)is ineffective as part of a lasting power of attorney; or\n(b)prevents the instrument from operating as a valid lasting power of attorney.\n(2) The court must —\n(a)notify the Public Guardian that it has severed the provision; or\n(b)direct the Public Guardian to cancel the registration of the instrument as a lasting power of attorney.\nDelivery of instrument on cancellation of registration\n15. On the cancellation of the registration of an instrument that is not made using electronic means, any person who possesses all or any of the following documents must deliver them to the Public Guardian to be destroyed:\n(a)the instrument;\n(b)any copy of the instrument that has been certified by the Public Guardian under paragraph 11.\nPart 4\nRECORDS OF ALTERATIONS IN REGISTERED POWERS\nForms\n16. A reference to a numbered form in paragraphs 17, 18 and 19 is a reference to the current version of the form bearing the corresponding number set out at the prescribed website or in the electronic transaction system.\nPartial revocation of power as a result of bankruptcy\n17.—(1) If in the case of a registered instrument that is in Form 1, it appears to the Public Guardian that under section 15 a lasting power of attorney is revoked in relation to the donor’s property and affairs (but not in relation to other matters), the Public Guardian must attach to the instrument a note to that effect.\n(2) If in the case of a registered instrument that is in Form 2, it appears to the Public Guardian that —\n(a)the donor is bankrupt; or\n(b)an event (other than an event mentioned in sub-paragraph (a)) that is identified in the registered instrument in the manner required by Form 2 as one which would result in the revocation of a lasting power of attorney in relation to the donor’s property and affairs (but not in relation to other matters) has occurred,\nthe Public Guardian must attach to the instrument a note stating this fact.\nTermination of appointment of donee which does not revoke power\n18.—(1) If in the case of a registered instrument that is in Form 1, it appears to the Public Guardian that an event has occurred —\n(a)which has terminated the appointment of a donee; but\n(b)which has not revoked the instrument,\nthe Public Guardian must attach to the instrument a note to that effect.\n(2) If in the case of a registered instrument that is in Form 2, it appears to the Public Guardian that —\n(a)an event mentioned in section 15(5)(a), (b), (c) or (d) has occurred in relation to a donee; or\n(b)an event (other than an event mentioned in sub-paragraph (a)) that is identified in the registered instrument in the manner required by Form 2 as one which would —\n(i)terminate the appointment of a donee; but\n(ii)not revoke the instrument,\nhas occurred,\nthe Public Guardian must attach to the instrument a note stating this fact.\nReplacement of donee\n19.—(1) If in the case of a registered instrument that is in Form 1, it appears to the Public Guardian that a donee has been replaced under the terms of the instrument, the Public Guardian must attach to the instrument a note to that effect.\n(2) If in the case of a registered instrument that is in Form 2 and that appoints one or more replacement donees, it appears to the Public Guardian that —\n(a)an event mentioned in section 15(5)(a), (b), (c) or (d) has occurred in relation to a donee; or\n(b)an event (other than an event mentioned in sub-paragraph (a)) that is identified in the registered instrument in the manner required by Form 2 as one which would replace a donee under the terms of the instrument has occurred,\nthe Public Guardian must attach to the instrument a note stating this fact.\nSeverance of ineffective provisions\n20. If in the case of a registered instrument, the court notifies the Public Guardian under paragraph 14(2)(a) that the court has severed a provision of the instrument, the Public Guardian must attach to the instrument a note to that effect.\nDelivery of instrument for attachment of note\n21.—(1) If the Public Guardian is required to attach a note to a registered instrument (that is not an electronic instrument) under paragraph 7(4), 17, 18, 19 or 20, any person who possesses all or any of the following documents must (if required by the Public Guardian) deliver them to the Public Guardian:\n(a)the instrument;\n(b)any copy of the instrument that has been certified by the Public Guardian under paragraph 11.\n(2) The Public Guardian may attach to the registered instrument, the note in any form and manner as the Public Guardian may determine (including in an electronic form and by electronic means).\nNotification of alterations\n22. If the Public Guardian attaches a note to an instrument under paragraph 7(4), 17, 18, 19 or 20, the Public Guardian must give notice of the note to the donor and the donee or donees of the power (or, as the case may be, to the other donee or donees of the power).\nPart 5\nMISCELLANEOUS\nRecognition of electronic record\n23. To avoid doubt —\n(a)a registered instrument under this Schedule;\n(b)a copy of a registered instrument given by the Public Guardian under this Schedule;\n(c)a copy of a registered instrument certified by the Public Guardian under this Schedule; or\n(d)a note attached to a registered instrument by the Public Guardian under this Schedule,\nis not to be denied legal effect, validity or enforceability solely on the ground that it is in the form of an electronic record.\n[Act 16 of 2021 wef 14/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H3153-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nSections 23(4) and (5) and 45\nProperty and affairs: supplementary provisions\nWills: general\n1. Paragraphs 2, 3 and 4 apply in relation to the execution of a will, by virtue of section 23, on behalf of P.\nProvision that may be made in will\n2. The will may make any provision (whether by disposing of property or exercising a power or otherwise) which could be made by a will executed by P if P had capacity to make it.\nWills: requirements relating to execution\n3.—(1) Sub-paragraph (2) applies if under section 20 the court makes an order or gives directions requiring or authorising a person (called in this paragraph the authorised person) to execute a will on behalf of P.\n(2) Any will executed pursuant to the order or direction must —\n(a)state that it is signed by P acting by the authorised person;\n(b)be signed by the authorised person with the name of P and the authorised person’s own name, in the presence of 2 or more witnesses present at the same time;\n(c)be attested and subscribed by those witnesses in the presence of the authorised person; and\n(d)be sealed with the official seal of the court.\nWills: effect of execution\n4.—(1) This paragraph applies where a will is executed in accordance with paragraph 3.\n(2) The Wills Act 1838 has effect in relation to the will as if it were signed by P by P’s own hand, except that —\n(a)section 6 of that Act does not apply; and\n(b)in the subsequent provisions of that Act any reference to execution in the manner required by that Act is to be read as a reference to execution in accordance with paragraph 3.\n(3) The will has the same effect for all purposes as if —\n(a)P had had the capacity to make a valid will; and\n(b)the will had been executed by P in the manner required by the Wills Act 1838.\n(4) Sub-paragraph (3) does not have effect in relation to the will —\n(a)insofar as it disposes of immovable property outside Singapore; or\n(b)insofar as it relates to any other property or matter if, when the will is executed —\n(i)P is domiciled outside Singapore; and\n(ii)the condition in sub-paragraph (5) is met.\n(5) The condition mentioned in sub-paragraph (4)(b)(ii) is that, under the law of P’s domicile, any question of P’s testamentary capacity would fall to be determined in accordance with the law of a place outside Singapore.\nVesting orders ancillary to settlement, etc.\n5.—(1) If provision is made by virtue of section 23 for —\n(a)the settlement of any property of P; or\n(b)the exercise of a power vested in P of appointing trustees or retiring from a trust,\nthe court may also make as respects the property settled or the trust property such consequential vesting or other orders as the case may require.\n(2) The power under sub-paragraph (1) includes, in the case of the exercise of such a power, any order which could have been made in such a case under Part 5 of the Trustees Act 1967.\nVariation of settlements\n6.—(1) If a settlement has been made by virtue of section 23, the court may by order vary or revoke the settlement if —\n(a)the settlement makes provision for its variation or revocation;\n(b)the court is satisfied that a material fact was not disclosed when the settlement was made; or\n(c)the court is satisfied that there has been a substantial change of circumstances.\n(2) Any order under sub‑paragraph (1) may give such consequential directions as the court thinks fit.\nVesting of property in person appointed outside Singapore\n7.—(1) Sub-paragraph (2) applies if the court is satisfied —\n(a)that under the law prevailing in a place outside Singapore a person (“M”) has been appointed to exercise powers in respect of the property or affairs of P on the ground (however formulated) that P lacks capacity to make decisions with respect to the management and administration of P’s property and affairs; and\n(b)that, having regard to the nature of the appointment and to the circumstances of the case, it is expedient that the court should exercise its powers under this paragraph.\n(2) The court may direct —\n(a)any property situated in Singapore standing in the name of P; or\n(b)any stocks standing in the name of P or the right to receive dividends from such stocks,\nto be transferred into M’s name or otherwise dealt with as required by M, and may give such directions as the court thinks fit for dealing with accrued dividends from the stocks.\n(3) In sub-paragraph (2), “stocks” includes —\n(a)shares; and\n(b)any funds, annuity or security transferable in the books kept by any body corporate or unincorporated company or society or by an instrument of transfer either alone or accompanied by other formalities,\nand “dividends” is to be construed accordingly.\nPreservation of interests in property disposed of on behalf of person lacking capacity\n8.—(1) Sub-paragraphs (2) and (3) apply if —\n(a)P’s property has been disposed of by virtue of section 23;\n(b)under P’s will or intestacy, or by a gift perfected or nomination taking effect on P’s death, any other person would have taken an interest in the property but for the disposal; and\n(c)on P’s death, any property belonging to P’s estate represents the property disposed of.\n(2) The person takes the same interest, if and so far as circumstances allow, in the property representing the property disposed of.\n(3) If the property disposed of was real property, any property representing it is to be treated, so long as it remains part of P’s estate, as if it were real property.\n(4) The court may direct that, on a disposal of P’s property —\n(a)which is made by virtue of section 23; and\n(b)which would apart from this paragraph result in the conversion of personal property into real property,\nproperty representing the property disposed of is to be treated, so long as it remains P’s property or forms part of P’s estate, as if it were personal property.\n(5) References in sub-paragraphs (1) to (4) to the disposal of property are to —\n(a)the sale, exchange, charging of or other dealing (otherwise than by will) with property other than money;\n(b)the removal of property from one place to another;\n(c)the application of money in acquiring property;\n(d)the transfer of money from one account to another,\nand references to property representing property disposed of are to be construed accordingly and as including the result of successive disposals.\n(6) The court may give such directions as appear to it necessary or expedient for the purpose of facilitating the operation of sub-paragraphs (1), (2) and (3), including the carrying of money to a separate account and the transfer of property other than money.\nCharge on property of person lacking capacity\n9.—(1) Sub-paragraph (2) applies if the court has ordered or directed the expenditure of money —\n(a)for carrying out permanent improvements on any of P’s property; or\n(b)otherwise for the permanent benefit of any of P’s property.\n(2) The court may order that —\n(a)the whole of the money expended or to be expended; or\n(b)any part of it,\nis to be a charge on the property either without interest or with interest at a specified rate.\n(3) An order under sub-paragraph (2) may provide for excluding or restricting the operation of paragraph 8(1), (2) and (3).\n(4) A charge under sub-paragraph (2) may be made in favour of such person as may be just and, in particular, where the money charged is paid out of P’s general estate, may be made in favour of a person as trustee for P.\n(5) No charge under sub-paragraph (2) may confer any right of sale or foreclosure during P’s lifetime."
+   }
+  },
+  {
+   "id": "SG-H3153-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nSections 45 and 47\nSavings and transitional provisions\nSaving and transitional provisions\n1.—(1) This paragraph applies where, immediately before 1 March 2010, there is a committee of the person or a committee of the estate (individually referred to as the “committee”) of a person (referred to as “P”) appointed under section 9 of the Mental Disorders and Treatment Act (Cap. 178, 1985 Revised Edition).\n(2) On and after 1 March 2010 —\n(a)the members of the committee are, despite section 24(1), deemed to be deputies appointed by the court to act jointly to make decisions on P’s behalf, but with the powers and functions that the committee had immediately before that date; and\n(b)a reference in any written law to a deputy appointed by the court includes members of the committee which by virtue of sub‑paragraph (a) are deemed to be deputies appointed under this Act.\n(3) On an application to the court by any member of the committee, the court may, without affecting section 20(8), revoke the member’s appointment as P’s deputy.\n(4) Where a member of the committee may not make a decision on behalf of P in relation to a relevant matter by virtue of section 25(1), the member must apply to the court.\n(5) If, on the application, the court is satisfied that P has capacity in relation to the relevant matter —\n(a)it is to revoke the member’s appointment as P’s deputy in relation to that matter; and\n(b)it may, in relation to any other matter, exercise in relation to P any of the powers which it has under sections 19 to 24.\n(6) If the court is not so satisfied, it may exercise in relation to P any of the powers which it has under sections 19 to 24.\n(7) The appointment of a member of the committee as P’s deputy ceases to have effect if P dies.\n(8) “Relevant matter” means a matter in relation to which, immediately before 1 March 2010, the committee was authorised to act on behalf of P.\nOrders, appointments, etc.\n2.—(1) Any order or appointment made, direction or authority given or other thing done under Part I of the Mental Disorders and Treatment Act (Cap. 178, 1985 Revised Edition) before 1 March 2010 and in force immediately before that date continues to have effect despite the repeal of Part I of that Act.\n(2) Insofar as any such order, appointment, direction, authority or thing could have been made, given or done under sections 19 to 25 if those sections had then been in force at the time it was made, given or done —\n(a)it is treated as made, given or done under those sections; and\n(b)the powers of variation and discharge conferred by section 20(7) apply accordingly.\n(3) Sub-paragraph (1) has effect on every order, appointment, direction, authority or thing made, given or done by any committee of the person or estate of a mentally disordered person subject to paragraph 1 of this Schedule.\nPending proceedings\n3.—(1) Any application for the exercise of a power under Part I of the Mental Disorders and Treatment Act (Cap. 178, 1985 Revised Edition) which is pending immediately before 1 March 2010 is treated, insofar as a corresponding power is exercisable under sections 20 to 25, as an application for the exercise of that power.\n(2) For the purposes of sub-paragraph (1), an application for the appointment of a committee of the person or estate of a mentally disordered person is treated as an application for the appointment of the members of the committee as deputies to act jointly to make decisions on behalf of the mentally disordered person.\nCourt records\n4. On or after 1 March 2010, the Public Guardian is, for the purpose of exercising any of his or her functions, to be given such access as he or she may require to such of the records of the court as relate to the appointment of committees of estate or person under the Mental Disorders and Treatment Act (Cap. 178, 1985 Revised Edition).\nAccounts\n5. The Family Justice Rules may provide that, in a case where paragraph 1 applies, the members of the committee have a duty to render accounts —\n(a)while they are members of the committee; and\n(b)after they are discharged.\n[27/2014]"
+   }
+  }
+ ]
+}

@@ -1,0 +1,628 @@
+{
+ "id": "SG-H1234",
+ "title": {
+  "zh": null,
+  "en": "Electronic Transactions (Certification Authority) Regulations 2010",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p16",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ETA2010-RG1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 37,
+ "chars": 36212,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ETA2010-RG1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 37 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1234-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations are the Electronic Transactions (Certification Authority) Regulations 2010."
+   }
+  },
+  {
+   "id": "SG-H1234-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“accreditation” means accreditation granted under these Regulations;\n“accredited certification authority” means a certification authority that is accredited under these Regulations;\n“accreditation mark” means an accreditation mark as set out in the Schedule;\n“subscriber identity verification method” means the method used to verify and authenticate the identity of a subscriber;\n“trusted person” means any person who has —\n(a)direct responsibilities for the day‑to‑day operations, security and performance of those business activities that are regulated under the Act or these Regulations in respect of a certification authority; or\n(b)duties directly involving the issuance, renewal, suspension, revocation of certificates (including the identification of any person requesting a certificate from an accredited certification authority), creation of private keys or administration of a certification authority’s computing facilities."
+   }
+  },
+  {
+   "id": "SG-H1234-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 ACCREDITATION OF CERTIFICATION AUTHORITIES"
+   },
+   "heading": {
+    "en": "Application to be accredited certification authority"
+   },
+   "text": {
+    "en": "3.—(1) Every application to be an accredited certification authority must be made in the form and manner that the Controller may determine and must be supported by —\n(a)the certification practice statement of the certification authority;\n(b)an audit report prepared in accordance with regulations 23 and 34 for compliance with the Compliance Audit Checklist published on the Controller’s Internet website; and\n(c)any information that the Controller may require.\n(2) Upon submitting an application for accreditation, the applicant must pay to the Controller an application fee of $1,000.\n(3) The Controller must, in the form that the Controller may determine, notify the applicant as to whether the application is successful.\n(4) Upon notification that the application is successful, the applicant must pay to the Controller an accreditation fee of $1,000 and, subject to regulation 5, the Controller must grant accreditation to the applicant as an accredited certification authority upon the payment.\n(5) The accreditation is subject to any conditions or restrictions that the Controller may determine.\n(6) The accreditation is valid for 2 years unless cancelled or suspended under the Act or these Regulations.\n(7) The Controller must not refund any fee paid under this regulation if the application is unsuccessful, withdrawn or discontinued, or if the accreditation is cancelled or suspended."
+   }
+  },
+  {
+   "id": "SG-H1234-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 ACCREDITATION OF CERTIFICATION AUTHORITIES"
+   },
+   "heading": {
+    "en": "Renewal of accreditation"
+   },
+   "text": {
+    "en": "4.—(1) Regulation 3 (with the exception of paragraph (2)) applies, with the necessary modifications, to an application for renewal of accreditation under this regulation as it applies to an application for accreditation under regulation 3.\n(2) The Controller may allow applications for renewal of accreditation to be submitted in the form of electronic records subject to any requirements that the Controller may impose.\n(3) If an accredited certification authority intends to renew its accreditation, the certification authority must submit an application for the renewal of its accreditation not later than 3 months before the expiry of its accreditation.\n(4) If an application for renewal is made later than the time prescribed in paragraph (3), the application is deemed to be an application under regulation 3 and the application fee prescribed in regulation 3(2) is payable.\n(5) If the certification authority does not intend to renew its accreditation, the certification authority must —\n(a)inform the Controller in writing not later than 3 months before the expiry of the accreditation;\n(b)inform all its subscribers in writing not later than 2 months before the expiry of the accreditation; and\n(c)advertise such intention in such daily newspapers and in such manner as the Controller may determine, not later than 2 months before the expiry of the accreditation."
+   }
+  },
+  {
+   "id": "SG-H1234-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 3 REFUSAL, CANCELLATION AND SUSPENSION OF ACCREDITATION"
+   },
+   "heading": {
+    "en": "Refusal to grant or renew accreditation"
+   },
+   "text": {
+    "en": "5.—(1) The Controller may refuse to grant or renew an accreditation if —\n(a)the applicant has not complied with any requirement in the Act or these Regulations;\n(b)the applicant has not provided the Controller with any information relating to it or any person employed by or associated with it for the purposes of its business, and to any circumstances likely to affect its method of conducting business, that the Controller may require;\n(c)the applicant or its substantial shareholder is in the course of being wound up or liquidated;\n(d)a receiver or a receiver and manager has been appointed to the applicant or its substantial shareholder;\n(e)the applicant or its substantial shareholder has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation;\n(f)the applicant or its substantial shareholder or any trusted person has been convicted, whether in Singapore or elsewhere, of an offence the conviction for which involved a finding that it, he or she acted fraudulently or dishonestly, or has been convicted of an offence under the Act or these Regulations;\n(g)the Controller is not satisfied as to the qualifications or experience of the trusted person who is to perform duties in connection with the accreditation of the applicant;\n(h)the applicant fails to satisfy the Controller that it is a fit and proper person to be accredited or that all its trusted persons and substantial shareholders are fit and proper persons;\n(i)the Controller has reason to believe that the applicant may not be able to act in the best interest of its subscribers, customers or participants having regard to the reputation, character, financial integrity and reliability of the applicant or any of its substantial shareholders or trusted persons;\n(j)the Controller is not satisfied as to the financial standing of the applicant or its substantial shareholder;\n(k)the Controller is not satisfied as to the record of past performance or expertise of the applicant or its trusted person having regard to the nature of the business which the applicant may carry on in connection with the accreditation;\n(l)there are other circumstances which are likely to lead to the improper conduct of business by, or reflect discredit on the method of conducting the business of, the applicant or its substantial shareholder or any of the trusted persons; or\n(m)the Controller is of the opinion that it is in the interest of the public to do so.\n(2) In paragraph (1), “substantial shareholder”, in relation to an applicant which is a company, has the meaning given by the Companies Act 1967."
+   }
+  },
+  {
+   "id": "SG-H1234-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 REFUSAL, CANCELLATION AND SUSPENSION OF ACCREDITATION"
+   },
+   "heading": {
+    "en": "Cancellation or suspension of accreditation"
+   },
+   "text": {
+    "en": "6.—(1) An accreditation is deemed to be cancelled if the certification authority is wound up.\n(2) The Controller may cancel or suspend the accreditation of a certification authority —\n(a)on any ground on which the Controller may refuse to grant an accreditation under regulation 5;\n(b)if any information furnished in support of the application for the accreditation was false, misleading or inaccurate;\n(c)if the certification authority fails to undergo or pass an audit required under regulation 34;\n(d)if the certification authority fails to comply with a direction of the Controller made under section 23 of the Act;\n(e)if the certification authority is being or will be wound up;\n(f)if the certification authority has entered into any composition or arrangement with its creditors;\n(g)if the certification authority fails to carry on business for which it was accredited;\n(h)if the Controller has reason to believe that the certification authority or its trusted person has not performed its, his or her duties efficiently, honestly or fairly; or\n(i)if the certification authority fails to comply with any condition or restriction applicable in respect of the accreditation.\n(3) The Controller may cancel the accreditation of a certification authority at the request of that certification authority.\n(4) The Controller must not cancel the accreditation under paragraph (2) without first giving the certification authority an opportunity of being heard."
+   }
+  },
+  {
+   "id": "SG-H1234-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 REFUSAL, CANCELLATION AND SUSPENSION OF ACCREDITATION"
+   },
+   "heading": {
+    "en": "Inquiry into allegations of misconduct, etc."
+   },
+   "text": {
+    "en": "7.—(1) The Controller may inquire into any allegation that a certification authority, or an officer or employee of a certification authority, is or has been guilty of any misconduct or is no longer fit to continue to remain accredited by reason of any other circumstances which have led, or are likely to lead, to the improper conduct of business by it or to reflect discredit on the method of conducting business.\n(2) If, after inquiring into an allegation under paragraph (1), the Controller is of the opinion that the allegation is proved, the Controller may if he or she thinks fit —\n(a)cancel the accreditation of the certification authority;\n(b)suspend the accreditation of the certification authority for any period, or until the happening of any event, that the Controller may determine; or\n(c)reprimand the certification authority.\n(3) The Controller must, at the hearing of an inquiry into an allegation under paragraph (1) against a certification authority, give the certification authority an opportunity of being heard.\n(4) Where the Controller is satisfied, after making an inquiry into an allegation under paragraph (1), that the allegation has been made in bad faith or that it is otherwise frivolous or vexatious, the Controller may, by written order, require the person who made the allegation to pay any costs and expenses involved in the inquiry.\n(5) The Controller may issue directions to the certification authority for compliance under section 23 of the Act as a result of making the inquiry.\n(6) For the purposes of this regulation, “misconduct” means —\n(a)any failure to comply with the requirements of the Act or these Regulations or the certification practice statement of the certification authority concerned; and\n(b)any act or omission relating to the conduct of business of the certification authority concerned which is or is likely to be prejudicial to public interest."
+   }
+  },
+  {
+   "id": "SG-H1234-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 REFUSAL, CANCELLATION AND SUSPENSION OF ACCREDITATION"
+   },
+   "heading": {
+    "en": "Effect of cancellation or suspension of accreditation"
+   },
+   "text": {
+    "en": "8.—(1) A certification authority whose accreditation is cancelled or suspended under regulation 6 or 7 is deemed, for the purposes of the Act and these Regulations, not to be accredited from the date that the Controller cancels or suspends the accreditation, as the case may be.\n(2) The cancellation or suspension of the accreditation of a certification authority does not operate so as to —\n(a)avoid or affect any agreement, transaction or arrangement entered into by the certification authority, whether the agreement, transaction or arrangement was entered into before or after the cancellation or suspension of the accreditation; or\n(b)affect any right, obligation or liability arising under any such agreement, transaction or arrangement."
+   }
+  },
+  {
+   "id": "SG-H1234-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 REFUSAL, CANCELLATION AND SUSPENSION OF ACCREDITATION"
+   },
+   "heading": {
+    "en": "Appeal to Minister"
+   },
+   "text": {
+    "en": "9.—(1) Where the Controller —\n(a)refuses to grant or renew an accreditation under regulation 5;\n(b)cancels or suspends an accreditation under regulation 6; or\n(c)cancels or suspends an accreditation, or reprimands a certification authority, under regulation 7,\nany person who is aggrieved by the decision of the Controller may, within 14 days after the person is notified of the decision, appeal to the Minister and the decision of the Minister is final.\n(2) If an appeal is made against a decision made by the Controller, the Controller may, if he or she thinks fit, defer the execution of the decision until the appeal has been decided by the Minister or the appeal is withdrawn.\n(3) In considering whether to defer the execution of the decision, the Controller must have regard to whether the deferment is prejudicial to the interests of any subscriber of the certification authority or any other party who may be adversely affected.\n(4) If an appeal is made to the Minister, a copy of the appeal must be lodged with the Controller."
+   }
+  },
+  {
+   "id": "SG-H1234-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 4 ACCREDITATION REQUIREMENTS"
+   },
+   "heading": {
+    "en": "Business structure"
+   },
+   "text": {
+    "en": "10. An applicant for accreditation must be a company operating in Singapore at the time of the application and throughout the period when it is an accredited certification authority."
+   }
+  },
+  {
+   "id": "SG-H1234-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 4 ACCREDITATION REQUIREMENTS"
+   },
+   "heading": {
+    "en": "Personnel"
+   },
+   "text": {
+    "en": "11.—(1) An applicant for accreditation must, at the time of the application and throughout the period when the applicant is an accredited certification authority, take reasonable measures to ensure that every trusted person —\n(a)is a fit and proper person to carry out the duties assigned to him or her;\n(b)is not an undischarged bankrupt in Singapore or elsewhere, and has not made any composition or arrangement with his or her creditors; and\n(c)has not been convicted, whether in Singapore or elsewhere, of —\n(i)an offence the conviction for which involved a finding that he or she acted fraudulently or dishonestly; or\n(ii)an offence under the Act or these Regulations.\n(2) Despite paragraph (1)(c), the Controller may allow the applicant or accredited certification authority to have a trusted person who has been convicted of an offence mentioned in that paragraph, if the Controller is satisfied that —\n(a)the trusted person is now a fit and proper person to carry out his or her duties; and\n(b)10 years have elapsed from —\n(i)the date of conviction; or\n(ii)the date of release from imprisonment if he or she was sentenced to a term of imprisonment,\nwhichever is the later.\n(3) Every trusted person must —\n(a)have a good knowledge of the Act and these Regulations;\n(b)be trained in the certification authority’s certification practice statement; and\n(c)possess the relevant technical qualifications, expertise and experience to effectively carry out his or her duties."
+   }
+  },
+  {
+   "id": "SG-H1234-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 4 ACCREDITATION REQUIREMENTS"
+   },
+   "heading": {
+    "en": "Certification practice statement"
+   },
+   "text": {
+    "en": "12. An accredited certification authority must have and comply with a certification practice statement approved by the Controller."
+   }
+  },
+  {
+   "id": "SG-H1234-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 5 CONDUCT OF BUSINESS BY ACCREDITED CERTIFICATION AUTHORITIES"
+   },
+   "heading": {
+    "en": "Trustworthy record keeping and archival"
+   },
+   "text": {
+    "en": "13.—(1) An accredited certification authority may keep its records in the form of paper documents or electronic records or any other form approved by the Controller.\n(2) The records must be indexed, stored, preserved and reproduced so as to be accurate, complete, legible and accessible to the Controller, an auditor or an authorised officer."
+   }
+  },
+  {
+   "id": "SG-H1234-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 5 CONDUCT OF BUSINESS BY ACCREDITED CERTIFICATION AUTHORITIES"
+   },
+   "heading": {
+    "en": "Trustworthy transaction logs"
+   },
+   "text": {
+    "en": "14.—(1) Every accredited certification authority must make and keep in a trustworthy manner the records relating to —\n(a)activities in issuance, renewal, suspension and revocation of certificates, including the process of identification of any person requesting a certificate from an accredited certification authority;\n(b)the process of generating subscribers’ (where applicable) or the accredited certification authority’s own key pairs;\n(c)the administration of an accredited certification authority’s computing facilities; and\n(d)any critical related activity of an accredited certification authority that may be determined by the Controller.\n(2) Every accredited certification authority must archive all certificates issued by it and maintain mechanisms to access the certificates for at least 7 years.\n(3) Every accredited certification authority must retain all records required to be kept under paragraph (1) and all logs of the creation of the archive of certificates mentioned in paragraph (2) for at least 7 years."
+   }
+  },
+  {
+   "id": "SG-H1234-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 5 CONDUCT OF BUSINESS BY ACCREDITED CERTIFICATION AUTHORITIES"
+   },
+   "heading": {
+    "en": "Types of certificates"
+   },
+   "text": {
+    "en": "15.—(1) Subject to the approval of the Controller, an accredited certification authority may issue certificates of the following different levels of assurance:\n(a)certificates which are considered as trustworthy certificates for the purposes of paragraph 3(b)(i) of the Third Schedule to the Act;\n(b)certificates which are not considered as trustworthy certificates for the purposes of paragraph 3(b)(i) of the Third Schedule to the Act.\n(2) The accredited certification authority must associate a distinct certification practice statement approved by the Controller for each type of certificate issued.\n(3) The accredited certification authority must draw the attention of subscribers and relying parties to the effect of using and relying on certificates that are not considered trustworthy certificates for the purposes of paragraph 3(b)(i) of the Third Schedule to the Act."
+   }
+  },
+  {
+   "id": "SG-H1234-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 5 CONDUCT OF BUSINESS BY ACCREDITED CERTIFICATION AUTHORITIES"
+   },
+   "heading": {
+    "en": "Issuance of certificates"
+   },
+   "text": {
+    "en": "16.—(1) In addition to the requirements specified in paragraph 14 of the Third Schedule to the Act, every accredited certification authority must comply with the requirements in this regulation in relation to the issuance of certificates.\n(2) The certificate must contain or incorporate by reference information that is sufficient to locate or identify one or more repositories in which notification of the suspension or revocation of the certificate will be listed if the certificate is suspended or revoked.\n(3) The practices and procedures set forth in the certification practice statement of an accredited certification authority must contain conditions with standards higher than those conditions specified in paragraph 14(2) of the Third Schedule to the Act.\n(4) The subscriber identity verification method employed for issuance of certificates must be specified in the certification practice statement and is subject to the approval of the Controller during the application for accreditation.\n(5) Where a certificate is issued to a person (called in this regulation the new certificate) on the basis of another valid certificate held by the same person (called in this regulation the originating certificate) and subsequently the originating certificate has been suspended or revoked, the certification authority that issued the new certificate must conduct investigations to determine whether it is necessary to suspend or revoke the new certificate.\n(6) The accredited certification authority must provide a reasonable opportunity for the subscriber to verify the contents of the certificate before it is accepted.\n(7) If the subscriber accepts the issued certificate, the accredited certification authority must publish a signed copy of the certificate in a repository mentioned in paragraph (2).\n(8) Despite paragraph (7), the accredited certification authority may contractually agree with the subscriber not to publish the certificate.\n(9) If the subscriber does not accept the certificate, the accredited certification authority must not publish it.\n(10) Once the certificate has been issued by the accredited certification authority and accepted by the subscriber, the accredited certification authority must notify the subscriber within a reasonable time of any fact known to the accredited certification authority that significantly affects the validity or reliability of the certificate.\n(11) The date and time of all transactions in relation to the issuance of a certificate must be logged and kept in a trustworthy manner."
+   }
+  },
+  {
+   "id": "SG-H1234-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 5 CONDUCT OF BUSINESS BY ACCREDITED CERTIFICATION AUTHORITIES"
+   },
+   "heading": {
+    "en": "Renewal of certificates"
+   },
+   "text": {
+    "en": "17.—(1) Regulation 16 applies to the renewal of certificates as it applies to the issuance of certificates.\n(2) The subscriber identity verification method must be that specified in the certification practice statement as approved by the Controller.\n(3) The date and time of all transactions in relation to the renewal of a certificate must be logged and kept in a trustworthy manner."
+   }
+  },
+  {
+   "id": "SG-H1234-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 5 CONDUCT OF BUSINESS BY ACCREDITED CERTIFICATION AUTHORITIES"
+   },
+   "heading": {
+    "en": "Suspension of certificates"
+   },
+   "text": {
+    "en": "18.—(1) This regulation applies only to every accredited certification authority which allows subscribers to request for suspension of certificates.\n(2) Every accredited certification authority may provide for immediate revocation instead of suspension if the subscriber has agreed in writing.\n(3) Upon receiving a request for suspension of a certificate under paragraph 16 of the Third Schedule to the Act, the accredited certification authority must ensure that the certificate is suspended and notice of the suspension published in the repository in accordance with paragraph 19 of the Third Schedule to the Act.\n(4) An accredited certification authority may suspend a certificate that it has issued if the accredited certification authority has reasonable grounds to believe that the certificate is unreliable, regardless of whether the subscriber consents to the suspension; but the accredited certification authority must complete its investigation into the reliability of the certificate and decide within a reasonable time whether to reinstate the certificate or to revoke the certificate in accordance with paragraph 17 or 18 of the Third Schedule to the Act.\n(5) It is the responsibility of any person relying on a certificate to check whether a certificate has been suspended.\n(6) An accredited certification authority must suspend a certificate after receiving a valid request for suspension (in accordance with paragraph 16 of the Third Schedule to the Act); but if the accredited certification authority considers that revocation is justified in the light of all the evidence available to it, the certificate must be revoked in accordance with paragraph 17 or 18 of the Third Schedule to the Act.\n(7) An accredited certification authority must check with the subscriber or his or her authorised agent whether the certificate should be revoked and whether to reinstate the certificate after suspension.\n(8) An accredited certification authority must terminate a suspension initiated by request if the accredited certification authority discovers and confirms that the request for suspension was made without authorisation by the subscriber or his or her authorised agent.\n(9) If the suspension of a certificate leads to a revocation of the certificate, the requirements for revocation apply.\n(10) The date and time of all transactions in relation to the suspension of certificates must be logged and kept in a trustworthy manner.\n(11) An accredited certification authority must maintain facilities to receive and act upon requests for suspension at all times of the day and on all days of every year."
+   }
+  },
+  {
+   "id": "SG-H1234-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 5 CONDUCT OF BUSINESS BY ACCREDITED CERTIFICATION AUTHORITIES"
+   },
+   "heading": {
+    "en": "Revocation of certificates"
+   },
+   "text": {
+    "en": "19.—(1) In order to confirm the identity of the subscriber or authorised agent making a request for revocation under paragraph 17(a) of the Third Schedule to the Act, the accredited certification authority must use the subscriber identity verification method specified in the certification practice statement for this purpose.\n(2) An accredited certification authority must, after receiving a request for revocation, verify the request, revoke the certificate and publish notification of it under paragraph 20 of the Third Schedule to the Act.\n(3) An accredited certification authority must maintain facilities to receive and act upon requests for revocation at all times of the day and on all days of every year.\n(4) An accredited certification authority must give notice to the subscriber immediately upon the revocation of a certificate.\n(5) The date and time of all transactions in relation to the revocation of certificates must be logged and kept in a trustworthy manner."
+   }
+  },
+  {
+   "id": "SG-H1234-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 5 CONDUCT OF BUSINESS BY ACCREDITED CERTIFICATION AUTHORITIES"
+   },
+   "heading": {
+    "en": "Expiry date of certificates"
+   },
+   "text": {
+    "en": "20. A certificate must state the date on which it expires."
+   }
+  },
+  {
+   "id": "SG-H1234-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 5 CONDUCT OF BUSINESS BY ACCREDITED CERTIFICATION AUTHORITIES"
+   },
+   "heading": {
+    "en": "Maintenance of certification practice statement"
+   },
+   "text": {
+    "en": "21.—(1) Every accredited certification authority must use the Internet draft of the Internet X.509 Public Key Infrastructure Certificate Policy and Certification Practices Framework, adopted by the Internet Engineering Task Force and reproduced by the Controller on its Internet website, as a guide for the preparation of its certification practice statement.\n(2) Any change to the certification practice statement during the term of the accreditation requires the prior approval of the Controller.\n(3) Every accredited certification authority must highlight to its subscribers any limitation of their liabilities and, in particular, it must draw the subscribers’ attention to the implication of reliance limits on their certificates.\n(4) The subscriber identity verification method for the issuance, renewal, suspension and revocation of a certificate must be specified in the certification practice statement.\n(5) A copy of the latest version of the certification practice statement, together with its effective date, must be filed with the Controller and published on the certification authority’s Internet website accessible to members of the public.\n(6) After the effective date, the latest version filed with the Controller will be the prevailing version for a particular certificate.\n(7) Every accredited certification authority must log all changes to the certification practice statement together with the effective date of each change.\n(8) An accredited certification authority must keep in a trustworthy manner a copy of each version of the certification practice statement, together with the date it came into effect and the date it ceased to have effect."
+   }
+  },
+  {
+   "id": "SG-H1234-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 5 CONDUCT OF BUSINESS BY ACCREDITED CERTIFICATION AUTHORITIES"
+   },
+   "heading": {
+    "en": "Secure digital signatures"
+   },
+   "text": {
+    "en": "22.—(1) The technical implementation of the requirements in paragraph 3 of the Third Schedule to the Act must be such as to ensure that it is computationally infeasible for any person, other than the person to whom the signature correlates, to have created a digital signature which is verified by reference to the public key listed in that person’s certificate.\n(2) The signature on its own should be such as to —\n(a)ensure that the name or other unique identifiable notation of the person to whom the signature correlates be incorporated as part of the signature and cannot be replaced or forged; and\n(b)readily present such indicia of identity to a person intending to rely on the signature.\n(3) The technical implementation should ensure that —\n(a)the steps taken towards the creation of the signature must be under the direction of the person to whom the signature correlates; and\n(b)no other person can reproduce the sequence of steps to create the signature and thereby create a valid signature without the involvement or the knowledge of the person to whom the signature correlates.\n(4) The technical implementation should indicate to a relying party of a signature whether the document or record that the signature purports to sign has been modified in any way and this indication should be revealed in the process of verifying the signature."
+   }
+  },
+  {
+   "id": "SG-H1234-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 5 CONDUCT OF BUSINESS BY ACCREDITED CERTIFICATION AUTHORITIES"
+   },
+   "heading": {
+    "en": "Compliance Audit Checklist"
+   },
+   "text": {
+    "en": "23.—(1) Every accredited certification authority must ensure that in the performance of its services it materially satisfies the Compliance Audit Checklist determined by the Controller and published on the Controller’s Internet website.\n(2) An auditor, when determining whether a departure from the Compliance Audit Checklist is material, must exercise reasonable professional judgment as to whether a condition that does not strictly comply with the Compliance Audit Checklist is or is not material, taking into consideration the circumstances and the system as a whole.\n(3) Without limiting the situations which the auditor may consider to be material, the following incidents of non‑compliance are to be considered to be material:\n(a)any non‑compliance relating to the validity of a certificate;\n(b)the performance of the functions of a trusted person by a person who is not suitably qualified;\n(c)the use by an accredited certification authority of any system other than a trustworthy system.\n(4) The Compliance Audit Checklist must be interpreted in a manner that is reasonable in relation to the context in which a system is used and is consistent with law.\n(5) Despite an auditor’s assessment of whether a departure from the Compliance Audit Checklist is material, the Controller may make his or her own assessment and reach a conclusion for the purpose of paragraph (1) which is at variance with that of the auditor.\n(6) Every accredited certification authority must provide every subscriber with a trustworthy system to generate his or her key pair.\n(7) Every accredited certification authority must provide the mechanism to generate and verify digital signatures in a trustworthy manner and the mechanism provided must also indicate the validity of the signature.\n(8) If the digital signature is not valid, the mechanism provided should indicate if the invalidity is due to the integrity of the document or the signature and the mechanism provided must also indicate the status of the certificate.\n(9) For mechanisms provided by third parties other than the accredited certification authority, the resulting signature is considered secure only if the accredited certification authority endorses the implementation of such mechanisms in conjunction with its certificate.\n(10) Every accredited certification authority is responsible for the storage of keys (including the subscriber’s key and the accredited certification authority’s own key) in a trustworthy manner.\n(11) The Controller may publish on its Internet website further details of the Compliance Audit Checklist for compliance by every accredited certification authority."
+   }
+  },
+  {
+   "id": "SG-H1234-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 5 CONDUCT OF BUSINESS BY ACCREDITED CERTIFICATION AUTHORITIES"
+   },
+   "heading": {
+    "en": "Incident handling"
+   },
+   "text": {
+    "en": "24.—(1) An accredited certification authority must implement an incident management plan that must provide at the least for management of the following incidents:\n(a)compromise of key;\n(b)penetration of certification authority system and network;\n(c)unavailability of infrastructure;\n(d)fraudulent registration and generation of certificates, certificate suspension and revocation information.\n(2) If any incident mentioned in paragraph (1) occurs, it must be reported to the Controller within 24 hours."
+   }
+  },
+  {
+   "id": "SG-H1234-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 5 CONDUCT OF BUSINESS BY ACCREDITED CERTIFICATION AUTHORITIES"
+   },
+   "heading": {
+    "en": "Confidentiality"
+   },
+   "text": {
+    "en": "25.—(1) Every accredited certification authority and its authorised agent must keep all subscriber‑specific information confidential.\n(2) Paragraph (1) does not apply to —\n(a)any disclosure of subscriber‑specific information made —\n(i)with the permission of the subscriber;\n(ii)for the purposes of the administration or enforcement of section 23 or 24 or Part 6 of the Act;\n(iii)for any prosecution under any written law; or\n(iv)in compliance with an order of court or the requirement of any written law; or\n(b)any subscriber‑specific information which —\n(i)is contained in the certificate, or is otherwise provided by the subscriber to the accredited certification authority, for public disclosure; or\n(ii)relates to the fact that the certificate has been suspended or revoked."
+   }
+  },
+  {
+   "id": "SG-H1234-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 5 CONDUCT OF BUSINESS BY ACCREDITED CERTIFICATION AUTHORITIES"
+   },
+   "heading": {
+    "en": "Change in management"
+   },
+   "text": {
+    "en": "26.—(1) An accredited certification authority must notify the Controller within 5 days of any changes in —\n(a)the appointment of any person as a member of its board of directors, its chairperson or its chief executive, or their equivalent; or\n(b)any persons with a controlling interest in the certification authority.\n(2) For the purposes of paragraph (1)(b), a person has a controlling interest in a certification authority if —\n(a)that person has an interest in the voting shares of the certification authority and exercises control over the certification authority; or\n(b)that person has an interest in the voting shares of the certification authority of an aggregate of at least 30% of the total votes attached to all voting shares in the certification authority, unless that person does not exercise control over the certification authority.\n(3) The notification required in relation to paragraph (1)(b) must be in the form that the Controller may require and must include the following information:\n(a)the name of the person with a controlling interest;\n(b)the percentage of the voting shares in the certification authority acquired by that person."
+   }
+  },
+  {
+   "id": "SG-H1234-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 6 REQUIREMENTS FOR REPOSITORY"
+   },
+   "heading": {
+    "en": "Availability of general purpose repository"
+   },
+   "text": {
+    "en": "27.—(1) A general purpose repository must be available at all times of the day and on all days of every year.\n(2) A general purpose repository must ensure that the total aggregate period of any down time in any period of one month does not exceed 0.3% of the period.\n(3) Any down time, whether scheduled or unscheduled, must not exceed 30 minutes duration at any one time."
+   }
+  },
+  {
+   "id": "SG-H1234-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 6 REQUIREMENTS FOR REPOSITORY"
+   },
+   "heading": {
+    "en": "Specific purpose repository"
+   },
+   "text": {
+    "en": "28. Subject to the approval of the Controller, a repository may be dedicated for a specific purpose for which specific hours of operation may be acceptable."
+   }
+  },
+  {
+   "id": "SG-H1234-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 7 ACCREDITATION MARK"
+   },
+   "heading": {
+    "en": "Use of accreditation mark"
+   },
+   "text": {
+    "en": "29. Any person who, not being an accredited certification authority, uses an accreditation mark or a colourable imitation of an accreditation mark shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H1234-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 8 APPLICATION TO PUBLIC AGENCIES"
+   },
+   "heading": {
+    "en": "Application to public agencies"
+   },
+   "text": {
+    "en": "30.—(1) For the purposes of paragraph 3(b)(iii) of the Third Schedule to the Act, a public agency that is approved by the Minister under that paragraph to act as a certification authority must comply with the provisions of the following Parts as if it were an accredited certification authority:\n(a)Part 3 (with the exception of regulations 5, 6, 8 and 9);\n(b)Part 4 (with the exception of regulation 10);\n(c)Part 5 (with the exception of regulation 26);\n(d)Part 6;\n(e)Part 7 (with the exception of regulation 29);\n(f)Part 8;\n(g)Part 9 (with the exception of regulations 35 and 36).\n(2) The provisions mentioned in paragraph (1) apply, with the necessary modifications and any other modifications that the Controller may determine, to a public agency mentioned in that paragraph."
+   }
+  },
+  {
+   "id": "SG-H1234-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 9 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Waiver"
+   },
+   "text": {
+    "en": "31.—(1) Any accredited certification authority that wishes to apply for a waiver of any of the requirements specified in these Regulations may apply in writing to the Controller at the time when it submits an application for accreditation.\n(2) The application must be supported by reasons for the application and include any supporting documents that the Controller may require."
+   }
+  },
+  {
+   "id": "SG-H1234-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 9 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Disclosure"
+   },
+   "text": {
+    "en": "32.—(1) The accredited certification authority must submit half‑yearly progress and financial reports to the Controller.\n(2) The half‑yearly progress reports must include information on —\n(a)the number of subscribers;\n(b)the number of certificates issued, suspended, revoked, expired and renewed;\n(c)system performance including system up and down time and any extraordinary incidents;\n(d)changes in the organisational structure of the certification authority;\n(e)changes since the preceding progress report was submitted or since the application for the accreditation; and\n(f)changes in the particulars of any trusted person since the last submission to the Controller, including the name, identification number, residential address, designation, function and date of employment of the trusted person.\n(3) The accredited certification authority has a continuing obligation to disclose to the Controller any changes in the information submitted.\n(4) All current versions of the accredited certification authority’s applicable certification practice statements together with their effective dates must be published in the accredited certification authority’s Internet website."
+   }
+  },
+  {
+   "id": "SG-H1234-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 9 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Discontinuation of operations of accredited certification authority"
+   },
+   "text": {
+    "en": "33.—(1) If an accredited certification authority intends to discontinue its operations, the accredited certification authority may arrange for its subscribers to re‑subscribe to another accredited certification authority.\n(2) The accredited certification authority must make arrangements for its records and certificates to be archived in a trustworthy manner.\n(3) If the records are transferred to another accredited certification authority, the transfer must be done in a trustworthy manner.\n(4) An accredited certification authority must —\n(a)give to the Controller written notice of its intention to discontinue its operations not later than 3 months before the discontinuation;\n(b)give to its subscribers written notice of its intention to discontinue its operations not later than 2 months before the discontinuation; and\n(c)advertise, in such daily newspapers and in such manner as the Controller may determine, its intention to discontinue its operations not later than 2 months before the discontinuation."
+   }
+  },
+  {
+   "id": "SG-H1234-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 9 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Audit"
+   },
+   "text": {
+    "en": "34.—(1) The Controller may, by written notice, require an accredited certification authority to undergo and pass an audit.\n(2) The audit mentioned in paragraph (1) must be —\n(a)conducted in accordance with the auditing requirements specified in this regulation; and\n(b)completed within the time that the Controller may, by written notice, specify.\n(3) The audit must be conducted by a qualified independent audit team approved by the Controller for this purpose comprising a person who is a Certified Public Accountant and a person who is a Certified Information Systems Auditor and either of whom must possess sufficient knowledge of digital signatures and certificates.\n(4) The firm or company to which the audit team belongs must be independent of the certification authority being audited and must not be a software or hardware vendor that is providing or has provided services or is supplying or has supplied equipment to the certification authority.\n(5) Auditing fees must be borne by the certification authority.\n(6) A copy of the audit report must be submitted to the Controller within 4 weeks of the completion of an audit."
+   }
+  },
+  {
+   "id": "SG-H1234-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 9 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Penalties"
+   },
+   "text": {
+    "en": "35. Any person who, without any reasonable excuse, fails to comply with regulation 13(2), 14, 16(2) or (11), 17(3), 18(10), 19(5), 21(7) or (8) or 25(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H1234-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 9 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "36. Any offence under section 23(2) of the Act or under these Regulations may be compounded by the Controller under section 36 of the Act."
+   }
+  },
+  {
+   "id": "SG-H1234-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRegulation 2\nAccreditation Mark for Accredited\nCertification Authorities"
+   }
+  }
+ ]
+}

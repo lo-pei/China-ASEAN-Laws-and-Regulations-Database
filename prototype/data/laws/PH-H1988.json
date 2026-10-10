@@ -1,0 +1,64 @@
+{
+ "id": "PH-H1988",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Subsection (i), Section One Hundred Five of Republic Act Numbered Nineteen Hundred Thirty-Seven by Removing the Exemptions from the Payment of Tariff Duties Certain Personal and Household Effects not Exceeding Five Hundred Pesos in Value, and Articles in Any Single Shipment Consigned to Any Single Person not Exceeding One Hundred Pesos",
+  "orig": "An Act Amending Subsection (i), Section One Hundred Five of Republic Act Numbered Nineteen Hundred Thirty-Seven by Removing the Exemptions from the Payment of Tariff Duties Certain Personal and Household Effects not Exceeding Five Hundred Pesos in Value, and Articles in Any Single Shipment Consigned to Any Single Person not Exceeding One Hundred Pesos"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p28",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1959-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2252",
+ "officialCode": null,
+ "topics": [
+  "tax"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1140,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1959/ra_2252_1959.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1959/ra_2252_1959.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1988-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Subsection (i), section one hundred five of Republic Act Numbered Nineteen hundred thirty-seven, otherwise known as the Tariff and Customs Code of the Philippines, is amended to read as follows:\n\"i. Wearing apparel and household effects, including those articles provided for under subsection ‘j’ and ‘k’, and belonging to residents of the Philippines returning from abroad, which were exported from the Philippines by such returning residents upon their departure therefrom or during their absence abroad, upon the identify of such articles being established to the satisfaction of the Collector of Customs; articles of the same kind and class purchased in foreign countries by residents of the Philippines during their absence abroad and accompanying them upon their return to the Philippines, or arriving within a reasonable time which, barring unforeseen circumstances in no case shall exceed ninety (90) days before or after the owner’s return, upon proof satisfactory to the Collector of Customs that same have been in their use abroad for more than three months.\""
+   }
+  },
+  {
+   "id": "PH-H1988-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1959."
+   }
+  }
+ ]
+}

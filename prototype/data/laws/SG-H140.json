@@ -1,0 +1,1090 @@
+{
+ "id": "SG-H140",
+ "title": {
+  "zh": null,
+  "en": "Air Navigation (101 — Unmanned Aircraft Operations) Regulations 2019",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p02",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ANA1966-S833-2019",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 67,
+ "chars": 88786,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ANA1966-S833-2019?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 67 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 4 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H140-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1.—(1) These Regulations are the Air Navigation (101 — Unmanned Aircraft Operations) Regulations 2019 and, except for regulations 33 to 40, 42 and 47(2) and (3), come into operation on 2 January 2020.\n(2) Regulations 36, 37, 38 and 39 come into operation on 1 March 2020.\n(3) Regulations 42 and 47(2) and (3) come into operation on 2 April 2020.\n(4) Regulations 33, 34, 35 and 40 come into operation on 1 February 2021.\n[S 371/2020 wef 15/05/2020]"
+   }
+  },
+  {
+   "id": "SG-H140-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. Any term in these Regulations that is defined in the First Schedule has the meaning given to that term in that Schedule."
+   }
+  },
+  {
+   "id": "SG-H140-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Activities excluded from permit requirements"
+   },
+   "text": {
+    "en": "3. Nothing in these Regulations applies to require a person to obtain a UA operator permit, an activity permit or a UA cross-border permit before operating —\n(a)an unmanned aircraft to fly outside of Singapore, unless it is for the purpose of flying or causing the flight of the unmanned aircraft into or out of Singapore;\n[S 865/2021 wef 13/11/2021]\n[S 747/2023 wef 21/11/2023]\n(aa)an unmanned aircraft to fly indoors for any purpose unless it is a purpose connected with any of the following:\n(i)a sporting activity that forms part of an organised group activity or organised competition, race or tournament;\n(ii)an event that is attended by more than 50 individuals at any time during the event;\n(iii)a flying display;\n[S 865/2021 wef 13/11/2021]\n(b)an unmanned aircraft that has a total mass of 25 kg or less, outdoors and within the person’s visual line of sight for a recreation purpose and not under any Class 2 activity permit condition;\n[S 865/2021 wef 13/11/2021]\n(c)an unmanned aircraft that has a total mass of 7 kg or less, outdoors and within the person’s visual line of sight for an education purpose and not under any Class 2 activity permit condition; or\n[S 865/2021 wef 13/11/2021]\n(d)an unmanned aircraft indoors or outdoors for the purpose of providing training or instruction by a UATO, if the person operating the unmanned aircraft is employed or engaged by the UATO to provide the training or instruction and not under any Class 2 activity permit condition.\n[S 865/2021 wef 13/11/2021]\n[S 747/2023 wef 21/11/2023]"
+   }
+  },
+  {
+   "id": "SG-H140-A3.001",
+   "no": 3.001,
+   "noLabel": {
+    "en": "3A."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Activities excluded from requirement for UA basic training certificate or UA pilot licence"
+   },
+   "text": {
+    "en": "3A.—(1) Regulations 33 and 35 do not apply to require a person to hold a UA basic training certificate or a UA pilot licence before acting as a UA pilot, or supervising a UA pilot, of an unmanned aircraft to fly indoors —\n(a)within a private residence in Singapore;\n(b)at an experimental site in connection with the construction or testing of that unmanned aircraft; or\n(c)within a place that is not publicly accessible, for any purpose unless it is a purpose connected with any of the following:\n(i)a sporting activity that forms part of an organised group activity or organised competition, race or tournament;\n(ii)an event that is attended by more than 50 individuals at any time during the event;\n(iii)a flying display.\n(2) In this regulation, “publicly accessible”, in relation to a place, means that the public or a section of the public has access to the place as of right, or by virtue of any express or implied permission with or without payment of a fee.\n[S 865/2021 wef 13/11/2021]"
+   }
+  },
+  {
+   "id": "SG-H140-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL RULES AND AVIATION SAFETY INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Prohibited operation of unmanned aircraft"
+   },
+   "text": {
+    "en": "4.—(1) A person must not operate an unmanned aircraft outdoors within the boundaries of any part of the airspace over Singapore to which any declaration under regulation 55C(1)(a) of the Air Navigation (91 — General Operating Rules) Regulations 2018 (G.N. No. S 441/2018) applies and has effect.\n[S 838/2025 wef 29/12/2025]\n(2) A person who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)for a first offence, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both; and\n(b)for a second or subsequent offence, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.\n(3) In a prosecution for an offence under paragraph (2), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence.\n(4) To avoid doubt, a UA operator permit, a UA pilot licence, an activity permit and a UA cross-border permit do not authorise the holder to act in contravention of paragraph (1).\n[S 747/2023 wef 21/11/2023]"
+   }
+  },
+  {
+   "id": "SG-H140-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL RULES AND AVIATION SAFETY INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Prohibited use of psychoactive substances"
+   },
+   "text": {
+    "en": "5.—(1) A person must not operate an unmanned aircraft, or be involved in the conduct of a flight involving an unmanned aircraft, if the person is under the influence of any psychoactive substance to such extent as to be unable to operate the unmanned aircraft in a safe and proper manner.\n(2) A person who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)for a first offence, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both; and\n(b)for a second or subsequent offence, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.\n(3) In a prosecution for an offence under paragraph (2), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence."
+   }
+  },
+  {
+   "id": "SG-H140-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL RULES AND AVIATION SAFETY INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Reporting of accidents"
+   },
+   "text": {
+    "en": "6.—(1) A UA pilot who operates an unmanned aircraft for any purpose must notify the Authority by the quickest available means upon becoming aware of an accident associated with the operation of the unmanned aircraft resulting in serious injury to the UA pilot, serious injury to or the death of any other person, or damage to any property.\n(2) A person who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)for a first offence, to a fine not exceeding $50,000; and\n(b)for a second or subsequent offence, to a fine not exceeding $100,000."
+   }
+  },
+  {
+   "id": "SG-H140-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL RULES AND AVIATION SAFETY INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Operation of unmanned aircraft having total mass exceeding 25 kg"
+   },
+   "text": {
+    "en": "7. A person must not operate an unmanned aircraft that has a total mass exceeding 25 kg for any purpose except under the authority of and in accordance with —\n(a)a UA operator permit that is in force and that authorises the person to operate the unmanned aircraft type corresponding to that unmanned aircraft and for the purpose specified in that permit; and\n(b)a Class 1 activity permit for flying the unmanned aircraft type corresponding to that unmanned aircraft."
+   }
+  },
+  {
+   "id": "SG-H140-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL RULES AND AVIATION SAFETY INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Operation of unmanned aircraft for recreation or education"
+   },
+   "text": {
+    "en": "8.—(1) A person must not operate an unmanned aircraft that has a total mass of 25 kg or below, outdoors under any Class 2 activity permit condition and for a recreation purpose, except under the authority of and in accordance with a Class 2 activity permit for flying the unmanned aircraft type corresponding to that unmanned aircraft.\n(2) A person must not operate an unmanned aircraft that has a total mass of 7 kg or below, outdoors under any Class 2 activity permit condition and for an education purpose, except under the authority of and in accordance with a Class 2 activity permit for flying the unmanned aircraft type corresponding to that unmanned aircraft.\n(3) A person must not operate an unmanned aircraft that has a total mass exceeding 7 kg but not exceeding 25 kg for an education purpose except under the authority of and in accordance with —\n(a)a UA operator permit that is in force and that authorises the person to operate the unmanned aircraft type corresponding to that unmanned aircraft and for the purpose specified in that permit; and\n(b)a Class 1 activity permit for flying the unmanned aircraft type corresponding to that unmanned aircraft."
+   }
+  },
+  {
+   "id": "SG-H140-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL RULES AND AVIATION SAFETY INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Operation of unmanned aircraft for other purpose"
+   },
+   "text": {
+    "en": "9. A person must not operate an unmanned aircraft of any total mass in the course of business or for a purpose that is neither a recreation purpose nor an education purpose, except under the authority of and in accordance with —\n(a)a UA operator permit that is in force and that authorises the person to operate the unmanned aircraft type corresponding to that unmanned aircraft and for the purpose specified in that permit; and\n(b)a Class 1 activity permit for flying the unmanned aircraft type corresponding to that unmanned aircraft.\nIllustrations\n(a) A person who intends to fly an unmanned aircraft outdoors in connection with advertising, farming or other agricultural activity, a light show, a survey or an inspection of any site or building, or to carry out surveillance or a search and rescue operation, or to deliver anything in the course of business, will need to apply for a UA operator permit and a Class 1 activity permit.\n(b) A person who intends to fly an unmanned aircraft outdoors in connection with conducting training on the use or operation of unmanned aircraft will need to apply for a UA operator permit and a Class 1 activity permit, unless the person is operating the unmanned aircraft for the purpose of providing training or instruction by a UATO that has employed or engaged the person to provide the training or instruction.\n[S 567/2024 wef 06/07/2024]"
+   }
+  },
+  {
+   "id": "SG-H140-A9.001",
+   "no": 9.001,
+   "noLabel": {
+    "en": "9A."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL RULES AND AVIATION SAFETY INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Operation of unmanned aircraft into or out of Singapore"
+   },
+   "text": {
+    "en": "9A. In addition to regulations 7, 8 and 9, a person (whether in Singapore or elsewhere) must not operate an unmanned aircraft of any total mass for the purpose of flying or causing the flight of the unmanned aircraft into or out of Singapore except under the authority of and in accordance with a UA cross-border permit that is in force and that authorises the person to operate that unmanned aircraft for that purpose.\n[S 747/2023 wef 21/11/2023]"
+   }
+  },
+  {
+   "id": "SG-H140-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL RULES AND AVIATION SAFETY INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Penalties"
+   },
+   "text": {
+    "en": "10.—(1) A person who contravenes regulation 7, 8(1), (2) or (3), 9 or 9A shall be guilty of an offence under section 14(3) of the Act.\n[S 956/2022 wef 31/12/2021]\n[S 747/2023 wef 21/11/2023]\n(2) In a prosecution for an offence under paragraph (1), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence."
+   }
+  },
+  {
+   "id": "SG-H140-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL RULES AND AVIATION SAFETY INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Application for or to renew UA operator permit"
+   },
+   "text": {
+    "en": "11.—(1) An application for or to renew a UA operator permit must be made to the Authority in accordance with this regulation.\n(2) An application for a UA operator permit must —\n(a)be made in the form and manner required by the Authority;\n(b)be accompanied by the relevant fee specified in the Second Schedule; and\n(c)be accompanied by the following information (in the form of a set of Operations Procedures or in any other form that the Authority may require):\n(i)the identity and contact address of the applicant;\n(ii)the type of unmanned aircraft to be operated;\n(iii)the purpose for which the unmanned aircraft in the application is to be operated and the nature of the operations;\n(iv)the qualifications of the applicant, including the type of training (if any) the applicant has undergone in operating and maintaining the unmanned aircraft;\n(v)if the application names any other individual engaged or employed, or to be engaged or employed, by the applicant to fly the unmanned aircraft, the qualifications of the individual to fly the unmanned aircraft in the application, including the type of training (if any) the individual has undergone in operating unmanned aircraft;\n(vi)any other information that the Authority may require to decide on the application.\n[S 865/2021 wef 13/11/2021]\n(3) An application to renew a UA operator permit must —\n(a)be made at least one month (or any shorter period that the Authority may specify in any particular case) before the date of expiry of the existing operator permit;\n(b)be made in the form and manner required by the Authority;\n(c)be accompanied by the relevant fee specified in the Second Schedule; and\n(d)be accompanied by the information (in the form required by the Authority) mentioned in paragraph (2) that is different from that provided for the grant of the existing UA operator permit.\n(4) The Authority may refuse to consider an application for or to renew a UA operator permit that is —\n(a)incomplete; or\n(b)not made in accordance with paragraph (2) or (3), as the case may be."
+   }
+  },
+  {
+   "id": "SG-H140-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL RULES AND AVIATION SAFETY INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Grant and renewal of UA operator permit"
+   },
+   "text": {
+    "en": "12.—(1) After considering any application for or to renew a UA operator permit, the Authority may —\n(a)on payment of —\n(i)the relevant fee specified in the Second Schedule, grant the applicant a UA operator permit; or\n(ii)the renewal fee specified in the Second Schedule and (where applicable) a late renewal fee (if prescribed), renew the UA operator permit; or\n(b)refuse to grant or renew the UA operator permit.\n(2) For the purposes of section 15(2)(a) of the Act, in deciding whether an applicant should be granted a UA operator permit, or whether the UA operator permit should be renewed, and the conditions to impose or modify, the Authority must be satisfied that —\n(a)the applicant; and\n(b)if the application names any other individual engaged or employed, or to be engaged or employed, by the applicant to fly the unmanned aircraft, the individual,\nis capable of ensuring the safe operation of the unmanned aircraft specified in the application.\n[S 956/2022 wef 31/12/2021]\n(3) The conditions that may be imposed on a UA operator permit include requiring the UA operator permit holder —\n(a)to ensure the safe operation of the unmanned aircraft specified in the permit whenever it is flown; and\n(b)to adhere to any document issued by the Authority providing practical guidance on the safe operation of unmanned aircraft.\n(4) A UA operator permit may be granted or renewed for the period specified in the permit, being a period not exceeding one year."
+   }
+  },
+  {
+   "id": "SG-H140-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL RULES AND AVIATION SAFETY INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Variation of UA operator permit"
+   },
+   "text": {
+    "en": "13.—(1) A UA operator permit holder may at any time apply to the Authority to vary the UA operator permit because of —\n(a)an addition or a substitution of any unmanned aircraft type specified in the permit;\n(b)a change in the persons who operate or (where applicable) who are engaged or employed to operate any unmanned aircraft type specified in the permit;\n(c)a change in the key management personnel of the UA operator;\n[S 148/2022 wef 01/06/2022]\n(d)a change in the purpose for which the unmanned aircraft specified in the permit is to be operated and the nature of the operations specified in the permit; or\n[S 148/2022 wef 01/06/2022]\n(e)a change in the means by which flight telemetry data can be transmitted without a CFMS tracking device affixed to the unmanned aircraft.\n[S 148/2022 wef 01/06/2022]\n[S 109/2025 wef 14/02/2025]\n(2) An application to vary a UA operator permit must —\n(a)be made to the Authority in the form and manner required by the Authority;\n(b)be accompanied by the relevant fee specified in the Second Schedule; and\n(c)be accompanied by any information and documents as the Authority may require to decide on the application.\n(3) The Authority may refuse to consider an application to vary a UA operator permit that is —\n(a)incomplete; or\n(b)not made in accordance with paragraph (2).\n(4) In this regulation, “CFMS tracking device” has the meaning given by regulation 19B.\n[S 148/2022 wef 01/06/2022]\n[S 109/2025 wef 14/02/2025]"
+   }
+  },
+  {
+   "id": "SG-H140-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL RULES AND AVIATION SAFETY INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Production of UA operator permit"
+   },
+   "text": {
+    "en": "14.—(1) A UA operator operating an unmanned aircraft must, on being so required by an authorised person, produce his or her UA operator permit for examination so as to enable the authorised person to ascertain the identity of the UA operator, the validity of the UA operator permit, and whether the UA operator is authorised to operate the unmanned aircraft.\n(2) A person who, without reasonable excuse, contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)for a first offence, to a fine not exceeding $20,000; and\n(b)for a second or subsequent offence, to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 15 months or to both."
+   }
+  },
+  {
+   "id": "SG-H140-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL RULES AND AVIATION SAFETY INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Application for activity permit"
+   },
+   "text": {
+    "en": "15.—(1) An application for an activity permit must be made to the Authority in accordance with this regulation.\n(2) An application for an activity permit relating to an unmanned aircraft must be —\n(a)made in the form and manner required by the Authority;\n(b)accompanied by the relevant fee specified in the Second Schedule; and\n(c)accompanied by the following information:\n(i)the identity and contact address of the applicant;\n(ii)the type of flying activity to be carried out involving the unmanned aircraft specified in the application;\n(iii)the intended time and date, or intended period, and the intended location and operating altitude of the flying activity;\n(iv)the UA operator permit if required under these Regulations;\n(v)any other documents or information that the Authority may require to decide on the application.\n(3) The Authority may refuse to consider an application for an activity permit that is incomplete or not made in accordance with paragraph (2)."
+   }
+  },
+  {
+   "id": "SG-H140-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL RULES AND AVIATION SAFETY INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Grant of activity permit"
+   },
+   "text": {
+    "en": "16.—(1) After considering any application for an activity permit, the Authority may —\n(a)on payment of the relevant fee specified in the Second Schedule, grant the applicant an activity permit; or\n(b)refuse to grant the activity permit.\n(2) For the purposes of section 15(2)(a) of the Act, in deciding whether an applicant should be granted an activity permit, and the conditions to impose or modify, the Authority must be satisfied that the applicant is capable of ensuring the safe conduct of the activity specified, or to be specified, in the activity permit.\n[S 956/2022 wef 31/12/2021]\n(3) The conditions that may be imposed on an activity permit granted include requiring the holder of the activity permit —\n(a)to fly the unmanned aircraft only for the activity or activities specified in the activity permit; and\n(b)to fly the unmanned aircraft only at the time or period, location, and at an altitude below the maximum operating altitude, specified in the activity permit.\n(4) An activity permit for an unmanned aircraft is valid only for the period specified in the permit."
+   }
+  },
+  {
+   "id": "SG-H140-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL RULES AND AVIATION SAFETY INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Variation of activity permit"
+   },
+   "text": {
+    "en": "17.—(1) A holder of a Class 1 or Class 2 activity permit may, at any time before the start of the activity specified in the permit, apply to the Authority to vary the activity permit because of a change in the date or time of the activity so specified.\n(2) An application to vary an activity permit must be —\n(a)made to the Authority in the form and manner required by the Authority; and\n(b)accompanied by the relevant fee (if any) specified in the Second Schedule.\n(3) The Authority may refuse to consider an application to vary an activity permit that is —\n(a)incomplete; or\n(b)not made in accordance with paragraph (2)."
+   }
+  },
+  {
+   "id": "SG-H140-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL RULES AND AVIATION SAFETY INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Production of activity permit"
+   },
+   "text": {
+    "en": "18.—(1) A person operating an unmanned aircraft must, on being required by an authorised person, produce the activity permit for flying the unmanned aircraft type corresponding to that unmanned aircraft so as to enable the authorised person to ascertain the identity of the operator, the validity of the activity permit, and whether the operator is authorised to operate the unmanned aircraft.\n(2) A person who, without reasonable excuse, contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)for a first offence, to a fine not exceeding $20,000; and\n(b)for a second or subsequent offence, to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 15 months or to both."
+   }
+  },
+  {
+   "id": "SG-H140-A18.001",
+   "no": 18.001,
+   "noLabel": {
+    "en": "18A."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL RULES AND AVIATION SAFETY INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Application for UA cross-border permit"
+   },
+   "text": {
+    "en": "18A.—(1) An application for a UA cross-border permit must be made to the Authority in accordance with this regulation.\n(2) An application for a UA cross-border permit relating to an unmanned aircraft must —\n(a)be made by the operator of the unmanned aircraft;\n(b)be made in writing;\n(c)be accompanied by the relevant fee specified in the Second Schedule; and\n(d)be accompanied by the following information:\n(i)the identity and contact address of the applicant and the UA pilot flying the unmanned aircraft;\n(ii)the type of unmanned aircraft to be operated;\n(iii)the purpose for which the unmanned aircraft in the application is to be operated and the nature of the operations;\n(iv)any other information that the Authority may require to decide on the application.\n(3) The Authority may refuse to consider an application for a UA cross-border permit that is —\n(a)incomplete; or\n(b)not made in accordance with paragraph (2).\n[S 747/2023 wef 21/11/2023]"
+   }
+  },
+  {
+   "id": "SG-H140-A18.002",
+   "no": 18.002,
+   "noLabel": {
+    "en": "18B."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL RULES AND AVIATION SAFETY INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Grant of UA cross-border permit"
+   },
+   "text": {
+    "en": "18B.—(1) After considering an application for a UA cross-border permit, the Authority may —\n(a)grant the applicant a UA cross-border permit; or\n(b)refuse to grant the UA cross-border permit.\n(2) For the purposes of section 15(2)(a) of the Act, in deciding whether an applicant should be granted a UA cross-border permit and the conditions to impose or modify, the Authority must be satisfied that the risk to the safety of air navigation and to public safety, from the grant of the UA cross-border permit to the applicant, is and has been adequately addressed.\n(3) The conditions that may be imposed on a UA cross-border permit include requiring the holder of a UA cross-border permit —\n(a)to ensure the safe operation of the unmanned aircraft specified in the permit whenever it is flown or caused to be flown into or out of Singapore; and\n(b)to adhere to any document issued by the Authority providing practical guidance on the safe operation of unmanned aircraft.\n(4) A UA cross-border permit for an unmanned aircraft is valid only for the period specified in the permit.\n[S 747/2023 wef 21/11/2023]"
+   }
+  },
+  {
+   "id": "SG-H140-A18.003",
+   "no": 18.003,
+   "noLabel": {
+    "en": "18C."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL RULES AND AVIATION SAFETY INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Production of UA cross-border permit"
+   },
+   "text": {
+    "en": "18C.—(1) A person in Singapore operating an unmanned aircraft for the purpose of flying or causing the flight of the unmanned aircraft into or out of Singapore must, on being required by an authorised person, produce the UA cross-border permit for flying the unmanned aircraft so as to enable the authorised person to ascertain the identity of the operator, the validity of the UA cross-border permit, and whether the operator is authorised to operate the unmanned aircraft.\n(2) A person who, without reasonable excuse, contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)for a first offence, to a fine not exceeding $20,000; and\n(b)for a second or subsequent offence, to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 15 months or to both.\n[S 747/2023 wef 21/11/2023]"
+   }
+  },
+  {
+   "id": "SG-H140-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL RULES AND AVIATION SAFETY INSTRUMENTS"
+   },
+   "heading": {
+    "en": "Responsibilities of UA operator"
+   },
+   "text": {
+    "en": "19.—(1) A UA operator permit holder must establish and implement systems, policies and procedures to ensure, support and facilitate the compliance, by the UA pilot of any unmanned aircraft operated by the UA operator permit holder, with every regulation in these Regulations that requires the UA pilot’s compliance.\n(2) A UA operator permit holder must establish procedures —\n(a)to do an initial assessment of, and to provide the training to maintain, the competence of every UA pilot engaged or employed, or to be engaged or employed, by the UA operator permit holder to fly any unmanned aircraft; and\n(b)to ensure that every UA pilot engaged or employed, or to be engaged or employed, by the UA operator permit holder to fly any unmanned aircraft on or after 1 February 2021 holds a valid UA pilot licence authorising the UA pilot to operate the unmanned aircraft of that class and category.\n[S 371/2020 wef 15/05/2020]\n(3) A UA operator permit holder must ensure that a flight of an unmanned aircraft does not commence unless the unmanned aircraft is airworthy.\n(4) The UA operator permit holder must ensure that every UA pilot engaged or employed, or to be engaged or employed, by the UA operator permit holder to fly any unmanned aircraft is provided with —\n(a)the UA operator permit and relevant activity permit;\n(b)any technical manual and standard operating procedures relating to the operation of that unmanned aircraft; and\n(c)any other information as the UA pilot reasonably requires to carry out the flight of that unmanned aircraft safely and in accordance with the conditions specified in the UA operator permit and activity permit.\n(5) A person who contravenes paragraph (1), (2), (3) or (4) shall be guilty of an offence and shall be liable on conviction —\n(a)for a first offence, to a fine not exceeding $50,000; and\n(b)for a second or subsequent offence, to a fine not exceeding $100,000.\n(6) In a prosecution for an offence under paragraph (5), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence."
+   }
+  },
+  {
+   "id": "SG-H140-A19.001",
+   "no": 19.001,
+   "noLabel": {
+    "en": "19A."
+   },
+   "chapter": {
+    "en": "PART 2A REMOTE IDENTIFICATION"
+   },
+   "heading": {
+    "en": "Purpose of this Part"
+   },
+   "text": {
+    "en": "19A. The purpose of this Part is to enable the operation of unmanned aircraft in and over Singapore to be identified, monitored and controlled for the safety of air navigation and for public safety.\n[S 148/2022 wef 01/06/2022]\n[S 109/2025 wef 01/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H140-A19.002",
+   "no": 19.002,
+   "noLabel": {
+    "en": "19B."
+   },
+   "chapter": {
+    "en": "PART 2A REMOTE IDENTIFICATION"
+   },
+   "heading": {
+    "en": "Definitions of this Part"
+   },
+   "text": {
+    "en": "19B. In this Part, unless the context otherwise requires —\n“Broadcast Remote Identification capability” or “B-RID capability” means the capability built into an unmanned aircraft to broadcast remote identification information of the unmanned aircraft when the unmanned aircraft is in flight;\n[S 109/2025 wef 01/12/2025]\n“Broadcast Remote Identification module” or “B-RID module” means a device affixed to an unmanned aircraft that is capable of broadcasting remote identification information of the unmanned aircraft when the unmanned aircraft is in flight;\n[S 109/2025 wef 01/12/2025]\n“Centralised Flight Management System” or “CFMS” means a system maintained by the Authority for the purpose of —\n(a)monitoring, on a real-time basis, the locations and activities of relevant unmanned aircraft; and\n(b)providing notifications and instructions from the Authority to the operators of relevant unmanned aircraft;\n[S 109/2025 wef 14/02/2025]\n[Deleted by S 109/2025 wef 14/02/2025]\n“CFMS service” means a service provided by the Authority for the purpose of providing notifications and instructions from the Authority to the operators of relevant unmanned aircraft;\n[S 109/2025 wef 14/02/2025]\n“CFMS tracking device” means a tracking device that —\n(a)is procured from the Authority or from any other person authorised by the Authority to sell or provide the tracking device; and\n(b)is capable of transmitting flight telemetry data of an unmanned aircraft it is affixed to;\n[S 109/2025 wef 14/02/2025]\n“designated mobile application” means a mobile application specified in an Advisory issued by the Authority;\n“mobile device” means a mobile phone or other similar device;\n“relevant unmanned aircraft” means any unmanned aircraft operated under the authority of any UA operator permit;\n“remote identification information”, in relation to an unmanned aircraft, means —\n(a)the identification number that the Authority has assigned to the person who registered the unmanned aircraft under regulation 45;\n(b)the unique serial number of the following, whichever is applicable:\n(i)in a case where the unmanned aircraft has functioning B-RID capability — the unmanned aircraft;\n(ii)in any other case — the B-RID module affixed to the unmanned aircraft;\n(c)the geographical position of the unmanned aircraft and the time stamp corresponding to that geographical position;\n(d)the height of the unmanned aircraft measured from the ground or from the take-off point of the unmanned aircraft and the time stamp corresponding to that height;\n(e)the route course of the unmanned aircraft measured clockwise from true north;\n(f)the ground speed of the unmanned aircraft; and\n(g)the geographical position of the remote pilot operating the unmanned aircraft, or if that information is not available, the geographical position of the take-off point of the unmanned aircraft.\n[S 109/2025 wef 01/12/2025]\n[Deleted by S 109/2025 wef 14/02/2025]\n[S 148/2022 wef 01/06/2022]"
+   }
+  },
+  {
+   "id": "SG-H140-A19.003",
+   "no": 19.003,
+   "noLabel": {
+    "en": "19C."
+   },
+   "chapter": {
+    "en": "PART 2A REMOTE IDENTIFICATION"
+   },
+   "heading": {
+    "en": "Compulsory subscription to CFMS service"
+   },
+   "text": {
+    "en": "19C.—(1) A UA operator permit holder must —\n(a)subscribe to the CFMS service; and\n[S 109/2025 wef 14/02/2025]\n(b)remain a subscriber to the CFMS service at all times during the validity of the UA operator permit.\n[S 109/2025 wef 14/02/2025]\n(2) A person who, without reasonable excuse, contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.\n[S 148/2022 wef 01/06/2022]\n[S 109/2025 wef 14/02/2025]"
+   }
+  },
+  {
+   "id": "SG-H140-A19.004",
+   "no": 19.004,
+   "noLabel": {
+    "en": "19D."
+   },
+   "chapter": {
+    "en": "PART 2A REMOTE IDENTIFICATION"
+   },
+   "heading": {
+    "en": "Requirements for unmanned aircraft operated under authority of UA operator permit"
+   },
+   "text": {
+    "en": "19D.—(1) A UA operator permit holder must ensure that each unmanned aircraft operated under the authority of the UA operator permit is, at all times when so operated, in compliance with all of the following requirements:\n(a)where the unmanned aircraft has a total mass exceeding 250 g, the unmanned aircraft must be affixed with a CFMS tracking device, unless the UA operator permit states that flight telemetry data of that unmanned aircraft can be transmitted without a CFMS tracking device affixed to the unmanned aircraft;\n[S 109/2025 wef 14/02/2025]\n(b)the UA pilot flying the unmanned aircraft —\n(i)has, on his or her person, a mobile device on which the designated mobile application is installed and is in active use; or\n(ii)has in his or her presence another individual who has, on that individual’s person, a mobile device on which the designated mobile application is installed and is in active use;\n(c)the UA pilot flying the unmanned aircraft complies with every instruction given by the Authority to the UA pilot through the designated mobile application mentioned in sub-paragraph (b).\n(2) A UA pilot flying an unmanned aircraft operated under the authority of a UA operator permit must, at all times when flying the unmanned aircraft —\n(a)have —\n(i)on his or her person, a mobile device on which the designated mobile application is installed and is in active use; or\n(ii)in his or her presence another individual who has, on that individual’s person, a mobile device on which the designated mobile application is installed and is in active use; and\n(b)comply with every instruction given by the Authority to the UA pilot through the designated mobile application mentioned in sub-paragraph (a).\n(3) A person who, without reasonable excuse, contravenes paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.\n(4) The Authority may waive any requirement in paragraph (1) or (2) in relation to any unmanned aircraft or any flight of an unmanned aircraft if the Authority is satisfied that the design of the unmanned aircraft or the circumstances under which the flight of an unmanned aircraft is to take place (as the case may be) are such that the waiver —\n(a)poses negligible risk to aviation safety or to public safety; or\n(b)is necessary or desirable in the interest of national security.\n[S 148/2022 wef 01/06/2022]\n[S 109/2025 wef 14/02/2025]"
+   }
+  },
+  {
+   "id": "SG-H140-A19.005",
+   "no": 19.005,
+   "noLabel": {
+    "en": "19E."
+   },
+   "chapter": {
+    "en": "PART 2A REMOTE IDENTIFICATION"
+   },
+   "heading": {
+    "en": "Non-application and waiver of regulation 19F to certain unmanned aircraft"
+   },
+   "text": {
+    "en": "19E.—(1) Regulation 19F does not apply in relation to —\n(a)an unmanned aircraft that is not a registrable unmanned aircraft;\n(b)an unmanned aircraft that is operated or intended to be operated indoors;\n(c)an unmanned aircraft in relation to which the requirement in regulation 19D(1)(b) applies; or\n(d)a flight of an unmanned aircraft in relation to which the requirement in regulation 19D(1)(b) applies.\n(2) Where regulation 19F applies in relation to an unmanned aircraft, the Authority may waive the application of any provision in regulation 19F in relation to the unmanned aircraft or any flight of an unmanned aircraft if the Authority is satisfied that the design of the unmanned aircraft or the circumstances under which the flight of an unmanned aircraft is to take place (as the case may be) are such that the waiver —\n(a)poses negligible risk to aviation safety or to public safety; or\n(b)is necessary or desirable in the interest of national security.\n[S 109/2025 wef 01/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H140-A19.006",
+   "no": 19.006,
+   "noLabel": {
+    "en": "19F."
+   },
+   "chapter": {
+    "en": "PART 2A REMOTE IDENTIFICATION"
+   },
+   "heading": {
+    "en": "Requirements relating to remote identification information"
+   },
+   "text": {
+    "en": "19F.—(1) A person must not operate, or cause or permit an individual to operate, an unmanned aircraft unless —\n(a)the unmanned aircraft has functioning B-RID capability or is affixed with a functioning B-RID module; and\n(b)the unmanned aircraft or the B-RID module affixed to the unmanned aircraft is capable of broadcasting all remote identification information in relation to the unmanned aircraft in accordance with the requirements specified in the Aviation Specifications 10 — Broadcast Remote Identification issued by the Director-General of Civil Aviation when the unmanned aircraft is in flight.\n(2) A person who operates, or causes or permits an individual to operate, an unmanned aircraft without functioning B-RID capability must ensure that the B-RID module affixed to the unmanned aircraft is switched on before the unmanned aircraft takes flight.\n(3) A person must not intentionally broadcast any remote identification information that is false or misleading.\n(4) A person who, without reasonable excuse, contravenes paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.\n(5) A person who contravenes paragraph (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.\n[S 109/2025 wef 01/12/2025]"
+   }
+  },
+  {
+   "id": "SG-H140-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 TRAINING ORGANISATIONS AND FLIGHT EXAMINERS"
+   },
+   "heading": {
+    "en": "Provision of UA basic training"
+   },
+   "text": {
+    "en": "20.—(1) A person must not provide UA basic training unless that person holds a UA basic training organisation approval.\n(2) A person who contravenes paragraph (1) shall be guilty of an offence under section 14(3) of the Act.\n[S 956/2022 wef 31/12/2021]\n(3) In a prosecution for an offence under paragraph (2), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence."
+   }
+  },
+  {
+   "id": "SG-H140-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 TRAINING ORGANISATIONS AND FLIGHT EXAMINERS"
+   },
+   "heading": {
+    "en": "Application for or to renew UA basic training approval"
+   },
+   "text": {
+    "en": "21.—(1) An application for or to renew a UA basic training approval must be made to the Authority in accordance with this regulation.\n(2) An application for a UA basic training approval must —\n(a)be made at least 2 months (or any shorter period that the Authority may specify in any particular case) before the date on which the UA basic training is to commence or is intended to commence;\n(b)be made in the form and manner required by the Authority;\n(c)be accompanied by the relevant fee specified in the Second Schedule; and\n(d)be accompanied by the following information (in the form required by the Authority):\n(i)the identity and contact address of the applicant;\n(ii)the proposed content of the UA basic training;\n(iii)any other documents or information that the Authority may require to decide on the application.\n(3) An application to renew a UA basic training approval must —\n(a)be made at least 2 months (or any shorter period that the Authority may specify in any particular case) before the date of expiry of the existing UA basic training approval;\n(b)be made in the form and manner required by the Authority;\n(c)be accompanied by the relevant fee specified in the Second Schedule; and\n(d)be accompanied by the information (in the form required by the Authority) mentioned in paragraph (2) that is different from that provided for the grant of the existing UA basic training approval.\n(4) The Authority may refuse to consider an application for or to renew a UA basic training approval that is —\n(a)incomplete; or\n(b)not made in accordance with paragraph (2) or (3), as the case may be."
+   }
+  },
+  {
+   "id": "SG-H140-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 3 TRAINING ORGANISATIONS AND FLIGHT EXAMINERS"
+   },
+   "heading": {
+    "en": "Grant and renewal of UA basic training approval"
+   },
+   "text": {
+    "en": "22.—(1) After considering any application for or to renew a UA basic training approval, the Authority may —\n(a)upon being satisfied that the applicant is a fit and proper person to hold the approval and is qualified by reason of the applicant’s knowledge, experience, competence and skill to act in the capacity to which the approval relates, grant or renew the UA basic training approval, subject to any conditions as it thinks fit; or\n(b)refuse to grant or renew the UA basic training approval.\n(2) A UA basic training approval may be granted or renewed for the period specified in the approval, being a period not exceeding one year."
+   }
+  },
+  {
+   "id": "SG-H140-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 3 TRAINING ORGANISATIONS AND FLIGHT EXAMINERS"
+   },
+   "heading": {
+    "en": "Variation of UA basic training"
+   },
+   "text": {
+    "en": "23.—(1) An approved UA basic training organisation may, at any time during the validity of the approval, apply to the Authority to vary the content of the UA basic training conducted by the approved UA basic training organisation.\n(2) An application to vary the content of the UA basic training must —\n(a)be made to the Authority in the form and manner required by the Authority;\n(b)be accompanied by the relevant fee specified in the Second Schedule; and\n(c)be accompanied by any information and documents as the Authority may require to decide on the application.\n(3) The Authority may refuse to consider an application to vary the content of the UA basic training that is —\n(a)incomplete; or\n(b)not made in accordance with paragraph (2)."
+   }
+  },
+  {
+   "id": "SG-H140-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 3 TRAINING ORGANISATIONS AND FLIGHT EXAMINERS"
+   },
+   "heading": {
+    "en": "Responsibilities of approved UA basic training organisation"
+   },
+   "text": {
+    "en": "24.—(1) An approved UA basic training organisation must comply with the conditions of the UA basic training approval granted to it.\n(2) An approved UA basic training organisation must —\n(a)issue a UA basic training certificate to each person who successfully completes UA basic training conducted by the approved UA basic training organisation;\n(b)maintain records of the name and contact address of each person who successfully completes UA basic training conducted by the approved UA basic training organisation, and the time at which and the date on which the UA basic training is provided, for at least 5 years after the date on which the UA basic training is provided to the person; and\n(c)provide the Authority with any records it requires for the purposes of these Regulations.\n(3) A person who contravenes paragraph (2) shall be guilty of an offence and shall be liable on conviction —\n(a)for a first offence, to a fine not exceeding $50,000; and\n(b)for a second or subsequent offence, to a fine not exceeding $100,000."
+   }
+  },
+  {
+   "id": "SG-H140-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 3 TRAINING ORGANISATIONS AND FLIGHT EXAMINERS"
+   },
+   "heading": {
+    "en": "Requirement for UATO approval"
+   },
+   "text": {
+    "en": "25.—(1) A person must not provide any UA pilot licence training or conduct any practical assessment or proficiency check, unless that person is a holder of a UATO approval.\n(2) A person who contravenes paragraph (1) shall be guilty of an offence under section 14(3) of the Act.\n[S 956/2022 wef 31/12/2021]\n(3) In a prosecution for an offence under paragraph (2), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence."
+   }
+  },
+  {
+   "id": "SG-H140-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 3 TRAINING ORGANISATIONS AND FLIGHT EXAMINERS"
+   },
+   "heading": {
+    "en": "Application for or to renew UATO approval"
+   },
+   "text": {
+    "en": "26.—(1) An application for a UATO approval must be made to the Authority in accordance with this regulation.\n(2) An application for a UATO approval must —\n(a)be made at least 2 months (or any shorter period that the Authority may specify in any particular case) before the date on which the UA pilot licence training is to commence or is intended to commence;\n(b)be made in the form and manner required by the Authority;\n(c)be accompanied by the relevant fee specified in the Second Schedule; and\n(d)be accompanied by the following information (in the form of an Exposition Document or in any other form that the Authority may require):\n(i)the identity and contact address of the applicant;\n(ii)the proposed content of the UA pilot licence training;\n(iii)the qualifications of the applicant to conduct the UA pilot licence training, including the type of training (if any) the applicant has undergone in operating unmanned aircraft;\n(iv)the qualifications (if any) of the applicant to conduct a practical assessment and a proficiency check;\n(v)if the application names any other individual engaged or employed, or to be engaged or employed, by the applicant to conduct the UA pilot licence training, practical assessment or proficiency check, the qualifications of the individual to conduct the UA pilot licence training, practical assessment or proficiency check, including the type of training (if any) the individual has undergone in operating unmanned aircraft;\n(vi)any other documents or information that the Authority may require to decide on the application.\n[S 865/2021 wef 13/11/2021]\n(3) An application to renew a UATO approval must —\n(a)be made at least 2 months (or any shorter period that the Authority may specify in any particular case) before the date of expiry of the existing UATO approval;\n(b)be made in the form and manner required by the Authority;\n(c)be accompanied by the relevant fee specified in the Second Schedule;\n(d)be accompanied by the information (in the form required by the Authority) mentioned in paragraph (2) that is different from that provided for the grant of the existing UATO approval; and\n(e)any other documents or information that the Authority may require to decide on the application.\n(4) The Authority may refuse to consider an application for or to renew a UATO approval that is —\n(a)incomplete; or\n(b)not made in accordance with paragraph (2) or (3), as the case may be."
+   }
+  },
+  {
+   "id": "SG-H140-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 3 TRAINING ORGANISATIONS AND FLIGHT EXAMINERS"
+   },
+   "heading": {
+    "en": "Grant and renewal of UATO approval"
+   },
+   "text": {
+    "en": "27.—(1) After considering any application for or to renew a UATO approval, the Authority may —\n(a)upon being satisfied that the applicant is a fit and proper person to hold the approval and is qualified by reason of the applicant’s knowledge, experience, competence and skill to act in the capacity to which the approval relates, grant or renew the UATO approval, subject to any conditions that it thinks fit; or\n(b)refuse to grant or renew the UATO approval.\n(2) A UATO approval may be granted or renewed for the period specified in the approval, being a period not exceeding one year."
+   }
+  },
+  {
+   "id": "SG-H140-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 3 TRAINING ORGANISATIONS AND FLIGHT EXAMINERS"
+   },
+   "heading": {
+    "en": "Variation of UA pilot licence training, etc."
+   },
+   "text": {
+    "en": "28.—(1) A UATO may, at any time during the validity of the UATO approval, apply to the Authority to vary the content of the UA pilot licence training, practical assessment or proficiency check conducted by the UATO due to —\n(a)the addition of new courses or new course content; or\n(b)the use of new types of unmanned aircraft in the conduct of training.\n(2) An application to vary the content of the UA pilot licence training, practical assessment or proficiency check must —\n(a)be made to the Authority in the form and manner required by the Authority;\n(b)be accompanied by the relevant fee specified in the Second Schedule; and\n(c)be accompanied by the information and documents the Authority requires to decide on the application.\n(3) The Authority may refuse to consider an application to vary the content of the UA pilot licence training, practical assessment or proficiency check that is —\n(a)incomplete; or\n(b)not made in accordance with paragraph (2)."
+   }
+  },
+  {
+   "id": "SG-H140-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 3 TRAINING ORGANISATIONS AND FLIGHT EXAMINERS"
+   },
+   "heading": {
+    "en": "Responsibilities of UATO"
+   },
+   "text": {
+    "en": "29.—(1) A UATO must comply with the conditions of the UATO approval granted to it.\n(2) A UATO must —\n(a)maintain records of the date and results (where applicable) of every UA pilot licence training, test, evaluation, practical assessment and proficiency check conducted by the UATO or any Authorised Flight Examiner employed or engaged by the UATO (together with the name of each person so trained, tested, evaluated, assessed or checked), for at least 5 years after the date on which each training, test, evaluation, practical assessment or proficiency check was conducted; and\n(b)provide the Authority with any records it requires for the purposes of these Regulations.\n(3) A person who contravenes paragraph (2) shall be guilty of an offence and shall be liable on conviction —\n(a)for a first offence, to a fine not exceeding $50,000; and\n(b)for a second or subsequent offence, to a fine not exceeding $100,000."
+   }
+  },
+  {
+   "id": "SG-H140-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 3 TRAINING ORGANISATIONS AND FLIGHT EXAMINERS"
+   },
+   "heading": {
+    "en": "Application for or to renew Authorised Flight Examiner authorisation"
+   },
+   "text": {
+    "en": "30.—(1) An application for or to renew an Authorised Flight Examiner authorisation must be made to the Authority in accordance with this regulation.\n(2) A UATO (called in this Part the nominating UATO) may apply to the Authority for an Authorised Flight Examiner authorisation to be granted to a person (called in this Part the nominee) who —\n(a)is employed or engaged by that UATO;\n(b)has attained 21 years of age;\n(c)where the application for an Authorised Flight Examiner authorisation is made on or after 1 February 2021, holds a valid UA pilot licence;\n[S 371/2020 wef 15/05/2020]\n(d)has successfully completed a training programme approved by the Chief Executive; and\n(e)has successfully passed an Authorised Flight Examiner practical evaluation conducted by the Authority.\n(3) An application for an Authorised Flight Examiner authorisation must —\n(a)be made by the nominating UATO in the form and manner required by the Authority;\n(b)be accompanied by the relevant fee (if prescribed in the Second Schedule); and\n(c)be accompanied by the following information in the form the Authority requires:\n(i)the name and qualifications of the nominee, including the type of training (if any) the nominee has undergone in operating unmanned aircraft;\n(ii)documents evidencing that the nominee has satisfied the requirements in paragraph (2);\n(iii)any other documents or information that the Authority may require to decide on the application.\n(4) A nominating UATO may apply to the Authority to renew an Authorised Flight Examiner authorisation granted to an Authorised Flight Examiner who —\n(a)is employed or engaged by that UATO;\n(b)holds a valid UA pilot licence;\n(c)has successfully completed a refresher training programme approved by the Chief Executive, not earlier than 6 months before the date of expiry of the existing Authorised Flight Examiner authorisation;\n(d)has successfully passed an Authorised Flight Examiner practical evaluation conducted by the Authority, not earlier than 6 months before the date of expiry of the existing Authorised Flight Examiner authorisation; and\n(e)has conducted —\n(i)at least 12 practical assessments or proficiency checks (or any combination thereof) during the validity of the existing Authorised Flight Examiner authorisation; and\n(ii)at least 2 practical assessments or proficiency checks (or any combination thereof) within each 6‑month period during the validity of the existing Authorised Flight Examiner authorisation.\n(5) An application to renew an Authorised Flight Examiner authorisation must —\n(a)be made by the nominating UATO at least 2 months (or any shorter period that the Authority may specify in any particular case) before the date of expiry of the existing Authorised Flight Examiner authorisation;\n(b)be made in the form and manner required by the Authority;\n(c)be accompanied by the relevant fee (if prescribed in the Second Schedule);\n(d)be accompanied by documents evidencing that the Authorised Flight Examiner has satisfied the requirements in paragraph (4); and\n(e)any other documents or information that the Authority may require to decide on the application.\n(6) The Authority may refuse to consider an application for or to renew an Authorised Flight Examiner authorisation that is —\n(a)incomplete; or\n(b)not made in accordance with paragraph (2), (3), (4) or (5), as the case may be."
+   }
+  },
+  {
+   "id": "SG-H140-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 3 TRAINING ORGANISATIONS AND FLIGHT EXAMINERS"
+   },
+   "heading": {
+    "en": "Grant and renewal of Authorised Flight Examiner authorisation"
+   },
+   "text": {
+    "en": "31.—(1) After considering any application for or to renew an Authorised Flight Examiner authorisation, the Authority may —\n(a)upon being satisfied that the person named in the application is a fit and proper person to hold the approval and is qualified by reason of the person’s knowledge, experience, competence and skill to act in the capacity to which the approval relates, grant or renew the Authorised Flight Examiner authorisation, subject to any conditions that it thinks fit; or\n(b)refuse to grant or renew the Authorised Flight Examiner authorisation.\n(2) The Authority may, either absolutely or subject to any conditions as it thinks fit, authorise an Authorised Flight Examiner to conduct any checks, tests, assessments or evaluations for the purpose of these Regulations as the Authority may specify.\n(3) An Authorised Flight Examiner authorisation may be granted or renewed for the period specified in the authorisation, being a period not exceeding 2 years.\n(4) The Authority may cancel an Authorised Flight Examiner authorisation at any time if the nominating UATO ceases to be the holder of a valid UATO approval."
+   }
+  },
+  {
+   "id": "SG-H140-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 3 TRAINING ORGANISATIONS AND FLIGHT EXAMINERS"
+   },
+   "heading": {
+    "en": "Duties of Authorised Flight Examiner"
+   },
+   "text": {
+    "en": "32.—(1) An Authorised Flight Examiner must comply with the conditions stated in the Authorised Flight Examiner authorisation granted to the Authorised Flight Examiner.\n(2) An Authorised Flight Examiner must immediately surrender the Authorised Flight Examiner authorisation to the Authority if —\n(a)the Authorised Flight Examiner relinquishes his or her role as an Authorised Flight Examiner;\n(b)the Authorised Flight Examiner is no longer required by the nominating UATO to conduct any proficiency check, test, assessment or evaluation; or\n(c)the Authorised Flight Examiner authorisation is cancelled by the Authority.\n(3) A person who contravenes paragraph (2) shall be guilty of an offence and shall be liable on conviction —\n(a)for a first offence, to a fine not exceeding $50,000; and\n(b)for a second or subsequent offence, to a fine not exceeding $100,000."
+   }
+  },
+  {
+   "id": "SG-H140-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 4 LICENSING OF UA PILOTS"
+   },
+   "heading": {
+    "en": "Requirement for UA basic training"
+   },
+   "text": {
+    "en": "33.—(1) Subject to paragraph (2), a person must not act as a UA pilot of an unmanned aircraft that has a total mass exceeding 1.5 kg but not exceeding 7 kg for a recreation purpose or an education purpose unless the person —\n(a)has attained the requisite minimum age; and\n(b)holds a UA basic training certificate, or holds a UA pilot licence that is in force.\n(2) Despite paragraph (1), a person who has not attained the requisite minimum age may operate an unmanned aircraft that has a total mass exceeding 1.5 kg but not exceeding 7 kg for a recreation purpose or an education purpose under the supervision of another person (called in this Part a supervising pilot) who —\n(a)has attained the requisite minimum age; and\n(b)holds a UA basic training certificate, or holds a UA pilot licence that is in force.\n(3) A person must not act as a supervising pilot unless the person —\n(a)has attained the requisite minimum age; and\n(b)holds a UA basic training certificate, or holds a UA pilot licence that is in force.\n(4) A person who contravenes paragraph (1) or (3) shall be guilty of an offence and shall be liable on conviction —\n(a)for a first offence, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both; and\n(b)for a second or subsequent offence, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.\n(5) In a prosecution for an offence under paragraph (4), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence."
+   }
+  },
+  {
+   "id": "SG-H140-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 4 LICENSING OF UA PILOTS"
+   },
+   "heading": {
+    "en": "Production of UA basic training certificate or UA pilot licence"
+   },
+   "text": {
+    "en": "34.—(1) A person operating an unmanned aircraft or acting as a supervising pilot must, on being so required by an authorised person, produce his or her UA basic training certificate or UA pilot licence (as the case may be) so as to enable the authorised person to ascertain the identity of the person, the validity of the UA basic training certificate or UA pilot licence (as the case may be), and whether the person is authorised to operate the unmanned aircraft.\n(2) A person who, without reasonable excuse, contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)for a first offence, to a fine not exceeding $20,000; and\n(b)for a second or subsequent offence, to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 15 months or to both."
+   }
+  },
+  {
+   "id": "SG-H140-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 4 LICENSING OF UA PILOTS"
+   },
+   "heading": {
+    "en": "Requirement for UA pilot licence"
+   },
+   "text": {
+    "en": "35.—(1) Subject to paragraph (2), a person must not act as a UA pilot of —\n(a)an unmanned aircraft of any total mass in the course of business or for a purpose that is neither a recreation purpose nor an education purpose; or\n(b)an unmanned aircraft of a total mass exceeding 7 kg for any purpose,\nunless the person holds a UA pilot licence that is in force and authorises the person to fly an unmanned aircraft of the class and category corresponding to that unmanned aircraft.\n(2) Paragraph (1) does not apply to a UA pilot operating an unmanned aircraft (called in this paragraph the first UA pilot) under the supervision of another person who is the holder of a UA pilot licence, where the first UA pilot is operating an unmanned aircraft in the course of or as part of —\n(a)the UA pilot licence training conducted by a UATO; or\n(b)a practical assessment or proficiency check conducted by an Authorised Flight Examiner or the Authority.\n(3) A person who contravenes paragraph (1) shall be guilty of an offence under section 14(3) of the Act.\n[S 956/2022 wef 31/12/2021]\n(4) In a prosecution for an offence under paragraph (3), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence."
+   }
+  },
+  {
+   "id": "SG-H140-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 4 LICENSING OF UA PILOTS"
+   },
+   "heading": {
+    "en": "Application for UA pilot licence"
+   },
+   "text": {
+    "en": "36.—(1) An application for a UA pilot licence must be made to the Authority in accordance with this regulation.\n(2) An applicant for a UA pilot licence must —\n(a)be an individual who has attained the requisite minimum age;\n(b)have successfully passed a theory test; and\n(c)subject to regulation 52(3), have successfully passed a practical assessment relating to the class and category of the licence.\n(3) An application for a UA pilot licence must —\n(a)be made after the applicant has successfully passed the practical assessment, and while the applicant holds a valid pass in the theory test;\n(b)be made in the form and manner required by the Authority;\n(c)be accompanied by the relevant fee specified in the Second Schedule; and\n(d)be accompanied by the following information in the form the Authority requires:\n(i)the identity and contact address of the applicant;\n(ii)documents evidencing that the applicant has satisfied the requirements in paragraph (2);\n(iii)any other documents or information that the Authority may require to decide on the application.\n(4) The Authority may refuse to consider an application for a UA pilot licence that is —\n(a)incomplete; or\n(b)not made in accordance with paragraph (3)."
+   }
+  },
+  {
+   "id": "SG-H140-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 4 LICENSING OF UA PILOTS"
+   },
+   "heading": {
+    "en": "Grant of UA pilot licence"
+   },
+   "text": {
+    "en": "37.—(1) After considering any application for a UA pilot licence, the Authority may —\n(a)upon being satisfied that the applicant is a fit and proper person to hold the UA pilot licence and is qualified by reason of the applicant’s knowledge, competence and skill to act in the capacity to which the licence relates, grant the UA pilot licence, subject to any conditions that the Authority thinks fit; or\n(b)refuse to grant the UA pilot licence.\n(2) Subject to the provisions of the Act, unless earlier revoked or surrendered, a UA pilot licence authorises the holder to operate an unmanned aircraft of each category and rating specified in the UA pilot licence and remains in force for the lifetime of the holder.\n(3) A holder of a UA pilot licence must pass a proficiency check in respect of each Class A category (as indicated in the Third Schedule) specified on the UA pilot licence at least once every 4 years from the date on which the category was specified on the UA pilot licence, failing which the UA pilot licence expires in respect of the category at the end of 4 years after the later of —\n(a)the date on which that category was specified on the UA pilot licence; or\n(b)the date on which the UA pilot last passed a proficiency check in respect of that category.\n(4) In addition to the proficiency check mentioned in paragraph (3), a holder of a UA pilot licence with a rating in Class B must complete appropriate refresher training (called in this Part Class B refresher training) in respect of each rating in Class B, at least once a year, conducted by a UATO or a UA operator permit holder by whom the holder of the UA pilot licence is employed or engaged, failing which the UA pilot licence expires in respect of the rating at the end of one year after the later of —\n(a)the date on which that rating was specified on the UA pilot licence; or\n(b)the date on which the UA pilot last completed Class B refresher training in respect of that rating.\n(5) When the holder of a UA pilot licence with a rating in Class B undergoes the proficiency check for the corresponding category in Class A, the holder must provide documents evidencing the completion of Class B refresher training to the person conducting the proficiency check."
+   }
+  },
+  {
+   "id": "SG-H140-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 4 LICENSING OF UA PILOTS"
+   },
+   "heading": {
+    "en": "Variation of UA pilot licence"
+   },
+   "text": {
+    "en": "38.—(1) A holder of a valid UA pilot licence may at any time apply to the Authority to vary the UA pilot licence to —\n(a)add or remove a category to the UA pilot licence;\n(b)add or remove a rating to the UA pilot licence; or\n(c)modify a condition of the UA pilot licence.\n(2) An application for the variation of a UA pilot licence must —\n(a)be made to the Authority in the form and manner required by the Authority;\n(b)be accompanied by the relevant fee specified in the Second Schedule; and\n(c)be accompanied by the following information in the form the Authority requires:\n(i)if the application is to add a category to the UA pilot licence, documents evidencing that the applicant has satisfied all the requirements for that category;\n(ii)if the application is to add a rating in Class B, documents evidencing that the applicant has satisfied all the requirements for the corresponding category in Class A;\n(iii)any other information and documents as the Authority may require to decide on the application.\n(3) The Authority may refuse to consider an application to vary a UA pilot licence that —\n(a)is incomplete; or\n(b)is not made in accordance with paragraph (2)."
+   }
+  },
+  {
+   "id": "SG-H140-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 4 LICENSING OF UA PILOTS"
+   },
+   "heading": {
+    "en": "Responsibilities of a UA pilot"
+   },
+   "text": {
+    "en": "39.—(1) A UA pilot must not fly an unmanned aircraft unless the UA pilot —\n(a)is aware of the performance specifications and operating limitations of the unmanned aircraft; and\n(b)is satisfied that the unmanned aircraft is airworthy.\n(2) A UA pilot must —\n(a)when operating an unmanned aircraft, comply with the performance specifications and operating limitations of the unmanned aircraft as specified by the manufacturer; and\n(b)when operating an unmanned aircraft, ensure that the unmanned aircraft is within visual line of sight at all times unless the UA pilot licence allows the UA pilot to operate the unmanned aircraft beyond visual line of sight.\n(3) A person who contravenes paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction —\n(a)for a first offence, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both; and\n(b)for a second or subsequent offence, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both."
+   }
+  },
+  {
+   "id": "SG-H140-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 4 LICENSING OF UA PILOTS"
+   },
+   "heading": {
+    "en": "Production of UA pilot licence"
+   },
+   "text": {
+    "en": "40.—(1) A UA pilot operating an unmanned aircraft must, on being so required by an authorised person, produce his or her UA pilot licence for examination so as to enable the authorised person to ascertain the identity of the UA pilot, the validity of the UA pilot licence, and whether the UA pilot is authorised to operate the unmanned aircraft.\n(2) A person who, without reasonable excuse, contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)for a first offence, to a fine not exceeding $20,000; and\n(b)for a second or subsequent offence, to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 15 months or to both."
+   }
+  },
+  {
+   "id": "SG-H140-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 5 REGISTRATION OF UNMANNED AIRCRAFT"
+   },
+   "heading": {
+    "en": "Purpose of this Part"
+   },
+   "text": {
+    "en": "41. The purpose of this Part is to provide for the registration of unmanned aircraft —\n(a)to enable the use of unmanned aircraft in and over Singapore to be controlled and regulated for the safety of air navigation and for public safety; and\n(b)to provide a method of establishing the identity of each registrable unmanned aircraft and of the person who is responsible for it."
+   }
+  },
+  {
+   "id": "SG-H140-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 5 REGISTRATION OF UNMANNED AIRCRAFT"
+   },
+   "heading": {
+    "en": "Mandatory registration of registrable unmanned aircraft"
+   },
+   "text": {
+    "en": "42.—(1) A person must not operate a registrable unmanned aircraft that is not registered in Singapore by the Authority, knowing that, or reckless as to whether, it is not so registered.\n(2) A person must not cause or permit an individual to operate a registrable unmanned aircraft that is not registered in Singapore by the Authority, knowing that, or reckless as to whether, it is not so registered.\n(3) A person who contravenes paragraph (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both."
+   }
+  },
+  {
+   "id": "SG-H140-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 5 REGISTRATION OF UNMANNED AIRCRAFT"
+   },
+   "heading": {
+    "en": "Registration of registrable unmanned aircraft"
+   },
+   "text": {
+    "en": "43.—(1) Only a person who is eligible to be the registered responsible person of a registrable unmanned aircraft may apply to the Authority for registration of the registrable unmanned aircraft.\n(2) A person is eligible to be the registered responsible person for a registrable unmanned aircraft only if the person is an individual who —\n(a)has attained the requisite minimum age;\n(b)has a valid contact address; and\n(c)has a valid SingPass credential or other authentication credential approved by the Authority."
+   }
+  },
+  {
+   "id": "SG-H140-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 5 REGISTRATION OF UNMANNED AIRCRAFT"
+   },
+   "heading": {
+    "en": "How to apply for registration of registrable unmanned aircraft"
+   },
+   "text": {
+    "en": "44.—(1) An application to register a registrable unmanned aircraft must be made to the Authority in the form and manner specified by the Authority.\n(2) Before making an application to the Authority to register a registrable unmanned aircraft, the applicant must (by paying the relevant fee specified in the Second Schedule) procure a registration label from the Authority or from other persons authorised by the Authority to sell or provide the registration label.\n[S 109/2025 wef 14/02/2025]\n(3) [Deleted by S 109/2025 wef 14/02/2025]\n(4) An application to the Authority to register a registrable unmanned aircraft must —\n(a)be made online on a website or by other means specified by the Authority in writing, in a form approved by the Authority; and\n(b)be accompanied by the following information in the form the Authority requires:\n(i)the identity, age and contact address of the applicant;\n(ii)the type and total mass of the registrable unmanned aircraft to be operated;\n(iii)the unique identification number to be assigned to the registrable unmanned aircraft (as stated in a registration label that has not been used to apply for registration of any other unmanned aircraft);\n(iv)any other information required by the Authority to decide on the particular application.\n(5) The Authority may request an applicant seeking to register a registrable unmanned aircraft to provide evidence, in a form approved by the Authority, verifying any of the following:\n(a)the identity and contact address of the applicant;\n(b)the age of the applicant;\n(c)the type and total mass of the registrable unmanned aircraft.\n(6) The Authority may refuse to consider an application to register a registrable unmanned aircraft that is —\n(a)incomplete; or\n(b)not made in accordance with paragraph (4) or (5), as the case may be."
+   }
+  },
+  {
+   "id": "SG-H140-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 5 REGISTRATION OF UNMANNED AIRCRAFT"
+   },
+   "heading": {
+    "en": "Determining application to register registrable unmanned aircraft"
+   },
+   "text": {
+    "en": "45.—(1) After considering any application to register a registrable unmanned aircraft, the Authority may —\n(a)grant the application; or\n(b)refuse to grant the application.\n(2) The Authority may refuse an application for registration of a registrable unmanned aircraft if —\n(a)the Authority has sought further information or supporting evidence in relation to the registration and the information or evidence has not been given to the Authority;\n(b)the Authority is not satisfied that the person to be registered as a responsible person for the registrable unmanned aircraft has attained the requisite minimum age; or\n(c)the Authority reasonably believes that —\n(i)the registrable unmanned aircraft or a part of the registrable unmanned aircraft is or may be stolen;\n(ii)information given in the application for registration is false or misleading;\n(iii)the registrable unmanned aircraft is being or is about to be used for an unlawful purpose;\n(iv)the registrable unmanned aircraft is already registered; or\n(v)more than one application has been made to the Authority for registration of the same registrable unmanned aircraft.\n(3) On registering a registrable unmanned aircraft, the Authority must confirm the unique identification number assigned to the registrable unmanned aircraft so registered."
+   }
+  },
+  {
+   "id": "SG-H140-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 5 REGISTRATION OF UNMANNED AIRCRAFT"
+   },
+   "heading": {
+    "en": "Cancellation of registration"
+   },
+   "text": {
+    "en": "46. The Authority may cancel the registration of a registrable unmanned aircraft if —\n(a)the Authority is satisfied that the registrable unmanned aircraft —\n(i)is not airworthy;\n(ii)has been destroyed; or\n(iii)has been seized pursuant to the Act or any written law;\n(b)the Authority becomes aware of a circumstance that would have required or permitted the Authority to refuse to register the unmanned aircraft, had it been aware of the circumstance immediately before registering the unmanned aircraft; or\n(c)the registered responsible person for the registrable unmanned aircraft applies for the registration of the unmanned aircraft to be cancelled."
+   }
+  },
+  {
+   "id": "SG-H140-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 5 REGISTRATION OF UNMANNED AIRCRAFT"
+   },
+   "heading": {
+    "en": "General obligations of registered responsible persons"
+   },
+   "text": {
+    "en": "47.—(1) A registered responsible person for a registrable unmanned aircraft must —\n(a)permanently affix (at the registered responsible person’s expense) the registration label at a conspicuous place on the registrable unmanned aircraft and ensure that the unique identification number is visibly stated on the registration label;\n(b)comply with any other directions given by the Authority to ensure compliance with any conditions imposed about the registration of the registrable unmanned aircraft; and\n(c)notify the Authority, in a form approved by the Authority, not more than 7 working days after any change in the registered responsible person’s name or contact address.\n(2) A registered responsible person for a registrable unmanned aircraft who, without reasonable excuse, contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.\n(3) In a prosecution for an offence under paragraph (2), it is not necessary for the prosecution to prove that the person charged with the offence intended to commit the offence."
+   }
+  },
+  {
+   "id": "SG-H140-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 5 REGISTRATION OF UNMANNED AIRCRAFT"
+   },
+   "heading": {
+    "en": "Offences connected with registration labels"
+   },
+   "text": {
+    "en": "48.—(1) A person commits an offence if —\n(a)the person has possession or control of a false registration label; and\n(b)the person knows or ought reasonably to have known that the document is a false registration label.\n(2) Paragraph (1) does not apply if the person has a reasonable excuse.\n(3) A person commits an offence if —\n(a)the person makes a false registration label with the intention of dishonestly inducing another person to accept it as genuine; and\n(b)by reason of the other person so accepting it as genuine —\n(i)obtains a gain (whether for the person or someone else);\n(ii)causes a loss to the other person or someone else; or\n(iii)influences the exercise of a public duty.\n(4) A person commits an offence if —\n(a)the person installs, affixes or displays on a registrable unmanned aircraft a false registration label which the person knows, or ought reasonably to have known, to be a false registration label with the intention of dishonestly inducing another person to accept it as genuine; and\n(b)by reason of the other person so accepting, the person —\n(i)obtains a gain (whether for the person or someone else);\n(ii)causes a loss to the other person or someone else; or\n(iii)influences the exercise of a public duty.\n(5) A person commits an offence if the person —\n(a)without the permission of the Authority, intentionally damages, removes, tampers, defaces or mutilates any registration label installed, affixed or displayed on a registrable unmanned aircraft; and\n(b)knows or ought reasonably to know that the person does not have that permission to damage, remove, tamper, deface or mutilate the registration label.\n(6) A person who is guilty of an offence under paragraph (1), (3), (4) or (5) shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.\n(7) A person may be treated for the purposes of this regulation as making a false registration label if the person alters a label, adhesive or other document so as to make it false in any respect, whether or not it was already a false registration label before the alteration or is false in some other respect apart from that alteration."
+   }
+  },
+  {
+   "id": "SG-H140-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Power to demand names and addresses, etc."
+   },
+   "text": {
+    "en": "49.—(1) An authorised person may require a person whom the authorised person has reasonable grounds to suspect is about to contravene, has contravened or is contravening any provision of these Regulations, to provide the person’s name, address or other proof of identity on demand.\n(2) A person who —\n(a)without reasonable excuse, contravenes paragraph (1); or\n(b)in providing any information so required under paragraph (1), makes a statement which the person knows to be false, or recklessly makes a statement which is false,\nshall be guilty of an offence and shall be liable on conviction —\n(c)for a first offence, to a fine not exceeding $20,000; and\n(d)for a second or subsequent offence, to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 15 months or to both."
+   }
+  },
+  {
+   "id": "SG-H140-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Enforcement of directions"
+   },
+   "text": {
+    "en": "50. A person who fails to comply with any direction given to him or her by any authorised person under any provision of these Regulations is to be deemed for the purposes of these Regulations to have contravened that provision."
+   }
+  },
+  {
+   "id": "SG-H140-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "51.—(1) The provisions of the Second Schedule are to have effect with respect to the fees to be charged in connection with the issue, validation, renewal, extension or variation of any certificate, licence or other document (including an application for, or the issue of a copy of, any certificate, licence or other document), or the undergoing of any check, test, assessment, examination, evaluation, inspection or investigation or the grant of any permission or approval, required by, or for the purpose of, these Regulations.\n(2) Upon an application being made in connection with which any fee is chargeable in accordance with paragraph (1), the applicant must, before the application is entertained, pay the fee so chargeable.\n(3) The Chief Executive may, in any particular case, waive or refund in whole or in part any fee payable under these Regulations on any terms and conditions that the Chief Executive thinks fit."
+   }
+  },
+  {
+   "id": "SG-H140-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 7 SAVING AND TRANSITIONAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Saving and transitional provisions"
+   },
+   "text": {
+    "en": "52.—(1) Every UA operator permit that is granted or renewed by the Authority under paragraph 72G(4) of the Air Navigation Order (O 2) immediately before 2 January 2020 and is in force on that date, is to continue in force as if the UA operator permit were granted or renewed under regulation 12 of these Regulations.\n(2) Every activity permit that is granted by the Authority under paragraph 72H(4) of the Air Navigation Order immediately before 2 January 2020 and is in force on that date is to continue in force as if the activity permit were granted under regulation 16 of these Regulations.\n(3) A UA pilot who is listed in a UA operator permit that is granted or renewed by the Authority under these Regulations or paragraph 72G(4) of the Air Navigation Order immediately before 1 June 2020 and is in force on that date may continue to act as a UA pilot for the UA operator permit holder in accordance with the limitations imposed on the UA pilot in the UA operator permit, up to and including 1 February 2021.\n[S 371/2020 wef 15/05/2020]\n(4) A permit mentioned in paragraph (1) or (2) that is expressed to continue in force for a definite period ceases to be in force after the expiration of that period unless the permit is renewed in accordance with these Regulations.\n(5) [Deleted by S 865/2021 wef 13/11/2021]"
+   }
+  },
+  {
+   "id": "SG-H140-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 2\nDefinitions\n“activity permit” means a Class 1 or Class 2 activity permit granted under regulation 16.\n“aerodrome” includes a military aerodrome.\n“aeroplane” has the meaning given by paragraph 2(1) of the Air Navigation Order.\n“airship” means a power-driven lighter-than-air aircraft.\n“airworthy” has the meaning given by paragraph 2(1) of the Air Navigation Order.\n“applicant” means a person who makes an application to the Authority.\n“application” means an application in connection with the issue, grant, renewal, or variation of any licence, permit, approval, registration, or other document (including an application for, or the issue of a copy of, any licence, permit, approval, registration, or other document) required by, or for the purpose of, these Regulations.\n“approved UA basic training organisation” means the holder of a UA basic training approval granted under regulation 22.\n“Authorised Flight Examiner” means the holder of an Authorised Flight Examiner authorisation.\n“Authorised Flight Examiner authorisation” means an authorisation granted by the Authority under regulation 31, which authorises the holder to act as an Authorised Flight Examiner.\n“authorised person” has the meaning given by paragraph 2(1) of the Air Navigation Order.\n“aviation safety instrument” has the meaning given by section 2(1) of the Act.\n“beyond visual line of sight” means the UA pilot is unable to maintain visual line of sight of the unmanned aircraft of which he or she has operational control.\n“business” includes a profession or trade or an occupation or undertaking, whether or not conducted on a regular, repetitive or continuous basis and whether or not engaged in or carried on for a fee or profit.\n“Chief Executive” has the meaning given by paragraph 2(1) of the Air Navigation Order.\n“Class 2 activity permit conditions” means any of the following conditions:\n(a)at an altitude exceeding 200 ft above mean sea level;\n(b)within any part of the airspace over Singapore to which any declaration under regulation 55C(1)(b) or (5) of the Air Navigation (91 — General Operating Rules) Regulations 2018 applies and has effect;\n[S 838/2025 wef 29/12/2025]\n(c)within 5 km of any aerodrome.\n“contact address”, in relation to an individual, means the address of the individual’s place of residence or workplace.\n[Deleted by S 838/2025 wef 29/12/2025]\n“education purpose” means any lecture, tutorial, seminar, demonstration, class or similar activity on unmanned aircraft, offered or provided by an education institution mentioned in section 45 of the Private Education Act 2009 to students enrolled in that education institution.\n[S 956/2022 wef 31/12/2021]\n“experimental site”, for an unmanned aircraft under construction or testing, means any area which, for the period the unmanned aircraft is constructed or to be tested —\n(a)is used solely or mainly for the purpose of constructing or testing the unmanned aircraft; and\n(b)is accessible only to individuals involved in the construction or testing of the unmanned aircraft.\n“flight” and “to fly” have the meanings assigned to them by paragraph 2(2) of the Air Navigation Order.\n“flying display” means the flying, as an exhibition or for entertainment, of one or more unmanned aircraft at an organised event which the organiser reasonably believes to be attended by more than 500 persons.\n“indoors”, in relation to any place, means any place that is enclosed at the top and on all sides (whether permanently or temporarily) so as to prevent the flight of any unmanned aircraft into or out of that place.\n[S 865/2021 wef 13/11/2021]\n“light show” means an operation of 2 or more unmanned aircraft which are —\n(a)each equipped with lights (such as light emitting diodes); and\n(b)flying in coordinated patterns to create visual effects in the air.\n[S 567/2024 wef 06/07/2024]\n“operator”, for an unmanned aircraft, means a person who is engaged in the operation of the unmanned aircraft, and where the unmanned aircraft is a remotely piloted aircraft, includes —\n(a)the person who causes the remotely piloted aircraft to fly; and\n(b)the remote pilot of the aircraft with duties essential to the operation of the remotely piloted aircraft, such as manipulating the flight controls as appropriate during flight time, if the remote pilot is not the operator.\n“outdoors” means any place that is not indoors.\n“powered-lift” means a heavier-than-air aircraft capable of vertical take‑off, vertical landing, and low‑speed flight, which depends principally on engine‑driven lift devices or engine thrust for the lift during these flight regimes and on non‑rotating aerofoil(s) for lift during horizontal flight.\n“practical assessment” means a practical assessment mentioned in the Fourth Schedule.\n“proficiency check” means a proficiency check mentioned in the Fourth Schedule.\n[Deleted by S 838/2025 wef 29/12/2025]\n“psychoactive substances” includes alcohol, opioids, cannabinoids, sedatives and hypnotics, cocaine, other psychostimulants, hallucinogens and volatile solvents, but excludes coffee and tobacco.\n“rating”, in relation to a UA pilot licence, means an authorisation entered on or associated with a licence and forming part of a licence, which may state conditions, privileges or limitations pertaining to the licence.\n“recreation purpose” means any activity engaged in for enjoyment, relaxation or leisure, but not taking part in —\n(a)a sporting activity that forms part of an organised group activity or organised competition, race or tournament;\n(b)a recreational activity provided in the course of carrying on a business;\n[S 567/2024 wef 06/07/2024]\n(c)a flying display; or\n[S 865/2021 wef 13/11/2021]\n[S 567/2024 wef 06/07/2024]\n(d)a light show.\n[S 567/2024 wef 06/07/2024]\n“registered responsible person”, in relation to a registrable unmanned aircraft, means any person who is registered as the responsible person for the registrable unmanned aircraft pursuant to regulation 45.\n“registrable unmanned aircraft” means an unmanned aircraft with a total mass exceeding 250 g, but does not include an unmanned aircraft that is operated or intended to be operated solely for the conduct of light shows under a Class 1 activity permit.\n[S 567/2024 wef 06/07/2024]\n“registration label” means a registration label that is issued by or on behalf of the Authority under regulation 44 and that indicates a unique identification number.\n“requisite minimum age” means 16 years of age.\n[Deleted by S 838/2025 wef 29/12/2025]\n“rotorcraft” has the meaning given by paragraph 2(1) of the Air Navigation Order.\n“SingPass” means the identity authentication service, known as Singapore Personal Access, by which an individual authenticates the individual’s identity in order to carry out an online transaction with the Government or a public authority.\n“SingPass credential” means any username, password or 2‑factor authentication detail required to authenticate, using SingPass, the identity of an individual.\n“theory test” means a theory test mentioned in the Fourth Schedule.\n“total mass” means the mass of the aircraft including the mass of any other thing that may be attached to the aircraft during its operation, such as any payload, battery or fuel.\n“UA” means an unmanned aircraft.\n“UA basic training” means training or instruction conducted by an approved UA basic training organisation on the safe and responsible operation of unmanned aircraft.\n“UA basic training approval” means an aviation safety instrument granted by the Authority under regulation 22, which authorises the holder to conduct UA basic training.\n“UA basic training certificate” means a certificate issued by an approved UA basic training organisation, evidencing that the holder has successfully completed UA basic training.\n“UA cross-border permit” means an aviation safety instrument granted by the Authority under regulation 18B, which authorises the holder of the permit to operate an unmanned aircraft stated in the permit for the purpose of flying or causing the flight of the unmanned aircraft into or out of Singapore.\n[S 747/2023 wef 21/11/2023]\n“UA operator permit” means an aviation safety instrument issued by the Authority under regulation 12, which authorises the holder of the permit to operate an unmanned aircraft of the type and for the purpose stated in the permit.\n“UA operator permit holder” means the holder of a UA operator permit.\n“UA pilot”, in relation to an unmanned aircraft, means the person who has operational control of that unmanned aircraft.\n“UA pilot licence” means an aviation safety instrument issued by the Authority under regulation 37, which authorises the holder of the licence to act as a UA pilot of unmanned aircraft of one or more classes or categories specified in the Third Schedule.\n“UA pilot licence training” means training or instruction leading to the grant of a UA pilot licence, or the inclusion or extension of validity of a class, category or rating in a UA pilot licence, but does not include UA basic training.\n“UA Training and Assessment Organisation” or “UATO” means the holder of a UATO approval.\n“UATO approval” means an aviation safety instrument granted by the Authority under regulation 27, which authorises the holder of the approval to conduct the UA pilot licence training, practical assessments and proficiency checks.\n“visual line of sight” means —\n(a)the UA pilot is able to maintain direct, unaided and unobstructed visual contact of the UA so as to monitor its flight path in relation to other aircraft, persons, vessels, vehicles and structures for the purpose of avoiding collision; and\n(b)the distance between the UA pilot and the UA does not exceed 400 m.\n“working day” means any day except a Saturday, Sunday or public holiday."
+   }
+  },
+  {
+   "id": "SG-H140-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulations 11, 12, 13, 15, 16, 17, 18A(2), 21, 23, 26, 28, 30, 36, 38, 44 and 51\nFees\nUA operator permit\n1. The total of the following fees must be paid for an application for the grant of a UA operator permit for one or more unmanned aircraft:\n(a)for an application made on or after 23 December 2022 but before 15 January 2024 —\n(i)for the first type of unmanned aircraft\n—\n$650\n(ii)for each additional type of unmanned aircraft specified in the application\n—\n$450\n(b)for an application made on or after 15 January 2024 —\n(i)for the first type of unmanned aircraft\n—\n$700\n(ii)for each additional type of unmanned aircraft specified in the application\n—\n$500\n[S 956/2022 wef 23/12/2022]\n[S 747/2023 wef 21/11/2023]\n2. The following fees must be paid for an application to renew a UA operator permit, except that the fee in paragraph 3 must be paid in addition if the application is also an application to vary the UA operator permit:\n(a)for an application made on or after 23 December 2022 but before 15 January 2024\n—\n$250\n(b)for an application made on or after 15 January 2024\n—\n$300\n[S 956/2022 wef 23/12/2022]\n2A. The fee for the grant, on or after 1 June 2022, of a UA operator permit is $200.\n[S 148/2022 wef 01/06/2022]\n2B. The fee for the renewal, on or after 1 June 2023, of a UA operator permit is $200.\n[S 148/2022 wef 01/06/2022]\n3. The following fees must be paid for an application to vary a UA operator permit because of an addition or substitution of any type of unmanned aircraft specified in the permit:\n(a)for an application made on or after 23 December 2022 but before 15 January 2024, for each type of unmanned aircraft added or substituted\n—\n$450\n(b)for an application made on or after 15 January 2024, for each type of unmanned aircraft added or substituted\n—\n$500\n[S 956/2022 wef 23/12/2022]\nClass 1 activity permit\n4. The following fees must be paid for an application for the grant of a Class 1 activity permit:\n(a)for an application made on or after 23 December 2022 but before 15 January 2024 —\n(i)for the first application\n—\n$90\n(ii)for any subsequent application without any change in the unmanned aircraft or type of unmanned aircraft or place of operation of that aircraft\n—\n$35\n(b)for an application made on or after 15 January 2024 but before 6 July 2024 —\n(i)for the first application\n—\n$120\n(ii)for any subsequent application without any change in the unmanned aircraft or type of unmanned aircraft or place of operation of that aircraft\n—\n$45\n(c)for an application made on or after 6 July 2024 —\n(i)for the first application, where the Class 1 activity permit is for any activity other than the conduct of a light show\n—\n$120\n(ii)for the first application, where the Class 1 activity permit is for the conduct of a light show\n—\n$500\n(iii)for any subsequent application without any change in the unmanned aircraft or type of unmanned aircraft or place of operation of that aircraft, where the Class 1 activity permit is for any activity other than the conduct of a light show\n—\n$45\n(iv)for any subsequent application without any change in the unmanned aircraft or type of unmanned aircraft or place of operation of that aircraft, where the Class 1 activity permit is for the conduct of a light show\n—\n$425\n[S 567/2024 wef 06/07/2024]\n[S 956/2022 wef 23/12/2022]\nClass 2 activity permit\n5. The following fees must be paid for an application for the grant of a Class 2 activity permit:\n(a)for an application made on or after 23 December 2022 but before 15 January 2024 —\n(i)for the first application\n—\n$85\n(ii)for any subsequent application without any change in the unmanned aircraft or type of unmanned aircraft or place of operation of that aircraft\n—\n$28\n(b)for an application made on or after 15 January 2024 —\n(i)for the first application\n—\n$110\n(ii)for any subsequent application without any change in the unmanned aircraft or type of unmanned aircraft or place of operation of that aircraft\n—\n$36\n[S 956/2022 wef 23/12/2022]\nUA cross-border permit\n5A. The fee for an application for the grant of a UA cross-border permit is $8,100.\n[S 747/2023 wef 21/11/2023]\nUA pilot licence\n6. The total of the following fees must be paid for an application for the grant of a UA pilot licence:\n(a)for the first category specified in the application\n—\n$500\n(b)for each additional category specified in the application\n—\n$200\n(c)for each rating in Class B specified in the application\n—\n$200\n7. The fee for an application to vary a UA pilot licence is $200.\n8. The fee for a theory test or re-test on an application for a UA pilot licence is $136.25.\n[S 800/2025 wef 01/01/2026]\nUA basic training approval\n9. The fee for an application for the grant of a UA basic training approval is $350.\n10. The fee for an application to renew a UA basic training approval is $150, except that the fee in paragraph 11 must be paid in addition if the application is also an application to vary the UA basic training approval.\n11. The fee for an application to vary a UA basic training approval is $200.\nUATO approval\n12. The total of the following fees must be paid for an application for the grant of a UATO approval:\n(a)for the first scope of work specified in the application\n—\n$2,300\n(b)for each additional scope of work specified in the application\n—\n$1,600\n13. The fee for an application to renew a UATO approval is $1,400, except that the fee in paragraph 14 must be paid in addition if the application is also an application to vary the UATO approval.\n14. The fee for an application to vary a UATO approval is $1,600.\n15. The following fees must be paid for an application to register a registrable unmanned aircraft:\n(a)for an application made on or after 23 December 2022 but before 15 January 2024\n—\n$20\n(b)for an application made on or after 15 January 2024\n—\n$25\n[S 956/2022 wef 23/12/2022]\n16. [Deleted by S 956/2022 wef 23/12/2022]\n[S 747/2023 wef 21/11/2023]"
+   }
+  },
+  {
+   "id": "SG-H140-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulation 37(3) and First Schedule\nUA pilot licence classes and categories\nClass\nCategory\nAuthorisation\nClass A\nAeroplane\nThe holder is authorised to operate an unmanned aircraft —\n(a)that is an aeroplane; and\n(b)that has a total mass not exceeding 25 kg.\nRotorcraft\nThe holder is authorised to operate an unmanned aircraft —\n(a)that is a rotorcraft; and\n(b)that has a total mass not exceeding 25 kg.\nPowered‑lift\nThe holder is authorised to operate an unmanned aircraft —\n(a)that is a powered-lift aircraft; and\n(b)that has a total mass not exceeding 25 kg.\nAirship\nThe holder is authorised to operate an unmanned aircraft —\n(a)that is an airship; and\n(b)that has a total mass not exceeding 25 kg.\nClass B\nAeroplane\nThe holder is authorised to operate an unmanned aircraft —\n(a)that is an aeroplane of a rating specified in the UA pilot licence; and\n(b)that has a total mass exceeding 25 kg.\nRotorcraft\nThe holder is authorised to operate an unmanned aircraft —\n(a)that is a rotorcraft of a rating specified in the UA pilot licence; and\n(b)that has a total mass exceeding 25 kg.\nPowered-lift\nThe holder is authorised to operate an unmanned aircraft —\n(a)that is a powered-lift aircraft of a rating specified in the UA pilot licence; and\n(b)that has a total mass exceeding 25 kg.\nAirship\nThe holder is authorised to operate an unmanned aircraft —\n(a)that is an airship of a rating specified in the UA pilot licence; and\n(b)that has a total mass exceeding 25 kg.\n[S 865/2021 wef 13/11/2021]"
+   }
+  },
+  {
+   "id": "SG-H140-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE\nFirst Schedule\nUA pilot licence — tests and assessments\nTheory test\n1.—(1) The theory test is conducted or administered by the Authority, and is a test on —\n(a)General UAS Knowledge;\n(b)Principles of Flight;\n(c)Air Law;\n(d)Navigation and Meteorology;\n(e)Human Factors; and\n(f)Safety and Operations.\n(2) An applicant passes the theory test if the applicant achieves a test score of at least 75%.\n(3) An applicant is not eligible to attempt the theory test more than 2 times within a period of one month.\n(4) A pass in the theory test shall be valid for 24 months from the date on which the theory test was attempted.\nPractical assessment\n2.—(1) The practical assessment is conducted or administered by the Authority, a UATO or an Authorised Flight Examiner, and is an assessment of the applicant’s competency and ability to —\n(a)recognise and manage threats and errors while operating an unmanned aircraft of the class and category stated in the application;\n(b)safely operate the unmanned aircraft of the class and category stated in the application, within any limitations imposed or to be imposed under the UA pilot licence;\n(c)exercise good judgment and airmanship;\n(d)apply aeronautical knowledge; and\n(e)maintain control of the unmanned aircraft at all times in a manner such that the successful outcome of a procedure or manoeuvre is assured.\n(2) An applicant passes the practical assessment if the applicant meets, to the satisfaction of the person conducting the assessment, the requirements to pass that assessment.\n(3) An applicant is not eligible to attempt the practical assessment unless the applicant holds a valid pass in the theory test at the time of attempting the practical assessment.\nProficiency check\n3.—(1) The proficiency check is a proficiency check conducted or administered by the Authority, a UATO or an Authorised Flight Examiner, and is an assessment of the competency and ability of the person undergoing the check to —\n(a)recognise and manage threats and errors while operating an unmanned aircraft of the class and category stated in the application;\n(b)safely operate the unmanned aircraft of the class and category stated in the application, within any limitations imposed or to be imposed under the UA pilot licence;\n(c)exercise good judgment and airmanship;\n(d)apply aeronautical knowledge; and\n(e)maintain control of the unmanned aircraft at all times in a manner such that the successful outcome of a procedure or manoeuvre is assured.\n(2) A person passes the proficiency check if the person meets, to the satisfaction of the person conducting the check, the requirements to pass that check."
+   }
+  }
+ ]
+}

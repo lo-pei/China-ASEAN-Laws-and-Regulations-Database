@@ -1,0 +1,85 @@
+{
+ "id": "PH-H9738",
+ "title": {
+  "zh": "设立Mandaluyong市",
+  "en": "An Act Establishing an Integrated School in Barangay Mauway, City of Mandaluyong, to be Known as the Senate President Neptali A. Gonzales Integrated School and Appropriating Funds Therefor",
+  "orig": "An Act Establishing an Integrated School in Barangay Mauway, City of Mandaluyong, to be Known as the Senate President Neptali A. Gonzales Integrated School and Appropriating Funds Therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p138",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2019-04-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 11305",
+ "officialCode": null,
+ "topics": [
+  "administrative",
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 783,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11305_2019.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2019/ra_11305_2019.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H9738-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Establishment of an Integrated School. -There is hereby established, under the supervision of the Department of Education, an integrated school in Barangay Mauway, City of Mandaluyong, National Capital Region, to be known as the Senate President Neptali A. Gonzales Integrated School."
+   }
+  },
+  {
+   "id": "PH-H9738-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Appropriations. -The Secretary of Education shall immediately include in the Department’s program the operationalization of the Senate President Neptali A. Gonzales Integrated School, the funding of which shall be included in the annual General Appropriations Act."
+   }
+  },
+  {
+   "id": "PH-H9738-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Implementation. -The Secretary of Education shall issue such rules and regulations necessary to carry out the purpose of this Act."
+   }
+  },
+  {
+   "id": "PH-H9738-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Effectivity. -This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
+   }
+  }
+ ]
+}

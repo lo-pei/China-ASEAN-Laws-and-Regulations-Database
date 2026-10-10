@@ -1,0 +1,74 @@
+{
+ "id": "PH-H3285",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing for the Issuance of Postage Stamps in Spanish and the National Language for the Year Nineteen Hundred and Sixty-Five to Commemorate the Four Hundredth Anniversary of the Evangelization of the Philippines",
+  "orig": "An Act Providing for the Issuance of Postage Stamps in Spanish and the National Language for the Year Nineteen Hundred and Sixty-Five to Commemorate the Four Hundredth Anniversary of the Evangelization of the Philippines"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p46",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1964-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4082",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 951,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1964/ra_4082_1964.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1964/ra_4082_1964.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3285-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The Postmaster General is hereby directed to order the printing and issue of postage stamps of different denominations in Spanish and the National Language to commemorate the four hundredth anniversary of the evangelization of the Philippines when Miguel Lopez de Legaspi and Fr. Andres de Urdaneta arrived in Cebu, Philippines, from Mexico on April twenty-seven, fifteen hundred sixty-five. The postage stamps must portray the historic facts of the commencement of the evangelization of the Philippines, our contract with Western civilization and culture which came to us primarily from Spain and Mexico, and the emergence of the Filipino nation by the consolidation of small and distinct kingdoms and tribes."
+   }
+  },
+  {
+   "id": "PH-H3285-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The sum of one hundred thousand pesos is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, to carry out the provisions of this Act."
+   }
+  },
+  {
+   "id": "PH-H3285-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1964."
+   }
+  }
+ ]
+}

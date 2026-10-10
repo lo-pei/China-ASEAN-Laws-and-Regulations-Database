@@ -1,0 +1,218 @@
+{
+ "id": "TL-H113",
+ "title": {
+  "zh": "Regime 公共债务",
+  "en": null,
+  "orig": "Regime da Dívida Pública"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p03",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2011-09-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 13/2011",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 11,
+ "chars": 4169,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2011/serie_1/serie1_no36.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 11 条；逐字取自官方公报 PDF（public/docs/2011/serie_1/serie1_no36.pdf）第 5246–5248 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H113-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Objecto"
+   },
+   "text": {
+    "pt": "A presente lei estabelece o regime geral de constituição, emissão e gestão da dívida pública do Estado."
+   }
+  },
+  {
+   "id": "TL-H113-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Princípios"
+   },
+   "text": {
+    "pt": "1.  O recurso ao endividamento público deve ser motivado pelas necessidades de financiamento geradas pela execução das tarefas prioritárias do Estado, relacionadas com a construção de infra-estruturas estratégicas para o desenvolvimento do País.\n2.    A gestão da dívida pública deve orientar-se por princípios de rigor e eficiência, designadamente:\na)   Salvaguarda do equilíbrio das contas públicas a médio e longo prazo;\nb)  Minimização dos custos directos e indirectos numa perspectiva de longo prazo;\nc)   Garantia da disponibilização do financiamento necessário em cada período orçamental;\nd)   Distribuição equilibrada dos encargos pelos vários orçamentos anuais, de modo a prevenir uma excessiva concentração temporal do serviço da dívida;\ne)   Não exposição a riscos excessivos;\nf)   Promoção de um funcionamento equilibrado e eficiente dos mercados financeiros.\n3.    O custo da dívida pública não pode ser superior ao retorno económico do investimento público, competindo ao Ministro das Finanças efectuar os estudos e análises necessários."
+   }
+  },
+  {
+   "id": "TL-H113-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CONSTITUIÇÃO  E  EMISSÃO  DA  DÍVIDA  PÚBLICA"
+   },
+   "heading": {
+    "pt": "Condições Gerais"
+   },
+   "text": {
+    "pt": "A lei que aprova o Orçamento do Estado, estabelece, para cada período orçamental, as condições gerais que regem o financiamento do Estado e a constituição e emissão da dívida pública, nomeadamente o montante máximo de endividamento autorizado e o prazo máximo dos empréstimos ou outras formas de dívida pública."
+   }
+  },
+  {
+   "id": "TL-H113-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CONSTITUIÇÃO  E  EMISSÃO  DA  DÍVIDA  PÚBLICA"
+   },
+   "heading": {
+    "pt": "Condições Específicas"
+   },
+   "text": {
+    "pt": "Compete ao Ministro das Finanças negociar as condições específicas de cada empréstimo ou outra forma de dívida pública, e contrair os empréstimos ou emitir a dívida em nome do Estado, após autorização do Conselho de Ministros."
+   }
+  },
+  {
+   "id": "TL-H113-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CONSTITUIÇÃO  E  EMISSÃO  DA  DÍVIDA  PÚBLICA"
+   },
+   "heading": {
+    "pt": "Formas de Dívida Pública"
+   },
+   "text": {
+    "pt": "A dívida pública pode assumir as seguintes formas:\na)   Contratos de Empréstimo ou Acordos de Financiamento;\nb)   Títulos do Tesouro;\nc)   Certificados de Poupança."
+   }
+  },
+  {
+   "id": "TL-H113-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III GESTÃO  DA  DÍVIDA  PÚBLICA"
+   },
+   "heading": {
+    "pt": "Garantia de pagamento da Dívida Pública"
+   },
+   "text": {
+    "pt": "O pagamento dos juros e a amortização do capital relativos à dívida pública são assegurados pelas receitas inscritas anualmente no Orçamento do Estado."
+   }
+  },
+  {
+   "id": "TL-H113-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III GESTÃO  DA  DÍVIDA  PÚBLICA"
+   },
+   "heading": {
+    "pt": "Medidas de gestão da dívida pública"
+   },
+   "text": {
+    "pt": "1.   Compete ao Ministro das Finanças, tendo em vista a gestão eficiente da dívida pública e a melhoria das condições finais da contracção de empréstimos, realizar as seguintes operações de gestão da dívida pública:\na)  Substituição entre a emissão dos vários tipos de empréstimos;\nb)   Reforço das dotações para amortização de capital;\nc)   Pagamento antecipado, total ou parcial, de empréstimos já contraídos;\nd)   Conversão de empréstimos existentes, nos termos e condições da emissão ou do contrato, ou por acordo com os respectivos titulares quando as condições correntes dos mercados financeiros assim o recomendem.\n2.  Compete também ao Ministro das Finanças, realizar as operações financeiras consideradas apropriadas a uma gestão eficiente da dívida pública, nomeadamente operações de troca do regime de taxa de juro, de divisa e de outras condições financeiras, bem como outras operações a prazo, tendo por base as responsabilidades decorrentes da dívida pública.\n3.   O Ministro de Finanças é ainda responsável por assegurar a emissão de novos títulos representativos da dívida pública em substituição de títulos destruídos, deteriorados ou extraviados, nos termos da legislação aplicável."
+   }
+  },
+  {
+   "id": "TL-H113-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III GESTÃO  DA  DÍVIDA  PÚBLICA"
+   },
+   "heading": {
+    "pt": "Relatórios"
+   },
+   "text": {
+    "pt": "1.   O Governo apresenta periodicamente ao Parlamento Nacional informação sobre as condições específicas dos empréstimos contraídos ou de outras formas de dívida pública, bem como sobre as operações de gestão da dívida.\n2.   Os relatórios são apresentados nos termos dos artigos 44º e 45º da Lei n.º 13/2009, de 21 de Outubro, na redacção que lhe foi dada pela Lei n.º 9/2011 de 17 de Agosto - Orgânica da Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas."
+   }
+  },
+  {
+   "id": "TL-H113-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Foro competente"
+   },
+   "text": {
+    "pt": "1.   Os litígios emergentes das operações de dívida pública são resolvidos por tribunais judiciais ou por arbitragem, tal como previsto nos instrumentos que estabeleçam a obrigação da dívida.\n2.   No caso de dívidas externas, as partes podem, por mútuo acordo, escolher uma jurisdição e foro estrangeiros."
+   }
+  },
+  {
+   "id": "TL-H113-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Regulamentação"
+   },
+   "text": {
+    "pt": "A regulamentação necessária à execução da presente lei é aprovada por diploma do Governo."
+   }
+  },
+  {
+   "id": "TL-H113-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV DISPOSIÇÕES  FINAIS"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação no Jornal da República."
+   }
+  }
+ ]
+}

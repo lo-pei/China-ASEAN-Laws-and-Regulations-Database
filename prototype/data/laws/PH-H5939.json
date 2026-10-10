@@ -1,0 +1,74 @@
+{
+ "id": "PH-H5939",
+ "title": {
+  "zh": "设立Plgkawayan市",
+  "en": "An Act Converting the Rural Health Unit in the Municipality of Plgkawayan, Province of Cotabato, Into A Five-bed Capacity Health Infirmary, To Be Known As the Pigkawayan Health Infirmary, and Appropriating Funds Therefor",
+  "orig": "An Act Converting the Rural Health Unit in the Municipality of Plgkawayan, Province of Cotabato, Into A Five-bed Capacity Health Infirmary, To Be Known As the Pigkawayan Health Infirmary, and Appropriating Funds Therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p84",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1992-04-27",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 7455",
+ "officialCode": null,
+ "topics": [
+  "health"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 407,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7455_1992.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1992/ra_7455_1992.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H5939-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The rural health unit in the Municipality of Pigkawayan, Province of Cotabato, is hereby converted into a five-bed capacity health infirmary, to be known as the Pigkawayan Health Infirmary."
+   }
+  },
+  {
+   "id": "PH-H5939-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter."
+   }
+  },
+  {
+   "id": "PH-H5939-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

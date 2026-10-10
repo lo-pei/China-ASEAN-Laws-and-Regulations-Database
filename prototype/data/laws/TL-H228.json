@@ -1,0 +1,94 @@
+{
+ "id": "TL-H228",
+ "title": {
+  "zh": "Primeira 修改 à《第25/2021号法律》，Lei 司法组织",
+  "en": null,
+  "orig": "Primeira Alteração à Lei no 25/2021, de 21 de dezembro, Lei da Organização Judiciária"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p04",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2022-12-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "本法系对《第25/2021号法律》的修改。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 12/2022",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 2083,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2022/serie_1/SERIE_I_NO_51_A.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自官方公报 PDF（public/docs/2022/serie_1/SERIE_I_NO_51_A.pdf）第 1–2 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 【本法系对《第25/2021号法律》的修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H228-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Objeto"
+   },
+   "text": {
+    "pt": "A presente lei procede à primeira alteração à Lei n.º 25/2021, de 2 de dezembro, Lei da Organização Judiciária."
+   }
+  },
+  {
+   "id": "TL-H228-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Alteração à Lei n.º 25/2021, de 2 de dezembro"
+   },
+   "text": {
+    "pt": "Os artigos 77.º e 83.º da Lei n.º 25/2021, de 2 de dezembro, passam a ter a seguinte redação:\n“Artigo 77.º […]\n1.    O Supremo Tribunal de Justiça é instalado no prazo máximo de 30 meses, contados da entrada em vigor da presente lei.\n2.   O Tribunal de Recurso é instalado no prazo máximo de 30 meses, contados a partir da entrada em vigor da presente lei.\nSérie I, N.° 51 A\n3.    […]\n4.    […]\n5.    […]\nArtigo 83.º […]\n1.   No prazo máximo de 12 meses após a entrada em vigor da presente lei, o Presidente da República nomeia, por decreto, a Comissão de Recrutamento e Seleção para o primeiro provimento dos lugares de juiz do Supremo Tribunal de Justiça e dos lugares de juiz do Tribunal de Recurso, a qual inicia funções na data da publicação do decreto.\n2.    […]\n3.    […]\n4.    […]\n5.    […]\n6.    […]\n7.   A Comissão deve comunicar, até 12 meses da entrada em vigor do decreto de nomeação da Comissão, ao Presidente da República e ao Parlamento Nacional, através de relatório escrito, o resultado da graduação final dos concorrentes que reúnam os requisitos de nomeação para juiz do Supremo Tribunal de Justiça e para juiz do Tribunal de Recurso.\n8.   A Comissão deve, no mesmo prazo do número anterior, enviar o Relatório de graduação final dos concorrentes para o Conselho Superior da Magistratura Judicial, de modo a que este proceda, no prazo máximo de 30 dias, à nomeação dos juízes do Supremo Tribunal de Justiça e dos juízes do Tribunal de Recurso, de entre os qualificados para esse efeito pelo júri.\n9.    […]\n10.   […]\n11.   […]\n12.   […]\n13.  A Comissão cessa funções o mais tardar 30 dias após a entrega dos relatórios referidos nos n.ºs 1 e 2.”"
+   }
+  },
+  {
+   "id": "TL-H228-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "heading": {
+    "pt": "Validade das indicações anteriores"
+   },
+   "text": {
+    "pt": "São válidas as indicações de membros da Comissão de Recrutamento e Seleção anteriormente feitas pelo Parlamento Nacional e pelo Presidente da República, em cumprimento do disposto no n.º 2 do artigo 83.º da Lei nº 25/2021, de 2 de dezembro."
+   }
+  },
+  {
+   "id": "TL-H228-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "id": "PH-H9672",
+ "title": {
+  "zh": null,
+  "en": "Magna Carta for Persons with Disability",
+  "orig": "An Act Providing for the Mandatory Philhealth Coverage for All Persons with Disability (PWDs), Amending for the Purpose Republic Act No. 7277, as Amended, Otherwise Known as the \"Magna Carta for Persons with Disability\""
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p137",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2019-02-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 11228",
+ "officialCode": null,
+ "topics": [
+  "civil",
+  "health"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 2518,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11228_2019.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2019/ra_11228_2019.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H9672-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Title Two, Chapter III of Republic Act No. 7277, as amended, is hereby further amended by adding a new section denominated as Section 20-A to read as follows:\n\"Sec. 20-A. Mandatory PhilHealth Coverage. - All persons with disability (PWDs) shall be automatically covered under the National Health Insurance Program (NHIP) of the Philippine Health Insurance Corporation (PhilHealth). Premium contributions for all PWDs shall be paid by the national government: Provided, That the premium contributions of PWD members in the formal economy shall be shared equally by their employers and the national government. The funds necessary for the effective implementation of this Act shall be sourced from the National Health Insurance Fund of PhilHealth earmarked from the proceeds of Republic Act No. 10351, otherwise known as ‘An Act Restructuring the Excise Tax on Alcohol and Tobacco Products by Amending Sections 141, 142, 143, 144, 145, 8, 131 and 288 of Republic Act No. 8424, Otherwise Known as the National Internal Revenue Code of 1997, as Amended by Republic Act No. 9334, and for Other Purposes’, in accordance with pertinent laws and regulations.\n\"The PhilHealth shall develop exclusive packages for PWDs that will address their specific health and development needs.\""
+   }
+  },
+  {
+   "id": "PH-H9672-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Monitoring and Evaluation. - The Department of Health (DOH), in coordination with the Department of Social Welfare and Development (DSWD), the Department of Labor and Employment (DOLE), the National Council on Disability Affairs (NCDA), the local government units (LGUs), other relevant government agencies and nongovernment organizations, shall conduct a periodic monitoring and evaluation of the implementation of this Act. Towards this end, the DOH shall maintain an updated database on PWDs and their health and development needs. The LGUs, the PhilHealth, the NCDA, and other relevant government agencies are directed to submit their data on PWDs to the DOH."
+   }
+  },
+  {
+   "id": "PH-H9672-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Implementing Rules and Regulations (IRR). - The PhilHealth, in consultation with the DOH, the DSWD, the DOLE, the NCDA, and the various national leagues of LGUs shall promulgate the IRR, within three (3) months upon the effectivity of this Act."
+   }
+  },
+  {
+   "id": "PH-H9672-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Repealing Clause. - All laws, decrees, executive orders, rules and regulations, or parts thereof which are inconsistent with this Act are hereby repealed, amended or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H9672-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Effectivity. - This Act shall take effect after fifteen (15) days from its publication in the Official Gazette or in a newspaper of general circulation."
+   }
+  }
+ ]
+}

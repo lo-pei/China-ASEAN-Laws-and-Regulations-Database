@@ -1,0 +1,1138 @@
+{
+ "id": "SG-H1275",
+ "title": {
+  "zh": null,
+  "en": "Employment Claims Rules 2017",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p16",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ECA2016-R1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 69,
+ "chars": 60331,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ECA2016-R1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 69 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1275-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Rules are the Employment Claims Rules 2017."
+   }
+  },
+  {
+   "id": "SG-H1275-A1.001",
+   "no": 1.001,
+   "noLabel": {
+    "en": "1A."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "1A. In these Rules —\n“ACRA” means the Accounting and Corporate Regulatory Authority established by section 3 of the Accounting and Corporate Regulatory Authority Act 2004;\n“CorpPass” means the identity authentication service, known as Singapore Corporate Access, by which an entity authenticates its identity in order to carry out an online transaction with the Government or a statutory board;\n“CorpPass credential” means any username, password or 2‑factor authentication detail required to authenticate, using CorpPass, the identity of an entity;\n“electronic system” means the electronic filing and case management system established under rule 3A(1);\n“messaging system” means any system that enables the transmission of short text messages or email —\n(a)from a mobile device to another mobile device; or\n(b)from an email address to a mobile device, and the other way around;\n“registrar of the State Courts” means the registrar of the State Courts appointed under the State Courts Act 1970, and includes a deputy registrar appointed under that Act;\n“relevant Form”, in relation to any purpose for which a specific form is required to be used, means the current version of the relevant form for that purpose, as set out on the website of the electronic system or in the practice directions;\n“SingPass” means the identity authentication service, known as Singapore Personal Access, by which an individual authenticates the individual’s identity in order to carry out an online transaction with the Government or a statutory board;\n“SingPass credential” means any username, password or 2‑factor authentication detail required to authenticate, using SingPass, the identity of an individual;\n“working day” means any day other than a Saturday, Sunday or a public holiday."
+   }
+  },
+  {
+   "id": "SG-H1275-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Application of Rules"
+   },
+   "text": {
+    "en": "2.—(1) These Rules apply to —\n(a)all proceedings under Part 3 of the Act; and\n(b)every application to a District Court under section 7(2) or (4) of the Act.\n(2) Subject to paragraph (3), the Rules of Court 2021 do not apply to the following:\n(a)any proceedings before a tribunal or the Registrar;\n(b)any procedure for proceedings in a District Court or in the General Division of the High Court for which provision is made in these Rules.\n(3) Paragraph (2) does not affect the application of Order 23 of the Rules of Court 2021 to committal proceedings before a tribunal."
+   }
+  },
+  {
+   "id": "SG-H1275-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Forms and documents"
+   },
+   "text": {
+    "en": "3.—(1) Unless a tribunal, the Registrar or a court directs otherwise, every relevant Form or document relating to proceedings before a tribunal, the Registrar or a court must be submitted through the electronic system.\n(2) Every relevant Form must contain such particulars, and be accompanied by such documents, as may be specified by the tribunal, the Registrar or the court or in the relevant Form.\n(3) Any relevant Form may be used in any particular case with such variations as the circumstances of that case require."
+   }
+  },
+  {
+   "id": "SG-H1275-A3.001",
+   "no": 3.001,
+   "noLabel": {
+    "en": "3A."
+   },
+   "chapter": {
+    "en": "PART 1A ELECTRONIC SYSTEM"
+   },
+   "heading": {
+    "en": "Electronic system"
+   },
+   "text": {
+    "en": "3A.—(1) An electronic filing and case management system is established for the tribunals.\n(2) The purposes of the electronic system are as follows:\n(a)to facilitate the submission of relevant Forms and documents;\n(b)to facilitate the service of relevant Forms and documents;\n(c)to facilitate, by electronic means, the settlement of disputes and the conduct of proceedings before a tribunal or the Registrar."
+   }
+  },
+  {
+   "id": "SG-H1275-A3.002",
+   "no": 3.002,
+   "noLabel": {
+    "en": "3B."
+   },
+   "chapter": {
+    "en": "PART 1A ELECTRONIC SYSTEM"
+   },
+   "heading": {
+    "en": "Authentication"
+   },
+   "text": {
+    "en": "3B.—(1) Subject to paragraph (3), an individual must authenticate the individual’s identity using SingPass in order to access the electronic system to carry out an online transaction involving the individual.\n(2) Subject to paragraph (3), a person, who is authorised by an entity to carry out through the electronic system an online transaction involving the entity, must authenticate the identity of the entity using CorpPass in order to access the electronic system to carry out that transaction for the entity.\n(3) The Registrar may, on application by a party that is unable to authenticate the party’s identity using SingPass or CorpPass, issue the party with a username and password to enable the party to access the electronic system to carry out an online transaction involving the party.\n(4) A party that is issued a username and a password under paragraph (3) —\n(a)must ensure the confidentiality and security of the username and password; and\n(b)must not —\n(i)divulge the username and password to any other person; or\n(ii)permit any other person to use the username and password.\n(5) An individual must not facilitate the use, by any other person, of the individual’s SingPass credentials to access the electronic system.\n(6) An entity must not facilitate the use, by any unauthorised person, of the CorpPass credentials of the entity to access the electronic system."
+   }
+  },
+  {
+   "id": "SG-H1275-A3.003",
+   "no": 3.003,
+   "noLabel": {
+    "en": "3C."
+   },
+   "chapter": {
+    "en": "PART 1A ELECTRONIC SYSTEM"
+   },
+   "heading": {
+    "en": "Information on party"
+   },
+   "text": {
+    "en": "3C. Every party to proceedings before a tribunal or the Registrar must —\n(a)enter, through such means as may be provided by the electronic system for the recording of information on the party’s profile, such information on the party as the electronic system may require; and\n(b)if there is any change to that information, update that information by entering, through such means as may be provided by the electronic system, the details of the change."
+   }
+  },
+  {
+   "id": "SG-H1275-A3.004",
+   "no": 3.004,
+   "noLabel": {
+    "en": "3D."
+   },
+   "chapter": {
+    "en": "PART 1A ELECTRONIC SYSTEM"
+   },
+   "heading": {
+    "en": "Time of filing of relevant Form or document submitted through electronic system"
+   },
+   "text": {
+    "en": "3D.—(1) If a relevant Form or document is submitted through the electronic system, the relevant Form or document is treated as filed on the date and at the time the first part of the transmission of the relevant Form or document is received in the electronic system.\n(2) Despite paragraph (1), where the submission of a relevant Form or document through the electronic system is unsuccessful or delayed because of a failure or inability of the electronic system to transmit or process the relevant Form or document, the Registrar may —\n(a)on the Registrar’s own motion or on the application of the party who submitted the relevant Form or document, make an order for the relevant Form or document to be treated as filed on an earlier date than that on which the first part of the transmission of the relevant Form or document is actually received in the electronic system; and\n(b)in the case of an unsuccessful submission, require the relevant Form or document to be resubmitted through the electronic system.\n(3) Every application under paragraph (2)(a) must be accompanied by proof, to the satisfaction of the Registrar, of the matters relied on to support the application."
+   }
+  },
+  {
+   "id": "SG-H1275-A3.005",
+   "no": 3.005,
+   "noLabel": {
+    "en": "3E."
+   },
+   "chapter": {
+    "en": "PART 1A ELECTRONIC SYSTEM"
+   },
+   "heading": {
+    "en": "Time of service of document through electronic system"
+   },
+   "text": {
+    "en": "3E.—(1) Where the Registrar gives, through the electronic system, a notice under these Rules to —\n(a)a party to proceedings before a tribunal, the Registrar or a court; or\n(b)any other person who carries out an online transaction through the electronic system,\nthe notice is treated as served on the party or person (as the case may be) 24 hours after the time the Registrar sends the notice to the party or person (as the case may be) through the electronic system.\n(2) Except as provided in paragraph (1), after the Registrar has notified a party to any proceedings before a tribunal or the Registrar that the party has been given the right to access the electronic system to view any document served on the party in relation to those proceedings —\n(a)any document required to be served on the party in relation to those proceedings may be served on the party by submitting that document through the electronic system; and\n(b)that document is treated as served on the party 24 hours after the time that document is treated under rule 3D as filed."
+   }
+  },
+  {
+   "id": "SG-H1275-A3.006",
+   "no": 3.006,
+   "noLabel": {
+    "en": "3F."
+   },
+   "chapter": {
+    "en": "PART 1A ELECTRONIC SYSTEM"
+   },
+   "heading": {
+    "en": "Negotiation through electronic system"
+   },
+   "text": {
+    "en": "3F. The parties to any proceedings before a tribunal or the Registrar may use the negotiation module in the electronic system to facilitate a settlement acceptable to all of those parties."
+   }
+  },
+  {
+   "id": "SG-H1275-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRY FOR TRIBUNALS"
+   },
+   "heading": {
+    "en": "Registry for tribunals"
+   },
+   "text": {
+    "en": "4. The Registry is situated at the Registry of the State Courts."
+   }
+  },
+  {
+   "id": "SG-H1275-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRY FOR TRIBUNALS"
+   },
+   "heading": {
+    "en": "Office hours"
+   },
+   "text": {
+    "en": "5. The Registry is open on the same days and at the same times as the Registry of the State Courts."
+   }
+  },
+  {
+   "id": "SG-H1275-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRY FOR TRIBUNALS"
+   },
+   "heading": {
+    "en": "Records, etc."
+   },
+   "text": {
+    "en": "6.—(1) The Registrar must keep a record of all proceedings before the tribunals.\n(2) The record required by this rule is kept in such form and manner as the Registrar may determine."
+   }
+  },
+  {
+   "id": "SG-H1275-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRY FOR TRIBUNALS"
+   },
+   "heading": {
+    "en": "Searches, etc."
+   },
+   "text": {
+    "en": "7.—(1) After an order has been made under section 22 of the Act in any proceedings before a tribunal, any person may, with the permission of the Registrar, search, inspect and take a copy of any part of the record relating to those proceedings.\n(2) Despite paragraph (1), a party to any proceedings before a tribunal or the Registrar may, at any stage of the proceedings, with the permission of the Registrar, search, inspect and take a copy of any part of the record relating to those proceedings.\n(3) For the purposes of section 29(1) of the Act, the Registrar may permit any person authorised by a law enforcement agency or public agency to search, inspect or take a copy of any part of the record relating to any proceedings before a tribunal.\n(4) The applicable fee specified in item 16(a), (b) and (c) of the Schedule is payable to the Registrar at the time of the request to search, inspect or take a copy of the record under paragraph (1), (2) or (3)."
+   }
+  },
+  {
+   "id": "SG-H1275-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Lodging of claim"
+   },
+   "text": {
+    "en": "8.—(1) Every claim must be made in the relevant Form.\n(2) At the time of lodging any claim, the claimant must pay the fee specified in item 1 of the Schedule.\n(3) For the purposes of section 13(2)(b)(ii) of the Act, a claim must be accompanied by —\n(a)every document on which the claimant relies or will rely; and\n(b)any of the following reports which accompany the claim referral certificate:\n(i)a report on the findings of the approved mediator or an authorised person in relation to a wrongful dismissal dispute;\n(ii)a report on the findings of the Commissioner, an authorised person, an inspecting officer under the Employment Act 1968 or an employment inspector under the Employment of Foreign Manpower Act 1990 for the purpose of enabling a tribunal under section 21(2) of the Act to determine whether there has been a failure to comply with any obligation mentioned in that section.\n(4) A claim may be lodged in respect of one or more specified employment disputes, except that a separate claim must be lodged in respect of a wrongful dismissal dispute."
+   }
+  },
+  {
+   "id": "SG-H1275-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Serving of claim on respondent"
+   },
+   "text": {
+    "en": "9.—(1) The claimant must, within 7 days after the date on which the claim and each document mentioned in rule 8(3) are filed, serve a copy each of the claim and that document on the respondent.\n(2) The claimant must file a declaration of service in the relevant Form within 4 weeks after the date on which the claim is filed and, in any event, before the first case management conference."
+   }
+  },
+  {
+   "id": "SG-H1275-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Response to claim by respondent"
+   },
+   "text": {
+    "en": "10.—(1) A respondent who intends to file a response to a claim must, within 7 days after being served with the claim and the claimant’s documents, file and serve on the claimant —\n(a)a response in the relevant Form; and\n(b)every document on which the respondent relies or will rely.\n(2) At the time of filing the response, the respondent must pay the fee specified in item 2 of the Schedule.\n(3) The respondent must file a declaration of service in the relevant Form within 4 weeks after the date on which the response is filed and, in any event, before the next case management conference."
+   }
+  },
+  {
+   "id": "SG-H1275-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Counterclaim against claimant"
+   },
+   "text": {
+    "en": "11.—(1) Every counterclaim must be made in the relevant Form.\n(2) At the time of lodging any counterclaim, the respondent must pay the fee specified in item 3 of the Schedule.\n(3) At the time of filing a response to a counterclaim, the claimant must pay the fee specified in item 4 of the Schedule.\n(4) These Rules (except rules 8(1) and (2) and 10(2)) apply to a counterclaim as they apply to a claim, but with the following modifications:\n(a)any reference to a claimant is a reference to a person making the counterclaim;\n(b)any reference to a respondent is a reference to a person against whom the counterclaim is made.\n(5) Where a counterclaim is lodged in accordance with this rule, the Registrar must fix a case management conference or hearing, as appropriate, for both the claim and the counterclaim.\n(6) A counterclaim may be proceeded with regardless whether the claim is granted, stayed, discontinued, withdrawn, dismissed or settled.\n(7) Where the whole or part of a counterclaim by a respondent is relied on as a response to the whole or part of a claim made by the claimant, a tribunal may —\n(a)set-off the amount of that whole or part of the counterclaim against the amount of that whole or part of the claim; and\n(b)proceed to make an appropriate order."
+   }
+  },
+  {
+   "id": "SG-H1275-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Joinder of parties"
+   },
+   "text": {
+    "en": "12. A tribunal or the Registrar may allow the joinder of parties and order that 2 or more claims involving 2 or more persons be heard together, if —\n(a)it appears to the tribunal or Registrar that —\n(i)doing so is convenient;\n(ii)a common question of law or fact arises in all the claims; or\n(iii)all rights to relief claimed (whether they are joint, several or alternative) are in respect of or arise out of the same transaction or series of transactions; and\n(b)such a joinder does not prejudice any party to any of those claims."
+   }
+  },
+  {
+   "id": "SG-H1275-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Amendment of claim before service"
+   },
+   "text": {
+    "en": "13.—(1) A claimant may, without the permission of a tribunal or the Registrar, amend the claim once at any time before service of the claim on the respondent by filing the amended claim in the Registry and serving the amended claim on the respondent.\n(2) These Rules (except paragraph (1)) apply to an amended claim filed under paragraph (1) as they apply to a claim."
+   }
+  },
+  {
+   "id": "SG-H1275-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Amendment of claim or response after service"
+   },
+   "text": {
+    "en": "14.—(1) A claimant may amend a claim after it is served on the other party, and a respondent may amend a response after it is served on the other party, only if the claimant or respondent (as the case may be) —\n(a)has obtained the consent of the other party to do so; or\n(b)is allowed by a tribunal or the Registrar to do so.\n(2) A tribunal or the Registrar may at any stage of the proceedings allow the claim or response to be amended —\n(a)on any terms as to costs or otherwise that may be just; and\n(b)in any manner that the tribunal or Registrar may direct.\n(3) The claimant or respondent must, within 7 days after obtaining the consent of the other party under paragraph (1)(a) or being allowed by the tribunal or Registrar under paragraph (1)(b), cause the amended claim or amended response (as the case may be) —\n(a)to be filed in the Registry; and\n(b)to be served on the other party.\n(4) These Rules (except rule 13) apply to an amended claim or amended response filed under paragraph (3) as they apply to a claim or response."
+   }
+  },
+  {
+   "id": "SG-H1275-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Withdrawal and discontinuance"
+   },
+   "text": {
+    "en": "15.—(1) A claimant may, without the permission of a tribunal or the Registrar, at any time before serving the claim on the respondent, withdraw the claim, or withdraw any specified employment dispute for which the claim is lodged, by filing a notice in the relevant Form with the Registry.\n(2) Where a claim has been served on the respondent, a claimant may not withdraw the claim, or withdraw any specified employment dispute for which the claim is lodged, unless the claimant —\n(a)files in the Registry —\n(i)the written consent of the respondent to do so; and\n(ii)a notice in the relevant Form; or\n(b)obtains the permission of a tribunal or the Registrar to do so.\n(3) A respondent may, without the permission of a tribunal or the Registrar, at any time before serving the response on the claimant, withdraw the response by filing a notice in the relevant Form in the Registry.\n(4) Where a response has been served on the claimant, a respondent may not withdraw the response, unless the respondent —\n(a)files in the Registry —\n(i)the written consent of the claimant to do so; and\n(ii)a notice in the relevant Form; or\n(b)obtains the permission of a tribunal or the Registrar to do so.\n(5) A claim is deemed to be discontinued if the claimant fails to file a declaration of service in accordance with rule 9(2).\n(6) A response is deemed to be withdrawn if the respondent fails to file a declaration of service in accordance with rule 10(3).\n(7) A tribunal or the Registrar may, at any stage of the proceedings, allow a claimant to withdraw a claim, or withdraw any specified employment dispute for which the claim is lodged, on any terms as to costs or otherwise that may be just, by filing a notice in the relevant Form with the Registry.\n(8) A tribunal or the Registrar may, at any stage of the proceedings, allow a respondent to withdraw a response, on any terms as to costs or otherwise that may be just, by filing a notice in the relevant Form with the Registry."
+   }
+  },
+  {
+   "id": "SG-H1275-A15.001",
+   "no": 15.001,
+   "noLabel": {
+    "en": "15A."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Discontinuance of action, cause or matter"
+   },
+   "text": {
+    "en": "15A.—(1) Subject to paragraph (2), if no party to a claim has, for more than 6 months, taken any step or proceeding in the claim that appears from records maintained in the Registry, the claim is deemed to have been discontinued.\n(2) Paragraph (1) does not apply where the claim has been stayed —\n(a)under this Act;\n(b)pursuant to an order of the tribunal; or\n(c)pursuant to an order of court.\n(3) In this rule, “claim” means a claim lodged on or after 1 April 2022."
+   }
+  },
+  {
+   "id": "SG-H1275-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Order for discovery and production of documents"
+   },
+   "text": {
+    "en": "16.—(1) At any stage of the proceedings before a tribunal or the Registrar, the tribunal or Registrar may order the discovery and production of any document, if the tribunal or Registrar is of the opinion that such an order is necessary either for the fair disposal of the claim or for the saving of costs.\n(2) Where any privilege is claimed, or any objection is made, by any party in relation to the production of any document, the tribunal or Registrar may, if the tribunal or Registrar deems fit —\n(a)inspect the document for the purpose of determining whether the claim of privilege or the objection made is valid; and\n(b)order the production of the document, unless the tribunal or Registrar upholds the claim of privilege or the objection.\n(3) If any party fails to comply with this rule, or with any order made by a tribunal or the Registrar to give discovery of any document or to produce any document, a tribunal or the Registrar may make any order that the tribunal or Registrar thinks fit, including an order that —\n(a)the claim be dismissed or the response be struck out (as the case may be); and\n(b)the defaulting party is liable to committal.\n(4) Except with the permission of a tribunal or the Registrar, no other document may be filed or served for the purposes of the proceedings."
+   }
+  },
+  {
+   "id": "SG-H1275-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Case management conference"
+   },
+   "text": {
+    "en": "17.—(1) A tribunal or the Registrar may, at any time after a claim is lodged, direct any party to the proceedings to appear before the tribunal or Registrar, for the tribunal or Registrar to make such order or give such directions as the tribunal or Registrar thinks fit for the just, expeditious and economical disposal of the cause or matter.\n(2) The orders and directions that the tribunal or Registrar may make or give under paragraph (1) include one or more of the following:\n(a)an order that the claimant and the respondent attend such mediation, conciliation or counselling as the tribunal or Registrar may direct;\n(b)any direction necessary for and incidental to the proper carrying into effect of an order under sub-paragraph (a);\n(c)an order that all further proceedings in the action be stayed until the claimant and the respondent have attended the mediation, conciliation or counselling (as the case may be);\n(d)where there are 2 or more claims brought by the same claimant or against the same respondent, and no joinder has been ordered under rule 12, an order that —\n(i)the claims be heard separately;\n(ii)the claims be heard one after the other by the same tribunal or court; or\n(iii)one or more proceedings be stayed until the determination of one or more of the other proceedings;\n(e)where there is a dispute as to the jurisdiction of the tribunal in the proceedings, an order —\n(i)dismissing the claim or part of the claim for lack of jurisdiction; or\n(ii)setting down the dispute on jurisdiction to be tried together with the hearing of the claim.\n(3) All parties must be informed of the date and time appointed to appear before the tribunal or Registrar by way of a notice in accordance with the relevant Form, and each party must comply with any directions contained in the notice.\n(4) Where any party fails to comply with any order made or direction given by the tribunal or Registrar under paragraph (1), the tribunal or Registrar may dismiss the claim, strike out the response or make any other order that the tribunal or Registrar thinks fit, including an order that the defaulting party is liable to committal.\n(5) If the parties agree, during the case management conference, to settle some or all of the matters in dispute in the claim or proceedings, the tribunal or Registrar may record a consent order or make an order or a direction to give effect to the settlement.\n(6) To avoid doubt, where a tribunal or the Registrar has made an order under paragraph (2)(a) that the claimant and the respondent attend mediation, conciliation or counselling, the tribunal or the Registrar may direct that the mediation, conciliation or counselling be conducted —\n(a)through the electronic system; or\n(b)by any other electronic means."
+   }
+  },
+  {
+   "id": "SG-H1275-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Hearing before tribunal"
+   },
+   "text": {
+    "en": "18. Where the Registrar is of the view that the claimant and the respondent are unable to resolve their dispute without a hearing before a tribunal, the Registrar must —\n(a)fix the case for hearing before a tribunal; and\n(b)give notice in the relevant Form to the claimant and the respondent of the time and place of the hearing."
+   }
+  },
+  {
+   "id": "SG-H1275-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Representation before tribunal"
+   },
+   "text": {
+    "en": "19. A party must file the relevant Form if the party wishes to be represented by an individual under section 19(2)(e) or (3) of the Act."
+   }
+  },
+  {
+   "id": "SG-H1275-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Directions for and conduct of proceedings"
+   },
+   "text": {
+    "en": "20.—(1) The directions which a tribunal may give under section 20(3) of the Act include directions on one or more of the following matters:\n(a)the giving of evidence, whether orally or in writing, on oath or affirmation;\n(b)the calling of a witness to give evidence with a view to assisting in the determination of the claim, whether or not any party will be calling that witness to give evidence for that party;\n(c)the length of written submissions (if any);\n(d)subject to section 62A of the Evidence Act 1893, the giving of evidence through a live video or live television link;\n(e)subject to any written law or rule of law restricting the disclosure, or relating to the confidentiality, of any document or information —\n(i)the disclosure of any document or information;\n(ii)whether any document or information should be treated as confidential; and\n(iii)whether any party to the proceedings may inspect any document;\n(f)dispensing with the attendance before the tribunal of any party to the claim, with the consent of the party;\n(g)the time for the payment of any money to any party under section 22(1)(a) or (c) of the Act, including whether payment may be made by instalments.\n(2) The following time limits apply in the conduct of proceedings before a tribunal:\n(a)for the examination in chief of a witness — 10 minutes per witness;\n(b)for the cross-examination of a witness — 60 minutes per witness;\n(c)for the re-examination of a witness — 10 minutes per witness;\n(d)for closing submissions — 30 minutes per party.\n(3) A tribunal may vary any time limit under paragraph (2) as the tribunal deems fit."
+   }
+  },
+  {
+   "id": "SG-H1275-A20.001",
+   "no": 20.001,
+   "noLabel": {
+    "en": "20A."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Adjournment to correct errors in claim referral certificate"
+   },
+   "text": {
+    "en": "20A.—(1) A tribunal or the Registrar may, at any time before the conclusion of the proceedings before the tribunal, adjourn the proceedings to allow for the correction by an approved mediator of any error in a claim referral certificate relating to the proceedings, within the time specified by the tribunal or the Registrar.\n(2) A claim referral certificate so corrected in accordance with paragraph (1) is treated as having been lodged with the Registry on the date the claim referral certificate was first lodged."
+   }
+  },
+  {
+   "id": "SG-H1275-A20.002",
+   "no": 20.002,
+   "noLabel": {
+    "en": "20B."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Continuation of proceedings by another tribunal magistrate"
+   },
+   "text": {
+    "en": "20B.—(1) When a tribunal magistrate who has commenced any proceedings under the Act is unable through death, illness or other cause to conclude the proceedings, the Presiding Judge of the State Courts may nominate another tribunal magistrate to continue the proceedings.\n(2) Nothing prevents a tribunal magistrate so nominated from recalling all or any of the witnesses or taking their evidence afresh."
+   }
+  },
+  {
+   "id": "SG-H1275-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 WITNESSES"
+   },
+   "heading": {
+    "en": "Form and issue of summons"
+   },
+   "text": {
+    "en": "21.—(1) A tribunal or the Registrar may, on the tribunal’s or Registrar’s own initiative or at the request of any party to the proceedings, by a summons in the relevant Form, summon any person —\n(a)to attend before the tribunal at the time and place specified in the summons to give evidence at the hearing and produce documents in the person’s possession, custody or control; or\n(b)without attending before the tribunal, to produce to the tribunal any documents in the person’s possession, custody or control that are specified in the summons.\n(2) The fee specified in item 5 or 6 of the Schedule is payable by the party requesting the summons on sealing a summons to a witness under paragraph (1)."
+   }
+  },
+  {
+   "id": "SG-H1275-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 WITNESSES"
+   },
+   "heading": {
+    "en": "Service of summons on witness"
+   },
+   "text": {
+    "en": "22.—(1) Every summons issued under rule 21 must be served on the person to whom it is directed in accordance with rule 47.\n(2) A summons must not be served on any witness outside Singapore.\n(3) The obligation on a witness summoned under rule 21 to attend any hearing extends to any time and place to which the hearing may be adjourned.\n(4) A tribunal or the Registrar may direct a party who served the summons to file a declaration of service in the relevant Form."
+   }
+  },
+  {
+   "id": "SG-H1275-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 5 SETTING ASIDE ORDER OF TRIBUNAL"
+   },
+   "heading": {
+    "en": "Setting aside of decision, direction or order given in absence of party"
+   },
+   "text": {
+    "en": "23.—(1) A decision, direction or order given or made by a tribunal or the Registrar in the absence of a party may be set aside on the application of that party.\n(2) An application under this rule to set aside a decision, direction or order must be —\n(a)made in the relevant Form;\n(b)made —\n(i)to a tribunal, if the decision, direction or order was given or made by a tribunal; or\n(ii)to the Registrar, if the decision, direction or order was given or made by the Registrar; and\n(c)made within 7 days after the date of the decision, direction or order, or within any longer period that the tribunal or Registrar (as the case may be) may allow.\n(3) The applicant must, at the time the application is filed, pay the fee specified in item 7 of the Schedule.\n(4) The applicant must, within 7 days after the date on which the application and the relevant Form containing the facts and evidence in support of the application are filed, serve them on the respondent.\n(5) A respondent who intends to oppose the application must, within 7 days after being served with the application and the relevant Form containing the facts and evidence in support of the application, file and serve on the applicant the relevant Form containing the facts and evidence in reply.\n(6) The tribunal or Registrar hearing the application —\n(a)may set aside the decision, direction or order given or made, on any terms that the tribunal or Registrar thinks just; and\n(b)may proceed to hear the claim or make any other orders or directions that the tribunal or Registrar thinks just.\n(7) Where any party does not appear at the hearing of the application, the tribunal or Registrar may hear the application and make a decision in the absence of that party, even if the interests of that party may be prejudicially affected by the decision."
+   }
+  },
+  {
+   "id": "SG-H1275-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 6 APPEALS TO TRIBUNAL FROM ORDER OF REGISTRAR"
+   },
+   "heading": {
+    "en": "Appeals from decision, direction or order of Registrar"
+   },
+   "text": {
+    "en": "24.—(1) An appeal lies to a tribunal from any decision, direction or order of the Registrar.\n(2) The appeal must be brought by filing, and serving on every other party to the proceedings in which the decision, direction or order was given or made, a notice in the relevant Form to attend before the tribunal on a day specified in the notice.\n(3) The applicant must, at the time the notice is filed, pay the fee specified in item 8 of the Schedule.\n(4) Unless a tribunal or the Registrar otherwise orders, the notice must be —\n(a)filed within 7 days after the decision, direction or order appealed against was given or made; and\n(b)served on all other parties within 7 days after the notice is filed.\n(5) Unless a tribunal or the Registrar directs otherwise, an appeal under this rule does not operate as a stay of the proceedings in which the appeal is brought."
+   }
+  },
+  {
+   "id": "SG-H1275-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 7 APPEALS TO GENERAL DIVISION OF HIGH COURT"
+   },
+   "heading": {
+    "en": "Application for permission to appeal under section 23(2) of Act"
+   },
+   "text": {
+    "en": "25.—(1) An application for permission from a District Court under section 23(2) of the Act to appeal against an order of a tribunal must be made in the relevant Form.\n(2) The applicant must file the application within 7 days after the date on which the order being appealed against was given or made.\n(3) The applicant must, at the time the application is filed, pay the fee specified in item 9 of the Schedule.\n(4) The applicant must, within 7 days after the date on which the application is filed, serve the application on the respondent.\n(5) A respondent who intends to oppose the application must, within 7 days after being served with the application, file and serve on the applicant a response in the relevant Form.\n(6) Where any party does not appear at the hearing of the application, a District Court may hear the application and make a decision in the absence of that party, even if the interests of that party may be prejudicially affected by the decision."
+   }
+  },
+  {
+   "id": "SG-H1275-A25.001",
+   "no": 25.001,
+   "noLabel": {
+    "en": "25A."
+   },
+   "chapter": {
+    "en": "PART 7 APPEALS TO GENERAL DIVISION OF HIGH COURT"
+   },
+   "heading": {
+    "en": "Hearing of application for permission to appeal"
+   },
+   "text": {
+    "en": "25A.—(1) A District Court may, at any time after an application for permission to appeal is filed under rule 25, convene a case management conference or direct parties to appear before the registrar of the State Courts for a case management conference, for that Court or registrar to make such orders or give such directions as that Court or registrar thinks fit for the just, expedient and economical disposal of the application.\n(2) When a District Court refuses an application under rule 25, the District Court may order the applicant to pay costs not exceeding $1,000 to the respondent or, where there is more than one respondent, to each of the respondents.\n(3) When a District Court decides an application under rule 25, the Registrar must give notice of the decision to the applicant and respondent."
+   }
+  },
+  {
+   "id": "SG-H1275-A25.002",
+   "no": 25.002,
+   "noLabel": {
+    "en": "25B."
+   },
+   "chapter": {
+    "en": "PART 7 APPEALS TO GENERAL DIVISION OF HIGH COURT"
+   },
+   "heading": {
+    "en": "Withdrawal of application for permission to appeal"
+   },
+   "text": {
+    "en": "25B.—(1) An applicant under rule 25 may, without the permission of a District Court, withdraw the application at any time before the application is served on the respondent, by filing the relevant Form with the Registry.\n(2) Where the application has been served on the respondent, the applicant may withdraw the application —\n(a)with the consent of the respondent and without the permission of a District Court, by filing the relevant Form and the respondent’s written consent with the Registry; or\n(b)in any other case, with the permission of a District Court.\n(3) When granting permission under paragraph (2)(b), a District Court may make any order as to costs that it thinks just."
+   }
+  },
+  {
+   "id": "SG-H1275-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 7 APPEALS TO GENERAL DIVISION OF HIGH COURT"
+   },
+   "heading": {
+    "en": "Notice of appeal to General Division of High Court"
+   },
+   "text": {
+    "en": "26.—(1) A party who obtains permission from a District Court under section 23(2) of the Act to appeal against an order of a tribunal must file and serve a notice of appeal in the relevant Form within 7 days after the date on which the permission is given.\n(2) When permission is given to appeal against an order of a tribunal, a notice of appeal may be filed either in respect of the whole, or in respect of any specified part, of the order of the tribunal.\n(3) Every notice of appeal must state the order complained of, contain an address for service, and be signed by the appellant.\n(4) The Registrar must assign a number to the notice of appeal and enter the appeal on the list of appeals.\n(5) The notice of appeal must be served on all parties to the proceedings who are directly affected by the appeal."
+   }
+  },
+  {
+   "id": "SG-H1275-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 7 APPEALS TO GENERAL DIVISION OF HIGH COURT"
+   },
+   "heading": {
+    "en": "Fees for appeal"
+   },
+   "text": {
+    "en": "27. An appellant must, at the time of filing a notice of appeal under rule 26 —\n(a)pay the fee specified in item 10 of the Schedule; and\n(b)deposit with the Registrar any sum that the Registrar may require towards the fee for making copies of the record of proceedings."
+   }
+  },
+  {
+   "id": "SG-H1275-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 7 APPEALS TO GENERAL DIVISION OF HIGH COURT"
+   },
+   "heading": {
+    "en": "Security for costs"
+   },
+   "text": {
+    "en": "28.—(1) The appellant must, at the time of filing the notice of appeal —\n(a)provide security for the respondent’s costs of appeal in the sum of $500 by submitting the relevant Form to, and depositing that sum with, the Accountant‑General; and\n(b)obtain from the Accountant-General a certificate of deposit of security for costs.\n(2) The appellant must pay the fees specified in item 11 of the Schedule at the time of depositing the sum of $500 with the Accountant‑General.\n(3) The General Division of the High Court may at any time, in any case where it thinks fit, order further security for costs to be given.\n(4) Where under rule 30(5) or 32(4) the appeal is deemed to be withdrawn, any sum deposited as security for costs under this rule must be paid out —\n(a)if all the parties to the appeal consent to the payment of that sum to the appellant, and the document signifying the consent is filed — to the appellant; or\n(b)in accordance with an order of the tribunal.\n(5) Every application for an order under paragraph (4)(b) must be in the relevant Form."
+   }
+  },
+  {
+   "id": "SG-H1275-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 7 APPEALS TO GENERAL DIVISION OF HIGH COURT"
+   },
+   "heading": {
+    "en": "Record of proceedings"
+   },
+   "text": {
+    "en": "29.—(1) When a notice of appeal has been filed, the tribunal which made the order must certify in writing the grounds of the order; but any delay or failure so to certify will not prevent the appellant from proceeding with the appeal.\n(2) As soon as possible after the notice of appeal has been filed, the Registrar must cause to be served on the appellant, at the appellant’s address for service specified in the notice of appeal, a notice that a copy of the record of proceedings is available.\n(3) The record of proceedings consists of a certified copy of the grounds of the order and a certified copy of the notes of proceedings taken at the hearing of the claim."
+   }
+  },
+  {
+   "id": "SG-H1275-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 7 APPEALS TO GENERAL DIVISION OF HIGH COURT"
+   },
+   "heading": {
+    "en": "Appellant’s case"
+   },
+   "text": {
+    "en": "30.—(1) Within 21 days after the appellant is served the notice mentioned in rule 29(2), the appellant must, if the appellant desires to proceed with the appeal —\n(a)file with the Registrar the appellant’s case in the relevant Form; and\n(b)serve a copy of the appellant’s case on every respondent to the appeal.\n(2) The appellant’s case must —\n(a)be signed by the appellant; and\n(b)contain concisely and under distinct heads, without argument or narrative, particulars of the matters in which the tribunal is alleged to have erred, the particulars to be numbered consecutively.\n(3) At the time of filing the appellant’s case, the appellant must pay the fee specified in item 12 of the Schedule.\n(4) Except with the permission of the General Division of the High Court, the appellant cannot at the hearing of the appeal rely on any ground of appeal other than those set out in the appellant’s case.\n(5) If the appellant’s case is not filed within the time specified in paragraph (1) (including that time as extended under paragraph (6)), the appeal is deemed to have been withdrawn.\n(6) The General Division of the High Court may extend the time specified in paragraph (1) for filing and serving the appellant’s case."
+   }
+  },
+  {
+   "id": "SG-H1275-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 7 APPEALS TO GENERAL DIVISION OF HIGH COURT"
+   },
+   "heading": {
+    "en": "Respondent’s case"
+   },
+   "text": {
+    "en": "31.—(1) A respondent who, not having appealed from an order of the tribunal, desires to contend on the appeal that the order of that tribunal should be varied, either in any event or in the event of the appeal being allowed in whole or in part, must state so in the respondent’s case and specify the grounds of that contention.\n(2) A respondent who desires to contend on the appeal that the order of the tribunal should be affirmed on grounds other than those relied upon by that tribunal must state so in the respondent’s case and specify the grounds of that contention.\n(3) Except with the permission of the General Division of the High Court, a respondent is not entitled, on the hearing of the appeal —\n(a)to contend that the order of the tribunal should be varied upon any ground not specified in the respondent’s case;\n(b)to apply for any relief not so specified; or\n(c)to support the order of the tribunal upon any ground not relied upon by that tribunal or specified in the respondent’s case.\n(4) A respondent must, within 7 days after the service on the respondent of the appellant’s case —\n(a)file with the Registrar the respondent’s case in the relevant Form;\n(b)pay the fee specified in item 13 of the Schedule; and\n(c)serve a copy of the respondent’s case on each of the appellant and every other party to the proceedings who is directly affected by the contentions of the respondent.\n(5) The General Division of the High Court may extend the time specified in paragraph (4) for filing and serving the respondent’s case."
+   }
+  },
+  {
+   "id": "SG-H1275-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 7 APPEALS TO GENERAL DIVISION OF HIGH COURT"
+   },
+   "heading": {
+    "en": "Record of appeal"
+   },
+   "text": {
+    "en": "32.—(1) Within 14 days after the filing of the appellant’s case under rule 30(1), the appellant must file with the Registrar 3 copies of the record of appeal, and serve a copy of the record of appeal on each respondent in the appeal or the respondent’s solicitor.\n(2) The record of appeal consists of a copy of each of the following:\n(a)the notice of appeal;\n(b)the certificate of deposit of security for costs;\n(c)the appellant’s case (if any);\n(d)the respondent’s case (if any);\n(e)the record of proceedings mentioned in rule 29(3);\n(f)the order appealed from;\n(g)any other documents necessary for showing the matter decided and the nature of the appeal.\n(3) Where the appellant omits to comply with paragraph (1), any respondent who has filed a respondent’s case may proceed with the appeal, if the respondent, within the time allowed by the Registrar —\n(a)files with the Registrar 3 copies of the record of appeal; and\n(b)serves a copy of the record of appeal on each of the appellant and every other respondent in the appeal.\n(4) The appeal is deemed to be withdrawn —\n(a)where no respondent has filed a respondent’s case, and the appellant omits to comply with paragraph (1); or\n(b)where the appellant omits to comply with paragraph (1) after a respondent has filed a respondent’s case, and every respondent who filed a respondent’s case omits to comply with paragraph (3).\n(5) The General Division of the High Court may extend —\n(a)the time for an appellant to comply with paragraph (1); and\n(b)the time for a respondent to comply with paragraph (3).\n(6) The Registrar must, on receiving the 3 copies of the record of appeal, transmit 2 of those copies, together with the exhibits put in evidence at the hearing, to the Registrar of the Supreme Court, and give notice to the parties to the appeal in the relevant Form."
+   }
+  },
+  {
+   "id": "SG-H1275-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 7 APPEALS TO GENERAL DIVISION OF HIGH COURT"
+   },
+   "heading": {
+    "en": "Stay of execution or enforcement pending appeal"
+   },
+   "text": {
+    "en": "33. Where a notice of appeal has been filed against an order of a tribunal, a District Court or the General Division of the High Court may, on application filed by the appellant in the relevant Form and in accordance with section 24 of the Act, order a stay of execution or enforcement of the order on any terms that the District Court or General Division of the High Court thinks just."
+   }
+  },
+  {
+   "id": "SG-H1275-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 7 APPEALS TO GENERAL DIVISION OF HIGH COURT"
+   },
+   "heading": {
+    "en": "Judgment or order on appeal to be sent to Registrar"
+   },
+   "text": {
+    "en": "34. Whenever an appeal is decided by the General Division of the High Court, the Registrar of the Supreme Court must send to the Registrar a certified copy of the judgment or order."
+   }
+  },
+  {
+   "id": "SG-H1275-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 8 OTHER PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Transfer of proceedings from tribunal to court under section 17 of Act"
+   },
+   "text": {
+    "en": "35.—(1) An application to an appropriate court under section 17 of the Act must be made by originating application under Order 6 of the Rules of Court 2021.\n(2) The court hearing the application may order the proceedings in the tribunal to be stayed until after the final determination of the application.\n(3) Where an order is made by the General Division of the High Court for the transfer of any proceedings from a tribunal to the General Division of the High Court —\n(a)the Registrar must send to the Registrar of the Supreme Court the file of the proceedings, all documents and exhibits, and a certified copy of the notes of evidence (if any) of the proceedings; and\n(b)the Registrar of the Supreme Court must give notice of the transfer to every party to the proceedings.\n(4) Where an order is made by a District Court or a Magistrate’s Court for the transfer of any proceedings from a tribunal to the District Court or Magistrate’s Court (as the case may be), the registrar of the State Courts must give notice of the transfer to every party to the proceedings."
+   }
+  },
+  {
+   "id": "SG-H1275-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 8 OTHER PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Referral to mediation by tribunal"
+   },
+   "text": {
+    "en": "36.—(1) Despite rule 15, where —\n(a)a tribunal refers, under section 22(8) of the Act, any specified employment dispute for which a claim is lodged for mediation under Part 2 of the Act or tripartite mediation; and\n(b)either of the following is resolved through the mediation:\n(i)the entire claim;\n(ii)any such specified employment dispute,\nthe claimant must withdraw the claim or withdraw the specified employment dispute mentioned in sub-paragraph (b)(ii) (as the case may be) by filing a notice in the relevant Form with the Registry.\n(2) Where a tribunal refers, under section 22(8) of the Act, any specified employment dispute for which a claim is lodged for mediation under Part 2 of the Act or tripartite mediation, and any such specified employment dispute is not resolved through mediation, the approved mediator must issue to the claimant a claim referral certificate in respect of every such unresolved specified employment dispute.\n(3) Where paragraph (2) applies —\n(a)the claimant must, if the claimant intends to pursue any unresolved specified employment dispute mentioned in that paragraph, file the claim referral certificate mentioned in that paragraph within 7 days after receiving it; and\n(b)if the claimant fails to comply with sub-paragraph (a), the claim is deemed to be discontinued."
+   }
+  },
+  {
+   "id": "SG-H1275-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 9 SETTLEMENT AGREEMENT"
+   },
+   "heading": {
+    "en": "Form of settlement agreement"
+   },
+   "text": {
+    "en": "37. Where a specified employment dispute is settled at a mediation under Part 2 of the Act, or at a tripartite mediation conducted by an approved mediator, the parties to the settlement —\n(a)must enter into a settlement agreement in the form set out at the website of the Ministry of Manpower at https://www.mom.gov.sg.; and\n(b)may sign the settlement agreement by electronic means through the electronic platform of the Ministry of Manpower, accessible from https://www.mom.gov.sg."
+   }
+  },
+  {
+   "id": "SG-H1275-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 9 SETTLEMENT AGREEMENT"
+   },
+   "heading": {
+    "en": "Period within which settlement agreement must be registered"
+   },
+   "text": {
+    "en": "38. For the purposes of section 7(2) of the Act, a District Court may refuse to register a settlement agreement if the application to register the settlement agreement is not made within 4 weeks after the date on which the settlement agreement is signed by all parties to the settlement agreement."
+   }
+  },
+  {
+   "id": "SG-H1275-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 9 SETTLEMENT AGREEMENT"
+   },
+   "heading": {
+    "en": "Application for registration of settlement agreement"
+   },
+   "text": {
+    "en": "39.—(1) Any party to a settlement agreement may, within 4 weeks after the date on which the settlement agreement is signed by all parties to the settlement agreement, apply (without notice to any other party) to a District Court for registration of the settlement agreement —\n(a)by filing the relevant Form with a true copy of the settlement agreement certified by the approved mediator who conducted the mediation; and\n(b)by paying the fee specified in item 14 of the Schedule.\n(2) On registering a settlement agreement, the registrar of the State Courts must serve on the party who made an application under paragraph (1) a notice of registration.\n(3) A party to a settlement agreement must, on receiving the notice of registration under paragraph (2), immediately send a copy of that notice, together with a copy of the registered settlement agreement, to each of the other parties to the settlement agreement."
+   }
+  },
+  {
+   "id": "SG-H1275-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 9 SETTLEMENT AGREEMENT"
+   },
+   "heading": {
+    "en": "Duration and renewal of registration"
+   },
+   "text": {
+    "en": "40.—(1) The registration of a settlement agreement is valid in the first instance for a period of 3 years beginning on the date of the registration.\n(2) A District Court may by order extend the validity of the registration of a settlement agreement for a period, not exceeding 3 years at any one time, beginning on the day immediately after that on which the registration would otherwise expire, if an application for the extension is made to the District Court before that day or such later day (if any) as the District Court may allow.\n(3) An application under paragraph (2) is made —\n(a)by filing the relevant form; and\n(b)by paying the fee specified in item 14 of the Schedule."
+   }
+  },
+  {
+   "id": "SG-H1275-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 9 SETTLEMENT AGREEMENT"
+   },
+   "heading": {
+    "en": "Setting aside of registration of settlement agreement"
+   },
+   "text": {
+    "en": "41.—(1) Every application to a District Court to set aside the registration of a settlement agreement under section 7(4) of the Act must be made —\n(a)by filing the relevant Form within 7 days after the applicant receives the notice of registration mentioned in rule 39(3); and\n(b)by paying the fee specified in item 15 of the Schedule.\n(2) The application must be served by the applicant on the respondent within 7 days after the date on which the application is filed.\n(3) Each party to the application —\n(a)must be informed by the registrar of the State Courts of the date and time for the hearing of the application by way of a notice in the relevant Form; and\n(b)must comply with any directions contained in that notice."
+   }
+  },
+  {
+   "id": "SG-H1275-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 9 SETTLEMENT AGREEMENT"
+   },
+   "heading": {
+    "en": "Register of settlement agreements"
+   },
+   "text": {
+    "en": "42.—(1) The registrar of the State Courts must maintain in such form and manner as that registrar thinks fit, a register of every settlement agreement registered under section 7(2) of the Act.\n(2) The registrar of the State Courts may do any of the following in relation to the register under paragraph (1):\n(a)correct any error in the register;\n(b)make any necessary alteration to the register as a result of any change in circumstances or particulars;\n(c)upon the setting aside of the registration of a settlement agreement under section 7(5)(a) of the Act, remove the particulars of the registration of that settlement agreement from the register.\n(3) The registrar of the State Courts may on a written request of any person allow the person to search, inspect and take a copy of any settlement agreement contained in the register.\n(4) The applicable fee specified in item 16(d), (e) and (f) of the Schedule is payable to the registrar of the State Courts at the time of making the written request mentioned in paragraph (3)."
+   }
+  },
+  {
+   "id": "SG-H1275-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 10 COSTS AND FEES"
+   },
+   "heading": {
+    "en": "Costs"
+   },
+   "text": {
+    "en": "43.—(1) In deciding whether to make an order under section 22(1)(c) of the Act, or to award costs for any part of the proceedings, a tribunal or the Registrar may, in addition to taking into account any matter listed in section 22(2) of the Act, take into account any of the following matters:\n(a)whether the whole or any part of a claim —\n(i)discloses no reasonable cause of action;\n(ii)is struck out or dismissed for being scandalous, frivolous or vexatious;\n(iii)may prejudice, embarrass or delay the fair hearing of the proceedings before the tribunal; or\n(iv)is otherwise an abuse of the process of the tribunal;\n(b)whether it is just and equitable to make the order or award the costs;\n(c)the parties’ conduct in relation to any attempt at resolving the claim by mediation;\n(d)the extent to which the parties have followed any applicable rules, pre-action protocol or practice direction for the time being issued by the registrar of the State Courts.\n(2) A tribunal or the Registrar may, at any stage of the proceedings, order any party to the proceedings to pay, to any other party to the proceedings, any costs and disbursements (including filing fees) that the tribunal or Registrar thinks fit.\n(3) Unless a tribunal or the Registrar directs otherwise, any costs and disbursements awarded must be paid within 7 days after the decision of a tribunal or the Registrar as to costs and disbursements."
+   }
+  },
+  {
+   "id": "SG-H1275-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 10 COSTS AND FEES"
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "44.—(1) The fees specified in the Schedule are payable for proceedings and other matters under the Act and these Rules.\n(2) A fee specified in the Schedule must be paid to the Registry within the time and in the manner directed by the Registrar.\n(3) The claimant or applicant (as the case may be) must pay the hearing fees specified in item 17 of the Schedule at a time determined by the Registrar.\n(4) Despite paragraph (3), the Registrar may, in any proceedings and on any terms that the Registrar thinks fit, direct that the whole or part of any fee to be paid by any party to the proceedings, be paid instead by another party to the proceedings, or be apportioned among all or any of the parties to the proceedings that the Registrar determines."
+   }
+  },
+  {
+   "id": "SG-H1275-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 10 COSTS AND FEES"
+   },
+   "text": {
+    "en": "45. [Deleted by S 298/2019]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H1275-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 10 COSTS AND FEES"
+   },
+   "heading": {
+    "en": "Waiver, refund or remission of fees"
+   },
+   "text": {
+    "en": "46.—(1) The Registrar may, in any case, on such terms and conditions as the Registrar deems fit, waive, refund or remit the whole or any part of any fee relating to any proceedings before a tribunal.\n(2) The registrar of the State Courts may, in any case, on such terms and conditions as the registrar of the State Courts deems fit, waive, refund or remit the whole or any part of any fee relating to —\n(a)any proceedings before a District Court under rule 25 or Part 9; or\n(b)any appeal against an order of a tribunal.\n(3) The Registrar —\n(a)must refund the whole of the hearing fees paid under rule 44 if the Registrar is notified in writing, not later than 14 days before the first date fixed for the hearing, that the claim has been settled, discontinued or withdrawn; and\n(b)may, in any other case, as the Registrar deems fit, refund the whole or any part of the hearing fees paid under rule 44.\n(4) Any party requesting a refund of the whole or any part of the hearing fees under paragraph (3)(b) must make a written request to the Registrar within 4 weeks after the last date fixed for the hearing."
+   }
+  },
+  {
+   "id": "SG-H1275-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Service of claim, summons or document"
+   },
+   "text": {
+    "en": "47.—(1) Any claim, summons or document that is to be served on any person in any proceedings under the Act or these Rules may be served —\n(a)by delivering that document personally to that person;\n(b)by sending that document by registered post addressed to that person at —\n(i)that person’s last known residential address;\n(ii)that person’s registered address; or\n(iii)the address of that person’s principal place of business, as notified to ACRA; or\n(c)if that person is a party to those proceedings, and has been notified by the Registrar of that person’s right to access the electronic system to view any document served on that person in relation to those proceedings — as an alternative to serving that document in accordance with sub‑paragraph (a) or (b) — by submitting that document through the electronic system.\n(2) A claim or summons must not be served on any person outside Singapore.\n(3) Any claim, summons or document sent by registered post to any person in accordance with paragraph (1) is to be treated as duly served on the person at the time when the claim, summons or document (as the case may be) would in the ordinary course of post be delivered.\n(4) In proving service of any claim, summons or document sent by registered post to any person in accordance with paragraph (1), it is sufficient to prove that the envelope containing the claim, summons or document (as the case may be) was properly addressed, stamped and posted by registered post.\n(5) A tribunal, the Registrar, a District Court or the registrar of the State Courts may, in any particular case, order that a claim, summons or document be served on a person by any suitable means (including by fax or electronic mail)."
+   }
+  },
+  {
+   "id": "SG-H1275-A47.001",
+   "no": 47.001,
+   "noLabel": {
+    "en": "47A."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Communication between Registrar and party"
+   },
+   "text": {
+    "en": "47A.—(1) The Registrar may communicate with any party —\n(a)through the electronic system;\n(b)by sending an email to an email address designated by that party;\n(c)through any messaging system that is agreed between the Registrar and that party; or\n(d)by any other means that is agreed between the Registrar and that party.\n(2) Where any party agrees to communicate with the Registrar by a means of communication mentioned in paragraph (1), that party must monitor that means of communication for any communication from the Registrar to that party, until the conclusion of the proceedings involving that party.\n(3) In any proceedings before a District Court under the Act, paragraphs (1) and (2) apply in relation to any communication between the registrar of the State Courts and any party, and the references to the Registrar in those paragraphs are to be read as references to the registrar of the State Courts."
+   }
+  },
+  {
+   "id": "SG-H1275-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Time"
+   },
+   "text": {
+    "en": "48.—(1) For the purposes of these Rules, the word “month”, where it occurs in any decision, direction or order of a tribunal or the Registrar, means a calendar month.\n(2) Any period of time fixed by these Rules, or by a decision, direction or order of a tribunal or the Registrar, for doing any act is to be reckoned as follows:\n(a)where the act is required to be done within a specified period after a specified date, the period begins immediately after that date;\n(b)where the act is required to be done not later than a specified period before a specified date, the period ends immediately before that date;\n(c)where, apart from this sub-paragraph, the period in question, being a period of 6 days or less, would include a day other than a working day, that day is excluded.\n(3) Where the time mentioned in these Rules, in a decision, direction or order of the tribunal or Registrar, or in a decision, direction or order of a District Court or the General Division of the High Court made in any proceedings under these Rules, for doing any act expires on a day other than a working day, the act is in time if done on the next working day."
+   }
+  },
+  {
+   "id": "SG-H1275-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Extension and shortening of time"
+   },
+   "text": {
+    "en": "49.—(1) A tribunal or the Registrar may, on any terms that the tribunal or Registrar thinks just, by order extend or shorten the period within which a person is required or authorised by these Rules, or by any decision, direction or order of a tribunal or the Registrar, to do any act in any proceedings before a tribunal.\n(2) A District Court or the registrar of the State Courts may, on any terms that the District Court or registrar thinks just, by order extend or shorten the period within which a person is required or authorised by these Rules, or by any decision, direction or order of a District Court or the registrar, to do any act in any proceedings before a District Court.\n(3) The period mentioned in paragraph (1) or (2) may be extended although the application for extension is not made until after the expiration of that period.\n(4) The period within which a person is required to serve, file or amend any claim or other document in any proceedings before a tribunal or a District Court may be extended by consent (given in writing) of the other party to the proceedings without an order of a tribunal, the Registrar, a District Court or the registrar of the State Courts (as the case may be) being made for that purpose, unless the tribunal, Registrar, District Court or registrar specifies otherwise.\n(5) This rule does not apply to any of the following periods:\n(a)the period under rule 25(2) for filing an application for permission to appeal against an order of a tribunal;\n(b)the period under rule 26(1) for filing and serving a notice of appeal;\n(c)the period under rule 39(1) for filing an application for the registration of a settlement agreement;\n(d)the period under rule 41(1)(a) for filing an application to set aside the registration of a settlement agreement;\n(e)the period under rule 46(3)(a) for notifying the Registrar in writing that a claim has been settled, discontinued or withdrawn;\n(f)the period under rule 46(4) for making a written request to the Registrar for a refund of the whole or any part of the hearing fees paid under rule 44."
+   }
+  },
+  {
+   "id": "SG-H1275-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Correction of order of tribunal under section 22(10) of Act"
+   },
+   "text": {
+    "en": "50.—(1) An application under section 22(10) of the Act to correct an order of a tribunal must be made in the relevant Form.\n(2) The applicant must file and serve the application within 3 days after the date on which the order was given or made.\n(3) A respondent who intends to oppose the application must, within 3 days after being served with the application, file and serve on the applicant a response in the relevant Form."
+   }
+  },
+  {
+   "id": "SG-H1275-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Seal of State Courts"
+   },
+   "text": {
+    "en": "51. Every document issued by the Registry for a relevant Form marked with the word “seal” must bear the seal of the State Courts."
+   }
+  },
+  {
+   "id": "SG-H1275-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Compliance with Court Practice Directions"
+   },
+   "text": {
+    "en": "52. Every document must comply with such requirements and contain such information and particulars of parties or other persons as may be laid down by or specified in any practice directions for the time being issued by the registrar of the State Courts."
+   }
+  },
+  {
+   "id": "SG-H1275-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Rejection of earlier documents"
+   },
+   "text": {
+    "en": "53.—(1) A document may be rejected by the Registrar if the document does not comply with these Rules or with any practice directions mentioned in rule 52.\n(2) Where a document rejected under paragraph (1) is refiled, the document is treated as filed only on the date on which it is subsequently accepted for filing by the Registrar, and not before."
+   }
+  },
+  {
+   "id": "SG-H1275-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Effect of non-compliance"
+   },
+   "text": {
+    "en": "54.—(1) Subject to paragraph (2), where, in any proceedings before a tribunal or the Registrar, there has been a failure to comply with any requirement of these Rules, the failure is to be treated as an irregularity and does not nullify the proceedings, any step taken in the proceedings, or any decision, direction or order given by the tribunal or Registrar.\n(2) A tribunal may, on the ground that there has been a failure mentioned in paragraph (1), and on any terms as to costs or otherwise that the tribunal thinks just —\n(a)set aside either wholly or in part the proceedings in which the failure occurred, any step taken in those proceedings, or any document, decision, direction or order in those proceedings; or\n(b)exercise the tribunal’s powers under these Rules to allow such amendments (if any) to be made and to make such order (if any) dealing with the proceedings generally as the tribunal thinks fit.\n(3) The Registrar may exercise any power of a tribunal under paragraph (2), but cannot set aside a decision, direction or order made by a tribunal magistrate."
+   }
+  },
+  {
+   "id": "SG-H1275-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "55."
+   },
+   "chapter": {
+    "en": "PART 11 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Interest on judgment debts"
+   },
+   "text": {
+    "en": "55.—(1) Except when it has been otherwise agreed between the parties, every judgment debt in relation to orders made under section 22(1)(a) and (c) of the Act shall carry interest, to be calculated from the date of judgment until the judgment is satisfied —\n(a)at the rate of 5.33% per annum;\n(b)at such other rate as the Chief Justice may from time to time direct; or\n(c)at such other rate not exceeding the rate mentioned in sub‑paragraph (a) as a tribunal or the Registrar directs.\n(2) Where instalment payments are allowed by the court, interest is calculated from the date that each instalment is due until the date of payment of the amount of the instalment.\n(3) Where part payments are made on a judgment debt, the payments are applied towards the principal amount due before the interest."
+   }
+  },
+  {
+   "id": "SG-H1275-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRules 7(4), 8(2), 10(2), 11(2) and (3), 21(2), 23(3), 24(3), 25(3), 27(a), 28(2), 30(3), 31(4)(b), 39(1)(b), 40(3)(b), 41(1)(b), 42(4) and 44(1), (2) and (3)\nFees\nNo.\nItem\nFee\nDocument to be stamped and remarks\n1.\nOn lodging a claim under rule 8(2) —\nThe filed copy\n(a)where the total value of the claim does not exceed $10,000\n$30\n(b)where the total value of the claim exceeds $10,000\n$60\n2.\nOn filing a response to a claim under rule 10(2) —\nThe filed copy\n(a)where the total value of the claim does not exceed $10,000\n$30\n(b)where the total value of the claim exceeds $10,000\n$60\n3.\nOn lodging a counterclaim under rule 11(2) —\nThe filed copy\n(a)where the total value of the counterclaim does not exceed $10,000\n$30\n(b)where the total value of the counterclaim exceeds $10,000\n$60\n4.\nOn filing a response to a counterclaim under rule 11(3) —\nThe filed copy\n(a)where the total value of the counterclaim does not exceed $10,000\n$30\n(b)where the total value of the counterclaim exceeds $10,000\n$60\n5.\nOn sealing a summons to a witness\n$10\nSummons\n6.\nOn sealing an urgent summons to a witness (being a summons that is issued less than 3 days before the day on which the witness is to attend before, or produce documents to, the tribunal)\n$20\nSummons\n7.\nOn making an application to set aside a decision, direction or order given in the absence of a party under rule 23(2)\n$30\nThe filed copy\n8.\nOn filing a notice under rule 24(2) to attend before a tribunal on an appeal from any decision, direction or order of a Registrar\n$100\nThe Notice\n9.\nOn filing an application for permission to appeal against an order of a tribunal under rule 25(1)\n$100\nThe filed copy\n10.\nOn filing a notice of appeal under rule 26(1)\n$600\nThe Notice\n11.\nProviding security for the respondent’s costs of appeal under rule 28(1):\n(a)on submitting the relevant Form to, and depositing $500 as security for the respondent’s costs of appeal with, the Accountant-General\n$10\nThe filed copy\n(b)on filing a notice of payment into Court\n$10\nThe Notice\n(c)on obtaining a certificate of deposit of security for costs\n$10\nThe Certificate\n12.\nOn filing an appellant’s case under rule 30\n$600\nThe Case\n13.\nOn filing a respondent’s case under rule 31\n$300\nThe Case\n14.\nOn filing an application to register a settlement agreement under rule 39, or to extend the validity of the registration of a settlement agreement under rule 40\n$10\nThe filed copy\n15.\nOn filing an application under rule 41 to set aside the registration of a settlement agreement\n$30\nThe filed copy\n16.\nSearch/Inspection/Copies:\n(a)On filing a request to take a certified copy of the record (other than an order of the tribunal)\n$8 per document plus $5 per page\nRequest\n(b)On filing a request to search or inspect the record\n$20\nRequest\n(c)On filing a request for a second or subsequent copy of an order of the tribunal\n$10\nRequest\n(d)On filing a request to search the register of settlement agreements\n$20\nRequest\n(e)On filing a request for a copy of a settlement agreement\n$10\nRequest\n(f)On filing a request for a second or subsequent copy of a settlement agreement\n$5 per document plus 15 cents per page\nRequest\n17.\nHearing of claim or counterclaim before tribunal — for the whole or part of each day of hearing (excluding the first day, or the first two half‑days, of the first tranche of hearing dates fixed by the Registrar or a tribunal and any day scheduled for delivery of tribunal’s decision) —\nRequest\n(a)where the total value of the claim does not exceed $10,000\n$30\n(b)where the total value of the claim exceeds $10,000\n$60\n18.\nHearing of application under section 22(10) of Act for correction of order or statement — for the whole or part of each day of hearing (excluding the first day of hearing) —\nApplication\n(a)where the total value of the claim does not exceed $10,000\n$30\n(b)where the total value of the claim exceeds $10,000\n$60"
+   }
+  }
+ ]
+}

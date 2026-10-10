@@ -1,0 +1,932 @@
+{
+ "id": "SG-H2609",
+ "title": {
+  "zh": null,
+  "en": "Infectious Diseases (Quarantine) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p33",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation IDA1976-RG1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 58,
+ "chars": 43007,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/IDA1976-RG1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 58 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 6 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2609-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Infectious Diseases (Quarantine) Regulations."
+   }
+  },
+  {
+   "id": "SG-H2609-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“aircraft” includes any kind of craft which may be used for the conveyance of passengers or goods by air;\n“airport” includes any civil and military airport used for the purpose of the arrival and departure of aircraft;\n“arrival”, in relation to a vessel, means —\n(a)in the case of a seagoing vessel, arrival at a port; and\n(b)in the case of an aircraft, arrival at an airport,\nand “arriving” or “arrived” has a corresponding meaning;\n“container” means a transport equipment, other than a vehicle or conventional packing, which is —\n(a)of a permanent character, strong enough for repeated use;\n(b)specially designed to facilitate the carriage of goods, by one or more modes of transport, without intermediate reloading; and\n(c)fitted with devices permitting its ready handling, particularly its transfer from one mode of transport to another;\n“derat” means to render free of rats or rodents and “deratting” has a corresponding meaning;\n“infected area” means any area declared to be an infected area under section 26 of the Act;\n[S 161/2019 wef 25/03/2019]\n“infected vessel” means any vessel —\n(a)which has a case of cholera on board or on which a case of cholera occurred within 5 days before the arrival of the vessel;\n(b)which has a case of plague on board, or on which a case of plague occurred more than 6 days after embarkation of the infected person, or on which plague-infected rodents are found; or\n(c)which has a case of yellow fever on board, or on which a case of yellow fever occurred at the time of departure or during the voyage;\n“pilot” means a pilot engaged by the Port of Singapore Authority;\n“suspected vessel” means any vessel which —\n(a)in respect of cholera —\n(i)had a case of cholera on board at the time of departure or during the voyage but on which no fresh case of cholera occurred within 5 days before arrival; or\n(ii)has arrived within 5 days of departure from an infected area;\n(b)in respect of plague —\n(i)had a case of plague within 6 days after embarkation of the infected person;\n(ii)is found to have an unusual mortality of rodents the cause of which is not determined; or\n(iii)has on board a person who has been exposed to pulmonary plague and has not been isolated for a period of 6 days, reckoned from the date of last exposure to infection, before departure; or\n(c)in respect of yellow fever —\n(i)has arrived from an infected port or from a port in close relation with an endemic centre of yellow fever after a voyage of less than 6 days or after a longer voyage if there is reason to believe that the vessel may be carrying adult mosquitoes; or\n(ii)has or had on board a case of yellow fever at the time of departure or during the voyage."
+   }
+  },
+  {
+   "id": "SG-H2609-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Quarantine message"
+   },
+   "text": {
+    "en": "3.—(1) The master, owner or agent of any vessel approaching any port or other area in Singapore shall, if any person on board has signs or symptoms which may be indicative of any infectious disease or if there are any circumstances requiring the attention of a Port Health Officer, notify a Port Health Officer either directly or through an agent by a wireless message, or cable, giving the information required under the First Schedule.\n(2) Any wireless message so required to be sent shall reach a Port Health Officer not more than 24 and not less than 12 hours before the time at which the vessel is expected to arrive in the port or other area.\n(3) The cost of sending messages under this regulation shall be borne by the master, owner or agent of the vessel."
+   }
+  },
+  {
+   "id": "SG-H2609-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Measures for vessels"
+   },
+   "text": {
+    "en": "4.—(1) Infected, suspected or other vessels shall be subjected to the measures set out in the Second Schedule insofar as they are applicable to those vessels, or such other measures which a Port Health Officer thinks necessary.\n(2) The master or agent of any vessel or the consignee of any cargo transported in any container or the agent of the consignee shall —\n(a)declare to a Port Health Officer any container or cargo which has originated from a plague infected area; and\n(b)carry out such measures in respect of the cargo or container as a Port Health Officer may direct."
+   }
+  },
+  {
+   "id": "SG-H2609-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Passenger and crew lists to be delivered to Port Health Officer"
+   },
+   "text": {
+    "en": "5. Where a Port Health Officer so directs, a copy of the passenger and crew lists of any vessel, including the full addresses of each passenger and crew, shall be lodged with him as soon as possible after the arrival of the vessel in Singapore."
+   }
+  },
+  {
+   "id": "SG-H2609-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Obligation of ships from infected area"
+   },
+   "text": {
+    "en": "6.—(1) Any ship upon entering Singapore waters from any infected area must —\n(a)show the appropriate quarantine signals set out in the Third Schedule;\n(b)anchor at a quarantine anchorage; and\n(c)be inspected by a Port Health Officer.\n[S 638/2025 wef 01/10/2025]\n(1A) Paragraph (1)(b) does not apply to any mail ship —\n(a)that has been exempted by the appropriate Minister;\n(b)that is carrying no deck passengers;\n(c)the master of which has notified a Port Health Officer by wireless message or signal, not less than 12 hours before the arrival of the ship, that there is no case or suspected case of infectious disease on board; and\n(d)the master of which produces on arrival in port a signed entry declaration in the form set out in the Fourth Schedule.\n[S 638/2025 wef 01/10/2025]\n(2) No ship which has proceeded to a quarantine anchorage shall leave the quarantine anchorage without a pratique in the Form B set out in the Fifth Schedule. After receiving such pratique the ship shall lower the quarantine signal.\n(3) No pilot shall remove any ship from a quarantine anchorage until he has sight of the pratique granted to the ship."
+   }
+  },
+  {
+   "id": "SG-H2609-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Declaration by master or surgeon of ship"
+   },
+   "text": {
+    "en": "7.—(1) On arrival in Singapore of a ship —\n(a)which has come from any area in which at the time of its departure a dangerous infectious disease existed;\n(b)on which a case of dangerous infectious disease occurred before its departure from another infected area or during the voyage; or\n(c)on which a person apparently suffering from an infectious disease is travelling,\nthe master or surgeon of the ship shall give such information in writing to the pilot or a Port Health Officer who comes alongside or on board the ship.\n(2) A ship mentioned in paragraph (1) must be anchored at a quarantine anchorage if the pilot or a Port Health Officer so directs and remain there until a Port Health Officer has granted a pratique.\n[S 638/2025 wef 01/10/2025]\n(3) Paragraph (2) does not apply to a mail ship —\n(a)mentioned in regulation 6(1A); and\n(b)to which paragraph (1)(b) and (c) does not apply.\n[S 638/2025 wef 01/10/2025]"
+   }
+  },
+  {
+   "id": "SG-H2609-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Use of flags and signals"
+   },
+   "text": {
+    "en": "8. The master, owner or agent of a ship which is required by the Act or by these Regulations to anchor at a quarantine anchorage shall comply with the provisions as to the display of signals set out in the Third Schedule."
+   }
+  },
+  {
+   "id": "SG-H2609-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Port Health Officer may order removal of ship"
+   },
+   "text": {
+    "en": "9. A Port Health Officer may, if he thinks fit, order a ship to be moved to any part of the quarantine anchorage, and the master of the ship shall comply with that order."
+   }
+  },
+  {
+   "id": "SG-H2609-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Duty of pilot"
+   },
+   "text": {
+    "en": "10.—(1) A pilot may board a ship displaying any of the signals set out in the Third Schedule for the purpose of taking the ship to the quarantine anchorage only after producing such certificate of vaccination as may be required by a Port Health Officer; and he shall remain on board until permitted to leave by a Port Health Officer. No member of his crew or any other person shall board the ship unless authorised by a Port Health Officer.\n(2) The pilot shall, if any person on board the ship is sick or has symptoms which may be indicative of any infectious disease or if there is a death on board during the voyage, take the ship directly to the quarantine anchorage and notify a Port Health Officer by wireless message forthwith. He shall not take that ship to any other anchorage without the permission of a Port Health Officer."
+   }
+  },
+  {
+   "id": "SG-H2609-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "No ship to anchor or ply at quarantine anchorage"
+   },
+   "text": {
+    "en": "11.—(1) No ship shall enter or remain at a quarantine anchorage unless required to do so by the Act or these Regulations, or with the written permission of a Port Health Officer.\n(2) No boat, launch, bumboat or harbour craft shall enter or ply within a quarantine anchorage except those authorised to do so under any written law or with the written permission of a Port Health Officer."
+   }
+  },
+  {
+   "id": "SG-H2609-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Declaration by master or surgeon of ship"
+   },
+   "text": {
+    "en": "12.—(1) For the purpose of section 28 of the Act, the master or surgeon of any ship arriving in Singapore shall make and sign an entry declaration according to the Form set out in the Fourth Schedule as to the number of crew and passengers, the presence or prevalence of any infectious disease on board during the voyage, the number of deaths and such other particulars as are required in that Form.\n[S 161/2019 wef 25/03/2019]\n(2) Such a declaration purporting to be signed by the master or surgeon shall be deemed to have been so signed."
+   }
+  },
+  {
+   "id": "SG-H2609-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Restriction of communication with ships in quarantine"
+   },
+   "text": {
+    "en": "13.—(1) No communication (except by means of signals) with any ship displaying any of the signals set out in the Third Schedule shall be made except with the written permission of a Port Health Officer in the Form C set out in the Fifth Schedule.\n(2) No person, except the master, crew, passengers or a pilot permitted under regulation 10 shall board or remain on board such a ship without such permission."
+   }
+  },
+  {
+   "id": "SG-H2609-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Duty of master or agent to prevent unauthorised boarding"
+   },
+   "text": {
+    "en": "14. The master or agent of any ship required to proceed to and anchor at a quarantine anchorage shall prevent any unauthorised person from boarding the ship and detain any such person who has boarded the ship."
+   }
+  },
+  {
+   "id": "SG-H2609-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Crew of infected ship not to be signed off without permission"
+   },
+   "text": {
+    "en": "15. Where the quarantine period of any ship for a dangerous infectious disease, reckoned from the date of isolation of the last case of the disease, is not completed, the master, owner or agent shall not sign off or discharge any crew member of the ship without the written permission of a Port Health Officer."
+   }
+  },
+  {
+   "id": "SG-H2609-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Crew member not to be discharged without permission"
+   },
+   "text": {
+    "en": "16. The master of any ship shall not discharge a crew member who has been required by a Port Health Officer to undergo further medical examination or health procedures without first obtaining the written approval of a Port Health Officer."
+   }
+  },
+  {
+   "id": "SG-H2609-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "When pratique to be granted"
+   },
+   "text": {
+    "en": "17.—(1) A ship to which the appropriate prescribed measures have been applied to the satisfaction of a Port Health Officer shall be granted pratique notwithstanding the presence on board of transit passengers whose quarantine period in respect of a dangerous infectious disease is not completed.\n(2) Any transit passenger may be allowed by a Port Health Officer to leave the ship subject to such conditions as he may impose.\n(3) A transit passenger may be detained in a quarantine station for observation until either the appropriate incubation period of the disease in respect of which he is detained is completed or until the ship is ready to sail whichever is the sooner. Such transit passenger may be allowed to remain on board the ship if the master undertakes in writing to accept liability in case the transit passenger leaves the ship without the written permission of a Port Health Officer.\n(4) If any such passenger on whose behalf the master has accepted liability leaves the ship, the master shall be guilty of an offence and the passenger shall be arrested without warrant and detained at a quarantine station until the incubation period of the disease in respect of which the ship is in quarantine is completed."
+   }
+  },
+  {
+   "id": "SG-H2609-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Ships of war"
+   },
+   "text": {
+    "en": "18. Any ship of war arriving from an infected area may be granted pratique on the production of an entry declaration in the form set out in the Fourth Schedule, signed by the surgeon and countersigned by the commander of the ship, to the effect that no case of a dangerous infectious disease has occurred on board during the voyage."
+   }
+  },
+  {
+   "id": "SG-H2609-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Radio provisional pratique"
+   },
+   "text": {
+    "en": "19.—(1) A Port Health Officer may grant provisional pratique by radio to such ships from infected areas and impose such conditions or requirements as he may think necessary.\n(2) The master, owner or agent requesting for the provisional pratique by radio shall comply with all the conditions and requirements of a Port Health Officer."
+   }
+  },
+  {
+   "id": "SG-H2609-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Duty of master of aircraft from infected area"
+   },
+   "text": {
+    "en": "20.—(1) The master of any aircraft arriving in Singapore from an infected area shall, if required by a Port Health Officer —\n(a)proceed to a specified place at the airport to disembark passengers and crew; and\n(b)stop at or near a place marked by the appropriate signals as set out in the Third Schedule and shall remain there until a Port Health Officer grants permission to proceed.\n(2) No person, except such persons as are necessary for the maintenance and operation of the aircraft on the ground, shall approach or be within 30 metres of the aircraft or communicate (except by means of signals) with the aircraft, passengers or crew thereof.\n(3) Any master or person who contravenes or fails to comply with this regulation shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000."
+   }
+  },
+  {
+   "id": "SG-H2609-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Medical inspection of aircraft crew and passengers"
+   },
+   "text": {
+    "en": "21.—(1) A Port Health Officer may require that all passengers and crew of an aircraft shall remain on board the aircraft until such time as he has performed such medical examination and carried out such health procedures as he may think fit.\n(2) All disembarking passengers and crew from an aircraft shall, unless exempted by a Port Health Officer, present themselves for health clearance and shall not leave the airport without obtaining such clearance.\n(3) The master, owner or agent of an aircraft shall ensure that all disembarking passengers and crew are presented to a Port Health Officer for health clearance."
+   }
+  },
+  {
+   "id": "SG-H2609-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Duty of master or agent of aircraft to inform of infectious disease"
+   },
+   "text": {
+    "en": "22. The master or agent of any aircraft in which any case of an infectious disease has occurred or is present shall immediately inform a Port Health Officer of the case."
+   }
+  },
+  {
+   "id": "SG-H2609-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Vaccination of crew and passengers"
+   },
+   "text": {
+    "en": "23.—(1) A Port Health Officer may direct the master or agent of any vessel, on which a case of any dangerous infectious disease has occurred during her current voyage or after arrival in Singapore, to require the vaccination of any crew member or passenger thereof.\n(2) Any crew member or passenger required to be vaccinated under paragraph (1) who refuses to be vaccinated shall not be permitted to land in Singapore."
+   }
+  },
+  {
+   "id": "SG-H2609-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Entry of persons in Singapore without vaccination"
+   },
+   "text": {
+    "en": "24. Whenever any person enters or lands in Singapore in contravention of regulation 23(2) —\n(a)he shall be guilty of an offence;\n(b)the master, owner or agent of the vessel by which he was brought to Singapore shall also be guilty of an offence; and\n(c)the court, on convicting that person, may make an order directing that the person shall be vaccinated within a specified time and that in default of that order he shall be returned as soon as possible to his place of embarkation by or at the expense of the agents of the vessel by which he was brought to Singapore; or if he came by land, to his country of origin or to the place from which he entered Singapore, in either case at his own expense."
+   }
+  },
+  {
+   "id": "SG-H2609-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART II ARRIVAL OF VESSELS"
+   },
+   "heading": {
+    "en": "Report of disease and surveillance"
+   },
+   "text": {
+    "en": "25.—(1) Every person who arrives in Singapore by means of any vessel or vehicle shall if so required —\n(a)undertake in the Form D set out in the Fifth Schedule to report to a Port Health Officer without delay at such place, intervals and time for surveillance as a Port Health Officer may specify;\n(b)report any sickness from which he suffers within 6 days of his arrival to a Port Health Officer; and\n(c)deposit with a Port Health Officer a sum not exceeding $100 for the due execution of the undertaking given under sub-paragraph (a).\n(2) Any person who fails to enter into such an undertaking or is in breach of the terms of the undertaking shall be arrested and isolated at a quarantine station at his own cost and expense. A Port Health Officer shall also forfeit the money deposited under paragraph (1) upon such breach of the undertaking."
+   }
+  },
+  {
+   "id": "SG-H2609-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART III VESSELS IN PORT AND DEPARTURE"
+   },
+   "heading": {
+    "en": "Master, etc., to report presence of infectious disease on board"
+   },
+   "text": {
+    "en": "26.—(1) The master, owner or agent of any vessel in any port in Singapore shall, if a case or suspected case of dangerous infectious disease is found on board his vessel, immediately stop the working of cargo, detain all persons on board and notify a Port Health Officer.\n(2) In the case of a ship, the master shall display the appropriate signals as set out in the Third Schedule and shall forthwith remove his ship to a quarantine anchorage."
+   }
+  },
+  {
+   "id": "SG-H2609-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART III VESSELS IN PORT AND DEPARTURE"
+   },
+   "heading": {
+    "en": "If without a surgeon, master, etc., to report a case showing special symptoms"
+   },
+   "text": {
+    "en": "27. Where any vessel in any port in Singapore does not have a surgeon on board, the master, owner or agent shall immediately inform a Port Health Officer of any case of —\n(a)severe diarrhoea with or without vomitting, accompanied by cramps and collapse; or\n(b)jaundice accompanied by fever or of fever attended with glandular swellings,\nwhich may be found on board his vessel."
+   }
+  },
+  {
+   "id": "SG-H2609-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART III VESSELS IN PORT AND DEPARTURE"
+   },
+   "heading": {
+    "en": "Measures against rodents"
+   },
+   "text": {
+    "en": "28.—(1) The master of every vessel shall —\n(a)at all times keep his vessel free from rodents and the plague vector; and\n(b)cause the vessel to be periodically fumigated.\n(2) A Port Health Officer may, by notice in writing require the master, owner or agent of any vessel to fumigate his vessel within 24 hours or within such lesser period as he may specify.\n(3) [Deleted by S 492/2007 wef 24/09/2007]\n(4) [Deleted by S 492/2007 wef 24/09/2007]\n(5) [Deleted by S 492/2007 wef 24/09/2007]\n(6) [Deleted by S 492/2007 wef 24/09/2007]\n(7) [Deleted by S 492/2007 wef 24/09/2007]\n(8) [Deleted by S 492/2007 wef 24/09/2007]"
+   }
+  },
+  {
+   "id": "SG-H2609-A28.001",
+   "no": 28.001,
+   "noLabel": {
+    "en": "28A."
+   },
+   "chapter": {
+    "en": "PART III VESSELS IN PORT AND DEPARTURE"
+   },
+   "heading": {
+    "en": "Ship sanitation measures"
+   },
+   "text": {
+    "en": "28A.—(1) A Port Health Officer may, by notice in writing, require the master, owner or agent of any vessel to take such appropriate measures to disinfect, decontaminate, disinsect or quarantine the vessel within 24 hours or within such shorter period as he may specify.\n(2) The master, owner or agent of every ship shall, on the ship’s arrival at and departure from Singapore, produce a valid ship sanitation control certificate or valid ship sanitation control exemption certificate, as the case may be.\n(3) A ship sanitation control certificate or ship sanitation control exemption certificate, as the case may be, shall be issued only by the health authority of a port designated for that purpose by its national health administration and shall be in Form E set out in the Fifth Schedule.\n(4) Every ship sanitation control certificate or ship sanitation control exemption certificate produced under paragraph (2) shall be valid for 6 months and may be extended for a period of one month in the case of a ship proceeding to any port if the control or inspection, as the case may be, would be facilitated by the emptying of the holds due to take place at that port.\n(5) The master, owner or agent of a ship shall, before the expiry of the existing ship sanitation control certificate or ship sanitation control exemption certificate referred to in paragraph (2), apply to a Port Health Officer for the issue of a new ship sanitation control certificate or ship sanitation control exemption certificate, as the case may be.\n(6) A Port Health Officer may issue in respect of a ship —\n(a)a ship sanitation control certificate, if health control measures have been —\n(i)carried out on the ship when the holds are empty; and\n(ii)carried out to the satisfaction of the Port Health Officer; or\n(b)a ship sanitation control exemption certificate, if the Port Health Officer is satisfied that there is no evidence of infection or contamination on the ship.\n(7) The master, owner or agent of a ship shall pay the fee for the inspection of the ship and the issue of any ship sanitation control certificate or ship sanitation control exemption certificate as specified in the Sixth Schedule.\n[S 492/2007 wef 24/09/2007]"
+   }
+  },
+  {
+   "id": "SG-H2609-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART III VESSELS IN PORT AND DEPARTURE"
+   },
+   "heading": {
+    "en": "Vessels harbouring rodents or plague vectors"
+   },
+   "text": {
+    "en": "29. Where it appears to a Port Health Officer that any vessel, part thereof or anything therein is or may become favourable to the harbouring or propagation of rodents or plague vectors, he may direct the master, owner or agent to take such specified measures with regard to the vessel or for the destruction or removal of anything therein as may bring them into a condition unfavourable to the harbouring or propagation of rodents or plague vectors."
+   }
+  },
+  {
+   "id": "SG-H2609-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART III VESSELS IN PORT AND DEPARTURE"
+   },
+   "heading": {
+    "en": "Vessels to be kept free from insects and vermins"
+   },
+   "text": {
+    "en": "30.—(1) The master, owner or agent of every vessel shall —\n(a)cause his vessel to be periodically treated for insects and vermin; and\n(b)if directed by the Port Health Officer, cause his vessel to be treated with insecticide or pesticide prior to arrival in Singapore.\n(2) Notwithstanding paragraph (1), a Port Health Officer may treat any vessel on arrival with insecticide or pesticide."
+   }
+  },
+  {
+   "id": "SG-H2609-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART III VESSELS IN PORT AND DEPARTURE"
+   },
+   "heading": {
+    "en": "Unfit food"
+   },
+   "text": {
+    "en": "31.—(1) If a Port Health Officer or the Director-General, Food Administration has reason to believe that any water or food intended for human use or consumption on board any vessel is unfit for such use or consumption he may order that that water or food, or water or food from a similar source, shall not be supplied to any vessel until he is satisfied, after considering any analyst’s report on that water or food that it is fit for human use or consumption.\n[S 280/2019 wef 01/04/2019]\n(2) Any person who refuses or fails to comply with an order of a Port Health Officer or the Director-General, Food Administration under paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.\n[S 280/2019 wef 01/04/2019]"
+   }
+  },
+  {
+   "id": "SG-H2609-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART III VESSELS IN PORT AND DEPARTURE"
+   },
+   "heading": {
+    "en": "Sanitary measures for food"
+   },
+   "text": {
+    "en": "32.—(1) A Port Health Officer or the Director-General, Food Administration may direct the master or agent of any vessel loading or obtaining the supply of water or food thereon to comply with such sanitary measures as the Port Health Officer or the Director-General, Food Administration may think fit.\n[S 280/2019 wef 01/04/2019]\n(2) Any person who fails to comply with the directions of a Port Health Officer or the Director-General, Food Administration under paragraph (1) shall be guilty of an offence.\n[S 280/2019 wef 01/04/2019]"
+   }
+  },
+  {
+   "id": "SG-H2609-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART III VESSELS IN PORT AND DEPARTURE"
+   },
+   "heading": {
+    "en": "Nuisances on board vessel"
+   },
+   "text": {
+    "en": "33.—(1) If a Port Health Officer on inspection of any vessel in port finds any decaying animal or vegetable matter, fruit, water, rubbish, dirt, filth or other matter, which in his opinion is likely to be injurious to health or to create a nuisance, he may serve a notice on the master, agent or owner of the vessel to abate the nuisance within such period as he may specify in the notice.\n(2) If the nuisance is not abated within that time, the master, agent or owner shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and to a further fine not exceeding $100 for every day during which the offence is continued after conviction.\n(3) If a Port Health Officer on inspection of any vessel finds any part thereof to be in a dirty or insanitary state, he may order the master, owner or agent of the vessel to carry out to his satisfaction such cleansing, disinfection, whitewashing or painting as he may direct.\n(4) Any master, owner or agent who neglects to comply with any order by a Port Health Officer under paragraph (3) within such time as he may specify shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and to a further fine not exceeding $100 for every day during which the offence continues after conviction.\n(5) At the discretion of a Port Health Officer, any offensive articles mentioned in this regulation may be discharged, and the vessel may, at the owner’s or agent’s expense, be disinfected under the supervision of a Port Health Officer."
+   }
+  },
+  {
+   "id": "SG-H2609-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART III VESSELS IN PORT AND DEPARTURE"
+   },
+   "heading": {
+    "en": "To report death on board"
+   },
+   "text": {
+    "en": "34.—(1) The master, owner or agent of any vessel in any port in Singapore shall immediately report to a Port Health Officer and to the police any death occurring on his vessel, and no corpse shall under any circumstances be landed or be caused to be landed without the permission of a Port Health Officer in the Form F set out at the Agency’s website at https://www.nea.gov.sg.\n[S 257/2023 wef 02/05/2023]\n(2) Where a death has occurred during the current voyage on board any vessel which does not have a surgeon, the master shall give information thereof to a Port Health Officer not less than 24 hours before reaching the port in the case of a ship and, in the case of an aircraft, not less than 30 minutes before landing. Such corpse shall not be landed or be caused to be landed without the permission of a Port Health Officer in that Form F."
+   }
+  },
+  {
+   "id": "SG-H2609-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART III VESSELS IN PORT AND DEPARTURE"
+   },
+   "heading": {
+    "en": "Death on boat and other harbour craft"
+   },
+   "text": {
+    "en": "35. If a death occurs on any boat or other harbour craft in the waters of Singapore or in any river of Singapore within port limits, the owner or boatman or the nearest relative of the deceased, or any person finding the corpse shall report the death to the police and to a Port Health Officer. Such corpse shall not be landed or caused to be landed without the permission of a Port Health Officer in the Form F set out at the Agency’s website at https://www.nea.gov.sg.\n[S 257/2023 wef 02/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H2609-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART III VESSELS IN PORT AND DEPARTURE"
+   },
+   "heading": {
+    "en": "Conditions"
+   },
+   "text": {
+    "en": "36. In giving his permission for a corpse to be landed or caused to be landed under regulation 34 or 35, the Port Health Officer may impose such conditions as he may think fit."
+   }
+  },
+  {
+   "id": "SG-H2609-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART III VESSELS IN PORT AND DEPARTURE"
+   },
+   "heading": {
+    "en": "Duty of medical practitioner"
+   },
+   "text": {
+    "en": "37. Every medical practitioner who is aware that any passenger on board any vessel or who was recently disembarked from any vessel or any crew member or any person employed in connection with any vessel in any port in Singapore is suffering from a dangerous infectious disease shall forthwith give notice thereof by telephone and in writing to a Port Health Officer."
+   }
+  },
+  {
+   "id": "SG-H2609-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART III VESSELS IN PORT AND DEPARTURE"
+   },
+   "heading": {
+    "en": "Prohibition of embarkation of persons with infectious disease"
+   },
+   "text": {
+    "en": "38. A Port Health Officer may prohibit the embarkation on any vessel of any person with symptoms or signs of any infectious disease until the Port Health Officer is satisfied that the person can no longer spread the infection."
+   }
+  },
+  {
+   "id": "SG-H2609-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART III VESSELS IN PORT AND DEPARTURE"
+   },
+   "heading": {
+    "en": "Sanitary measures at infected ports and on departure of ships"
+   },
+   "text": {
+    "en": "39. When any area in Singapore is infected with any dangerous infectious disease, a Port Health Officer may, within 12 hours of the receipt of the notice of departure, visit any vessel and medically examine any person on board the vessel or any person proposing to embark thereon. If after examination the Port Health Officer is of the opinion that any person shows symptoms of any dangerous infectious disease or is a contact of any person with such disease he shall prohibit the embarkation of that person."
+   }
+  },
+  {
+   "id": "SG-H2609-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART III VESSELS IN PORT AND DEPARTURE"
+   },
+   "heading": {
+    "en": "Issue of certificates when measures are completed"
+   },
+   "text": {
+    "en": "40. Where the master of a vessel is required by a Port Health Officer to carry out any sanitary measures in respect of the vessel, a Port Health Officer may on request furnish to any interested person a certificate specifying the nature of any measures employed with regard to the vessel, its cargo, its passengers or passengers’ luggage."
+   }
+  },
+  {
+   "id": "SG-H2609-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART III VESSELS IN PORT AND DEPARTURE"
+   },
+   "heading": {
+    "en": "Bills of Health"
+   },
+   "text": {
+    "en": "41. A Port Health Officer may at the request of the master of a ship about to depart from Singapore issue to him a Bill of Health in respect of the ship in the Form G set out in the Fifth Schedule."
+   }
+  },
+  {
+   "id": "SG-H2609-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL"
+   },
+   "heading": {
+    "en": "Persons placed under surveillance or isolation"
+   },
+   "text": {
+    "en": "42.—(1) A Port Health Officer may require any person who has not been vaccinated because of a medical contraindication to be placed under surveillance or isolation for such period or periods and at such place as he may determine.\n(2) Any person detained at a quarantine station shall comply with any directions of a Port Health Officer."
+   }
+  },
+  {
+   "id": "SG-H2609-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL"
+   },
+   "heading": {
+    "en": "Signals"
+   },
+   "text": {
+    "en": "43. Whenever any person is detained at a quarantine station, the appropriate signals as set out in the Third Schedule shall be displayed in a prominent position at the quarantine station."
+   }
+  },
+  {
+   "id": "SG-H2609-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL"
+   },
+   "heading": {
+    "en": "Restriction of persons from landing"
+   },
+   "text": {
+    "en": "44.—(1) No person, except a Port Health Officer and persons employed in running a quarantine station, shall be within the boundaries of the quarantine station if it is on land or within 200 metres or such distance as the Port Health Officer may specify if it is on a ship or an island when the signals required under regulation 43 are displayed.\n(2) Any person not permitted under paragraph (1) shall only enter, land or depart from a quarantine station with the written permission of a Port Health Officer.\n(3) Any person who contravenes this regulation may be detained and kept under observation at his own expense for such period as a Port Health Officer may think necessary."
+   }
+  },
+  {
+   "id": "SG-H2609-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL"
+   },
+   "heading": {
+    "en": "Treatment of persons from vessels"
+   },
+   "text": {
+    "en": "45.—(1) A Port Health Officer may make proper provision for the removal to and from a quarantine station of all sick persons, contacts and persons whose incubation period in respect of an infectious disease is incomplete, and he may require the master or agent of the vessel to furnish suitable transport for such removal to his satisfaction.\n(2) If the transport required for such removal is furnished by the Government, the agent of the vessel shall pay to the Government such costs incurred therefor as may be determined by a Port Health Officer.\n(3) When a Port Health Officer requires the removal of passengers and crew members of a vessel to a quarantine station, the number of such persons shall be ascertained and recorded on the counterfoil in the Form H set out in the Fifth Schedule by an officer appointed by a Port Health Officer and that Form shall then be signed by that officer and countersigned by the master of the vessel. A duplicate of the signed Form H shall be handed to the person entrusted with the removal, and the other retained for record.\n(4) When the agent of a vessel is required to undertake the order for removal, he shall deliver the number of passengers as stated in the Form H to the officer-in-charge of the quarantine station who shall forthwith issue to the agent a receipt, in the Form I set out in the Fifth Schedule, for the number of persons received by him.\n(5) The responsibility of the agent for the delivery of such passengers shall commence when the Form H is delivered to him and shall cease on the receipt by him of the Form I. These certificates shall be conclusive evidence of the facts certified therein."
+   }
+  },
+  {
+   "id": "SG-H2609-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL"
+   },
+   "heading": {
+    "en": "Conveyance of articles outside quarantine limits forbidden"
+   },
+   "text": {
+    "en": "46. Any foodstuff, water, animal or other article conveyed from within the boundary of any quarantine station or from any vessel in quarantine, or from within the limits of any quarantine anchorage, without the permission of a Port Health Officer may be destroyed without compensation."
+   }
+  },
+  {
+   "id": "SG-H2609-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL"
+   },
+   "heading": {
+    "en": "Containers"
+   },
+   "text": {
+    "en": "47.—(1) The owner, charterer, consignor or consignee or his agent shall ensure that every container including the goods therein is kept free of vectors and rodents at all times.\n(2) The owner or occupier of any premises where containers are packed, broken up or stored shall keep such premises free of vectors and rodents."
+   }
+  },
+  {
+   "id": "SG-H2609-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL"
+   },
+   "heading": {
+    "en": "Fees and charges"
+   },
+   "text": {
+    "en": "48. The master, owner, agent or charterer of a vessel shall be liable to pay the Government all the fees and charges set out in the Sixth Schedule."
+   }
+  },
+  {
+   "id": "SG-H2609-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL"
+   },
+   "heading": {
+    "en": "Offences as to documents"
+   },
+   "text": {
+    "en": "49. Any person who —\n(a)issues, obtains or is in possession of any false document; or\n(b)uses any document which has been tampered with,\nbeing a document purporting to be issued under the Act or these Regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000."
+   }
+  },
+  {
+   "id": "SG-H2609-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL"
+   },
+   "heading": {
+    "en": "General penalty"
+   },
+   "text": {
+    "en": "50.—(1) Any person who contravenes or fails to comply with any of these Regulations shall be guilty of an offence.\n(2) Any person guilty of an offence for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $1,000 and in the case of a continuing offence to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H2609-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART IV GENERAL"
+   },
+   "text": {
+    "en": "51. [Deleted by S 638/2025 wef 01/10/2025]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2609-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 3(1)\nQuarantine Message\nThe following information shall be given by the master, owner or agent of any vessel:\n(a)name of vessel, port of arrival at Singapore, date and expected time of arrival (ETA);\n(b)port of departure (first port of loading) and last port of call;\n(c)the occurrence of any case of infectious disease during the last 6 days indicating the disease and number of cases;\n(d)any other case of illness on board indicating the nature and number of cases;\n(e)number of deaths from illness, infectious disease or otherwise, which have occurred on board during the voyage;\n(f)whether a ship’s surgeon is on board;\n(g)number of sick persons to be disembarked and the nature of illness;\n(h)number of crew members and passengers;\n(i)number of passengers to be disembarked and class of the passengers; and\n(j)validity of International Health Certificates of passengers and crew."
+   }
+  },
+  {
+   "id": "SG-H2609-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 4\nInfected, suspected or other ships arriving at any port in Singapore may be subjected to the following measures:\nPart A — General\n(a)Inspection of the ship and the medical examination of all persons on board by a Port Health Officer.\n(b)Isolation and disembarkation of the sick or contacts by a Port Health Officer.\n(c)Isolation or surveillance or isolation followed by surveillance of contacts or suspects.\n(d)Vaccination of disembarking passengers or crew where a Port Health Officer thinks necessary.\nPart B — Plague\n1. No crew member may leave an infected, suspected or any other ship without the permission of the Port Health Officer.\n2. The passengers and crew of an infected, suspected or any other ship may be subjected to surveillance for a period not exceeding 6 days from the date of arrival.\n3. The parts of an infected or suspected ship which a Port Health Officer considers to be infected and soiled linen, wearing apparel or other articles found on board shall be cleansed of vermin and, if the Port Health Officer considers necessary, disinfected.\n4. A Port Health Officer may require infected, suspected or any other ships to be deratted to his satisfaction before or after the discharge of cargo. The Port Health Officer may direct or supervise the measures to be taken when deratting is to be carried out during or after the discharge of cargo. The measures will include isolation and surveillance of personnel employed in the discharge of the cargo and other precautions to prevent the rodents from passing from the ship to the shore.\nPart C — Cholera\n1. The parts of an infected or suspected ship which a Port Health Officer considers to be infected and used bedding, soiled linen, wearing apparel, food and other articles which the Port Health Officer considers to be contaminated shall be disinfected.\n2. Discharge of cargo from an infected ship shall be carried out under the supervision of a Port Health Officer who will take measures to prevent the spread of infection including placing the personnel employed under isolation or surveillance.\n3. Where a Port Health Officer suspects the drinking water on board an infected, suspected or any other ship to be contaminated, he may cause it to be disinfected, thrown away and replaced with a wholesome supply after disinfection of the tanks. No water tanks containing water as ballast shall be taken in at the infected port unless the water has been disinfected. Human dejecta and the wastewater of an infected, suspected or any other ship shall be disinfected before being discharged into the waters of Singapore.\n4. No passenger or crew shall leave an infected, suspected or any other ship without the permission of a Port Health Officer.\nPart D — Yellow Fever\n1. The infected or suspected ship shall be moored at least 200 metres from the shore or at such distance as the Port Health Officer may specify so as to prevent the access of mosquitoes.\n2. The infected or suspected ship shall be effectively rid of all mosquitoes on board before the discharge of cargo.\nPart E — Aircraft\nI. General\n1. The measures applicable on the departure of an aircraft from any infected area are as follows:\n(a)thorough cleansing of the aircraft;\n(b)medical inspection of passengers and crew;\n(c)exclusion of any person showing signs and symptoms of any infectious disease as well as contacts and carriers thereof;\n(d)treatment of the aircraft with insecticide; and\n(e)annotation of the aircraft’s papers to record the carrying out of the above measures.\n2. The measures applicable on the arrival of any aircraft from any infected area are as follows:\n(a)landing at a place in the airport specified by a Port Health Officer;\n(b)medical inspection of crew and passengers and the landing and isolation of the sick. The crew and passengers shall not move beyond the limits specified by the Port Health Officer without his permission.\n(c)the master shall place himself at the disposal of the Port Health Officer to answer all requests for information affecting public health and to produce the aircraft’s papers for examination or annotation; and\n(d)should the aircraft, on arrival in Singapore, land elsewhere than in the designated airport, the master shall notify the nearest police station to this effect and the police shall communicate immediately with the Port Health Officer. In such a case, no cargo shall be unloaded and no passenger or crew shall leave the vicinity of the aircraft without the permission of the Port Health Officer.\nII. Plague\n3. Where the aircraft has departed or arrived from a plague infected area but there has not been a case of plague on board, the following measures may be taken:\n(a)deratting the aircraft and treating it with insecticides or pesticides if they have not been done at the airport of departure; and\n(b)surveillance of the crew and passengers for a period not exceeding 6 days from the date on which the aircraft left the infected area.\n4. Where the aircraft has departed or arrived from a plague infected area and there is on board a recognised or suspected case of plague, the following measures shall be applied:\n(a)after medical inspection of the crew and passengers, the sick shall be immediately disembarked and isolated by a Port Health Officer;\n(b)all persons who have been in contact with the sick and those whom the Port Health Officer considers suspect shall be subjected to surveillance for a period not exceeding 6 days from the date of arrival of the aircraft;\n(c)the Port Health Officer may require any part of the aircraft, which he considers infected, to be treated with insecticide or pesticide;\n(d)deratting of the aircraft if the Port Health Officer suspects the presence of rodents on board; and\n(e)if the Port Health Officer considers that the merchandise on board may harbour rats or fleas, the merchandise shall not be discharged except with such precautions as he may direct.\nIII. Cholera\n5. Where the aircraft has departed or arrived from a cholera infected area but there has been no cases of cholera on board, a Port Health Officer may subject the passengers and crew to surveillance for a period not exceeding 5 days from the date on which the aircraft left the infected area.\n6. If a case presenting clinical signs of cholera appears on board during the voyage, the aircraft shall be subject, at places of call or on arrival, to the following procedure:\n(a)after the passengers and crew are medically inspected, the sick shall be immediately disembarked and isolated;\n(b)the crew and passengers shall be kept under surveillance for a period not exceeding 5 days from the date of arrival of the aircraft;\n(c)a Port Health Officer shall disinfect personal effects, linen and all other articles which in his opinion are infected and the parts of the aircraft which have been occupied by the sick or which he considers liable to have been infected;\n(d)if the Port Health Officer has any reason to suspect that the drinking water on board is contaminated, he shall order it to be disinfected and if practicable emptied out and replaced, after the disinfection of the container, by wholesome water; and\n(e)persons arriving by such aircraft who wish to remain in Singapore should submit to clinical or bacteriological examinations or other measures for the detection of the cholera vibrio as the Port Health Officer considers necessary.\n7. The Port Health Officer may prohibit the unloading of fish, shellfish, fruits and vegetables from any aircraft coming from a cholera infected area.\nIV. Yellow Fever\n8. Where an aircraft has departed or arrived from a yellow-fever infected area, the following measures shall be taken:\n(a)inspection of the aircraft and cargo by the Port Health Officer to ensure that they do not contain mosquitoes;\n(b)treatment of the aircraft with insecticide where the Port Health Officer considers necessary; and\n(c)if a person on board, upon medical examination, is suspected to be suffering from yellow fever or the Port Health Officer is not satisfied that the person has completed a period of 6 days since possible exposure to infection, he may be subjected to isolation either within the airport or elsewhere under conditions approved by the medical officer for a period not exceeding 6 days reckoned from the last day on which that person could have been infected."
+   }
+  },
+  {
+   "id": "SG-H2609-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulations 6, 8, 10, 13, 20, 26 and 43\nQuarantine Signals\n1. The following signals as may be appropriate shall be displayed by the master until the ship is free from control:\n(a)by day, during the whole of the time between sunrise and sunset, when the ship is within the waters of Singapore —\n(i)the Flag Signal Q; meaning — “my ship is healthy and I require pratique”;\n(ii)the two Flag Signal QQ; meaning — “my ship is suspect, that is to say, I have had a case or cases of infectious disease more than 5 days ago, or there is an unusual mortality among rats on board”; or\n(iii)the two Flag Signal QL; meaning — “my ship is infected, that is to say, I have had a case or cases of infectious disease less than 5 days ago”.\nThe day signal shall be shown at the masthead or where it can best be seen; and\n(b)by night, during the whole of the time between sunset and sunrise, but only when the ship is within the waters of Singapore, a signal comprising a red light over a white light, the lights being not more than 2 metres apart, and meaning — “I have no pratique”.\nThe night signal shall be shown at the peak or other place where it can best be seen.\n2. The following quarantine signals shall mark a place at the airport where a master shall stop his aircraft:\n(a)from sunrise to sunset, the Flag Q being a yellow flag of 6 breadths of bunting; and\n(b)from sunset to sunrise, 3 lights (two red and one white) of such a character as to be visible on a clear night by any aircraft from a distance of 3 kilometres and placed at distances of two metres apart in the form of an equilateral triangle.\n3. The following signals shall be displayed at a quarantine station whenever any person is detained therein:\n(a)from sunrise to sunset, the Flag Q being a yellow flag; and\n(b)from sunset to sunrise, a red light over a white light."
+   }
+  },
+  {
+   "id": "SG-H2609-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE\nRegulations 6, 12 and 18\nInfectious Diseases Act\n(Chapter 137)\nInfectious Diseases (Quarantine) Regulations\nEntry Declaration\n[S 492/2007 wef 24/09/2007]"
+   }
+  },
+  {
+   "id": "SG-H2609-A900004",
+   "no": 900004,
+   "noLabel": {
+    "en": "FIFTH SCHEDULE"
+   },
+   "text": {
+    "en": "FIFTH SCHEDULE\nRegulation 6\nFORM A\n[Deleted by S 638/2025 wef 01/10/2025]\nFORM B\nRegulation 6(2)\nFORM C\nRegulation 13\nFORM E\nRegulation 28A\nFORM F\n[Deleted by S 257/2023 wef 02/05/2023]\nFORM G\nRegulation 41\nInfectious Diseases Act\n(Chapter 137)\nInfectious Diseases (Quarantine) Regulations\nOptional Bill of Health\nDate:................................ ........................................ Port Health Officer\nFORM J\n[Deleted by S 638/2025 wef 01/10/2025]"
+   }
+  },
+  {
+   "id": "SG-H2609-A900005",
+   "no": 900005,
+   "noLabel": {
+    "en": "SIXTH SCHEDULE"
+   },
+   "text": {
+    "en": "SIXTH SCHEDULE\nRegulations 28A(7) and 48\n1. For an inspection of vessel and the issue of a ship sanitation control certificate or ship sanitation control exemption certificate in the Form E set out in the Fifth Schedule:\n(a)for a vessel not exceeding 75 gross tonnes\n$215\n(b)for a vessel exceeding 75 gross tonnes\n$245\n2. [Deleted by S 638/2025 wef 01/10/2025]\n3. For a permit to import, export or tranship a coffin containing human remains\n...\n...\n...\n...\n...\n...\n$17.50\n4. For a permit in the Form C set out in the Fifth Schedule\n...\n...\n...\n...\n...\n...\n$ 10 per month\n5. [Deleted by S 638/2025 wef 01/10/2025]\n6. [Deleted by S 558/2010 wef 01/10/2010]\n7.—(1) For a duplicate of a certificate issued under paragraph 1\n...\n...\n...\n...\n...\n$ 10\n(2) For an extension not exceeding one month of ship sanitation control certificate or ship sanitation control exemption certificate\n...\n...\n...\n...\n...\n$ 10\n(3) [Deleted by S 798/2014 wef 01/01/2015]\n8. Hospital fees and charges payable in respect of any person isolated in a quarantine station in a hospital.\n[S 638/2025 wef 01/10/2025]\n[S 492/2007 wef 24/09/2010]\n[S 798/2014 wef 01/01/2015]\n[S 708/2017 wef 01/01/2018]\n[S 638/2025 wef 01/10/2025]"
+   }
+  }
+ ]
+}

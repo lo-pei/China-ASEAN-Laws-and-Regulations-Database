@@ -1,0 +1,596 @@
+{
+ "id": "SG-H1732",
+ "title": {
+  "zh": null,
+  "en": "Healthcare Services (Outpatient Renal Dialysis Service) Regulations 2023",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p22",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation HSA2020-S409-2023",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 35,
+ "chars": 30546,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/HSA2020-S409-2023?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 35 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1732-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Healthcare Services (Outpatient Renal Dialysis Service) Regulations 2023 and come into operation on 26 June 2023."
+   }
+  },
+  {
+   "id": "SG-H1732-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“collaborative prescribing practitioner” has the meaning given by regulation 2 of the Healthcare Services (Collaborative Prescribing Service) Regulations 2023 (G.N. No. S 398/2023);\n“duly qualified allied health professional” has the meaning given by section 3 of the Allied Health Professions Act 2011;\n“enrolled nurse” means a person who is an enrolled nurse within the meaning of the Nurses and Midwives Act 1999 and holds a valid practising certificate under that Act;\n“essential life‑saving measure” means any basic emergency procedure that may be carried out on a person for the purpose of resuscitating the person;\n“expiry date” has the meaning given by regulation 2 of the General Regulations;\n“General Regulations” means the Healthcare Services (General) Regulations 2021 (G.N. No. S 1035/2021);\n“haemodialysis” has the meaning given by paragraph 2 of the First Schedule to the Act;\n“healthcare professional” has the meaning given by regulation 2 of the General Regulations;\n“health product” has the meaning given by section 2(1) of the Health Products Act 2007;\n“licensee” means a person who holds a licence to provide an outpatient renal dialysis service;\n“medicinal product” has the meaning given by section 3 of the Medicines Act 1975;\n“nursing personnel” means a registered nurse, an enrolled nurse or any other person who assists a registered nurse or an enrolled nurse in providing nursing care to patients;\n“nursing service” means the provision of nursing care to a patient to assist the patient in attaining, maintaining or recovering his or her health;\n“outpatient renal dialysis service” has the meaning given by paragraph 2 of the First Schedule to the Act;\n“peritoneal dialysis” has the meaning given by paragraph 2 of the First Schedule to the Act;\n“peritoneal dialysis support” has the meaning given by paragraph 2 of the First Schedule to the Act;\n“personnel”, in relation to a licensee, means any individual employed or engaged by the licensee to assist the licensee in providing the outpatient renal dialysis service;\n“registered nurse” means a person who is a registered nurse within the meaning of the Nurses and Midwives Act 1999 and holds a valid practising certificate under that Act;\n“simple in vitro diagnostic test” has the meaning given by paragraph 2 of the First Schedule to the Act;\n“specified infectious disease” means any of the following infections:\n(a)Hepatitis B infection;\n(b)Hepatitis C infection;\n(c)human immunodeficiency virus infection;\n“specimen” has the meaning given by regulation 2 of the General Regulations;\n“supervising nurse”, in relation to an outpatient renal dialysis service, means the person appointed under regulation 9(1) as the supervising nurse for the outpatient renal dialysis service;\n“temporary premises” means any premises other than permanent premises;\n“testing material” means any test kit, material, device, equipment, instrument or other article that is used to conduct a simple in vitro diagnostic test."
+   }
+  },
+  {
+   "id": "SG-H1732-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Application of Regulations"
+   },
+   "text": {
+    "en": "3. Unless otherwise expressly provided in these Regulations, the provisions of these Regulations —\n(a)apply in addition to the provisions of the General Regulations; and\n(b)prevail if, and to the extent that, there is any inconsistency between these Regulations and the General Regulations insofar as the matter relates to a licensee."
+   }
+  },
+  {
+   "id": "SG-H1732-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 LICENSING MATTERS"
+   },
+   "heading": {
+    "en": "Specified services"
+   },
+   "text": {
+    "en": "4. For the purposes of section 9A(1) of the Act, the services set out in paragraph 1 of the Schedule are specified services for an outpatient renal dialysis service."
+   }
+  },
+  {
+   "id": "SG-H1732-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 LICENSING MATTERS"
+   },
+   "heading": {
+    "en": "Prohibited service delivery mode"
+   },
+   "text": {
+    "en": "5.—(1) A licensee must not provide an outpatient renal dialysis service using a conveyance.\n(2) A licensee must not provide high dependency haemodialysis at any premises other than permanent premises."
+   }
+  },
+  {
+   "id": "SG-H1732-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 LICENSING MATTERS"
+   },
+   "heading": {
+    "en": "Particulars required for licence application"
+   },
+   "text": {
+    "en": "6. For the purposes of section 10(2)(c)(viii) of the Act, an applicant for the grant or renewal of a licence to provide an outpatient renal dialysis service must, where the applicant provides or intends to provide haemodialysis, state the number of haemodialysis stations used or to be used in the provision of the service."
+   }
+  },
+  {
+   "id": "SG-H1732-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 LICENSING MATTERS"
+   },
+   "heading": {
+    "en": "Notification of addition or removal of haemodialysis stations"
+   },
+   "text": {
+    "en": "7. A licensee who intends to add or remove a haemodialysis station for the provision of the outpatient renal dialysis service must, no later than 2 months before the haemodialysis station is added or removed, notify the Director‑General of the intended addition or removal."
+   }
+  },
+  {
+   "id": "SG-H1732-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS RELATING TO PERSONNEL"
+   },
+   "heading": {
+    "en": "Qualifications, skills and competencies of Clinical Governance Officer"
+   },
+   "text": {
+    "en": "8. For the purposes of section 24(3)(b) of the Act, an individual is suitably qualified to be appointed as a Clinical Governance Officer for an outpatient renal dialysis service or a specified service for an outpatient renal dialysis service if the individual —\n(a)is registered under section 20(1) or (2) of the Medical Registration Act 1997 as a fully registered medical practitioner and holds a valid practising certificate;\n(b)is registered under section 22 of the Medical Registration Act 1997 as a specialist in the branch of renal medicine; and\n(c)has at least 2 years of continuous and full‑time work experience in treating patients —\n(i)in the provision of a renal dialysis service provided in a private hospital or medical clinic licensed under the repealed Act;\n[S 842/2023 wef 18/12/2023]\n(ii)in the provision of an outpatient renal dialysis service licensed under the Act; or\n(iii)in the provision of a renal dialysis service as part of an acute hospital service or community hospital service licensed under the Act."
+   }
+  },
+  {
+   "id": "SG-H1732-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS RELATING TO PERSONNEL"
+   },
+   "heading": {
+    "en": "Licensee must appoint supervising nurse"
+   },
+   "text": {
+    "en": "9.—(1) A licensee must appoint, as the supervising nurse for the outpatient renal dialysis service, a person who —\n(a)is a registered nurse;\n(b)where the licensee provides haemodialysis — fulfils either of the following requirements:\n(i)is certified in renal nursing and has at least 2 years of full‑time work experience in providing nursing services in relation to haemodialysis;\n(ii)has at least 3 years of full‑time work experience in providing nursing services in relation to haemodialysis;\n(c)where the licensee provides peritoneal dialysis support — fulfils either of the following requirements:\n(i)is certified in renal nursing and has at least 2 years of full‑time work experience in providing nursing services in relation to peritoneal dialysis support;\n(ii)has at least 3 years of full‑time work experience in providing nursing services in relation to peritoneal dialysis support; and\n(d)has demonstrated the ability to manage the provision of nursing services in support of an outpatient renal dialysis service, including making the arrangements for medical and nursing care to be promptly provided to patients where necessary.\n(2) For the purposes of paragraph (1), a person is certified in renal nursing if the person has completed a course in renal nursing or dialysis nursing that is conducted by an organisation accredited by the Singapore Nursing Board or National Nursing Academy."
+   }
+  },
+  {
+   "id": "SG-H1732-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 REQUIREMENTS RELATING TO PERSONNEL"
+   },
+   "heading": {
+    "en": "Standards for nursing personnel"
+   },
+   "text": {
+    "en": "10.—(1) A licensee must establish and implement nursing standards that set out the scope of services that may be provided by any nursing personnel employed or engaged by the licensee to support the provision of an outpatient renal dialysis service, and all the skills and competencies required for those services.\n(2) Without limiting paragraph (1), the nursing standards mentioned in that paragraph must —\n(a)include a training framework to ensure that each nursing personnel has the skills and competencies required for the service the nursing personnel provides; and\n(b)be approved by a Clinical Governance Officer or the supervising nurse.\n(3) A licensee must ensure that —\n(a)before any nursing personnel undertakes an activity in the provision of nursing services, the nursing personnel first receives training on the nursing standards applicable to the activity;\n(b)a nursing personnel who does not have the necessary skills or competencies to undertake an activity in the provision of nursing services does not undertake that activity;\n(c)the supervising nurse verifies and certifies each course of instruction or other type of training related to the required skills and competencies that is completed by each nursing personnel; and\n(d)the supervising nurse keeps a record of each course of instruction or other type of training mentioned in sub‑paragraph (c) in relation to each nursing personnel."
+   }
+  },
+  {
+   "id": "SG-H1732-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS RELATING TO PATIENT CARE"
+   },
+   "heading": {
+    "en": "Additional function and duty of quality assurance committee"
+   },
+   "text": {
+    "en": "11. In addition to the functions and duties under regulation 21(2) of the General Regulations, every quality assurance committee appointed by a licensee must review each occurrence of a patient contracting a specified infectious disease in the course of receiving an outpatient renal dialysis service from the licensee, to —\n(a)identify the cause of the occurrence; and\n(b)recommend to the licensee new policies or procedures, or changes to policies or procedures, to minimise any such future occurrence."
+   }
+  },
+  {
+   "id": "SG-H1732-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS RELATING TO PATIENT CARE"
+   },
+   "heading": {
+    "en": "General requirements relating to provision of patient care"
+   },
+   "text": {
+    "en": "12.—(1) A licensee must ensure that every patient is properly assessed and the appropriate care and treatment is provided to the patient in a proper, effective and safe manner.\n(2) A licensee must ensure that no personnel provides a service or does an act beyond his or her professional expertise and qualifications."
+   }
+  },
+  {
+   "id": "SG-H1732-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS RELATING TO PATIENT CARE"
+   },
+   "heading": {
+    "en": "Nursing services"
+   },
+   "text": {
+    "en": "13.—(1) A licensee must ensure that there is an adequate number of nursing personnel —\n(a)present at each approved permanent premises during the period when any outpatient renal dialysis service is provided at the approved permanent premises;\n(b)available at all times to be present in person at any temporary premises to provide nursing care to any patient receiving haemodialysis at the temporary premises; and\n(c)who have the appropriate qualifications, experience and competency to ensure that timely and appropriate nursing care is provided to the licensee’s patients.\n(2) Without limiting paragraph (1), the licensee must allocate the appropriate nursing personnel commensurate to the number and type of patients expected at each premises at which the licensee provides an outpatient renal dialysis service, to ensure the safe provision of the outpatient renal dialysis service."
+   }
+  },
+  {
+   "id": "SG-H1732-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS RELATING TO PATIENT CARE"
+   },
+   "heading": {
+    "en": "Patients must be monitored when undergoing haemodialysis"
+   },
+   "text": {
+    "en": "14.—(1) A licensee must ensure that every patient undergoing haemodialysis at any approved permanent premises is monitored by a nursing personnel or a medical practitioner so that the patient can receive the appropriate and timely medical care in the event the patient’s condition deteriorates.\n(2) Without limiting paragraph (1), a licensee must —\n(a)implement protocols for the recognition of any deterioration in a patient’s condition, provision of medical care and escalation for further medical care;\n(b)ensure that every medical practitioner, registered nurse and enrolled nurse employed or engaged by the licensee for the provision of the outpatient renal dialysis service is familiar with the signs and symptoms of patient deterioration and is able to identify these signs and symptoms;\n(c)ensure that any deterioration in a patient’s condition is brought to the attention of the appropriate personnel in a timely manner; and\n(d)ensure that all dialysis machines are equipped with the appropriate equipment or device —\n(i)to enable the licensee’s personnel to visually monitor the clinical and dialysis parameters of a patient undergoing haemodialysis; and\n(ii)that will give an audiovisual alarm if there is any machine fault detected, or if the patient’s clinical or dialysis parameters fall outside of the acceptable range during haemodialysis."
+   }
+  },
+  {
+   "id": "SG-H1732-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS RELATING TO PATIENT CARE"
+   },
+   "heading": {
+    "en": "Essential life‑saving measures must be available"
+   },
+   "text": {
+    "en": "15.—(1) A licensee must —\n(a)ensure that adequate and appropriate facilities, equipment and drugs for the provision of any essential life‑saving measure to a patient are readily available at every premises where the outpatient renal dialysis service is provided; and\n(b)at all times, be capable of providing any essential life‑saving measures to any patient who is at risk of death.\n(2) Without limiting paragraph (1), a licensee must ensure the following:\n(a)only resuscitation drugs that have not passed their expiry dates and are fit for use and resuscitation equipment that is fit for use are made available for use in the provision of any essential life‑saving measure;\n(b)the establishment and implementation of protocols for —\n(i)the rapid and accurate assessment of any patient who presents symptoms of being or feeling unwell;\n(ii)any medical emergency related to the conduct of haemodialysis; and\n(iii)any medical emergency related to the conduct of peritoneal dialysis by the patient or by the licensee where it is provided as part of peritoneal dialysis support;\n(c)every personnel who provides any essential life‑saving measure to a patient is adequately trained —\n(i)to provide the essential life‑saving measure in a proper, effective and safe manner; and\n(ii)in the use of the equipment that is needed to deliver the essential life‑saving measure;\n(d)the safe and timely conveyance of a patient to the care of an acute hospital licensee if the licensee’s personnel are unable to stabilise the patient’s condition.\n(3) A licensee must ensure that each protocol mentioned in paragraph (2)(b) is documented and that all personnel are trained and proficient in implementing the protocol."
+   }
+  },
+  {
+   "id": "SG-H1732-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS RELATING TO PATIENT CARE"
+   },
+   "heading": {
+    "en": "Drugs used for outpatient renal dialysis service"
+   },
+   "text": {
+    "en": "16. A licensee must ensure that —\n(a)there is an adequate supply of the appropriate drugs at any premises where the outpatient renal dialysis service is provided, to safely and effectively conduct haemodialysis or provide peritoneal dialysis support; and\n(b)a drug is not used for the outpatient renal dialysis service —\n(i)after its expiry date; or\n(ii)if there is any other reason for any personnel to suspect that the drug is no longer suitable to be used for the outpatient renal dialysis service."
+   }
+  },
+  {
+   "id": "SG-H1732-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS RELATING TO PATIENT CARE"
+   },
+   "heading": {
+    "en": "Requirements for provision at temporary premises"
+   },
+   "text": {
+    "en": "17.—(1) A licensee who is approved to provide an outpatient renal dialysis service using temporary premises must —\n(a)ensure that in determining whether the outpatient renal dialysis service may be provided to a patient at any temporary premises in a proper, effective and safe manner, the licensee must take into account —\n(i)the patient’s medical condition or history; and\n(ii)the facilities, equipment, medical supplies and other resources that are available at the temporary premises;\n(b)establish, implement and regularly review guidelines to assist the licensee in making the determination mentioned in sub‑paragraph (a);\n(c)where the licensee provides haemodialysis at temporary premises — ensure that the personnel deployed to provide haemodialysis is a registered nurse or medical practitioner, who has the necessary experience, competency and skills to provide haemodialysis safely without supervision; and\n(d)where the licensee provides peritoneal dialysis support at temporary premises — ensure that the personnel deployed to provide peritoneal dialysis support is an enrolled nurse, a registered nurse or a medical practitioner, who has the necessary experience, competency and skills to provide peritoneal dialysis support safely without supervision.\n(2) A licensee must ensure that every personnel who attends to a patient at any temporary premises carries proof of the personnel’s identity and his or her role or designation for which the personnel is engaged or employed by the licensee, and shows the proof to the patient."
+   }
+  },
+  {
+   "id": "SG-H1732-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS RELATING TO PATIENT CARE"
+   },
+   "heading": {
+    "en": "Requirements for remote provision"
+   },
+   "text": {
+    "en": "18.—(1) This regulation applies to a licensee who is approved to provide an outpatient renal dialysis service by remote provision.\n(2) Before a licensee provides any outpatient renal dialysis service to a patient by remote provision, the licensee must ensure that —\n(a)the licensee’s personnel who is a healthcare professional first conducts a clinical assessment of the patient in person at any of the licensee’s approved permanent premises or temporary premises; or\n(b)where it is not practicable for the patient to be clinically assessed in person before the outpatient renal dialysis service is provided remotely — the patient is given an appointment to be clinically assessed in person at any of the licensee’s approved permanent premises or temporary premises by a healthcare professional who is the licensee’s personnel."
+   }
+  },
+  {
+   "id": "SG-H1732-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS RELATING TO PATIENT CARE"
+   },
+   "heading": {
+    "en": "Conduct of ultrasound imaging"
+   },
+   "text": {
+    "en": "19.—(1) A licensee must not conduct any ultrasound imaging on a patient unless a medical practitioner or collaborative prescribing practitioner who is the licensee’s personnel orders the ultrasound imaging for the patient.\n(2) A licensee must ensure that any ultrasound imaging conducted on a patient is conducted —\n(a)only as a service incidental to the provision of an outpatient renal dialysis service;\n(b)at the licensee’s approved permanent premises or temporary premises, as the case may be; and\n(c)by the licensee’s personnel who is —\n(i)a medical practitioner who is trained in the conduct of ultrasound imaging;\n(ii)a radiographer who is a duly qualified allied health professional;\n(iii)a sonographer; or\n(iv)where ultrasound imaging is conducted only for the purpose of arteriovenous cannulation — a registered nurse or an enrolled nurse who is trained in conducting ultrasound imaging for the purpose of arteriovenous cannulation."
+   }
+  },
+  {
+   "id": "SG-H1732-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS RELATING TO PATIENT CARE"
+   },
+   "heading": {
+    "en": "Testing of specimen"
+   },
+   "text": {
+    "en": "20.—(1) Subject to paragraph (2), a licensee must not test any specimen for a patient unless —\n(a)a medical practitioner or collaborative prescribing practitioner who is the licensee’s personnel orders the test for the patient;\n(b)the testing of the specimen only involves the conduct of a simple in vitro diagnostic test; and\n(c)the testing of the specimen is provided only as a service incidental to the provision of an outpatient renal dialysis service.\n(2) A licensee who is approved to provide an outpatient renal dialysis service by remote provision must not, in the course of providing the service by that service delivery mode, direct a patient to conduct a self‑administered test on himself or herself if the testing material for the self‑administered test is a “professional use only” medical device within the meaning given by regulation 2 of the Health Products (Medical Devices) Regulations 2010 (G.N. No. S 436/2010)."
+   }
+  },
+  {
+   "id": "SG-H1732-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS RELATING TO PATIENT CARE"
+   },
+   "heading": {
+    "en": "Conduct of simple in vitro diagnostic test"
+   },
+   "text": {
+    "en": "21.—(1) A licensee must ensure that any simple in vitro diagnostic test on a specimen or patient must be conducted —\n(a)using testing material in respect of which —\n(i)the expiry date has not passed; and\n(ii)the personnel who is administering the test does not suspect or have any reason to suspect that the testing material is no longer fit for use; and\n(b)in accordance with the instructions specified by the manufacturer of the testing material.\n(2) A licensee must ensure that any testing material that may be used to conduct any simple in vitro diagnostic testing is stored under the conditions, and handled in the manner, specified by the manufacturer of the testing material so as to lower the risk of contamination, unnecessary exposure of the testing material to the environment and early deterioration of the testing material."
+   }
+  },
+  {
+   "id": "SG-H1732-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 REQUIREMENTS RELATING TO PATIENT CARE"
+   },
+   "heading": {
+    "en": "Instructions for self‑collection of specimens"
+   },
+   "text": {
+    "en": "22. Where any specimen is to be collected from a patient by the patient himself or herself, for the purpose of conducting any test on it (whether or not the test is to be self‑administered by the patient), a licensee must provide the patient with —\n(a)instructions on how and when the specimen is to be collected; and\n(b)the precautions that are to be taken to avoid contamination and degradation of the specimen."
+   }
+  },
+  {
+   "id": "SG-H1732-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 5 PREMISES AND EQUIPMENT"
+   },
+   "heading": {
+    "en": "Standards for equipment"
+   },
+   "text": {
+    "en": "23.—(1) A licensee must ensure that every piece of equipment used by or on a patient in the licensee’s provision of the outpatient renal dialysis service is safe and effective for clinical use.\n(2) Without limiting paragraph (1), a licensee must ensure that —\n(a)every part of any equipment (other than any part designed for single use only) is appropriately disinfected or sterilised in accordance with the specifications by the manufacturer of the equipment before and after it is used for dialysis;\n(b)each equipment is installed, and used or operated properly, in accordance with the instructions of the manufacturer of the equipment; and\n(c)in relation to a licensee who provides haemodialysis —\n(i)where reusable dialysers are used — the dialysers are cleaned and prepared for reuse in the manner required or recommended in the manufacturer’s operator manual for the dialyser;\n(ii)any dialyser must only be used for one patient;\n(iii)each dialysis machine is drained, rinsed and disinfected after each dialysis, at the end of each day and at any other interval required or recommended in the manufacturer’s operator manual for the dialysis machine; and\n(iv)where there is a blood leak, the affected dialysis machine is rinsed and disinfected in the manner required or recommended in the manufacturer’s operator manual for the dialysis machine."
+   }
+  },
+  {
+   "id": "SG-H1732-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 5 PREMISES AND EQUIPMENT"
+   },
+   "heading": {
+    "en": "Standards for premises and facilities"
+   },
+   "text": {
+    "en": "24.—(1) A licensee must ensure that every approved permanent premises is set up in a manner to enable the safe provision of the outpatient renal dialysis service.\n(2) Without limiting paragraph (1), a licensee must ensure that the following are provided in every approved permanent premises:\n(a)a designated preparation area for the licensee’s personnel to perform the necessary preparation for conducting renal dialysis, which is safe and appropriate for its intended purpose;\n(b)where reusable dialysers are used for haemodialysis — adequate space and equipment to enable the proper cleaning, sterilisation and preparation of dialysers for reuse;\n(c)adequate space and equipment to enable the storage of medicinal products, health products and medical supplies in accordance with the manufacturer’s recommendations so that the integrity of the medicinal products, health products and medical supplies is maintained;\n(d)a clean area for the preparation and handling of medication to minimise contamination from environmental or other pathogens;\n(e)a dedicated room or area for the disposal of waste.\n(3) A licensee must ensure that —\n(a)hand washing facilities are available in every approved permanent premises for the use of patients and visitors accompanying patients; and\n(b)toilet facilities are available in every approved permanent premises, or assistance with toileting needs is provided to patients where needed."
+   }
+  },
+  {
+   "id": "SG-H1732-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 5 PREMISES AND EQUIPMENT"
+   },
+   "heading": {
+    "en": "Premises must be cleaned"
+   },
+   "text": {
+    "en": "25. A licensee must ensure that —\n(a)every approved permanent premises is cleaned and disinfected in an appropriate manner and frequency in order to minimise the spread of pathogenic organisms; and\n(b)there are protocols and procedures on the preparation of cleaning solutions, management of cleaning equipment and prompt site decontamination of spills of blood or blood‑containing body fluids at every approved permanent premises."
+   }
+  },
+  {
+   "id": "SG-H1732-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 5 PREMISES AND EQUIPMENT"
+   },
+   "heading": {
+    "en": "Quality of water and dialysis fluid"
+   },
+   "text": {
+    "en": "26.—(1) A licensee who provides haemodialysis must ensure that any water or dialysis fluid used for haemodialysis meets the applicable chemical and microbiological standards, and is safe and appropriate for use.\n(2) Without limiting paragraph (1), a licensee must ensure that —\n(a)the water used for haemodialysis is treated by reverse osmosis;\n(b)there are protocols and procedures on the collection and testing of the water and dialysis fluid;\n(c)the water and dialysis fluid are regularly tested for chemical and microbiological contaminants;\n(d)appropriate methods are used for the collection and testing of the water and dialysis fluid;\n(e)the water treatment equipment and haemodialysis water distribution systems are appropriately designed, built and maintained to prevent treated water from being contaminated or exposed to the risk of being contaminated;\n(f)water treatment systems are isolated from the potable water supply;\n(g)the water treatment equipment and haemodialysis water distribution system include pressure gauges, flow meters, sample ports, and other ancillary equipment necessary to allow monitoring of the performance and the system as a whole;\n(h)there are protocols and procedures for the regular disinfection of all water treatment equipment and haemodialysis water distribution systems; and\n(i)records of each disinfection are kept."
+   }
+  },
+  {
+   "id": "SG-H1732-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 5 PREMISES AND EQUIPMENT"
+   },
+   "heading": {
+    "en": "Prevention of transmission of blood borne viruses and pathogenic bacteria"
+   },
+   "text": {
+    "en": "27.—(1) A licensee who provides haemodialysis must ensure that there is no transmission of blood borne viruses and pathogenic bacteria between haemodialysis patients, and between any haemodialysis patient and any of the licensee’s personnel.\n(2) Without limiting paragraph (1), a licensee must ensure that —\n(a)before a patient starts receiving haemodialysis, the patient must be tested to determine the level of each of the patient’s liver markers and for each specified infectious disease;\n(b)every patient is regularly tested to determine the level of each of the patient’s liver markers;\n(c)every patient is regularly tested for each specified infectious disease, other than a specified infectious disease in respect of which the patient has already tested positive;\n(d)any patient who at any time has a liver marker which level is above the normal range or tests positive for any specified infectious disease is referred to an appropriate medical practitioner;\n(e)every specified patient receives haemodialysis in a different room or a physically segregated area from a patient who is not a specified patient;\n(f)for any period during which a licensee provides haemodialysis to a specified patient, any machine or equipment that has been used for a specified patient is not used for a patient who is not a specified patient;\n(g)where a dialyser has been used by a patient who has a specified infectious disease — the dialyser is not reused; and\n(h)where a dialysis machine has been used by a patient who has a specified infectious disease — the dialysis machine undergoes complete chemical disinfection after each such use, and that the chemical disinfection is performed in accordance with the manufacturer’s recommendations.\n(3) In this regulation, “specified patient” means a patient with a Hepatitis B infection and is HbsAg positive or HBV DNA positive."
+   }
+  },
+  {
+   "id": "SG-H1732-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "No disruption to utilities"
+   },
+   "text": {
+    "en": "28.—(1) A licensee must implement measures and processes to ensure that in the event of any disruption to the regular supply of utilities to any premises at which the licensee provides an outpatient renal dialysis service to a patient, there is no adverse impact to the safety of the patient.\n(2) Without limiting paragraph (1), a licensee must ensure that all renal dialysis and life‑saving equipment are connected to emergency power at all times."
+   }
+  },
+  {
+   "id": "SG-H1732-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Emergency evacuation plan"
+   },
+   "text": {
+    "en": "29.—(1) A licensee must develop, for each approved permanent premises, an emergency evacuation plan that may be activated at any time.\n(2) A licensee must document the emergency evacuation plan and ensure that all personnel are trained and proficient in implementing the plan."
+   }
+  },
+  {
+   "id": "SG-H1732-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Keeping of other records"
+   },
+   "text": {
+    "en": "30. A licensee must maintain proper, complete and accurate records in respect of all of the following:\n(a)the qualifications and competencies (including training and competency assessments) of each personnel, that are relevant to the provision of the outpatient renal dialysis service;\n(b)every programme, policy, system, measure, protocol or process that the licensee is required to implement under these Regulations, and every activity undertaken under that programme, policy, system, measure, protocol or process;\n(c)the installation, maintenance, servicing and repair of all equipment used in the provision of the outpatient renal dialysis service."
+   }
+  },
+  {
+   "id": "SG-H1732-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Price transparency"
+   },
+   "text": {
+    "en": "31. A licensee must, upon request by a patient or any person who intends to receive an outpatient renal dialysis service from the licensee, inform the patient or person (as the case may be) of the applicable charges (including any administrative fee) for the outpatient renal dialysis service."
+   }
+  },
+  {
+   "id": "SG-H1732-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Disclosure of approved institution status"
+   },
+   "text": {
+    "en": "32.—(1) A licensee who is an approved institution must —\n(a)display or otherwise make available, at every approved permanent premises or temporary premises, the fact that the licensee is an approved institution; and\n(b)where the licensee provides the outpatient renal dialysis service by remote provision — ensure that the licensee’s personnel informs the patient of the fact that the licensee is an approved institution.\n(2) A licensee who is not an approved institution must not —\n(a)represent to any person or give any person the impression that the licensee is an approved institution; or\n(b)otherwise mislead any person as to whether the licensee is an approved institution.\n(3) In this regulation, “approved institution” means any of the following:\n(a)an approved medical institution within the meaning of regulation 2(1) of the Central Provident Fund (Medisave Account Withdrawals) Regulations (Rg 17);\n(b)an approved medical institution approved by the Minister under the MediShield Life Scheme Act 2015;\n(c)an accredited clinic under the scheme established by the Government known as the Community Health Assist Scheme or any other similar public scheme providing financial assistance established by the Government."
+   }
+  },
+  {
+   "id": "SG-H1732-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Display of charges, etc."
+   },
+   "text": {
+    "en": "33.—(1) A licensee must —\n(a)ensure that the fees charged by the licensee for an outpatient renal dialysis service are displayed or otherwise made available at every approved permanent premises or temporary premises, as the case may be; and\n(b)where the licensee provides the outpatient renal dialysis service by remote provision — ensure that the licensee’s personnel informs the patient of the fees.\n(2) The charges mentioned in paragraph (1) for an outpatient renal dialysis service must include —\n(a)consultation fees unless charged as part of dialysis fees;\n(b)dialysis fees (including medication and consumables where applicable);\n(c)vaccination services, where applicable; and\n(d)tests, procedures or other investigations, unless charged as part of dialysis fees."
+   }
+  },
+  {
+   "id": "SG-H1732-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Offences"
+   },
+   "text": {
+    "en": "34.—(1) A person who contravenes regulation 12(1) or (2), 14, 15, 23, 26, 27 or 28 shall be guilty of an offence.\n(2) A person who is guilty of an offence under paragraph (1) shall be liable on conviction —\n(a)to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both; and\n(b)in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H1732-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRegulation 4\nSpecified Services\n1. The following are specified services for an outpatient renal dialysis service:\n(a)collaborative prescribing service;\n(b)high‑dependency haemodialysis.\n2. In this Schedule —\n“collaborative prescribing service” has the meaning given by regulation 2 of the Healthcare Services (Collaborative Prescribing Service) Regulations 2023 (G.N. No. S 398/2023);\n“high‑dependency haemodialysis” means the provision of haemodialysis to an individual who —\n(a)has persistent intra‑dialytic hypotension;\n(b)has active bleeding, or has coagulopathy that would require heparin‑free dialysis, for a continuous period of more than 2 months immediately preceding the provision of haemodialysis, except where the coagulopathy is a result of the individual being on anticoagulation treatment;\n(c)has unstable angina; or\n(d)had experienced at least one myocardial infarction episode within 5 days before the provision of haemodialysis."
+   }
+  }
+ ]
+}

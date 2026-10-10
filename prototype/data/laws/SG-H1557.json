@@ -1,0 +1,78 @@
+{
+ "id": "SG-H1557",
+ "title": {
+  "zh": null,
+  "en": "Financial Holding Companies (Designated Financial Holding Companies) Order 2022",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p20",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation FHCA2013-S519-2022",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 535,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/FHCA2013-S519-2022?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1557-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. This Order is the Financial Holding Companies (Designated Financial Holding Companies) Order 2022 and comes into operation on 1 July 2022."
+   }
+  },
+  {
+   "id": "SG-H1557-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Designation of financial holding companies"
+   },
+   "text": {
+    "en": "2. Each financial holding company set out in the Schedule is designated as a designated financial holding company for the purposes of the Act."
+   }
+  },
+  {
+   "id": "SG-H1557-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nParagraph 2\nDesignated financial holding companies\n1. DBS Group Holdings Ltd (UEN 199901152M)\n2. Great Eastern Holdings Limited (UEN 199903008M)\n3. [Deleted by S 246/2024 wef 01/04/2024]\n4. Citystate Capital Asia Pte. Ltd. (UEN 200917889Z)"
+   }
+  }
+ ]
+}

@@ -1,0 +1,1402 @@
+{
+ "id": "TL-H217",
+ "title": {
+  "zh": "法律司法组织",
+  "en": null,
+  "orig": "Lei da Organização Judiciária"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p04",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "amended",
+ "promulgatedDate": "2021-12-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "据公报标题，本法经 Lei n.º 12/2022 修改；本库收录的是本法原始公布文本，修改后的合并本未另行收录。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 25/2021",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 85,
+ "chars": 49840,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2021/serie_1/SERIE_I_NO_48_A.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 85 条；逐字取自官方公报 PDF（public/docs/2021/serie_1/SERIE_I_NO_48_A.pdf）第 1–16 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 【据公报标题，本法经 《第12/2022号法律》 修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H217-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Objeto"
+   },
+   "text": {
+    "pt": "1.   A presente lei estabelece as normas de enquadramento e de organização do sistema judiciário.\n2.    O sistema judiciário adota uma organização flexível em que, nos termos da presente lei, a composição, organização e estruturação dos tribunais é ajustada em função das circunstâncias, da procura e da disponibilidade.\nSérie I, N.° 48 A"
+   }
+  },
+  {
+   "id": "TL-H217-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Tribunais"
+   },
+   "text": {
+    "pt": "1.  Os tribunais são órgãos de soberania com competência para administrar a justiça em nome do povo.\n2.   Na administração da justiça, incumbe aos tribunais assegurar a defesa dos direitos e interesses legalmente protegidos, reprimir a violação da legalidade democrática e dirimir os conflitos de interesses públicos e privados.\n3.    É assegurado a qualquer indivíduo o direito inviolável de audiência e defesa em qualquer processo, nomeadamente na fase de apreciação preliminar de acusação, a efetivar através de defensor público, advogado ou, nos casos previstos na lei, pelo Ministério Público, assistindo-lhe ainda o direito de recurso, nos termos da lei.\n4.    O disposto no número anterior não prejudica o recurso aos meios alternativos de resolução de litígios."
+   }
+  },
+  {
+   "id": "TL-H217-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Independência dos tribunais"
+   },
+   "text": {
+    "pt": "1.   Os tribunais são independentes e apenas estão sujeitos à Constituição e à lei.\n2.    Os tribunais gozam de autonomia administrativa, financeira e patrimonial."
+   }
+  },
+  {
+   "id": "TL-H217-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Juízes"
+   },
+   "text": {
+    "pt": "1.   A função jurisdicional é exclusiva dos juízes, investidos nos termos da lei.\n2.  Os juízes regem-se pelo disposto na Constituição e no respetivo estatuto.\n3.    No exercício das suas funções, os juízes são independentes e apenas devem obediência à Constituição, à lei e à sua consciência.\n4.   A lei determina os requisitos e as regras de recrutamento dos juízes.\n5.  Os juízes são inamovíveis, não podendo ser suspensos, transferidos, aposentados ou demitidos, senão nos termos da lei.\n6.   Para garantia da sua independência, os juízes não podem ser responsabilizados pelos seus julgamentos e decisões, salvo nos casos previstos na lei.\n7.  A independência dos juízes é ainda assegurada pela existência de um órgão privativo de gestão e disciplina da magistratura judicial e pela não sujeição a quaisquer ordens ou instruções, salvo o dever de acatamento das decisões proferidas em sede de recurso por tribunais superiores."
+   }
+  },
+  {
+   "id": "TL-H217-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Garantias e incompatibilidades"
+   },
+   "text": {
+    "pt": "1.   A nomeação, a colocação, a transferência e a promoção dos juízes e o exercício da ação disciplinar competem ao Conselho Superior da Magistratura Judicial, nos termos da lei.\n2.   Os juízes em exercício não podem desempenhar qualquer outra função pública ou privada, salvo as funções docentes ou de investigação científica de natureza jurídica, não remuneradas, nos termos da lei.\n3.  Os juízes em exercício não podem ser nomeados para comissões de serviço sem a autorização do Conselho Superior da Magistratura Judicial."
+   }
+  },
+  {
+   "id": "TL-H217-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Ministério Público"
+   },
+   "text": {
+    "pt": "1.    O Ministério Público constitui, nos termos da Constituição, uma magistratura hierarquicamente organizada, subordinada ao Procurador-Geral da República, que tem como atribuições a representação do Estado, o exercício da ação penal, a defesa dos menores, ausentes e incapazes, a defesa da legalidade democrática e a promoção do cumprimento da lei.\n2.  O Ministério Público goza de estatuto próprio, do qual resultam as garantias e incompatibilidades dos respetivos magistrados e a sua sujeição a critérios de legalidade, objetividade, isenção e obediência às diretivas e ordens ali previstas."
+   }
+  },
+  {
+   "id": "TL-H217-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Advogados"
+   },
+   "text": {
+    "pt": "1.  Os advogados participam na administração da justiça, competindo-lhes, de forma exclusiva e com as exceções previstas na lei, exercer o patrocínio das partes, não podendo para esse efeito ser impedidos perante qualquer jurisdição, autoridade ou entidade pública ou privada.\n2.  No exercício da sua atividade, os advogados gozam de discricionariedade técnica e encontram-se apenas vinculados a critérios de legalidade e às regras deontológicas próprias da profissão.\n3.    Para garantir o exercício livre e independente do patrocínio das partes, a lei assegura aos advogados o direito à proteção do segredo profissional e o direito à especial proteção das comunicações com aquele que representam, bem como a inviolabilidade dos documentos respeitantes ao exercício da profissão."
+   }
+  },
+  {
+   "id": "TL-H217-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Defensores públicos"
+   },
+   "text": {
+    "pt": "1.   Os defensores públicos são responsáveis pela prestação de assistência jurídica gratuita aos cidadãos que dela necessitam em razão da sua situação de carência económica ou social, nos termos do Estatuto da Defensória Pública.\n2.   Os defensores públicos asseguram ainda a representação em processo penal dos arguidos que não tenham constituído advogado e intervêm nos demais casos em que a lei determina a nomeação oficiosa de defensor público.\nSérie I, N.° 48 A"
+   }
+  },
+  {
+   "id": "TL-H217-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Oficiais de justiça"
+   },
+   "text": {
+    "pt": "Os oficiais de justiça asseguram a regular tramitação dos processos judiciais e exercem as demais funções definidas na lei."
+   }
+  },
+  {
+   "id": "TL-H217-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Serviços de apoio aos tribunais"
+   },
+   "text": {
+    "pt": "Os serviços de apoio administrativo e técnico asseguram as necessidades dos tribunais nessas áreas."
+   }
+  },
+  {
+   "id": "TL-H217-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Tutela jurisdicional"
+   },
+   "text": {
+    "pt": "1.   A todos é assegurado o acesso aos tribunais para a defesa dos seus direitos e interesses legalmente protegidos, não podendo a justiça ser denegada por insuficiência de meios económicos.\n2.  Todos têm direito à informação e consulta jurídicas, ao patrocínio judiciário e a fazer-se acompanhar por advogado ou por defensor público, perante qualquer autoridade, nos termos da lei.\n3.    A lei regula o acesso aos tribunais em caso de insuficiência de meios económicos."
+   }
+  },
+  {
+   "id": "TL-H217-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Decisões dos tribunais"
+   },
+   "text": {
+    "pt": "1.    As decisões dos tribunais que não sejam de mero expediente são fundamentadas na forma prevista na lei.\n2.    As decisões dos tribunais são de cumprimento obrigatório para todas as entidades públicas e privadas e prevalecem sobre as decisões de quaisquer outras autoridades.\n3.   A lei regula os termos da execução das decisões dos tribunais relativamente a qualquer autoridade e determina as sanções a aplicar aos responsáveis pela sua inexecução."
+   }
+  },
+  {
+   "id": "TL-H217-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Publicidade das audiências"
+   },
+   "text": {
+    "pt": "As audiências dos tribunais são públicas, salvo quando a lei ou o próprio tribunal decidir o contrário, em despacho fundamentado, para salvaguarda da dignidade das pessoas e da moral pública ou para garantir o seu normal funcionamento."
+   }
+  },
+  {
+   "id": "TL-H217-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Ano judicial"
+   },
+   "text": {
+    "pt": "1.  O ano judicial corresponde ao ano civil.\n2.   A abertura do ano judicial é assinalada pela realização, no Supremo Tribunal de Justiça, de uma sessão solene, presidida pelo Presidente da República."
+   }
+  },
+  {
+   "id": "TL-H217-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Férias judiciais"
+   },
+   "text": {
+    "pt": "As férias judiciais decorrem de 1 de agosto a 15 de setembro."
+   }
+  },
+  {
+   "id": "TL-H217-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Turnos"
+   },
+   "text": {
+    "pt": "Nos tribunais organizam-se turnos para assegurar o serviço urgente durante as férias judiciais."
+   }
+  },
+  {
+   "id": "TL-H217-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Coadjuvação"
+   },
+   "text": {
+    "pt": "1.   No exercício das suas funções, os tribunais têm direito à coadjuvação das autoridades.\n2.   O disposto no número anterior abrange, sempre que necessário, a guarda das instalações e a manutenção da ordem pelas forças de segurança."
+   }
+  },
+  {
+   "id": "TL-H217-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Organização judiciária"
+   },
+   "text": {
+    "pt": "1.   A organização judiciária de Timor-Leste compreende os tribunais judiciais, os tribunais administrativos, fiscais e de contas, e os tribunais militares.\n2.   A competência, a organização, a composição e o funcionamento dos tribunais militares são estabelecidos em lei própria.\n3.  Podem ser criados tribunais arbitrais, bem como ser estabelecidos instrumentos e formas de composição não jurisdicional de conflitos."
+   }
+  },
+  {
+   "id": "TL-H217-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Extensão e limites da competência"
+   },
+   "text": {
+    "pt": "1.   Na ordem jurídica interna, a competência reparte-se pelos tribunais segundo a matéria, a hierarquia e o território.\n2.    A lei de processo fixa os fatores de que depende a competência internacional dos tribunais.\n3.   A lei de processo indica os fatores que determinam, em cada caso, o tribunal ou juízo competente."
+   }
+  },
+  {
+   "id": "TL-H217-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Fixação da competência de um tribunal"
+   },
+   "text": {
+    "pt": "1.    A competência de um tribunal é fixada no momento em que a ação é proposta, sendo irrelevantes as modificações de facto que ocorram posteriormente, a não ser nos casos especialmente previstos na lei.\n2.  São igualmente irrelevantes as modificações de direito, exceto se for suprimido o órgão a que a causa estava afeta ou lhe for atribuída competência de que inicialmente carecia para o conhecimento da causa."
+   }
+  },
+  {
+   "id": "TL-H217-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Proibição de desaforamento"
+   },
+   "text": {
+    "pt": "Nenhuma causa pode ser deslocada do tribunal competente para outro, exceto nos casos especialmente previstos na lei.\nSérie I, N.° 48 A"
+   }
+  },
+  {
+   "id": "TL-H217-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Tribunais judiciais"
+   },
+   "text": {
+    "pt": "São tribunais judiciais:\na)  O Supremo Tribunal de Justiça;\nb)   O Tribunal de Recurso;\nc)   Treze tribunais judiciais de primeira instância, designados pelo nome do município ou Região Administrativa Especial onde se encontrem sediados."
+   }
+  },
+  {
+   "id": "TL-H217-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Competência em razão da matéria"
+   },
+   "text": {
+    "pt": "1.   Os tribunais judiciais detêm a competência para as causas que não sejam atribuídas a outra categoria de tribunal.\n2.   O presente diploma determina a competência em razão da matéria entre os juízos dos tribunais judiciais de primeira instância, estabelecendo as causas que são atribuídas aos juízos de competência especializada."
+   }
+  },
+  {
+   "id": "TL-H217-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Competência em razão da hierarquia"
+   },
+   "text": {
+    "pt": "1.   Os tribunais judiciais encontram-se hierarquizados para efeito de recurso das suas decisões.\n2.    Em regra, nas causas de natureza cível, o Supremo Tribunal de Justiça conhece, em recurso, das causas cujo valor exceda a alçada do Tribunal de Recurso e este das causas cujo valor exceda a alçada dos tribunais judiciais de primeira instância.\n3.   Em matéria criminal, a competência é definida na respetiva lei de processo."
+   }
+  },
+  {
+   "id": "TL-H217-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Alçadas"
+   },
+   "text": {
+    "pt": "1.   Em matéria cível, a alçada do Tribunal de Recurso é de US 5 000 (cinco mil dólares norte-americanos) e a dos tribunais de primeira instância é de USD 1 000 (mil dólares norteamericanos).\n2.   Em matéria criminal não há alçada, sem prejuízo das disposições processuais relativas à admissibilidade de recurso.\n3.   A admissibilidade dos recursos por efeito das alçadas é regulada pela lei em vigor na data em que foi instaurada a ação."
+   }
+  },
+  {
+   "id": "TL-H217-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Competência territorial dos tribunais judiciais de primeira instância"
+   },
+   "text": {
+    "pt": "Os tribunais judiciais de primeira instância possuem competência territorial correspondente à área do município ou da Região Administrativa Especial de Oe-Cusse Ambeno onde se encontram sediados, com exceção de Díli que integra o território dos municípios de Díli e Ataúro."
+   }
+  },
+  {
+   "id": "TL-H217-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Definição e jurisdição"
+   },
+   "text": {
+    "pt": "O Supremo Tribunal de Justiça é o mais alto órgão da hierarquia dos tribunais judiciais e o garante da aplicação uniforme da lei, com jurisdição em todo o território nacional."
+   }
+  },
+  {
+   "id": "TL-H217-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Poderes de cognição"
+   },
+   "text": {
+    "pt": "1.  Fora dos casos previstos na lei, o Supremo Tribunal de Justiça apenas conhece de matéria de direito.\n2.   O Supremo Tribunal de Justiça também administra a justiça em matérias de natureza jurídico-constitucional e eleitoral."
+   }
+  },
+  {
+   "id": "TL-H217-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Sede"
+   },
+   "text": {
+    "pt": "O Supremo Tribunal de Justiça tem sede em Díli."
+   }
+  },
+  {
+   "id": "TL-H217-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Composição e designação dos juízes"
+   },
+   "text": {
+    "pt": "1.  O Supremo Tribunal de Justiça é composto por sete juízes, dos quais, pelo menos quatro são juízes de carreira, podendo ser designados para os restantes lugares magistrados do Ministério Público e juristas de reconhecido mérito.\n2.   Um dos juízes é eleito pelo Parlamento Nacional e os demais designados pelo Conselho Superior da Magistratura, nos termos do disposto no n.º 2 do artigo 125.º da Constituição da República.\n3.  O Supremo Tribunal de Justiça tem um Presidente e um Vice-Presidente.\n4.   O juiz do Supremo Tribunal de Justiça tem a designação de Juiz Conselheiro."
+   }
+  },
+  {
+   "id": "TL-H217-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Requisitos de elegibilidade"
+   },
+   "text": {
+    "pt": "Podem ser eleitos ou designados juízes do Supremo Tribunal Série I, N.° 48 A de Justiça os cidadãos timorenses no pleno gozo dos seus direitos civis e políticos que sejam juízes de carreira, magistrados do Ministério Público ou juristas de reconhecido mérito."
+   }
+  },
+  {
+   "id": "TL-H217-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Substituição"
+   },
+   "text": {
+    "pt": "1.   Os juízes conselheiros, do Supremo Tribunal de Justiça são sucessivamente substituídos pelos seus pares e, não sendo isso possível, pelos juízes mais antigos na categoria mais elevada em exercício de funções no Tribunal de Recurso que não tenham intervindo no processo.\n2.   Em caso de igual antiguidade, o juiz substituto deve ser o mais idoso."
+   }
+  },
+  {
+   "id": "TL-H217-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Organização"
+   },
+   "text": {
+    "pt": "1.   O Supremo Tribunal de Justiça organiza-se em plenário e por secções.\n2.  O Supremo Tribunal de Justiça possui uma secção para matéria cível e uma secção para matéria penal.\n3.   O plenário do Supremo Tribunal de Justiça é constituído por todos os juízes conselheiros.\n4.   Os juízes conselheiros, tomam assento alternadamente à direita e à esquerda do Presidente, começando pelo Vice- Presidente e seguindo os demais a ordem de antiguidade."
+   }
+  },
+  {
+   "id": "TL-H217-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Quórum e funcionamento"
+   },
+   "text": {
+    "pt": "1.  O Supremo Tribunal de Justiça, em plenário, só pode funcionar estando presentes, pelo menos, cinco juízes conselheiros, incluindo o Presidente ou o Vice-Presidente.\n2.  O Supremo Tribunal de Justiça, em secções, só pode funcionar estando presente a maioria dos respetivos juízes conselheiros, incluindo o Presidente ou o Vice-Presidente.\n3.   O Supremo Tribunal de Justiça funciona:\na) Em secções, como tribunal de primeira instância, nos casos previstos na lei.\nb) Em plenário, como tribunal de segunda e única instância, nos casos expressamente previstos na lei."
+   }
+  },
+  {
+   "id": "TL-H217-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Deliberações"
+   },
+   "text": {
+    "pt": "1.   As deliberações são tomadas à pluralidade de votos dos juízes conselheiros presentes.\n2.   Cada juiz conselheiro dispõe de um voto e o Presidente, ou o Vice-Presidente, quando o substitua, dispõe de voto de qualidade.\n3.   Os juízes conselheiros, têm o direito de fazer lavrar voto de vencido.\nSecção II\nPresidente e Vice-Presidente"
+   }
+  },
+  {
+   "id": "TL-H217-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Nomeação e mandato do presidente"
+   },
+   "text": {
+    "pt": "1.   O Presidente do Supremo Tribunal de Justiça é nomeado pelo Presidente da República, para um mandato de quatro anos, de entre os juízes providos no Tribunal, a ratificar pelo Parlamento Nacional, nos termos estabelecidos na Constituição.\n2.   O Presidente cessante mantém-se em funções até à tomada de posse do novo Presidente.\n3.   O Presidente do Supremo Tribunal de Justiça é empossado, pelo Presidente da República, na presença dos restantes juízes conselheiros.\n4.  Nas suas ausências ou impedimentos, o Presidente do Supremo Tribunal de Justiça é substituído pelo Vice- Presidente e, na ausência deste, pelo juiz conselheiro mais antigo no tribunal."
+   }
+  },
+  {
+   "id": "TL-H217-A37",
+   "no": 37,
+   "noLabel": {
+    "pt": "Artigo 37.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Competência do Presidente"
+   },
+   "text": {
+    "pt": "1.   Compete ao Presidente do Supremo Tribunal de Justiça:\na) Representar o Tribunal e o poder judicial, tendo precedência entre todos os juízes;\nb) Dirigir o Tribunal, superintendendo os seus serviços, assegurando o seu funcionamento normal e emitindo as ordens de serviço que tenha por necessárias;\nc) Presidir ao plenário, às reuniões das secções e às conferências, quando a elas assista;\nd) Exercer ação disciplinar sobre os oficiais de justiça em serviço no Tribunal, relativamente à infração disciplinar punível com pena inferior à de multa;\ne) Dar posse ao Vice-Presidente, aos juízes conselheiros, ao Juiz Secretário do Conselho Superior da Magistratura Judicial e ao Diretor-Geral dos Tribunais; f) Dar posse ao Presidente, Vice-Presidente e juízes do Tribunal de Recurso;\ng) Dar posse aos juízes administradores e aos juízes dos tribunais judiciais de primeira instância e ao Secretário Judicial;\nh) Homologar as tabelas das sessões ordinárias e convocar as sessões extraordinárias; (i) Presidir, sempre que entender, às conferências, sem direito a voto; j) Julgar os conflitos de competência entre as secções do Supremo Tribunal de Justiça e entre o Supremo Tribunal de Justiça e os demais tribunais judiciais;\nSérie I, N.° 48 A\nk) Suspender ou reduzir a distribuição de processos aos juízes conselheiros quando, por motivos ponderosos, tal se justifique; l) Proceder à redistribuição de processos quando, no exclusivo interesse do bom andamento dos mesmos, isso se apresentar como indispensável, designadamente nos casos de impedimento prolongado do relator;\nm) Organizar os turnos para assegurar o serviço urgente durante os períodos de férias, com prévia audição dos juízes e, sempre que possível, com a antecedência de 60 dias;\nn) Dirigir e promover as ações de cooperação e de relações internacionais;\no) Desempenhar as demais competências previstas na lei.\n2.   O Presidente pode delegar no Vice-Presidente as competências que lhe estão atribuídas.\n3.  O Presidente não integra as secções e não lhe são distribuídos processos para relato."
+   }
+  },
+  {
+   "id": "TL-H217-A38",
+   "no": 38,
+   "noLabel": {
+    "pt": "Artigo 38.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Eleição do Vice-Presidente"
+   },
+   "text": {
+    "pt": "1.   O Vice-Presidente é eleito pelos juízes conselheiros, por escrutínio secreto.\n2.   É eleito Vice-Presidente o juiz conselheiro que obtiver mais de metade dos votos validamente expressos.\n3.  No caso de nenhum dos juízes obter o número de votos referido no número anterior, procede-se a segundo sufrágio, ao qual concorrem apenas os dois juízes conselheiros mais votados, aplicando-se, no caso de empate, o critério da antiguidade no tribunal.\n4.   Em caso de empate no segundo sufrágio, considera-se eleito Vice-Presidente o mais antigo na categoria."
+   }
+  },
+  {
+   "id": "TL-H217-A39",
+   "no": 39,
+   "noLabel": {
+    "pt": "Artigo 39.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Mandato do Vice-Presidente"
+   },
+   "text": {
+    "pt": "1.   O Vice-Presidente é eleito para um mandato de quatro anos e cessa o exercício de funções com a tomada de posse de quem o substituir.\n2.   É permitida a reeleição uma única vez."
+   }
+  },
+  {
+   "id": "TL-H217-A40",
+   "no": 40,
+   "noLabel": {
+    "pt": "Artigo 40.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Competência do Vice-Presidente"
+   },
+   "text": {
+    "pt": "O Vice-Presidente coadjuva o Presidente do Tribunal no exercício das suas funções e substitui-o nas suas ausências e impedimentos.\nSecção III\nPlenário"
+   }
+  },
+  {
+   "id": "TL-H217-A41",
+   "no": 41,
+   "noLabel": {
+    "pt": "Artigo 41.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Competência do plenário em segunda instância"
+   },
+   "text": {
+    "pt": "1.    Ao plenário do Supremo Tribunal de Justiça, como tribunal de segunda instância, compete:\na) Julgar os recursos de decisões proferidas em primeira instância pelo Supremo Tribunal de Justiça;\nb) Exercer as demais atribuições conferidas por lei.\n2.   A distribuição é feita com exclusão do relator do acórdão que constitui objeto do recurso."
+   }
+  },
+  {
+   "id": "TL-H217-A42",
+   "no": 42,
+   "noLabel": {
+    "pt": "Artigo 42.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Competência do plenário em instância única"
+   },
+   "text": {
+    "pt": "1.    Ao plenário do Supremo Tribunal de Justiça, como tribunal de instância única, compete:\na) Julgar o Presidente da República por violação clara e grave da Constituição;\nb) Apreciar e declarar a inconstitucionalidade e ilegalidade dos atos legislativos e normativos dos órgãos do Estado;\nc) Verificar preventivamente a constitucionalidade e a legalidade dos diplomas legislativos e dos referendos;\nd) Julgar os pedidos de verificação de inconstitucionalidade por omissão de medidas legislativas apresentados nos termos do artigo 151.º da Constituição;\ne) Verificar a legalidade da constituição dos partidos políticos e suas coligações, ordenar a sua inscrição e declarar a perda do respetivo estatuto, nos termos da Constituição e da lei; f) Uniformizar a jurisprudência do Supremo Tribunal de Justiça nos termos da lei de processo;\ng) Exercer as demais competências conferidas por lei.\n2.   Compete ao plenário do Supremo Tribunal de Justiça, como tribunal de instância única, decidir, em sede de recurso, das decisões dos tribunais:\na) Que recusem a aplicação de norma, com fundamento em inconstitucionalidade;\nb) Que apliquem norma cuja inconstitucionalidade haja sido suscitada durante o processo;\nc) Que recusem a aplicação de norma constante de ato legislativo com fundamento na sua ilegalidade;\nd) Que apliquem norma já anteriormente julgada inconstitucional pelo próprio Supremo Tribunal de Justiça;\nSérie I, N.° 48 A\ne) Que recusem a aplicação de norma constante de ato legislativo com fundamento na sua contrariedade com convenção internacional, ou a apliquem em desconformidade com o anteriormente decidido pelo próprio Supremo Tribunal de Justiça;\nf)   Exercer as demais competências conferidas por lei."
+   }
+  },
+  {
+   "id": "TL-H217-A43",
+   "no": 43,
+   "noLabel": {
+    "pt": "Artigo 43.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Competência eleitoral"
+   },
+   "text": {
+    "pt": "Compete ao plenário do Supremo Tribunal de Justiça, como tribunal de instância única, no domínio específico das eleições:\na)   Verificar os requisitos legais exigidos para as candidaturas a Presidente da República e a Deputado do Parlamento Nacional,\nb)   Julgar, em última instância, a regularidade e validade dos atos do processo eleitoral, nos termos da respetiva lei;\nc)   Validar e proclamar os resultados dos processos eleitorais referidos na alínea a);\nd)   Exercer as demais competências conferidas por lei.\nSecção IV\nSecções"
+   }
+  },
+  {
+   "id": "TL-H217-A44",
+   "no": 44,
+   "noLabel": {
+    "pt": "Artigo 44.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Composição e presidência"
+   },
+   "text": {
+    "pt": "1.   Cada secção é constituída por um mínimo de três juízes.\n2.   O Presidente da Secção é eleito entre os seus membros, por escrutínio secreto."
+   }
+  },
+  {
+   "id": "TL-H217-A45",
+   "no": 45,
+   "noLabel": {
+    "pt": "Artigo 45.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Especialização de competências"
+   },
+   "text": {
+    "pt": "1.  O Supremo Tribunal de Justiça compreende secções em matéria cível e em matéria penal.\n2.   A secção cível julga as causas que não estejam atribuídas à secção criminal e a secção criminal julga as causas de natureza penal."
+   }
+  },
+  {
+   "id": "TL-H217-A46",
+   "no": 46,
+   "noLabel": {
+    "pt": "Artigo 46.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Competência das secções"
+   },
+   "text": {
+    "pt": "1.   Compete às secções, segundo a sua especialização:\na) Julgar recursos;\nb) Julgar o Presidente da República, o Presidente do Parlamento Nacional e o Primeiro-Ministro, pelos crimes praticados no exercício das suas funções;\nc) Julgar processos por crimes cometidos por juízes do Supremo Tribunal de Justiça e do Tribunal de Recurso e magistrados do Ministério Público que exercem funções junto destes tribunais, e recursos em matéria contraordenacional a eles respeitantes;\nd) Julgar as ações cíveis propostas contra juízes do Supremo Tribunal de Justiça e do Tribunal de Recurso e magistrados do Ministério Público que exercem funções junto destes tribunais, por causa das suas funções;\ne) Conhecer dos pedidos de habeas corpus em virtude de detenção ou prisão ilegal; f) Julgar os conflitos de competência entre tribunais judiciais e tribunais administrativos e fiscais, intervindo como adjunto no respetivo julgamento o Vice- Presidente do Tribunal Superior Administrativo, Fiscal e de Contas;\ng) Conhecer dos pedidos de revisão de sentenças penais que contenham penas inconciliáveis com o ordenamento jurídico nacional e decretar a anulação, suspensão e revisão das mesmas, substituindo-as por penas correspondentes;\nh) Decidir sobre o pedido de atribuição de competência a outro tribunal da mesma espécie e hierarquia, nos casos de obstrução ao exercício da jurisdição pelo tribunal competente; (i) Julgar, por intermédio do relator, os termos dos recursos que lhe estejam cometidos pela lei de processo; j) Praticar, nos termos da lei de processo, os atos jurisdicionais relativos ao inquérito nos processos referidos nas alíneas b) e c);\nk) Exercer as demais competências conferidas por lei.\n2.   Fora dos casos previstos na lei de processo e nas alíneas (i) e j) do número anterior, o julgamento é efetuado por três juízes, cabendo a um juiz as funções de relator e aos outros juízes as funções de adjuntos.\n3.    A intervenção dos juízes no julgamento faz-se, nos termos da lei de processo, segundo a ordem de precedência."
+   }
+  },
+  {
+   "id": "TL-H217-A47",
+   "no": 47,
+   "noLabel": {
+    "pt": "Artigo 47.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO II SUPREMO TRIBUNAL DE JUSTIÇA Secção I Definição, jurisdição, composição, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Preenchimento das secções"
+   },
+   "text": {
+    "pt": "1.  Compete ao Presidente do Supremo Tribunal de Justiça distribuir os juízes pelas secções, tomando sucessivamente em conta o seu grau de especialização, a conveniência do serviço e a preferência manifestada.\n2.   Os juízes de uma secção podem ser agregados a outra, em acumulação de funções, tendo sempre em conta os critérios estabelecidos no número antecedente.\n3.   O Presidente do Supremo Tribunal de Justiça pode autorizar a mudança de secção ou a permuta entre juízes de secções diferentes, com observância do disposto no n.º 1.\n4.  O Presidente do Supremo Tribunal de Justiça pode determinar a mudança temporária de secção de um juiz quando, por motivo de impedimento ou doença, tal se Série I, N.° 48 A mostrar necessário para assegurar o número mínimo estabelecido na presente lei.\n5.   Quando o relator mudar de secção, mantém-se a sua competência e a dos seus adjuntos que tenham tido visto para julgamento."
+   }
+  },
+  {
+   "id": "TL-H217-A48",
+   "no": 48,
+   "noLabel": {
+    "pt": "Artigo 48.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO III TRIBUNAL DE RECURSO"
+   },
+   "heading": {
+    "pt": "Sede e competência territorial"
+   },
+   "text": {
+    "pt": "O Tribunal de Recurso tem sede em Díli e jurisdição em todo o território nacional."
+   }
+  },
+  {
+   "id": "TL-H217-A49",
+   "no": 49,
+   "noLabel": {
+    "pt": "Artigo 49.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO III TRIBUNAL DE RECURSO"
+   },
+   "heading": {
+    "pt": "Composição e designação dos juízes"
+   },
+   "text": {
+    "pt": "1.  O Tribunal de Recurso é composto por nove juízes, sem prejuízo de poder vir a ser fixado por decreto-lei um quadro de juízes superior, ouvido o Conselho Superior da Magistratura Judicial.\n2.  Os Juízes são nomeados pelo Conselho Superior de Magistratura Judicial, de entre os juízes de direito, nos termos do Estatuto dos Magistrados Judiciais.\n3.  O juiz do Tribunal de Recurso tem a designação de Juiz Desembargador."
+   }
+  },
+  {
+   "id": "TL-H217-A50",
+   "no": 50,
+   "noLabel": {
+    "pt": "Artigo 50.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO III TRIBUNAL DE RECURSO"
+   },
+   "heading": {
+    "pt": "Organização e funcionamento"
+   },
+   "text": {
+    "pt": "1.  O Tribunal de Recurso funciona em Plenário e em duas secções, um cível e uma criminal.\n2.   O Plenário é constituído por todos os juízes desembargadores em exercício de funções e só pode funcionar com pelo menos metade dos seus membros.\n3.  A secção criminal julga as causas de natureza penal e contraordenacional e a secção cível julga todas as restantes causas.\n4.  Além das secções mencionadas no n.º 1, o Tribunal de Recurso pode ainda compreender secções especializadas, cuja instalação depende do volume ou complexidade do trabalho, criadas por decreto-lei, ouvido o Conselho Superior da Magistratura Judicial.\n5.   As sessões têm lugar segundo uma agenda, devendo a data e a hora das audiências constar de tabela afixada, com antecedência, no átrio do tribunal."
+   }
+  },
+  {
+   "id": "TL-H217-A51",
+   "no": 51,
+   "noLabel": {
+    "pt": "Artigo 51.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO III TRIBUNAL DE RECURSO"
+   },
+   "heading": {
+    "pt": "Competência do Tribunal"
+   },
+   "text": {
+    "pt": "1.   Compete ao Tribunal de Recurso, funcionando em Plenário, exercer as competências conferidas por lei.\n2.   Compete às secções, segundo a sua especialização:\na) Julgar os recursos das decisões dos tribunais judiciais de primeira instância;\nb) Julgar as ações cíveis propostas contra juízes de primeira instância e procuradores da República, por causa das suas funções;\nc) Julgar processos por crimes cometidos por juízes de primeira instância e por procuradores da República e recursos em matéria contraordenacional a eles respeitantes;\nd) Julgar os processos judiciais de cooperação judiciária internacional em matéria penal;\ne) Julgar os processos de revisão e confirmação de sentença estrangeira, sem prejuízo da competência legalmente atribuída a outros tribunais; f) Julgar, por intermédio do relator, os termos dos recursos que lhe estejam cometidos pela lei de processo;\ng) Praticar, nos termos da lei de processo, os atos jurisdicionais relativos ao inquérito e proceder à apreciação preliminar da acusação nos processos referidos na alínea c) do presente artigo;\nh) Julgar os recursos das decisões dos tribunais militares de primeira instância, sendo assegurada a assistência por um militar; (i) Exercer as demais competências conferidas por lei.\n3.   Fora dos casos previstos na lei do processo, o julgamento é efetuado por três juízes, cabendo a um juiz a função de relator e aos outros a função de adjuntos.\n4.    A intervenção dos juízes do julgamento faz-se, nos termos da lei do processo, segundo a ordem de precedência."
+   }
+  },
+  {
+   "id": "TL-H217-A52",
+   "no": 52,
+   "noLabel": {
+    "pt": "Artigo 52.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO III TRIBUNAL DE RECURSO"
+   },
+   "heading": {
+    "pt": "Presidente"
+   },
+   "text": {
+    "pt": "1.  O Presidente é eleito pelos juízes do Tribunal, por escrutínio secreto, entre os juízes nomeados para o Tribunal, para um mandato de quatro anos, renovável.\n2.   À eleição do Presidente aplica-se o disposto para a eleição do Vice-Presidente do Supremo Tribunal de Justiça.\n3.   Compete ao Presidente do Tribunal de Recurso:\na) Representar o tribunal;\nb) Presidir ao Plenário do tribunal, onde, em caso de empate, tem voto de qualidade;\nc) Presidir ao pleno das secções especializadas e, quando a elas assista ou participe, às conferências;\nd) Homologar as tabelas das sessões ordinárias e convocar as sessões extraordinárias;\nSérie I, N.° 48 A\ne) Apurar o vencido nas conferências; f) Dirigir o tribunal, superintender nos seus serviços e assegurar o seu funcionamento normal, emitindo as ordens de serviço que tenha por necessárias;\ng) Julgar os conflitos de competência entre os tribunais de primeira instância;\nh) Decidir as reclamações contra o indeferimento ou retenção do recurso em primeira instância; (i) Distribuir os juízes pelas secções, tendo em conta o seu grau de especialização, a conveniência de serviço e a preferência manifestada; j) Proceder à redistribuição de processos nos casos de impedimento prolongado do relator;\nk) Organizar turnos para assegurar o serviço urgente durante os períodos de férias, com prévia audição dos juízes e, sempre que possível, com a antecedência de 60 dias; l) Exercer ação disciplinar sobre os oficiais de justiça em serviço no tribunal, relativamente a pena de gravidade inferior à pena de multa;\nm) Exercer as demais funções conferidas por lei.\n4.  Das decisões proferidas nos termos da alínea l) do n.º 3 cabe reclamação para o Plenário do Conselho Superior da Magistratura.\n5.  O Presidente é coadjuvado pelo Vice-Presidente, em quem pode delegar funções de representação.\n6.  O Presidente tem uma redução de 50% na distribuição dos processos para relatar."
+   }
+  },
+  {
+   "id": "TL-H217-A53",
+   "no": 53,
+   "noLabel": {
+    "pt": "Artigo 53.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO III TRIBUNAL DE RECURSO"
+   },
+   "heading": {
+    "pt": "Aplicação subsidiária"
+   },
+   "text": {
+    "pt": "É aplicável ao Tribunal de Recurso, com as necessárias adaptações, o disposto nos artigos 36.º, 38.º, 39.º, 40.º e 44.º."
+   }
+  },
+  {
+   "id": "TL-H217-A54",
+   "no": 54,
+   "noLabel": {
+    "pt": "Artigo 54.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO IV TRIBUNAIS JUDICIAIS DE PRIMEIRA INSTÂNCIA Secção I Disposições gerais, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Definição"
+   },
+   "text": {
+    "pt": "Os tribunais judiciais de primeira instância designam-se pelo nome do município ou da Região Administrativa Especial em que se encontram instalados."
+   }
+  },
+  {
+   "id": "TL-H217-A55",
+   "no": 55,
+   "noLabel": {
+    "pt": "Artigo 55.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO IV TRIBUNAIS JUDICIAIS DE PRIMEIRA INSTÂNCIA Secção I Disposições gerais, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Competência"
+   },
+   "text": {
+    "pt": "1.  Compete aos tribunais judiciais de primeira instância preparar e julgar os processos relativos a causas não abrangidas pela competência de outros tribunais.\n2.   Os tribunais judiciais de primeira instância são, consoante as causas que lhes estão atribuídas, tribunais de competência genérica ou tribunais de competência especializada."
+   }
+  },
+  {
+   "id": "TL-H217-A56",
+   "no": 56,
+   "noLabel": {
+    "pt": "Artigo 56.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO IV TRIBUNAIS JUDICIAIS DE PRIMEIRA INSTÂNCIA Secção I Disposições gerais, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Desdobramento"
+   },
+   "text": {
+    "pt": "1.  Os tribunais judiciais de primeira instância podem ser desdobrados em juízos de competência genérica ou especializada, a ser definidos por decreto-lei, ouvidos o Conselho Superior da Magistratura, o Conselho Superior do Ministério Público, o Conselho Superior da Defensória Pública e a Ordem dos Advogados.\n2.  Os juízos de competência especializada podem ser de natureza:\na) Cível;\nb) Criminal;\nc) Família e menores."
+   }
+  },
+  {
+   "id": "TL-H217-A57",
+   "no": 57,
+   "noLabel": {
+    "pt": "Artigo 57.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO IV TRIBUNAIS JUDICIAIS DE PRIMEIRA INSTÂNCIA Secção I Disposições gerais, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Funcionamento"
+   },
+   "text": {
+    "pt": "1.   Os tribunais judiciais de primeira instância funcionam como tribunal singular ou como tribunal coletivo, nos termos da lei de processo.\n2.  Em cada tribunal ou juízo exercem funções um ou mais juízes de direito.\n3.  A lei pode prever a colaboração de técnicos qualificados quando o julgamento da matéria de facto dependa de conhecimentos especiais.\n4.   O tribunal coletivo é composto por três juízes."
+   }
+  },
+  {
+   "id": "TL-H217-A58",
+   "no": 58,
+   "noLabel": {
+    "pt": "Artigo 58.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO IV TRIBUNAIS JUDICIAIS DE PRIMEIRA INSTÂNCIA Secção I Disposições gerais, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Substituição dos juízes de direito"
+   },
+   "text": {
+    "pt": "Os juízes de direito são substituídos, nas suas ausências ou impedimentos, segundo os seguintes critérios sucessivos:\na)   Pelo juiz do juízo seguinte da mesma jurisdição do mesmo tribunal, sendo o juiz do último juízo substituído pelo do primeiro;\nb)  Por um juiz de outra jurisdição do mesmo tribunal, escolhido por sorteio a realizar pelo juiz administrador;\nc)   Por um juiz do tribunal com a sede mais próxima, da mesma instância e jurisdição, escolhido por sorteio a realizar pelo juiz administrador;\nd)  Por um juiz do tribunal com a sede mais próxima, da mesma instância, escolhido por sorteio a realizar pelo juiz administrador.\nSérie I, N.° 48 A"
+   }
+  },
+  {
+   "id": "TL-H217-A59",
+   "no": 59,
+   "noLabel": {
+    "pt": "Artigo 59.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO IV TRIBUNAIS JUDICIAIS DE PRIMEIRA INSTÂNCIA Secção I Disposições gerais, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Quadro de juízes"
+   },
+   "text": {
+    "pt": "1.   O número de juízes é fixado por diploma ministerial conjunto dos membros do Governo responsáveis pelas áreas das finanças e da justiça, sob proposta do Conselho Superior da Magistratura Judicial.\n2.  Os juízes auferem, quando destacados, ajudas de custo nos termos da lei geral e sem limite de tempo.\n3.   A remuneração dos juízes auxiliares corresponde à que lhes competiria se exercessem funções como efetivos nos tribunais para que são destacados."
+   }
+  },
+  {
+   "id": "TL-H217-A60",
+   "no": 60,
+   "noLabel": {
+    "pt": "Artigo 60.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO IV TRIBUNAIS JUDICIAIS DE PRIMEIRA INSTÂNCIA Secção I Disposições gerais, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Turnos de distribuição"
+   },
+   "text": {
+    "pt": "1.   Nos tribunais com mais de um juiz, há um juiz de turno, que preside à distribuição e decide as questões com esta relacionadas.\n2.   Com exceção dos que tenham lugar em férias judiciais, os turnos são quinzenais e têm início nos dias 1 e 16 de cada mês, seguindo-se a ordem de numeração dos juízos e nos juízos com mais de um juiz a ordem de antiguidade dos juízes."
+   }
+  },
+  {
+   "id": "TL-H217-A61",
+   "no": 61,
+   "noLabel": {
+    "pt": "Artigo 61.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO IV TRIBUNAIS JUDICIAIS DE PRIMEIRA INSTÂNCIA Secção I Disposições gerais, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Turnos de serviço urgente"
+   },
+   "text": {
+    "pt": "1.  Para além dos turnos referidos no artigo 16.º, são ainda organizados turnos para assegurar o serviço urgente, previsto no Código de Processo Penal, na lei de cooperação judiciária internacional penal, em matéria de saúde mental, em matéria de proteção de crianças e jovens em perigo e no regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional, que deva ser executado aos sábados, nos feriados que recaiam em segunda-feira e no segundo dia feriado, em caso de feriados consecutivos.\n2.   A organização dos turnos mencionados no artigo 16.º e no número anterior e a elaboração do respetivo mapa cabe ao juiz administrador do tribunal, com prévia audição dos juízes e, sempre que possível, com a antecedência de 90 dias.\nSecção II\nGestão"
+   }
+  },
+  {
+   "id": "TL-H217-A62",
+   "no": 62,
+   "noLabel": {
+    "pt": "Artigo 62.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO IV TRIBUNAIS JUDICIAIS DE PRIMEIRA INSTÂNCIA Secção I Disposições gerais, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Juiz administrador"
+   },
+   "text": {
+    "pt": "Em cada tribunal judicial de primeira instância existe um juiz administrador."
+   }
+  },
+  {
+   "id": "TL-H217-A63",
+   "no": 63,
+   "noLabel": {
+    "pt": "Artigo 63.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO IV TRIBUNAIS JUDICIAIS DE PRIMEIRA INSTÂNCIA Secção I Disposições gerais, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Nomeação"
+   },
+   "text": {
+    "pt": "1.   O juiz administrador é nomeado, por escolha, pelo Conselho Superior da Magistratura Judicial, em comissão de serviço, pelo período de três anos, de entre juízes que exerçam funções efetivas como juízes de direito e possuam cinco anos de serviço efetivo nos tribunais e classificação não inferior a «Bom».\n2.   A comissão de serviço não dá lugar à abertura de vaga e pode ser cessada a qualquer momento, mediante deliberação fundamentada do Conselho Superior da Magistratura Judicial.\n3.   O juiz administrador é substituído, nas suas ausências ou impedimentos, pelo juiz mais antigo do respetivo tribunal."
+   }
+  },
+  {
+   "id": "TL-H217-A64",
+   "no": 64,
+   "noLabel": {
+    "pt": "Artigo 64.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO IV TRIBUNAIS JUDICIAIS DE PRIMEIRA INSTÂNCIA Secção I Disposições gerais, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Renovação"
+   },
+   "text": {
+    "pt": "A comissão de serviço do juiz administrador pode ser renovada por uma vez, mediante avaliação favorável do Conselho Superior da Magistratura Judicial, ponderado o modo como exerceu tais funções."
+   }
+  },
+  {
+   "id": "TL-H217-A65",
+   "no": 65,
+   "noLabel": {
+    "pt": "Artigo 65.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO IV TRIBUNAIS JUDICIAIS DE PRIMEIRA INSTÂNCIA Secção I Disposições gerais, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Competências"
+   },
+   "text": {
+    "pt": "1.   O juiz administrador tem competências de representação e direção, de gestão processual, administrativas e funcionais.\n2.  O juiz administrador tem as seguintes competências de representação e direção:\na) Representar e dirigir o tribunal;\nb) Acompanhar a realização dos objetivos fixados para os serviços do tribunal por parte dos funcionários;\nc) Promover a realização de reuniões de planeamento e avaliação dos resultados do tribunal, com a participação dos juízes e ou funcionários;\nd) Adotar ou propor às entidades competentes medidas, nomeadamente, de desburocratização, simplificação de procedimentos, utilização das tecnologias de informação e transparência do sistema de justiça;\ne) Elaborar, para apresentação ao Conselho Superior da Magistratura Judicial, um relatório anual sobre o estado dos serviços e a qualidade da resposta.\n3.  O juiz administrador tem as seguintes competências funcionais:\na) Dar posse ao secretário judicial, aos oficiais de justiça e aos funcionários;\nb) Submeter para aprovação do Conselho Superior da Magistratura Judicial os mapas de turnos referidos no nº 2 do artigo 61.º;\nc) Autorizar o gozo de férias das pessoas mencionadas na alínea a) e aprovar os respetivos mapas anuais;\nd) Exercer a ação disciplinar sobre os oficiais de justiça e funcionários em serviço no tribunal relativamente a Série I, N.° 48 A pena de gravidade inferior à de multa e, nos restantes casos, instaurar processo disciplinar, se a infração ocorrer no respetivo tribunal.\n4.  O juiz administrador tem as seguintes competências de gestão processual:\na) Propor ao Conselho Superior da Magistratura Judicial métodos de trabalho e objetivos mensuráveis para o tribunal quando tal se afigurar necessário;\nb) Acompanhar o movimento processual do tribunal, identificando, designadamente, os processos que estão pendentes por tempo considerado excessivo ou que não são resolvidos em prazo considerado razoável, informando o Conselho Superior da Magistratura Judicial e propondo as medidas que se justifiquem;\nc) Sugerir a aplicação de medidas de simplificação e agilização processuais;\nd) Propor ao Conselho Superior da Magistratura Judicial a reafetação dos juízes, com a concordância destes, no âmbito do tribunal judicial de primeira instância, tendo em vista uma distribuição racional e eficiente do serviço;\ne) Proceder à reafetação de oficiais de justiça e funcionários dentro do respetivo tribunal e nos limites legalmente definidos.\n5.  O juiz administrador tem as seguintes competências administrativas:\na) Apresentar propostas para o orçamento do tribunal;\nb) Elaborar os planos anuais e plurianuais de atividades e relatórios de atividades;\nc) Elaborar os regulamentos internos do tribunal judicial de primeira instância e dos respetivos juízos;\nd) Propor as alterações orçamentais consideradas adequadas;\ne) Participar na conceção e execução das medidas de organização e modernização dos tribunais; f) Planear as necessidades de recursos humanos.\n6.   O juiz administrador exerce ainda as competências que lhe forem delegadas pelo Conselho Superior da Magistratura Judicial.\nSecção III\nJuízos de competência genérica e de competência especializada"
+   }
+  },
+  {
+   "id": "TL-H217-A66",
+   "no": 66,
+   "noLabel": {
+    "pt": "Artigo 66.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO IV TRIBUNAIS JUDICIAIS DE PRIMEIRA INSTÂNCIA Secção I Disposições gerais, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Juízos de competência genérica"
+   },
+   "text": {
+    "pt": "1.   Os juízos de competência genérica possuem competência, na respetiva área territorial, para julgar todas as causas que não se encontrem atribuídas a outro juízo.\n2. Os juízos de competência genérica possuem ainda competência para:\na) Exercer, no âmbito do processo de execução, as competências previstas no Código de Processo Civil;\nb) Cumprir os mandados, cartas, ofícios e comunicações que lhes sejam dirigidos pelos tribunais ou autoridades competentes;\nc) Julgar os recursos das decisões das autoridades administrativas em processos de contraordenação;\nd) Exercer as demais competências conferidas por lei."
+   }
+  },
+  {
+   "id": "TL-H217-A67",
+   "no": 67,
+   "noLabel": {
+    "pt": "Artigo 67.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO IV TRIBUNAIS JUDICIAIS DE PRIMEIRA INSTÂNCIA Secção I Disposições gerais, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Juízos criminais"
+   },
+   "text": {
+    "pt": "Aos juízos criminais compete:\na)   A preparação, o julgamento e os termos subsequentes das causas crime;\nb)   As funções jurisdicionais relativas ao inquérito;\nc)   A tramitação das medidas de garantia patrimonial previstas no Código de Processo Penal;\nd)  O julgamento dos recursos das decisões das autoridades administrativas em processo de contraordenação;\ne)   Acompanhar e fiscalizar a execução de penas ou medidas privativas da liberdade, bem como garantir os direitos dos reclusos, pronunciando-se sobre a legalidade das decisões dos serviços prisionais nos casos e termos previstos na lei;\nf)   A execução das custas decorrentes dos processos por si tramitados."
+   }
+  },
+  {
+   "id": "TL-H217-A68",
+   "no": 68,
+   "noLabel": {
+    "pt": "Artigo 68.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO IV TRIBUNAIS JUDICIAIS DE PRIMEIRA INSTÂNCIA Secção I Disposições gerais, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Juízos cíveis"
+   },
+   "text": {
+    "pt": "Aos juízos cíveis compete a preparação e julgamento das causas de natureza cível e das que não sejam atribuídas expressamente a outros tribunais ou juízos."
+   }
+  },
+  {
+   "id": "TL-H217-A69",
+   "no": 69,
+   "noLabel": {
+    "pt": "Artigo 69.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO II TRIBUNAIS JUDICIAIS / CAPÍTULO IV TRIBUNAIS JUDICIAIS DE PRIMEIRA INSTÂNCIA Secção I Disposições gerais, organização e funcionamento"
+   },
+   "heading": {
+    "pt": "Juízos de família e menores"
+   },
+   "text": {
+    "pt": "1.   Compete aos juízos de família e menores preparar, julgar e conhecer dos incidentes referentes:\na) Às matérias relativas ao estado civil das pessoas e família, designadamente:\ni.   Processos de jurisdição voluntária relativos a cônjuges; ii.   Ações de separação de pessoas e bens e de divórcio;\nSérie I, N.° 48 A iii.    Ações de declaração de inexistência ou de anulação do casamento civil; iv.   Ações e execuções por alimentos entre cônjuges e entre ex-cônjuges;\nv.    Outras ações relativas ao estado civil das pessoas e família.\nb) Às matérias relativas a menores e filhos maiores, designadamente:\ni.    Instaurar a tutela e a administração de bens; ii.    Constituir, converter, revogar e rever o vínculo da adoção; iii.    Regular o exercício das responsabilidades parentais e conhecer das questões que lhes digam respeito; iv.   Decretar a medida de promoção e proteção de confiança a pessoa selecionada para a adoção ou a instituição com vista a futura adoção;\nv.    Autorizar o representante legal dos menores a praticar certos atos, confirmar os que tenham sido praticados sem autorização e providenciar acerca da aceitação de liberalidades; vi.   Proceder à averiguação oficiosa da maternidade e da paternidade e preparar e julgar as ações de impugnação e de investigação da maternidade e da paternidade; vii. Decidir, em caso de desacordo dos pais, sobre o nome e apelidos do menor.\nc) A matéria tutelar educativa e de proteção, designadamente:\ni.    Aplicar medidas de promoção e proteção e acompanhar a respetiva execução, quando requeridas, sempre que uma criança ou jovem se encontre numa situação de perigo; ii.     Apreciar os factos qualificados pela lei como crime praticados por menor com idade compreendida entre os 12 e os 16 anos, com vista à aplicação de medida tutelar; iii.   Executar, rever e fazer cessar as medidas tutelares.\n2.    O ato de criação de cada juízo de família e menores densifica as competências que lhe são concretamente atribuídas de entre as previstas no número anterior."
+   }
+  },
+  {
+   "id": "TL-H217-A70",
+   "no": 70,
+   "noLabel": {
+    "pt": "Artigo 70.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRIBUNAIS  ADMINISTRATIVOS,  FISCAIS  E  DE CONTAS / CAPÍTULO I ORGANIZAÇÃO"
+   },
+   "heading": {
+    "pt": "Definição"
+   },
+   "text": {
+    "pt": "Os tribunais administrativos, fiscais e de contas são a categoria de tribunais à qual cabe o julgamento dos litígios emergentes das relações jurídicas administrativas e fiscais e o exercício da jurisdição de Contas."
+   }
+  },
+  {
+   "id": "TL-H217-A71",
+   "no": 71,
+   "noLabel": {
+    "pt": "Artigo 71.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRIBUNAIS  ADMINISTRATIVOS,  FISCAIS  E  DE CONTAS / CAPÍTULO I ORGANIZAÇÃO"
+   },
+   "heading": {
+    "pt": "Tribunais administrativos, fiscais e de contas"
+   },
+   "text": {
+    "pt": "São tribunais administrativos, fiscais e de contas:\na)   O Tribunal Superior Administrativo, Fiscal e de Contas;\nb)   Os tribunais administrativos e fiscais de primeira instância."
+   }
+  },
+  {
+   "id": "TL-H217-A72",
+   "no": 72,
+   "noLabel": {
+    "pt": "Artigo 72.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRIBUNAIS  ADMINISTRATIVOS,  FISCAIS  E  DE CONTAS / CAPÍTULO I ORGANIZAÇÃO"
+   },
+   "heading": {
+    "pt": "Organização e funcionamento"
+   },
+   "text": {
+    "pt": "1.  A competência, a organização e o funcionamento dos tribunais administrativos, fiscais e de contas são definidos em lei própria.\n2.    As normas de processo nos tribunais administrativos, fiscais e de contas são aprovados em lei própria."
+   }
+  },
+  {
+   "id": "TL-H217-A73",
+   "no": 73,
+   "noLabel": {
+    "pt": "Artigo 73.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRIBUNAIS  ADMINISTRATIVOS,  FISCAIS  E  DE CONTAS / CAPÍTULO I ORGANIZAÇÃO"
+   },
+   "heading": {
+    "pt": "Estatuto dos juízes"
+   },
+   "text": {
+    "pt": "1.   Os juízes dos tribunais administrativos, fiscais e de contas regem-se pelo Estatuto dos Magistrados Judiciais e estão sujeitos à jurisdição do Conselho Superior da Magistratura Judicial.\n2.  Quando forem instalados os tribunais administrativos e fiscais, o Conselho Superior da Magistratura Judicial deve refletir na sua composição a presença de representantes de juízes e oficiais de justiça desta categoria de tribunais."
+   }
+  },
+  {
+   "id": "TL-H217-A74",
+   "no": 74,
+   "noLabel": {
+    "pt": "Artigo 74.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRIBUNAIS  ADMINISTRATIVOS,  FISCAIS  E  DE CONTAS / CAPÍTULO II TRIBUNAL  SUPERIOR  ADMINISTRATIVO,  FISCAL  E DE  CONTAS"
+   },
+   "heading": {
+    "pt": "Definição, jurisdição e sede"
+   },
+   "text": {
+    "pt": "1.   O Tribunal Superior Administrativo, Fiscal e de Contas é o órgão superior da hierarquia dos tribunais administrativos, fiscais e de contas, sem prejuízo da competência própria do Supremo Tribunal de Justiça.\n2.   O Tribunal Superior Administrativo, Fiscal e de Contas tem jurisdição em todo o território nacional.\n3.   O Tribunal Superior Administrativo, Fiscal e de Contas tem sede em Díli."
+   }
+  },
+  {
+   "id": "TL-H217-A75",
+   "no": 75,
+   "noLabel": {
+    "pt": "Artigo 75.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRIBUNAIS  ADMINISTRATIVOS,  FISCAIS  E  DE CONTAS / CAPÍTULO II TRIBUNAL  SUPERIOR  ADMINISTRATIVO,  FISCAL  E DE  CONTAS"
+   },
+   "heading": {
+    "pt": "Câmara de Contas"
+   },
+   "text": {
+    "pt": "1.    A jurisdição de Contas é exercida pela Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas.\n2.    A Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas fiscaliza a legalidade, controla a Série I, N.° 48 A regularidade das receitas e das despesas públicas, aprecia a boa gestão e efetiva responsabilidades por infrações financeiras, nos termos previstos na sua Lei Orgânica.\n3.   A Câmara de Contas tem jurisdição e poderes de controlo financeiro tanto no território nacional como no estrangeiro, em relação a serviços, organismos ou representações do Estado no exterior."
+   }
+  },
+  {
+   "id": "TL-H217-A76",
+   "no": 76,
+   "noLabel": {
+    "pt": "Artigo 76.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO III TRIBUNAIS  ADMINISTRATIVOS,  FISCAIS  E  DE CONTAS / CAPÍTULO II TRIBUNAL  SUPERIOR  ADMINISTRATIVO,  FISCAL  E DE  CONTAS"
+   },
+   "heading": {
+    "pt": "Composição do Tribunal"
+   },
+   "text": {
+    "pt": "1.   Os juízes do Tribunal Superior Administrativo, Fiscal e de Contas são designados pelo Conselho Superior da Magistratura Judicial, por concurso curricular de entre juízes de carreira, magistrados do Ministério Público e juristas de reconhecido mérito.\n2.   Na Câmara de Contas um ou dois juízes são especialistas de reconhecido mérito no domínio das Finanças Públicas.\n3.  O juiz do Tribunal Superior Administrativo, Fiscal e de Contas tem a designação de Juiz Conselheiro."
+   }
+  },
+  {
+   "id": "TL-H217-A77",
+   "no": 77,
+   "noLabel": {
+    "pt": "Artigo 77.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Instalação dos tribunais judiciais"
+   },
+   "text": {
+    "pt": "1.   O Supremo Tribunal de Justiça é instalado no prazo máximo de 24 meses, contados da entrada em vigor da presente lei.\n2.   O Tribunal de Recurso é instalado no prazo máximo de 24 meses, contados da entrada em vigor da presente lei.\n3.   Os tribunais judiciais de primeira instância de Baucau, Díli, Oe-Cusse Ambeno e Suai sucedem aos atuais tribunais distritais de Baucau, Díli, Oe-Cusse Ambeno e Suai, e mantêm a respetiva competência territorial.\n4.  Quando estiverem reunidas as necessárias condições humanas e financeiras e as exigências o impuserem, são instalados, por Decreto-lei, os demais tribunais judiciais de primeira instância.\n5.  Enquanto não estiverem instalados todos os tribunais judiciais de primeira instância, na instalação de cada novo tribunal pode se decidir pelo alargamento da sua competência territorial a mais do que um município."
+   }
+  },
+  {
+   "id": "TL-H217-A78",
+   "no": 78,
+   "noLabel": {
+    "pt": "Artigo 78.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Transição dos juízes do atual Tribunal de Recurso para o novo Tribunal de Recurso"
+   },
+   "text": {
+    "pt": "1.   Os juízes do atual Tribunal de Recurso transitam para o novo Tribunal de Recurso, por altura da instalação deste último, para cujo efeito apresentam, até à abertura do processo de seleção de juízes para este Tribunal, declaração de aceitação do lugar.\n2.  Transitam também para o novo Tribunal de Recurso os oficiais de justiça e demais pessoal do quadro, em funções no Tribunal."
+   }
+  },
+  {
+   "id": "TL-H217-A79",
+   "no": 79,
+   "noLabel": {
+    "pt": "Artigo 79.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Instalação de tribunais"
+   },
+   "text": {
+    "pt": "Compete ao Governo a instalação dos tribunais previstos no presente diploma."
+   }
+  },
+  {
+   "id": "TL-H217-A80",
+   "no": 80,
+   "noLabel": {
+    "pt": "Artigo 80.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Exercício transitório das competências do Tribunal"
+   },
+   "text": {
+    "pt": "Superior Administrativo, Fiscal e de Contas e dos tribunais administrativos e fiscais\n1.    Até à instalação do Tribunal Superior Administrativo, Fiscal e de Contas e dos tribunais administrativos e fiscais, as suas competências são exercidas pelos tribunais judiciais.\n2.    Instalado o Supremo Tribunal de Justiça, e enquanto não for instalado o Tribunal Superior Administrativo, Fiscal e de Contas, a respetiva Câmara de Contas funciona junto do Supremo Tribunal de Justiça."
+   }
+  },
+  {
+   "id": "TL-H217-A81",
+   "no": 81,
+   "noLabel": {
+    "pt": "Artigo 81.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Primeiro acesso a juiz do Supremo Tribunal de Justiça"
+   },
+   "text": {
+    "pt": "1.  Ao primeiro provimento dos lugares de Juiz Conselheiro previstos na alínea b) do n.º 2 do artigo 125.º da Constituição, aplicam-se as presentes regras transitórias destinadas a assegurar a composição necessária à sua entrada em funcionamento, em conformidade com o disposto na Constituição da República e no presente artigo.\n2.  No prazo máximo de 90 dias após a entrada em vigor da presente lei é declarada a abertura de concurso para primeiro provimento dos lugares de juiz conselheiro previstos na alínea b) do n.º 2 do artigo 125.º da Constituição, através de Aviso publicado no Jornal da República pela Comissão de Recrutamento e Seleção.\n3.   Podem ser candidatos a juiz conselheiro:\na) Todos os Juízes e Procuradores da República com, pelo menos, dez anos de exercício da profissão;\nb) Os juristas de reconhecido mérito com, pelo menos, quinze anos de atividade profissional ininterrupta ou interpolada no ramo do Direito, nomeadamente na advocacia, defensoria pública, docência universitária ou na assessoria jurídica a instituições públicas, ainda que aposentados, jubilados ou tenham completado o limite de idade de cessação de funções, desde que reúnam condições de saúde e os demais requisitos para o provimento e posse no cargo, definidos na presente lei.\n4.   Os candidatos são graduados de acordo com os seguintes critérios:\na) Avaliação documental que deve ter em consideração:\n(i)   Curriculum universitário, pós-universitário e profissional;\nSérie I, N.° 48 A (ii)   Graduação obtida em concursos de habilitação ou ingresso, bem como de promoção ou de avaliação de desempenho em cargos públicos; (iii)    Atividade desenvolvida no exercício das profissões do âmbito jurídico, especialmente a forense, a consulta, a assessoria ou o ensino jurídico; (iv)   Trabalhos científicos ou técnicos realizados;\nb) Exame de Avaliação das competências técnicas para o exercício das funções de Juiz Conselheiro;\nc) Entrevista profissional que deve ter em consideração outros fatores que abonem a idoneidade, mérito ou qualificações dos requerentes para o cargo de Juiz Conselheiro.\n5.    A graduação e o processo de avaliação previsto no número anterior têm natureza técnico-jurídica e consistem na aferição da capacidade profissional para o desempenho do cargo de Juiz Conselheiro, sendo efetuados por um júri.\n6.    Do Orçamento Geral do Estado para 2022 consta a provisão orçamental necessária para o provimento dos lugares de juízes conselheiros."
+   }
+  },
+  {
+   "id": "TL-H217-A82",
+   "no": 82,
+   "noLabel": {
+    "pt": "Artigo 82.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Acesso a juiz do Tribunal de Recurso"
+   },
+   "text": {
+    "pt": "1.   Para o preenchimento das vagas existentes para o lugar de juiz desembargador do Tribunal de Recurso, aplicam-se as presentes regras transitórias.\n2.  No prazo máximo de 90 dias após a entrada em vigor da presente lei é declarada a abertura de concurso para provimento dos lugares de juiz desembargador existentes à data, através de Aviso publicado no Jornal da República pela Comissão de Recrutamento e Seleção.\n3.   Podem ser candidatos a juiz desembargador todos os juízes com pelo menos oito anos de exercício da profissão.\n4.   Os candidatos são graduados de acordo com os seguintes critérios:\na) Avaliação documental que deve ter em consideração:\n(i)   Curriculum universitário, pós-universitário e profissional; (ii)   Graduação obtida em concursos de habilitação ou ingresso, bem como de promoção ou de avaliação de desempenho na função; (iii)   Trabalhos científicos ou técnicos realizados;\nb) Exame de avaliação das competências técnicas para o exercício das funções de juiz desembargador;\nc) Entrevista profissional que deve ter em consideração outros fatores que abonem a idoneidade, mérito ou qualificações dos requerentes para o cargo de juiz desembargador.\n5.    A graduação e o processo de avaliação previsto no número anterior têm natureza técnico-jurídica e consistem na aferição da capacidade profissional para o desempenho do cargo de juiz desembargador, sendo efetuados por um júri.\n6.    Do Orçamento Geral do Estado para 2022 consta a provisão orçamental necessária para o provimento dos lugares de juízes desembargadores."
+   }
+  },
+  {
+   "id": "TL-H217-A83",
+   "no": 83,
+   "noLabel": {
+    "pt": "Artigo 83.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Comissão de Recrutamento e Seleção"
+   },
+   "text": {
+    "pt": "1.  No prazo máximo de 45 dias após a entrada em vigor da presente lei, o Presidente da República nomeia, por decreto, a Comissão de Recrutamento e Seleção para o primeiro provimento dos lugares de juízes do Supremo Tribunal de Justiça e provimento dos lugares de juiz do Tribunal de Recurso.\n2.   A Comissão prevista no número anterior é composta por três cidadãos nacionais, sendo:\na) Um indicado pelo Presidente da República, que preside;\nb) Dois indicados pelo Parlamento Nacional, propostos pelas bancadas parlamentares, de forma uninominal, eleitos por escrutínio secreto pelos Deputados ao Parlamento Nacional.\n3.   Podem ser nomeados para integrar a Comissão de Recrutamento e Seleção cidadãos nacionais licenciados em direito com pelo menos 10 anos de experiência profissional, seguida ou interpolada, de exercício de profissão jurídica e com vasta experiência do setor da justiça em Timor-Leste.\n4.   Excluem-se do número anterior os cidadãos nacionais no exercício de funções na magistratura judicial ou do Ministério Público.\n5.  Compete à Comissão, no âmbito do primeiro provimento dos lugares de juízes ao Supremo Tribunal de Justiça e do provimento dos lugares de juízes do Tribunal de Recurso, a contratação de um júri, encarregue da realização da avaliação documental, do exame de avaliação e da entrevista profissional dos candidatos.\n6.   Só podem ser membros do júri:\na) Juízes conselheiros, de tribunais superiores de países de sistema civilista de língua portuguesa, em funções ou jubilados, no caso de concurso de acesso a lugar de juiz do Supremo Tribunal de Justiça;\nb) Juízes conselheiros, ou desembargadores de países de sistema civilista de língua portuguesa, em funções ou jubilados, no caso de concurso de acesso a lugar de juiz do Tribunal de Recurso.\nSérie I, N.° 48 A\n7.   A Comissão deve comunicar até ao final do terceiro trimestre de 2022, ao Presidente da República e ao Parlamento Nacional, através de relatório escrito, o resultado da graduação final dos concorrentes que reúnam os requisitos de nomeação para Juiz Conselheiro e para Juiz Desembargador.\n8.    A Comissão deve, até ao final do terceiro trimestre de 2022, enviar o Relatório da graduação final dos concorrentes para o Conselho Superior da Magistratura Judicial, de modo a que este proceda, no prazo máximo de 30 dias, à nomeação dos Juízes Conselheiros e dos Juízes Desembargadores, de entre os qualificados para esse efeito pelo júri.\n9.    A Comissão aprova o regulamento da avaliação documental, do exame de avaliação e da entrevista profissional, da classificação final dos concorrentes bem como o seu regimento interno, no prazo de trinta dias a contar da sua nomeação.\n10.  A Comissão fica sediada no Parlamento Nacional, que lhe presta apoio administrativo e técnico, e outro que se tiver por necessário.\n11.  O Parlamento Nacional dispõe sobre a forma de remuneração dos membros da Comissão.\n12. As despesas de funcionamento da Comissão são financiadas pelo Orçamento Geral do Estado, como despesa inscrita nas dotações do Parlamento Nacional."
+   }
+  },
+  {
+   "id": "TL-H217-A84",
+   "no": 84,
+   "noLabel": {
+    "pt": "Artigo 84.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Norma revogatória"
+   },
+   "text": {
+    "pt": "São revogados:\na)   O Regulamento da UNTAET n.º 2000/11, de 6 de março de 2000, sobre a Organização dos Tribunais em Timor-Leste, alterado pelos Regulamentos da UNTAET n.º 2000/14, de 10 de maio de 2000, n.º 2001/18, de 21 de Julho de 2001, e n.º 2001/25, de 14 de setembro de 2001.\nb)   O artigo 1.º do Decreto-Lei n.º 15/2015, de 24 de junho, que dispõe sobre férias judiciais."
+   }
+  },
+  {
+   "id": "TL-H217-A85",
+   "no": 85,
+   "noLabel": {
+    "pt": "Artigo 85.º"
+   },
+   "chapter": {
+    "pt": "TÍTULO IV DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor 90 dias após a data da sua publicação."
+   }
+  }
+ ]
+}

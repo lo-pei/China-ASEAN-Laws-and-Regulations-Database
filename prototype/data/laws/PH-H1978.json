@@ -1,0 +1,64 @@
+{
+ "id": "PH-H1978",
+ "title": {
+  "zh": "对《修订选举法典》的修改",
+  "en": "An Act Amending Section Fifty-Nine of Republic Act Numbered One Hundred and Eighty, Otherwise Known as the Revised Election Code",
+  "orig": "An Act Amending Section Fifty-Nine of Republic Act Numbered One Hundred and Eighty, Otherwise Known as the Revised Election Code"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p28",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1959-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2242",
+ "officialCode": null,
+ "topics": [
+  "administrative"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1648,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1959/ra_2242_1959.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1959/ra_2242_1959.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1978-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section fifty-nine of Republic Act Numbered One hundred and eighty is hereby amended to read as follows:\nSec. 59 . Publication of map of precincts. -The municipal secretary shall post, in the municipal building and in the polling places and in three other conspicuous public places in each precinct, maps plainly showing the boundaries of the precinct, at least ten days before the first day fixed for the registration of voters of each election, and keep them posted until after the election is held. No person shall be admitted for registration in a precinct where he is not a bona fide resident within the territorial limit of the precinct; and if so registered, his name may be stricken out from the registry list in an exclusion proceeding as hereinafter provided. The preceding provision to the contrary notwithstanding, public school teachers who are appointed members or substitute members of boards of election inspectors may register and vote in the respective precincts where they are assigned on election day: Provided, That before casting their votes they shall have caused the cancellation of their registration in other precincts where they may have been previously registered. The Commission on Elections shall promulgate the necessary rules to implement this provision: Provided, That no public school teacher shall be assigned as member or substitute member of a board of election inspectors outside of the municipality where he or she is a qualified and/or registered voter or outside the municipality to which he or she is assigned as public school teacher.\""
+   }
+  },
+  {
+   "id": "PH-H1978-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1959."
+   }
+  }
+ ]
+}

@@ -1,0 +1,958 @@
+{
+ "id": "SG-H3592",
+ "title": {
+  "zh": null,
+  "en": "Protection from Online Falsehoods and Manipulation Act 2019",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p45",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act POFMA2019",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 58,
+ "chars": 97502,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/POFMA2019?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 58 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3592-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 PROHIBITION OF COMMUNICATION OF FALSE STATEMENTS OF FACT IN SINGAPORE"
+   },
+   "heading": {
+    "en": "Communication of false statements of fact in Singapore"
+   },
+   "text": {
+    "en": "7.—(1) A person must not do any act in or outside Singapore in order to communicate in Singapore a statement knowing or having reason to believe that —\n(a)it is a false statement of fact; and\n(b)the communication of the statement in Singapore is likely to —\n(i)be prejudicial to the security of Singapore or any part of Singapore;\n(ii)be prejudicial to public health, public safety, public tranquillity or public finances;\n(iii)be prejudicial to the friendly relations of Singapore with other countries;\n(iv)influence the outcome of an election to the office of President, a general election of Members of Parliament, a by‑election of a Member of Parliament, or a referendum;\n(v)incite feelings of enmity, hatred or ill‑will between different groups of persons; or\n(vi)diminish public confidence in the performance of any duty or function of, or in the exercise of any power by, the Government, an Organ of State, a statutory board, or a part of the Government, an Organ of State or a statutory board.\n(2) Subject to subsection (3), a person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both; or\n(b)in any other case, to a fine not exceeding $500,000.\n(3) Where an inauthentic online account or a bot is used —\n(a)to communicate in Singapore the statement mentioned in subsection (1); and\n(b)for the purpose of accelerating such communication,\nthe person who is guilty of an offence under that subsection shall be liable on conviction —\n(c)in the case of an individual, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both; or\n(d)in any other case, to a fine not exceeding $1 million.\n(4) Subsection (1) does not apply to the doing of any act for the purpose of, or that is incidental to, the provision of —\n(a)an internet intermediary service;\n(b)a telecommunication service;\n(c)a service of giving the public access to the internet; or\n(d)a computing resource service."
+   }
+  },
+  {
+   "id": "SG-H3592-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 PROHIBITION OF COMMUNICATION OF FALSE STATEMENTS OF FACT IN SINGAPORE"
+   },
+   "heading": {
+    "en": "Making or altering bots for communication of false statements of fact in Singapore"
+   },
+   "text": {
+    "en": "8.—(1) A person must not, whether in or outside Singapore, make or alter a bot with the intention of —\n(a)communicating, by means of the bot, a false statement of fact in Singapore; or\n(b)enabling any other person to communicate, by means of the bot, a false statement of fact in Singapore.\n(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 3 years or to both; or\n(b)in any other case, to a fine not exceeding $500,000.\n(3) However, if the communication of the false statement of fact under subsection (1) is likely to —\n(a)be prejudicial to the security of Singapore or any part of Singapore;\n(b)be prejudicial to public health, public safety, public tranquillity or public finances;\n(c)be prejudicial to the friendly relations of Singapore with other countries;\n(d)influence the outcome of an election to the office of President, a general election of Members of Parliament, a by‑election of a Member of Parliament, or a referendum;\n(e)incite feelings of enmity, hatred or ill‑will between different groups of persons; or\n(f)diminish public confidence in the performance of any duty or function of, or in the exercise of any power by, the Government, an Organ of State, a statutory board, or a part of the Government, an Organ of State or a statutory board,\nthe person who is guilty of an offence under that subsection shall be liable on conviction —\n(g)in the case of an individual, to a fine not exceeding $60,000 or to imprisonment for a term not exceeding 6 years or to both; or\n(h)in any other case, to a fine not exceeding $1 million."
+   }
+  },
+  {
+   "id": "SG-H3592-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 PROHIBITION OF COMMUNICATION OF FALSE STATEMENTS OF FACT IN SINGAPORE"
+   },
+   "heading": {
+    "en": "Providing services for communication of false statements of fact in Singapore"
+   },
+   "text": {
+    "en": "9.—(1) A person who, whether in or outside Singapore, solicits, receives or agrees to receive any financial or other material benefit as an inducement or reward for providing any service, knowing that the service is or will be used in the communication of one or more false statements of fact in Singapore, shall be guilty of an offence if the service is in fact used in such communication.\n(2) A person who is guilty of an offence under subsection (1) shall be liable on conviction —\n(a)in the case of any individual, to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 3 years or to both; or\n(b)in any other case, to a fine not exceeding $500,000.\n(3) However, if the communication of the false statement of fact under subsection (1) is likely to —\n(a)be prejudicial to the security of Singapore or any part of Singapore;\n(b)be prejudicial to public health, public safety, public tranquillity or public finances;\n(c)be prejudicial to the friendly relations of Singapore with other countries;\n(d)influence the outcome of an election to the office of President, a general election of Members of Parliament, a by‑election of a Member of Parliament, or a referendum;\n(e)incite feelings of enmity, hatred or ill‑will between different groups of persons; or\n(f)diminish public confidence in the performance of any duty or function of, or in the exercise of any power by, the Government, an Organ of State, a statutory board, or a part of the Government, an Organ of State or a statutory board,\nthe person who is guilty of an offence under that subsection shall be liable on conviction —\n(g)in the case of an individual, to a fine not exceeding $60,000 or to imprisonment for a term not exceeding 6 years or to both; or\n(h)in any other case, to a fine not exceeding $1 million.\n(4) Subsection (1) does not apply to any act carried out for the purpose of, or that is incidental to, the provision of —\n(a)an internet intermediary service;\n(b)a telecommunication service;\n(c)a service of giving the public access to the internet; or\n(d)a computing resource service.\n(5) Where a court convicts any person of an offence under subsection (1), the court must, in addition to imposing on that person the punishment under subsection (2) or (3), order the person to pay as a penalty, within the time specified by the court, a sum equal to the amount of any financial or other material benefit received or is, in the opinion of the court, the value of such financial or other material benefit, and any such penalty is recoverable as a fine.\n(6) Subsection (5) does not apply if the court determines that the value of the financial or other material benefit cannot be assessed.\n(7) Where —\n(a)a person charged with 2 or more offences under subsection (1) is convicted of one or more of those offences; and\n(b)the other outstanding offences are taken into consideration by the court under section 148 of the Criminal Procedure Code 2010 for the purpose of passing sentence,\nthe court may increase the penalty mentioned in subsection (5) by an amount not exceeding the total amount or value of the financial or other material benefit received for the offences so taken into consideration."
+   }
+  },
+  {
+   "id": "SG-H3592-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 DIRECTIONS DEALING WITH COMMUNICATION IN SINGAPORE OF FALSE STATEMENTS OF FACT"
+   },
+   "heading": {
+    "en": "Conditions for issue of Part 3 Directions"
+   },
+   "text": {
+    "en": "10.—(1) Any Minister may instruct the Competent Authority to issue a Part 3 Direction if all of the following conditions are satisfied:\n(a)a false statement of fact (called in this Part the subject statement) has been or is being communicated in Singapore;\n(b)the Minister is of the opinion that it is in the public interest to issue the Direction.\n(2) Any Minister may instruct the Competent Authority to issue a Part 3 Direction in relation to the subject statement even if it has been amended or has ceased to be communicated in Singapore."
+   }
+  },
+  {
+   "id": "SG-H3592-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 DIRECTIONS DEALING WITH COMMUNICATION IN SINGAPORE OF FALSE STATEMENTS OF FACT"
+   },
+   "heading": {
+    "en": "Correction Direction"
+   },
+   "text": {
+    "en": "11.—(1) A Correction Direction is one issued to a person who communicated the subject statement in Singapore, requiring the person to communicate in Singapore in the specified form and manner, to a specified person or description of persons (if any), and by the specified time, a notice (called in this Part a correction notice) that contains one or both of the following:\n(a)a statement, in such terms as may be specified, that the subject statement is false, or that the specified material contains a false statement of fact;\n(b)a specified statement of fact, or a reference to a specified location where the specified statement of fact may be found, or both.\n(2) A Correction Direction may require the person to whom it is issued to communicate in Singapore a correction notice in a specified online location.\n(3) A Correction Direction may also require the person to whom it is issued to do one or both of the following:\n(a)to communicate in Singapore the correction notice by placing it in the specified proximity to every copy of the following that is communicated by the person in Singapore:\n(i)the false statement of fact;\n(ii)a substantially similar statement;\n(b)to publish the correction notice in the specified manner in a specified newspaper or other printed publication of Singapore.\n(4) A person who communicated a false statement of fact in Singapore may be issued a Correction Direction even if the person does not know or has no reason to believe that the statement is false.\n(5) In this section —\n(a)“specified” means specified in the Correction Direction; and\n(b)a person does not communicate a statement in Singapore merely by doing any act for the purpose of, or that is incidental to, the provision of —\n(i)an internet intermediary service;\n(ii)a telecommunication service;\n(iii)a service of giving the public access to the internet; or\n(iv)a computing resource service."
+   }
+  },
+  {
+   "id": "SG-H3592-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 DIRECTIONS DEALING WITH COMMUNICATION IN SINGAPORE OF FALSE STATEMENTS OF FACT"
+   },
+   "heading": {
+    "en": "Stop Communication Direction"
+   },
+   "text": {
+    "en": "12.—(1) A Stop Communication Direction is one issued to a person who communicated the subject statement in Singapore, requiring the person to stop communicating in Singapore the subject statement by the specified time.\n(2) A Stop Communication Direction may also require the person to whom it is issued to stop communicating any statement that is substantially similar to the subject statement.\n(3) A Stop Communication Direction may also require the person to whom it is issued to do one or both of the following:\n(a)to communicate in Singapore a correction notice in the specified form and manner, to a specified person or description of persons (if any), and by the specified time;\n(b)to publish a correction notice in the specified manner in a specified newspaper or other printed publication of Singapore.\n(4) A person who communicated a false statement of fact in Singapore may be issued a Stop Communication Direction even if the person does not know or has no reason to believe that the statement is false.\n(5) Once a Stop Communication Direction has been issued, the Competent Authority must publish a notice of that fact in the Gazette as soon as possible.\n(6) However, a failure to publish the notice of the issue of the Stop Communication Direction in the Gazette does not invalidate the Direction.\n(7) In this section —\n(a)“specified” means specified in the Stop Communication Direction;\n(b)“stop communicating”, in relation to a statement, means taking the necessary steps to ensure that the statement is no longer available on or through the internet to end‑users in Singapore, including (if necessary) the removal of the statement from an online location; and\n(c)a person does not communicate a statement in Singapore merely by doing any act for the purpose of, or that is incidental to, the provision of —\n(i)an internet intermediary service;\n(ii)a telecommunication service;\n(iii)a service of giving the public access to the internet; or\n(iv)a computing resource service."
+   }
+  },
+  {
+   "id": "SG-H3592-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 DIRECTIONS DEALING WITH COMMUNICATION IN SINGAPORE OF FALSE STATEMENTS OF FACT"
+   },
+   "heading": {
+    "en": "Provisions applicable to all Part 3 Directions"
+   },
+   "text": {
+    "en": "13.—(1) A Part 3 Direction may be issued to a person whether the person is in or outside Singapore.\n(2) A Part 3 Direction may require the person to whom it is issued to do an act in or outside Singapore.\n(3) A Part 3 Direction must identify the subject statement in sufficient detail.\n(4) A Part 3 Direction must comply with such form, manner and other requirement as may be prescribed (if any), and for this purpose different requirements may be prescribed for —\n(a)different Directions;\n(b)different parts of a Direction;\n(c)different persons or descriptions of persons to whom a Direction is to be issued; and\n(d)different circumstances under which a Direction is to be issued.\n(5) A Part 3 Direction remains in effect until the date it expires (if any), or it is set aside under section 17 or cancelled under section 19.\n(6) A person who is issued a Part 3 Direction is responsible for the costs of complying with the Direction."
+   }
+  },
+  {
+   "id": "SG-H3592-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 DIRECTIONS DEALING WITH COMMUNICATION IN SINGAPORE OF FALSE STATEMENTS OF FACT"
+   },
+   "heading": {
+    "en": "Service of Part 3 Directions"
+   },
+   "text": {
+    "en": "14. A Part 3 Direction may be served by such means (including electronic means) as may be prescribed —\n(a)on the person to whom it is issued; or\n(b)on a person in Singapore that the person to whom it is issued has appointed to accept service on the person’s behalf."
+   }
+  },
+  {
+   "id": "SG-H3592-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 DIRECTIONS DEALING WITH COMMUNICATION IN SINGAPORE OF FALSE STATEMENTS OF FACT"
+   },
+   "heading": {
+    "en": "Non-compliance with Part 3 Direction an offence"
+   },
+   "text": {
+    "en": "15.—(1) A person to whom a Part 3 Direction is issued and served and who, without reasonable excuse, fails to comply with the Direction whether in or outside Singapore, shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both; or\n(b)in any other case, to a fine not exceeding $500,000.\n(2) It is not a defence to a charge under subsection (1) that —\n(a)the person is subject to a duty under any written law, any rule of law, any contract or any rule of professional conduct, that prevents the person from complying with any part of a Part 3 Direction or restricts the person in such compliance; or\n(b)the person has applied under section 19 to vary or cancel the Part 3 Direction or has appealed to the General Division of the High Court against the Direction.\n[40/2019]\n(3) No civil or criminal liability is incurred by the person or an officer, employee or agent of the person, for doing or omitting to do any act, if the act is done or omitted to be done with reasonable care and in good faith and for the purpose of complying with or giving effect to the Part 3 Direction."
+   }
+  },
+  {
+   "id": "SG-H3592-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 DIRECTIONS DEALING WITH COMMUNICATION IN SINGAPORE OF FALSE STATEMENTS OF FACT"
+   },
+   "heading": {
+    "en": "Access blocking order"
+   },
+   "text": {
+    "en": "16.—(1) This section applies where —\n(a)a person fails to comply with a Part 3 Direction;\n(b)the subject statement is being communicated in Singapore by the person on an online location; and\n(c)the Minister is satisfied that one or more end‑users in Singapore have used or are using the services of an internet access service provider to access that online location.\n(2) The Minister may direct the IMDA to order the internet access service provider to take reasonable steps to disable access by end‑users in Singapore to the online location (called in this section an access blocking order), and the IMDA must give the internet access service provider an access blocking order.\n(3) An internet access service provider that does not comply with any access blocking order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 for each day during any part of which that order is not fully complied with, up to a total of $500,000.\n(4) No civil or criminal liability is incurred by an internet access service provider or an officer, employee or agent of such provider, for anything done or omitted to be done with reasonable care and in good faith in complying with any access blocking order."
+   }
+  },
+  {
+   "id": "SG-H3592-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 DIRECTIONS DEALING WITH COMMUNICATION IN SINGAPORE OF FALSE STATEMENTS OF FACT"
+   },
+   "heading": {
+    "en": "Appeals to General Division of High Court"
+   },
+   "text": {
+    "en": "17.—(1) A person to whom a Part 3 Direction is issued may appeal to the General Division of the High Court against the Direction.\n[40/2019]\n(2) No appeal may be made to the General Division of the High Court by any person unless the person has first applied to the Minister mentioned in section 19 to vary or cancel the Part 3 Direction under that section, and the Minister refused the application whether in whole or in part.\n[40/2019]\n(3) An appeal may only be made to the General Division of the High Court within such period as may be prescribed by Rules of Court.\n[40/2019]\n(4) The General Division of the High Court must hear and determine any such appeal and may either confirm the Part 3 Direction or set it aside.\n[40/2019]\n(5) The General Division of the High Court may only set aside a Part 3 Direction on any of the following grounds on an appeal:\n(a)the person did not communicate in Singapore the subject statement;\n(b)the subject statement is not a statement of fact, or is a true statement of fact;\n(c)it is not technically possible to comply with the Direction.\n[40/2019]\n(6) A Part 3 Direction that is the subject of an appeal under subsection (1) remains in effect despite the appeal, and only ceases to have effect if it is set aside by the General Division of the High Court or the appellate court on appeal from the General Division of the High Court, or if it expires or is cancelled under section 19.\n[40/2019]\n(7) Despite subsection (6), if the appellant establishes a prima facie case that it is technically impossible to comply with the Part 3 Direction, the General Division of the High Court may direct that the Direction be stayed pending determination of the appeal.\n[40/2019]\n(8) There is such further right of appeal from a decision of the General Division of the High Court under this section as exists in the case of a decision made by the General Division of the High Court in the exercise of its original civil jurisdiction.\n[40/2019]\n(9) Rules of Court may provide for the manner in which and the time within which an appeal under subsection (1) may be made and the procedure for an application to stay a Part 3 Direction appealed against."
+   }
+  },
+  {
+   "id": "SG-H3592-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 DIRECTIONS DEALING WITH COMMUNICATION IN SINGAPORE OF FALSE STATEMENTS OF FACT"
+   },
+   "heading": {
+    "en": "Other causes of action not affected"
+   },
+   "text": {
+    "en": "18. The issue of a Part 3 Direction in relation to the subject statement does not affect any power or right of any person (including a Minister, the Competent Authority or the Government) to take any action under this Act or any other law in relation to that statement, or the power of the Public Prosecutor to initiate proceedings for an offence under this Act or any other law in relation to that statement."
+   }
+  },
+  {
+   "id": "SG-H3592-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 DIRECTIONS DEALING WITH COMMUNICATION IN SINGAPORE OF FALSE STATEMENTS OF FACT"
+   },
+   "heading": {
+    "en": "Variation or cancellation of Part 3 Direction"
+   },
+   "text": {
+    "en": "19.—(1) The Minister who instructed the Competent Authority to issue a Part 3 Direction may at any time instruct the Competent Authority to vary or cancel the Part 3 Direction, by serving a written notice on the person to whom the Direction is issued.\n(2) The Minister who instructed the Competent Authority to issue a Part 3 Direction may instruct the Competent Authority to vary or cancel the Part 3 Direction under subsection (1) —\n(a)on the Minister’s own initiative; or\n(b)on an application by the person to whom the Direction is issued.\n(3) A Part 3 Direction remains in effect despite any application made to the Minister for its variation or cancellation.\n(4) Sections 14 to 17 apply in relation to a Part 3 Direction that is varied under this section as they apply in relation to the original Part 3 Direction.\n(5) Section 14 applies in relation to a notice cancelling a Part 3 Direction under this section as it applies in relation to the original Part 3 Direction."
+   }
+  },
+  {
+   "id": "SG-H3592-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 DIRECTIONS TO INTERNET INTERMEDIARIES AND PROVIDERS OF MASS MEDIA SERVICES"
+   },
+   "heading": {
+    "en": "Conditions for issue of Part 4 Directions"
+   },
+   "text": {
+    "en": "20.—(1) Any Minister may instruct the Competent Authority to issue a Part 4 Direction if all of the following conditions are satisfied:\n(a)material (called in this Part the subject material) that contains or consists of a false statement of fact (called in this Part the subject statement) has been or is being communicated in Singapore;\n(b)the Minister is of the opinion that it is in the public interest to issue the Direction.\n(2) Any Minister may instruct the Competent Authority to issue a Part 4 Direction in relation to the subject material even if it has been amended or has ceased to be communicated in Singapore."
+   }
+  },
+  {
+   "id": "SG-H3592-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 DIRECTIONS TO INTERNET INTERMEDIARIES AND PROVIDERS OF MASS MEDIA SERVICES"
+   },
+   "heading": {
+    "en": "Targeted Correction Direction"
+   },
+   "text": {
+    "en": "21.—(1) A Targeted Correction Direction is one issued to the internet intermediary that provided the internet intermediary service by means of which the subject material has been or is being communicated in Singapore, requiring it to communicate by means of that service to all end‑users in Singapore who access the subject material by means of that service at any time after a specified time, a notice (called in this Part a correction notice) that contains one or both of the following:\n(a)a statement, in such terms as may be specified, that the subject statement is false, or that the subject material contains or consists of a false statement of fact;\n(b)a specified statement of fact, or a reference to a specified location where the specified statement of fact may be found, or both.\n(2) Where the internet intermediary mentioned in subsection (1) is a prescribed internet intermediary, the Targeted Correction Direction may also require the internet intermediary to do one or more of the following:\n(a)communicate the correction notice by means of the internet intermediary service to all end‑users in Singapore who access identical copies of the subject material by means of that service at any time after the specified time;\n(b)communicate the correction notice by any means and by a specified time, to all end‑users in Singapore that it knows had accessed the subject material or identical copies of the subject material (or both) by means of that service at any time before the specified time mentioned in subsection (1);\n(c)if the internet intermediary disables access by end‑users in Singapore to the subject material at any time after the Direction is issued and before it expires or is set aside or cancelled, communicate the correction notice by means of the internet intermediary service to a specified description of end‑users in Singapore.\n(3) In this section —\n(a)“specified” means specified in the Targeted Correction Direction; and\n(b)an end‑user who accesses a part of any material is taken to access the material."
+   }
+  },
+  {
+   "id": "SG-H3592-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 DIRECTIONS TO INTERNET INTERMEDIARIES AND PROVIDERS OF MASS MEDIA SERVICES"
+   },
+   "heading": {
+    "en": "Disabling Direction"
+   },
+   "text": {
+    "en": "22.—(1) A Disabling Direction is one issued to the internet intermediary that provided the internet intermediary service by means of which the subject material has been or is being communicated in Singapore, requiring it to disable access by end‑users in Singapore to the subject material provided on or through the service that consists of or contains the subject statement, by the specified time.\n(2) Where the internet intermediary mentioned in subsection (1) is a prescribed internet intermediary, the Disabling Direction may also require the internet intermediary to do one or both of the following:\n(a)to disable access by end‑users of the service in Singapore to identical copies of the subject material provided on or through the internet intermediary service;\n(b)to communicate a correction notice by any means to a specified description of end‑users in Singapore.\n(3) Once a Disabling Direction has been issued, the Competent Authority must publish a notice of that fact in the Gazette as soon as possible.\n(4) However, a failure to publish the notice of the issue of the Disabling Direction in the Gazette does not invalidate the Direction.\n(5) In this section —\n(a)“specified” means specified in the Disabling Direction; and\n(b)an end‑user who accesses a part of any material is taken to access the material."
+   }
+  },
+  {
+   "id": "SG-H3592-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 DIRECTIONS TO INTERNET INTERMEDIARIES AND PROVIDERS OF MASS MEDIA SERVICES"
+   },
+   "heading": {
+    "en": "General Correction Direction"
+   },
+   "text": {
+    "en": "23.—(1) A General Correction Direction is one issued to one of the following persons to carry out an act mentioned in subsection (2):\n(a)a prescribed internet intermediary;\n(b)a prescribed holder of a permit under section 21 of the Newspaper and Printing Presses Act 1974;\n(c)a prescribed broadcasting licensee within the meaning of section 2(1) of the Broadcasting Act 1994;\n(d)a prescribed holder of a licence under section 5 of the Telecommunications Act 1999;\n(e)such other person as may be prescribed.\n(2) The act mentioned in subsection (1) is —\n(a)if the direction is issued to a person mentioned in subsection (1)(a), to communicate a correction notice in Singapore by means of the internet intermediary service provided by it, to all end‑users who use that service at any time after the specified time, or a specified description of such end‑users;\n(b)if the direction is issued to a person mentioned in subsection (1)(b), to publish a correction notice in a specified newspaper or printed publication by the specified time;\n(c)if the direction is issued to a person mentioned in subsection (1)(c), to broadcast a correction notice in Singapore by the specified time;\n(d)if the direction is issued to a person mentioned in subsection (1)(d), to transmit a correction notice by means of the telecommunications service provided by it, to all end‑users who use that service at any time after the specified time, or to a specified description of such end‑users;\n(e)if the direction is issued to a person mentioned in subsection (1)(e), to give a correction notice to a specified person or description of persons, by the specified means and by the specified time.\n(3) In this section, “specified” means specified in the General Correction Direction."
+   }
+  },
+  {
+   "id": "SG-H3592-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 DIRECTIONS TO INTERNET INTERMEDIARIES AND PROVIDERS OF MASS MEDIA SERVICES"
+   },
+   "heading": {
+    "en": "Correction notices must be easily perceived"
+   },
+   "text": {
+    "en": "24.—(1) A person required by a Targeted Correction Direction, Disabling Direction or General Correction Direction to communicate in Singapore, publish, broadcast, transmit by means of a telecommunication service, or give, a correction notice must ensure that it is easily perceived.\n(2) For the purposes of subsection (1) but subject to subsection (3), a correction notice is easily perceived if —\n(a)the notice (not being an audio recording) is conspicuous, regardless of the type of platform or device used by the end‑user or viewer;\nIllustration\nA correction notice that is in a text form is conspicuous if it is sufficiently differentiated from the background and is of a reasonable type size compared to the rest of the text on the same page.\n(b)the notice is easy to read, view or listen to, and not easy to miss;\nIllustrations\n(a) Where the correction notice is an audio recording, it is easy to listen to if it is in a volume and cadence sufficient for it to be heard and understood.\n(b) Where the correction notice is a video recording or a dynamic display, it is easy to view if it appears for a duration sufficient for it to be viewed and understood.\n(c)the notice (not being an audio recording) is placed near the subject statement (where relevant), and in a location where end‑users or viewers are likely to look; and\n(d)an end‑user, viewer or listener is not required to refer to a separate online location or any other thing in order to read, view, listen to or understand the notice;\nExample\nAn example of such requirement is the mere provision of a hyperlink to the correction notice or a part of it.\n(3) Without limiting the manner of complying with subsection (1), a correction notice is taken to be easily perceived if it complies with such measures as may be prescribed.\n(4) If the Minister who instructed the Competent Authority to issue the Direction under subsection (1) is of the view that subsection (1) is not complied with, the Minister may instruct the Competent Authority to order the person to whom the Direction is issued to take, within such time as may be specified, such measures as the Minister considers necessary or desirable to remedy the non‑compliance."
+   }
+  },
+  {
+   "id": "SG-H3592-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 DIRECTIONS TO INTERNET INTERMEDIARIES AND PROVIDERS OF MASS MEDIA SERVICES"
+   },
+   "heading": {
+    "en": "Provisions applicable to all Part 4 Directions and Remedial Orders"
+   },
+   "text": {
+    "en": "25.—(1) A Part 4 Direction or Remedial Order may be issued to a person whether the person is in or outside Singapore.\n(2) A Part 4 Direction or Remedial Order may require a person to whom it is issued to do an act in or outside Singapore.\n(3) A Part 4 Direction must identify in sufficient detail the subject material and the subject statement.\n(4) A Part 4 Direction or Remedial Order remains in effect until the date it expires (if any), it is set aside under section 29 (if applicable) or it is cancelled under section 31.\n(5) A person who is issued a Part 4 Direction or Remedial Order is responsible for the costs of complying with the Direction.\n(6) A person (A) to whom a General Correction Direction is issued may bring civil proceedings in a court against a person (B) who is the author of the subject statement and who communicated in Singapore the subject material, to recover the costs reasonably incurred by A to comply with the Direction.\n(7) In such proceedings, the court, if it is satisfied on a balance of probabilities that B has contravened section 7 when communicating the subject material in Singapore, may award to A such damages for those costs as the court, having regard to all the circumstances of the case, thinks just and equitable."
+   }
+  },
+  {
+   "id": "SG-H3592-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 DIRECTIONS TO INTERNET INTERMEDIARIES AND PROVIDERS OF MASS MEDIA SERVICES"
+   },
+   "heading": {
+    "en": "Service of Part 4 Directions and Remedial Orders"
+   },
+   "text": {
+    "en": "26. A Part 4 Direction or Remedial Order may be served by such means (including electronic means) as may be prescribed —\n(a)on the person to whom it is issued; or\n(b)on a person in Singapore that the person to whom the Part 4 Direction or Remedial Order is issued has appointed to accept service on the person’s behalf."
+   }
+  },
+  {
+   "id": "SG-H3592-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 4 DIRECTIONS TO INTERNET INTERMEDIARIES AND PROVIDERS OF MASS MEDIA SERVICES"
+   },
+   "heading": {
+    "en": "Non-compliance with Part 4 Direction or Remedial Order an offence"
+   },
+   "text": {
+    "en": "27.—(1) A person to whom a Part 4 Direction or Remedial Order is issued and served and who, without reasonable excuse, fails to comply with the Direction or Order whether in or outside Singapore, shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both; or\n(b)in any other case, to a fine not exceeding $1 million,\nand, in the case of a continuing offence, to a further fine not exceeding $100,000 for every day or part of a day during which the offence continues after conviction.\n(2) To avoid doubt, a person does not fail to comply with a Targeted Correction Direction, Disabling Direction or General Correction Direction merely by failing to comply with section 24(1).\n(3) It is not a defence to a charge under subsection (1) that —\n(a)the person is subject to a duty under any written law, any rule of law, any contract or any rule of professional conduct, that prevents the person from complying with any part of a Part 4 Direction or Remedial Order or restricts the person in such compliance; or\n(b)the person has applied under section 31 to vary or cancel the Direction or Order or has appealed to the General Division of the High Court against the Direction.\n[40/2019]\n(4) No civil or criminal liability is incurred by a person or an officer, employee or agent of the person, for doing or omitting to do any act, if the act is done or omitted to be done with reasonable care and in good faith and for the purpose of complying with or giving effect to the Part 4 Direction or Remedial Order.\n(5) In determining whether a person charged with an offence under subsection (1) has a reasonable excuse for failing to comply with a Part 4 Direction or Remedial Order, the court must consider —\n(a)the state of the art available to give effect to the Direction or Order;\n(b)the cost of complying with the Direction or Order relative to the means available to the person; and\n(c)any other relevant factor."
+   }
+  },
+  {
+   "id": "SG-H3592-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 4 DIRECTIONS TO INTERNET INTERMEDIARIES AND PROVIDERS OF MASS MEDIA SERVICES"
+   },
+   "heading": {
+    "en": "Access blocking order"
+   },
+   "text": {
+    "en": "28.—(1) This section applies where —\n(a)a person that is an internet intermediary fails to comply with a Part 4 Direction or Remedial Order;\n(b)the subject material is being communicated in Singapore on an online location; and\n(c)the Minister is satisfied that one or more end‑users in Singapore have used or are using the services of an internet access service provider to access that online location.\n(2) The Minister may direct the IMDA to order the internet access service provider to take reasonable steps to disable access by end‑users in Singapore to the online location (called in this section an access blocking order), and the IMDA must give the internet access service provider an access blocking order.\n(3) An internet access service provider that does not comply with an access blocking order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 for each day during any part of which that order is not fully complied with, up to a total of $500,000.\n(4) No civil or criminal liability is incurred by an internet access service provider or an officer, employee or agent of such provider, for anything done or omitted to be done with reasonable care and in good faith in complying with any access blocking order."
+   }
+  },
+  {
+   "id": "SG-H3592-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 4 DIRECTIONS TO INTERNET INTERMEDIARIES AND PROVIDERS OF MASS MEDIA SERVICES"
+   },
+   "heading": {
+    "en": "Appeals to General Division of High Court"
+   },
+   "text": {
+    "en": "29.—(1) The following persons may appeal to the General Division of the High Court against any Part 4 Direction:\n(a)the person to whom the Direction is issued;\n(b)a person who communicated in Singapore the subject material.\n[40/2019]\n(2) No appeal may be made to the General Division of the High Court by any person unless the person has first applied to the Minister mentioned in section 31 to vary or cancel the Part 4 Direction under that section, and the Minister refused the application either in whole or in part.\n[40/2019]\n(3) An appeal may only be made to the General Division of the High Court within such period as may be prescribed by Rules of Court.\n[40/2019]\n(4) The General Division of the High Court must hear and determine any such appeal and may either confirm the Part 4 Direction or set it aside.\n[40/2019]\n(5) The General Division of the High Court may only set aside a Part 4 Direction on any of the following grounds on an appeal by the person to whom the Direction is issued:\n(a)in the case of a Targeted Correction Direction or a Disabling Direction, the subject material was not communicated in Singapore, or was not communicated in Singapore by means of any internet intermediary service provided by the person;\n(b)the subject statement is not a statement of fact, or is a true statement of fact;\n(c)it is not technically possible to comply with the Direction.\n[40/2019]\n(6) The General Division of the High Court may only set aside a Part 4 Direction on an appeal by a person who communicated in Singapore the subject material, on the ground that the subject statement is not a statement of fact, or is a true statement of fact.\n[40/2019]\n(7) A Part 4 Direction that is the subject of an appeal under subsection (1) remains in effect despite the appeal, and only ceases to have effect if it is set aside by the General Division of the High Court or the appellate court on appeal from the General Division of the High Court, or if it expires or is cancelled under section 31.\n[40/2019]\n(8) Despite subsection (7), if the appellant (being the person to whom the Part 4 Direction is issued) establishes a prima facie case that it is technically impossible to comply with the Part 4 Direction, the General Division of the High Court may direct that the Direction be stayed pending determination of the appeal.\n[40/2019]\n(9) There is such further right of appeal from a decision of the General Division of the High Court under this section as exists in the case of a decision made by the General Division of the High Court in the exercise of its original civil jurisdiction.\n[40/2019]\n(10) Rules of Court may provide for the manner in which and the time within which an appeal under subsection (1) may be made and the procedure for an application to stay a Part 4 Direction appealed against."
+   }
+  },
+  {
+   "id": "SG-H3592-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 4 DIRECTIONS TO INTERNET INTERMEDIARIES AND PROVIDERS OF MASS MEDIA SERVICES"
+   },
+   "heading": {
+    "en": "Other causes of action not affected"
+   },
+   "text": {
+    "en": "30. The issue of a Part 4 Direction or Remedial Order in relation to any material does not affect any power or right of any person (including a Minister, the Competent Authority or the Government) to take any action under this Act or any other law in relation to the subject statement, or the power of the Public Prosecutor to initiate proceedings for an offence under this Act or any other law in relation to that statement."
+   }
+  },
+  {
+   "id": "SG-H3592-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 4 DIRECTIONS TO INTERNET INTERMEDIARIES AND PROVIDERS OF MASS MEDIA SERVICES"
+   },
+   "heading": {
+    "en": "Variation or cancellation of Part 4 Direction or Remedial Order"
+   },
+   "text": {
+    "en": "31.—(1) The Minister who instructed the Competent Authority to issue a Part 4 Direction or Remedial Order may at any time instruct the Competent Authority to vary or cancel the Part 4 Direction or Remedial Order, by serving a written notice on the person to whom the Direction or Order is issued.\n(2) The Minister who instructed the Competent Authority to issue a Part 4 Direction or Remedial Order may instruct the Competent Authority to vary or cancel the Direction or Order under subsection (1) —\n(a)on the Minister’s own initiative; or\n(b)on an application by —\n(i)the person to whom the Direction or Order is issued; or\n(ii)a person who communicated in Singapore the subject material.\n(3) A Part 4 Direction or Remedial Order remains in effect despite any application made to the Minister for its variation or cancellation.\n(4) Sections 26, 27 and 28 apply in relation to a Part 4 Direction or Remedial Order that is varied under this section as they apply in relation to the original Part 4 Direction or Remedial Order.\n(5) Section 29 applies in relation to a Part 4 Direction that is varied under this section as it applies in relation to the original Part 4 Direction.\n(6) Section 26 applies in relation to a notice cancelling a Part 4 Direction or Remedial Order under this section as it applies in relation to the original Part 4 Direction or Remedial Order."
+   }
+  },
+  {
+   "id": "SG-H3592-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 5 DECLARATION OF ONLINE LOCATIONS"
+   },
+   "heading": {
+    "en": "Declared online locations"
+   },
+   "text": {
+    "en": "32.—(1) The Minister may declare an online location as a declared online location if all of the following conditions are satisfied:\n(a)3 or more different statements that are the subject of one or more active Part 3 Directions or Part 4 Directions, or both, have been or are being communicated in Singapore on the online location;\n(b)at least 3 of those statements had first been communicated in Singapore on the online location within 6 months before the date the Declaration is made.\n(2) For the purpose of subsection (1)(a), a statement is different from another if it is different in a material particular from that other statement.\n(3) A Declaration —\n(a)must contain the Universal Resource Locator (URL), domain name, or any other unique identifier of the online location;\n(b)must reproduce the relevant Directions;\n(c)must state the date the Declaration comes into effect;\n(d)must state the date of the Declaration’s expiry or a formula by which that date may be worked out, which must not be later than 2 years after the date in paragraph (c);\n(e)may state the time on that date the Declaration is to expire or a formula by which that time may be worked out;\n(f)may require the owner or operator of the online location (whether or not he or she is in or outside Singapore) to communicate in the specified manner in Singapore to any end‑user who accesses the online location, a notice in the specified terms that the online location is the subject of a Declaration; and\n(g)must contain such other particulars as may be prescribed.\n(4) A Declaration expires —\n(a)on the date and at the time (if any) stated in, or worked out in accordance with, the Declaration; or\n(b)on the date it is cancelled or set aside,\nwhichever is earlier.\n(5) As soon as possible after a Declaration is made and before the date it comes into effect, the Competent Authority must —\n(a)publish, in such form and manner as may be prescribed, a notice in the Gazette —\n(i)stating that a Declaration has been issued under this section; and\n(ii)setting out the URL, domain name, or any other unique identifier of the online location, to which the Declaration relates; and\n(b)make reasonable efforts to give a copy of the Declaration to the owner or operator of the declared online location.\n(6) The owner or operator of a declared online location who fails to comply with any requirement mentioned in subsection (3)(f) whether in or outside Singapore, shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 3 years or to both; or\n(b)in any other case, to a fine not exceeding $500,000.\n(7) It is a defence to a charge under subsection (6) for the accused to prove that the accused did not know and had no reason to believe that a Declaration was made in relation to the online location.\n(8) The Minister may at any time suspend a Declaration for such period as the Minister may determine, or vary or cancel a Declaration.\n(9) The Minister may suspend, vary or cancel a Declaration —\n(a)on the Minister’s own initiative; or\n(b)on an application by —\n(i)the owner or operator of the declared online location; or\n(ii)any person with editorial control over the online location.\n(10) As soon as possible after a Declaration is suspended, varied or cancelled, the Competent Authority must —\n(a)publish, in such form and manner as may be prescribed, a notice of the suspension, variation or cancellation in the Gazette; and\n(b)make reasonable efforts to give a copy of such notice to the owner or operator of the declared online location.\n(11) Regulations may be made under section 62 to prescribe the reasonable efforts required to be made under subsections (5)(b) and (10)(b).\n(12) For the purposes of subsection (1) —\n(a)“active”, in relation to a Part 3 Direction or Part 4 Direction, means that the Part 3 Direction or Part 4 Direction (as the case may be) has not been set aside at the time the Declaration mentioned in subsection (1) is made;\n(b)where a statement of fact is communicated in Singapore on —\n(i)an online location bearing a sub‑domain name that is part of a domain name; or\n(ii)a sub‑directory of a website,\nthe Minister may treat the statement as being communicated on the online location that bears that domain name, or on that website, as the case may be; and\nExamples\n(a) The Minister may treat a statement communicated on abc.example.com as being communicated on example.com.\n(b) The Minister may treat a statement communicated on www.example.com/abc as being communicated on www.example.com.\n(c)where the statements mentioned in subsection (1) are duplicated on another online location (called in this paragraph the mirrored location), each mirrored location is to be regarded as part of the original online location."
+   }
+  },
+  {
+   "id": "SG-H3592-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 5 DECLARATION OF ONLINE LOCATIONS"
+   },
+   "heading": {
+    "en": "Access blocking order"
+   },
+   "text": {
+    "en": "33.—(1) This section applies where —\n(a)paid content included on a declared online location is communicated in Singapore after a prescribed period starting on the date the Declaration concerned came into effect; and\n(b)the Minister is satisfied that after the date the Declaration came into effect, one or more end‑users in Singapore have used or are using the services of an internet access service provider to access the declared online location.\n(2) This section also applies where —\n(a)the owner or operator of a declared online location did not comply with a requirement mentioned in section 32(3)(f) that is specified in the Declaration concerned; and\n(b)the Minister is satisfied that after the date the Declaration came into effect, one or more end‑users in Singapore have used or are using the services of an internet access service provider to access the declared online location.\n(3) The Minister may direct the IMDA to order the internet access service provider to take reasonable steps to disable access by end‑users in Singapore to the declared online location (called in this section an access blocking order), and the IMDA must give the internet access service provider an access blocking order.\n(4) An internet access service provider that fails to comply with an access blocking order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 for each day during any part of which that order is not fully complied with, up to a total of $500,000.\n(5) No civil or criminal liability is incurred by an internet access service provider or an officer, employee or agent of such provider, for anything done or omitted to be done with reasonable care and in good faith in complying with an access blocking order."
+   }
+  },
+  {
+   "id": "SG-H3592-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 5 DECLARATION OF ONLINE LOCATIONS"
+   },
+   "heading": {
+    "en": "Order to internet intermediary to disable access to declared online location"
+   },
+   "text": {
+    "en": "34.—(1) This section applies where —\n(a)paid content included on a declared online location is communicated in Singapore after a prescribed period starting on the date the Declaration concerned came into effect;\n(b)the Minister is satisfied that after the date the Declaration came into effect, one or more end‑users in Singapore have used or are using the services of an internet intermediary to access the declared online location; and\n(c)the internet intermediary has control over access by end‑users in any place to the declared online location.\n(2) This section also applies where —\n(a)the owner or operator of a declared online location did not comply with a requirement mentioned in section 32(3)(f) that is specified in the Declaration concerned;\n(b)the Minister is satisfied that after the date the Declaration came into effect, one or more end‑users in Singapore have used or are using the services of an internet intermediary to access the declared online location; and\n(c)the internet intermediary has control over access by end‑users in any place to the declared online location.\n(3) The Minister may direct the Competent Authority to order the internet intermediary to disable access by end‑users in Singapore to the declared online location, and the Competent Authority must give the internet intermediary such order.\n(4) An order of the Competent Authority under subsection (3) may be issued to a person whether the person is in or outside Singapore, and may require the person to do an act in or outside Singapore.\n(5) An internet intermediary that fails to comply with an order of the Competent Authority under subsection (3) whether in or outside Singapore, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 for each day during any part of which that order is not fully complied with, up to a total of $500,000.\n(6) No civil or criminal liability is incurred by an internet intermediary or an officer, employee or agent of such intermediary, for anything done or omitted to be done with reasonable care and in good faith in complying with an order under subsection (3)."
+   }
+  },
+  {
+   "id": "SG-H3592-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 5 DECLARATION OF ONLINE LOCATIONS"
+   },
+   "heading": {
+    "en": "Appeals to General Division of High Court"
+   },
+   "text": {
+    "en": "35.—(1) The following persons may appeal to the General Division of the High Court against a Declaration:\n(a)the owner or operator of the declared online location;\n(b)any person with editorial control over the online location.\n[40/2019]\n(2) No appeal may be made to the General Division of the High Court by any person unless the person has first applied to the Minister to vary or cancel the Declaration under section 32(9), and the Minister refused the application whether in whole or in part.\n[40/2019]\n(3) An appeal may only be made to the General Division of the High Court within such period as may be prescribed by Rules of Court.\n[40/2019]\n(4) The General Division of the High Court must hear and determine any such appeal and may either confirm the Declaration or set it aside.\n[40/2019]\n(5) The General Division of the High Court may only set aside a Declaration on the ground that, at the time of making the Declaration, the condition specified in section 32(1)(a) or (b) was not satisfied.\n[40/2019]\n(6) A Declaration that is the subject of an appeal under subsection (1) remains in effect despite the appeal, and only ceases to have effect if it is set aside by the General Division of the High Court or the appellate court on appeal from the General Division of the High Court, or if it expires or is cancelled under section 32(8).\n[40/2019]\n(7) There is such further right of appeal from a decision of the General Division of the High Court under this section as exists in the case of a decision made by the General Division of the High Court in the exercise of its original civil jurisdiction.\n[40/2019]\n(8) Rules of Court may provide for the manner in which and the time within which an appeal under subsection (1) may be made."
+   }
+  },
+  {
+   "id": "SG-H3592-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 5 DECLARATION OF ONLINE LOCATIONS"
+   },
+   "heading": {
+    "en": "Deriving benefit from operating declared online location"
+   },
+   "text": {
+    "en": "36.—(1) A person who, whether in or outside Singapore, solicits, receives or agrees to receive any financial or other material benefit as an inducement or reward for operating a declared online location shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 3 years or to both; or\n(b)in any other case, to a fine not exceeding $500,000.\n(2) Without limiting the generality of the expression, a person receives financial or other material benefit as an inducement or reward for the operation of an online location if the person receives from another —\n(a)any consideration for the sale of advertising space on the online location; or\n(b)any consideration for access to any part of the online location.\n(3) It is a defence to a charge under subsection (1) for the accused to prove that the accused did not know and had no reason to believe that the online location was a declared online location.\n(4) Where a court convicts any person of an offence under subsection (1), the court must, in addition to imposing on that person the punishment in that subsection, order the person to pay as a penalty, within the time specified by the court, a sum equal to the amount of any financial or other material benefit received or the amount that in the court’s opinion is the value of that financial or other material benefit, and any such penalty is recoverable as a fine.\n(5) Subsection (4) does not apply if the court determines that the value of the financial or other material benefit cannot be assessed.\n(6) Where —\n(a)a person charged with 2 or more offences under subsection (1) is convicted of one or more of those offences; and\n(b)the other outstanding offences are taken into consideration by the court under section 148 of the Criminal Procedure Code 2010 for the purpose of passing sentence,\nthe court may increase the penalty mentioned in subsection (4) by an amount not exceeding the total amount or value of the financial or other material benefit received for the offences so taken into consideration.\n(7) In this section, a person is not taken to operate an online location if the person does so merely as part of providing an internet intermediary service or incidentally to such provision."
+   }
+  },
+  {
+   "id": "SG-H3592-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 5 DECLARATION OF ONLINE LOCATIONS"
+   },
+   "heading": {
+    "en": "Certain persons must not communicate in Singapore paid content on declared online locations, etc."
+   },
+   "text": {
+    "en": "37.—(1) A service provider must take reasonable steps (both in and outside Singapore) to ensure that after a prescribed period starting on the date the Declaration comes into effect, any paid content that it includes or causes to be included on a declared online location is not communicated in Singapore on the declared online location.\n(2) A digital advertising intermediary must take reasonable steps (both in and outside Singapore) to ensure that, after a prescribed period starting on the date the Declaration comes into effect, any paid content that it includes or causes to be included on a declared online location is not communicated in Singapore on the declared online location.\n(3) A prescribed digital advertising intermediary or prescribed internet intermediary must take reasonable steps (both in and outside Singapore) to ensure that, after a prescribed period starting on the date the Declaration comes into effect, it does not, when acting as a digital advertising intermediary or an internet intermediary, facilitate the communication in Singapore of any paid content that gives publicity to, or otherwise promotes, a declared online location.\n(4) A service provider or digital advertising intermediary is treated for the purposes of subsection (1) or (2) (as the case may be) as having taken reasonable steps to ensure that any paid content that it includes or causes to be included on a declared online location is not communicated in Singapore on the declared online location if it has taken such steps as may be prescribed by regulations made under section 62.\n(5) A prescribed digital advertising intermediary or prescribed internet intermediary is treated for the purposes of subsection (3) as having taken reasonable steps to ensure that it does not facilitate the communication in Singapore of any paid content mentioned in that subsection if it has taken such steps as may be prescribed by regulations made under section 62.\n(6) A person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both; or\n(b)in any other case, to a fine not exceeding $500,000.\n(7) In any proceeding for an offence under subsection (1), (2) or (3), it is a defence for the accused to prove that the accused did not know and had no reason to believe that the online location was a declared online location.\n(8) In any proceeding for an offence under subsection (1), (2) or (3), it is not a defence for the accused to show that —\n(a)the accused did the act in question at the direction of another person; or\n(b)the paid content was communicated in Singapore by its inclusion on any online location through an automatic process without the accused choosing where the paid content is communicated, except as an automatic response to the request of a person."
+   }
+  },
+  {
+   "id": "SG-H3592-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 5 DECLARATION OF ONLINE LOCATIONS"
+   },
+   "heading": {
+    "en": "Prohibition on providing financial support to declared online locations"
+   },
+   "text": {
+    "en": "38.—(1) A person must not, whether in or outside Singapore, expend or apply any property knowing or having reason to believe that the expenditure or application supports, helps or promotes the communication of false statements of fact in Singapore on a declared online location.\n(2) Subsection (1) does not apply to a service provider or a digital advertising intermediary which gives any consideration for the purpose of communicating any paid content in Singapore on the declared online location.\n(3) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 3 years or to both; or\n(b)in any other case, to a fine not exceeding $500,000.\n(4) In this section, “property” means money and all other property, movable or immovable, including things in action and other intangible or incorporeal property."
+   }
+  },
+  {
+   "id": "SG-H3592-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 5 DECLARATION OF ONLINE LOCATIONS"
+   },
+   "heading": {
+    "en": "Sections 36, 37 and 38 have effect despite other laws, etc."
+   },
+   "text": {
+    "en": "39.—(1) It is not a defence to a charge under section 36, 37 or 38 that the accused is subject to any duty under any written law, any rule of law, any contract or any rule of professional conduct, that prevents the person from complying with that section or restricts the person in such compliance.\n(2) No civil or criminal liability is incurred by the person or an officer, employee or agent of the person for doing or omitting to do any act, if the act is done or omitted to be done with reasonable care and in good faith and for the purpose of complying with section 36, 37 or 38."
+   }
+  },
+  {
+   "id": "SG-H3592-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 6 DIRECTIONS TO COUNTERACT INAUTHENTIC ONLINE ACCOUNTS AND COORDINATED INAUTHENTIC BEHAVIOUR"
+   },
+   "heading": {
+    "en": "Account Restriction Direction"
+   },
+   "text": {
+    "en": "40.—(1) If the conditions in subsection (2) are satisfied, any Minister may instruct the Competent Authority to issue a direction to a prescribed internet intermediary requiring it to do one or both of the following:\n(a)disallow its services from being used to communicate any statement in Singapore through one or more specified online accounts;\n(b)disallow any person from using one or more specified online accounts to interact with any end‑user of its internet intermediary service in Singapore.\n(2) The conditions mentioned in subsection (1) are —\n(a)the specified online account or accounts (called in this Part the specified online account) is or are created with the prescribed internet intermediary;\n(b)either —\n(i)a false statement of fact (called in this Part the subject statement) has been communicated in Singapore using the specified online account; or\n(ii)coordinated inauthentic behaviour (called in this Part the subject behaviour) has been carried out using the specified online account;\n(c)the Minister in subsection (1) has determined that the specified online account is an inauthentic online account or is controlled by a bot; and\n(d)the Minister in subsection (1) is of the opinion that it is in the public interest to issue the Account Restriction Direction.\n(3) An Account Restriction Direction may specify that it has effect —\n(a)indefinitely; or\n(b)for a specified period not exceeding 3 months.\n(4) In determining whether an online account is an inauthentic online account or is controlled by a bot, the Minister must have regard to the following factors:\n(a)whether any information used in creating the online account relates to a country or territory that is not the country or territory that the holder of the account is purportedly from;\n(b)whether there is a pattern of suspicious activity carried out using the online account;\n(c)the date on which the online account was created;\n(d)any other factor that the Minister considers relevant.\n(5) An Account Restriction Direction must identify in sufficient detail the subject statement or the subject behaviour, as the case may be.\n(6) An Account Restriction Direction may require the prescribed internet intermediary to which it is issued to do an act in or outside Singapore.\n(7) A prescribed internet intermediary is responsible for the costs of complying with an Account Restriction Direction issued to it.\n(8) In this section, “specified” means specified in the Account Restriction Direction."
+   }
+  },
+  {
+   "id": "SG-H3592-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 6 DIRECTIONS TO COUNTERACT INAUTHENTIC ONLINE ACCOUNTS AND COORDINATED INAUTHENTIC BEHAVIOUR"
+   },
+   "heading": {
+    "en": "Service of Account Restriction Directions"
+   },
+   "text": {
+    "en": "41. An Account Restriction Direction may be served by such means (including electronic means) as may be prescribed —\n(a)on the prescribed internet intermediary to whom it is issued; or\n(b)on a person in Singapore that the prescribed internet intermediary has appointed to accept service on the internet intermediary’s behalf."
+   }
+  },
+  {
+   "id": "SG-H3592-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 6 DIRECTIONS TO COUNTERACT INAUTHENTIC ONLINE ACCOUNTS AND COORDINATED INAUTHENTIC BEHAVIOUR"
+   },
+   "heading": {
+    "en": "Non-compliance with Account Restriction Direction an offence"
+   },
+   "text": {
+    "en": "42.—(1) A prescribed internet intermediary to whom an Account Restriction Direction is issued and served, and who, without reasonable excuse, fails to comply with the Direction whether in or outside Singapore, shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both; or\n(b)in any other case, to a fine not exceeding $1 million,\nand, in the case of a continuing offence, to a further fine not exceeding $100,000 for every day or part of a day during which the offence continues after conviction.\n(2) It is not a defence to a charge under subsection (1) that —\n(a)the prescribed internet intermediary is subject to a duty under any written law, any rule of law, any contract or any rule of professional conduct, that prevents the internet intermediary from complying with any part of the Account Restriction Direction or restricts the internet intermediary in such compliance; or\n(b)the prescribed internet intermediary has applied under section 46 to vary or cancel the Direction or has appealed to the General Division of the High Court against the Direction.\n[40/2019]\n(3) No civil or criminal liability is incurred by the prescribed internet intermediary or an officer, employee or agent of the internet intermediary, for doing or omitting to do any act, if the act is done or omitted to be done with reasonable care and in good faith and for the purpose of complying with or giving effect to the Account Restriction Direction.\n(4) In determining whether a person charged with an offence under subsection (1) has a reasonable excuse for failing to comply with an Account Restriction Direction, the court must consider —\n(a)the state of the art available to give effect to the Direction;\n(b)the cost of complying with the Direction relative to the means available to the person; and\n(c)any other relevant factor."
+   }
+  },
+  {
+   "id": "SG-H3592-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 6 DIRECTIONS TO COUNTERACT INAUTHENTIC ONLINE ACCOUNTS AND COORDINATED INAUTHENTIC BEHAVIOUR"
+   },
+   "heading": {
+    "en": "Access blocking order"
+   },
+   "text": {
+    "en": "43.—(1) This section applies where —\n(a)an internet intermediary fails to comply with an Account Restriction Direction;\n(b)either —\n(i)the subject statement was or is being communicated in Singapore on an online location; or\n(ii)the subject behaviour took place or is taking place on an online location;\n(c)the internet intermediary has control over access by end‑users in any place to that online location; and\n(d)the Minister is satisfied that one or more end‑users in Singapore have used or are using the services of an internet access service provider to access that online location.\n(2) The Minister may direct the IMDA to order the internet access service provider to take reasonable steps to disable access by end‑users in Singapore to the online location (called in this section an access blocking order), and the IMDA must give the internet access service provider an access blocking order.\n(3) An internet access service provider that does not comply with an access blocking order under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 for each day during any part of which that order is not fully complied with, up to a total of $500,000 for each offence.\n(4) No civil or criminal liability is incurred by an internet access service provider or an officer, employee or agent of such provider, for anything done or omitted to be done with reasonable care and in good faith in complying with an access blocking order."
+   }
+  },
+  {
+   "id": "SG-H3592-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 6 DIRECTIONS TO COUNTERACT INAUTHENTIC ONLINE ACCOUNTS AND COORDINATED INAUTHENTIC BEHAVIOUR"
+   },
+   "heading": {
+    "en": "Appeals to General Division of High Court"
+   },
+   "text": {
+    "en": "44.—(1) The following persons may appeal to the General Division of the High Court against an Account Restriction Direction:\n(a)the prescribed internet intermediary to whom the Direction is issued;\n(b)the holder of the specified online account or any other person with control over the specified online account.\n[40/2019]\n(2) No appeal may be made to the General Division of the High Court by any person unless the person has first applied to the Minister mentioned in section 46 to vary or cancel the Account Restriction Direction under that section, and the Minister refused the application whether in whole or in part.\n[40/2019]\n(3) An appeal may only be made to the General Division of the High Court within such period as may be prescribed by Rules of Court.\n[40/2019]\n(4) The General Division of the High Court must hear and determine any such appeal and may either confirm the Account Restriction Direction or set it aside.\n[40/2019]\n(5) The General Division of the High Court may only set aside an Account Restriction Direction on any of the following grounds on an appeal by the prescribed internet intermediary:\n(a)the specified online account has not been used to communicate in Singapore the subject statement or carry out the subject behaviour;\n(b)either of the following (whichever is applicable):\n(i)the subject statement is not a statement of fact, or is a true statement of fact;\n(ii)the subject behaviour is not a coordinated inauthentic behaviour;\n(c)it is not technically possible to comply with the Direction.\n[40/2019]\n(6) The General Division of the High Court may only set aside an Account Restriction Direction on any of the following grounds on an appeal by the holder of, or the person having control over, the specified online account:\n(a)the specified online account had not been used to communicate in Singapore the subject statement or carry out the subject behaviour;\n(b)either of the following (whichever is applicable):\n(i)the subject statement is not a statement of fact, or is a true statement of fact;\n(ii)the subject behaviour is not a coordinated inauthentic behaviour;\n(c)the account is not an inauthentic online account or controlled by a bot, as the case may be.\n[40/2019]\n(7) An Account Restriction Direction that is the subject of an appeal under subsection (1) remains in effect despite the appeal, and only ceases to have effect if it is set aside by the General Division of the High Court or the appellate court on appeal from the General Division of the High Court, or if it expires or is cancelled under section 46.\n[40/2019]\n(8) Despite subsection (7), if the appellant (being the prescribed internet intermediary) establishes a prima facie case that it is technically impossible to comply with the Account Restriction Direction, the General Division of the High Court may direct that the Direction be stayed pending determination of the appeal.\n[40/2019]\n(9) There is such further right of appeal from a decision of the General Division of the High Court under this section as exists in the case of a decision made by the General Division of the High Court in the exercise of its original civil jurisdiction.\n[40/2019]\n(10) Rules of Court may provide for the manner in which and the time within which an appeal under subsection (1) may be made and for the procedure for an application to stay an Account Restriction Direction appealed against."
+   }
+  },
+  {
+   "id": "SG-H3592-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 6 DIRECTIONS TO COUNTERACT INAUTHENTIC ONLINE ACCOUNTS AND COORDINATED INAUTHENTIC BEHAVIOUR"
+   },
+   "heading": {
+    "en": "Other causes of action not affected"
+   },
+   "text": {
+    "en": "45. The issue of a Direction in relation to an inauthentic online account does not affect any power or right of any person (including a Minister, the Competent Authority or the Government) to take any other action under this Act or any other law in relation to that account, or the power of the Public Prosecutor to initiate proceedings for an offence under this Act or any other law in relation to that account."
+   }
+  },
+  {
+   "id": "SG-H3592-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 6 DIRECTIONS TO COUNTERACT INAUTHENTIC ONLINE ACCOUNTS AND COORDINATED INAUTHENTIC BEHAVIOUR"
+   },
+   "heading": {
+    "en": "Variation or cancellation of Account Restriction Direction"
+   },
+   "text": {
+    "en": "46.—(1) The Minister who instructed the Competent Authority to issue an Account Restriction Direction may at any time instruct the Competent Authority to vary or cancel an Account Restriction Direction, by serving a written notice on the prescribed internet intermediary to whom the Direction is issued.\n(2) The Minister may instruct the Competent Authority to vary or cancel an Account Restriction Direction under subsection (1) —\n(a)on the Minister’s own initiative; or\n(b)on an application by —\n(i)the prescribed internet intermediary to whom the Direction is issued; or\n(ii)the holder of the specified online account or any other person with control over the specified online account.\n(3) Sections 41 to 44 apply in relation to an Account Restriction Direction that is varied under this section as they apply in relation to the original Direction.\n(4) Section 41 applies in relation to the notice cancelling the Account Restriction Direction under this section as it applies in relation to the original Direction."
+   }
+  },
+  {
+   "id": "SG-H3592-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 7 OTHER MEASURES"
+   },
+   "heading": {
+    "en": "Prescribed digital advertising intermediary or internet intermediary to disable access in Singapore to certain paid content"
+   },
+   "text": {
+    "en": "47.—(1) A prescribed digital advertising intermediary or prescribed internet intermediary must take reasonable steps (both in and outside Singapore) to ensure that it does not, when acting as a digital advertising intermediary or an internet intermediary, facilitate the communication in Singapore of any paid content that gives publicity to or otherwise promotes an online location that includes the statement or material that is the subject of a Part 3 Direction or Part 4 Direction.\n(2) The Minister may instruct the Competent Authority to direct a prescribed digital advertising intermediary or prescribed internet intermediary to designate a channel by which the Competent Authority may notify it of any online location that includes a false statement of fact that is the subject of a Part 3 Direction or Part 4 Direction.\n(3) A prescribed digital advertising intermediary or prescribed internet intermediary is treated for the purposes of subsection (1) as having taken reasonable steps to ensure that it does not facilitate the communication in Singapore of any paid content mentioned in that subsection if it has taken such steps as may be prescribed by regulations made under section 62.\n(4) A prescribed digital advertising intermediary or prescribed internet intermediary that contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both; or\n(b)in any other case, to a fine not exceeding $500,000."
+   }
+  },
+  {
+   "id": "SG-H3592-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 7 OTHER MEASURES"
+   },
+   "heading": {
+    "en": "Codes of practice"
+   },
+   "text": {
+    "en": "48.—(1) The Competent Authority may issue one or more codes of practice applicable to one or both of the following:\n(a)prescribed digital advertising intermediaries or prescribed types of digital advertising intermediaries;\n(b)prescribed internet intermediaries or prescribed types of internet intermediaries,\nfor the purpose of enhancing disclosure of the sponsor and other information concerning any paid content that is directed towards a political end, that is communicated in Singapore.\n(2) The Competent Authority may issue one or more codes of practice applicable to prescribed internet intermediaries or prescribed types of internet intermediaries, for one or more of the following purposes:\n(a)to detect, control and safeguard against coordinated inauthentic behaviour and any other misuse of online accounts;\n(b)to give prominence to credible sources of information;\n(c)to not give prominence to a declared online location and an online location that is or that contains —\n(i)a statement of fact that is the subject of a Part 3 Direction; or\n(ii)any material that is the subject of a Part 4 Direction.\n(3) Without limiting subsections (1) and (2), a code of practice may —\n(a)require a digital advertising intermediary or an internet intermediary to carry out specified due diligence measures before entering into an agreement to communicate in Singapore any paid content that is directed towards a political end;\n(b)require a digital advertising intermediary or an internet intermediary to disclose to the public, or a specified description of persons, any paid content communicated in Singapore that is directed towards a political end, and to maintain and make available to the public, or a specified description of persons, a record of all such paid content;\n(c)require an internet intermediary to carry out specified due diligence measures for the detection of coordinated inauthentic behaviour involving online accounts created with it and to safeguard against any misuse of such online accounts;\n(d)require an internet intermediary to carry out specified due diligence measures to safeguard against any misrepresentation of the identity of an end‑user and to safeguard against any misuse of bots;\n(e)require an internet intermediary to report to the Competent Authority any knowledge or suspicion of any coordinated inauthentic behaviour;\n(f)require a digital advertising intermediary or an internet intermediary to report to the Competent Authority any knowledge or suspicion of any misuse of services provided by the digital advertising intermediary or internet intermediary to facilitate the communication of paid content in Singapore;\n(g)require a digital advertising intermediary or an internet intermediary to designate a channel by which the Competent Authority may notify it of any Declaration, Part 3 Direction or Part 4 Direction;\n(h)require a digital advertising intermediary or an internet intermediary to keep specified records, and to provide specified reports to the Competent Authority at a specified frequency, regarding its compliance with any part of the code of practice;\n(i)require a digital advertising intermediary or an internet intermediary to put in place measures to detect non‑compliance with any specified due diligence measures, to keep specified records, and to provide specified reports to the Competent Authority within a specified time of such non‑compliance; and\n(j)require measures in the code of practice to be taken in or outside Singapore, or both.\n(4) The Competent Authority may, at any time —\n(a)vary a code of practice (including by adding anything to it) with respect to any purpose specified in subsection (1) or (2), as the case may be; or\n(b)revoke a code of practice.\n(5) If any provision in a code of practice is inconsistent with any provision of this Act, that provision —\n(a)is to have effect subject to this Act; or\n(b)having regard to this Act, is not to have effect.\n(6) Subject to subsection (5), every prescribed digital advertising intermediary or prescribed internet intermediary, or every digital advertising intermediary or internet intermediary within the prescribed type of digital advertising intermediary or prescribed type of internet intermediary, must comply with a code of practice (or any part of it) applicable to it.\n(7) The Competent Authority may, for such time as it may specify, waive the application of any code of practice (or any part of a code of practice) to any digital advertising intermediary or internet intermediary.\n(8) A code of practice issued under this section does not have legislative effect.\n(9) In subsection (1), “towards a political end” means —\n(a)to promote the interests of a political party or other group of persons organised in Singapore for political objects;\n(b)to influence, or to seek to influence, the outcome of an election to the office of President, a general election of Members of Parliament, a by‑election of a Member of Parliament, or a referendum;\n(c)to influence, or to seek to influence, public opinion on a matter which in Singapore is a matter of public interest or public controversy; or\n(d)to bring about, or to seek to bring about, changes of the law in the whole or a part of Singapore, or to otherwise influence, or to seek to influence, the legislative process or outcome in Singapore."
+   }
+  },
+  {
+   "id": "SG-H3592-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 7 OTHER MEASURES"
+   },
+   "heading": {
+    "en": "Appeals to Minister"
+   },
+   "text": {
+    "en": "49.—(1) Any digital advertising intermediary or internet intermediary who is aggrieved by anything contained in a code of practice may appeal to the Minister.\n(2) An appeal under this section —\n(a)must be in writing;\n(b)must specify the grounds on which it is made; and\n(c)must be made within 14 days after the date the code of practice or (if the appeal is against a variation of the code) the variation takes effect, or such longer period as the Minister may allow in the appellant’s case.\n(3) The Minister may require —\n(a)any party to the appeal; or\n(b)any person who is not a party to the appeal but appears to the Minister to have any information or document that is relevant to the appeal,\nto provide the Minister with such information or document as the Minister may require for the purpose of considering and determining the appeal; and any person so required to provide the information or document must provide it in such manner and within such period as may be specified by the Minister.\n(4) The Minister may reject the appeal if the appellant does not comply with subsection (2) or (3).\n(5) The appeal does not affect the operation of the relevant part of the code of practice unless otherwise directed by the Minister in any particular case.\n(6) The Minister may determine the appeal by confirming, varying or reversing the relevant part of the code of practice, and the Minister’s decision is final.\n(7) Regulations may be made under section 62 for the manner in which an appeal may be made to the Minister under this section and the procedure to be adopted in hearing such appeals."
+   }
+  },
+  {
+   "id": "SG-H3592-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 7 OTHER MEASURES"
+   },
+   "heading": {
+    "en": "Notice requiring compliance"
+   },
+   "text": {
+    "en": "50.—(1) If, whether upon a review of a report given pursuant to a code of practice or otherwise, the Competent Authority is of the opinion that a digital advertising intermediary or an internet intermediary (called in this section the intermediary) to whom a code of practice applies had not complied with or complied fully with any part of the code, the Competent Authority may give the intermediary a notice —\n(a)setting out details of the non‑compliance; and\n(b)directing the intermediary to take such steps, whether in or outside Singapore, and within a specified time, as may be necessary to remedy the non‑compliance.\n(2) A notice under subsection (1) may be served by such means (including electronic means) as may be prescribed —\n(a)on the intermediary to whom it is issued; or\n(b)a person in Singapore that the intermediary has appointed to accept service on the intermediary’s behalf.\n(3) An intermediary to whom a notice is issued and served who, without reasonable excuse, fails to comply with the notice, shall be guilty of an offence and shall be liable on conviction —\n(a)in the case of an individual, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both; or\n(b)in any other case, to a fine not exceeding $1 million,\nand, in the case of a continuing offence, to a further fine not exceeding $100,000 for every day or part of a day during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H3592-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 7 OTHER MEASURES"
+   },
+   "heading": {
+    "en": "Code of practice and section 50 notice have effect despite other laws, etc."
+   },
+   "text": {
+    "en": "51.—(1) A requirement of a code of practice or a notice under section 50 applicable to a digital advertising intermediary or an internet intermediary (called in this section the intermediary) has effect despite —\n(a)any duty of confidentiality or privacy imposed by any rule of law; or\n(b)any duty imposed by any contract or any rule of professional conduct,\nthat prevents the intermediary from complying with that requirement or restricts the intermediary in such compliance.\n(2) No civil or criminal liability is incurred by an intermediary or an officer, employee or agent of the intermediary, for doing or omitting to do any act, if the act is done or omitted to be done with reasonable care and in good faith and for the purpose of complying with or giving effect to a requirement of the code of practice or a notice under section 50."
+   }
+  },
+  {
+   "id": "SG-H3592-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 8 ALTERNATE AUTHORITY FOR ELECTION PERIOD AND SPECIFIED PERIODS"
+   },
+   "heading": {
+    "en": "Alternate authority for election period"
+   },
+   "text": {
+    "en": "52.—(1) For the purposes of sections 16, 28, 32(1) and (8), 33, 34, 43, 47(2) and 54, a reference to the Minister during an election period is a reference to the alternate authority appointed by the Minister.\n(2) For the purposes of sections 10, 19, 20, 24(4), 31, 40 and 46, a reference to any Minister during an election period is a reference to the alternate authority appointed by the respective Minister.\n(3) The alternate authority is a public officer appointed by the Minister or any Minister (as the case may be) before the start of any election period.\n(4) Notice of every appointment of an alternate authority must be published in the Gazette before it takes effect.\n(5) No appointment of an alternate authority may be made during any election period.\n(6) The powers of the Minister under the sections mentioned in subsection (1) and the powers of any Minister under the sections mentioned in subsection (2) —\n(a)cease, during an election period, to be exercisable by the respective Minister; and\n(b)may, during an election period, be exercised by the alternate authority appointed by the respective Minister.\n(7) In this section and section 53, “election period” means the period beginning with the day a writ of election is issued under section 24 of the Parliamentary Elections Act 1954 for the purposes of a general election of Members of Parliament and ending with the close of polling day at that election."
+   }
+  },
+  {
+   "id": "SG-H3592-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART 8 ALTERNATE AUTHORITY FOR ELECTION PERIOD AND SPECIFIED PERIODS"
+   },
+   "heading": {
+    "en": "Alternate authority for other periods"
+   },
+   "text": {
+    "en": "53.—(1) The Minister or any Minister may appoint an alternate authority for such period, other than an election period, as may be specified.\n(2) Section 52(1) to (4) and (6) applies accordingly as if —\n(a)every reference to an alternate authority in those provisions is a reference to an alternate authority appointed under subsection (1); and\n(b)every reference to the election period in those provisions is a reference to the period specified under subsection (1)."
+   }
+  },
+  {
+   "id": "SG-H3592-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Direction to appoint representative to accept service and access blocking order"
+   },
+   "text": {
+    "en": "54.—(1) The Minister may instruct the Competent Authority to direct a person that satisfies such criteria as may be prescribed —\n(a)to appoint a person in Singapore to accept service of Part 3 Directions, Part 4 Directions, Remedial Orders, Account Restriction Directions or notices under section 50 on the first person’s behalf; and\n(b)to provide the Competent Authority with the name, address and other contact details of the appointed person.\n(2) Where —\n(a)a person that is an internet intermediary fails to comply with a direction made under subsection (1); and\n(b)the Minister is satisfied that one or more end‑users in Singapore have used or are using the services of an internet access service provider to access any false statement of fact by means of an internet intermediary service provided by the internet intermediary,\nthe Minister may direct the IMDA to order the internet access service provider to take reasonable steps to disable use of the internet intermediary service by end‑users in Singapore (called in this section an access blocking order), and the IMDA must give the internet access service provider an access blocking order.\n(3) Where —\n(a)a person other than an internet intermediary fails to comply with a direction under subsection (1); and\n(b)the Minister is satisfied that one or more end‑users in Singapore have used or are using the services of an internet access service provider to access any false statement of fact communicated in Singapore by the person,\nthe Minister may direct the IMDA to order the internet access service provider to take reasonable steps to disable access by end‑users in Singapore to the online location on which such statement is communicated in Singapore (also called in this section an access blocking order), and the IMDA must give the internet access service provider an access blocking order.\n(4) An internet access service provider that does not comply with an access blocking order under subsection (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 for each day during any part of which that order is not fully complied with, up to a total of $500,000 for each offence.\n(5) No civil or criminal liability is incurred by an internet access service provider or an officer, employee or agent of such provider, for anything done or omitted to be done with reasonable care and in good faith in complying with an access blocking order."
+   }
+  },
+  {
+   "id": "SG-H3592-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "55."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Appointment of authorised officers"
+   },
+   "text": {
+    "en": "55.—(1) The Minister may appoint such number of —\n(a)police officers;\n(b)public officers who are not police officers; and\n(c)employees of any statutory board,\nas the Minister considers appropriate to be authorised officers to administer this Act, either generally or for any particular provision.\n(2) Every authorised officer is to exercise his or her powers under this Act subject to the general or special directions of the Minister.\n(3) An authorised officer may be assisted by other individuals in the exercise of his or her powers under section 56 if that assistance is necessary and reasonable.\n(4) The Minister must cause to be issued to each authorised officer mentioned in subsection (1)(b) or (c) an identification card, which must be carried at all times by the authorised officer when exercising powers under this Act.\n(5) Every authorised officer acting under this Act is taken to be a public servant for the purposes of the Penal Code 1871."
+   }
+  },
+  {
+   "id": "SG-H3592-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "56."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Powers of enforcement"
+   },
+   "text": {
+    "en": "56. The Minister may, by written order, authorise an authorised officer to exercise all or any of the powers in relation to police investigations given by the Criminal Procedure Code 2010 as set out in the Schedule, and the provisions of that Code relating to such powers apply accordingly."
+   }
+  },
+  {
+   "id": "SG-H3592-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "57."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "57.—(1) An authorised officer, authorised in writing by the Minister, may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding one half of the amount of the maximum fine that is prescribed for the offence.\n(2) On payment of the sum of money, no further proceedings may be taken against that person in respect of the offence under this Act.\n(3) All sums collected under this section must be paid into the Consolidated Fund."
+   }
+  },
+  {
+   "id": "SG-H3592-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "58."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Offences by corporations"
+   },
+   "text": {
+    "en": "58.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that —\n(a)an officer, employee or agent of the corporation engaged in that conduct within the scope of the actual or apparent authority of the officer, employee or agent; and\n(b)the officer, employee or agent had that state of mind,\nis evidence that the corporation had that state of mind.\n(2) Where a corporation commits an offence under Part 2, a person —\n(a)who is —\n(i)an officer of the corporation; or\n(ii)an individual involved in the management of the corporation and in a position to influence the conduct of the corporation in relation to the commission of the offence; and\n(b)who —\n(i)consented or connived, or conspired with others, to effect the commission of the offence;\n(ii)is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the corporation; or\n(iii)knew or ought reasonably to have known that the offence by the corporation (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,\ncommits the same offence as the corporation, and shall be liable on conviction to be punished accordingly.\n(3) A person mentioned in subsection (2) may rely on a defence that would be available to the corporation if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the corporation would bear.\n(4) To avoid doubt, this section does not affect the application of —\n(a)Chapters 5 and 5A of the Penal Code 1871; or\n(b)the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence.\n(5) To avoid doubt, subsection (2) also does not affect the liability of the corporation for an offence under this Act, and applies whether or not the corporation is convicted of the offence.\n(6) In this section —\n“corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act 2005;\n“officer”, in relation to a corporation, means any director, partner, chief executive, manager, secretary or other similar officer of the corporation, and includes —\n(a)any person purporting to act in any such capacity; and\n(b)for a corporation whose affairs are managed by its members, any of those members as if the member were a director of the corporation;\n“state of mind” of a person includes —\n(a)the knowledge, intention, opinion, belief or purpose of the person; and\n(b)the person’s reasons for the intention, opinion, belief or purpose."
+   }
+  },
+  {
+   "id": "SG-H3592-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "59."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Offences by unincorporated associations or partnerships"
+   },
+   "text": {
+    "en": "59.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that —\n(a)an employee or agent of the unincorporated association or partnership engaged in that conduct within the scope of the actual or apparent authority of the employee or agent; and\n(b)the employee or agent had that state of mind,\nis evidence that the unincorporated association or partnership had that state of mind.\n(2) Where an unincorporated association or a partnership commits an offence under Part 2, a person —\n(a)who is —\n(i)an officer of the unincorporated association or a member of its governing body;\n(ii)a partner in the partnership; or\n(iii)an individual involved in the management of the unincorporated association or partnership and in a position to influence the conduct of the unincorporated association or partnership (as the case may be) in relation to the commission of the offence; and\n(b)who —\n(i)consented or connived, or conspired with others, to effect the commission of the offence;\n(ii)is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the unincorporated association or partnership; or\n(iii)knew or ought reasonably to have known that the offence by the unincorporated association or partnership (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,\ncommits the same offence as the unincorporated association or partnership, and shall be liable on conviction to be punished accordingly.\n(3) A person mentioned in subsection (2) may rely on a defence that would be available to the unincorporated association or partnership if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the unincorporated association or partnership would bear.\n(4) To avoid doubt, this section does not affect the application of —\n(a)Chapters 5 and 5A of the Penal Code 1871; or\n(b)the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence.\n(5) To avoid doubt, subsection (2) also does not affect the liability of an unincorporated association or a partnership for an offence under this Act, and applies whether or not the unincorporated association or partnership is convicted of the offence.\n(6) In this section —\n“officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes —\n(a)any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; and\n(b)any person purporting to act in any such capacity;\n“partner” includes a person purporting to act as a partner;\n“state of mind” of a person includes —\n(a)the knowledge, intention, opinion, belief or purpose of the person; and\n(b)the person’s reasons for the intention, opinion, belief or purpose."
+   }
+  },
+  {
+   "id": "SG-H3592-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "60."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Jurisdiction of courts"
+   },
+   "text": {
+    "en": "60.—(1) Where an offence under section 7, 8, 9, 15, 27, 32(6), 34(5), 36, 37, 38, 42, 47 or 50(3) is committed by a person outside Singapore, the person may be dealt with in respect of that offence as if it had been committed within Singapore.\n(2) Despite the Criminal Procedure Code 2010, a District Court or a Magistrate’s Court has jurisdiction to try any offence under this Act and has power to impose the full punishment for any such offence."
+   }
+  },
+  {
+   "id": "SG-H3592-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "61."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "General exemption"
+   },
+   "text": {
+    "en": "61. The Minister may, by order in the Gazette, exempt any person or class of persons from any provision of this Act."
+   }
+  },
+  {
+   "id": "SG-H3592-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "62."
+   },
+   "chapter": {
+    "en": "PART 9 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "62. The Minister may make regulations necessary or convenient to be prescribed for carrying out or giving effect to this Act."
+   }
+  },
+  {
+   "id": "SG-H3592-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "Examples"
+   },
+   "text": {
+    "en": "PART 1\nPRELIMINARY\nShort title\n1. This Act is the Protection from Online Falsehoods and Manipulation Act 2019.\nGeneral interpretation\n2.—(1) In this Act, unless the context otherwise requires —\n“Account Restriction Direction” means a direction issued under section 40;\n“appellate court”, in relation to an appeal from a decision of the General Division of the High Court under this Act, means the court to which the appeal is to be made under section 29C of the Supreme Court of Judicature Act 1969;\n“authorised officer” means a police officer, a public officer or an employee of a statutory board authorised under section 55;\n“bot” means a computer program made or altered for the purpose of running automated tasks;\n“Competent Authority” means the Competent Authority appointed under section 6;\n“computing resource service” means a service that provides the use of any computer hardware or software to enhance the processing capability or storage capacity of a computer;\nExamples\nExamples of computing resource services are cloud computing and data centre services.\n“coordinated inauthentic behaviour” means any coordinated activity carried out using 2 or more online accounts, in order to mislead end‑users in Singapore of any internet intermediary service as to any matter, but excludes any activity carried out using online accounts —\n(a)that are controlled by the same person; and\n(b)none of which is an inauthentic online account or is controlled by a bot;\n“Correction Direction” means a direction issued under section 11;\n“Declaration” means a Declaration made under section 32;\n“declared online location” means an online location that is the subject of a Declaration that is in effect;\n“digital advertising intermediary” means any person who, in the ordinary course of business, facilitates the communication of paid content in any place by acting as the link or part of the link between —\n(a)the owners or operators of online locations; and\n(b)advertisers and service providers,\nby means of an internet‑based service;\nExamples\nExamples of digital advertising intermediaries are persons who provide any of the following by means of an internet‑based service:\n(a) advertising exchange;\n(b) demand side platform;\n(c) supply side platform.\n“Disabling Direction” means a direction issued under section 22;\n“General Correction Direction” means a direction issued under section 23;\n“IMDA” means the Info‑communications Media Development Authority established by section 3 of the Info‑communications Media Development Authority Act 2016;\n“inauthentic online account” means an online account that is controlled by a person other than the person represented (whether by its user profile, unique identifier or other information) as its holder, and the representation is made for the purpose of misleading end‑users in Singapore of any internet intermediary service as to the holder’s identity;\n“internet access service provider” means an internet access service provider licensed under section 5 of the Telecommunications Act 1999;\n“internet intermediary” means a person who provides any internet intermediary service;\n“internet intermediary service” means —\n(a)a service that allows end‑users to access materials originating from third parties on or through the internet;\n(b)a service of transmitting such materials to end‑users on or through the internet; or\n(c)a service of displaying, to an end‑user who uses the service to make an online search, an index of search results, each of which links that end‑user to content hosted or stored at a location which is separate from the location of the index of search results,\nbut excludes any act done for the purpose of, or that is incidental to, the provision of —\n(d)a service of giving the public access to the internet; or\n(e)a computing resource service;\nExamples\nExamples of internet intermediary services are —\n(a) social networking services;\n(b) search engine services;\n(c) content aggregation services;\n(d) internet‑based messaging services; and\n(e) video‑sharing services.\n“material” means anything that consists of or contains a statement;\nExamples\nExamples of a material are a message, a post, an article, a speech, a picture, a video recording and a sound recording.\n“MMS” means a system that enables the transmission, through a mobile network, of multimedia messages;\n“online account” means an account created with an internet intermediary for the use of an internet intermediary service;\n“online location” means any website, webpage, chatroom or forum, or any other thing that is hosted on a computer (as defined in the Computer Misuse Act 1993) and can be seen, heard or otherwise perceived by means of the internet;\n“paid content” means any statement that is communicated in any place for consideration;\n“Part 3 Direction” means a Correction Direction or a Stop Communication Direction;\n“Part 4 Direction” means a Targeted Correction Direction, a Disabling Direction or a General Correction Direction;\n“prescribed digital advertising intermediary” means a digital advertising intermediary, or a class of digital advertising intermediaries, prescribed by regulations made under section 62;\n“prescribed internet intermediary” means an internet intermediary, or a class of internet intermediaries, prescribed by regulations made under section 62;\n“Remedial Order” means an order made under section 24(4);\n“service provider” means any person (other than a digital advertising intermediary) who, in the ordinary course of business, provides advisory or other services relating to the communication of paid content in any place;\n“SMS” means a system that enables the transmission, through a mobile network, of text messages;\n“statement” means any word (including abbreviation and initial), number, image (moving or otherwise), sound, symbol or other representation, or a combination of any of these;\n“statutory board” means a body corporate or unincorporate established by or under any public Act to perform or discharge a public function;\n“Stop Communication Direction” means a direction issued under section 12;\n“Targeted Correction Direction” means a direction issued under section 21;\n“telecommunication service” has the meaning given by section 2 of the Telecommunications Act 1999.\n[40/2019]\n(2) In this Act —\n(a)a statement of fact is a statement which a reasonable person seeing, hearing or otherwise perceiving it would consider to be a representation of fact; and\n(b)a statement is false if it is false or misleading, whether wholly or in part, and whether on its own or in the context in which it appears.\n(3) In this Act, a person has editorial control over an online location if the person is able to decide one or both of the following:\n(a)whether any statement may be included or excluded on the online location;\n(b)where to place any statement on the online location.\nMeaning of “communicate”\n3.—(1) In this Act other than in Part 2, a statement or material is communicated in Singapore if it is made available to one or more end‑users in Singapore on or through the internet.\n(2) In Part 2, a statement is communicated in Singapore if it is made available to one or more end‑users in Singapore on or through —\n(a)the internet; or\n(b)MMS or SMS.\n(3) A reference in this Act to communicating a statement or material in Singapore includes causing its communication (within the meaning of subsection (1) or (2), as the case may be) in Singapore.\nMeaning of “in the public interest”\n4. For the purposes of this Act and without limiting the generality of the expression, it is in the public interest to do anything if the doing of that thing is necessary or expedient —\n(a)in the interest of the security of Singapore or any part of Singapore;\n(b)to protect public health or public finances, or to secure public safety or public tranquillity;\n(c)in the interest of friendly relations of Singapore with other countries;\n(d)to prevent any influence of the outcome of an election to the office of President, a general election of Members of Parliament, a by‑election of a Member of Parliament, or a referendum;\n(e)to prevent incitement of feelings of enmity, hatred or ill‑will between different groups of persons; or\n(f)to prevent a diminution of public confidence in the performance of any duty or function of, or in the exercise of any power by, the Government, an Organ of State, a statutory board, or a part of the Government, an Organ of State or a statutory board.\nPurpose of Act\n5. The purpose of this Act is —\n(a)to prevent the communication of false statements of fact in Singapore and to enable measures to be taken to counteract the effects of such communication;\n(b)to suppress the financing, promotion and other support of online locations that repeatedly communicate false statements of fact in Singapore;\n(c)to enable measures to be taken to detect, control and safeguard against coordinated inauthentic behaviour and other misuses of online accounts and bots; and\n(d)to enable measures to be taken to enhance disclosure of information concerning paid content directed towards a political end.\nAppointment of Competent Authority\n6.—(1) For the purposes of this Act, the Minister may appoint as the Competent Authority —\n(a)a statutory board; or\n(b)the holder of any office in the service of Government or a statutory board.\n(2) The Competent Authority must give effect to the instructions of the Minister and any Minister where prescribed by this Act."
+   }
+  },
+  {
+   "id": "SG-H3592-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nSection 56\nApplicable provisions of\nCriminal Procedure Code 2010\n1. Section 6\n2. Part 4 (other than sections 14 to 17)\n3. Section 78(2)\n4. Section 81\n5. Section 83\n6. Sections 111, 112 and 113\n7. Part 19"
+   }
+  }
+ ]
+}

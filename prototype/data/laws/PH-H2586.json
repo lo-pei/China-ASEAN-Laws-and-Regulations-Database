@@ -1,0 +1,74 @@
+{
+ "id": "PH-H2586",
+ "title": {
+  "zh": null,
+  "en": "An Act Transferring Certain Funds Appropriated for the Cajidiocan Health Clinic and the Rural Health Center Building in the Municipality of Cajidiocan, Province of Romblon, to the Sibuyan, Hospital, by Amending Certain Items of Republic Act Numbered Nineteen Hundred",
+  "orig": "An Act Transferring Certain Funds Appropriated for the Cajidiocan Health Clinic and the Rural Health Center Building in the Municipality of Cajidiocan, Province of Romblon, to the Sibuyan, Hospital, by Amending Certain Items of Republic Act Numbered Nineteen Hundred"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p36",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1960-06-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2859",
+ "officialCode": null,
+ "topics": [
+  "health"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 479,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1960/ra_2859_1960.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1960/ra_2859_1960.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H2586-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Item (k) under (46) Romblon, paragraph f, Title I, Section two of Republic Act Numbered Nineteen hundred is amended to read as follows:\n\"(k) Sibuyan Hospital Nurses’ Dormitory ₱11,000.00\""
+   }
+  },
+  {
+   "id": "PH-H2586-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The amount appropriated in item 7 under Romblon, paragraph g, Title I, Section two of the same Act is transferred to item (k) as amended by Section one hereof and the totals for paragraphs f and g are adjusted accordingly."
+   }
+  },
+  {
+   "id": "PH-H2586-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1960."
+   }
+  }
+ ]
+}

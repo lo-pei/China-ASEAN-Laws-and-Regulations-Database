@@ -1,0 +1,74 @@
+{
+ "id": "PH-H788",
+ "title": {
+  "zh": "经费拨款法",
+  "en": "An Act Appropriating Funds to Carry Out the Purposes of Various Enabling Acts, and for Other Purposes",
+  "orig": "An Act Appropriating Funds to Carry Out the Purposes of Various Enabling Acts, and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p11",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1953-06-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 948",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1510,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1953/ra_948_1953.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1953/ra_948_1953.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H788-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The sum of six million eight hundred ninety-eight thousand pesos or so much thereof as may be necessary is hereby appropriated out of any funds in the Philippine Treasury not otherwise appropriated, to carry out the provisions of Republic Acts Numbered Seven hundred and thirty-one, Seven hundred and seventy-five, and Eight hundred and seven, and for other purposes as here-under specified:\n1. To provide for the establishment of the National Indigent Children's Hospital, Republic Act No. 731 250,000,00\n2. For the construction of the North General Hospital Building, including the purchase of hospital equipment, Republic Act No. 7751, 500,000.00\n3. For (1) the operation and maintenance of the existing national or nationalized schools of arts and trades pursuant to their enabling acts (2) for the nationalization of existing trade schools and (3) the establishment of new national trade schools 2,500,000.00\n4. For the nationalization of existing agricultural schools; operation and maintenance of already existing agricultural schools and the establishment of new agricultural schools at P50,000 per school 2,500,000.00\n5. For the implementation of Republic Act No. 807—Converting Bukidnon Agricultural School into the Mindanao Agricultural College 148,000.00 Total P6,898,000.00 ============"
+   }
+  },
+  {
+   "id": "PH-H788-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The release of the funds appropriated in this Act are subject to section nine of the General Appropriation Law for the fiscal year 1953-1954."
+   }
+  },
+  {
+   "id": "PH-H788-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
+   }
+  }
+ ]
+}

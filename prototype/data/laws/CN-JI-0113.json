@@ -1,0 +1,150 @@
+{
+ "id": "CN-JI-0113",
+ "title": {
+  "zh": "最高人民法院关于裁判文书引用法律、法规等规范性法律文件的规定",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p07",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2009-07-13",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "最高人民法院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 8,
+ "chars": 587,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于裁判文书引用法律、法规等规范性法律文件的规定_20091026.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，第一条至第八条，共 8 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于裁判文书引用法律、法规等规范性法律文件的规定_20091026.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0113-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "第一条"
+   },
+   "text": {
+    "zh": "人民法院的裁判文书应当依法引用相关法律、法规等规范性法律文件作为裁判依据。引用时应当准确完整写明规范性法律文件的名称、条款序号，需要引用具体条文的，应当整条（款、项）引用。"
+   }
+  },
+  {
+   "id": "CN-JI-0113-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "第二条"
+   },
+   "text": {
+    "zh": "并列引用多个规范性法律文件的，引用顺序如下：法律及法律解释、行政法规、地方性法规、自治条例或者单行条例、司法解释。同时引用两部以上法律的，应当先引用基本法律，后引用其他法律。引用包括实体法和程序法的，先引用实体法，后引用程序法。"
+   }
+  },
+  {
+   "id": "CN-JI-0113-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "第三条"
+   },
+   "text": {
+    "zh": "刑事裁判文书应当引用法律、法律解释或者司法解释。刑事附带民事诉讼裁判文书引用规范性法律文件，同时适用本规定第四条规定。"
+   }
+  },
+  {
+   "id": "CN-JI-0113-A4",
+   "no": 4,
+   "noLabel": {
+    "zh": "第四条"
+   },
+   "text": {
+    "zh": "民事裁判文书应当引用法律、法律解释或者司法解释。对于应当适用的行政法规、地方性法规或者自治条例和单行条例，可以直接引用。"
+   }
+  },
+  {
+   "id": "CN-JI-0113-A5",
+   "no": 5,
+   "noLabel": {
+    "zh": "第五条"
+   },
+   "text": {
+    "zh": "行政裁判文书应当引用法律、法律解释、行政法规或者司法解释。对于应当适用的地方性法规、自治条例和单行条例、国务院或者国务院授权的部门公布的行政法规解释或者行政规章，可以直接引用。"
+   }
+  },
+  {
+   "id": "CN-JI-0113-A6",
+   "no": 6,
+   "noLabel": {
+    "zh": "第六条"
+   },
+   "text": {
+    "zh": "对于本规定第三条、第四条、第五条规定之外的规范性文件，根据审理案件的需要，经审查认定为合法有效的，可以作为裁判说理的依据。"
+   }
+  },
+  {
+   "id": "CN-JI-0113-A7",
+   "no": 7,
+   "noLabel": {
+    "zh": "第七条"
+   },
+   "text": {
+    "zh": "人民法院制作裁判文书确需引用的规范性法律文件之间存在冲突，根据立法法等有关法律规定无法选择适用的，应当依法提请有决定权的机关做出裁决，不得自行在裁判文书中认定相关规范性法律文件的效力。"
+   }
+  },
+  {
+   "id": "CN-JI-0113-A8",
+   "no": 8,
+   "noLabel": {
+    "zh": "第八条"
+   },
+   "text": {
+    "zh": "本院以前发布的司法解释与本规定不一致的，以本规定为准。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于裁判文书引用法律、法规等规范性法律文件的规定"
+  },
+  "issuingBody": {
+   "zh": "最高人民法院"
+  },
+  "promulgatedDate": "2009-07-13",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

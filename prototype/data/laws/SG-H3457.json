@@ -1,0 +1,62 @@
+{
+ "id": "SG-H3457",
+ "title": {
+  "zh": null,
+  "en": "Order under section 9(3)",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p43",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation AELA1993-OR1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1553,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/AELA1993-OR1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 2 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3457-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Application of English Law Act\n(CHAPTER 7A, Section 9(1))\nOrder under Section 9 (3)\nO 1\nG.N. No. S 221/1994\nREVISED EDITION 1995\n(1st April 1995)\n[20th May 1994]\nWhereas pursuant to section 9(1) of the Application of English Law Act, the Law Revision Commissioners have prepared and published a revised edition of the English enactments set out in the Schedule:\nAnd Whereas under section 9(3) of the Act, the Commissioners shall transmit to the President a copy of the revised edition of each enactment and the President may thereupon, by order published in the Gazette, specify that the revised edition of that enactment shall, in all courts and for all purposes, be the sole and only proper law of Singapore in respect of that enactment:\nNow therefore it is hereby ordered by the President that the revised edition of the English enactments set out in the Schedule shall, with effect from 20th May 1994, be the sole and only proper law of Singapore in respect of those enactments."
+   }
+  },
+  {
+   "id": "SG-H3457-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\n(1) Bills of Lading Act (Chapter 384).\n(2) Corporate Bodies’ Contracts Act (Chapter 385).\n(3) Factors Act (Chapter 386).\n(4) Marine Insurance Act (Chapter 387).\n(5) Mercantile Law Amendment Act (Chapter 388).\n(6) Minors’ Contracts Act (Chapter 389).\n(7) Misrepresentation Act (Chapter 390).\n(8) Partnership Act (Chapter 391).\n(9) Policies of Assurance Act (Chapter 392).\n(10) Sale of Goods Act (Chapter 393).\n(11) Supply of Goods Act (Chapter 394).\n(12) Third Parties (Rights against Insurers) Act (Chapter 395).\n(13) Unfair Contract Terms Act (Chapter 396)."
+   }
+  }
+ ]
+}

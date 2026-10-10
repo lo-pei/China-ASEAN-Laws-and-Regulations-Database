@@ -1,0 +1,52 @@
+{
+ "id": "MM-H075",
+ "title": {
+  "zh": "所得税法MY_—",
+  "en": "ဝင်ငွေခွန် ဥပဒေ",
+  "orig": null
+ },
+ "country": "MM",
+ "countryName": "缅甸",
+ "layer": "intl",
+ "pack": "mm-p04",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "缅甸官方发布渠道",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 859,
+ "source": {
+  "name": "缅甸官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "文本未能可靠切分为条文（或原件为目录式排版），按整篇收录，未作改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "MM-H075-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "# ဝင်ငွေခွန် ဥပဒေ > 本文件为自动采集的元数据头，随原始文件一同保存。\n> 原始文件未被改写；正文逐字照录于同目录下的原始文件。\n| 项目 | 内容 | | --- | --- | | 原文标题 | ဝင်ငွေခွန် ဥပဒေ | | 中文译名 | 所得税法（缅文本） | | 英文译名 | Income Tax Law | | 法律领域 | 税法 | | 颁布机构 | 缅甸国内税务局（Internal Revenue Department） | | 官方来源 URL | https://www.ird.gov.mm/storage/laws/67233b988a4d7-IT ဥပဒေ.pdf | | 数据抓取实际 URL | https://www.ird.gov.mm/storage/laws/67233b988a4d7-IT%20%E1%80%A5%E1%80%95%E1%80%92%E1%80%B1.pdf | | 颁布日期 | 未核实（官方页面未标注年份） | | 生效日期 | 未核实（来源未标注） | | 修订日期 | 未核实（来源未标注） | | 版本 | 官方公布文本 | | 原文语种 | my | | 来源类型 | 官方（缅甸政府 .gov.mm 门户） | | 抓取日期 | 2026-10-03 | | 本地文件 | 缅甸_所得税法MY_—_my.pdf | | 文件格式 | pdf | | 文件大小(字节) | 5505597 | | 页数 | 71 | | 字数 |  | | SHA-256 | e7888dc6172fca111de166fe8ad5b5e643b19edff90d4d4b14a73d0d2e2c0dfa | | HTTP 状态 | 200 | | HTTPS 证书校验 | verified | | 完整性/缺失范围 | 官方 PDF 全文（未删节） | | 备注 | 仅缅文 PDF；官方页面未标注颁布年份，故年份留空待核。 |"
+   }
+  }
+ ]
+}

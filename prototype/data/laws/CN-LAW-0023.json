@@ -1,0 +1,80 @@
+{
+ "id": "CN-LAW-0023",
+ "title": {
+  "zh": "全国人民代表大会常务委员会关于《中华人民共和国刑法》有关文物的规定适用于具有科学价值的古脊椎动物化石、古人类化石的解释",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p01",
+ "language": "zh",
+ "level": "law",
+ "category": "法律",
+ "status": "active",
+ "promulgatedDate": "2005-12-29",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "全国人民代表大会常务委员会",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 230,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\法律\\全国人民代表大会常务委员会关于《中华人民共和国刑法》有关文物的规定适用于具有科学价值的古脊椎动物化石、古人类化石的解释_20051229.doc",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，整篇作为一条录入，共 1 条；来源为项目数据资源中的官方汇编文件（全国人民代表大会常务委员会关于《中华人民共和国刑法》有关文物的规定适用于具有科学价值的古脊椎动物化石、古人类化石的解释_20051229.doc）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-LAW-0023-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "全文"
+   },
+   "text": {
+    "zh": "全国人民代表大会常务委员会关于\n《中华人民共和国刑法》有关文物的规定\n适用于具有科学价值的古脊椎动物化石、\n古人类化石的解释\n（2005年12月29日第十届全国人民代表大会常务委员会第十九次会议通过）\n全国人民代表大会常务委员会根据司法实践中遇到的情况，讨论了关于走私、盗窃、损毁、倒卖或者非法转让具有科学价值的古脊椎动物化石、古人类化石的行为适用刑法有关规定的问题，解释如下：\n刑法有关文物的规定，适用于具有科学价值的古脊椎动物化石、古人类化石。\n现予公告。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "law",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "全国人民代表大会常务委员会关于《中华人民共和国刑法》有关文物的规定适用于具有科学价值的古脊椎动物化石、古人类化石的解释"
+  },
+  "issuingBody": {
+   "zh": "全国人民代表大会常务委员会"
+  },
+  "promulgatedDate": "2005-12-29",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "法律"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

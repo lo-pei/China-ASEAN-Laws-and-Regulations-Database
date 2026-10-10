@@ -1,0 +1,68 @@
+{
+ "id": "TL-H260",
+ "title": {
+  "zh": "立法授权Governo em matéria de fixação de limite de idade para a relação de trabalho de funcionários públicos及 agentes da Administração Pública",
+  "en": null,
+  "orig": "Autorização legislativa ao Governo em matéria de fixação de limite de idade para a relação de trabalho de funcionários públicos e agentes da Administração Pública"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p05",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2024-10-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 7/2024",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 246,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2024/serie_1/SERIE_I_NO_42.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自官方公报 PDF（public/docs/2024/serie_1/SERIE_I_NO_42.pdf）第 2004–2005 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H260-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Objeto"
+   },
+   "text": {
+    "pt": "É concedida ao Governo autorização para legislar em matéria de cessação da relação de trabalho na Administração Pública, bem como para fixar em concreto a idade limite para aquele efeito."
+   }
+  },
+  {
+   "id": "TL-H260-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Sentido"
+   },
+   "text": {
+    "pt": "A presente lei autoriza o Governo a estabelecer o limite de"
+   }
+  }
+ ]
+}

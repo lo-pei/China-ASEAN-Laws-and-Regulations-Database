@@ -1,0 +1,117 @@
+{
+ "id": "SG-H325",
+ "title": {
+  "zh": null,
+  "en": "Boundaries and Survey Maps (Singapore Land Authority Fees) Rules 2005",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p04",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation BSMA1998-R6",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 2763,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/BSMA1998-R6?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 6 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H325-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Rules are the Boundaries and Survey Maps (Singapore Land Authority Fees) Rules 2005."
+   }
+  },
+  {
+   "id": "SG-H325-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "2.—(1) For the purposes of section 15(3)(b) of the Act, the prescribed survey fees payable to the Authority upon any request by a registered surveyor for services in relation to survey work or any query made by the Chief Surveyor specified in the first column of the Schedule are the appropriate fees specified opposite in the second column of the Schedule.\n(2) The services mentioned in paragraph (1) include —\n(a)field and office inspection and approval of the cadastral survey work carried out by a registered surveyor; and\n(b)production of title plans by the Authority,\nbut do not include the provision of field books, boundary marks, calculation sheets and plan forms."
+   }
+  },
+  {
+   "id": "SG-H325-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Calculation of fee for strata survey"
+   },
+   "text": {
+    "en": "3. For the purpose of calculating the fee relating to an accessory lot in a strata survey in item (4) in the Schedule, the area of the accessory lot must be added to the area of the strata lot to which the accessory lot has been made appurtenant."
+   }
+  },
+  {
+   "id": "SG-H325-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Fees for queries, resubmission or rectification"
+   },
+   "text": {
+    "en": "4. The fees specified in items (5) and (6) in the Schedule —\n(a)must be paid by the registered surveyor on the requisition of the Chief Surveyor; and\n(b)must not be recovered from or paid by the party represented by the registered surveyor."
+   }
+  },
+  {
+   "id": "SG-H325-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Remission or refund of fees"
+   },
+   "text": {
+    "en": "5.—(1) The Chief Surveyor may remit or refund, wholly or in part, any fee paid or payable under these Rules.\n(2) Paragraph (1) applies regardless of whether the fee was paid or payable before, on or after 1 June 2015."
+   }
+  },
+  {
+   "id": "SG-H325-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRules 2(1), 3 and 4\nFees\nFirst column\nSecond column\nSurvey of land\n(1)\n(a)For land lots not exceeding 2,000 square metres\n$900 per lot\n(b)For every additional 2,000 square metres or part thereof\n$300\n(2)\nFor all balance lots created consequent to excision of land by the Government or statutory bodies in the public interest, or for State land balance lots created consequent to alienation of land by the Government\n$900 per lot\n(3)\nSurveys, where no field work is involved, to which item (2) is not applicable\n$460 per lot\nStrata survey\n(4)\n(a)For flat lots or provisional lots not exceeding 100 square metres\n$150 per lot\n(b)For every additional 10 square metres or part thereof\n$15\nQueries\n(5)\nFor first and each subsequent round of queries that the Chief Surveyor raises in respect of an assurance plan or a cadastral survey submitted by a registered surveyor\n$105 per round of queries\nResubmission or rectification\n(6)\n(a)For first and each subsequent resubmission of —\n$330 per resubmission\n(i)any survey plan, survey record or document; or\n(ii)any application for allocation of lot numbers\n(b)For rectification of any error on any approved survey plan, survey record or document in respect of a cadastral survey carried out by a registered surveyor\n$330 per cadastral survey"
+   }
+  }
+ ]
+}

@@ -1,0 +1,782 @@
+{
+ "id": "SG-H541",
+ "title": {
+  "zh": null,
+  "en": "Central Provident Fund (Revised Workfare Income Supplement Scheme) Regulations 2016",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p07",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CPFA1953-RG47",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 52,
+ "chars": 103624,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CPFA1953-RG47?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 52 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 15 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H541-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations are the Central Provident Fund (Revised Workfare Income Supplement Scheme) Regulations 2016."
+   }
+  },
+  {
+   "id": "SG-H541-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“annual value” has the meaning given by section 2 of the Property Tax Act 1960;\n“APE” has the meaning given by paragraph 1(1), read with paragraph 1(2), of the Fourth Schedule to the Act;\n“applicable year” means the calendar year in which the relevant month falls;\n“assessable income” has the meaning given by section 37(1) of the Income Tax Act 1947;\n“benefit” means any cash payment or relevant contribution;\n“birthday month”, in relation to a member, means —\n(a)the month in which the anniversary of the member’s date of birth falls; and\n(b)despite section 2(1A)(b) of the Act, in the case of a member who is born on 29 February — the month of February;\n“cash payment”, “eligible member”, “relevant contribution” and “Scheme” have the meanings given by section 57A of the Act;\n“Comptroller” means the Comptroller of Income Tax appointed under section 3(1) of the Income Tax Act 1947, and includes a Deputy Comptroller or an Assistant Comptroller so appointed;\n“declared income” has the meaning given by regulation 8(1) and (2), as applicable;\n“dual status eligible member” means an eligible member under regulation 7, 7A or 7B;\n“employed eligible member” means an eligible member under regulation 5;\n“Group A worker” and “Group B worker” have the meanings given by paragraph 1(1) of the Fourth Schedule to the Act;\n“instrument” includes any bank draft, warrant or cheque;\n“notified income” has the meaning given by —\n(a)for relevant years before 2025 — regulation 8(4); or\n(a)for relevant years 2025 and later — regulation 8AK;\n“platform operator” has the meaning given by section 4 of the Platform Workers Act 2024;\n“platform worker” has the meaning given by section 5 of the Platform Workers Act 2024;\n“relevant month” means a calendar month in respect of which a member’s eligibility to receive any benefit under the Scheme is assessed;\n“relevant period” means the period of 12 calendar months ending on the last day of a relevant month;\n“relevant year” means a calendar year in respect of which a member’s eligibility to receive a benefit under the Scheme is assessed;\n“self‑employed contribution” means a contribution that a self‑employed person is required to make to his or her account in the Fund under —\n(a)the Central Provident Fund (Self‑Employed Persons) Regulations 1992 for a relevant year before 1 January 2020; or\n(b)section 9A of the Act read with those Regulations for a relevant year starting on or after 1 January 2020;\n“self‑employed eligible member” means an eligible member under regulation 6;\n“self‑employed person” has the meaning given by regulation 2(1) of the Central Provident Fund (Self‑Employed Persons) Regulations 1992;\n“self‑employment income” means income, derived from Singapore or received from outside Singapore, in respect of any trade, business, profession or vocation, other than employment under a contract of service;\n“specified member” means a person who is attending, or has attended, any school —\n(a)which is or was specified in Part II of the Schedule to the Education Endowment and Savings Schemes (Edusave Pupils Fund) Regulations (Rg 1); or\n(b)which was listed under the category “Special Education Schools” in the Schedule to the revoked Education Endowment Scheme (Prescribed Schools) Regulations (Chapter 87A, Rg 1, 1997 Revised Edition)."
+   }
+  },
+  {
+   "id": "SG-H541-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "3. These Regulations apply where the applicable year or relevant year (as the case may be) is 2017 or any subsequent year."
+   }
+  },
+  {
+   "id": "SG-H541-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "text": {
+    "en": "4. [Deleted by S 156/2025]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H541-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 ELIGIBILITY CRITERIA FOR RELEVANT MONTHS IN APPLICABLE YEARS BEFORE 2025 OR FOR RELEVANT YEARS BEFORE 2025"
+   },
+   "heading": {
+    "en": "Eligibility criteria for member who was employee in relevant month"
+   },
+   "text": {
+    "en": "5.—(1) A member who works as an employee in a relevant month in an applicable year is an eligible member for that relevant month if the member satisfies every one of the following requirements that is not waived under regulation 10:\n(a)the member is a Singapore citizen —\n(i)on the last day of the relevant month; and\n(ii)at the time the benefit for that relevant month is to be paid or credited to the member in accordance with regulation 11;\n(b)the member —\n(i)if the applicable year is 2017, 2018, 2019, 2020, 2021 or 2022 — attains 35 years of age on or before 31 December of the applicable year;\n(ii)if the applicable year is 2023 or 2024 — attains 30 years of age on or before 31 December of the applicable year; or\n(iii)is a specified member;\n(c)the member resides, on 31 December in the year immediately preceding the applicable year, in a property with an annual value that is not more than the amount specified for that applicable year in the First Schedule;\n(d)the member and the member’s spouse collectively do not own more than one immovable property as at 31 December in the year immediately preceding the applicable year;\n(e)the member’s average monthly income earned in the relevant period is —\n(i)if the applicable year is 2017, 2018 or 2019 — not more than $2,000;\n(ii)if the applicable year is 2020, 2021 or 2022 — not more than $2,300; or\n(iii)if the applicable year is 2023 or 2024 — not more than $2,500;\n(f)the member’s total monthly wages received for the relevant month from the member’s employer (or all of the member’s employers if the member has more than one employer) is —\n(i)if the applicable year is 2017, 2018 or 2019 — not more than $2,000;\n(ii)if the applicable year is 2020, 2021 or 2022 — not more than $2,300; or\n(iii)if the applicable year is 2023 or 2024 — at least $500 but not more than $2,500;\n(g)where the member’s monthly wage received for the relevant month from any employer is $50 or less, the member has paid, or received from that employer, an additional contribution to any account of the member in the Fund as the Minister may direct —\n(i)if the relevant year is 2017, 2018, 2019, 2020, 2021 or 2022 — in accordance with paragraph (5);\n(ii)if the relevant year is 2023 — in accordance with paragraph (6); or\n(iii)if the relevant year is 2024 — in accordance with paragraph (7);\n(h)the member’s spouse has an assessable income of not more than $70,000 for the purposes of a notice of assessment under the Income Tax Act 1947 for the year immediately preceding the applicable year.\n(2) In paragraph (1)(e), “average monthly income”, in relation to a member, means the amount determined in accordance with the formula where —\n(a)W is the member’s total monthly wages received in the relevant period from the member’s employer (or all of the member’s employers if the member has more than one employer);\n(b)D —\n(i)is the member’s declared income or notified income (as the case may be) for the calendar year preceding the applicable year (called in this paragraph the preceding year), divided by the number of months in the preceding year in which the member worked as a self‑employed person; and\n(ii)is deemed to be zero if the member’s declared income or notified income (as the case may be) for the preceding year is a negative value;\n(c)P is the number of months in the preceding year, falling within the relevant period, in which the member worked as a self‑employed person; and\n(d)M is the total number of months in the relevant period in which the member worked as an employee, a self‑employed person or both.\n(3) For the purposes of paragraphs (1)(f)(i) and (ii) and (2)(a) and the Third and Sixth Schedules, a member’s total monthly wages excludes any monthly wage received from an employer of $50 or less, unless the member has paid or received the additional contribution mentioned in paragraph (1)(g)(i) in relation to that monthly wage.\n(4) For the purposes of paragraphs (1)(f)(iii) and (2)(a) and the Ninth Schedule, a member’s total monthly wages excludes any monthly wage received from an employer of $50 or less, unless the member has paid or received the additional contribution mentioned in paragraph (1)(g)(ii) or (iii) (as the case may be), in relation to that monthly wage.\n(5) For the purposes of paragraph (1)(g)(i) or regulation 7A(2)(h), the additional contribution to be paid by, or received from the employer of, the member is —\n(a)$9, where the relevant month is or falls before the member’s 55th birthday month;\n(b)$7, where the relevant month is any month after the member’s 55th birthday month, but is or before the member’s 60th birthday month;\n(c)$5, where the relevant month is any month after the member’s 60th birthday month, but is or before the member’s 65th birthday month; or\n(d)$4, where the relevant month is any month after the member’s 65th birthday month.\n(6) For the purposes of paragraph (1)(g)(ii) or regulation 7B(2)(h)(i), the additional contribution to be paid by, or received from the employer of, the member is —\n(a)$9, where the relevant month is or falls before the member’s 55th birthday month;\n(b)$7, where the relevant month is any month after the member’s 55th birthday month, but is or before the member’s 60th birthday month;\n(c)$6, where the relevant month is any month after the member’s 60th birthday month, but is or before the member’s 65th birthday month; or\n(d)$4, where the relevant month is any month after the member’s 65th birthday month.\n(7) For the purposes of paragraph (1)(g)(iii) or regulation 7B(2)(h)(ii), the additional contribution to be paid by, or received from the employer of, the member is —\n(a)$9, where the relevant month is or falls before the member’s 55th birthday month;\n(b)$8, where the relevant month is any month after the member’s 55th birthday month, but is or falls before the member’s 60th birthday month;\n(c)$6, where the relevant month is any month after the member’s 60th birthday month, but is or falls before the member’s 65th birthday month;\n(d)$5, where the relevant month is any month after the member’s 65th birthday month, but is or falls before the member’s 70th birthday month; or\n(e)$4, where the relevant month is any month after the member’s 70th birthday month."
+   }
+  },
+  {
+   "id": "SG-H541-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 ELIGIBILITY CRITERIA FOR RELEVANT MONTHS IN APPLICABLE YEARS BEFORE 2025 OR FOR RELEVANT YEARS BEFORE 2025"
+   },
+   "heading": {
+    "en": "Eligibility criteria for member who was solely self‑employed person in relevant year"
+   },
+   "text": {
+    "en": "6.—(1) A member who works only as a self‑employed person (and not as an employee) in a relevant year is an eligible member for that relevant year if the member satisfies every one of the following requirements that is not waived under regulation 10:\n(a)the member is a Singapore citizen —\n(i)on 31 December of the relevant year; and\n(ii)at the time the benefit for that relevant year is to be paid or credited to the member in accordance with regulation 12;\n(b)the member —\n(i)if the relevant year is 2017, 2018, 2019, 2020, 2021 or 2022 — attains 35 years of age on or before 31 December of the relevant year;\n(ii)if the relevant year is 2023 or 2024 — attains 30 years of age on or before 31 December of the relevant year; or\n(iii)is a specified member;\n(c)the member resides, on 31 December in the year immediately preceding the relevant year, in a property with an annual value that is not more than the amount specified for that relevant year in the First Schedule;\n(d)the member and the member’s spouse collectively do not own more than one immovable property as at 31 December in the year immediately preceding the relevant year;\n(e)the member has worked as a self‑employed person in at least one month in the relevant year;\n(f)if —\n(i)the relevant year is 2017, 2018, 2019, 2020, 2021 or 2022 — the member has declared the member’s self‑employment income for the relevant year in accordance with regulation 8(3); or\n(ii)the relevant year is 2023 or 2024 — the member has notified income for the relevant year in accordance with regulation 8(4);\n(g)if —\n(i)the relevant year is 2017, 2018 or 2019 — the member’s declared income for the relevant year is not more than $24,000;\n(ii)the relevant year is 2020, 2021 or 2022 — the member’s declared income for the relevant year is not more than $27,600; or\n(iii)the relevant year is 2023 or 2024 — the member’s notified income for the relevant year is not more than $30,000;\n(h)the member’s average monthly income earned during the relevant year is —\n(i)if the relevant year is 2017, 2018 or 2019 — not more than $2,000;\n(ii)if the relevant year is 2020, 2021 or 2022 — not more than $2,300; or\n(iii)if the relevant year is 2023 or 2024 — at least $500 and not more than $2,500;\n(i)the member pays every contribution that the member must pay in accordance with paragraph (3) —\n(i)under the Central Provident Fund (Self‑Employed Persons) Regulations 1992 for the relevant year 2017, 2018 or 2019 and each of the 2 years immediately preceding that relevant year; or\n(ii)under section 9A of the Act for the relevant year 2020, 2021, 2022, 2023 or 2024;\n(j)the member pays an additional contribution to the member’s medisave account —\n(i)for the relevant year 2017, 2018 or 2019 and each of the 2 years immediately preceding that relevant year; or\n(ii)for the relevant year 2020, 2021, 2022, 2023 or 2024,\nin accordance with —\n(iii)where the member’s declared income for the relevant year 2017, 2018, 2019, 2020, 2021 or 2022 is not more than $6,000 — paragraphs (4), (5) and (7);\n(iv)where the member’s notified income for the relevant year 2023 or 2024 is not more than $6,000 — paragraphs (4) and (6); or\n(v)where the member’s declared income for the relevant year 2017, 2018, 2019, 2020, 2021 or 2022, or notified income for the relevant year 2023 or 2024, is more than $6,000 — paragraphs (4) and (8);\n(k)the member’s spouse has an assessable income of not more than $70,000 for the purposes of a notice of assessment under the Income Tax Act 1947 for the year immediately preceding the relevant year.\n(2) For the purposes of paragraph (1)(h) and the Fourth, Seventh and Tenth Schedules, “average monthly income”, in relation to a member, means the amount determined in accordance with the formula where —\n(a)D is the member’s declared income or notified income (as the case may be) for the relevant year; and\n(b)M is the total number of months in the relevant year in which the member works as a self‑employed person.\n(3) For the purposes of paragraph (1)(i), the contribution for each year mentioned in that paragraph must be paid on or before 31 December of the second year after that year.\n(4) For each year mentioned in paragraph (1)(j), the additional contribution mentioned in that paragraph must be paid on or before 31 December of the second year after that year.\n(5) For the purposes of paragraph (1)(j)(iii), the additional contribution for each year is an amount equal to —\n(a)where the member is below 35 years of age on 1 January of that year — 4% of the member’s declared income for that year, subject to a minimum of $24;\n(b)where the member has attained 35 years of age but is below 45 years of age on 1 January of that year — 4.5% of the member’s declared income for that year, subject to a minimum of $27;\n(c)where the member has attained 45 years of age but is below 50 years of age on 1 January of that year — 5% of the member’s declared income for that year, subject to a minimum of $30; or\n(d)where the member is 50 years of age or older on 1 January of that year — 5.25% of the member’s declared income for that year, subject to a minimum of $31.\n(6) For the purposes of paragraph (1)(j)(iv), the additional contribution for each year is an amount equal to —\n(a)where the member is below 35 years of age on 1 January of that year — $240;\n(b)where the member has attained 35 years of age but is below 45 years of age on 1 January of that year — $270;\n(c)where the member has attained 45 years of age but is below 50 years of age on 1 January of that year — $300; or\n(d)where the member is 50 years of age or older on 1 January of that year — $315.\n(7) Despite paragraphs (4) and (5), where any of the 2 years immediately preceding the relevant year (called in this paragraph the preceding year) is 2015 or 2016, for the purposes of paragraph (1)(j)(i) and (iii), the additional contribution for that year is payable in accordance with regulation 4(2) and (3) of the Central Provident Fund (Workfare Income Supplement Scheme) Regulations 2007.\n(8) For the purposes of paragraph (1)(j)(v), the additional contribution payable for each relevant year is —\n(a)where A exceeds B — the amount determined in accordance with the formula A – B; or\n(b)where A does not exceed B — nil.\n(9) In paragraph (8) —\n(a)A is the amount that is applicable to the member as set out in the Second Schedule for the relevant year; and\n(b)B is the amount of the self‑employed contribution and estimated contribution (if any) required to be paid by or for the member for that relevant year."
+   }
+  },
+  {
+   "id": "SG-H541-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 ELIGIBILITY CRITERIA FOR RELEVANT MONTHS IN APPLICABLE YEARS BEFORE 2025 OR FOR RELEVANT YEARS BEFORE 2025"
+   },
+   "heading": {
+    "en": "Eligibility criteria for member who was both employee and self‑employed person in relevant year before 2020"
+   },
+   "text": {
+    "en": "7.—(1) A member who —\n(a)worked as a self‑employed person in the relevant year 2017, 2018 or 2019; and\n(b)is an employed eligible member for a relevant month in that relevant year,\nis an eligible member for that relevant year if the member satisfies all of the requirements in paragraph (2), except any requirement that is waived under regulation 10.\n(2) For the purposes of paragraph (1), the requirements are as follows:\n(a)the member is a Singapore citizen —\n(i)on 31 December of the relevant year; and\n(ii)at the time the benefit for that relevant year is to be paid or credited to the member in accordance with regulation 13;\n(b)the member has worked as a self‑employed person in at least one month in the relevant year;\n(c)the member has declared the member’s self‑employment income in the relevant year in accordance with regulation 8(1) and (3);\n(d)the member’s average monthly income earned during the relevant year is not more than $2,000;\n(e)the member pays every contribution which the member must pay under the Central Provident Fund (Self‑Employed Persons) Regulations 1992 for the relevant year and each of the 2 years immediately preceding that relevant year, in accordance with paragraph (4);\n(f)the member pays an additional contribution to the member’s medisave account, for the relevant year and each of the 2 years immediately preceding that relevant year, in accordance with —\n(i)where the member’s declared income for the relevant year is not more than $6,000 — paragraphs (5), (6) and (7); or\n(ii)where the member’s declared income for the relevant year is more than $6,000 — paragraphs (5) and (8).\n(3) For the purposes of paragraph (2)(d) and the Fifth Schedule —\n(a)“average monthly income”, in relation to a member, means the amount determined in accordance with the formula where —\n(i)W is the member’s total monthly wages as an employee received from the member’s employer (or all of the member’s employers if the member has more than one employer) in the relevant year;\n(ii)D —\n(A)is the member’s declared income for the relevant year; and\n(B)is deemed to be zero if the member’s declared income for the relevant year is a negative value; and\n(iii)M is the total number of months in the relevant year in which the member has worked as an employee, a self‑employed person or both; and\n(b)the member’s total monthly wages in sub‑paragraph (a)(i) excludes any monthly wage of $50 or less, unless the member has paid or received the additional contribution mentioned in regulation 5(1)(g)(i) in relation to that monthly wage.\n(4) For the purposes of paragraph (2)(e), the contribution for each year mentioned in that paragraph must be paid on or before 31 December of the second year after that year.\n(5) For each year mentioned in paragraph (2)(f), the additional contribution mentioned in that paragraph must be paid on or before 31 December of the second year after that year.\n(6) For the purposes of paragraph (2)(f)(i), the additional contribution for each year is an amount equal to —\n(a)where the member is below 35 years of age on 1 January of that year — 4% of the member’s declared income for that year, subject to a minimum of $24;\n(b)where the member has attained 35 years of age but is below 45 years of age on 1 January of that year — 4.5% of the member’s declared income for that year, subject to a minimum of $27;\n(c)where the member has attained 45 years of age but is below 50 years of age on 1 January of that year — 5% of the member’s declared income for that year, subject to a minimum of $30; or\n(d)where the member is 50 years of age or older on 1 January of that year — 5.25% of the member’s declared income for that year, subject to a minimum of $31.\n(7) Despite paragraphs (5) and (6), where any of the 2 years immediately preceding the relevant year (called in this paragraph the preceding year) is 2015 or 2016, for the purposes of paragraph (2)(f)(i), the additional contribution for that year is payable in accordance with regulation 4B(3) and (4)(c) of the Central Provident Fund (Workfare Income Supplement Scheme) Regulations 2007.\n(8) For the purposes of paragraph (2)(f)(ii), the additional contribution payable for each year is the amount determined in accordance with the formula A – B, where —\n(a)A is the amount that is applicable to the member as set out in the Second Schedule; and\n(b)B is the amount of contributions which the member must pay under the Central Provident Fund (Self‑Employed Persons) Regulations 1992."
+   }
+  },
+  {
+   "id": "SG-H541-A7.001",
+   "no": 7.001,
+   "noLabel": {
+    "en": "7A."
+   },
+   "chapter": {
+    "en": "PART 2 ELIGIBILITY CRITERIA FOR RELEVANT MONTHS IN APPLICABLE YEARS BEFORE 2025 OR FOR RELEVANT YEARS BEFORE 2025"
+   },
+   "heading": {
+    "en": "Eligibility criteria for member who was both employee and self‑employed person in relevant year 2020, 2021 or 2022"
+   },
+   "text": {
+    "en": "7A.—(1) A member who —\n(a)worked as a self‑employed person in the relevant year 2020, 2021 or 2022; and\n(b)worked as an employee for at least one month in that relevant year,\nis an eligible member for that relevant year if that member satisfies all of the requirements in paragraph (2), except any requirement that is waived under regulation 10.\n(2) For the purposes of paragraph (1), the requirements are as follows:\n(a)the member is a Singapore citizen —\n(i)on 31 December of the relevant year; and\n(ii)at the time the benefit for that relevant year is to be paid or credited to the member in accordance with regulation 13;\n(b)the member —\n(i)attains 35 years of age on or before 31 December of the relevant year; or\n(ii)is a specified member;\n(c)the member resides, on 31 December in the year immediately preceding the relevant year, in a property with an annual value that is not more than the amount specified for that relevant year in the First Schedule;\n(d)the member and the member’s spouse collectively do not own more than one immovable property as at 31 December in the year immediately preceding the relevant year;\n(e)the member has worked as a self‑employed person in at least one month in the relevant year;\n(f)the member has declared the member’s self‑employment income in the relevant year in accordance with regulation 8(2) and (3);\n(g)the member’s average monthly income earned during the relevant year is not more than $2,300;\n(h)where the member’s monthly wage from any employer is $50 or less, the member has paid, or received from that employer, an additional contribution to any account of the member in the Fund as the Minister may direct, in accordance with regulation 5(5);\n(i)the member’s spouse has an assessable income of not more than $70,000 for the purposes of a notice of assessment under the Income Tax Act 1947 for the year immediately preceding the relevant year;\n(j)the member pays every contribution which the member must pay under section 9A of the Act for the relevant year, in accordance with paragraph (4);\n(k)the member pays an additional contribution to the member’s medisave account, for the relevant year, in accordance with —\n(i)where the member’s declared income for the relevant year is not more than $6,000 — paragraphs (5) and (6); or\n(ii)where the member’s declared income for the relevant year is more than $6,000 — paragraphs (5) and (7).\n(3) For the purposes of paragraph (2)(g) and the Eighth Schedule —\n(a)“average monthly income”, in relation to a member, means the amount determined in accordance with the formula\nwhere —\n(i)W is the member’s total monthly wages as an employee received from the member’s employer (or all of the member’s employers if the member has more than one employer) in the relevant year;\n(ii)D —\n(A)is the member’s declared income for the relevant year; and\n(B)is deemed to be zero if the member’s declared income for the relevant year is a negative value; and\n(iii)M is the total number of months in the relevant year in which the member has worked as an employee, a self‑employed person or both; and\n(b)the member’s total monthly wages in sub‑paragraph (a)(i) excludes any monthly wage of $50 or less, unless the member has paid or received the additional contribution mentioned in paragraph (2)(h) in relation to that monthly wage.\n(4) For the purposes of paragraph (2)(j), the contribution for the relevant year must be paid on or before 31 December of the second year after that year.\n(5) For the purposes of paragraph (2)(k), the additional contribution for the relevant year must be paid on or before 31 December of the second year after that year.\n(6) For the purposes of paragraph (2)(k)(i), the additional contribution for the relevant year is an amount equal to —\n(a)where the member is below 35 years of age on 1 January of that year — 4% of the member’s declared income for that year, subject to a minimum of $24;\n(b)where the member has attained 35 years of age but is below 45 years of age on 1 January of that year — 4.5% of the member’s declared income for that year, subject to a minimum of $27;\n(c)where the member has attained 45 years of age but is below 50 years of age on 1 January of that year — 5% of the member’s declared income for that year, subject to a minimum of $30; or\n(d)where the member is 50 years of age or older on 1 January of that year — 5.25% of the member’s declared income for that year, subject to a minimum of $31.\n(7) For the purposes of paragraph (2)(k)(ii), the additional contribution payable for each relevant year is —\n(a)where A exceeds B — the amount determined in accordance with the formula A – B; or\n(b)where A does not exceed B — nil.\n(8) In paragraph (7) —\n(a)A is the amount that is applicable to the member as set out in the Second Schedule for the relevant year; and\n(b)B is the amount of the self‑employed contribution and estimated contribution (if any) required to be paid by or for the member for that relevant year."
+   }
+  },
+  {
+   "id": "SG-H541-A7.002",
+   "no": 7.002,
+   "noLabel": {
+    "en": "7B."
+   },
+   "chapter": {
+    "en": "PART 2 ELIGIBILITY CRITERIA FOR RELEVANT MONTHS IN APPLICABLE YEARS BEFORE 2025 OR FOR RELEVANT YEARS BEFORE 2025"
+   },
+   "heading": {
+    "en": "Eligibility criteria for member who was both employee and self‑employed person in relevant year 2023 or 2024"
+   },
+   "text": {
+    "en": "7B.—(1) A member who —\n(a)worked as a self‑employed person in the relevant year 2023 or 2024; and\n(b)worked as an employee for at least one month in that relevant year,\nis an eligible member for that relevant year if that member satisfies all of the requirements in paragraph (2), except any requirement that is waived under regulation 10.\n(2) For the purposes of paragraph (1), the requirements are as follows:\n(a)the member is a Singapore citizen —\n(i)on 31 December of the relevant year; and\n(ii)at the time the benefit for that relevant year is to be paid or credited to the member in accordance with regulation 13;\n(b)the member —\n(i)attains 30 years of age on or before 31 December of the relevant year; or\n(ii)is a specified member;\n(c)the member resides, on 31 December in the year immediately preceding the relevant year, in a property with an annual value that is not more than the amount specified for that relevant year in the First Schedule;\n(d)the member and the member’s spouse collectively do not own more than one immovable property as at 31 December in the year immediately preceding the relevant year;\n(e)the member has worked as a self‑employed person in at least one month in the relevant year;\n(f)the member has notified income for the relevant year in accordance with regulation 8(4);\n(g)the member’s average monthly income earned during the relevant year is at least $500 and not more than $2,500;\n(h)where the member’s monthly wage from any employer is $50 or less, the member has paid, or received from that employer, an additional contribution to any account of the member in the Fund as the Minister may direct —\n(i)if the relevant year is 2023 — in accordance with regulation 5(6); or\n(ii)if the relevant year is 2024 — in accordance with regulation 5(7);\n(i)the member’s spouse has an assessable income of not more than $70,000 for the purposes of a notice of assessment under the Income Tax Act 1947 for the year immediately preceding the relevant year;\n(j)the member pays every contribution which the member must pay under section 9A of the Act for the relevant year, in accordance with paragraph (4);\n(k)the member pays an additional contribution to the member’s medisave account, for the relevant year, in accordance with —\n(i)where the member’s notified income for the relevant year is not more than $6,000 — paragraphs (5) and (6); or\n(ii)where the member’s notified income for the relevant year is more than $6,000 — paragraphs (5) and (7).\n(3) For the purposes of paragraph (2)(g) and the Eleventh Schedule —\n(a)“average monthly income”, in relation to a member, means the amount determined in accordance with the formula where —\n(i)W is the member’s total monthly wages as an employee received from the member’s employer (or all of the member’s employers if the member has more than one employer) in the relevant year;\n(ii)D —\n(A)is the member’s notified income for the relevant year; and\n(B)is deemed to be zero if the member’s notified income for the relevant year is a negative value; and\n(iii)M is the total number of months in the relevant year in which the member has worked as an employee, a self‑employed person or both; and\n(b)the member’s total monthly wages in sub‑paragraph (a)(i) excludes any monthly wage received from an employer of $50 or less, unless the member has paid or received the additional contribution mentioned in paragraph (2)(h) in relation to that monthly wage.\n(4) For the purposes of paragraph (2)(j), the contribution for the relevant year must be paid on or before 31 December of the second year after that year.\n(5) For the purposes of paragraph (2)(k), the additional contribution for the relevant year must be paid on or before 31 December of the second year after that year.\n(6) For the purposes of paragraph (2)(k)(i), the additional contribution for the relevant year is an amount equal to —\n(a)where the member is below 35 years of age on 1 January of that year — $240;\n(b)where the member has attained 35 years of age but is below 45 years of age on 1 January of that year — $270;\n(c)where the member has attained 45 years of age but is below 50 years of age on 1 January of that year — $300; or\n(d)where the member is 50 years of age or older on 1 January of that year — $315.\n(7) For the purposes of paragraph (2)(k)(ii), the additional contribution payable for each relevant year is —\n(a)where A exceeds B — the amount determined in accordance with the formula A – B; or\n(b)where A does not exceed B — nil.\n(8) In paragraph (7) —\n(a)A is the amount that is applicable to the member as set out in the Second Schedule for the relevant year; and\n(b)B is the amount of the self‑employed contribution and estimated contribution (if any) required to be paid by or for the member for that relevant year."
+   }
+  },
+  {
+   "id": "SG-H541-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 ELIGIBILITY CRITERIA FOR RELEVANT MONTHS IN APPLICABLE YEARS BEFORE 2025 OR FOR RELEVANT YEARS BEFORE 2025"
+   },
+   "heading": {
+    "en": "Declared income and notified income"
+   },
+   "text": {
+    "en": "8.—(1) For the purposes of regulations 5(2)(b), 6(1)(f), (g) and (j), (2)(a) and (5), 7(2)(c) and (f), (3)(a)(ii) and (6) and 7A(2)(f) and (k), (3)(a)(ii) and (6) and the Second Schedule, a member’s declared income for a relevant year before 2020 is —\n(a)where the member has not previously received any notice of assessment from the Comptroller and has not declared his or her income in accordance with paragraph (3), deemed to be $9,000; or\n(b)in any other case, the member’s self‑employment income declared in accordance with paragraph (3).\n(2) For the purposes of regulations 5(2)(b), 6(1)(f), (g) and (j), (2)(a) and (5) and 7A(2)(f) and (k), (3)(a)(ii) and (6) and the Second Schedule, a member’s declared income for the relevant year 2020, 2021 or 2022 is the member’s self‑employment income declared in accordance with paragraph (3).\n(3) For the purposes of paragraphs (1) and (2) and regulations 6(1)(f), 7(2)(c) and 7A(2)(f), a member must declare the member’s self‑employment income —\n(a)to the Comptroller, on or before 31 December of the second year following the relevant year in the form and manner required by the Comptroller; or\n(b)to the Board, if the member is not required to declare the member’s self‑employment income to the Comptroller, on or before 31 December of the second year following the relevant year in the form and manner required by the Board.\n(4) For the purposes of regulations 5(2)(b), 6(1)(f)(ii), (g)(iii) and (j)(iv) and (v) and (2)(a) and 7B(2)(f) and (k) and (3)(a)(ii) and the Second Schedule, a member’s notified income for the relevant year 2023 or 2024 is the member’s self‑employment income for that year that is notified by the Comptroller to the Board."
+   }
+  },
+  {
+   "id": "SG-H541-A8.027",
+   "no": 8.027,
+   "noLabel": {
+    "en": "8AA."
+   },
+   "chapter": {
+    "en": "PART 3 ELIGIBILITY CRITERIA FOR RELEVANT MONTHS IN APPLICABLE YEAR 2025 AND LATER OR FOR RELEVANT YEAR 2025 AND LATER"
+   },
+   "heading": {
+    "en": "Eligible employee"
+   },
+   "text": {
+    "en": "8AA. A member is an eligible employee for a relevant month in an applicable year (that is 2025 or later) if the member —\n(a)worked as an employee (and not also as a platform worker) in the relevant month; and\n(b)satisfies the following requirements, except any requirement that is waived under regulation 10:\n(i)the requirements in regulation 8AF;\n(ii)subject to regulation 8AI, the member’s total wages for the relevant month is at least $500 and not more than $3,000;\n(iii)the member’s average monthly income computed in accordance with regulation 8AG(1) is not more than $3,000."
+   }
+  },
+  {
+   "id": "SG-H541-A8.028",
+   "no": 8.028,
+   "noLabel": {
+    "en": "8AB."
+   },
+   "chapter": {
+    "en": "PART 3 ELIGIBILITY CRITERIA FOR RELEVANT MONTHS IN APPLICABLE YEAR 2025 AND LATER OR FOR RELEVANT YEAR 2025 AND LATER"
+   },
+   "heading": {
+    "en": "Eligible Group A worker"
+   },
+   "text": {
+    "en": "8AB. A member is an eligible Group A worker for a relevant month in an applicable year (that is 2025 or later) if the member —\n(a)being a Group A worker, worked as a platform worker (and not also as an employee) in the relevant month; and\n(b)satisfies the following requirements, except any requirement that is waived under regulation 10:\n(i)the requirements in regulation 8AF;\n(ii)subject to regulation 8AI, the member’s total APE for the relevant month is at least $500 and not more than $3,000;\n(iii)the member’s average monthly income computed in accordance with regulation 8AG(1) is not more than $3,000."
+   }
+  },
+  {
+   "id": "SG-H541-A8.029",
+   "no": 8.029,
+   "noLabel": {
+    "en": "8AC."
+   },
+   "chapter": {
+    "en": "PART 3 ELIGIBILITY CRITERIA FOR RELEVANT MONTHS IN APPLICABLE YEAR 2025 AND LATER OR FOR RELEVANT YEAR 2025 AND LATER"
+   },
+   "heading": {
+    "en": "Eligible Group B worker"
+   },
+   "text": {
+    "en": "8AC. A member is an eligible Group B worker for a relevant month in an applicable year (that is 2025 or later) if the member —\n(a)being a Group B worker, worked as a platform worker (and not also an employee) in the relevant month; and\n(b)satisfies the following requirements, except any requirement that is waived under regulation 10:\n(i)the requirements in regulation 8AF;\n(ii)subject to regulation 8AI, the member’s total APE for the relevant month is at least $500 and not more than $3,000;\n(iii)the member’s average monthly income computed in accordance with regulation 8AG(1) is not more than $3,000."
+   }
+  },
+  {
+   "id": "SG-H541-A8.03",
+   "no": 8.03,
+   "noLabel": {
+    "en": "8AD."
+   },
+   "chapter": {
+    "en": "PART 3 ELIGIBILITY CRITERIA FOR RELEVANT MONTHS IN APPLICABLE YEAR 2025 AND LATER OR FOR RELEVANT YEAR 2025 AND LATER"
+   },
+   "heading": {
+    "en": "Eligible employee‑platform worker"
+   },
+   "text": {
+    "en": "8AD. A member is an eligible employee‑platform worker for a relevant month in an applicable year (that is 2025 or later) if the member —\n(a)worked as an employee, and also as a platform worker, in the relevant month; and\n(b)satisfies the following requirements, except any requirement that is waived under regulation 10:\n(i)the requirements in regulation 8AF;\n(ii)subject to regulation 8AI, the aggregate of the member’s total wages and total APE for the relevant month is at least $500 and not more than $3,000;\n(iii)the member’s average monthly income computed in accordance with regulation 8AG(1) is not more than $3,000."
+   }
+  },
+  {
+   "id": "SG-H541-A8.031",
+   "no": 8.031,
+   "noLabel": {
+    "en": "8AE."
+   },
+   "chapter": {
+    "en": "PART 3 ELIGIBILITY CRITERIA FOR RELEVANT MONTHS IN APPLICABLE YEAR 2025 AND LATER OR FOR RELEVANT YEAR 2025 AND LATER"
+   },
+   "heading": {
+    "en": "Eligible self‑employed person"
+   },
+   "text": {
+    "en": "8AE.—(1) A member is an eligible self‑employed person for a relevant year (that is 2025 or later) if the member —\n(a)worked as a self‑employed person (other than a platform worker) in any month or months in the relevant year; and\n(b)satisfies the following requirements, except any requirement that is waived under regulation 10:\n(i)the requirements in regulation 8AF;\n(ii)the member has notified income for the relevant year;\n(iii)the member’s average monthly income computed in accordance with regulation 8AG(2) is at least $500 and not more than $3,000;\n(iv)the member pays every contribution which the member must pay under section 9A of the Act, for the relevant year, in accordance with paragraph (2);\n(v)the member pays an additional contribution to the member’s medisave account, for the relevant year, in accordance with regulation 8AJ.\n(2) For the purposes of paragraph (1)(b)(iv), the contribution for the relevant year must be paid on or before 31 December of the second year after that year.\n(3) For the purposes of paragraph (1)(b)(v), the additional contribution for the relevant year must be paid on or before 31 December of the second year after that year.\n(4) To avoid doubt —\n(a)paragraph (1) applies whether or not the member also worked as an employee, a platform worker or both in any month or months in the relevant year; and\n(b)a member’s eligibility to receive any benefit under the Scheme for a relevant year as an eligible self‑employed person is, if he or she also worked as an employee or a platform worker or both in any part of the relevant year, assessed after the member’s eligibility for each relevant month in that year under regulation 8AA, 8AB, 8AC or 8AD, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H541-A8.032",
+   "no": 8.032,
+   "noLabel": {
+    "en": "8AF."
+   },
+   "chapter": {
+    "en": "PART 3 ELIGIBILITY CRITERIA FOR RELEVANT MONTHS IN APPLICABLE YEAR 2025 AND LATER OR FOR RELEVANT YEAR 2025 AND LATER"
+   },
+   "heading": {
+    "en": "Common eligibility requirements"
+   },
+   "text": {
+    "en": "8AF. For the purposes of regulations 8AA(b)(i), 8AB(b)(i), 8AC(b)(i), 8AD(b)(i) and 8AE(1)(b)(i), the requirements are as follows:\n(a)the member is a Singapore citizen —\n(i)on the last day of the relevant month or 31 December of the relevant year, as the case may be; and\n(ii)at the time the benefit for that relevant month or relevant year (as the case may be) is to be paid or credited to the member in accordance with regulations 13A, 13B, 13C, 13D and 13E;\n(b)the member —\n(i)attains 30 years of age on or before 31 December of the applicable year or relevant year, as the case may be; or\n(ii)is a specified member;\n(c)the member resides, on 31 December in the year immediately preceding the applicable year or relevant year (as the case may be), in a property with an annual value that is not more than the amount specified for that applicable year or relevant year in the First Schedule;\n(d)the member and the member’s spouse collectively do not own more than one immovable property as at 31 December in the year immediately preceding the applicable year or relevant year, as the case may be;\n(e)the member’s spouse has an assessable income of not more than $70,000 for the purposes of a notice of assessment under the Income Tax Act 1947 for the year immediately preceding the applicable year or relevant year, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H541-A8.033",
+   "no": 8.033,
+   "noLabel": {
+    "en": "8AG."
+   },
+   "chapter": {
+    "en": "PART 3 ELIGIBILITY CRITERIA FOR RELEVANT MONTHS IN APPLICABLE YEAR 2025 AND LATER OR FOR RELEVANT YEAR 2025 AND LATER"
+   },
+   "heading": {
+    "en": "Average monthly income"
+   },
+   "text": {
+    "en": "8AG.—(1) In regulation 8AA(b)(iii), 8AB(b)(iii), 8AC(b)(iii) or 8AD(b)(iii), “average monthly income” means the amount determined in accordance with the formula where —\n(a)Ep is the member’s total APE (if any) received in the relevant period;\n(b)Wp is the member’s total wages (if any) received in the relevant period;\n(c)Npy —\n(i)is the member’s notified income (if any) for the calendar year preceding the applicable year (called in this sub‑paragraph the preceding year), divided by the number of months in the preceding year in which the member worked as a self‑employed person; and\n(ii)is deemed to be zero if the member’s notified income for the preceding year is a negative value;\n(d)Ppy is the number of months in the preceding year, falling within the relevant period, in which the member worked as a self‑employed person (if applicable); and\n(e)Mp is the total number of months in the relevant period in which the member has worked as one or more of the following:\n(i)an employee;\n(ii)a self‑employed person (other than a platform worker);\n(iii)a platform worker.\n(2) In regulation 8AE(1)(b)(iii), “average monthly income” means the amount determined in accordance with the formula where —\n(a)Ey is the member’s total APE (if any) received in the relevant year;\n(b)Wy is the member’s total wages (if any) received in the relevant year;\n(c)Ny —\n(i)is the member’s notified income for the relevant year; and\n(ii)is deemed to be zero if the member’s notified income for the relevant year is a negative value; and\n(d)My is the total number of months in the relevant year in which the member has worked as one or more of the following:\n(i)a self‑employed person (other than a platform worker);\n(ii)an employee;\n(iii)a platform worker.\n(3) In this regulation —\n(a)a reference to a member’s total APE received in a relevant period or a relevant year —\n(i)is a reference to the total APE for each month in the relevant period or relevant year, as the case may be; and\n(ii)excludes any APE for a relevant month from a platform operator —\n(A)for a Group A worker — of $50 or less; or\n(B)for a Group B worker — of $500 or less,\nunless the member has paid or received the additional contributions in accordance with regulation 8AI in relation to that APE; and\n(b)a reference to a member’s total wages received in a relevant period or a relevant year —\n(i)is a reference to the total wages for each month in the relevant period or relevant year, as the case may be; and\n(ii)excludes any wages for the relevant month from an employer of $50 or less, unless the member has paid or received the additional contributions in accordance with regulation 8AI in relation to those wages."
+   }
+  },
+  {
+   "id": "SG-H541-A8.034",
+   "no": 8.034,
+   "noLabel": {
+    "en": "8AH."
+   },
+   "chapter": {
+    "en": "PART 3 ELIGIBILITY CRITERIA FOR RELEVANT MONTHS IN APPLICABLE YEAR 2025 AND LATER OR FOR RELEVANT YEAR 2025 AND LATER"
+   },
+   "heading": {
+    "en": "Meaning of total wages for relevant month and total APE for relevant month"
+   },
+   "text": {
+    "en": "8AH. In this Part, Part 5 and the Twelfth, Thirteenth and Fifteenth Schedules —\n(a)a member’s total wages for a relevant month —\n(i)is the member’s wages for the relevant month from the member’s employer, or from all of the member’s employers if the member has more than one employer; and\n(ii)excludes any wages for the relevant month from an employer of $50 or less, unless the member has paid or received the additional contributions in accordance with regulation 8AI in relation to those wages; and\n(b)a member’s total APE for a relevant month —\n(i)is the member’s APE for the relevant month from the member’s platform operator, or from all of the member’s platform operators if the member has APE from more than one platform operator; and\n(ii)where the member —\n(A)is a Group A worker who worked as a platform worker in the relevant month — excludes any APE for the relevant month received from a platform operator of $50 or less, unless the member has paid or received the additional contribution in accordance with regulation 8AI in relation to the APE; or\n(B)is a Group B worker who worked as a platform worker in the relevant month — excludes any APE for the relevant month received from a platform operator of $500 or less, unless the member has paid or received the additional contribution in accordance with regulation 8AI in relation to the APE."
+   }
+  },
+  {
+   "id": "SG-H541-A8.035",
+   "no": 8.035,
+   "noLabel": {
+    "en": "8AI."
+   },
+   "chapter": {
+    "en": "PART 3 ELIGIBILITY CRITERIA FOR RELEVANT MONTHS IN APPLICABLE YEAR 2025 AND LATER OR FOR RELEVANT YEAR 2025 AND LATER"
+   },
+   "heading": {
+    "en": "Additional contributions payable for relevant month"
+   },
+   "text": {
+    "en": "8AI.—(1) Where a member satisfies all the requirements in regulation 8AA(b) except the requirement in regulation 8AA(b)(ii), but the Board has waived that requirement, the member is an eligible employee for a relevant month if —\n(a)the member’s wages as an employee for the relevant month from any one employer is $50 or less; and\n(b)an additional contribution is made on the member’s wages from at least one employer mentioned in sub‑paragraph (a) in accordance with paragraph (2) to any account of the member in the Fund as the Minister may direct.\n(2) The amount of the additional contribution mentioned in paragraph (1) for the member’s wages from each employer mentioned in sub‑paragraph (a) is —\n(a)$9, where the relevant month is or falls before the member’s 55th birthday month;\n(b)$8, where the relevant month is any month after the member’s 55th birthday month, but is or falls before the member’s 60th birthday month;\n(c)$6, where the relevant month is any month after the member’s 60th birthday month, but is or falls before the member’s 65th birthday month;\n(d)$5, where the relevant month is any month after the member’s 65th birthday month, but is or falls before the member’s 70th birthday month; or\n(e)$4, where the relevant month is any month after the member’s 70th birthday month.\n(3) Where a member satisfies all the requirements in regulation 8AB(b) except the requirement in regulation 8AB(b)(ii), but the Board has waived that requirement, the member is an eligible Group A worker for a relevant month if —\n(a)the member’s APE as a Group A worker in the relevant month from any one platform operator is $50 or less; and\n(b)an additional contribution is made in accordance with paragraph (4) to any account of the member in the Fund as the Minister may direct.\n(4) The amount of the additional contribution mentioned in paragraph (3) is —\n(a)$7, where the relevant month is or falls before the member’s 55th birthday month;\n(b)$7, where the relevant month is any month after the member’s 55th birthday month, but is or falls before the member’s 60th birthday month;\n(c)$7, where the relevant month is any month after the member’s 60th birthday month, but is or falls before the member’s 65th birthday month;\n(d)$5, where the relevant month is any month after the member’s 65th birthday month, but is or falls before the member’s 70th birthday month; or\n(e)$4, where the relevant month is any month after the member’s 70th birthday month.\n(5) Where a member satisfies all the requirements in regulation 8AC(b) except the requirement in regulation 8AC(b)(ii), but the Board has waived that requirement, the member is an eligible Group B worker for a relevant month if —\n(a)the member’s APE as a Group B worker in a relevant month from any one platform operator is $500 or less; and\n(b)an additional contribution is made in accordance with paragraph (6) to the member’s medisave account.\n(6) The amount of the additional contribution mentioned in paragraph (5) is the amount specified in the Fifteenth Schedule that corresponds to the member’s age and the sum of the member’s total APE as a Group B worker for all the relevant months in the applicable year.\n(7) Where a member satisfies all the requirements in regulation 8AD(b) except the requirement in regulation 8AD(b)(ii), but the Board has waived that requirement, the member is an eligible employee‑platform worker for a relevant month if —\n(a)the requirements in paragraph (1)(a) and (b) are satisfied;\n(b)where the member is a Group A worker who worked as a platform worker in that relevant month — the requirements in paragraph (3)(a) and (b) are satisfied; and\n(c)where the member is a Group B worker who worked as a platform worker in that relevant month — the requirements in paragraph (5)(a) and (b) are satisfied.\n(8) To avoid doubt, regulations 8AG(3) and 8AH do not apply to references to a member’s wages or APE in a relevant month in this regulation."
+   }
+  },
+  {
+   "id": "SG-H541-A8.036",
+   "no": 8.036,
+   "noLabel": {
+    "en": "8AJ."
+   },
+   "chapter": {
+    "en": "PART 3 ELIGIBILITY CRITERIA FOR RELEVANT MONTHS IN APPLICABLE YEAR 2025 AND LATER OR FOR RELEVANT YEAR 2025 AND LATER"
+   },
+   "heading": {
+    "en": "Additional contributions payable for relevant year"
+   },
+   "text": {
+    "en": "8AJ.—(1) The amount of the additional contribution mentioned in regulation 8AE(1)(b)(v) is —\n(a)where the member’s notified income for the relevant year is not more than $6,000 —\n(i)if the member is below 35 years of age on 1 January of that year — $240;\n(ii)if the member has attained 35 years of age but is below 45 years of age on 1 January of that year — $270;\n(iii)if the member has attained 45 years of age but is below 50 years of age on 1 January of that year — $300; or\n(iv)if the member is 50 years of age or older on 1 January of that year — $315; or\n(b)where the member’s notified income for the relevant year is more than $6,000 —\n(i)if A exceeds B — the amount determined in accordance with the formula A – B; or\n(ii)if A does not exceed B — nil.\n(2) In paragraph (1)(b) —\n(a)A is the amount specified in the Second Schedule that corresponds to the member’s age and the member’s notified income for the relevant year; and\n(b)B is the amount of the self‑employed contribution and estimated contribution (if any) required to be paid by or for the member for that relevant year."
+   }
+  },
+  {
+   "id": "SG-H541-A8.037",
+   "no": 8.037,
+   "noLabel": {
+    "en": "8AK."
+   },
+   "chapter": {
+    "en": "PART 3 ELIGIBILITY CRITERIA FOR RELEVANT MONTHS IN APPLICABLE YEAR 2025 AND LATER OR FOR RELEVANT YEAR 2025 AND LATER"
+   },
+   "heading": {
+    "en": "Notified income"
+   },
+   "text": {
+    "en": "8AK.—(1) For the purposes of regulations 8AE(1)(b)(ii), 8AG(1)(c) and (2)(c) and 8AJ(1)(a) and (b) and (2)(a), a member’s notified income for a relevant year is the member’s self‑employment income for that year that is notified by the Comptroller to the Board less the member’s total APE for each of the relevant months in that year, if any.\n(2) To avoid doubt, regulations 8AG(3)(a)(ii) and 8AH(b)(ii) do not apply to references to a member’s total APE in a relevant month in this regulation."
+   }
+  },
+  {
+   "id": "SG-H541-A8.001",
+   "no": 8.001,
+   "noLabel": {
+    "en": "8A."
+   },
+   "chapter": {
+    "en": "PART 4 VOLUNTARY CONTRIBUTIONS, REVIEW AND WAIVER"
+   },
+   "heading": {
+    "en": "Voluntary contributions to medisave account"
+   },
+   "text": {
+    "en": "8A. Where any contribution has been voluntarily paid to the Fund by or for a self‑employed person which is intended to be paid to the self‑employed person’s medisave account, the Board may apply the whole or part of the contribution towards any additional contribution that the self‑employed person is required to pay to the self‑employed person’s medisave account under these Regulations."
+   }
+  },
+  {
+   "id": "SG-H541-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 4 VOLUNTARY CONTRIBUTIONS, REVIEW AND WAIVER"
+   },
+   "heading": {
+    "en": "Review of assessment of eligibility or amount of benefit"
+   },
+   "text": {
+    "en": "9. If a member wants the Board to review its assessment of the member’s eligibility to receive any benefit under the Scheme, or the amount of such benefit, the member must —\n(a)apply on or before 31 December of the second year following the applicable year or relevant year (as the case may be) in the form and manner required by the Board; and\n(b)give the Board, within the time required by the Board, any information or documents in support of the member’s application or which the Board requests from the member."
+   }
+  },
+  {
+   "id": "SG-H541-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 4 VOLUNTARY CONTRIBUTIONS, REVIEW AND WAIVER"
+   },
+   "heading": {
+    "en": "Waiver of requirements"
+   },
+   "text": {
+    "en": "10.—(1) If a member wants a requirement to be waived under this regulation, the member must —\n(a)apply on or before 31 December of the second year following the applicable year or relevant year (as the case may be) in the form and manner required by the Board; and\n(b)give the Board, within the time required by the Board, any information or documents in support of the member’s application or which the Board requests from the member.\n(2) An officer of the Ministry of Social and Family Development, upon receiving an application mentioned in paragraph (1), may waive, in relation to any member, the requirement to be a specified member under regulation 5(1)(b)(iii), 6(1)(b)(iii), 7A(2)(b)(ii), 7B(2)(b)(ii) or 8AF(b)(ii).\n(3) The Board may waive, in relation to any member, any requirement under any of the following provisions:\n(a)paragraph (1);\n(b)regulation 5 (except the requirement mentioned in regulation 5(1)(b)(iii));\n(c)regulation 6 (except the requirement mentioned in regulation 6(1)(b)(iii));\n(d)regulation 7;\n(e)regulation 7A (except the requirement mentioned in regulation 7A(2)(b)(ii));\n(f)regulation 7B (except the requirement mentioned in regulation 7B(2)(b)(ii));\n(g)regulation 8;\n(h)regulation 8AA;\n(i)regulation 8AB;\n(j)regulation 8AC;\n(k)regulation 8AD;\n(l)regulation 8AE;\n(m)regulation 8AF (except the requirement mentioned in regulation 8AF(b)(ii));\n(n)regulation 8AG;\n(o)regulation 8AH;\n(p)regulation 8AI;\n(q)regulation 8AJ;\n(r)regulation 9."
+   }
+  },
+  {
+   "id": "SG-H541-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 5 BENEFITS"
+   },
+   "heading": {
+    "en": "Benefits for employed eligible member in applicable years before 2025"
+   },
+   "text": {
+    "en": "11.—(1) Subject to regulations 13E, 13F and 14A, the Board must, as soon as practicable after an employed eligible member is entitled to receive any benefit —\n(a)make a cash payment to the member of an amount, rounded up to the nearest dollar, equivalent to two‑fifths of the value of all benefits which the member is entitled to receive; and\n(b)credit, to any account of the member in the Fund as the Minister may direct, a relevant contribution of an amount equivalent to the difference between —\n(i)the value of all benefits which the member is entitled to receive; and\n(ii)the value of the cash payment under sub‑paragraph (a).\n(2) The value of the benefits, rounded to the nearest dollar, which an employed eligible member is entitled to receive for a relevant month is as set out —\n(a)in the Third Schedule for the applicable year 2017, 2018 or 2019;\n(b)in the Sixth Schedule for the applicable year 2020, 2021 or 2022; or\n(c)in the Ninth Schedule for the applicable year 2023 or 2024."
+   }
+  },
+  {
+   "id": "SG-H541-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 5 BENEFITS"
+   },
+   "heading": {
+    "en": "Benefits for self‑employed eligible member in relevant years before 2025"
+   },
+   "text": {
+    "en": "12.—(1) Subject to regulations 13E, 13F and 14A, the Board must, as soon as practicable after a self‑employed eligible member is entitled to receive any benefit —\n(a)make a cash payment to the member of an amount, rounded up to the nearest dollar, equivalent to one‑tenth of the value of all benefits which the member is entitled to receive; and\n(b)credit, to the member’s medisave account, a relevant contribution, of an amount equivalent to the difference between —\n(i)the value of all benefits which the member is entitled to receive; and\n(ii)the value of the cash payment under sub‑paragraph (a).\n(2) The value of the benefits which a self‑employed eligible member is entitled to receive in a relevant year is the amount, rounded to the nearest dollar, determined in accordance with the formula A × B, where —\n(a)A is the amount that is applicable to the member as set out —\n(i)in the Fourth Schedule if the relevant year is 2017, 2018 or 2019;\n(ii)in the Seventh Schedule if the relevant year is 2020, 2021 or 2022; or\n(iii)in the Tenth Schedule if the relevant year is 2023 or 2024; and\n(b)B is the total number of months in the relevant year in which the member worked as a self‑employed person."
+   }
+  },
+  {
+   "id": "SG-H541-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 5 BENEFITS"
+   },
+   "heading": {
+    "en": "Benefits for dual status eligible member in relevant years before 2025"
+   },
+   "text": {
+    "en": "13.—(1) Subject to regulations 13E, 13F and 14A, the Board must, as soon as practicable after a dual status eligible member is entitled to receive any benefit —\n(a)make a cash payment to the member of an amount, rounded up to the nearest dollar, equivalent to two‑fifths of the value of all benefits which the member is entitled to receive; and\n(b)credit, to any account of the member in the Fund as the Minister may direct, a relevant contribution, of an amount equivalent to the difference between —\n(i)the value of all benefits which the member is entitled to receive; and\n(ii)the value of the cash payment under sub‑paragraph (a).\n(2) The value of the benefits which a dual status eligible member is entitled to receive in a relevant year is the amount, rounded to the nearest dollar, determined in accordance with the formula (A × B) – C, where —\n(a)A is the amount that is applicable to the member as set out —\n(i)in the Fifth Schedule if the relevant year is 2017, 2018 or 2019;\n(ii)in the Eighth Schedule if the relevant year is 2020, 2021 or 2022; or\n(iii)in the Eleventh Schedule if the relevant year is 2023 or 2024;\n(b)B is the total number of months in the relevant year in which the member has worked as an employee, a self‑employed person or both; and\n(c)C is the total value of the benefits which the member received in the relevant year as an employed eligible member as set out in the Third Schedule, the Sixth Schedule or the Ninth Schedule, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H541-A13.001",
+   "no": 13.001,
+   "noLabel": {
+    "en": "13A."
+   },
+   "chapter": {
+    "en": "PART 5 BENEFITS"
+   },
+   "heading": {
+    "en": "Benefits for eligible members in applicable year 2025 or later or relevant year 2025 or later"
+   },
+   "text": {
+    "en": "13A. Subject to regulations 13E, 13F and 14A, the Board must, as soon as practicable after an eligible member is entitled to receive any benefit for a relevant month in an applicable year that is 2025 or later, or for a relevant year that is 2025 or later (as the case may be) —\n(a)make a cash payment to the member of an amount, rounded up to the nearest dollar, equivalent to the specified proportion mentioned in regulation 13B of the value of all benefits which the member is entitled to receive for that relevant month in the applicable year, or for that relevant year; and\n(b)credit, to any account of the member in the Fund as the Minister may direct or to the member’s medisave account (as the case may be), a relevant contribution, of an amount equivalent to the difference between —\n(i)the value of all benefits which the member is entitled to receive for that relevant month in the applicable year or for that relevant year, as the case may be; and\n(ii)the value of the cash payment under sub‑paragraph (a) that is related to that benefit."
+   }
+  },
+  {
+   "id": "SG-H541-A13.002",
+   "no": 13.002,
+   "noLabel": {
+    "en": "13B."
+   },
+   "chapter": {
+    "en": "PART 5 BENEFITS"
+   },
+   "heading": {
+    "en": "Cash payment under regulation 13A"
+   },
+   "text": {
+    "en": "13B.—(1) For the purposes of determining the amount of the cash payment to be made to an eligible member under regulation 13A(a) for a relevant month, the specified proportion is —\n(a)one‑tenth, if the cash payment relates to —\n(i)the benefits for an eligible Group A worker for any relevant month in the applicable year 2025, 2026, 2027 or 2028; or\n(ii)the benefits for an eligible Group B worker for any relevant month in the applicable year 2025 or any subsequent year; or\n(b)two‑fifths, if the cash payment relates to —\n(i)the benefits for an eligible employee or an eligible employee‑platform worker for any relevant month in the applicable year 2025 or any subsequent year; or\n(ii)the benefits for an eligible Group A worker for any relevant month in the applicable year 2029 or any subsequent year.\n(2) For the purposes of determining the amount of the cash payment to be made to an eligible member under regulation 13A(a) for a relevant year, the specified proportion is —\n(a)one‑tenth, if the cash payment relates to —\n(i)the benefits for an eligible self‑employed person for the relevant year 2025 or any subsequent year;\n(ii)the benefits for an eligible self‑employed person for the relevant year 2025, 2026, 2027, 2028, who (being a Group A worker) also works as a platform worker in that year; or\n(iii)the benefits for an eligible self‑employed person for the relevant year 2025 or any subsequent relevant year, who (being a Group B worker) also works as a platform worker in that year; or\n(b)two‑fifths, if the cash payment relates to —\n(i)the benefits for an eligible self‑employed person for the relevant year 2025 or any subsequent year, who also works as an employee in that year;\n(ii)the benefits for an eligible self‑employed person for the relevant year 2029 or any subsequent year, who (being a Group A worker) also works as a platform worker in that year; or\n(iii)the benefits for an eligible self‑employed person for the relevant year 2025 or any subsequent year, who also works as an employee and a platform worker in that year."
+   }
+  },
+  {
+   "id": "SG-H541-A13.003",
+   "no": 13.003,
+   "noLabel": {
+    "en": "13C."
+   },
+   "chapter": {
+    "en": "PART 5 BENEFITS"
+   },
+   "heading": {
+    "en": "Value of benefits for relevant month under regulation 13A"
+   },
+   "text": {
+    "en": "13C.—(1) The value of the benefits which an eligible employee is entitled to receive for a relevant month in an applicable year (that is 2025 or later) is the amount specified in the Twelfth Schedule that corresponds to the eligible employee’s age and total wages for the relevant month, rounded to the nearest dollar.\n(2) The value of the benefits which an eligible Group A worker is entitled to receive for a relevant month in the applicable year —\n(a)for the applicable year 2025, 2026, 2027 or 2028 — is the amount specified in the Thirteenth Schedule that corresponds to the Group A worker’s age and total APE for the relevant month, rounded to the nearest dollar; or\n(b)for the applicable year 2029 or any subsequent applicable year — is the amount specified in the Twelfth Schedule that corresponds to the Group A worker’s age and total APE for the relevant month, rounded to the nearest dollar.\n(3) The value of the benefits which an eligible Group B worker is entitled to receive for a relevant month in an applicable year (that is 2025 or later) is the amount specified in the Thirteenth Schedule that corresponds to the Group B worker’s age and total APE for the relevant month, rounded to the nearest dollar.\n(4) The value of the benefits which an eligible employee‑platform worker is entitled to receive for a relevant month in an applicable year (that is 2025 or later) is the amount specified in the Twelfth Schedule that corresponds to the member’s age and the sum of the member’s total wages and total APE for the relevant month, rounded to the nearest dollar."
+   }
+  },
+  {
+   "id": "SG-H541-A13.004",
+   "no": 13.004,
+   "noLabel": {
+    "en": "13D."
+   },
+   "chapter": {
+    "en": "PART 5 BENEFITS"
+   },
+   "heading": {
+    "en": "Value of benefits for relevant year under regulation 13A"
+   },
+   "text": {
+    "en": "13D.—(1) Subject to paragraphs (2), (3) and (6), the value of the benefits for an eligible self‑employed person for a relevant year (that is 2025 or later) is the amount, rounded to the nearest dollar, determined in accordance with the formula (A × B), where —\n(a)A is the amount that is applicable to the member as set out in the Thirteenth Schedule; and\n(b)B is the total number of months in the relevant year in which the member has worked as a self‑employed person.\n(2) Where the eligible self‑employed person also worked as an employee in the relevant year, the value of the additional benefits for the eligible self‑employed person for the relevant year is an amount, rounded to the nearest dollar, determined in accordance with the formula (A × B) – C, where —\n(a)A is the amount that is applicable to the member as set out in the Fourteenth Schedule;\n(b)B is the total number of months in the relevant year in which the member has worked as an employee, a self‑employed person or both; and\n(c)C is the total value of the benefits which the member received in the relevant year in accordance with regulation 13C(1).\n(3) Where the eligible self‑employed person also worked as a platform worker in the relevant year, the value of the additional benefits for the eligible self‑employed person for the relevant year is an amount determined in accordance with the formula (A × B) – C, rounded to the nearest dollar.\n(4) In paragraph (3), where the member is an eligible Group A worker —\n(a)A is the amount that is applicable to the member as set out —\n(i)in the Thirteenth Schedule — if the applicable year is 2025, 2026, 2027 or 2028; or\n(ii)in the Fourteenth Schedule — if the applicable year is 2029 or any subsequent year;\n(b)B is the total number of months in the relevant year in which the member has worked as a self‑employed person or a platform worker (being at the same time a Group A worker) or both; and\n(c)C is the total value of the benefits which the member received in the relevant year in accordance with regulation 13C(2).\n(5) In paragraph (3), where the member is an eligible Group B worker —\n(a)A is the amount that is applicable to the member as set out in the Thirteenth Schedule;\n(b)B is the total number of months in the relevant year in which the member has worked as a self‑employed person or a platform worker (being at the same time a Group B worker) or both; and\n(c)C is the total value of the benefits which the member received in the relevant year in accordance with regulation 13C(3).\n(6) Where the eligible self‑employed person also worked as both an employee and a platform worker in the relevant year, the value of the additional benefits for the eligible self‑employed person for the relevant year is an amount determined in accordance with the formula (A × B) – C, rounded to the nearest dollar.\n(7) In paragraph (6) —\n(a)A is the amount specified in the Fourteenth Schedule that corresponds to the member’s age and average monthly income earned in the relevant year;\n(b)B is the total number of months in the relevant year in which the member has worked as one or more of the following:\n(i)an employee;\n(ii)a self‑employed person;\n(iii)a Group A worker, a Group B worker or both; and\n(c)C is the total value of the benefits which the member received in the relevant year in accordance with regulation 13C(1), (2), (3) and (4)."
+   }
+  },
+  {
+   "id": "SG-H541-A13.005",
+   "no": 13.005,
+   "noLabel": {
+    "en": "13E."
+   },
+   "chapter": {
+    "en": "PART 5 BENEFITS"
+   },
+   "heading": {
+    "en": "Additional relevant contribution"
+   },
+   "text": {
+    "en": "13E.—(1) Instead of making a cash payment under regulation 11(1)(a), 12(1)(a), 13(1)(a) or 13A(a), the Board may credit, to any account of the eligible member in the Fund as the Minister may direct, an additional relevant contribution of an amount equivalent to the value of the cash payment if —\n(a)the Board has attempted to make the cash payment by issuing a cheque to the member;\n(b)the Board has notified the member of the issue of the cheque; and\n(c)the member fails to encash the cheque before the cheque expires.\n(2) To avoid doubt, where regulation 13F(2) or (4) applies to any cash payments to be paid to any one member in a particular month, paragraph (1) applies to those cash payments as if the reference to the value of the cash payment were a reference to the total amount to be paid under regulation 13F(2) or (4) (as the case may be) in respect of those cash payments."
+   }
+  },
+  {
+   "id": "SG-H541-A13.006",
+   "no": 13.006,
+   "noLabel": {
+    "en": "13F."
+   },
+   "chapter": {
+    "en": "PART 5 BENEFITS"
+   },
+   "heading": {
+    "en": "Minimum benefits payable in any month"
+   },
+   "text": {
+    "en": "13F.—(1) This regulation only applies to benefits and additional benefits under regulation 11, 12, 13 or 13A to be paid on or after 20 March 2025 to eligible members.\n(2) Subject to paragraph (3), if the aggregate of all cash payments to be made to any one member in a particular month, relating to any benefits or additional benefits that the member is entitled to under regulation 11, 12, 13 or 13A by virtue of being any one or more of the following, is less than $10 — the total amount to be so paid is $10 instead:\n(a)an employed eligible member;\n(b)a self‑employed eligible member;\n(c)a dual status eligible member;\n(d)an eligible employee;\n(e)an eligible self‑employed person;\n(f)an eligible self‑employed person who also worked as an employee;\n(g)an eligible employee‑platform worker;\n(h)an eligible Group A worker, if the cash payment or payments relate to the applicable year 2029 or later;\n(i)an eligible self‑employed person who (being a Group A worker) also worked as a platform worker, if the cash payment or payments relate to the relevant year 2029 or later;\n(j)an eligible self‑employed person who also worked as an employee and a platform worker;\n(k)an eligible Group A worker, if the cash payment or payments relate to the applicable year 2025, 2026, 2027 or 2028;\n(l)an eligible Group B worker;\n(m)an eligible self‑employed person who —\n(i)being a Group A worker, also worked as a platform worker, if the cash payment or payments relate to the relevant year 2025, 2026, 2027 or 2028; or\n(ii)being a Group B worker, also worked as a platform worker.\n(3) Paragraph (4) applies (instead of paragraph (2)) if all cash payments to be made to any one member in a particular month only relate to any benefits or additional benefits that the member is entitled to under regulation 13A by virtue of being any one or more of the following:\n(a)an eligible Group A worker, if the cash payments relate to the applicable year 2025, 2026, 2027 or 2028;\n(b)an eligible Group B worker;\n(c)an eligible self‑employed person who —\n(i)being a Group A worker, also worked as a platform worker, if the cash payments relate to the relevant year 2025, 2026, 2027 or 2028; or\n(ii)being a Group B worker, also worked as a platform worker.\n(4) If the aggregate of all cash payments to be made to any one member in a particular month mentioned in paragraph (3) is less than $5 — the total amount to be so paid is $5 instead.\n(5) If the amount of a relevant contribution to be credited by the Board under regulation 11 in a particular month to any account in the Fund of an employed eligible member is less than $10 — the amount to be so credited is $10 instead.\n(6) If the amount of a relevant contribution to be credited by the Board under regulation 12 in a particular month to any account in the Fund of a self‑employed eligible member is less than $120 — the amount to be so credited is $120 instead.\n(7) If the amount of a relevant contribution to be credited by the Board under regulation 13 in a particular month to any account in the Fund of a dual status eligible member is less than $10 — the amount to be so credited is $10 instead.\n(8) If the amount of a relevant contribution to be credited by the Board under regulation 13A in a particular month to any account in the Fund of an eligible employee, eligible Group A worker, eligible Group B worker or eligible employee‑platform worker is less than $10 — the amount to be so credited is $10 instead.\n(9) If the amount of a relevant contribution to be credited by the Board under regulation 13A in a particular month to any account in the Fund of an eligible self‑employed person is less than $120 — the amount to be so credited is $120 instead.\n(10) If the amount of a relevant contribution to be credited by the Board under regulation 13A in a particular month to any account in the Fund of an eligible self‑employed person who also worked as an employee, or a platform worker, or as both an employee and a platform worker, is less than $10 — the amount to be so credited is $10 instead.\n(11) To avoid doubt —\n(a)a reference to a relevant contribution in paragraphs (5) to (10) excludes an additional relevant contribution under regulation 13E; or\n(b)this regulation does not apply to the payment of an amount permitted to be withdrawn under section 57DA(1) of the Act.\n(12) In this regulation, “additional benefit” means the benefit that a member is entitled to receive under regulation 11, 12, 13 or 13A as a result of a review mentioned in regulation 9 or a waiver mentioned in regulation 10(3), less the amount of benefit that the member was determined by the Board to be eligible to be paid (before the application for the review or waiver), if any."
+   }
+  },
+  {
+   "id": "SG-H541-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 6 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Recovery of benefits"
+   },
+   "text": {
+    "en": "14.—(1) Where the Board may, under section 57C of the Act, recover on behalf of the Government any cash payment or relevant contribution received by a member, or any part of it, the Board may —\n(a)require the member to pay to the Board, in cash, the whole or such part, as the Board may determine, of the amount of the cash payment or relevant contribution or part of it; or\n(b)deduct, from any money standing to the credit of the member in the Fund, the whole or such part, as the Board may determine, of the amount of the relevant contribution or part of it.\n(2) For the purposes of paragraph (1), the relevant contribution that the Board may recover from the member on behalf of the Government includes any interest paid on the relevant contribution."
+   }
+  },
+  {
+   "id": "SG-H541-A14.001",
+   "no": 14.001,
+   "noLabel": {
+    "en": "14A."
+   },
+   "chapter": {
+    "en": "PART 6 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Opting out and opting back in to Scheme"
+   },
+   "text": {
+    "en": "14A.—(1) An eligible member may apply to the Board, in the manner and form that the Board requires, to stop receiving any benefit under the Scheme.\n(2) If the Board approves an application under paragraph (1), then starting on the date that the Board determines (called in this regulation the opt‑out date) —\n(a)no cash payment will be made to the eligible member whose application under paragraph (1) is approved (called in this regulation the opted‑out member);\n(b)no relevant contribution will be credited to any of the opted‑out member’s accounts in the Fund; and\n(c)no additional relevant contribution will be credited under regulation 13E to any of the opted‑out member’s accounts in the Fund.\n(3) To avoid doubt, paragraph (2) applies to stop the payment and crediting of any benefit under the Scheme, including any benefit to which the member was entitled before the opt‑out date which has not been paid or credited before that date.\n(4) An opted‑out member may apply to the Board, in the manner and form that the Board requires, to resume receiving benefits under the Scheme.\n(5) If the Board approves an application under paragraph (4), the Board must resume making cash payments and crediting relevant contributions or additional relevant contributions in accordance with these Regulations with effect from the date determined in accordance with paragraph (6) (called in this regulation the effective date).\n(6) Subject to paragraph (7), the effective date is a date that the Board determines —\n(a)for the purposes of regulation 11 or 13A (in relation to an eligible employee, eligible Group A worker, eligible Group B worker and eligible employee‑platform worker) — in the applicable year following the applicable year in which the Board approves the member’s application under paragraph (4); or\n(b)for the purposes of regulation 12, 13 or 13A (in relation to an eligible self‑employed person) — in the relevant year following the relevant year in which the Board approves the member’s application under paragraph (4).\n(7) If the Board thinks fit in a particular case, the Board may resume making cash payments and crediting relevant contributions or additional relevant contributions under paragraph (5) to any of the eligible member’s accounts in the Fund before the effective date."
+   }
+  },
+  {
+   "id": "SG-H541-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 6 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Withdrawal under section 57DA(1) of Act"
+   },
+   "text": {
+    "en": "15.—(1) For the purposes of section 57DA(1)(b) of the Act, the Board may permit a withdrawal by a member under that section —\n(a)if the contribution amount mentioned in that section is an additional relevant contribution credited to the member’s account in the Fund under regulation 13E;\n(b)if the contribution amount mentioned in that section is an amount earlier withdrawn by the member under section 57DA(1) of the Act that is restored to the member’s account in the Fund under regulation 16(1); or\n(c)if the member’s application under regulation 14A(1) to stop receiving benefits under the Scheme is approved by the Board.\n(2) For the purposes of section 57DA(2) of the Act, the prescribed time for a member’s application to the Board under section 57DA(1) of the Act is as follows:\n(a)where the application concerns an additional relevant contribution mentioned in paragraph (1)(a) — within 2 years after the date the additional relevant contribution is credited;\n(b)where the application concerns an amount restored under regulation 16(1) mentioned in paragraph (1)(b) — within 2 years after the date the amount is restored to the member’s account in the Fund;\n(c)where the application concerns any benefit under the Scheme credited to the member’s account in the Fund before the application mentioned in paragraph (1)(c) is approved — on or before 31 December of the second year following the applicable year or relevant year (as the case may be) for which the benefit is credited.\n(3) Where the Board permits the withdrawal by a member under section 57DA(1) of the Act, the Board may —\n(a)retain in the member’s account in the Fund, the whole or part of any interest earned on the amount permitted to be withdrawn; or\n(b)transfer to the general moneys of the Fund, the whole or part of any interest earned on the amount permitted to be withdrawn."
+   }
+  },
+  {
+   "id": "SG-H541-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 6 ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Treatment of moneys not successfully paid out of Fund"
+   },
+   "text": {
+    "en": "16.—(1) Subject to paragraph (3), where —\n(a)any amount has been permitted to be withdrawn by a member under section 57DA(1) of the Act; and\n(b)the amount has not been successfully paid to that member, or the instrument in respect of such payment has been returned to the Board or has expired,\nthe Board is to restore the amount, or the value of the instrument, to the member’s account in the Fund as soon as practicable after the Board is notified of the unsuccessful payment of the amount or the instrument is returned to the Board or expires, as the case may be.\n(2) Where an amount or the value of an instrument is restored to the member’s account in the Fund under paragraph (1), the Board may credit to the member’s account in the Fund (in such manner as the Board considers fit) the whole or such part, as the Board may determine, of the interest that would have been payable on the amount or value restored if that amount or value had not been debited from that account.\n(3) The Board may, before restoring the amount or the value of the instrument to the member’s account under paragraph (1), make further reasonable attempts to pay the amount mentioned in paragraph (1)(a)."
+   }
+  },
+  {
+   "id": "SG-H541-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulations 5(1)(c), 6(1)(c), 7A(2)(c), 7B(2)(c) and 8AF(c)\nAnnual value of property\nApplicable year\nor relevant year\nAnnual value\n1.2017, 2018, 2019, 2020, 2021, 2022 or 2023\n$13,000\n2.2024 or any subsequent year\n$21,000"
+   }
+  },
+  {
+   "id": "SG-H541-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulations 6(9)(a), 7(8)(a), 7A(8)(a), 7B(8)(a), 8(1), (2) and (4) and 8AJ(2)(a)\nValue of ‘A’ in regulations 6(8), 7(8), 7A(8), 7B(8), and 8AJ(2)\nTotal\ndeclared\nincome or\nnotified\nincome\n(as the case\nmay be) for\nrelevant\nyear\nAge of member on 1 January of relevant year\nMember\nis below 35 years\nof age\nMember\nhas attained 35 years\nof age\nbut is below\n45 years\nof age\nMember\nhas attained 45 years\nof age\nbut is below\n50 years\nof age\nMember\nhas attained\n50 years\nof age\nor older\n1.Exceeding $6,000 but not exceeding $12,000\nAn amount equal to 4% of the member’s declared income or notified income (as the case may be) for that year\nAn amount equal to 4.5% of the member’s declared income or notified income (as the case may be) for that year\nAn amount equal to 5% of the member’s declared income or notified income (as the case may be) for that year\nAn amount equal to 5.25% of the member’s declared income or notified income (as the case may be) for that year\n2.Exceeding $12,000 but not exceeding $18,000\nAn amount equal to the sum of $480 and 0.16 of the difference between the member’s declared income or notified income (as the case may be) for that year and $12,000\nAn amount equal to the sum of $540 and 0.18 of the difference between the member’s declared income or notified income (as the case may be) for that year and $12,000\nAn amount equal to the sum of $600 and 0.20 of the difference between the member’s declared income or notified income (as the case may be) for that year and $12,000\nAn amount equal to the sum of $630 and 0.21 of the difference between the member’s declared income or notified income (as the case may be) for that year and $12,000\n3.Exceeding $18,000\nAn amount equal to 8% of the member’s declared income or notified income (as the case may be) for that year\nAn amount equal to 9% of the member’s declared income or notified income (as the case may be) for that year\nAn amount equal to 10% of the member’s declared income or notified income (as the case may be) for that year\nAn amount equal to 10.5% of the member’s declared income or notified income (as the case may be) for that year"
+   }
+  },
+  {
+   "id": "SG-H541-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulations 5(3), 11(2)(a) and 13(2)(c)\nValue of benefits of employed eligible member for relevant month for applicable year 2017, 2018 or 2019\nTotal\nmonthly\nwages of\nemployed\neligible\nmember for\nrelevant\nmonth\nAge of employed eligible member\non 31 December of applicable year\nAttained\n35 years of age\nbut below\n45 years of age\n(if the member is not a specified member), or below 45 years\nof age (if the\nmember is a\nspecified\nmember)\nAttained 45 years\nof age\nbut below 55 years\nof age\nAttained 55 years\nof age\nbut below 60 years\nof age\nAttained 60 years\nof age\n1.Not more than $700\nThe difference between 1393/7800 times the member’s total monthly wages and 1/78 of a dollar, or 107/12 dollars, whichever is more\n1/4 times the member’s total monthly wages, or 25/2 dollars, whichever is more\nThe difference between 2137/7800 times the member’s total monthly wages and 3/26 of a dollar, or 163/12 dollars, whichever is more\nThe sum of 58/195 times the member’s total monthly wages and 5/39 of a dollar, or $15, whichever is more\n2.More than $700 but not more than $1,000\n$125\nThe sum of 1/36 times the member’s total monthly wages and 1400/9 dollars\nThe sum of 1/6 times the member’s total monthly wages and $75\nThe difference between 11/36 times the member’s total monthly wages and 50/9 dollars\n3.More than $1,000 but not more than $1,200\n$125\n550/3 dollars\n725/3 dollars\n$300\n4.More than $1,200 but not more than $2,000\nThe difference between 5/32 times the member’s total monthly wages and 625/2 dollars\nThe difference between 11/48 times the member’s total monthly wages and 1375/3 dollars\nThe difference between 29/96 times the member’s total monthly wages and 3625/6 dollars\nThe difference between 3/8 times the member’s total monthly wages and $750"
+   }
+  },
+  {
+   "id": "SG-H541-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE\nRegulations 6(2) and 12(2)(a)(i)\nValue of ‘A’ in regulation 12(2) for\nrelevant year 2017, 2018 or 2019\nAverage\nmonthly\nincome of\nself‑employed\neligible\nmember in\nrelevant\nyear\nAge of self‑employed eligible member\non 31 December of relevant year\nAttained\n35 years of age\nbut below\n45 years of age\n(if the member is\nnot a specified\nmember), or\nbelow 45 years\nof age (if the\nmember is a\nspecified\nmember)\nAttained 45 years\nof age\nbut below 55 years\nof age\nAttained\n55 years\nof age\nbut below\n60 years\nof age\nAttained\n60 years\nof age\n1.Not more than $700\nThe difference between 1393/11700 times the member’s average monthly income and 1/117 of a dollar, or 107/18 dollars, whichever is more\n1/6 times the member’s average monthly income, or 25/3 dollars, whichever is more\nThe difference between 2137/11700 times the member’s average monthly income and 1/13 of a dollar, or 163/18 dollars, whichever is more\nThe sum of 116/585 times the member’s average monthly income and 10/117 of a dollar, or $10, whichever is more\n2.More than $700 but not more than $1,000\n250/3 dollars\nThe sum of 1/54 times the member’s average monthly income and 2800/27 dollars\nThe sum of 1/9 times the member’s average monthly income and $50\nThe difference between 11/54 times the member’s average monthly income and 100/27 dollars\n3.More than $1,000 but not more than $1,200\n250/3 dollars\n1100/9 dollars\n1450/9 dollars\n$200\n4.More than $1,200 but not more than $2,000\nThe difference between 5/48 times the member’s average monthly income and 625/3 dollars\nThe difference between 11/72 times the member’s average monthly income and 2750/9 dollars\nThe difference between 29/144 times the member’s average monthly income and 3625/9 dollars\nThe difference between 1/4 times the member’s average monthly income and $500"
+   }
+  },
+  {
+   "id": "SG-H541-A900004",
+   "no": 900004,
+   "noLabel": {
+    "en": "FIFTH SCHEDULE"
+   },
+   "text": {
+    "en": "FIFTH SCHEDULE\nRegulations 7(3) and 13(2)(a)(i)\nValue of ‘A’ in regulation 13(2) for\nrelevant year 2017, 2018 or 2019\nAverage\nmonthly\nincome of\ndual status\neligible\nmember\nin relevant\nyear\nAge of dual status eligible member\non 31 December of relevant year\nAttained\n35 years of age\nbut below\n45 years of age\n(if the member is\nnot a specified\nmember), or\nbelow 45 years\nof age (if the\nmember is a\nspecified\nmember)\nAttained\n45 years\nof age\nbut below\n55 years\nof age\nAttained\n55 years\nof age\nbut below\n60 years\nof age\nAttained\n60 years\nof age\n1.Not more than $700\nThe difference between 1393/7800 times the member’s average monthly income and 1/78 of a dollar, or 107/12 dollars, whichever is more\n1/4 times the member’s average monthly income, or 25/2 dollars, whichever is more\nThe difference between 2137/7800 times the member’s average monthly income and 3/26 of a dollar, or 163/12 dollars, whichever is more\nThe sum of 58/195 times the member’s average monthly income and 5/39 of a dollar, or $15, whichever is more\n2.More than $700 but not more than $1,000\n$125\nThe sum of 1/36 times the member’s average monthly income and 1400/9 dollars\nThe sum of 1/6 times the member’s average monthly income and $75\nThe difference between 11/36 times the member’s average monthly income and 50/9 dollars\n3.More than $1,000 but not more than $1,200\n$125\n550/3 dollars\n725/3 dollars\n$300\n4.More than $1,200 but not more than $2,000\nThe difference between 5/32 times the member’s average monthly income and 625/2 dollars\nThe difference between 11/48 times the member’s average monthly income and 1375/3 dollars\nThe difference between 29/96 times the member’s average monthly income and 3625/6 dollars\nThe difference between 3/8 times the member’s average monthly income and $750"
+   }
+  },
+  {
+   "id": "SG-H541-A900005",
+   "no": 900005,
+   "noLabel": {
+    "en": "SIXTH SCHEDULE"
+   },
+   "text": {
+    "en": "SIXTH SCHEDULE\nRegulations 5(3), 11(2)(b) and 13(2)(c)\nValue of benefits of employed eligible member\nfor relevant month for applicable year 2020, 2021 or 2022\nTotal\nmonthly\nwages of\nemployed\neligible\nmember for\nrelevant\nmonth\nAge of employed eligible member\non 31 December of applicable year\nAttained\n35 years of age\nbut below\n45 years of age\n(if the member is\nnot a specified\nmember), or\nbelow 45 years\nof age (if the\nmember is a\nspecified\nmember)\nAttained\n45 years\nof age\nbut below\n55 years\nof age\nAttained\n55 years\nof age\nbut below\n60 years\nof age\nAttained\n60 years\nof age\n1.Not more than $700\nThe difference between 1393/7800 times the member’s total monthly wages and 1/78 of a dollar, or 107/12 dollars, whichever is more\n1/4 times the member’s total monthly wages, or 25/2 dollars, whichever is more\nThe difference between 2137/7800 times the member’s total monthly wages and 3/26 of a dollar, or 163/12 dollars, whichever is more\nThe sum of 191/690 times the member’s total monthly wages and 80/69 of a dollar, or $15, whichever is more\n2.More than $700 but not more than $1,200\nThe sum of 1/30 times the member’s total monthly wages and 305/3 of a dollar\nThe sum of 1/15 times the member’s total monthly wages and 385/3 of a dollar\nThe sum of 1/6 times the member’s total monthly wages and $75\nThe sum of 191/690 times the member’s total monthly wages and 80/69 of a dollar\n3.More than $1,200 but not more than $1,500\n425/3 dollars\n625/3 dollars\n$275\n1000/3 dollars\n4.More than $1,500 but not more than $2,300\nThe difference between 9775/24 of a dollar and 17/96 times the member’s total monthly wages\nThe difference between 14375/24 of a dollar and 25/96 times the member’s total monthly wages\nThe difference between 6325/8 of a dollar and 11/32 times the member’s total monthly wages\nThe difference between 2875/3 of a dollar and 5/12 times the member’s total monthly wages"
+   }
+  },
+  {
+   "id": "SG-H541-A900006",
+   "no": 900006,
+   "noLabel": {
+    "en": "SEVENTH SCHEDULE"
+   },
+   "text": {
+    "en": "SEVENTH SCHEDULE\nRegulations 6(2) and 12(2)(a)(ii)\nValue of ‘A’ in regulation 12(2) for\nrelevant year 2020, 2021 or 2022\nAverage\nmonthly\nincome of\nself‑employed\neligible\nmember in\nrelevant\nyear\nAge of self‑employed eligible member\non 31 December of relevant year\nAttained\n35 years of age\nbut below\n45 years of age\n(if the member is\nnot a specified\nmember), or\nbelow 45 years\nof age (if the\nmember is a\nspecified\nmember)\nAttained\n45 years\nof age\nbut below\n55 years\nof age\nAttained\n55 years\nof age\nbut below\n60 years\nof age\nAttained\n60 years\nof age\n1.Not more than $700\nThe difference between 1393/11700 times the member’s average monthly income and 1/117 of a dollar, or 107/18 dollars, whichever is more\n1/6 times the member’s average monthly income, or 25/3 dollars, whichever is more\nThe difference between 2137/11700 times the member’s average monthly income and 1/13 of a dollar, or 163/18 dollars, whichever is more\nThe sum of 191/1035 times the member’s average monthly income and 160/207 of a dollar, or $10, whichever is more\n2.More than $700 but not more than $1,200\nThe sum of 1/45 times the member’s average monthly income and 610/9 dollars\nThe sum of 2/45 times the member’s average monthly income and 770/9 dollars\nThe sum of 1/9 times the member’s average monthly income and $50\nThe sum of 191/1035 times the member’s average monthly income and 160/207 dollars\n3.More than $1,200 but not more than $1,500\n850/9 dollars\n1250/9 dollars\n550/3 dollars\n2000/9 dollars\n4.More than $1,500 but not more than $2,300\nThe difference between 9775/36 of a dollar and 17/144 times the member’s average monthly income\nThe difference between 14375/36 of a dollar and 25/144 times the member’s average monthly income\nThe difference between 6325/12 of a dollar and 11/48 times the member’s average monthly income\nThe difference between 5750/9 of a dollar and 5/18 times the member’s average monthly income"
+   }
+  },
+  {
+   "id": "SG-H541-A900007",
+   "no": 900007,
+   "noLabel": {
+    "en": "EIGHTH SCHEDULE"
+   },
+   "text": {
+    "en": "EIGHTH SCHEDULE\nRegulations 7A(3) and 13(2)(a)(ii)\nValue of ‘A’ in regulation 13(2) for\nrelevant year 2020, 2021 or 2022\nAverage\nmonthly\nincome of\ndual status\neligible\nmember in\nrelevant\nyear\nAge of dual status eligible member\non 31 December of relevant year\nAttained\n35 years of age\nbut below\n45 years of age (if the member is\nnot a specified\nmember), or\nbelow 45 years\nof age (if the\nmember is a\nspecified\nmember)\nAttained\n45 years\nof age\nbut below\n55 years\nof age\nAttained\n55 years\nof age but\nbelow\n60 years\nof age\nAttained 60 years\nof age\n1.Not more than $700\nThe difference between 1393/7800 times the member’s average monthly income and 1/78 of a dollar, or 107/12 dollars, whichever is more\n1/4 times the member’s average monthly income, or 25/2 dollars, whichever is more\nThe difference between 2137/7800 times the member’s average monthly income and 3/26 of a dollar, or 163/12 dollars, whichever is more\nThe sum of 191/690 times the member’s average monthly income and 80/69 of a dollar, or $15, whichever is more\n2.More than $700 but not more than $1,200\nThe sum of 1/30 times the member’s average monthly income and 305/3 of a dollar\nThe sum of 1/15 times the member’s average monthly income and 385/3 of a dollar\nThe sum of 1/6 times the member’s average monthly income and $75\nThe sum of 191/690 times the member’s average monthly income and 80/69 of a dollar\n3.More than $1,200 but not more than $1,500\n425/3 dollars\n625/3 dollars\n$275\n1000/3 dollars\n4.More than $1,500 but not more than $2,300\nThe difference between 9775/24 of a dollar and 17/96 times the member’s average monthly income\nThe difference between 14375/24 of a dollar and 25/96 times the member’s average monthly income\nThe difference between 6325/8 of a dollar and 11/32 times the member’s average monthly income\nThe difference between 2875/3 of a dollar and 5/12 times the member’s average monthly income"
+   }
+  },
+  {
+   "id": "SG-H541-A900008",
+   "no": 900008,
+   "noLabel": {
+    "en": "NINTH SCHEDULE"
+   },
+   "text": {
+    "en": "NINTH SCHEDULE\nRegulations 5(4), 11(2)(c) and 13(2)(c)\nValue of benefits of employed eligible member for\nrelevant month for applicable\nyears 2023 and 2024\nTotal monthly\nwages of\nemployed eligible\nmember for\nrelevant month\nAge of employed eligible member\non 31 December of applicable year\nAttained\n30 years\nof age\nbut below\n35 years\nof age\nAttained\n35 years\nof age\nbut below\n45 years\nof age\nAttained\n45 years\nof age\nbut below\n60 years\nof age\nAttained\n60 years\nof age\nor if a\nmember\nis a\nspecified\nmember\n1.Less than $500 (if the Board has waived the requirement under regulation 5(1)(f)(iii) for the member)\n$50\n$75\n$120\n$130\n2.At least $500 but not more than $700\n1/8 times the member’s total monthly wages\nThe difference between 643/3600 times the member’s total monthly wages and 1/18 of a dollar\nThe difference between 329/1200 times the member’s total monthly wages and 1/4 of a dollar\nThe sum of 31/112 times the member’s total monthly wages and 25/21 of a dollar\n3.More than $700 but not more than $1,200\n1/8 times the member’s total monthly wages\nThe difference between 643/3600 times the member’s total monthly wages and 1/18 of a dollar\nThe sum of 1/6 times the member’s total monthly wages and $75\nThe sum of 31/112 times the member’s total monthly wages and 25/21 of a dollar\n4.More than $1,200 but not more than $1,400\n1/8 times the member’s total monthly wages\nThe difference between 643/3600 times the member’s total monthly wages and 1/18 of a dollar\nThe sum of 1/8 times the member’s total monthly wages and $125\nThe sum of 1/12 times the member’s total monthly wages and 700/3 of a dollar\n5.More than $1,400 but not more than $2,000\n$175\n$250\n$300\n$350\n6.More than $2,000 but not more than $2,500\nThe difference between 1225/2 of a dollar and 7/32 times the member’s total monthly wages\nThe difference between $875 and 5/16 times the member’s total monthly wages\nThe difference between $1050 and 3/8 times the member’s total monthly wages\nThe difference between $1225 and 7/16 times the member’s total monthly wages"
+   }
+  },
+  {
+   "id": "SG-H541-A900009",
+   "no": 900009,
+   "noLabel": {
+    "en": "TENTH SCHEDULE"
+   },
+   "text": {
+    "en": "TENTH SCHEDULE\nRegulations 6(2) and 12(2)(a)(iii)\nValue of ‘A’ in regulation 12(2) for\nrelevant years 2023 and 2024\nAverage monthly\nincome of\nself‑employed\neligible\nmember in\nrelevant year\nAge of self‑employed eligible member\non 31 December of relevant year\nAttained\n30 years\nof age\nbut below\n35 years\nof age\nAttained\n35 years\nof age\nbut below\n45 years\nof age\nAttained\n45 years\nof age\nbut below\n60 years\nof age\nAttained\n60 years\nof age\nor if a\nmember\nis a\nspecified\nmember\n1.Less than $500 (if the Board has waived the requirement under regulation 6(1)(h)(iii) for the member)\n100/3 dollars\n$50\n$80\n260/3 dollars\n2.At least $500 but not more than $700\n1/12 times the member’s average monthly income\nThe difference between 643/5400 times the member’s average monthly income and 1/27 of a dollar\nThe difference between 329/1800 times the member’s average monthly income and 1/6 of a dollar\nThe sum of 31/168 times the member’s average monthly income and 50/63 of a dollar\n3.More than $700 but not more than $1,200\n1/12 times the member’s average monthly income\nThe difference between 643/5400 times the member’s average monthly income and 1/27 of a dollar\nThe sum of 1/9 times the member’s average monthly income and $50\nThe sum of 31/168 times the member’s average monthly income and 50/63 of a dollar\n4.More than $1,200 but not more than $1,400\n1/12 times the member’s average monthly income\nThe difference between 643/5400 times the member’s average monthly income and 1/27 of a dollar\nThe sum of 1/12 times the member’s average monthly income and 250/3 of a dollar\nThe sum of 1/18 times the member’s average monthly income and 1400/9 of a dollar\n5.More than $1,400 but not more than $2,000\n350/3 dollars\n500/3 dollars\n$200\n700/3 dollars\n6.More than $2,000 but not more than $2,500\nThe difference between 1225/3 of a dollar and 7/48 times the member’s average monthly income\nThe difference between 1750/3 of a dollar and 5/24 times the member’s average monthly income\nThe difference between $700 and 1/4 times the member’s average monthly income\nThe difference between 2450/3 of a dollar and 7/24 times the member’s average monthly income"
+   }
+  },
+  {
+   "id": "SG-H541-A900010",
+   "no": 900010,
+   "noLabel": {
+    "en": "ELEVENTH SCHEDULE"
+   },
+   "text": {
+    "en": "ELEVENTH SCHEDULE\nRegulations 7B(3) and 13(2)(a)(iii)\nValue of ‘A’ in regulation 13(2) for\nrelevant years 2023 and 2024\nAverage monthly\nincome of\ndual status\neligible\nmember in\nrelevant year\nAge of dual status eligible member\non 31 December of relevant year\nAttained\n30 years\nof age\nbut below\n35 years\nof age\nAttained\n35 years\nof age\nbut below\n45 years\nof age\nAttained\n45 years\nof age\nbut below 60 years\nof age\nAttained\n60 years\nof age\nor if a\nmember\nis a\nspecified\nmember\n1.Less than $500 (if the Board has waived the requirement under regulation 7B(2)(g) for the member)\n$50\n$75\n$120\n$130\n2.At least $500 but not more than $700\n1/8 times the member’s average monthly income\nThe difference between 643/3600 times the member’s average monthly income and 1/18 of a dollar\nThe difference between 329/1200 times the member’s average monthly income and 1/4 of a dollar\nThe sum of 31/112 times the member’s average monthly income and 25/21 of a dollar\n3.More than $700 but not more than $1,200\n1/8 times the member’s average monthly income\nThe difference between 643/3600 times the member’s average monthly income and 1/18 of a dollar\nThe sum of 1/6 times the member’s average monthly income and $75\nThe sum of 31/112 times the member’s average monthly income and 25/21 of a dollar\n4.More than $1,200 but not more than $1,400\n1/8 times the member’s average monthly income\nThe difference between 643/3600 times the member’s average monthly income and 1/18 of a dollar\nThe sum of 1/8 times the member’s average monthly income and $125\nThe sum of 1/12 times the member’s average monthly income and 700/3 of a dollar\n5.More than $1,400 but not more than $2,000\n$175\n$250\n$300\n$350\n6.More than $2,000 but not more than $2,500\nThe difference between 1225/2 of a dollar and 7/32 times the member’s average monthly income\nThe difference between $875 and 5/16 times the member’s average monthly income\nThe difference between $1050 and 3/8 times the member’s average monthly income\nThe difference between $1225 and 7/16 times the member’s average monthly income"
+   }
+  },
+  {
+   "id": "SG-H541-A900011",
+   "no": 900011,
+   "noLabel": {
+    "en": "TWELFTH SCHEDULE"
+   },
+   "text": {
+    "en": "TWELFTH SCHEDULE\nRegulations 8AH and 13C(1), (2)(b) and (4)\nValue of benefits for eligible employee,\neligible platform worker or eligible\nemployee‑platform worker for applicable\nyear 2025 or later\nTotal monthly\nsum for\nrelevant month\nAge of member on 31 December of applicable year\nAttained\n30 years\nof age\nbut below\n35 years\nof age\nAttained\n35 years\nof age\nbut below\n45 years\nof age\nAttained\n45 years\nof age\nbut below\n60 years\nof age\nAttained\n60 years\nof age\nor if a\nmember\nis a\nspecified\nmember\n1.Less than $500 (if the Board has waived the requirement under regulation 8AA(b)(ii), 8AB(b)(ii) or 8AD(b)(ii) for the member)\n$53\n$79\n$131\n$152\n2.At least $500 but not more than $700\nThe sum of 1/8 times the member’s total monthly sum and 19/6 of a dollar\nThe sum of 643/3600 times the member’s total monthly sum and 40/9 of a dollar\nThe sum of 329/1200 times the member’s total monthly sum and 49/4 of a dollar\nThe sum of 1163/4200 times the member’s total monthly sum and 512/21 of a dollar\n3.More than $700 but not more than $1,200\nThe sum of 1/8 times the member’s total monthly sum and 19/6 of a dollar\nThe sum of 643/3600 times the member’s total monthly sum and 40/9 of a dollar\nThe sum of 1/6 times the member’s total monthly sum and 175/2 of a dollar\nThe sum of 1163/4200 times the member’s total monthly sum and 512/21 of a dollar\n4.More than $1,200 but not more than $1,400\nThe sum of 1/8 times the member’s total monthly sum and 19/6 of a dollar\nThe sum of 643/3600 times the member’s total monthly sum and 40/9 of a dollar\nThe sum of 1/8 times the member’s total monthly sum and 275/2 of a dollar\nThe sum of 31/300 times the member’s total monthly sum and 698/3 of a dollar\n5.More than $1,400 but not more than $1,700\nThe sum of 13/150 times the member’s total monthly sum and 341/6 of a dollar\nThe sum of 223/1800 times the member’s total monthly sum and 1459/18 of a dollar\nThe sum of 1/8 times the member’s total monthly sum and 275/2 of a dollar\nThe sum of 31/300 times the member’s total monthly sum and 698/3 of a dollar\n6.More than $1,700 but not more than $2,300\n1225/6 dollars\n875/3 dollars\n$350\n1225/3 dollars\n7.More than $2,300 but not more than $3,000\nThe difference between 15247/21 of a dollar and 953/4200 times the member’s total monthly sum\nThe difference between 43553/42 of a dollar and 1361/4200 times the member’s total monthly sum\nThe difference between 34847/28 of a dollar and 1089/2800 times the member’s total monthly sum\nThe difference between 40651/28 of a dollar and 3811/8400 times the member’s total monthly sum\nNote:\nIn this Schedule, “total monthly sum” means —\n(a)in relation to regulation 13C(1), total wages of an eligible employee for the relevant month;\n(b)in relation to regulation 13C(2)(b), total APE of an eligible Group A worker for the relevant month; and\n(c)in relation to regulation 13C(4), the sum of the total wages and total APE for the relevant month of an eligible member who works as both an employee and a platform worker in that relevant month."
+   }
+  },
+  {
+   "id": "SG-H541-A900012",
+   "no": 900012,
+   "noLabel": {
+    "en": "THIRTEENTH SCHEDULE"
+   },
+   "text": {
+    "en": "THIRTEENTH SCHEDULE\nRegulations 8AH, 13C(2)(a) and (3) and 13D(1)(a), (4)(a)(i) and (5)(a)\nValue of benefits for eligible\nplatform worker and value of ‘A’\nin regulation 13D(1)(a), (4)(a)(i) AND (5)(a)\nTotal monthly\nsum for\napplicable\nyear or\nrelevant year\nAge of member on 31 December of applicable year\nor relevant year\nAttained\n30 years\nof age\nbut below\n35 years\nof age\nAttained\n35 years\nof age\nbut below\n45 years\nof age\nAttained\n45 years\nof age\nbut below\n60 years\nof age\nAttained\n60 years\nof age\nor if a\nmember\nis a\nspecified\nmember\n1.Less than $500 (if the Board has waived the requirement under regulation 8AB(b)(ii), 8AC(b)(ii) or 8AE(1)(b)(iii) for the member)\n106/3 dollars\n158/3 dollars\n262/3 dollars\n304/3 dollars\n2.At least $500 but not more than $700\nThe sum of 1/12 times the member’s total monthly sum and 19/9 of a dollar\nThe sum of 643/5400 times the member’s total monthly sum and 80/27 of a dollar\nThe sum of 329/1800 times the member’s total monthly sum and 49/6 of a dollar\nThe sum of 1163/6300 times the member’s total monthly sum and 1024/63 of a dollar\n3.More than $700 but not more than $1,200\nThe sum of 1/12 times the member’s total monthly sum and 19/9 of a dollar\nThe sum of 643/5400 times the member’s total monthly sum and 80/27 of a dollar\nThe sum of 1/9 times the member’s total monthly sum and 175/3 of a dollar\nThe sum of 1163/6300 times the member’s total monthly sum and 1024/63 of a dollar\n4.More than $1,200 but not more than $1,400\nThe sum of 1/12 times the member’s total monthly sum and 19/9 of a dollar\nThe sum of 643/5400 times the member’s total monthly sum and 80/27 of a dollar\nThe sum of 1/12 times the member’s total monthly sum and 275/3 of a dollar\nThe sum of 31/450 times the member’s total monthly sum and 1396/9 of a dollar\n5.More than $1,400 but not more than $1,700\nThe sum of 13/225 times the member’s total monthly sum and 341/9 of a dollar\nThe sum of 223/2700 times the member’s total monthly sum and 1459/27 of a dollar\nThe sum of 1/12 times the member’s total monthly sum and 275/3 of a dollar\nThe sum of 31/450 times the member’s total monthly sum and 1396/9 of a dollar\n6.More than $1,700 but not more than $2,300\n1225/9 dollars\n1750/9 dollars\n700/3 dollars\n2450/9 dollars\n7.More than $2,300 but not more than $3,000\nThe difference between 30494/63 of a dollar and 953/6300 times the member’s total monthly sum\nThe difference between 43553/63 of a dollar and 1361/6300 times the member’s total monthly sum\nThe difference between 34847/42 of a dollar and 363/1400 times the member’s total monthly sum\nThe difference between 40651/42 of a dollar and 3811/12600 times the member’s total monthly sum\nNote:\nIn this Schedule, “total monthly sum” means —\n(a)in relation to regulation 13C(2)(a), total APE of an eligible Group A worker for the relevant month;\n(b)in relation to regulation 13C(3), total APE of an eligible Group B worker for the relevant month;\n(c)in relation to regulation 13D(1)(a), average monthly income of an eligible self‑employed person; and\n(d)in relation to regulation 13D(4)(a)(i) and (5)(a), average monthly income of an eligible member who works as both a self‑employed person and a platform worker."
+   }
+  },
+  {
+   "id": "SG-H541-A900013",
+   "no": 900013,
+   "noLabel": {
+    "en": "FOURTEENTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTEENTH SCHEDULE\nRegulation 13D(2)(a), (4)(a)(ii) and (7)(a)\nValue of ‘A’ in regulation 13D(2)(a), (4)(a)(ii) and (7)(a)\nAverage monthly\nincome for\nrelevant year\nAge of member on 31 December of relevant year\nAttained\n30 years\nof age\nbut below\n35 years\nof age\nAttained\n35 years\nof age\nbut below\n45 years\nof age\nAttained\n45 years\nof age\nbut below\n60 years\nof age\nAttained\n60 years\nof age\nor if a\nmember\nis a\nspecified\nmember\n1.Less than $500 (if the Board has waived the requirement under regulation 8AE(1)(b)(iii) for the member)\n$53\n$79\n$131\n$152\n2.At least $500 but not more than $700\nThe sum of 1/8 times the member’s average monthly income and 19/6 of a dollar\nThe sum of 643/3600 times the member’s average monthly income and 40/9 of a dollar\nThe sum of 329/1200 times the member’s average monthly income and 49/4 of a dollar\nThe sum of 1163/4200 times the member’s average monthly income and 512/21 of a dollar\n3.More than $700 but not more than $1,200\nThe sum of 1/8 times the member’s average monthly income and 19/6 of a dollar\nThe sum of 643/3600 times the member’s average monthly income and 40/9 of a dollar\nThe sum of 1/6 times the member’s average monthly income and 175/2 of a dollar\nThe sum of 1163/4200 times the member’s average monthly income and 512/21 of a dollar\n4.More than $1,200 but not more than $1,400\nThe sum of 1/8 times the member’s average monthly income and 19/6 of a dollar\nThe sum of 643/3600 times the member’s average monthly income and 40/9 of a dollar\nThe sum of 1/8 times the member’s average monthly income and 275/2 of a dollar\nThe sum of 31/300 times the member’s average monthly income and 698/3 of a dollar\n5.More than $1,400 but not more than $1,700\nThe sum of 13/150 times the member’s average monthly income and 341/6 of a dollar\nThe sum of 223/1800 times the member’s average monthly income and 1459/18 of a dollar\nThe sum of 1/8 times the member’s average monthly income and 275/2 of a dollar\nThe sum of 31/300 times the member’s average monthly income and 698/3 of a dollar\n6.More than $1,700 but not more than $2,300\n1225/6 dollars\n875/3 dollars\n$350\n1225/3 dollars\n7.More than $2,300 but not more than $3,000\nThe difference between 15247/21 of a dollar and 953/4200 times the member’s average monthly income\nThe difference between 43553/42 of a dollar and 1361/4200 times the member’s average monthly income\nThe difference between 34847/28 of a dollar and 1089/2800 times the member’s average monthly income\nThe difference between 40651/28 of a dollar and 3811/8400 times the member’s average monthly income\nNote:\nIn this Schedule, “average monthly income” means —\n(a)in relation to regulation 13D(2)(a), average monthly income of an eligible member who works as both a self‑employed person and an employee;\n(b)in relation to regulation 13D(4)(a)(ii), average monthly income of an eligible member who works as both a self‑employed person and a platform worker (being a Group A worker); and\n(c)in relation to regulation 13D(7)(a), average monthly income of an eligible member who works as a self‑employed person, an employee and a platform worker."
+   }
+  },
+  {
+   "id": "SG-H541-A900014",
+   "no": 900014,
+   "noLabel": {
+    "en": "FIFTEENTH SCHEDULE"
+   },
+   "text": {
+    "en": "FIFTEENTH SCHEDULE\nRegulations 8AH and 8AI(6)\nAdditional contributions for Group B worker\nfor applicable year 2025 or later\nTotal\nsum for\napplicable\nyear\nAge of member on 1 January of applicable year\nBelow\n35 years\nof age\nAttained\n35 years\nof age\nbut below 45 years\nof age\nAttained\n45 years\nof age\nbut below\n50 years\nof age\nAttained\n50 years\nof age\n1.Not more than $6,000\n$240\n$270\n$300\n$315\n2.More than $6,000 but not more than $12,000\nAn amount equal to 4% of the member’s total sum for that year\nAn amount equal to 4.5% of the member’s total sum for that year\nAn amount equal to 5% of the member’s total sum for that year\nAn amount equal to 5.25% of the member’s total sum for that year\n3.More than $12,000 but not more than $18,000\nAn amount equal to the sum of $480 and 0.16 of the difference between the member’s total sum for that year and $12,000\nAn amount equal to the sum of $540 and 0.18 of the difference between the member’s total sum for that year and $12,000\nAn amount equal to the sum of $600 and 0.20 of the difference between the member’s total sum for that year and $12,000\nAn amount equal to the sum of $630 and 0.21 of the difference between the member’s total sum for that year and $12,000\n4.More than $18,000\nAn amount equal to 8% of the member’s total sum for that year\nAn amount equal to 9% of the member’s total sum for that year\nAn amount equal to 10% of the member’s total sum for that year\nAn amount equal to 10.5% of the member’s total sum for that year\nNote:\nIn this Schedule, “total sum” means, in relation to regulation 8AI(6), the sum of the total APE of an eligible Group B worker for all relevant months in an applicable year."
+   }
+  }
+ ]
+}

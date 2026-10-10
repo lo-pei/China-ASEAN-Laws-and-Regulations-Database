@@ -1,0 +1,952 @@
+{
+ "id": "KH-H012",
+ "title": {
+  "zh": "电子商务法",
+  "en": "Law on Electronic Commerce",
+  "orig": "Law on Electronic Commerce (Royal Kram NS/RKM/1119/017)"
+ },
+ "country": "KH",
+ "countryName": "柬埔寨",
+ "layer": "intl",
+ "pack": "kh-p01",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2019",
+ "effectiveDate": "2020-05-02",
+ "versionDate": null,
+ "amendedNote": "—",
+ "issuingBody": "柬埔寨官方发布渠道（data.opendevelopmentcambodia.net）",
+ "docNumber": "2019 电子商务法（英文）",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 70,
+ "chars": 48432,
+ "source": {
+  "name": "柬埔寨官方发布渠道（data.opendevelopmentcambodia.net）",
+  "url": "https://data.opendevelopmentcambodia.net/en/dataset/01e7c661-fba8-4bed-820b-c7d5f1bf9f12/resource/b779a5aa-9ca9-47c8-8a12-55dd408e6171/download/ecommercelawen.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-03",
+ "completenessNote": "全文，共 70 条，逐字取自官方原件，未改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "KH-H012-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "heading": {
+    "en": "Purposes"
+   },
+   "text": {
+    "en": "The purposes of this law are as follows:\n1. To govern electronic commerce in the Kingdom of Cambodia and with the international;\n2. To create legal certainty in the civil and commercial transactions by electronic system;\n3. To give confidence to the public in the usage of electronic communication."
+   }
+  },
+  {
+   "id": "KH-H012-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Article 2"
+   },
+   "heading": {
+    "en": "Goals"
+   },
+   "text": {
+    "en": "The goals of this law are as follows:\n1. To determine the authenticity, perfection and reliability of an electronic form;\n2. To promote the development of legal and business framework in order to conduct safe electronic commerce;\n3. To prevent and enforce against acts which are harmful to data and information systems;\n4. To eliminate obstacles which hinder electronic commerce and which  created by the uncertainty of requirements of written documents and signature;\n5. To facilitate electronic filing of documents with public institutions and promote an efficient delivery of services of public institutions through the use of reliable electronic records; and\n6. To establish rules, regulations and standards regarding the authenticity and perfection of electronic records."
+   }
+  },
+  {
+   "id": "KH-H012-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Article 3"
+   },
+   "heading": {
+    "en": "Scope"
+   },
+   "text": {
+    "en": "This law shall apply to all activities, documents and civil and commercial transactions that are made via electronic system except for the activities, documents and transactions relating to:\n1.Formation or enforcement of Power of Attorney;\n2.Formation or execution of a testament, codicil or other matters relating to succession;\n3. Any contract for sale, transfer or disposition of rights to immovable property or any interests in such property;\n4. Transfer of immovable property or any interests relating to the immovable property; and\n5. Any other exceptions as provided for by Sub-Decree."
+   }
+  },
+  {
+   "id": "KH-H012-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Article 4"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "All important terms use in this law are defined in the glossary found in the annex of this law.\nPage 3 of 24 Chapter 2 Validity of Electronic Communications"
+   }
+  },
+  {
+   "id": "KH-H012-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Article 5"
+   },
+   "heading": {
+    "en": "Legal recognition of electronic communications"
+   },
+   "text": {
+    "en": "No one may refuse to recognize the validity, legal effect, admissibility or enforceability of an electronic communication solely on grounds that it is formed in electronic form or is in an electronic communication."
+   }
+  },
+  {
+   "id": "KH-H012-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Article 6"
+   },
+   "heading": {
+    "en": "In writing requirement"
+   },
+   "text": {
+    "en": "1. Where any provisions is required to provide an  information in writing or recorded in writing, this requirement shall be deemed fulfilled if the information is made in an electronic form and can be accessed and retrieved for subsequent use.\n2. Where the requirement in the provision of the paragraph (1) above applies, a legal requirement demanding any person to provide at the same time multiple copies of any information or matters to another person, the person subjected to such requirement may fulfil this requirement by only providing a single copy in electronic form."
+   }
+  },
+  {
+   "id": "KH-H012-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Article 7"
+   },
+   "heading": {
+    "en": "Signature requirements"
+   },
+   "text": {
+    "en": "1. Where any provision requires a signature of a person, such requirement shall be deemed fulfilled by an electronic signature if the electronic signature was created by means which:\na. Can determine the identity of a person and indicate the approval of the person on information or record contained in the electronic communications.\nb. Can be trusted in accordance with the characteristics, the purpose and the circumstance for which the electronic communication was made or communicated.\n2. Notwithstanding any provision that states a requirement for a signature or only states consequence for the absence of a signature, the provision of the paragraph (1) above shall also apply."
+   }
+  },
+  {
+   "id": "KH-H012-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Article 8"
+   },
+   "heading": {
+    "en": "Requirements to retain information in original form"
+   },
+   "text": {
+    "en": "A legal requirement to retain information that was not made electronic form may be fulfilled by the retention of such information in electronic form if:\n1. Such electronic form is a reliable means to determine the completeness of the information; and\n2. Such information is easily retrievable for subsequent use."
+   }
+  },
+  {
+   "id": "KH-H012-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Article 9"
+   },
+   "heading": {
+    "en": "Prescribed form"
+   },
+   "text": {
+    "en": "Where any provision requires that information be created in any prescribed form, such requirement shall be substituted by providing information in electronic form if the electronic form fulfils the following conditions:\nPage 4 of 24\n1. Contains the same information or substantially the same information as prescribed form;\n2. Is accessible, intelligible, and retrievable for subsequent use; and\n3. Can be retained by the person who received the information."
+   }
+  },
+  {
+   "id": "KH-H012-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Article 10"
+   },
+   "heading": {
+    "en": "Record retention requirements"
+   },
+   "text": {
+    "en": "1. Where  any provision requires that any specific document, record or information, such requirement shall be deemed fulfilled if the retention fulfils all conditions as follows:\na. Information contained in such electronic communication is accessible and retrievable for subsequent use;\nb. Electronic communication is retained in original format in which it was created, sent or received, or in a format that can identify the accuracy of the information; and\nc. Such information is kept to allow any person can identify the origin and destination of such electronic communication, date and time when such electronic communication was sent or received.\n2. Obligation to retain documents, records or information in accordance with paragraph (1) does not include any information for the sole purpose to send or receive messages."
+   }
+  },
+  {
+   "id": "KH-H012-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Article 11"
+   },
+   "heading": {
+    "en": "Evidentiary requirements"
+   },
+   "text": {
+    "en": "No provisions in relation to the application of rules of evidence may object to the admissibility of electronic communication as evidence only on the ground that:\n1. The evidence is an electronic communication; or\n2. The evidence is not in original form."
+   }
+  },
+  {
+   "id": "KH-H012-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Article 12"
+   },
+   "heading": {
+    "en": "Formation and validity of contracts"
+   },
+   "text": {
+    "en": "1.  Offer, acceptance, and contract may be done in electronic means.\n2.  A contract in electronic form mentioned in the provision of the paragraph 1 above has validity, legal effect, and enforceability when the offer and acceptance coincide."
+   }
+  },
+  {
+   "id": "KH-H012-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Article 13"
+   },
+   "heading": {
+    "en": "Effect between parties"
+   },
+   "text": {
+    "en": "The originator and addressee of electronic communication shall not refuse the legal effect, validity or enforceability of theirs intent or declaration."
+   }
+  },
+  {
+   "id": "KH-H012-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Article 14"
+   },
+   "heading": {
+    "en": "Separate implementation by agreement of parties"
+   },
+   "text": {
+    "en": "1. By agreement, parties that participate in the generation, sending, receiving, storage or processing of electronic communication may disregard the provisions as stated in Chapter 2 of this law, except otherwise determined.\n2. Notwithstanding the provisions as stated in Chapter 2, parties to the contract or transactions may:\na. Refrain from using any electronic records, electronic communication or electronic Page 5 of 24 signature in the contract or any transaction as agreed between the parties; or\nb. Set additional requirements in relation to form or authenticity of the contract or the transaction as agreed between the parties.\nChapter 3 Electronic Communications Process"
+   }
+  },
+  {
+   "id": "KH-H012-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Article 15"
+   },
+   "heading": {
+    "en": "Time and place of dispatch and receipt of information in electronic"
+   },
+   "text": {
+    "en": "communications\n1. Information in an electronic communication is deemed dispatched when:\na. The information leaves the information system that is under the control of the originator or of the party who sent it on behalf of the originator; or\nb. In case that the information is sent but it has not left the information system that is under the control of the originator or of the party who sent it on behalf of the originator, the information is deemed that it is dispatched when such information is received at any time.\n2. Information in an electronic communication is deemed to be dispatched from the place of business of the originator, no matter where it is dispatched.\n3. The time of receipt of an information is the time when the information becomes capable of being retrieved by the addressee at the electronic address designated by the addressee. The information is deemed to be received at the place where the addressee has its place of business.\n4. If a specific electronic address has not been provided by the addressee, the time of receipt of an information is the time when the addressee becomes aware of the dispatch and retrievability at any electronic address and the information is deemed to be received at the place of business of the recipient.\n5. If the electronic address is provided by the addressee, the information in the electronic communication is deemed to be received when it reaches the electronic address of the addressee, and is deemed to be received at the place where the addressee has its place of business."
+   }
+  },
+  {
+   "id": "KH-H012-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Article 16"
+   },
+   "heading": {
+    "en": "Offer for forming a contract"
+   },
+   "text": {
+    "en": "Any proposal to enter into a contract through an electronic communication which is not addressed to any other specific person is considered as an invitation to make an offer for forming a contract only.  The proposal will be considered as an offer for creating a contract if the proposal clearly indicates the intention of the party that it shall be bound when there is an acceptance from the other party."
+   }
+  },
+  {
+   "id": "KH-H012-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Article 17"
+   },
+   "heading": {
+    "en": "Use of automated system for contract formation"
+   },
+   "text": {
+    "en": "A contract formed by the interaction of an automated system of a person with any natural person, or with the automated systems of another person, shall not be denied validity, legal effect, or enforceability of the contract on the ground that no natural person directly reviewed or intervened in the automated system or in forming the contract.\nPage 6 of 24"
+   }
+  },
+  {
+   "id": "KH-H012-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Article 18"
+   },
+   "heading": {
+    "en": "Error of information input in electronic communication"
+   },
+   "text": {
+    "en": "Where a natural person makes an information input error in an electronic communication with the automated system of another party, and the automated system does not provide the person with an opportunity to correct the input error, that person, or the party on whose behalf that person was acting, has the right to make correction or withdraw the input error in case:\n1. The person notifies the other party of the error as soon as possible after having learned of the error, and indicates that he had made an error in the electronic communication; and\n2. The person has not benefitted in any way from the error, prior to notification to the other party, and has not caused any damages of interest to the other party or any third party.\nThe provision as stated in this Article shall not be applicable to the securities sector.\nChapter 4 Secure Electronic Records and Electronic Signatures"
+   }
+  },
+  {
+   "id": "KH-H012-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Article 19"
+   },
+   "heading": {
+    "en": "Secure electronic record"
+   },
+   "text": {
+    "en": "An electronic record shall be considered as a secure electronic record, only if it is properly applied in accordance with the secure procedure which ensures that the electronic record has not been altered commencing from any specific point in time to the time of verification."
+   }
+  },
+  {
+   "id": "KH-H012-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Article 20"
+   },
+   "heading": {
+    "en": "Secure electronic signature"
+   },
+   "text": {
+    "en": "1. An electronic signature is secure only if it complies with the conditions below:\na. Can be uniquely linked to only one signatory;\nb. Is capable of identifying the signatory;\nc. Is created by using means that is under the management of signatory;\nd. Confirm the date and time of the signature; and\ne. Confirm the original status of messages or the electronic record which is linked the signature.\n2. The provision of the paragraph (1) above shall not limit the ability of any person in an electronic communication to:\na. Establish/set additional conditions in relation to the reliability of electronic signature; or\nb. Adduce evidence of non-reliability of an electronic signature."
+   }
+  },
+  {
+   "id": "KH-H012-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Article 21"
+   },
+   "heading": {
+    "en": "Presumptions relating to secure electronic records and signatures"
+   },
+   "text": {
+    "en": "1. Unless there is evidence to the contrary, in any proceedings involving a secure electronic record,  the secure electronic record is presumed as an electronic record which has not been altered since a specific point in time.\n2. Unless there is evidence to the contrary, in any proceedings involving a secure electronic signature, a secure electronic signature is presumed as follows:\na. The electronic signature is the signature of the related person; and\nb. The electronic signature was affixed by a person with the intention of signing or Page 7 of 24 approving the electronic record.\n3. In the absence of a secure electronic record or a secure electronic signature, nothing in any provisions of the Chapter 4 shall create any presumption relating to the authenticity or accuracy of the electronic record or electronic signature."
+   }
+  },
+  {
+   "id": "KH-H012-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Article 22"
+   },
+   "heading": {
+    "en": "Use of stolen identity"
+   },
+   "text": {
+    "en": "All person shall not use the identity, record, electronic signature, electronic address, secret code, or feature of other persons in bad faith or without permission in a commercial or non-commercial transaction via electronic system."
+   }
+  },
+  {
+   "id": "KH-H012-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Article 23"
+   },
+   "heading": {
+    "en": "Competent institution to manage the security procedures"
+   },
+   "text": {
+    "en": "1. The Ministry of Posts and Telecommunications shall be the competent institution to manage security procedures for the electronic record and the electronic signature.\n2. The management of the secure procedures for the electronic record and the electronic signature shall be determined by regulations.\nChapter 5 Intermediaries and Electronic Commerce Service Providers"
+   }
+  },
+  {
+   "id": "KH-H012-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Article 24"
+   },
+   "heading": {
+    "en": "Liability of intermediaries and electronic commerce service providers"
+   },
+   "text": {
+    "en": "1. An intermediary or an electronic commerce service provider shall not be subject to any civil or criminal liability in respect of any information contained in an electronic record in respect of service provision of the intermediary and the electronic commerce service provider, if the intermediary and electronic commerce service provider was not the sender/originator of the record and in the case that:\na. The intermediary or electronic commerce service provider has no actual knowledge that the information gives rise to civil or criminal liability;\nb. The intermediary or electronic commerce service provider is not aware of any facts or circumstances which they ought to know reasonably give rise to a likelihood of civil or criminal liability in respect of the information; or\nc. The intermediary or electronic commerce service provider becomes aware of facts or circumstances from which the likelihood of civil or criminal liability in respect of the information ought reasonably to have been known and take action in accordance with the procedure set out in Article 25 in relation to unlawful information and defamation in below.\n2. An intermediary or electronic commerce service provider shall not be required to monitor any electronic record processed by the electronic system which is under his management whether its processing would constitute or give rise to an offence or gi ve rise to civil liability unless otherwise provide/determine.\n3. Provision of this article shall not apply to an intermediary or electronic commerce service Page 8 of 24 provider to be free from:\na. Any obligation established pursuant to a law or legal norms /regulations;\nb. Any obligation to comply with an order or direction of a court or other competent authority; or\nc. Any contractual obligation."
+   }
+  },
+  {
+   "id": "KH-H012-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Article 25"
+   },
+   "heading": {
+    "en": "Liability for information or event"
+   },
+   "text": {
+    "en": "1. If an intermediary or an electronic commerce service provider  is aware that that the information in an electronic record gives rise to civil or criminal liability, the intermediary or the electronic commerce service provider shall immediately take measure as bellow:\na. Remove the information from any information system within the intermediar\\¶s or the electronic commerce serYice proYider¶s control and cease to proYide serYices in respect of that information;\nb. Preserve the information as evidence and notify the Ministry of Posts and Telecommunications or relevant competent institutions about the facts and the identity of the suspected person.\n2. In the event that an intermediary and an electronic commerce service provider is aware of any facts or circumstances which may lead to the civil or criminal liability, the intermediary and the electronic commerce service provider shall preserve the information evidence and notify the Ministry of Posts and Telecommunications or relevant competent ministries-institutions.\n3.  When it  is acknowledged or notified in respect of any information of electronic record which may be subject to civil or criminal liability, the Ministry of Posts and Telecommunications and relevant competent ministries-institutions may give an instruction to the intermediary or electronic commerce service provider to perform any operation as follows:\na. Remove the electronic record from the system which is under its control;\nb. Suspend or cease to provide services to the person; or\nc. Suspend or cease to provide services in respect of that electronic record.\n4. An intermediary or an electronic commerce service provider is not liable on civil liability, whether in contract, outside of contract or in accordance with the law in respect of an activity performed in good faith as dire cted by the Ministry of Posts and Telecommunications or relevant competent ministries-institutions.\n5. Any person who lodges a notification of unlawful activity with an intermediary or an electronic commerce service provider bout illegal activity knowing that the notification is false or misleading shall be subject to civil or criminal liability in respect of such offense.\nPage 9 of 24"
+   }
+  },
+  {
+   "id": "KH-H012-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Article 26"
+   },
+   "heading": {
+    "en": "Provision of issuance of a permission letter or a license"
+   },
+   "text": {
+    "en": "1. An intermediary and an electronic commerce service provider shall request for a permission letter or a license from the Ministry of Commerce and the Ministry of Posts and Telecommunications.\n2. The Ministry of Commerce provides a permission letter or a license including:\na. A permission letter to operate an electronic business for a natural person.\nb. A license to allow the operation of electronic commerce service provision for a legal person.\n3. The Ministry of Posts and Telecommunications  shall provide an online service certificate.\n4. The exception, the determination of type for license, the formalities, and the procedure of providing a permission or license shall be determined by a sub-decree."
+   }
+  },
+  {
+   "id": "KH-H012-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Article 27"
+   },
+   "heading": {
+    "en": "Professional code of conduct and regulations on intermediaries and electronic"
+   },
+   "text": {
+    "en": "commerce service providers\n1. An intermediary or an electronic commerce service provider shall comply with the approved professional code of conduct and regulations relating to electronic commerce determined by inter-ministerial Prakas between the Ministry of Commerce and the Ministry of Posts and Telecommunications.\n2. The professional code of conduct referred to  the provisions in paragraph (1) shall be determined and prepared by the Ministry of Commerce and the Ministry of Posts and Telecommunications in cooperation with the relevant competent ministries-institutions and related parties."
+   }
+  },
+  {
+   "id": "KH-H012-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Article 28"
+   },
+   "heading": {
+    "en": "Tax obligation, incentives and preferences"
+   },
+   "text": {
+    "en": "An intermediary and an electronic commerce service provider shall be subject to the common legislation of the applicable tax regime and shall receive the incentives and prefe rences in accordance with the laws and regulations in force.\nChapter 6 Consumer Protection"
+   }
+  },
+  {
+   "id": "KH-H012-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Article 29"
+   },
+   "heading": {
+    "en": "Minimum information in electronic commerce"
+   },
+   "text": {
+    "en": "1. A person using electronic communications to sell goods or services to consumer shall provide accurate, clear and intelligible information  and must have at least the following information:\na. Name or legal name of the person, the registered business address and an electronic means for contact or a telephone number;\nb. Form of prompt, easy and effective communication between consumers and the Page 10 of 24 seller;\nc. Terms, conditions and costs of goods or services associated with a commercial transaction,  particularly the terms and conditions, and methods of payment, and details related to withdrawal or cancellation of the purcha se order, termination, return and exchange of goods, and refund; and\nd. Actual goods and services offered for sale.\n2. The information provided in the provisions of the paragraph (1) above shall be sufficient to enable consumers to make a decision about the commercial transaction and to retain the information.\n3. The provisions of this Article shall not apply to the securities and insurance sector."
+   }
+  },
+  {
+   "id": "KH-H012-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Article 30"
+   },
+   "heading": {
+    "en": "Unsolicited communications"
+   },
+   "text": {
+    "en": "Any person, whether or not having a place of business inside or outside the Kingdom of Cambodia, who sends unsolicited commercial communications to consumers based in or out of the Kingdom of Cambodia through an electronic media or through an intermediary or a telecommunication service provider shall provide the consumer with a clearly specified and easily activated option to reject the unsolicited commercial communication."
+   }
+  },
+  {
+   "id": "KH-H012-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Article 31"
+   },
+   "heading": {
+    "en": "Formation of Counterfeit Electronic System and Malicious Code"
+   },
+   "text": {
+    "en": "1. Any person shall not create an electronic system for the purpose of counterfeiting or causing a confusion in order to take advantage, or in the purpose of attracting to have a usage or an operation, and lead to have an injury/damage to the person who used it or to the third party.\n2. Any person shall not create, provide, enable, distribute, or send the virus-code in the bad-faith purpose through electronic means in to electronic instrument or system of other persons."
+   }
+  },
+  {
+   "id": "KH-H012-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Article 32"
+   },
+   "heading": {
+    "en": "Data protection"
+   },
+   "text": {
+    "en": "1. Any person that holds personal information in electronic form shall use all means to ensure that the information is protected by such security safeguards as it is reasonable in every circumstances to avoid the loss, access, use, modification, leak or disclosure of those information, except with the permission of the owner of the information or any other party authorized by law.\n2. Any person shall not interfere in the electronic system, access, retrieve, copy, extract, leak, delete or modify data, which is under the retention of any other person in bad-faith or without permission."
+   }
+  },
+  {
+   "id": "KH-H012-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Article 33"
+   },
+   "heading": {
+    "en": "Implementation of provisions related to consumer protection"
+   },
+   "text": {
+    "en": "Any person using electronic communications for commercial activit ies with consumers shall comply with all other provisions and regulations related to consumer protection.\nPage 11 of 24 Chapter 7 Government Activities and Transactions via Electronic System"
+   }
+  },
+  {
+   "id": "KH-H012-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Article 34"
+   },
+   "heading": {
+    "en": "Acceptance of electronic communications by state institutions"
+   },
+   "text": {
+    "en": "1. Ministries or institutions of the government may use the following actions and transaction in electronic form:\na. The filing of documents or the fulfilment of requirements for document creation or retention;\nb. Issuance of any license or permission letter;\nc. Provision for the method and manner of payment; or\nd. Other authorized activities as determined by the state ministries-institutions.\n2. In any case where  the state ministries-institutions decides to use electronic communications in any activities or transaction as stated in the provisions of the paragraph (1) above, such ministry or institution/agency may specify:\na. The manner and form in which such electronic communication information shall be filed, created, retained or published;\nb. The type and form of signature required when there is a requirement for a  signature in the electronic communication;\nc. The manner and form in which such signature shall be affixed to the electronic communication;\nd. Control processes and procedures as appropriate to ensure accuracy, security and confidentiality of electronic communications or payments; and\ne. Any other conditions required to be equivalent as documents or electronic payment with that documents or payment in written format.\nChapter 8 Electronic Evidences"
+   }
+  },
+  {
+   "id": "KH-H012-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Article 35"
+   },
+   "heading": {
+    "en": "General admissibility of electronic evidence"
+   },
+   "text": {
+    "en": "Nothing in the provisions of rules on any evidence shall apply to deny the general admissibility of an electronic record as evidence on the sole ground that it is an electronic record , even if the evidence is not in its original form."
+   }
+  },
+  {
+   "id": "KH-H012-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Article 36"
+   },
+   "heading": {
+    "en": "Perfection of the electronic system"
+   },
+   "text": {
+    "en": "1. In any legal proceeding, the validity of electronic evidence may be satisfied on proof of the perfection of the electronic system in or by which the data was recorded or stored.\n2. In the absence of evidence to the contrary, the electronic system in which used for recording and storing for electronic recording is presumed perfection in any legal proceeding shall be in according with one of the following conditions:\nPage 12 of 24\na. Where evidence is adduced that supports a fact finding/confirming that the electronic system or other similar instrument was operating properly is when the electronic recording is presumably recorded and stored or when it is used as evidence or in the event that the electronic system or other similar instrument was not operating properly or not working at all but the perfection of the electronic record was not affected by such circumstances, and there are no other reasonable grounds to doubt the perfection of the record;\nb. Where it is established that the electronic record was recorded or stored by a party to the proceedings who is adverse in interest to the party seeking to introduce it  as evidence in accordance with legal procedures; or\nc. Where it is established that the electronic record was recorded or stored in the usual and ordinary course of business by a person who is not a party to the proceedings and who did not record or store it under the control of the party seeking to use/introduce the electronic record as evidence in the proceedings in accordance with legal procedures."
+   }
+  },
+  {
+   "id": "KH-H012-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Article 37"
+   },
+   "heading": {
+    "en": "Perfection of information"
+   },
+   "text": {
+    "en": "1. In the absence of evidence to the contrary, an electronic record made or stored in an electronic system is presumed to be proven that it has a perfection in any legal proceeding if the electronic record:\na. Has remained complete and unaltered, apart from the addition of any endorsement; or any immaterial change which arises in the normal course of communication, storage or display;\nb. Has been certified or has been signed in an electronic format, by a method provided by a duly licensed security procedure provider;\nc. Has its perfection and content certified by competent ministries or institutions;\nd. Has been recorded in a storage device, or any other electronic means that does not allow alteration of the electronic records;\ne. Has been examined and its perfection confirmed by an expert appointed by the Court;\nf. When there is evidence supporting a fact finding/confirming that at all material times the electronic system or other similar instrument was operating properly during/at important times, or if not, that in any respect in which it was not operating properly or out of operation, the perfection of the record was not affected by such circumstances, and there are no other reasonable grounds to doubt the perfection of the record; or\ng. When there is evidence proving that the electronic record was recorded or stored by a party participating in the legal proceedings who is adverse in interest to the party seeking to use the electronic record;\n2. When there is evidence proving that the electronic record was recorded or stored as usual and for the purpose of ordinary course of business by a natural person who is not a party to the legal proceedings, and such natural person did not record or store it under the control of the party seeking to use the record.\nPage 13 of 24\n3. Where a report contained in an electronic record produced by an electronic system does not constitute hearsay, such report shall be admissible if the conditions specified in the provisions of the paragraph (2) related to the electronic record are met."
+   }
+  },
+  {
+   "id": "KH-H012-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Article 38"
+   },
+   "heading": {
+    "en": "Printouts"
+   },
+   "text": {
+    "en": "Any printouts with the original content from the electronic records can be used as evidence in legal proceedings."
+   }
+  },
+  {
+   "id": "KH-H012-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Article 39"
+   },
+   "heading": {
+    "en": "Burden of prove the authenticity of electronic evidence"
+   },
+   "text": {
+    "en": "1. The person requesting to introduce an electronic record in any legal proceeding shall be responsible for showing its authenticity with evidence to support the electronic record to be introduced.\n2. In the case where there is any provisions which protects the vulnerable persons, including consumers and children, and which establishes the burden of introducing evidence that provides more benefits to those individuals than this law does, the provisions shall prevail over this Article."
+   }
+  },
+  {
+   "id": "KH-H012-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Article 40"
+   },
+   "heading": {
+    "en": "Standards of recording or preserving of electronic records"
+   },
+   "text": {
+    "en": "For the purpose of determining, under any other provisions, as to whether or not an electronic record is admissible, evidence may be presented based on standard, procedure, usage or practice on how an electronic record is to be recorded or preserved by taking into consideration the type of business, the nature and the purpose of the electronic record."
+   }
+  },
+  {
+   "id": "KH-H012-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Article 41"
+   },
+   "heading": {
+    "en": "Issuance of an authenticity certificate"
+   },
+   "text": {
+    "en": "1. Any person wishing to prove the authenticity of an electronic record as evidence, he/she can request for the evidence from the expert with respect to the authenticity of the electronic record in the form of a certificate.\n2. The authenticity certificate under the provision of paragraph 1 above shall be issued by:\na. Competent ministries - institutions or a person responsible in relation to the operation or management of  a specified security procedure provider or a security procedure provider recognized by the Court; or\nb. An expert appointed or recognized by the Court.\n3. A person who has the authority to issue the authenticity certificate as mentioned in the provision of paragraph 2 above shall not falsify or issue a false or unreal authenticity certificate of a record or electronic evidence."
+   }
+  },
+  {
+   "id": "KH-H012-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Article 42"
+   },
+   "heading": {
+    "en": "Other Procedures for the Production of Electronic Evidence"
+   },
+   "text": {
+    "en": "In addition to the means of proof referred to in this law, electronic evidence may be produced by means of alternative techniques and procedures, such as certification by a notary or competence institutions, recording on non-rewritable electronic medium, and electronic system forensics result in the course of judicial discovery.\nPage 14 of 24"
+   }
+  },
+  {
+   "id": "KH-H012-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Article 43"
+   },
+   "heading": {
+    "en": "Violation of Coding"
+   },
+   "text": {
+    "en": "Any person shall not encode in electronic communications via electronic system which is an evidence that could lead to an accusation or encode the data or evidence in electronic system in relation to an offense."
+   }
+  },
+  {
+   "id": "KH-H012-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Article 44"
+   },
+   "heading": {
+    "en": "Admissibility of Electronic Records from Foreign Countries"
+   },
+   "text": {
+    "en": "Electronic evidence confirmed by competent ministries or institutions of foreign states shall be admissible as evidence if the perfection/integrity of the electronic system which records or stores the electronic record comply with the accuracy standards provided for in Chapter 8 of the law."
+   }
+  },
+  {
+   "id": "KH-H012-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Article 45"
+   },
+   "heading": {
+    "en": "Admissibility of Electronic Information from Foreign Countries"
+   },
+   "text": {
+    "en": "In order to determine as to whether or not the information in the electronic form is admissible or admissible to a certain degree, it is not necessary to determine the place where such information was produced or used or where the place of business was established overseas as long as such electronic record can accessible and retrievable in the jurisdiction of the Kingdom of Cambodia.\nChapter 9 Electronic Payments and/or Electronic Funds Transfers"
+   }
+  },
+  {
+   "id": "KH-H012-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Article 46"
+   },
+   "heading": {
+    "en": "Electronic Payment Transaction"
+   },
+   "text": {
+    "en": "1. Any person operating a payment system, providing a payment service, issuing an electronic payment instrument or providing an electronic means of payment, or conducting any other operations to the public considered to be an electronic payment and shall obtain prior authorization or license from the National Bank of Cambodia.\n2. The National Bank of Cambodia shall be the competent authority to formulate regulations relating to electronic payment."
+   }
+  },
+  {
+   "id": "KH-H012-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Article 47"
+   },
+   "heading": {
+    "en": "Responsibilities of Payment Service Providers"
+   },
+   "text": {
+    "en": "1. Payment service providers shall not provide the customers with an unsolicited payment instruments except in case of card expiration or replacement.\n2. Before executing an electronic fund transfer, the payment service providers shall clearly identify the customers¶ identit\\ and re-authenticate the electronic fund transfer. The payment service providers shall be held liable in the following cases:\na. Execution of a transaction without authorization of the customers;\nb. Execution of a fund transfer after receiving report of forgery, loss, or theft of the electronic fund transfer instruments;\nc. Execution of a transaction despite the notification from the customers as defined in Article 48 below;\nd. Failure  to comply  with  the  instruction  of  the  customers  or  an execution which is not in compliance with the customer¶s instruction; or\ne. Technical malfunction, an error in operating the technical system, or a flaw in the electronic fund transfer instruments.\nPage 15 of 24\n3. The payment service providers shall not be held liable in case of force majeure event or customers¶ defaults.\n4. In the case where the payment service providers are to be held liable, the service providers shall reimburse to the customer no later than 30 (thirty) days from the date of receiving the notification of the customer as defined in Article 48 of this law the transaction fee, charges, and a fine for late payment resulting from this transaction, without accounting for damages which may be suffered by the customer.\n5. Any person shall not, without authorization, issue a card or transform the card into another form different from that of the original in bad faith for forgery or cheating purposes, which could cause damage/injury to another person."
+   }
+  },
+  {
+   "id": "KH-H012-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Article 48"
+   },
+   "heading": {
+    "en": "Responsibilities of Customers"
+   },
+   "text": {
+    "en": "1. Customers shall notify the payment service providers of any unauthorized, mistaken or wrongful transaction of their own account.\n2. Customers shall notify the payment service providers or the establishment authorized by the payment service providers of any loss or theft of electronic transfer instrument or electronic fund transfer method or theft of data, which can be used with the payment instrument. Such notification shall be made in writing or by any electronic means which is acceptable to the payment service providers, and shall notify as soon as possible not exceeding 2 (two) days after the theft or loss of electronic transfer instrument is discovered.\n3. In case where there is sufficient evidence proving that the loss or damage is caused by customer¶s default, the payment service provider shall have rights to demand the customer to be fully responsible for such loss or damage.\n4. If there is no evidence to prove the customer¶s default, the payment service provider shall be fully and unconditionally responsible for such loss or damage.\nChapter 10 Competency, complaint and Procedures for a Fine"
+   }
+  },
+  {
+   "id": "KH-H012-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Article 49"
+   },
+   "heading": {
+    "en": "Competency"
+   },
+   "text": {
+    "en": "A written warning, cease of business activities or transaction, suspension, revocation or cancellation of an authorization or license and imposition of a fine shall fall within the competency of the Ministry of Commerce and the Ministry of Posts and Telecommunications.\nIn case where a person refuses to comply with above measures, the Ministry of Commerce and the Ministry of Posts and Telecommunications may refer the case to the competent court."
+   }
+  },
+  {
+   "id": "KH-H012-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Article 50"
+   },
+   "heading": {
+    "en": "Procedures for a Complaint"
+   },
+   "text": {
+    "en": "1. Those who are not satisfied with the written warning, cease of business activities or business transaction, suspension, revocation or cancellation of the authorization or license and a fine by  the Ministry of Commerce and the Ministry of Posts and Telecommunications shall be entitled to lodge their complaint with the Minister of Commerce and the Minister of Posts and Telecommunications.\n2. The Minister of Commerce and the Minister of Posts and Telecommunications shall make Page 16 of 24 decision within 30 (thirty) days at the latest.\n3. Any person who are not satisfied with the decision of the Minister of Commerce and the Minister of Posts and Telecommunications shall have the rights to lodge their complaint to the competent court of the Kingdom of Cambodia within 30 (thirty) days at the latest from the date of receipt of the notification of the decision."
+   }
+  },
+  {
+   "id": "KH-H012-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Article 51"
+   },
+   "heading": {
+    "en": "Procedure for Imposing a Fine"
+   },
+   "text": {
+    "en": "Procedure for imposing a fine, payment of a fine, management of fining receipt and disposition of the proceeds derived from such fines as prescribed in the provisions of this law shall be determined by an inter-ministerial Prakas between the Minister of Economy and Finance, the Minister of Commerce and the Minister of Posts and Telecommunications.\nChapter 11 Penalties"
+   }
+  },
+  {
+   "id": "KH-H012-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Article 52"
+   },
+   "heading": {
+    "en": "Sanction"
+   },
+   "text": {
+    "en": "Sanctions in this law shall include a written warning, cease of business activities or business transactions, suspension, revocation or cancellation of the authorization or license, penalty, imprisonment and a (monetary) fine."
+   }
+  },
+  {
+   "id": "KH-H012-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Article 53"
+   },
+   "heading": {
+    "en": "Offence for Identity Theft"
+   },
+   "text": {
+    "en": "To be punishable by an imprisonment from 6 (six) months to 3 (three) years and a fine from 1,000,000 (one million) Riel to 6,000,000 (six million) Riel for those who act in violation of the provision in Article 22."
+   }
+  },
+  {
+   "id": "KH-H012-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Article 54"
+   },
+   "heading": {
+    "en": "Offence for Failure to Report of an Information or a Fact"
+   },
+   "text": {
+    "en": "To be punishable by an imprisonment from 1 (one) month to 1 (one) year and a fine from 100,000 (one hundred thousand) Riel to 2,000,000 (two million) Riel for the intermediary and the electronic commerce service providers who act in violation of the provisions of paragraph 1 and paragraph 2 of Article 25."
+   }
+  },
+  {
+   "id": "KH-H012-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Article 55"
+   },
+   "heading": {
+    "en": "Provision of False Information"
+   },
+   "text": {
+    "en": "To be punishable by an imprisonment from 1 (one) month to 1 (one) year and a fine from 100,000 (one hundred thousand) Riel to 2,000,000 ( two million) Riel for those who commit act as prescribed in the provision of paragraph 5 of Article 25."
+   }
+  },
+  {
+   "id": "KH-H012-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Article 56"
+   },
+   "heading": {
+    "en": "Executing of an Unauthorized Transaction"
+   },
+   "text": {
+    "en": "To cease business activities or business transaction and be subjected to a monetary fine not exceeding 10,000,000 (ten million) Riel for those who act in violation of the provision of paragraph 1 of Article 26.\nIf any person used to be subjected to the measure prescribed in paragraph 1 already, and the same offence has been committed, he/she shall be punishable by an imprisonment from 1 (one) year  to 3 (three) years and a fine from 2,000,000 (two million) Riel to 6,000,000 (six million) Riel.\nPage 17 of 24"
+   }
+  },
+  {
+   "id": "KH-H012-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Article 57"
+   },
+   "heading": {
+    "en": "Offence for Failure to Comply with the Provision Regarding Minimum"
+   },
+   "text": {
+    "en": "Information in Electronic Commerce\nTo be subjected to a written warning for those who act in violation of the provisions in paragraph 1 and paragraph 2 of Article 29.\nWhere the written warning was once given, but the same offence as prescribed in paragraph 1 above has been committed, the license or the authorization of the electronic commerce provider shall be suspended or revoked."
+   }
+  },
+  {
+   "id": "KH-H012-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Article 58"
+   },
+   "heading": {
+    "en": "Offence for Sending an Unsolicited Business Communication"
+   },
+   "text": {
+    "en": "To be subject to a written warning for those who act in violation of the provisions of Article 30.\nWhere the written warning was once given, but the same offence has been committed as set forth in paragraph 1 above, the licensed or authorized of an intermediary or the electronic commerce service provider shall be suspended or revoked or disable the media or closed down the electronic medium of the originator."
+   }
+  },
+  {
+   "id": "KH-H012-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Article 59"
+   },
+   "heading": {
+    "en": "Offence for Electronic System Forgery and Malicious Code"
+   },
+   "text": {
+    "en": "To be punishable by an imprisonment from 6 (six) months to 3 (three) years and a fine from 1,000,000 (one million) Riel to 6,000,000 (six million) Riel for those who act in violation of the provisions of Article 31."
+   }
+  },
+  {
+   "id": "KH-H012-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Article 60"
+   },
+   "heading": {
+    "en": "Offence for Failure to Comply with Data Protection Obligations"
+   },
+   "text": {
+    "en": "To be punishable by an imprisonment from 1 (one) year to 2 (two) years and a fine from 2,000,000 (two million) Riel to 4,000,000 (four million) Riel for those who store information in an electronic form for a personal purpose, which is contrary to the provision of paragraph 1 of Article 32.\nTo be punishable by an imprisonment from 1 (one) year to 2 (two) years and a fine from 2,000,000 (two million) Riel to 4,000,000 (four million) Riel for those who act in violation of the provision of paragraph 2 of Article 32."
+   }
+  },
+  {
+   "id": "KH-H012-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Article 61"
+   },
+   "heading": {
+    "en": "Offence for Violation of Authenticity Issuance"
+   },
+   "text": {
+    "en": "To be punishable by an imprisonment from 1 (one) month to 1 (one) year and a fine from 100,000 (one hundred thousand) Riel to 2,000,000 (two million) Riel for those who act in violation of the provision of paragraph 3 of Article 41."
+   }
+  },
+  {
+   "id": "KH-H012-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Article 62"
+   },
+   "heading": {
+    "en": "Offence for Coding Violation"
+   },
+   "text": {
+    "en": "To be punishable by an imprisonment from 1 (one) year to 3 (three) years and a fine from 2,000,000 (two million) Riel to 6,000,000 (six million) Riel for those who act in violation of the provision of Article 43."
+   }
+  },
+  {
+   "id": "KH-H012-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Article 63"
+   },
+   "heading": {
+    "en": "Offence for an Electronic Payment Transaction"
+   },
+   "text": {
+    "en": "To be punishable by an imprisonment from 1 (one) year to 5 (five) years and a fine from 1,000,000 (one million) Riel to 10,000,000 (ten million) Riel for those who act in violation of the provision of paragraph 1 of Article 46.\nPage 18 of 24"
+   }
+  },
+  {
+   "id": "KH-H012-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Article 64"
+   },
+   "heading": {
+    "en": "Offence for Electronic Payment Instrument Forgery"
+   },
+   "text": {
+    "en": "To be punishable by an imprisonment from 1 (one) year to 3 (three) years and a fine from 2,000,000 (two million) Riel to 6,000,000 (six million) Riel for those who act in violation of the provision of paragraph 5 of Article 47."
+   }
+  },
+  {
+   "id": "KH-H012-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Article 65"
+   },
+   "heading": {
+    "en": "Criminal Responsibility of a Legal Entity"
+   },
+   "text": {
+    "en": "1. A legal entity may be pronounced to be criminally responsible in accordance w ith the conditions prescribed in Article 42 (criminal responsibility of a legal entity) of the Criminal Codes for offences set forth in Article 53 to Article 54, paragraph 2 of Article 56, and"
+   }
+  },
+  {
+   "id": "KH-H012-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Article 59"
+   },
+   "heading": {
+    "en": "to Article 64 of this law."
+   },
+   "text": {
+    "en": "2. A legal entity shall be fined twice as much, plus one or more additional penalties as follows:\na. Dissolution in accordance with the formalities determined in Article 170 (Dissolution and Liquidation of a Legal Entity) of the Criminal Code.\nb. Placement under the court surveillance according to the modalities determined by"
+   }
+  },
+  {
+   "id": "KH-H012-A171",
+   "no": 171,
+   "noLabel": {
+    "en": "Article 171"
+   },
+   "heading": {
+    "en": "(Placement under the Court Surveillance) of the Criminal Code."
+   },
+   "text": {
+    "en": "c.  Prohibition from conducting one or more activities according to the modalities determined by Article 172 (Prohibition from Operating Activities) of the Criminal Code;\nd. Posting the decision on punishment in accordance with the formalities determined by Article 180 (Posting of a Decision) of the Criminal Code;\ne. Publication of the decision on punishment on newspapers or broadcasting on all means of audio-visual communications according to the modalities prescribed in"
+   }
+  },
+  {
+   "id": "KH-H012-A181",
+   "no": 181,
+   "noLabel": {
+    "en": "Article 181"
+   },
+   "heading": {
+    "en": "(Broadcasting the Decision by all Means of Audi -Visual"
+   },
+   "text": {
+    "en": "Communications) of the Criminal Code.\nPage 19 of 24 Chapter 12 Final Provision"
+   }
+  },
+  {
+   "id": "KH-H012-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Article 66"
+   },
+   "heading": {
+    "en": "Abrogation"
+   },
+   "text": {
+    "en": "All provisions contrary to this Law shall be abrogated."
+   }
+  },
+  {
+   "id": "KH-H012-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Article 67"
+   },
+   "heading": {
+    "en": "Application of this law"
+   },
+   "text": {
+    "en": "Once in force, this law shall be applied after 6 (six) months publication or dissemination.\nPRL. 1911.1654 Saturday, 6th day of the waxing, Month of katdeuk, Year of Pig, B.E. 2563 Done at the Royal Palace, 2 November 2019 NORODOM SIHAMNI Having made the request to His Majesty the King For Signature Prime Minister Samdech Akka Moha Sena Padei Techo HUN SEN Having informed Samdech Akka Moha Sena Padei Techo Prime Minister Minister of Commerce PAN SORASAK Page 20 of 24 Annex Definition The key terms used in this law shall be defined as follows:\n1. ´Accessµ means accessing into a computer program, a computer system, a system or an electronic network in order to communicate, transmit, store, or download data, information, or other documents contained in the electronic system by any means.\n2. ´Addresseeµ means a person who is intended by the originator to receive an electronic communication except an intermediary with respect to the electronic communication.\n3. ´Automated s\\stemµ means a computer program, computer system, electronic system or network or other electronic means, which are used to notify or responded automatically without an intervention of any natural person.\n4. ´Cardµ means a card/bank card, credit/debit card, smart card, card/payment card, although in an electronic form, which bears the value and has the function for making payment.\n5. ´Contaminant\" means electronic programs which are designed to:\n(a) Modify, destroy, record, transmit data or programs contained in an electronic system; or\n(b) Interfere by any means in the normal operation of an electronic system or electronic network;\n6. ´Cardholderµ means the person who has named on the card and receive benefit from such a card.\n7. ´Communicationµ means any statement, declaration, demand, notice, requ est, offer or acceptance that the parties are required to make or choose to make in connection with the formation or performance of a contract.\n8. ´Counterfeit cardµ means any cards/payment cards which is made by fictitious, altered and false representation, depiction, or cards/payment cards which is comprised of any component of the card that is illegal.\n9. ´Dataµ refers to a group of numbers, characters, symbols, message, images, sound, video, information or electronic program which are prepared in a form suitable for use in database or an electronic system.\n10. ´Electronicµ refers to technology having electrical, digital, magnetic, optical, biometric, electrochemical, wireless, electromagnetic, or other technologies of similar functions.\n11. ´Electronic Addressµ means any number or addressee which is used for sending or receiving notifications, documents, information or electronic communication.\n12. ´Authenticit\\µ refers to an accuracy and credibility of electronic communications.\n13. ´Electronic commerceµ refers to activities involving purchase, sale, rental, exchange of goods or services, including business activities and civil as well as activities and various transactions by the state through electronic system.\n14. ´Electronic Pa\\ment Instrumentµ means any cards/payment cards or any payment instruments which is in an electronic form and has function to make a cash payment.\nPage 21 of 24\n15. ´Electronic communicationµ means information which is communicated, processed, recorded, displayed, created, stored, received or transmitted by electronic means.\n16. ´Electronic deviceµ means any devices designed to manage, control, and operate through electronic system.\n17. ´Electronic evidenceµ means any information, data or documents which are created, stored, sent or received in electronic format or electronic communication for being used to prove facts in legal proceedings, and such information, data or documents shall be authentic in accordance with the e-Commerce Law.\n18. ´Electronic formµ refers to form of information, data or document which are cre ated, sent/transmitted, received or stored in electronic system.\n19. ´Electronic fund transferµ means any transaction which is conducted through an electronic fund transfer counter or via any movable electronic devices or via electronic devices of similar functions in order to instruct banking and financial institutions to debit or credit an account.\n20. ´Electronic recordµ refers to a record which is made, communicated, received, stored or processed in an electronic system or which is for transmission from one electronic system to another.\n21. ´Electronic commerce service providerµ means a person who uses electronic means to supply goods and/or services except for insurance establishments.\n22. ´Electronic signatureµ means any signatures which are created through electronic means for using to identify the signatory, including digital signature, biometric signature and other signatures.\n23. ´Electronic s\\stemµ refers to an electronic device or a group of devices interconnected or inter-related via an electronic program, which may perform automatic processing of data, information or documents, including electronic devices for the storage of such  data, information or documents.\n24. ´Information s\\stemµ refers to a system for generating, sending, receiving, storing or otherwise processing electronic records.\n25. ´Intermediar\\µ refers to a person who providing services, sending, receiving, transmitting  or storing services, either on a temporary or permanent basis, of the electronic communication or provides other services relating to the electronic communication, including the following persons:\n1. A person representing the sender, receiver, transmitter, or the custodian;\n2. Telecommunication service providers;\n3. Network service providers;\n4. Internet service providers;\n5. Search engines providers;\n6. Online payment service providers;\n7. Online auction service providers;\n8. Online marketplaces service providers and internet commerce service provider.\nPage 22 of 24\n26. ´Issuerµ refers to banking and financial institutions or any person who obtained approval to issues a payment card.\n27. ´Malicious codeµ refers to a program or a hidden function of a program that infects data, information or documents by or without leaving any trace/mark of the virus in the infected electronic file, and the virus is capable of spreading over the system with or without human intervention.\n28. ´Originatorµ refers to a party or a representative who initiates the operation to create, store or transmit data via electronic means, excluding the intermediary.\n29. ´Pa\\ment Service Providerµ refers to banking and financial institutions or any other person who is authorized by or obtained the license from the National Bank of Cambodia to operate the payment system, issue electronic payment instrument or electronic means of payment or to conduct any operations considered to be an electronic payment to the public.\n30.  ´Place of businessµ refers to:\n(a)  A place indicated by the sender or addressee, unless there is a party who claims otherwise that the sender or addressee does not have the place of business in the area where they claim to be.\n(b) If any party has not specifically indicated his place of business, and such party has more than one place of business, the place of business shall be then the one which has the closest relationship with the contract involved, taking into consideration the circumstances known to or examined by the party any time before or during the time of executing the contract.\n(c) For a natural person who has no place of business, the place of business shall be their permanent address.\nThe followings shall not be a place of business of a party:\n\u0010 A place where the technology materials or equipment of the information system  are used;\n\u0010 Electronic address or domain name which is attached to the location of a party.\n31. ´Recordµ refers to information, data or documents which is recorded, stored or otherwise inserted in a tangible form or stored in an electronic, paper-based or other forms and is retrievable in visible form.\n32. ´Service providerµ refers to:\n(a) A person who provides an information and commun ication services including sending, receiving, storing or processing the electronic communication or providing of services through other electronic systems;\n(b)  A person who owns, possesses, operates, manages or controls a public switched network or a person who provides telecommunication services; or\n(c)  Any other person who processes or stores data for the use of electronic telecommunication service-oriented or users of such service.\n33. \"Security procedure provider\" refers to a person who develops or provides the security procedures.\nPage 23 of 24\n34. ´Securit\\ procedureµ refers to a procedure which is established by law or a contract or a decision of any party, and is applied for the purpose of:\n(a) Verifying that the signature, communication or transaction in the electronic system is belong to particular person, or\n(b) Detecting error or alteration in the communication, or in the place where the electronic record is stored from any specific period of time.\nThe above security procedure may require the use of algorithms formula or codes, identifying words or numbers, coding, answerback (secret question) or acknowledgment of any procedures, or similar security devices.\n35. ´Writing/writtenµ refers to any information or other records which is written, inscribed or printed on paper or other materials.\n36. ´Email or Electronic Messageµ refers to message or information which is created or sent or received from electronic system, indulging attachments in texts, image, sound, video, and any electronic record which can be transmitted with the message.\n37. ´Successionµ or ´Willµ refers to the assignment of right and duties of the decedent to one or more successors at will or by law.\n38. ´Acceptanceµ refers to an expression of will in which a person has expressed his consent to an offer made by other persons in order to form a contract."
+   }
+  }
+ ]
+}

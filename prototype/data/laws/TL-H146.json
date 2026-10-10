@@ -1,0 +1,906 @@
+{
+ "id": "TL-H146",
+ "title": {
+  "zh": "选民登记法",
+  "en": null,
+  "orig": "Lei do Recenseamento Eleitoral"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p03",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "amended",
+ "promulgatedDate": "2016-05-25",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "据公报标题，本法经 Lei n.º 19/2021 修改；本库收录的是本法原始公布文本，修改后的合并本未另行收录。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 6/2016",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 54,
+ "chars": 26217,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2016/serie_1/SERIE_I_NO_20.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 54 条；逐字取自官方公报 PDF（public/docs/2016/serie_1/SERIE_I_NO_20.pdf）第 9466–9474 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 【据公报标题，本法经 《第19/2021号法律》 修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H146-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Regra geral"
+   },
+   "text": {
+    "pt": "O recenseamento eleitoral é obrigatório, oficioso, único e universal, sendo atualizado para cada eleição."
+   }
+  },
+  {
+   "id": "TL-H146-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Obrigatoriedade e oficiosidade"
+   },
+   "text": {
+    "pt": "1.   Os cidadãos timorenses, maiores de dezassete anos, têm o direito e o dever de promover a sua inscrição no recenseamento eleitoral, de verificar se estão devidamente inscritos e de solicitar a retificação dos dados que lhes digam respeito, em caso de erro ou omissão.\n2.   A atualização das informações dos eleitores no recenseamento eleitoral também pode ser feita oficiosamente pelo Secretariado Técnico da Administração Eleitoral, adiante designado por STAE, com base nas informações que lhe sejam fornecidas pelos serviços de identificação civil.\n3.    Os atos previstos no n.º 1 são obrigatórios para os cidadãos timorenses com residência habitual no território nacional e que sejam maiores de dezassete anos.\n4.   A inscrição no recenseamento eleitoral presume a capacidade eleitoral ativa dos cidadãos."
+   }
+  },
+  {
+   "id": "TL-H146-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Recenseamento eleitoral no estrangeiro"
+   },
+   "text": {
+    "pt": "1.   O recenseamento dos cidadãos timorenses residentes no estrangeiro depende de prévia inscrição consular.\n2.  Os cidadãos inscritos nos serviços consulares são obrigatória e oficiosamente recenseados e inscritos nas listas de eleitores."
+   }
+  },
+  {
+   "id": "TL-H146-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Permanência"
+   },
+   "text": {
+    "pt": "A inscrição no recenseamento eleitoral tem efeitos permanentes e só pode ser cancelada nos casos e nos termos previstos pela presente lei."
+   }
+  },
+  {
+   "id": "TL-H146-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Unicidade e universalidade"
+   },
+   "text": {
+    "pt": "1.   O recenseamento eleitoral é único para todas as eleições por sufrágio direto e universal e para os atos referendários.\n2.   O recenseamento eleitoral abrange todos os cidadãos com capacidade eleitoral ativa."
+   }
+  },
+  {
+   "id": "TL-H146-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Inscrição única"
+   },
+   "text": {
+    "pt": "Ninguém pode estar inscrito mais do que uma vez no recenseamento eleitoral."
+   }
+  },
+  {
+   "id": "TL-H146-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Unidades geográficas de recenseamento eleitoral"
+   },
+   "text": {
+    "pt": "São unidades geográficas de recenseamento eleitoral:\na)   No território nacional, o posto administrativo;\nb)  No estrangeiro, consoante os casos, o distrito consular ou o país de residência, se nele apenas houver embaixada."
+   }
+  },
+  {
+   "id": "TL-H146-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Local de inscrição no recenseamento eleitoral"
+   },
+   "text": {
+    "pt": "1.   Os eleitores são inscritos nos locais de funcionamento da entidade recenseadora com competência territorial correspondente à área de residência habitual daqueles.\n2. Quando, após os dezassete anos de idade, os cidadãos requeiram a emissão ou renovação de bilhete de identidade ou passaporte, e não exibam cartão de eleitor, os serviços responsáveis pela emissão daqueles documentos informam do facto o STAE, para que proceda à inscrição daqueles cidadãos, nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H146-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Orgânica do recenseamento eleitoral"
+   },
+   "heading": {
+    "pt": "Entidades recenseadoras"
+   },
+   "text": {
+    "pt": "1.   O recenseamento eleitoral é efetuado:\na) No território nacional, pelo STAE;\nb) No estrangeiro, por comissões de recenseamento eleitoral, compostas por dois funcionários consulares de carreira ou, quando estes não existam, por dois funcionários diplomáticos, com exceção do embaixador, sendo um delegado do Secretariado Técnico da Administração Eleitoral e outro delegado da Comissão Nacional de Eleições.\n2.   Só podem exercer funções no âmbito do processo de recenseamento eleitoral os cidadãos timorenses com capacidade eleitoral ativa e devidamente inscritos no recenseamento eleitoral."
+   }
+  },
+  {
+   "id": "TL-H146-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Orgânica do recenseamento eleitoral"
+   },
+   "heading": {
+    "pt": "Locais de recenseamento eleitoral"
+   },
+   "text": {
+    "pt": "1.  Os cidadãos timorenses procedem à sua inscrição ou à atualização dos respetivos dados de inscrição no recenseamento eleitoral:\na) Em território nacional, nos escritórios dos serviços desconcentrados do STAE ou nos postos de recenseamento eleitoral, com jurisdição sobre a sua área de residência habitual;\nb) No estrangeiro, nas sedes das embaixadas, dos postos consulares ou dos postos de recenseamento eleitoral, com jurisdição sobre a sua área de residência no estrangeiro.\n2.   As entidades recenseadoras abrem postos de recenseamento eleitoral, sempre que o número de eleitores ou a sua dispersão geográfica o justificar, identificando as respetivas áreas geográficas de jurisdição, duração e os locais onde aqueles funcionarão.\n3.    A criação de postos de recenseamento eleitoral e respetivas áreas de jurisdição, duração e local de funcionamento são anunciados no Jornal da República e nos órgãos de comunicação social, com, pelo menos, trinta dias de antecedência face à data prevista para o início do seu funcionamento."
+   }
+  },
+  {
+   "id": "TL-H146-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Base de dados do recenseamento eleitoral"
+   },
+   "heading": {
+    "pt": "Finalidade e atualização"
+   },
+   "text": {
+    "pt": "1.  A base de dados do recenseamento eleitoral, adiante designada por BDRE, tem por finalidade organizar e manter permanente e atual a informação relativa aos cidadãos eleitores inscritos no recenseamento eleitoral.\n2.  A BDRE é permanentemente atualizada com base na informação dos ficheiros dos eleitores das diversas unidades geográficas de recenseamento e nas comunicações de eliminação previstas neste diploma.\n3.   Cabe à BDRE a validação de toda a informação, nos termos previstos no número anterior, garantindo a concretização do princípio da inscrição única."
+   }
+  },
+  {
+   "id": "TL-H146-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Base de dados do recenseamento eleitoral"
+   },
+   "heading": {
+    "pt": "Gestão e fiscalização da BDRE"
+   },
+   "text": {
+    "pt": "1.   A organização, gestão e manutenção da base de dados do recenseamento eleitoral competem ao STAE.\n2.  A organização, gestão e manutenção dos ficheiros dos eleitores das diversas unidades geográficas de recenseamento competem:\na) Em território nacional, aos serviços desconcentrados do STAE;\nb) No estrangeiro, às comissões de recenseamento eleitoral.\n3.   A Comissão Nacional de Eleições, adiante designada por CNE, acompanha e fiscaliza as operações referidas nos números anteriores."
+   }
+  },
+  {
+   "id": "TL-H146-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Base de dados do recenseamento eleitoral"
+   },
+   "heading": {
+    "pt": "Conteúdo da BDRE e dos ficheiros de eleitores"
+   },
+   "text": {
+    "pt": "1.   A BDRE e os ficheiros de eleitores, em cada unidade geográfica de recenseamento, são constituídos pelos seguintes dados identificativos dos eleitores:\na) Número de inscrição no recenseamento eleitoral;\nb) Designação da unidade geográfica de recenseamento em que está inscrito;\nc) Nome completo;\nd) Nome do pai e da mãe;\ne) Data de nascimento; f) Naturalidade (município, posto administrativo, suco e aldeia);\ng) Residência habitual (município, posto administrativo, suco e aldeia);\nh) Assinatura e impressão digital do eleitor.\n2.   Da BDRE devem ainda constar, consoante os casos, os seguintes campos de informação:\na) Menção de que se trata de um eleitor inscrito provisoriamente, de acordo com o disposto no artigo 24.º;\nb) Informação relativa à capacidade eleitoral ativa e passiva do eleitor;\nc) Identificação do país e localidade de residência dos eleitores residentes no estrangeiro."
+   }
+  },
+  {
+   "id": "TL-H146-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Base de dados do recenseamento eleitoral"
+   },
+   "heading": {
+    "pt": "Integração de dados da BDRE"
+   },
+   "text": {
+    "pt": "Para a verificação da identificação, da eliminação de inscrições indevidas originadas por transferência, por óbitos e deteção de outras irregularidades na BDRE, procede-se mensalmente à integração da informação recebida dos serviços desconcentrados do STAE e das comissões de recenseamento eleitoral."
+   }
+  },
+  {
+   "id": "TL-H146-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Base de dados do recenseamento eleitoral"
+   },
+   "heading": {
+    "pt": "Cruzamento de dados"
+   },
+   "text": {
+    "pt": "Para a verificação da identificação, eliminação de inscrições indevidas originadas por transferência, por óbitos e deteção de outras situações irregulares na BDRE, podem realizar-se operações de cruzamento de dados com as bases de dados do Ministério da Justiça, do Ministério da Solidariedade Social e do Ministério dos Negócios Estrangeiros e da Cooperação."
+   }
+  },
+  {
+   "id": "TL-H146-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Base de dados do recenseamento eleitoral"
+   },
+   "heading": {
+    "pt": "Direito à informação e acesso aos dados"
+   },
+   "text": {
+    "pt": "1.   A qualquer pessoa, desde que devidamente identificada, é reconhecido o direito de conhecer o conteúdo do registo ou registos da base de dados que lhe respeitem, bem como o de exigir a correção das informações nele contidas e o preenchimento das total ou parcialmente omissas.\n2.   Para efeitos do disposto no número anterior, o Diretor-Geral do STAE autoriza o fornecimento de certidão ou relatório informático sobre o registo pessoal contido na base de dados do recenseamento.\n3.  Para a consulta dos registos dos eleitores, gravação de dados, eliminação de inscrições ou quaisquer retificações a efetuar na base de dados, é necessária a identificação dos funcionários do STAE, expressamente autorizados para o efeito, através de senha periodicamente alterada.\n4.  O STAE mantém lista com o histórico dos elementos autorizados a aceder à base de dados.\n5.   A CNE e os partidos políticos recebem do STAE a lista de eleitores devidamente atualizada."
+   }
+  },
+  {
+   "id": "TL-H146-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Base de dados do recenseamento eleitoral"
+   },
+   "heading": {
+    "pt": "Comunicação de dados"
+   },
+   "text": {
+    "pt": "O Diretor-Geral do STAE autoriza a comunicação de dados constantes da BDRE a forças e serviços de segurança ou aos serviços e organismos da Administração Pública, quando devidamente identificados e sempre que se revele indispensável para a prossecução das atribuições dos serviços requisitantes e desde que tal não seja incompatível com a finalidade que determinou a escolha."
+   }
+  },
+  {
+   "id": "TL-H146-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Base de dados do recenseamento eleitoral"
+   },
+   "heading": {
+    "pt": "Informação para fins estatísticos ou de investigação"
+   },
+   "text": {
+    "pt": "É permitida a divulgação de dados para fins estatísticos e de investigação de relevante interesse público, mediante a autorização do Diretor-Geral do STAE, desde que não possam ser identificadas ou identificáveis as pessoas a quem os dados respeitam."
+   }
+  },
+  {
+   "id": "TL-H146-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Base de dados do recenseamento eleitoral"
+   },
+   "heading": {
+    "pt": "Segurança"
+   },
+   "text": {
+    "pt": "1.  O STAE deve dotar a BDRE, os ficheiros de eleitores, os respetivos serviços desconcentrados e as comissões de recenseamento eleitoral com sistemas de segurança que impeçam a consulta, modificação, destruição ou aditamento dos dados por pessoas não autorizadas a fazê-lo e permitam detetar o acesso indevido à informação.\n2.   Tendo em vista garantir a segurança da informação contida na BDRE, os serviços responsáveis pela recolha, atualização e processamento de dados devem obedecer, entre outras, às seguintes regras:\na) A entrada nas instalações utilizadas para o tratamento de dados pessoais é objeto de controlo, a fim de impedir o acesso de qualquer pessoa não autorizada;\nb) Os suportes de dados são objeto de controlo, a fim de impedir que possam ser lidos, copiados, alterados ou retirados por qualquer pessoa não autorizada;\nc) A inserção de dados é objeto de controlo para impedir a introdução, consulta, alteração ou eliminação não autorizada de dados pessoais;\nd) Os sistemas de tratamento informatizado de dados são objeto de controlo para impedir que possam ser utilizados por pessoas não autorizadas, através de equipamentos de transmissão de dados;\ne) O acesso aos dados é objeto de controlo para que as pessoas autorizadas só possam ter acesso aos dados relevantes para o exercício das suas funções; f) A transmissão de dados é objeto de controlo para garantir que a sua utilização seja limitada às entidades autorizadas;\ng) A introdução de dados pessoais nos sistemas de tratamento informatizado é objeto de controlo que permita verificar o carácter completo da informação, data e autoria.\n3.    Incumbe à CNE dar parecer sobre o cumprimento do disposto nos números anteriores."
+   }
+  },
+  {
+   "id": "TL-H146-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Base de dados do recenseamento eleitoral"
+   },
+   "heading": {
+    "pt": "Responsabilidade pela proteção de dados"
+   },
+   "text": {
+    "pt": "1.   O Diretor-Geral do STAE é responsável pela segurança da BDRE e pela proteção dos dados pessoais que da mesma constem.\n2.  Os diretores municipais do STAE são responsáveis pela segurança dos ficheiros de eleitores e pela proteção dos dados deles constantes."
+   }
+  },
+  {
+   "id": "TL-H146-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Base de dados do recenseamento eleitoral"
+   },
+   "heading": {
+    "pt": "Sigilo profissional"
+   },
+   "text": {
+    "pt": "1.  Aquele que, no exercício das suas funções, tome conhecimento de dados pessoais, constantes da BDRE ou dos ficheiros de eleitores, fica obrigado ao sigilo profissional nos termos do Estatuto da Função Pública.\n2.  Os funcionários e agentes da administração pública que não deem cumprimento ao disposto no número anterior ficam sujeitos à responsabilidade disciplinar e criminal que ao caso caibam."
+   }
+  },
+  {
+   "id": "TL-H146-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Período de realização das operações"
+   },
+   "text": {
+    "pt": "As operações de inscrição, alteração e eliminação de inscrições, para efeitos de atualização do recenseamento, decorrem a todo o tempo, sem prejuízo do período de inalterabilidade previsto no presente diploma.\nSecção II\nInscrição"
+   }
+  },
+  {
+   "id": "TL-H146-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Promoção de inscrição"
+   },
+   "text": {
+    "pt": "1.   A inscrição no recenseamento eleitoral é promovida pelo eleitor mediante a apresentação do original ou cópia autenticada do bilhete de identidade da República Democrática de Timor-Leste, passaporte da República Democrática de Timor-Leste, certidão de nascimento da República Democrática de Timor-Leste, certidão de batismo ou cédula pessoal da comunidade islâmica.\n2.  Existindo dúvida quanto à autenticidade e correção dos documentos apresentados, conforme o previsto no número anterior, a entidade recenseadora poderá exigir a apresentação de outro documento que contribua para a identificação do eleitor ou solicitar informação à entidade emissora do documento apresentado.\n3.   Na promoção da inscrição no recenseamento eleitoral, os eleitores que não possuam os documentos previstos no n.º 1 ou que quanto aos mesmos haja fundada dúvida sobre a respetiva autenticidade ou correção, poderão fazer a sua identificação através da prestação de declarações presenciais por parte do chefe de suco, do chefe de aldeia ou da autoridade religiosa da área de residência habitual ou naturalidade do eleitor, que para o efeito devem fazer prova do exercício daquelas funções e da respetiva identidade e inscrição no recenseamento eleitoral, através da exibição do respetivo cartão de eleitor.\n4.  Nos casos previstos no número anterior, a autoridade identificadora do eleitor deve assinar o formulário de inscrição no recenseamento eleitoral e anotar o número do respetivo cartão de eleitor.\n5.  O disposto no n.º 3 e no n.º 4 não é aplicável ao recenseamento de eleitores residentes no estrangeiro."
+   }
+  },
+  {
+   "id": "TL-H146-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Inscrição provisória"
+   },
+   "text": {
+    "pt": "1.   Os cidadãos que completem dezasseis anos têm o direito de promover a sua inscrição no recenseamento eleitoral a título provisório, desde que não abrangidos por qualquer outro impedimento à sua capacidade eleitoral.\n2.  Os cidadãos referidos no número anterior consideram-se eleitores provisórios até ao dia em que perfaçam dezassete anos, momento em que passam automaticamente a eleitores efetivos.\n3.  Passam, também, à condição de eleitores efetivos os cidadãos que, estando inscritos no recenseamento eleitoral, completem dezassete anos até ao dia da eleição ou do referendo."
+   }
+  },
+  {
+   "id": "TL-H146-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Formulário de inscrição"
+   },
+   "text": {
+    "pt": "1.  O formulário de inscrição é constituído por um original, um duplicado e um triplicado.\n2.  O original do formulário de inscrição destina-se à constituição do ficheiro de eleitores, organizado por ordem do número de inscrição, organizado em cada unidade geográfica de recenseamento.\n3.   O duplicado do formulário de inscrição destina-se à organização e atualização da BDRE, mediante o seu envio imediato ao STAE.\n4.  O triplicado do formulário de inscrição destina-se a ser enviado para o arquivo municipal.\n5.  Compete aos serviços desconcentrados do STAE e às comissões de recenseamento eleitoral enviar ao STAE os duplicados dos formulários de inscrição no recenseamento eleitoral."
+   }
+  },
+  {
+   "id": "TL-H146-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Teor da inscrição"
+   },
+   "text": {
+    "pt": "1.   A inscrição é feita mediante o preenchimento integral dos campos de informaçãodo formulário de inscrição, que são os seguintes:\na) Número de inscrição, correspondente ao número do documento de identificação utilizado para efeitos de inscrição;\nb) Designação da entidade recenseadora que procede à inscrição;\nc) Nome completo;\nd) Sexo;\ne) Nome do pai; f) Nome da mãe;\ng) Data de nascimento;\nh) Naturalidade (município, posto administrativo, suco, aldeia); (i) Residência habitual (país, município, posto administrativo, suco, aldeia); j) Data de inscrição no recenseamento eleitoral;\nk) Assinatura ou impressão digital.\n2.  Nos casos em que o eleitor não possa apor a respetiva assinatura e impressão digital, por limitação física notória, a inscrição é feita mediante anotação pelo funcionário responsável pelo recenseamento, no verso do formulário de inscrição, cancelando os locais destinados à assinatura e impressão digital do eleitor."
+   }
+  },
+  {
+   "id": "TL-H146-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Aceitação do formulário"
+   },
+   "text": {
+    "pt": "A aceitação do formulário não implica decisão sobre a inscrição."
+   }
+  },
+  {
+   "id": "TL-H146-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Inscrição promovida pelo STAE"
+   },
+   "text": {
+    "pt": "1.  No caso de a inscrição ser promovida pelos serviços do STAE, de acordo com o previsto no n.º 2 do artigo 8.º, o formulário é oficiosamente preenchido por aquele serviço e apresentado ao eleitor para assinatura.\n2.  No caso de o eleitor se recusar a assinar o formulário, o STAE participa o facto ao tribunal distrital, com competência territorial sobre a área de residência habitual daquele, para que ordene a respetiva inscrição."
+   }
+  },
+  {
+   "id": "TL-H146-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Cartão de eleitor"
+   },
+   "text": {
+    "pt": "1.  No ato de apresentação do formulário de inscrição no recenseamento eleitoral, é entregue ao recenseado o cartão de eleitor, devidamente autenticado pela entidade recenseadora, comprovativo da sua inscrição no recenseamento eleitoral.\n2.  Não sendo a inscrição aceite, o STAE comunica a sua decisão ao cidadão, que fica obrigado a devolver o cartão de eleitor.\n3.   O cartão de eleitor contém os seguintes elementos:\na) Nome completo do eleitor;\nb) Número do cartão;\nc) Identificação da unidade geográfica de recenseamento do eleitor;\nd) Número de inscrição do eleitor no recenseamento;\ne) Impressão digital do eleitor; f) Fotografia do eleitor;\ng) Data de nascimento do eleitor;\nh) Naturalidade do eleitor (município, posto administrativo e suco); (i) Data da respetiva emissão; j) Assinatura do Diretor-Geral do STAE;\nk) Assinatura do eleitor.\n4.   O cartão de eleitor inclui o emblema nacional e o logótipo do STAE e dispõe dos seguintes mecanismos de segurança e comprovação de autenticidade:\na) Holograma com o emblema nacional;\nb) Código de barras com código gerado pelo sistema eletrónico de emissão do cartão de eleitor.\n5.   Em caso de extravio do cartão de eleitor, o respetivo titular comunica imediatamente o facto, por escrito, ao STAE, juntando comprovativo de participação de furto ou extravio à polícia, que emite a segunda via do mesmo até ao décimo quinto dia anterior à realização do ato eleitoral.\nSecção III\nAlteração, transferência e eliminação da inscrição"
+   }
+  },
+  {
+   "id": "TL-H146-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Alteração de identificação"
+   },
+   "text": {
+    "pt": "1.  Qualquer modificação dos elementos constantes do formulário de inscrição é efetuada mediante o preenchimento do formulário de atualização de dados.\n2.   No caso previsto no número anterior, o número de inscrição do eleitor não é alterado."
+   }
+  },
+  {
+   "id": "TL-H146-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Mudança de residência"
+   },
+   "text": {
+    "pt": "1.   A mudança de residência para outra unidade geográfica de recenseamento implica a transferência da inscrição para a unidade geográfica de recenseamento correspondente à sua nova residência, mantendo-se o número de inscrição.\n2.  A mudança de residência dentro da mesma unidade geográfica de recenseamento eleitoral implica o dever de comunicar a nova residência à entidade recenseadora, mediante o preenchimento do formulário de atualização de dados.\n3.   O eleitor junta à comunicação prevista no número anterior declaração emitida por serviço público ou pelo chefe de suco que ateste o endereço do seu novo domicílio."
+   }
+  },
+  {
+   "id": "TL-H146-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Transferência de inscrição"
+   },
+   "text": {
+    "pt": "1.  Em caso de mudança de residência para outra unidade geográfica de recenseamento, o eleitor promove a transferência da inscrição junto da entidade recenseadora com jurisdição sobre a sua nova área de residência, mediante o preenchimento do formulário de atualização de dados e a entrega do cartão de eleitor, altura em que lhe é emitido um novo cartão de eleitor.\n2.  As eliminações determinadas pelo STAE, por motivos de transferência, são obrigatoriamente efetuadas nos respetivos ficheiros de eleitores, logo que recebidas."
+   }
+  },
+  {
+   "id": "TL-H146-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Alteração de dados"
+   },
+   "text": {
+    "pt": "1.   Qualquer modificação dos elementos da ficha de inscrição, designadamente erro de nome, ortografia e data, é efetuada mediante o preenchimento do formulário de atualização de dados, dando origem à emissão de novo cartão.\n2.   Até ao trigésimo dia anterior ao da realização do ato eleitoral não pode ter lugar a modificação dos dados relativos à inscrição dos eleitores."
+   }
+  },
+  {
+   "id": "TL-H146-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Eliminação oficiosa da inscrição"
+   },
+   "text": {
+    "pt": "São oficiosamente eliminadas pelo STAE:\na)   As inscrições daqueles que deixem de gozar de capacidade eleitoral ativa, nos termos da lei;\nb)   As inscrições dos cidadãos que hajam perdido a nacionalidade timorense, nos termos da lei;\nc)   As inscrições dos eleitores que entretanto hajam falecido;\nd)   As inscrições canceladas nos termos do artigo 36.º."
+   }
+  },
+  {
+   "id": "TL-H146-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Informações relativas à capacidade eleitoral ativa"
+   },
+   "text": {
+    "pt": "1.  Os tribunais notificam o STAE das decisões de interdição, perda de nacionalidade e de proibição do exercício de cargos públicos que profiram, no prazo de trinta dias, contados da data do respetivo trânsito em julgado.\n2.   Os chefes de suco enviam ao STAE, até ao oitavo dia de cada mês, a relação de óbitos ocorridos no respetivo suco no mês anterior."
+   }
+  },
+  {
+   "id": "TL-H146-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Inscrições múltiplas"
+   },
+   "text": {
+    "pt": "1.  Quando seja detetado um caso de inscrição múltipla, prevalece a inscrição mais recente, eliminando-se as restantes.\n2.   Se as inscrições têm a mesma data, notifica-se o interessado para que opte por uma delas, no prazo de quinze dias.\n3.  Se não houver resposta, o STAE, em ato fundamentado, decide e comunica ao interessado e aos serviços que houverem efetuado as inscrições qual a inscrição que prevaleceu.\n4.  Não sendo possível apurar a inscrição mais recente, prevalece a última comunicação à BDRE.\n5.   A eliminação de inscrição determinada pelo STAE por motivo de inscrição múltipla, é comunicada ao serviço desconcentrado do STAE ou à comissão de recenseamento eleitoral que procedeu à respetiva inscrição, a qual deve promover a sua imediata eliminação do ficheiro de eleitores e a recolha do cartão de eleitor.\nSecção IV\nLista de eleitores"
+   }
+  },
+  {
+   "id": "TL-H146-A37",
+   "no": 37,
+   "noLabel": {
+    "pt": "Artigo 37.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Elaboração"
+   },
+   "text": {
+    "pt": "A inscrição dos eleitores consta de lista de eleitores elaborada pelo STAE."
+   }
+  },
+  {
+   "id": "TL-H146-A38",
+   "no": 38,
+   "noLabel": {
+    "pt": "Artigo 38.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Organização"
+   },
+   "text": {
+    "pt": "1.   As listas de eleitores são organizadas por ordem alfabética.\n2.  As listas de eleitores são numeradas e têm um termo de abertura e encerramento anuais e são subscritas e autenticadas pelo STAE.\n3.   A numeração das folhas das listas de eleitores é sequencial e contínua de lista para lista e única por unidade geográfica de recenseamento."
+   }
+  },
+  {
+   "id": "TL-H146-A39",
+   "no": 39,
+   "noLabel": {
+    "pt": "Artigo 39.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Atualização"
+   },
+   "text": {
+    "pt": "1.   A atualização das listas de eleitores faz-se, consoante os casos:\na) Por inserção da modificação do nome dos eleitores;\nb) Por supressão das inscrições que tenham sido eliminadas;\nc) Por inserção da modificação do endereço postal dos eleitores;\nd) Por aditamento de novas inscrições.\n2.   O Diretor-Geral do STAE remete aos serviços desconcentrados do STAE a listagem das modificações referidas no número anterior e dos respetivos motivos."
+   }
+  },
+  {
+   "id": "TL-H146-A40",
+   "no": 40,
+   "noLabel": {
+    "pt": "Artigo 40.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Extração de cópias e exposição para consulta"
+   },
+   "text": {
+    "pt": "1.  O Diretor-Geral do STAE procede à extração e remessa das listas de eleitores aos serviços desconcentrados do STAE e às comissões de recenseamento eleitoral, para efeitos de consulta e reclamação por parte dos interessados.\n2.  Esgotados os prazos de reclamação e recurso, os serviços desconcentrados do STAE e as comissões de recenseamento eleitoral procedem de imediato às retificações daí resultantes e comunicam-nas ao STAE para inserção na BDRE, no prazo de oito dias.\n3.   No prazo de trinta dias, o Diretor-Geral do STAE remete aos respetivos serviços desconcentrados e às comissões de recenseamento eleitoral as cópias fiéis das listas de eleitores corrigidas."
+   }
+  },
+  {
+   "id": "TL-H146-A41",
+   "no": 41,
+   "noLabel": {
+    "pt": "Artigo 41.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Cópias fiéis das listas de eleitores em período eleitoral"
+   },
+   "text": {
+    "pt": "O Diretor-Geral do STAE ordena a extração e remessa de cópias fiéis das listas de eleitores para os centros de votação, em território nacional e no estrangeiro."
+   }
+  },
+  {
+   "id": "TL-H146-A42",
+   "no": 42,
+   "noLabel": {
+    "pt": "Artigo 42.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Período de inalterabilidade"
+   },
+   "text": {
+    "pt": "As listas de eleitores não podem ser alteradas nos trinta dias anteriores a qualquer ato eleitoral ou referendário e até à proclamação dos resultados.\nSecção V\nReclamações e recursos"
+   }
+  },
+  {
+   "id": "TL-H146-A43",
+   "no": 43,
+   "noLabel": {
+    "pt": "Artigo 43.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Reclamação"
+   },
+   "text": {
+    "pt": "1.  O cidadão tem o direito de apresentar reclamação contra recusa de inscrição ou atualização de dados pelo funcionário responsável pelo recenseamento.\n2.   Durante o período de exposição, pode qualquer eleitor ou partido político reclamar, por escrito, perante o STAE, das omissões ou inscrições indevidas nas listas de eleitores.\n3.   No caso de reclamação de inscrição indevida, o STAE dá dela imediato conhecimento ao eleitor para responder, querendo, no prazo de dois dias.\n4.  O STAE decide as reclamações nos dois dias seguintes à sua apresentação e afixa, imediatamente, as suas decisões na sede nacional do STAE e na sede do serviço desconcentrado do STAE ou da comissão de recenseamento eleitoral, conforme o caso, que efetuou a inscrição."
+   }
+  },
+  {
+   "id": "TL-H146-A44",
+   "no": 44,
+   "noLabel": {
+    "pt": "Artigo 44.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Recurso"
+   },
+   "text": {
+    "pt": "1.   Das decisões do STAE sobre as reclamações que lhe sejam apresentadas cabe recurso para a CNE, a interpor no prazo de vinte e quatro horas, contadas da notificação daquelas.\n2.  O STAE envia à CNE, no prazo de vinte e quatro horas, contadas da entrada do requerimento de interposição de recurso, cópia certificada do processo em que a decisão recorrida foi proferida.\n3.  A CNE decide os recursos para si interpostos no prazo máximo de quarenta e oito horas, contadas da receção dos documentos previstos no número anterior, notificando a sua decisão ao recorrente e ao STAE.\n4.  Das decisões proferidas pela CNE, cabe recurso para o Supremo Tribunal de Justiça, a interpor no prazo de vinte e quatro horas, contadas da notificação daquelas.\n5.  A CNE remete ao Supremo Tribunal de Justiça, no prazo máximo de vinte e quatro horas, o recurso interposto, acompanhado de cópia certificada dos documentos que instruam o processo em que foi proferida a decisão recorrida.\n6.  O Supremo Tribunal de Justiça decide o recurso para si interposto no prazo de quarenta e oito horas, contadas da receção dos documentos referidos no número anterior, notificando a sua decisão de imediato ao STAE."
+   }
+  },
+  {
+   "id": "TL-H146-A45",
+   "no": 45,
+   "noLabel": {
+    "pt": "Artigo 45.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Legitimidade"
+   },
+   "text": {
+    "pt": "1.   Têm legitimidade para recorrer das decisões do STAE para a CNE, os eleitores reclamantes, bem como os partidos políticos.\n2.   Têm legitimidade para recorrer das decisões da CNE para o Supremo Tribunal de Justiça, os eleitores reclamantes, os partidos políticos e o STAE.\nSecção VI\nOperações complementares"
+   }
+  },
+  {
+   "id": "TL-H146-A46",
+   "no": 46,
+   "noLabel": {
+    "pt": "Artigo 46.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Conservação"
+   },
+   "text": {
+    "pt": "Compete ao STAE a guarda e conservação dos documentos atinentes às operações de recenseamento eleitoral."
+   }
+  },
+  {
+   "id": "TL-H146-A47",
+   "no": 47,
+   "noLabel": {
+    "pt": "Artigo 47.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Operações de recenseamento eleitoral Secção I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Número de eleitores inscritos no recenseamento eleitoral"
+   },
+   "text": {
+    "pt": "O STAE publica no Jornal da República o número de eleitores inscritos no recenseamento eleitoral por cada unidade geográfica de recenseamento."
+   }
+  },
+  {
+   "id": "TL-H146-A48",
+   "no": 48,
+   "noLabel": {
+    "pt": "Artigo 48.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Fiscalização e observação do recenseamento eleitoral"
+   },
+   "heading": {
+    "pt": "Fiscalização do recenseamento eleitoral"
+   },
+   "text": {
+    "pt": "1.  Os partidos políticos têm o direito de fiscalizar todo o processo de recenseamento eleitoral.\n2.    A fiscalização prevista no número anterior é feita através de fiscais indicados pelos partidos políticos, identificados mediante credenciais emitidas pelo STAE.\n3.  Das decisões do STAE que indefiram a emissão de credenciais aos fiscais dos partidos políticos cabe recurso para a CNE, a interpor no prazo de vinte e quatro horas, contadas da notificação da decisão de indeferimento."
+   }
+  },
+  {
+   "id": "TL-H146-A49",
+   "no": 49,
+   "noLabel": {
+    "pt": "Artigo 49.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Fiscalização e observação do recenseamento eleitoral"
+   },
+   "heading": {
+    "pt": "Observação do recenseamento eleitoral"
+   },
+   "text": {
+    "pt": "1.   O STAE deve conceder credenciais de observadores nacionais e internacionais a interessados que requeiram esse estatuto para efeitos de acompanhamento do recenseamento eleitoral.\n2.   Das decisões do STAE que indefiram o requerimento de concessão de credenciais de observador do recenseamento eleitoral cabe recurso para a CNE, a interpor no prazo de vinte e quatro horas, contadas da notificação da decisão de indeferimento."
+   }
+  },
+  {
+   "id": "TL-H146-A50",
+   "no": 50,
+   "noLabel": {
+    "pt": "Artigo 50.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Finanças do recenseamento"
+   },
+   "heading": {
+    "pt": "Despesas do recenseamento"
+   },
+   "text": {
+    "pt": "1.  Constituem despesas do recenseamento eleitoral os encargos resultantes da sua preparação e execução.\n2.  O pagamento das despesas de recenseamento eleitoral é satisfeito pelo orçamento geral do Estado:\na) Em território nacional, através das verbas para o efeito alocadas ao orçamento da despesa do STAE;\nb) No estrangeiro, através das verbas para o efeito alocadas ao orçamento da despesa das embaixadas e consulados."
+   }
+  },
+  {
+   "id": "TL-H146-A51",
+   "no": 51,
+   "noLabel": {
+    "pt": "Artigo 51.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Finanças do recenseamento"
+   },
+   "heading": {
+    "pt": "Isenções"
+   },
+   "text": {
+    "pt": "1.  O fornecimento de todos os documentos e formulários relacionados com o recenseamento eleitoral é isento do pagamento de quaisquer taxas.\n2.  A interposição de recurso para o Supremo Tribunal de Justiça, das decisões proferidas pela CNE, em matéria de recenseamento eleitoral, está isenta do pagamento de quaisquer taxas ou custas judiciais."
+   }
+  },
+  {
+   "id": "TL-H146-A52",
+   "no": 52,
+   "noLabel": {
+    "pt": "Artigo 52.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII Disposições finais"
+   },
+   "heading": {
+    "pt": "Colaboração com as operações de recenseamento eleitoral"
+   },
+   "text": {
+    "pt": "Os organismos e serviços da administração pública e as chefias dos sucos e aldeias colaboram com as entidades recenseadoras nas operações de recenseamento eleitoral."
+   }
+  },
+  {
+   "id": "TL-H146-A53",
+   "no": 53,
+   "noLabel": {
+    "pt": "Artigo 53.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII Disposições finais"
+   },
+   "heading": {
+    "pt": "Modelos de formulários"
+   },
+   "text": {
+    "pt": "O modelo dos formulários previstos no presente diploma, bem como a respetiva regulamentação são aprovados por diploma do Governo."
+   }
+  },
+  {
+   "id": "TL-H146-A54",
+   "no": 54,
+   "noLabel": {
+    "pt": "Artigo 54.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII Disposições finais"
+   },
+   "heading": {
+    "pt": "Norma revogatória"
+   },
+   "text": {
+    "pt": "É revogado o Regulamento n.º 45/STAE/II/08, de 20 de fevereiro."
+   }
+  }
+ ]
+}

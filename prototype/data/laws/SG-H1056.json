@@ -1,0 +1,68 @@
+{
+ "id": "SG-H1056",
+ "title": {
+  "zh": null,
+  "en": "Customs (Home-Brewing of Fermented Liquors) (Exemption) Order",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p13",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CA1960-OR9",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 877,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CA1960-OR9?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 2 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1056-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Order may be cited as the Customs (Home-Brewing of Fermented Liquors) (Exemption) Order."
+   }
+  },
+  {
+   "id": "SG-H1056-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "2. Sections 63(1) and 64(1) of the Act shall not apply to any person, being an individual, in respect of the manufacture of liquor by that person at his home, subject to the following conditions:\n(a)the person shall be 18 years old and above;\n(b)the manufacture of liquor shall be by fermentation and not by distillation;\n(c)the amount of liquor manufactured shall not exceed —\n(i)in relation to beer, 30 litres per household of the person per month; and\n(ii)in relation to any other fermented liquor, 30 litres in total for all such liquors per household of the person per month;\n(d)the liquor manufactured shall be for personal use and not for sale; and\n(e)the manufacturing activities shall not create any nuisance to the public or degrade the environment.\n[G.N. No. S 194/2008]"
+   }
+  }
+ ]
+}

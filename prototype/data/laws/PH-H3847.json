@@ -1,0 +1,64 @@
+{
+ "id": "PH-H3847",
+ "title": {
+  "zh": null,
+  "en": "Agricultural Land Reform Code",
+  "orig": "An Act Amending Section One Hundred Sixty-Three of Republic Act Numbered Thirty-Eight Hundred Forty-Four, Otherwise Known as the \"Agricultural Land Reform Code\""
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p54",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1967-06-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4886",
+ "officialCode": null,
+ "topics": [
+  "environment"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1119,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1967/ra_4886_1967.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1967/ra_4886_1967.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3847-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section One hundred and sixty-three of Republic Act Numbered Thirty-eight hundred and forty-four, otherwise known as the \"Agricultural Land Reform Code\" is amended to read as follows:\n\"Sec. 163. Functions of the Office of the Agrarian Counsel. It shall be responsibility of the Office of Agrarian Counsel, upon proper notification by the party concerned or by the association or organization to which he belongs, to represent tenants, agricultural lessees, agricultural farm workers and agricultural owner-cultivators or the members of their immediate farm household referred to in this Code who cannot engage the services of competent private counsel in cases before the court of Agrarian Relations. This responsibility shall include representation before courts, including appellate, in cases, civil or criminal, instituted by or against said tenant, agricultural lessees, farm workers or owner-cultivators or the members of their immediate farm household, where the cases arise from or connected with, or results or effects of an agrarian dispute."
+   }
+  },
+  {
+   "id": "PH-H3847-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967"
+   }
+  }
+ ]
+}

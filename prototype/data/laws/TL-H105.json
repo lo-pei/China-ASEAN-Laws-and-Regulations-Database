@@ -1,0 +1,1322 @@
+{
+ "id": "TL-H105",
+ "title": {
+  "zh": "东帝汶中央银行组织法",
+  "en": null,
+  "orig": "Lei Orgânica do Banco Central de Timor-Leste"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p03",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2011-06-15",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 5/2011",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 80,
+ "chars": 64046,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2011/serie_1/serie1_no22.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 80 条；逐字取自官方公报 PDF（public/docs/2011/serie_1/serie1_no22.pdf）第 4858–4875 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H105-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Definições"
+   },
+   "text": {
+    "pt": "Para efeitos do previsto na presente lei, entende-se por:\na)  “Auditor Interno Chefe”, quem preste assessoria ao Conselho de Administração e acompanhe o trabalho dos auditores externos do Banco;\nb)  “Autoridade Bancária e de Pagamentos”, a Autoridade estabelecida pelo Regulamento n.º 2001/30 da Administração Transitória das Nações Unidas em Timor-Leste;\nc)  “Banco”, o Banco Central da República Democrática de Timor-Leste;\nd)   “Circulares” e ou “Instruções”, os instrumentos regulamentares vinculativos, aplicáveis a mais do que uma instituição, emitidos pelo Banco na prossecução das suas atribuições;\ne)   “Comité de Auditoria”, o comité nomeado pelo Conselho de Administração para supervisão da auditoria interna e para fazer recomendações no âmbito da auditoria externa;\nf)   “Conselho de Administração”, o corpo directivo do Banco;\ng)   “Curso legal”, o efeito pelo qual o credor de uma obrigação de pagamento não pode recusar notas e moedas como meio de cumprimento ;\nh)    “Governador”, o chefe executivo do Banco;\n(i)   “Instituições financeiras”, as entidades tais como bancos, companhias de seguros e outras, que conduzam actividades financeiras e que se encontrem, por lei, sob a autoridade de supervisão do Banco;\nj)   “Ministro ou Ministério”, o Ministro das Finanças ou o Ministério das Finanças;\nk)   “Moeda”, a unidade monetária de um país;\nl)  “Ordens”, os instrumentos regulamentares vinculativos emitidos pelo Banco na prossecução das suas atribuições;\nm)  “Padrões Internacionais de Contabilidade”, os mais recentes padrões internacionais de contabilidade definidos pelo Conselho de Padrões Internacionais de Contabilidade;\nn)  “Regras Internas” e “Decisões do Conselho de Administração”, instrumentos regulamentares destinados a implementar as decisões do Banco relativamente à política monetária, aos objectivos monetários intermédios, taxas de juro principais, à oferta de reservas em Timor Leste e decisões relativas aos procedimentos internos;\no)  “Regulamentos”, os actos regulamentares necessários à prossecução das atribuições e ao desempenho das funções do Banco;\np) “Vice-Governadores”, a quem compete coadjuvar o Governador."
+   }
+  },
+  {
+   "id": "TL-H105-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II NATUREZA, SEDE E ATRIBUIÇÕES"
+   },
+   "heading": {
+    "pt": "Natureza"
+   },
+   "text": {
+    "pt": "O Banco Central de Timor-Leste - BCTL, adiante abreviadamente designado por Banco, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira e de património próprio."
+   }
+  },
+  {
+   "id": "TL-H105-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II NATUREZA, SEDE E ATRIBUIÇÕES"
+   },
+   "heading": {
+    "pt": "Autonomia"
+   },
+   "text": {
+    "pt": "1.   O Banco goza de independência e é autónomo na prossecução das suas atribuições e no desempenho das suas funções, nos termos da presente lei.\n2.  Os órgãos, funcionários e agentes do Banco gozam de independência, não podendo solicitar ou receber instruções de qualquer outra entidade, incluindo do Governo ou das entidades sob tutela governamental, excepto nos casos expressamente previstos na lei.\n3.   Nenhuma pessoa ou entidade pode influenciar qualquer órgão ou funcionário do Banco na prossecução das suas atribuições e no desempenho das suas funções ou de qualquer modo interferir nas suas actividades."
+   }
+  },
+  {
+   "id": "TL-H105-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II NATUREZA, SEDE E ATRIBUIÇÕES"
+   },
+   "heading": {
+    "pt": "Objectivos"
+   },
+   "text": {
+    "pt": "1.   O Banco tem por objectivo principal alcançar e manter a estabilidade interna dos preços.\n2.   Subsidiariamente, o Banco fomenta e mantém um sistema financeiro estável e competitivo com base nos princípios de livre mercado.\n3.   Sem prejuízo do disposto nos números anteriores, o Banco apoia as políticas económicas gerais do Governo."
+   }
+  },
+  {
+   "id": "TL-H105-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II NATUREZA, SEDE E ATRIBUIÇÕES"
+   },
+   "heading": {
+    "pt": "Funções"
+   },
+   "text": {
+    "pt": "As funções do Banco são as seguintes:\na)   Definir e executar a politica monetária;\nb)   Definir e adoptar o regime cambial;\nc)   Conduzir operações de câmbios externos;\nd)   Deter e gerir as reservas oficiais em moeda estrangeira;\ne)   Deter e gerir as reservas em ouro do Estado;\nf)   Emitir e gerir a unidade monetária de Timor-Leste;\ng)   Recolher e elaborar estatísticas, nos termos dos regulamentos aplicáveis;\nh)  Informar o Parlamento Nacional, o Governo e o público sobre as suas políticas, funções e operações, nos termos da presente lei;\n(i)   Estabelecer, promover e zelar por um sistema sólido e eficiente de pagamentos e de liquidação de títulos;\nj)   Regular, licenciar, registar e supervisionar instituições financeiras, nos termos da lei;\nk)   Aconselhar o Governo, no âmbito das suas atribuições;\nl)   Actuar como agente fiscal do Estado;\nm)   Participar em reuniões nacionais e fora internacionais, bem como em organismos ou organizações internacionais, no âmbito das suas atribuições;\nn)   Celebrar contratos e estabelecer convénios e protocolos com entidades nacionais ou estrangeiras, públicas ou privadas;\no)   Quaisquer outras que lhe sejam atribuídas por lei."
+   }
+  },
+  {
+   "id": "TL-H105-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II NATUREZA, SEDE E ATRIBUIÇÕES"
+   },
+   "heading": {
+    "pt": "Sede"
+   },
+   "text": {
+    "pt": "1.   O Banco tem a sua sede em Díli.\n2.  O Banco pode ter filiais, sucursais, delegações ou agências noutras localidades, bem como delegações no estrangeiro."
+   }
+  },
+  {
+   "id": "TL-H105-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAPITAL, CONTAS  DE  RESERVA, LUCROS, PREJUÍZOS  E  COBERTURA DE INSUFICIÊNCIA DE CAPITAL"
+   },
+   "heading": {
+    "pt": "Capital"
+   },
+   "text": {
+    "pt": "1.   O capital do Banco é de vinte milhões de dólares norteamericanos (US$20,000,000), integralmente subscrito e realizado.\n2.   O capital é detido exclusivamente pelo Estado e não pode ser transferido ou sujeito a embargos de qualquer espécie.\n3.   O capital do Banco pode ser aumentado, sob proposta do Conselho de Administração, aprovada pelo Governo.\n4.   O capital do Banco não pode, em nenhuma circunstância, ser reduzido."
+   }
+  },
+  {
+   "id": "TL-H105-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAPITAL, CONTAS  DE  RESERVA, LUCROS, PREJUÍZOS  E  COBERTURA DE INSUFICIÊNCIA DE CAPITAL"
+   },
+   "heading": {
+    "pt": "Contas de reserva"
+   },
+   "text": {
+    "pt": "1.   O Banco estabelece e mantém uma conta de reserva geral.\n2.   A conta de reserva geral não pode ser utilizada, excepto com o objectivo de cobrir as perdas do Banco.\n3.   O Banco estabelece contas de reserva para efeitos de reavaliação, relativas a moeda estrangeira, ouro, instrumentos financeiros e outros activos.\n4.   O Banco pode, após consulta com o Governo, estabelecer contas de reserva especiais para despesas previsíveis específicas."
+   }
+  },
+  {
+   "id": "TL-H105-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAPITAL, CONTAS  DE  RESERVA, LUCROS, PREJUÍZOS  E  COBERTURA DE INSUFICIÊNCIA DE CAPITAL"
+   },
+   "heading": {
+    "pt": "Cálculo e tratamento de ganhos e perdas líquidas"
+   },
+   "text": {
+    "pt": "1.   Os ganhos ou perdas líquidas do Banco são determinados em conformidade com os padrões internacionais de contabilidade.\n2.   A determinação dos ganhos a distribuir nos termos do previsto no artigo 10.º é feita da seguinte forma:\na)   Deduzindo dos ganhos líquidos a quantia total dos ganhos por realizar, e afectando uma quantia equivalente às contas de reserva para efeitos de reavaliação por realizar; e\nb)   Deduzindo das contas de reserva para efeitos de reavaliação por realizar e adicionando aos lucros a serem distribuídos, como determinado na alínea anterior, a quantia dos lucros por realizar que foi deduzida dos lucros líquidos de um ou mais anos anteriores e foi realizada durante o ano financeiro corrente.\n3.   As perdas de reavaliação por realizar são transferidas para as contas de reserva de reavaliação por realizar, até ao momento em que essas contas de reserva de reavaliação tenham saldo nulo, após o que essas perdas serão cobertas pela conta de reserva geral e subsequentemente pelo capital."
+   }
+  },
+  {
+   "id": "TL-H105-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAPITAL, CONTAS  DE  RESERVA, LUCROS, PREJUÍZOS  E  COBERTURA DE INSUFICIÊNCIA DE CAPITAL"
+   },
+   "heading": {
+    "pt": "Afectação de ganhos ou perdas"
+   },
+   "text": {
+    "pt": "1.  O Conselho de Administração procede à afectação dos ganhos, no prazo de quatro meses após o termo do ano financeiro, da seguinte forma:\na)   Uma quantia equivalente a 50 por cento dos ganhos é creditada na conta de reserva geral, até que o capital e a reserva geral representem 10 por cento do total de activos financeiros do Banco;\nb)   Uma parte dos ganhos restantes pode, sob proposta do Conselho de Administração, aprovada pelo Governo, ser creditada nas contas de reserva especiais estabelecidas nos termos do n.º 4 do artigo 8.º, até que as contas de reserva atinjam um montante que o Conselho de Administração considere adequado;\nc)   Depois de deduzidas as quantias referidas nas alíneas\na) e b), os lucros restantes são utilizados para amortizar os títulos emitidos pelo Banco, sendo o remanescente transferido para o Tesouro e inscrito como receita no Orçamento Geral do Estado.\n2.   Não pode ser feita qualquer distribuição a partir de rendimentos correntes ou retidos do Banco, excepto se permitido nos termos do número anterior.\n3.   Caso o Banco registe uma perda líquida num dado ano financeiro, a perda é debitada em primeiro lugar às contas de reserva geral e subsequentemente ao capital."
+   }
+  },
+  {
+   "id": "TL-H105-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III CAPITAL, CONTAS  DE  RESERVA, LUCROS, PREJUÍZOS  E  COBERTURA DE INSUFICIÊNCIA DE CAPITAL"
+   },
+   "heading": {
+    "pt": "Cobertura de insuficiência do capital"
+   },
+   "text": {
+    "pt": "Caso o valor dos activos do Banco, no balanço pro forma mensal, afectados os ganhos e perdas nos termos do artigo anterior, desça abaixo da soma das suas responsabilidades e do capital não comprometido:\na)   O Conselho de Administração, aconselhado pelo auditor externo do Banco, avalia a situação e elabora um relatório sobre as causas e extensão da insuficiência;\nb)  Depois de aprovado pelo Conselho de Administração o relatório referido na alínea anterior, o Banco solicita ao Governo uma contribuição de capital para cobrir o défice;\nc)   Após a recepção do pedido referido na alínea anterior, o Governo deve, num prazo não superior a trinta dias, transferir para o Banco a quantia necessária, em unidades monetárias ou instrumentos de dívida negociáveis com uma maturidade especificada, emitida consoante as taxas de juros praticadas no mercado de Timor-Leste."
+   }
+  },
+  {
+   "id": "TL-H105-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV OPERAÇÕES MONETÁRIAS E OUTRAS"
+   },
+   "heading": {
+    "pt": "Abertura de contas"
+   },
+   "text": {
+    "pt": "1.  Para a condução das suas actividades operacionais e financeiras, o Banco abre e mantém contas de caixa e títulos nos seus livros para bancos, companhias de seguros e para entidades públicas ou outras entidades sujeitas à supervisão do Banco, nos termos da lei.\n2.   O Banco pode, relativamente à abertura de contas:\na)   Abrir e manter contas de caixa e títulos nos seus livros em nome de bancos estrangeiros, bancos centrais, instituições financeiras internacionais e, se tal for julgado apropriado, governos estrangeiros, organizações internacionais e organizações doadoras;\nb)   Abrir e manter contas de caixa e títulos nos livros de bancos, companhias de seguros e outras entidades sujeitas à supervisão do Banco, nos termos da lei;\nc)   Abrir e manter contas de caixa e títulos nos livros de bancos centrais, bancos estrangeiros, depositários e organizações internacionais;\nd)   Definir as condições para abertura de contas nos seus livros.\n3.    O Banco não pode abrir contas para pessoas singulares ou colectivas."
+   }
+  },
+  {
+   "id": "TL-H105-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV OPERAÇÕES MONETÁRIAS E OUTRAS"
+   },
+   "heading": {
+    "pt": "Serviços de custódia"
+   },
+   "text": {
+    "pt": "1.   O Banco pode prestar, mediante o pagamento de taxas para cobrir os seus custos, serviços de custódia a instituições financeiras e ao público em geral para notas, moedas ou unidades monetárias que determine e para outros títulos negociáveis ou valores mobiliários.\n2.   O Banco define as condições em que presta os serviços de custódia."
+   }
+  },
+  {
+   "id": "TL-H105-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV OPERAÇÕES MONETÁRIAS E OUTRAS"
+   },
+   "heading": {
+    "pt": "Operações com títulos e valores mobiliários e de crédito"
+   },
+   "text": {
+    "pt": "1.    Para a prossecução dos seus objectivos e no desempenho das suas funções, o Banco pode:\na)   Operar nos mercados financeiros, comprando e vendendo de forma definitiva, à vista ou a termo, ou sob acordo de recompra e através de empréstimo ou da contracção de empréstimos, obrigações e outros instrumentos negociáveis ou valores mobiliários;\nb)   Conduzir operações de crédito com bancos autorizados a operar em Timor-Leste, com empréstimos adequadamente garantidos.\n2.   O Conselho de Administração determina os princípios gerais para as operações com títulos, valores mobiliários e de crédito, incluindo o anúncio das condições em que o Banco participa em tais transacções."
+   }
+  },
+  {
+   "id": "TL-H105-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV OPERAÇÕES MONETÁRIAS E OUTRAS"
+   },
+   "heading": {
+    "pt": "Reservas mínimas"
+   },
+   "text": {
+    "pt": "1.   O Banco pode exigir que os bancos registados mantenham reservas mínimas em contas abertas no Banco, de acordo com os seus objectivos  de política monetária ou de estabilidade do sistema de pagamentos.\n2.   O Conselho de Administração determina por instrução o montante das reservas mínimas exigíveis nos termos do previsto no número anterior.\n3.  No caso de incumprimento das instruções emitidas ao abrigo do número anterior, o Banco aplica coimas e juros sobre os montantes não realizados das reservas mínimas ou impõe sanções de efeito semelhante."
+   }
+  },
+  {
+   "id": "TL-H105-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV OPERAÇÕES MONETÁRIAS E OUTRAS"
+   },
+   "heading": {
+    "pt": "Outros instrumentos de controlo monetário"
+   },
+   "text": {
+    "pt": "O Conselho de Administração delibera, por unanimidade, sobre o uso de outros métodos de controlo monetário, nos termos que entenda por adequados."
+   }
+  },
+  {
+   "id": "TL-H105-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV OPERAÇÕES MONETÁRIAS E OUTRAS"
+   },
+   "heading": {
+    "pt": "Mutuante de último recurso"
+   },
+   "text": {
+    "pt": "1.   Em circunstâncias excepcionais, o Banco pode, por seu critério e nos termos e condições que o Conselho de Administração determine, intervir como mutuante de último recurso de um banco registado.\n2.   O apoio referido no número anterior pode ser prestado através da concessão de assistência financeira ao banco registado, a uma taxa de juro superior à taxa de mercado corrente.\n3.   O apoio pode periodicamente ser revisto, e determinado pelo Conselho de Administração por períodos não superiores a 91 dias que podem ser renovados tendo por base um programa aprovado pelo Governador que estipule as medidas correctivas que o banco mutuado deve implementar.\n4.   Sem prejuízo do disposto nos números anteriores, nenhum compromisso pode ser assumido pelo Banco, excepto se:\na)   O banco registado seja, na opinião do Governador, solvente e possa prestar garantias suficientes para assegurar o reembolso do empréstimo, e o pedido de apoio financeiro seja baseado na necessidade de melhorar a liquidez, ou\nb)   A assistência seja necessária para preservar a estabilidade do sistema financeiro e o Primeiro-Ministro emita, em nome do Governo, uma garantia por escrito que garanta o reembolso do empréstimo.\n5.   O Conselho de Administração do Banco determina o contravalor máximo da garantia prestada para garantir cada uma das operações de crédito previstas no número anterior.\n6.   Caso o Banco conclua que o banco registado assistido não implementou as medidas correctivas referidas no n.º 1, ou que estas não alcançaram os resultados pretendidos, o Conselho de Administração do Banco tomará as medidas adequadas.\n7.   Em todos os casos, o prazo total dos empréstimos e facilidades concedidas ao abrigo do presente artigo não pode exceder cento e oitenta dias.\n8.   A prestação da garantia referida na alínea b) do n.º 4 do presente artigo é regulada por lei."
+   }
+  },
+  {
+   "id": "TL-H105-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V REGIME CAMBIAL"
+   },
+   "heading": {
+    "pt": "Regime e acordos cambiais"
+   },
+   "text": {
+    "pt": "1.   O Banco formula e adopta o regime cambial, após consulta com o Governo.\n2.   O Banco pode, após consulta com o Governo, entrar em acordos de câmbio externo, desde que tal não comprometa ou de qualquer forma ponha em risco o objectivo principal de manter a estabilidade doméstica dos preços."
+   }
+  },
+  {
+   "id": "TL-H105-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V REGIME CAMBIAL"
+   },
+   "heading": {
+    "pt": "Composição da carteira de reservas internacionais"
+   },
+   "text": {
+    "pt": "O Banco pode deter na sua carteira  todos ou alguns dos seguintes activos externos:\na)    Ouro ou outros metais preciosos detidos sob custódia do Banco, incluindo saldos das contas que representam esse ouro e outros metais preciosos;\nb)  Notas e moedas denominadas em unidades monetárias estrangeiras de livre convertibilidade, detidas ou sob custódia do Banco;\nc)   Saldos e depósitos interbancários pagos a pronto ou dentro de um curto período de tempo, denominados em moedas estrangeiras de livre convertibilidade, e detidos nas contas do Banco, nos livros de bancos centrais estrangeiros ou instituições financeiras internacionais;\nd)  Títulos de dívida prontos a serem negociados, emitidos ou acreditados por governos estrangeiros,  bancos centrais ou  instituições financeiras internacionais;\ne)  Obrigações em instituições financeiras internacionais que resultem de acordos de recompra, de venda, de compra e de acordos de empréstimo de títulos nos títulos de dívidas mencionados na alínea anterior;\nf)  Direitos especiais de saque mantidos na conta de Timor- Leste no Fundo Monetário Internacional;\ng)   A posição das reservas de Timor-Leste no Fundo Monetário Internacional."
+   }
+  },
+  {
+   "id": "TL-H105-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI UNIDADE  MONETÁRIA"
+   },
+   "heading": {
+    "pt": "Unidade monetária de Timor-Leste"
+   },
+   "text": {
+    "pt": "A unidade monetária de Timor-Leste é determinada nos termos da Constituição da República Democrática de Timor-Leste."
+   }
+  },
+  {
+   "id": "TL-H105-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI UNIDADE  MONETÁRIA"
+   },
+   "heading": {
+    "pt": "Emissão de moeda e curso legal"
+   },
+   "text": {
+    "pt": "1.  O Banco tem o direito exclusivo de emissão de notas e moedas.\n2.   Sem prejuízo do disposto no artigo 80.º da presente lei, só as notas e moedas emitidas pelo Banco e que não tenham sido retiradas de circulação têm curso legal em Timor-Leste.\n3.   O Banco, ouvido o Governo, determina por regulamento, publicado no Jornal da República, o valor facial, medidas, pesos, concepção, e as características de segurança e outras características das notas e moedas emitidas e que tenham curso legal em Timor-Leste.\n4.   O Banco é responsável pelo fornecimento de notas e moedas em Timor-Leste.\n5.   O Banco, através de regulamentos, pode limitar o valor das notas e moedas com curso legal.\n6.  O montante global de notas e de moedas em circulação emitidas pelo Banco deve ser representada nas demonstrações financeiras como um passivo.\n7.   O passivo do Banco não inclui as notas e as moedas do inventário de moeda nacional detido pelo Banco ou em seu nome."
+   }
+  },
+  {
+   "id": "TL-H105-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI UNIDADE  MONETÁRIA"
+   },
+   "heading": {
+    "pt": "Troca de moeda"
+   },
+   "text": {
+    "pt": "O Banco pode trocar as notas e moedas que tenham curso legal em Timor-Leste, quando tal lhe seja solicitado."
+   }
+  },
+  {
+   "id": "TL-H105-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI UNIDADE  MONETÁRIA"
+   },
+   "heading": {
+    "pt": "Moeda danificada"
+   },
+   "text": {
+    "pt": "1.   A moeda imprópria para circulação deve ser retirada, destruída, e substituída por notas  e moedas pelo Banco.\n2.   O Banco pode recusar a troca de notas ou moedas quando os respectivos desenhos estejam ilegíveis, deformados ou perfurados, ou se mais de 40 por cento da sua superfície tiver desaparecido.\n3.    As notas e moedas referidas no número anterior devem ser retiradas e destruídas, sem indemnização ao seu portador.\n4.   Caso se prove que as partes em falta das notas ou moedas tenham sido total ou parcialmente danificadas, o Banco pode conceder uma compensação total ou parcial, nos termos e condições que determine e de acordo com os critérios que estabeleça.\n5.   O Banco não está obrigado a qualquer compensação por notas ou moedas que desapareçam ou que sejam roubadas ou destruídas.\n6.   O Banco pode apreender, sem compensação, quaisquer notas cuja aparência exterior tenha sido alterada, designadamente aquelas sobre as quais se tenha escrito ou tenham sido pintadas, sobre-impressas, estampadas ou perfuradas ou ainda aquelas nas quais tenha sido aplicado material adesivo."
+   }
+  },
+  {
+   "id": "TL-H105-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI UNIDADE  MONETÁRIA"
+   },
+   "heading": {
+    "pt": "Recolha de Moeda"
+   },
+   "text": {
+    "pt": "1.  O Banco pode recolher notas ou moedas, e emitir sem encargos associados notas ou moedas em quantidades equivalentes.\n2.   Para os efeitos do número anterior, o Banco determina por regulamento as condições da recolha, definindo, designadamente, o período e o local ou locais para a apresentação das notas e moedas objecto de troca.\n3.   No termo do período de troca ou quando o Banco o determine, as notas e moedas amortizadas deixam de ter curso legal.\n4.   O regulamento que define as notas e moedas que têm curso legal é publicado no Jornal da República."
+   }
+  },
+  {
+   "id": "TL-H105-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI UNIDADE  MONETÁRIA"
+   },
+   "heading": {
+    "pt": "Inventário das reservas de moeda e plano de emissão"
+   },
+   "text": {
+    "pt": "O Banco administra directamente o inventário das reservas de moeda, elabora planos de emissão e assegura o fornecimento regular de notas e moedas de forma a satisfazer as necessidades de Timor-Leste."
+   }
+  },
+  {
+   "id": "TL-H105-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI UNIDADE  MONETÁRIA"
+   },
+   "heading": {
+    "pt": "Moeda falsa"
+   },
+   "text": {
+    "pt": "1.    As notas e moedas com curso legal em Timor-Leste ou no estrangeiro, apresentadas a instituições financeiras e outras entidades autorizadas a realizar operações de câmbio e que se suspeite serem falsas, devem ser retidas e enviadas de imediato às autoridades competentes nos termos legais e regulamentares.\n2.   O Banco deve apreender todas as notas que lhe sejam apresentadas e que se suspeite terem sido falsificadas, forjadas ou terem tido o seu valor facial alterado, lavrando auto do qual conste a identificação das notas e do portador, bem como os fundamentos da suspeita.\n3.  O auto referido no número anterior é encaminhado às autoridades competentes, nos termos da lei processual penal.\n4.   Quem, de má-fé, forje, falsifique ou altere qualquer nota ou moeda que tenha curso legal, em Timor-Leste ou no estrangeiro, bem como qualquer cheque, título ou cartão de pagamento, denominado em moeda com curso legal em Timor-Leste ou em qualquer outra moeda, ou quem possua, transporte ou emita uma tal nota, moeda, cheque ou cartão de pagamento, com conhecimento de que foi feito, forjado, falsificado ou alterado de má-fé, ou ainda quem fabrique, possua ou transporte qualquer placa, pedra, papel, tinta ou outro objecto ou substância com conhecimento que se destina a ser usado no fabrico, forja, falsificação ou alteração de notas, moedas, cheques, títulos ou cartões de pagamento, comete crime, nos termos da lei penal."
+   }
+  },
+  {
+   "id": "TL-H105-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI UNIDADE  MONETÁRIA"
+   },
+   "heading": {
+    "pt": "Reproduções de moeda"
+   },
+   "text": {
+    "pt": "1.    A reprodução de notas, moedas, cheques, títulos ou cartões de pagamento, quer denominados na moeda legal de Timor- Leste ou de qualquer outro país, bem como a produção de quaisquer objectos que pela sua concepção imitem notas, moedas, cheques, títulos ou cartões de segurança ou de pagamento, requer  autorização prévia por escrito do Banco.\n2.  Sem prejuízo do disposto no número anterior, o Banco pode, por regulamento, autorizar a publicação de reproduções fotográficas de moeda.\n3.   A violação do disposto nos números anteriores constitui uma contra-ordenação, punível com coima, nos termos da lei ou dos regulamentos do Banco aplicáveis."
+   }
+  },
+  {
+   "id": "TL-H105-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII PAGAMENTOS, SUPERVISÃO, ESTATÍSTICAS E OUTRAS FUNÇÕES DO SISTEMA FINANCEIRO / SECÇÃO I SISTEMAS  DE  COMPENSAÇÃO, PAGAMENTOS E LIQUIDAÇÃO DE TÍTULOS"
+   },
+   "heading": {
+    "pt": "Serviços"
+   },
+   "text": {
+    "pt": "1.   O Banco pode prestar serviços para assegurar sistemas de compensação, pagamento e liquidação de títulos sólidos e eficientes.\n2.   O Banco fica autorizado a organizar, participar e operar sistemas de compensação, pagamento e liquidação de títulos."
+   }
+  },
+  {
+   "id": "TL-H105-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII PAGAMENTOS, SUPERVISÃO, ESTATÍSTICAS E OUTRAS FUNÇÕES DO SISTEMA FINANCEIRO / SECÇÃO I SISTEMAS  DE  COMPENSAÇÃO, PAGAMENTOS E LIQUIDAÇÃO DE TÍTULOS"
+   },
+   "heading": {
+    "pt": "Licenciamento e supervisão"
+   },
+   "text": {
+    "pt": "1.   Cabe exclusivamente ao Banco a regulação, licenciamento, registo e supervisão, sistemas de compensação, pagamento e liquidação de títulos, bem como a aplicação de medidas correctivas e sanções administrativas nesse âmbito.\n2.   O Banco, por regulamento, pode ainda:\na)   Exigir o registo ou licenciamento de qualquer sistema de compensação, pagamento ou liquidação de títulos ou de operador de sistema de compensação, de pagamento ou liquidação de títulos;\nb)   Exigir que os sistemas de compensação, pagamento e liquidação de títulos e ou os operadores de sistema de compensação, pagamento e liquidação de títulos, observem os requisitos e as condições de segurança e solidez que o Banco estabeleça;\nc)  Regular e supervisionar a emissão e qualidade dos instrumentos de pagamento."
+   }
+  },
+  {
+   "id": "TL-H105-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII PAGAMENTOS, SUPERVISÃO, ESTATÍSTICAS E OUTRAS FUNÇÕES DO SISTEMA FINANCEIRO / SECÇÃO I SISTEMAS  DE  COMPENSAÇÃO, PAGAMENTOS E LIQUIDAÇÃO DE TÍTULOS"
+   },
+   "heading": {
+    "pt": "Acordos de pagamento"
+   },
+   "text": {
+    "pt": "O Banco pode estabelecer acordos de forma a facilitar:\na)   A integração do seu sistema de pagamentos, compensação e liquidação de títulos e acordos relacionados com outros sistemas semelhantes;\nb)   O desenvolvimento de novos métodos e tecnologias para pagamentos e liquidação de títulos;\nc)   A concepção e actualização periódica de um plano para a evolução do sistema nacional de pagamentos de Timor- Leste."
+   }
+  },
+  {
+   "id": "TL-H105-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII PAGAMENTOS, SUPERVISÃO, ESTATÍSTICAS E OUTRAS FUNÇÕES DO SISTEMA FINANCEIRO / SECÇÃO II SUPERVISÃO"
+   },
+   "heading": {
+    "pt": "Funções de supervisão"
+   },
+   "text": {
+    "pt": "1.    Cabe exclusivamente ao Banco a regulação, licenciamento, registo e supervisão das instituições financeiras, incluindo a imposição de medidas correctivas e sanções administrativas.\n2.   O Banco pode inspeccionar as instalações das instituições financeiras, para examinar as respectivas contas, livros, documentos e outros registos, de forma a obter todas as informações relevantes, podendo ainda tomar quaisquer outras acções que considere necessárias ou aconselháveis.\n3.   As instituições financeiras devem fornecer ao Banco, quando solicitadas, os dados e informações relativos às suas operações e situação financeira.\n4.   O Banco pode revelar a informação obtida, no todo ou em parte, agregada por classes de instituições financeiras, de acordo com a natureza da actividade, sem  prejuízo das regras de confidencialidade previstas na lei."
+   }
+  },
+  {
+   "id": "TL-H105-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII PAGAMENTOS, SUPERVISÃO, ESTATÍSTICAS E OUTRAS FUNÇÕES DO SISTEMA FINANCEIRO / SECÇÃO III ESTATÍSTICAS"
+   },
+   "heading": {
+    "pt": "Recolha de estatísticas e informação"
+   },
+   "text": {
+    "pt": "Cabe ao Banco:\na)  Recolher, compilar, analisar e publicar informações e estatísticas relevantes para o cumprimento das suas funções;\nb)   Definir, por regulamento, as informações e as estatísticas necessárias, a forma sob a qual devem ser prestadas e quem está obrigado a prestá-las;\nc)   Definir, por regulamento, o regime de confidencialidade e as sanções administrativas aplicáveis em caso de não cumprimento;\nd)   Colaborar com os serviços e organismos da administração pública na recolha, compilação, análise e publicação de estatísticas e outras informações relevantes;\ne)  Cooperar com agências, organismos ou organizações internacionais,  ao nível bilateral e multilateral, para a adopção de padrões internacionais de disseminação de dados, a fim de, designadamente, uniformizar a organização de estatísticas e de informação."
+   }
+  },
+  {
+   "id": "TL-H105-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII PAGAMENTOS, SUPERVISÃO, ESTATÍSTICAS E OUTRAS FUNÇÕES DO SISTEMA FINANCEIRO / SECÇÃO III ESTATÍSTICAS"
+   },
+   "heading": {
+    "pt": "Prestação de informação"
+   },
+   "text": {
+    "pt": "As instituições abrangidas pelos regulamentos emitidos nos termos da alínea b) do artigo 32.º, são obrigadas a prestar as informações solicitadas pelo Banco."
+   }
+  },
+  {
+   "id": "TL-H105-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII PAGAMENTOS, SUPERVISÃO, ESTATÍSTICAS E OUTRAS FUNÇÕES DO SISTEMA FINANCEIRO / SECÇÃO III ESTATÍSTICAS"
+   },
+   "heading": {
+    "pt": "Divulgação"
+   },
+   "text": {
+    "pt": "O Banco deve divulgar:\na)  Estatísticas e informações, sem prejuízos das regras de confidencialidade, nos termos dos regulamentos aplicáveis;\nb)   Informação sobre a metodologia aplicada para a sua compilação;\nc)   Dados estatísticos e conceitos relevantes que permitam a verificação externa das estatísticas produzidas pelo Banco."
+   }
+  },
+  {
+   "id": "TL-H105-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII PAGAMENTOS, SUPERVISÃO, ESTATÍSTICAS E OUTRAS FUNÇÕES DO SISTEMA FINANCEIRO / SECÇÃO IV OUTRAS FUNÇÕES DO SISTEMA FINANCEIRO"
+   },
+   "heading": {
+    "pt": "Sistema de informação de crédito"
+   },
+   "text": {
+    "pt": "1.   O Banco pode operar, regular, licenciar, registar e supervisionar sistemas de informação de crédito para recolher e disseminar informações de crédito entre instituições financeiras e outras, podendo ainda emitir regulamentos para a sua implementação.\n2.   A informação recolhida e mantida nos sistemas de informação de crédito referidos no número anterior, só pode ser utilizada com o objectivo de melhorar a qualidade do crédito bancário e controlar a estabilidade do sistema financeiro."
+   }
+  },
+  {
+   "id": "TL-H105-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII RELAÇÕES ENTRE O PARLAMENTO NACIONAL, O GOVERNO E O BANCO / SECÇÃO I RELAÇÃO COM O PARLAMENTO NACIONAL"
+   },
+   "heading": {
+    "pt": "Responsabilização perante o Parlamento Nacional"
+   },
+   "text": {
+    "pt": "O Governador é ouvido periodicamente pelo Parlamento Nacional, quando para tal for solicitado ou por iniciativa própria, relativamente a assuntos de política monetária, financeira e económica."
+   }
+  },
+  {
+   "id": "TL-H105-A37",
+   "no": 37,
+   "noLabel": {
+    "pt": "Artigo 37.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII RELAÇÕES ENTRE O PARLAMENTO NACIONAL, O GOVERNO E O BANCO / SECÇÃO II RELAÇÃO COM O GOVERNO"
+   },
+   "heading": {
+    "pt": "Banqueiro, conselheiro financeiro, agente fiscal"
+   },
+   "text": {
+    "pt": "1.   O Banco aconselha o Governo no âmbito das suas atribuições.\n2.   O Banco actua como banqueiro do Governo.\n3.   O Banco pode:\na)   Por conta e em nome do Estado, receber empréstimos externos e gerir, administrar e liquidar obrigações e responsabilidades financeiras do Estado perante partes externas, nos termos e condições acordados com o Governo;\nb)  Nos termos e condições acordados com o Governo, actuar como agente fiscal sob custódia do Governo ou de qualquer outra entidade pública que para o efeito o Governo designe;\nc)   Operar um registo dos títulos emitidos pelo Estado."
+   }
+  },
+  {
+   "id": "TL-H105-A38",
+   "no": 38,
+   "noLabel": {
+    "pt": "Artigo 38.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII RELAÇÕES ENTRE O PARLAMENTO NACIONAL, O GOVERNO E O BANCO / SECÇÃO II RELAÇÃO COM O GOVERNO"
+   },
+   "heading": {
+    "pt": "Depositário e caixa"
+   },
+   "text": {
+    "pt": "1.   O Banco aceita depósitos, em qualquer moeda, do Governo ou de qualquer outra agência pública, remunerados à taxa de juro fixada tendo em consideração as taxas praticadas no mercado.\n2.   Enquanto depositário, o Banco recebe e desembolsa fundos, mantendo registos sobre estas operações, e prestando outros serviços financeiros relacionados com esses depósitos.\n3.   O Banco efectua pagamentos até aos limites dos montantes depositados mediante ordens de pagamento relativas a tais contas."
+   }
+  },
+  {
+   "id": "TL-H105-A39",
+   "no": 39,
+   "noLabel": {
+    "pt": "Artigo 39.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII RELAÇÕES ENTRE O PARLAMENTO NACIONAL, O GOVERNO E O BANCO / SECÇÃO II RELAÇÃO COM O GOVERNO"
+   },
+   "heading": {
+    "pt": "Gestão de fundos especiais"
+   },
+   "text": {
+    "pt": "1.   Relativamente à gestão de fundos especiais, o Banco pode:\na)  Gerir fundos especiais propriedade do Estado, nos termos de um contrato de gestão entre o Banco e o Governo;\nb)   Manter contas de receitas consignadas, nas quais são depositadas as receitas dos fundos especiais referidos na alínea anterior.\n2.   O Governo pode orientar o Banco no que respeita à política de investimento dos fundos referidos, bem como tomar decisões quanto às suas carteiras de títulos, devendo tais orientações e decisões constar de uma directiva escrita dirigida ao Banco.\n3.   O Banco não é responsável por qualquer diminuição no fundo que possa resultar da execução da política de investimento definida no contrato de gestão ou constante das directivas escritas do Governo.\n4.   O Banco cobra uma taxa de gestão dos fundos referidos no n.º 1 do presente artigo, para cobrir os respectivos custos."
+   }
+  },
+  {
+   "id": "TL-H105-A40",
+   "no": 40,
+   "noLabel": {
+    "pt": "Artigo 40.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII RELAÇÕES ENTRE O PARLAMENTO NACIONAL, O GOVERNO E O BANCO / SECÇÃO II RELAÇÃO COM O GOVERNO"
+   },
+   "heading": {
+    "pt": "Cooperação com o Governo"
+   },
+   "text": {
+    "pt": "1.   O Banco coopera com o Governo e com outras entidades públicas em prol  dos seus objectivos.\n2.   O Governador mantém reuniões regulares com o Ministro das Finanças no que respeita à política monetária e financeira, bem como a outros assuntos de interesse comum.\n3.   O Governador e o Ministro das Finanças devem manter-se informados a respeito de todos os assuntos de interesse mútuo.\n4.   O Banco pode, por sua iniciativa, aconselhar o Governo sobre quaisquer assuntos susceptíveis de afectar a prossecução dos seus objectivos.\n5.   O Banco deve, a pedido do Governo, prestar informação relativa às suas actividades, com excepção de informação específica relativa às entidades supervisionadas.\n6.   O Banco deve, a pedido do Governo, prestar a informação relevante relativa à recepção de fundos de qualquer proveniência.\n7.   O Governo, a pedido do Banco, fornece informações e documentos relevantes para o exercício das funções deste.\n8.   O Banco é ouvido pelo Governo sobre anteprojectos de lei que respeitem a assuntos relacionados com os objectivos do Banco ou que de outra forma se enquadrem no âmbito das suas atribuições."
+   }
+  },
+  {
+   "id": "TL-H105-A41",
+   "no": 41,
+   "noLabel": {
+    "pt": "Artigo 41.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII RELAÇÕES ENTRE O PARLAMENTO NACIONAL, O GOVERNO E O BANCO / SECÇÃO II RELAÇÃO COM O GOVERNO"
+   },
+   "heading": {
+    "pt": "Proibição de conceder empréstimos ao Governo"
+   },
+   "text": {
+    "pt": "1.   O Banco não concede créditos directos ou indirectos ao Governo ou a qualquer outra entidade pública ou detida pelo Estado, com excepção dos créditos intra-dia, para assegurar o funcionamento do sistema de pagamentos.\n2.   O crédito intra-dia deve ser pago antes do final do dia a que respeite.\n3.   O disposto no n.º 1 não se aplica a bancos públicos e a outras entidades públicas supervisionadas, as quais são tratadas da mesma forma que os bancos privados e outras entidades privadas supervisionadas pelo Banco.\n4.   O Banco não pode comprar títulos emitidos pelo Governo, excepto no mercado secundário.\n5.   O disposto no presente artigo não se aplica ao financiamento das obrigações do Estado relativamente ao Fundo Monetário Internacional."
+   }
+  },
+  {
+   "id": "TL-H105-A42",
+   "no": 42,
+   "noLabel": {
+    "pt": "Artigo 42.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII RELAÇÕES ENTRE O PARLAMENTO NACIONAL, O GOVERNO E O BANCO / SECÇÃO II RELAÇÃO COM O GOVERNO"
+   },
+   "heading": {
+    "pt": "Directivas do Governo"
+   },
+   "text": {
+    "pt": "1-   O Ministro das Finanças, se entender necessário, pode, depois de consultado o Banco, submeter uma recomendação ao Governo sobre a coordenação das políticas monetárias e fiscais, enviando uma cópia dessa recomendação ao Banco.\n2-   O Banco pode, se tiver alguma objecção à recomendação referida no número anterior, submeter por escrito essas objecções ao Governo no período de três dias depois de receber a recomendação.\n3-   Decorrido o prazo referido no número anterior, o Governo pode, através de directivas, determinar a política a ser adoptada.\n4-   O Governo informa o Banco por escrito da política determinada e, no caso desta política diferir da do Banco, é responsável pela sua adopção.\n5-   O Banco deve, a partir da recepção das informações referidas no número anterior, executar essa política enquanto as directivas estiverem em operação.\n6-   As directivas do Governo referidas no n.º 3, em conjunto com declarações do Governo e do Banco, devem ser submetidas ao Parlamento Nacional num período de quinze dias depois do Governo ter informado o Banco da política determinada."
+   }
+  },
+  {
+   "id": "TL-H105-A43",
+   "no": 43,
+   "noLabel": {
+    "pt": "Artigo 43.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX ORGANIZAÇÃO E FUNCIONAMENTO / SECÇÃO I ESTRUTURA ORGÂNICA"
+   },
+   "heading": {
+    "pt": "Órgãos e Funções"
+   },
+   "text": {
+    "pt": "1.  São órgãos do Banco o Governador e o Conselho de Administração.\n2.   O Governador é o chefe executivo, tendo por função conduzir as operações diárias do Banco.\n3.   Os Vice-Governadores coadjuvam o Governador na condução das operações diárias do Banco.\n4.   O Conselho de Administração é o órgão directivo superior, tendo por funções a formulação e supervisão da implementação das políticas e a supervisão da administração e das operações do Banco.\n5.   O Conselho de Administração é composto pelo Governador, que preside, por dois Vice-Governadores e por quatro membros não executivos.\n6.   Os membros não executivos integram o Conselho de Administração e participam nas suas deliberações."
+   }
+  },
+  {
+   "id": "TL-H105-A44",
+   "no": 44,
+   "noLabel": {
+    "pt": "Artigo 44.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX ORGANIZAÇÃO E FUNCIONAMENTO / SECÇÃO II CONSELHO DE ADMINISTRAÇÃO E GOVERNADOR"
+   },
+   "heading": {
+    "pt": "Nomeação e Mandato"
+   },
+   "text": {
+    "pt": "1.   Os membros do Conselho de Administração são nomeados para um mandato de seis anos, renovável uma única vez.\n2.   O Governador é nomeado pelo Primeiro-Ministro, sob proposta não vinculativa do Conselho de Administração.\n3.  Os Vice-Governadores são nomeados pelo Primeiro-Ministro, sob proposta não vinculativa do Conselho de Administração.\n4.   Os membros não executivos do Conselho de Administração são nomeados pelo Primeiro-Ministro, sob proposta não vinculativa do Conselho de Administração."
+   }
+  },
+  {
+   "id": "TL-H105-A45",
+   "no": 45,
+   "noLabel": {
+    "pt": "Artigo 45.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX ORGANIZAÇÃO E FUNCIONAMENTO / SECÇÃO II CONSELHO DE ADMINISTRAÇÃO E GOVERNADOR"
+   },
+   "heading": {
+    "pt": "Competências do Conselho de Administração"
+   },
+   "text": {
+    "pt": "Compete ao Conselho de Administração:\na)  Formular e adoptar a política monetária do Banco e, designadamente, tomar decisões relativas aos objectivos monetários intermédios, às taxas de juros principais e à oferta de moeda em Timor-Leste e aprovar os regulamentos necessários à sua implementação;\nb)   Formular e adoptar o regime cambial;\nc)   Formular e adoptar as políticas relativas à prossecução das atribuições do Banco e aprovar os regulamentos necessários à respectiva implementação;\nd)   Supervisionar a implementação das políticas e a execução das funções do Banco;\ne)   Aprovar os regulamentos do Banco;\nf)     Deliberar sobre as políticas gerais e aprovar os regulamentos internos aplicáveis à administração e operações do Banco;\ng) Deliberar sobre a organização do Banco, incluindo o estabelecimento e localização de agências, gabinetes representativos e instalações operacionais;\nh)   Aprovar a nomeação do Auditor Interno Chefe;\n(i)     Determinar os termos e condições de emprego dos agentes do Banco, incluindo liquidatários de instituições financeiras, auditores e correspondentes;\nj)   Determinar o número de funcionários necessários e os respectivos termos e condições de emprego, incluindo o estabelecimento de planos de pensão;\nk)   Aprovar o orçamento anual do Banco;\nl)   Deliberar sobre as políticas de contabilidade do Banco e aprovar o relatório anual bem como outros relatórios formais e demonstrações financeiras do Banco;\nm)   Nomear os auditores externos do Banco;\nn)  Deliberar sobre a contracção de dívidas em montantes materiais pelo Banco e os termos e condições dessas dívidas;\no)   Deliberar sobre os activos adequados para investimento dos recursos financeiros do Banco;\np)   Aprovar ou negar a emissão de licenças e permissões para os sistemas de compensação, pagamento e liquidação de títulos;\nq)   Aprovar ou negar a emissão de licenças e permissões para instituições financeiras, e revogar as licenças e permissões destas instituições;\nr)  Determinar as denominações, características técnicas e visuais, emissão e manuseamento das notas e moedas;\ns)   Nomear um ou mais conselhos consultivos, determinar os termos e condições da nomeação dos seus membros, definindo as suas funções;\nt)    Nomear uma ou mais comissões, constituídas por membros do Conselho de Administração e outras personalidades, definindo as suas funções;\nu)   Avaliar os riscos e formular planos de contingência para as operações correntes e para a segurança do Banco;\nv)   Aprovar as regras de funcionamento interno;\nw)   Quaisquer outras que lhe sejam atribuídas por lei."
+   }
+  },
+  {
+   "id": "TL-H105-A46",
+   "no": 46,
+   "noLabel": {
+    "pt": "Artigo 46.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX ORGANIZAÇÃO E FUNCIONAMENTO / SECÇÃO II CONSELHO DE ADMINISTRAÇÃO E GOVERNADOR"
+   },
+   "heading": {
+    "pt": "Competências do Governador"
+   },
+   "text": {
+    "pt": "1.   Compete ao Governador:\na)  Implementar a política monetária e cambial e outras políticas do Banco, nos termos dos regulamentos e deliberações do Conselho de Administração;\nb)   Responder perante o Conselho de Administração pela execução das suas decisões e pela direcção e controlo da administração e das operações do Banco;\nc)   Determinar antecipadamente a ordem pela qual os Vice- Governadores o substituem, nas suas ausências e impedimentos;\nd)   Adoptar as medidas adequadas, designadamente sob a forma de instruções, às instituições financeiras supervisionadas, zelar pelo bom funcionamento do sistema de compensação, pagamento e liquidação de títulos, bem como tomar medidas correctivas aplicáveis nesse âmbito, designadamente nomeando liquidatário ou aplicando sanções administrativas, nos termos da lei;\ne)  Prestar contas, mensalmente, ao Conselho de Administração sobre a condução das operações e políticas do Banco, a solidez do sistema financeiro, e o estado da moeda, mercados de capitais e cambiais, incluindo todos os eventos e condições que têm ou poderão vir a ter efeitos significativos sobre a administração ou operações do Banco ou sobre a condução das suas políticas bem como sobre o sistema e os mercados;\nf)   Tomar todas as medidas que considere necessárias ou aconselháveis para a administração ou para as operações do Banco podendo, designadamente, adquirir bens e serviços, contratar, nomear funcionários e agentes do Banco;\ng)   Representar o Banco, em juízo e fora dele, nos termos da lei;\nh)   Exercer todas as competências não atribuídas ao Conselho de Administração.\n2.   O Governador pode, nos termos das regras de funcionamento do Conselho de Administração, delegar o exercício de qualquer das suas competências nos administradores ou nos técnicos superiores do Banco."
+   }
+  },
+  {
+   "id": "TL-H105-A47",
+   "no": 47,
+   "noLabel": {
+    "pt": "Artigo 47.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX ORGANIZAÇÃO E FUNCIONAMENTO / SECÇÃO II CONSELHO DE ADMINISTRAÇÃO E GOVERNADOR"
+   },
+   "heading": {
+    "pt": "Remuneração e compensação"
+   },
+   "text": {
+    "pt": "1.    A remuneração do Governador e dos Vice-Governadores é fixada pelo Governo, em montante equivalente ao auferido pelo exercício de cargos de natureza executiva em grandes instituições financeiras, ouvido o Conselho de Administração.\n2.   Os membros não executivos do Conselho de Administração têm direito a senha de presença por cada reunião, em montante equivalente ao auferido pelo exercício de cargos de natureza não executiva em grandes instituições financeiras, fixado pelo Conselho de Administração sob proposta do Governador.\n3.   O montante das remunerações e compensações auferidas nos termos dos números anteriores consta do relatório referido na alínea b) do n.º 2 do artigo 58.º."
+   }
+  },
+  {
+   "id": "TL-H105-A48",
+   "no": 48,
+   "noLabel": {
+    "pt": "Artigo 48.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX ORGANIZAÇÃO E FUNCIONAMENTO / SECÇÃO II CONSELHO DE ADMINISTRAÇÃO E GOVERNADOR"
+   },
+   "heading": {
+    "pt": "Requisitos de Elegibilidade"
+   },
+   "text": {
+    "pt": "1.   Os membros do Conselho de Administração são nomeados de entre cidadãos timorenses de reconhecida idoneidade, integridade, competência técnica e profissional, com formação universitária ou que tenham uma extensa experiência prévia em assuntos financeiros, bancários, monetários ou legais.\n2.   O Governador e os Vice-Governadores exercem funções em regime de exclusividade e a tempo inteiro, não podendo exercer qualquer outra actividade profissional fora do Banco, remunerada ou não, excepto nos casos em que o Conselho de Administração excepcionalmente o autorize.\n3.   O exercício do cargo é incompatível com o exercício das funções de:\na)   Deputado do Parlamento Nacional;\nb)   Membro do Governo;\nc)   Quaisquer cargos na Administração Pública;\nd)  Quaisquer cargos em instituições financeiras que operem, prestem serviços ou tenham representação em Timor-Leste.\n4.  O exercício do cargo é igualmente incompatível com a detenção, directa ou indirecta, de uma participação igual ou superior a 5% no capital social de uma instituição financeira.\n5.   Sem prejuízo do disposto nos números anteriores, é permitido o exercício de funções docentes, a tempo parcial, em instituições de ensino superior.\n6.   Quem se encontre nas condições que, nos termos da presente lei, impliquem a perda do mandato não é elegível para o Conselho de Administração."
+   }
+  },
+  {
+   "id": "TL-H105-A49",
+   "no": 49,
+   "noLabel": {
+    "pt": "Artigo 49.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX ORGANIZAÇÃO E FUNCIONAMENTO / SECÇÃO II CONSELHO DE ADMINISTRAÇÃO E GOVERNADOR"
+   },
+   "heading": {
+    "pt": "Perda de Mandato"
+   },
+   "text": {
+    "pt": "1.   O Governador é inamovível e só pode ser exonerado nos casos previstos na lei, por despacho do Primeiro-Ministro, ouvido o Conselho de Administração, que delibera na ausência do Governador.\n2.   Os Vice-Governadores e os membros não executivos são inamovíveis e só podem ser exonerados, por despacho do Primeiro-Ministro, sob proposta do Conselho de Administração, quando:\na)   Se tornem inelegíveis para integrar o Conselho de Administração;\nb)  Sejam condenados por crime punível com pena de prisão;\nc)  Sejam condenados como devedores numa acção de falência ou insolvência;\nd)   Sejam inabilitados para o exercício ou suspensos da prática de uma profissão pela autoridade competente ou por decisão judicial transitada em julgado;\ne)  Sejam proibidos de exercer cargos dirigentes numa outra organização;\nf)   Se envolvam na prática de actividades ilegais;\ng)   Exerçam o cargo de modo manifestamente impróprio.\n3.  Sem prejuízo do disposto no número anterior, os Vice- Governadores e os membros não executivos podem igualmente ser exonerados por despacho do Primeiro- Ministro, ouvido o Conselho de Administração, quando se verifique incapacidade física ou psíquica permanente, ou o não exercício de funções por um período superior a três meses consecutivos, sem autorização do Conselho de Administração.\n4.   O Primeiro-Ministro pode, quando existam fundadas razões para crer que o Conselho de Administração agiu em desconformidade com o previsto nos nºs 1 e 2 do presente artigo, nomear uma comissão para investigar o caso e elaborar um relatório e recomendações, após o que decide.\n5.   A comissão referida no número anterior é composta por três personalidades, uma das quais exerça ou tenha exercido um alto cargo judicial e duas outras com experiência na área financeira ou bancária.\n6.   Da decisão de exoneração cabe recurso judicial, nos termos da lei, a interpor no prazo de quinze dias a contar do conhecimento da decisão."
+   }
+  },
+  {
+   "id": "TL-H105-A50",
+   "no": 50,
+   "noLabel": {
+    "pt": "Artigo 50.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX ORGANIZAÇÃO E FUNCIONAMENTO / SECÇÃO II CONSELHO DE ADMINISTRAÇÃO E GOVERNADOR"
+   },
+   "heading": {
+    "pt": "Renúncia"
+   },
+   "text": {
+    "pt": "1.   O Governador pode renunciar ao cargo mediante prévia comunicação escrita dirigida ao Primeiro-Ministro, com a antecedência mínima de três meses.\n2.   Os Vice-Governadores e os membros não executivos do Conselho de Administração podem renunciar ao cargo mediante prévia comunicação escrita dirigida ao Primeiro- Ministro, com cópia para o Conselho de Administração e uma antecedência mínima de, respectivamente, três meses e um mês."
+   }
+  },
+  {
+   "id": "TL-H105-A51",
+   "no": 51,
+   "noLabel": {
+    "pt": "Artigo 51.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX ORGANIZAÇÃO E FUNCIONAMENTO / SECÇÃO II CONSELHO DE ADMINISTRAÇÃO E GOVERNADOR"
+   },
+   "heading": {
+    "pt": "Funções subsequentes"
+   },
+   "text": {
+    "pt": "1.    Os antigos Governadores e Vice-Governadores não podem prestar serviços profissionais a um banco, companhia de seguros ou quaisquer outras entidades supervisionadas em Timor-Leste, pelo período de um ano após a cessação de funções no Banco.\n2.   Durante o período referido no número anterior, o Conselho de Administração fixa um montante adequado a ser pago aos ex-membros do Conselho de Administração, a título de compensação."
+   }
+  },
+  {
+   "id": "TL-H105-A52",
+   "no": 52,
+   "noLabel": {
+    "pt": "Artigo 52.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX ORGANIZAÇÃO E FUNCIONAMENTO / SECÇÃO II CONSELHO DE ADMINISTRAÇÃO E GOVERNADOR"
+   },
+   "heading": {
+    "pt": "Vacatura do cargo"
+   },
+   "text": {
+    "pt": "Qualquer vacatura no Conselho de Administração é preenchida no prazo de sessenta dias mediante a nomeação de um novo membro, que completará o tempo restante do mandato do membro substituído."
+   }
+  },
+  {
+   "id": "TL-H105-A53",
+   "no": 53,
+   "noLabel": {
+    "pt": "Artigo 53.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX ORGANIZAÇÃO E FUNCIONAMENTO / SECÇÃO III FUNCIONAMENTO DO CONSELHO DE ADMINISTRAÇÃO"
+   },
+   "heading": {
+    "pt": "Reuniões"
+   },
+   "text": {
+    "pt": "1.   O Governador, ou quem o substitua nas suas ausências ou impedimentos, preside às reuniões do Conselho de Administração.\n2.   O Conselho de Administração reúne ordinariamente uma vez por mês e extraordinariamente quando convocado pelo presidente, por sua iniciativa ou a pedido, por escrito, de dois dos seus membros.\n3.    As reuniões do Conselho de Administração são convocadas por escrito, devendo a convocatória ser enviada a todos os seus membros, indicando  data, hora, local e agenda, com antecedência não inferior a cinco dias úteis antes da data estabelecida para a reunião, excepto em caso de urgência ou com o consentimento mútuo de todos os membros.\n4.   O Conselho de Administração delibera com a presença de dois terços dos seus membros, incluindo o Governador ou quem o substitua e pelo menos um membro não executivo.\n5.   Não se verificando o quórum nos termos do número anterior, o Governador pode convocar uma nova reunião, sendo as deliberações adoptadas ratificadas na reunião ordinária seguinte.\n6.    A cada membro do Conselho de Administração corresponde um voto, tendo o presidente voto de qualidade em caso de empate.\n7.   As deliberações do Conselho de Administração são adoptadas por meio de maioria simples dos membros presentes.\n8.   As regras de funcionamento do Conselho de Administração podem permitir reuniões e votações por teleconferência ou, em circunstâncias excepcionais, através de outros meios de comunicação por via electrónica.\n9.    Sem prejuízo do previsto quanto ao quórum no presente artigo, a vacatura de um ou mais cargos de membro do Conselho de Administração, não constitui, por si só, fundamento de invalidade dos actos ou procedimentos do Conselho de Administração."
+   }
+  },
+  {
+   "id": "TL-H105-A54",
+   "no": 54,
+   "noLabel": {
+    "pt": "Artigo 54.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX ORGANIZAÇÃO E FUNCIONAMENTO / SECÇÃO III FUNCIONAMENTO DO CONSELHO DE ADMINISTRAÇÃO"
+   },
+   "heading": {
+    "pt": "Funcionamento e Confidencialidade"
+   },
+   "text": {
+    "pt": "1.   As reuniões do Conselho de Administração são confidenciais.\n2.   O Conselho de Administração pode decidir tornar público o resultado das suas deliberações.\n3.   As decisões do Conselho de Administração relativas à política monetária ou de política geral são publicadas.\n4.   As actas de cada reunião do Conselho de Administração são assinadas pela pessoa que presidiu à reunião e pelo Secretário do Conselho de Administração.\n5.   O Secretário é nomeado pelo Conselho de Administração de entre os técnicos superiores do Banco que não integrem o Conselho de Administração."
+   }
+  },
+  {
+   "id": "TL-H105-A55",
+   "no": 55,
+   "noLabel": {
+    "pt": "Artigo 55.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX ORGANIZAÇÃO E FUNCIONAMENTO / SECÇÃO IV PESSOAL"
+   },
+   "heading": {
+    "pt": "Disposições gerais"
+   },
+   "text": {
+    "pt": "1.  Os funcionários do Banco não podem exercer qualquer outro cargo ou actividade fora do Banco, remunerada ou não, a não ser que para tal tenham sido designados pelo Banco ou se for para fins educativos ou cívicos e, neste caso, desde que não colida com o serviço do Banco, excepto com autorização expressa do Conselho de Administração.\n2.   Na contratação de pessoal observam-se os princípios da igualdade de oportunidades e não discriminação.\n3.   O Banco dispõe de um quadro de pessoal próprio, de acordo com um Regime Especial de Carreiras."
+   }
+  },
+  {
+   "id": "TL-H105-A56",
+   "no": 56,
+   "noLabel": {
+    "pt": "Artigo 56.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX ORGANIZAÇÃO E FUNCIONAMENTO / SECÇÃO IV PESSOAL"
+   },
+   "heading": {
+    "pt": "Admissão e cessação de funções"
+   },
+   "text": {
+    "pt": "Nos termos gerais e condições aprovadas pelo Conselho de Administração, o Governador pode contratar e despedir funcionários e agentes e correspondentes do Banco."
+   }
+  },
+  {
+   "id": "TL-H105-A57",
+   "no": 57,
+   "noLabel": {
+    "pt": "Artigo 57.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO X DEMONSTRAÇÕES FINANCEIRAS, RELATÓRIOS, AUDITORIAS E ORÇAMENTO / SECÇÃO I DEMONSTRAÇÕES FINANCEIRAS E RELATÓRIOS"
+   },
+   "heading": {
+    "pt": "Política, padrões e práticas de contabilidade"
+   },
+   "text": {
+    "pt": "1.     A contabilidade, contas e registos são realizadas e mantidas de acordo com os Padrões Internacionais de Contabilidade e reflectem as operações e a situação financeira do Banco.\n2.   O ano financeiro coincide com o ano civil."
+   }
+  },
+  {
+   "id": "TL-H105-A58",
+   "no": 58,
+   "noLabel": {
+    "pt": "Artigo 58.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO X DEMONSTRAÇÕES FINANCEIRAS, RELATÓRIOS, AUDITORIAS E ORÇAMENTO / SECÇÃO I DEMONSTRAÇÕES FINANCEIRAS E RELATÓRIOS"
+   },
+   "heading": {
+    "pt": "Demonstrações financeiras anuais e relatórios"
+   },
+   "text": {
+    "pt": "1.   O Banco prepara demonstrações financeiras para cada um dos seus anos financeiros.\n2.   O Banco, no prazo de quatro meses após o encerramento do ano financeiro, submete ao Presidente da República, ao Parlamento Nacional, ao Primeiro-Ministro e ao Ministro das Finanças o seguinte:\na)   Demonstrações financeiras, aprovadas pelo Conselho de Administração, assinadas pelo Governador e certificadas pelo auditor externo;\nb)   Relatório, aprovado pelo Conselho de Administração, das actividades e operações relativas ao ano financeiro anterior, incluindo o que se refere aos objectivos das suas políticas e à evolução da economia nacional;\nc)   Relatório, aprovado pelo Conselho de Administração, sobre o estado da economia durante o ano financeiro anterior, incluindo as perspectivas de evolução da economia no ano subsequente, face aos objectivos das suas políticas e ao sistema financeiro de Timor-Leste.\n3.   O relatório referido no número anterior inclui a análise e a avaliação das políticas prosseguidas pelo Banco no último ano financeiro e uma descrição e explicação das políticas que o Banco vai seguir no próximo ano financeiro.\n4.   Uma vez concluídas as demonstrações financeiras referidas na alínea a) do n.º 2, o Banco publica-as no Jornal da República e na sua página na Internet.\n5.   Os relatórios referidos nas alíneas b) e c) do n.º 2 são publicados nos meios de comunicação a serem determinados pelo Conselho de Administração.\n6.   O Banco, dentro de quinze dias úteis após o final de cada mês, prepara e publica na sua página na internet o balanço pro forma relativo a esse mês, entregando cópia ao Primeiro-Ministro e ao membro do Governo responsável pela área das finanças."
+   }
+  },
+  {
+   "id": "TL-H105-A59",
+   "no": 59,
+   "noLabel": {
+    "pt": "Artigo 59.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO X DEMONSTRAÇÕES FINANCEIRAS, RELATÓRIOS, AUDITORIAS E ORÇAMENTO / SECÇÃO I DEMONSTRAÇÕES FINANCEIRAS E RELATÓRIOS"
+   },
+   "heading": {
+    "pt": "Outras Publicações"
+   },
+   "text": {
+    "pt": "1-   O Banco informa, duas vezes por ano e sempre que necessário, o Parlamento Nacional e o público em geral sobre a política monetária, o cumprimento dos objectivos e a sua visão sobre o comportamento das variáveis reais da economia.\n2-   O Banco pode publicar relatórios e estudos sobre assuntos de natureza económica e ou financeira."
+   }
+  },
+  {
+   "id": "TL-H105-A60",
+   "no": 60,
+   "noLabel": {
+    "pt": "Artigo 60.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO X DEMONSTRAÇÕES FINANCEIRAS, RELATÓRIOS, AUDITORIAS E ORÇAMENTO / SECÇÃO II AUDITORIAS E ORÇAMENTO SUBSECCÇÃO  I AUDITORIA INTERNA"
+   },
+   "heading": {
+    "pt": "Nomeação e mandato"
+   },
+   "text": {
+    "pt": "1.    O Auditor Interno Chefe do Banco é nomeado pelo Conselho de Administração, sob proposta do Governador, para um mandato de cinco anos, renovável.\n2.   Só pode ser nomeado para o cargo de Auditor Interno quem possua vasta experiência profissional nas áreas de contabilidade ou auditoria e preencha os critérios de elegibilidade previstos no artigo 48.º da presente lei.\n3.   O Auditor Interno Chefe só pode ser exonerado do cargo pelo Conselho de Administração, nos termos do previsto no artigo 49.º da presente lei.\n4.   O Auditor Interno Chefe pode demitir-se mediante prévia comunicação ao Governador, com uma antecedência mínima de três meses."
+   }
+  },
+  {
+   "id": "TL-H105-A61",
+   "no": 61,
+   "noLabel": {
+    "pt": "Artigo 61.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO X DEMONSTRAÇÕES FINANCEIRAS, RELATÓRIOS, AUDITORIAS E ORÇAMENTO / SECÇÃO II AUDITORIAS E ORÇAMENTO SUBSECCÇÃO  I AUDITORIA INTERNA"
+   },
+   "heading": {
+    "pt": "Funções do Auditor Interno Chefe"
+   },
+   "text": {
+    "pt": "Cabe ao Auditor Interno Chefe, assistido pelos auditores internos, designadamente:\na)   A supervisão e revisão das práticas e procedimentos no âmbito da gestão adequada dos riscos, bem como a supervisão contínua da sua implementação;\nb)   Recomendar ao Conselho de Administração a adopção de práticas ou procedimentos no âmbito da alínea anterior;\nc)   A realização de auditorias periódicas à administração e às operações do Banco para garantir o correcto cumprimento das leis aplicáveis ao Banco e das decisões do Conselho de Administração;\nd)   A revisão das demonstrações financeiras periódicas e dos documentos do Banco com elas relacionados;\ne)   A preparação e entrega ao Conselho, sempre que considerado apropriado pelo Conselho de Administração e pelo menos uma vez por trimestre, dos relatórios e recomendações relativas aos registos e declarações financeiras, aos procedimentos orçamentais e contabilísticos, à gestão dos riscos e outros controlos internos do banco, à eficiência e eficácia sob os quais o Banco opera em termos de custos, e a quaisquer outros assuntos dentro das suas competências e áreas de responsabilidade relativamente aos quais pode ser solicitado um relatório pelo Conselho de Administração;\nf)   Quaisquer outras que lhe sejam atribuídas pelo Conselho de Administração, desde que não colidam com as suas funções principais;\ng)   Acompanhar o trabalho dos auditores externos do Banco."
+   }
+  },
+  {
+   "id": "TL-H105-A62",
+   "no": 62,
+   "noLabel": {
+    "pt": "Artigo 62.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO X DEMONSTRAÇÕES FINANCEIRAS, RELATÓRIOS, AUDITORIAS E ORÇAMENTO / SECÇÃO II AUDITORIAS E ORÇAMENTO SUBSECCÇÃO  I AUDITORIA INTERNA / SUBSECÇÃO II AUDITORIAS  EXTERNA"
+   },
+   "heading": {
+    "pt": "Auditoria externa"
+   },
+   "text": {
+    "pt": "1.    As contas, registos e demonstrações financeiras do Banco são auditadas pelo menos uma vez por ano por auditores externos independentes, com experiência reconhecida em auditorias a grandes instituições financeiras internacionais.\n2.    Os auditores externos são nomeados pelo Primeiro-Ministro sob proposta do Conselho de Administração.\n3.   Nenhum auditor externo deverá ser nomeado consecutivamente por um período cumulativo que exceda cinco anos.\n4.   O Primeiro-Ministro pode demitir os auditores externos do Banco com justa causa, ouvido o Conselho de Administração.\n5.   O Primeiro-Ministro pode, a todo o tempo, determinar a realização de uma auditoria externa ao Banco.\n6.   O relatório da auditoria realizada nos termos do número anterior é enviado ao Parlamento Nacional, para efeitos de informação.\n7.   Os honorários a pagar aos auditores externos são fixados pelo Primeiro-Ministro e suportados pelo Banco.\n8.   Os auditores externos podem examinar os livros, as contas e quaisquer registos do Banco bem como aceder a toda a informação relativa às suas transacções."
+   }
+  },
+  {
+   "id": "TL-H105-A63",
+   "no": 63,
+   "noLabel": {
+    "pt": "Artigo 63.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO X DEMONSTRAÇÕES FINANCEIRAS, RELATÓRIOS, AUDITORIAS E ORÇAMENTO / SECÇÃO II AUDITORIAS E ORÇAMENTO SUBSECCÇÃO  I AUDITORIA INTERNA / SUBSECÇÃO II AUDITORIAS  EXTERNA"
+   },
+   "heading": {
+    "pt": "Comité de Auditoria"
+   },
+   "text": {
+    "pt": "1.    O Conselho de Administração pode, nos termos da alínea\nt) do artigo 46.º, nomear um Comité de Auditoria.\n2.   Os membros deste Comité não incluem o Governador, os Vice-Governadores, nem funcionários ou agentes do Banco.\n3.   Cabe ao Comité de Auditoria:\na)   Supervisionar as actividades de auditoria interna;\nb)   Recomendar a nomeação de auditores externos e o âmbito das auditorias externas e outros serviços;\nc)   Avaliar com auditores externos as demonstrações financeiras do final do ano;\n4.   O Conselho de Administração define as responsabilidades, termos e condições do Comité de Auditoria.\n5.   O Comité de Auditoria reporta periodicamente ao Conselho de Administração.\n6.   O Comité de Auditoria regula o seu funcionamento, nos termos das orientações fixadas pelo Conselho de Administração e do disposto na presente lei."
+   }
+  },
+  {
+   "id": "TL-H105-A64",
+   "no": 64,
+   "noLabel": {
+    "pt": "Artigo 64.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO X DEMONSTRAÇÕES FINANCEIRAS, RELATÓRIOS, AUDITORIAS E ORÇAMENTO / SECÇÃO II AUDITORIAS E ORÇAMENTO SUBSECCÇÃO  I AUDITORIA INTERNA / SUBSECÇÃO II AUDITORIAS  EXTERNA"
+   },
+   "heading": {
+    "pt": "Orçamento"
+   },
+   "text": {
+    "pt": "1.   O Banco prepara o seu orçamento anual, de modo a ser aprovado pelo Conselho de Administração antes do início de cada ano financeiro.\n2.   O orçamento aprovado deve ser comunicado ao Primeiro- Ministro e ao Ministro das Finanças.\n3.   O orçamento anual engloba todas as receitas e rendimentos previstos, incluindo os que se espera virem a ser gerados e os que se prevê que sejam colocados à sua disposição, qualquer que seja a sua fonte, bem como todas as despesas previstas, incluindo depreciações e provisões."
+   }
+  },
+  {
+   "id": "TL-H105-A65",
+   "no": 65,
+   "noLabel": {
+    "pt": "Artigo 65.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISPOSIÇÕES COMPLEMENTARES"
+   },
+   "heading": {
+    "pt": "Regulamentos e Ordens"
+   },
+   "text": {
+    "pt": "1.   O Banco tem poder regulamentar, no âmbito das suas atribuições e para a prossecução das suas funções, nos termos da lei.\n2.   Os regulamentos aplicáveis a mais do que uma instituição são emitidos sob a forma de instruções ou circulares.\n3.  O Banco pode emitir ordens vinculativas para uma só instituição.\n4.   As instruções, circulares e ordens emitidas pelo Banco vinculam as instituições a que se dirijam."
+   }
+  },
+  {
+   "id": "TL-H105-A66",
+   "no": 66,
+   "noLabel": {
+    "pt": "Artigo 66.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISPOSIÇÕES COMPLEMENTARES"
+   },
+   "heading": {
+    "pt": "Publicação dos Regulamentos"
+   },
+   "text": {
+    "pt": "1.   As instruções e circulares emitidas pelo Banco são publicadas no Jornal da República.\n2.   O Banco decide sobre a publicação de ordens.\n3.   O Banco deve manter um registo público das instruções, circulares e ordens publicadas."
+   }
+  },
+  {
+   "id": "TL-H105-A67",
+   "no": 67,
+   "noLabel": {
+    "pt": "Artigo 67.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISPOSIÇÕES COMPLEMENTARES"
+   },
+   "heading": {
+    "pt": "Sanções Administrativas"
+   },
+   "text": {
+    "pt": "1.   O Banco pode aplicar sanções administrativas às pessoas singulares e colectivas que violem o disposto na presente lei ou em legislação ou regulamento aplicáveis.\n2.    As sanções administrativas incluem coimas e outras medidas administrativas, tais como advertências ou ordens escritas, suspensão e demissão de administradores de instituições financeiras supervisionadas, revogação de licença e outras medidas, tal como especificado por lei.\n3.   As coimas podem ser impostas pelo Banco, num montante máximo de até 200 por cento do valor de referência da transacção ou instrumento financeiro por infracção, excepto quando a lei disponha em contrário.\n4.   As coimas referidas nos números anteriores podem ser impostas diariamente por cada dia em que se verifique a infracção até que cesse a conduta.\n5.   O Banco notifica a pessoa individual ou colectiva, expondo os factos e fundamentos da imposição da sanção administrativa e garantindo o contraditório.\n6.   O Banco não fica obrigado ao previsto no número anterior relativamente às sanções mencionadas no n.º 3 do artigo\n15.º e no n.º 2 do artigo 31.º da presente lei.\n7.   O regime das contra-ordenações é determinado por regulamento.\n8.   A aplicação de quaisquer sanções administrativas tem em consideração:\na)   A gravidade da infracção;\nb)   Se é uma infracção reiterada;\nc)   Se os depositantes ou terceiros sofreram danos;\nd)   Se a pessoa a ser penalizada irá beneficiar da conduta em curso e  os recursos financeiros de cada pessoa;\ne)   Quaisquer circunstâncias atenuantes;\nf)   Outros factores que pela sua relevância o Banco considere atendíveis.\n9.   A aplicação de sanções administrativas nos termos do disposto na presente lei não preclude a responsabilidade civil ou criminal."
+   }
+  },
+  {
+   "id": "TL-H105-A68",
+   "no": 68,
+   "noLabel": {
+    "pt": "Artigo 68.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISPOSIÇÕES COMPLEMENTARES"
+   },
+   "heading": {
+    "pt": "Padrões de boa administração"
+   },
+   "text": {
+    "pt": "1.  O Banco usa os poderes que lhe foram atribuídos com isenção e imparcialidade,  de acordo com as boas práticas administrativas.\n2.   O Banco não serve outros objectivos que não aqueles que lhe foram cometidos, nem actua em medida superior ao necessário para os atingir.\n3.   As decisões do Banco devem ser imparciais e fundadas em considerações  objectivas e racionais, devendo ser executadas com justiça e rigor."
+   }
+  },
+  {
+   "id": "TL-H105-A69",
+   "no": 69,
+   "noLabel": {
+    "pt": "Artigo 69.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISPOSIÇÕES COMPLEMENTARES"
+   },
+   "heading": {
+    "pt": "Conflito de interesses e dever fiduciário"
+   },
+   "text": {
+    "pt": "1.   Os membros do Conselho de Administração e funcionários devem evitar situações que originem conflitos de interesses.\n2.   Para os efeitos do disposto na presente lei, constitui conflito de interesse, designadamente, a circunstância em que um membro do Conselho de Administração ou funcionários tenha interesses de natureza privada ou pessoal que possam influenciar ou aparentar influenciar o desempenho imparcial e objectivo das suas funções.\n3.    Entende-se por interesses privados ou pessoais de membros do Conselho de Administração ou dos funcionários as potenciais vantagens para eles próprios, para as suas famílias, para os seus parentes até ao segundo grau, ou para o seu círculo de amigos e conhecidos.\n4.   Nenhum membro do Conselho de Administração ou funcionário e agente pode receber ou aceitar de qualquer fonte benefícios, recompensas, remuneração ou ofertas que excedam os usos sociais ou um valor insignificante, seja ela ou não financeira, que estejam ligadas de qualquer forma às suas actividades no Banco.\n5.   A infracção do número anterior por funcionários constitui infracção grave, podendo ser fundamento para demissão sem compensação.\n6.   Os membros do Conselho de Administração e os funcionários e agentes não podem usar a informação confidencial a que têm acesso, directa ou indirectamente para obter vantagens financeiras para si ou para terceiros.\n7.   Os membros do Conselho de Administração devem, em cada ano, até ao último dia do mês de Janeiro, declarar ao Primeiro-Ministro todos os seus interesses financeiros significativos, bem como os daqueles com quem tenham laços de família ou negócios ou interesses financeiros, directa ou indirectamente, devendo essa declaração cumprir as normas internas adoptadas pelo Conselho de Administração.\n8.   Sempre que qualquer assunto relacionado com um interesse financeiro referido no número anterior seja apresentado por um dos membros do Conselho de Administração, o membro em questão comunica o seu interesse no início da discussão desse assunto e não participa na discussão e deliberação respectiva, sendo a sua presença tomada em conta para efeito de quórum.\n9.   Os membros do Conselho de Administração e os funcionários do Banco têm o dever fiduciário para com o Banco e para com os clientes deste de colocar os interesses do Banco e os interesses dos seus clientes antes dos seus próprios interesses pecuniários.\n10. O Conselho de Administração aprova os regulamentos para assegurar o cumprimento do previsto nos números anteriores."
+   }
+  },
+  {
+   "id": "TL-H105-A70",
+   "no": 70,
+   "noLabel": {
+    "pt": "Artigo 70.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISPOSIÇÕES COMPLEMENTARES"
+   },
+   "heading": {
+    "pt": "Tarifas e encargos"
+   },
+   "text": {
+    "pt": "O Banco pode cobrar taxas pelos serviços prestados, para cobrir os seus custos, devendo publicá-los na sua página de Internet e por outros meios que entenda convenientes."
+   }
+  },
+  {
+   "id": "TL-H105-A71",
+   "no": 71,
+   "noLabel": {
+    "pt": "Artigo 71.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISPOSIÇÕES COMPLEMENTARES"
+   },
+   "heading": {
+    "pt": "Condutas proibidas"
+   },
+   "text": {
+    "pt": "1.   Excepto quando autorizado por lei, o Banco não pode:\na)  Conceder qualquer crédito ou fazer qualquer oferta monetária ou financeira, ainda que seja de valor insignificante;\nb)   Envolver-se em comércio, compra de acções de qualquer empresa, incluindo participações no capital social em qualquer instituição financeira, ou, em geral, ter qualquer interesse como proprietário em qualquer empresa financeira, comercial, agrícola, industrial ou de outro tipo;\nc)   Adquirir, por qualquer forma, quaisquer direitos reais sobre bens imóveis, excepto se tal for considerado necessário ou útil para obter instalações para a sua administração e a realização das suas operações ou, em geral, para o desempenho das suas funções.\n2.   Sem prejuízo do referido nas alíneas anteriores, o Banco pode:\na)   Fazer empréstimos garantidos ou ter participação societária ou participar de outro modo em qualquer organização envolvida em actividades necessárias ou úteis para o devido cumprimento das funções ou responsabilidades do Banco;\nb)   Adquirir, no curso da quitação das dívidas para com o Banco, quaisquer interesses ou direitos referidos na alínea anterior, desde que todos esses interesses ou direitos adquiridos sejam alienados na primeira oportunidade adequada;\nc)   Estabelecer fundos de reforma do pessoal ou acordos semelhantes para o benefício ou protecção dos funcionários.\n3.   Qualquer das actividades mencionadas no n.º 2 é objecto de publicação no relatório referido na alínea b) do n.º 2 do\nartigo 58.º."
+   }
+  },
+  {
+   "id": "TL-H105-A72",
+   "no": 72,
+   "noLabel": {
+    "pt": "Artigo 72.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISPOSIÇÕES COMPLEMENTARES"
+   },
+   "heading": {
+    "pt": "Isenção fiscal"
+   },
+   "text": {
+    "pt": "1.   O Banco goza de imunidade tributária, nos termos da lei fiscal em vigor.\n2.  O Banco está isento de quaisquer outros direitos e contribuições fiscais a que os Ministérios do Governo e outras agências públicas estejam isentos por lei."
+   }
+  },
+  {
+   "id": "TL-H105-A73",
+   "no": 73,
+   "noLabel": {
+    "pt": "Artigo 73.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISPOSIÇÕES COMPLEMENTARES"
+   },
+   "heading": {
+    "pt": "Revisão da lei"
+   },
+   "text": {
+    "pt": "O Banco é ouvido sobre a revisão da presente lei, bem como sobre outras iniciativas legislativas no âmbito das suas atribuições."
+   }
+  },
+  {
+   "id": "TL-H105-A74",
+   "no": 74,
+   "noLabel": {
+    "pt": "Artigo 74.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISPOSIÇÕES COMPLEMENTARES"
+   },
+   "heading": {
+    "pt": "Confidencialidade"
+   },
+   "text": {
+    "pt": "1.  Nenhuma pessoa que seja ou tenha sido membro do Conselho de Administração ou  funcionário deve, excepto quando tal for necessário para o desempenho de uma função ou dever imposto por lei, permitir o acesso, divulgar ou publicar informações que não sejam públicas, e que tenham sido obtidas no desempenho das suas funções, nem usar essas informações ou permitir que sejam usadas para benefício próprio ou de terceiro.\n2.   Sem prejuízo do disposto no número anterior,  as pessoas referidas podem revelar informações não públicas fora do Banco, de acordo com os procedimentos estabelecidos pelo Banco, mas apenas:\na)   Com o consentimento expresso ou tácito da pessoa a quem as informações digam respeito;\nb)   No desempenho de um dever estabelecido por lei de revelar informações, incluindo o de ajudar nos termos da lei ou mediante ordem de um tribunal;\nc)   Aos auditores externos do Banco;\nd)   As autoridades de regulação ou supervisão ou às instituições financeiras internacionais públicas no desempenho dos seus deveres oficiais;\ne)   Se os interesses próprios do Banco em acções legais exigirem a divulgação.\n3.   O Conselho de Administração determina a classificação e a acessibilidade dos documentos detidos ou elaborados pelo Banco."
+   }
+  },
+  {
+   "id": "TL-H105-A75",
+   "no": 75,
+   "noLabel": {
+    "pt": "Artigo 75.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISPOSIÇÕES COMPLEMENTARES"
+   },
+   "heading": {
+    "pt": "Privilégio creditório"
+   },
+   "text": {
+    "pt": "1.  O Banco dispõe de privilégio creditório, por quaisquer créditos resultantes do desempenho das suas funções, sobre saldos monetários, valores mobiliários ou quaisquer outros activos que o Banco detenha por conta do devedor, a título de garantia ou a qualquer outro título, no momento em que o crédito se torna exigível.\n2.   O Banco pode exercer o seu direito preferencial ou o seu privilégio creditório pela mera apropriação dos saldos monetários, por meio de compensação e através da venda imediata e a um preço razoável dos valores mobiliários ou dos outros activos detidos, satisfazendo o seu crédito pelo valor realizado, depois de deduzidas as despesas com a venda.\n3.   O direito consagrado no presente artigo é exercido extrajudicialmente, não lhe sendo oponíveis quaisquer execuções ou créditos concorrentes."
+   }
+  },
+  {
+   "id": "TL-H105-A76",
+   "no": 76,
+   "noLabel": {
+    "pt": "Artigo 76.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISPOSIÇÕES COMPLEMENTARES"
+   },
+   "heading": {
+    "pt": "Providências cautelares"
+   },
+   "text": {
+    "pt": "1.   Não pode ser decretada qualquer providência cautelar ou execução, nem ordenado qualquer acto no âmbito de uma destas medidas, contra o Banco ou contra bens do seu património, incluindo ouro, direitos especiais de saque, moeda, créditos, depósitos ou valores mobiliários e qualquer rendimento subsequente, antes de proferida decisão final respeitante a acção judicial proposta nos tribunais de Timor-Leste.\n2.   O Banco pode, no todo ou em parte, renunciar, por escrito, a esta protecção, excepto em relação ao ouro e aos direitos de saque especiais de que seja detentor."
+   }
+  },
+  {
+   "id": "TL-H105-A77",
+   "no": 77,
+   "noLabel": {
+    "pt": "Artigo 77.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISPOSIÇÕES COMPLEMENTARES"
+   },
+   "heading": {
+    "pt": "Arbitragem"
+   },
+   "text": {
+    "pt": "Em qualquer acção de arbitragem contra o Banco, contra um membro do Conselho de Administração ou qualquer funcionário, ou contra agentes do Banco no cumprimento dos seus deveres para com o Banco:\na)   O tribunal de arbitragem, na determinação da sua decisão, deve considerar se o requerido agiu de má-fé ou se o requerido agiu de forma arbitrária à luz dos factos e da lei e regulamentos relevantes;\nb)   Um membro do Conselho de Administração, um funcionário, ou agente do Banco, incluindo uma pessoa que tenha detido anteriormente tal posição, não é responsável pelos danos, causados pelos seus actos ou omissões, realizados durante e após o desempenho das suas funções, excepto se tiver agido de má-fé;\nc)  A acção prossegue durante o período de recurso e de qualquer outra acção judicial relativa ao recurso;\nd)   O Tribunal Arbitral, quando tal se justifique, pode atribuir compensações monetárias às partes afectadas, sem prejuízo das anteriores decisões do Banco sobre a matéria."
+   }
+  },
+  {
+   "id": "TL-H105-A78",
+   "no": 78,
+   "noLabel": {
+    "pt": "Artigo 78.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XI DISPOSIÇÕES COMPLEMENTARES"
+   },
+   "heading": {
+    "pt": "Compensação por custos legais"
+   },
+   "text": {
+    "pt": "O Banco deve compensar um membro do Conselho de Administração ou funcionário, ou agente do Banco, pelas custas judiciais suportadas em acções judiciais contra essa pessoa no âmbito do desempenho ou suposto desempenho de funções oficiais ou dentro do âmbito do seu emprego ou ocupação abrangido pela presente lei, desde que essa pessoa não tenha sido condenada por crime cometido nesse âmbito."
+   }
+  },
+  {
+   "id": "TL-H105-A79",
+   "no": 79,
+   "noLabel": {
+    "pt": "Artigo 79.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XII DISPOSIÇÕES FINAIS E TRANSITÓRIAS / SECÇÃO I DISPOSIÇÕES TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Notas e moedas"
+   },
+   "text": {
+    "pt": "1.    Até à definição de um regime monetário próprio, nos termos da Constituição da República, o dólar norte-americano é a unidade monetária de Timor-Leste e o Banco:\na)   Não pode emitir notas, tendo, no entanto, o direito exclusivo para emitir moedas que têm curso legal em Timor-Leste;\nb)   Troca as moedas de centavos por dólares dos Estados Unidos, e dólares dos Estados Unidos por moedas de centavos, à taxa de cem centavos por cada dólar dos Estados Unidos;\nc)   Determina através de regulamentos o valor de face e as características das moedas de centavos;\nd)   Providencia a cunhagem dos centavos, a aquisição da unidade monetária estrangeira, e a segurança e armazenamento em cofres das notas de banco e moedas detidas pelo Banco;\ne)   Providencia a custódia e destruição, quando necessário, de centavos e cunhos;\nf)   Providencia a custódia e repatriação de notas e moedas da unidade monetária estrangeira;\ng)   Pode cobrar comissões na troca de notas e moedas da unidade monetária estrangeira;\nh)   Pode recusar a troca de notas ou moedas se as mesmas estiverem ilegíveis, deformadas ou perfuradas, ou  se tiver desaparecido mais de 40 por cento da sua superfície, sendo essas notas de banco ou moedas retiradas sem indemnização ao proprietário das mesmas, excepto se o Banco conceder total ou parcial compensação;\n(i)   Não efectua a compensação por notas ou moedas que foram perdidas, roubadas ou destruídas e poderá confiscar sem compensação as notas que foram alteradas na sua aparência exterior, incluindo em particular notas que se verifiquem escritas, pintadas, sobreimpressas, estampadas, que tenham sido perfuradas ou às quais tenham sido colocados adesivos;\nj)   Administra directamente o inventário de reservas de unidades monetárias, realiza planos de emissão, e assegura o fornecimento regular de notas e moedas, de forma a satisfazer as necessidades de circulação monetária da economia.\n2.   As notas e as moedas da unidade monetária de Timor- Leste, e as moedas de centavos não retiradas de circulação pelo Banco, têm curso legal pelo valor da sua face para o pagamento de dívidas públicas e privadas.\n3.   As moedas que têm curso legal devem ser aceites, pelo seu valor de face, no pagamento de todas as dividas públicas e privadas de Timor-Leste.\n4.   Até à aprovação do Código Fiscal, o Banco está isento de quaisquer impostos sobre os seus rendimentos e direitos, impostos indirectos e outros impostos sobre a compra e importação de moeda."
+   }
+  },
+  {
+   "id": "TL-H105-A80",
+   "no": 80,
+   "noLabel": {
+    "pt": "Artigo 80.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO XII DISPOSIÇÕES FINAIS E TRANSITÓRIAS / SECÇÃO I DISPOSIÇÕES TRANSITÓRIAS"
+   },
+   "heading": {
+    "pt": "Nomeação e Mandato inicial dos membros do Conselho de Administração"
+   },
+   "text": {
+    "pt": "1.    Após a entrada em vigor da presente lei, são nomeados os membros do Conselho de Administração do Banco, nos termos do artigo 48.º.\n2.   Sem prejuízo do disposto no número anterior, o mandato inicial tem a seguinte duração:\na)   Para o Governador, seis anos;\nb)   Para um dos Vice-Governadores, cinco anos;\nc)   Para o outro Vice-Governador, quatro anos;\nd)   Para os membros não executivos, um, três, cinco e seis anos respectivamente.\n3.   A nomeação do Governador é feita após consulta ao Conselho de Administração da Autoridade Bancária e de Pagamentos e a nomeação dos outros membros do Conselho de Administração,  é realizada sob proposta não vinculativa do Conselho de Administração da Autoridade Bancária e de Pagamentos."
+   }
+  }
+ ]
+}

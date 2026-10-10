@@ -1,0 +1,74 @@
+{
+ "id": "KH-H163",
+ "title": {
+  "zh": "法律",
+  "en": "Supplementary Provision to the Law on Audit",
+  "orig": "ច្បាប់បន្ថែមទៅលើ ច្បាប់ស្តីពីសវនកម្មនៃព្រះរាជាណាចក្រកម្ពុជា"
+ },
+ "country": "KH",
+ "countryName": "柬埔寨",
+ "layer": "intl",
+ "pack": "kh-p02",
+ "language": "km",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2000-11-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "royal_palace",
+ "docNumber": "នស/រកម/១១០០/១១",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 693,
+ "source": {
+  "name": "Open Development Cambodia 法规数据库（data.opendevelopmentcambodia.net，非 .gov.kh 官方域名，属第三方聚合平台）",
+  "url": "https://data.opendevelopmentcambodia.net/en/dataset/law-on-supplementary-law-of-law-on-audit"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；系由官方 PDF 扫描件经 Tesseract 5.4（khm，tessdata_best）光学字符识别后按「មាត្រា／ប្រការ N」体例切分，原文语言：高棉语（km）。 ★ 本部正文为**机器识别结果，未经逐字人工校勘**，可能存在字符误识、漏识或分行错位；不得视为与官方原件逐字一致。具法律效力者以官方原件为准，来源见 sourceUrl（https://data.opendevelopmentcambodia.net/en/dataset/law-on-supplementary-law-of-law-on-audit）。 未改写、未摘译、未节选、未补号；OCR 未能识别的区域不写入。 识别结果中条号不连续（自第 1 条起，止于第 40 条，缺 3、4、5、6、7、8、9、10、11、12、13、14、15、16、17、18、19、20、21、22、23、24、25、26、27、28、29、30、31、32、33、34、35、36、37、38、39）：可能为原件本身跳号，亦可能为 OCR 漏识，未擅自补号。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": [
+  "https://data.opendevelopmentcambodia.net/en/dataset/law-on-supplementary-law-of-law-on-audit"
+ ],
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "KH-H163-A1",
+   "no": 1,
+   "noLabel": {
+    "km": "មាត្រា ១"
+   },
+   "text": {
+    "km": "- ត្រូវជានបំពេញបន្ថែមជាមាត្រា ៤០ ក្នុងជំពូកទី ៨ នៃច្បាប់ស្តីពីសវនកម្មនៃព្រ៖រាជាណាចក្រកម្ពុជាដែលប្រកាសឱ្យប្រើ ដោយព្រ៖រាជក្រមលេខ ជស/រកម/០៣00/១០ ថុះថ្ងៃទី០៣ ខែមីនា ឆ្នាំ២000 ដូចតទៅ :"
+   }
+  },
+  {
+   "id": "KH-H163-A40",
+   "no": 40,
+   "noLabel": {
+    "km": "មាត្រា ៤០"
+   },
+   "text": {
+    "km": ". ក្នុងករណីចាំបាច់ តាមសំណើរបស់គណៈកម្មាធិការអចិន្ត្រៃយ៍នៃរដ្ឋសភា រដ្ឋសភាអាចសម្រេចបង្កើត គណៈកម្មការពិសេស ដើម្បីពិនិត្យមើលឡើងវិញនូវសកម្មភាព និងកិច្ចប្រតិបត្តិការរបស់អាជ្ញាធរសវនកម្មជាតិ ។"
+   }
+  },
+  {
+   "id": "KH-H163-A2",
+   "no": 2,
+   "noLabel": {
+    "km": "មាត្រា ២"
+   },
+   "text": {
+    "km": "- ច្បាប់នេះត្រូវបានប្រកាសជាការប្រញាប់ ។\nរាជធានីភ្នំពេញ, ថ្ងៃទី ២៤ ខែ វិច្ឆិកា ឆ្នាំ២០00 ព្រះហស្តលេខា នរោត្តម សីហនុ បានបង្គំទូលថ្វាយ សូមឡាយព្រះហស្តលេខាព្រះមហាក្សត្រ នាយករដ្ឋមន្ត្រី ហត្ថលេខា              .\nហ៊ុន សែន បានជំរាបជូនសម្តេចនាយករដ្ឋមន្ត្រី ទេសះជ្ជមន្ត្រី និងជារដ្ឋបន្ត្រីក្រសួងរសេដ្ជកិច្ច និងហិរញ្ញវត្ថុ ហត្ថលេខា គាត ឈន់\n២១០៤"
+   }
+  }
+ ]
+}

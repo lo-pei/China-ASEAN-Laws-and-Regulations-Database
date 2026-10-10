@@ -1,0 +1,78 @@
+{
+ "id": "SG-H113",
+ "title": {
+  "zh": null,
+  "en": "Active Mobility (Shared Paths — Temporary Discontinuation) (Trifactor Triathlon & Duathlon) Order 2026",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p02",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation AMA2017-S593-2026",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 343,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/AMA2017-S593-2026?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H113-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Order is the Active Mobility (Shared Paths — Temporary Discontinuation) (Trifactor Triathlon & Duathlon) Order 2026."
+   }
+  },
+  {
+   "id": "SG-H113-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Temporary discontinuation"
+   },
+   "text": {
+    "en": "2. The shared paths delineated by the black‑coloured line in the map set out in the Schedule are temporarily discontinued as shared paths from 6 a.m. to 12 noon on 13 September 2026."
+   }
+  },
+  {
+   "id": "SG-H113-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nParagraph 2\nShared paths"
+   }
+  }
+ ]
+}

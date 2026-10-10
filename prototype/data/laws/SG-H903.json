@@ -1,0 +1,724 @@
+{
+ "id": "SG-H903",
+ "title": {
+  "zh": null,
+  "en": "COVID-19 (Temporary Measures) (Valuation Review Panel) Regulations 2020",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p12",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation COVID19TMA2020-S553-2020",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 43,
+ "chars": 47864,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/COVID19TMA2020-S553-2020?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 43 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H903-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the COVID-19 (Temporary Measures) (Valuation Review Panel) Regulations 2020 and come into operation on 15 July 2020."
+   }
+  },
+  {
+   "id": "SG-H903-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“additional rental relief” and “rental relief” have the meanings given by regulation 2(1) of the PTR Regulations;\n[S 1020/2020 wef 19/12/2020]\n“Applicant” means the owner or tenant (as the case may be) who lodges an Application;\n“Application” means an Application lodged under regulation 6;\n“Authority” means the Inland Revenue Authority of Singapore established under the Inland Revenue Authority of Singapore Act (Cap. 138A);\n[S 1020/2020 wef 19/12/2020]\n“benefit”, in relation to any property, means the reduction in property tax on the property under one or more remissions relating to the property;\n“Board” means the Valuation Review Board appointed under Part IV of the Property Tax Act (Cap. 254);\n“Chairman” means the Chairman of the Board appointed under section 23(5) of the Property Tax Act;\n“Comptroller” means the Comptroller of Property Tax appointed under section 3(1) of the Property Tax Act (Cap. 254);\n[S 1020/2020 wef 19/12/2020]\n“Deputy Chairman” means a Deputy Chairman of the Board appointed under section 23(5) of the Property Tax Act;\n“legal representative” means an advocate and solicitor named in the register of practitioners and having in force a practising certificate issued under the Legal Profession Act (Cap. 161);\n“MOF website” means the website at http://www.mof.gov.sg or any other online location specified on that website for the purposes of these Regulations;\n“Panel” means the Valuation Review Panel appointed under section 30(2) of the Act to hear and determine any dispute under an Application;\n“party” means either the Applicant or the Respondent, as the case may be;\n“presiding member” means —\n(a)for a Panel comprising a single member, that member; and\n(b)for a Panel comprising 3 members, the member mentioned in regulation 4(3)(a) as the member to preside;\n“PTO” and “PTO chain” have the meanings given by section 19B(1) of the Act;\n[S 1020/2020 wef 19/12/2020]\n“PTR Regulations” means the COVID‑19 (Temporary Measures) (Transfer of Benefit of Property Tax Remission) Regulations 2020 (G.N. No. S 375/2020);\n[S 1020/2020 wef 19/12/2020]\n“remission” means any prescribed remission mentioned in section 29 of the Act;\n“Reply” means a reply to a Response;\n“Respondent” means the owner or tenant (as the case may be) against whom an Application is lodged;\n“Response” means a response to an Application;\n“Secretary” means the Secretary appointed under regulation 3."
+   }
+  },
+  {
+   "id": "SG-H903-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 APPOINTMENT OF SECRETARY AND VALUATION REVIEW PANEL"
+   },
+   "heading": {
+    "en": "Secretary"
+   },
+   "text": {
+    "en": "3.—(1) The Chairman must appoint a Secretary to —\n(a)provide administrative and secretarial support to a Panel appointed to hear and determine any dispute under an Application; and\n(b)attend at any hearing held by the Panel for the purposes of determining the dispute.\n(2) The Secretary must be —\n(a)a public officer; or\n(b)a secretary appointed to the Board under section 25 of the Property Tax Act.\n(3) The Chairman may appoint one or more other public officers as deputy secretaries to assist the Secretary in carrying out the responsibilities of the Secretary."
+   }
+  },
+  {
+   "id": "SG-H903-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 APPOINTMENT OF SECRETARY AND VALUATION REVIEW PANEL"
+   },
+   "heading": {
+    "en": "Appointment of Panel"
+   },
+   "text": {
+    "en": "4.—(1) The Chairman must, upon an Application being lodged under regulation 6, appoint a Panel under section 30(2) of the Act to hear and determine any dispute under the Application, comprising —\n(a)a single member of the Board; or\n(b)3 members of the Board.\n(2) Where paragraph (1)(a) applies, the Chairman may, at any time after the appointment of the single member, appoint 2 other members of the Board to the Panel, and the Panel continues as a Panel comprising 3 members from the time of the appointment of the 2 other members.\n(3) Where the Panel comprises 3 members of the Board —\n(a)the Panel is presided by —\n(i)the member nominated by the Chairman to preside; or\n(ii)if so specified by the Chairman, the member nominated by the members of the Panel to preside;\n(b)any application or matter requiring a decision of the Panel before the hearing of any dispute under an Application may be decided by the presiding member; and\n(c)except where sub‑paragraph (b) applies, all matters requiring a decision of the Panel must be determined by a majority of votes by all members of the Panel and, for this purpose, each member has one vote.\n(4) Where any member of a Panel is unable to continue as such through death, illness or any other cause accepted by the Chairman, the Chairman may nominate another member of the Board to the Panel in the firstmentioned member’s place.\n(5) Where paragraph (2) or (4) applies, nothing prevents the Panel from acting on any evidence already recorded, or recalling all or any of the witnesses or taking their evidence afresh, as the Panel thinks appropriate."
+   }
+  },
+  {
+   "id": "SG-H903-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 APPOINTMENT OF SECRETARY AND VALUATION REVIEW PANEL"
+   },
+   "heading": {
+    "en": "Disclosure of interest"
+   },
+   "text": {
+    "en": "5.—(1) Subject to paragraph (2), if a member of a Panel has any direct or indirect interest (whether pecuniary or otherwise) in any dispute under an Application in respect of which the Panel is appointed that results in a conflict of interest or potential conflict of interest, the member —\n(a)must disclose the nature of the interest to the Chairman after the relevant facts have come to the member’s knowledge;\n(b)must abstain from participating in any consideration of, or voting on, any matter relating to the Application; and\n(c)if the Chairman so directs, must withdraw from all proceedings relating to the Application.\n(2) In the event of a withdrawal of a member of the Panel under paragraph (1)(c), the Chairman must nominate another member of the Board to continue in the place of the firstmentioned member.\n(3) A disclosure under paragraph (1) is to be recorded by the Secretary in the records relating to the Application.\n(4) For the purpose of this regulation, an interest of a member’s spouse, parent or step‑parent, sibling or stepsibling, or child, stepchild or adopted child, is regarded as an interest of the member."
+   }
+  },
+  {
+   "id": "SG-H903-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 HEARING AND DETERMINATION OF DISPUTES"
+   },
+   "heading": {
+    "en": "Applications"
+   },
+   "text": {
+    "en": "6.—(1) An owner of property or a tenant of such owner who wishes for a dispute mentioned in section 30(1) of the Act between them to be heard and determined by a Panel must lodge an Application for the same with the Secretary no later than —\n(a)31 December 2021;\n[S 1020/2020 wef 19/12/2020]\n(b)if the Comptroller issues a notice of the rebate amount for the property in the year 2021 for the remission to which the dispute relates and regulation 11A of the PTR Regulations does not apply to the owner, the end of the period of 8 months after the date of the notice, if later than 31 December 2021; or\n[S 1020/2020 wef 19/12/2020]\n(c)if —\n(i)the Comptroller issues a notice of the rebate amount for the property in the year 2021 for the remission to which the dispute relates; and\n(ii)regulation 11A of the PTR Regulations applies to the owner,\nthe last day of the period of 60 days after the time by which the owner is required under that regulation to pass any benefit for the property to the owner’s tenant who is a party to the Application, if later than 31 December 2021.\n[S 1020/2020 wef 19/12/2020]\n(2) The Application must be lodged through the MOF website or in the manner allowed by the Chairman in any particular case.\n(3) The Application must include —\n(a)the name and address of the Applicant, and an electronic mail address and any other particulars necessary to contact the Applicant by electronic mail;\n(b)the name and address of the Respondent;\n(c)the grounds on which the dispute is based, and the arguments of fact or law (or both) on which the Applicant relies to support each ground;\n(d)the desired determination by the Panel appointed for the purposes of the Application, and any supporting evidence for the desired determination; and\n(e)such other particulars as are reasonably sufficient to inform the Respondent of the dispute on which the Application is based,\nand must be accompanied by the appropriate fee specified in the Schedule.\n(4) The Applicant must —\n(a)within 5 working days after the date of lodgment of the Application, serve on the Respondent a copy of the Application; and\n(b)within 2 working days after the date of service of the Application on the Respondent, submit to the Secretary a declaration of the service through the MOF website or in the manner allowed by the Chairman or (if the Panel has been appointed) the Panel in any particular case.\n(5) If the Applicant fails to comply with paragraph (4), the Application is treated as not having been lodged."
+   }
+  },
+  {
+   "id": "SG-H903-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 HEARING AND DETERMINATION OF DISPUTES"
+   },
+   "heading": {
+    "en": "Defective Application"
+   },
+   "text": {
+    "en": "7.—(1) If the Chairman or (if the Panel has been appointed) the Panel considers that an Application —\n(a)is not lodged in accordance with regulation 6; or\n(b)is materially incomplete, unduly prolix or lacking in clarity,\nthe Chairman or the Panel (as the case may be) may order the Applicant to remedy the Application as specified in the order.\n(2) The Applicant must —\n(a)within 2 working days after the date of the order —\n(i)serve on the Respondent notice of the order mentioned in paragraph (1); and\n(ii)submit to the Secretary a declaration of the service of the order on the Respondent through the MOF website or in the manner allowed by the Chairman or (if the Panel has been appointed) the Panel in any particular case;\n(b)within the time specified in the order —\n(i)lodge the remedied Application with the Secretary; and\n(ii)serve on the Respondent a copy of the remedied Application; and\n(c)within 2 working days after the date of the service of the remedied Application on the Respondent, submit to the Secretary a declaration of the service through the MOF website or in the manner allowed by the Chairman or (if the Panel has been appointed) the Panel in any particular case."
+   }
+  },
+  {
+   "id": "SG-H903-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 HEARING AND DETERMINATION OF DISPUTES"
+   },
+   "heading": {
+    "en": "Response"
+   },
+   "text": {
+    "en": "8.—(1) The Respondent must lodge a Response with the Secretary through the MOF website or in the manner allowed by the Panel in any particular case, within 14 working days after being served with —\n(a)a copy of the Application; or\n(b)where regulation 7 applies, a copy of the remedied Application.\n(2) The Response must include —\n(a)the name and address of the Respondent, and an electronic mail address and any other particulars necessary to contact the Respondent by electronic mail;\n(b)the arguments of fact or law (or both) on which the Respondent relies in responding to each ground of a dispute under the Application; and\n(c)any supporting evidence for those arguments of fact or law.\n(3) Subject to regulation 9(2), the Secretary must forward a copy of the Response to the electronic mail address specified by the Applicant under regulation 6(3)(a) at the earliest practicable time, and in any case within 5 working days after the date of lodgment of the Response.\n(4) If the Respondent —\n(a)fails to lodge a Response in the time mentioned in paragraph (1); and\n(b)is unable to provide any satisfactory reason for such failure,\nthe Panel may, in its discretion, proceed to determine any dispute under the Application in accordance with these Regulations without reference to the Respondent, even if the interests of the Respondent may be prejudicially affected by the determination of the Panel.\n(5) If, upon consideration of the Response, the Panel determines that it discloses no valid response to any dispute under the Application, the Panel may determine the dispute in favour of the Applicant, and make any consequential order as the Panel thinks fit.\n(6) Paragraph (5) applies whether or not the Applicant lodges a Reply under regulation 10."
+   }
+  },
+  {
+   "id": "SG-H903-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 HEARING AND DETERMINATION OF DISPUTES"
+   },
+   "heading": {
+    "en": "Defective Response"
+   },
+   "text": {
+    "en": "9.—(1) If the Panel considers that a Response —\n(a)is not lodged in accordance with regulation 8; or\n(b)is materially incomplete, unduly prolix or lacking in clarity,\nthe Panel may order the Respondent to remedy the Response as specified in the order, and notify the Applicant of the order.\n(2) The Panel may, if it considers that the efficient conduct of the proceedings relating to the Application so requires, instruct the Secretary to refrain from forwarding a copy of the Response to the Applicant.\n(3) The Respondent must, within the time specified in the order under paragraph (1), lodge the remedied Response with the Secretary through the MOF website or in the manner allowed by the Panel in any particular case.\n(4) The Secretary must forward a copy of the remedied Response to the electronic mail address specified by the Applicant under regulation 6(3)(a) at the earliest practicable time, and in any case within 5 working days after the date of lodgment of the remedied Response."
+   }
+  },
+  {
+   "id": "SG-H903-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 HEARING AND DETERMINATION OF DISPUTES"
+   },
+   "heading": {
+    "en": "Reply"
+   },
+   "text": {
+    "en": "10.—(1) The Applicant may lodge a Reply with the Secretary through the MOF website or in the manner allowed by the Panel in any particular case, within 7 working days after the date on which the Applicant receives from the Secretary —\n(a)a copy of the Response; or\n(b)where regulation 9 applies, a copy of the remedied Response.\n(2) The Reply must include —\n(a)the arguments of fact or law (or both) on which the Applicant relies in replying to the Response; and\n(b)any supporting evidence for those arguments of fact or law.\n(3) The Secretary must forward a copy of the Reply to the electronic mail address specified by the Respondent under regulation 8(2)(a) at the earliest practicable time, and in any case within 5 working days after the date of lodgment of the Reply.\n(4) If the Applicant does not wish to lodge a Reply, the Applicant may so notify the Secretary and the Respondent before the expiry of the 7 working days mentioned in paragraph (1)."
+   }
+  },
+  {
+   "id": "SG-H903-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 HEARING AND DETERMINATION OF DISPUTES"
+   },
+   "heading": {
+    "en": "Supporting evidence"
+   },
+   "text": {
+    "en": "11. Without limiting regulations 6(3)(d) and 8(2)(c), supporting evidence includes —\n(a)in the case of a tenant —\n(i)the lease or licence agreement entered into with the owner in relation to the subject property;\n(ii)evidence of the amount of the benefit received from the owner in relation to the subject property; and\n(iii)correspondence with the owner concerning the benefit passed or to be passed in relation to the subject property, including any information obtained from the owner under regulation 12 of the COVID‑19 (Temporary Measures) (Transfer of Benefit of Property Tax Remission) Regulations 2020 (G.N. No. S 375/2020); and\n(b)in the case of an owner —\n(i)evidence of the amount of property tax remitted in relation to the subject property, including a copy of the notice from the Comptroller of the rebate amount for the subject property;\n[S 1020/2020 wef 19/12/2020]\n(ii)any computation used to derive the amount of the benefit passed or to be passed to the tenant in relation to the subject property;\n(iii)evidence of the amount of the benefit passed to the tenant in relation to the subject property;\n(iv)evidence that the owner has complied with the requirements of the Act;\n(v)correspondence with the tenant concerning the benefit passed or to be passed in relation to the subject property;\n[S 1020/2020 wef 19/12/2020]\n(vi)where relevant, evidence of the receipt of the benefit by other tenants to whom the owner has passed the benefit in relation to the subject property and the amount of the benefit so passed;\n[S 1020/2020 wef 19/12/2020]\n(vii)where relevant, a statement as to whether the Authority has issued a notice of cash grant under section 19F(1) of the Act for the subject property;\n[S 1020/2020 wef 19/12/2020]\n(viii)if the Authority has issued a notice of cash grant for the subject property —\n(A)a copy of the notice of cash grant;\n(B)a statement as to whether an earlier or a later tenant of the subject property in the year 2020 is a PTO or a tenant in a PTO chain of the subject property; and\n(C)if an earlier or a later tenant of the subject property in the year 2020 is a PTO or a tenant in a PTO chain of the subject property — evidence of the amount of rental relief, additional rental relief or both of the tenant for the subject property;\n[S 1020/2020 wef 19/12/2020]\n(ix)where relevant, a statement as to whether an application has been made under section 19M(2) of the Act to appoint a rental relief assessor to make a determination in relation to the subject property or a landlord or tenant of the subject property and (if a determination has been made), as to the determination made;\n[S 1020/2020 wef 19/12/2020]\n(x)where relevant, if the Authority has not issued a notice of cash grant for the subject property and the owner has made a request to the Authority for such notice, a statement of that fact; and\n[S 1020/2020 wef 19/12/2020]\n(xi)evidence of the amount and extent of the benefit that the owner has passed or has agreed to pass to an earlier or a later tenant of the subject property (if any), and by reason of which the owner is exempt from section 29(2) of the Act under regulation 13(1) or (2) of the PTR Regulations in relation to the earlier or later tenant.\n[S 1020/2020 wef 19/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H903-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 HEARING AND DETERMINATION OF DISPUTES"
+   },
+   "heading": {
+    "en": "Amendment of Application, Response or Reply"
+   },
+   "text": {
+    "en": "12.—(1) A party may not amend any Application, Response or Reply lodged by the party, except with the permission of the Panel.\n(2) Subject to paragraph (3), the Panel may, if it is satisfied that it is just to do so, permit the Application, Response or Reply to be amended on any condition and in the manner the Panel thinks fit.\n(3) The Panel must not permit any Application to be amended to add a new ground for any dispute under the Application, or any Response to be amended to add a new ground of response, unless the Panel is satisfied that —\n(a)the ground is based on any matter of fact or law (or both) which came to light after the Application or Response was lodged;\n(b)it was not practicable to include the ground in the Application or Response at the time the Application or Response was lodged; or\n(c)there are exceptional circumstances for doing so.\n(4) Where the Panel permits an Application, a Response or a Reply to be amended, the Panel may do so on any condition, and may make any order it thinks fit, including —\n(a)where the Panel permits an Application to be amended —\n(i)an order extending the time for lodging the Response to the Application; or\n(ii)if the Response has already been lodged, an order for the lodging of an amendment to the Response;\n(b)where the Panel permits a Response to be amended —\n(i)an order extending the time for lodging the Reply to the Response; or\n(ii)if the Reply has already been lodged, an order for the lodging of an amendment to the Reply; and\n(c)any order as to costs."
+   }
+  },
+  {
+   "id": "SG-H903-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 HEARING AND DETERMINATION OF DISPUTES"
+   },
+   "heading": {
+    "en": "Withdrawal of Application"
+   },
+   "text": {
+    "en": "13.—(1) An Applicant may, with the permission of the Panel, withdraw an Application.\n(2) Where the Panel permits an Application to be withdrawn, the Panel may do so on any condition, and may make any order the Panel thinks fit, including an order for the Applicant to pay the costs of the Respondent incurred up to the time the Application is withdrawn."
+   }
+  },
+  {
+   "id": "SG-H903-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 HEARING AND DETERMINATION OF DISPUTES"
+   },
+   "heading": {
+    "en": "Case management"
+   },
+   "text": {
+    "en": "14.—(1) The Panel may, at any time after an Application is lodged, make any other order the Panel thinks fit for the just, expeditious and economical determination of any dispute under the Application.\n(2) The orders that the Panel may make under paragraph (1) include one or more of the following:\n(a)where there are 2 or more Applications lodged by the same Applicant or different Applicants against the same Respondent, and no joinder has been ordered under regulation 15, an order that —\n(i)the Applications be determined separately;\n(ii)the Applications be determined one after the other by the Panel; or\n(iii)the proceedings relating to any of the Applications be stayed until the determination of any dispute under any of the other Applications;\n(b)where it is contended that any dispute under the Application is not within section 30(1) of the Act, an order —\n(i)dismissing the Application or the Application to the extent of the dispute; or\n(ii)setting down the contention to be heard together with the dispute;\n(c)an order as to the mode of submission of any document or material to the Panel which the Panel requires, and the mode of service or exchange of any such document or material on any party or between the parties, for the purpose of enabling the Panel to determine any dispute under the Application, whether or not by way of a hearing;\n(d)an order as to the manner in which any dispute under the Application is to be determined including (if the dispute is to be determined through a hearing) by conducting the hearing using any remote communication technology.\n(3) For the purpose of making any order mentioned in paragraph (1), the Panel may conduct a case management conference with the parties, through such means (including any remote communication technology) that the Panel considers proper.\n(4) The Panel may from time to time adjourn the case management conference on such conditions as the Panel thinks just.\n(5) Where any party fails to comply with any order made under paragraph (1), the Panel may —\n(a)for a failure of the Applicant, dismiss the Application or any part of the Application;\n(b)for a failure of the Respondent, strike out the Response or any part of the Response;\n(c)draw any inference from the failure and proceed with the hearing or determination of any dispute under the Application; or\n(d)make any other order as the Panel thinks fit."
+   }
+  },
+  {
+   "id": "SG-H903-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 HEARING AND DETERMINATION OF DISPUTES"
+   },
+   "heading": {
+    "en": "Joinder of parties"
+   },
+   "text": {
+    "en": "15. The Panel may allow a joinder of parties and order that 2 or more Applications be heard together, if —\n(a)it appears to the Panel that —\n(i)doing so is convenient;\n(ii)a common question of law or fact (or both) arises in all the Applications; or\n(iii)the Applications are in respect of the same property or properties in the same development; and\n(b)the joinder does not prejudice any party to any of those Applications."
+   }
+  },
+  {
+   "id": "SG-H903-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 HEARING AND DETERMINATION OF DISPUTES"
+   },
+   "heading": {
+    "en": "Summoning of witnesses"
+   },
+   "text": {
+    "en": "16.—(1) Subject to paragraphs (2) and (3), the Panel may at any time, on the application of a party or on its own initiative, issue a summons requiring any person in Singapore to do either or both of the following:\n(a)attend as a witness before the Panel at the time and place set out in the summons;\n(b)answer any question or produce any document or other material in the person’s possession or under the person’s control, which relates to any issue or matter in question in relation to the Application.\n(2) An application by a party under paragraph (1) must be made to the Secretary stating —\n(a)the name and address of the witness to be called, as well as the particulars necessary to contact the witness by electronic means; and\n(b)either or both of the following, as the case may be:\n(i)the facts upon which the witness is to be examined and the reasons for the examination;\n(ii)the facts for which the document or other material is required to be produced by the witness and the reasons for their production.\n(3) A person is not required to attend in compliance with a summons under this regulation unless the person has been served personally, or by substituted service in accordance with regulation 31(4), with the summons requiring the person to attend before the Panel.\n(4) The Panel may include, as part of an award of costs under section 30(6)(c) of the Act, any reasonable expenses necessarily incurred by a witness in attending before the Panel under this regulation."
+   }
+  },
+  {
+   "id": "SG-H903-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 HEARING AND DETERMINATION OF DISPUTES"
+   },
+   "heading": {
+    "en": "Order for discovery and production of documents"
+   },
+   "text": {
+    "en": "17.—(1) The Panel may at any time, on the application of a party or on its own initiative, order the discovery of and production by any person (whether or not a party) of any document or other material, if the Panel is of the opinion that the order is necessary for the fair determination of any dispute under an Application or for saving costs.\n(2) Where any privilege is claimed, or any objection is made, by any party in relation to the production of any document or other material, the Panel may, if the Panel thinks fit —\n(a)inspect the document or other material for the purpose of determining whether the claim of privilege or the objection made is valid; and\n(b)order the production of the document or other material, including by any electronic means specified by the Panel, unless the Panel upholds the claim of privilege or the objection.\n(3) Where, in connection with any Application, any party fails to comply with this regulation, or with any order made by the Panel to give discovery of any document or other material or to produce any document or other material, the Panel may make any order the Panel thinks fit, including an order that any dispute under the Application be dismissed or the Response or any part of the Response be struck out, as the case may be.\n(4) Except with the leave of the Panel, no other document or material may be submitted in connection with the Application."
+   }
+  },
+  {
+   "id": "SG-H903-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 HEARING AND DETERMINATION OF DISPUTES"
+   },
+   "heading": {
+    "en": "Requests for confidential treatment"
+   },
+   "text": {
+    "en": "18.—(1) A request for the confidential treatment of a document, part of a document, or information, submitted in connection with any Application must —\n(a)be made to the Panel hearing any dispute under the Application in writing by the person who submitted the document or information, when submitting the document or information;\n(b)where the request relates to part of a document, state the relevant words, figures or passages for which confidentiality is claimed; and\n(c)contain the reasons for the request for withholding the document or information from any party to the Application and, where the request relates to part of a document, the reasons specific to each such part.\n(2) The person making the request must also submit to the Panel, if the person considers it possible to summarise or redact the material in the document, part of the document, or information, a non‑confidential version of the document, part of the document or information (as the case may be) in a form that can be given to any party to the Application.\n(3) A request for confidential treatment must not be considered if the request does not comply with paragraph (1), unless the Panel considers that the circumstances are exceptional.\n(4) The Panel may grant the confidential treatment requested on any condition the Panel thinks fit (including changes to the summary or redacting of material in any non‑confidential version under paragraph (2)), if the Panel is satisfied that the document, part of the document, or information contains, or is, in the Panel’s opinion —\n(a)information the disclosure of which would be contrary to the public interest;\n(b)commercial information the disclosure of which may significantly harm the legitimate business interests of the undertaking to which it relates; or\n(c)information relating to the private affairs of an individual the disclosure of which would or may significantly harm the interests of that individual.\n(5) In the event of a dispute as to whether the confidential treatment should be granted, the Panel must decide the matter after considering oral or written submissions from the parties to the Application, taking into account the matters referred to in paragraph (4).\n(6) If the Panel grants the confidential treatment, the person making the request for the confidential treatment must, no later than 5 working days after the Panel’s decision —\n(a)in the case where the grant is subject to changes to the summary or redacting of material in any non‑confidential version filed under paragraph (2) —\n(i)make the necessary changes or redactions;\n(ii)submit the revised non‑confidential version to the Panel; and\n(iii)send the revised non‑confidential version to the other party or parties to the Application, as the case may be; and\n(b)in any other case, send to the other party or parties the non‑confidential version submitted under paragraph (2), if any,\nand notify the other party or parties that the document, part of the document, or information has been summarised or redacted.\n(7) The Panel must not, for the purpose of determining any dispute under the Application, rely on any document, part of a document, or information to which confidential treatment is granted, but may rely on the non‑confidential version submitted (if any) under paragraph (2) or (6)(a), as the case may be."
+   }
+  },
+  {
+   "id": "SG-H903-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 HEARING AND DETERMINATION OF DISPUTES"
+   },
+   "heading": {
+    "en": "Evidence"
+   },
+   "text": {
+    "en": "19.—(1) Subject to the provisions of these Regulations and the Evidence Act (Cap. 97) and any other written law relating to evidence —\n(a)the evidence‑in‑chief of a witness appearing as a witness for cross‑examination may be given in the form of an affidavit; and\n(b)any fact required to be proved at the hearing of an Application before the Panel must otherwise be proved by the examination of witnesses orally.\n(2) Nothing in these Regulations prevents the examination of any witness through the use of any remote communication technology."
+   }
+  },
+  {
+   "id": "SG-H903-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 HEARING AND DETERMINATION OF DISPUTES"
+   },
+   "heading": {
+    "en": "Representation"
+   },
+   "text": {
+    "en": "20. In proceedings before the Panel, a party may be represented by —\n(a)a legal representative of the party; or\n(b)any other person allowed by the Panel to appear on behalf of the party."
+   }
+  },
+  {
+   "id": "SG-H903-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 HEARING AND DETERMINATION OF DISPUTES"
+   },
+   "heading": {
+    "en": "Procedure of Panel to determine Application"
+   },
+   "text": {
+    "en": "21.—(1) The Panel may either —\n(a)summarily determine any dispute under an Application after considering the documents and evidence submitted by the parties under these Regulations without requiring the attendance of the parties at a hearing; or\n(b)conduct a hearing in any manner the Panel thinks fit (including by using any remote communication technology).\n(2) Subject to the provisions of the Act and these Regulations, the Panel may determine the procedure for any hearing mentioned in paragraph (1).\n(3) The Panel must, so far as it appears to it to be appropriate, seek to avoid undue formality in its proceedings and must proceed in such manner it considers appropriate for the clarification of the issues before it and generally for the just, expeditious and economical determination of any dispute under the Application.\n(4) Unless the Panel otherwise allows, no expert or witness of fact may be heard unless the relevant expert report or witness statement has been submitted before the hearing in accordance with any order of the Panel made under regulation 14 or 16.\n(5) The Panel may limit the cross‑examination of witnesses at a hearing to any extent or in any manner it considers appropriate.\n(6) If the Applicant, without reasonable excuse, fails to appear at any hearing to determine any dispute under the Application, the Panel may, if satisfied that the Applicant was duly notified of the hearing date, treat the Application or the Application to the extent of the dispute as withdrawn and make any consequential order the Panel thinks fit.\n(7) If the Respondent, without reasonable excuse, fails to appear at any hearing to determine any dispute under the Application, the Panel may, if satisfied that the Respondent was duly notified of the hearing date, in its discretion proceed to determine the dispute in accordance with these Regulations without reference to the Respondent, even if the interests of the Respondent may be prejudicially affected by the determination of the Panel.\n(8) The Panel may adjourn a hearing at any time."
+   }
+  },
+  {
+   "id": "SG-H903-A21.001",
+   "no": 21.001,
+   "noLabel": {
+    "en": "21A."
+   },
+   "chapter": {
+    "en": "PART 3 HEARING AND DETERMINATION OF DISPUTES"
+   },
+   "heading": {
+    "en": "Panel must take into account benefit treated as having been passed to tenant under PTR Regulations"
+   },
+   "text": {
+    "en": "21A. The Panel, when determining the amount or extent of any benefit that an owner of any property is required to pass to a tenant of the owner for an Application, must take into account the amount of the benefit for the property that is treated as having already been passed by the owner to the tenant under regulation 11B of the PTR Regulations, if any.\n[S 1020/2020 wef 19/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H903-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 3 HEARING AND DETERMINATION OF DISPUTES"
+   },
+   "heading": {
+    "en": "Further evidence"
+   },
+   "text": {
+    "en": "22. The Panel may at any time before delivering or conveying its determination, call for any further evidence or explanations from either party to be given in the presence of the other party, or submitted to the Panel and served on the other party in the manner ordered by the Panel."
+   }
+  },
+  {
+   "id": "SG-H903-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 3 HEARING AND DETERMINATION OF DISPUTES"
+   },
+   "heading": {
+    "en": "Adjournments for purpose of deliberation"
+   },
+   "text": {
+    "en": "23. The Panel may on the conclusion of the hearing of an Application, adjourn for any period of time for the purpose of considering its determination."
+   }
+  },
+  {
+   "id": "SG-H903-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 DETERMINATION AND OTHER DECISIONS OF PANEL"
+   },
+   "heading": {
+    "en": "Summary dismissal of Application"
+   },
+   "text": {
+    "en": "24.—(1) The Panel may summarily dismiss an Application at any stage of the proceedings relating to the Application if —\n(a)the Panel considers that the Application discloses no valid ground of dispute;\n(b)the Panel considers that the Applicant is not a person entitled to lodge an Application under section 30(2) of the Act;\n(c)the Panel is satisfied that the Applicant has habitually and persistently, and without reasonable ground, lodged vexatious Applications; or\n(d)the Applicant has, without reasonable cause, failed to comply with —\n(i)any time delimited under the Act or these Regulations for the submission of any application, document or information in connection with the Application; or\n(ii)any order of the Panel.\n(2) Where the Panel dismisses an Application under paragraph (1), the Panel may make any consequential order the Panel thinks fit."
+   }
+  },
+  {
+   "id": "SG-H903-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 DETERMINATION AND OTHER DECISIONS OF PANEL"
+   },
+   "heading": {
+    "en": "Consent orders"
+   },
+   "text": {
+    "en": "25.—(1) If all the parties to an Application agree on the terms on which to settle all or any matter in connection with the Application, they may request the Panel to make a consent order.\n(2) A request for a consent order is made by sending to the Secretary —\n(a)a draft consent order; and\n(b)a statement signed by all the parties to the Application (whether by an individual authorised to so sign on behalf of, or a legal representative of, each party), requesting that an order be made in the terms of the draft consent order.\n(3) In respect of any request for a consent order, the Panel may, as it thinks fit, after hearing the parties —\n(a)make the order in the terms requested;\n(b)invite the parties to vary the terms and make the order in the terms as varied; or\n(c)refuse to make any order."
+   }
+  },
+  {
+   "id": "SG-H903-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 DETERMINATION AND OTHER DECISIONS OF PANEL"
+   },
+   "heading": {
+    "en": "Notification of determination of Panel"
+   },
+   "text": {
+    "en": "26.—(1) The determination of the Panel in respect of an Application may —\n(a)be conveyed to the parties to the Application by the Secretary by rendering a written copy of the determination to them duly signed by all the members of the Panel; or\n(b)be delivered orally before the parties by any member of the Panel.\n(2) To avoid doubt, where paragraph (1)(b) applies, it is not necessary for all the members of the Panel who heard the Application to reassemble merely for the purpose of delivering the determination.\n(3) Where the determination of the Panel is the decision of a majority, that fact must be stated.\n(4) The Chairman may, if the Chairman considers necessary, arrange for the determination of the Panel to be published in any manner the Chairman considers appropriate."
+   }
+  },
+  {
+   "id": "SG-H903-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 4 DETERMINATION AND OTHER DECISIONS OF PANEL"
+   },
+   "heading": {
+    "en": "Appeals to High Court"
+   },
+   "text": {
+    "en": "27. For the purposes of an appeal to the High Court under section 30(11) of the Act, the time for appeal runs —\n(a)in the case where the determination is delivered orally, from the date the determination is delivered; and\n(b)in all other cases, from the date of the written determination."
+   }
+  },
+  {
+   "id": "SG-H903-A27.001",
+   "no": 27.001,
+   "noLabel": {
+    "en": "27A."
+   },
+   "chapter": {
+    "en": "PART 4A EFFECT OF CERTAIN PTR REGULATIONS ONPANEL’S DETERMINATIONS"
+   },
+   "heading": {
+    "en": "Effect of regulation 6A, 6B, 7A or 7B of PTR Regulations on Panel’s determination"
+   },
+   "text": {
+    "en": "27A.—(1) This regulation applies where —\n(a)the Panel has, before 19 December 2020, made a determination as to the amount of the benefit that an owner of any property is required to pass to a tenant of the owner; and\n(b)the amount of the benefit is reduced by reason of the retrospective operation of regulation 6A, 6B, 7A or 7B of the PTR Regulations.\n(2) Where an owner of a property has, before 19 December 2020, passed an amount of the benefit for the property to the tenant —\n(a)if the amount of the benefit after the reduction is greater than the amount passed by the owner, then the owner satisfies the determination in full by passing the difference between those amounts to the tenant at the time and in the manner determined by the Panel; or\n(b)if the amount of the benefit after the reduction is nil or less than the amount passed by the owner, then the difference in those amounts is recoverable by the owner from the tenant as a debt due to the owner.\n(3) Where an owner of a property has not, before 19 December 2020, passed any amount of the benefit for the property to the tenant, the owner satisfies the determination in full by passing to the tenant the reduced amount of the benefit.\n[S 1020/2020 wef 19/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H903-A27.002",
+   "no": 27.002,
+   "noLabel": {
+    "en": "27B."
+   },
+   "chapter": {
+    "en": "PART 4A EFFECT OF CERTAIN PTR REGULATIONS ONPANEL’S DETERMINATIONS"
+   },
+   "heading": {
+    "en": "Effect of regulation 11B of PTR Regulations on Panel’s determination"
+   },
+   "text": {
+    "en": "27B.—(1) This regulation applies where —\n(a)the Panel has, before 19 December 2020, made a determination as to the amount of the benefit that an owner of any property is required to pass to a tenant of the owner; and\n(b)the owner is treated as having passed an amount of the benefit to the tenant by reason of regulation 11B of the PTR Regulations.\n(2) Where the owner has, before 19 December 2020, passed an amount (called in this regulation the passed-on amount) of the benefit for the property to the tenant —\n(a)if the amount mentioned in paragraph (1)(a) is greater than the total of the amount in paragraph (1)(b) and the passed-on amount (called in this regulation the total passed-on amount), then the owner satisfies the determination in full by passing the difference between those amounts to the tenant at the time and in the manner determined by the Panel; or\n(b)if the amount mentioned in paragraph (1)(a) is less than the total passed-on amount, then the difference between those amounts is recoverable by the owner from the tenant as a debt due to the owner.\n(3) Where an owner of a property has not, before 19 December 2020 passed any amount of the benefit for the property to the tenant, and the amount mentioned in paragraph (1)(a) is greater than the amount in paragraph (1)(b), then the owner satisfies the determination in full by passing the difference in those amounts to the tenant at the time and in the manner determined by the Panel.\n[S 1020/2020 wef 19/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H903-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Forms"
+   },
+   "text": {
+    "en": "28.—(1) Every Application, Response, Reply and declaration of service must be in the form published on the MOF website.\n(2) All forms must be completed in accordance with the directions specified in that form.\n(3) Where strict compliance with a form is not possible —\n(a)in the case of an Application (including a remedied Application) or a declaration of service for any such Application — the Chairman or (if a Panel has been appointed to hear and determine any dispute under the Application) the Panel; or\n(b)in the case of a Response or a Reply — the Panel appointed to hear and determine any dispute under the Application,\nmay allow that form to be complied with in any other manner the Chairman or Panel (as the case may be) thinks fit."
+   }
+  },
+  {
+   "id": "SG-H903-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Filing of applications"
+   },
+   "text": {
+    "en": "29.—(1) Where a party to any Application wishes to make an application under these Regulations to the Chairman or a Panel, the party must address the application to the “Secretary to the Valuation Review Panel” and specify the case number of the Application.\n(2) Unless the Chairman or the Panel otherwise allows, the application must be filed by sending a copy of the application by electronic mail to the electronic mail address of the Secretary specified on the MOF website."
+   }
+  },
+  {
+   "id": "SG-H903-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "30.—(1) Unless any provision of these Regulations or the Panel otherwise specifies, any document required to be sent to or served on any person in connection with any Application may be —\n(a)delivered to that person’s appropriate address;\n(b)sent to that person’s appropriate address by post; or\n(c)sent in any other manner agreed between the person serving and the person to be served (including by electronic mail).\n(2) For the purposes of paragraph (1)(a) and (b), a person’s appropriate address is —\n(a)the address for service which that person has notified to the Secretary; or\n(b)if no address has been so notified, the person’s usual or last known place of residence or business.\n(3) Service of a document under paragraph (1) on the person to whom the document is addressed takes effect —\n(a)if the document is sent by ordinary post to the appropriate address, on the day after it would in the ordinary course of post be delivered, unless it is returned undelivered;\n(b)if the document is sent by prepaid registered post to the appropriate address, 2 working days after the day it was posted, even if it is returned undelivered;\n(c)if the document is sent by electronic mail, at the time the electronic mail becomes capable of being retrieved by the person; and\n(d)if the document is sent by fax and a notice of successful transmission of the fax is received, on the day of the transmission.\n(4) Where any person has notified the Secretary of an appropriate address at which or agreed with the Secretary on a manner by which documents may be served, the person must monitor for any documents served at that address or by that manner until all disputes under the Application are determined.\n(5) Where —\n(a)a document is to be served by the Secretary; and\n(b)the Secretary is unable to serve it,\nthe Secretary must send a notice of non‑service, stating the attempted method of service, to the other parties to the Application.\n(6) If the Panel is satisfied that the just, expeditious and fair determination of any dispute under the Application requires the service of a document in any other manner, the Panel may, on the request of the person serving the document or on its own initiative, make an order —\n(a)for the document to be served in the manner specified by the Panel; and\n(b)specifying when the document is treated as served.\n(7) The Panel may dispense with service of a document for the purposes of any proceedings if the interests of justice so require."
+   }
+  },
+  {
+   "id": "SG-H903-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Personal service"
+   },
+   "text": {
+    "en": "31.—(1) Where any provision of these Regulations or a Panel requires a document to be served personally for the purposes of any proceedings relating to an Application, personal service of the document may be effected —\n(a)by leaving a copy of the document with the person to be served; or\n(b)in any other manner agreed between the party serving the document and the party to be served.\n(2) Where the person to be served is a body corporate or an unincorporated association, paragraph (1)(a) is satisfied if the document is left with an officer of the body corporate or unincorporated association (as the case may be) at its registered office or principal office for the time being.\n(3) Where the person to be served is a partnership (other than a limited liability partnership), paragraph (1)(a) is satisfied if the document is left with any one of the partners for the time being.\n(4) If it appears to a Panel that it is impracticable for any reason to serve a document personally on a person, the Panel may, on the application of the party that is required to serve the document or on its own initiative, make an order for substituted service of that document.\n(5) Substituted service of a document pursuant to an order made under paragraph (4) is effected by taking steps specified by the Panel to bring that document to the notice of the person to be served.\n(6) For the purposes of paragraph (5), the steps which a Panel may specify to be taken for substituted service of a document to be effected include the use of electronic means (including electronic mail or Internet transmission).\n(7) The Secretary must, at the request of a Panel, or may, at the request of any person serving a document, certify the steps taken to serve the document under these Regulations, including the date and manner of service."
+   }
+  },
+  {
+   "id": "SG-H903-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Communication between Secretary or Panel and party"
+   },
+   "text": {
+    "en": "32.—(1) The Panel may, through the Secretary or otherwise, communicate with any person (including a party and a representative of a party) in connection with any proceedings relating to an Application —\n(a)by sending an electronic mail to the electronic mail address provided by the person (being at the outset, in the case of a party, the electronic mail address mentioned in regulation 6(3)(a) or 8(2)(a), as the case may be);\n(b)through any messaging system that is agreed between the Panel and that person; or\n(c)by any other means agreed between the Panel and that person.\n(2) Where any person agrees to communicate with the Panel by a means of communication mentioned in paragraph (1), that person must monitor that means of communication for any communication from the Panel to that person until the conclusion of the proceedings."
+   }
+  },
+  {
+   "id": "SG-H903-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "General powers of Panel"
+   },
+   "text": {
+    "en": "33.—(1) Subject to the provisions of the Act and these Regulations, the Panel may regulate its own procedure.\n(2) The Chairman may issue practice directions in relation to the procedures provided for by these Regulations."
+   }
+  },
+  {
+   "id": "SG-H903-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "34.—(1) The fees specified in the Schedule are payable in relation to proceedings under these Regulations, and are non‑refundable.\n(2) A fee specified in the Schedule must be paid to the Secretary by the relevant person specified in the Schedule —\n(a)at the time specified in these Regulations for the payment of that fee or, where no such time is specified, at the time directed by the Secretary; and\n(b)in the manner directed by the Secretary.\n(3) Despite paragraph (1), the Chairman may, in any proceedings relating to an Application, on the ground of financial hardship, waive or defer the payment of the whole or part of any fee, subject to any terms the Chairman thinks fit.\n(3A) The Minister may, in his or her discretion, remit, reduce or refund wholly or in part, and either generally or in any particular case or class of cases, any fee specified in the Schedule.\n[S 1020/2020 wef 19/12/2020]\n(4) Where the cheque or authorisation for the payment of any fee mentioned in paragraph (1) is subsequently dishonoured or revoked and payment of the fee is not received by the Secretary within 7 working days after the date a party is notified of such dishonour or revocation, the document or proceeding to which that fee relates is treated as not having been lodged or as having been withdrawn."
+   }
+  },
+  {
+   "id": "SG-H903-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Non-compliance and errors"
+   },
+   "text": {
+    "en": "35.—(1) Unless otherwise provided by the Act or these Regulations, a failure to comply with any provision of these Regulations or any order or direction of the Chairman or a Panel not affecting the merits of any case relating to an Application does not of itself render any proceedings relating to the Application void.\n(2) Where there has been any failure mentioned in paragraph (1), the Panel appointed to hear and determine any dispute under the Application may, on such terms as to costs or any other matters it thinks just —\n(a)set aside, in whole or in part, any proceedings relating to the Application, any step taken in those proceedings or any order or direction made in those proceedings; or\n(b)exercise its powers under these Regulations to allow amendments and to make orders as to any proceedings relating to the Application it thinks fit.\n(3) Any error arising from any clerical mistake, accidental slip or omission in any document recording any proceedings relating to an Application or any decision (including a determination), order, direction or other document issued in any of those proceedings by the Chairman, a Panel, or the Secretary, may be corrected by a certificate signed by —\n(a)the presiding member of the Panel; or\n(b)the Chairman."
+   }
+  },
+  {
+   "id": "SG-H903-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Time"
+   },
+   "text": {
+    "en": "36.—(1) A period expressed in days, weeks or months after the happening of an event or the doing of any act or thing excludes the day on which the event happens or the act or thing is done.\n(2) A period expressed in weeks or months ends with the expiry of whichever day in the last week or month is the same day of the week or the month as the day on which the event or the act or thing after which the period is to be calculated happens or is done.\n(3) If, in a period expressed in months, the day on which it should expire does not occur in the last month, the period ends with the expiry of the last day of that month.\n(4) Where the time specified by the Chairman or a Panel or these Regulations for doing any act expires on a Saturday, Sunday or public holiday, the act is in time if done on the next following working day."
+   }
+  },
+  {
+   "id": "SG-H903-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Extension of time"
+   },
+   "text": {
+    "en": "37.—(1) The Chairman or (where a Panel has been appointed) the Panel may, subject to paragraph (2) and on the application of the party seeking the extension, extend on any condition the time delimited for doing anything under these Regulations or in any order of the Chairman or Panel (as the case may be), even if the application for the extension is made after the time has expired.\n(2) The period for lodging an Application may be extended under paragraph (1) only if the Chairman is satisfied that it is just to do so by reason of exceptional circumstances in the particular case."
+   }
+  },
+  {
+   "id": "SG-H903-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Record of proceedings"
+   },
+   "text": {
+    "en": "38.—(1) The Secretary must keep a record of any proceedings relating to any Application in the form directed by the Chairman, including the documents submitted by parties to the Panel appointed to hear and determine any dispute under the Application.\n(2) The records must be kept at least until the later of the following:\n(a)31 December 2022;\n(b)the end of a period of 2 years after the date of the determination of the Application."
+   }
+  },
+  {
+   "id": "SG-H903-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Record to be signed"
+   },
+   "text": {
+    "en": "39. The records of any proceedings relating to any Application must be signed by the Chairman or the presiding member of the Panel that determined the disputes under the Application."
+   }
+  },
+  {
+   "id": "SG-H903-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRegulations 6(3) and 34(1) and (2)\nFees\nDescription\nRelevant person by whom fee is payable\nFee\n1.Lodgment of Application\nApplicant\n$60\n2.The whole or part of each day of hearing as follows:\nApplicant\n(a)the first day\n$75\n(b)any day after the first day\n$150"
+   }
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "id": "SG-H125",
+ "title": {
+  "zh": null,
+  "en": "Administration of Muslim Law (Halal Certificates) Rules",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p02",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation AMLA1966-R8",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 9,
+ "chars": 7759,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/AMLA1966-R8?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 9 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H125-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Rules may be cited as the Administration of Muslim Law (Halal Certificates) Rules."
+   }
+  },
+  {
+   "id": "SG-H125-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Rules —\n“catering establishment” means a catering establishment as described in the First Schedule to the Environmental Public Health Act 1987 and includes a facility where food is prepared, packed and delivered to retail food establishments;\n[S 649/2025 wef 31/12/2021]\n“Government school” has the same meaning as in section 2 of the Education Act 1957;\n[S 571/2012 wef 19/11/2012]\n[S 649/2025 wef 31/12/2021]\n“poultry” includes a chicken, a duck, a goose, a quail or a turkey;\n[S 222/2016 wef 01/08/2016]\n“product processing facility” means any place or premises or any part thereof (not being a catering establishment) used for the manufacturing, processing, preparation, storage or packing of products for the purpose of distribution to wholesalers and retailers or for export;\n[S 578/2009 wef 01/12/2009]\n“retail food establishment” means a retail food establishment as described in the First Schedule to the Environmental Public Health Act 1987.\n[S 649/2025 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H125-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Fees for application for halal certificate, etc."
+   },
+   "text": {
+    "en": "3.—(1) An application for a halal certificate under section 88A(2) of the Act shall be —\n(a)made to the Majlis in such form as the Majlis may determine; and\n(b)accompanied by the appropriate fee specified in the Schedule.\n(2) The appropriate fee set out in the second column of the Schedule is payable to the Majlis under section 88A of the Act, upon —\n(a)the issue of a halal certificate in relation to any product, service or activity;\n(b)the grant of approval to use a specified halal certification mark; or\n(c)the endorsement of any product, service or activity in respect of which a halal certificate has been issued.\n[S 649/2025 wef 01/10/2025]"
+   }
+  },
+  {
+   "id": "SG-H125-A3.001",
+   "no": 3.001,
+   "noLabel": {
+    "en": "3A."
+   },
+   "heading": {
+    "en": "Fees for services performed by or under supervision of Majlis"
+   },
+   "text": {
+    "en": "3A. For the purposes of section 88A(3A) of the Act, the appropriate fee specified in the Schedule is payable by an applicant for a halal certificate under section 88A(2) of the Act to the Majlis for the provision of either or both of the following services by or under the supervision of the Majlis:\n(a)a service to verify that food provided or to be provided to Muslims complies with halal requirements or other requirements in relation to halal certification;\n(b)a service for the cleansing of food utensils and crockery in accordance with Islamic rituals.\n[S 686/2022 wef 17/08/2022]"
+   }
+  },
+  {
+   "id": "SG-H125-A3.002",
+   "no": 3.002,
+   "noLabel": {
+    "en": "3B."
+   },
+   "heading": {
+    "en": "Fees for training courses and assessments"
+   },
+   "text": {
+    "en": "3B.—(1) For the purposes of section 88A(3) of the Act, the Majlis may require such employee of any applicant or holder of a halal certificate as the Majlis may specify to undergo either or both of the following, which may be conducted by or under the supervision of the Majlis:\n(a)any training course that the Majlis may specify;\n(b)any assessment for competency that the Majlis may specify.\n(2) The appropriate fee for the training course or assessment specified in the Schedule is payable to the Majlis by the applicant or holder of the halal certificate.\n[S 125/2023 wef 15/03/2023]"
+   }
+  },
+  {
+   "id": "SG-H125-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Refund of fees"
+   },
+   "text": {
+    "en": "4. No refund shall be made in respect of any fee paid under these Rules."
+   }
+  },
+  {
+   "id": "SG-H125-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Restriction on transfer of halal certificate"
+   },
+   "text": {
+    "en": "5. No holder of a halal certificate shall transfer or assign the benefit of his certificate to any other person."
+   }
+  },
+  {
+   "id": "SG-H125-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Compoundable offence"
+   },
+   "text": {
+    "en": "6. An offence under section 88A(5) of the Act may be compounded by the Majlis in accordance with section 88E of the Act.\n[S 47/2009 wef 01/03/2009]"
+   }
+  },
+  {
+   "id": "SG-H125-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRules 3, 3A and 3B\nFees\nFirst column\nSecond column\n1.Application for a halal certificate:\n(a)normal processing\n$159 per application\n(b)express processing\n$340 per application\n2.Halal certificate with a validity period of one year to process poultry at an abattoir\n$250\n3.Halal certificate with a validity period of one year to produce, process, market or display any product at any premises with a total floor area —\n(a)not exceeding 200 square metres\n$750\n(b)exceeding 200 square metres but not exceeding 750 square metres\n$800\n(c)exceeding 750 square metres but not exceeding 2,000 square metres\n$910\n(d)exceeding 2,000 square metres\n$1,210\n4.Halal certificate with a validity period of one year to operate a product processing facility with a total floor area —\n(a)not exceeding 200 square metres\n$795\n(b)exceeding 200 square metres but not exceeding 750 square metres\n$870\n(c)exceeding 750 square metres but not exceeding 2,000 square metres\n$980\n(d)exceeding 2,000 square metres\n$1,975\n5.Halal certificate with a validity period of one year to operate any of the following retail food establishments:\n(a)a restaurant with a total floor area not exceeding 186 square metres\n$775\n(b)a restaurant with a total floor area exceeding 186 square metres\n$1,140\n(c)a food or hawker stall, or any stall selling uncooked food, with a total floor area not exceeding 13 square metres\n$350\n(d)a food or hawker stall, or any stall selling uncooked food, with a total floor area exceeding 13 square metres\n$565\n(e)a food station in a restaurant\n$560\n(f)a halal section in a supermarket\n$710\n(g)a snack bar, confectionery or bakery, that is not in a petrol station\n$710\n(h)a snack bar, confectionery or bakery, in a petrol station\n$364\n(i)a canteen stall in a Government school\n$60\n(j)a canteen stall in a staff canteen\n$710\n6.Halal certificate with a validity period of one year to operate —\n(a)a kitchen facility in a preschool\n$375\n(b)any other catering establishment or central kitchen facility with a total floor area not exceeding 186 square metres\n$1,000\n(c)any other catering establishment or central kitchen facility with a total floor area exceeding 186 square metres\n$1,220\n7.Halal certificate with a validity period of one year to operate the whole or any section of a storage facility or warehouse\n$900\n8.Halal certificate with a validity period of 7 days to operate a retail food establishment at any bazaar, fair, trade exposition or other similar activity or event held on premises other than the certified premises, facility or establishment of a halal certificate holder\n$75\n9.Endorsement of any imported, exported or re‑exported product in respect of which a halal certificate has been issued\n$288 per consignment\n10.Use of a specified halal certification mark —\n(a)for any poultry processed at an abattoir\n$0.10 per poultry on which mark is applied\n(b)for any product\n$40 per type, description or brand of product\n(c)for any product at a product processing facility\n$30 per type, description or brand of product\n(d)for any endorsed imported, exported or re‑exported product in respect of which a halal certificate has been issued\n$0.70 per carton or drum\n11.Service to verify that food provided or to be provided to Muslims complies with halal requirements or other requirements in relation to halal certification\n$200 per hour\n12.Service for the cleansing of food utensils and crockery in accordance with Islamic rituals\n$250 per hour\n13.Services mentioned in items 11 and 12, where both services are engaged in respect of a kitchen\n$1,350 per kitchen\n14.Services mentioned in item 13 in respect of more than one kitchen\n$1,350 for the first kitchen and $250 for each additional kitchen\n15.Service mentioned in item 11, 12, 13 or 14, where the request is received by the Majlis later than 14 working days before the event that requires halal certification\n$250 in addition to the applicable fees in item 11, 12, 13 or 14, as the case may be\n16.Service mentioned in item 11, 12, 13 or 14, where the request is for the service to be performed outside the following office hours:\n(a)between 8.30 a.m. and 6 p.m. from Monday to Friday (except public holidays); but\n(b)if any such day is the eve of the New Year, Lunar New Year, Hari Raya Puasa or Christmas, between 8.30 a.m. and 12 noon.\n$750 in addition to the applicable fees in item 11, 12, 13 or 14, as the case may be\n17.Halal competency assessment\n$125 per assessment\n[S 686/2022 wef 17/08/2022]\n[S 13/2018 wef 01/02/2018]\n[S 125/2023 wef 15/03/2023]"
+   }
+  }
+ ]
+}

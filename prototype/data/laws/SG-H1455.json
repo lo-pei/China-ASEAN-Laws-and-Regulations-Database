@@ -1,0 +1,91 @@
+{
+ "id": "SG-H1455",
+ "title": {
+  "zh": null,
+  "en": "Extradition (Commonwealth Territories) Declaration 2007",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p18",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation EA1968-DECL1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 2146,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/EA1968-DECL1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 4 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1455-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Declaration is the Extradition (Commonwealth Territories) Declaration 2007."
+   }
+  },
+  {
+   "id": "SG-H1455-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Declaration of Commonwealth territories"
+   },
+   "text": {
+    "en": "2. The states or territories specified in the Schedule to this Declaration are declared to be Commonwealth territories for the purposes of the Act."
+   }
+  },
+  {
+   "id": "SG-H1455-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Modification of Act"
+   },
+   "text": {
+    "en": "3.—(1) The Act (except for Part 6) applies in relation to a country specified in the Schedule that is a non‑member of UNTOC as if an UNTOC offence is not an extradition offence.\n(2) In this paragraph —\n“non-member of UNTOC” means a state or territory specified in the Schedule that is not —\n(a)a party to UNTOC; or\n(b)a state or territory to which UNTOC applies or is extended;\n“serious crime”, “organised criminal group” and “transnational” have the meanings given to them in UNTOC;\n“UNTOC” means the United Nations Convention against Transnational Organised Crime, done at New York on 15 November 2000;\n“UNTOC offence” means an offence against the law of a non‑member of UNTOC where the act or omission constituting the offence or the equivalent act or omission —\n(a)would, if it took place within the jurisdiction of Singapore, constitute any of the following:\n(i)abetment of a serious crime, where the serious crime is transnational in nature and involves an organised criminal group;\n(ii)criminal conspiracy to commit a serious crime, where the serious crime is transnational in nature and involves an organised criminal group; or\n(b)would be such an offence if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence."
+   }
+  },
+  {
+   "id": "SG-H1455-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nParagraphs 2 and 3\nAustralia\nBahamas\nBarbados\nBelize\nBermuda\nBotswana\nBritish Indian Ocean Territory\nCanada\nCyprus\nFalkland Islands\nFiji\nGambia\nGhana\nGibraltar\nIndia\nJamaica\nKenya\nKiribati\nLesotho\nMalawi\nMalta\nMauritius\nNew Zealand\nNigeria\nPakistan\nPapua New Guinea\nPitcairn Islands\nSeychelles\nSierra Leone\nSri Lanka\nSt. Helena and dependencies\nTonga\nTrinidad and Tobago\nTuvalu\nUganda\nUnited Kingdom of Great Britain and Northern Ireland, the Channel Islands and Isle of Man\nUnited Republic of Tanzania\nVanuatu\nVirgin Islands\nZambia"
+   }
+  }
+ ]
+}

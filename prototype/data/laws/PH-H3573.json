@@ -1,0 +1,84 @@
+{
+ "id": "PH-H3573",
+ "title": {
+  "zh": null,
+  "en": "An Act to Further Extend the Filing of Applications for Educational Benefits Under Republic Act Numbered Sixty-Five, as Amended",
+  "orig": "An Act to Further Extend the Filing of Applications for Educational Benefits Under Republic Act Numbered Sixty-Five, as Amended"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p50",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1965-06-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4371",
+ "officialCode": null,
+ "topics": [
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1188,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1965/ra_4371_1965.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1965/ra_4371_1965.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3573-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Officers and enlisted men and the widow or child of deceased veterans who although entitled to the benefits of Section two of Republic Act Numbered Sixty-five, as amended, have failed to establish their rights within the period set forth therein (as well as in the additional periods granted by Congress in Republic Acts Numbered Five hundred seventy-seven, Thirteen hundred sixty-two and Eighteen hundred eighty-six), are hereby granted an additional period of two years from the approval of this Act within which to file their applications for educational benefits under the provisions of the aforementioned Act."
+   }
+  },
+  {
+   "id": "PH-H3573-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Upon the approval of this Act, the Philippine Veterans Administration shall cause the widest possible dissemination of the provisions of Section one hereof so as to reach the greater number of the population and shall render to the claimants concerned such necessary assistance as may be deemed proper."
+   }
+  },
+  {
+   "id": "PH-H3573-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "There is hereby authorized to be appropriated out of any funds not otherwise appropriated the necessary sum as may be needed to implement the provisions of this Act, not to exceed twenty thousand pesos."
+   }
+  },
+  {
+   "id": "PH-H3573-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
+   }
+  }
+ ]
+}

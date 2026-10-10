@@ -1,0 +1,698 @@
+{
+ "id": "SG-H3489",
+ "title": {
+  "zh": null,
+  "en": "Parliament (Privileges, Immunities and Powers) Act 1962",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p44",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act PPIPA1962",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 41,
+ "chars": 38806,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/PPIPA1962?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 41 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3489-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Parliament (Privileges, Immunities and Powers) Act 1962."
+   }
+  },
+  {
+   "id": "SG-H3489-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless inconsistent with the context —\n“Clerk” means the Clerk of Parliament or other person for the time being lawfully performing the functions of that office;\n“committee” means a committee of the whole Parliament, or any sessional, select, or other committee of Parliament;\n“contempt” includes any breach of privilege of Parliament and the commission of any offence mentioned in Part 5;\n“court” includes an Industrial Arbitration Court established, and any board of inquiry appointed, under the Industrial Relations Act 1960;\n“journals” means the votes and proceedings of Parliament, the official reports or records of the proceedings thereof, and the minutes or records of the proceedings of any committee;\n“Member” means a Member of Parliament and shall, where the context so admits, include the Speaker;\n“officer of Parliament” means the Clerk or any Assistant Clerk of Parliament, the Serjeant‑at‑Arms and such other officers or persons as may be appointed to the staff of Parliament, and includes any person employed temporarily in Parliament and any police officer acting under the orders of the Speaker, the Clerk or the Serjeant‑at‑Arms;\n“Parliament” includes a committee and, where the context so admits, the place or places appointed under Article 64(2) of the Constitution for holding sessions of Parliament;\n“police officer” has the same meaning as in the Police Force Act 2004;\n“Speaker” means the Speaker and, in his absence, the Deputy Speaker of Parliament and includes any other Member when such other Member is presiding at a sitting of Parliament or a committee of the whole Parliament;\n“Standing Orders” means the Standing Orders of Parliament for the time being in force;\n“stranger” means any person who is not a Member or officer of Parliament.\n[4/2021]"
+   }
+  },
+  {
+   "id": "SG-H3489-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL"
+   },
+   "heading": {
+    "en": "Privileges, immunities and powers to be same as those of Commons House of Parliament of United Kingdom"
+   },
+   "text": {
+    "en": "3.—(1) The privileges, immunities and powers of Parliament and of the Speaker, Members and committees of Parliament shall be the same as those of the Commons House of Parliament of the United Kingdom and of its Speaker, Members or committees at the establishment of the Republic of Singapore.\n(2) Such privileges, immunities and powers shall for all purposes be construed and have effect as if those privileges, immunities and powers were prescribed by this Act, and it shall not be necessary in any proceedings to plead the same but the same shall be judicially noticed in all the courts.\n(3) Subject to the provisions of this Act, upon any inquiry touching the privileges, immunities and powers of Parliament or of the Speaker or of any Member or committee, any copy of the Journals of the Commons House of Parliament of the United Kingdom, or of any record or official report of the proceedings or debates thereof or of any committee thereof, which has been printed or purports to have been printed by the order or by the printer of the Commons House aforesaid, shall be admitted as evidence in all courts and places without proof of its being such copy or that such copy was so printed."
+   }
+  },
+  {
+   "id": "SG-H3489-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL"
+   },
+   "heading": {
+    "en": "Other provisions of this Act not in derogation of section 3"
+   },
+   "text": {
+    "en": "4. Nothing in this Act shall be construed in any way as derogating from the provisions of section 3 and the powers conferred on Parliament by other provisions of this Act shall be in addition to the powers conferred by that section."
+   }
+  },
+  {
+   "id": "SG-H3489-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 GENERAL"
+   },
+   "heading": {
+    "en": "Freedom of speech and debate and proceedings"
+   },
+   "text": {
+    "en": "5. There shall be freedom of speech and debate and proceedings in Parliament, and such freedom of speech and debate and proceedings shall not be liable to be impeached or questioned in any court, commission of inquiry, committee of inquiry, tribunal or any other place whatsoever out of Parliament.\n[43/2007]"
+   }
+  },
+  {
+   "id": "SG-H3489-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 PRIVILEGES AND IMMUNITIES"
+   },
+   "heading": {
+    "en": "Exemption from liability in certain cases"
+   },
+   "text": {
+    "en": "6.—(1) No Member shall be liable to any civil or criminal proceedings, arrest, imprisonment or damages by reason of any matter or thing which he may have brought before Parliament or a committee by petition, bill, resolution, motion, or otherwise or may have said in Parliament or in committee.\n(2) No person shall be liable to any civil or criminal proceedings, arrest, imprisonment or damages by reason of any act done under the authority of Parliament or the Speaker and within its or his legal powers or under any warrant issued by virtue of those powers."
+   }
+  },
+  {
+   "id": "SG-H3489-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 PRIVILEGES AND IMMUNITIES"
+   },
+   "heading": {
+    "en": "Protection of Parliamentary publications"
+   },
+   "text": {
+    "en": "7.—(1) Any person being a defendant in any civil or criminal proceedings instituted for or on account or in respect of the publication by such person or by his employee, by order or under the authority of Parliament or any committee, of any reports, papers or journals may on giving to the claimant or prosecutor, as the case may be, 24 hours’ written notice of his intention, bring before the court in which the civil or criminal proceedings are being held a certificate under the hand of the Speaker or of the Clerk stating that the reports, papers or journals in respect whereof the civil or criminal proceedings have been instituted were published by that person or by his employee by order or under the authority of Parliament or any committee.\n[Act 25 of 2021 wef 01/04/2022]\n(2) The court shall thereupon immediately stay the civil or criminal proceedings, and the same and every process issued therein shall be deemed to be finally determined."
+   }
+  },
+  {
+   "id": "SG-H3489-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 PRIVILEGES AND IMMUNITIES"
+   },
+   "heading": {
+    "en": "Publication of proceedings without malice"
+   },
+   "text": {
+    "en": "8. In any civil or criminal proceedings instituted for printing or publishing any extract from or abstract of any report, paper or journal as in section 7 mentioned, if the court is satisfied that the extract or abstract was printed or published bona fide and without malice, judgment shall be entered for the defendant or accused."
+   }
+  },
+  {
+   "id": "SG-H3489-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 PRIVILEGES AND IMMUNITIES"
+   },
+   "heading": {
+    "en": "Exemption from certain duties"
+   },
+   "text": {
+    "en": "9.—(1) It shall not be lawful —\n(a)to require any Member or officer of Parliament to serve as an assessor on any tribunal; or\n(b)while in attendance on Parliament or any committee, to compel such person to attend as a witness in any court or tribunal or at any commission of inquiry or committee of inquiry or before any like authority empowered to summon witnesses.\n[43/2007]\n(2) The production of a certificate signed by the Speaker or the chairman of the committee shall be deemed sufficient proof of attendance on Parliament or the committee."
+   }
+  },
+  {
+   "id": "SG-H3489-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 PRIVILEGES AND IMMUNITIES"
+   },
+   "heading": {
+    "en": "Freedom from arrest in civil proceedings"
+   },
+   "text": {
+    "en": "10. Except for a contravention of this Act, no Member shall be liable to arrest, detention or molestation in respect of any matter which may be the subject of any civil proceedings while proceeding to, or in attendance at, or returning from, any sitting of Parliament or any committee."
+   }
+  },
+  {
+   "id": "SG-H3489-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 PRIVILEGES AND IMMUNITIES"
+   },
+   "heading": {
+    "en": "Legal process not to be served or executed within precincts of Parliament"
+   },
+   "text": {
+    "en": "11. Notwithstanding anything in any written law and except in respect of a contravention of this Act, no civil or criminal process may be served or executed —\n(a)in Parliament or in the precincts thereof while Parliament is sitting; or\n(b)in any room in Parliament while a committee is sitting therein."
+   }
+  },
+  {
+   "id": "SG-H3489-A11.001",
+   "no": 11.001,
+   "noLabel": {
+    "en": "11A."
+   },
+   "chapter": {
+    "en": "PART 3 PRIVILEGES AND IMMUNITIES"
+   },
+   "heading": {
+    "en": "Gratuity upon death or incapacity of Member"
+   },
+   "text": {
+    "en": "11A.—(1) Where at any time after 20 May 2011 —\n(a)a Member dies while serving as a Member; or\n(b)a Member, having opted under section 7 of the Parliamentary Pensions Act 1978 to receive a full pension without any gratuity, dies within one year of his pension taking effect,\nthere may be paid to such of his dependants as the President may think fit or, if there are no dependants, to his legal personal representatives a gratuity in accordance with this section (referred to in this section as the death gratuity).\n[21/2012]\n(2) In the case of a pensionable Member who has 9 or more years of reckonable service as a Member, the death gratuity shall be an amount as follows:\n(a)if he never held any office, or if he had previously held office but was not holding any office at the time of his death and has less than 8 years’ reckonable service as an office‑holding Member (whether continuously or not) — an amount equal to one of the following sums, whichever is the higher:\n(i)the annual equivalent of the monthly rate of salary received by him as a Member immediately before his death;\n(ii)the Member’s commuted sum in respect of his reckonable service as a Member;\n(b)if he is holding office at the time of his death and has 8 or more years’ reckonable service as an office‑holding Member (whether continuously or not) — an amount that is the balance after deducting any sums already received by him by way of pension or gratuity under the Parliamentary Pensions Act 1978 during his lifetime from one of the following sums, whichever is the higher:\n(i)the total amount by adding the annual equivalent of the monthly rate of salary received by him as a Member immediately before his death and the annual equivalent of the monthly rate of salary received by the Member as a holder of that office immediately before his death;\n(ii)the aggregate of the Member’s commuted sum and office‑holder’s commuted sum in respect of his reckonable service as a Member and as a holder of any office, respectively;\n(c)if he is holding office at the time of his death but has less than 8 years’ reckonable service as an office‑holding Member (whether continuously or not) — an amount equal to one of the following sums, whichever is the higher:\n(i)the total amount by adding the annual equivalent of the monthly rate of salary received by him as a Member immediately before his death and the annual equivalent of the monthly rate of salary received by the Member as a holder of that office immediately before his death;\n(ii)the Member’s commuted sum in respect of his reckonable service as a Member; and\n(d)if he had previously held office but was not holding any office at the time of his death and has 8 or more years’ reckonable service as an office-holding Member (whether continuously or not) — an amount that is the balance after deducting any sums already received by him by way of pension or gratuity under the Parliamentary Pensions Act 1978 during his lifetime from one of the following sums, whichever is the higher:\n(i)the annual equivalent of the monthly rate of salary received by him as a Member immediately before his death;\n(ii)the aggregate of the Member’s commuted sum and office‑holder’s commuted sum in respect of his reckonable service as a Member and as a holder of any office, respectively.\n[21/2012]\n(3) In the case of a non-pensionable Member, the death gratuity shall be an amount as follows:\n(a)if he has never held any office — an amount equal to the annual equivalent of the monthly rate of salary received by him as a Member immediately before his death;\n(b)if he holds an office at the time of his death and has 8 or more years’ reckonable service as an office‑holding Member (whether continuously or not) — an amount that is the balance after deducting any sums already received by him by way of pension or gratuity under the Parliamentary Pensions Act 1978 during his lifetime from one of the following sums, whichever is the higher:\n(i)the annual equivalent of the monthly rate of salary received by the Member as a holder of that office immediately before his death;\n(ii)the office-holder’s commuted sum in respect of his reckonable service as a holder of any office;\n(c)if he holds an office at the time of his death but has less than 8 years’ reckonable service as an office‑holding Member (whether continuously or not) — an amount equal to the annual equivalent of the monthly rate of salary received by the Member as a holder of that office immediately before his death;\n(d)if he had previously held office but was not holding any office at the time of his death and has 8 or more years’ reckonable service as an office-holding Member (whether continuously or not) — an amount that is the balance after deducting any sums already received by him by way of pension or gratuity under the Parliamentary Pensions Act 1978 during his lifetime from one of the following sums, whichever is the higher:\n(i)the annual equivalent of the monthly rate of salary received by him as a Member immediately before his death;\n(ii)the office-holder’s commuted sum in respect of his reckonable service as a holder of any office; and\n(e)if he had previously held office but was not holding any office at the time of his death and has less than 8 years’ reckonable service as an office‑holding Member (whether continuously or not) — an amount equal to the annual equivalent of the monthly rate of salary received by him as a Member immediately before his death.\n[21/2012]\n(4) There shall be charged on and paid out of the Pension Fund established by the Pension Fund Act 1995 all sums of money payable by way of death gratuity in accordance with this section.\n[21/2012]\n(5) Any death gratuity granted under this section shall not be assignable or transferable except for the purpose of satisfying a debt due to the Government or an order of any court for the payment of periodical sums of money towards the maintenance of the wife or former wife or minor child (whether legitimate or not) of the person to whom the death gratuity has been granted, and shall not be liable to be attached, sequestered or levied upon for or in respect of any debt or claim whatever except a debt due to the Government.\n[21/2012]\n(6) In this section —\n“annual salary”, in relation to a Member, means —\n(a)the annual equivalent of the highest monthly rate of salary received by the Member during any period of his reckonable service as a Member, if reckoning a Member’s commuted sum for that Member; or\n(b)the annual equivalent of the highest monthly rate of salary received by the Member during any period of reckonable service as a holder of any office, if reckoning an office‑holder’s commuted sum for that Member;\n“Member’s commuted sum”, in relation to a Member, means a capital sum ascertained by multiplying the commutation factor of 175.14 by the lower of the following amounts:\n(a)two-thirds (2/3) of his annual salary as a Member;\n(b)the total amount that is determined by adding —\n(i)in respect of every completed year of reckonable service, one‑thirtieth (1/30) part of his annual salary; and\n(ii)in respect of any remaining uncompleted year of reckonable service, one‑three‑hundred and sixtieth (1/360) part of his annual salary for each completed month of reckonable service;\n“monthly rate of salary” excludes all non-pensionable allowances;\n“non-pensionable allowances” means —\n(a)the Variable Bonus which was paid for the years 1988 to 1991;\n(b)the Annual Variable Component which is payable for the year 1992 and subsequent years; and\n(c)the Non-Pensionable Variable Payment which is payable monthly for the year 1993 and subsequent years;\n“non-pensionable Member” means a person —\n(a)who, being an elected Member on 1 January 1995, has exercised in respect of his reckonable service as a Member on or after that date, an option to convert to the provident fund scheme applicable to non‑pensionable employees of the Government under the Central Provident Fund Act 1953;\n(b)who becomes, by election or appointment, a Member at any time after 1 January 1995 without previously having been, before or after that date, a Member or an office‑holding Member;\n(c)who, having been a Member before 1 January 1995 but not being a Member on that date, becomes, by election or appointment, a Member at any time after that date;\n(d)who, being an elected Member on 1 January 1995, becomes —\n(i)a non-constituency Member or nominated Member at any time after that date with or without a break in his service as a Member; or\n(ii)an elected Member at any time after that date with a break in his service as a Member after that date,\nand for the purposes of this paragraph, a Member’s service shall be deemed not broken but continuous if, following the dissolution of Parliament or his seat therein becoming vacant under the provisions of the Constitution, he is elected as a Member at the ensuing general election or the ensuing by‑election to fill that vacancy;\n“office” means the office of —\n(a)the Prime Minister;\n(b)a Deputy Prime Minister;\n(c)the Speaker;\n(d)a Senior Minister or a Minister;\n(e)a Senior Minister of State or a Minister of State;\n(f)a Mayor;\n(g)a Senior Parliamentary Secretary or a Parliamentary Secretary; or\n(h)a Political Secretary;\n“office-holder’s commuted sum”, in relation to a Member, means a capital sum ascertained by multiplying the commutation factor of 175.14 by the lower of the following amounts:\n(a)two-thirds (2/3) of the highest annual salary of any office held by a Member;\n(b)the total amount that is determined by adding —\n(i)in respect of every completed year of reckonable service in any office, or where he has served in more than one office in each office, one‑twenty‑seventh (1/27) part of his annual salary in that office; and\n(ii)in respect of any remaining uncompleted year of reckonable service in any office, or where he has served in more than one office in each office, one‑three‑hundred and twenty‑fourth (1/324) part of his annual salary for each completed month of reckonable service in that office;\n“pensionable Member” means a Member other than a non‑pensionable Member;\n“reckonable service” means —\n(a)in relation to service as a Member — service in Parliament as a Member of Parliament on and after 3 June 1959 but not after 20 May 2011; and\n(b)in relation to service in any office — service in that office on and after 3 June 1959 but not after 20 May 2011.\n[21/2012]\n(7) The President may, by order published in the Gazette, vary the commutation factor referred to in subsection (6).\n[21/2012]\n(8) For the avoidance of doubt, no person shall have an absolute right to any death gratuity under this section.\n[21/2012]"
+   }
+  },
+  {
+   "id": "SG-H3489-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 4 POWERS"
+   },
+   "heading": {
+    "en": "Power to order the attendance of persons"
+   },
+   "text": {
+    "en": "12. Parliament and any committee which is duly authorised by the Standing Orders or by a resolution of Parliament to send for persons, papers and records may order any person to attend before Parliament or before the committee, and to produce any paper, book, record or document in the possession or under the control of that person."
+   }
+  },
+  {
+   "id": "SG-H3489-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 4 POWERS"
+   },
+   "heading": {
+    "en": "Attendance of persons to be notified by summons"
+   },
+   "text": {
+    "en": "13.—(1) An order to attend or to produce any paper, book, record or document before Parliament or before any committee shall be notified to the person required to attend or produce such paper, book, record or document by a summons under the hand of the Clerk issued by direction of the Speaker.\n(2) In every such summons there shall be stated the time when and the place where the person summoned is required to attend and the particular documents which he is required to produce.\n(3) The summons referred to in subsection (2) shall be served on the person mentioned therein either by delivering to him a copy thereof or by leaving a copy thereof at his usual or last known place of abode in Singapore with some adult person.\n(4) Such summons may be served by an officer of Parliament or by a police officer."
+   }
+  },
+  {
+   "id": "SG-H3489-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 4 POWERS"
+   },
+   "heading": {
+    "en": "Witnesses may be examined on oath or affirmation"
+   },
+   "text": {
+    "en": "14. Parliament or a committee may —\n(a)require that any facts, matters and things relating to the subject of inquiry before Parliament or the committee be verified or otherwise ascertained by the oral examination of witnesses; and\n(b)cause the witnesses to be examined upon oath, or if the witnesses so desire, upon affirmation, which the Speaker or the Clerk or the chairman of the committee or the clerk to the committee may administer."
+   }
+  },
+  {
+   "id": "SG-H3489-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 4 POWERS"
+   },
+   "heading": {
+    "en": "Objections to answer questions or to produce papers to be reported to Parliament for decision"
+   },
+   "text": {
+    "en": "15. If any person ordered to attend or to produce any paper, book, record or document before Parliament or before any committee refuses to answer any question that may be put to him or to produce any such paper, book, record or document on the ground that the same is of a private nature and does not affect the subject of inquiry, the Speaker or the chairman of the committee, as the case may be, may —\n(a)excuse the answering of that question or the production of that paper, book, record or document, or may order the answering or production thereof; or\n(b)report to Parliament such refusal with the reason therefor and Parliament may direct the Speaker or chairman to take such action as it considers proper."
+   }
+  },
+  {
+   "id": "SG-H3489-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 4 POWERS"
+   },
+   "heading": {
+    "en": "Privilege of witnesses"
+   },
+   "text": {
+    "en": "16.—(1) No public officer shall be required —\n(a)to produce before Parliament any paper, book, record or other document; or\n(b)to give before Parliament evidence on any matter,\nif the President certifies that the paper, book, record or other document or the evidence relates to affairs of State and that the public interest would suffer by the production thereof.\n(2) Every person summoned to attend to give evidence or to produce any paper, book, record or other document before Parliament shall be entitled in respect of such evidence or the disclosure of any communication or the production of any such paper, book or record or other document to the same privilege as before a court of law.\n(3) Sections 125 and 126 of the Evidence Act 1893 shall not be applicable in any case where a public officer is so summoned to attend before Parliament."
+   }
+  },
+  {
+   "id": "SG-H3489-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 POWERS"
+   },
+   "heading": {
+    "en": "Immunity of witness in respect of evidence"
+   },
+   "text": {
+    "en": "17.—(1) Without prejudice to section 16 and subject to subsection (3), no person who gives evidence before Parliament or any committee shall be liable to any civil or criminal proceedings, arrest, imprisonment or damages by reason of anything which he may have said in such evidence.\n(2) Except in proceedings referred to in subsection (3), no statement made by any person in evidence before Parliament or any committee shall be admissible in evidence against that person in any civil or criminal proceedings or in any court.\n(3) Nothing in subsections (1) and (2) shall prevent or be deemed to prevent the institution or maintenance of any proceedings against any person for an offence under section 191 of the Penal Code 1871 or for any offence under this Act in respect of any evidence given by him before Parliament or any committee."
+   }
+  },
+  {
+   "id": "SG-H3489-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 POWERS"
+   },
+   "heading": {
+    "en": "Powers of Parliament in regard to strangers"
+   },
+   "text": {
+    "en": "18. Parliament may —\n(a)exclude any stranger or officer of Parliament from any sitting; and\n(b)regulate the admission of strangers to any sitting."
+   }
+  },
+  {
+   "id": "SG-H3489-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 POWERS"
+   },
+   "heading": {
+    "en": "Powers of Parliament in regard to its Members"
+   },
+   "text": {
+    "en": "19. Without prejudice to sections 20 and 21, Parliament may in accordance with its Standing Orders suspend any Member from the service of Parliament for the remainder of the current session or for any part thereof."
+   }
+  },
+  {
+   "id": "SG-H3489-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 POWERS"
+   },
+   "heading": {
+    "en": "Punitive powers of Parliament"
+   },
+   "text": {
+    "en": "20.—(1) For any dishonourable conduct, abuse of privilege or contempt, on the part of a Member, Parliament may —\n(a)commit him to prison for a term not extending beyond the current session of Parliament;\n(b)impose upon him a fine not exceeding the sum of $50,000;\n(c)suspend him from the service of Parliament for the remainder of the current session of Parliament or for any part thereof; and\n(d)direct that he be reprimanded or admonished in his place by the Speaker.\n(2) Where a Member has been found guilty of abuse of privilege in respect of anything said in Parliament by him, Parliament may, by resolution and without prejudice to its powers under subsection (1), suspend him for such period as may be specified in the resolution from the privileges and immunities conferred by sections 3, 5 and 6 insofar as they relate to liability to civil proceedings.\n(3) During the period specified under subsection (2) such privileges and immunities shall cease to apply to the Member who shall be liable to civil proceedings in respect of anything said by him in, or any written statement made by him to, Parliament.\n(4) For any contempt on the part of a stranger, Parliament may —\n(a)commit him to prison for a term not extending beyond the current session of Parliament;\n(b)impose upon him a fine not exceeding the sum of $50,000;\n(c)exclude him from Parliament and the precincts thereof for the remainder of the current session of Parliament or for any part thereof; and\n(d)direct that he be reprimanded or admonished at the Bar of the House by the Speaker."
+   }
+  },
+  {
+   "id": "SG-H3489-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 POWERS"
+   },
+   "heading": {
+    "en": "Procedure in cases of contempt"
+   },
+   "text": {
+    "en": "21.—(1) If it is alleged or appears that any person has committed any offence mentioned in section 20, Parliament may —\n(a)if the offence is alleged to have been or has apparently been committed in the view of Parliament or in the precincts thereof when Parliament is sitting or in any committee, deal with the matter summarily, and, if satisfied that the person is guilty of the offence, inflict all or any of the punishments provided in section 20;\n(b)refer the matter to any select committee for investigation, consideration and report to Parliament; or\n(c)if the offence is an offence mentioned in Part 5, refer the matter to the Public Prosecutor with a view to the institution of criminal proceedings against the person.\n[15/2010]\n(2) If, on the report of the select committee to which a matter has been referred under subsection (1)(b), Parliament is satisfied that any person is guilty of any offence mentioned in section 20, Parliament may inflict upon such person all or any of the punishments provided in section 20 and also in the case of a Member expel him.\n(3) Notwithstanding subsection (1) and the Standing Orders, if it appears to the Speaker that any Member or stranger has committed any contempt in the view of Parliament or a committee, the Speaker may deal with the matter summarily and, if satisfied that the Member or stranger is guilty of the contempt, inflict all or any of the punishments provided in section 20.\n(4) Any decision of the Speaker under subsection (3) shall take immediate effect but Parliament may by resolution annul or vary the decision.\n(5) In determining the punishment for contempt by any person, Parliament or the Speaker, acting under subsection (3), may take into consideration any previous contempt committed by that person.\n(6) For the purposes of this section and section 30(2), “Speaker” includes the chairman of any committee."
+   }
+  },
+  {
+   "id": "SG-H3489-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 POWERS"
+   },
+   "heading": {
+    "en": "Punishment in one session or Parliament in respect of offences committed in another"
+   },
+   "text": {
+    "en": "22.—(1) Nothing in this Act shall be taken to prohibit Parliament from punishing in one session or in one Parliament offences which have been committed in the preceding session or in the last session of the preceding Parliament.\n(2) In the event of the prorogation or dissolution of Parliament, Parliament shall not take cognizance of any offence committed by a Member unless complaint thereof has been lodged by way of motion or reference to a committee within 21 days of the date of the commencement of the next Parliament.\n(3) Where Parliament considers that an offender has not been punished or not been sufficiently punished in one session or in one Parliament by reason of the ending of a session he may again be dealt with in the next session or, if Parliament is dissolved in the same session, in the first session of the next Parliament."
+   }
+  },
+  {
+   "id": "SG-H3489-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 POWERS"
+   },
+   "heading": {
+    "en": "Recovery of fine"
+   },
+   "text": {
+    "en": "23.—(1) Any fine imposed by Parliament under the provisions of this Act shall be paid into the Consolidated Fund.\n(2) The Attorney-General may recover in any civil court of competent jurisdiction any such fine as though the fine were a judgment debt due to the Government, and any sums recovered shall be paid into the Consolidated Fund."
+   }
+  },
+  {
+   "id": "SG-H3489-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 POWERS"
+   },
+   "heading": {
+    "en": "Power to order attendance of offenders"
+   },
+   "text": {
+    "en": "24. Parliament may order any person guilty of an offence to attend before Parliament to be informed of or to receive any punishment which Parliament has decided to inflict upon him."
+   }
+  },
+  {
+   "id": "SG-H3489-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 POWERS"
+   },
+   "heading": {
+    "en": "Attendance of offenders to be notified by summons"
+   },
+   "text": {
+    "en": "25.—(1) An order to attend before Parliament to be informed of or to receive any punishment which Parliament has decided to inflict upon any person shall be notified to the person by a summons under the hand of the Clerk issued by the direction of the Speaker.\n(2) In every such summons there shall be stated the time when and the place where the person summoned is required to attend.\n(3) The summons referred to in subsection (2) shall be served on the person mentioned therein either by delivering to him a copy thereof or by leaving a copy thereof at his usual or last known place of abode in Singapore with some adult person.\n(4) Such summons may be served by an officer of Parliament or by a police officer."
+   }
+  },
+  {
+   "id": "SG-H3489-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 POWERS"
+   },
+   "heading": {
+    "en": "Arrest of defaulters"
+   },
+   "text": {
+    "en": "26.—(1) If a person to whom a summons under section 13 or 25 is directed does not attend at the time and place mentioned therein, the Speaker may, upon being satisfied that the summons was duly served, issue a warrant to apprehend him and to bring him, at a time to be stated in the warrant, before Parliament or the committee.\n(2) A warrant issued under this section shall be deemed to have been issued and shall be executed by a police officer in the same manner as a warrant issued under the provisions of the Criminal Procedure Code 2010.\n(3) The Speaker on issuing a warrant under this section may, if he thinks fit, by endorsement on the warrant, direct that the person named in the warrant be released after arrest on his entering into such a recognisance before a Magistrate for his appearance before Parliament or the committee as may be required in the endorsement.\n(4) Any person so arrested shall be brought before Parliament as soon as possible and until so brought or until released under subsection (3) or by order of the Speaker, shall be detained in any prison."
+   }
+  },
+  {
+   "id": "SG-H3489-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 4 POWERS"
+   },
+   "heading": {
+    "en": "Arrest without warrant of persons disturbing proceedings"
+   },
+   "text": {
+    "en": "27.—(1) The Speaker may order the arrest by an officer of Parliament or a police officer without warrant of any person who creates or joins in any disturbance in Parliament or in the precincts or vicinity thereof when Parliament is sitting.\n(2) Any person arrested under subsection (1) may be detained in the custody of an officer of Parliament until the rising of Parliament or until Parliament has dealt with the matter under section 21."
+   }
+  },
+  {
+   "id": "SG-H3489-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 4 POWERS"
+   },
+   "heading": {
+    "en": "Strangers may be removed on order of Speaker"
+   },
+   "text": {
+    "en": "28. The Speaker may at any time order any stranger to withdraw from Parliament and the precincts thereof, and if that person fails to obey such an order he may be forcibly removed from Parliament and the precincts thereof by an officer of Parliament or a police officer."
+   }
+  },
+  {
+   "id": "SG-H3489-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 4 POWERS"
+   },
+   "heading": {
+    "en": "Suspended Member excluded from Parliament and not paid salary"
+   },
+   "text": {
+    "en": "29.—(1) A Member who has been suspended from the service of Parliament shall withdraw from Parliament and the precincts thereof and shall not enter or remain therein while such suspension remains in force.\n(2) If any such Member is found within Parliament or the precincts thereof in contravention of subsection (1), he may be forcibly removed therefrom by an officer of Parliament or a police officer.\n(3) No salary or allowance payable to such Member for his service as a Member of Parliament shall be paid in respect of any period during which he is suspended from the service of Parliament."
+   }
+  },
+  {
+   "id": "SG-H3489-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 4 POWERS"
+   },
+   "heading": {
+    "en": "Power of Speaker to issue warrants for arrest and imprisonment"
+   },
+   "text": {
+    "en": "30.—(1) For the purpose of exercising the power of committal to prison, Parliament may, by resolution, authorise the Speaker to issue a warrant under his hand for the arrest and imprisonment of the offender.\n(2) Where the Speaker exercises his power under section 21(3) to deal summarily with any contempt committed in the view of Parliament or a committee, the Speaker may on his own motion where, in his opinion, the circumstances of the case so require immediately issue a warrant for the arrest and imprisonment of the offender.\n(3) The warrant referred to in subsection (2) shall have the same effect as a warrant issued under the authority of Parliament.\n(4) A warrant issued under this section shall be executed by a police officer.\n(5) Where the warrant directs that the offender be detained in prison, the Commissioner of Prisons shall receive the offender into his custody and detain him in accordance with the warrant.\n[1/2014]\n(6) It shall be lawful for any person charged with or assisting in the execution of any warrant issued under this section to enter and search any premises, vessel, aircraft, vehicle or train in which the offender may be, or may reasonably be suspected of being, concealed."
+   }
+  },
+  {
+   "id": "SG-H3489-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Offences"
+   },
+   "text": {
+    "en": "31. No person shall —\n(a)wilfully fail or refuse to obey any rule or order of Parliament or a committee, or any order of the Speaker duly made under the Standing Orders or this Act;\n(b)fail without just cause to comply with any summons issued in terms of section 13 or 25;\n(c)assault, hinder, obstruct or insult the Speaker or any Member coming to or going from Parliament on account of his conduct in Parliament or of anything done or said by him in Parliament;\n(d)endeavour to compel any Member by force, insult or menace to declare himself in favour of or against any proposition or matter pending or expected to be brought before Parliament;\n(e)assault, threaten, insult, interfere with, obstruct or resist any officer of Parliament while in the execution of his duty;\n(f)threaten or send a threatening letter to the Speaker or a Member or challenge him to a fight on account of his conduct in Parliament or of anything done or said by him in Parliament;\n(g)publish any statement, whether in writing or otherwise, which falsely or scandalously defames, or which reflects on the character of, the Speaker or any Member touching on his conduct in Parliament or anything done or said by him in Parliament;\n(h)publish wilfully any false or perverted report or any writing containing a gross or scandalous misrepresentation of any debate or proceedings of Parliament, or of any speech of a Member in Parliament;\n(i)publish any report of any debate or proceedings of a committee or of any evidence given or any document presented to the committee or extracts from such documents, before the committee has presented its report to Parliament;\n(j)publish any report or statement purporting to be a report of any debate or proceedings of Parliament in any case where the proceedings have been conducted after exclusion by order of Parliament of strangers or officers of Parliament or where such publication has been expressly prohibited by order of Parliament;\n(k)publish any statement, whether in writing or otherwise, which falsely or scandalously defames the proceedings or the character of Parliament;\n(l)create or join in any disturbance in Parliament or in the precincts or vicinity thereof while Parliament or a committee is sitting;\n(m)refuse to be examined before or to answer any lawful or relevant question put by or to produce any paper, book, record or document in his possession or under his control required by Parliament or any committee unless the refusal is based on privilege or is excused;\n(n)prevaricate or otherwise misconduct himself as a witness before Parliament or a committee;\n(o)present to Parliament or a committee any false, untrue, fabricated or falsified document with intent to deceive Parliament or a committee;\n(p)tamper with, deter, threaten, beguile or in any way unduly influence any witness in regard to his evidence before Parliament or a committee;\n(q)whether or not he has been sworn or has made an affirmation, wilfully make a false answer to any question material to the subject of inquiry put during examination before Parliament or a committee; or\n(r)when Parliament is sitting and meeting under continuity arrangements made under Article 64A of the Constitution, knowingly or rashly do any act that interferes or is likely to interfere with the means by which Members located at different places contemporaneously communicate with one another.\n[4/2021]"
+   }
+  },
+  {
+   "id": "SG-H3489-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Member to disclose pecuniary interest"
+   },
+   "text": {
+    "en": "32. A Member shall not in or before Parliament or any committee take part in the discussion of any matter in which he has a direct personal pecuniary interest without disclosing the extent of that interest and shall not in any circumstances vote upon any such matter."
+   }
+  },
+  {
+   "id": "SG-H3489-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Evidence of proceedings in Parliament or committee not to be given without leave"
+   },
+   "text": {
+    "en": "33.—(1) No Member or officer of Parliament and no person employed to take minutes of evidence before Parliament or any committee shall give evidence elsewhere in respect of the contents of such evidence or of the contents of any manuscript or document laid before Parliament or any committee or in respect of any proceedings or examination had before Parliament or before any committee without the special leave of Parliament first had and obtained.\n(2) Such special leave may be given after a dissolution or during a recess or adjournment by the Speaker or, in his absence or other incapacity, by the Clerk."
+   }
+  },
+  {
+   "id": "SG-H3489-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Printing or publishing false copy of laws, etc."
+   },
+   "text": {
+    "en": "34. Any person who prints or publishes or causes to be printed or published a copy of any law or Act now or hereafter in force, or a copy of any report, paper or journal of Parliament or of any committee as purporting to have been printed or published by the Government Printer, or by or under the authority of Parliament or any committee, or of the Speaker, which is not so printed or published, or tenders in evidence any such copy as purporting to be so printed or published, knowing that the same was not so printed or published, shall be guilty of an offence.\n[Act 5 of 2025 wef 09/03/2025]"
+   }
+  },
+  {
+   "id": "SG-H3489-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Certain fees, gifts, etc., prohibited"
+   },
+   "text": {
+    "en": "35.—(1) No person shall offer any fee, gift, compensation, profit, reward, loan, consideration or other advantage whatsoever —\n(a)to the Speaker or any Member or officer of Parliament either directly or through any person for or in respect of the promotion of or opposition to any bill, resolution, matter or thing submitted or intended to be submitted for the consideration of Parliament or any committee or otherwise with a view to influencing him in his capacity as Speaker, Member or officer of Parliament; or\n(b)to any person in order to obtain his services for the purpose of influencing the Speaker or any Member or officer of Parliament in respect of or in regard to anything connected with any matter mentioned in paragraph (a).\n(2) Any person mentioned in subsection (1)(a) or (b) who demands or accepts any such fee, gift, compensation, profit, reward, loan, consideration or other advantage shall be guilty of an offence.\n(3) On the conviction of any person for an offence under this section the court shall in addition to any penalty which it may impose in terms of section 36(1)(a) order that the value of the fee, gift, compensation, profit, reward, loan, consideration or other advantage, which is the subject of the offence, shall be paid by the recipient into the Consolidated Fund."
+   }
+  },
+  {
+   "id": "SG-H3489-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "General offences and penalties"
+   },
+   "text": {
+    "en": "36.—(1) Any person who contravenes any of the provisions of this Act shall be guilty of an offence and shall be liable on conviction —\n(a)for a contravention of section 35, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 7 years or to both;\n(b)for a contravention of section 31(d), (o), (p) or (q), to a fine not exceeding $7,000 or to imprisonment for a term not exceeding 3 years or to both; and\n(c)for a contravention of any other provision of this Act, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.\n(2) Any person who attempts to contravene any provision of this Act or abets the contravention of any such provision shall be guilty of an offence and shall be liable on conviction to the penalty to which he would have been liable for a contravention of the provision itself."
+   }
+  },
+  {
+   "id": "SG-H3489-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 5 OFFENCES AND PENALTIES"
+   },
+   "heading": {
+    "en": "Restriction on prosecution"
+   },
+   "text": {
+    "en": "37. No prosecution shall be instituted in any court for an offence under this Act unless the matter giving rise to that prosecution has been referred to the Public Prosecutor under section 21(1).\n[15/2010]"
+   }
+  },
+  {
+   "id": "SG-H3489-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Powers of Speaker supplementary to powers otherwise conferred"
+   },
+   "text": {
+    "en": "38. The powers of the Speaker conferred by this Act shall be supplementary to any powers conferred on him by the Constitution or by Standing Orders."
+   }
+  },
+  {
+   "id": "SG-H3489-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Speaker to act notwithstanding prorogation or dissolution of Parliament"
+   },
+   "text": {
+    "en": "39. For the purposes of this Act, the person who fills the office of Speaker at the time of prorogation or dissolution of Parliament shall be deemed to be the Speaker until Parliament is again summoned or until another person has been elected Speaker in accordance with the provisions of the Constitution."
+   }
+  },
+  {
+   "id": "SG-H3489-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Journals to be admitted as evidence"
+   },
+   "text": {
+    "en": "40. Upon any inquiry touching the privileges, immunities and powers of Parliament, the Speaker, any Member or any committee, any copy of the journals printed or published or purporting to be printed or published by the order of Parliament or by the Government Printer shall be admitted as evidence of such journals in all courts and places without proof of its being such copy or that such copy was so printed or published.\n[Act 5 of 2025 wef 09/03/2025]"
+   }
+  }
+ ]
+}

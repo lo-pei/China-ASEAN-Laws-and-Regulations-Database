@@ -1,0 +1,74 @@
+{
+ "id": "PH-H6652",
+ "title": {
+  "zh": null,
+  "en": "An Act Granting All Citizens' Arms Equal Opportunity to be Accredited by the Commission on Elections, amending for the Purpose Republic Act Numbered Seventy-One Hundred and Sixty-Six, as amended",
+  "orig": "An Act Granting All Citizens' Arms Equal Opportunity to be Accredited by the Commission on Elections, amending for the Purpose Republic Act Numbered Seventy-One Hundred and Sixty-Six, as amended"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p94",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1995-12-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 8173",
+ "officialCode": null,
+ "topics": [
+  "administrative"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2394,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1995/ra_8173_1995.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1995/ra_8173_1995.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H6652-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section 27 of Republic Act No. 7166, as amended by Republic Act No. 8045, is hereby further amended to read as follows:\n\"Sec. 27. Number of Copies of Election Returns and their Distribution. - The Board of election inspectors shall prepare in handwriting the election returns in their respective polling places, in the number of copies herein provided and in the form to be prescribed and provided by the Commission.\n\"The copies of the election returns shall be distributed as follows:\n\"(a) In the election of President, Vice President, Senators and Members of the House of Representatives:\n\"(1) The first copy shall be delivered to the city or municipal board of canvassers;\n\"(2) The second copy, to the Congress, directed to the President of the Senate;\n\"(3) The third copy, to the Commission;\n\"(4) The fourth copy, to the dominant majority party as determined by the Commission in accordance with law;\n\"(5) The fifth copy, to the dominant minority party is determined by the Commission in accordance with law;\n\"(6) The sixth copy, to a citizens' arm authorized by the Commission to conduct an unofficial count: provided, however, that the accreditation of the citizens' arm shall be subject to the provisions of Section 52(k) of Batas Pambansa Blg. 881; and \"(7) The seventh copy shall be deposited inside the compartment of the ballot box for valid ballots; and \"(b) In the election of local officials:\n\"(1) The first copy shall be delivered to the city or municipal board of canvassers;\n\"(2) The second copy, to the Commission;\n\"(3) The third copy, to the provincial board of canvassers;\n\"(4) The fourth copy, to the dominant majority party as determined by the Commission in accordance with law;\n\"(5) The fifth copy, to the dominant minority party as determined by the Commission in accordance with law;\n\"(6) The sixth copy, to a citizens' arm authorized by the Commission to conduct an unofficial count: provided, however, that the accreditation of the citizens' arm shall be subject to the provisions of Section 52(k) of Batas Pambansa Blg. 881; and \"(7) The seventh copy shall be deposited inside the compartment of the ballot box for valid ballots.\""
+   }
+  },
+  {
+   "id": "PH-H6652-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Repealing Clause. - All laws, decrees, executive orders, rules and regulations, or parts thereof, inconsistent with the provisions of this Act are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H6652-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Effectivity. - This Act shall take effect immediately upon its approval."
+   }
+  }
+ ]
+}

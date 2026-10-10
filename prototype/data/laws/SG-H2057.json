@@ -1,0 +1,78 @@
+{
+ "id": "SG-H2057",
+ "title": {
+  "zh": null,
+  "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2016",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p26",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ITA1947-S281-2016",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1723,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ITA1947-S281-2016?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2057-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Order is the Income Tax (Exemption of Foreign Income) (No. 3) Order 2016."
+   }
+  },
+  {
+   "id": "SG-H2057-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "2.—(1) Income comprising dividends described in sub‑paragraph (2), that are received by Cofco Agri Holdings Pte Ltd (a company incorporated in Singapore) on or after 20 May 2016 from Noble Agri Resources Limited (a company incorporated in Bermuda), is exempt from tax.\n(2) Sub‑paragraph (1) applies to dividends derived from dividends received by Noble Agri Resources Limited from the companies set out in the Schedule, which are in turn derived by those companies from carrying out their respective business activities.\n(3) The exemption in sub‑paragraph (1) is subject to the terms and conditions specified in the letter of approval dated 20 May 2016 addressed to the tax agent of Cofco Agri Holdings Pte Ltd."
+   }
+  },
+  {
+   "id": "SG-H2057-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nParagraph 2(2)\nList of companies\n1. Bonel Resources LLC\n2. Chongqing Xinfu Food Co. Ltd\n3. Globeagri Trading Pte Ltd\n4. Greensofts Trading Pte Ltd\n5. Jordan Grain Handling and Milling Company Limited\n6. Longkou Xinlong Edible Oil Co. Ltd\n7. Meadowfeed Enterprises Pte Ltd\n8. Nantong Noble Grain and Protein Co., Ltd\n9. Nantong Noble Hongtong Biological Feed Co. Ltd\n10. Noble Agri Commodities Pte Ltd\n11. Noble Agri Trading (Shanghai) Company Limited\n12. Noble Natural Resources India Private Ltd\n13. Noble Paraguay Sociedad Anonima\n14. Noble Resources FZCO\n15. Noble Resources Pte Ltd\n16. Noble Resources Netherlands B.V.\n17. Noble Resources South Africa (Pty) Ltd\n18. Noble Resources (Vietnam) Co., Ltd\n19. PT Coffee Indonesia Jaya\n20. Qinzhou Dayang Cereals and Oils Company Limited\n21. Rapco Enterprises Pte Ltd\n22. Standerton Oil Mills (Pty) Limited\n23. Uniagro International Pte Ltd\n24. UniNoble Sociedad Anonima"
+   }
+  }
+ ]
+}

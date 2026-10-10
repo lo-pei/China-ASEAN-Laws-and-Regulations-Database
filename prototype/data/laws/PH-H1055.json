@@ -1,0 +1,84 @@
+{
+ "id": "PH-H1055",
+ "title": {
+  "zh": null,
+  "en": "An Act to Create the Municipality of Llanera in the Province of Nueva Ecija",
+  "orig": "An Act to Create the Municipality of Llanera in the Province of Nueva Ecija"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p14",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1955-05-11",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1221",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1050,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1955/ra_1221_1955.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1955/ra_1221_1955.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1055-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The following named barrios are separated from their respective municipalities, all in the Province of Nueva Ecija.\nFrom San Jose,—Bagumbayan (townsite), Andres Bonifacio, Caridad, San Mauricio (portion), Parang Manga (portion), Santa Barbara, Floridablanca, Gomez, San Francisco, and Victoria;\nFrom Talavera,—General Luna, Morcon, Mabini, Ricarte, Casili, and Picon, together with sitios Plaridel and Bosque;\nFrom Rizal,—San Felipe and San Alfonso; and the same are constituted into a new and separate municipality, to be known as the Municipality of Llanera, also in the Province of Nueva Ecija, with Bagumbayan as the site of the poblacion."
+   }
+  },
+  {
+   "id": "PH-H1055-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The first municipal mayor, vice-mayor and councilors of the newly created municipality shall be appointed by the President of the Philippines and shall hold office until their successors are duly elected and have qualified."
+   }
+  },
+  {
+   "id": "PH-H1055-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The newly created municipality shall belong to, and be a part of, the Second Congressional District of Nueva Ecija."
+   }
+  },
+  {
+   "id": "PH-H1055-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: May 11, 1955."
+   }
+  }
+ ]
+}

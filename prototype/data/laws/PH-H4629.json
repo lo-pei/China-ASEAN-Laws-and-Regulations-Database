@@ -1,0 +1,84 @@
+{
+ "id": "PH-H4629",
+ "title": {
+  "zh": null,
+  "en": "An Act Providing That Bail Shall Not, With Certain Exceptions, Be Required in Cases of Violations of Municipal or City Ordinances and in Criminal Offenses When the Prescribed Penalty for Such Offenses Is Not Higher Than Arresto Mayor And/Or a Fine of Two Thousand Pesos or Both.",
+  "orig": "An Act Providing That Bail Shall Not, With Certain Exceptions, Be Required in Cases of Violations of Municipal or City Ordinances and in Criminal Offenses When the Prescribed Penalty for Such Offenses Is Not Higher Than Arresto Mayor And/Or a Fine of Two Thousand Pesos or Both."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p65",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1969-08-04",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6036",
+ "officialCode": null,
+ "topics": [
+  "criminal"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 2843,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1969/ra_6036_1969.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1969/ra_6036_1969.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4629-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Any provision of existing law to the contrary notwithstanding, bail shall not be required of a person charged with violation of a municipal or city ordinance, a light felony and/or a criminal offense the prescribed penalty for which is not higher than six months imprisonment and/or a fine of two thousand pesos, or both, where said person has established to the satisfaction of the court or any other appropriate authority hearing his case that he is unable to post the required cash or bail bond, except in the following cases:\n(a) When he is caught committing the offense in flagranti;\n(b) When he confesses to the commission of the offense unless the confession is later repudiated by him in a sworn statement or in open court as having been extracted through force or intimidation;\n(c) When he is found to have previously escaped from legal confinement, evaded sentence, or jumped bail;\n(d) When he is found to have previously violated the provisions of Section 2 hereof;\n(e) When he is found to be a recidivist or a habitual delinquent or has been previously convicted for an offense to which the law or ordinance attaches an equal or greater penalty or for two or more offenses to which it attaches a lighter penalty;\n(f) When he commits the offense while on parole or under conditional pardon; and\n(g) When the accused has previously been pardoned by the municipal or city mayor for violation of municipal or city ordinance for at least two times."
+   }
+  },
+  {
+   "id": "PH-H4629-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Instead of bail, the person charged with any offense contemplated by Section 1 hereof shall be required to sign in the presence of two witnesses of good standing in the community a sworn statement binding himself, pending final decision of his case, to report to the Clerk of the Court hearing his case periodically every two weeks. The Court may, in its discretion and with the consent of the person charged, require further that he be placed under the custody and subject to the authority of a responsible citizen in the community who may be willing to accept the responsibility. In such a case the affidavit herein mentioned shall include a statement of the person charged that he binds himself to accept the authority of the citizen so appointed by the Court. The Clerk of Court shall immediately report the presence of the accused person to the Court. Except when his failure to report is for justifiable reasons including circumstances beyond his control to be determined by the Court, any violation of this sworn statement shall justify the Court to order his immediate arrest unless he files bail in the amount forthwith fixed by the Court."
+   }
+  },
+  {
+   "id": "PH-H4629-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall apply to all person who, at the time of its approval, are under temporary detention for inability to post bail for charges contemplated by Section 1 above."
+   }
+  },
+  {
+   "id": "PH-H4629-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: August 4, 1969"
+   }
+  }
+ ]
+}

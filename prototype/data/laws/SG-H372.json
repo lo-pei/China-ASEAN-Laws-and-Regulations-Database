@@ -1,0 +1,179 @@
+{
+ "id": "SG-H372",
+ "title": {
+  "zh": null,
+  "en": "Building Control (Reportable Matters) Regulations 2025",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p05",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation BCA1989-S615-2025",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 11,
+ "chars": 11427,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/BCA1989-S615-2025?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 11 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H372-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Building Control (Reportable Matters) Regulations 2025 and come into operation on 1 October 2025."
+   }
+  },
+  {
+   "id": "SG-H372-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“appropriate form”, in relation to any purpose for which a specific form is required to be used for the purposes of these Regulations, means the relevant form that —\n(a)is provided by the Commissioner; and\n(b)is set out on the website at https://www1.bca.gov.sg;\n“Commissioner” means the Commissioner of Building Control appointed under section 3(1) of the Act to be responsible for the operation of Part 4 of the Act;\n“report” means a report made under these Regulations of a reportable matter;\n“reporter”, in relation to a report, means the person making the report as required by section 25B(2) of the Act."
+   }
+  },
+  {
+   "id": "SG-H372-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Meaning of “building product”"
+   },
+   "text": {
+    "en": "3. For the purposes of the definition of “building product” in section 22G(1) of the Act, any product, material, assembly of components, software or other thing specified in the First Schedule is each prescribed to be a building product."
+   }
+  },
+  {
+   "id": "SG-H372-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Meaning of “reportable safety incident”"
+   },
+   "text": {
+    "en": "4. Each of the following is prescribed a reportable safety incident for the purposes of paragraph (a)(iii) of the definition of “reportable matter” in section 22G(1) of the Act:\n(a)a safety incident that involves a lift as described in Part 1 of the Second Schedule;\n(b)a safety incident that involves an escalator as described in Part 2 of the Second Schedule;\n(c)a safety incident that involves a mechanised car parking system as described in Part 3 of the Second Schedule;\n(d)a safety incident that involves an exterior feature of a building as described in Part 4 of the Second Schedule."
+   }
+  },
+  {
+   "id": "SG-H372-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Meaning of “reportable safety risk”"
+   },
+   "text": {
+    "en": "5. Each of the following is prescribed a reportable safety risk for the purposes of paragraph (b)(ii) of the definition of “reportable matter” in section 22G(1) of the Act in relation to a building product:\n(a)a feature of the design or construction of the building product, or a component, accessory or other part of the building product, that —\n(i)does not conform to the Act or other building regulations; or\n(ii)does not perform, or is not capable of performing, to the standard it is represented to conform,\nsuch that the use of the building product in a building poses to any occupant of the building, or any member of the public in or in the vicinity of the building, risk of death or serious injury arising from the use of the building product in the building;\nIllustrations\n(a)Overheating of uninterruptible power supply (called “UPS”) installed in a lift, where the temperature of the UPS exceeds the designed operating temperature, which may or may not be accompanied by burn marks.\n(b)Premature wear and tear of an escalator handrail drive sheave in an escalator.\n(b)a feature of the design or construction of the building product or a component, accessory or other part of the building product that makes that building product suitable for the intended use only in particular circumstances or subject to particular conditions, but the building product is used in the building other than in those circumstances or conditions, such that the use of the building product poses to any occupant of the building, or any member of the public in or in the vicinity of the building, risk of death or serious injury arising from the use of the building product in the building."
+   }
+  },
+  {
+   "id": "SG-H372-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "When reportable matter must be notified"
+   },
+   "text": {
+    "en": "6. For the purposes of section 25B(1) of the Act, a reporter must notify the Commissioner —\n(a)within 6 hours after the reporter first becomes aware or reasonably suspects that a reportable safety incident has arisen or may have arisen involving an exterior feature of a building or a fixed installation; or\n(b)within 72 hours after the reporter first becomes aware or reasonably suspects that a reportable safety risk has arisen or may have arisen involving the use of a building product."
+   }
+  },
+  {
+   "id": "SG-H372-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Reporting"
+   },
+   "text": {
+    "en": "7.—(1) A report about a reportable matter that is required by section 25B(1) of the Act to be notified to the Commissioner must be made either —\n(a)orally in the English language and by telephone using a telephone number specified by the Commissioner for the reporting of reportable matters; or\n(b)in writing, which must be —\n(i)in the appropriate form;\n(ii)completed in the English language and in accordance with any direction specified in the appropriate form; and\n(iii)given to the Commissioner in a manner described in paragraph (3).\n(2) However, where strict compliance with an appropriate form is not possible, the Commissioner may allow for the necessary modifications to be made to that form, or for the requirements of that form to be complied with in any other manner.\n(3) A report in writing about a reportable matter may be given to the Commissioner as follows:\n(a)by sending it by email to the electronic address specified by the Commissioner for the reporting of reportable matters;\n(b)by using the electronic system provided by the Commissioner for the reporting of reportable matters.\n(4) Every report must include all the following information:\n(a)the name of the reporter making the report;\n(b)at least one of the following:\n(i)the reporter’s postal address;\n(ii)the reporter’s email address;\n(iii)the reporter’s telephone number;\n(c)a description of the reportable matter as provided in paragraph (5) or (6).\n(5) Where the reportable matter is a reportable safety incident, the report must contain the following information:\n(a)the address of the building where the incident happened;\n(b)the date and approximate time when the incident happened;\n(c)the nature and description of the incident;\n(d)the type of the fixed installation or exterior feature involved in the incident and its location in the building;\n(e)every fatality, injury or property damaged as a result of the incident.\n(6) If the reportable matter is a reportable safety risk, the report must contain the following information:\n(a)the building product involved;\n(b)the address of the building where the building product is used;\n(c)the location of the building product in the building;\n(d)the addresses of any other buildings which the reporter is aware that other building products similar to the building product giving rise to the safety risk may be used, and the type and name of these other building products;\n(e)the risk associated with the building product when using in fixed installations or exterior features in Singapore."
+   }
+  },
+  {
+   "id": "SG-H372-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Accepting report"
+   },
+   "text": {
+    "en": "8.—(1) The Commissioner must accept a report made in accordance with regulations 6 and 7 if the Commissioner reasonably believes that the matter described in the report is a reportable matter.\n(2) Upon receiving a report made in accordance with regulations 6 and 7, the Commissioner must give the reporter a receipt that sets out the date of the acceptance of the report."
+   }
+  },
+  {
+   "id": "SG-H372-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Saving"
+   },
+   "text": {
+    "en": "9. To avoid doubt, the making of a report under these Regulations does not relieve the reporter from any obligation to give notice of an accident or serious incident as required by any other written law."
+   }
+  },
+  {
+   "id": "SG-H372-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 3\nBuilding products\nPart 1\nLIFTS\n1.Speed‑monitoring and speed‑limiting device.\n2.Device to prevent the car from falling or uncontrolled movements.\n3.Device for locking a pair of car doors or a single car door.\n4.Device for locking a pair of landing doors or a single landing door.\n5.Interlocking device to prevent, during normal operation of a lift —\n(a)the starting movement of the car, whether or not deliberately activated, unless each car door and each landing door is shut and locked; and\n(b)the opening of a car door or a landing door when the car is still moving and outside a designated landing zone.\n6.Overspeed limitation device (such as an overspeed governor and links with safety gear).\n7.Energy‑dissipating buffer.\n8.Energy‑accumulating buffer that is —\n(a)non‑linear; and\n(b)with damping of the return movement.\n9.E/E/PE (within the meaning given by regulation 2(1) of the Building Control (Fixed Installations) Regulations 2025 (G.N. No. S 614/2025)) of a lift.\n10.Safety device fitted to a jack of a hydraulic power circuit where the safety device is used as a device to prevent falls.\n11.Lift control system (including the application programming or converter of integrated driving machine).\n12.Lift landing door.\n13.Lift car door.\n14.Emergency power supply for lift.\nPart 2\nESCALATORS\n1.Escalator control system (including the application programming or converter of integrated driving machine).\n2.Braking system.\n3.Auxiliary brake.\n4.E/E/PE (within the meaning given by regulation 2(1) of the Building Control (Fixed Installations) Regulations 2025) of an escalator.\n5.Main drive shaft and mechanism.\n6.Step, step chain and step axle.\n7.Handrail and handrail drive system.\nPart 3\nMECHANISED CAR PARKING SYSTEM\n1.Main electronic control panel that involves the control logic of the systems.\n2.Load carrier.\n3.Suspension element for the load carrier.\n4.Anti‑fall device.\n5.Sensor that is used to detect the presence of a driver in the transfer area including a proximity sensor, a limit switch, an entrance single beam or a light curtain.\n6.Safety circuit containing electronic components."
+   }
+  },
+  {
+   "id": "SG-H372-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 4\nReportable safety incidents\nPart 1\nLIFTS\n1.An individual dies or is injured because of an incident associated with a lift’s operation.\n2.The main drive system of a lift fails due to a reason other than the failure of the main power system of the lift.\n3.The suspension rope of a lift breaks.\n4.A lift brake fails.\n5.An energy‑dissipating or energy‑accumulating buffer fails.\n6.An interlocking device for any door of the hoistway of a lift or a lift car (including any landing door, car door or emergency access door) fails.\n7.Fire outbreak, or smoke emitted, from any part of the lift system.\n8.Lift car over‑travelling to or beyond highest or lowest floor.\n9.Lift car building up speed continuously before an abrupt stop upon impact.\n10.Lift car travelling above its normal speed or at risk of doing so.\n11.Abnormal noise from an object falling on top of a lift car or lift pit or striking against the lift car.\n12.Abnormal entanglement of wire ropes.\n13.Lift car ascending or falling suddenly in an uncontrolled manner.\n14.Major damage or dislodgment of lift car cage, ceiling, false ceiling, car door or landing door.\nPart 2\nESCALATORS\n1.An individual dies or is injured because of an incident associated with an escalator’s operation.\n2.The main drive system, handrail drive system or step drive system of an escalator fails, other than because of a failure of the escalator’s main power system.\n3.A brake or auxiliary brake of an escalator fails.\n4.Fire outbreak, or smoke emitted, from any part of the escalator system.\n5.Upriding escalator suddenly reversing direction.\n6.Escalator travelling at excessive speed.\n7.Tilting, flipping, or collapsed escalator step.\n8.Stoppage or excessive slippage of handrail.\n9.Broken balustrade glass panel.\nPart 3\nMECHANISED CAR PARKING SYSTEM\n1.An individual dies or is injured because of an incident associated with the mechanised car parking system’s operation.\n2.A brake of the mechanised car parking system fails.\n3.A device connected to the safety circuit of the mechanised car parking system fails.\nPart 4\nEXTERIOR FEATURE OF BUILDING\n1.An individual dies or is injured because of an incident associated with the condition of the exterior feature.\n2.Dislodgment of an exterior feature or any part of an exterior feature where any property (other than the exterior feature itself) is damaged because of an incident associated with the condition of the exterior feature."
+   }
+  }
+ ]
+}

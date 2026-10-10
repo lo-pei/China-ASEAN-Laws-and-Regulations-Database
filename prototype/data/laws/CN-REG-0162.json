@@ -1,0 +1,110 @@
+{
+ "id": "CN-REG-0162",
+ "title": {
+  "zh": "国务院关于在我国统一实行法定计量单位的命令",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p14",
+ "language": "zh",
+ "level": "decree",
+ "category": "行政法规",
+ "status": "active",
+ "promulgatedDate": "1984-02-27",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国务院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ITEM",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 461,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\行政法规\\国务院关于在我国统一实行法定计量单位的命令_19840227.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，一、至四、，共 4 条；来源为项目数据资源中的官方汇编文件（国务院关于在我国统一实行法定计量单位的命令_19840227.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-REG-0162-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "一、"
+   },
+   "text": {
+    "zh": "我国的计量单位一律采用《中华人民共和国法定计量单位》(附后)。"
+   }
+  },
+  {
+   "id": "CN-REG-0162-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "二、"
+   },
+   "text": {
+    "zh": "我国目前在人民生活中采用的市制计量单位，可以延续使用到一九九0年，一九九0年底以前要完成向国家法定计量单位的过渡。农田土地面积计量单位的改革，要在调查研究的基础上制订改革方案，另行公布。"
+   }
+  },
+  {
+   "id": "CN-REG-0162-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "三、"
+   },
+   "text": {
+    "zh": "计量单位的改革是一项涉及到各行各业和广大人民群諮的事，各地区、各部门务必充分重视，制定积极稳妥的实施计划，保证顺利完成。"
+   }
+  },
+  {
+   "id": "CN-REG-0162-A4",
+   "no": 4,
+   "noLabel": {
+    "zh": "四、"
+   },
+   "text": {
+    "zh": "本命令责成国家计量局负责贯彻执行。\n本命令自发布之日起生效。过去颁布的有关规定，与本命令有抵触的，以本命令为准。\n中华人民共和国法定计量单位\n我国的法定计量单位(以下简称法定单位)包括：\n(1)国际单位制的基本单位(见表1)；\n(2)国际单位制的辅助单位(见表2)；\n(3)国际单位制中具有专门名称的导出单位(见表3)；\n(4)国家选定的非国际单位制单位(见表4)；\n(5)由以上单位构成的组合形式的单位；\n(6)由词头和以上单位所构成的十进倍数和分数单位(词头见表5)。\n法定单位的定义、使用方法等，由国家计量局另行规定。\n注：表1、2、3、4、5略。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "decree",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "国务院关于在我国统一实行法定计量单位的命令"
+  },
+  "issuingBody": {
+   "zh": "国务院"
+  },
+  "promulgatedDate": "1984-02-27",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "行政法规"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

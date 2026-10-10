@@ -1,0 +1,107 @@
+{
+ "id": "SG-H3702",
+ "title": {
+  "zh": null,
+  "en": "Third Parties (Rights Against Insurers) Act 1930",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p47",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1930",
+ "effectiveDate": "2021-12-31",
+ "versionDate": null,
+ "amendedNote": "2020 Revised Edition（2021-12-31 生效）",
+ "issuingBody": null,
+ "docNumber": "Act TPRAIA1930",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 6601,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/TPRAIA1930?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 5 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3702-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Rights of third parties against insurers on bankruptcy, etc., of the insured"
+   },
+   "text": {
+    "en": "1.—(1) Where under any contract of insurance a person (referred to in this Act as the insured) is insured against liabilities to third parties which he may incur, then —\n(a)in the event of the insured becoming bankrupt or making a composition or arrangement with his creditors; or\n(b)in the case of the insured being a company, in the event of a winding‑up order being made, or a resolution for a voluntary winding up being passed, with respect to the company, or of a receiver or manager of the company’s business or undertaking being duly appointed, or of possession being taken, by or on behalf of the holders of any debentures secured by a floating charge, of any property comprised in or subject to the charge,\nif, either before or after that event, any such liability is incurred by the insured, his rights against the insurer under the contract in respect of the liability shall, notwithstanding anything in any Act or rule of law to the contrary, be transferred to and vest in the third party to whom the liability was so incurred.\n(2) Where an order is made under section 419 of the Insolvency, Restructuring and Dissolution Act 2018, for the administration of the estate of a deceased debtor according to the law of bankruptcy, then, if any debt provable in bankruptcy is owing by the deceased in respect of a liability against which he was insured under a contract of insurance as being a liability to a third party, the deceased debtor’s rights against the insurer under the contract in respect of that liability shall, notwithstanding anything in that Act, be transferred to and vest in the person to whom the debt is owing.\n[40/2018]\n(3) In so far as any contract of insurance in respect of any liability of the insured to third parties purports, directly or indirectly, to avoid the contract or to alter the rights of the parties thereunder upon the happening to the insured of any of the events specified in paragraph (a) or (b) of subsection (1) or upon the making of an order under section 419 of the Insolvency, Restructuring and Dissolution Act 2018, in respect of his estate, the contract shall be of no effect.\n[40/2018]\n(4) Upon a transfer under subsection (1) or (2), the insurer shall, subject to section 3, be under the same liability to the third party as he would have been under to the insured, but —\n(a)if the liability of the insurer to the insured exceeds the liability of the insured to the third party, nothing in this Act shall affect the rights of the insured against the insurer in respect of the excess; and\n(b)if the liability of the insurer to the insured is less than the liability of the insured to the third party, nothing in this Act shall affect the rights of the third party against the insured in respect of the balance.\n(5) For the purposes of this Act, “liabilities to third parties”, in relation to a person insured under any contract of insurance, shall not include any liability of that person in the capacity of insurer under some other contract of insurance.\n(6) This Act shall not apply —\n(a)where a company is wound up voluntarily merely for the purposes of reconstruction or of amalgamation with another company; or\n(b)to any case to which section 28(1), (2) and (3) of the Work Injury Compensation Act 2019, or section 19(1), (1A) and (2) of the Work Injury Compensation Act (Cap. 354, 2009 Revised Edition) repealed by the Work Injury Compensation Act 2019, applies.\n[5/2008; 27/2019]"
+   }
+  },
+  {
+   "id": "SG-H3702-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Duty to give necessary information to third parties"
+   },
+   "text": {
+    "en": "2.—(1) In the event of any person becoming bankrupt or making a composition or arrangement with his creditors, or in the event of an order being made under section 419 of the Insolvency, Restructuring and Dissolution Act 2018, in respect of the estate of any person, or in the event of a winding‑up order being made, or a resolution for a voluntary winding up being passed, with respect to any company or of a receiver or manager of the company’s business or undertaking being duly appointed or of possession being taken by or on behalf of the holders of any debentures secured by a floating charge of any property comprised in or subject to the charge, it shall be the duty of the bankrupt, debtor, personal representative of the deceased debtor or company, and, as the case may be, of the trustee in bankruptcy, trustee, liquidator, receiver, or manager, or person in possession of the property to give, at the request of any person claiming that the bankrupt, debtor, deceased debtor, or company is under a liability to him, such information as may reasonably be required by him for the purpose of ascertaining whether any rights have been transferred to and vested in him by this Act and for the purpose of enforcing such rights, if any, and any contract of insurance, in so far as it purports, directly or indirectly, to avoid the contract or to alter the rights of the parties thereunder upon the giving of any such information in the events aforesaid or otherwise to prohibit or prevent the giving thereof in the said events shall be of no effect.\n[40/2018]\n(2) If the information given to any person in pursuance of subsection (1) discloses reasonable ground for supposing that there have or may have been transferred to him under this Act rights against any particular insurer, that insurer shall be subject to the same duty as is imposed by that subsection on the persons therein mentioned.\n(3) The duty to give information imposed by this section shall include a duty to allow all contracts of insurance, receipts for premiums, and other relevant documents in the possession or power of the person on whom the duty is so imposed to be inspected and copies thereof to be taken."
+   }
+  },
+  {
+   "id": "SG-H3702-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Settlement between insurers and insured persons"
+   },
+   "text": {
+    "en": "3. Where the insured has become bankrupt or where, in the case of the insured being a company, a winding‑up order has been made or a resolution for a voluntary winding up has been passed, with respect to the company, no agreement made between the insurer and the insured after liability has been incurred to a third party and after the commencement of the bankruptcy or winding up, as the case may be, nor any waiver, assignment, or other disposition made by, or payment made to the insured after the commencement aforesaid shall be effective to defeat or affect the rights transferred to the third party under this Act, but those rights shall be the same as if no such agreement, waiver, assignment, disposition or payment had been made."
+   }
+  },
+  {
+   "id": "SG-H3702-A3.001",
+   "no": 3.001,
+   "noLabel": {
+    "en": "3A."
+   },
+   "heading": {
+    "en": "Application to limited liability partnerships"
+   },
+   "text": {
+    "en": "3A. This Act applies to limited liability partnerships registered under the Limited Liability Partnerships Act 2005 as it applies to companies.\n[5/2005]"
+   }
+  },
+  {
+   "id": "SG-H3702-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "4. This Act may be cited as the Third Parties (Rights against Insurers) Act 1930."
+   }
+  }
+ ]
+}

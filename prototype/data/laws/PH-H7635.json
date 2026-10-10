@@ -1,0 +1,1052 @@
+{
+ "id": "PH-H7635",
+ "title": {
+  "zh": "植物新品种保护法",
+  "en": "An Act to Provide Protection to New Plant Varieties, Establishing a National Plant Variety Protection Board and for other Purposes",
+  "orig": "An Act to Provide Protection to New Plant Varieties, Establishing a National Plant Variety Protection Board and for other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p108",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2002-06-07",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 9168",
+ "officialCode": null,
+ "topics": [
+  "ip"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 78,
+ "chars": 38453,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2002/ra_9168_2002.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 78 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2002/ra_9168_2002.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 80 条，缺 3、9、74）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号。 源文存在同号重出的条款（第 73 条）：该处官方页面确有两段均标同一 Section 号，本库照录其 `no` 值（不改动官方编号），条文 `id` 以 `_2`「_3」后缀保证唯一。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H7635-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Short Title. – This Act shall be known and cited as the \"Philippine Plant Variety Protection Act of 2002\""
+   }
+  },
+  {
+   "id": "PH-H7635-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Statement of Policies. –\na) The State recognizes that an effective intellectual property system in general and the development of new plant variety in particular is vital in attaining food security for the country. To this end, it shall protect and secure the exclusive rights of breeders with respect to their new plant variety particularly when beneficial to the people for such periods as provided for in this Act.\nb) The use of intellectual property bears a socioeconomic function. To this end, the State shall promote the diffusion of technology and information for the promotion of national development and progress for the common good.\nc) The State recognizes the indispensable role of the private sector, encourages the participation of private enterprises and provides incentives to needed investments in the development of new plant varieties.\nd) The State recognizes that science and technology are essential for national development and promotes the adaptation of technology and knowledge from all sources for the national benefit. The State also recognizes the need to protect and secure the exclusive rights of scientists and other gifted citizens to their intellectual property and creations.\ne) The State, while recognizing intellectual property rights in the field of agriculture, does so in a manner supportive of and not inconsistent with its obligation to maintain a healthful ecology in accord with the rhythm and harmony of nature.\nDefinitions\nSection 3 . Definitions. -\na) \"Applicant\" means the breeder who applies for the grant of a Certificate of Plant Variety Protection.\nb) \"Board\" means the National Plant Variety Protection Board created by this Act. It shall also refer to the National Seed Industry Council during the transition period from the effectivity of this Act up to the time the said Board has been organized and operating.\nc) \"breeder\" means:\n1. The person who bred, or discovered and developed a new plant variety; or\n2. The person who is the employer of the aforementioned person or who has commissioned the work; or\n3) The successors-in-interest of the foregoing persons as the case may be; or\n4) The holder of the Certificate of Plant Variety Protection.\nd) \"Certificate of Plant Variety Protection\" means the document issued by the Board pursuant to this Act for the protection of a new plant variety.\ne) \"Commission\" means to engage the services of a person to develop new plant varieties in exchange for monetary or any material consideration.\nf) \"Harvested material\" means any part of a plant with potential economic value or any product made directly therefrom in proper case.\ng) \"Holder\" means a person who has been granted a Certificate of Plant Variety Protection or his successors-in-interest.\nh) \"Persons\" includes natural persons and juridical persons.\n(i) \"Plant\" includes terrestrial and aquatic flora.\nj) \"Plant Variety Protection (PVP)\" mans the rights of breeders over their new plant variety as defined in this Act.\nk) \"Propagating material\" means any part of the plant that can be used to reproduce the protected variety.\nl) \"Regulations\" means the rules and regulations promulgated by the Board for the purpose of implementing the provisions of this Act.\nm) \"Variety\" means a plant grouping within a single botanical taxon of the lowest known rank, that without regard to whether the conditions for plant variety protection are fully met, can be defined by the expression of the characteristics resulting from a given genotype or combination of genotypes, distinguished from any other plant groupings by the expression of at least one (1) characteristics, and considered as a unit with regard to the suitability for being propagated unchanged. A variety may be represented by seed, transplants, plants, tubers, tissue culture plantlets, and other forms.\nConditions for the Grant of the Plant Variety Protection"
+   }
+  },
+  {
+   "id": "PH-H7635-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "chapter": {
+    "en": "TITLE III"
+   },
+   "text": {
+    "en": "The Certificate of Plant Variety Protection shall be granted for varieties that are:\na) New;\nb) Distinct;\nc) Uniform; and\nd) Stable."
+   }
+  },
+  {
+   "id": "PH-H7635-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "chapter": {
+    "en": "TITLE III"
+   },
+   "text": {
+    "en": "Newness. - A variety shall be deemed new if the propagating or harvested material of the variety has not been sold, offered for sale or otherwise disposed of to others, by or with the consent of the breeder, for purposes of exploitation of the variety;\na) In the Philippines for more than one (1) year before the date of filing of an application for plant variety protection; or\nb) In other countries or territories in which the application has been filed, for more than four (4) years or, in the case of vines or tress, more than six (6) years before the date of filing of an application for Plant Variety Protection.\nHowever, the requirement of novelty provided for in this Act shall not apply to varieties sold, offered for sale or disposed of to others for a period of five (5) years before the approval of this Act. Provided, That application for PVP shall be filed within one (1) year from the approval of this act."
+   }
+  },
+  {
+   "id": "PH-H7635-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "chapter": {
+    "en": "TITLE III"
+   },
+   "text": {
+    "en": "Distinctness. - A variety shall be deemed distinct if it is clearly distinguishable from any commonly known variety. The filing of an application for the granting of a plant variety protection or for the entering of a new variety in an official register of variety in the Philippines or in any country, shall render the said variety a matter of public knowledge from the date of the said application: Provided, That the application leads to the granting of a Certificate of Plant Variety Protection or the entering of the said other variety in the official register of variety as the case may be."
+   }
+  },
+  {
+   "id": "PH-H7635-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "chapter": {
+    "en": "TITLE III"
+   },
+   "text": {
+    "en": "Uniformity. - The variety shall be deemed uniform if, subject to the variation that may be expected from the particular features of its propagation, it is sufficiently uniform in its relevant characteristics."
+   }
+  },
+  {
+   "id": "PH-H7635-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "chapter": {
+    "en": "TITLE III"
+   },
+   "text": {
+    "en": "Stability. - The variety shall be deemed stable if its relevant characteristics remain unchanged after repeated propagation or, in the case of a particular cycle of propagation, at the end of each such cycle.\nVariety Denomination\nSection 9 . Variety Denomination. - The variety shall be designated by a denomination which shall be its generic description. In particular, it must be different from any denomination that designates an existing variety of the same plant species or closely related species."
+   }
+  },
+  {
+   "id": "PH-H7635-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "chapter": {
+    "en": "TITLE IV"
+   },
+   "text": {
+    "en": "Right of Priority over Denomination. - The use of a denomination shall not be granted to a breeder if such denomination has already been registered to another breeder or is being used by a third party in relation to the sale or offering for sale of a particular variety prior to the filing date or priority date of an application for a Certificate of Plant Variety Protection. In case two (2) or more breeders/applicants apply for the registration of the same denomination, the breeder/applicant who has the earliest filing date or priority date shall have the right to register the same to the exclusion of the other applicant/breeder(s)."
+   }
+  },
+  {
+   "id": "PH-H7635-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "chapter": {
+    "en": "TITLE IV"
+   },
+   "text": {
+    "en": "Figures as Denomination. - The denomination must enable the variety to be identified. It may not consist solely of figures except when it is an established practice for designating such a variety."
+   }
+  },
+  {
+   "id": "PH-H7635-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "chapter": {
+    "en": "TITLE IV"
+   },
+   "text": {
+    "en": "Misleading Denomination. - No denomination shall be accepted if it is liable to mislead or to cause confusion concerning the characteristic value or identity of the variety or identity of the breeder."
+   }
+  },
+  {
+   "id": "PH-H7635-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "chapter": {
+    "en": "TITLE IV"
+   },
+   "text": {
+    "en": "Refusal of Denomination. - If the denomination does not satisfy these requirements, its registration shall be refused and the breeder shall be required to propose another denomination within a prescribed period. The denomination shall be registered together with the grant of the breeder's right."
+   }
+  },
+  {
+   "id": "PH-H7635-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "chapter": {
+    "en": "TITLE IV"
+   },
+   "text": {
+    "en": "Denomination Used in an Application Previously Filed abroad. - An application filed in this country, the subject matter of which is the same as that of an application previously filed abroad, shall use the same denomination as the latter. However, if such denomination does not conform to the provisions of this Title, the applicant/breeder shall be required to submit a new denomination."
+   }
+  },
+  {
+   "id": "PH-H7635-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "chapter": {
+    "en": "TITLE IV"
+   },
+   "text": {
+    "en": "Obligation to Use Denomination. - Any person, who offers for sale or markets in the Philippines, propagating material of a variety protected, shall be obliged to use the denomination of that variety, even after the expiration of the breeder's right therefor except when the rule of prior rights apply."
+   }
+  },
+  {
+   "id": "PH-H7635-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "chapter": {
+    "en": "TITLE IV"
+   },
+   "text": {
+    "en": "Use of Marks. - When a protected variety is offered for sale or marketed, it may be associated with a trademark, trade name or other similar indication with a registered denomination. If such an indication is so associated, the denomination must nevertheless be easily recognizable.\nApplicants to a Plant Variety Protection"
+   }
+  },
+  {
+   "id": "PH-H7635-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "chapter": {
+    "en": "TITLE V"
+   },
+   "text": {
+    "en": "Entitlement. - Any breeder, with respect to the variety developed, may apply for a plant variety developed, may apply for a plant variety protection and obtain a Certificate of Plant Variety Protection upon compliance with the requirements of this Act."
+   }
+  },
+  {
+   "id": "PH-H7635-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "chapter": {
+    "en": "TITLE V"
+   },
+   "text": {
+    "en": "Co-ownership of the Right. - If two (2) or more persons contribute to the development of a new plant variety, all of them shall be named in the Certificate of Plant Variety Protection and shall be entitled to such rights as agreed upon in writing or in the absence thereof, the rights in proportion to their contribution in the development of plant variety."
+   }
+  },
+  {
+   "id": "PH-H7635-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "chapter": {
+    "en": "TITLE V"
+   },
+   "text": {
+    "en": "Employee-Employer relationship. - in case an employee develops a plant variety in the course of his employment as a result of the performance of his regular duty, the plant variety protection shall belong to the employer, unless there is a written stipulation to the contrary."
+   }
+  },
+  {
+   "id": "PH-H7635-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "chapter": {
+    "en": "TITLE V"
+   },
+   "text": {
+    "en": "First to File Rule. - If two (2) or more persons develop a new plant variety separately and independently of each other, the Certificate of Plant Variety Protection shall belong to the person who files the application first. In case two (2) or more persons file an application for the same plant variety, the right shall be granted to the person who has the earliest filing date or priority date."
+   }
+  },
+  {
+   "id": "PH-H7635-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "chapter": {
+    "en": "TITLE V"
+   },
+   "text": {
+    "en": "Priority Date. - Any application for a Certificate of Plant Variety Protection previously filed by a breeder in another country, which by treaty, convention or law affords similar privileges to Filipino citizens, shall be considered as filed locally as of the date of filing of the foreign application: Provided, That:\na) The local application expressly claims priority;\nb) It is filed within twelve (12) months from the filing date of the earliest foreign application; and\nc) The applicant submits, within six (6) months from the filing of the local application, authenticated copies of documents which constitute the foreign application, samples or other evidence showing that the variety which is being applied for protection is the same variety which has been applied for protection in a foreign country."
+   }
+  },
+  {
+   "id": "PH-H7635-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "chapter": {
+    "en": "TITLE V"
+   },
+   "text": {
+    "en": "Foreign Nationals. - For purposes of this Act, a person shall be considered a national of a foreign country if he is a citizen of such country according to its laws, a natural person residing therein, or is a legal entity whose office is registered in such foreign country."
+   }
+  },
+  {
+   "id": "PH-H7635-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "chapter": {
+    "en": "TITLE V"
+   },
+   "text": {
+    "en": "National Treatment. - Any application filed locally for a Certificate of Plant Variety Protection previously granted to a breeder in another country, which by treaty, convention or law affords similar privileges to Filipino citizens, shall be issued a Certificate of Plant Variety Protection upon payment of dues and compliance to all the provisions of this Act. This Act shall also apply to the nationals of foreign countries that are members of intergovernmental organizations or party to any multilateral agreement or convention concerning the granting of intellectual property protection to plant varieties.\nExamination of the Application and Issuance of PVP Certificate"
+   }
+  },
+  {
+   "id": "PH-H7635-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "chapter": {
+    "en": "TITLE VI"
+   },
+   "text": {
+    "en": "Contents of the Application. - An application for a Certificate of Plant Variety Protection shall be filed in the manner and on the conditions prescribed in the regulations, and shall include:\na) Name of the applicant/breeder;\nb) Address of the applicant/breeder in the Philippines;\nc) Name of resident agent and address in the Philippines;\nd) The description of the variety bred, including particulars of its characteristics;\ne) The variety denomination;\nf) Sample of propagating materials, which are the subject of the application; and\ng) Any other particular required by the regulations."
+   }
+  },
+  {
+   "id": "PH-H7635-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "chapter": {
+    "en": "TITLE VI"
+   },
+   "text": {
+    "en": "Rights of the Applicant to File the Application. - If the applicant is not the actual breeder, he shall indicate in his application the basis for his right to file the application."
+   }
+  },
+  {
+   "id": "PH-H7635-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "chapter": {
+    "en": "TITLE VI"
+   },
+   "text": {
+    "en": "Contents of the Description and Order of Presentation. - The Board shall issue rules and regulations stipulating the contents of the description and the order of presentation."
+   }
+  },
+  {
+   "id": "PH-H7635-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "chapter": {
+    "en": "TITLE VI"
+   },
+   "text": {
+    "en": "Other Information Required. - The applicant shall be required by the Board to furnish information regarding any application filed by him in other countries including all pertinent documents relating thereto. If the applicant has successfully claimed priority according to this Act, he shall be given a period of two (2) years from the priority date to comply with the requirements of this Section."
+   }
+  },
+  {
+   "id": "PH-H7635-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "chapter": {
+    "en": "TITLE VI"
+   },
+   "text": {
+    "en": "Manner of Conducting Tests. - The Board may carry out the necessary tests, cause the conduct of tests, or consider the results of other tests or trials that have already been done. For this purpose, the Board shall require the applicant to furnish all the necessary information, documents or materials within a period of time prescribed in the regulations."
+   }
+  },
+  {
+   "id": "PH-H7635-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "chapter": {
+    "en": "TITLE VI"
+   },
+   "text": {
+    "en": "Filing Date. - For purposes of according a filing date, the Board shall consider, as a minimum requirement, all of the above enumerated items in Section 24 hereof."
+   }
+  },
+  {
+   "id": "PH-H7635-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "chapter": {
+    "en": "TITLE VI"
+   },
+   "text": {
+    "en": "Publication of the Application. - After the Board has accorded a filing date, the application shall be published within sixty (60) days at the expense of the applicant in the Plant Variety Gazette hereunder described in Section 73.\nPrior to such publication, the application and all related documents shall not be made available to the public without the written consent of the applicant.\nAfter publication of the application, any person may inspect the application documents in a manner to be prescribed by the Board."
+   }
+  },
+  {
+   "id": "PH-H7635-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31."
+   },
+   "chapter": {
+    "en": "TITLE VI"
+   },
+   "text": {
+    "en": "Opposition to the Grant of Plant Variety Protection. - Any person who believes that the applicant is not entitled to the grant of the Certificate of Plant Variety Protection may file an opposition thereto within the period prescribed by the Board from the date of its publication and before the issuance of the Certificate of Plant Variety Protection.\nOpposition to the application may be made on the following grounds:\na) that the person opposing the application is entitled to the breeder's right as against the applicant;\nb) that the variety is not registrable under this Act.\nIf the opposition is based on the conditions of Plant Variety Protection, such opposition shall be considered together with the examination of the application."
+   }
+  },
+  {
+   "id": "PH-H7635-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32."
+   },
+   "chapter": {
+    "en": "TITLE VI"
+   },
+   "text": {
+    "en": "Issuance of the Certificate. - When the Board has tested and examined the variety, and/or considered the supporting materials and literature pertinent thereto, it shall issue a Certificate of Plant Variety Protection. A notice of such issuance shall be published in the manner to be prescribed in the regulations at the expense of the holder."
+   }
+  },
+  {
+   "id": "PH-H7635-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33."
+   },
+   "chapter": {
+    "en": "TITLE VI"
+   },
+   "text": {
+    "en": "Term of Protection. - For trees and vines, the period of protection shall be twenty-five (25) years from the date of the grant of the Certificate of Plant Variety Protection and twenty (20) years from the said date for all other types of plants, unless declared void ab initio or cancelled otherwise, as provided under Section 61 and 62, respectively of this Act."
+   }
+  },
+  {
+   "id": "PH-H7635-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34."
+   },
+   "chapter": {
+    "en": "TITLE VI"
+   },
+   "text": {
+    "en": "Annual Fees. - To maintain the validity of the Certificate of Plant Variety Protection, the holder shall pay an annual fee to be prescribed by the Board. Annual fees shall be paid starting from the fourth anniversary of the issuance of the certificate and every year thereafter with the first three (3) months of said years. The holder has the option to pay in advance this annual fee for a maximum of twenty (20) years.\nThe Certificate of Plant Variety Protection shall expire and cease to have force and effect upon the holder's failure to pay the annual fees within the prescribed period. A notice of such cancellation shall be published in the Plant Variety Gazette one (1) year after the term of protection has expired. Before such publication, any holder who fails to pay the annual fees may request for a reinstatement of his certificate: Provided, That he settles his unpaid accounts including surcharges to be determined by the Board."
+   }
+  },
+  {
+   "id": "PH-H7635-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35."
+   },
+   "chapter": {
+    "en": "TITLE VI"
+   },
+   "text": {
+    "en": "Notice of Rejection. - Whenever an application is rejected, the Board shall immediately inform the applicant on the grounds therefor, and when applicable, identify and provide the documents used as the basis for rejection.\na) Reconsideration - Within two (2) months from the receipt of the rejection notice, the applicant may amend his application or traverse the finding of the Board. The Board, in turn, may reverse its initial finding or issue a final rejection within the same period.\nb) Appeal from the Notice of Rejection - The decision applicant of the Board is final except for anomalous circumstances involving the Board in which case the may appeal it to the proper court.\nRights of Holders"
+   }
+  },
+  {
+   "id": "PH-H7635-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36."
+   },
+   "chapter": {
+    "en": "TITLE VII"
+   },
+   "text": {
+    "en": "Rights of Holders of Plant Variety Protection. - In respect of the propagating materials, holders of a Certificate of Plant Variety Protection shall have the right to authorize any of the following acts:\na) Production or reproduction;\nb) Conditioning for the purpose of propagation;\nc) Offering for sale;\nd) Selling or other marketing;\ne) Exporting;\nf) Importing; and\ng) Stocking for any purpose mentioned above."
+   }
+  },
+  {
+   "id": "PH-H7635-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37."
+   },
+   "chapter": {
+    "en": "TITLE VII"
+   },
+   "text": {
+    "en": "The holder may make his authorization subject to conditions and limitations."
+   }
+  },
+  {
+   "id": "PH-H7635-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38."
+   },
+   "chapter": {
+    "en": "TITLE VII"
+   },
+   "text": {
+    "en": "Acts in Respect of Harvested Materials. - Except for Sections 43 and 44 of this Title, the rights in the two (2) preceding sections shall also extend to the harvested materials which may be the entire plant or its other parts, if the production thereof resulted directly from the unauthorized use of the plant's propagating materials that are covered by this Act, unless the holder has had the reasonable opportunity to exercise his right in relation to the said propagating materials."
+   }
+  },
+  {
+   "id": "PH-H7635-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39."
+   },
+   "chapter": {
+    "en": "TITLE VII"
+   },
+   "text": {
+    "en": "Coverage of Protection. - The rights of holder under Sections 36 and 38 of this Act shall also apply in relation to:\na) Varieties which are essentially derived from the protected variety, where the protected variety is not itself an essentially derived variety;\nb) Varieties which are not clearly distinct from the protected variety; and\nc) Varieties whose production requires the repeated use of the protected variety."
+   }
+  },
+  {
+   "id": "PH-H7635-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40."
+   },
+   "chapter": {
+    "en": "TITLE VII"
+   },
+   "text": {
+    "en": "Essentially Derived Varieties. - For the purpose of paragraph 39(a), a variety shall be deemed to be essentially derived from the initial variety when:\na) it is predominantly derived from the initial variety, or from a variety that is itself predominantly derived from the initial variety, while retaining the expression of the essential characteristics that result from the genotype or combination of genotypes of the initial variety;\nb) It is clearly distinguishable from the initial variety; and\nc) Except for the differences which result from the act of derivation, it conforms to the initial variety in the expression of the essential characteristics that result from the genotype or combination of genotypes of the initial variety."
+   }
+  },
+  {
+   "id": "PH-H7635-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41."
+   },
+   "chapter": {
+    "en": "TITLE VII"
+   },
+   "text": {
+    "en": "Manner of Developing Essentially Derived Varieties. - It shall also be understood that essentially derived varieties may be obtained through processes which may include, but not limited to, the selection of a natural or induced mutant, or of a somoclonal variant, the selection of a variant individual from plants of initial variety, backcrossing or transformation by genetic engineering. Genetic engineering shall be understood as the introduction of genes by laboratory techniques."
+   }
+  },
+  {
+   "id": "PH-H7635-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42."
+   },
+   "chapter": {
+    "en": "TITLE VII"
+   },
+   "text": {
+    "en": "Provisional Protection. - An applicant for a Certificate of Plant Variety Protection shall be entitled to equitable remuneration from any person who, during the period between the publication of the application for the certificate and the grant of that certificate, has carried out acts which, once the certificate is granted, required the holder's authorization as conferred in this Act: Provided, That the applicant shall initiate the legal action against the alleged infringer within two (2) years from the date of the granting of his Certificate of Plant Variety Protection."
+   }
+  },
+  {
+   "id": "PH-H7635-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43."
+   },
+   "chapter": {
+    "en": "TITLE VII"
+   },
+   "text": {
+    "en": "Exceptions to Plant Variety Protection. - The Certificate of Plant Variety Protection shall not extent to:\na) Acts done for noncommercial purposes; b)Acts done for experimental purposes;\nc) Acts done for the purpose of breeding other varieties, except when Sections 39 and 40 apply; and\nd) The traditional right of small farmers to save, use, exchange, share or sell their farm produce of a variety protected under this Act, except when a sale is for the purpose of reproduction under a commercial marketing agreement. The Board shall determine the condition under which this exception shall apply, taking into consideration the nature of the plant cultivated, grown or sown. This provision shall also extend to the exchange and sell of seeds among and between said small farmers: Provided, That the small farmers may exchange or sell seeds for reproduction and replanting in their own land."
+   }
+  },
+  {
+   "id": "PH-H7635-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44."
+   },
+   "chapter": {
+    "en": "TITLE VII"
+   },
+   "text": {
+    "en": "Exhaustion of Plant Variety Protection. - The Certificate of Plant Variety Protection shall not extend to acts concerning any material of the protected variety, or a variety covered by the provisions of Sections 39 and 40 hereof, which has been sold or otherwise marketed by the breeder or with his consent in the Philippines, or any material derived from the said material, unless it:\na) Involves further propagation of the variety in question; or\nb) Involves the export of the variety, which enables the propagation of the variety, into a country that does not protect the variety of the plant genus or species to which the variety belongs, except where the exported material is for final consumption purposes."
+   }
+  },
+  {
+   "id": "PH-H7635-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45."
+   },
+   "chapter": {
+    "en": "TITLE VII"
+   },
+   "text": {
+    "en": "Rights of Attribution. - No Certificate of Plant Variety Protection shall be issued without naming the breeder(s) unless this right is protested in writing within one (1) year."
+   }
+  },
+  {
+   "id": "PH-H7635-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46."
+   },
+   "chapter": {
+    "en": "TITLE VII"
+   },
+   "text": {
+    "en": "Succession/Transmission. - The Certificate of Plant Variety Protection shall be considered as a property right and the transmission thereof shall be governed by the law on Property.\nInfringement"
+   }
+  },
+  {
+   "id": "PH-H7635-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47."
+   },
+   "chapter": {
+    "en": "TITLE VIII"
+   },
+   "text": {
+    "en": "What Constitutes Infringement. - Except as otherwise provided in this Act, any person who without being entitled to do so, performs the following acts:\na) Sell the novel variety, or offer it or expose it for sale, deliver it, ship it, consign it, exchange it, or solicit an offer to buy it, or any other transfer of title or possession of it; or\nb) Import the novel variety into, or export it from, the Philippines; or\nc) Sexually multiply the novel variety as a step in marketing (for growing purposes) the variety; or\nd) Use the novel variety in producing (as distinguished from developing) a hybrid or different variety therefrom; or\ne) Use seed which had been marked \"unauthorized propagation prohibited\" or \"unauthorized seed multiplication prohibited\" or progeny thereof to propagate the novel variety; or\nf) Dispense the novel variety to another, in a form which can be propagated, without notice as to being a protected variety under which it was received; or\ng) Fails to use a variety denomination the use of which is obligatory under Section 15; or\nh) Perform any of the foregoing acts even in instances in which the novel variety is multiplied other than sexually, except in pursuance of a valid Philippine plant patent; or\n(i) Instigate or actively induce performance of any foregoing acts, may be sued by the holder, who may also avail of all such relief as are available in any proceeding involving infringements of other proprietary rights."
+   }
+  },
+  {
+   "id": "PH-H7635-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48."
+   },
+   "chapter": {
+    "en": "TITLE VIII"
+   },
+   "text": {
+    "en": "Where to Commence Action. - Any holder may petition the proper regional trial court for infringement of his plant variety protection as defined in this Act."
+   }
+  },
+  {
+   "id": "PH-H7635-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49."
+   },
+   "chapter": {
+    "en": "TITLE VIII"
+   },
+   "text": {
+    "en": "Presumption of Validity. - Certificate of Plant Variety Protection shall be presumed valid and the burden of proof of their invalidity shall rest on the party assailing them."
+   }
+  },
+  {
+   "id": "PH-H7635-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50."
+   },
+   "chapter": {
+    "en": "TITLE VIII"
+   },
+   "text": {
+    "en": "Defenses Against Infringement Charges. - The following shall be valid defenses against infringement charges:\na) Non-infringement;\nb) The plant variety does not possess at the time of its application criterion of novelty or distinctness;\nc) The alleged infringement was performed under a right adverse to it, prior to the notice of infringement; and/or\nd) Other defenses that are made available under this Act."
+   }
+  },
+  {
+   "id": "PH-H7635-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51."
+   },
+   "chapter": {
+    "en": "TITLE VIII"
+   },
+   "text": {
+    "en": "Notice. - No damages shall be awarded unless there is actual or constructive notice made upon the alleged infringer."
+   }
+  },
+  {
+   "id": "PH-H7635-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52."
+   },
+   "chapter": {
+    "en": "TITLE VIII"
+   },
+   "text": {
+    "en": "Damages. - The court may award actual, moral, exemplary damages and attorney's fees according to a proven amount including a reasonable royalty for the use of the protected variety."
+   }
+  },
+  {
+   "id": "PH-H7635-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53."
+   },
+   "chapter": {
+    "en": "TITLE VIII"
+   },
+   "text": {
+    "en": "Injunction. - The court may also enjoin the infringer(s) from further performing any act of infringement on the rights of the holder(s) as defined in this Act."
+   }
+  },
+  {
+   "id": "PH-H7635-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54."
+   },
+   "chapter": {
+    "en": "TITLE VIII"
+   },
+   "text": {
+    "en": "Court to Order Confiscation of Infringing Materials. - Upon petition by the complainant, the court may order the confiscation of infringing materials, and:\na) Cause their distribution to charitable organization;\nb) Cause the sale and provide the proceeds thereof to research organizations; or\nc) Cause the return to the petitioner for further scientific use."
+   }
+  },
+  {
+   "id": "PH-H7635-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55."
+   },
+   "chapter": {
+    "en": "TITLE VIII"
+   },
+   "text": {
+    "en": "Prescription. - No recovery of damages for any infringement case shall prosper when the cause of action has reached more than six (6) years from the time the alleged infringement case was committed."
+   }
+  },
+  {
+   "id": "PH-H7635-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56."
+   },
+   "chapter": {
+    "en": "TITLE VIII"
+   },
+   "text": {
+    "en": "Criminal Penalty. - Any person who violates any of the rights of the holder provided for in this Act may also suffer the penalty of imprisonment of not less than three (3) years but not more than six (6) years and/or a fine of up to three (3) times the profit derived by virtue of the infringement but in no case should be less than One Hundred Thousand pesos (P100,000.00).\nCompulsory License"
+   }
+  },
+  {
+   "id": "PH-H7635-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57."
+   },
+   "chapter": {
+    "en": "TITLE IX"
+   },
+   "text": {
+    "en": "Grounds for the Grant of Compulsory Licensing. - Any interested person may file a petition for compulsory license with the Board at any time after two (2) years from the grant of the Certificate of Plant Variety Protection under this Act when it is for the public interest to grant such compulsory license, and:\na) The reasonable requirements of the public for any part of the variety are not met; or\nb) There is an overseas market for the sale of any part of the variety and the same are not met by the holder; or\nc) The plant variety developed relates to or required in the production of medicine and/or any food preparation."
+   }
+  },
+  {
+   "id": "PH-H7635-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58."
+   },
+   "chapter": {
+    "en": "TITLE IX"
+   },
+   "text": {
+    "en": "Scope of Compulsory License. - The Board, upon petition by any interested party and upon proof of any of the foregoing grounds, may issue a decision:\na) Allowing the petitioner to produce in commercial quantity and distribute the variety protected or any part thereof; or\nb) Requiring the holder to ensure the availability of the propagating materials of the variety protected; or\nc) Requiring the petitioner to pay the holder with license fees in the form of reasonable royalties; and\nd) Other such additional remedies at the Board may determine to be consistent with appropriate circumstances."
+   }
+  },
+  {
+   "id": "PH-H7635-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59."
+   },
+   "chapter": {
+    "en": "TITLE IX"
+   },
+   "text": {
+    "en": "Duration of the License. - A compulsory license shall be effective until the ground(s) for its issuance has been terminated as determined by the Board motu proprio or upon petition by party or parties and resolution by the Board."
+   }
+  },
+  {
+   "id": "PH-H7635-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60."
+   },
+   "chapter": {
+    "en": "TITLE IX"
+   },
+   "text": {
+    "en": "Procedure for Grant. - The Board shall provide in the rules and regulations the manner and procedure for granting compulsory licenses.\nCancellation and Nullity of Plant Variety Protection"
+   }
+  },
+  {
+   "id": "PH-H7635-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61."
+   },
+   "chapter": {
+    "en": "TITLE X"
+   },
+   "text": {
+    "en": "Grounds for Nullity. - The Certificate of Plant Variety Protection shall be declared void ab initio on any of the following grounds:\na) The grant of the Certificate of Plant Variety Protection was essentially based upon information and documents furnished by the applicant, wherein the conditions of distinctness, uniformity, stability, and newness were not complied with the time of the grant of the certificate; or\nb) The Certificate of Plant Variety Protection was granted to a person who is not entitled to it, unless it is transferred to the person who is so entitled.\nThe effect of the declaration of nullity is that as if the Certificate of Plant Variety Protection was not issued."
+   }
+  },
+  {
+   "id": "PH-H7635-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62."
+   },
+   "chapter": {
+    "en": "TITLE X"
+   },
+   "text": {
+    "en": "Grounds for Cancellation. - The Plant Variety Protection shall be cancelled on any of the following grounds:\na) The breeder does not provide the required information, documents, or materials necessary for verifying the maintenance of the variety; or\nb) the breeder fails to pay the required fees to keep his or her rights in force or provides false information in his or her application; or\nc) The breeder does not propose, within the time/period provided under the regulations, another suitable denomination if the denomination of the variety is cancelled after the grant of the Certificate of Plant Variety Protection; or\nd) The conditions of uniformity and stability could not be maintained although these were present at the time of the issuance of the Certificate of Plant Variety Protection; or\ne) The breeder entitled to the Certificate of Plant Variety Protection or the holder has relinquished his/her rights through a declaration in a public instrument filed with the registrar."
+   }
+  },
+  {
+   "id": "PH-H7635-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63."
+   },
+   "chapter": {
+    "en": "TITLE X"
+   },
+   "text": {
+    "en": "Venue. - Any petition to cancel a Certificate of Plant Variety Protection shall originally be under the jurisdiction of the Board. Decisions of the Board may be appealable with the Court of Appeals within fifteen (15) days from the date of notice of the Board's final decision."
+   }
+  },
+  {
+   "id": "PH-H7635-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64."
+   },
+   "chapter": {
+    "en": "TITLE X"
+   },
+   "text": {
+    "en": "Prescription. - The right to cancel a Certificate of Plant Variety Protection shall be instituted at any time within the term of protection of such right."
+   }
+  },
+  {
+   "id": "PH-H7635-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65."
+   },
+   "chapter": {
+    "en": "TITLE X"
+   },
+   "text": {
+    "en": "Publication. - A notice of the filing of a petition to cancel a Certificate of Plant Variety Protection and the final order/decision on the same shall be published in the Plant Variety Gazette at the expense of the petitioner.\nInstitution"
+   }
+  },
+  {
+   "id": "PH-H7635-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 66."
+   },
+   "chapter": {
+    "en": "TITLE XI"
+   },
+   "text": {
+    "en": "National Plant Variety Protection Board. - There is hereby created National Plant Variety Protection Board which shall be composed of the following or their duly designated representatives:\na) The Secretary of the Department of Agriculture, as chairman;\nb) The Secretary of the Department of Science and Technology, as co-chairman;\nc) The Director-General of the Intellectual Property Office, as vice chairman;\nd) The Director of the Bureau of Plant Industry;\ne) The Director of the Institute of Plant Breeding of the University of the Philippines Los Baños;\nf) The President of the Philippine Seed Industry Association;\ng) A representative from a federation of small farmers' organizations to be nominated by the Secretary of Agriculture;\nh) A representative from the scientific community to be nominated by the National Academy of Science and Technology; and\n(i) The Registrar ( ex officio ).\nThe members of the Board or their representatives must be Filipino citizens, have good moral character and should not have been convicted of a crime involving moral turpitude.\nThe Board shall perform the following functions:\na) Promulgate policy guidelines for the effective implementation of the provisions of this Act;\nb) Have original and exclusive appellate jurisdiction over all acts of the Registrar;\nc) Have original jurisdiction over petitions for compulsory licensing, nullity and cancellation of the Certificate of Plant Variety Protection;\nd) Institutionalize database of existing plant varieties, collected from foreign and local databases, within one (1) year from the effectivity of this act;\ne) Call on resource persons to provide inputs that will be relevant in the performance of the tasks of the Board;\nf) Organize the Registrar as it sees fit;\ng) Approve capital expenditure and contracts of experts; and\nh) Perform all other functions as may be required in the implementation of this Act."
+   }
+  },
+  {
+   "id": "PH-H7635-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Section 67."
+   },
+   "chapter": {
+    "en": "TITLE XI"
+   },
+   "text": {
+    "en": "Rules and Regulations. - For the purpose of the preceding section, the Board with representatives from the Senate and House Committees on Agriculture, shall within six (6) months from the effectivity of this act, prescribe rules and regulations necessary for the implementation of its functions, or reorganize and create units therefore under its control and supervision."
+   }
+  },
+  {
+   "id": "PH-H7635-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Section 68."
+   },
+   "chapter": {
+    "en": "TITLE XI"
+   },
+   "text": {
+    "en": "Fees. - The Board shall prescribe a schedule of fees to be charge against any applicant/breeder in the course of the application for a Certificate of Plant Variety Protection or in the maintenance therefor."
+   }
+  },
+  {
+   "id": "PH-H7635-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Section 69."
+   },
+   "chapter": {
+    "en": "TITLE XI"
+   },
+   "text": {
+    "en": "Coordination and Cooperation with Other Institutions. - For the purpose of verifying certain facts such as but not limited to the requirements of stability, distinctness and uniformity, the Board may enter into agreements with other governmental or nongovernmental institutions both domestic and foreign under a set of conditions germane to its functions.\nFurther, the Board shall also designate appropriate state colleges and universities, bona fide research institutions, or appropriate nongovernmental research centers as testing centers for the distinctness, uniformity and stability of varieties."
+   }
+  },
+  {
+   "id": "PH-H7635-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Section 70."
+   },
+   "chapter": {
+    "en": "TITLE XI"
+   },
+   "text": {
+    "en": "The PVP Fund. - There is hereby created PVP Fund, hereinafter referred to as the Fund, to be administered by the Board. All fees, fines and charges collected by the Board under this Act, shall be deposited in the Fund. The Board is hereby authorized to use and disburse the Fund. The Board is hereby authorized to use and disburse the Fund without need of approval by any government agency, and subject only to existing accounting and auditing rules and regulations for purposes of defraying the cost of operations in the delivery of its services to the public."
+   }
+  },
+  {
+   "id": "PH-H7635-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Section 71."
+   },
+   "chapter": {
+    "en": "TITLE XI"
+   },
+   "text": {
+    "en": "Gene Trust Fund. - There shall be an independent and separate trust fund established under this Act, to be administered by the Board, for the benefit of bona fide organizations or institutions managing and operating an accredited gene bank. An amount to be determined by the Board but not to exceed twenty percent (20%) of the fees and charges, shall be used for the purposes of the gene trust fund. The trust fund may also accept donations from national and international institutions and other organizations and individuals interested in strengthening genetic conservation."
+   }
+  },
+  {
+   "id": "PH-H7635-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "Section 72."
+   },
+   "chapter": {
+    "en": "TITLE XI"
+   },
+   "text": {
+    "en": "Farming Communities and Bona fide Farmers' Organizations. - Farming communities and bona fide farmers' organizations are encouraged to build an inventory of locally-bred varieties as an option to protect these resources from misappropriation and unfair monopolization."
+   }
+  },
+  {
+   "id": "PH-H7635-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "Section 73."
+   },
+   "chapter": {
+    "en": "TITLE XI"
+   },
+   "text": {
+    "en": "Publication. - The Board shall maintain its own publication which shall be known as the Plant Variety Gazette for all the publication requirements of this Act and for other purposes which the Board may require. Copies shall be distributed to all concerned especially to the Members of the Senate and House Committees on Agriculture: Provided , That the Board shall distribute for free, and in the major dialect understood by the locality, copies of the Plant Variety Gazette to small farmer groups and indigenous communities."
+   }
+  },
+  {
+   "id": "PH-H7635-A73_2",
+   "no": 73,
+   "noLabel": {
+    "en": "Section 73."
+   },
+   "chapter": {
+    "en": "TITLE XI"
+   },
+   "text": {
+    "en": "The Registrar. - There is hereby established a National Plant Variety Protection Registrar and an Associate Registrar under the control and supervision of the Board. The Registrar and the Associate Registrar shall be appointed by the President of the Philippines upon the recommendation of the Board and shall have a term of six (6) years. However, the Registrar who shall be first appointed shall serve for a term of seven (7) years.\nThe Registrar shall be a citizen of the Philippines with good moral character, proven track record in the field of plant science, and/or extensive executive experience and capability.\nFunctions of the Registrar. The Registrar shall have the following functions:\na) Has original and exclusive jurisdiction to receive, process, examine all applications for Certificate of Plant Variety Protection in accordance with this Act, and in meritorious cases, issued the said certificates and sign them in the name of the Board;\nb) Issue and maintain a systematic record of all Certificate of Plant Variety Protection and transactions related thereto;\nc) Implement the rules and regulations issued by the Board;\nd) Institutionalize, maintain and continuously update a database of existing plant varieties collected from foreign and local databases;\ne) Maintain a library of scientific and other works and periodicals, both foreign and local, to aid his examiners in the discharge of their duties;\nf) Maintain samples of the propagating materials of the protected variety; and\ng) Perform such other functions as may be prescribed by the Board.\nMiscellaneous and Final Provisions"
+   }
+  },
+  {
+   "id": "PH-H7635-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "Section 75."
+   },
+   "chapter": {
+    "en": "TITLE XII"
+   },
+   "text": {
+    "en": "Relation with Other Laws. - The interpretation of the provisions of this Act shall not negate the effectivity and application of Republic Act No. 8371, otherwise known as the \"Indigenous People's Rights Act\"; Republic Act No. 9147, otherwise known as the \"Wildlife Resources Conservation and Protection Act\"; Presidential Decree No. 1151, otherwise known as the \"Philippine Environmental Policy\"; and Executive Order No. 430 and Administration Order No. 8, Series of 2002 of the Department of Agriculture or the rules and regulations for the importation and release to the environment of plant products derived from the use of biotechnology."
+   }
+  },
+  {
+   "id": "PH-H7635-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "Section 76."
+   },
+   "chapter": {
+    "en": "TITLE XII"
+   },
+   "text": {
+    "en": "Transitory Provisions. - The National Seed Industry Council, which was created by Republic Act No. 7308 or the National Seed Industry Development Act, shall perform the functions of the Board until the latter has been fully organized, but not later than three (3) years from the effectivity of this act. Within the same period, the Director of the Bureau of Plant Industry shall be the Acting Registrar and the Assistant Director of the same Bureau shall act as the Associate Registrar."
+   }
+  },
+  {
+   "id": "PH-H7635-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "Section 77."
+   },
+   "chapter": {
+    "en": "TITLE XII"
+   },
+   "text": {
+    "en": "Appropriations. - The Secretary of the Department of Agriculture shall immediately include in its program and issue such rules and regulations to implement the provisions of this Act, the funding of which shall be included in the annual General Appropriations Act."
+   }
+  },
+  {
+   "id": "PH-H7635-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "Section 78."
+   },
+   "chapter": {
+    "en": "TITLE XII"
+   },
+   "text": {
+    "en": "Separability Clause. - If, for any reason, any provision of this Act is declared invalid or unconstitutional, the other parts not affected thereby shall continue to be in full force and effect."
+   }
+  },
+  {
+   "id": "PH-H7635-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "Section 79."
+   },
+   "chapter": {
+    "en": "TITLE XII"
+   },
+   "text": {
+    "en": "Repealing Clause. - All laws, decrees, executive orders, and rules and regulations, or parts thereof that are inconsistent with the provisions of this Act, are hereby repealed or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H7635-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "Section 80."
+   },
+   "chapter": {
+    "en": "TITLE XII"
+   },
+   "text": {
+    "en": "Effectivity. - This Act shall take effect thirty (30) days after its complete publication in a newspaper of general circulation."
+   }
+  }
+ ]
+}

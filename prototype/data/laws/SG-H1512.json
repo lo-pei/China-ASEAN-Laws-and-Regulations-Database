@@ -1,0 +1,117 @@
+{
+ "id": "SG-H1512",
+ "title": {
+  "zh": null,
+  "en": "Fees (State Courts — Criminal Jurisdiction) Order 2014",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p19",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation FeA1920-S673-2014",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 1829,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/FeA1920-S673-2014?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 6 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1512-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Order may be cited as the Fees (State Courts — Criminal Jurisdiction) Order 2014."
+   }
+  },
+  {
+   "id": "SG-H1512-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In this Order, unless the context otherwise requires —\n“Magistrate’s complaint” means a complaint made to a Magistrate under section 151 of the Criminal Procedure Code (Cap. 68);\n“Registrar” means the registrar or a deputy registrar of the State Courts."
+   }
+  },
+  {
+   "id": "SG-H1512-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "3. In relation to any criminal proceedings in the State Courts, the fees specified in the second column of the Schedule shall be payable to the Registrar in respect of the matters specified opposite in the first column."
+   }
+  },
+  {
+   "id": "SG-H1512-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Waiver, remission or refund of fees"
+   },
+   "text": {
+    "en": "4. The Registrar may, as he thinks fit, waive, remit or refund, wholly or in part, any fee paid or payable under this Order."
+   }
+  },
+  {
+   "id": "SG-H1512-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Revocation"
+   },
+   "text": {
+    "en": "5. The Fees (State Courts — Criminal Jurisdiction, Protection of Family and Maintenance of Wife and Children) Order 2013 (G.N. No. S 394/2013) is revoked."
+   }
+  },
+  {
+   "id": "SG-H1512-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nParagraph 3\nFees relating to criminal proceedings\nFirst column\nSecond column\n1.For every Magistrate’s complaint lodged\n$20.\n2.For every search warrant issued pursuant to a Magistrate’s complaint\n$20.\n3.For every arrest warrant (for each person named in the warrant)\n$20.\n4.For every order of attachment\n$20.\n5.For every notice or summons to an accused person to appear (for each person named in the notice or summons)\n$20.\n6.For every summons to give evidence (for each person named in the summons)\n$20.\n7.For every certificate of conviction or acquittal signed by the Registrar under section 45A(4) of the Evidence Act (Cap. 97)\n$20.\n8.For every application for a copy of any document that is not a judgment, sentence, order or deposition or any other part of the record of proceedings\n$5 for each type of document requested in the application and $0.50 per page of each type of document requested, subject to a total minimum fee of $15 for each type of document requested."
+   }
+  }
+ ]
+}

@@ -1,0 +1,250 @@
+{
+ "id": "SG-H022",
+ "title": {
+  "zh": "调解法 2017",
+  "en": "Mediation Act 2017",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p01",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2017",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "新加坡国会；律政部（MinLaw）主管，总检察署维护发布",
+ "docNumber": "Act MA2017",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 16,
+ "chars": 17845,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/MA2017?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 16 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H022-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Mediation Act 2017."
+   }
+  },
+  {
+   "id": "SG-H022-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "General interpretation"
+   },
+   "text": {
+    "en": "2.—(1) In this Act, unless the context otherwise requires —\n“approved certification scheme” means an accreditation or a certification scheme designated as an approved certification scheme under section 7;\n“certified mediator” means a mediator who is certified under an approved certification scheme;\n“designated mediation service provider” means a mediation service provider designated under section 7;\n“mediated settlement agreement”, in relation to a mediation, means an agreement by some or all of the parties to the mediation settling the whole or part of the dispute to which the mediation relates;\n“mediation agreement” means a mediation agreement described in section 4;\n“mediation communication”, in relation to a mediation, means —\n(a)anything said or done;\n(b)any document prepared; or\n(c)any information provided,\nfor the purposes of or in the course of the mediation, and includes a mediation agreement or mediated settlement agreement;\n“mediation institution” means a body or an organisation that administers an accreditation or a certification scheme for mediators;\n“mediation service provider” means a body or an organisation that provides services for the conduct of mediation and has in place procedures or rules to govern the conduct of mediation;\n“mediator” means an individual who is appointed to be a mediator for a mediation;\n“party to a mediation” means any party to the whole or part of a dispute that is referred for mediation, but does not include any mediator conducting the mediation;\n“third party”, in relation to a mediation, means a person who is —\n(a)not a party to the mediation;\n(b)not a mediator for the mediation; and\n(c)not a mediation service provider.\n(2) Where more than one mediator is appointed for a mediation, a reference to a mediator under this Act is a reference to all the mediators for the mediation."
+   }
+  },
+  {
+   "id": "SG-H022-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Meaning of “mediation”"
+   },
+   "text": {
+    "en": "3.—(1) In this Act, “mediation” means a process comprising one or more sessions in which one or more mediators assist the parties to a dispute to do all or any of the following with a view to facilitating the resolution of the whole or part of the dispute:\n(a)identify the issues in dispute;\n(b)explore and generate options;\n(c)communicate with one another;\n(d)voluntarily reach an agreement.\n(2) For the purposes of subsection (1), a session is a meeting between the mediator, or one or more mediators (where more than one mediator is appointed for a mediation), and one or more of the parties to the dispute, and includes any activity undertaken (whether by a mediator, a party to the dispute or some other person) —\n(a)to arrange or prepare for such a meeting, whether or not the meeting takes place; and\n(b)to follow up on any matter or issue raised in such a meeting.\n(3) For the purposes of subsection (2), a meeting includes a meeting conducted by electronic communication, video conferencing or other electronic means.\n(4) In this section —\n“data message” means information generated, sent, received or stored by electronic, magnetic, optical or similar means, including, but not limited to, electronic data interchange (EDI), electronic mail, telegram, telex or telecopy;\n“electronic communication” means any communication that is made by means of data messages."
+   }
+  },
+  {
+   "id": "SG-H022-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Meaning and form of “mediation agreement”"
+   },
+   "text": {
+    "en": "4.—(1) In this Act, “mediation agreement” means an agreement by 2 or more persons to refer the whole or part of a dispute which has arisen, or which may arise, between them for mediation.\n(2) A mediation agreement may be in the form of a clause in a contract or in the form of a separate agreement.\n(3) A mediation agreement must be in writing.\n(4) A mediation agreement is in writing if its content is recorded in any form, whether or not the mediation agreement has been concluded orally, by conduct or by other means.\n(5) A reference in a contract to any document containing a mediation clause constitutes a mediation agreement in writing if the reference is such as to make that clause part of the contract.\n(6) A reference in a bill of lading to a charterparty or any other document containing a mediation clause constitutes a mediation agreement in writing if the reference is such as to make that clause part of the bill of lading."
+   }
+  },
+  {
+   "id": "SG-H022-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Act binds Government"
+   },
+   "text": {
+    "en": "5. This Act binds the Government."
+   }
+  },
+  {
+   "id": "SG-H022-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Application of Act"
+   },
+   "text": {
+    "en": "6.—(1) Subject to subsections (2), (3), (4) and (5), this Act applies to, or in relation to, any mediation conducted under a mediation agreement where —\n(a)the mediation is wholly or partly conducted in Singapore; or\n(b)the agreement provides that this Act or the law of Singapore is to apply to the mediation.\n[4/2020]\n(2) This Act does not apply to, or in relation to, the following:\n(a)any mediation or conciliation proceeding, process, scheme or framework conducted under, or provided by or under, any written law;\n(b)unless otherwise provided in an order under subsection (4), any mediation conducted by, or under a direction by, a court;\n(c)subject to subsection (5), any mediation or conciliation proceeding, process, scheme or framework, or any class of mediation or conciliation proceedings, processes, schemes or frameworks, not falling under paragraph (a) or (b), which is excluded in an order under that subsection.\n(3) Subsection (2)(a) does not preclude —\n(a)an international settlement agreement as defined in section 2(1) of the Singapore Convention on Mediation Act 2020 (called in this subsection an international settlement agreement) from being a mediated settlement agreement to which this Act applies if, apart from subsection (2)(a), the international settlement agreement would qualify as such; or\n(b)an international settlement agreement that is also a mediated settlement agreement to which this Act applies from being recorded as an order of court under this Act if the international settlement agreement has not been recorded as an order of court under section 5 of the Singapore Convention on Mediation Act 2020.\n[4/2020]\n(4) The Minister may, after consulting the Chief Justice, by order in the Gazette, extend all or any of the provisions of this Act to apply to, or in relation to, any mediation described in subsection (2)(b), and in the order make such saving or transitional provisions consequent on the extension as may be necessary or expedient.\n(5) The Minister may, by order in the Gazette, exclude from the application of all or any of the provisions of this Act —\n(a)the whole or any part of any mediation or conciliation proceeding, process, scheme or framework described in subsection (2)(c); or\n(b)any class of mediation or conciliation proceedings, processes, schemes or frameworks described in subsection (2)(c).\n(6) All orders made under subsections (4) and (5) must be presented to Parliament as soon as possible after publication in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H022-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Designation of mediation service provider and approved certification scheme"
+   },
+   "text": {
+    "en": "7.—(1) The Minister may, subject to such terms and conditions as the Minister thinks fit to impose —\n(a)designate any mediation service provider to be a designated mediation service provider for the purposes of this Act; and\n(b)designate any accreditation or certification scheme administered by a mediation institution to be an approved certification scheme for the purposes of this Act.\n(2) Notice of every designation must be published in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H022-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Stay of court proceedings"
+   },
+   "text": {
+    "en": "8.—(1) Where any party to a mediation agreement institutes any proceedings before a court against any other party to that agreement in respect of any matter which is the subject of that agreement, any party to that agreement may apply to that court to stay the proceedings so far as the proceedings relate to that matter.\n(2) The court hearing the application may make an order, upon such terms or conditions as the court thinks fit, staying the proceedings so far as the proceedings relate to the matter.\n(3) The court may, in making an order under subsection (2), make such interim or supplementary orders as the court thinks fit for the purpose of preserving the rights of the parties.\n(4) For the purposes of this section, a reference to a party includes a reference to any person claiming through or under a party."
+   }
+  },
+  {
+   "id": "SG-H022-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Restrictions on disclosure"
+   },
+   "text": {
+    "en": "9.—(1) Subject to subsections (2) and (3), a person must not disclose any mediation communication relating to a mediation to any third party to the mediation.\n(2) A person may disclose a mediation communication to a third party to the mediation if —\n(a)the disclosure is made with the consent of —\n(i)all the parties to the mediation; and\n(ii)for a mediation communication that is made by a person other than a party to the mediation, the maker of the mediation communication;\n(b)the content of the mediation communication is information that has already been made available to the public at the time of its disclosure, other than information that is only in the public domain due to an unlawful disclosure;\n(c)there are reasonable grounds to believe that the disclosure is necessary to prevent or minimise —\n(i)the danger of injury to any person; or\n(ii)the abuse, neglect, abandonment or exploitation of any child or young person (within the meaning of the Children and Young Persons Act 1993);\n(d)the disclosure is made for research, evaluation or educational purposes without revealing, or being likely to reveal, whether directly or indirectly, the identity of the maker of the mediation communication or any person to whom the mediation communication relates;\n(e)the disclosure is made for the purpose of seeking legal advice;\n(f)the person disclosing the mediation communication is an arbitrator acting as a mediator under section 63(1) of the Arbitration Act 2001 or an arbitrator or umpire acting as a conciliator under section 17(1) of the International Arbitration Act 1994 and the disclosure is made in accordance with section 63(2) or (3) of the Arbitration Act 2001 or section 17(2) or (3) of the International Arbitration Act 1994, as the case may be;\n(g)the disclosure is required by an order of court, or required or authorised by or under any written law;\n(h)the disclosure is made to assist a law enforcement agency in the investigation of any offence under any written law;\n(i)the disclosure is in compliance with a request or requirement imposed by a regulatory authority and is necessary to enable the regulatory authority to perform its duties or discharge its functions; or\n(j)the mediation communication relates to the commission of any offence under any written law or was made in furtherance of any illegal purpose.\n(3) Despite subsection (2), a person may, with permission of a court or an arbitral tribunal under section 11, disclose a mediation communication to a third party to the mediation —\n(a)for the purpose of enforcing or disputing a mediated settlement agreement;\n(b)for the purpose of establishing or disputing an allegation or a complaint of professional misconduct against a mediator or any other person who participated in the mediation in a professional capacity;\n(c)for the purpose of discovery or other similar procedures in any court proceedings or arbitral proceedings (as the case may be) which have been instituted, where the person who is a party to those proceedings is required to disclose documents in the person’s possession, custody or power; or\n(d)for any other purpose that the court or arbitral tribunal (as the case may be) considers justifiable in the circumstances of the case.\n[Act 25 of 2021 wef 01/04/2022]\n(4) In this section —\n“disclosure”, in relation to information, includes permitting access to the information;\n“law enforcement agency” means any authority or person charged with the duty of investigating offences or charging offenders under any written law;\n“regulatory authority” means any body or organisation in Singapore charged with the public function of regulating entities or individuals, whether under any written law or otherwise."
+   }
+  },
+  {
+   "id": "SG-H022-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Admissibility of mediation communication in evidence"
+   },
+   "text": {
+    "en": "10. A mediation communication is not to be admitted in evidence in any court, arbitral or disciplinary proceedings except with the permission of a court or an arbitral tribunal under section 11.\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H022-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Permission of court or arbitral tribunal for disclosure or admission in evidence"
+   },
+   "text": {
+    "en": "11.—(1) A court or an arbitral tribunal may, on application by any person, grant permission for a mediation communication to be disclosed under section 9(3) or admitted in evidence under section 10.\n[Act 25 of 2021 wef 01/04/2022]\n(2) For the purposes of subsection (1), the court or arbitral tribunal (as the case may be) must take into account all of the following matters in deciding whether to grant permission:\n(a)whether the mediation communication may be or has been disclosed under section 9(2);\n(b)whether it is in the public interest or the interests of the administration of justice for the mediation communication to be disclosed or admitted in evidence;\n(c)any other circumstances or matters that the court or arbitral tribunal (as the case may be) considers relevant.\n[Act 25 of 2021 wef 01/04/2022]\n(3) Where the mediation communication is sought to be disclosed or admitted in evidence in proceedings —\n(a)before a court — the application must be made to the court before which the proceedings are heard;\n(b)before an arbitral tribunal — the application must be made to the arbitral tribunal before which the proceedings are heard; and\n(c)in any other case — the application must be made to the General Division of the High Court.\n[40/2019]\n[Act 25 of 2021 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H022-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Recording of mediated settlement agreement as order of court"
+   },
+   "text": {
+    "en": "12.—(1) Where a mediated settlement agreement has been made in a mediation in relation to a dispute for which no proceedings have been commenced in a court, any party to the agreement may, with the consent of all the other parties to that agreement, apply to a court to record the agreement as an order of court.\n(2) The application must be made within —\n(a)8 weeks after the mediated settlement agreement is made; or\n(b)such longer period as the court may allow.\n(3) Subject to subsection (4), a court may record a mediated settlement agreement as an order of court if —\n(a)the mediation is administered by a designated mediation service provider or conducted by a certified mediator;\n(b)the agreement is in writing and signed by or on behalf of all the parties to the agreement; and\n(c)the agreement contains such information as may be prescribed.\n(4) The court may refuse to record a mediated settlement agreement as an order of court if —\n(a)the agreement is void or voidable because of incapacity, fraud, misrepresentation, duress, coercion, mistake or any other ground for invalidating a contract;\n(b)the subject matter of the agreement is not capable of settlement;\n(c)any term of the agreement is not capable of enforcement as an order of court;\n(d)where the subject matter of the dispute to which the agreement relates involves the welfare or custody of a child, one or more of the terms of the agreement is not in the best interest of the child; or\n(e)the recording of the agreement as an order of court is contrary to public policy.\n(5) A mediated settlement agreement that is recorded under this section as an order of court may be enforced in the same manner as a judgment given or an order made by a court.\n(6) For the purposes of this section —\n(a)where the subject matter of the dispute to which a mediated settlement agreement relates is within the jurisdiction of a Family Justice Court, a reference to a mediated settlement agreement is a reference to a mediated settlement agreement falling within one or more of the classes of mediated settlement agreements prescribed in the Family Justice Rules made under section 14 that may be recorded as orders of that court; and\n(b)where the subject matter of the dispute to which a mediated settlement agreement relates is within the jurisdiction of a State Court, a Family Justice Court or the General Division of the High Court, a reference to a court is a reference to a State Court, a Family Justice Court or the General Division of the High Court, respectively.\n[40/2019]"
+   }
+  },
+  {
+   "id": "SG-H022-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Rules of Court"
+   },
+   "text": {
+    "en": "13.—(1) The Rules Committee constituted under section 80(3) of the Supreme Court of Judicature Act 1969 may make Rules of Court regulating the practice and procedure of the Court of Appeal, the Appellate and General Divisions of the High Court and the State Courts in respect of any matter under this Act.\n[40/2019]\n(2) All Rules of Court made under this section must be presented to Parliament as soon as possible after publication in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H022-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Family Justice Rules"
+   },
+   "text": {
+    "en": "14.—(1) The Family Justice Rules Committee constituted under section 46(1) of the Family Justice Act 2014 may make Family Justice Rules —\n(a)prescribing the classes of mediated settlement agreements that may be recorded as orders of the Family Justice Courts under section 12; and\n(b)regulating the practice and procedure of the Family Justice Courts in respect of any matter under this Act.\n(2) All Family Justice Rules made under this section must be presented to Parliament as soon as possible after publication in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H022-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Rules"
+   },
+   "text": {
+    "en": "15.—(1) The Minister may make rules prescribing matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.\n(2) The power conferred by subsection (1) does not extend to any matter for which Rules of Court or Family Justice Rules mentioned in section 13 or 14 (as the case may be) may be made."
+   }
+  },
+  {
+   "id": "SG-H022-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Transitional provisions"
+   },
+   "text": {
+    "en": "16.—(1) Except as provided in subsection (2), this Act does not apply to, or in relation to, any mediation which commences before 1 November 2017.\n(2) This Act or any provision of this Act may apply to, or in relation to, a mediation which commences before 1 November 2017 if —\n(a)that mediation is not completed or terminated, and no mediated settlement agreement is made, as at that date; and\n(b)all the parties to that mediation agree that this Act or the provision is to apply to, or in relation to, that mediation.\n(3) For the purposes of subsections (1) and (2), a mediation to resolve the whole or part of a dispute commences on the day when all the parties agree to refer any part of that dispute for mediation.\n[19"
+   }
+  }
+ ]
+}

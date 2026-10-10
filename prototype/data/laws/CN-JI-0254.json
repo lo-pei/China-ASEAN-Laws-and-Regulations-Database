@@ -1,0 +1,100 @@
+{
+ "id": "CN-JI-0254",
+ "title": {
+  "zh": "最高人民法院关于商品房消费者权利保护问题的批复",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p08",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2023-02-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "最高人民法院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ITEM",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 271,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于商品房消费者权利保护问题的批复_20230420.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，一、至三、，共 3 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于商品房消费者权利保护问题的批复_20230420.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0254-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "一、"
+   },
+   "text": {
+    "zh": "建设工程价款优先受偿权、抵押权以及其他债权之间的权利顺位关系，按照《最高人民法院关于审理建设工程施工合同纠纷案件适用法律问题的解释（一）》第三十六条的规定处理。"
+   }
+  },
+  {
+   "id": "CN-JI-0254-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "二、"
+   },
+   "text": {
+    "zh": "商品房消费者以居住为目的购买房屋并已支付全部价款，主张其房屋交付请求权优先于建设工程价款优先受偿权、抵押权以及其他债权的，人民法院应当予以支持。\n只支付了部分价款的商品房消费者，在一审法庭辩论终结前已实际支付剩余价款的，可以适用前款规定。"
+   }
+  },
+  {
+   "id": "CN-JI-0254-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "三、"
+   },
+   "text": {
+    "zh": "在房屋不能交付且无实际交付可能的情况下，商品房消费者主张价款返还请求权优先于建设工程价款优先受偿权、抵押权以及其他债权的，人民法院应当予以支持。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于商品房消费者权利保护问题的批复"
+  },
+  "issuingBody": {
+   "zh": "最高人民法院"
+  },
+  "promulgatedDate": "2023-02-14",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

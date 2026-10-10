@@ -1,0 +1,74 @@
+{
+ "id": "KH-H173",
+ "title": {
+  "zh": "王室法令",
+  "en": "Royal Decree on the adjustment of Kep city to Kep province",
+  "orig": "ព្រះរាជក្រឹត្យស្តីពីការប្តរក្រុងកែបទៅជាខេត្តកែប"
+ },
+ "country": "KH",
+ "countryName": "柬埔寨",
+ "layer": "intl",
+ "pack": "kh-p03",
+ "language": "km",
+ "level": "decree",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2008-12-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "king__of_the_kingdom_of_cambodia",
+ "docNumber": "នស/រកត/១២០៨/១៨៨៣",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 947,
+ "source": {
+  "name": "Open Development Cambodia 法规数据库（data.opendevelopmentcambodia.net，非 .gov.kh 官方域名，属第三方聚合平台）",
+  "url": "https://data.opendevelopmentcambodia.net/en/dataset/royal-decree-on-the-adjustment-of-keb-city-to-keb-province"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；系由官方 PDF 扫描件经 Tesseract 5.4（khm，tessdata_best）光学字符识别后按「មាត្រា／ប្រការ N」体例切分，原文语言：高棉语（km）。 ★ 本部正文为**机器识别结果，未经逐字人工校勘**，可能存在字符误识、漏识或分行错位；不得视为与官方原件逐字一致。具法律效力者以官方原件为准，来源见 sourceUrl（https://data.opendevelopmentcambodia.net/en/dataset/royal-decree-on-the-adjustment-of-keb-city-to-keb-province）。 未改写、未摘译、未节选、未补号；OCR 未能识别的区域不写入。 识别结果中条号不连续（自第 1 条起，止于第 5 条，缺 2、3）：可能为原件本身跳号，亦可能为 OCR 漏识，未擅自补号。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": [
+  "https://data.opendevelopmentcambodia.net/en/dataset/royal-decree-on-the-adjustment-of-keb-city-to-keb-province"
+ ],
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "KH-H173-A1",
+   "no": 1,
+   "noLabel": {
+    "km": "មាត្រា ១"
+   },
+   "text": {
+    "km": ".- _  ត្រូវបានប្តរក្រ្រុងកៃប ទៅជាខេត្តចែប ។\n        មាត្រា ២ .-        _ ការរៀបចំរចនាសម្ព័ន្ធ និង ប្រព័ន្ធគ្រប់គ្រងរដ្ឋបាល៖ខត្តកៃប ត្រូវអនុលោមទៅតាមច្បាប់ស្តីពីការ _                 គ្រប់គ្រង រដ្ឋបាលរាជធានី ខេត្ត ក្រុង ស្រុក ខណ្ខ។\nស សិ       .      .\n០០៕ា(០និ្មីឲ្ជុៈបញ្ណូ ព : // // មប់. ៥០៣ា8|18%៕5.០០៣ បទប្បញ្កត្តិទាំងឡាយណា ដែលមានខ្លឹមសារជួយនីងព្រះរាជក្រីត្យនេ៖ ត្រូវទុកជានិរាករណ៍ ។"
+   }
+  },
+  {
+   "id": "KH-H173-A4",
+   "no": 4,
+   "noLabel": {
+    "km": "មាត្រា ៤"
+   },
+   "text": {
+    "km": "- -    សម្តេចអគ្គមហាសេនាបតីតេជោ រ៉ុន សែន នាយករដ្ឋមន្ត្រី  នៃព្រះរាជាណាចក្រកម្ពុជា ត្រូវទទួលបន្ទក អនុវត្ត អោយបានសំរេចនូវព្រះរាជក្រឹត្យនេះ។      |"
+   }
+  },
+  {
+   "id": "KH-H173-A5",
+   "no": 5,
+   "noLabel": {
+    "km": "មាត្រា ៥"
+   },
+   "text": {
+    "km": "-                            .              ” ព្រះរាជក្រីត្យនេ៖ ចូលជាធរមាន ចាប់ពីថ្ងៃឡាយព្រះហស្ថលេខា តទៅ ។\n. នន.    .         ព្រះបស្តលខា : និងព្រះរាជលញ្អករ គល, ០០ ១.១៤០៥     នរោត្តម សបាម្មុន វភ្ចីវនាបរខរាជវាំដ រាជធាឌឺភវពញ អ្វូទី យយ ទព ឆ្នាំ២០០៨                “ : .      .         _ លេខ:១២ដ៧ច.ល    - |              ខា វជីម្បីទ្ងម្លងចែក “  .--     ' .' .       /:ាជំផ្លានីភ្នំពញថ្ងៃទីង្ហុង ខែ ឆ្ល _ ឆ្នាំ៥០០៨           ."
+   }
+  }
+ ]
+}

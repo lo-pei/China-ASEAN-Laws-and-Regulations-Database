@@ -1,0 +1,1364 @@
+{
+ "id": "SG-H3619",
+ "title": {
+  "zh": null,
+  "en": "Resource Sustainability Act 2019",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p45",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act RSA2019",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 83,
+ "chars": 108884,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/RSA2019?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 83 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3619-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title and commencement"
+   },
+   "text": {
+    "en": "1.—(1) This Act is the Resource Sustainability Act 2019.\n(2) [Deleted by Act 14 of 2023 wef 12/07/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2.—(1) In this Act, unless the context otherwise requires —\n“Agency” means the National Environment Agency established under the National Environment Agency Act 2002;\n“authorised officer” means an authorised officer appointed under section 5(2);\n“consumer”, in relation to any regulated goods or regulated product, means an individual who purchases or intends to purchase the regulated goods or regulated product for household use or private consumption;\n“dispose”, in relation to any thing, means to dispose of the thing as waste;\n“import” does not include the bringing into Singapore of any regulated goods or regulated product which are to be taken out of Singapore on the same conveyance on which they were brought into Singapore without any landing or transhipment within Singapore;\n“key appointment holder”, in relation to a holder of a licence to operate a producer responsibility scheme, means —\n(a)if a company, limited liability partnership or other body corporate — a member of the board of directors, committee, board of trustees or other governing body of the licensee;\n(b)if a partnership — a partner of the licensee; or\n(c)in any other case — any person, by whatever name called, who has general management or supervision of the business of the licensee;\n[Act 14 of 2023 wef 12/07/2024]\n“licensed e-waste recycler” means a person who is licensed under section 23(2) of the Environmental Public Health Act 1987 to operate a disposal facility that receives, stores, sorts, processes or treats electrical and electronic waste;\n[Act 14 of 2023 wef 26/05/2023]\n“licensed scheme” means a producer responsibility scheme operated by a person who is licensed under section 29;\n“licensed waste collector” means a person who is licensed under section 31 of the Environmental Public Health Act 1987;\n“occupier”, in relation to any premises, means a person —\n(a)in occupation of the premises or part of the premises; or\n(b)having the charge, management or control of the premises or part of the premises, either on the person’s own account or as agent of another person,\nbut does not include a lodger;\n“producer responsibility scheme” means a scheme in which —\n(a)the operator of the scheme collects, or organises the collection of, any specified waste from the public and causes such waste collected to be treated and recycled; and\n(b)members of the scheme finance the costs of operating the scheme, including the costs of the collection, treatment and recycling of the waste collected;\n“retailer” means a person who carries on a trade or business of supplying any regulated goods or regulated product to consumers;\n“Singapore-connected person” means any person who is —\n(a)a citizen or a permanent resident of Singapore;\n(b)a company or other body corporate incorporated in, or having its central management and control in, Singapore; or\n(c)an unincorporated body established in Singapore;\n“specified waste” means any waste specified in the Schedule;\n“waste” includes any discarded, rejected, unwanted, surplus or abandoned substance, and a substance is not precluded from being waste for the purposes of this Act merely because it is or may be processed, recycled or recovered.\n(2) In this Act, a reference to the collection of any waste regulated under this Act means the collection, receipt, removal, transportation or storage of the waste for the disposal of the waste."
+   }
+  },
+  {
+   "id": "SG-H3619-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Purposes of Act"
+   },
+   "text": {
+    "en": "3. The purposes of this Act are —\n(a)to implement a framework where persons who profit from the supply of products bear the cost of collecting and treating these products when they become waste;\n(b)to encourage producers of packaging to reduce, re‑use or recycle packaging;\n[Act 14 of 2023 wef 26/05/2023]\n(ba)to reduce the use of disposable carrier bags by persons supplied goods by way of retail; and\n[Act 14 of 2023 wef 26/05/2023]\n(c)to enable proper segregation and treatment of food waste."
+   }
+  },
+  {
+   "id": "SG-H3619-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATION AND ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Application of Act to Government"
+   },
+   "text": {
+    "en": "4.—(1) Except as provided in subsection (2), this Act binds the Government.\n(2) Nothing in this Act renders the Government liable to prosecution for an offence.\n(3) To avoid doubt, a person is not immune from prosecution for any offence under this Act by reason only that the person is engaged to provide services to or on behalf of the Government."
+   }
+  },
+  {
+   "id": "SG-H3619-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATION AND ADMINISTRATION"
+   },
+   "heading": {
+    "en": "Administration of Act"
+   },
+   "text": {
+    "en": "5.—(1) The Agency is responsible for the administration and enforcement of this Act, subject to the general or special directions of the Minister.\n(2) The Agency may appoint, by name or office, any officer or employee of the Agency to be an authorised officer to carry out any function or duty, or exercise any power, conferred on an authorised officer under this Act, as the Agency may specify."
+   }
+  },
+  {
+   "id": "SG-H3619-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 ELECTRICAL AND ELECTRONIC WASTE"
+   },
+   "heading": {
+    "en": "Application to regulated products"
+   },
+   "text": {
+    "en": "6. This Part applies only to a class or type of electrical or electronic product (including an electrical or electronic product supplied as a component of another product) that is prescribed to be a regulated product."
+   }
+  },
+  {
+   "id": "SG-H3619-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 ELECTRICAL AND ELECTRONIC WASTE"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "7.—(1) In this Part, unless the context otherwise requires —\n“e-waste” means any regulated product that is intended for disposal and not for re‑use;\n“registered” means registered under section 9(2);\n“regulated consumer product” means any regulated product prescribed as such under section 12(2);\n“regulated non-consumer product” means any regulated product that is not a regulated consumer product;\n“regulated product” means any class or type of electrical or electronic product prescribed as such under section 6;\n“supply”, in relation to any regulated product, includes —\n(a)the supply of the regulated product by way of sale (including by barter or exchange) or hire‑purchase;\n(b)the supply of the regulated product by retail or by wholesale;\n(c)the supply of the regulated product in connection with any agreement; and\n(d)the offer to supply the regulated product or exposure of the regulated product for supply.\n(2) Subject to subsection (3), a person is the producer of a regulated product if the person —\n(a)carries on a business of supplying the regulated product in Singapore; and\n(b)in furtherance of that business —\n(i)imports the regulated product into Singapore;\n(ii)manufactures the regulated product in Singapore; or\n(iii)engages another person to manufacture the regulated product in Singapore or otherwise causes such manufacture.\n(3) A manufacturer of a regulated product is not the producer of the regulated product if the manufacturer manufactures the regulated product for or on behalf of a Singapore‑connected person."
+   }
+  },
+  {
+   "id": "SG-H3619-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 ELECTRICAL AND ELECTRONIC WASTE"
+   },
+   "heading": {
+    "en": "Unauthorised supply of regulated products"
+   },
+   "text": {
+    "en": "8.—(1) A producer of a regulated product must not supply the regulated product or any other regulated product in Singapore if the producer is not registered under section 9(2).\n(2) A producer of a regulated product who, without reasonable excuse, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both."
+   }
+  },
+  {
+   "id": "SG-H3619-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 ELECTRICAL AND ELECTRONIC WASTE"
+   },
+   "heading": {
+    "en": "Registration of producers"
+   },
+   "text": {
+    "en": "9.—(1) A producer of a regulated product in Singapore may apply to the Agency to be registered under subsection (2).\n(2) The Agency may register, subject to such conditions as the Agency thinks fit to impose, or refuse to register, any applicant under subsection (1).\n(3) Any registration under subsection (2) is transferable only with the written approval of the Agency.\n(4) A producer of a regulated product who is aggrieved by the Agency’s decision to impose a condition on a registration or to refuse to register the producer under subsection (2) may, within 14 days after receiving notice of the Agency’s decision, appeal to the Minister."
+   }
+  },
+  {
+   "id": "SG-H3619-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 ELECTRICAL AND ELECTRONIC WASTE"
+   },
+   "heading": {
+    "en": "Duration, cancellation and revocation of registration"
+   },
+   "text": {
+    "en": "10.—(1) A registration of a producer of a regulated product under section 9(2) remains valid unless cancelled or revoked under this section.\n(2) The Agency may cancel a registration under section 9(2) of a producer of a regulated product if —\n(a)the producer of the regulated product applies to the Agency to cancel the registration; or\n(b)the producer of the regulated product winds up, goes into liquidation or is otherwise dissolved.\n(3) The Agency may revoke the registration of a producer of a regulated product after giving notice to the producer concerned and after such inquiry as the Agency thinks fit, on any of the following grounds:\n(a)the producer procured the registration by providing any information or document to the Agency that is false or misleading in any material particular;\n(b)the Agency is satisfied that the producer has contravened any provision of this Part or any condition of the registration.\n(4) The Agency must, before revoking a registration under subsection (3), give the producer of a regulated product concerned a written notice of its intention to do so and an opportunity to submit reasons, within the period specified in that notice, as to why the registration should not be revoked.\n(5) The Agency must, within 14 days after revoking any registration under subsection (3), inform the producer of a regulated product whose registration is revoked in writing of the grounds for the revocation.\n(6) A producer of a regulated product who is aggrieved by the Agency’s decision under subsection (3) to revoke the producer’s registration may, within 14 days after receiving the grounds for the revocation under subsection (5), appeal to the Minister."
+   }
+  },
+  {
+   "id": "SG-H3619-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 ELECTRICAL AND ELECTRONIC WASTE"
+   },
+   "heading": {
+    "en": "Register of registered producers"
+   },
+   "text": {
+    "en": "11.—(1) The Agency must maintain a register in which is entered such particulars of every registered producer of a regulated product as the Agency determines.\n(2) Where the registration of a producer of a regulated product has been cancelled or revoked (as the case may be), the Agency may —\n(a)remove the particulars of the producer from the register; or\n(b)indicate the fact of the cancellation or revocation of registration against the particulars of the producer in the register.\n(3) The Agency may, upon an application by any person accompanied by such fee as may be prescribed, provide to that person a certified copy of an entry in the register maintained under this section."
+   }
+  },
+  {
+   "id": "SG-H3619-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 ELECTRICAL AND ELECTRONIC WASTE"
+   },
+   "heading": {
+    "en": "Certain registered producers must join licensed scheme"
+   },
+   "text": {
+    "en": "12.—(1) A registered producer of a regulated product must not supply any regulated consumer product in any compliance year if the registered producer —\n(a)has, on average for each year in the relevant period immediately preceding the compliance year, supplied more than the threshold prescribed for that regulated consumer product; and\n(b)is not a member of a licensed scheme for the regulated consumer product.\n(2) For the purposes of subsection (1), the Minister may prescribe —\n(a)any regulated product as a regulated consumer product; and\n(b)a threshold that applies to —\n(i)one class or type of regulated consumer product; or\n(ii)2 or more classes or types of regulated consumer products collectively.\n(3) A registered producer of a regulated product who, without reasonable excuse, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.\n(4) In this section —\n“compliance year” means the period starting 1 July in any year and ending 30 June in the following year (both dates inclusive);\n“relevant period” means —\n(a)in relation to the compliance year from 1 July 2021 to 30 June 2022 (both dates inclusive) — the year 2020;\n(b)in relation to the compliance year from 1 July 2022 to 30 June 2023 (both dates inclusive) — the years 2020 and 2021; and\n(c)in relation to any compliance year after 30 June 2023 — 3 calendar years."
+   }
+  },
+  {
+   "id": "SG-H3619-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 ELECTRICAL AND ELECTRONIC WASTE"
+   },
+   "heading": {
+    "en": "Collection and disposal of unwanted regulated non‑consumer products"
+   },
+   "text": {
+    "en": "13.—(1) Where a person, on or after 1 July 2021, presents a regulated non‑consumer product to the producer of the regulated non‑consumer product (whether or not registered) for the purposes of disposal, or requests that producer to dispose of the regulated non‑consumer product, the producer —\n(a)must, within a reasonable time after being presented or receiving the request, collect the regulated non‑consumer product from any premises specified by the person; and\n(b)must not demand or require the person to pay any consideration for the collection and disposal of the regulated non‑consumer product (such as the cost of any labour or transport).\n(2) Where the producer of a regulated non‑consumer product contravenes subsection (1)(a), the Agency may, by written notice served on the producer, direct the producer to collect the regulated non‑consumer product from any premises (whether or not specified by the person mentioned in subsection (1)) and within the time, specified in the written notice.\n(3) A producer of a regulated non‑consumer product who is aggrieved by any direction of the Agency under subsection (2) may, within 14 days after being notified of the direction, appeal to the Minister.\n(4) A producer of a regulated non‑consumer product who, without reasonable excuse —\n(a)contravenes subsection (1)(b); or\n(b)refuses or fails to comply with the Agency’s direction under subsection (2),\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.\n(5) It is a defence to a prosecution for an offence under subsection (4)(a) or (b) if it is proved, on a balance of probabilities, that the accused reasonably believed that the accused is not the producer of the regulated non‑consumer product.\n(6) A producer of a regulated non‑consumer product commits an offence if the producer disposes of any regulated non‑consumer product collected under this section other than by presenting it to, or by depositing it at a place directed or designated by, any of the following persons:\n(a)a licensed waste collector;\n(b)a licensed e‑waste recycler.\n(7) In a prosecution for an offence under subsection (6), it is not necessary for the prosecution to prove that the accused knew that —\n(a)the thing disposed of is a regulated non‑consumer product collected under this section;\n(b)the person to whom the thing was presented is not a licensed waste collector or licensed e‑waste recycler; or\n(c)the place at which the thing was deposited was not directed or designated by a licensed waste collector or licensed e‑waste recycler.\n(8) A producer of a regulated non‑consumer product who is guilty of an offence under subsection (6) shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H3619-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 ELECTRICAL AND ELECTRONIC WASTE"
+   },
+   "heading": {
+    "en": "Retailers must collect and dispose of unwanted products"
+   },
+   "text": {
+    "en": "14.—(1) Where a retailer —\n(a)supplies a regulated consumer product (called in this section the supplied product) to a consumer; and\n(b)in the course of such supply, delivers, or causes the delivery of, the supplied product to any premises specified by the consumer,\nthe consumer may require the retailer to collect from the premises, and dispose of, another regulated consumer product (called in this section the unwanted product) that is of the same class or type as the supplied product according to the classification in section 12(2)(a).\n(2) If a person requires a retailer to collect and dispose of an unwanted product under subsection (1), the retailer —\n(a)must, at the time of the delivery or such other time as may be agreed between the person and the retailer, collect the unwanted product from the premises mentioned in subsection (1); and\n(b)must not demand or require the person to pay any consideration for the collection and disposal of the unwanted product (such as the cost of any labour or transport).\n(3) A retailer who, without reasonable excuse, contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.\n(4) A retailer commits an offence if the retailer disposes of any unwanted product collected under this section other than by presenting it to, or by depositing it at a place directed or designated by, a person operating a licensed scheme.\n(5) In a prosecution for an offence under subsection (4), it is not necessary for the prosecution to prove that the accused knew that —\n(a)the thing disposed of is an unwanted product collected under this section;\n(b)the person to whom the thing was presented is not a person operating a licensed scheme; or\n(c)the place at which the thing was deposited was not directed or designated by a person operating a licensed scheme.\n(6) A retailer who is guilty of an offence under subsection (4) shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H3619-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 ELECTRICAL AND ELECTRONIC WASTE"
+   },
+   "heading": {
+    "en": "Large retailers must offer in-store collection of certain e-waste"
+   },
+   "text": {
+    "en": "15.—(1) This section applies only in relation to —\n(a)regulated consumer products that are prescribed as designated regulated consumer products for the purposes of this section; and\n(b)a retailer who owns or occupies any premises with a floor area of or more than 300 sqm (or such other area prescribed in substitution), from which any designated regulated consumer product is supplied.\n(2) Where —\n(a)a designated regulated consumer product is brought to a retailer’s premises for disposal; and\n(b)the designated regulated consumer product is of the same class or type of consumer product as that supplied at those premises according to the classification in section 12(2)(a),\nthe retailer must accept the designated regulated consumer product for disposal.\n(3) A retailer who, without reasonable excuse, contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.\n(4) A retailer commits an offence if the retailer disposes of any designated regulated consumer product collected under this section other than by presenting it to, or by depositing it at a place directed or designated by, a person operating a licensed scheme.\n(5) In a prosecution for an offence under subsection (4), it is not necessary for the prosecution to prove that the accused knew that —\n(a)the thing disposed of is a designated regulated consumer product collected under this section;\n(b)the person to whom the thing was presented is not a person operating a licensed scheme; or\n(c)the place at which the thing was deposited was not directed or designated by a person operating a licensed scheme.\n(6) A retailer who is guilty of an offence under subsection (4) shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H3619-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 ELECTRICAL AND ELECTRONIC WASTE"
+   },
+   "heading": {
+    "en": "Restriction of public collection of e‑waste"
+   },
+   "text": {
+    "en": "16.—(1) Except where otherwise authorised by this Act and despite section 31 of the Environmental Public Health Act 1987, a person, other than an individual, must not, whether or not for reward, provide a receptacle in a public place, or a service to the public, for the collection of any regulated product for disposal unless the person is doing so —\n(a)in the course of operating a licensed scheme; or\n(b)in accordance with the written approval of the Agency.\n(2) The Agency may impose conditions (including conditions subsequent) in its written approval mentioned in subsection (1)(b).\n(3) Subsection (1) does not apply in relation to —\n(a)the placement by a person of a receptacle in a public place for the collection of any regulated product for disposal where the person does so for or on behalf of a person referred to in subsection (1)(a) or (b); or\n(b)the collection of any regulated product for disposal as waste by a licensed waste collector where the collection of the regulated product is —\n(i)incidental to the licensed waste collector’s collection of general waste; or\n(ii)carried out for or on behalf of a person mentioned in subsection (1)(a) or (b).\n(4) A person who, without reasonable excuse, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000."
+   }
+  },
+  {
+   "id": "SG-H3619-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 ELECTRICAL AND ELECTRONIC WASTE"
+   },
+   "heading": {
+    "en": "Proper disposal of regulated products"
+   },
+   "text": {
+    "en": "17.—(1) Except where section 13, 14 or 15 applies, a person, other than an individual, commits an offence if the person disposes of a regulated product other than by presenting it to, or by depositing it at a place directed or designated by, an approved person.\n(2) In a prosecution for an offence under subsection (1), it is not necessary for the prosecution to prove that the accused knew that —\n(a)the thing disposed of is a regulated product;\n(b)the person to whom the thing was presented is not an approved person; or\n(c)the place at which the thing was deposited was not directed or designated by an approved person.\n(3) A person who is guilty of an offence under subsection (1) shall be liable on conviction to a fine not exceeding $10,000.\n(4) In this section, “approved person” means any of the following persons:\n(a)a person operating a licensed scheme;\n(b)a licensed waste collector or licensed e‑waste recycler;\n(c)a person referred to in section 16(1)(b)."
+   }
+  },
+  {
+   "id": "SG-H3619-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 ELECTRICAL AND ELECTRONIC WASTE"
+   },
+   "heading": {
+    "en": "Keeping of records"
+   },
+   "text": {
+    "en": "18.—(1) A registered producer of any regulated product must keep and maintain complete and accurate records of —\n(a)the weight and number of all regulated products the producer has supplied in Singapore; and\n(b)if the registered producer supplies regulated non‑consumer products, the weight and number of all regulated non‑consumer products the producer has collected under section 13 and how the regulated non‑consumer products are handled or disposed of (as waste or otherwise).\n(2) A registered producer mentioned in subsection (1) must —\n(a)retain the records mentioned in subsection (1) for the prescribed period or longer;\n(b)during the prescribed period, make available for inspection by any authorised officer, the records mentioned in subsection (1) when so requested by any authorised officer; and\n(c)give to the Agency the records mentioned in subsection (1), and such other record, document or information relevant to monitoring or evaluating compliance with this Act as the Agency may require, in the time specified by the Agency.\n(3) A registered producer who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction —\n(a)to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both; and\n(b)in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n(4) In a prosecution for an offence under subsection (3), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(5) The offence under subsection (3) is a strict liability offence."
+   }
+  },
+  {
+   "id": "SG-H3619-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 REPORTING IN RELATION TO PACKAGING"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "19.—(1) In this Part, unless the context otherwise requires —\n“franchise” means a written agreement or arrangement between 2 or more persons by which —\n(a)a party (called in this definition the franchisor) to the agreement or arrangement authorises or permits another party (called in this definition the franchisee), or a person associated with the franchisee, to exercise the right to engage in the business of offering, selling or distributing goods or services in Singapore under a plan or system controlled by the franchisor or a person associated with the franchisor;\n(b)the business carried on by the franchisee or the person associated with the franchisee (as the case may be) is capable of being identified by the public as being substantially associated with a trade or service mark, logo, symbol or name identifying, commonly connected with or controlled by the franchisor or a person associated with the franchisor; and\n(c)the franchisor exerts, or has authority to exert, a significant degree of control over the method or manner of operation of the franchisee’s business;\n“franchisee” is the person described in the definition of “franchise” as the franchisee;\n“franchisor” is the person described in the definition of “franchise” as the franchisor;\n“goods” includes raw or processed products or goods;\n“packaging” means any material or combination of materials used for the containment, protection, handling, delivery or presentation of any goods, but does not include any material that remains in the possession of a producer of specified packaging to be re‑used for the containment, protection, handling, delivery or presentation of any goods;\n“prescribed threshold criteria”, in relation to a producer, means all or any of the following criteria, as may be prescribed:\n(a)the annual turnover of the producer;\n(b)the quantity of specified packaging imported or used by the producer;\n“regulated goods” means any goods other than goods prescribed as excluded from this definition;\n“specified packaging” means any packaging other than any type of packaging prescribed as excluded from this definition;\n“supply”, in relation to any regulated goods, includes —\n(a)the supply of the regulated goods by way of sale (including by barter or exchange), lease, loan, hire or hire‑purchase;\n(b)the supply of the regulated goods by retail or by wholesale;\n(c)the supply of the regulated goods in connection with any agreement; and\n(d)the offer to supply the regulated goods or exposure of the regulated goods for supply.\n(2) In this Part, “producer”, in relation to any specified packaging, means a person (A) who carries on a business of supplying regulated goods in Singapore and in furtherance of that business —\n(a)imports specified packaging by importing regulated goods that have been packed into or with, or wrapped with, specified packaging; or\n(b)uses specified packaging —\n(i)by packing the regulated goods into or with specified packaging or wrapping the regulated goods with specified packaging;\n(ii)by engaging another person to do anything mentioned in sub‑paragraph (i) for or on behalf of A or otherwise causing anything mentioned in sub‑paragraph (i);\n(iii)where A supplies the regulated goods to a retailer, by providing specified packaging to the retailer that A requires the retailer to use in connection with the retailer’s supply of the regulated goods; or\n(iv)where A is a retailer, by providing the specified packaging to a consumer who purchases regulated goods from A, to enable the consumer to put the regulated goods into the specified packaging,\nbut does not include a person who does anything mentioned in paragraph (b)(i) for or on behalf of a Singapore‑connected person, or the retailer mentioned in paragraph (b)(iii)."
+   }
+  },
+  {
+   "id": "SG-H3619-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 REPORTING IN RELATION TO PACKAGING"
+   },
+   "heading": {
+    "en": "Reporting of specified packaging imported or used"
+   },
+   "text": {
+    "en": "20.—(1) A producer of any specified packaging who fulfils the prescribed threshold criteria in any year (T) must, in year T + 2, submit to the Agency a report relating to the specified packaging that is imported or used in year T + 1.\n(2) Where a producer is the franchisor of a franchise —\n(a)the annual turnover of, or the quantity of specified packaging imported or used by, all franchisees of the franchise is to be included for the purposes of determining whether the franchisor fulfils the prescribed threshold criteria; and\n(b)any reference in this Part to specified packaging imported or used by the franchisor includes a reference to specified packaging imported or used by all the franchisees of the franchise.\n(3) Where (but for this subsection) a producer is required to submit a report under subsection (1), and —\n(a)the producer is a franchisee of a franchise; and\n(b)the franchisor of the franchise is a Singapore‑connected person,\nthen subsection (1) does not apply to the franchisee.\n(4) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable —\n(a)on the first conviction to a fine not exceeding $5,000; and\n(b)on a second or subsequent conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after that second or subsequent conviction.\n(5) In a prosecution for an offence under subsection (4), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(6) The offence under subsection (4) is a strict liability offence."
+   }
+  },
+  {
+   "id": "SG-H3619-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 REPORTING IN RELATION TO PACKAGING"
+   },
+   "heading": {
+    "en": "Submission of 3R plan"
+   },
+   "text": {
+    "en": "21.—(1) A producer required by section 20 to submit a report under that section must also submit to the Agency a plan to reduce, re‑use or recycle packaging in Singapore (whether or not the packaging is imported or used by the producer).\n(2) Without affecting section 52, a plan to reduce, re‑use or recycle packaging under subsection (1) must include information on the implementation of any part of the plan.\n(3) A producer who contravenes subsection (1) shall be guilty of an offence and shall be liable —\n(a)on the first conviction to a fine not exceeding $5,000; and\n(b)on a second or subsequent conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after that second or subsequent conviction.\n(4) In a prosecution for an offence under subsection (3), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(5) The offence under subsection (3) is a strict liability offence."
+   }
+  },
+  {
+   "id": "SG-H3619-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 REPORTING IN RELATION TO PACKAGING"
+   },
+   "heading": {
+    "en": "Requirements for reports and plans"
+   },
+   "text": {
+    "en": "22.—(1) A requirement to submit a report or a plan under this Part to the Agency is a requirement to do so in accordance with any requirements prescribed under section 52 for the report or plan, including its preparation and submission.\n(2) The Agency may, in respect of any incomplete or inaccurate report or plan submitted by a person, in writing direct the person to do the following within the time period specified in the direction (or such longer time as the Agency may allow in any particular case):\n(a)to rectify or re‑compute any matter in the report or plan as the Agency may require;\n(b)to resubmit the report or plan to the Agency,\nand the person must comply with the direction.\n(3) A person who fails to comply with a direction under subsection (2) shall be guilty of an offence and shall be liable —\n(a)on the first conviction to a fine not exceeding $5,000; and\n(b)on a second or subsequent conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after that second or subsequent conviction.\n(4) In a prosecution for an offence under subsection (3), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(5) The offence under subsection (3) is a strict liability offence."
+   }
+  },
+  {
+   "id": "SG-H3619-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 REPORTING IN RELATION TO PACKAGING"
+   },
+   "heading": {
+    "en": "Keeping of records"
+   },
+   "text": {
+    "en": "23.—(1) A producer of specified packaging who is required under this Part to submit any report or plan to the Agency must keep and maintain complete and accurate records containing such information, and in accordance with such other requirements, as may be prescribed under section 52, relating to —\n(a)those reports and plans, including the preparation and submission of the reports and plans; and\n(b)monitoring and evaluation undertaken by the person to ensure compliance with this Act.\n(2) The producer mentioned in subsection (1) must —\n(a)retain the records mentioned in subsection (1) for the prescribed period or longer;\n(b)during the prescribed period mentioned in paragraph (a), make available for inspection by any authorised officer, the records mentioned in subsection (1) when so requested by the authorised officer; and\n(c)submit to the Agency the records mentioned in subsection (1) in the time specified by the Agency.\n(3) A producer who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable —\n(a)on the first conviction to a fine not exceeding $5,000; and\n(b)on a second or subsequent conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after that second or subsequent conviction.\n(4) In a prosecution for an offence under subsection (3), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(5) The offence under subsection (3) is a strict liability offence."
+   }
+  },
+  {
+   "id": "SG-H3619-A23.001",
+   "no": 23.001,
+   "noLabel": {
+    "en": "23A."
+   },
+   "chapter": {
+    "en": "PART 4A DISPOSABLE CARRIER BAG CHARGE"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "23A. In this Part, unless the context otherwise requires —\n“annual turnover”, in relation to a regulated retailer, means the gross revenue received by the regulated retailer in respect of the regulated retailer’s trade or business in Singapore in a year, whether in relation to the supply of goods or otherwise, determined in the prescribed manner;\n“customer” means any person who purchases or intends to purchase any goods from a regulated retailer;\n“disposable carrier bag” means packaging (within the meaning of section 19(1)) in the form of a bag with handles (other than a reusable bag) that is provided by a retailer in relation to goods purchased from the retailer by a customer —\n(a)to pack the goods for the customer or enable the customer to put the goods into the bag; and\n(b)by which the goods may be carried or otherwise transported after the point of sale (whether or not the bag is in fact so used by the customer);\n“prescribed amount” means $0.05 or another amount prescribed in substitution;\n“prescribed annual turnover”, in relation to a class of regulated retailers, means the prescribed annual turnover for that class of regulated retailers;\n“registered retailer” means a regulated retailer who is registered under section 23C(3);\n“regulated retailer” means a retailer who belongs to a class of retailers prescribed as regulated retailers for the purposes of this Part;\n“reportable year”, in relation to a person, means any year at any time during which the person is a registered retailer;\n“retailer” means a person who carries on a trade or business of supplying goods by retail;\n“reusable bag” means any bag with handles that —\n(a)is made primarily of any fabric woven with natural, semi-synthetic or synthetic fibres that is washable;\n(b)is made primarily of plastic or other material made of semi-synthetic or synthetic polymers, of a prescribed minimum thickness or density;\n(c)has the ability to hold a prescribed minimum weight; or\n(d)is prescribed, according to the material, intended function, properties or dimensions of the bag, as a reusable bag.\n[Act 14 of 2023 wef 26/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.002",
+   "no": 23.002,
+   "noLabel": {
+    "en": "23B."
+   },
+   "chapter": {
+    "en": "PART 4A DISPOSABLE CARRIER BAG CHARGE"
+   },
+   "heading": {
+    "en": "Obligation to apply for registration"
+   },
+   "text": {
+    "en": "23B.—(1) A regulated retailer (X) who has an annual turnover for any trigger year that exceeds the prescribed annual turnover for the class of regulated retailers to which X belongs must, unless X is already a registered retailer for that class of regulated retailers, apply to the Agency before the applicable date in section 23C(1)(a) for that trigger year to be registered as a registered retailer for that class of regulated retailers.\n(2) A regulated retailer who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.\n(3) In a prosecution for an offence under subsection (2), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(4) The offence under subsection (2) is a strict liability offence.\n(5) In this section and section 23C, a trigger year is —\n(a)2021 or a subsequent year; or\n(b)in the case of a regulated retailer who has been deregistered pursuant to an application under section 23D — any year from (and including) the year in which the regulated retailer is deregistered.\n[Act 14 of 2023 wef 26/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.003",
+   "no": 23.003,
+   "noLabel": {
+    "en": "23C."
+   },
+   "chapter": {
+    "en": "PART 4A DISPOSABLE CARRIER BAG CHARGE"
+   },
+   "heading": {
+    "en": "Applications for registration"
+   },
+   "text": {
+    "en": "23C.—(1) An application for registration under section 23B must —\n(a)be made before —\n(i)where the trigger year (T) is 2021 — the prescribed date; and\n(ii)where year T is 2022 or a subsequent year —30 June of year T + 1;\n(b)identify the regulated retailer in question;\n(c)contain any information prescribed for assessing applications made under this section, and any other information required by the Agency to assess the particular application; and\n(d)be in the form and manner required by the Agency.\n(2) The Agency may refuse to accept any application that is incomplete or not made in accordance with subsection (1).\n(3) Where the Agency grants an application for registration, the registration of the regulated retailer concerned begins on —\n(a)where year T is 2021 — the prescribed date; and\n(b)where year T is 2022 or a subsequent year — 1 January of year T + 2,\nand continues until deregistration pursuant to an application under section 23D.\n[Act 14 of 2023 wef 26/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.004",
+   "no": 23.004,
+   "noLabel": {
+    "en": "23D."
+   },
+   "chapter": {
+    "en": "PART 4A DISPOSABLE CARRIER BAG CHARGE"
+   },
+   "heading": {
+    "en": "Entitlement to apply to deregister as registered retailer"
+   },
+   "text": {
+    "en": "23D.—(1) A registered retailer may apply to the Agency to be deregistered in respect of a class of regulated retailers for which the registered retailer is registered if —\n(a)the registered retailer ceases to be a regulated retailer of that class; or\n(b)the annual turnover of the registered retailer for each of 3 consecutive years does not exceed the prescribed annual turnover for that class.\n(2) A registered retailer must give the Agency written notice of the date of the cessation mentioned in subsection (1)(a), at least 30 days before that date.\n[Act 14 of 2023 wef 26/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.005",
+   "no": 23.005,
+   "noLabel": {
+    "en": "23E."
+   },
+   "chapter": {
+    "en": "PART 4A DISPOSABLE CARRIER BAG CHARGE"
+   },
+   "heading": {
+    "en": "Applications for deregistration"
+   },
+   "text": {
+    "en": "23E.—(1) An application for deregistration under section 23D must —\n(a)identify the registered retailer in question;\n(b)contain any information prescribed for assessing applications made under this section, and any other information required by the Agency to assess the particular application; and\n(c)be in the form and manner required by the Agency.\n(2) The Agency may refuse to accept any application that is incomplete or not made in accordance with subsection (1).\n[Act 14 of 2023 wef 26/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.006",
+   "no": 23.006,
+   "noLabel": {
+    "en": "23F."
+   },
+   "chapter": {
+    "en": "PART 4A DISPOSABLE CARRIER BAG CHARGE"
+   },
+   "heading": {
+    "en": "Registered retailer must impose and collect charge for disposable carrier bags"
+   },
+   "text": {
+    "en": "23F.—(1) Subject to subsection (2), a registered retailer must impose and collect a charge of an amount no less than the prescribed amount for each disposable carrier bag that the registered retailer provides to a customer who purchases any goods from the registered retailer.\n(2) Subsection (1) does not apply in relation to —\n(a)a prescribed class, type or description of disposable carrier bags;\n(b)a disposable carrier bag that is provided to a prescribed person or class of persons;\n(c)a disposable carrier bag that is provided in prescribed circumstances; or\n(d)a prescribed registered retailer.\n(3) A registered retailer who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.\n(4) In a prosecution for an offence under subsection (3), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(5) The offence under subsection (3) is a strict liability offence.\n[Act 14 of 2023 wef 26/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.007",
+   "no": 23.007,
+   "noLabel": {
+    "en": "23G."
+   },
+   "chapter": {
+    "en": "PART 4A DISPOSABLE CARRIER BAG CHARGE"
+   },
+   "heading": {
+    "en": "Preventing circumvention of charge"
+   },
+   "text": {
+    "en": "23G.—(1) A registered retailer must not provide any reimbursement for a charge mentioned in section 23F(1), whether in money or in kind.\n(2) A registered retailer who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.\n(3) In a prosecution for an offence under subsection (2), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(4) The offence under subsection (2) is a strict liability offence.\n[Act 14 of 2023 wef 26/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.008",
+   "no": 23.008,
+   "noLabel": {
+    "en": "23H."
+   },
+   "chapter": {
+    "en": "PART 4A DISPOSABLE CARRIER BAG CHARGE"
+   },
+   "heading": {
+    "en": "Communication and recording of charge"
+   },
+   "text": {
+    "en": "23H.—(1) A registered retailer must —\n(a)inform the registered retailer’s customers of the charge imposed for the provision of each disposable carrier bag, in the manner prescribed; and\n(b)where a receipt is given to a customer, set out the charge mentioned in paragraph (a) as a separate item in the receipt.\n(2) A registered retailer who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.\n(3) In a prosecution for an offence under subsection (2), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(4) The offence under subsection (2) is a strict liability offence.\n[Act 14 of 2023 wef 26/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.009",
+   "no": 23.009,
+   "noLabel": {
+    "en": "23I."
+   },
+   "chapter": {
+    "en": "PART 4A DISPOSABLE CARRIER BAG CHARGE"
+   },
+   "heading": {
+    "en": "Submission of prescribed information"
+   },
+   "text": {
+    "en": "23I.—(1) A person who is or was a registered retailer must submit to the Agency, in relation to any reportable year, a report containing the following information:\n(a)the number of disposable carrier bags provided to customers in the reportable year in respect of which the person is required under section 23F(1) to impose and collect a charge as a registered retailer;\n(b)any other prescribed information relevant to monitoring the person’s compliance with this Part.\n(2) A requirement to submit the report under subsection (1) is a requirement to do so in accordance with any requirements prescribed under section 52 for the report, including its preparation and submission.\n(3) The Agency may, in respect of any incomplete or inaccurate report submitted by a person, in writing direct the person to do the following within the time period specified in the direction (or any longer time that the Agency may allow in any particular case):\n(a)rectify or re‑compute any matter in the report as the Agency may require;\n(b)resubmit the report to the Agency,\nand the person must comply with the direction.\n(4) A person who contravenes subsection (1) or fails to comply with a direction under subsection (3) shall be guilty of an offence and shall be liable —\n(a)on the first conviction to a fine not exceeding $5,000; and\n(b)on a second or subsequent conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after that second or subsequent conviction.\n(5) In a prosecution for an offence under subsection (4), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(6) The offence under subsection (4) is a strict liability offence.\n[Act 14 of 2023 wef 26/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.01",
+   "no": 23.01,
+   "noLabel": {
+    "en": "23J."
+   },
+   "chapter": {
+    "en": "PART 4A DISPOSABLE CARRIER BAG CHARGE"
+   },
+   "heading": {
+    "en": "Keeping of records"
+   },
+   "text": {
+    "en": "23J.—(1) A person required to submit a report under section 23I(1) must keep and maintain complete and accurate records of the following:\n(a)the total amount of charge collected (including any amount collected in excess of the prescribed amount) by the person under section 23F for the provision of disposable carrier bags;\n(b)prescribed information relating to how and where the amount mentioned in paragraph (a) has been applied;\n(c)any information or document relevant to the report.\n(2) The person mentioned in subsection (1) must —\n(a)retain the records mentioned in subsection (1) for at least the prescribed period;\n(b)during the prescribed period mentioned in paragraph (a), make those records available for inspection by any authorised officer, when so requested by the authorised officer; and\n(c)submit to the Agency those records in the time specified by the Agency.\n(3) A person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable —\n(a)on the first conviction to a fine not exceeding $5,000; and\n(b)on a second or subsequent conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after that second or subsequent conviction.\n(4) In a prosecution for an offence under subsection (3), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(5) The offence under subsection (3) is a strict liability offence.\n[Act 14 of 2023 wef 26/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.011",
+   "no": 23.011,
+   "noLabel": {
+    "en": "23K."
+   },
+   "chapter": {
+    "en": "PART 4A DISPOSABLE CARRIER BAG CHARGE"
+   },
+   "heading": {
+    "en": "Publication of information"
+   },
+   "text": {
+    "en": "23K.—(1) A person who is or was a registered retailer must —\n(a)in accordance with this section, publish the information mentioned in sections 23I(1)(a) and 23J(1)(a) and (b) in relation to each reportable year of the person; and\n(b)cause the information mentioned in paragraph (a) to be audited before publication.\n(2) The information mentioned in subsection (1) must be published —\n(a)by 31 December of the year following the reportable year; and\n(b)by at least one of the following means and for the period specified for such means:\n(i)made available for public access on a website operated by the person or a company in the same group as the person, for a continuous period of at least 12 months;\n(ii)printed and prominently displayed, for each of the person’s premises at which the charge mentioned in section 23F(1) must be imposed (if applicable), at a location at which the person posts or permits the posting of notices or that is at or near an entrance or exit of the premises, for a continuous period of at least 12 months;\n(iii)any other prescribed means and for the prescribed period.\n(3) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.\n(4) In a prosecution for an offence under subsection (3), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(5) The offence under subsection (3) is a strict liability offence.\n(6) In this section, “group” has the meaning given by the accounting standards made or formulated by the Accounting Standards Committee under Part 3 of the Accounting Standards Act 2007 and applicable to companies and foreign companies (within the meaning of the Companies Act 1967) in respect of their operations in Singapore for the purposes of the Companies Act 1967.\n[Act 14 of 2023 wef 26/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.012",
+   "no": 23.012,
+   "noLabel": {
+    "en": "23L."
+   },
+   "chapter": {
+    "en": "PART 4A DISPOSABLE CARRIER BAG CHARGE"
+   },
+   "heading": {
+    "en": "Direction to rectify incomplete or inaccurate information"
+   },
+   "text": {
+    "en": "23L.—(1) The Agency may, in respect of any incomplete or inaccurate information published by a person under section 23K(1), in writing direct the person to do the following within the time period specified in the direction (or any longer time that the Agency may allow in any particular case):\n(a)rectify or re‑compute any information as the Agency may require;\n(b)republish the information in accordance with section 23K(2)(b),\nand the person must comply with the direction.\n(2) A person who fails to comply with a direction under subsection (1) shall be guilty of an offence and shall be liable —\n(a)on the first conviction to a fine not exceeding $5,000; and\n(b)on a second or subsequent conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after that second or subsequent conviction.\n(3) In a prosecution for an offence under subsection (2), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(4) The offence under subsection (2) is a strict liability offence.\n[Act 14 of 2023 wef 26/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.013",
+   "no": 23.013,
+   "noLabel": {
+    "en": "23M."
+   },
+   "chapter": {
+    "en": "PART 4B BEVERAGE CONTAINER RETURN SCHEME"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "23M.—(1) In this Part, unless the context otherwise requires —\n“beverage container” means a container that is —\n(a)designed to contain a beverage and to be sealed (when filled with the beverage), before the beverage is sold or delivered for its use or consumption;\n(b)made of a prescribed material; and\n(c)of a prescribed volume or shape or prescribed dimensions;\n“beverage product” means a regulated beverage that is in a sealed beverage container;\n“deposit”, in relation to a beverage container, means the deposit for the beverage container, described in section 23Q;\n“deposit mark” means the deposit mark mentioned in section 23N;\n“manufacture”, in relation to a beverage product, means the act of filling a beverage container with a regulated beverage and sealing the container;\n“offer to supply”, in relation to a beverage product, includes exposing or displaying the beverage product as an invitation to treat;\n“regulated beverage” means any liquid beverage intended for human consumption by drinking, whether or not —\n(a)dilution of the liquid is recommended before consumption; or\n(b)containing solids,\nbut does not include a liquid of a kind that is prescribed to be excluded;\n“return point” means a facility or place at which a person may present an empty beverage container affixed with a deposit mark and barcode and receive the deposit for the empty beverage container accepted at the facility or place;\n“return point operator” means —\n(a)a scheme licensee who operates a return point;\n(b)a person required under section 23S(1) to operate a return point; or\n(c)a person who has entered into an arrangement with a scheme licensee to operate a return point;\n“scheme licensee” means a licensee of a producer responsibility scheme for beverage containers;\n“supply”, in relation to a beverage product, means the giving of the beverage product to another person for any purpose, whether or not for consideration in money or in kind, but does not include any such giving by an individual in the individual’s private or personal capacity.\n(2) Subject to subsection (3), a person is the producer of a beverage product if —\n(a)the person imports the beverage product into Singapore; or\n(b)the person manufactures the beverage product in Singapore or is engaged by another person to manufacture the beverage product for that other person.\n(3) A person (A) is not a producer of a beverage product if —\n(a)A is an individual; and\n(b)A imports or manufactures the beverage product other than in the course of business.\n[Act 14 of 2023 wef 12/07/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.014",
+   "no": 23.014,
+   "noLabel": {
+    "en": "23N."
+   },
+   "chapter": {
+    "en": "PART 4B BEVERAGE CONTAINER RETURN SCHEME"
+   },
+   "heading": {
+    "en": "Prescribed deposit mark"
+   },
+   "text": {
+    "en": "23N. The Minister may prescribe any logo, marking or text, or any combination thereof, as a deposit mark for the purpose of being affixed on a beverage container so as to identify the beverage container as one for which a deposit will be refunded upon acceptance of the beverage container at a return point.\n[Act 14 of 2023 wef 12/07/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.015",
+   "no": 23.015,
+   "noLabel": {
+    "en": "23O."
+   },
+   "chapter": {
+    "en": "PART 4B BEVERAGE CONTAINER RETURN SCHEME"
+   },
+   "heading": {
+    "en": "Producers must join licensed scheme"
+   },
+   "text": {
+    "en": "23O.—(1) A producer of a beverage product must not supply, or offer to supply, in Singapore any beverage product affixed with a deposit mark unless the producer is a member of a licensed scheme for beverage containers.\n(2) A producer who, without reasonable excuse, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.\n[Act 14 of 2023 wef 12/07/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.016",
+   "no": 23.016,
+   "noLabel": {
+    "en": "23P."
+   },
+   "chapter": {
+    "en": "PART 4B BEVERAGE CONTAINER RETURN SCHEME"
+   },
+   "heading": {
+    "en": "Beverage containers must display deposit mark and barcode"
+   },
+   "text": {
+    "en": "23P.—(1) Subject to subsection (2), any person (including a producer of a beverage product) must not, on or after the prescribed date, supply or offer to supply in Singapore any beverage product, unless the beverage container for the beverage product is affixed with —\n(a)a deposit mark; and\n(b)a barcode by which the beverage product may be identified.\n(2) Subsection (1) does not apply in relation to —\n(a)any beverage product that is supplied to a prescribed person or class of persons;\n(b)any beverage product that is supplied in prescribed circumstances; or\n(c)any prescribed producer.\n(3) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.\n(4) In a prosecution for an offence under subsection (3), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(5) The offence under subsection (3) is a strict liability offence.\n[Act 14 of 2023 wef 12/07/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.017",
+   "no": 23.017,
+   "noLabel": {
+    "en": "23Q."
+   },
+   "chapter": {
+    "en": "PART 4B BEVERAGE CONTAINER RETURN SCHEME"
+   },
+   "heading": {
+    "en": "Deposit for beverage product"
+   },
+   "text": {
+    "en": "23Q.—(1) For the purpose of ensuring or otherwise encouraging the return of beverage containers for recycling, there is to be a deposit in respect of every beverage product affixed with a deposit mark, to be provided for in accordance with this section and section 23R, and which is refundable upon the acceptance of the beverage container of the beverage product under section 23U.\n(2) The Minister may prescribe the amount of the deposit for the purposes of this Part.\n(3) Subject to subsection (4), for the purpose of providing for the deposit, where a person (X) (including a producer) supplies any beverage product affixed with a deposit mark to another person (Y), X must collect from Y, and Y must give to X, the amount of the deposit for the beverage product.\n(4) X may refuse to supply the beverage product to Y if Y refuses to give to X the amount of the deposit for the beverage product, but X may waive Y’s giving of the amount of the deposit to X.\n(5) Despite subsection (4), X must not waive Y’s giving of the amount of the deposit to X if X receives any consideration in money for the supply of the beverage product.\n(6) Where X waives Y’s giving of the amount of the deposit to X, and Y receives the amount of the deposit from the person to whom Y supplies the beverage product, Y must, despite the waiver, give the amount of the deposit to X within the prescribed period after Y supplies the beverage product.\n(7) A person who contravenes subsection (5) or (6) shall be guilty of an offence and shall be liable —\n(a)on the first conviction to a fine not exceeding $5,000; and\n(b)on a second or subsequent conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.\n(8) To avoid doubt, no amount given to or collected by a person for the purpose of providing for the deposit in respect of any beverage product (whether under this section or section 23R) is to be construed as forming any part of the price for the beverage product or for or for the use of the beverage container thereof.\n[Act 14 of 2023 wef 12/07/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.018",
+   "no": 23.018,
+   "noLabel": {
+    "en": "23R."
+   },
+   "chapter": {
+    "en": "PART 4B BEVERAGE CONTAINER RETURN SCHEME"
+   },
+   "heading": {
+    "en": "Producers must provide deposit to scheme licensee"
+   },
+   "text": {
+    "en": "23R.—(1) A producer of a beverage product who supplies in Singapore to any person any beverage product affixed with a deposit mark, must provide the amount of the deposit in respect of the beverage product to the scheme licensee of the licensed scheme for beverage containers that the producer is a member of, within the time requested by the scheme licensee (subject to any regulations made under section 52 prescribing any other time for the provision).\n(2) Where a producer contravenes subsection (1), the Agency may, by written notice served on the producer, direct the producer to stop supplying any beverage product until the producer provides the scheme licensee with the amount of unpaid deposits specified in the written notice.\n(3) A producer who is aggrieved by any direction of the Agency under subsection (2) may, within 14 days after being notified of the direction, appeal to the Minister.\n(4) A producer who, without reasonable excuse —\n(a)contravenes subsection (1); or\n(b)refuses or fails to comply with the Agency’s direction under subsection (2),\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.\n[Act 14 of 2023 wef 12/07/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.019",
+   "no": 23.019,
+   "noLabel": {
+    "en": "23S."
+   },
+   "chapter": {
+    "en": "PART 4B BEVERAGE CONTAINER RETURN SCHEME"
+   },
+   "heading": {
+    "en": "Provision of return points"
+   },
+   "text": {
+    "en": "23S.—(1) A person prescribed for the purpose of this section must operate a return point in accordance with any requirement prescribed under section 52, unless the person is prohibited from operating a return point under section 23T.\n(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.\n(3) In a prosecution for an offence under subsection (2), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(4) The offence under subsection (2) is a strict liability offence.\n[Act 14 of 2023 wef 12/07/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.02",
+   "no": 23.02,
+   "noLabel": {
+    "en": "23T."
+   },
+   "chapter": {
+    "en": "PART 4B BEVERAGE CONTAINER RETURN SCHEME"
+   },
+   "heading": {
+    "en": "Prohibition against operating return points"
+   },
+   "text": {
+    "en": "23T.—(1) The Agency may, by written order, prohibit any person from operating a return point —\n(a)where the person has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that the person acted fraudulently or dishonestly; or\n(b)where the Agency is satisfied that the person has —\n(i)contravened any provision of this Part; or\n(ii)knowingly claimed the deposit for any beverage container in a case where no such deposit was provided to the scheme licensee concerned.\n(2) Before issuing an order under subsection (1), the Agency must —\n(a)give the person written notice of its intention to do so; and\n(b)in the notice mentioned in paragraph (a), call upon the person to show cause within the time specified in the notice why the person should not be prohibited from operating a return point.\n(3) If the person to whom notice has been given under subsection (2) —\n(a)fails to show cause within the time given to the person to do so or within any extended time that the Agency may allow; or\n(b)fails to show sufficient cause,\nthe Agency must give written notice to the person of the date on which the prohibition is to take effect and, before that date, inform the scheme licensee of the issuance of an order under subsection (1).\n(4) A person who is aggrieved by a decision of the Agency under subsection (1) may, within 30 days after the decision of the Agency, appeal to the Minister.\n(5) Where the Agency has informed a scheme licensee of the issuance of an order under subsection (1), the scheme licensee must not provide any deposit or pay any fees to, or otherwise deal with, the person who has been issued the order.\n(6) A person who fails to comply with an order of the Agency made under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.\n(7) A person who contravenes subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.\n(8) In a prosecution for an offence under subsection (6) or (7), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(9) The offences under subsections (6) and (7) are strict liability offences.\n[Act 14 of 2023 wef 12/07/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.021",
+   "no": 23.021,
+   "noLabel": {
+    "en": "23U."
+   },
+   "chapter": {
+    "en": "PART 4B BEVERAGE CONTAINER RETURN SCHEME"
+   },
+   "heading": {
+    "en": "Refunds of deposits by return point operators"
+   },
+   "text": {
+    "en": "23U.—(1) Subject to subsection (2), if a person presents an empty beverage container affixed with a deposit mark and barcode required under section 23P at a return point, the return point operator operating the return point must accept the beverage container and refund the deposit for the beverage container to the person.\n(2) Subsection (1) does not apply —\n(a)if the deposit mark or barcode is so damaged that it cannot be read or scanned;\n(b)where there are operating hours specified at the return point for the return point — if the person presents the beverage container at the return point at any time other than during the operating hours;\n(c)if the return point operator reasonably believes that —\n(i)a deposit was not provided in respect of the beverage container to the scheme licensee concerned under section 23R(1); or\n(ii)the deposit for the beverage container was previously refunded at any return point; or\n(d)in any other prescribed circumstances.\n(3) A return point operator who, without reasonable excuse, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.\n[Act 14 of 2023 wef 12/07/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.022",
+   "no": 23.022,
+   "noLabel": {
+    "en": "23V."
+   },
+   "chapter": {
+    "en": "PART 4B BEVERAGE CONTAINER RETURN SCHEME"
+   },
+   "heading": {
+    "en": "Keeping of records"
+   },
+   "text": {
+    "en": "23V.—(1) A producer of a beverage product must keep and maintain complete and accurate records of —\n(a)the name, type, number of units, volume and form of each beverage product supplied by the producer;\n(b)the materials and weight of the beverage container used for each beverage product supplied by the producer; and\n(c)any other prescribed information.\n(2) The producer mentioned in subsection (1) must —\n(a)retain the records mentioned in subsection (1) for at least the prescribed period; and\n(b)comply with a request made by an authorised officer during the prescribed period mentioned in paragraph (a) —\n(i)to make available for inspection by any authorised officer, the records mentioned in subsection (1); or\n(ii)to submit to the Agency the records mentioned in subsection (1) in the time specified in the request.\n(3) A person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable —\n(a)on the first conviction to a fine not exceeding $5,000; and\n(b)on a second or subsequent conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after that second or subsequent conviction.\n(4) In a prosecution for an offence under subsection (3), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(5) The offence under subsection (3) is a strict liability offence.\n[Act 14 of 2023 wef 12/07/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.023",
+   "no": 23.023,
+   "noLabel": {
+    "en": "23W."
+   },
+   "chapter": {
+    "en": "PART 4B BEVERAGE CONTAINER RETURN SCHEME"
+   },
+   "heading": {
+    "en": "Producers must submit information to scheme licensee"
+   },
+   "text": {
+    "en": "23W.—(1) A producer of a beverage product who is required under section 23O to be a member of a licensed scheme for beverage containers must provide the information mentioned in section 23V(1)(a), (b) or (c) to the scheme licensee of the licensed scheme that the producer is a member of, within the time requested by the scheme licensee (subject to any regulations made under section 52 prescribing any other time for the provision).\n(2) A producer who, without reasonable excuse, contravenes subsection (1) shall be guilty of an offence and shall be liable —\n(a)on the first conviction to a fine not exceeding $5,000; and\n(b)on a second or subsequent conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after that second or subsequent conviction.\n[Act 14 of 2023 wef 12/07/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A23.024",
+   "no": 23.024,
+   "noLabel": {
+    "en": "23X."
+   },
+   "chapter": {
+    "en": "PART 4B BEVERAGE CONTAINER RETURN SCHEME"
+   },
+   "heading": {
+    "en": "Unauthorised use of deposit mark"
+   },
+   "text": {
+    "en": "23X.—(1) Unless authorised in writing by a scheme licensee, a person must not affix a deposit mark on any container that is not a beverage container.\n(2) A person who, without reasonable excuse, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.\n[Act 14 of 2023 wef 12/07/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 5 FOOD WASTE"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "24.—(1) In this Part, unless the context otherwise requires —\n“building manager”, in relation to a prescribed building, means —\n(a)where the prescribed building is occupied by only one person — the owner or occupier of the building; or\n(b)where the prescribed building is occupied by more than one person —\n(i)where the prescribed building is a subdivided building — the management corporation of the building; or\n(ii)where the prescribed building is not a subdivided building — the owner of the building or an agent of the owner who is responsible for maintaining the building;\n“licensed waste disposal facility” means a disposal facility in respect of which there is a waste disposal licence under section 23(2) of the Environmental Public Health Act 1987 for the treatment of food waste;\n“management corporation” has the meaning given by section 3(1) of the Land Titles (Strata) Act 1967;\n“prescribed building” means any building prescribed for the purposes of this Part;\n“public disposal facility” means a disposal facility mentioned in section 22(1)(a) of the Environmental Public Health Act 1987 that is for the treatment of food waste;\n“relevant written permission”, in relation to a prescribed building, means a written permission that is granted under the Planning Act 1998 pursuant to an application made on or after the date prescribed for that prescribed building;\n“subdivided building” has the meaning given by section 3(1) of the Land Titles (Strata) Act 1967.\n(2) In this Part, food waste has been treated if —\n(a)it has undergone a prescribed food waste treatment process; or\n(b)it has been treated using a prescribed food waste treatment system.\n[Act 14 of 2023 wef 08/03/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 5 FOOD WASTE"
+   },
+   "heading": {
+    "en": "Prescribed buildings"
+   },
+   "text": {
+    "en": "25.—(1) The Minister may prescribe any building to be a prescribed building for the purposes of this Part.\n(2) A prescription under subsection (1) may be specific or by way of any class, type or description of buildings.\n[Act 14 of 2023 wef 08/03/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 5 FOOD WASTE"
+   },
+   "heading": {
+    "en": "Occupiers of prescribed buildings to segregate food waste"
+   },
+   "text": {
+    "en": "26.—(1) An occupier of a prescribed building, or a part of a prescribed building, must, as from and including the date prescribed for the building, in relation to any food waste generated by the occupier in the prescribed building or within the premises on which the prescribed building is situated —\n(a)segregate, in the prescribed building or within those premises, the food waste from any other type of waste; and\n(b)subject to section 27, dispose of the segregated food waste only at a facility mentioned in section 27A(1).\n(2) An occupier of a prescribed building, or a part of a prescribed building, must not dispose of any type of waste other than food waste at a facility mentioned in section 27A(1).\n(3) A person who, without reasonable excuse, contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.\n[Act 14 of 2023 wef 08/03/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 5 FOOD WASTE"
+   },
+   "heading": {
+    "en": "Approved alternative food waste disposal or treatment arrangements"
+   },
+   "text": {
+    "en": "27.—(1) Despite section 26(1)(b), the occupier of a prescribed building or any part of a prescribed building may, with the written approval of the Agency —\n(a)treat the segregated food waste in the prescribed building or within the premises on which the prescribed building is situated; or\n(b)engage a licensed waste collector to send the segregated food waste for treatment at —\n(i)a licensed waste disposal facility; or\n(ii)a public disposal facility.\n(2) An occupier who has obtained a written approval under subsection (1) must, for the period that the written approval is valid, treat the food waste or send the food waste for treatment in the manner approved.\n(3) The Agency may revoke an approval mentioned in subsection (1) granted to an occupier, after giving the occupier prior written notice within any period that may be prescribed, of the Agency’s intention to do so.\n(4) Where the Agency grants or revokes any written approval under subsection (1) or (3), the Agency must notify the building manager of the prescribed building concerned of the grant or revocation.\n(5) An occupier who, without reasonable excuse, contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction —\n(a)to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both; and\n(b)in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n[Act 14 of 2023 wef 08/03/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A27.001",
+   "no": 27.001,
+   "noLabel": {
+    "en": "27A."
+   },
+   "chapter": {
+    "en": "PART 5 FOOD WASTE"
+   },
+   "heading": {
+    "en": "Provision of segregated waste disposal facilities"
+   },
+   "text": {
+    "en": "27A.—(1) The building manager of a prescribed building must provide, in the prescribed building or within the premises on which the prescribed building is situated, one or more facilities to enable occupiers of the prescribed building or any part of the prescribed building to segregate and dispose of food waste separately from any other type of waste.\n(2) A building manager who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —\n(a)to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both; and\n(b)in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n(3) In a prosecution for an offence under subsection (2), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(4) The offence under subsection (2) is a strict liability offence.\n[Act 14 of 2023 wef 08/03/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A27.002",
+   "no": 27.002,
+   "noLabel": {
+    "en": "27B."
+   },
+   "chapter": {
+    "en": "PART 5 FOOD WASTE"
+   },
+   "heading": {
+    "en": "Treatment of food waste"
+   },
+   "text": {
+    "en": "27B.—(1) The building manager of a prescribed building must, in relation to any food waste disposed of at a facility mentioned in section 27A(1) —\n(a)where the prescribed building is erected pursuant to a relevant written permission — treat the food waste, or cause the food waste to be treated, in the prescribed building or within the premises on which the prescribed building is situated, unless the building manager obtains prior written permission from the Agency for the food waste to be treated at a licensed waste disposal facility or public disposal facility; and\n(b)where the prescribed building is not erected pursuant to a relevant written permission — treat the food waste, or cause the food waste to be treated, in the prescribed building or within the premises on which the prescribed building is situated, or at a licensed waste disposal facility or public disposal facility.\n(2) In determining whether a building manager should be granted permission under subsection (1)(a) to treat food waste at a licensed waste disposal facility or public disposal facility, the Agency is to have regard, and give such weight as the Agency considers appropriate, to such matters as may be prescribed for this subsection.\n(3) A building manager who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.\n(4) In a prosecution for an offence under subsection (3), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(5) The offence under subsection (3) is a strict liability offence.\n[Act 14 of 2023 wef 08/03/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A27.003",
+   "no": 27.003,
+   "noLabel": {
+    "en": "27C."
+   },
+   "chapter": {
+    "en": "PART 5 FOOD WASTE"
+   },
+   "heading": {
+    "en": "Reporting of food waste treated"
+   },
+   "text": {
+    "en": "27C.—(1) A person must submit to the Agency, in relation to each year or part of a year for which the person is or was a building manager of a prescribed building (each such year or part of a year called in this section a reportable period of the building manager), a report containing the following information:\n(a)the amount of food waste treated pursuant to sections 27(1)(a) or (b) and 27B(1)(a) or (b) in that reportable period of the building manager;\n(b)of the amount of the food waste so treated in that period —\n(i)the amount that is treated in the prescribed building or within the premises on which the prescribed building is situated; and\n(ii)the amount that is treated at a licensed waste disposal facility or public disposal facility;\n(c)any other prescribed information relating to the food waste so treated in that period.\n(2) A person given an approval under section 27(1) by the Agency must, in respect of the time during which the person is an occupier of the prescribed building or any part of the prescribed building, submit to the building manager a report containing the following information in relation to the food waste treated or caused to be treated by the person as such occupier under the approval:\n(a)the amount of food waste so treated;\n(b)of the amount of the food waste so treated in that period —\n(i)the amount that is treated in the prescribed building or within the premises on which the prescribed building is situated; and\n(ii)the amount that is treated at a licensed waste disposal facility or public disposal facility;\n(c)any other prescribed information relating to the food waste so treated in that period.\n(3) A person who, without reasonable excuse, contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction —\n(a)to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both; and\n(b)in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n[Act 14 of 2023 wef 08/03/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A27.004",
+   "no": 27.004,
+   "noLabel": {
+    "en": "27D."
+   },
+   "chapter": {
+    "en": "PART 5 FOOD WASTE"
+   },
+   "heading": {
+    "en": "Requirements for reports"
+   },
+   "text": {
+    "en": "27D.—(1) A requirement to submit a report under this Part to the Agency or a building manager is a requirement to do so in accordance with any requirements prescribed under section 52 for the report, including its preparation and submission.\n(2) The Agency may, in respect of any incomplete or inaccurate report submitted by a person, in writing direct the person to do the following within the time period specified in the direction (or any longer time that the Agency may allow in any particular case):\n(a)rectify or re-compute any matter in the report as the Agency may require;\n(b)resubmit the report to the Agency,\nand the person must comply with the direction.\n(3) A person who fails to comply with a direction under subsection (2) shall be guilty of an offence and shall be liable —\n(a)on the first conviction to a fine not exceeding $5,000; and\n(b)on a second or subsequent conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after that second or subsequent conviction.\n(4) In a prosecution for an offence under subsection (3), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(5) The offence under subsection (3) is a strict liability offence.\n[Act 14 of 2023 wef 08/03/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A27.005",
+   "no": 27.005,
+   "noLabel": {
+    "en": "27E."
+   },
+   "chapter": {
+    "en": "PART 5 FOOD WASTE"
+   },
+   "heading": {
+    "en": "Keeping of records"
+   },
+   "text": {
+    "en": "27E.—(1) A person who is required under this Part to submit any report to the Agency or a building manager, must keep and maintain complete and accurate records containing such information and documents, and in accordance with such other requirements, as may be prescribed under section 52, relating to —\n(a)that report, including the preparation and submission of the report; and\n(b)monitoring and evaluation undertaken by the person to ensure compliance with this Act.\n(2) The person mentioned in subsection (1) must —\n(a)retain the records mentioned in subsection (1) for at least the prescribed period;\n(b)during the prescribed period mentioned in paragraph (a), make those records available for inspection by any authorised officer, when so requested by the authorised officer; and\n(c)submit to the Agency those records in the time specified by the Agency.\n(3) A person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable —\n(a)on the first conviction to a fine not exceeding $5,000; and\n(b)on a second or subsequent conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after that second or subsequent conviction.\n(4) In a prosecution for an offence under subsection (3), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(5) The offence under subsection (3) is a strict liability offence.\n[Act 14 of 2023 wef 08/03/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 6 PRODUCER RESPONSIBILITY SCHEMES"
+   },
+   "heading": {
+    "en": "Licence required to operate producer responsibility scheme"
+   },
+   "text": {
+    "en": "28.—(1) A person must not operate, or advertise or otherwise hold out that the person is operating, a producer responsibility scheme unless the person is authorised to do so by a licence under this Part.\n(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.\n(3) In a prosecution for an offence under subsection (2), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(4) The offence under subsection (2) is a strict liability offence."
+   }
+  },
+  {
+   "id": "SG-H3619-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 6 PRODUCER RESPONSIBILITY SCHEMES"
+   },
+   "heading": {
+    "en": "Producer responsibility scheme licence"
+   },
+   "text": {
+    "en": "29.—(1) An application for a licence to operate a producer responsibility scheme must be made to the Agency in the form and manner the Agency requires.\n(2) After considering an application for the grant of a licence, the Agency may —\n(a)grant the licence for such duration as the Agency may specify in the licence; or\n(b)refuse the application.\n(3) The Minister may from time to time, by notification in the Gazette, prescribe a limit on the number of licences to be granted by the Agency under subsection (2) for a type of specified waste.\n(4) A person who is to be granted a licence may be selected by the Agency from among those who submit tenders in response to an invitation to tender for the right to operate a producer responsibility scheme under that licence.\n(5) Any invitation to tender under this section must specify that an applicant who tenders for a licence must state the amount (by reference to quantity or method or otherwise) that the applicant will charge members of the producer responsibility scheme if the applicant is granted a licence."
+   }
+  },
+  {
+   "id": "SG-H3619-A29.001",
+   "no": 29.001,
+   "noLabel": {
+    "en": "29A."
+   },
+   "chapter": {
+    "en": "PART 6 PRODUCER RESPONSIBILITY SCHEMES"
+   },
+   "heading": {
+    "en": "Requirements relating to key appointment holders"
+   },
+   "text": {
+    "en": "29A.—(1) The Minister may, by regulations made under section 52 —\n(a)subject to subsection (2), prescribe requirements relating to persons appointed as a licensee’s key appointment holders; and\n(b)require a licensee to obtain the Agency’s approval for the appointment of a key appointment holder in relation to whom any requirement mentioned in paragraph (a) is imposed.\n(2) The requirements mentioned in subsection (1)(a) must not be imposed in relation to more than one-third of the number of persons (rounded up to the next whole number) appointed as the licensee’s key appointment holders.\n[Act 14 of 2023 wef 12/07/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 6 PRODUCER RESPONSIBILITY SCHEMES"
+   },
+   "heading": {
+    "en": "Licence conditions"
+   },
+   "text": {
+    "en": "30.—(1) A licence is subject to such conditions as the Agency may specify.\n(2) The conditions may include the following:\n(a)requirements relating to the fees payable by members of the producer responsibility scheme;\n(b)requirements relating to the waste collection operations of the licensee, to ensure comprehensive and regular collection, removal and transport of waste;\n(c)minimum specified waste collection amounts;\n(d)requirements to conduct programmes or events to educate the public on waste management and resource sustainability.\n(3) The Agency may, at any time, modify the conditions of a licence in accordance with this section.\n(4) Before modifying any conditions of a licence, the Agency must give notice to the licensee concerned —\n(a)stating that the Agency proposes to make the modification in the manner as specified in the notice; and\n(b)specifying the time within which the licensee may make written representations to the Agency with respect to the proposed modification.\n(5) The time specified by the Agency in the notice given under subsection (4) must not be less than 14 days after the date of the notice.\n(6) A licensee who is aggrieved by the Agency’s decision to modify a licence condition may, within 14 days after receiving notice of the Agency’s decision, appeal to the Minister.\n(7) In this section, “modification” and “modify”, in relation to the conditions of a licence, include deleting or varying and substituting a condition, and adding a condition."
+   }
+  },
+  {
+   "id": "SG-H3619-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 6 PRODUCER RESPONSIBILITY SCHEMES"
+   },
+   "heading": {
+    "en": "Revocation of licence"
+   },
+   "text": {
+    "en": "31.—(1) The Agency may, at any time, revoke a licence if the licensee —\n(a)provides or causes to be provided to the Agency any information (including information in connection with the application for a licence) that is false or misleading in any material particular;\n(b)contravenes any provision of this Part;\n(c)contravenes any condition of the licence; or\n(d)ceases to be, in the opinion of the Agency, a fit and proper person to hold a licence.\n(2) The Agency must, before revoking a licence under subsection (1), give the licensee a written notice of its intention to do so and an opportunity to submit reasons, within such period as the Agency may specify in that notice, as to why the licence should not be revoked.\n(3) A licensee who is aggrieved by the Agency’s decision to revoke the licence may, within 14 days after receiving notice of the Agency’s decision, appeal to the Minister.\n(4) Any decision of the Agency to revoke a licence does not take effect until —\n(a)the expiry of the period allowed under subsection (3) for the licensee to appeal to the Minister against the decision; or\n(b)the determination or rejection of the appeal by the Minister or his or her designate under section 45,\nwhichever is the later.\n(5) The Agency may cancel a licence at the request of the licensee."
+   }
+  },
+  {
+   "id": "SG-H3619-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 6 PRODUCER RESPONSIBILITY SCHEMES"
+   },
+   "heading": {
+    "en": "Financial penalty"
+   },
+   "text": {
+    "en": "32.—(1) This section applies where a licensee —\n(a)contravenes a provision of this Part, which contravention is not an offence under this Act; or\n(b)fails to comply with any condition imposed by the Agency on the licence.\n(2) On the occurrence of a contravention or failure to comply mentioned in subsection (1) (except one mentioned in subsection (2A)), the Agency may, in addition to or instead of taking any action under section 31(1), order the licensee to pay a financial penalty of an amount not exceeding $10,000 for each contravention or failure to comply, but not exceeding in the aggregate $50,000, by the date specified in the order.\n[Act 14 of 2023 wef 12/07/2024]\n(2A) Where a licensee of a licensed scheme for beverage containers mentioned in section 23O fails to comply with a licence condition relating to minimum specified waste collection amounts, the Agency may, in addition to or instead of taking any action under section 31(1), order the licensee to pay a financial penalty of an amount not exceeding $500,000, by the date specified in the order.\n[Act 14 of 2023 wef 12/07/2024]\n(3) The Agency must, before making an order under subsection (2) or (2A), give the licensee a written notice of its intention to do so and an opportunity to submit reasons, within such period as the Agency may specify in that notice, as to why the order should not be made.\n[Act 14 of 2023 wef 12/07/2024]\n(4) A licensee who is aggrieved by the Agency’s decision to make an order under subsection (2) or (2A) may, within 14 days after receiving notice of the Agency’s decision, appeal to the Minister.\n[Act 14 of 2023 wef 12/07/2024]\n(5) Where an appeal is made to the Minister within the period mentioned in subsection (4), the order mentioned in subsection (2) or (2A) does not take effect unless —\n(a)the appeal is for any reason dismissed by the Minister; or\n(b)the appellant withdraws the appeal.\n[Act 14 of 2023 wef 12/07/2024]\n(6) The Agency must, in determining the amount of a financial penalty imposed under subsection (2) or (2A), have regard, and give such weight as the Agency considers appropriate, to all of the following matters:\n(a)the nature, gravity and duration of the non-compliance by the licensee;\n(b)whether the licensee, as a result of the non-compliance, gained any financial benefit or avoided any financial loss;\n(c)whether the licensee took any action to mitigate the effects and consequences of the non-compliance, and the timeliness and effectiveness of that action;\n(d)whether the licensee had, despite the non-compliance, implemented adequate and appropriate measures for compliance with the requirements under this Part;\n(e)whether the licensee had previously failed to comply with the provisions of this Part or any condition of the licence;\n(f)whether the financial penalty to be imposed is proportionate and effective, having regard to achieving compliance and deterring non-compliance with the provisions of this Part or any condition of the licence;\n(g)the likely impact of the imposition of the financial penalty on the licensee, including the ability of the licensee to continue with its usual activities;\n(h)any other matter that may be relevant.\n[Act 14 of 2023 wef 12/07/2024]\n(7) In this section, a reference to “this Part” includes a reference to any regulations made under section 52 that apply to a person issued a licence to operate a producer responsibility scheme granted under section 29(2).\n[Act 14 of 2023 wef 12/07/2024]"
+   }
+  },
+  {
+   "id": "SG-H3619-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 6 PRODUCER RESPONSIBILITY SCHEMES"
+   },
+   "heading": {
+    "en": "Recovery of financial penalties"
+   },
+   "text": {
+    "en": "33.—(1) Any person who fails to pay a financial penalty by the date the person is required to do so under this Act is liable to pay, after that date, interest on the amount unpaid at the same rate as for a judgment debt.\n(2) Any financial penalty and any interest on the financial penalty payable by any person under this Act must be paid to the Agency and is recoverable by the Agency as a debt due to the Agency from that person; and the person’s liability to pay is not affected by the person’s licence ceasing, for any reason, to be in force.\n(3) The Agency may, in any case it thinks fit, waive, remit or refund, wholly or in part, any financial penalty or any interest on the financial penalty payable under this Act.\n(4) All financial penalties and interest on the financial penalties collected by the Agency under this Act must be paid into the Consolidated Fund."
+   }
+  },
+  {
+   "id": "SG-H3619-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 6 PRODUCER RESPONSIBILITY SCHEMES"
+   },
+   "heading": {
+    "en": "Keeping of records"
+   },
+   "text": {
+    "en": "34.—(1) A licensee must keep and maintain complete and accurate records of the following, in accordance with such requirements as may be prescribed under section 52:\n(a)details of the licensee’s collection activities;\n(b)the quantity of specified waste the licensee has sent for treatment or recycling;\n(c)the fees charged to members of the producer responsibility scheme that the licensee operates.\n(2) A licensee must —\n(a)retain the records mentioned in subsection (1) for the prescribed period or longer;\n(b)during the prescribed period mentioned in paragraph (a), make available for inspection by any authorised officer, the records mentioned in that subsection when so requested by any authorised officer; and\n(c)submit to the Agency the records mentioned in subsection (1), and such other record, document or information relevant to monitoring or evaluating compliance with this Act as the Agency may require, in the time or at such frequency, specified by the Agency.\n(3) A licensee who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction —\n(a)to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both; and\n(b)in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n(4) In a prosecution for an offence under subsection (3), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(5) The offence under subsection (3) is a strict liability offence."
+   }
+  },
+  {
+   "id": "SG-H3619-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 6 PRODUCER RESPONSIBILITY SCHEMES"
+   },
+   "heading": {
+    "en": "Submission of annual report"
+   },
+   "text": {
+    "en": "35. A licensee must submit an audited annual report on such matters as may be prescribed relating to the operation of the producer responsibility scheme in respect of which the licensee is licensed."
+   }
+  },
+  {
+   "id": "SG-H3619-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 6 PRODUCER RESPONSIBILITY SCHEMES"
+   },
+   "heading": {
+    "en": "Disclosure of information"
+   },
+   "text": {
+    "en": "36.—(1) A licensee or former licensee —\n(a)must not disclose any information received from the Agency under section 43(4)(c); and\n(b)must make reasonable security arrangements to prevent unauthorised access, collection, use, disclosure, copying, modification or disposal, of any information received from the Agency under section 43(4)(c).\n(2) A person who contravenes subsection (1)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.\n(3) In a prosecution for an offence under subsection (2), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.\n(4) The offence under subsection (2) is a strict liability offence."
+   }
+  },
+  {
+   "id": "SG-H3619-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Entering non-residential premises, etc., to monitor compliance"
+   },
+   "text": {
+    "en": "37. For the purposes of administering or enforcing this Act or determining whether this Act has been complied with, an authorised officer may, upon declaring his or her office and producing to an occupier of any premises (other than any residential premises) such identification card as the Agency may direct to be carried by authorised officers, do all or any of the following:\n(a)enter the premises —\n(i)during normal business hours without notice; or\n(ii)at any other time after giving not less than 6 hours’ previous notice to the occupier of the premises (unless the occupier has consented to a shorter period of notice);\n(b)exercise any of the powers set out in sections 38, 39 and 40."
+   }
+  },
+  {
+   "id": "SG-H3619-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Powers of authorised officers in monitoring compliance"
+   },
+   "text": {
+    "en": "38.—(1) An authorised officer may exercise all or any of the following powers in relation to premises under section 37:\n(a)search the premises for any thing that may relate to compliance with this Act;\n(b)examine any activity conducted on the premises that may relate to information provided for the purposes of this Act;\n(c)examine any thing on the premises that may relate to information provided for the purposes of this Act;\n(d)take photographs or make video or audio recordings or sketches on the premises of any such activity or thing;\n(e)affix or bring onto the premises, with such assistants and workmen as may be necessary, any meter or instrument and take readings from the meter or instrument, or take readings from any meter or instrument on the premises;\n(f)inspect any document on the premises that may relate to information provided for the purposes of this Act;\n(g)take extracts from, or make copies of, any such document;\n(h)take onto the premises such equipment and materials as the authorised officer requires for the purpose of exercising powers in relation to the premises;\n(i)seize any thing found during the exercise of monitoring powers on the premises which the authorised officer believes on reasonable grounds affords evidence of a contravention of this Act.\n(2) An authorised officer may, in addition to the powers in subsection (1) —\n(a)compel any person who is able to operate any equipment at the premises to do so for the purpose of enabling the authorised officer to ascertain whether the equipment, or a disk, tape or other storage device that can be used or associated with the equipment, contains information that is relevant to assessing compliance with this Act; and\n(b)if such information is found in exercise of the power in paragraph (a) —\n(i)produce, or compel the production of, the information in documentary form, and keep or copy the documents so produced; or\n(ii)transfer, or compel the transfer of, the information to a disk, tape or other storage device, and remove it from the premises."
+   }
+  },
+  {
+   "id": "SG-H3619-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Authorised officer may require persons to provide information and produce documents"
+   },
+   "text": {
+    "en": "39.—(1) For the purposes of administering or enforcing this Act or determining whether this Act has been complied with, an authorised officer may (in connection with section 38 or otherwise) —\n(a)require any person to provide the authorised officer any information within the knowledge of that person; and\n(b)require any person to produce to the authorised officer any document in the person’s custody or under the person’s control in connection with the matter.\n(2) The authorised officer may —\n(a)specify a time and place at which a person must provide the information or produce the document under subsection (1); and\n(b)without payment —\n(i)inspect, keep, copy or take extracts from a document produced or made available to the authorised officer under this section; and\n(ii)in relation to a document kept in electronic form, inspect, copy or take extracts from the document in legible form.\n(3) Where a document is kept in electronic form, the power of the authorised officer to require the document to be produced includes the power to require the document to be made available to the authorised officer in legible form.\n(4) A person who, without reasonable excuse, refuses or fails to comply with a requirement under subsection (1) shall be guilty of an offence and shall be liable —\n(a)on the first conviction to a fine not exceeding $5,000; and\n(b)on a second or subsequent conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H3619-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Power to demand names and addresses"
+   },
+   "text": {
+    "en": "40.—(1) An authorised officer may require any person found on the premises under section 37 to —\n(a)give the person’s name and address and such other proof of identity; and\n(b)provide such other particulars,\nas the authorised officer may require for the purposes of this Act.\n(2) A person commits an offence if the person, upon being required by the authorised officer to give his or her name and address or other proof of identity or to provide any particulars under subsection (1) —\n(a)refuses to do so;\n(b)wilfully misstates his or her name and address or proof of identity; or\n(c)provides false particulars.\n(3) A person who is guilty of an offence under subsection (2) shall be liable on conviction to a fine not exceeding $5,000."
+   }
+  },
+  {
+   "id": "SG-H3619-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 7 ENFORCEMENT"
+   },
+   "heading": {
+    "en": "Penalty for obstructing authorised officer in his or her duty"
+   },
+   "text": {
+    "en": "41. A person who at any time hinders or obstructs an authorised officer in the performance or execution of his or her duty or of any thing which the authorised officer is empowered or required to do under this Act shall be guilty of an offence and shall be liable on conviction —\n(a)to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both; and\n(b)in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 months or to both."
+   }
+  },
+  {
+   "id": "SG-H3619-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Giving false information"
+   },
+   "text": {
+    "en": "42.—(1) A person commits an offence if the person makes a statement or gives any information or document required to be made or given under this Act that the person knows or ought reasonably to know to be —\n(a)false in a material particular; or\n(b)misleading by reason of the omission of a material particular.\n(2) A person who is guilty of an offence under subsection (1) shall be liable —\n(a)on the first conviction to a fine not exceeding $5,000; and\n(b)on a second or subsequent conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H3619-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Restriction on disclosure of confidential information"
+   },
+   "text": {
+    "en": "43.—(1) This section applies if —\n(a)any information or document is given by a person to the Agency under this Act; and\n(b)at the time the information or document is given, the person giving it notifies the Agency in writing that it is of a confidential or commercially sensitive nature.\n(2) The Agency must not disclose to any person the information or the contents of a document to which this section applies unless —\n(a)the Agency is of the opinion that —\n(i)the disclosure of the information or the contents of the document would not cause detriment to the person supplying it or to any other person who is aware of the information or the contents of the document; or\n(ii)although the disclosure of the information or the contents of the document would cause detriment to the person supplying it or to any other person who is aware of the information or the contents of the document, the public benefit in disclosing outweighs that detriment;\n(b)the Agency gives written notice to —\n(i)the person who supplied the information or document; and\n(ii)any other person whom the Agency is aware has supplied the information or document to the person mentioned in sub‑paragraph (i), where the identity of such other person is known to the Agency,\nstating that the Agency wishes to disclose the information or contents of the document, specifying the nature of the intended disclosure and detailed reasons why the Agency wishes to make the disclosure and setting out a copy of this section; and\n(c)no appeal is made to the Minister under subsection (3) within 14 days after the date of the giving of the notice.\n(3) A person who is aggrieved by a notice under subsection (2)(b) may appeal to the Minister within 14 days after the date of the giving of the notice.\n(4) Subsection (2) does not prevent the Agency from disclosing any information or the contents of any document —\n(a)to any member, officer or employee of the Agency or any agent, consultant, committee or panel acting for or under the direction of the Agency;\n(b)to the Minister or any agent, consultant, committee or panel acting for or under the direction of the Minister;\n(c)to the operator of a licensed scheme for the determination of the fees payable by members of the licensed scheme;\n(d)when required to do so by any court or under this Act or any other written law; or\n(e)for the purposes of any criminal proceedings.\n(5) For the purposes of this section, the disclosure of any information or the contents of a document already in the public domain at the time the Agency wishes to disclose it cannot cause detriment to any person mentioned in subsection (2)(a)."
+   }
+  },
+  {
+   "id": "SG-H3619-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Appeal to Minister"
+   },
+   "text": {
+    "en": "44.—(1) Every appeal to the Minister under this Act must be made in such form and manner as the Minister may require.\n(2) Despite any appeal made under this Act, the decision appealed against takes effect and must be complied with unless otherwise provided in this Act or ordered by the Minister.\n(3) The Minister may, after considering the appeal, dismiss or allow the appeal, unconditionally or subject to such conditions as the Minister thinks fit.\n(4) The Minister may, in considering an appeal under this section, give the appellant an opportunity to make representations in writing.\n(5) The Minister’s decision on any appeal is final."
+   }
+  },
+  {
+   "id": "SG-H3619-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Minister may designate others to hear appeals"
+   },
+   "text": {
+    "en": "45.—(1) The Minister may designate any of the following persons to hear and determine, in the Minister’s place, any appeal under this Act:\n(a)the Second Minister (if any) for his or her Ministry;\n(b)a Minister of State (which includes a Senior Minister of State) for his or her Ministry;\n(c)a Parliamentary Secretary (which includes a Senior Parliamentary Secretary) assisting the Minister under this Part.\n(2) A reference to the Minister in section 44 includes a reference to a person designated under subsection (1)."
+   }
+  },
+  {
+   "id": "SG-H3619-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Offences by corporations"
+   },
+   "text": {
+    "en": "46.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that —\n(a)an officer, employee or agent of the corporation engaged in that conduct within the scope of his or her actual or apparent authority; and\n(b)the officer, employee or agent had that state of mind,\nis evidence that the corporation had that state of mind.\n(2) Where a corporation commits an offence under this Act, a person —\n(a)who is —\n(i)an officer of the corporation; or\n(ii)an individual involved in the management of the corporation and in a position to influence the conduct of the corporation in relation to the commission of the offence; and\n(b)who —\n(i)consented or connived, or conspired with others, to effect the commission of the offence;\n(ii)is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the corporation; or\n(iii)knew or ought reasonably to have known that the offence by the corporation (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,\nshall be guilty of that same offence as is the corporation, and shall be liable on conviction to be punished accordingly.\n(3) A person mentioned in subsection (2) may rely on a defence that would be available to the corporation if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the corporation would bear.\n(4) To avoid doubt, this section does not affect the application of —\n(a)Chapters 5 and 5A of the Penal Code 1871; or\n(b)the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence.\n(5) To avoid doubt, subsection (2) also does not affect the liability of the corporation for an offence under this Act, and applies whether or not the corporation is convicted of the offence.\n(6) In this section —\n“corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act 2005;\n“officer”, in relation to a corporation, means any director, partner, chief executive, manager, secretary or other similar officer of the corporation, and includes —\n(a)any person purporting to act in any such capacity; and\n(b)for a corporation whose affairs are managed by its members, any of those members as if the member were a director of the corporation;\n“state of mind” of a person includes —\n(a)the knowledge, intention, opinion, belief or purpose of the person; and\n(b)the person’s reasons for the intention, opinion, belief or purpose."
+   }
+  },
+  {
+   "id": "SG-H3619-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Offences by unincorporated associations or partnerships"
+   },
+   "text": {
+    "en": "47.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that —\n(a)an employee or agent of the unincorporated association or partnership engaged in that conduct within the scope of his or her actual or apparent authority; and\n(b)the employee or agent had that state of mind,\nis evidence that the unincorporated association or partnership had that state of mind.\n(2) Where an unincorporated association or a partnership commits an offence under this Act, a person —\n(a)who is —\n(i)an officer of the unincorporated association or a member of its governing body;\n(ii)a partner in the partnership; or\n(iii)an individual involved in the management of the unincorporated association or partnership and in a position to influence the conduct of the unincorporated association or partnership (as the case may be) in relation to the commission of the offence; and\n(b)who —\n(i)consented or connived, or conspired with others, to effect the commission of the offence;\n(ii)is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the unincorporated association or partnership; or\n(iii)knew or ought reasonably to have known that the offence by the unincorporated association or partnership (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,\nshall be guilty of the same offence as is the unincorporated association or partnership (as the case may be), and shall be liable on conviction to be punished accordingly.\n(3) A person mentioned in subsection (2) may rely on a defence that would be available to the unincorporated association or partnership if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the unincorporated association or partnership would bear.\n(4) To avoid doubt, this section does not affect the application of —\n(a)Chapters 5 and 5A of the Penal Code 1871; or\n(b)the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence.\n(5) To avoid doubt, subsection (2) also does not affect the liability of an unincorporated association or a partnership for an offence under this Act, and applies whether or not the unincorporated association or partnership is convicted of the offence.\n(6) In this section —\n“officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes —\n(a)any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; and\n(b)any person purporting to act in any such capacity;\n“partner” includes a person purporting to act as a partner;\n“state of mind” of a person includes —\n(a)the knowledge, intention, opinion, belief or purpose of the person; and\n(b)the person’s reasons for the intention, opinion, belief or purpose."
+   }
+  },
+  {
+   "id": "SG-H3619-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Service of documents, etc."
+   },
+   "text": {
+    "en": "48.—(1) A document that is permitted or required by this Act to be served on a person may be served as described in this section.\n(2) A document permitted or required by this Act to be served on an individual may be served —\n(a)by giving it to the individual personally;\n(b)by sending it by prepaid registered post to the address specified by the individual for the service of documents or, if no address is so specified, the individual’s residential address or business address;\n(c)by leaving it at the individual’s residential address with an adult apparently resident there, or at the individual’s business address with an adult apparently employed there;\n(d)by affixing a copy of the document in a conspicuous place at the individual’s residential address or business address;\n(e)by sending it by fax to the fax number last known to the person giving or serving the document as the fax number for the service of documents on the individual; or\n(f)by sending it by email to the individual’s last email address.\n(3) A document permitted or required by this Act to be served on a partnership (other than a limited liability partnership) may be served —\n(a)by giving it to any partner or other similar officer of the partnership;\n(b)by leaving it at, or by sending it by prepaid registered post to, the partnership’s business address;\n(c)by sending it by fax to the fax number used at the partnership’s business address; or\n(d)by sending it by email to the partnership’s last email address.\n(4) A document permitted or required by this Act to be served on a body corporate (including a limited liability partnership) may be served —\n(a)by giving it to the body corporate’s secretary or other similar officer, or the limited liability partnership’s manager;\n(b)by leaving it at, or by sending it by prepaid registered post to, the body corporate’s registered office or principal office in Singapore;\n(c)by sending it by fax to the fax number used at the body corporate’s registered office or principal office in Singapore; or\n(d)by sending it by email to the body corporate’s last email address.\n(5) Service of a document under subsection (1) takes effect —\n(a)if the document is sent by fax and a notification of successful transmission is received, on the day of transmission;\n(b)if the document is sent by email, at the time that the email becomes capable of being retrieved by the person to whom it is sent; and\n(c)if the document is sent by prepaid registered post, 2 days after the day the document was posted (even if it is returned undelivered).\n(6) However, service of any document under this Act on a person by email may be effected only with the person’s prior consent to service in that way.\n(7) This section does not apply to documents to be served in proceedings in court.\n(8) In this section —\n“business address” means —\n(a)in the case of an individual, the individual’s usual or last known place of business in Singapore; or\n(b)in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore;\n“document” includes a notice or an order permitted or required by this Act to be served;\n“last email address” means —\n(a)the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act; or\n(b)the last email address of the addressee concerned known to the person giving or serving the document;\n“residential address” means an individual’s usual or last known place of residence in Singapore."
+   }
+  },
+  {
+   "id": "SG-H3619-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "49.—(1) An authorised officer may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:\n(a)one half of the amount of the maximum fine that is prescribed for the offence;\n(b)$5,000.\n(2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence.\n(3) All sums collected under this section must be paid into the Consolidated Fund."
+   }
+  },
+  {
+   "id": "SG-H3619-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "50. The Minister may, by order in the Gazette, exempt any person or any class of persons from all or any of the provisions of this Act, subject to the conditions as may be specified in the order."
+   }
+  },
+  {
+   "id": "SG-H3619-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Amendment of Schedule"
+   },
+   "text": {
+    "en": "51.—(1) The Minister may, by order in the Gazette, amend the Schedule.\n(2) The Minister may, in an order under subsection (1), make such provisions of a saving or transitional nature consequent on the enactment of the order as the Minister may consider necessary or expedient.\n(3) All orders made under subsection (1) must be presented to Parliament as soon as possible after publication in the Gazette."
+   }
+  },
+  {
+   "id": "SG-H3619-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART 8 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "52.—(1) The Minister may make regulations prescribing matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.\n(2) Without limiting subsection (1), the Minister may make regulations for or with respect to all or any of the following:\n(a)the fees to be paid in respect of any matter or thing required for the purposes of this Act, and the refund or remission of the whole or any part of any such fees;\n(aa)the duties of a person registered as a registered retailer under section 23C;\n[Act 14 of 2023 wef 26/05/2023]\n(b)the manner of determining the quantity of waste collected by the operator of a licensed scheme;\n(c)the duties of an operator of a licensed scheme, including the duty —\n(i)to collect specified waste from a person without fee or at a prescribed fee;\n(ii)to provide collection points for specified waste and the manner and places where such collection points may be placed;\n(iii)to submit collection plans and contingency plans to the Agency; and\n(iv)to dispose of specified waste collected in a prescribed manner or only with prescribed persons;\n(d)the duties of a licensed e-waste recycler, including the duty —\n(i)to meet recycling and material recovery standards; and\n(ii)to ensure secure data destruction when treating e‑waste;\n(e)the receptacles that may be provided by a retailer for the collection of designated regulated consumer products under section 15;\n[Act 14 of 2023 wef 12/07/2024]\n(f)the duties of any person or a person within a class of persons who supplies a beverage product, in relation to the communication of the price or deposit for the beverage product, and any waiver of the giving of the amount of the deposit to the person;\n[Act 14 of 2023 wef 12/07/2024]\n(g)treating prescribed supplies of beverage products as supplies for which a person receives, or does not receive, any consideration in money for the purposes of section 23Q(5);\n[Act 14 of 2023 wef 12/07/2024]\n(h)the circumstances in and purposes for which a scheme licensee may use any amount of deposit provided under section 23R(1) for a purpose other than the refund of a deposit under section 23U;\n[Act 14 of 2023 wef 12/07/2024]\n(i)the duties of a return point operator.\n[Act 14 of 2023 wef 12/07/2024]\n(3) The regulations made under this section may —\n(a)prescribe the offences under this Act that may be compounded; and\n(b)provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 3 months or with both."
+   }
+  },
+  {
+   "id": "SG-H3619-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nSections 2 and 51\nSpecified waste\n1. Any electrical or electronic product prescribed as a regulated product under section 7 that is intended for disposal as waste and not for re‑use.\n2. Any empty beverage container of a beverage product within Part 4B.\n[S 582/2024 wef 12/07/2024]"
+   }
+  }
+ ]
+}

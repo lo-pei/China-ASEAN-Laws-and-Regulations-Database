@@ -1,0 +1,74 @@
+{
+ "id": "PH-H9097",
+ "title": {
+  "zh": null,
+  "en": "Expanded Senior Citizens Act of 2010",
+  "orig": "An Act Providing for the Mandatory Philhealth Coverage for All Senior Citizens, Amending for the Purpose Republic Act No. 7432, as Amended By Republic Act No. 9994, Otherwise Known as the \"Expanded Senior Citizens Act of 2010\""
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p129",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2014-11-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 10645",
+ "officialCode": null,
+ "topics": [
+  "health"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1015,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2014/ra_10645_2014.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2014/ra_10645_2014.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H9097-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section 5, sub-paragraph h(2) of Republic Act No. 7432, as amended, is hereby further amended to read as follows:\n\"SEC. 5. Government Assistance. – The government shall provide the following:\n\"x x x \"(h) Additional Government Assistance \"(1) xxx \"(2) Mandatory PhilHealth Coverage \"All senior citizens shall be covered by the national health insurance program of PhilHealth. Funds necessary to ensure the enrollment of all senior citizens not currently covered by any existing category shall be sourced from the National Health Insurance Fund of PhilHealth from proceeds of Republic Act No. 10351, in accordance with the pertinent laws and regulations.\n\"(3) x x x.\""
+   }
+  },
+  {
+   "id": "PH-H9097-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Repealing Clause. – All laws, decrees, executive orders, rules and regulations, or parts thereof which are inconsistent with this Act are hereby repealed, amended or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H9097-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
+   }
+  }
+ ]
+}

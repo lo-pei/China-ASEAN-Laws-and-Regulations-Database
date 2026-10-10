@@ -1,0 +1,52 @@
+{
+ "id": "KH-H016",
+ "title": {
+  "zh": null,
+  "en": null,
+  "orig": null
+ },
+ "country": "KH",
+ "countryName": "柬埔寨",
+ "layer": "intl",
+ "pack": "kh-p04",
+ "language": "km",
+ "level": null,
+ "category": null,
+ "status": null,
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 551,
+ "source": {
+  "name": "柬埔寨 — ព្រះរាជក្រឹត្យនៃច្បាប់ស្តីពីសារពើពន្ធ (Royal Kram No. 0523/004)",
+  "url": "https://data.opendevelopmentcambodia.net/km/dataset/aff30e87-5039-4b11-b5bf-4f51da6243b5/resource/a78f4724-011c-4bfc-8fb9-7b684d2f6973/download/royal_decree_no_0523004__16.05.2023.pdf.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-08",
+ "completenessNote": "全文，共 1 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。（本件原文语种为 km）",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "KH-H016-A1",
+   "no": 1,
+   "noLabel": {
+    "km": "1"
+   },
+   "text": {
+    "km": "原文标题：ព្រះរាជក្រឹត្យនៃច្បាប់ស្តីពីសារពើពន្ធ (Royal Kram No. 0523/004)\n官方来源URL：https://data.opendevelopmentcambodia.net/km/dataset/aff30e87-5039-4b11-b5bf-4f51da6243b5/resource/a78f4724-011c-4bfc-8fb9-7b684d2f6973/download/royal_decree_no_0523004__16.05.2023.pdf.pdf\n颁布日期 / 生效日期 / 修订日期：2023-04-19(通过); 2023-05-16(颁布) / 2023-04-19 / 取代1997/2003税法\n版本：2023 税法（皇家法令0523/004，高棉语）\n抓取日期：2026-10-03\n原文语种：km\n中文译名：税法\n英文译名：Law on Taxation\n\n----- 以下为官方 PDF 原件之说明（原件未改写、未摘要） -----\n逐字原文见同名 PDF：柬埔寨_税法_2023_km.pdf\n（该 PDF 为扫描/无文本层，无法自动提取逐字文本；请以 PDF 原件为准，高棉语权威文本以皇家公报为准）"
+   }
+  }
+ ]
+}

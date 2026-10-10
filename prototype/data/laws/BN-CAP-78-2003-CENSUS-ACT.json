@@ -1,0 +1,245 @@
+{
+ "id": "BN-CAP-78-2003-CENSUS-ACT",
+ "title": {
+  "zh": null,
+  "en": "Census Act",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p13",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2003",
+ "effectiveDate": null,
+ "versionDate": "2003",
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": "CAP. 78",
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "An Act to provide for the taking of a census from time to time"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 19,
+ "chars": 12871,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "cap-78-2003-ed-census-act.pdf",
+ "fetchedAt": "2026-10-09",
+ "completenessNote": "来源为 AGC 官方 PDF《cap-78-2003-ed-census-act.pdf》（14 页），本次切分 19 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-78-2003-CENSUS-ACT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Census Act."
+   }
+  },
+  {
+   "id": "BN-CAP-78-2003-CENSUS-ACT-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "In this Act, unless the subject or context otherwise requires — “Assistant Superintendent” means an Assistant Superintendent of Census appointed under the provisions of section 4 of this Act; “census officer” means any person appointed under the provisions of section 4 of this Act as Superintendent of Census, Deputy Superintendent of Census, Assistant Superintendent of Census, supervisor, house numberer, or enumerator, acting within the local limits of any area for which he may have been so “schedule” means a schedule in the prescribed form in which are, or are to be, entered the prescribed particulars required for the purpose of a census; “Superintendent” means the Superintendent of Census appointed under subsection (1) of section 4 of this Act and includes a Deputy Superintendent of Census. Power to direct census to be taken."
+   }
+  },
+  {
+   "id": "BN-CAP-78-2003-CENSUS-ACT-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "His Majesty the Sultan and Yang Di-Pertuan in Council* may by public notification from time to time direct that a census be taken throughout Brunei Darussalam or of any specified area in Brunei Darussalam of the population, agriculture (including animal husbandry), trade, labour, industry, commerce, orphanhood, widowhood, blindness or other specified infirmity, disease or affliction, or such other matters as he may deem necessary or * Transferred to The Minister with the approval of His Majesty the Sultan and Yang Di-Pertuan, with effect from [S 16/91] desirable in order to ascertain the social, civil or economic condition, or state of health, of the inhabitants of Brunei Darussalam. Appointment of officers."
+   }
+  },
+  {
+   "id": "BN-CAP-78-2003-CENSUS-ACT-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "(1) His Majesty the Sultan and Yang Di-Pertuan* may, from time to time, by public notification, appoint a Superintendent of Census and such Deputy Superintendents of Census and Assistant Superintendents of Census, in and for Brunei Darussalam or any part thereof, as he may deem necessary for the purposes of this Act.\n\n(2) The Superintendent or Assistant Superintendent may by writing under his hand appoint any person as a supervisor, house numberer or enumerator to supervise or take or aid in the taking of a census within any Census officers to be public servants and to carry proof of appointment."
+   }
+  },
+  {
+   "id": "BN-CAP-78-2003-CENSUS-ACT-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "heading": {
+    "en": "Census officers to be public servants and to carry proof of"
+   },
+   "text": {
+    "en": "(1) Every census officer shall be deemed to be a public servant within the meaning of the Penal Code (Chapter 22).\n\n(2) Every census officer, other than a census officer appointed by public notification, shall carry with him at all times when on census duty the writing under the hand of the Superintendent or Assistant Superintendent appointing him a census officer under subsection (2) of section 4, and shall produce the same for inspection by any person who may in good faith question his authority as a census officer.\n\n(3) Every Assistant Superintendent shall carry with him at all times when on census duty a copy of the public notification appointing him an Assistant Superintendent of Census. Power to make rules."
+   }
+  },
+  {
+   "id": "BN-CAP-78-2003-CENSUS-ACT-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "(1) His Majesty the Sultan and Yang Di-Pertuan* may from time to\n\n(a) to prescribe the duties of census officers; *Transferred to The Minister with the approval of His Majesty the Sultan and Yang Di-Pertuan, with effect from [S 16/91]\n\n(b) to prescribe the particulars regarding which, the persons from whom, and the mode in which, information shall be obtained for the purposes of any census;\n\n(c) to prescribe the forms of schedules to be used in obtaining such particulars;\n\n(d) to prescribe the form of requisition to be addressed to employers of labour under section 12; and\n\n(e) generally to give effect to the provisions of this Act. Occupier to allow access and permit affixing of numbers."
+   }
+  },
+  {
+   "id": "BN-CAP-78-2003-CENSUS-ACT-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "Every person occupying any land, house, enclosure, vessel or other place shall allow any census officer such access thereto for the purposes of the census as, having regard to the customs of the country, may be reasonable, and shall allow him to paint, mark, or affix, on or to the property in the occupation of such person, such letters, marks or numbers as the Superintendent may deem necessary for the purposes of the census. Questions by census officers."
+   }
+  },
+  {
+   "id": "BN-CAP-78-2003-CENSUS-ACT-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "Every census officer may ask all such questions of all persons within the limits of the area for which he is appointed as may be necessary to obtain the information required for the purposes of the census, and every person of whom any such question is asked shall be bound to answer such question truthfully to the best of his knowledge and belief. Delivery and filling in of schedules."
+   }
+  },
+  {
+   "id": "BN-CAP-78-2003-CENSUS-ACT-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "text": {
+    "en": "(1) Any census officer may leave or cause to be left at any dwellinghouse within the area for which he is appointed a schedule in the prescribed form to be filled in by the occupier of such dwelling-house or of any specified part of such dwelling-house.\n\n(2) Such occupier shall, within the time mentioned therein, fill in the said schedule, or cause it to be filled in, in the manner prescribed and shall thereafter deliver the schedule so filled in to the enumerator or supervisor appointed for the area in which such dwelling-house is situate or to such other person as the Assistant Superintendent may direct.\n\n(3) If unable either to fill in the schedule in the prescribed manner or cause some other person so to fill it in, such occupier shall preserve it in the condition in which he received it and shall deliver it to such enumerator, supervisor or other person as aforesaid who shall then exercise the powers conferred upon him by section 8 and shall fill in the schedule in the prescribed manner.\n\n(4) At any time before or within 6 months after the date directed for the taking of the census, if instructed by any Assistant Superintendent so to do, any census officer may visit any dwelling-house within the area for which he is appointed for the purpose of checking any information obtained or of obtaining further information for the purposes of the census, in which event, after exercising the powers conferred upon him by section 8, he\n\n(a) if satisfied that a schedule relating to any dwelling-house contains the name of any person who was not within that dwellinghouse at the time of the taking of the census, delete from such schedule the name of, and all particulars relating to, the said person; and\n\n(b) if satisfied that any person was within any dwelling-house at the time of the taking of the census whose name is not written in a schedule relating to that dwelling-house, enter the name of, and all particulars relating to, the said person in such schedule or in a separate schedule, as the Superintendent may direct; and\n\n(c) if satisfied that any schedule is incorrect in any other material particular make any necessary correction thereto. Collective schedules to be filled in by persons in charge of institutions."
+   }
+  },
+  {
+   "id": "BN-CAP-78-2003-CENSUS-ACT-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "heading": {
+    "en": "Collective schedules to be filled in by persons in charge of"
+   },
+   "text": {
+    "en": "(1) An Assistant Superintendent may deliver or cause to be delivered to —\n\n(a) the person in charge of any mental hospital, hospital, workhouse, prison, police station, reformatory lock-up, or of any charitable, religious, educational or other public or private institutions; or to\n\n(b) the keeper, secretary or manager or other person in charge of any hotel, boarding-house, lodging-house, club or other residential a schedule or schedules in the prescribed form to be filled in, in respect of the persons who at the time of the taking of the census are in or upon such\n\n(2) The person to whom any such schedule is so delivered shall fill in the same or cause the same to be filled in, to the best of his knowledge and belief, with the prescribed particulars regarding all persons in or upon such premises at the time aforesaid, and shall sign his name thereto and, when so required, shall deliver the schedule or schedules so filled in and signed to the enumerator or supervisor appointed for the area in which such premises are situate or to such other person as the Assistant Superintendent may direct. Enumeration of naval, military and air forces and travellers."
+   }
+  },
+  {
+   "id": "BN-CAP-78-2003-CENSUS-ACT-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "text": {
+    "en": "The Superintendent shall obtain, by such lawful means as shall appear to him best adapted for the purpose, the prescribed particulars regarding —\n\n(a) any military or air force or any body of men belonging to a\n\n(b) all persons who at the time when the census is being taken are travelling, or on shipboard, or for any other reason not abiding in any premises of which account is to be taken in the census, and shall include such information in the abstract to be made by him as provided in section 15. Employers of labour may be required to be enumerators."
+   }
+  },
+  {
+   "id": "BN-CAP-78-2003-CENSUS-ACT-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "text": {
+    "en": "(1) Every employer of 10 or more labourers who reside upon any agricultural estate or mining property, or in any factory or workshop, shall, upon receipt of a written requisition in that behalf in the prescribed form signed by an Assistant Superintendent, act as enumerator in respect of all persons employed or residing upon or in such estate, mining property, factory or workshop.\n\n(2) Every such employer shall enter or cause to be entered, in the schedules delivered to him for such purpose, the prescribed particulars regarding all persons so employed or residing as aforesaid and shall deliver such schedules, filled in to the best of his knowledge and belief, to the enumerator or supervisor appointed for the area within such estate, mining property, factory or workshop is situate, or to such other person as the Assistant Superintendent may direct. Government servants to assist."
+   }
+  },
+  {
+   "id": "BN-CAP-78-2003-CENSUS-ACT-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "text": {
+    "en": "All Government servants shall assist in the work of taking the census, if and when so required by the Superintendent or by an Assistant Delivery of schedules and returns."
+   }
+  },
+  {
+   "id": "BN-CAP-78-2003-CENSUS-ACT-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "text": {
+    "en": "Every enumerator shall deliver to the supervisor of the area for which he is appointed all schedules, and all such returns as may be required by the Superintendent, on a day or days to be appointed for that purpose by the Assistant Superintendent for such area, and such supervisor shall forthwith verify them and transmit them, together with any other schedules and returns in his custody, to the Assistant Superintendent who shall forthwith forward the same to the Superintendent, or to such other person as the Superintendent Abstract to be made."
+   }
+  },
+  {
+   "id": "BN-CAP-78-2003-CENSUS-ACT-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "text": {
+    "en": "The Superintendent shall upon receipt of the schedules and returns cause an abstract to be made and such abstract shall be printed and published for general information. Offences by census officers."
+   }
+  },
+  {
+   "id": "BN-CAP-78-2003-CENSUS-ACT-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "text": {
+    "en": "Any census officer and any person employed in the preparation of the abstract required to be made under the last preceding section who —\n\n(a) without sufficient cause, refuse or neglects to comply with any instruction or requisition addressed to him by the Superintendent or an Assistant Superintendent, or fails to use reasonable diligence in performing any duty imposed on him; or\n\n(b) wilfully puts an offensive or improper question; or\n\n(c) knowingly makes any false return; or\n\n(d) asks, receives, or takes from any person other than an authorised officer of the Government any payment or reward; or\n\n(e) save in the public interest and with the permission of the Superintendent discloses any information which has come to his knowledge in the course of his duty as such, shall be guilty of an offence: Penalty, a fine of $2,500 and imprisonment for 6 months."
+   }
+  },
+  {
+   "id": "BN-CAP-78-2003-CENSUS-ACT-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "text": {
+    "en": "(1) Any person who —\n\n(a) refuses to answer truthfully, to the best of his knowledge and belief, any question asked of him by a census officer which he is legally bound so to answer or wilfully makes a false answer thereto; or\n\n(b) makes, signs, delivers or causes to be made, signed, or delivered any wilfully false or incorrect schedule, statement, or\n\n(c) refuses to allow a census officer such reasonable access to any land, house, enclosure, vessel or other place as he is required by this Act to allow; or\n\n(d) removes, obliterates, alters or injures, before the expiry of 6 months from the time of taking the census, any letters, marks or numbers which have been painted, marked or affixed for the purposes\n\n(e) refuses or neglects to comply with any provision of this Act or of any rule made thereunder, shall be guilty of an offence: Penalty, a fine of $2,500 and imprisonment for 6 months.\n\n(2) Any person who impersonates a census officer shall be guilty of an offence: Penalty, a fine of $5,000 and imprisonment for 12 months."
+   }
+  },
+  {
+   "id": "BN-CAP-78-2003-CENSUS-ACT-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "text": {
+    "en": "No prosecution shall be instituted under this Act without the previous sanction in writing of the Attorney General. Census records not admissible in evidence."
+   }
+  },
+  {
+   "id": "BN-CAP-78-2003-CENSUS-ACT-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "heading": {
+    "en": "________________________"
+   },
+   "text": {
+    "en": "No entry in any book, register, or record made by a census officer or by any other person in the discharge of his duty under this Act shall be admissible as evidence in any civil or criminal proceeding, save and except a prosecution instituted under this Act in respect of such entry against the person who made, signed or delivered the same, or caused the same to be made, signed or delivered. $3.00 Attorney General’s Chambers The Law Building, Jalan Tutong Bandar Seri Begawan BA1910 CAP. 78, 2003 Ed. Brunei Darussalam The Government Printing Department Brunei Darussalam"
+   }
+  }
+ ]
+}

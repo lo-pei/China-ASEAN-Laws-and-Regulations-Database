@@ -1,0 +1,90 @@
+{
+ "id": "CN-JI-0074",
+ "title": {
+  "zh": "最高人民法院、最高人民检察院关于涉以压缩气体为动力的枪支、气枪铅弹刑事案件定罪量刑问题的批复",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p06",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2018-03-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "最高人民法院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ITEM",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 332,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院、最高人民检察院关于涉以压缩气体为动力的枪支、气枪铅弹刑事案件定罪量刑问题的批复_20180308.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，一、至二、，共 2 条；来源为项目数据资源中的官方汇编文件（最高人民法院、最高人民检察院关于涉以压缩气体为动力的枪支、气枪铅弹刑事案件定罪量刑问题的批复_20180308.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0074-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "一、"
+   },
+   "text": {
+    "zh": "对于非法制造、买卖、运输、邮寄、储存、持有、私藏、走私以压缩气体为动力且枪口比动能较低的枪支的行为，在决定是否追究刑事责任以及如何裁量刑罚时，不仅应当考虑涉案枪支的数量，而且应当充分考虑涉案枪支的外观、材质、发射物、购买场所和渠道、价格、用途、致伤力大小、是否易于通过改制提升致伤力，以及行为人的主观认知、动机目的、一贯表现、违法所得、是否规避调查等情节，综合评估社会危害性，坚持主客观相统一，确保罪责刑相适应。"
+   }
+  },
+  {
+   "id": "CN-JI-0074-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "二、"
+   },
+   "text": {
+    "zh": "对于非法制造、买卖、运输、邮寄、储存、持有、私藏、走私气枪铅弹的行为，在决定是否追究刑事责任以及如何裁量刑罚时，应当综合考虑气枪铅弹的数量、用途以及行为人的动机目的、一贯表现、违法所得、是否规避调查等情节，综合评估社会危害性，确保罪责刑相适应。\n此复。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院、最高人民检察院关于涉以压缩气体为动力的枪支、气枪铅弹刑事案件定罪量刑问题的批复"
+  },
+  "issuingBody": {
+   "zh": "最高人民法院"
+  },
+  "promulgatedDate": "2018-03-02",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

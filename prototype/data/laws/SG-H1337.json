@@ -1,0 +1,104 @@
+{
+ "id": "SG-H1337",
+ "title": {
+  "zh": null,
+  "en": "Environmental Protection and Management (Ozone Depleting Substances) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p17",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation EPMA1999-RG9",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 6724,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/EPMA1999-RG9?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 5 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1337-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Environmental Protection and Management (Ozone Depleting Substances) Regulations."
+   }
+  },
+  {
+   "id": "SG-H1337-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations, unless the context otherwise requires —\n“Annex A controlled substance” means any ozone depleting substance specified in the Schedule under the heading “Annex A” ;\n“Annex B controlled substance” means any ozone depleting substance specified in the Schedule under the heading “Annex B” ;\n“Annex C controlled substance” means any ozone depleting substance specified in the Schedule under the heading “Annex C” ;\n“Annex E controlled substance” means any ozone depleting substance specified in the Schedule under the heading “Annex E” ;\n“Copenhagen Amendment” means the amendments to the Montreal Protocol adopted by the Fourth Meeting of the Parties to the Montreal Protocol in Copenhagen on 25th November 1992;\n“London Amendment” means the amendments to the Montreal Protocol adopted by the Second Meeting of the Parties to the Montreal Protocol in London on 29th June 1990;\n“Montreal Protocol” means the Montreal Protocol on Substances that Deplete the Ozone Layer adopted at Montreal on 16th September 1987;\n“ozone depleting substance” means any ozone depleting substance specified in the Schedule to these Regulations or in Part I of the Second Schedule to the Act but shall not include —\n(a)such substance when contained in any product specified in the second column of Part I of the Second Schedule to the Act corresponding to ozone depleting substances; or\n(b)such substance when contained in any substance, preparation or product specified in Part II of the Second Schedule to the Act;\n“party to the Montreal Protocol” means a country or State which has ratified, accepted or approved the Montreal Protocol or acceded thereto.\n(2) For the purposes of these Regulations, Annexes A, B, C and E in the Schedule correspond to Annexes A, B, C and E, respectively, to the Montreal Protocol."
+   }
+  },
+  {
+   "id": "SG-H1337-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Prohibition on importation from and exportation to certain countries"
+   },
+   "text": {
+    "en": "3. No person shall import into Singapore from, or export out of Singapore to, any country which —\n(a)at the time of importation or exportation is not a party to the Montreal Protocol, any Annex A controlled substance;\n(b)at the time of importation or exportation has not ratified, accepted or approved the London Amendment, any Annex B controlled substance;\n(c)at the time of importation or exportation has not ratified, accepted or approved the Copenhagen Amendment, any Annex C controlled substance specified under the sub-heading “Group II”; and\n(d)at the time of importation or exportation has not ratified, accepted or approved the Copenhagen Amendment, any Annex E controlled substance."
+   }
+  },
+  {
+   "id": "SG-H1337-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Penalty"
+   },
+   "text": {
+    "en": "4. Any person who contravenes regulation 3 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H1337-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRegulation 2\nAnnex A\nGroup I\nCFCl3\nCFC-11\nTrichlorofluoromethane\nCF2Cl2\nCFC-12\nDichlorodifluoromethane\nC2F3Cl3\nCFC-113\nTrichlorotrifluoroethane\nC2F4Cl2\nCFC-114\nDichlorotetrafluoroethane\nC2F5Cl\nCFC-115\nChloropentafluoroethane\nGroup II\nCF2BrCl\nHalon-1211\nBromochlorodifluoromethane\nCF3Br\nHalon-1301\nBromotrifluoromethane\nC2F4Br2\nHalon-2402\nDibromotetrafluoroethane\nAnnex B\nGroup I\nCF3Cl\nCFC-13\nChlorotrifluoromethane\nC2FCl5\nCFC-111\nPentachlorofluoroethane\nC2F2Cl4\nCFC-112\nTetrachlorodifluoroethane\nC3FCl7\nCFC-211\nHeptachlorofluoropropane\nC3F2Cl6\nCFC-212\nHexachlorodifluoropropane\nC3F3Cl5\nCFC-213\nPentachlorotrifluoropropane\nC3F4Cl4\nCFC-214\nTetrachlorotetrafluoropropane\nC3F5Cl3\nCFC-215\nTrichloropentafluoropropane\nC3F6Cl2\nCFC-216\nDichlorohexafluoropropane\nC3F7Cl\nCFC-217\nChloroheptafluoropropane\nGroup II\nCCl4\nCarbon tetrachloride\nGroup III\nC2H3Cl3\n1,1,1-trichloroethane (methyl chloroform)\nAnnex C\nGroup I\nCHFCl2\nHCFC-21\nDichlorofluoromethane\nCHF2Cl\nHCFC-22\nChlorodifluoromethane\nCH2FCl\nHCFC-31\nChlorofluoromethane\nC2HFCl4\nHCFC-121\nTetrachlorofluoroethane\nC2HF2Cl3\nHCFC-122\nTrichlorodifluoroethane\nC2HF3Cl2\nHCFC-123\nDichlorotrifluoroethane\nC2HF4Cl\nHCFC-124\nChlorotetrafluoroethane\nC2H2FCl3\nHCFC-131\nTrichlorofluoroethane\nC2H2F2Cl2\nHCFC-132\nDichlorodifluoroethane\nC2H2F3Cl\nHCFC-133\nChlorotrifluoroethane\nC2H3FCl2\nHCFC-141\nDichlorofluoroethane\nCH3CFCl2\nHCFC-141b\n1,1-dichloro-1-fluoro-ethane\nC2H3F2Cl\nHCFC-142\nChlorodifluoroethane\nCH3CF2Cl\nHCFC-142b\n1-chloro-1,1-difluoro-ethane\nC2H FCl\nHCFC-151\nChlorofluoroethane\nC3HFCl6\nHCFC-221\nHexachlorofluoropropane\nC3HF2Cl5\nHCFC-222\nPentachlorodifluoropropane\nC3HF3Cl4\nHCFC-223\nTetrachlorotrifluoropropane\nC3HF4Cl3\nHCFC-224\nTrichlorotetrafluoropropane\nC3HF5Cl2\nHCFC-225\nDichloropentafluoropropane\nCF3CF2CHCl2\nHCFC-225ca\n1,1-dichloro-2,2,3,3,3-pentafluoropropane\nCF2ClCF2CHClF\nHCFC-225cb\n1,3-dichloro-1,2,2,3,3-pentafluoropropane\nC3HF6Cl\nHCFC-226\nChlorohexafluoropropane\nC3H2FCl5\nHCFC-231\nPentachlorofluoropropane\nC3H2F2Cl4\nHCFC-232\nTetrachlorodifluoropropane\nC3H2F3Cl3\nHCFC-233\nTrichlorotrifluoropropane\nC3H2F4Cl2\nHCFC-234\nDichlorotetrafluoropropane\nC3H2F5Cl\nHCFC-235\nChloropentafluoropropane\nC3H3FCl4\nHCFC-241\nTetrachlorofluoropropane\nC3H3F2Cl3\nHCFC-242\nTrichlorodifluoropropane\nC3H3F3Cl2\nHCFC-243\nDichlorotrifluoropropane\nC3H3F4Cl\nHCFC-244\nChlorotetrafluoropropane\nC3H4FCl3\nHCFC-251\nTrichlorofluoropropane\nC3H4F2Cl2\nHCFC-252\nDichlorodifluoropropane\nC3H4F3Cl\nHCFC-253\nChlorotrifluoropropane\nC3H5FCl2\nHCFC-261\nDichlorofluoropropane\nC3H5F2Cl\nHCFC-262\nChlorodifluoropropane\nC3H6FCl\nHCFC-271\nChlorofluoropropane\nGroup II\nCHFBr2\nDibromofluoromethane\nCHF2Br\nHBFC-22B1\nBromodifluoromethane\nCH2FBr\nBromofluoromethane\nC2HFBr4\nTetrabromofluoroethane\nC2HF2Br3\nTribromodifluoroethane\nC2HF3Br2\nDibromotrifluoroethane\nC2HF4Br\nBromotetrafluoroethane\nC2H2FBr3\nTribromofluoroethane\nC2H2F2Br2\nDibromodifluoroethane\nC2H2F3Br\nBromotrifluoroethane\nC2H3FBr2\nDibromofluoroethane\nC2H3F2Br\nBromodifluoroethane\nC2H4FBr\nBromofluoroethane\nC3HFBr6\nHexabromofluoropropane\nC3HF2Br5\nPentabromodifluoropropane\nC3HF3Br4\nTetrabromotrifluoropropane\nC3HF4Br3\nTribromotetrafluoropropane\nC3HF5Br2\nDibromopentafluoropropane\nC3HF6Br\nBromohexafluoropropane\nC3H2FBr5\nPentabromofluoropropane\nC3H2F2Br4\nTetrabromodifluoropropane\nC3H2F3Br3\nTribromotrifluoropropane\nC3H2F4Br2\nDibromotetrafluoropropane\nC3H2F5Br\nBromopentafluoropropane\nC3H3FBr4\nTetrabromofluoropropane\nC3H3F2Br3\nTribromodifluoropropane\nC3H3F3Br2\nDibromotrifluoropropane\nC3H3F4Br\nBromotetrafluoropropane\nC3H4FBr3\nTribromofluoropropane\nC3H4F2Br2\nDibromodifluoropropane\nC3H4F3Br\nBromotrifluoropropane\nC3H5FBr2\nDibromofluoropropane\nC3H5F2Br\nBromodifluoropropane\nC3H6FBr\nBromofluoropropane\nGroup III\nCHClBr\nBromochloromethane\nAnnex E\nGroup I\nCH3Br\nMethyl bromide"
+   }
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": "PH-H3045",
+ "title": {
+  "zh": null,
+  "en": "An Act Creating the Municipality of Socorro in the Province of Oriental Mindoro",
+  "orig": "An Act Creating the Municipality of Socorro in the Province of Oriental Mindoro"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p43",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1963-06-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 3609",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1211,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1963/ra_3609_1963.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1963/ra_3609_1963.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3045-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The barrios of Pasi, Leuteboro, Subaan, Catiningan, and sitios of Bajugan, Calubayan, Sintakan, Bayuin Malaki, Putol na Bato, Bayuin Munti, Maragooc, Daan, Pola, Junction, Maluanluan No. 1, Bodega, Merit, Lapog, Batong Dalig, Matungao, and Tiwi in the Municipality of Pola, Province of Oriental Mindoro, are separated from said municipality and constituted into a distinct and independent municipality, to be known as Municipality of Socorro, same province. The new Municipality of Socorro shall be bounded on the North by the Municipality of Victoria; on the East by the municipality of Pola; on the South by the Municipality of Pinamalayaan and on the West by the present boundary of the provinces of Occidental and Oriental Mindoro. The seat of government of the new municipality shall be in the present site of the barrio of Pola Junction."
+   }
+  },
+  {
+   "id": "PH-H3045-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The first mayor, vice-mayor and councilors of the new municipality shall be appointed by the President with the consent of the Commission on Appointments and shall hold office until their successors shall have been elected in the next general elections for local officials and shall have qualified."
+   }
+  },
+  {
+   "id": "PH-H3045-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
+   }
+  }
+ ]
+}

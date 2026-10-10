@@ -1,0 +1,492 @@
+{
+ "id": "SG-H633",
+ "title": {
+  "zh": null,
+  "en": "Civil Defence (Arrests, Searches, Investigation and Trial of Offences) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p08",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CDA1986-RG2",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 35,
+ "chars": 18983,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CDA1986-RG2?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 35 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H633-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Civil Defence (Arrests, Searches, Investigation and Trial of Offences) Regulations."
+   }
+  },
+  {
+   "id": "SG-H633-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Form of warrant of arrest"
+   },
+   "text": {
+    "en": "2.—(1) A warrant of arrest issued under section 58(1) of the Act shall be in Form 1 set out in the Schedule.\n(2) A disciplinary officer may issue a warrant of arrest against any person over whom the disciplinary officer has power of arrest.\n(3) A warrant of arrest may contain —\n(a)the names of more than one person in respect of the same offence;\n(b)several offences.\n(4) Every warrant of arrest shall remain in force until executed or cancelled."
+   }
+  },
+  {
+   "id": "SG-H633-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Delivery of warrant"
+   },
+   "text": {
+    "en": "3. Any person who has arrested a person under a warrant of arrest and delivered the arrested person to the custody of a commanding officer shall deliver to the commanding officer a copy of the warrant of arrest and where the warrant of arrest is not in his immediate possession, he shall deliver it as soon as possible but not later than 24 hours after the delivery of the arrested person."
+   }
+  },
+  {
+   "id": "SG-H633-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Diary"
+   },
+   "text": {
+    "en": "4.—(1) The investigating officer shall keep a diary recording every act done by him in the course of the investigation.\n(2) The investigating officer shall include in the record the following:\n(a)the time at which the order for investigation reached him;\n(b)the times at which he commenced and completed his investigation;\n(c)the places visited by him; and\n(d)a statement of facts and circumstances ascertained through his investigation.\n(3) An accused person shall not be entitled either before or in the course of a trial to call for or to inspect any such diary."
+   }
+  },
+  {
+   "id": "SG-H633-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "List of things seized"
+   },
+   "text": {
+    "en": "5.—(1) A list of all things taken from any person pursuant to section 67 of the Act shall be prepared by the person making the search and signed by him and by the third person who witnessed the search.\n(2) At the request of the person from whom things have been taken under paragraph (1), a copy of the list prepared and signed under this regulation shall be given to the person."
+   }
+  },
+  {
+   "id": "SG-H633-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Meaning of charge"
+   },
+   "text": {
+    "en": "6. For the purpose of proceedings under the Act and these Regulations, a charge is a formal accusation that a person has committed an offence."
+   }
+  },
+  {
+   "id": "SG-H633-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Meaning of alternative charge"
+   },
+   "text": {
+    "en": "7. Charges may be laid in the alternative where the allegations in the particulars are considered capable of supporting a finding of guilty —\n(a)of one of several offences; or\n(b)of a particular offence but, failing proof of one or more elements of that offence, of another offence,\nand only by trial may the actual offence, if any, be determined."
+   }
+  },
+  {
+   "id": "SG-H633-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Preparation of charge report"
+   },
+   "text": {
+    "en": "8.—(1) Every charge against a person shall be recorded on a charge report which shall —\n(a)allege one offence only; and\n(b)be divided into two parts, as follows:\n(i)a statement of the offence with which the accused is charged; and\n(ii)a statement of the particulars of the act, omission, disorder or neglect constituting the offence.\n(2) Every statement of the particulars of an offence in a charge report shall include sufficient details to enable the accused to know exactly what he is charged with.\n(3) A statement of the particulars of an offence should, as far as practicable, include an allegation of the place, date and time of the alleged commission of the offence.\n(4) If there is more than one charge, the charge reports should be numbered and, when laid in the alternative, the alternative nature of the charges involved shall be indicated on the charge report."
+   }
+  },
+  {
+   "id": "SG-H633-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Construction of charge and charge report"
+   },
+   "text": {
+    "en": "9. In the construction of a charge or charge report, there shall be presumed in favour of supporting it every proposition which may reasonably be presumed to be impliedly included, though not expressed in the charge or charge report and the statement of the offence and the particulars of the offence shall be read and construed together."
+   }
+  },
+  {
+   "id": "SG-H633-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Avoidance of delay by disciplinary officer in dealing with charges"
+   },
+   "text": {
+    "en": "10.—(1) When an allegation against a person that he has committed a service offence is reported in the form of a charge to a disciplinary officer who is empowered to deal with him under section 72 of the Act, he shall, unless it is impracticable, have the accused brought before him within 48 hours of the report being made to him, inform him of the charge against him and begin to deal with it.\n(2) If a disciplinary officer is of the opinion that the charge should not be dealt with by him, he shall refer the charge together with his reasons to his immediate superior officer in command who shall either direct that the charge be tried by the disciplinary officer who referred the charge or by another disciplinary officer or refer the charge with his recommendations to the Commissioner for a decision.\n(3) If it is directed under paragraph (2) that the charge is to be dealt with by another disciplinary officer, the disciplinary officer shall, unless it is impracticable, have the accused brought before him within 48 hours of the charge being referred to him, inform him of the charge against him and begin to deal with it."
+   }
+  },
+  {
+   "id": "SG-H633-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Methods of investigating charges"
+   },
+   "text": {
+    "en": "11.—(1) Subject to paragraphs (2) and (3), when a disciplinary officer deals with a charge he shall first read and, if necessary, explain the charge to the accused and shall then —\n(a)hear the evidence himself in accordance with regulation 12; or\n(b)cause the charge to be investigated by an investigating officer and read and consider the investigation material.\n(2) Notwithstanding paragraph (1) —\n(a)the disciplinary officer may, even though he has heard all or part of the evidence himself, cause the charge to be investigated by an investigating officer; and\n(b)after the charge has been investigated and he has considered the investigation material, he may himself hear evidence in accordance with regulation 12.\n(3) Where the evidence revealed in accordance with paragraph (1) discloses an offence other than the offence which is the subject of the investigation, a new charge alleging that offence may be preferred against the accused in addition to, or in substitution for, the original charge and the investigation of the original charge may be treated, for the purposes of these Regulations, as the investigation of the added or substituted charge.\n(4) Before a charge is referred to the Commissioner under section 70(2)(a) of the Act, the disciplinary officer shall cause it to be investigated by an investigating officer."
+   }
+  },
+  {
+   "id": "SG-H633-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Hearing of evidence by disciplinary officer"
+   },
+   "text": {
+    "en": "12. When a disciplinary officer deals with a charge by hearing the evidence himself the following procedure shall be observed:\n(a)each witness for the Force shall give his evidence orally in the presence of the accused, or the disciplinary officer shall read to the accused a written statement made by the witness except that a written statement of a witness for the Force shall not be used if the accused requires that the witness shall give his evidence orally;\n(b)the accused shall be allowed to cross-examine any witness for the Force;\n(c)the accused may, on his own behalf, give evidence on oath or affirmation or may make a statement without being sworn or affirmed;\n(d)the accused may call witnesses in his defence, who shall give their evidence orally and in his presence;\n(e)the disciplinary officer shall at this stage decide upon the evidence whether to dismiss the charge or record a finding of guilt;\n(f)the disciplinary officer may amend a charge at any time before he gives his findings. A charge if amended shall be read and explained to the accused and he shall be called upon to plead to the amended charge;\n(g)the disciplinary officer, if he is satisfied on the evidence as to the accused’s guilt, shall, before recording a finding of guilt or awarding any punishment, examine the service record of the accused and may hear evidence relating to the character of the accused or any other evidence for the purpose of determining the punishment;\n(h)the evidence shall not be given on oath or affirmation unless the disciplinary officer so directs or the accused so demands;\n(i)when a witness objects to taking an oath, the disciplinary officer shall cause him to make an affirmation;\n(j)if the evidence is given on oath or affirmation, the disciplinary officer shall, subject to the accused’s right to make a statement without being sworn or affirmed, administer the oath or affirmation to each witness and to any interpreter in accordance with regulation 22;\n(k)any witness testifying in a trial shall be liable to be asked questions by the disciplinary officer; and\n(l)the disciplinary officer may adjourn the trial if he considers that the interests of justice so requires."
+   }
+  },
+  {
+   "id": "SG-H633-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Investigation before dealing by disciplinary officer"
+   },
+   "text": {
+    "en": "13. Before a disciplinary officer deals with a charge after the charge has been investigated by an investigating officer —\n(a)any witness for the Force who has not given his evidence orally shall do so if the accused requires it; and\n(b)the disciplinary officer shall give the accused a further opportunity to give evidence on oath or affirmation or to make a statement without being sworn or affirmed and to call witnesses in his defence."
+   }
+  },
+  {
+   "id": "SG-H633-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Dismissal of charges by disciplinary officer"
+   },
+   "text": {
+    "en": "14. A disciplinary officer may dismiss a charge at any time during which he is dealing with it if he is of the opinion that it ought not to be proceeded with further."
+   }
+  },
+  {
+   "id": "SG-H633-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Charge before Disciplinary Board"
+   },
+   "text": {
+    "en": "15.—(1) When the Disciplinary Board appointed under section 76(1) of the Act deals with a charge against an officer of or above the rank of lieutenant-colonel, it shall deal with it in the best manner that is calculated to achieve the ends of justice.\n(2) Without prejudice to paragraph (1), the Disciplinary Board shall, when dealing with a charge against an officer of or above the rank of lieutenant-colonel, follow, with such modifications and variations as may be necessary, the same procedure as that prescribed for a disciplinary officer when dealing with a charge."
+   }
+  },
+  {
+   "id": "SG-H633-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Report of delay in having charge disposed of"
+   },
+   "text": {
+    "en": "16.—(1) The report required by section 63(5) and (6) of the Act with regard to the delay in having the charge disposed of or tried by a disciplinary officer shall be in Form 2 set out in the Schedule.\n(2) The report must be sent to —\n(a)the director and deputy director of the department of the Force responsible for human resources; and\n(b)the Commissioner.\n[S 783/2023 wef 05/12/2023]"
+   }
+  },
+  {
+   "id": "SG-H633-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "heading": {
+    "en": "Designation to be in writing"
+   },
+   "text": {
+    "en": "17. The designation of an officer as a junior disciplinary officer or a senior disciplinary officer shall be in writing and shall contain the name of the designated officer or a designation of him by reference to his appointment or the duties he performs."
+   }
+  },
+  {
+   "id": "SG-H633-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "heading": {
+    "en": "Evidence"
+   },
+   "text": {
+    "en": "18. Disciplinary officers shall admit only relevant and material evidence."
+   }
+  },
+  {
+   "id": "SG-H633-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "heading": {
+    "en": "Joint or separate trial"
+   },
+   "text": {
+    "en": "19. When several persons are charged with the same offence or different offences committed as part of the same transaction, they may be tried together or separately as the disciplinary officer thinks fit."
+   }
+  },
+  {
+   "id": "SG-H633-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "heading": {
+    "en": "Cases not provided for"
+   },
+   "text": {
+    "en": "20. Where in any trial under the Act or these Regulations a situation arises that is not provided for, the course that seems best calculated to do justice shall be followed."
+   }
+  },
+  {
+   "id": "SG-H633-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "heading": {
+    "en": "Effects of irregularities in procedure"
+   },
+   "text": {
+    "en": "21. A finding made or a sentence passed by a disciplinary officer shall not be invalid by reason of any error in or omission from or irregularity in the procedure prescribed in these Regulations, unless the omission or irregularity has occasioned a miscarriage of justice."
+   }
+  },
+  {
+   "id": "SG-H633-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "heading": {
+    "en": "Form of oath and affirmation"
+   },
+   "text": {
+    "en": "22.—(1) Where the evidence before a disciplinary officer is to be taken on oath or affirmation, the disciplinary officer shall cause the oath or affirmation to be taken as follows:\n(a)by interpreter:\nI swear that I will to the best of my ability truly interpret and translate as I shall be required to do touching the matter being investigated. So help me God.\n(b)by witness:\nI swear that the evidence which I shall give at this investigation shall be the truth, the whole truth and nothing but the truth. So help me God.\n(c)by child or young person:\nI promise that the evidence which I shall give at this investigation shall be the truth, the whole truth and nothing but the truth. So help me God.\n(2) A person making a solemn affirmation shall say to or repeat after the person administering the solemn affirmation the words of the appropriate form of oath except that for the words “I swear” he shall substitute the words “I (name in full) do solemnly, sincerely and truly declare and affirm” and shall omit the words “So help me God”.\n(3) The opening words of the oath or affirmation may be varied to such words and the oath or affirmation may be administered in such manner as the person taking the oath or affirmation declares to be binding on his conscience."
+   }
+  },
+  {
+   "id": "SG-H633-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "heading": {
+    "en": "Forms"
+   },
+   "text": {
+    "en": "23.—(1) A charge report shall be prepared in Form 3 set out in the Schedule.\n(2) The proceedings before a junior disciplinary officer or a senior disciplinary officer shall be recorded in Form 4 set out in the Schedule.\n(3) The proceedings before a Disciplinary Board shall be recorded in Form 5 set out in the Schedule."
+   }
+  },
+  {
+   "id": "SG-H633-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "heading": {
+    "en": "Record of proceedings of trial"
+   },
+   "text": {
+    "en": "24. The record of proceedings of a trial shall consist of the charge report and the form “Proceedings before a junior disciplinary officer/senior disciplinary officer/Disciplinary Board”."
+   }
+  },
+  {
+   "id": "SG-H633-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "text": {
+    "en": "25. [Deleted by S 381/2019 wef 13/05/2019]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H633-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "heading": {
+    "en": "Fine, how recovered"
+   },
+   "text": {
+    "en": "26.—(1) The terms of payment of a fine shall be within the discretion of the disciplinary officer.\n(2) Without prejudice to the generality of paragraph (1), a disciplinary officer may —\n(a)order that a fine be paid by instalments to be deducted from the offender’s pay;\n(b)in his discretion, at any time before a fine has been paid in full, allow time for the payment of the fine and grant extensions of the time so allowed."
+   }
+  },
+  {
+   "id": "SG-H633-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "heading": {
+    "en": "Minor punishments: lance-corporal to staff sergeant"
+   },
+   "text": {
+    "en": "27. A junior disciplinary officer may award to persons of and above the rank of lance-corporal up to the rank of staff sergeant any one of the following minor punishments:\n(a)stoppage of leave (not exceeding 28 days);\n(b)admonition."
+   }
+  },
+  {
+   "id": "SG-H633-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "heading": {
+    "en": "Minor punishment for privates and recruits"
+   },
+   "text": {
+    "en": "28. A junior disciplinary officer may award to privates and recruits any one of the following minor punishments:\n(a)restriction of privileges for any period not exceeding 14 days;\n(b)stoppage of leave (not exceeding 28 days);\n(c)extra duty and drill (not exceeding 7 days);\n[S 783/2023 wef 05/12/2023]\n(d)extra guard or picket duties not exceeding 3 in number;\n(e)admonition."
+   }
+  },
+  {
+   "id": "SG-H633-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "heading": {
+    "en": "Restriction of privileges"
+   },
+   "text": {
+    "en": "29. A person undergoing restriction of privileges shall —\n(a)answer roll call every two hours daily between 6 a.m. and 10 p.m. or at such other times as may be prescribed by order issued from time to time by the commanding officer and thereafter, except when on duty, shall remain in barracks until roll call the next day;\n(b)forfeit his weekend home leave during the period of restriction;\n(c)be employed on fatigue duties outside normal working hours up to a maximum of two hours a day;\n(d)not be allowed the use of the unit canteen."
+   }
+  },
+  {
+   "id": "SG-H633-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "heading": {
+    "en": "Stoppage of leave"
+   },
+   "text": {
+    "en": "30. When the punishment of stoppage of leave is awarded, the offender shall not be given any leave of absence during the term of the sentence, unless in such exceptional circumstances as the commanding officer otherwise directs."
+   }
+  },
+  {
+   "id": "SG-H633-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "heading": {
+    "en": "Extra duty and drill"
+   },
+   "text": {
+    "en": "31.—(1) The punishment of extra duty and drill may include performance by the offender, each day, of —\n(a)an extra period of the offender’s normal daily duties (not exceeding one hour) over and above his normal daily duties; and\n[S 783/2023 wef 05/12/2023]\n(b)[Deleted by S 783/2023 wef 05/12/2023]\n(c)extra drill, for a period not exceeding one hour.\n[S 783/2023 wef 05/12/2023]\n(2) The punishment of extra duty and drill referred to in paragraph (1) shall not be carried out on a designated rest day but that day shall count towards the completion of the term of the punishment.\n[S 783/2023 wef 05/12/2023]\n(3) For the purposes of paragraph (2), “designated rest day”, in relation to an offender, means the day of each week designated as the offender’s rest day in the Civil Defence General Orders made under section 110 of the Act.\n[S 783/2023 wef 05/12/2023]\n[S 783/2023 wef 05/12/2023]"
+   }
+  },
+  {
+   "id": "SG-H633-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "heading": {
+    "en": "Dealing with two or more charges and award of punishment"
+   },
+   "text": {
+    "en": "32.—(1) Where two or more charges have been preferred against an accused and a disciplinary officer proposes to deal with them all, he shall deal with all the charges at the same time.\n(2) When dealing with two or more charges a disciplinary officer may award one punishment for all the charges or separate punishments for each charge as he thinks fit.\n(3) A punishment awarded by a disciplinary officer, whether the person to whom it is to be awarded is already undergoing punishment or not, shall take effect from the date of award, unless the disciplinary officer awarding the punishment otherwise directs."
+   }
+  },
+  {
+   "id": "SG-H633-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "heading": {
+    "en": "Suspension of sentence of detention"
+   },
+   "text": {
+    "en": "33. A disciplinary officer who passes a sentence of detention may pursuant to section 79 of the Act order that the sentence be suspended for a period not exceeding 4 months from the date of the order and, in that event, the sentence shall not take effect unless during the period of suspension the offender commits another offence."
+   }
+  },
+  {
+   "id": "SG-H633-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "heading": {
+    "en": "Power to secure attendance of witnesses"
+   },
+   "text": {
+    "en": "34. A disciplinary officer may apply to a Magistrate for a summons to secure the attendance before that officer, as a witness, of any person who appears to be acquainted with the circumstances of the case. The Magistrate may issue a summons accordingly and such witness shall be bound to attend at the time and place mentioned in the summons and shall be bound to answer truly all questions relating to the case as may be put to him by that officer, and shall produce all documents relevant to the case, except that nothing in this regulation shall be construed to compel any person to disclose any matter or produce any document which would have been protected from disclosure or production, as the case may be, on the ground of privilege if the proceedings had been held in any court."
+   }
+  },
+  {
+   "id": "SG-H633-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRegulation 2(2)\nFORM 1\nCIVIL DEFENCE ACT\n(CHAPTER 42)\nCIVIL DEFENCE (ARRESTS, SEARCHES, INVESTIGATION AND TRIAL OF OFFENCES) REGULATIONS\nWARRANT OF ARREST (1)\nTo.................................................................................................. (2)\n(No. , rank, name, unit)\n..................................................................................................\n(No. , rank, name, unit)\n..................................................................................................\n1. You are hereby authorised to arrest\n.................................................................................................. (3)\n(No. , rank, name, unit)\nfor having committed or reasonably suspected of having committed\n............................................................................................................ (4)\n................................................................................................................\n........................................ (5)\n........................................\nDate and time\nRank, name, unit and signature\nof issuing officer.\n____________________________________________________________\n(1)The officer issuing a warrant of arrest shall, as soon as possible, inform his superior in command and the Commissioner of the issue of the warrant of arrest.\n(2)(a) The warrant of arrest may be directed to —\n(i)provost officers in general or to any one or more provost officers;\n(ii)any one or more members not being provost officers;\n(iii)the Commissioner of Police and all other police officers of Singapore.\n(b)A person who makes an arrest shall deliver to the commanding officer of the arrested person at the time of the arrest or within 24 hours thereafter a copy of warrant of arrest.\n(3)Particulars of person to be arrested.\n(4)Give a short description of the offence(s).\n(5)State date and time of issue of warrant of arrest.\n[S 381/2019 wef 13/05/2019]"
+   }
+  }
+ ]
+}

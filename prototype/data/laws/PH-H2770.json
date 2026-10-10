@@ -1,0 +1,64 @@
+{
+ "id": "PH-H2770",
+ "title": {
+  "zh": null,
+  "en": "An Act Reappropriating Certain Sums Appropriated in Republic Act Numbered Fourteen Hundred Eleven",
+  "orig": "An Act Reappropriating Certain Sums Appropriated in Republic Act Numbered Fourteen Hundred Eleven"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p39",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1961-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 3293",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 998,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1961/ra_3293_1961.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1961/ra_3293_1961.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H2770-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The sums appropriated in Republic Act Numbered Fourteen hundred eleven under:\n1. Item (f), group, IV, page 86, subparagraph 28 for the City of Manila, paragraph \"f\", Section two, for Lamayan Basketball Court—Improvement ₱2,500.00\n2. Project No. B-0047.7, page 256-A, Title B-Highways (Feeder and Secondary Roads)—Urban, Appendix A, for—Anda Streets, City of Manila—Pave with asphalt, from Muralla to Sta. Lucia 640 m. GR 40 40 10 30 - - - - - 3 -\n3. Project No. B-004.8, page 256-A, Title B-Highways (Feeder and Secondary Road)—Urban, Appendix A, for— Sta. Lucia, City of Manila— Paving from Victoria to Anda, 350 m.\nEstimate based on asphalt paving| GR 15 15 15 - - - - - - 3 - totalling twenty-seven thousand five hundred pesos, are hereby reappropriated for the following purposes:\n(1) Filling of low areas in the Fourth District of Manila ₱20,000.00\n(2) Leroy Street from Trece de Agosto to San Gregorio Improvement 7,500.00"
+   }
+  },
+  {
+   "id": "PH-H2770-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
+   }
+  }
+ ]
+}

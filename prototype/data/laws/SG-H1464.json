@@ -1,0 +1,114 @@
+{
+ "id": "SG-H1464",
+ "title": {
+  "zh": null,
+  "en": "Extradition (United Nations Convention against Transnational Organised Crime) Notification 2022",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p19",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation EA1968-S558-2022",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 4230,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/EA1968-S558-2022?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 6 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1464-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. This Notification is the Extradition (United Nations Convention against Transnational Organised Crime) Notification 2022 and comes into operation on 1 July 2022."
+   }
+  },
+  {
+   "id": "SG-H1464-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In this Notification, unless the context otherwise requires —\n“Convention country” means a country that is a Party to the UNTOC and includes a state or territory (as the case may be) to which the UNTOC applies or is extended;\n“country” includes a state or territory;\n“foreign Convention offence”, in relation to a Convention country, means an offence against the law of that Convention country, where the act or omission constituting the offence or the equivalent act or omission would, if it took place in Singapore —\n(a)constitute a Singapore Convention offence; or\n(b)be a Singapore Convention offence if the description of the offence contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence;\n“notification” means a notification made under section 4 of the Act;\n“Order in Council” means an Order in Council mentioned in section 3 of the Act;\n“serious crime”, “organised criminal group” and “transnational” have the meanings given to them in UNTOC;\n“Singapore Convention offence” means any of the following offences:\n(a)abetment of a serious crime, where the serious crime is transnational in nature and involves an organised criminal group;\n(b)criminal conspiracy to commit a serious crime, where the serious crime is transnational in nature and involves an organised criminal group;\n“UNTOC” means the United Nations Convention against Transnational Organised Crime, done at New York on 15 November 2000."
+   }
+  },
+  {
+   "id": "SG-H1464-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Application of Act to Convention countries"
+   },
+   "text": {
+    "en": "3.—(1) For the purposes of the extradition of any person accused of or convicted of a foreign Convention offence of any Convention country set out in the first column of the First Schedule, the Act (except for Parts 5 and 6) applies in relation to that Convention country, subject to any limitations, conditions, exceptions or qualifications to which the operation of the Order in Council set out opposite in the second column of that Schedule is subject.\n(2) Despite sub‑paragraph (1), any limitation, condition, exception or qualification to which the operation of the Order in Council mentioned in that sub‑paragraph is subject, to the extent that it prevents the foreign Convention offence mentioned in that sub‑paragraph from being considered an extradition offence in relation to the Convention country mentioned in that sub‑paragraph, is to be disregarded in the application of the Act in relation to that Convention country.\n(3) For the purposes of the extradition of any person accused of or convicted of a foreign Convention offence of any Convention country set out in the first column of the Second Schedule, the Act (except for Parts 5 and 6) applies in relation to that Convention country, subject to any limitations, conditions, exceptions or qualifications that are specified in the notification set out opposite in the second column of that Schedule.\n(4) Despite sub‑paragraph (3), any limitation, condition, exception or qualification specified in the notification mentioned in that sub‑paragraph, to the extent that it prevents the foreign Convention offence mentioned in that sub‑paragraph from being considered an extradition offence in relation to the Convention country mentioned in that sub‑paragraph, is to be disregarded in the application of the Act in relation to that Convention country."
+   }
+  },
+  {
+   "id": "SG-H1464-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Cancellation"
+   },
+   "text": {
+    "en": "4. The Extradition (United Nations Convention against Transnational Organised Crime) Notification 2017 (G.N. No. S 413/2017) is cancelled."
+   }
+  },
+  {
+   "id": "SG-H1464-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nParagraph 3(1)\nFirst column\nSecond column\nConvention country\nOrder in Council\n1.The United States of America\nUnited States of America (Extradition) Order in Council (O 1)\n2.The Federal Republic of Germany\nThe Federal Republic of Germany (Extradition) Order in Council (G.N. No. S 782/2010)"
+   }
+  },
+  {
+   "id": "SG-H1464-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nParagraph 3(3)\nFirst column\nSecond column\nConvention country\nNotification\n1.The Hong Kong Special Administrative Region of the People’s Republic of China\nExtradition (Hong Kong Special Administrative Region of the People’s Republic of China) Notification (N 1)"
+   }
+  }
+ ]
+}

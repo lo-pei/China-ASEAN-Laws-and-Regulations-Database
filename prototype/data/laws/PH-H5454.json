@@ -1,0 +1,84 @@
+{
+ "id": "PH-H5454",
+ "title": {
+  "zh": "设立Antipolo市",
+  "en": "An Act Converting the Hinulugan Taktak Recreation Area in the Municipality of Antipolo, Province of Rizal, into a National Park to be known as the Hinulugan Taktak National Park and Appropriating Funds Therefor",
+  "orig": "An Act Converting the Hinulugan Taktak Recreation Area in the Municipality of Antipolo, Province of Rizal, into a National Park to be known as the Hinulugan Taktak National Park and Appropriating Funds Therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p77",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1990-09-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6964",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 746,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1990/ra_6964_1990.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1990/ra_6964_1990.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H5454-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The Hinulugan Taktak recreation area in the Municipality of Antipolo, Province of Rizal, as established, described and set aside in Presidential Proclamation No. 330 dated July 15, 1952, is hereby converted into a national park to be known as the Hinulugan Taktak National Park"
+   }
+  },
+  {
+   "id": "PH-H5454-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The Protected Areas and Wildlife Bureau of the Department of Environment and Natural Resources shall administer the park in coordination with the Department of Tourism and the provincial government of Rizal."
+   }
+  },
+  {
+   "id": "PH-H5454-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The sum needed for the conversion, operation and maintenance of said national park is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter."
+   }
+  },
+  {
+   "id": "PH-H5454-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

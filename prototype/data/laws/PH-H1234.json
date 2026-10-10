@@ -1,0 +1,344 @@
+{
+ "id": "PH-H1234",
+ "title": {
+  "zh": null,
+  "en": "An Act Defining a Land Tenure Policy, Providing for an Instrumentality to Carry Out the Policy, and Appropriating Funds for its Implementation",
+  "orig": "An Act Defining a Land Tenure Policy, Providing for an Instrumentality to Carry Out the Policy, and Appropriating Funds for its Implementation"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p17",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1955-09-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1400",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 30,
+ "chars": 17551,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1955/ra_1400_1955.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 30 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1955/ra_1400_1955.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 30 条，缺 3）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号。 源文存在同号重出的条款（第 2 条）：该处官方页面确有两段均标同一 Section 号，本库照录其 `no` 值（不改动官方编号），条文 `id` 以 `_2`「_3」后缀保证唯一。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1234-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Short title. This Act shall be known as the \"Land Reform Act of 1955.\""
+   }
+  },
+  {
+   "id": "PH-H1234-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Declaration of policy. It is the declared policy of the State to create and maintain an agrarian system which is peaceful, prosperous and stable, and to this end the Government shall establish and distribute as many family-size farms to as many landless citizens as possible through the opening up of public agricultural lands and the division and distribution of private agricultural lands where agrarian conflicts exist, either by private arrangement with the owners or through expropriation proceedings.\nTHE LAND TENURE ADMINISTRATION"
+   }
+  },
+  {
+   "id": "PH-H1234-A2_2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Creation and composition. For the purpose of carrying out the policy enunciated in this Act, there is hereby created a Land Tenure Administration, hereinafter called the Administration, which shall be directly under the control and supervision of and responsible to the President of the Philippines. The Administration shall consist of a Chairman and two members who shall be appointed by the President with the consent of the Commission on Appointments and shall hold office for a period of five years. They may be removed for cause or for incapacity to discharge the duties of their office."
+   }
+  },
+  {
+   "id": "PH-H1234-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Qualifications and compensation of members. No person shall be appointed Chairman or member of the Administration unless he is natural born citizen of the Philippines, at least thirty-five years of age, and not related by affinity or consanguinity within the fourth civil degree to any landowner who may be affected by this Act.\nThe Chairman shall receive an annual compensation of fifteen thousand pesos and the members shall each receive an annual compensation of twelve thousand pesos."
+   }
+  },
+  {
+   "id": "PH-H1234-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Functions. It shall be the responsibility of the Administration to:\n(1) Make studies on the land tenure problems throughout the Philippines, prepare over-all long range plans to solve such problems, and keep the President and the Congress of the Philippines fully informed of the progress of the land tenure reform program;\n(2) Initiate immediate investigation in areas reporting land tenure difficulties and recommend appropriate action without delay;\n(3) Inform the President and the Congress of the Philippines of any deficiency of the other departments or agencies of the Government in the implementation of legislation bearing on or affecting the land tenure reform;\n(4) Prepare a plan for the systematic opening of virgin lands of the public domain for distribution to tenants, preference to be given to those tenants who are ejected by virtue of mechanization and to other landless citizens; and\n(5) To implement and carry out the expropriation and the resale or lease of urban lands already authorized by existing laws."
+   }
+  },
+  {
+   "id": "PH-H1234-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Powers. In pursuance of the policy enunciated in section two hereof, the Administration is authorized to:\n(1) Purchase private agricultural lands for resale at cost to bona fide tenants or occupants, or in the case of estates abandoned by the owners for the last five years, to private individuals who will work the lands themselves and who are qualified to acquire or own lands but who do not own more than six hectares of lands in the Philippines;\n(2) Initiate and prosecute expropriation proceedings for the acquisition of private agricultural lands in proper cases, for the same purpose of resale at cost: Provided , That the power herein granted shall apply only to private agricultural lands as to the area in excess of three hundred hectares of contiguous area if owned by natural persons and as to the area in excess of six hundred hectares if owned by corporations: Provided, further , That land where justified agrarian unrest exists may be expropriated regardless of its area.\n(3) Prepare a schedule of areas of family-size farm units, not exceeding six hectares each, for different crops in different localities; and\n(4) Promulgate such rules and regulations as may be necessary for the successful implementation of the provisions of this Act."
+   }
+  },
+  {
+   "id": "PH-H1234-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "Appointment of subordinate officials and employees. To enable the Administration to implement the provisions of this Act more effectively, it shall have a Legal Staff, a Technical Staff and a Financial Staff, the personnel of which shall be appointed by the Administration which shall also fix their compensation.\nThe Administration shall appoint, subject to Civil Service rules and regulations, fix the compensation and determine the duties of such officials and employees as the exigencies of the service may require. The Administration shall establish and prescribe its own rules, regulations, standards and records for the employment, promotion, transfer, welfare and compensation of employees and officers of the Administration and provide a system of organization to for responsibility and promote efficiency."
+   }
+  },
+  {
+   "id": "PH-H1234-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "Assistance of other departments and agencies. The Administration may call upon any department or agency of the Government for assistance and cooperation on any matter connected with the functions and powers of the Administration.\nNEGOTIABLE LAND CERTIFICATES"
+   }
+  },
+  {
+   "id": "PH-H1234-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "text": {
+    "en": "Issuance. The President, for the purposes provided for in this Act and upon recommendation of the Secretary of Finance and concurred in by the Monetary Board, is hereby authorized to issue negotiable land certificates upon the request of the Administration: Provided , That only sixty million a year will be issued during the first two years, and thirty million each year during the succeeding years.\nNegotiable land certificates shall be issued in denomination of one thousand pesos or multiples of one thousand pesos and shall be payable to bearer on demand and presentation at the Central Bank. These certificates if presented for payment after five years from the date of issue shall earn interest at the rate of four per centum per annum; if presented for payment after ten years from the date of issue shall earn interest at the rate of four and one-half per centum per annum; and if presented for payment after fifteen years from the date of issue shall earn interest at the rate of five per centum per annum."
+   }
+  },
+  {
+   "id": "PH-H1234-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "text": {
+    "en": "Uses of certificates. Negotiable land certificates may be used by the holder thereof for any of the following purposes:\n(1) Payment for agricultural lands or other properties purchased from the Government: Provided, however , That in the case of purchase of agricultural lands, the purchaser is not otherwise prohibited to own or hold agricultural lands under the Constitution;\n(2) Payment for the purchase of shares of stock or of the assets of any industrial or commercial corporations owned or controlled by the Government;\n(3) Payment of all tax obligations of the holder thereof, or of any debt or monetary obligation of the holder to the Government or any of its instrumentalities or agencies, including the Rehabilitation Finance Corporation and the Philippine National Bank: Provided, however , That payment of indebtedness shall not be less that twenty per centum of the total indebtedness of the debtor; and\n(4) As surety or performance bonds, in all cases where the Government may require or accept real property as bonds.\nNEGOTIATED PURCHASE OF PRIVATE AGRICULTURAL LANDS"
+   }
+  },
+  {
+   "id": "PH-H1234-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "text": {
+    "en": "Lands subject to the purchase. The Administration, acting for and on behalf of the Government, may negotiate to purchase any privately owned agricultural land when the majority of the tenants therein petition for such purchase."
+   }
+  },
+  {
+   "id": "PH-H1234-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "text": {
+    "en": "Action on the petition. Upon receipt of the petition, the Administration shall;\n(1) Within thirty days, determine on the basis of the information contained in the petition, the suitability of the land for purchase, notify the petitioners and the landowner accordingly, and fix the date for preliminary negotiation;\n(2) Within sixty days from the preliminary negotiation, conduct investigations and technical surveys to determine title to the land and its real value, taking into account (a) the prevailing prices of similar lands in the immediate area, (b) the soil conditions topography and climate hazards, (c) actual production, (d) accessibility, and (e) improvements; and\n(3) Fix, within ninety days from the preliminary negotiation, the date for final negotiation."
+   }
+  },
+  {
+   "id": "PH-H1234-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "text": {
+    "en": "Deposit by tenants. Before fixing the date for final negotiation under section twelve, paragraph (3), and in the interest of public welfare, the Administration shall require the tenants to form a cooperative to be affiliated with a government financing cooperative agency. Such cooperative agency shall deposit with the Administration an amount not exceeding twenty-five per centum of the annual gross produce of the principal crop or crops of such land on the basis of the average of harvest of the three years immediately preceding the year the petition was filed. This deposit shall be credited to the selling price to the tenants in accordance with the individual contribution of each to said deposit."
+   }
+  },
+  {
+   "id": "PH-H1234-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "text": {
+    "en": "Payment. In negotiating for the purchase of agricultural land, the Administration shall offer to pay the purchase price wholly in land certificates or partly in legal tender and partly in land certificates: Provided , That the amount to be paid in legal tender shall in no case exceed fifty per centum of the purchase price: Provided, further , That the landowner, if he desires and the Administration so agrees, may be paid, by way of barter or exchange, with such residential, commercial or industrial land owned by the Government as may be agreed upon by the parties."
+   }
+  },
+  {
+   "id": "PH-H1234-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "text": {
+    "en": "Outstanding debts of tenants. In cases where the landowner is willing to accept payment wholly in land certificates, the Administration is authorized to include in the price to be paid the landowner all the outstanding debts, evidenced in writing, of the tenants to said landowner, the Administration to be thereafter reimbursed in accordance with such rules and regulations as it may promulgate: Provided , That the resulting increase in price by virtue of such inclusion will not be more than ten per centum of the total cost of the land agreed upon in the negotiated sale.\nEXPROPRIATION OF PRIVATE AGRICULTURAL LANDS"
+   }
+  },
+  {
+   "id": "PH-H1234-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "text": {
+    "en": "When proper. The Administration may initiate and prosecute expropriation proceedings for the acquisition of private agricultural land subject to the provisions of section six, paragraph (2), upon petition of a majority of the tenants and after it is convinced of the suitability of such land for subdivision into family-size farm units, and that public interest will be served by its immediate acquisition, when any of the following conditions exists:\n(1) That the landowner falling within the terms of section six, paragraph (2), continues to refuse to sell after all efforts have been exhausted by the Administration to negotiate for its purchase; or\n(2) That the landowner is willing to sell under sections eleven and twelve but cannot agree with the Administration as to the price and/or the manner of its payment."
+   }
+  },
+  {
+   "id": "PH-H1234-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "text": {
+    "en": "Petition. The petition, in case the landowner refuses to sell, shall be filed in the manner and form to be prescribed by the Administration. However, before initiating expropriation proceedings, the Administration shall make one last effort to purchase the land by negotiated sale."
+   }
+  },
+  {
+   "id": "PH-H1234-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "text": {
+    "en": "Possession of the land; procedure. The Administration after commencing the expropriation suit may take immediate possession of the land upon deposit, with the Court which has acquired jurisdiction over the expropriation, of money or a certificate of deposit of a depository of the Republic of the Philippines as provided in section three of Rule 69 of the Rules of Court equal to the value of the land as provisionally and promptly determined by the Court taking into consideration the factors mentioned in section twelve, paragraph (2).\nThereafter the procedure in the Rules of Court with respect to eminent domain proceedings shall be followed. Pending judicial expropriation proceedings the owner of the land sought to be expropriated shall be given annually such allowance as his latest income tax return, prior to the institution of the proceedings, shows to be his net income from the land. Such allowance shall be approved by the court having jurisdiction and shall be deducted from the final amount awarded as compensation to the owner."
+   }
+  },
+  {
+   "id": "PH-H1234-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "text": {
+    "en": "Payment. After the court has made a final determination of the just compensation for the land expropriated, it shall be paid wholly in cash unless the landowner chooses to be paid wholly or partly in land certificates, in which case section fifteen shall apply."
+   }
+  },
+  {
+   "id": "PH-H1234-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "text": {
+    "en": "Prohibition against alienation. Upon the filing of the petition referred to in sections twelve and sixteen, the landowner cannot alienate any portion of the land covered by such petition except in pursuance of the provisions of this Act, or enter into any form of contract to defeat the purposes of this Act, and no ejectment proceedings against any tenant or occupant of the land covered by the petition shall be instituted or prosecuted until it becomes certain that the land shall not be acquired by the Administration.\nGENERAL PROVISIONS"
+   }
+  },
+  {
+   "id": "PH-H1234-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "text": {
+    "en": "Resale of lands purchased or expropriated subject to condition. It shall be a condition in all resale contracts and annotated on the Torrens titles of lands acquired and subdivided by authority of this Act that said lands shall not be subdivided, sold or in any manner transferred or encumbered without prior consent of the Administration and only to qualified farmers or tenants or to government banking institutions or agencies."
+   }
+  },
+  {
+   "id": "PH-H1234-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "text": {
+    "en": "Exemption from tax. All land certificates issued by authority of this Act shall be exempt from all forms of taxes. The purchase price paid by the Government for any agricultural land acquired for resale to tenants under the authority of this Act, whether through negotiation or expropriation, shall not be considered as income of the landowner concerned for purposes of the income tax."
+   }
+  },
+  {
+   "id": "PH-H1234-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "text": {
+    "en": "Definition of terms. For the purposes of this Act, the following terms are defined as follows:\n(1) Agricultural lands shall mean lands devoted to agricultural production and shall include the farm home lots.\n(2) Family-size farm units shall mean such area of farm land not exceeding six hectares as will permit the efficient use of the labor resources of the farm family, taking into account the addition of such supplementary labor as may be necessary either for seasonal peak loads or during the developmental and transitional stages of the family itself.\n(3) At cost shall mean the purchase price plus six per cent interest per annum for twenty-five years which includes the one per cent per annum for administration expenses, plus actual expenses for survey, subdivision and registration. The total, divided into twenty-five equal installments, shall be the annual cost to the tenant for twenty-five years."
+   }
+  },
+  {
+   "id": "PH-H1234-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "text": {
+    "en": "Payment of family-size farms sold to veterans and other government employees. Veterans of the Armed Forces of the Philippines and other government employees with backpay certificates from the Government are hereby authorized to use their backpay certificates in payment of family-size farms that may be acquired by them by authority of this Act."
+   }
+  },
+  {
+   "id": "PH-H1234-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "text": {
+    "en": "Trust fund. All collections from the redistribution of the lands acquired by the Administration, after deducting the one per cent for administration expenses and the actual expenses for survey, subdivision and registration, shall be kept in the National Treasury as a special trust fund to be used exclusively for the redemption of the land certificates and bonds issued by authority of this Act."
+   }
+  },
+  {
+   "id": "PH-H1234-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "text": {
+    "en": "Sinking fund; appropriation. A sinking fund shall be established in such manner that the total annual contribution thereto, accrued at such rate of interest as may be determined by the Secretary of Finance in consultation with the Monetary Board, shall be sufficient to redeem at maturity the land certificates and bonds issued under this Act. Said fund shall be under the custody of the Central Bank for which shall invest the same in such manner as the Monetary Board may approve; shall charge all expenses of such investment to said sinking fund; and shall credit the same with the interest on investments and other income belonging to it.\nA standing annual appropriation not exceeding twenty million pesos is hereby made out of the general fund in the National Treasury to provide for the sinking fund created in this section and to carry into effect the purposes of this Act.\nIn addition, there is hereby appropriated out of the bond issue authorized under Republic Act Numbered One thousand, the sum of one hundred million pesos to carry out the provisions of this Act."
+   }
+  },
+  {
+   "id": "PH-H1234-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "text": {
+    "en": "Appropriation for the Administration. There is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, the sum of three hundred thousand pesos for salaries, per diems, traveling expenses, furniture, office supplies and other expenses that may be incurred by the Administration for the fiscal year 1955-1956. The expenses of the Administration for the succeeding years shall be provided for in the corresponding annual general appropriation acts."
+   }
+  },
+  {
+   "id": "PH-H1234-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "text": {
+    "en": "Transfer of functions of the Division of Landed Estates, Bureau of Lands. Upon the organization of the Administration, the Division of Landed Estates in the Bureau of Lands shall stand abolished and its functions, powers and duties, personnel, records, equipment and balances of appropriation shall thereupon be transferred to the said Administration."
+   }
+  },
+  {
+   "id": "PH-H1234-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "text": {
+    "en": "Repeal of laws. All acts or parts of acts which are inconsistent with the provisions of this Act are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H1234-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "text": {
+    "en": "Effectivity. This Act shall take effect upon its approval.\nApproved: September 9, 1955"
+   }
+  }
+ ]
+}

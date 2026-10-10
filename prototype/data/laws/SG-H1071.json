@@ -1,0 +1,346 @@
+{
+ "id": "SG-H1071",
+ "title": {
+  "zh": null,
+  "en": "Cybersecurity (Appeals) Regulations 2025",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p14",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CA2018-S679-2025",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 19,
+ "chars": 13976,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CA2018-S679-2025?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 19 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1071-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Cybersecurity (Appeals) Regulations 2025 and come into operation on 31 October 2025."
+   }
+  },
+  {
+   "id": "SG-H1071-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“Appeals Secretary” means the Appeals Secretary appointed under regulation 13(1);\n“appellant” means —\n(a)an owner of a provider‑owned critical information infrastructure;\n(b)a designated provider responsible for third‑party‑owned critical information infrastructure; or\n(c)an owner of a system of temporary cybersecurity concern,\nwho makes an appeal to the Minister under section 35B(2) of the Act;\n“working day” means any day except a Saturday, Sunday or public holiday."
+   }
+  },
+  {
+   "id": "SG-H1071-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 APPEAL TO MINISTER"
+   },
+   "heading": {
+    "en": "Notice of appeal"
+   },
+   "text": {
+    "en": "3.—(1) An appeal to the Minister under section 35B(2) of the Act must be made according to this Part.\n(2) A notice of appeal must be in writing and must —\n(a)state the appellant’s name and address;\n(b)state an address in Singapore for the service of documents;\n(c)provide the information required under section 35B(4) of the Act, and as required under paragraph (3), (4), (5), (6), (7), (8) or (9), as applicable;\n(d)state the relief sought by the appellant; and\n(e)be signed and dated by a duly authorised officer of the appellant.\n(3) A notice of appeal in respect of a decision mentioned in section 35B(2)(a)(i) or (iii) of the Act must state the grounds of the owner’s belief that the computer or computer system ought not to have been designated under section 7(1) or (1A) or 17(1) (as the case may be) of the Act.\n(4) A notice of appeal in respect of a decision mentioned in section 35B(2)(a)(ii) of the Act must state the grounds of the belief, of the designated provider responsible for third‑party‑owned critical information infrastructure, that the provider ought not to have been designated under section 16A(1) of the Act.\n(5) A notice of appeal in respect of a decision mentioned in section 35B(2)(b)(i) or (iii) of the Act must state the grounds of the owner’s belief that the designation of the computer or computer system ought not to have been extended under section 9A(1) or 17C(1) (as the case may be) of the Act.\n(6) A notice of appeal in respect of a decision mentioned in section 35B(2)(b)(ii) of the Act must state the grounds of the belief, of the designated provider responsible for third‑party‑owned critical information infrastructure, that the designation of the provider ought not to have been extended under section 16D(1) of the Act.\n(7) A notice of appeal in respect of an order mentioned in section 35B(2)(c) of the Act must —\n(a)identify the order the appeal relates to; and\n(b)specify the part of the order being appealed against.\n(8) A notice of appeal in respect of a written direction under section 12(1), 16(2), 16G(1), 16L(2) or 17E(1) mentioned in section 35B(2)(d) of the Act must —\n(a)identify the written direction the appeal relates to; and\n(b)specify the part of the direction being appealed against.\n(9) A notice of appeal in respect of any provision in any code of practice or standard of performance, or any amendment to a code of practice or standard of performance, mentioned in section 35B(2)(e) of the Act, must state the provision of the code of practice or standard of performance, or amendment, being appealed against.\n(10) An appellant who wishes to make an appeal must —\n(a)file the notice of appeal with the Appeals Secretary; and\n(b)serve on the Commissioner a copy of the notice of appeal, and file with the Appeals Secretary a notice of service of the copy of the notice of appeal.\n(11) A notice of service mentioned in paragraph (10)(b) must be in the form set out on the Internet website at https://www.mddi.gov.sg."
+   }
+  },
+  {
+   "id": "SG-H1071-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 APPEAL TO MINISTER"
+   },
+   "heading": {
+    "en": "Receipt of notice of appeal"
+   },
+   "text": {
+    "en": "4. Upon receiving a notice of appeal, the Appeals Secretary must —\n(a)inform the appellant that the notice is received and of the date and time that the notice was received;\n(b)enter the appeal in a list and assign a number to the appeal, which will be the title of the appeal;\n(c)inform the appellant of the title of the appeal; and\n(d)forward the notice of appeal to the Minister."
+   }
+  },
+  {
+   "id": "SG-H1071-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 APPEAL TO MINISTER"
+   },
+   "heading": {
+    "en": "Summary dismissal of appeal"
+   },
+   "text": {
+    "en": "5. The Minister may determine the appeal by confirming the decision, order, written direction, or provision or amendment of the Commissioner appealed against if —\n(a)the Minister considers that the notice of appeal discloses no valid ground of appeal;\n(b)the Minister considers that the appellant is not entitled to appeal; or\n(c)the Minister is satisfied that the appellant has, without reasonable excuse —\n(i)failed to make the appeal within the time specified under section 35B(3) of the Act; or\n(ii)failed to comply with any direction of the Minister concerning the appeal."
+   }
+  },
+  {
+   "id": "SG-H1071-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 APPEAL TO MINISTER"
+   },
+   "heading": {
+    "en": "Amendment of notice of appeal"
+   },
+   "text": {
+    "en": "6.—(1) An appellant may only amend a notice of appeal or include additional evidence in support of the notice of appeal if —\n(a)the Minister permits; or\n(b)the Minister directs the appellant to amend a notice that the Minister considers to be materially incomplete, unduly lengthy or unclear.\n(2) Where the Minister permits or directs an amendment to a notice of appeal or permits the inclusion of additional evidence under paragraph (1), the Minister must give such further or consequential direction as is necessary, including specifying a later date for the Commissioner to file a defence.\n(3) The Minister must not permit an amendment unless —\n(a)the amendment is related to a matter that came to the appellant’s knowledge after the notice of appeal was filed;\n(b)at the time the notice of appeal was filed it was not practicable to include, or omit, the subject matter of the amendment in the notice of appeal; or\n(c)there are exceptional circumstances to do so.\n(4) The Minister must not permit any additional evidence to be included unless —\n(a)it could not have been obtained with reasonable diligence for use at the time the notice of appeal was filed;\n(b)it would likely have an important influence in determining the outcome of the appeal, though it need not be decisive; and\n(c)it is apparently credible."
+   }
+  },
+  {
+   "id": "SG-H1071-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 APPEAL TO MINISTER"
+   },
+   "heading": {
+    "en": "Withdrawal of notice of appeal"
+   },
+   "text": {
+    "en": "7. An appellant may, if the Minister permits, withdraw the appellant’s appeal at any time before the Minister determines the appeal."
+   }
+  },
+  {
+   "id": "SG-H1071-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 APPEAL TO MINISTER"
+   },
+   "heading": {
+    "en": "Defence"
+   },
+   "text": {
+    "en": "8.—(1) The Commissioner’s defence to a notice of appeal must be in writing and must —\n(a)state the Commissioner’s name and address;\n(b)state an address in Singapore for the service of documents;\n(c)state concisely the facts and arguments upon which the Commissioner will rely;\n(d)be accompanied by any evidence supporting the defence; and\n(e)be signed and dated by a duly authorised officer.\n(2) The Commissioner must, within 30 days after the date on which the Commissioner receives a copy of the notice of appeal and any accompanying evidence —\n(a)file a defence with the Appeals Secretary; and\n(b)serve on the appellant a copy of the defence, and file with the Appeals Secretary a notice of service of the copy of the defence.\n(3) A notice of service mentioned in paragraph (2)(b) must be in the form set out on the Internet website at https://www.mddi.gov.sg."
+   }
+  },
+  {
+   "id": "SG-H1071-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 APPEAL TO MINISTER"
+   },
+   "heading": {
+    "en": "Amendment of defence"
+   },
+   "text": {
+    "en": "9.—(1) The Commissioner may only amend the defence or include additional evidence to support the defence if —\n(a)the Minister permits; or\n(b)the Minister directs the Commissioner to amend a defence that the Minister considers to be materially incomplete, unduly lengthy or unclear.\n(2) Where the Minister permits or directs an amendment to a defence or permits the inclusion of additional evidence under paragraph (1), the Minister must give such further or consequential direction as is necessary, including specifying a later date for the appellant to file a reply.\n(3) The Minister must not permit an amendment unless —\n(a)the amendment is related to a matter that came to the Commissioner’s knowledge after the defence was filed;\n(b)at the time the defence was filed it was not practicable to include, or omit, the subject matter of the amendment in the defence; or\n(c)there are exceptional circumstances to do so.\n(4) The Minister must not permit any additional evidence to be included unless —\n(a)it could not have been obtained with reasonable diligence for use at the time the defence was filed;\n(b)it would likely have an important influence in determining the outcome of the appeal; and\n(c)it is apparently credible."
+   }
+  },
+  {
+   "id": "SG-H1071-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 APPEAL TO MINISTER"
+   },
+   "heading": {
+    "en": "Reply by appellant"
+   },
+   "text": {
+    "en": "10.—(1) An appellant may submit a reply to the Commissioner’s defence not later than 21 days after the date on which a copy of the defence is served on the appellant —\n(a)by filing the reply with the Appeals Secretary; and\n(b)by serving on the Commissioner a copy of the reply, and filing with the Appeals Secretary a notice of service of the copy of the reply.\n(2) The appellant’s reply must be in writing and be signed and dated by a duly authorised officer of the appellant, and must —\n(a)succinctly present the arguments of fact or law in reply to the Commissioner’s defence; and\n(b)be accompanied by any evidence supporting the reply.\n(3) A notice of service mentioned in paragraph (1)(b) must be in the form set out on the Internet website at https://www.mddi.gov.sg."
+   }
+  },
+  {
+   "id": "SG-H1071-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 APPEAL TO MINISTER"
+   },
+   "heading": {
+    "en": "Rejoinder by Commissioner"
+   },
+   "text": {
+    "en": "11.—(1) If the Minister permits, the Commissioner may submit a rejoinder to the appellant’s reply not later than 21 days after the date that the Minister grants that permission —\n(a)by filing the rejoinder with the Appeals Secretary; and\n(b)by serving on the appellant a copy of the rejoinder and filing with the Appeals Secretary a notice of service of the copy of the rejoinder.\n(2) The Commissioner’s rejoinder must be in writing and be signed and dated by a duly authorised officer, and must —\n(a)succinctly present the arguments of fact or law in response to the appellant’s reply; and\n(b)be accompanied by any evidence supporting the rejoinder.\n(3) A notice of service mentioned in paragraph (1)(b) must be in the form set out on the Internet website at https://www.mddi.gov.sg."
+   }
+  },
+  {
+   "id": "SG-H1071-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 APPEAL TO MINISTER"
+   },
+   "heading": {
+    "en": "New matter in reply or rejoinder prohibited"
+   },
+   "text": {
+    "en": "12.—(1) Any reply by an appellant to a defence must only address matters raised in the defence, and any rejoinder by the Commissioner to a reply must only address matters raised in the reply.\n(2) The Minister may disregard any matter in a reply or a rejoinder that was included in contravention of paragraph (1)."
+   }
+  },
+  {
+   "id": "SG-H1071-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 APPEAL TO MINISTER"
+   },
+   "heading": {
+    "en": "Appeals Secretary"
+   },
+   "text": {
+    "en": "13.—(1) The Minister may appoint a public officer as the Appeals Secretary for the purposes of this Part.\n(2) The Appeals Secretary provides, in relation to every appeal under section 35B of the Act, administrative and secretariat support —\n(a)to the Minister; and\n(b)to any Appeals Advisory Panel established under section 35C of the Act.\n(3) The Appeals Secretary must act according to any instructions that the Minister may give from time to time and is, in particular, responsible for —\n(a)the acceptance, transmission, service and custody of documents according to this Part;\n(b)the establishment and maintenance of a list of all notices of appeal filed with the Minister; and\n(c)the keeping of a record of the proceedings of an Appeals Advisory Panel in such form as the chairperson may direct."
+   }
+  },
+  {
+   "id": "SG-H1071-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 2 APPEAL TO MINISTER"
+   },
+   "heading": {
+    "en": "Consolidation of appeal"
+   },
+   "text": {
+    "en": "14.—(1) Where 2 or more pending appeals involve the same organisation or the same or similar issues, the Minister may at any time, on the request of any party to such an appeal or on the Minister’s initiative, direct that the appeals or any issue raised in the appeals be consolidated or heard together.\n(2) Before making a direction under paragraph (1), the Minister must invite all parties to the relevant proceedings to make submissions on whether the direction should be made.\n(3) Where any appeal has been consolidated under paragraph (1), the Minister may make such direction as is necessary for the proper administration of those appeals."
+   }
+  },
+  {
+   "id": "SG-H1071-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 2 APPEAL TO MINISTER"
+   },
+   "heading": {
+    "en": "Failure to comply with direction or time limits"
+   },
+   "text": {
+    "en": "15.—(1) The Minister may, if the Minister considers that the justice of the case so requires, order that a party to an appeal be debarred from taking further part in the appeal proceedings without the permission of the Minister, if the party has habitually and persistently, and without reasonable ground, failed to comply with —\n(a)any regulation concerning the appeal; or\n(b)any direction given by the Minister concerning the appeal.\n(2) The Minister may, in consideration of an appeal, disregard any information or document submitted after expiry of the time limit for the submission of the information or document specified under these Regulations or any direction of the Minister."
+   }
+  },
+  {
+   "id": "SG-H1071-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 2 APPEAL TO MINISTER"
+   },
+   "heading": {
+    "en": "Irregularities"
+   },
+   "text": {
+    "en": "16.—(1) Any irregularity resulting from a failure to comply with any regulation in this Part before the Minister has determined an appeal does not of itself render the appeal proceedings void.\n(2) The Minister may give such direction as the Minister thinks just to cure or waive an irregularity mentioned in paragraph (1) before determining an appeal, if the Minister considers that any person may have been prejudiced by the irregularity."
+   }
+  },
+  {
+   "id": "SG-H1071-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 2 APPEAL TO MINISTER"
+   },
+   "heading": {
+    "en": "Calculation of time"
+   },
+   "text": {
+    "en": "17.—(1) Where the time specified by the Minister or any regulation in this Part for doing any act expires on a Saturday, Sunday or public holiday, the act is done in time if done on the next working day.\n(2) A period expressed in months ends with the expiry of whichever day in the last month is the same day of the month as the day on which the event or the act or thing after or from which the period is to be calculated happens or is done.\n(3) If, in a period expressed in months, the day on which it should expire does not occur in the last month, the period ends with the expiry of the last day of that month."
+   }
+  },
+  {
+   "id": "SG-H1071-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 2 APPEAL TO MINISTER"
+   },
+   "heading": {
+    "en": "Extension of time"
+   },
+   "text": {
+    "en": "18.—(1) Subject to paragraph (2), the Minister may, on the application of a person, extend the time specified for doing anything under this Part or in any direction made by the Minister under this Part, even if the application for the extension is made after the time specified has expired.\n(2) The Minister may only extend the period of time in the following situations, if the Minister is satisfied that it is just to do so because of exceptional circumstances in a particular case:\n(a)filing a notice of appeal under regulation 3 or defence under regulation 8;\n(b)amending a notice of appeal under regulation 6 or defence under regulation 9."
+   }
+  },
+  {
+   "id": "SG-H1071-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 APPEALS ADVISORY PANEL"
+   },
+   "heading": {
+    "en": "Dissolution of Appeals Advisory Panel"
+   },
+   "text": {
+    "en": "19. An Appeals Advisory Panel established in respect of an appeal dissolves when —\n(a)the Minister determines the appeal; or\n(b)the appellant withdraws the appeal in accordance with regulation 7."
+   }
+  }
+ ]
+}

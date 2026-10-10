@@ -1,0 +1,362 @@
+{
+ "id": "TL-H138",
+ "title": {
+  "zh": "Recenseamento Geral da Populaçã及Habitação法律制度",
+  "en": null,
+  "orig": "Regime Jurídico do Recenseamento Geral da População e da Habitação"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p03",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2015-07-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 1/2015",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 20,
+ "chars": 6283,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2015/serie_1/SERIE_I_NO_25.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 20 条；逐字取自官方公报 PDF（public/docs/2015/serie_1/SERIE_I_NO_25.pdf）第 8045–8047 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H138-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Objeto"
+   },
+   "text": {
+    "pt": "A presente lei estabelece as normas a que devem obedecer o Recenseamento Geral da População e o Recenseamento Geral da Habitação, adiante designados abreviadamente por Censos."
+   }
+  },
+  {
+   "id": "TL-H138-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Âmbito"
+   },
+   "text": {
+    "pt": "Os Censos abrangem todo o território nacional de Timor-Leste, incluindo a respetiva população e alojamentos."
+   }
+  },
+  {
+   "id": "TL-H138-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Periodicidade"
+   },
+   "text": {
+    "pt": "1.  Os Censos realizam-se em 2015 e 2020 e, posteriormente, a cada dez anos.\n2.  A recolha de dados ocorre durante o mês de julho de cada ano alvo de Censos."
+   }
+  },
+  {
+   "id": "TL-H138-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Execução"
+   },
+   "text": {
+    "pt": "Os Censos são executados através de questionários de resposta obrigatória e gratuita, deles constando o momento censitário."
+   }
+  },
+  {
+   "id": "TL-H138-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Disposições gerais"
+   },
+   "heading": {
+    "pt": "Objetivos"
+   },
+   "text": {
+    "pt": "Os Censos têm como objetivos a recolha, apuramento, análise e divulgação de informações estatísticas oficiais referentes às características demográficas e socioeconómicas da população abrangida e às características das habitações."
+   }
+  },
+  {
+   "id": "TL-H138-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Entidades intervenientes"
+   },
+   "heading": {
+    "pt": "Entidades intervenientes"
+   },
+   "text": {
+    "pt": "Participam na realização dos Censos as seguintes entidades:\na)  A Direção-Geral de Estatística do Ministério das Finanças, ou outra entidade com atribuições semelhantes conforme definido pelo respetivo diploma orgânico;\nb)  Os organismos de coordenação política e técnica determinados para cada Censos;\nc)  Os serviços dos Ministérios e Secretarias de Estado com atribuições em matéria de recenseamento, de acordo com o diploma orgânico vigente."
+   }
+  },
+  {
+   "id": "TL-H138-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Entidades intervenientes"
+   },
+   "heading": {
+    "pt": "Recenseamentos especiais"
+   },
+   "text": {
+    "pt": "Os serviços competentes organizam e realizam o recenseamento do pessoal afeto aos serviços externos das embaixadas e consulados de Timor-Leste, segundo as instruções emitidas pela Direção-Geral de Estatística do Ministério das Finanças."
+   }
+  },
+  {
+   "id": "TL-H138-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Financiamento e despesas"
+   },
+   "heading": {
+    "pt": "Complemento remuneratório"
+   },
+   "text": {
+    "pt": "Os funcionários e agentes da Administração Pública que exerçam especificamente funções de coordenação e controlo dos trabalhos de recolha e tratamento de dados dos Censos, bem como os contratados especificamente para o mesmo efeito, têm direito a um complemento remuneratório nos termos a fixar por despacho pelo membro do Governo responsável pela área das Finanças."
+   }
+  },
+  {
+   "id": "TL-H138-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Financiamento e despesas"
+   },
+   "heading": {
+    "pt": "Financiamento"
+   },
+   "text": {
+    "pt": "Os Censos são financiados por verbas inscritas no Orçamento Geral do Estado e, eventualmente, por doações dos parceiros de desenvolvimento."
+   }
+  },
+  {
+   "id": "TL-H138-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Proteção dos dados pessoais"
+   },
+   "heading": {
+    "pt": "Segredo estatístico"
+   },
+   "text": {
+    "pt": "1.  O segredo estatístico visa salvaguardar a privacidade dos cidadãos, preservar a concorrência entre os agentes económicos e garantir a confiança dos informadores no sistema estatístico.\n2.  Todos os dados estatísticos de carácter individual recolhidos por uma das entidades intervenientes definidas pela presente lei são de natureza confidencial, pelo que, não podem ser discriminadamente inseridos em quaisquer publicações ou fornecidas a quaisquer pessoas ou entidades, nem deles pode ser passada certidão.\n3.  Não estão abrangidas pela proibição referida no número anterior a Direção-Geral de Impostos, bem como pessoas e entidades devidamente autorizadas, por razões de estudos e de investigação científica, nos termos a regular em diploma próprio do Governo, a publicar dentro de cento e oitenta dias a contar da entrada em vigor da presente lei.\n4.  Os dados estatísticos constituem segredo profissional para todos os funcionários, agentes e contratados que deles tomem conhecimento, assim como para as pessoas e entidades referidas no número anterior.\n5.   Os dados estatísticos individuais não podem ser divulgados sem o consentimento expresso, por escrito, das pessoas singulares a que dizem respeito.\n6.  Sem prejuízo do disposto no número anterior, os dados estatísticos de pessoas singulares que digam respeito à sua atividade profissional ou empresarial não estão abrangidos por segredo estatístico, nomeadamente quando sejam objeto de publicidade devido a disposição legal, por constarem de registos públicos."
+   }
+  },
+  {
+   "id": "TL-H138-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Proteção dos dados pessoais"
+   },
+   "heading": {
+    "pt": "Dados pessoais"
+   },
+   "text": {
+    "pt": "1.  Os dados estatísticos sobre pessoas singulares alvo de segredo estatístico são considerados dados pessoais, de acordo com o artigo 38.º da Constituição.\n2. Os questionários  contendo dados pessoais são conservados somente durante o período necessário à produção da informação estatística, devendo ser eliminados até cinco anos após o momento censitário.\n3.  Os dados  pessoais recolhidos nos questionário são tornados  anónimos quando transpostos para suporte informático."
+   }
+  },
+  {
+   "id": "TL-H138-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Proteção dos dados pessoais"
+   },
+   "heading": {
+    "pt": "Acesso aos dados estatísticos"
+   },
+   "text": {
+    "pt": "O acesso aos dados estatísticos, incluindo os obtidos ao abrigo da presente lei, é regulado em diploma próprio do Governo a publicar conforme previsto no n.º 3 do artigo 10.º da presente lei."
+   }
+  },
+  {
+   "id": "TL-H138-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Deveres a observar durante a recolha e tratamento de dados"
+   },
+   "heading": {
+    "pt": "Deveres das entidades intervenientes"
+   },
+   "text": {
+    "pt": "Recaem sobre os funcionários, agentes e contratados com funções de coordenação, controlo ou recolha e tratamento de dados estatísticos dos Censos os seguintes deveres:\na)  O dever de sigilo sobre os dados estatísticos a que tenham acesso e que sejam alvo de segredo estatístico, o qual se mantém mesmo após a cessação do vínculo laboral com a entidade interveniente nos Censos e que implica a assinatura de um compromisso de honra, nos termos prescritos pelo artigo 5.º do Decreto-Lei n.º 17/ 2003, de 1 de outubro;\nb) O dever de assiduidade durante a execução dos questionários e o tratamento dos dados neles contidos;\nc) O dever de zelo, o que implica o cumprimento fiel do questionário e a reprodução fidedigna das respostas obtidas."
+   }
+  },
+  {
+   "id": "TL-H138-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Infrações e sanções"
+   },
+   "heading": {
+    "pt": "Ilícitos contraordenacionais"
+   },
+   "text": {
+    "pt": "1.   É punido com coima de $500 (quinhentos dólares norteamericanos) quem, sendo obrigado a fornecer informação nos termos da presente lei:\na)   Não fornecer informação no prazo devido;\nb) Fornecer informações incorretas, insuficientes ou suscetíveis de induzir em erro.\n2.   É ainda punido com coima de $ 1.000 (mil dólares norteamericanos) quem se opuser ativamente às diligências de recolha de dados estatísticos face a terceiros.\n3.   É também punido com coima de $ 2.000 (dois mil dólares norte-americanos) quem utilizar os dados estatísticos individuais em contravenção dos artigos 10.º e 11.º do presente regime, sem prejuízo da responsabilidade disciplinar e/ou criminal emergente dos mesmos factos."
+   }
+  },
+  {
+   "id": "TL-H138-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Infrações e sanções"
+   },
+   "heading": {
+    "pt": "Ilícito penal"
+   },
+   "text": {
+    "pt": "1.  A violação de segredo estatístico é considerada violação de segredo nos termos previstos no artigo 184.º do Código Penal.\n2.  Quem desobedecer ao pedido de recolha de dados estatísticos, incluindo a obstrução face a terceiros, incorre no crime de desobediência, segundo o disposto no artigo\n244.º do Código Penal."
+   }
+  },
+  {
+   "id": "TL-H138-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII Disposições finais"
+   },
+   "heading": {
+    "pt": "Divulgação"
+   },
+   "text": {
+    "pt": "Os órgãos de comunicação social tutelados pelo Estado devem colaborar na divulgação dos Censos."
+   }
+  },
+  {
+   "id": "TL-H138-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII Disposições finais"
+   },
+   "heading": {
+    "pt": "Variáveis primárias"
+   },
+   "text": {
+    "pt": "As variáveis primárias a observar são definidas por decretolei."
+   }
+  },
+  {
+   "id": "TL-H138-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII Disposições finais"
+   },
+   "heading": {
+    "pt": "Regulação"
+   },
+   "text": {
+    "pt": "Compete ao Governo aprovar os diplomas necessários à implementação da presente lei."
+   }
+  },
+  {
+   "id": "TL-H138-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII Disposições finais"
+   },
+   "heading": {
+    "pt": "Norma revogatória"
+   },
+   "text": {
+    "pt": "É revogada a Lei n.º 5/2010 de 21 de abril."
+   }
+  },
+  {
+   "id": "TL-H138-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII Disposições finais"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

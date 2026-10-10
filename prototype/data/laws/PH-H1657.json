@@ -1,0 +1,65 @@
+{
+ "id": "PH-H1657",
+ "title": {
+  "zh": null,
+  "en": "An Act Exempting Under Certain Conditions Profits and Surplus Improperly Accumulated by Corporations from the Additional Corporate Income Tax, Amending for the Purpose Subsection (a), Section Twenty-Five of the National Internal Revenue Code",
+  "orig": "An Act Exempting Under Certain Conditions Profits and Surplus Improperly Accumulated by Corporations from the Additional Corporate Income Tax, Amending for the Purpose Subsection (a), Section Twenty-Five of the National Internal Revenue Code"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p23",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1957-06-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1823",
+ "officialCode": null,
+ "topics": [
+  "tax",
+  "company"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1299,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1957/ra_1823_1957.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1957/ra_1823_1957.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1657-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Subsection (a), section twenty-five of the National Internal Revenue Code, is amended to read as follows:\n\"Sec. 25. Additional tax on corporations improperly accumulating profits or surplus. (a) Imposition of tax. If any corporation, except banks, insurance companies, or personal holding companies, whether domestic or foreign, is formed or availed of for the purpose of preventing the imposition of the tax upon its shareholders or members or the shareholders or members of another corporation, through the medium of permitting its gains and profits to accumulate instead of being divided or distributed, there is levied and assessed against such corporation, for each taxable year, a tax equal to twenty-five per centum of the undistributed portion of its accumulated profits or surplus which shall be in addition to the tax imposed by section twenty-four, and shall be computed, collected and paid in the same manner and subject to the same provisions of law, including penalties, as that tax: Provided , That no such tax shall be levied upon any accumulated profits or surplus, if they are invested in any dollar-producing or dollar-saving industry or in the purchase of bonds issued by the Central Bank of the Philippines.\""
+   }
+  },
+  {
+   "id": "PH-H1657-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
+   }
+  }
+ ]
+}

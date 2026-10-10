@@ -1,0 +1,75 @@
+{
+ "id": "PH-H3410",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Republic Act Numbered Three Hundred Ninety-One and to Authorize the Appropriation of Funds to Open Courses of Collegiate Level in the Roxas Memorial Agricultural School at Guinobatan, Albay",
+  "orig": "An Act to Amend Republic Act Numbered Three Hundred Ninety-One and to Authorize the Appropriation of Funds to Open Courses of Collegiate Level in the Roxas Memorial Agricultural School at Guinobatan, Albay"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p48",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1965-06-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4208",
+ "officialCode": null,
+ "topics": [
+  "education",
+  "environment"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 927,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1965/ra_4208_1965.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1965/ra_4208_1965.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3410-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section one of the Republic Act Numbered Three hundred ninety-one is hereby amended to read as follows:\n\"Sec. 1. The Secretary of Education, upon the recommendation of the Director of Vocational Education, is hereby authorized to open in the Roxas Memorial Agricultural School at Guinobatan, Albay, courses of four (4) years teacher education leading to the degree of Bachelor of Science in Agricultural Education (BSAE) and four (4) years home technology leading to the degree of Bachelor of Science in Home Technology (BSHT).\""
+   }
+  },
+  {
+   "id": "PH-H3410-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The sum of three hundred thousand pesos, or so much thereof as may be necessary, is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purposes of this Act. Thereafter, the necessary sum for the purpose shall be included in the General Appropriations Act."
+   }
+  },
+  {
+   "id": "PH-H3410-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
+   }
+  }
+ ]
+}

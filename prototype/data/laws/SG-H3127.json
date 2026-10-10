@@ -1,0 +1,526 @@
+{
+ "id": "SG-H3127",
+ "title": {
+  "zh": null,
+  "en": "Medicines (Clinical Trials) Regulations 2016",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p39",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MA1975-S335-2016",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 31,
+ "chars": 62359,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MA1975-S335-2016?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 31 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3127-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 GENERAL"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Medicines (Clinical Trials) Regulations 2016 and come into operation on 1 November 2016."
+   }
+  },
+  {
+   "id": "SG-H3127-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 GENERAL"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations, unless the context otherwise requires —\n“adult” means a person who —\n(a)is at least 21 years of age; or\n(b)is below 21 years of age, and is or was married;\n“adverse drug reaction” means any untoward and unintended response in a subject to an investigational medicinal product which is related to any dose administered to that subject;\n“adverse event” means any untoward medical occurrence in a subject to whom an investigational medicinal product has been administered, including any occurrence which is not necessarily caused by or related to that product;\n“amendment” means an amendment to —\n(a)any term of an application for a clinical trial certificate to conduct a clinical trial; or\n(b)any particulars or documents (including a protocol) accompanying such application;\n“appropriate non‑proprietary name”, in relation to an active ingredient of a medicinal product, means —\n(a)the name or synonym of the active ingredient described in the relevant monograph appearing in the latest edition of any of the following publications:\n(i)the British Pharmacopoeia;\n(ii)the European Pharmacopoeia;\n(iii)the United States Pharmacopoeia and the National Formulary;\n(b)where the active ingredient is not described in a monograph in any such publication, its international non‑proprietary name; or\n(c)where paragraph (a) or (b) is not applicable, the accepted scientific name or other name descriptive of the true nature of the active ingredient;\n“approved permanent premises”, “approved conveyance” and “permanent premises” have the meanings given by section 2(1) of the Healthcare Services Act 2020;\n[S 440/2023 wef 26/06/2023]\n“Authority’s website” means the Authority’s Internet website at http://www.hsa.gov.sg;\n“auxiliary medicinal product” means a medicinal product used for the needs of a clinical trial as described in the protocol, but not as an investigational medicinal product;\n“business name”, in relation to a healthcare service licensee, means the name under which the healthcare service licensee is authorised by a licence under the Healthcare Services Act 2020 to carry on the business of providing a licensable healthcare service;\n[S 440/2023 wef 26/06/2023]\n“clinical trial certificate” means a certificate for a clinical trial referred to in regulation 7;\n“clinical trial in an emergency situation” means a clinical trial to determine the safety or efficacy of the investigational medicinal product being tested in the trial on subjects where —\n(a)the subjects are facing a life-threatening situation that necessitates intervention;\n(b)the subjects are unable to consent to being subjects in the trial as a result of their medical condition; and\n(c)it is not feasible to request consents from the legal representatives of the subjects within the window period;\n“healthcare service licensee” means a person who holds a licence under the Healthcare Services Act 2020 to provide a licensable healthcare service;\n[S 440/2023 wef 26/06/2023]\n“institutional review board” means an independent body which —\n(a)is constituted of medical, scientific, and non-scientific members, whose responsibility is to ensure the protection of the rights, safety and wellbeing of subjects by, among other things, reviewing, approving and providing continuing review of the protocol, amendments, and the methods and materials to be used in obtaining and documenting informed consent of the subjects; and\n(b)when Part 4 of the Human Biomedical Research Act 2015 comes into operation, is appointed under that Act;\n[S 440/2023 wef 31/12/2021]\n“investigational medicinal product” means —\n(a)a medicinal product; or\n(b)a placebo,\nthat is to be tested or used as a reference in a clinical trial;\n“investigator” means an investigator of a clinical trial;\n“investigator’s brochure” means a document containing a summary of the clinical and non-clinical data relating to an investigational medicinal product relevant to the study of the product in subjects;\n[Deleted by S 440/2023 wef 26/06/2023]\n“licensable healthcare service” has the meaning given by section 3(1) of the Healthcare Services Act 2020;\n[S 440/2023 wef 26/06/2023]\n“minor” means a person who is below 21 years of age, and is not and was never married;\n[Deleted by S 812/2023 wef 18/12/2023]\n“observational trial” means a clinical trial of one or more licensed medicinal products, where all of the following conditions are met in respect of each product:\n(a)the product is prescribed by a qualified practitioner to a patient in the usual manner in accordance with the terms of the product licence;\n(b)the decision to prescribe the product to the patient is clearly separated from the decision to include the patient in the trial;\n(c)the assignment of any patient involved in the trial to a particular therapeutic strategy in which the product is used is not decided in advance by a protocol but falls within the current practice of the qualified practitioner carrying out the trial;\n“principal investigator” means a principal investigator of a clinical trial referred to in regulation 5(1);\n“principles of good clinical practice” means the principles specified in the First Schedule;\n“proprietary name” means a word or words used in connection with the supply of a medicinal product for the purpose of indicating that it is the product of a particular person who manufactures, selects the name of, certifies or deals with the medicinal product, or offers it for supply;\n“protocol” means a document that describes the objectives, design, methodology, statistical considerations and organisation of a clinical trial;\n“qualified practitioner” means —\n(a)a registered medical practitioner under the Medical Registration Act 1997; or\n[S 440/2023 wef 31/12/2021]\n(b)a registered dentist under the Dental Registration Act 1999 whose name appears in the first division of the Register of Dentists maintained and kept under section 13(1)(a) of that Act;\n[S 440/2023 wef 31/12/2021]\n“relevant institutional review board”, in relation to a clinical trial, means the institutional review board that approved the trial;\n“remote service kiosk” has the meaning given by regulation 2(1) of the Healthcare Services (Outpatient Medical Service) Regulations 2023 (G.N. No. S 410/2023);\n[S 440/2023 wef 26/06/2023]\n“serious adverse drug reaction” means any adverse drug reaction which —\n(a)results in death;\n(b)is life-threatening;\n(c)requires in-patient hospitalisation or prolongation of existing hospitalisation;\n(d)results in persistent or significant disability or incapacity; or\n(e)consists of a congenital anomaly or birth defect;\n“serious adverse event” means any adverse event that —\n(a)results in death;\n(b)is life-threatening;\n(c)requires in-patient hospitalisation or prolongation of existing hospitalisation;\n(d)results in persistent or significant disability or incapacity; or\n(e)consists of a congenital anomaly or birth defect;\n“sponsor” means a person who takes responsibility for the initiation, management or financing of a clinical trial;\n“subject” means a human being, whether or not a patient, who participates in a clinical trial —\n(a)as a recipient of an investigational medicinal product to which the trial relates, or of some other treatment or procedure in that trial; or\n(b)as a control, without receiving any such investigational medicinal product, or any such treatment or procedure;\n“substantial amendment” means an amendment —\n(a)which changes a sponsor or principal investigator of a clinical trial; or\n(b)which is likely to affect to a significant degree —\n(i)the safety, or physical or mental integrity, of any subject of a clinical trial;\n(ii)the scientific value of a clinical trial;\n(iii)the conduct or management of a clinical trial; or\n(iv)the quality or safety of any investigational medicinal product used in a clinical trial;\n“temporary premises” means any premises other than permanent premises;\n[S 440/2023 wef 26/06/2023]\n“trial site” means a place where activities relating to a clinical trial are conducted;\n“unexpected serious adverse drug reaction” or “USADR” means a serious adverse drug reaction, the nature and severity of which is not consistent with the information about the investigational medicinal product in question, set out —\n(a)in the case of a licensed medicinal product, in the product information leaflet or the investigator’s brochure relating to the product; and\n(b)in the case of a medicinal product that is not licensed, in the investigator’s brochure relating to the product;\n“window period” means the period, determined based on scientific evidence, within which an investigational medicinal product must be administered to a subject for it to have the intended potential direct benefit to the subject.\n(2) For the purposes of these Regulations —\n(a)a reference to a person who lacks capacity to consent to the person or another person being a subject, is a reference to a person who lacks capacity to so consent within the meaning of section 4 of the Mental Capacity Act 2008; and\n[S 440/2023 wef 31/12/2021]\n(b)a reference to a person who has such capacity is a reference to a person who does not lack such capacity.\n(3) A reference in these Regulations to a legal representative of a subject or a prospective subject, is a reference to a person having capacity who is —\n(a)where the subject or prospective subject is a minor —\n(i)a deputy appointed under the Mental Capacity Act 2008 in relation to the giving or refusing of consent on behalf of the minor to being a subject; or\n[S 440/2023 wef 31/12/2021]\n(ii)if there is no deputy referred to in sub‑paragraph (i), an adult parent, or (if there is no adult parent to act as a legal representative of the minor) a guardian, of the minor; and\n(b)where the subject or prospective subject is an adult —\n(i)the donee or deputy appointed pursuant to or under the Mental Capacity Act 2008 in relation to the giving or refusing of consent on behalf of the adult to be a subject; or\n[S 440/2023 wef 31/12/2021]\n(ii)where there is no donee or deputy referred to in sub‑paragraph (i), subject to paragraph (4), any of the following persons in descending order of priority:\n(A)a spouse of the adult;\n(B)an adult child of the adult;\n(C)a parent or guardian of the adult;\n(D)an adult sibling of the adult;\n(E)any other adult named by the adult (when the adult did not lack capacity) as someone to consult on the issue of the adult being a subject.\n(4) For the purpose of paragraph (3)(b)(ii), all of the following apply:\n(a)the order of priority applies in the absence of actual notice of any contrary indication given by the subject or prospective subject (when the subject or prospective subject did not lack capacity);\n(b)a person referred to in that paragraph cannot be a legal representative of the subject or prospective subject if the person is also a donee or deputy and there is an express provision in the lasting power of attorney or appointment by the court that the donee or deputy is not authorised to give consent to the adult being a subject;\n(c)a person referred to in paragraph (3)(b)(ii)(B), (C), (D) or (E) —\n(i)may be a legal representative only if all persons having a higher priority compared to that person are not available or cannot be a legal representative by reason of sub‑paragraph (a) or (b); and\n(ii)cannot be a legal representative if any person having an equal or a higher priority compared to that person (other than a person who cannot be a legal representative by reason of sub‑paragraph (a) or (b)) has objected to the adult being a subject."
+   }
+  },
+  {
+   "id": "SG-H3127-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 GENERAL"
+   },
+   "heading": {
+    "en": "Scope of Regulations"
+   },
+   "text": {
+    "en": "3. These Regulations apply to all clinical trials of medicinal products that are not observational trials."
+   }
+  },
+  {
+   "id": "SG-H3127-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Sponsors"
+   },
+   "text": {
+    "en": "4.—(1) Every clinical trial must have one, and only one sponsor.\n(2) Despite paragraph (1), the Authority may, in its discretion, allow more than one sponsor for a clinical trial in circumstances where all the sponsors of the trial appoint a lead sponsor from amongst themselves.\n(3) For a clinical trial referred to in paragraph (2) —\n(a)an obligation of the sponsor in regulations 6, 8(1), 10(3), 11(1) and (3), 12 and 25(1)(a)(ii) and (b)(ii) and (2)(b) is an obligation of the lead sponsor of the trial; and\n(b)an obligation of the sponsor in any other provision of these Regulations is an obligation of each of the sponsors of the trial in relation to the part of the trial for which the sponsor has assumed responsibilities as sponsor (unless the provision specifies otherwise) and a reference to the trial in that provision is to that part of the trial.\n(4) Without prejudice to paragraph (3) —\n(a)the sponsor, or in a clinical trial with more than one sponsor, the lead sponsor, must —\n(i)evaluate during the trial on an ongoing basis the safety of the investigational medicinal product; and\n(ii)promptly notify all principal investigators of the trial and, in a clinical trial with more than one sponsor, all other sponsors and all principal investigators of the trial, of —\n(A)any information which suggests that the safety of the subjects of the trial could be adversely affected (including of any USADR occurring in any subject of the trial); and\n(B)any findings which could impact the conduct of the trial; and\n(b)in a clinical trial with more than one sponsor, every sponsor that is not a lead sponsor must —\n(i)promptly report to the lead sponsor any serious adverse event which occurs in a subject during the trial, and furnish to the lead sponsor a detailed written report on the event as soon as possible thereafter, other than any serious adverse event specified in the protocol as not requiring immediate reporting;\n(ii)promptly report to the lead sponsor any information which suggests that the safety of any subject of the trial could be adversely affected;\n(iii)promptly report to the lead sponsor any findings which could impact the conduct of the trial; and\n(iv)provide such information to the lead sponsor as may be necessary for the lead sponsor to comply with the obligations of the lead sponsor under these Regulations in relation to the trial.\n(5) The sponsor may delegate all or any of the sponsor’s functions under these Regulations to any person, but any such arrangement does not affect the responsibility of the sponsor.\n(6) The sponsor and a person to whom the sponsor has delegated the sponsor’s functions under paragraph (5) must each carry out their respective functions in accordance with the principles of good clinical practice."
+   }
+  },
+  {
+   "id": "SG-H3127-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Principal investigator, etc."
+   },
+   "text": {
+    "en": "5.—(1) The sponsor must ensure that the clinical trial is conducted by or under the supervision of a principal investigator who —\n(a)is a qualified practitioner; and\n(b)is qualified by training and experience, and has adequate resources, to properly conduct the trial.\n(2) A principal investigator must declare to the institutional review board whose approval for the clinical trial is being sought, every direct and indirect financial interest which the principal investigator, and any person assisting the principal investigator in the trial, has in the trial.\n(3) A principal investigator must ensure that —\n(a)the medical care given to a subject in the clinical trial, and all medical decisions relating to the trial made on behalf of the subject, are the responsibility of at least one investigator who is a qualified practitioner referred to in paragraph (a) of the definition of “qualified practitioner” in regulation 2(1); and\n(b)the dental care given to a subject in the trial, and all dental decisions relating to the trial made on behalf of the subject, are the responsibility of at least one investigator who is a qualified practitioner referred to in paragraph (b) of the definition of “qualified practitioner” in regulation 2(1).\n(4) Only the following persons in a clinical trial may treat, or administer any investigational medicinal product of the trial to, a subject of the trial:\n(a)an investigator who is a qualified practitioner;\n(b)a person who is assisting, and acting under the instructions of, such investigator.\n(5) Despite paragraph (4), in an emergency, any qualified practitioner may treat a subject if it is in the interest of the subject.\n(6) A principal investigator and any person assisting the principal investigator must conduct the clinical trial in accordance with these Regulations."
+   }
+  },
+  {
+   "id": "SG-H3127-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Investigator’s brochure"
+   },
+   "text": {
+    "en": "6. The sponsor of a proposed clinical trial must ensure that the investigator’s brochure for the trial —\n(a)presents the information it contains in a concise, simple, objective, balanced and non-promotional form that enables a clinician or potential investigator to understand it and make an unbiased risk-benefit assessment of the appropriateness of the trial; and\n(b)is kept up-to-date."
+   }
+  },
+  {
+   "id": "SG-H3127-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Requirement for clinical trial certificates"
+   },
+   "text": {
+    "en": "7. A person must not commence or conduct a clinical trial unless —\n(a)a clinical trial certificate has or clinical trial certificates have been issued for the trial in accordance with regulation 8; and\n(b)the conduct of the trial has been approved by an institutional review board."
+   }
+  },
+  {
+   "id": "SG-H3127-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Application for clinical trial certificates"
+   },
+   "text": {
+    "en": "8.—(1) The sponsor must apply to the Authority for a clinical trial certificate for each principal investigator of the clinical trial, before the commencement of the trial.\n(2) The application for any clinical trial certificate must be made in the form and manner specified on the Authority’s website.\n(3) Where the application is for a clinical trial certificate for a clinical trial in an emergency situation, the Authority must not issue any clinical trial certificate for the trial unless a principal investigator who is conducting the trial and 2 specialists who are not conducting the trial certify in writing that —\n(a)the trial needs to be conducted on potential subjects who are facing a life-threatening situation to determine the safety or efficacy of a medicinal product;\n(b)available treatments or procedures are unproven or unsatisfactory;\n(c)there is a reasonable prospect that participation in the trial will directly benefit the potential subjects because —\n(i)the potential subjects are facing a life-threatening situation that necessitates intervention;\n(ii)the appropriate non-clinical and clinical studies have been conducted, and the information derived from those studies and related evidence support the potential for the proposed use of the medicinal product to provide a direct benefit to the potential subjects; and\n(iii)the risks associated with the trial are reasonable in relation to what is known about —\n(A)the medical condition of the potential subjects;\n(B)the risks and benefits of standard therapy, if any; and\n(C)the risks and benefits of the proposed use of the medicinal product;\n(d)the potential subjects are unable to consent to being subjects as a result of their medical condition;\n(e)it is not feasible to obtain consent from the legal representatives of the potential subjects within the window period;\n(f)there is no reasonable way to identify prospectively the individuals likely to become eligible for participation in the trial; and\n(g)the trial cannot practicably be carried out if the consents referred to in regulation 16 must be obtained."
+   }
+  },
+  {
+   "id": "SG-H3127-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Conditions of clinical trial certificates"
+   },
+   "text": {
+    "en": "9.—(1) The Authority may issue a clinical trial certificate for a principal investigator subject to such conditions as the Authority thinks necessary and may, from time to time, by notice in writing to the sponsor —\n(a)modify or remove any condition of the certificate; or\n(b)attach any new condition to the certificate.\n(2) The conditions referred to in paragraph (1) may include a condition requiring the sponsor to obtain and maintain insurance to provide compensation in the event of injury or loss arising from the clinical trial on such terms as the Authority may approve.\n(3) The Authority may refuse to issue, or suspend or revoke, any clinical trial certificate.\n(4) Any person aggrieved by a refusal, suspension or revocation referred to in paragraph (3) may appeal to the Minister, whose decision is final."
+   }
+  },
+  {
+   "id": "SG-H3127-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Amendments and substantial amendments to clinical trial, etc."
+   },
+   "text": {
+    "en": "10.—(1) The Authority may, at any time, direct the sponsor to make an amendment (including a substantial amendment) if it appears to the Authority that the amendment is necessary to ensure —\n(a)the safety or scientific validity of the clinical trial;\n(b)compliance with the principles of good clinical practice in relation to the clinical trial; or\n(c)compliance with the conditions of a clinical trial certificate,\nand the sponsor must comply with the direction.\n(2) Subject to regulation 21, the sponsor must not make a substantial amendment, except with the approval of the Authority.\n(3) An application for approval of a substantial amendment referred to in paragraph (2) must be made by the sponsor in the form and manner specified on the Authority’s website.\n(4) The sponsor must —\n(a)keep records of all amendments; and\n(b)send such records, or copies of such records, to the Authority, in accordance with any request by the Authority for the same."
+   }
+  },
+  {
+   "id": "SG-H3127-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Notification of serious breaches and urgent safety measures"
+   },
+   "text": {
+    "en": "11.—(1) The sponsor must notify the Authority in writing of any serious breach during the clinical trial of any of the following, as soon as possible and in any event not later than 7 days after becoming aware of the breach:\n(a)the principles of good clinical practice;\n(b)the protocol relating to the trial, as amended from time to time in accordance with regulation 10;\n(c)these Regulations.\n(2) Where the relevant institutional review board of a clinical trial requires any person to report to it any serious breach during the trial of any of the following, the person must do so in accordance with the requirements of the board:\n(a)the principles of good clinical practice;\n(b)the protocol relating to the trial, as amended from time to time in accordance with regulation 10.\n(3) The sponsor must, as soon as possible and in any event not later than 7 days after the date any urgent safety measure referred to in regulation 21 is taken in relation to a subject of the clinical trial, give written notice to the Authority of the measure taken and the circumstances giving rise to the measure.\n(4) In this regulation, “serious breach” means a breach during a clinical trial which is likely to affect to a significant degree —\n(a)the safety, or physical or mental integrity, of any subject of the trial; or\n(b)the scientific value of the trial."
+   }
+  },
+  {
+   "id": "SG-H3127-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Notification of status of clinical trial"
+   },
+   "text": {
+    "en": "12.—(1) Within 14 days after the end of each reporting period of a clinical trial, the sponsor must provide to the Authority a report on the status of the trial in the form and manner specified on the Authority’s website, which must include the following:\n(a)whether the trial has commenced and, if so, the date of commencement of the trial;\n(b)the number of subjects who have been enrolled at a trial site;\n(c)the number of subjects who have completed the trial at a trial site;\n(d)whether any audit has been conducted on the trial;\n(e)whether the trial is concluded, terminated or suspended and, if so, the date of the conclusion or termination, or the date of suspension.\n(2) In addition to paragraph (1), the Authority may at any time require the sponsor to give the Authority a report on the status of a clinical trial immediately or within such other time as the Authority specifies; and the sponsor must comply with the requirement.\n(3) The sponsor must —\n(a)subject to paragraph (4), notify the Authority of the conclusion of the clinical trial within 30 days after the date of such conclusion; and\n(b)submit to the Authority a final report of the trial within one year after the date of such conclusion, or such longer period as the Authority may allow in any particular case.\n(4) The sponsor must notify the Authority of any suspension of the clinical trial, or its termination (if the termination takes place before the date of conclusion of the trial or the concluding event specified in the protocol for the trial), within 15 days after the date of the suspension or termination.\n(5) The notifications referred to in paragraphs (3) and (4) must be in the form and manner required by the Authority.\n(6) In this regulation, a reference to a reporting period of a clinical trial is a reference to —\n(a)a period of 6 months starting on the day a clinical trial certificate for the trial is issued; and\n(b)each successive period of 6 months of the trial, excluding any such period of 6 months during which the sponsor notifies the Authority of the conclusion or termination of the trial under paragraph (3) or (4), as the case may be."
+   }
+  },
+  {
+   "id": "SG-H3127-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Conduct of clinical trials: good clinical practice"
+   },
+   "text": {
+    "en": "13.—(1) Every person conducting a clinical trial must do so in accordance with the principles of good clinical practice.\n(2) The sponsor must put and keep in place arrangements for the purpose of ensuring that the principles of good clinical practice are satisfied or adhered to by all persons involved in conducting the clinical trial."
+   }
+  },
+  {
+   "id": "SG-H3127-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Conduct of clinical trials: in accordance with clinical trial certificates"
+   },
+   "text": {
+    "en": "14. Subject to regulation 21, every person conducting a clinical trial must do so in accordance with —\n(a)the protocol relating to the trial; and\n(b)the conditions of any clinical trial certificate for the trial,\nas may be amended from time to time in accordance with regulation 10."
+   }
+  },
+  {
+   "id": "SG-H3127-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Place of clinical trial"
+   },
+   "text": {
+    "en": "15. The sponsor and a principal investigator must ensure that the clinical trial is conducted only at such trial site as may be specified in the clinical trial certificate."
+   }
+  },
+  {
+   "id": "SG-H3127-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Consent of subjects, etc., in clinical trials"
+   },
+   "text": {
+    "en": "16.—(1) A principal investigator must ensure that no person is used as a subject in the clinical trial except in accordance with this regulation and regulations 17 to 20, as may be applicable.\n(2) Subject to paragraph (3), before an adult can be a subject —\n(a)a full and reasonable explanation of all of the matters referred to in regulation 19(1)(a) to (u), in accordance with regulation 19(3), must be given to the adult; and\n(b)the adult must consent to being a subject.\n(3) Despite paragraph (2), where an investigator of the trial who is a qualified practitioner, and another qualified practitioner who is a registered medical practitioner who is not conducting the clinical trial, certify in writing that —\n(a)the adult lacks capacity to consent to being a subject; and\n(b)it is not likely that the adult will regain capacity within the window period,\nthen, the consent of the adult need not be obtained if the conditions in paragraph (4) are met.\n(4) For the purposes of paragraph (3), the conditions are all of the following:\n(a)a full and reasonable explanation of all of the matters referred to in regulation 19(1)(a) to (u), in accordance with regulation 19(3), is given to the adult’s legal representative, and the adult’s legal representative —\n(i)consents to the adult being a subject; and\n(ii)if the legal representative is below 21 years of age, has sufficient understanding and intelligence to give the consent;\n(b)it is established that there is a reasonable prospect that participation in the clinical trial will directly benefit the adult, unless —\n(i)the objectives of the trial cannot be met by means of a trial in subjects who can give consent personally;\n(ii)the trial is conducted in subjects having a disease or condition for which the medicinal product being tested in the trial is intended;\n(iii)there is some direct benefit for the group of subjects involved in the trial;\n(iv)the foreseeable risks to the subjects involved in the trial are low; and\n(v)the negative impact on the wellbeing of subjects involved in the trial is minimised and low.\n(5) Subject to paragraph (6), before a minor can be a subject, a full and reasonable explanation of all of the matters referred to in regulation 19(1)(a) to (u), in accordance with regulation 19(3), must be given to the minor and the minor’s legal representative, and —\n(a)the minor and the minor’s legal representative must consent to the minor being a subject; and\n(b)if the legal representative is below 21 years of age, the legal representative must have sufficient understanding and intelligence to give the consent.\n(6) Despite paragraph (5), where the minor lacks capacity to give consent to being a subject, or the minor lacks sufficient understanding and intelligence to give such consent, then, the consent of the minor need not be obtained if the conditions in paragraph (7) are met.\n(7) For the purposes of paragraph (6), the conditions are all of the following:\n(a)a full and reasonable explanation of all of the matters referred to in regulation 19(1)(a) to (u), in accordance with regulation 19(3), is given to the minor’s legal representative, and the minor’s legal representative —\n(i)consents to the minor being a subject; and\n(ii)if the legal representative is below 21 years of age, has sufficient understanding and intelligence to give the consent;\n(b)it is established that there is a reasonable prospect that participation in the clinical trial will directly benefit the minor, unless —\n(i)the objectives of the trial cannot be met by means of a trial in subjects who can give consent personally;\n(ii)the trial is conducted in subjects having a disease or condition for which the medicinal product being tested in the trial is intended;\n(iii)there is some direct benefit for the group of subjects involved in the trial;\n(iv)the foreseeable risks to the subjects involved in the trial are low; and\n(v)the negative impact on the wellbeing of subjects involved in the trial is minimised and low.\n(8) For the purposes of paragraphs (4)(b) and (7)(b), participation in a clinical trial does not have any reasonable prospect of direct benefit to a person unless —\n(a)appropriate non-clinical and clinical studies have been conducted, and the information derived from those studies and related evidence support the potential for the proposed use of the medicinal product to provide a direct benefit to the person; and\n(b)the risks associated with the trial are reasonable in relation to what is known about —\n(i)the medical condition of the person;\n(ii)the risks and benefits of standard therapy, if any; and\n(iii)the risks and benefits of the proposed use of the medicinal product.\n(9) If a subject is an adult referred to in paragraph (3) or a minor referred to in paragraph (6), and the adult or minor subsequently regains capacity to consent to being a subject, the principal investigator must ensure that, at the earliest feasible opportunity —\n(a)the adult or minor is given a full and reasonable explanation of all of the matters referred to in regulation 19(1)(a) to (u), in accordance with regulation 19(3); and\n(b)the adult’s or minor’s consent to continue being a subject is obtained.\n(10) If the adult or minor referred to in paragraph (9) refuses to consent, the principal investigator must ensure that the adult or minor ceases to be a subject in the clinical trial."
+   }
+  },
+  {
+   "id": "SG-H3127-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Consent of subjects, etc., in clinical trials in emergency situations"
+   },
+   "text": {
+    "en": "17.—(1) The consents referred to in regulation 16 need not be obtained in accordance with that regulation in order for a person to be a subject in a clinical trial in an emergency situation if all of the following are satisfied:\n(a)the Authority has issued the clinical trial certificate or clinical trial certificates required for the trial, as a clinical trial in an emergency situation;\n(b)the relevant institutional review board of the trial has reviewed and approved —\n(i)the circumstances in which the consents referred to in regulation 16 need not be obtained for the purposes of the trial; and\n(ii)the procedure to be adopted in the trial to ensure that paragraphs (3), (4), (5) and (7) are complied with;\n(c)an investigator of the trial who is a specialist and one specialist who is not conducting the trial certify in writing before using the person in the trial that —\n(i)the person is facing a life-threatening situation which necessitates intervention;\n(ii)the person is unable to consent as a result of the person’s medical condition;\n(iii)it is not feasible to obtain consent from the legal representative of the person within the window period; and\n(iv)neither the person nor the legal representative of the person nor any member of the person’s family has informed any investigator of any objection to the person being a subject in the trial.\n(2) Despite paragraph (1), paragraphs (3) to (7) must be complied with.\n(3) If the consent of the person who is to be or is a subject in the clinical trial in an emergency situation cannot be obtained because of the medical condition of the person and if, at any time, the person regains capacity to give such consent, the principal investigator must ensure that, at the earliest feasible opportunity —\n(a)the person is given a full and reasonable explanation of the matters referred to in regulation 19(1)(a) to (u), in accordance with regulation 19(3); and\n(b)the consent of the person to be or to continue to be a subject in the trial is obtained.\n(4) If the consent of the person who is to be a subject in the clinical trial in an emergency situation cannot be obtained because of the medical condition of the person, the principal investigator must ensure that, at the earliest feasible opportunity (including during the window period) —\n(a)all reasonable efforts are made to contact the legal representative of the person;\n(b)the legal representative is given a full and reasonable explanation of the matters referred to in regulation 19(1)(a) to (u), in accordance with regulation 19(3); and\n(c)the legal representative’s consent for the person to be or to continue to be a subject in the trial is obtained.\n(5) Without prejudice to paragraph (4), where the consent of the person who is to be a subject in the clinical trial in an emergency situation cannot be obtained because of the medical condition of the person and it is not feasible to obtain consent from the legal representative of the person within the window period, then the principal investigator must ensure that, at the earliest feasible opportunity (including during the window period) —\n(a)all reasonable efforts are made to contact any member of the person’s family; and\n(b)the member of the person’s family is given a full and reasonable explanation of the matters referred to in regulation 19(1)(a) to (u), in accordance with regulation 19(3).\n(6) To avoid doubt —\n(a)despite (pursuant to paragraph (4)) the legal representative of the person consenting to the person being or continuing to be a subject in the clinical trial in an emergency situation, paragraph (3) continues to apply; and once the consent under paragraph (3) is obtained, paragraph (4) ceases to apply; and\n(b)despite (pursuant to paragraph (5)) a member of the person’s family being contacted and not objecting to the person being or continuing to be a subject in the clinical trial in an emergency situation, paragraphs (3) and (4) continue to apply; and once the consent under paragraph (3) or (4) is obtained, paragraph (5) ceases to apply.\n(7) The principal investigator must ensure that a person is not or ceases to be a subject in the clinical trial in an emergency situation if, at any time —\n(a)the person or the person’s legal representative refuses to give the consent referred to in paragraph (3) or (4), as the case may be; or\n(b)where neither the consent of the person nor the consent of the legal representative of the person has been obtained, any member of the person’s family informs the principal investigator of any objection to the person being or continuing to be a subject in the trial.\n(8) In this regulation, “specialist” means a person registered as a specialist under section 22 of the Medical Registration Act 1997 in the branch of medicine under which the subject is to be treated.\n[S 440/2023 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H3127-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "General requirements as to consent"
+   },
+   "text": {
+    "en": "18.—(1) Any consent required under these Regulations for a person to be a subject must be obtained by an investigator who is a qualified practitioner in accordance with this regulation.\n(2) The consent must be —\n(a)in writing and in the form approved by both the Authority and the relevant institutional review board of the clinical trial; and\n(b)signed and dated by the person giving the consent.\n(3) If the person giving the consent is unable to sign or date the written form referred to in paragraph (2)(a), the consent must —\n(a)be signed and dated in the form and manner approved by the relevant institutional review board of the clinical trial; and\n(b)be obtained in the presence of an impartial witness.\n(4) If the person giving the consent is unable to read, the written form referred to in paragraph (2)(a) must be read and explained to the person in the presence of an impartial witness.\n(5) The impartial witness referred to in paragraph (3) or (4), as the case may be, must sign and date the written form mentioned in paragraph (2)(a) to attest that —\n(a)in the case of paragraph (4), the written form was accurately explained to the person giving the consent; and\n(b)in any case, the person’s consent was freely given.\n(6) Any legal representative making a decision for the purposes of regulation 16 or 17, or a family member making a decision in connection with regulation 17(5), must act in the best interests of the person to be used as a subject in the clinical trial.\n(7) Section 6 of the Mental Capacity Act 2008 applies for the purpose of determining what is in the best interests of a subject in a clinical trial.\n[S 440/2023 wef 31/12/2021]\n(8) Where consent for a person to be or to continue to be a subject is obtained in accordance with these Regulations, or is not required under these Regulations, then the consent is validly obtained or waived, as the case may be, despite any other requirement in any other written law or rule of law."
+   }
+  },
+  {
+   "id": "SG-H3127-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Duty to give full explanation and information"
+   },
+   "text": {
+    "en": "19.—(1) The matters for which a full and reasonable explanation must be given under regulations 16 and 17 to a potential subject, a subject, a legal representative, or a family member, as the case may be, in relation to a clinical trial are all of the following:\n(a)that the trial involves research;\n(b)the purpose of the trial;\n(c)the treatments or procedures to be administered in the trial and the probability for random assignment of each treatment or procedure;\n(d)the procedures to be followed in the trial, including all invasive procedures;\n(e)the responsibilities of the subject;\n(f)the aspects of the trial which are experimental;\n(g)the reasonably foreseeable risks or inconveniences to the subject and, where applicable, to any embryo, foetus or nursing infant;\n(h)the reasonably expected benefits, including whether there is any intended clinical benefit to the subject;\n(i)any alternative procedures or treatments available to the subject, and their potential benefits and risks;\n(j)any compensation and treatment available to the subject in the event of injury arising from participation in the trial;\n(k)the circumstances which may result in the pro-ration of payment to the subject for participating in the trial;\n(l)any anticipated expenses to the subject from participating in the trial;\n(m)that the subject’s participation in the trial is voluntary and that the subject’s participation in the trial may be refused, or the subject withdrawn from the trial, at any time without penalty or loss of benefits which the subject would be entitled;\n(n)the persons who will be granted access to the subject’s medical records and the extent of such access, including the possibility that the Authority may inspect the records;\n(o)the extent to which records identifying the subject will be kept confidential;\n(p)that —\n(i)any person whose consent is required under regulation 16 or 17 (including a subject who regains capacity to consent); or\n(ii)the family member contacted under regulation 17(5), in circumstances where the consent of neither the subject nor the legal representative has been obtained,\nwill be informed in a timely manner of any information which becomes available and which may be relevant to the decision of the potential subject being, or the subject continuing to be, a subject (as the case may be);\n(q)the persons to contact for further information relating to the trial and the rights of subjects in the event of injury arising from participation in the trial;\n(r)any foreseeable circumstances under or reasons for which a subject’s participation may be terminated;\n(s)the expected duration of the subject’s participation in the trial;\n(t)the approximate number of subjects involved in the trial;\n(u)any other information which the Authority may require to be given.\n(2) If any information becomes available which may be relevant to the decision for a subject to continue being a subject in the clinical trial, a full and reasonable explanation of that information must be given at the earliest feasible opportunity to —\n(a)the person whose consent is required in order for the subject to continue being a subject in the trial (including a subject who regains capacity to consent); or\n(b)the family member contacted under regulation 17(5), in circumstances where the consent of neither the subject nor the legal representative has been obtained,\nas the case may be.\n(3) A principal investigator must ensure that the explanations referred to in paragraph (1) or (2), as the case may be, are given in accordance with that paragraph by the principal investigator, another investigator involved in the clinical trial, or a person authorised by the principal investigator."
+   }
+  },
+  {
+   "id": "SG-H3127-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Coercion"
+   },
+   "text": {
+    "en": "20. A person must not, by coercion, intimidation, deception or misrepresentation, cause, compel or induce another person —\n(a)to be, or continue to be, a subject in a clinical trial; or\n(b)to give consent, or refrain from withdrawing consent, for the purposes of a clinical trial."
+   }
+  },
+  {
+   "id": "SG-H3127-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Urgent safety measures"
+   },
+   "text": {
+    "en": "21. In order to protect any subject against any immediate hazard to the health or safety of the subject, the sponsor and any investigator of the clinical trial may take appropriate urgent safety measures."
+   }
+  },
+  {
+   "id": "SG-H3127-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Suspension or termination of clinical trial"
+   },
+   "text": {
+    "en": "22.—(1) The Authority may require the suspension or termination of a clinical trial, or any part of a clinical trial, for which the Authority has issued any clinical trial certificate, or the suspension or termination of the conduct of such a trial at a particular trial site, if, or if the Authority has reasonable grounds to suspect that —\n(a)any information provided in respect of any application for a clinical trial certificate for the trial is false or misleading;\n(b)any sponsor, principal investigator or person assisting the principal investigator has contravened, is contravening or is likely to contravene —\n(i)any condition to which any clinical trial certificate issued for the trial is subject; or\n(ii)any provision of these Regulations;\n(c)any ground for the conduct of the trial on the basis of scientific validity is no longer applicable or true; or\n(d)the continuance of the trial will compromise the safety of any subject of the trial.\n(2) Where the Authority has suspended or terminated a clinical trial, the sponsor and a principal investigator must ensure that the suspension or termination is adhered to by all persons involved in the trial."
+   }
+  },
+  {
+   "id": "SG-H3127-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Record of clinical trials"
+   },
+   "text": {
+    "en": "23.—(1) The sponsor and a principal investigator must keep such records of the clinical trial, in accordance with paragraph (2), as will individually and collectively —\n(a)permit proper evaluations to be made of the conduct of the trial and the quality of the data produced; and\n(b)demonstrate compliance by each person involved in the trial with the principles of good clinical practice and all applicable regulatory requirements.\n(2) The records mentioned in paragraph (1) must —\n(a)be kept up-to-date at all times;\n(b)be available at all times for inspection by the Authority or any person authorised by the Authority in that behalf; and\n(c)be kept at least until the later or the latest, as the case may be, of the following:\n(i)the date where there is no more pending or contemplated application under the Act for a product licence for the medicinal product being tested in the clinical trial;\n(ii)the expiry of 2 years after the last approval of such application for the medicinal product to be tested in Singapore;\n(iii)where the clinical trial is terminated, the expiry of 2 years after the Authority has been informed of the termination of the trial under regulation 12;\n(iv)the expiry of 6 years after the conclusion of the clinical trial;\n(v)the expiry of such other period as the Authority may direct in any particular case.\n(3) Without limiting the generality of paragraph (1), the principal investigator must maintain a record of every person assisting the principal investigator in the clinical trial, containing all of the following information:\n(a)the person’s name;\n(b)the person’s qualifications;\n(c)the person’s responsibilities in the trial."
+   }
+  },
+  {
+   "id": "SG-H3127-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Notifications of serious adverse events"
+   },
+   "text": {
+    "en": "24.—(1) A principal investigator must immediately report any serious adverse event which occurs in a subject during a clinical trial to the sponsor to enable the sponsor to comply with the obligations of the sponsor under regulation 4.\n(2) As soon as possible after making the report referred to in paragraph (1), the principal investigator must furnish to the sponsor a detailed written report on the event.\n(3) Paragraph (1) does not apply to any serious adverse event specified in the protocol or investigator’s brochure for the clinical trial as not requiring immediate reporting.\n(4) Where the relevant institutional review board of the clinical trial requires any person to report to it any matter referred to in paragraph (1), the person must do so in accordance with the requirements of the board."
+   }
+  },
+  {
+   "id": "SG-H3127-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Notifications of unexpected serious adverse drug reactions"
+   },
+   "text": {
+    "en": "25.—(1) Where any USADR occurs in a subject during a clinical trial which results in death or is life‑threatening, the sponsor must ensure that —\n(a)all relevant information about the USADR is —\n(i)recorded; and\n(ii)reported to the Authority as soon as possible and in any event not later than 7 days after the sponsor first becomes aware of the event; and\n(b)any additional relevant information about the USADR is —\n(i)recorded; and\n(ii)sent to the Authority within 8 days of making the record referred to in sub‑paragraph (i).\n(2) Where any USADR occurs in a subject during the clinical trial, other than a USADR referred to in paragraph (1), the sponsor must ensure that all relevant information about the reaction is —\n(a)recorded; and\n(b)reported to the Authority as soon as possible and in any event not later than 15 days after the sponsor first becomes aware of the event.\n(3) Upon a request made by the Authority, the sponsor must furnish to the Authority a report of —\n(a)the sponsor’s assessment of the risks associated with a USADR; and\n(b)the steps proposed to be taken —\n(i)to mitigate the risk; and\n(ii)to inform the person whose consent is required for a person to be a subject or to continue to be a subject in the clinical trial, of the risk.\n(4) The sponsor must furnish the report referred to in paragraph (3) as soon as possible and in any event no later than 14 days after the Authority’s request."
+   }
+  },
+  {
+   "id": "SG-H3127-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 2 CLINICAL TRIALS OF MEDICINAL PRODUCTS"
+   },
+   "heading": {
+    "en": "Investigational medicinal product and auxiliary medicinal product labelling"
+   },
+   "text": {
+    "en": "26.—(1) The sponsor must ensure that all investigational medicinal products and auxiliary medicinal products used in the clinical trial are labelled in accordance with the requirements set out in the Second Schedule.\n(2) The sponsor must ensure the ready accessibility of the key to any code used in the labelling under paragraph 1(2) or 2(b) of the Second Schedule of an investigational medicinal product in a blinded clinical trial, so as to enable the rapid identification of the product in the case of an emergency.\n(3) The sponsor must ensure that all investigational medicinal products and auxiliary medicinal products used in the clinical trial are stored in such manner as to be easily identifiable.\n(4) A person must not use any investigational medicinal product or auxiliary medicinal product in a clinical trial if the container in which the product is stored is not labelled in accordance with the requirements set out in the Second Schedule."
+   }
+  },
+  {
+   "id": "SG-H3127-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 3 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Power to obtain information, etc."
+   },
+   "text": {
+    "en": "27.—(1) The Authority may at any time require any person —\n(a)to furnish any information within the person’s knowledge; or\n(b)to produce for inspection any document or record within the person’s possession,\nthat the Authority believes on reasonable grounds to be connected with any suspected contravention of these Regulations or to be otherwise relevant to the administration or enforcement of these Regulations; and the person must comply with the requirement.\n(2) Where any document or record required by the Authority is kept in electronic form, then —\n(a)the power of the Authority to require such document or record to be produced for inspection includes the power to require a copy of the document or record to be made available for inspection in legible form; and\n(b)the power of the Authority to inspect such document or record includes the power to require any person on the premises in question to give such assistance as the Authority may reasonably require to enable the Authority to inspect and make copies of the document or record in legible form or to make records of the information contained in the document or record."
+   }
+  },
+  {
+   "id": "SG-H3127-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 3 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Offences"
+   },
+   "text": {
+    "en": "28.—(1) A person shall be guilty of an offence if the person —\n(a)contravenes regulation 4(4) or (6), 5(1), (2), (3), (4) or (6), 6, 7, 8(1), 10(1), (2) or (4), 11(1), (2) or (3), 12(1), (2), (3) or (4), 13(1) or (2), 14, 15, 16(1), (9) or (10), 17(3), (4), (5) or (7), 18(1) or (6), 19(3), 20, 22(2), 23(1) or (3), 24(1), (2) or (4), 25(1), (2), (3) or (4), 26(1), (2), (3) or (4) or 27(1); or\n(b)for the purpose of making any application or in giving any notification, record or report to the Authority under these Regulations, furnishes the Authority with any particulars, information or document which the person knows is false or misleading, or any sample which the person knows is altered or adulterated.\n(2) A person who is guilty of an offence under paragraph (1) shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both."
+   }
+  },
+  {
+   "id": "SG-H3127-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 4 APPLICATION TO PENDING CLINICAL TRIALS"
+   },
+   "heading": {
+    "en": "Revocation and pending clinical trials"
+   },
+   "text": {
+    "en": "29.—(1) The Medicines (Clinical Trials) Regulations (Rg 3) are revoked.\n(2) Where a certificate was issued for a clinical trial under the revoked Medicines (Clinical Trials) Regulations and, as on 1 November 2016 —\n(a)the trial is not concluded or terminated; and\n(b)the clinical trial certificate for the trial has not expired,\nthen these Regulations apply to the trial —\n(i)as if the certificate is a clinical trial certificate issued under these Regulations, until the conclusion or termination of the trial;\n(ii)where there is more than one sponsor for the trial, as if the lead sponsor declared for the issue of the certificate is the lead sponsor for the trial under these Regulations; and\n(iii)where any consent for a person to be a subject in the trial was obtained, or need not be obtained, in accordance with the revoked Regulations, as if the consent is validly obtained, or need not be obtained, under these Regulations, until such time as the consent of another person, or the consent of a person, as the case may be, is required under these Regulations."
+   }
+  },
+  {
+   "id": "SG-H3127-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 2(1)\nPrinciples of good clinical practice\n1. Clinical trials must be conducted in accordance with the ethical principles that have their origin in the Declaration of Helsinki, and that are consistent with good clinical practice and the requirements of these Regulations.\n2. Before a clinical trial is initiated, foreseeable risks and inconveniences must be weighed against the anticipated benefit for the subject and society, and a trial must be initiated and continued only if the anticipated benefits justify the risks.\n3. The rights, safety, and wellbeing of the subjects of a clinical trial are the most important considerations and must prevail over interests of science and society.\n4. The available non-clinical and clinical information on an investigational medicinal product must be adequate to support the proposed clinical trial.\n5. A clinical trial must be scientifically sound, and described in a clear and detailed protocol.\n6. A clinical trial must be conducted in compliance with a protocol that has been approved by the relevant institutional review board.\n7. The medical and dental care given to, and medical and dental decisions made on behalf of, subjects must always be the responsibility of a qualified practitioner with the relevant training and experience.\n8. Each individual involved in conducting a clinical trial must be qualified by education, training, and experience to perform the individual’s respective task.\n9. Subject to these Regulations, freely given informed consent must be obtained from every subject prior to clinical trial participation.\n10. All clinical trial information must be recorded, handled, and stored in a way that allows its accurate reporting, interpretation and verification.\n11. The confidentiality of records that could identify subjects must be protected, respecting the privacy and confidentiality rules in accordance with any applicable written law or rule or principle of law.\n12. Investigational medicinal products must be —\n(a)manufactured, handled and stored, in accordance with such good manufacturing practice as may be specified by the Authority; and\n(b)used in accordance with the approved protocol.\n13. Systems with procedures that assure the quality of every aspect of the trial must be implemented."
+   }
+  },
+  {
+   "id": "SG-H3127-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 26\nLabelling requirements\n1.—(1) Every investigational medicinal product and every auxiliary medicinal product used on or after 1 November 2017 in a clinical trial must be labelled with such information for all of the following purposes:\n(a)to ensure protection of the subject and traceability;\n(b)to enable identification of the product and the trial;\n(c)to facilitate proper use and storage of the product;\n(d)to ensure the reliability and robustness of data generated in the trial.\n(2) Without limiting the generality of sub‑paragraph (1), every investigational medicinal product that is not licensed, every licensed investigational medicinal product that does not satisfy the requirements of sub‑paragraph (5), and every auxiliary medicinal product that is not licensed, must be labelled with all of the following information:\n(a)the words “For clinical trial use only” or similar wordings;\n(b)a clinical trial reference code allowing identification of the trial, site, investigator and sponsor;\n(c)the trial subject identification number or treatment number and, where relevant, visit number;\n(d)the name, address and telephone number of the main contact for —\n(i)information on the product;\n(ii)information on the trial; and\n(iii)emergency unblinding;\n(e)the name of the substance used in the product and its strength or potency, as well as, in the case of blinded trials, the name of the comparator or placebo;\n(f)the pharmaceutical form, route of administration and quantity of dosage units of the product;\n(g)the directions for use of the product (which may be a reference to a leaflet or other explanatory document intended for use by the subject or person administering the product);\n(h)the batch or code number identifying the contents and packaging operation of the product;\n(i)the period of use (which may be an expiry date or a retest date), in month and year format and in a manner that avoids any confusion as to which is the month and which is the year;\n(j)the storage conditions.\n(3) Without limiting the generality of sub‑paragraph (1), every licensed investigational medicinal product which satisfies the requirements of sub‑paragraph (5) must be labelled with all of the following information:\n(a)the words “For clinical trial use only” or similar wordings;\n(b)a clinical trial reference code allowing identification of the trial, site, investigator and sponsor;\n(c)the name of the person to whom the product is to be administered or the trial subject identification number;\n(d)where the licensed investigational medicinal product is supplied or dispensed —\n(i)at a trial site that is not an approved permanent premises, a temporary premises or an approved conveyance of a healthcare service licensee — the name, address and any identification number or logo of the trial site;\n[S 812/2023 wef 18/12/2023]\n(ii)at any approved permanent premises by a healthcare service licensee under a business name — the business name, address of the approved permanent premises and any identification number or logo of the healthcare service licensee;\n(iii)at any temporary premises or approved conveyance by a healthcare service licensee under a business name —\n(A)if the healthcare service licensee is also approved under the Healthcare Services Act 2020 to provide the licensable healthcare service at any permanent premises under that business name — the business name, address of the approved permanent premises and any identification number or logo of the healthcare service licensee; or\n(B)in any other case — the business name, address and any identification number or logo of the healthcare service licensee; or\n(iv)by a healthcare service licensee using a remote service kiosk or by delivery under a business name —\n(A)if the healthcare service licensee is also approved under the Healthcare Services Act 2020 to provide the licensable healthcare service at any permanent premises under that business name — the business name, address of the approved permanent premises and any identification number or logo of the healthcare service licensee; or\n(B)in any other case — the business name, address and any identification number or logo of the healthcare service licensee;\n[S 440/2023 wef 26/06/2023]\n(e)the name of the product, being the proprietary name and the appropriate non‑proprietary name of the active ingredient in the product;\n(f)where the appropriate non-proprietary name is included on the label of the product, the appropriate quantitative particulars of any active ingredient of the product;\n(g)the directions for use of the product;\n(h)an appropriate control number, such as a serial number, batch number or lot number;\n(i)the expiry date of the product;\n(j)the date that the product is dispensed;\n(k)where the product is licensed, the product licence number assigned to the product by the Authority.\n(4) Without limiting the generality of sub‑paragraph (1), every licensed auxiliary medicinal product must be labelled with all of the following information:\n(a)the name of the person to whom the product is to be administered or the trial subject identification number;\n(b)where the licensed auxiliary medicinal product is supplied or dispensed —\n(i)at a trial site that is not an approved permanent premises, a temporary premises or an approved conveyance of a healthcare service licensee — the name, address and any identification number or logo of the trial site;\n[S 812/2023 wef 18/12/2023]\n(ii)at any approved permanent premises by a healthcare service licensee under a business name — the business name, address of the approved permanent premises and any identification number or logo of the healthcare service licensee;\n(iii)at any temporary premises or approved conveyance by a healthcare service licensee under a business name —\n(A)if the healthcare service licensee is also approved under the Healthcare Services Act 2020 to provide the licensable healthcare service at any permanent premises under that business name — the business name, address of the approved permanent premises and any identification number or logo of the healthcare service licensee; or\n(B)in any other case — the business name, address and any identification number or logo of the healthcare service licensee; or\n(iv)by a healthcare service licensee using a remote service kiosk or by delivery under a business name —\n(A)if the healthcare service licensee is also approved under the Healthcare Services Act 2020 to provide the licensable healthcare service at any permanent premises under that business name — the business name, address of the approved permanent premises and any identification number or logo of the healthcare service licensee; or\n(B)in any other case — the business name, address and any identification number or logo of the healthcare service licensee;\n[S 440/2023 wef 26/06/2023]\n(c)the name of the product, being the proprietary name and the appropriate non‑proprietary name of the active ingredient in the product;\n(d)where the appropriate non‑proprietary name is included on the label of the product, the appropriate quantitative particulars of any active ingredient of the product;\n(e)the directions for use of the product;\n(f)an appropriate control number, such as a serial number, batch number or lot number;\n(g)the expiry date of the product;\n(h)the date that the product is dispensed;\n(i)where the product is licensed, the product licence number assigned to the product by the Authority.\n(5) The requirements for the purpose of sub‑paragraphs (2) and (3) in relation to medicinal products, and auxiliary medicinal products that are not licensed, are all of the following:\n(a)the product is not used in the clinical trial in a blinded fashion;\n(b)the product is not repackaged for use in the trial;\n(c)the product is used in accordance with the terms of its product licence.\n(6) The information referred to in sub‑paragraphs (2), (3) and (4) must be in English, and must be clearly legible and unambiguous.\n(7) The address and telephone number referred to in sub‑paragraph (2)(d) need not appear on the label if the subjects are given a leaflet or card providing such information and instructed to keep the leaflet or card in their possession at all times.\n(8) The information referred to in sub‑paragraph (2)(b), (c), (d) and (f) to (i) need not appear on the label if they are available by any other means, so long as —\n(a)sub‑paragraph (1) is complied with; and\n(b)the reasons for the omission are set out in the protocol or such other document as the Authority may allow.\n2. Every investigational medicinal product and every auxiliary medicinal product used before 1 November 2017 in a clinical trial must —\n(a)be labelled in accordance with paragraph 1; or\n(b)have the following particulars written on its container:\n(i)the proprietary name, reference number or other identification mark of each item of such product;\n(ii)the name and address of the manufacturer;\n(iii)the production batch number of the product;\n(iv)the name or other identification mark of the subject for whom the product is intended;\n(v)the date of manufacture and the expiry date of the product;\n(vi)the storage conditions appropriate for each item of product as may be indicated by the manufacturer; and\n(vii)the words “This product shall only be used under strict medical surveillance” or “This product shall only be used under strict dental surveillance”, as the case may be."
+   }
+  }
+ ]
+}

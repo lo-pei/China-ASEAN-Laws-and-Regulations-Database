@@ -1,0 +1,62 @@
+{
+ "id": "SG-H3422",
+ "title": {
+  "zh": null,
+  "en": "Order under Section 11 (3)",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p43",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation RELA1983-OR9",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1132,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/RELA1983-OR9?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 2 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3422-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Revised Edition of the Laws Act\n(Chapter 275, Section 11(3))\nOrder under Section 11(3)\nO 9\nG.N. No. S 294/1994\nREVISED EDITION 1995\n(15th July 1994)\n[15th July 1994]\nWhereas pursuant to section 10(4) and (5) of the Revised Edition of the Laws Act, the Law Revision Commissioners have prepared and published in the form of loose-leaf edition the Acts set out in the Schedule as in force on 1st July 1994:\nAnd Whereas under section 11(3) of the Act, the Commissioners shall transmit to the President a copy of the loose-leaf edition of each Act and the President may thereupon, by order published in the Gazette, specify that the loose-leaf edition of that Act shall, in all courts and for all purposes, be the sole and only proper law of Singapore in respect of that Act:\nNow therefore it is hereby ordered by the President that the loose-leaf edition of the Acts set out in the Schedule shall, with effect from 15th July 1994, be the sole and only proper law of Singapore in respect of those Acts."
+   }
+  },
+  {
+   "id": "SG-H3422-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\n(1)The Civil List and Pension Act (Chapter 44).\n(2)The Insurance Act (Chapter 142).\n(3)The Road Traffic Act (Chapter 276)."
+   }
+  }
+ ]
+}

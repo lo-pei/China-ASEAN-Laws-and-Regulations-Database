@@ -1,0 +1,94 @@
+{
+ "id": "PH-H663",
+ "title": {
+  "zh": null,
+  "en": "An Act to Fix the Salaries of Physicians Under the Department of Health",
+  "orig": "An Act to Fix the Salaries of Physicians Under the Department of Health"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p09",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1952-03-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 675",
+ "officialCode": null,
+ "topics": [
+  "health"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 2745,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1952/ra_675_1952.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1952/ra_675_1952.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H663-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The annual salaries of physicians under the Department of Health shall be as hereinbelow fixed:\nOFFICE OF THE SECRETARY\nChief of division P6,000.00 Medical assistant 6,000.00 Department inspector 6,000.00 Chief of section 5,100.00 Senior specialist 4,800.00 Junior specialist 4,500.00 BUREAU OF HEALTH Chief of division 6,000.00 Senior health inspector 6,000.00 Junior health inspector 5,400.00 Chief of section 5,100.00 HEALTH DISTRICTS District health officer, first class A province 6,600.00 District health officer, first class B province 6,300.00 District health officer, first class C province 6,000.00 District health officer, second class province 5,700.00 District health officer, third class province 5,100.00 District health officer, fourth class province 4,800.00 District health officer, fifth class province 4,200.00 Assistant district health officer 3,720.00 President of sanitary division 3,120.00 SCHOOL MEDICAL AND DENTAL SERVICES Medical Section Chief of section P5,100.00 Medical supervisor P3,720.00 4,500,00 Clinic physician 2,760.00 3,480.00 Radiologist 2,760.00 3,460.00 Training center physician 2,760.00 3,460.00 BUREAU OF HOSPITALS Chief of division 6,000.00 Senior hospital inspector 6,000.00 Senior medical supervisor 6,000.00 Senior leprologist or senior clinical specialist 6,000.00 Junior hospital inspector 5,400.00 Junior medical supervisor 5,400.00 Junior leprologist or junior clinical specialist P5,400.00 Chief of section 5,100.00 National, Provincial, and City Hospitals Chief of hospital P4,800.00 6,000.00 Senior resident physician and/or equivalent 3,720.00 4,500.00 Junior resident physician and/or equivalent 2,760.00 3,480.00 Other Hospitals of Lesser Category Chief of hospital 3,720.00 4,500.00 Resident physician and/or equivalent 2,760.00 3,480.00 PUBLIC HEALTH RESEARCH LABORATORIES Chief of division 6,000.00 Chief researcher 6,000.00 Chief specialist 6,000.00 Chief of section or laboratory inspector 5,100.00 Associate researcher 5,100.00 Associate specialist 5,100.00 Assistant researcher 4,500.00 Assistant specialist 4,500.00 Assistant laboratorian 4,500.00 INSTITUTE OF NUTRITION Chief of division P6,000.00 Chief biochemist 6,000.00 Chief biometrist 6,000.00 Chief medical nutritionist 6,000.00"
+   }
+  },
+  {
+   "id": "PH-H663-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "If a hospital is departmentalized, the chief of each of the clinical departments, working on half time basis, shall receive a salary not more than fifty per cent of his salary if working on full time basis."
+   }
+  },
+  {
+   "id": "PH-H663-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "No chief of hospital, or president of sanitary division, shall receive salary less than that of charity clinic physician in the same locality."
+   }
+  },
+  {
+   "id": "PH-H663-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "All laws, acts, or parts thereof, inconsistent with the provisions of this Act, are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H663-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

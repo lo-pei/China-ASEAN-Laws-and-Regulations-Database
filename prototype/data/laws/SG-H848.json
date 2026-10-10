@@ -1,0 +1,120 @@
+{
+ "id": "SG-H848",
+ "title": {
+  "zh": null,
+  "en": "Copyright (Access Control Measures — Prescribed Exceptions) Regulations 2024",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p11",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CA2021-S988-2024",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 2539,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CA2021-S988-2024?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 6 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H848-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and period in force"
+   },
+   "text": {
+    "en": "1.—(1) These Regulations are the Copyright (Access Control Measures — Prescribed Exceptions) Regulations 2024.\n(2) These Regulations are in force for the period between 1 January 2025 and 31 December 2028 (both dates inclusive)."
+   }
+  },
+  {
+   "id": "SG-H848-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“access control measure” has the meaning given by section 423 of the Act;\n“protected copy” has the meaning given by section 422 of the Act."
+   }
+  },
+  {
+   "id": "SG-H848-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Purpose of Regulations"
+   },
+   "text": {
+    "en": "3. These Regulations prescribe, under section 435 of the Act, circumstances in which a person may circumvent an access control measure."
+   }
+  },
+  {
+   "id": "SG-H848-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Exception — circumventing access control measure that prevents text from being converted into accessible format, etc."
+   },
+   "text": {
+    "en": "4. A person may circumvent an access control measure that has been applied to a protected copy of a literary or dramatic work if —\n(a)the work is in an electronic format;\n(b)the access control measure has been applied to all reasonably available electronic copies of the work (including any digital text edition made available by an institution aiding persons with print disabilities) so as to —\n(i)prevent the operation of any function that reads aloud the text of the work; or\n(ii)prevent any specialised assistive device or computer software from converting the text of the work into an accessible format; and\n(c)the circumvention is for the purpose of a dealing, in relation to the work, in circumstances that constitute a permitted use under any provision in Division 4 of Part 5 of the Act."
+   }
+  },
+  {
+   "id": "SG-H848-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Exception — preservation and replacement of material in public collections"
+   },
+   "text": {
+    "en": "5.—(1) Subject to paragraph (2), a person may circumvent an access control measure that has been applied to a protected copy of an authorial work, a sound recording, a film or a recording of a protected performance if the circumvention is for the purpose of making a copy of the authorial work, sound recording, film or recording of a protected performance in circumstances that constitute a permitted use under section 232(1) of the Act.\n(2) Paragraph (1) does not apply where the circumstances relate to making a copy of the material under section 232(2)(c)(iv) of the Act."
+   }
+  },
+  {
+   "id": "SG-H848-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Exception — administration of public collections"
+   },
+   "text": {
+    "en": "6.—(1) Subject to paragraph (2), a person may circumvent an access control measure that has been applied to a protected copy of an authorial work, a sound recording, a film or a recording of a protected performance if the circumvention is for the purpose of making a copy of or communicating the authorial work, sound recording, film or recording of a protected performance in circumstances that constitute a permitted use under section 233(1) of the Act.\n(2) Paragraph (1) does not apply where the circumstances relate to making a copy of the material or a communication of the material for the purpose in section 233(2)(c)(vi) of the Act."
+   }
+  }
+ ]
+}

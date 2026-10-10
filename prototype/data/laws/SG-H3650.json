@@ -1,0 +1,636 @@
+{
+ "id": "SG-H3650",
+ "title": {
+  "zh": null,
+  "en": "Singapore Corporation of Rehabilitative Enterprises Act 1975",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p46",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act SCREA1975",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 38,
+ "chars": 21410,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/SCREA1975?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 38 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。其中 7 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3650-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Singapore Corporation of Rehabilitative Enterprises Act 1975."
+   }
+  },
+  {
+   "id": "SG-H3650-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“Chairperson” means the Chairperson of the Corporation appointed under section 4(1);\n“chief executive officer” means the chief executive of the Corporation, and includes any individual acting in that capacity;\n“Corporation” means the Singapore Corporation of Rehabilitative Enterprises established under section 3(1);\n“Deputy Chairperson” means the Deputy Chairperson of the Corporation appointed under section 4(1);\n“inmate” means a person who is detained in any approved institution under the Misuse of Drugs Act 1973 or in such other institution or place as may be prescribed;\n“member” means a member of the Corporation and includes the Chairperson and the Deputy Chairperson;\n“prison officer” means any Chief Rehabilitation Officer, Principal Rehabilitation Officer, warder or other subordinate officer;\n“prisoner” means any person, whether convicted or not, under detention in any prison or reformative training centre.\n[23/87; 5/2018; 2/2020]"
+   }
+  },
+  {
+   "id": "SG-H3650-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF CORPORATION"
+   },
+   "heading": {
+    "en": "Establishment of Corporation"
+   },
+   "text": {
+    "en": "3.—(1) There is established in accordance with the provisions of this Act a body called the Singapore Corporation of Rehabilitative Enterprises which is a body corporate with perpetual succession and with power to sue and be sued in its corporate name, and to acquire and dispose of property, movable and immovable, and to perform such other acts as bodies corporate may by law perform, and to exercise such other powers as are conferred under this Act.\n[2/2020]\n(2) The Corporation may perform any of its functions or carry out any of its duties under one or more business names as the Minister may, by notification in the Gazette, specify.\n[2/2020]"
+   }
+  },
+  {
+   "id": "SG-H3650-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF CORPORATION"
+   },
+   "heading": {
+    "en": "Constitution of Corporation"
+   },
+   "text": {
+    "en": "4.—(1) The Corporation consists of the following members, all of whom are to be appointed by the Minister:\n(a)a Chairperson;\n(b)a Deputy Chairperson who must be an officer from the Ministry of Home Affairs;\n(c)the Commissioner of Prisons or his or her representative; and\n(d)at least 2 and not more than 12 other members.\n[23/87; 1/2014]\n(2) All members, unless the Minister otherwise directs, hold office for a period of 3 years from the date of their respective appointments and are eligible for re‑appointment.\n(3) The Minister may appoint a person to be a temporary member during the absence, or incapacity owing to illness or otherwise, of any other member.\n(4) The Minister may, at any time, revoke the appointment of a member without giving any reason.\n(5) The Minister may, at any time, accept the resignation of a member."
+   }
+  },
+  {
+   "id": "SG-H3650-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF CORPORATION"
+   },
+   "heading": {
+    "en": "Salaries, fees and allowances payable to members"
+   },
+   "text": {
+    "en": "5. The members are to be paid out of the funds of the Corporation such salaries, fees and allowances as the Minister may determine."
+   }
+  },
+  {
+   "id": "SG-H3650-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF CORPORATION"
+   },
+   "heading": {
+    "en": "Meetings of Corporation"
+   },
+   "text": {
+    "en": "6.—(1) Meetings of the Corporation must be held —\n(a)at least once in 3 months; and\n(b)at the times and places that the Corporation or the Chairperson may determine.\n(2) The quorum at every meeting of the Corporation is one‑third of the total number of members or 3 members, whichever is the higher.\n[25/2009]\n(3) Decisions at meetings of the Corporation are adopted by a simple majority of the votes of the members present and voting; and in the event of an equality of votes the Chairperson, or in his or her absence the Deputy Chairperson or the member presiding, has a casting vote.\n(4) The Chairperson, or in his or her absence the Deputy Chairperson, presides at meetings of the Corporation.\n(5) Where both the Chairperson and the Deputy Chairperson are absent at a meeting such member as the members present may elect presides at the meeting.\n(6) The Corporation is not precluded from holding any meeting or acting in any matter merely by reason of a vacancy in its membership.\n(7) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Corporation may make standing orders to regulate its own procedure, and in particular, the holding of meetings, the notice to be given of the meetings, the proceedings at the meetings, the keeping of minutes and the custody, production and inspection of the minutes.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3650-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF CORPORATION"
+   },
+   "text": {
+    "en": "7. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3650-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF CORPORATION"
+   },
+   "heading": {
+    "en": "Validity of acts of member"
+   },
+   "text": {
+    "en": "8. The acts of a member are valid despite any defect that may afterwards be discovered in the member’s appointment or qualifications."
+   }
+  },
+  {
+   "id": "SG-H3650-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF CORPORATION"
+   },
+   "heading": {
+    "en": "Powers of Minister in relation to Corporation"
+   },
+   "text": {
+    "en": "9.—(1) The Minister may give to the Corporation any direction under section 5 of the Public Sector (Governance) Act 2018.\n[5/2018]\n(2) The Corporation must provide the Minister with such information or facilities for obtaining information with respect to its property and the exercise of its functions in such manner and at such times as the Minister may reasonably require."
+   }
+  },
+  {
+   "id": "SG-H3650-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 TRANSFER TO CORPORATION OF GOVERNMENT UNDERTAKINGS, EMPLOYEES, ETC."
+   },
+   "heading": {
+    "en": "Transfer to Corporation of Government undertakings"
+   },
+   "text": {
+    "en": "10.—(1) On 1 April 1976, such vocational or industrial training institutions as were established by or vested in the Government for the purpose of training prisoners as the Minister may, after consultation with the Minister for Finance, determine are transferred to and vest in the Corporation without further assurance and such transfer includes all lands, buildings, and other property, movable or immovable, assets, rights, privileges, obligations and liabilities held or enjoyed in connection therewith or appertaining thereto.\n(2) On 1 April 1976, such moneys held by the Government for the purpose of training prisoners in order to fit them to earn their living after release as the Minister may, after consultation with the Minister for Finance, determine must forthwith be paid and transferred to and held by the Corporation for the same purpose.\n(3) All rights, privileges, obligations and liabilities which immediately before 1 April 1976 were held, enjoyed or incurred in connection with or appertaining to the vocational or industrial training institutions transferred under subsection (1) are deemed to be the rights, privileges, obligations and liabilities of the Corporation.\n(4) Where anything has been commenced for the purpose of the vocational or industrial training institutions transferred under subsection (1), such thing may be carried on and completed by, or under the authority of, the Corporation.\n(5) If any question arises as to which of the properties, movable or immovable, has been transferred to and vested in the Corporation under subsection (1), a certificate under the hand of the Minister for Finance is conclusive evidence of the vesting of the property in the Corporation."
+   }
+  },
+  {
+   "id": "SG-H3650-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 TRANSFER TO CORPORATION OF GOVERNMENT UNDERTAKINGS, EMPLOYEES, ETC."
+   },
+   "heading": {
+    "en": "Transfer of employees"
+   },
+   "text": {
+    "en": "11.—(1) On 1 April 1976 —\n(a)every person, other than prison officers, employed by the Government immediately before that date in the vocational or industrial training institutions transferred under section 10(1); and\n(b)such other persons employed by the Government as the Minister may determine,\nare transferred to the service of the Corporation on terms as near as may be to those they enjoyed immediately prior to their transfer and the terms (which are determined by the Corporation) must take into account the salaries and conditions of service, including any accrued rights to leave, enjoyed by them while in the employment of the Government.\n(2) Despite subsection (1), such categories of persons who are transferred to the service of the Corporation, as the Minister may determine, must as soon as practicable be given the option of remaining in the service of the Government.\n(3) Until such time as schemes and terms and conditions of service are drawn up by the Corporation, the regulations relating to salaries and terms and conditions of service in the Government continue to apply to every person transferred to the service of the Corporation under subsection (1)."
+   }
+  },
+  {
+   "id": "SG-H3650-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 TRANSFER TO CORPORATION OF GOVERNMENT UNDERTAKINGS, EMPLOYEES, ETC."
+   },
+   "heading": {
+    "en": "Existing contracts"
+   },
+   "text": {
+    "en": "12. All deeds, bonds, agreements, instruments and working arrangements subsisting immediately before 1 April 1976 affecting the vocational or industrial training institutions transferred under section 10(1) or any employee of the Government transferred to the service of the Corporation under section 11 are of full force and effect against or in favour of the Corporation and enforceable as fully and effectually as if, instead of the Government or any person acting on behalf of the Government, the Corporation had been named therein or had been a party thereto."
+   }
+  },
+  {
+   "id": "SG-H3650-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 TRANSFER TO CORPORATION OF GOVERNMENT UNDERTAKINGS, EMPLOYEES, ETC."
+   },
+   "heading": {
+    "en": "Pending proceedings"
+   },
+   "text": {
+    "en": "13. A proceeding or cause of action pending or existing immediately before 1 April 1976 by or against the Government or any person acting on behalf of the Government in respect of the vocational or industrial training institutions transferred under section 10(1) and the rights, obligations and liabilities in connection therewith may be continued and enforced by or against the Corporation as it might have been by or against the Government or such person as if this Act had not been enacted."
+   }
+  },
+  {
+   "id": "SG-H3650-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 TRANSFER TO CORPORATION OF GOVERNMENT UNDERTAKINGS, EMPLOYEES, ETC."
+   },
+   "heading": {
+    "en": "No benefit for abolition or re-organisation of office"
+   },
+   "text": {
+    "en": "14.—(1) Despite the provisions of the Pensions Act 1956, a person who is transferred to the service of the Corporation under section 11 is not entitled to claim any benefit under the Pensions Act 1956 on the ground that he or she has been retired from the service of the Government on account of abolition or re‑organisation of office in consequence of the establishment and incorporation of the Corporation under this Act.\n(2) In every case where a person has been transferred to the service of the Corporation under section 11(1), the Government is liable to pay to the Corporation such portion of any gratuity, pension or allowance payable to that person or his or her dependants on his or her retirement, death or otherwise leaving the service of the Corporation as the same bears to the proportion which the aggregate amount of his or her pensionable emoluments during his or her service with the Government bears to the aggregate amount of his or her pensionable emoluments during his or her service under both the Government and the Corporation."
+   }
+  },
+  {
+   "id": "SG-H3650-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 4 FUNCTIONS AND POWERS OF CORPORATION"
+   },
+   "heading": {
+    "en": "Functions of Corporation"
+   },
+   "text": {
+    "en": "15. The functions of the Corporation are —\n(a)to manage and maintain the vocational or industrial training institutions transferred to the Corporation by this Act and such other institutions as the Corporation may establish under this Act for the employment, or vocational or industrial training of prisoners and inmates;\n(b)to provide or secure the provision of such employment or facilities for such training and to organise programmes therefor;\n(c)to provide technical training in skilled trades for suitable prisoners and inmates;\n(d)to promote the vocational skills of prisoners and inmates;\n(e)to provide any prisoner with work for the purposes of section 67 of the Prisons Act 1933;\n(f)to advise the Government on all matters relating to the provision of vocational or industrial training and technical training in trades for prisoners and inmates; and\n(g)to provide or secure the provision of rehabilitative and aftercare services to prisoners and inmates before and after their discharge from custody and to assist the provision by others of those services.\n[23/87; 1/2014]"
+   }
+  },
+  {
+   "id": "SG-H3650-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 4 FUNCTIONS AND POWERS OF CORPORATION"
+   },
+   "heading": {
+    "en": "Powers"
+   },
+   "text": {
+    "en": "16. The Corporation may do all things that are advantageous, necessary or convenient to be done for or in connection with the performance of its functions and, without limiting the foregoing, may —\n(a)provide, whether by itself or with the cooperation of other persons, such vocational or industrial training schemes for any prisoner and inmate as the Corporation thinks fit;\n(b)carry on any trade or business whether by arrangement with other persons or by itself for the purpose of providing facilities for the training of or employment for prisoners and inmates;\n(c)pay such salaries, wages, remuneration or allowances as the Corporation thinks fit to prisoners and inmates who work for the Corporation;\n(d)acquire, hire, procure, construct, erect, manufacture, provide, operate, maintain or repair anything required by the Corporation for the purposes of this Act;\n(e)levy such rates and charges for services performed as the Corporation may consider expedient;\n(f)receive donations and contributions from any source and raise funds by all lawful means;\n(g)make loans to persons, other than prisoners and inmates, who are employed by the Corporation (including loans to assist them to acquire housing accommodation) and guarantee loans made to persons so employed (including loans made by building societies and other bodies for housing purposes);\n(h)promote recreational activities for and activities conducive to the welfare of persons, other than prisoners and inmates, who are or have been engaged in the employment of the Corporation and assist the promotion by others of those activities;\n(i)enter into such contracts as the Corporation considers necessary for the discharge of its functions;\n(j)make grants or lend money to, or enter into guarantees on behalf of, any person or organisation in matters relating to the provision of industrial or vocational training for, or of rehabilitative and aftercare services to, prisoners and inmates before and after their discharge from custody;\n(k)make grants or lend money to, or enter into guarantees on behalf of, prisoners and inmates after their discharge from custody for the purposes of any vocation, trade or business carrying on by them;\n(l)with the Minister’s approval, enter into joint ventures with any person or organisation, or cause to be formed under the provisions of the Companies Act 1967 an incorporated company or companies for the purpose of carrying out any of the functions of the Corporation; and\n(m)do all other things that are incidental to or necessary for the performance of its functions.\n[23/87]"
+   }
+  },
+  {
+   "id": "SG-H3650-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 FUNCTIONS AND POWERS OF CORPORATION"
+   },
+   "heading": {
+    "en": "Appointment of committees and delegation of powers"
+   },
+   "text": {
+    "en": "17.—(1) The Corporation may appoint from among its own members or other persons who are not members such number of committees as it thinks fit consisting of members or other persons, or members and other persons, for purposes which, in the opinion of the Corporation, would be better regulated and managed by means of those committees.\n(2) The Corporation may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee, the Chairperson, any member or the chief executive officer all or any of the powers, functions and duties by this Act vested in the Corporation, except the power to borrow money.\n(3) Any power, function or duty delegated under subsection (2) may be exercised or performed by that committee, the Chairperson, member or the chief executive officer (as the case may be) in the name and on behalf of the Corporation.\n(4) The Corporation may, subject to such conditions or restrictions as it thinks fit, delegate to any employee of the Corporation all or any of the Corporation’s powers, functions and duties by this Act vested in the Corporation, except the power to borrow money or to raise or grant loans or advances to or subscribe to or underwrite the issue of stocks, shares, bonds or debentures of industrial enterprises.\n(5) Any power, function or duty delegated under subsection (4) may be exercised or performed by the employee in the name and on behalf of the Corporation."
+   }
+  },
+  {
+   "id": "SG-H3650-A17.001",
+   "no": 17.001,
+   "noLabel": {
+    "en": "17A."
+   },
+   "chapter": {
+    "en": "PART 4 FUNCTIONS AND POWERS OF CORPORATION"
+   },
+   "heading": {
+    "en": "Corporation’s symbol or representation"
+   },
+   "text": {
+    "en": "17A.—(1) The Corporation has the exclusive right to the use of one or more symbols or representations as the Corporation may select or devise (each called the Corporation’s symbol or representation), and to display or exhibit those symbols or representations in connection with the Corporation’s activities or affairs.\n(2) A person who, without the prior written permission of the Corporation —\n(a)uses a symbol or representation identical to the Corporation’s symbol or representation; or\n(b)uses a symbol or representation which so resembles the Corporation’s symbol or representation as to deceive or to cause confusion, or to be likely to deceive or to cause confusion,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part of a day during which the offence continues after conviction.\n[Act 16 of 2024 wef 17/06/2024]"
+   }
+  },
+  {
+   "id": "SG-H3650-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 5 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Chief executive officer"
+   },
+   "text": {
+    "en": "18.—(1) There must be a chief executive officer of the Corporation, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.\n[5/2018]\n(2) The Corporation may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the chief executive officer during any period, or during all periods, when the chief executive officer —\n(a)is absent from duty or Singapore; or\n(b)is, for any reason, unable to perform the duties of the office.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3650-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 5 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Staff and employees"
+   },
+   "text": {
+    "en": "19. The Corporation may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3650-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 5 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Pension schemes, provident fund, etc."
+   },
+   "text": {
+    "en": "20.—(1) The Corporation may, with the approval of the Minister, make regulations for the establishment of a scheme or schemes for the payment of pensions, gratuities, provident fund or other superannuation benefits to such employees or classes of employees of the Corporation as it may determine, or to their legal personal representatives or dependants, on the death or retirement of those employees from the service of the Corporation or on their otherwise leaving the service of the Corporation.\n(2) Where any person in the service of the Corporation, who does not come within the scope and effect of any pension or other schemes established under this section, retires or dies in the service of the Corporation or is discharged from that service, the Corporation may grant to him or her or to such other person or persons wholly or partly dependent on him or her as the Corporation may think fit such allowance or gratuity as the Corporation may determine."
+   }
+  },
+  {
+   "id": "SG-H3650-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 5 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Remuneration of staff not to be related to profits"
+   },
+   "text": {
+    "en": "21. Any salary, fee, wage or other remuneration or allowance paid by the Corporation to any member, employee or agent must not be computed by reference to the profits of the Corporation."
+   }
+  },
+  {
+   "id": "SG-H3650-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 5 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Personal immunity of members and officers of Corporation"
+   },
+   "text": {
+    "en": "22. No matter or thing done and no contract of any kind entered into by the Corporation and no matter or thing done by any member or by any employee of the Corporation or any other person acting under its direction shall, if the matter or thing was done or the contract was entered into in good faith for the purpose of carrying out the provisions of this Act, subject the member or employee or other person acting under its direction personally to any action, liability, claim or demand in respect thereof."
+   }
+  },
+  {
+   "id": "SG-H3650-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 5 PROVISIONS RELATING TO STAFF"
+   },
+   "text": {
+    "en": "23. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3650-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Corporation’s financial year"
+   },
+   "text": {
+    "en": "24. The financial year of the Corporation begins on 1 April each year and ends on 31 March of the following year.\n[23/87; 2/2020]"
+   }
+  },
+  {
+   "id": "SG-H3650-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Expenses"
+   },
+   "text": {
+    "en": "25. All expenses incurred in carrying out the purposes of this Act are to be met from the funds of the Corporation."
+   }
+  },
+  {
+   "id": "SG-H3650-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Minister’s approval of estimates"
+   },
+   "text": {
+    "en": "26.—(1) A copy of all annual estimates of revenue and expenditure and supplementary estimates must, upon their adoption by the Corporation, be sent without delay to the Minister.\n[5/2018]\n(2) The Minister may approve or disallow any item or portion of any item shown in the annual estimates or supplementary estimates.\n[5/2018]\n(3) The Minister must return the annual estimates or supplementary estimates as amended under subsection (2) to the Corporation, and the Corporation is bound by the Minister’s decision.\n[5/2018]\n(4) The estimates as approved by the Minister must be published in the Gazette.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3650-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Grants"
+   },
+   "text": {
+    "en": "27. For the purpose of enabling the Corporation to carry out its functions under this Act, the Minister may make grants to the Corporation of such sums of money as the Minister may determine out of moneys to be provided by Parliament."
+   }
+  },
+  {
+   "id": "SG-H3650-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Loans"
+   },
+   "text": {
+    "en": "28. The Corporation may for the purposes of this Act, raise loans from the Government or, with the Minister’s consent, from any source."
+   }
+  },
+  {
+   "id": "SG-H3650-A28.001",
+   "no": 28.001,
+   "noLabel": {
+    "en": "28A."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Issue of shares, etc."
+   },
+   "text": {
+    "en": "28A. As a consequence of the vesting of any property, rights or liabilities of the Government in the Corporation under this Act, or of any capital injection or other investment by the Government in the Corporation in accordance with any written law, the Corporation must issue such shares or other securities to the Minister for Finance as that Minister may direct.\n[5/2002]"
+   }
+  },
+  {
+   "id": "SG-H3650-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Power of investment"
+   },
+   "text": {
+    "en": "29. The Corporation may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965.\n[45/2004]"
+   }
+  },
+  {
+   "id": "SG-H3650-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "30. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3650-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "31. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3650-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "32. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3650-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "33. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3650-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 6 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "34. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3650-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Common seal"
+   },
+   "text": {
+    "en": "35.—(1) The Corporation must have a common seal and the seal may be broken, changed, altered and made anew as the Corporation thinks fit.\n(2) All deeds, documents and other instruments requiring the seal of the Corporation must be sealed with the common seal of the Corporation and every instrument to which the common seal is affixed must be signed by a member and must be countersigned by the chief executive officer or by some other person duly authorised by the Corporation for the purpose, and the signing is sufficient evidence that the seal was duly and properly affixed and that the seal is the lawful seal of the Corporation.\n(3) The Corporation may by resolution or otherwise appoint an officer of the Corporation or any other agent, either generally or in a particular case, to execute or sign on behalf of the Corporation any agreement or other instrument not under seal in relation to any matter coming within the powers of the Corporation.\n(4) Section 11 of the Registration of Deeds Act 1988 does not apply to any instrument purporting to have been executed under subsection (2)."
+   }
+  },
+  {
+   "id": "SG-H3650-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "36. The Corporation may, with the approval of the Minister, make such regulations as are necessary for carrying into effect the provisions of this Act.\n[Act 16 of 2024 wef 17/06/2024]"
+   }
+  }
+ ]
+}

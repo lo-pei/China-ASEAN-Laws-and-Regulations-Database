@@ -1,0 +1,52 @@
+{
+ "id": "MM-H018",
+ "title": {
+  "zh": null,
+  "en": null,
+  "orig": null
+ },
+ "country": "MM",
+ "countryName": "缅甸",
+ "layer": "intl",
+ "pack": "mm-p06",
+ "language": "my",
+ "level": null,
+ "category": null,
+ "status": null,
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 183,
+ "source": {
+  "name": "缅甸 — The Edited Settlement of Dispute Law (September, 2014)",
+  "url": "https://www.mol.gov.mm/wp-content/uploads/2014/05/2.1.Edited-Settlement-of-Dispute-Law-2014.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-08",
+ "completenessNote": "全文，共 1 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。（本件原文语种为 my）",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "MM-H018-A1",
+   "no": 1,
+   "noLabel": {
+    "my": "1"
+   },
+   "text": {
+    "my": "[第 1 页无可提取文本层：原件该页疑为扫描图像或空白，正文内容缺失，未作推测补全]\n\n[第 2 页无可提取文本层：原件该页疑为扫描图像或空白，正文内容缺失，未作推测补全]\n\n---\n\n## 完整性说明\n\n- 原件页数：2；可提取文本页数：0。\n- 正文字数（提取自 PDF 文本层）：约 0 词。\n- 缺失/异常：PDF 无文本层（扫描件），正文需人工核对原件图像"
+   }
+  }
+ ]
+}

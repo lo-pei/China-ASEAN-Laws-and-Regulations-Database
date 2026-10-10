@@ -1,0 +1,94 @@
+{
+ "id": "PH-H6843",
+ "title": {
+  "zh": "废止总统令 No",
+  "en": "Penalizing Squatting and other Similar Acts",
+  "orig": "Anti-Squatting Law Repeal Act of 1997 An Act Repealing Presidential Decree No. 772, Entitled \"Penalizing Squatting and other Similar Acts\""
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p97",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1997-10-27",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 8368",
+ "officialCode": null,
+ "topics": [
+  "criminal"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 719,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8368_1997.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1997/ra_8368_1997.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H6843-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Title. – This Act shall be known as the \"Anti-Squatting Law Repeal Act of 1997.\""
+   }
+  },
+  {
+   "id": "PH-H6843-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Repeal. – Presidential Decree No. 772, entitled \"Penalizing Squatting and Other Similar Acts\" is hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H6843-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Effect on pending cases. – All pending cases under the provisions of Presidential Decree No. 772 shall be dismissed upon the effectivity of this Act."
+   }
+  },
+  {
+   "id": "PH-H6843-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Effect on Republic Act No. 7279. – Nothing herein shall be construed to nullify, eliminate or diminish in any way Sec. 27 of Republic Act No. 7279 or any of its provisions relative to sanctions against professional squatters and squatting syndicates."
+   }
+  },
+  {
+   "id": "PH-H6843-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Effectivity. – This Act shall take effect thirty (30) days after its publication in two (2) newspapers of national circulation."
+   }
+  }
+ ]
+}

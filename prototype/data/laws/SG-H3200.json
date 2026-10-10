@@ -1,0 +1,130 @@
+{
+ "id": "SG-H3200",
+ "title": {
+  "zh": null,
+  "en": "Merchant Shipping (Seamen’s Allotments) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p40",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MSA1995-RG27",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 7,
+ "chars": 3139,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MSA1995-RG27?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 7 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3200-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Merchant Shipping (Seamen’s Allotments) Regulations."
+   }
+  },
+  {
+   "id": "SG-H3200-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2.—(1) A reference in these Regulations to a ship shall be read as a reference to a Singapore ship.\n(2) A reference in these Regulations to a seaman shall be read as including a reference to the master of a ship."
+   }
+  },
+  {
+   "id": "SG-H3200-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Circumstances in which seaman may make allotment"
+   },
+   "text": {
+    "en": "3. A seaman employed under an agreement relating to one or more ships who —\n(a)is not exempted from the requirements of section 53 of the Act (which relates to crew agreements) by regulations made under that section; or\n(b)is employed in a ship which is not exempted from those requirements by such regulations,\nmay at any time while he is so employed, by means of an allotment note issued in accordance with these Regulations, allot part of his wages to any person or persons or to a savings bank."
+   }
+  },
+  {
+   "id": "SG-H3200-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Limitations on issue of allotment notes"
+   },
+   "text": {
+    "en": "4.—(1) Unless the seaman’s employer or the master otherwise agrees, a seaman shall not allot more than one half of his wages.\n(2) For the purposes of calculating the proportion of a seaman’s wages specified in paragraph (1) —\n(a)the wages of a seaman shall be taken to be his wages calculated at the rate stipulated in the agreement under which he is employed without any addition (including overtime payments) or deduction whatsoever; and\n(b)an allotment note issued under the law in force immediately before 2nd February 1996 shall be treated as if it had been issued under these Regulations."
+   }
+  },
+  {
+   "id": "SG-H3200-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Times and intervals of payments under allotment notes"
+   },
+   "text": {
+    "en": "5. Unless the seaman’s employer or the master otherwise agrees —\n(a)the first sum payable under an allotment note shall be payable not less than one month from the date on which the allotment note is issued and subsequent sums shall become payable at regular intervals of not less than one month reckoned from the date when the first sum is payable; and\n(b)no sum shall be payable under an allotment note before the seaman has earned any of the wages alloted by it."
+   }
+  },
+  {
+   "id": "SG-H3200-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Form of allotment notes"
+   },
+   "text": {
+    "en": "6. An allotment note shall be in the form specified in the Schedule."
+   }
+  },
+  {
+   "id": "SG-H3200-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRegulation 6\nForm of allotment note\nMERCHANT SHIPPING ACT\n(CHAPTER 179)\nMERCHANT SHIPPING (SEAMEN’S ALLOTMENTS) REGULATIONS\nSEAMEN’S ALLOTMENT NOTE\n(A separate form must be used for each allotment)\nI, (name of seaman), employed in (name of ship and official number) require you (name and address of employer) to pay to (names and addresses of person to whom the allotment is made) the sum of (amount of each payment) on (date of first payment) and at intervals of (intervals at which payments are to be made) and thereafter until (number of payments*) payments have been made or until the agreement under which I am now employed is terminated or until 7 days after I have given notice in writing of revocation of this allotment note to you or to the master of my ship, whichever shall be the earlier.\nSigned: (Signature of seaman)\nDate:\nACKNOWLEDGMENT BY EMPLOYER OR MASTER\nI acknowledge receipt of this note.\n**My agreement to its issue is not required under the Regulations or I agree to its issue.\nSigned:(Signature of master, employer or other person on behalf of the employer of the seaman)\nDate:\n*Leave blank if number of payments is not to be limited.\n**Delete whichever is not applicable."
+   }
+  }
+ ]
+}

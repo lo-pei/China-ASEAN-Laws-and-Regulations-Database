@@ -1,0 +1,86 @@
+{
+ "id": "PH-H2392",
+ "title": {
+  "zh": null,
+  "en": "An Act Exempting Certain Articles from the Special Import Tax Levied Under Republic Act Numbered Thirteen Hundred Ninety-Four by Amending Section One of Republic Act Numbered Twenty-Three Hundred and Fifty-Two, and Providing Penalties for Violations Thereof",
+  "orig": "An Act Exempting Certain Articles from the Special Import Tax Levied Under Republic Act Numbered Thirteen Hundred Ninety-Four by Amending Section One of Republic Act Numbered Twenty-Three Hundred and Fifty-Two, and Providing Penalties for Violations Thereof"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p33",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1960-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2665",
+ "officialCode": null,
+ "topics": [
+  "tax",
+  "trade",
+  "criminal"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1657,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1960/ra_2665_1960.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1960/ra_2665_1960.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H2392-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section one of Republic Act Numbered Twenty-three hundred and fifty-two is hereby amended to include all forms of milk: Provided , however, That existing wholesale and retail prices of milk in all forms and of locally manufactured milk shall be reduced to the extent of the benefit derived the tax exemption granted herein and for such purpose a committee, composed of the Secretary of Commerce and Industry, the Secretary of Labor and the Secretary of Health, is authorized to fix the ceiling wholesale and retail prices of milk in all forms and locally manufactured milk, and issue such rules and regulations as may be necessary. The exemption herein provided shall be enjoyed for a period of two years."
+   }
+  },
+  {
+   "id": "PH-H2392-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Any person who sells in retail milk in all forms and locally manufactured milk at prices beyond those fixed by the committee herein above-mentioned and of the rules and regulations issued by said committee shall be punished with imprisonment of not less than one year and not more than five years and a fine of not less than one thousand pesos and not more than five thousand pesos or both in the discretion of the court. If the offender is a corporation or association, the penalty shall be imposed upon the president, director, managing partner, manager and/or officer thereof responsible for the violation. If the offender is an alien, he shall in addition be punished with deportation without any further proceedings before the Deportation Board."
+   }
+  },
+  {
+   "id": "PH-H2392-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Any portion of this Act which shall be found to be unconstitutional shall not affect the remaining portions which are constitutional."
+   }
+  },
+  {
+   "id": "PH-H2392-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960"
+   }
+  }
+ ]
+}

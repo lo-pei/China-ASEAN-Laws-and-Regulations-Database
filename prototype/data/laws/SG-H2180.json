@@ -1,0 +1,81 @@
+{
+ "id": "SG-H2180",
+ "title": {
+  "zh": null,
+  "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification 2008",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p27",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ITA1947-S97-2008",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 3049,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ITA1947-S97-2008?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2180-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. This Notification may be cited as the Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification 2008 and shall be deemed to have come into operation on 27th February 2004."
+   }
+  },
+  {
+   "id": "SG-H2180-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In this Notification —\n“approved securitisation company” and “asset securitisation transaction” have the same meanings as in section 13M(4) of the Act;\n[S 327/2024 wef 31/12/2021]\n“Authority” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act 1970;\n[S 327/2024 wef 31/12/2021]\n“financial derivatives” means derivatives the payoffs of which are linked, whether in whole or in part, to the payoffs or performance of any financial assets, securities, financial instruments or indices, but does not include derivatives the payoffs of which are linked wholly to the payoffs or performance of commodities.\n[S 327/2024 wef 04/11/2022]\n[Deleted by S 327/2024 wef 04/11/2022]"
+   }
+  },
+  {
+   "id": "SG-H2180-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "3.—(1) Subject to sub-paragraphs (1A) and (2), there shall be exempt from tax any payment made by a company for the time being approved as an approved securitisation company to a person who is neither resident in Singapore nor a permanent establishment in Singapore —\n(a)on over-the-counter financial derivatives in connection with an asset securitisation transaction, where the payment is liable to be made during the period from 27th February 2004 to 31st December 2008 (both dates inclusive) under —\n(i)a contract for such derivatives which took effect before 15th February 2007; or\n(ii)a contract for such derivatives which is extended or renewed, where the extension or renewal took effect before 15th February 2007; and\n(b)on over-the-counter financial derivatives in connection with an asset securitisation transaction, where the payment is liable to be made under —\n(i)a contract for such derivatives which takes effect during the period from 15th February 2007 to 31st December 2008 (both dates inclusive); or\n(ii)a contract for such derivatives which is extended or renewed, where the extension or renewal takes effect during the period from 15th February 2007 to 31st December 2008 (both dates inclusive).\n[S 327/2024 wef 15/04/2024]\n(1A) However, the exemption in sub-paragraph (1) does not apply to a payment made —\n(a)on a contract mentioned in sub-paragraph (1)(b)(i) or (ii), that is varied with effect from a date on or after 1 January 2029; and\n(b)on or after the date on which the variation takes effect.\n[S 327/2024 wef 15/04/2024]\n(2) The exemption under sub-paragraph (1) shall be subject to —\n(a)the approved securitisation company being resident in Singapore;\n(b)the conditions specified in regulation 3 of the Income Tax (Exemption of Income of Approved Securitisation Company) Regulations 2008 (G.N. No. S 96/2008); and\n(c)the approved securitisation company making such declaration in relation to any transaction with a related party of the approved securitisation company as may be required by the Comptroller or the Authority for the purpose of this Notification."
+   }
+  }
+ ]
+}

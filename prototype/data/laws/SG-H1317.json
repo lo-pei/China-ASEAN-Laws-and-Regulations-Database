@@ -1,0 +1,650 @@
+{
+ "id": "SG-H1317",
+ "title": {
+  "zh": null,
+  "en": "Enlistment Act 1970",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p17",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act EA1970",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 38,
+ "chars": 51122,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/EA1970?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 38 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1317-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Enlistment Act 1970."
+   }
+  },
+  {
+   "id": "SG-H1317-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“annually” and “year” mean the period from 1 April of each year to 31 March of the following year;\n“armed forces” means any force constituted under the Singapore Armed Forces Act 1972, and such other force constituted under any written law, as the Minister may designate by notification in the Gazette;\n[Act 10 of 2024 wef 01/05/2024]\n“duty” includes training;\n“employer” means any person who employs another person under a contract of service and includes the person who owns or is carrying on or is for the time being responsible for the management of a profession, business, trade or work in which other persons are employed;\n“fitness examination” means any examination which is considered by the proper authority to be necessary for the purpose of determining the fitness of a person for service;\n“full-time service” means service under section 12;\n“medical examination” includes any dental examination, blood test, X‑ray examination and any other examination or test that a medical board may consider necessary;\n“mobilised service” means service under section 18;\n“national service” means service under Parts 3 and 4 in the armed forces and service in the Singapore Police Force and the Singapore Civil Defence Force or such other force, body or organisation as the Minister may designate for this purpose by notification in the Gazette;\n[Act 10 of 2024 wef 01/05/2024]\n“national serviceman” means a person in national service;\n“officer” —\n(a)in relation to the Singapore Armed Forces, has the meaning given by section 2(1) of the Singapore Armed Forces Act 1972;\n(b)in relation to the Singapore Police Force, means an officer of the Singapore Police Force of a rank not below Probationary Inspector; and\n(c)in relation to the Singapore Civil Defence Force, means an officer of the Singapore Civil Defence Force of a rank not below Second Lieutenant;\n[Act 10 of 2024 wef 01/05/2024]\n“operationally ready national service” means service under section 14;\n“permanent resident” means a permanent resident of Singapore as defined by section 2 of the Immigration Act 1959;\n[Act 31 of 2023 wef 01/12/2025]\n“person subject to this Act” means a person who is a citizen of Singapore or a permanent resident thereof and who is not less than 16 years and 6 months of age and not more than 40 years of age or, in the case of a person who —\n(a)is an officer of the Singapore Armed Forces, the Singapore Police Force or the Singapore Civil Defence Force (as the case may be) or a senior military expert;\n[Act 10 of 2024 wef 01/05/2024]\n(b)is an officer of the armed forces of a rank as may be regarded by the proper authority to be equivalent to that of an officer of the Singapore Armed Forces; or\n[Act 10 of 2024 wef 01/05/2024]\n(c)is skilled in an occupation which the Minister by notification in the Gazette designates as an occupation required to meet the needs of the armed forces, the Singapore Police Force or the Singapore Civil Defence Force, as the case may be,\n[Act 10 of 2024 wef 01/05/2024]\nnot more than 50 years of age;\n“proper authority” means the Armed Forces Council established under section 8 of the Singapore Armed Forces Act 1972 and any person or body appointed by it by name or by office for the purposes of the whole or any Part of this Act;\n“registered medical practitioner” has the same meaning as in the Medical Registration Act 1997;\n“regular service” means service under section 19;\n“regular serviceman” means a person in regular service;\n“senior military expert” has the same meaning as in the Singapore Armed Forces Act 1972;\n“service” means national service and regular service;\n“Singapore Armed Forces” means the Singapore Armed Forces constituted under the Singapore Armed Forces Act 1972;\n[Deleted by Act 10 of 2024 wef 01/05/2024]\n“Singapore Civil Defence Force” means the Singapore Civil Defence Force constituted under the Civil Defence Act 1986;\n[Act 10 of 2024 wef 01/05/2024]\n“Singapore Police Force” means the Singapore Police Force constituted under the Police Force Act 2004;\n[Act 10 of 2024 wef 01/05/2024]\n“subordinate military court” has the same meaning as in the Singapore Armed Forces Act 1972;\n[Deleted by Act 10 of 2024 wef 01/05/2024]\n“voluntary service in the Singapore Armed Forces” means service as a volunteer as defined in the Singapore Armed Forces Act 1972.\n[13/2003; 28/2009; 10/2015]\n[Act 10 of 2024 wef 01/05/2024]"
+   }
+  },
+  {
+   "id": "SG-H1317-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION"
+   },
+   "heading": {
+    "en": "Persons required to register"
+   },
+   "text": {
+    "en": "3.—(1) The proper authority may from time to time by notice require a person subject to this Act to report for registration and for fitness examination for the purposes of service under this Act.\n(2) A person required to report for registration and fitness examination under subsection (1) shall report to the proper authority at such date, time and place as may be specified in the notice and shall attend from day to day until duly registered and examined."
+   }
+  },
+  {
+   "id": "SG-H1317-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION"
+   },
+   "heading": {
+    "en": "Registration"
+   },
+   "text": {
+    "en": "4.—(1) A person required to report for registration shall —\n(a)furnish such particulars about himself as may be prescribed;\n(b)submit for inspection to the proper authority such certificates or documents as may be prescribed;\n(c)carry on his person such certificate or document as may be issued by the proper authority and present that document or certificate on demand to the proper authority or to any military policeman, police officer or to any person acting on his behalf; and\n(d)submit to the taking of his photograph and finger impressions.\n(2) Any person affected by a notice given under section 3(1) who, without lawful excuse, fails to present himself for registration in accordance with the notice shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.\n[14/2006]\n(3) The court before which a person is convicted of an offence under subsection (2) may also order that person to present himself for registration for national service on or before a specified date and any person who, without lawful excuse, fails to present himself for registration in accordance with such an order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50 for every day during which he fails to register himself after the specified date."
+   }
+  },
+  {
+   "id": "SG-H1317-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION"
+   },
+   "heading": {
+    "en": "Fitness examination"
+   },
+   "text": {
+    "en": "5. A person required to report for a fitness examination shall —\n(a)undergo or submit himself to that examination; and\n(b)furnish the proper authority with correct and complete information in respect of any matter which the proper authority considers to be material for the purpose of determining his fitness for service or fitness for any duty in service."
+   }
+  },
+  {
+   "id": "SG-H1317-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION"
+   },
+   "heading": {
+    "en": "Information"
+   },
+   "text": {
+    "en": "6. The proper authority may, in accordance with regulations made under this Act, order any person to furnish information in respect of a person subject to this Act."
+   }
+  },
+  {
+   "id": "SG-H1317-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION"
+   },
+   "heading": {
+    "en": "Fitness for service"
+   },
+   "text": {
+    "en": "7.—(1) The fitness for service of a person subject to this Act shall be determined, from time to time, by the proper authority in accordance with the fitness examination and the needs of the armed forces, the Singapore Police Force or the Singapore Civil Defence Force, as the case may be.\n[Act 10 of 2024 wef 01/05/2024]\n(2) No person who is not medically fit shall be found fit for service."
+   }
+  },
+  {
+   "id": "SG-H1317-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION"
+   },
+   "heading": {
+    "en": "Medical examination"
+   },
+   "text": {
+    "en": "8.—(1) The proper authority shall appoint medical boards for the purpose of determining the medical fitness of persons required to report for a fitness examination.\n(2) Every medical board shall consist of one or more members who shall be registered medical practitioners.\n(3) In the case of a medical board consisting of more than one member, the proper authority shall nominate one of the members to be chairman.\n(4) Where a medical board consists of more than one member, it shall determine whether a person is medically fit or not by a majority vote.\n(5) In the case of an equality of votes, the chairman of the medical board shall have a second or casting vote.\n(6) Every medical board shall act for and on behalf of the proper authority and may subject a person required to report for a fitness examination to a medical examination.\n(7) For the purpose of conducting a medical examination, a medical board may require a person subject to this Act who is liable to report for a fitness examination to be examined by a person who is not a member of the medical board."
+   }
+  },
+  {
+   "id": "SG-H1317-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 REGISTRATION"
+   },
+   "heading": {
+    "en": "Further reporting"
+   },
+   "text": {
+    "en": "9. The proper authority may, at any time, require a person subject to this Act who is liable to report for registration or a fitness examination to report again on such other occasions as may be considered necessary."
+   }
+  },
+  {
+   "id": "SG-H1317-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 NATIONAL SERVICE"
+   },
+   "heading": {
+    "en": "Duty to report for enlistment"
+   },
+   "text": {
+    "en": "10.—(1) Subject to the provisions of this Act, the proper authority may by notice require a person subject to this Act not below the age of 18 years to report for enlistment for national service.\n(2) A person required to report for enlistment for national service shall report to the proper authority on such date and at such time and place as may be specified in the notice and shall attend from day to day until duly enlisted.\n(3) Enlistment for national service shall be in the manner approved by the proper authority.\n(4) No duty of any kind shall be imposed on a person required to report for enlistment or service unless he is found fit for service."
+   }
+  },
+  {
+   "id": "SG-H1317-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 NATIONAL SERVICE"
+   },
+   "heading": {
+    "en": "Liability to be transferred from one service to another"
+   },
+   "text": {
+    "en": "11. A person required under section 10 to report for enlistment for national service shall be liable to render any form of national service and may at any time, at the discretion of the proper authority, be transferred from one form of service to another, from one force to another or from one unit to another."
+   }
+  },
+  {
+   "id": "SG-H1317-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 NATIONAL SERVICE"
+   },
+   "heading": {
+    "en": "Liability to render full-time service"
+   },
+   "text": {
+    "en": "12.—(1) Every person subject to this Act who is fit for national service and enlisted on or after 1 January 1971 shall be liable to render full‑time service for a period not exceeding 2 years except that where a person —\n(a)is, during the period of service in —\n(i)the Singapore Armed Forces or the Singapore Civil Defence Force, promoted to a rank above the rank of Lance‑Corporal in the Singapore Armed Forces or the Singapore Civil Defence Force, as the case may be;\n(ii)the Singapore Police Force, promoted to a rank above the rank of Special Constable 2 in the Singapore Police Force; or\n(iii)any of the other armed forces or in a force, body or organisation which is designated by the Minister for the purposes of national service, promoted to a rank as may be regarded by the proper authority as equal to a rank above the rank of Lance‑Corporal in the Singapore Armed Forces;\n[Act 10 of 2024 wef 01/05/2024]\n(b)holds, during the period of service in a force, body or organisation which is designated by the Minister for the purposes of national service and in which there is no classification of the members of the force, body or organisation into ranks similar to those in any of the armed forces, such position or has, during the period of service in such force, body or organisation, such status as may be regarded by the proper authority as equal to the position or status, as the case may be, of a national serviceman in the Singapore Armed Forces who holds a rank above the rank of Lance‑Corporal in the Singapore Armed Forces;\n(c)is, during the period of service in —\n(i)the Singapore Armed Forces, the Singapore Police Force or the Singapore Civil Defence Force, selected by the proper authority for training or a course intended to qualify the person to be an officer in the Singapore Armed Forces, the Singapore Police Force or the Singapore Civil Defence Force, as the case may be; or\n(ii)any of the other armed forces, or in a force, body or organisation which is designated by the Minister for the purposes of national service, selected for training or a course intended to qualify the person for such rank, position or status as may be regarded by the proper authority as equal to the rank, position or status, as the case may be, of an officer in the Singapore Armed Forces; or\n[Act 10 of 2024 wef 01/05/2024]\n(d)having been so selected as referred to in paragraph (c), is currently undergoing such officer training or other training or attending the course,\nsuch person shall be liable to serve for a period not exceeding 2 years and 6 months.\n(2) A reduction or reversion in rank or the loss of a position or status referred to in subsection (1) shall not affect the liability of a person incurred under that subsection."
+   }
+  },
+  {
+   "id": "SG-H1317-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 NATIONAL SERVICE"
+   },
+   "heading": {
+    "en": "Duty to render operationally ready national service"
+   },
+   "text": {
+    "en": "13. Every person subject to this Act, who is fit for national service, shall be liable, while not in any full‑time service under this Act, to render operationally ready national service."
+   }
+  },
+  {
+   "id": "SG-H1317-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 NATIONAL SERVICE"
+   },
+   "heading": {
+    "en": "Operationally ready national service liability"
+   },
+   "text": {
+    "en": "14.—(1) Every person who is liable for operationally ready national service shall —\n(a)report for service, in accordance with this Act, whenever he is required to do so by the proper authority on the date and at the time appointed by the proper authority for him to report for operationally ready national service; and\n(b)serve, while fit for national service, for a period or periods not exceeding in the aggregate 40 days annually.\n[Act 10 of 2024 wef 01/05/2024]\n(2) Nothing in subsection (1) shall preclude any person who is liable for operationally ready national service from serving for a period or periods longer than the period or periods specified in subsection (1)(b) if so authorised by the proper authority.\n[Act 10 of 2024 wef 01/05/2024]"
+   }
+  },
+  {
+   "id": "SG-H1317-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 NATIONAL SERVICE"
+   },
+   "heading": {
+    "en": "Computation of operationally ready national service"
+   },
+   "text": {
+    "en": "15.—(1) In computing the periods of operationally ready national service required under section 14(1)(b) or (2), the following provisions shall apply:\n(a)where a period of continuous operationally ready national service falls within 2 years, the whole period shall be deemed to fall within the first year;\n(b)a period of operationally ready national service not exceeding 4 hours shall be deemed to be half a day of service;\n(c)a period of operationally ready national service between 4 and 24 hours shall be deemed to be one day of service; and\n(d)where a person serves for a period exceeding 24 hours, every calendar day on which he serves, including the first and the last day, shall be deemed to be one day of service though the latter periods might be of less than 24 hours duration.\n[Act 10 of 2024 wef 01/05/2024]\n(2) For the purposes of subsection (1)(c), where a period of operationally ready national service between 18 and 24 hours falls within 2 calendar days it shall be deemed to be 2 days of service."
+   }
+  },
+  {
+   "id": "SG-H1317-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 4 MOBILISED SERVICE"
+   },
+   "heading": {
+    "en": "Proclamation by President"
+   },
+   "text": {
+    "en": "16. Where the interests of Singapore so require, the President may, by proclamation, empower the proper authority to call out persons liable to render full-time service, operationally ready national service or regular service for mobilised service.\n[19/94]"
+   }
+  },
+  {
+   "id": "SG-H1317-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 MOBILISED SERVICE"
+   },
+   "heading": {
+    "en": "Mobilised service liability"
+   },
+   "text": {
+    "en": "17. Where a proclamation under section 16 is issued, the proper authority may order —\n(a)that a person shall not be released at the end of his period of full‑time service, operationally ready national service or regular service and that the person shall continue to render mobilised service; and\n(b)that a person liable for operationally ready national service shall report for mobilised service."
+   }
+  },
+  {
+   "id": "SG-H1317-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 MOBILISED SERVICE"
+   },
+   "heading": {
+    "en": "Liability to render mobilised service"
+   },
+   "text": {
+    "en": "18. Every person liable for mobilised service shall upon a proclamation being issued under section 16 report for mobilised service and remain in mobilised service until discharged or released by the proper authority."
+   }
+  },
+  {
+   "id": "SG-H1317-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 5 REGULAR SERVICE"
+   },
+   "heading": {
+    "en": "Regular service"
+   },
+   "text": {
+    "en": "19.—(1) Any person may apply to the proper authority to be enlisted for regular service in the Singapore Armed Forces.\n[7/72]\n(2) Where a person applies to be enlisted for such regular service, the proper authority may require him to report for registration and fitness examination.\n(3) Where the proper authority approves and accepts the application of any person for regular service, the proper authority shall notify the person of that acceptance and may require him to report for enlistment and service."
+   }
+  },
+  {
+   "id": "SG-H1317-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 5 REGULAR SERVICE"
+   },
+   "heading": {
+    "en": "Terms and conditions of regular service"
+   },
+   "text": {
+    "en": "20.—(1) A person required to report under section 19 shall be liable to render regular service for the period approved by the proper authority and under such terms and conditions as may be provided for from time to time in regulations made under any written law relating to the armed forces.\n(2) No person shall be liable to render regular service in excess of the period for which he has applied to serve.\n(3) The proper authority may at any time order the discharge of a person from regular service before the expiry of his period of service for any reason provided for in regulations made under any written law relating to the armed forces.\n(4) Subject to subsection (5), where a regular serviceman is sentenced by a subordinate military court to a discharge with ignominy or dismissal, he shall be deemed to be discharged from regular service on the occurrence of any of the following events:\n(a)where no petition of review or appeal has been lodged — the expiration of the time limited for the lodging of such petition; or\n(b)where a petition of review or appeal has been lodged — the confirmation of the sentence by the reviewing authority or the Military Court of Appeal, as the case may be.\n[13/2003]\n(5) The discharge of a regular serviceman under subsection (4) shall take effect from the date of the sentence by reason of which he is discharged or from such other date as may be specified by the subordinate military court.\n[13/2003]\n(6) In this section —\n“Military Court of Appeal” means the Court established under Part 7 of the Singapore Armed Forces Act 1972;\n“reviewing authority” means the reviewing authority referred to in section 116(1) of the Singapore Armed Forces Act 1972.\n[13/2003]"
+   }
+  },
+  {
+   "id": "SG-H1317-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 6 DUTY OF EMPLOYER"
+   },
+   "heading": {
+    "en": "Reinstatement of servicemen in employment"
+   },
+   "text": {
+    "en": "21.—(1) Every employer, who has had in his employment a person subject to this Act for a continuous period of at least 6 months immediately preceding the date on which that person was ordered —\n(a)to report for or actually perform full‑time service, operationally ready national service or mobilised service; or\n(b)to report for mobilised service under section 73 or 97 of the Police Force Act 2004 or section 113(1)(a) of the Civil Defence Act 1986,\nshall reinstate that person in his employment at the termination of such service.\n[24/2004; 53/2018]\n(2) Notwithstanding subsection (1), where the person referred to in that subsection has been required to perform further operationally ready national service under section 118(17) of the Singapore Armed Forces Act 1972 the employer may, in his discretion, reinstate that person.\n(3) Subsections (1) and (2) shall not apply to an employer if the person subject to this Act whom he has had in his employment was called up for full‑time service and would have remained in that employment only for an agreed definite or certain period of time had that person not been ordered to perform full‑time service.\n(4) Where a person subject to this Act is reinstated under subsection (1) or (2), the employer shall whenever practicable reinstate him in an occupation and under conditions not less favourable than those which would have been applicable to him had he not been in service.\n(5) Any employer who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both, and the court by which he is convicted may order the employer to pay to the person whom he has failed to reinstate a sum not exceeding an amount equal to 3 months’ remuneration at the rate at which remuneration was last payable to him by the employer.\n(6) In any proceedings under this section, it shall be a defence for the employer to prove that the person formerly employed by him did not, before the expiration of 3 months after termination of the service for which that person was called up, apply to the employer for reinstatement."
+   }
+  },
+  {
+   "id": "SG-H1317-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 6 DUTY OF EMPLOYER"
+   },
+   "heading": {
+    "en": "Prohibition against dismissal"
+   },
+   "text": {
+    "en": "22.—(1) No employer shall dismiss a person subject to this Act solely or mainly by reason of any duty or liability which that person is, or may become, liable to perform or discharge by reason of his being, or being liable to be, called up for —\n(a)service under this Act;\n(b)mobilised service under section 73 of the Police Force Act 2004 or section 113(1)(a) of the Civil Defence Act 1986; or\n(c)voluntary service in the Singapore Armed Forces,\n[Act 10 of 2024 wef 01/05/2024]\nunless that person —\n(d)has assumed duty or liability in connection with additional operationally ready national service under a punishment imposed by a court under section 118(17) of the Singapore Armed Forces Act 1972; or\n(e)is called up for full‑time service and is employed only for an agreed definite or certain period of time.\n[24/2004; 53/2018]\n(2) An employer may, in his discretion, dismiss any person to whom subsection (1)(d) or (e) applies.\n(3) For the purpose of this section where any duty or liability of service under this Act caused or contributed to the dismissal of a person subject to this Act, he shall be deemed to have been dismissed by reason of that duty or liability, unless the employer proves that the dismissal was for a reason unconnected therewith.\n(4) Any employer who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both, and the court by which he is convicted may order the employer to pay to the dismissed person as compensation a sum not exceeding an amount equal to 3 months’ remuneration at the rate at which remuneration was last payable to him by the employer."
+   }
+  },
+  {
+   "id": "SG-H1317-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 6 DUTY OF EMPLOYER"
+   },
+   "heading": {
+    "en": "Leave of absence"
+   },
+   "text": {
+    "en": "23.—(1) The employer of a person required to report for —\n(a)national service;\n(b)mobilised service under section 73 of the Police Force Act 2004 or section 113(1)(a) of the Civil Defence Act 1986; or\n(c)voluntary service in the Singapore Armed Forces,\n[Act 10 of 2024 wef 01/05/2024]\nshall grant that person leave of absence during his period of service.\n[24/2004; 53/2018]\n(2) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both."
+   }
+  },
+  {
+   "id": "SG-H1317-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 6 DUTY OF EMPLOYER"
+   },
+   "heading": {
+    "en": "Loss of civilian remuneration"
+   },
+   "text": {
+    "en": "24.—(1) Subject to such conditions, restrictions or limitations as the Minister may by regulations provide, a person who is performing any —\n(a)[Deleted by Act 10 of 2024 wef 01/05/2024]\n(b)operationally ready national service under section 14(1)(b) or (2);\n[Act 10 of 2024 wef 01/05/2024]\n(c)voluntary service in the Singapore Armed Forces; or\n[Act 10 of 2024 wef 01/05/2024]\n(d)mobilised service,\nand who, immediately prior to the performance of such service, was or is —\n(e)self‑employed;\n(f)a platform worker providing a platform service for a platform operator;\n[Act 30 of 2024 wef 01/01/2025]\n(g)gainfully employed by one or more employers;\n[Act 30 of 2024 wef 01/01/2025]\n(h)self-employed as well as a platform worker;\n[Act 30 of 2024 wef 01/01/2025]\n(i)self-employed as well as gainfully employed under a contract of service;\n[Act 30 of 2024 wef 01/01/2025]\n(j)a platform worker as well as gainfully employed under a contract of service; or\n[Act 30 of 2024 wef 01/01/2025]\n(k)self-employed, gainfully employed under a contract of service as well as a platform worker,\nshall be entitled to claim reimbursement of an amount by which his civilian remuneration is reduced as a result of being required to perform such service, less any service remuneration to which he is entitled in respect of that service.\n[Act 10 of 2024 wef 01/05/2024]\n[Act 30 of 2024 wef 01/01/2025]\n(2) The designated authority may pay the claims under subsection (1) from moneys to be provided by Parliament.\n(3) If a dispute arises between the designated authority and a person subject to this Act as to the amount that such person may claim by way of reimbursement under subsection (1), the matter shall be referred to the Minister whose decision shall be final.\n(4) Where a person subject to this Act is required to perform further operationally ready national service under section 118(17) of the Singapore Armed Forces Act 1972, his employer shall, subject to subsection (5), be liable to pay that person at a rate equal to his usual rate of civilian remuneration, less the amount of any remuneration due to him in respect of such further operationally ready national service, except that —\n(a)where that person is gainfully employed under a contract of service by 2 or more employers — each of the employers concerned shall be liable to pay the difference between his civilian remuneration and his service remuneration in the proportion that the civilian remuneration paid by each of the employers bears to the total civilian remuneration that the operationally ready national serviceman receives from all his employers; or\n(b)where that person —\n(i)is self-employed as well as gainfully employed under a contract of service;\n(ii)is a platform worker as well as is gainfully employed under a contract of service; or\n(iii)is self-employed, a platform worker as well as is gainfully employed under a contract of service,\nhis employer shall only be liable to pay the difference between his civilian remuneration and his service remuneration in the proportion that the civilian remuneration paid by his employer bears to his total civilian remuneration.\n[Act 30 of 2024 wef 01/01/2025]\n(5) An employer who has paid any sum under subsection (4) shall not be entitled to claim reimbursement thereof from the designated authority.\n(6) Where under the Central Provident Fund Act 1953 an employer pays contributions in respect of his employee, the employer shall continue to pay the same amount of contributions and at the same rate notwithstanding that his employee is performing —\n(a)any service under section 14 of this Act or section 118(17) of the Singapore Armed Forces Act 1972, unless the employee has been dismissed under section 22 of this Act on account of his further service under section 118(17) of the Singapore Armed Forces Act 1972;\n(b)any voluntary service in the Singapore Armed Forces; or\n[Act 10 of 2024 wef 01/05/2024]\n(c)any mobilised service.\n(6A) Where under the Central Provident Fund Act 1953 a platform operator pays contributions in respect of a platform worker who provides a platform service for that platform operator, the platform operator shall continue to pay the same amount of contributions and at the same rate notwithstanding that the platform worker is performing —\n(a)any service under section 14 of this Act or section 118(17) of the Singapore Armed Forces Act 1972;\n(b)any voluntary service in the Singapore Armed Forces; or\n(c)any mobilised service.\n[Act 30 of 2024 wef 01/01/2025]\n(7) In this section and section 25 —\n“civilian remuneration”, in respect of any person, means the following moneys which the person would have received had he not been required to perform any relevant service —\n(a)remuneration derived from gainful employment, self‑employment or the provision of a platform service for a platform operator; and\n[Act 10 of 2024 wef 01/05/2024]\n[Act 30 of 2024 wef 01/01/2025]\n(b)any other pay component —\n(i)that is provided to be paid to the person under his contract of employment or service;\n(ii)that is, immediately before the date of the commencement of relevant service, received by the person on a regular basis for such period as may be prescribed by regulations;\n(iii)in respect of which the employer is liable to pay contributions under section 7 of the Central Provident Fund Act 1953, unless exempted under that Act; and\n(iv)that falls within the definition of “gains or profits from any employment” in section 10(2) of the Income Tax Act 1947,\nbut does not include ex gratia payments or allowances paid to reimburse the person for expenses incurred by him in the course of employment;\n“designated authority” means any person designated by the Minister for the purposes of this Act;\n“mobilised service” includes mobilised service under section 73 or 97 of the Police Force Act 2004 or section 113(1)(a) of the Civil Defence Act 1986;\n“platform operator” has the meaning given by section 4 of the Platform Workers Act 2024;\n[Act 30 of 2024 wef 01/01/2025]\n“platform service” has the meaning given by section 3 of the Platform Workers Act 2024;\n[Act 30 of 2024 wef 01/01/2025]\n“platform worker” has the meaning given by section 5(1) of the Platform Workers Act 2024;\n[Act 30 of 2024 wef 01/01/2025]\n“relevant service” means —\n(a)service under section 14 or 18 of this Act or section 118(17) of the Singapore Armed Forces Act 1972;\n(b)voluntary service in the Singapore Armed Forces; or\n[Act 10 of 2024 wef 01/05/2024]\n(c)mobilised service;\n[Deleted by Act 10 of 2024 wef 01/05/2024]\n“service remuneration” means any remuneration payable by the Government for any service before any deduction is made under any written law or with any order or instruction of the Government or the armed forces.\n[24/2004; 53/2018]\n[Act 10 of 2024 wef 01/05/2024]"
+   }
+  },
+  {
+   "id": "SG-H1317-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 6 DUTY OF EMPLOYER"
+   },
+   "heading": {
+    "en": "Direct payment by employer"
+   },
+   "text": {
+    "en": "25.—(1) Subject to the designated authority’s consent and to such conditions, restrictions and limitations as may be prescribed in regulations made under this Act, the employer of a person who is entitled to claim reimbursement in respect of the performance of any relevant service under section 24(1) may pay the person his civilian remuneration in respect of the period of service and claim that amount from the designated authority.\n(2) A person shall not be entitled to claim reimbursement in respect of the performance of any relevant service under section 24(1) if he has been paid his civilian remuneration by his employer under subsection (1).\n(3) If a dispute arises between the designated authority and the employer as to the amount that the employer may claim under subsection (1), the matter shall be referred to the Minister whose decision shall be final."
+   }
+  },
+  {
+   "id": "SG-H1317-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Application of military law"
+   },
+   "text": {
+    "en": "26.—(1) Any person required under this Act to report for enlistment or service in the Singapore Army established under the repealed Singapore Army Act 1965 (Act 13 of 1965) or the People’s Defence Force as constituted under the repealed People’s Defence Force Act (Cap. 234, 1970 Revised Edition), shall, from such date and time as may be specified, be subject to military law.\n(2) The repealed Singapore Army Act 1965 (Act 13 of 1965) or any other Act relating to the armed forces shall apply to the person referred to in subsection (1) notwithstanding that he has not complied with the order."
+   }
+  },
+  {
+   "id": "SG-H1317-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Release and unaccountable periods"
+   },
+   "text": {
+    "en": "27.—(1) Subject to this Act, a national serviceman or a regular serviceman shall be released by the proper authority at the end of the period which he is liable to serve.\n(2) In computing the period of service of any person referred to in subsection (1), no account shall be taken of —\n(a)any period before the day on which he reported for enlistment or for national service;\n(b)any period of absence from duty without leave or desertion where he was convicted therefor;\n(c)any period during which he was serving or would have been serving, if he were not unlawfully at large, a term of imprisonment, special detention, detention under any written law or reformative training;\n[Act 10 of 2024 wef 01/05/2024]\n(d)any period during which he was under close arrest or civil custody on a charge for an offence of which he was subsequently convicted by a subordinate military court or a civil court or at summary trial;\n[Act 10 of 2024 wef 01/05/2024]\n(e)any period during which he was —\n(i)serving a term of imprisonment or other detention outside Singapore;\n(ii)held in custody in a jurisdiction outside Singapore; or\n(iii)prevented by any authority or court in a jurisdiction outside Singapore from returning to Singapore;\n[Act 10 of 2024 wef 01/05/2024]\n(f)any period during which he was on leave of absence that was authorised by the proper authority and for which he did not receive any service remuneration as defined in section 24(7);\n[Act 10 of 2024 wef 01/05/2024]\n(g)any period during which he was on medical leave which was subsequently rescinded by the medical officer or medical practitioner who issued the medical certificate for the medical leave or by any other authority appointed by the relevant proper authority; or\n[Act 10 of 2024 wef 01/05/2024]\n(h)any period of such duration or description, or during which the person was subject to such circumstances, as may be prescribed.\n[13/2003]\n[Act 10 of 2024 wef 01/05/2024]\n(3) In this section —\n“civil court” has the meaning given by section 2(1) of the Singapore Armed Forces Act 1972;\n“civil custody” means any custody that does not fall within the definition of “military custody” in section 2(1) of the Singapore Armed Forces Act 1972 and includes the following:\n(a)custody after arrest;\n(b)custody on remand by a civil court;\n(c)custody when bail is revoked;\n(d)custody or detention authorised under any written law;\n“summary trial” has the meaning given by section 2(1) of the Singapore Armed Forces Act 1972.\n[13/2003]\n[Act 10 of 2024 wef 01/05/2024]"
+   }
+  },
+  {
+   "id": "SG-H1317-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Postponement"
+   },
+   "text": {
+    "en": "28. The proper authority may by notice postpone for such period as it may consider appropriate all or any part of the liability of any person under this Act."
+   }
+  },
+  {
+   "id": "SG-H1317-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "29. The proper authority may by notice exempt any person from all or any part of the liability of that person under this Act."
+   }
+  },
+  {
+   "id": "SG-H1317-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Orders, notices, permits and appointments"
+   },
+   "text": {
+    "en": "30.—(1) Orders, notices, permits and appointments issued or made under this Act may be of a general nature or may refer to a class of persons or to one person or to any number of persons.\n(2) An order or notice issued or made under this Act may be served on any person —\nPersonal delivery and telephone conversation\n(a)by delivering it personally, or reading the contents of the order or notice over the telephone personally, to that person;\nPublication in newspapers and Gazette\n(b)by publishing it in the daily newspapers circulating in Singapore in all the official languages or in the Gazette;\nBroadcast over radio and television\n(c)by broadcasting it over the radio and television in the prescribed manner;\nPublic-address system or siren\n(d)by audible signals given in the prescribed manner over a public‑address system or through a siren where such signals are audible from the usual or last known place of residence, business and employment of the person to be served;\nRegistered post\n(e)by sending it by registered post to the person to be served at the usual or last known place of residence or business of that person;\nDelivery to member of family or household at residence\n(f)by leaving it at the usual or last known place of residence of the person to be served with a member of his family or household who is apparently above the age of 16 years and apparently residing at that place;\nTelephone conversation with member of family or household\n(g)by reading the contents of the order or notice over the telephone to a member of the family or household of the person to be served who is apparently above the age of 16 years and apparently residing at the usual or last known place of residence of the person to be served;\nDelivery to employee or person in charge of working place\n(h)by leaving it at the usual or last known place of business or employment of the person to be served with a person apparently above the age of 16 years and apparently in charge of or employed at that place;\nTelephone conversation with employee or person in charge of working place\n(i)by reading the contents of the order or notice over the telephone to a person apparently above the age of 16 years and apparently in charge of or is employed at the usual or last known place of business or employment of the person to be served;\nShort message service\n(j)by sending it by short message service to the mobile telephone number of the person to be served;\n[Act 10 of 2024 wef 01/05/2024]\nFacsimile transmission and other means of telecommunication\n(k)by sending it by facsimile transmission or any other prescribed means of telecommunication to the person to be served at the usual or last known place of residence, business or employment of that person where there is an acknowledgment by electronic or any other means to the effect that the order or notice has been received at that place;\n[Act 10 of 2024 wef 01/05/2024]\nEmail\n(l)subject to subsection (2A), by sending it by email to the last email address given to the proper authority by the person to be served as the email address for the service of orders or notices issued or made under this Act;\n[Act 10 of 2024 wef 01/05/2024]\nElectronic service platform\n(m)subject to subsection (2A), by serving it to the account assigned to the person to be served and notifying the person of this fact by a message sent by short message service to the mobile telephone number of the person to be served;\n[Act 10 of 2024 wef 01/05/2024]\nOther means of service\n(n)subject to subsection (2A), by sending an electronic notice to the person to be served by the person’s chosen means of notification, stating that the order or notice is available and how the person may use the person’s chosen means of access to access the contents of the order or notice; or\n(o)by any other method authorised by regulations made under this Act for the service of orders or notices of that kind if the person to be served consents to service of an order or notice of that kind in that way.\n[Act 10 of 2024 wef 01/05/2024]\nService by certain modes only with person’s consent\n(2A) Service of any order or notice under this Act on a person under subsection (2)(l), (m) and (n) may be effected only with the person’s prior consent to service in that way.\n[Act 10 of 2024 wef 01/05/2024]\nKnowledge of order or notice\n(3) Where an order or notice is served on any person under —\n(a)subsection (2)(b), it shall be deemed to have been read by the person to whom it applies by noon on the day following the date of publication;\n(b)subsection (2)(c) or (d), it shall be deemed to have been seen or heard by the person to whom it applies on the expiry of 6 hours from the commencement of the first broadcast or audible signal, as the case may be;\n(c)subsection (2)(e), it shall be deemed to have been received and read by the person to whom it applies on the expiry of 48 hours from the time at which it was delivered to the post office for despatch;\n(d)subsection (2)(f) or (g), it shall be deemed to have been conveyed or read to the person to whom it applies at the time of delivery or telephone conversation, as the case may be;\n(e)subsection (2)(h) or (i), it shall be —\n(i)presumed, until the contrary is proved, to have been conveyed or read to the person to whom it applies at the time of delivery or telephone conversation, as the case may be; and\n(ii)deemed to have been conveyed or read to the person to whom it applies on the expiry of 6 hours from the time of delivery or telephone conversation, as the case may be;\n[Act 10 of 2024 wef 01/05/2024]\n(f)subsection (2)(j) or (k), it shall be —\n(i)presumed, until the contrary is proved, to have been received and read or heard by the person to whom it applies at the time of the first transmission; and\n(ii)deemed to have been received and read or heard by the person to whom it applies on the expiry of 6 hours from the time of the first transmission;\n[Act 10 of 2024 wef 01/05/2024]\n(g)subsection (2)(l), it shall be —\n(i)presumed, until the contrary is proved, to have been received and read or heard by the person to whom it applies at the time the email is capable of being retrieved by the person; and\n(ii)deemed to have been received and read or heard by the person to whom it applies on the expiry of 6 hours from the time the email is capable of being retrieved by the person;\n[Act 10 of 2024 wef 01/05/2024]\n(h)subsection (2)(m), it shall be —\n(i)presumed, until the contrary is proved, to have been received and read or heard by the person to whom it applies at the time the contents of the order or notice are capable of being accessed by the person through the electronic service platform, and the message notifying the person that the order or notice has been served to the person’s account on the electronic service platform has been sent by short message service to the person’s mobile telephone number; and\n(ii)deemed to have been received and read or heard by the person to whom it applies on the expiry of 6 hours from the time the contents of the order or notice are capable of being accessed by the person through the electronic service platform, and the message notifying the person that the order or notice has been served to the person’s account on the electronic service platform has been sent by short message service to the person’s mobile telephone number; or\n[Act 10 of 2024 wef 01/05/2024]\n(i)subsection (2)(n), it shall be —\n(i)presumed, until the contrary is proved, to have been received and read or heard by the person to whom it applies at the time the electronic notice is capable of being retrieved by the person by the person’s chosen means of notification, and the contents of the order or notice are capable of being accessed by the person by the person’s chosen means of access; and\n(ii)deemed to have been received and read or heard by the person to whom it applies on the expiry of 6 hours from the time the electronic notice is capable of being retrieved by the person by the person’s chosen means of notification, and the contents of the order or notice are capable of being accessed by the person by the person’s chosen means of access.\n[Act 10 of 2024 wef 01/05/2024]\nOrder or notice to remain in force until compliance or revocation\n(4) An order or notice issued under this Act shall remain in force until it is complied with or revoked and a person not complying with such an order or notice at the specified time shall be liable to comply with it as soon as possible.\nConditions and revocation\n(5) An order, notice, permit or appointment, issued or made under this Act, may be subject to conditions and may be revoked at any time.\nIgnorance of order or notice not an excuse\n(6) Where a person has under subsection (3) been deemed to have knowledge of an order or notice issued under this Act, ignorance of the fact that the order or notice has been duly served on him under subsection (2) shall not be an excuse for failing to comply with that order or notice.\nDocuments to be served in proceedings in court\n(7) This section does not apply to documents to be served in proceedings in court.\n[Act 10 of 2024 wef 01/05/2024]\nDefinitions\n(8) In this section —\n“account assigned to the person to be served” means the account (on the relevant electronic service platform) assigned under section 30A(2) by the proper authority to the person to be served;\n“chosen means of access”, for a person on whom is or is to be served an order or notice issued or made under this Act, means an electronic means that the person agrees with the proper authority as the means by which the person may access the contents of that order or notice;\n“chosen means of notification”, for a person on whom is or is to be served an order or notice issued or made under this Act, means an electronic means that the person nominates to the proper authority as the means by which the person may be notified that such an order or notice has been served on the person;\n“mobile telephone number” means the last mobile telephone number given (in accordance with a legal requirement under this Act) to the proper authority by the person to be served, and which the person has acknowledged may be used by the proper authority for the service of any order or notice issued or made under this Act.\n[Act 10 of 2024 wef 01/05/2024]"
+   }
+  },
+  {
+   "id": "SG-H1317-A30.001",
+   "no": 30.001,
+   "noLabel": {
+    "en": "30A."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Electronic service platform"
+   },
+   "text": {
+    "en": "30A.—(1) The proper authority may provide one or more electronic service platforms for the electronic service of orders or notices issued or made under this Act.\n(2) For the purposes of each electronic service platform, the proper authority may assign to any person an account with the relevant electronic service platform.\n(3) Subject to section 30(2A), the proper authority may serve an order or notice on that person by transmitting an electronic record of that order or notice to the account assigned to that person.\n(4) The Minister may make regulations under section 37 which are necessary or expedient for carrying out the purposes of this section, including but not limited to regulations prescribing the procedure for the use of the electronic service platform and the manner of assignment of the accounts mentioned in subsection (2).\n[Act 10 of 2024 wef 01/05/2024]"
+   }
+  },
+  {
+   "id": "SG-H1317-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Calculation of age"
+   },
+   "text": {
+    "en": "31. For the purpose of calculation of age under this Act, the following provisions shall apply:\n(a)where the month in which a person was born is not entered in his identity card, he shall be deemed to be born on 1 July;\n(b)where the day of the month on which a person was born is not entered in his identity card, he shall be deemed to be born on the first day of the month; and\n(c)where the year in which a person was born is not entered in his identity card, the proper authority may order him to undergo medical examinations and produce evidence in respect of his age and shall decide on his year of birth."
+   }
+  },
+  {
+   "id": "SG-H1317-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Exit permits"
+   },
+   "text": {
+    "en": "32.—(1) Subject to any regulations made under section 37, a person subject to this Act or a relevant child, shall not leave Singapore or remain outside Singapore unless he is in possession of a valid permit (referred to in this Act as exit permit) issued by the proper authority permitting him to do so.\n[14/2006]\n[Act 10 of 2024 wef 01/05/2024]\n(2) A person to whom an exit permit under subsection (1) is granted shall return to Singapore before the expiry of the period for which he was allowed to stay outside Singapore.\n(3) Any relevant child within or outside Singapore who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.\n[14/2006]\n(4) Where any relevant child contravenes subsection (1) or (2), each parent within or outside Singapore of the relevant child shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.\n[14/2006]\n(5) In this section —\n“parent”, in relation to a relevant child, includes a guardian and any person having the actual custody of the relevant child;\n“relevant child” means a person who is a citizen or permanent resident of Singapore and who is not less than 13 years of age but less than 16 years and 6 months of age.\n[14/2006]"
+   }
+  },
+  {
+   "id": "SG-H1317-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Offences"
+   },
+   "text": {
+    "en": "33. Except as provided in section 32(3) and (4), any person within or outside Singapore who —\n(a)fails to comply with any order or notice issued under this Act;\n(b)fails to fulfil any liability imposed on him under this Act;\n(c)fraudulently obtains or attempts to obtain postponement, release, discharge or exemption from any duty under this Act;\n(d)does any act with the intention of unlawfully evading service;\n(e)gives the proper authority or any person acting on his behalf false or misleading information; or\n(f)aids, abets or counsels any other person to act in the manner laid down in paragraph (a), (b), (c), (d) or (e),\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.\n[14/2006]"
+   }
+  },
+  {
+   "id": "SG-H1317-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "34.—(1) The proper authority may, in its discretion, compound any offence under this Act which is prescribed to be a compoundable offence by collecting from a person reasonably suspected of having committed the offence —\n(a)a sum not exceeding $1,000 in the case of an offence under this Act; or\n(b)a sum not exceeding $500 in the case of an offence under the regulations.\n(2) On payment of such sum, no further proceedings shall be taken against that person in respect of the offence.\n(3) The Minister may make regulations to prescribe the offences which may be compounded and the method and procedure by which those offences may be compounded under this section."
+   }
+  },
+  {
+   "id": "SG-H1317-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Enlistment inspectors"
+   },
+   "text": {
+    "en": "35. The proper authority may appoint one or more public officers as enlistment inspectors to investigate the commission of any offence under this Act."
+   }
+  },
+  {
+   "id": "SG-H1317-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Powers of enlistment inspectors and police officers"
+   },
+   "text": {
+    "en": "36.—(1) Any enlistment inspector may, without warrant, arrest any person who he reasonably believes has committed an offence under this Act.\n(2) Where a person is arrested by an enlistment inspector under this section, the enlistment inspector shall comply with sections 67 and 68 of the Criminal Procedure Code 2010 as if he were a police officer.\n[15/2010]\n(3) In any case relating to the commission of an offence under this Act, any enlistment inspector shall have the power to do all or any of the following:\n(a)to require by order any person who the enlistment inspector has reason to believe has any article, document or information relevant to the carrying out of the provisions of this Act to produce any such article or document, or give such information, and to retain the article or document, or make copies of such documents;\n(b)to examine orally any person supposed to be acquainted with the facts and circumstances relevant to the carrying out of the provisions of this Act, and to reduce into writing the answer given or statement made by that person who shall be bound to state truly the facts and circumstances with which he is acquainted, and the statement made by that person shall be read over to him and shall, after correction, be signed by him;\n(c)to require by order in writing the attendance before him of any person who, from information given or otherwise, appears to be acquainted with the facts and circumstances relevant to the carrying out of the provisions of this Act, and that person shall so attend as required and if he fails to attend as so required, to report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by the order.\n(4) Any enlistment inspector specially authorised in writing by the proper authority may, with a warrant issued by the proper authority and with or without assistance, enter and search any premises, if he has reasonable cause to believe —\n(a)that evidence of the commission of an offence under this Act can be found therein; and\n(b)that a person to whom an order under subsection (3)(a) has been or might be issued will not or would not produce the article, document or information as directed in the order or that the article, document or information is not in the possession of any person,\nand may seize any evidence so found.\n(5) In addition to any other power conferred by written law, any police officer may exercise the powers conferred upon an enlistment inspector under subsections (1) and (3)."
+   }
+  },
+  {
+   "id": "SG-H1317-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS PROVISIONS"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "37.—(1) The Minister may make such regulations as may be necessary or expedient to carry out the purposes and provisions of this Act and for prescribing anything that may be required, authorised or permitted to be prescribed by this Act.\n[Act 10 of 2024 wef 01/05/2024]\n(2) Without prejudice to the generality of subsection (1), the Minister may make regulations relating to —\n(a)payment of remuneration to persons in national service;\n(b)duties of persons liable for service;\n(c)duties of employers in respect of national servicemen;\n(d)appointment of advisory boards;\n(e)registration, fitness examination and enlistment;\n(f)postponement, exemption, release and discharge;\n(g)exit permits, including exemptions from the requirements under section 32 for any class of prescribed persons or in prescribed circumstances; and\n[Act 10 of 2024 wef 01/05/2024]\n(h)leave.\n(3) Any regulations made under this section may prescribe that any act or omission in contravention of any regulation shall be an offence and may provide for the imposition of penalties for such offence which penalties shall not exceed a fine of $2,000 and imprisonment for a term not exceeding 12 months."
+   }
+  }
+ ]
+}

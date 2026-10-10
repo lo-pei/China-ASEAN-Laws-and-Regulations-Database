@@ -1,0 +1,80 @@
+{
+ "id": "CN-LAW-0021",
+ "title": {
+  "zh": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第一百五十八条、第一百五十九条的解释",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p01",
+ "language": "zh",
+ "level": "law",
+ "category": "法律",
+ "status": "active",
+ "promulgatedDate": "2014-04-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "全国人民代表大会常务委员会",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 163,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\法律\\全国人民代表大会常务委员会关于《中华人民共和国刑法》第一百五十八条、第一百五十九条的解释_20140424.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，第一百五十九条至第一百五十九条，共 1 条；来源为项目数据资源中的官方汇编文件（全国人民代表大会常务委员会关于《中华人民共和国刑法》第一百五十八条、第一百五十九条的解释_20140424.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-LAW-0021-A159",
+   "no": 159,
+   "noLabel": {
+    "zh": "第一百五十九条"
+   },
+   "text": {
+    "zh": "的解释\n（2014年4月24日第十二届全国人民代表大会常务委员会第八次会议通过）\n全国人民代表大会常务委员会讨论了公司法修改后刑法第一百五十八条、第一百五十九条对实行注册资本实缴登记制、认缴登记制的公司的适用范围问题，解释如下：\n刑法第一百五十八条、第一百五十九条的规定，只适用于依法实行注册资本实缴登记制的公司。\n现予公告。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "law",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第一百五十八条、第一百五十九条的解释"
+  },
+  "issuingBody": {
+   "zh": "全国人民代表大会常务委员会"
+  },
+  "promulgatedDate": "2014-04-24",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "法律"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

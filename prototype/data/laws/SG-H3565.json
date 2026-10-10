@@ -1,0 +1,94 @@
+{
+ "id": "SG-H3565",
+ "title": {
+  "zh": null,
+  "en": "Platform Workers (Notification of Commissioner) Regulations 2024",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p45",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation PWA2024-S1008-2024",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 2788,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/PWA2024-S1008-2024?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 4 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3565-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Platform Workers (Notification of Commissioner) Regulations 2024 and come into operation on 1 January 2025."
+   }
+  },
+  {
+   "id": "SG-H3565-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Submission of notification to Commissioner"
+   },
+   "text": {
+    "en": "2. A notification to the Commissioner under section 8(1) or 9 of the Act must be made in the form and manner specified on the website of the Ministry of Manpower at https://www.mom.gov.sg."
+   }
+  },
+  {
+   "id": "SG-H3565-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Notification that person satisfies criteria to be platform operator"
+   },
+   "text": {
+    "en": "3.—(1) For the purposes of section 8(1)(a) of the Act, the prescribed time for a person to notify the Commissioner that the person satisfies the criteria to be a platform operator under section 4 of the Act is —\n(a)14 days starting on the date on which the person satisfies section 4(1) of the Act, unless sub‑paragraph (b) applies; or\n(b)in a case where the Commissioner determines, in accordance with section 10 of the Act, that the person is a platform operator — 14 days starting on the date the Commissioner informs the person of the Commissioner’s determination and requires the person to submit a notification under section 8(1) of the Act.\n(2) For the purposes of section 8(2)(a) of the Act, a notification under section 8(1) of the Act must include —\n(a)the identity particulars of the person;\n(b)the person’s trade name, if different from the person’s registered name or full name;\n(c)if the person is an individual — the person’s residential address;\n(d)if the person is an entity — the address of the person’s principal place of business or registered office;\n(e)the platform service or platform services provided by the person;\n(f)the identity particulars and address of a contact person; and\n(g)a telephone number and an email address by which the contact person mentioned in sub‑paragraph (f) can be contacted by the Commissioner.\n(3) In paragraph (2), “identity particulars” means —\n(a)for an individual who is a citizen or permanent resident of Singapore —\n(i)the full name of the individual; and\n(ii)the NRIC number of the individual;\n(b)for an individual who is not a citizen or permanent resident of Singapore —\n(i)the full name of the individual; and\n(ii)the foreign identification number or (if the individual does not have a foreign identification number) passport number of the individual;\n(c)for an entity that is formed, constituted or registered in Singapore under any written law —\n(i)the registered name of the entity; and\n(ii)the Unique Entity Number (UEN) of the entity; and\n(d)for any other entity —\n(i)the full name of the entity; and\n(ii)the country under whose law the entity was formed, constituted or registered."
+   }
+  },
+  {
+   "id": "SG-H3565-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Notification of cessation as platform operator"
+   },
+   "text": {
+    "en": "4. For the purposes of section 9 of the Act, the prescribed time for a platform operator that ceases to be a platform operator within the meaning of section 4 of the Act to notify the Commissioner of that fact is 14 days starting on the date on which the platform operator ceases to satisfy section 4(1) of the Act."
+   }
+  }
+ ]
+}

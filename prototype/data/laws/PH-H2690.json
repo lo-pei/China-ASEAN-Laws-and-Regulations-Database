@@ -1,0 +1,64 @@
+{
+ "id": "PH-H2690",
+ "title": {
+  "zh": null,
+  "en": "An Act Fixing the Time of Holding Court Session at the Municipality of Dapa, Province of Surigao del Norte, Amending for the Purpose Section Fifty-Four of the Judiciary Act of 1948",
+  "orig": "An Act Fixing the Time of Holding Court Session at the Municipality of Dapa, Province of Surigao del Norte, Amending for the Purpose Section Fifty-Four of the Judiciary Act of 1948"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p38",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1961-06-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 3084",
+ "officialCode": null,
+ "topics": [
+  "judiciary"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1189,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1961/ra_3084_1961.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1961/ra_3084_1961.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H2690-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The twelfth paragraph of Section fifty-four of Republic Act Numbered Two hundred ninety-six, otherwise known as \"The Judiciary Act of 1948,\" as amended, is further amended to read as follows:\n\"Fifteenth Judicial District: One branch to hold court at Dapa, Province of Surigao del Norte, once a year on dates to be fixed by the district judge; at Cantilan, Province of Surigao del Sur, on the first Tuesday of August of each year; and a special term of court shall also be held once a year in the Municipality of Hintuan, Province of Surigao del Sur, in the discretion of the district judge; the Catarman branch to hold court at Mambajao, Province of Oriental Misamis on the last Tuesday of March of each year. A special term of court may, likewise, be held once a year by any of the judges of the Province of Misamis Oriental and Cagayan de Oro City either in the Municipality of Talisayan or in the City of Gingoog, Province of Oriental Misamis, in the discretion of the Secretary of Justice. Special terms of court shall be held at any time of the year at the Municipalities of Baroy and Malabang, Province of Lanao.\""
+   }
+  },
+  {
+   "id": "PH-H2690-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961."
+   }
+  }
+ ]
+}

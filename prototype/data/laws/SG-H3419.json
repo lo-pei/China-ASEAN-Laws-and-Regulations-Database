@@ -1,0 +1,72 @@
+{
+ "id": "SG-H3419",
+ "title": {
+  "zh": null,
+  "en": "Order under Section 11 (3)",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p43",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation RELA1983-OR5",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1954,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/RELA1983-OR5?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 3 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3419-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Revised Edition of the Laws Act\n(Chapter 275, Section 11(3))\nOrder under Section 11(3)\nO 5\nG.N. No. S 78/1992\nREVISED EDITION 1993\n(25th March 1992)\n[9th March 1992]\nWhereas pursuant to the Revised Edition of the Laws Act, the Law Revision Commissioners have published in the form of separate booklets —\n(1)under section 10(1)(a), the Acts set out in the First Schedule; and\n(2)under section 10(1)(b), the Acts set out in the Second Schedule,\nas in force on 31st December 1991:\nAnd whereas it is enacted by section 11(3) of the Revised Edition of the Laws Act that the Commissioners shall transmit to the President a copy of each of the booklets and the President may thereupon, by order published in the Gazette, specify that the booklets shall in all courts and for all purposes be the sole and only proper law of Singapore in respect of those Acts:\nNow therefore it is hereby ordered by the President that the booklets shall, with effect from 9th March 1992, be the sole and only proper law of Singapore in respect of those Acts."
+   }
+  },
+  {
+   "id": "SG-H3419-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\n(1)The Currency Act (Chapter 69).\n(2)The Economic Development Board Act (Chapter 85).\n(3)The Economic Expansion Incentives (Relief from Income Tax) Act (Chapter 86).\n(4)The Enlistment Act (Chapter 93).\n(5)The Financial Procedure Act (Chapter 109).\n(6)The Income Tax Act (Chapter 134).\n(7)The National Productivity Board Act (Chapter 200).\n(8)The National Registration Act (Chapter 201).\n(9)The Parking Places Act (Chapter 214).\n(10)The Public Utilities Act (Chapter 261).\n(11)The Skills Development Levy Act (Chapter 306).\n(12)The Trade Marks Act (Chapter 332)."
+   }
+  },
+  {
+   "id": "SG-H3419-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\n(1)The Architects Act (Chapter 12).\n(2)The Land Surveyors Act (Chapter 156).\n(3)The Nanyang Technological University Act (Chapter 192).\n(4)The National Arts Council Act (Chapter 193A).\n(5)The Presidential Elections Act (Chapter 240A).\n(6)The Professional Engineers Act (Chapter 253).\n(7)The Radiation Protection Act (Chapter 262)."
+   }
+  }
+ ]
+}

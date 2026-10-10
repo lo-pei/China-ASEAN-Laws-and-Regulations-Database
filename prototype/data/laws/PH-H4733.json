@@ -1,0 +1,64 @@
+{
+ "id": "PH-H4733",
+ "title": {
+  "zh": null,
+  "en": "An Act Extending the Term of the Franchise Granted to the Philippine Long Distance Telephone Company Under Act Numbered Three Thousand Four Hundred and Thirty-Six, as Amended by Commonwealth Act Numbered Four Hundred and Seven, and for Other Purposes",
+  "orig": "An Act Extending the Term of the Franchise Granted to the Philippine Long Distance Telephone Company Under Act Numbered Three Thousand Four Hundred and Thirty-Six, as Amended by Commonwealth Act Numbered Four Hundred and Seven, and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p67",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1970-11-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6146",
+ "officialCode": null,
+ "topics": [
+  "investment"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 606,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1970/ra_6146_1970.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1970/ra_6146_1970.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4733-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The term of the franchise granted to the Philippine Long Distance Telephone Company under Act Numbered Three thousand four hundred and thirty-six, as amended by Commonwealth Act Numbered Four hundred and seven, is hereby extended, under the terms and conditions therein provided, for a period of twenty-five years from the date of its expiration: Provided, That during the twenty-five year period herein granted as extension, the grantee, its successors or assigns shall pay its franchise tax at an increased rate of five per centum."
+   }
+  },
+  {
+   "id": "PH-H4733-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: November 9, 1970."
+   }
+  }
+ ]
+}

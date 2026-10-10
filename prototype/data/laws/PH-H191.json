@@ -1,0 +1,64 @@
+{
+ "id": "PH-H191",
+ "title": {
+  "zh": null,
+  "en": "An Act to Further Amend Section Fifty-Eight of Act Numbered Four Hundred and Ninety-Six, Otherwise Known as the Land Registration Act, as Amended by Act Numbered Forty Hundred and Twenty-Nine, and to Provide for Other Purposes",
+  "orig": "An Act to Further Amend Section Fifty-Eight of Act Numbered Four Hundred and Ninety-Six, Otherwise Known as the Land Registration Act, as Amended by Act Numbered Forty Hundred and Twenty-Nine, and to Provide for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p02",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1947-03-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 93",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 3638,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1947/ra_93_1947.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1947/ra_93_1947.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 3 条，缺 2）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H191-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section fifty-eight of Act Numbered Four hundred and ninety-six, otherwise known as The Land Registration Act, as amended by Act Numbered Forty hundred and twenty-nine, is hereby further amended to read as follows:\n\"Sec. 58. When a deed in fee is for a part only of the land described in a certificate of title, or for one or more of the several lots into which said land shall have been subdivided, the register of deeds shall not enter the transfer certificate to the grantee until a plan of such land showing all the portions or lots into which it has been subdivided, and the technical description of each portion or lot, have been verified and approved by the Director of Lands, but shall only, upon written request of the party concerned, make a memorandum of such deed of conveyance on the grantor's certificate of title and on its owner's duplicate, said memorandum to serve only as a notice to third parties of the fact that such portion or lot has been sold to the person or persons named in said deed. Upon the approval of said plan and technical descriptions a certified copy thereof shall be filed in the office of the register of deeds and recorded in the corresponding certificate of title, and thereupon the register of deeds shall after entering the transfer certificate of title and issuing its owner's duplicate to the grantee for the portion sold, also enter a new certificate and issue an owner's duplicate to the grantor for the part of the land not included in the deed: Provided, However, That if the land has been subdivided into several lots, designated by numbers or letters, the register of deeds may, if desired by the grantor, instead of cancelling the latter's certificate and issuing a new one to the same for the remaining unconveyed lots, enter on said certificate and on its owner's duplicate a memorandum of such deed of conveyance and of the issuance of the transfer certificate to the grantee for the lot or lots thus conveyed, and that the grantor's certificate is cancelled as to such lot or lots; and every certificate with such memorandum shall be effectual for the purpose of showing the grantor's title to the remainder of the land not conveyed as if the old certificate had been cancelled and a new certificate of such land had been entered; and no transfer certificate to a grantee for part only of the land shall be invalid by reason of the non-issuance of a new certificate to the grantor for the remaining unconveyed portion: Provided, further, That when there is discrepancy between the subdivision plan and the original plan, and in the opinion of the Director of Lands such discrepancy may be prejudicial to an adjoining owner or other person having interest on the adjoining land, the matter shall be reported to the Court of First Instance of the province where the land lies, and the court, after notice to all persons concerned and hearing, shall decide the case and all questions arising in connection with such subdivision plan: And provided, lastly, That after the annotation of the sale of a portion of land on the grantor's certificate of title, as above authorized, no subsequent deed or other voluntary instrument relative to the same portion of land shall be accepted for registration or annotation until the necessary subdivision plan and technical description of said portion of land, as approved by the Director of Lands, shall have been filed with the register of deeds, and the proper transfer certificate of title shall have been entered in the name of the person executing such deed or instrument.\""
+   }
+  },
+  {
+   "id": "PH-H191-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect on its approval.\nApproved: March 17, 1947."
+   }
+  }
+ ]
+}

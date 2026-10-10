@@ -1,0 +1,458 @@
+{
+ "id": "SG-H1645",
+ "title": {
+  "zh": null,
+  "en": "Government Procurement Act 1997",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p21",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act GPA1997",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 26,
+ "chars": 25063,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/GPA1997?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 26 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1645-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Government Procurement Act 1997."
+   }
+  },
+  {
+   "id": "SG-H1645-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“Agreement on Government Procurement” means the Agreement by that name done at Marrakesh on 15 April 1994 and amended by the Protocol;\n“applicant” has the meaning given by section 12(1);\n“award”, in relation to a contract or tender, means to accept an offer made;\n“challenge proceeding” means any proceeding under Part 3;\n“Commissioner” means the Commissioner appointed under section 8(2) and includes an acting Commissioner appointed under section 8(9);\n“contracting authority” means a ministry or department of the Government, an Organ of State or a statutory board declared, by order made under section 4(1), as a contracting authority for the purposes of this Act;\n“Deputy Commissioner” means a Deputy Commissioner appointed under section 8(2);\n“document” includes an electronic record;\n“legal officer” has the same meaning as in the Government Proceedings Act 1956;\n“procurement” means procurement of goods or service or a combination of goods and service by any contractual means, such as purchase or lease, rental or hire‑purchase, with or without an option to buy the goods or service or combination of goods and service;\n“procurement subject to the Act” means a procurement declared, by order made under section 4(2), to be a procurement subject to this Act;\n“Protocol” means the Protocol Amending the Agreement on Government Procurement done at Geneva on 30 March 2012;\n“qualification of suppliers” means a process undertaken by a contracting authority to shortlist suppliers for a particular procurement, a particular type of procurement or procurement in general;\n“relevant Protocol State” means a country or territory declared, by order made under section 3, as a relevant Protocol State for the purposes of this Act;\n“relevant Protocol supplier”, in relation to a procurement subject to the Act, means —\n(a)a supplier who is a national of Singapore or of a relevant Protocol State that is specified in an order made under section 4(2) as one to which that procurement relates;\n(b)a supplier which is a company or an association or a body of persons, corporate or unincorporate, which is formed under the laws of Singapore or such relevant Protocol State and has its principal place of business in Singapore or such relevant Protocol State; or\n(c)a supplier, or supplier within a class of suppliers, specified under that order as a relevant Protocol supplier or class of relevant Protocol suppliers in relation to that procurement;\n“relevant State” means a country or territory declared, by order made under section 3, as a relevant State for the purposes of this Act;\n“relevant supplier”, in relation to a procurement subject to the Act, means —\n(a)a supplier who is a national of Singapore or of a relevant State that is specified in an order made under section 4(2) as one to which that procurement relates;\n(b)a supplier which is a company or an association or a body of persons, corporate or unincorporate, which is formed under the laws of Singapore or such relevant State and has its principal place of business in Singapore or such relevant State; or\n(c)a supplier, or supplier within a class of suppliers, specified under that order as a relevant supplier or class of relevant suppliers in relation to that procurement;\n“supplier” means a person who sought, or who seeks, or who would have wished, to be the person to whom a contract of procurement, being a procurement subject to the Act, is awarded;\n“Tribunal” means the Government Procurement Adjudication Tribunal established under section 8.\n[28/2004; 2/2014]"
+   }
+  },
+  {
+   "id": "SG-H1645-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Relevant State or relevant Protocol State"
+   },
+   "text": {
+    "en": "3. The Minister may, from time to time, by order in the Gazette, declare any country or territory as a relevant State or relevant Protocol State for the purposes of this Act.\n[2/2014]"
+   }
+  },
+  {
+   "id": "SG-H1645-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "4.—(1) The Minister may, by order in the Gazette, declare any ministry or department of the Government, Organ of State or statutory board as a contracting authority for the purposes of this Act.\n(2) The Minister may, by order in the Gazette, declare a procurement to be subject to the Act.\n(3) An order made under subsection (2) may identify the procurement by one or more of the following:\n(a)the means by which the procurement is undertaken;\n(b)the contracting authority undertaking the procurement;\n(c)the goods or service, or combination of goods and service, to be procured;\n(d)the value of the procurement.\n(4) An order made under subsection (2) may specify —\n(a)the method by which the procurement is to be valued;\n(b)the circumstances under which the procurement is not a procurement subject to the Act;\n(c)the grounds on which the contracting authority may exclude a procurement, or an act or measure to be taken in relation to a procurement, from the application of all or any of the regulations made under section 6; and\n(d)the effect of an exclusion referred to in paragraph (c).\n(5) An order made under subsection (2) —\n(a)must specify that the procurement is a procurement subject to the Act in relation to all or any of the following:\n(i)all relevant States or a specified relevant State;\n(ii)all relevant Protocol States or a specified relevant Protocol State; and\n(b)may specify any supplier or class of suppliers as —\n(i)a relevant supplier or class of relevant suppliers in relation to that procurement for the purposes of paragraph (c) of the definition of “relevant supplier” in section 2; or\n(ii)a relevant Protocol supplier or class of relevant Protocol suppliers in relation to that procurement for the purposes of paragraph (c) of the definition of “relevant Protocol supplier” in section 2.\n[28/2004; 2/2014]"
+   }
+  },
+  {
+   "id": "SG-H1645-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Certification by Minister"
+   },
+   "text": {
+    "en": "5.—(1) The Minister may issue a certificate certifying that a particular procurement is not a procurement subject to the Act by virtue of section 4(4)(b).\n(2) The Minister may issue a certificate certifying that a ground referred to in section 4(4)(c) exists in relation to a particular procurement or an act or measure in relation to a particular procurement.\n(3) A certificate issued under subsection (1) or (2) is conclusive evidence of the matters so certified."
+   }
+  },
+  {
+   "id": "SG-H1645-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 REGULATIONS GOVERNING PROCUREMENT"
+   },
+   "heading": {
+    "en": "Power to make regulations"
+   },
+   "text": {
+    "en": "6.—(1) The Minister may, for the purposes of implementing the Agreement on Government Procurement and other international obligations of Singapore relating to procurements by the Government and public authorities, make regulations to govern procurements subject to the Act.\n[28/2004]\n(2) Without limiting subsection (1), the regulations may prescribe —\n(a)the technical specifications for a procurement;\n(b)the procedure for qualification of suppliers for a procurement;\n(c)the procedure for the award of a procurement contract and the procedure following such award;\n(d)the provision of any information pertaining to a procurement; and\n(e)different provisions for different procurements.\n[28/2004]"
+   }
+  },
+  {
+   "id": "SG-H1645-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 REGULATIONS GOVERNING PROCUREMENT"
+   },
+   "heading": {
+    "en": "Duty of contracting authority"
+   },
+   "text": {
+    "en": "7.—(1) Subject to an order made under section 4(2), a contracting authority must, in undertaking a procurement subject to the Act, comply with the regulations made under section 6.\n(2) The duty of a contracting authority referred to in subsection (1) is a duty owed to —\n(a)relevant suppliers or relevant Protocol suppliers in relation to that procurement; and\n(b)such other supplier or class of suppliers as the Minister may, by order published in the Gazette, declare.\n[28/2004; 2/2014]\n(3) A breach of a duty referred to in subsection (1) is not to be the subject of any proceedings in any court but may be the subject of a challenge brought before the Tribunal by a supplier to whom the duty is owed and who has suffered, or reasonably risks suffering, loss or damage as a result of the breach."
+   }
+  },
+  {
+   "id": "SG-H1645-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 CHALLENGE PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Government Procurement Adjudication Tribunal"
+   },
+   "text": {
+    "en": "8.—(1) For the purposes of hearing and determining challenges mentioned in section 7(3), there is established a Tribunal to be called the Government Procurement Adjudication Tribunal consisting of the Commissioner or a Deputy Commissioner.\n(2) The Minister may appoint a Commissioner and such number of Deputy Commissioners as the Minister thinks fit.\n(3) The Commissioner and Deputy Commissioners are to be appointed for a period of 2 years and are eligible for re‑appointment.\n(4) A person must not be appointed or continue to hold office as Commissioner or Deputy Commissioner if the person —\n(a)has a mental disorder and is incapable of managing himself or herself or his or her affairs;\n(b)is an undischarged bankrupt or has made any arrangement or composition with his or her creditors; or\n(c)is convicted of an offence involving dishonesty, fraud or moral turpitude and has not received a free pardon.\n[21/2008]\n(5) The Commissioner or a Deputy Commissioner may at any time resign from his or her office by giving notice in writing to the Minister.\n(6) The Commissioner and Deputy Commissioners are deemed to be public servants within the meaning of the Penal Code 1871, and enjoy the same judicial immunity as is enjoyed by a Supreme Court Judge.\n[40/2019]\n(7) The Commissioner and Deputy Commissioners are to be paid such remuneration and allowances as the Minister may from time to time determine.\n(8) The Minister may at any time revoke the appointment of a Commissioner or Deputy Commissioner who —\n(a)ceases to be eligible to hold that appointment in accordance with subsection (4);\n(b)has become permanently incapable of discharging the functions of a Commissioner or Deputy Commissioner, as the case may be; or\n(c)has misconducted himself or herself in such a manner as to render him or her unfit to continue holding the appointment.\n(9) When the Commissioner is or is expected to be absent from duty, the Commissioner or, if the Commissioner is absent, the Minister may appoint a Deputy Commissioner to be acting Commissioner during the Commissioner’s absence."
+   }
+  },
+  {
+   "id": "SG-H1645-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 CHALLENGE PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Registrar and officers of Tribunal"
+   },
+   "text": {
+    "en": "9.—(1) The Minister may appoint a Registrar of the Tribunal and such other officers of the Tribunal as the Minister considers necessary.\n(2) The duties of the Registrar and other officers of the Tribunal are, subject to this Act and any regulations made under this Act, as the Minister directs.\n(3) The Registrar and other officers of the Tribunal are deemed to be public servants for the purposes of the Penal Code 1871."
+   }
+  },
+  {
+   "id": "SG-H1645-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 CHALLENGE PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Constitution of Tribunal"
+   },
+   "text": {
+    "en": "10.—(1) Subject to subsection (2), a challenge proceeding is to be heard and disposed of by the Tribunal consisting of the Commissioner or a Deputy Commissioner designated by the Commissioner.\n(2) The Commissioner or a Deputy Commissioner must not hear or dispose of any challenge proceeding if he or she is, directly or indirectly, interested in the procurement in relation to which the proceeding is brought.\n(3) Where the Commissioner has commenced the hearing of a challenge proceeding and is unable through death, illness or other cause to complete the hearing or to dispose of the proceeding —\n(a)the acting Commissioner appointed under section 8(9); or\n(b)if the acting Commissioner is, directly or indirectly, interested in the procurement in relation to which the proceeding is brought, a Deputy Commissioner designated by the acting Commissioner,\nmust complete the hearing and dispose of the proceeding.\n(4) Subject to subsection (2), where a Deputy Commissioner who has commenced the hearing of a challenge proceeding is unable through death, illness or other cause to complete the hearing or to dispose of the proceeding, the Commissioner may designate another Deputy Commissioner to complete the hearing and dispose of the proceeding, or may himself or herself complete the hearing and dispose of the proceeding."
+   }
+  },
+  {
+   "id": "SG-H1645-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 CHALLENGE PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Parties may be represented at challenge proceedings"
+   },
+   "text": {
+    "en": "11.—(1) The applicant and the contracting authority concerned may be represented by an advocate and solicitor at the hearing of any challenge proceeding.\n(2) Where the contracting authority concerned is a ministry or department of the Government or is an Organ of State, a legal officer may appear as advocate on behalf of the contracting authority and may make and do all appearances, acts and applications in respect of the proceeding on behalf of the contracting authority."
+   }
+  },
+  {
+   "id": "SG-H1645-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 CHALLENGE PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Initiation of challenge"
+   },
+   "text": {
+    "en": "12.—(1) A supplier who wishes to bring a challenge before the Tribunal (called in this Act the applicant) must, within 15 days from the date the facts constituting the basis of the challenge first took place —\n(a)lodge with the Registrar a notice of challenge (called in this Act the Notice of Challenge);\n(b)pay the Registrar the fee prescribed (if any) for bringing a challenge before the Tribunal; and\n(c)serve a copy of the Notice of Challenge on the contracting authority undertaking or who has undertaken the procurement that is the subject of the challenge.\n(2) The Notice of Challenge must be in such form and must contain such information, and be accompanied by such documents, as may be prescribed."
+   }
+  },
+  {
+   "id": "SG-H1645-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 CHALLENGE PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Deposit"
+   },
+   "text": {
+    "en": "13.—(1) The applicant must, at the time the Notice of Challenge is lodged with the Registrar of the Tribunal, deposit in cash or in such other form as the Registrar in a particular case may allow, such sum as may be prescribed (called in this Act the deposit).\n(2) The challenge is deemed to have been withdrawn if the applicant fails to comply with subsection (1).\n(3) The deposit is to be used by the Registrar to pay any costs awarded by the Tribunal to the contracting authority concerned under section 21 in relation to the challenge.\n(4) Where the deposit is insufficient to cover the costs mentioned in subsection (3), the contracting authority concerned may recover the balance of the costs in the manner referred to in section 21.\n(5) After the challenge has been disposed of by the Tribunal, the Registrar must, if he or she is satisfied that there is no outstanding claim for costs by the contracting authority concerned against the applicant, release the deposit or the balance of the deposit (as the case may be) to the applicant."
+   }
+  },
+  {
+   "id": "SG-H1645-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 CHALLENGE PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Fixing of hearing of challenge"
+   },
+   "text": {
+    "en": "14. On receipt of a Notice of Challenge, the fee mentioned in section 12(1)(b) and the deposit, the Registrar must —\n(a)forward a copy of the Notice of Challenge to the contracting authority concerned;\n(b)fix a time and place for the hearing of the challenge; and\n(c)give 14 days’ notice of the hearing to the applicant and the contracting authority concerned."
+   }
+  },
+  {
+   "id": "SG-H1645-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 CHALLENGE PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Preliminary hearing"
+   },
+   "text": {
+    "en": "15.—(1) The Tribunal may at any time, on its own motion or upon the application of the contracting authority concerned, hear and determine, as a preliminary issue and with a view to a possible final disposal of the challenge, the validity of the challenge.\n(2) For the purposes of subsection (1), the Tribunal must declare a challenge invalid if —\n(a)the procurement which is the subject of the challenge is not a procurement subject to the Act;\n(b)the regulation made under section 6 which the contracting authority concerned is alleged to have breached is inapplicable to the procurement which is the subject of the challenge;\n(c)the regulation made under section 6 which the contracting authority concerned is alleged to have breached is inapplicable, by virtue of an order made under section 4, to the procurement or the act or measure in relation to a procurement, which is the subject of the challenge;\n(d)the procurement which is the subject of the challenge is a procurement which has been initiated before 13 May 2002 within the meaning of section 26;\n(e)the applicant is not a supplier entitled to bring a challenge under section 7(3);\n(f)the applicant did not lodge or serve the Notice of Challenge within the time prescribed by section 12(1), unless the Tribunal is satisfied that there has been no unreasonable delay on the part of the applicant; or\n(g)the Notice of Challenge does not comply with section 12(2).\n[28/2004]\n(3) For the purposes of subsection (2)(f), the Tribunal must take into account the date the applicant became aware, or ought reasonably to have become aware, of the facts constituting the basis of the challenge, and may, in granting any permission to the applicant to proceed with the challenge, impose such conditions as it considers just on the applicant.\n(4) If the applicant fails to comply with any of the conditions imposed by the Tribunal under subsection (3), the Tribunal may declare the challenge invalid."
+   }
+  },
+  {
+   "id": "SG-H1645-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 CHALLENGE PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Suspension order"
+   },
+   "text": {
+    "en": "16.—(1) The applicant may, at any time after the applicant has —\n(a)lodged the Notice of Challenge with the Registrar;\n(b)paid the fee mentioned in section 12(1)(b) and the deposit to the Registrar; and\n(c)served the Notice of Challenge on the relevant contracting authority,\napply to the Tribunal for an order to suspend, pending the disposal of the challenge —\n(d)the procedure leading to the award of the contract for the procurement which is the subject of the challenge; or\n(e)the implementation of any decision made while undertaking the procedure mentioned in paragraph (d).\n(2) The Tribunal may make the order either unconditionally or upon such terms and conditions as the Tribunal thinks just.\n(3) The Tribunal must not make an order under this section if —\n(a)such suspension is against the public interest; or\n(b)the contract mentioned in subsection (1)(d) has already been awarded at the date of hearing of the application for the order.\n(4) If the Tribunal refuses to make an order under this section, the Tribunal must give the reasons for its refusal in writing.\n(5) Where an order under this section has been made, the contracting authority concerned may, at any time before the determination on the challenge mentioned in section 18 is made, apply to the Tribunal for the order to be varied or rescinded.\n(6) Subject to subsection (7), the Tribunal may, in its discretion, vary or rescind the order either unconditionally or upon such conditions as it thinks just.\n(7) The Tribunal must rescind the order if the continuance of such suspension is against the public interest.\n(8) The Minister may issue a certificate that such suspension, or the continuance of such suspension, in a particular case is against the public interest, and such a certificate is conclusive evidence of the matters so certified."
+   }
+  },
+  {
+   "id": "SG-H1645-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 CHALLENGE PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Onus of proof, etc."
+   },
+   "text": {
+    "en": "17.—(1) The onus of proving the breach of duty which is the subject of the challenge is on the applicant.\n(2) Except with the consent of the Tribunal and in accordance with such conditions as the Tribunal may determine, the applicant may not, at the hearing of the challenge, rely on any breach of duty other than that identified in the Notice of Challenge."
+   }
+  },
+  {
+   "id": "SG-H1645-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 CHALLENGE PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Determination on challenge"
+   },
+   "text": {
+    "en": "18.—(1) The Tribunal must issue its determination on a challenge within 45 days from the date of lodgment of the Notice of Challenge by the applicant unless there are exceptional circumstances justifying an extension of time.\n(2) Subsection (1) does not apply if the challenge has been disposed of under section 15.\n(3) If the Tribunal makes a determination in favour of the applicant, the Tribunal may do one or more of the following:\n(a)order any decision or action taken by the contracting authority concerned in relation to the procurement which is the subject of the challenge to be set aside;\n(b)order the contracting authority to make a decision or take action, in accordance with the applicable regulations made under section 6, in place of that which has been set aside under paragraph (a);\n(c)order the contracting authority to amend any document pertaining to the procurement;\n(d)order the contracting authority to pay to the applicant the costs of participation in the qualification of suppliers, or the costs of tender preparation, reasonably incurred by the applicant for the purposes of the procurement.\n(4) An order made under subsection (3)(b) may specify the decision or action which the contracting authority is to make or take.\n(5) Despite subsection (3), if —\n(a)the Tribunal makes a determination in favour of the applicant; and\n(b)the contract for the procurement has already been awarded,\nthe Tribunal may only —\n(c)make an order under subsection (3)(d); or\n(d)if the applicant did not incur any of the costs mentioned in subsection (3)(d), award the applicant the costs of the challenge proceeding in accordance with section 21."
+   }
+  },
+  {
+   "id": "SG-H1645-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 CHALLENGE PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Determination and order to be in writing"
+   },
+   "text": {
+    "en": "19.—(1) Every determination and order of the Tribunal must be given in writing and must include a statement of the Tribunal’s reasons for the determination or order, as the case may be.\n(2) The Registrar must, within 7 days of the making of the determination or order, send certified copies of the determination or order to the applicant and the relevant contracting authority."
+   }
+  },
+  {
+   "id": "SG-H1645-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 CHALLENGE PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Satisfaction of order"
+   },
+   "text": {
+    "en": "20.—(1) A contracting authority against whom an order under section 16 or 18(3)(a), (b) or (c) is made must comply with the order.\n(2) An applicant in whose favour an order under section 18(3)(d) is made may recover the amount ordered to be paid to the applicant by an action for a debt in any court of competent jurisdiction.\n(3) This section does not affect the right of the contracting authority to seek judicial review of a determination or order of the Tribunal."
+   }
+  },
+  {
+   "id": "SG-H1645-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 CHALLENGE PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Costs of challenge proceeding"
+   },
+   "text": {
+    "en": "21.—(1) Subject to any regulations made under this Act, the costs of any challenge proceeding, including the costs of the Tribunal, are at the discretion of the Tribunal.\n(2) The costs may be recovered as if they were costs in a suit in the General Division of the High Court and as if the determination of the Tribunal in relation to the costs were a decree made in the General Division of the High Court.\n[40/2019]"
+   }
+  },
+  {
+   "id": "SG-H1645-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 3 CHALLENGE PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Procedure and powers of Tribunal"
+   },
+   "text": {
+    "en": "22.—(1) Subject to the provisions of this Act and any regulations made under this Act, the Tribunal has the power to determine the procedure to be adopted for any challenge proceeding.\n(2) The Tribunal has the following additional powers:\n(a)to summon to attend at any challenge proceeding any person whom it may consider able to give evidence in respect of the proceeding, to examine the person as a witness either on oath or otherwise and to require the person to produce such books, records or documents as the Tribunal may think necessary for the proceeding;\n(b)to allow any person attending any challenge proceeding any reasonable expenses necessarily incurred by the person in so attending;\n(c)to fix the remuneration of any expert witness appointed by the Tribunal for any challenge proceeding;\n(d)with the consent of the applicant and the relevant contracting authority, to refer the parties for mediation by such person as the parties may agree on or failing such agreement, as the Tribunal may appoint;\n(e)all the powers of the Supreme Court with regard to the enforcement of attendance of witnesses, hearing evidence on oath and punishment for contempt;\n(f)to admit or reject any evidence adduced, whether oral or documentary, and whether admissible under the provisions of any written law for the time being in force relating to the admissibility of evidence;\n(g)to conduct its proceedings or any part of its proceedings in camera; and\n(h)generally to give any direction, or to do anything, necessary or expedient for the expeditious and just hearing and disposal of any challenge proceeding.\n(3) The expenses mentioned in subsection (2)(b) and the remuneration mentioned in subsection (2)(c) form part of the costs of the challenge proceeding and, pending and subject to any order made by the Tribunal as to such costs, must be paid by the applicant or the contracting authority concerned, as the Tribunal may direct.\n(4) Evidence of anything said, or of any admission made, in the course of any mediation mentioned in subsection (2)(d) is not admissible in any proceedings before the Tribunal or any court.\n(5) Where the Minister certifies that it is against the public interest for any challenge proceeding to take place in public, the Tribunal must conduct the proceeding in camera."
+   }
+  },
+  {
+   "id": "SG-H1645-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Submission of information to Minister"
+   },
+   "text": {
+    "en": "23. A contracting authority must give to the Minister, in such form and at such intervals as may be prescribed, such information as may be prescribed in relation to any procurement subject to this Act which the contracting authority has undertaken or is undertaking or proposes to undertake."
+   }
+  },
+  {
+   "id": "SG-H1645-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Retention of documents"
+   },
+   "text": {
+    "en": "24. A contracting authority must ensure that all documents relating to procurements subject to this Act are retained for a minimum of 3 years from the date of their creation."
+   }
+  },
+  {
+   "id": "SG-H1645-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Power to make regulations"
+   },
+   "text": {
+    "en": "25. The Minister may make regulations prescribing —\n(a)the manner in which challenges may be brought to the Tribunal;\n(b)the procedure to be adopted by the Tribunal in the hearing and disposal of challenge proceedings and the records to be kept by the Tribunal;\n(c)the places where and the times at which challenge proceedings are to be heard by the Tribunal;\n(d)the costs and fees in respect of challenge proceedings; and\n(e)anything which is required to be prescribed under this Act or which may be necessary or expedient for carrying out or giving effect to the provisions of this Act."
+   }
+  },
+  {
+   "id": "SG-H1645-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Transitional provision"
+   },
+   "text": {
+    "en": "26.—(1) This Act does not apply to or affect any procurement which has been initiated before 13 May 2002.\n(2) For the purposes of subsection (1), a procurement is deemed to have been initiated if —\n(a)the invitation to tender in respect of the procurement has been issued;\n(b)the qualification of suppliers, being a qualification of suppliers undertaken solely for that particular procurement, has commenced; or\n(c)in a case where no tender is to be called for the procurement, the contracting authority concerned had communicated with a potential supplier with a view to the making or obtaining of an offer in relation to the procurement."
+   }
+  }
+ ]
+}

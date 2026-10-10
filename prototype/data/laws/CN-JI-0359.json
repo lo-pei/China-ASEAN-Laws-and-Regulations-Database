@@ -1,0 +1,77 @@
+{
+ "id": "CN-JI-0359",
+ "title": {
+  "zh": "最高人民法院关于审理涉专利权评价报告案件适用法律问题的批复",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p10",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2025-07-30",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 296,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院关于审理涉专利权评价报告案件适用法律问题的批复_20250730.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，整篇作为一条录入，共 1 条；来源为项目数据资源中的官方汇编文件（最高人民法院关于审理涉专利权评价报告案件适用法律问题的批复_20250730.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0359-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "全文"
+   },
+   "text": {
+    "zh": "最高人民法院\n关于审理涉专利权评价报告案件适用法律\n问题的批复\n法释〔2025〕11号\n（2025年7月18日最高人民法院审判委员会第1953次会议通过，自2025年8月1日起施行）\n贵州省高级人民法院：\n你院《关于专利权评价报告法律适用问题的请示》（黔高法请〔2024〕1号）收悉。经研究，批复如下：\n根据《中华人民共和国专利法》第六十六条第二款的规定，国务院专利行政部门作出的专利权评价报告是人民法院审理侵害专利权纠纷案件的证据。专利权评价报告认为涉案专利不符合《中华人民共和国专利法》规定的授予专利权条件的，人民法院不能仅据此径行裁定驳回起诉，应当结合具体案情进行释明，并依法作出裁判。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院关于审理涉专利权评价报告案件适用法律问题的批复"
+  },
+  "promulgatedDate": "2025-07-30",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

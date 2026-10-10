@@ -1,0 +1,450 @@
+{
+ "id": "SG-H3202",
+ "title": {
+  "zh": null,
+  "en": "Merchant Shipping (Shipping Casualties, Appeals and Rehearings) Rules",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p40",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MSA1995-R1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 32,
+ "chars": 18256,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MSA1995-R1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 32 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3202-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Rules may be cited as the Merchant Shipping (Shipping Casualties, Appeals and Rehearings) Rules."
+   }
+  },
+  {
+   "id": "SG-H3202-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Rules, unless the context otherwise requires —\n“investigation” means a formal investigation into a shipping casualty or into a charge of incompetency or misconduct.\n“Judge” means the Judge or District Judge appointed to hold an investigation.\n“Attorney-General” includes the Solicitor-General and any person authorised by either of them to act as his Deputy.\n“certificate” means a certificate of competency issued by the Director under the Merchant Shipping (Deck Officers) Regulations 1994 [S 238/94] or the Merchant Shipping (Marine Engineer Officers) Regulations 1994 [S 239/94] or a certificate recognised under these Regulations as being equivalent thereto and having the same force; or a certificate of service issued by the Director under regulation 5(2) of the Merchant Shipping (Deck Officers) Regulations 1994 or regulation 5(2) of the Merchant Shipping (Marine Engineer Officers) Regulations 1994 which were in force immediately before 1st June 1994.\n[S 66/96 wef 02/02/1996]"
+   }
+  },
+  {
+   "id": "SG-H3202-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Conduct of investigation"
+   },
+   "text": {
+    "en": "3. Every investigation shall be conducted on behalf of the Government by the Attorney-General."
+   }
+  },
+  {
+   "id": "SG-H3202-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Summoning of assessors"
+   },
+   "text": {
+    "en": "4. When any investigation has been ordered, the Minister shall summon the assessors in the Form 1 set out in the First Schedule and he shall at the same time cause notice of the sitting to be served upon the Attorney-General and upon the owner, master and officers of the ship and any other person who in his opinion ought to be served in the Form 2 set out in the First Schedule."
+   }
+  },
+  {
+   "id": "SG-H3202-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Notice of investigation"
+   },
+   "text": {
+    "en": "5. When an investigation has been ordered, the Attorney‑General may cause a notice, (referred to in these Rules as a notice of investigation) to be served upon the persons served with notices of the sitting as well as upon any person who in his opinion ought to be served with such notice. The notice shall contain a statement of the questions which, on the information then in possession of the Attorney‑General, he intends to raise on the hearing of the investigation, and shall be in the Form 3 set out in the First Schedule, with such variations as circumstances may require. The Attorney‑General may, at any time before the hearing of the investigation, by a subsequent notice amend, add to, or omit any of the questions specified in the notice of investigation."
+   }
+  },
+  {
+   "id": "SG-H3202-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Parties to proceedings"
+   },
+   "text": {
+    "en": "6. The Attorney-General, the owner, the master, and any certificated officer or other person upon whom a notice of investigation has been served, shall be deemed to be parties to the proceedings."
+   }
+  },
+  {
+   "id": "SG-H3202-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Other parties"
+   },
+   "text": {
+    "en": "7. Any other person may, by leave of the Judge, appear, and any person who appears under this rule shall thereupon become a party to the proceedings."
+   }
+  },
+  {
+   "id": "SG-H3202-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Notice to produce"
+   },
+   "text": {
+    "en": "8. A party may give to any other party notice in writing to produce any documents (saving all just exceptions) relating to the matters in question, and which are in the possession or under the control of such other party; and, if the notice is not complied with, secondary evidence of the contents of the documents may be given by the party who gave the notice."
+   }
+  },
+  {
+   "id": "SG-H3202-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Notice to admit"
+   },
+   "text": {
+    "en": "9. A party may give to any other party notice in writing to admit any documents (saving all just exceptions), and in case of neglect or refusal to admit after such notice, the party so neglecting or refusing shall be liable for all the costs of proving the documents, whatever may be the result, unless the Judge is of opinion that the refusal to admit was reasonable; and no costs of proving any document shall be allowed unless such notice has been given, except where the omission to give the notice has, in the opinion of the officer by whom the costs are taxed, caused a saving of expense."
+   }
+  },
+  {
+   "id": "SG-H3202-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Evidence"
+   },
+   "text": {
+    "en": "10. Affidavits and statutory declarations may, by permission of the Judge (and saving all just exceptions) be used as evidence at the hearing if sworn or taken in the manner provided by the Evidence Act [Cap. 97]."
+   }
+  },
+  {
+   "id": "SG-H3202-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Proceedings in Court"
+   },
+   "text": {
+    "en": "11. At the time and place appointed for holding the investigation the Court may proceed with the investigation, whether the parties, upon whom a notice of investigation has been served, or any of them, are present or not."
+   }
+  },
+  {
+   "id": "SG-H3202-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Procedure at investigation"
+   },
+   "text": {
+    "en": "12. The proceedings on the investigation shall commence with the production and examination of witnesses by the Attorney-General. These witnesses, after being examined on behalf of the Attorney‑General, may be cross‑examined by the parties in such order as the Judge may direct and may then be re‑examined by the Attorney‑General. Questions asked, and documents tendered as evidence in the course of the examination of these witnesses, shall not be open to objection merely on the ground that they do or may raise questions which are not contained in, or which vary from, the statement of the case, or the questions specified in the notice of investigation or subsequent notices referred to in rule 5."
+   }
+  },
+  {
+   "id": "SG-H3202-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Questions for opinion of Court"
+   },
+   "text": {
+    "en": "13. When the examination of the witnesses produced by the Attorney‑General has been concluded, the Attorney‑General shall state in open Court the questions in reference to the casualty, and the conduct of the certificated officers, or other persons connected therewith, upon which the opinion of the Court is desired. In framing the questions for the opinion of the Court, the Attorney‑General may make such modifications in, additions to, or omissions from the questions in the notice of investigation or subsequent notices referred to in rule 5 as, having regard to the evidence which has been given, the Attorney‑General may think fit."
+   }
+  },
+  {
+   "id": "SG-H3202-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Court to hear parties to investigation"
+   },
+   "text": {
+    "en": "14. After the questions for the opinion of the Court have been stated, the Court shall proceed to hear the parties to the investigation, and determine the questions so stated. Each party to the investigation shall be entitled to address the Court and produce witnesses, or recall any of the witnesses who have already been examined for further examination, and generally adduce evidence. The parties shall be heard and their witnesses examined, cross-examined, and re-examined in such order as the Judge shall direct. The Attorney-General may also produce and examine further witnesses, who may be cross-examined by the parties, and re-examined by the Attorney-General."
+   }
+  },
+  {
+   "id": "SG-H3202-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Address to Court"
+   },
+   "text": {
+    "en": "15. When the whole of the evidence in relation to the questions for the opinion of the Court has been concluded, any of the parties who desires so to do may address the Court upon the evidence, and the Attorney-General may address the Court in reply upon the whole case."
+   }
+  },
+  {
+   "id": "SG-H3202-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Adjournments"
+   },
+   "text": {
+    "en": "16. The Judge may adjourn the investigation from time to time and from place to place, and where an adjournment is asked for by a party to the investigation or by the Attorney-General, the Judge may impose such terms as to payment of costs or otherwise as he may think just as a condition of granting the adjournment."
+   }
+  },
+  {
+   "id": "SG-H3202-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "heading": {
+    "en": "Decision of Court"
+   },
+   "text": {
+    "en": "17. Except when the certificate of an officer is cancelled or suspended, in which case the decision shall always be given in open Court, the Judge may deliver the decision of the Court either orally or in writing, and if in writing it may be sent or delivered to the parties. In the latter case it shall not be necessary to hold a Court merely for the purpose of delivering the decision of the Court."
+   }
+  },
+  {
+   "id": "SG-H3202-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "heading": {
+    "en": "Costs and expenses"
+   },
+   "text": {
+    "en": "18. The Judge may order the costs and expenses of the investigation, or any part thereof, to be paid by the Attorney-General or by any other party. An order for payment of costs shall be in the Form 4 set out in the First Schedule, with such variations as circumstances may require."
+   }
+  },
+  {
+   "id": "SG-H3202-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "heading": {
+    "en": "Report to Minister"
+   },
+   "text": {
+    "en": "19. At the conclusion of the investigation the Judge shall report to the Minister. The report shall be in the Form 5 set out in the First Schedule, with such modifications as circumstances may require."
+   }
+  },
+  {
+   "id": "SG-H3202-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "heading": {
+    "en": "Copy of report"
+   },
+   "text": {
+    "en": "20. The Minister shall, on application by any party to the proceedings, give him a copy of the report made to him."
+   }
+  },
+  {
+   "id": "SG-H3202-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "heading": {
+    "en": "Appeals"
+   },
+   "text": {
+    "en": "21. Every appeal shall be conducted in accordance with the following conditions and regulations:\n(a)The appellant shall, within the time hereinafter mentioned, serve on such of the other parties to the proceedings as he may consider to be directly affected by the appeal, notice of his intention to appeal, and shall also, within two days after setting down the appeal give to the said parties notice of the general grounds of the appeal.\n(b)Notice of appeal shall be served within 28 days from the date on which the decision is pronounced.\n(c)If the appeal is brought by any party other than the Attorney-General, the appellant shall before the appeal is heard give such security, if any, by deposit of money or otherwise, for the costs to be occasioned by the appeal, as the Judge from whose decision the appeal is brought on application made to him for that purpose may direct.\n(d)The appellant shall, before the expiration of the time within which notice of appeal may be given, leave with the Registrar of the Supreme Court, a copy of the notice of appeal, and the officer shall thereupon set down the appeal by entering it in the proper list.\n(e)The Supreme Court shall consist of such Judge or Judges as may be nominated by the Chief Justice and shall be assisted by not less than two assessors to be nominated by the Judge or Judges constituting the Court.\n(f)The Supreme Court may, if it thinks fit, order any other person, other than the parties served with the notice of appeal, to be added as a party or parties to the proceedings for the purposes of the appeal, on such terms with respect to costs and otherwise as the Supreme Court may think fit. Any party to the proceedings may object to the appearance on the appeal of any other party to the proceedings as unnecessary.\n(g)The evidence taken before the Judge from whose decision the appeal is brought shall be proved before the Supreme Court by a copy of the notes of the Judge or of the shorthand writer, clerk, secretary, or other person authorized by him to take down the evidence, or by such other materials as the Supreme Court thinks expedient; and a copy of the evidence, and of the report to the Minister containing the decision from which the appeal is brought, and of the notice of the general grounds of the appeal, shall be left with the Registrar of the Supreme Court before the appeal comes on for hearing. For the purpose of this rule, copies of the notes of the evidence, and of the report, shall be supplied to the appellant, on request, by the Judge or other person having charge thereof, on payment of 25 cents per folio of 100 words.\n(h)The Supreme Court shall have full power to receive further evidence on questions of fact, such evidence to be either by oral examination in Court, by affidavit, or by deposition taken before an examiner or commissioner. Evidence may also be given with special leave of the Supreme Court as to matters which have occurred since the date of the decision from which the appeal is brought.\n(i)The Supreme Court shall have power to make such order as to the whole or any part of the costs of and occasioned by the appeal as the Court may think just.\n(j)Subject to the foregoing provisions of this rule, every appeal shall be conducted under and in accordance with the general rules and regulations applicable to ordinary proceedings before the Court of Appeal, but there shall not be anything in the nature of pleadings other than the notice of the general grounds of the appeal, except by special permission of the Supreme Court.\n(k)On the conclusion of an appeal the Supreme Court shall send to the Minister a report of the case in such form as the Supreme Court may think fit."
+   }
+  },
+  {
+   "id": "SG-H3202-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "heading": {
+    "en": "Rehearing by order of the Minister"
+   },
+   "text": {
+    "en": "22.—(a) Where the Minister directs a rehearing under section 252 of the Act, he shall cause such reasonable notice to be given to the parties whom he considers to be affected by the rehearing as the circumstances of the case may, in the opinion of the Minister, permit.\n(b) The provisions of rule 21(e), (f), (g), (h), (i), (j) and (k), shall mutatis mutandis apply to a rehearing as if it were an appeal, and as if the Court or authority before whom the rehearing takes place were the Supreme Court."
+   }
+  },
+  {
+   "id": "SG-H3202-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "heading": {
+    "en": "Service of notices, etc."
+   },
+   "text": {
+    "en": "23. Any notice, summons or other document issued under these Rules may be served by sending the same by registered letter to the address of the person to be served."
+   }
+  },
+  {
+   "id": "SG-H3202-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "heading": {
+    "en": "Proof of service"
+   },
+   "text": {
+    "en": "24. The service of any notice, summons or other document may be proved by the oath or affidavit of the person by whom it was served."
+   }
+  },
+  {
+   "id": "SG-H3202-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "heading": {
+    "en": "Assessors"
+   },
+   "text": {
+    "en": "25. Where any investigation involves or appears likely to involve the cancelling or suspension of the certificate of an officer certificated under the Act, there shall be appointed at least two assessors each of whom shall have one of the qualifications specified in Classes I and II set out in the Second Schedule."
+   }
+  },
+  {
+   "id": "SG-H3202-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "heading": {
+    "en": "Appointment of assessors"
+   },
+   "text": {
+    "en": "26. Subject to any special appointment or appointments which the Minister may think it expedient to make in any case where special circumstances appear to him to require a departure from this rule (the requirements of rule 25 being always complied with), the following provisions shall be observed in the appointment of assessors:\n(1)where the investigation involves or appears likely to involve the cancelling or suspension of the certificate of a master or mate certificated under the Act, but not of an Engineer, at least two assessors having the qualifications specified in Class I set out in the Second Schedule shall be appointed;\n(2)[Deleted by S 66/96 wef 02/02/1996]\n(3)where the investigation involves or appears likely to involve the cancelling or suspension of the certificate of an engineer certificated under the Act, one at least of the assessors shall have the qualifications specified in Class II set out in the Second Schedule.\n(4)[Deleted by S 66/96 wef 02/02/1996]"
+   }
+  },
+  {
+   "id": "SG-H3202-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "heading": {
+    "en": "Appointment of assessors not to be questioned"
+   },
+   "text": {
+    "en": "27. An appointment made by the Minister of any assessor or assessors for an investigation shall not be open to question on the ground that it was not in accordance with these Rules, or does not give full effect to the requirements of these Rules."
+   }
+  },
+  {
+   "id": "SG-H3202-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "heading": {
+    "en": "Exception"
+   },
+   "text": {
+    "en": "28. Rules 25 and 26 shall not apply when the investigation is directed to misconduct only or to unfitness arising therefrom."
+   }
+  },
+  {
+   "id": "SG-H3202-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "heading": {
+    "en": "Expenses"
+   },
+   "text": {
+    "en": "29. There shall be paid to each assessor the sum of $1,000 per day or part thereof.\n[S 66/96 wef 02/02/1996]"
+   }
+  },
+  {
+   "id": "SG-H3202-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "text": {
+    "en": "30. [Deleted by S 66/96 wef 02/02/1996]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3202-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nThe following forms shall be employed, as far as possible, with such alteration, as circumstances may require, but no deviation from the prescribed forms shall invalidate the proceedings, unless the Judge shall be of opinion that the deviation was material:\nFORM 1\nRule 4\nMERCHANT SHIPPING ACT\n(CHAPTER 179)\nSUMMONS TO COURT\nIn the matter of a formal investigation to be held at into the circumstances attending the\nIn pursuance of the Merchant Shipping Act and of the Merchant Shipping (Shipping Casualties, Appeals and Rehearings) Rules. I hereby summon you to attend as assessor on this investigation, at on the day of at the hour of in the noon.\nDated this day of 19\nMinister\nI will attend as summoned.\nSignature of person summoned.\nFORM 2\nRule 4\nMERCHANT SHIPPING ACT\n(CHAPTER 179)\nNOTICE OF SITTING OF COURT\nIn the matter of a formal investigation to be held at into the circumstances attending the\nTo A.B., the master [or managing owner, or of shares] of the ship the appellant [or the Attorney‑General].\nTake notice that the Court for the above investigation will meet at on the day of 19 at o’clock in the noon to hear the above matter.\nDated this day of 19\nMinister\nFORM 3\nRule 5\nMERCHANT SHIPPING ACT\n(CHAPTER 179)\nNOTICE OF INVESTIGATION\nTo master, mate, engineer, gunner, helmsman, engine-driver owner, etc., of or belonging to the ship of\nI hereby give you notice that he Minister has ordered a formal investigation into the circumstances attending the and that annexed hereto is a copy of a report [or statement of the case] upon which the investigation has been ordered. I further give you notice to produce to the Court your certificate, the log-books of the vessel, and any other documents relevant to this case which may be in your possession.\nI have further to give you notice that on the information at present obtained by the Attorney‑General, the questions annexed hereto are those upon which it appears desirable, and upon which he proposes to take the opinion of the Court; but these questions will be subject to alteration, addition, omission or amendment by the Attorney‑General at the investigation, after the witnesses called by the Attorney‑General have been examined.\nDated this day of 19 .\nAttorney‑General.\nI.Report [or statement of case].\nII.Questions.\n1. Whether the\n[Here insert the proposed questions].\nFORM 4\nRule 18\nMERCHANT SHIPPING ACT\n(CHAPTER 179)\nORDER ON A PARTY FOR PAYMENT OF\nCOSTS OF INVESTIGATION\nIn the matter of a formal investigation held at on the (here state all the days on which the Court sat) days of before assisted by into the circumstances attending the\nThe Court orders —\n(1) That A.B., of , do pay to the Attorney‑General [the sum of on account of] the expenses of this investigation\nOr (2) That the Attorney-General do pay to A.B. of , [the sum of on account of] the expenses of this investigation.\nGiven under my hand this day of 19\nJudge.\nFORM 5\nRule 19\nMERCHANT SHIPPING ACT\n(CHAPTER 179)\nREPORT OF COURT\nIn the matter of a formal investigation held at on the (here state all the days on which the Court sat) days of before assisted by into the circumstances attending the\nThe Court, having carefully inquired into the circumstances attending the abovementioned shipping casualty, finds, for the reasons stated in the Annex hereto, that the (here state finding of the Court).\nDated this day of 19\nJudge.\nWe [or I] concur in the above report.\nAssessor.\nAssessor.\nANNEX TO THE REPORT\n(Here state fully the circumstances of the case, the opinion of the Court touching the causes of the casualty, and the conduct of any persons implicated therein, and whether the certificate of any officer is either suspended or cancelled, and if so for what reasons)."
+   }
+  },
+  {
+   "id": "SG-H3202-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nClassification of assessors and qualifications\nprescribed for each class\nClass I\nCertificate of Competency (Deck Officer) Class I (Master Mariner)\n3 years’ service while holding a Certificate of Competency (Deck Officer) Class I (Master Mariner), of which one year must have been in command.\nClass II\nCertificate of Competency (Marine Engineer Officer) Class I\n3 years’ service while holding a Certificate of Competency (Marine Engineer Officer) Class I, of which one year must have been as Chief Engineer.\n[S 66/96 wef 02/02/1996]"
+   }
+  }
+ ]
+}

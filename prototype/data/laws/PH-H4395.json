@@ -1,0 +1,64 @@
+{
+ "id": "PH-H4395",
+ "title": {
+  "zh": "设立Calubian市",
+  "en": "An Act Creating Certain Barrios in the Municipality of Calubian, Province of Leyte",
+  "orig": "An Act Creating Certain Barrios in the Municipality of Calubian, Province of Leyte"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p62",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1969-06-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 5598",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1403,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1969/ra_5598_1969.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1969/ra_5598_1969.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4395-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The following barrios are hereby created in the Municipality of Calubian, Province of Leyte: Barrio Efe which shall be located between Barrio Nipa and Sitio Ol-og; Barrio Don Luis, between Sitio Ol-og and Poblacion Barrio Gutosan; Barrio Guadalupe Mendoza, between Sitio Cabonliwan and Boundary Egang; Barrio Ferdinand E. Marcos, between Poblacion Barrio Gutosan and Calubian River; Barrio Cabalquinto, between Calubian River and Sitio Sabang; Barrio Cabradilla, between Sitio Candoyong and Barrio Cantanghao; Barrio P. Espinoza, between Santo Nino Street and Santa Felomina street; Barrio Mahait, between New town and Sitio Pongoay; Barrio F. Garganera, between San Juan street and Calubian wharf; Barrio Marcelino R. Veloso between Guinsorongan District and Sitio Lucas; Barrio Cristina, between Sitio Awak-awak and Sitio Cambenio; Barrio Tabla, between North Poblacion Barrio Villanueva and Barrio Pangpang; Barrio Padoga, between Villahermosa River and Barrio Luzon; Barrio Paula, between Sitio Jubay-jubay and one half of Poblacion Barrio Villalon; Barrio H. Agasi, between Sitio Talisay, Batuan and Boundary Barrio Inalad; Barrio Dalumpines between Barrio Carovocan and Barrio Jubay; and Barrio Kokoy Romualdez, between Barrio Jubay and Barrio Laray. Sitio Malbog is hereby converted into a barrio to be known as Barrio Labtic."
+   }
+  },
+  {
+   "id": "PH-H4395-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This act shall take effect upon its approval.\nApproved, June 21, 1969."
+   }
+  }
+ ]
+}

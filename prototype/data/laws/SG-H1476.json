@@ -1,0 +1,68 @@
+{
+ "id": "SG-H1476",
+ "title": {
+  "zh": null,
+  "en": "Family Justice (Specified Date for Probate Proceedings) Order 2014",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p19",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation FJA2014-S809-2014",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 343,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/FJA2014-S809-2014?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 2 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1476-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. This Order may be cited as the Family Justice (Specified Date for Probate Proceedings) Order 2014 and shall come into operation on 1 January 2015."
+   }
+  },
+  {
+   "id": "SG-H1476-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Date specified under section 47(11) of Act"
+   },
+   "text": {
+    "en": "2. The date specified for the purposes of section 47(2), (3) and (5) to (8) of the Act, and paragraph (q) of the definition of “family proceedings” in section 2(1) of the Act, is 1 January 2015."
+   }
+  }
+ ]
+}

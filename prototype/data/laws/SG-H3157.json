@@ -1,0 +1,580 @@
+{
+ "id": "SG-H3157",
+ "title": {
+  "zh": null,
+  "en": "Mental Health (Care and Treatment) Act 2008",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p40",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act MHCTA2008",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 34,
+ "chars": 34328,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/MHCTA2008?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 34 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3157-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Mental Health (Care and Treatment) Act 2008."
+   }
+  },
+  {
+   "id": "SG-H3157-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2.—(1) In this Act, unless the context otherwise requires —\n“designated medical practitioner”, in relation to any psychiatric institution, means a medical practitioner who is working in the psychiatric institution and who is designated by name or office in writing by the Director‑General or such public officer as the Director‑General may appoint, for the purposes of this Act;\n[Act 11 of 2023 wef 01/05/2023]\n[Deleted by Act 11 of 2023 wef 01/05/2023]\n“Director‑General” means the Director‑General of Health;\n[Act 11 of 2023 wef 01/05/2023]\n“medical practitioner” means any person who is registered as a medical practitioner under the Medical Registration Act 1997;\n“mental disorder” means any mental illness or any other disorder or disability of the mind, and “mentally disordered” is to be construed accordingly;\n“patient” means any person who has been detained or is receiving treatment in a psychiatric institution;\n“principal officer”, in relation to any psychiatric institution, means the chairperson, medical board of the hospital which has been designated as a psychiatric institution or a part of which has been designated as a psychiatric institution (as the case may be) and includes any acting chairperson of the medical board or any person acting in a similar capacity as chairperson, medical board, whether or not that person is known by such designation;\n“property” includes any thing in action and any interest in real or personal property;\n“psychiatric institution” means a psychiatric institution designated by the Minister under section 3;\n“psychiatrist” means any medical practitioner who is registered as a psychiatrist in the Register of Specialists under the Medical Registration Act 1997;\n“relative”, in relation to a person suffering or appearing to be suffering from mental disorder, means any of the following persons being, in the case of any of the persons mentioned in paragraphs (b) to (i), a person 18 years of age or older:\n(a)husband or wife, or reputed husband or wife who is living with the person or, if the person is for the time being an inpatient in a hospital, was so living when the person was last residing at liberty out of a hospital;\n(b)son or daughter;\n(c)father or mother;\n(d)brother or sister;\n(e)grandparent;\n(f)grandchild;\n(g)uncle or aunt;\n(h)nephew or niece;\n(i)any person with whom the person ordinarily resides or, if the person is for the time being an inpatient in a hospital, with whom the person was ordinarily residing when last at liberty out of a hospital;\n“treatment” includes observation, inpatient treatment, outpatient treatment and rehabilitation.\n(2) In sections 20, 28 and 29, “court” means the General Division of the High Court or a Family Court.\n[27/2014; 40/2019]\n(3) In deducing relationships for the purposes of this section, any relationship of the half-blood is to be treated as a relationship of the whole blood, an illegitimate child is to be treated as the legitimate child of his or her mother and reputed father, and an adopted child is to be treated as a child of the adopting parent."
+   }
+  },
+  {
+   "id": "SG-H3157-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 ADMISSION AND DETENTION OF MENTALLY DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Designated psychiatric institutions"
+   },
+   "text": {
+    "en": "3. The Minister may, by notification in the Gazette, designate any hospital or any part of a hospital to be a psychiatric institution for the detention or treatment of mentally disordered persons under this Act."
+   }
+  },
+  {
+   "id": "SG-H3157-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 ADMISSION AND DETENTION OF MENTALLY DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Management of psychiatric institutions"
+   },
+   "text": {
+    "en": "4.—(1) The management of every psychiatric institution and the care and custody of its patients are to be regulated according to such rules as may be made under this Act by the Minister.\n(2) The Minister must appoint for every psychiatric institution at least 12 visitors, 6 of whom must be medical practitioners."
+   }
+  },
+  {
+   "id": "SG-H3157-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 ADMISSION AND DETENTION OF MENTALLY DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Inspection by visitors"
+   },
+   "text": {
+    "en": "5.—(1) Two or more visitors, one of whom must be a medical practitioner, must —\n(a)at least once every 3 months, together inspect any part of any psychiatric institution of which they are visitors;\n(b)see and examine, as far as circumstances will permit, any patient in the psychiatric institution and the order for the admission of every patient admitted since the last visitation of the visitors; and\n(c)report to the Director‑General on such matters as they may consider proper in regard to the management and condition of the psychiatric institution and the patients therein.\n[Act 11 of 2023 wef 01/05/2023]\n(2) The Director‑General may direct one or more visitors to inspect any psychiatric institution and to report to the Director‑General on such matters as the Director‑General may consider proper in regard to the management and condition of the psychiatric institution and the patients therein.\n[Act 11 of 2023 wef 01/05/2023]"
+   }
+  },
+  {
+   "id": "SG-H3157-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 ADMISSION AND DETENTION OF MENTALLY DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Admission for treatment"
+   },
+   "text": {
+    "en": "6.—(1) A person may be admitted to a psychiatric institution and there detained for treatment in accordance with the provisions of this Act for the period allowed by the provisions of this Act.\n(2) Nothing in this Act is to be construed as preventing a person who requires treatment for any mental disorder —\n(a)from being admitted to a psychiatric institution without any order or directive rendering the person liable to be detained at a psychiatric institution; or\n(b)from remaining in a psychiatric institution after the person has ceased to be so liable to be detained."
+   }
+  },
+  {
+   "id": "SG-H3157-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 ADMISSION AND DETENTION OF MENTALLY DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Apprehension of mentally disordered person"
+   },
+   "text": {
+    "en": "7.—(1) It is the duty of every police officer or special police officer to apprehend any person (“P”) where the police officer or special police officer believes that P may endanger P’s or any other person’s life or personal safety, and P’s conduct is reasonably suspected to be attributable to a mental disorder, and take P together with a report of the facts of the case without delay to —\n(a)any medical practitioner for an examination and the medical practitioner may thereafter act in accordance with section 9; or\n(b)any designated medical practitioner at a psychiatric institution and the designated medical practitioner may thereafter act in accordance with section 10.\n[15/2019]\n[Act 16 of 2024 wef 01/01/2025]\n(2) For the purposes of and without limiting subsection (1) —\n(a)a police officer’s or special police officer’s reasonable belief that P is endangering P’s life or personal safety is sufficient basis for the police officer’s or special police officer’s reasonable suspicion that P’s conduct is attributable to a mental disorder;\n[Act 16 of 2024 wef 01/01/2025]\n(aa)it is sufficient that the danger to life or personal safety is only reasonably likely to occur and need not be imminent, and actual harm is not required; and\n[Act 16 of 2024 wef 01/01/2025]\n(b)“special police officer” has the meaning given by section 2 of the Police Force Act 2004.\n[15/2019]"
+   }
+  },
+  {
+   "id": "SG-H3157-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 ADMISSION AND DETENTION OF MENTALLY DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Ill-treatment or neglect of mentally disordered person"
+   },
+   "text": {
+    "en": "8.—(1) If it appears to a Magistrate on the report of a police officer or on the information of a person that any person supposed to be mentally disordered (“P”) is not under proper care and control or is ill‑treated or neglected by any relative or other person having the charge of P, the Magistrate may —\n(a)send for P and summon the relative or other person as has or ought to have the charge of P; and\n(b)after due inquiry make an order for P to be sent to a designated medical practitioner at a psychiatric institution for treatment and the designated medical practitioner may thereafter act in accordance with section 10.\n(2) It is the duty of every police officer to report to a Magistrate every case of lack of proper care and control, ill‑treatment or neglect mentioned in subsection (1) which may come to the police officer’s knowledge.\n(3) Any police officer not below the rank of sergeant may visit any person supposed to be mentally disordered (“P”) in the care of any relative or other person having the charge of P for the purpose of ascertaining whether or not P is under proper care and control or is ill‑treated or neglected by any such relative or other person.\n(4) Any relative or other person mentioned in subsection (3) is legally bound to produce P for the inspection of the police officer and in the event the relative or other person refuses to do so shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000."
+   }
+  },
+  {
+   "id": "SG-H3157-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 ADMISSION AND DETENTION OF MENTALLY DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Mentally disordered person may be referred to psychiatric institution"
+   },
+   "text": {
+    "en": "9. Where a medical practitioner has under his or her care a person believed to be mentally disordered or to require psychiatric treatment, the medical practitioner may send the person to a designated medical practitioner at a psychiatric institution for treatment and that designated medical practitioner may thereafter act in accordance with section 10."
+   }
+  },
+  {
+   "id": "SG-H3157-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 ADMISSION AND DETENTION OF MENTALLY DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS"
+   },
+   "heading": {
+    "en": "General provisions as to admission and detention for treatment"
+   },
+   "text": {
+    "en": "10.—(1) A designated medical practitioner at a psychiatric institution who has examined any person who is suffering from a mental disorder and is of the opinion that that person should be treated, or continue to be treated, as an inpatient at the psychiatric institution may at any time sign an order in accordance with Form 1 in the Schedule —\n(a)for the admission of the person into the psychiatric institution for treatment; or\n(b)in the case of an inpatient, for the detention and further treatment of the person,\nand the person may be detained for a period of 72 hours commencing from the time the designated medical practitioner signed the order.\n(2) A patient who has been admitted for treatment or detained for further treatment under an order made under subsection (1) may be detained for a further period of one month commencing from the end of the period of 72 hours mentioned in that subsection if —\n(a)before the end of the period of 72 hours, the patient has been examined by another designated medical practitioner at the psychiatric institution and that designated medical practitioner is of the opinion that the patient requires further treatment at the psychiatric institution; and\n(b)the designated medical practitioner mentioned in paragraph (a) signs an order in accordance with Form 2 in the Schedule.\n(3) A patient who has been detained for further treatment under an order made under subsection (2) must not be detained for any further period at the psychiatric institution for treatment unless before the end of the period of one month mentioned in that subsection, the patient has been brought before 2 designated medical practitioners working at the psychiatric institution, one of whom must be a psychiatrist, who have examined the patient separately and who are both satisfied that the patient requires further treatment at the psychiatric institution.\n(4) Each of the designated medical practitioners mentioned in subsection (3) must sign an order in accordance with Form 3 in the Schedule.\n(5) Two orders signed in accordance with subsection (4) are sufficient authority for the detention of the patient to whom they refer for a period not exceeding 6 months commencing from the date of the order.\n(6) A person must not be detained at a psychiatric institution for treatment unless —\n(a)the person is suffering from a mental disorder which warrants the detention of the person in a psychiatric institution for treatment; and\n(b)it is necessary in the interests of the health or safety of the person or for the protection of other persons that the person should be so detained."
+   }
+  },
+  {
+   "id": "SG-H3157-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 ADMISSION AND DETENTION OF MENTALLY DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Prohibition"
+   },
+   "text": {
+    "en": "11. A medical practitioner who —\n(a)is the husband, wife, father, father‑in‑law, mother, mother‑in‑law, son, son‑in‑law, daughter, daughter‑in‑law, brother, brother‑in‑law, sister or sister‑in‑law of the patient;\n(b)stands in a fiduciary relationship to the patient; or\n(c)is treating the patient,\nmust not sign any order under this Act."
+   }
+  },
+  {
+   "id": "SG-H3157-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 ADMISSION AND DETENTION OF MENTALLY DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Discharge by principal officer or psychiatrist"
+   },
+   "text": {
+    "en": "12. Subject to the provisions of any other written law, the principal officer or a psychiatrist of a psychiatric institution may by writing under his or her hand order the discharge of any patient from the institution."
+   }
+  },
+  {
+   "id": "SG-H3157-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 ADMISSION AND DETENTION OF MENTALLY DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Visitors to apply for Magistrate’s order of detention"
+   },
+   "text": {
+    "en": "13.—(1) It is the duty of the visitors of every psychiatric institution, upon being satisfied by the report of the principal officer of the institution and by personal inspection that any patient detained under section 10(3) should be further detained for care and treatment, to make an application in accordance with Form 4 in the Schedule to a Magistrate for an order of detention.\n(2) The Magistrate may on an application made under subsection (1), with or without further inquiry at his or her discretion, sign a detention order in accordance with Form 5 in the Schedule ordering the patient to be further detained in a psychiatric institution for care and treatment.\n(3) An order made under subsection (2) is sufficient authority for the further detention of the patient for a period not exceeding 12 months.\n(4) The visitors may, when making an application for an order of detention under this section, order by endorsement upon the detention order made under section 10(4) that the patient be detained until the order of detention has been received or until the Magistrate has made other order in the case.\n(5) Any endorsement under subsection (4) is sufficient authority for the detention of the patient during such period.\n(6) Where a patient has been detained at a psychiatric institution under an order made by a Magistrate under this section, the visitors of the psychiatric institution, upon being satisfied by the report of the principal officer of the institution and by personal inspection that the patient should be further detained at the institution for care and treatment, may make one or more further applications in accordance with Form 4 in the Schedule to a Magistrate for an order of detention.\n(7) Subsections (2) and (3) apply, with the necessary modifications, to any application made under subsection (6)."
+   }
+  },
+  {
+   "id": "SG-H3157-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 2 ADMISSION AND DETENTION OF MENTALLY DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Discharge by visitors"
+   },
+   "text": {
+    "en": "14. Subject to the provisions of any other written law, 2 of the visitors of a psychiatric institution, of whom one must be a medical practitioner, may by writing under their hands order the discharge of any patient from the psychiatric institution."
+   }
+  },
+  {
+   "id": "SG-H3157-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 2 ADMISSION AND DETENTION OF MENTALLY DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Temporary absence from psychiatric institution"
+   },
+   "text": {
+    "en": "15.—(1) Two of the visitors of a psychiatric institution may, upon the written recommendation of the principal officer of the institution, permit a patient to be absent from that institution for as long as they think fit.\n(2) If before the end of the period of absence, a certificate of 2 designated medical practitioners working in the psychiatric institution that it is no longer necessary that the patient be detained in the institution for care and treatment is forwarded to the principal officer or the visitors of the institution, the patient is deemed to be discharged from the institution.\n(3) If the patient does not return to the psychiatric institution within 28 days of the end of the period of absence, and no certificate mentioned in subsection (2) has been received, the patient may be retaken as in the case of an escape.\n(4) The principal officer of a psychiatric institution may permit a patient of the institution to be absent from the institution for any period not exceeding 6 months, and if upon the end of the period of absence the patient does not return to the institution, the patient may be retaken as in the case of an escape.\n(5) Without limiting subsection (4), the principal officer of a psychiatric institution may, where it appears that a patient detained in the psychiatric institution requires treatment for an illness other than mental disorder, direct that the patient —\n(a)reside in and be kept in the custody of any other hospital for a period of time for the purpose of receiving the treatment; and\n(b)if it is necessary in the patient’s interests to do so, continue to receive treatment for mental disorder in that other hospital during that period."
+   }
+  },
+  {
+   "id": "SG-H3157-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 2 ADMISSION AND DETENTION OF MENTALLY DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Removal of patient from one psychiatric institution to another"
+   },
+   "text": {
+    "en": "16.—(1) The Director‑General or such public officer as the Director‑General may appoint, may by order in accordance with Form 6 in the Schedule order the removal of any patient from any psychiatric institution in Singapore to any other psychiatric institution in Singapore.\n[Act 11 of 2023 wef 01/05/2023]\n(2) An order under subsection (1) is sufficient authority for the removal of the patient and also for the patient’s reception into the psychiatric institution to which the patient is ordered to be removed."
+   }
+  },
+  {
+   "id": "SG-H3157-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 2 ADMISSION AND DETENTION OF MENTALLY DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Removal of patient from Singapore"
+   },
+   "text": {
+    "en": "17.—(1) Where a person who is not a citizen of Singapore or not domiciled in Singapore (“P”) is detained in a psychiatric institution under the provisions of this Act and it appears expedient that P should be removed to the country of which P is a national or in which P is domiciled, the Minister may, if the Minister is satisfied that —\n(a)P’s removal is likely to be for P’s benefit; and\n(b)proper arrangements have been made for P’s removal and subsequent care and treatment,\ndirect, by warrant, that P be delivered to the person named in the warrant for the purpose of removal to the country of which P is a national or in which P is domiciled, and the person or authority having the charge of P must obey the warrant.\n(2) A warrant under this section is sufficient authority for the master of any vessel or captain of any aircraft to receive and detain P on board the vessel or aircraft for the purpose of conveying P to P’s destination."
+   }
+  },
+  {
+   "id": "SG-H3157-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 2 ADMISSION AND DETENTION OF MENTALLY DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Contents of warrant"
+   },
+   "text": {
+    "en": "18. Any warrant of removal made under section 17 must be addressed to the principal officer of the psychiatric institution in which the patient is at the time detained and must direct the principal officer to deliver up the patient to the person mentioned in the warrant at such place and in such manner as may be specified in that warrant for the purpose of the patient’s removal and the patient must be delivered up accordingly."
+   }
+  },
+  {
+   "id": "SG-H3157-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 2 ADMISSION AND DETENTION OF MENTALLY DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Return to Singapore"
+   },
+   "text": {
+    "en": "19. Any patient removed from Singapore under section 17 must not return to Singapore except by permission of the Minister."
+   }
+  },
+  {
+   "id": "SG-H3157-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 2 ADMISSION AND DETENTION OF MENTALLY DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Application for order for payment of cost of maintenance"
+   },
+   "text": {
+    "en": "20.—(1) If any patient detained in a psychiatric institution under the provisions of this Act has an estate applicable to his or her maintenance, or if any person legally bound to maintain the patient has the means to maintain the patient, the principal officer of the institution may apply to the court for an order for the payment of the cost of maintenance of the patient.\n(2) The court is to inquire into the matter in a summary way, and on being satisfied that the patient has an estate applicable to his or her maintenance, or that any person is legally bound to maintain and has the means of maintaining the patient, may make an order for the recovery of the cost of maintenance of the patient, together with the costs of the application, out of the estate or from the person.\n(3) An order made by a court under subsection (2) is to be enforced in the same manner and has the same force and effect and is subject to the same appeal as a judgment or order made by that court in a suit in respect of the property or person mentioned in that subsection."
+   }
+  },
+  {
+   "id": "SG-H3157-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 2 ADMISSION AND DETENTION OF MENTALLY DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Saving of liability of relatives"
+   },
+   "text": {
+    "en": "21. The liability of any relative or other person to maintain any mentally disordered person shall not be taken away or affected by any provision in this Act."
+   }
+  },
+  {
+   "id": "SG-H3157-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 2 ADMISSION AND DETENTION OF MENTALLY DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS"
+   },
+   "heading": {
+    "en": "Offences against patients"
+   },
+   "text": {
+    "en": "22.—(1) Any medical practitioner, nurse, attendant or other person employed by or rendering service in any psychiatric institution or hospital mentioned in section 15(5), who ill-treats any patient shall be guilty of an offence.\n(2) For the purposes of subsection (1), a person ill‑treats a patient if the person —\n(a)subjects the patient to physical or sexual abuse;\n(b)wilfully or unreasonably does, or causes the patient to do, any act which endangers or is likely to endanger the safety of the patient or which causes or is likely to cause the patient —\n(i)any unnecessary physical pain, suffering or injury;\n(ii)any emotional injury; or\n(iii)any injury to the patient’s health; or\n(c)wilfully or unreasonably neglects the patient in circumstances that are likely to endanger the safety of the patient or to cause the patient —\n(i)any unnecessary physical pain, suffering or injury;\n(ii)any emotional injury; or\n(iii)any injury to the patient’s health.\n(3) For the purpose of subsection (2)(c), a person is deemed to have neglected the patient in circumstances likely to cause the patient unnecessary physical pain, suffering or injury or emotional injury or injury to the patient’s health if the person wilfully or unreasonably neglects to provide adequate food, clothing, medical aid or care for the patient.\n(4) A person may be convicted of an offence under subsection (1) —\n(a)even though any actual suffering or injury, or the likelihood of any suffering or injury, on the part of the patient was obviated by the action of another person; or\n(b)despite the death of the patient.\n(5) Any person who has sexual intercourse with a patient of a psychiatric institution, while in that institution, shall be guilty of an offence.\n(6) Consent is not a defence in any proceedings for an offence under subsection (5) if the accused knew or had reason to suspect that the person in respect of whom the offence was committed was a patient of the psychiatric institution.\n(7) Any person who is guilty of an offence —\n(a)under subsection (1) shall be liable on conviction —\n(i)in the case where death is caused to the patient, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 7 years or to both; or\n(ii)in any other case, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 4 years or to both; or\n(b)under subsection (5) shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 10 years or to both."
+   }
+  },
+  {
+   "id": "SG-H3157-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Construction of laws"
+   },
+   "text": {
+    "en": "23. Where in any written law or other document any reference to a lunatic or to lunacy or to a lunatic asylum, an asylum or a psychiatric institution is contained, that reference, unless the context otherwise requires, is to be read as a reference to a mentally disordered person or a patient within the meaning of this Act, or to mental disorder, or to a psychiatric institution, respectively."
+   }
+  },
+  {
+   "id": "SG-H3157-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Order or certificate"
+   },
+   "text": {
+    "en": "24. Every order or certificate of a designated medical practitioner is evidence of the facts appearing in the order or certificate and of the judgment stated in the order or certificate to have been formed by the person certifying those facts, as if the matters appearing in the order or certificate had been verified on oath."
+   }
+  },
+  {
+   "id": "SG-H3157-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Protection of person enforcing Act"
+   },
+   "text": {
+    "en": "25.—(1) Where a person has —\n(a)made a request for the reception of any patient, or signed or carried out or done any act with a view to signing or carrying out any report, application, recommendation, or certificate purporting to be a report, application, recommendation or certificate under this Act; or\n(b)done anything under this Act,\nthe person shall not be liable to any civil or criminal proceedings, whether on the ground of want of jurisdiction or on any other ground, unless the person has acted in bad faith or without reasonable care.\n(2) No proceedings, civil or criminal, shall be brought against any person in any court in respect of any such matter as is mentioned in subsection (1) without the permission of the court, and permission shall not be given unless the court is satisfied that there is substantial ground for the contention that the person, against whom it is sought to bring the proceedings, has acted in bad faith or without reasonable care.\n[Act 25 of 2021 wef 01/04/2022]\n(3) Notice of any application under subsection (2) must be given to the person against whom it is sought to bring the proceedings, and the person is entitled to be heard against the application."
+   }
+  },
+  {
+   "id": "SG-H3157-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Penalty for improper reception or detention"
+   },
+   "text": {
+    "en": "26.—(1) Subject to section 25, any person who —\n(a)otherwise than in accordance with the provisions of this Act receives or detains in a psychiatric institution a person who is or is alleged to be mentally disordered; or\n(b)for gain detains in any place that is not a psychiatric institution, 2 or more mentally disordered persons,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.\n(2) A prosecution under this section must not be commenced except with the consent of the Public Prosecutor."
+   }
+  },
+  {
+   "id": "SG-H3157-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Sum payable by Government to mentally disordered person"
+   },
+   "text": {
+    "en": "27. Where any sum is payable in respect of pay, pension, gratuity or other similar allowance to any person by the Government, and the person to whom the sum is payable is found under the provisions of this Act to be mentally disordered, the Government may —\n(a)pay so much of that sum as it thinks fit to the person having charge of the mentally disordered person; and\n(b)pay the surplus (if any), or such part of the surplus as it thinks fit, for the maintenance of such members of the family of the mentally disordered person as are dependent on that person for maintenance."
+   }
+  },
+  {
+   "id": "SG-H3157-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Order for payment of cost of maintenance"
+   },
+   "text": {
+    "en": "28.—(1) Where any person (“P”) has been received into a psychiatric institution in accordance with section 249 or 252 of the Criminal Procedure Code 2010 or section 43 of the Prisons Act 1933, the court —\n(a)on the application of the principal officer of the psychiatric institution, may make an order for the payment of the cost of maintenance of P in the psychiatric institution; and\n(b)may direct that any sum of money payable under that order is to be recovered from the estate of the person, or of any person legally bound to maintain P.\n(2) If at any time it appears to the satisfaction of the court that P has no sufficient property and that no person legally bound to maintain P has sufficient means for the payment of the cost, the court is to so certify instead of making an order under that subsection for the payment of the cost.\n(3) An order under subsection (1) is to be enforced in the same manner and has the same force and effect and is subject to the same appeal as a judgment or order made by the court in a suit in respect of the property or person mentioned in that subsection."
+   }
+  },
+  {
+   "id": "SG-H3157-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Mental Capacity Act 2008 matters"
+   },
+   "text": {
+    "en": "29. Nothing contained in this Act is to be taken to interfere with the power of the court over any person found to be lacking capacity under the Mental Capacity Act 2008."
+   }
+  },
+  {
+   "id": "SG-H3157-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "30.—(1) The Director‑General or any public officer authorised by the Director‑General may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.\n[Act 11 of 2023 wef 01/05/2023]\n(2) On payment of the sum of money mentioned in subsection (1), no further proceedings are to be taken against that person in respect of the offence.\n(3) All sums collected under this section must be paid into the Consolidated Fund."
+   }
+  },
+  {
+   "id": "SG-H3157-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Power to amend Schedule"
+   },
+   "text": {
+    "en": "31. The Minister may, by order in the Gazette, amend, add to or vary the Schedule."
+   }
+  },
+  {
+   "id": "SG-H3157-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Rules"
+   },
+   "text": {
+    "en": "32.—(1) The Minister may make rules for carrying out the purposes and provisions of this Act.\n(2) Without limiting subsection (1), the Minister may make rules to prescribe —\n(a)the conditions and circumstances under which mechanical means of restraint or seclusion may be applied to patients;\n(b)the books and records to be kept in psychiatric institutions; and\n(c)anything which may be prescribed or is required to be prescribed under this Act.\n(3) The Minister may, in making any rules, provide that any contravention of any provision of the rules is an offence punishable with a fine not exceeding $5,000 or imprisonment for a term not exceeding 6 months or both."
+   }
+  },
+  {
+   "id": "SG-H3157-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Saving"
+   },
+   "text": {
+    "en": "33. All orders and applications made and things done under Parts II and III of the repealed Mental Disorders and Treatment Act (Cap. 178, 1985 Revised Edition) before 1 March 2010 in relation to a person of unsound mind are deemed to be made or done under this Act; and for this purpose, the provisions of this Act apply to and in relation to the person as if he or she is a mentally disordered person under this Act."
+   }
+  },
+  {
+   "id": "SG-H3157-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nFORM 1\nSections 10(1) and 31\nMENTAL HEALTH (CARE AND TREATMENT) ACT 2008\nORDER FOR ADMISSION OR FURTHER TREATMENT\nOF A PATIENT\nTo:\nThe principal officer,\n................................ Institution.\nI, the undersigned designated medical practitioner, order that ........................................ of ............................................... be *admitted for treatment/detained for further treatment under section 10(1) of the Mental Health (Care and Treatment) Act 2008 on account of suspected mental disorder.\nSignature: ....................................................\n(Name in block letters)................................\nWitness: ......................................................\n(Name in block letters)................................\nDate: .................\nTime: ............\n*Delete whichever is inapplicable.\nFORM 2\nSections 10(2) and 31\nMENTAL HEALTH (CARE AND TREATMENT) ACT 2008\nORDER OF DETENTION OF A PATIENT FOR\nFURTHER TREATMENT\nTo:\nThe principal officer,\n................................ Institution.\nI, the undersigned designated medical practitioner, order that .......................................... of ................................................ be detained for further treatment under section 10(2) of the Mental Health (Care and Treatment) Act 2008 on account of suspected mental disorder.\nSignature: ....................................................\n(Name in block letters)................................\nWitness: ......................................................\n(Name in block letters)................................\nDate: .................\nTime: ............\nFORM 3\nSections 10(4) and 31\nMENTAL HEALTH (CARE AND TREATMENT) ACT 2008\nORDER OF DETENTION OF A PATIENT FOR\nFURTHER TREATMENT\nTo:\nThe principal officer,\n................................ Institution.\nI, the undersigned, ....................................................................................…\n(here enter name and official designation)\ncertify that I on the ........ day of ............ 20...... at ……..……………… personally examined (separately from any other practitioner) ..........................................................................................................\n..............................................................................................................................\n(here enter name and residence of person examined)\nand that the said ............................................. is mentally disordered and a proper person to be taken charge of and detained for further treatment and that I have formed this opinion on the following grounds:\nSTATEMENT\n1.Facts indicating mental disorder observed by myself ............\n..................................................................................................\n..................................................................................................\n(here state the facts)\n2.Other facts (if any) indicating mental disorder communicated\nto me by others ........................................................................\n...................................................................................................\n(here state the information and from whom)\nAnd I order that the said ............................................ be detained at the ............................................... Institution for further psychiatric treatment.\nDated this ........ day of .................... 20.....\n......................................................................\n*Designated Medical Practitioner/\nDesignated Medical Practitioner (Psychiatrist)\n*Delete whichever is inapplicable.\nFORM 4\nSections 13(1) and (6) and 31\nMENTAL HEALTH (CARE AND TREATMENT) ACT 2008\nAPPLICATION BY VISITORS FOR ORDER OF DETENTION\nWe, the visitors of ....................................................... Institution being satisfied by the report of ........................................................... principal officer of the said Institution, and by personal inspection, that ........................................................ a patient detained under section 10(3) of the Mental Health (Care and Treatment) Act 2008 should be further detained for care and treatment make application to a Magistrate for an order for the further detention of the said ...............................................................................................\n...............................................................................................................................\nSigned\n..............................................................\n..............................................................\n..............................................................\nVisitors\nFORM 5\nSections 13(2) and 31\nMENTAL HEALTH (CARE AND TREATMENT) ACT 2008\nMAGISTRATE’S ORDER OF DETENTION\nWhereas ............................................................................................................\n...............................................................................................................................\n...............................................................................................................................\n...............................................................................................................................\n................................................. the Visitors of .................................................. Institution, have applied to me for an order that ........................................................................... a patient detained under section 10(3) of the Mental Health (Care and Treatment) Act 2008 should be further detained for care and treatment:\nNow therefore, I, the undersigned Magistrate, order that the said ....................................................... be further detained.\nDated this ............. day of ................... 20.....\nSigned ....................................................\nMagistrate\nFORM 6\nSections 16(1) and 31\nMENTAL HEALTH (CARE AND TREATMENT) ACT 2008\nTRANSFER ORDER\nTo:\nThe principal officer\nof the ..................................\nand to ..................................\nWhereas I have seen fit to order that ........................ who is detained as a patient in ....................................... Institution be removed from that Institution and transferred to ............................................... Institution.\nNow I require you the principal officer of the ................................................ Institution to deliver up the said patient to ....................................... at .....................................................\nAnd I require you ............................................ to bring or cause to be brought the said patient .................................. to the ................................. Institution and to deliver him or her to the officer in charge of the ......................................................... Institution.\nGiven under my hand, this .................. day of .................... 20.....\n........................................................\nDirector-General of Health\n[Act 11 of 2023 wef 01/05/2023]"
+   }
+  }
+ ]
+}

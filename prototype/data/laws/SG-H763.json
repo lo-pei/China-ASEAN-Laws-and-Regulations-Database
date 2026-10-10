@@ -1,0 +1,814 @@
+{
+ "id": "SG-H763",
+ "title": {
+  "zh": null,
+  "en": "Community Disputes Resolution Tribunals Rules 2015",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p10",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CDRA2015-S565-2015",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 49,
+ "chars": 53822,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CDRA2015-S565-2015?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 49 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H763-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Rules may be cited as the Community Disputes Resolution Tribunals Rules 2015 and come into operation on 1 October 2015."
+   }
+  },
+  {
+   "id": "SG-H763-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Application of Rules and Rules of Court 2021"
+   },
+   "text": {
+    "en": "2.—(1) These Rules apply to all proceedings in the Community Disputes Resolution Tribunals.\n(2) Subject to the provisions of these Rules, the Rules of Court 2021 (G.N. No. S 914/2021) apply to all proceedings in and appeals from the Community Disputes Resolution Tribunals with the following modifications:\n(a)any reference to a Judge includes a reference to a tribunal judge;\n(b)any reference to a Court includes a reference to a Community Disputes Resolution Tribunal or a tribunal judge;\n(c)any reference to an originating process includes a reference to a claim under rule 5 or a claim brought pursuant to an application by the Director‑General under section 17A(1);\n[S 579/2026 wef 01/09/2026]\n(d)any reference to a pleading does not include a reference to a claim under rule 5 or a claim brought pursuant to an application by the Director‑General under section 17A(1);\n[S 579/2026 wef 01/09/2026]\n(e)Order 9, Rule 16 of the Rules of Court 2021 applies to a claim under rule 5 or a claim brought pursuant to an application by the Director‑General under section 17A(1) as if the claim were a pleading;\n[S 50/2018 wef 01/02/2018]\n[S 199/2022 wef 01/04/2022]\n[S 579/2026 wef 01/09/2026]\n(f)Orders 7 and 28 of the Rules of Court 2021 do not apply to any proceeding in the Community Disputes Resolution Tribunals.\n[S 50/2018 wef 01/02/2018]\n[S 199/2022 wef 01/04/2022]\n[S 199/2022 wef 01/04/2022]\n[S 199/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H763-A2.001",
+   "no": 2.001,
+   "noLabel": {
+    "en": "2A."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2A. In these Rules, unless the context otherwise requires —\n“ACRA” means the Accounting and Corporate Regulatory Authority established by section 3 of the Accounting and Corporate Regulatory Authority Act (Cap. 2A);\n“civil restraint order” means —\n(a)a limited civil restraint order made in accordance with section 31C;\n(b)an extended civil restraint order made in accordance with section 31D; or\n(c)a general civil restraint order made in accordance with section 31E;\n[S 579/2026 wef 01/09/2026]\n“CorpPass” means the identity authentication service, known as Singapore Corporate Access, by which an entity authenticates its identity in order to carry out an online transaction with the Government or a statutory board;\n“CorpPass credential” means any username, password or 2‑factor authentication detail required to authenticate, using CorpPass, the identity of an entity;\n“electronic system” means the electronic filing and case management system established under rule 4A(1);\n“messaging system” means any system that enables the transmission of short text messages or electronic mail —\n(a)from a digital mobile telephone to another digital mobile telephone; or\n(b)from an electronic mail address to a digital mobile telephone, and the other way around;\n“relevant Form”, in relation to any purpose for which a specific form is required to be used, means the current version of the relevant form for that purpose, as set out on the Internet website of the electronic system or in the practice directions;\n“section” means a section of the Act;\n[S 579/2026 wef 01/09/2026]\n“SingPass” means the identity authentication service, known as Singapore Personal Access, by which an individual authenticates the individual’s identity in order to carry out an online transaction with the Government or a statutory board;\n“SingPass credential” means any username, password or 2‑factor authentication detail required to authenticate, using SingPass, the identity of an individual.\n[S 50/2018 wef 01/02/2018]"
+   }
+  },
+  {
+   "id": "SG-H763-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Forms and documents"
+   },
+   "text": {
+    "en": "3.—(1) Unless the Registrar directs otherwise, every relevant Form or document relating to proceedings before a tribunal or the Registrar must be submitted through the electronic system.\n(2) Every relevant Form must contain such particulars, and be accompanied by such documents, as may be specified by the tribunal, by the Registrar or in the relevant Form.\n(3) Any relevant Form may be used in any particular case with such variations as the circumstances of that case require.\n[S 50/2018 wef 01/02/2018]"
+   }
+  },
+  {
+   "id": "SG-H763-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Powers of tribunal or Registrar for purpose of facilitating fair and expedient determination of matter"
+   },
+   "text": {
+    "en": "4. For the purpose of facilitating the fair and expedient determination of any matter in a tribunal —\n(a)the tribunal or the Registrar may make such order or direction as the tribunal or Registrar thinks necessary or appropriate, including —\n(i)any order or direction as to the procedure for any proceedings in the tribunal; and\n(ii)any order or direction for the modification or exclusion of any provision of these Rules or the Rules of Court 2021 in relation to those proceedings; and\n[S 199/2022 wef 01/04/2022]\n(b)despite anything to the contrary in these Rules or the Rules of Court 2021, any application may be made in such manner as the tribunal or Registrar may direct.\n[S 199/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H763-A4.001",
+   "no": 4.001,
+   "noLabel": {
+    "en": "4A."
+   },
+   "chapter": {
+    "en": "PART 1A ELECTRONIC SYSTEM"
+   },
+   "heading": {
+    "en": "Electronic system"
+   },
+   "text": {
+    "en": "4A.—(1) An electronic filing and case management system is established for the tribunals.\n(2) The purposes of the electronic system are as follows:\n(a)to facilitate the submission of relevant Forms and documents;\n(b)to facilitate the service of relevant Forms and documents;\n(c)to facilitate, by electronic means, the settlement of disputes and the conduct of proceedings before a tribunal or the Registrar.\n[S 50/2018 wef 01/02/2018]"
+   }
+  },
+  {
+   "id": "SG-H763-A4.002",
+   "no": 4.002,
+   "noLabel": {
+    "en": "4B."
+   },
+   "chapter": {
+    "en": "PART 1A ELECTRONIC SYSTEM"
+   },
+   "heading": {
+    "en": "Authentication"
+   },
+   "text": {
+    "en": "4B.—(1) Subject to paragraph (3), an individual must authenticate the individual’s identity using SingPass in order to access the electronic system to carry out an online transaction involving the individual.\n(2) Subject to paragraph (3), a person, who is authorised by an entity to carry out through the electronic system an online transaction involving the entity, must authenticate the identity of the entity using CorpPass in order to access the electronic system to carry out that transaction for the entity.\n(3) The Registrar may, on application by a party that is unable to authenticate the party’s identity using SingPass or CorpPass, issue the party with a username and password to enable the party to access the electronic system to carry out an online transaction involving the party.\n(4) A party that is issued a username and a password under paragraph (3) —\n(a)must ensure the confidentiality and security of the username and password; and\n(b)must not —\n(i)divulge the username and password to any other person; or\n(ii)permit any other person to use the username and password.\n(5) An individual must not facilitate the use, by any other person, of the individual’s SingPass credentials to access the electronic system.\n(6) An entity must not facilitate the use, by any unauthorised person, of the CorpPass credentials of the entity to access the electronic system.\n[S 50/2018 wef 01/02/2018]"
+   }
+  },
+  {
+   "id": "SG-H763-A4.003",
+   "no": 4.003,
+   "noLabel": {
+    "en": "4C."
+   },
+   "chapter": {
+    "en": "PART 1A ELECTRONIC SYSTEM"
+   },
+   "heading": {
+    "en": "Information on party"
+   },
+   "text": {
+    "en": "4C. Every party to proceedings before a tribunal or the Registrar must —\n(a)enter, through such means as may be provided by the electronic system for the recording of information on the party’s profile, such information on the party as the electronic system may require; and\n(b)if there is any change to that information, update that information by entering, through such means as may be provided by the electronic system, the details of the change.\n[S 50/2018 wef 01/02/2018]"
+   }
+  },
+  {
+   "id": "SG-H763-A4.004",
+   "no": 4.004,
+   "noLabel": {
+    "en": "4D."
+   },
+   "chapter": {
+    "en": "PART 1A ELECTRONIC SYSTEM"
+   },
+   "heading": {
+    "en": "Time of filing of relevant Form or document submitted through electronic system"
+   },
+   "text": {
+    "en": "4D.—(1) If a relevant Form or document is submitted through the electronic system, the relevant Form or document is treated as filed on the date and at the time the first part of the transmission of the relevant Form or document is received in the electronic system.\n(2) Despite paragraph (1), where the submission of a relevant Form or document through the electronic system is unsuccessful or delayed because of a failure or inability of the electronic system to transmit or process the relevant Form or document, the Registrar may —\n(a)on the Registrar’s own motion or on the application of the party who submitted the relevant Form or document, make an order for the relevant Form or document to be treated as filed on an earlier date than that on which the first part of the transmission of the relevant Form or document is actually received in the electronic system; and\n(b)in the case of an unsuccessful submission, require the relevant Form or document to be resubmitted through the electronic system.\n(3) Every application under paragraph (2)(a) must be accompanied by proof, to the satisfaction of the Registrar, of the matters relied on to support the application.\n[S 50/2018 wef 01/02/2018]"
+   }
+  },
+  {
+   "id": "SG-H763-A4.005",
+   "no": 4.005,
+   "noLabel": {
+    "en": "4E."
+   },
+   "chapter": {
+    "en": "PART 1A ELECTRONIC SYSTEM"
+   },
+   "heading": {
+    "en": "Time of service of document through electronic system"
+   },
+   "text": {
+    "en": "4E.—(1) Where the Registrar gives, through the electronic system, a notice under these Rules to —\n(a)a party to proceedings before a tribunal or the Registrar; or\n(b)any other person who carries out an online transaction through the electronic system,\nthe notice is treated as served on the party or person (as the case may be) 24 hours after the time the Registrar sends the notice to the party or person (as the case may be) through the electronic system.\n(2) Except as provided in paragraph (1), after the Registrar has notified a party to any proceedings before a tribunal or the Registrar that the party has been given the right to access the electronic system to view any document served on the party in relation to those proceedings —\n(a)any document required to be served on the party in relation to those proceedings may be served on the party by submitting that document through the electronic system; and\n(b)that document is treated as served on the party 24 hours after the time that document is treated under rule 4D as filed.\n[S 50/2018 wef 01/02/2018]"
+   }
+  },
+  {
+   "id": "SG-H763-A4.006",
+   "no": 4.006,
+   "noLabel": {
+    "en": "4F."
+   },
+   "chapter": {
+    "en": "PART 1A ELECTRONIC SYSTEM"
+   },
+   "heading": {
+    "en": "Negotiation through electronic system"
+   },
+   "text": {
+    "en": "4F. The parties to any proceedings before a tribunal or the Registrar may use the negotiation module in the electronic system to facilitate a settlement acceptable to all of those parties.\n[S 50/2018 wef 01/02/2018]"
+   }
+  },
+  {
+   "id": "SG-H763-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 COMMENCEMENT OF PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Commencement of action"
+   },
+   "text": {
+    "en": "5.—(1) Except as provided in rule 5A, an action in respect of a tort under section 4 must be commenced by filing —\n(a)a claim in the relevant Form; and\n(b)any supporting evidence to prove the matters stated in the claim.\n[S 579/2026 wef 01/09/2026]\n(2) The claimant must, within 14 days after the date on which the claim and the supporting evidence are filed, serve a copy each of the claim and the supporting evidence on the respondent.\n[S 199/2022 wef 01/04/2022]\n(3) The claimant must file a declaration of service in the relevant Form before or at the time of the first case conference.\n[S 199/2022 wef 01/04/2022]\n(4) A respondent who intends to contest a claimant’s claim must, within 14 days after being served with the claim and the supporting evidence, file and serve on the claimant —\n(a)a reply in the relevant Form; and\n(b)any supporting evidence to prove the matters stated in the reply.\n[S 199/2022 wef 01/04/2022]\n(5) Except with the permission of the Registrar or a tribunal, no other document or evidence may be filed or served for the purposes of the claim.\n[S 199/2022 wef 01/04/2022]\n(6) Despite Order 13, Rule 1(3) of the Rules of Court 2021, an application for a grant of an injunction need not be made by summons, and instead may be included in the claim.\n[S 199/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H763-A5.001",
+   "no": 5.001,
+   "noLabel": {
+    "en": "5A."
+   },
+   "chapter": {
+    "en": "PART 2 COMMENCEMENT OF PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Application by Director-General under section 17A(1)"
+   },
+   "text": {
+    "en": "5A.—(1) An application to a tribunal by the Director-General under section 17A(1) must be made by filing —\n(a)the relevant Form; and\n(b)any supporting evidence to prove the matters stated in the application.\n(2) Upon approval of the Director-General’s application by the tribunal, the Director-General must, within 7 days after the date of such approval, serve all the following documents on any person that appears to be a respondent to the claim under section 4 or the application under section 6 or 9 (as the case may be), to which the Director-General’s application relates:\n(a)the application under section 17A(1);\n(b)the supporting evidence mentioned in paragraph (1)(b);\n(c)the notice issued under section 17A(3)(c).\n(3) The Director-General must file a declaration of service in the relevant Form within 3 days after the date on which the documents mentioned in paragraph (2) are served.\n(4) A respondent to the claim under section 4, or the application under section 6 or 9 (as the case may be) to which the Director-General’s application relates, who intends to contest the claim or application must, within 14 days after being served with the documents mentioned in paragraph (2), file and serve on the claimant or applicant, as the case may be —\n(a)a reply in the relevant Form; and\n(b)any supporting evidence to prove the matters stated in the reply.\n(5) Despite Order 16 of the Rules of Court 2021, a party to the claim under section 4, or the application under section 6 or 9 (as the case may be) to which the Director-General’s application relates, may discontinue or withdraw the claim or application only if —\n(a)all the parties to the claim or application and the Director-General consent for the claim or application (as the case may be) to be discontinued or withdrawn — by filing the written consent of all the parties and the Director-General; or\n(b)any party to the claim or application, or the Director-General, does not consent for the claim or application (as the case may be) to be discontinued or withdrawn — with the permission of the tribunal.\n(6) To avoid doubt, the Director-General may, with the permission of the tribunal, discontinue or withdraw any claim or application that arises from an application under section 17A(1) made by the Director-General, under this rule.\n(7) Except with the permission of the Registrar or tribunal, no other document or evidence may be filed or served for the purposes of any claim or application that arises from an application made by the Director-General under section 17A(1).\n(8) Despite Order 13, Rule 1(3) of the Rules of Court 2021, if the application made by the Director-General under section 17A(1) is for the tribunal to hear and determine a claim under section 4, an application for a grant of an injunction need not be made by summons, and instead may be included in the application.\n(9) To avoid doubt, rules 5, 9, 10 and 11 do not apply in relation to a claim or an application deemed to have been brought pursuant to an application to a tribunal by the Director-General made under this rule.\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 COMMENCEMENT OF PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Case conference, etc."
+   },
+   "text": {
+    "en": "6.—(1) A tribunal or the Registrar (called in this rule the Court) may, at any time after the commencement of any proceedings, of the Court’s own motion or on an application by any party to the proceedings, direct any party to those proceedings to appear before the Court, for the Court to make such order or give such directions as the Court thinks fit, for the just, expeditious and economical disposal of the cause or matter.\n(2) The orders and directions which the Court may make or give under paragraph (1) include one or more of the following:\n(a)an order that the claimant and the respondent attend such mediation or counselling as the Court may direct;\n[S 199/2022 wef 01/04/2022]\n(b)any direction necessary for and incidental to the proper carrying into effect of an order under sub‑paragraph (a);\n(c)an order that all further proceedings in the action be stayed until the claimant and the respondent have attended the mediation or counselling (as the case may be).\n[S 199/2022 wef 01/04/2022]\n(3) To avoid doubt —\n(a)Order 9, Rules 1 to 4 of the Rules of Court 2021 apply to all proceedings before the Court;\n[S 50/2018 wef 01/02/2018]\n[S 199/2022 wef 01/04/2022]\n(b)[Deleted by S 199/2022 wef 01/04/2022]\n(c)where the Court has made an order under paragraph (2)(a) that the claimant and the respondent attend mediation, the Court may direct that the mediation be conducted —\n(i)through the electronic system; or\n(ii)by any other electronic means.\n[S 50/2018 wef 01/02/2018]\n[S 199/2022 wef 01/04/2022]\n[S 199/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H763-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 COMMENCEMENT OF PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Excluded interlocutory applications"
+   },
+   "text": {
+    "en": "7. No application under any of the following provisions of the Rules of Court 2021 is to be made in any case to which these Rules apply:\n(a)Order 9, Rule 17 (summary judgment);\n[S 199/2022 wef 01/04/2022]\n(b)Order 9, Rule 19 (decision on questions of law or construction of documents);\n[S 199/2022 wef 01/04/2022]\n(c)Order 11 (production of documents).\n[S 199/2022 wef 01/04/2022]\n[S 199/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H763-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Hearing before tribunal"
+   },
+   "text": {
+    "en": "8. Where the Registrar is of the view that the parties to an action in respect of a tort under section 4 are unable to resolve their dispute in the action without a trial, the Registrar is to —\n(a)fix the case for hearing before a tribunal; and\n(b)give notice in the relevant Form of the time and place of the hearing to the claimant and the respondent.\n[S 199/2022 wef 01/04/2022]\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Application for special direction under section 6(1)"
+   },
+   "text": {
+    "en": "9.—(1) Except as provided in rule 5A, an application for a special direction under section 6(1) must be made by filing the relevant Form and be accompanied by the following supporting materials:\n(a)a copy of the disobeyed order which is the subject of the application;\n(b)any supporting evidence to prove the matters stated in the application.\n[S 579/2026 wef 01/09/2026]\n(2) The applicant must, within 14 days after the date on which the application and the supporting materials are filed, serve the application and the supporting materials on the contravening party.\n(3) The applicant must file a declaration of service in the relevant Form within 8 days after the date on which the application and the supporting materials are served on the contravening party.\n(4) A contravening party who intends to contest the application must, within 14 days after being served with the application and the supporting materials, file and serve on the applicant —\n(a)a reply in the relevant Form; and\n(b)any supporting evidence to prove the matters stated in the reply.\n(5) Except with the permission of the tribunal, no other document or evidence may be filed or served for the purposes of the application.\n[S 199/2022 wef 01/04/2022]\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Application for person to enter into bond under section 6(3)"
+   },
+   "text": {
+    "en": "10.—(1) An application for an order under section 6(3) that a person (called in this rule the respondent) enter into a bond to ensure that a contravening party complies with a special direction under section 6(1) (called in this rule the second application) may be made in the relevant Form under the following circumstances:\n(a)by an applicant who applies for the special direction (called in this rule the first application), whether at the same time or on a date after the first application is made;\n(b)by an applicant, on a date after a tribunal’s approval of the Director-General’s application under section 17A(1) in relation to the special direction.\n[S 579/2026 wef 01/09/2026]\n(2) The second application must be accompanied by any supporting evidence to prove the matters stated in that application.\n(3) The second application and supporting evidence must be served on the respondent —\n(a)in any case where the second application is filed at the same time as the first application, together with the first application; or\n(b)in any other case, within 14 days after the date on which the second application is filed.\n(4) The applicant must file a declaration of service in the relevant Form within 8 days after the date on which the application and the supporting evidence are served on the respondent.\n(5) A respondent who intends to contest the second application must, within 14 days after being served with the second application and the supporting evidence, file and serve on the applicant —\n(a)a reply in the relevant Form; and\n(b)any supporting evidence to prove the matters stated in the reply.\n(6) Except with the permission of the tribunal, no other document or evidence may be filed or served for the purposes of the second application.\n[S 199/2022 wef 01/04/2022]\n(7) Where the respondent fails to attend the hearing of the second application, the tribunal may adjourn the hearing of that application and issue an order in the relevant Form to compel the respondent to attend the adjourned hearing.\n[S 199/2022 wef 01/04/2022]\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Application for exclusion order under section 9(1)"
+   },
+   "text": {
+    "en": "11.—(1) Except as provided in rule 5A, an application for an exclusion order under section 9(1) must be made by filing the relevant Form and be accompanied by the following supporting materials:\n(a)a copy of the special direction which is the subject of the application;\n(b)any supporting evidence to prove the matters stated in the application.\n[S 579/2026 wef 01/09/2026]\n(2) The applicant must, within 14 days after the date on which the application and the supporting materials are filed, serve the application and the supporting materials on the contravening party.\n(3) The applicant must file a declaration of service in the relevant Form within 8 days after the date on which the application and the supporting materials are served on the contravening party.\n(4) A contravening party who intends to contest the application must, within 14 days after being served with the application and the supporting materials, file and serve on the applicant —\n(a)a reply in the relevant Form; and\n(b)any supporting evidence to prove the matters stated in the reply.\n(5) Except with the permission of the tribunal, no other document or evidence may be filed or served for the purposes of the application.\n[S 199/2022 wef 01/04/2022]\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A11.001",
+   "no": 11.001,
+   "noLabel": {
+    "en": "11A."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Amendment of documents"
+   },
+   "text": {
+    "en": "11A.—(1) A tribunal or the Registrar may, at any stage of the proceedings and on the application of a party in the relevant Form, allow the party to amend the party’s claim, application, reply or other document in such manner as the tribunal or Registrar may direct.\n(2) Despite paragraph (1), a party may, at any stage of the proceedings, amend that party’s claim, application or reply in such manner as is agreed to by the other party.\n(3) A tribunal or the Registrar may, on the tribunal’s or Registrar’s own motion or on the application of a party in the relevant Form, correct any clerical mistake, or error arising from an accidental slip or omission, in an order of a tribunal or the Registrar.\n[S 50/2018 wef 01/02/2018]"
+   }
+  },
+  {
+   "id": "SG-H763-A11.002",
+   "no": 11.002,
+   "noLabel": {
+    "en": "11B."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Application for order to address hoarding under section 11A(1)"
+   },
+   "text": {
+    "en": "11B.—(1) An application by the Director-General for an order under section 11A(1) must be made by filing the relevant Form and be accompanied by all the following supporting materials:\n(a)a copy of the notice or advisory given under section 11A(1)(b);\n(b)a copy of the order for specific performance mentioned in section 11A(1)(d);\n(c)any supporting evidence to prove the matters stated in the application.\n(2) The Director-General must, within 7 days after the date on which the application and the supporting materials are filed, serve the application and the supporting materials on the owner or occupier of the place of residence specified in the application.\n(3) The Director-General must file a declaration of service in the relevant Form within 3 days after the date on which the application and the supporting materials are served on the owner or occupier of the place of residence specified in the application.\n(4) A person who intends to contest the application must, within 14 days after being served with the application and the supporting materials, file and serve on the Director-General —\n(a)a reply in the relevant Form; and\n(b)any supporting evidence to prove the matters stated in the reply.\n(5) Except with the permission of the tribunal, no other document or evidence may be filed or served for the purposes of the application.\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A11.003",
+   "no": 11.003,
+   "noLabel": {
+    "en": "11C."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Application for variation, suspension or revocation of order under section 11A(3)"
+   },
+   "text": {
+    "en": "11C.—(1) An application to vary, suspend or revoke an order under section 11A(3) must be made by filing the relevant Form and be accompanied by all the following supporting materials:\n(a)a copy of the order made under section 11A(1) which is the subject of the application;\n(b)any supporting evidence to prove the matters stated in the application.\n(2) The applicant must, within 7 days after the date on which the application and the supporting materials are filed, serve the application and the supporting materials on every other party to the original order.\n(3) The applicant must file a declaration of service in the relevant Form within 3 days after the date on which the application and the supporting materials are served on every other party to the original order.\n(4) Except with the permission of the tribunal, no other document or evidence may be filed or served for the purposes of the application.\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Proceedings before tribunal"
+   },
+   "text": {
+    "en": "12. Despite anything in the Rules of Court 2021, proceedings before a tribunal are to be conducted in an informal manner, and a tribunal may, in such proceedings —\n(a)give such directions for the proceedings as the tribunal thinks fit;\n(b)conduct the proceedings in such manner as the tribunal thinks fit;\n(c)enquire into any matter which the tribunal may consider relevant to the proceedings (whether or not such matter has been raised by a party); and\n(d)where any party does not appear at a hearing in the proceedings, proceed with the hearing in the absence of that party and make such orders as the tribunal thinks fit.\n[S 199/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H763-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 PROCEEDINGS BEFORE TRIBUNAL"
+   },
+   "heading": {
+    "en": "Directions for and conduct of proceedings"
+   },
+   "text": {
+    "en": "13.—(1) The directions which a tribunal may give under rule 12 include directions on one or more of the following matters:\n(a)the giving of evidence orally or by written statement;\n(b)the time limited for giving oral testimony;\n(c)the calling of a witness to give evidence with a view to assisting in the resolution or disposal of the application, whether or not any party will be calling that witness to give evidence for that party;\n(d)the time limited for oral arguments;\n(e)the length of any written submissions;\n(f)subject to section 62A of the Evidence Act (Cap. 97), the giving of evidence through a live video or live television link;\n(g)subject to any written law or rule of law restricting the disclosure, or relating to the confidentiality, of any document or information —\n(i)the disclosure of any document or information;\n(ii)whether any document or information should be treated as confidential; and\n(iii)whether any party to the proceedings may inspect any document.\n(2) The tribunal may, where it considers it necessary for the just, expeditious or economical disposal of any cause or matter —\n(a)order that a person specified by the tribunal be called as a witness;\n(b)give directions for —\n(i)the filing of a written report by the specified person; and\n(ii)the examination and cross‑examination of the specified person; and\n(c)determine —\n(i)the sum to be paid to the specified person for each day during which that person is required to be present before the tribunal judge;\n(ii)who is to pay that sum; and\n(iii)if the tribunal orders 2 or more persons to pay that sum, how that sum is to be apportioned between those persons."
+   }
+  },
+  {
+   "id": "SG-H763-A13.001",
+   "no": 13.001,
+   "noLabel": {
+    "en": "13A."
+   },
+   "chapter": {
+    "en": "PART 3A SUMMONS TO PERSONS"
+   },
+   "heading": {
+    "en": "Form and issue of summons"
+   },
+   "text": {
+    "en": "13A.—(1) A tribunal or the Registrar may, on the tribunal’s or the Registrar’s own initiative or at the request of any party to the proceedings before the tribunal, summon any person —\n(a)to attend before the tribunal at the time and place specified in the summons, including to give evidence at the hearing and produce documents in the person’s possession, custody or control;\n[S 579/2026 wef 01/09/2026]\n(b)without attending before the tribunal, to produce to the tribunal such documents in the person’s possession, custody or control as are specified in the summons; or\n[S 579/2026 wef 01/09/2026]\n(c)without attending before the tribunal, to provide to the tribunal such information in the person’s knowledge as is specified in the summons.\n[S 579/2026 wef 01/09/2026]\n[S 579/2026 wef 01/09/2026]\n(1A) A party who intends to make a request mentioned in paragraph (1) must do so by filing —\n(a)an application in the relevant Form; and\n(b)any supporting evidence to prove the matters stated in the application.\n[S 579/2026 wef 01/09/2026]\n(2) The fee specified in item 11 or 12 of the First Schedule is payable by the party requesting the summons on sealing a summons to a person under paragraph (1).\n[S 579/2026 wef 01/09/2026]\n(3) The tribunal may determine —\n(a)the sum (if any) to be paid to the person to whom the summons is directed for each day or part of a day during which the person is required to be present before the tribunal;\n(b)which party is to pay the sum mentioned in sub-paragraph (a); and\n(c)where 2 or more persons are to pay such sum, how that sum is to be apportioned between those persons.\n[S 199/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H763-A13.002",
+   "no": 13.002,
+   "noLabel": {
+    "en": "13B."
+   },
+   "chapter": {
+    "en": "PART 3A SUMMONS TO PERSONS"
+   },
+   "heading": {
+    "en": "Service of summons on person"
+   },
+   "text": {
+    "en": "13B.—(1) Every summons issued under rule 13A must be served on the person to whom it is directed.\n(2) A summons must not be served on any person outside Singapore.\n[S 579/2026 wef 01/09/2026]\n(3) The obligation on a person summoned under rule 13A to attend any case conference or hearing extends to any time and place to which the case conference or hearing (as the case may be) may be adjourned.\n[S 579/2026 wef 01/09/2026]\n(4) A tribunal or the Registrar may direct a party who served the summons to file a declaration of service in the relevant Form.\n[S 579/2026 wef 01/09/2026]\n[S 199/2022 wef 01/04/2022]\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A13.003",
+   "no": 13.003,
+   "noLabel": {
+    "en": "13C."
+   },
+   "chapter": {
+    "en": "PART 3B MANDATORY TREATMENT ORDERS"
+   },
+   "heading": {
+    "en": "Application for mandatory treatment order under section 12A(3)(b)"
+   },
+   "text": {
+    "en": "13C.—(1) An application for a mandatory treatment order under section 12A(3)(b) must be made by filing —\n(a)the relevant Form; and\n(b)any supporting evidence to prove the matters stated in the application.\n(2) The applicant must, within 7 days after the date on which the application and the supporting evidence are filed, serve the application and the supporting evidence on the respondent.\n(3) The applicant must file a declaration of service in the relevant Form within 3 days after the date on which the application and the supporting evidence are served on the respondent.\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A13.004",
+   "no": 13.004,
+   "noLabel": {
+    "en": "13D."
+   },
+   "chapter": {
+    "en": "PART 3B MANDATORY TREATMENT ORDERS"
+   },
+   "heading": {
+    "en": "Preliminary assessment report"
+   },
+   "text": {
+    "en": "13D. A preliminary assessment report that the tribunal calls for under section 12A(5)(a) may be disclosed to the applicant for the mandatory treatment order to which the report relates (if any) only if the applicant —\n(a)applies for permission to appeal against a decision of the tribunal not to call for a formal assessment report; and\n(b)gives an undertaking to pay damages in the event of improper use or disclosure of the report, as the tribunal may require.\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A13.005",
+   "no": 13.005,
+   "noLabel": {
+    "en": "13E."
+   },
+   "chapter": {
+    "en": "PART 3B MANDATORY TREATMENT ORDERS"
+   },
+   "heading": {
+    "en": "Formal assessment report"
+   },
+   "text": {
+    "en": "13E. A formal assessment report that the tribunal calls for under section 12A(8)(a) may be disclosed to the applicant for the mandatory treatment order to which the report relates (if any) only if the applicant —\n(a)applies for permission to appeal against the refusal of the tribunal to make the mandatory treatment order applied for; and\n(b)gives an undertaking to pay damages in the event of improper use or disclosure of the report, as the tribunal may require.\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A13.006",
+   "no": 13.006,
+   "noLabel": {
+    "en": "13F."
+   },
+   "chapter": {
+    "en": "PART 3B MANDATORY TREATMENT ORDERS"
+   },
+   "heading": {
+    "en": "Application for variation or revocation of mandatory treatment order under section 12A(23)"
+   },
+   "text": {
+    "en": "13F.—(1) The appointed psychiatrist on whose formal assessment report a mandatory treatment order is based may apply to vary or revoke the mandatory treatment order under section 12A(23) by filing the relevant Form and all the following supporting materials:\n(a)a copy of the mandatory treatment order which is the subject of the application;\n(b)a copy of the formal assessment report;\n(c)any supporting evidence to prove the matters stated in the application.\n(2) The appointed psychiatrist must, within 7 days after the date on which the application and the supporting materials are filed, serve the application and the supporting materials on the applicant for the mandatory treatment order (if any) and the respondent.\n(3) The applicant for the mandatory treatment order (if any) and the respondent may, within 14 days after being served with the application and the supporting materials, respond to the application to vary or revoke the mandatory treatment order by filing —\n(a)a reply in the relevant Form; and\n(b)any supporting evidence to prove the matters stated in the reply.\n(4) Where the tribunal varies or revokes a mandatory treatment order on the application of an appointed psychiatrist, the appointed psychiatrist must, within 7 days after the date on which the order to vary or revoke the mandatory treatment order is made, serve the order to vary or revoke the mandatory treatment order on the applicant for the mandatory treatment order (if any) and the respondent.\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A13.007",
+   "no": 13.007,
+   "noLabel": {
+    "en": "13G."
+   },
+   "chapter": {
+    "en": "PART 3B MANDATORY TREATMENT ORDERS"
+   },
+   "heading": {
+    "en": "Appeal relating to application for mandatory treatment order"
+   },
+   "text": {
+    "en": "13G.—(1) Without affecting rules 15 and 17 and subject to paragraphs (2) and (3), Order 2, Rule 10 or 12 of the Rules of Court 2021 (as the case may be) applies to an appeal in relation to the following decisions of the tribunal:\n(a)a decision of the tribunal to call or not to call for a formal assessment report;\n(b)a decision of the tribunal in relation to a mandatory treatment order or the refusal of such an order.\n(2) For the purposes of paragraph (1), the references to “all parties who have an interest in the appeal” in the provisions of the Rules of Court 2021 referred to in that paragraph are to be read to refer to the following persons, unless the tribunal otherwise directs:\n(a)the applicant for a mandatory treatment order, if any;\n(b)the respondent to the application for the mandatory treatment order;\n(c)the appointed psychiatrist in relation to the mandatory treatment order;\n(d)any other person on whom the application or notice of appeal is directed by the tribunal to be served.\n(3) Order 2, Rules 10(5) and 12(5), Order 18, Rule 19(2) and Order 19, Rule 15(2) of the Rules of Court 2021 do not apply to any appeal in relation to any of the decisions mentioned in paragraph (1).\n(4) Unless provided for in the Rules of Court 2021 or the tribunal otherwise directs, documents that are to be served must be served on the persons mentioned in paragraph (2) within 7 days after the date on which the document is filed.\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A13.008",
+   "no": 13.008,
+   "noLabel": {
+    "en": "13H."
+   },
+   "chapter": {
+    "en": "PART 3C SETTLEMENT AGREEMENTS"
+   },
+   "heading": {
+    "en": "Period within which settlement agreement must be registered"
+   },
+   "text": {
+    "en": "13H. For the purposes of section 31A(2)(a), a tribunal may refuse to register a settlement agreement as an order of the tribunal if the application to register the settlement agreement is not made within 4 weeks after the date on which the settlement agreement is signed by or on behalf of all parties to the settlement agreement.\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A13.009",
+   "no": 13.009,
+   "noLabel": {
+    "en": "13I."
+   },
+   "chapter": {
+    "en": "PART 3C SETTLEMENT AGREEMENTS"
+   },
+   "heading": {
+    "en": "Application for registration of settlement agreement under section 31A(1)"
+   },
+   "text": {
+    "en": "13I.—(1) Any party to a settlement agreement may, with the consent of all the other parties to the settlement agreement, apply to a tribunal to register the settlement agreement as an order of the tribunal by filing the relevant Form and all the following supporting materials:\n(a)a copy of the settlement agreement which is the subject of the application;\n(b)a memorandum reflecting the consent of all parties to the registration of the settlement agreement.\n(2) On the tribunal’s registration of a settlement agreement, the Registrar must serve on the party who made an application under paragraph (1) a notice of registration.\n(3) The party who made the application to register a settlement agreement must, on receiving the notice of registration under paragraph (2), immediately send a copy of that notice, together with a copy of the registered settlement agreement, to each of the other parties to the settlement agreement.\n(4) To avoid doubt, a tribunal or the Registrar may, on the tribunal’s or the Registrar’s own motion (as the case may be) or on the application of any party to a settlement agreement, set aside the registration of a settlement agreement or a particular term or terms of a settlement agreement as an order of the tribunal made under section 5, where there was a change in the circumstances or it is just and equitable to do so.\n(5) For the purposes of paragraph (4), the tribunal or the Registrar must consider the following:\n(a)if the settlement agreement is void or voidable because of incapacity, fraud, misrepresentation, duress, coercion, mistake or any other ground for invalidating a contract;\n(b)if the settlement agreement includes subject matter that does not relate to a dispute which may form the basis for a claim under section 4;\n(c)if the settlement agreement or any term of the settlement agreement is not capable of enforcement as an order of a tribunal;\n(d)if the registration of the settlement agreement or any term of the settlement agreement is contrary to public policy.\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A13.01",
+   "no": 13.01,
+   "noLabel": {
+    "en": "13J."
+   },
+   "chapter": {
+    "en": "PART 3D MEASURES FOR DEALING WITH UNMERITORIOUS OR VEXATIOUS PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Application for order under section 31B"
+   },
+   "text": {
+    "en": "13J.—(1) An application for an order under section 31B(1)(a), (b) or (c), (2) or (3) must be made by filing —\n(a)the relevant Form; and\n(b)any supporting evidence to prove the matters stated in the application.\n(2) The applicant must, within 7 days after the date on which the application and the supporting evidence are filed, serve the application and the supporting evidence on the respondent.\n(3) The applicant must file a declaration of service in the relevant Form within 3 days after the date on which the application and the supporting evidence are served on the respondent.\n(4) A respondent who intends to contest the application must, within 14 days after being served with the application and the supporting evidence, file and serve on the applicant —\n(a)a reply in the relevant Form; and\n(b)any supporting evidence to prove the matters stated in the reply.\n(5) Except with the permission of the tribunal, no other document or evidence may be filed or served for the purposes of the application.\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A13.011",
+   "no": 13.011,
+   "noLabel": {
+    "en": "13K."
+   },
+   "chapter": {
+    "en": "PART 3D MEASURES FOR DEALING WITH UNMERITORIOUS OR VEXATIOUS PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Application for permission to commence action or make application, or for permission to apply to amend, vary or discharge civil restraint order"
+   },
+   "text": {
+    "en": "13K.—(1) Where an extended civil restraint order or a general civil restraint order is in force against a party, an application by that party for permission of a tribunal to commence an action must be made by filing —\n(a)the relevant Form; and\n(b)any supporting evidence to prove the matters stated in the application.\n(2) Where any civil restraint order is in force against a party, an application by that party for permission of a tribunal to make an application (except in an application for permission made under paragraph (4)) must be made by filing —\n(a)the relevant Form; and\n(b)any supporting evidence to prove the matters stated in the application.\n(3) Before a tribunal grants permission to the applicant to commence an action or make an application (except in an application for permission made under paragraph (4)), the tribunal must give every intended respondent to the intended action or application a reasonable opportunity to be heard.\n(4) Where any civil restraint order is in force against a party, an application by that party for permission of a tribunal to apply to amend, vary or discharge the civil restraint order must be made by filing —\n(a)the relevant Form; and\n(b)any supporting evidence to prove the matters stated in the application.\n(5) Before a tribunal grants permission to the applicant to apply to amend, vary or discharge any civil restraint order, the tribunal must give every other party to the proceedings pursuant to which that civil restraint order was made (including the applicant of that civil restraint order, if any) a reasonable opportunity to be heard.\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A13.012",
+   "no": 13.012,
+   "noLabel": {
+    "en": "13L."
+   },
+   "chapter": {
+    "en": "PART 3D MEASURES FOR DEALING WITH UNMERITORIOUS OR VEXATIOUS PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Action commenced or application made without permission, etc."
+   },
+   "text": {
+    "en": "13L.—(1) Where a party, who is subject to an extended civil restraint order or a general civil restraint order, commences an action without the permission of a tribunal under section 31D(3)(a) or 31E(2)(a), as the case may be —\n(a)any other party to the action made without such permission, or to the proceedings pursuant to which that civil restraint order was made (including the applicant of the civil restraint order, if any), may inform the Registrar of this in writing; and\n(b)the Registrar may, on being informed of this under sub-paragraph (a), or on the Registrar’s own motion, record that the action is treated as struck out pursuant to section 31D(4) or 31E(3), as the case may be.\n(2) Where a party, who is subject to any civil restraint order, makes an application, or applies to amend, vary or discharge that civil restraint order, without the permission of a tribunal under section 31C(2)(a) or (b), 31D(3)(a) or (b) or 31E(2)(a) or (b), as the case may be —\n(a)any other party to the application made without such permission, or to the proceedings pursuant to which that civil restraint order was made (including the applicant of the civil restraint order, if any), may inform the Registrar of this in writing; and\n(b)the Registrar may, on being informed of this under sub-paragraph (a), or on the Registrar’s own motion, record that the action is treated as dismissed pursuant to section 31C(3), 31D(4) or 31E(3), as the case may be.\n(3) Where a party, who is subject to any order mentioned in section 31B(2) or (3), files any document in the proceedings in respect of which that order was made —\n(a)any other party to those proceedings pursuant to which that order was made (including the applicant of the order, if any), may apply for that document to be struck out; and\n(b)the tribunal may, on an application under sub-paragraph (a), or on the tribunal’s own motion, strike out that document.\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 4 SETTING ASIDE AND APPEALS TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Setting aside of judgment, etc., given in absence of party"
+   },
+   "text": {
+    "en": "14.—(1) A judgment, an order or a direction given or made by a tribunal or the Registrar in the absence of a party may be set aside by a party aggrieved by that judgment, order or direction.\n(2) An application under this rule to set aside a judgment, an order or a direction must be —\n(a)made in the relevant Form;\n(b)made —\n(i)to a tribunal, where the judgment, order or direction was given or made by a tribunal; and\n(ii)to the Registrar, where the judgment, order or direction was given or made by the Registrar;\n(c)supported by an affidavit in the relevant Form; and\n(d)filed within 14 days after the date of the judgment, order or direction, as the case may be, or within such longer period as the tribunal or Registrar may allow.\n(3) The applicant must, within 7 days after the date on which the application and supporting affidavit are filed, serve the application and supporting affidavit on the respondent.\n(4) A respondent who intends to contest the application must, within 14 days after being served with the application and supporting affidavit, file and serve on the applicant a reply in the relevant Form supported by an affidavit.\n(5) The tribunal or Registrar hearing the application —\n(a)may set aside the judgment, order or direction given or made, on such terms as the tribunal or Registrar thinks just; and\n(b)may proceed to hear the claim or make any other orders as the tribunal or Registrar thinks just.\n(6) Where any party does not appear at the hearing of the application, the tribunal or Registrar hearing the application may dismiss the application or make such orders as the tribunal or Registrar thinks fit."
+   }
+  },
+  {
+   "id": "SG-H763-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 4 SETTING ASIDE AND APPEALS TO TRIBUNAL"
+   },
+   "heading": {
+    "en": "Appeals from orders, etc., of Registrar"
+   },
+   "text": {
+    "en": "15.—(1) An appeal is to lie to a tribunal judge from any judgment, order or direction of the Registrar.\n(2) Divisions 1 and 2 of Order 18 of the Rules of Court 2021 apply to every such appeal with the following modifications:\n(a)any reference in that Order to a District Judge is to be construed as a reference to a tribunal judge;\n[S 199/2022 wef 01/04/2022]\n(b)the reference in Rule 15 of that Order to a notice of appeal in Form 35 is to be construed as a notice in the relevant Form.\n[S 199/2022 wef 01/04/2022]\n[S 199/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H763-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 5 APPEALS TO GENERAL DIVISION OF HIGH COURT"
+   },
+   "heading": {
+    "en": "Permission to appeal under section 26(2)"
+   },
+   "text": {
+    "en": "16.—(1) An application for permission under section 26(2) to appeal against a decision, a direction or an order of a tribunal must be made in the relevant Form.\n[S 199/2022 wef 01/04/2022]\n[S 579/2026 wef 01/09/2026]\n(2) The applicant (called in this rule and rule 17 the appellant) must file the application within 14 days after the date on which the decision, direction or order was given or made.\n(3) The appellant must, within 7 days after the date on which the application is filed, serve the application on the respondent.\n(4) A respondent who intends to contest the application must, within 14 days after being served with the application, file and serve on the applicant a reply in the relevant Form.\n(5) Where any party does not appear at the hearing of the application, the tribunal hearing the application may dismiss the application or make such orders as the tribunal thinks fit.\n[S 199/2022 wef 01/04/2022]\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 5 APPEALS TO GENERAL DIVISION OF HIGH COURT"
+   },
+   "heading": {
+    "en": "Appeals to General Division of High Court"
+   },
+   "text": {
+    "en": "17.—(1) An appellant who obtains permission to appeal from a tribunal must file and serve a notice of appeal in the relevant Form within 14 days after the date on which such permission is given.\n[S 199/2022 wef 01/04/2022]\n(2) An appeal to the General Division of the High Court from a tribunal is by way of rehearing.\n[S 1032/2020 wef 02/01/2021]\n(3) The appellant must, at the time of filing the notice of appeal, provide security for the respondent’s costs of the appeal in the sum of $2,000, or such other sum as may be fixed from time to time by the Chief Justice, by —\n(a)depositing the sum in the Registry or with the Accountant‑General and obtaining a certificate in the relevant Form; or\n(b)procuring an undertaking in the relevant Form from the appellant’s solicitor and filing a certificate in the relevant Form.\n(4) Subject to paragraph (5), Divisions 1 and 2 of Order 19 of the Rules of Court 2021 apply to every appeal from a tribunal to the General Division of the High Court with the following modifications:\n(a)any reference to the Court below is to be construed as a reference to the tribunal;\n(b)any reference to a Judge (other than a reference to a Judge sitting in the General Division of the High Court) is to be construed as a reference to the tribunal judge.\n[S 1032/2020 wef 02/01/2021]\n[S 1032/2020 wef 02/01/2021]\n[S 199/2022 wef 01/04/2022]\n(5) Order 19, Rules 14(1), 15 and 16(1) to (6) of the Rules of Court 2021 do not apply to any appeal from a tribunal to the General Division of the High Court.\n[S 1032/2020 wef 02/01/2021]\n[S 199/2022 wef 01/04/2022]\n[S 1032/2020 wef 02/01/2021]"
+   }
+  },
+  {
+   "id": "SG-H763-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 6 COSTS AND FEES"
+   },
+   "heading": {
+    "en": "Costs"
+   },
+   "text": {
+    "en": "18. For the purposes of section 25, costs may only be awarded in any of the following circumstances:\n(a)where the whole or any part of a claim is struck out or dismissed on the ground that the whole or part of the claim is frivolous or vexatious or is otherwise an abuse of the process of the Court;\n(b)where the tribunal or Registrar is of the view that it is just and equitable to do so.\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 6 COSTS AND FEES"
+   },
+   "heading": {
+    "en": "Court fees"
+   },
+   "text": {
+    "en": "19.—(1) The fees in the First Schedule are payable for proceedings in the Community Disputes Resolution Tribunals, in addition to the fees and percentages in Parts 1 and 3 of the Fourth Schedule to the Rules of Court 2021.\n[S 199/2022 wef 01/04/2022]\n(2) The scale of fees and percentages in Parts 1 and 3 of the Fourth Schedule to the Rules of Court 2021 which applies to any cause or matter in the Community Disputes Resolution Tribunals is the scale applicable to a District Court.\n[S 199/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H763-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 6 COSTS AND FEES"
+   },
+   "heading": {
+    "en": "Hearing fees"
+   },
+   "text": {
+    "en": "20.—(1) The fees in the Second Schedule are payable for any cause or matter for hearing before a tribunal judge.\n(2) The claimant or applicant, as the case may be, must pay the fees and file a Request in the relevant Form at the time the Registry so requires.\n[S 199/2022 wef 01/04/2022]\n(3) The Registrar may in any case waive or defer the payment of the whole or any part of the fees payable under this rule, with or without conditions.\n(4) Any party who is dissatisfied with a decision of the Registrar made under this rule may apply to a tribunal judge for a review of that decision.\n(5) An application under paragraph (4) must be made by summons supported by an affidavit, within 14 days of that decision.\n(6) Part 2 of the Fourth Schedule to the Rules of Court 2021 does not apply to any proceedings to which this rule applies.\n[S 199/2022 wef 01/04/2022]"
+   }
+  },
+  {
+   "id": "SG-H763-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "21.—(1) Any document that is to be served on any person in any proceedings before a tribunal or the Registrar must be served —\n(a)by delivering that document personally to that person;\n(b)by sending that document by registered post addressed to that person at —\n(i)that person’s last known residential address;\n(ii)that person’s registered address; or\n(iii)the address of that person’s principal place of business, as notified to ACRA; or\n(c)if that person is a party to those proceedings, and has been notified by the Registrar of that person’s right to access the electronic system to view any document served on that person in relation to those proceedings — as an alternative to serving that document in accordance with sub‑paragraph (a) or (b) — by submitting that document through the electronic system.\n(2) Despite paragraph (1), a tribunal or the Registrar may, in any particular case, order that a document be served on a person by any other means that the tribunal or Registrar considers proper.\n[S 50/2018 wef 01/02/2018]"
+   }
+  },
+  {
+   "id": "SG-H763-A21.001",
+   "no": 21.001,
+   "noLabel": {
+    "en": "21A."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Communication between Registrar and party"
+   },
+   "text": {
+    "en": "21A.—(1) The Registrar may communicate with any party —\n(a)through the electronic system;\n(b)by sending electronic mail to an electronic mail address designated by that party;\n(c)through any messaging system that is agreed between the Registrar and that party; or\n(d)by any other means that is agreed between the Registrar and that party.\n(2) Where any party agrees to communicate with the Registrar by a means of communication mentioned in paragraph (1), that party must monitor that means of communication for any communication from the Registrar to that party, until the conclusion of the proceedings involving that party.\n[S 50/2018 wef 01/02/2018]"
+   }
+  },
+  {
+   "id": "SG-H763-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Transfer of proceedings from tribunal to court under section 20"
+   },
+   "text": {
+    "en": "22.—(1) An application to an appropriate court under section 20(1) must be made by originating application.\n[S 199/2022 wef 01/04/2022]\n[S 579/2026 wef 01/09/2026]\n(2) Where an order is made by the General Division of the High Court for the transfer of any proceedings from a tribunal to the General Division of the High Court —\n(a)the Registrar of the State Courts must send to the Registrar of the Supreme Court the file of the proceedings, all documents and exhibits, and a certified copy of the notes of evidence (if any) of the proceedings; and\n(b)the Registrar of the Supreme Court must give notice of the transfer to every party to the proceedings.\n[S 1032/2020 wef 02/01/2021]\n(3) Where an order is made by a District Court or a Magistrate’s Court for the transfer of any proceedings from a tribunal to the District Court or Magistrate’s Court (as the case may be), the Registrar of the State Courts must give notice of the transfer to every party to the proceedings.\n[S 579/2026 wef 01/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H763-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Practice directions"
+   },
+   "text": {
+    "en": "23. The Registrar may issue a separate set of practice directions relating to proceedings to which these Rules apply."
+   }
+  },
+  {
+   "id": "SG-H763-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRule 19\nCourt fees\nNo.\nItem\nFee\nDocument to be stamped and remarks\n1.\nIn relation to commencing an action in respect of a tort under section 4 (whether by filing a claim under rule 5 or pursuant to an application by the Director‑General under section 17A(1))\n$150\nThe filed copy.\n2.\nIn relation to filing an application for a special direction under section 6(1) or an exclusion order under section 9(1) (whether by filing an application under rule 9 or 11 (as the case may be) or pursuant to an application by the Director‑General under section 17A(1))\n$100\nThe filed copy.\n3.\nIn relation to filing an application for an order for a person to enter into a bond under section 6(3) (whether by filing an application under rule 10 or pursuant to an application by the Director‑General under section 17A(1))\n$100\nThe filed copy.\n3A.\nOn filing an application under rule 5A for a Community Disputes Resolution Tribunal to hear and determine a possible claim or application\n$141\nThe filed copy.\n3B.\nOn filing an application for an order to address hoarding under section 11A(1)\n$168\nThe filed copy.\n3C.\nIn relation to filing an application for a mandatory treatment order under section 12A(3)(b) if —\n(a)the application is filed after the commencement of an action in respect of a tort under section 4 (whether by filing a claim under rule 5 or pursuant to an application by the Director‑General under section 17A(1)), but before a Community Disputes Resolution Tribunal has made any order under section 5 in respect of the action\n$10\nThe filed copy.\n(b)the application is filed after the commencement of an action in respect of a tort under section 4 (whether by filing a claim under rule 5 or pursuant to an application by the Director‑General under section 17A(1)), and after a Community Disputes Resolution Tribunal has made any order under section 5 in respect of the action\n$100\nThe filed copy.\n(c)the application is filed for the purpose of section 12A(1)(c) in relation to a settlement agreement registered under section 31A\n$100\nThe filed copy.\n4.\nOn filing a reply to —\n$20\nThe filed copy.\n(a)a claim for an action in respect of a tort under section 4 (whether under rule 5 or 5A)\n(b)an application for a special direction (whether under rule 5A or 9)\n(c)an application for an order for a person to enter into a bond (whether under rule 5A or 10)\n(d)an application for an exclusion order (whether under rule 5A or 11)\n(e)an application under rule 14 to set aside a judgment, an order or a direction given or made by a Community Disputes Resolution Tribunal or the Registrar\n(f)an application under rule 16 for permission to appeal against a decision, a direction or an order of a Community Disputes Resolution Tribunal\n5.\nOn filing an application under section 29(2) for a person, or under section 29(3) for an advocate and solicitor, to represent a party to proceedings before the Registrar or a Community Disputes Resolution Tribunal\n$10\nThe filed copy.\n5A.\nOn filing an application for the permission of a Community Disputes Resolution Tribunal under section 31C(2), 31D(3) or 31E(2)\n$100\nThe filed copy.\n6.\nOn entering or sealing a judgment or an order of the Registrar or a Community Disputes Resolution Tribunal\n$30\nOrder or Judgment.\n7.\nOn filing an application to set aside a judgment, an order or a direction of the Registrar or a Community Disputes Resolution Tribunal\n$100\nThe filed copy.\n8.\nOn filing a notice of appeal from the Registrar to a tribunal judge of the Community Disputes Resolution Tribunal\n$100\nThe Notice.\n9.\nOn filing an application for permission to appeal to the General Division of the High Court\n$100\nThe filed copy.\n10.\nOn filing a notice of appeal to the General Division of the High Court\n$600\nThe Notice.\n11.\nOn sealing a summons to a person\n$10\nSummons.\n12.\nOn sealing an urgent summons to a person (being a summons that is issued less than 3 days before the day on which the person is to attend before, or produce documents or provide information to, the Community Disputes Resolution Tribunal)\n$20\nSummons.\n[S 579/2026 wef 01/09/2026]\n[S 199/2022 wef 01/04/2022]\n[S 1032/2020 wef 02/01/2021]"
+   }
+  },
+  {
+   "id": "SG-H763-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRule 20\nHearing fees\nNo.\nDescription\nFee\nDocument to be stamped and remarks\n1.\nFor the whole or part of each of the second and third days\n$100\nRequest.\n2.\nFor the whole or part of each day after the third day\n$250\nRequest."
+   }
+  }
+ ]
+}

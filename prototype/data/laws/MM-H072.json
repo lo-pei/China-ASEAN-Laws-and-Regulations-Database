@@ -1,0 +1,52 @@
+{
+ "id": "MM-H072",
+ "title": {
+  "zh": "投资法_2016",
+  "en": "Myanmar Investment Law (Pyidaungsu Hluttaw Law No. 40/2016)",
+  "orig": null
+ },
+ "country": "MM",
+ "countryName": "缅甸",
+ "layer": "intl",
+ "pack": "mm-p04",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2016-10-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "缅甸官方发布渠道",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 998,
+ "source": {
+  "name": "缅甸官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "文本未能可靠切分为条文（或原件为目录式排版），按整篇收录，未作改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "MM-H072-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "# Myanmar Investment Law (Pyidaungsu Hluttaw Law No. 40/2016) > 本文件为自动采集的元数据头，随原始文件一同保存。\n> 原始文件未被改写；正文逐字照录于同目录下的原始文件。\n| 项目 | 内容 | | --- | --- | | 原文标题 | Myanmar Investment Law (Pyidaungsu Hluttaw Law No. 40/2016) | | 中文译名 | 投资法 | | 英文译名 | Myanmar Investment Law 2016 | | 法律领域 | 公司与投资 | | 颁布机构 | 缅甸联邦议会；商务部门户发布 | | 官方来源 URL | https://servicetrade.gov.mm/horizontal/law-detail/myanmar-investment-law | | 数据抓取实际 URL | https://servicetrade.gov.mm/horizontal/law-detail/myanmar-investment-law | | 颁布日期 | 2016-10-18 | | 生效日期 | 未核实（来源未标注） | | 修订日期 | 未核实（来源未标注） | | 版本 | 官方公布文本 | | 原文语种 | en | | 来源类型 | 官方（缅甸政府 .gov.mm 门户） | | 抓取日期 | 2026-10-03 | | 本地文件 | 缅甸_投资法_2016_en.html | | 文件格式 | html | | 文件大小(字节) | 105861 | | 页数 |  | | 字数 | 8090 | | SHA-256 | 8bd7b7ffdf42e17b6b7658ed438908fd55f184ab24313966afa76b9ebee39f9a | | HTTP 状态 | 200 | | HTTPS 证书校验 | verified | | 完整性/缺失范围 | 官方页面 HTML 全文（已保存 HTML 快照与 Markdown 转换，未改写） | | 备注 |  | | 采集说明 | 官方来源未提供可直接下载的 PDF；已保存网页 HTML 快照，并将全部可见文本机械转换为 Markdown（未改写、未摘要）。 |"
+   }
+  }
+ ]
+}

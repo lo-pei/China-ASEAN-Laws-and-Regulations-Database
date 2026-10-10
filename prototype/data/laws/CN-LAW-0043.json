@@ -1,0 +1,110 @@
+{
+ "id": "CN-LAW-0043",
+ "title": {
+  "zh": "全国人民代表大会常务委员会关于在沿海港口城市设立海事法院的决定",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p01",
+ "language": "zh",
+ "level": "law",
+ "category": "法律",
+ "status": "active",
+ "promulgatedDate": "1984-11-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "全国人民代表大会常务委员会",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ITEM",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 316,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\法律\\全国人民代表大会常务委员会关于在沿海港口城市设立海事法院的决定_19841114.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，一、至四、，共 4 条；来源为项目数据资源中的官方汇编文件（全国人民代表大会常务委员会关于在沿海港口城市设立海事法院的决定_19841114.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-LAW-0043-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "一、"
+   },
+   "text": {
+    "zh": "根据需要在沿海一定的港口城市设立海事法院。\n海事法院的设置或者变更、撤销，由最高人民法院决定。\n海事法院的审判机构和办事机构的设置，由最高人民法院规定。"
+   }
+  },
+  {
+   "id": "CN-LAW-0043-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "二、"
+   },
+   "text": {
+    "zh": "海事法院对所在地的市人民代表大会常务委员会负责。\n海事法院的审判工作受所在地的高级人民法院监督。"
+   }
+  },
+  {
+   "id": "CN-LAW-0043-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "三、"
+   },
+   "text": {
+    "zh": "海事法院管辖第一审海事案件和海商案件，不受理刑事案件和其他民事案件。\n各海事法院管辖区域的划分，由最高人民法院规定。\n对海事法院的判决和裁定的上诉案件由海事法院所在地的高级人民法院管辖。"
+   }
+  },
+  {
+   "id": "CN-LAW-0043-A4",
+   "no": 4,
+   "noLabel": {
+    "zh": "四、"
+   },
+   "text": {
+    "zh": "海事法院院长由所在地的市人民代表大会常务委员会主任提请本级人民代表大会常务委员会任免。\n海事法院副院长、庭长、副庭长、审判员和审判委员会委员，由海事法院院长提请所在地的市人民代表大会常务委员会任免。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "law",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "全国人民代表大会常务委员会关于在沿海港口城市设立海事法院的决定"
+  },
+  "issuingBody": {
+   "zh": "全国人民代表大会常务委员会"
+  },
+  "promulgatedDate": "1984-11-14",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "法律"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

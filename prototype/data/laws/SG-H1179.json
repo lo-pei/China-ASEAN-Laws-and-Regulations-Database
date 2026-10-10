@@ -1,0 +1,68 @@
+{
+ "id": "SG-H1179",
+ "title": {
+  "zh": null,
+  "en": "Diplomatic and Consular Relations (Powers of Consular Officers) Order 2005",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p15",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation DCRA2005-OR1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 378,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/DCRA2005-OR1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 2 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1179-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. This Order is the Diplomatic and Consular Relations (Powers of Consular Officers) Order 2005."
+   }
+  },
+  {
+   "id": "SG-H1179-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Application of section 5 of Act"
+   },
+   "text": {
+    "en": "2. Section 5 of the Act applies to the following States:\n(a)the Kingdom of Norway;\n(b)the Kingdom of Sweden;\n(c)the United States of America;\n(d)the Hellenic Republic;\n(e)the French Republic;\n(f)the United Mexican States;\n(g)the Federal Republic of Germany;\n(h)the Italian Republic."
+   }
+  }
+ ]
+}

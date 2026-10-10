@@ -1,0 +1,74 @@
+{
+ "id": "PH-H2740",
+ "title": {
+  "zh": null,
+  "en": "An Act Increasing the Paid-Up Capital of the National Government in the Development Bank of the Philippines",
+  "orig": "An Act Increasing the Paid-Up Capital of the National Government in the Development Bank of the Philippines"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p38",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1961-06-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 3136",
+ "officialCode": null,
+ "topics": [
+  "tax"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1998,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1961/ra_3136_1961.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1961/ra_3136_1961.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H2740-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The obligations of the Development Bank of the Philippines with the National Government consisting of a loan, with an outstanding balance of one million three hundred fifty thousand pesos, (₱1,350,000) granted to the Agricultural and Industrial Bank pursuant to Executive Order Numbered Ninety-two promulgated on February twelve, nineteen hundred and forty-six, and another loan, with an outstanding balance of thirty-two million nine hundred thirty-nine thousand eight hundred thirty-eight pesos (₱32,939,838) granted to the Rehabilitation Finance Corporation pursuant to Republic Act Numbered Two hundred sixty-six, in relation to Section One hundred thirty-seven of Republic Act Numbered Two hundred sixty-five, or in the total amount of thirty-four million two hundred eighty-nine thousand eight hundred thirty-eight pesos (₱34,289,838) are hereby converted into paid-up capital of the Development Bank of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H2740-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "All indebtedness of the Development Bank of the Philippines represented by bonds issued by said Bank or by the Rehabilitation Finance Corporation held by government agencies or instrumentalities, including corporations owned or controlled by the Government, are hereby assumed by the national government and the President of the Philippines, upon recommendation of the Secretary of Finance, is hereby authorized to issue bonds under the same terms and conditions, in the name and on behalf of the Republic of the Philippines to replace them: Provided, However, That the face value of such replaced bonds shall be credited to the subscription of the government to the capital stock of said Bank: Provided, further, That bonds held by private persons may also be replaced by government bonds if the holders thereof are willing to accept such replacement, in which case the face value of bonds so replaced shall likewise be credited to the subscription of the government to the capital stock of said Bank."
+   }
+  },
+  {
+   "id": "PH-H2740-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961."
+   }
+  }
+ ]
+}

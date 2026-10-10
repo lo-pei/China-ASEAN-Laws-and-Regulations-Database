@@ -1,0 +1,341 @@
+{
+ "id": "TL-H081",
+ "title": {
+  "zh": "Inquéritos Parlamentares法律制度",
+  "en": null,
+  "orig": "Regime Jurídico dos Inquéritos Parlamentares"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2009-07-15",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 4/2009",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 23,
+ "chars": 18142,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2009/serie_1/serie1_no25.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 23 条；逐字取自官方公报 PDF（public/docs/2009/serie_1/serie1_no25.pdf）第 3276–3281 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H081-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Funções e objecto"
+   },
+   "text": {
+    "pt": "1 - Os inquéritos parlamentares têm por função vigiar pelo cumprimento da Constituição e das leis e apreciar os actos do Governo e da Administração Pública.\n2 - Os inquéritos parlamentares podem ter por objecto qualquer matéria de interesse público relevante para o exercício das atribuições do Parlamento Nacional.\n3 - Os inquéritos parlamentares são realizados através de comissões eventuais do Parlamento Nacional especialmente constituídas para cada caso, nos termos do seu Regimento."
+   }
+  },
+  {
+   "id": "TL-H081-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Iniciativa"
+   },
+   "text": {
+    "pt": "1 -  Os inquéritos parlamentares são efectuados:\na)    Mediante deliberação expressa do Plenário;\nb)   A requerimento de um terço dos deputados em efectividade de funções até ao limite de um por deputado e por sessão legislativa.\n2 -  A iniciativa dos inquéritos previstos na alínea a) do n.º 1 compete:\na)  Às bancadas parlamentares e Deputados de partidos não constituídos em bancada parlamentar;\nb)  Às comissões;\nc)  Aos Deputados.\n3 - A iniciativa deve ser aprovada por maioria absoluta dos Deputados em efectividade de funções."
+   }
+  },
+  {
+   "id": "TL-H081-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "heading": {
+    "pt": "Requisitos formais"
+   },
+   "text": {
+    "pt": "1 - Os projectos de resolução tendentes à realização de um inquérito indicam o seu objecto e os seus fundamentos, sob pena de rejeição liminar pelo Presidente do Parlamento Nacional.\n2 - Da não admissão de um projecto de resolução apresentado nos termos da presente lei cabe sempre recurso para o Plenário, nos termos do Regimento."
+   }
+  },
+  {
+   "id": "TL-H081-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "heading": {
+    "pt": "Constituição obrigatória da comissão de inquérito"
+   },
+   "text": {
+    "pt": "1 - As comissões parlamentares de inquérito requeridas ao abrigo da alínea b) do n.º 1 do artigo 2.º são obrigatoriamente constituídas.\n2 -   O referido requerimento, dirigido ao Presidente do Parlamento Nacional, deve indicar o seu objecto e fundamentos.\n3 -  O Presidente do Parlamento Nacional verifica a existência formal das condições previstas no número anterior e o número e identidade dos deputados subscritores, notificando de imediato o primeiro subscritor para suprir a falta ou faltas correspondentes, caso se verifique alguma omissão ou erro no cumprimento destas formalidades ou caso a indicação do objecto e fundamentos do requerimento infrinja a Constituição ou os princípios nela consignados.\n4 -   Recebido o requerimento ou verificado o suprimento referido no número anterior, o Presidente toma as providências necessárias, nos termos do artigo 6.º, para definir a composição da comissão de inquérito até ao oitavo dia posterior ao da recepção do requerimento.\n5 -  Dentro do prazo referido no número anterior, o Presidente do Parlamento Nacional, ouvida a Conferência dos Representantes das Bancadas Parlamentares, agenda um debate sobre a matéria do inquérito, desde que solicitado pelos requerentes da constituição da comissão ou por uma bancada parlamentar."
+   }
+  },
+  {
+   "id": "TL-H081-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "heading": {
+    "pt": "Informação ao Procurador-Geral da República"
+   },
+   "text": {
+    "pt": "1 - O Presidente do Parlamento Nacional comunica ao Procurador-Geral da República o conteúdo da resolução que determine a realização de um inquérito.\n2 - O Procurador-Geral da República informa o Parlamento Nacional se com base nos mesmos factos se encontra em curso algum processo criminal, e em que fase, sobre a matéria objecto da iniciativa.\n3 - Caso exista processo criminal em curso, o Parlamento Nacional suspende o processo de inquérito parlamentar até ao trânsito em julgado da correspondente decisão judicial."
+   }
+  },
+  {
+   "id": "TL-H081-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "heading": {
+    "pt": "Composição e funcionamento da comissão"
+   },
+   "text": {
+    "pt": "1 -  Compete ao Presidente do Parlamento Nacional, ouvida a Conferência dos Representantes das Bancadas Parlamentares, fixar o número de membros da comissão, observado o princípio previsto no número seguinte, dar-lhes posse e determinar o prazo da realização do inquérito.\n2 -    A fixação do número de membros da comissão deve respeitar o princípio da proporcionalidade dos Deputados que compõem as bancadas parlamentares.\n3 - Os membros da comissão são Deputados efectivos ou suplentes da comissão, não havendo lugar à sua substituição fora dos casos previstos na presente lei.\n4 -   Os membros da comissão tomam posse perante o Presidente do Parlamento Nacional até ao décimo quinto dia posterior ao da deliberação aprovada pelo Plenário.\n5 -   É condição para a tomada de posse de membro da comissão, incluindo membros suplentes, a declaração formal de inexistência de conflito de interesses em relação ao objecto do inquérito.\n6 -  A comissão inicia os seus trabalhos imediatamente após a posse conferida pelo Presidente do Parlamento Nacional, logo que preenchida uma das seguintes condições:\na)    Estar indicada mais de metade dos membros da comissão, representando no mínimo duas bancadas parlamentares, uma dos quais deve ser obrigatoriamente de partido sem representação no Governo;\nb)   Não estar indicada a maioria do número de Deputados da comissão, desde que apenas falte a indicação dos Deputados pertencentes a uma bancada parlamentar.\n7 -  Nas comissões parlamentares de inquérito requeridas ao abrigo da alínea b) do n.º 1 do artigo 2.º, o presidente da comissão é obrigatoriamente designado de entre os representantes na comissão das bancadas parlamentares a que pertençam os requerentes do inquérito."
+   }
+  },
+  {
+   "id": "TL-H081-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "heading": {
+    "pt": "Publicação"
+   },
+   "text": {
+    "pt": "A resolução e a parte dispositiva do requerimento previsto na alínea b) do n.º 1 do artigo 2.º que determinarem a realização de um inquérito são publicadas no Jornal da República."
+   }
+  },
+  {
+   "id": "TL-H081-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "heading": {
+    "pt": "Objecto das comissões de inquérito"
+   },
+   "text": {
+    "pt": "1 -   Os inquéritos parlamentares apenas podem ter por objecto actos do Governo ou da Administração ocorridos em legislaturas anteriores à que estiver em curso quando se reportarem a matérias ainda em apreciação, factos novos ou factos de conhecimento superveniente.\n2 -   Durante o período de cada sessão legislativa não é permitida a constituição de novas comissões de inquérito que tenham o mesmo objecto que dera lugar à constituição de outra comissão que esteja em exercício de funções ou que as tenha terminado no período referido, salvo se surgirem factos novos.\n3 - Nas comissões parlamentares de inquérito requeridas ao abrigo da alínea b) do n.º 1 do artigo 2.º, o objecto definido pelos requerentes não é susceptível de alteração por deliberação da comissão.\n4 -  A comissão pode orientar-se por um questionário indicativo formulado inicialmente."
+   }
+  },
+  {
+   "id": "TL-H081-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "heading": {
+    "pt": "Reuniões das comissões"
+   },
+   "text": {
+    "pt": "1 -  As reuniões das comissões podem ter lugar em qualquer dia da semana e durante as férias, sem dependência de autorização prévia do Plenário.\n2 - O presidente da comissão dá conhecimento prévio ao Presidente do Parlamento, com sete dias de antecedência, para que tome as providências necessárias à realização das reuniões previstas no número anterior."
+   }
+  },
+  {
+   "id": "TL-H081-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "heading": {
+    "pt": "Designação de relatores e constituição de grupo de trabalho"
+   },
+   "text": {
+    "pt": "1 -  As comissões de inquérito devem designar relator numa das duas primeiras reuniões e podem deliberar sobre a criação de um grupo de trabalho constituído por Deputados representantes de todas as bancadas parlamentares, com vista à eficiência da comissão e eficácia do inquérito.\n2 - O relator é um dos referidos representantes.\n3 -   O grupo de trabalho é presidido pelo presidente da comissão ou por quem este designar.\n4 -  O trabalho produzido pelo referido grupo é instrumental e acessório do trabalho da comissão."
+   }
+  },
+  {
+   "id": "TL-H081-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "heading": {
+    "pt": "Duração do inquérito"
+   },
+   "text": {
+    "pt": "1 - O prazo máximo para a realização de um inquérito é de sessenta dias, findos os quais a comissão se extingue, sem prejuízo do disposto nos números seguintes.\n2 - A requerimento fundamentado da comissão, o Plenário pode conceder ainda um prazo adicional de trinta dias.\n3 - Nas comissões parlamentares de inquérito requeridas ao abrigo da alínea b) do n.º 1 do artigo 2.º, o prazo adicional referido no número anterior é de concessão obrigatória, desde que requerido pelos Deputados das bancadas parlamentares a que pertençam os requerentes da constituição da comissão.\n4 - Quando a comissão não tiver aprovado um relatório conclusivo das investigações efectuadas, o presidente da comissão envia ao Presidente do Parlamento Nacional uma informação relatando as diligências realizadas e as razões da inconclusividade dos trabalhos."
+   }
+  },
+  {
+   "id": "TL-H081-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "heading": {
+    "pt": "Deputados membros da comissão de inquérito"
+   },
+   "text": {
+    "pt": "1 -  Os Deputados membros da comissão de inquérito só podem ser substituídos em virtude de perda ou suspensão do mandato ou em caso de escusa justificada.\n2 - As faltas dos membros da comissão às reuniões são obrigatoriamente comunicadas pelo presidente da comissão de inquérito ao Presidente do Parlamento Nacional, com a informação de terem sido ou não justificadas.\n3 - O Presidente do Parlamento Nacional anuncia no Plenário seguinte as faltas injustificadas.\n4 - O Deputado que violar o dever de sigilo em relação aos trabalhos da comissão de inquérito ou faltar sem justificação a mais de cinco reuniões perde a qualidade de membro da comissão.\n5 -  No caso de perda da qualidade de membro da comissão nos termos previstos no número anterior, a respectiva bancada parlamentar comunica o membro substituto ao Presidente do Parlamento Nacional, que, após ouvida a Conferência dos Representantes das Bancadas Parlamentares, lhe dá posse no prazo de quarenta e oito horas.\n6 -   No caso de haver violação de sigilo, a comissão de inquérito deve promover uma investigação sumária e deliberar, por maioria qualificada de dois terços, sobre a sua verificação e a identidade do seu autor.\n7 - O Presidente do Parlamento Nacional deve ser informado do conteúdo da deliberação prevista no número anterior, quando dela resulte o reconhecimento da existência da respectiva violação e a identidade do seu autor, para declarar a perda, por parte deste, da qualidade de membro da respectiva comissão e dar conta desta sua decisão ao Plenário."
+   }
+  },
+  {
+   "id": "TL-H081-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "heading": {
+    "pt": "Poderes das comissões de inquérito"
+   },
+   "text": {
+    "pt": "1 - As comissões parlamentares de inquérito gozam dos poderes de investigação das autoridades judiciais que a estas não estejam constitucionalmente reservados.\n2 - As comissões têm direito à coadjuvação das autoridades judiciárias, dos órgãos da polícia criminal e das autoridades administrativas, nos mesmos termos que os tribunais.\n3 - As comissões podem, a requerimento fundamentado dos seus membros, solicitar por escrito ao Governo, às autoridades judiciárias, aos órgãos da Administração Pública ou a entidades privadas as informações e documentos que julguem úteis à realização do inquérito.\n4 - Nas comissões parlamentares de inquérito requeridas ao abrigo da alínea b) do n.º 1 do artigo 2.º, as diligências instrutórias referidas no número anterior que sejam consideradas indispensáveis à boa realização do inquérito pelos Deputados que as proponham são de realização obrigatória, não estando a sua efectivação sujeita a deliberação da comissão.\n5 - A prestação das informações e dos documentos referidos no n.º 3 tem prioridade sobre quaisquer outros serviços e deve ser satisfeita no prazo de dez dias, sob pena de o seu autor incorrer na prática do crime referido no artigo 19.º, salvo justificação ponderosa dos requeridos que aconselhe a comissão a prorrogar aquele prazo ou a cancelar a diligência.\n6 - O pedido referido no n.º 3 deve indicar a presente lei e transcrever o n.º 5 deste artigo e o n.º 1 do artigo 19.º.\n7 - No decorrer do inquérito, a recusa de apresentação de documentos ou de prestação de depoimento só se terá por justificada nos termos da lei processual penal."
+   }
+  },
+  {
+   "id": "TL-H081-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "heading": {
+    "pt": "Local de funcionamento e modo de actuação"
+   },
+   "text": {
+    "pt": "1 - As comissões parlamentares de inquérito funcionam na sede do Parlamento Nacional, podendo, contudo, funcionar ou efectuar diligências, sempre que necessário, em qualquer ponto do território nacional.\n2 - As reuniões, diligências e inquirições realizadas são sempre gravadas, salvo se, por motivo fundado, a comissão deliberar noutro sentido.\n3 - Quando não se verifique a gravação prevista no número anterior, as diligências realizadas e os depoimentos ou declarações obtidos constam de acta especialmente elaborada para traduzir, pormenorizadamente, aquelas diligências e ser-lhe-ão anexos os depoimentos e declarações referidos, depois de assinados pelos seus autores."
+   }
+  },
+  {
+   "id": "TL-H081-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "heading": {
+    "pt": "Publicidade dos trabalhos"
+   },
+   "text": {
+    "pt": "1 - As reuniões e diligências efectuadas pelas comissões parlamentares de inquérito em regra não são públicas, salvo se a comissão, em deliberação  devidamente fundamentada, assim o não entender.\n2 – As reuniões das comissões parlamentares de inquérito nunca são públicas quando:\na)   As reuniões e diligências tiverem por objecto matéria sujeita a segredo de Estado, a segredo de justiça ou a sigilo por razões de reserva da intimidade das pessoas;\nb) Os depoentes se opuserem à publicidade da reunião, com fundamento na salvaguarda de direitos fundamentais;\nc)     As reuniões e diligências colocarem em perigo o segredo das fontes de informação, salvo autorização dos interessados.\n3 -   As actas das comissões de inquérito, assim como todos os documentos na sua posse, podem ser consultados após a aprovação do relatório final, desde que autorizado pela Mesa do Parlamento Nacional.\n4 - A transcrição dos depoimentos prestados perante as comissões de inquérito em reuniões não públicas só pode ser consultada ou publicada com autorização dos seus autores."
+   }
+  },
+  {
+   "id": "TL-H081-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "heading": {
+    "pt": "Convocação de pessoas e contratação de peritos"
+   },
+   "text": {
+    "pt": "1 -   As comissões parlamentares de inquérito podem convocar qualquer cidadão para depor sobre factos relativos ao inquérito.\n2 -   Gozam da prerrogativa de depor por escrito, se o preferirem, o Presidente da República, os ex-Presidentes da República, o Presidente do Parlamento Nacional, os ex-Presidentes do Parlamento Nacional, o Primeiro-Ministro e os ex-Primeiros- Ministros, que remetem à comissão, no prazo de dez dias a contar da data da notificação dos factos sobre que deve recair o depoimento, declaração, sob compromisso de honra, relatando o que sabem sobre os factos indicados.\n3 - Nas comissões parlamentares de inquérito requeridas ao abrigo da alínea b) do n.º 1 do artigo 2.º, as diligências instrutórias referidas nos números anteriores que sejam consideradas indispensáveis ao inquérito pelos deputados que as proponham são de realização obrigatória até ao limite máximo de quinze depoimentos requeridos pelos deputados das bancadas parlamentares minoritárias no seu conjunto, em função da sua representatividade ou por acordo entre eles, e até ao limite máximo de oito depoimentos requeridos pelos deputados da bancada parlamentar maioritária no seu conjunto, ficando os demais depoimentos sujeitos a deliberação da comissão.\n4 -   As convocações são assinadas pelo presidente da comissão ou, a solicitação deste, pelo Presidente do Parlamento Nacional e devem conter as indicações seguintes, sem prejuízo do disposto no n.º 2:\na)   O objecto do inquérito;\nb)   O local, o dia e a hora do depoimento;\nc)    As sanções aplicáveis ao crime previsto no artigo 19.º da presente lei.\n5 -   A convocação é feita para qualquer ponto do território, sob qualquer das formas previstas no Código de Processo Penal, devendo, no caso de funcionários e agentes do Estado ou de outras entidades públicas, ser efectuada através do respectivo superior hierárquico.\n6 - As diligências previstas no n.º 1 podem ser requeridas até sete dias antes do termo do prazo fixado para a apresentação do relatório.\n7 - As comissões podem requisitar e contratar especialistas para as coadjuvar nos seus trabalhos mediante autorização prévia do Presidente da Parlamento Nacional."
+   }
+  },
+  {
+   "id": "TL-H081-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "heading": {
+    "pt": "Depoimentos"
+   },
+   "text": {
+    "pt": "1 - A falta de comparência ou a recusa de depoimento perante a comissão parlamentar de inquérito só se tem por justificada nos termos gerais da lei processual penal.\n2 - A obrigação de comparecer perante a comissão tem precedência sobre qualquer acto ou diligência oficial.\n3 - Não é admitida, em caso algum, a recusa de comparência de funcionários, de agentes do Estado e de outras entidades públicas, podendo, contudo, estes requerer a alteração da data da convocação, por imperiosa necessidade de serviço, contanto que assim não fique frustrada a realização do inquérito.\n4 -   A forma dos depoimentos rege-se pelas normas aplicáveis do Código de Processo Penal sobre prova testemunhal."
+   }
+  },
+  {
+   "id": "TL-H081-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "heading": {
+    "pt": "Encargos"
+   },
+   "text": {
+    "pt": "1 -   Ninguém pode ser prejudicado no seu trabalho ou emprego por virtude da obrigação de depor perante comissão parlamentar de inquérito, considerando-se justificadas todas as faltas de comparência resultantes do respectivo cumprimento.\n2 - As despesas de deslocação, bem como a eventual indemnização que, a pedido do convocado, for fixada pelo presidente da comissão, são pagas por conta do orçamento do Parlamento Nacional."
+   }
+  },
+  {
+   "id": "TL-H081-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "heading": {
+    "pt": "Desobediência qualificada"
+   },
+   "text": {
+    "pt": "1 - Fora dos casos previstos no artigo 17.º, a falta de comparência, a recusa de depoimento e o não cumprimento de ordens legítimas de uma comissão parlamentar de inquérito no exercício das suas funções constituem crime de desobediência qualificada, nos termos da lei penal.\n2 - Verificado qualquer dos factos previstos no número anterior, o presidente da comissão, ouvida esta, comunicá-lo-á ao Presidente do Parlamento Nacional, com os elementos indispensáveis à instrução do processo, para efeito de participação à Procuradoria-Geral da República."
+   }
+  },
+  {
+   "id": "TL-H081-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "heading": {
+    "pt": "Relatório"
+   },
+   "text": {
+    "pt": "1 -  O relatório final refere, obrigatoriamente:\na)  O questionário, se o houver;\nb)  As diligências efectuadas pela comissão;\nc)  As conclusões do inquérito e os respectivos fundamentos;\nd)    O sentido de voto de cada membro da comissão, assim como as declarações de voto escritas.\n2 - A comissão pode propor ao Plenário ou à Comissão Permanente a elaboração de relatórios separados, se entender que o objecto do inquérito é susceptível de investigação parcelar, devendo os respectivos relatórios ser tidos em consideração no relatório final."
+   }
+  },
+  {
+   "id": "TL-H081-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "heading": {
+    "pt": "Debate e resolução"
+   },
+   "text": {
+    "pt": "1 - Até trinta dias após a apresentação do relatório e das declarações de voto, o Presidente do Parlamento Nacional inclui a sua apreciação na ordem do dia.\n2 - Juntamente com o relatório, a comissão parlamentar de inquérito pode apresentar um projecto de resolução.\n3 -  Apresentado ao Plenário o relatório, é aberto um debate.\n4 - O debate é introduzido por uma breve exposição do presidente da comissão e do relator designado e obedece a uma grelha de tempos de uso da palavra própria fixada pelo Presidente do Parlamento Nacional, ouvida a Conferência dos Representantes das Bancadas Parlamentares.\n5 - Sem prejuízo dos tempos globais de discussão, cada bancada parlamentar dispõe de três minutos para a apresentação das suas declarações de voto.\n6 - O Plenário pode deliberar sobre a publicação integral ou parcial das actas da comissão, observado o disposto no\nartigo 15.º 7 -  Juntamente com o relatório, o Plenário aprecia os projectos de resolução que lhe sejam apresentados.\n8 - O relatório não é objecto de votação no Plenário."
+   }
+  },
+  {
+   "id": "TL-H081-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "heading": {
+    "pt": "Revogação"
+   },
+   "text": {
+    "pt": "São expressamente revogados os artigos 148º, 149º e 150º do Regimento do Parlamento Nacional, publicado no Jornal da República, Série I, n.o 2, 1º Suplemento, de 11 de Junho de 2003."
+   }
+  },
+  {
+   "id": "TL-H081-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "A presente lei entra em vigor no dia seguinte ao da sua publicação."
+   }
+  }
+ ]
+}

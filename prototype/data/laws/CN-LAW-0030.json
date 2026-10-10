@@ -1,0 +1,77 @@
+{
+ "id": "CN-LAW-0030",
+ "title": {
+  "zh": "全国人民代表大会常务委员会关于对中华人民共和国缔结或者参加的国际条约所规定的罪行行使刑事管辖权的决定",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p01",
+ "language": "zh",
+ "level": "law",
+ "category": "法律",
+ "status": "active",
+ "promulgatedDate": "1987-06-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 149,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\法律\\全国人民代表大会常务委员会关于对中华人民共和国缔结或者参加的国际条约所规定的罪行行使刑事管辖权的决定_19870623.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，整篇作为一条录入，共 1 条；来源为项目数据资源中的官方汇编文件（全国人民代表大会常务委员会关于对中华人民共和国缔结或者参加的国际条约所规定的罪行行使刑事管辖权的决定_19870623.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-LAW-0030-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "全文"
+   },
+   "text": {
+    "zh": "全国人民代表大会常务委员会关于对中华人民\n共和国缔结或者参加的国际条约所规定的罪行\n行使刑事管辖权的决定\n（1987年6月23日通过）\n第六届全国人民代表大会常务委员会第二十一次会议决定：对于中华人民共和国缔结或者参加的国际条约所规定的罪行，中华人民共和国在所承担条约义务的范围内，行使刑事管辖权。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "law",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "全国人民代表大会常务委员会关于对中华人民共和国缔结或者参加的国际条约所规定的罪行行使刑事管辖权的决定"
+  },
+  "promulgatedDate": "1987-06-23",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "法律"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

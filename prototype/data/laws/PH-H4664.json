@@ -1,0 +1,65 @@
+{
+ "id": "PH-H4664",
+ "title": {
+  "zh": null,
+  "en": "An Act Granting the Governing Boards of All State Colleges and Universities Authority to Fix the Salaries and Compensation of Their Faculty and Employees",
+  "orig": "An Act Granting the Governing Boards of All State Colleges and Universities Authority to Fix the Salaries and Compensation of Their Faculty and Employees"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p66",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1969-08-04",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6071",
+ "officialCode": null,
+ "topics": [
+  "labor",
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 460,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1969/ra_6071_1969.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1969/ra_6071_1969.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4664-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The governing boards of all state colleges and universities are hereby authorized to fix the salaries and compensation of their faculties and administrative officers and employees, all laws and executive orders to the contrary notwithstanding: Provided, That such salaries and compensation shall be comparable with those of similar educational institutions of like enrollment and standing."
+   }
+  },
+  {
+   "id": "PH-H4664-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, August 4, 1969."
+   }
+  }
+ ]
+}

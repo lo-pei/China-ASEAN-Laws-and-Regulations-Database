@@ -1,0 +1,1274 @@
+{
+ "id": "TL-H267",
+ "title": {
+  "zh": "动产担保法律制度",
+  "en": null,
+  "orig": "Regime jurídico das garantias mobiliárias"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p05",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2025-07-30",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 6/2025",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 77,
+ "chars": 57235,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2025/serie_1/SERIE_I_NO_31_B.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 77 条；逐字取自官方公报 PDF（public/docs/2025/serie_1/SERIE_I_NO_31_B.pdf）第 1–17 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H267-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Objeto"
+   },
+   "text": {
+    "pt": "1.    A presente lei estabelece o regime jurídico da utilização de bens móveis, como garantia do cumprimento de obrigações, estabelecendo a eficácia, a prioridade e a execução de direitos de garantia sobre bens móveis.\n2.  Pela presente lei é ainda criada a Central de Registo de Informações sobre Garantias Mobiliárias."
+   }
+  },
+  {
+   "id": "TL-H267-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Âmbito de aplicação"
+   },
+   "text": {
+    "pt": "1.   A presente lei aplica-se aos direitos de garantia sobre bens móveis, corpóreos ou incorpóreos, constituídos para assegurar o cumprimento de obrigações, regulando a sua eficácia, prioridade e execução, desde que:\na) O bem móvel corpóreo se situe em território nacional no momento da constituição do direito de garantia; ou\nb) O bem móvel incorpóreo tenha como garante uma pessoa domiciliada em Timor-Leste no momento da constituição do direito de garantia.\n2.   A presente lei aplica-se ainda, exclusivamente para efeitos de registo na Central de Registo de Informações sobre Garantias Mobiliárias, aos direitos de garantia constituídos por lei ou decisão judicial, quando tal registo seja determinado.\n3.   Com exceção dos artigos 59.º a 70.º, a presente lei aplica-se ainda às cessões convencionais definitivas de créditos a receber sem função de garantia.\n4.   Ficam excluídos do âmbito da presente lei os direitos de garantia que tenham por objeto:\na) Bens de consumo, salvo quando onerados por garantia de aquisição financiada;\nb) Participações sociais, nos termos do artigo 41.º da Nova Lei das Sociedades Comerciais."
+   }
+  },
+  {
+   "id": "TL-H267-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Definições"
+   },
+   "text": {
+    "pt": "1.  Para efeitos da presente lei, entende-se por:\na) “Acordo de garantia”, o acordo, independentemente de as partes assim o designarem ou não, concluído entre o garante e o credor garantido através do qual se constitui um direito de garantia, incluindo a cessão convencional definitiva sem função de garantia de créditos a receber;\nb) “Bens de consumo”, quaisquer bens utilizados ou destinados a ser utilizados exclusivamente para fins pessoais, familiares ou domésticos;\nc) “Bens derivados do bem objeto da garantia”, quaisquer bens que tenham a sua origem:\n(i)    No bem objeto de um direito de garantia, incluindo o que for recebido em resultado de uma venda ou alienação por outra via, locação, licença, substituição ou execução do objeto da garantia, frutos civis e naturais, créditos de seguros, valores pagos a título de indemnização por dano, perda, prejuízo ou lucro cessante causados ao objeto da garantia; (ii)  Em e bens que, por sua vez, tenham a sua origem nos bens derivados referidos na subalínea anterior (bens derivados de bens derivados);\nd) “Bem móvel incorpóreo”, qualquer bem móvel insuscetível de ser apreendido pelos sentidos, designadamente direitos e outras posições jurídicas e criações objeto de propriedade intelectual;\ne) “Bem móvel”, a coisa móvel, nos termos do artigo 196.º do Código Civil, incluindo todavia:\nSérie I, N.° 31 B\n(i)  Produtos agrícolas em vias de formação e crescimento;\n(ii)   Árvores a abater e frutos a colher;\n(iii)  Bens incorpóreos, incluindo direitos de propriedade intelectual;\n(iv)   Partes integrantes de bens imóveis;\n(v)  Títulos de crédito, títulos de investimento e títulos negociáveis; f) “Bem móvel corpóreo”, o bem móvel tangível, incluindo dinheiro, títulos de crédito, títulos de investimento e títulos negociáveis, sem prejuízo do disposto no n.º 2;\ng) “Crédito a receber “, o direito ao cumprimento de uma obrigação monetária, excluindo-se o direito a um pagamento emergente de título de crédito, o direito a um pagamento de fundos creditados numa conta bancária e o direito a um pagamento emergente de título de investimento;\nh) “Credor garantido”, o credor titular de um direito garantido por bem móvel; (i) “Direito de garantia”:\n(i)    O direito sobre bem móvel constituído através de acordo destinado substancialmente a garantir o cumprimento de uma obrigação, monetária ou de qualquer outra natureza, independentemente da designação que as partes lhe derem, permitindo que o credor se faça pagar com prioridade pelo valor do bem, em caso de vencimento ou incumprimento da obrigação garantida, nomeadamente o penhor, o penhor a favor de casa de penhores, a hipoteca mobiliária, a locação financeira, a cessão de créditos em garantia, o acordo de locação com opção de compra, a venda com reserva de propriedade, a consignação a título de garantia e qualquer outro negócio jurídico cuja substância seja a constituição de uma garantia sobre um bem móvel; (ii)   O direito do cessionário de um crédito a receber resultante de cessão convencional definitiva e sem função de garantia; j) “Garante”, a pessoa singular ou coletiva, seja o próprio devedor ou um terceiro, que constitui em benefício do credor garantido um direito de garantia;\nk) “Garantia de aquisição financiada”, o direito de garantia que incide sobre o próprio bem cuja aquisição é financiada pelo credor, incluindo os casos em que o credor é o próprio vendedor, fornecedor, locador financeiro ou mutuante que adiante fundos especificamente destinados a financiar a aquisição; l) “Massa de bens”, o bem móvel que resulta da incorporação de vários bens móveis da mesma natureza, perdendo estes a sua identidade própria;\nm) “Obrigado”, o devedor do crédito a receber que é objeto de um direito de garantia;\nn) “Parte integrante” de um bem imóvel, a coisa móvel, nos termos do n.º 3 do artigo 195.º do Código Civil, que se encontre presa, fixa ou ligada materialmente ao prédio, com caráter de permanência, destinada a satisfazer necessidades permanentes do prédio e em que a ligação não tenha limite temporal definido, a não ser o que resulte das leis da física, que não faz parte da estrutura do prédio mas que aumenta a sua utilidade, servindo para tornar o prédio mais produtivo, mais seguro, mais cómodo ou mais belo, tal como azulejo, tijoleira, instalação de ar condicionado central, elevador e painel solar.\no) “Posse”, a posse efetiva de um bem móvel por uma pessoa ou por um seu representante;\np) “Produto”, o bem móvel que resulta da junção ou união física de um bem móvel corpóreo com um ou mais outros bens móveis corpóreos ou de outros processos, como o fabrico, montagem ou transformação, de tal modo que os bens envolvidos nesses processos perdem a sua identidade própria;\nq) “Registo”, o armazenamento na base de dados da Central de Registo de Informações sobre Garantias Mobiliárias das informações para registo que lhe são submetidas; r) “Registo de acesso público”, a parte da base dados da Central de Registo de Informações sobre Garantias Mobiliárias acessível ao público através de pesquisa.\n2.  A referência a “bens móveis corpóreos” na alínea f) do número anterior, bem como no artigo 16.º não inclui dinheiro, títulos de crédito e títulos negociáveis."
+   }
+  },
+  {
+   "id": "TL-H267-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES  GERAIS"
+   },
+   "heading": {
+    "pt": "Autonomia das partes e normas gerais de conduta"
+   },
+   "text": {
+    "pt": "1.   As disposições inseridas nos Capítulos II, III, V e VI, com exceção do artigo 54.º e do n.º 2 do artigo 58.º, são de natureza supletiva, podendo as partes, por acordo reduzido a escrito, convencionar de modo diferente.\n2.   O acordo referido no número anterior é ineficaz em relação a quem dele não é parte.\n3.   Os direitos previstos na presente lei devem ser exercidos e as obrigações nela previstas cumpridas de boa-fé e em termos que sejam comercialmente razoáveis."
+   }
+  },
+  {
+   "id": "TL-H267-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CONSTITUIÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Requisitos do acordo de garantia e constituição do direito de garantia"
+   },
+   "text": {
+    "pt": "1.  O direito de garantia é constituído através de um acordo de garantia.\nSérie I, N.° 31 B\n2.  O acordo de garantia constitui eficazmente o direito de garantia se:\na) O garante tiver sobre o bem objeto da garantia algum direito com base no qual possa legitimamente constituir o direito de garantia;\nb) For celebrado por escrito e assinado pelo credor garantido e pelo garante;\nc) Identificar o credor garantido e o garante e indicar os respetivos endereços; e\nd) Descrever o bem objeto da garantia e a obrigação garantida de uma forma que permita razoavelmente a sua identificação.\n3.   Considera-se suficiente, para os efeitos do número anterior, que a descrição do bem objeto da garantia se faça através da referência a todos os bens móveis do garante, presentes ou futuros, ou a um género de bens móveis, não sendo necessária a individualização específica de cada um deles.\n4.  Considera-se também suficiente, para os efeitos do n.º 2, a descrição do bem objeto da garantia ou de parte dele através da indicação de um número de série que sirva para identificá-lo.\n5.   Considera-se ainda suficiente, para os efeitos do n.º 2, que a descrição da obrigação garantida consista na referência a todas as obrigações, presentes e futuras, do devedor perante o credor garantido.\n6.   A descrição das obrigações garantidas não é necessária quando o acordo de garantia se referir a uma cessão convencional definitiva sem função de garantia de créditos a receber.\n7.   O direito de garantia pode assegurar o cumprimento de uma ou mais obrigações de qualquer tipo, presentes ou futuras, determinadas ou determináveis, condicionais ou incondicionais, fixas ou variáveis.\n8.   A garantia pode constituir-se sobre:\na) Qualquer bem móvel, corpóreo ou incorpóreo;\nb) Qualquer direito sobre um bem móvel suscetível de transmissão, incluindo direito indiviso ou uma quota de compropriedade ou comunhão;\nc) Um género de bens móveis; e\nd) Todos os bens móveis do garante.\n9.   Não podem ser objeto de garantia os bens impenhoráveis ou inalienáveis nos termos da lei.\n10. O acordo de garantia pode prever a constituição de um direito de garantia sobre um bem futuro, constituindo-se o direito quando o bem passa a existir ou, se o bem já existe, quando o garante adquire sobre ele algum direito que o legitime a constituir o direito de garantia."
+   }
+  },
+  {
+   "id": "TL-H267-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CONSTITUIÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Direito de garantia sobre bens derivados"
+   },
+   "text": {
+    "pt": "O direito de garantia estende-se aos bens derivados do bem objeto da garantia."
+   }
+  },
+  {
+   "id": "TL-H267-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CONSTITUIÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Bens incorporados em massa de bens ou num produto"
+   },
+   "text": {
+    "pt": "1.   O direito de garantia sobre bens incorporados em massa de bens converte-se automaticamente em direito de garantia sobre essa massa de bens, sem necessidade de qualquer aditamento contratual ou ato adicional de outra natureza, mas limitado à proporção com que a quantidade de bens objeto da garantia contribuiu para a massa no momento da incorporação.\n2.   O direito de garantia sobre bens que são incorporados num produto converte-se automaticamente em direito de garantia sobre esse produto, sem necessidade de qualquer aditamento contratual ou ato adicional de outra natureza, mas limitado ao valor do bem onerado imediatamente antes de se tornar parte do referido produto."
+   }
+  },
+  {
+   "id": "TL-H267-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CONSTITUIÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Bens que se tornam partes integrantes"
+   },
+   "text": {
+    "pt": "O direito de garantia sobre bens móveis que se tornam partes integrantes de bem imóvel mantém-se após a integração."
+   }
+  },
+  {
+   "id": "TL-H267-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CONSTITUIÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Bens que se tornam coisas acessórias"
+   },
+   "text": {
+    "pt": "O direito de garantia sobre bens móveis que se tornam coisas acessórias mantém-se após a sua afetação à coisa principal."
+   }
+  },
+  {
+   "id": "TL-H267-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CONSTITUIÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Extinção do direito de garantia"
+   },
+   "text": {
+    "pt": "O direito de garantia extingue-se quando todas as obrigações garantidas tiverem sido cumpridas ou extintas por outra via, desde que o credor não continue obrigado, designadamente através de contrato de abertura de crédito, a conceder crédito que dê origem a novas obrigações cobertas pelo direito de garantia."
+   }
+  },
+  {
+   "id": "TL-H267-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CONSTITUIÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Limitações contratuais à constituição de direitos de"
+   },
+   "text": {
+    "pt": "garantia sobre créditos a receber\n1.  Não são oponíveis ao credor garantido nem constituem impedimento à constituição de um direito de garantia sobre um crédito a receber quaisquer disposições constantes das condições contratuais do crédito a receber que visem impedir ou limitar a criação de um direito de garantia sobre o mesmo.\n2.  Nem o garante nem o credor garantido incorrem em responsabilidade pelo incumprimento das limitações contratuais referidas no número anterior em face do obrigado, o qual, além disso, não fica eximido do dever de satisfazer o crédito a receber sobre o qual incide a garantia.\nSérie I, N.° 31 B\n3.  O disposto nos números anteriores aplica-se apenas ao crédito a receber que constitua uma obrigação monetária resultante de contratos de compra e venda, locação ou prestação de serviços."
+   }
+  },
+  {
+   "id": "TL-H267-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CONSTITUIÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Direito ao pagamento de fundos creditados numa conta bancária"
+   },
+   "text": {
+    "pt": "Não obsta à constituição do direito de garantia incidente sobre um crédito a receber que tem por objeto o pagamento de fundos creditados numa conta bancária qualquer acordo entre o garante e o banco que limite de alguma forma o direito de aquele constituir um direito de garantia."
+   }
+  },
+  {
+   "id": "TL-H267-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II CONSTITUIÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Títulos negociáveis"
+   },
+   "text": {
+    "pt": "O direito de garantia que tenha por objeto um título negociável abrange os bens objeto do direito incorporado no título."
+   }
+  },
+  {
+   "id": "TL-H267-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III EFICÁCIA  DO  DIREITO  DE  GARANTIA  CONTRA TERCEIROS"
+   },
+   "heading": {
+    "pt": "Eficácia perante terceiros"
+   },
+   "text": {
+    "pt": "1.   O direito de garantia é oponível a terceiros:\na) Se a informação inicial para registo que se lhe refira for introduzida no registo de acesso público;\nb) Se o credor garantido estiver na posse dos bens que são dele objeto;\nc) Se for registado em registo especializado referente a certos tipos de bens ou direitos.\n2.   São considerados terceiros, para efeitos do disposto no presente artigo, os credores concorrentes."
+   }
+  },
+  {
+   "id": "TL-H267-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III EFICÁCIA  DO  DIREITO  DE  GARANTIA  CONTRA TERCEIROS"
+   },
+   "heading": {
+    "pt": "Eficácia contra terceiros do direito de garantia sobre bens"
+   },
+   "text": {
+    "pt": "derivados do bem objeto da garantia\n1.    A eficácia contra terceiros do direito de garantia estendese automaticamente, sem necessidade de qualquer outro ato, aos direitos sobre bens derivados do bem objeto da garantia, nos termos do disposto no artigo 6.º, desde que estes consistam em numerário, créditos a receber, títulos de crédito ou direitos ao pagamento de fundos creditados numa conta bancária.\n2.   Quando, nos termos do disposto no artigo 6.º, o direito de garantia incidir sobre bens derivados do bem objeto da garantia diferentes dos referidos no número anterior, o direitos de garantia sobre tais bens derivados é eficaz contra terceiros:\na) Durante 20 dias após o seu surgimento;\nb) Posteriormente, apenas se o direito de garantia sobre os bens derivados se tornar autonomamente eficaz contra terceiros, através de algum dos modos referidos no artigo 14.º, antes do termo do prazo especificado na alínea anterior."
+   }
+  },
+  {
+   "id": "TL-H267-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III EFICÁCIA  DO  DIREITO  DE  GARANTIA  CONTRA TERCEIROS"
+   },
+   "heading": {
+    "pt": "Eficácia contra terceiros do direito de garantia sobre bens"
+   },
+   "text": {
+    "pt": "incorporados em massa de bens ou num produto Se um direito de garantia incidente sobre bens móveis corpóreos for eficaz contra terceiros e o mesmo se converter, nos termos do artigo 7.º, em direito de garantia incidente sobre massa de bens ou produto, este torna-se automaticamente eficaz contra terceiros, sem necessidade de qualquer outro ato adicional."
+   }
+  },
+  {
+   "id": "TL-H267-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III EFICÁCIA  DO  DIREITO  DE  GARANTIA  CONTRA TERCEIROS"
+   },
+   "heading": {
+    "pt": "Eficácia contra terceiros de direitos de garantia sobre bens"
+   },
+   "text": {
+    "pt": "que se tornam partes integrantes Se algum bem se tornar uma parte integrante e o direito de garantia sobre o bem for oponível a terceiros no momento da integração, o direito de garantia continua a ser eficaz contra terceiros após essa integração."
+   }
+  },
+  {
+   "id": "TL-H267-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III EFICÁCIA  DO  DIREITO  DE  GARANTIA  CONTRA TERCEIROS"
+   },
+   "heading": {
+    "pt": "Direitos de garantia sobre bens que se tornam coisas acessórias"
+   },
+   "text": {
+    "pt": "Se algum bem se tornar uma coisa acessória e o direito de garantia sobre o bem for oponível a terceiros no momento da afetação à coisa principal, o direito de garantia continua a ser eficaz contra terceiros após essa afetação."
+   }
+  },
+  {
+   "id": "TL-H267-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III EFICÁCIA  DO  DIREITO  DE  GARANTIA  CONTRA TERCEIROS"
+   },
+   "heading": {
+    "pt": "Garantia de aquisição financiada sobre bens de consumo"
+   },
+   "text": {
+    "pt": "O direito de garantia de aquisição financiada incidente sobre bens de consumo é eficaz contra terceiros a partir do momento da sua constituição, sem necessidade de qualquer outro ato, sem prejuízo do disposto no n.º 2 do artigo 42.º."
+   }
+  },
+  {
+   "id": "TL-H267-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III EFICÁCIA  DO  DIREITO  DE  GARANTIA  CONTRA TERCEIROS"
+   },
+   "heading": {
+    "pt": "Direitos de garantia sobre títulos negociáveis"
+   },
+   "text": {
+    "pt": "Se o direito de garantia sobre título negociável for oponível a terceiros, o direito de garantia que se estende ao bem móvel corpóreo coberto pelo título, em conformidade com o artigo\n13.º, é igualmente eficaz contra terceiros."
+   }
+  },
+  {
+   "id": "TL-H267-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CENTRAL  DE  REGISTO  DE  INFORMAÇÕES  SOBRE GARANTIAS  MOBILIÁRIAS Secção I Disposição geral"
+   },
+   "heading": {
+    "pt": "Funcionamento da Central de Registo de Informações sobre Garantias Mobiliárias"
+   },
+   "text": {
+    "pt": "1.   O Banco Central de Timor-Leste (BCTL) instala, opera e Série I, N.° 31 B mantém em funcionamento a Central de Registo de Informações sobre Garantias Mobiliárias prevista na presente lei.\n2.  A Central de Registo de Informações sobre Garantias Mobiliárias é um serviço de registo público, de natureza eletrónica e automatizada, disponibilizado através de uma plataforma em linha e destinado a cumprir as funções previstas na presente lei.\n3.  A criação da Central de Registo de Informações sobre Garantias Mobiliárias não afeta as atribuições dos demais serviços do Estado encarregues de registos públicos instituídos por lei nem as competências dos respetivos órgãos.\n4.    A data do início de funcionamento da Central de Registo de Informações sobre Garantias Mobiliárias é comunicada por circular emitida pelo BCTL.\nSecção II\nRegisto"
+   }
+  },
+  {
+   "id": "TL-H267-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CENTRAL  DE  REGISTO  DE  INFORMAÇÕES  SOBRE GARANTIAS  MOBILIÁRIAS Secção I Disposição geral"
+   },
+   "heading": {
+    "pt": "Finalidade, objeto e efeitos do registo"
+   },
+   "text": {
+    "pt": "1.  A Central de Registo de Informações sobre Garantias Mobiliárias visa dar publicidade à constituição, modificação e extinção de direitos de garantia pelo garante, atribuindo-lhes eficácia contra terceiros por meio dessa publicidade.\n2.   O registo de informações consiste no simples armazenamento e publicitação das informações pelo credor a respeito dos direitos de garantia nelas referidos, não sendo um ato constitutivo do direito de garantia nem criando a presunção da sua existência.\n3.   O armazenamento e publicitação das informações para registo submetidas pelo credor não é precedido nem depende de qualquer controlo da legalidade, validade ou eficácia dos factos ou documentos que possam estar na origem dos direitos de garantia a que se referem.\n4.   A Central de Registo de Informações sobre Garantias Mobiliárias não garante a exatidão, fiabilidade, consistência ou autenticidade das informações registadas, sendo estas da exclusiva responsabilidade do credor que as inseriu."
+   }
+  },
+  {
+   "id": "TL-H267-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CENTRAL  DE  REGISTO  DE  INFORMAÇÕES  SOBRE GARANTIAS  MOBILIÁRIAS Secção I Disposição geral"
+   },
+   "heading": {
+    "pt": "Autorização do garante para o registo"
+   },
+   "text": {
+    "pt": "1.   A eficácia do registo, consistente na oponibilidade a terceiros do direito de garantia referido na informação para registo, depende da autorização do garante, prestada por escrito.\n2.   A eficácia do registo da informação de alteração que acrescente bens ao objeto da garantia ou prolongue o prazo de eficácia do registo da informação depende igualmente de autorização do garante, dada por escrito.\n3.  A eficácia do registo da informação de alteração que acrescente um garante depende da autorização, dada por escrito, do garante adicionado.\n4.  Qualquer uma das autorizações referidas nos números anteriores pode ser dada antes ou depois do registo da informação para registo a que se refira.\n5.   Um acordo de garantia reduzido a escrito é suficiente para satisfazer o requisito de autorização do garante.\n6.  Não é exigível ao credor que submete a informação para registo a apresentação do documento comprovativo da autorização do garante."
+   }
+  },
+  {
+   "id": "TL-H267-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CENTRAL  DE  REGISTO  DE  INFORMAÇÕES  SOBRE GARANTIAS  MOBILIÁRIAS Secção I Disposição geral"
+   },
+   "heading": {
+    "pt": "Suficiência de uma única informação para registo para vários direitos de garantia"
+   },
+   "text": {
+    "pt": "Uma informação para registo pode abranger simultaneamente vários direitos de garantia, emergentes de um ou mais acordos de garantia."
+   }
+  },
+  {
+   "id": "TL-H267-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CENTRAL  DE  REGISTO  DE  INFORMAÇÕES  SOBRE GARANTIAS  MOBILIÁRIAS Secção I Disposição geral"
+   },
+   "heading": {
+    "pt": "Registo prévio"
+   },
+   "text": {
+    "pt": "A informação para registo pode ser registada antes da constituição do direito de garantia a que se refere, incluindo antes da celebração de qualquer acordo de garantia."
+   }
+  },
+  {
+   "id": "TL-H267-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CENTRAL  DE  REGISTO  DE  INFORMAÇÕES  SOBRE GARANTIAS  MOBILIÁRIAS Secção I Disposição geral"
+   },
+   "heading": {
+    "pt": "Produção de eficácia do registo de uma informação"
+   },
+   "text": {
+    "pt": "1.   O registo de uma informação inicial ou de uma informação de alteração produz efeitos a partir da data e hora em que se tornem acessíveis, através da pesquisa de qualquer interessado, no registo de acesso público.\n2.   O registo de uma informação de cancelamento produz efeitos a partir da data e hora em que as informações a que se refere deixam de estar acessíveis, através da pesquisa de qualquer interessado, no registo de acesso público."
+   }
+  },
+  {
+   "id": "TL-H267-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CENTRAL  DE  REGISTO  DE  INFORMAÇÕES  SOBRE GARANTIAS  MOBILIÁRIAS Secção I Disposição geral"
+   },
+   "heading": {
+    "pt": "Período de eficácia do registo de uma informação para registo"
+   },
+   "text": {
+    "pt": "1.  O registo de uma informação inicial é eficaz durante o tempo aposto pelo credor garantido no campo correspondente do formulário eletrónico, não podendo exceder cinco anos.\n2.   O período de eficácia do registo de uma informação inicial pode ser prorrogado até 90 dias antes do seu termo, por meio da submissão de uma informação de alteração que indique, no campo correspondente do formulário eletrónico, a duração da prorrogação, a qual não pode exceder a duração máxima de cinco  anos.\n3.   O período de eficácia pode ser prorrogado mais do que uma vez, sem limite de prorrogações.\n4.   O registo de uma informação de alteração para prorrogação Série I, N.° 31 B do período inicial prorroga a eficácia da informação inicial a partir do momento em que o período em curso teria caducado se a informação de alteração não tivesse sido registada."
+   }
+  },
+  {
+   "id": "TL-H267-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CENTRAL  DE  REGISTO  DE  INFORMAÇÕES  SOBRE GARANTIAS  MOBILIÁRIAS Secção I Disposição geral"
+   },
+   "heading": {
+    "pt": "Submissão obrigatória de uma informação de alteração ou de cancelamento"
+   },
+   "text": {
+    "pt": "1.   O credor garantido deve submeter para registo uma informação de alteração que suprima um bem da descrição do bem objeto da garantia sempre que:\na) O garante não tenha autorizado a introdução de uma informação para registo relativa a esse bem e o credor garantido tiver sido por ele informado de que não autorizará esse registo;\nb) O garante revogue a autorização que antes havia dado para a introdução de uma informação para registo relativa a esse bem, desde que não tenha sido celebrado qualquer acordo de garantia relativo a esse bem; ou\nc) O acordo de garantia a que se refere a informação registada tiver sido alterado de modo a desonerar esse bem do direito de garantia que sobre ele incidia.\n2.  O credor garantido deve submeter para registo uma informação de cancelamento sempre que:\na) O registo da informação inicial não tenha sido autorizado pelo garante e o credor garantido tenha sido por ele informado de que não autorizará o registo da informação inicial;\nb) O garante revogue a autorização que antes havia dado para o registo de uma informação inicial, desde que não tenha sido celebrado qualquer acordo de garantia; ou\nc) O direito de garantia a que se refere a informação tenha sido extinto.\n3.  O credor garantido não pode exigir ou aceitar qualquer quantia pelo cumprimento das obrigações impostas nas alíneas a) e b) do n.º 1 e a) e b) do n.º 2.\n4.   Verificando-se as condições previstas nos n.os 1 e 2, o garante pode interpelar o credor garantido, por escrito, identificando-se adequadamente e identificando a informação inicial em causa, para que submeta para registo a informação de alteração ou de cancelamento apropriada.\n5.  O credor garantido não pode exigir ou aceitar qualquer quantia pela satisfação da exigência do garante feita nos termos do número anterior."
+   }
+  },
+  {
+   "id": "TL-H267-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CENTRAL  DE  REGISTO  DE  INFORMAÇÕES  SOBRE GARANTIAS  MOBILIÁRIAS Secção I Disposição geral"
+   },
+   "heading": {
+    "pt": "Ação autónoma para alteração ou cancelamento de registo"
+   },
+   "text": {
+    "pt": "1.   Se o credor garantido não der cumprimento à interpelação do garante nos termos do n.º 4 do artigo anterior no prazo de cinco dias úteis após a sua receção, o garante pode requerer ao tribunal competente que intime o credor garantido para que registe a informação de alteração ou de cancelamento, no prazo de cinco dias úteis.\n2.  O processo reveste sempre carácter urgente, precedendo os respetivos atos qualquer outro serviço judicial não urgente, e deve ser decidido em primeira instância no prazo máximo de 60 dias.\n3.  A oposição é deduzida no prazo de 10 dias e a falta de oposição determina a confissão dos factos articulados no pedido.\n4.   Com a petição e a oposição é oferecida prova, não podendo ser produzidas mais de três testemunhas.\n5.   Os depoimentos são gravados se alguma das partes tiver requerido a gravação no pedido ou na oposição.\n6.    Apresentada a oposição, procede-se, quando necessário, à produção das provas requeridas ou oficiosamente determinadas pelo juiz.\n7.    A audiência final só pode ser adiada, por uma única vez, no caso de falta de mandatário de alguma das partes, devendo realizar-se num dos cinco dias subsequentes.\n8.    A falta de alguma pessoa convocada e de cujo depoimento se não prescinda, bem como a necessidade de realizar qualquer diligência probatória no decurso da audiência, apenas determina a suspensão desta na altura conveniente, designando-se logo data para a sua continuação.\n9.   Da decisão proferida cabe recurso de agravo, com subida imediata e nos próprios autos, o qual tem efeito meramente devolutivo.\n10. Em caso de recusa ou incumprimento da intimação no prazo fixado pelo tribunal, este pode ordenar à Central de Registo de Informações sobre Garantias Mobiliárias que registe a informação de alteração ou cancelamento.\n11.  Sendo a ação julgada procedente, a responsabilidade por custas recai exclusivamente sobre o credor garantido."
+   }
+  },
+  {
+   "id": "TL-H267-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CENTRAL  DE  REGISTO  DE  INFORMAÇÕES  SOBRE GARANTIAS  MOBILIÁRIAS Secção I Disposição geral"
+   },
+   "heading": {
+    "pt": "Informação de alteração ou de cancelamento não autorizada"
+   },
+   "text": {
+    "pt": "A eficácia do registo de uma informação de alteração ou de cancelamento não depende de autorização do credor garantido."
+   }
+  },
+  {
+   "id": "TL-H267-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CENTRAL  DE  REGISTO  DE  INFORMAÇÕES  SOBRE GARANTIAS  MOBILIÁRIAS Secção I Disposição geral"
+   },
+   "heading": {
+    "pt": "Proteção de dados"
+   },
+   "text": {
+    "pt": "1.   Ao recolher ou tratar de qualquer outra forma dados pessoais para efeitos de introdução de informações para registo, o credor garantido apenas utiliza os dados pessoais estritamente necessários para esse efeito, obtendo-os diretamente do titular dos dados pessoais em causa ou de terceiro que tenha sido devidamente autorizado por aquele.\n2.    Os credores garantidos e a entidade responsável pela Cen- Série I, N.° 31 B tral de Registo de Informações sobre Garantias Mobiliárias devem cumprir e observar o regime jurídico aplicável em matéria de proteção, tratamento e circulação de dados pessoais, bem como de proteção da privacidade no domínio das comunicações eletrónicas.\nSecção III\nErros e alterações após o registo"
+   }
+  },
+  {
+   "id": "TL-H267-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CENTRAL  DE  REGISTO  DE  INFORMAÇÕES  SOBRE GARANTIAS  MOBILIÁRIAS Secção I Disposição geral"
+   },
+   "heading": {
+    "pt": "Erros das informações para registo"
+   },
+   "text": {
+    "pt": "1.   Quando uma informação inicial ou de alteração contiver um erro na identificação do garante, o seu registo apenas é ineficaz se o erro for tal que a informação para registo não possa ser encontrada através de uma pesquisa que utilize a identificação correta do garante.\n2.  Os erros das informações inicial ou de alteração que não digam respeito à identificação do garante não afetam a eficácia do registo, a menos que sejam suscetíveis de induzir em erro materialmente relevante alguém que atue com razoável diligência ao efetuar uma pesquisa no registo de acesso público.\n3.  O erro na identificação de um garante não acarreta a ineficácia do registo de informação em relação a outro garante corretamente identificado."
+   }
+  },
+  {
+   "id": "TL-H267-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CENTRAL  DE  REGISTO  DE  INFORMAÇÕES  SOBRE GARANTIAS  MOBILIÁRIAS Secção I Disposição geral"
+   },
+   "heading": {
+    "pt": "Alteração da identificação do garante após o registo da informação inicial"
+   },
+   "text": {
+    "pt": "A alteração da identificação do garante após o registo da informação inicial não afeta a eficácia deste, nem a prioridade que dele deriva."
+   }
+  },
+  {
+   "id": "TL-H267-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CENTRAL  DE  REGISTO  DE  INFORMAÇÕES  SOBRE GARANTIAS  MOBILIÁRIAS Secção I Disposição geral"
+   },
+   "heading": {
+    "pt": "Transmissão do bem objeto da garantia após o registo"
+   },
+   "text": {
+    "pt": "A eficácia contra terceiros e a prioridade de um direito de garantia resultantes do registo da correspondente informação não são afetadas pela transmissão, após o registo, do bem objeto do direito de garantia, continuando o direito de garantia, não obstante a transmissão, a onerá-lo, sem prejuízo do disposto no artigo 42.º."
+   }
+  },
+  {
+   "id": "TL-H267-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CENTRAL  DE  REGISTO  DE  INFORMAÇÕES  SOBRE GARANTIAS  MOBILIÁRIAS Secção I Disposição geral"
+   },
+   "heading": {
+    "pt": "Gestão de remoções indevidas no registo de informações"
+   },
+   "text": {
+    "pt": "1.   A entidade responsável pela Central de Registo de Informações sobre Garantias Mobiliárias deve, oficiosamente e sem demora, repor no registo de acesso público quaisquer dados que tenha indevidamente removido das informações registadas.\n2.  A entidade responsável pela Central de Registo de Informações sobre Garantias Mobiliárias deve enviar uma cópia das informações registadas a quem nelas seja identificado como garante e credor garantido, no prazo de 10 dias úteis após o registo ou reposição.\n3.  Quando, nos termos do n.º 1, sejam repostos os dados indevidamente removidos, a informação afetada produz efeitos como se a remoção não tivesse ocorrido.\n4.   Sem prejuízo do disposto no número anterior, o direito de garantia a que se refere a informação afetada não goza de prioridade sobre o direito de um credor concorrente que tenha, entretanto, sido constituído sobre o mesmo bem, desde que este tenha atuado confiando nos resultados de pesquisa efetuada no registo de acesso público antes da reposição dos dados prevista no n.º 1 e não tivesse efetivo conhecimento, à data em que o seu direito foi constituído, da sua remoção indevida.\nSecção IV\nOrganização da Central de Registo de Informações sobre Garantias Mobiliárias e do registo de acesso público"
+   }
+  },
+  {
+   "id": "TL-H267-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CENTRAL  DE  REGISTO  DE  INFORMAÇÕES  SOBRE GARANTIAS  MOBILIÁRIAS Secção I Disposição geral"
+   },
+   "heading": {
+    "pt": "Sistema informático de registo de informações"
+   },
+   "text": {
+    "pt": "1.  O sistema informático de registo de informações sobre garantias mobiliárias é concebido e operado de modo a assegurar a inserção automática e imediata de qualquer informação para registo logo que se encontrem satisfeitas as condições seguintes:\na) Correto preenchimento de todos os campos de informação obrigatórios, através do formulário eletrónico;\nb) Pagamento do emolumento devido.\n2.  Caso a informação não seja imediatamente registada nos termos do número anterior, o interessado pode requerer à entidade responsável pela Central de Registo de Informações sobre Garantias Mobiliárias que faça o registo em falta no prazo de cinco dias úteis.\n3.    Esgotado o prazo previsto no número anterior, o interessado pode, no prazo de 10 dias úteis, requerer ao tribunal competente, nos termos previstos no artigo 29.º, que intime a entidade responsável pela Central de Registo de Informações sobre Garantias Mobiliárias para efetuar o registo no prazo máximo de cinco dias úteis."
+   }
+  },
+  {
+   "id": "TL-H267-A37",
+   "no": 37,
+   "noLabel": {
+    "pt": "Artigo 37.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CENTRAL  DE  REGISTO  DE  INFORMAÇÕES  SOBRE GARANTIAS  MOBILIÁRIAS Secção I Disposição geral"
+   },
+   "heading": {
+    "pt": "Remoção de informações do registo de acesso público e arquivo"
+   },
+   "text": {
+    "pt": "1.  A entidade responsável pela Central de Registo de Informações sobre Garantias Mobiliárias deve eliminar do registo de acesso público as informações após o termo do período de eficácia da introdução da informação para registo, em conformidade com o artigo 27.º, ou após o registo de uma informação de cancelamento, em conformidade com o artigo 28.º.\n2.   Salvo o disposto no número anterior, a entidade responsável pela Central de Registo de Informações sobre Garantias Mobiliárias não pode remover do registo de acesso público as informações aí registadas.\n3.  A entidade responsável pela Central de Registo de Série I, N.° 31 B Informações sobre Garantias Mobiliárias deve arquivar as informações removidas do registo de acesso público, em conformidade com o n.º 1, durante 21 anos, de forma a assegurar, nesse período, a sua recuperabilidade."
+   }
+  },
+  {
+   "id": "TL-H267-A38",
+   "no": 38,
+   "noLabel": {
+    "pt": "Artigo 38.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV CENTRAL  DE  REGISTO  DE  INFORMAÇÕES  SOBRE GARANTIAS  MOBILIÁRIAS Secção I Disposição geral"
+   },
+   "heading": {
+    "pt": "Integridade da informação no registo de acesso público"
+   },
+   "text": {
+    "pt": "1.  Salvo o disposto nos artigos 35.º e 37.º, a entidade responsável pela Central de Registo de Informações sobre Garantias Mobiliárias não pode alterar ou remover do registo de acesso público dados constantes de informações registadas.\n2.  A entidade responsável pela Central de Registo de Informações sobre Garantias Mobiliárias deve tomar todas as medidas razoáveis para preservar todas as informações contidas no registo de acesso público e para reconstituir o mesmo em caso de perda ou dano."
+   }
+  },
+  {
+   "id": "TL-H267-A39",
+   "no": 39,
+   "noLabel": {
+    "pt": "Artigo 39.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PRIORIDADE  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Âmbito de aplicação"
+   },
+   "text": {
+    "pt": "1.   As disposições do presente capítulo apenas se aplicam às relações de prioridade entre os direitos de garantia e entre estes e outros direitos de terceiros constituídos por acordo de garantia.\n2.  As relações de prioridade entre direitos de garantia constituídos por acordo de garantia e outros direitos de garantia, designadamente direitos constituídos por força da lei ou de decisão judicial, são reguladas pela lei que especificamente os preveja, sem prejuízo do disposto no\nartigo 44.º."
+   }
+  },
+  {
+   "id": "TL-H267-A40",
+   "no": 40,
+   "noLabel": {
+    "pt": "Artigo 40.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PRIORIDADE  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Direitos de garantia concorrentes sobre o bem objeto da garantia"
+   },
+   "text": {
+    "pt": "Sem prejuízo do disposto no artigo 46.º, a prioridade entre direitos de garantia concorrentes sobre o mesmo bem objeto da garantia é determinada de acordo com as seguintes regras:\na)  Entre direitos de garantia que se tornaram eficazes contra terceiros através da introdução da informação para registo na Central de Registo de Informações sobre Garantias Mobiliárias, a prioridade é determinada pela ordem de registo, independentemente da ordem de constituição dos direitos de garantia; e\nb)  Entre o direito de garantia que se tornou eficaz contra terceiros através de registo e o direito de garantia que se tornou eficaz contra terceiros através da posse, a prioridade é determinada pela ordem de registo ou de posse, consoante o que tiver ocorrido em primeiro."
+   }
+  },
+  {
+   "id": "TL-H267-A41",
+   "no": 41,
+   "noLabel": {
+    "pt": "Artigo 41.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PRIORIDADE  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Direitos de garantia concorrentes sobre bens derivados do bem objeto da garantia"
+   },
+   "text": {
+    "pt": "Um direito de garantia sobre bens derivados do bem objeto da garantia que seja oponível a terceiros nos termos do artigo\n15.º tem a mesma prioridade sobre um direito de garantia concorrente do que o direito de garantia sobre o objeto de que derivam."
+   }
+  },
+  {
+   "id": "TL-H267-A42",
+   "no": 42,
+   "noLabel": {
+    "pt": "Artigo 42.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PRIORIDADE  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Direitos de garantia concorrentes com os direitos de"
+   },
+   "text": {
+    "pt": "compradores ou de outros adquirentes ou locatários\n1.   O direito de garantia eficaz contra terceiros continua a onerar o bem sobre que incide quando este é vendido ou por qualquer outra via transmitido ou locado, sendo oponível ao comprador, adquirente ou locatário, exceto quando:\na) O credor garantido, por acordo, consentir na desoneração do bem objeto da garantia;\nb) O bem objeto da garantia seja vendido, alienado ou locado no exercício normal da atividade comercial do vendedor, alienante ou locador, desde que, no momento da celebração do contrato de compra e venda ou do contrato de locação, o comprador ou o locatário não tenha efetivo conhecimento da existência da garantia.\n2.   Os bens de consumo são adquiridos ou locados livres de qualquer garantia de aquisição financiada que os onere, a menos que esta se torne oponível a terceiros, nos termos do artigo 14.º, antes da celebração do contrato de compra e venda ou de locação, consoante os casos."
+   }
+  },
+  {
+   "id": "TL-H267-A43",
+   "no": 43,
+   "noLabel": {
+    "pt": "Artigo 43.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PRIORIDADE  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Impacto da insolvência do garante na prioridade de um direito de garantia"
+   },
+   "text": {
+    "pt": "Um direito de garantia que, nos termos da presente lei, seja oponível a terceiros no momento da abertura do processo de insolvência do garante continua a ser oponível a terceiros e mantém a prioridade que tinha antes da abertura do processo de insolvência, a menos que outro crédito tenha prioridade nos termos do regime jurídico aplicável em matéria de insolvência."
+   }
+  },
+  {
+   "id": "TL-H267-A44",
+   "no": 44,
+   "noLabel": {
+    "pt": "Artigo 44.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PRIORIDADE  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Direitos de garantia concorrentes com o direito de credor com penhora"
+   },
+   "text": {
+    "pt": "1.   Se recair penhora sobre o bem objeto da garantia no âmbito de um processo de execução, o direito do credor com título executivo goza de prioridade sobre o direito do credor garantido se a penhora tiver sido realizada antes de o direito de garantia se tornar eficaz contra terceiros.\n2.  Se o direito de garantia se tornar eficaz contra terceiros antes ou ao mesmo tempo de o bem objeto da garantia ter sido penhorado, o direito de garantia goza de prioridade, mas esta é limitada ao mais elevado dos seguintes valores:\na) O valor do crédito concedido pelo credor garantido antes de este receber a notificação, por escrito, de que o bem objeto da garantia foi penhorado; ou Série I, N.° 31 B\nb) O valor do crédito que o credor garantido tenha prometido conceder, nos termos de um compromisso irrevogável de conceder crédito num montante fixo ou num montante a fixar de acordo com uma fórmula específica, se a promessa tiver sido feita antes de o credor garantido receber a notificação, por escrito, de que o bem objeto da garantia foi penhorado."
+   }
+  },
+  {
+   "id": "TL-H267-A45",
+   "no": 45,
+   "noLabel": {
+    "pt": "Artigo 45.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PRIORIDADE  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Conflito com direitos objeto de registos especializados"
+   },
+   "text": {
+    "pt": "Havendo conflito entre direitos objeto de informação registada na Central de Registos de Informações sobre Garantias Mobiliárias e direitos objeto de registo especializado relativo a certos tipos de bens móveis, prevalecem estes últimos, mesmo que o registo seja posterior."
+   }
+  },
+  {
+   "id": "TL-H267-A46",
+   "no": 46,
+   "noLabel": {
+    "pt": "Artigo 46.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PRIORIDADE  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Garantia de aquisição financiada concorrente com direitos"
+   },
+   "text": {
+    "pt": "de garantia de outra natureza Uma garantia de aquisição financiada tem prioridade sobre um direito de garantia de outra natureza que com ela concorra constituído pelo mesmo garante, desde que:\na)  O credor com garantia de aquisição financiada esteja na posse dos bens; ou\nb)  A informação inicial relativa ao direito de garantia de aquisição financiada seja registada no registo de acesso público antes de decorridos 15 dias após o garante ter obtido a posse dos bens."
+   }
+  },
+  {
+   "id": "TL-H267-A47",
+   "no": 47,
+   "noLabel": {
+    "pt": "Artigo 47.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PRIORIDADE  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Direito de garantia sobre partes integrantes"
+   },
+   "text": {
+    "pt": "O direito de garantia sobre partes integrantes que se torne oponível a terceiros nos termos da presente lei tem prioridade sobre qualquer garantia constituída sobre o bem imóvel:\na)   Quando o direito de garantia nos termos da presente lei se torne oponível a terceiros antes da garantia constituída sobre o bem imóvel;\nb)  Quando o direito de garantia nos termos da presente lei se torne oponível a terceiros antes da instalação das partes integrantes no bem imóvel."
+   }
+  },
+  {
+   "id": "TL-H267-A48",
+   "no": 48,
+   "noLabel": {
+    "pt": "Artigo 48.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PRIORIDADE  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Direito de garantia sobre coisa acessória"
+   },
+   "text": {
+    "pt": "Sem prejuízo do disposto na presente lei, um direito de garantia sobre uma coisa acessória que seja oponível a terceiros tem prioridade sobre quaisquer direitos de garantia que incidam sobre o bem móvel principal."
+   }
+  },
+  {
+   "id": "TL-H267-A49",
+   "no": 49,
+   "noLabel": {
+    "pt": "Artigo 49.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PRIORIDADE  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Bens futuros"
+   },
+   "text": {
+    "pt": "A prioridade de um direito de garantia abrange todos os bens descritos na informação inicial ou de alteração registada no registo de acesso público, ainda que se trate de bens que passem a existir ou sejam adquiridos pelo garante depois do registo."
+   }
+  },
+  {
+   "id": "TL-H267-A50",
+   "no": 50,
+   "noLabel": {
+    "pt": "Artigo 50.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PRIORIDADE  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Obrigações futuras"
+   },
+   "text": {
+    "pt": "Sem prejuízo do disposto no artigo 44.º, a prioridade de um direito de garantia aproveita a todas as obrigações garantidas, incluindo as obrigações constituídas após a produção de efeitos do direito de garantia contra terceiros, sejam obrigações futuras ou obrigações resultantes de adiantamentos de fundos a que o credor se tenha vinculado em contrato de concessão de crédito anterior."
+   }
+  },
+  {
+   "id": "TL-H267-A51",
+   "no": 51,
+   "noLabel": {
+    "pt": "Artigo 51.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PRIORIDADE  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Conhecimento pelo credor garantido de direitos de garantia concorrentes"
+   },
+   "text": {
+    "pt": "A prioridade de um direito de garantia constituída ao abrigo da presente lei não é afetada por qualquer conhecimento que o credor garantido possa ter de um direito de garantia concorrente."
+   }
+  },
+  {
+   "id": "TL-H267-A52",
+   "no": 52,
+   "noLabel": {
+    "pt": "Artigo 52.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PRIORIDADE  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Direitos de garantia sobre títulos de crédito"
+   },
+   "text": {
+    "pt": "1.    O direito de garantia sobre um título de crédito que se torne oponível a terceiros pela posse do mesmo tem prioridade sobre o direito de garantia sobre o mesmo título que se torne oponível a terceiros pela introdução de uma informação para registo na Central de Registo de Informações sobre Garantias Mobiliárias.\n2.    O título de crédito é transmitido livre dos direitos de garantia que os oneram, incluindo os referidos em informações para registo introduzidas na Central de Registo de Informações sobre Garantias Mobiliárias, se o adquirente dele tomar posse, mediante pagamento, sem ter conhecimento de que a transmissão do título viola os direitos do credor garantido ao abrigo do acordo de garantia."
+   }
+  },
+  {
+   "id": "TL-H267-A53",
+   "no": 53,
+   "noLabel": {
+    "pt": "Artigo 53.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PRIORIDADE  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Numerário e fundos creditados em conta bancária"
+   },
+   "text": {
+    "pt": "O adquirente que obtenha a posse de valores em numerário ou que receba uma transferência de fundos creditados em conta bancária adquire direitos sobre a quantia recebida, sem sujeição a qualquer direito de garantia, a menos que tenha efetivo conhecimento de que a transferência viola os direitos do credor garantido nos termos do acordo de garantia."
+   }
+  },
+  {
+   "id": "TL-H267-A54",
+   "no": 54,
+   "noLabel": {
+    "pt": "Artigo 54.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V PRIORIDADE  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Prioridade do direito de garantia sobre bens abrangidos por títulos negociáveis"
+   },
+   "text": {
+    "pt": "O direito de garantia sobre bens oponíveis a terceiros pela posse do título negociável que incorpora o direito à sua entrega tem prioridade sobre um direito de garantia concorrente oponível a terceiros por qualquer outro método.\nSérie I, N.° 31 B"
+   }
+  },
+  {
+   "id": "TL-H267-A55",
+   "no": 55,
+   "noLabel": {
+    "pt": "Artigo 55.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI DIREITOS  E  OBRIGAÇÕES  DAS  PARTES  E  DE TERCEIROS  OBRIGADOS"
+   },
+   "heading": {
+    "pt": "Obrigação do credor garantido de restituir o bem objeto da garantia"
+   },
+   "text": {
+    "pt": "Com a extinção do direito de garantia, o credor garantido que se encontre na sua posse deve devolver o bem objeto da garantia ao garante ou entregá-lo a pessoa designada pelo garante."
+   }
+  },
+  {
+   "id": "TL-H267-A56",
+   "no": 56,
+   "noLabel": {
+    "pt": "Artigo 56.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI DIREITOS  E  OBRIGAÇÕES  DAS  PARTES  E  DE TERCEIROS  OBRIGADOS"
+   },
+   "heading": {
+    "pt": "Direito do credor garantido de inspecionar o bem objeto da garantia"
+   },
+   "text": {
+    "pt": "O credor garantido que não esteja na posse do bem objeto da garantia tem o direito de o inspecionar se o mesmo estiver na posse do garante."
+   }
+  },
+  {
+   "id": "TL-H267-A57",
+   "no": 57,
+   "noLabel": {
+    "pt": "Artigo 57.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI DIREITOS  E  OBRIGAÇÕES  DAS  PARTES  E  DE TERCEIROS  OBRIGADOS"
+   },
+   "heading": {
+    "pt": "Direito do garante a obter informações"
+   },
+   "text": {
+    "pt": "1.   No prazo de 10 dias após a receção de um pedido escrito do garante nesse sentido, o credor garantido, salvo quando se trate do cessionário de uma cessão de crédito definitiva sem função de garantia, deve enviar ao garante, para o endereço especificado no pedido:\na) Uma declaração da obrigação que se encontra garantida; e\nb) Uma descrição atualizada do bem objeto da garantia.\n2.  O credor garantido pode exigir o pagamento de um valor comercialmente razoável por cada resposta a um pedido, nos termos do número anterior, considerando os recursos utilizados na preparação e emissão da declaração e documentos solicitados."
+   }
+  },
+  {
+   "id": "TL-H267-A58",
+   "no": 58,
+   "noLabel": {
+    "pt": "Artigo 58.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI DIREITOS  E  OBRIGAÇÕES  DAS  PARTES  E  DE TERCEIROS  OBRIGADOS"
+   },
+   "heading": {
+    "pt": "Contas bancárias"
+   },
+   "text": {
+    "pt": "1.   A constituição de um direito de garantia sobre um direito ao pagamento de fundos creditados em conta bancária:\na) Não afeta os direitos e obrigações do banco sem o seu consentimento; e\nb) Não obriga o banco a fornecer ao credor garantido ou demais terceiros qualquer informação sobre a conta bancária.\n2.   Quaisquer direitos de compensação do banco sobre conta bancária nele aberta não são afetados por qualquer direito de garantia de que ele próprio seja titular sobre o direito ao pagamento de fundos creditados na mesma conta."
+   }
+  },
+  {
+   "id": "TL-H267-A59",
+   "no": 59,
+   "noLabel": {
+    "pt": "Artigo 59.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII EXECUÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Direitos após o incumprimento"
+   },
+   "text": {
+    "pt": "1.  Havendo incumprimento, o garante e o credor garantido têm o direito de exercer:\na) Qualquer direito previsto nas disposições do presente capítulo;\nb) Qualquer outro direito previsto no acordo de garantia ou em quaisquer disposições legais, exceto na medida em que seja incompatível com as disposições da presente lei.\n2.   Antes do incumprimento, o garante ou o devedor não pode renunciar unilateralmente a qualquer dos seus direitos decorrentes das disposições do presente capítulo, sendo nulos os contratos ou cláusulas que de alguma forma os limitem ou excluam."
+   }
+  },
+  {
+   "id": "TL-H267-A60",
+   "no": 60,
+   "noLabel": {
+    "pt": "Artigo 60.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII EXECUÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Execução judicial e extrajudicial"
+   },
+   "text": {
+    "pt": "1.  O credor garantido pode exercer os seus direitos após o incumprimento pela via judicial, nos termos do disposto no presente capítulo e no Código de Processo Civil.\n2.   O credor garantido pode igualmente exercer os seus direitos após o incumprimento pela via extrajudicial, desde que o faça em conformidade com as disposições do presente capítulo.\n3.   O acordo de garantia que cumpra os requisitos enunciados no artigo 5.º e que tenha sido objeto de registo nos termos da presente lei constitui título executivo para entrega de coisa certa, nos termos e para os efeitos da alínea c) do n.º 1 do artigo 669.º do Código de Processo Civil, contanto que a obrigação exequenda seja certa, líquida e exigível."
+   }
+  },
+  {
+   "id": "TL-H267-A61",
+   "no": 61,
+   "noLabel": {
+    "pt": "Artigo 61.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII EXECUÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Direito das pessoas afetadas a pôr termo à execução da garantia"
+   },
+   "text": {
+    "pt": "1.   O garante, qualquer outra pessoa com um direito sobre o bem objeto da garantia ou o devedor tem o direito de pôr termo à execução da garantia, mediante o pagamento ou o cumprimento integral da obrigação garantida, incluindo:\na) As custas determinadas pelo tribunal, se o credor garantido tiver exercido os seus direitos, após o incumprimento, através de um processo judicial; e\nb) O custo razoável da execução da garantia, se o credor garantido tiver exercido os seus direitos, após o incumprimento, pela via extrajudicial.\n2.  O direito de pôr termo à execução pode ser exercido em qualquer momento até ao primeiro dos seguintes acontecimentos:\nSérie I, N.° 31 B\na) A venda ou transmissão por outra via, aquisição ou cobrança do bem objeto da garantia pelo credor garantido; ou e\nb) A celebração de um acordo pelo credor garantido para a venda ou transmissão por outra via do bem objeto da garantia."
+   }
+  },
+  {
+   "id": "TL-H267-A62",
+   "no": 62,
+   "noLabel": {
+    "pt": "Artigo 62.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII EXECUÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Direito do credor garantido de grau superior, de assumir a execução"
+   },
+   "text": {
+    "pt": "1.  Não obstante o início da execução por outro credor, um credor garantido, cujo direito de garantia tenha prioridade sobre o do credor que iniciou a execução tem o direito de assumir a execução em qualquer momento, até ao primeiro dos seguintes acontecimentos:\na) A venda ou transmissão por outra via, aquisição ou cobrança do bem objeto da garantia pelo credor que iniciou a execução da garantia; ou e\nb) A celebração de um acordo por esse credor para a venda ou transmissão por outra via do bem objeto da garantia.\n2.  O direito de o credor garantido de grau superior assumir a execução inclui o poder de executar por qualquer meio permitido a um credor garantido, ao abrigo da presente lei.\n3.   O presente artigo não se aplica se o credor garantido exercer os seus direitos pela via judicial."
+   }
+  },
+  {
+   "id": "TL-H267-A63",
+   "no": 63,
+   "noLabel": {
+    "pt": "Artigo 63.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII EXECUÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Direito do credor garantido a obter a posse do bem objeto da garantia"
+   },
+   "text": {
+    "pt": "1.    Sem prejuízo do disposto nos artigos 700.º a 703.º do Código de Processo Civil e dos direitos de quem for titular de posse que deva prevalecer, o credor garantido, em caso de incumprimento, tem o direito de se apropriar do bem objeto da garantia.\n2.   O exercício pela via extrajudicial do direito previsto no número anterior depende da verificação cumulativa das seguintes condições:\na) O garante ter consentido por escrito que o credor garantido se aproprie do bem objeto da garantia pela via extrajudicial;\nb) O credor garantido ter notificado por escrito o garante e qualquer pessoa na posse do bem objeto da garantia do incumprimento e da sua intenção em apropriar-se daquele; e\nc) No momento em que o credor garantido tentar apropriarse do bem objeto da garantia, a apropriação poder ser realizada sem uso da força.\n3.  O consentimento referido na alínea a) do número anterior pode estar previsto no acordo de garantia.\n4.   A notificação a que se refere a alínea b) do n.º 2 não é efetuada se o bem objeto da garantia for perecível ou suscetível de diminuir rapidamente de valor.\n5.   Se um credor garantido de grau superior estiver na posse do bem objeto da garantia, o credor garantido de grau inferior não tem o direito de se apropriar do mesmo."
+   }
+  },
+  {
+   "id": "TL-H267-A64",
+   "no": 64,
+   "noLabel": {
+    "pt": "Artigo 64.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII EXECUÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Procedimento especial de apropriação após o incumprimento"
+   },
+   "text": {
+    "pt": "1.   Se o credor garantido tiver o direito de se apropriar do bem objeto da garantia após o incumprimento, mas o seu exercício depender do uso da força, o credor garantido pode requerer ao tribunal competente a apreensão do bem objeto da garantia e a entrega da respetiva posse ao credor garantido.\n2.   O requerimento a que se refere o número anterior deve ser instruído com:\na) O acordo de garantia;\nb) Comprovativo do registo;\nc) Qualquer prova complementar que seja necessária para evidenciar que a obrigação garantida é certa, líquida e exigível;\nd) O nome e as informações de contacto do garante; e\ne) Quaisquer elementos que possam ser necessários para localizar e efetuar a apreensão do bem objeto da garantia.\n3.   Verificada a existência, validade e eficácia do título executivo na posse do credor garantido, o tribunal ordena, sem prévia audição do garante, a apreensão e entrega do bem objeto da garantia ao credor garantido no prazo fixado pelo tribunal.\n4.   O tribunal comunica a ordem de apreensão e entrega a que se refere o número anterior ao garante no momento da apreensão ou, quando tal não seja possível, no prazo máximo de cinco dias úteis, dando nota do prazo legal para dedução de embargo, a efetuar nos termos do número seguinte.\n5.   O garante pode opor-se à apreensão e entrega deduzindo embargo, no prazo de 20 dias a contar da comunicação do tribunal, seguindo-se, com as devidas adaptações, o disposto nos artigos 694.º a 696.º do Código de Processo Civil.\n6.   Se a ordem de apreensão e entrega do bem objeto da garantia ao credor garantido ofender a posse ou qualquer direito incompatível com a realização ou o âmbito da diligência de que seja titular quem não é parte na causa, pode o lesado fazê-lo valer deduzindo embargos de terceiro, seguindose, com as devidas adaptações, o disposto nos artigos\n286.º a 294.º do Código de Processo Civil Série I, N.° 31 B"
+   }
+  },
+  {
+   "id": "TL-H267-A65",
+   "no": 65,
+   "noLabel": {
+    "pt": "Artigo 65.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII EXECUÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Partes integrantes"
+   },
+   "text": {
+    "pt": "1.   Sem prejuízo do disposto no artigo 63.º, o credor garantido, após o incumprimento, pode apropriar-se do bem objeto da garantia que seja uma parte integrante, removendo a parte integrante em causa do bem imóvel.\n2.  Ao remover a parte integrante, o credor garantido deve fazê-lo de forma a não causar ao imóvel mais danos do que os que se afigurem razoavelmente necessários.\n3.  Se o credor garantido remover uma parte integrante, nos termos do n.º 1, deve reembolsar qualquer titular de interesse atendível no bem imóvel, que não o garante, por qualquer dano que lhe tenha sido causado, com exceção dos danos resultantes de uma redução no valor do bem imóvel devido à ausência da parte integrante.\n4.  Os valores pagos a título compensatório pelo credor garantido que aja com zelo e diligência razoáveis são considerados despesas da execução."
+   }
+  },
+  {
+   "id": "TL-H267-A66",
+   "no": 66,
+   "noLabel": {
+    "pt": "Artigo 66.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII EXECUÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Execução contra coisas acessórias"
+   },
+   "text": {
+    "pt": "1.   Sem prejuízo do disposto no artigo 63.º, o credor garantido, após o incumprimento, pode apropriar-se de uma coisa acessória que seja objeto da garantia, retirando a coisa acessória do bem principal a que tiver sido afetada.\n2.  O credor garantido deve efetuar a apropriação prevista no número anterior de forma a não causar ao bem principal mais danos do que os que se mostrem razoavelmente necessários.\n3.  Se o credor garantido remover uma coisa acessória nos termos do n.º 1, deve reembolsar qualquer titular de interesse atendível no bem principal, que não o garante, por qualquer dano que tiver sido causado, com exceção do dano resultante de uma redução no valor do bem principal resultante da remoção da coisa acessória.\n4.  Os valores pagos a título compensatório pelo credor garantido que aja com zelo e diligência razoáveis são considerados despesas de execução."
+   }
+  },
+  {
+   "id": "TL-H267-A67",
+   "no": 67,
+   "noLabel": {
+    "pt": "Artigo 67.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII EXECUÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Direito do credor garantido a alienar o bem objeto da garantia"
+   },
+   "text": {
+    "pt": "1.   Após o incumprimento, o credor garantido tem o direito de vender ou, por qualquer outra via, alienar, locar ou licenciar o bem objeto da garantia.\n2.   Se o credor garantido decidir exercer o direito previsto no número anterior recorrendo à via judicial, é aplicável o Código de Processo Civil.\n3.   Se o credor garantido decidir exercer o direito previsto no n.º 1 pela via extrajudicial, assiste-lhe o poder de determinar o método, a forma, o momento, o local e outros aspetos relevantes para a realização da venda ou outra forma de alienação, locação ou licenciamento, incluindo a possibilidade de vender ou alienar por qualquer outra via, locar ou licenciar o bem objeto da garantia, por unidade, por lotes ou na sua totalidade.\n4.   Se o credor garantido decidir exercer o direito previsto no n.º 1 pela via extrajudicial, deve notificar por escrito a sua intenção:\na) Ao garante e ao devedor;\nb) A qualquer pessoa com um direito sobre o bem objeto da garantia que informe o credor garantido desse direito, por escrito, pelo menos dois dias antes de a notificação ser enviada ao garante;\nc) A qualquer outro credor garantido que tenha obtido o registo na Central de Registo de Informações sobre Garantias Mobiliárias de uma informação relativa a um direito de garantia sobre o bem objeto da garantia, pelo menos dois dias antes de a notificação ser enviada ao garante; e\nd) A qualquer outro credor garantido que estivesse na posse do bem objeto da garantia quando o credor garantido se apropriou do mesmo.\n5.   A notificação referida no número anterior deve ser efetuada pelo menos 20 dias antes da realização da venda ou alienação por qualquer outra via, locação ou licenciamento e deve conter:\na) A descrição do bem objeto da garantia;\nb) A declaração do montante necessário, no momento da notificação, para satisfazer a obrigação garantida, incluindo os juros e os custos razoáveis da execução;\nc) A declaração de que o garante, qualquer outra pessoa com direito sobre o bem objeto da garantia ou o devedor tem o direito de pôr termo ao processo de execução, tal como previsto no artigo 61.º; e\nd) A declaração da data a partir da qual o bem objeto da garantia será vendido ou alienado por qualquer outra via, locado ou licenciado ou, no caso de uma alienação por hasta pública, a data, o local e a forma de alienação prevista.\n6.   A notificação referida no n.º 4 não é efetuada se o bem objeto da garantia for perecível ou suscetível de diminuir rapidamente de valor."
+   }
+  },
+  {
+   "id": "TL-H267-A68",
+   "no": 68,
+   "noLabel": {
+    "pt": "Artigo 68.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII EXECUÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Distribuição do produto da alienação do bem objeto da"
+   },
+   "text": {
+    "pt": "garantia e responsabilidade do devedor por qualquer remanescente da dívida\n1.   Se o credor garantido decidir exercer o direito previsto no\nartigo 67.º pela via judicial, a distribuição do produto da venda ou alienação por qualquer outra via, locação ou Série I, N.° 31 B licenciamento do bem objeto da garantia é determinada pelo tribunal, nos termos das regras processuais civis em vigor, observando o disposto nos artigos 39.º a 54.º.\n2.   Se o credor garantido decidir exercer o direito previsto no\nartigo 67.º pela via extrajudicial:\na) O credor garantido que iniciou a execução deve aplicar o produto da execução ao pagamento do saldo em dívida da obrigação garantida, após dedução das despesas razoavelmente incorridas com a execução;\nb) Exceto nos casos previstos na alínea seguinte, o credor garantido que iniciou a execução deve entregar o remanescente do produto da execução a qualquer credor garantido concorrente subordinado que o tenha previamente notificado do seu crédito, até ao montante desse crédito, e remeter qualquer saldo remanescente ao garante;\nc) Quando existirem dois ou mais credores garantidos subordinados que tenham notificado o credor garantido que iniciou a execução da existência do seu crédito, e independentemente de haver ou não qualquer litígio quanto ao direito ou à prioridade de qualquer credor garantido concorrente subordinado, o credor garantido que iniciou a execução deve depositar qualquer valor excedente numa instituição de crédito à ordem do tribunal, seguindo-se a divisão nos termos das regras processuais civis em vigor, mas observando o disposto nos artigos 39.º a 54.º.\n3.   O devedor continua a ser responsável por qualquer montante que permaneça em dívida após a aplicação do produto líquido da execução ao pagamento da obrigação garantida."
+   }
+  },
+  {
+   "id": "TL-H267-A69",
+   "no": 69,
+   "noLabel": {
+    "pt": "Artigo 69.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII EXECUÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Aquisição do bem objeto da garantia pelo credor garantido"
+   },
+   "text": {
+    "pt": "1.   Após o incumprimento, o credor garantido pode propor, por escrito, a aquisição de um ou mais elementos constituintes do bem objeto da garantia para satisfação total ou parcial da obrigação garantida.\n2.   O credor garantido deve enviar a proposta:\na) Ao devedor e ao garante;\nb) A qualquer pessoa com um direito sobre o bem objeto da garantia que informe o credor garantido desse direito, por escrito, pelo menos dois dias antes de a proposta ser enviada ao garante;\nc) A qualquer outro credor garantido que tenha obtido a introdução de uma informação para registo relativa ao direito de garantia sobre o bem objeto da garantia, pelo menos dois dias antes de a proposta ser enviada ao garante; e\nd) A qualquer outro credor garantido que estivesse na posse do bem objeto da garantia quando o credor garantido se apropriou do mesmo.\n3.   A proposta inclui:\na) A indicação do montante necessário, no momento em que a proposta é apresentada, para satisfazer a obrigação garantida, incluindo os juros e os custos razoáveis de execução, bem como o montante da obrigação garantida que se propõe satisfazer;\nb) A declaração de que o credor garantido se propõe adquirir o bem objeto da garantia descrito na proposta para satisfazer total ou parcialmente a obrigação garantida;\nc) Uma declaração de que o garante, qualquer outra pessoa com direitos sobre o bem objeto da garantia ou o devedor tem o direito de pôr termo à execução, conforme previsto no artigo 61.º;\nd) A indicação da data a partir da qual o credor garantido adquirirá o bem objeto da garantia.\n4.   Se, no prazo de 10 dias após a receção da proposta emitida pelo credor garantido, este não receber nenhuma objeção, por escrito, de qualquer pessoa com direito a receber a proposta nos termos do n.º 2, considera-se, para todos efeitos, por ele adquirido o bem objeto da garantia.\n5.   O credor garantido que tenha apresentado uma proposta de aquisição do bem objeto da garantia para satisfação parcial da obrigação garantida só adquire o bem objeto da garantia se receber o consentimento, por escrito, de todas as pessoas com direito a receber a proposta, nos termos do n.º 2, no prazo de 45 dias após cada uma delas ter recebido a proposta.\n6.   O garante pode solicitar ao credor garantido que apresente uma proposta nos termos do n.º 1 e, se o credor garantido aceitar o pedido do garante, deve proceder em conformidade com o disposto nos n.os 1 a 5."
+   }
+  },
+  {
+   "id": "TL-H267-A70",
+   "no": 70,
+   "noLabel": {
+    "pt": "Artigo 70.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII EXECUÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Direitos adquiridos sobre o bem objeto da garantia"
+   },
+   "text": {
+    "pt": "1.   Se o credor garantido recorrer à via judicial para a venda ou alienação por qualquer outra forma do bem objeto da garantia, o comprador ou transmissário respetivo adquire o bem objeto da garantia, com sujeição a ou livre de ónus existentes, tal como vier a ser determinado pelo tribunal.\n2.   Se o credor garantido vender ou alienar de qualquer outra forma o bem objeto da garantia pela via extrajudicial, o comprador ou o transmissário adquire o direito do garante sobre o bem objeto da garantia livre dos direitos do credor garantido que a executa e de qualquer outro credor concorrente, com exceção dos direitos que tenham prioridade sobre o direito do credor garantido que a executa.\n3.  Se o credor garantido locar ou licenciar o bem objeto da garantia pela via extrajudicial, o locatário ou detentor da licença tem direito ao benefício da locação ou da licença durante o seu período de vigência, mas o seu direito não é oponível aos credores com direitos que tenham prioridade sobre o direito do credor garantido que executa a garantia.\nSérie I, N.° 31 B\n4.  Se o credor garantido vender ou, por qualquer outra via, alienar, locar ou licenciar o bem objeto da garantia sem cumprir as disposições do presente capítulo, o comprador ou adquirente por outra via, locatário ou licenciado do bem objeto da garantia adquire os direitos ou benefícios descritos nos n.os 2 e 3, desde que não tenha tido efetivo conhecimento de uma violação das disposições do presente capítulo que tenha prejudicado materialmente os direitos do garante ou de outra pessoa."
+   }
+  },
+  {
+   "id": "TL-H267-A71",
+   "no": 71,
+   "noLabel": {
+    "pt": "Artigo 71.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII EXECUÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Execução de garantia sobre créditos a receber e títulos de"
+   },
+   "text": {
+    "pt": "crédito e de investimento\n1.   Após o incumprimento, o credor garantido com um direito de garantia sobre um crédito a receber, um título de crédito, um direito ao pagamento de fundos creditados em conta bancária ou um título de investimento tem o direito de exigir, a qualquer momento, logo que a correspondente obrigação se torne exigível, o pagamento ao obrigado do crédito a receber ou do título de crédito, ao banco no qual se acha aberta a conta dos fundos nela creditados ou ao emitente respetivo do título de investimento.\n2.  O credor garantido pode exercer o direito de cobrança previsto no número anterior antes do incumprimento se o garante o consentir.\n3.   O credor garantido que exerça o direito de cobrança nos termos dos n.os 1 ou 2 pode igualmente fazer valer qualquer direito pessoal ou patrimonial que garanta ou apoie a satisfação do crédito ou do direito incorporado no título que é objeto da garantia.\n4.   Se o direito de garantia consistir no direito ao pagamento de fundos creditados numa conta bancária, o credor garantido só pode cobrar ou executar o seu direito de garantia por ordem judicial, salvo acordo em contrário por parte da instituição que recebeu o depósito.\n5.   O direito de cobrança do credor garantido, nos termos dos n.os 1 a 4, está sujeito ao disposto no artigo 58.º."
+   }
+  },
+  {
+   "id": "TL-H267-A72",
+   "no": 72,
+   "noLabel": {
+    "pt": "Artigo 72.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII EXECUÇÃO  DO  DIREITO  DE  GARANTIA"
+   },
+   "heading": {
+    "pt": "Cobrança de crédito a receber pelo cessionário"
+   },
+   "text": {
+    "pt": "1.   Em caso de cessão definitiva sem função de garantia de um crédito a receber, o cessionário tem o direito de exigir o pagamento ao obrigado a qualquer momento, assim que o pagamento se torne exigível.\n2.   O cessionário que exerce o direito de cobrança, nos termos do número anterior, tem igualmente o direito de fazer valer qualquer direito pessoal ou patrimonial que garanta ou apoie a satisfação do crédito.\n3.   O direito de cobrança do adquirente, nos termos dos n.os 1 e 2, está sujeito ao disposto no artigo 58.º."
+   }
+  },
+  {
+   "id": "TL-H267-A73",
+   "no": 73,
+   "noLabel": {
+    "pt": "Artigo 73.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES  TRANSITÓRIAS  E  FINAIS"
+   },
+   "heading": {
+    "pt": "Funcionamento da Central de Registo de Informações sobre Garantias Mobiliárias"
+   },
+   "text": {
+    "pt": "1.  Sem prejuízo das competências próprias do Governo, o BCTL deve emitir, no prazo máximo de 180 dias após a publicação da presente lei, os regulamentos, instruções e demais atos necessários à sua execução, designadamente para o efeito de instalação, funcionamento e manutenção da Central de Registo de Informações sobre Garantias Mobiliárias, incluindo o modo como as informações para registo devem ser submetidas e inseridas no registo de acesso público e a forma como as pesquisas podem ser realizadas.\n2.   O BCTL aprova, no prazo de três 3 meses a contar da data da entrada em vigor da presente lei, um manual de boas práticas a observar pelos credores garantidos em matéria de proteção, tratamento e circulação de dados pessoais, de forma a assegurar um nível adequado de proteção de dados pessoais no âmbito da Central de Registo de Informações sobre Garantias Mobiliárias."
+   }
+  },
+  {
+   "id": "TL-H267-A74",
+   "no": 74,
+   "noLabel": {
+    "pt": "Artigo 74.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES  TRANSITÓRIAS  E  FINAIS"
+   },
+   "heading": {
+    "pt": "Promoção dos objetivos da presente lei"
+   },
+   "text": {
+    "pt": "O BCTL adota as medidas que julgar adequadas para promover o desenvolvimento em Timor-Leste de mercados e produtos de financiamento que utilizem bens móveis como objeto de garantia, dentro dos limites das suas atribuições e competências legais."
+   }
+  },
+  {
+   "id": "TL-H267-A75",
+   "no": 75,
+   "noLabel": {
+    "pt": "Artigo 75.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES  TRANSITÓRIAS  E  FINAIS"
+   },
+   "heading": {
+    "pt": "Aplicação no tempo"
+   },
+   "text": {
+    "pt": "1.   A presente lei aplica-se aos direitos de garantia constituídos após a sua entrada em vigor.\n2.  As relações jurídicas de garantia que existam à data da entrada em vigor da presente lei e quaisquer disputas relativas a direitos de garantia constituídos antes dessa data são regidas pela legislação anterior aplicável.\n3.   Sem prejuízo do disposto nos números anteriores, as partes nos acordos de garantia existentes à data da entrada em vigor da presente lei podem acordar no seu registo na Central de Registo de Informações sobre Garantias Mobiliárias, passando a aplicar-se-lhes a presente lei a partir da data do registo."
+   }
+  },
+  {
+   "id": "TL-H267-A76",
+   "no": 76,
+   "noLabel": {
+    "pt": "Artigo 76.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES  TRANSITÓRIAS  E  FINAIS"
+   },
+   "heading": {
+    "pt": "Direito subsidiário"
+   },
+   "text": {
+    "pt": "Aos casos omissos aplicam-se subsidiariamente o Código Civil e o Código de Processo Civil.\nSérie I, N.° 31 B"
+   }
+  },
+  {
+   "id": "TL-H267-A77",
+   "no": 77,
+   "noLabel": {
+    "pt": "Artigo 77.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES  TRANSITÓRIAS  E  FINAIS"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "1.  Sem prejuízo do disposto no número seguinte, a presente lei entra em vigor um ano após a sua publicação.\n2.   Os artigos 73.º e 74.º entram em vigor no dia seguinte ao da publicação da presente lei."
+   }
+  }
+ ]
+}

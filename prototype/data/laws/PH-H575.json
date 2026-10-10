@@ -1,0 +1,74 @@
+{
+ "id": "PH-H575",
+ "title": {
+  "zh": null,
+  "en": "An Act to Insert a New Section Between Sections Two Hundred and Sixty and Two Hundred and Sixty-One of Commonwealth Act Numbered Four Hundred and Sixty-Six, Otherwise Known as the National Internal Revenue Code, and to Amend Section Two Hundred Sixty-One of the Same Code.",
+  "orig": "An Act to Insert a New Section Between Sections Two Hundred and Sixty and Two Hundred and Sixty-One of Commonwealth Act Numbered Four Hundred and Sixty-Six, Otherwise Known as the National Internal Revenue Code, and to Amend Section Two Hundred Sixty-One of the Same Code."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p07",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1950-09-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 586",
+ "officialCode": null,
+ "topics": [
+  "tax"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2252,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1950/ra_586_1950.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1950/ra_586_1950.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文存在同号重出的条款（第 2 条）：该处官方页面确有两段均标同一 Section 号，本库照录其 `no` 值（不改动官方编号），条文 `id` 以 `_2`「_3」后缀保证唯一。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H575-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There is hereby inserted between sections two hundred and sixty and two hundred and sixty-one of Commonwealth Act Numbered Four hundred and sixty-six, otherwise known as the National Internal Revenue Code, a new section to be known as section two hundred and sixty-A to read as follows:\n\"Section 260-A. Tax on winnings. - Every person who wins in horse races or Jai-Alai shall pay a tax equivalent to two and one-half per centum of his winnings or \"dividends\", such tax to be based on the actual amount paid to him for every winning ticket after deducting the cost of the ticket. The tax herein prescribed shall be deducted from the \"dividends\" corresponding to each winning ticket and withheld by the operator, manager, or person in charge of the horse races or Jai-Alai before paying the \"dividends\" to the person entitled thereto.\n\"The operator, manager, or person in charge of horse races or Jai-Alai shall, within ten days from the date the tax was deducted and withheld in accordance with the first paragraph hereof, file a true and correct return with the Collector of Internal Revenue in the manner or form to be prescribed by the Secretary of Finance, and pay within the same period the total amount of tax so deducted and withheld.\n\"If the tax herein provided is not paid within the time prescribed above, or in case of willful neglect to file the return within the period prescribed herein, or in case a false or fraudulent return is willfully made, there shall be added to the tax or to the deficiency tax, in case any payment has been made on the basis of such return before the discovery of the falsity or fraud, the corresponding surcharges provided in section two hundred and sixty of this code.\""
+   }
+  },
+  {
+   "id": "PH-H575-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section two hundred and sixty-one of Commonwealth Act Numbered Four hundred and sixty-six is hereby amended to read as follows:\n\"Section 261. Amusement tax payable by charitable institutions. - Where the admission fees or charges are collected by or for and in behalf of a duly registered charitable institution or association, the tax on such admission fees or charges shall be fifty per centum of the rates provided in section two hundred and sixty of this Code.\""
+   }
+  },
+  {
+   "id": "PH-H575-A2_2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, September 22, 1950."
+   }
+  }
+ ]
+}

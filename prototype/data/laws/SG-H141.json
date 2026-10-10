@@ -1,0 +1,742 @@
+{
+ "id": "SG-H141",
+ "title": {
+  "zh": null,
+  "en": "Air Navigation (119 — Air Operator Certification) Regulations 2018",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p02",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ANA1966-S443-2018",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 45,
+ "chars": 45632,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ANA1966-S443-2018?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 45 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 3 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H141-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Air Navigation (119 — Air Operator Certification) Regulations 2018 and come into operation on 1 October 2018."
+   }
+  },
+  {
+   "id": "SG-H141-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. Any term in these Regulations that is defined in the First Schedule to the Air Navigation (91 — General Operating Rules) Regulations 2018 (G.N. No. S 441/2018) has the meaning given to that term in that Schedule unless the term is otherwise defined in the First Schedule to these Regulations."
+   }
+  },
+  {
+   "id": "SG-H141-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Application of these Regulations"
+   },
+   "text": {
+    "en": "3. These Regulations apply to any person engaged in, or intending to engage in, continuing operations for the purpose of commercial air transport under either or both of the following:\n(a)the Air Navigation (121 — Commercial Air Transport by Large Aeroplanes) Regulations 2018 (G.N. No. S 444/2018);\n(b)the Air Navigation (135 — Commercial Air Transport by Helicopters and Small Aeroplanes) Regulations 2018 (G.N. No. S 445/2018)."
+   }
+  },
+  {
+   "id": "SG-H141-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Requirement for air operator certificate"
+   },
+   "text": {
+    "en": "4. A person, whose principal place of business is in Singapore, must not operate any aircraft for the purpose of commercial air transport except under and in accordance with an air operator certificate granted under these Regulations."
+   }
+  },
+  {
+   "id": "SG-H141-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Application for, or to renew, air operator certificate"
+   },
+   "text": {
+    "en": "5.—(1) A person applying for an air operator certificate (called in this Division an applicant) must —\n(a)provide the Authority with the particulars, information and documents specified in paragraph (2); and\n(b)pay to the Authority a non‑refundable application fee, if specified in the Second Schedule.\n(2) The particulars, information and documents required for an application mentioned in paragraph (1) are —\n(a)the name of the applicant;\n(b)the address of the applicant in Singapore;\n(c)the information that is required to be included in the applicant’s operations specifications;\n(d)the applicant’s —\n(i)Operations Manual;\n(ii)Training Manual;\n(iii)Maintenance Control Manual;\n(iv)aircraft flight manual and aircraft performance data;\n(v)Safety Management System Manual or equivalent; and\n(vi)quality system manual or equivalent; and\n(e)any other manuals, documents or particulars relating to the applicant as may be required by the Authority to decide the application.\n(3) The application mentioned in paragraph (1) must be made to the Authority at least 6 months before the intended date of commencement of the applicant’s commercial air transport operations (or such shorter period as the Authority may specify in any particular case).\n(4) A holder of an air operator certificate (called in these Regulations an AOC holder) applying to renew the air operator certificate must —\n(a)provide the Authority with the particulars, information and documents mentioned in paragraph (2) that are different from those provided for the grant of the existing air operator certificate; and\n(b)make the application to the Authority at least 30 working days before the date of expiry of the existing air operator certificate."
+   }
+  },
+  {
+   "id": "SG-H141-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Grant of air operator certificate"
+   },
+   "text": {
+    "en": "6.—(1) Upon receiving an application under regulation 5, the Authority may —\n(a)refuse the application; or\n(b)grant or renew (as the case may be) the air operator certificate subject to such conditions as the Authority considers fit.\n(2) For the purposes of section 15(2)(b)(iii) of the Act, the other relevant requirements for the grant or renewal of an air operator certificate are as follows:\n(a)the principal place of business of the applicant or AOC holder (as the case may be) is in Singapore;\n(b)the applicant or AOC holder (as the case may be) is able to meet the obligations required of an AOC holder as specified in —\n(i)these Regulations;\n[S 614/2026 wef 16/09/2026]\n(ii)the Air Navigation (121 — Commercial Air Transport by Large Aeroplanes) Regulations 2018 or the Air Navigation (135 — Commercial Air Transport by Helicopters and Small Aeroplanes) Regulations 2018, or both (as applicable);\n(iii)the Air Navigation (92 — Carriage of Dangerous Goods) Regulations 2022 (G.N. No. S 998/2022), if applicable; and\n[S 614/2026 wef 16/09/2026]\n(iv)the Air Navigation (99 — Breath Testing for Alcohol) Regulations 2019 (G.N. No. S 177/2019), if applicable;\n[S 614/2026 wef 16/09/2026]\n(c)the applicant or AOC holder (as the case may be) is competent to safely operate aircraft of the type or types specified in the application under regulation 5 on flights of the description and for the purposes so specified, having regard to the applicant’s or AOC holder’s (as the case may be) previous conduct and experience in particular.\n[S 36/2026 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H141-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Validity of air operator certificate"
+   },
+   "text": {
+    "en": "7. An air operator certificate that is granted or renewed under regulation 6 remains in force for the period specified in the certificate unless the period is shortened upon application or the certificate is earlier suspended or revoked by the Authority."
+   }
+  },
+  {
+   "id": "SG-H141-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Responsibility to ensure compliance with Air Navigation (91 — General Operating Rules) Regulations 2018"
+   },
+   "text": {
+    "en": "8. An AOC holder must establish and implement systems, policies and procedures to ensure, support and facilitate the compliance, by the pilot‑in‑command of any aircraft operated by the AOC holder, with every regulation in the Air Navigation (91 — General Operating Rules) Regulations 2018 that requires the pilot‑in‑command’s compliance."
+   }
+  },
+  {
+   "id": "SG-H141-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Operations specifications"
+   },
+   "text": {
+    "en": "9.—(1) An AOC holder must comply with the operations specifications associated with the air operator certificate.\n(2) The operations specifications, issued by the Authority when the air operator certificate is granted or renewed under regulation 6(1)(b), may be varied by the Authority —\n(a)when the air operator certificate is varied under regulation 31(1) or (4); or\n[S 673/2022 wef 15/08/2022]\n(b)when the Authority is satisfied that such variation is necessary for the safety of air navigation or public safety, or both."
+   }
+  },
+  {
+   "id": "SG-H141-A9.001",
+   "no": 9.001,
+   "noLabel": {
+    "en": "9A."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "text": {
+    "en": "9A. [Deleted by S 36/2026 wef 01/02/2026]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H141-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Oversight activities by Authority"
+   },
+   "text": {
+    "en": "10.—(1) Subject to paragraph (2), where it is necessary for an applicant or AOC holder (as the case may be) to undergo any audit, assessment, examination, test, inspection or investigation (called in this regulation a function) for any purpose of these Regulations, as a result of which it is necessary for a safety inspector of the Authority to travel outside Singapore to perform a function, the applicant or AOC holder (as the case may be) must pay —\n(a)the fee for that function, if specified in the Second Schedule;\n(b)the daily fee specified in the Second Schedule for each day or part of a day that the safety inspector is outside Singapore performing a function; and\n(c)a charge equal to any additional expense reasonably incurred by the Authority.\n(2) An applicant is not required to pay the daily fee mentioned in paragraph (1)(b) in respect of a safety inspector’s conduct of any function if the applicant is required to pay a fee under regulation 5(1)(b)."
+   }
+  },
+  {
+   "id": "SG-H141-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Fleet composition requirements"
+   },
+   "text": {
+    "en": "11.—(1) Subject to paragraph (2), the number of foreign registered aircraft operated by an AOC holder must not at any time exceed 25% of the total number of aircraft operated by the AOC holder (rounded up to a whole number).\n(2) Unless the Director‑General of Civil Aviation otherwise permits, an AOC holder must —\n(a)operate at least one Singapore registered aircraft for each aircraft type operated; and\n(b)have management and operational control of at least one Singapore registered aircraft at all times."
+   }
+  },
+  {
+   "id": "SG-H141-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Personnel requirements"
+   },
+   "text": {
+    "en": "12.—(1) An AOC holder must employ or otherwise engage a fit and proper person as an accountable manager who has the authority within the AOC holder’s organisation to ensure that all activities undertaken by the organisation are financed and carried out in accordance with —\n(a)the air operator certificate and its associated operations specifications;\n(b)these Regulations;\n(c)the Air Navigation (121 — Commercial Air Transport by Large Aeroplanes) Regulations 2018 or the Air Navigation (135 — Commercial Air Transport by Helicopters and Small Aeroplanes) Regulations 2018, or both (as applicable);\n[S 614/2026 wef 16/09/2026]\n(d)the Air Navigation (98 — Special Operations) Regulations 2018 (G.N. No. S 442/2018), if applicable;\n[S 614/2026 wef 16/09/2026]\n(e)the Air Navigation (92 — Carriage of Dangerous Goods) Regulations 2022, if applicable; and\n[S 614/2026 wef 16/09/2026]\n(f)the Air Navigation (99 — Breath Testing for Alcohol) Regulations 2019, if applicable.\n[S 614/2026 wef 16/09/2026]\n(2) The accountable manager appointed under paragraph (1) is responsible for ensuring that —\n(a)the staffing, procedures and practices of the AOC holder’s organisation are such that flights can be conducted safely across the whole of the intended route network; and\n(b)the AOC holder’s organisation complies with the requirements of —\n(i)these Regulations;\n(ii)the Air Navigation (121 — Commercial Air Transport by Large Aeroplanes) Regulations 2018 or the Air Navigation (135 — Commercial Air Transport by Helicopters and Small Aeroplanes) Regulations 2018, or both (as applicable);\n[S 614/2026 wef 16/09/2026]\n(iii)the Air Navigation (98 — Special Operations) Regulations 2018, if applicable;\n[S 614/2026 wef 16/09/2026]\n(iv)the Air Navigation (92 — Carriage of Dangerous Goods) Regulations 2022, if applicable; and\n[S 614/2026 wef 16/09/2026]\n(v)the Air Navigation (99 — Breath Testing for Alcohol) Regulations 2019, if applicable.\n[S 614/2026 wef 16/09/2026]\n(3) An AOC holder must employ or otherwise engage from individuals who are fit and proper persons, persons who —\n(a)are responsible for ensuring that the AOC holder’s organisation complies with its Operations Manual, and other procedures or manuals, as approved by the Director‑General of Civil Aviation;\n(b)are responsible for the functions mentioned in paragraph (5); and\n(c)are responsible to the accountable manager.\n(4) An AOC holder must employ or otherwise engage sufficient personnel to plan, perform, supervise, inspect and certify the operations listed in the procedures and programmes specified in the flight safety documents system.\n(5) Except as provided for in paragraph (6), each person mentioned in paragraph (3) must be responsible for only one of the following functions:\n(a)air transport operations, which includes flight operations and the supporting ground operations;\n(b)crew training and crew competency assessment;\n(c)continuing airworthiness management;\n(d)the safety management system, as described in regulation 16;\n(e)the quality system, as described in regulation 19.\n(6) A person mentioned in paragraph (3) may be concurrently responsible for those functions stated in paragraph (5)(d) and (e) if the Director‑General of Civil Aviation permits the person to have concurrent responsibilities as a consequence of the size and expected scope of the AOC holder’s organisation.\n(7) Every person mentioned in paragraph (3) must meet such competency requirements as the Director‑General of Civil Aviation may specify.\n(8) An AOC holder must obtain the Director‑General of Civil Aviation’s approval before employing or otherwise engaging any person mentioned in paragraphs (1) and (3) for the AOC holder’s organisation."
+   }
+  },
+  {
+   "id": "SG-H141-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Personnel competency requirements"
+   },
+   "text": {
+    "en": "13.—(1) An AOC holder must establish procedures —\n(a)to do an initial assessment of, and to provide the training to maintain, the competence of all personnel who are authorised to plan, perform, supervise, inspect, or certify the air transport operations listed in the AOC holder’s Operations Manual; and\n(b)to ensure that all personnel mentioned in sub‑paragraph (a) are notified of the scope, duties and functions of their appointments.\n(2) An AOC holder may contract a training organisation to perform the functions mentioned in paragraph (1)(a) if the training organisation is acceptable to the Director‑General of Civil Aviation.\n(3) An AOC holder that contracts with a training organisation in accordance with paragraph (2) must include the following details in the AOC holder’s Operations Manual:\n(a)a full description of the functions to be undertaken by the training organisation;\n(b)the scope of training or assessment, or both, to be carried out by the training organisation;\n(c)the person in the AOC holder’s organisation who is responsible for the management of the contract with the training organisation."
+   }
+  },
+  {
+   "id": "SG-H141-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Resource requirements"
+   },
+   "text": {
+    "en": "14.—(1) An AOC holder must provide resources that are adequate and appropriate for the performance, and demands, of the operations listed in the AOC holder’s Operations Manual.\n(2) The resources required under paragraph (1) include, but are not limited to —\n(a)accommodation, offices, workshops, hangars, and buildings;\n(b)equipment, tools, material, training aids, data, and documentation; and\n(c)the employment of qualified personnel appropriate to the performance of the operations, such as —\n(i)licensed personnel such as pilots and maintenance engineers; and\n(ii)suitably qualified personnel for training and testing operational personnel to ensure their competency in the provision of the operations listed in the AOC holder’s Operations Manual.\n(3) An AOC holder must ensure that the workplace and its surrounding environment —\n(a)are appropriate for the tasks to be performed; and\n(b)offer protection from weather elements, where appropriate."
+   }
+  },
+  {
+   "id": "SG-H141-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Provision of information to Authority"
+   },
+   "text": {
+    "en": "15.—(1) An AOC holder who intends to vary its air operator certificate by introducing a new aircraft type or a new engine type to Singapore must submit to the Director‑General of Civil Aviation such information about the new aircraft type or engine type as the Director‑General of Civil Aviation may require, including information about —\n(a)the workings and technical specifications of the new aircraft type or new engine type, as the case may be;\n(b)the size of the AOC holder’s fleet for the new aircraft type or for the aircraft type on which the new engine type is to be installed, as the case may be; and\n(c)the type of operations that the new aircraft type or the aircraft on which the new engine type is installed (as the case may be) will be involved in.\n(2) The information to be submitted to the Director‑General of Civil Aviation under paragraph (1) may be provided by the AOC holder through the provision of appropriate training for the Authority’s officers on the new aircraft type or engine type to be introduced to Singapore."
+   }
+  },
+  {
+   "id": "SG-H141-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Safety management system"
+   },
+   "text": {
+    "en": "16.—(1) An AOC holder must establish and maintain a safety management system —\n(a)that consists of all the components and elements set out in the Third Schedule; and\n(b)that is commensurate to the size of the AOC holder’s organisation and the complexity of the AOC holder’s operations.\n(2) An AOC holder must describe the safety management system in such documents as the Director‑General of Civil Aviation may require.\n(3) An AOC holder must obtain the acceptance of the Director‑General of Civil Aviation for —\n(a)the safety management system mentioned in paragraph (1);\n(b)the documents mentioned in paragraph (2); and\n(c)any change or amendment to the AOC holder’s safety management system before making that change or amendment."
+   }
+  },
+  {
+   "id": "SG-H141-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Flight data analysis"
+   },
+   "text": {
+    "en": "17.—(1) An AOC holder must establish and maintain a flight data analysis programme if the AOC holder operates at least one aeroplane with an MCTOM exceeding 15,000 kg.\n[S 910/2024 wef 28/11/2024]\n(2) The flight data analysis programme established in accordance with paragraph (1) —\n(a)must be integrated into the AOC holder’s safety management system; and\n(b)must be non‑punitive and contain adequate safeguards to protect the source of the data.\n(3) Nothing in this regulation prohibits an AOC holder from establishing a flight data analysis programme for any other aircraft."
+   }
+  },
+  {
+   "id": "SG-H141-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Flight safety documents system"
+   },
+   "text": {
+    "en": "18.—(1) An AOC holder must establish and maintain a flight safety documents system for the use and guidance of all operations personnel as part of the AOC holder’s safety management system.\n(2) The flight safety documents system established in accordance with paragraph (1) —\n(a)must contain all information necessary for flight and ground operations;\n(b)must comprise at least the AOC holder’s Operations Manual and the AOC holder’s Maintenance Control Manual; and\n(c)must be consistent with applicable aviation safety subsidiary legislation, manufacturers’ requirements and human factors principles."
+   }
+  },
+  {
+   "id": "SG-H141-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Quality system"
+   },
+   "text": {
+    "en": "19.—(1) An AOC holder must establish a quality system manual for the acceptance of the Director‑General of Civil Aviation.\n(2) The quality system manual established in accordance with paragraph (1) must describe a quality system that —\n(a)monitors the AOC holder’s compliance with applicable aviation safety subsidiary legislation, requirements and procedures;\n(b)monitors the adequacy of such aviation safety subsidiary legislation, requirements and procedures to ensure safe operational practices and airworthy aircraft; and\n(c)includes a quality assurance programme that contains procedures designed to verify that all of the AOC holder’s operations and activities are conducted in accordance with the applicable aviation safety subsidiary legislation, requirements, standards and procedures.\n(3) An AOC holder must appoint an employee of the AOC holder’s organisation to be responsible for the quality system mentioned in paragraph (2).\n(4) The procedures in the quality assurance programme mentioned in paragraph (2)(c) must cover at least all the following elements:\n(a)use of internal or external auditors;\n(b)scope of audit to be conducted;\n(c)responsibilities of the auditor;\n(d)quality audit which must include inspections of at least the areas listed in paragraph (5);\n(e)audit scheduling;\n(f)monitoring and corrective actions;\n(g)management evaluation;\n(h)audit record keeping.\n(5) In paragraph (2)(c), “operations and activities” includes, but are not limited to the following:\n(a)flight operations;\n(b)fuel quality and fuelling operations;\n(c)ground de‑icing or anti‑icing operations, if applicable;\n(d)flight and ground support services, including contracted services;\n(e)load control of aircraft;\n(f)maintenance of aircraft;\n(g)technical standards;\n(h)training standards;\n(i)the flight safety documents system.\n(6) An AOC holder must obtain the acceptance of the Director‑General of Civil Aviation before making any change or amendment to the quality system manual."
+   }
+  },
+  {
+   "id": "SG-H141-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Control of documentation"
+   },
+   "text": {
+    "en": "20.—(1) An AOC holder must establish procedures —\n(a)to control, amend, and distribute its operational, safety, and maintenance data; and\n(b)to control all of the documentation required by —\n(i)the Singapore Airworthiness Requirements;\n(ii)the Air Navigation (91 — General Operating Rules) Regulations 2018; and\n(iii)the Air Navigation (121 — Commercial Air Transport by Large Aeroplanes) Regulations 2018 or the Air Navigation (135 — Commercial Air Transport by Helicopters and Small Aeroplanes) Regulations 2018, or both (as applicable).\n(2) The procedures established in accordance with paragraph (1) must require —\n(a)all documentation (such as charts, manuals, drawings and forms) to be reviewed and authorised by appropriate personnel before their issue;\n(b)any proposed amendment to the documentation mentioned in sub‑paragraph (a) to be reviewed and approved by the appropriate personnel before being made;\n(c)current versions of all relevant documents to be available to the AOC holder’s personnel at all locations where the personnel require access to such documentation;\n(d)the current version of each document to be identifiable such that the use of superseded material is precluded; and\n(e)all obsolete documentation to be promptly removed from all points of issue or use.\n(3) The documentation mentioned in paragraph (1)(b) must be in a form acceptable to the Director‑General of Civil Aviation.\n[S 211/2020 wef 01/04/2020]"
+   }
+  },
+  {
+   "id": "SG-H141-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Operations Manual"
+   },
+   "text": {
+    "en": "21.—(1) An AOC holder must establish an Operations Manual for the approval of the Director‑General of Civil Aviation.\n(2) An AOC holder must ensure that the development of its Operations Manual takes into account human factors principles.\n(3) The Operations Manual established for the purposes of paragraph (1) must be in English and must include the following:\n(a)a statement by the AOC holder confirming that the Operations Manual —\n(i)accurately defines the AOC holder’s organisation and the operating procedures that the AOC holder’s personnel are required to comply with at all times; and\n(ii)demonstrates the means and methods of the AOC holder’s organisation for ensuring ongoing compliance with these Regulations and the applicable requirements of the Act;\n(b)the title and name of the accountable manager;\n(c)for every person employed or engaged by the AOC holder under regulation 12(3) —\n(i)the title and full name of that person; and\n(ii)the duties and responsibilities of that person, including any matter for which that person is responsible for dealing directly with the Director‑General of Civil Aviation on behalf of the AOC holder’s organisation;\n(d)for every location where the AOC holder has operations personnel based for the purpose of providing air transport operations —\n(i)a summary of the scope of the AOC holder’s activities at that location; and\n(ii)a summary of the AOC holder’s staffing structure for that location;\n(e)an organisation chart showing the lines of responsibility of every person employed or engaged by the AOC holder under regulation 12(3) and extending to every location where operations personnel are based for the purpose of providing air transport operations;\n(f)the details of the principal operating base, the main maintenance base and every other operating base that may be used;\n(g)the details of the resources required under regulation 14;\n(h)the details of the procedures necessary to ensure compliance with —\n(i)these Regulations;\n(ii)the Air Navigation (121 — Commercial Air Transport by Large Aeroplanes) Regulations 2018 or the Air Navigation (135 — Commercial Air Transport by Helicopters and Small Aeroplanes) Regulations 2018, or both (as applicable);\n[S 614/2026 wef 16/09/2026]\n(iii)the Air Navigation (98 — Special Operations) Regulations 2018, if applicable;\n(iv)the Air Navigation (92 — Carriage of Dangerous Goods) Regulations 2022, if applicable; and\n[S 614/2026 wef 16/09/2026]\n(v)the Air Navigation (99 — Breath Testing for Alcohol) Regulations 2019, if applicable;\n[S 614/2026 wef 16/09/2026]\n(i)for every aircraft type operated by the AOC holder, the aircraft’s flight manual or equivalent;\n(j)the information on the maintenance arrangements;\n(k)the details of the procedures for the AOC holder’s compliance with the laws of any State outside Singapore in which the AOC holder operates;\n(l)the procedures to control, amend and distribute the AOC holder’s Operations Manual, including the distribution of the initial copy and all subsequent amendments made to the Operations Manual;\n(m)the procedures that are specified in these Regulations to be included in the AOC holder’s Operations Manual.\n(4) An AOC holder must update its approved Operations Manual in a timely manner and maintain it as necessary, except that no change or amendment to the scope of detail for any matter listed under paragraph (3) may be made without the approval of the Director‑General of Civil Aviation.\n(5) An AOC holder must ensure that every aircraft it operates is operated in accordance with the approved Operations Manual."
+   }
+  },
+  {
+   "id": "SG-H141-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Maintenance Control Manual"
+   },
+   "text": {
+    "en": "22.—(1) An AOC holder must establish a Maintenance Control Manual for the approval of the Director-General of Civil Aviation.\n(2) An AOC holder must develop its Maintenance Control Manual —\n(a)to ensure the continuing airworthiness of the AOC holder’s aircraft (including airframes, aircraft engines, propellers, rotors, appliances, emergency equipment and parts); and\n(b)to take into account human factors principles.\n(3) The Maintenance Control Manual established for the purposes of paragraph (1) must be in English and must include the following details:\n(a)the facilities required for maintenance of the AOC holder’s aircraft;\n(b)the maintenance personnel required and their individual responsibilities;\n(c)the procedures required to ensure the continuing airworthiness of any aircraft operated by the AOC holder, in accordance with —\n(i)the Air Navigation Order (O 2);\n(ii)the Air Navigation (121 — Commercial Air Transport by Large Aeroplanes) Regulations 2018 or the Air Navigation (135 — Commercial Air Transport by Helicopters and Small Aeroplanes) Regulations 2018, or both (as applicable); and\n(iii)the Air Navigation (98 — Special Operations) Regulations 2018, if applicable;\n(d)the procedures required to ensure that the Maintenance Control Manual remains effective in maintaining aircraft in an airworthy condition;\n(e)the procedures to control, amend, and distribute the Maintenance Control Manual, including the distribution of the initial copy and all subsequent amendments made to the Maintenance Control Manual.\n(4) The Maintenance Control Manual established for the purposes of paragraph (1) must also contain the details prescribed in either or both, as applicable:\n(a)regulation 183 of the Air Navigation (121 — Commercial Air Transport by Large Aeroplanes) Regulations 2018;\n(b)regulation 176 of the Air Navigation (135 — Commercial Air Transport by Helicopters and Small Aeroplanes) Regulations 2018.\n(5) An AOC holder must organise its Maintenance Control Manual in a manner that is acceptable to the Director‑General of Civil Aviation.\n(6) An AOC holder must update its approved Maintenance Control Manual in a timely manner, and maintain it as necessary, but no change or amendment to the scope of detail for any matter listed under paragraph (3) may be made without the approval of the Director‑General of Civil Aviation."
+   }
+  },
+  {
+   "id": "SG-H141-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Proving flights or tests"
+   },
+   "text": {
+    "en": "23.—(1) Upon notification from the Director‑General of Civil Aviation, an AOC holder must perform such proving flights that are representative of the AOC holder’s operations to satisfy the Director‑General of Civil Aviation that the AOC holder is able to meet the relevant prescribed requirement.\n(2) A proving flight mentioned in paragraph (1) must be conducted in a manner acceptable to the Director‑General of Civil Aviation.\n(3) An AOC holder must ensure that any aircraft that is used for a proving flight only carries —\n(a)the necessary number of crew members; and\n(b)any other person who —\n(i)is receiving familiarisation or training;\n(ii)is gaining line operating flight time; or\n(iii)is authorised to represent the Authority.\n(4) In this regulation, “proving flights” includes proving tests and demonstrations."
+   }
+  },
+  {
+   "id": "SG-H141-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Records — personnel"
+   },
+   "text": {
+    "en": "24.—(1) An AOC holder must keep and maintain an accurate and up‑to‑date personnel record for every member of its personnel —\n(a)who requires a licence or rating for the performance of their duties; or\n(b)who exercises an authorisation granted by the AOC holder.\n(2) For every person whom an AOC holder is required to keep and maintain a personnel record under paragraph (1), the record must contain the following information:\n(a)the person’s full name;\n(b)the person’s base of operations;\n(c)the person’s relevant experience, qualifications and training;\n(d)the person’s medical certificates, where relevant;\n(e)for a person described by paragraph (1)(a), the scope, validity, and currency of the person’s licence or rating;\n(f)for a person described by paragraph (1)(b), the authorisation granted by the AOC holder.\n(3) An AOC holder must retain the personnel record for a period of one year starting on the date after any person previously described in paragraph (1)(a) ceases to perform any duties requiring a licence or rating."
+   }
+  },
+  {
+   "id": "SG-H141-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Records — resources"
+   },
+   "text": {
+    "en": "25.—(1) An AOC holder must ensure that an accurate and up‑to‑date record is made of the details of all testing, checking and calibrations of the safety‑critical resources used to carry out the operations specified in the air operator certificate.\n(2) An AOC holder must retain the record of details required under paragraph (1) for a period of 2 years starting on the date after the record was made."
+   }
+  },
+  {
+   "id": "SG-H141-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Reporting of, and investigation into, reportable safety matters and occurrences"
+   },
+   "text": {
+    "en": "26.—(1) An AOC holder must obtain the acceptance of the Director‑General of Civil Aviation for the procedures established by the AOC holder —\n(a)to report reportable safety matters to the Authority, as required under regulation 50 of the Air Navigation (91 — General Operating Rules) Regulations 2018;\n(b)to report maintenance‑related occurrences to the Authority, as specified in the Singapore Airworthiness Requirements;\n(c)to ensure that the relevant design organisation for an aircraft type, or for each modification to the aircraft type, operated by the AOC holder receives adequate reports of any occurrence involving an aircraft operated by the AOC holder; and\n(d)to conduct the necessary investigations after a reportable safety matter or maintenance‑related occurrence occurs.\n(2) The procedures required under paragraph (1) must specify the roles and responsibilities of all personnel who are involved in —\n(a)coordinating action for the reporting of reportable safety matters or maintenance‑related occurrences;\n(b)overseeing the necessary investigations; or\n(c)communicating with the Director‑General of Civil Aviation."
+   }
+  },
+  {
+   "id": "SG-H141-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Continuing operations"
+   },
+   "text": {
+    "en": "27. For the duration of its air operator certificate, an AOC holder must comply with —\n(a)the requirements of Division 2;\n(b)all the procedures and programmes detailed in its flight safety documents system; and\n(c)the air operator certificate and associated operations specifications, including the conditions and authorisations granted therein."
+   }
+  },
+  {
+   "id": "SG-H141-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Flight operation requirements"
+   },
+   "text": {
+    "en": "28. For every aircraft operated by an AOC holder, for an operation that is not a commercial air transport operation, the AOC holder must establish procedures —\n(a)that are consistent with the AOC holder’s safety management system; and\n(b)that are incorporated into the AOC holder’s Operations Manual before the Operations Manual is submitted to the Director‑General of Civil Aviation for approval."
+   }
+  },
+  {
+   "id": "SG-H141-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Leasing and interchange of aircraft"
+   },
+   "text": {
+    "en": "29. An AOC holder must obtain the approval of the Director‑General of Civil Aviation before leasing any of the AOC holder’s aircraft to, or interchanging any of the AOC holder’s aircraft with, another person."
+   }
+  },
+  {
+   "id": "SG-H141-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Business or trading names"
+   },
+   "text": {
+    "en": "30.—(1) An AOC holder must conduct its commercial air transport operations using the trading or business name that appears on its air operator certificate.\n(2) Before operating any aircraft for a commercial air transport operation, an AOC holder must display its trading or business name on the aircraft such that the AOC holder’s trading or business name is clearly identifiable, visible, and legible to a passenger preparing to board the aircraft.\n(3) When advertising its commercial air transport operations, an AOC holder must clearly indicate the business or trading name that appears on its air operator certificate."
+   }
+  },
+  {
+   "id": "SG-H141-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Variation to air operator certificate"
+   },
+   "text": {
+    "en": "31.—(1) An AOC holder must obtain the approval of the Authority before making any changes to —\n(a)the accountable manager;\n(b)any person employed or engaged by the AOC holder under regulation 12(3);\n(c)any of the locations specified in the AOC holder’s Operations Manual in accordance with regulation 21(3)(d); and\n(d)the scope of the air operator certificate.\n(2) An AOC holder must apply to the Authority for the approval required under paragraph (1) at least 30 working days before the effective date of the change.\n(3) The Authority may approve the AOC holder’s application under paragraph (2) subject to such conditions as the Authority considers appropriate.\n(4) Despite paragraphs (1), (2) and (3), if an AOC holder notifies the Authority of any change or intended change to —\n(a)the AOC holder’s name (including a business or trading name);\n(b)the AOC holder’s address; or\n(c)the AOC holder’s telephone or fax number, email or any other contact detail,\nthe Authority may vary the AOC holder’s air operator certificate according to the notification.\n[S 673/2022 wef 15/08/2022]"
+   }
+  },
+  {
+   "id": "SG-H141-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Changes to manuals"
+   },
+   "text": {
+    "en": "32. Without prejudice to the other provisions in these Regulations, an AOC holder must, within such time as the Director‑General of Civil Aviation may specify, make such amendments or additions to any document (including the AOC holder’s Operations Manual or Maintenance Control Manual) as the Director‑General of Civil Aviation considers necessary for the purpose of ensuring —\n(a)the safety of the aircraft or of any person or property carried therein; or\n(b)the safety, efficiency or regularity of air navigation."
+   }
+  },
+  {
+   "id": "SG-H141-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Emergency situation action plans"
+   },
+   "text": {
+    "en": "33.—(1) An AOC holder must ensure that plans are developed for the handling of any crisis or emergency that may occur when an aircraft operated by the AOC holder is in flight or on the ground, so as to minimise the risk of injury to any person.\n(2) When developing the plans required in paragraph (1), the following data and information must be taken into account:\n(a)the type and length of routes over which the AOC holder’s operations are carried out;\n(b)the aerodrome’s ground facilities;\n(c)the aerodrome’s emergency planning and emergency facilities;\n(d)the air traffic control facilities;\n(e)the aircraft type, seating configuration, and payload of any aircraft operated by the AOC holder that is likely to be involved;\n(f)such other information considered relevant by the AOC holder.\n(3) Each plan required in paragraph (1) must include procedures for the compliance of the AOC holder’s management personnel when those personnel become aware of an emergency situation arising in an aircraft during flight that requires an immediate decision and action.\n(4) The procedures required under paragraph (3) must ensure the AOC holder’s management personnel are able to achieve the following outcomes:\n(a)if the management personnel are able to communicate the emergency situation to the pilot‑in‑command of the aircraft involved —\n(i)the pilot‑in‑command is advised of the emergency;\n(ii)the decision of the pilot‑in‑command is ascertained; and\n(iii)the decision is recorded;\n(b)if the management personnel are unable to communicate the emergency situation to the pilot‑in‑command of the aircraft involved —\n(i)an emergency is declared; and\n(ii)the management personnel take such action as the management personnel consider necessary under the circumstances.\n(5) The AOC holder must ensure that appropriate personnel respond in accordance with the plans required in paragraph (1), and the personnel are trained to respond competently during an emergency."
+   }
+  },
+  {
+   "id": "SG-H141-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Restriction or suspension of operation"
+   },
+   "text": {
+    "en": "34. Upon becoming aware of any condition that is a hazard to the safe operation of its aircraft, an AOC holder must restrict or suspend operations as necessary until the risks posed by the hazard have been mitigated to an acceptable level."
+   }
+  },
+  {
+   "id": "SG-H141-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Notification of ceasing operations"
+   },
+   "text": {
+    "en": "35.—(1) If an AOC holder intends to cease its commercial air transport operations, the accountable manager must notify the Authority before operations cease.\n(2) The responsibility in paragraph (1) is non‑delegable.\n(3) An AOC holder that ceases its commercial air transport operations must return its air operator certificate to the Authority as soon as reasonably practicable, but no later than 90 days, after the cessation of its commercial air transport operations.\n[S 614/2026 wef 16/09/2026]"
+   }
+  },
+  {
+   "id": "SG-H141-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 3 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "36.—(1) The Second Schedule sets out the fees for the following:\n(a)the issue, validation, renewal, extension or variation of any certificate, licence or other document (including an application for, or the issue of a copy of, any such document) under these Regulations;\n(b)the undergoing of any audit, inspection or investigation required by these Regulations;\n(c)the grant of any permission or approval required by, or for the purpose of, these Regulations.\n(2) The Director‑General of Civil Aviation may, in any particular case, waive or refund in whole or in part any fee payable under these Regulations where the Director‑General of Civil Aviation thinks fit."
+   }
+  },
+  {
+   "id": "SG-H141-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 3 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Penalties"
+   },
+   "text": {
+    "en": "37.—(1) Subject to paragraphs (2) and (3), where the Authority is of the opinion that an AOC holder is contravening or has contravened —\n(a)any condition of the air operator certificate; or\n(b)any provision in Part 2 other than a provision in regulations 4, 5, 6 and 7,\nthe Authority may direct the AOC holder to pay a financial penalty not exceeding the higher of the following:\n(c)$500,000;\n(d)5% of the AOC holder’s annual revenue derived from the regulated activity.\n(2) Before exercising any power under paragraph (1), the Authority must give written notice to the AOC holder concerned —\n(a)stating that the Authority intends to impose on the AOC holder a financial penalty under this regulation;\n(b)specifying each instance of non‑compliance that is the subject of the financial penalty; and\n(c)specifying the time (being not less than 14 days after the service of notice on the AOC holder) within which written representations may be made to the Authority with respect to the non‑compliance that is the subject of the financial penalty.\n(3) The Authority may, after considering any written representations under paragraph (2)(c), decide to impose such financial penalty under paragraph (1) as the Authority considers appropriate.\n(4) Where the Authority has made any decision under paragraph (3) against any AOC holder, the Authority must serve on the AOC holder concerned a notice of its decision.\n(5) To avoid doubt, this regulation does not affect the operation of section 17, 18 or 19 of the Act.\n[S 36/2026 wef 31/12/2021]\n(6) In this regulation —\n“annual revenue” means the amount of money received by an AOC holder in the calendar year during which the AOC holder contravened —\n(a)a condition of the air operator certificate; or\n(b)a provision in Part 2 (not being a provision in regulation 4, 5, 6 or 7);\n“regulated activity” means the flights or operations conducted by an AOC holder under its air operator certificate."
+   }
+  },
+  {
+   "id": "SG-H141-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 3 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Grant of approvals or acceptances"
+   },
+   "text": {
+    "en": "38.—(1) To avoid doubt, other than an air operator certificate granted or renewed by the Authority under regulation 6, an approval or acceptance that is granted by the Director‑General of Civil Aviation when the AOC holder’s Operations Manual, Maintenance Control Manual or other manual is approved is not an aviation safety instrument.\n(2) Where an application is made for an approval or acceptance granted by the Director‑General of Civil Aviation under these Regulations, the application must —\n(a)be made by the relevant person in such form and manner as the Director‑General of Civil Aviation may specify; and\n(b)provide such information as the Director‑General of Civil Aviation may require.\n(3) The Director‑General of Civil Aviation may grant an approval or acceptance under these Regulations subject to such conditions as the Director‑General of Civil Aviation considers necessary or expedient.\n(4) The Director‑General of Civil Aviation may withdraw an approval or acceptance, or impose, add, delete, substitute or modify conditions in respect of any such approval or acceptance if —\n(a)the Director‑General of Civil Aviation considers such action necessary to ensure compliance with these Regulations or any other applicable aviation safety subsidiary legislation; or\n(b)the Director‑General of Civil Aviation is satisfied that there is or is likely to be a failure to comply with these Regulations or any other applicable aviation safety regulation.\n(5) In this regulation, “relevant person” means the employee of the AOC holder who is responsible for applying to the Authority for a specific approval or acceptance under these Regulations."
+   }
+  },
+  {
+   "id": "SG-H141-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 4 SAVING AND TRANSITIONAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Definition of this Part"
+   },
+   "text": {
+    "en": "39. In this Part, “Air Operator Certificate Requirements” means the Air Operator Certificate Requirements issued under paragraph 87(5) of the Air Navigation Order."
+   }
+  },
+  {
+   "id": "SG-H141-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 4 SAVING AND TRANSITIONAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Subsisting certificates, approvals, etc."
+   },
+   "text": {
+    "en": "40.—(1) Every air operator certificate that is granted or renewed by the Chief Executive under paragraph 87(2) of the Air Navigation Order before 1 October 2018 and is in force on that date is to continue in force for the period specified in the certificate as if the certificate were granted or renewed under regulation 6.\n(2) Every operations manual that is furnished to the Chief Executive under paragraph 25(3) of the Air Navigation Order, by the holder of an air operator certificate mentioned in paragraph (1), before 1 October 2018 is to be treated as an Operations Manual approved by the Director‑General of Civil Aviation under regulation 21.\n(3) Every approval, acceptance or permission stipulated in the Air Operator Certificate Requirements before 1 October 2018 —\n(a)that is included in an operations manual mentioned in paragraph (2); and\n(b)that may be granted under regulation 12(8) and (as applicable) —\n(i)regulations 12, 14, 15, 39, 40, 45, 64, 79, 128, 138, 139, 143, 144, 146, 153, 155, 161, 162, 165, 169, 171, 173 and 178 of the Air Navigation (121 — Commercial Air Transport by Large Aeroplanes) Regulations 2018;\n(ii)regulations 12, 14, 15, 39, 40, 46, 63, 80, 126, 129, 137, 139, 140, 142, 149, 156, 160, 162, 165, 167 and 171 of the Air Navigation (135 — Commercial Air Transport by Helicopters and Small Aeroplanes) Regulations 2018,\nis to continue in force as if the approval, acceptance or permission is granted under the corresponding regulation specified in sub‑paragraph (b) when an Operations Manual is approved by the Director‑General of Civil Aviation under regulation 21.\n(4) Every approval, acceptance or permission stipulated in the Air Operator Certificate Requirements before 1 October 2018, where such approval, acceptance or permission may be granted under regulation 16, 19, 22, 26 or 29, is to continue in force as if the approval, acceptance or permission was granted under the corresponding regulation of these Regulations."
+   }
+  },
+  {
+   "id": "SG-H141-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 4 SAVING AND TRANSITIONAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Pending applications"
+   },
+   "text": {
+    "en": "41.—(1) Where —\n(a)an application under paragraph 87(2) of the Air Navigation Order for the grant or renewal of an air operator certificate; or\n(b)an application for an approval, acceptance or permission stipulated in the Air Operator Certificate Requirements,\nis pending before the Chief Executive or Authority on 1 October 2018, that application is to be treated as if the application was made to the Director‑General of Civil Aviation under regulation 6, 12, 16, 19, 22, 26, 29 or 31 (as applicable).\n(2) Where —\n(a)an operations manual is furnished to the Chief Executive under paragraph 25(3) of the Air Navigation Order in respect of a flight that is to be operated after 1 October 2018, and on that date, less than 30 days have elapsed since the furnishing of the operations manual; or\n(b)an amendment or addition to an operations manual is furnished to the Chief Executive under paragraph 25(3A) or (3B) of the Air Navigation Order immediately before 1 October 2018,\nthe furnishing of the operations manual, amendment or addition is to be treated as if it were provided for the approval of the Director‑General of Civil Aviation under regulation 21."
+   }
+  },
+  {
+   "id": "SG-H141-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulation 2\nDefinitions\n“Air operator certificate” means an aviation safety instrument issued under these Regulations which authorises the holder of the certificate to conduct commercial air transport operations under, either or both of the following regulations:\n(a)the Air Navigation (121 — Commercial Air Transport by Large Aeroplanes) Regulations 2018;\n(b)the Air Navigation (135 — Commercial Air Transport by Helicopters and Small Aeroplanes) Regulations 2018.\n“Flight data analysis” means a process of analysing recorded flight data in order to improve the safety of flight operations.\n“Flight safety documents system” means a set of inter‑related documentation established by an AOC holder to compile and organise information necessary for flight and ground operations.\n“Human factors principles” means the principles that apply to aeronautical design, certification, training, operations and maintenance and which seek safe interface between the human and other system components by giving proper consideration to human performance.\n“Maintenance Control Manual” means a document which describes the procedures of an AOC holder that are necessary to ensure that all scheduled and unscheduled maintenance performed on the AOC holder’s aircraft are on time and are in a controlled and satisfactory manner.\n“Operating base” means a location where an AOC holder exercises operational control and may contain one or more of the facilities for operational scheduling, flight planning or training.\n“Safety management system” means a systematic approach to managing safety, including the necessary organisational structures, accountabilities, policies and procedures of an AOC holder."
+   }
+  },
+  {
+   "id": "SG-H141-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulations 5(1), 10(1) and 36(1)\nFees\n1.Fee for the evaluation of a person’s competency for the Authority to grant an air operator certificate —\n(a)for operations under the Air Navigation (121 — Commercial Air Transport by Large Aeroplanes) Regulations 2018;\n$370,000\n(b)for operations under the Air Navigation (135 — Commercial Air Transport by Helicopters and Small Aeroplanes) Regulations 2018.\n$230,000\n2.Daily fee for a function carried out by a safety inspector —\n(a)where the function is performed on or after 1 April 2018 but before 1 April 2019 —\n(i)by a flight operations safety inspector;\n$1,400\n(ii)by any other safety inspector;\n$700\n(b)where the function is performed on or after 1 April 2019 but before 1 April 2020 —\n(i)by a flight operations safety inspector;\n$1,700\n(ii)by any other safety inspector;\n$900\n(c)where the function is performed on or after 1 April 2020 but before 1 April 2021 —\n(i)by a flight operations safety inspector;\n$2,000\n(ii)by any other safety inspector;\n$1,200\n(d)where the function is performed on or after 1 April 2021 —\n(i)by a flight operations safety inspector;\n$2,400\n(ii)by any other safety inspector.\n$1,500\n3.Issue of a copy or a replacement of any document issued under these Regulations.\n$33 per copy"
+   }
+  },
+  {
+   "id": "SG-H141-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulation 16(1)\nComponents and elements of\nsafety management system\n1. The safety management system (called in this paragraph the SMS) required under regulation 16 must comprise the following components and elements:\nFirst column\nSecond column\nComponents\nElements\n1.Safety policy and objectives\n(a)Management commitment\n(b)Safety accountability and responsibilities\n(c)Appointment of key safety personnel\n(d)Coordination of emergency response planning\n(e)SMS documentation\n2.Safety risk management\n(a)Hazard identification\n(b)Safety risk assessment and mitigation\n3.Safety assurance\n(a)Safety performance monitoring and measurement\n(b)The management of change\n(c)Continuous improvement of the SMS\n4.Safety promotion\n(a)Training and education\n(b)Safety communication\n[S 673/2022 wef 15/08/2022]"
+   }
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": "PH-H3830",
+ "title": {
+  "zh": null,
+  "en": "An Act Creating the Municipality of President Roxas in the Province of Cotabato",
+  "orig": "An Act Creating the Municipality of President Roxas in the Province of Cotabato"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p54",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1967-05-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4869",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1790,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1967/ra_4869_1967.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1967/ra_4869_1967.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3830-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The barrios and sitios of Butsi, Kabunuangan, Salat, Arakan, (part), Kisupaan, Sarayan, Naje, Datu Selio, Basak, Roxas, Labo-o, Idauman, Camarahan, Tuael, Magsaysay, New Cebu, Del Carmen, Kamasi, Kisupa-an, Kiyab, Lohong, New Camiguin, and Lebpas, in the Municipality of Kidapawan, Province of Cotabato, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of President Roxas, same province. The seat of government of the new municipality shall be in the present Barrio Roxas.\nThe boundaries of the new municipalities shall be: Starting from a point where the Kinamalig Creek intersects Paco (Km. 118)—Inac Road; thence going a westerly direction following the Kinamalig creek to a point where it intersects the original boundary of Matalam and Kidapawan; thence northward following the said boundary up to the point of intersection of Kabacan and Magpet Rivers; thence following the old boundary of Matalam and Kidapawan, through Arakan, and Pulangi rivers up to the point of intersection of Pulangi and Mulita Rivers; thence following Mulita River upstream to a point where this river intersects the Bukidnon-Cotabato boundary; thence in an easterly direction following the Cotabato-Bukidnon boundary up to the peak of Mt. Tianlad; thence going southward following the original boundary of Magpet and Kidapawan to a point where the Paco-Inac road and Marbel River intersects; thence following the road in a southerly direction up to the Kinamalig creek, the beginning point."
+   }
+  },
+  {
+   "id": "PH-H3830-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The first mayor, vice-mayor and councilors of the new municipality shall be elected in the next general elections for local officials in 1967 and shall have qualified."
+   }
+  },
+  {
+   "id": "PH-H3830-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: May 8, 1967."
+   }
+  }
+ ]
+}

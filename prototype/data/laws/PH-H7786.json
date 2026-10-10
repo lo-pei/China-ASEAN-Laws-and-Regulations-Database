@@ -1,0 +1,75 @@
+{
+ "id": "PH-H7786",
+ "title": {
+  "zh": null,
+  "en": "An act reclassifying a portion of land comprising Five Hundred Twelve and Eighty (512.80) hectares of public land under Timberland Project Number 13-G, Block A, as per Land Classification Map Number 3400 IN Barangay Ransang, Municipality of Rizal, Province of Palawan as agricultural land open for disposition",
+  "orig": "An act reclassifying a portion of land comprising Five Hundred Twelve and Eighty (512.80) hectares of public land under Timberland Project Number 13-G, Block A, as per Land Classification Map Number 3400 IN Barangay Ransang, Municipality of Rizal, Province of Palawan as agricultural land open for disposition"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p111",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2004-08-08",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 9322",
+ "officialCode": null,
+ "topics": [
+  "administrative",
+  "environment"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 555,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2004/ra_9322_2004.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2004/ra_9322_2004.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H7786-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The portion of the territory of Barangay Ransang in the Municuipality of Rizal, Province of Palawan, consisting of five hundred twelve and eighty (512.80) hectares of land covered by Project Number 13-G, Block A, of Land Classification Map Number 3400 is hereby reclassified as agricultural land open for disposition."
+   }
+  },
+  {
+   "id": "PH-H7786-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The Secretary of the Department of Environment and Natural Resources shall issue all the necessary implementing orders, rules, regulations and circulars to implement the provisions of this Act."
+   }
+  },
+  {
+   "id": "PH-H7786-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

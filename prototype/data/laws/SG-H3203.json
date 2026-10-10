@@ -1,0 +1,1038 @@
+{
+ "id": "SG-H3203",
+ "title": {
+  "zh": null,
+  "en": "Merchant Shipping (Special Limits Passenger Ships) Safety Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p40",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MSA1995-RG8",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 63,
+ "chars": 40756,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MSA1995-RG8?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 63 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3203-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART I GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Merchant Shipping (Special Limits Passenger Ships) Safety Regulations."
+   }
+  },
+  {
+   "id": "SG-H3203-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“approved” means approved by the Director;\n“Director” means the Director of Marine appointed under section 6 of the Merchant Shipping Act;\n“existing ship” means a ship which is not a new ship;\n“length”, in relation to a ship, means 96% of the total length on a waterline at 85% of the least moulded depth measured from the top of the keel, or the length from the foreside of the stem to the axis of the rudder stock on that waterline, if that be the greater. In a ship designed with a rake of keel, the waterline on which this length is measured shall be parallel to the designed waterline;\n“new ship” means a passenger ship the keel of which is laid or which is at a similar stage of construction on or after 23rd April 1982, and includes a ship which is undergoing or has undergone conversion into a passenger ship or which is used as a passenger ship within the port limit and the 30-mile limit on or after that date;\n“passenger” means every person other than —\n(a)the master and members of the crew or other persons employed or engaged in any capacity on board a passenger ship on the business of the ship; and\n(b)a child under one year of age;\n“passenger ship” means a ship which carries more than 12 passengers;\n“person” means a person above the age of one year;\n“port limit” means the limit of the port declared under section 3 of the Port of Singapore Authority Act [Cap. 236];\n“ship” means a passenger ship and includes a new ship or an existing ship."
+   }
+  },
+  {
+   "id": "SG-H3203-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART I GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "3.—(1) Unless otherwise provided, these Regulations shall apply to a ship which plies —\n(a)within the port limit; or\n(b)not more than 30 miles from the port limit and not more than 20 miles from the nearest land (referred to in these Regulations as the 30-mile limit).\n(2) These Regulations shall not apply to\n(a)any Government vessel which is not used for commercial services; and\n(b)any ship referred to in paragraph (1) which is not engaged in trade.\n[S 402/2001 wef 01/09/2001]\n(3) For the purposes of paragraph (2)(b), a ship is not engaged in trade if —\n(a)it is used exclusively for pleasure purposes other than for the carriage of passengers on sightseeing tours; and\n(b)the use of which a passenger, if any, is not charged a separate and distinct fare.\n[S 402/2001 wef 01/09/2001]"
+   }
+  },
+  {
+   "id": "SG-H3203-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART I GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Prohibition"
+   },
+   "text": {
+    "en": "4. A ship which is less than 24 metres in length shall not proceed beyond the port limit."
+   }
+  },
+  {
+   "id": "SG-H3203-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART I GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "5. The Director may exempt a ship from any regulation either unconditionally or subject to such conditions as he thinks fit if he is satisfied that compliance with that regulation is either impracticable or unreasonable in respect of the ship.\n[S 59/96 wef 02/02/1996]"
+   }
+  },
+  {
+   "id": "SG-H3203-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART I GENERAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Standards"
+   },
+   "text": {
+    "en": "6. Any fitting, material, appliance or apparatus required by these Regulations shall be of an approved type."
+   }
+  },
+  {
+   "id": "SG-H3203-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART II SURVEYS AND CERTIFICATES"
+   },
+   "heading": {
+    "en": "Application for survey"
+   },
+   "text": {
+    "en": "7.—(1) An application for survey of a ship shall be accompanied by such plans, calculations and any other information on the ship as the Director may require.\n(2) The plans shall contain such information as is necessary for full consideration of the strength of the ship and also proposals for complying with these Regulations."
+   }
+  },
+  {
+   "id": "SG-H3203-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART II SURVEYS AND CERTIFICATES"
+   },
+   "heading": {
+    "en": "Initial and subsequent surveys"
+   },
+   "text": {
+    "en": "8.—(1) A ship shall be subject to the following surveys:\n(a)a survey before the ship is put in service;\n(b)a periodical survey once every 12 months; and\n(c)additional surveys, as may be required by the Director.\n(2) the surveys referred to in paragraph (1) shall be carried out as follows:\n(a)the survey before the ship is put in service shall include a complete inspection of its hull, machinery and equipment including the outside of the bottom of the hull and the inside and outside of the boilers. This survey shall be such as to ensure that the construction arrangements, materials and scantlings of the hull, boilers and the appurtenances thereto, main and auxiliary machinery, electrical installation, life-saving appliances, fire-extinguishing appliances and other equipment fully comply with these Regulations;\n(b)the periodical survey shall include an inspection of the whole of the hull, boilers, machinery and equipment, including the outside of the bottom of the hull. The survey shall be such as to ensure that the ship’s hull, boilers and other appurtenances thereto, main and auxiliary machinery, electrical installation, life-saving appliances, fire-extinguishing appliances and other equipment are in satisfactory condition and fit for the service for which they are intended, and that they comply with these Regulations. The manner of inspection shall be as specified in Part I of the First Schedule; and\n(c)the additional survey, which may be general or partial according to the circumstances, shall be made every time an accident occurs or a defect is discovered which affects the safety of the ship or the efficiency or completeness of its life-saving appliances or other equipment or whenever any important repair or renewal is made. The survey shall be such as to ensure that the necessary repairs or renewals have been effectively made, that the material and workmanship of such repairs or renewals are in all respects satisfactory and that the ship fully complies with these Regulations."
+   }
+  },
+  {
+   "id": "SG-H3203-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART II SURVEYS AND CERTIFICATES"
+   },
+   "heading": {
+    "en": "Maintenance of conditions after survey"
+   },
+   "text": {
+    "en": "9. After a survey of the ship under regulation 8 has been completed, no change shall be made to the structural arrangements, machinery, equipment, etc., covered by the survey, without the prior approval of the Director."
+   }
+  },
+  {
+   "id": "SG-H3203-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART II SURVEYS AND CERTIFICATES"
+   },
+   "heading": {
+    "en": "Issue of certificates"
+   },
+   "text": {
+    "en": "10.—(1) After a survey of a ship under regulation 8 a 30-Mile Limit Passenger Ship Safety Certificate or a Port Limit Passenger Ship Safety Certificate shall be issued if the ship complies with the relevant regulations.\n(2) When a ship is exempted from any of these Regulations an Exemption Certificate shall be issued in addition to the certificate issued under paragraph (1)."
+   }
+  },
+  {
+   "id": "SG-H3203-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART II SURVEYS AND CERTIFICATES"
+   },
+   "heading": {
+    "en": "Duration of certificates"
+   },
+   "text": {
+    "en": "11.—(1) Subject to paragraph (2), a certificate issued under regulation 10 shall be valid for a period not exceeding 12 months.\n(2) The Director may extend the period of validity of a certificate issued under regulation 10 for a period not exceeding one month.\n(3) Notwithstanding paragraphs (1) and (2), an Exemption Certificate of a ship shall not be valid for a period longer than the validity of its Safety Certificate.\n(4) The Director may cancel a certificate issued under regulation 10 if he has reason to believe that since the survey, the hull, equipment or machinery of the ship has sustained damage or the ship has not complied with these Regulations."
+   }
+  },
+  {
+   "id": "SG-H3203-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART II SURVEYS AND CERTIFICATES"
+   },
+   "heading": {
+    "en": "Form of certificates"
+   },
+   "text": {
+    "en": "12. The certificates issued under regulation 10 shall be in the forms set out in the Second Schedule."
+   }
+  },
+  {
+   "id": "SG-H3203-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART II SURVEYS AND CERTIFICATES"
+   },
+   "heading": {
+    "en": "Posting up of certificates"
+   },
+   "text": {
+    "en": "13. A certificate issued under regulation 10 or a certified copy thereof shall be posted up in a prominent and accessible place in the ship."
+   }
+  },
+  {
+   "id": "SG-H3203-A13.001",
+   "no": 13.001,
+   "noLabel": {
+    "en": "13A."
+   },
+   "chapter": {
+    "en": "PART II SURVEYS AND CERTIFICATES"
+   },
+   "heading": {
+    "en": "Penalty"
+   },
+   "text": {
+    "en": "13A.—(1) The owner and the master of a ship to which these Regulations apply shall —\n(a)comply with these Regulations in respect of any matter that is governed thereby; and\n(b)ensure that the ship and its equipment comply with these Regulations.\n(2) Any owner or master who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and the ship may be detained.\n[S 59/96 wef 02/02/1996]"
+   }
+  },
+  {
+   "id": "SG-H3203-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART III PASSENGER ACCOMMODATION"
+   },
+   "heading": {
+    "en": "General"
+   },
+   "text": {
+    "en": "14.—(1) Permanent awnings or structures and side curtains shall be fitted for the protection of passengers accommodated on every deck of a ship against inclement weather.\n(2) A ship shall be provided with sufficient seats to accommodate all the passengers which it is certified to carry.\n(3) The seating arrangement shall be such as not to impede emergency exits.\n(4) An oil fuel space shall be separated from any enclosed space used for the carriage or accommodation of passengers by gastight partitions to the satisfaction of the Director.\n(5) An open or partially decked ship shall not be certified to carry more than 150 passengers."
+   }
+  },
+  {
+   "id": "SG-H3203-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART III PASSENGER ACCOMMODATION"
+   },
+   "heading": {
+    "en": "Spaces not for passenger accommodation"
+   },
+   "text": {
+    "en": "15. The following spaces shall not be used to accommodate passengers:\n(a)any space between the side of any deckhouse and the inner edge of the waterway, bulwark, rails or any other deckhouse which is less than 0.75 metre in width;\n(b)any space which is always or occasionally used for the purposes of navigation;\n(c)any part of a bridge deck which extends beyond the sheer strake of the ship;\n(d)any space between decks in which the height from the floor to the deck above is less than 1.80 metres;\n(e)any space not fitted for the carriage or accommodation of passengers;\n(f)any deck which is more than one deck below the subdivision load line mark at any portion of the length of the ship;\n(g)the lower hold of the ship and any space which is for the storage of cargo or lighted and ventilated by hatchways only;\n(h)any area occupied by hatchways, sky-lights, machinery casings, windlass, stairways, aisles and spaces used for navigation or the storage of cargo or equipment; and\n(i)any other space which in the opinion of the Director is not suitable for the carriage or accommodation of passengers."
+   }
+  },
+  {
+   "id": "SG-H3203-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART III PASSENGER ACCOMMODATION"
+   },
+   "heading": {
+    "en": "Ventilation"
+   },
+   "text": {
+    "en": "16.—(1) Any space for the use of passengers on board a ship shall be adequately ventilated.\n(2) Full details of the arrangements, with drawings of the system of ventilation, shall be submitted to the Director for approval.\n(3) Each compartment shall preferably be ventilated independently of any other compartment."
+   }
+  },
+  {
+   "id": "SG-H3203-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART III PASSENGER ACCOMMODATION"
+   },
+   "heading": {
+    "en": "Lighting"
+   },
+   "text": {
+    "en": "17. Any space for the use of passengers on board a ship shall be properly and adequately lit."
+   }
+  },
+  {
+   "id": "SG-H3203-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART III PASSENGER ACCOMMODATION"
+   },
+   "heading": {
+    "en": "Doors, stairways, aisles and sitting arrangement"
+   },
+   "text": {
+    "en": "18.—(1) All entrances to passenger compartments on a ship shall be equal in width to the ladders or stairways leading to the passenger compartments.\n(2) All entrances to the ship are to be fitted with steady handrails, or its equivalent.\n(3) Over each of the hatchways leading to passenger compartments there shall be a booby hatch or other substantial covering of such character as shall provide as much light and air and protection from the weather as possible.\n(4) A ladder of stairway shall not be less than 0.75 metre in width. There shall be at least 1.80 metres clear space in a vertical direction above each step.\n(5) Where the vertical height of the ladder or stairway exceeds 0.50 metre, steady handrails shall be fitted on each side.\n(6) Ladders or stairways shall, as far as possible, be pitched fore and aft and shall not be too steep, the angle from the vertical being as near 37 degrees as the arrangements of the ship will permit. All ladders are to be lined on the back. The depth of every step shall not be less than 0.20 metre.\n(7) Aisles shall not be less than 0.75 metre in width.\n(8) Every seat shall have a depth of not less than 0.38 metre, a breadth of 0.45 metre and legroom of 0.40 metre. A backrest shall be provided for every seat."
+   }
+  },
+  {
+   "id": "SG-H3203-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART III PASSENGER ACCOMMODATION"
+   },
+   "heading": {
+    "en": "Water closets and washing places"
+   },
+   "text": {
+    "en": "19.—(1) A ship shall carry one water closet and washing place for each 100 passengers or fewer the ship is certified to carry.\n(2) Each washing place may be part of the water closet.\n(3) The ship shall carry sufficient fresh water for washing purposes.\n(4) A ship normally operating on short runs of 20 minutes or less need not be fitted with closets or wash basins provided toilet facilities are available at embarkation and disembarkation points."
+   }
+  },
+  {
+   "id": "SG-H3203-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Propulsion of ship"
+   },
+   "text": {
+    "en": "20. A ship shall be fitted with means for self-propulsion."
+   }
+  },
+  {
+   "id": "SG-H3203-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Structural strength"
+   },
+   "text": {
+    "en": "21. The structural strength of a ship shall be sufficient for the service for which it is intended."
+   }
+  },
+  {
+   "id": "SG-H3203-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Stability information"
+   },
+   "text": {
+    "en": "22.—(1) (a) A new ship which is 24 metres in length or more shall be inclined upon its completion and the elements of its stability determined.\n(b) The ship shall satisfy the following minimum stability criteria unless the Director is satisfied that the area in which the ship operates justifies departure therefrom:\n(i)the area under the righting lever curve (GZ curve) shall not be less than 0.055 metre-radians up to 30 degrees angle of heel and not less than 0.090 metre-radians up to 40 degrees or the angle of flooding (θf) if this angle is less than 40 degrees. In addition, the area under the righting lever curve (GZ curve) between the angles of heel of 30 degrees and 40 degrees or between 30 degrees and θf, if this angle is less than 40 degrees, shall not be less than 0.030 metre-radians. θf is the angle of heel at which openings in the hull, superstructure or deckhouses which cannot be rapidly closed water-tight commence to immerse. In applying this criterion, small openings through which progressive flooding cannot take place need not be considered as open;\n(ii)the righting lever GZ shall be at least 200 millimetres at an angle of heel equal to or greater than 30 degrees;\n(iii)the maximum righting lever GZmax shall occur at an angle of heel preferably exceeding 30 degrees but not less than 25 degrees;\n(iv)the initial metacentric height GM shall not be less than 150 millimetres.\n(c) Where arrangements other than bilge keels are provided to limit the angles of roll, the Director shall be satisfied that the stability referred to in paragraph (b) is maintained in all operating conditions.\n(d) Where ballast is provided to ensure compliance with paragraph (b), its nature and arrangement shall be to the satisfaction of the Director.\n(2) In the case of a new ship which is less than 24 metres in length a stability test shall be conducted with weights to represent the fully laden service condition. The weight of each passenger shall be taken as 65 kilogrammes. In the test the heel of the ship caused by a heeling moment equal to the weight of the passengers multiplied by the extreme breadth of the ship, shall not be more than 7 degrees. A copy of the results of the stability test shall be submitted to the Director.\n(3) Where an alteration is made to a ship so as to materially affect its stability, amended or new stability information shall be submitted to the Director.\n(4) The Director may allow the inclining test of a ship to be dispensed with where —\n(a)basic stability data are available from the inclining test of a sister ship; and\n(b)it is shown to the satisfaction of the Director that reliable stability information for that ship can be obtained from such basic data."
+   }
+  },
+  {
+   "id": "SG-H3203-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Freeboard"
+   },
+   "text": {
+    "en": "23. When a ship is loaded with weights representing the full number of passengers and crew at 65 kilogrammes for each person, and with all the necessary fuel on board, the clear height of the top deck at the side or the top of the gunwale or covering board, as the case may be, above water at the lowest point, shall not be less than 0.40 metre where the ship is 6 metres or less than 6 metres in length and 0.60 metre where the ship is 24 metres or more than 24 metres in length. Where a ship is more than 6 and less than 24 metres in length the minimum height above water shall be determined by linear interpolation. The load line mark shall be marked on both port and starboard sides as shown in Part II of the First Schedule."
+   }
+  },
+  {
+   "id": "SG-H3203-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Application of regulations 25 to 37"
+   },
+   "text": {
+    "en": "24. Regulations 25 to 37 shall apply to a ship for more than 150 passengers."
+   }
+  },
+  {
+   "id": "SG-H3203-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Ship carrying more than 150 passengers"
+   },
+   "text": {
+    "en": "25. A ship for more than 150 passengers shall be fully decked."
+   }
+  },
+  {
+   "id": "SG-H3203-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "26. For the purposes of regulations 25 to 37 —\n(a)\n(i)a subdivision load line is a waterline used in determining the subdivision of a ship;\n(ii)the deepest subdivision load line is the water line which corresponds to the greatest draught permitted by the subdivision requirements which are applicable;\n(b)the length of the ship is the length measured between perpendiculars taken at the extremities of the deepest subdivision load line;\n(c)the breadth of the ship is the extreme width from outside of frame to outside of frame at or below the deepest subdivision load line;\n(d)the draught is the vertical distance from the moulded base line amidships to the relevant subdivision load line;\n(e)the bulkhead deck is the uppermost deck up to which the transverse watertight bulkheads are carried;\n(f)the margin line is a line drawn at least 76 millimetres below the upper surface of the bulkhead deck at side;\n(g)the permeability of a space is the percentage of that space which can be occupied by water. The volume of a space which extends above the margin line shall be measured only to the height of that line;\n(h)the machinery space is to be taken as extending from the moulded base line to the margin line and between the extreme main transverse watertight bulkheads bounding the spaces containing the main and auxiliary propelling machinery, boilers serving the needs of propulsion, and all permanent coal bunkers. In the case of unusual arrangements, the Director may define the limits of the machinery spaces; and\n(i)in all cases volumes and areas shall be calculated to the moulded lines."
+   }
+  },
+  {
+   "id": "SG-H3203-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Floodable length"
+   },
+   "text": {
+    "en": "27.—(1) The floodable length at any point of the length of a ship shall be determined by a method of calculation which takes into consideration the form, draught and other characteristics of the ship.\n(2) Where a ship has a continuous bulkhead deck, the floodable length at a given point is the maximum portion of the length of the ship, having its centre at the point, which can be flooded under the definite assumptions set forth in regulation 28 without the ship being submerged beyond the margin line.\n(3) (a) Where a ship has no continuous bulkhead deck, the floodable length at any point may be determined to an assumed continuous margin line which at no point is less than 76 millimetres below the top of the deck (at side) to which the bulkheads concerned and the shell are carried watertight.\n(b) Where a portion of an assumed margin line is appreciably below the deck to which bulkheads are carried, the Director may permit a limited relaxation in the watertightness of those portions of the bulkheads which are above the margin line and immediately under the higher deck."
+   }
+  },
+  {
+   "id": "SG-H3203-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Permeability"
+   },
+   "text": {
+    "en": "28.—(1) The definite assumptions referred to in regulation 27 relate to the permeabilities of the spaces below the margin line.\n(2) In determining the floodable length, the average permeability below the margin line —\n(a)of the machinery space shall be taken as 85; and\n(b)of other spaces shall be taken as 95."
+   }
+  },
+  {
+   "id": "SG-H3203-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Permissible length of compartments"
+   },
+   "text": {
+    "en": "29. The maximum permissible length of a compartment shall be the floodable length."
+   }
+  },
+  {
+   "id": "SG-H3203-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Subdivision"
+   },
+   "text": {
+    "en": "30.—(1) A main transverse bulkhead may be recessed or stepped where additional subdivision is provided in way of the recess or step to maintain the same measure of safety as that secured by a plane bulkhead.\n(2) Where a main transverse bulkhead is recessed or stepped, an equivalent plane bulkhead shall be used in determining the subdivision.\n(3) Where a main transverse watertight compartment contains local subdivision and it can be shown to the satisfaction of the Director that, after any assumed side damage the whole volume of the main compartment will not be flooded, a proportionate allowance may be made in the permissible length otherwise required for such compartment. In such a case the volume of effective buoyancy assumed on the undamaged side shall not be greater than that assumed on the damaged side."
+   }
+  },
+  {
+   "id": "SG-H3203-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Peak and machinery space bulkheads, shaft tunnels, etc."
+   },
+   "text": {
+    "en": "31.—(1) (a) A ship shall have a forepeak or collision bulkhead, which shall be watertight up to the bulkhead deck. This bulkhead shall be fitted not less than 5% of the length of the ship, and not more than 3.05 metres plus 5% of the length of the ship from the forward perpendicular.\n(b) If the ship has a long forward superstructure, the forepeak bulkhead shall be extended weathertight to the deck next above the bulkhead deck. The extension need not be fitted directly over the bulkhead below, provided it is at least 5% of the length of the ship from the forward perpendicular, and the part of the bulkhead deck which forms the step is made effectively weathertight.\n(2) An afterpeak bulkhead, and bulkheads dividing the machinery space, referred to in regulation 26(h), from the cargo and passenger spaces forward and aft, shall also be fitted and made watertight up to the bulkhead deck. The afterpeak bulkhead may be stepped below the bulkhead deck, where the degree of safety of the ship as regards subdivisions is not thereby diminished.\n(3) In all cases stern tubes shall be enclosed in watertight spaces of moderate volume. The stern gland shall be situated in a watertight shaft tunnel or other watertight space separate from the stern tube compartment and of such volume that, if flooded by leakage through the stern gland, the margin line will not be submerged.\n(4) Fuel oil shall not be carried in the peak tanks."
+   }
+  },
+  {
+   "id": "SG-H3203-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Stability of ship in damaged condition"
+   },
+   "text": {
+    "en": "32.—(1) Sufficient intact stability shall be provided in all service conditions so as to enable a ship to withstand the final stage of flooding of any one main compartment which is required to be within the floodable length.\n(2) In cases where the Director considers the range of stability in the damaged condition to be doubtful, he may require investigation thereof.\n(3) For the purpose of making damage stability calculations, the volume and surface permeabilities —\n(a)of the machinery space shall be taken as 85; and\n(b)of other spaces shall be taken as 95.\n(4) Asymmetrical flooding is to be kept to a minimum consistent with adequate and effective arrangements.\n(5) The final condition of the ship after damage and, in the case of asymmetrical flooding, after equalisation measures have been taken shall be as follows:\n(a)in the case of symmetrical flooding there shall be a positive residual metacentric height as calculated by the constant displacement method;\n(b)in the case of asymmetrical flooding the total heel shall not exceed 7 degrees, except that in special cases, the Director may allow additional heel due to the asymmetrical moment, but in no case shall the heel exceed 15 degrees; and\n(c)the margin line shall not in any case be submerged in the final stage of flooding. If it is considered that the margin line may become submerged during an intermediate stage of flooding, the Director may require such investigations and arrangements as he considers necessary for the safety of the ship."
+   }
+  },
+  {
+   "id": "SG-H3203-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Construction of watertight bulkheads, etc."
+   },
+   "text": {
+    "en": "33. A watertight subdivision bulkhead, whether transverse or longitudinal, of a ship shall be constructed in such a manner that it shall be capable of supporting the pressure due to the maximum head of water which it might have to sustain in the event of damage to the ship. The construction of these bulkheads and their structural strength shall be to the satisfaction of the Director."
+   }
+  },
+  {
+   "id": "SG-H3203-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Openings in watertight bulkheads"
+   },
+   "text": {
+    "en": "34.—(1) (a) Where pipes, scuppers, electric cables, etc., are carried through watertight subdivision bulkheads, arrangements shall be made to ensure the integrity of the watertightness of the bulkheads.\n(b)Only a valve or cock forming part of a piping system shall be permitted in a watertight subdivision bulkhead.\n(c)Lead or other heat sensitive material shall not be used in a system which penetrates any watertight subdivision bulkhead, where deterioration of such system in the event of fire would impair the watertight integrity of the bulkhead.\n(2) Collision bulkheads shall not be pierced below the margin line by more than one pipe. Any pipe which pierces the collision bulkhead shall be fitted with a screwdown valve capable of being operated from above the bulkhead deck, the valve chest being secured inside the forepeak.\n(3) Efficient means shall be provided for closing all openings in watertight bulkheads. Details of the means provided for closing these openings shall be submitted to the Director for approval."
+   }
+  },
+  {
+   "id": "SG-H3203-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Openings in shell plating below margin line"
+   },
+   "text": {
+    "en": "35.—(1) All sidescuttles below the margin line shall be of the non-opening type.\n(2) (a) All inlets and discharges in the shell plating shall be fitted with effective and accessible arrangements for preventing the accidental admission of water into the ship. Lead or other heat sensitive material shall not be used for a pipe fitted outboard of shell valves in inlets or discharges, or such pipe which in the event of fire would give rise to danger of flooding.\n(b) (i) Except as provided in sub-paragraph (c), each separate discharge led through the shell plating from spaces below the margin line shall be provided either with one automatic non-return valve fitted with a positive means of closing from above the bulkhead deck, or, alternatively, with two automatic non-return valves without such means, the upper of which is so situated above the deepest subdivision load line as to be always accessible for examination under service conditions, and is of a type which is normally closed.\n(ii) Where a valve with positive means of closing is fitted, the operating position above the bulkhead deck shall always be readily accessible, and means shall be provided for indicating whether the valve is open or closed.\n(c) Main and auxiliary sea inlets and discharges in connection with machinery shall be fitted with readily accessible cocks or valves between the pipes and shell plating or between the pipes and fabricated boxes attached to the shell plating.\n(3) All cocks and valves for sea inlets and discharges below the bulkhead deck and all fittings outboard of such cocks and valves shall be made of steel, bronze or other approved ductile material. No ordinary cast iron or similar material shall be used."
+   }
+  },
+  {
+   "id": "SG-H3203-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Watertight integrity above margin line"
+   },
+   "text": {
+    "en": "36.—(1) All reasonable and practicable measures shall be taken to limit the entry and spread of water above the bulkhead deck. The sill of entrances to any underdeck space shall be at least 300 millimeters high.\n(2) The bulkhead deck or a deck above it shall be weathertight. All openings in the exposed weather deck shall have coamings of at least 300 millimeters high and of ample strength and shall be provided with efficient means for expeditiously closing them weathertight. Freeing ports, open rails and/or scuppers shall be fitted as necessary for clearing rapidly the weather deck of water under all weather conditions.\n(3) Means for closing openings in the shell plating above the margin line shall be of efficient design and construction and of sufficient strength having regard to the spaces in which they are fitted and their positions relative to the deepest subdivision load line.\n(4) Efficient inside deadlights, arranged so that they can be easily and effectively closed and secured watertight, shall be provided for all sidescuttles to spaces below the first deck above the bulkhead deck."
+   }
+  },
+  {
+   "id": "SG-H3203-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Assigning, marking of subdivision load lines"
+   },
+   "text": {
+    "en": "37.—(1) The subdivision load lines assigned and marked on a ship shall be distinguished by the notation C.1 for the principal passenger condition, and C.2, C.3, etc., for the alternative conditions.\n(2) A subdivision load line mark shall not in any case be placed above the deepest load line in salt water as determined by the strength of the ship.\n(3) The ship shall not in any case be so loaded that when it is in salt water the subdivision load line mark appropriate to the particular condition of service is submerged."
+   }
+  },
+  {
+   "id": "SG-H3203-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Ship carrying not more than 150 passengers"
+   },
+   "text": {
+    "en": "38.—(1) This regulation applies to a ship which carries not more than 150 passengers.\n(2) Efficient means shall be provided for preventing the accidental admission of water into the ship through any opening in each side of the ship.\n(3) Every sidescuttle fitted below deck shall be of the non-opening type with deadlights and shall be watertight and of sufficient strength having regard to its position in the ship.\n(4) A new ship shall be provided with a watertight collision bulkhead which shall be fitted not less than 5% and not more than 7% of the length of the ship from the forward perpendicular."
+   }
+  },
+  {
+   "id": "SG-H3203-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Bilge pumping arrangement"
+   },
+   "text": {
+    "en": "39.—(1) A ship shall be provided with a bilge pumping system so that water entering any part of the hull, other than a space permanently appropriated for the carriage of fresh water, water ballast, oil fuel or liquid cargo and for which other efficient means of pumping or drainage are provided, can be pumped out through at least one suction pipe when the ship is on even keel or is listed not more than 5 degrees either way. Efficient means shall be provided whereby water may easily flow to the suction pipes.\n(2) A new ship shall be provided with a bilge pumping system as set out below:\n(a)the new ship which is less than 24 metres in length shall be provided with a hand pump and bailers. The capacity of the pump shall not be less than 5.5 cubic metres per hour;\n(b)the new ship which is 24 metres or more in length shall be provided with one power bilge pump and a hand pump. The capacity of the power pump shall not be less than 11 cubic metres per hour and the hand pump, 5.5 cubic metres per hour;\n(c)the least internal diameter of bilge suction pipes is to be that of the nearest commercial size within 6 millimetres of the diameter determined by the following equations.\nMain Line — For the diameter of main-bilge-line suctions and direct bilge suction to pumps:\nBranch Line — For the equivalent diameter of the combined branch suctions to a compartment:\nwhere d = internal diameter of pipe in millimetres\nL = length of ship in metres\nB = breadth of ship in metres\nD = moulded depth to main deck in metres\nC = length of compartment in metres.\n(3) (a) (i) Every bilge pump provided in a ship shall have an efficient means of priming.\n(ii) A power pump or its source of power shall not be installed forward of the collision bulkhead.\n(iii) A hand bilge pump on the ship shall be workable from above the bulkhead deck.\n(b) (i) In the ship all pipes from the pumps for draining cargo spaces or any part of the machinery space shall be distinct from pipes which may be used for filling or emptying spaces in which water or oil is carried.\n(ii) Bilge suction pipes shall not be led through oil, fresh water tanks and double bottom tanks unless approved by the Director.\n(iii) In a ship which carries more than 150 passengers the bilge and ballast pumping systems shall be so designed as to prevent water passing from the sea or from water ballast spaces into the cargo spaces or into the machinery space or from one watertight compartment to another. Provision shall be made to prevent the compartments served by any bilge suction pipes from being flooded when any other compartment is damaged.\n(4) Details and arrangements of cocks, valves, bilge pipes and boxes are to be approved by the Director.\n(5) The bilge pumping system for an existing ship shall be to the satisfaction of the Director."
+   }
+  },
+  {
+   "id": "SG-H3203-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Electrical equipment and installations"
+   },
+   "text": {
+    "en": "40.—(1) The electrical equipment and installations of a ship shall be such that the ship and all persons on board are protected against electrical hazards.\n(2) A ship which carries more than 150 passengers shall have adequate means of providing emergency lighting at all escape accesses."
+   }
+  },
+  {
+   "id": "SG-H3203-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Fire protection"
+   },
+   "text": {
+    "en": "41. The general construction of a ship shall be such as to minimise fire hazards insofar as is reasonable and practicable, and to the satisfaction of the Director."
+   }
+  },
+  {
+   "id": "SG-H3203-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Machinery and boilers, etc."
+   },
+   "text": {
+    "en": "42. Every main and auxiliary machinery, boiler and other pressure vessel and appurtenance thereof shall be of acceptable design and construction and be so installed and protected as to provide maximum safety to persons on board."
+   }
+  },
+  {
+   "id": "SG-H3203-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Means of going astern"
+   },
+   "text": {
+    "en": "43.—(1) A ship shall have sufficient power for going astern.\n(2) The ability of the machinery to reverse the direction of thrust of the propellers shall be demonstrated at each survey."
+   }
+  },
+  {
+   "id": "SG-H3203-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Steering gear"
+   },
+   "text": {
+    "en": "44.—(1) A ship shall be provided with a main steering gear and an emergency steering gear to the satisfaction of the Director.\n(2) The main steering gear shall be of adequate strength and sufficient to steer the ship at the maximum service speed. It shall be capable of putting the rudder over from 35 degrees on one side to 35 degrees on the other side with the ship running ahead at maximum service speed. The rudder shall be capable of being put over from 35 degrees on either side to 30 degrees on the other side in not more than 28 seconds at maximum service speed."
+   }
+  },
+  {
+   "id": "SG-H3203-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Oil fuel"
+   },
+   "text": {
+    "en": "45. Internal combustion engines shall not be used for any installation if its fuel has a flash point of 43° Celsius or less."
+   }
+  },
+  {
+   "id": "SG-H3203-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Anchors, chain cables and windlass"
+   },
+   "text": {
+    "en": "46. A ship shall be provided with at least one anchor and chain cable or its equivalent as are sufficient in weight, length and strength having regard to the size of the ship and the area in which it operates. A windlass shall be provided for hauling in the anchor if the weight of anchor exceeds 15 kilogrammes."
+   }
+  },
+  {
+   "id": "SG-H3203-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Means of escape"
+   },
+   "text": {
+    "en": "47. A ship shall be provided with readily accessible means of escape from all enclosed spaces. Such means of escape shall be sufficient in number and width, having regard to the number of persons who may be in the enclosed spaces."
+   }
+  },
+  {
+   "id": "SG-H3203-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48."
+   },
+   "chapter": {
+    "en": "PART IV CONSTRUCTION"
+   },
+   "heading": {
+    "en": "Guard rails, stanchions and bulwarks"
+   },
+   "text": {
+    "en": "48. A ship shall be provided with bulwarks or guard rails on every exposed deck to which a person or vehicle may have access. Such bulwarks or guard rails, together with stanchions supporting the guard rails, shall be so placed, designed and constructed and shall be of a height of at least 1.0 metre above the deck. Rails shall consist of evenly spaced courses and the spacing of the rails shall not be greater than 380 millimetres. The opening below the lowest rail shall not be more than 230 millimetres from the deck. The lower rail courses may not be required where all or part of the space below the upper most rail course is fitted with a bulwark, chain link fencing, wire mesh or their equivalent."
+   }
+  },
+  {
+   "id": "SG-H3203-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49."
+   },
+   "chapter": {
+    "en": "PART V SAFETY EQUIPMENT"
+   },
+   "heading": {
+    "en": "Lifejackets for all ships"
+   },
+   "text": {
+    "en": "49.—(1) A ship shall carry a lifejacket for each person it is certified to carry.\n(2) In addition to the lifejackets required in paragraph (1), the ship shall carry extra lifejackets equal in number to 5% of the total number of persons which the ship is certified to carry.\n(3) These lifejackets shall be stowed in a conspicuous place and shall be readily accessible."
+   }
+  },
+  {
+   "id": "SG-H3203-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50."
+   },
+   "chapter": {
+    "en": "PART V SAFETY EQUIPMENT"
+   },
+   "heading": {
+    "en": "Life-saving appliances for port limit passenger ship"
+   },
+   "text": {
+    "en": "50.—(1) A ship which plies within the port limit shall carry such number of liferafts or approved buoyant apparatus as shall be sufficient to accommodate 40% of the total number of persons the ship is certified to carry.\n(2) A ship which plies within the port limit and carrying fewer than 150 passengers shall carry a minimum of 4 lifebuoys. A ship which carries 150 or more passengers shall be provided with 8 lifebuoys. At least two of the lifebuoys shall each be fitted with a line of at least 27.5 metres in length and a self-igniting light."
+   }
+  },
+  {
+   "id": "SG-H3203-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51."
+   },
+   "chapter": {
+    "en": "PART V SAFETY EQUIPMENT"
+   },
+   "heading": {
+    "en": "Life-saving appliances for 30 mile limit passenger ship"
+   },
+   "text": {
+    "en": "51.—(1) A ship which plies beyond the port limit shall carry such number of liferafts as shall be sufficient to accomodate all that number of persons the ship is certified to carry.\n(2) A ship which proceeds beyond the port limit shall carry a minimum of 8 lifebuoys, two of which shall each be fitted with a line of at least 27.5 metres in length and a self-igniting light."
+   }
+  },
+  {
+   "id": "SG-H3203-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "52."
+   },
+   "chapter": {
+    "en": "PART V SAFETY EQUIPMENT"
+   },
+   "heading": {
+    "en": "Fire-extinguishing appliances for ship 24 metres or more in length"
+   },
+   "text": {
+    "en": "52.—(1) This regulation shall apply to a ship which is 24 metres or more in length.\n(2) The ship shall have at least one power fire pump, sufficient fire hydrants, hoses and nozzles which are capable of delivering a powerful jet of water to reach any part of the ship. The capacity of the pump shall not be less than 11 cubic metres per hour.\n(3) In addition to the fire pump in paragraph (2), the ship shall have another fire pump, which may be operated manually and shall be permanently connected to a fire main. This additional pump, or its source of power, shall not be situated in the same compartment as the pump referred to in paragraph (2). The additional fire pump shall be provided with a permanent sea connection situated outside the machinery space. Such a pump shall be capable of delivering at least one powerful jet of water from a fire hydrant, hose and nozzle in the ship. The capacity of the pump shall not be less than 5.5 cubic metres per hour.\n(4) There shall be a spray nozzle in every machinery space.\n(5) The ship shall have at least one portable fire extinguisher in each space for the carriage or accommodation of passengers for every 50 passengers or less which it is certified to carry. There shall be at least one portable fire-extinguisher each in the galley, wheel-house, radioroom, storeroom and any space for use by the crew.\n(6) Every space in the ship containing internal combustion type of propelling machinery shall have —\n(a)not less than two but not more than 7 portable fire extinguishers. Such extinguishers shall be capable of fighting oil and electrical fires; and\n(b)a sand-box with scoop."
+   }
+  },
+  {
+   "id": "SG-H3203-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "53."
+   },
+   "chapter": {
+    "en": "PART V SAFETY EQUIPMENT"
+   },
+   "heading": {
+    "en": "Fire-extinguishing appliances for ship less than 24 metres in length"
+   },
+   "text": {
+    "en": "53.—(1) This regulation shall apply to a ship which is less than 24 metres in length.\n(2) The ship shall have —\n(a)a covered receptacle containing an adequate quantity of sand or other dry material suitable for extinguishing oil fires;\n(b)a scoop for distributing the contents of the receptacle; and\n(c)at least two portable fire extinguishers, which shall be capable of fighting oil and electrical fires.\n(3) The ship shall have at least two fire buckets with lanyards."
+   }
+  },
+  {
+   "id": "SG-H3203-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "54."
+   },
+   "chapter": {
+    "en": "PART V SAFETY EQUIPMENT"
+   },
+   "heading": {
+    "en": "Means for stopping machinery and for shutting off oil fuel suction pipes"
+   },
+   "text": {
+    "en": "54.—(1) A ship shall have means for stopping ventilating fans serving machinery spaces and for closing all doorways, vents, spaces around funnels and other openings to such spaces. These means shall be operable from a position outside such spaces in the event of a fire.\n(2) Machinery driving forced and induced draught fans, oil fuel transfer pumps, oil fuel unit pumps and other similar fuel pumps shall be fitted with remote controls situated outside the space in which they are located so that they may be stopped in the event of a fire in the space.\n(3) An oil fuel suction pipe from a storage, settling or daily service tank shall be fitted with a cock or valve which can be closed from outside the space in which such tanks are situated in the event of a fire in the space."
+   }
+  },
+  {
+   "id": "SG-H3203-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "55."
+   },
+   "chapter": {
+    "en": "PART V SAFETY EQUIPMENT"
+   },
+   "heading": {
+    "en": "Radiotelegraph station"
+   },
+   "text": {
+    "en": "55. A ship which proceeds beyond the port limit shall be fitted with a radiotelegraph station in accordance with Chapter IV of the Merchant Shipping (Safety Convention) Regulations [Rg. 11]."
+   }
+  },
+  {
+   "id": "SG-H3203-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "56."
+   },
+   "chapter": {
+    "en": "PART V SAFETY EQUIPMENT"
+   },
+   "heading": {
+    "en": "Hand flares"
+   },
+   "text": {
+    "en": "56. A ship shall carry at least 6 hand flares each capable of giving a bright red light."
+   }
+  },
+  {
+   "id": "SG-H3203-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "57."
+   },
+   "chapter": {
+    "en": "PART V SAFETY EQUIPMENT"
+   },
+   "heading": {
+    "en": "Instructions to passengers"
+   },
+   "text": {
+    "en": "57. Instructions to passengers on the manner of donning lifejackets shall be displayed in the space for accommodating passengers on board."
+   }
+  },
+  {
+   "id": "SG-H3203-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "58."
+   },
+   "chapter": {
+    "en": "PART V SAFETY EQUIPMENT"
+   },
+   "heading": {
+    "en": "Accident report"
+   },
+   "text": {
+    "en": "58. In the case of any accident occasioning loss of life or serious injury to any person or any material damage affecting the seaworthiness or efficiency of the ship either in the hull or in any part of the machinery, a written report signed by the owner or master shall be forwarded to the Director within 24 hours or as soon as possible after the accident or damage."
+   }
+  },
+  {
+   "id": "SG-H3203-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "59."
+   },
+   "chapter": {
+    "en": "PART VI SAVINGS CLAUSE AND REGULATIONS WHICH CEASE TO APPLY"
+   },
+   "heading": {
+    "en": "Savings"
+   },
+   "text": {
+    "en": "59. Nothing in these Regulations shall be construed as exempting passenger ships from the provisions of the Port of Singapore Authority Act [Cap. 236] and the rules and regulations made thereunder or the Merchant Shipping (Prevention of Collisions at Sea) Regulations [Rg. 10]."
+   }
+  },
+  {
+   "id": "SG-H3203-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "60."
+   },
+   "chapter": {
+    "en": "PART VI SAVINGS CLAUSE AND REGULATIONS WHICH CEASE TO APPLY"
+   },
+   "heading": {
+    "en": "Safety Regulations do not apply"
+   },
+   "text": {
+    "en": "60. Unless otherwise provided the Merchant Shipping (Safety Convention) Regulations [Rg. 11] shall not apply to ships to which these Regulations apply."
+   }
+  },
+  {
+   "id": "SG-H3203-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nPart I\nPeriodical Surveys\nRegulation 8(2)(b).\nPeriodical surveys shall be carried out in the manner as stated below:\n(a)Main engines of a ship shall be overhauled every two years with top overhaul yearly. An operational test shall be conducted annually.\n(b)Auxiliary engines shall be overhauled every two years.\n(c)Propeller shafts with diameters of less than 75 millimeters shall be withdrawn for inspection every year. Propeller shafts with diameters of 75 millimeters or more shall be withdrawn for inspection every two years. When an oil gland type of stern tube is installed, the shaft shall be withdrawn at least once every 4 years.\n(d)An insulation test of the electrical system shall be conducted every year.\nPart II\nFreeboard\nRegulation 23.\nThe freeboard mark shall be marked permanently according to the diagram below."
+   }
+  },
+  {
+   "id": "SG-H3203-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nFORM I\n*THIRTY-MILE/PORT LIMIT PASSENGER SHIP SAFETY CERTIFICATE\n(Regulation 10(1))\nREPUBLIC OF SINGAPORE\nName of Ship\nPort and\nLicence/Official Number\nLength Of Ship\nGross Tonnage\nName and Address of Owners/Agent\nTHIS IS TO CERTIFY —\n1.That the above-mentioned ship has been duly surveyed in accordance with the Merchant Shipping (Special Limits Passenger Ships) Safety Regulations.\n2.That the survey showed that the relevant regulations had been complied with.\n3.That the ship is permitted to carry a maximum of ..…….. passengers and ….…. crew.\nThe life-saving appliances include:\n………….. *liferafts/buoyant apparatus sufficient for ………….. persons;\n………….. lifebuoys;\n………….. life-jackets.\n4.That the inspection showed that the ship complied with the requirements of the said Regulations as regards fire-extinguishing appliances and radiotelephone and was provided with navigation lights and shapes and means of making sound signals and distress signals, in accordance with the provisions of the Regulations and the Merchant Shipping (Prevention of Collisions at Sea) Regulations as amended.\n5.That the freeboard has been assigned and load line marked in accordance with the Regulations.\nFreeboard from deck line ……………… mm.\nThis Certificate shall, unless cancelled, remain in force until ………………………\nIssued on ……………………..\n…………………………\nDirector of Marine,\nSingapore.\n* Delete where inapplicable.\nFORM II\n(Regulation 10(2))\nREPUBLIC OF SINGAPORE\nEXEMPTION CERTIFICATE\nName of Ship\nPort and\nLicence/Official Number\nLength Of Ship\nGross Tonnage\nTHIS IS TO CERTIFY —\nThat under regulation 5 of The Merchant Shipping (Special Limits Passenger Ships) Safety Regulations, the above-mentioned ship is exempted from the requirements of regulation(s) ……………….. of the Regulations subject to the following condition(s):\nThis certificate shall, unless cancelled, remain in force until ………………………\nIssued on ……………………..\n…………………………\nDirector of Marine,\nSingapore.\n[S 229/97 wef 09/05/97]"
+   }
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+# ==========================================================================
+# 中国—东盟法律法规数据库 (CALR) · 仓库只收录对外交付所需内容
+# 本仓库仅跟踪：README.md、prototype/、rules/、tools/
+# 其余目录（_work、docs、deliverables、dataset 等）均为本地工作区，不入库
+# ==========================================================================
+
+# 默认忽略一切，再逐个放行需要入库的路径
+/*
+!.gitignore
+!README.md
+!prototype/
+!rules/
+!tools/
+
+# --- 即使被上面的规则放行，以下内容仍不入库 ---
+# 工作区与中间产物
+_work/
+docs/
+deliverables/
+dataset/
+rules/data/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
+
+# 临时与备份
+*.bak
+*.bak-*
+*.orig
+*.tmp
+*~
+*.pre-*

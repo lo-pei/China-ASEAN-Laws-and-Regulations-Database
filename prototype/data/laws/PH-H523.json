@@ -1,0 +1,84 @@
+{
+ "id": "PH-H523",
+ "title": {
+  "zh": null,
+  "en": "An Act Creating a Pension Commission to Study a Pension Plan for Employees and Laborers of Private Business and Industry",
+  "orig": "An Act Creating a Pension Commission to Study a Pension Plan for Employees and Laborers of Private Business and Industry"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p07",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1950-06-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 532",
+ "officialCode": null,
+ "topics": [
+  "labor"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 2044,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1950/ra_532_1950.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1950/ra_532_1950.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H523-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There is created in the Office of the President of the Philippines a Pension Commission composed of the Secretary of Labor, as chairman, and two others to be appointed by the President of the Philippines with the consent of the Commission on Appointments, as members, one to represent the interests of the employers and the other to represent the interests of the employees and laborers. The General Manager of the Government Service Insurance System shall be the Adviser and a member ex officio of the said Commission. With the exception of the Secretary of Labor, the members of the Commission shall be entitled to receive per diem, to be fixed by the resident of the Philippines, not exceeding twenty pesos or every meeting of the Commission attended by them.\nThe Commission may, with the consent of the corresponding head of any government department, agency, or corporation, use the services of any officer or employee therein."
+   }
+  },
+  {
+   "id": "PH-H523-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "It shall be the function of the Pension Commission make a comprehensive study of a pension plan for employees and laborers of private business and industry, estates and government-owned or controlled business corporations, in the Philippines, taking into consideration the nature and capital of the various business and industries, the gross and net profits thereof, the kind of work in which the employees and laborers are engaged, their age, physical condition, and length of service, the amount of pension, and other allied factors.\nThe Commission shall submit the result of its studies and a comprehensive pension plan for employees and laborers of private business and industry in the Philippines to the President of the Philippines and to both Houses of Congress on or before December thirty-one, nineteen hundred and fifty."
+   }
+  },
+  {
+   "id": "PH-H523-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The sum of ten thousand pesos, or so much thereof as may be necessary, is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act."
+   }
+  },
+  {
+   "id": "PH-H523-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, June 16, 1950."
+   }
+  }
+ ]
+}

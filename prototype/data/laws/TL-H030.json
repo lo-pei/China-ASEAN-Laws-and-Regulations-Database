@@ -1,0 +1,211 @@
+{
+ "id": "TL-H030",
+ "title": {
+  "zh": "对章程Magistrados Judiciais的修改",
+  "en": null,
+  "orig": "Alteração ao Estatuto dos Magistrados Judiciais"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2004-12-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 11/2004",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 13,
+ "chars": 9179,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2002_2005/leis_parlamento_nacional/11_2004.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 13 条；逐字取自官方公报 PDF（public/docs/2002_2005/leis_parlamento_nacional/11_2004.pdf）第 —–— 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 本法条文止于第 111 条；其后另起条号续排第 2 条起共 115 条（「再版附件」：被修订／被替代规范的全文再版，条号重新编号），已按体例截断，未并入本法条文。 原公报条号不连续（缺第 10、11、12、13、14、15、16、19、21、22、23、24、26、27、28、30、32、33、34、35、36、37、38、39、40、41、42、43、44、45、46、47、48、49、50、51、52、53、54、55、56、57、58、59、60、61、62、63、64、65、66、67、68、69、70、71、72、73、74、75、76、77、78、79、80、81、82、83、84、85、86、87、88、89、90、91、92、93、94、95、96、97、98、99、100、101、103、106、107、108 条）：本法 为「修改法」，其条文以**被修改文书**的条号标示，条号跳跃属该体例使然。 条号自第 9 条起而非自 1 起（止于第 111 条）：本法 为「修改法」，条号承被修改文书之后编号，属该体例使然。 已剔除「再版附件」115 条——该部分系被修订法的再版全文，不属本法条文。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H030-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "heading": {
+    "pt": "Composição"
+   },
+   "text": {
+    "pt": "1. O Conselho Superior da Magistratura Judicial é presidido pelo Presidente do Supremo Tribunal de Justiça e composto pelos seguintes vogais:\na)      Um designado pelo Presidente da República;\nb)      Um eleito pelo Parlamento Nacional;\nc)      Um designado pelo Governo;\nd)      Um magistrado judicial eleito pelos seus pares.\n2. Cada uma das entidades mencionadas no n.o 1 designa ou elege ainda um membro suplente, que substitui o membro efectivo nas suas ausências ou impedimentos.\n3. O Conselho, na sua primeira sessão, elege, por voto secreto e por maioria simples, um Vice-Presidente.\nArtigo 12.˚ Requisitos para a designação e eleição Podem ser eleitos ou designados  para o Conselho Superior da Magistratura Judicial magistrados judiciais ou do Ministério Público ou outros juristas, bem como personalidades de reconhecido mérito."
+   }
+  },
+  {
+   "id": "TL-H030-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "heading": {
+    "pt": "Forma das deliberações"
+   },
+   "text": {
+    "pt": "As deliberações do Conselho Superior da Magistratura Judicial revestem a forma de resolução ou despacho e, quando relativas à nomeação, colocação, transferência, promoção ou exoneração de magistrado judicial ou aplicação das penas de suspensão de exercício, inactividade, aposentação compulsiva ou demissão de magistrados judiciais, ou quando o Conselho assim o deliberar, são publicadas no Jornal da República."
+   }
+  },
+  {
+   "id": "TL-H030-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "heading": {
+    "pt": "Competência do Presidente"
+   },
+   "text": {
+    "pt": "Compete ao Presidente do Conselho Superior da Magistratura Judicial:\na) Representar o Conselho;\nb) Convocar e presidir às respectivas reuniões;\nc) Superintender nos serviços administrativos do Conselho;\nd) Dirigir e coordenar a Inspecção Judicial;\ne) Elaborar ordens de execução permanente e praticar os actos urgentes que sejam necessários ao bom funcionamento dos Tribunais, com excepção dos relativos às matérias previstas no n.o 1 do artigo 15.º;\nf) Exercer as demais funções atribuídas por lei."
+   }
+  },
+  {
+   "id": "TL-H030-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "heading": {
+    "pt": "Delegação de poderes"
+   },
+   "text": {
+    "pt": "O Conselho Superior da Magistratura Judicial pode delegar no Presidente, com faculdade de subdelegação no Vice-Presidente, os poderes para:\na) Ordenar inspecções extraordinárias;\nb) Instaurar inquéritos e sindicâncias;\nc) Autorizar que magistrados judiciais ou funcionários se ausentem do serviço;\nd) Autorizar magistrado judicial a comparecer ou prestar declarações perante qualquer autoridade."
+   }
+  },
+  {
+   "id": "TL-H030-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "heading": {
+    "pt": "Requisitos de ingresso na magistratura judicial"
+   },
+   "text": {
+    "pt": "1.    Constituem requisitos para a nomeação como magistrado judicial:\na)   Ser cidadão nacional;\nb)   Estar no pleno gozo dos direitos civis e políticos;\nc)   Ter mais de 25 anos de idade;\nd)   Ser licenciado em Direito;\ne)   Ter cumprido o estágio com classificação mínima de ‘Bom’;\nf)    Ter sido aprovado em provas específicas;\ng)   Satisfazer os demais requisitos estabelecidos na lei para a nomeação para o exercício da função pública.\n2.    O estágio para ingresso, que tem uma duração de 2 a 3 anos, é regulado por diploma próprio.\n3. O Conselho Superior da Magistratura Judicial pode nomear para exercer a função jurisdicional, como juízes estagiários, os estagiários que revelem ter a preparação necessária para o efeito.\n4.    Os juízes estagiários não integram a carreira da magistratura judicial e exercem a função jurisdicional até ao termo da duração do estágio, salvo deliberação do Conselho Superior da Magistratura Judicial em contrário."
+   }
+  },
+  {
+   "id": "TL-H030-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "heading": {
+    "pt": "Juízes conselheiros"
+   },
+   "text": {
+    "pt": "1.   O Presidente do Supremo Tribunal de Justiça é nomeado pelo Presidente da República, de entre juízes do Supremo Tribunal de Justiça, para um mandato de quatro anos, estando tal nomeação sujeita a ratificação do Parlamento Nacional.\n2.    Os juízes conselheiros são nomeados pelo Conselho Superior da Magistratura Judicial de entre juízes de direito de 1.ª  classe com classificação de ‘Muito bom’, com, pelo menos, oito anos de exercício na classe, e juristas de reconhecido mérito, com, pelo menos, 15 anos de actividade profissional na área do Direito.\n3. Ao Parlamento Nacional cabe eleger um juiz conselheiro, de entre magistrados ou juristas que reúnam os requisitos do número anterior.\n4. O Supremo Tribunal de Justiça pode compor-se, inicialmente, com um número mínimo de 5 juízes conselheiros.\n5. Os juízes conselheiros exercem funções até atingirem o limite de idade ou de tempo de serviço, salvo por outro motivo, nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H030-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "heading": {
+    "pt": "Posse"
+   },
+   "text": {
+    "pt": "Os magistrados judiciais tomam posse da seguinte forma:\na) O Presidente do Supremo Tribunal de Justiça perante o Presidente da República;\nb) Os demais magistrados judiciais perante o Presidente do Supremo Tribunal de Justiça.\nArigo 34.º Incompatibilidades Os magistrados judiciais em exercício não podem desempenhar quaisquer outras funções públicas ou privadas, excepto actividades de docência e investigação científica ou de natureza jurídica para as quais tenham obtido autorização prévia do Conselho Superior da Magistratura Judicial."
+   }
+  },
+  {
+   "id": "TL-H030-A102",
+   "no": 102,
+   "noLabel": {
+    "pt": "Artigo 102.º"
+   },
+   "heading": {
+    "pt": "Regime subsidiário"
+   },
+   "text": {
+    "pt": "É aplicável subsidiariamente aos magistrados judiciais o regime da função pública quanto a deveres, incompatibilidades, direitos e responsabilidade disciplinar."
+   }
+  },
+  {
+   "id": "TL-H030-A104",
+   "no": 104,
+   "noLabel": {
+    "pt": "Artigo 104.º"
+   },
+   "heading": {
+    "pt": "Recursos"
+   },
+   "text": {
+    "pt": "1. Das decisões do Conselho Superior da Magistratura Judicial cabe recurso para o Supremo Tribunal de Justiça.\n2. O recurso referido no n.o 1 é decidido por uma secção de três juízes conselheiros designados pelo Presidente do Supremo Tribunal de Justiça, por quatro anos, presidida pelo juiz conselheiro mais antigo.\n3. Da secção referida no n.o 2 não podem fazer parte juízes que sejam membros do Conselho Superior da Magistratura Judicial."
+   }
+  },
+  {
+   "id": "TL-H030-A105",
+   "no": 105,
+   "noLabel": {
+    "pt": "Artigo 105.º"
+   },
+   "heading": {
+    "pt": "Interposição de recurso, prazo e efeito"
+   },
+   "text": {
+    "pt": "1. O prazo para reclamar e interpor recurso é de 8 dias contados desde a data da notificação.\n2. A interposição do recurso tem efeito devolutivo."
+   }
+  },
+  {
+   "id": "TL-H030-A109",
+   "no": 109,
+   "noLabel": {
+    "pt": "Artigo 109.º"
+   },
+   "heading": {
+    "pt": "Composição provisória do Conselho Superior da Magistratura Judicial"
+   },
+   "text": {
+    "pt": "1. Até que seja possível nomear magistrados judiciais de carreira e instalar o Supremo Tribunal de Justiça, o Conselho Superior da Magistratura Judicial é presidido pelo Presidente do Tribunal de Recurso e constituído por este e pelos seguintes vogais:\na) Um designado pelo Presidente da República;\nb) Um eleito pelo Parlamento Nacional;\nc) Um designado pelo Governo;\nd) Um juiz ou juiz estagiário eleito por todos os juízes e juízes estagiários.\n2. Cada uma das entidades mencionadas no n.o 1 designa ou elege ainda um membro suplente, que substitui o membro efectivo nas suas ausências ou impedimentos.\n3. Sem prejuízo do disposto no alínea d) do n.o 1, podem ser eleitos ou designados para o Conselho Superior da Magistratura Judicial outros juristas, bem como personalidades de reconhecido mérito.\n4. O Conselho Superior da Magistratura Judicial pode socorrer-se da assessoria técnica de juízes internacionais, sempre que o reputar necessário.\n5. Transitoriamente, enquanto não se mostrar possível dotar e instalar a Secretaria do Conselho Superior da Magistratura Judicial dos necessários meios, as suas funções serão desempenhadas por funcionários judiciais, destacados para o efeito.\n6. O Conselho Superior da Magistratura Judicial pode, sempre que se mostrar necessário e conveniente, nomear para exercer as funções de secretário do Conselho e de inspector judicial juízes internacionais com pelo menos 5 anos de experiência e provenientes de sistema judiciário civilista.\n7. O Conselho Superior da Magistratura Judicial pode, sempre que se mostrar necessário e conveniente, nomear para exercer as funções de inspector contador e secretário de inspecção oficiais de justiça internacionais com pelo menos 5 anos de experiência e provenientes de sistema judiciário civilista.\n8. O recurso das decisões do Conselho Superior da Magistratura Judicial é decidido por uma secção de três juízes designados pelo Presidente do Tribunal de Recurso, de entre juízes que não sejam membros desse Conselho, presidida pelo mais antigo deles."
+   }
+  },
+  {
+   "id": "TL-H030-A110",
+   "no": 110,
+   "noLabel": {
+    "pt": "Artigo 110.º"
+   },
+   "heading": {
+    "pt": "Tribunal de Recurso"
+   },
+   "text": {
+    "pt": "1. O Tribunal de Recurso exerce as competências próprias do Supremo Tribunal de Justiça até à sua entrada em funcionamento.\n2. Até à instalação e início de funcionamento do Supremo Tribunal de Justiça, os juízes para o Tribunal de Recurso podem ser nomeados pelo Conselho Superior da Magistratura Judicial, de entre os juízes de categoria inferior a 1ª classe ou juízes estagiários, tendo em conta a sua avaliação ou classificação, ou juristas de reconhecido mérito com, pelo menos, 8 anos de actividade profissional na área do Direito.\n3. Cabe ao Parlamento Nacional eleger um juiz para o Tribunal de Recurso, nos termos do previsto no n.° 2 do artigo 125.° da Constituição, de entre pessoas que reúnam os requisitos indicados no número anterior.\n4. O Presidente do Tribunal de Recurso é nomeado pelo Presidente da República de entre os juízes desse tribunal, para um mandato de 4 anos renovável.\n5. Os juízes de categoria inferior a 1ª classe e juízes estagiários nomeados para o Tribunal de Recurso mantêm a categoria respectiva, sendo os lugares que ocupam colocados a concurso decorridos três anos sobre a sua nomeação.\n6. O Presidente do Tribunal de Recurso toma posse perante o Presidente da República e os restantes juízes desse tribunal perante o Presidente do Tribunal de Recurso."
+   }
+  },
+  {
+   "id": "TL-H030-A111",
+   "no": 111,
+   "noLabel": {
+    "pt": "Artigo 111.º"
+   },
+   "heading": {
+    "pt": "Juízes internacionais"
+   },
+   "text": {
+    "pt": "1. O Conselho Superior da Magistratura Judicial pode, sempre que se mostrar necessário e conveniente, seleccionar, por concurso curricular, juízes internacionais com pelo menos 5 anos de experiência que sejam provenientes de sistema judiciário civilista ou especializados em Direito comparado, para integrarem provisoriamente a organização judiciária de Timor-Leste.\n2. Os dispositivos da presente lei aplicam-se, com as devidas adaptações, aos juízes internacionais que exercem funções na organização judiciária de Timor-Leste."
+   }
+  }
+ ]
+}

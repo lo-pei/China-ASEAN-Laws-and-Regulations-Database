@@ -1,0 +1,62 @@
+{
+ "id": "SG-H1134",
+ "title": {
+  "zh": null,
+  "en": "Denominations and Characteristics of the Coins",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p14",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CA1967-S542-1999",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 487,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CA1967-S542-1999?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 2 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1134-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Currency Act\n(Chapter 69)\nPursuant to section 17(5) of the Currency Act, it is hereby notified for general information that the denominations and characteristics of the coins to be issued on 8th December 1999 by the Board of Commissioners of Currency, Singapore, are as shown in the Schedule."
+   }
+  },
+  {
+   "id": "SG-H1134-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\n(a) Obverse Design of $5 Millennium Proof Coin\n(b) Obverse Design of $5 Millennium Circulation Coin\n(c) Common Reverse Design of Millennium Proof & Circulation Coins\n(d) Latent Image"
+   }
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": "PH-H4347",
+ "title": {
+  "zh": null,
+  "en": "An Act to Authorize the University of the Philippines to Establish Scholarships, to Provide Funds Therefor, and for Other Purposes",
+  "orig": "An Act to Authorize the University of the Philippines to Establish Scholarships, to Provide Funds Therefor, and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p61",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1969-06-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 5549",
+ "officialCode": null,
+ "topics": [
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2109,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1969/ra_5549_1969.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1969/ra_5549_1969.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4347-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "In order to implement Section Five, Article XIV of the Constitution of the Philippines providing, among others, that \"the State shall create scholarships in arts, science and letters for specially gifted citizens,\" and in order to accelerate the development of highly trained manpower for agriculture, trade and industry, the Board of Regents of the University of the Philippines, is hereby authorized to establish in the said University, a system of scholarships for bright and deserving citizens to be awarded on the basis of annual competitive examinations in Manila, Cebu, Iloilo, Davao and other principal cities of the Philippines and under the terms and conditions provided in the rules and regulations of the University, subject to the following conditions:\n(a) At least sixty percent of scholarships available for any year shall be provided students in the natural and physical sciences, engineering, agriculture, fisheries, forestry, economics and public administration.\n(b) Scholarships shall be uniform and shall consist of amounts fixed by the Board of Regents for school and living expenses, including matriculation, books, board and lodging. The amount fixed for living expenses shall be paid directly to the student every month as long as he meets the terms and conditions fixed by the University."
+   }
+  },
+  {
+   "id": "PH-H4347-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of one million pesos, to finance the system of scholarships of the University of the Philippines beginning in the fiscal year nineteen hundred seventy. Thereafter, the said amount shall be included in the General Appropriations Act. Said amount shall be allocated to the University of the Philippines as a special budgetary allocation, in addition to its regular annual appropriation: Provided, That all unexpended balances of said appropriation shall remain available for expenditure for scholarships even after the close of any fiscal year, any provision of existing laws to the contrary notwithstanding."
+   }
+  },
+  {
+   "id": "PH-H4347-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect immediately upon its approval.\nApproved, June 21, 1969."
+   }
+  }
+ ]
+}

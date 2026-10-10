@@ -1,0 +1,294 @@
+{
+ "id": "PH-H9572",
+ "title": {
+  "zh": null,
+  "en": "The National Payment Systems Act",
+  "orig": "An Act Providing for the Regulation and Supervision of Payment Systems \"The National Payment Systems Act\""
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p136",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2018-10-30",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 11127",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 25,
+ "chars": 26850,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2018/ra_11127_2018.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 25 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2018/ra_11127_2018.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H9572-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "- Title. - The short title of this Act shall be \"The National Payment Systems Act\"."
+   }
+  },
+  {
+   "id": "PH-H9572-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Declaration of Policy. - The State recognizes that payment systems are crucial parts of the financial infrastructure of the country and it is essential that they function safely and efficiently for the stability and effectiveness of the monetary and financial system."
+   }
+  },
+  {
+   "id": "PH-H9572-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Objectives. - The State shall promote, through the Bangko Sentral, the safe, secured, efficient and reliable operation of payment systems in order to control systemic risk and provide an environment conducive to the sustainable growth of the economy."
+   }
+  },
+  {
+   "id": "PH-H9572-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Definition of Terms. - For the purpose of this Act, the following terms shall refer to:\n(a) Bangko Sentral – the Bangko Sentral ng Pilipinas established under Republic Act No. 7653;\n(b) Clearing – the process of transmitting, reconciling, and in some cases, confirming payment orders prior to settlement, and the establishment of final payment obligations for settlement;\n(c) Designated payment system – the payment system that has been designated as such by the Bangko Sentral pursuant to this Act and its implementing rules and regulations;\n(d) Director - any member of the board of directors of a participant to the payment system, or a person considered as such under Bangko Sentral regulations;\n(e) End-use r - any person who originally initiates the instruction to pay or the ultimate receiver of funds in a payment system;\n(f) Fund – any unit of value that forms the consideration or object of transactions;\n(g) Issuer – any person who provides the means or the instrument to hold or transfer funds;\n(h) M anager - any person of recognized competence in payment system designated by the Bangko Sentral to manage the operations of the operator of a designated payment system as provided under Section 17 hereof. For this purpose, personnel of the Bangko Sentral may be designated as manager;\n(i) M onetary Board - the Monetary Board of the Bangko Sentral;\n(j) Netting - an agreed offsetting of obligations by participants of payment systems;\n(k) Officer – any person who is an employee holding a management position in any of the participants to the payment system, or a person considered as such under Bangko Sentral regulations;\n(l) Operator – any person who provides clearing or settlement services in a payment system, or defines, prescribes, designs, controls or maintains the operational framework for the system;\n(m) Participant – the operator, issuer, service provider, or any person involved in the payment system other than the end-user;\n(n) Payment instrument - any instrument, whether tangible or intangible, that enables a person to transfer funds;\n(o) Payment order – an order or message requesting the transfer of funds to the order of the payee;\n(p) Payment system – the set of payment instruments, processes, procedures and participants that ensures the circulation of money or movement of funds;\n(q) Payment S ystem Management Body - the entity organized by participants of the designated payment system for the purpose of self-regulation;\n(r) S ervice provider - an entity that provides process arrangements, technology or infrastructure to operators of a payment system;\n(s) Settlement – an act that discharges obligations in respect of fund transfers between two (2) or more parties; and\n(t) S ystemic risk – the risk that the failure of one (1) participant in a payment system, or in financial markets generally, to meet its required obligations will cause other participants or financial institutions to be unable to meet their obligations, including settlement obligations in a payment system, when due: Provided, That, such failure could threaten the stability of the system or financial markets."
+   }
+  },
+  {
+   "id": "PH-H9572-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "A uthority of the Bangko Sentral. – The Bangko Sentral shall oversee the payment systems in the Philippines and exercise supervisory and regulatory powers for the purpose of ensuring the stability and effectiveness of the monetary and financial system."
+   }
+  },
+  {
+   "id": "PH-H9572-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Powers of the Bangko Sentral. - In the performance of its mandate under this Act, the Bangko Sentral shall have, in addition to its powers under existing laws, the following powers:\n(a) Designate a payment system if it determines the payment system as posing or having the potential to pose a systemic risk or the designation is necessary to protect the public interest.\n(1) Any such determination by the Bangko Sentral shall be conclusive. The designation of a payment system by the Bangko Sentral shall be effective until revoked. The Bangko Sentral may revoke such designation if it finds that the designated payment system no longer poses any systemic risk or it is no longer in the public interest that the system be designated.\n(2) Should the Bangko Sentral designate a payment system, it shall require the participants of the designated payment system to comply, within a reasonable period, with the provisions of this Act and its implementing rules and regulations. The Bangko Sentral shall give due consideration to the orderly transition of the operations of the newly designated payment system to ensure that it operates in a safe, efficient and reliable manner.\n(b) Require operators of the designated payment system to secure prior authority from the Bangko Sentral.\n(1) In granting the authority, the Bangko Sentral shall take into consideration the capability of an operator in terms of its financial resources, technical expertise, and reputation. The licensing process shall include, but not be limited to, an assessment of the ownership structure, governance, key personnel, business model, risk management and financial resources.\n(2) No person or entity shall be allowed to act as an operator of a designated payment system without prior authority from the Bangko Sentral. The determination of whether a person or entity is acting as an operator of a designated payment system without Bangko Sentral authority shall be made by the Monetary Board. To resolve such issue, the Monetary Board may, through the appropriate department of the Bangko Sentral, examine, inspect or investigate the books and records of such person or entity.\n(c) Accredit or require, when deemed necessary, a payment system management body organized by participants of the designated payment system for the purpose of self-regulation.\n(1) The accredited payment system management body may issue and enforce its rules and regulations and impose appropriate sanctions among participants of the designated payment system : Provided, That, such rules and regulations shall be with prior Bangko Sentral approval and subject to its review.\n(d) Issue, through the Monetary Board, rules and regulations governing the following:\n(1) The standard of operation of payment systems and the conduct of examination of the participants of the designated payment systems, in such frequency as may be prescribed by the Monetary Board, to determine compliance with laws and regulations;\n(2) The adequacy of resources of operators of the designated payment systems to ensure that the designated payment systems have a high degree of security and operational reliability and have contingency requirements for timely completion of daily processing commitments;\n(3) The qualifications and disqualifications of individuals elected or appointed as directors or officers of operators of the designated payment systems with particular regard to their integrity, experience, education, training and competence. The Monetary Board may suspend, disqualify or remove any director or officer found unfit for the position;\n(4) The appropriate measures to ensure the confidentiality of payment information which, under the provisions of this Act and other existing laws, is considered confidential;\n(5) The necessary measures to ensure the compliance of designated payment systems with Republic Act No. 9160, as amended, otherwise known as the \"Anti-Money Laundering Act of 2001\", and other related laws;\n(6) The mechanism for the protection of the rights of the end-users and participants to the designated payment systems;\n(7) Principles on setting prices or pricing mechanisms in payment systems;\n(8) Guidelines applicable to payment system management bodies, including the grant and revocation of accreditation; and\n(9) Other pertinent matters as may be determined by the Monetary Board.\n(e) Issue, through the Monetary Board, directives and orders to any participant of a payment system whenever the Monetary Board has determined that it is necessary to ensure the safety, efficiency or reliability of a payment system or it is in the interest of the public to do so.\n(f) Require participants of payment systems to submit reports on their operations and provide information for statistical, policy development, supervisory and regulatory purposes.\n(g) Assess and collect from the participants of the designated payment systems an annual fee in such amount, as may be necessary to cover expenses related to or incidental to the conduct of supervisory functions over such entities, subject to the rules prescribed by the Monetary Board.\n(h) Such other powers as may be reasonably necessary to meet the objectives of this Act."
+   }
+  },
+  {
+   "id": "PH-H9572-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "A doption of International Standards and Practices. - In the exercise of its authority under this Act, the Bangko Sentral shall be guided by internationally accepted standards and practices."
+   }
+  },
+  {
+   "id": "PH-H9572-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "Bangko Sentral Authority to Own and Operate a Payment Sy stem. - The Bangko Sentral shall have the authority to own and operate payment systems as may be deemed necessary by the Monetary Board. The Bangko Sentral shall have the authority to determine who shall be allowed to participate in payment systems owned and operated by it and who shall be allowed to open an account with the Bangko Sentral for settlement purposes. The Bangko Sentral shall adopt internal safeguards to ensure appropriate independent oversight of its operator functions."
+   }
+  },
+  {
+   "id": "PH-H9572-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "text": {
+    "en": "Coordination with Other Government Agencies and Foreign Regulators. – The Bangko Sentral shall coordinate with other regulators and other concerned government agencies to avoid gaps, inefficiencies, duplications and inconsistencies in their respective regulation of other systems which are related to or interconnected with payment systems. The grant, suspension or revocation of any government license necessary for the conduct of business of a payment system operator must be done only with prior consultation with the Bangko Sentral.\nThe Bangko Sentral shall coordinate with the Securities and Exchange Commission (SEC) to facilitate the orderly discharge of payment obligations arising from security transactions in securities trading, clearing and settlement systems under Republic Act No. 8799 or \"The Securities Regulation Code\".\nThe Bangko Sentral shall likewise coordinate with the overseers of payment systems of other countries to facilitate safe, efficient and reliable cross-border payment transactions."
+   }
+  },
+  {
+   "id": "PH-H9572-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "text": {
+    "en": "Registration of Payment System Operators. - Within six (6) months from the effectivity of this Act, all operators of payment systems as defined under Section 4 of this Act shall register with the Bangko Sentral. Operators of payment systems, which shall commence business or operations subsequent to the effectivity of this Act, shall register with the Bangko Sentral in such manner and within such reasonable period as may be prescribed by the Monetary Board."
+   }
+  },
+  {
+   "id": "PH-H9572-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "text": {
+    "en": "Organization of Operators of Designated Payment Sy stems. - Operators of the designated payment system, except payment systems operated by the Bangko Sentral, shall be required to incorporate as stock corporations for the purpose of operating a payment system, and shall meet the minimum requirements as may be prescribed by the Monetary Board. Operators of designated payment systems, so long as they continue to be authorized by the Bangko Sentral to operate as such, shall not be included in the definition of a debtor under Republic Act No. 10142, otherwise known as the \"Financial Rehabilitation and Insolvency Act (FRIA) of 2010\"."
+   }
+  },
+  {
+   "id": "PH-H9572-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "text": {
+    "en": "Certificate of Authority to Register Operators of Designated Payment System. – The SEC shall not register the articles of incorporation of any operator of a designated payment system, or any amendment thereto, or otherwise issue a license to do business in the Philippines, unless accompanied by a certificate of authority to register issued by the Monetary Board, under its seal. The SEC shall also not register the by-laws of any operator of a designated payment system, or any amendment thereto, unless accompanied by a certificate of authority from the Bangko Sentral."
+   }
+  },
+  {
+   "id": "PH-H9572-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "text": {
+    "en": "Transfer and A cquisition of Substantial Shareholdings. – No person shall acquire shares in an operator of a designated payment system that will result in ownership or control, directly or indirectly, of more than ten percent (10%) of the voting stock of such operator, without obtaining the prior approval of the Monetary Board. Prior to Monetary Board approval, no such transfer or acquisition of shares shall have legal effect nor shall the same be recognized in the stock and transfer books of the operator or in the records of any government agency."
+   }
+  },
+  {
+   "id": "PH-H9572-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "text": {
+    "en": "Responsibilities of the Operator of the Designated Payment System. – The operator of the designated payment system shall be primarily responsible for the maintenance and operation of a safe, efficient and reliable payment system in accordance with rules and regulations. This includes the development of a process, which shall be subject to Bangko Sentral review, for the selection, monitoring and self-regulation."
+   }
+  },
+  {
+   "id": "PH-H9572-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "text": {
+    "en": "Finality of Settlement. - Notwithstanding the provisions of existing laws to the contrary, settlement effected in accordance with the agreed procedures of a payment system shall be final and irrevocable and shall not be subject to reversal for any reason whatsoever: Provided, That, if it is shown and established that any such fund so paid and transferred was not legally due, the settlement shall remain and such amount shall constitute a new monetary obligation owed by the payee to the person who caused the payment."
+   }
+  },
+  {
+   "id": "PH-H9572-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "text": {
+    "en": "Notification in Case of Insolvency of Participant in a Payment System. - The participant of a payment system shall notify in writing the operator of such payment system upon the issuance of a stay order or the declaration of insolvency, bankruptcy, rehabilitation or placement under receivership or liquidation of the participant on the day of the receipt of the order or resolution issued by the court or quasi-judicial agency. Upon receipt by the operator of such notice, the operator shall immediately stop the processing of any pending payment order involving said participant.\nThe operator of a payment system shall notify in writing its participants and the Bangko Sentral upon the issuance of a stay order or the declaration of its insolvency, bankruptcy, rehabilitation or placement under liquidation on the day of the receipt of the order or resolution issued by the court or quasi-judicial agency."
+   }
+  },
+  {
+   "id": "PH-H9572-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "text": {
+    "en": "Designation of a Manager to Manage the Operations of the Operator of a Designated Payment Sy stem. - In order to avert disruptions in payment systems which may adversely affect the country's monetary and financial stability, the Bangko Sentral may, upon determination of the existence of any of the circumstances enumerated below, based on the report of the head of the supervising or examining department, and with prior approval of the Monetary Board, designate without need for prior hearing a manager of recognized competence in payment systems to manage the operations of the operator of a designated payment system, as may be necessary or expedient.\nA threat to the safety, efficiency and reliability of the designated payment system exists as a result of any of the following:\n(a) The violation of existing laws, rules and regulations by the operator;\n(b) The failure of the operator to comply with any order of the Monetary Board;\n(c) The assets of the operator are not sufficient to give adequate protection to its participants or end-users; (d) The capital of the operator has reached a level or is eroding in a manner that may detrimentally affect its participants, users or the public in general; or\n(e) Any other financial or business condition of the operator which may be considered by the Monetary Board to be prejudicial to the interests of its participants, users or the public in general.\nThe actions of the Monetary Board taken under this section shall be final and executory, and may not be restrained or set aside by the court except on petition for certiorari on the ground that the action taken was in excess of jurisdiction or with such grave abuse of discretion as to amount to lack or excess of jurisdiction. The petition for certiorari may only be filed by the stockholders of record representing the majority of the capital stock within ten (10) days from receipt by the board of directors of the operator of the designated payment system of the notice from the Bangko Sentral advising of the designation of a manager to manage the operations of such operator.\nThe designation of a manager who will manage the operations of the operator of a designated payment system shall only be for such period during which any of therefore mentioned circumstances exists. The Monetary Board, however, may replace the manager as it may deem necessary. The manager so designated shall immediately control, manage, and administer the operations of the operator of a designated payment system. Effective immediately upon designation, the powers, functions, and duties, as well as allowances, remunerations and perquisites of the incumbent directors shall be suspended. The suspension shall also apply to the officers of such operator of a designated payment system, unless the manager gives its approval in writing for any officer to continue acting as such under such terms and conditions as the manager may determine. The relevant provisions of the articles of incorporation and by-laws of such operator are likewise suspended.\nThe manager so designated shall determine within the period prescribed by the Monetary Board, but not to exceed one (1) year from the designation, whether any of the aforementioned circumstances still exists or whether the operator of a designated payment system may be permitted to resume management with safety to its payment system participants and end-users : Provided, That any determination for the resumption of management of the operator of a designated payment system shall be subject to prior approval of the Monetary Board.\nIf the manager so designated determines that the operator of a designated payment system cannot continue its operation without causing damage to its participants, end-users or the public in general, the manager so designated shall notify the Monetary Board in writing of its findings and recommend the revocation of the certificate of authority of an operator of a designated payment system. Once the certificate of authority is revoked by the Monetary Board, the provisions of Republic Act No. 10142 shall apply. For this purpose, the Bangko Sentral may initiate the appropriate action under the aforesaid law.\nThe costs and expenses in managing the operations of the operator of a designated payment system, including the remuneration of the designated manager, shall be paid first before other claims out of the funds and properties of the operator of a designated payment system.\nThe Monetary Board shall issue implementing guidelines to govern the management of the operations of the operator of a designated payment system by the designated manager, including but not limited to:\n(a) The responsibilities of the designated manager;\n(b) The information required to be given by the operator, its directors and officers to the designated manager to facilitate the management of the operations of the operator;\n(c) The circumstances, terms, and conditions when the assets of the operator may be sold or disposed of; and\n(d) Other matters related to the effective management of the operations of the operator and the appropriate performance of the duties of the designated manager to manage the operations of the operator."
+   }
+  },
+  {
+   "id": "PH-H9572-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "text": {
+    "en": "N etting. - Notwithstanding the provisions of existing laws to the contrary, when an operator receives from the participant a notice pursuant to Section 16, the operator may effect the netting of all payment orders received before such notice in accordance with the (agreed procedures of the payment system. The insolvency, bankruptcy, rehabilitation, receivership or liquidation proceedings shall recognize any such netting as valid."
+   }
+  },
+  {
+   "id": "PH-H9572-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "text": {
+    "en": "A dministrative Sanctions. -\n(a) Without prejudice to the penalties and sanctions provided in Section 20 of this Act, the Monetary Board may, at its discretion, impose upon any participant of a designated payment system, its directors and officers, including any person or entity determined by the Monetary Board to be acting as an operator without the requisite authority from the Bangko Sentral, for violations of this Act or rules and regulations issued by the Monetary Board or any order or instruction of the Governor of the Bangko Sentral, fines in amounts as may be determined by the Monetary Board to be appropriate, but not to exceed One million pesos (P1,000,000.00) for each transactional violation or One hundred thousand pesos (P100,000.00) a day for each continuing violation, depending on the nature and gravity of the violation or irregularity: Provided, That, in case profit is gained or loss is avoided as a result of the violation, an additional fine of no less than the profit gained or loss avoided but no more than three (3) times the profit gained or loss avoided may be imposed.\n(b) The Monetary Board may suspend, disqualify, or remove any of the directors or officers of the operator of a designated payment system, in any of the following instances:\n(1) Willful violation of the charter or by-laws of the operator of the designated payment system;\n(2) Willful delay in the submission of reports of publications thereof as required by the rules and regulations to be issued by the Monetary Board pursuant to this Act;\n(3) Refusal to permit examination into the affairs of the operator of the designated payment system;\n(4) Willful making of a false or misleading statement to the Monetary Board or Bangko Sentral examiners; (5) Willful failure or refusal to comply with any provision of this Act, rule or regulation or any order instruction issued by the Monetary Board pursuant to this Act, or any order or instruction of the Governor of the Bangko Sentral; and\n(6) Willful commission of irregularities or the conduct of business that threatens the safety, efficiency or reliability of a payment system as may be determined by the Monetary Board.\nThe suspension of directors and officers of the operator of a designated payment system shall not be more than one (1) year, depending on the nature and gravity of the violation or irregularity. Resignation or termination from office shall not exempt such director or officer from administrative or criminal sanctions.\n(c) Notwithstanding the institution or pendency of an administrative proceeding, if the participant of a designated payment system and its directors and its officers concerned continue with or otherwise persist in the commission of the cited practice or violation, the Bangko Sentral may issue an order requiring such participant and its directors and officers concerned to cease and desist from the cited practice or violation, and may further order that immediate action be taken to correct the conditions resulting from such practice or violation. The cease and desist order shall be immediately effective upon service on the respondents.\n(d) The revocation of the certificate of authority of an operator of a designated payment system may be ordered by the Monetary Board on the following grounds:\n(1) The operator committed a violation of or has not complied with the provisions of this Act or the rules and regulations on orders and instructions issued by the Monetary Board or any order or instruction of the Governor of the Bangko Sentral, involving acts or violations which amount to fraud or expose its participants or the public to material loss or damage; or\n(2) The operator committed a violation of or has not complied with the provisions of this Act or the rules and regulations or orders and instructions issued by the Monetary Board or any order or instruction of the Governor of the Bangko Sentral, or failed to implement the rules of the payment system or a cease and desist order issued by the Bangko Sentral, and such violation or failure has been determined by the Monetary Board to be a threat to the safety, efficiency or reliability of the payment system or poses a risk to the stability of the monetary and financial system.\n(e) The cancellation of the registration of any operator of a payment system may be ordered by the Monetary Board, if it finds that the payment system operates to facilitate fraud and other transactions contrary to law, good morals and public policy.\nThe Monetary Board may also order the suspension or revocation of the certificate of authority or the registration with the Bangko Sentral of an operator of a payment system on the basis of the suspension or revocation of its permits or licenses issued by other government agencies."
+   }
+  },
+  {
+   "id": "PH-H9572-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "text": {
+    "en": "Other Penalties and Sanctions. - Whenever any person or entity willfully violates this Act, rule or regulation, directives or orders duly promulgated by the Monetary Board pursuant hereto, the person or persons responsible for such violation shall be punished by a fine of not less than Two hundred thousand pesos (P200,000.00) or more than Two million pesos (P2,000,000.00) or by imprisonment of not less than two (2) years nor more than ten (10) years, or both, at the discretion of the court."
+   }
+  },
+  {
+   "id": "PH-H9572-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "text": {
+    "en": "Implementing Rules and Regulations. - Within sixty (60) days from the effectivity of this Act, the Bangko Sentral ng Pilipinas (BSP) shall promulgate the necessary rules and regulations for the effective implementation of this Act."
+   }
+  },
+  {
+   "id": "PH-H9572-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "text": {
+    "en": "S eparability Clause. - Should any provision herein be declared unconstitutional, the same shall not affect the validity of the other provisions of this Act."
+   }
+  },
+  {
+   "id": "PH-H9572-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "text": {
+    "en": "Repealing Clause. – All laws, decrees, orders, rules, and regulations or other issuances or parts inconsistent with the provisions of this Act are hereby repealed or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H9572-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "text": {
+    "en": "Transitory Provision. - Payment systems existing on the day of the effectivity of this Act shall be given sufficient time, as may be determined by the Bangko Sentral, to comply with the requirements of this Act."
+   }
+  },
+  {
+   "id": "PH-H9572-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "text": {
+    "en": "Effectivity. - This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in two (2) newspapers of general circulation in the Philippines."
+   }
+  }
+ ]
+}

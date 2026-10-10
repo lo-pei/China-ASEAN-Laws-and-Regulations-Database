@@ -1,0 +1,1244 @@
+{
+ "id": "SG-H057",
+ "title": {
+  "zh": null,
+  "en": "Accounting and Corporate Regulatory Authority Act 2004",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p01",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act ACRAA2004",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 78,
+ "chars": 118383,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/ACRAA2004?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 78 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 6 篇以 900000+ 序号随同收录。其中 5 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H057-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Accounting and Corporate Regulatory Authority Act 2004."
+   }
+  },
+  {
+   "id": "SG-H057-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2.—(1) In this Act, unless the context otherwise requires —\n“Authority” means the Accounting and Corporate Regulatory Authority established under section 3;\n“Chairperson” means the Chairperson of the Authority appointed under section 5(1)(a) and includes any temporary Chairperson of the Authority;\n“chartered accountant” means a person registered or deemed to be registered as a Chartered Accountant of Singapore under Part 6B;\n[Act 36 of 2022 wef 01/04/2023]\n“Chief Executive” means the Chief Executive of the Authority, and includes any individual acting in that capacity;\n“debenture” includes debenture stock;\n“Deputy Chairperson” means any person who is appointed under section 5(3)(a) to be the Deputy Chairperson of the Authority;\n“member” means a member of the Authority;\n“public accountant” means a person who is registered or deemed to be registered in accordance with the Accountants Act 2004 as a public accountant;\n[Act 36 of 2022 wef 01/04/2023]\n“Public Accountants Board” means the Public Accountants Board established under section 3 of the Accountants Act (Cap. 2, 2001 Revised Edition) repealed by the Accountants Act 2004;\n“Registry of Companies and Businesses” means the Government department known as the Registry of Companies and Businesses;\n“securities”, in relation to a company, includes shares, debentures, bonds and other securities of the company, whether or not constituting a charge on the assets of the company;\n“shares” includes stocks.\n[5/2018; 44/2018]\n(2) A reference in this Act to a written law specified in the Second Schedule or Fifth Schedule includes a part of a written law specified in that Schedule.\n[44/2018]\n[Act 28 of 2019 wef 01/04/2026]\n(3) To avoid doubt, a reference to “company” in the definition of “securities” in subsection (1), and in section 7(2)(b), includes a VCC as defined in the Variable Capital Companies Act 2018.\n[44/2018]"
+   }
+  },
+  {
+   "id": "SG-H057-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION ANDCONSTITUTION OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Establishment and incorporation of Accounting and Corporate Regulatory Authority"
+   },
+   "text": {
+    "en": "3. A body called the Accounting and Corporate Regulatory Authority is established, which is a body corporate with perpetual succession and is by that name capable of —\n(a)suing and being sued;\n(b)acquiring, owning, holding and developing or disposing of property, both movable and immovable; and\n(c)doing and suffering any other acts or things that bodies corporate may lawfully do and suffer."
+   }
+  },
+  {
+   "id": "SG-H057-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION ANDCONSTITUTION OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Common seal"
+   },
+   "text": {
+    "en": "4.—(1) The Authority must have a common seal and such seal may be broken, changed, altered or made anew as the Authority thinks fit.\n(2) All deeds and other documents requiring the seal of the Authority must be sealed with the common seal of the Authority.\n(3) All instruments to which the common seal is affixed must be signed by any 2 members generally or specially authorised by the Authority for the purpose or by one member and the Chief Executive.\n(4) All courts, judges and persons acting judicially are to take judicial notice of the common seal of the Authority affixed to any document and presume that it was duly affixed."
+   }
+  },
+  {
+   "id": "SG-H057-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 ESTABLISHMENT, INCORPORATION ANDCONSTITUTION OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Constitution of Authority"
+   },
+   "text": {
+    "en": "5.—(1) The Authority consists of the following members, all of whom must be appointed by the Minister:\n(a)a Chairperson;\n(b)not less than 10 but not more than 15 other members.\n(2) The members appointed under subsection (1)(b) are to include —\n(a)one public accountant to be selected by the Minister from a list of at least 2 public accountants nominated by each designated professional accountancy body; and\n(b)one non-practising accountant to be selected by the Minister from a list of at least 2 non‑practising accountants nominated by each designated professional accountancy body.\n[18/2014]\n(3) The Minister may appoint —\n(a)a member of the Authority to be its Deputy Chairperson; and\n(b)the Chief Executive to be a member.\n(4) The First Schedule has effect with respect to the Authority, its members and proceedings.\n(5) In subsection (2), “designated professional accountancy body” means a body specified in the Fourth Schedule.\n[18/2014]"
+   }
+  },
+  {
+   "id": "SG-H057-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Functions of Authority"
+   },
+   "text": {
+    "en": "6.—(1) Subject to the provisions of this Act, the functions of the Authority are —\n(a)to administer the written laws specified in the Second Schedule;\n(b)to report and make recommendations to, and advise the Government on, matters relating to —\n(i)the registration and regulation of business entities and public accountants; and\n(ii)the growth and development of the accountancy sector and its related fields in Singapore;\n[Act 36 of 2022 wef 01/04/2023]\n(c)to establish and administer a repository of information and documents relating to business entities and accounting entities and to provide access to such information and documents in accordance with this Act, the scheduled laws and the disclosure framework;\n[Act 21 of 2024 wef 09/12/2024]\n(ca)to oversee the strategic direction for, and promote, facilitate and assist in, the growth and development of the accountancy sector and its related fields in Singapore;\n[Act 36 of 2022 wef 01/04/2023]\n(cb)to develop, provide for or administer, or facilitate or collaborate on the development, provision or administration of, programmes, qualifications, certifications, specialisations and continuing professional developments relating to the accountancy sector and its related fields in Singapore;\n[Act 36 of 2022 wef 01/04/2023]\n(cc)to promote, develop, improve or maintain, or facilitate or collaborate on the promotion, development, improvement or maintenance of, competencies, expertise and professional standards in the accountancy sector and its related fields in Singapore;\n[Act 36 of 2022 wef 01/04/2023]\n(d)to represent the Government internationally in respect of matters relating to the registration and regulation of business entities and public accountants;\n(e)to promote public awareness about new business structures, compliance requirements, corporate governance practices and any other matters under the purview of the Authority;\n(ea)to promote, facilitate or collaborate on research and development activities for the advancement of the accountancy sector and its related fields in Singapore;\n[Act 36 of 2022 wef 01/04/2023]\n(eb)to develop or manage cooperation and exchange with other persons and organisations, including foreign and international organisations, in respect of matters relating to the accountancy sector and its related fields in Singapore;\n[Act 36 of 2022 wef 01/04/2023]\n(f)to provide a responsive and forward-looking regulatory environment for business entities and public accountants conducive to enterprise in Singapore; and\n(g)to carry out any other functions conferred on the Authority by this Act or any other written law.\n(2) The Authority may undertake any other functions that the Minister may, by notification in the Gazette, assign to the Authority and in so doing, the Authority is deemed to be fulfilling the purposes of this Act, and the provisions of this Act apply to the Authority in respect of such functions.\n(3) Nothing in this section is to be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject.\n(4) In subsection (1) —\n“accounting entity” has the meaning given by section 35A;\n“disclosure framework” and “scheduled law” have the meanings given by section 26.\n[Act 21 of 2024 wef 09/12/2024]\n[5/2013]"
+   }
+  },
+  {
+   "id": "SG-H057-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Powers of Authority"
+   },
+   "text": {
+    "en": "7.—(1) The Authority has power to do anything for the purpose of discharging its functions under this Act or any other written law, or which is incidental or conducive to the discharge of those functions.\n(2) Without limiting subsection (1) but subject to this Act, the powers of the Authority include the power —\n(a)to enter into any contracts, agreements or arrangements that may be necessary or expedient for the purpose of discharging its functions;\n[Act 36 of 2022 wef 01/04/2023]\n(b)with the approval of the Minister, to form or participate in the formation of any company, association, trust or partnership or in any joint venture as a shareholder or partner or in any other capacity, with any firm, body corporate, society or institution for purposes that are necessary or expedient for the purpose of discharging its functions;\n[Act 36 of 2022 wef 01/04/2023]\n(c)to become a member or an affiliate of any international body, the functions or objects of which are similar to or connected with those of the Authority;\n(d)to use all property of the Authority, whether movable or immovable, in any manner that the Authority thinks expedient, including the raising of loans by mortgaging such property;\n(e)to establish and administer any systems or schemes that the Authority considers necessary or expedient for the discharge of its functions;\n(f)to prescribe, regulate or implement measures and standards on any matter relating to or connected with its functions;\n(g)to engage in any activity, either alone or in conjunction with any other organisation or agency, whether local or international, that is connected with or that is conducive to the discharge of its functions;\n(h)to levy such charges or fees as may be reasonable for services and facilities provided by the Authority;\n(i)to receive donations, gifts, grants, subsidies and contributions from any source and raise funds by all lawful means;\n(j)to publish or sponsor the publication of periodicals, booklets and other written materials, or to produce or sponsor the production of documentary films and other audiovisual materials on any matter relating to or connected with its functions;\n(k)to organise courses and award certificates of proficiency, and provide bursaries, scholarships and training grants in the fields related to the functions of the Authority;\n(l)to provide advisory, consultancy and informational services on any matter related to its functions;\n(m)to promote or undertake publicity in any form;\n(n)to grant or guarantee loans to officers or employees of the Authority for any purpose specifically approved by the Authority;\n(o)to provide recreational facilities and to promote recreational activities for, and activities conducive to, the welfare of officers and employees of the Authority and members of their families;\n(p)to make provision for gratuities, pensions, allowances or other benefits for officers or employees, or former officers or employees, of the Authority; and\n(q)to do any other acts that are incidental or necessary to any of its functions and powers.\n(2A) Without limiting subsections (1) and (2) but subject to this Act, the powers of the Authority include the power to —\n(a)provide for, develop, administer, promote, coordinate, collaborate with any person (within or outside Singapore) on, or facilitate, the training, development, education, examination, assessment and certification of persons practising, or desiring to practise, in the accountancy sector and its related fields in Singapore;\n(b)provide for, administer, collaborate with any person (within or outside Singapore) on or facilitate the accreditation of any body, programme or qualification in connection with any programme, qualification, certification, specialisation or continuing professional development relating to the accountancy sector and its related fields in Singapore; and\n(c)establish and administer funds in support of, to promote the growth and development of, for the advancement of competencies, expertise and professional standards in, and for the conduct and development of research relating to, the accountancy sector and its related fields in Singapore.\n[Act 36 of 2022 wef 01/04/2023]\n(3) This section is not to be construed as limiting any power of the Authority conferred by or under any other written law."
+   }
+  },
+  {
+   "id": "SG-H057-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Directions by Minister"
+   },
+   "text": {
+    "en": "8.—(1) The Minister may give to the Authority any direction under section 5 of the Public Sector (Governance) Act 2018.\n[5/2018]\n(2) The Authority must provide the Minister with any information in respect of its property and activities in such manner and at such times as the Minister may require."
+   }
+  },
+  {
+   "id": "SG-H057-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 FUNCTIONS AND POWERS OF AUTHORITY"
+   },
+   "heading": {
+    "en": "Appointment of committees and delegation of powers"
+   },
+   "text": {
+    "en": "9.—(1) The Authority may appoint from among its own members or from among other persons any number of committees that it thinks fit for purposes which, in the opinion of the Authority, would be more expediently carried out or managed by means of those committees.\n(2) The Authority may, subject to any conditions or restrictions that it thinks fit, delegate —\n(a)to any of its members;\n(b)to its Chief Executive or any of its officers or employees;\n(c)to any committee appointed by it under subsection (1); or\n(d)to any other person as the Authority thinks fit,\nany of the functions or powers of the Authority under this Act or any other written law.\n[5/2018]\n(3) Any function or power delegated under subsection (2) to any person or committee may be performed or exercised by that person or committee in the name and on behalf of the Authority."
+   }
+  },
+  {
+   "id": "SG-H057-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 4 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Chief Executive, officers and employees, etc."
+   },
+   "text": {
+    "en": "10.—(1) There must be a Chief Executive of the Authority, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.\n[5/2018]\n(2) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —\n(a)is absent from duty or Singapore; or\n(b)is, for any reason, unable to perform the duties of the office.\n[5/2018]\n(3) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H057-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 4 PROVISIONS RELATING TO STAFF"
+   },
+   "heading": {
+    "en": "Protection from personal liability"
+   },
+   "text": {
+    "en": "11.—(1) No suit or other legal proceedings shall lie personally against any member, officer or employee of the Authority, any member of a committee of the Authority or any other person acting under the direction of the Authority for anything which is done or intended to be done in good faith and with reasonable care in the execution or purported execution of this Act or any other written law.\n[18/2014]\n[Act 36 of 2022 wef 01/04/2023]\n(2) Where the Authority provides a service to the public by which information is supplied to the public pursuant to any written law, neither the Authority, any of its members, officers or employees nor any member of a committee of the Authority involved in the supply of such information is liable for any loss or damage suffered by any member of the public by reason of any error or omission of whatever nature appearing in the information or however caused if made in good faith and in the ordinary course of the discharge of the duties of such member, officer or employee or member of a committee of the Authority.\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Funds and property of Authority"
+   },
+   "text": {
+    "en": "12.—(1) The funds and property of the Authority consist of —\n(a)all grants-in-aid made under section 17;\n(b)all fees and other sums collected by the Authority or its officers under any written law unless otherwise expressly provided in subsection (2) or that other written law;\n(c)all moneys paid to the Authority for the purposes of the Authority;\n(d)all moneys paid to the Authority by way of grants, subsidies, donations, gifts and contributions;\n(e)all moneys received by the Authority by way of charges and fees for services rendered by the Authority to any person;\n(f)all moneys, dividends, royalties, interest or income received from any transaction made pursuant to the powers conferred on the Authority under this Act or any other written law;\n(g)all moneys borrowed by the Authority under this Act;\n(h)all other moneys and property lawfully received by the Authority for the purposes of the Authority; and\n(i)all accumulations of income derived from any such property or money.\n[18/2014]\n(2) The following sums collected on or after 15 May 2015 by the Authority or any of its officers under this Act and any written law specified in the Second Schedule must be paid into the Consolidated Fund:\n(a)any penalty for late payment or late filing;\n(b)any financial penalty, and interest for late payment of the financial penalty;\n(c)any sum for the composition of any offence.\n[18/2014]\n(3) The Authority may recover on behalf of the Government any sum referred to in subsection (2)(a), (b) or (c) as though the sum were a civil debt due to the Authority.\n[18/2014]\n(4) The Authority may waive, refund or remit, wholly or in part, any fee that is paid or is payable to the Authority under any written law and which forms or would form part of the funds and property of the Authority under subsection (1).\n[13\n[18/2014]"
+   }
+  },
+  {
+   "id": "SG-H057-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Application of moneys"
+   },
+   "text": {
+    "en": "13. The moneys of the Authority are to be applied only to pay expenses incurred by it in the discharge of its functions, obligations and liabilities and in making any payment that the Authority is authorised or required to make.\n[14"
+   }
+  },
+  {
+   "id": "SG-H057-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Bank accounts"
+   },
+   "text": {
+    "en": "14.—(1) The Authority must open and maintain one or more accounts with any bank or banks that the Authority thinks fit.\n(2) Every such account must be operated by any person or persons authorised to do so by the Authority.\n[15"
+   }
+  },
+  {
+   "id": "SG-H057-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "text": {
+    "en": "15. [Repealed by Act 36 of 2022 wef 01/04/2023]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H057-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Power of investment"
+   },
+   "text": {
+    "en": "16. The Authority may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965.\n[17"
+   }
+  },
+  {
+   "id": "SG-H057-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Grants-in-aids"
+   },
+   "text": {
+    "en": "17. For the purpose of enabling the Authority to carry out its functions under this Act, the Minister may make grants-in-aids to the Authority of such sums of money, as the Minister may determine, out of moneys to be provided by Parliament.\n[18"
+   }
+  },
+  {
+   "id": "SG-H057-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Power to borrow"
+   },
+   "text": {
+    "en": "18. For the discharge of its functions under this Act or any other written law, the Authority may raise loans from the Government or, with the approval of the Minister for Finance, raise loans from banks or other financial institutions (whether in Singapore or elsewhere) by —\n(a)mortgage, overdraft or otherwise;\n(b)charge, whether legal or equitable, on any property vested in the Authority or on any other revenue receivable by the Authority under this Act or any other written law; or\n(c)the creation and issue of debentures or bonds.\n[19"
+   }
+  },
+  {
+   "id": "SG-H057-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Issue of shares, etc."
+   },
+   "text": {
+    "en": "19. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority must issue such shares or other securities to the Minister for Finance as that Minister may direct.\n[20"
+   }
+  },
+  {
+   "id": "SG-H057-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 5 FINANCIAL PROVISIONS"
+   },
+   "heading": {
+    "en": "Financial year"
+   },
+   "text": {
+    "en": "20. The financial year of the Authority begins on 1 April of each year and ends on 31 March of the succeeding year.\n[21\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H057-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIESAND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Transfer to Authority of property, assets and liabilities"
+   },
+   "text": {
+    "en": "21.—(1) As from 1 April 2004 —\n(a)such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by the Registry of Companies and Businesses and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to the Registry of Companies and Businesses; and\n(b)the movable and immovable property vested in the Public Accountants Board and all assets, interests, rights, privileges, liabilities and obligations of the Public Accountants Board,\nare, without further assurance, act or deed, transferred to and vest in the Authority.\n(2) If any question arises as to whether any particular property, asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Authority under subsection (1), a certificate under the hand of the Minister for Finance is conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.\n(3) Any immovable property to be transferred to and vested in the Authority under subsection (1) must be held by the Authority upon such tenure and subject to such terms and conditions as the President may determine.\n[22"
+   }
+  },
+  {
+   "id": "SG-H057-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIESAND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Transfer of employees"
+   },
+   "text": {
+    "en": "22.—(1) As from 1 April 2004 —\n(a)such individuals or categories of individuals as the Minister may determine who, immediately before that date, were employed by the Government in the Registry of Companies and Businesses; and\n(b)every individual employed immediately before that date by the Public Accountants Board,\nare transferred to the service of the Authority on terms no less favourable than those enjoyed by them immediately prior to their transfer.\n(2) If any question arises as to whether any individual or any category of individuals has been transferred to the service of the Authority under subsection (1), a certificate under the hand of the Minister is conclusive evidence that the individual or category of individuals was or was not so transferred.\n(3) Until such time that terms and conditions of service are drawn up by the Authority, the scheme and terms and conditions of service in the Government or in the Public Accountants Board (as the case may be) continue to apply to every individual transferred to the service of the Authority under subsection (1) as if he or she were still in the service of the Government or the Public Accountants Board, as the case may be.\n(4) Despite the provisions of the Pensions Act 1956, an individual who is transferred to the service of the Authority under this section is not entitled to claim any benefit under that Act on the ground that he or she has been retired from the public service on account of abolition or reorganisation of office in consequence of the establishment of the Authority.\n[23"
+   }
+  },
+  {
+   "id": "SG-H057-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIESAND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Service rights, etc., of transferred employees to be preserved"
+   },
+   "text": {
+    "en": "23.—(1) The terms and conditions to be drawn up by the Authority must take into account the salaries and terms and conditions of service, including any accrued rights to leave, enjoyed by the individual transferred to the service of the Authority under section 22 while in the employment of the Government or the Public Accountants Board, as the case may be.\n(2) Any term or condition relating to the length of service with the Authority must recognise the length of service of the individual so transferred while in the employment of the Government or the Public Accountants Board (as the case may be) to be service with the Authority.\n(3) The terms and conditions of service to be drawn up by the Authority must not adversely affect the conditions that would have been applicable to individuals transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act 1956.\n(4) Where an individual has been transferred to the service of the Authority under section 22, the Government is liable to pay to the Authority the portion of any pension, gratuity or allowance payable to the individual on his or her retirement as the same bears to the proportion which the aggregate amount of his or her pensionable emoluments during his or her service with the Government bears to the aggregate amount of his or her pensionable emoluments during his or her service under both the Government and the Authority.\n(5) Where any individual in the service of the Authority, whose case does not fall within the scope of any pension or other scheme established under this section, retires or dies in the service of the Authority or is discharged from such service, the Authority may grant to him or her or to any other individual wholly or partly dependent on him or her, that the Authority thinks fit, such allowance or gratuity as the Authority may determine.\n[24"
+   }
+  },
+  {
+   "id": "SG-H057-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIESAND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Existing contracts"
+   },
+   "text": {
+    "en": "24.—(1) All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1 April 2004 to which the Government is a party and relating to the Registry of Companies and Businesses or to any individual transferred to the service of the Authority under section 22(1)(a) continue in force on and after that date and are enforceable by or against the Authority as if the Authority had been named in them or had been a party to them instead of the Government.\n(2) All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1 April 2004 to which the Public Accountants Board is a party continue in force on and after that date and are enforceable by or against the Authority as if the Authority had been named in them or had been a party to them instead of the Public Accountants Board.\n[25"
+   }
+  },
+  {
+   "id": "SG-H057-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIESAND EMPLOYEES"
+   },
+   "heading": {
+    "en": "Misconduct or neglect of duty by employee before transfer"
+   },
+   "text": {
+    "en": "25. The Authority may reprimand, reduce in rank, retire, dismiss or punish in some other manner an individual who had, while he or she was in the service of the Government or the Public Accountants Board (as the case may be), been guilty of any misconduct or neglect of duty which would have rendered him or her liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he or she had continued to be in the service of the Government or the Public Accountants Board (as the case may be) and if this Act had not been enacted.\n[28"
+   }
+  },
+  {
+   "id": "SG-H057-A25.001",
+   "no": 25.001,
+   "noLabel": {
+    "en": "25A."
+   },
+   "chapter": {
+    "en": "PART 6AA TRANSFER OF SINGAPORE ACCOUNTANCY COMMISSION UNDERTAKINGS"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "25A. In this Part, unless the context otherwise requires —\n“asset”, in relation to the transferor, means property of any kind (whether tangible or intangible, whether arising from, accruing under, created or evidenced by or the subject of, an instrument or otherwise and whether actual or contingent) of the transferor on the eve of the transfer date and includes, without limitation, any —\n(a)legal or equitable interest in real or personal property;\n(b)chose in action;\n(c)security;\n(d)money;\n(e)intellectual property;\n(f)infrastructure, plant and equipment;\n(g)records and information (including data) in any form; and\n(h)right;\n“Commission” or “Singapore Accountancy Commission” means the Singapore Accountancy Commission established under the Singapore Accountancy Commission Act 2013;\n“liability”, in relation to the transferor, means any liability, duty or obligation (whether actual or contingent, liquidated or unliquidated, and whether owed alone or jointly, or jointly and severally, with any other person) of the transferor on the eve of the transfer date;\n“records”, in relation to the transferor, means registers, papers, documents, minutes, receipts, books of account and other records, however compiled, recorded or stored, of the transferor existing on the eve of the transfer date;\n“right”, in relation to the transferor, means any right, power, privilege or immunity of the transferor on the eve of the transfer date;\n“transfer date” means a date specified by the Minister by order in the Gazette for the purposes of this Part;\n“transferor” means the Singapore Accountancy Commission;\n“transferring employee” means any individual who, on the eve of the transfer date, is an employee of the transferor.\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A25.002",
+   "no": 25.002,
+   "noLabel": {
+    "en": "25B."
+   },
+   "chapter": {
+    "en": "PART 6AA TRANSFER OF SINGAPORE ACCOUNTANCY COMMISSION UNDERTAKINGS"
+   },
+   "heading": {
+    "en": "Transfer of undertakings to Authority"
+   },
+   "text": {
+    "en": "25B.—(1) On the transfer date, all assets and liabilities of the transferor are transferred to the Authority.\n(2) When any assets or liabilities are transferred under subsection (1), the following provisions have effect:\n(a)the assets of the transferor that are the subject of the transfer vest in the Authority by virtue of this section and without the need for any further conveyance, transfer, assignment or assurance;\n(b)the liabilities of the transferor that are the subject of the transfer become by virtue of this section the liabilities of the Authority;\n(c)all legal or other proceedings relating to those assets or liabilities that are started before the transfer date by or against the transferor or a predecessor of the transferor and pending immediately before that date are taken to be proceedings pending by or against the Authority;\n(d)any legal or other proceedings relating to those assets or liabilities which could have been started immediately before the transfer date by or against the transferor or a predecessor of the transferor may be started by or against the Authority;\n(e)a judgment or an order of a court or other tribunal obtained before the transfer date by or against the transferor or a predecessor of the transferor relating to those assets or liabilities may be enforced by or against the Authority;\n(f)any document relating to legal or other proceedings relating to those assets or liabilities that has been served on or by the transferor or a predecessor of the transferor before the transfer date is taken, where appropriate, to have been served on or by the Authority;\n(g)any act, matter or thing done or omitted to be done before the transfer date in relation to those assets or liabilities by, to or in respect of the transferor or a predecessor of the transferor is (to the extent to which that act, matter or thing has any force or effect) taken to have been done or omitted to have been done by, to or in respect of the Authority;\n(h)a reference in any written law, in any instrument made under any Act, in any contract, agreement, arrangement or undertaking, or in any document of any kind to the transferor or a predecessor of the transferor, to the extent to which the reference relates to those assets or liabilities, is taken to be, or includes, a reference to the Authority.\n(3) The operation of this section does not —\n(a)constitute a breach of, or default under, an Act or other law, or otherwise a civil wrong or criminal wrong;\n(b)constitute a breach of duty of confidence (whether arising by contract, in equity, by custom or in any other way);\n(c)constitute a breach of any contractual provision prohibiting, restricting or regulating the assignment or transfer of assets or liabilities or the disclosure of any information;\n(d)terminate an agreement or obligation, or fulfil any condition that allows a person to terminate any agreement or obligation, or give rise to any right or remedy in respect of any agreement or obligation;\n(e)cause any contract or other instrument to be void or otherwise unenforceable;\n(f)frustrate any contract;\n(g)release a surety or other obligor or obligee wholly or in part from an obligation; or\n(h)constitute an event of breach of, or default under, any contract or other instrument.\n(4) No attornment to the Authority by a lessee from the transferor is required for the purpose of this section.\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A25.003",
+   "no": 25.003,
+   "noLabel": {
+    "en": "25C."
+   },
+   "chapter": {
+    "en": "PART 6AA TRANSFER OF SINGAPORE ACCOUNTANCY COMMISSION UNDERTAKINGS"
+   },
+   "heading": {
+    "en": "Transferring employees to Authority"
+   },
+   "text": {
+    "en": "25C.—(1) On the transfer date, every transferring employee —\n(a)stops being an employee of the transferor; and\n(b)is each transferred to the service, and becomes an employee, of the Authority on terms no less favourable than those enjoyed by the employee on the eve of the transfer date.\n(2) The transfer of a transferring employee to the Authority —\n(a)does not interrupt continuity of service;\n(b)does not constitute a retrenchment or redundancy; and\n(c)does not entitle any employee so transferred to any payment or other benefit merely because he or she stops being employed by the transferor.\n(3) A certificate purporting to be signed by the Minister certifying that an individual named in the certificate was, with effect from the transfer date, employed by virtue of this section by the Authority, is admissible in evidence in any proceedings as evidence of the matters stated in it.\n(4) Nothing in this section prevents —\n(a)any of the terms and conditions of employment of an individual transferred under this section from being altered by or under any law, award or agreement with effect from any time after the transfer date; or\n(b)an individual transferred under this section from resigning from the Authority at any time after the transfer date, in accordance with the terms and conditions of his or her employment then applicable.\n(5) To avoid doubt, section 18A of the Employment Act 1968 does not apply to the transfer under this Part of any transferring employee to the Authority.\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A25.004",
+   "no": 25.004,
+   "noLabel": {
+    "en": "25D."
+   },
+   "chapter": {
+    "en": "PART 6AA TRANSFER OF SINGAPORE ACCOUNTANCY COMMISSION UNDERTAKINGS"
+   },
+   "heading": {
+    "en": "General preservation of employment terms, etc."
+   },
+   "text": {
+    "en": "25D.—(1) The service with the Authority of an employee transferred under section 25C (called in this section a transferred employee) must be regarded for all purposes as having been continuous with the service of the employee with the transferor immediately before the transfer date.\n(2) On the transfer date —\n(a)a transferred employee retains all accrued rights as if employment with the Authority were a continuation of employment with the transferor;\n(b)the liabilities of the transferor relating to the transferred employee’s accrued rights to leave and superannuation become the liabilities of the Authority; and\n(c)a reference to the transferor in the contract of employment that had effect in relation to the transferred employee immediately before the transfer date is taken to be, or includes, a reference to the Authority.\n(3) For any conduct of a transferred employee when he or she was employed by the transferor which would have rendered the employee liable to be reprimanded, reduced in rank, retired, dismissed or punished by the transferor, the Authority may —\n(a)start any disciplinary proceedings against the employee;\n(b)carry on and complete any disciplinary proceedings started by the transferor against the transferred employee if those proceedings were pending on the eve of the transfer date; and\n(c)reprimand, reduce in rank, retire, dismiss or otherwise punish a transferred employee, as if the employee were not transferred.\n(4) Where, on the eve of the transfer date, any matter about the conduct of a transferred employee during his or her employment with the transferor —\n(a)was in the course of being heard or investigated by a committee of the transferor acting under due authority; or\n(b)had been heard or investigated by a committee of the transferor acting under due authority but no order, ruling or direction had been made,\nthat committee must complete the hearing or investigation and make any order, ruling or direction that it could have made under the authority vested in it before that date, and that order, ruling or direction is to be regarded as an order, a ruling or a direction of the Authority.\n(5) Until such time as conditions of employment are drawn up by the Authority for a transferred employee, the transferred employee is to be regarded as being employed by the Authority on the same conditions of his or her employment with the transferor on the eve of the transfer date.\n(6) Any condition of employment relating to the length of service with the Authority must recognise the length of service of the employee so transferred while in the employment of the transferor (including any previous service of the employee taken to be service with the transferor) to be service with the Authority.\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A25.005",
+   "no": 25.005,
+   "noLabel": {
+    "en": "25E."
+   },
+   "chapter": {
+    "en": "PART 6AA TRANSFER OF SINGAPORE ACCOUNTANCY COMMISSION UNDERTAKINGS"
+   },
+   "heading": {
+    "en": "Transfer of records"
+   },
+   "text": {
+    "en": "25E. On the transfer date, every record, or part of any record, of the transferor that relates to the following becomes the record of the Authority:\n(a)any asset or liability transferred to the Authority under section 25B;\n(b)any transferring employee.\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A25.006",
+   "no": 25.006,
+   "noLabel": {
+    "en": "25F."
+   },
+   "chapter": {
+    "en": "PART 6AA TRANSFER OF SINGAPORE ACCOUNTANCY COMMISSION UNDERTAKINGS"
+   },
+   "heading": {
+    "en": "Confirmation of transfer"
+   },
+   "text": {
+    "en": "25F.—(1) If any dispute arises —\n(a)as to whether an asset or a liability, or a record, is transferred under section 25B or 25E; or\n(b)as to whether any, or any part of any, contract or document relates to an asset or a liability, or a record, transferred under section 25B or 25E,\nthe Minister for Finance may determine the matter and is to provide the concerned parties with written notice of that determination.\n(2) The determination of the Minister for Finance under subsection (1) is final and binding on the transferor and the Authority.\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 6A ELECTRONIC TRANSACTION SYSTEM AND DATA FRAMEWORK"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "26. In this Part, unless the context otherwise requires —\n“authorised information service provider” means any person authorised by the Registrar or the Authority to provide information services to the public using information provided by the Registrar or the Authority;\n[Act 21 of 2024 wef 09/12/2024]\n“Chief Executive” includes an officer of the Authority authorised by the Chief Executive to exercise a power, function or duty of the Chief Executive under this Part;\n“company” has the meaning given by section 4(1) of the Companies Act 1967;\n“copy”, in relation to a document, includes a representation of the document in an electronic form;\n“disclosure framework” means the disclosure framework set out in the Sixth Schedule;\n[Act 21 of 2024 wef 09/12/2024]\n“document” includes any application, form, report, certification, notice, confirmation, declaration, return or other document (whether in electronic form or otherwise) filed or lodged with, or submitted to, the Registrar;\n“electronic transaction system” means the electronic transaction system established by the Authority under section 27(1);\n[Deleted by Act 22 of 2024 wef 09/06/2025]\n[Deleted by Act 22 of 2024 wef 09/06/2025]\n“Fifth Schedule Act” means any of the written laws specified in the first column of the Fifth Schedule;\n[Deleted by Act 22 of 2024 wef 09/06/2025]\n“malfunction”, in relation to the electronic transaction system, includes any defect or breakdown in that system or in any equipment, software or telecommunication networks used in or in connection with that system;\n“prescribed entity” means any entity prescribed under section 35 for the purposes of section 30A;\n[Act 21 of 2024 wef 09/12/2024]\n“prescribed public agency” means any public agency prescribed under section 35 for the purposes of section 30A;\n[Act 21 of 2024 wef 09/12/2024]\n“public agency” means a public officer, an Organ of State or a ministry or department of the Government, or a body or authority established by or under any public Act to perform or discharge a public function, or a member, an officer or employee, or any department thereof;\n[Act 21 of 2024 wef 09/12/2024]\n[Deleted by Act 22 of 2024 wef 09/06/2025]\n[Deleted by Act 22 of 2024 wef 09/06/2025]\n[Deleted by Act 22 of 2024 wef 09/06/2025]\n“registered corporate service provider” has the meaning given by section 2(1) of the Corporate Service Providers Act 2024;\n[Act 22 of 2024 wef 09/06/2025]\n“Registrar” means —\n(a)the Registrar appointed under a scheduled Act; or\n(b)the person specified in the second column of the Fifth Schedule, in respect of a Fifth Schedule Act specified in the first column of that Schedule;\n“scheduled Act” means any of the written laws specified in the Second Schedule;\n“scheduled law” means any scheduled Act or Fifth Schedule Act;\n[Act 21 of 2024 wef 09/12/2024]\n“transaction”, in relation to the Registrar, means —\n(a)the filing or lodging of any document with the Registrar, or the submission, production, delivery, providing or sending of any document to the Registrar, under a scheduled law;\n[Act 21 of 2024 wef 09/12/2024]\n(b)the making of any application, submission or request to the Registrar under a scheduled law;\n[Act 21 of 2024 wef 09/12/2024]\n(c)the provision of any undertaking or declaration to the Registrar under a scheduled law; and\n[Act 21 of 2024 wef 09/12/2024]\n(d)the extraction, retrieval or accessing of any document, record or information maintained by the Registrar under a scheduled law.\n[Act 21 of 2024 wef 09/12/2024]\n[28A\n[18/2014; 40/2018]"
+   }
+  },
+  {
+   "id": "SG-H057-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 6A ELECTRONIC TRANSACTION SYSTEM AND DATA FRAMEWORK"
+   },
+   "heading": {
+    "en": "Establishment of electronic transaction system"
+   },
+   "text": {
+    "en": "27.—(1) The Authority may establish an electronic transaction system —\n(a)to enable any person to carry out any transaction with the Registrar;\n(b)to enable the Registrar to issue, give or send any information or any approval, certificate, notice, determination or other document under this Act, a scheduled law;\n[Act 21 of 2024 wef 09/12/2024]\n(c)to enable the Authority to provide a service to the public by which information relating to transactions with the Registrar is supplied to the public (whether in bulk or otherwise);\n(ca)to facilitate the implementation of this Part;\n[Act 21 of 2024 wef 09/12/2024]\n(d)to enable the Authority to provide any other service falling within the Authority’s functions to persons registered or to be registered under a scheduled law.\n[18/2014; 40/2018]\n[Act 21 of 2024 wef 09/12/2024]\n[Act 22 of 2024 wef 09/06/2025]\n(e)[Deleted by Act 22 of 2024 wef 09/06/2025]\n(2) The information that may be provided under the service mentioned in subsection (1)(c) —\n(a)may include —\n(i)copies or extracts of documents filed or lodged with, submitted to, or issued by, the Registrar;\n(ii)information extracted from documents filed or lodged with, submitted to, or issued by, the Registrar; and\n(iii)collations, summaries, reports or analyses of documents filed or lodged with, submitted to, or issued by, the Registrar;\n(b)may consist of, or be derived from, documents filed or lodged with, submitted to, or issued by, the Registrar other than through the electronic transaction system; and\n(c)is subject to any restriction relating to confidentiality under a scheduled law.\n[Act 21 of 2024 wef 09/12/2024]\n[18/2014; 40/2018]\n(3) Where any transaction with the Registrar can be carried out using the electronic transaction system, the Registrar may refuse to process the transaction unless —\n(a)the transaction is carried out in accordance with this Part including the requirements for the use of the system specified in subsection (4);\n(aa)all information and documents required to be submitted to the Registrar using a form mentioned in section 28(1A) have been submitted as required;\n[Act 21 of 2024 wef 09/12/2024]\n(b)the transaction meets the requirements prescribed in the scheduled law in respect of which the transaction is made; and\n[Act 21 of 2024 wef 09/12/2024]\n(c)the fee or penalty payable in respect of the transaction has been paid.\n[18/2014; 40/2018]\n(4) Subject to this Part and any regulations made under section 35, the Chief Executive may determine the requirements for the use of the electronic transaction system, which may include —\n(a)terms and conditions of access to, and use of, the electronic transaction system;\n(b)security and authentication requirements for access to, and use of, the electronic transaction system;\n(c)retention and production of documents supporting or authenticating transactions; and\n(d)modes of payment for transactions.\n[18/2014]\n(5) The fees payable —\n(a)in respect of any transaction with the Registrar, or for the issue of any approval, certificate, notice, determination or other document under a scheduled law, referred to in subsection (1)(a) and (b) are to be determined under the scheduled law in respect of which the transaction was made or the approval, certificate, notice, determination or other document was issued; and\n[Act 21 of 2024 wef 09/12/2024]\n(b)in respect of any service provided by the Authority mentioned in subsection (1)(c) or (d) are to be determined by the Authority.\n[18/2014; 40/2018]\n(6) The Chief Executive must keep a record, in such form as the Chief Executive may determine, of —\n(a)all transactions with the Registrar under the scheduled laws carried out using the electronic transaction system unless otherwise ordered by an order of the court; and\n[Act 21 of 2024 wef 09/12/2024]\n(b)all approvals, certificates, notices, determinations and other documents issued under the scheduled laws through the electronic transaction system.\n[Act 21 of 2024 wef 09/12/2024]\n[28B\n[18/2014; 40/2018]"
+   }
+  },
+  {
+   "id": "SG-H057-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 6A ELECTRONIC TRANSACTION SYSTEM AND DATA FRAMEWORK"
+   },
+   "heading": {
+    "en": "Requirement to use electronic transaction system and agents for use"
+   },
+   "text": {
+    "en": "28.—(1) A person who wishes to carry out a transaction with the Registrar —\n(a)must do so using the electronic transaction system if required by the Registrar under the scheduled law to which the transaction relates; or\n[Act 21 of 2024 wef 09/12/2024]\n(b)may do so using the electronic transaction system if permitted by the Registrar under the scheduled law to which the transaction relates.\n[Act 21 of 2024 wef 09/12/2024]\n[18/2014; 40/2018]\n(1A) Where a person carries out a transaction with the Registrar using the electronic transaction system, the Registrar may require the person to use a form on the electronic transaction system which requires the submission of information or documents for the transaction or for any other purpose under this Act or a scheduled law to the Registrar.\n[Act 21 of 2024 wef 09/12/2024]\n(2) A person may carry out a transaction with the Registrar using the electronic transaction system on behalf of another person only if the firstmentioned person is a registered corporate service provider for providing the service mentioned in paragraph (f)(i) of the definition of “corporate service” in section 2(1) of the Corporate Service Providers Act 2024.\n[18/2014]\n[Act 22 of 2024 wef 09/06/2025]\n(3) A person who carries on a business of acting as a secretary of one or more companies may carry out a transaction with the Registrar using the electronic transaction system for any such company in the person’s capacity as a secretary of the company, if and only if the person is a registered corporate service provider for providing the service mentioned in paragraph (f)(ii) of the definition of “corporate service” in section 2(1) of the Corporate Service Providers Act 2024.\n[Act 22 of 2024 wef 09/06/2025]\n(4) Subsection (2) or (3) does not apply to such persons, or to such transactions with the Registrar, as may be prescribed.\n[28C\n[18/2014]\n[Act 22 of 2024 wef 09/06/2025]"
+   }
+  },
+  {
+   "id": "SG-H057-A28.001",
+   "no": 28.001,
+   "noLabel": {
+    "en": "28A."
+   },
+   "chapter": {
+    "en": "PART 6A ELECTRONIC TRANSACTION SYSTEM AND DATA FRAMEWORK"
+   },
+   "heading": {
+    "en": "Information or document issued, given or sent by means of electronic transaction system"
+   },
+   "text": {
+    "en": "28A.—(1) Any information or document required or permitted, under this Act or a scheduled law, to be issued, given or sent by the Registrar, the Authority or any other person or body appointed or constituted under this Act or the scheduled law (as the case may be) to any person may be issued, given or sent by —\n(a)uploading the information or document on the electronic transaction system; and\n(b)notifying the person how and when the person may access the information or document on the electronic transaction system, by sending the notification to the person’s last email address or in any other manner prescribed under section 35(2)(ba).\n(2) The issuing, giving or sending of a document in accordance with this section is effective despite section 42A or any other provision of this Act or any scheduled law requiring or permitting the document to be issued, given or sent by other means.\n(3) This section does not apply to any notice, summons or document to be served in connection with proceedings in court.\n(4) In this section, “last email address” means the last email address given by the person concerned for the purpose of subsection (1)(b).\n[Act 21 of 2024 wef 09/12/2024]"
+   }
+  },
+  {
+   "id": "SG-H057-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 6A ELECTRONIC TRANSACTION SYSTEM AND DATA FRAMEWORK"
+   },
+   "heading": {
+    "en": "Evidence of transaction on electronic transaction system"
+   },
+   "text": {
+    "en": "29.—(1) Despite any other written law or rule of law —\n(a)a copy of the whole or any part of any original document that is certified by the Registrar to be a true copy of the whole or the relevant part of the original document is in any proceedings admissible in evidence as of equal validity with the original document; and\n(b)any document prepared by the Registrar that —\n(i)consists of information reproduced or extracted from any original document; and\n(ii)contains a statement by the Registrar that the information is a true reproduction or extract of the original document,\nis, unless evidence to the contrary is adduced, admissible in evidence in place of and to the same extent as the original document.\n[18/2014]\n(2) In this section, “original document” means a document filed or lodged with, submitted to, or issued by, the Registrar using the electronic transaction system.\n[28D\n[18/2014]"
+   }
+  },
+  {
+   "id": "SG-H057-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 6A ELECTRONIC TRANSACTION SYSTEM AND DATA FRAMEWORK"
+   },
+   "heading": {
+    "en": "Electronic transaction system malfunction, errors and omissions"
+   },
+   "text": {
+    "en": "30.—(1) Despite any other written law or rule of law, the Registrar may —\n(a)correct any error or omission in any register kept by the Registrar under a scheduled law;\n[Act 21 of 2024 wef 09/12/2024]\n(b)correct any error or omission in any document filed or lodged with, or submitted to, the Registrar; and\n(c)supply entries or records omitted to be made in any register mentioned in paragraph (a),\nif the error or omission has occurred or arisen as a result of any malfunction of the electronic transaction system.\n[18/2014; 40/2018]\n(2) The Registrar must maintain a record of every correction made under subsection (1).\n[18/2014]\n(3) When any error or omission has been corrected under subsection (1), the error or omission is deemed not to have occurred.\n[18/2014]\n(4) The Authority and the Authority’s officers, employees and agents shall not be liable for any loss or damage, suffered by any person by reason of any error or omission —\n(a)if the error or omission had occurred or arisen as a result of any malfunction in the electronic transaction system; and\n(b)if the malfunction in the electronic transaction system had occurred despite the Authority having acted in good faith and with reasonable care to prevent such a malfunction from occurring.\n[28E\n[18/2014]"
+   }
+  },
+  {
+   "id": "SG-H057-A30.001",
+   "no": 30.001,
+   "noLabel": {
+    "en": "30A."
+   },
+   "chapter": {
+    "en": "PART 6A ELECTRONIC TRANSACTION SYSTEM AND DATA FRAMEWORK"
+   },
+   "heading": {
+    "en": "Information from prescribed public agencies or prescribed entities"
+   },
+   "text": {
+    "en": "30A.—(1) A prescribed public agency or a prescribed entity may, at the request of the Registrar or the Authority, provide information, including personal data, to the Registrar or the Authority for the purposes of subsection (2) or (3) (as the case may be) unless the prescribed public agency or prescribed entity is prohibited by any written law from so providing the information.\n(2) The Registrar or the Authority may use information obtained from any prescribed public agency for any purpose under this Act or any scheduled law, including to keep, maintain, rectify or update the information kept in the repository mentioned in section 6(1)(c) or any register kept under a scheduled Act.\n(3) The Registrar or the Authority may use information obtained from any prescribed entity to verify the accuracy of any information or document kept, or to be kept, in the repository mentioned in section 6(1)(c).\n(4) If the Registrar or the Authority uses information mentioned in subsection (2) for any purpose permitted by that subsection, instead of obtaining the information from a person required under any other provision of this Act or any scheduled law to provide the same, that person —\n(a)is deemed to have complied with the requirement to provide the information for that purpose; and\n(b)is not liable for any error or inaccuracy in the information used under subsection (2), unless the Registrar or the Authority has —\n(i)requested that person to verify the information; and\n(ii)given that person a reasonable opportunity to correct that information.\n(5) No prescribed public agency or prescribed entity, or a person acting on behalf of a prescribed public agency or prescribed entity, shall —\n(a)be guilty of an offence under any written law or of any breach of confidence;\n(b)incur any civil liability; or\n(c)be liable to any disciplinary action,\nonly because the prescribed public agency, prescribed entity or person (as the case may be) provided or purportedly provided information to the Registrar or the Authority under subsection (1) in good faith and with reasonable care.\n[Act 21 of 2024 wef 09/12/2024]"
+   }
+  },
+  {
+   "id": "SG-H057-A30.002",
+   "no": 30.002,
+   "noLabel": {
+    "en": "30B."
+   },
+   "chapter": {
+    "en": "PART 6A ELECTRONIC TRANSACTION SYSTEM AND DATA FRAMEWORK"
+   },
+   "heading": {
+    "en": "Use of information and documents in repository"
+   },
+   "text": {
+    "en": "30B.—(1) The Registrar or the Authority may provide information and documents (whether in bulk or otherwise) from the repository mentioned in section 6(1)(c), including personal data provided to or obtained by the Registrar or the Authority under this Act or any scheduled law, in accordance with the disclosure framework and subject to any restriction relating to confidentiality under this Act or a scheduled law, for any of the following purposes:\n(a)to any authorised information service provider to provide information services to any person;\n(b)to assist any person to exercise a power or to fulfil any obligation under any written law as specified in the Sixth Schedule;\n(c)to provide the service mentioned in section 27(1)(c), in circumstances other than as mentioned in paragraphs (a) and (b).\n(2) Subsection (1) and the disclosure framework do not limit or prevent the provision of information or documents by the Registrar or the Authority as permitted or required by or under any other Act or law.\n[Act 21 of 2024 wef 09/12/2024]"
+   }
+  },
+  {
+   "id": "SG-H057-A30.003",
+   "no": 30.003,
+   "noLabel": {
+    "en": "30C."
+   },
+   "chapter": {
+    "en": "PART 6A ELECTRONIC TRANSACTION SYSTEM AND DATA FRAMEWORK"
+   },
+   "heading": {
+    "en": "Exclusion of residential address from public disclosure if contact address is available"
+   },
+   "text": {
+    "en": "30C.—(1) Subject to subsection (2) and any exception specified in the Sixth Schedule, an individual’s residential address must be excluded from public disclosure.\n(2) The Registrar may cause an individual’s residential address to cease to be excluded from public disclosure in accordance with section 30D.\n(3) Where, pursuant to subsection (2), the individual’s residential address has ceased to be excluded from public disclosure, the Registrar must cause the exclusion from public disclosure to resume if —\n(a)subject to section 30D(8) and the equivalent provision in any scheduled Act, the Registrar receives notice of the individual’s contact address under this Act or any scheduled Act; or\n(b)the Court so directs on an appeal under section 30D(7) or the equivalent provision in any scheduled Act.\n(4) In this section and in section 30D —\n“contact address”, in relation to an individual, means an individual’s contact address kept or maintained by the Authority under this Act or by the Registrar under any scheduled Act;\n“public disclosure” means disclosure under section 30B(1);\n“Registrar” means the Registrar appointed under any scheduled Act;\n“residential address”, in relation to an individual, means an individual’s residential address kept or maintained by the Authority under this Act or by the Registrar under any scheduled Act.\n[Act 21 of 2024 wef 09/12/2024]"
+   }
+  },
+  {
+   "id": "SG-H057-A30.004",
+   "no": 30.004,
+   "noLabel": {
+    "en": "30D."
+   },
+   "chapter": {
+    "en": "PART 6A ELECTRONIC TRANSACTION SYSTEM AND DATA FRAMEWORK"
+   },
+   "heading": {
+    "en": "Cessation of exclusion of residential address from public disclosure"
+   },
+   "text": {
+    "en": "30D.—(1) For the purposes of section 30C(2), the grounds for causing an individual’s residential address to cease to be excluded from public disclosure are either that —\n(a)communications sent by any officer of the Authority under this Act, or by the Registrar or any officer of the Authority under any scheduled Act, to the individual at his or her contact address and requiring a response within a specified period remain unanswered; or\n(b)there is evidence to show that service of any document under this Act or any scheduled Act at the individual’s contact address is not effective to bring it to the notice of the individual.\n(2) Before causing an individual’s residential address to cease to be excluded from public disclosure pursuant to section 30C(2), the Registrar must give a notice under subsection (3) to the individual and the interested persons specified in the Sixth Schedule (if any).\n(3) The notice mentioned in subsection (2) must —\n(a)state the grounds under subsection (1) on which the Registrar intends to cease the exclusion of the individual’s residential address; and\n(b)specify the period within which representations may be made to the Registrar.\n(4) The Registrar must consider the representations (if any) given in response to the notice mentioned in subsection (2) and received within the period specified by the Registrar under subsection (3)(b).\n(5) If the Registrar decides to cause the individual’s residential address to cease being excluded from public disclosure, the Registrar must before doing so give notice of the decision to the individual and the interested persons specified in the Sixth Schedule (if any).\n(6) A notice to the individual under subsection (2) or (5) must be sent to the individual’s residential address unless it appears to the Registrar that service at that address may be ineffective to bring it to the individual’s notice, in which case it may be sent to any other last known address of that individual.\n(7) Any person aggrieved by the decision of the Registrar under section 30C(2) may, within 30 days after the date of receiving the notice under subsection (5), appeal to the Court which may confirm or reverse the Registrar’s decision and make any directions in the matter.\n(8) The individual is not allowed to provide a contact address within 3 years after the Registrar causes the individual’s residential address to cease to be excluded from public disclosure, unless the Registrar is satisfied that there is good cause for allowing the individual to do so in a particular case.\n(9) Subject to subsections (8) and (10), where an individual provides a new contact address under this Act or any scheduled Act, the Registrar must replace the individual’s contact address in the repository mentioned in section 6(1)(c) with the new contact address.\n(10) Subsection (9) does not require the replacement of the individual’s contact address in any document kept in the repository.\n[Act 21 of 2024 wef 09/12/2024]"
+   }
+  },
+  {
+   "id": "SG-H057-A30.005",
+   "no": 30.005,
+   "noLabel": {
+    "en": "30E."
+   },
+   "chapter": {
+    "en": "PART 6A ELECTRONIC TRANSACTION SYSTEM AND DATA FRAMEWORK"
+   },
+   "heading": {
+    "en": "Disclosure framework"
+   },
+   "text": {
+    "en": "30E.—(1) The disclosure framework applicable to information and documents in the repository mentioned in section 6(1)(c), including personal data mentioned in section 30B(1), is as set out in the Sixth Schedule.\n(2) The Minister may, by order in the Gazette, amend the Sixth Schedule, which may include the following matters:\n(a)any exception to section 30C(1);\n(b)the interested persons mentioned in section 30D(2) and (5);\n(c)the types of information and documents mentioned in subsection (1) that the Registrar or the Authority must not disclose;\n(d)the persons or classes of persons to whom the Registrar or the Authority must not disclose any information or document mentioned in subsection (1);\n(e)the requirements that any person who receives any information or document mentioned in subsection (1) disclosed by the Registrar or the Authority must comply with.\n[Act 21 of 2024 wef 09/12/2024]"
+   }
+  },
+  {
+   "id": "SG-H057-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 6A ELECTRONIC TRANSACTION SYSTEM AND DATA FRAMEWORK"
+   },
+   "text": {
+    "en": "31. [Repealed by Act 22 of 2024 wef 09/06/2025]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H057-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 6A ELECTRONIC TRANSACTION SYSTEM AND DATA FRAMEWORK"
+   },
+   "text": {
+    "en": "32. [Repealed by Act 22 of 2024 wef 09/06/2025]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H057-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 6A ELECTRONIC TRANSACTION SYSTEM AND DATA FRAMEWORK"
+   },
+   "text": {
+    "en": "33. [Repealed by Act 22 of 2024 wef 09/06/2025]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H057-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 6A ELECTRONIC TRANSACTION SYSTEM AND DATA FRAMEWORK"
+   },
+   "text": {
+    "en": "34. [Repealed by Act 22 of 2024 wef 09/06/2025]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H057-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 6A ELECTRONIC TRANSACTION SYSTEM AND DATA FRAMEWORK"
+   },
+   "heading": {
+    "en": "Regulations for this Part"
+   },
+   "text": {
+    "en": "35.—(1) The Minister may make any regulations that are necessary or expedient for carrying out the purposes of this Part.\n[18/2014]\n(2) Without limiting subsection (1), such regulations may —\n(a)[Deleted by Act 22 of 2024 wef 09/06/2025]\n(b)prescribe the persons to whom, and the transactions to which, the requirement under section 28(2) or (3) does not apply;\n[Act 22 of 2024 wef 09/06/2025]\n(ba)for the purposes of section 28A —\n(i)require any person who may be issued, given or sent information or a document by means of the electronic transaction system to provide an email address for notification under section 28A(1)(b);\n(ii)prescribe any other manner in which the notification under section 28A(1)(b) may be given; and\n(iii)prescribe the time and circumstances when the information or document is deemed to be issued, given or sent by means of the electronic transaction system;\n[Act 21 of 2024 wef 09/12/2024]\n(c)[Deleted by Act 22 of 2024 wef 09/06/2025]\n(d)[Deleted by Act 22 of 2024 wef 09/06/2025]\n(e)[Deleted by Act 22 of 2024 wef 09/06/2025]\n(f)[Deleted by Act 22 of 2024 wef 09/06/2025]\n(g)prescribe —\n(i)the fees payable for the purposes of this Part and not expressly provided for in section 27(5);\n(ii)the penalties payable for the late filing of any document; and\n(iii)the manner in which such fees and penalties are to be paid;\n(h)provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $50,000 or with imprisonment for a term not exceeding 3 years or with both;\n[Act 22 of 2024 wef 09/06/2025]\n(i)prescribe anything which may be prescribed under this Part; and\n(j)contain any transitional and other supplementary and incidental provisions that appear to the Minister to be appropriate for carrying out the purposes of this Part.\n[28J\n[18/2014]"
+   }
+  },
+  {
+   "id": "SG-H057-A35.001",
+   "no": 35.001,
+   "noLabel": {
+    "en": "35A."
+   },
+   "chapter": {
+    "en": "PART 6B CHARTERED ACCOUNTANTS OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "35A.—(1) In this Part —\n“accounting corporation” means a company approved or deemed to be approved as an accounting corporation under the Accountants Act 2004;\n“accounting entity” means a public accountant, an accounting corporation, an accounting firm or an accounting limited liability partnership;\n“accounting firm” means a firm approved or deemed to be approved as an accounting firm under the Accountants Act 2004;\n“accounting limited liability partnership” means a limited liability partnership approved as an accounting limited liability partnership under the Accountants Act 2004;\n“designated entity” means any company, association or body of persons, corporate or unincorporate, specified in the Third Schedule;\n“member”, in relation to a designated entity, means a person who is admitted to such membership specified by the designated entity as being required to be held by persons registered or seeking to be registered as chartered accountants under this Part, and “membership” is to be construed accordingly.\n(2) Unless the context otherwise requires, any reference in this Part to a person registered as a chartered accountant is a reference to a person who is registered, or deemed to be registered, as a Chartered Accountant of Singapore by a designated entity under this Part and whose registration is not suspended under this Part.\n(3) For the purposes of sections 35C and 35I, any reference to the Minister includes a reference to a Minister of State for his or her Ministry who is authorised by the Minister for the purpose of hearing an appeal under those sections.\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A35.002",
+   "no": 35.002,
+   "noLabel": {
+    "en": "35B."
+   },
+   "chapter": {
+    "en": "PART 6B CHARTERED ACCOUNTANTS OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Restrictions on use of “Chartered Accountant of Singapore”"
+   },
+   "text": {
+    "en": "35B.—(1) An accounting entity or a person who is registered as a chartered accountant may —\n(a)describe itself, himself or herself (as the case may be) as “Chartered Accountant of Singapore”; and\n(b)use the initials “CA (Singapore)” after the entity’s or person’s name, as the case may be.\n(2) A person who is not an accounting entity or a person registered as a chartered accountant may also describe itself as “Chartered Accountant of Singapore” and use the initials “CA (Singapore)” after its name if it is an approved entity.\n(3) An individual who is not registered as a chartered accountant, or whose registration as such is suspended, under this Part must not —\n(a)practise as, or hold himself or herself out to be, a Chartered Accountant of Singapore; or\n(b)use, verbally or otherwise, in connection with his or her business, employment, profession, description or name (or the name under which he or she carries on business) —\n(i)the expression “Chartered Accountant of Singapore” or any of its derivatives or abbreviations, in any language;\n(ii)the initials “CA (Singapore)”; or\n(iii)any word, designation or description, in any language, tending to convey the impression that he or she is a Chartered Accountant of Singapore, or that he or she is qualified or authorised to practise as such.\n(4) A person that is not an individual and not an accounting entity or an approved entity must not —\n(a)practise as, or hold itself out to be, a Chartered Accountant of Singapore; or\n(b)use, verbally or otherwise, in connection with its business, profession, description or name (or the name under which it carries on business) —\n(i)the expression “Chartered Accountant of Singapore” or any of its derivatives or abbreviations, in any language;\n(ii)the initials “CA (Singapore)”; or\n(iii)any word, designation or description, in any language, tending to convey the impression that the person is a Chartered Accountant of Singapore, or that it is qualified or authorised to practise as such.\n(5) Any person who —\n(a)contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction —\n(i)to a fine not exceeding $5,000; and\n(ii)in the case of a second or subsequent offence, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both; or\n(b)contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction —\n(i)to a fine not exceeding $5,000; and\n(ii)in the case of a second or subsequent offence, to a fine not exceeding $10,000.\n(6) In this section, “approved entity” means an entity approved by the Authority under section 35C(2) to describe itself as “Chartered Accountant of Singapore” and use the initials “CA (Singapore)” after its name and whose approval has not ceased under section 35C(3).\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A35.003",
+   "no": 35.003,
+   "noLabel": {
+    "en": "35C."
+   },
+   "chapter": {
+    "en": "PART 6B CHARTERED ACCOUNTANTS OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Approved entity"
+   },
+   "text": {
+    "en": "35C.—(1) A company or proposed company, a firm or proposed firm, or a limited liability partnership or proposed limited liability partnership (called in this section an entity), which is not an accounting entity, may apply to the Authority for approval to describe itself as “Chartered Accountant of Singapore” and use the initials “CA (Singapore)” after its name.\n(2) The Authority may approve an application made under subsection (1) if the following conditions are satisfied:\n(a)one of the primary objects of the entity is to provide such accounting services as may be prescribed;\n(b)in the case of an entity that is —\n(i)a company or proposed company — the constitution of the company or proposed company provides that at least two-thirds, or any other prescribed proportion, of the directors (including the chairperson) must be chartered accountants, or —\n(A)if the company or proposed company has only one director, that that director must be a chartered accountant; or\n(B)if the company or proposed company has only 2 directors, that at least one of those directors must be a chartered accountant;\n(ii)a firm or proposed firm — at least two-thirds, or any other prescribed proportion, of the partners are chartered accountants, or if the partnership has only 2 partners, at least one of those partners is a chartered accountant; or\n(iii)a limited liability partnership or proposed limited liability partnership — at least two-thirds, or any other prescribed proportion, of the partners are chartered accountants, or if the partnership has only 2 partners, at least one of those partners is a chartered accountant;\n(c)the entity meets any other conditions that may be prescribed.\n(3) If any of the conditions mentioned in subsection (2) ceases to be satisfied by the entity, the Authority’s approval under subsection (2) automatically ceases.\n(4) Subsection (3) does not prevent an entity from making a fresh application under subsection (1) and from being approved by the Authority under subsection (2) if the entity subsequently meets the conditions of subsection (2) again.\n(5) An entity aggrieved by the Authority’s refusal to approve an application under subsection (2) may, within 30 days after being informed of the Authority’s refusal, appeal to the Minister whose decision is final.\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A35.004",
+   "no": 35.004,
+   "noLabel": {
+    "en": "35D."
+   },
+   "chapter": {
+    "en": "PART 6B CHARTERED ACCOUNTANTS OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Registration of chartered accountant"
+   },
+   "text": {
+    "en": "35D.—(1) No person, except a designated entity, may register, or renew the registration of, any person as a chartered accountant.\n(2) A designated entity may, on the application of any person made in accordance with the membership rules or other requirements of the designated entity, register the person as a chartered accountant if the person —\n(a)has completed, to the satisfaction of the Authority, any professional qualification programme that may be specified by the Authority for the class of persons to which that person belongs;\n(b)is a member of the designated entity;\n(c)satisfies the requirements relating to chartered accountants specified in the membership rules of the designated entity; and\n(d)satisfies any other requirements that may be prescribed.\n(3) Subject to subsections (4) and (5), every registration of a member of a designated entity as a chartered accountant under this Act —\n(a)is valid for one year, unless the registration ceases or is revoked earlier under this Act; and\n(b)on its expiry and on an application made by the member in accordance with the membership rules of the designated entity, may be renewed by the designated entity for the same period.\n(4) A designated entity must not renew the registration of a chartered accountant under subsection (3)(b) if the chartered accountant —\n(a)ceases to be a member of the designated entity;\n(b)does not satisfy any of the requirements relating to chartered accountants specified in the membership rules of the designated entity; or\n(c)does not satisfy any other requirement that may be prescribed.\n(5) Without affecting subsection (4), a designated entity must not renew the registration of a chartered accountant under subsection (3)(b) while the chartered accountant’s membership in the designated entity is suspended.\n(6) Any person, other than a designated entity, that holds himself, herself or itself out as a designated entity, or purports to register, or renew the registration of, any person as a chartered accountant, shall be guilty of an offence and shall be liable on conviction —\n(a)to a fine not exceeding $5,000; and\n(b)in the case of a second or subsequent offence, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A35.005",
+   "no": 35.005,
+   "noLabel": {
+    "en": "35E."
+   },
+   "chapter": {
+    "en": "PART 6B CHARTERED ACCOUNTANTS OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Suspension or termination of membership in designated entity"
+   },
+   "text": {
+    "en": "35E.—(1) Nothing in this Part affects the right of a designated entity under its membership rules to suspend or terminate the membership of any of its members registered as a chartered accountant.\n(2) The registration of a member of a designated entity as a chartered accountant under this Part must, by virtue of this subsection —\n(a)be suspended, for the applicable period in subsection (3), immediately upon the suspension of the member’s membership in the designated entity; and\n(b)cease immediately upon the termination of the member’s membership in the designated entity.\n(3) The period of any suspension of the registration of a chartered accountant under subsection (2)(a) is the shorter of the following:\n(a)the period of the suspension of the chartered accountant’s membership in the designated entity;\n(b)the period remaining of the validity of the registration as a chartered accountant.\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A35.006",
+   "no": 35.006,
+   "noLabel": {
+    "en": "35F."
+   },
+   "chapter": {
+    "en": "PART 6B CHARTERED ACCOUNTANTS OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Revocation or suspension of registration by designated entity"
+   },
+   "text": {
+    "en": "35F.—(1) Subject to subsection (2), a designated entity may take any disciplinary or other action against, or impose any penalty on or make any other order against, any of its members registered with it as a chartered accountant that is provided in its membership rules.\n(2) A designated entity must not revoke or suspend the registration of any person as a chartered accountant except as provided under this section.\n(3) Subject to subsection (4), if, upon taking any disciplinary or other action provided in its membership rules against any member registered with it as a chartered accountant, the designated entity (or any body of persons specified in its membership rules as being responsible for making that assessment) is of the opinion that —\n(a)the member has contravened any code of professional conduct, standards or ethics applicable to chartered accountants under its membership rules; and\n(b)there exists cause of sufficient gravity for revoking the registration of the chartered accountant,\nthe designated entity may revoke the member’s registration as a chartered accountant.\n(4) A designated entity may, instead of revoking the registration of a chartered accountant under subsection (3), suspend the registration for a period not exceeding 10 months.\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A35.007",
+   "no": 35.007,
+   "noLabel": {
+    "en": "35G."
+   },
+   "chapter": {
+    "en": "PART 6B CHARTERED ACCOUNTANTS OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Revocation or suspension of registration by Authority"
+   },
+   "text": {
+    "en": "35G.—(1) A designated entity must inform the Authority, within the period specified by the Authority, of every complaint received, investigation undertaken, disciplinary or other action taken, penalty imposed or other order made by the designated entity in respect of any member of the designated entity who is registered with it as a chartered accountant.\n(2) The Authority may, at any time, review any matter concerning any contravention or alleged contravention by any member of a designated entity registered as a chartered accountant of any code of professional conduct, standards or ethics applicable to chartered accountants under the membership rules of the designated entity where the designated entity —\n(a)did not take any disciplinary or other action against the member in respect of the contravention or alleged contravention; or\n(b)having taken such action, suspends the member’s registration under section 35F(4), or imposes any lesser penalty or makes any other order provided for under its membership rules.\n(3) Subject to subsections (4) and (5), if, upon a review under subsection (2), the Authority is satisfied that —\n(a)any member of a designated entity registered as a chartered accountant has contravened any code of professional conduct, standards or ethics applicable to chartered accountants under the membership rules of the designated entity; and\n(b)there exists cause of sufficient gravity for revoking the registration of the chartered accountant,\nthe Authority may revoke the member’s registration as a chartered accountant.\n(4) Subject to subsection (5), the Authority may, instead of revoking the registration of a chartered accountant under subsection (3) —\n(a)in a case where the designated entity has suspended the registration under section 35F(4), extend the suspension of the registration for a period not exceeding 10 months in the aggregate; or\n(b)in any other case, suspend the registration for a period not exceeding 10 months.\n(5) Before revoking, suspending or extending the suspension of the registration of any person as a chartered accountant under this section, the Authority must give the person written notice of its intention to do so and an opportunity to submit reasons, within the period specified by the Authority in that notice, as to why the registration should not be revoked or suspended or why the suspension of the registration should not be extended.\n(6) The Authority may require any person who appears to the Authority to have information that is relevant to the performance of its functions or the exercise of its powers under this section to provide the Authority with all such information, and any person required to provide the information must provide it in the manner and within the period specified by the Authority.\n(7) To avoid doubt, the Authority —\n(a)is not under any obligation to review any matter, or take any action in respect of any matter, under this section; and\n(b)may, at any time, discontinue the review of any matter, or any action taken in respect of any matter with a view to revoking or suspending, or extending the suspension of, the registration of any chartered accountant, under this section.\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A35.008",
+   "no": 35.008,
+   "noLabel": {
+    "en": "35H."
+   },
+   "chapter": {
+    "en": "PART 6B CHARTERED ACCOUNTANTS OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Appeals to Authority"
+   },
+   "text": {
+    "en": "35H.—(1) Any person aggrieved by any decision of a designated entity —\n(a)refusing to register the person as a chartered accountant under section 35D;\n(b)refusing to renew the person’s registration as a chartered accountant under section 35D;\n(c)revoking the person’s registration as a chartered accountant under section 35F(3); or\n(d)suspending the person’s registration as a chartered accountant under section 35F(4),\nmay, within 30 days after receipt of the decision, appeal to the Authority.\n(2) Any person who makes an appeal to the Authority under subsection (1) must, within the period specified in that subsection —\n(a)state as concisely as possible the circumstances under which the appeal arises and the issues and grounds for the appeal; and\n(b)submit to the Authority all relevant facts, evidence and arguments in respect of the appeal.\n(3) Where an appeal has been made to the Authority under subsection (1), the Authority may require —\n(a)any party to the appeal; or\n(b)any person who is not a party to the appeal but appears to the Authority to have information that is relevant to the matters in that subsection,\nto provide the Authority with all such information as the Authority may require for the purpose of considering and determining the appeal, and any person required to provide the information must provide it in the manner and within the period specified by the Authority.\n(4) The Authority may reject any appeal under subsection (1) if the appellant fails to comply with subsection (2) or (3).\n(5) Unless otherwise directed by the Authority, an appeal under subsection (1) from a decision of a designated entity does not affect the operation of the decision or prevent the taking of any action to implement the decision.\n(6) The Authority may determine an appeal under subsection (1) from a decision of a designated entity by —\n(a)confirming the decision;\n(b)directing the designated entity to register the appellant as a chartered accountant;\n(c)directing the designated entity to renew the registration of the appellant as a chartered accountant;\n(d)quashing any revocation or suspension of the registration of the appellant as a chartered accountant;\n(e)substituting any suspension of the registration of the appellant as a chartered accountant with revocation;\n(f)substituting any revocation of the registration of the appellant as a chartered accountant with suspension for a period not exceeding 10 months;\n(g)extending any suspension of the registration of the appellant as a chartered accountant for a period not exceeding 10 months in the aggregate, or reducing the period of the suspension; or\n(h)directing the designated entity to reconsider its decision,\nand the decision of the Authority is final.\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A35.009",
+   "no": 35.009,
+   "noLabel": {
+    "en": "35I."
+   },
+   "chapter": {
+    "en": "PART 6B CHARTERED ACCOUNTANTS OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Appeals to Minister"
+   },
+   "text": {
+    "en": "35I.—(1) Any person aggrieved by any decision of the Authority —\n(a)revoking the person’s registration as a chartered accountant under section 35G(3);\n(b)suspending the person’s registration as a chartered accountant under section 35G(4); or\n(c)extending the suspension of the person’s registration as a chartered accountant under section 35G(4),\nmay, within 30 days after receipt of the decision, appeal to the Minister.\n(2) Any person who makes an appeal to the Minister under subsection (1) must, within the period specified in that subsection —\n(a)state as concisely as possible the circumstances under which the appeal arises and the issues and grounds for the appeal; and\n(b)submit to the Minister all relevant facts, evidence and arguments in respect of the appeal.\n(3) Where an appeal has been made to the Minister under subsection (1), the Minister may require —\n(a)any party to the appeal; or\n(b)any person who is not a party to the appeal but appears to the Minister to have information that is relevant to the matters in that subsection,\nto provide the Minister with all such information as the Minister may require for the purpose of considering and determining the appeal, and any person required to provide the information must provide it in the manner and within the period specified by the Minister.\n(4) The Minister may reject any appeal under subsection (1) if the appellant fails to comply with subsection (2) or (3).\n(5) Unless otherwise directed by the Minister, an appeal under subsection (1) from a decision of the Authority does not affect the operation of the decision or prevent the taking of any action to implement the decision.\n(6) The Minister may determine an appeal under subsection (1) from a decision of the Authority by —\n(a)confirming the decision;\n(b)quashing the decision;\n(c)substituting any suspension of the registration of the appellant as a chartered accountant with revocation;\n(d)substituting any revocation of the registration of the appellant as a chartered accountant with suspension for a period not exceeding 10 months;\n(e)extending any suspension of the registration of the appellant as a chartered accountant for a period not exceeding 10 months in the aggregate, or reducing the period of the suspension; or\n(f)directing the Authority to reconsider its decision,\nand the decision of the Minister is final.\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A35.01",
+   "no": 35.01,
+   "noLabel": {
+    "en": "35J."
+   },
+   "chapter": {
+    "en": "PART 6B CHARTERED ACCOUNTANTS OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Powers relating to revocation or suspension not affected by membership rules, etc."
+   },
+   "text": {
+    "en": "35J. The Authority and the Minister may exercise their powers, respectively, under this Part in respect of the revocation or suspension of the registration of a member of a designated entity as a chartered accountant despite —\n(a)anything in the membership rules of the designated entity;\n(b)anything done or omitted to be done by the designated entity in respect of the member;\n(c)any irregularity in any disciplinary or other action taken by the designated entity against the member; or\n(d)any penalty imposed on or any other order made against the member by the designated entity.\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A35.011",
+   "no": 35.011,
+   "noLabel": {
+    "en": "35K."
+   },
+   "chapter": {
+    "en": "PART 6B CHARTERED ACCOUNTANTS OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Designated entities"
+   },
+   "text": {
+    "en": "35K.—(1) Subject to section 35L, the Authority may, with the approval of the Minister, by order in the Gazette, amend the Third Schedule by adding to or deleting from that Schedule or otherwise varying any designated entity.\n(2) A designated entity is subject to any conditions that the Authority may specify.\n(3) Without affecting the Societies Act 1966 or any other legislation governing or regulating the designated entity, a designated entity may, with the concurrence of the Authority, modify any of its membership rules relating to chartered accountants in the manner provided in its membership rules.\n(4) In the event of any inconsistency between the membership rules of a designated entity relating to chartered accountants and this Act, this Act prevails to the extent of the inconsistency.\n(5) In this section, “membership rules”, in relation to a designated entity, includes but is not limited to the requirements for the registration, and renewal of the registration, of chartered accountants, codes of professional conduct, standards and ethics applicable to chartered accountants, and rules relating to disciplinary and other actions that may be taken by the designated entity against its members who are chartered accountants.\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A35.012",
+   "no": 35.012,
+   "noLabel": {
+    "en": "35L."
+   },
+   "chapter": {
+    "en": "PART 6B CHARTERED ACCOUNTANTS OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Deletion of designated entity"
+   },
+   "text": {
+    "en": "35L.—(1) Subject to subsection (2), before deleting a designated entity from the Third Schedule under section 35K(1), the Authority must give the designated entity written notice of its intention to do so and an opportunity to submit reasons, within the period specified by the Authority in that notice, as to why the designated entity should not be deleted.\n(2) Subsection (1) does not apply in the case where the designated entity requests in writing that it be deleted from the Third Schedule.\n(3) Any order under section 35K(1) deleting a designated entity from the Third Schedule does not take effect until the end of at least 30 days after the date on which the Authority informs the designated entity of its decision to delete the designated entity from the Third Schedule.\n(4) If a designated entity is deleted from the Third Schedule —\n(a)it must immediately cease to register, or renew the registration of, any person as a chartered accountant; and\n(b)every person who, on the eve of the deletion, is registered with it as a chartered accountant ceases to be a registered chartered accountant under this Part on the expiry of the period after the deletion specified by the Authority, by notification in the Gazette (called in this section the transitional period), unless before the expiry of the transitional period —\n(i)the person becomes a member of another designated entity (called in this section the successor designated entity); and\n(ii)the successor designated entity certifies that the person satisfies the requirements relating to chartered accountants specified in its membership rules.\n(5) Any person referred to in subsection (4) who, before the expiry of the transitional period, becomes a member of and is certified by the successor designated entity under paragraph (b)(ii) of that subsection is, on the date of being so certified, deemed to be registered as a chartered accountant by the successor designated entity under this Part and for a period that is equal to the remaining period of validity of the person’s registration as a chartered accountant with the deleted designated entity but for the deletion.\n(6) Every person registered as a chartered accountant with a designated entity on the eve of the deletion of the designated entity from the Third Schedule is, despite the deletion, deemed to be registered as a chartered accountant under this Part during the shorter of the following:\n(a)the transitional period;\n(b)the period commencing on the date of the deletion and ending on the date immediately before the date on which the person is deemed to be registered as a chartered accountant by the successor designated entity under subsection (5).\n(7) For the purposes of subsection (5), the remaining period of validity of the registration of a person as a chartered accountant with a deleted designated entity is the period during which the registration would have been valid but for the deletion of the designated entity less the period during which the person is deemed to be registered as a chartered accountant under subsection (6).\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A35.013",
+   "no": 35.013,
+   "noLabel": {
+    "en": "35M."
+   },
+   "chapter": {
+    "en": "PART 6B CHARTERED ACCOUNTANTS OF SINGAPORE"
+   },
+   "heading": {
+    "en": "Regulations for this Part"
+   },
+   "text": {
+    "en": "35M.—(1) The Authority may, with the approval of the Minister, make regulations to give effect to the provisions and purposes of this Part.\n(2) Without limiting subsection (1), regulations may be made under that subsection for or with respect to all or any of the following matters:\n(a)conditions or restrictions applicable to designated entities;\n(b)the fees and charges payable under this Part, and the waiver, refund or remission, whether wholly or in part, of the fees and charges;\n(c)matters required or permitted to be prescribed by this Part or which are necessary or expedient to be prescribed to give effect to this Part.\n(3) Regulations made under subsection (1) may —\n(a)provide that a contravention of any specified provision of the regulations shall be an offence; and\n(b)provide for penalties not exceeding a fine of $5,000 or imprisonment for a term not exceeding 6 months or both for any offence specified in the regulations and, in the case of a continuing offence, a further penalty not exceeding a fine of $250 for every day or part of a day during which the offence continues after conviction.\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Symbol or representation of Authority"
+   },
+   "text": {
+    "en": "36.—(1) The Authority has the exclusive right to the use of such symbol or representation as the Authority may select or devise and thereafter display or exhibit such symbol or representation in connection with its activities or affairs.\n[18/2014]\n(2) A person who —\n(a)uses, without the prior written permission of the Authority, a symbol or representation identical to that of the Authority; or\n(b)uses a symbol or representation which so resembles the Authority’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or to cause confusion,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part of a day during which the offence continues after conviction.\n[30\n[18/2014]\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Use of name, etc., of Authority"
+   },
+   "text": {
+    "en": "37.—(1) The Authority may conduct its operations under its full name or under the acronym ACRA.\n[18/2014]\n(2) A person other than the Authority must not —\n(a)use, without the prior written permission of the Authority, the name of the Authority or the acronym ACRA; or\n(b)use a name or an acronym which so resembles the name of the Authority or the acronym ACRA as is likely to deceive or cause confusion —\n(i)in connection with a business, trade, profession or occupation;\n(ii)as the name, or as part of the name, of any firm, body corporate or institution; or\n(iii)in relation to —\n(A)services or products; or\n(B)the promotion, by any means, of the supply of services or products.\n[Act 36 of 2022 wef 01/04/2023]\n(3) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part of a day during which the offence continues after conviction.\n[30A\n[18/2014]"
+   }
+  },
+  {
+   "id": "SG-H057-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "False statements"
+   },
+   "text": {
+    "en": "38. Any person who, in relation to any application under this Act —\n(a)makes any false statement which the person knows to be false or does not believe to be true or which the person makes recklessly; or\n(b)intentionally suppresses any material fact,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.\n[30B\n[18/2014]"
+   }
+  },
+  {
+   "id": "SG-H057-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Powers of enforcement"
+   },
+   "text": {
+    "en": "39.—(1) In addition to the powers conferred on him or her by this Act or any other written law, an officer or employee of the Authority may, in relation to any offence under this Act or any written law specified in the Second Schedule —\n(a)require any person whom the officer or employee reasonably believes to have committed that offence to provide evidence of the person’s identity;\n(b)issue a written order to require any person to provide any information, book or document, or a copy or an extract thereof, which is —\n(i)in the possession of the person;\n(ii)within the knowledge of the person; or\n(iii)in the custody or under the control of the person,\nby the time specified in the order and in such form and manner and at such place as may be specified in the order;\n[Act 24 of 2025 wef 06/05/2026]\n(ba)in respect of any information, book or document, or a copy or an extract thereof, in the possession, within the knowledge, or in the custody or under the control of a company, issue a written order to require a director of the company to provide the information, book, document, copy or extract by the time specified in the order and in such form and manner and at such place as may be specified in the order;\n[Act 24 of 2025 wef 06/05/2026]\n(c)issue a written order to require the attendance before the officer or employee of any person within the limits of Singapore who, from any information given or otherwise obtained by the officer or employee, appears to be acquainted with the circumstances of the case;\n[Act 24 of 2025 wef 06/05/2026]\n(d)examine orally any person reasonably believed to be acquainted with the facts or circumstances of the case or with any other matter that the officer or employee specifies, and reduce into writing the answer given or statement made by that person;\n(e)take any photographs or video recordings, that the officer or employee thinks necessary, of the premises in which or in connection with which he or she reasonably believes an offence has been committed and the persons reasonably believed to be acquainted with the facts or circumstances of the case or with any other matter that the officer or employee specifies; and\n(f)require the owner or occupier of any premises in which or in connection with which the officer or employee of the Authority reasonably believes an offence has been committed to give the officer or employee access to such premises without charge for the purpose of investigating that offence.\n[18/2014]\n(1A) The power to issue a written order to a person under subsection (1)(b) or (ba) includes the power to issue a written order —\n(a)to require that person to produce or grant access to the information, book, document, copy or extract;\n(b)to inspect, make copies of or take extracts from the information, book or document, without fee or reward;\n(c)to require that person to provide an explanation of the information, book, document, copy or extract;\n(d)if the information, book, document, copy or extract is not provided, to require that person to state, to the best of that person’s knowledge and belief, where it is; and\n(e)if the information, book, document, copy or extract is recorded otherwise than in legible form, to require the information, book or document, copy or extract to be made available to the officer or employee of the Authority in legible form.\n[Act 24 of 2025 wef 06/05/2026]\n(1B) An officer or employee of the Authority is entitled without payment to keep any information, book or document, or any copy or extract thereof, provided to him or her pursuant to a requirement imposed by him or her under subsection (1)(b) or (ba).\n[Act 24 of 2025 wef 06/05/2026]\n(2) The person mentioned in subsection (1)(d) is bound to state truly what the person knows of the facts and circumstances with which the person is acquainted except that the person need not say anything that might expose the person to a criminal charge, penalty or forfeiture.\n[18/2014]\n(3) A statement made by the person referred to in subsection (2) must —\n(a)be reduced to writing;\n(b)be read over to the person;\n(c)if the person does not understand English, be interpreted in a language that the person understands; and\n(d)after correction, if necessary, be signed by the person.\n[18/2014]\n(4) An officer or employee of the Authority when exercising any power under this Act must declare his or her office and must produce to the person against whom he or she is acting such identification card as the Chief Executive may direct to be carried by officers or employees of the Authority.\n[18/2014]\n(5) An officer or employee of the Authority may also, in relation to an investigation into —\n(a)a breach of a condition of registration of a registered corporate service provider or registered qualified individual under the Corporate Service Providers Act 2024; or\n(b)a contravention of or a failure to comply with any provision of that Act, the contravention of or non‑compliance with which is not an offence under that Act,\nexercise the powers under subsection (1) in the same manner as if the breach, contravention or non‑compliance were an offence under this Act.\n[Act 22 of 2024 wef 09/06/2025]\n(6) Any person who —\n(a)refuses to give access to, or assaults, obstructs, hinders or delays, an officer or employee of the Authority in the discharge of the duties by such officer or employee of the Authority under this Act or that written law;\n(b)wilfully misstates or without lawful excuse refuses to give any information or produce any book, document, copy or extract required of the person by an officer or employee of the Authority under subsection (1) or (5); or\n[Act 24 of 2025 wef 06/05/2026]\n(c)fails to comply with a lawful demand of an officer or employee of the Authority in the discharge by such officer or employee of his or her duties under this Act or that written law,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.\n[31\n[18/2014]\n(7) No liability shall lie against a person who, in good faith and with reasonable care, does or omits to do anything in complying with any written order issued under subsection (1)(b) or (ba).\n[Act 24 of 2025 wef 06/05/2026]"
+   }
+  },
+  {
+   "id": "SG-H057-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Offences committed by bodies corporate, etc."
+   },
+   "text": {
+    "en": "40.—(1) Where an offence under this Act which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, manager, secretary or any similar officer of the body corporate, or any person who was purporting to act in any such capacity, he or she, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.\n(2) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with the member’s functions of management as if the member were a director of the body corporate.\n(3) Proceedings for an offence under this Act alleged to have been committed by a partnership are to be brought in the name of the partnership and not in the names of the partners; but without affecting any liability of the partners under subsection (5).\n(4) A fine imposed on a partnership on its conviction in such proceedings is to be paid out of the partnership assets.\n(5) Where a partnership is guilty of an offence under this Act, every partner, other than a partner who is proved to have been ignorant of or to have attempted to prevent the commission of the offence, shall also be guilty of the offence and shall be liable to be proceeded against and punished accordingly.\n(6) Where an offence under this Act which has been committed by an unincorporated association (other than a partnership) is proved —\n(a)to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or\n(b)to be attributable to any neglect on the part of the officer or member,\nthe officer or member (as the case may be) as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.\n[Act 36 of 2022 wef 01/04/2023]\n(7) In subsection (6), “officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of the president, secretary or member of the committee, and includes any person purporting to act in any such capacity.\n[32\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Proceedings conducted by officers of Authority"
+   },
+   "text": {
+    "en": "41.—(1) Proceedings in respect of an offence under this Act or under any written law specified in the Second Schedule may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority who is authorised in writing in that behalf by the Chief Executive.\n[15/2010]\n(2) Despite the provisions of any written law, a legal officer of the Authority who has been admitted as an advocate and solicitor under the Legal Profession Act 1966 may —\n(a)appear in any civil proceedings involving the Authority or any Registrar in the performance of the functions or duties of the Authority or Registrar under any written law specified in the Second Schedule; and\n(b)make and do all acts and applications in respect of such proceedings on behalf of the Authority or any Registrar.\n(3) In this section, “Registrar” means —\n(a)the Registrar of Public Accountants and any Deputy or Assistant Registrar of Public Accountants appointed under the Accountants Act 2004;\n(b)the Registrar of Business Names and any Deputy Registrar or Assistant Registrar of Business Names appointed under the Business Names Registration Act 2014;\n(c)the Registrar of Companies and any Deputy or Assistant Registrar of Companies appointed under the Companies Act 1967;\n(d)the Registrar of Limited Liability Partnerships and any Deputy or Assistant Registrar of Limited Liability Partnerships appointed under the Limited Liability Partnerships Act 2005;\n(e)the Registrar of Limited Partnerships and any Deputy or Assistant Registrar of Limited Partnerships appointed under the Limited Partnerships Act 2008; and\n(f)the Registrar of VCCs and any Deputy or Assistant Registrar of VCCs appointed under the Variable Capital Companies Act 2018.\n[33\n[4/2010; 29/2014; 44/2018]"
+   }
+  },
+  {
+   "id": "SG-H057-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Preservation of secrecy"
+   },
+   "text": {
+    "en": "42.—(1) A person who is or has been —\n(a)a member, an officer, an employee, a consultant or an agent of the Authority; or\n[Act 36 of 2022 wef 01/04/2023]\n(b)a member of a committee of the Authority,\nmust not disclose any information relating to the affairs of the Authority or of any other person which has been obtained by the firstmentioned person in the performance of that person’s duties or the exercise of that person’s functions unless such disclosure is made —\n(c)with the permission of the person from whom the information was obtained or, where the information is the confidential information of a third person, with the permission of that third person;\n(d)for the purpose of the administration or enforcement of this Act or any written law specified in the Second Schedule;\n(e)in compliance with the requirement of any court or as required or allowed by the provisions of any written law;\n(f)with the prior authorisation from the Authority to do so;\n(g)for the purpose of assisting any public officer or officer of any other statutory board in the investigation or prosecution of any offence under any written law;\n(h)for the purpose of assisting a public officer, or an officer of another statutory board, who is responsible for administering or enforcing any written law, to administer or enforce that written law;\n(i)in connection with any civil proceedings to which the Authority is a party;\n[Act 24 of 2025 wef 06/05/2026]\n(j)with a view to the institution, or otherwise for the purposes, of any disciplinary proceedings or investigation in connection therewith under any written law; or\n[18/2014; 5/2018]\n[Act 24 of 2025 wef 06/05/2026]\n(k)for the purpose of providing any information under an arrangement between the Authority and a foreign audit regulator (as defined in section 59B(5) of the Accountants Act 2004), to which section 59B of that Act applies.\n[Act 24 of 2025 wef 06/05/2026]\n(2) A person who is or has been —\n(a)a member, an officer, an employee, a consultant or an agent of the Authority; or\n[Act 36 of 2022 wef 01/04/2023]\n(b)a member of a committee of the Authority,\nmust not, for the person’s own personal benefit or for the personal benefit of any other person, make use of any information, whether directly or indirectly, which has been obtained by that firstmentioned person in the performance of that person’s duties or the exercise of that person’s functions.\n(3) For the purpose of this section, the reference to the person disclosing or making use of any information includes the person permitting any other person to have any access to any record, document or other thing which is in the firstmentioned person’s possession or under that person’s control by virtue of that person being or having been a member, an officer, an employee, a consultant or an agent of the Authority or a member of a committee of the Authority.\n[Act 36 of 2022 wef 01/04/2023]\n(4) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.\n(5) The provisions of this section are in addition to, and not in derogation of, any provision in any written law specified in the Second Schedule that regulates or restricts the disclosure of information by any member, officer, employee, consultant, agent or member of a committee of the Authority.\n[34\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A42.001",
+   "no": 42.001,
+   "noLabel": {
+    "en": "42A."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "42A.—(1) A document that is permitted or required by this Act to be served on a person may be served as described in this section.\n(2) A document permitted or required by this Act to be served on an individual may be served —\n(a)by giving it to the individual personally;\n(b)by sending it by prepaid registered post to the address specified by the individual for the service of documents or, if no address is so specified, the individual’s residential address, contact address or business address;\n[Act 21 of 2024 wef 09/12/2024]\n(c)by leaving it at the individual’s residential address with an adult apparently resident there, at the individual’s contact address with an adult apparently resident or employed there, or at the individual’s business address with an adult apparently employed there;\n[Act 21 of 2024 wef 09/12/2024]\n(d)by affixing a copy of the document in a conspicuous place at the individual’s residential address, contact address or business address;\n[Act 21 of 2024 wef 09/12/2024]\n(e)by sending it by fax to the fax number last known to the person giving or serving the document as the fax number for the service of documents on the individual; or\n(f)by sending it by email to the individual’s last email address.\n(3) A document permitted or required by this Act to be served on a partnership (other than a limited liability partnership) may be served —\n(a)by giving it to any partner or other similar officer of the partnership;\n(b)by leaving it at, or by sending it by prepaid registered post to, the partnership’s business address;\n(c)by sending it by fax to the fax number used at the partnership’s business address; or\n(d)by sending it by email to the partnership’s last email address.\n(4) A document permitted or required by this Act to be served on a body corporate (including a limited liability partnership) or an unincorporated association may be served —\n(a)by giving it to the secretary or other similar officer of the body corporate or unincorporated association, or the limited liability partnership’s manager;\n(b)by leaving it at, or by sending it by prepaid registered post to, the registered office or principal office in Singapore of the body corporate or unincorporated association;\n(c)by sending it by fax to the fax number used at the registered office or principal office in Singapore of the body corporate or unincorporated association; or\n(d)by sending it by email to the last email address of the body corporate or unincorporated association.\n(5) Service of a document under this section takes effect —\n(a)if the document is sent by fax and a notification of successful transmission is received, on the day of transmission;\n(b)if the document is sent by email, at the time that the email becomes capable of being retrieved by the person to whom it is sent; and\n(c)if the document is sent by prepaid registered post, 2 days after the day the document was posted (even if it is returned undelivered).\n(6) However, service of any document under this Act on a person by email may be effected only with the person’s prior consent (express or implied) to service in that way.\n(7) This section does not apply to —\n(a)documents that are permitted or required by any written law specified in the Second Schedule to be served on a person; or\n(b)documents to be served in proceedings in court.\n(8) In this section —\n“business address” means —\n(a)in the case of an individual, the individual’s usual or last known place of business in Singapore; or\n[Act 21 of 2024 wef 09/12/2024]\n(b)in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore;\n“contact address”, in relation to an individual, means an individual’s contact address kept or maintained by the Authority under this Act or by the Registrar under any scheduled Act;\n[Act 21 of 2024 wef 09/12/2024]\n“last email address” means the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act;\n“residential address” means an individual’s usual or last known place of residence in Singapore.\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Jurisdiction of District Court"
+   },
+   "text": {
+    "en": "43. Despite any provision to the contrary in the Criminal Procedure Code 2010, a District Court has jurisdiction to try any offence under this Act and has power to impose the full penalty or punishment in respect of the offence.\n[35"
+   }
+  },
+  {
+   "id": "SG-H057-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "44.—(1) The Chief Executive or any officer of the Authority who is authorised by the Chief Executive may compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:\n(a)one half of the amount of the maximum fine that is prescribed for the offence;\n(b)$5,000.\n[18/2014]\n(2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence.\n[36"
+   }
+  },
+  {
+   "id": "SG-H057-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Amendment of Schedules"
+   },
+   "text": {
+    "en": "45. The Minister may, by order in the Gazette, amend the Second, Fourth and Fifth Schedules.\n[37\n[18/2014; 40/2018]"
+   }
+  },
+  {
+   "id": "SG-H057-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46."
+   },
+   "chapter": {
+    "en": "PART 7 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Rules"
+   },
+   "text": {
+    "en": "46.—(1) The Authority may, with the approval of the Minister, make rules to carry out the purposes and provisions of this Act.\n(2) Without limiting subsection (1), the Authority may, with the approval of the Minister, make rules for or with respect to all or any of the following matters:\n(a)the manner of appointment, conduct and discipline and the terms and conditions of service of the officers and employees of the Authority;\n(b)the establishment of funds for the payment of gratuities and other benefits to officers and employees of the Authority;\n(c)the fees to be charged in respect of anything done or any service rendered by the Authority under or by virtue of this Act, other than Part 6A or 6B, or any other written law;\n[Act 36 of 2022 wef 01/04/2023]\n(d)the offences which may be compounded under section 44.\n[38\n[18/2014]"
+   }
+  },
+  {
+   "id": "SG-H057-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nSection 5(4)\nConstitution and proceedings of Authority\nTerms of office of Chairperson and members\n1. The Chairperson and other members hold office for such period and on such terms and conditions as the Minister may determine, and are eligible for re‑appointment.\nRole of Deputy Chairperson\n2. Where the Minister has appointed a Deputy Chairperson under section 5(3)(a), the Deputy Chairperson so appointed may, subject to such direction as may be given by the Chairperson, exercise all or any of the powers exercisable by the Chairperson under this Act.\nTemporary Chairperson\n3. The Minister may appoint any person to be a temporary Chairperson during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairperson.\nRevocation of appointment\n4. The Minister may, at any time, revoke the appointment of the Chairperson, Deputy Chairperson (if any) or any member if the Minister considers such revocation necessary in the interest of the effective and economical performance of the functions of the Authority under this Act or in the public interest.\nResignation\n5. A member may resign from the member’s office at any time by giving not less than one month’s notice in writing to the Minister.\nChairperson may delegate functions\n6. The Chairperson may, in writing, authorise any member to exercise any power or perform any function conferred on the Chairperson by or under this Act.\nVacation of office\n7. The office of a member becomes vacant —\n(a)on the member’s death;\n(b)if the member fails to attend 3 consecutive meetings of the Authority without sufficient cause (the sufficiency thereof to be decided by the Authority);\n(c)if the member becomes in any manner disqualified from membership of the Authority;\n(d)if the member is adjudicated a bankrupt;\n(e)if the member resigns from the member’s office; or\n(f)if the member’s appointment is revoked.\nFilling of vacancies\n8. If a vacancy occurs in the membership of the Authority, the Minister may, subject to paragraphs 1 and 9, appoint any person to fill the vacancy, and the person so appointed is to hold office for the remainder of the term for which the vacating member was appointed.\nDisqualification from membership\n9. A person must not be appointed or continue to hold office as a member if the person —\n(a)is incapacitated by physical or mental illness;\n(b)is an undischarged bankrupt or has made any arrangement or composition with the person’s creditors;\n(c)is convicted of an offence involving dishonesty, fraud or moral turpitude and has not received a free pardon;\n(d)has been sentenced to imprisonment for a term of 6 months or more and has not received a free pardon; or\n(e)is otherwise unable or unfit to discharge the functions of a member.\nSalaries, fees and allowances payable to members of Authority\n10. There are to be paid to the members of the Authority, out of the funds of the Authority, such salaries, fees and allowances as the Minister may determine.\nMeetings and proceedings of Authority\n11.—(1) The Authority is to meet for the despatch of business at such times and places as the Chairperson may appoint.\n(2) At every meeting of the Authority, one half of the number of members constitutes a quorum.\n(3) The Chairperson or, in his or her absence, the Deputy Chairperson presides at meetings of the Authority, and if both the Chairperson and Deputy Chairperson are absent from any meeting or part of the meeting —\n(a)a member authorised in writing by the Chairperson; or\n(b)in any other case, any member that the members present may elect,\nis to preside at that meeting or part of the meeting.\n[Act 36 of 2022 wef 01/04/2023]\n(4) Decisions at meetings of the Authority are to be adopted by a simple majority of the members present and voting and, in the case of an equality of votes, the Chairperson or in the Chairperson’s absence the member presiding has a casting vote.\n(5) Where not less than 4 members, by written notice signed by them, request the Chairperson to convene a meeting of the Authority for any purpose specified in the notice, the Chairperson must, within 7 days from the receipt of the notice, convene a meeting for that purpose.\n(6) The validity of any proceedings of the Authority is not affected by any vacancy among its members or by any defect in the appointment of any member.\n(7) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Authority may regulate its own proceedings generally and, in particular, regarding the holding of meetings, the notice to be given of the meetings, the proceedings at the meetings, the keeping of minutes, the custody, production and inspection of the minutes, and the opening, keeping, closing and auditing of accounts.\n[18/2014; 5/2018; 40/2018]"
+   }
+  },
+  {
+   "id": "SG-H057-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nSections 2(2), 6(1), 12(2), 26, 39(1), 41(1) and (2), 42(1) and (5), 42A(7)(a) and 45\nWritten laws administered and enforced by Authority\n1. Accountants Act 2004.\n2. Business Names Registration Act 2014.\n3. Companies Act 1967.\n3A. Corporate Service Providers Act 2024.\n[Act 22 of 2024 wef 09/06/2025]\n4. Limited Liability Partnerships Act 2005.\n5. Limited Partnerships Act 2008.\n6. All Parts of the Variable Capital Companies Act 2018, other than Part 7.\n[29/2014; 40/2018; 44/2018; S 253/2009]\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nSections 35A(1), 35K(1) and 35L(1), (2), (3), (4) and (6)\nDesignated entities\n1. Institute of Singapore Chartered Accountants (formerly known as Institute of Certified Public Accountants of Singapore).\n[Act 36 of 2022 wef 01/04/2023]"
+   }
+  },
+  {
+   "id": "SG-H057-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE\nSections 5(5) and 45\nDesignated entities\n1. Institute of Singapore Chartered Accountants (formerly known as Institute of Certified Public Accountants of Singapore).\n[18/2014]"
+   }
+  },
+  {
+   "id": "SG-H057-A900004",
+   "no": 900004,
+   "noLabel": {
+    "en": "FIFTH SCHEDULE"
+   },
+   "text": {
+    "en": "FIFTH SCHEDULE\nSections 26 and 45\nWritten laws under which transaction\nmay be carried out using electronic\ntransaction system\nFirst column\nSecond column\n1.Insolvency, Restructuring and Dissolution Act 2018\nRegistrar of Companies mentioned in section 2(1) of the Insolvency, Restructuring and Dissolution Act 2018\n[40/2018]"
+   }
+  },
+  {
+   "id": "SG-H057-A900005",
+   "no": 900005,
+   "noLabel": {
+    "en": "SIXTH SCHEDULE"
+   },
+   "text": {
+    "en": "SIXTH SCHEDULE\nSections 26, 30B, 30C, 30D and 30E\nDisclosure framework\nDefinitions\n1. In this Schedule —\n“advocate and solicitor” and “Singapore law practice” have the meanings given by section 2(1) of the Legal Profession Act 1966;\n“Registrar” and “residential address” have the meanings given by section 30C(4).\n[S 942/2024 wef 09/12/2024]\nLimits to section 30B\n2. Subject to paragraph 3, the Registrar or the Authority must not, under section 30B(1), provide to any person —\n(a)information obtained under section 28(1A) that is not related to the transaction concerned;\n[S 942/2024 wef 09/12/2024]\n(b)information obtained under section 30A; or\n[S 942/2024 wef 09/12/2024]\n(c)a document filed or lodged with the Registrar or the Authority on or after 9 December 2024 that contains any of the following information about an individual:\n(i)the individual’s date of birth;\n(ii)the individual’s email address;\n(iii)the individual’s mobile telephone number.\n[S 942/2024 wef 09/12/2024]\nPermitted disclosure of residential address\n3.—(1) Despite paragraph 2, and as an exception to section 30C(1), the Registrar or the Authority may provide the residential address of any individual —\n(a)to an authorised information service provider under section 30B(1)(a), but the authorised information service provider must not disclose the individual’s residential address in any information service provided by the authorised information service provider;\n[S 942/2024 wef 09/12/2024]\n(b)under section 30B(1)(b); or\n[S 942/2024 wef 09/12/2024]\n(c)to a Singapore law practice under section 30B(1)(c) to assist an advocate and solicitor practising in the Singapore law practice in effecting the service of process on the individual.\n[S 942/2024 wef 09/12/2024]\n(2) Despite paragraph 2, and as an exception to section 30C(1), where the residential address of an individual was filed or lodged with the Registrar or the Authority before 9 December 2024, that residential address may be disclosed under section 30B(1).\n[S 942/2024 wef 09/12/2024]\n(3) To avoid doubt, section 30C(1) does not exclude an individual’s contact address which is the same as his or her residential address from public disclosure.\n[S 942/2024 wef 09/12/2024]\nPermitted disclosure under section 30B(1)(b)\n4. Section 30B(1)(b) applies to assist the following persons to exercise their power or to fulfil their obligations under the following specified Acts —\n(a)in any of the following roles:\n(i)a trustee of a bankrupt’s estate appointed under the Insolvency, Restructuring and Dissolution Act 2018 or the repealed Bankruptcy Act (Cap. 20, 2009 Revised Edition) as in force before 30 July 2020;\n(ii)a liquidator or provisional liquidator appointed under the Insolvency, Restructuring and Dissolution Act 2018, or the Companies Act 1967 as in force before 30 July 2020;\n(iii)a judicial manager or an interim judicial manager appointed under the Insolvency, Restructuring and Dissolution Act 2018, or the Companies Act 1967 as in force before 30 July 2020;\n(iv)a receiver or manager appointed under the Insolvency, Restructuring and Dissolution Act 2018, or the Companies Act 1967 as in force before 30 July 2020; or\n(b)relating to the prevention of money laundering, terrorism financing and the financing of the proliferation of weapons of mass destruction as —\n(i)a financial institution as defined in section 2 of the Financial Services and Markets Act 2022;\n(ii)a moneylender licensed under the Moneylenders Act 2008; or\n(iii)a licensed estate agent as defined in section 3(1) of the Estate Agents Act 2010.\nRequirements in relation to disclosure of residential information\n4A. Where the residential address of an individual is provided to any person for any of the following purposes, the person must ensure that it is only used for that purpose:\n(a)to assist in effecting the service of process on the individual mentioned in paragraph 3(1)(c);\n(b)to assist a person mentioned in paragraph 4 to exercise the person’s power or to fulfil the person’s obligations mentioned in that paragraph.\n[S 942/2024 wef 09/12/2024]\nInterested persons under section 30D\n5. The interested persons mentioned in section 30D(2) and (5) in relation to an individual are the entities in column 2 of the table corresponding to the position held by the individual in column 1:\nColumn 1\nPosition of individual\nColumn 2\nInterested person\n1.A partner or manager of an accounting LLP or a director, chief executive officer or secretary of an accounting corporation\n(a)Every accounting LLP of which the Registrar has been notified under the Accountants Act 2004 that the individual is a partner or manager; and\n(b)Every accounting corporation of which the Registrar has been notified under the Accountants Act 2004 that the individual is a director, chief executive officer or secretary.\n2.An employee of an accounting LLP or accounting corporation who is a public accountant and practising as such in the accounting LLP or accounting corporation\nEvery accounting LLP or accounting corporation in which the Registrar has been notified under the Accountants Act 2004 that the individual is practising as a public accountant.\n3.A director, chief executive officer or secretary of a company\nEvery company of which the Registrar has been notified under the Companies Act 1967 that the individual is a director, chief executive officer or secretary.\n4.A member of a private company\nThe private company.\n5.A director or authorised representative of a foreign company\nEvery foreign company of which the Registrar has been notified under the Companies Act 1967 that the individual is a director or authorised representative.\n6.A partner or manager of a limited liability partnership\nEvery limited liability partnership of which the Registrar has been notified under the Limited Liability Partnerships Act 2005 that the individual is a partner or manager.\n7.A director or secretary of a variable capital company\nEvery variable capital company of which the Registrar has been notified under the Variable Capital Companies Act 2018 that the individual is a director or secretary.\n[Act 21 of 2024 wef 09/12/2024]"
+   }
+  }
+ ]
+}

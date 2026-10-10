@@ -1,0 +1,95 @@
+{
+ "id": "PH-H3492",
+ "title": {
+  "zh": "设立制度",
+  "en": "An Act Providing for the Establishment, Operation, and Maintenance of a School of Fisheries in the Municipality of Tagkawayan, Province of Quezon, and Authorizing the Appropriation of Funds Therefor",
+  "orig": "An Act Providing for the Establishment, Operation, and Maintenance of a School of Fisheries in the Municipality of Tagkawayan, Province of Quezon, and Authorizing the Appropriation of Funds Therefor"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p49",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1965-06-19",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4290",
+ "officialCode": null,
+ "topics": [
+  "environment",
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1299,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1965/ra_4290_1965.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1965/ra_4290_1965.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3492-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There shall be established, under the supervision of the Director of Vocational Education, a school of fisheries in the Municipality of Tagkawayan, Province of Quezon, to be known as Tagkawayan School of Fisheries."
+   }
+  },
+  {
+   "id": "PH-H3492-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The Commissioner of Fisheries shall be the ex-officio dean of Tagkawayan School of Fisheries serving in such capacity without additional compensation. Subject to the approval of the Secretary of Agriculture and Natural Resources, the Commissioner of Fisheries is hereby authorized to detail to said school such officers and employees of the Fisheries Commission as may be needed, and to employ fishing experts for the purpose of giving instruction to the students therein."
+   }
+  },
+  {
+   "id": "PH-H3492-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The Secretary of Education shall promulgate such rules and regulations as may be necessary to carry out the provisions of this Act."
+   }
+  },
+  {
+   "id": "PH-H3492-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "There is hereby authorized to be appropriated the sum of three hundred thousand pesos out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation, and maintenance of the said school during the fiscal year nineteen hundred sixty-five. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act."
+   }
+  },
+  {
+   "id": "PH-H3492-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
+   }
+  }
+ ]
+}

@@ -1,0 +1,145 @@
+{
+ "id": "PH-H9091",
+ "title": {
+  "zh": null,
+  "en": "An Act Mandating the Telecommunications Service Providers to Send Free Mobile Alerts in the Event of Natural and Man-Made Disasters and Calamities",
+  "orig": "An Act Mandating the Telecommunications Service Providers to Send Free Mobile Alerts in the Event of Natural and Man-Made Disasters and Calamities"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p129",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2014-06-20",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 10639",
+ "officialCode": null,
+ "topics": [
+  "data",
+  "defence"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 10,
+ "chars": 5144,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2014/ra_10639_2014.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 10 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2014/ra_10639_2014.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H9091-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Short Title. – This Act shall be known as \"The Free Mobile Disaster Alerts Act\"."
+   }
+  },
+  {
+   "id": "PH-H9091-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Declaration of Policy. – The State shall, at all times, protect its citizenry in the events of natural or man-made disasters and calamities. It shall likewise exhaust all possible means to notify and inform its constituents of the impending disasters to prevent injuries, destruction and loss of lives and property."
+   }
+  },
+  {
+   "id": "PH-H9091-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Definition of Terms. –\n(a) Mobile phone service provider, service provider or telecommunication company refers to any person, firm or partnership or corporation, government or private, granted a legislative franchise by Congress to provide cellular mobile telephone services to the general public, and issued a certificate of public convenience and necessity (CPCN) by the National Telecommunications Commission (NTC);\n(b) Mobile cellular phone, mobile phone or cellphone refers to a mobile telecommunication device that uses a combination of radio transmission and conventional telephone switching to permit telephone communication to and from mobile users within a specified area or cell;\n(c) Basic mobile phone services refer to short messaging service (SMS) or text messaging and voice call services;\n(d) Short messaging service (SMS) refers to a service that allows short, alphanumeric messages to be sent to cellular phone display panels;\n(e) Multimedia messaging service (MMS) refers to standard for telephony messaging systems that allows sending messages, including multimedia objects (images, audio, video, rich text), and not just text messages through the short messaging service (SMS); and\n(f) Auxiliary mobile phone service refers to balance inquiry, customer support, prepaid reloading services and emergency alerts."
+   }
+  },
+  {
+   "id": "PH-H9091-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Mobile Disaster Alerts. – In the event of an impending tropical storm, typhoon, tsunami, or other calamities, mobile phone service providers are mandated to send out alerts at regular intervals as required by the National Disaster Risk Reduction and Management Council (NDRRMC), the Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA), the Philippine Institute of Volcanology and Seismology (PHIVOLCS) and other relevant agencies.\nThe alerts shall consist of up-to-date information from the relevant agencies, and shall be sent directly to the mobile phone subscribers located near and within the affected areas. The alerts shall include contact information of local government units and other agencies required to respond to the situation. The alerts may contain other relevant information such as, but not limited to, evacuation areas, relief sites and pick-up points.\nThe alerts shall be at no cost, whether direct or indirect, to the consumers; and shall be included as part of the service providers auxiliary service. The alerts may be in the form of SMS (text messages), MMS, or email, as needed and appropriate."
+   }
+  },
+  {
+   "id": "PH-H9091-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Report of Violations. – Any natural or juridical person may report before the NTC any violation of this Act."
+   }
+  },
+  {
+   "id": "PH-H9091-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Penalties. – (a) Any person who gives false or misleading data or information or willfully or through gross negligence, conceals or falsifies a material fact, in any investigation, inquiry, study, or other proceeding held pursuant to this Act, shall be punished with imprisonment of not less than two (2) months but not more than six (6) months, and with a fine of not less than One thousand pesos (P1,000.00) but not more than Ten thousand pesos (P10,000.00): Provided, however, That if the false or misleading data or information shall have been under oath, the maximum penalty for giving false testimony or perjury shall be imposed.\n(b) If the offender is a corporation, the penalties may range from the imposition of a fine of not less than One million pesos (P1,000,000.00) but not more than Ten million pesos (P10,000,000.00) and/or a suspension or revocation of its legislative franchise and other permits and licenses by the NTC. The maximum penalties prescribed in paragraph (a) shall also be imposed on the members of its board and/or management, as applicable.\n(c) An alien violating this Act shall, in addition to the penalty herein provided, be deported after service of sentence and shall not be permitted reentry into the Philippines.\n(d) All monetary penalties shall directly accrue to the National Treasury."
+   }
+  },
+  {
+   "id": "PH-H9091-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "Implementing Rules and Regulations. – The Department of Transportation and Communications (DOTC), the NTC, the NDRRMC, the PAGASA and other relevant government agencies shall, within sixty (60) days from the effectivity of this Act, submit the implementing rules and regulations (IRR) governing this Act."
+   }
+  },
+  {
+   "id": "PH-H9091-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "Amendatory and Repealing Clause. – All laws, decrees, orders, rules and regulations, ordinances or any part thereof inconsistent herewith are hereby repealed or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H9091-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "text": {
+    "en": "Separability Clause. – If any provision of this Act is subsequently declared unconstitutional, the remaining provisions hereof shall remain in full force and effect."
+   }
+  },
+  {
+   "id": "PH-H9091-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "text": {
+    "en": "Effectivity Clause. – This Act shall take effect immediately after its complete publication either in the Official Gazette or in a newspaper of general circulation in the Philippines."
+   }
+  }
+ ]
+}

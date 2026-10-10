@@ -1,0 +1,64 @@
+{
+ "id": "PH-H364",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Commonwealth Act Numbered Six Hundred and Forty-Seven Granting Maternity Leave to Women Who are in the Service of the Government or of Any of its Instrumentalities Under Temporary Appointments",
+  "orig": "An Act to Amend Commonwealth Act Numbered Six Hundred and Forty-Seven Granting Maternity Leave to Women Who are in the Service of the Government or of Any of its Instrumentalities Under Temporary Appointments"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p04",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1948-06-15",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 270",
+ "officialCode": null,
+ "topics": [
+  "civil"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 327,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1948/ra_270_1948.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1948/ra_270_1948.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H364-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section one paragraph (a), of Commonwealth Act Numbered Six hundred and forty-seven is hereby amended to read as follows:\n\"(c) Temporary employees who have rendered two or more years of continuous service shall be entitled to maternity leave with half pay.\""
+   }
+  },
+  {
+   "id": "PH-H364-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1948."
+   }
+  }
+ ]
+}

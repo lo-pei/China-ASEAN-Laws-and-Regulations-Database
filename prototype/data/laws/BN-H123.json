@@ -1,0 +1,662 @@
+{
+ "id": "BN-H123",
+ "title": {
+  "zh": null,
+  "en": null,
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p08",
+ "language": "en",
+ "level": null,
+ "category": null,
+ "status": null,
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 62,
+ "chars": 66073,
+ "source": {
+  "name": "文莱 — Limitation Act",
+  "url": "https://www.agc.gov.bn/wp-content/uploads/2026/07/CAP-14-2000-ED-LIMITATION-ACT.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-08",
+ "completenessNote": "全文，共 62 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。（本次由归档原件补录入库）",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-H123-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5. Time limits subject to extension or exclusion."
+   },
+   "text": {
+    "en": "5. Time limits subject to extension or exclusion."
+   }
+  },
+  {
+   "id": "BN-H123-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6. Actions founded on tort."
+   },
+   "text": {
+    "en": "6. Actions founded on tort."
+   }
+  },
+  {
+   "id": "BN-H123-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7. Successive conversions, etc."
+   },
+   "text": {
+    "en": "7. Successive conversions, etc."
+   }
+  },
+  {
+   "id": "BN-H123-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8. Theft."
+   },
+   "text": {
+    "en": "8. Theft.\n\nLimitation2 CAP. 14 2000 Ed."
+   }
+  },
+  {
+   "id": "BN-H123-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9. Actions founded on simple contract."
+   },
+   "text": {
+    "en": "9. Actions founded on simple contract."
+   }
+  },
+  {
+   "id": "BN-H123-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10. Actions on certain loans."
+   },
+   "text": {
+    "en": "10. Actions on certain loans."
+   }
+  },
+  {
+   "id": "BN-H123-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11. Enforcement of certain awards."
+   },
+   "text": {
+    "en": "11. Enforcement of certain awards."
+   }
+  },
+  {
+   "id": "BN-H123-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12. Actions on a specialty."
+   },
+   "text": {
+    "en": "12. Actions on a specialty."
+   }
+  },
+  {
+   "id": "BN-H123-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13. Sums recoverable by statue."
+   },
+   "text": {
+    "en": "13. Sums recoverable by statue."
+   }
+  },
+  {
+   "id": "BN-H123-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14. Claiming contribution."
+   },
+   "text": {
+    "en": "14. Claiming contribution."
+   }
+  },
+  {
+   "id": "BN-H123-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15. Personal injuries."
+   },
+   "text": {
+    "en": "15. Personal injuries."
+   }
+  },
+  {
+   "id": "BN-H123-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16. Fatal Accidents legislation."
+   },
+   "text": {
+    "en": "16. Fatal Accidents legislation."
+   }
+  },
+  {
+   "id": "BN-H123-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17. Operation of section 16."
+   },
+   "text": {
+    "en": "17. Operation of section 16."
+   }
+  },
+  {
+   "id": "BN-H123-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18. Date of knowledge under section 15 and 16."
+   },
+   "text": {
+    "en": "18. Date of knowledge under section 15 and 16."
+   }
+  },
+  {
+   "id": "BN-H123-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19. Special time limit for negligence."
+   },
+   "text": {
+    "en": "19. Special time limit for negligence."
+   }
+  },
+  {
+   "id": "BN-H123-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20. Overriding time limit for negligence."
+   },
+   "text": {
+    "en": "20. Overriding time limit for negligence."
+   }
+  },
+  {
+   "id": "BN-H123-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21. Recovery of land."
+   },
+   "text": {
+    "en": "21. Recovery of land."
+   }
+  },
+  {
+   "id": "BN-H123-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22. Redemption actions."
+   },
+   "text": {
+    "en": "22. Redemption actions."
+   }
+  },
+  {
+   "id": "BN-H123-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23. Extinction of title of land."
+   },
+   "text": {
+    "en": "23. Extinction of title of land."
+   }
+  },
+  {
+   "id": "BN-H123-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24. Land held on trust."
+   },
+   "text": {
+    "en": "24. Land held on trust."
+   }
+  },
+  {
+   "id": "BN-H123-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25. Recovery of rent."
+   },
+   "text": {
+    "en": "25. Recovery of rent."
+   }
+  },
+  {
+   "id": "BN-H123-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26. Recovery of money secured or of proceeds of the sale of land."
+   },
+   "text": {
+    "en": "26. Recovery of money secured or of proceeds of the sale of land."
+   }
+  },
+  {
+   "id": "BN-H123-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27. Trust property."
+   },
+   "text": {
+    "en": "27. Trust property."
+   }
+  },
+  {
+   "id": "BN-H123-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28. Personal estate of a deceased person."
+   },
+   "text": {
+    "en": "28. Personal estate of a deceased person."
+   }
+  },
+  {
+   "id": "BN-H123-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29. Actions for an account."
+   },
+   "text": {
+    "en": "29. Actions for an account."
+   }
+  },
+  {
+   "id": "BN-H123-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30. Enforcement of judgments."
+   },
+   "text": {
+    "en": "30. Enforcement of judgments."
+   }
+  },
+  {
+   "id": "BN-H123-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31. Administration to date back to death."
+   },
+   "text": {
+    "en": "31. Administration to date back to death.\nPART I\n\nLimitation\nB.L.R.O. 1/2000\n3 CAP. 142000 Ed.\nPART III\nEXTENSION OR EXCLUSION OF ORDINARY\nTIME LIMITS"
+   }
+  },
+  {
+   "id": "BN-H123-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32. Disability."
+   },
+   "text": {
+    "en": "32. Disability."
+   }
+  },
+  {
+   "id": "BN-H123-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33. Extension for cases where section 19(4)(b) applies."
+   },
+   "text": {
+    "en": "33. Extension for cases where section 19(4)(b) applies."
+   }
+  },
+  {
+   "id": "BN-H123-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34. Accrual to successive owners in case of latent damage."
+   },
+   "text": {
+    "en": "34. Accrual to successive owners in case of latent damage."
+   }
+  },
+  {
+   "id": "BN-H123-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35. Acknowledgment or part payment."
+   },
+   "text": {
+    "en": "35. Acknowledgment or part payment."
+   }
+  },
+  {
+   "id": "BN-H123-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36. Formal provisions as to acknowledgments and part payment."
+   },
+   "text": {
+    "en": "36. Formal provisions as to acknowledgments and part payment."
+   }
+  },
+  {
+   "id": "BN-H123-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37. Effect of acknowledgment or part payment."
+   },
+   "text": {
+    "en": "37. Effect of acknowledgment or part payment."
+   }
+  },
+  {
+   "id": "BN-H123-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "38. Postponement of limitation period."
+   },
+   "text": {
+    "en": "38. Postponement of limitation period."
+   }
+  },
+  {
+   "id": "BN-H123-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "39. Discretionary extension of time limit for actions for libel or slander."
+   },
+   "text": {
+    "en": "39. Discretionary extension of time limit for actions for libel or slander."
+   }
+  },
+  {
+   "id": "BN-H123-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "40. Discretionary exclusion of time limit for actions in respect of personal"
+   },
+   "text": {
+    "en": "40. Discretionary exclusion of time limit for actions in respect of personal\ninjuries or death.\nPART IV\nFOREIGN LIMITATION PERIODS"
+   }
+  },
+  {
+   "id": "BN-H123-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "41. Application of foreign limitation law."
+   },
+   "text": {
+    "en": "41. Application of foreign limitation law."
+   }
+  },
+  {
+   "id": "BN-H123-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "42. Exceptions to section 41."
+   },
+   "text": {
+    "en": "42. Exceptions to section 41."
+   }
+  },
+  {
+   "id": "BN-H123-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "43. Foreign judgments on limitation points."
+   },
+   "text": {
+    "en": "43. Foreign judgments on limitation points."
+   }
+  },
+  {
+   "id": "BN-H123-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "44. Law relating to limitation."
+   },
+   "text": {
+    "en": "44. Law relating to limitation."
+   }
+  },
+  {
+   "id": "BN-H123-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "45. Application of Part to arbitrations."
+   },
+   "text": {
+    "en": "45. Application of Part to arbitrations.\nPART V\nMISCELLANEOUS AND GENERAL"
+   }
+  },
+  {
+   "id": "BN-H123-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "46. Application of Act to arbitrations."
+   },
+   "text": {
+    "en": "46. Application of Act to arbitrations.\n\nLimitation4 CAP. 14 2000 Ed."
+   }
+  },
+  {
+   "id": "BN-H123-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "47. New claims in pending actions : rules of court."
+   },
+   "text": {
+    "en": "47. New claims in pending actions : rules of court."
+   }
+  },
+  {
+   "id": "BN-H123-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "48. Equitable jurisdiction and remedies."
+   },
+   "text": {
+    "en": "48. Equitable jurisdiction and remedies."
+   }
+  },
+  {
+   "id": "BN-H123-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "49. Saving for other limitation enactments."
+   },
+   "text": {
+    "en": "49. Saving for other limitation enactments."
+   }
+  },
+  {
+   "id": "BN-H123-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "50. Limitation to be pleaded."
+   },
+   "text": {
+    "en": "50. Limitation to be pleaded."
+   }
+  },
+  {
+   "id": "BN-H123-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "51. Set-off and counterclaim."
+   },
+   "text": {
+    "en": "51. Set-off and counterclaim.\n\nLimitation\nB.L.R.O. 1/2000\n5 CAP. 142000 Ed.\nLIMITATION ACT\nAn Act to amend and consolidate the Law relating to the limitation of\nactions and for purposes connected therewith\nCommencement : 1st September, 1991\n[S 26/91]\nPART I\nPRELIMINARY\nCitation."
+   }
+  },
+  {
+   "id": "BN-H123-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1. This Act may be cited as the Limitation Act"
+   },
+   "text": {
+    "en": "1. This Act may be cited as the Limitation Act\nApplication.\n2. (1) This Act shall apply to any action commenced after the date of\ncoming into force of this Act, whether the cause of action accrued before or\nafter that date.\n(2) Any action commenced before the date of coming into force of\nthis Act, shall continue in accordance with, and be bound by, the provisions\nof Limitation Act (repealed by this Act).\nApplication to the Government.\n3. (1) Except as otherwise expressly provided in this Act, and without\nprejudice to section 49 of this Act, this Act shall not apply to proceedings by\nor against the Government.\n(2) For the removal of doubt, it is declared that this Act shall not\napply to —\n(a) any proceedings by the Government for the recovery of any\ntax or duty or interest on any tax or duty;\n(b) any forfeiture proceedings under any written law relating to\ncustoms or excise; or\n(c) any proceedings in respect of the forfeiture of a ship.\n\nLimitation6 CAP. 14 2000 Ed.\nInterpretation.\n4. (1) In this Act, unless the context otherwise requires —\n“action” includes any proceeding in a court of law;\n“land” includes corporeal hereditaments and rent charges and\nany legal or equitable estate or interest therein, including an\ninterest in the proceeds of the sale of land held upon trust for\nsale, but except as provided above in this definition does not\ninclude any incorporeal hereditament;\n“personal estate” and “personal property” do not include chattels\nreal;\n“personal injuries” includes any disease and any impairment of a\nperson’s physical or mental condition, and “injury” and cognate\nexpressions shall be construed accordingly;\n“rent” includes a rentcharge and a rent service;\n“rentcharge” means any annuity or periodical sum of money\ncharged upon or payable out of land, except a rent service or\ninterest on a mortgage on land;\n“trust” and “trustee” have the same meanings respectively as in\nthe Trustee Act, 1925 of the United Kingdom;\n“trust for sale” has the same meaning as in the Law of Property\nAct, 1925 of the United Kingdom.\n(2) For the purposes of this Act a person shall be treated as under a\ndisability while he is an infant, or of unsound mind.\n(3) For the purposes of subsection (2), a person is of unsound mind\nif he is a person who, by reason of mental disorder, is incapable of managing\nand administering his property and affairs.\n(4) Without prejudice to the generality or subsection (3), a person\nshall be conclusively presumed for the purposes of subsection (2) to be of\nunsound mind while he is liable to be detained or subject to guardianship\nunder any law in force relating to mental health.\n\nLimitation\nB.L.R.O. 1/2000\n7 CAP. 142000 Ed.\n(5) Subject to subsection (6), a person shall be treated as claiming\nthrough another person if he became entitled by, through, under, or by the act\nof that other person to the right claimed.\n(6) A person becoming entitled to any estate or interest by virtue of a\nspecial power of appointment shall not be treated as claiming through the\nappointor.\n(7) References in this Act to a right action to recover land shall\ninclude references to a right to enter into possession of the land or, in the\ncase of rentcharges, to distrain for arrears of rent, and references to the\nbringing of such an action shall include references to the making of such an\nentry or distress.\n(8) References in this Act to the possession of land shall, in the case\nof rentcharges, be construed as references to the receipt of the rent, and\nreferences to the date of dispossession or discontinuance of possession of\nland shall, in the case of rentcharges, be construed as references to the date of\nthe last receipt of rent.\n(9) References in Part III to a right of action shall include references\nto —\n(a) a cause of action;\n(b) a right to receive money secured by a mortgage or charge on\nany property;\n(c) a right to recover proceeds of the sale of land; and\n(d) a right to receive a share or interest in the personal estate of\na deceased person.\n(10) References in Part III to the date of the accrual of a right of\naction shall be construed —\n(a) in the case of an action upon a judgment, as references to the\ndate on which the judgment became enforceable; and\n(b) in the case of an action to recover arrears of rent or interest,\nor damages in respect of arrears of rent or interest, as references to the\ndate on which the rent or interest became due.\n\nLimitation8 CAP. 14 2000 Ed.\nPART II\nORDINARY TIME LIMITS\nTime limits subject to extension or exclusion.\n5. (1) This Part gives the ordinary time limits for bringing actions of\nthe various classes mentioned in the following provisions of this Part.\n(2) The ordinary time limits given in this Part are subject to\nextension or exclusion in accordance with the provisions of Part III.\nActions founded on tort.\n6. (1) An action founded on tort shall not be brought after the\nexpiration of 6 years from the date on which the cause of action accrued.\n(2) The time limit under subsection (1) shall not apply to an action\nfor libel or slander, but no such action shall be brought after the expiration of\n3 years from the date on which the cause of action accrued.\nSuccessive conversions, etc.\n7. (1) Where any cause of action in respect of the conversion of a\nchattel has accrued to any person and, before he recovers possession of the\nchattel, a further conversion takes place, no action shall be brought in respect\nof the further conversion after the expiration of 6 years from the accrual of\nthe cause of action in respect of the original conversion.\n(2) Where any such cause of action has accrued to any person and\nthe period prescribed for bringing that action has expired and he has not\nduring that period recovered possession of the chattel, the title of that person\nto the chattel shall be extinguished.\nTheft.\n8. (1) The right of any person from whom a chattel is stolen to bring an\naction in respect of the theft shall not be subject to the time limits under\nsections 6(1) and 7(1), but if his title to the chattel is extinguished under\nsection 7(2) he may not bring an action in respect of a theft preceding the\nloss of his title, unless the theft in question preceded the conversion from\nwhich time began to run for the purposes of section 7(2).\n\nLimitation\nB.L.R.O. 1/2000\n9 CAP. 142000 Ed.\n(2) Subsection (1) shall apply to any conversion related to the theft\nof a chattel as it applies to the theft of a chattel; and except as provided\nbelow, every conversion following the theft of a chattel before the person\nfrom whom it is stolen recovers possession of it shall be regarded for the\npurposes of this section as related to the theft.\nIf anyone purchases the stolen chattel in good faith neither the\npurchase nor any conversion following it shall be regarded as related to the\ntheft.\n(3) Any cause of action accruing in respect of the theft or any\nconversion related to the theft of a chattel to any person from whom the\nchattel is stolen shall be disregarded for the purpose of applying sections 7(1)\nor (2) to his case.\n(4) Where in any action brought in respect of the conversion of a\nchattel it is proved that the chattel was stolen from the plaintiff or anyone\nthrough whom he claims it shall be presumed that any conversion following\nthe theft is related to the theft unless the contrary is shown.\n(5) In this section “theft” includes —\n(a) any conduct outside Brunei Darussalam which would be\ntheft if committed in Brunei Darussalam; and\n(b) obtaining any property (in Brunei Darussalam or elsewhere)\nin the circumstances described in section 415 of the Penal Code\n(Chapter 22) or by extortion within the meaning of section 383 of that\nCode;\nand references in this section to a chattel being “stolen” shall be construed\naccordingly.\nActions founded on simple contract."
+   }
+  },
+  {
+   "id": "BN-H123-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "9. An action founded on simple contract shall not be brought after the"
+   },
+   "text": {
+    "en": "9. An action founded on simple contract shall not be brought after the\nexpiration of 6 years from the date on which the cause of action accrued.\nActions on certain loans.\n10. (1) Subject to subsection (3), section 9 shall not bar the right of\naction on a contract of loan to which this section applies.\n\nLimitation10 CAP. 14 2000 Ed.\n(2) This section applies to any contract of loan which —\n(a) does not provide for repayment of the debt on or before a\nfixed or determinable date; and\n(b) does not effectively (whether or not it purports to do so)\nmake the obligation to repay the debt conditional on a demand for\nrepayment made by or on behalf of the creditor or on any other\nmatter;\nexcept where in connection with taking the loan the debtor enters into any\ncollateral obligation to pay the amount of the debt or any part of it (as, for\nexample, by delivering a promissory note as security for the debt) on terms\nwhich would exclude the application of this section to the contract of loan if\nthey applied directly to repayment of the debt.\n(3) Where a demand in writing for repayment of the debt under a\ncontract of loan to which this section applies is made by or on behalf of the\ncreditor (or, where there are joint creditors, by or on behalf of any one of\nthem) section 9 shall thereupon apply as if the cause of action to recover the\ndebt had accrued on the date on which the demand was made.\n(4) In this section, “promissory note” has the same meaning as in\nsubsection (1) of section 88 the Bills of Exchange Act (Chapter 172).\nEnforcement of certain awards."
+   }
+  },
+  {
+   "id": "BN-H123-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "11. An action to enforce an award, where the submission is not by an"
+   },
+   "text": {
+    "en": "11. An action to enforce an award, where the submission is not by an\ninstrument under seal, shall not be brought after the expiration of 6 years\nfrom the date on which the cause of action accrued.\nActions on a specialty.\n12. (1) An action upon a specialty shall not be brought after the\nexpiration of 12 years from the date on which the cause of action accrued.\n(2) Subsection (1) shall not effect any action for which a shorter\nperiod of limitation is prescribed by any other provision of this Act.\n\nLimitation\nB.L.R.O. 1/2000\n11 CAP. 142000 Ed.\nSums recoverable by statute.\n13. (1) An action to recover any sum recoverable by virtue of any\nwritten law shall not be brought after the expiration of 6 years from the date\non which the cause of action accrued.\n(2) Subsection (1) shall not affect any action to which section 14 of\nthis Act applies.\nClaiming contribution.\n14. (1) Where under section 14 of the Fatal Accidents and Personal\nInjuries Act (Chapter 160), any person becomes entitled to a right to recover\ncontribution in respect of any damage from any other person, no action to\nrecover contribution by virtue of that right shall be brought after the\nexpiration of two years from the date on which that right accrued.\n(2) For the purposes of this section the date on which a right to\nrecover contribution in respect of any damage accrues to any person\n(referred to below in this section as “the relevant date”) shall be ascertained\nas provided in subsections (3) and (4).\n(3) If the person in question is held liable in respect of that\ndamage —\n(a) by a judgment given in any civil proceedings; or\n(b) by an award made on any arbitration;\nthe relevant date shall be the date on which the judgment is given, or the date\nof the award (as the case may be).\nFor the purposes of this subsection no account shall be taken of any\njudgment or award given or made on appeal in so far as it varies the amount\nof damages awarded against the person in question.\n(4) If, in any case not within subsection (3), the person in question\nmakes or agrees to make any payment to one or more persons in\ncompensation for that damage (whether he admits any liability in respect of\nthe damage or not), the relevant date shall be the earliest date on which the\namount to be paid by him is agreed between him (or his representative) and\nthe person (or each of the persons, as the case may be) to whom the payment\nis to be made.\n\nLimitation12 CAP. 14 2000 Ed.\n(5) An action to recover contribution shall be one to which sections\n32, 38 and 47 apply, but otherwise Parts III and V (except section 46) shall\nnot apply for the purposes of this section.\nPersonal injuries.\n15. (1) This section applies to any action for damages for negligence,\nnuisance or breach of duty (whether the duty exists by virtue of a contract or\nof provision made by or under a written law or independently of any contract\nor any such provision) where the damages claimed by the plaintiff for the\nnegligence, nuisance or breach of duty consist of or include damages in\nrespect of personal injuries to the plaintiff or any other person.\n(2) None of the time limits given in the preceding provisions of this\nAct shall apply to an action to which this section applies.\n(3) An action to which this section applies shall not be brought after\nthe expiration of the period applicable in accordance with subsections (4) or\n(5).\n(4) Except where subsection (5) applies, the period applicable is 3\nyears from —\n(a) the date on which the cause of action accrued; or\n(b) the date of knowledge (if later) of the person injured.\n(5) If the person injured dies before the expiration of the period\nmentioned in subsection (4), the period applicable as respects the cause of\naction surviving for the benefit of his estate by virtue of section 11 of the\nFatal Accidents and Personal Injuries Act (Chapter 160) shall be 3 years\nfrom —\n(a) the date of death; or\n(b) the date of the personal representative’s knowledge,\nwhichever is the later.\n(6) For the purposes of this section “personal representative”\nincludes any person who is or has been a personal representative of the\ndeceased, including an executor who has not proved the will (whether or not\nhe has renounced probate); and regard shall be had to any knowledge\nacquired by any such person while a personal representative or previously.\n\nLimitation\nB.L.R.O. 1/2000\n13 CAP. 142000 Ed.\n(7) If there is more than one personal representative, and their dates\nof knowledge are different, subsection 5 (b) shall be read as referring to the\nearliest of those dates.\nFatal Accidents legislation.\n16. (1) An action under Part II of the Fatal Accidents and Personal\nInjuries Act (Chapter 160), shall not be brought if the death occurred when\nthe person injured could no longer maintain an action and recover damages\nin respect of the injury (whether because of a time limit in this Act or in any\nother written law, or for any other reason).\nWhere any such action by the injured person would have been barred\nby the time limit in section 15, no account shall be taken of the possibility of\nthat time limit being overridden under section 40.\n(2) None of this time limits given in the preceding provisions of this\nAct shall apply to an action under Part II of the Fatal Accidents and Personal\nInjuries Act (Chapter 160), but no such action shall be brought after the\nexpiration of 3 years from —\n(a) the date of death; or\n(b) the date of knowledge of the person for whose benefit the\naction is brought;\nwhichever is the later.\n(3) An action under Part II of the Fatal Accidents and Personal\nInjuries Act (Chapter 160) shall be one to which sections 32, 40 and 47 of\nthis Act apply, and the application to any such action of the time limit under\nsubsection (2) shall be subject to section 49; but otherwise Parts III and IV of\nthis Act shall not apply to any such action.\nOperation of section 16.\n17. (1) Where there is more than one person for whose benefit an action\nunder Part II of the Fatal Accidents and Personal Injuries Act (Chapter 160)\nis brought, section 1 6(2)(b) of this Act shall be applied separately to each of\nthem.\n(2) Subject to subsection (3), if by virtue of subsection (1) the action\nwould be outside the time limit given by section 16(2) as regards one or\n\nLimitation14 CAP. 14 2000 Ed.\nmore, but not all, of the persons for whose benefit it is brought, the court\nshall direct that any person as regards, whom the action would be outside\nthat limit shall be excluded from those for whom the action is brought.\n(3) The court shall not give such a direction if it is shown that if the\naction were brought exclusively for the benefit of the person in question it\nwould not be defeated by a defence of limitation (whether in consequence of\nsection 32 or an agreement between the parties not to raise the defence, or\notherwise).\nDate of knowledge under sections 15 and 16.\n18. (1) In sections 15 and 16 references to a person’s date of knowledge\nare references to the date on which he first had knowledge of the following\nfacts —\n(a) that the injury in question was significant; and\n(b) that the injury, was attributable in whole or in part to the act\nor omission which is alleged to constitute negligence, nuisance or\nbreach of duty; and\n(c) the identity of the defendant; and\n(d) if it is alleged that the act or omission was that of a person\nother than the defendant, the identity of that person and the additional\nfacts supporting the bringing of an action against the defendant;\nand knowledge that any acts or omissions did or did not, as a matter of law,\ninvolve negligence, nuisance or breach of duty is irrelevant.\n(2) For the purposes of this section an injury is significant if the\nperson whose date of knowledge is in question would reasonably have\nconsidered it sufficiently serious to justify his instituting proceedings for\ndamages against a defendant who did not dispute liability and was able to\nsatisfy a judgment.\n(3) For the purposes of this section a person’s knowledge includes\nknowledge which he might reasonably have been expected to acquire —\n(a) from facts observable or ascertainable by him; or\n(b) from facts ascertainable by him with the help of medical or\nother appropriate expert advice which it is reasonable for him to seek,\n\nLimitation\nB.L.R.O. 1/2000\n15 CAP. 142000 Ed.\nbut a person shall not be fixed under this subsection with knowledge of a fact\nascertainable only with the help of expert advice so long as he has taken all\nreasonable steps to obtain (and, where appropriate, to act on) that advice.\nSpecial time limit for negligence.\n19. (1) This section applies to any action for damages for negligence,\nother than one to which section 15 applies, where the starting date for\nreckoning the period of limitation under subsection (4)(b) falls after the date\non which the cause of action accrued.\n(2) Section 6(1) shall not apply to an action to which this section\napplies.\n(3) An action to which this section applies shall not be brought after\nthe expiration of the period applicable in accordance with subsection (4).\n(4) That period is either —\n(a) 6 years from the date on which the cause of action accrued;\nor\n(b) 3 years from the starting date as defined by subsection (5), if\nthat period expires later than the period mentioned in paragraph (a).\n(5) For the purposes of this section, the starting date for reckoning\nthe period of limitation under subsection (4) (b) is the earliest date on which\nthe plaintiff or any person in whom the cause of action was vested before\nhim first had both the knowledge required for bringing an action for damages\nin respect of the relevant damage and a right to bring such an action.\n(6) In subsection (5) “the knowledge required for bringing an action\nfor damages in respect of the relevant damage” means knowledge both —\n(a) of the material facts about the damage in respect of which\ndamages are claimed; and\n(b) of the other facts relevant to the current action mentioned in\nsubsection (8).\n(7) For the purposes of subsection (6)(a), the material facts about the\ndamage are such facts about the damage as would lead a reasonable person\nwho had suffered such damage to consider it sufficiently serious to justify his\n\nLimitation16 CAP. 14 2000 Ed.\ninstituting proceedings for damages against a defendant who did not dispute\nliability and was able to satisfy a judgment.\n(8) The other facts referred to in subsection (6)(b) are —\n(a) that the damage was attributable in whole or in part to that\nact or omission which is alleged to constitute negligence; and\n(b) the identity of the defendant; and\n(c) if it is alleged that the act or omission was that of a person\nother than the defendant, the identity of that person and the additional\nfacts supporting the bringing of an action against the defendant.\n(9) Knowledge that any acts or omissions did or did not, as a matter\nof law, involve negligence is irrelevant for the purpose of subsection (5).\n(10) For the purposes of this section a person’s knowledge includes\nknowledge which he might reasonably have been expected to acquire —\n(a) from facts observable or ascertainable by him; or\n(b) from facts ascertainable by him with the help of appropriate\nexpert advice which it is reasonable for him to seek;\nbut a person shall not be taken by virtue of this subsection to have knowledge\nof a fact ascertainable only with the help of expert advice so long as he has\ntaken all reasonable steps to obtain (and, where appropriate, to act on) that\nadvice.\nOverriding time limit for negligence.\n20. (1) An action for damages for negligence, other than one to which\nsection 15 applies, shall not be brought after the expiration of 15 years from\nthe date (or, if more than one, from the last of the dates) on which there\noccurred any act or omission —\n(a) which is alleged to constitute negligence; and\n(b) to which the damage in respect of which damages are\nclaimed is alleged to be attributable (in whole or in part).\n(2) This section bars the right of action in a case to which subsection\n(1) applies notwithstanding that —\n\nLimitation\nB.L.R.O. 1/2000\n17 CAP. 142000 Ed.\n(a) the cause of action has not yet accrued; or\n(b) where section 19 applies to the action, the date which is for\nthe purposes of that section the starting date for reckoning the period\nmentioned in subsection (4)(b) of that section has not yet occurred;\nbefore the end of the period of limitation prescribed by this section.\nRecovery of land.\n21. (1) No action shall be brought by any person to recover any land\nafter the expiration of 12 years from the date on which the right of action\naccrued to him or, if it first accrued to some person through whom he claims,\nto that person.\n(2) Subject to the following provisions of this section, where —\n(a) the estate or interest claimed was an estate or interest in\nreversion or remainder or any other future estate or interest and the\nright of action to recover the land accrued on the date on which the\nestate or interest fell into possession by the determination of the\npreceding estate or interest; and\n(b) the person entitled to the preceding estate or interest (not\nbeing a term of years absolute) was not in possession of the land on\nthat date;\nno action shall be brought by the person entitled to the succeeding estate or\ninterest after the expiration of 12 years from the date on which the right of\naction accrued to the person entitled to the preceding estate or interest or 6\nyears from the date on which the right of action accrued to the person entitled\nto the succeeding estate or interest, whichever period last expires.\n(3) No person shall bring an action to recover any estate or interest\nin land under an assurance taking effect after the right of action to recover\nthe land had accrued to the person by whom the assurance was made or some\nperson through whom he claimed or some person entitled to a preceding\nestate or interest, unless the action is brought within the period during which\nthe person by whom the assurance was made could have brought such an\naction.\n(4) Where any person is entitled to any estate or interest in land in\npossession and, while so entitled, is also entitled to any future estate or\n\nLimitation18 CAP. 14 2000 Ed.\ninterest in that land, and his right to recover the estate or interest in\npossession is barred under this Act, no action shall be brought by that person,\nor by any person claiming through him, in respect of the future estate or\ninterest, unless in the meantime possession of the land has been recovered by\na person entitled to an intermediate estate or interest.\nRedemption actions."
+   }
+  },
+  {
+   "id": "BN-H123-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "22. When a mortgagee of land has been in possession of any of the"
+   },
+   "text": {
+    "en": "22. When a mortgagee of land has been in possession of any of the\nmortgaged land for a period of 12 years, no action to redeem the land of\nwhich the mortgagee has been so in possession shall be brought after the end\nof that period by the mortgagor or any person claiming through him.\nExtinction of title of land."
+   }
+  },
+  {
+   "id": "BN-H123-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "23. Subject to section 22 of this Act, at the expiration of the period"
+   },
+   "text": {
+    "en": "23. Subject to section 22 of this Act, at the expiration of the period\nprescribed by this Act for any person to bring an action to recover land\n(including a redemption action) the title of that person to the land shall be\nextinguished.\nLand held on trust.\n24. (1) Subject to sections 27(1) and (2), the provisions of this Act shall\napply to equitable interests in land, including interests in the proceeds of the\nsale of land held upon trust for sale, as they apply to legal estates.\nAccordingly a right of action to recover the land shall, for the\npurposes of this Act but not otherwise, be treated as accruing to a person\nentitled in possession to such an equitable interest in the like manner and\ncircumstances, and on the same date, as it would accrue if his interest were a\nlegal estate in the land.\n(2) Where any land is held upon trust (including a trust for sale) and\nthe period prescribed by this Act has expired for the bringing of an action to\nrecover the land by the trustees, the estate of the trustees shall not be\nextinguished if and so long as the right of action to recover the land of any\nperson entitled to a beneficial interest in the land or in the proceeds of sale\neither has not accrued or has not been barred by this Act; but if and when\nevery such right of action has been so barred the estate of the trustees shall be\nextinguished.\n\nLimitation\nB.L.R.O. 1/2000\n19 CAP. 142000 Ed.\n(3) Where any land is held upon trust (including a trust for sale) an\naction to recover the land may be brought by the trustees on behalf of any\nperson entitled to a beneficial interest in possession in the land or in the\nproceeds of sale whose right of action has not been barred by this Act,\nnotwithstanding that the right of action of the trustees would apart from this\nprovisions have been barred by this Act.\nRecovery of rent."
+   }
+  },
+  {
+   "id": "BN-H123-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "25. No action shall be brought, or distress made, to recover arrears of"
+   },
+   "text": {
+    "en": "25. No action shall be brought, or distress made, to recover arrears of\nrent, or damages in respect of arrears of rent, after the expiration of 6 years\nfrom the date on which the arrears became due.\nRecovery of money secured or of proceeds of the sale of land.\n26. (1) No action shall be brought to recover —\n(a) any principal sum of money secured by a mortgage or other\ncharge on property (whether real or personal); or\n(b) proceeds of the sale of land;\nafter the expiration of 12 years from the date on which the right to receive the\nmoney accrued.\n(2) No foreclosure action in respect of mortgaged personal property\nshall be brought after the expiration of 12 years from the date on which the\nright to foreclose accrued.\nBut if the mortgagee was in possession of the mortgaged property\nafter that date, the right to foreclose on the property which was in his\npossession shall not be treated as having accrued for the purposes of this\nsubsection until the date on which his possession discontinued.\n(3) The right to receive any principal sum of money secured by a\nmortgage or other charge and the right to foreclose on the property subject to\nthe mortgage or charge shall not be treated as accruing so long as that\nproperty comprises any future interest or any life insurance policy which has\nnot matured or been determined.\n(4) Nothing in this section shall apply to a foreclosure action in\nrespect of mortgaged land, but the provisions of this Act relating to actions to\nrecover land shall apply to such an action.\n\nLimitation20 CAP. 14 2000 Ed.\n(5) Subject to subsections (6) and (7), no action to recover arrears of\ninterest payable in respect of any sum of money secured by a mortgage or\nother charge or payable in respect of proceeds of the sale of land, or to\nrecover damages in respect of such arrears shall be brought after the\nexpiration of 6 years from the date on which the interest became due.\n(6) Where —\n(a) a prior mortgagee or other incumbrancer has been in\npossession of the property charged; and\n(b) an action is brought within one year of the discontinuance of\nthat possession by the subsequent incumbrancer,\nthe subsequent incumbrancer may recover by that action all the arrears of\ninterest which fell due during the period of possession by the prior\nincumbrancer or damages in respect of those arrears, notwithstanding that\nthe period exceeded 6 years.\n(7) Where —\n(a) the property subject to the mortgage or charge comprises\nany future interest or life insurance policy; and\n(b) it is a term of the mortgage or charge that arrears of interest\nshall be treated as part of the principal sum of money secured by the\nmortgage or charge,\ninterest shall not be treated as becoming due before the right to recover the\nprincipal sum of money has accrued or is treated as having accrued.\nTrust property.\n27. (1) No period of limitation prescribed by this Act shall apply to an\naction by a beneficiary under a trust, being an action —\n(a) in respect of any fraud or fraudulent breach of trust to which\nthe trustee was a party or privy; or\n(b) to recover from the trustee trust property or the proceeds of\ntrust property in the possession of the trustee, or previously received\nby the trustee and converted to his use.\n\nLimitation\nB.L.R.O. 1/2000\n21 CAP. 142000 Ed.\n(2) Where a trustee who is also a beneficiary under the trust receives\nor retains trust property or its proceeds as his share on a distribution of trust\nproperty under the trust, his liability in any action brought by virtue of\nsubsection (1)(b) to recover that property or its proceeds after the expiration\nof the period of limitation prescribed by this Act for bringing an action to\nrecover trust property shall be limited to the excess over his proper share.\nThis subsection only applies if the trustee acted honestly and\nreasonably in making the distribution.\n(3) Subject to the preceding provisions of this section, an action by a\nbeneficiary to recover trust property or in respect of any breach of trust, not\nbeing an action for which a period of limitation is prescribed by any other\nprovision of this Act, shall not be brought after the expiration of 6 years from\nthe date on which the right of action accrued.\nFor the purposes of this subsection, the right of action shall not be\ntreated as having accrued to any beneficiary entitled to a future interest in the\ntrust property until the interest fell into possession.\n(4) No beneficiary as against whom there would be a good defence\nunder this Act shall derive any greater or other benefit from a judgment or\norder obtained by any other beneficiary that he could have obtained if he had\nbrought the action and this Act had been pleaded in defence.\nPersonal estate of a deceased person."
+   }
+  },
+  {
+   "id": "BN-H123-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "28. Subject to sections 27(1) and (2) —"
+   },
+   "text": {
+    "en": "28. Subject to sections 27(1) and (2) —\n(a) no action in respect of any claim to the personal estate of a\ndeceased person or to any share or interest in any such estate (whether\nunder a will or on intestacy shall be brought after the expiration of 12\nyears from the date on which the right to receive the share or interest\naccrued; and\n(b) no action to recover arrears of interest in respect of any\nlegacy, or damages in respect of such arrears, shall be brought after\nthe expiration of 6 years from the date on which the interest became\ndue.\n\nLimitation22 CAP. 14 2000 Ed.\nActions for an account."
+   }
+  },
+  {
+   "id": "BN-H123-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "29. An action for an account shall not be brought after the expiration of"
+   },
+   "text": {
+    "en": "29. An action for an account shall not be brought after the expiration of\nany time limit under this Act which is applicable to the claim which is the\nbasis of the duty to account.\nEnforcement of judgments.\n30. (1) An action shall not be brought upon any judgment after the\nexpiration of 6 years from the date on which the judgment became\nenforceable.\n(2) No arrears of interest in respect of any judgment debt shall be\nrecovered after the expiration of 6 years from the date on which the interest\nbecame due.\nAdministration to date back to death."
+   }
+  },
+  {
+   "id": "BN-H123-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "31. For the purposes of the provisions of this Act relating to actions for"
+   },
+   "text": {
+    "en": "31. For the purposes of the provisions of this Act relating to actions for\nthe recovery of land an administrator of the estate of a deceased person shall\nbe treated as claiming as if there had been no interval of time between the\ndeath of the deceased person and the grant of the letters of administration.\nPART III\nEXTENSION OR EXCLUSION OF ORDINARY\nTIME LIMITS\nDisability.\n32. (1) Subject to the following provisions of this section, if on the date\nwhen any right of action accrued for which a period of limitation is\nprescribed by this Act, the person to whom it accrued was under a disability,\nthe action may be brought at any time before the expiration of 6 years from\nthe date when he ceased to be under a disability or died (whichever first\noccurred) notwithstanding that the period of limitation has expired.\n(2) This section shall not affect any case where the right of action\nfirst accrued to some person (not under a disability) through whom the\nperson under a disability claims.\n\nLimitation\nB.L.R.O. 1/2000\n23 CAP. 142000 Ed.\n(3) When a right of action which has accrued to a person under a\ndisability accrues, on the death of that person while still under a disability, to\nanother person under a disability, no further extension of time shall be\nallowed by reason of the disability of the second person.\n(4) No action to recover land or money charged on land shall be\nbrought by virtue of this section by any person after the expiration of 30\nyears from the date on which the right of action accrued to that person or\nsome person through whom he claims.\n(5) If the action is one to which section 6(2) applies, subsection (1)\nshall have effect as if for the words from “at any time” to “occurred” there\nwere substituted the word “by him at any time before the expiration of 3\nyears from the date when he ceased to be under a disability”.\n(6) If the action is one to which section 14 applies, subsection (1)\nshall have affect as if for the words “6 years” there were substituted the\nwords “2 years”.\n(7) If the action is one to which sections 15 or 16(2) apply,\nsubsection (1) shall have effect as if for the words “6 years’ there were\nsubstituted the words “3 years”.\nExtension for cases where section 19(4)(b) applies.\n33. (1) Subject to subsection (2), if in the case of any action for which a\nperiod of limitation is prescribed by section 19 —\n(a) the period applicable in accordance with subsection (4) of\nthat section is the period mentioned in paragraph (b) of that\nsubsection;\n(b) on the date which is for the purposes of that section the\nstarting date for reckoning that period the person by reference to\nwhose knowledge that date fell to be determined under subsection (5)\nof that section was under a disability; and\n(c) section 32 does not apply to the action;\nthe action may be brought at any time before the expiration of three years\nfrom the date when he ceased to be under a disability or died (whichever first\noccurred) notwithstanding that the period mentioned above has expired.\n\nLimitation24 CAP. 14 2000 Ed.\n(2) An action may not be brought by virtue of subsection (1) after\nthe end of the period of limitation prescribed by section 20.\nAccrual to successive owners in case of latent damage.\n34. (1) Subject to the following provisions of this section, where —\n(a) a cause of action (“the original cause of action”) has accrued\nto any person in respect of any negligence to which damage to any\nproperty in which he has an interest is attributable (in whole or in\npart); and\n(b) another person acquires an interest in that property after the\ndate on which the original cause of action accrued but before the\nmaterial facts about the damage have become known to any person\nwho, at the time when he first has knowledge of those facts, has any\ninterest in the property,\na fresh cause of action in respect of that negligence shall accrue to that other\nperson on the date on which he acquires his interest in the property.\n(2) A cause of action accruing to any person by virtue of subsection\n(1) —\n(a) shall be treated as if based on breach of a duty of care at\ncommon law owed to the person to whom it accrues; and\n(b) shall be treated for the purposes of section 19 as having\naccrued on the date on which the original cause of action accrued.\n(3) Section 32 shall not apply in relation to any such cause of action.\n(4) Subsection (1) shall not apply in any case where the person\nacquiring an interest in the damaged property is either —\n(a) a person in whom the original cause of action vests by\noperation of law; or\n(b) a person in whom the interest in that property vests by virtue\nof any order made by a court under the Companies Act (Chapter 39),\nvesting company property in the liquidator.\n(5) For the purpose of subsection (1) (b), the material facts about the\ndamage are such facts about the damage as would lead a reasonable\n\nLimitation\nB.L.R.O. 1/2000\n25 CAP. 142000 Ed.\npersonwho has an interest in the damaged property at the time when those\nfacts become known to him to consider it sufficiently serious to justify his\ninstituting proceedings for damages against a defendant who did not dispute\nliability and was able to satisfy a judgment.\n(6) For the purposes of this section a person’s knowledge includes\nknowledge which he might reasonably have been expected to acquire —\n(a) from facts observable or ascertainable by him; or\n(b) from facts ascertainable by him with the help of appropriate\nexpert advice which it is reasonable for him to seek;\nbut a person shall not be taken by virtue of this subsection to have knowledge\nof a fact ascertainable by him only with the help of expert advice so long as\nhe has taken all reasonable steps to obtain (and, where appropriate, to act on)\nthat advice.\nAcknowledgment or part payment.\n35. (1) Subsections (2) and (3) apply where any right of action\n(including a foreclosure action) to recover land or any right of a mortgagee\nof personal property to bring a foreclosure action in respect of the property\nhas accrued.\n(2) If the person in possession of the land or personal property in\nquestion acknowledges the title of the person to whom the right of action has\naccrued, the right shall be treated as having accrued on and not before the\ndate of the acknowledgment.\n(3) In the case of a foreclosure or other action by a mortgagee, if the\nperson in possession of the land or personal property in question or the\nperson liable for the mortgage debt makes any payment in respect of the debt\n(whether of principal or interest) the right shall be treated as having accrued\non and not before the date of the payment.\n(4) Where a mortgagee is by virtue of the mortgage in possession of\nany mortgaged land and either —\n(a) receives any sum in respect of the principal or interest of the\nmortgage debt; or\n(b) acknowledges the title of the mortgagor, or his equity or\nredemption;\n\nLimitation26 CAP. 14 2000 Ed.\nan action to redeem the land in his possession may be brought at any time\nbefore the expiration of 12 years from the date of the payment or\nacknowledgment.\n(5) Subject to subsection (6), where any right of action has accrued\nto recover —\n(a) any debt or other liquidated pecuniary claim; or\n(b) any claim to the personal estate of a deceased person or to\nany share or interest in any such estate;\nand the person liable or accountable for the claim acknowledges the claim or\nmakes any payment in respect of it the right shall be treated as having\naccrued on and not before the date of the acknowledgment or payment.\n(6) A payment of a part of the rent or interest due at any time shall\nnot extend the period for claiming the remainder then due, but any payment\nof interest shall be treated as a payment in respect of the principal debt.\n(7) Subject to subsection (6), a current period of limitation may be\nrepeatedly extended under this section by further acknowledgments or\npayments, but a right of action, once barred by this Act, shall not be revived\nby any subsequent acknowledgment or payment.\nFormal provisions as to acknowledgments and part payment.\n36. (1) To be effective for the purposes of section 35, an\nacknowledgment must be in writing and signed by the person making it.\n(2) For the purposes of section 35, any acknowledgment or\npayment —\n(a) may be made by the agent of the person by whom it is\nrequired to be made under that section; and\n(b) shall be made to the person, or to an agent of the person\nwhose title or claim is being acknowledged or, as the case may be, in\nrespect of whose claim the payment is being made.\n\nLimitation\nB.L.R.O. 1/2000\n27 CAP. 142000 Ed.\nEffect of acknowledgment or part payment.\n37. (1) An acknowledgment of the title to any land or mortgaged\npersonalty by any person in possession of it shall bind all other persons in\npossession during the ensuing period of limitation.\n(2) A payment in respect of a mortgage debt by the mortgagor or any\nother person liable for the debt, or by any person in possession of the\nmortgaged property, shall, so far as any right of the mortgagee to foreclose or\notherwise to recover the property is concerned, bind all other persons in\npossession of the mortgaged property during the ensuing period of limitation.\n(3) Where two or more mortgagees are by virtue of the mortgage in\npossession of the mortgaged land, an acknowledgment of the mortgagor’s\ntitle or of his equity of redemption by one of the mortgagees shall only bind\nhim and his successors and shall not bind any other mortgagee or his\nsuccessors.\n(4) Where in a case within subsection (3) the mortgagee by whom\nthe acknowledgment is given is entitled to a part of the mortgaged land and\nnot to any ascertained part of the mortgage land and not to any ascertained\npart of the mortgage debt the mortgagor shall be entitled to redeem that part\nof the land on payment, with interest, of the part of the mortgage debt which\nbears the same proportion to the whole of the debt as the value of the part of\nthe land bears to the whole of the mortgaged land.\n(5) Where there are two or more mortgagors, and the title or equity\nof redemption of one of the mortgagors is acknowledged as mentioned above\nin this section, the acknowledgment shall be treated as having been made to\nall the mortgagors.\n(6) An acknowledgment of any debt or other liquidated pecuniary\nclaim shall bind the acknowledgor and his successors but not any other\nperson.\n(7) A payment made in respect of any debt or other liquidated\npecuniary claim shall bind all persons liable in respect of the debt or claim.\n(8) An acknowledgment by one of several personal representatives\nof any claim  to  the  personal  estate  of  a  deceased  person or  to  any  share\nor interest  in  any  such  estate,  or  a   payment  by  one  of  several   personal\n\nLimitation28 CAP. 14 2000 Ed.\nrepresentatives in respect of any such claim, shall bind the estate of the\ndeceased person.\n(9) In this section “successor”, in relation to any mortgagee or\nperson liable in respect of any debt or claim, means his personal\nrepresentatives and any other person on whom the rights under the mortgage\nor, as the case may be, the liability in respect of the debt or claim devolve\n(whether on death or bankruptcy or the disposition of property or the\ndetermination of a limited estate or interest).\nPostponement of limitation period.\n38. (1) Subject to subsection (3), where in the case of any action for\nwhich a period of limitation is prescribed by this Act, either —\n(a) the action is based upon the fraud of the defendant;\n(b) any fact relevant to the plaintiff’s right of action has been\ndeliberately concealed from him by the defendant; or\n(c) the action is for relief from the consequences of a mistake,\nthe period of limitation shall not begin to run until the plaintiff has\ndiscovered the fraud, concealment or mistake (as the case may be) or could\nwith reasonable diligence have discovered it.\nReferences in this subsection to the defendant include references to\nthe defendant’s agent and to any person through whom the defendant claims\nand his agent.\n(2) For the purposes of subsection (1), deliberate commission of a\nbreach to duty in circumstances in which it is unlikely to be discovered for\nsome time amounts to deliberate concealment of the facts involved in that\nbreach of duty.\n(3) Nothing in this section shall enable any action —\n(a) to recover, or recover the value of, any property; or\n(b) to enforce any charge against, or set aside any transaction\naffecting, any property;\nto be brought against the purchaser of the property or any person claiming\nthrough him in any case where the property has been purchased  for  valuable\n\nLimitation\nB.L.R.O. 1/2000\n29 CAP. 142000 Ed.\nconsideration by an innocent third party since the fraud or concealment or (as\nthe case may be) the transaction in which the mistake was made took place.\n(4) A purchaser is an innocent third party for the purposes of this\nsection —\n(a) in the case of fraud or concealment of any fact relevant to\nthe plaintiff’s right of action, if he was not a party to the fraud or (as\nthe case may be) to the concealment of that fact and did not at the\ntime of the purchase know or have reason to believe that the fraud or\nconcealment had taken place; and\n(b) in the case of mistake, if he did not at the time of the\npurchase know or have reason to believe that the mistake had been\nmade.\n(5) Sections 19 and 20 shall not apply to any action to which\nsubsection (1)(b) applies (and accordingly the period of limitation referred to\nin that subsection, in any case to which either of those sections would\notherwise apply, is the period applicable under section 6(1).\nDiscretionary extension of time limit for actions for libel or slander."
+   }
+  },
+  {
+   "id": "BN-H123-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "39. Where a person to whom a cause of action for libel or slander has"
+   },
+   "text": {
+    "en": "39. Where a person to whom a cause of action for libel or slander has\naccrued has not brought such an action within the period of 3 years\nmentioned in section 6(2) (or, where applicable the period allowed by section\n32(1) as modified by section 32(5)) because all or any of the facts relevant to\nthat cause of action did not become known to him until after the expiration of\nthat period, such an action —\n(a) may be brought by him at any time before the expiration of\none year from the earliest date on which he knew all the facts relevant\nto that cause of action; but\n(b) shall not be so brought without the leave of the High Court.\nDiscretionary exclusion of time limit for actions in respect of personal\ninjuries or death.\n40. (1) If it appears to the court that it would be equitable to allow an\naction to proceed having regard to the degree to which —\n\nLimitation30 CAP. 14 2000 Ed.\n(a) the provisions of sections 15 or 16 prejudice the plaintiff of\nany person whom he represents; and\n(b) any decision of the court under this subsection would\nprejudice the defendant or any person whom he represents;\nthe court may direct that those provisions shall not apply to the action, or\nshall not apply to any specified cause of action to which the action relates.\n(2) The court shall not under this section display section 16(1)\nexcept where the reason why the person injured could no longer maintain an\naction was because of the time limit in section 15.\nIf, for example, the person injured could at his death no longer\nmaintain an action under Part II of the Fatal Accidents and Personal Injuries\nAct (Chapter 160) because of the time limit in Article 29 in the First\nSchedule to the Carriage by Air Act, 1961 of the United Kingdom, the court\nhas no power to direct that section 16(1) shall not apply.\n(3) In acting under this section the court shall have regard to all the\ncircumstances of the case and in particular to —\n(a) the length of, and the reasons for, the delay on the part of the\nplaintiff;\n(b) the extent to which, having regard to the delay, the evidence\nadduced or likely to be adduced by the plaintiff or the defendant is or\nis likely to be less cogent than if the action had been brought within\nthe time allowed by section 15 or (as the case may be) by section 16;\n(c) the conduct of the defendant after the cause of action arose,\nincluding the extent (if any) to which he responded to requests\nreasonably made by the plaintiff for information or inspection for the\npurpose of ascertaining facts which were or might be relevant to the\nplaintiff’s cause of action against the defendant;\n(d) the duration of any disability of the plaintiff arising after the\ndate of the accrual of the cause of action;\n(e) the extent to which the plaintiff acted promptly and\nreasonably once he knew whether or not the act or omission of the\ndefendant, to which the injury was attributable, might be capable at\nthat time of giving rise to an action for damages;\n\nLimitation\nB.L.R.O. 1/2000\n31 CAP. 142000 Ed.\n(f) the steps, if any, taken by the plaintiff to obtain medical,\nlegal or other expert advice and the nature of any such advice he may\nhave received.\n(4) In a case where the person injured died when, because of section\n15, he could no longer maintain an action and recover damages in respect of\nthe injury, the court shall have regard in particular to the length of, and the\nreasons for, the delay on the part of the deceased.\n(5) In a case under subsection (4), or any other case where the time\nlimit, or one of the time limits, depends on the date of knowledge of a person\nother than the plaintiff, subsection (3) shall have effect with appropriate\nmodifications, and shall have effect in particular as if references to the\nplaintiff included references to any person whose date of knowledge is or\nwas relevant in determining a time limit.\n(6) A direction by the court disapplying the provisions of section\n16(1) shall operate to disapply the provisions to the same effect in section\n3(1) of the Fatal Accidents and Personal Injuries Act (Chapter 160).\n(7) In this section “the court” means the court in which the action\nhas been brought.\n(8) References in this section to section 15 include references to that\nsection as extended by any of the preceding provisions of this Part or by any\nprovision of Part V.\nPART IV\nFOREIGN LIMITATION PERIODS\nApplication of foreign limitation law.\n41. (1) Subject to the following provisions of this Act, where in any\naction or proceedings in a court in Brunei Darussalam the law of any other\ncountry falls (in accordance with rules of private international law applicable\nby any such court) to be taken into account in the determination of any\nmatter —\n(a) the law of that other country relating to limitation shall\napply in respect of that matter for the purposes of the action or\nproceedings; and\n\nLimitation32 CAP. 14 2000 Ed.\n(b) except where the matter falls within subsection (2), the law\nof Brunei Darussalam relating to limitation shall not so apply.\n(2) A matter falls within this subsection if it is a matter in the\ndetermination of which both the law of Brunei Darussalam and the law of\nsome other country fall to be taken into account.\n(3) The law of Brunei Darussalam shall determine for the purposes\nof any law applicable by virtue of subsection (1) (a) whether, and the time at\nwhich, proceedings have been commenced in respect of any matter; and,\naccordingly, section 47 shall apply in relation to time limits applicable by\nvirtue of subsection (1) (a) as it applies in relation to time limits under this\nAct.\n(4) A court in Brunei Darussalam, in exercising in pursuance of\nsubsection (1)(a) any discretion conferred by the law of any other country,\nshall so far as practicable exercise that discretion in the manner in which it is\nexercised in comparable cases by the courts of that other country.\n(5) In this section, “law”, in relation to any country, shall not include\nrules of private international law applicable by the courts of that country or,\nin the case of Brunei Darussalam, this Act.\nExceptions to section 41.\n42. (1) In any case in which the application of section 41 would to any\nextent conflict (whether under subsection (2) or otherwise) with public\npolicy, that section shall not apply to the extent that its application would so\nconflict.\n(2) The application of section 41 in relation to any action or\nproceedings shall conflict with public policy to the extent that its application\nwould cause undue hardship to a person who is, or might be made, a party\nthe action or proceedings.\n(3) Where, under a law applicable by virtue of section 41(1)(a) or for\nthe purposes of any action or proceedings, a limitation period is or may be\nextended or interrupted in respect of the absence of a party to the action or\nproceedings from any specified jurisdiction or country, so much of that law\nas provides for the extension or interruption shall be disregarded for those\npurposes.\n\nLimitation\nB.L.R.O. 1/2000\n33 CAP. 142000 Ed.\nForeign judgments on limitation points."
+   }
+  },
+  {
+   "id": "BN-H123-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "43. Where a court in any country outside Brunei Darussalam has"
+   },
+   "text": {
+    "en": "43. Where a court in any country outside Brunei Darussalam has\ndetermined any matter wholly or partly by reference to the law of that or any\nother country (including Brunei Darussalam) relating to limitation, then, for\nthe purposes of the law relating to the effect to be given in Brunei\nDarussalam to that determination, that court shall, to the extent that it has so\ndetermined that matter, be deemed to have determined it on its merits.\nLaw relating to limitation.\n44. (1) Subject to subsection (3), references in this Part to the law of any\ncountry (including Brunei Darussalam) relating to limitation shall, in relation\nto any matter, be construed as references to so much of the relevant law of\nthat country as (in any manner) makes provision with respect to a limitation\nperiod applicable to the bringing of proceedings in respect of that matter in\nthe courts of that country and shall include —\n(a) references to so much of that law as relates to, and to the\neffect of, the application, extension, reduction or interruption of that\nperiod; and\n(b) a reference, where under that law there is no limitation\nperiod which is so applicable, to the rule that such proceedings may\nbe brought within an indefinite period.\n(2) In subsection (1), “relevant law”, in relation to any country,\nmeans the procedural and substantive law applicable, apart from any rules of\nprivate international law, by the courts of that country.\n(3) References in this Part to the law of Brunei Darussalam relating\nto limitation shall not include the rules by virtue of which a court may, in the\nexercise of any discretion, refuse equitable relief on the grounds of\nacquiescence or otherwise; but, in applying those rules to a case in relation to\nwhich the law of any country outside Brunei Darussalam is applicable by\nvirtue of section 41(1) (a) (not being a law that provides for a limitation\nperiod that has expired) a court in Brunei Darussalam shall have regard, in\nparticular, to the provisions of the law that is so applicable.\n\nLimitation34 CAP. 14 2000 Ed.\nApplication of Part to arbitrations."
+   }
+  },
+  {
+   "id": "BN-H123-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "45. The references to any other written law relating to limitation in"
+   },
+   "text": {
+    "en": "45. The references to any other written law relating to limitation in\nsection 46 include references to sections 41, 42 and 44; and, accordingly, in\nsubsection (5) of section 46, the reference to the time prescribed by this Act\nor by any other written law relating to limitation has effect for the purposes\nof any case to which section 41 applies as a reference to the limitation period\n(if any) applicable by virtue of section 41.\nPART V\nMISCELLANEOUS AND GENERAL\nApplication of Act to arbitrations.\n46. (1) This Act and any other written law relating to limitation shall\napply to arbitrations as they apply to actions in the High Court.\n(2) Notwithstanding any term in an arbitration agreement to the\neffect that no cause of action shall accrue in respect of any matter required by\nthe agreement to be referred until an award is made under the agreement, the\ncause of action shall, for the purposes of this Act and any other written law\nrelating limitation (whether in their application to arbitrations or to other\nproceedings), be deemed to have accrued in respect of any such matter at the\ntime when it would have accrued but for that term in the agreement.\n(3) For the purposes of this Act and of any other written law relating\nto limitation, an arbitration shall be treated as being commenced —\n(a) when one party to the arbitration serves on the other party or\nparties a notice requiring him or them to appoint an arbitrator or to\nagree to the appointment of an arbitrator; or\n(b) where the arbitration agreement provides that the reference\nshall be to a person named or designated in the agreement, when one\nparty to the arbitration serves on the other party or parties a notice\nrequiring him or them to submit the dispute to the person so named or\ndesignated.\n(4) Any such notice may be served either —\n(a) by delivering it to the person on whom it is to be served; or\n\nLimitation\nB.L.R.O. 1/2000\n35 CAP. 142000 Ed.\n(b) by leaving it at the usual or last-known place of abode of\nthat person; or\n(c) by sending it by post in a registered letter addressed to that\nperson at his usual or last-known place of abode;\nas well as in any other manner provided in the arbitration agreement.\n(5) Where the High Court —\n(a) orders that an award be set aside; or\n(b) orders, after the commencement of an arbitration, that the\narbitration agreement shall cease to have effect with respect to the\ndispute referred;\nthe court may further order that the period between the commencement of\nthe arbitration and the date of the order of the court shall be excluded in\ncomputing the time prescribed by this Act or by any other written law\nrelating to limitation for the commencement of proceedings (including\narbitration) with respect to the dispute referred.\n(6) This section shall apply to an arbitration under an Act as well as\nto an arbitration pursuant to an arbitration agreement.\nSubsections (3) and (4) shall have effect, in relation to an arbitration\nunder an Act, as if for the references to the arbitration agreement there were\nsubstituted references to such of the provisions of the Act or of any order,\nscheme, rules, regulations or byelaws made under the Act as relate to the\narbitration.\n(7) In this section —\n(a) “arbitration”, “arbitration agreement” and “award” have the\nsame meanings as in Parts I, II and III of the Arbitration Act (Chapter\n173); and\n(b) references to any other written law relating to limitation are\nreferences to any other written law relating to the limitation of\nactions, whether passed before or after the date of coming into force\nof this Act.\n\nLimitation36 CAP. 14 2000 Ed.\nNew claims in pending actions : rules of court.\n47. (1) For the purposes of this Act, any new claim made in the course\nof any action shall be deemed to be a separate action and to have been\ncommenced —\n(a) in the case of a new claim made in or by way of third party\nproceedings, on the date on which those proceedings were\ncommenced; and\n(b) in the case of any other new claim, on the same date as the\noriginal action.\n(2) In this section a new claim means any claim by way of set-off or\ncounterclaim, and any claim involving either —\n(a) the addition or substitution of a new cause of action; or\n(b) the addition or substitution of a new party;\nand “third party proceedings” means any proceedings brought in the course\nof any action by any party to the action against a person not previously a\nparty to the action, other than proceedings brought by joining any such\nperson as defendant to any claim already made in the original action by the\nparty bringing the proceedings.\n(3) Except as provided by section 40 or by rules of court, neither the\nHigh Court nor any Intermediate or Subordinate Court shall allow a new\nclaim within subsection (1)(b), other than an original set-off or counterclaim,\nto be made in the course of any action after the expiry of any time limit under\nthis Act which would affect a new action to enforce that claim.\nFor the purposes of this subsection, a claim is an original set-off or an\noriginal counterclaim if it is a claim made by way of set-off or (as the case\nmay be) by way of counterclaim by a party who has not previously made any\nclaim in the action.\n(4) Rules of court may provide for allowing a new claim to which\nsubsection (3) applies to be made as there mentioned, but only if the\nconditions specified in subsection (5) are satisfied, and subject to any further\nrestrictions the rules may impose.\n(5) The conditions referred to in subsection (4) are the following —\n\nLimitation\nB.L.R.O. 1/2000\n37 CAP. 142000 Ed.\n(a) in the case of a claim involving a new cause of action, if the\nnew cause of action arises out of the same facts or substantially the\nsame facts as are already in issue on any claim previously made in the\noriginal action; and\n(b) in the case of a claim involving a new party, if the addition\nor substitution of the new party is necessary for the determination of\nthe original action.\n(6) The addition or substitution of a new party shall not be regarded\nfor the purposes of subsection (5) (b) as necessary for the determination of\nthe original action unless either —\n(a) the new party is substituted for a party whose name was\ngiven in any claim made in the original action in mistake for the new\nparty’s name; or\n(b) any claim already made in the original action cannot be\nmaintained by or against an existing party unless the new party is\njoined or substituted as plaintiff or defendant in that action.\n(7) Subject to subsection (4), rules of court may provide for allowing\na party to any action to claim relief in a new capacity in respect of a new\ncause of action notwithstanding that he had no title to make that claim at the\ndate of the commencement of the action.\nThis subsection shall not be taken as prejudicing the power of rules of\ncourt to provide for allowing a party to claim relief in a new capacity without\nadding or substituting a new cause of action.\n(8) Subsections (3) to (7) shall apply in relation to a new claim made\nin the course of third party proceedings as if those proceedings were the\noriginal action, and subject to such other modifications as may be prescribed\nby rules of court in any case or class of case.\nEquitable jurisdication and remedies.\n48. (1) The following time limits under this Act —\n(a) the time limit under section 6(1) for actions founded on tort;\n(b) the time limit under section 6(2) for actions for libel or\nslander;\n\nLimitation38 CAP. 14 2000 Ed.\n(c) the time limit under section 9 for actions founded on simple\ncontract;\n(d) the time limit under section 11 for actions to enforce awards\nwhere the submission is not by an instrument under seal;\n(e) the time limit under section 12 for actions on a specialty;\n(f) the time limit under section 13 for actions to recover a sum\nrecoverable by virtue of any written law; and\n(g) the time limit under section 30 for actions to enforce a\njudgment,\nshall not apply to any claim for specific performance of a contract or for an\ninjunction or for other equitable relief.\n(2) Nothing in this Act shall affect any equitable jurisdiction to\nrefuse relief on the ground of acquiescence or otherwise.\nSaving for other limitation enactments."
+   }
+  },
+  {
+   "id": "BN-H123-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "49. This Act shall not apply to any action or arbitration for which a period"
+   },
+   "text": {
+    "en": "49. This Act shall not apply to any action or arbitration for which a period\nof limitation is prescribed by or under any other written law (whether passed\nbefore or after the date of coming into force of this Act) or to any action or\narbitration to which the Government is a party and for which, if it were\nbetween subjects, a period of limitation would be prescribed by or under any\nsuch other written law.\nLimitation to be pleaded."
+   }
+  },
+  {
+   "id": "BN-H123-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "50. Nothing in this Act shall operate as a bar to an action unless this Act"
+   },
+   "text": {
+    "en": "50. Nothing in this Act shall operate as a bar to an action unless this Act\nhas been expressly pleaded as a defence thereto.\nSet-off and counterclaim."
+   }
+  },
+  {
+   "id": "BN-H123-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "51. For the purposes of this Act, any claim by way of set-off or"
+   },
+   "text": {
+    "en": "51. For the purposes of this Act, any claim by way of set-off or\ncounterclaim shall be deemed to be a separate action and to have been\ncommenced on the same date as the action in which the set-off or\ncounterclaim is pleaded.\n\n---\n\n## 完整性说明\n\n- 原件页数：40；可提取文本页数：39。\n- 正文字数（提取自 PDF 文本层）：约 11916 词。\n- 未检测到缺失；本文件为官方 PDF 文本层的完整逐页提取。"
+   }
+  }
+ ]
+}

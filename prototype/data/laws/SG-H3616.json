@@ -1,0 +1,284 @@
+{
+ "id": "SG-H3616",
+ "title": {
+  "zh": null,
+  "en": "Republic Polytechnic Act 2002",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p45",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act RPA2002",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 19,
+ "chars": 23799,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/RPA2002?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 19 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3616-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Republic Polytechnic Act 2002."
+   }
+  },
+  {
+   "id": "SG-H3616-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“Board” means the Board of Governors of the Polytechnic;\n“Constitution” means the Constitution of the Polytechnic set out in the Schedule;\n“Deputy Principal” means a Deputy Principal of the Polytechnic appointed under section 9;\n“Polytechnic” means the Republic Polytechnic established under section 3;\n“Principal” means the Principal of the Polytechnic, and includes any individual acting in that capacity;\n“Senate” means the Senate of the Polytechnic.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3616-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Establishment and incorporation of Republic Polytechnic"
+   },
+   "text": {
+    "en": "3. A Polytechnic called the Republic Polytechnic is established, which is a body corporate with perpetual succession and a common seal and is by that name capable of —\n(a)suing and being sued;\n(b)acquiring, owning, holding and developing or disposing of property, both movable and immovable; and\n(c)doing and suffering all other acts or things that bodies corporate may lawfully do or suffer."
+   }
+  },
+  {
+   "id": "SG-H3616-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Common seal"
+   },
+   "text": {
+    "en": "4.—(1) The common seal of the Polytechnic must be kept in such custody as the Board directs.\n(2) All deeds, documents and other instruments requiring the seal of the Polytechnic must be sealed with the common seal of the Polytechnic and the instruments to which the common seal is affixed must be signed by the Principal or a Deputy Principal and by another member of the Board.\n(3) All courts and persons acting judicially are to take judicial notice of the common seal of the Polytechnic affixed to any document and presume that it was duly affixed."
+   }
+  },
+  {
+   "id": "SG-H3616-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Objects and powers of Polytechnic"
+   },
+   "text": {
+    "en": "5.—(1) The objects of the Polytechnic are —\n(a)to provide instruction and training in engineering, technology, applied sciences and other subjects of learning;\n(b)to aid by research and other means the advancement of knowledge and its practical application; and\n(c)to promote the exchange of knowledge and skills with business and industry.\n(2) The Polytechnic may —\n(a)provide any facilities for its students that it considers desirable;\n(b)institute and make appointments to academic and other posts and offices and employ any other staff that the Polytechnic considers necessary;\n(c)fix, demand and receive fees and other charges, including charges for the late payment of any such fee or charge;\n[Act 4 of 2008 wef 01/04/2024]\n(d)provide technical and consultancy services to business and industry as it considers desirable;\n(e)form or participate in the formation of companies or other undertakings having such objects as the Board may approve;\n(f)solicit and receive donations and contributions from any source or raise funds by all lawful means;\n(g)give donations and contributions to any person or organisation; and\n(h)do all things that may be necessary, incidental or conducive to the attainment of all or any of its objects.\n(3) In subsection (2)(e), “company” —\n(a)has the meaning given by section 4(1) of the Companies Act 1967; and\n(b)includes a foreign company within the meaning of that Act.\n[S 461/2020]"
+   }
+  },
+  {
+   "id": "SG-H3616-A5.001",
+   "no": 5.001,
+   "noLabel": {
+    "en": "5A."
+   },
+   "heading": {
+    "en": "Validation of collection of charge for late payment of fee or charge"
+   },
+   "text": {
+    "en": "5A. Every amount collected before the date of commencement of the Statutes (Miscellaneous Amendments) Act 2008 as, or purportedly as, a charge for the late payment of any fee or charge referred to in section 5(2)(c) shall be deemed to be and always to have been validly collected, and no legal proceedings shall lie or be instituted or maintained in any court of law on account of or in respect of any such collection.\n[Act 4 of 2008 wef 01/04/2024]"
+   }
+  },
+  {
+   "id": "SG-H3616-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Board of Governors and Senate of Polytechnic"
+   },
+   "text": {
+    "en": "6.—(1) The constitutions, functions, powers and duties of the Board and the Senate are prescribed by this Act and the Constitution.\n(2) The Board is, subject to the provisions of this Act and the Constitution, the supreme governing body of the Polytechnic and must administer the property and manage the affairs of the Polytechnic.\n(3) Subject to the provisions of this Act, the Public Sector (Governance) Act 2018 and the Constitution and to the financial control of the Board, the Senate has the regulation of all matters relating to education in the Polytechnic.\n[5/2018]\n(4) No act or resolution of the Board or the Senate is invalid by reason only of any vacancy in, or any defect in the qualification or appointment of any member of, the Board or the Senate."
+   }
+  },
+  {
+   "id": "SG-H3616-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Schools of Polytechnic"
+   },
+   "text": {
+    "en": "7.—(1) There are to be such Schools as may be constituted by the Board on the recommendation of the Senate.\n(2) There is to be a head of each School with such powers as may be conferred by the Board.\n(3) The Board may, on the recommendation of the Senate, form, dissolve or reform any School and any department, centre, unit and other subdivisions of any School as it may consider desirable."
+   }
+  },
+  {
+   "id": "SG-H3616-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Committees and delegation of powers"
+   },
+   "text": {
+    "en": "8.—(1) The Board, the Senate and the Principal may establish any committees that they think fit.\n(2) Unless otherwise expressly provided, any committee may consist partly of persons who are not members of the Board or the Senate or officers of the Polytechnic, as the case may be.\n(3) Subject to the provisions of this Act, the Public Sector (Governance) Act 2018 and the Constitution, the Board, the Senate and the Principal may, with or without restrictions or conditions as they think fit, delegate any of their powers and duties to any committee.\n[5/2018]"
+   }
+  },
+  {
+   "id": "SG-H3616-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Officers"
+   },
+   "text": {
+    "en": "9.—(1) The Principal, every Deputy Principal and other officers of the Polytechnic must be appointed by the Board in accordance with the Constitution.\n(2) The academic staff of the Polytechnic are the heads of the Schools and any other persons designated as members of the academic staff by the Constitution and they are to be appointed by the Board on the recommendation of the Principal.\n(3) The powers and duties of the officers and members of the academic staff, the periods and conditions for and upon which they hold office and their emoluments are as prescribed by this Act, the Constitution and the terms of their respective appointments.\n(4) In addition to the powers and duties that are assigned under subsection (3), the Board may assign to any officer, and in the case of any member of the academic staff on the recommendation of the Principal, such further powers and duties as the Board thinks fit."
+   }
+  },
+  {
+   "id": "SG-H3616-A9.001",
+   "no": 9.001,
+   "noLabel": {
+    "en": "9A."
+   },
+   "text": {
+    "en": "9A. [Repealed by Act 5 of 2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3616-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Constitution of Polytechnic"
+   },
+   "text": {
+    "en": "10.—(1) Subject to the provisions of this Act, the Polytechnic is governed by the provisions of the Constitution set out in the Schedule.\n(2) The Minister may, after consulting the Board, amend the Constitution by order in the Gazette.\n(3) Regulations made under the Constitution are not subsidiary legislation."
+   }
+  },
+  {
+   "id": "SG-H3616-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Examinations"
+   },
+   "text": {
+    "en": "11. All examinations held by the Polytechnic must be conducted in the manner prescribed by the Constitution and any regulations made under the Constitution."
+   }
+  },
+  {
+   "id": "SG-H3616-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Power to confer diplomas, etc."
+   },
+   "text": {
+    "en": "12. The Polytechnic has power —\n(a)to award diplomas, certificates and any other academic distinctions specified in regulations made under the Constitution; and\n(b)to provide access to such educational activities and programmes for persons who are not registered students as the Polytechnic may determine, and to award diplomas, certificates and other academic distinctions to those persons."
+   }
+  },
+  {
+   "id": "SG-H3616-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Grants"
+   },
+   "text": {
+    "en": "13.—(1) The Minister must pay to the Polytechnic such moneys as may be provided by Parliament as grants to the Polytechnic.\n(2) All moneys paid to the Polytechnic under subsection (1) may be applied or expended by the Polytechnic for the attainment of all or any of the objects of the Polytechnic."
+   }
+  },
+  {
+   "id": "SG-H3616-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Issue of shares, etc."
+   },
+   "text": {
+    "en": "14. As a consequence of the vesting of any property, rights or liabilities of the Government in the Polytechnic under this Act, or of any capital injection or other investment by the Government in the Polytechnic in accordance with any written law, the Polytechnic must issue such shares or other securities to the Minister for Finance as that Minister may direct."
+   }
+  },
+  {
+   "id": "SG-H3616-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Power to borrow"
+   },
+   "text": {
+    "en": "15. For the attainment of all or any of its objects under this Act, the Polytechnic may raise loans from the Government or, with the approval of the Minister for Finance, raise loans from banks or other financial institutions (whether in Singapore or elsewhere) by —\n(a)mortgage, overdraft or otherwise;\n(b)charge, whether legal or equitable, on any property vested in the Polytechnic or on any other revenue receivable by the Polytechnic under this Act or any other written law; or\n(c)the creation and issue of debentures or bonds."
+   }
+  },
+  {
+   "id": "SG-H3616-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Application of Societies Act 1966 to Students’ Union"
+   },
+   "text": {
+    "en": "16.—(1) Despite anything to the contrary in the Societies Act 1966, the provisions of that Act apply to the Republic Polytechnic Students’ Union and its constituent bodies constituted by regulations made under the Constitution.\n(2) The Minister charged with the responsibility for societies may, by order in the Gazette, exempt the Republic Polytechnic Students’ Union and any of its constituent bodies from all or any of the provisions of the Societies Act 1966 subject to any conditions specified in the order.\n[21"
+   }
+  },
+  {
+   "id": "SG-H3616-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nSections 2 and 10(1)\nConstitution of the Republic Polytechnic\nPart 1\nPreliminary\nInterpretation\n1.—(1) In this Constitution, unless the context otherwise requires —\n“Act” means the Republic Polytechnic Act 2002;\n“Board” means the Board of Governors of the Polytechnic;\n“Chairperson” means the Chairperson of the Board;\n“Constitution” means the Constitution of the Polytechnic;\n“Deputy Principal” means a Deputy Principal of the Polytechnic;\n“Polytechnic” means the Republic Polytechnic;\n“Principal” means the Principal of the Polytechnic;\n“registered student” means a student who is registered for a course or subject at the Polytechnic, leading to the award of a diploma, certificate or other academic distinction of the Polytechnic;\n“regulations” means regulations made under this Constitution;\n“Schools” means such Schools of the Polytechnic as may be constituted by the Board on the recommendation of the Senate;\n“Senate” means the Senate of the Polytechnic.\n(2) In this Constitution —\n(a)a reference to a specified section is a reference to that section of this Constitution;\n(b)a reference to a specified subsection is a reference to that subsection of the section in which the reference occurs; and\n(c)a reference to a specified paragraph is a reference to that paragraph of the subsection in which the reference occurs.\nPart 2\nOfficers of Polytechnic\nAppointment, powers and duties of Principal and Deputy Principal\n2.—(1) The Principal is appointed by the Board on such terms and conditions as the Board may determine.\n(2) The appointment, removal, discipline and promotion of the Principal must be in accordance with the Public Sector (Governance) Act 2018.\n(3) The Principal is the chief executive and academic officer of the Polytechnic and is responsible to the Board for —\n(a)the proper administration and the academic management of the Polytechnic in accordance with the policies determined by the Board;\n(b)the proper enforcement of regulations; and\n(c)the welfare and discipline of the staff and students of the Polytechnic.\n(4) For the purpose of giving effect to subsection (3), the Principal has such powers as are necessary or proper for that purpose.\n(5) The Principal is entitled to be present and speak at any meeting of any committee of the Polytechnic, but is not entitled to vote at the meeting unless the Principal is a member of the committee.\n(6) There are to be one or more Deputy Principals who are appointed by the Board on such terms and conditions as the Board may determine.\n(7) A Deputy Principal must perform such duties as may be assigned to him or her by the Principal (or by the Board if the Principal is unable to so assign).\nSecretary\n3.—(1) The Secretary of the Board is an officer of the Polytechnic and is appointed by the Board on such terms and conditions as the Board may determine.\n(2) The Secretary of the Board must —\n(a)attend all meetings of the Board unless excused by the Chairperson;\n(b)maintain proper records of the meetings; and\n(c)carry out any other duties assigned to him or her by the Board.\n(3) In the absence of the Secretary of the Board, the Chairperson may appoint a suitable person to act as secretary for a particular meeting.\n(4) The Secretary of the Board is not, unless he or she is a member of the Board appointed to serve in that capacity, entitled to vote on any question before the Board.\nOther officers and employees, etc.\n4. The Board may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.\nPart 3\nBoard of Governors and Senate\nBoard of Governors\n5.—(1) The Board of Governors consists of the following members:\n(a)a Chairperson;\n(b)a Deputy Chairperson;\n(c)the Principal;\n(d)such other persons, being not less than 9 and not more than 15, as may be determined by the Minister.\n(2) Every member of the Board, except the Principal, is appointed by the Minister and, unless the Minister otherwise directs, holds office for a period of 3 years from the date of the appointment and is eligible for re‑appointment.\nPowers of Board\n6.—(1) The Board must administer the affairs of the Polytechnic other than those vested by the Act or this Constitution in some other authority of the Polytechnic or in an officer.\n(2) Without limiting subsection (1), the Board, subject to the provisions of the Act and this Constitution, has power —\n(a)to administer and manage the finances, accounts, investments, property, business, and all affairs of the Polytechnic, and for that purpose to appoint bankers, counsel, solicitors and such officers or agents as it may be expedient to appoint;\n(b)invest the moneys of the Polytechnic in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965;\n(c)to purchase, grant, sell, convey, assign, surrender, and yield up, exchange, partition, mortgage, demise, re‑assign, transfer, and accept leases of real and personal property on behalf of the Polytechnic;\n(d)to provide the buildings, premises, furniture, apparatus and other means needed for the Polytechnic;\n(e)to borrow money on behalf of the Polytechnic and for that purpose to mortgage all or any part of the property of the Polytechnic, whether real or personal, or give such other security, whether upon such real or personal property or otherwise, as it thinks fit;\n(f)to enter into, vary, carry out and cancel contracts on behalf of the Polytechnic;\n(g)to publish books and other matters on behalf of the Polytechnic;\n(h)in consultation with the Senate, to review the instruction and teaching at the Polytechnic;\n(i)to cooperate with other polytechnics and authorities for the regulation and conduct of examinations, for the examination and inspection of schools and other academic institutions, for the extension of Polytechnic teaching and for other purposes;\n(j)to propose to the Minister additions to, or the amendment or repeal of any of the provisions of, this Constitution;\n(k)to prescribe fees and other charges, including charges for the late payment of any such fee or charge;\n[Act 4 of 2008 wef 01/04/2024]\n(l)to appoint officers and other employees and to determine their duties and to fix their remuneration and the terms and conditions of their appointments;\n(m)to appoint committees within or outside Singapore to select candidates for any office to which the Board may appoint;\n(n)to delegate any of its powers to any member of the Board or to any committee of the Board or to any officer or other employee of the Polytechnic; and\n(o)to do all such other acts and things as may be required to give effect to the powers conferred on the Board by the Act or this Constitution.\n(3) The Board may by regulations provide for any of the following matters or purposes:\n(a)the administration of the affairs of the Polytechnic;\n(b)the appointment, promotion, conduct, disciplinary control, dismissal and termination of service of the officers and other employees of the Polytechnic;\n(c)the welfare, discipline, suspension and expulsion of students;\n(d)the form of contracts;\n(e)the publications of the Polytechnic;\n(f)fees and other charges, including charges for the late payment of any such fee or charge;\n[Act 4 of 2008 wef 01/04/2024]\n(g)the prescribing of anything which is by the Act or this Constitution required to be prescribed by regulations made by the Board;\n(h)generally all matters which by the Act or this Constitution the Board is empowered to regulate.\n(4) All such regulations come into operation on the day on which they are made unless otherwise provided by the Board.\nVacation of office of member of Board\n7.—(1) The Minister may revoke the appointment of a member of the Board, except that of the Principal, if the member becomes in the opinion of the Minister unfit to continue in office or incapable of performing the member’s duties.\n(2) A member of the Board, except the Principal, may resign from his or her appointment by giving written notice to the Minister.\nFilling of vacancy in office of member of Board\n8. If the office of a member of the Board, other than that of the Principal, is vacant, the Minister may appoint any person to fill the vacancy and the person must be appointed for the remainder of the term of the person’s predecessor.\nMeetings of Board\n9.—(1) The Chairperson must summon meetings of the Board as often as may be required.\n(2) The quorum at every meeting of the Board is 6 members.\n(3) Every decision at a meeting of the Board is to be adopted by a simple majority of the votes of the members present and voting except that, in the case of an equality of votes, the Chairperson or, in his or her absence, the Deputy Chairperson has a casting vote.\n(4) The Chairperson or, in his or her absence, the Deputy Chairperson presides at a meeting of the Board.\n(5) In the absence of the Chairperson and the Deputy Chairperson at a meeting of the Board, such member as the members present may elect presides at the meeting.\n(6) The Board may grant leave of absence from a meeting of the Board to a member of the Board.\n(7) The Board is not precluded from holding a meeting or acting in any matter merely by reason of any vacancy in its membership.\n(8) Subject to the provisions of this Constitution and the Public Sector (Governance) Act 2018, the Board may make standing orders to regulate its own procedure.\nSenate\n10.—(1) The Senate consists of —\n(a)the Principal, who is the chairperson of the Senate;\n(b)the heads of the Schools;\n(c)such number of officers of the Polytechnic as may be appointed by the Board; and\n(d)such number of academic staff as may be determined by the Board and as may be elected by all the full-time academic staff.\n(2) The Senate must meet at least twice in each semester of every academic year and such other times as may be necessary.\n(3) The quorum at every meeting of the Senate is one quarter of the total number of members of the Senate.\n(4) The chairperson of the Senate may require any officer or other employee of the Polytechnic to attend a meeting of the Senate.\nPowers of Senate\n11. Subject to the provisions of the Act and this Constitution and to the availability of funds provided by the Board, the Senate has power —\n(a)to provide courses of study for the diplomas, certificates and other awards by the Polytechnic and any other courses of study as may be thought desirable;\n(b)to direct and regulate instruction and education in the Polytechnic;\n(c)to stimulate the advancement of knowledge by research and publications;\n(d)to direct the manner in which examinations may be conducted;\n(e)to determine what examinations and courses of study in other polytechnics or places of learning are deemed equivalent to examinations and courses of study in the Polytechnic;\n(f)to advise the Board on the provision of facilities for educational and other academic matters;\n(g)to decide in accordance with this Constitution and the regulations persons who are qualified for the award of diplomas, certificates and other academic distinctions;\n(h)to organise the Schools;\n(i)to fix the time, mode and conditions of competition for, and to award, fellowships, scholarships and other educational endowments and prizes in accordance with the terms thereof;\n(j)to require any student on academic grounds to terminate his or her studies at the Polytechnic;\n(k)to provide access to educational activities and programmes for persons who are not registered students;\n(l)to advise the Board on any matter which may be referred to the Senate by the Board;\n(m)to delegate any of its powers to any member of the Senate or any committee of the Senate or to any officer of the Polytechnic; and\n(n)to do all such other acts and things as may be required to give effect to the powers conferred on the Senate by the Act and this Constitution.\nRegulations made by Senate\n12.—(1) The Senate may by regulations provide for any of the following matters or purposes:\n(a)the admission and registration of students;\n(b)the conditions for the award of diplomas, certificates and other academic distinctions;\n(c)courses of study and examinations;\n(d)academic dress;\n(e)the award of scholarships and other educational endowments and prizes;\n(f)the conduct of examinations;\n(g)the prescribing of anything which is by the Act or this Constitution required to be prescribed by regulations made by the Senate;\n(h)the prescribing of conditions under which persons may be exempted from the provisions of any regulations made by the Senate;\n(i)generally all matters which by the Act or this Constitution the Senate is empowered to regulate.\n(2) All such regulations must be reported to the Board and come into operation not earlier than one semester after the day on which they are made, unless otherwise approved by the Board.\nPart 4\nExaminations\nExaminations\n13. Examinations for diplomas, certificates and other awards must be conducted in accordance with regulations made by the Senate.\nPart 5\nFinancial Provisions\nFinancial year\n14. The financial year of the Polytechnic begins on 1 April of each year and ends on 31 March of the succeeding year.\nPreparation of estimates\n15. It is the duty of such officers of the Polytechnic as may be directed by the Board to prepare for the consideration of the Board the estimates of income and expenditure of the Polytechnic for each financial year.\nEstimates\n16. The annual and supplementary estimates must be prepared in such form and must contain such information as the Board may direct.\nPower of Board to accept gifts\n17.—(1) The Board may on behalf of the Polytechnic accept by way of grant, gift, testamentary disposition or otherwise, property and moneys in aid of the finances of the Polytechnic on any conditions that it may determine.\n(2) Records must be kept of all donations to the Polytechnic including the names of donors and any special conditions on which any donation may have been given.\nProperty, etc., donated for specific purposes to be separately accounted for\n18. All property, moneys or funds donated for any specific purpose must be applied and administered in accordance with the purpose for which they may have been donated and must be separately accounted for.\nPart 6\nStudent Bodies\nRepublic Polytechnic Students’ Union\n19.—(1) There is a students’ association called the Republic Polytechnic Students’ Union which is constituted by regulations made by the Board and consists of such constituent bodies as may be prescribed by those regulations.\n(2) The constitution, membership, functions and other matters relating to the Republic Polytechnic Students’ Union and each of its constituent bodies must be so prescribed.\n(3) The Polytechnic may impose and collect from the students or any class of students such fees as it may determine for the benefit of the Republic Polytechnic Students’ Union and its constituent bodies.\n(4) The fees collected under subsection (3) may be applied in any manner that the Polytechnic thinks fit for the purposes of the Republic Polytechnic Students’ Union and its constituent bodies.\n[45/2004; 5/2018]"
+   }
+  }
+ ]
+}

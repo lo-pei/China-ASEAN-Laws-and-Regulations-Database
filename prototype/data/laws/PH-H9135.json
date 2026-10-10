@@ -1,0 +1,84 @@
+{
+ "id": "PH-H9135",
+ "title": {
+  "zh": null,
+  "en": "An Act Granting Philippine Citizenship to Peter Leslie Wallace",
+  "orig": "An Act Granting Philippine Citizenship to Peter Leslie Wallace"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p130",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2015-09-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 10685",
+ "officialCode": null,
+ "topics": [
+  "administrative"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 795,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2015/ra_10685_2015.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2015/ra_10685_2015.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H9135-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Mr. Peter Leslie Wallace is hereby granted Philippine citizenship with all the rights, privileges and prerogatives, as well as the duties and obligations appurtenant thereto under the Constitution and the laws of the Republic of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H9135-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "After the taking by Mr. Peter Leslie Wallace of his Oath of Allegiance before an officer duly authorized for this purpose, and the registration of the same with the Bureau of Immigration, Mr. Peter Leslie Wallace shall enter upon the full enjoyment of his Philippine citizenship."
+   }
+  },
+  {
+   "id": "PH-H9135-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Upon registration of the Oath of Allegiance, the Bureau of Immigration shall forthwith issue Mr. Peter Leslie Wallace’s Certificate of Naturalization."
+   }
+  },
+  {
+   "id": "PH-H9135-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
+   }
+  }
+ ]
+}

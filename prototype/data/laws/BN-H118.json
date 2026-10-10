@@ -1,0 +1,52 @@
+{
+ "id": "BN-H118",
+ "title": {
+  "zh": "宪法财政程序令",
+  "en": null,
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p07",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "文莱官方发布渠道",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 585,
+ "source": {
+  "name": "文莱官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "文本未能可靠切分为条文（或原件为目录式排版），按整篇收录，未作改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-H118-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "原文标题：CONSTITUTION (FINANCIAL PROCEDURE) ORDER 官方来源 URL：https://www.agc.gov.bn/wp-content/uploads/2026/07/CONST.-III-2023-ED-CONSTITUTION-FINANCIAL-PROCEDURE-ORDER.pdf 颁布日期 / 生效日期 / 修订日期：— / — / 2023年汇编版 B.L.R.O. 1/2023 版本：Const III, 2023 consolidated edition 抓取日期：2026-10-03 原文语种：en（英语） 中文译名：宪法（财政程序）令英文译名：Constitution (Financial Procedure) Order 说明：本文件为文莱总检察署(AGC)官方「Laws of Brunei / BruLaw」数据库发布的合并汇编版(consolidated edition)权威原件(PDF)，逐字照录，未做任何改写、摘要或删节。\n校验值(SHA-256)：36b3ce093842d717554c4876f206880329addd9b35784ea3b792a2e9acbdff79 逐字法律正文见同名词 PDF 原件：文莱_宪法财政程序令_en.pdf 备注：宪法性文件第三部分；财政程序"
+   }
+  }
+ ]
+}

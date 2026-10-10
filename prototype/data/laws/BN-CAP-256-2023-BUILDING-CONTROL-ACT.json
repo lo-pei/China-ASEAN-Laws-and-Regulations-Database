@@ -1,0 +1,1165 @@
+{
+ "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT",
+ "title": {
+  "zh": null,
+  "en": "BUILDING CONTROL ACT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p11",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2023",
+ "effectiveDate": null,
+ "versionDate": "2023",
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": "CAP. 256",
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "An Act to make provisions concerning the law relating to buildings and"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 75,
+ "chars": 171597,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-256-2023-ED-BUILDING-CONTROL-ACT.pdf",
+ "fetchedAt": "2026-10-09",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-256-2023-ED-BUILDING-CONTROL-ACT.pdf》（109 页），本次切分 75 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Building Control Act."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "(1) In this Act, unless the context otherwise requires — “accredited checker” means a person who is registered as an accredited checker under section 20, whether acting on his own behalf or on behalf of an accredited checking organisation; “accredited checking organisation” means an accredited checking organisation registered as such under section 20; “amendment plans” means the plans showing any deviation from, or any amendment or addition to, any plan of building works approved by the Authority under section 5(3)(a); “analyst” means an analyst approved by the Authority; “Authority”, in relation to this Act or any Part or provision of this Act or regulations made thereunder, means any Authority appointed under section 3(1) to be responsible for the administration of this Act or that Part or provision or regulations made thereunder, as the case may be; “authorised officer” means any person authorised by the Authority “builder” means any person who undertakes, whether exclusively or in conjunction with any other business, to carry out any building works for his own account, or for or on behalf of another person (referred to in this definition as A), but does not include any person who contracts with a builder for the execution by that person of the whole or any part of any building works undertaken by the builder for or on behalf of A under a contract entered into by the builder with A; “builder’s licence” means a licence granted under Part 7 to a “building” means any permanent or temporary building or structure and includes —\n\n(a) a hut, shed or roofed enclosure;\n\n(b) a kiosk or stall, movable or otherwise;\n\n(c) an earth retaining or stabilising structure, whether permanent or temporary;\n\n(d) a dock, wharf or jetty;\n\n(e) a floating structure, not being a boat or vessel, constructed or to be constructed on a flotation system that —\n\n(i) is or is to be supported by water;\n\n(ii) is not intended for or useable in navigation; and\n\n(iii) is or is to be permanently moored;\n\n(f) a culvert, crossing, access road, bridge, underpass or\n\n(g) a sewage treatment plant, sewer, drain, swimming pool or any non-proprietary type of concrete tank for the storage of any solid, liquid or gaseous product; and\n\n(h) such other erection or structure (whether permanent or temporary) as the Minister may, by order published in the , declare to be a building; “building regulations” means any regulations made under “building works” means —\n\n(a) the erection, extension or demolition of a building;\n\n(b) the alteration, addition or repair of a building;\n\n(c) the provision, extension or alteration of any air-conditioning service or ventilating system in or in connection with a building;\n\n(d) site formation works (which includes earthworks such as any act of excavation, levelling, cutting and filling with any material, piling, the construction of foundations, or site clearance, on any land, or any other act of dealing with or disturbing any land) which may or may not be connected with or carried out for the purpose of paragraph (a), (b) or (c); and\n\n(e) structural works. “common property” has the same meaning as in the Land Code (Strata) Act (Chapter 189); “developer”, in relation to any building works, means the person for whom or on whose behalf the building works are carried out; “earth retaining structure” means any structure, structural system or other means used to maintain the shape of excavation during construction, earth filling or cutting; “exterior feature”, in relation to any building, means any of the following features that is permanent or temporary and is installed on, forms part of or projects outwards from the roof or exterior of\n\n(a) any air-conditioning unit, including any window air-conditioning unit and any condensing equipment of an air-conditioning unit;\n\n(b) any window, with or without movable parts;\n\n(c) any grille or shutter, with or without movable parts;\n\n(d) any tile, cladding, curtain wall, siding, plaster, bracket\n\n(e) any gutter, rainwater down-pipe, or part of the roof;\n\n(f) any awning or sun-shading device;\n\n(g) such other feature that is permanent or temporary and is installed on, forms part of or projects outwards from the roof or exterior of any building as the Minister may, by notification Gazette, declare to be an exterior feature for the purposes of this Act; “general building works” means any building works other than specialist building works; “geotechnical aspects”, in relation to any underground building\n\n(a) an analysis of the geological structure and earth materials of the site of the underground building works and its influence on the underground building works;\n\n(b) an analysis of the ground-water regime and its influence on the wall stability and integrity of the underground building works over time; and\n\n(c) such other applications of earth sciences to and engineering aspects of the underground building works as may “geotechnical engineer” means a professional engineer who is registered under the Architects, Professional Engineers and Quantity Surveyors Order, 2011 (S 33/2011) which includes a structural engineer in the specialised branch of geotechnical “immediate supervision”, in relation to any building works or part thereof, means personally and directly exercising oversight, control and inspection of the carrying out of the building works or “insignificant building works” means such building works as are prescribed under section 4(d); “key structural elements” means the geotechnical aspects, foundations, columns, beams, shear cores, structural walls, struts, ground anchors and such other parts of a building which are essential for its support and overall structural stability; “large building works” means such building works referred to in\n\n(b) and as are prescribed for the purposes of “major building works” means building works other than large building works and minor building works; “Minister” means the Minister of Development; “minor building works” means building works (not being underground building works) that are prescribed in the building regulations as building works the plans of which do not require a certification from an accredited checker for the purposes of “occupation permit” means a permit issued under section 16; “occupier”, in relation to any building, means the person in occupation of the building or having the charge, management or control thereof, either on his own account or as agent of another, but does not include any lodger within the building; “owner”, in relation to —\n\n(a) any premises or building, means the person for the time being receiving the rent of the premises or building, whether on his own account or as agent or trustee or as receiver, or who would receive the same if the premises or building were let to a tenant and includes a mortgagee in possession;\n\n(b) the common property of any subdivided building, includes the strata corporation having control of the building, or the person receiving any rent or charge for the maintenance of that common property; and\n\n(c) the common property of any building which is not subdivided, includes any person receiving any rent or charge for the maintenance and management of that common “person responsible”, in relation to an exterior feature of a\n\n(a) the owner of the building which the exterior feature is installed on, forms part of or projects outwards from, unless otherwise provided by paragraph (b), (c) or (d);\n\n(b) subject to paragraph (c), where the exterior feature is part of the common property of any other land (whether or not comprised in a strata title plan), the owner thereof, unless otherwise provided by paragraph (d);\n\n(c) where the exterior feature is a window, grille or shutter that is part of a principal unit, the owner of that principal unit; or\n\n(d) such other person as may be prescribed under section 29 as the person responsible for the exterior feature; “plans”, in relation to any building works —\n\n(a) includes drawings, details, diagrams, structural details and calculations showing or relating to the building works; and\n\n(b) if prepared in electronic form, includes the medium in which the plans of building works have been stored; and hereditaments of any tenure; “principal unit” has the same meaning as in the Land Code (Strata) Act (Chapter 189); “qualified person” means a person who is registered as —\n\n(a) an architect under the Architects, Professional Engineers and Quantity Surveyors Order, 2011 (S 33/2011) and has in force a practising certificate issued under section 25 of\n\n(b) a the Professional Engineers and Quantity Surveyors Order, 2011 (S 33/2011) and has in force a practising certificate issued under section 25 of that Order; “retrofit”, in relation to an exterior feature, means to modify or re-install the exterior feature as if installing the exterior feature for “short-lived materials” means any building materials which are, in the absence of special care, liable to rapid deterioration or are otherwise unsuitable for use in the construction of permanent “site supervisor” means a person appointed (whether alone or as a member of a team of site supervisors) under section 14 to be a site supervisor in respect of any small-scale or large building works; “small-scale building works” means such building works referred to in, and as are prescribed for the purposes of, section 10(1)(c); “specialist building works” means —\n\n(a) piling works comprising installation and testing of pre-cast reinforced concrete or pre-stressed concrete piles, steel piles, bored cast-in-place reinforced concrete piles, caissons and special pile types like micro-piles, barrettes piles and composite piles, embedded retaining wall piles like diaphragm walls, contiguousbored piles or secant piles;\n\n(b) ground support and stabilisation works, including installation and testing of ground anchors, soil nails, rock bolts, ground treatment like chemical grouting and jet-grouting, reinforced-earth, shotcreting and tunnel supports;\n\n(c) site investigation work comprising field investigations, exploratory drilling or coring, logging, sampling, coring, in-site plate-loading tests, pressure meter tests, penetration tests, vane shear tests, probing tests, permeability tests, geological mapping and geophysical surveys, and installation and monitoring of instruments measuring forces, deformation, displacements, pore and earth pressures, and ground-water\n\n(d) structural steelwork comprising —\n\n(i) fabrication of structural elements;\n\n(ii) erection work like site cutting, site welding and\n\n(iii) installation of steel supports for underground\n\n(e) pre-cast concrete work comprising fabrication of pre-cast structural elements;\n\n(f) in-site post-tensioning work comprising setting out of tendon profiles, laying of conduits, anchorages and bursting reinforcement, pulling or stressing of cables, pressure grouting\n\n(g) such other building works as the Minister may, by order Gazette, declare to be specialist building “structural elements” means those parts or elements of a building which resist forces and moments, and includes foundations, beams, columns, shear cores, structural walls, struts, ground anchors, slabs, trusses, staircases, load bearing walls and all other elements designed to resist forces and moments but does not include doors, windows and non-load bearing walls; “structural works” means works in relation to the structural elements of the building works; “temporary building” means —\n\n(a) any building or structure constructed of short-lived\n\n(b) any other building or structure permitted to be used by the Authority or such other authority appointed by the Minister for a period not exceeding 3 years or such other period as may be prescribed (if prescribed) in the building regulations, but does not include any bridge, any decking for a bridge, or any retaining structure; “temporary occupation licence” means a temporary licence given by the Government to occupy a specified portion of state land for certain purposes; “temporary occupation permit” means a temporary occupation permit granted under section 16(3); “unauthorised”, in relation to a building or building works, means any building erected, or any building works commenced or carried out, in contravention of any provision of this Act or the building “underground building works” means any of the following building works, the carrying out of which starts on or after the date to be specified by the Minister by order published in the —\n\n(a) any excavation or other building works to make —\n\n(i) a tunnel with a diameter, width or height of more\n\n(ii) a caisson, cofferdam, trench, ditch, shaft or well with a depth of more than 6 metres;\n\n(b) any building works for constructing, altering or repairing any earth retaining structure in or for a trench, ditch, shaft or well with a depth or height of more than 6 metres; or\n\n(c) such type of foundation works as the Minister may prescribe in the building regulations for buildings of 30 or “value”, in relation to any building works, means —\n\n(a) for any underground building works, the total cost to be expended in carrying out those building works estimated at the time of, and contained in, the application under section 5 for approval of the plans of those building works; or\n\n(b) for any other building works, the total cost to be expended in carrying out the building works (including the foundations, basements, structural frame, finishes and the installation of building services) estimated at the time of, and contained in, the application under section 5 for approval of the plans of the building works; “ventilating system” means a mechanical system for introducing or exhausting air.\n\n(2) In this Act, unless the context otherwise requires, any reference to a building includes a reference to a part of a building.\n\n(3) The Minister may, by notification published in the Gazette, vary any of the following referred to in the definition of “underground building works” in subsection (1) —\n\n(a) the diameter, width or height of any tunnel;\n\n(b) the depth of any caisson, cofferdam, trench, ditch, shaft\n\n(c) the depth or height of any earth retaining structure in or for a trench, ditch, shaft or well; or\n\n(d) the number of storeys in a building.\n\n(4) Any reference in this Act to a person being an associate of a developer or builder of building works shall be —\n\n(a) any partner of the developer or builder;\n\n(b) if the developer or builder is a body corporate, a director, secretary or similar executive officer of the body corporate;\n\n(c) any body corporate of which the developer or builder is a director, secretary or similar executive officer;\n\n(d) where the developer or builder is a trustee, a beneficiary or an object of the discretionary trust;\n\n(e) any employer or employee of the developer or builder.\n\n(5) Where —\n\n(a) by or under any provision of this Act or any subsidiary legislation made thereunder an act or thing is required or directed to be done within a particular period or before a particular time;\n\n(b) failure to do that act or thing within the period or before the time referred to in paragraph (a) constitutes an offence; and\n\n(c) that act or thing is not done within the period or before the time referred to in paragraph (a), the obligation to do that act or thing shall continue, notwithstanding that that period has expired or that time has passed, until that act or thing is done; and if the failure to do that act or thing within the period or before the time referred to in paragraph (a) is an offence, a person is guilty of a separate offence in respect of each day (including the day of a conviction for any such offence or any later day) or part thereof during which the person continues to refuse or fail to comply with that requirement or direction. Authority and authorised officers"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "(1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, by notification published in the Gazette, appoint such person or persons as he thinks fit to be the Authority responsible for the administration of this Act, either generally or for any particular Part or provision of this Act or for any particular regulations made under this Act, and may in the notification specify the extent of and manner in which that responsibility is to be exercised.\n\n(2) Subject to the directions of the Authority in writing, the powers conferred and the duties imposed on the Authority under this Act and any regulations made thereunder may be exercised and carried out by —\n\n(a) any public officer; and\n\n(b) such other public authority constituted by any written law as the Minister may approve for the purpose, generally or specially authorised by name or office by the Authority.\n\nCONTROL OF BUILDING WORKS Division 1 — Application Application to building works"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Division 2 — Building plan approvals and permits"
+   },
+   "text": {
+    "en": "Except as otherwise expressly provided, this Part shall apply to all building works except —\n\n(a) building works for a temporary building or the occupation of any such building;\n\n(b) retrofitting of exterior features referred to in Part 3;\n\n(c) building works that are exempted under section 53, or are in relation to a building that is so exempted; and\n\n(d) building works that are prescribed in the building regulations to be insignificant building works."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Application for approval of plans of building works"
+   },
+   "text": {
+    "en": "(1) An application for approval of the plans of any building works shall be made to the Authority by the qualified person appointed by the developer of those building works.\n\n(2) An application for approval of the plans of any building works shall be accompanied by —\n\n(a) the application fee prescribed (if any);\n\n(b) the names and particulars of —\n\n(i) the appropriate qualified person whom the developer has appointed to prepare the plans of those building works; and\n\n(ii) where the building works comprise wholly or partly of any underground building works, the geotechnical engineer whom the developer of the building works has appointed to prepare the plans relating to the geotechnical aspects of those underground building\n\n(c) the plans of the building works prepared in accordance with the building regulations;\n\n(d) in the case of major building works, a certificate from the following accredited checkers —\n\n(i) a certificate by an accredited checker stating that he has checked the plans relating to those building works and that, to the best of his knowledge and belief, the plans so checked do not show any inadequacy in the key structural elements of the building to be erected or affected by those building works; and\n\n(ii) where the building works comprise wholly or partly of any underground building works, another certificate by an accredited checker (who may or may not be the same accredited checker referred to in sub-paragraph (i)) stating that the accredited checker has checked the geotechnical aspects of those underground building works and that, to the best of his knowledge and belief, there is no inadequacy in the geotechnical aspects relating to those underground building works;\n\n(e) in the case of such major building works as the Authority may specify, a letter of endorsement from the qualified person (being a professional engineer) appointed by the qualified person (being an architect), stating that all plans relating to structural elements of the building works have been prepared by a member or an employee of his organisation who is also a professional engineer registered under the Architects, Professional Engineers and Quantity Surveyors Order, 2011 (S 33/2011);\n\n(f) in the case of such major building works as specified by the Authority under paragraph (e), where such building works comprise wholly or partly of any underground building works, another letter of endorsement by a professional engineer registered under the and Order, 2011 (S 33/2011) and has in force a practising certificate issued under section 25 of that Order, (who may or may not be the same professional engineer appointed by the qualified person) stating that he or a member or an employee of his organisation has checked the geotechnical aspect of those underground building works and that, to the best of his knowledge and belief, there is no inadequacy in the geotechnical aspects relating to those underground building works;\n\n(g) the certificate (in the form prescribed) signed by the qualified person appointed to prepare the plans of those building works, certifying that he prepared those plans; and\n\n(h) such other documents as may be prescribed in the building\n\n(3) Upon receiving an application under subsection (1) for the approval of plans of any building works, the Authority shall consider the application and may —\n\n(a) approve any one or more of the plans submitted to the Authority, with or without conditions;\n\n(b) direct the qualified person, being an architect or a professional engineer (in writing) to comply with such requirements as the Authority may specify for the purpose of ensuring that all or any of the plans submitted to the Authority comply with this Act and the building regulations and to re-submit those plans for the Authority’s approval, within such period as may be specified in the direction; or\n\n(c) disapprove any one or more of the plans submitted to the\n\n(4) If the direction given by the Authority under subsection (3)(b) is not complied with within the period specified in that direction, or such further period as may be extended by the Authority, the application for approval of those plans shall, at the end of that period, be deemed to be disapproved by the Authority.\n\n(5) The Authority may, without checking the plans and design calculations of any building works, approve those plans on the basis of —\n\n(a) where the plans relate to any major building works or underground building works, the certificate of an accredited checker,\n\n(i) the accredited checker has checked the plans relating to the major building works and that, to the best of his knowledge and belief, the plans so checked do not show any inadequacy in the key structural elements of the building to be erected or affected by those major building works; and\n\n(ii) where the building works comprise wholly or partly of any underground building works, the accredited checker has checked the geotechnical aspects of the underground building works and that, to the best of his knowledge and belief, there is no inadequacy in the geotechnical aspects relating to those underground building works; or\n\n(b) in any other case, the certificate (in the form prescribed) signed by the qualified person appointed to prepare the plans of those building works, certifying that he prepared those plans.\n\n(6) Notwithstanding subsection (5), the Authority may, in its discretion, carry out random checks on any of the detailed structural plans, design calculations or geotechnical aspects of any building works before approving those plans under that subsection."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Departure or deviation from approved building plans"
+   },
+   "text": {
+    "en": "(1) Where the plans of any building works or proposed building works have been approved by the Authority under section 5(3)(a) and the qualified person, being an architect, of the building works intends to depart or deviate from the plans approved, that qualified person shall apply to the Authority for its approval of the amended plans showing the proposed departure or deviation.\n\n(2) An application under subsection (1) shall be accompanied by —\n\n(a) the amended plans of the building works prepared in accordance with the building regulations by the appropriate qualified person referred to in section 5(2)(b)(i) or (ii) or both, as the case may be;\n\n(b) in the case of major building works, a certificate from the following accredited checkers —\n\n(i) a certificate by an accredited checker stating that he has checked the amended plans relating to those building works and that, to the best of his knowledge and belief, the amended plans so checked do not show any inadequacy in the key structural elements of the building to be erected or affected by those building works; and\n\n(ii) where the building works comprise wholly or partly of any underground building works, a certificate by an accredited checker (who may or may not be the same accredited checker referred to in sub-paragraph (i)) stating that the accredited checker has checked the amended geotechnical aspects of the underground building works and that, to the best of his knowledge and belief, there is no inadequacy in the geotechnical aspects relating to those underground building works; and\n\n(c) in the case of such major building works as the Authority may specify, a letter of endorsement from the qualified person (being a professional engineer) appointed by the qualified person (being an architect), stating that all plans relating to structural elements of the building works have been prepared by a member or an employee of his organisation who is also a professional engineer registered under the and Order, 2011 (S 33/2011);\n\n(d) in the case of such major building works as specified by the Authority under paragraph (c), where such building works comprise wholly or partly of any underground building works, another letter of endorsement by a professional engineer registered under the and Order, 2011 (S 33/2011) and has in force a practising certificate issued under section 25 of that Order, (who may or may not be the same professional engineer appointed by the qualified person) stating that he or a member or an employee of his organisation has checked the geotechnical aspect of those underground building works and that, to the best of his knowledge and belief, there is no inadequacy in the geotechnical aspects relating to those underground building works;\n\n(e) the certificate (in the form prescribed) signed by the qualified person appointed to prepare the amended plans of those building works, certifying that he prepared those amended plans.\n\n(3) The first approval granted under section 5 of any plans of building works shall lapse and be superseded to the extent that the amended plans relating to those same building works are approved under this section (whether or not the approval also relates to other building works)."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Lapsing or revocation of building plans approval"
+   },
+   "text": {
+    "en": "(1) Any approval granted under section 5 or 6 in respect of any building works shall automatically lapse —\n\n(a) when any written permission given that has been granted under any written law for the time being in force in respect of any development of land involving the building works lapses;\n\n(b) if no such written consent has been granted in respect of those building works, at the end of a continuous period of 6 months during which the building works are suspended; or\n\n(c) if the building works do not commence within the period prescribed in the building regulations.\n\n(2) The Authority may revoke any approval granted in respect of any building works under section 5 or 6 if the Authority is satisfied that any information given in the application for approval or any document submitted to the Authority in connection with the application for approval is false in a material particular.\n\n(3) Where the Authority has under subsection (2) revoked any approval granted under section 5 or 6 in respect of any plans of building works, any permit, occupation permit and temporary occupation permit granted in respect of those building works shall also automatically lapse."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Permit to carry out building works"
+   },
+   "text": {
+    "en": "(1) Subject to this Act, an application for a permit to carry out any building works may be made to the Authority by the qualified person.\n\n(2) An application for a permit to carry out any building works shall be accompanied by —\n\n(a) a notification, signed by the qualified person of the building works, stating the date on which those building works are to\n\n(b) the names and particulars of —\n\n(i) the qualified person appointed under section 12(1) to supervise the carrying out of those building works; and\n\n(ii) where the building works comprise wholly or partly of any underground building works, the geotechnical engineer who is appointed under section 12 to supervise the geotechnical aspects of those underground building\n\n(c) the following documents signed by the builder —\n\n(i) an acceptance of his appointment in respect of the building works; and\n\n(ii) an undertaking of responsibility for strict compliance with this Act and the building regulations;\n\n(d) the following documents signed by the qualified person or persons referred to in paragraph (b) —\n\n(i) a confirmation of his appointment in respect of the building works; and\n\n(ii) a notice of the names and particulars of the site supervisor, or all members of the team of site supervisors, he has appointed in respect of the building works in accordance with section 14(1) or (2); and\n\n(e) such other documents as the Authority may require.\n\n(3) The Authority may, on an application made under subsection (1), grant a permit to carry out any building works to the qualified person, subject to such conditions as the Authority thinks fit to impose.\n\n(4) Upon the grant of a permit under subsection (3), the qualified person shall inform the developer and the builder of the grant.\n\n(5) The Authority may revoke a permit to carry out any building works, and if the building works has commenced, it is suspended for a continuous period of more than 3 months.\n\n(6) Any permit to carry out building works granted under this section is transferable, if the Authority is notified of and approved the changes in subsection (2)(c), (d) and (e). Modification or waiver of building regulations"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Division 3 — Building works"
+   },
+   "text": {
+    "en": "(1) The Authority may, on receipt of an application in relation to any particular building works, advertisements, signboards or skysigns, modify or waive, subject to such conditions as the Authority may impose, any of the requirements of the building regulations.\n\n(2) Every application under subsection (1) shall —\n\n(a) be made to the Authority by or on behalf of the developer, or the qualified person, of the building works, advertisements, signboards\n\n(b) be in such form as may be required by the Authority;\n\n(c) state the nature and extent of and the reasons for the proposed modification or waiver of those requirements; and\n\n(d) be accompanied by such plans and other particulars as may be prescribed in the building regulations."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Supervision of building works"
+   },
+   "text": {
+    "en": "(1) Except as otherwise provided in this Act or the building\n\n(a) all building works shall be carried out under the supervision of a qualified person;\n\n(b) the structural elements of all large building works as are prescribed in the building regulations shall be carried out under the full-time supervision of a site supervisor, or a team of site supervisors, working under an appropriate qualified person’s control and direction; and\n\n(c) concreting, piling, pre-stressing, tightening of high-friction grip bolts or other critical structural works of all small-scale building works as are prescribed in the building regulations shall be carried out under the immediate supervision of —\n\n(i) a qualified person; or\n\n(ii) a site supervisor, or a team of site supervisors, working under an appropriate qualified person’s control and\n\n(2) Except as otherwise provided in this Act or the building regulations, no person shall commence or carry out the geotechnical aspects of any underground building works except —\n\n(a) under the supervision of the qualified person appointed under\n\n(d)(ii); or\n\n(b) under the full-time supervision of a site supervisor or a team of site supervisors appointed under section 14(1) by the qualified person in paragraph (a) and working under his control and direction.\n\n(3) Any person who contravenes subsection (1) or (2) is guilty of an offence and liable on conviction —\n\n(a) to a fine not exceeding $200,000, imprisonment for a term not exceeding 2 years or both; and\n\n(b) in respect of a continuing contravention, to an additional fine not exceeding $1,000 for each day or part thereof the contravention and if the contravention continues after the conviction, the person is guilty of a further offence and liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part thereof during which the contravention continues after conviction. Tests of and in connection with building works"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Division 4 — Duties of developers, qualified persons, site supervisors"
+   },
+   "text": {
+    "en": "(1) Subject to subsection (3), the qualified person appointed to supervise the carrying out of any building works shall carry out or cause to be carried out such tests of or in connection with the building works as may be prescribed in the building regulations or required by the Authority.\n\n(2) Any tests prescribed, or required to be carried out, under subsection (1) shall be carried out in such manner and at such places and times as may be prescribed in the building regulations.\n\n(3) The Authority may, on an application in relation to any particular building works, give a direction to waive the operation of subsection (1) in relation to those building works if the Authority is satisfied that the operation of that subsection in relation to that particular case would be unreasonable.\n\n(4) An application under subsection (3) shall be accompanied by such particulars as may be prescribed in the building regulations.\n\n(5) If a qualified person fails to comply with subsection (1), the Authority may, by order in writing served on the developer, qualified person, every site supervisor and builder of the building works, require the building works to cease until the order is withdrawn.\n\n(6) Notwithstanding the right of the Authority to exercise its power under subsection (5), any qualified person who fails to comply with any requirement under subsection (1) is guilty of an offence and liable on\n\n(a) to a fine not exceeding $50,000, imprisonment for a term not exceeding one year or both; and\n\n(b) in respect of a continuing contravention, to an additional fine not exceeding $1,000 for each day or part thereof the qualified person fails to comply with the requirement, and if the failure to comply continues after the conviction, the qualified person is guilty of a further offence and liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part thereof during which the failure to comply continues after conviction.\n\n(7) If any person on whom an order made under subsection (5) is served fails to comply with the order, he is guilty of an offence and liable on\n\n(a) to a fine not exceeding $50,000, imprisonment for a term not exceeding one year or both; and\n\n(b) in respect of a continuing contravention, to an additional fine not exceeding $500 for each day or part thereof the person fails to comply with the requirement, and if the failure to comply continues after the conviction, the person is guilty of a further offence and liable on conviction of this further offence to a further fine not exceeding $1,000 for every day or part thereof during which the failure to comply continues after conviction."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Duties of developers"
+   },
+   "text": {
+    "en": "(1) Subject to this Act, every developer of building works shall\n\n(a) a qualified person to prepare the plans of the building works in accordance with this Act;\n\n(b) a qualified person to supervise the carrying out of those\n\n(c) a builder to carry out those building works;\n\n(d) where the building works comprise wholly or partly of any underground building works —\n\n(i) a qualified person who is a geotechnical engineer to prepare the plans relating to the geotechnical aspects of the building works, who may or may not be the same qualified person referred to in paragraph (a); and\n\n(ii) a qualified person who is a geotechnical engineer to supervise the geotechnical aspects of those building works, who may or may not be the same qualified person referred to in paragraph (b);\n\n(e) in respect of the detailed structural plans and design calculations of major building works —\n\n(i) an accredited checker who is either a director, partner, member or an employee of an accredited checking organisation, if the value of the building works exceeds the prescribed limit in the building regulations; or\n\n(ii) an accredited checker (whether or not a director, partner, member or an employee of an accredited checking organisation), if the value of the building works does not the to in sub-paragraph (i); and\n\n(f) where the building works comprise wholly or partly of any underground building works —\n\n(i) an accredited checker in respect of the geotechnical aspects of those building works; and\n\n(ii) in addition to appointing a builder under paragraph (c), a builder to monitor instruments measuring pore pressures for saturated and unsaturated levels, ground-water levels, ground movements or building movements and to measure forces, deformations or displacements.\n\n(2) If any qualified person, builder or accredited checker appointed under subsection (1) in respect of building works becomes unwilling to act or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his respective duties under this Act, the developer\n\n(a) without delay appoint, under subsection (1), another qualified person, builder or accredited checker, as the case may be, in his place; and\n\n(b) within 7 days thereafter, notify the Authority of that substitute appointment.\n\n(3) The developer of any building works shall notify the Authority of any contravention of this Act or the building regulations relating to those building works of which the developer knows or ought reasonably to know.\n\n(4) Any developer of building works who, without reasonable excuse, fails to comply with subsection (2)(b) is guilty of an offence.\n\n(5) Any developer who contravenes subsection (3) is guilty of an offence and liable on conviction to a fine not exceeding $20,000, imprisonment for a term not exceeding one year or both.\n\n(6) It shall be a defence in any prosecution for a contravention of subsection (3) for the person charged to prove to the satisfaction of the court that he did not know and could not reasonably have discovered the contravention referred to in the charge."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Duties of qualified persons"
+   },
+   "text": {
+    "en": "(1) Every qualified person who is appointed under section 12(1) to prepare the plans of any building works shall —\n\n(a) take all reasonable steps and exercise due diligence to ensure that the building works are designed in accordance with —\n\n(i) this Act; and\n\n(ii) subject to section 9, the requirements prescribed in the building regulations;\n\n(b) notify the Authority of any contravention of this Act or the building regulations in relation to those building works of which the qualified person knows or ought reasonably to know; and\n\n(c) supply a copy of every plan of the building works approved by the Authority to —\n\n(i) the site supervisor or the team of site supervisors, as the case may be, appointed under section 14(1);\n\n(ii) the builder of those building works; and\n\n(iii) the appointed qualified person under section 12(1) to supervise those building works.\n\n(2) In subsection (1)(a) —\n\n(a) the plans of any building works that are prepared in accordance with the acceptable solutions as set out in any Approved Document issued by the Authority under the building regulations in respect of such building works are deemed to comply with the objectives and performance requirements that are prescribed by the building regulations in respect of such building works; and\n\n(b) where the qualified person appointed to prepare the plans of any building works intends to utilise any alternative solution (that is to say, a solution that entails the use of any design, material or construction method that differs completely or partially from those in the acceptable solution), he shall —\n\n(i) take all reasonable steps and exercise due diligence to ensure that the alternative solution satisfies the objectives and performance requirements that are prescribed by the building regulations in respect of such building works; and\n\n(ii) obtain the certification of another qualified person, being a specialist in the application of such an alternative solution, that the alternative solution satisfies the objectives and performance requirements that are prescribed by the building regulations in respect of such\n\n(3) No qualified person appointed shall issue any certification for the purposes of subsection (2)(b)(ii) unless he has taken all reasonable steps and exercised due diligence to ensure that the alternative solution in respect of which his certification is being sought satisfies the objectives and performance requirements that are prescribed by the building regulations in respect of the building works for which the alternative solution is to be applied.\n\n(4) Every qualified person who is appointed under section 12(1) to supervise the carrying out of any building works, or the geotechnical aspects of any underground building works, shall —\n\n(a) take all reasonable steps and exercise due diligence in supervising and inspecting the building works or underground building works, as the case may be, to ensure that those building works are being carried out in accordance with —\n\n(i) this Act;\n\n(ii) subject to section 9, the building regulations;\n\n(iii) the relevant plans approved by the Authority; and\n\n(iv) any conditions imposed by the Authority;\n\n(b) in the absence of a site supervisor, take all reasonable steps and exercise due diligence in giving immediate supervision to the carrying out of concreting, piling, pre-stressing, tightening of high-friction grip bolts or other critical structural works of the building works to ensure that such critical structural works of the building works are being carried out in accordance with —\n\n(i) this Act;\n\n(ii) subject to section 9, the building regulations;\n\n(iii) the relevant plans approved by the Authority; and\n\n(iv) any conditions imposed by the Authority;\n\n(c) notify the Authority of any contravention of this Act or the building regulations in relation to those building works of which the qualified person knows or ought reasonably to know;\n\n(d) keep and maintain at the premises on which building works are carried out such documents, books and records as may be prescribed in the building regulations;\n\n(e) submit to the Authority at the prescribed times such reports and certificates as may be prescribed in the building regulations; and\n\n(f) notify the Authority if the building works have been suspended for a period of more than 3 months.\n\n(5) If any qualified person who is appointed under section 12(1) —\n\n(a) to prepare the plans of any building works; or\n\n(b) to supervise the carrying out of any building works, or the geotechnical aspects of any underground building works, becomes unwilling or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his duties under this Act, the qualified person shall, within 14 days of his ceasing to carry out his duties, notify the Authority and the builder of those building works of that fact.\n\n(6) If any site supervisor appointed under section 14(1) in respect of any building works becomes unwilling or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his duties under section 14(5), the qualified person appointed to supervise the carrying out of the building works shall —\n\n(a) appoint another site supervisor in his place; and\n\n(b) within 7 days thereafter, notify the Authority of that substitute appointment.\n\n(7) A qualified person who is appointed under section 12(1) to supervise the carrying out of any building works, or the geotechnical aspects of any underground building works, shall not supervise —\n\n(a) any works relating to the structural elements of any major building works; or\n\n(b) the geotechnical aspects of the underground building works, if he, or any nominee of his, is a partner, an officer or an employee of —\n\n(i) the developer of those building works;\n\n(ii) the builder of those building works; or\n\n(iii) an associate of the developer or builder referred to in paragraph (i) or (ii).\n\n(8) If any qualified person appointed under section 12(1) to prepare the plans of any building works contravenes subsection (1)(a), (2)(b) or (3), he is guilty of an offence and liable on conviction —\n\n(a) to a fine not exceeding $200,000, imprisonment for a term not exceeding 2 years or both; and\n\n(b) in respect of a continuing contravention, to an additional fine not exceeding $1,000 for each day or part thereof the qualified person fails to comply with the requirement, and if the contravention continues after the conviction, the qualified person is guilty of a further offence and liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part thereof during which the contravention continues after conviction.\n\n(9) If any qualified person appointed under section 12(1) contravenes subsection (4)(a) or (b), he is guilty of an offence and liable on conviction —\n\n(a) to a fine not exceeding $100,000, imprisonment for a term not exceeding 2 years or both; and\n\n(b) in respect of a continuing contravention, to an additional fine not exceeding $1,000 for each day or part thereof the qualified person fails to comply with the requirement, and if the contravention continues after the conviction, the qualified person is guilty of a further offence and liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part thereof during which the contravention continues after conviction.\n\n(10) If —\n\n(a) any qualified person appointed under section 12(1) to prepare the plans of any building works contravenes subsection (1)(b); or\n\n(b) any qualified person appointed under section 12(1) contravenes subsection (4)(c), (d) or (e) or (7), the qualified person is guilty of an offence and liable on conviction —\n\n(i) to a fine not exceeding $20,000, imprisonment for a term not exceeding one year or both; and\n\n(ii) in respect of a continuing contravention, to an additional fine not exceeding $1,000 for each day or part thereof the qualified person contravenes subsection (1)(b) or (4)(c), (d) or (e), as the case may be, and if the contravention continues after the conviction, the qualified person is guilty of a further offence and liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part thereof during which the contravention continues after conviction.\n\n(11) If —\n\n(a) any qualified person appointed under section 12(1) to prepare the plans of any building works contravenes subsection (5); or\n\n(b) any qualified person appointed under section 12(1) contravenes subsection (4)(f) or (5), he is guilty of an offence.\n\n(12) It shall be a defence in any prosecution for a contravention of\n\n(b) or (4)(c) for the person charged to prove to the satisfaction of the court that he did not know and could not reasonably have discovered the contravention referred to in the charge."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Duties of site supervisors"
+   },
+   "text": {
+    "en": "(1) The qualified person appointed under section 12(1) to supervise the carrying out of any large building works shall appoint the following site supervisors in respect of the structural elements of the large building\n\n(a) a team of site supervisors comprising not less than such number of persons as may be prescribed in relation to the value of those large building works; or\n\n(b) at least one site supervisor, in any other case.\n\n(2) The qualified person appointed under section 12(1) to supervise the carrying out of any small-scale building works shall appoint at least one site supervisor, in respect of the critical structural elements of the small-scale\n\n(3) No person shall be appointed under this section as a site supervisor in respect of any building works for the purposes of this Act\n\n(a) he possesses the initial practical experience and qualifications prescribed; and\n\n(b) he remains accredited with the Authority or a prescribed\n\n(4) No site supervisor shall supervise any structural works of any major building works if he, or any nominee of his, is a partner, an officer or\n\n(a) the developer or builder of those building works; or\n\n(b) any associate of the developer or builder of those building\n\n(5) Every site supervisor appointed under this section in respect of any building works shall take all reasonable steps and exercise due diligence in giving —\n\n(a) in the case of large building works, full-time supervision to the carrying out of the structural elements of the building works; and\n\n(b) in the case of small-scale building works, immediate supervision to the carrying out of the critical structural elements of the to ensure that the structural elements or critical structural elements, as the case may be, of the building works in question are carried out in accordance with the plans of the building works supplied to him in accordance with section 13(1)(c) by a qualified person, and with any conditions imposed by\n\n(6) If a site supervisor appointed in respect of any building works becomes unwilling or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his duties under subsection (5), the site supervisor shall, within 7 days of his inability to carry out such duties, notify the Authority of that fact.\n\n(7) Any site supervisor who contravenes subsection (4) is guilty of an offence and liable on conviction to a fine not exceeding $20,000, imprisonment for a term not exceeding 2 years or both.\n\n(8) Any site supervisor who contravenes subsection (5) is guilty of an offence and liable on conviction —\n\n(a) to a fine not exceeding $20,000, imprisonment for a term not exceeding one year or both; and\n\n(b) in respect of a continuing contravention, to an additional fine not exceeding $1,000 for each day or part thereof the site supervisor fails to comply with the requirement, and if the contravention continues after the conviction, the site supervisor is guilty of a further offence and liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part thereof during which the contravention continues after conviction.\n\n(9) Any site supervisor who, without reasonable excuse, contravenes subsection (6) is guilty of an offence. Duties of builders"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Division 5 — Building occupancy"
+   },
+   "text": {
+    "en": "(1) A builder undertaking any building works, specialist building works or both, as the case may be, shall —\n\n(a) ensure that the building works, specialist building works or both are, as the case may be, carried out in accordance with —\n\n(i) this Act;\n\n(ii) subject to section 9, the building regulations;\n\n(iii) the relevant plans approved by the Authority and supplied to him by a qualified person under section 13(1)(c); and\n\n(iv) any conditions imposed by the Authority in accordance with this Act and, subject to section 9, the building\n\n(b) notify the Authority of any contravention of this Act or the building regulations relating to those building works of which the builder knows or ought reasonably to know;\n\n(c) have an adequate number of construction supervisors working under his direction to assist the builder to ensure that\n\n(a) is complied with;\n\n(d) within 7 days of the completion of the building works, certify that the new building has been erected or the building works have been carried out in accordance with this Act and, subject to section 9, the building regulations and deliver that certificate to the Authority; and\n\n(e) comply with such other duties as may be prescribed in the building regulations.\n\n(2) A builder who is appointed by the developer under\n\n(f)(ii) in respect of any building works shall not carry out any work monitoring instruments measuring pore pressures for saturated and unsaturated levels, ground-water levels, ground movements or building movements and to measure forces, deformations or displacements in connection with those building works if he, or any nominee of his, is a partner, an officer or an employee of —\n\n(a) the developer or builder of those building works; or\n\n(b) any associate of the developer or builder of those building\n\n(3) If any builder appointed under this section or section 12(1) in respect of building works becomes unwilling to act or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his duties under subsection (1), the builder, shall, within 14 days of his ceasing to carry out his duties, notify the Authority of that fact.\n\n(4) If any qualified person who is appointed under section 12(1) —\n\n(a) to prepare the plans of any building works; or\n\n(b) to supervise any building works, becomes unwilling or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his duties under this Act, the builder of those building works shall cease or shall not commence carrying out the building works until the developer appoints another qualified person in respect of those building works.\n\n(5) Any builder who contravenes subsection (1)(a) or (2) is guilty of an offence and liable on conviction to a fine not exceeding $200,000, imprisonment for a term not exceeding 2 years or both.\n\n(6) If a builder contravenes subsection (1)(b), he is guilty of an offence and liable on conviction —\n\n(a) to a fine not exceeding $20,000, imprisonment for a term not exceeding one year or both; and\n\n(b) in respect of a continuing contravention, to an additional fine not exceeding $1,000 for each day or part thereof the builder contravenes subsection (1)(b), and if the contravention continues after the conviction, the builder is guilty of a further offence and liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part thereof during which the contravention continues after conviction.\n\n(7) It shall be a defence in any prosecution for a contravention of\n\n(b) for the builder charged to prove to the satisfaction of the court that he did not know nor could reasonably have discovered the contravention referred to in the charge.\n\n(8) If a reasonable excuse, contravenes\n\n(c), (d) or (e) or (3), he is guilty of an offence.\n\n(9) Any builder who contravenes subsection (4) is guilty of an offence and liable on conviction —\n\n(a) to a fine not exceeding $200,000, imprisonment for a term not exceeding 2 years or both; and\n\n(b) in respect of a continuing contravention, to an additional fine not exceeding $1,000 for each day or part thereof the contravention and if the contravention continues after the conviction, the builder is guilty of a further offence and liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part thereof during which the contravention continues after conviction. Occupation of buildings"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Division 6 — Accredited checkers"
+   },
+   "text": {
+    "en": "(1) (a) Except as otherwise provided in this Act, no person shall occupy, permit or cause to be occupied, any building or any part thereof where any building works have been carried out unless the Authority has issued an occupation permit in respect of that building or that part of the building.\n\n(b) Subject to paragraph (a), an occupation permit shall only be granted if the building has satisfied the necessary conditions set out in the building regulations.\n\n(2) Nothing in subsection (1) shall prohibit —\n\n(a) the occupation by any person of any building or part thereof for the sole purpose of preventing any damage to the building or part thereof or any theft of any property therein; or\n\n(b) the occupation by any person of any building in respect of which a temporary occupation permit has been granted.\n\n(3) The Authority may, on an application in the prescribed manner in relation to any building, grant a temporary occupation permit in respect of the building subject to such written directions as the Authority may specify and, in particular, those written directions may —\n\n(a) limit the period for which the temporary occupation permit is\n\n(b) require such work or alteration to the building to be carried out as may be specified to the satisfaction of the Authority; and\n\n(c) provide for the completion of the work or alteration before the expiration of a specified period.\n\n(4) A temporary occupation permit shall only be prima facie evidence that a building is suitable for occupation and is and shall not be taken to be evidence of compliance with this Act, the building regulations or any other\n\n(5) The Authority may amend, suspend or, in the event of failure to comply with any written direction issued under subsection (3), revoke any temporary occupation permit.\n\n(6) Any person who contravenes subsection (1) or fails to comply with any written direction issued under subsection (3) is guilty of an offence and liable on conviction —\n\n(a) to a fine not exceeding $20,000, imprisonment for a term not exceeding 6 months or both; and\n\n(b) in respect of a continuing contravention or failure to comply, to an additional fine not exceeding $1,000 for each day or part thereof the contravention or failure to comply continues, and if the contravention or failure to comply continues after the conviction, the person is guilty of a further offence and liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part thereof during which the contravention or failure to comply continues after Unlawful undertaking work as accredited checker etc."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "text": {
+    "en": "(1) Any person who undertakes work which is required by this Act or the building regulations to be performed by an accredited checker when he is not an accredited checker under this Division or when his registration is suspended is guilty of an offence.\n\n(2) Any person who undertakes any work on behalf of an organisation, being work which is required by this Act or the building regulations to be undertaken by an accredited checker who is either a director, partner, member or an employee of an accredited checking organisation when —\n\n(a) it is not registered as an accredited checking organisation under this Division; or\n\n(b) its registration is suspended, is guilty of an offence.\n\n(3) If an accredited checker undertakes work on his own behalf as an accredited checker in relation to building works, the value of which is more than —\n\n(a) $10,000,000, if no other sum is prescribed under\n\n(b); or\n\n(b) such sum as the Minister may, by notification published in the Gazette, specify, the accredited checker is guilty of an offence.\n\n(4) If an organisation which is not registered as an accredited checking organisation under this Division advertises or holds itself out or describes itself in any way to be an accredited checking organisation, that organisation is guilty of an offence. Register of accredited checkers etc."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "text": {
+    "en": "(1) The Authority shall keep and maintain the following registers —\n\n(a) a of section 20(2); and\n\n(b) a register of accredited checking organisations registered under section 20(2), in which shall be entered the names and prescribed particulars of the persons and organisations so registered.\n\n(2) The absence of the name of any person or organisation from the registers kept under subsection (1) shall be prima facie evidence that —\n\n(a) in the case of the register of accredited checkers, the person is not so registered or his registration has been suspended or cancelled; and\n\n(b) in the case of the register of accredited checking organisations, the organisation is not so registered or its registration has been suspended or cancelled.\n\n(3) The registers referred to in subsection (1) shall be kept and maintained at the office of the Authority and shall be available for inspection by any person without charge during office hours."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Eligibility to become accredited checker or accredited checking"
+   },
+   "text": {
+    "en": "(1) Subject to this Act, a person who applies to be registered, or to renew his registration, as an accredited checker, is eligible to be so registered or have his registration so renewed if —\n\n(a) he has paid the prescribed fee for such registration or renewal;\n\n(b) he satisfies the Authority that he has the qualifications and the practical experience (whether within Brunei Darussalam or elsewhere) prescribed for an accredited checker; and\n\n(c) he satisfies such other requirements as may be prescribed for such registration or renewal.\n\n(2) Notwithstanding subsection (1), the Authority may refuse to register, or to renew the registration of, a person as an accredited checker if, in the opinion of the Authority —\n\n(a) the person is not of good character and reputation; or\n\n(b) there are reasonable grounds for believing that the person will not carry out the duties of an accredited checker in accordance with this Act or the building regulations.\n\n(3) Subject to this Act, a partnership or corporation which applies to be registered, or to renew its registration, as an accredited checking organisation is eligible to be so registered or have its registration so renewed if —\n\n(a) it is —\n\n(i) a partnership consisting wholly of professional engineers registered under the Architects, Professional Engineers and Quantity Surveyors Order, 2011 (S 33/2011) or which is licensed under that Order to supply professional engineering services in Brunei Darussalam; or\n\n(ii) a corporation licensed under the Architects, Professional Engineers and Quantity Surveyors Order, 2011 (S 33/2011) to supply professional engineering services in Brunei Darussalam; and\n\n(b) it satisfies the Authority that it meets such requirements as may be prescribed for such registration or renewal. Registration of accredited checkers or accredited checking organisations"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Registration of accredited checkers or accredited checking"
+   },
+   "text": {
+    "en": "(1) An application for registration, or to renew any registration, as —\n\n(a) an accredited checker; or\n\n(b) an accredited checking organisation, shall be made in such manner and shall be accompanied by such documents and particulars as the Authority may determine.\n\n(2) Upon receiving an application under subsection (1), or an application to renew such registration, the Authority shall consider the application and may —\n\n(a) register or renew the registration of, the applicant as an accredited checker or an accredited checking organisation, with or without conditions; or\n\n(b) refuse the registration or renewal.\n\n(3) Where the Authority has registered a person, or renewed the person’s registration, as an accredited checker or an accredited checking organisation, the Authority shall issue to that person a certificate of such accreditation.\n\n(4) Any registration as an accredited checker or an accredited checking organisation shall, unless earlier cancelled under section 21, be valid for such period as may be specified therein (being not longer than one year), and upon its expiry, that registration may be renewed for such period as may be specified (being also not longer than one year).\n\n(5) The Authority may appoint a committee of persons to assist the Authority in considering applications for registration, or renewal of registration, as an accredited checker or an accredited checking organisation."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Cancellation etc. of registration"
+   },
+   "text": {
+    "en": "(1) Subject to section 26, the Authority may by order cancel, or suspend for a period not exceeding 6 months, the registration of an accredited checker if the Authority is satisfied that the accredited checker —\n\n(a) has obtained his registration or renewed registration by fraud or misrepresentation;\n\n(b) no longer satisfies any of the requirements in section 19(1) by virtue of which he was so registered;\n\n(c) is convicted of an offence involving fraud or dishonesty or an offence against this Act or the building regulations;\n\n(d) is for any medical reason or any other reason no longer in a position to carry out the duties of an accredited checker effectively under this Act or the building regulations;\n\n(e) has contravened section 22(4) or (5);\n\n(f) has for any reason been censured or ordered to pay a financial penalty by a Disciplinary Committee under the Architects, Professional Engineers and Quantity Surveyors Order, 2011 (S 33/2011) or has had his registration as a professional engineer under that Order revoked or suspended; or\n\n(g) has failed to meet such standards of performance as may be prescribed in the building regulations.\n\n(2) The Authority may by order cancel, or suspend for a period not exceeding 6 months, the registration of an accredited checking organisation if the Authority is satisfied that —\n\n(a) it has obtained its registration or renewal of registration by fraud or misrepresentation;\n\n(b) it has contravened or failed to comply with section 22(4) or (5);\n\n(c) it has been convicted of an offence against this Act or the building regulations;\n\n(d) any accredited checker who is —\n\n(i) a partner or an employee of the accredited checking organisation which is a partnership; or\n\n(ii) a director or manager or an employee of the accredited checking organisation which is a corporation, has been convicted of an offence against this Act or the building regulations;\n\n(e) it is no longer in a position to carry out the duties of an accredited checking organisation under this Act or the building\n\n(f) it no longer satisfies any of the requirements in section 19(3) by virtue of which it was so registered; or\n\n(g) its performance as an accredited checking organisation, or the performance of any accredited checker who is a director, partner, member or an employee of the accredited checking organisation and acting on its behalf, fails to meet such standards of performance as may be prescribed in the building regulations.\n\n(3) The Authority shall not exercise his powers under subsection (1) or (2) unless an opportunity of being heard has been given to the accredited checker or accredited checking organisation against whom the Authority intends to exercise his powers.\n\n(4) The Authority may appoint —\n\n(a) a committee of persons; and\n\n(b) an advocate and solicitor, to assist the Authority in considering any representation that may be made to him under subsection (3).\n\n(5) The Authority may, in addition to any order made under subsection (1) or (2), order the accredited checker or accredited checking organisation that is the subject of the order to pay to the Authority such sums as the Authority thinks fit, not exceeding $10,000, in respect of costs and expenses of and incidental to any proceedings before the committee appointed under subsection (14)(a).\n\n(6) The costs and expenses referred to in subsection (5) shall\n\n(a) the costs and expenses of any advocate and solicitor appointed under subsection (4)(b);\n\n(b) such reasonable expenses as the Authority may pay to witnesses; and\n\n(c) such reasonable expenses as are necessary for the conduct of proceedings before the committee appointed under subsection (4)(a).\n\n(7) Where the Authority suspends or cancels the registration of an accredited checker or an accredited checking organisation under this section, the Authority shall —\n\n(a) cancel any certificate of accreditation issued to the person or organisation concerned under section 20(3); and\n\n(b) remove the name and particulars of that person or organisation from the register of accredited checkers, or the register of accredited checking organisations, as the case may be.\n\n(8) If the registration of an accredited checker or an accredited checking organisation is suspended under this section for any period, then at the end of the period of suspension, his or its name and particulars shall be reinstated on the respective register under section 18, and his or its certificate of accreditation shall be restored.\n\n(9) The person whose registration as an accredited checker or an accredited checking organisation is suspended or cancelled under this section shall, within 14 days of being notified of the suspension or cancellation of registration, surrender to the Authority the certificate of accreditation issued under section 20(3), failing which the person or organisation is guilty of an\n\n(10) The Authority shall cancel the registration of an accredited checker who has died. Duties and independence of accredited checkers and accredited"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "checking organisations"
+   },
+   "text": {
+    "en": "(1) An accredited checker who —\n\n(a) is appointed in respect of any major building works; or\n\n(b) is acting on behalf of an accredited checking organisation, shall check the detailed structural plans and design calculations of the building works in accordance with the building regulations and shall carry out such other duties as may be prescribed by those regulations.\n\n(2) The accredited checker appointed under section 12(1)(e) in respect of any underground building works shall check the geotechnical aspects of those building works in accordance with the building regulations and shall carry out such other duties as may be prescribed by those\n\n(3) An accredited checker who contravenes subsection (1) or (2) is guilty of an offence and liable on conviction to a fine not exceeding $100,000, imprisonment for a term not exceeding 2 years or both.\n\n(4) An accredited checker shall not issue a certificate under\n\n(d) or 6(2)(b) in respect of the plans of any building works —\n\n(a) if the accredited checker has any professional or financial interest in the building works shown in the plans described in his certificate; or\n\n(b) in the case where the accredited checker is a director, partner, member or an employee of an accredited checking organisation and acting on behalf of the accredited checking organisation —\n\n(i) if the accredited checking organisation that is a corporation and any of its directors; or\n\n(ii) if any partner of the accredited checking organisation that is a partnership, has a professional or financial interest in the building works shown in the plans described in the certificate by the accredited checking organisation under section 5(2)(d) or 6(2)(b).\n\n(5) An accredited checker shall not issue a certificate under\n\n(d) or 6(2)(b) in respect of the geotechnical aspects of any underground building works if the accredited checker has any professional or financial interest in the underground building works shown in the plans described in his certificate.\n\n(6) An accredited checker shall be regarded as having a professional or financial interest in any building works if —\n\n(a) he is or has been responsible for the design or construction of the building or any of the building works in any capacity except building works relating to the alterations of the building which —\n\n(i) do not affect any key structural element; or\n\n(ii) affect any structural element but the effects are localised in nature and do not require any strengthening of any key structural element;\n\n(b) he or any of his nominee is a member, an officer or employee of a company or other body which has a professional or financial interest in the building works; or\n\n(c) he is a partner or is in the employment of a person who has a professional or financial interest in the building works.\n\n(7) An accredited checking organisation shall be regarded as having a professional or financial interest in any building works if —\n\n(a) any of its directors, partners, members or employees is or has been responsible for the design or construction of the building or any of the building works in any capacity except building works relating to the alterations of the building which —\n\n(i) do not affect any key structural element; or\n\n(ii) affect any structural element but the effects are localised in nature and do not require any strengthening of any key structural element;\n\n(b) any nominee of the organisation is a member, an officer or employee of a company or other body which has a professional or financial interest in the building works; or\n\n(c) the organisation or any of its directors or partners is a partner or is in the employment of a person who has a professional or financial interest in the building works.\n\n(8) In this Act —\n\n(a) a person shall be treated as having a professional or financial interest in the building works even if he has that interest only as trustee for the benefit of some other person; and\n\n(b) in the case of married people, the interest of one spouse shall, if known to the other, be deemed to be also an interest of the other.\n\n(9) In this Act —\n\n(a) involvement in the building works as an accredited checker; and\n\n(b) entitlement to any fee paid for his function as an accredited checker, shall not be regarded as constituting a professional or financial interest.\n\n(10) If a person who is —\n\n(a) an accredited checker;\n\n(b) an accredited checking organisation that is a corporation; or\n\n(c) a partner of an accredited checking organisation that is a partnership, or a director of an accredited checking organisation that is contravenes subsection (4) or (5), as the case may be, that person is guilty of an offence and liable on conviction to —\n\n(i) where the person is a corporation, a fine not exceeding $100,000; and\n\n(ii) in any other case, a fine not exceeding $50,000, imprisonment for a term not exceeding 2 years or both. Division 7 — Enforcement and administration"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Demolition etc. of unauthorised building works"
+   },
+   "text": {
+    "en": "(1) Where, in the opinion of the Authority, any building has been erected, or any building works are or have been carried out, in contravention of this Act or the building regulations, the Authority may by order in writing\n\n(a) the cessation of the building works until the order is withdrawn;\n\n(b) the demolition of the building; or\n\n(c) such work or alteration to the building or building works to be carried out as may be necessary to cause the same to comply with this Act and the building regulations or otherwise to put an end to the contravention thereof.\n\n(2) An order under subsection (1) shall specify all or any of the\n\n(a) the manner in which the demolition, work or alteration specified in the order is to be carried out;\n\n(b) the time within which the demolition, work or alteration shall\n\n(c) the time within which the demolition, work or alteration shall be completed;\n\n(d) that the demolition, work or alteration shall be carried out with due diligence to the satisfaction of the Authority.\n\n(3) An order under subsection (1) shall be served —\n\n(a) where a building has been erected, on the owner or occupier of the building; and\n\n(b) where building works are being carried out, on the developer of the building works or the builder carrying out the building works.\n\n(4) If an order under subsection (1) is not complied with, the\n\n(a) demolish, remove or alter, or cause to be demolished, removed or altered, such building or building works, or take such other steps as appear to the Authority to be necessary including ordering the closure of the building; and\n\n(b) recover all expenses reasonably incurred by the Authority in the exercise of the Authority’s powers under this section from the person in default.\n\n(5) Notwithstanding the right of the Authority to exercise its powers under subsection (4), if any person on whom an order under subsection (1) is served fails to comply with the order, he is guilty of an offence and liable on\n\n(a) to a fine not exceeding $20,000, imprisonment for a term not exceeding 6 months or both; and\n\n(b) in respect of a continuing failure to comply, to an additional fine not exceeding $500 for each day or part thereof the failure to comply continues, and if the failure to comply continues after the conviction, the person is guilty of a further offence and liable on conviction of this further offence to a further fine not exceeding $1,000 for every day or part thereof during which the failure to comply continues after conviction.\n\n(6) The Authority may seize any materials resulting from the carrying out of any work under subsection (4).\n\n(7) This section does apply to any building works, whether or not for or connected with any temporary building."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Building offences"
+   },
+   "text": {
+    "en": "(1) Any person who commences or carries out, or permits or authorises the commencement or carrying out of —\n\n(a) any building works (including underground building works) the plans of which have not been approved by the Authority under section 5 or 6; or\n\n(b) any building works (including underground building works) for which there is no permit under section 8 in force, is guilty of an offence and liable on conviction —\n\n(i) to a fine not exceeding $200,000, imprisonment for a term not exceeding 2 years or both; and\n\n(ii) in respect of a continuing contravention, to an additional fine not exceeding $1,000 for each day or part thereof the contravention continues, and if the contravention continues after the conviction, the person is guilty of a further offence and liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part thereof during which the contravention continues after conviction.\n\n(2) Any person who contravenes any term or condition of —\n\n(a) an approval of plans of any building works under section 5 or 6; or\n\n(b) a permit to carry out any building works under section 8, is guilty of an offence and liable on conviction —\n\n(i) to a fine not exceeding $20,000, imprisonment for a term not exceeding one year or both; and\n\n(ii) in respect of a continuing contravention, to an additional fine not exceeding $1,000 for each day or part thereof the contravention continues, and if the contravention continues after the conviction, he is guilty of a further offence and liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part thereof during which the contravention continues after conviction.\n\n(3) Any developer of any building works and any qualified person, site supervisor or builder directly concerned with the building works who, in carrying out the building works or after completion thereof deviates, or permits or authorises the building works to deviate, in any material way from any plans of the building works approved by the Authority under this Part shall each be guilty of an offence and liable on conviction to a fine not exceeding $100,000, imprisonment for a term not exceeding 2 years or both.\n\n(4) Any person who, being required by or by virtue of this Act or the building regulations to make or produce to the Authority any plan, declaration, certificate, report, record, notice or other document, or who, for the purpose of obtaining any licence, permit, waiver or approval from the Authority under this Act or the building regulations or for the purpose of establishing any fact relevant to the administration of this Act or the building\n\n(a) makes or produces any plan, declaration, certificate, report, record, notice or other document which is false in a material particular; and\n\n(b) produces any plan, declaration, certificate, report, record, notice or other document which is false in a material particular, or has not been made by the person by whom it purports to have been made, or has been in any way altered or tampered with, is guilty of an offence and liable on conviction to a fine not exceeding $20,000, imprisonment for a term not exceeding one year or both. Pecuniary penalty"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "text": {
+    "en": "(1) Whether or not proceedings have been instituted against any person for an offence against section 24 in respect of any building works, the Authority may require the person to pay a sum not exceeding ten times the prescribed fees for the approval of plans of the building works or which would have been payable had each approval been obtained, for those building works, where it appears to the Authority that such an offence has been committed.\n\n(2) Any person who is aggrieved by a decision of the Authority under subsection (1) may, within 14 days of being notified of the decision, appeal to the Minister against the decision.\n\n(3) Where an appeal is made to the Minister under subsection (2), the Minister may confirm, vary or reverse the decision of the Authority, or give such directions in the matter as he thinks fit, and the decision of the Minister is final.\n\n(4) Any pecuniary penalty or part thereof outstanding shall be recoverable as a debt due to the Authority.\n\n(5) On acceptance by the Authority of the pecuniary penalty imposed under this section, the unauthorised building works in respect of which the penalty is paid is deemed to have been carried out without contravening section 24."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "text": {
+    "en": "(1) Where an application made under —\n\n(a) section 5 or 6 for approval of plans of any building works;\n\n(b) section 8 for a permit to carry out any building works;\n\n(c) section 9 for any modification or waiver of the requirements of the building regulations in relation to any particular building works;\n\n(d) section 11(3) for a waiver of the operation of section 10(1) in relation to any building works; or\n\n(e) section 20 for registration, or for the renewal of registration, as an accredited checker or an accredited checking organisation, is refused, or is granted by the Authority subject to conditions, the applicant may, if aggrieved by the decision of the Authority, appeal to the Minister against the decision within 14 days after being served with the notice of the decision.\n\n(2) If the Authority has made an order under section 21 in respect of an accredited checker or an accredited checking organisation, the accredited checker or accredited checking organisation concerned may appeal to the Minister against the order within 14 days after being served with the notice of the order.\n\n(3) In any appeal under this section in relation to the conviction of an accredited checker or an accredited checking organisation for a criminal offence, the Minister on appeal from any order of the Authority shall accept the conviction as final and conclusive.\n\n(4) Where an appeal is brought under this section from a decision of the Authority, the Minister may, after giving the aggrieved appellant an opportunity to make representations in writing, dismiss or allow the appeal, unconditionally or subject to such conditions as he thinks fit.\n\n(5) The decision of the Minister in any appeal under this section is final.\n\nRETROFITTING OF EXTERIOR FEATURES"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "Application and interpretation"
+   },
+   "text": {
+    "en": "(1) This Part applies to all exterior features on any building except —\n\n(a) exterior features on any detached house, semi-detached house, terrace house or linked house, none of which are comprised in any strata title plan; and\n\n(b) exterior features located on the lowest level of any building.\n\n(2) In this Part, unless the context otherwise requires — “applicable date”, in relation to an exterior feature, means such date as is prescribed under section 29 to be the applicable date for that exterior feature; “grace period”, in relation to an exterior feature, means such period starting from the applicable date for the exterior feature and ending after such time as is prescribed under section 29 for that exterior feature; “prescribed age”, in relation to an exterior feature, means such age as is prescribed under section 29 to be the prescribed age for that exterior feature."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "Duty to retrofit exterior feature"
+   },
+   "text": {
+    "en": "(1) Where an exterior feature of a prescribed building has been installed on, forms part of, or projects outwards from the building at any time before the applicable date prescribed for the exterior feature, the person responsible for the exterior feature shall carry out or cause to be carried out retrofitting of that exterior feature in such manner, by such person and using such material as may be prescribed in relation to that exterior feature —\n\n(a) where there is no prescribed age for that exterior feature, or the exterior feature is, on that applicable date, of the prescribed age or older, within the grace period prescribed for that exterior feature; or\n\n(b) where the exterior feature is, on that applicable date, less than the prescribed age, within the grace period prescribed for that exterior feature or within the period before the exterior feature attains the prescribed age, whichever period is the longer.\n\n(2) Any person who, without reasonable excuse, contravenes subsection (1) is guilty of an offence and liable on conviction to a fine not exceeding $5,000, imprisonment for a term not exceeding 6 months or both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part thereof during which the offence continues after\n\n(3) If a person is charged with an offence against subsection (2), it is a defence for him to prove that he was not the person responsible for the exterior feature at any time during that grace period or before the exterior feature attained that prescribed age, as the case may be.\n\n(4) For the purposes of this Act, the age of an exterior feature of a building shall be reckoned from the date of its first installation on that building as determined in accordance with such date as is prescribed under section 29 for that exterior feature.\n\n(5) Nothing in this section shall be construed as —\n\n(a) prohibiting or preventing the Authority from exercising any of its powers under any other provision of this Act or the building\n\n(b) derogating from the effect of any other provision of this Act, the building regulations or any other written law for the time being in Retrofitting orders"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "DISABILITY AND OTHER PERFORMANCE REQUIREMENTS"
+   },
+   "text": {
+    "en": "(1) The Minister may, by order published in the Gazette, prescribe any matter which is required or permitted to be prescribed by this Part.\n\n(2) Notwithstanding subsection (1), the Minister may, by such order,\n\n(a) the duties and responsibilities of any person authorised to carry out retrofitting of an exterior feature, including providing that any failure or neglect to comply with any such duty or responsibility is\n\n(b) different applicable dates, prescribed ages, grace periods and persons responsible for an exterior feature in relation to different exterior features;\n\n(c) different qualifications and training for persons authorised to carry out retrofitting in relation to different exterior features; and\n\n(d) that any contravention of the order referred to in subsection (1) is guilty of an offence and liable on conviction to a fine not exceeding $5,000, imprisonment for a term not exceeding 6 months or both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "text": {
+    "en": "(1) In this Part, unless the context otherwise requires — “building” does not include a temporary building; “performance requirement” means a performance requirement in the building regulations —\n\n(a) to facilitate the access to, and use of, a building and its facilities by persons with disabilities; or\n\n(b) prescribed in the building regulations for the purposes of this Part; “persons with disabilities” include those who have long term physical, mental, intellectual or sensory impairments which in interaction with various barriers may hinder their full and effective participation in society on an equal basis with others; “physical feature”, in relation to a building, includes the following physical features (permanent or temporary) —\n\n(a) any feature arising from the design or construction of\n\n(b) any feature of any approach to, exit from or access to such a building;\n\n(c) any fixtures, fittings or facility in or on the premises of\n\n(d) any other physical element or quality of the land on which the building stands.\n\n(2) A physical feature of a building satisfies the relevant performance requirement for the purposes of this Part where the physical feature is constructed or installed in, or in connection with, the building in accordance with the performance requirement that is —\n\n(a) relevant in relation to that physical feature; and\n\n(b) in effect at the following time —\n\n(i) the day upon which the building works to construct or install the physical feature commenced; or\n\n(ii) in the case of a physical feature provided as part of building works to which Part 2 applies, the day an occupation permit is issued under section 16 in respect of the building on the completion of those building\n\n(3) For the avoidance of doubt, this Part applies to the physical features of any building, whether constructed before, on or after the commencement of this Act."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "Duty of building owner etc. not to alter"
+   },
+   "text": {
+    "en": "(1) Every owner or occupier of a building shall not remove, alter or obstruct, or cause the removal, alteration or obstruction of, any physical feature of the building where —\n\n(a) the physical feature satisfies the relevant performance requirement for the purposes of this Part; and\n\n(b) the removal, alteration or obstruction will cause the physical feature to cease to satisfy the relevant performance requirement.\n\n(2) Where, in the opinion of the Authority, any physical feature of a building referred to in subsection (1)(a) has been removed, altered or obstructed so as to fail to satisfy the relevant performance requirement, the Authority may, by notice in writing, require such repairs, work or alteration to the physical feature or the building or other remedial action as the Authority thinks fit to be carried out to reinstate the physical feature so as to satisfy the relevant performance requirement.\n\n(3) A notice to reinstate under subsection (2) shall specify —\n\n(a) the manner in which the repairs, work, alteration or remedial action specified in the notice is to be carried out;\n\n(b) the time within which the repairs, work, alteration or remedial action shall commence;\n\n(c) the time within which the repairs, work, alteration or remedial action shall be completed; and\n\n(d) that the repairs, work, alteration or remedial action shall be carried out with due diligence to the satisfaction of the Authority.\n\n(4) A notice to reinstate under subsection (2) shall be made in respect of any building or any physical feature thereof and shall be served —\n\n(a) on the owner of the building;\n\n(b) where that owner is not known or cannot be found by reasonable inquiry, on the occupier of the building;\n\n(c) in the case of a physical feature comprised in any common property of any subdivided building, on the owner thereof;\n\n(d) in the case of a physical feature comprised in any common property of any building of the Government, to the head of the relevant Government department; or\n\n(e) in the case of a physical feature comprised in any common property of any building of any Municipal Board, to the chairman of that Board.\n\n(5) If any person on whom a notice under subsection (2) is served fails, without reasonable excuse, to comply with the requirements of that notice, that person is guilty of an offence and liable on conviction —\n\n(a) to a fine not exceeding $5,000, imprisonment for a term not exceeding 3 months or both;\n\n(b) to a further fine not exceeding $250 for each day or part thereof the person fails, without reasonable excuse, to comply with the requirements of that notice; and\n\n(c) in the case of a continuing offence after conviction, to a further fine not exceeding $500 for every day or part thereof during which the failure to comply continues after conviction. Appeal against notice to reinstate"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "text": {
+    "en": "(1) Any person on whom a notice to reinstate under section 31(2) is served may, within 21 days after the date of receipt of the notice, appeal in writing to the Minister against the notice in the prescribed manner.\n\n(2) Notwithstanding that an appeal is lodged under subsection (1), the notice appealed against shall take effect and be complied with unless otherwise ordered by the Minister.\n\n(3) The Minister may determine an appeal under this section by confirming, varying or cancelling the notice of the Authority under section 31(2).\n\n(4) The decision of the Minister in any appeal under this section is final.\n\nDANGEROUS BUILDINGS AND OCCURRENCES"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "text": {
+    "en": "In this Part — “building” includes a building or any part thereof in respect of which building works are being carried out; “closure order” means the closure order made by the Authority under section 35(2)(b); “occupancy order” means the occupancy order made by the Authority under section 35(2)(a)."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Dangerous building works"
+   },
+   "text": {
+    "en": "(1) If the Authority is of the opinion that any building works are being carried out in such a manner —\n\n(a) as will cause, or will be likely to cause, a risk of injury to any person or damage to any property;\n\n(b) as will cause, or will be likely to cause, or may have caused a total or partial collapse of —\n\n(i) the building in respect of which the building works are or have been carried out; or\n\n(ii) any building, street or natural formation opposite, parallel, adjacent or in otherwise close proximity to those building works, or any part of any such building, street or land; or\n\n(c) as will render, or will be likely to render, or may have rendered the building in respect of which the building works are or have been carried out or any building, street or natural formation opposite, parallel, adjacent or in otherwise close proximity to those building works, or any part of any such building, street or land, so unstable or so dangerous that it will collapse or be likely to collapse (whether totally or partially), the Authority may do either or both of the following —\n\n(i) engage a qualified person to carry out such investigations and tests as may be necessary and to advise the Authority on all matters relating to the safety of the building in respect of which the building works are or have been carried out or the building, street or natural formation opposite, parallel, adjacent or in otherwise close proximity to those building works, as the case may be, the reasons for its collapse (if applicable) and the measures that should be taken to obviate any possible danger that might arise from the condition of\n\n(ii) make all or any of the orders under subsection (2).\n\n(2) The Authority may, for the purpose of obviating any danger or preventing any situation referred to in subsection (1)(a), (b) or (c) from occurring, order the developer of those building works —\n\n(a) to immediately stop the building works;\n\n(b) to carry out or cause to be carried out, at the developer’s cost, such inspection as the Authority may specify of either or both of the\n\n(i) the building in respect of which the building works are or have been carried out;\n\n(ii) the building, street or natural formation opposite, parallel, adjacent or in otherwise close proximity to those building works;\n\n(c) to execute or cause to be executed, at the developer’s cost, such building works as the Authority may specify (which may include retrofitting under Part 3); or\n\n(d) to demolish or cause to be demolished, at the developer’s cost, the building in respect of which the building works are or have been carried out or any part thereof, and remove any rubbish resulting from the demolition.\n\n(3) Where the building works referred to in subsection (1) comprise structural works, the Authority may, in lieu of or in addition to any engagement referred to or order under subsection (1) or (2), revoke any permit granted under section 8 to carry out those structural works.\n\n(4) If the person to whom an order under subsection (2) is given fails to comply with the order within the time specified, the Authority may execute the order in such manner as the Authority thinks fit and recover in a court of competent jurisdiction as a debt due to the Authority all expenses reasonably incurred by the Authority in doing so from the person in default.\n\n(5) Notwithstanding the right of the Authority to exercise its powers under subsection (4), any person who, without reasonable excuse, fails to comply with any order under subsection (2) that he is given is guilty of an offence and liable on conviction to —\n\n(a) where the order is to immediately stop the building works —\n\n(i) a fine not exceeding $500,000, imprisonment for a term not exceeding 2 years or both; and\n\n(ii) in respect of a continuing failure to comply, an additional fine not exceeding $10,000 for each day or part thereof the person fails to comply with the order; or\n\n(b) in the case of any other order under subsection (2) —\n\n(i) a fine not exceeding $100,000, imprisonment for a term not exceeding one year or both; and\n\n(ii) in respect of a continuing failure to comply, an additional fine not exceeding $2,500 for each day or part thereof the person fails to comply with the order, and if the failure to comply continues after the conviction, the person is guilty of a further offence and liable on conviction of this further offence to a further fine not exceeding —\n\n(A) where the order is to immediately stop the building works, $20,000 for each day or part thereof the person fails to comply with the order after conviction; or\n\n(B) in the case of any other order under subsection (2), $5,000 for each day or part thereof the person fails to comply with the order after conviction.\n\n(6) Any person to whom any order under subsection (2) is given shall, while the order is in force, display a copy of the order at every entrance to the building to which the order relates, and such copy shall be displayed in a conspicuous manner that it can be easily read by people outside the building.\n\n(7) Any person who contravenes subsection (6) is guilty of an\n\n(8) The Authority may also order the developer of the building works concerned to pay or reimburse the Authority, all or a specified part of the expenses the Authority has incurred in engaging a qualified person under\n\n(c)(i).\n\n(9) The Authority may recover in a court of competent jurisdiction as a debt due to the Authority so much of the amount payable under an order under subsection (8) as is not paid in accordance with that order.\n\n(10) Any person on whom an order under subsection (8) is served may, within 14 days after the date of receipt of the order, appeal in writing to the Minister against the order in the prescribed manner.\n\n(11) The Minister may determine an appeal under subsection (10) by confirming, varying or cancelling the order of the Authority under subsection (8); and the decision of the Minister in any such appeal is final."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Dangerous buildings"
+   },
+   "text": {
+    "en": "(1) If the Authority is of the opinion that a building is in such a condition, or is used to carry such loads, as to be or likely to be dangerous, the Authority may, for the purpose of obviating any danger, order the owner of the building to do all or any of the following —\n\n(a) to carry out or cause to be carried out, at the owner’s cost, such inspection of the building as the Authority may specify;\n\n(b) to execute or cause to be executed, at the owner’s cost, such building works as the Authority may specify (which may include retrofitting under Part 3);\n\n(c) to demolish or cause to be demolished, at the owner’s cost, the building or any part thereof, and remove any rubbish resulting from the demolition;\n\n(d) to cause, at the owner’s cost the building to be shored up or otherwise secured and a proper hoarding or fence to be put up for the protection of the public from danger, or arranging for the building to be watched.\n\n(2) The Authority may, in lieu of or in addition to any order made under subsection (1), make —\n\n(a) an occupancy order directing the owner or occupier of the building to disallow more than the number of people stated in the occupancy order to be in the building at any time or to otherwise restrict the use of the building, until the Authority, being satisfied that any inspection or building works referred to in subsection (1) are completed, withdraws the order; or\n\n(b) a closure order directing the closure of the building, and that every owner and occupier of the building shall quit the building and shall not allow anyone else to occupy the building except as permitted under this Part.\n\n(3) Before exercising any of its powers under subsection (2), the Authority shall, if it is reasonably practicable to do so, give notice of its intention to make an occupancy order or a closure order, as the case may be.\n\n(4) If the person to whom an order in subsection (1) is given fails to comply with the order within the time specified, the Authority may —\n\n(a) execute the order in such manner as the Authority thinks fit; and\n\n(b) recover in a court of competent jurisdiction as a debt due to the Authority all expenses reasonably incurred by the Authority in doing so from the person in default, except that so far as the expenses incurred under this section consist of expenses of fencing off the building, or arranging for it to be watched, the expenses shall not be recoverable in respect of any period after the danger has been removed by other steps under this section.\n\n(5) Notwithstanding the right of the Authority to exercise its powers under subsection (4), any person who, without reasonable excuse, fails to comply with any order made under subsection (1) that he is given is guilty of an offence and liable on conviction —\n\n(a) to a fine not exceeding $100,000, imprisonment for a term not exceeding one year or both; and\n\n(b) in respect of a continuing failure to comply, to an additional fine not exceeding $2,500 for each day or part thereof the person fails to comply with the order, and if the failure to comply continues after the conviction, the person is guilty of a further offence and liable on conviction of this further offence to a further fine not exceeding $5,000 for each day or part thereof the person fails to comply with the order after conviction.\n\n(6) Any person to whom any occupancy order or closure order made under subsection (2) is given shall, while the order is in force, display a copy of the order at every entrance to the building to which the order relates, and such copy shall be displayed in a conspicuous manner that it can be easily read by people outside the building.\n\n(7) Any person who contravenes subsection (6) is guilty of an"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "text": {
+    "en": "(1) Where the Authority makes any closure order, the order shall be served on the owner and occupier of the building.\n\n(2) A closure order may require the owner or occupier of the building to which the order relates to cease to inhabit the building and to remove all goods, furniture and effects from the building before the order comes into\n\n(3) Except with the permission in writing of the Authority, no person, other than any authorised officer in the course of his duty, shall enter or be in a building at any time while a closure order is in force in respect of the\n\n(4) Any person who contravenes or fails to comply with subsection (3) is guilty of an offence and liable on conviction to a fine not exceeding $10,000, imprisonment for a term not exceeding one year or both and, in the case of a continuing offence, to a further fine not exceeding $200 for every day during which the offence continues after conviction.\n\n(5) Where the Authority thinks fit, the Authority may, subject to such conditions as the Authority may impose, by notice in writing permit any person to enter and be in a building while a closure order is in force in respect of the building.\n\n(6) Any permission granted under subsection (5) may be cancelled by the Authority at any time without giving any reason.\n\n(7) Where a closure order is in force in respect of a building —\n\n(a) any police officer may, with such force or assistance as may be necessary, remove therefrom any person who is in the building in contravention of subsection (3);\n\n(b) the Authority may seal or cause to be sealed all or any of the entrances to, or exits from, the building; and\n\n(c) the Authority or any police officer may remove all goods, furniture and effects from the building.\n\n(8) A closure order shall remain in force in respect of a building until the Authority had served a notice of expiry of the order on the owner or occupier of the building by causing the notice to be posted upon a conspicuous part of the building to which it relates and by serving a copy of the notice upon the owner or occupier.\n\n(9) Every notice of expiry of a closure order shall specify the building to which it relates and the date upon which the order expires. Investigations into dangerous occurrences"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "text": {
+    "en": "(1) Where the Authority becomes aware of any dangerous occurrence in any premises at which building works are carried out or in any other premises, the Authority may direct any person authorised on its behalf to investigate the circumstances of the dangerous occurrence.\n\n(2) No person shall, without the prior approval of the Authority —\n\n(a) alter, replace, remove or add to any building element, machinery, equipment, plant or article at any premises in respect of which the Authority has made any direction under subsection (1); or\n\n(b) modify any premises in respect of which the Authority has made any direction under subsection (1).\n\n(3) Any person who contravenes subsection (2) is guilty of an offence and liable on conviction to a fine not exceeding $10,000, imprisonment for a term not exceeding one year or both.\n\n(4) Nothing in subsection (2) shall operate to interfere with rescue work or work necessary for the general safety of life and property.\n\n(5) In this section, “dangerous occurrence” means —\n\n(a) the collapse or structural failure of any building (completed or otherwise); or\n\n(b) any structural distress that is likely to lead to the instability of any building (completed or otherwise), whether or not the collapse, structural failure or structural distress results in any death, bodily injury or injury to health.\n\nINSPECTION OF BUILDINGS"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "(1) In this Part — “owner”, in relation to —\n\n(a) a subdivided building comprising two or more principal units means —\n\n(i) the strata corporation established under the Land Code (Strata) Act (Chapter 189) having control of\n\n(ii) the person receiving any rent or charge for the maintenance and management of the common property of the building;\n\n(b) the common property of any building comprising two or more principal units, means the person receiving any rent or charge for the maintenance and management of the common property of the building; “structural engineer” means a person who is registered under the Architects, Professional Engineers and Quantity Surveyors Order, 2011 (S 33/2011) in the civil or structural engineering discipline and who has in force a practising certificate issued under that Order authorising him to engage in civil or structural engineering work.\n\n(2) In this Part, a building which is physically connected with another\n\n(a) shall, although so connected, be treated as a separate building if it is so constructed as to be capable of remaining in position and being used independently of the other building or as to require only minor modification as to render it so capable; and\n\n(b) shall not be treated as other than a separate building merely because it is so connected with the other building at or below ground level or by means of a bridge or similar structure (whether affording access or accommodation to both)."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "This Part applies to buildings other than —\n\n(a) detached houses, semi-detached houses, terraced or linked houses which are used solely by the owners or occupiers thereof solely as their residence; and\n\n(b) temporary buildings."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Periodic inspection of buildings"
+   },
+   "text": {
+    "en": "(1) Subject to subsection (2), the Authority may, by notice served on the owner of a building to which this Part applies, require the building to be inspected.\n\n(2) In relation to any building to which this Part applies, a notice under subsection (1) may be made —\n\n(a) where the building is used other than solely for residential purposes, after the fifth year commencing from the date the first temporary occupation permit or first occupation permit was issued in respect of the building, whichever was issued earlier, and thereafter at intervals of not less than 5 years from the date of the last notice under this section; or\n\n(b) where the building is used solely for residential purposes, after the tenth year commencing from the date the first temporary occupation permit or first occupation permit was issued in respect of the building, whichever was issued earlier, and thereafter at intervals of not less than 10 years from the date of the last notice under this section.\n\n(3) Every owner of a building to which this Part applies shall, on receipt of a notice under subsection (1), causes the building to be inspected within the period specified in the notice and in the prescribed manner by a structural engineer appointed by the owner.\n\n(4) Where a building comprising two or more principal units is not subdivided, the owners of those principal units shall, on receipt of a notice under subsection (1), jointly appoint a structural engineer to inspect the building within such time as may be specified in the notice and in the prescribed manner.\n\n(5) The structural engineer who is appointed by the owner of a building to carry out an inspection of a building under this section shall be entitled at all reasonable times to full and free access to the building and any part thereof he is required to inspect.\n\n(6) Any person who hinders, obstructs or delays the structural engineer in the performance of his duty under subsection (5) is guilty of an offence and liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.\n\n(7) A structural engineer appointed to carry out an inspection of a building under this section shall —\n\n(a) carry out the inspection in the prescribed manner;\n\n(b) on completion of the inspection, prepare and sign a report of the result of the inspection; and\n\n(c) serve a copy of the report on the Authority within such period as the Authority may specify in the notice under subsection (1).\n\n(8) Where the report of the result of the inspection of a building prepared under subsection (7)(b) contains any measure or other building works recommended by the structural engineer to be carried out to ensure the structural stability or integrity of the building, the owner of the building shall, within such period and subject to such conditions as may be specified by the Authority, carry out such measure or building works as is recommended by the structural engineer in the report.\n\n(9) Any owner of a building who contravenes or fails to comply with a notice under subsection (1) is guilty of an offence and liable on conviction to a fine not exceeding $20,000.\n\n(10) Any owner of a building who fails to comply with subsection (3), (4) or (8) within the period specified in the notice under subsection (1) or within the period specified under subsection (8), is guilty of an offence and liable on conviction —\n\n(a) to a fine not exceeding $20,000, imprisonment for a term not exceeding one year or both; and\n\n(b) in respect of a continuing contravention, to an additional fine not exceeding $500 for each day or part thereof during which the contravention continues, and if the contravention continues after the conviction, the person is guilty of a further offence and liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part thereof during which the contravention continues after conviction.\n\n(11) Any structural engineer who contravenes subsection (7)(a), (b) or (c) is guilty of an offence and liable on conviction to a fine not exceeding $20,000. Independence of structural engineers"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "(1) A structural engineer shall not be appointed by the Authority or owner of a building for the purpose of carrying out an inspection of a building under section 40 if the structural engineer has any professional or financial interest in the building.\n\n(2) A structural engineer shall be regarded as having a professional or financial interest in any building if —\n\n(a) he is or has been responsible for the design or construction of the building or any of the building works in any capacity except building works relating to the alterations of the building which —\n\n(i) do not affect any key structural element; or\n\n(ii) affect any structural element but the effects are localised in nature and do not require any strengthening of any key structural element;\n\n(b) he or any nominee of his is a member, an officer or employee of a company or other body which has a professional or financial interest in the building or any part thereof;\n\n(c) he is a partner or is in the employment of a person who has a professional or financial interest in the building or any part thereof; or\n\n(d) he holds any interest in the building or any part thereof.\n\n(3) In this section —\n\n(a) a person shall be treated as having a professional or financial interest in the building even if he has that interest only as trustee for the benefit of some other person; and\n\n(b) in the case of married people, the interest of one spouse shall, if known to the other, be deemed to be also an interest of the other.\n\n(4) In this section —\n\n(a) involvement in the inspection of a building under section 40; and\n\n(b) entitlement to any fee paid for carrying out any inspection under section 40, shall not be regarded as constituting a professional or financial interest.\n\n(5) The Minister may, by notification published in the Gazette, exempt from subsection (1) any building or building works owned by or to be carried out for —\n\n(a) the Government; or\n\n(b) any other public authority constituted by any written law.\n\nLICENSING OF BUILDERS"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "(1) In this Part, unless the context otherwise requires — “building works” means any building works to which Part 2 applies; “minor specialist building works” means —\n\n(a) specialist building works associated with minor\n\n(b) structural steelwork comprising fabrication and erection work for structures with a cantilever length of not more than 3 metres, a clear span of less than 6 metres and a plan area not exceeding 150 square metres;\n\n(c) pre-cast concrete work comprising casting of pre-cast reinforced concrete slabs or planks on site;\n\n(d) such other specialist building works as the Minister may, by notification published in the Gazette, declare to be minor specialist building works; “prescribed” means prescribed in any regulations made under\n\n(2) In this Part —\n\n(a) a person carries on the business of a builder if the person carries out, or undertakes to carry out, (whether exclusively or in conjunction with any other business) general building works for or on behalf of another person for a fixed sum, percentage, or valuable consideration, or reward other than wages, but not if the person carries out, or undertakes to carry out, general building works only as a sub-contractor;\n\n(b) a person carries on the business of a builder if the person carries out, or undertakes to carry out, (whether exclusively or in conjunction with any other business) any specialist building works for or on behalf of another person for a fixed sum, percentage, or valuable consideration or reward other than wages;\n\n(c) a person carries out general building works or specialist building works whether that person carries it out personally, or directly or indirectly causes it to be carried out;\n\n(d) a person is deemed to carry on the business of a builder if he carries out general building works or specialist building works, as the case may be, on or in respect of a building for himself; and\n\n(e) a person undertakes to carry out general building works or specialist building works if that person enters into a contract to carry it out or submits a tender or makes an offer to carry it out.\n\n(3) For the avoidance of doubt, nothing in this Part shall prohibit or prevent —\n\n(a) any person not licensed under this Part from carrying out any building works to which Part 2 does not apply;\n\n(b) any site supervisor or team of site supervisors appointed under section 14(1) from carrying on any activity solely for the purpose of that section; or\n\n(c) a qualified person, or any person under the direction or supervision of such a qualified person, from carrying on any activity within the practice of architecture or professional engineering which the qualified person is authorised to carry on under any written law other than this Act."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Prohibition against unlicensed builders"
+   },
+   "text": {
+    "en": "(1) Subject to this Act, no person shall —\n\n(a) advertise or hold himself out or conduct himself in any way or by any means as a person who is authorised to carry on the business of a builder in Brunei Darussalam; or\n\n(b) assume, take or use (either alone or in combination with any other word, letter or device) the name, title or description of “licensed builder”, or any name, title or description calculated to lead others to believe he is so licensed, or by words or conduct hold himself out as being so licensed, unless he is in possession of a builder’s licence.\n\n(2) Subject to this Act, no person shall —\n\n(a) carry on the business of a builder in Brunei Darussalam unless he is in possession of a builder’s licence;\n\n(b) carry on a business carrying out, or undertaking to carry out, whether exclusively or in conjunction with any other business, general building works and minor specialist building works or minor specialist building works only, unless he is in possession of a builder’s licence;\n\n(3) Any person who contravenes subsection (1) or (2) is guilty of an offence and liable on conviction to —\n\n(a) a fine not exceeding $20,000, imprisonment for a term not exceeding one year or both;\n\n(b) a further fine not exceeding $500 for each day or part thereof the person fails, without reasonable excuse, to comply with the requirements of that subsection; and\n\n(c) in the case of a continuing offence after conviction, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.\n\n(4) Subject to this Act, a person who carries out any general building works or specialist building works in contravention of subsection (2) shall not be entitled to recover in any court any charge, fee or remuneration for the general building works or specialist building works so carried out.\n\n(5) Nothing in this section shall apply to prevent a corporation that ceases to have in force a builder’s licence from carrying on any activity necessary to the winding up of the corporation."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Classes of builder’s licences"
+   },
+   "text": {
+    "en": "A licence may be granted under this Part to a builder authorising him to carry on such classes of business of a builder as may be prescribed."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Register of licensed builders"
+   },
+   "text": {
+    "en": "(1) The Authority shall keep a register of builders in which shall be entered the names of all persons licensed under this Part as builders, and such other particulars in relation thereto as may be prescribed.\n\n(2) A person may, on payment of any prescribed fee —\n\n(a) inspect the register of builders during the office hours of the\n\n(b) obtain from the Authority a certificate as to the licence or non-licence of a named person on a specified date or during a specified\n\n(3) A certificate purporting to be signed by the Authority certifying that a person was or was not licensed under this Part on a specified date or during a specified period is admissible in any proceedings as evidence of the matters stated in the certificate."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Application for builder’s licence"
+   },
+   "text": {
+    "en": "(1) An application for a builder’s licence shall be made to the Authority in the prescribed manner and accompanied by the application fee as may be prescribed.\n\n(2) An applicant for a builder’s licence shall, at the request of the Authority, provide any further information or evidence that the Authority may require to decide the application.\n\n(3) Subject to section 47, upon receiving an application for a builder’s licence under subsection (1), the Authority shall consider the application and may, grant a builder’s licence of such class as the Authority may specify in the licence with or without conditions or, refuse to grant any such licence.\n\n(4) In deciding whether to grant a licence, the Authority may make inquiries and investigations that are reasonable and appropriate in the circumstances so as to be satisfied as to —\n\n(a) the good character of the applicant or, if the applicant is a corporation or partnership, the general character of the management of the corporation or of the partners;\n\n(b) the financial condition of the applicant; and\n\n(c) whether the public interest will be served by the granting of the licence,\n\n(i) seeking confirmation about the experience of the applicants through site inspections and referee checks; and\n\n(ii) carrying out checks with the Commissioner of Workplace Safety and Health section 7(1) of the Workplace Safety and Health Order, 2009 (S 44/2009) and the Official Receiver.\n\n(5) The Authority may refuse to grant a licence under this section to any corporation or partnership if, in the opinion of the Authority, the past conduct of any director, manager or employee of the corporation or any partner, manager or employee of the partnership affords reasonable grounds for believing that the corporation or partnership, as the case may be, will not carry on the business of a builder in accordance with any written law and with honesty and integrity.\n\n(6) Every builder’s licence shall, unless earlier revoked, be valid for such period as may be specified therein, and upon its expiry, the licence may be renewed."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Eligibility to be licensed as builder"
+   },
+   "text": {
+    "en": "(1) Subject to subsections (2) and (4), an individual who applies for a builder’s licence is eligible to be granted such a licence if —\n\n(a) he has paid the prescribed fees for such licence;\n\n(b) he satisfies the Authority that he is a person of good character and that he intends to carry on business on his own account;\n\n(c) he —\n\n(i) has completed the prescribed course of training and has the prescribed practical experience (whether within Brunei Darussalam or elsewhere) in the work of a builder or as a supervisor of general building works or specialist building works; or\n\n(ii) although not having complied with the requirements of sub-paragraph (i), satisfies the Authority that he has nevertheless had such practical experience in the work of a builder or as a supervisor of general building works or specialist building works, as to render him, in the opinion of the Authority, competent to carry on the business of a builder in Brunei Darussalam; and\n\n(d) he satisfies the Authority that the execution and performance of any general building works or specialist building works in Brunei Darussalam that he undertakes shall be under —\n\n(i) his personal supervision; or\n\n(ii) the personal supervision of at least one of his employees, being an employee who satisfies the Authority that the employee has the prescribed qualifications and prescribed practical experience.\n\n(2) Where an individual applies for a builder’s licence in partnership with another individual or other individuals, the partnership is, subject to subsection (4), eligible to be granted such a licence if —\n\n(a) at least one partner satisfies the Authority that he meets the requirements of subsection (1);\n\n(b) the applicant satisfies the Authority that the management of the business of the partnership in so far it relates to general building works or specialist building works in Brunei Darussalam shall at all times be under the charge and direction of a partner of the partnership who —\n\n(i) has the prescribed qualifications and prescribed practical experience; or\n\n(ii) although not having the prescribed qualifications and prescribed practical experience, satisfies the Authority that he has nevertheless had such practical experience as to render him, in the opinion of the Authority, competent to the of a in Brunei Darussalam; and\n\n(c) the applicant satisfies the Authority that the execution and performance of any general building works or specialist building works in Brunei Darussalam undertaken by the partnership shall be under the personal supervision of —\n\n(i) at least one partner of the partnership; or\n\n(ii) at least one of its employees, being a person employed in such a manner and with such similar duties and responsibilities as a partner, who satisfies the Authority that he has the prescribed qualifications and prescribed practical experience.\n\n(3) Subject to subsection (4), a corporation which applies for a builder’s licence is eligible to be granted such a licence if —\n\n(a) it has paid the prescribed fees for such licence;\n\n(b) it is neither a company limited by guarantee nor a corporation sole;\n\n(c) the paid-up capital of the corporation is of such amount as the Authority may specify;\n\n(d) it satisfies the Authority that it is duly authorised to carry on the business of a builder;\n\n(e) it further satisfies the Authority that the management of the business of the corporation in so far it relates to general building works or specialist building works in Brunei Darussalam shall at all times be under the charge and direction of a director of the corporation, or a member of the board of management of the corporation, or an employee (being a person employed in such a manner and with such similar duties and responsibilities of a director or member of its board of management) who —\n\n(i) has the prescribed qualifications and prescribed practical experience; or\n\n(ii) although not having the prescribed qualifications and prescribed practical experience, satisfies the Authority that he has nevertheless had such practical experience as to render him, in the opinion of the Authority, competent to manage the business of a builder in Brunei Darussalam; and\n\n(f) the applicant satisfies the Authority that the execution and performance of any general building works or specialist building works in Brunei Darussalam undertaken by the corporation shall be under the personal supervision of —\n\n(i) at least one director of the corporation or a member of its board of management; or\n\n(ii) at least one of its employees, being a person employed in such a manner and with such similar duties and responsibilities as a director or member of its board of who satisfies the Authority that he has the prescribed qualifications and prescribed practical experience.\n\n(4) Notwithstanding subsection (1), (2) or (3), the Authority may require an applicant under that subsection to satisfy the Authority that the applicant has sufficient material and financial resources available to enable the applicant to meet his or its financial obligations as and when they become due, and may refuse to grant a licence to an applicant who fails to so satisfy"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Conditions of builder’s licence relating to construction personnel"
+   },
+   "text": {
+    "en": "(1) It shall be a condition of such class of builder’s licence as the Authority may specify that the builder holding that licence shall —\n\n(a) lodge with the Authority a manpower programme that satisfies the requirements in subsection (2) in respect of each significant general building work project to be undertaken in Brunei Darussalam by the builder; and\n\n(b) at all times when carrying on the general building works in connection with that significant general building work project, take all practicable steps to ensure that the registered construction personnel employed by or on the licensed builder’s behalf or engaged in connection with that significant general building work project comply with the manpower programme lodged under paragraph (a) in respect of that significant general building work project.\n\n(2) A manpower programme in respect of any particular significant general building work project shall be a programme or scheme specifying all or any of the following —\n\n(a) the number (which shall not be less than the number prescribed) of different classes of registered construction personnel to be employed by or on behalf of the licensed builder or to be engaged in connection with that significant general building work project;\n\n(b) the proportion, which shall not be less than the proportion prescribed, of different classes of registered construction personnel to be employed by or on behalf of the licensed builder or to be engaged in connection with that significant general building work project.\n\n(3) If there is any change in the number or proportion of registered construction personnel —\n\n(a) specified in a manpower programme lodged by a licensed builder under subsection (1)(a) in respect of any particular significant building work project; or\n\n(b) employed by or on behalf of the licensed builder or to be engaged in connection with that particular significant building work the licensed builder shall notify the Authority of the change within 7 days after that change.\n\n(4) In this section, unless the context otherwise requires — “construction foreman” means an individual who carries out, or undertakes to carry out, for or on behalf of another person for a fixed sum, percentage, or valuable consideration, wages or other reward, the supervision and co-ordination of construction tradesmen or other workman in any prescribed class of work connected with any building works, and a construction foreman shall be classified according to the class of work he so supervises for reward; “construction personnel” means an individual who is —\n\n(a) a construction foreman of any class;\n\n(b) a construction supervisor of any class; or\n\n(c) a construction tradesman of any class; “construction supervisor” means an individual, not being a builder, who oversees the execution or performance of building works for or on behalf of another person for a fixed sum, percentage, or valuable consideration, wages or other reward, but does not include a construction foreman or other person employed in a like or less responsible capacity; “construction tradesman” means an individual, not being a builder, who carries out, or undertakes to carry out, for or on behalf of another person, for a fixed sum, percentage, or valuable consideration, wages or other reward, any prescribed class of work connected with any building works, and a construction tradesman shall be classified according to the class of work he so carries out for reward; “engaged” means engaged under a contract of service or a contract for services; “registered” means registered with the Authority; “significant general building work project” means any building works the value of which is $10,000,000 or such other amount as the Minister may, by order published in the Gazette, specify in lieu thereof or more; “take all practicable steps”, in relation to any result in any circumstances, means taking all steps to achieve the result that it is reasonably practicable to take in the circumstances; and for the avoidance of doubt, a person required by this section to take all practicable steps is required to take those steps only in respect of circumstances that the person knows or ought reasonably to know."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Other conditions of builder’s licence"
+   },
+   "text": {
+    "en": "(1) Where any general building works or specialist building works are carried out by a licensed builder who is an individual, he shall ensure that —\n\n(a) the execution and performance of the general building works or specialist building works, as the case may be, shall be personally supervised —\n\n(i) by himself; or\n\n(ii) by at least one of his employees who is employed to manage and supervise those building works undertaken and who meets the requirements of section 47(1)(c)(i); and\n\n(b) the name of that licensed builder or employee shall appear in any sign affixed or erected on the site where the general building works or specialist building works are carried out.\n\n(2) Where any general building works or specialist building works are carried out by a licensed builder which is a partnership, the partners thereof shall ensure that the execution and performance of the general building works or specialist building works, as the case may be, shall be personally supervised by —\n\n(a) at least one partner of the partnership; or\n\n(b) at least one of its employees who is employed in such a manner and with such similar duties and responsibilities as a partner, who meets the requirements of section 47(1)(c)(i).\n\n(3) Where any general building works or specialist building works are carried out by a licensed builder which is a corporation, the corporation shall ensure that the execution and performance of the general building works or specialist building works, as the case may be, shall be personally supervised by —\n\n(a) at least one director of the corporation or a member of its board of management; or\n\n(b) at least one of its employees who is employed in such a manner and with such similar duties and responsibilities as a director or member of its board of management, who meets the requirements of section 47(1)(c)(i).\n\n(4) It shall be a condition of every builder’s licence granted to a partnership or a corporation that the management of the business of the partnership or corporation in so far it relates to general building works or specialist building works, as the case may be, shall at all times be under the charge and direction of —\n\n(a) a partner in the case of the partnership; or\n\n(b) in the case of a corporation, a director or a member of the board of management of the corporation or an employee of the corporation who is employed in such a manner and with such similar duties and responsibilities as a director or member of its board of who satisfies the Authority that he meets the requirements of section 47(2)(b) or (3)(e).\n\n(5) Notwithstanding subsections (1) to (5), the Authority may grant a builder’s licence subject to such other conditions as the Authority thinks fit and may vary any existing conditions (other than those specified in subsections (1) to (5)) of such a licence or impose additional conditions thereto.\n\n(6) Before making any modification to the conditions of a builder’s licence under this section, the Authority shall give notice to the licensed builder concerned —\n\n(a) stating that he proposes to make the modification in the manner specified in the notice; and\n\n(b) specifying the time (being not less than 14 days from the date of service of notice on the licensed builder concerned) within which written representations with respect to the proposed modification may\n\n(7) Upon receipt of any written representation referred to in subsection (6)(b), the Authority shall consider the representation and may reject the representation or amend the proposed modification in accordance with the representation, or otherwise and, in either event, shall thereupon issue a direction in writing to the licensed builder concerned requiring that effect be given to the proposed modification specified in the notice or to such modification as subsequently amended by the Authority within a reasonable time. Revocation of licences etc."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "(1) Subject to subsection (3), the Authority may by order revoke any builder’s licence if the Authority is satisfied that —\n\n(a) the licensed builder fails to comply with any of the relevant requirements of section 48(1), (3) or 49(4);\n\n(b) the licensed builder has failed to comply with any condition imposed by the Authority under section 49(5);\n\n(c) for a period exceeding 28 days —\n\n(i) the licensed builder ceases to, or ceases to have any employee thereof referred to in section 49(1), personally supervise the execution and performance of any general building works or specialist building works in Brunei Darussalam undertaken by the licensed builder; or\n\n(ii) where the licensed builder is a partnership or a corporation, it ceases to have any director, manager or employee of the corporation, or any partner or employee of the partnership, as the case may be, referred to in section 49(2) or (3) personally supervise the execution and performance of any general building works or specialist building works in Brunei Darussalam undertaken by the licensed builder;\n\n(d) the licence had been obtained by fraud or misrepresentation;\n\n(e) the licensed builder has ceased to carry on business as a builder in Brunei Darussalam;\n\n(f) the licensed builder has been declared bankrupt or has gone into compulsory or voluntary liquidation other than for the purpose of amalgamation or reconstruction;\n\n(g) the licensed builder has been convicted of an offence against\n\n(h) the conduct of any director, manager or employee of the corporation, or any partner or employee of the partnership, that is a licensed builder affords grounds for believing that the corporation or partnership, as the case may be, will not carry on the business of a builder in Brunei Darussalam in accordance with any written law and with honesty and integrity;\n\n(i) the public interest or national security of Brunei Darussalam so requires; or\n\n(j) the licensed builder has refused or failed to comply with an order of the Authority made under subsection (2)(b) or (d).\n\n(2) The Authority may, in any case in which the Authority considers that no cause of sufficient gravity for revoking any builder’s licence exists,\n\n(a) suspend the licence for such period as the Authority may\n\n(b) impose on the builder concerned a financial penalty not exceeding $20,000;\n\n(c) censure the builder concerned; or\n\n(d) impose such other direction or restriction as the Authority considers appropriate on the builder’s business as a builder.\n\n(3) The Authority shall not exercise its powers under subsection (1) or (2) unless an opportunity of being heard by a representative in writing or by counsel had been given to the licensed builder against which the Authority intends to exercise its powers, being a period of not more than 14 days.\n\n(4) Where the Authority has revoked a builder’s licence under this section, the Authority shall serve on the builder concerned a notice of its order made under this section.\n\n(5) Any order by the Authority revoking or suspending a licence, or imposing a financial penalty, direction or restriction shall not take effect until the expiration of 14 days after the Authority has served the order on the builder concerned.\n\n(6) Where the builder concerned has appealed under section 51 to the Minister against an order by the Authority under this section, the order shall not take effect unless the order is confirmed by the Minister or the appeal is for any reason dismissed by the Minister or withdrawn.\n\n(7) Where an order of revocation becomes effective —\n\n(a) the Authority shall cause notice of the revocation to be Gazette; and\n\n(b) the builder concerned shall, as from the date of the notice, cease to carry on business as a builder, in Brunei Darussalam except as may be approved by the Authority.\n\n(8) Subsection (7)(b) shall not prejudice the enforcement by any person of any right or claim against the corporation, partnership or by the corporation, partnership of any right or claim against any person.\n\n(9) In any proceedings under this section in relation to the conviction of licensed builder for a criminal offence, the Authority shall accept the builder’s conviction as final and conclusive."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Appeal to Minister"
+   },
+   "text": {
+    "en": "(1) Any person whose application for a builder’s licence or for the renewal of a builder’s licence has been refused by the Authority may, within 14 days after being notified of such refusal, appeal in the prescribed manner to the Minister whose decision is final.\n\n(2) Where a builder’s licence is granted by the Authority subject to conditions, other than those specified in section 48 or 49, the builder concerned may, within 14 days after being notified of such conditions, appeal in the prescribed manner to the Minister whose decision is final.\n\n(3) If the Authority has made —\n\n(a) an order of revocation or suspension of a licence under section 50; or\n\n(b) an order imposing any pecuniary penalty on, or a direction or restriction on the business of a licensed corporation or partnership under section 50(2), the person whose licence is revoked or suspended, on whom such a penalty, direction or restriction is imposed, as the case may be, may within 14 days after being served with the notice of the order, appeal to the Minister against the order, and the decision of the Minister is final.\n\n(4) In any appeal under this section in relation to the conviction of a licensed builder for a criminal offence, the Minister on appeal from any order of the Authority shall accept the builder’s conviction as final and conclusive. Power of Minister to make regulations"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations for giving effect to the provisions of this Part and for the due administration thereof, and, in particular, for or with respect to all or any of the following —\n\n(a) prescribing the form and procedure for applications for a builder’s licence;\n\n(b) varying the minimum paid-up capital of a corporation specified in section 47(3)(c) in connection with applications for a builder’s licence;\n\n(c) prescribing the different classes of construction foremen and construction tradesmen for the purposes of section 48;\n\n(d) prescribing offences in respect of the contravention of any regulations made under this section, and prescribing fines, not exceeding $10,000, imprisonment which may not exceed one year or both, that may, on conviction, be imposed in respect of any such\n\n(e) prescribing any matter which is required under this Part to be"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "text": {
+    "en": "The Minister may by order, either generally or in any particular case, and subject to such conditions as he may impose, exempt any person, class of person, premises or building or any building works from all or any of the provisions of this Act or the building regulations. Offences by bodies corporate etc."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "text": {
+    "en": "(1) Where an offence against this Act or the building regulations has been committed by a body corporate, every officer of the body corporate shall also be guilty of the offence and liable to be proceeded against and punished accordingly unless the officer proves that —\n\n(a) the offence was committed without the consent or connivance of the officer; and\n\n(b) the offence was not attributable to any neglect on his part.\n\n(2) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.\n\n(3) Where an offence against this Act or the building regulations has been committed by a partnership, each partner of the partnership shall also be guilty of the offence and liable to be proceeded against and punished accordingly unless the partner proves that —\n\n(a) the offence was committed without the consent or connivance of the partner; and\n\n(b) the offence was not attributable to any neglect on his part.\n\n(4) Where an offence against this Act or the building regulations has been committed by an unincorporated association (other than a partnership), every officer of the unincorporated association and every member of its governing body shall also be guilty of the offence and liable to be proceeded against and punished accordingly unless the officer or member, as the case may be, proves that —\n\n(a) the offence was committed without the consent or connivance of the officer of the unincorporated association or member of its governing body, as the case may be; and\n\n(b) the offence was not attributable to any neglect on the part of that officer or member.\n\n(5) In this section —\n\n(a) in relation to a body corporate, means any director, partner, of the committee of Chief Executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or\n\n(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of a committee and includes any person purporting to act in any such capacity; “partner” includes a person purporting to act as a partner.\n\n(6) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations providing for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the written law of a country or territory outside Brunei Darussalam."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Protection from liability"
+   },
+   "text": {
+    "en": "(1) No liability shall lie against the Government or any authorised officer by reason of the fact that any building works are carried out in accordance with this Act or that such building works or plans of the building works are subject to inspection or approval by the Authority or any authorised officer.\n\n(2) Nothing in this Act shall make it obligatory for the Authority to inspect any building or building works or the site of any proposed building to ascertain whether the provisions of this Act are complied with or whether any plans, certificates, notices or other documents submitted to the Authority are accurate.\n\n(3) No matter or thing done by the Authority or any authorised officer shall, if it were done bona fide for the purpose of carrying out this Act, subject the Authority or any authorised officer personally to any action, liability, claim or demand.\n\n(4) Where the Authority provides any information to any person in respect of any building or building works by electronic or other means, neither the Government, the Authority nor any authorised officer liable for any loss or damage suffered by any person by reason of any error or omission of whatever nature or howsoever caused, including any defect or breakdown in the electronic equipment used for providing the information, if such error or omission is made in good faith and in the ordinary course of duties of the Authority or any authorised officer."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Power to enter premises"
+   },
+   "text": {
+    "en": "(1) The Authority or any authorised officer for this purpose may enter any premises at all reasonable hours for the purpose of —\n\n(a) ascertaining whether there is, or has been, on or in connection with the premises, a contravention of this Act or the building\n\n(b) ascertaining whether circumstances exist that would authorise the Authority to take any action or execute any work under this Act or the building regulations;\n\n(c) taking any action or carrying out any work, authorised or required by this Act or the building regulations; or\n\n(d) inspecting the documents, books or records kept and maintained by a qualified person under section 13(4)(d) respectively.\n\n(2) For the purposes of subsection (1), the Authority or any authorised officer under subsection (1) may take such steps as the Authority or he may consider necessary, including the making of openings and the taking without payment of reasonable samples of building materials for analysis.\n\n(3) The results of any analysis of a sample of building materials taken under subsection (2) shall not be admissible as evidence in any proceedings under this Act or the building regulations unless the samples were taken in the prescribed manner.\n\n(4) A certificate of the results of an analysis of a part of a sample taken under subsection (2) shall be signed by the analyst but the analysis may be made by a person acting under the direction of the analyst.\n\n(5) For the purposes of any inspection under subsection (1)(d), the qualified person or builder concerned shall afford the Authority or any authorised officer access to and shall produce the documents, books or records and shall give such information and facilities as may be required by the Authority or a person appointed under subsection (1).\n\n(6) Any qualified person or builder, as the case may be, who contravenes or fails to comply with subsection (5) is guilty of an offence.\n\n(7) The documents, books or records referred to in subsection (5) shall not be required to be produced at such times or at such places as would interfere with the proper execution of the building works.\n\n(8) Any person who wilfully obstructs the Authority or any authorised officer appointed under subsection (1) in the performance of any matter or thing which the Authority or he, as the case may be, is authorised to do by this section is guilty of an offence."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Building to which public have access to be clean"
+   },
+   "text": {
+    "en": "(1) The owner or the occupier of any building or any part thereof to which the public have access shall —\n\n(a) regularly clean and keep clean and in good repair such building or part thereof; and\n\n(b) keep such building or part thereof free of any condition which may endanger the lives or health of his employees, members of the public and other users thereof.\n\n(2) Where, in the opinion of the Authority, the owner or the occupier of any such building or part thereof fails to comply with subsection (1)(a) or (b), the Authority may, by notice in writing, require such owner or occupier within such period as may be specified therein to take such steps as the Authority deems fit.\n\n(3) Any person who contravenes subsection (1) or refuses, neglects or fails to comply within such period as may be specified in any notice issued by the Authority under subsection (2) is liable on conviction to a fine not exceeding $20,000 and is also liable to a further fine not exceeding $500 for every day during which the offence is continued after expiry of the period specified in the notice.\n\n(4) Where any person who has been served with a notice under subsection (2) fails to comply therewith, the Authority may in its discretion, and without prejudice to any proceedings under subsection (3) and whether before or after the commencement or conclusion of such proceedings, carry out all or any of the requirements set out in such notice and recover from such person the costs and expenses thereof.\n\n(5) The Authority may certify such costs and expenses incurred and the certificate of the Authority shall be conclusive proof of the sum due and shall not be subject to any appeal or review in any court."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Presumptions and defences"
+   },
+   "text": {
+    "en": "(1) In any proceedings instituted under this Act for the commencement or carrying out of any building works on any premises in contravention of this Act or the building regulations, the owner of the premises at the time the building works were commenced or carried out shall be presumed, until the contrary is proved, to be the person commencing or carrying out the building works.\n\n(2) Where anything is required under this Act to be done by the owner of a building, and there is more than one owner of such building, it shall be a defence to any prosecution for failing to do that thing —\n\n(a) that such thing was done by another owner of the building; or\n\n(b) that any notice or order in respect of such thing required under this Act to be served on the owner was served on another owner of the building and not on the person charged."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Occupier may execute work in default of owner"
+   },
+   "text": {
+    "en": "(1) Whenever default is made by an owner of any premises in the execution of any work required under this Act to be executed by him, an occupier of the premises may, with the approval of the Authority, cause the work to be executed.\n\n(2) The costs and expenses thereof shall be recoverable by the occupier from the owner or the amount may be deducted out of the rent from time to time becoming due from him to the owner.\n\n(3) The occupier may, in the absence of any special agreement to the contrary, retain possession of the premises until the costs and expenses incurred by him have been fully reimbursed."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Proceedings if occupier opposes execution of works"
+   },
+   "text": {
+    "en": "(1) Where —\n\n(a) the owner of any premises is required under this Act or the building regulations to carry out any work or make any provision in respect of the premises;\n\n(b) the owner has given written notice to the occupier of the premises of his intention to carry out the work or make such provision; and\n\n(c) the occupier prevents the owner from carrying out the work or making such provision in respect of the premises, a Court of a Magistrate, upon proof thereof and upon application by the owner, may make an order in writing requiring the occupier to permit the owner to execute all such work or to make such provision with respect to the premises as may be required by this Act or the building regulations and may also, if the Court thinks fit, order the occupier to pay to the owner the costs relating to the application or order.\n\n(2) If, after the expiration of 8 days from the date of the order, the occupier continues to refuse to permit the owner to execute such work or make such provision as may be required by this Act or the building regulations, the occupier is guilty of an offence and liable on conviction to a fine not exceeding $2,000 for every day during which he so continues to refuse.\n\n(3) Every such owner shall, during the continuance of such refusal, be discharged from any penalties to which he might otherwise have become liable by reason of his default in executing the work or making provision in respect of the premises or building."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Recovery of costs and expenses payable by owners"
+   },
+   "text": {
+    "en": "(1) All expenses incurred by the Authority in or about the execution of any work pursuant to any provision of this Act shall be recoverable from the person who is the owner of the premises on the date on which the works are completed.\n\n(2) As from the date of the completion of the work, the expenses due thereon shall be, until recovered, a first charge on the premises and on all estates, exercisable against the premises and the estates and all movable property or crops for the time being found thereon, notwithstanding any change in the ownership or occupation of the premises subsequent to that date.\n\n(3) The Authority may certify the expenses due and the names of the persons liable therefor and may by such certificate apportion the expenses among those persons.\n\n(4) A copy of the certificate shall be served upon each of those persons referred to in subsection (3), but where no such persons may be found, the certificate is deemed to have been duly served if a copy thereof is posted at the office of the Authority and another copy thereof is affixed to some conspicuous part of the premises in respect of which the expenses have been incurred.\n\n(5) A certificate certified by the Authority under subsection (3) and setting forth the amount claimed as due to the Authority and the persons as liable for the payment thereof shall be prima facie evidence of the facts certified therein and of the signature of the Authority thereto.\n\n(6) If any sum or any part thereof due to the Authority under this Act remains unpaid at the expiration of one month commencing from the date of service of the certificate under subsection (4), or such further period as the Authority may allow, it is deemed to be arrears."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Recovery of costs and expenses by instalments"
+   },
+   "text": {
+    "en": "(1) Where the Authority has incurred expenses in or about the execution of any work which are recoverable from any person, the Authority may either recover such expenses in the manner provided in section 61 or, if the Authority thinks fit, may obtain an undertaking from the person for the payment of such instalments as will be sufficient to defray the whole amount of such expenses within a period of 10 years.\n\n(2) Upon default in payment of any instalment upon the date appointed for payment thereof by any such undertaking, the whole of the balance then outstanding of such amount shall immediately become due and payable and, notwithstanding any change in the ownership or occupation of the premises since the date of the undertaking, may be recovered by the same means and in the like manner as provided in section 61."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Liability of transferor of property in respect of expenses incurred by"
+   },
+   "text": {
+    "en": "(1) Where a person sells or transfers any premises in respect of which expenses have been incurred by the Authority in or about the execution of any work required to be done under this Act which are recoverable from the owner thereof, the person shall continue to be liable for the payment of all such expenses payable in respect of the premises and for the performance of all other obligations imposed by this Act upon the owner of those premises which became payable or were required to be performed prior to the transfer.\n\n(2) Nothing in subsection (1) shall affect the liability of the purchaser or transferee to pay such expenses in respect of the premises or affect the right of the Authority to recover such expenses or to enforce any obligation"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Property and materials seized or removed by Authority"
+   },
+   "text": {
+    "en": "(1) Any property or materials seized or removed by the Authority, in the exercise of its powers under this Act, may be forfeited to the Government and sold or otherwise disposed of by the Authority unless a claim is made by the person to whom the property or materials belong within 2 weeks of the seizure or removal in which case the property or materials may be returned to the person on such conditions as the Authority may impose.\n\n(2) Where the Authority sells any property or materials under subsection (1), the Authority shall pay on demand the proceeds of the sale to the owner to whom the property or materials belonged after deducting the amount of any expenses recoverable by the Authority from him.\n\n(3) Any proceeds of the sale of property or materials under this section not claimed within 2 years of the sale shall be paid into the Consolidated Fund."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "(1) Any notice, order or document required or authorised to be served under this Act is deemed to be sufficiently served —\n\n(a) by delivering a copy thereof personally or by leaving it with some adult person at the last known place of residence of the person on whom the notice is to be served;\n\n(b) by leaving it at the usual or last known place of residence or business of the person on whom the notice is to be served in a cover addressed to that person or by posting it upon a conspicuous part of those premises;\n\n(c) by sending it by registered post addressed to the person on whom the notice is to be served at his usual or last known place of residence or business; or\n\n(d) in the case of an incorporated company, a partnership or a body of persons —\n\n(i) by delivering it to the secretary or other like officer of the company, partnership or body of persons at its registered office or principal place of business; or\n\n(ii) by sending it by registered post addressed to the company, partnership or body of persons at its registered office or principal place of business.\n\n(2) Any notice, order or document required or authorised to be served under this Act on the owner or occupier of any premises or building is also deemed to be sufficiently served by delivering a copy thereof personally to some adult person on the premises or building or, if there is no such person to whom it can with reasonable diligence be delivered, by affixing the notice, order or document to some conspicuous part of the premises or building.\n\n(3) Any notice, order or document required or authorised by this Act to be served on the owner or the occupier of any premises is deemed to be properly addressed if addressed by the description of the “owner” or “occupier” of the premises without further details.\n\n(4) Any notice, order or document to be issued by the Authority under this Act or the building regulations may be issued in such form as the Authority may determine and every such notice, order or document shall be valid if the signature of the Authority or any officer authorised under this Act is duly printed or written thereon.\n\n(5) Any notice, order or document sent by registered post to any person in accordance with subsection (1) is deemed to be duly served on the person at the time when the notice, order or document, as the case may be, would in the ordinary course of post be delivered and, in proving service of the notice, order or document, it shall be sufficient to prove that the envelope containing the same was properly addressed, stamped and posted by registered post."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 66."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Furnishing of information"
+   },
+   "text": {
+    "en": "(1) The Authority may by notice require any person who appears to the Authority to be acquainted with the circumstances of any case which is under investigation to furnish the Authority within such time as may be specified in the notice with information relating to that case in the possession of that person.\n\n(2) Any person who fails to comply with any notice under subsection (1) or who furnishes any information which he knows or has reason to believe is false is guilty of an offence."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Section 67."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "text": {
+    "en": "(1) A police officer may arrest without warrant any person who has committed, or whom he reasonably suspects to have committed, an offence against this Act or the building regulations —\n\n(a) if the person declines to give his name and address; or\n\n(b) if there is reason to doubt the accuracy of the name and address, if given.\n\n(2) A person arrested under this section, unless his name and address are correctly ascertained, shall within 24 hours of the arrest be brought before a Magistrate or be released upon signing a bond with or without surety to appear before a Magistrate.\n\n(3) The person brought before a Magistrate under subsection (2) may —\n\n(a) be ordered to be detained in custody until he can be tried; or\n\n(b) if required by the Magistrate, be released upon signing a bond, with or without surety, to appear before a Court of a Magistrate."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Section 68."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "text": {
+    "en": "(1) Subject to this section, the contents of any document prepared, issued or served under, by virtue of or for the purposes of this Act or the building regulations shall until the contrary is proved be presumed to be correct.\n\n(2) The production of any document purporting to contain any apportionment made under section 61(3) shall, without any other evidence, be received as prima facie proof of the making and validity of the apportionment mentioned therein.\n\n(3) In any proceedings under this Act or the building regulations, a certificate of analysis under section 56(4) purporting to be signed by an analyst shall, on its production by the prosecution without proof of the signature of the analyst, be sufficient evidence of the facts stated therein unless the defendant requires the analyst to be called as a witness, in which case he shall give notice thereof to the prosecution not less than 3 clear days before the day fixed for the hearing of the summons.\n\n(4) All records and other documents required by this Act or the building regulations to be kept by the Authority are deemed to be public documents, and copies thereof or extracts therefrom certified by the officer responsible for the custody thereof to be true copies or extracts, as the case may be, subscribed by that officer with his name and his official title shall be admissible in evidence as proof of the contents of the documents or extracts.\n\n(5) Where any information in respect of any building or building works is provided by the Authority by electronic means, the production of any document under the hand of any authorised officer responsible for providing such information purporting to be a hard-copy transcript of all or any such information shall, in all courts and in all proceedings, be sufficient evidence of the information provided electronically and all courts shall in all proceedings take judicial notice of the signature of the public officer."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Section 69."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Jurisdiction of courts"
+   },
+   "text": {
+    "en": "Notwithstanding the provisions of the Criminal Procedure Code (Chapter 7), a Court of a Magistrate shall have power to impose the maximum penalties provided for an offence against this Act."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Section 70."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "text": {
+    "en": "Any person who is guilty of an offence against this Act for which no penalty is expressly provided is liable on conviction to a fine not exceeding $10,000, imprisonment for a term not exceeding 6 months or both."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Section 71."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "(1) The Authority may, in its discretion, compound any offence against this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —\n\n(a) one half of the amount of the maximum fine that is prescribed for the offence; or\n\n(b) $5,000, whichever is the lower.\n\n(2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.\n\n(3) The Minister may make regulations to prescribe the offences which may be compounded.\n\n(4) All sums collected under this section shall be paid to the Consolidated Fund."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "Section 72."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Adoption of codes and standards"
+   },
+   "text": {
+    "en": "(1) Any building regulations may adopt wholly or partially or as amended by the regulations or by reference any code, standard, rule, specification or provision which relates to any matter with which the building regulations deal and which is —\n\n(a) recommended, issued or adopted by the Authority;\n\n(b) recommended, issued or adopted by —\n\n(i) the British Standards Institution; or\n\n(ii) any other standards organisation or body of any place outside Brunei Darussalam being an organisation or body approved by the Authority; or\n\n(c) included in any document issued by any Government department or issued by any public authority constituted by any written law.\n\n(2) The Authority shall cause a copy of every code, standard, rule, specification or provision adopted under subsection (1) (other than a code, standard, rule, specification or provision recommended, issued or adopted by the Authority) to be made available for inspection by members of the public without charge at the office of the Authority during normal office hours.\n\n(3) In any proceedings under the building regulations, a copy certified by the Authority as a true copy of a code, standard, rule, specification or provision adopted under subsection (1) (other than a code, standard, rule, specification or provision recommended, issued or adopted by the Authority) shall be evidence of the code, standard, rule, specification or provision so adopted."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "Section 73."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Application of Act to Government"
+   },
+   "text": {
+    "en": "(1) Except as provided in subsection (2), this Act shall bind the Government and shall apply to —\n\n(a) any premises wholly or partly owned or occupied by the Government; and\n\n(b) any premises in which any building operation or any work of engineering construction is carried on by or on behalf of the\n\n(2) Nothing in this Act shall render the Government liable to prosecution for an offence.\n\n(3) For the avoidance of doubt, no person shall be immune from prosecution for any offence against this Act by reason that the person is engaged to provide services to the Government."
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "Section 74."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "text": {
+    "en": "(1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make such regulations as he considers necessary or expedient for giving effect to or carrying out the purposes and provisions of this Act, including the prescription of fees and of any other thing required to be or which may be prescribed under this Act, and for the due administration thereof, and such regulations may include such incidental, consequential and supplementary provisions as he considers necessary or expedient.\n\n(2) Notwithstanding subsection (1), the Minister may make regulations for or in respect of all or any of the following matters —\n\n(a) the regulation or prohibition of the exhibition of advertising signs, skysigns, aerial signs and projected advertisement in or on any premises and the regulation of the size and construction of those signs and advertisements;\n\n(b) the submission of plans of building works, the authorisation of persons qualified to submit the same and their duties and responsibilities, and the nature or classification of plans which each person may submit;\n\n(c) the manner of making applications for and granting of approval of plans of building works and permits to carry out building\n\n(d) the establishing of objectives and performance requirements for the design and construction of buildings;\n\n(e) the structural strength and stability of buildings or proposed buildings, including —\n\n(i) precautions against overloading;\n\n(ii) measures to safeguard adjacent buildings;\n\n(iii) underpinning;\n\n(f) the design and construction of buildings, including —\n\n(i) the preparation of sites for building works;\n\n(ii) exterior features;\n\n(iii) the natural lighting and ventilation of buildings;\n\n(iv) the headroom of rooms, cubicles and staircases and other spaces within buildings;\n\n(v) the suitability and use of materials and components;\n\n(vi) environmental sustainability measures that improve the total quality of life and minimises adverse effects to the environment, both now and in the future;\n\n(g) the demolition of buildings and the safety precautions to be taken in respect thereof;\n\n(h) the reporting of dangerous occurrences (as defined in section 37(5)) in premises at which building works are carried out;\n\n(i) prohibiting or regulating the occupation of buildings;\n\n(j) the control and regulation of measures for energy conservation in buildings;\n\n(k) the provision of embankments and retaining walls;\n\n(l) measures to improve efficiency and standardisation in the construction industry relating to design, processes, construction techniques, products and materials;\n\n(m) the regulation of persons authorised to carry out installation or retrofitting of any exterior feature, including prescribing the qualifications and training of such persons, and their duties and responsibilities in connection with installing or retrofitting the exterior\n\n(n) measures for the construction, installation and inspection of lifts and escalators;\n\n(o) the control, regulation and supervision by registration, licensing, inspection or otherwise of places to which the public has\n\n(p) the prescribing of documents, books or records to be kept and reports or certificates to be made under this Act;\n\n(q) the time and manner of making, and the information and documents to be furnished in respect of, an application for a temporary occupation permit and a occupation permit;\n\n(r) the manner in which the duties and responsibilities of accredited checkers are to be discharged;\n\n(s) the manner in which appeals may be made to and determined by the Minister under this Act and the information to be supplied by the Authority in connection therewith;\n\n(t) the granting of permits for the erection, demolition and occupation and the control of buildings required for a limited time or constructed of short-lived materials;\n\n(u) the procedure for the sampling of building materials under section 56; and\n\n(v) the prescription of forms necessary for the administration of\n\n(3) Regulations made under this section may provide that —\n\n(a) any particular objective and performance requirement for the design and construction of any building is deemed to be complied with if the building is constructed with such specifications, materials, designs or methods of construction as may be specified by the\n\n(b) the Authority may issue in such form as it thinks fit, and may amend, one or more Approved Documents setting out the specifications, materials, designs or methods of construction which shall, notwithstanding any alternative means of achieving compliance, be deemed to comply with the relevant objective and performance requirement for the design and construction of buildings prescribed in those regulations.\n\n(4) The Minister may, in making any building regulations under this section, provide that any contravention of or failure to comply with any provision thereof is an offence and may prescribe punishment by a fine not exceeding $10,000, imprisonment for a term not exceeding one year or both. Transitional provisions"
+   }
+  },
+  {
+   "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "Section 75."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "____________________________"
+   },
+   "text": {
+    "en": "(1) Any licence, permission, approval or other document relating to building control prepared, made or granted by the Division on Building Control and Construction Industry of Ministry of Development, Planning Authority, Municipal Board and valid immediately prior to the commencement of this Act is deemed to have been prepared, made or granted under the corresponding provisions of this Act.\n\n(2) A valid and subsisting occupation permit or a valid and subsisting temporary occupation permit shall have the same force and effect as an occupation permit or temporary occupation permit, respectively, granted\n\n(3) The powers conferred on the Authority by this Act may be exercised in respect of —\n\n(a) any building erected without the approval of the relevant authority before the commencement of this Act; and\n\n(b) any temporary building in respect of which no temporary permit, permission or other similar document relating to building control issued by the relevant authority, and such building is deemed unauthorised for the purposes of this Act.\n\n(4) Where any written law or document refers expressly or by implication to a temporary occupation permit or occupation permit, the reference shall (except where the context otherwise requires) be construed as a reference to a temporary occupation permit or a occupation permit, respectively.\n\n(5) Notwithstanding the provisions of this Part, any person who, immediately before the commencement of Part 7, is carrying on the business of a builder in Brunei Darussalam shall be entitled to continue doing so for a period of 6 months from that date, and if before the expiry of that period a licence is applied for under Part 7, that person shall be entitled to continue carrying on the business of a builder until —\n\n(a) the date on which a builder’s licence under this Part is issued; or\n\n(b) the application for a licence under Part 7 is refused or withdrawn."
+   }
+  }
+ ]
+}

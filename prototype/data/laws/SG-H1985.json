@@ -1,0 +1,68 @@
+{
+ "id": "SG-H1985",
+ "title": {
+  "zh": null,
+  "en": "Income Tax (Definition of Designated Unit Trust) Rules 2015",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p25",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ITA1947-S520-2015",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 442,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ITA1947-S520-2015?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 2 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1985-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Rules may be cited as the Income Tax (Definition of Designated Unit Trust) Rules 2015 and are deemed to have come into operation on 1 September 2014."
+   }
+  },
+  {
+   "id": "SG-H1985-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definition of “designated unit trust”"
+   },
+   "text": {
+    "en": "2. The unit trust schemes and exchange traded fund interest schemes set out on the Internet website of the Central Provident Fund Board at http://www.cpf.gov.sg are prescribed for the purposes of paragraph (a) of the definition of “designated unit trust” in section 35(14) of the Act."
+   }
+  }
+ ]
+}

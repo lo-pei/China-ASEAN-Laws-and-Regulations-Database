@@ -1,0 +1,104 @@
+{
+ "id": "PH-H5716",
+ "title": {
+  "zh": null,
+  "en": "An Act Creating the Province of Sarangani",
+  "orig": "An Act Creating the Province of Sarangani"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p81",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1992-03-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 7228",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 1923,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1992/ra_7228_1992.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 6 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1992/ra_7228_1992.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H5716-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The Municipalities of Alabel, Glan, Maasin, Maitum, Malapatan, Malungon, and Kiamba are hereby segregated from the Province of South Cotabato and constituted into a separate province to be known as Sarangani. The present Province of South Cotabato minus the territory comprising the municipalities abovementioned shall continue to be known as South Cotabato."
+   }
+  },
+  {
+   "id": "PH-H5716-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Except as otherwise herein provided, all provisions of law now or hereafter applicable to regularly organized provinces shall be applicable to the Province of Sarangani."
+   }
+  },
+  {
+   "id": "PH-H5716-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The provincial capital of Sarangani shall be the Municipality of Alabel, and the capitol building and all other national and provincial offices in the new province shall be established within the government lots thereat."
+   }
+  },
+  {
+   "id": "PH-H5716-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "The creation of the Province of Sarangani as provided in this Act shall be subject to the approval of the majority of the votes cast by the voters of the affected areas in a plebiscite to be conducted by the Commission on Elections within one hundred twenty (120) days from the date of the effectivity of the law as provided in Section 10 of the Local Government Code of 1991: Provided, That, should the voters favor such division, the election of the provincial officials shall be held simultaneously with the forthcoming synchronized national and local elections in May 1992: Provided,further, That, should such election be not possible, the provincial officials shall be elected in special election to be held within sixty (60) days after the plebiscite."
+   }
+  },
+  {
+   "id": "PH-H5716-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Upon the effectivity of this Act, the obligations, funds, assets and other properties of the present Province of South Cotabato shall be divided proportionately between the Province of South Cotabato and the Province of Sarangani by the President of the Philippines upon the recommendation of the Commission on Audit."
+   }
+  },
+  {
+   "id": "PH-H5716-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its publication in at least two (2) newspapers of general circulation."
+   }
+  }
+ ]
+}

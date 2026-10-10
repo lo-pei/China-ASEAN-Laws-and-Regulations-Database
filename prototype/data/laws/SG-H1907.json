@@ -1,0 +1,107 @@
+{
+ "id": "SG-H1907",
+ "title": {
+  "zh": null,
+  "en": "Income Tax (Adjustment on Change of Basis of Computing Profits of Financial Instruments) Regulations 2007",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p24",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ITA1947-S441-2007",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 3391,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ITA1947-S441-2007?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 5 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1907-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Income Tax (Adjustment on Change of Basis of Computing Profits of Financial Instruments) Regulations 2007 and shall be deemed to have come into operation on 1st January 2005."
+   }
+  },
+  {
+   "id": "SG-H1907-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definition"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations, “relevant year of assessment”, in relation to a qualifying person, means the first year of assessment in which the qualifying person is subject to section 34A of the Act.\n(2) Any term used in these Regulations and not defined in these Regulations but defined in FRS 39 shall have the same meaning as in FRS 39."
+   }
+  },
+  {
+   "id": "SG-H1907-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Financial assets and liabilities other than available-for-sale assets"
+   },
+   "text": {
+    "en": "3. If there is a difference between the value of any financial asset (other than an available-for-sale asset) or liability as reflected in the balance-sheet of a qualifying person at the end of the basis period of the year of assessment immediately preceding the relevant year of assessment of the qualifying person, and ––\n(a)the value of such financial asset or liability as reflected in the balance-sheet at the beginning of the basis period of the relevant year of assessment; or\n(b)the value that is recognised for tax purposes as the value of such financial asset or liability at the end of the basis period of the year of assessment immediately preceding the relevant year of assessment,\na corresponding amount shall be brought into account as a positive or negative adjustment (as the case may be) at the beginning of the basis period of the relevant year of assessment; and such adjustment which is not of a capital nature shall be taxed or allowed as a deduction (as the case may be) for the relevant year of assessment."
+   }
+  },
+  {
+   "id": "SG-H1907-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Available-for-sale assets"
+   },
+   "text": {
+    "en": "4. If there is a difference between the value of an available-for-sale asset as reflected in the balance-sheet of a qualifying person at the end of the basis period of the year of assessment immediately preceding the relevant year of assessment of the qualifying person and —\n(a)the value of such asset as reflected in the balance-sheet at the beginning of the basis period of the relevant year of assessment; or\n(b)the value that is recognised for tax purposes as the value of such asset at the end of the basis period of the year of assessment immediately preceding the relevant year of assessment,\na corresponding amount shall be brought into account as a positive or negative adjustment (as the case may be); and such adjustment which is not of a capital nature shall not be taxed or allowed as a deduction for the relevant year of assessment but shall only be taxed or allowed as a deduction when the asset is subsequently impaired or derecognised in accordance with FRS 39."
+   }
+  },
+  {
+   "id": "SG-H1907-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Payment arrangement"
+   },
+   "text": {
+    "en": "5. A qualifying person who becomes subject to section 34A of the Act within 5 years from the beginning of the year in which he first prepares financial accounts in accordance with FRS 39, may pay any tax arising —\n(a)if the qualifying person is a bank or qualifying finance company referred to in section 34A(2)(g) of the Act, from the difference between the positive adjustment under regulation 3 and the amount of deduction allowed in respect of impairment losses under section 34A(2)(g) of the Act; or\n(b)if the qualifying person is a not a bank or qualifying finance company referred to in section 34A(2)(g) of the Act, under regulation 3,\nwithin the period of 5 years from the beginning of the relevant year of assessment of the qualifying person or in accordance with such other arrangement as the Comptroller may approve."
+   }
+  }
+ ]
+}

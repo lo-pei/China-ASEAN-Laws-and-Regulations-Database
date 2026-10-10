@@ -1,0 +1,74 @@
+{
+ "id": "PH-H246",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Section Two Hundred and Sixty-Three of Commonwealth Act Numbered Four Hundred and Sixty-Six, Known as the National Internal Revenue Code",
+  "orig": "An Act to Amend Section Two Hundred and Sixty-Three of Commonwealth Act Numbered Four Hundred and Sixty-Six, Known as the National Internal Revenue Code"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p03",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1947-06-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 151",
+ "officialCode": null,
+ "topics": [
+  "tax"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2407,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1947/ra_151_1947.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1947/ra_151_1947.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H246-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section two hundred and sixty-three of Commonwealth Act Numbered Four hundred and sixty-six, known as the National Internal Revenue Code, is hereby amended to read as follows:\n\"Sec. 263. Mode of measuring timber. — Except as herein below provided, all timber shall be measured and manifested in the round or squared, before being sawn or manufactured. The volume of all round timber shall be ascertained by multiplying the area of the small end by the length of the log, the diameter of the log to be measured exclusive of the bark; but if the end of a log is irregular the average diameter shall be used; and in order to ascertain the volume of a log more than eight meters long, the diameter of the middle of said log, or the average of the diameters, at both ends thereof, shall be used as basis. If a log in the round, cut under license, is measured and manifested by forest officers, the Director of Forestry shall make due allowance for rot, cavities, or other natural defects; but from any decision of the Director of Forestry in this respect, an appeal shall lie to his Department Head, whose decision shall be final. The manifest of timber cut by licensees operating sawmills in or near the forest shall be attested by forest officers whenever practicable.\n\"The volume of squared timber shall be ascertained by multiplying the average of the cross section measured by the length, to which forty per centum shall be added for loss in squaring: Provided, However, That if squared timber cut under license is measured and manifested by forest officers, the Director of Forestry shall make due allowance for rot, cavities, or other natural defects; but from any decision of the Director of Forestry in this respect, an appeal shall lie to his Department Head, whose decision shall be final. The privilege of manifesting timber after squaring shall, however, be granted only to licensees who have squared their logs in the forests with the ax and intend to take it to market in this form.\n\"If sawn or otherwise manufactured timber is found which has not been manifested in accordance with the provisions hereof, the corresponding forest charges shall be assessed on twice the volume of the actual contents of such sawn or manufactured timber."
+   }
+  },
+  {
+   "id": "PH-H246-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "All acts or parts of acts inconsistent with the provisions of this Act are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H246-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1947."
+   }
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": "PH-H1345",
+ "title": {
+  "zh": "对《国家国内税收法典》的修改",
+  "en": "An Act to Amend Paragraph (B) of Section One Hundred Eighty-Three, and Section One Hundred Ninety of Commonwealth Act Numbered Four Hundred and Sixty-Six, Otherwise Known as the National Internal Revenue Code, as Amended",
+  "orig": "An Act to Amend Paragraph (B) of Section One Hundred Eighty-Three, and Section One Hundred Ninety of Commonwealth Act Numbered Four Hundred and Sixty-Six, Otherwise Known as the National Internal Revenue Code, as Amended"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p18",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1956-06-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1511",
+ "officialCode": null,
+ "topics": [
+  "tax"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 3801,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1956/ra_1511_1956.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1956/ra_1511_1956.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1345-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Paragraph (B) of section one hundred eighty-three of Commonwealth Act Numbered Four hundred sixty-six, otherwise known as the National Internal Revenue Code, as amended, is hereby further amended to read as follows:\n\"(B) Sales tax on imported articles. -When the articles are imported, the percentage taxes established in sections one hundred eighty-four, one hundred eighty-five, and one hundred eighty-six of this Code shall be paid in advance by the importer, in accordance with regulations promulgated by the Secretary of Finance and prior to the release of such articles from customs’ custody, based on the import invoice value thereof, certified to as correct by the Philippine Consul at the port of origin if there is any, including freight, postage, insurance, commission, customs duty, and all similar charges, plus one hundred per centum of such total value in the case of articles enumerated in section one hundred and eighty-four; fifty per centum in the case of articles enumerated in section one hundred and eighty-five; and twenty-five per centum in the case of articles enumerated in section one hundred and eighty-six. The tax imposed in this section shall not apply to articles to be used by the importer himself in the manufacture or preparation of articles subject to specific tax or those for consignment abroad and are to from part thereof.\n\"In case luxury articles brought or imported into the Philippines tax-free by persons, entities or agencies exempt from tax are subsequently sold in the Philippines to non-exempt private persons or entities, the sale or transfer shall be considered as an original transaction subject to percentage tax under this title. The tax due thereon shall be based on the market value thereof, and payable by the purchaser or transferee within thirty days from the date of such sale or transfer. If the tax is not paid within such period, the amount of the tax shall be increased by twenty-five per centum, the increment to be a part of the tax. The tax due on such articles shall constitute a lien on the article itself superior to all other charges or liens, when in the hands of a possessor who acquired the same with knowledge, actual or constructive, that it was admitted into the Philippines tax-free, for five years from the date such articles are purchased from the said tax-exempt persons, entities or agencies. If the lien cannot be enforced, then the original vendor shall pay the tax.\""
+   }
+  },
+  {
+   "id": "PH-H1345-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section one hundred ninety of Commonwealth Act Numbered Four hundred sixty-six, otherwise known as the National Internal Revenue Code, as amended, is hereby further amended by adding a new paragraph thereto, which provides as follows:\n\"In case luxury articles brought or imported into the Philippines tax-free by persons, entities or agencies exempt from tax are subsequently sold or transferred in the Philippines to non-exempt private persons or entities, the sale or transfer shall be subject to compensating tax. The tax shall be based on the market value of the article, and payable by the purchaser or transferee within thirty days from the date of such sale or transfer and, if not paid during such period, the same shall be increased by twenty-five per centum, the increment to be a part of the tax. The tax due on such articles shall constitute a lien on the article itself superior to all other charges or liens when in the hands of a possessor who acquired the same with knowledge, actual or constructive, that it was admitted into the Philippines tax-free, for five years from the date such articles are purchased from the said tax-exempt persons, entities, or agencies. If the lien cannot be enforced, then the original vendor shall pay the tax.\""
+   }
+  },
+  {
+   "id": "PH-H1345-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Date of effectivity. -This Act shall take effect upon its approval.\nApproved: June 16, 1956."
+   }
+  }
+ ]
+}

@@ -1,0 +1,3587 @@
+{
+ "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE",
+ "title": {
+  "zh": null,
+  "en": "SYARIAH COURTS CIVIL PROCEDURE CODE",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p11",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2022",
+ "effectiveDate": null,
+ "versionDate": "2022",
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": "CAP. 237",
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "An Act relating to Civil Procedure for the Syariah Courts"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 235,
+ "chars": 106382,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-237-2022-ED-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE.pdf",
+ "fetchedAt": "2026-10-09",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-237-2022-ED-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE.pdf》（161 页），本次切分 235 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Syariah Courts Civil Procedure Code."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "(1) In this Code, unless the context otherwise requires — “Act” means the Religious Council and Kadis Courts Act (Chapter 77); “bailiff” includes the Registrar or any officer of the Court charged with performing the duties of a bailiff; “bermastautin” means permanently or ordinarily residing in a “bermukim” the to in a certain area whilst not being a traveller; “certified translation” means a translation of any document certified as correct by the Registrar of the Court or by any other person accepted by the Court; “Court” means the Syariah Subordinate Court, the Syariah High Court or the Syariah Court of Appeal as the case may be, as established under section 6(1) of the Syariah Courts Act “form” means a form set out in Schedule 2 and a form referred to by a number means the form so numbered in that Schedule; “Hukum Syara’” means the laws of any sects which the Court “judgment” includes grounds of judgment; da’in” means person having the right to enforce judgment for payment of money either by instalment or madin” means a person liable under any judgment for “lien” means a right on the property of a judgment madin to the extent of the indebtedness; “Majlis” means the Majlis Ugama Islam constituted under section 5 of the Religious Council and Kadis Court Act (Chapter 77); “minor” means a person who has not attained the age of 18 years according to the Islamic calender (qamariah); “notice” means written notice unless the Court in any case shall “person of unsound mind” means a person of unsound mind in Hukum Syara’ or the Mental Health Order, 2014 (S 25/2014); “person under disability” includes a minor, a person of unsound mind and a person prohibited from administering his property; “property” means movable or immovable property and includes intellectual property; “Registrar” or “Registrar of the Syariah Court” means the Chief Registrar of the Syariah Appeal Court, a Deputy Registrar and Registrars of the Syariah High Court and Assistant Registrars of the Syariah Subordinate Courts appointed under section 13 of the Syariah Courts Act (Chapter 184); “Syariah Appeal Court Judge” means a Judge of the Syariah Appeal Court appointed under section 9(1) of the Syariah Courts “Syariah High Court Judge” means a Judge of the Syariah High Court appointed under section 10(1) of the Syariah Courts Act “Syariah Subordinate Court Judge” means a Judge of the Syariah Subordinate Court appointed under section 11 of the Syariah Courts Act (Chapter 184); “Syar’ie Judge” or “Judge” means a Syar’ie Judge appointed under section 9(1), 10(1) and 11 of the Syariah Courts Act (Chapter 184) and includes the Chief Syar’ie Judge; “Syar’ie Lawyer” means a person admitted as Syar’ie Lawyer under section 27(1) of the Syariah Courts Act (Chapter 184).\n\n(2) All words and expressions used in this Code and not defined therein but defined in the Interpretation and General Clauses Act (Chapter 4), shall have the same meanings assigned thereto respectively to the extent that they do not conflict with Hukum Syara’.\n\n(3) For the avoidance of doubt as to the identity or interpretation of words and expressions used in this Code that are listed in Schedule 1, reference may be made to the form in Arabic script for those words and expressions as shown against them in Schedule.\n\n(4) The Chief Syar’ie Judge may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, amend, delete from or add to Schedule 1."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "heading": {
+    "en": "Text in Malay language shall prevail"
+   },
+   "text": {
+    "en": "If any conflict or doubt arises as to the meaning or requirement of a provision under this Code, the text in Malay language shall prevail. Saving of prerogative"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Nothing contained herein shall derogate from or affect the prerogative rights and powers of His Majesty the Sultan and Yang Di-Pertuan as the Head of the Religion of Brunei Darussalam."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Non-compliance with any provisions of this Code shall not render any proceedings, any step taken in the proceedings or any document, judgment or order void unless the Court shall so order, but the Court may —\n\n(a) on its own motion; or\n\n(b) on the application of any party, set aside any proceedings wholly or in part in which non-compliance occurred, any step taken at any stage of the proceedings or any document, judgment or order, or order such amendments to be made or make such order as may be just. Application to set aside for irregularity"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "An application to set aside for irregularity any proceedings, any step taken at any stage of the proceedings or any document, judgment or order therein shall not be allowed unless it is made within a reasonable time and before the party applying has taken a fresh step after becoming aware of the"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "text": {
+    "en": "Every document filed in a Court shall bear the general title as in Form MS 1."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "Mode of commencing proceedings"
+   },
+   "text": {
+    "en": "(1) Subject to subsection (2) or any other written law, every civil proceeding in a Court shall be commenced by summons.\n\n(2) All proceedings in respect of any of the matters specified in Schedule 3 shall be commenced by application.\n\n(a) shall be in Form MS 2; and\n\n(b) shall be accompanied by a statement of claim which shall comply with the requirements of section 62."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "Copies of summons"
+   },
+   "text": {
+    "en": "Every summons against a single defendant shall be presented for filing in triplicate and an additional copy shall be presented for every additional defendant."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "Issue and service of summons"
+   },
+   "text": {
+    "en": "(1) The Registrar shall examine every summons, and if —\n\n(a) the summons is in proper form; and\n\n(b) the plaintiff has paid the fees prescribed by rules (including the fees for service if it is required that service be made by the Court), the Registrar shall assign a serial number thereto, seal, sign and issue it.\n\n(2) If the Registrar is of the opinion that the summons is not in proper form, he may reject it or direct that it be amended."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "Validity and extension of summons"
+   },
+   "text": {
+    "en": "(1) For the purpose of service, a summons shall be valid in the first instance for 12 months, beginning with the date of its issue.\n\n(2) Where a summons has not been served on a defendant within the period specified in subsection (1), an application may be made to the Court to extend the validity of the summons before the expiry date or at any time thereafter, if any, as the Court may allow.\n\n(3) The Court may by order extend the validity of the summons for such period not exceeding 12 months at any one time beginning with the day next following that on which it would otherwise expire."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "text": {
+    "en": "If a summons is lost after issue, the Court may order a new summons to be issued bearing the date of, and having the like effect as, the original"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "Form of application"
+   },
+   "text": {
+    "en": "(1) Save as hereinafter provided, every application shall be made by notice in Form MS 3 and supported by an affidavit.\n\n(2) Every application shall bear such title as may be appropriate.\n\n(3) An application shall state in full the nature of the order applied for, and in sufficient detail the facts relied upon in support thereof, and unless the Court otherwise orders, it shall be served on all parties and persons interested therein.\n\n(4) In every application, the objector shall be referred to as the respondent."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "Application of sections 10, 11, 12 and 13"
+   },
+   "text": {
+    "en": "Sections 10, 11, 12 and 13 apply mutatis mutandis in relation to an application as they apply in relation to summons. Application for divorce"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "Oral Claim, Application or Defence"
+   },
+   "text": {
+    "en": "Notwithstanding anything contained in this Chapter, an application for the dissolution of marriage shall be made in accordance with Part V, Islamic Family Law Act (Chapter 217) and further proceedings in respect thereof shall be conducted in accordance with provisions in this Code."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "text": {
+    "en": "(1) Notwithstanding the provisions of this Code, the Court may, in its discretion, allow any claim, application to be commenced or defence to be Provided that in such a case, the Court shall record the particulars of the claim, application or defence having regard to the provisions of this Code relating to summons or applications, as the case may be.\n\n(2) The Court shall serve a copy of the record made under subsection (1) on the party for whom the particulars of the claim, application or defence, as the case may be, is recorded.\n\n(3) On receipt of the record referred to in subsection (2), the party on whom it is served shall —\n\n(a) certify the particulars contained therein by setting down his signature or affixing his thumbprint on the record;\n\n(b) prepare sufficient copies of the record so that one copy can be served on all parties to the proceedings; and\n\n(c) serve one copy of the record to all parties at least 14 days before the specified date for trial of the action.\n\n(4) Where the Court allows a claim, an application or a defence to be made in accordance with subsection (1), it shall impose such fees as may be prescribed by the rules."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "text": {
+    "en": "In this Part, “plaintiff” includes an applicant and “defendant” includes a respondent."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Joinder of parties"
+   },
+   "text": {
+    "en": "(1) Two or more persons may be joined together in one action as plaintiffs or as defendants with leave of the Court or where —\n\n(a) separate actions were brought by or against each of them, as the case may be, and some common question of law or fact would arise in all the actions; and\n\n(b) all rights to relief claimed in the action, whether they are joint, several or in the alternative, are in respect of or arise out of the same transaction or series of transactions.\n\n(2) Notwithstanding subsection (1), if it appears to the Court that any joinder may embarrass any defendant or delay the trial or be otherwise inconvenient, the Court may on its own motion or on the application of the defendant order separate trials or make such other orders as it thinks fit.\n\n(3) Judgment may be given without any amendment to any plaintiff for the relief to which he is entitled, or against one or more of the defendants according to their respective liabilities."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Changes of parties"
+   },
+   "text": {
+    "en": "(1) Subject to subsection (2), the Court may on its own motion or on the application of any parties at any stage of the proceedings, strike out, substitute or add any party in such manner and upon such terms as may be just and proper.\n\n(2) No person shall be made plaintiff without his consent or if under disability, the consent of his representatives or guardian ad litem which shall be signified in writing or in such other manner as may be authorised."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Non-joinder of parties"
+   },
+   "text": {
+    "en": "At any stage of the proceedings in any cause or matter, the Court may upon such terms as it thinks just and either on its own motion or on\n\n(a) order any person who has been improperly or unnecessarily made a party or who has for any reason ceased to be a proper or necessary party, to cease to be a party;\n\n(b) order any of the following persons to be added as a party\n\n(i) any person who ought to have been joined as a party or whose presence before the Court is necessary to ensure that all matters in dispute in the cause or matter may be effectually and completely determined and adjudicated\n\n(ii) any person between whom and any party to the cause or matter there may exist a question or issue arising out of or relating to or connected with any relief or remedy claimed in the cause or matter which in the opinion of the Court it would be just and convenient to determine as between him and that party as well as between the parties to the cause or matter, but no person shall be added as a plaintiff without his consent which shall be signified in writing or in such other manner as may be authorised."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Amendment and service"
+   },
+   "text": {
+    "en": "(1) Where any change of parties occur during the pendency of any\n\n(a) the title of the proceedings shall be amended accordingly; and\n\n(b) any person added or substituted as a defendant shall be served with all documents of the proceedings unless he consents that the service is not necessary.\n\n(2) The the to in\n\n(b) are deemed to have been commenced upon the date of such service or consent, as the case may be."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Abatement of action"
+   },
+   "text": {
+    "en": "In the case of marriage, death or bankruptcy of any party in a cause or\n\n(a) if the cause of action has lapsed in accordance with Syara’, the proceedings shall abate except as provided in\n\n(c);\n\n(b) if the cause of action continues in accordance with Syara’, the proceedings shall not abate or become defective; or\n\n(c) in case of death after the conclusion of the trial but before judgment is delivered, the proceedings shall not abate and judgment may be delivered. Devolution of interest"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Persons Under Disability"
+   },
+   "text": {
+    "en": "(1) In the case of any assignment, creation, change, transmission or devolution of the interest, estate, title or liability of any party, between the commencement of any proceedings and judgment therein, the person to or upon whom the interest, estate, title or liability has come or devolved may apply to be added as a party or to be made a party in substitution for some other party, and the plaintiff may in like manner apply for such addition or substitution, if the party concerned was a defendant.\n\n(2) Notice of any application under subsection (1) shall be served on\n\n(3) Where an application should be made under subsection (1) and is not made within a reasonable period, the Court may, on its own motion or on the application of any party, order the party or person concerned to make the application within a stated time, and in default may strike out or dismiss the proceedings or order that the party or person concerned be precluded from defending, as the case may be.\n\n(4) Where any of the matters referred to in subsection (1) has occurred after judgment and there is money in Court to the credit of the proceedings, the Court may order any person or persons to be served with any application for an order for payment out of Court."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Person under disability"
+   },
+   "text": {
+    "en": "Any person under disability may sue or be sued by his guardian"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Consent or waiver by guardian"
+   },
+   "text": {
+    "en": "Any consent given or waiver made on behalf of a person under disability by his guardian ad litem with the approval of the Court shall be binding on the person under disability."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "General provisions as to person under disability"
+   },
+   "text": {
+    "en": "Where a plaintiff is a person under disability —\n\n(a) no consent or settlement shall be valid without the Court’s\n\n(b) all money or property recovered for the plaintiff in consequence of the proceedings shall be paid into Court or deposited in Court, unless the Court otherwise orders."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Effect of non-compliance"
+   },
+   "text": {
+    "en": "Any proceedings taken by or against a person under disability otherwise than in accordance with this Code or Hukum Syara’ shall be quashed and any judgment or order made therein may be set aside."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Substitution of guardian ad litem"
+   },
+   "text": {
+    "en": "(1) The Court may for sufficient reason in accordance with substitute a guardian ad litem for another as it thinks fit and willing.\n\n(2) The Court may appoint any Registrar of the Court to act as a ad litem."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Minor plaintiff attaining age of majority"
+   },
+   "text": {
+    "en": "(1) A minor plaintiff may, on attaining the age of majority during the pendency of any proceedings, either withdraw the proceedings before taking any step therein or continue the proceedings.\n\n(2) No leave of the Court to withdraw the proceedings shall be required but Part 13 applies as regards the matters.\n\n(3) If the plaintiff withdraws the proceedings he shall not be personally liable for costs unless the Court otherwise orders.\n\n(4) Where the plaintiffs are more than one person, the minor plaintiff shall not withdraw the action without leave of the Court but may apply to the Court to remove his name or if he is a necessary party in the proceedings delete his name as plaintiff and make him as defendant on such terms as the Court may specify.\n\n(5) If the proceedings are continued, the plaintiff shall amend the title of the action and the Court may amend it and release his guardian"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Minor defendant attaining age of majority"
+   },
+   "text": {
+    "en": "Where a minor defendant attains the age of majority during the pendency of any proceedings, either he or his guardian ad litem may file an affidavit in proof of such majority, and thereupon the title of the proceedings shall be amended, and the guardian ad litem shall be discharged subject to any questions of costs occasioned by his negligence or misconduct."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Application to sue or defend as poor person"
+   },
+   "text": {
+    "en": "(1) Any person who desires to commence or defend any action or other proceedings in his own right and is unable to pay the Court expenses, may apply to the Court for leave to sue or defend as a poor person.\n\n(2) An application shall be made in Form MS 4 and supported by an affidavit and the applicant shall state therein —\n\n(a) his name, place of abode and occupation;\n\n(b) that he is unable to pay the Court expenses; and\n\n(c) all the material facts of the case.\n\n(3) When the Court is satisfied —\n\n(a) that the applicant is unable to pay the expenses; and\n\n(b) that the applicant has a good cause of action or defence, as the Court shall make an order allowing the applicant to sue or defend, as the case may be, as a poor person.\n\n(4) After an order is made under subsection (3), the summons or other process in the action or other proceedings and the relevant entry in the register book shall be marked “poor persons”.\n\n(5) Where the Court is not so satisfied, it shall dismiss the application and there shall be no appeal against the dismissal. Poor person not to discontinue etc. without leave of Court"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "text": {
+    "en": "The poor person shall not discontinue, consent or settle any action or other proceedings without leave of the Court."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "text": {
+    "en": "Unless the Court otherwise orders, no poor person is liable to pay costs to any party, or be entitled to receive from any party any costs other than the actual expenses incurred in the proceedings."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "of appointment"
+   },
+   "text": {
+    "en": "(1) The appointment of a Syar’ie Lawyer shall be pronounced by the person who appoints, and accepted by the Syar’ie Lawyer so appointed before the Court or the Registrar.\n\n(2) The wakalah of appointment shall be in Form MS 5 and shall be filed by the Syar’ie Lawyer so appointed, before taking any step in any"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Service on Syar’ie Lawyer"
+   },
+   "text": {
+    "en": "When a Syar’ie Lawyer represents more than one person from one party in the same proceedings, service of a copy of any document on the Syar’ie Lawyer shall be sufficient service on all parties he represented."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Change of Syar’ie Lawyer"
+   },
+   "text": {
+    "en": "(1) Any party who desires to change his Syar’ie Lawyer, shall file a notice of change in Form MS 6 and serve a copy of the notice on all parties to\n\n(2) Section 35 applies mutatis mutandis in relation to a change of"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Discharge of Syar’ie Lawyer"
+   },
+   "text": {
+    "en": "Any party who desires to discharge his Syar’ie Lawyer, shall file a notice of discharge in Form MS 7 and serve a copy of the notice on all parties to the proceedings. Discharge on application of Syar’ie Lawyer"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "text": {
+    "en": "Where a Syar’ie Lawyer representing a party desires to be discharged, he shall file a notice of withdrawal in Form MS 8 and serve a copy of the notice on all parties to the proceedings."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "text": {
+    "en": "The wakalah of appointment of a Syar’ie Lawyer shall determine on the death of the Syar’ie Lawyer or the party he represented. Service Within Jurisdiction"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Address for service"
+   },
+   "text": {
+    "en": "(1) Subject to subsection (2), a plaintiff or an applicant and every person filing any summons or other documents in any proceedings other than an officer of the Court acting as such and any other person ordered by the Court to do so shall give an address for service in Brunei Darussalam.\n\n(2) Where the plaintiff or applicant is represented by a Syar’ie Lawyer, the address of the Syar’ie Lawyer shall be the address for service."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "(1) Subject to the provisions of this Part, any summons or other documents shall be served personally and shall be effected by delivering the summons or other documents, or by producing it for inspection and delivering a copy of the summons or other documents, to the person to be\n\n(2) For the purpose of subsection (1), a copy bearing the seal of the Court and the signature of the Registrar is deemed to be an original summons or document.\n\n(3) Service of a summons or other document shall be effected by any officer of the Court or any other person."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Refusal to accept service"
+   },
+   "text": {
+    "en": "Where the person required to be served with any summons or other documents refuses to accept the summons, document or copy thereof, it may be left near him and his attention shall be directed to it."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Service on Syar’ie Lawyer"
+   },
+   "text": {
+    "en": "Any summons or other documents may be served on the Syar’ie Lawyer of any party who has filed a wakalah of appointment in accordance with section 35 except as otherwise provided by this Code or any other"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Service at address for service"
+   },
+   "text": {
+    "en": "Any summons or other documents delivered at the address for service of a person is deemed to be served on that person."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Date of appearance for summons"
+   },
+   "text": {
+    "en": "(1) A summons commencing an action shall be served not less than 7 clear days before the date of appearance unless the Court otherwise\n\n(2) Subject to the provisions of this Code or any other written law, notice of all other proceedings shall be served in not less than 2 clear days before the date of appearance in Court, unless the Court otherwise orders.\n\n(3) The date of appearance in Court may be amended by the Registrar, where necessary."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "(1) Service may be effected at any place, on any day and at any time of the day or night.\n\n(2) Service after 4.00 p.m. is deemed to have been effected on the following day.\n\n(3) Service effected after 12.00 noon on the day preceding, or at any time on, the weekly holiday or at any time on any public holiday, is deemed to have been effected on the day following such holiday."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "(1) Service on any person under disability shall be made on his ad litem, if any.\n\n(2) Notwithstanding subsection (1), the Court may, on application, order the service on a person under disability to be made on any other\n\n(3) Service on a person detained in prison or other place of detention shall be made on the Officer in Charge of the Prison or officer in charge of that place, who shall cause the summons or other documents to be served on that person.\n\n(4) Service on any member of the Armed Forces shall be made on the commanding officer or adjutant of his unit, who shall cause the summons or other documents to be served on that member."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Substituted service"
+   },
+   "text": {
+    "en": "(1) When the Court is satisfied that for any sufficient reason the summons or other documents cannot be served in the ordinary way, the Court may order the summons or other documents to be served by affixing a copy thereof on the Court’s notice board and also on a conspicuous part of that person last known place of residence, or in any other manner as the Court\n\n(2) The Court may also, in any case falling within subsection (1), make an order for service by advertisement in such local newspaper or other newspapers as the Court may think fit.\n\n(3) Substituted service shall have the same effect as personal service.\n\n(4) In the case of substituted service, the Court shall, where necessary, fix the time for the appearance in Court of the relevant party.\n\n(5) No order for substituted service shall be made in respect of —\n\n(a) a subpoena; or\n\n(b) any document initiating proceedings for the arrest or committal of any person.\n\n(6) An application for an order under this section shall be supported"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "(1) Service of summons or any other document may, unless the Court otherwise orders, be proved by an affidavit of the person who effected the service and, where the service was personal and the person was not known to him, the affidavit shall contain the particulars of the person who identified the person to be served.\n\n(2) The person served shall sign an acknowledgment of service, but refusal or inability so to sign shall not affect the validity of the service."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Variation of order for service"
+   },
+   "text": {
+    "en": "An order for service or for substituted service may be varied by Issue of warrant of arrest in lieu of or in addition to summons"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Service Out of Jurisdiction"
+   },
+   "text": {
+    "en": "(1) The Court may, in any case in which it is empowered to issue a summons for the appearance of any person, after recording its reasons, issue a warrant of arrest —\n\n(a) if, either before or after the issue of the summons but before the time fixed for his appearance, the Court sees reason to believe that he has absconded or will not obey the summons; or\n\n(b) if at such fixed time he fails to appear and the summons is proved to have been duly served in time and no reasonable excuse is offered for such failure.\n\n(2) The Court may order any person arrested pursuant to this section to be detained until the completion of the trial of the cause or matter involving that person.\n\n(3) For the purpose of this section, the Court shall have the power of the Syariah Courts which exercise criminal jurisdiction in respect of the warrant of arrest and bail, under the law relating to the criminal procedure of the Syariah Courts."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "(1) The Court may order service of a summons or an application out of the jurisdiction, whenever —\n\n(a) the whole subject matter of an action brought relates to immovable property situated within Brunei Darussalam;\n\n(b) any relief is sought against any person bermastautin or or carrying on business within Brunei Darussalam;\n\n(c) the action being properly brought against a person duly served with the summons or application within the jurisdiction of the Court, a person out of the jurisdiction is a necessary or proper party thereto; or\n\n(d) in any case arising from marriage, one of the parties to the marriage at the time of the application is bermastautin and bermukim within Brunei Darussalam.\n\n(2) An order giving leave for service out of the jurisdiction shall direct in what mode the service is to be effected and how such service may Form of order and variation of order"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "(1) An order for service of a summons or an application out of the jurisdiction shall fix the date of appearance of the person to be served and the Court shall have regard to and may require evidence as to means of communication and transport.\n\n(2) An order for service out of the jurisdiction may be varied by\n\n(a) a person is under a liability in respect of any debt or in respect of any money, goods or other movable property and he is, or expects to be, sued for in respect of such debt, money, goods or property by two or more persons making adverse claims in respect thereof; or\n\n(b) a claim is made to any money, goods or other movable property taken or intended to be taken by a bailiff in execution of a judgment, or to the proceeds or value of any such goods or property by a person other than the person against whom the judgment is the person under liability or the bailiff may apply to the Court for relief by way of interpleader."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Claim to money, goods etc. taken in execution"
+   },
+   "text": {
+    "en": "(1) Any person making a claim to or in respect of any money, goods or other movable property taken or intended to be taken in execution of a judgment, or to the proceeds or value of any such goods or property, shall give notice of his claim in Form MS 9 to the bailiff charged with the execution of the judgment and shall include in the notice his address, and that address shall be his address for service.\n\n(2) On receipt of a claim made under this section, the bailiff shall forthwith give notice of such claim in Form MS 10 to the execution da’in and the execution da’in shall, within 4 days after receiving the notice, give notice in Form MS 11 to the bailiff informing him whether he admits or disputes the claim.\n\n(3) Where —\n\n(a) the bailiff receives a notice from the execution da’in under subsection (2) disputing the claim, or the execution da’in fails, within the period mentioned in that subsection, to give the required notice; and\n\n(b) the claim under this section is not withdrawn, the bailiff may apply to the Court for relief under this Part.\n\n(4) A bailiff who receives a notice from the execution da’in under subsection (2) admitting a claim made under this section shall withdraw from possession of the money, goods or other movable property claimed."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Mode of application"
+   },
+   "text": {
+    "en": "(1) An application for relief under this Part shall be made by interpleader summons in Form MS 12 or MS 13, whichever is appropriate.\n\n(2) Subject to subsection (3), a summons under this section shall be supported by an evidence that the applicant —\n\n(a) claims no interest in the subject matter in dispute other than for charges or costs;\n\n(b) does not collude with any of the claimants to that subject matter; and\n\n(c) is willing to pay or transfer that subject matter into Court or to dispose of it as the Court may direct.\n\n(3) Where the applicant is a bailiff, he shall not provide such evidence as is referred to in subsection (2) unless the Court otherwise orders."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Service of summons"
+   },
+   "text": {
+    "en": "(1) Unless the Court otherwise orders, the summons referred to in section 57 shall be served personally at least 7 days before the date of\n\n(2) An interpleader summons must be in one of the forms in Form MS 14."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Powers of Court hearing summons"
+   },
+   "text": {
+    "en": "(1) Where, on the hearing of a summons under this Part, all the persons by whom adverse claims to the subject matter in dispute (hereinafter in this Part referred to as the claimants) appear, the Court may order —\n\n(a) that any claimant be made a defendant in any action pending with respect to the subject matter in dispute in substitution for or in addition to the applicant for relief under this Part; or\n\n(b) that an issue between the claimants be stated and tried, and may direct which of the claimants is to be the plaintiff or defendant.\n\n(2) Where —\n\n(a) the applicant on a summons under this Part is a bailiff; or\n\n(b) all the claimants consent or any of them so requests; or\n\n(c) the matter at issue between the claimants is a question of law and the facts are not in dispute, the Court may summarily determine the claims and make an order accordingly on such terms as it thinks just. Order for costs etc."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "text": {
+    "en": "Subject to the provisions as aforesaid, the Court may in or for the purposes of any interpleader proceedings make an order for costs and any other matter as it thinks just. Trial of interpleader issue"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "text": {
+    "en": "(1) Part 15 shall, with such modifications as may be necessary, apply in relation to an interpleader issue as it applies in relation to any cause or\n\n(2) The Court by whom an interpleader issue is tried may give such judgment or make such order as finally to dispose of all questions arising in the interpleader proceedings.\n\n(3) The judgment shall be in one of the forms in Form MS 15."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Statement of claim"
+   },
+   "text": {
+    "en": "(1) Every statement of claim shall be signed by the plaintiff or his Syar’ie Lawyer and shall contain —\n\n(a) a concise statement, in numbered paragraphs, of the facts relied on by the plaintiff and indicating his cause of action, including particulars of any special capacity in which the plaintiff sues, if any;\n\n(b) sufficient particulars of the claim;\n\n(c) a statement of the relief claimed; and\n\n(d) particulars of any other ancillary relief.\n\n(2) If there exist more than one ground of action, every ground of action and relief claimed thereon shall be stated separately."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "text": {
+    "en": "(1) A defendant who disputes his liability wholly or in part in any claim may —\n\n(a) at any time before the date of appearance, serve on the plaintiff a defence; or\n\n(b) appear on the date of appearance and dispute the plaintiff’s\n\n(2) Where a defendant appears in Court and disputes the plaintiff’s claim, the Court may order him to serve a defence within such specified time and on such terms as it thinks appropriate.\n\n(3) A defence shall be in Form MS 16.\n\n(4) In this section, “date of appearance” means the first date fixed by the Court at the time of issuing the summons or application for appearance."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "text": {
+    "en": "Every defence shall be signed by the defendant or his Syar’ie Lawyer and shall contain —\n\n(a) admission or denial of every material allegation of the fact in the statement of claim, and the denial shall be precise, concise and be an answer to the allegation of the fact;\n\n(b) concise statement of any new facts which will be used by the defendant in his defence; and\n\n(c) concise statement without argument of any related question"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "text": {
+    "en": "(1) Every counterclaim shall contain the like matter and particulars as a statement of claim and shall be signed by the defendant or his Syar’ie\n\n(2) A counterclaim shall not be made against any person not then a party to the action, but if a cross-claim is brought, an order for consolidation may be made by the Court."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 66."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Defence to counterclaim"
+   },
+   "text": {
+    "en": "(1) Where any defendant counterclaims, the plaintiff shall, if he desires to defend the counterclaim, file and cause to be served on the defendant a defence to the counterclaim within such specified time as the Court shall direct.\n\n(2) If the plaintiff fails to comply with subsection (1), section 17 applies as if he were a defendant."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Section 67."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Defence of tender"
+   },
+   "text": {
+    "en": "If a defence of tender before action is raised, the defendant shall, on filing his defence, pay into Court the amount alleged to have been tendered. Reply"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Section 68."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Reply"
+   },
+   "text": {
+    "en": "The Court may, for sufficient reason, grant leave to file and deliver a reply to a defence, whether such defence is a defence to a claim or Return of pleading and amendment"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Section 69."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "text": {
+    "en": "The Court may return for amendment any pleading which does not comply with the provisions of this Part."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Section 70."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "text": {
+    "en": "(1) If any pleading does not contain sufficient particulars, the Court may, on its own motion or on the application of any party, order the party responsible to file and cause to be served further and better particulars, and may stay all proceedings pending compliance.\n\n(2) Further and better particulars may be filed and served on request without any order.\n\nPAYMENT INTO AND OUT OF COURT"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Section 71."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Payment into Court"
+   },
+   "text": {
+    "en": "(1) A defendant may pay money into Court in satisfaction of the claim or any part thereof and may also pay a sum of money by way of costs.\n\n(2) The defendant shall give notice to the plaintiff of the payment into Court and, where the payment is less than the amount claimed, the notice shall state which part of the claim the payment is made."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "Section 72."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Payment out of Court"
+   },
+   "text": {
+    "en": "Subject to sections 27 and 77, where the payment into Court is of the same amount as claimed or the plaintiff elects to take it in satisfaction of the whole of his claim, the amount shall be paid out of Court to him, and he may obtain judgment for all costs payable prior to his receiving notice of the payment into Court, and costs of obtaining judgment for such costs, unless paid without order."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "Section 73."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "Where the payment referred to in section 72 is in respect of a part of his claim, the plaintiff may continue his claim in respect of the other part."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "Section 74."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Order for payment out of Court"
+   },
+   "text": {
+    "en": "Subject to sections 72, 73 and 77, money paid into Court shall not be paid out of Court without the order of the Court."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "Section 75."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Costs to defendant"
+   },
+   "text": {
+    "en": "Where money has been paid into Court and the plaintiff fails to obtain judgment for a larger amount, all costs payable by the defendant after payment into Court shall be paid by the plaintiff."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "Section 76."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "Where the plaintiff seeks relief other than the payment of money, he may continue his action for that other relief without having regard to the payment of money out of Court to him."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "Section 77."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "Where the payment into Court is made with a defence of tender and is accepted, the plaintiff shall be entitled to full costs of the action."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "Section 78."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "This Part applies mutatis mutandis to counterclaims."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "Section 79."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Amendment of summons or pleading"
+   },
+   "text": {
+    "en": "(1) Subject to Chapter VIII of Part 6 and the following provisions of this Part, the Court may, at any stage of the proceedings, allow the plaintiff to amend his summons, or any party to amend his pleading, on such terms as to costs or otherwise as it thinks just and in such manner, if any, as it may\n\n(2) Where an application to the Court to make the amendment referred to in subsection (1) is made after any relevant period of limitation current at the date of issue of the summons has expired, the Court may grant such leave in the circumstances, if it thinks just, to do so.\n\n(3) Subject to subsection (2), any party may amend his pleading at any time before service to the other party without leave of the Court."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "Section 80."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Amendment to application"
+   },
+   "text": {
+    "en": "Section 79 applies in relation to an application as it applies to summonses and pleadings."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A81",
+   "no": 81,
+   "noLabel": {
+    "en": "Section 81."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Defective proceedings"
+   },
+   "text": {
+    "en": "The Court may at any time, on its own motion or on the application of any party, and on such terms as it thinks just, order for —\n\n(a) amendment to correct any defect or error in any\n\n(b) any action necessary to determine the matter which really arises or to achieve justice between the parties."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A82",
+   "no": 82,
+   "noLabel": {
+    "en": "Section 82."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Mode of amendment"
+   },
+   "text": {
+    "en": "An amendment shall be made by filing a copy of the amended document, which shall indicate the amendment made, and serving it on all the other parties to the proceedings: Provided that if the amendment is ordered during the trial of any action or proceedings, or if all parties are present when the amendment is made, the Court may in its discretion amend the document in its file, and service on any party shall not be necessary."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A83",
+   "no": 83,
+   "noLabel": {
+    "en": "Section 83."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "Clerical mistakes or other defects arising from accidental omissions may at any time be corrected by the Court without any formality."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A84",
+   "no": 84,
+   "noLabel": {
+    "en": "Section 84."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Discovery of documents and facts"
+   },
+   "text": {
+    "en": "(1) The Court may, where necessary and upon any terms, order any\n\n(a) to state by affidavit, any document he has or has had in his possession or power relating to the matters in question, or whether he has or has had in his possession or power any specified document, documents or class of documents and in either case, the present whereabouts of any documents formerly, but not now, in his possession or power; or\n\n(b) to produce any document in his possession or power; or\n\n(c) to answer orally or by affidavit, interrogatories delivered by the other party and approved by the Court.\n\n(2) If the party is a corporation, any officer thereof may be ordered to act in the like manner on its behalf.\n\n(3) The Court may stay the proceedings pending compliance of the order or direction of the Court under this section."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A85",
+   "no": 85,
+   "noLabel": {
+    "en": "Section 85."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Inspection of documents"
+   },
+   "text": {
+    "en": "Any party shall be entitled to inspect and copy any document in the possession or power of the other party and referred to in any pleading, affidavit or other documents filed by the other party in the proceedings or on oral examination under section 84."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A86",
+   "no": 86,
+   "noLabel": {
+    "en": "Section 86."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Privileged documents"
+   },
+   "text": {
+    "en": "Production and inspection of documents under this Part shall be subject to the provisions of any law relating to privileged communications and documents. No appeal against order"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A87",
+   "no": 87,
+   "noLabel": {
+    "en": "Section 87."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "There shall be no appeal against any order of the Court under this Part except in an appeal against the judgment as a whole.\n\nTRANSFER OF PROCEEDINGS"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A88",
+   "no": 88,
+   "noLabel": {
+    "en": "Section 88."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Transfer of proceedings to another Court"
+   },
+   "text": {
+    "en": "(1) Where the Judge of any Court is satisfied that any proceedings in that Court can be more conveniently or fairly tried in some other Court, he may order the proceedings to be transferred to the other Court.\n\n(2) The transfer of any proceedings under subsection (1) may be made by the Judge on his own motion or on the application of any party."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A89",
+   "no": 89,
+   "noLabel": {
+    "en": "Section 89."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) When an order is made for the transfer of any proceedings from one Court to another Court, the Court from which the proceedings are transferred shall send to the Court to which the proceedings are transferred all records of the proceedings.\n\n(2) The Court to which the proceedings are transferred may, on its own motion or on the application of any party, give such directions as to the further conduct of the proceedings as it may think fit."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A90",
+   "no": 90,
+   "noLabel": {
+    "en": "Section 90."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Costs on transfer"
+   },
+   "text": {
+    "en": "Where an order for transfer was made on the application of a party, the costs of the transfer shall be at the discretion of the Judge."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A91",
+   "no": 91,
+   "noLabel": {
+    "en": "Section 91."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Transfer from Syariah High Court to Syariah Subordinate Courts"
+   },
+   "text": {
+    "en": "(1) Where by an order of the Syariah High Court any proceedings are ordered to be transferred to the Syariah Subordinate Courts, or an issue is directed to be tried therein, the Registrar shall, on receipt of the order, enter the proceedings in the appropriate Register Book of Cases, and give notice in Form MS 17, at least 14 days before the date of appearance, to every party to appear before the Court for such directions as to the further conduct of the\n\n(2) Subject to any directions contained in the order of the Syariah High Court, the trial shall proceed as if the proceedings had commenced in a Syariah Subordinate Court. Transfer from Syariah Subordinate Courts to Syariah High Court"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A92",
+   "no": 92,
+   "noLabel": {
+    "en": "Section 92."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "SETTLEMENT, WITHDRAWAL AND DISCONTINUANCE"
+   },
+   "text": {
+    "en": "Where an order is made by the Syariah High Court for the transfer of any proceedings from the Syariah Subordinate Courts to the Syariah High Court, the Registrar or Assistant Registrar of the Syariah Subordinate Courts shall send to the Registrar of the Syariah High Court the file of the proceedings and all records of the proceedings, and the Registrar or Assistant Registrar of the Syariah Subordinate Courts shall give notice of the transfer in Form MS 18 to every party to the action."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A93",
+   "no": 93,
+   "noLabel": {
+    "en": "Section 93."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "Where by agreement of the parties an action has been settled, the Court may at any time by consent of the parties record the settlement with the terms thereof, and the record of such settlement shall be a defence res judicata to subsequent proceedings from the same, or substantially the same, cause of action."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A94",
+   "no": 94,
+   "noLabel": {
+    "en": "Section 94."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) The plaintiff may on any terms, at any time with leave of the Court before judgment, withdraw any proceedings wholly or in part by giving notice in Form MS 19 to the Court and serving a copy of the notice to the defendant and all other parties to the proceedings.\n\n(2) Where the plaintiff withdraws any proceedings under subsection (1), the defendant shall be entitled to the costs of the proceedings at the discretion of the Judge."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A95",
+   "no": 95,
+   "noLabel": {
+    "en": "Section 95."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Effect of withdrawal"
+   },
+   "text": {
+    "en": "When the plaintiff has withdrawn the proceedings, he shall not thereafter bring an action for the same or substantially the same cause of action unless the order under section 94 allows otherwise. Stay"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A96",
+   "no": 96,
+   "noLabel": {
+    "en": "Section 96."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Stay"
+   },
+   "text": {
+    "en": "Where the plaintiff has withdrawn the proceedings under section 94 and he is liable to pay costs, and if before payment of such costs, he subsequently commences an action for the same, or substantially the same, cause of action, the Court may order the proceedings in that action to be stayed until such costs are paid."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A97",
+   "no": 97,
+   "noLabel": {
+    "en": "Section 97."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Withdrawal of defence"
+   },
+   "text": {
+    "en": "A defendant may at any time by giving notice to the plaintiff withdraw his defence or any part thereof and shall, in such event, be precluded from defending the proceedings or any part thereof, as the case Sulh"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A98",
+   "no": 98,
+   "noLabel": {
+    "en": "Section 98."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Sulh"
+   },
+   "text": {
+    "en": "The Court shall encourage the parties to any proceeding to hold sulh in accordance with Hukum Syara’ to settle their dispute."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A99",
+   "no": 99,
+   "noLabel": {
+    "en": "Section 99."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Evidence to be taken orally"
+   },
+   "text": {
+    "en": "Subject to this Code and the Syariah Courts Evidence Order, 2001 (S 63/2001), any fact required to be proved at the trial of any proceedings by the evidence of parties or witnesses shall be proved by the examination of the parties or witnesses orally in open Court."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A100",
+   "no": 100,
+   "noLabel": {
+    "en": "Section 100."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Evidence by affidavit"
+   },
+   "text": {
+    "en": "The Court may, at or before the trial of any proceedings, order that the affidavit of any witness to be read at the trial if it thinks it is reasonable in the circumstances of the case."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A101",
+   "no": 101,
+   "noLabel": {
+    "en": "Section 101."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Request for subpoena"
+   },
+   "text": {
+    "en": "(1) Before a subpoena is issued a request in Form MS 20 for the issue of the subpoena shall be filed in Court, and shall contain the name and address of the party requesting for the subpoena, if he is acting in person, or the name of the firm and the business address of his Syar’ie Lawyer.\n\n(2) Issue of a subpoena takes place upon it being sealed by\n\n(3) A subpoena shall be in one of the forms in Form MS 21, MS 22 or MS 23."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A102",
+   "no": 102,
+   "noLabel": {
+    "en": "Section 102."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Number of persons in subpoena"
+   },
+   "text": {
+    "en": "(1) Every subpoena other than a subpoena to produce documents or things may include the names of two or more persons.\n\n(2) A subpoena to produce other documents or things shall contain the name of one person only."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A103",
+   "no": 103,
+   "noLabel": {
+    "en": "Section 103."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Subpoena to produce documents or things"
+   },
+   "text": {
+    "en": "Any person served with a subpoena to produce a document or thing only shall sufficiently comply if he causes the document or thing to be produced without attending personally."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A104",
+   "no": 104,
+   "noLabel": {
+    "en": "Section 104."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Amendment of subpoena"
+   },
+   "text": {
+    "en": "Where there is a mistake in any person’s name and address in a subpoena, and if the subpoena has not been served, the party on whose request the subpoena was issued may by filing a second request under section 101(1) have the subpoena re-sealed in the correct form endorsed with the words “Amended and re-sealed”."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A105",
+   "no": 105,
+   "noLabel": {
+    "en": "Section 105."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Service of subpoena"
+   },
+   "text": {
+    "en": "Unless the Court otherwise orders, a subpoena shall be served personally and the service shall not be valid unless effected within 12 weeks from the date of issue of the subpoena."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A106",
+   "no": 106,
+   "noLabel": {
+    "en": "Section 106."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Duration of subpoena"
+   },
+   "text": {
+    "en": "A subpoena will continue to have effect until the conclusion of the hearing at which the attendance of the witness is required."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A107",
+   "no": 107,
+   "noLabel": {
+    "en": "Section 107."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) Any officer of the Court shall not be required by subpoena to produce the records of the Court.\n\n(2) If the original of any record of a Court or any document filed in such Court is for any special reason required, a request for the production thereof may, on the application of the party requiring it, be addressed to the Registrar of that Court.\n\n(3) No mark shall be placed upon any record or document produced under this section."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A108",
+   "no": 108,
+   "noLabel": {
+    "en": "Section 108."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Attendance of person in detention as witness or party"
+   },
+   "text": {
+    "en": "(1) An application for an order for the production before the Court of a person lawfully detained under any written law in force may be made to ex parte by notice supported by an affidavit in Form MS 24.\n\n(2) Unless the Court otherwise orders, the costs of conveying of the witness in safe custody to and from the Court shall be paid in the first instance by the party on whose application the order was issued and shall be costs in the cause.\n\n(3) An order for the production of the person shall be in Form MS 25."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A109",
+   "no": 109,
+   "noLabel": {
+    "en": "Section 109."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Attendance of witness"
+   },
+   "text": {
+    "en": "A person subpoenaed to give evidence shall attend throughout the trial including any adjourned trial, unless released by the Court."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A110",
+   "no": 110,
+   "noLabel": {
+    "en": "Section 110."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Failure to attend"
+   },
+   "text": {
+    "en": "Subject to section 113, where any person duly served with a subpoena to give evidence or to produce a document, without giving sufficient reasons, fails to attend the Court whether on the first day or the day the trial is resumed or fails to produce such document as ordered, is guilty of contempt of court. The Court may also issue a warrant for his arrest."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A111",
+   "no": 111,
+   "noLabel": {
+    "en": "Section 111."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Contempt of court"
+   },
+   "text": {
+    "en": "A person who is in a Court and required by the Court to give evidence or to take yamin or to make an affidavit or to answer any question allowed by the Court refuses to do so is guilty of contempt of court."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A112",
+   "no": 112,
+   "noLabel": {
+    "en": "Section 112."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "A person who is in a Court may be ordered to give evidence or to produce any document for the time being in his possession or custody without service of a subpoena on him."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A113",
+   "no": 113,
+   "noLabel": {
+    "en": "Section 113."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Tender of expenses"
+   },
+   "text": {
+    "en": "A witness shall not be compelled to attend on a subpoena unless a reasonable sum to cover his expenses of going to, remaining at, and returning from, the Court is tendered to him."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A114",
+   "no": 114,
+   "noLabel": {
+    "en": "Section 114."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Affidavit of service of subpoena"
+   },
+   "text": {
+    "en": "An affidavit filed for the purpose of proving the service of a subpoena shall state when, where, how and by whom the service was effected."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A115",
+   "no": 115,
+   "noLabel": {
+    "en": "Section 115."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Making of affidavit"
+   },
+   "text": {
+    "en": "An affidavit to be used in any proceedings in Court shall be verified —\n\n(a) before any Judge or Registrar or any officer authorised in writing by the Chief Registrar;\n\n(b) outside Brunei Darussalam, before any Syar’ie Judge or Kadi; or\n\n(c) before Muslim officers of the embassies and high commissions of Brunei Darussalam outside the state authorised to administer oath."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A116",
+   "no": 116,
+   "noLabel": {
+    "en": "Section 116."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Form of affidavit"
+   },
+   "text": {
+    "en": "(1) An affidavit shall be in Form MS 26.\n\n(2) Every affidavit shall be signed by the deponent and the jurat must be completed and signed by the person before whom the affidavit is verified in one of the forms in Form MS 27.\n\n(3) Notwithstanding subsection (1), the Court may, in its discretion, accept an affidavit notwithstanding any irregularity in the form thereof."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A117",
+   "no": 117,
+   "noLabel": {
+    "en": "Section 117."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Annexure to affidavit"
+   },
+   "text": {
+    "en": "(1) A copy of any document to be used in conjunction with an affidavit shall be annexed to the affidavit as an exhibit.\n\n(2) Any exhibit to an affidavit shall be identified by a certificate of the person before whom the affidavit is verified, and such certificate shall be in Form MS 28."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A118",
+   "no": 118,
+   "noLabel": {
+    "en": "Section 118."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Rejection of affidavit"
+   },
+   "text": {
+    "en": "The Court may in its discretion reject any affidavit which by reason of form or the content of which cannot be easily read or understood, or in which there is any interlineation, alteration, erasure or other defects."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A119",
+   "no": 119,
+   "noLabel": {
+    "en": "Section 119."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) An affidavit which has been filed may be amended for the purpose of correcting any clerical mistake or omission.\n\n(2) Any amendment under subsection (1) shall be made by way of corrective affidavit and shall be filed before the trial unless the Court allows\n\n(3) An additional affidavit may be filed before the trial."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A120",
+   "no": 120,
+   "noLabel": {
+    "en": "Section 120."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Filing of affidavit"
+   },
+   "text": {
+    "en": "No affidavit shall be filed after the trial has begun except with leave"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A121",
+   "no": 121,
+   "noLabel": {
+    "en": "Section 121."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Cross-examination"
+   },
+   "text": {
+    "en": "(1) Any party desiring to contest the fact deposed to in an affidavit may serve on the party who filed the affidavit notice of intention to cross-examine the deponent, and thereupon, if the deponent is not produced for cross-examination, the Court shall, except in special circumstances, reject or disregard the affidavit.\n\n(2) The Court may in its discretion require the attendance of any deponent of the affidavit and, if he fails to attend, the Court may reject or disregard the affidavit."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A122",
+   "no": 122,
+   "noLabel": {
+    "en": "Section 122."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Hearing in open Court"
+   },
+   "text": {
+    "en": "Unless otherwise provided in this Code or any other written law, all proceedings commenced by summons shall be heard and determined in open Court and all proceedings commenced by application shall be heard and determined in Chambers."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A123",
+   "no": 123,
+   "noLabel": {
+    "en": "Section 123."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) Any party may submit his own case or through his Syar’ie Lawyer, however every party shall be present at the hearing except as otherwise allowed by the Court.\n\n(2) A person under disability shall appear through his guardian"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A124",
+   "no": 124,
+   "noLabel": {
+    "en": "Section 124."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Absence of parties"
+   },
+   "text": {
+    "en": "(1) When an action is called on for hearing, the Court may —\n\n(a) if the parties do not appear, cancel the action;\n\n(b) if the defendant does not appear, subject to formal proof of service of summons, hear and determine the action in his absence; or\n\n(c) if the plaintiff does not appear, dismiss the action and hear and determine any counterclaim.\n\n(2) The Court shall, before making any judgment on the plaintiff’s claim under paragraph (b) or the defendant’s counterclaim under\n\n(c), order the plaintiff or the defendant, as the case may be, to take yamin istizhar.\n\n(3) Where there are more than one plaintiff or defendant and only one of them is present, the Court may hear the action against the one present, and determine the action against the parties absent in accordance with subsections (1) and (2).\n\n(4) The Court may in its discretion in the circumstances referred to in subsections (1) and (3) grant an adjournment."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A125",
+   "no": 125,
+   "noLabel": {
+    "en": "Section 125."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "The stay, withdrawal, striking out or dismissal of the plaintiff’s claim shall not prevent the hearing and determination of any counterclaim."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A126",
+   "no": 126,
+   "noLabel": {
+    "en": "Section 126."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "When judgment is for sums of money on both claim and counterclaim, the Court may set-off and give judgment for the balance only without prejudice to the power of the Court to make such order as to costs as"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A127",
+   "no": 127,
+   "noLabel": {
+    "en": "Section 127."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Notes of evidence"
+   },
+   "text": {
+    "en": "The Court shall record the evidence given and, so far as it thinks necessary, of the submissions of law made, including any objections to evidence, and may contain its observations on the demeanour of witnesses and other material matters."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A128",
+   "no": 128,
+   "noLabel": {
+    "en": "Section 128."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Documents or exhibits"
+   },
+   "text": {
+    "en": "(1) Any document or other exhibits tendered in evidence and accepted shall be marked and, unless the Court otherwise orders, the document or exhibit or a copy thereof shall be retained in Court until the proceedings is concluded and until the time for appeal has lapsed.\n\n(2) For the purpose of identification, a document or an exhibit or a copy thereof tendered in evidence but rejected by the Court shall also be marked."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A129",
+   "no": 129,
+   "noLabel": {
+    "en": "Section 129."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Order of speeches"
+   },
+   "text": {
+    "en": "(1) Subject to subsection (2) —\n\n(a) the plaintiff shall begin by opening his case;\n\n(b) each party may, before adducing evidence, open his case.\n\n(2) The Judge may give directions to the party who begins his case and as to the order of speeches at the trial.\n\n(3) Subject to the directions of the Judge under subsection (2) and the provisions of this section, the party who begins shall have the right to sum up his case.\n\n(4) When the plaintiff has adduced all evidence for his case, the Judge shall call upon the defendant to adduce evidence in answer to the plaintiff's claim, and in such a case, the defendant shall have the option either to adduce evidence or to submit that there is no case to answer.\n\n(5) Where the defendant elects to adduce evidence on his behalf, the Judge shall record the evidence so adduced, and when the defendant has adduced all evidence on his behalf, the Judge shall ask the defendant to make a submission closing his case.\n\n(6) When the defendant has closed his case, the Judge shall ask the plaintiff to sum up his case in answer to the defendant’s submission.\n\n(7) Notwithstanding the provisions of this section, but subject to subsections (8) and (9), the Judge may order any party to submit a written submission in such form and within such time as he may direct.\n\n(8) Where the defendant elects not to adduce any evidence but elects to submit that there is no case to answer, the Judge shall —\n\n(a) record the defendant’s submission; and\n\n(b) order the defendant to take yamin denying the plaintiff’s claim, but if the defendant refuses to take such yamin, the Judge shall, subject to subsection (9), dismiss the defendant's case and allows the plaintiff’s claim.\n\n(9) Before the allows the subsection (8), the Judge shall —\n\n(a) hear and record the plaintiff’s submission in summing up his case; and\n\n(b) order the plaintiff to take yamin mardudah admitting the truth of his claim, but if the plaintiff refuses to take such yamin, the Court shall dismiss his case."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A130",
+   "no": 130,
+   "noLabel": {
+    "en": "Section 130."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "In the interest of justice, the Court may, at any stage of the proceedings, call upon any party to adduce any evidence and may inspect any place or thing."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A131",
+   "no": 131,
+   "noLabel": {
+    "en": "Section 131."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Trial to continue by another Judge"
+   },
+   "text": {
+    "en": "(1) Where a Judge has commenced the trial and is unable for any reason to conclude it, another Judge may with the consent of all parties continue the trial.\n\n(2) Where the consent referred to in subsection (1) cannot be obtained, there shall be a new hearing. Adjournment and transfer of trial"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A132",
+   "no": 132,
+   "noLabel": {
+    "en": "Section 132."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "The Court may adjourn and transfer any trial from time to time and from one place to another, and in so doing may impose any condition.\n\nJUDGMENTS AND ORDERS"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A133",
+   "no": 133,
+   "noLabel": {
+    "en": "Section 133."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) A trial Judge shall write his judgment.\n\n(2) Except in the case of proceedings in Chambers, the trial Judge shall, subject to subsection (3), pronounce his judgment in open Court.\n\n(3) Where the trial Judge is for any reason unable to pronounce his judgment in open Court, the judgment may be read by any other Judge or by"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A134",
+   "no": 134,
+   "noLabel": {
+    "en": "Section 134."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Consent judgment"
+   },
+   "text": {
+    "en": "Judgment by confession or consent of the parties by way of sulh may be recorded by the Court at any stage of the proceedings."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A135",
+   "no": 135,
+   "noLabel": {
+    "en": "Section 135."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Terms of judgment or order to be determined"
+   },
+   "text": {
+    "en": "The Court shall determine the terms of a judgment or order."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A136",
+   "no": 136,
+   "noLabel": {
+    "en": "Section 136."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Instalments, when due"
+   },
+   "text": {
+    "en": "Where any order is made for payment by instalments in a particular month, the payment of the instalment shall, in the absence of any direction to the contrary, be deemed to be payable on the first day of the month next following in which the order was made and on the first day of each succeeding month."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A137",
+   "no": 137,
+   "noLabel": {
+    "en": "Section 137."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Order for instalments"
+   },
+   "text": {
+    "en": "(1) Any madin against whom a judgment has been or is about to be given may apply to the Court —\n\n(a) for leave to pay the judgment debt by instalments; or\n\n(b) if an order for payment by instalments has been made, for leave to pay by reduced instalments, and the Court may, after hearing the parties, make such order as it thinks just.\n\n(2) Where any such instalment is more than one month in arrears, such order is deemed to be dispensed with and the judgment da’in may apply for execution of the whole amount in arrears due on the judgment, but the madin may apply for another order.\n\n(3) Any party may, if an order for payment by instalments has been made, apply that the order be dispensed with, or that the instalments be increased or decreased, and the Court after hearing the parties may make such order as it thinks just."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A138",
+   "no": 138,
+   "noLabel": {
+    "en": "Section 138."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) Every judgment or order requiring any person to do any act, other than the payment of money, shall state the time within which the act is to be done, if no time be stated, the act shall be done within 7 days from the date of the judgment or order.\n\n(2) Where the person required to do the act was personally present or represented by his Syar’ie Lawyer when the judgment or order was given or made, it shall not be necessary to serve him with a copy of the judgment or\n\n(3) Where the person was not personally present or represented, no proceedings for his arrest or commitment shall be taken unless he has been served with a copy of the judgment or order in Form MS 29."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A139",
+   "no": 139,
+   "noLabel": {
+    "en": "Section 139."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Date of judgment or order"
+   },
+   "text": {
+    "en": "Every judgment or order shall be dated and take effect on the date on which it was given or made."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A140",
+   "no": 140,
+   "noLabel": {
+    "en": "Section 140."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Judgment on movable property"
+   },
+   "text": {
+    "en": "A judgment for the delivery of movable property shall state the amount of money to be paid as an alternative if delivery cannot be made."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A141",
+   "no": 141,
+   "noLabel": {
+    "en": "Section 141."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "In this Part, “decision” includes judgment and order."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A142",
+   "no": 142,
+   "noLabel": {
+    "en": "Section 142."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) An appeal against the decision of the Syariah Subordinate Court shall be made to the Syariah High Court, and the decision of the Syariah High Court to the Syariah Appeal Court.\n\n(2) An appeal shall be brought by giving a notice of appeal in Form MS 30.\n\n(3) An appeal may be made against the whole or any part of the decision.\n\n(4) The notice of appeal shall be filed within 14 days from the date on which the decision was made and shall state whether the whole or part only, and what part, of the decision is appealed against.\n\n(5) The Court appealed from shall, upon receipt of the notice of appeal, supply to the appellant, upon payment of the feet hereof, a certified copy of the notes of evidence and grounds of judgment.\n\n(6) As soon as the certified copies are ready, the Court shall give notice to the appellant in Form MS 31.\n\n(7) Within 14 days from the receipt of the notice under subsection (6), the appellant shall, unless the Court otherwise orders —\n\n(a) deposit in the Court appealed from a sum which in the opinion of the Registrar will cover the costs of preparing a sufficient number of copies of the appeal record for the use of the Court hearing the appeal and the parties to the appeal; and\n\n(b) lodge in the Court appealed from a sum of money as the Court may direct by way of security for the costs of the appeal.\n\n(8) The notice of appeal shall be served by the appellant within the time limited for filing the appeal on the respondent or his Syar’ie Lawyer."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A143",
+   "no": 143,
+   "noLabel": {
+    "en": "Section 143."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Notice of counter appeal"
+   },
+   "text": {
+    "en": "A respondent in an appeal may, within 7 days from the date of service of the record of appeal on him, file in the Court hearing the appeal and serve on the appellant a notice in Form MS 32 of his intention to contend at the hearing of the appeal that the decision of the Court appealed from ought to be"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A144",
+   "no": 144,
+   "noLabel": {
+    "en": "Section 144."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Grounds of appeal"
+   },
+   "text": {
+    "en": "(1) Within 14 days from the date of receipt of the notice under section 142(6), the appellant shall lodge with the Registrar of the Court appealed from grounds of appeal in five copies addressed to the Court hearing the appeal.\n\n(2) Every ground of appeal shall state briefly the substance of the judgment appealed against and shall contain definite particulars of the point of law or fact in respect of which the appeal is lodged and, except with leave of the Court hearing the appeal, the appellant shall not appeal on the hearing of the appeal on the grounds other than those set out in the appeal."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A145",
+   "no": 145,
+   "noLabel": {
+    "en": "Section 145."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) Where the appellant has complied with the requirements of sections 142 and 144, or the Court has allowed the appellant to appeal as a poor person, the Court shall prepare a sufficient number of copies of the appeal record and the record shall contain copies of —\n\n(a) the pleadings;\n\n(b) the notes of evidence;\n\n(c) the sealed order of the Court;\n\n(d) the grounds of judgment;\n\n(e) the notice of appeal;\n\n(f) the petition of appeal;\n\n(g) all documentary exhibits; and\n\n(h) the list of non-documentary exhibits, if any, tendered in\n\n(2) As soon as the appeal record is ready, the Court shall inform the appellant and specify the costs of preparing such record."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A146",
+   "no": 146,
+   "noLabel": {
+    "en": "Section 146."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Application for stay of execution"
+   },
+   "text": {
+    "en": "The filing of a notice of appeal shall not operate as a stay of execution, but the Court may, on application and on sufficient cause being shown, stay execution on such terms as it may think fit."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A147",
+   "no": 147,
+   "noLabel": {
+    "en": "Section 147."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Grounds of judgment in writing"
+   },
+   "text": {
+    "en": "The Court hearing the appeal shall state the grounds of its judgment in Execution after appeal"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A148",
+   "no": 148,
+   "noLabel": {
+    "en": "Section 148."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "When either party has extracted the order of the Court hearing the appeal and has produced the order to the Court appealed from, the Court appealed from shall execute the order in accordance with the provisions of\n\nENFORCEMENT AND EXECUTION"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A149",
+   "no": 149,
+   "noLabel": {
+    "en": "Section 149."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) Every person directed by any judgment to do or abstain from doing any act shall comply therewith, and it shall not be necessary to serve on him the judgment or notice thereof except as provided in section 138(3).\n\n(2) A judgment madin shall, from time to time inform the Court of his current address of residence and failure to comply with the requirement of this subsection is deemed to be a contempt of court."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A150",
+   "no": 150,
+   "noLabel": {
+    "en": "Section 150."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Mode of enforcement"
+   },
+   "text": {
+    "en": "(1) Subject to the provisions of this Code, a judgment or an order for the payment of money, other than a judgment or an order for the payment of money into Court, may be enforced by one or more of the following\n\n(a) an order of seizure and sale;\n\n(b) garnishee proceedings;\n\n(c) in a case in which section 153 applies, an order of\n\n(2) Subject to the provisions of this Code, a judgment or an order for the payment of money into Court may be enforced, in a case in which section 153 applies, by an order of committal.\n\n(3) Subsections (1) and (2) shall not affect any other remedy available to enforce a judgment or an order as mentioned therein or the power of a Court to commit to prison a person who makes default in paying money adjudged or ordered to be paid by him."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A151",
+   "no": 151,
+   "noLabel": {
+    "en": "Section 151."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Enforcement of judgment for possession of immovable property"
+   },
+   "text": {
+    "en": "(1) Subject to the provisions of this Code, a judgment or an order for the giving of possession of immovable property may be enforced by one or more of the following means —\n\n(a) an order of possession;\n\n(b) in a case in which section 153 applies, an order of\n\n(2) An application under subsection (1) shall be made ex parte in Form MS 33 and supported by an affidavit, and the order shall not be granted unless it is shown that every person in actual possession of the whole or any part of the immovable property has received such notice of the proceedings as appear to the Court to be sufficient to enable him to apply to the Court for any relief to which he may be entitled.\n\n(3) An order for possession may contain provisions for enforcing the payment of any money adjudged or ordered to be paid by the judgment or order to be enforced."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A152",
+   "no": 152,
+   "noLabel": {
+    "en": "Section 152."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Enforcement of judgment for delivery of movable property"
+   },
+   "text": {
+    "en": "(1) Subject to the provisions of this Code, a judgment or an order for the delivery of any movable property which does not give a person against whom the judgment is given or the order is made the alternative of paying the assessed value of the property, may be enforced by one or more of the following means —\n\n(a) an order of delivery to recover the property without alternative provisions for the recovery of its assessed value (hereinafter referred to as an order of specific delivery);\n\n(b) in a case in which section 153 applies, an order of\n\n(2) Subject to the provisions of this Code, a judgment or an order for the delivery of any movable property or payment of its assessed value may be enforced by one or more of the following means —\n\n(a) an order of delivery to recover the property or its assessed value;\n\n(b) in a case in which section 153 applies, an order of\n\n(3) An order of specific delivery, and an order of delivery to recover any movable property or its assessed value, may contain provisions for enforcing the payment of any money adjudged or ordered to be paid by the judgment or order which is to be enforced by the order.\n\n(4) A judgment or an order for the payment of the assessed value of any movable property may be enforced by the same means as any other judgment or order for the payment of money."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A153",
+   "no": 153,
+   "noLabel": {
+    "en": "Section 153."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Enforcement of judgment to do or abstain from doing act"
+   },
+   "text": {
+    "en": "(1) Where —\n\n(a) a person required by a judgment or an order to do an act within such time as specified in the judgment or order refuses or neglects to do it within that time or within such time as extended or abridged under section 229, as the case may be; or\n\n(b) a person disobeys a judgment or an order requiring him to abstain from doing an act, then, subject to the provisions of this Code, the judgment or order may be enforced by one or more of the following means —\n\n(i) with leave of the Court, an order of committal;\n\n(ii) where the person is a body corporate, with leave of the Court, an order of committal against any director or other officer of the body.\n\n(2) Where a judgment or an order requires a person to do an act within such time as specified therein or an order is subsequently made under section 154 requiring the act to be done within some other time, references in subsection (1) to a judgment or an order shall be construed as references to the order made under section 154.\n\n(3) Where under any judgment or order requiring the delivery of any movable property, the person liable to execution has the alternative of paying the assessed value of the property, and the judgment or order shall not be enforceable by an order of committal under subsection (1), but the Court may, on application of the person entitled to enforce the judgment or order, make an order requiring the first-mentioned person to deliver the property to the applicant within such time as specified in the order, and the order may be so enforced.\n\n(4) An application under subsection (3) shall be made ex parte in Form MS 33 and supported by an affidavit. An order of delivery shall be served on the person against whom the judgment is to be enforced."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A154",
+   "no": 154,
+   "noLabel": {
+    "en": "Section 154."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Power of Court to fix time"
+   },
+   "text": {
+    "en": "(1) Notwithstanding that a judgment or an order requiring a person to do an act specifies the time within which the act is to be done, the Court may, on such terms as it thinks just, make an order requiring the act to be done within such other time as may be specified therein.\n\n(2) Where a judgment or an order requiring a person to do an act does not specify the time within which the act is to be done, the Court shall have the power to subsequently make an order requiring the act to be done within such other time as may be specified therein.\n\n(3) An application for an order under this section shall be made in Form MS 34 and a copy of the application shall, notwithstanding other provisions of this Code, be served on the person required to do the act under"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A155",
+   "no": 155,
+   "noLabel": {
+    "en": "Section 155."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Execution by or against person not being party"
+   },
+   "text": {
+    "en": "(1) Any person, not being a party to a cause or matter, who obtains any order or in whose favour any order is made, shall be entitled to enforce obedience to the order by the same process as if he were a party to the cause\n\n(2) Any person, not being a party to a cause or matter, against whom obedience to any judgment or order may be enforced, shall be liable to the same process for enforcing obedience to the judgment or order as if he were a party to the cause or matter."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A156",
+   "no": 156,
+   "noLabel": {
+    "en": "Section 156."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "In this Chapter, unless the context otherwise requires, “order of execution” includes order of seizure, order of sale and order of delivery."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A157",
+   "no": 157,
+   "noLabel": {
+    "en": "Section 157."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Leave of Court for execution"
+   },
+   "text": {
+    "en": "(1) An order of execution for enforcing a judgment or an order shall not be issued without leave of the Court —\n\n(a) if the judgment or order is subject to any condition or contingency;\n\n(b) at any time more than 6 years from the date of the judgment\n\n(c) if any change has taken place by death, assignment or otherwise in the parties entitled or liable to execution under the judgment or order;\n\n(d) if the judgment da’in desires to enforce the judgment or order against any person other than the judgment madin named in the judgment or order;\n\n(e) if an order of committal is still in force;\n\n(f) except as provided in section 137(2), if an order for payment by instalments is still in force; or\n\n(g) if execution has been stayed by the Court.\n\n(2) An application for leave to execute may be made ex parte in Form MS 35 and shall state the method of execution requested, but the Court may require service of the application on any party or specified person as it\n\n(3) The Court shall, if it is satisfied that the leave and the stated method is in order, grant the application."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A158",
+   "no": 158,
+   "noLabel": {
+    "en": "Section 158."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Issue of order of execution or garnishee notice"
+   },
+   "text": {
+    "en": "With the granting of the leave and in the method of execution stated in section 157(2), the Registrar shall issue to the bailiff an order of execution in Form MS 36, and if the execution is by garnishee proceedings a garnishee notice in Form MS 38, for execution by the bailiff."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A159",
+   "no": 159,
+   "noLabel": {
+    "en": "Section 159."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Endorsement of time of receipt"
+   },
+   "text": {
+    "en": "The bailiff shall endorse in any order of execution the date and time of its receipt."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A160",
+   "no": 160,
+   "noLabel": {
+    "en": "Section 160."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Expenses of execution to be levied"
+   },
+   "text": {
+    "en": "All expenses of execution shall be levied in addition to the judgment debt."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A161",
+   "no": 161,
+   "noLabel": {
+    "en": "Section 161."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "Where the Court is satisfied that a judgment against a judgment has been satisfied, the Court may, on the application of the judgment , record in the Register Book of Civil Actions that the judgment has been satisfied."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A162",
+   "no": 162,
+   "noLabel": {
+    "en": "Section 162."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Types of execution"
+   },
+   "text": {
+    "en": "(1) An order of execution may direct the bailiff to take any one or more of the following actions —\n\n(a) levy any amount of money to be recovered by seizing and selling the immovable property of the judgment madin;\n\n(b) attach the movable property belonging to the judgment in the possession or control of a third party (hereinafter referred to as the garnishee) or a debt due by the garnishee to the madin;\n\n(c) seize and deliver to the judgment da’in any chattel ordered to be delivered by the judgment madin; or\n\n(d) attach the income of the judgment madin.\n\n(2) Every order of execution shall —\n\n(a) state by which methods as specified under subsection (1) execution is to take place; and\n\n(b) specifically state the description of the property to which the order relates.\n\n(3) The Court may, on application of any judgment da’in, issue a further order of execution in respect of other property or other methods of execution from those set out in the order of execution for the time being in"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A163",
+   "no": 163,
+   "noLabel": {
+    "en": "Section 163."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "The following provisions apply when an execution is ordered by seizure and sale of any property —\n\n(a) the bailiff shall —\n\n(i) subject to as hereinafter provided, take the property and place it under his custody;\n\n(ii) if the property consists of shares, stocks, debentures or bonds not transferable by delivery, in any loan or fund, serve on the appropriate authority and the judgment a copy of the order of execution in Form MS 37 together with sufficient particulars of the shares, stocks, debentures or bonds seized;\n\n(b) after seizure of the property, any transfer or disposal of the property, except with leave of the Court, shall be void;\n\n(c) at any time before sale, the judgment da’in may request the bailiff to release any specified property and such release is not deemed to be abandonment of the execution as a whole;\n\n(d) at any time before sale, the judgment da’in may abandon the execution, and the bailiff shall thereupon return the order of execution\n\n(e) the bailiff shall, unless the property seized be money, proceed to sell it in accordance with the provisions of this Part;\n\n(f) the bailiff shall, on completion of the execution, make a return relating to the execution and submit it to the Registrar."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A164",
+   "no": 164,
+   "noLabel": {
+    "en": "Section 164."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) In this section, “property” includes a debt due by the garnishee to the judgment madin.\n\n(2) The following provisions apply where the execution is ordered by attachment of property in the possession or control of a garnishee —\n\n(a) the bailiff shall serve on the garnishee a notice of garnishment in Form MS 38, provided that, if the property is in the Court, the notice in Form MS 39 shall be used;\n\n(b) all property specified in a notice of garnishment shall be attached to the extent or value mentioned therein, and any transfer or disposal of the property contrary to the terms of the notice, except with leave of the Court, shall be void against the bailiff and the da’in, and such action shall be a contempt of court;\n\n(c) the garnishee may pay to the bailiff the amount claimed or deliver to him the property attached;\n\n(d) if the garnishee disputes the liability to pay the debt due or accruing due, he shall file a notice of objection in Form MS 40 to the Registrar who shall then direct the bailiff to serve a garnishment summons in Form MS 41 and the Court shall examine the garnishee as to the property attached:\n\n(i) no summons shall be issued against a public servant in respect of money or property in his possession, except with leave of the Court or with consent in writing required by any written law;\n\n(ii) no summons shall be issued in the case of money, invested funds or property in any Court;\n\n(e) the Court may hear other evidence on any garnishment\n\n(f) after hearing the summons, the Court may make an order for payment or delivery and may order execution to be issued against the garnishee for any property found to have been lawfully attached by him, as if he were himself a judgment madin for the amount claimed against the original judgment madin, or for the amount or value of the property in the garnishee’s hands, whichever is less;\n\n(g) the Court may —\n\n(i) order costs against the garnishee and may then grant or refuse him his recourse therefor against the judgment ;\n\n(ii) allow costs to the garnishee against the judgment da’in and may grant or refuse leave to treat the costs as costs of the execution;\n\n(h) if a debt due and payable by instalments is attached, the garnishee is not liable to pay except in accordance with the order for\n\n(i) payment by the garnishee under this section shall be a valid discharge against the judgment madin;\n\n(j) the bailiff may, at the request of the judgment da’in and shall, if so ordered by the Court, withdraw any garnishment notice or\n\n(k) a garnishment notice is deemed to be abandoned 3 months after service, unless proceedings under a garnishment summons are still pending or the Court otherwise orders."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A165",
+   "no": 165,
+   "noLabel": {
+    "en": "Section 165."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Money and property in Court"
+   },
+   "text": {
+    "en": "Money, invested funds or other property of the judgment madin in or under the control of the Court which gives the judgment may, if an order of execution has been made, be applied with leave of the Court towards satisfaction of the judgment debt, and investment and property other than money may for such purposes be ordered to be sold."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A166",
+   "no": 166,
+   "noLabel": {
+    "en": "Section 166."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Seizure and delivery"
+   },
+   "text": {
+    "en": "When an execution is ordered by seizure and delivery of a chattel —\n\n(a) the bailiff shall seize the chattel and upon payment of all fees of execution or other expenses due, deliver it to the judgment da’in;\n\n(b) the order of execution may, if required by the judgment da’in, order that if the chattel cannot be traced, levy the value thereof as found either in the original judgment or on subsequent application\n\n(c) an order under paragraph (b) shall not preclude any proceedings for committal."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A167",
+   "no": 167,
+   "noLabel": {
+    "en": "Section 167."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Deposit of expenses"
+   },
+   "text": {
+    "en": "The bailiff shall not be obliged to take any action under an order of execution until the judgment da’in has deposited a sum sufficient in the opinion of the bailiff to defray any expenses of the execution, including expenses of keeping possession for a period not exceeding 14 days, and if it exceeds 14 days, he may require a further deposit and may release the property if such deposit is not furnished."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A168",
+   "no": 168,
+   "noLabel": {
+    "en": "Section 168."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Breaking into with leave of Court"
+   },
+   "text": {
+    "en": "The bailiff shall not break into any house or premises except with leave of the Court."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A169",
+   "no": 169,
+   "noLabel": {
+    "en": "Section 169."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Receipt and account"
+   },
+   "text": {
+    "en": "(1) The bailiff shall give a receipt for every sum of money received by him.\n\n(2) The bailiff shall keep an account of all monies deposited to him."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A170",
+   "no": 170,
+   "noLabel": {
+    "en": "Section 170."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Application of proceeds of sale"
+   },
+   "text": {
+    "en": "The bailiff shall apply all monies levied or received by him by way of execution in the following order —\n\n(a) expenses of execution;\n\n(b) return of judgment da’in deposit which had not been applied;\n\n(c) where the case falls within Part 19, payment into Court to be dealt with in accordance with the provisions of that Part;\n\n(d) where the case does not fall within Part 19, payment into Court to the credit of the judgment da’in, not exceeding the amount necessary to satisfy the judgment in respect of which the execution was issued and the costs of the execution; and\n\n(e) the balance to the judgment madin."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A171",
+   "no": 171,
+   "noLabel": {
+    "en": "Section 171."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "Where the proceeds of the execution are insufficient to defray the expenses of such execution, the judgment da’in shall pay the difference, but he may claim it from the judgment madin."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A172",
+   "no": 172,
+   "noLabel": {
+    "en": "Section 172."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Return of order of execution"
+   },
+   "text": {
+    "en": "(1) The bailiff shall make a return in Form MS 42 to every order of execution as soon as he has completed the execution to the Registrar and shall deliver a copy of the return to the judgment da’in and the judgment\n\n(2) The judgment da’in shall have the right to inspect and copy any inventory of property, sale account, voucher or other document relating to the execution which is kept or maintained by the bailiff."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A173",
+   "no": 173,
+   "noLabel": {
+    "en": "Section 173."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "List of inventory"
+   },
+   "text": {
+    "en": "Where any property is seized and removed from the original place, the bailiff shall give to the person in whose custody it was a sufficient inventory of the property."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A174",
+   "no": 174,
+   "noLabel": {
+    "en": "Section 174."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Direction as to performance of bailiff’s duty"
+   },
+   "text": {
+    "en": "(1) The Court may on its own motion or on the application of any interested party or person, give to the bailiff such directions as to the performance of his duties as it thinks necessary.\n\n(2) The Court may issue a summons to appear and examine any person who can give information regarding any execution."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A175",
+   "no": 175,
+   "noLabel": {
+    "en": "Section 175."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Service on bailiff"
+   },
+   "text": {
+    "en": "Any document to be delivered to, or served on a bailiff, may be served on the Registrar during office hours."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A176",
+   "no": 176,
+   "noLabel": {
+    "en": "Section 176."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Payment out of Court"
+   },
+   "text": {
+    "en": "Subject to the provisions of any written law, any sum paid into Court by the bailiff to the credit of any person shall, on his application, be paid out of Court to him without any order: Provided that the Registrar may in his discretion in any case and shall, if he has notice that any other person did claim the sum in question or part thereof, require the applicant to obtain an order of the Court before making Sale"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A177",
+   "no": 177,
+   "noLabel": {
+    "en": "Section 177."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Special Provisions Relating To Judgment Madin Summons"
+   },
+   "text": {
+    "en": "When any property is sold in the course of execution —\n\n(a) the sale shall take place between 8.00 a.m. and 4.00 p.m.;\n\n(b) the sale shall be, subject to paragraph (f), by public auction without reserve and every sale shall be paid in cash before the completion of the auction, no person on duty to perform the auction shall bid or otherwise directly or indirectly acquire or attempt to acquire any interest in the property sold. The judgment da’in may bid, unless the Court otherwise orders, and with prior consent of the Court the sale money and the amount adjudicated may be set-off between each other, and the judgment is deemed to be satisfied wholly or pro tanto accordingly;\n\n(c) a notice in Form MS 43 as to the date, hours and place of the sale and the property to be sold shall be posted at the Court and at the place of the sale not less than 7 days before the sale;\n\n(d) negotiable instruments and other securities may be sold without auction through the agency of a recognised stock and share broker; the sale shall not be subject to the consent of the Court;\n\n(e) every sale shall be executed and completed by the Court;\n\n(f) in certain cases the Court may, if it has sufficient grounds, order the sale to be conducted in any other manner."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A178",
+   "no": 178,
+   "noLabel": {
+    "en": "Section 178."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) Unless otherwise provided under any other written law, this Chapter applies to the execution of any judgment for the payment of money.\n\n(2) In this Chapter, “judgment” includes any order for the payment"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A179",
+   "no": 179,
+   "noLabel": {
+    "en": "Section 179."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Application for judgment madin summons"
+   },
+   "text": {
+    "en": "(1) Where a judgment of the Court is for the recovery or payment of money, the judgment da’in who is entitled to enforce the judgment may require the judgment madin liable under the judgment to appear in Court to be examined orally as to his capacity of paying or settling the judgment debt and to get the property to be used to pay or settle the debt.\n\n(2) An application requesting a judgment madin to appear under subsection (1) shall be made by filing the application in Form MS 44 signed by the applicant or his Syar’ie Lawyer.\n\n(3) Where a judgment has been given against two or more persons, the judgment da’in may require a judgment madin summons to be issued against each or any of the persons liable under the judgment."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A180",
+   "no": 180,
+   "noLabel": {
+    "en": "Section 180."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Issue of judgment madin summons"
+   },
+   "text": {
+    "en": "(1) On receipt of an application under section 179, the Court shall issue a judgment madin summons in Form MS 45, provided that if the madin is a corporation, a summons in Form MS 46 shall be used.\n\n(2) A judgment madin summons shall be served on the judgment at least 7 days before the day fixed for the hearing thereof."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A181",
+   "no": 181,
+   "noLabel": {
+    "en": "Section 181."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Examination of judgment madin"
+   },
+   "text": {
+    "en": "(1) On the day fixed for the hearing of a judgment madin summons, the Court may examine the judgment madin and other witnesses on affidavit.\n\n(2) If the judgment madin is not present on the day fixed for the hearing of the summons, the Court may —\n\n(a) order that he be arrested and brought to the Court to be examined; or\n\n(b) make an order under subsection (3) against the judgment\n\n(3) The Court may order the judgment madin to pay the judgment debt either —\n\n(a) immediately in lump sum or within such time as may be fixed by the Court; or\n\n(b) by such instalments payable within such period as may be fixed by the Court."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A182",
+   "no": 182,
+   "noLabel": {
+    "en": "Section 182."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Application for judgment notice"
+   },
+   "text": {
+    "en": "(1) Where a judgment madin fails to comply with any order made by the Court against him under section 181, the judgment da’in may, by way of judgment notice, request the judgment madin to appear in Court to show cause why he should not be committed to prison for such default.\n\n(2) An application for a judgment notice under subsection (1) shall be made by the applicant in Form MS 47."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A183",
+   "no": 183,
+   "noLabel": {
+    "en": "Section 183."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Issue of judgment notice"
+   },
+   "text": {
+    "en": "(1) Where the Court receives the application under section 182, it shall issue a judgment notice in Form MS 48.\n\n(2) Unless the Court otherwise orders, a judgment notice shall be served personally on the judgment madin at least 7 days before the date fixed for the appearance of the judgment madin."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A184",
+   "no": 184,
+   "noLabel": {
+    "en": "Section 184."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Hearing of judgment notice"
+   },
+   "text": {
+    "en": "(1) The Court may, after hearing the judgment madin who appears pursuant to the judgment notice under section 182 or under an order for arrest, make an order of committal for a period not exceeding 30 days or vary the order referred to in section 181 as it thinks just.\n\n(2) When an order of committal is made, the Court may order the execution of the order to be suspended with or without condition to enable the judgment madin to pay the amount in respect of which the order is made."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A185",
+   "no": 185,
+   "noLabel": {
+    "en": "Section 185."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Order of committal"
+   },
+   "text": {
+    "en": "An order of committal under section 184 shall be in Form MS 49."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A186",
+   "no": 186,
+   "noLabel": {
+    "en": "Section 186."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Payment by judgment madin"
+   },
+   "text": {
+    "en": "Where an order of committal is made under section 184, the judgment may, at any time, either pay the amount stated in the order to the bailiff or, if the judgment madin is in prison, to the Officer in Charge of the Prison, and the payment shall be a discharge for him."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A187",
+   "no": 187,
+   "noLabel": {
+    "en": "Section 187."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Certificate of satisfaction of debt"
+   },
+   "text": {
+    "en": "(1) Where any judgment debt in respect of which a judgment madin is committed to prison under section 184 is satisfied by payment or otherwise, the judgment da’in shall file with the Registrar a certificate of satisfaction of debt signed by him in Form MS 50.\n\n(2) If the judgment da’in fails to file the certificate referred to in subsection (1), the judgment madin or any person on his behalf may apply to the Court for an order for his discharge, and the Court in making such order shall direct that the costs for such application be paid by the judgment da’in.\n\n(3) An order under subsection (2) shall be in Form MS 51. Date of order of committal"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A188",
+   "no": 188,
+   "noLabel": {
+    "en": "Section 188."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "Any order of committal of a judgment madin under section 184 shall contain the date on which the order is made and shall be enforced for a period of one year from that date.\n\nRATEABLE DISTRIBUTION Proceeds of sale to be distributed rateably to all judgment da’in"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A189",
+   "no": 189,
+   "noLabel": {
+    "en": "Section 189."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "INTERLOCUTORY PROCEEDINGS AND INTERIM ORDER"
+   },
+   "text": {
+    "en": "(1) Where assets are realised by sale or otherwise in execution of an order or judgment, and more persons than one have, prior to the realisation, attached the property from which such assets have been realised in execution of orders or judgments for the payment of money against the same judgment , and the distribution of which have not been satisfied, the assets shall, after deducting the costs of realisation, be distributed rateably among all da’in:\n\n(a) where any property is sold subject to a charge, the chargee shall not be entitled to share in any surplus from the proceeds of the sale;\n\n(b) where any property liable to be sold in execution of an order or judgment is subject to a charge, the Court may, with the consent of the chargee, order that the property be sold free from the charge, giving to the chargee the same right against the proceeds of the sale as he had against the property sold; and\n\n(c) where an immovable property is sold in execution of an order or judgment ordering its sale for the discharge of the encumbrances thereof, the proceeds of the sale shall be applied in the order of priority —\n\n(i) in defraying all expenses of the sale;\n\n(ii) in discharging the principal debt due on the encumbrance;\n\n(iii) in discharging the principal debt due on subsequent encumbrances, if any;\n\n(iv) rateably among the holders of the orders or judgments for the payment of money against the judgment madin who have prior to the sale of that property applied to the Court which made the order or judgment and the distribution of which have not been satisfied.\n\n(2) Where all or any of the assets liable to be rateably distributed under this section have been paid to a person not entitled to receive thereof, the person entitled thereto may claim from that person for the return of the assets.\n\n(3) Nothing in this section shall prevent or postpone any claim which under other written law ought to be given priority. Interlocutory Proceedings"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A190",
+   "no": 190,
+   "noLabel": {
+    "en": "Section 190."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Mode of application"
+   },
+   "text": {
+    "en": "(1) Where by this Code an application in the course of any proceedings, before or after judgment, is expressly or by implication authorised to be made to the Court, such application shall be made in Form MS 52 and shall, unless the Court otherwise directs, be heard in Chambers.\n\n(2) Every application shall state the nature of the order applied for in general terms and the grounds of the application.\n\n(3) An application under this Chapter may be made ex parte unless the Court otherwise directs or otherwise provided in this Chapter."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A191",
+   "no": 191,
+   "noLabel": {
+    "en": "Section 191."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Notice of application to be filed"
+   },
+   "text": {
+    "en": "(1) An application is deemed to have been made when a notice thereon together with the application have been filed and sealed by the Court.\n\n(2) An application cannot be amended after filing without leave of"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A192",
+   "no": 192,
+   "noLabel": {
+    "en": "Section 192."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Service of application"
+   },
+   "text": {
+    "en": "An application for extension or abridgment of any period of time may be served on the day before the date fixed for hearing thereof but, except as aforesaid and unless the Court otherwise orders or otherwise provided in this Code, an application shall be served on every other party not less than 2 clear days before the date of hearing."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A193",
+   "no": 193,
+   "noLabel": {
+    "en": "Section 193."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) Every application shall be supported by an affidavit.\n\n(2) Any party —\n\n(a) filing an affidavit intended to be used by him in any proceedings relating to the application; or\n\n(b) intending to use in any such proceedings any affidavit filed by him in previous proceedings, shall give notice to every other party of the filing or of his intention to do so, as the case may be, unless the Court otherwise orders."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A194",
+   "no": 194,
+   "noLabel": {
+    "en": "Section 194."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Copies of documents"
+   },
+   "text": {
+    "en": "The original of any document which is to be used in evidence in any proceedings relating to an application shall, if it is available, be brought in, and copies of any such document or any part thereof shall be supplied for use of the Court or be given to the other parties to the proceedings."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A195",
+   "no": 195,
+   "noLabel": {
+    "en": "Section 195."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) The hearing of an application may be adjourned from time to time, either generally or to a particular date, as may be appropriate.\n\n(2) If the hearing is adjourned generally, the applicant may restore it by giving 2 clear days’ notice before the date fixed for hearing to all other parties on whom the application was served."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A196",
+   "no": 196,
+   "noLabel": {
+    "en": "Section 196."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Non-appearance of parties"
+   },
+   "text": {
+    "en": "(1) Where any party to an application fails to attend on the day of hearing of his application, the Court may strike out the application.\n\n(2) Where any party to an application fails to attend on the first or any resumed hearing of the application, and the Court thinks it expedient to proceed with the hearing in the absence of any party, the Court may do so.\n\n(3) Before proceeding with the hearing in the absence of any party, the Court shall be satisfied that the application or the notice of the time appointed for the resumed hearing was duly served on the party in question.\n\n(4) Where the application has been struck out without hearing by reason of the failure of the applicant to attend, the Court may, if satisfied that it is just to do so, allow the application to be restored.\n\n(5) Where the Court hearing the application proceeded with in the absence of a party, then, provided that any order made on the hearing has not been perfected, the Court, if satisfied that it is just to do so, may rehear the"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A197",
+   "no": 197,
+   "noLabel": {
+    "en": "Section 197."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "order to be set aside"
+   },
+   "text": {
+    "en": "(1) The Court may, on the application of any party to any cause or matter, set aside an ex parte order made under this Chapter.\n\n(2) For the purpose of subsection (1), an application shall be made within 14 days from the date of the order and shall be heard inter-parte."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A198",
+   "no": 198,
+   "noLabel": {
+    "en": "Section 198."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Oral application in proceedings"
+   },
+   "text": {
+    "en": "The Court may, in its discretion, during the hearing of an application under this Chapter, allow any application arising therein to be made orally. Interim Order etc."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A199",
+   "no": 199,
+   "noLabel": {
+    "en": "Section 199."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Power of Court to grant interim order"
+   },
+   "text": {
+    "en": "(1) Subject to the provisions of this Chapter, the Court shall, in its discretion, have the power to grant any interim order on such terms as it thinks fit and may give any direction as to the further conduct of the\n\n(2) Every application for an interim order shall be made in Form MS 53 and supported by an affidavit."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A200",
+   "no": 200,
+   "noLabel": {
+    "en": "Section 200."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Attachment, custody or preservation order"
+   },
+   "text": {
+    "en": "(1) On the application of any party to a cause or matter, the Court may make an order for the attachment, custody or preservation of any property which is the subject matter of the cause or matter, or as to which any question may arise therein, or for the inspection of any such property in the possession of a party to the cause or matter.\n\n(2) For the purpose of enabling any order under subsection (1) to be carried out, the Court may by the order authorise any person to enter upon any immovable property in the possession of any party to the cause or matter.\n\n(3) Where in a cause or matter the right of any party to a specific fund is in dispute, the Court may, on the application of a party to the cause or matter, order the fund to be paid into Court or otherwise secured."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A201",
+   "no": 201,
+   "noLabel": {
+    "en": "Section 201."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) On the application of any party to a cause or matter before or after the hearing of the cause or matter, the Court may grant an injunction whether or not the claim for the injunction has been included in the summons or counterclaim, as the case may be.\n\n(2) An application under this section shall not be made before an action has commenced except in case of urgency.\n\n(3) In case of urgency, such application may be made ex parte supported by an affidavit and that affidavit shall contain a clear and concise\n\n(a) of the facts giving rise to the claim against the defendant in\n\n(b) of the facts giving rise to the claim for the injunction;\n\n(c) of the facts relied on as justifying the ex parte application including details of any notice given to the defendant or, if no notice has been given, the reasons for not doing so;\n\n(d) of any answer asserted by the defendant, or which he is thought likely to assert either to the claim in the action or to the claim for the injunction;\n\n(e) of any facts known to the applicant which might lead the Court not to grant the ex parte injunction;\n\n(f) of whether any previous similar ex parte application has been made to any Judge and, if so, the order made in that previous application; and\n\n(g) of the relief sought.\n\n(4) Notwithstanding subsections (1) and (3), in any proceedings against the Government or the Majlis, the Court shall not grant an injunction but may in substitution make an order declaring the rights of the parties to the cause or matter.\n\n(5) The Court shall not grant an injunction or any order against any officer of the Government or the Majlis if the effect of the injunction or the order is to give relief that may not be obtained by the applicant in the proceedings against the Government or the Majlis."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A202",
+   "no": 202,
+   "noLabel": {
+    "en": "Section 202."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Interim order for hadhanah"
+   },
+   "text": {
+    "en": "(1) Subject to the provisions of the Islamic Family Law Act (Chapter 217), on the application of any party to a cause or matter for the of a child, if the Court is satisfied that the circumstances require an interim order to be made for the hadhanah of the child, the Court may make such order which shall have immediate effect and continue until the Court has made a decision in respect of the cause or matter.\n\n(2) An application under this section shall not be made before the action has commenced, except in case of urgency which in the interest of justice and for the protection of the applicant or the child it appears that the immediate intervention of the Court is required.\n\n(3) In case of urgency, such application may be made ex parte supported by an affidavit and that affidavit shall contain a clear and concise\n\n(a) of the facts giving rise to the claim against the defendant in\n\n(b) of the facts giving rise to the claim for the interim order;\n\n(c) of the facts relied on as justifying the ex parte application including details of any notice given to the defendant or, if no notice has been given, the reasons for not doing so;\n\n(d) of any facts known to the applicant which might lead the Court not to grant the interim order;\n\n(e) of whether any previous similar ex parte application has been made to any Judge and, if so, the order made in that previous application; and\n\n(f) of the relief sought."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A203",
+   "no": 203,
+   "noLabel": {
+    "en": "Section 203."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Interim order for maintenance"
+   },
+   "text": {
+    "en": "(1) Subject to the provisions of the Islamic Family Law Act (Chapter 217), on the application of any party entitled to maintenance in any cause or matter, if the Court is satisfied that the circumstances require an interim order for maintenance to be made against the person liable in Hukum Syara’ to pay maintenance, the Court may make such order which shall have immediate effect and shall continue in force until the Court has made a decision in respect of the cause or matter.\n\n(2) Where the application referred to in subsection (1) is in respect of an interim order for the maintenance of a child, the Court shall not make such order unless it is satisfied that the father or the person liable in Hukum Syara’ has the capability to pay for the maintenance applied for."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A204",
+   "no": 204,
+   "noLabel": {
+    "en": "Section 204."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Order for samples etc. to be taken"
+   },
+   "text": {
+    "en": "(1) Where the Court considers it necessary or expedient for the purpose of obtaining full information or sufficient evidence in any cause or matter, the Court may, on the application of any party to the cause or matter, and on such terms, if any, as it thinks just, by order authorise or require any sample to be taken of any property which is the subject matter of the cause or matter or as to which any question may arise therein, any observation to be made on such property or any experiment to be carried out on or with such\n\n(2) For the purpose of enabling any order under subsection (1) to be carried out, the Court may, by the order authorise any person to enter upon any immovable property in the possession of any party to the cause or matter.\n\n(3) An application under this section shall be supported by an"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A205",
+   "no": 205,
+   "noLabel": {
+    "en": "Section 205."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Sale of property in dispute"
+   },
+   "text": {
+    "en": "The Court may make an order for the sale without affecting any decision to be made of any property in dispute in any proceedings which —\n\n(a) is perishable or dilapidated;\n\n(b) involves the costs of food or maintenance; or\n\n(c) for other reasons ought to be sold, in such manner, on such limitations and conditions as it may think just."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A206",
+   "no": 206,
+   "noLabel": {
+    "en": "Section 206."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Order for early trial"
+   },
+   "text": {
+    "en": "Where on the hearing of an application made before the trial of a cause or matter, for an interim order, it appears to the Court that the matter in dispute can be better dealt with by an early trial than by considering the whole merits thereof for the purpose of the application, the Court may make an order accordingly and may also make such order before the trial as the justice of the case requires. Recovery of movable property subject to lien etc."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A207",
+   "no": 207,
+   "noLabel": {
+    "en": "Section 207."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "Where the plaintiff, or defendant by way of counterclaim, claims the recovery of a specific movable property and the party from whom recovery is sought does not dispute the title of the party making the claim but claims to be entitled to retain the property by virtue of a lien or otherwise as security for any sum of money, the Court may, at any time after the claim, if it appears from the pleading, if any, or by affidavit or otherwise, to be so entitled to its satisfaction, order that the party seeking to recover the property be at liberty to pay into Court, to abide by the determination of the action, the amount of money in respect of which the security is claimed and such other sum, if any, for service charge and costs as the Court may direct and that, upon such payment being made, the property claimed shall be delivered to the party claiming it. Order for payment of income from property or delivery of movable"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A208",
+   "no": 208,
+   "noLabel": {
+    "en": "Section 208."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "POWERS OF JUDGE AND REGISTRAR"
+   },
+   "text": {
+    "en": "Where any movable or immovable property constitutes the subject matter of any proceedings, and the Court is satisfied that it will be more than sufficient to answer all the claims thereon for which provisions ought to be made in the proceedings, the Court may at any time allow the whole or part of the income of the property to be paid, during such period as it may direct, to any or all of the parties who have an interest therein or order that any part of the movable property be transferred or delivered to any or all such parties."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A209",
+   "no": 209,
+   "noLabel": {
+    "en": "Section 209."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Powers of Registrar"
+   },
+   "text": {
+    "en": "In any Court, the Registrar in Chambers may —\n\n(a) adjourn any proceedings;\n\n(b) fix a date for the trial of any proceedings;\n\n(c) hear and determine any application for a warrant of distress;\n\n(d) administer affidavits and take bonds;\n\n(e) when security is ordered to be given, determine its sufficiency;\n\n(f) by consent of all parties, order consolidation of any\n\n(g) carry out any other functions provided under this Code or any order of a Judge."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A210",
+   "no": 210,
+   "noLabel": {
+    "en": "Section 210."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) A Judge may —\n\n(a) exercise all duties and powers conferred upon him by any\n\n(b) exercise his functions in Court or in Chambers in any proceedings within his jurisdiction; and\n\n(c) enter judgment by consent of the parties in Court.\n\n(2) A Judge may exercise in Court or in Chambers all the powers conferred on the Registrar.\n\n(3) A Judge of the Syariah High Court may, on the application of any person or in his discretion, order the Syariah Subordinate Court to re-register any case the registration of which has been rejected.\n\n(4) The Chief Syar’ie Judge may, on the application of any party or in his discretion, order any Court to re-register any case the registration of which has been rejected. Appeal against order of Registrar"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A211",
+   "no": 211,
+   "noLabel": {
+    "en": "Section 211."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "COURT FEES, COSTS AND ALLOWANCES"
+   },
+   "text": {
+    "en": "(1) An appeal may be lodged to the Judge in Chambers against any judgment, order or decision of the Registrar.\n\n(2) An appeal under this section shall be lodged by serving on every other party to the proceedings in which the judgment, order or decision was given a notice in Form MS 54 specifying the grounds of appeal.\n\n(3) Unless the Court otherwise directs, the notice shall be filed within 7 days after the judgment, order or decision appealed against was given or made and served not less than 2 clear days before the day fixed for the hearing of the appeal.\n\n(4) Except in so far as the Court may otherwise direct, an appeal under this section shall not operate as a stay of the proceedings in which the appeal is lodged.\n\n(5) The decision of the Judge in Chambers shall be final."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A212",
+   "no": 212,
+   "noLabel": {
+    "en": "Section 212."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) There shall be receivable and payable in respect of all causes, matters and proceedings in Court, such fees as may be prescribed by the Rules made under section 236: Provided that in the proceedings by the Majlis or the Government or against the Majlis, the Majlis or the Government shall be exempted from payment of any Court fees.\n\n(2) The Court fees shall be paid in cash unless the Chief Syar’ie Judge otherwise determines.\n\n(3) No fees shall be chargeable in respect of any proceedings taken"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A213",
+   "no": 213,
+   "noLabel": {
+    "en": "Section 213."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "Subject to this Code, the Court shall in its discretion award costs of the proceedings filed in that Court although it has no jurisdiction on such"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A214",
+   "no": 214,
+   "noLabel": {
+    "en": "Section 214."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Assessment of costs"
+   },
+   "text": {
+    "en": "(1) The costs shall be assessed by the Judge or the Registrar as prescribed by the Rules made under section 236.\n\n(2) Notwithstanding the provision of subsection (1), the Judge or the Registrar may in his discretion appropriately allow costs for items not specified in the Rules."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A215",
+   "no": 215,
+   "noLabel": {
+    "en": "Section 215."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Witness allowance"
+   },
+   "text": {
+    "en": "Where on the hearing of any proceedings, a person attends Court as a witness of fact, or as a witness to produce a document, or as a party to the proceedings, he may be allowed such sum as may be prescribed by the Rules made under section 236."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A216",
+   "no": 216,
+   "noLabel": {
+    "en": "Section 216."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Allowance and fee for expert witness"
+   },
+   "text": {
+    "en": "Where on the hearing of any proceedings a person attends Court as an expert witness, he may be allowed a fee for attending the Court as prescribed by the Rules made under section 236, and in addition, a fee for qualifying to give evidence as such expert."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A217",
+   "no": 217,
+   "noLabel": {
+    "en": "Section 217."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Subsistence, travelling and accommodation allowances"
+   },
+   "text": {
+    "en": "In addition to any of the allowances payable under sections 215 and 216, a party or a witness may be allowed any reasonable subsistence, travelling and accommodation expenses in respect of his attendance at the proceedings or hearing."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A218",
+   "no": 218,
+   "noLabel": {
+    "en": "Section 218."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Attendance in more than one proceedings"
+   },
+   "text": {
+    "en": "Where a witness or a party attends Court in respect of two or more proceedings, the sum allowed to him under sections 215, 216 and 217 in respect of a proceeding may be apportioned between the several proceedings. Witness attending and not giving evidence"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A219",
+   "no": 219,
+   "noLabel": {
+    "en": "Section 219."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "Allowances may be paid to a witness whether or not he was called to give evidence, if his attendance was necessary."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A220",
+   "no": 220,
+   "noLabel": {
+    "en": "Section 220."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Notice to show cause"
+   },
+   "text": {
+    "en": "(1) The Court shall have the jurisdiction to take action or proceedings against any person committing contempt of court and in such proceedings the Court may make against such person an order of committal not exceeding 6 months or may impose a fine not exceeding $2,000.\n\n(2) The Court may, on the application of any party to any cause or matter or on its own motion, issue a notice to show cause.\n\n(3) No application for issuance of a notice to show cause against any person shall be made except with leave of the Court in accordance with this Part.\n\n(4) An application for leave thereof shall be supported by an affidavit stating the name and particulars of the person against whom the notice to show cause is to be issued and the grounds of the application.\n\n(5) Where a person commits contempt in the face of the Court, it shall not be necessary to serve the notice to show cause to the person, but the Court shall ensure that the person understands the description of the offence alleged to have been committed by him and he has the opportunity to defend himself, and the Court shall make a record of the proceedings.\n\n(6) Except in circumstances in subsection (5) in all cases of contempt of court, the notice to show cause why an action or proceedings should not be taken shall be served on the person alleged to have committed such contempt.\n\n(7) An order of committal shall be in Form MS 55."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A221",
+   "no": 221,
+   "noLabel": {
+    "en": "Section 221."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Contempt by body corporate"
+   },
+   "text": {
+    "en": "Where contempt of court is committed by a body corporate, any person who at the time of the commission of such contempt is a director, manager or secretary of the body corporate or other similar officer responsible for the management of the body corporate is deemed to be guilty of contempt unless he proves that —\n\n(a) the contempt was committed by the body corporate without his consent or connivance; or\n\n(b) he has exercised all due diligence to prevent the commission of the contempt as he ought to have exercised having regard to the function and nature of his office in the body corporate and to all the circumstances."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A222",
+   "no": 222,
+   "noLabel": {
+    "en": "Section 222."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "Any document to be used shall be in the Malay language and a document in any other language shall be accompanied by a translation thereof in the Malay language."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A223",
+   "no": 223,
+   "noLabel": {
+    "en": "Section 223."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "The Forms set out in Schedule 2 shall be used where applicable with such modifications as the circumstances may require."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A224",
+   "no": 224,
+   "noLabel": {
+    "en": "Section 224."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Certified copies"
+   },
+   "text": {
+    "en": "On application and upon payment of the fee, the Registrar may provide a certified copy of any document and with the consent of the Court any notes of evidence to the applicant."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A225",
+   "no": 225,
+   "noLabel": {
+    "en": "Section 225."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Fees, deposit and disbursement"
+   },
+   "text": {
+    "en": "When any fee or deposit is payable in respect of any act, or any disbursement is necessary for doing the act, the officer charged with doing the act shall not be obliged to do it until the fee, deposit or the amount of the disbursement has been paid."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A226",
+   "no": 226,
+   "noLabel": {
+    "en": "Section 226."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Prohibition on officers of Court"
+   },
+   "text": {
+    "en": "No officer of the Court shall become a surety or engage in or become a purchaser directly or indirectly at any sale by the Court."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A227",
+   "no": 227,
+   "noLabel": {
+    "en": "Section 227."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Furnishing security"
+   },
+   "text": {
+    "en": "(1) Security shall be furnished by deposit of money or by bond the amount of which shall be determined by the Judge or the Registrar.\n\n(2) Expenses of security, if any, shall be borne by the person furnishing the security.\n\n(3) Where security is furnished by deposit of money, the money shall not be paid out without the order of the Court.\n\n(4) Where security is furnished by bond, one surety shall be required unless the Court otherwise orders."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A228",
+   "no": 228,
+   "noLabel": {
+    "en": "Section 228."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Unclaimed funds and other properties"
+   },
+   "text": {
+    "en": "Funds and properties in Court and all jewelleries, securities and movable properties other than monies, deeds or documents which are unclaimed after 10 years are deemed to be the property of Baitulmal and shall then be handed over to Baitulmal: Provided that the Court may, on the application of any person and if it is satisfied that the person is entitled to the money or property, order the Baitulmal to pay the money or return the property or the value thereof to that"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A229",
+   "no": 229,
+   "noLabel": {
+    "en": "Section 229."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Extension or abridgment of time"
+   },
+   "text": {
+    "en": "(1) The Court may, upon such terms as it thinks just, extend or abridge the period of time specified for doing an act within which any person is required or authorised under this Code, or under any judgment, order or direction of the Court to do any act in any proceedings.\n\n(2) The Court may extend the period of time specified in subsection (1) notwithstanding that the specified original period of time has expired."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A230",
+   "no": 230,
+   "noLabel": {
+    "en": "Section 230."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Order to appear in person"
+   },
+   "text": {
+    "en": "Subject to any written law, the Court may for sufficient reasons order any party to any proceedings to appear in person at any time, unless the party is outside Brunei Darussalam, and wilful failure to comply with the order shall be a contempt of court."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A231",
+   "no": 231,
+   "noLabel": {
+    "en": "Section 231."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Service by other Court"
+   },
+   "text": {
+    "en": "Any process or document required to be served by an officer of the Court on a party may be served by any other Court."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A232",
+   "no": 232,
+   "noLabel": {
+    "en": "Section 232."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Taking evidence before hearing"
+   },
+   "text": {
+    "en": "(1) Where the Court is satisfied that the evidence of any party or witness should be taken before the date of the hearing, the Court or any Judge may order another Court or any Judge to take the evidence of any party or witness, and the evidence so taken may be used at the hearing.\n\n(2) Notice that evidence will be taken under subsection (1) shall be served on the other party not less than 7 days before the date the evidence is to be taken and the other party may take part in such proceedings."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A233",
+   "no": 233,
+   "noLabel": {
+    "en": "Section 233."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Recording of evidence by another Court on written request"
+   },
+   "text": {
+    "en": "(1) Subject to subsection (2) a Judge may, in a pending proceedings before another Court, take evidence from any party, witness or other person and accept any document tendered in the proceedings.\n\n(2) The power of the Judge under subsection (1) shall be exercised if there is a written request from the Court before which the proceedings is\n\n(3) Notwithstanding any provision to the contrary, the Court before which the proceedings is pending may, on its own motion or on the application of any party to the proceedings, request another Court to take evidence from any party or witness in such proceedings, if the Court is satisfied that the party or witness cannot attend the Court for reasonable reasons or if the appearance of the party or witness will cause the party calling the witness to incur excessive costs."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A234",
+   "no": 234,
+   "noLabel": {
+    "en": "Section 234."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Inherent power of Court"
+   },
+   "text": {
+    "en": "Nothing in this Code is deemed to limit or affect the inherent power of the Court to make any order as may be necessary to ensure injustice or abuse of the process of the Court will not occur."
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A235",
+   "no": 235,
+   "noLabel": {
+    "en": "Section 235."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "to apply where there is no provision"
+   },
+   "text": {
+    "en": "(1) Any provision or interpretation of any provision in this Code which is inconsistent with Hukum Syara’ shall be invalid to the extent of its inconsistency.\n\n(2) In relation to any matter which is not expressly provided for in this Code or in any rules made thereunder, the Court shall follow"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A236",
+   "no": 236,
+   "noLabel": {
+    "en": "Section 236."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Power to make rules and draft forms"
+   },
+   "text": {
+    "en": "(1) The Chief Syar’ie Judge may by notification published in the Gazette make Rules for carrying out the provisions of this Code and in particular, but without prejudice to the generality of the foregoing, may make Rules in respect of —\n\n(a) the practice and procedure of the Registrar of the Syariah Court and the Syariah Appeal Court;\n\n(b) the books of accounts, reports and other documents to be used in respect of any act or thing done under or in accordance with\n\n(c) sulh;\n\n(d) the fees, allowances and costs provided for under this Code; and\n\n(e) the conduct of Court, the form and method of execution of any instrument and the appointment of officers or agents of the Court.\n\n(2) The Chief Syar’ie Judge may from time to time —\n\n(a) draft such form for every proceedings in Court as he may think necessary; and\n\n(b) amend Schedules 2 and 3 to this Code. Temporary application to pending cases"
+   }
+  },
+  {
+   "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE-A237",
+   "no": 237,
+   "noLabel": {
+    "en": "Section 237."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "—"
+   },
+   "text": {
+    "en": "For settling cases and matters which are pending before any Court established under the Religious Council and Kadis Courts Act (Chapter 77) on the commencement of this Code, the provisions of procedure under this Code may apply to the extent that it does not result in injustice. (section 2(3) and (4)) Baitulmal -----ﺎﻝﺑﻴѧѧѧѧﺖ ﺍﻟﻤѧѧѧѧ Da’in -----ﻦﺩﺍﯨْѧѧѧ -----ﺎﻧﺔﺣﻀѧѧѧ Hakim Syar’ie -----ﺮﻋﻰﺣѧѧﺎﻛﻢ ﺷѧѧ -----ﺮﻉﺣﻜѧѧﻢ ﺷѧѧ Lafaz -----ﻆﻟﻔѧѧѧѧѧѧ -----ﺪﻳﻦﻣѧѧ -----ﺘﻮﻁﻦﻣﺴѧѧѧѧѧ Mazhab -----ﻣﺬﻫﺐ -----ﻢﻣﻘﻴѧѧѧѧѧ -----ﺔﻗﻤﺮﻳѧѧѧѧ Sulh -----ﻠﺢﺻѧѧѧѧ -----ﺔﻭﻛﺎﻟѧѧѧ Yamin -----ﻦﻳﻤﻴѧѧѧѧѧ Yamin Mardudah -----ﺮﺩﻭﺩﺓﻳﻤﻴѧѧﻦ ﻣѧѧ Yamin Istizhar -----ﺘﻈﻬﺎﺭﻳﻤﻴѧѧѧѧѧﻦ ﺍﺳѧѧѧѧѧ (sections 2(1) and 223)\n\nFORM MS 1 (section 7) IN THE SYARIAH SUBORDINATE / HIGH COURT AT ............................................\n\nIN BRUNEI DARUSSALAM\n\n(1) ........................................ No ....................................... of 14 .......... H / 20 .......... M.\n\n(2) ....................................................................................................... Plaintiff AND\n\n(3) Defendant....................................................................................................... Respondent"
+   }
+  }
+ ]
+}

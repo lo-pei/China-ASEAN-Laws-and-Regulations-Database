@@ -1,0 +1,612 @@
+{
+ "id": "SG-H1684",
+ "title": {
+  "zh": null,
+  "en": "Hazardous Waste (Control of Export, Import and Transit) Regulations 1998",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p21",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation HWCEITA1997-RG1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 36,
+ "chars": 29972,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/HWCEITA1997-RG1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 36 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1684-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations are the Hazardous Waste (Control of Export, Import and Transit) Regulations 1998."
+   }
+  },
+  {
+   "id": "SG-H1684-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations —\n“variation”, in relation to a permit, includes a variation of the permit conditions imposed on the permit;\n“variation application” means an application under regulation 21 for the variation of a permit."
+   }
+  },
+  {
+   "id": "SG-H1684-A2.001",
+   "no": 2.001,
+   "noLabel": {
+    "en": "2A."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Prescribed website of Secretariat of Basel Convention"
+   },
+   "text": {
+    "en": "2A. For the purposes of section 5(2)(b) of the Act, the prescribed website of the Secretariat of the Basel Convention is https://www.basel.int.\n[S 527/2026 wef 01/08/2026]"
+   }
+  },
+  {
+   "id": "SG-H1684-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR AND GRANT OF PERMITS"
+   },
+   "heading": {
+    "en": "Applications for import permits"
+   },
+   "text": {
+    "en": "3.—(1) A person who has one or more import proposals in relation to hazardous or other waste may apply to the Director‑General for a permit authorising the import of the waste.\n(2) The application must —\n(a)be in the form approved by the Director‑General; and\n(b)set out, or be accompanied by, any information relating to the proposals that is required by the form.\n(3) The application may deal with 2 or more import proposals in relation to hazardous or other waste only if —\n(a)the following matters are common to each proposal:\n(i)the physical and chemical characteristics of the waste;\n(ii)the route over which the waste is to be transported;\n(iii)the sender of the waste;\n(b)the proposals constitute a regular pattern; and\n(c)the proposals will all be carried out within 12 months of each other."
+   }
+  },
+  {
+   "id": "SG-H1684-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR AND GRANT OF PERMITS"
+   },
+   "heading": {
+    "en": "Applications for export permits"
+   },
+   "text": {
+    "en": "4.—(1) A person who —\n(a)wants to export hazardous or other waste; and\n(b)has an export proposal in relation to the waste,\nmay apply to the Director‑General for a permit to export the waste.\n(2) The application must —\n(a)be in the form approved by the Director‑General; and\n(b)set out, or be accompanied by, any information relating to the proposals that is required by the form.\n(3) The application may deal with 2 or more export proposals in relation to hazardous or other waste only if —\n(a)the following matters are common to each proposal:\n(i)the physical and chemical characteristics of the waste;\n(ii)the route over which the waste is to be transported;\n(iii)the recipient of the waste;\n(b)the proposals constitute a regular pattern; and\n(c)the proposals will all be carried out within 12 months of each other."
+   }
+  },
+  {
+   "id": "SG-H1684-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR AND GRANT OF PERMITS"
+   },
+   "heading": {
+    "en": "Applications for transit permits"
+   },
+   "text": {
+    "en": "5.—(1) A person who has one or more transit proposals in relation to hazardous or other waste may apply to the Director‑General for a permit to carry out the proposals.\n(2) The application must —\n(a)be in the form approved by the Director‑General; and\n(b)set out, or be accompanied by, any information relating to the proposals that is required by the form.\n(3) The application may deal with 2 or more transit proposals in relation to hazardous or other waste only if —\n(a)the following matters are common to each proposal:\n(i)the physical and chemical characteristics of the waste;\n(ii)the route over which the waste is to be transported;\n(iii)the sender and recipient of the waste;\n(b)the proposals constitute a regular pattern; and\n(c)the proposals will all be carried out within 12 months of each other."
+   }
+  },
+  {
+   "id": "SG-H1684-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR AND GRANT OF PERMITS"
+   },
+   "heading": {
+    "en": "Basel permit or special permit"
+   },
+   "text": {
+    "en": "6.—(1) An application under regulation 3, 4 or 5 must state that the applicant is applying for —\n(a)a Basel permit; or\n(b)a special permit under a specified set of Article 11 regulations.\n(2) If —\n(a)an application under regulation 3, 4 or 5 states that the applicant is applying for a Basel permit; and\n(b)the Director‑General is satisfied that there are special circumstances relating to the application,\nthe Director‑General may, by writing, determine that the Act and these Regulations have effect as if the applicant had applied instead for the corresponding type of special permit under a set of Article 11 regulations specified in the determination.\n(3) If —\n(a)an application under regulation 3, 4 or 5 states that the applicant is applying for a special permit under a particular set of Article 11 regulations; and\n(b)the Director‑General is satisfied that there are special circumstances relating to the application,\nthe Director‑General may, by writing —\n(c)determine that the Act and these Regulations have effect as if the applicant had applied instead for the corresponding type of Basel permit; or\n(d)determine that the Act and these Regulations have effect as if the applicant had applied instead for the corresponding type of special permit under another set of Article 11 regulations specified in the determination.\n(4) A determination under this regulation has effect accordingly.\n(5) Where the Director‑General makes a determination under this regulation, the Director‑General must give the applicant a copy of the determination as soon as practicable."
+   }
+  },
+  {
+   "id": "SG-H1684-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR AND GRANT OF PERMITS"
+   },
+   "heading": {
+    "en": "Variation of applications for permits"
+   },
+   "text": {
+    "en": "7.—(1) An applicant for a Basel permit or a special permit may, at any time before the Director‑General has decided whether to grant the permit, give the Director‑General a notice stating that the permit application is varied as set out in the notice.\n(2) The notice must —\n(a)be in the form approved by the Director‑General; and\n(b)set out, or be accompanied by, any information relating to the variation that is required by the form.\n(3) If the Director‑General receives a notice under paragraph (1) from the applicant —\n(a)the application is to be taken to have been varied in accordance with the notice; and\n(b)the application, as varied, is to be taken to have been received by the Director‑General on the day on which the Director‑General received the notice."
+   }
+  },
+  {
+   "id": "SG-H1684-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR AND GRANT OF PERMITS"
+   },
+   "heading": {
+    "en": "Further information may be requested"
+   },
+   "text": {
+    "en": "8. If the Director‑General needs further information to deal with a permit application, the Director‑General may ask the applicant to provide the information in writing."
+   }
+  },
+  {
+   "id": "SG-H1684-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR AND GRANT OF PERMITS"
+   },
+   "heading": {
+    "en": "Grant of import permits and export permits"
+   },
+   "text": {
+    "en": "9.—(1) Subject to this Part, the Director‑General may grant the export permit or import permit sought by a permit application if the Director‑General is satisfied —\n(a)that dealing with the hazardous or other waste concerned in accordance with the import proposals or export proposals would be consistent with the environmentally sound management of the waste;\n(b)if the permit sought is a Basel export permit authorising the export of hazardous or other waste to a particular foreign country —\n(i)that the competent authority of the country has given written consent to the grant of the permit; and\n(ii)that the consent was given in accordance with Article 6 of the Basel Convention;\n(c)if the permit sought is a special export permit under a set of Article 11 regulations authorising the export of hazardous or other waste to a particular foreign country —\n(i)that the competent authority of the country has given written consent to the grant of the permit; and\n(ii)that the consent was given in accordance with the corresponding Article 11 arrangement;\n(d)if the permit sought is an export permit, that the hazardous or other waste will be allowed to be transported through any foreign country through which the waste is proposed to be transported;\n(e)if the permit sought is an import permit authorising the import of hazardous or other waste into Singapore for re‑use or for a reprocessing, recycling or recovery operation, that the waste is required as a raw material for such re‑use or operation in Singapore;\n(f)that, having regard to —\n(i)the applicant’s financial viability;\n(ii)the applicant’s previous record in relation to environmental matters; and\n(iii)any other relevant matters,\nthe applicant is a suitable person to be granted the permit;\n(g)if the Director‑General decides that an emergency action plan is necessary, that the applicant has such a plan and that the plan is adequate to deal with any accidental discharge or spillage of the hazardous or other waste;\n(h)that the applicant has the appropriate insurance; and\n(i)if the Director‑General so requires, that the applicant has given or caused to be given, one or more appropriate guarantees or security deposits in respect of compliance by the applicant with his or her obligations under, or arising out of, the Act or these Regulations.\n(2) An import permit or export permit must not be granted under paragraph (1) —\n(a)if the Director‑General thinks that it would not be in the public interest to grant the permit;\n(b)if the Director‑General thinks that there is another way in which the hazardous or other waste could be dealt with that would be consistent with the environmentally sound management of waste and having regard to Singapore’s international obligations, the waste should be dealt with in that other way rather than in accordance with the import proposals or export proposals;\n(c)if the Director‑General is satisfied that the grant could result in hazardous or other waste being brought into Antarctica;\n(d)if the export sought is to, or the import sought is from, a foreign country that is neither a party to the Basel Convention nor a party to an Article 11 arrangement;\n(e)where the permit sought is a Basel export permit, if —\n(i)the foreign country to which the waste is sought to be exported has given a notification in accordance with Article 4.1 (a) of the Basel Convention of its decision to prohibit all imports of hazardous or other wastes;\n(ii)having regards to the requirements of Article 6.3 (b) of the Basel Convention, the Director‑General thinks that it would not be appropriate to grant the permit; or\n(iii)the Director‑General thinks that the hazardous or other waste could be disposed of in an environmentally sound and efficient manner by using a facility in Singapore; or\n(f)where the permit sought is an import permit, if the Director‑General thinks that the foreign country from which the waste is sought to be imported has the facilities, capacity or disposal sites that would allow disposal of the waste in an environmentally sound manner."
+   }
+  },
+  {
+   "id": "SG-H1684-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR AND GRANT OF PERMITS"
+   },
+   "heading": {
+    "en": "Grant of transit permits"
+   },
+   "text": {
+    "en": "10.—(1) Subject to this Part, the Director‑General may grant the transit permit sought by a permit application if the Director‑General is satisfied —\n(a)that carrying out the transit proposals will not pose a significant risk of injury or damage to human beings or the environment;\n(b)that, having regard to —\n(i)the applicant’s financial viability;\n(ii)the applicant’s previous record in relation to environmental matters; and\n(iii)any other relevant matters,\nthe applicant is a suitable person to be granted the permit; and\n(c)that the applicant has the appropriate insurance.\n(2) A transit permit must not be granted under this regulation if —\n(a)the Director‑General thinks that it would not be in the public interest to grant it; or\n(b)the Director‑General is satisfied that carrying out the transit proposals could result in hazardous or other waste being brought into Antarctica."
+   }
+  },
+  {
+   "id": "SG-H1684-A10.001",
+   "no": 10.001,
+   "noLabel": {
+    "en": "10A."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR AND GRANT OF PERMITS"
+   },
+   "heading": {
+    "en": "Validity period of permits"
+   },
+   "text": {
+    "en": "10A. Every Basel permit and special permit is, unless revoked under regulation 18 or surrendered under regulation 19, valid for a period of one year starting on the date the permit is granted.\n[S 474/2026 wef 01/08/2026]"
+   }
+  },
+  {
+   "id": "SG-H1684-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR AND GRANT OF PERMITS"
+   },
+   "heading": {
+    "en": "Determination of whether applicant has appropriate insurance"
+   },
+   "text": {
+    "en": "11. An applicant for a permit has appropriate insurance for the purposes of regulation 9 or 10 if —\n(a)the applicant is reasonably insured against risks that might arise in relation to the hazardous or other waste concerned if the permit were granted; or\n(b)the applicant, whether because of arrangements made by the applicant or otherwise, will be able to discharge any liability of the applicant that might arise in relation to the hazardous or other waste concerned if the permit were granted."
+   }
+  },
+  {
+   "id": "SG-H1684-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR AND GRANT OF PERMITS"
+   },
+   "heading": {
+    "en": "Applicant to be notified of decision"
+   },
+   "text": {
+    "en": "12.—(1) The Director‑General may grant or refuse to grant a permit without assigning any reason.\n(2) If the Director‑General decides to grant a permit, the Director‑General must give the permit to the applicant as soon as practicable after making the decision.\n(3) If the Director‑General decides not to grant a permit, the Director‑General must inform the applicant of the decision as soon as practicable after making the decision.\n(4) A contravention of this regulation in relation to a decision does not affect the validity of the decision."
+   }
+  },
+  {
+   "id": "SG-H1684-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR AND GRANT OF PERMITS"
+   },
+   "heading": {
+    "en": "Matters to be specified in import permits"
+   },
+   "text": {
+    "en": "13.—(1) An import permit must specify particulars of —\n(a)the kind of hazardous or other waste to be imported;\n(b)the quantity of hazardous or other waste to be imported;\n(c)the method of transport by which the hazardous or other waste is to be imported;\n(d)the time at which, or period during which, the hazardous or other waste is to be imported;\n(e)the place from which the hazardous or other waste is to be imported; and\n(f)the way in which the hazardous or other waste is to be dealt with after the import.\n(2) The particulars specified in an import permit of the way in which the hazardous or other waste is to be dealt with after the import may include particulars of a facility to be used in disposing of the waste, or any process involved in such a disposal.\n(3) An import permit may also include conditions under regulation 16 and any other information that the Director‑General considers appropriate."
+   }
+  },
+  {
+   "id": "SG-H1684-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR AND GRANT OF PERMITS"
+   },
+   "heading": {
+    "en": "Matters to be specified in export permits"
+   },
+   "text": {
+    "en": "14.—(1) An export permit must specify particulars of —\n(a)the kind of hazardous or other waste to be exported;\n(b)the quantity of hazardous or other waste to be exported;\n(c)the method of transport by which the hazardous or other waste is to be exported;\n(d)the time at which, or period during which, the hazardous or other waste is to be exported;\n(e)the place to which the hazardous or other waste is to be exported; and\n(f)the way in which the hazardous or other waste is to be dealt with after the export.\n(2) The particulars specified in an export permit of the way in which the hazardous or other waste is to be dealt with after the export may include particulars of a facility to be used in disposing of the waste, or any process involved in such a disposal.\n(3) An export permit may also include conditions under regulation 16 and any other information that the Director‑General considers appropriate."
+   }
+  },
+  {
+   "id": "SG-H1684-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR AND GRANT OF PERMITS"
+   },
+   "heading": {
+    "en": "Matters to be specified in transit permits"
+   },
+   "text": {
+    "en": "15.—(1) A transit permit must specify particulars of the transit proposals concerned.\n(2) A transit permit may also include conditions under regulation 16 and any other information that the Director‑General considers appropriate."
+   }
+  },
+  {
+   "id": "SG-H1684-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR AND GRANT OF PERMITS"
+   },
+   "heading": {
+    "en": "Permits may be granted subject to conditions"
+   },
+   "text": {
+    "en": "16.—(1) The Director‑General may grant a permit subject to conditions specified in the permit and, in particular, the Director‑General may specify a condition in the permit requiring the holder of the permit to cause to be carried out immediate measures to contain and clean up any accidental discharge or spillage of the hazardous or other waste to the standards approved by the Director‑General.\n(2) The Director‑General may specify in the permit the day on or before which the holder of the permit is to comply with a condition."
+   }
+  },
+  {
+   "id": "SG-H1684-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 2 APPLICATIONS FOR AND GRANT OF PERMITS"
+   },
+   "heading": {
+    "en": "Furnishing of information by permit holder"
+   },
+   "text": {
+    "en": "17.—(1) Every holder of a permit must —\n(a)cause tests to be conducted at his or her own expense by any method approved by the Director‑General to verify that the hazardous or other waste exported from or imported into Singapore or brought into Singapore on transit under a permit, or proposed to be so imported, exported or brought in, complies with any particulars of the waste specified in the permit;\n(b)complete a movement document in the form and manner that the Director‑General determines and submit it to the Director‑General within one month after the completion of disposal of each consignment;\n(c)notify the Director‑General of the import, export or transit of the hazardous or other waste within 14 days of its movement in the form and manner that the Director‑General determines;\n(d)keep records of the hazardous or other waste exported, imported or brought into Singapore on transit in the form and manner that the Director‑General determines; and\n(e)notify the Director‑General of any discharge or spillage of the hazardous or other waste and submit a written report containing the information that the Director‑General requires as soon as practicable after any such incident.\n(2) The Director‑General may exempt any person or class of persons from any requirement in paragraph (1).\n(3) Any person who contravenes paragraph (1)(a) or (e) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.\n(4) Any person who contravenes paragraph (1)(b), (c) or (d) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000."
+   }
+  },
+  {
+   "id": "SG-H1684-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 REVOCATION, SURRENDER AND VARIATION OF PERMITS"
+   },
+   "heading": {
+    "en": "Revocation of permits"
+   },
+   "text": {
+    "en": "18.—(1) Subject to paragraph (4), the Director‑General may, by written notice given to a person who is the holder of a permit, revoke the permit without assigning any reason if —\n(a)the Director‑General is satisfied that the person in, or in relation to, an application or a notice concerning the permit made a statement that the person knew was false or misleading in a material particular;\n(b)the Director‑General is satisfied that the person in, or in relation to, an application or a notice concerning the permit gave to the Director‑General a document containing information that the person knew was false or misleading in a material particular without —\n(i)indicating to the Director‑General that the document was false or misleading and the respect in which the document was false or misleading; and\n(ii)providing correct information to the Director‑General if the person had, or could reasonably have obtained, the correct information;\n(c)the Director‑General is satisfied that the person in, or in relation to, an application or a notice concerning the permit failed to disclose all the information that should have been disclosed;\n(d)the Director‑General is satisfied that the person has breached any of the permit conditions;\n(e)the Director‑General is satisfied that the person has contravened any provision of the Act or these Regulations; or\n(f)having considered information that was not considered before granting the permit, the Director‑General is satisfied that if he or she were now asked to grant the permit, he or she would decide not to grant the permit.\n(2) If a permit authorises —\n(a)a single import or export of hazardous or other waste; or\n(b)the carrying out of a single transit proposal,\nthe Director‑General must not revoke the permit if that import or export has taken place, or after that transit proposal has been carried out, as the case may be.\n(3) If a permit authorises —\n(a)2 or more imports or exports of hazardous or other waste; or\n(b)the carrying out of 2 or more transit proposals,\na revocation of that permit applies only to an import or export, or the carrying out of a transit proposal (as the case may be) that has not begun at the time of the revocation.\n(4) The revocation of the permit takes effect on the day on which the notice revoking the permit is given to the person.\n(5) In this regulation, “application or notice concerning the permit” means —\n(a)the application for the permit;\n(b)a notice under regulation 7 relating to the application for the permit; or\n(c)an application for a variation of the permit pursuant to which the Director‑General has varied the permit."
+   }
+  },
+  {
+   "id": "SG-H1684-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 REVOCATION, SURRENDER AND VARIATION OF PERMITS"
+   },
+   "heading": {
+    "en": "Surrender of permits"
+   },
+   "text": {
+    "en": "19.—(1) Subject to this regulation, the holder of a permit must surrender the permit as soon as he or she knows that the export proposal, import proposal or transit proposal authorised by the permit will not be carried out.\n(2) A permit must be surrendered by returning the permit to the Director‑General in a manner approved by the Director‑General.\n(3) If the permit is an import permit, the permit may not be surrendered after any import authorised by the permit has begun.\n(4) If the permit is an export permit, the permit may not be surrendered after any export authorised by the permit has begun.\n(5) If the permit is a transit permit, the permit may not be surrendered after the carrying out of any transit proposal authorised by the permit has begun.\n(6) The surrender of the permit takes effect on the day on which paragraph (1) is satisfied.\n(7) No fee paid is refundable upon surrender of a permit under this regulation.\n(8) Any person who fails to comply with paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000."
+   }
+  },
+  {
+   "id": "SG-H1684-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 REVOCATION, SURRENDER AND VARIATION OF PERMITS"
+   },
+   "heading": {
+    "en": "Variation of permits"
+   },
+   "text": {
+    "en": "20.—(1) Subject to paragraph (5), the Director‑General may, by written notice given to a person who is the holder of a permit, vary the permit without assigning any reason.\n(2) Without limiting paragraph (1), the ways in which the Director‑General may vary the permit include —\n(a)imposing a condition to which the permit is to be subject;\n(b)varying or revoking a permit condition; and\n(c)if a permit condition is to be complied with on or before a particular day, varying the day.\n(3) If the Director‑General varies the permit by imposing a condition, the Director‑General may also, in the notice making the variation, specify a day on or before which the condition is to be complied with.\n(4) The day referred to in paragraph (3) may be any day before, during or after —\n(a)any import authorised by the permit;\n(b)any export authorised by the permit; or\n(c)the carrying out of any transit proposal authorised by the permit,\nas the case may be.\n(5) The Director‑General must not vary the permit in a particular way unless —\n(a)the person has made a variation application for the variation of the permit in that way and the Director‑General is satisfied as mentioned in regulation 9 in relation to the application; or\n(b)the Director‑General is permitted by paragraph (6) to make the variation.\n(6) The Director‑General may vary the permit in a particular way, otherwise than pursuant to a variation application, only if —\n(a)the Director‑General is satisfied that the person in, or in relation to, an application or a notice concerning the permit made a statement that the person knew was false or misleading in a material particular;\n(b)the Director‑General is satisfied that the person in, or in relation to, an application or a notice concerning the permit gave to the Director‑General a document containing information that the person knew was false or misleading in a material particular without —\n(i)indicating to the Director‑General that the document was false or misleading and the respect in which the document was false or misleading; and\n(ii)providing correct information to the Director‑General if the person had, or could reasonably have obtained, the correct information;\n(c)the Director‑General is satisfied that the person in, or in relation to, an application or a notice concerning the permit failed to disclose all the information that should have been disclosed; or\n(d)having considered information that was not considered before granting the permit, the Director‑General is satisfied that the variation is required to protect human beings or the environment from a significant risk of injury or damage.\n(7) A variation of the permit takes effect —\n(a)if a prospective date of effect is specified in the notice making the variation, on that day; or\n(b)in any other case, on the day on which the notice making the variation is given to the person.\n(8) In this regulation, “application or notice concerning the permit” has the meaning given by regulation 18."
+   }
+  },
+  {
+   "id": "SG-H1684-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 REVOCATION, SURRENDER AND VARIATION OF PERMITS"
+   },
+   "heading": {
+    "en": "Applications for variations of permits"
+   },
+   "text": {
+    "en": "21.—(1) The holder of a permit may apply to the Director‑General for the permit to be varied in a particular way.\n(2) The application must —\n(a)be in the form approved by the Director‑General; and\n(b)set out, or be accompanied by, any information in relation to the proposed variation that is required by the form."
+   }
+  },
+  {
+   "id": "SG-H1684-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 3 REVOCATION, SURRENDER AND VARIATION OF PERMITS"
+   },
+   "heading": {
+    "en": "Further information may be requested"
+   },
+   "text": {
+    "en": "22. If the Director‑General requires further information to deal with a variation application, he or she may ask the applicant to provide the information in writing."
+   }
+  },
+  {
+   "id": "SG-H1684-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 3 REVOCATION, SURRENDER AND VARIATION OF PERMITS"
+   },
+   "heading": {
+    "en": "Making of variations"
+   },
+   "text": {
+    "en": "23. The Director‑General may make the variation sought by a variation application if the Director‑General is satisfied that if he or she were asked to grant the permit, as proposed to be varied, he or she would decide to grant the permit."
+   }
+  },
+  {
+   "id": "SG-H1684-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 3 REVOCATION, SURRENDER AND VARIATION OF PERMITS"
+   },
+   "heading": {
+    "en": "Applicants to be notified of decisions"
+   },
+   "text": {
+    "en": "24.—(1) If the Director‑General decides to make the variation applied for in a variation application, the Director‑General must give the notice varying the permit to the applicant as soon as practicable after making the decision.\n(2) If the Director‑General decides not to make the variation applied for in a variation application, the Director‑General must inform the applicant of the decision as soon as practicable after making the decision.\n(3) A contravention of this regulation in relation to a decision does not affect the validity of the decision."
+   }
+  },
+  {
+   "id": "SG-H1684-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 ORDERS BY DIRECTOR‑GENERAL IN RELATION TO HAZARDOUS AND OTHER WASTES"
+   },
+   "heading": {
+    "en": "Orders where section 25 of Act contravened"
+   },
+   "text": {
+    "en": "25.—(1) If a person imports hazardous or other waste in contravention of section 25(1) of the Act, the Director‑General may, in writing, order the person to deal with the waste in a specified way at the expense of that person.\n(2) If —\n(a)a person contravenes section 25(2) or (3) of the Act in relation to hazardous or other waste; and\n(b)the Director‑General is satisfied that the hazardous or other waste poses a significant risk of injury or damage to human beings or the environment that requires the waste to be dealt with in a particular way,\nthe Director‑General may, in writing, order the person to deal with the waste in that way at the expense of that person.\n(3) Without limiting paragraphs (1) and (2), the Director‑General may, under either of those paragraphs —\n(a)order the waste to be exported; or\n(b)specify the day on or before which anything required to be done in relation to the waste is to be done."
+   }
+  },
+  {
+   "id": "SG-H1684-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 ORDERS BY DIRECTOR‑GENERAL IN RELATION TO HAZARDOUS AND OTHER WASTES"
+   },
+   "heading": {
+    "en": "Orders where section 26 of Act contravened"
+   },
+   "text": {
+    "en": "26.—(1) If a person exports hazardous or other waste in contravention of section 26(1) of the Act, the Director‑General may, in writing, order the person to deal with the waste in a specified way at the expense of that person.\n(2) If —\n(a)a person contravenes section 26(2) of the Act in relation to hazardous or other waste; and\n(b)the Director‑General is satisfied that —\n(i)the waste poses a significant risk of injury or damage to human beings or the environment that requires the waste to be dealt with in a particular way; or\n(ii)Singapore’s international obligations require the waste to be dealt with in a particular way,\nthe Director‑General may, in writing, order the person to deal with the waste in that way at the expense of that person.\n(3) Without limiting paragraphs (1) and (2), the Director‑General may, under either of those paragraphs —\n(a)order the waste to be imported; or\n(b)specify the day on or before which anything required to be done in relation to the waste is to be done."
+   }
+  },
+  {
+   "id": "SG-H1684-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 4 ORDERS BY DIRECTOR‑GENERAL IN RELATION TO HAZARDOUS AND OTHER WASTES"
+   },
+   "heading": {
+    "en": "Orders where section 27 of Act contravened"
+   },
+   "text": {
+    "en": "27.—(1) If a person brings hazardous or other waste into Singapore in contravention of section 27(1) of the Act, the Director‑General may, in writing, order the person to deal with the waste in a specified way at the expense of that person.\n(2) If —\n(a)a person contravenes section 27(2) of the Act in relation to hazardous or other waste; and\n(b)the Director‑General is satisfied that —\n(i)the waste poses a significant risk of injury or damage to human beings or the environment that requires the waste to be dealt with in a particular way; or\n(ii)Singapore’s international obligations require the waste to be dealt with in a particular way,\nthe Director‑General may, in writing, order the person to deal with the waste in that way at the expense of that person.\n(3) Without limiting paragraphs (1) and (2), the Director‑General may, under either of those paragraphs —\n(a)order the waste to be exported; or\n(b)specify the day on or before which anything required to be done in relation to the waste is to be done."
+   }
+  },
+  {
+   "id": "SG-H1684-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 4 ORDERS BY DIRECTOR‑GENERAL IN RELATION TO HAZARDOUS AND OTHER WASTES"
+   },
+   "heading": {
+    "en": "Orders to remedy or mitigate damage"
+   },
+   "text": {
+    "en": "28. If —\n(a)a person has contravened section 25, 26 or 27 of the Act in relation to hazardous or other waste; and\n(b)the Director‑General is satisfied that the contravention resulted in the waste causing significant injury or damage to human beings or the environment,\nthe Director‑General may, in writing, order the person to take such steps as the Director‑General thinks proper to remedy or mitigate the damage at the expense of that person."
+   }
+  },
+  {
+   "id": "SG-H1684-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 4 ORDERS BY DIRECTOR‑GENERAL IN RELATION TO HAZARDOUS AND OTHER WASTES"
+   },
+   "heading": {
+    "en": "Failure to comply with order"
+   },
+   "text": {
+    "en": "29. Any person who refuses or fails, without reasonable excuse, to comply with an order under regulation 25, 26, 27, 28 or 31 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H1684-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 4 ORDERS BY DIRECTOR‑GENERAL IN RELATION TO HAZARDOUS AND OTHER WASTES"
+   },
+   "heading": {
+    "en": "Director‑General may take action and recover costs"
+   },
+   "text": {
+    "en": "30.—(1) The Director‑General may, instead of making an order under regulation 25, 26, 27 or 28 requiring a person to do something, arrange for the thing to be done.\n(2) If a person refuses or fails to comply with an order under regulation 25, 26, 27 or 28 requiring the person to do something, the Director‑General may —\n(a)after such refusal;\n(b)after the day specified in the order by the Director‑General for that thing to be done; or\n(c)if no date was specified in the order, a reasonable time after making the order,\narrange for the thing to be done.\n(3) If the Government incurs costs because of arrangements made by the Director‑General under paragraph (1) or (2), the person is liable to pay to the Government an amount equal to the costs.\n(4) The amount referred to in paragraph (3) may be recovered by the Government as a civil debt due to the Government in a court of competent jurisdiction."
+   }
+  },
+  {
+   "id": "SG-H1684-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 4 ORDERS BY DIRECTOR‑GENERAL IN RELATION TO HAZARDOUS AND OTHER WASTES"
+   },
+   "heading": {
+    "en": "Orders authorising import of exported hazardous or other waste where it cannot be dealt with as intended"
+   },
+   "text": {
+    "en": "31.—(1) If —\n(a)a person has exported hazardous or other waste in accordance with the requirements of the Act and these Regulations; and\n(b)the waste cannot be dealt with in accordance with —\n(i)if the export was authorised by an export permit, the permit (including the permit conditions); or\n(ii)if the export was ordered by the Director‑General under regulation 25 or 27, the order,\nthe person may apply to the Director‑General, in writing, for an order authorising the person to import the waste.\n(2) If the Director‑General receives an application under paragraph (1), he or she may make the order.\n(3) The Director‑General may, in the order, require that the waste be imported and dealt with in a specified way at the expense of that person.\n(4) Without limiting paragraph (3), the Director‑General may, under that paragraph, specify the day on or before which anything required to be done in relation to the waste is to be done."
+   }
+  },
+  {
+   "id": "SG-H1684-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Fees"
+   },
+   "text": {
+    "en": "32. The fees payable in relation to applications under these Regulations are as specified in the Schedule."
+   }
+  },
+  {
+   "id": "SG-H1684-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 5 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Modification or waiver in relation to special permit"
+   },
+   "text": {
+    "en": "33. The Director‑General may, on receipt of an application for a special permit, modify or waive the application of any provision in these Regulations in relation to that permit."
+   }
+  },
+  {
+   "id": "SG-H1684-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRegulation 32\nFees\n1.Application under regulation 3, 4 or 5 for Basel permit or special permit\n$395\n2.Application under regulation 21 for variation of Basel permit or special permit\n$130 per application\n[S 474/2026 wef 01/08/2026]"
+   }
+  }
+ ]
+}

@@ -1,0 +1,1578 @@
+{
+ "id": "TL-H069",
+ "title": {
+  "zh": "税法",
+  "en": null,
+  "orig": "Lei Tributária"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "amended",
+ "promulgatedDate": "2008-06-30",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": "据公报标题，本法经 Lei n.º 5/2019 修改；本库收录的是本法原始公布文本，修改后的合并本未另行收录。",
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 8/2008",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 96,
+ "chars": 137999,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2008/serie_1/serie1_no26.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 96 条；逐字取自官方公报 PDF（public/docs/2008/serie_1/serie1_no26.pdf）第 2411–2445 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。 【据公报标题，本法经 《第5/2019号法律》 修改】",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H069-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES   PRELIMINARES"
+   },
+   "heading": {
+    "pt": "Definições"
+   },
+   "text": {
+    "pt": "Para os efeitos da presente lei, entende-se por:\n\"Actividades de construção ou edificação\", a construção, aumento, alteração, melhoramento ou demolição de um edifício ou outra estrutura com uma fundação, acima ou abaixo do nível da terra ou mar, incluindo a limpeza do terreno na preparação para a construção de um edifício ou de outra estrutura, bem como a actividade de dragagem;\n\"Actividades empresariais\", qualquer empreendimento comercial, industrial ou artesanal, o exercício de uma profissão ou quaisquer outros serviços independentes, ou a locação de bens móveis e imóveis, mas não compreende o emprego por conta de outrem;\n\"Actividades empresariais tributáveis\", as actividades empresariais levadas a efeito com vista à realização de rendimento empresarial incluído no rendimento ilíquido;\n\"Administração Tributária\", o conjunto dos serviços centrais e as demais entidades públicas incumbidas da liquidação e cobrança dos tributos, o Ministro das Finanças ou outro membro do Governo competente, quando exerçam competências administrativas no domínio tributário;\n\"Ano fiscal\", o período de doze meses de 1 de Janeiro a 31 de Dezembro ou, no caso de o sujeito passivo estar autorizado a usar um ano fiscal alternativo, o ano fiscal alternativo;\n\"Autoridade Bancária e de Pagamentos\", a Autoridade Bancária e de Pagamentos constituída nos termos do Regulamento da UNTAET n.º 2001/30, de 30 de Novembro, ou qualquer entidade que lhe suceda e que assuma as funções e as responsabilidades da Autoridade Bancária e de Pagamentos;\n\"Banco\", a pessoa colectiva cuja actividade consiste em receber do público depósitos ou outros fundos reembolsáveis em Timor-Leste, em aplicar esses recursos, na totalidade ou em parte, para outorgar crédito ou fazer investimentos, por conta e risco da pessoa que exerce a actividade;\n\"Bem\", qualquer substância, organismo, artigo ou objecto, manufacturado ou natural, que não seja corpo humano, cadáver ou restos humanos;\n\"Benefícios não salariais\", qualquer compensação em espécie por serviços, concedidos pelo empregador ao trabalhador dependente, nomeadamente:\na)   O valor determinado pela Administração Tributária referente à utilização, por um trabalhador, e para fins total ou parcialmente pessoais, de um veículo motorizado fornecido pelo empregador;\nb)  O valor determinado pela Administração Tributária pela utilização por parte do trabalhador de alojamento ou habitação fornecida pelo empregador;\nc)   O valor determinado pela Administração Tributária pela colocação à disposição de um trabalhador, por parte do empregador, de uma governanta, motorista, guarda, jardineiro ou outro pessoal doméstico;\nd)   Os custos suportados pelo empregador pelo fornecimento a um trabalhador de refeições, bebidas ou diversões, excepto quando estes sejam suportados no decurso da prestação de serviços ou de fornecimento de bens pelo trabalhador ao empregador e desde que a Administração Tributária considere tais custos razoáveis; ou\ne)   O valor de mercado de qualquer outro benefício não monetário atribuído por um empregador a um trabalhador;\n\"Contrato de longo prazo\", o contrato para manufactura, instalação, construção ou serviços relacionados com esse fim, que não termine no ano fiscal em que o cumprimento do contrato começou e não seja um contrato que se preveja estar concluído no prazo de seis meses a partir da data em que o cumprimento do contrato começou;\n\"Custo de capital\" de um elemento depreciável do activo imobilizado corpóreo de uma categoria de elementos significa:\na)    No caso de um elemento do activo acrescentado à categoria de elementos no ano anterior, a fracção do custo de aquisição não tratada como custo de capital no ano anterior; e\nb)   Para qualquer elemento do activo de uma categoria, o custo de melhoramento, renovação e reconstrução do elemento do activo desde que o custo não seja deduzido de outro modo;\n\"Despesas da sede\", quaisquer despesas executivas, de gestão ou de administração geral suportadas por uma pessoa não residente fora de Timor-Leste em conexão com a actividade de um estabelecimento estável que essa pessoa tem em Timor- Leste;\n\"Despesa incorpórea\", qualquer despesa suportada salvo no caso de aquisição de quaisquer bens corpóreos ou incorpóreos, móveis ou imóveis;\n\"Declaração de imposto\":\na)   A declaração anual de rendimentos;\nb)   A declaração anual de informação sobre a retenção na fonte do imposto sobre salários;\nc)   A declaração do imposto selectivo de consumo;\nd)   A declaração de pagamentos em prestações do imposto sobre o rendimento;\ne)   A declaração de retenção na fonte do imposto sobre o rendimento;\nf)   A declaração do imposto sobre vendas;\ng)   A declaração do imposto sobre serviços;\nh)   A declaração de retenção na fonte do imposto sobre salários;\n(i)   Quaisquer declarações indicadas pela Administração Tributária respeitantes ao registo de pessoas para efeitos fiscais e de atribuição de um número de identificação fiscal; ou\nj)     Qualquer declaração unificada indicada pela Administração Tributária que inclua as informações de duas ou mais das declarações acima indicadas e, no caso de uma declaração unificada relativa a uma pessoa, quaisquer declarações que venham a ser substituídas pela declaração unificada deixam de constituir uma declaração de imposto relativamente à pessoa em causa;\n\"Dividendo\" qualquer distribuição de lucros por uma pessoa colectiva a um membro como resultado da participação no capital social da pessoa colectiva e inclui:\na)   Qualquer importância restituída a um membro relativamente à participação nessa qualidade numa pessoa colectiva, sobre uma redução parcial do capital na medida em que a importância restituída exceda a importância pela qual o valor nominal da participação na qualidade de membro foi reduzida; ou\nb)   Qualquer importância distribuída a um membro em virtude da remição ou anulação de uma participação nessa qualidade, incluindo a liquidação, na medida em que a importância distribuída exceda o valor nominal da participação do membro;\n\"Elemento do activo imobilizado incorpóreo\", qualquer bem, com exclusão de bens móveis ou imóveis corpóreos,  que:\na)   Tenha uma vida útil superior a um ano;\nb)   Seja utilizado total ou parcialmente no exercício de actividades empresariais tributáveis;\n\"Elemento depreciável do activo imobilizado corpóreo\", qualquer bem móvel corpóreo que:\na)   Tenha uma vida útil superior a um ano;\nb)  Sofra uma desvalorização previsível em virtude do uso, desgaste, exploração ou obsolescência;\nc)   Seja utilizado parcial ou totalmente no exercício de actividades empresariais tributáveis;\n\"Empregador\", a pessoa que paga salários a um trabalhador dependente;\n\"Emprego\" inclui:\na)   Uma chefia ou outras funções na gestão de uma pessoa colectiva;\nb)   Funções que habilitem o seu titular a uma remuneração fixa ou determinável; ou\nc)   O exercício ou a actuação em qualquer cargo público;\n\"Estabelecimento estável\", a instalação fixa através da qual a empresa exerce toda ou parte da sua actividade, designadamente:\na)   Um local de direcção;\nb)   Uma sucursal;\nc)   Um escritório de representação;\nd)   Um escritório;\ne)   Uma fábrica;\nf)   Uma oficina;\ng)   Uma mina, um poço de petróleo ou gás natural, uma pedreira ou outro local de extracção de recursos naturais, incluindo um local de perfuração para exploração mineral;\nh)  Um lugar de pesca, um local de criação de animais, uma quinta, plantação ou floresta;\n(i)   Uma construção, instalação ou projecto de montagem;\nj)   A prestação de serviços através de empregados ou de outro pessoal, se tiver lugar por período superior a sessenta dias dentro de qualquer período de doze meses;\nk)  Uma pessoa singular ou colectiva que actue como agente independente; ou\nl)   Um agente ou empregado de uma companhia seguradora não-residente, se o agente ou empregado cobrar prémios ou segurar riscos em Timor-Leste;\n\"Estrutura\", qualquer melhoramento estrutural de propriedade imobiliária, incluindo, mas não se limitando à generalidade das acessibilidades, qualquer estrada, via de acesso a garagem, parque de estacionamento, caminho-de-ferro, conduta, ponte, túnel, pista de aviação, canal, doca, pontão, represa, vedação, linhas de tensão, canalizações de água ou esgotos, drenagem, arranjo paisagístico, ou barragem;\n\"Exploração mineira\", todo o método ou processo pelo qual qualquer mineral é extraído do solo ou de qualquer outra substância ou constituinte do solo;\n\"Fundo de Garantia para Timor-Leste\", o Fundo criado pelo Acordo sobre o Fundo de Garantia para Timor-Leste celebrado, em 9 de Dezembro de 1999, entra a Administração Transitória das Nações Unidas em Timor-Leste e a Associação Internacional para o Desenvolvimento;\n\"Fundo de pensões aprovado\", fundo de pensões que a Administração Tributária certifique, mediante notificação por escrito, que satisfaz os requisitos de aprovação por ela definidos;\n\"Imposto\", um imposto ou tributo exigido ao abrigo desta lei;\n\"Instalação empresarial\", qualquer edifício usado total ou parcialmente no exercício de actividades empresariais tributáveis;\n\"Instituição financeira\", qualquer entidade bancária ou outra pessoa colectiva que se dedique à concessão de crédito ou investimentos por conta e risco da pessoa que realiza o negócio;\n\"Juros\":\na)   Qualquer montante (incluindo um prémio ou desconto) pago ou obtido nos termos de uma obrigação de dívida que não constitua um reembolso de capital;\nb)   Qualquer montante funcionalmente equivalente a um dos montantes referidos na alínea a), tal como um montante pago ou obtido nos termos de um acordo de swap de taxas de juro ou como juros de mora nos termos de um acordo de garantia;\nc)   Qualquer montante tratado como juro nos termos do disposto no artigo 41.º;\nd)   Qualquer compromisso, garantia, serviço ou emolumentos similares exigíveis em conexão com uma obrigação de dívida ou outro instrumento ou acordo gerador de juros nos termos das alíneas a), b) ou c);\n\"Membro\", em relação a uma pessoa colectiva, significa um accionista, sócio de uma sociedade de pessoas ou qualquer outra pessoa que detenha uma participação nessa qualidade na pessoa colectiva em causa;\n\"Montante\", compreende um montante em espécie;\n\"Normas Internacionais em Matéria de Elaboração de Relatórios Financeiros\", as Normas Internacionais mais recentes em Matéria de Elaboração de Relatórios Financeiros emitidas pelo Comité das Normas Contabilísticas Internacionais ou por qualquer entidade que lhe suceda e que assuma as funções de emissão de Normas Internacionais em Matéria de Elaboração de Relatórios Financeiros;\n\"Obrigação de dívida\", a obrigação de efectuar um reembolso a outra pessoa, incluindo as contas a pagar e as obrigações decorrentes de uma nota promissória, letra de câmbio, título de crédito, obrigações ou instrumentos financeiros similares;\n\"Participação de membro\", relativamente a uma pessoa colectiva, significa uma acção, uma participação numa sociedade de pessoas ou a titularidade de qualquer outra participação na pessoa colectiva em causa;\n\"Pessoa\", uma pessoa singular ou uma pessoa colectiva;\n\"Pessoa colectiva\":\na)   Qualquer sociedade de responsabilidade limitada, sociedade anónima ou por acções, sociedade comercial de pessoas ou qualquer outra associação sem personalidade jurídica, ou qualquer outro agrupamento de pessoas, constituída, organizada ou estabelecida em Timor-Leste ou em território estrangeiro;\nb)   Qualquer trust, herança jacente de uma pessoa singular falecida ou fundação;\nc)   Um governo, uma subdivisão política ou administrativa de um governo independentemente da respectiva denominação ou forma jurídica, ou uma organização de direito internacional público, ou qualquer entidade, organização, associação ou outra forma de organização comercial ou industrial controlada por uma destas entidades;\n\"Pessoa colectiva residente\" significa uma pessoa colectiva constituída, criada, organizada ou estabelecida em Timor-Leste, incluindo a herança jacente de uma pessoa singular residente imediatamente antes da morte;\n\"Pessoa não-residente\" significa qualquer pessoa que não é um residente;\n\"Pessoa singular\" significa uma pessoa física;\n\"Pessoa singular residente\":\na)  Uma pessoa singular que permanece em Timor-Leste durante um período ou períodos que totalizem cento e oitenta e três dias em qualquer período de doze meses com início ou termo no ano em causa, salvo se a habitação permanente dessa pessoa não estiver situada em Timor-Leste; ou\nb)   Um funcionário do Governo da República Democrática de Timor-Leste colocado no estrangeiro, em qualquer momento, no decurso do ano;\n\"Recebido\", relativamente a uma pessoa, compreende:\na)  Aplicado em nome da pessoa quer por instruções dessa pessoa, quer ao abrigo da lei;\nb)   Reinvestido, acumulado ou capitalizado;\nc)   Creditado em conta ou levado a um fundo de reservas, de amortização ou de seguro;\nd)   Colocado à disposição da pessoa;\n\"Recursos naturais\", quaisquer recursos minerais, petrolíferos, vivos ou não vivos, que possam ser extraídos do solo ou do mar;\n\"Reporte de prejuízos para exercícios posteriores\", um prejuízo objecto de reporte para exercícios posteriores ao abrigo do disposto no artigo 43.º, um prejuízo  de empresa estrangeira objecto de reporte para exercícios posteriores ao abrigo do disposto no artigo 51.º, ou uma dedução de juros objecto de reporte para exercícios posteriores ao abrigo do disposto no\nartigo 74.º;\n\"Residente\", uma pessoa singular residente, uma pessoa colectiva residente ou o Governo da República Democrática de Timor-Leste;\n\"Royalty\", qualquer montante, independentemente da sua descrição ou forma de cálculo, periódico ou não, como contrapartida:\na)   Pelo uso ou direito de uso de direitos de autor, patente, desenho ou modelo, fórmula ou processo secreto, marca de comércio ou outro direito equiparado;\nb)   Pelo uso ou direito de uso de filme cinematográfico, filmes ou gravações de vídeo para uso em conexão com difusão televisiva ou pela Internet, ou de fita magnética para uso em conexão com difusão radiofónica ou pela Internet;\nc)   Pela recepção ou direito de recepção de imagens visuais ou registos sonoros, ou ambos, transmitidos via satélite, cabo, fibra óptica ou tecnologia afim em conexão com difusão por televisão, rádio ou Internet;\nd)   Pela prestação de informação ou conhecimento científico, técnico, industrial ou comercial;\ne)   Pelo uso ou direito de uso de qualquer bem móvel corpóreo;\nf)   Pela prestação de qualquer assistência de natureza auxiliar e subsidiária e que seja prestada como meio de possibilitar a aplicação ou a fruição de qualquer bem, prestação ou direito referido nas alíneas de a) a e);\ng)   Pela abstenção de utilização parcial ou total em relação a qualquer matéria de que tratam as alíneas de a) a f); ou\nh)   Pela cessão de qualquer bem ou direito de que tratam as alíneas de a) a g);\n\"Salário\", qualquer remuneração por serviços prestados por um trabalhador dependente do empregador, nomeadamente:\na)   Qualquer remuneração atribuída ao trabalhador, incluindo indemnizações por despedimento, horas extraordinárias, comissões ou bónus;\nb)  Honorários de gerentes, directores e administradores, e outras remunerações em virtude do exercício das respectivas funções;\nc)   O valor de presentes oferecidos pelo empregador ao trabalhador;\nd)  Qualquer subsídio (pagamento adicional) atribuído pelo empregador em benefício de um trabalhador;\ne)   Qualquer pagamento atribuído pelo empregador devido à perda ou ao termo do contrato de trabalho;\nf)   Quaisquer pagamentos efectuados no termo do contrato de trabalho, relativos a montantes a que o trabalhador tenha direito e ainda não pagos, independentemente da designação dos mesmos;\ng)   O reembolso ou quitação pelo empregador de qualquer despesa do trabalhador, incluindo despesas domésticas ou despesas de saúde;\nh)   O montante a que um empregador tem direito e renuncia, caso o trabalhador tenha a obrigação de lhe pagar um determinado montante;\n(i)   Benefícios não salariais superiores a US$ 20 por cada mês civil, atribuídos a um trabalhador.\n\"Serviços especificados\", os serviços de hotelaria, restaurante e bar ou de telecomunicações;\n\"Serviços de apoio à exploração mineira\", qualquer serviço relativo à exploração mineira, com exclusão dos serviços técnicos, de gestão, consultoria ou arquitectura;\n\"Serviços de consultoria de construção\", quaisquer serviços de consultoria relacionados com as actividades de construção ou edificação, incluindo gestão de projecto, engenharia, design, arquitectura, inspecção e serviços de supervisão no local;\n\"Serviços de transporte por via aérea ou marítima\", qualquer transporte de passageiros, correio ou mercadorias por ar ou mar:\na)   Entre dois lugares em Timor-Leste;\nb)   De um lugar em Timor-Leste para um lugar fora de Timor- Leste;\nc)   De um lugar fora de Timor-Leste para um lugar em Timor- Leste;\n\"Serviços de hotelaria\", a provisão de alojamento para dormida e serviços relacionados, incluindo a provisão de refeições, bebidas, lavandaria e serviços de comunicação, a pessoas que ocupem tal alojamento como hóspedes temporários;\n\"Serviços de restaurante e bar\", a provisão de alimentação ou bebidas através de um estabelecimento dotado de instalações para consumo imediato nesse estabelecimento, ou serviços de provisão de alimentos preparados noutro local, excluindo a provisão de alimentação ou bebidas considerada parte da prestação de serviços de hotelaria;\nServiços de telecomunicações\",  a provisão de serviços telefónicos através de um operador de serviços de telecomunicações, incluindo a comunicação por telefonia digital ou análoga, fac símile ou transmissão de dados;\n\"Sistema harmonizado de classificação\", o sistema de classificação de mercadorias estabelecido pela Organização Mundial das Alfândegas;\n\"Sujeito passivo\", a pessoa singular ou colectiva, o património ou a organização de facto ou de direito que, nos termos da lei, está vinculado ao cumprimento da prestação tributária, seja como contribuinte directo, substituto ou responsável;\n\"Titularidade subjacente\" relativamente a uma pessoa colectiva significa a participação ou direito, na qualidade de membro numa pessoa colectiva detida, directa ou indirectamente, através de uma ou mais pessoas colectivas interpostas, por uma pessoa singular ou por uma pessoa não detida em última instância por pessoas singulares;\n\"Trabalhador dependente\":\na)   A pessoa singular que tem um contrato de trabalho; ou\nb)   A pessoa singular cuja prestação de serviços é essencialmente análoga à prestação de serviços por uma pessoa que tem um contrato de trabalho;\n\"Tratado do Mar de Timor\", o Tratado do Mar de Timor celebrado entre o Governo da República Democrática de Timor- Leste e o Governo da Austrália, com data de 20 de Maio de 2002;\n\"Tratado fiscal\" significa:\na)   Um acordo entre o Governo da República Democrática de Timor-Leste e o governo de um país estrangeiro, visando a eliminação da dupla tributação e a prevenção da evasão fiscal; ou\nb)   Um acordo entre o Governo da República Democrática de Timor-Leste e o governo de um país estrangeiro, visando a prestação de assistência mútua na execução das obrigações respeitantes à tributação do rendimento;\n\"Valor aduaneiro\", o valor transaccional dos bens, incluindo custos, seguro e frete em conformidade com o disposto no Artigo VII do Acordo Geral sobre Pautas Aduaneiras e Comércio (GATT)."
+   }
+  },
+  {
+   "id": "TL-H069-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES   PRELIMINARES"
+   },
+   "heading": {
+    "pt": "Associado"
+   },
+   "text": {
+    "pt": "1.  Consideram-se pessoas associadas quando as relações existentes entre elas forem susceptíveis de levar a crer, dentro de termos razoáveis, que uma ou mais age de acordo com as intenções da outra ou que ambas agem de acordo com as intenções de uma terceira pessoa.\n2.   Não se consideram associadas pessoas pelo simples facto de uma delas ser empregada da outra ou de ambas serem empregadas de uma terceira pessoa.\n3.   Sem prejuízo do n.º 1 do presente artigo, e para efeitos da presente lei, consideram-se associadas as seguintes pessoas :\na)   Uma pessoa singular e um seu parente;\nb)   Uma pessoa colectiva e qualquer pessoa que detenha, directa ou indirectamente, 50% ou mais, em termos de valor ou de número, do capital social ou dos direitos de voto na pessoa colectiva; ou\nc)   Duas ou mais pessoas colectivas, quando uma terceira pessoa detenha, directa ou indirectamente, 50% ou mais, em termos de valor ou de número, do capital social ou dos direitos de voto de cada uma das pessoas colectivas.\n4.   Nos termos do disposto no presente artigo, \"parente\", em relação a uma pessoa singular, significa:\na)   Um seu ascendente, um descendente de qualquer dos seus avôs ou avós ou um filho adoptivo da pessoa ou de seu cônjuge; ou\nb)   O cônjuge da pessoa ou de qualquer pessoa de que trata a alínea a) do n.º 4."
+   }
+  },
+  {
+   "id": "TL-H069-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES   PRELIMINARES"
+   },
+   "heading": {
+    "pt": "Âmbito de aplicação"
+   },
+   "text": {
+    "pt": "Sem prejuízo do disposto no Artigo 94.º, a presente lei aplicase ao território de Timor-Leste, incluindo o respectivo mar territorial, à sua zona económica exclusiva e à plataforma continental, sendo aplicável à Área Conjunta de Desenvolvimento Petrolífero, com as seguintes excepções:\na)   O Capítulo II não se aplica às matérias abrangidas pelo Tratado do Mar de Timor;\nb)  Os Capítulos III e IV não se aplicam aos bens abrangidos pelo Tratado do Mar de Timor;\nc)   O Capítulo V não se aplica às importações abrangidas pelo Tratado do Mar de Timor;\nd)   O Capítulo VI não se aplica aos vencimentos auferidos no território abrangido pelo Tratado do Mar de Timor;\ne)  O Capítulo VII não se aplica ao território abrangido pelo Tratado do Mar de Timor."
+   }
+  },
+  {
+   "id": "TL-H069-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES   PRELIMINARES"
+   },
+   "heading": {
+    "pt": "Objecto"
+   },
+   "text": {
+    "pt": "A presente lei estabelece a consolidação dos regimes tributários aplicáveis em Timor-Leste, com excepção da Lei de Tributação dos Contratantes de Bayu-Undan."
+   }
+  },
+  {
+   "id": "TL-H069-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II IMPOSTO   SOBRE   SERVIÇOS"
+   },
+   "heading": {
+    "pt": "Incidência do imposto"
+   },
+   "text": {
+    "pt": "O imposto sobre serviços incide sobre a remuneração bruta auferida pelo sujeito passivo, pela prestação de serviços especificados em Timor-Leste, às taxas estipuladas no Anexo I à presente lei, da qual faz parte integrante."
+   }
+  },
+  {
+   "id": "TL-H069-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II IMPOSTO   SOBRE   SERVIÇOS"
+   },
+   "heading": {
+    "pt": "Remuneração  bruta"
+   },
+   "text": {
+    "pt": "1.    A remuneração bruta auferida por uma pessoa pela prestação de serviços especificados inclui todos os montantes recebidos por essa pessoa relativos à prestação de serviços especificados.\n2.   No caso de um pagamento único recebido como remuneração pela prestação de serviços especificados e pela prestação de outros serviços ou bens, o referido pagamento será tratado a título de remuneração pelos serviços especificados, na medida em que a Administração Tributária considere razoável tendo em atenção todas as circunstâncias."
+   }
+  },
+  {
+   "id": "TL-H069-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II IMPOSTO   SOBRE   SERVIÇOS"
+   },
+   "heading": {
+    "pt": "Serviços  especificados"
+   },
+   "text": {
+    "pt": "1.   Consideram-se serviços especificados os seguintes:\na)   Serviços de hotelaria;\nb)   Serviços de restaurante e bar; e\nc)   Serviços de telecomunicações.\n2.   A pessoa que presta um serviço de telecomunicações é a pessoa que opera e mantém o sistema para a transmissão dos sinais telefónicos."
+   }
+  },
+  {
+   "id": "TL-H069-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II IMPOSTO   SOBRE   SERVIÇOS"
+   },
+   "heading": {
+    "pt": "Local  da  prestação  de  serviços"
+   },
+   "text": {
+    "pt": "Consideram-se prestados em Timor-Leste os serviços com origem em território nacional."
+   }
+  },
+  {
+   "id": "TL-H069-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II IMPOSTO   SOBRE   SERVIÇOS"
+   },
+   "heading": {
+    "pt": "Pagamento do imposto e declaração de imposto sobre serviços"
+   },
+   "text": {
+    "pt": "1.   A pessoa que presta serviços especificados em Timor-Leste e está sujeita ao pagamento de imposto sobre serviços deve entregar à Autoridade Bancária e de Pagamentos ou a outra entidade designada pela Administração Tributária, até ao décimo quinto dia após o fim do mês civil em causa:\na)   Uma declaração de imposto sobre serviços preenchida devidamente, conforme as instruções da Administração Tributária; e\nb)  O montante de imposto sobre serviços devido sobre a remuneração bruta recebida no mês em causa pela pessoa em virtude da prestação de serviços especificados.\n2.   A pessoa sujeita ao pagamento de imposto sobre serviços relativamente a um determinado mês deve entregar à Autoridade Bancária e de Pagamentos ou a outra entidade designada pela Administração Tributária uma declaração do imposto sobre serviços devidamente preenchida para os meses subsequentes, seja ou não devido imposto sobre serviços nos meses subsequentes.\n3.  A Administração Tributária pode dispensar o requisito estabelecido no número anterior mediante solicitação por escrito da pessoa obrigada a entregar a declaração de imposto sobre serviços por força daquela disposição, se estiver convencida de que a pessoa não estará sujeita ao pagamento de imposto sobre serviços nos meses subsequentes em causa."
+   }
+  },
+  {
+   "id": "TL-H069-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III IMPOSTO   SELECTIVO   DE   CONSUMO"
+   },
+   "heading": {
+    "pt": "Incidência do imposto selectivo de consumo"
+   },
+   "text": {
+    "pt": "1.    O imposto selectivo de consumo incide sobre:\na)   Bens sujeitos a imposto selectivo de consumo removidos de um entreposto por um produtor registado e destinados a consumo em Timor-Leste; ou\nb)   Bens sujeitos a imposto selectivo de consumo importados para Timor-Leste.\n2.    Sem prejuízo do disposto no presente capítulo, ficam sujeitos ao pagamento do imposto segundo o montante indicado na terceira coluna da tabela constante do Anexo II sobre a saída ou importação dos bens:\na)  O produtor registado que faça sair de um entreposto bens sujeitos a imposto selectivo de consumo e destinados a consumo em Timor-Leste; ou\nb)    A pessoa que importe bens sujeitos a imposto selectivo de consumo para Timor-Leste.\n3.  Os bens sujeitos a imposto selectivo de consumo são importados no momento da sua entrada em Timor-Leste e quando o respectivo Formulário de Controlo Aduaneiro ou outra declaração respeitante aos bens, exigidos nos termos da presente lei ou do regime do procedimento aduaneiro, tenha sido entregue devidamente preenchido no serviço das alfândegas.\n4.   Não é exigido o pagamento de imposto selectivo de consumo a um produtor registado relativamente a bens:\na)   Que tenham sido destruídos por incêndio ou outra causa natural previamente à sua saída do entreposto do produtor; ou\nb)   Que se tenham deteriorado ou danificado durante o armazenamento no entreposto do produtor ou que hajam sido destruídos, de forma segura, de modo considerado satisfatório pela Administração Tributária."
+   }
+  },
+  {
+   "id": "TL-H069-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III IMPOSTO   SELECTIVO   DE   CONSUMO"
+   },
+   "heading": {
+    "pt": "Bens sujeitos a imposto selectivo de consumo"
+   },
+   "text": {
+    "pt": "1.  Os bens enumerados na segunda coluna da tabela constante do n.º 1 do Anexo II estão sujeitos a imposto selectivo de consumo, com excepção dos:\na)     Bens importados para Timor-Leste e isentos de imposto sobre as importações; ou\nb)  Bens exportados de Timor-Leste no prazo de vinte e oito dias após a sua produção ou importação, desde que o sujeito passivo do imposto selectivo de consumo entregue à Autoridade Bancária e de Pagamentos documento comprovativo da exportação dos bens.\n2.  A Administração Tributária pode prorrogar o período de vinte e oito dias previsto na alínea b) do n.º 1 do presente artigo, mediante requerimento por escrito do exportador, quando concluir que:\na)    Circunstâncias fora do controlo do exportador impediram ou poderão impedir a exportação, dentro do prazo de vinte e oito dias a contar da produção ou da importação, de bens aos quais se aplica este artigo;\nb)   Devido à natureza dos bens ou às condições em que se deverá processar a exportação, não será possível exportar os bens a que se refere o presente artigo dentro do prazo de vinte e oito dias a contar da data da sua produção ou da sua importação.\n3.     Para efeitos da alínea b) do n.º 1 do presente artigo, só será aceite o documento comprovativo de exportação que:\na)  Esteja certificado como correcto pelo serviço das alfândegas;\nb)   Seja entregue à Autoridade Bancária e de Pagamentos dentro do prazo de vinte e oito dias a contar da produção ou importação dos bens relativamente aos quais é requerida a isenção de imposto selectivo de consumo."
+   }
+  },
+  {
+   "id": "TL-H069-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III IMPOSTO   SELECTIVO   DE   CONSUMO"
+   },
+   "heading": {
+    "pt": "Registo e aprovação de entrepostos"
+   },
+   "text": {
+    "pt": "1.  Quem deseja exercer a actividade de produção de bens sujeitos a imposto selectivo de consumo em Timor-Leste deve solicitar à Administração Tributária, de acordo com as formalidades e os requisitos exigidos, o respectivo registo como produtor dos referidos bens.\n2.   A  Administração Tributária regista a pessoa em causa desde que se certifique que a mesma exerce a actividade de produção de bens sujeitos a imposto selectivo de consumo e dá cumprimento às obrigações impostas nos termos da legislação respeitante a produtores registados.\n3.   O produtor registado deve notificar, por escrito, a Administração Tributária sobre:\na)    A data em que ocorrer qualquer alteração de nome, morada, local de actividade, constituição, ou na natureza da actividade ou actividades principais exercidas pelo produtor, incluindo uma alteração relevante na natureza ou na quantidade dos bens sujeitos a imposto selectivo de consumo produzidos;\nb)   Qualquer discrepância entre a valorimetria das existências efectiva e a valorimetria das existências registada;\nc)   A data em que o produtor deixa de exercer ou cessa a sua actividade a título provisório numa situação não prevista pelo disposto no número seguinte.\n4.    A notificação referida no número anterior deve ser dirigida à Administração Tributária, no seguinte prazo:\na)   No caso de uma notificação prevista nos termos da alínea a) ou c) do número anterior o mais tardar vinte e um dias após a ocorrência do facto;\nb)  No caso de uma notificação prevista nos termos da alínea b) do número anterior logo que o produtor tome conhecimento da referida discrepância.\n5.    O produtor registado que cesse a produção de bens sujeitos a imposto selectivo de consumo deve notificar, por escrito, no prazo de sete dias a contar da data da cessação, a Administração Tributária sobre esse facto, indicando:\na)    A data em que o produtor cessou a produção dos bens sujeitos a imposto selectivo de consumo;\nb)   A data em que o produtor prevê que não existam mais bens sujeitos a imposto selectivo de consumo no respectivo entreposto aduaneiro;\nc)  Se tem ou não a intenção de reiniciar a produção de bens sujeitos a imposto selectivo de consumo no prazo de doze meses a contar da data prevista na alínea anterior.\n6.     Nos termos do disposto no número anterior, se for recebida uma notificação, a Administração Tributária deve cancelar, mediante aviso por escrito, o registo do produtor, com efeitos a contar do primeiro dia em que deixem de existir bens sujeitos a imposto selectivo de consumo no entreposto do produtor, salvo se tiver motivos válidos para crer que o produtor vai reiniciar a produção de bens sujeitos a imposto selectivo de consumo em qualquer momento dentro do prazo de doze meses a contar da data prevista nos termos do disposto na alínea b) do número anterior.\n7.    Toda e qualquer obrigação ou dever, impostos a um produtor enquanto registado, incluindo a obrigação de pagamento do imposto selectivo de consumo e a entrega das declarações respectivas, não é afectada pelo cancelamento do registo do produtor.\n8.   O produtor registado que aliene a sua actividade de produção de bens sujeitos a imposto selectivo de consumo numa base de continuidade de exploração, deve notificar, por escrito, a Administração Tributária sobre esse facto, no mínimo três dias antes da data em que:\na)   A venda é concluída;\nb)   O adquirente obtém uma participação legal nos elementos do activo a adquirir;\nc)   Os elementos do activo pertencentes à empresa em exploração são transferidos.\n9.   O produtor registado deve requerer à Administração Tributária, de acordo com as formalidades e os requisitos exigidos, a aprovação de um entreposto como entreposto aduaneiro.\n10.A Administração Tributária aprovará o entreposto do produtor registado como entreposto aduaneiro para a produção e venda de bens sujeitos a imposto selectivo de consumo se estiver convencida de que o entreposto cumpre os requisitos necessários.\n11.O produtor registado só deve produzir e vender bens sujeitos a imposto selectivo de consumo a partir do momento em que o entreposto é aprovado como um entreposto aduaneiro, nos termos do presente artigo e da legislação aduaneira em vigor."
+   }
+  },
+  {
+   "id": "TL-H069-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III IMPOSTO   SELECTIVO   DE   CONSUMO"
+   },
+   "heading": {
+    "pt": "Declaração e pagamento do imposto selectivo de consumo"
+   },
+   "text": {
+    "pt": "1.   O produtor registado deve entregar à Autoridade Bancária e de Pagamentos ou a outra entidade designada pela Administração Tributária, até ao décimo quinto dia após o fim do mês civil em causa:\na)   Uma declaração de imposto selectivo de consumo devidamente preenchida, conforme as instruções da Administração Tributária;\nb)  O montante de imposto selectivo de consumo devido sobre os bens a ele sujeitos que tenham saído do entreposto do produtor durante o mês civil em causa.\n2.   Considera-se que o produtor registado não possa justificar qualquer quantidade de bens sujeitos a imposto selectivo de consumo produzidos ou mantidos em depósito, que saiu do entreposto, no mês em que se verifica discrepância entre a valorimetria das existências efectiva e a valorimetria das existências registada, caso em que o produtor deve notificar o serviço das alfândegas, logo que tome conhecimento da discrepância.\n3.   A Administração Tributária determina o procedimento para o pagamento do imposto selectivo de consumo devido sobre bens importados.\n4.   A pessoa obrigada à entrega de imposto selectivo de consumo nos termos do disposto no n.º 1 do presente artigo, relativamente a um determinado mês, deve entregar à Autoridade Bancária e de Pagamentos ou a outra entidade designada pela Administração Tributária uma declaração de imposto selectivo de consumo devidamente preenchida para os meses subsequentes, seja ou não devido imposto selectivo de consumo nos meses subsequentes.\n5.   A Administração Tributária pode dispensar o requisito estabelecido no n.º 4 do presente artigo, mediante solicitação por escrito da pessoa obrigada a entregar a declaração de imposto selectivo de consumo, se estiver convencida de que a pessoa não está sujeita ao pagamento de imposto sobre serviços nos meses subsequentes."
+   }
+  },
+  {
+   "id": "TL-H069-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III IMPOSTO   SELECTIVO   DE   CONSUMO"
+   },
+   "heading": {
+    "pt": "Desagravamento para matérias-primas"
+   },
+   "text": {
+    "pt": "1.   Se a Administração Tributária considerar, com base numa certidão emitida por um produtor registado nos moldes prescritos, que bens sujeitos a imposto selectivo de consumo, quer estes sejam importados para Timor-Leste ou produzidos em Timor-Leste, se destinam a ser utilizados pelo produtor registado como matéria-prima na produção de outros bens sujeitos a imposto selectivo de consumo, pode exigir a entrega pelo produtor de uma garantia que considere adequada, relativamente aos referidos bens, em substituição do pagamento integral do imposto selectivo de consumo.\n2.   Se a Administração Tributária considerar que os bens a que foi aplicado o disposto no nº 1 do presente artigo foram utilizados como matéria-prima para a produção, em Timor- Leste, de outros bens sujeitos a imposto selectivo de consumo, pode deduzir qualquer depósito de garantia efectuado nos termos do número anterior do imposto selectivo de consumo que seja exigível sobre a saída desses outros bens do entreposto do produtor.\n3.   Se a Administração Tributária considerar que os bens a que foi aplicado o disposto no nº 1 do presente artigo foram utilizados para outro fim que não como matéria-prima na produção de outros bens sujeitos a imposto selectivo de consumo, pode aplicar qualquer depósito de garantia efectuado como pagamento do imposto selectivo de consumo que seria devido se não fosse a decisão tomada pela Administração Tributária ao abrigo do disposto no n.º 1 do presente artigo."
+   }
+  },
+  {
+   "id": "TL-H069-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV IMPOSTO   SOBRE   VENDAS"
+   },
+   "heading": {
+    "pt": "Incidência  do  imposto  sobre  vendas"
+   },
+   "text": {
+    "pt": "1.   O imposto sobre vendas incide sobre o valor para fins de imposto sobre vendas, às taxas indicadas no Anexo III, de:\na)   Bens tributáveis importados para Timor-Leste;\nb)   Bens tributáveis vendidos em Timor-Leste a partir da data especificada pelo Parlamento; ou\nc)   Serviços tributáveis prestados em Timor-Leste a partir da data especificada pelo Parlamento.\n2.   O valor para fins do imposto sobre vendas é:\na)    No caso de bens importados para Timor-Leste e sujeitos a imposto, o valor aduaneiro dos bens, acrescido dos direitos aduaneiros de importação e do imposto selectivo de consumo eventualmente aplicáveis à importação dos bens;\nb)   No caso de bens sujeitos a imposto e vendidos em Timor-Leste, o preço dos bens, com exclusão do imposto sobre vendas; ou\nc)   No caso de serviços sujeitos a imposto prestados em Timor-Leste, o preço dos serviços, com exclusão do imposto sobre vendas.\n3.   Sem prejuízo do disposto no número seguinte, estão sujeitas ao pagamento de imposto sobre vendas, nos termos do disposto no n.º 1 do presente artigo, os seguintes sujeitos passivos:\na)   Quem importa bens tributáveis para Timor-Leste;\nb)   Quem vende bens tributáveis em Timor-Leste; e\nc)   Quem presta serviços tributáveis em Timor-Leste.\n4.   Só fica sujeita ao pagamento de imposto sobre vendas relativamente a bens tributáveis vendidos ou a serviços tributáveis prestados num determinado mês civil o sujeito passivo cujo volume de negócios mensal decorrente da venda ou da prestação de serviços no mês em causa ultrapasse o limite estabelecido para a isenção de imposto sobre vendas, constante do Anexo III ao presente diploma.\n5.   O volume de negócios mensal do sujeito passivo pela venda de bens tributáveis ou pela prestação de serviços tributáveis inclui o volume de negócios mensal de qualquer associado do mesmo, resultante da venda de bens tributáveis ou da prestação de serviços tributáveis desde que as prestações efectuadas pelo associado não tenham sido tributadas nos termos do presente capítulo."
+   }
+  },
+  {
+   "id": "TL-H069-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV IMPOSTO   SOBRE   VENDAS"
+   },
+   "heading": {
+    "pt": "Bens  e serviços tributáveis e isentos"
+   },
+   "text": {
+    "pt": "1.  Estão sujeitos ao imposto sobre vendas os seguintes bens e serviços:\na)   Todos os bens importados para Timor-Leste, com excepção dos bens importados para Timor-Leste que estejam isentos de imposto sobre as importações ao abrigo da presente lei ou sujeitos a uma isenção total ou parcial ao abrigo do Código Aduaneiro de Timor-Leste;\nb)    Todos os bens vendidos em Timor-Leste; ou\nc)    Todos os serviços prestados em Timor-Leste.\n2.   Os bens importados para Timor-Leste ficam isentos de imposto sobre vendas se a pessoa que os importa entregar às Autoridades Aduaneiras uma declaração de isenção de imposto sobre vendas devidamente preenchida.\n3.   Os bens vendidos em Timor-Leste ficam isentos de imposto sobre vendas se a pessoa que os adquire entregar à pessoa que os vende uma declaração de isenção de imposto sobre vendas devidamente preenchida.\n4.  Os serviços prestados em Timor-Leste ficam isentos de imposto sobre vendas se a pessoa que os adquire entregar à pessoa que os presta uma declaração de isenção de imposto sobre vendas devidamente preenchida."
+   }
+  },
+  {
+   "id": "TL-H069-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV IMPOSTO   SOBRE   VENDAS"
+   },
+   "heading": {
+    "pt": "Declaração de isenção de impostos sobre vendas"
+   },
+   "text": {
+    "pt": "1.   A Administração Tributária emite um número de isenção de imposto sobre vendas a quem o solicite, se estiver convencida de que essa pessoa é sujeito passivo de imposto sobre vendas relativamente à venda de bens tributáveis ou à prestação de serviços tributáveis.\n2.  Quem importa bens para Timor-Leste ou adquire bens ou serviços em Timor-Leste pode apresentar nos serviços das alfândegas ou a quem lhe fornece os bens ou serviços uma declaração de isenção de imposto sobre vendas, devidamente preenchida.\n3. A declaração de isenção de imposto sobre vendas, devidamente preenchida, deve ser apresentada conforme modelo aprovado pela Administração Tributária e deve, obrigatoriamente, conter as seguintes informações:\na)   A atestação de que os bens importados ou os bens ou serviços adquiridos relativamente aos quais é apresentada a declaração serão aplicados pelo importador ou pelo adquirente dos bens ou serviços exclusivamente:\n(i)     Para efectuar vendas de bens tributáveis ou proceder à prestação de serviços tributáveis; (ii)    Para efectuar vendas de bens que seriam tributáveis ou prestar serviços que seriam tributáveis se a pessoa adquirente dos bens ou serviços não tivesse apresentado uma declaração de isenção de imposto sobre vendas, devidamente preenchida, à pessoa fornecedora dos bens ou serviços;\nb)  O número de isenção de imposto sobre vendas da pessoa que apresenta a declaração.\n4.  Quem recebe declarações de isenção do imposto sobre vendas, relativas a vendas por si efectuadas, deve conservar e manter essas declarações durante um período de cinco anos a contar do mês civil em que a venda tem lugar."
+   }
+  },
+  {
+   "id": "TL-H069-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV IMPOSTO   SOBRE   VENDAS"
+   },
+   "heading": {
+    "pt": "Pagamento do imposto e declaração do imposto sobre vendas"
+   },
+   "text": {
+    "pt": "1.   O sujeito passivo de imposto sobre vendas relativamente a bens vendidos em Timor-Leste ou a serviços prestados em Timor-Leste deve entregar à Autoridade Bancária e de Pagamentos ou a outra entidade designada pela Administração Tributária, até ao décimo quinto dia após o fim do mês civil em causa:\na)   Uma declaração de imposto sobre vendas preenchida devidamente conforme as instruções da Administração Tributária; e\nb)   O montante de imposto sobre vendas devido sobre os bens vendidos ou os serviços prestados pela pessoa em causa durante esse mês civil.\n2.    A Administração Tributária determina o procedimento para o pagamento do imposto sobre vendas devido sobre bens importados.\n3.  O sujeito passivo de imposto sobre vendas nos termos do disposto no n.º 1 do presente artigo, relativamente a um determinado mês, deve entregar à Autoridade Bancária e de Pagamentos ou a outra entidade designada pela Administração Tributária uma declaração de imposto sobre vendas devidamente preenchida para os meses subsequentes, seja ou não devido imposto sobre vendas nos meses subsequentes.\n4.  A Administração Tributária pode dispensar o requisito estabelecido no número anterior, mediante solicitação por escrito da pessoa obrigada a entregar a declaração de imposto sobre vendas nos termos dessa disposição, se estiver convencida de que a pessoa não está sujeita ao pagamento de imposto sobre serviços nesses meses subsequentes."
+   }
+  },
+  {
+   "id": "TL-H069-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V DIREITOS   ADUANEIROS   DE   IMPORTAÇÃO"
+   },
+   "heading": {
+    "pt": "Incidência dos direitos aduaneiros e de importação"
+   },
+   "text": {
+    "pt": "1.   Quem importa bens para Timor-Leste, que não sejam bens isentos de direitos aduaneiros de importação nos termos do Anexo IV, fica sujeito ao pagamento de direitos aduaneiros sobre os bens importados, à taxa indicada no Anexo IV.\n2.    Se quem importa bens isentos de direitos aduaneiros de importação para Timor-Leste transferir a sua propriedade ou a sua posse para outra pessoa, a qual fica sujeita a direitos aduaneiros de importação, a transferência de propriedade ou posse dos bens para esta pessoa é tratada como uma importação de bens feita por ela.\n3.  Ficam solidariamente sujeitas ao pagamento dos direitos aduaneiros de importação, como resultado da transacção referida no número anterior, a pessoa que transfere a propriedade ou a posse dos bens e a pessoa para quem a propriedade ou a posse é transferida."
+   }
+  },
+  {
+   "id": "TL-H069-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI IMPOSTO   SOBRE   SALÁRIOS"
+   },
+   "heading": {
+    "pt": "Incidência do imposto sobre salários"
+   },
+   "text": {
+    "pt": "O imposto sobre salários incide sobre os rendimentos obtidos pelo sujeito passivo a título de salário, relativos a trabalho dependente exercido em Timor-Leste, sejam prestações de trabalho em Timor-Leste ou prestações de trabalho por um funcionário do Governo de Timor-Leste, exercidos em território nacional ou fora dele, às taxas estabelecidas no Anexo V."
+   }
+  },
+  {
+   "id": "TL-H069-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI IMPOSTO   SOBRE   SALÁRIOS"
+   },
+   "heading": {
+    "pt": "Salários tributáveis e isentos"
+   },
+   "text": {
+    "pt": "1.   Toda a remuneração auferida a titulo de salário pelo sujeito passivo no âmbito de uma relação de trabalho dependente é tributável.\n2. Beneficiam, no entanto, de isenção os seguintes salários:\na)  Os salários auferidos por funções oficiais e que estão isentos de tributação nos termos da lei;\nb)   Os salários de um trabalhador que é um nacional de um país estrangeiro, recebidos na qualidade de funcionário público do Governo de um país estrangeiro, desde que esse rendimento esteja sujeito a imposto sobre o rendimento nesse país;\nc)   Os salários de um funcionário das Nações Unidas ou das suas agências especializadas; e\nd)  Os salários isentos nos termos do disposto no artigo\n67.º."
+   }
+  },
+  {
+   "id": "TL-H069-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI IMPOSTO   SOBRE   SALÁRIOS"
+   },
+   "heading": {
+    "pt": "Obrigação de retenção na fonte"
+   },
+   "text": {
+    "pt": "A entidade patronal que paga salários tributáveis relativos a trabalho dependente exercido em Timor-Leste deve reter na fonte o imposto sobre salários, de acordo com tabelas fornecidas para tal fim pela Administração Tributária, as quais têm em consideração as taxas estabelecidas no Anexo V."
+   }
+  },
+  {
+   "id": "TL-H069-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI IMPOSTO   SOBRE   SALÁRIOS"
+   },
+   "heading": {
+    "pt": "Entrega do imposto retido e da declaração de retenção do imposto sobre salários"
+   },
+   "text": {
+    "pt": "1.   A entidade patronal que retém na fonte imposto sobre salários nos termos do disposto no artigo anterior deve entregar à Autoridade Bancária e de Pagamentos ou a outra entidade designada pela Administração Tributária, até ao décimo quinto dia após o fim do mês civil em causa:\na)   Uma declaração de retenção do imposto sobre salários, preenchida devidamente conforme as instruções da administração Tributária; e\nb)   O imposto sobre salários retido nesse mês.\n2.    O sujeito obrigado à entrega de imposto sobre salários retido nos termos do disposto no número anterior e relativo a um determinado mês deve entregar à Autoridade Bancária e de Pagamentos ou a outra entidade designada pela Administração Tributária uma declaração de retenção na fonte do imposto sobre salários devidamente preenchida para os meses subsequentes, tenha ou não havido retenção de imposto sobre salários nos meses subsequentes.\n3.  A Administração Tributária pode dispensar o requisito estabelecido no número anterior, mediante solicitação por escrito pela entidade patronal que deve efectuar a entrega da declaração de imposto sobre salários, se estiver convencida de que a pessoa não está sujeita à retenção de imposto sobre salários nos meses em causa.\n4.    A entidade patronal que tiver retido na fonte imposto sobre salários nos termos do artigo anterior, deve entregar à Autoridade Bancária e de Pagamentos ou a outra entidade designada pela Administração Tributária uma declaração anual de retenção na fonte do imposto sobre salários, preenchida devidamente conforme as instruções da Administração Tributária, até ao último dia de Março seguinte ao fim do ano fiscal respectivo."
+   }
+  },
+  {
+   "id": "TL-H069-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI IMPOSTO   SOBRE   SALÁRIOS"
+   },
+   "heading": {
+    "pt": "Fornecimento de informação aos trabalhadores dependentes"
+   },
+   "text": {
+    "pt": "A entidade patronal que retém na fonte imposto sobre salários nos termos do artigo 22.º deve fornecer a todos os trabalhadores cujos salários foram objecto de imposto e que o solicitem uma declaração de retenção na fonte do imposto sobre salários, preenchida devidamente conforme as instruções da Administração Tributária, no prazo de vinte e um dias a partir do encerramento do ano fiscal ou a partir do termo do vínculo laboral no decurso do ano fiscal."
+   }
+  },
+  {
+   "id": "TL-H069-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI IMPOSTO   SOBRE   SALÁRIOS"
+   },
+   "heading": {
+    "pt": "Extinção da obrigação do trabalhador dependente mediante a"
+   },
+   "text": {
+    "pt": "retenção na fonte do imposto\n1.    O trabalhador dependente que aufira um salário que tenha sido correctamente objecto de retenção na fonte de imposto sobre salários não terá quaisquer outras obrigações relativas ao imposto sobre salários incidente sobre esse salário.\n2.    Caso um trabalhador dependente aufira um salário que não foi objecto de retenção correcta na fonte, a título de imposto sobre salários, a Administração Tributária pode efectuar uma liquidação adicional do imposto sobre salários eventualmente devido ou tratar o eventual pagamento em excesso, nos termos do regime jurídico para a liquidação do imposto.\n3.  Qualquer liquidação adicional de imposto sobre salários efectuada pela Administração Tributária nos termos do número anterior pode ser cobrada do empregador, e qualquer pagamento em excesso de imposto sobre salários nos termos do número anterior pode ser-lhe reembolsado, se aquela considerar que o motivo pelo qual os salários não foram correctamente sujeitos a imposto sobre salários se deveu a actos ou omissões do empregador.\n4.  O imposto sobre salários liquidado pela Administração Tributária nos termos do disposto no n.º 2 do presente artigo torna-se devido e o seu pagamento exigível um mês após a data da recepção da notificação da liquidação pela pessoa em causa.\n5.    A pessoa cujo imposto é liquidado nos termos do disposto no n.º 2 do presente artigo deve efectuar o pagamento do imposto liquidado junto do Autoridade Bancária e de Pagamentos ou a outra entidade designada pela Administração Tributária."
+   }
+  },
+  {
+   "id": "TL-H069-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO I INCIDÊNCIA   DO   IMPOSTO   SOBRE  O RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Incidência"
+   },
+   "text": {
+    "pt": "1.  O imposto sobre o rendimento incide, segundo a taxa ou taxas especificadas no Anexo VI, sobre um sujeito passivo do imposto com rendimento tributável relativamente ao ano em causa.\n2.     Sem prejuízo do disposto no presente diploma, o rendimento tributável de um sujeito passivo de imposto sobre o rendimento, relativamente a um ano fiscal, é o montante ilíquido do rendimento do sujeito passivo relativo a esse ano, depois de deduzido o montante global das deduções concedidas ao sujeito passivo, respeitantes a esse mesmo ano.\n3.   O imposto sobre o rendimento, incidente sobre um sujeito passivo de imposto sobre o rendimento, ao abrigo do disposto no n.º 1 do presente artigo, relativamente a um ano fiscal, é calculado mediante a aplicação da taxa ou das taxas aplicáveis ao sujeito passivo ao rendimento tributável do mesmo sujeito respeitante a esse ano, nos termos do disposto no Anexo VI, sendo deduzidos do montante assim obtido os créditos de imposto concedidos ao sujeito passivo.\n4.  Se um sujeito passivo de imposto sobre o rendimento beneficiar de mais de um crédito de imposto relativamente a um ano fiscal, os créditos são deduzidos pela seguinte ordem:\na)   O crédito de imposto estrangeiro concedido ao abrigo do artigo 50.º; seguido de\nb)   Os créditos de imposto concedidos ao abrigo do n.º 4 do artigo 64.º ou do n.º 10 do artigo 82.º; seguidos de\nc)   O crédito de imposto concedido ao abrigo do nº 3 do\nartigo 60.º."
+   }
+  },
+  {
+   "id": "TL-H069-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO I INCIDÊNCIA   DO   IMPOSTO   SOBRE  O RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Sujeitos passivos"
+   },
+   "text": {
+    "pt": "1.   Sem prejuízo do disposto no n.º 2 do presente artigo, são sujeitos passivos do imposto sobre o rendimento os seguintes:\na)   Uma pessoa singular;\nb)  Uma herança jacente considerada como uma unidade em lugar dos beneficiários; ou\nc)   Uma pessoa colectiva constituída, fundada, organizada ou estabelecida em Timor-Leste ou ao abrigo de legislação estrangeira, incluindo um trust.\n2.    Não são sujeitos passivos de imposto sobre o rendimento:\na)   Uma missão diplomática;\nb) Uma organização internacional, sujeita a decisão do Ministro das Finanças, desde que:\n(i)     Timor-Leste seja membro da organização em causa; e (ii)     A organização em causa não exerça uma actividade comercial ou industrial nem promova quaisquer outras actividades com vista à obtenção de rendimento de fonte situada em Timor-Leste, com excepção da concessão de empréstimos ao Governo a partir de um fundo constituído por contribuições dos respectivos membros."
+   }
+  },
+  {
+   "id": "TL-H069-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO I INCIDÊNCIA   DO   IMPOSTO   SOBRE  O RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Rendimento ilíquido"
+   },
+   "text": {
+    "pt": "1.    O rendimento ilíquido de um sujeito passivo de imposto sobre o rendimento, relativamente a um ano fiscal, é a soma global dos seguintes montantes auferidos pelo sujeito passivo durante o ano em causa:\na)   Rendimento de actividade empresarial;\nb)   Rendimento da propriedade ;\nc)   Prémios ou ganhos de lotaria;\nd)   Qualquer reembolso de pagamento de imposto previamente deduzido a título de despesa; e\ne)   Quaisquer outros montantes que constituam um acréscimo de capacidade económica, independentemente da sua designação ou forma, que possam ser usados pelo sujeito passivo para fins de consumo ou para aumento do respectivo património, com excepção dos salários sujeitos a imposto sobre salários.\n2.     Rendimento de actividade empresarial significa o rendimento ilíquido e os ganhos da alienação de elementos do activo ou a extinção de uma dívida obtidos no exercício de uma actividade empresarial, em conformidade com o estipulado no artigo 33.º.\n3.    Rendimento da propriedade significa:\na)  Os dividendos, juros, royalties, anuidades, rendas ou outros montantes procedentes da disposição, uso ou exploração de propriedade; e\nb) Quaisquer ganhos resultantes da alienação de um elemento do activo, que não seja detido a título pessoal, não incluindo qualquer montante que constitua rendimento de actividade empresarial.\n4.    Para efeitos do n.º 1 do presente artigo:\na)   O rendimento ilíquido de uma pessoa residente inclui o rendimento proveniente de todas as fontes situadas dentro e fora de Timor-Leste; e\nb)   O rendimento ilíquido de uma pessoa não residente inclui apenas o rendimento proveniente de fontes situadas em Timor-Leste."
+   }
+  },
+  {
+   "id": "TL-H069-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO I INCIDÊNCIA   DO   IMPOSTO   SOBRE  O RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Rendimento isento"
+   },
+   "text": {
+    "pt": "Constitui rendimento isento:\na)  Toda e qualquer ajuda ou doação, desde que não exista uma relação comercial, de propriedade ou de controlo entre o doador e o donatário;\nb)   As doações recebidas por pessoas com um grau de parentesco directo até ao primeiro grau, ou por uma instituição religiosa, educativa ou de caridade, ou por uma cooperativa, desde que não exista uma relação comercial, de propriedade ou de controlo entre o doador e o donatário;\nc)   Heranças;\nd)  Bens do activo, incluindo numerário, recebidos por uma pessoa colectiva em troca de acções ou de entradas de capital;\ne)   Uma importância paga por uma empresa seguradora a uma pessoa singular em conexão com um seguro de saúde, de acidentes, de vida ou de educação;\nf)   Dividendos;\ng)   Qualquer contribuição paga por uma entidade patronal ou por um trabalhador dependente para um fundo de pensões aprovado;\nh)   O rendimento realizado por um fundo de pensões aprovado; e\n(i)     As remunerações isentas nos termos do disposto no artigo\n67.º."
+   }
+  },
+  {
+   "id": "TL-H069-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO I INCIDÊNCIA   DO   IMPOSTO   SOBRE  O RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Deduções"
+   },
+   "text": {
+    "pt": "Sem prejuízo do disposto no presente diploma, o sujeito passivo de imposto sobre o rendimento tem direito às seguintes deduções:\na)   Despesas suportadas e prejuízos sofridos em conexão com a alienação de elementos do activo ou a extinção de uma dívida no exercício de uma actividade empresarial tributável, em conformidade com o disposto no artigo 33.º;\nb)   Despesas suportadas com a realização de quaisquer outros montantes incluídos no rendimento ilíquido;\nc)   Quaisquer prejuízos sofridos em conexão com a alienação de um elemento do activo, que não seja um elemento do activo contemplado pela alínea a) ou detido a título pessoal;\nd)   Contribuições para um fundo de pensões aprovado; e\ne)   Dívidas de cobrança duvidosa, nos termos do disposto no\nartigo 38.º, e dívidas incobráveis, nos termos do disposto no artigo 39.º."
+   }
+  },
+  {
+   "id": "TL-H069-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO I INCIDÊNCIA   DO   IMPOSTO   SOBRE  O RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Deduções não autorizadas"
+   },
+   "text": {
+    "pt": "Na determinação do rendimento tributável de um sujeito passivo de imposto sobre o rendimento, não são dedutíveis os seguinte rendimentos:\na)     A distribuição de lucros, independentemente da designação ou forma, tais como dividendos, incluindo os dividendos pagos por uma empresa de seguros a um titular de uma apólice, ou qualquer distribuição de lucros acumulados por uma cooperativa;\nb)   As despesas suportadas ou contraídas em benefício pessoal de accionistas, sócios ou membros;\nc)   Reservas, salvo o disposto na presente lei;\nd)   Prémios de seguros de saúde, de acidentes, de vida ou de educação pagos por uma pessoa singular, excepto se tais prémios forem pagos por uma entidade patronal relativamente a um trabalhador dependente e o prémio for tratado como rendimento do trabalhador dependente;\ne)  Uma compensação ou remuneração excessiva paga por uma pessoa colectiva a um membro das pessoas colectivas, ou paga entre associados, como remuneração por trabalho realizado;\nf)     Presentes, ajudas, doações ou heranças desde que isentas de imposto sobre o rendimento nas mãos do beneficiário ao abrigo do disposto nas alíneas a), b) ou c) do artigo 29.º;\ng)   Imposto sobre o rendimento em Timor-Leste ou no estrangeiro;\nh)  Despesas contraídas em benefício pessoal de um sujeito passivo de imposto sobre o rendimento ou dos seus dependentes;\n(i)   Os salários pagos a um sócio de uma sociedade de pessoas;\nj)   Juros de mora, sanções pecuniárias e multas em virtude do incumprimento da presente lei;\nk)    Encargos com juros, salvo se contraídos por uma instituição financeira;\nl)     Multa ou outra sanção pecuniária por violação de qualquer lei, regulamento ou norma;\nm)   Suborno ou qualquer importância similar; e\nn)  Despesas ou prejuízos suportados na parte em que sejam recuperáveis em virtude de uma apólice de seguro ou de um contrato de indemnização."
+   }
+  },
+  {
+   "id": "TL-H069-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO I INCIDÊNCIA   DO   IMPOSTO   SOBRE  O RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Limitação das deduções"
+   },
+   "text": {
+    "pt": "1.    As despesas contraídas por um sujeito passivo de imposto sobre o rendimento em conexão com a realização, cobrança ou garantia do rendimento, cuja vida útil é superior a um ano, não podem ser deduzidas directamente do rendimento, mas mediante reintegração ou amortização ao abrigo do disposto nos artigos 36.º e 37.º.\n2.    Quando um sujeito passivo de imposto sobre o rendimento está obrigado à retenção de imposto relativamente a um pagamento que constitui uma despesa dedutível do sujeito passivo, incluindo o pagamento de salários a que se aplica o artigo 22.º, só é permitida a dedução depois de o sujeito passivo ter entregue o imposto retido à Administração Tributária.\n3.  Não é concedida ao sujeito passivo de imposto sobre o rendimento a dedução de qualquer comissão, abatimento, desconto, tarifa de pronto pagamento ou pagamento similar, que constitua rendimento auferido em Timor-Leste pelo respectivo beneficiário, excepto se:\na)   O sujeito passivo revelar o nome e o endereço do beneficiário, mediante notificação por escrito à Administração Tributária;\nb)  A Administração Tributária aceitar que o imposto foi pago ou venha a ser pago relativamente ao pagamento em causa."
+   }
+  },
+  {
+   "id": "TL-H069-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO II ACTIVIDADES   EMPRESARIAIS"
+   },
+   "heading": {
+    "pt": "Rendimento ilíquido e deduções do exercício de actividades empresariais"
+   },
+   "text": {
+    "pt": "1.    A determinação do rendimento bruto e das deduções de um sujeito passivo, resultante do exercício de actividades empresariais relativamente a um ano fiscal, deve basear-se no lucro líquido do sujeito passivo para fins de contabilidade financeira desse exercício, elaborada de acordo com as Normas Internacionais em Matéria de Elaboração de Relatórios Financeiros, e sujeita às alterações introduzidas na presente lei.\n2.    O lucro líquido do sujeito passivo deve incluir os resultados de todas as actividades empresariais  exercidas pelo sujeito passivo durante o ano fiscal, incluindo a alienação de qualquer elemento do activo ou a extinção de qualquer dívida no decurso ou no fim dessas actividades."
+   }
+  },
+  {
+   "id": "TL-H069-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO II ACTIVIDADES   EMPRESARIAIS"
+   },
+   "heading": {
+    "pt": "Método contabilístico"
+   },
+   "text": {
+    "pt": "1.   O sujeito passivo deve determinar o imposto sobre o rendimento segundo o critério da competência económica.\n2.    Se o sujeito passivo tiver um volume de negócios anual ilíquido inferior a $US 100.000 pode determinar o imposto sobre o rendimento, quer segundo o critério de competência de caixa, quer segundo o critério de competência económica.\n3.   Se o critério contabilístico adoptado pelo sujeito passivo se alterar em virtude da aplicação do número anterior, o sujeito passivo procede aos ajustamentos nas rubricas de rendimentos, deduções ou créditos, bem como em todas as demais rubricas afectadas pela mudança, de forma a que nenhuma rubrica seja omitida e nenhuma seja tida em conta mais do que uma vez.\n4.  O sujeito passivo que determina o seu imposto sobre o rendimento segundo o critério de competência de caixa, considera realizados os rendimentos quando os recebe, ou quando eles são postos à sua disposição, e considera suportadas as despesas quando elas são pagas.\n5.    O sujeito passivo que determina o seu imposto sobre o rendimento segundo o critério da competência económica considera realizados os rendimentos quando eles são susceptíveis de serem recebidos e considera suportadas as despesas quando elas são susceptíveis de serem pagas.\n6.    Um montante é susceptível de ser recebido por um sujeito passivo quando o sujeito passivo adquire o direito a recebêlo, mesmo quando o momento da quitação ou exercício desse direito seja adiado ou o seu pagamento seja feito em prestações.\n7.    Um montante é susceptível de ser pago por um sujeito passivo quando se verificarem todos os factos que determinam a sua obrigação e o montante dessa obrigação possa ser determinado com razoável exactidão, mas não antes de se ter verificado o facto tributável.\n8.   O facto tributável ocorre:\na)   No caso de aquisição de serviços, de bens ou activos, no momento em que os serviços, os bens  ou activos são fornecidos;\nb)   No caso de utilização de bens ou activos, no momento em que os bens ou activos são utilizados; e\nc)   Em qualquer outro caso, no momento em que o sujeito passivo procede ao pagamento integral da sua obrigação."
+   }
+  },
+  {
+   "id": "TL-H069-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO II ACTIVIDADES   EMPRESARIAIS"
+   },
+   "heading": {
+    "pt": "Valorimetria das existências"
+   },
+   "text": {
+    "pt": "É permitida a dedução dos custos atinentes à valorimetria das existências, suportados durante o ano fiscal, mesmo que as existências se encontrem disponíveis no fim do ano em causa."
+   }
+  },
+  {
+   "id": "TL-H069-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO II ACTIVIDADES   EMPRESARIAIS"
+   },
+   "heading": {
+    "pt": "Reintegração de elementos depreciáveis do activo imobilizado corpóreo"
+   },
+   "text": {
+    "pt": "1.    O sujeito passivo tem direito a uma dedução para reintegração de elementos depreciáveis do activo imobilizado corpóreo e de instalações empresariais durante o ano fiscal.\n2.  O sujeito passivo de imposto sobre o rendimento tem direito a uma dedução relativamente aos elementos depreciáveis do activo imobilizado corpóreo e a instalações empresariais do sujeito passivo se o elemento depreciável do activo imobilizado corpóreo ou a instalação empresarial for:\na)   Propriedade do sujeito passivo; ou\nb)   Utilizado e controlado pelo sujeito passivo e ao proprietário efectivo não for permitida uma dedução ao abrigo do presente artigo, no ano fiscal, respeitante aos elementos depreciáveis do activo ou instalações empresariais, em virtude do disposto no artigo 41.º.\n3.   O custo de aquisição ou de construção, bem como os custos de melhoramento, renovação e reconstrução de instalações empresariais, devem ser reintegrados individualmente, pelo método das quotas constantes, segundo a taxa especificada no Anexo VII.\n4.    O custo de uma instalação empresarial não inclui o custo do terreno em que a instalação está situada.\n5.   Os elementos depreciáveis do activo imobilizado corpóreo podem ser reintegrados individualmente, pelo método das quotas constantes, ou por categorias, pelo método das quotas degressivas.\n6.   O mesmo método de reintegração deverá ser aplicado a todos os elementos depreciáveis do activo imobilizado corpóreo do sujeito passivo.\n7.   O sujeito passivo só pode alterar o seu método de reintegração mediante autorização por escrito da Administração Tributária e fica sujeito aos requisitos que esta possa impor relativamente à alteração.\n8.     A classificação de elementos depreciáveis do activo segundo categorias e a especificação das taxas de reintegração segundo o método das quotas constantes ou das quotas degressivas, constam do Anexo VII.\n9.   A dedução da reintegração para cada categoria num ano fiscal é calculada mediante a aplicação da taxa de reintegração prevista para a categoria ao valor reintegrado da categoria no fim do ano fiscal.\n10. O valor reintegrado de uma categoria no fim de um ano fiscal é o valor reintegrado no fim do ano fiscal anterior:\na)   Acrescido do custo de capital dos elementos depreciáveis do activo imobilizado corpóreo aditado à categoria durante o ano fiscal; e\nb)   Diminuído pela compensação recebida ou susceptível de ser recebida pelos elementos depreciáveis do activo imobilizado corpóreo da categoria, alienados durante o ano fiscal, incluindo qualquer compensação pela perda de tais elementos devida a calamidades naturais ou qualquer outra forma involuntária de perda.\n11. Quando no fim de um ano fiscal o valor reintegrado de uma categoria de elementos, de um sujeito passivo, for um montante negativo, esse montante é incluído no rendimento do sujeito passivo no ano fiscal, sendo zero o valor reintegrado.\n12.  Quando no fim de um ano fiscal o valor reintegrado de uma categoria de elementos for inferior a $US 100, é permitida uma dedução adicional no ano fiscal igual ao montante desse valor reintegrado, sendo o valor reintegrado da categoria de elementos no fim do ano fiscal zero.\n13. Se todos os elementos depreciáveis do activo imobilizado corpóreo, de uma categoria de elementos, forem alienados antes do fim do ano fiscal, é permitida uma dedução para o montante do valor reintegrado, se tiver ocorrido alguma reintegração da categoria, no fim do ano fiscal. O valor reintegrado da categoria no fim do ano fiscal é zero.\n14. Quando um elemento depreciável do activo corpóreo for adquirido para apenas ser parcialmente utilizado no exercício de actividades empresariais tributáveis e parcialmente para outro fim, o custo de capital do elemento depreciável do activo imobilizado corpóreo a ser incluído na categoria de elementos é proporcionalmente reduzido.\n15. Se um sujeito passivo reavaliar uma instalação empresarial ou um elemento depreciável do activo imobilizado corpóreo, não é permitida qualquer dedução respeitante ao montante da reavaliação.\n16. São aplicáveis as seguintes regras a um elemento depreciável do activo imobilizado corpóreo reintegrável segundo o método das quotas constantes e a uma instalação empresarial:\na)   Quando o custo de um elemento depreciável do activo for inferior a US$ 100, a dedução da reintegração no ano em que o elemento depreciável do activo é adquirido é igual ao custo do elemento depreciável do activo, e nenhuma dedução de reintegração é permitida para esse elemento do activo num ano subsequente;\nb)   O custo de um melhoramento, renovação ou reconstrução de um elemento depreciável do activo ou instalação empresarial deve ser tratado como o custo de um novo elemento depreciável do activo ou instalação com uma vida útil igual à vida útil original do elemento depreciável do activo ou da instalação;\nc)   Quando o elemento depreciável do activo ou instalação empresarial for apenas parcialmente utilizado no exercício de actividades empresariais e parcialmente para outro fim, o montante de reintegração permitido como uma dedução é reduzido proporcionalmente à utilização não empresarial;\nd)   Quando um elemento depreciável do activo ou instalação empresarial for alienado por um sujeito passivo, o custo do elemento depreciável do activo ou instalação empresarial deve ser reduzido de acordo com as deduções de reintegração permitidas nos termos do disposto no presente artigo.\n17.  No caso de um elemento depreciável do activo imobilizado corpóreo acrescentado a uma categoria no último ano fiscal em que vigorou a legislação revogada, o custo do elemento depreciável do activo não acrescentado à categoria nesse ano será acrescentado à categoria no primeiro ano fiscal de vigência da presente lei."
+   }
+  },
+  {
+   "id": "TL-H069-A37",
+   "no": 37,
+   "noLabel": {
+    "pt": "Artigo 37.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO II ACTIVIDADES   EMPRESARIAIS"
+   },
+   "heading": {
+    "pt": "Amortização de elementos do activo imobilizado incorpóreo"
+   },
+   "text": {
+    "pt": "e das despesas incorpóreas\n1.     É permitida ao sujeito passivo uma dedução para a amortização dos elementos depreciáveis do activo imobilizado incorpóreo do sujeito passivo durante o ano fiscal.\n2.  A aquisição ou custo de criação, bem como o custo de melhoramento ou renovação de elementos depreciáveis do activo imobilizado incorpóreo, para a utilização do sujeito passivo, deve ser amortizado individualmente segundo o método das quotas constantes, à taxa aplicável especificada no Anexo VII.\n3.    O montante de qualquer despesa incorpórea, com uma vida útil superior a um ano, suportada por um sujeito passivo no exercício de actividades empresariais tributáveis, deve ser amortizado individualmente segundo o método das quotas constantes, à taxa especificada no Anexo VII.\n4.    Quando um elemento do activo imobilizado incorpóreo ou despesa incorpórea é apenas parcialmente utilizado no exercício de actividades empresariais tributáveis, o montante permitido como dedução, nos termos do disposto no presente artigo, é reduzido na proporção da sua utilização não empresarial.\n5.   Quando um elemento do activo imobilizado incorpóreo tiver sido alienado por um sujeito passivo durante um ano fiscal, o custo do elemento do activo deve ser reduzido de quaisquer deduções permitidas nos termos do disposto no presente artigo relativamente ao elemento do activo.\n6.     As despesas com uma vida útil superior a um ano suportadas antes do início de actividades empresariais tributáveis devem ser capitalizadas e individualmente amortizadas segundo o método das quotas constantes à taxa especificada no Anexo VII.\n7.  O número anterior não se aplica ao custo de aquisição de terreno ou a despesas reintegradas nos termos do artigo\n36.º ou dedutíveis ao abrigo de qualquer outra disposição da presente lei."
+   }
+  },
+  {
+   "id": "TL-H069-A38",
+   "no": 38,
+   "noLabel": {
+    "pt": "Artigo 38.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO II ACTIVIDADES   EMPRESARIAIS"
+   },
+   "heading": {
+    "pt": "Reservas ou provisões"
+   },
+   "text": {
+    "pt": "1.   Não é permitida nenhuma dedução relativa a qualquer montante de lucros retidos pelo sujeito passivo para criar uma reserva ou provisão de despesas ou prejuízos esperados.\n2.   É permitida uma dedução a um banco para a provisão de dívidas de cobrança duvidosa, desde que o montante da provisão tenha sido determinado de acordo com as exigências de prudência definidas por instrução da Autoridade Bancária e de Pagamentos.\n3.  O montante da dedução permitida nos termos do número anterior é definido pelo Ministro das Finanças, ouvida a Autoridade Bancária e de Pagamentos."
+   }
+  },
+  {
+   "id": "TL-H069-A39",
+   "no": 39,
+   "noLabel": {
+    "pt": "Artigo 39.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO II ACTIVIDADES   EMPRESARIAIS"
+   },
+   "heading": {
+    "pt": "Dívidas incobráveis"
+   },
+   "text": {
+    "pt": "1.    É permitida a um sujeito passivo uma dedução num ano fiscal por uma dívida incobrável se forem satisfeitas as seguintes condições:\na)  O montante da dívida tiver sido previamente incluído no rendimento tributável da actividade do sujeito passivo;\nb)   A dívida for cancelada na contabilidade do sujeito passivo durante o ano fiscal; e\nc)   O sujeito passivo tiver razões fundamentadas para crer que a dívida não será recuperada.\n2.    O disposto no presente artigo não se aplica a um banco autorizado a uma dedução relativa à sua provisão de dívidas de cobrança duvidosa, nos termos do n.º 2 do artigo 38.º."
+   }
+  },
+  {
+   "id": "TL-H069-A40",
+   "no": 40,
+   "noLabel": {
+    "pt": "Artigo 40.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO II ACTIVIDADES   EMPRESARIAIS"
+   },
+   "heading": {
+    "pt": "Contratos a longo prazo"
+   },
+   "text": {
+    "pt": "Aplica-se o método de percentagem-de-realização para determinar o lucro anual resultante de um contrato de longo prazo."
+   }
+  },
+  {
+   "id": "TL-H069-A41",
+   "no": 41,
+   "noLabel": {
+    "pt": "Artigo 41.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO II ACTIVIDADES   EMPRESARIAIS"
+   },
+   "heading": {
+    "pt": "Locação financeira"
+   },
+   "text": {
+    "pt": "1.    Uma locação financeira é tratada como uma venda e aquisição do bem ou activo alugado ou arrendado.\n2.   O locador é considerado como tendo feito um empréstimo ao locatário igual ao preço de aquisição do bem ou activo e o locatário é considerado como o titular do bem ou activo.\n3.   Cada pagamento feito pelo locatário ao locador é tratado em parte como um reembolso do capital e em parte como um pagamento de juro.\n4.   A parte do juro será calculada sobre o capital devido no momento em que cada pagamento é efectuado.\n5.   Uma locação é financeira se:\na)   O prazo da locação, incluindo qualquer período ao abrigo de uma opção de renovação, for de 75% da vida útil do bem ou activo para fins de reintegração;\nb)   O locatário tiver uma opção de aquisição do bem ou activo por um preço fixo ou determinável no termo do prazo da locação;\nc)   O valor residual estimado do bem ou activo no termo do prazo da locação for inferior a 20% do seu valor de mercado no início da locação;\nd)   No caso de uma locação com início antes dos últimos 25% de vida útil do bem ou activo, o valor actual dos pagamentos mínimos de locação igualar ou exceder 90% do valor de mercado do bem ou activo no início do prazo da locação; ou\ne)   O bem ou activo for concebido  especificamente para o locatário e, após o termo do prazo da locação, o bem ou activo não tiver utilidade prática para qualquer outra pessoa além do locatário."
+   }
+  },
+  {
+   "id": "TL-H069-A42",
+   "no": 42,
+   "noLabel": {
+    "pt": "Artigo 42.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO II ACTIVIDADES   EMPRESARIAIS"
+   },
+   "heading": {
+    "pt": "Ano fiscal alternativo"
+   },
+   "text": {
+    "pt": "1.   O sujeito passivo de imposto sobre o rendimento que leve a efeito actividades empresariais pode requerer, por escrito, à Administração Tributária a utilização de um período de doze meses, designado como \"ano fiscal alternativo\", diferente do ano fiscal aplicável para efeitos do presente capítulo.\n2.   Um sujeito passivo que tenha sido autorizado a usar, ao abrigo do presente artigo, um ano fiscal alternativo, pode solicitar, por escrito, à Administração Tributária, a alteração do ano fiscal  para outro período de doze meses, incluindo o ano fiscal.\n3.   O pedido formulado nos termos do disposto nos n.os 1 ou 2 do presente artigo deverá enunciar as razões para o uso de um ano fiscal alternativo ou da alteração de um ano fiscal alternativo, consoante o caso.\n4.  A Administração Tributária pode conceder autorização, nos termos do disposto nos n.os 1 ou 2 do presente artigo, se considerar que é necessário para a aplicação eficiente da presente lei.\n5.  A Administração Tributária notifica por escrito o sujeito passivo acerca da  sua decisão em relação à solicitação do sujeito passivo para usar ou alterar um ano fiscal alternativo.\n6.  A Administração Tributária pode notificar, por escrito, a revogação da autorização ao sujeito passivo para utilizar um ano fiscal alternativo.\n7.   A Administração Tributária pode especificar:\na)   A data a partir da qual a decisão da Administração Tributária sobre o pedido formulado ao abrigo do presente artigo produz efeitos, sendo o período decorrido entre o último dia do anterior ano fiscal e o novo ano fiscal do sujeito passivo tratado como um ano fiscal distinto;\nb)  Quaisquer normas transitórias adequadas com vista à aplicação da presente lei a uma parte de um ano fiscal quando o sujeito passivo comece a usar um ano fiscal alternativo ou deixe de usar um ano fiscal alternativo.\n8.   Nos casos em que a Administração Tributária autorize o uso de um ano fiscal alternativo pelo sujeito passivo, todas as referências na presente lei a um determinado ano fiscal devem ser entendidas como referências ao ano fiscal alternativo em que cessa esse ano fiscal."
+   }
+  },
+  {
+   "id": "TL-H069-A43",
+   "no": 43,
+   "noLabel": {
+    "pt": "Artigo 43.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO III DISPOSIÇÕES   GERAIS   RELATIVAS   À DETERMINAÇÃO DO   RENDIMENTO   TRIBUTÁVEL"
+   },
+   "heading": {
+    "pt": "Prejuízos"
+   },
+   "text": {
+    "pt": "1.   Se a determinação do rendimento tributável de um sujeito passivo resultar num prejuízo para um ano fiscal, esse prejuízo pode ser deduzido como uma despesa no cálculo do rendimento tributável do sujeito passivo no ano fiscal seguinte e subsequentes até ser totalmente deduzido.\n2.   Se um sujeito passivo tiver suportado um prejuízo referido na alínea c) do artigo 30.º, num ano fiscal, o montante desse prejuízo só pode ser imputado num ganho referido na alínea\nb) do n.º 3 do artigo 28.º, obtido no ano em causa.\n3.   O excedente do prejuízo em relação ao ganho, no ano em causa, pode ser reportado a título de perda no cálculo do rendimento tributável do sujeito passivo no ano fiscal seguinte e anos subsequentes, até ser totalmente deduzido."
+   }
+  },
+  {
+   "id": "TL-H069-A44",
+   "no": 44,
+   "noLabel": {
+    "pt": "Artigo 44.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO III DISPOSIÇÕES   GERAIS   RELATIVAS   À DETERMINAÇÃO DO   RENDIMENTO   TRIBUTÁVEL"
+   },
+   "heading": {
+    "pt": "Recuperação de montantes previamente deduzido"
+   },
+   "text": {
+    "pt": "Quando uma despesa, prejuízo ou dívida incobrável previamente deduzidos sejam recuperados por um sujeito passivo, o montante recuperado deve ser incluído como rendimento no cálculo do rendimento tributável do sujeito passivo no ano fiscal em que o montante foi recuperado."
+   }
+  },
+  {
+   "id": "TL-H069-A45",
+   "no": 45,
+   "noLabel": {
+    "pt": "Artigo 45.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO III DISPOSIÇÕES   GERAIS   RELATIVAS   À DETERMINAÇÃO DO   RENDIMENTO   TRIBUTÁVEL"
+   },
+   "heading": {
+    "pt": "Elementos do activo"
+   },
+   "text": {
+    "pt": "1.   Para os fins de cálculo do rendimento tributável:\na)   Qualquer mais-valia resultante da alienação de um elemento do activo é o montante da compensação ilíquida recebida que exceda o custo desse elemento do activo;\nb) Qualquer menos-valia resultante da alienação de um elemento do activo é o montante do custo desse elemento do activo que exceda a compensação ilíquida recebida.\n2.  Com ressalva do disposto no presente artigo, bem como nos artigos 36.º e 37.º, o custo de um elemento do activo é o montante total pago ou suportado por um sujeito passivo na aquisição, criação, ou construção do elemento do activo, em que esse montante inclui quaisquer despesas acessórias não dedutíveis suportadas na aquisição do elemento do activo e o valor de mercado de qualquer compensação em espécie relativa a esse elemento do activo. As despesas não dedutíveis suportadas para alterar ou melhorar um elemento do activo devem ser acrescentadas ao custo do elemento do activo.\n3.   Com ressalva do disposto no presente artigo, a compensação recebida na alienação de um elemento do activo é o montante total recebido ou susceptível de ser recebido pelo elemento do activo.\n4.  O montante referido no número anterior inclui quaisquer despesas acessórias não dedutíveis suportadas na alienação do elemento do activo e o valor de mercado de qualquer compensação em espécie relativa a esse elemento do activo.\n5.   Quando uma parte de um elemento do activo for alienada, o custo do elemento do activo deve ser imputado proporcionalmente, segundo critérios de razoabilidade, à parte do elemento do activo mantido e à parte alienada.\n6.  Quando um elemento do activo for transmitido entre associados numa transacção que não observe o princípio das entidades independentes, o transmitente é tratado como tendo recebido, e o adquirente é tratado como tendo entregue o valor de mercado do elemento do activo como compensação para a transmissão."
+   }
+  },
+  {
+   "id": "TL-H069-A46",
+   "no": 46,
+   "noLabel": {
+    "pt": "Artigo 46.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO IV PESSOAS"
+   },
+   "heading": {
+    "pt": "Pessoas singulares"
+   },
+   "text": {
+    "pt": "O rendimento tributável de cada pessoa singular é calculado separadamente."
+   }
+  },
+  {
+   "id": "TL-H069-A47",
+   "no": 47,
+   "noLabel": {
+    "pt": "Artigo 47.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO IV PESSOAS"
+   },
+   "heading": {
+    "pt": "Pessoas colectivas"
+   },
+   "text": {
+    "pt": "Uma pessoa colectiva está sujeita a imposto separadamente dos respectivos membros."
+   }
+  },
+  {
+   "id": "TL-H069-A48",
+   "no": 48,
+   "noLabel": {
+    "pt": "Artigo 48.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO IV PESSOAS"
+   },
+   "heading": {
+    "pt": "Mudança na titularidade de uma pessoa colectiva"
+   },
+   "text": {
+    "pt": "1.  No caso de ocorrer uma mudança de 50% ou mais na \"titularidade subjacente\" de uma pessoa colectiva, qualquer reporte de prejuízos suportados num ano fiscal anterior à mudança em causa não é permitido como dedução num ano fiscal após a mudança, salvo se a pessoa colectiva:\na)    Exercer, após a mudança, a mesma actividade que exercia antes da mudança até o prejuízo ser totalmente deduzido; e\nb)   Até o prejuízo ser totalmente deduzido, não iniciar nenhuma nova actividade ou investimento após a mudança, se o objectivo principal da pessoa colectiva ou dos respectivos membros consistir na utilização do prejuízo, de modo a reduzir o imposto sobre o rendimento, que incidirá sobre o rendimento auferido da nova actividade ou investimento."
+   }
+  },
+  {
+   "id": "TL-H069-A49",
+   "no": 49,
+   "noLabel": {
+    "pt": "Artigo 49.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO V ASPECTOS   INTERNACIONAIS   DO   IMPOSTO SOBRE  O RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Fonte de rendimento"
+   },
+   "text": {
+    "pt": "1.   É rendimento auferido em Timor-Leste um montante que seja:\na)   Rendimento de actividades empresariais, com ressalva do disposto na alínea b), levadas a efeito por:\n(i)    Um residente em Timor-Leste; ou (ii)    Um não-residente através de um estabelecimento estável em Timor-Leste, conforme enunciado nos termos do disposto no artigo 52.º;\nb)  Com ressalva do disposto na alínea h), a remuneração por serviços referidos no artigo 54.º desde que a mesma seja paga por uma pessoa residente ou suportada por um estabelecimento estável de uma pessoa não-residente situado em Timor-Leste;\nc)   Rendimento resultante da alienação de qualquer bem móvel utilizado na obtenção de rendimento em Timor- Leste  como referido nas alíneas a) ou b);\nd)   Rendimento resultante da locação de bens imóveis sitos em Timor-Leste, quer tenham beneficiado ou não de melhoramentos, ou de qualquer outro  interesse ou direito em ou sobre bens imóveis, incluindo o direito de pesquisa ou exploração de recursos naturais em Timor- Leste;\ne)   Rendimento resultante da alienação de quaisquer bens ou direitos referido na alínea d) ou da alienação de qualquer participação ou direito numa pessoa colectiva cujos elementos do activo consistam, total ou parcialmente, em bens ou direitos referidos na alínea d);\nf)   Um dividendo pago por uma pessoa colectiva residente;\ng)  Juros, royalties, uma avença de gestão, anuidade ou qualquer outro rendimento pago por um residente ou suportado por um estabelecimento estável de um nãoresidente situado em Timor-Leste; ou\nh) Rendimento resultante da prestação de serviços de transporte por via aérea ou marítima:\n(i)   Entre dois locais em Timor-Leste; (ii)     De um local em Timor-Leste para um local fora de Timor-Leste; ou (iii)   De um local fora de Timor-Leste para um local em Timor-Leste.\n2.  Sem prejuízo do disposto no número anterior, qualquer montante tributável em Timor-Leste nos termos de um tratado fiscal é um rendimento auferido em Timor-Leste.\n3.  O rendimento é considerado auferido no estrangeiro se não for um rendimento auferido de fonte sita em Timor-Leste."
+   }
+  },
+  {
+   "id": "TL-H069-A50",
+   "no": 50,
+   "noLabel": {
+    "pt": "Artigo 50.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO V ASPECTOS   INTERNACIONAIS   DO   IMPOSTO SOBRE  O RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Crédito de imposto estrangeiro"
+   },
+   "text": {
+    "pt": "1.   O sujeito passivo residente terá direito a crédito por qualquer imposto estrangeiro sobre o rendimento pago pelo sujeito passivo, relativo a um rendimento auferido no estrangeiro e incluído no rendimento tributável do sujeito passivo num ano fiscal, sendo o crédito designado por \"crédito de imposto estrangeiro\".\n2.  O crédito de imposto estrangeiro será calculado separadamente para cada país estrangeiro em que o sujeito passivo aufira rendimentos, sendo aplicáveis as regras do artigo anterior na determinação do país de que provém o rendimento, e a referência a Timor-Leste deve ser entendida como uma referência ao país estrangeiro em causa.\n3.  O montante do crédito relativo ao rendimento auferido no país estrangeiro será limitado ao imposto pagável em Timor- Leste sobre esse rendimento, não sendo permitida a dedução nem o reporte para exercício posterior de qualquer excesso de crédito de imposto estrangeiro.\n4.   O montante de imposto estrangeiro pago deve ser objecto de prova adequada, tal como o pagamento feito nos termos de uma liquidação de imposto, de um certificado de retenção na fonte, ou de outro documento semelhante aceite pela Administração Tributária para esse fim."
+   }
+  },
+  {
+   "id": "TL-H069-A51",
+   "no": 51,
+   "noLabel": {
+    "pt": "Artigo 51.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO V ASPECTOS   INTERNACIONAIS   DO   IMPOSTO SOBRE  O RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Prejuízos de fonte estrangeira"
+   },
+   "text": {
+    "pt": "1. As despesas dedutíveis suportadas na obtenção de rendimento auferido num país estrangeiro são imputáveis apenas a esse rendimento.\n2.   Se as despesas globais dedutíveis excederem o rendimento bruto auferido num país estrangeiro num ano fiscal, o montante excedente constitui um prejuízo relativo a esse país estrangeiro autorizado como dedução em relação ao rendimento auferido no país estrangeiro, no ano fiscal seguinte e nos anos fiscais subsequentes até ser totalmente deduzido."
+   }
+  },
+  {
+   "id": "TL-H069-A52",
+   "no": 52,
+   "noLabel": {
+    "pt": "Artigo 52.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO V ASPECTOS   INTERNACIONAIS   DO   IMPOSTO SOBRE  O RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Estabelecimento estável"
+   },
+   "text": {
+    "pt": "1.   O rendimento tributável de um não-residente que leva a cabo actividades empresariais em Timor-Leste através de um estabelecimento estável deve ser calculado tendo como referência o rendimento imputável:\na)   Ao estabelecimento estável;\nb)  A quaisquer vendas efectuadas em Timor-Leste de bens ou mercadoria iguais ou semelhantes aos bens e mercadorias vendidos através do estabelecimento estável; e\nc)   Quaisquer outras actividades empresariais exercidas em Timor-Leste iguais ou semelhantes às efectuadas através do estabelecimento estável.\n2.  São aplicáveis os seguintes princípios para determinar o rendimento tributável de um estabelecimento estável de uma pessoa não-residente, situado em Timor-Leste:\na)   O lucro do estabelecimento estável deve ser calculado para uma pessoa distinta, exercendo actividades idênticas ou semelhantes, em condições idênticas ou semelhantes e trata-se com absoluta independência da pessoa não-residente da qual é um estabelecimento estável;\nb)  Com ressalva do disposto na presente lei, pode ser requerida a dedução de despesas contraídas para os fins empresariais do estabelecimento estável, incluindo as despesas de direcção ou despesas gerais de administração suportadas quer em Timor-Leste quer fora do seu território;\nc)   Não pode ser requerida qualquer dedução para montantes pagos ou que devam ser pagos pelo estabelecimento estável à respectiva sede ou a outro estabelecimento estável da pessoa não-residente, salvo no caso de reembolso de despesas efectivas suportadas pela pessoa não-residente face a terceiros, por meio de:\n(i)    Royalties, honorários ou outros pagamentos semelhantes pela utilização de elementos depreciáveis do activo imobilizado corpóreo ou incorpóreo pelo estabelecimento estável; (ii)  Compensação por quaisquer serviços, incluindo serviços de gestão, prestados ao estabelecimento estável; (iii)  Juros sobre empréstimos concedidos ao estabelecimento estável, excepto em conexão com uma actividade bancária;\nd)   Na determinação do rendimento bruto de um estabelecimento estável não serão tidos em atenção os montantes cobrados pelo estabelecimento estável à respectiva sede ou a outro estabelecimento estável da pessoa nãoresidente, salvo no caso de reembolso de despesas efectivas suportadas pelo estabelecimento estável face a terceiros, por meio de:\n(i)  Royalties, honorários ou outros pagamentos semelhantes pelo uso de quaisquer elementos depreciáveis do activo imobilizado corpóreo ou incorpóreo; (ii)  Compensação por quaisquer serviços, incluindo serviços de gestão, prestados pelo estabelecimento estável; (iii)  Juros sobre empréstimos concedidos pelo estabelecimento estável, excepto em conexão com uma actividade bancária."
+   }
+  },
+  {
+   "id": "TL-H069-A53",
+   "no": 53,
+   "noLabel": {
+    "pt": "Artigo 53.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO VI RETENÇÃO   NA   FONTE   DO   IMPOSTO"
+   },
+   "heading": {
+    "pt": "Pagamento de serviços"
+   },
+   "text": {
+    "pt": "1.   O presente artigo aplica-se a qualquer pessoa que efectue o pagamento de uma importância relativa a serviços prestados em Timor-Leste a uma pessoa que:\na)   Efectue actividades de construção ou edificação;\nb)   Preste serviços de consultoria na área da construção;\nc)   Preste serviços de transporte por via aérea ou marítima;\nd)   Efectue actividades mineiras ou serviços de apoio à exploração mineira.\n2.   Exceptuando os casos em que se aplica o disposto no número seguinte, qualquer pessoa que não seja uma pessoa singular, que faça um pagamento ao qual o presente artigo se aplica, deve reter imposto do pagamento ilíquido, à taxa prevista para o pagamento no Anexo VIII.\n3.   O beneficiário de um pagamento a que o presente  artigo se aplica deve reter imposto do pagamento ilíquido recebido, à taxa prevista para o pagamento no Anexo VIII, se:\na)   O pagador for uma pessoa singular, as Nações Unidas ou as suas agências especializadas;\nb)  O beneficiário for uma pessoa que presta serviços de transporte por via aérea ou marítima."
+   }
+  },
+  {
+   "id": "TL-H069-A54",
+   "no": 54,
+   "noLabel": {
+    "pt": "Artigo 54.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO VI RETENÇÃO   NA   FONTE   DO   IMPOSTO"
+   },
+   "heading": {
+    "pt": "Royalties"
+   },
+   "text": {
+    "pt": "1.  Qualquer pessoa, que não seja uma pessoa singular, que efectue o pagamento de royalties a um residente ou a um estabelecimento estável de um não-residente situado em Timor-Leste, deve reter imposto do montante ilíquido das royalties pagas, à taxa de 10%.\n2.   Quando a pessoa que efectua o pagamento das royalties é uma pessoa singular, o beneficiário do pagamento deve reter imposto do pagamento ilíquido recebido, à taxa de 10%."
+   }
+  },
+  {
+   "id": "TL-H069-A55",
+   "no": 55,
+   "noLabel": {
+    "pt": "Artigo 55.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO VI RETENÇÃO   NA   FONTE   DO   IMPOSTO"
+   },
+   "heading": {
+    "pt": "Renda"
+   },
+   "text": {
+    "pt": "1.  Qualquer pessoa, que não seja uma pessoa singular, que efectue o pagamento de renda a um residente ou a um estabelecimento estável de um não-residente situado em Timor- Leste pela locação de terreno ou edifícios, deve reter o imposto do montante ilíquido da renda paga, à taxa de 10%.\n2.   Quando a pessoa que paga renda pela locação de terreno ou edifícios é uma pessoa singular ou quando o pagador é as Nações Unidas ou suas agências especializadas, o beneficiário do pagamento deve reter imposto do pagamento ilíquido recebido, à taxa de 10%."
+   }
+  },
+  {
+   "id": "TL-H069-A56",
+   "no": 56,
+   "noLabel": {
+    "pt": "Artigo 56.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO VI RETENÇÃO   NA   FONTE   DO   IMPOSTO"
+   },
+   "heading": {
+    "pt": "Prémios e ganhos do jogo"
+   },
+   "text": {
+    "pt": "Qualquer pessoa que efectue o pagamento de um prémio, incluindo um ganho de jogo ou prémio de lotaria a um residente ou a um estabelecimento estável de um não-residente situado em Timor-Leste, deve reter imposto do montante ilíquido recebido, à taxa de 10%."
+   }
+  },
+  {
+   "id": "TL-H069-A57",
+   "no": 57,
+   "noLabel": {
+    "pt": "Artigo 57.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO VI RETENÇÃO   NA   FONTE   DO   IMPOSTO"
+   },
+   "heading": {
+    "pt": "Retenção na fonte de não residentes"
+   },
+   "text": {
+    "pt": "Qualquer pessoa que efectue um pagamento a um não-residente de rendimento auferido em Timor-Leste, com excepção do pagamento a que se aplica o artigo 52.º, deve reter imposto do montante ilíquido do pagamento, à taxa de 10%."
+   }
+  },
+  {
+   "id": "TL-H069-A58",
+   "no": 58,
+   "noLabel": {
+    "pt": "Artigo 58.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO VI RETENÇÃO   NA   FONTE   DO   IMPOSTO"
+   },
+   "heading": {
+    "pt": "Obrigação relativa à retenção de imposto sobre um pagamento"
+   },
+   "text": {
+    "pt": "1.  Qualquer pessoa que tenha retido o imposto sobre um pagamento por si efectuado, em conformidade com as disposições da presente secção, deve fazer entrega do imposto retido à Autoridade Bancária e de Pagamentos ou a outra entidade designada pela Administração Tributária, no prazo de quinze dias após o fim do mês em que o pagamento foi efectuado.\n2.  No momento do pagamento, o pagador deve entregar ao beneficiário do pagamento um recibo de retenção de imposto, indicando o montante do pagamento efectuado e o montante do imposto retido relativo a esse pagamento.\n3.  Qualquer pessoa que não retenha o imposto sobre um pagamento por si efectuado, em conformidade com as disposições da presente secção, é imediatamente responsável pelo pagamento do montante do imposto que não foi retido junto da Autoridade Bancária e de Pagamentos ou a outra entidade designada pela Administração Tributária e pode exercer o direito de regresso, relativamente ao montante em causa, junto do beneficiário do pagamento.\n4.  Qualquer pessoa que, nos termos do disposto na presente secção, tenha retido imposto sobre um pagamento por si efectuado e tenha feito entrega do imposto retido à Autoridade Bancária e de Pagamentos ou a outra entidade designada pela Administração Tributária é considerada como tendo pago o montante retido ao beneficiário do pagamento para efeitos de qualquer reclamação por essa pessoa do pagamento do montante retido.\n5.  Qualquer imposto retido por uma pessoa, nos termos do disposto na presente secção, sobre um pagamento por si efectuado é mantido pela mesma pessoa na qualidade de agente face à Administração Tributária.\n6.  No caso de liquidação ou falência da pessoa em causa, qualquer montante de imposto retido não faz parte dos bens patrimoniais do pagador em liquidação ou falência, e a Administração Tributária tem preferência na reclamação do montante relativo ao imposto retido, antes de ser feita qualquer distribuição do património."
+   }
+  },
+  {
+   "id": "TL-H069-A59",
+   "no": 59,
+   "noLabel": {
+    "pt": "Artigo 59.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO VI RETENÇÃO   NA   FONTE   DO   IMPOSTO"
+   },
+   "heading": {
+    "pt": "Auto-retenção de imposto"
+   },
+   "text": {
+    "pt": "Todo e qualquer beneficiário de um pagamento a quem é exigida a retenção do imposto sobre o mesmo, nos termos da presente secção, deve fazer entrega do imposto retido à Autoridade Bancária e de Pagamentos ou a outra entidade designada pela Administração Tributária, no prazo de quinze dias após o fim do mês em que o pagamento foi recebido."
+   }
+  },
+  {
+   "id": "TL-H069-A60",
+   "no": 60,
+   "noLabel": {
+    "pt": "Artigo 60.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO VI RETENÇÃO   NA   FONTE   DO   IMPOSTO"
+   },
+   "heading": {
+    "pt": "Disposições gerais em matéria de retenção na fonte"
+   },
+   "text": {
+    "pt": "1.   A presente secção não se aplica a qualquer montante não sujeito a imposto sobre o rendimento.\n2.   O montante do imposto retido de um pagamento, nos termos da presente secção, é considerado como rendimento auferido pelo beneficiário do pagamento no momento da retenção do imposto.\n3. Excepto nos casos em que é aplicado o artigo 61.º, no caso de retenção de imposto sobre o rendimento auferido por uma pessoa, a mesma beneficia de um crédito de imposto relativo a ao montante retido, a deduzir do imposto devido pela pessoa em causa respeitante ao rendimento tributável do ano fiscal em que o imposto foi retido.\n4.   O crédito de imposto previsto no presente artigo é aplicado nos termos do n.º 4 do artigo 26.º.\n5.   O crédito de imposto ou a parte do crédito de imposto concedido relativamente a um ano fiscal e que não seja susceptível de ser creditado nos termos do disposto no n.º 4 do artigo 26º, relativamente a esse ano, é considerado imposto pago em excesso nos termos do regime jurídico para liquidação do imposto.\n6.   O regime jurídico relativo à cobrança e recuperação do imposto aplica-se a qualquer montante retido ou que deva ser retido nos termos do disposto na presente secção.\n7.   A Administração Tributária pode efectuar a liquidação adicional de imposto sobre o rendimento devido por uma pessoa ou tratar qualquer pagamento em excesso, quando essa pessoa recebe rendimentos que não tenham sido correctamente sujeitos a retenção na fonte.\n8.   O pagamento do imposto liquidado nos termos do disposto no número anterior é devido e deve ser pago no prazo de um mês a contar da data em que a pessoa recebe a nota de liquidação."
+   }
+  },
+  {
+   "id": "TL-H069-A61",
+   "no": 61,
+   "noLabel": {
+    "pt": "Artigo 61.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO VI RETENÇÃO   NA   FONTE   DO   IMPOSTO"
+   },
+   "heading": {
+    "pt": "Retenção do imposto a título definitivo"
+   },
+   "text": {
+    "pt": "1.   O disposto no presente artigo aplica-se:\na)   Com ressalva do disposto no n.º 2, aos pagamentos de serviços sujeitos a retenção de imposto nos termos do disposto no artigo 53.º;\nb)  Aos prémios e ganhos do jogo sujeitos a retenção de imposto nos termos do disposto no artigo 56.º, ou aos pagamentos a não-residentes sujeitos a retenção de imposto nos termos do disposto no artigo 57.º; ou\nc)    As royalties sujeitas a retenção de imposto nos termos do disposto no artigo 54.º, ou às rendas de terras e edifícios sujeitas a retenção de imposto nos termos do disposto no artigo 55.º, mas unicamente se o beneficiário das royalties ou das rendas for uma pessoa singular.\n2.   O beneficiário de pagamentos por serviços sujeitos a retenção de imposto nos termos do disposto no artigo 53.º pode optar pela não aplicação do presente artigo aos referidos pagamentos, mediante notificação por escrito dirigida à Administração Tributária, sendo esta  opção irrevogável.\n3.    A pessoa que receba um montante a que se aplica o presente artigo e que tenha sido correctamente sujeito a retenção de imposto ao abrigo da presente lei não tem mais nenhuma obrigação de imposto no que respeita ao imposto sobre o rendimento incidente sobre esses montantes.\n4.   Quando o imposto retido é um imposto final sobre o rendimento do beneficiário do pagamento nos termos do disposto no número anterior:\na)   Não é exigida ao beneficiário mais nenhuma obrigação de imposto relativa ao rendimento sobre o qual o imposto incidiu;\nb)  O referido rendimento não é englobado com o outro rendimento do beneficiário para efeitos de determinação do rendimento tributável do beneficiário;\nc)    Não é permitida nenhuma dedução, incluindo qualquer dedução de reintegração ou amortização,  relativa a qualquer despesa ou prejuízo suportado na obtenção do rendimento; e\nd)   Não há lugar a qualquer reembolso do imposto relativo ao rendimento em causa"
+   }
+  },
+  {
+   "id": "TL-H069-A62",
+   "no": 62,
+   "noLabel": {
+    "pt": "Artigo 62.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO VII PROCEDIMENTO  RELATIVO  AO  IMPOSTO  SOBRE O  RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Entrega das declarações de imposto sobre o rendimento"
+   },
+   "text": {
+    "pt": "1.   As pessoas a seguir indicadas devem entregar à Autoridade Bancária e de Pagamentos ou a outra entidade designada pela Administração Tributária uma declaração de imposto sobre o rendimento, preenchida devidamente conforme instruções da Administração Tributária, na data por ele indicada:\na)   Qualquer pessoa que deva pagar imposto sobre o rendimento nos termos da presente lei, incluindo qualquer pessoa que tenha suportado prejuízos num ano fiscal; e\nb)   Outras pessoas ou categorias de pessoas que a Administração Tributária venha a indicar.\n2.   Um sujeito passivo de imposto sobre o rendimento a quem é exigida a entrega de uma declaração preenchida do imposto sobre rendimento, relativa a um ano fiscal, à Autoridade Bancária e de Pagamentos ou a outra entidade designada pela Administração Tributária, nos termos do disposto no número anterior, deve entregar a declaração até ao último dia do terceiro mês após o fim do ano fiscal.\n3.   A declaração do imposto sobre o rendimento de um sujeito passivo exercendo actividades empresariais deve ser acompanhada pela declaração de rendimentos do sujeito passivo, folha de balanço e declaração de cash-flow ou mapa de fluxo de tesouraria, para esse ano fiscal.\n4.   Um sujeito passivo de imposto sobre o rendimento pode requerer, por escrito, à Administração Tributária a prorrogação do prazo para entrega da declaração de imposto sobre o rendimento.\n5. O requerimento referido no número anterior deve ser acompanhado por uma declaração do sujeito passivo calculando o montante do imposto sobre o rendimento devido no ano fiscal e pelo documento comprovativo do apuramento do imposto devido.\n6.   A Administração Tributária pode notificar, por escrito, autorizando a prorrogação desse prazo de entrega da declaração de imposto sobre o rendimento, sendo que a autorização de prorrogação do prazo não altera a data de vencimento para o pagamento do imposto."
+   }
+  },
+  {
+   "id": "TL-H069-A63",
+   "no": 63,
+   "noLabel": {
+    "pt": "Artigo 63.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO VII PROCEDIMENTO  RELATIVO  AO  IMPOSTO  SOBRE O  RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Data de vencimento do pagamento do imposto sobre o rendimento"
+   },
+   "text": {
+    "pt": "Sem prejuízo do disposto no presente diploma, o imposto sobre o rendimento exigível a um sujeito passivo de imposto sobre o rendimento relativamente a um ano fiscal é devido na data prevista para a entrega da declaração de imposto sobre o rendimento do sujeito passivo relativa ao ano em causa."
+   }
+  },
+  {
+   "id": "TL-H069-A64",
+   "no": 64,
+   "noLabel": {
+    "pt": "Artigo 64.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII IMPOSTO   SOBRE   O   RENDIMENTO / SECÇÃO VII PROCEDIMENTO  RELATIVO  AO  IMPOSTO  SOBRE O  RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Prestação de imposto sobre o rendimento"
+   },
+   "text": {
+    "pt": "1.   Sem prejuízo do disposto no número seguinte, os sujeitos passivos de imposto sobre o rendimento efectuam pagamentos em prestações mensais do imposto sobre o rendimento correspondente a um ano fiscal. O montante de cada prestação é de 0,5% do volume de negócios total mensal do sujeito passivo.\n2.   O sujeito passivo de imposto cujo volume de negócios total no ano fiscal anterior seja de montante não superior a US$ 1.000.000 efectua pagamentos trimestrais de imposto sobre os rendimentos respeitantes ao ano em causa. As prestações correspondem aos trimestres findos no último dia do terceiro, sexto, nono e décimo segundo mês do ano fiscal, sendo o montante de cada prestação de 0,5% do volume de negócios total do sujeito passivo no trimestre.\n3.   As prestações de imposto sobre o rendimento são pagas até ao décimo quinto dia contado a partir do fim do período a que se referem.\n4.   As prestações de imposto sobre o rendimento pagas por um sujeito passivo desse imposto num determinado ano fiscal, são deduzidas ao imposto sobre o rendimento do sujeito passivo relativo a esse mesmo ano.\n5.   Quando o montante das prestações exceder a obrigação do sujeito passivo relativa ao imposto sobre o rendimento, o excedente é considerado imposto pago em excesso.\n6.    Para efeitos do presente artigo, o volume de negócios total do sujeito passivo num mês não inclui qualquer montante obtido nesse mês que seja rendimento isento ou esteja sujeito a retenção na fonte."
+   }
+  },
+  {
+   "id": "TL-H069-A65",
+   "no": 65,
+   "noLabel": {
+    "pt": "Artigo 65.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII REGRAS   GERAIS   APLICÁVEIS   AOS   IMPOSTOS"
+   },
+   "heading": {
+    "pt": "Conversão cambial"
+   },
+   "text": {
+    "pt": "1.   Qualquer montante tido em conta para efeitos da presente lei deve ser calculado em dólares dos Estados Unidos.\n2.   Com ressalva do disposto no número seguinte, quando um montante é expresso noutra moeda que não o dólar dos Estados Unidos, esse montante deve ser convertido à taxa de cotação cambial média da Autoridade Bancária e de Pagamentos, aplicável entre a moeda e o dólar dos Estados Unidos, na data em que o montante é tomado em consideração para fins fiscais.\n3.   Com prévia autorização por escrito da Administração Tributária, um sujeito passivo que leve a cabo actividades empresariais pode usar a cotação cambial média no ano fiscal ou parte do ano fiscal."
+   }
+  },
+  {
+   "id": "TL-H069-A66",
+   "no": 66,
+   "noLabel": {
+    "pt": "Artigo 66.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII REGRAS   GERAIS   APLICÁVEIS   AOS   IMPOSTOS"
+   },
+   "heading": {
+    "pt": "Valor de mercado"
+   },
+   "text": {
+    "pt": "1.   As entradas em espécie devem ser contabilizadas segundo o justo valor de mercado à data em que são tomadas em conta para fins fiscais.\n2.   O justo valor de mercado de um bem ou activo deve ser determinado sem ter em conta qualquer restrição quanto à alienação."
+   }
+  },
+  {
+   "id": "TL-H069-A67",
+   "no": 67,
+   "noLabel": {
+    "pt": "Artigo 67.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII REGRAS   GERAIS   APLICÁVEIS   AOS   IMPOSTOS"
+   },
+   "heading": {
+    "pt": "Remunerações isentas"
+   },
+   "text": {
+    "pt": "A remuneração auferida por serviços prestados por pessoas singulares e financiada pelo Fundo de Garantia para Timor- Leste é isenta de imposto sobre os salários e de imposto sobre o rendimento."
+   }
+  },
+  {
+   "id": "TL-H069-A68",
+   "no": 68,
+   "noLabel": {
+    "pt": "Artigo 68.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO I DISPOSIÇÕES   PRELIMINARES"
+   },
+   "heading": {
+    "pt": "Interpretação do capítulo IX"
+   },
+   "text": {
+    "pt": "1.   Para efeitos do presente capítulo, entende-se por:\n\"Área conjunta de desenvolvimento petrolífero\", a área referida no Artigo 3.º do Tratado do Mar de Timor;\n\"Área do contrato\", a área que é objecto de um contrato petrolífero e, se uma parte dessa área do contrato for abandonada, conforme o disposto num contrato petrolífero, a área do contrato é a área autorizada originariamente;\n\"Autoridade Nomeada\", a autoridade nomeada referida no\nArtigo 6.º do Tratado do Mar de Timor;\n\"Autorização de uso de percolação\" tem o significado que lhe é atribuído pela Lei das Actividades Petrolíferas de Timor- Leste;\n\"Código\", o Código de Exploração Mineira do Petróleo acordado e adoptado por Timor-Leste e a Austrália, ao abrigo do\nArtigo 7.º do Tratado do Mar de Timor, integrando as correcções, alterações ou derrogações que ocorram de tempos a tempos, e bem assim os regulamentos e outros actos de aplicação do mesmo;\n\"Contratante\", uma pessoa com quem o Ministério ou a Autoridade Nomeada, consoante o caso, celebrou ou adjudicou um contrato petrolífero;\n\"Contratante pelo Estado\", um contratante incorporado segundo as leis de Timor-Leste que é controlado, directa ou indirectamente, por Timor-Leste.\n\"Contrato aprovado\", um contrato celebrado pelo contratante e aprovado pelo Ministério ou pela Autoridade Nomeada, consoante o caso, como parte de um plano de desenvolvimento;\n\"Contrato de garantia de desactivação\", o contrato de garantia de desactivação aprovado pelo Ministério ou pela Autoridade Nomeada, consoante o caso, ao abrigo de um contrato petrolífero;\n\"Contrato petrolífero\":\na)   Um contrato, licença ou qualquer outra autorização celebrado ou adjudicado, relativamente a explorações petrolíferas, ou concedido no âmbito da Lei de Petróleo de Timor- Leste, excepto a autorização de uso de percolação; ou\nb)   Uma autorização ou contrato de partilha de produção concedido, celebrado ou adjudicado ao abrigo do Código;\n\"Custos totais de desactivação aprovados\", os custos totais de desactivação aprovados pelo Ministério ou pela autoridade nomeada, consoante o caso, de acordo com o plano de desactivação previsto ao abrigo do contrato petrolífero, e com as alterações introduzidas ao longo do tempo;\n\"Despesas de desenvolvimento\" a despesa efectuada, após a aprovação do plano de desenvolvimento pelo Ministério ou pela Autoridade Nomeada, com a preparação de um local ou estaleiro para as operações petrolíferas, incluindo a perfuração e o acabamento dos poços de produção, e a construção de instalações de produção, mas não inclui nenhuma despesa efectuada com a aquisição ou construção de um oleoduto ou com a aquisição de um activo depreciável;\n\"Despesas de pesquisa\", as despesas relativas a levantamentos geológicos, geofísicos e geoquímicos, perfuração de pesquisa ou avaliação, ou estudos de viabilidade e de impacte ambiental, efectuadas na condução de operações petrolíferas previamente à aprovação de um plano de desenvolvimento pelo Ministério ou pela Autoridade Nomeada, consoante o caso;\n\"Gás natural\" significa todos os hidrocarbonetos em forma gasosa, incluindo o gás mineral húmido, o gás mineral seco, o gás associado e o gás residual que permaneça depois da extracção de hidrocarbonetos líquidos do gás húmido, com excepção do petróleo bruto;\n\"Lei de Petróleo de Timor-Leste\", a Lei das Actividades Petrolíferas em Timor-Leste, de 2004, com as correcções, alterações, derrogações ou substituições que ocorram ao longo do tempo, e inclui quaisquer regulamentos aprovados ao abrigo da mesma lei;\n\"Ministério\", o Ministério responsável, em cada momento, pela administração da Lei de Petróleo de Timor-Leste;\n\"Operações petrolíferas\", as actividades autorizadas ao abrigo de um contrato petrolífero;\n\"Petróleo bruto\", o petróleo mineral bruto e todos os hidrocarbonetos líquidos no seu estado natural, ou obtidos através do gás natural por condensação ou extracção;\n\"Plano de desactivação\", o plano de desactivação aprovado pelo Ministério ou pela autoridade nomeada, consoante o caso, ao abrigo de um contrato petrolífero;\n\"Plano de desenvolvimento\", o plano para desenvolvimento e produção de recursos petrolíferos na área do contrato aprovado pelo Ministério ou pela Autoridade Nomeada, consoante o caso;\n\"Ponto de exportação do campo\", o momento ou o local a partir do qual o petróleo de uma área do contrato sai desta área, ou o momento ou local anterior em que é carregado ou entra para uma embarcação, oleoduto ou outro meio de transporte para ser transportado a partir da área do contrato;\n\"Reservas\", a quantidade estimada de petróleo que poderá ser extraída com lucro, tratada, transformada e vendida em condições económicas normais e previsíveis;\n\"Serviços\" inclui a locação de equipamento;\n\"Subcontratante\", qualquer pessoa que, directa ou indirectamente, fornece bens ou presta serviços a um contratante relativamente a operações petrolíferas; e \"Transacção segundo o princípio das entidades independentes\", uma transacção entre partes que observem esse princípio.\n2.  Em caso de discrepância entre este capítulo e os outros capítulos da presente lei, este capítulo prevalece."
+   }
+  },
+  {
+   "id": "TL-H069-A69",
+   "no": 69,
+   "noLabel": {
+    "pt": "Artigo 69.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO I DISPOSIÇÕES   PRELIMINARES"
+   },
+   "heading": {
+    "pt": "Âmbito de aplicação"
+   },
+   "text": {
+    "pt": "O presente capítulo aplica-se ao território de Timor-Leste, incluindo o seu mar territorial, e à sua zona económica exclusiva e plataforma continental, relativamente aos quais, segundo o direito internacional Timor-Leste tem direitos de soberania para finalidades de pesquisa e exploração dos seus recursos naturais e aplica-se à Área Conjunta de Desenvolvimento Petrolífero, com excepção da área coberta pelos Contratos de Partilha de Produção indicadas no Anexo F do Tratado do Mar de Timor."
+   }
+  },
+  {
+   "id": "TL-H069-A70",
+   "no": 70,
+   "noLabel": {
+    "pt": "Artigo 70.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO II REGIME   FISCAL   DO   PETRÓLEO"
+   },
+   "heading": {
+    "pt": "Tributação dos contratantes, subcontratantes e outras pessoas"
+   },
+   "text": {
+    "pt": "Um Contratante e um Subcontratante e qualquer pessoa que receba uma quantia como contrapartida de bens e serviços fornecidos ao Contratante e Subcontratante estão sujeitos a imposto nos termos da presente lei e de acordo com as alterações introduzidas neste Capítulo."
+   }
+  },
+  {
+   "id": "TL-H069-A71",
+   "no": 71,
+   "noLabel": {
+    "pt": "Artigo 71.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO III IMPOSTOS   INDIRECTOS"
+   },
+   "heading": {
+    "pt": "Impostos indirectos"
+   },
+   "text": {
+    "pt": "1.  O imposto sobre o valor acrescentado que Timor-Leste pode lançar ao abrigo do Tratado do Mar de Timor na Área Conjunta de Desenvolvimento Petrolífero continua a aplicar-se nessa Área.\n2.   A taxa do imposto sobre serviços aplicável à prestação de serviços designados a um Contratante em conexão com operações petrolíferas, excepto na Área Conjunta de Desenvolvimento Petrolífero, é de 12%.\n3.   A taxa do imposto sobre vendas aplicável à importação de bens por um Contratante em conexão com operações petrolíferas, excepto na Área Conjunta de Desenvolvimento Petrolífero, é de 6%.\n4.   A taxa dos direitos aduaneiros de importação aplicável à importação de bens por um Contratante em conexão com operações petrolíferas, excepto na Área Conjunta de Desenvolvimento Petrolífero, é de 6%."
+   }
+  },
+  {
+   "id": "TL-H069-A72",
+   "no": 72,
+   "noLabel": {
+    "pt": "Artigo 72.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO IV IMPOSTO   SOBRE   O   RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Taxa de tributação"
+   },
+   "text": {
+    "pt": "1.  A taxa do imposto sobre as sociedades aplicável a um Contratante, relativamente a um ano fiscal, é de 30%.\n2.   As taxas do imposto sobre salários de empregados de um Contratante são as constantes do Anexo IX.\n3.   Um Contratante não obterá qualquer rendimento ou ganho de capital, nem incorrerá em quaisquer prejuízos, para efeitos de imposto sobre o rendimento, em resultado da decisão de Timor-Leste de participar em Operações Petrolíferas, através de um Contratante pelo Estado, ao abrigo do artigo 22º da Lei das Actividades Petrolíferas."
+   }
+  },
+  {
+   "id": "TL-H069-A73",
+   "no": 73,
+   "noLabel": {
+    "pt": "Artigo 73.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO IV IMPOSTO   SOBRE   O   RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Limites às deduções"
+   },
+   "text": {
+    "pt": "1.   Com ressalva do disposto no n.º 4 do presente artigo, qualquer montante que o Contratante possa deduzir ao abrigo da presente lei, em relação às Operações Petrolíferas por ele conduzidas numa Área do Contrato, num ano fiscal, só é dedutível do rendimento bruto obtido através dessas Operações Petrolíferas na Área do Contrato, nesse ano.\n2.   Se, em qualquer ano fiscal, as deduções totais permitidas a um Contratante, relativas às Operações petrolíferas conduzidas numa Área do Contrato, excederem o total de rendimento bruto obtido através dessas Operações Petrolíferas na Área do Contrato, o excesso é reportado para o ano fiscal seguinte e aceite como dedução do rendimento bruto resultante de tais Operações Petrolíferas na Área do Contrato, nesse ano.\n3.  Qualquer montante não deduzido ao abrigo do n.º 2 do presente artigo é reportado para o ano fiscal seguinte e permitida a sua dedução nesse ano, segundo o disposto no número anterior, e nos exercícios seguintes até que o excesso tenha sido totalmente deduzido ou cessem as Operações Petrolíferas na Área do Contrato.\n4.  Se um Contrato de Partilha de Produção, designado por \"CPP originário\", respeitante à Área Conjunta de Desenvolvimento Petrolífero, de que é adjudicatário o Contratante, tiver sido celebrado ou adjudicado antes da entrada em vigor da presente lei mas cessar a sua vigência, e se for celebrado ou adjudicado um novo Contrato de Partilha de Produção, designado por \"CPP subsequente\", ao mesmo Contratante, quaisquer prejuízos do Contratante, apurados no momento da cessação de vigência do CPP originário, são dedutíveis ao abrigo do presente artigo, sendo reportados para o primeiro ano fiscal respeitante à actividade do Contratante relativa à Área do Contrato coberta pelo CPP subsequente, desde que:\na)   Toda a área geográfica coberta pela Área do Contrato do CPP subsequente faça parte da Área do Contrato originário; e\nb)   O CPP subsequente tenha iniciado a sua vigência imediatamente após a cessação da vigência do CPP originário."
+   }
+  },
+  {
+   "id": "TL-H069-A74",
+   "no": 74,
+   "noLabel": {
+    "pt": "Artigo 74.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO IV IMPOSTO   SOBRE   O   RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Dedução de Juros"
+   },
+   "text": {
+    "pt": "1.  Não obstante o disposto na alínea k) do artigo 31º e com ressalva do disposto no número seguinte, o Contratante pode deduzir os encargos com juros suportados em relação a operações petrolíferas.\n2.   O montante total de encargos com juros que pode ser deduzido pelo Contratante em relação a operações petrolíferas, num ano fiscal, não excede o equivalente à soma dos juros percebidos pelo Contratante nesse ano mais 25% do rendimento líquido do Contratante, excluídos os juros, percebido no mesmo ano. O rendimento líquido do Contratante, excluídos os juros, é o rendimento ilíquido anual do Contratante, exceptuados os rendimentos de juros, menos o valor total das deduções permitidas ao Contratante no ano em causa, excluída a dedução de encargos com juros.\n3.   O montante de encargos com juros não deduzidos num determinado ano fiscal, em virtude do disposto no nº 2 do presente artigo, pode ser reportado para o ano fiscal seguinte a título de encargos com juros suportados pelo Contratante.\n4.   O valor reportado nos termos do número anterior pode ser reportado durante um período máximo de cinco anos fiscais.\nSe o sujeito passivo reportar encargos com juros por um período superior a um ano fiscal, o encargo com juros suportado no primeiro ano fiscal é deduzido primeiro."
+   }
+  },
+  {
+   "id": "TL-H069-A75",
+   "no": 75,
+   "noLabel": {
+    "pt": "Artigo 75.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO IV IMPOSTO   SOBRE   O   RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Imputação de despesas"
+   },
+   "text": {
+    "pt": "Se o Contratante for um não-residente com um estabelecimento estável em Timor-Leste, o montante dedutível das Despesas da Sede, num ano fiscal, ao abrigo da alínea b) do n.º 2 do\nArtigo 52.º, não excederá 2% das despesas totais dedutíveis, com excepção das despesas que originam deduções de reintegração ou de amortização do estabelecimento estável, nesse ano fiscal, excluindo as Despesas da Sede."
+   }
+  },
+  {
+   "id": "TL-H069-A76",
+   "no": 76,
+   "noLabel": {
+    "pt": "Artigo 76.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO IV IMPOSTO   SOBRE   O   RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Reserva de custo de desactivação e despesas de desactivação"
+   },
+   "text": {
+    "pt": "1.   Não obstante o disposto no artigo 38.º, a provisão constituída pelo Contratante para a reserva de custos de desactivação relativos às Operações Petrolíferas, num ano fiscal, é dedutível no cálculo do rendimento tributável do Contratante, respeitante ao mesmo ano fiscal. A provisão constituída pode ser deduzida a partir do ano fiscal em que as estimativas dos montantes exigidos para financiar um Plano de Desactivação sejam imputadas, pela primeira vez, a título de custo recuperável ao abrigo do Contrato Petrolífero.\n2.   A provisão de custos de desactivação é calculada por referência aos Custos Totais de Desactivação Aprovados e o montante acumulado na provisão, respeitante a um ano fiscal, é o montante determinado para esse ano, ao abrigo do Contrato Petrolífero.\n3.   As despesas de Desactivação efectuadas por um Contratante num ano fiscal, designado \"ano fiscal corrente\", não são dedutíveis, salvo na medida em que o montante total das despesas de desactivação efectuadas pelo Contratante no ano fiscal corrente e nos anos fiscais anteriores exceda o montante calculado de acordo com a seguinte fórmula:\n(A + B) - C Em que:\nA   é o montante total dedutível nos termos do disposto no n.º 1 do presente Artigo, no ano fiscal corrente e anos fiscais anteriores;\nB   é o montante total dedutível nos termos do disposto no n.º 3 do presente Artigo, em anos fiscais anteriores; e C   é o montante total incluído no rendimento bruto do Contratante, nos termos do disposto no n.º 4 do presente Artigo, no ano fiscal corrente e anos fiscais anteriores.\n4.    Se, num determinado ano fiscal, o montante total dedutível ao abrigo do presente artigo exceder os Custos Totais de Desactivação Aprovados, o montante excedente é incluído nos rendimentos brutos do Contratante, no ano fiscal em que esse montante em excesso ocorrer."
+   }
+  },
+  {
+   "id": "TL-H069-A77",
+   "no": 77,
+   "noLabel": {
+    "pt": "Artigo 77.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO IV IMPOSTO   SOBRE   O   RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Reintegração e amortização"
+   },
+   "text": {
+    "pt": "1.   Sem prejuízo das modificações introduzidas no presente artigo e no artigo 78º, um Contratante deve reintegrar e amortizar todos os elementos depreciáveis do activo imobilizado corpóreo e incorpóreo, nos termos do disposto nos artigos 36.º e 37.º, às taxas estabelecidas no Anexo X.\n2.   As Despesas de Pesquisa efectuadas ao abrigo de um Contrato Petrolífero são tratadas como elementos depreciáveis do activo imobilizado incorpóreo, com um período de vida útil igual ao período de vida esperado das Operações Petrolíferas, nos termos do Contrato, ou a cinco  anos, consoante o período que for menor.\n3.   As Despesas de Desenvolvimento efectuadas ao abrigo de um Contrato Petrolífero, são consideradas como elementos depreciáveis do activo imobilizado incorpóreo, com um período de vida útil igual ao período de vida esperado das Operações Petrolíferas, segundo o Contrato, ou a dez anos, consoante o período que for menor.\n4.   As Despesas de Pesquisa e Desenvolvimento são amortizadas segundo o método das quotas constantes, de acordo com o artigo 37.º.\n5.    Sem prejuízo do disposto nos artigos 36.º e 37.º, um elemento depreciável do activo adquirido, criado ou construído pelo Contratante, antes da produção comercial, é susceptível de reintegração ou de amortização a partir do início da produção comercial, considerando-se que a produção comercial tem início no primeiro dia do primeiro período de trinta dias consecutivos, durante os quais o nível médio da produção distribuída para venda, tomando como referência os vinte e cinco dias de produção mais elevada do período de trinta dias, atinja um nível de produção regular distribuída para venda, segundo avaliação da Administração Tributária, após parecer do Ministério ou da Autoridade Nomeada, consoante o caso.\n6.   No ano fiscal em que tiver início a produção comercial, o montante dedutível das reintegrações e amortizações de elementos depreciáveis do activo imobilizado, adquiridos, criados ou construídos por um Contratante antes da primeira produção comercial, é calculado de acordo com a seguinte fórmula:\nA X B/C\nEm que:\nA    é a dedução de reintegração ou amortização permitida, se a produção comercial tiver tido início no primeiro dia do ano fiscal;\nB    é o número de dias contados a partir do início da produção comercial até ao fim do ano fiscal em que a produção comercial tiver início; e C    é o número de dias no ano fiscal."
+   }
+  },
+  {
+   "id": "TL-H069-A78",
+   "no": 78,
+   "noLabel": {
+    "pt": "Artigo 78.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO IV IMPOSTO   SOBRE   O   RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Reintegração e amortização de campos pequenos"
+   },
+   "text": {
+    "pt": "1.   O presente artigo aplica-se a um Contratante se, segundo o Plano de Desenvolvimento de Operações Petrolíferas, se prevê que 80% ou mais das Reservas são produzidas dentro de cinco anos a partir da data de início da produção comercial, tal como determinado pelo n.º 5 do artigo 77.º. A estimativa das Reservas deve ser aprovada pelo Ministério ou pela Autoridade Nomeada, consoante o caso.\n2.    Um contratante a quem se aplique o presente artigo pode optar pela reintegração ou amortização dos elementos depreciáveis do activo, incluindo Despesas de Pesquisa e Desenvolvimento segundo o método das unidades de produção.\n3.    A reintegração ou amortização de um elemento depreciável do activo segundo o método das unidades de produção, num ano fiscal, é calculada de acordo com a seguinte fórmula:\nA   B\nEm que:\nA   é o custo do elemento do activo, reduzido pelas deduções de reintegração ou amortização totais, relativas ao elemento do activo, permitidas nos anos fiscais anteriores; e B    é a proporção que a produção de petróleo nesse ano ocupa no total de Reservas estimadas que existem no começo do ano.\n4.   A opção a que se refere o n.º 2 do presente artigo aplica-se a todos os elementos depreciáveis do activo utilizados nas Operações Petrolíferas mencionadas no n.º 1 do presente artigo. A opção deve ser feita no âmbito do Plano de Desenvolvimento e depositada junto do Administração Tributária após aprovação do Plano de Desenvolvimento.\n5.   Se um Contratante tiver mais de um Plano de Desenvolvimento para uma Área do Contrato, o presente Artigo aplicase separadamente a cada Plano de Desenvolvimento."
+   }
+  },
+  {
+   "id": "TL-H069-A79",
+   "no": 79,
+   "noLabel": {
+    "pt": "Artigo 79.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO IV IMPOSTO   SOBRE   O   RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Transmissão de direito ou de participação no contrato petrolífero"
+   },
+   "text": {
+    "pt": "Caso um Contratante transmita um direito ou uma participação num Contrato Petrolífero:\na)  O Contratante adquirente do direito ou da participação continua a amortizar qualquer Despesa de Pesquisa ou de Desenvolvimento, segundo o método adoptado pelo Contratante originário; e\nb)   Os procedimentos previstos nos artigos 36.º e 37.º aplicamse a quaisquer outros elementos depreciáveis do activo imobilizado corpóreo ou incorpóreo, segundo as taxas definidas no Anexo X."
+   }
+  },
+  {
+   "id": "TL-H069-A80",
+   "no": 80,
+   "noLabel": {
+    "pt": "Artigo 80.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO IV IMPOSTO   SOBRE   O   RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Valor do petróleo"
+   },
+   "text": {
+    "pt": "1.   O petróleo é avaliado no Ponto de Exportação do Campo, numa base free on board (f.o.b.) ou em condições equivalentes.\n2.   O valor do Petróleo Bruto:\na)   No caso de venda f.o.b. ou em condições equivalentes no Ponto de Exportação do Campo, e tendo sido observado o princípio das entidades independentes, é o preço a pagar por ele;\nb)  No caso de venda segundo condições que não sejam f.o.b. ou equivalentes, no Ponto de Exportação do Campo, e tendo sido observado o princípio das entidades independentes, é o preço a pagar por ele, deduzido da proporção justa e razoável desse preço que diga respeito ao transporte e à entrega do petróleo a jusante do Ponto de Exportação do Campo; ou\nc)  No caso de venda em circunstâncias diferentes das enunciadas nas alíneas a) e b) do n.º 2 do presente artigo, é o preço que teria sido pago, tendo em conta todas as circunstâncias relevantes e transacções semelhantes, efectuadas segundo o princípio das entidades independentes.\n3.  O valor do Gás Natural é o preço a pagar ao abrigo do Contrato Aprovado ou segundo o disposto no Plano de Desenvolvimento ou num Contrato Petrolífero, e ajustado segundo critérios de justiça e razoabilidade, de modo a reflectir o ponto de avaliação a que se refere o n.º 1 do presente artigo.\n4.   Para efeitos do presente artigo, o preço a pagar é o seu respectivo valor, ou que seria pago pelo comprador se o petróleo fosse entregue pelo Contratante e recebido pelo comprador, sem qualquer compensação de montantes relativos a eventuais créditos ou reclamações de eventuais créditos por parte do comprador, e sem retenções de qualquer natureza."
+   }
+  },
+  {
+   "id": "TL-H069-A81",
+   "no": 81,
+   "noLabel": {
+    "pt": "Artigo 81.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO IV IMPOSTO   SOBRE   O   RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Retenção do imposto na fonte"
+   },
+   "text": {
+    "pt": "1.   Um Contratante ou Subcontratante que pague ou coloque à disposição de uma pessoa, que não seja um trabalhador por conta de outrem, montantes respeitantes à remuneração de serviços contratados para as Operações Petrolíferas, e prestados no território de Timor-Leste, deve reter imposto na fonte, à taxa de 6% do montante bruto pago.\n2.   Considera-se que o Estado da fonte do rendimento da prestação de serviços é o território de Timor-Leste se o rendimento for pago por uma pessoa residente em Timor-Leste, ou por um estabelecimento estável de um não-residente, localizado em Timor-Leste.\n3.   Se for pago um montante global relativamente a serviços e bens, esse montante é considerado como tendo sido pago por serviços prestados se a Administração Tributária assim o entender, segundo critérios de razoabilidade e tendo em conta todas as circunstâncias.\n4.  Se um montante a que se refere o n.º 1 do presente artigo tiver sido correctamente objecto de retenção na fonte, a retenção do imposto, relativa a esses montantes, constitui uma retenção definitiva sobre o rendimento do beneficiário, e:\na)   Não é exigida ao beneficiário mais nenhuma obrigação de imposto sobre o rendimento bruto sobre o qual o imposto incidiu;\nb)  O referido rendimento bruto não é englobado com o outro rendimento bruto do beneficiário para efeitos da determinação do rendimento tributável do beneficiário;\nc)    Não é permitida nenhuma dedução, incluindo a dedução de reintegração ou amortização, relativa a qualquer despesa ou prejuízo suportado na obtenção do rendimento bruto.\n5.   O disposto no artigo 58.º aplica-se ao montante retido ou que deva ser objecto de retenção ao abrigo do presente artigo.\n6.   O disposto nos artigos 53.º e 54.º não se aplica a nenhum montante a que se aplique o presente artigo."
+   }
+  },
+  {
+   "id": "TL-H069-A82",
+   "no": 82,
+   "noLabel": {
+    "pt": "Artigo 82.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO IV IMPOSTO   SOBRE   O   RENDIMENTO"
+   },
+   "heading": {
+    "pt": "Prestações de imposto sobre o rendimento"
+   },
+   "text": {
+    "pt": "1.   As prestações de imposto sobre o rendimento a pagar por um Contratante são calculadas ao abrigo do presente artigo, não se aplicando o artigo 64.º.\n2.   O Contratante deve pagar o imposto sobre o rendimento, de cada ano fiscal, em prestações mensais. As prestações do imposto sobre o rendimento são devidas no décimo quinto dia após o final do mês a que correspondem.\n3.   Sem prejuízo do disposto nos n.os 4 e 5 do presente artigo, o montante de cada prestação, relativamente a um ano fiscal, é de um doze avos (1/12) da obrigação do imposto sobre o rendimento do Contratante, respeitante ao ano fiscal anterior. O montante de qualquer prestação vencida antes do prazo de entrega da declaração do imposto sobre o rendimento relativa ao ano fiscal anterior, corresponde ao maior dos seguintes montantes:\na)  O montante da prestação de imposto paga no último mês do ano fiscal anterior; ou\nb)  O montante correspondente à média das prestações de imposto pagas no ano fiscal anterior.\n4.   A Administração Tributária pode determinar o montante das prestações de imposto, se:\na)   O Contratante tiver sofrido prejuízos no ano fiscal anterior e pretender reportá-los para o ano fiscal corrente;\nb)   O Contratante obtiver rendimentos não periódicos;\nc)  O Contratante entregar a sua declaração de imposto sobre o rendimento relativa ao ano fiscal anterior, depois do termo do prazo legal, mesmo que lhe tenha sido concedido um prazo mais alargado para a entrega dessa declaração;\nd)   A declaração de imposto sobre o rendimento do Contratante respeitante ao ano fiscal anterior for objecto de correcções, mesmo que seja o próprio Contratante a apresentar tais correcções; ou\ne)   Houver uma mudança na situação do Contratante.\n5.   No que diz respeito ao primeiro ano fiscal, o montante de cada prestação a pagar pelo Contratante é de um doze avos (1/12) do montante de imposto sobre o rendimento estimado pelo Contratante para aquele ano fiscal. O Contratante deve apresentar à Administração Tributária uma estimativa do imposto sobre o rendimento relativa ao primeiro ano fiscal, até à data de vencimento do pagamento da primeira prestação do ano.\n6.    A estimativa apresentada nos termos do disposto no número anterior é válida para todo o primeiro ano fiscal, salvo se o Contratante apresentar uma estimativa revista. A estimativa revista aplica-se ao cálculo das prestações do imposto sobre o rendimento desse ano, exigíveis tanto antes como depois da data da sua apresentação. O saldo em falta de qualquer prestação paga, antes da apresentação da estimativa revista, deve ser pago pelo Contratante juntamente com a primeira prestação vencida após a apresentação da estimativa revista. O saldo credor de prestações pagas em excesso, é compensado contra futuras prestações devidas de imposto sobre o rendimento.\n7.   Caso o Contratante não apresente a estimativa do imposto sobre o rendimento, conforme exigido no n.º 5 do presente artigo, o valor estimado do imposto sobre o rendimento, devido pelo Contratante, relativo ao ano fiscal, é determinado pela Administração Tributária. A estimativa é válida para todo o ano fiscal, salvo quando revista pelo Contratante, em conformidade com o disposto no número anterior.\n8.   Caso a estimativa do Contratante, incluindo a estimativa revista acerca do imposto sobre rendimento, relativa ao primeiro ano fiscal, seja inferior a 90% do montante devido a final pelo mesmo Contratante, e a título do mesmo imposto sobre o rendimento, cuja diferença é designada por \"deficit de imposto\", o Contratante fica sujeito à seguinte sanção:\na)  Caso a sub-avaliação resulte de dolo ou negligência grave, 50% do deficit de imposto; ou\nb)   Em qualquer outro caso, 10% do deficit de imposto.\n9.   Não é aplicada a sanção nos termos previstos na alínea b) do número anterior, se a Administração Tributária for convencida de que a razão para o deficit de imposto se deveu a circunstâncias que ultrapassam o controlo do Contratante, tal como uma significativa flutuação de preço e que o Contratante tomou todas as precauções razoáveis ao elaborar a estimativa.\n10. As prestações de imposto sobre o rendimento pagas por um Contratante, relativas a um ano fiscal, são creditadas contra a obrigação de imposto sobre o rendimento do Contratante, relativa a esse ano. Se o montante total de prestações pagas exceder a obrigação de imposto sobre o rendimento do Contratante, relativa a esse ano, o excesso não é reembolsado, mas é creditado contra as prestações do imposto devidas pelo Contratante no ano fiscal seguinte."
+   }
+  },
+  {
+   "id": "TL-H069-A83",
+   "no": 83,
+   "noLabel": {
+    "pt": "Artigo 83.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO V IMPOSTO   SOBRE   O   PETRÓLEO   SUPLEMENTAR"
+   },
+   "heading": {
+    "pt": "Incidência do imposto sobre o petróleo suplementar"
+   },
+   "text": {
+    "pt": "1.   O Contratante que tenha um saldo positivo de receitas líquidas acrescidas, relativas a Operações Petrolíferas, num ano fiscal, fica sujeito ao pagamento de imposto sobre o petróleo suplementar.\n2.  O imposto sobre o petróleo suplementar, devido pelo Contratante num ano fiscal, é calculado de acordo com a seguinte fórmula:\nA x 22,5% /(1-r) Em que:\nA    são as receitas líquidas acrescidas do Contratante relativas a Operações Petrolíferas no ano; e r     é a taxa do imposto sobre as sociedades indicada no nº 1 do\nartigo 72º.\n3.  O imposto sobre o petróleo suplementar previsto no presente artigo, acresce ao imposto sobre o rendimento, que incide sobre o rendimento tributável do Contratante, no ano fiscal.\n4.   O imposto sobre o petróleo suplementar pago por um Contratante, é dedutível no cálculo do rendimento tributável do Contratante, no ano fiscal em que o imposto for pago."
+   }
+  },
+  {
+   "id": "TL-H069-A84",
+   "no": 84,
+   "noLabel": {
+    "pt": "Artigo 84.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO V IMPOSTO   SOBRE   O   PETRÓLEO   SUPLEMENTAR"
+   },
+   "heading": {
+    "pt": "Receitas Líquidas acrescidas"
+   },
+   "text": {
+    "pt": "1.   As receitas líquidas acrescidas do Contratante, num ano fiscal, relativas a Operações Petrolíferas, são calculadas de acordo com a seguinte fórmula:\n((A x 116,5%) - (I x (1-r))) + B Em que:\nA    são as receitas líquidas acrescidas do Contratante, relativas a Operações Petrolíferas no final do ano fiscal anterior;\nB   são as receitas líquidas do Contratante, relativas a Operações Petrolíferas no ano fiscal corrente;\nI     é a despesa com juros e outros encargos financeiros pagos pelo Contratante, respeitantes a operações petrolíferas no ano fiscal corrente e  consta da fórmula como um número negativo; e r    é a taxa do imposto sobre as sociedades, especificada no\nartigo 73º.\n2.   Se for devido imposto sobre o petróleo suplementar pelo Contratante num determinado ano fiscal, o valor das receitas líquidas acrescidas do Contratante, no fim daquele ano, é considerado de zero para efeitos do cálculo das receitas líquidas acrescidas do Contratante, relativas às Operações Petrolíferas, no ano seguinte.\n3.   Se o componente (A x 116,5%) da fórmula constante do n.º 1 do presente artigo, for negativo, num determinado ano fiscal, a subtracção do componente (I x (1-r)) nesse ano, não pode reduzir o valor de ((A x 116,5%) - (I x (1-r))) a um valor inferior a A. O valor de um eventual excedente não pode ser reportado para anos fiscais anteriores ou posteriores."
+   }
+  },
+  {
+   "id": "TL-H069-A85",
+   "no": 85,
+   "noLabel": {
+    "pt": "Artigo 85.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO V IMPOSTO   SOBRE   O   PETRÓLEO   SUPLEMENTAR"
+   },
+   "heading": {
+    "pt": "Receitas líquidas"
+   },
+   "text": {
+    "pt": "As receitas líquidas do Contratante, num ano fiscal, relativas a Operações Petrolíferas, são as receitas brutas do Contratante nesse ano, relativas a tais Operações, menos o total das despesas dedutíveis do Contratante nesse ano, e relativas às mesmas Operações. As receitas líquidas de um Contratante num ano fiscal podem ter valor negativo."
+   }
+  },
+  {
+   "id": "TL-H069-A86",
+   "no": 86,
+   "noLabel": {
+    "pt": "Artigo 86.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO V IMPOSTO   SOBRE   O   PETRÓLEO   SUPLEMENTAR"
+   },
+   "heading": {
+    "pt": "Receitas brutas"
+   },
+   "text": {
+    "pt": "1.    As receitas brutas do Contratante, num ano fiscal, relativas às Operações Petrolíferas, resultam da soma dos seguintes valores:\na)   Os rendimentos brutos obtidos, para efeitos de imposto sobre o rendimento, num ano fiscal, relativamente às Operações Petrolíferas, incluindo os montantes recebidos de locação, ou concessão de direitos de uso de propriedade, excluindo os rendimentos de juros;\nb)   A contrapartida recebida pelo Contratante, num ano fiscal, pela alienação ou cessão, destruição ou perda de bens ou de elementos do activo, incluindo materiais, equipamentos, maquinaria, instalações e propriedade ou direitos intelectuais, utilizados nas Operações Petrolíferas, caso a despesa efectuada na aquisição desses elementos do activo tenha sido deduzida, no cálculo das receitas líquidas do Contratante em qualquer ano fiscal;\nc)   Qualquer montante recebido pelo Contratante, num ano fiscal, em virtude do fornecimento de informações ou dados obtidos em qualquer pesquisa, avaliação ou estudo relativos a Operações Petrolíferas, caso a despesa  efectuada com a pesquisa, avaliação ou estudo, tenha sido deduzida anteriormente, no cálculo das receitas líquidas do Contratante em qualquer ano fiscal;\nd)   Qualquer outro montante recebido pelo Contratante, num ano fiscal, que  constitua um reembolso, restituição ou ressarcimento de um montante deduzido anteriormente, no cálculo das receitas líquidas do Contratante, em qualquer ano fiscal;\ne)   Caso elementos do activo patrimonial tenham sido destruídos ou perdidos por um Contratante, qualquer compensação, indemnização ou reparação de danos, recebida pelo Contratante, relativa a esses elementos do activo, no âmbito de uma apólice de seguro, de um acordo de indemnização, de um acordo de outra natureza ou de uma decisão judicial.\n2.    Não obstante o disposto no número anterior, e sem prejuízo do disposto no artigo 88º, as receitas brutas do Contratante não abrangem os montantes recebidos ou obtidos a título de contrapartida pela transmissão de direito ou participação nas Operações Petrolíferas.\n3.   Se um montante a que se refere o n.º 1 do presente artigo for simultaneamente imputável a Operações Petrolíferas e a alguma outra actividade do Contratante, é incluída nas receitas brutas do Contratante, para efeitos de cálculo das receitas líquidas das Operações Petrolíferas, apenas a parcela que diz respeito a essas Operações."
+   }
+  },
+  {
+   "id": "TL-H069-A87",
+   "no": 87,
+   "noLabel": {
+    "pt": "Artigo 87.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO V IMPOSTO   SOBRE   O   PETRÓLEO   SUPLEMENTAR"
+   },
+   "heading": {
+    "pt": "Despesas dedutíveis"
+   },
+   "text": {
+    "pt": "1.   O total das despesas dedutíveis do Contratante, num ano fiscal, relativas a Operações Petrolíferas, é a soma dos seguintes valores:\na)  Qualquer despesa relativa às Operações Petrolíferas, efectuada pelo Contratante,  num ano fiscal,  e autorizada como dedução, desde que não consista em dedução por reintegração ou amortização na determinação do rendimento tributável, incluindo juros e encargos financeiros;\nb)   Qualquer despesa de capital efectuada pelo Contratante, num ano fiscal, com a aquisição ou construção de um elemento do activo corpóreo ou incorpóreo, para utilização nas Operações Petrolíferas;\nc)   Qualquer despesa de exploração efectuada pelo Contratante, num ano fiscal, relativa às Operações Petrolíferas;\nd)   Um montante, correspondente ao imposto sobre o rendimento das sociedades de Timor-Leste, devido pelo Contratante, num ano fiscal, calculado pela aplicação da taxa desse imposto, consagrada no artigo 72.º, ao rendimento anual tributável do Contratante, antes da dedução do imposto sobre o petróleo suplementar.\n2.   Não obstante o disposto no n.º 1 do presente artigo, e sem prejuízo do estabelecido no artigo 88.º, as despesas dedutíveis do Contratante não incluem qualquer montante despendido a título de contrapartida pela aquisição de qualquer direito ou participação em Operações Petrolíferas.\n3.  Se um montante referido no n.º 1 do presente artigo for simultaneamente imputável às Operações Petrolíferas e a alguma outra actividade do Contratante, é considerada como despesa dedutível, no cálculo das receitas líquidas das Operações Petrolíferas, apenas a parcela que diz respeito a essas Operações."
+   }
+  },
+  {
+   "id": "TL-H069-A88",
+   "no": 88,
+   "noLabel": {
+    "pt": "Artigo 88.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO V IMPOSTO   SOBRE   O   PETRÓLEO   SUPLEMENTAR"
+   },
+   "heading": {
+    "pt": "Transmissão de direito ou participação em operações petrolíferas"
+   },
+   "text": {
+    "pt": "1.   Caso a totalidade dos direitos ou das participações do Contratante, nas Operações Petrolíferas, seja alienada ou transmitida a outro Contratante, considera-se que o Contratante adquirente, relativamente aos direitos ou participações, tem as mesmas receitas brutas e despesas dedutíveis, que o Contratante transmitente detinha, imediatamente antes da transmissão. Para efeitos do cálculo das receitas líquidas acrescidas do Contratante adquirente, no ano fiscal em que ocorre a transmissão, as receitas líquidas acrescidas do Contratante transmitente, no encerramento do ano fiscal anterior, são consideradas como receitas líquidas acrescidas do Contratante adquirente, relativas a esse ano fiscal anterior.\n2.   Caso seja transmitida apenas uma parte dos direitos ou participações do Contratante, nas Operações Petrolíferas, a outro Contratante:\na)   O Contratante adquirente é considerado, em relação à parte transmitida, como tendo as mesmas receitas brutas e as mesmas despesas dedutíveis, que o Contratante transmitente tinha em relação à totalidade dos seus direitos ou participações, imediatamente antes da transmissão, multiplicada pelo factor percentual de transmissão; e\nb)   Para efeitos de cálculo das receitas líquidas acrescidas do Contratante adquirente, no ano fiscal em que ocorreu a transmissão, as receitas líquidas acrescidas do Contratante transmitente, no encerramento do ano fiscal anterior, multiplicadas pelo factor percentual de transmissão, são tratadas como as receitas líquidas acrescidas do Contratante adquirente, relativamente ao ano fiscal anterior.\n3.   Nos termos do presente artigo, entende-se por \"factor percentual de transmissão\" a percentagem do direito ou participação alienada ou transmitida pelo Contratante que detém um direito ou participação nas Operações Petrolíferas, dividida pela percentagem total do direito ou participação desse Contratante nas Operações, antes da transmissão."
+   }
+  },
+  {
+   "id": "TL-H069-A89",
+   "no": 89,
+   "noLabel": {
+    "pt": "Artigo 89.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO V IMPOSTO   SOBRE   O   PETRÓLEO   SUPLEMENTAR"
+   },
+   "heading": {
+    "pt": "Procedimento relativo ao imposto sobre o petróleo suplementar"
+   },
+   "text": {
+    "pt": "1.   Um Contratante que esteja a executar Operações Petrolíferas, num determinado ano fiscal, deve apresentar à Administração Tributária uma declaração do imposto sobre o petróleo suplementar relativa a esse ano.\n2.   A declaração do imposto sobre o petróleo suplementar relativa a um ano fiscal deve ser apresentada do mesmo modo e na mesma data que a declaração anual de imposto sobre o rendimento do Contratante, relativa a esse ano.\n3.   O imposto sobre o petróleo suplementar, relativo a um ano fiscal, torna-se exigível e deve ser pago pelo Contratante, na mesma data em que o imposto sobre o rendimento do Contratante, relativo ao mesmo ano, se torne exigível e deva ser pago.\n4.   Sem prejuízo do disposto no artigo seguinte, a presente lei aplica-se, com eventuais alterações necessárias:\na)   À liquidação e cobrança do imposto sobre o petróleo suplementar, e à aplicação de sanções relacionadas com a violação de deveres legais respeitantes ao mesmo imposto, aos deveres de manutenção de registos e a acções de fiscalização;\nb)   A recursos interpostos relativos à liquidação do imposto sobre o petróleo suplementar, ou relativos à aplicação de sanções; e\nc)   A requerimentos ou pedidos de reembolso de imposto sobre o petróleo suplementar pago em excesso.\n5. O regime jurídico do procedimento tributário relativo à cobrança e recuperação do imposto aplica-se ao Imposto sobre o Petróleo Suplementar, considerando que:\na)   A referência a \"imposto\" inclui o imposto sobre o petróleo suplementar; e\nb)   A referência a \"declaração de imposto\" inclui a declaração do imposto sobre o petróleo suplementar cuja apresentação é exigida pelo n.º 1 do presente artigo."
+   }
+  },
+  {
+   "id": "TL-H069-A90",
+   "no": 90,
+   "noLabel": {
+    "pt": "Artigo 90.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IX DISPOSIÇÕES   ESPECIAIS    APLICÁVEIS   À TRIBUTAÇÃO DO   PETRÓLEO   E   DO   GÁS / SECÇÃO V IMPOSTO   SOBRE   O   PETRÓLEO   SUPLEMENTAR"
+   },
+   "heading": {
+    "pt": "Prestação do imposto sobre petróleo suplementar"
+   },
+   "text": {
+    "pt": "1.  O Contratante deve pagar o imposto sobre o petróleo suplementar, de cada ano fiscal, em prestações mensais. As prestações do imposto sobre o petróleo suplementar são devidas no décimo quinto dia após o final do mês a que correspondem.\n2.   O montante de cada prestação é de um doze avos (1/12) do montante do imposto sobre o petróleo suplementar, estimado pelo Contratante, como exigível naquele ano fiscal.\nTodos os Contratantes devem apresentar à Administração Tributária uma estimativa do imposto sobre o petróleo suplementar, relativa ao ano fiscal, até à data de vencimento do pagamento da primeira prestação do ano.\n3.    A estimativa apresentada nos termos do disposto no n.º 2 do presente artigo é válida para todo o ano fiscal, a não ser que o Contratante apresente uma estimativa revista à Administração Tributária. A estimativa revista, respeitante a um ano fiscal, aplica-se ao cálculo das prestações do imposto sobre o petróleo suplementar desse ano, exigíveis tanto antes como depois da data da sua apresentação. O saldo em falta de qualquer prestação paga, antes da apresentação da estimativa revista, deve ser pago pelo Contratante juntamente com a primeira prestação vencida após a apresentação da estimativa revista. O saldo credor de prestações pagas em excesso, deve ser compensado contra futuras prestações devidas de imposto sobre o petróleo suplementar.\n4.  Caso o Contratante não apresente a estimativa do imposto sobre o petróleo suplementar, conforme exigido no n.º 2, o valor estimado do imposto sobre o petróleo suplementar, devido pelo Contratante, relativo ao ano fiscal, é determinado pela Administração Tributária. A estimativa é válida para todo o ano fiscal, salvo quando revista pelo Contratante, em conformidade com o disposto no n.º 3 do presente artigo.\n5.   Caso a estimativa do Contratante, incluindo uma estimativa revista, acerca do imposto sobre o petróleo suplementar, relativa a um ano fiscal, seja inferior a 90% do montante devido a final pelo mesmo Contratante, e a título do mesmo imposto sobre o petróleo suplementar, cuja diferença é designada de deficit de imposto, o Contratante fica sujeito à seguinte sanção:\na)  Caso a sub-avaliação resulte de dolo ou negligência grave, 50% do deficit de imposto; ou\nb)   Em qualquer outro caso, 10% do défice de imposto.\n6.   Não é aplicada a sanção nos termos previstos na alínea b) do número anterior, se a Administração Tributária for convencida de que a razão para o défice de imposto se deveu a circunstâncias que ultrapassam o controlo do Contratante, tal como uma significativa flutuação de preço, e que o Contratante tomou todas as precauções razoáveis ao elaborar a estimativa."
+   }
+  },
+  {
+   "id": "TL-H069-A91",
+   "no": 91,
+   "noLabel": {
+    "pt": "Artigo 91.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO X DISPOSIÇÕES   FINAIS"
+   },
+   "heading": {
+    "pt": "Disposições fiscais de outras leis"
+   },
+   "text": {
+    "pt": "Nenhum imposto ou direito aduaneiro vigora em Timor-Leste, a menos que esteja incluído ou seja autorizado pela presente lei."
+   }
+  },
+  {
+   "id": "TL-H069-A92",
+   "no": 92,
+   "noLabel": {
+    "pt": "Artigo 92.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO X DISPOSIÇÕES   FINAIS"
+   },
+   "heading": {
+    "pt": "Regulamentação"
+   },
+   "text": {
+    "pt": "O regime jurídico do procedimento tributário relativo à cobrança e recuperação do imposto consta de Decreto-Lei."
+   }
+  },
+  {
+   "id": "TL-H069-A93",
+   "no": 93,
+   "noLabel": {
+    "pt": "Artigo 93.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO X DISPOSIÇÕES   FINAIS"
+   },
+   "heading": {
+    "pt": "Revogação"
+   },
+   "text": {
+    "pt": "1.   Com ressalva do disposto no n.º 3 do presente artigo e no artigo seguinte, o Regulamento da UNTAET n.º 18/2000, de 1 de Julho, com as alterações introduzidas, a Directiva da UNTAET N.º 2/2001, de 31 de Março, com as alterações introduzidas, e a Lei de Tributação do Petróleo são revogados pela presente lei.\n2.   Com ressalva do disposto no n.º 3 do presente artigo e no artigo seguinte, a Lei de Imposto sobre o Rendimento aplicável em Timor-Leste por força do Regulamento da UN- TAET n.º 1/1999, de 27 de Novembro é revogada a partir da entrada em vigor do presente lei.\n3.   Não obstante o disposto nos n.os 1 e 2 do presente artigo, os o Regulamento da UNTAET n.º 18/2000, de 1 de Julho, com as alterações introduzidas, a Directiva da UNTAET N.º 2/ 2001, de 31 de Março, com as alterações introduzidas, a Lei de Tributação do Petróleo e a Lei de Imposto sobre o Rendimento aplicável em Timor-Leste por força do Regulamento da UNTAET n.º 1/1999, de 27 de Novembro, continuam a aplicar-se a qualquer período de tempo anterior à entrada em vigor da presente lei.\n4.  O regime jurídico do procedimento tributário relativo à cobrança e recuperação do imposto mantém-se aplicável até à entrada em vigor do decreto-lei que o define.\n5.   As disposições legais sobre as infracções e sanções mantêm-se aplicáveis até à aprovação do novo regime.\n6.   É revogado o Decreto-Lei n.º 10/2003, de 24 de Julho.\n7.   É revogado o Decreto-Lei n.º 5/2002, de 24 de Setembro.\n8.   É revogada a demais legislação que disponha em contrário à presente lei."
+   }
+  },
+  {
+   "id": "TL-H069-A94",
+   "no": 94,
+   "noLabel": {
+    "pt": "Artigo 94.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO X DISPOSIÇÕES   FINAIS"
+   },
+   "heading": {
+    "pt": "Cláusula de salvaguarda"
+   },
+   "text": {
+    "pt": "1.   A sujeição a imposto de:\na)   Uma pessoa que é um Contratante nos termos da Lei de Tributação dos Contratantes de Bayu-Undan; ou\nb)  Uma pessoa que presta bens e serviços a uma pessoa que é um Contratante nos termos da Lei de Tributação dos Contratantes de Bayu-Undan, relativamente a um projecto petrolífero, é determinada com base na legislação fiscal de Timor-Leste em vigor imediatamente antes da entrada em vigor da presente lei, e aplicável a esse Contratante.\n2.   A sujeição a imposto de uma pessoa relativamente a actividades petrolíferas desenvolvidas na área abrangida pelos contratos descritos no Anexo F do Tratado do Mar de Timor, com exclusão do Contratante a quem se aplique o n.º 1 do presente artigo, é determinada com base na legislação fiscal de Timor-Leste em vigor imediatamente antes da entrada em vigor da presente lei e aplicável à referida pessoa."
+   }
+  },
+  {
+   "id": "TL-H069-A95",
+   "no": 95,
+   "noLabel": {
+    "pt": "Artigo 95.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO X DISPOSIÇÕES   FINAIS"
+   },
+   "heading": {
+    "pt": "Disposições transitórias"
+   },
+   "text": {
+    "pt": "1. Todas as nomeações efectuadas ao abrigo da legislação revogada e que subsistam à data da entrada em vigor da presente lei são consideradas como nomeações efectuadas ao abrigo da presente lei.\n2.   Uma instalação empresarial ou um elemento depreciável do activo imobilizado corpóreo ou incorpóreo de um Contratante que tenha começado a ser reintegrado ou amortizado ao abrigo da legislação revogada continua a ser reintegrado ou amortizado ao abrigo da presente lei.\n3.  Um sujeito passivo de imposto sobre o rendimento, com excepção de um Contratante que possua uma instalação empresarial ou um elemento depreciável do activo imobilizado corpóreo ou incorpóreo que tenha começado a ser reintegrado ou amortizado ao abrigo da legislação revogada tem direito a uma dedução por reintegração ou amortização no primeiro ano fiscal do sujeito passivo, ao abrigo do disposto na presente lei, em relação ao valor reintegrado no fim do ano fiscal anterior da referida instalação, elemento depreciável do activo imobilizado corpóreo ou incorpóreo, com base numa taxa de reintegração aplicável de 100%.\n4.  O reporte de despesas conexas com juros, efectuado nos termos do n.º 2 do artigo 16.º da Directiva da UNTAET N.º 2/2001, de 31 de Março, continua a aplicar-se por força do disposto nesse artigo durante o período remanescente, tal como previsto no n.º 2 do artigo 16.º da Directiva da UN- TAET N.º 2/2001, de 31 de Março.\n5.  Qualquer reporte de prejuízos, efectuado nos termos do\nartigo 17.º da Directiva da UNTAET N.º 2/2001, de 31 de Março, continua a efectuar-se por força do disposto no\nartigo 43.º da presente lei durante o período remanescente, tal como previsto no artigo 17.º da Directiva da UNTAET N.º 2/2001, de 31 de Março.\n6.   Qualquer reporte de prejuízos sofridos num país estrangeiro, efectuado nos termos do n.º 5 do artigo 27.º da Directiva da UNTAET N.º 2/2001, de 31 de Março, continua a efectuarse por força do disposto no artigo 51º  da presente lei durante o período remanescente, tal como previsto no n.º 5 do artigo 27.º da Directiva da UNTAET N.º 2/2001, de 31 de Março.\n7.    A referência no artigo 44.º a uma despesa, prejuízo ou dívida incobrável previamente deduzido inclui uma despesa, prejuízo ou dívida incobrável deduzido ao abrigo da legislação revogada."
+   }
+  },
+  {
+   "id": "TL-H069-A96",
+   "no": 96,
+   "noLabel": {
+    "pt": "Artigo 96.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO X DISPOSIÇÕES   FINAIS"
+   },
+   "heading": {
+    "pt": "Entrada em vigor e aplicação"
+   },
+   "text": {
+    "pt": "1.  A presente lei entra em vigor no dia imediato ao da sua publicação no Jornal da República.\n2.    A presente lei produz efeitos no primeiro dia do mês seguinte ao da sua publicação e é aplicável às obrigações fiscais constituídas nessa data ou a partir dessa data.\n3.   Sem prejuízo do disposto no número anterior, para os impostos anuais, a presente lei aplica-se a partir de 1 de Janeiro de 2008."
+   }
+  }
+ ]
+}

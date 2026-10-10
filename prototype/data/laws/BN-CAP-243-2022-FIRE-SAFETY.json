@@ -1,0 +1,964 @@
+{
+ "id": "BN-CAP-243-2022-FIRE-SAFETY",
+ "title": {
+  "zh": null,
+  "en": "FIRE SAFETY",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p11",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2022",
+ "effectiveDate": null,
+ "versionDate": "2022",
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": "CAP. 243",
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "An Act to make provisions for fire safety and for matters connected"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 63,
+ "chars": 92999,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-243-2022-ED-FIRE-SAFETY-.pdf",
+ "fetchedAt": "2026-10-09",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-243-2022-ED-FIRE-SAFETY-.pdf》（59 页），本次切分 63 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Fire Safety Act."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "(1) In this Act, unless the context otherwise requires — “authorised officer” means any person appointed as such under “building” has the same meaning as in the Building Control Order, 2014 (S 69/2014); “building works” has the same meaning as in the Building Control Order, 2014 (S 69/2014); “class of petroleum” means any petroleum prescribed to be a class of petroleum for the purposes of this Act; “Director” means the Director of Fire and Rescue; “fire hazard” means any matter or circumstance which materially increases the likelihood of fire or the danger to life or property that would result from the outbreak of fire and includes —\n\n(a) any alteration to any building in contravention of any written law relating to building works or fire safety works such as might render escape in the event of fire more difficult;\n\n(b) the overcrowding of any public building or any building used occasionally or regularly for public worship or religious ceremonies such as might render escape in the event of fire\n\n(c) any removal from any building of any fire safety measure which was provided in such building in accordance with plans approved by the Director under section 26;\n\n(d) the presence in any building of any fire safety measure which from lack of proper maintenance or for any other reason is not in efficient working order;\n\n(e) the obstruction of escape routes, passageways, common property or limited common property of any building such as might render escape in the event of fire more difficult; and\n\n(f) any other matter or circumstance which would materially hamper the Force in the discharge of its duties in the “fire hazard abatement notice” means a notice in writing issued by the Director under section 16(1); “fire protection system” includes any installation, equipment or works manufactured, used or designed to be used for the purposes of —\n\n(a) extinguishing, attacking, preventing or limiting a fire and its by-product; or\n\n(b) giving warning of a fire; “fire protection works” means the provision, extension or alteration of any fire protection system; “fire safety measures” includes any installation, equipment or works manufactured, used or designed to be used for the purposes of —\n\n(a) extinguishing, attacking, preventing or limiting a fire and controlling the spread of smoke resulting from the fire;\n\n(b) giving warning of a fire;\n\n(c) providing access to any premises or place for the purpose of extinguishing, attacking, preventing or limiting a fire;\n\n(d) providing means of escape; or\n\n(e) providing a means of communication to facilitate fire-fighting operations or the evacuation of persons in the “fire safety works” means any fire protection works, fire safety measures, relevant pipeline works or minor works; “flammable material” means any substance prescribed to be a flammable material for the purposes of this Act; “member” means a person who is either a senior officer, a subordinate officer, or of the rank and file of the Fire and Rescue; “minor works” means —\n\n(a) the addition, alteration or repair of a building that involves the use of combustible materials or that affects the means of escape or the effectiveness of fire safety measures; or\n\n(b) the or of any air-conditioning service or ventilating system in or in connection with a building; “occupier”, in relation to any premises, means the person in occupation of the premises or having the charge, management or control thereof and, in relation to any part of any premises different parts of which are occupied by different persons, means the person in occupation or having the charge, management or control of that part;\n\n(a) in relation to any premises, includes any mortgagee in possession and any person for the time being receiving the rent of the premises whether on his own account or as agent or trustee or as receiver, or who would receive the same if the premises were let to a tenant:\n\n(b) in relation to the common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, means the management corporation having control of the building;\n\n(c) in relation to the limited common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, means the subsidiary management corporation having control of that limited\n\n(d) in respect of any fire safety measure, includes the occupier or the owner of the premises in or on which the fire safety measure is installed or kept;\n\n(e) in relation to an aircraft or a vessel, includes the charterer of the aircraft or vessel, as the case may be; and\n\n(f) in relation to a vehicle, means the registered owner of “petroleum” includes crude petroleum, liquefied petroleum gas and other naturally occurring hydrocarbon liquid derived from crude petroleum, coal, shale, peat or other bituminous substances; “pipeline” includes any section of a pipeline; “pipeline owner”, in relation to any section of a relevant pipeline,\n\n(a) a person who owns or leases the piperack or pipetrack and manages that section of the relevant pipeline; or\n\n(b) if paragraph (a) does not apply, a person who owns or leases that section of the relevant pipeline and uses that section of the relevant pipeline for the conveyance of any class of petroleum or any flammable material: “piperack” means a multi-tiered rack supporting one or more pipelines above the ground; “pipetrack” means an area where one or more pipelines are supported on sleepers on the ground; “premises” includes messuages, houses, buildings, lands, tenements, easements and hereditaments of any tenure, whether open or enclosed, whether built or not, whether public or private, and whether or not maintained under statutory authority; “public building” means a building or part of a building —\n\n(a) used as a hospital or a nursing home;\n\n(b) used ordinarily or occasionally to provide residential care to aged persons or child care for groups of children;\n\n(c) used wholly or mainly as or in connection with a hotel, shop or restaurant; or\n\n(d) where the public or any part thereof or numbers of persons occasionally or regularly assemble for —\n\n(i) civic or social (but not religious or educational)\n\n(ii) entertainment, recreational or sporting purposes; or\n\n(iii) business purposes; “qualified person” means a person who is registered as —\n\n(a) an architect under the Architects, Engineers and Quantity Surveyors Order, 2011 (S 33/2011) and has in force a practising certificate issued under section 26 of\n\n(b) a the Architects, Professional Engineers and Quantity Surveyors Order, 2011 (S 33/2011) and has in force a practising certificate issued under section 26 of that Order; “rank and file” means a member of the Fire and Rescue below the rank of a subordinate officer; “regulations” means regulations made under section 63; “relevant pipeline” means a pipeline used, or to be used, for the conveyance of any class of petroleum or any flammable material, and includes the piperack or pipetrack for the management of the pipeline but does not include such a pipeline located in licensed “relevant pipeline works” means the construction, alteration or repair of a relevant pipeline; “senior officer” means a member of the Fire and Rescue of the rank of Superintendent or above;\n\n(a) any road, bridge, underpass, tunnel, square, footway or passage, whether a thoroughfare or not, over which the public has a right of way; and\n\n(b) any road, footway or passage, open court or open alley, used or intended to be used as a means of access to two or more holdings, whether the public has a right of way thereover or not, and all channels, drains, ditches and reserves that are deemed to be part of the street; “subordinate officer” means a member of the Fire and Rescue of the rank of Station Officer or Assistant Station Officer;\n\n(a) any ship or boat or air-cushioned vehicle; and\n\n(b) any rig or platform, whether floating at sea or fixed to the sea bed, used in any form of operations at sea.\n\n(2) In this Act, unless the context otherwise requires, any reference to premises or building includes a reference to a part of such premises or building, as the case may be.\n\n(3) For the purposes of the definition of “pipeline owner” in subsection (1), the owner of the land on which any piperack, pipetrack or pipeline is located shall not be regarded as the person who owns or leases the piperack, pipetrack or pipeline (as the case may be) by reason only that the piperack, pipetrack or pipeline is a fixture annexed to that land."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "heading": {
+    "en": "Act binds Government"
+   },
+   "text": {
+    "en": "(1) Subject to subsection (2), this Act binds the Government.\n\n(2) For the avoidance of doubt, this Act shall be read subject to Article 84C of the Constitution of Brunei Darussalam, and nothing in this Act shall be construed as conferring on any court any jurisdiction or power to entertain any proceedings referred to in Article 84C of the Constitution of Brunei Darussalam. Authorised officers etc."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "(1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, appoint any person to be an authorised officer to carry into effect any specific provisions of this Act or of any regulations made\n\n(2) In the exercise of his powers and in carrying out his duties under this Act, an authorised officer shall comply with such directions as may be given to him by the Director.\n\n(3) The powers conferred and the duties imposed on the Director under this Act, except sections 5, 6, 7, 8 and 50, may be exercised and carried out by any rank and file generally or specially authorised by name or office by the Director subject to his directions."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "heading": {
+    "en": "Powers in event of fire"
+   },
+   "text": {
+    "en": "The Director or any authoriscd officer may, in the event of a fire or a suspected fire, by himself or with other members under his command —\n\n(a) enter, break into or through and take possession of or demolish or cause to be taken possession of or demolished any premises or structure for the purpose of extinguishing or preventing the spread of the fire;\n\n(b) enter, break into, take possession of, remove or destroy, or cause to be taken possession of, removed or destroyed, any aircraft, vehicle, vessel or thing for the purpose of extinguishing or preventing the spread of the fire;\n\n(c) take any equipment required to be used into, through or upon any premises, aircraft, vehicle or vessel where he thinks it necessary for the purpose of carrying out his duties;\n\n(d) remove from any building, structure, aircraft, vehicle or vessel which is on fire or is in the vicinity of the fire, any flammable, combustible, explosive or dangerous material found therein without responsibility for any consequent loss or damage;\n\n(e) for the purpose of extinguishing or preventing the spread of the fire, cause any building or structure which is on fire, or which is adjacent to or in the vicinity of any building or structure which is on fire, to be pulled down, either wholly or partially, or otherwise destroyed or damaged;\n\n(f) cause water to be shut off from, or turned into, any main or pipe in order to obtain a greater pressure and supply of water for the purpose of extinguishing the fire in consultation with the Department of Water Services;\n\n(g) shut off or disconnect, or order any person having the control thereof to shut off or disconnect, the supply of gas, petroleum, flammable material or electricity to any premises which is on fire or which is in the vicinity of the fire;\n\n(h) close or cause to be closed any street in the vicinity of the fire\n\n(i) remove any aircraft, vehicle, vessel or thing impeding the operation of the Fire and Rescue and, where reasonably necessary for that purpose, he may use force or break into any such aircraft, vehicle,\n\n(j) remove, using reasonable force if necessary, any person who, by his presence or otherwise, interferes with the fire-fighting operations or who is, in his opinion, endangered by the fire;\n\n(k) control and direct all operations for the extinguishing of the fire and all fire services present and all persons present there who place their services at his disposal;\n\n(l) use any convenient supply of water; and\n\n(m) generally do all other things that are reasonably necessary for protecting life or property or for extinguishing the fire or for preventing the spread thereof."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "heading": {
+    "en": "Power to enter premises for various purposes"
+   },
+   "text": {
+    "en": "(1) The Director or any authorised officer on producing, if so required, an authenticated document showing his authority, shall have a right to enter any premises at all reasonable hours for the purpose of —\n\n(a) ascertaining whether there is or has been, on or in connection with the premises, any contravention of any of the provisions of this Act;\n\n(b) obtaining information required for fire-fighting purposes with respect to the character of the premises, the availability of water supplies and the means of access thereto and other material circumstances relating to fire-fighting purposes;\n\n(c) conducting fire-drills and exercises, reasonable notice in writing is given to the owner or occupier of such\n\n(d) ascertaining whether there exists in the premises any fire\n\n(e) ascertaining whether or not any place of public assembly or premises used for purposes of entertainment or recreation are being used to accommodate a larger number of persons than is permitted under any regulations made under this Act;\n\n(f) checking and testing fire safety measures; and\n\n(g) performance by the Director of his powers under this or any other written law.\n\n(2) Subject to subsection (3), the Director or any authorised officer under subsection (1) shall not exercise the right of entry conferred by subsection (1) unless 24 hours’ notice in writing of the intended entry has been given to the occupier.\n\n(3) Subsection (2) does not apply in respect of any entry into a place of public entertainment or public assembly, factory, workshop or workplace or premises otherwise used for business purposes."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "heading": {
+    "en": "Power to board vessel for various purposes"
+   },
+   "text": {
+    "en": "(1) The Director or any authorised officer on producing, if so required, an authenticated document showing his authority shall have a right to board any vessel at all reasonable hours for all or any of the following\n\n(a) obtaining information required for fire-fighting purposes with respect to the character of the vessel, the availability of water supplies and the means of access thereto and other material circumstances relating to fire-fighting purposes;\n\n(b) conducting fire-drills and exercises;\n\n(c) performance by the Director or the member of his or its powers under this Act or any other written law.\n\n(2) The Director or any authorised officer shall not exercise the right to board any vessel conferred by subsection (1) unless prior reasonable notice in writing has been given to the owner of a vessel."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "heading": {
+    "en": "Power to enter premises etc. up to 48 hours after fire"
+   },
+   "text": {
+    "en": "(1) For the purposes of investigating the cause or origin of any fire which has occurred in or on any aircraft, vessel or vehicle, or in or on any premises, the Director or any authorised officer —\n\n(a) may enter and inspect those premises or any adjacent premises, or may board the aircraft, vessel or vehicle, as the case may\n\n(b) may seize or detain the aircraft or vehicle.\n\n(2) The power conferred under subsection (l)(a) on the Director or any authorised officer may be exercised —\n\n(a) without notice within a period of 48 hours after the fire on the premises, aircraft, vessel or vehicle, as the case may be, has been put\n\n(b) in any other case, only after giving notice in writing of the intended entry to the occupier of the premises or intended boarding to the owner of the aircraft, vessel or vehicle, as the case may be.\n\n(3) However, this section does not authorise the Director or any authorised officer, to enter any part of premises, or to board any part of an aircraft, vessel or vehicle, as the case may be, without first producing, if so required, an authenticated document showing his authority to so enter or\n\n(4) For the avoidance of doubt, nothing in this section shall limit the powers of any authority to investigate accidents under any written law for the time being in force relating to air navigation or merchant shipping."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "heading": {
+    "en": "Powers ancillary to sections 6, 7 and 8"
+   },
+   "text": {
+    "en": "(1) The Director or any authorised officer exercising the powers under section 6, 7 or 8 may (so far as may be reasonably necessary for the purpose to which his exercise of the powers relates) do all or any of the following in the premises, aircraft, vehicle or vessel, as the case may be —\n\n(a) take with him any assistance or equipment;\n\n(b) search the premises, aircraft, vehicle or vessel;\n\n(c) take photographs or video recordings of and conduct any inspection, measurement or test on the premises, aircraft, vehicle or vessel or any thing found therein;\n\n(d) take, without payment, for the purpose of examination reasonable samples of any description from the premises, aircraft, vehicle or vessel;\n\n(e) seize or detain any thing found in the premises, aircraft, vehicle or vessel that he believes on reasonable grounds to be connected with the commission of any offence against this Act or to be otherwise relevant to the administration or enforcement of this Act:\n\n(f) do any other thing reasonably necessary for carrying out the purpose to which his exercise of the powers relates.\n\n(2) For the purposes of section 6, 7 or 8 or subsection (l)(b), the Director or any authorised officer may —\n\n(a) require the owner or occupier of the premises, or the owner or person having charge of the aircraft, vehicle or vessel, as the case may be, to provide all reasonable assistance to the Director or authorised\n\n(b) if the circumstances so warrant, with such assistance as he thinks necessary, break open any door, window, lock, fastener, hold, compartment, box, container, receptacle or any other thing.\n\n(3) Any person who fails to comply with any requirement made under\n\n(a) is guilty of an offence.\n\n(4) Where the Director or any authorised officer seizes any thing under subsection (l)(e), he shall —\n\n(a) immediately give notice in writing of the seizure to the owner of the thing seized or to the agent of such owner; or\n\n(b) if the name and address of the owner or agent of the thing seized are not known, affix a notice prominently at the place where the thing was seized.\n\n(5) Any person aggrieved by the seizure of any thing under\n\n(e) may, within 48 hours after the seizure, complain thereof to the Minister, whose decision is final.\n\n(6) Upon considering such complaint, the Minister may —\n\n(a) confirm the seizure wholly or in part;\n\n(b) disallow the seizure wholly or in part; or\n\n(c) order that any thing seized be restored to its owner, subject to any condition which the Minister may think fit to impose to ensure that the thing is preserved for any purpose for which it may subsequently be\n\n(7) Any thing seized under subsection (l)(e) may be kept or stored at the place where it was seized or may, at the direction of the Director or authorised officer, be removed to any other place to be kept or stored.\n\n(8) The Director or any authorised officer may mark, seal or label any thing being detained under subsection (l)(e) in such manner as he thinks fit for the purpose of indicating that the thing is under detention and may lock or seal the place (or any part thereof) in which the thing is being detained.\n\n(9) Any person who, without the authority of the Director or an authorised officer —\n\n(a) interferes with, removes or otherwise disposes of any thing seized or detained under section 6, 7 or 8 or tampers with, alters or removes any mark, seal or label placed under subsection (6); or\n\n(b) opens, breaks or otherwise tampers with the lock or seal placed under subsection (6), is guilty of an offence and liable on conviction to a fine not exceeding $10,000, imprisonment for a term not exceeding 6 months or both.\n\n(10) Subsections (4) to (9) apply to any aircraft or vehicle seized under section 8 as if they were seized or detained under subsection (l)(e).\n\n(11) Nothing in this section shall be taken to prejudice any right to retain or dispose of property which may exist in law apart from this section."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "heading": {
+    "en": "Exemption of Royal Brunei Armed Forces"
+   },
+   "text": {
+    "en": "Sections 5 to 9 do not apply to any aircraft, vehicle or vessel belonging to or exclusively employed in the service of the Royal Brunei Armed Forces or of any visiting force lawfully present in Brunei Darussalam."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "heading": {
+    "en": "Power to fix plate showing position of fire hydrant"
+   },
+   "text": {
+    "en": "(1) Upon giving 7 days’ notice in writing to the owner or occupier of any property situate in the vicinity of a fire hydrant or water supply, the Director may thereafter cause a plate indicating the location of such fire hydrant or water supply to be fixed to any part of the property as may, in the opinion of the Director, be best suited to indicate such location.\n\n(2) Any person who refuses to allow the fixing of any such plate referred to in subsection (1), or obstructs any person in the course of the fixing thereof or removes or defaces any such plate after it has been so fixed is guilty of an offence and liable on conviction to a fine not exceeding $1,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $3,000 and imprisonment for a term not exceeding 6 months."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "heading": {
+    "en": "Power to install fire hydrants"
+   },
+   "text": {
+    "en": "The Director may place or cause to be placed fire hydrants as he may think necessary at convenient places in streets or roads."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "heading": {
+    "en": "Damage etc. to fire hydrants"
+   },
+   "text": {
+    "en": "(1) Any person who —\n\n(a) not being a member, takes water from a fire hydrant other than for the extinguishment of a fire without the consent of the\n\n(b) covers up, encloses, or conceals any fire hydrant so as to render its location difficult to ascertain;\n\n(c) wilfully damages a fire hydrant; or\n\n(d) tampers with any fire hydrant, is guilty of an offence and liable on conviction to a fine not\n\n(2) Any person convicted of an offence under subsection (l)(b) shall, in addition to the fine imposed on him under that subsection, also be liable to pay compensation to the Government for any expenses reasonably incurred in repairing or replacing such fire hydrant."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "text": {
+    "en": "(1) Any person who knowingly gives or causes to be given a false alarm of fire to the member or to the police is guilty of an offence and liable on conviction to a fine not exceeding $5,000, imprisonment for a term not exceeding 3 months or both.\n\n(2) For the purposes of this section, “false alarm of fire” includes a false call for the ambulance or other services provided by the member. Damage etc. to fire protection system"
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "text": {
+    "en": "Any person who damages, conceals, or activates or deactivates, any fire protection system without reasonable excuse is guilty of an offence and liable on conviction to a fine not exceeding $5,000.\n\nFIRE HAZARD IN PREMISES"
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Abatement of fire hazards"
+   },
+   "text": {
+    "en": "(1) The Director may, if satisfied of the existence in or on any premises of any fire hazard, serve —\n\n(a) upon the person by reason of whose act, default or sufferance the fire hazard arose or continues;\n\n(b) if such person is the employee or agent of some other person, upon such other person; or\n\n(c) upon the owner or occupier of the premises in or on which such fire hazard exists, a notice in writing requiring him to abate the fire hazard within the period specified in the notice, and to do all such things as may be necessary for that purpose, and to take all steps necessary to prevent the recurrence of such fire\n\n(2) The notice may, if the Director thinks fit, specify any works to be executed for the purposes mentioned in subsection (1).\n\n(3) The notice may, if the Director thinks fit, require the person on whom the notice is served under subsection (1) to submit, within the period specified in the notice, a fire hazard mitigation plan to prevent such fire hazard from recurring in or on the premises.\n\n(4) Where the person by reason of whose act, default or sufferance a fire hazard arose or continues cannot be found and it is clear that the fire hazard neither arose nor continues by reason of any act, default or sufferance on the part of the owner or occupier of the premises in or on which it exists, the Director may abate the hazard and may do what is necessary to prevent a recurrence thereof.\n\n(5) Where a fire hazard abatement notice has been served on any person under subsection (1) and that person —\n\n(a) fails to comply with any of the requirements within the time specified in the notice; or\n\n(b) fails to take such steps as are specified in the notice to prevent the recurrence of the fire hazard, he is, whether or not an order under section 19 has been made in respect of him, guilty of an offence."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Director may abate fire hazard in emergency"
+   },
+   "text": {
+    "en": "(1) Where a fire hazard abatement notice has been served upon any person under section 16 and if the person on whom the notice has been served fails to comply with any of the requirements of the notice within the time specified therein, the Director may, if he is satisfied that the fire hazard to which the notice relates —\n\n(a) constitutes an immediate or substantial danger of fire in or on\n\n(b) is likely, if fire breaks out in or on the premises, to increase the normal risk to life which occurs in the event of a fire, cause to be carried out in or on the premises such work, including the removal and seizure of any property causing the fire hazard, as appears to him to be necessary to abate the fire hazard and to prevent a recurrence\n\n(2) The Director may recover the expenses incurred under subsection (1) from the person on whom the notice has been served."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Power to order closure of premises in emergency"
+   },
+   "text": {
+    "en": "(1) The Director may, if he is satisfied of the matters specified in section 17 and that it is necessary for the safety of persons that the premises should be closed immediately —\n\n(a) order the owner or occupier of the premises to close the premises immediately for such period not exceeding 72 hours as is specified in that order and as the Director considers necessary for the alleviation of the danger in question; or\n\n(b) if an order referred to in paragraph (a) cannot for any reason be given to the owner or occupier of the premises or if such an order, having been given to that owner or occupier, is not immediately obeyed, close the premises for such period not exceeding 72 hours as the Director considers necessary for the alleviation of the danger in question, using such force as is reasonably necessary for the removal from the premises of persons therein without doing them bodily harm.\n\n(2) The Director may exercise the powers under subsection (1)(a) or (b) in respect of the occurrence of a fire hazard, whether or not the fire hazard has been abated since the service of a fire hazard abatement notice on the owner or occupier of the premises under section 16, if —\n\n(a) within the 24 months immediately before that fire hazard arose, the same owner or occupier of the premises (as the case may be) had been convicted of any combination of three or more offences under subsection (9) or section 16(5), 19(5) or 20(4) in respect of the premises, whether or not any of those offences related to a fire hazard similar to that fire hazard;\n\n(b) the Director is satisfied that it is necessary for the safety of persons for the premises to be closed immediately; and\n\n(c) the Director has not previously exercised the powers under this subsection in respect of the same occurrence of the fire hazard.\n\n(3) The Director giving an order under subsection (1) or (2) shall do so —\n\n(a) in writing served on the owner or occupier of the premises in\n\n(b) orally, in which case he shall, as soon as is practicable thereafter, serve on the owner or occupier of the premises in question, confirmation in writing of the contents of that order and of the time and place at which that order was so given, and shall cause a copy of that order or confirmation, as the case requires, to be affixed to that premises in a conspicuous position.\n\n(4) The Director may, if he considers that the danger to which an order given under subsection (1) or (2) relates has been alleviated, rescind that\n\n(5) Any police officer may, if requested by the Director or an authorised officer to do so, assist the Director or authorised officer in the exercise of any power conferred on the Director by this section.\n\n(6) If the Director or an authorised officer considers that a danger in relation to which he has exercised the power conferred on him by subsection (1) or (2) cannot be, or has not been, alleviated within a period of 72 hours referred to in that subsection, he shall, having given prior notice of his intention to do so to the owner or occupier of the premises in question as is practicable in the circumstances, apply to a Court of a Magistrate for an order directing the owner or occupier to close or keep closed, as the case requires, that premises for such period as the Court considers necessary for the alleviation of that danger.\n\n(7) A Court of a Magistrate may, on an application made to the Court under subsection (6), grant, subject to such conditions as the Court thinks fit to impose, the order sought by the application.\n\n(8) If an application is made to a Court of a Magistrate under subsection (6) while the premises in question is closed under subsection (1) or (2), that closure shall continue until the application is finally determined or is withdrawn.\n\n(9) Any person who, without reasonable excuse, fails to comply with any closing order given by the Director under subsection (1) or (2) or the order made by the Court of a Magistrate under subsection (7) is guilty of an offence and liable on conviction —\n\n(a) to a fine not exceeding $100,000, imprisonment for a term not exceeding 12 months or both; and\n\n(b) in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.\n\n(10) In considering whether it is necessary for the safety of persons for the premises to be closed immediately or whether a danger has been alleviated, in relation to the application of this section to a fire hazard, the Director or the Court of a Magistrate (as the case may be) may consider whether that fire hazard —\n\n(a) is likely to recur in or on the premises; and\n\n(b) if it were to recur in or on the premises, would —\n\n(i) constitute an immediate or substantial danger of fire in or on the premises; or\n\n(ii) be likely, if a fire breaks out in or on the premises, to increase the normal risk to life which occurs in the event"
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Fire hazard order"
+   },
+   "text": {
+    "en": "(1) Where a fire hazard abatement notice is served on any person, and if —\n\n(a) that person fails to comply with any of the requirements of the notice within the time specified therein; or\n\n(b) the fire hazard, although abated since the service of the notice, is, in the opinion of the Director, likely to recur in or on the the Director may make a complaint to the Court of a Magistrate and the Court hearing the complaint may grant or refuse to grant a fire hazard order.\n\n(2) A fire hazard order referred to in subsection (1) may be —\n\n(a) an abatement order, which requires a person to comply with all or any of the requirements of a fire hazard abatement notice in connection with which the order is made, or otherwise to abate the fire hazard or to do what may be necessary to prevent the recurrence of the fire hazard within the period specified in the order;\n\n(b) a prohibition order, which prohibits the use of any premises for such activities as are specified in the order which activities may materially increase the likelihood of fire or danger to life or property resulting from the outbreak of fire in or on the premises;\n\n(c) a closing order authorising the closure of any premises which is likely to be a danger to life or property in the event of fire; or\n\n(d) a combination of such orders.\n\n(3) An abatement order or a prohibition order shall, if the person in respect of whom the order is made so requires or if the Court of a Magistrate making the order considers it desirable, specify the works to be executed by such person for the purpose of abating, or of preventing the recurrence of, the fire hazard to which the order relates.\n\n(4) A Court of a Magistrate, if satisfied that any premises in respect of which a prohibition order or a closing order granted under section 18(7) or this section is in force has been rendered suitable for the use specified in the order, may, on application by the Director or the owner or occupier of the premises, declare that it is so satisfied and revoke the prohibition order or\n\n(5) Any person in respect of whom a fire hazard order is made who, without reasonable excuse, fails to comply with the order is guilty of an offence and liable on conviction —\n\n(a) to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction; or\n\n(b) where the offence involves failure to comply with a closing order, to a fine not exceeding $100,000, imprisonment for a term not exceeding 12 months or both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.\n\n(6) Without prejudice to subsection (5), where a fire hazard order has not been complied with, the Director may abate the fire hazard and may do whatever may be necessary in the execution of the order, and may recover any expenses reasonably incurred thereby from the person against whom the order was made."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Provision as to appeal against order"
+   },
+   "text": {
+    "en": "(1) Where a person appeals to the High Court against a fire hazard order, the fire hazard order shall be suspended pending the determination or abandonment of the appeal.\n\n(2) If the fire hazard order has not been quashed on appeal, the period for compliance with the requirements of the fire hazard order shall commence to run on the determination or abandonment of the appeal.\n\n(3) There shall be no appeal to the High Court against a fire hazard order, unless it is or includes a closing order or requires the execution of structural works.\n\n(4) If the appeal against a fire hazard order is dismissed or is abandoned, then notwithstanding subsections (1) and (2), the appellant is guilty of an offence and liable on conviction to a fine not exceeding $1,000 for every day or part thereof during the period prior to the dismissal or abandonment of the appeal when the fire hazard order was not complied with.\n\n(5) A fine under subsection (4) shall not be payable if the appellant satisfies the court before which proceedings are taken for the imposition of the fine that there was substantial ground for the appeal and that the appeal was not brought merely for the purpose of delay.\n\n(6) In the event of an appeal against a fire hazard order, no work, except as mentioned in subsection (7), shall be done under section 19(6) until after the determination or abandonment of the appeal.\n\n(7) If the court by which the order was made is of the opinion that the nature of the fire hazard is such as to require immediate abatement, the court may, notwithstanding that the appeal is pending, authorise the Director immediately to abate the hazard."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Property and materials seized or removed by Director in abating fire"
+   },
+   "text": {
+    "en": "(1) Any property or materials seized or removed by the Director in abating or doing what is necessary to prevent the recurrence of a fire hazard under this Act or in enforcing any regulations made thereunder, may be confiscated by the Director or may, on application by the owner within 2 weeks of such seizure or removal, be returned to him on such conditions as the Director thinks fit.\n\n(2) Any property or materials confiscated by the Director under subsection (1) may be sold or disposed of in such manner as the Minister may direct.\n\n(3) The money arising from the sale of any property under subsection (2) may be retained by the Director and applied in payment of the expenses incurred by him in connection with the abatement of the fire hazard and the surplus, if any, shall be paid —\n\n(a) to the owner of such property if he applies therefor within 12 months of the date of the sale; or\n\n(b) into the Consolidated Fund if, or to the extent to which, the surplus is not disposed of under paragraph (a). Recovery of costs and expenses by Director"
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "text": {
+    "en": "(1) If all and any sums payable by or recoverable from the owner in respect of costs and expenses incurred by the Director in or about the execution of any work which are under this Act recoverable from the owner of any premises are not paid by the owner within 14 days after demand, such sums may be reported to a Court of a Magistrate and recovered in the same manner as if it were a fine imposed by a Court of a Magistrate.\n\n(2) An appeal shall lie to the High Court from any decision of a Court of a Magistrate under this section, and the provisions of the Criminal Procedure Code (Chapter 7) apply, with the necessary modifications, to all such appeals.\n\n(3) The person liable to pay any sum under subsection (1) shall be the owner at the time when the work was completed.\n\n(4) Any occupier who, when requested by or on behalf of the Director to state the name of the owner of the premises, refuses or wilfully omits to disclose or wilfully mis-states the name is, unless he shows cause to the satisfaction of a Court of a Magistrate for his refusal or mis-statement, guilty of an offence and liable on conviction to a fine not exceeding $1,000.\n\nFIRE PREVENTION IN BUILDINGS"
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "Fire certificate"
+   },
+   "text": {
+    "en": "(1) The Director may, by notice in writing, require the owner or occupier of any building subject to this section to apply and obtain a fire certificate from the Director.\n\n(2) The following buildings shall be subject to this section —\n\n(a) any public building which has an occupant load of more than two hundred persons or, if so specified with such other occupant load as the Minister may, by notification published in the Gazette, specify;\n\n(b) any other particular building, or any building in any other class of buildings, designated by the Minister under subsection (3) to be subject to this section.\n\n(3) Where, in the opinion of the Minister, any fire within any building (whether used as a residential building or an industrial building or otherwise) is likely to be a significant source of danger to the occupants in the building, or to life or property in the vicinity of that building, the Minister may, by order published in the Gazette, designate that particular building or a class of such buildings to be subject to this section.\n\n(4) The Director may, pending compliance with any requirements relating to fire safety affecting any part of a building subject to this section, issue a fire certificate in respect only of any other part of the building if he is satisfied that those requirements do not affect the fire safety of that other part\n\n(5) No person shall occupy or use any building or part thereof subject to this section or permit the building or part thereof to be occupied or used without a fire certificate authorising such occupation or use.\n\n(6) Such application shall be in accordance with the regulations made\n\n(7) Any person to whom subsection (1) or (5) applies who contravenes subsection (1) or (5) is guilty of an offence.\n\n(8) In this section — “industrial building” means any building or part of a building which is used wholly or mainly for —\n\n(a) the manufacture of goods or materials or the subjection of goods or materials to any process, including any research or development for any manufacturing trade or business; or\n\n(b) the purposes of any water, gas, telecommunication, electricity or other industrial undertaking, including research and development for any such industrial undertaking; “occupant load”, in relation to a building, means the number of persons that may safely occupy the building at any one time."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "Emergency Response Plan"
+   },
+   "text": {
+    "en": "(1) The Minister may, by notification published in the Gazette, designate any premises or class of premises for which an emergency response plan shall be provided.\n\n(2) Such emergency response plan shall conform to such requirements as may be prescribed in any regulations made under this Act, and such requirements may differ for different classes of premises.\n\n(3) The owner or occupier of the premises shall be responsible for the preparation and execution of the emergency response plan, including the distribution of the emergency response plan to the occupants of such\n\n(4) The owner or occupier of the premises shall organise and conduct evacuation drills on an annual basis or at such frequency or upon such occasion as may be directed by the Director.\n\n(5) Any person who contravenes this section is guilty of an offence. Meaning of owner or occupier in this Part"
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "text": {
+    "en": "In this Part, where a building or premises is a building erected on land comprised in a strata subdivision plan approved by the competent authority, references to the owner or occupier of the building or premises shall not include references to the subsidiary proprietors or tenants of any part of the building or premises.\n\nCONTROL OF FIRE SAFETY WORKS"
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Fire safety works"
+   },
+   "text": {
+    "en": "(1) Subject to the provisions of this Act, the person for whom any proposed fire safety works are to be commenced or carried out shall apply, in accordance with the regulations made under this Act, to the Director for approval of the plans of the fire safety works.\n\n(2) Subject to the provisions of this Act, every person for whom any fire safety works (whether as part of any building works or otherwise) are to start shall, before making an application under subsection (1) for approval of the plans of those fire safety works, appoint in any other case, an appropriate qualified person to prepare the plans of those fire safety works.\n\n(3) The Director may —\n\n(a) approve, subject to such conditions as he may impose, any one or more of the plans submitted to him under subsection (1);\n\n(b) disapprove any of the plans which is not in order; or\n\n(c) in writing direct the applicant to comply, within such period as may be specified in the direction, with such requirements as the Director may specify for the purpose of ensuring compliance with the provisions of this Act.\n\n(4) If the person to whom any written direction is given under subsection (3) fails to comply with the requirements specified in the direction within the time specified therein, the Director may reject the plans.\n\n(5) Where an application is made under subsection (1) regarding any plans of any fire safety works, the Director may, without checking the plans, approve those plans if in the case of plans referred to in subsection (2), the application and plans are accompanied by a written declaration by the qualified person who prepared those plans declaring that the plans have been prepared in accordance with any requirements specified, or conditions imposed, by the Director under subsection (3) and the provisions of this Act.\n\n(6) Notwithstanding subsection (5), the Director may, in his discretion, carry out random checks on any plans of fire safety works at any time before or after approving the plans under that subsection.\n\n(7) The Director may at any time revoke any approval granted in respect of any plans of fire safety works —\n\n(a) under subsection (3)(a), if he is satisfied that any information given in the application for approval or any document submitted to the Director in respect of the application for approval is false in a material particular; and\n\n(b) under subsection (5), if he is satisfied that the written declaration submitted by the qualified person referred to in that subsection is false.\n\n(8) The Director shall not revoke any approval granted in respect of any plans of fire safety works unless —\n\n(a) he has given a written notice to the person for whom the fire safety works are carried out to comply, within such period as may be specified in the notice, with such requirements as the Director may specify for the purpose of ensuring compliance with any of the provisions of this Act; and\n\n(b) the person has failed or refused to comply with the requirements specified in the written notice.\n\n(9) The requirements referred to in subsection (8) may include —\n\n(a) the amendment of any of the approved plans of fire safety\n\n(b) the rectification of the fire safety works; and\n\n(c) the alteration or demolition of a building or part thereof to which the fire safety works relate.\n\n(10) Any person who fails or refuses to comply with any requirement specified in the written notice given by the Director under subsection (8)(a) is guilty of an offence.\n\n(11) The Director shall in writing notify the person for whom the fire safety works are carried out of his decision —\n\n(a) to disapprove any plans of fire safety works under\n\n(b);\n\n(b) to reject any of fire subsection (4); or\n\n(c) to revoke an approval granted in respect of any plans of fire safety works under subsection (7), and shall specify a date, not less than 14 days from the date of the written notification, on which the decision of the Director shall take effect.\n\n(12) Where a decision of the Director to revoke any approval granted in respect of any plans of fire safety works has taken effect —\n\n(a) any fire certificate issued for the purposes of section 23 in respect of any building to which the fire safety works relate; and\n\n(b) any fire safety certificate or temporary fire permit issued in respect of the fire safety works under section 31, as the case may be, shall automatically lapse.\n\n(13) For the purposes of this section, any plans of any fire safety works that are prepared in accordance with the solutions issued by the Director as in compliance with the fire performance requirements is deemed to satisfy such fire performance requirements as the Director may specify."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Prohibition of fire safety works without approval of plans"
+   },
+   "text": {
+    "en": "(1) Except as otherwise provided in this Act, no person shall commence or carry out or permit or authorise the commencement or carrying out of any fire safety works unless, the Director has approved all the plans of the fire safety works under section 26.\n\n(2) Any person who contravenes or fails to comply with subsection (1) is guilty of an offence and liable on conviction to a fine not exceeding $200,000, imprisonment for a term not exceeding 2 years or both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Appointment and duties of qualified person"
+   },
+   "text": {
+    "en": "(1) Subject to the provisions of this Act, every person for whom any fire safety works are or are to be carried out shall appoint the same qualified person who prepared the approved plans of those fire safety works to supervise the fire safety works as required under this section.\n\n(2) If any qualified person appointed under subsection (1) becomes unwilling or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his duties under subsection (4) —\n\n(a) the qualified person within 14 days of his ceasing to carry out his duties, notify the Director and the person for whom such works are or are to be carried out of the fact; and\n\n(b) the person for whom the fire safety works are or are to be carried out shall cease or cause to be ceased and shall not commence or cause to be commenced the carrying out of such work until he has appointed another appropriate qualified person in respect of such\n\n(3) Where the person for whom any such works are or are to be carried out appoints an appropriate qualified person under subsection (2)(b), he shall, within 7 days of the appointment, notify the Director of the\n\n(4) Every qualified person appointed under this section in respect of any fire safety works shall —\n\n(a) take all reasonable steps and exercise due diligence in supervising and inspecting the fire safety works to ensure that such works are being carried out in accordance with the provisions of this Act and subject to section 30, any regulations made under this Act, the plans approved in respect thereof by the Director and any requirements specified, or conditions imposed, by the Director under section 26(3);\n\n(b) notify the Director of any contravention of the provisions of this Act in connection with the fire safety works; and\n\n(c) submit to the Director at such times as the Director may determine such reports and certificates as may be prescribed.\n\n(5) Any person who contravenes or fails to comply with\n\n(b) is guilty of an offence and liable on conviction to a fine not $50,000, for a term not exceeding 12 months or both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.\n\n(6) Any qualified person who contravenes or fails to comply with subsection (4) is guilty of an offence and liable on conviction to a fine not exceeding $10,000, imprisonment for a term not exceeding 6 months or both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after\n\n(7) It shall be a defence in any prosecution for a contravention or non-compliance with subsection (4)(b) for the person charged to prove to the satisfaction of the court that he did not know, nor could reasonably have discovered, the contravention or non-compliance referred to in the charge.\n\n(8) Any qualified person or person for whom any fire safety works are or are to be carried out, as the case may be, who, without reasonable excuse, contravenes or fails to comply with subsection (2)(a) or (3) is guilty of an"
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Supervision of fire safety works"
+   },
+   "text": {
+    "en": "(1) Except as otherwise provided in this Act, no person shall commence or carry out any fire safety works except under the supervision of an appropriate qualified person appointed under section 28(1) or (2)(b).\n\n(2) Any person who contravenes or fails to comply with subsection (1) is guilty of an offence and liable on conviction to a fine not exceeding $200,000, imprisonment for a term not exceeding 2 years or both and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Modification or waiver of requirements relating to fire safety"
+   },
+   "text": {
+    "en": "(1) The Director may, on receipt of an application in relation to any particular fire safety works, modify or waive, subject to such conditions as he may impose, any of the requirements relating to fire safety in buildings or in relation to relevant pipelines as may be prescribed.\n\n(2) Every such application shall —\n\n(a) be made in writing to the Director by or on behalf of the owner of the building or the person for whom the relevant pipeline works are being carried out, as the case may be, to which the application relates;\n\n(b) state the nature and extent of and the reasons for the proposed modification or waiver of such requirements; and\n\n(c) be accompanied by such plans and other particulars as may\n\n(3) Where an application made under subsection (2) is refused, or is granted by the Director subject to such conditions as he may impose, the applicant may, if aggrieved by the decision of the Director, appeal in such form and manner as the Director may determine together with payment of the prescribed fees to the Minister within 28 days of the date of notification of the decision.\n\n(4) The decision of the Minister on such appeal shall be final."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Fire safety certificate"
+   },
+   "text": {
+    "en": "(1) Any person for whom any fire safety works had been carried out and completed shall apply to the Director and obtain a fire safety certificate in respect of the completed fire safety works.\n\n(2) All applications under subsection (1) shall be made to the Director in such form as the Director may determine and in the manner prescribed in any regulations made under this Act.\n\n(3) The Director may, on application by such person in the prescribed manner, in relation to any building or relevant pipeline, or part thereof —\n\n(a) issue the fire safety certificate, subject to such conditions as he thinks fit; or\n\n(b) issue a temporary fire permit and may in writing direct the applicant to comply, within such period as may be specified in the direction, with such requirements as the Director may specify for the purpose of ensuring compliance with the provisions of this Act.\n\n(4) If the person to whom any written direction is given under\n\n(b) fails to comply with the requirements specified in the direction within the time specified therein, the application is deemed to be withdrawn.\n\n(5) Where an application for a fire safety certificate under subsection (1) is accompanied by a written declaration by a qualified person appointed under section 28 in respect of any fire safety work certifying that, to the best of the knowledge and belief of the qualified person, the completed fire safety works to which the application relates have been carried out in accordance with the approved plans of safety works, any requirements specified, or conditions imposed, by the Director under subsection (3)(b), and the provisions of this Act, the Director may, without inspecting the completed fire safety works, issue a fire safety certificate or temporary fire permit, as the Director considers appropriate, on the basis of the written declaration of the qualified person.\n\n(6) Notwithstanding subsection (5), the Director may, in his discretion, carry out random inspections on the completed fire safety works to which any application under this section relates, at any time before or after the issuing of a fire safety certificate or temporary fire permit.\n\n(7) The Director may at any time revoke any fire safety certificate or temporary fire permit issued in respect of any completed fire safety works —\n\n(a) under subsection (3), if he is satisfied that any information given in the application for a fire safety certificate or any document submitted to the Director in respect of the application for the fire safety certificate is false in a material particular; and\n\n(b) under subsection (5), if he is satisfied that the written declaration of the qualified person referred to in that subsection is\n\n(8) The Director shall not revoke a fire safety certificate or temporary fire permit unless —\n\n(a) he has given a written notice to the person for whom the fire safety works have been carried out to comply, within such period as may be specified in the notice, with such requirements as the Director may specify for the purpose of ensuring compliance with any of the provisions of this Act; and\n\n(b) the person has failed or refused to comply with the requirements specified in the written notice.\n\n(9) The requirements referred to in subsection (8) may include —\n\n(a) the amendment of any of the approved plans of fire safety works to which the completed fire safety works relate;\n\n(b) the rectification of the completed fire safety works; and\n\n(c) the alteration or demolition of a building or part thereof to which the completed fire safety works relate.\n\n(10) Any person who fails or refuses to comply with any requirement specified in the written notice given by the Director under subsection (8)(a) is guilty of an offence.\n\n(11) The Director shall in writing notify the person for whom the fire safety works are carried out of his decision to revoke a fire safety certificate or temporary fire permit, and shall specify a date, not less than 14 days from the date of the written notification, on which the decision of the Director shall take effect.\n\n(12) Any person who fails to comply with this section or with any condition imposed by the Director under subsection (3)(a) is guilty of an offence and liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Application for change of use of premises"
+   },
+   "text": {
+    "en": "(1) Any person who changes the use of a premises shall, if such change of use would cause the existing fire safety measures to become inadequate, prior to carrying out the change, apply to the Director for approval to change the use of the premises.\n\n(2) All applications for permission to change the use of the premises shall be made to the Director in such form as the Director may determine and in the manner prescribed in any regulations made under this Act.\n\n(3) The Director may, on application in the prescribed manner, in relation to any premises or part thereof —\n\n(a) grant permission for the change of use, subject to such conditions as he may impose; or\n\n(b) in writing direct the applicant to comply, within such period as may be specified in the direction, with such requirements as the Director may specify for the purpose of ensuring compliance with the provisions of this Act and such written directions may also —\n\n(i) require the applicant to provide additional fire safety measures in relation to the building; or\n\n(ii) provide that the work or alteration shall be completed before the expiration of a specified period.\n\n(4) If the to whom any\n\n(b) fails to comply with the requirements specified in the direction within the time specified therein, the application is deemed to be withdrawn.\n\n(5) Any person who fails to comply with this section or with any condition imposed by the Director under subsection (3)(a) is guilty of an offence and liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.\n\n(6) Nothing in this section shall be taken in any way to derogate from the provisions of the Town and Country Planning (Development Control) Act (Chapter 143) and any relevant rules made thereunder relating to change of use of premises."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Order for demolition, removal etc. of unauthorised fire safety works"
+   },
+   "text": {
+    "en": "(1) Where, in the opinion of the Director, any fire safety works are being carried out or have been carried out in contravention of the provisions of this Act (referred to in this section as the unauthorised fire safety works), the Director may by order in writing require —\n\n(a) the cessation of the unauthorised fire safety works until the order is withdrawn;\n\n(b) such work or alteration to be carried out to the unauthorised fire safety works, or the building or part thereof to which the unauthorised fire safety works reIate, as may be necessary to cause the unauthorised fire safety works to comply with any of the provisions of\n\n(c) the demolition of the building or part thereof to which the unauthorised fire safety works relate.\n\n(2) An order made under subsection (1) shall specify all or any of the\n\n(a) the manner in which the works, alteration or demolition referred to in subsection (1) is to be carried out;\n\n(b) the time within which the works, alteration or demolition shall be completed.\n\n(3) An order made under subsection (1) shall be served —\n\n(a) where a temporary fire permit has been granted in respect of a building under section 31(3)(b), on the owner of the building or the occupier of that part of the building affected by the order, as the case\n\n(b) where fire safety works are being carried out in relation to a building, on the person for whom the fire safety works are carried out or the qualified person supervising the fire safety works;\n\n(c) where a temporary fire permit has been granted in respect of a relevant pipeline under section 31(3)(b), on the pipeline owner or the person for whom the relevant pipeline works are carried out; or\n\n(d) where fire safety works are being carried out in relation to a relevant pipeline or part thereof, on the person for whom the fire safety works are carried out or the qualified person supervising the fire safety and shall specify a date, not less than 14 days from the date of the order, on which the order shall take effect.\n\n(4) If an order made under subsection (1) is not complied with and no appeal under section 35 has been made to the Minister in respect of the order before the order takes effect, the Director may —\n\n(a) demolish, remove or alter, or cause to be demolished, removed or altered, the building, the relevant pipeline or the unauthorised fire safety works or to take such other steps as may appear to the Director to be necessary, including ordering the closure of the building or part thereof or cessation of use of the relevant\n\n(b) recover all expenses reasonably incurred by him in the exercise of his powers under this section from the person in default.\n\n(5) Without prejudice to the right of the Director to exercise his powers under subsection (4), if any person on whom an order is served under subsection (3) fails to comply with the order, the person is guilty of an offence and liable on conviction to a fine not exceeding $100,000, imprisonment for a term not exceeding 12 months or both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.\n\n(6) The Director may seize any material resulting from the carrying out of any work under subsection (4).\n\n(7) Any material seized by the Director under this section shall be confiscated by the Director and shall be disposed of in such manner as the Director thinks fit, and the proceeds, if any, of such disposal shall be paid into the Consolidated Fund."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "text": {
+    "en": "(1) Where the Director makes an order under section 33(4)(a) requiring the closure of any building or cessation of use of any relevant pipeline or a part thereof, the order (referred to in this section as a closure order) shall be served —\n\n(a) where the closure order relates to the building, on the owner\n\n(b) where the closure order relates to a part of the building, on the occupier of that part of the building; or\n\n(c) where the closure order relates to a relevant pipeline, on the\n\n(2) A closure order shall specify a date, not less than 14 days after the date of the closure order, on which the closure order shall take effect, and may require the person served —\n\n(a) where the order relates to a building or a part of the building, to cease to inhabit or use the building or that part thereof and to remove all goods, furniture and effects from the building or that part thereof before the closure order takes effect: or\n\n(b) where the order relates to a relevant pipeline, to cease using the pipeline or allowing it to be used.\n\n(3) Subject to subsection (5), where a closure order is in force in respect of a building or part thereof, as the case may be, no person other than a member in the course of his duty shall enter, be in or use the building or that part thereof to which the closure order relates at any time.\n\n(4) Any person who contravenes or fails to comply with subsection (3) is guilty of an offence and liable on conviction to a fine not exceeding $10,000, imprisonment for a term not exceeding 6 months or both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.\n\n(5) Where a closure order is in force in respect of a building or part thereof, as the case may be, the Director may, if he thinks fit and subject to such conditions as he may impose, by notice in writing permit any person to enter, be in or use the building or that part thereof to which the closure order\n\n(6) Any permission granted under subsection (5) may be cancelled by the Director at any time and for any reason.\n\n(7) A closure order shall remain in force in respect of a building or relevant pipeline, or the part thereof, as the case may be, until the Director has served a notice of expiry of the closure order —\n\n(a) where the closure order relates to the building, on the owner\n\n(b) where the closure order relates to a part of the building, on the occupier of that part of the building; or\n\n(c) where the closure order relates to a relevant pipeline, on the\n\n(8) A notice of expiry of a closure order shall specify the building or relevant pipeline, or the part thereof, to which it relates and the date upon which the closure order expires. Appeals to Minister"
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "text": {
+    "en": "(1) Any person aggrieved by —\n\n(a) a decision of the Director to disapprove any plans of fire safety works under section 26(3)(b);\n\n(b) a decision of the Director to reject any plans of fire safety works under section 26(4);\n\n(c) a decision of the Director to revoke any approval granted in respect of any plans of fire safety works under section 26(7);\n\n(d) a decision of the Director to revoke any fire safety certificate or temporary fire permit under section 31(7);\n\n(e) an order made by the Director under section 33(1); or\n\n(f) a closure order made by the Director under section 33(4)(a), may, before the decision or order, as the case may be, takes effect, appeal in writing to the Minister.\n\n(2) Where an appeal is made to the Minister under this section, the decision of or the order made by the Director shall, unless the Minister otherwise directs, not take effect unless —\n\n(a) it is confirmed by the Minister;\n\n(b) the appeal is for any reason dismissed by the Minister; or\n\n(c) the appellant withdraws the appeal.\n\n(3) The decision of the Minister on any appeal under this section is\n\nCONTROL OF PETROLEUM AND FLAMMABLE MATERIALS"
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "(1) In this Part and in section 63, unless the context otherwise “dispensing” means transferring any class of petroleum or any flammable material from one container to any other container or containers for the purpose of distribution, through hose, pipe or by any other means (but not including a pipeline laid or connected with permission the Act (Chapter 45) and includes discharging into a motor vehicle or from the tank of a road tanker; “goods vehicle” means a motor vehicle constructed or adapted for use for the carriage of goods or a trailer so constructed or adapted; “import”, with its grammatical variations and cognate expressions, means to take or cause to be taken into Brunei Darussalam by land, sea or air from any place outside Brunei Darussalam, but does not include the bringing into Brunei Darussalam by sea or air of any substance or product which it is proved to be intended to be taken out of Brunei Darussalam on the same vessel or aircraft on which the substance or product was brought into Brunei Darussalam without any landing or transhipment within Brunei “licensed premises” means any premises licensed for the storage or keeping of any class of petroleum or any flammable material under section 37; “liquefied petroleum gas” means any material having a vapour pressure not exceeding that allowed for commercial propane and composed predominantly of the following hydrocarbons, either by themselves or as mixtures —\n\n(a) propane;\n\n(b) propylene;\n\n(c) butane (normal butane or iso-butane); and\n\n(d) butylenes; “place” includes houses, yards and open spaces appurtenant thereto, buildings and footways and any underground space; “road tanker” means a goods vehicle which has a tank that is structurally attached or is an integral part of the frame of the “storage licence” means a licence to store or keep any class of petroleum or any flammable material at any premises specified in the licence; “transport”, in relation to any class of petroleum or any flammable material, means the carriage of such petroleum or flammable material by any vehicle on land from one place in Brunei Darussalam to another place, whether within or outside Brunei Darussalam, and includes —\n\n(a) the packing, loading and unloading of the goods, and the transfer of the goods to or from a vehicle;\n\n(b) the marking of packages and unit loads containing any class of petroleum or any flammable material for transport, and placarding containers and vehicles in which such petroleum or flammable material are transported; and\n\n(c) any other matters incidental to their transport.\n\n(2) For the purposes of this Part and section 63, a person may be regarded as transporting any class of petroleum or any flammable\n\n(a) by his marking packages and unit loads containing such petroleum or flammable material for transport, and placarding containers and any vehicles in which such petroleum or flammable material are transported;\n\n(b) by his consigning such petroleum or flammable material for\n\n(c) by his loading such petroleum or flammable material into or onto a vehicle, or into a tank container or container that is to be put on a vehicle, for transport or unloading any class of petroleum or any flammable material that has been transported;\n\n(d) by his marshalling vehicles and separating such petroleum or flammable material;\n\n(e) by his undertaking, or being responsible for, otherwise than as an employee or subcontractor, the transport of such petroleum or flammable material;\n\n(f) by his providing emergency information in relation to the transport of such petroleum or flammable material;\n\n(g) by his driving a vehicle carrying such petroleum or flammable material;\n\n(h) by being the consignee of such petroleum or flammable material that are to be transported; or\n\n(i) by being involved as a director, secretary or manager of a body corporate, or other person who takes part in the management of a body corporate, that takes part in an activity referred to in this"
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Storage of petroleum and flammable materials"
+   },
+   "text": {
+    "en": "No person shall store or keep, or cause to be stored or kept, any class of petroleum or any flammable material except —\n\n(a) in or on licensed premises;\n\n(b) in such quantities and in such manner and in accordance with requirements prescribed in relation to such petroleum or flammable material; and\n\n(c) under the authority of and in accordance with the provisions of a storage licence from the Director and every conditions specified"
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Import of petroleum and flammable materials"
+   },
+   "text": {
+    "en": "(1) No person shall import any class of petroleum or any flammable material if —\n\n(a) the regulations require the person importing such petroleum or flammable material to hold a licence from the Director to import such petroleum or flammable material; and\n\n(b) the person does not hold such a licence.\n\n(2) No person shall import any class of petroleum or any flammable material unless the importation —\n\n(a) is effected in accordance with the provisions of his licence and with every conditions specified therein; and\n\n(b) is in such quantities and in such manner and in accordance with requirements prescribed in relation to such petroleum or flammable material."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Transport of petroleum and flammable materials"
+   },
+   "text": {
+    "en": "(1) No person shall transport any class of petroleum or any flammable material (other than as a driver of a road vehicle) if —\n\n(a) the regulations require the person transporting such petroleum or flammable material to hold a licence from the Director to transport such petroleum or flammable material; and\n\n(b) the person does not hold such a licence.\n\n(2) No person shall transport any class of petroleum or any flammable material (other than as a driver of a road vehicle) unless the transportation —\n\n(a) is in accordance with the provisions of his licence and with every conditions specified therein; and\n\n(b) is in such quantities and in such manner and in accordance with requirements prescribed in relation to such petroleum or flammable material.\n\n(3) No person shall drive any vehicle transporting any class of petroleum or any flammable material by road if —\n\n(a) the regulations require the vehicle to be licensed to transport such petroleum or flammable material and the vehicle is not licensed by the Director to carry such petroleum or flammable material; and\n\n(b) the regulations require the person to hold a permit from the Director to drive a vehicle carrying such petroleum or flammable material and the person does not hold such a permit.\n\n(4) No person shall drive any vehicle transporting any class of petroleum or any flammable material by road unless he does so in such manner and in accordance with requirements prescribed in relation to such petroleum or flammable material, and in accordance with the provisions of his permit and every condition specified therein.\n\n(5) This section does not apply to petroleum or any flammable material in the fuel tank of a vehicle which is used or intended to be used as fuel for that vehicle."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Dispensing of petroleum and flammable materials"
+   },
+   "text": {
+    "en": "No person shall dispense or cause to be dispensed any class of petroleum or any flammable material except —\n\n(a) in or on licensed premises;\n\n(b) in accordance with the provisions of the storage licence for the licensed premises and with every condition specified therein; and\n\n(c) in the case of the dispensing of any class of petroleum or any flammable material into cylinders, where the regulations require a person so dispensing that class of petroleum or flammable material to have the specific approval of the Director, with such approval and in accordance with any conditions the Director may impose."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "text": {
+    "en": "Any person who contravenes section 37, 38, 39 or 40 is guilty of an"
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Powers of entry, inspection etc"
+   },
+   "text": {
+    "en": "(1) For the purposes of this Part, the Director shall have the following\n\n(a) stop and examine any vehicle when he has reason to believe that any class of petroleum or any flammable material is being transported in the vehicle in contravention of this Act;\n\n(b) inspect, examine and test all classes of petroleum or any flammable material stored on land and for such purposes take samples\n\n(c) enter any place where he has reason to believe that any class of petroleum or any flammable material is stored in contravention of\n\n(d) seize any stock of any class of petroleum, any flammable material or equipment in respect of which he has reason to believe that an offence against this Act has been committed.\n\n(2) If any place liable to inspection under this section is closed, any person residing in or being in charge of such place shall, on demand by any authorised officer, allow him free entry thereto and afford all reasonable facilities for a search therein.\n\n(3) If entry to such place cannot be obtained, any authorised officer may —\n\n(a) break open any outer or inner door or window of that place;\n\n(b) forcibly enter that place and every part thereof; or\n\n(c) remove by force any obstruction to such entry or search."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Power to waive requirements"
+   },
+   "text": {
+    "en": "(1) The Director may upon application by any person —\n\n(a) waive or modify any of the requirements of any licence or permit issued under this Part; or\n\n(b) waive the requirement for that person to obtain any licence or permit issued under this Part in any circumstances specified in writing by the Director if the Director is satisfied that fire safety will not be compromised in those circumstances.\n\n(2) A waiver or modification under subsection (1) —\n\n(a) may be granted subject to such conditions as the Director may specify in writing; and\n\n(b) need not be published in the Gazette and may be revoked at any time by the Director.\n\n(3) The Director may at any time add to, vary or revoke any condition imposed under this section.\n\n(4) The Minister may, by regulations, provide that the powers of the Director under subsection (1) shall be limited only to certain kinds of licences or permits or certain circumstances specified in the regulations."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Grant and renewal of licence or permit"
+   },
+   "text": {
+    "en": "(1) The grant of any licence or permit for the purposes of this Part shall be in the absolute discretion of the Director.\n\n(2) Every licence or permit granted under this Part shall be subject to such conditions as the Director thinks fit to impose.\n\n(3) Every licence or permit granted under this Part, if it has not been cancelled under section 45, may, on the application of the holder of the licence or permit, be renewed by the Director subject to such conditions as he thinks fit to impose.\n\n(4) Every licence or permit shall, on payment of the prescribed fees, be valid for such period not exceeding 3 years as the Director may determine.\n\n(5) Any person who is aggrieved by any decision of the Director under this section may, within one month of being notified of the decision of the Director, appeal to the Minister whose decision shall be final.\n\n(6) Any person who contravenes any of the conditions of a licence or permit granted under this Part is guilty of an offence."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Cancellation of licence or permit"
+   },
+   "text": {
+    "en": "(1) If at any time it appears to the Director that —\n\n(a) any premises or vehicle, in respect of which a licence or permit has been granted, has become unfit for the purpose for which it was licensed by reason of the increase of building or of population in its neighbourhood;\n\n(b) from any other cause, any licence or permit should for the public safety be cancelled; or\n\n(c) the person to whom the licence or permit was granted contravenes any of the conditions of the licence or permit, the Director may cancel the licence or permit.\n\n(2) The Director shall, before cancelling any licence or permit under subsection (1), give to the person concerned notice in writing of his intention to do so specifying a date, not less than 21 days after the notice, upon which the cancellation shall take effect and calling upon the person concerned to show cause to the Director why the licence or permit should not be cancelled.\n\n(3) When the Director has cancelled the licence or permit under subsection (1), he shall inform the person concerned by notice in writing of such cancellation as soon as it may be practicable.\n\n(4) The person whose licence or permit has been cancelled may, within 14 days of the receipt of the notice referred to in subsection (3), or such extended period of time as the Minister may allow, appeal in writing against the cancellation to the Minister whose decision shall be final.\n\n(5) An order of cancellation shall not take effect until the expiration of a period of 14 days after the Director has informed the holder of the licence or permit in question of the order.\n\n(6) If within that period the holder of the licence or permit in question gives due notice of appeal to the Minister, the order shall not take effect unless the order is confirmed by the Minister or the appeal is for any reason dismissed by the Minister. Disposal of stocks and equipment"
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "text": {
+    "en": "Any property or thing seized or removed by the Director in exercise of his powers under this Part or any regulations made under this Act shall be confiscated and shall be disposed of in such manner as the Director thinks fit, and the proceeds, if any, of such disposal shall be paid into the Consolidated Fund."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Damage done at fire"
+   },
+   "text": {
+    "en": "Any damage done or loss suffered in consequence of any action taken or work done by the Fire and Rescue in execution of its duties or powers on the occasion of a fire is deemed to be damage by fire within the meaning of any policy of insurance against fire."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Charging for extinguishing fires etc. on inland waters or sea"
+   },
+   "text": {
+    "en": "(1) The Director may charge fees for extinguishing any fire or protecting life and property in the event of any fire on inland waters or the sea, from such classes of persons as may be prescribed.\n\n(2) Different classes of persons and amounts of fees may be prescribed for different circumstances.\n\n(3) Any such unpaid fees may be recovered by the Government as a civil debt in any court of competent jurisdiction.\n\n(4) In this section, references to the sea are not restricted to the territorial waters of Brunei Darussalam."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Obstructing authorised persons in execution of their duty"
+   },
+   "text": {
+    "en": "Any person who obstructs, hinders or impedes the Director or any person authorised under this Act in the performance and execution of his duty or of anything which he is empowered or required to do by virtue or in consequence of or under this order is guilty of an offence and liable on conviction to a fine not exceeding $10,000, imprisonment for a term not exceeding 6 months or both."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Powers of arrest and search"
+   },
+   "text": {
+    "en": "(1) The Director or any member of or above the rank of Assistant Station Officer duly authorised in writing in that behalf by the Director or any police officer may without warrant arrest any person whom he reasonably suspects to have committed an offence against this Act if —\n\n(a) the name and address of the person are unknown to him;\n\n(b) the person declines to give his name and address; or\n\n(c) there is any reason to doubt the accuracy of the name and address, if given.\n\n(2) A person arrested under this section may be detained until his name and address are correctly ascertained.\n\n(3) No person arrested shall be detained longer than is necessary for bringing him before a court unless the order of a court for his detention is obtained.\n\n(4) Any member authorised by the Director in writing and any police officer may without a warrant and with or without assistance stop and search any person, whether in a public place or not, if he has reason to believe that any evidence of the commission of an offence against this Act or regulations made thereunder is likely to be found on such person and may seize any evidence so found.\n\n(5) No women shall be searched under subsection (4) except by a woman."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Power to investigate"
+   },
+   "text": {
+    "en": "(1) The Director and any authorised officer shall have the power to investigate the commission of any offence against this Act or any regulations\n\n(2) Every person required by the Director or any authorised officer to give information or produce any document or other article relating to the commission of any such offence which is in that person’s power to give shall be legally bound to give the information or to produce the document or other"
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Inaccuracies in documents"
+   },
+   "text": {
+    "en": "(1) No misnomer or inaccurate description of any person, premises, building, aircraft, vessel, vehicle, holding, street or place named or described in any document prepared, issued or served under, by virtue of or for the purposes of this Act, shall in any way affect the operation of this Act as respects that person or place if that person or place is so designated in the document as to be identifiable.\n\n(2) No proceedings taken under or by virtue of this Act shall be invalid for want of form."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "(1) The contents of any document prepared, issued or served under, by virtue of or for the purposes of this Act shall, until the contrary is proved, be presumed to be correct.\n\n(2) All records and other documents required by this Act to be kept by the Director are deemed to be public documents and copies thereof or extracts therefrom certified by the officer responsible for the custody thereof to be true copies or extracts, as the case may be, subscribed by that officer with his name, and his official title shall be admissible in evidence as proof of the contents of the documents or extracts.\n\n(3) A certificate purporting to be under the hand of the Director and specifying the costs and expenses or arrears as due and payable by any person shall be prima facie evidence of the facts certified therein and of the signature of the Director. Service of notices etc."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "(1) Any notice, order or document required or authorised by this Act to be served on any person is deemed to be sufficiently served —\n\n(a) by delivering it to the person or to some adult member of his family or household at his last known place of residence;\n\n(b) by delivering it at his usual or last known place of residence or business in an envelope addressed to that person;\n\n(c) by sending it by registered post addressed to the person at his usual or last known place of residence or place of business; or\n\n(d) in the case of an incorporated company, a partnership or a body of persons —\n\n(i) by delivering it to the secretary or other like officer of the company, partnership or body of persons at its registered office or principal place of business; or\n\n(ii) by sending it by registered post addressed to the company, partnership or body of persons at its registered office or principal place of business.\n\n(2) Any notice, order or document sent by registered post to any person in accordance with subsection (1) is deemed to be duly served on the person at the time when the notice, order or document, as the case may be, would in the ordinary course of post be delivered and, in proving service of the notice, order or document, it shall be sufficient to prove that the envelope containing the same was properly addressed, stamped and posted by registered post.\n\n(3) A notice, order or document required or authorised by this Act to be served on the owner or occupier of any premises is deemed to be properly addressed if addressed by the description of the “owner” or “occupier” of the premises without further name or description.\n\n(4) Any notice, order or document required or authorised by this Act to be served on the owner or occupier of any premises may be served by delivering the notice, order or document, or a true copy thereof, to some adult person on the premises or, if there is no such person on the premises to whom the notice, order or document can with reasonable diligence be delivered, by affixing it to some conspicuous part of the premises."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Jurisdiction of Court of Magistrate"
+   },
+   "text": {
+    "en": "A Court of a Magistrate shall have jurisdiction to hear and determine all offences against this Act and any regulations made thereunder and, notwithstanding anything to the contrary in any other written law, shall have power to impose the full penalty or punishment in respect of any offence."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "(1) The Director may, in his discretion, compound any offence against this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following sums —\n\n(a) one half of the amount of the maximum fine that is prescribed for the offence;\n\n(b) $1,000.\n\n(2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "The Minister may, by order either generally or in any particular case, and subject to such conditions as he may impose, exempt any person, premises, structure, aircraft, vehicle, vessel or fire safety works from all or any of the provisions of this Act."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Offence by body corporate"
+   },
+   "text": {
+    "en": "Where an offence against this Act has been committed by a body corporate, a partnership or unincorporated association of persons, any person who at the time of the commission of the offence was a director, manager, partner, secretary or other similar officer thereof, or was purporting to act in any such capacity is guilty of that offence unless he proves that —\n\n(a) the offence was committed without his consent or connivance; and\n\n(b) he had exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "General penalties"
+   },
+   "text": {
+    "en": "Any person who is guilty of an offence under this Act for which no penalty is expressly provided is liable on conviction to a fine not exceeding $10,000, imprisonment for a term not exceeding 6 months or both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Furnishing of information"
+   },
+   "text": {
+    "en": "(1) In addition to any other powers under this Act, the Director or any authorised officer may by notice require any person to furnish, within a reasonable period specified in the notice, any document, record or information in the possession or knowledge of that person that the Director or the authorised officer, as the case may be, believes on reasonable grounds to be relevant to the administration or enforcement of this Act.\n\n(2) The power to require a person to furnish any document or record under subsection (1) includes the power to retain the original copy of the document or record or to copy or make extracts from the document or record.\n\n(3) Any person who, without reasonable excuse, fails to comply with any notice under subsection (1) or who furnishes any information which he knows or has reason to believe is false or misleading is guilty of an offence."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Saving of prosecutions under other written laws"
+   },
+   "text": {
+    "en": "(1) Nothing in this Act shall prevent any person from being prosecuted under any other written law for any act or omission which constitutes an offence against this Act, or from being liable under that other written laws to any other or higher punishment or penalty than that provided by this Act.\n\n(2) No person shall be punished twice for the same offence. Protection from liability"
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "_____________________________"
+   },
+   "text": {
+    "en": "(1) No liability shall lie against the Government or any public officer by reason of the fact that any fire safety works are carried out in accordance with the provisions of this Act or that such works or plans of the building are subject to inspection or approval by the Director or the public officer.\n\n(2) Nothing in this Act shall make it obligatory for the Director to inspect any building or fire safety works or the site of any proposed building to ascertain whether the provisions of this Act are complied with or whether any plans, certificates, notices or other documents submitted to him are accurate.\n\n(3) No member, including the Director, acting bona fide under powers conferred by this Act is liable to any action for damages for any act done or omitted to be done in carrying out the provisions of this Act."
+   }
+  },
+  {
+   "id": "BN-CAP-243-2022-FIRE-SAFETY-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "(1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations for carrying out the purposes and provisions of this Act as he considers necessary and for any matter which is required under this Act to be prescribed and, in particular, the Minister may make regulations in respect of all or any of the following matters —\n\n(a) the control of the sale, supply, installation, repair, maintenance and inspection of fire safety works;\n\n(b) the licensing of persons who carry on the trade or business of supplying, selling, maintaining, repairing or inspecting fire safety\n\n(c) the prescribing of the type of fire safety measures to be installed in any premises;\n\n(d) the prescribing of the requirements of an emergency response plan required under this Act;\n\n(e) the control, regulation and supervision by registration, licensing, inspection or otherwise of places to which the public has\n\n(f) the submission of plans and specifications of fire safety works, the authorisation of persons qualified to submit the same and their duties and responsibilities and the nature or classifications of plans or specifications which each such person may submit;\n\n(g) the time and manner of making an application for temporary fire permits and fire safety certificate;\n\n(h) the time and manner of making an application for the change of use of premises;\n\n(i) the prescribing of the type of tests to be applied to any petroleum or flammable material to ascertain its flashpoint and the methods of applying the same;\n\n(j) the determining of the standard of any class of petroleum;\n\n(k) the licensing and management of relevant pipelines and places for storing any class of petroleum or any flammable material, including requirements to establish emergency response teams and to prepare emergency response plans for such emergency response teams to undergo such training or assessment and satisfy such standards as the Director may specify;\n\n(l) the prescribing of the quantities of any class of petroleum or any flammable material that may be stored in any licensed premises and the method in which it is to be stored including the maximum quantity of any class of petroleum or any flammable material that can be stored without a licence for residential, commercial or industrial use;\n\n(m) the regulation of the dispensing of any class of petroleum or any flammable material;\n\n(n) the regulation of the conveyance of any class of petroleum or any flammable material by a relevant pipeline;\n\n(o) the regulation of the transport of any class of petroleum or any flammable material, including specifying the time during which such petroleum or flammable material can be transported and the maximum quantity of any class of petroleum or any flammable material that can be transported without a licence or permit;\n\n(p) the determining of the quantity of and the receptacles in which any class of petroleum or any flammable material may be carried in any vehicle;\n\n(q) the prescribing of the standard and specification for the construction of any premises in which any class of petroleum or any flammable material is to be stored;\n\n(r) the prescribing of the types and standards of materials and appliances to be used for preventing or extinguishing fire in any licensed premises;\n\n(s) provisions for the protection of premises adjacent to licensed\n\n(t) the requiring of any receptacle containing petroleum or flammable material to carry warning labels and to denote the class of petroleum or the flammable material contained therein;\n\n(u) the regulation of the import, storage, transport, distribution, maintenance and disposal of cylinders used to contain any class of petroleum or flammable material, including requirements to store different brands of cylinders at different licensed premises and for labelling and colour-coding of cylinders;\n\n(v) the prescribing of fees and charges for the purposes of this Act;\n\n(w) the prescribing of conditions to be attached to any licence or permit, including the requirement for licensees to impose specified contractual terms on other parties to enable the licensee to maintain fire safety in its operations, and the requirements and conditions to be observed by persons at the premises or driving any vehicle to which the licence or permit relates;\n\n(x) the regulation, control and licensing of persons and organisations engaged in the business of petroleum or flammable material distribution;\n\n(y) the requirement for security to be given by any class of licensees to ensure compliance with this Act;\n\n(z) the prescribing of the offences which may be compounded and the method and procedure by which they may be compounded; (za) the prescribing of any matter which is required to be or which may be prescribed for the purposes of this Act.\n\n(2) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, in making any regulations under subsection (1), provide that any contravention or failure to comply with any of the provisions of the regulations shall be an offence punishable with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 6 months or with both."
+   }
+  }
+ ]
+}

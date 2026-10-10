@@ -1,0 +1,74 @@
+{
+ "id": "PH-H1787",
+ "title": {
+  "zh": "设立Callang市",
+  "en": "An Act Creating the Municipality of Callang, Province of Isabela",
+  "orig": "An Act Creating the Municipality of Callang, Province of Isabela"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p25",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1957-06-23",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2048",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 790,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1957/ra_2048_1957.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1957/ra_2048_1957.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1787-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The barrios of Callang, Eden, Babanuang, Cabaritan, Sta. Cruz, Malalinta, Mararigue, Calaocan, and Caraniogan, Municipality of Roxas, Province of Isabela, are separated from said municipality and are constituted into a new municipality, to be known as the Municipality of Callang, Province of Isabela, with the seat of government at the site of the present barrio of Callang."
+   }
+  },
+  {
+   "id": "PH-H1787-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The first mayor, vice-mayor, and councilors of the new municipality shall be appointed by the President of the Philippines with the concurrence of the Commission on Appointments and shall hold office until their successors shall have been elected in the next general election for provincial and municipal officials and shall have duly qualified."
+   }
+  },
+  {
+   "id": "PH-H1787-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 23, 1957."
+   }
+  }
+ ]
+}

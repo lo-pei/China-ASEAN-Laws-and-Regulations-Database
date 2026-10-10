@@ -1,0 +1,110 @@
+{
+ "id": "CN-JI-0077",
+ "title": {
+  "zh": "最高人民法院、最高人民检察院关于适用刑事司法解释时间效力问题的规定",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p06",
+ "language": "zh",
+ "level": "judicial",
+ "category": "司法解释",
+ "status": "active",
+ "promulgatedDate": "2001-12-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "最高人民法院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ITEM",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 270,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\司法解释\\最高人民法院、最高人民检察院关于适用刑事司法解释时间效力问题的规定_20011216.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，一、至四、，共 4 条；来源为项目数据资源中的官方汇编文件（最高人民法院、最高人民检察院关于适用刑事司法解释时间效力问题的规定_20011216.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-JI-0077-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "一、"
+   },
+   "text": {
+    "zh": "司法解释是最高人民法院对审判工作中具体应用法律问题和最高人民检察院对检察工作中具体应用法律问题所作的具有法律效力的解释，自发布或者规定之日起施行，效力适用于法律的施行期间。"
+   }
+  },
+  {
+   "id": "CN-JI-0077-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "二、"
+   },
+   "text": {
+    "zh": "对于司法解释实施前发生的行为，行为时没有相关司法解释，司法解释施行后尚未处理或者正在处理的案件，依照司法解释的规定办理。"
+   }
+  },
+  {
+   "id": "CN-JI-0077-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "三、"
+   },
+   "text": {
+    "zh": "对于新的司法解释实施前发生的行为，行为时已有相关司法解释，依照行为时的司法解释办理，但适用新的司法解释对犯罪嫌疑人、被告人有利的，适用新的司法解释。"
+   }
+  },
+  {
+   "id": "CN-JI-0077-A4",
+   "no": 4,
+   "noLabel": {
+    "zh": "四、"
+   },
+   "text": {
+    "zh": "对于在司法解释施行前已办结的案件，按照当时的法律和司法解释，认定事实和适用法律没有错误的，不再变动。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "judicial",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "最高人民法院、最高人民检察院关于适用刑事司法解释时间效力问题的规定"
+  },
+  "issuingBody": {
+   "zh": "最高人民法院"
+  },
+  "promulgatedDate": "2001-12-16",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "司法解释"
+ },
+ "summary": {
+  "zh": ""
+ }
+}

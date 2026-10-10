@@ -1,0 +1,84 @@
+{
+ "id": "PH-H279",
+ "title": {
+  "zh": null,
+  "en": "An Act Amending Sections One, Four and Five of Commonwealth Act Numbered Seven Hundred and Four",
+  "orig": "An Act Amending Sections One, Four and Five of Commonwealth Act Numbered Seven Hundred and Four"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p03",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1947-06-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 185",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 2024,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1947/ra_185_1947.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1947/ra_185_1947.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H279-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Sections one, four and five of Commonwealth Act Numbered Seven hundred and four are hereby amended to read as follows:\n\"Sec. 1. The Director of Health shall establish a municipal maternity and charity clinic in every municipality and municipal district wherein no president or sanitary division is permanently stationed, and no puericulture center is established, or if there is such puericulture center, no physician is employed therein: Provided, That where an island or part thereof is comprised within the territorial limits of a municipality, the same shall be entitled to a municipal maternity and charity clinic separate and distinct from the one given to the municipality under the provisions of this Act: And Provided, further, That where a sanitary division consists of one or more municipalities, the municipality wherein the office of the president of sanitary division is not stationed shall be entitled to a maternity clinic provided for this Act.\"\n\"Sec. 4. The physician, registered nurse, or registered midwife appointed in accordance with section two shall receive monthly compensation at the rate of one hundred fifty pesos, one hundred pesos, and seventy pesos, respectively.\"\n\"Sec. 5. In any municipality and municipal district in Mindanao and Sulu and the Provinces of Palawan, Mindoro, Samar, Batanes, the Mountain Province, Catanduanes, Marinduque, Masbate and Romblon, the compensation provided in section four of this Act shall be doubled if the physician, registered nurse or registered midwife appointed for the said municipality or municipal district is not a resident thereof at the time of his or her appointment.\""
+   }
+  },
+  {
+   "id": "PH-H279-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The sum of two million one hundred and seventy-five thousand pesos or so much thereof as may be necessary is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act."
+   }
+  },
+  {
+   "id": "PH-H279-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Any law or provision of law inconsistent with this Act is hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H279-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1947."
+   }
+  }
+ ]
+}

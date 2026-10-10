@@ -1,0 +1,81 @@
+{
+ "id": "TL-H020",
+ "title": {
+  "zh": "修改Dotações Inscritas no Orçamento Geral",
+  "en": null,
+  "orig": "Alteração de Dotações Inscritas no Orçamento Geral"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2004-02-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 1/2004",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 723,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2002_2005/leis_parlamento_nacional/1_2004.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自官方公报 PDF（public/docs/2002_2005/leis_parlamento_nacional/1_2004.pdf）第 —–— 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H020-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Alteração de Dotações"
+   },
+   "text": {
+    "pt": "Os valores das tabelas anexas à Lei n.o 6/2003, de 10 de Setembro (Orçamento Geral do Estado para o Ano Fiscal de 2003-2004), relativos às dotações atribuídas para o ano fiscal de 2003-2004, são alterados de acordo com a tabela que se anexa e faz parte integrante da presente lei."
+   }
+  },
+  {
+   "id": "TL-H020-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Disposições Transitórias"
+   },
+   "text": {
+    "pt": "A presente lei visa a alteração e o ajustamento das dotações contidas na Lei n.o 6/2003, de 10 de Setembro (Orçamento Geral do Estado para o Ano Fiscal de 2003-2004)."
+   }
+  },
+  {
+   "id": "TL-H020-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "heading": {
+    "pt": "Entrada em vigor"
+   },
+   "text": {
+    "pt": "1. A presente lei entra em vigor no dia imediato ao da sua publicação, com efeitos retroactivos a partir de 1 de Janeiro de\n2004.\n2. Os actos de gestão relativos à execução orçamental praticados desde 1 de Julho de 2003, de acordo com a presente lei, consideram-se sancionados."
+   }
+  }
+ ]
+}

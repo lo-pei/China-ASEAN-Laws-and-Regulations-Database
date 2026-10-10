@@ -1,0 +1,94 @@
+{
+ "id": "SG-H3311",
+ "title": {
+  "zh": null,
+  "en": "National Heritage Board (Museum Admission Fees) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p42",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation NHBA1993-RG2",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 619,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/NHBA1993-RG2?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 4 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3311-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the National Heritage Board (Museum Admission Fees) Regulations."
+   }
+  },
+  {
+   "id": "SG-H3311-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definition"
+   },
+   "text": {
+    "en": "2. In these Regulations, “museum” means any museum established by the Board under section 11 of the Act or the museum transferred to the Board under section 37 of the Act."
+   }
+  },
+  {
+   "id": "SG-H3311-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Admission fees"
+   },
+   "text": {
+    "en": "3. The admission fee for any museum shall be determined by the Chief Executive Officer but such fee shall not exceed $10 per person.\n[Subst. by S 443/95 wef 30/09/1995]"
+   }
+  },
+  {
+   "id": "SG-H3311-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Waiver, reduction and remission of fees"
+   },
+   "text": {
+    "en": "4. The Chief Executive Officer may, in his discretion, waive, reduce or remit either wholly or in part any fee payable under regulation 3 in any particular case or class of cases."
+   }
+  }
+ ]
+}

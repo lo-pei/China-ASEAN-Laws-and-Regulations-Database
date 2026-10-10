@@ -1,0 +1,52 @@
+{
+ "id": "MM-H074",
+ "title": {
+  "zh": "电子交易法_2004",
+  "en": "Electronic Transactions Law 2004",
+  "orig": null
+ },
+ "country": "MM",
+ "countryName": "缅甸",
+ "layer": "intl",
+ "pack": "mm-p04",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2004",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "缅甸官方发布渠道",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 895,
+ "source": {
+  "name": "缅甸官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "文本未能可靠切分为条文（或原件为目录式排版），按整篇收录，未作改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "MM-H074-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "# Electronic Transactions Law 2004 > 本文件为自动采集的元数据头，随原始文件一同保存。\n> 原始文件未被改写；正文逐字照录于同目录下的原始文件。\n| 项目 | 内容 | | --- | --- | | 原文标题 | Electronic Transactions Law 2004 | | 中文译名 | 电子交易法 | | 英文译名 | Electronic Transactions Law 2004 | | 法律领域 | 电子商务 | | 颁布机构 | 缅甸交通与通信部邮政电信司；国家贸易门户发布 | | 官方来源 URL | https://www.myanmartradeportal.gov.mm/uploads/ecommerce/2022/10/ETL (2004) .pdf | | 数据抓取实际 URL | https://www.myanmartradeportal.gov.mm/uploads/ecommerce/2022/10/ETL%20(2004)%20.pdf | | 颁布日期 | 2004 | | 生效日期 | 未核实（来源未标注） | | 修订日期 | 未核实（来源未标注） | | 版本 | 官方公布文本 | | 原文语种 | en | | 来源类型 | 官方（缅甸政府 .gov.mm 门户） | | 抓取日期 | 2026-10-03 | | 本地文件 | 缅甸_电子交易法_2004_en.pdf | | 文件格式 | pdf | | 文件大小(字节) | 710037 | | 页数 | 13 | | 字数 |  | | SHA-256 | 2fa3344eecaa95f0e349cf2f9836b4decd10f732010a477735bc601610e9e2f2 | | HTTP 状态 | 200 | | HTTPS 证书校验 | verified | | 完整性/缺失范围 | 官方 PDF 全文（未删节） | | 备注 | 另有 2014 年修正法（Law 6/2014），本次未采集。 |"
+   }
+  }
+ ]
+}

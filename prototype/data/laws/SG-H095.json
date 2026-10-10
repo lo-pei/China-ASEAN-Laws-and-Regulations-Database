@@ -1,0 +1,107 @@
+{
+ "id": "SG-H095",
+ "title": {
+  "zh": null,
+  "en": "Active Mobility (Mandatory Testing) Regulations 2020",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p01",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation AMA2017-S240-2020",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 4400,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/AMA2017-S240-2020?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 5 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H095-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Active Mobility (Mandatory Testing) Regulations 2020 and come into operation on 3 April 2020."
+   }
+  },
+  {
+   "id": "SG-H095-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“certification body” means an organisation that is accredited by a signatory of the International Accreditation Forum Multilateral Recognition Agreement in relation to ISO/IEC 17065 for the purpose of certifying products for conformity with the prescribed standards;\n“certification mark” means a sign, mark or label used to distinguish a relevant vehicle certified by the proprietor of that sign, mark or label in relation to the safety standard with which the relevant vehicle has been built in conformity from other relevant vehicles of the same type or model not so certified;\n“certification of inspection” means a certification of inspection issued by the Authority under section 35C of the Act with respect to a bicycle, personal mobility device, motorised wheelchair or mobility scooter;\n“designated examiner” means a person authorised by the Authority to carry out an inspection for the purposes of an order under section 35A(1) of the Act;\n“prescribed requirements relating to the construction and condition”, in relation to a relevant vehicle that is a motorised personal mobility device, means the requirements prescribed in regulation 4 of the Active Mobility Regulations 2018 (G.N. No. S 251/2018);\n“relevant vehicle” means a bicycle, personal mobility device, motorised wheelchair or mobility scooter an inspection is or periodic inspections are required for or in respect of because of an order under section 35A(1) of the Act;\n“UL 2272” has the meaning given by regulation 4(2) of the Active Mobility Regulations 2018;\n[S 307/2025 wef 01/06/2025]\n“unladen weight”, for a relevant vehicle that is a personal mobility device, means the weight of the personal mobility device, including the body and all equipment and accessories (if any) attached to the device, but excluding any person or carry‑on baggage on the device;\n“width”, for a relevant vehicle that is a personal mobility device, means the width of the personal mobility device, including the body and all equipment and accessories (if any) attached to the device, but excluding any person or carry‑on baggage on the device."
+   }
+  },
+  {
+   "id": "SG-H095-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Examination of relevant vehicle"
+   },
+   "text": {
+    "en": "3. For the purposes of section 35B(2)(a) of the Act, in conducting an examination or assessment of a relevant vehicle, a designated examiner must —\n(a)ascertain the make and model of the relevant vehicle (including its place of manufacture and device specifications); and\n(b)in the case of a relevant vehicle that is a motorised personal mobility device —\n(i)check whether the model of the personal mobility device is a model that is certified by a certification body as conforming to all the standards contained or referred to in the UL 2272;\n(ii)ascertain the presence of any certification mark on or affixed to the personal mobility device, if one is so marked on or affixed to the device and visually inspect any certification mark for its authenticity; and\n(iii)measure the unladen weight, width and maximum speed of the personal mobility device to ensure that it conforms to the prescribed requirements relating to the construction and condition of that vehicle."
+   }
+  },
+  {
+   "id": "SG-H095-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Report of designated examiner"
+   },
+   "text": {
+    "en": "4. For the purposes of section 35B(2)(b) of the Act, the report of a designated examiner of the result of the examination or assessment of a relevant vehicle for the purposes of Division 2 of Part 4 of the Act must be accompanied by the following:\n(a)the details of the identity of the applicant for a certification of inspection with respect to the relevant vehicle;\n(b)an accurate and complete description of the conduct of the examination and assessment of the relevant vehicle, and of the results of that examination and assessment;\n(c)if the relevant vehicle is a model of motorised personal mobility device that is certified by a certification body as conforming to all the standards contained or referred to in the UL 2272, a statement whether the personal mobility device is so certified and evidence of that certification."
+   }
+  },
+  {
+   "id": "SG-H095-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "How to make application for certification of inspection"
+   },
+   "text": {
+    "en": "5. An application for a certification of inspection with respect to a relevant vehicle must be made using a form approved by the Authority and through the designated examiner engaged by the applicant to conduct the examination or assessment of the relevant vehicle for the purposes of Division 2 of Part 4 of the Act."
+   }
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "id": "SG-H2646",
+ "title": {
+  "zh": null,
+  "en": "Infrastructure Protection (Protected Areas) Order 2024",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p33",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation IPA2017-S747-2024",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 3474,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/IPA2017-S747-2024?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 4 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2646-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. This Order is the Infrastructure Protection (Protected Areas) Order 2024 and comes into operation on 30 September 2024."
+   }
+  },
+  {
+   "id": "SG-H2646-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Premises declared to be protected area and surrounding area"
+   },
+   "text": {
+    "en": "2.—(1) The premises described in the second column of Part 1 of the Schedule are declared to be a protected area for the purposes of the Act, and the person specified in the first column of Part 1 of that Schedule is designated as the authority of the protected area.\n(2) The premises described in Part 2 of the Schedule are specified to be the surrounding area of the protected area for the purposes of sections 27 and 28 of the Act."
+   }
+  },
+  {
+   "id": "SG-H2646-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Revocation"
+   },
+   "text": {
+    "en": "3. Revoke the Protected Areas (No. 2) Order 2005 (G.N. No. S 328/2005)."
+   }
+  },
+  {
+   "id": "SG-H2646-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nParagraph 2\nPART 1\nFirst column\nSecond column\nThe Authority\nProtected Area\nCommander,\nTuas Command\nImmigration &\nCheckpoints Authority\nTUAS CHECKPOINT\nAll that area comprised in part of Lots 2500L and 1012V in Mukim No. 7 occupied by “TUAS CHECKPOINT” containing an area of about 196,618 square meters and bounded approximately as follows:\nCommencing at a point 37081.799 metres North and 6192.637 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n37081.799\n6192.637\n37068.843\n6189.375\n37067.552\n6199.820\n37064.417\n6209.910\n37059.638\n6219.330\n37053.154\n6227.693\n37034.921\n6243.541\n37013.555\n6254.726\n36965.970\n6261.176\n36942.372\n6256.035\n36857.649\n6226.849\n36776.124\n6198.664\n36765.261\n6195.504\n36751.946\n6192.596\n36735.535\n6191.368\n36716.395\n6194.638\n36698.477\n6201.933\n36683.780\n6194.375\n36675.019\n6189.838\n36658.721\n6181.643\n36656.234\n6178.199\n36653.696\n6175.401\n36648.337\n6171.063\n36643.104\n6168.110\n36637.643\n6166.379\n36626.040\n6155.253\n36620.287\n6149.150\n36610.952\n6145.442\n36591.448\n6132.784\n36584.899\n6135.398\n36557.098\n6124.625\n36556.901\n6125.080\n36445.584\n6082.774\n36434.634\n6077.641\n36424.470\n6070.773\n36415.594\n6062.384\n36408.152\n6052.815\n36402.230\n6042.226\n36398.022\n6030.831\n36395.636\n6018.912\n36395.119\n6006.824\n36396.468\n5994.794\n36399.657\n5983.067\n36404.568\n5971.960\n36411.168\n5961.822\n36419.161\n5952.687\n36436.494\n5935.729\n36454.824\n5919.827\n36474.126\n5905.153\n36494.283\n5891.671\n36515.256\n5879.529\n36536.918\n5868.580\n36559.239\n5859.034\n36582.149\n5850.919\n36605.405\n5844.248\n36629.108\n5839.002\n36653.062\n5835.220\n36677.251\n5832.943\n36699.990\n5832.227\n36722.701\n5832.769\n36746.818\n5834.827\n36770.802\n5838.268\n36794.571\n5843.250\n36817.975\n5849.704\n36840.937\n5857.591\n36863.530\n5866.475\n36885.254\n5877.232\n36906.212\n5889.538\n36926.520\n5902.834\n36945.996\n5917.330\n36964.512\n5933.003\n36977.744\n5945.532\n36990.368\n5958.608\n37006.238\n5976.911\n37020.938\n5996.196\n37034.454\n6016.368\n37046.654\n6037.325\n37057.533\n6059.017\n37067.058\n6081.308\n37075.218\n6104.162\n37082.831\n6127.168\n37087.113\n6151.024\n37086.017\n6175.213\nto the point of commencement.\nThe boundaries of “TUAS CHECKPOINT” are more particularly delineated in the plan set out below.\nPART 2\nSPECIFIED SURROUNDING AREA OF TUAS CHECKPOINT\n(a)all that area occupied by “Second Link Bridge”, the boundaries of which are more particularly delineated in the map set out below;\n(b)all that area comprised in part of Lot 1012V PT in Mukim No. 7 occupied by “Level 1 Departure Area (TCP)”, the boundaries of which are more particularly delineated in the map set out below;\n(c)all that area comprised in part of Lot 1012V PT in Mukim No. 7 occupied by “Level 3 Departure Viaduct (TCP)”, the boundaries of which are more particularly delineated in the map set out below."
+   }
+  }
+ ]
+}

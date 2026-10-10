@@ -1,0 +1,74 @@
+{
+ "id": "PH-H2687",
+ "title": {
+  "zh": null,
+  "en": "An Act to Extend the Period for Filing Petitions for the Reconstitution of Records of Pending Judicial Proceedings Destroyed During and After the Last World War",
+  "orig": "An Act to Extend the Period for Filing Petitions for the Reconstitution of Records of Pending Judicial Proceedings Destroyed During and After the Last World War"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p38",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1961-06-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 3081",
+ "officialCode": null,
+ "topics": [
+  "judiciary"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 832,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1961/ra_3081_1961.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1961/ra_3081_1961.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H2687-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The party or parties interested in any case pending in the courts the records of which have been destroyed by reason of war, rebellion, or armed revolt or by fire, flood, storm, or any other public calamity since the termination of the last world war, may file a petition for reconstitution within two years from the date of the approval of this Act."
+   }
+  },
+  {
+   "id": "PH-H2687-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The procedure, requirements and all other incident of such reconstitution shall be governed by existing law: Provided , That in whatever state the case may be when the records were destroyed, the records or copies thereof salvaged by the courts or their personnel or by government offices which may have records of such cases or documents thereof shall constitute prima facie evidence of the records of such court."
+   }
+  },
+  {
+   "id": "PH-H2687-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval Approved: June 17, 1961"
+   }
+  }
+ ]
+}

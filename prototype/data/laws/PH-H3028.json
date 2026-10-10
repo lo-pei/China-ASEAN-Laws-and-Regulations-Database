@@ -1,0 +1,84 @@
+{
+ "id": "PH-H3028",
+ "title": {
+  "zh": null,
+  "en": "An Act Increasing the Base Pay of Commissioned Officers of the Armed Forces of the Philippines",
+  "orig": "An Act Increasing the Base Pay of Commissioned Officers of the Armed Forces of the Philippines"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p43",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1963-06-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 3592",
+ "officialCode": null,
+ "topics": [
+  "defence"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 4,
+ "chars": 1025,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1963/ra_3592_1963.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 4 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1963/ra_3592_1963.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3028-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The monthly base pay of Commissioned Officers of the Armed Forces of the Philippines shall not be less than the following:\nSecond Lieutenant or Ensign ₱320.00 First Lieutenant or Lieutenant Junior Grade\n370.00 Captain or Lieutenant Senior Grade\n450.00 Major Lieutenant Commander\n550.00 Lieutenant Colonel or Commander\n700.00 Colonel or Captain (PN)\n900.00 Brigadier General or Commodore 1,100.00 Major General or Rear Admiral 1,300.00 Lieutenant General or Chief or Staff 1,500.00"
+   }
+  },
+  {
+   "id": "PH-H3028-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The rates of pay prescribed by Executive Order Numbered Twenty-three dated October first nineteen hundred and sixty-two is modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H3028-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The increase in salaries as provided for in this Act shall be paid from out of any funds in the National Treasury, not otherwise appropriated. Thereafter, such sums as may be necessary to pay the increased salaries as provided for in this Act shall be included in the annual General Appropriation Acts."
+   }
+  },
+  {
+   "id": "PH-H3028-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "This Act shall take effect on July first nineteen hundred and sixty-three.\nApproved: June 22, 1963."
+   }
+  }
+ ]
+}

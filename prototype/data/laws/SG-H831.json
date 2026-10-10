@@ -1,0 +1,338 @@
+{
+ "id": "SG-H831",
+ "title": {
+  "zh": null,
+  "en": "Control of Plants (Plant Importation) Rules",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p11",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CPA1993-R4",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 24,
+ "chars": 27921,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CPA1993-R4?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 24 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 4 篇以 900000+ 序号随同收录。其中 2 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H831-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Rules may be cited as the Control of Plants (Plant Importation) Rules."
+   }
+  },
+  {
+   "id": "SG-H831-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Rules, unless the context otherwise requires —\n“American tropics” means those parts of the continent of America, including the islands adjacent thereto, which are bounded by the Tropic of Capricorn (latitude 23½º S) and the Tropic of Cancer (latitude 23½º N) and by Longitudes 30º W and 120º W and includes that part of Mexico which is north of the Tropic of Cancer;\n“biological control agent” means a natural enemy, an antagonist or a competitor of a pest, or any other self-replicating biotic entity, used for pest control;\n[S 258/2005 wef 25/04/2005]\n“import health requirement” means any import health requirement specified or varied by the Director-General under rule 7;\n[S 258/2005 wef 25/04/2005]\n“living modified organism” means any living organism that possesses a novel combination of genetic material obtained through the use of any modern biotechnology technique —\n(a)that overcomes natural physiological reproductive or recombination barriers; and\n(b)that is not a technique used in traditional breeding and selection;\n[S 258/2005 wef 25/04/2005]\n“non-quarantine pest” means a pest specified in Part II of the First Schedule;\n[S 258/2005 wef 25/04/2005]\n“quarantine pest” means a pest specified in Part I of the First Schedule;\n[S 258/2005 wef 25/04/2005]\n“regulated pest” means a pest specified in Part I or II of the First Schedule;\n[S 258/2005 wef 25/04/2005]\n“transit” means to be taken or sent from any country and brought into Singapore for the sole purpose of being carried to another country by the same or another conveyance within any free trade zone.\n(2) In these Rules —\n(a)any reference to a consignment of plants, plant products or materials shall include a reference to any container, receptacle, packaging material or other article forming part of such a consignment;\n(b)any reference to a regulated plant, regulated plant product or regulated material shall be construed as a reference to a plant, plant product or material, respectively, specified in the Second Schedule;\n(c)any reference to the importation or movement of any pest, plant, plant product or material shall be read as including a reference to the importation or movement, respectively, of the pest, plant, plant product or material by post; and\n(d)any reference to a certificate or document shall include a reference to a certificate or document in electronic form.\n[S 258/2005 wef 25/04/2005]"
+   }
+  },
+  {
+   "id": "SG-H831-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Persons to whom Rules do not apply"
+   },
+   "text": {
+    "en": "3. Subject to rules 12, 13 and 14, these Rules shall not apply to any person who —\n(a)with the written permission of the Director-General and subject to such conditions as the Director-General thinks fit to impose, imports any plant, plant product or regulated material for experimental or research purposes; or\n(b)brings any regulated plant, regulated plant product or regulated material into Singapore in transit, subject to the condition that the plant, plant product or material is not moved from the point of entry into Singapore to any other place within Singapore except —\n(i)with the permission in writing of the Director-General or an authorised officer; and\n(ii)in accordance with such terms and conditions as the Director-General or the authorised officer thinks fit to impose.\n[S 258/2005 wef 25/04/2005]"
+   }
+  },
+  {
+   "id": "SG-H831-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Imported plant, plant product or material to be free of quarantine pests"
+   },
+   "text": {
+    "en": "4. Any person who imports any plant, plant product or material shall ensure that the plant, plant product or material and the container or any other package thereof is free of any quarantine pest.\n[S 258/2005 wef 25/04/2005]"
+   }
+  },
+  {
+   "id": "SG-H831-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Importation of regulated plant, regulated plant product or regulated material"
+   },
+   "text": {
+    "en": "5.—(1) Subject to rule 5A, no person shall import any regulated plant, regulated plant product or regulated material except under a permit issued by the Director-General.\n(2) The Director-General shall, in determining whether to issue a permit under paragraph (1), consider whether the applicant for the permit has complied with every relevant import health requirement and the requirements under paragraph (4).\n(3) Every permit issued under this rule —\n(a)shall be valid only for the period specified therein and for the consignment in respect of which it has been issued; and\n(b)may be subject to such terms and conditions as the Director-General thinks fit to impose, which terms and conditions shall be endorsed on the permit.\n(4) Subject to rule 5A, any person who imports any consignment of regulated plants, regulated plant products or regulated materials shall ensure that there is, in respect of that consignment —\n(a)a phytosanitary certificate; or\n(b)such other certificate or document or mark issued by or authorised to be issued by a competent government agency in the country of despatch, being an agency which is recognised by the Director-General, in such form and issued in such manner as may be required under any import health requirement.\n(5) The phytosanitary certificate referred to in paragraph (4)(a) shall be issued not more than 14 days prior to the date of shipment of the consignment by a competent government agency or some other agricultural authority, of the country of despatch, being an agency or authority which is recognised by the Director-General.\n(6) The phytosanitary certificate or other certificate or document or mark required under paragraph (4) shall certify that every relevant import health requirement has been complied with.\n[S 258/2005 wef 25/04/2005]"
+   }
+  },
+  {
+   "id": "SG-H831-A5.001",
+   "no": 5.001,
+   "noLabel": {
+    "en": "5A."
+   },
+   "heading": {
+    "en": "Exemption for travellers from West Malaysia"
+   },
+   "text": {
+    "en": "5A. Rule 5(1) and (4) shall not apply to any person who imports from West Malaysia ––\n(a)regulated plants not exceeding 3 in number, whether of the same species or of different species, without potting media; or\n(b)not more than 250 grams of seeds,\nor both.\n[S 623/2007 wef 01/12/2007]"
+   }
+  },
+  {
+   "id": "SG-H831-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Discretion of Director-General to prohibit plant, plant product or material from entering Singapore"
+   },
+   "text": {
+    "en": "6.—(1) Where —\n(a)a consignment of regulated plants, regulated plant products or regulated materials is imported —\n(i)without a phytosanitary certificate or other certificate or document or mark required under rule 5(4); or\n(ii)with a phytosanitary certificate or other certificate or document or mark required under rule 5(4) that does not comply with rule 5(5) or (6);\n(b)an imported consignment of plants, plant products or materials is found to be infested with a non-quarantine pest; or\n(c)an imported consignment of plants, plant products or materials is found to be infested with a pest (other than a regulated pest) which is not native to Singapore and which the Director-General determines to be potentially damaging to any plant in Singapore or the ecosystem of any plant in Singapore,\nthe Director-General may, in his discretion —\n(i)prohibit the consignment of plants, plant products or materials from entering Singapore; or\n(ii)permit the consignment of plants, plant products or materials to enter Singapore, subject to such terms and conditions as the Director-General thinks fit.\n(2) In this rule, a reference to an imported consignment includes a reference to any consignment brought into Singapore by an incoming traveller for his own use.\n[S 258/2005 wef 25/04/2005]"
+   }
+  },
+  {
+   "id": "SG-H831-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Import health requirements"
+   },
+   "text": {
+    "en": "7.—(1) For the purposes of these Rules, the Director-General may specify such import health requirements as are necessary in respect of any regulated plant, regulated plant product or regulated material.\n(2) The Director-General may, from time to time, vary any of the import health requirements —\n(a)having regard to the status of any regulated pest, regulated plant, regulated plant product or regulated material; and\n(b)in accordance with the provisions of any international agreement or memorandum of understanding pertaining to the international movement of quarantine pests, regulated plants, regulated plant products or regulated materials.\n(3) The Director-General shall maintain a register of all the import health requirements for the time being specified under paragraph (1) and any variation to any such requirement under paragraph (2).\n(4) The register referred to in paragraph (3) shall be made available for public information.\n(5) In determining whether it is necessary to specify any import health requirement under paragraph (1), the Director-General shall have regard to the following matters:\n(a)the likelihood that the importation of any plant, plant product or other material may bring any regulated pest into Singapore;\n(b)the nature and possibility of the effect of any pest on any local plant or plant product, or the environment in or economy of Singapore;\n(c)any obligation imposed under any treaty, convention, arrangement, memorandum of understanding, exchange of letters or other similar instrument relating to the import of plants to which Singapore is a party; and\n(d)such other matter as the Director-General thinks relevant.\n[S 258/2005 wef 25/04/2005]"
+   }
+  },
+  {
+   "id": "SG-H831-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Application and fee for permits"
+   },
+   "text": {
+    "en": "8. Every application for the issue of a permit under rule 5 shall be made to the Director-General in such form as the Director-General may require and shall be accompanied by the appropriate fee specified in the Third Schedule."
+   }
+  },
+  {
+   "id": "SG-H831-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Cancellation of permits"
+   },
+   "text": {
+    "en": "9. Any permit issued under rule 5 may be cancelled if the person to whom it was issued is in breach of any of the terms and conditions endorsed on the permit or of these Rules."
+   }
+  },
+  {
+   "id": "SG-H831-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "text": {
+    "en": "10. [Deleted by S 258/2005 wef 25/04/2005]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H831-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "text": {
+    "en": "11. [Deleted by S 258/2005 wef 25/04/2005]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H831-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Powers of authorised officers"
+   },
+   "text": {
+    "en": "12.—(1) An authorised officer may at any time —\n(a)enter and inspect any premises or stop, detain, board or inspect any conveyance where he has reason to believe that such premises or conveyance has been used or is being used in connection with the importation of pests, plants, plant products or any regulated material;\n(b)inspect any consignment of plants and plant products which has been imported into Singapore including their packaging and take such samples thereof as may reasonably be necessary for analysis and evaluation;\n(c)open and examine any container, package or receptacle which —\n(i)contains or which the authorised officer reasonably believes to contain; or\n(ii)has been used or is being used or which the authorised officer reasonably believes to have been used or to be being used in connection with the importation into Singapore of,\nany pests, plants, plant products or any regulated material;\n(d)prohibit entirely or to such extent as he thinks fit, the movement of any conveyance containing or consignment of, regulated pests or pests referred to in rule 6(1)(c), regulated plants, regulated plant products or regulated materials which has arrived but which has not yet entered Singapore;\n(e)direct that any conveyance containing or consignment of, plants or plant products imported into Singapore be detained or quarantined for such a period as he thinks fit at such place and in such manner as may be determined by the Director-General;\n(f)direct that any conveyance containing or consignment of, plants or plant products imported into Singapore be subject to treatment at such place and in such manner as may be determined by the Director-General for the purpose of destroying any regulated pest or pest referred to in rule 6(1)(c) infesting the plants or plant products;\n(g)direct the importer or owner of any consignment of plants, plant products or materials to destroy the consignment, at his own expense, in such manner as may be determined by the Director-General or immediately export the consignment, where the consignment is found —\n(i)to be infested with any regulated pest or pest referred to in rule 6(1)(c), and such pest cannot be effectively controlled through disinfection or disinfestation measures; or\n(ii)to have been imported in contravention of these Rules;\n[S 258/2005 wef 25/04/2005]\n(h)where the importer or owner of any consignment of plants, plant products or materials has failed to destroy or immediately export the consignment as directed under paragraph (g), destroy the consignment in such manner as may be determined by the Director-General and recover the expenses incurred for the destruction from the importer or owner of the consignment;\n(i)seize any pest, plant, plant product or regulated material which has been imported or which is being kept in contravention of these Rules or any import health requirement; and\n[S 258/2005 wef 25/04/2005]\n(j)do such other act or thing as may be reasonable or necessary for the purpose of carrying out his duties under these Rules.\n(2) Any person who wilfully obstructs or impedes an authorised officer in the exercise of his powers under these Rules, or acts in contravention of the terms and conditions imposed by an authorised officer shall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H831-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Loss or expenses incurred for inspection, quarantine, destruction or treatment of plants, plant products or materials"
+   },
+   "text": {
+    "en": "13.—(1) Any loss or expenses incurred for the inspection, quarantine, treatment or destruction under these Rules of any conveyance containing or any consignment of, plants, plant products or materials imported or brought into Singapore, including the cost of transporting the same, shall be borne by the importer or owner of the conveyance or consignment, as the case may be.\n(2) The Director-General may, in his discretion, waive any expenses incurred by him for the inspection, quarantine, treatment or destruction under these Rules of any conveyance containing or any consignment of, plants, plant products or materials imported or brought into Singapore."
+   }
+  },
+  {
+   "id": "SG-H831-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Inspection, treatment or destruction of articles and conveyances not used in connection with importation of plants"
+   },
+   "text": {
+    "en": "14. The Director-General may, if in his opinion the circumstances of the case so warrant, direct that any article or conveyance which has not been used in connection with the importation of plants, plant products or materials but which he reasonably suspects to be diseased or infested with any quarantine pest, be inspected by an authorised officer and, if necessary, be treated or destroyed at such place and in such manner as the Director-General may determine."
+   }
+  },
+  {
+   "id": "SG-H831-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Fees for inspection"
+   },
+   "text": {
+    "en": "15. The fees for and incidental to any inspection or laboratory examination under these Rules shall be as specified in the Third Schedule."
+   }
+  },
+  {
+   "id": "SG-H831-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Making of false declarations, etc."
+   },
+   "text": {
+    "en": "16. Any person who, being required by or by virtue of these Rules to make any declaration, statement or representation or to produce any document or who, for the purpose of obtaining any permit —\n(a)makes or presents any declaration, statement or representation which, to his knowledge, is false in any material particular; or\n(b)produces any document which, to his knowledge, is false in any material particular or has not been made by the person by whom it purports to have been made, or has been in any way altered or tampered with,\nshall be guilty of an offence."
+   }
+  },
+  {
+   "id": "SG-H831-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "heading": {
+    "en": "Offences"
+   },
+   "text": {
+    "en": "17.—(1) Any person who contravenes or fails to comply with —\n(a)rule 4 or 5(1);\n[S 258/2005 wef 25/04/2005]\n(b)any of the terms and conditions of any permit issued to him under these Rules; or\n(c)any direction given to him under these Rules by the Director-General or an authorised officer,\nshall be guilty of an offence.\n[S 258/2005 wef 25/04/2005]\n(2) Any person who imports any consignment of regulated plants, regulated plant products or regulated materials —\n(a)without a phytosanitary certificate or other certificate or document or mark required under rule 5(4); or\n(b)with a phytosanitary certificate or other certificate or document or mark required under rule 5(4) that does not comply with rule 5(5) and (6),\nshall be guilty of an offence.\n[S 258/2005 wef 25/04/2005]"
+   }
+  },
+  {
+   "id": "SG-H831-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "heading": {
+    "en": "Penalty"
+   },
+   "text": {
+    "en": "18. Any person who is guilty of an offence under these Rules shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both."
+   }
+  },
+  {
+   "id": "SG-H831-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "heading": {
+    "en": "Forfeiture of consignment, etc., upon conviction"
+   },
+   "text": {
+    "en": "19. Where any person is convicted of an offence under these Rules, the court may order that any conveyance containing or any consignment of, plants or plant products and any container, packaging material, receptacle or other article or material to which the offence relates shall be forfeited to the Government and disposed of in such manner as the Director-General thinks fit."
+   }
+  },
+  {
+   "id": "SG-H831-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRule 2(1)\nRegulated Pests\nPart I\nQuarantine Pests\nName of Pest\nCommon Name\nBACTERIA\nCurtobacterium flaccumfaciens\nBean wilt\nClavibacter michiganensis sub. sp. nebraskense\nLeaf freckles and wilt\nClavibacter michiganensis sub. sp. sepedonicum\nBacteria ring rot\nPseudomonas syringae pv. garcae\nCoffee halo blight, Twig blight\nPseudomonas syringae\nLeaf spot/blight\nXanthomonas ampelina\nBacterial blight (grapes)\nXanthomonas campestris pv. cassavae\nCassava bacterial necrosis\nXanthomonas campestris pv. phaseoli\nCommon bacterial blight\nFUNGI\nAecidium cantensis\nDeforming rust\nAngiosorus solani (Thecophora solani)\nPotato smut\nAscochyta gossypii (A. phaseolorum)\nAscochyta blight\nCercospora elaeidis\nFreckle\nClaviceps gigantean\nErgot, Horse’s tooth\nCochliobolus carbonum (Drechslera zeicola)\nCharred ear mould\nColletotrichum coffeanum\nCoffee berry disease\nCrinipellis perniciosa (Marasmius perniciosus)\nWitches broom\nCryptosporella eugeniae\nDieback\nDeuterophoma tracheiphila (Phoma tracheiphila)\nMal secco\nDiaporthe phaseolorum var. caulivora\nStem canker\nErysiphe polygoni\nPowdery mildew\nFusarium oxysporum f.sp. elaeidis\nFusarium wilt\nFusarium xylarioides (Gibberella xylarioides)\nTracheomycosis\nHemileia coffeicola\nRust (Powdery, grey rust)\nMarasmiellus cocophilus\nLethal bole rot\nMicrocyclus ulei\nSouth American Leaf Blight\nMoniliophthora roreri (Monilia roreri)\nPod rot, watery pod rot\nMycena citricolor (Omphalia flavida)\nAmerican leaf spot\nMycosphaerella fijiensis var. difformis\nBlack sigatoka\nPeronospora tabacina\nBlue mould\nPhaeolus manihotis\nRoot rot\nPhoma exigua var fourata (P. exigua var. exigua)\nGangrene\nPhomopsis theae\nStem canker\nPhymatotrichopsis omnivorum\nTexas root rot\nPolyscytalium pustulans (Oospora pustulans)\nSkin spot\nPuccinia pittieriana\nCommon rust\nPuccinia psidii\nGuava rust\nSphaceloma arachidis\nScab\nSphaceloma manihoticola\nSuper elongation\nSynchytrium endobioticum\nBlack wart, black scab\nTrachysphaera fructigena\nTrachysphaera pod rot\nVerticillium albo-atrum\nVerticillium wilt\nVerticillium dahliae\nVerticillium wilt\nINSECTS\nAcanthosellides obtectus\nBean bruchid\nAnastrepha oblique\nWest Indian fruit fly\nAnastrepha fraterculus\nSouth American fruit fly\nAnastrepha ludens\nMexican fruit fly\nAnastrepha spp.\nFruit fly\nAntestiopsis spp.\nAntestia bug\nAnthomomus vestitus\nPeruvian cotton boll weevil\nAnthomomus grandis\nMexican cotton boll weevil\nAonidomytilus albus\nCassava scale\nBactrocera tryoni\nQueensland fruit fly\nBathycoella thalassina\nCocoa bug\nBruchus pisorum\nPea pod weevil\nCaliothrips masculinus\nThrips\nCeratitis rosa\nNatal fruit fly\nCeratitis capitata\nMediterranean fruit fly\nChaetanaphotrips orchidii\nBanana rust thrip\nChrysomphalus aonidium\nFlorida red scale\nCoelaenomenodera elaedis\nLeaf miner\nDiatrea abbreviatus\nSugarcane root stalk borer\nDistantiella theobroma\nCocoa capsid\nEpilachna varivestis\nMexican bean beetle\nEuscepes postfaciatus\nWest Indian sweet potato weevil\nHelopeltis bergrothi\nHelopeltis bug\nHercinothrip bicinctus\nBanana thrip\nHypsipyla robusta\nStem borer\nRynchophorus phoenicis\nAfrican palm weevil\nLeguminivora glycinivorella\nSoybean pod borer\nLeptinotarsa decemilineata\nColorado potato beetle\nLeptopharsa heveae\nLace bug\nLeptopharsa gibbicarina\nLace bug\nLeucoptera coffeella\nCoffee leaf miner\nLissorhoptrus oryzephilus\nRice water weevil\nMelittomma insulare\nWood borer\nMenalonium sp\nMirid bug\nNoorda albizonalis\nRed banded caterpillar\nOryctes boas (= O. monoceros)\nRhinoceros beetle\nPachymerus lacerdae\nKernel borer\nPachymerus nucleorum\nKernel borer\nPimelephila ghesquierii\nPalm moth\nPlanococcus kenyae\nKenya mealy bug\nProstephanus truncatus\nLarge grain borer\nPseudotheraptus wayi\nCoreid bug\nQuadraspidiotus perniciosus\nSan Jose scale\nRhynchophorus palmarum\nSouth American palm weevil\nSacadodes pyralis\nFalse pink boll worm\nSahlbergella singularis\nCocoa capsid\nSesamia cretica\nDurra/sorghum stalk borer\nSophronica ventrallis\nBerry borer\nStenoma decora\nCocoa shoot\nTrogoderma granarium\nKhapra beetle\nXyleborus ferrugineus\nBlack twig borer\nMITES\nAceria guerreronis (= Eryophyes guerreronis)\nCoconut mite\nMononychellus tanajoa (= Ononychelie tanajoe)\nCassava green mite\nOligonychus peruvianus (= Homonychus peruvianus)\nCassava mite\nPHYTOPLASMAS\nPhytoplasmas of apple\nFlat limb\nPhytoplasmas of banana\nCameroon marbling disease\nPhytoplasmas of cassava\nWitches broom\nPhytoplasmas of coconut\nLethal yellowing\nCoconut Awka diseases\nPhytoplasmas of grape\nGrapevine Flavescence doree\nPhytoplasmas of grape\nPierce’s disease = Xylella fastidiosa\nPhytoplasmas of oil palm\nLeaf mottle\nPhytoplasmas of papaya\nPapaya bunchy top\nPhytomonas staheli\nSudden wither\nPhytomonas sp\nMaize leaf blight/Leaf scald\nSpiroplasma citri\nStubborn disease\nSpiroplasma kunkelii\nCorn stunt, Grassy root\nNEMATODES\nAnguina agrostis\nBentgrass nematode\nAnguina graminis\nLeaf gall nematode\nAnguina tritici\nWheat or seed gall nematode\nAphasmatylenchus straturatus\nLance nematode of pea\nAphelenchoides arachidis\nTesta nematode\nAphelenchoides blastophorus\nStem and bulb nematode\nAphelenchoides fragariae\nStrawberry, bud or foliar nematode\nAphelenchoides lilium\nBud nematode\nBursaphelenchus lignicolus\nPinewood nematode\nDitylenchus destructor\nPotato rot nematode\nDitylenchus myceliophagus\nMushroom spawn nematode\nGlobodera pallida\nPotato cyst nematode\nGlobodera rostochiensis\nGolden nematode, potato cyst nematode\nHemicycliophora arenaria\nSheath nematode\nHeterodera avenae\nCereal cyst nematode\nHeterodera cacti\nCactus cyst nematode\nHeterodera cajani\nPigeon pea cyst nematode\nHeterodera carrotae\nCarrot cyst nematode\nHeterodera cruciferae\nBrassica root nematode\nHeterodera cyperi\nNutgrass/Sedge cyst nematode\nHeterodera fici\nFig cyst nematode\nHeterodera geottingiana\nPea cyst nematode\nHeterodera longicaudata\nWheat cyst nematode\nHeterodera oryzicola\nRice cyst nematode\nHeterodera sacchari\nSugarcane cyst nematode\nHeterodera schactii\nSugar beet cyst\nHeterodera sorghi\nSorghum cyst nematode\nHeterodera vignae\nPea cyst nematode\nHeterodera zeae\nCorn cyst nematode\nHirschmanniella miticausa\nTaro nematode\nHirschmanniella spinicaudata\nRice root tip nematode\nHoplolaimus columbus\nColumbia nematode\nHoplolaimus indicus\nLance nematode\nHoplolaimus pararobustus\nLance nematode\nLongidorus attenuatus\nNeedle nematode\nMacroposthonia xenoplex\nRing nematode\nMeloidogyne africana\nRoot knot nematode\nMeloidogyne baurensis\nRoot knot nematode\nMeloidogyne brevicauda\nTea root knot nematode\nMeloidogyne chitwoodi\nColumbia root knot nematode\nMeloidogyne coffeicola\nRoot knot nematode\nMeloidogyne decalineata\nRoot knot nematode\nMeloidogyne exigua\nCoffee root knot nematode\nMeloidogyne graminis\nRoot knot nematode\nMeloidogyne indica\nRoot knot nematode\nMeloidogyne inornata\nBrazilian root knot nematode\nMeloidogyne mali\nApple root knot nematode\nMeloidogyne megadora\nRoot knot nematode\nMeloidogyne naasi\nCereal root knot nematode\nMeloidogyne oteifae\nRoot knot nematode\nMerlinius brevidens\nStunt nematode\nNacobbus aberrans\nFalse root knot\nPratylenchus fallax\nLesion nematode\nPratylenchus neglectus\nCalifornia root — Lesion nematode\nPratylenchus thornei\nThorne’s root — Lesion nematode\nPratylenchus zeae\nCorn root — Lesion nematode\nPunctodera punctata\nGrass cyst nematode\nRhadinaphelenchus cocophilus (=Bursaphelenchus cocophilus)\nRed ring nematode\nScutellonema bradys\nYam nematode\nTrichodorus viruliferus\nStubby root nematode\nXiphinema index\nDagger nematode\nVIRUSES\nAfrican cassava mosaic virus\nAnthocyanosis of cotton\nArabis mosaic virus\nArtichoke Italian latent virus\nBlister spot virus of coffee\nBrown streak virus of papaya\nGrapevine corky bark associated virus\nRice dwarf virus\nDwarf virus of sugarcane\nSweet potato yellow dwarf virus\nGrapevine fanleaf virus\nRice hoja blanca virus\nGrapevine chrome mosaic virus\nSweet potato feathery mottle virus\nCotton leaf crumple virus\nCotton leaf curl virus\nLeaf mosaic virus of cotton\nLeaf mottle virus of cotton\nGrapevine leafroll-associated virus\nLeaf virus of grape\nMarginal chlorosis virus of groundnut\nMosaic virus of maize\nPapaya mosaic virus\nMosaic virus of rubber\nMosaic virus of sweet potato\nPeanut stunt virus of maize\nPhloem necrosis virus of tea\nPeach rosette mosaic virus of grape\nRayado fino virus of tea\nCacao swollen shoot virus\nRice transitory yellowing virus\nRice yellow mottle virus\nRingspot virus of soybean\nRupestris stem pitting-associated virus\nStenosis, small leaf of cotton\nStunt virus of maize\nMaize streak virus\nWaialua disease of papaya\nWrinkled stunt and witches broom virus of rice\nTomato spotted wilt virus\nYellow vein banding virus of cocoa\nDISEASE OF UNKNOWN ETIOLOGY\nCoconut awka\nCoconut bristle tip\nCoconut wilt\nCassava frog’s skin\nCoconut head droop\nCoconut kerala wilt\nCoconut leaf mottle\nCoconut leaf scorch\nCoconut little leaf\nCoconut thatipaka wilt\nMango malformation\nCotton Terminal Stunt Graft Transmissible Pathogen\nWEEDS\nRottboellia spp.\nItchgrass\nStriga spp.\nWitchweed\nPart II\nNon-quarantine Pests\nName of Pest\nCommon Name\nFUNGI\nCochliobolus eragrotidis.\nLeaf spot\nColeosporium plumeri\nRust\nCylindrocladium spathiphylli.\nRoot rot\nFusarium oxysporum\nFusarium wilt\nGanoderma boninense\nBasal stem rot\nMarasmius inoderma\nRoot rot\nRhizoctonia solani (= Thanatephorus cucumeris)\nStem & Collar rot, seedling root rot, damping off\nSclerotium rolfsii\nSouthern blight/wilt, crown and root rot, stem cankers\nUstulina zonata\nCharcoal stump rot\nINSECTS\nBemisia tabaci\nWhite fly\nBrontispa longissima\nHispid beetle\nContarinia maculipennis\nBlossom midge\nMaconellicoccus hirsutus\nHibiscus mealy bug\nNeolithocolletis pentadesma\nLeaf miner\nOryctes rhinoceros\nRhinoceros beetle\nPlesispa reichei\nCoconut leaf beetle\nQuadrastichus spp.\nGall wasps\nRhesala spp.\nRaintree webworm\nThrips palmi\nMelon thrip\nNEMATODES\nDiscocriconemella spp.\nRing nematode\nHemicycliophora spp.\nSheath nematode\nMeloidogyne arenaria\nPeanut root knot nematode\nMeloidogyne graminicola\nRice root knot nematode\nMeloidogyne hapla\nNorthern root knot nematode\nPratylenchus brachyurus\nLesion nematode\nPratylenchus penetrans\nLesion nematode\nPratylenchus pratensis\nLesion nematode\nWEEDS\nCuscuta spp.\nDodders\n[S 258/2005 wef 25/04/2005]"
+   }
+  },
+  {
+   "id": "SG-H831-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRules 2(2) and 5\nImportation under Permit\nName of Plants, Plant Products and Other Materials\n1. Plants of rubber (Hevea spp.)\n2. Plants of cocoa (Theobroma cacao)\n3. Plants of coconut (Cocos nucifera)\n4. Plants of oil palm (Elaeis guineensis)\n5. Plants of cassava (Manihot esculenta)\n6. Plants of citrus (Citrus spp.)\n7. Plants of coffee (Coffea spp.)\n8. Plants of cotton (Gossypium spp.)\n9. Plants of maize (Zea mays)\n10. Plants of banana (Musa spp.)\n11. Plants of pineapple (Ananas comosus)\n12. Plants of rice (Oryza sativa)\n13. Plants of sugarcane (Saccharum officinarum)\n14. Plants of tea (Camellia sinensis)\n15. Plants of orchid (Orchidaceae)\n16. All other living plants or propagating materials such as branches, bulbs, corms, foliages, rhizomes, seeds or tubers, with or without potting media\n17. All living plants that have acquired novel genetic materials by techniques of modern technology\n18. Fresh or dried herbarium specimens\n19. Mushroom spawn\n20. All fresh flowers, fruits and vegetables originated from American Tropics\n21. All living Annelida, Arthropoda, Mollusca, Nematoda and micro-organisms\n22. All living modified organisms\n23. All biological control agents\n24. Soil and organic fertilizers.\n[S 258/2005 wef 25/04/2005]"
+   }
+  },
+  {
+   "id": "SG-H831-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRules 8 and 15\nFees\nFirst column\nSecond column\n(1)Inspection and certification of plants,plant products or fresh cut flowers\n(a)Non-commercial $12 per consignment for the following:\n(i)Plants not exceeding 10 numbers or flasks;\n(ii)Plant products not exceeding 5 kg;\n(iii)Fresh cut flowers not exceeding 24 stalks or numbers.\n(b)Commercial $50 per consignment for the following:\n(i)Plants exceeding 10 numbers or flasks;\n(ii)Plant products exceeding 5 kg;\n(iii)Fresh cut flowers exceeding 24 stalks or numbers.\n(2)Laboratory examination of flowers, plants or plant products for any pest or pathogen\n$50 per pest examination.\n(3)Permit to import plants, insects or micro-organisms\n$11 per consignment.\n(4)Professional service fee\n(a)$63 per hour or part thereof;\n(b)$133 per hour or part thereof (outside office hours or on an urgent basis).\n(5)Technical service fee\n(a)$38 per hour or part thereof;\n(b)$80 per hour or part thereof (outside office hours or on an urgent basis)."
+   }
+  },
+  {
+   "id": "SG-H831-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE\nDeleted by S 258/2005, wef 25/04/2005.\n[G.N. Nos. S 29/94; S 369/94; S368/96; S148/97; S 137/98]"
+   }
+  }
+ ]
+}

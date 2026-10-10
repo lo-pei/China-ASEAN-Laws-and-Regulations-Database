@@ -1,0 +1,524 @@
+{
+ "id": "PH-H649",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Commonwealth Act Numbered One Hundred and Eighty-six Entitled \"An Act to Create and Establish a Government Service Insurance System, to Provide for Its Administration, and to Appropriate the Necessary Funds Therefor,\" and to Provide Retirement Insurance and for Other Purposes",
+  "orig": "An Act to Amend Commonwealth Act Numbered One Hundred and Eighty-six Entitled \"An Act to Create and Establish a Government Service Insurance System, to Provide for Its Administration, and to Appropriate the Necessary Funds Therefor,\" and to Provide Retirement Insurance and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p09",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1951-06-16",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 660",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 48,
+ "chars": 40911,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1951/ra_660_1951.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 48 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1951/ra_660_1951.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文存在同号重出的条款（第 2、4、5、6、7、8、10、11 条 等 19 处）：该处官方页面确有两段均标同一 Section 号，本库照录其 `no` 值（不改动官方编号），条文 `id` 以 `_2`「_3」后缀保证唯一。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H649-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Subsections (a), (d), and (f) of section two of Commonwealth Act Numbered One hundred and eighty-six are hereby amended to read as follows and subsection (g) is hereby added:\n\""
+   }
+  },
+  {
+   "id": "PH-H649-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Definitions.-When used in this Act the following terms shall, unless the context otherwise indicates, have the following respective meanings:\n\"(a) 'Employer' shall mean the National or a local government, an agency, board, or corporation controlled or owned by the Government. 'Employee' shall mean any Filipino citizen in the service of said 'employer'.\n\"(d) 'Member' shall mean any person insured in the System.\n\"(f) 'Membership policy' shall mean a life insurance policy for an amount, the monthly premium of which is equivalent to two, five or six per centum of an employee's monthly salary or compensation.\n\"(g) 'Regular officer' or 'enlisted man' shall mean one whose commission or enlistment is in the regular force of the Armed Forces of the Philippines and not in the reserve force thereof.\""
+   }
+  },
+  {
+   "id": "PH-H649-A2_2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section four of Commonwealth Act Numbered One hundred and eighty-six is hereby amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H649-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Scope of application of System.- (a) Membership in the System shall be compulsory upon all regularly and permanently appointed employees, including those whose tenure of office is fixed or limited by law; upon all teachers except only those who are substitutes; and upon all regular officers and enlisted men of the Armed Forces of the Philippines: Provided, That it shall be compulsory upon regularly and permanently appointed employees of a municipal government below first class only if and when said government has joined the System under such terms and conditions as the latter may prescribe.\n\"(b) Membership in the System shall be optional with an elective official of the National Government or of a local government that is a member of the System: Provided, That if he desires to come within the purview of this Act, he must notify the System in writing to that effect: Provided, further, That he complies with the requirements of the System and that he is in the Government service when his insurance takes effect: And provided, finally, That after his admission into the System he shall be entitled to life insurance benefit for which he shall pay either one per centum or three per centum of his monthly salary, depending on the kind of insurance selected by him, and his employer shall likewise pay for him the same amount.\""
+   }
+  },
+  {
+   "id": "PH-H649-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Section five of Commonwealth Act Numbered One hundred and eighty-six is hereby amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H649-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "(a) Rates of contributions.-For the benefits described hereunder, each employee who is a member of the System and his employer shall pay the monthly rates of premiums specified in the following schedule:\nMONTHLY PREMIUMS\nBenefits\nPercentage of monthly salary payable by- Remarks\nI. Life insurance Employee Employer 1 1 Payment of premium shall begin on the last day of the calendar month preceding the month when one's insurance takes effect. Except as otherwise provided in this Act, the first rate shall apply to a civilian employee insured on or after the approval of this Act. The second rate shall apply to a civilian employee already insured prior to the approval of this Act unless he chooses term insurance in which case the first rate shall apply. The third rate shall apply to a regular officer or an enlisted man.\n3 3 5 0 II. Retirement insurance 6 If employee's monthly salary is P200 or less.\n5 If employee's monthly salary is more than P200, but his premium for this benefit shall not exceed P37.50 per month \"Payment of premiums for retirement insurance shall begin on the last day of the third calendar month following the month this Act was approved or the employee entered the service, whichever is the later date: Provided, however, That such premiums shall not be required of Justices of the Supreme Court, elective officials, and regular officers and enlisted men, who are hereby excluded from said benefit.\n\"(b) Premiums for optional insurance.-The amount of premium on one's optional insurance described in section ten hereof shall be as provided in his policy. The premiums on this optional insurance shall be entirely borne by the insured.\n\"(c) Premiums for optional retirement annuity.-Each employee may at his option and under such rules and conditions as the System may prescribe deposit additional amounts from time to time, the total of which shall not exceed ten per cent of the total salaries he has received from his employer prior to his retirement. These deposits shall be credited with interest of three per centum per annum, compounded monthly, and together with said interest shall at the date of his retirement be available to purchase in addition to the annuity described in section eleven hereof such an annuity as he will elect and the System will offer. In the event of his death or separation before becoming eligible for retirement, the total amount so deposited, with interest, shall be refunded to him or his beneficiaries as recorded in his application for optional retirement annuity filed with the System.\n\"(d) Collection and remittance of premiums.-Each employer concerned shall at the end of each month deduct and withhold from the monthly salary of every employee in its service the premiums payable by him in accordance with the preceding schedule plus the additional premiums, if any, required in section seven hereof. It shall advance and remit to the System beginning April 1 of each year and quarterly thereafter the monthly premiums for the current quarter, together with its corresponding shares as described in the said schedule, plus extra premiums and additional amounts, if any, as required in the following sections: Provided, That if such employee is separated from the service, then any premiums not due and payable shall be refunded or credited to his employer. A member no longer in the service may pay his premiums directly to the System or as provided herein below.\n\"Except as otherwise specified herein, payment of any premium on one's optional insurance and/or retirement annuity in the System may be made to an employer whose location is convenient to the member, and such employer is hereby authorized and required to accept such payment, issue receipt therefor, and remit the same immediately to the System.\""
+   }
+  },
+  {
+   "id": "PH-H649-A4_2",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Section six of Commonwealth Act Numbered One hundred and eighty-six is hereby amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H649-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Employer's premiums.-Each employer shall include in its annual appropriation and remit to the System the necessary amounts for its corresponding shares of the premiums described in subsection (a) of section five, plus any extra premiums that may be required on account of the hazards or risks of its employees' occupations, plus the additional amounts, if any, required in the next following section: Provided, however, That if one's compulsory membership policy matures, the employer's premium for his life insurance shall cease until he acquires a new membership policy, which, however, shall be granted only upon satisfactory evidence of insurability: And provided, finally, That in case of transfer of an employee from one employer to another, the former employer shall be relieved of .paying further premiums for him and the new employer whether or not it has joined the System, shall assume the same, appropriating therefor the necessary amount.\n\"The Board shall have the full power and authority to adopt rules and regulations for the collection and remittance of premiums or other amounts payable as provided in this Act and/or any indebtedness to the System, and impose a fine not exceeding the loss or damage that the System may suffer on the official or officials responsible for the delay or failure in collecting or remitting said premiums or indebtedness without prejudice to such other punishment as may be imposed in accordance with existing Civil Service rules and regulations. Notwithstanding any law to the contrary, the Board may give extra remuneration to officials in charge of collecting and remitting said premiums, amounts, or indebtedness, if by so doing the best interest of the System shall be advanced.\""
+   }
+  },
+  {
+   "id": "PH-H649-A5_2",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Section seven of Commonwealth Act Numbered One hundred and eighty-six is hereby amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H649-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "Additional premiums.- (a) For the amount of annuity corresponding to the services rendered by an employee prior to the approval of this Act, his employer shall pay under such rules and regulations as the System may prescribe the necessary additional amounts or premiums.\n\"(b) The Board is hereby authorized and empowered, in carrying out the provisions of this Act, to supplement the individual premiums of members with moneys received in the form of donations, gifts, legacies, or bequests, or otherwise, and to receive and deposit to the credit of the System, and invest all moneys which may be donated by private individuals, organizations, or corporations.\n\"(c) All savings in appropriations for salaries and Wages that may be realized by each employer during each fiscal year shall be transferred by said employer to the System which shall use the same for the payment of benefits provided in this Act.\""
+   }
+  },
+  {
+   "id": "PH-H649-A6_2",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Section eight of Commonwealth Act Numbered One hundred and eighty-six is hereby amended to read as follows:\n\"I-Life Insurance Benefit \""
+   }
+  },
+  {
+   "id": "PH-H649-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "(a) Compulsory membership insurance.-An employee whose membership in the System is compulsory shall be automatically insured on the first day of the seventh calendar month following the month he was appointed or on the first day of the sixth calendar month if the date of his appointment is the first day of the month: Provided, That his medical examination, if required, has been approved by the System.\n\"(b) Optional membership insurance.-The life insurance of an employee whose membership in the System is optional shall take effect, if he is alive, on the first day of the calendar month following the calendar month during which the first premium thereon was paid to the System: Provided, That his application for membership and his medical examination, if required, have been approved by the System.\n\"(c) Amount and kind of insurance.-Compulsory membership insurance shall be term insurance of an amount equal to the employee's current annual salary: Provided, however, That this subsection shall not apply to any civilian employee who prior to the approval of this Act is already insured in the System nor to a regular officer or an, enlisted man: And provided, further, That upon his request a civilian employee may have his old membership insurance changed into a paid-up endowment insurance and be reinsured under a term insurance on submission of satisfactory evidence of insurability unless such request be made within one year from the date of approval of this Act. Optional membership insurance shall be, as he may select, either the term insurance described above or an endowment insurance whose amount shall be whatever the six per centum monthly premium will buy,\""
+   }
+  },
+  {
+   "id": "PH-H649-A7_2",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "Section ten of Commonwealth Act Numbered One hundred and eighty-six is hereby amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H649-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "text": {
+    "en": "Optional insurance.-Upon application to the Board and on satisfactory evidence of insurability, each member may obtain, at any time, additional life insurance as he may desire, subject to the provisions of section fourteen hereof: Provided, That the amount of said additional life insurance shall be in multiple of one hundred pesos and that its aggregate amount shall not exceed an amount, to the nearest hundred pesos, equal to his current annual salary: And provided, further, That the full amount of the premiums on such additional insurance shall be paid by said member, and the amount thereof may be deducted from his pay or compensation, when expressly authorized by him.\""
+   }
+  },
+  {
+   "id": "PH-H649-A8_2",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "The following new sections are hereby inserted in Commonwealth Act Numbered One hundred and eighty-six:\n\"II.-Retirement Insurance Benefit \""
+   }
+  },
+  {
+   "id": "PH-H649-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "text": {
+    "en": "(a) Amount of annuity.-Upon retirement a member shall be automatically entitled to a life annuity payable monthly for at least five years and thereafter as long as he lives. The amount of the monthly annuity at the age of fifty-seven years shall be twenty pesos, plus, for each year of service rendered after the approval of this Act, one and six-tenths per centum of the average monthly salary received by him during the last five years of service, plus, for each year of service rendered prior to the approval of this Act, if said service was at least seven years, one and two-tenths per centum of said average monthly salary: Provided, That this amount shall be adjusted actuarially if retirement be at an age other than fifty-seven years: Provided, further, That the maximum, amount of monthly annuity at age fifty-seven shall not in any case exceed two-thirds of said average monthly salary or five hundred pesos, whichever is the smaller amount: And provided, finally, That retirement benefit shall be paid not earlier than one year after the approval of this Act. In lieu of this annuity, he may prior to his retirement elect one of the following equivalent benefits:\n\"(1) Monthly annuity during his lifetime;\n\"(2) Monthly annuity during the joint-lives of the employee and his wife or other designated beneficiary, which annuity, however, shall be reduced upon the death of either to one-half and be paid to the survivor;\n(3) For those who are at least sixty-five years of age, lump sum payment of present value of annuity for first five years and future annuity to be paid monthly; or \"(4) Such other benefit as may be approved by the System.\n\"(b) Survivors benefit.-Upon death before he becomes eligible for retirement, his beneficiaries as recorded in the application for retirement annuity filed with the System shall be paid his own premiums with interest of three per centum per annum, compounded monthly. If on his death he is eligible for retirement, then the automatic retirement annuity or the annuity chosen by him previously shall be paid accordingly.\n\"(c) Disability benefit.-If he becomes permanently and totally disabled and his services are no longer desirable, he shall be discharged and paid his own contributions with interest of three per centum per annum, compounded monthly, if he has served less than five years; if he has. served at least five years but less than fifteen years, he shall be paid also the corresponding employer's premiums, without interest, described in subsection (a) of section five hereof; and if he has served at least fifteen years he shall be retired and be entitled to the benefit provided under subsection (a) of this section.\n\"(d) Upon dismissal for cause or on voluntary separation, he shall be entitled only to his own premiums and voluntary deposits, if any, plus interest of three per centum per annum, compounded monthly.\n\""
+   }
+  },
+  {
+   "id": "PH-H649-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "text": {
+    "en": "Conditions for retirement.- (a) On completion of thirty years of total service and attainment of age fifty- seven years, a member shall have the option to retire. In all cases, the last three years of service before retirement must be continuous, and he has made contributions for at least five years, which contributions may, upon his request approved by the Board, be deducted from his life annuity under such terms and conditions as the Board may prescribe. In the case of those who are at least fifty-seven years of age a period of service shorter than thirty years may be allowed, provided that each year decrease in service shall be compensated by one-half year increase in age over fifty-seven years. A younger age of retirement may be permitted provided that each year decrease below fifty-seven years shall be compensated by one year increase in service over thirty years. If an employee is a laborer or one whose work is mostly manual, the ages mentioned above may be decreased by not more than five years at the discretion of the System. In all cases no one shall be entitled to retirement benefit if his age is below fifty-two years or his total service is less than fifteen years.\n\"(b) The employer concerned may request the retirement of any such employee described in the preceding subsection who, by reason of a disqualification, is unable to perform satisfactorily and efficiently the duties of his position or some other position of the same grade or class as that occupied by the employee and to which he could be assigned, but such request shall be submitted to the Civil Service Board of Appeals only after the said employee had been notified in writing of the proposed retirement. No such employee, however, shall be so retired unless the Civil Service Board of Appeals has given him a hearing and found him after examination that he is so disqualified. The decision of the Civil Service Board of Appeals as to whether or not the said employee shall be retired under this sub-section shall be final and conclusive.\n\"(c) Retirement shall be automatic and compulsory at the age of sixty-five years, if he has completed fifteen years of service, and if he has not, he shall be allowed to continue in the service until he shall have completed fifteen years unless he is otherwise eligible for disability retirement. This clause shall not apply to members of the judiciary and constitutional officers whose tenure of office is guaranteed. Upon specific approval of the President of the Philippines, an employee may be allowed to continue to serve after the age of sixty-five years if he possesses special qualifications and his services are needed. It shall be the duty of the employer concerned to notify each such employee under its direction of the date of his automatic separation from the service at least sixty days in advance thereof.\n\"(d) An employee separated from the service who is receiving an annuity described under section eleven shall not be eligible again to appointment to any appointive position or employment under any 'employer' unless the appointing authority determines that he is possessed of special qualifications and his medical examination has been approved by the System, in which event payment of his annuity shall be suspended during the period of his new employment: Provided, however, That nothing in this Act shall be so construed as to affect the rights of the annuitant's beneficiary if the annuitant has been receiving or had elected, and was otherwise entitled to, a reduced annuity under subsection (a) of section eleven: And provided, further, That upon the termination of his new appointment, the payment of the annuity which was suspended shall be resumed.\n\"(e) If an employee who is not receiving the annuity mentioned in the next preceding subsection be reinstated in the service, he shall be given full credit for services rendered by him prior to the approval of this Act for the purpose of determining the amount of annuity under section eleven hereof to which he may be entitled: Provided however, That said credit shall not be/given if the employee shall not refund to the System any amount he received therefrom with interest of three per centum per annum compounded monthly from the date he received them up to the date of their payment, or any gratuity or benefit he received under any pension or retirement plan of an employer unless expressly exempted by law from refunding said gratuity or pension: Provided, further, That if separated before, and reinstated after, the approval of this Act, only three-fourths of said prior services shall be credited to the employee after complying with the condition stated above.\n\""
+   }
+  },
+  {
+   "id": "PH-H649-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "text": {
+    "en": "Computation of service.-The aggregate period of service which forms the basis for retirement and calculating the amount of annuity described in section eleven hereof shall be computed from the date of original employment, whether as a classified or unclassified employee in the service of an 'employer', including periods of service at different times and under one or more employers, and also periods of service performed overseas under the authority of the Republic of the Philippines and periods of honorable service in the Armed Forces of the Philippines prior to the approval of this Act, and periods of honorable service in the Philippines under the authority of the United States Government if rendered prior to July fourth nineteen hundred and forty-six: Provided, however, That in the case of an employee who is eligible for and receives retirement pay on account of military or naval service or on account of disability incurred therein, the period of service upon which such retirement pay is based shall be excluded: Provided, also, That periods of service rendered after the approval of this Act during which premiums are not required shall be excluded, unless the premiums corresponding to said service be later on paid to the System with interest: And provided, further, That the period February twenty-eight nineteen hundred and forty-five and from January first nineteen hundred and forty-two to any period not exceeding one year at a time during which an officer or employee had been thereafter out of the service to the date of his reinstatement or reappointment before the approval of this Act shall be included for those who were in the service on December eight, nineteen hundred and forty-one, except those who were separated prior to Japanese occupation, in the computation of total service, the annuity mentioned herein, and payment of premiums therefor.\""
+   }
+  },
+  {
+   "id": "PH-H649-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "text": {
+    "en": "Section eleven of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section fourteen and is amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H649-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "text": {
+    "en": "Special rights attached to life insurance policy. -Any life insurance policy issued under the provisions of this Act shall not be assignable, except to the System, and shall be entitled to participation in the surplus, as provided in section twenty-five hereof. It shall continue in force, except as otherwise provided herein, whether the member is in or out of the service, so long as he complies with the provisions and conditions thereof. Such policy and the proceeds thereof shall be exempt from all taxes, and shall not be considered a gratuity.\""
+   }
+  },
+  {
+   "id": "PH-H649-A10_2",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "text": {
+    "en": "Section twelve of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section fifteen."
+   }
+  },
+  {
+   "id": "PH-H649-A11_2",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "text": {
+    "en": "Section thirteen of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section sixteen and is amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H649-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "text": {
+    "en": "Administration of the System.-The System shall be a non-stock corporation, with its principal place of business in Manila, Philippines. It shall be managed by a Board of Trustees to consist of five members to be appointed by the President of the Philippines with the consent of the Commission on Appointments. The trustees shall elect from among themselves a chairman and a vice-chairman. Each trustee shall hold office for three years or until his successor is duly qualified, except that of the Board first appointed, one shall hold office for one year, two for two years, and two for three years. At the expiration of their respective terms, a successor shall be appointed for the term of three years, from the date of such expiration. All vacancies, except through the expiration of the terms, shall be filled for the unexpired term only. The trustees shall be entitled to a per diem of twenty-five pesos for each day of actual attendance in session.\""
+   }
+  },
+  {
+   "id": "PH-H649-A12_2",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "text": {
+    "en": "Section fourteen of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section seventeen and is amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H649-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "text": {
+    "en": "General powers of the Board.-The Board shall have the powers specified in this Act and the usual general corporate powers. Among others, it shall have the following exclusive powers and authority: (a) to adopt by-laws, rules and regulations for the administration of the System and the transaction of its business; (b) to adopt from time to time a budget of expenditures, including salaries of personnel, and appropriate therefor the necessary amounts; (c) to set up its accounting unit and provide the necessary personnel therefor; (d) to invest its funds directly or indirectly; to discount pensions guaranteed under this Act at such rate of discount it may prescribe; (e) to establish branches of the System whenever and wherever it may be expedient or necessary, fix their domiciles and in general prescribe the other complementary rules of organization which this Act imposes; (f) to lease, purchase, construct or otherwise acquire real property and/or build ings and such facilities which may be necessary or expedient to the effective execution of the purposes of this Act;\n(g) to prescribe the forms of life insurance and annuity contracts to be issued and the benefits thereof including accident benefits; (h) to fix the premium rates, conditions and terms thereof, taking into consideration the kind of insurance, age, health, and other factors affecting the insurability of the employee or member, and to authorize the issuance thereof when so determined; (i) to construct, establish and/or operate hospitals and sanatoriums when possible and expedient or necessary to the employees' welfare; (j) to enter into agreements or contracts with Government and private hospitals or health institutions and with medical associations or duly licensed physicians, nurses, or other competent persons who may be needed in connection with medical and obstetrical services for members of the System and their dependents, paying them, and authorizing them to accept, reasonable necessary compensation therefor, notwithstanding any provision of law to the contrary; (k) except as otherwise provided in this Act, to extend, when possible and expedient, directly or through other agencies, and under such rules, regulations, and conditions it may prescribe, medical and obstetrical services to other members of the System and their dependents, and, in general, promote the health of the members of the System and appropriate necessary sums therefor from the surplus of the System; (l) having regard to any periodic audit and valuation of the retirement insurance fund, to make such immediate readjustments or modifications in any of the rates or periods of benefits granted under this Act and prescribe rules and conditions therefor, notwithstanding any provision of this Act to the contrary, as appear necessary in order to make said fund sufficient or no more than reasonably sufficient to discharge its liabilities: Provided, That no person may allege vested rights for reason of these readjustments or modifications; (m) to have the power of succession; (n) to sue and be sued; and (o) to exercise such other powers as may be necessary to carry on the business for which the System has been created.\""
+   }
+  },
+  {
+   "id": "PH-H649-A13_2",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "text": {
+    "en": "Section fifteen of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section eighteen and is amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H649-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "text": {
+    "en": "Personnel.-The Board shall have the power to appoint a general manager, or a general manager and actuary, who shall be a person of recognized experience and capacity in the subject of life and social insurance, and who shall be the chief executive officer of the System, one or more assistant general managers, one or more managers, a medical director, and an actuary, and fix their compensation. The general manager shall, subject to the approval of the Board, appoint additional personnel whenever and wherever they may be necessary to the effective execution of the provisions of this Act and fix their compensation. He shall have the power to prescribe their duties, grant leave, prescribe certain qualifications to the end that only competent persons may be employed, and appoint committees: Provided, however, That said additional personnel shall be selected from civil service eligibles certified by the Commissioner of Civil Service and shall be subject to civil service rules and regulations except as herein otherwise provided.\n\"The Auditor General shall appoint a representative who shall be the auditor of the corporation, and the necessary personnel to assist said representative in the performance of his duties. The number and salaries of the auditor and said personnel shall be determined by the Auditor General, subject to appropriation by the Board of Directors; in case of disagreement, the matter should be submitted to the president of the Philippines whose decision shall be final. Said salaries and all other expenses of maintaining the auditor's office shall be paid by the System.\""
+   }
+  },
+  {
+   "id": "PH-H649-A14_2",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "text": {
+    "en": "Section sixteen of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section nineteen and is amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H649-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "text": {
+    "en": "Records and reports.-The Board shall cause to be kept such records as may be required for the purpose of making actuarial valuations of the System including such data necessary in the computation of rates of disability, mortality, and withdrawal among the members and any other information that may be useful for the adjustment of the benefits for the members of the System. Separate and distinct records of operation of each fund of the System and of disbursements for the same and all accounts of payments made out of each fund shall, likewise, be made and kept by the System.\n\"Within four months after the end of each fiscal year, the Board shall submit to the President of the Philippines who shall furnish a copy thereof to the Congress of the Philippines, a report of operations of the preceding year under the provisions of this Act.\""
+   }
+  },
+  {
+   "id": "PH-H649-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "text": {
+    "en": "Section seventeen of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section twenty."
+   }
+  },
+  {
+   "id": "PH-H649-A16_2",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "text": {
+    "en": "Section eighteen of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section twenty-one."
+   }
+  },
+  {
+   "id": "PH-H649-A17_2",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "text": {
+    "en": "Section nineteen of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section twenty-two."
+   }
+  },
+  {
+   "id": "PH-H649-A18_2",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "text": {
+    "en": "Section twenty of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section twenty-three."
+   }
+  },
+  {
+   "id": "PH-H649-A19_2",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "text": {
+    "en": "Section twenty-one of Commonwealth Act Numbered one hundred and eighty-six is hereby changed to section twenty-four and is amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H649-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "text": {
+    "en": "Accounts to be maintained.-The System shall keep separate and distinct from one another the following funds:\n\"(a) Life insurance fund.-This shall consist of all premiums for life insurance benefit and/or earnings and savings therefrom. It shall meet death claims as they may arise or such equities as any member may be entitled to, under the conditions of his policy, and shall maintain the required reserves to the end of guaranteeing the fulfillment of the life insurance contracts issued by the System. Said reserves shall be computed yearly in accordance with approved valuation standards and with an interest rate of not higher than four per centum per annum.\n\"(b) Retirement insurance fund.-This shall consist of all contributions for retirement insurance benefit and of earnings and savings therefrom. It shall meet annuity payments and establish the required reserves to the end of guaranteeing the fulfillment of the contracts issued by the System. Said reserves shall be determined yearly on such annuity tables, with an interest rate of not higher than three per centum per annum, as shall be adopted by the Board.\n\"(c) Contingency reserve fund.-This shall consist of such portion of the surplus of each fund mentioned above as may be set aside each year by the Board pursuant to section twenty-five hereof: Provided, That it shall not exceed ten per centum of the required reserves of the System.\n\"(d) General fund.-This shall consist of such amounts as may be set aside by the Board from each fund, to meet the expenses incidental to the enforcement of the provisions of this Act.\n\"The Government of the Republic of the Philippines hereby guarantees the fulfillment of the obligations of the Government Service Insurance System to the members thereof when and as they shall become due.\""
+   }
+  },
+  {
+   "id": "PH-H649-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "text": {
+    "en": "Section twenty-two of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section twenty-five and is amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H649-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "text": {
+    "en": "Disposable surplus.-Any disposable surplus that may result from the operations of the life insurance fund shall be apportioned among the members whose policies are in force for at least one year, when and if the Board deems it expedient, in accordance with the schedule prepared by the Actuary and approved by the Board. The disposable surplus shall be that amount left after the mean reserves of the policies, contingency reserves, the expenses incidental to the operation of said fund, the expenses incurred in promoting the health of the members, and other liabilities of the fund have been determined and set aside or satisfied.\""
+   }
+  },
+  {
+   "id": "PH-H649-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "text": {
+    "en": "Section twenty-three of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section twenty-six and is amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H649-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "text": {
+    "en": "Exemptions from legal process and liens.-No policy of life insurance issued under this Act, or the proceeds thereof, when paid to any member thereunder, nor any other benefit granted under this Act, shall be liable to attachment, garnishment, or other process, or to be seized, taken, appropriated, or applied by any legal or equitable process or operation of law to pay any debt or liability of such member, or his beneficiary, or any other person who may have a right thereunder, either before or after payment; nor shall the proceeds thereof, when not made payable to a named beneficiary, constitute a part of the estate of the member for payment of his debt: Provided, however, that this section shall not apply when obligations or indebtedness to the employer are concerned.\""
+   }
+  },
+  {
+   "id": "PH-H649-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "text": {
+    "en": "Section twenty-four of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section twenty-seven and is amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H649-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "text": {
+    "en": "Appropriations.-There is hereby appropriated for the current fiscal year, and annually thereafter, out of any fund in the Philippine Treasury or other depository not otherwise appropriated, including special and corporate funds, such sums as may be necessary to pay the contributions or premiums payable by each employer under this Act.\""
+   }
+  },
+  {
+   "id": "PH-H649-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "text": {
+    "en": "Section twenty-five of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section twenty-eight and is amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H649-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "text": {
+    "en": "Miscellaneous provisions.- (a) Act Numbered Two thousand five hundred and eighty-nine, as amended, and all other retirement or pension plans heretofore in force in any chartered city or corporation owned or controlled by the Government are hereby declared inoperative or abolished, and Act Numbered Four thousand one hundred and eighty-three shall cease to be applicable to employees of any local government that may be admitted to the System, and hereafter no insurance or retirement plan for employees shall be created by any employer without the prior approval of the System: Provided, That the rights of those already retired shall not be affected: Provided, further, That as of the date of approval of this Act the present value of the benefit as may be computed by the actuary of the System or the gratuity payable to any member who has established his right before the approval of this Act to retire under either Act Numbered Two thousand five hundred and eighty-nine or Act Numbered Four thousand one hundred and eighty-three or under any retirement or pension plan mentioned above shall be credited and paid by the employer concerned to the retirement insurance fund of the System in installments to be determined by the System and approved by the President and shall be included in the computation of the additional premiums or amounts required in section seven hereof for the service annuity described in subsection (a) of section eleven hereof: And provided, finally, That such a member shall be entitled to the retirement benefit described in this Act only if he so notifies the System within six months from the approval of this Act, otherwise it shall be deemed that he does not desire to be retired under this Act and accordingly the gratuity or benefit payable to him under either aforementioned Act shaft be exclusively reserved for him by the System. If such member elects the retirement benefit of this Act, but his position is abolished or he dies or becomes disabled before becoming eligible to said benefit, his legal heirs may be paid the retirement benefit to which he has established his right prior to the approval of this Act and his contributions under this Act shall be refunded as provided in section 11 (d) hereof.\n\"(b) Except as herein otherwise provided, the Government Service Insurance System including all its forms or documents required of its members, shall be exempt from all types of taxes, documentary stamps, duties and contributions, fiscal or municipal, direct or indirect, established or to be established; and more specially, it shall not be subject to the provisions of Act Numbered Twenty-four hundred and twenty-seven, as amended, and Commonwealth Act Numbered Four hundred and sixty-six, as amended, and no law hereafter enacted shall apply to said System unless it is provided therein that the same is applicable to the System by expressly stating the name of said entity.\n\"(c) Any provision of law inconsistent with the provisions of this Act is hereby repealed.\""
+   }
+  },
+  {
+   "id": "PH-H649-A24_2",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "text": {
+    "en": "Section twenty-nine to read as follows is hereby added to Commonwealth Act Numbered One hundred and eighty-six:\n\""
+   }
+  },
+  {
+   "id": "PH-H649-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "text": {
+    "en": "Penalty.-Any person found to have participated, directly or indirectly, in the commission of fraud, collusion, falsification, misrepresentation of facts, or any other kind of anomaly in the issuance of any certificate or document for any purpose connected with this Act, or in obtaining any benefit or payment under this Act, whether for him or some other person, shall be punished by a fine not exceeding one thousand pesos or imprisonment not exceeding one year, or by both such fine and imprisonment at the discretion of the court, besides disqualification from holding public office and from practicing any profession or calling licensed by the Government,\""
+   }
+  },
+  {
+   "id": "PH-H649-A25_2",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "text": {
+    "en": "Section twenty-six of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section thirty."
+   }
+  },
+  {
+   "id": "PH-H649-A26_2",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "text": {
+    "en": "Notwithstanding the provisions of this Act to the contrary, any officer or employee who died in the service within three years before said Act went into effect and who had rendered at least thirty-five years of service and who was entitled to or who could have established his right to the retirement gratuity provided for in Act Numbered Twenty-five hundred and eighty-nine, as amended, or to any other retirement benefits from any pension fund created by law shall be considered retired under the provisions of this Act if his wife, or in her default, his other legal heirs shall so elect and notify the System to that effect. Upon making such election, the wife or legal heirs of the deceased officer or employee shall be paid the monthly annuity for five consecutive years or such other benefit as provided in said Act, in lieu of the retirement gratuity or retirement benefits to which the deceased was entitled at the time of his death; and any portion of such gratuity or retirement benefits already paid to his wife or other legal heirs shall be refunded to the System: Provided, That contributions corresponding to his last five years of service shall be deducted monthly from his life annuity.\nNotwithstanding any provisions of this Act to the contrary, any officer or employee whose position was abolished or who was separated from the service as a consequence of the reorganization provided for in Republic Act Numbered Four hundred and twenty-two may be retired under the provisions of this Act if qualified: Provided, That any gratuity or retirement benefit already received by him shall be refunded to the System: Provided, further, That contributions corresponding to his last five years of service shall be paid as provided in section twelve of this Act. This provision shall also apply to any member of the judiciary who, prior to the approval of this Act, was separated from the service after reaching seventy years of age and rendering at least thirty years of service and who is not entitled to retirement benefit under any law.\nNotwithstanding any provisions of this Act to the contrary, any officer or employee, who has not established his right to retire under Act Numbered Twenty-five hundred and eighty-nine or under Act Numbered Forty-one hundred and eighty-three, both as amended, but who has rendered not less than twenty-five years of service and has attained the age of fifty-seven years may elect to retire under either of said Acts if he shall establish such right within one year from the date of the approval of this Act, or under this Act if otherwise qualified."
+   }
+  },
+  {
+   "id": "PH-H649-A27_2",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval: Provided, That if the financial condition of an employer does not permit payment of its contributions for retirement insurance herein required, such payment may be deferred under such conditions as the System may prescribe.\nApproved, June 16, 1951."
+   }
+  }
+ ]
+}

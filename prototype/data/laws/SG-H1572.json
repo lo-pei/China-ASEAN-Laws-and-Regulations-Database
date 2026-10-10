@@ -1,0 +1,81 @@
+{
+ "id": "SG-H1572",
+ "title": {
+  "zh": null,
+  "en": "Financial Services and Markets (Information Sharing Scheme for Prescribed Financial Institutions) Regulations 2024",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p20",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation FSMA2022-S238-2024",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2814,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/FSMA2022-S238-2024?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1572-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Financial Services and Markets (Information Sharing Scheme for Prescribed Financial Institutions) Regulations 2024 and come into operation on 1 April 2024."
+   }
+  },
+  {
+   "id": "SG-H1572-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definition of “prescribed financial institution”"
+   },
+   "text": {
+    "en": "2. For the purposes of section 28C(a) of the Act, the Authority prescribes each of the following as a bank in Singapore to which Part 4A of the Act applies:\n(a)the branches and offices of Citibank N.A., that are located within Singapore;\n(b)Citibank Singapore Limited;\n(c)DBS Bank Ltd.;\n(d)the branches and offices of the Hongkong and Shanghai Banking Corporation Limited, that are located within Singapore;\n(e)HSBC Bank (Singapore) Limited;\n(f)Oversea-Chinese Banking Corporation Limited;\n(g)Standard Chartered Bank (Singapore) Limited;\n(h)United Overseas Bank Limited."
+   }
+  },
+  {
+   "id": "SG-H1572-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Definition of “relevant party”"
+   },
+   "text": {
+    "en": "3.—(1) For the purposes of the definition of “relevant party” in section 28B of the Act, each of the following persons is prescribed as a relevant party in relation to a prescribed financial institution that is a bank in Singapore:\n(a)any person that the bank in Singapore opens or has previously opened a relevant account for, or any person who requests the bank in Singapore to open a relevant account (whether or not the bank in Singapore in fact opens the relevant account);\n(b)any person that the bank in Singapore maintains or has previously maintained a relevant account for;\n(c)any person to whom the bank in Singapore provides or has previously provided any financial advisory service as defined in section 2(1) of the Financial Advisers Act 2001, or any person that requests the bank in Singapore to provide such a service (whether or not the bank in Singapore in fact provides the service);\n(d)any person that the bank in Singapore advises or has previously advised on corporate finance as defined in section 2(1) of the Securities and Futures Act 2001, or any person that requests the bank in Singapore to provide such advice (whether or not the bank in Singapore in fact provides the advice);\n(e)any person on whose behalf the bank in Singapore is carrying out a transaction, for whom the bank in Singapore has not opened a relevant account;\n(f)any person who requests the bank in Singapore to carry out a transaction, for whom the bank in Singapore does not open a relevant account, whether or not the bank in Singapore in fact carries out the transaction;\n(g)any person on whose behalf the bank in Singapore previously carried out a transaction, for whom the bank in Singapore did not open a relevant account.\n(2) In this regulation —\n“relevant account”, in relation to a person, means an account that is held in the name of that person whether or not the account is held jointly with any other person;\n“transaction” means a wire transfer or value transfer;\n“value transfer” and “wire transfer” have the meanings given by section 28B of the Act."
+   }
+  }
+ ]
+}

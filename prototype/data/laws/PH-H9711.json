@@ -1,0 +1,64 @@
+{
+ "id": "PH-H9711",
+ "title": {
+  "zh": "对第 10160 号共和国法的修改",
+  "en": "Charter of the City of Bacoor",
+  "orig": "An Act Amending Section 10(b) of Republic Act No. 10160, Otherwise Known as the \"Charter of the City of Bacoor\""
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p138",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2019-04-12",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 11274",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 2302,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11274_2019.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2019/ra_11274_2019.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H9711-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section 10(b) of Republic Act No. 10160, otherwise known as the \"Charter of the City of Bacoor\", is hereby amended to read as follows:\n\"Sec. 10. Composition. — (a) The sangguniangpanlungsod, the legislative body of the City, shall be composed of the city vice mayor as the presiding officer, the twelve (12) regular sanggunian members, the president of the city chapter of the liga ng mga barangay, the president of the panlungsod na pederasvon ng mga sangguniang kabataan and the three (3) sectoral representatives, as members, who shall come from the following sectors: one (1) from the women sector; and, as shall be determined by the sangguniang panlungsod within ninety (90) days prior to the holding of the local elections, one (1) from the agricultural or industrial workers sector; and one (1) from the other sectors, including urban poor, indigenous cultural communities or persons with disabilities.\n\"(b) The regular members of the sangguniang panlungsod and sectoral representatives shall be elected in the manner as may be provided by law: Provided, That for purposes of representation in the sangguniang panlungsod, six (6) regular members shall be elected from each of the following districts by barangay, each district comprising a compact, contiguous and adjacent territory:\n\"Bacoor West – Alima, Aniban, Aniban II, Aniban III, Aniban IV, Aniban V, Banalo, Camposanto, Daang Bukid, Digman, Dulong Bayan, Habay I, Habay II, Kaingin, Ligas I, Ligas II, Ligas III, Mabolo I, Mabolo II, Mabolo III, Maliksi I, Maliksi II, Maliksi III, Niog I, Niog II, Niog III, Panapaan I, Panapaan II, Panapaan III, Panapaan IV, Panapaan V, Panapaan VI, Panapaan VII, Panapaan VTII, Real I, Real II, Salinas I, Salinas II, Salinas III, Salinas IV, San Nicolas I, San Nicolas II, San Nicolas III, Sineguelasan, Tabing Dagat, Talaba I, Talaba II, Talaba III, Talaba IV, Talaba V, Talaba VI, Talaba VII, Zapote I, Zapote II, Zapote III, Zapote IV, and Zapote V.\n\"Bacoor East – Bayanan, Mambog I, Mambog II, Mambog III, Mambog IV, Mambog V, Molino I, Molino II, Molino III, Molino IV, Mo lino V, Molino VI, Molino VII, Queens Row Central, Queens Row East, and Queens Row West.\""
+   }
+  },
+  {
+   "id": "PH-H9711-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
+   }
+  }
+ ]
+}

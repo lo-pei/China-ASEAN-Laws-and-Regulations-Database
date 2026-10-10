@@ -1,0 +1,64 @@
+{
+ "id": "PH-H319",
+ "title": {
+  "zh": "对《矿产法》的修改",
+  "en": "An Act to Amend Sections Thirty-Seven and Seventy-Six of Commonwealth Act Numbered One Hundred and Thirty-Seven, as Amended, Otherwise Known as the Mining Act",
+  "orig": "An Act to Amend Sections Thirty-Seven and Seventy-Six of Commonwealth Act Numbered One Hundred and Thirty-Seven, as Amended, Otherwise Known as the Mining Act"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p04",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1948-06-05",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 225",
+ "officialCode": null,
+ "topics": [
+  "environment"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 4370,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1948/ra_225_1948.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1948/ra_225_1948.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H319-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Sections thirty-seven and seventy-six of Commonwealth Act Numbered One hundred and thirty-seven, as amended, otherwise known as the Mining Act, are hereby amended so as to read as follows:\n\"Sec. 37. In the case of the first, second, fourth, and fifth groups of mineral lands, no locator, applicant or lessee shall be entitled to hold or lease in his, its or their own names or in the name of any person, association, corporation, sociedad anonima, or partnership more than three lode mineral claims on the same vein or lode, or more than three placer mining claims, in the case of an individual, or more than three placer mining claims, in the case of a corporation, an association, a sociedad anonima, or a partnership on the same placer ground: Provided, However, That in the case of lode or placer grounds containing extensive disseminated low grades ore bodies belonging to the first and fifth groups of mineral lands, whether or not in place, an individual, corporation, association, sociedad anonima or partnership shall be entitled to hold a lease in his, its or their own names, not more than two hundred and fifty lode or fifty placer mining claims on the same lode or placer ground. Extensive disseminated low grade ore bodies as used in this Act shall mean ore bodies containing minerals in a mass deposit the average aggregate value of the commercially recoverable metals or minerals of which does not exceed the equivalent in value, at the time leased, of ore containing by weight three per centum of copper alone. The Secretary of Agriculture and Natural Resources shall, through the Director of Mines, determine at the time of the granting of the lease or leases whether the mining claims for which lease is applied come under the provisions of this section.\"\n\"Sec. 76. Subject to the provisions of Article XIII of the Constitution, the maximum area that may be leased to a person, association, or corporation under the provisions of this Act in any one province shall be as follows:\n\"(a) For lands of the first group containing metals or metalliferous ores: not more than four hundred fifty hectares containing minerals in vein or lode deposits for any individual, association, partnership, sociedad anonima or corporation, nor more than four hundred hectares containing minerals in placer deposits for any individual, nor more than three thousand two hundred hectares containing minerals in placer deposits for any corporation, association, sociedad anonima or partnership: Provided, However, That in no case shall the total number of lode mineral claims that a lessee may lease, exceed two hundred fifty in the entire Philippines.\n\"(b) For lands of the second group containing precious stones: not more than forty hectares for an individual, nor more than three hundred twenty hectares for a corporation, or an association, sociedad anonima, or partnership.\n\"(c) For lands of the fourth group containing salines and mineral waters: nor more than twenty-four hectares for an individual, nor more than one hundred ninety-two hectares for a corporation, an association, sociedad anonima, or partnership.\n\"(d) For lands of the fifth group containing building stones in place, clays, fertilizers, and other non-metals: not more than four hundred fifty hectares containing minerals in vein or lode deposits for any individual, association, sociedad anonima, partnership or corporation: Provided, However, That in no case shall the total number of such lode mineral claims exceed two hundred fifty in the entire Philippines; nor more than four hundred hectares containing minerals in placer deposits for any individual; nor more than three thousand two hundred hectares containing minerals in placer deposits for any association, sociedad anonima, partnership or corporation.\n\"(e) In the case, however, of mineral lands of the first and fifth groups containing extensive disseminated low grade or bodies, not more than two hundred fifty lode claims for an individual, association, corporation, sociedad anonima, or partnership; nor more than fifty placer claims for an individual, association, corporation, sociedad anonima, or partnership: Provided, That in no case shall the total number of lode mineral claims that a lessee may lease, exceed two hundred fifty in the entire Philippines.\""
+   }
+  },
+  {
+   "id": "PH-H319-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 5, 1948."
+   }
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "id": "PH-H4921",
+ "title": {
+  "zh": null,
+  "en": "Foreign Service Act of the Philippines",
+  "orig": "An Act Amending Further Some Sections of Republic Act Numbered Seven Hundred and Eight, Otherwise Known as the \"Foreign Service Act of the Philippines\", Concerning Salaries, Allowances, and Other Benefits."
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p70",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1971-10-04",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6409",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 7,
+ "chars": 2702,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1971/ra_6409_1971.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 7 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1971/ra_6409_1971.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文存在同号重出的条款（第 1 条）：该处官方页面确有两段均标同一 Section 号，本库照录其 `no` 值（不改动官方编号），条文 `id` 以 `_2`「_3」后缀保证唯一。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4921-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Sections one, two, and four, Part C, Title II, of Republic Act Numbered Seven hundred and eight are hereby further amended to read as follows:\nPart C— Salaries \""
+   }
+  },
+  {
+   "id": "PH-H4921-A1_2",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Chiefs of Mission. —The President shall, on the basis of the importance of the post and for salary purposes, classify into three classes the positions which are to be occupied by chiefs of mission. The basic salaries of chiefs of mission per annum shall be as follows:\nClass I\nP24,000.00\nClass II 23,000.00 Class III 22,000.00 \""
+   }
+  },
+  {
+   "id": "PH-H4921-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Foreign Service Officers. —There shall be four classes of foreign service officers, excluding the class of career minister. The basic salary of a career minister per annum shall be twenty thousand pesos. The basic salaries of foreign service officers per annum within each of the other classes shall be as follows:\nClass I\nP16,800.00\nP17,400.00\nP18,000.00\nClass II\nP15,000.00\nP15,600.00\nP16,200.00\nClass III\nP13,200.00\nP13,800.00\nP14,400.00\nClass IV\nP11,400.00\nP12,000.00\nP12,600.00 \""
+   }
+  },
+  {
+   "id": "PH-H4921-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Foreign Service Staff Officers and Employees.— There shall be three classes of foreign service staff officers and three classes of Foreign Service Staff employees. Their basic salaries per annum shall be as follows:\nForeign Service Staff Officers\nClass I\nP9,600.00\nP9,900.00\nP10,200.00\nClass II\nP8,700.00\nP9,000.00\nP9,300.00\nClass III\nP7,800.00\nP8,100.00\nP8,400.00\nForeign Service Staff Employees\nClass I\nP6,600.00\nP6,900.00\nP7,200.00\nClass II\nP5,700.00\nP6,000.00\nP6,300.00\nClass III\nP4,800.00\nP5,100.00\nP5,400.00"
+   }
+  },
+  {
+   "id": "PH-H4921-A1_3",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Title VII of the same Act is hereby further amended to read as follows:\n\""
+   }
+  },
+  {
+   "id": "PH-H4921-A1_4",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Implementation. —In order to implement the provisions of this Act, the Secretary shall effect the reorganization of the Department and the Foreign Service in accordance with the provisions of this Act and for this purpose he is authorized to reallot the funds provided for the Department in the General Appropriations Act for the fiscal year nineteen hundred seventy-one-nineteen hundred seventy-two: Provided, however, That any officer receiving the salary and allowances of a particular class of Foreign Service Officer at the time of the approval of this Act shall continue to receive the salary and allowances corresponding to the same class under the provisions of this Act. In addition to the sum of two million five hundred thirty-two thousand sixty pesos appropriated under the provisions of Republic Act Numbered Four thousand one hundred and twelve, the sum of Two million nine hundred fifty-six thousand pesos is hereby authorized to be appropriated out of any unappropriated funds of the National Treasury to carry out the provisions of this Act, as amended.\""
+   }
+  },
+  {
+   "id": "PH-H4921-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved, October 4, 1971."
+   }
+  }
+ ]
+}

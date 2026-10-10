@@ -1,0 +1,336 @@
+{
+ "id": "SG-H521",
+ "title": {
+  "zh": null,
+  "en": "Central Provident Fund (Ministry of Defence Housing Scheme) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p07",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CPFA1953-RG13",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 23,
+ "chars": 26819,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CPFA1953-RG13?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 23 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H521-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Central Provident Fund (Ministry of Defence Housing Scheme) Regulations."
+   }
+  },
+  {
+   "id": "SG-H521-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n[Deleted by S 655/2016 wef 01/01/2017]\n[Deleted by S 655/2016 wef 01/01/2017]\n[Deleted by S 655/2016 wef 01/01/2017]\n“common property” has the same meaning as in section 3 of the Land Titles (Strata) Act 1967;\n[S 586/2007 wef 31/10/2007]\n[S 268/2024 wef 31/12/2021]\n“flat” includes any land adjacent to a flat that the Housing and Development Board has approved for purchase or acquisition as part of the flat;\n[S 694/2012 wef 01/01/2013]\n[Deleted by S 655/2016 wef 01/01/2017]\n“Minister for Finance” means the Minister for Finance incorporated under the Minister for Finance (Incorporation) Act 1959;\n[S 268/2024 wef 31/12/2021]\n“Ministry of Defence Housing Scheme” means any scheme approved by the Minister for the purchase of flats by officers of the Singapore Armed Forces;\n“officer” has the same meaning as in the Singapore Armed Forces Act 1972.\n[S 268/2024 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H521-A2.001",
+   "no": 2.001,
+   "noLabel": {
+    "en": "2A."
+   },
+   "heading": {
+    "en": "Former provisions"
+   },
+   "text": {
+    "en": "2A. In a regulation specified in the first column of the Schedule, a reference to a former provision means any provision of the Act specified in the second column of the Schedule opposite that regulation.\n[S 130/2022 wef 01/03/2022]"
+   }
+  },
+  {
+   "id": "SG-H521-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Withdrawal of moneys for purchase of flat"
+   },
+   "text": {
+    "en": "3. Where an application has been made by an officer to purchase a flat under the Ministry of Defence Housing Scheme and such application has been approved by the Government, the Board may, on the application of the officer and subject to such terms and conditions as the Board may impose, authorise the whole or part of the amount standing to his credit in the Fund to be withdrawn from the Fund and used for the payment of the whole or part of the purchase price of the flat."
+   }
+  },
+  {
+   "id": "SG-H521-A3.001",
+   "no": 3.001,
+   "noLabel": {
+    "en": "3A."
+   },
+   "heading": {
+    "en": "Withdrawal for payment of share in common property"
+   },
+   "text": {
+    "en": "3A. Where an officer, as owner of a flat purchased under the Ministry of Defence Housing Scheme, has accepted, or is deemed to have accepted, the transfer of all the estate and interest of the Government or the Minister for Finance in any common property relating to that flat pursuant to an application under section 126 of the Land Titles (Strata) Act 1967, the Board may, on the application of the officer and subject to such terms and conditions as the Board may impose, authorise the whole or part of the amount standing to the officer’s credit in the Fund to be withdrawn by him to pay the whole or part of —\n(a)the price for his acquiring a share in the common property; and\n(b)any cost, fee or other incidental expenses arising from the transfer of the common property or the withdrawal of moneys under this regulation.\n[S 586/2007 wef 31/10/2007]\n[S 268/2024 wef 31/12/2021]"
+   }
+  },
+  {
+   "id": "SG-H521-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Withdrawal for payment of monthly instalments"
+   },
+   "text": {
+    "en": "4. Subject to regulation 6B, where an officer is required by any agreement under the Ministry of Defence Housing Scheme to pay monthly instalments of principal and interest on account of the purchase of such flat, the Board may, on the application of the officer and subject to such terms and conditions as the Board may impose, authorise the whole or part of the amount standing to his credit in the Fund to be withdrawn from the Fund and used for the payment of such monthly instalments.\n[S 240/2015 wef 24/04/2015]"
+   }
+  },
+  {
+   "id": "SG-H521-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Authorisation to pay whole or part of amount to Government or Minister for Finance"
+   },
+   "text": {
+    "en": "5. Subject to regulation 6B, where an officer has made an application to purchase a flat under the Ministry of Defence Housing Scheme and has obtained a housing loan from the Government or the Minister for Finance to finance the purchase of the flat, the Board may, on the application of the officer and subject to such terms and conditions as the Board may impose, authorise the whole or part of the amount standing to his credit in the Fund to be withdrawn from the Fund and paid to the Government or the Minister for Finance for the repayment of such housing loan.\n[S 240/2015 wef 24/04/2015]"
+   }
+  },
+  {
+   "id": "SG-H521-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Withdrawal of spouse’s contribution for payment of purchase price"
+   },
+   "text": {
+    "en": "6. Where a flat under the Ministry of Defence Housing Scheme is to be purchased in the joint names of an officer and his spouse who is also a member of the Fund, the Board may, on the application of the spouse and subject to such terms and conditions as the Board may impose, authorise the whole or part of the amount standing to the credit of the spouse in the Fund to be withdrawn from the Fund and used for the payment of the whole or part of the purchase price of the flat."
+   }
+  },
+  {
+   "id": "SG-H521-A6.001",
+   "no": 6.001,
+   "noLabel": {
+    "en": "6A."
+   },
+   "heading": {
+    "en": "Loan by Government to officer"
+   },
+   "text": {
+    "en": "6A.—(1) Where the Board has, on or after 1st March 1999, credited into the ordinary account of any officer moneys lent by the Government to the officer pursuant to any approved loan scheme under section 14A of the Act, the Board may —\n(a) on the application of the officer; or\n(b)if it considers necessary,\nand subject to such terms and conditions as it may impose, permit the officer to withdraw such moneys to pay the whole or part of the monthly instalments of principal and interest towards repayment of —\n(i)any loan obtained by the officer to pay for his share in any common property transferred by the Government or the Minister for Finance; or\n(ii)any housing loan which the officer has obtained from the Government or the Minister for Finance to finance the purchase of a flat under the Ministry of Defence Housing Scheme.\n[S 586/2007 wef 31/10/2007]\n(2) The total amount which an officer may withdraw under paragraph (1) to pay such monthly instalments shall be determined by the Board."
+   }
+  },
+  {
+   "id": "SG-H521-A6.002",
+   "no": 6.002,
+   "noLabel": {
+    "en": "6B."
+   },
+   "heading": {
+    "en": "Use of money in special account for payment of housing loan and share in common property transferred by Government or Minister for Finance"
+   },
+   "text": {
+    "en": "6B.—(1) This regulation applies where an officer is liable, as owner of a flat purchased under the Ministry of Defence Housing Scheme, to pay the monthly instalments of principal and interest towards —\n(a)a housing loan which has been obtained by the officer from the Government or the Minister for Finance to finance the purchase of the flat; or\n(b)a loan obtained by the officer to pay for the officer’s share in any common property transferred by the Government or the Minister for Finance.\n(2) Where this regulation applies in respect of an officer, the Board may authorise to be withdrawn from the moneys standing to the officer’s credit in the officer’s special account an amount not exceeding one of the following to pay the monthly instalments referred to in paragraph (1):\n(a)the balance remaining of moneys transferred from the officer’s medisave account under section 13(6) of the Act to the officer’s special account;\n(b)if the Minister approves the withdrawal, the total amount of moneys standing to the officer’s credit in the officer’s special account from time to time.\n(3) The Board may authorise either or both of the amounts under paragraph (2)(a) and (b) to be withdrawn —\n(a)on the application of the officer or if the Board considers it necessary; and\n(b)subject to such terms and conditions as the Board may impose.\n(4) The amounts that an officer may withdraw under paragraph (2)(a) or (b) are to be determined by the Board.\n[S 240/2015 wef 24/04/2015]"
+   }
+  },
+  {
+   "id": "SG-H521-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Disbursements in connection with purchase, etc."
+   },
+   "text": {
+    "en": "7.—(1) Where an officer and his spouse or either of them are or is required to pay any stamp duties, fees or charges in connection with —\n(a)the purchase of a flat by them or by him or her, as the case may be, whether or not moneys were withdrawn under these Regulations for such purchase;\n(aa)any change in the manner of holding of a flat (in which they have an estate or interest, or he or she has an estate or interest, as the case may be) from a joint tenancy to a tenancy in common, or vice versa;\n[S 694/2012 wef 01/01/2013]\n(ab)the transfer of any part (but not the whole) of their estate or interest, or his or her estate or interest, as the case may be, in a flat to any other person;\n[S 694/2012 wef 01/01/2013]\n(b)the transfer or assignment of a flat to them or to him or her, as the case may be;\n(c)the creation or discharge of any mortgage on a flat purchased by, or transferred or assigned to, them or to him or her, as the case may be; or\n(d)the withdrawal of moneys under these Regulations,\nthe Board may, on their application or on his or her application, as the case may be, and subject to such terms and conditions as the Board may impose, authorise the whole or part of the amount standing to their credit in the Fund or the amount standing to his or her credit in the Fund to be withdrawn and used for that purpose.\n(2) For the avoidance of doubt, where an officer and his spouse or either of them are or is required to pay any stamp duties, fees or other charges in connection with —\n(a)any divestment, by them or by him or her, as the case may be, whether by sale, transfer, assignment or otherwise, of the whole of their interest or title, or of his or her interest or title, as the case may be, in a flat; or\n[S 694/2012 wef 01/01/2013]\n(b)the discharge of any mortgage on a flat upon the divestment by them or by him or her, as the case may be, of the whole of their interest, or of his or her interest, as the case may be, in such flat,\n[S 694/2012 wef 01/01/2013]\nno amount standing to their credit in the Fund or to his or her credit in the Fund shall be withdrawn for that purpose."
+   }
+  },
+  {
+   "id": "SG-H521-A7.001",
+   "no": 7.001,
+   "noLabel": {
+    "en": "7A."
+   },
+   "heading": {
+    "en": "Transfer of money from retirement account to ordinary account"
+   },
+   "text": {
+    "en": "7A. Where the Board has permitted a member to withdraw a sum standing to the member’s credit in the member’s retirement account for any purpose under these Regulations, the Board may transfer such sum from the member’s retirement account to the member’s ordinary account to be withdrawn for that purpose.\n[S 655/2016 wef 01/01/2017]"
+   }
+  },
+  {
+   "id": "SG-H521-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Moneys to be paid to certain recipients"
+   },
+   "text": {
+    "en": "8. All moneys withdrawn under these Regulations shall be paid by the Board to the Government, the Minister for Finance or such other person as the Board thinks fit to receive such moneys."
+   }
+  },
+  {
+   "id": "SG-H521-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Restriction on resale"
+   },
+   "text": {
+    "en": "9.—(1) An officer who —\n(a)has withdrawn any moneys under these Regulations in respect of a flat; or\n(b)is required under section 27C(1)(g), 27DA(1)(g), 27DB(2)(c) or 27E(1)(f) of the Act to make a payment to the Fund upon the sale or disposal of a flat,\n[S 694/2012 wef 01/01/2013]\n[S 221/2021 wef 01/04/2021]\n[S 268/2024 wef 31/12/2021]\nshall not, without the prior written permission of the Board, sell, transfer, assign or otherwise dispose of the flat or any of his estate or interest therein.\n(2) An officer who has withdrawn any moneys under these Regulations in respect of a flat shall not, without the prior written permission of the Board, execute a mortgage in respect of the flat in favour of any person other than the Board, the Government or the Minister for Finance, or any one or more of them.\n[S 510/2007 wef 01/10/2007]"
+   }
+  },
+  {
+   "id": "SG-H521-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Repayment of moneys in certain circumstances"
+   },
+   "text": {
+    "en": "10.—(1) Notwithstanding regulation 12, where an officer —\n(a)has withdrawn any moneys under these Regulations in respect of a flat; or\n(b)is required under section 27C(1)(g), 27DA(1)(g), 27DB(2)(c) or 27E(1)(f) of the Act to make a payment to the Fund upon the sale or disposal of a flat,\n[S 694/2012 wef 01/01/2013]\n[S 221/2021 wef 01/04/2021]\n[S 268/2024 wef 31/12/2021]\nin the event that the flat or any estate or interest therein is sold, transferred, assigned or otherwise disposed of —\n(i)by the Government or the Minister for Finance;\n(ii)by the officer without the prior written permission of the Board; or\n(iii)by any other person with or without the prior written consent of the Board,\nsuch of the following amounts as may be applicable to the officer or, if both amounts are applicable to him, the aggregate of both amounts, shall become due and payable to his account in the Fund:\n(A)if sub-paragraph (a) applies to him, all moneys withdrawn by him in connection with the purchase of the flat (including any moneys lent to him under section 14A of the Act in connection with such purchase and withdrawn by him which have not been repaid), together with the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the withdrawal had not been made;\n(B)if sub-paragraph (b) applies to him, the relevant amount as defined in regulation 12(11).\n(2) Notwithstanding regulation 12, all moneys withdrawn by an officer under these Regulations (including any moneys lent to him under section 14A of the Act and withdrawn by him which have not been repaid), together with the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the withdrawal had not been made, shall become due and payable to the officer’s account in the Fund in the event that —\n(a)the officer cancels his application to purchase the flat under the Ministry of Defence Housing Scheme;\n(b)any mortgage or encumbrance, other than a mortgage executed by the officer in favour of the Board, the Government or the Minister for Finance, or any one or more of them, is created over the flat without the prior written consent of the Board; or\n(c)the officer has committed a breach of any of the terms and conditions imposed by the Board in connection with the withdrawal of moneys under these Regulations.\n[S 510/2007 wef 01/10/2007]"
+   }
+  },
+  {
+   "id": "SG-H521-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Regulations 9 and 10 not to apply in certain circumstances"
+   },
+   "text": {
+    "en": "11.—(1) Subject to paragraph (2) and regulation 12, regulations 9 and 10 shall not apply —\n(a)where such of the following amounts as may be applicable to the officer or, if both amounts are applicable to him, the aggregate of both amounts, has been paid to his account in the Fund:\n(i)in a case where the officer has withdrawn any moneys under these Regulations in respect of the flat, all moneys withdrawn by him in connection with the purchase of the flat (including any moneys lent to him under section 14A of the Act in connection with such purchase and withdrawn by him which have not been repaid), together with the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the withdrawal had not been made;\n(ii)in a case where the officer is required under section 27C(1)(g), 27DA(1)(g), 27DB(2)(c) or 27E(1)(f) of the Act to make a payment to the Fund upon the sale or disposal of the flat, the relevant amount as defined in regulation 12(11);\n[S 694/2012 wef 01/01/2013]\n[S 510/2007 wef 01/10/2007]\n[S 221/2021 wef 01/04/2021]\n[S 268/2024 wef 31/12/2021]\n(b)where the officer has died; or\n[S 694/2012 wef 01/01/2013]\n(c)where the officer is entitled to withdraw the amount standing to his credit in the Fund under section 15(2)(b) of the Act or a former provision, and the Board has given its authority under section 15(1) of the Act for such withdrawal.\n[S 694/2012 wef 01/01/2013]\n[S 268/2024 wef 01/04/2024]\n(2) Notwithstanding paragraph (1), any moneys lent to an officer under section 14A of the Act and withdrawn by him which have not been repaid, together with the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the withdrawal had not been made, shall continue to be due and payable to the officer’s account in the Fund on the occurrence of any event referred to in regulation 10(1) or (2)(a).\n[S 510/2007 wef 01/10/2007]\n[S 694/2012 wef 01/01/2013]"
+   }
+  },
+  {
+   "id": "SG-H521-A11.001",
+   "no": 11.001,
+   "noLabel": {
+    "en": "11A."
+   },
+   "text": {
+    "en": "11A. [Deleted by S 694/2012 wef 01/01/2013]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H521-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Permitted sale and repayment of proceeds"
+   },
+   "text": {
+    "en": "12.—(1) The Board may, in its discretion and subject to such terms and conditions as it may impose, permit an officer who —\n(a)has withdrawn any moneys under these Regulations in respect of a flat; or\n(b)is required under section 27C(1)(g), 27DA(1)(g), 27DB(2)(c) or 27E(1)(f) of the Act to make a payment to the Fund upon the sale or disposal of a flat,\n[S 694/2012 wef 01/01/2013]\n[S 221/2021 wef 01/04/2021]\n[S 268/2024 wef 31/12/2021]\nto sell, transfer, assign or otherwise dispose of the flat or any of his estate or interest therein to any person if —\n(i)the Government or the Minister for Finance approves such sale, transfer, assignment or disposal; and\n(ii)the Board is satisfied that adequate arrangements have been made to secure the payment to the officer’s account in the Fund of the amount specified in this regulation or such part thereof as the Board may determine.\n[S 510/2007 wef 01/10/2007]\n(2) Subject to paragraphs (3), (4) and (5), the officer making the sale, transfer, assignment or disposal shall pay to his account in the Fund, in such manner as the Board may determine, whichever is the lesser of the following amounts:\n(a)the net proceeds of the sale, transfer, assignment or disposal; or\n(b)such of the following amounts as may be applicable to him or, if both amounts are applicable to him, the aggregate of both amounts:\n(i)where paragraph (1)(a) applies to him, all moneys withdrawn by him in connection with the purchase of the flat (including any moneys lent to him under section 14A of the Act in connection with such purchase and withdrawn by him which have not been repaid), together with the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the withdrawal had not been made;\n(ii)where paragraph (1)(b) applies to him, the relevant amount.\n[S 510/2007 wef 01/10/2007]\n[S 737/2011 wef 30/12/2011]\n[S 694/2012 wef 01/01/2013]\n(3) Subject to paragraphs (4) and (5), where the officer sells, transfers, assigns or disposes of the flat or his estate or interest therein to any person without consideration or for a consideration below the market value of the flat, the officer shall, unless the Board otherwise directs, pay to his account in the Fund, in such manner as the Board may determine, the amount prescribed in paragraph (2)(b).\n[S 694/2012 wef 01/01/2013]\n(4) Paragraphs (1), (2) and (3) do not apply where the officer sells, transfers, assigns or disposes of only part (but not the whole) of his estate or interest in the flat.\n[S 694/2012 wef 01/01/2013]\n(5) Notwithstanding paragraphs (2), (3) and (4), where the officer transfers (other than by way of sale) his estate or interest in the flat to his spouse pursuant to an order of court referred to in section 27C(1)(c), 27DA(1)(c), 27DB(1)(c) or 27E(1)(c) of the Act —\n(a)in the case of an order of court referred to in section 27C(1)(c) of the Act, the person referred to in section 27C(1)(e) of the Act shall pay to the officer’s account in the Fund, in such manner as the Board may determine, any amount referred to in section 27C(1)(e) of the Act which the person may be required by the order of court to pay to the Board;\n[S 268/2024 wef 31/12/2021]\n(b)in the case of an order of court referred to in section 27DA(1)(c) of the Act, the person referred to in section 27DA(1)(e) of the Act shall pay to the officer’s account in the Fund, in such manner as the Board may determine, any amount referred to in section 27DA(1)(e) of the Act which the person may be required by the order of court to pay to the Board;\n[S 221/2021 wef 01/04/2021]\n[S 268/2024 wef 31/12/2021]\n(ba)in the case of an order of court referred to in section 27DB(1)(c) of the Act, the person referred to in section 27DB(2)(a) of the Act must pay to the officer’s account in the Fund, in the manner that the Board determines, any amount referred to in section 27DB(2)(a) of the Act which the person may be required by the order of court to pay to the Board; or\n[S 221/2021 wef 01/04/2021]\n(c)in the case of an order of court referred to in section 27E(1)(c) of the Act, the officer or person referred to in section 27E(1)(e) of the Act shall pay to the officer’s account in the Fund, in such manner as the Board may determine, such of the amounts referred to in section 27E(1)(e)(i), (ii) and (iii) of the Act as may be applicable to the officer or person.\n[S 694/2012 wef 01/01/2013]\n[S 221/2021 wef 01/04/2021]\n[S 268/2024 wef 31/12/2021]\n(6) [Deleted by S 694/2012 wef 01/01/2013]\n(7) [Deleted by S 694/2008 wef 01/01/2009]\n(8) [Deleted by S 694/2008 wef 01/01/2009]\n(9) [Deleted by S 694/2012 wef 01/01/2013]\n(10) [Deleted by S 694/2012 wef 01/01/2013]\n(11) In this regulation —\n“net proceeds”, in relation to any flat, or an officer’s estate or interest in a flat, which is sold, transferred, assigned or disposed of, means the excess, if any, of —\n(a)the consideration for the sale, transfer, assignment or disposal of the flat, or of the officer’s estate or interest in the flat, as the case may be, or, if the Board so elects, the value of the flat, or of the officer’s estate or interest in the flat, as the case may be, at the time of the sale, transfer, assignment or disposal as assessed by the Board; over\n(b)the aggregate of the following amounts paid in the following order:\n(i)any amount under a housing loan from the Government or the Minister for Finance for the purchase or acquisition of the flat, or of the officer’s estate or interest in the flat, as the case may be, which has not been repaid; and\n(ii)any amount which, under any written law, is to be paid to any other person in priority to the Fund, or such part of that amount as the Board determines to be attributable to the officer’s estate or interest in the flat, as the case may be;\n[S 694/2012 wef 01/01/2013]\n“relevant amount” means —\n(a)in relation to an officer who is required under section 27C(1)(g) of the Act to make a payment to the Fund upon the sale or disposal of a flat, the excess, if any, of —\n(i)the amount payment of which was secured by the charge on the flat referred to in section 27C(1)(b) of the Act; over\n(ii)the amount which has been paid to the Board under section 27C(1)(e) of the Act towards covering the deficiency in the retirement sum which the spouse is required to set aside;\n[S 655/2016 wef 01/01/2017]\n[S 268/2024 wef 31/12/2021]\n(b)in relation to an officer who is required under section 27DA(1)(g) of the Act to make a payment to the Fund upon the sale or disposal of a flat, the excess, if any, of —\n(i)the amount payment of which was secured by the charge constituted under section 15AB(10) or (11) of the Act or a former provision on the flat; over\n[S 130/2022 wef 01/03/2022]\n(ii)the amount which has been paid to the Board under section 27DA(1)(e) of the Act towards covering the deficiency in the retirement sum which the spouse is required to set aside;\n[S 655/2016 wef 01/01/2017]\n[S 221/2021 wef 01/04/2021]\n[S 268/2024 wef 31/12/2021]\n(ba)in relation to an officer who is required under section 27DB(2)(c) of the Act to make a payment to the Fund upon the sale or disposal of a flat, the excess (if any) of —\n(i)the amount payment of which was secured by the charge constituted under section 15AB(13) of the Act or a former provision on the flat; over\n[S 130/2022 wef 01/03/2022]\n(ii)the amount which has been paid to the Board under section 27DB(2)(a) of the Act towards covering the deficiency in the retirement sum which the spouse is required to set aside; or\n[S 221/2021 wef 01/04/2021]\n(c)in relation to an officer who is required under section 27E(1)(f) of the Act to make a payment to the Fund upon the sale or disposal of a flat, the excess, if any, of —\n(i)the amount which would have been payable to the account of the officer’s spouse in the Fund under paragraph (2) or (3) (excluding such interest or part thereof payable under those paragraphs as the Board may determine), if there was no order of court referred to in section 27E(1)(c) of the Act requiring the transfer (other than by way of sale) of the spouse’s interest in the flat to the officer; over\n(ii)the amount which has been paid to the Fund to the credit of the spouse under section 27E(1)(e) of the Act;\n[S 694/2012 wef 01/01/2013]\n[S 268/2024 wef 31/12/2021]\n“spouse” includes a former spouse.\n[S 510/2007 wef 01/10/2007]\n(12) [Deleted by S 694/2012 wef 01/01/2013]\n(13) [Deleted by S 510/2007 wef 01/10/2007]\n(14) [Deleted by S 510/2007 wef 01/10/2007]\n(15) Nothing in this regulation shall apply to the sale, transfer, assignment or disposal of any flat where the application to the Board for its written permission to such sale, transfer, assignment or disposal referred to in regulation 9 was made before 21st December 2001.\n(16) Regulation 12 in force immediately before 21st December 2001 shall continue to apply in respect of any sale, transfer, assignment or disposal referred to in paragraph (15)."
+   }
+  },
+  {
+   "id": "SG-H521-A12.001",
+   "no": 12.001,
+   "noLabel": {
+    "en": "12A."
+   },
+   "heading": {
+    "en": "Distribution of amount paid to officer’s account in Fund, etc."
+   },
+   "text": {
+    "en": "12A. Where any provision of these Regulations provides for any moneys withdrawn by an officer to be paid to the officer’s account in the Fund or to the Board, the Board shall credit any amount so paid in the following manner:\n(a)where the moneys were withdrawn solely from the officer’s ordinary account or retirement account, or were withdrawn partly from the officer’s ordinary account and partly from the officer’s retirement account, the Board shall credit the amount so paid to the officer’s ordinary account; or\n(b)where the moneys were withdrawn solely from the officer’s special account, or were withdrawn partly from the officer’s special account and partly from either or both of the officer’s ordinary account and retirement account, the Board shall credit —\n(i)the amount of the moneys withdrawn from the officer’s special account, together with the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the withdrawal had not been made, to the officer’s special account; and\n(ii)any remainder of the amount so paid to the officer’s ordinary account.\n[S 694/2012 wef 01/01/2013]"
+   }
+  },
+  {
+   "id": "SG-H521-A12.002",
+   "no": 12.002,
+   "noLabel": {
+    "en": "12B."
+   },
+   "heading": {
+    "en": "Application for cancellation of charge on immovable property"
+   },
+   "text": {
+    "en": "12B.—(1) For the purposes of sections 21(10A), 21A(9A) and 27E(2)(e) of the Act, where there is a charge under section 21(1) or 21A(1) of the Act, as the case may be, on a member’s estate or interest in an immovable property, the member may apply to the Board for the charge to be cancelled.\n[S 268/2024 wef 31/12/2021]\n(2) The Board may approve an application under paragraph (1) for the charge to be cancelled if the Board is satisfied that the member —\n(a)is entitled to withdraw the amount standing to his credit in the Fund under section 15(2)(a), (3) or (4) or 15AA(1), (2) or (3) of the Act or a former provision;\n[S 130/2022 wef 01/03/2022]\n(b)has complied with the requirements in section 15(6) or 15AA(5) of the Act or a former provision, as the case may be; and\n[S 130/2022 wef 01/03/2022]\n(c)has complied with such terms and conditions as the Board may impose.\n[S 750/2013 wef 15/12/2013]"
+   }
+  },
+  {
+   "id": "SG-H521-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Application to be made in writing"
+   },
+   "text": {
+    "en": "13.—(1) An application under these Regulations shall be made in writing to the Board in such manner as the Board may direct.\n(2) An applicant shall furnish to the Board such information, documents and guarantees as the Board may require."
+   }
+  },
+  {
+   "id": "SG-H521-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Regulations to apply to co-purchaser"
+   },
+   "text": {
+    "en": "14. These Regulations where applicable shall apply, with the necessary modifications, to the application of the officer’s spouse who is a co-purchaser of a flat under regulation 6.\n[G.N. Nos.S21/87; S33/87; S89/99; S 650/2001; S223/2004; S368/2006]"
+   }
+  },
+  {
+   "id": "SG-H521-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRegulation 2A\nFormer provisions\nFirst column\nSecond column\nRegulation containing reference\nto a former provision\nFormer provisions\n1A.Regulation 11(1)(c)\nSection 15(2)(b) or (c) of the Act as in force before 1 April 2024\n1.Regulation 12(11) (paragraph (b)(i) of definition of “relevant amount”)\nSection 15(11D) or (11E) of the Act as in force before 1 March 2022\n2.Regulation 12(11) (paragraph (ba)(i) of definition of “relevant amount”)\nSection 15(11EB) of the Act as in force before 1 March 2022\n3.Regulation 12B(2)(a)\nSection 15(2)(d), (e), (f) or (g), (7A) or (8) of the Act as in force before 1 March 2022\n4.Regulation 12B(2)(b)\nSection 15(2A), (7B) or (8A) of the Act as in force before 1 March 2022\n[S 130/2022 wef 01/03/2022]\n[S 268/2024 wef 01/04/2024]"
+   }
+  }
+ ]
+}

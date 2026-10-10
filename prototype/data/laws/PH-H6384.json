@@ -1,0 +1,74 @@
+{
+ "id": "PH-H6384",
+ "title": {
+  "zh": "对第 185 条的修改",
+  "en": "An Act Amending Section 185 of the Omnibus Election Code, as Amended, By Requiring the Commission on Elections to Furnish Every Registered Voter At Least Thirty (30) Days Before An Election With An Official Sample Ballot, Voters Information Sheet and List of Candidates",
+  "orig": "An Act Amending Section 185 of the Omnibus Election Code, as Amended, By Requiring the Commission on Elections to Furnish Every Registered Voter At Least Thirty (30) Days Before An Election With An Official Sample Ballot, Voters Information Sheet and List of Candidates"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p90",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1995-02-24",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 7904",
+ "officialCode": null,
+ "topics": [
+  "administrative"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2453,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1995/ra_7904_1995.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1995/ra_7904_1995.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H6384-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section 185 of the Omnibus Election Code, as amended, is hereby amended to read as follows:\n\"Section 185. Official Sample Ballots. - The Commission shall provide the board of election inspectors with official sample ballots at the rate of thirty (30) ballots per polling place. The official sample ballots shall be printed on colored paper, in all respects like the official ballots but bearing instead the words 'Official Sample Ballot' to be shown to the public and used in demonstrating how to fill out and fold the official ballots properly. No name of any actual candidate shall be written on the spaces for voting on the official sample ballots provided by the Commission, nor shall they be used for voting.\n\"At least thirty (30) days before an election, it shall be the duty of the Commission on Elections to furnish every registered voter through registered mail with return card, personal service with corresponding receipt to be signed by the voter or any person who knows the voter, or any other practicable means with an unfilled official sample ballot, voter information sheet, and a list of all registered national, provincial and city candidates to be voted in the said election. The information sheet shall include the voter's name, address, the precinct and the place where he is registered, and simplified instructions as to the casting of votes. The names of the candidates shall be listed in alphabetical order under their respective party affiliation and a one-line statement not to exceed three (3) words of their occupation or profession: Provided, however, That in the printing of the names of the candidates for national offices, the alphabetical order shall be democratized so that the listed names shall be made in three (3) columns: the first column shall commence with the letter A and end with the letter Z; the second column shall commence with the letters 'I - Z' and thereafter - 'A-H' and the third column shall commence with the letters 'Q - Z' and thereafter 'A -P'. These information may be contained in a single sheet or booklet form, and the number and location of the voters' polling place shall be prominently indicated therein. Persons nominated under the party-list system likewise be included in the abovementioned list.\""
+   }
+  },
+  {
+   "id": "PH-H6384-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The material provided for in Section 1 herein shall be printed in the language or dialect understood by a majority of the voters in the region."
+   }
+  },
+  {
+   "id": "PH-H6384-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval."
+   }
+  }
+ ]
+}

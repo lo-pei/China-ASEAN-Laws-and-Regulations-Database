@@ -1,0 +1,64 @@
+{
+ "id": "PH-H2787",
+ "title": {
+  "zh": null,
+  "en": "An Act to Amend Certain Items in Republic Act Numbered Twenty-Seven Hundred One",
+  "orig": "An Act to Amend Certain Items in Republic Act Numbered Twenty-Seven Hundred One"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p39",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1961-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 3310",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 585,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1961/ra_3310_1961.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1961/ra_3310_1961.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。 源文条号不连续（自第 1 条起，止于第 3 条，缺 2）：经逐条比对原始页面，该处原文没有对应的 “Section N.” 抬头行，系来源页自身的编号跳跃或条文以“续段”形式并入前条，非抽取遗漏，故未擅自补号。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H2787-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Item 20, page 119, subparagraph 54, for the Province of Tarlac, paragraph c, Title B, Section one Republic Act Numbered Twenty-seven hundred one, is hereby amended to read as follows:\n\"20. San Felipe-Mangandingay Road, San Manuel, Tarlac 5,000.00\"\nSection 2. Item (db), page 663, Group I, subparagraph 53, for the Province of Tarlac, paragraph c, Section two of the same Act, is hereby amended to read as follows:\n\"(db) Camposanto 2nd Barrio School, Moncada, Tarlac Construction, repair and/or improvement 5,000.00\""
+   }
+  },
+  {
+   "id": "PH-H2787-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
+   }
+  }
+ ]
+}

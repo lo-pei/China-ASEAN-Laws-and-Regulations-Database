@@ -1,0 +1,120 @@
+{
+ "id": "SG-H054",
+ "title": {
+  "zh": null,
+  "en": "Accounting and Corporate Regulatory Authority (Information, Documents and Notification) Regulations 2024",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p01",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ACRAA2004-S943-2024",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 2880,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ACRAA2004-S943-2024?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 6 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H054-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Accounting and Corporate Regulatory Authority (Information, Documents and Notification) Regulations 2024 and come into operation on 9 December 2024."
+   }
+  },
+  {
+   "id": "SG-H054-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Provision of email address to Registrar"
+   },
+   "text": {
+    "en": "2.—(1) This regulation applies to a person who is not permitted by the Registrar, or is unable for any other reason, to submit an email address under section 28(1A) of the Act by using a form on the electronic transaction system.\n(2) The person must provide an email address to the Registrar, by any other means permitted by the Registrar, for the notification under section 28A(1)(b) of the Act —\n(a)on the request of the Registrar, where the Registrar intends to issue, give or send any information or document to a person by means of the electronic transaction system; or\n(b)if the person wishes to be issued, given or sent any information or document by means of the electronic transaction system."
+   }
+  },
+  {
+   "id": "SG-H054-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Notification to persons under section 28A(1)(b) of Act"
+   },
+   "text": {
+    "en": "3.—(1) For the purposes of section 28A(1)(b) of the Act, a notification may be sent by an SMS message to a person’s mobile telephone number given to the Registrar for that purpose.\n(2) In this regulation —\n“SMS message” means a text message sent using an electronic service that enables the transmission of short text messages from an end‑user on a mobile telephone to another mobile telephone through a telecommunication service;\n“telecommunication service” has the meaning given by section 2 of the Telecommunications Act 1999."
+   }
+  },
+  {
+   "id": "SG-H054-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Time when information or document deemed to be issued, etc."
+   },
+   "text": {
+    "en": "4.—(1) Subject to paragraph (2), any information or document mentioned in section 28A(1) of the Act is deemed to be issued, given or sent to a person by means of the electronic transaction system at the time the information or document is capable of being retrieved by the person through the electronic transaction system.\n(2) Paragraph (1) applies only if —\n(a)section 28A(1)(b) of the Act has been complied with in relation to that information or document; and\n(b)that information or document is uploaded on the electronic transaction system in a manner that enables the information or document to be accessible by the person for subsequent reference."
+   }
+  },
+  {
+   "id": "SG-H054-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Prescribed public agency"
+   },
+   "text": {
+    "en": "5. For the purposes of section 30A(1) of the Act, the Immigration & Checkpoints Authority is a prescribed public agency."
+   }
+  },
+  {
+   "id": "SG-H054-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Prescribed entity"
+   },
+   "text": {
+    "en": "6.—(1) For the purposes of section 30A(1) of the Act, each of the following is a prescribed entity:\n(a)a Facilities-Based Operator that has been granted a Facilities‑Based Operator licence;\n(b)a Services‑Based Operator that has been granted a Services‑Based Operator (Individual) licence;\n(c)a market support services licensee.\n(2) In this regulation —\n“Facilities‑Based Operator”, “Facilities‑Based Operator licence”, “Services‑Based Operator” and “Services‑Based Operator (Individual) licence” have the meanings given by regulation 2 of the Telecommunications (Class Licences) Regulations (Rg 3);\n“market support services licensee” has the meaning given by section 2(1) of the Electricity Act 2001."
+   }
+  }
+ ]
+}

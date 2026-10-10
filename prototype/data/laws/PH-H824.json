@@ -1,0 +1,65 @@
+{
+ "id": "PH-H824",
+ "title": {
+  "zh": null,
+  "en": "An Act to Appropriate the Sum of Two Hundred Thousand Pesos for the Reconstruction and Expansion of the College of Forestry Building in Los Baños, Laguna, and for Other Purposes",
+  "orig": "An Act to Appropriate the Sum of Two Hundred Thousand Pesos for the Reconstruction and Expansion of the College of Forestry Building in Los Baños, Laguna, and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p11",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1954-06-02",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 989",
+ "officialCode": null,
+ "topics": [
+  "environment",
+  "education"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 753,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1954/ra_989_1954.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1954/ra_989_1954.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H824-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "There is hereby appropriated, out of the funds in the National Treasury not otherwise appropriated, the sum of two hundred thousand pesos which shall be expended by the President of the Philippines for the reconstruction and expansion of the College of Forestry building in Los Baños, Laguna; for the purchase of necessary laboratory and office supplies and equipment, and for such other expenditures as may be deemed necessary to carry out properly and effectively the purposes of this Act: Provided, That any unexpended balance of the amount herein appropriated at the end of each fiscal year shall be available for the same purposes in succeeding years until the same is exhausted."
+   }
+  },
+  {
+   "id": "PH-H824-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 2, 1954."
+   }
+  }
+ ]
+}

@@ -1,0 +1,1850 @@
+{
+ "id": "TL-H009",
+ "title": {
+  "zh": "章程Magistrados Judiciais",
+  "en": null,
+  "orig": "Estatuto dos Magistrados Judiciais"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2002-09-09",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 8/2002",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 113,
+ "chars": 47704,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2002_2005/leis_parlamento_nacional/8_2002.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 113 条；逐字取自官方公报 PDF（public/docs/2002_2005/leis_parlamento_nacional/8_2002.pdf）第 —–— 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H009-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Princípios gerais"
+   },
+   "heading": {
+    "pt": "Âmbito de aplicação"
+   },
+   "text": {
+    "pt": "1.   Os dispositivos do presente Estatuto aplicam-se aos magistrados judiciais.\n2.   O Estatuto aplica-se igualmente aos que cumprem estágio para ingresso na magistratura e aos substitutos dos magistrados judiciais, com as devidas adaptações."
+   }
+  },
+  {
+   "id": "TL-H009-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Princípios gerais"
+   },
+   "heading": {
+    "pt": "Composição da magistratura judicial"
+   },
+   "text": {
+    "pt": "A magistratura judicial compõe-se de juizes profissionais do Supremo Tribunal de Justiça, do Tribunal Superior Administrativo Fiscal e de Contas e dos demais tribunais judiciais definidos por lei."
+   }
+  },
+  {
+   "id": "TL-H009-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Princípios gerais"
+   },
+   "heading": {
+    "pt": "Função da magistratura judicial"
+   },
+   "text": {
+    "pt": "1.   A magistratura judicial tem por função aplicar a lei, administrar justiça e fazer executar as suas decisões.\n2.   Os magistrados judiciais não podem abster-se de julgar com fundamento na falta, obscuridade ou ambiguidade da lei, ou com base em dúvida insanável.\n3.   O dever de obediência à lei não pode ser afastado sob pretexto da norma ser injusta ou imoral."
+   }
+  },
+  {
+   "id": "TL-H009-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Princípios gerais"
+   },
+   "heading": {
+    "pt": "Independência"
+   },
+   "text": {
+    "pt": "Os magistrados judiciais julgam segundo a Constituição, a lei e a sua consciência e não estão sujeitos a ordens, instruções ou directivas, salvo o dever de acatamento, pelos tribunais inferiores, das decisões proferidas em sede de recurso pelos tribunais superiores."
+   }
+  },
+  {
+   "id": "TL-H009-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Princípios gerais"
+   },
+   "heading": {
+    "pt": "Irresponsabilidade"
+   },
+   "text": {
+    "pt": "Os magistrados judiciais não podem ser responsabilizados pelos seus julgamentos e decisões, excepto nos casos especialmente previstos na lei."
+   }
+  },
+  {
+   "id": "TL-H009-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Princípios gerais"
+   },
+   "heading": {
+    "pt": "Inamovibilidade"
+   },
+   "text": {
+    "pt": "Os magistrados judiciais não podem ser transferidos, suspensos, promovidos, aposentados, demitidos ou por qualquer outra forma mudados de situação, senão nos casos previstos neste Estatuto."
+   }
+  },
+  {
+   "id": "TL-H009-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I Princípios gerais"
+   },
+   "heading": {
+    "pt": "Garantias de imparcialidade"
+   },
+   "text": {
+    "pt": "Os magistrados judiciais estão proibidos de intervir nos processos em que participe, como funcionário de justiça, pessoa a que se encontrem ligados por casamento, comunhão de vida, parentesco ou afinidade em qualquer grau da linha recta ou até ao segundo grau da linha colateral."
+   }
+  },
+  {
+   "id": "TL-H009-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Conselho Superior da Magistratura Judicial"
+   },
+   "heading": {
+    "pt": "Definição"
+   },
+   "text": {
+    "pt": "1.      O Conselho Superior da Magistratura Judicial é o órgão de gestão e disciplina dos magistrados judiciais, a quem compete a nomeação, colocação, transferência e promoção dos juizes.\n2.      O Conselho Superior da Magistratura Judicial exerce também jurisdição sobre os funcionários de justiça, nos termos previstos no presente capítulo."
+   }
+  },
+  {
+   "id": "TL-H009-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Conselho Superior da Magistratura Judicial"
+   },
+   "heading": {
+    "pt": "Composição"
+   },
+   "text": {
+    "pt": "1.   O Conselho Superior da Magistratura Judicial é presidido pelo Presidente do Supremo Tribunal de Justiça e composto pelos seguintes membros:\na)      Um designado pelo Presidente da República;\nb)      Um eleito pelo Parlamento Nacional;\nc)      Um designado pelo Governo;\nd)     Um magistrado judicial eleito pelos seus pares.\n2.      Os membros do Conselho Superior da Magistratura Judicial referidos nas alíneas a), b), e c) do número anterior têm de ser juristas com mais de cinco anos de experiência profissional relevante.\n3.      O Conselho, na sua primeira sessão, elege por voto secreto e por maioria simples, um Vice- Presidente."
+   }
+  },
+  {
+   "id": "TL-H009-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Conselho Superior da Magistratura Judicial"
+   },
+   "heading": {
+    "pt": "Duração do mandato"
+   },
+   "text": {
+    "pt": "É de quatro anos o mandato dos membros do Conselho Superior da Magistratura Judicial."
+   }
+  },
+  {
+   "id": "TL-H009-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Conselho Superior da Magistratura Judicial"
+   },
+   "heading": {
+    "pt": "Substituição do Presidente"
+   },
+   "text": {
+    "pt": "O Presidente do Conselho Superior da Magistratura Judicial é substituído, nas suas faltas, ausências e impedimentos, pelo Vice-Presidente."
+   }
+  },
+  {
+   "id": "TL-H009-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Conselho Superior da Magistratura Judicial"
+   },
+   "heading": {
+    "pt": "Requisitos para a designação e eleição"
+   },
+   "text": {
+    "pt": "Só podem ser eleitos e designados  para o Conselho Superior da Magistratura Judicial os magistrados de nomeação definitiva e em efectividade de funções."
+   }
+  },
+  {
+   "id": "TL-H009-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Conselho Superior da Magistratura Judicial"
+   },
+   "heading": {
+    "pt": "Eleição entre os pares"
+   },
+   "text": {
+    "pt": "1.      A eleição do juiz para integrar o Conselho Superior da Magistratura Judicial é feita por escrutínio secreto, com voto presencial e nela tomam parte os magistrados judiciais em efectividade de funções.\n2.      Contados os votos é eleito o magistrado que obtiver maior número de votos validamente expressos.\n3.      O cargo de membro do Conselho Superior da Magistratura Judicial não pode ser recusado."
+   }
+  },
+  {
+   "id": "TL-H009-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Conselho Superior da Magistratura Judicial"
+   },
+   "heading": {
+    "pt": "Fiscalização e homologação"
+   },
+   "text": {
+    "pt": "Compete ao Presidente do Supremo Tribunal de Justiça assegurar a fiscalização do acto eleitoral, decidir sobre as reclamações que vierem a ser apresentadas e homologar o resultado da eleição, a que se refere o artigo anterior."
+   }
+  },
+  {
+   "id": "TL-H009-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Conselho Superior da Magistratura Judicial"
+   },
+   "heading": {
+    "pt": "Competências do Conselho Superior da Magistratura Judicial"
+   },
+   "text": {
+    "pt": "1.   Compete ao Conselho Superior da Magistratura Judicial:\na)      Nomear, colocar, transferir, promover, exonerar e apreciar o mérito profissional, exercer a acção disciplinar e, em geral, praticar todos os actos de idêntica natureza respeitantes aos magistrados judiciais;\nb)      Apreciar o mérito profissional e exercer a acção disciplinar sobre os funcionários de justiça, sem prejuízo da competência disciplinar atribuída aos juizes;\nc)      Nomear o secretário do Conselho, os inspectores judiciais, os inspectores contadores e os secretários de inspecção;\nd)     Ordenar a realização de inspecções extraordinárias, sindicâncias e inquéritos aos tribunais;\ne)      Elaborar e aprovar o regulamento interno do Conselho;\nf)       Pronunciar-se sobre os pedidos de aposentação dos magistrados;\ng)      Exercer as demais funções conferidas por lei.\n2.   Compete ainda ao Conselho Superior da Magistratura Judicial nomear, excepcionalmente, juizes auxiliares para os Tribunais, quando se verifique ausência prolongada do titular com perturbação séria dos serviços ou haja acumulação excessiva de trabalho."
+   }
+  },
+  {
+   "id": "TL-H009-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Conselho Superior da Magistratura Judicial"
+   },
+   "heading": {
+    "pt": "Funcionamento e periodicidade das reuniões"
+   },
+   "text": {
+    "pt": "1.      O Conselho Superior da Magistratura Judicial funciona em plenário e por intermédio de uma\nsecção disciplinar.\n2.      O Conselho é convocado pelo seu Presidente ou a pedido de dois terços dos seus membros.\n3.      O Conselho Superior da Magistratura Judicial reúne ordinariamente de três em três meses e extraordinariamente sempre que para tal for convocado.\n4.      O Conselho funciona com a presença de dois terços dos seus membros e decide por maioria dos votos presentes.\n5.      Os membros do Conselho Superior da Magistratura Judicial que tiverem duas faltas injustificadas, seguidas ou interpoladas, perdem a qualidade de membros.\n6.      É atribuída uma senha de presença aos membros do Conselho Superior da Magistratura Judicial pela sua participação nas reuniões, cujo montante será fixado por despacho conjunto do Ministro do Plano e das Finanças e do Ministro da Justiça."
+   }
+  },
+  {
+   "id": "TL-H009-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Conselho Superior da Magistratura Judicial"
+   },
+   "heading": {
+    "pt": "Forma das deliberações"
+   },
+   "text": {
+    "pt": "As deliberações do Conselho Superior da Magistratura Judicial revestem a forma de resoluções ou de despacho e são publicadas no Jornal da República."
+   }
+  },
+  {
+   "id": "TL-H009-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Conselho Superior da Magistratura Judicial"
+   },
+   "heading": {
+    "pt": "Competência do Presidente"
+   },
+   "text": {
+    "pt": "Compete ao Presidente do Conselho Superior da Magistratura Judicial:\na)      Representar o Conselho Superior da Magistratura Judicial;\nb)      Convocar e presidir às respectivas reuniões;\nc)      Superintender nos serviços administrativos do Conselho;\nd)     Dirigir e coordenar a Inspecção Judicial;\ne)      Exercer as demais funções atribuídas por lei."
+   }
+  },
+  {
+   "id": "TL-H009-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Conselho Superior da Magistratura Judicial"
+   },
+   "heading": {
+    "pt": "Competência do Vice-Presidente"
+   },
+   "text": {
+    "pt": "Compete ao Vice-Presidente exercer as funções que lhe forem delegadas pelo Presidente do Conselho Superior da Magistratura Judicial e substitui-lo nas suas faltas e impedimentos."
+   }
+  },
+  {
+   "id": "TL-H009-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Conselho Superior da Magistratura Judicial"
+   },
+   "heading": {
+    "pt": "Delegação de poderes"
+   },
+   "text": {
+    "pt": "O Conselho Superior da Magistratura Judicial pode delegar no Presidente, com faculdade de subdelegação no Vice-Presidente, poderes para:\na)      Ordenar inspecções extraordinárias;\nb)      Instaurar inquéritos e sindicâncias;\nc)      Autorizar que magistrados judiciais ou funcionários se ausentem do serviço;\nd)     Resolver quaisquer outros assuntos de carácter urgente."
+   }
+  },
+  {
+   "id": "TL-H009-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II Conselho Superior da Magistratura Judicial"
+   },
+   "heading": {
+    "pt": "Secretaria"
+   },
+   "text": {
+    "pt": "1.      O Conselho Superior da Magistratura Judicial tem secretaria própria chefiada por um Secretário, que é nomeado de entre juizes de direito de 1.ª classe.\n2.      Compete ao Secretário do Conselho Superior da Magistratura Judicial:\na)     Dirigir os serviços da Secretaria;\nb)    Submeter a despacho do Presidente os assuntos que careçam de deliberação superior;\nc)     Lavrar as actas das reuniões do Conselho;\nd)    Executar e fazer executar as deliberações do Conselho;\ne)     Preparar os projectos de orçamento do Conselho;\nf)     Organizar e manter actualizados os processos individuais, cadastro e registo biográfico dos magistrados judiciais;\ng)    Exercer as demais funções conferidas por lei."
+   }
+  },
+  {
+   "id": "TL-H009-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Inspecção Judicial"
+   },
+   "heading": {
+    "pt": "Estrutura"
+   },
+   "text": {
+    "pt": "1.               Junto do Conselho Superior da Magistratura Judicial funciona a Inspecção Judicial.\n2.               Os serviços de Inspecção Judicial são constituídos por inspectores judiciais, inspectores contadores e secretários de inspecção.\n3.               O quadro de inspectores judiciais, inspectores contadores e secretários de inspecção é fixado em despacho do Ministro da Justiça, sob proposta do Conselho Superior da Magistratura Judicial.\n4.               Os inspectores judiciais são nomeados de entre juizes de direito de 1.ª classe, com classificação de ‘Muito bom’.\n5.               Os inspectores contadores são nomeados de entre secretários judiciais, com classificação mínima de ‘Bom’."
+   }
+  },
+  {
+   "id": "TL-H009-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Inspecção Judicial"
+   },
+   "heading": {
+    "pt": "Competência"
+   },
+   "text": {
+    "pt": "1.      Compete à Inspecção Judicial facultar ao Conselho Superior da Magistratura Judicial o conhecimento do estado, necessidade e deficiências dos serviços judiciais, a fim de o habilitar a tomar as providências convenientes.\n2.      À Inspecção Judicial compete igualmente colher informação sobre o serviço, o mérito e a integridade profissional dos magistrados e funcionários de justiça.\n3.      A Inspecção destinada a colher informação sobre o serviço, o mérito e a integridade profissional dos magistrados judiciais não pode ser feita por inspectores de categoria ou autoridade inferiores às dos magistrados inspeccionados.\n4.      Compete ainda aos inspectores judiciais realizar inspecções, inquéritos, sindicâncias e instruir processos disciplinares aos juizes ordenados pelo Conselho Superior da Magistratura Judicial.\n5.      Aos inspectores contador compete a fiscalização dos serviços de contabilidade e tesouraria."
+   }
+  },
+  {
+   "id": "TL-H009-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III Inspecção Judicial"
+   },
+   "heading": {
+    "pt": "Relatório de inspecção"
+   },
+   "text": {
+    "pt": "1.   Finda a inspecção, o Inspector elabora um relatório detalhado, onde aborda necessariamente as seguintes questões:\na)   Organização do Tribunal;\nb)   Funcionamento e estado dos serviços;\nc)   Instalação dos serviços;\nd)   Dificuldades enfrentadas pelos inspeccionados;\ne)   Mérito ou demérito dos inspeccionados.\n2.   O relatório de Inspecção dá indicações genéricas que permitam ultrapassar dificuldades dos inspeccionados, sem interferência directa nos serviços."
+   }
+  },
+  {
+   "id": "TL-H009-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Carreira dos magistrados judiciais"
+   },
+   "heading": {
+    "pt": "Requisitos de ingresso na magistratura judicial"
+   },
+   "text": {
+    "pt": "1.   Constituem requisitos para a nomeação como magistrado judicial:\na)   Ser cidadão nacional;\nb)   Estar no pleno gozo dos direitos civis e políticos;\nc)   Ter mais de 25 anos de idade;\nd)   Ser licenciado em direito;\ne)   Ter cumprido o estágio com classificação de ‘Bom’;\nf)   Ter sido aprovado em provas específicas;\ng)   Satisfazer os demais requisitos estabelecidos na lei para a nomeação para o exercício da função pública.\n2.   O estágio para ingresso, que tem uma duração de 2 a 3 anos, é regulado por diploma próprio.\n3.   Os juizes estagiários não integram a carreira da magistratura judicial."
+   }
+  },
+  {
+   "id": "TL-H009-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Carreira dos magistrados judiciais"
+   },
+   "heading": {
+    "pt": "Carreira"
+   },
+   "text": {
+    "pt": "1.                  A carreira da magistratura judicial integra as seguintes categorias:\na)                        Juiz de direito de 3.a classe;\nb)                       Juiz de direito de 2.ª classe;\nc)                        Juiz de direito de 1.ª classe;\nd)                       Juiz conselheiro.\n2.      A carreira inicia-se na categoria de juiz de direito de 3.a classe."
+   }
+  },
+  {
+   "id": "TL-H009-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Carreira dos magistrados judiciais"
+   },
+   "heading": {
+    "pt": "Promoção de juizes"
+   },
+   "text": {
+    "pt": "1.      São promovidos a juiz de direito de 2.ª classe os juizes de direito de 3.a classe, com pelo menos três anos de exercício na classe e classificação mínima de ‘Bom’.\n2.      São promovidos a juizes de direito de 1.ª classe os juizes de 2.ª com pelo menos quatro anos de exercício na classe, classificação de ‘Bom’ e aprovação em provas específicas."
+   }
+  },
+  {
+   "id": "TL-H009-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Carreira dos magistrados judiciais"
+   },
+   "heading": {
+    "pt": "Vaga da promoção"
+   },
+   "text": {
+    "pt": "1.        A promoção à classe seguinte é sempre condicionada à existência de vaga.\n2.        A promoção à classe imediatamente superior para preenchimento de vagas faz-se sempre por concurso documental, entre os candidatos que preencham os requisitos exigidos no artigo anterior.\n3.        No concurso documental tem-se sempre em conta a classificação em provas específicas, a classificação de serviço e a antiguidade dos candidatos, por ordem decrescente de valência.\n4.        Cabe ao Conselho Superior da Magistratura Judicial regulamentar os processos de concurso para promoção."
+   }
+  },
+  {
+   "id": "TL-H009-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Carreira dos magistrados judiciais"
+   },
+   "heading": {
+    "pt": "Juizes conselheiros"
+   },
+   "text": {
+    "pt": "1.   O Presidente do Supremo Tribunal de Justiça é nomeado pelo Presidente da República, de entre juizes do Supremo Tribunal, para um mandato de quatro anos estando tal nomeação sujeita a ratificação do Parlamento Nacional.\n2.   Os juizes conselheiros são designados pelo Conselho Superior da Magistratura e nomeados pelo Presidente do Supremo Tribunal de Justiça, de entre juizes de direito de 1.ª classe, com classificação de ‘Muito bom’, com pelo menos oito anos de exercício na classe.\n3.        Ao Parlamento Nacional cabe eleger um juiz conselheiro, de entre magistrados e juristas.\n4.        O Supremo Tribunal de Justiça pode compor-se, inicialmente, com um número mínimo de 5 juizes conselheiros.\n5.        Os juizes conselheiros exercem funções até atingirem o limite de idade ou de tempo de serviço, salvo por outro motivo, nos termos da lei."
+   }
+  },
+  {
+   "id": "TL-H009-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Carreira dos magistrados judiciais"
+   },
+   "heading": {
+    "pt": "Nomeação de juizes de direito"
+   },
+   "text": {
+    "pt": "Os juizes de direito são nomeados pelo Conselho Superior da Magistratura Judicial."
+   }
+  },
+  {
+   "id": "TL-H009-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Carreira dos magistrados judiciais"
+   },
+   "heading": {
+    "pt": "Posse"
+   },
+   "text": {
+    "pt": "Os magistrados judiciais tomam posse da seguinte forma:\na)       Os juizes conselheiros perante o Presidente da República e o Presidente do Parlamento Nacional;\nb)      Os juizes de direito e os auxiliares perante o Presidente do Conselho Superior da Magistratura Judicial."
+   }
+  },
+  {
+   "id": "TL-H009-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Carreira dos magistrados judiciais"
+   },
+   "heading": {
+    "pt": "Juramento"
+   },
+   "text": {
+    "pt": "No acto da tomada de posse os magistrados judiciais prestam o seguinte juramento:\n“Eu, (nome), juro por Deus e juro por minha honra, respeitar e aplicar fielmente a Constituição da República e as demais leis em vigor e administrar a justiça com imparcialidade e isenção”."
+   }
+  },
+  {
+   "id": "TL-H009-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV Carreira dos magistrados judiciais"
+   },
+   "heading": {
+    "pt": "Falta ao acto de posse"
+   },
+   "text": {
+    "pt": "1.       A falta não justificada, dentro do prazo, à tomada de posse, quando se trate da primeira nomeação, importa, sem dependência de qualquer formalidade, a anulação da nomeação e inabilita o faltoso a ser nomeado para o mesmo cargo nos dois anos seguintes.\n2.       Nos demais casos a falta injustificada é equiparada a abandono do lugar.\n3.       A justificação da falta deve ser requerida no prazo de dez dias a contar da cessação do justo impedimento, apresentando-se na mesma altura a prova respectiva."
+   }
+  },
+  {
+   "id": "TL-H009-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Incompatibilidades"
+   },
+   "text": {
+    "pt": "Os magistrados judiciais em exercício não podem desempenhar quaisquer outras funções públicas ou privadas, excepto a actividade docente e de investigação científica, literária ou artística, mediante prévia autorização do Conselho Superior da Magistratura Judicial."
+   }
+  },
+  {
+   "id": "TL-H009-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Actividade política"
+   },
+   "text": {
+    "pt": "É vedado aos magistrados judiciais o exercício de cargos partidários e de militância activa em partidos políticos, bem como proferir publicamente declarações de carácter político."
+   }
+  },
+  {
+   "id": "TL-H009-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Exercício da advocacia"
+   },
+   "text": {
+    "pt": "Os magistrados judiciais não podem exercer advocacia a não ser em causa própria, do seu cônjuge, ascendente ou descendente."
+   }
+  },
+  {
+   "id": "TL-H009-A37",
+   "no": 37,
+   "noLabel": {
+    "pt": "Artigo 37.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Deveres especiais"
+   },
+   "text": {
+    "pt": "Os magistrados judiciais têm, em especial, os seguintes deveres:\na)   Desempenhar a sua função com honestidade, isenção, imparcialidade e dignidade;\nb)   Guardar sigilo profissional, nos termos da lei;\nc)   Comportar-se na vida pública e na vida privada com reserva, de acordo com a dignidade e o prestígio do cargo que desempenha;\nd)   Tratar com urbanidade e respeito os intervenientes do processo nomeadamente o Ministério Público, os profissionais do foro e os funcionários.\ne)   Comparecer pontualmente às diligências marcadas;\nf)   Abster-se de manifestar, por qualquer meio, opinião sobre processo pendente de julgamento ou decisão, ou juízo sobre despachos, pareceres, votos ou sentenças de órgãos judiciais, salvo a crítica nos autos no exercício da judicatura ou em obras jurídico-técnicas;\ng)   Abster-se de aconselhar ou instruir as partes em qualquer litígio sob qualquer pretexto, salvo nos casos expressamente permitidos pela lei do processo;\nh)   Tudo o mais que for previsto por lei."
+   }
+  },
+  {
+   "id": "TL-H009-A38",
+   "no": 38,
+   "noLabel": {
+    "pt": "Artigo 38.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Domicílio necessário"
+   },
+   "text": {
+    "pt": "1.   Os magistrados judiciais não podem residir fora da sede da área onde se situa o tribunal em que exercem funções, salvo nos casos devidamente fundamentados e previamente autorizados pelo Conselho Superior da Magistratura Judicial.\n2.   Exceptuam-se do número anterior as ausências em exercício de funções, por motivo de férias, finsde-semana e feriados e em caso urgente que não permita obter prévia autorização.\n3.   No último caso previsto no número anterior, o magistrado deve comunicar e justificar a ausência ao Conselho Superior da Magistratura Judicial o mais rapidamente possível.\n4.   A ausência nos fins-de-semana e feriados não pode prejudicar a realização de serviço urgente.\n5.   A ausência ilegítima acarreta, além da responsabilidade disciplinar, a perda do vencimento durante o período em que se tenha verificado.\n6.   Em caso de ausência o magistrado deve indicar o local onde pode ser encontrado."
+   }
+  },
+  {
+   "id": "TL-H009-A39",
+   "no": 39,
+   "noLabel": {
+    "pt": "Artigo 39.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Traje profissional"
+   },
+   "text": {
+    "pt": "1.   Os magistrados judiciais devem usar beca nos actos solenes, nomeadamente nas audiências de discussão e julgamento, audiências preliminares, bem como nas cerimónias ou actos públicos solenes ligados à magistratura.\n2.   O modelo da beca é aprovado pelo Conselho Superior da Magistratura Judicial."
+   }
+  },
+  {
+   "id": "TL-H009-A40",
+   "no": 40,
+   "noLabel": {
+    "pt": "Artigo 40.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Direitos e regalias"
+   },
+   "text": {
+    "pt": "1.   Os magistrados judiciais em efectividade de funções gozam das seguintes regalias:\na)   Serem tratados com a deferência que a função exige;\nb)   Foro especial em causas criminais em que sejam arguidos e nas acções de responsabilidade civil por factos praticados no exercício das suas funções ou por causa delas;\nc)   Cartão especial de identificação, de modelo a ser aprovado pelo Conselho Superior da Magistratura Judicial;\nd)   Protecção especial para a sua pessoa, cônjuge, descendentes e bens, sempre que ponderosas razões de segurança o exijam;\ne)   Entrada e livre-trânsito em todos os locais públicos, mediante simples exibição de cartão de identidade próprio;\nf)   Subsídio de renda de casa em montante a determinar pelo Estado;\ng)   Subsídio de compensação de montante a fixar pelo Governo quando resida em casa própria;\nh)   Subsídio de transporte para os seus bens pessoais, e os da sua família, nas situações de transferência não decorrentes de sanção disciplinar;\n(i)    Quaisquer outros direitos consagrados por lei.\n2.   Os magistrados judiciais que não se encontrem em efectividade de funções têm os direitos consagrados nas alíneas a), b) e c)  do número anterior."
+   }
+  },
+  {
+   "id": "TL-H009-A41",
+   "no": 41,
+   "noLabel": {
+    "pt": "Artigo 41.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Direitos dos juizes conselheiros"
+   },
+   "text": {
+    "pt": "1.   Os juizes conselheiros terão ainda direito a:\na)   Viatura;\nb)   Passaporte diplomático para si e para o seu cônjuge;\nc)   Direito a uso, porte e manifesto gratuito de arma de defesa e aquisição da respectiva munição;\nd)   Subsídio de representação.\n2.   Os juizes conselheiros gozam, em geral, das honras, regalias e precedências próprias de membros de um órgão de soberania."
+   }
+  },
+  {
+   "id": "TL-H009-A42",
+   "no": 42,
+   "noLabel": {
+    "pt": "Artigo 42.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Títulos"
+   },
+   "text": {
+    "pt": "Os juizes conselheiros têm o título de Venerando, recebendo o tratamento de Excelência, e os juizes de direito e outros, o título de Meritíssimo."
+   }
+  },
+  {
+   "id": "TL-H009-A43",
+   "no": 43,
+   "noLabel": {
+    "pt": "Artigo 43.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Prisão preventiva"
+   },
+   "text": {
+    "pt": "1.   Os magistrados judiciais não podem ser presos ou detidos sem culpa formada, salvo em flagrante delito e se ao crime couber pena superior a três anos.\n2.   Em caso de prisão e detenção, o magistrado deve ser imediatamente apresentado ao juiz competente.\n3.                  No cumprimento de detenção ou prisão, os magistrados judiciais devem ser recolhidos em estabelecimentos prisionais próprios ou em regime de separação dos demais detidos ou presos."
+   }
+  },
+  {
+   "id": "TL-H009-A44",
+   "no": 44,
+   "noLabel": {
+    "pt": "Artigo 44.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Intimação para comparência"
+   },
+   "text": {
+    "pt": "1.   Os magistrados judiciais não podem ser intimados para comparecer ou prestar declarações perante qualquer autoridade, sem prévio consentimento do Conselho Superior da Magistratura Judicial.\n2.   O pedido da entidade solicitante deve ser dirigido por escrito e ser devidamente fundamentado."
+   }
+  },
+  {
+   "id": "TL-H009-A45",
+   "no": 45,
+   "noLabel": {
+    "pt": "Artigo 45.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Remuneração"
+   },
+   "text": {
+    "pt": "O regime da remuneração é fixado por diploma legal, tendo em conta a especificidade da função judicial, a categoria e tempo de serviço prestado pelo magistrado."
+   }
+  },
+  {
+   "id": "TL-H009-A46",
+   "no": 46,
+   "noLabel": {
+    "pt": "Artigo 46.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Férias"
+   },
+   "text": {
+    "pt": "1.   Os magistrados judiciais gozam férias durante o período das férias judiciais.\n2.   O Conselho Superior da Magistratura judicial pode autorizar a título excepcional que os magistrados gozem férias fora do período estipulado no número anterior.\n3.   O gozo de férias e o local para onde o magistrado se desloque devem sempre ser comunicados ao Conselho Superior da Magistratura Judicial."
+   }
+  },
+  {
+   "id": "TL-H009-A47",
+   "no": 47,
+   "noLabel": {
+    "pt": "Artigo 47.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Aposentação"
+   },
+   "text": {
+    "pt": "À aposentação dos magistrados judiciais aplicam-se os princípios e as regras legalmente estabelecidos para a função pública."
+   }
+  },
+  {
+   "id": "TL-H009-A48",
+   "no": 48,
+   "noLabel": {
+    "pt": "Artigo 48.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Jubilação"
+   },
+   "text": {
+    "pt": "1.   Os magistrados são considerados jubilados, quando a aposentação tem lugar por motivo não disciplinar.\n2.   Os magistrados jubilados continuam ligados ao tribunal de que faziam parte, gozam dos títulos, honras e imunidades correspondentes à sua categoria e podem assistir às cerimónias solenes que se realizam no referido tribunal, tomando lugar do lado direito dos magistrados em serviço activo.\n3.   É extensivo aos juizes jubilados o disposto nas alíneas c) e d) do artigo 40.°."
+   }
+  },
+  {
+   "id": "TL-H009-A49",
+   "no": 49,
+   "noLabel": {
+    "pt": "Artigo 49.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Contagem de tempo"
+   },
+   "text": {
+    "pt": "O tempo de serviço prestado ao Estado antes do ingresso na magistratura judicial, conta para efeitos de aposentação."
+   }
+  },
+  {
+   "id": "TL-H009-A50",
+   "no": 50,
+   "noLabel": {
+    "pt": "Artigo 50.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Exoneração a pedido"
+   },
+   "text": {
+    "pt": "1.   A exoneração a pedido do magistrado é autorizada em casos devidamente justificados, mediante pré-aviso de 60 dias.\n2.   A exoneração produz efeito a partir da data de notificação do despacho de deferimento.\n3.   Não tendo sido proferido despacho no prazo previsto no número um, considera-se o requerimento tacitamente deferido no último dia do mencionado prazo."
+   }
+  },
+  {
+   "id": "TL-H009-A51",
+   "no": 51,
+   "noLabel": {
+    "pt": "Artigo 51.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Colocações e transferências"
+   },
+   "text": {
+    "pt": "1. A colocação e transferência de juizes devem fazer-se com prevalência das necessidades de serviço e o mínimo prejuízo para a vida pessoal e familiar dos interessados.\n2.   Sem prejuízo do número anterior são determinantes nas colocações e transferências a classificação de serviço e a antiguidade, por ordem decrescente de preferência.\n3.   Os juizes não podem ser transferidos, sem o seu acordo, antes de se passarem cinco anos de exercício de funções no tribunal em que estão colocados, salvo em virtude de promoção ou por motivos disciplinares.\n4.   Os juizes que estejam colocados num determinado tribunal distrital a seu pedido não podem pedir a sua transferência para outro tribunal sem que tenham decorrido cinco anos de exercício no cargo."
+   }
+  },
+  {
+   "id": "TL-H009-A52",
+   "no": 52,
+   "noLabel": {
+    "pt": "Artigo 52.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Permutas"
+   },
+   "text": {
+    "pt": "Sem prejuízo de conveniência de serviço e direitos de terceiros, são autorizadas permutas."
+   }
+  },
+  {
+   "id": "TL-H009-A53",
+   "no": 53,
+   "noLabel": {
+    "pt": "Artigo 53.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Comissão de serviço"
+   },
+   "text": {
+    "pt": "Os magistrados judiciais podem ser nomeados para o exercício de cargos em comissão de serviço, ouvido o Conselho Superior da Magistratura Judicial."
+   }
+  },
+  {
+   "id": "TL-H009-A54",
+   "no": 54,
+   "noLabel": {
+    "pt": "Artigo 54.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Comissão de serviço de natureza judicial"
+   },
+   "text": {
+    "pt": "1.   Consideram-se comissões de serviço de natureza judicial as respeitantes aos cargos de:\na)   Inspector judicial;\nb)   Magistrado do Ministério Público\nc)   Director ou docente de escola de formação de magistrados;\nd)   Juiz em tribunal não judicial;\ne)   Chefe de Departamento do Supremo Tribunal;\nf)   Secretário do Conselho Superior da Magistratura Judicial;\ng)   Secretário-Geral do Supremo Tribunal.\n2.   O exercício de qualquer dos cargos anunciados no número anterior é considerado, para todos os efeitos, como de efectivo serviço judicial."
+   }
+  },
+  {
+   "id": "TL-H009-A55",
+   "no": 55,
+   "noLabel": {
+    "pt": "Artigo 55.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Comissão de serviço de natureza não judicial"
+   },
+   "text": {
+    "pt": "O tempo de serviço efectivamente prestado em comissão de serviço de natureza não judicial é considerado para efeitos de contagem do tempo."
+   }
+  },
+  {
+   "id": "TL-H009-A56",
+   "no": 56,
+   "noLabel": {
+    "pt": "Artigo 56.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Classificação dos magistrados judiciais"
+   },
+   "text": {
+    "pt": "Os juizes de direito e auxiliares são classificados pelo Conselho Superior da Magistratura Judicial de acordo com o seu mérito de ‘Muito Bom’, ‘Bom’, ‘Suficiente’ e ‘Medíocre’."
+   }
+  },
+  {
+   "id": "TL-H009-A57",
+   "no": 57,
+   "noLabel": {
+    "pt": "Artigo 57.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Critérios e efeitos da classificação"
+   },
+   "text": {
+    "pt": "1.   A classificação deve atender ao modo como os magistrados desempenham a sua função, designadamente a sua preparação técnica, capacidade intelectual, isenção, idoneidade moral e cívica.\n2.   A classificação de medíocre implica a suspensão do exercício de funções e a instauração de inquérito por inaptidão para esse exercício.\n3.   Se em processo disciplinar instaurado com base no inquérito, se concluir pela inaptidão do magistrado, mas pela possibilidade de permanência na função pública podem, a requerimento do interessado, substituir-se as penas de aposentação compulsiva ou demissão pela de exoneração.\n4.   No caso previsto no número anterior, o processo acompanhado do parecer fundamentado é enviado ao Presidente do Conselho Superior da Magistratura Judicial para efeito de homologação e colocação do interessado em lugar adequado às suas aptidões.\n5.   A homologação do parecer pelo Presidente do Conselho Superior da Magistratura Judicial habilita o interessado para ingresso em lugar compatível noutros serviços do Estado."
+   }
+  },
+  {
+   "id": "TL-H009-A58",
+   "no": 58,
+   "noLabel": {
+    "pt": "Artigo 58.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Elementos a considerar na classificação"
+   },
+   "text": {
+    "pt": "1.   Nas classificações são considerados os resultados de inspecções anteriores, inquéritos, sindicâncias ou processos disciplinares, tempo de serviço, trabalhos publicados na área do direito, relatórios anuais e quaisquer elementos complementares que estejam na posse do Conselho Superior da Magistratura Judicial.\n2.   São igualmente tidos em conta o volume de serviço a cargo do magistrado e as condições do trabalho.\n3.   O magistrado é obrigatoriamente ouvido sobre o relatório da inspecção e pode fornecer os elementos que entender convenientes.\n4.   As considerações que o inspector porventura venha a produzir sobre a resposta do inspeccionado não podem referir factos novos que o desfavoreçam e deles dá conhecimento ao inspeccionado."
+   }
+  },
+  {
+   "id": "TL-H009-A59",
+   "no": 59,
+   "noLabel": {
+    "pt": "Artigo 59.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Classificação dos magistrados em comissão de serviço"
+   },
+   "text": {
+    "pt": "1.   Os magistrados que se encontrem em comissão de serviço de natureza judicial são classificados como se estivessem em exercício activo.\n2.   Relativamente aos magistrados em comissão de serviço não judicial, considera-se sempre actualizada a última classificação mas terminada a comissão de serviço e passados seis meses de efectividade de funções podem requerer nova classificação."
+   }
+  },
+  {
+   "id": "TL-H009-A60",
+   "no": 60,
+   "noLabel": {
+    "pt": "Artigo 60.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V Incompatibilidades, deveres, direitos e regalias"
+   },
+   "heading": {
+    "pt": "Periodicidade das classificações"
+   },
+   "text": {
+    "pt": "1.   Os magistrados judiciais são classificados pelo menos de três em três anos.\n2.   Considera-se desactualizada a classificação atribuída há mais de três anos, a menos que a falta de classificação não seja da responsabilidade do magistrado.\n3.   Presume-se a classificação de ‘Bom’ caso o magistrado não tenha sido avaliado no período previsto no n.° 1, excepto se o magistrado requerer inspecção, caso em que é realizada obrigatoriamente.\n4.   A classificação relativa a serviço posterior desactualiza a relativa a serviço anterior."
+   }
+  },
+  {
+   "id": "TL-H009-A61",
+   "no": 61,
+   "noLabel": {
+    "pt": "Artigo 61.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Infracção disciplinar"
+   },
+   "text": {
+    "pt": "Constituem infracção disciplinar os factos ainda que meramente culposos, praticados pelos magistrados com violação dos deveres profissionais e os actos e omissões da sua vida pública, ou que nela se repercutam, incompatíveis com o decoro e a dignidade indispensáveis ao exercício das suas funções."
+   }
+  },
+  {
+   "id": "TL-H009-A62",
+   "no": 62,
+   "noLabel": {
+    "pt": "Artigo 62.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Sujeição a jurisdição disciplinar"
+   },
+   "text": {
+    "pt": "1.   A exoneração ou mudança de situação não impede a punição por infracções cometidas no exercício da função.\n2.   O magistrado exonerado cumpre pena se voltar à actividade."
+   }
+  },
+  {
+   "id": "TL-H009-A63",
+   "no": 63,
+   "noLabel": {
+    "pt": "Artigo 63.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Autonomia da jurisdição disciplinar"
+   },
+   "text": {
+    "pt": "1.   O procedimento disciplinar é independente do procedimento criminal.\n2.   Quando em processo disciplinar se apurar a existência de infracção criminal, dá-se imediato conhecimento ao Conselho Superior da Magistratura Judicial."
+   }
+  },
+  {
+   "id": "TL-H009-A64",
+   "no": 64,
+   "noLabel": {
+    "pt": "Artigo 64.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Escala de penas"
+   },
+   "text": {
+    "pt": "1. Os magistrados estão sujeitos às seguintes penas:\na)   Advertência;\nb)   Repreensão registada;\nc)   Multa;\nd)   Transferência compulsiva;\ne)   Suspensão de exercício;\nf)   Inactividade;\ng)   Aposentação compulsiva;\nh)   Demissão.\n2.   Sem prejuízo do disposto no n.° 4, as penas aplicadas são sempre registadas.\n3.   As amnistias não destroem os efeitos produzidos pela aplicação das penas, devendo ser averbadas no competente processo individual.\n4.   A pena prevista na alínea a) do n.° 1 pode ser aplicada independentemente de processo, desde que com audiência e possibilidade de defesa do arguido, e não está sujeita a registo."
+   }
+  },
+  {
+   "id": "TL-H009-A65",
+   "no": 65,
+   "noLabel": {
+    "pt": "Artigo 65.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Pena de advertência"
+   },
+   "text": {
+    "pt": "1.      A pena de advertência consiste em mero reparo ou repreensão pela irregularidade praticada.\n2.      A pena de advertência é aplicável a faltas leves que não devam passar sem reparo."
+   }
+  },
+  {
+   "id": "TL-H009-A66",
+   "no": 66,
+   "noLabel": {
+    "pt": "Artigo 66.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Pena de repreensão registada"
+   },
+   "text": {
+    "pt": "1.   A pena de repreensão registada consiste na censura reduzida a escrito destinada a prevenir o magistrado de que a acção ou omissão é de molde a causar perturbação no exercício das funções ou de nele se repercutir de forma incompatível com a dignidade que lhe é exigível.\n2.   A repreensão registada é feita pelo Conselho Superior da Magistratura Judicial.\n3.      A pena de repreensão registada é aplicável a faltas de pequena gravidade, que sejam susceptíveis de causar perturbação no exercício das funções ou de nela se repercutir de forma incompatível com a dignidade que lhe é exigível."
+   }
+  },
+  {
+   "id": "TL-H009-A67",
+   "no": 67,
+   "noLabel": {
+    "pt": "Artigo 67.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Pena de multa"
+   },
+   "text": {
+    "pt": "1.   A pena de multa é fixada em dias, no mínimo de três e no máximo de trinta.\n2.      A pena de multa implica o desconto no vencimento do magistrado da importância correspondente ao número de dias de multa aplicados.\n3.      A pena de multa é aplicável a casos de negligência ou desinteresse pelo cumprimento dos deveres do cargo."
+   }
+  },
+  {
+   "id": "TL-H009-A68",
+   "no": 68,
+   "noLabel": {
+    "pt": "Artigo 68.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Pena de transferência compulsiva"
+   },
+   "text": {
+    "pt": "1.      A pena de transferência consiste na colocação do magistrado em cargo da mesma categoria fora da área da circunscrição ou serviço em que anteriormente exercia funções.\n2.      A pena de transferência implica ainda a perda de 60 dias de antiguidade.\n3.                  A pena de transferência compulsiva é aplicável a infracções que impliquem quebra do prestígio exigível ao magistrado para que possa manter-se no meio em que exerce funções."
+   }
+  },
+  {
+   "id": "TL-H009-A69",
+   "no": 69,
+   "noLabel": {
+    "pt": "Artigo 69.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Penas de suspensão de exercício e de inactividade"
+   },
+   "text": {
+    "pt": "1.      As penas de suspensão de exercício e de inactividade consistem no afastamento completo do serviço durante o período da pena.\n2.      A pena de suspensão de exercício pode ser de 10 a 90 dias úteis.\n3.      A pena de inactividade não pode ser inferior a seis meses nem superior a um ano.\n4.                  As penas de suspensão de exercício e de inactividade são aplicáveis nos casos de negligência grave ou de grave desinteresse pelo cumprimento de deveres profissionais ou quando os magistrados forem condenados em pena de prisão, salvo se a sentença condenatória impuser pena de demissão.\n5.       O tempo de prisão cumprido é descontado na pena disciplinar.\n6.      A pena de suspensão de exercício implica a perda do tempo correspondente à sua duração para efeitos de remuneração, antiguidade e aposentação e a transferência  para cargo idêntico em tribunal ou serviço diferente daquele em que o magistrado exercia funções na data da prática da infracção, quando o magistrado punido não possa manter-se no meio em que exerce as funções sem quebra do prestígio que lhe é exigível, o que constará da decisão disciplinar .\n7.      A pena de inactividade produz a perda do tempo correspondente à sua duração para efeitos de remuneração, antiguidade, aposentação e ainda a impossibilidade de promoção ou acesso durante um ano contado do termo do cumprimento da pena."
+   }
+  },
+  {
+   "id": "TL-H009-A70",
+   "no": 70,
+   "noLabel": {
+    "pt": "Artigo 70.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Penas de aposentação compulsiva e demissão"
+   },
+   "text": {
+    "pt": "1.                  A pena de aposentação compulsiva consiste na imposição da aposentação e implica a imediata desligação do serviço.\n2.                  A pena de demissão consiste no afastamento definitivo do magistrado, com cessação de todos os vínculos com a função, implica a perda do estatuto de magistrado, mas não implica a perda do direito a aposentação, nos termos e condições estabelecidos na lei, nem impossibilita o magistrado de ser nomeado para cargos públicos ou outros que possam ser exercidos desde que reuna as condições de dignidade e confiança exigidas pelo cargo de que foi demitido.\n3.                  As penas de aposentação compulsiva e de demissão são aplicáveis quando o magistrado:\na)                   Revele definitiva incapacidade de adaptação às exigências da função;\nb)                  Revele falta de honestidade, grave insubordinação ou tenha conduta imoral ou desonrosa;\nc)                   Revele inaptidão profissional;\nd)                  Tenha sido condenado por crime praticado com flagrante e grave abuso da função ou com manifesta e grave violação dos deveres a ela inerentes.\n4.                  Ao abandono do lugar corresponde sempre a pena de demissão."
+   }
+  },
+  {
+   "id": "TL-H009-A71",
+   "no": 71,
+   "noLabel": {
+    "pt": "Artigo 71.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Promoção de magistrados arguidos"
+   },
+   "text": {
+    "pt": "1.                  Durante a pendência de processo criminal ou disciplinar, o magistrado é graduado para promoção ou acesso, mas estes suspendem-se quanto a ele, reservando-se a respectiva vaga até decisão final.\n2.                  Se o processo for arquivado, a decisão condenatória revogada ou for aplicada uma pena que não prejudique a promoção ou acesso, o magistrado é promovido ou nomeado e vai ocupar o seu lugar na lista de antiguidade, com direito a receber as diferenças de remuneração ou, se houver de ser preterido, completa-se o movimento em relação à vaga que lhe havia ficado reservada."
+   }
+  },
+  {
+   "id": "TL-H009-A72",
+   "no": 72,
+   "noLabel": {
+    "pt": "Artigo 72.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Medida da pena"
+   },
+   "text": {
+    "pt": "Na determinação da medida da pena atende-se à gravidade do facto, à culpa do agente, à sua personalidade e as circunstâncias que deponham a seu favor ou contra ele."
+   }
+  },
+  {
+   "id": "TL-H009-A73",
+   "no": 73,
+   "noLabel": {
+    "pt": "Artigo 73.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Atenuação especial da pena"
+   },
+   "text": {
+    "pt": "A pena pode ser especialmente atenuada, aplicando-se pena de escalão inferior, quando existam circunstâncias anteriores ou posteriores à infracção ou contemporâneas dela que diminuam acentuadamente a gravidade do facto ou a culpa do agente."
+   }
+  },
+  {
+   "id": "TL-H009-A74",
+   "no": 74,
+   "noLabel": {
+    "pt": "Artigo 74.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Reincidência"
+   },
+   "text": {
+    "pt": "1.                  Há reincidência quando a infracção for cometida antes de decorridos três anos sobre a data em que o magistrado cometeu infracção anterior, pela qual tenha sido condenado em pena superior à de advertência, já cumprida total ou parcialmente, desde que  as circunstâncias do caso revelem ausência de eficácia preventiva da condenação anterior.\n2.                  Se a pena aplicável for qualquer das previstas nas alíneas c) e f) do n.°1 do artigo 64.° em caso de reincidência o seu limite mínimo será igual a um terço, ou um quarto do limite máximo, respectivamente.\n3.                  Tratando-se de pena diversa das referidas no número anterior, pode ser aplicada pena de escalão imediatamente superior."
+   }
+  },
+  {
+   "id": "TL-H009-A75",
+   "no": 75,
+   "noLabel": {
+    "pt": "Artigo 75.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Concurso de infracções"
+   },
+   "text": {
+    "pt": "1.                  Verifica-se concurso de infracções quando o magistrado comete duas ou mais infracções antes de se tonar inimpugnável a condenação por qualquer delas.\n2.                  No concurso de infracções aplica-se uma única pena e quando às infracções correspondam penas diferentes aplica-se a de maior gravidade, agravada em função do concurso, se for variável."
+   }
+  },
+  {
+   "id": "TL-H009-A76",
+   "no": 76,
+   "noLabel": {
+    "pt": "Artigo 76.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Substituição das penas aplicáveis aos aposentados"
+   },
+   "text": {
+    "pt": "Para os magistrados aposentados ou que por qualquer razão se encontrem fora de actividade, as penas de multa, suspensão de exercício ou inactividade são substituídas pela perda de pensão ou vencimento de qualquer natureza pelo tempo correspondente."
+   }
+  },
+  {
+   "id": "TL-H009-A77",
+   "no": 77,
+   "noLabel": {
+    "pt": "Artigo 77.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Prazo de prescrição das penas"
+   },
+   "text": {
+    "pt": "As penas disciplinares prescrevem nos prazos seguintes, contados da data em que a decisão se tornou inimpugnável:\na)      Seis meses, para as penas de advertência e multa;\nb)      Um ano, para a pena de transferência;\nc)      Três anos, para as penas de suspensão de exercício e inactividade;\nd)     Cinco anos, para as penas de aposentação compulsiva e demissão."
+   }
+  },
+  {
+   "id": "TL-H009-A78",
+   "no": 78,
+   "noLabel": {
+    "pt": "Artigo 78.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Processo disciplinar"
+   },
+   "text": {
+    "pt": "1.                  O processo disciplinar é o meio de efectivar a responsabilidade disciplinar.\n2.                  O processo disciplinar é sumário e não depende de formalidades especiais, salvo a audiência, com possibilidade de defesa, do arguido.\n3.                  O instrutor deve rejeitar as diligências manifestamente inúteis ou dilatórias, fundamentando a recusa."
+   }
+  },
+  {
+   "id": "TL-H009-A79",
+   "no": 79,
+   "noLabel": {
+    "pt": "Artigo 79.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Impedimentos e suspeições"
+   },
+   "text": {
+    "pt": "1.                  Está impedido de instruir ou participar na deliberação dos processos disciplinares o membro do Conselho Superior da Magistratura Judicial quando seja parte no processo, por si ou como representante de outra pessoa, o seu cônjuge ou quando alguma dessas pessoas for parente ou tiver laços de afinidade na linha recta ou até ao quarto grau da linha colateral com o arguido.\n2.                  Está igualmente impedido o membro do Conselho quando seja parte no processo disciplinar pessoa que tenha proposto contra ele acção civil para indemnização de danos, ou que contra ele deduziu acusação penal em consequência de factos praticados no exercício das suas funções ou por causa delas, ou quando seja parte o cônjuge dessa pessoa ou um parente ou afim na linha recta ou até ao quarto grau da linha colateral, desde que a acção ou acusação já tenha sido admitida.\n3.                  A inimizade grave ou a grande intimidade com o arguido impedem igualmente o membro do Conselho de instruir ou participar na deliberação dos respectivos processos disciplinares."
+   }
+  },
+  {
+   "id": "TL-H009-A80",
+   "no": 80,
+   "noLabel": {
+    "pt": "Artigo 80.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Carácter confidencial do processo disciplinar"
+   },
+   "text": {
+    "pt": "1.                  O processo disciplinar é de natureza confidencial até decisão final.\n2.                  É permitida a passagem de certidões de peças do processo a requerimento fundamentado do arguido, quando destinadas à defesa de interesses legítimos."
+   }
+  },
+  {
+   "id": "TL-H009-A81",
+   "no": 81,
+   "noLabel": {
+    "pt": "Artigo 81.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Prazo de instrução"
+   },
+   "text": {
+    "pt": "1.                  A instrução do processo disciplinar deve ultimar-se no prazo de 30 dias.\n2.                  O prazo referido no número anterior só pode ser excedido em caso justificado.\n3.   O instrutor deve notificar por escrito o arguido e o Conselho Superior da Magistratura Judicial da data em que inicia a instrução do processo."
+   }
+  },
+  {
+   "id": "TL-H009-A82",
+   "no": 82,
+   "noLabel": {
+    "pt": "Artigo 82.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Número de testemunhas em fase de instrução"
+   },
+   "text": {
+    "pt": "1.                  Na fase de instrução não há limite para o número de testemunhas.\n2.                  O instrutor pode indeferir o pedido de audição de testemunhas ou declarantes quando julgar suficiente a prova produzida."
+   }
+  },
+  {
+   "id": "TL-H009-A83",
+   "no": 83,
+   "noLabel": {
+    "pt": "Artigo 83.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Suspensão preventiva do arguido"
+   },
+   "text": {
+    "pt": "1.                  O magistrado arguido em processo disciplinar pode ser preventivamente suspenso das funções sob proposta do instrutor, desde que haja fortes indícios de que à infracção cabe, pelo menos, a pena de transferência e a continuação na efectividade de serviço seja prejudicial à instrução do processo, ou ao serviço ou ao prestígio e dignidade da função.\n2.                  A suspensão preventiva é executada de forma a assegurar o resguardo da dignidade pessoal e profissional do magistrado.\n3.                  A suspensão preventiva não pode exceder 60 dias, prorrogáveis mediante justificação por mais 30 dias, e não tem os efeitos consignados no n.° 4 do artigo 69.°."
+   }
+  },
+  {
+   "id": "TL-H009-A84",
+   "no": 84,
+   "noLabel": {
+    "pt": "Artigo 84.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Acusação"
+   },
+   "text": {
+    "pt": "1.                  Concluída a instrução e junto o registo disciplinar do arguido, o instrutor deduz acusação no prazo de dez dias, articulando discriminadamente os factos constitutivos da infracção disciplinar e os que integram circunstâncias agravantes ou atenuantes que repute indiciados, indicando os preceitos legais ao caso aplicáveis.\n2.                  Se não se indiciarem suficientemente factos constitutivos da infracção ou da responsabilidade do arguido ou o procedimento disciplinar se encontrar extinto, o instrutor elabora em 10 dias o seu relatório, seguindo-se os demais termos aplicáveis."
+   }
+  },
+  {
+   "id": "TL-H009-A85",
+   "no": 85,
+   "noLabel": {
+    "pt": "Artigo 85.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Notificação do arguido"
+   },
+   "text": {
+    "pt": "1.                  É entregue ao arguido ou remetida pelo correio, sob registo e com aviso de recepção, cópia da acusação, fixando-se um prazo entre 10 a 20 dias para apresentação da defesa.\n2.                  Se não for conhecido o paradeiro do arguido, procede-se a sua notificação por éditos, afixados na última residência do arguido."
+   }
+  },
+  {
+   "id": "TL-H009-A86",
+   "no": 86,
+   "noLabel": {
+    "pt": "Artigo 86.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Nomeação de defensor"
+   },
+   "text": {
+    "pt": "1.                  Se o arguido estiver impossibilitado de elaborar a defesa por motivo de ausência, doença, anomalia mental ou incapacidade física, o instrutor nomeia-lhe defensor.\n2.                  Quando o defensor for nomeado em data posterior à da notificação a que se refere o artigo anterior, reabre-se o prazo para a defesa com a sua notificação."
+   }
+  },
+  {
+   "id": "TL-H009-A87",
+   "no": 87,
+   "noLabel": {
+    "pt": "Artigo 87.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Exame do processo"
+   },
+   "text": {
+    "pt": "Durante o prazo para a apresentação da defesa, o arguido, o defensor nomeado ou o mandatário constituído podem examinar o processo no local onde se encontrar depositado."
+   }
+  },
+  {
+   "id": "TL-H009-A88",
+   "no": 88,
+   "noLabel": {
+    "pt": "Artigo 88.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Defesa do arguido"
+   },
+   "text": {
+    "pt": "1.                  Com a defesa, o arguido pode indicar testemunhas, juntar documentos ou requerer diligências.\n2.                  Não podem ser oferecidas mais de três testemunhas por cada facto."
+   }
+  },
+  {
+   "id": "TL-H009-A89",
+   "no": 89,
+   "noLabel": {
+    "pt": "Artigo 89.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Relatório final"
+   },
+   "text": {
+    "pt": "Terminada a produção da prova, o instrutor elabora, no prazo de 15 dias, um relatório, do qual devem constar os factos cuja existência considera provada, a sua qualificação e a pena aplicável."
+   }
+  },
+  {
+   "id": "TL-H009-A90",
+   "no": 90,
+   "noLabel": {
+    "pt": "Artigo 90.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Notificação da decisão"
+   },
+   "text": {
+    "pt": "A decisão final, acompanhada de cópia do relatório a que se refere o artigo anterior, é notificada ao arguido, com observância do disposto no artigo 85.°."
+   }
+  },
+  {
+   "id": "TL-H009-A91",
+   "no": 91,
+   "noLabel": {
+    "pt": "Artigo 91.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Nulidades e irregularidades"
+   },
+   "text": {
+    "pt": "1.                  Constitui nulidade insuprível a falta de audiência do arguido com possibilidade de defesa e a omissão de diligências essenciais para a descoberta da verdade que ainda possam utilmente realizar-se.\n2.                  As restantes nulidades e irregularidades consideram-se sanadas se não forem arguidas na defesa ou, a ocorrerem posteriormente, no prazo de 5 dias, contados da data do seu conhecimento."
+   }
+  },
+  {
+   "id": "TL-H009-A92",
+   "no": 92,
+   "noLabel": {
+    "pt": "Artigo 92.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Auto por abandono"
+   },
+   "text": {
+    "pt": "Quando um magistrado deixe de comparecer ao serviço durante 10 dias manifestando expressamente a intenção de abandonar o lugar, ou faltar injustificadamente durante 30 dias úteis consecutivos, é lavrado auto por abandono."
+   }
+  },
+  {
+   "id": "TL-H009-A93",
+   "no": 93,
+   "noLabel": {
+    "pt": "Artigo 93.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Presunção de abandono"
+   },
+   "text": {
+    "pt": "1.                  A ausência injustificada do lugar durante 30 dias úteis seguidos constitui presunção de abandono.\n2.                  A presunção referida no número anterior pode ser ilidida em processo disciplinar por qualquer meio de prova."
+   }
+  },
+  {
+   "id": "TL-H009-A94",
+   "no": 94,
+   "noLabel": {
+    "pt": "Artigo 94.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Revisão"
+   },
+   "text": {
+    "pt": "1.                  As decisões condenatórias proferidas em processo disciplinar podem ser revistas a todo o tempo quando se verifiquem circunstâncias ou meios de prova susceptíveis de demonstrarem a inexistência dos factos que determinaram a punição e que não puderam ser oportunamente utilizados pelo arguido.\n2.                  A revisão não pode, em caso algum, determinar o agravamento da pena."
+   }
+  },
+  {
+   "id": "TL-H009-A95",
+   "no": 95,
+   "noLabel": {
+    "pt": "Artigo 95.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Processo"
+   },
+   "text": {
+    "pt": "1.                  A revisão é requerida pelo interessado ao Conselho Superior da Magistratura Judicial.\n2.                  O requerimento, processado por apenso ao processo disciplinar, deve conter os fundamentos do pedido e a indicação dos meios de prova a produzir e ser instruído com os documentos que o interessado tenha podido obter."
+   }
+  },
+  {
+   "id": "TL-H009-A96",
+   "no": 96,
+   "noLabel": {
+    "pt": "Artigo 96.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Sequência do processo de revisão"
+   },
+   "text": {
+    "pt": "Recebido o requerimento, o Conselho Superior da Magistratura Judicial decide, no prazo de 30 dias, se se verificam os pressupostos da revisão."
+   }
+  },
+  {
+   "id": "TL-H009-A97",
+   "no": 97,
+   "noLabel": {
+    "pt": "Artigo 97.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Procedência da revisão"
+   },
+   "text": {
+    "pt": "1.                  Se o pedido de revisão for julgado procedente, revoga-se ou altera-se a decisão proferida no processo revisto.\n2.                  Sem prejuízo de outros direitos legalmente previstos, o interessado é indemnizado pelas remunerações que tenha deixado de receber em razão da decisão revista."
+   }
+  },
+  {
+   "id": "TL-H009-A98",
+   "no": 98,
+   "noLabel": {
+    "pt": "Artigo 98.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Inquéritos e sindicâncias"
+   },
+   "text": {
+    "pt": "1.                  Os inquéritos têm por finalidade a averiguação de factos determinados.\n2.                  As sindicâncias têm lugar quando haja notícia de factos que exijam uma averiguação geral acerca do funcionamento dos serviços."
+   }
+  },
+  {
+   "id": "TL-H009-A99",
+   "no": 99,
+   "noLabel": {
+    "pt": "Artigo 99.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Instrução"
+   },
+   "text": {
+    "pt": "São aplicáveis à instrução dos processos de inquérito e sindicância, com as necessárias adaptações, as disposições relativas a processos disciplinares."
+   }
+  },
+  {
+   "id": "TL-H009-A100",
+   "no": 100,
+   "noLabel": {
+    "pt": "Artigo 100.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Relatório"
+   },
+   "text": {
+    "pt": "Terminada a instrução, o inquiridor ou sindicante elabora relatório propondo o arquivamento ou a instauração de procedimento disciplinar, conforme os casos."
+   }
+  },
+  {
+   "id": "TL-H009-A101",
+   "no": 101,
+   "noLabel": {
+    "pt": "Artigo 101.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Conversão em processo disciplinar"
+   },
+   "text": {
+    "pt": "1.                  Se apurar a existência de infracção, o Conselho Superior da Magistratura Judicial pode deliberar que o processo de inquérito ou de sindicância em que o arguido tenha sido ouvido constitua parte instrutória do processo disciplinar.\n2.                  No caso previsto no número anterior, a data de instauração do inquérito ou da sindicância fixa o início do procedimento disciplinar."
+   }
+  },
+  {
+   "id": "TL-H009-A102",
+   "no": 102,
+   "noLabel": {
+    "pt": "Artigo 102.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI Responsabilidade disciplinar"
+   },
+   "heading": {
+    "pt": "Regime subsidiário"
+   },
+   "text": {
+    "pt": "É aplicável subsidiariamente aos magistrados judiciais, em tudo o que se refira a matéria administrativa e disciplinar, o regime da função pública."
+   }
+  },
+  {
+   "id": "TL-H009-A103",
+   "no": 103,
+   "noLabel": {
+    "pt": "Artigo 103.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII Reclamações, Recursos, Custas e Preparos"
+   },
+   "heading": {
+    "pt": "Reclamações"
+   },
+   "text": {
+    "pt": "1.                  As decisões do Presidente do Conselho Superior da Magistratura Judicial são passíveis de reclamação para o plenário.\n2.                  Em matérias relativas a funcionários de justiça a reclamação é restrita a deliberações de natureza disciplinar que tenham aplicado pena de gravidade igual ou superior à de transferência compulsiva."
+   }
+  },
+  {
+   "id": "TL-H009-A104",
+   "no": 104,
+   "noLabel": {
+    "pt": "Artigo 104.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII Reclamações, Recursos, Custas e Preparos"
+   },
+   "heading": {
+    "pt": "Recursos"
+   },
+   "text": {
+    "pt": "1.                  Das decisões do Conselho Superior da Magistratura Judicial cabe recurso para o Supremo Tribunal de Justiça.\n2.                  Para apreciar o recurso o Supremo Tribunal constitui-se em secção com três juizes, designados, para o efeito, por quatro anos sendo presidido pelo juiz mais antigo.\n3.                  Esta secção não pode ser integrada por juizes que forem membros do Conselho Superior da Magistratura Judicial."
+   }
+  },
+  {
+   "id": "TL-H009-A105",
+   "no": 105,
+   "noLabel": {
+    "pt": "Artigo 105.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII Reclamações, Recursos, Custas e Preparos"
+   },
+   "heading": {
+    "pt": "Interposição de recurso, prazo e efeito"
+   },
+   "text": {
+    "pt": "1.                  O prazo para reclamar e interpor recurso é de 15 dias contados desde a data da notificação.\n2.                  A interposição do recurso só tem efeito suspensivo quando for interposto em matéria disciplinar ou quando da execução do acto recorrido puder resultar prejuízo sério para o recorrente."
+   }
+  },
+  {
+   "id": "TL-H009-A106",
+   "no": 106,
+   "noLabel": {
+    "pt": "Artigo 106.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII Reclamações, Recursos, Custas e Preparos"
+   },
+   "heading": {
+    "pt": "Requisitos da petição"
+   },
+   "text": {
+    "pt": "1.                  A petição deve referir a deliberação de que se recorre, os fundamentos de facto e de direito e a formulação clara e precisa do pedido.\n2.                  A petição deve ser instruída com documento comprovativo do acto objecto de recurso e com todos os documentos probatórios.\n3.                  Se, por motivo justificado, não tiver sido possível obter os documentos dentro do prazo legal, pode ser requerido prazo para sua ulterior apresentação."
+   }
+  },
+  {
+   "id": "TL-H009-A107",
+   "no": 107,
+   "noLabel": {
+    "pt": "Artigo 107.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII Reclamações, Recursos, Custas e Preparos"
+   },
+   "heading": {
+    "pt": "Trâmites do recurso"
+   },
+   "text": {
+    "pt": "1.        Distribuído o recurso no Supremo Tribunal de Justiça, o relator pode convidar o recorrente a corrigir as deficiências do requerimento.\n2.        Quando o relator entender que se verifica extemporaneidade, ilegitimidade das partes ou manifesta ilegalidade do recurso, fará uma breve e fundamentada exposição e apresenta o processo na primeira sessão, à conferência, para decisão, sem necessidade de vistos.\n3.        Quando o recurso deva prosseguir, o relator ordena o envio de cópias ao Conselho Superior da Magistratura Judicial, a fim de responder no prazo de 10 dias e no mesmo prazo remeter o processo ao Supremo Tribunal de Justiça.\n4.        Recebida a resposta do Conselho Superior da Magistratura ou decorrido o prazo a ela destinado e nos casos em que o recurso pode afectar os direitos de terceiros, o relator ordena a citação dos mesmos para, no prazo de 10 dias, responderem.\n5.        Juntas as respostas ou decorridos os respectivos prazos, o relator ordena a notificação do recorrente e depois do recorrido para, no prazo de 10 dias, alegarem.\n6.        Juntas as alegações ou decorridos os prazos, o processo é concluso ao relator que pode requisitar os documentos que considere necessários ou notificar as partes para os apresentarem.\n7.        Os autos correm em seguida, pelo prazo de 48 horas, os vistos de todos os Juizes da secção, devendo de seguida ser conclusos ao relator para decisão, a qual deve ser proferida em 20 dias."
+   }
+  },
+  {
+   "id": "TL-H009-A108",
+   "no": 108,
+   "noLabel": {
+    "pt": "Artigo 108.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII Reclamações, Recursos, Custas e Preparos"
+   },
+   "heading": {
+    "pt": "Custas"
+   },
+   "text": {
+    "pt": "As custas são fixadas pelo Supremo Tribunal de Justiça, entre 10 a 100 dólares, enquanto não entrar em vigor o código das custas aplicável a esta matéria."
+   }
+  },
+  {
+   "id": "TL-H009-A109",
+   "no": 109,
+   "noLabel": {
+    "pt": "Artigo 109.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII Disposições Transitórias"
+   },
+   "heading": {
+    "pt": "Composição provisória do Conselho Superior da Magistratura Judicial"
+   },
+   "text": {
+    "pt": "1.   Até que seja possível nomear magistrados judiciais de carreira e instalar o Supremo Tribunal de Justiça, o Conselho Superior da Magistratura Judicial é presidido pelo Presidente do Tribunal de Recurso e é constituído pelos seguintes membros:\na)   Um jurista designado pelo Presidente da República;\nb)   Um jurista eleito pelo Parlamento Nacional;\nc)   Um jurista designado pelo Governo;\nd)   Um juiz estagiário eleito pelos seus pares.\n2.   O Conselho, na sua primeira sessão, elege por voto secreto e por maioria simples, um Vice- Presidente.\n3.   Os vogais do Conselho Superior da Magistratura Judicial devem ter como requisito mínimo licenciatura em direito e serem cidadãos nacionais.\n4.                  O Conselho Superior da Magistratura Judicial pode socorrer-se da assessoria técnica de juizes mentores internacionais, em serviço no país, sempre que reputar necessário.\n5.      Transitoriamente, enquanto não se mostrar possível dotar e instalar a Secretaria do Conselho Superior da Magistratura Judicial dos necessários meios, as suas funções serão desempenhadas por funcionários judiciais, destacados para o efeito."
+   }
+  },
+  {
+   "id": "TL-H009-A110",
+   "no": 110,
+   "noLabel": {
+    "pt": "Artigo 110.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII Disposições Transitórias"
+   },
+   "heading": {
+    "pt": "Tribunal de Recurso"
+   },
+   "text": {
+    "pt": "1.      O Tribunal de Recurso exerce as competências próprias do Supremo Tribunal de Justiça até à sua entrada em funcionamento.\n2.      Até à instalação e início de funcionamento do Supremo Tribunal de Justiça, os juizes para o Tribunal de Recurso são nomeados pelo Conselho Superior da Magistratura Judicial, de entre os juizes estagiários, tendo em conta a sua avaliação ou classificação, sendo um daqueles juizes eleito pelo Parlamento Nacional, nos termos do previsto no n.° 2 do artigo 125.° da Constituição.\n3.      Os juizes estagiários nomeados para o Tribunal de Recurso mantêm a categoria respectiva, sendo os lugares que ocupam colocados a concurso, decorridos três anos sobre a sua nomeação.\n4.      Quando não seja possível, através da magistratura judicial, preencher o número de vagas existentes, podem ser nomeados como Juizes Conselheiros, até ao máximo de dois, magistrados do Ministério Público junto do Tribunal de Recurso ou advogados de reconhecido mérito, com licenciatura em direito e, pelo menos, 10 anos de prática forense, ou ainda professores universitários de direito com, pelo menos, 10 anos de docência."
+   }
+  },
+  {
+   "id": "TL-H009-A111",
+   "no": 111,
+   "noLabel": {
+    "pt": "Artigo 111.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII Disposições Transitórias"
+   },
+   "heading": {
+    "pt": "Juizes internacionais"
+   },
+   "text": {
+    "pt": "1.   Os dispositivos da presente lei aplicam-se transitoriamente, e com as devidas adaptações, aos juizes internacionais contratados para exercer funções em Timor-Leste, nos termos do disposto no n.° 1 do artigo 163.° da Constituição da República.\n2.   O Conselho Superior da Magistratura Judicial pode, sempre que se mostrar necessário e conveniente, seleccionar, por concurso curricular, juizes não timorenses, com um mínimo de 15 anos de experiência e provenientes de um sistema judiciário civilista, para integrarem provisoriamente a organização judiciária de Timor-Leste."
+   }
+  },
+  {
+   "id": "TL-H009-A112",
+   "no": 112,
+   "noLabel": {
+    "pt": "Artigo 112.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII Disposições Transitórias"
+   },
+   "heading": {
+    "pt": "Estágio"
+   },
+   "text": {
+    "pt": "O estágio que decorre à data da entrada em vigor da presente lei passa a ter uma duração entre 3 a 4 anos, de forma a permitir que possa ser ministrada uma formação complementar específica."
+   }
+  },
+  {
+   "id": "TL-H009-A113",
+   "no": 113,
+   "noLabel": {
+    "pt": "Artigo 113.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII Disposições Transitórias"
+   },
+   "heading": {
+    "pt": "Revogações"
+   },
+   "text": {
+    "pt": "É revogada toda a legislação contrária à presente lei, designadamente os preceitos legais pertinentes contidos nos Regulamentos n.os 1999/1, 1999/3, 2000/11, 2000/25, 2001/18, 2001/25 e 2001/26 da Administração Transitória das Nações Unidas em Timor-Leste (UNTAET)."
+   }
+  }
+ ]
+}

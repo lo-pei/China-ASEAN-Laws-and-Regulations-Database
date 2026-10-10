@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="中国—东盟法律法规数据库（CALR）：面向东盟十一国与中国共十二个法域，提供法规与条约检索、法律体系对照、跨语言条款比对、法律术语对照与 AI 问答。">
+<meta name="author" content="中国—东盟法律法规数据库">
+<title>中国—东盟法律法规数据库</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231B3A5C'/%3E%3Ctext x='16' y='22' font-family='sans-serif' font-size='13' font-weight='bold' fill='%23fff' text-anchor='middle'%3ECALR%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/css/tokens.css">
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/components.css">
+<link rel="stylesheet" href="assets/css/views.css">
+<link rel="stylesheet" href="assets/css/home-v2.css">
+</head>
+<body>
+<a class="skip-link" href="#main">跳到主内容</a>
+
+<header id="app-header" class="app-header" role="banner"></header>
+
+<main id="main" class="main" tabindex="-1" role="main"></main>
+
+<footer id="app-footer" class="app-footer" role="contentinfo"></footer>
+
+<div id="toast-host" class="toast-host" aria-live="polite" aria-atomic="true"></div>
+
+<noscript>
+  <div class="container page">
+    <div class="banner banner--warn" style="margin:20px 0">
+      <span class="banner__icon">!</span>
+      <div>本平台需要启用 JavaScript 才能运行。请在浏览器设置中启用 JavaScript 后刷新页面。</div>
+    </div>
+  </div>
+</noscript>
+
+<!-- 数据集（元数据层，条文全文缺失时的兜底条目） -->
+<script src="data/dataset-core.js"></script>
+<script src="data/dataset-extra.js"></script>
+<!-- 官方全文索引（条文正文来源，规范见 docs/06-全文数据规范.md） -->
+<script src="data/fulltext/manifest.js"></script>
+<!-- 全量法规目录（中国 1500+ 部：仅元数据，条文按分卷按需加载） -->
+<script src="data/cn-catalog.js"></script>
+<!-- 东盟法律目录层与全文分卷索引（来源：资源爬取，条文按分卷按需加载） -->
+<script src="data/intl-catalog.js"></script>
+<!-- 东盟成员国国界（Natural Earth 公有领域数据，供首页地图使用） -->
+<script src="data/asean-map.js"></script>
+<script src="data/intl/manifest.js"></script>
+<!-- 译文层索引：大模型翻译文本与官方原文分离存放 -->
+<script src="data/trans/manifest.js"></script>
+<!-- 界面多语种译文表（缺失时自动回退中文原文） -->
+<script src="data/i18n-en.js"></script>
+<script src="data/i18n-vi.js"></script>
+<script src="data/i18n-th.js"></script>
+<script src="data/i18n-id.js"></script>
+<script src="data/i18n-ms.js"></script>
+<script src="data/i18n.js"></script>
+
+<!-- 核心层 -->
+<script src="assets/js/core/util.js"></script>
+<script src="assets/js/core/i18n.js"></script>
+<script src="assets/js/core/store.js"></script>
+<script src="assets/js/core/fulltext.js"></script>
+<script src="assets/js/core/search.js"></script>
+<script src="assets/js/core/compare.js"></script>
+<script src="assets/js/core/terms.js"></script>
+<script src="assets/js/core/qa.js"></script>
+<script src="assets/js/core/router.js"></script>
+
+<!-- 构件层（icons.js 必须在 components.js 之后加载，以便挂载到 CALR.ui 上） -->
+<script src="assets/js/ui/components.js"></script>
+<script src="assets/js/ui/icons.js"></script>
+
+<!-- 视图层 -->
+<script src="assets/js/views/home.js"></script>
+<script src="assets/js/views/search.js"></script>
+<script src="assets/js/views/country.js"></script>
+<script src="assets/js/views/systems.js"></script>
+<script src="assets/js/views/law.js"></script>
+<script src="assets/js/views/entity.js"></script>
+<script src="assets/js/views/compare.js"></script>
+<script src="assets/js/views/terms.js"></script>
+<script src="assets/js/views/assistant.js"></script>
+<script src="assets/js/views/misc.js"></script>
+
+<!-- 应用外壳 -->
+<script src="assets/js/app.js"></script>
+</body>
+</html>

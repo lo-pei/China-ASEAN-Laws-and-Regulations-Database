@@ -1,0 +1,267 @@
+{
+ "id": "SG-H1148",
+ "title": {
+  "zh": null,
+  "en": "Deposit Insurance and Policy Owners’ Protection Schemes (Deposit Insurance) Regulations 2011",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p15",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation DIPOPSA2011-S239-2011",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 18,
+ "chars": 30009,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/DIPOPSA2011-S239-2011?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 18 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 3 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1148-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Deposit Insurance and Policy Owners’ Protection Schemes (Deposit Insurance) Regulations 2011 and shall come into operation on 1st May 2011."
+   }
+  },
+  {
+   "id": "SG-H1148-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“Accounting Standards” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);\n“advocate and solicitor” means an advocate and solicitor of the Supreme Court who has in force a practising certificate;\n“associated company” has the same meaning as the term “associate” defined in the Accounting Standards;\n“banking corporation” means —\n(a)any bank licensed by the Authority under the Banking Act (Cap. 19); or\n(b)any entity licensed, registered, approved or otherwise regulated as a bank in the country of establishment;\n“classified”, in relation to a credit facility, means any credit facility which has been categorised by a DI Scheme member as “substandard”, “doubtful” or “loss” pursuant to any notice in writing issued by the Authority under any written law;\n“company” and “corporation” have the respective meanings as in section 4(1) of the Companies Act;\n“counterparty related to the DI Scheme member” includes any holding company, subsidiary or associated company of the DI Scheme member, and any subsidiary or associated company of any holding company of the DI Scheme member;\n“credit facility” means —\n(a)the granting by a DI Scheme member of advances, loans and other facilities whereby a customer of the DI Scheme member has access to funds or financial guarantees; or\n(b)the incurring by a DI Scheme member of other liabilities on behalf of a customer;\n“debt security” includes any debenture, bond or note;\n“eligible asset” means any of the assets specified in the First Schedule which may be included by a DI Scheme member for the purposes of computing its asset maintenance ratio under regulation 5;\n“eligible pledged asset” has the meaning given to it by regulation 5(4);\n“foreign bank” means a full bank which is incorporated in a jurisdiction other than Singapore and has operating branches or offices located within Singapore;\n“holding company” and “subsidiary” have the respective meanings as in section 5 of the Companies Act (Cap. 50);\n“housing loan” means a credit facility granted to an individual for the purchase of residential property where the credit facility is secured on that property;\n“investment grade” means any of the following credit ratings issued by the respective credit rating agencies:\n(a)BBB-minus or better by Fitch Ratings;\n(b)Baa or better by Moody’s Investor Services;\n(c)BBB-minus or better by Standard and Poor’s Rating Services;\n“merchant bank” has the meaning given by section 2(1) of the Banking Act;\n[S 455/2021 wef 01/07/2021]\n“minimum cash balances” means the minimum cash balances maintained on deposit with the Authority by a bank as reserves against its deposit and other liabilities under section 39 of the Banking Act (Cap. 19);\n“minimum liquid assets” means the minimum amount or amounts of liquid assets held by a bank under section 38 of the Banking Act;\n“practising certificate” means a certificate issued by the Registrar under section 25 of the Legal Profession Act (Cap. 161);\n“share” has the same meaning as in section 4(1) of the Companies Act;\n“Singapore Government Securities” means any debt securities issued by the Government under any written law."
+   }
+  },
+  {
+   "id": "SG-H1148-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Premium year"
+   },
+   "text": {
+    "en": "3.—(1) For the purposes of the definition of “premium year” in section 2(1) of the Act and subject to paragraph (2), the Authority hereby prescribes a premium year under section 12(4) of the Act to be the period beginning on 1st April of any year and ending on 31st March of the following year.\n(2) The first premium year shall be the period beginning on 1st May 2011 and ending on 31st March 2012."
+   }
+  },
+  {
+   "id": "SG-H1148-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Asset maintenance requirement for foreign banks"
+   },
+   "text": {
+    "en": "4.—(1) Every DI Scheme member which is a foreign bank shall maintain in relation to its insured deposit base, assets in Singapore for meeting its liabilities in respect of insured deposits placed with it, in the manner provided in paragraph (2).\n(2) For the purposes of paragraph (1), the foreign bank shall at all times maintain an asset maintenance ratio of not less than 1 as determined in accordance with regulation 5."
+   }
+  },
+  {
+   "id": "SG-H1148-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Computation of asset maintenance ratio"
+   },
+   "text": {
+    "en": "5.—(1) For the purposes of regulation 4(2) and subject to paragraphs (2), (3) and (4), the asset maintenance ratio is calculated in accordance with the formula:\nwhere —\n(a)A is the value of any eligible asset or eligible pledged asset which —\n(i)is reflected as an asset in the books of the DI Scheme member in relation to its operations in Singapore;\n(ii)is free from any prior encumbrances;\n(iii)does not arise or result from any contractual or other arrangement with, or investment in, a counterparty related to the DI Scheme member; and\n(iv)is not used to meet any requirements in relation to minimum liquid assets or minimum cash balances;\n(b)B is the percentage applicable to a particular eligible asset or an eligible pledged asset specified in the second column of the First Schedule or Second Schedule, as the case may be; and\n(c)C is —\n(i)for the period between 1 April 2024 and 31 December 2024 (both dates inclusive), the aggregate of the following amounts of every insured depositor of the DI Scheme member as at 31 December 2023:\n(A)the aggregate of the amounts, not exceeding $100,000, of insured deposits placed with the DI Scheme member which —\n(AA)are held by the insured depositor in its or his own right;\n(AB)are held by the insured depositor in its or his own right jointly with one or more persons in a joint account;\n(AC)where the insured depositor is a sole-proprietor, are held in the name of the sole-proprietorship; and\n(AD)consist of moneys denominated in Singapore dollars placed with the DI Scheme member under the Supplementary Retirement Scheme;\n(B)the amount, not exceeding $100,000, of insured deposits held by the insured depositor as a trustee under a trust in every account opened with the DI Scheme member;\n(C)the amount, not exceeding $100,000, of insured deposits held by the insured depositor in every client account opened with the DI Scheme member;\n(D)any moneys denominated in Singapore dollars placed by the insured depositor with the DI Scheme member under the CPFIS and CPFRS, not exceeding $100,000;\n[S 899/2023 wef 31/12/2023]\n(ii)where the foreign bank becomes a DI Scheme member during the course of a premium year or an exemption from the requirement to be a DI Scheme member granted to the foreign bank is withdrawn during the course of a premium year, the insured deposit base as at the date on which the foreign bank became a DI Scheme member; or\n(iii)in any other case, the insured deposit base of the DI Scheme member as at 31 December of the preceding year.\n[S 873/2018 wef 31/12/2018]\n(1A) For the purposes of paragraph (1)(c)(i) —\n(a)a reference to an insured deposit includes a reference to a part of the insured deposit;\n(b)where an insured depositor holds an insured deposit in its or his own right jointly with one or more persons in a joint account, each of them, whether or not it or he is an insured depositor, is deemed to have an equal share in the insured deposit unless there is an express provision to the contrary in the books of the DI Scheme member; and\n(c)where there are 2 or more insured depositors holding any insured deposit in an account under a trust or a client account jointly, each of them is deemed to have an equal interest in the insured deposit.\n[S 873/2018 wef 31/12/2018]\n(2) For the purposes of paragraph (1), the value of an eligible asset or eligible pledged asset shall be determined in the following manner:\n(a)the value of an eligible asset shall be its carrying value;\n(b)the value of an eligible pledged asset shall be its market value.\n(3) For the purposes of paragraph (1), the DI Scheme member may include in the value of A, the value of an eligible asset against which a deposit has been pledged, charged or secured as collateral.\n(4) For the purposes of paragraph (1), an eligible pledged asset shall comprise any of the following types of assets, in respect of which the DI Scheme member has granted, on such terms and conditions as may be agreed with the Agency, a security interest, other than a contingent security interest, in favour of the DI Fund:\n(a)any Singapore dollar note or coin kept in Singapore;\n(b)any Singapore Government Securities or debt security issued by a statutory body in Singapore (including the Authority) and guaranteed by the Government;\n(c)any deposit placed with the Authority, after deducting any moneys due to the Authority;\n(d)any debenture or debt security issued by Singapore Sukuk Pte. Ltd.;\n(e)any debt security issued by a statutory body in Singapore (including the Authority) which is not guaranteed by the Government;\n(f)any debt security (other than that of a banking corporation or merchant bank) which has a long-term rating of investment grade;\n(g)any shares listed on a securities exchange and issued by a company (other than a banking corporation, a merchant bank or a counterparty related to the DI Scheme member) incorporated in Singapore; and\n(h)such shares listed on a securities exchange and issued by a company (other than a banking corporation, a merchant bank or a counterparty related to the DI Scheme member) established or incorporated outside Singapore as may be permitted by the Authority for inclusion in the computation of the asset maintenance ratio.\n(5) For the purposes of paragraph (4), where the Agency appoints an advocate and solicitor to act on its behalf in any particular transaction with a DI Scheme member to create a security interest over an eligible pledged asset, the Agency shall be entitled to claim costs on a full indemnity basis for the appointment of the advocate and solicitor from that DI Scheme member."
+   }
+  },
+  {
+   "id": "SG-H1148-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Determination of premium rates"
+   },
+   "text": {
+    "en": "6.—(1) For the purposes of determining the premium rates applicable to DI Scheme members for any premium year, all DI Scheme members shall be classified into the categories specified in the first column of the Third Schedule.\n(2) The premium rate applicable to each category of DI Scheme members is specified in the second column of the Third Schedule.\n(3) For the purposes of determining the category in which a foreign bank shall be classified, the Authority shall compute the asset maintenance ratio of the foreign bank.\n(4) For the purposes of computing the asset maintenance ratio under paragraph (3), the Authority shall apply —\n(a)in the case where —\n(i)the foreign bank becomes a DI Scheme member during the course of a premium year; or\n(ii)an exemption from the requirement to be a DI Scheme member granted to the foreign bank pursuant to section 6 of the Act is withdrawn during the course of a premium year,\nthe average of the numerators of the formula for computing the asset maintenance ratio set out in regulation 5 for the last 3 months before it becomes a DI Scheme member over the insured deposit base as at the date it becomes a DI Scheme member;\n[S 899/2023 wef 31/12/2023]\n(b)in the case of the first premium year, the average of the numerator of the formula for computing the asset maintenance ratio set out in regulation 5 as at 31st March 2011, 30th April 2011 and 31st May 2011 over the insured deposit base as at 31st May 2011;\n[S 873/2018 wef 31/12/2018]\n(ba)in the case of the premium year beginning on 1 April 2024 and ending on 31 March 2025, the average of the numerators of the formula for computing the asset maintenance ratio set out in regulation 5 for the last 3 months of 2023, over the aggregate of the amounts as mentioned in regulation 5(1)(c)(i)(A) to (D) of every insured depositor of the foreign bank, as at 31 December 2023; or\n[S 899/2023 wef 31/12/2023]\n(c)in any other case, the average of the numerators of the formula for computing the asset maintenance ratio set out in regulation 5 for the last 3 months of the preceding year over the insured deposit base as at 31st December of the preceding year.\n[S 899/2023 wef 31/12/2023]\n(5) A DI Scheme member which is incorporated in Singapore shall be classified in the same category as a foreign bank with an asset maintenance ratio of more than 5.\n(6) In this regulation, “average of the numerators of the formula for computing the asset maintenance ratio set out in regulation 5 for the last 3 months” means the sum of the numerators of the formula for computing the asset maintenance ratio set out in regulation 5(1), as at the end of each of the 3 months in question, divided by 3.\n[S 899/2023 wef 31/12/2023]"
+   }
+  },
+  {
+   "id": "SG-H1148-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Computation of premium contributions"
+   },
+   "text": {
+    "en": "7.—(1) Subject to regulation 8(1), the Authority must calculate the amount of premium contribution payable by a DI Scheme member for any premium year as —\n(a)for the premium year beginning on 1 April 2024 and ending on 31 March 2025, the product of the premium rate applicable to the DI Scheme member and the aggregate of the amounts as mentioned in regulation 5(1)(c)(i)(A) to (D) of every insured depositor of the DI Scheme member, as at 31 December 2023; and\n[S 899/2023 wef 31/12/2023]\n(b)for any other premium year, the product of the premium rate applicable to the DI Scheme member and the insured deposit base of the DI Scheme member as at 31 December of the preceding year.\n[S 873/2018 wef 31/12/2018]\n(2) Subject to regulation 8(2), where —\n(a)a full bank or finance company becomes a DI Scheme member during the course of a premium year; or\n(b)an exemption from the requirement to be a DI Scheme member granted to a full bank or finance company pursuant to section 6 of the Act is withdrawn during the course of a premium year,\nthe Authority shall impose on that full bank or finance company, as the case may be, a premium contribution which is pro-rated according to the number of months, or any part thereof, remaining for that premium year.\n(3) For the purposes of calculating the premium contribution of a full bank or finance company referred to in paragraph (2), the Authority shall apply the insured deposit base of the full bank or finance company, as the case may be, as at the date on which the full bank or finance company becomes a DI Scheme member.\n(4) Subject to regulation 8(3), where a DI Scheme member is a Scheme member under the repealed Act immediately before 1st May 2011, the Authority shall impose on that DI Scheme member a premium contribution for the first premium year which is pro-rated according to the number of months, or any part thereof, comprised in that first premium year.\n(5) For the purposes of calculating the premium contribution of a DI Scheme member referred to in paragraph (4), the Authority shall apply the insured deposit base of the DI Scheme member as at 31st May 2011."
+   }
+  },
+  {
+   "id": "SG-H1148-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Minimum premium contribution"
+   },
+   "text": {
+    "en": "8.—(1) Subject to paragraphs (2) and (3), for any premium year, a DI Scheme member shall pay a minimum premium contribution of $2,500.\n(2) In the case where —\n(a)a full bank or finance company becomes a DI Scheme member during the course of a premium year; or\n(b)an exemption from the requirement to be a DI Scheme member granted to a full bank or finance company pursuant to section 6 of the Act is withdrawn during the course of a premium year,\nthe minimum premium contribution that that full bank or finance company, as the case may be, shall pay shall be pro-rated according to the number of months, or any part thereof, remaining for that premium year.\n(3) Where a DI Scheme member is a Scheme member under the repealed Act immediately before 1st May 2011, the minimum premium contribution that the DI Scheme member shall pay for the first premium year shall be pro-rated according to the number of months, or any part thereof, comprised in the first premium year."
+   }
+  },
+  {
+   "id": "SG-H1148-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Size of DI Fund"
+   },
+   "text": {
+    "en": "9.—(1) The target fund size of the DI Fund is 0.3% of the aggregate of the insured deposit base of every DI Scheme member.\n(2) Without prejudice to any other factors that may be relevant in the determination of any variation to the premium rates, where the DI Fund achieves or exceeds the target fund size specified in paragraph (1), the Authority and the Agency may conduct a joint review of the premium rates."
+   }
+  },
+  {
+   "id": "SG-H1148-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Payment of compensation from DI Fund"
+   },
+   "text": {
+    "en": "10.—(1) Where an insured depositor is entitled to compensation in respect of moneys placed with a failed DI Scheme member under the CPFIS or CPFRS, the Agency may pay such compensation to the Central Provident Fund Board for the benefit of the insured depositor or into an equivalent account with another DI Scheme member in which the compensation is to be held in a manner equivalent to the manner of holding the original moneys.\n[S 708/2016 wef 01/01/2017]\n(2) Where an insured depositor is entitled to compensation in respect of an insured deposit held under a trust, the Agency may pay such compensation —\n(a)directly to the insured depositor;\n(b)into an account in the name of the insured depositor opened with another DI Scheme member; or\n(c)into an equivalent trust account held with another DI Scheme member.\n(3) Where an insured depositor is entitled to compensation in respect of an insured deposit held under a client account, the Agency may pay such compensation —\n(a)directly to the insured depositor;\n(b)into an account in the name of the insured depositor opened with another DI Scheme member; or\n(c)into an equivalent client account held with another DI Scheme member.\n(4) Where an insured depositor is entitled to compensation in respect of an insured deposit held in the name of his sole-proprietorship, the Agency may pay such compensation —\n(a)directly to the insured depositor or any sole-proprietorship of the insured depositor;\n(b)into an account in the name of the insured depositor opened with another DI Scheme member; or\n(c)into an account in the name of any sole proprietorship of the insured depositor opened with another DI Scheme member."
+   }
+  },
+  {
+   "id": "SG-H1148-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Operational preparedness for payment of compensation"
+   },
+   "text": {
+    "en": "11.—(1) Every DI Scheme member shall at all times have the capability to furnish to the Agency, in a secure manner, within such period and in such form and manner as may be specified by the Agency in the Rules, information which is requested for by the Agency for the purpose of making payment of compensation to insured depositors.\n(2) Every DI Scheme member shall —\n(a)participate in any periodic exercise conducted by the Agency for the purpose of assessing whether the DI Scheme member is sufficiently prepared in the event that the Authority determines that compensation is to be paid out of the DI Fund to the insured depositors of the DI Scheme member; and\n(b)achieve the level of preparedness required by the Agency of all DI Scheme members as may be specified in the Rules.\n(3) Any —\n(a)DI Scheme member which merges or consolidates with another DI scheme member; or\n(b)DI Scheme member (referred to in this regulation as the acquiring DI Scheme member) which acquires the deposit-taking business of another DI Scheme member to form part of the business of the acquiring DI Scheme member,\nshall furnish to the Agency the information referred to in paragraph (1) in a secure manner, within such period and in such form and manner as may be specified by the Agency in the Rules.\n(4) Upon receipt of a confirmation from the Agency that the information furnished under paragraph (3) is in order, the acquiring DI Scheme member or the merged or consolidated DI Scheme member, as the case may be, shall prepare and maintain records of every insured depositor of each of the original DI Scheme members referred to in paragraph (3) who, immediately prior to the merger, consolidation or acquisition, as the case may be, had insured deposits placed with both the original DI Scheme members and the aggregate of such insured deposits exceeds the Maximum DI Coverage.\n(5) For the purposes of paragraph (4), the records shall be maintained for a period of one year from the date of the merger, consolidation or acquisition, as the case may be, or such other period as may be approved by the Minister pursuant to section 26(2) of the Act.\n(6) The acquiring DI Scheme member or the merged or consolidated DI Scheme member, as the case may be, shall engage an external auditor to verify that the records referred to in paragraph (4) have been prepared and that the DI Scheme member has put in place proper procedures to ensure that the records are maintained in a secure manner.\n(7) The acquiring DI Scheme member or the merged or consolidated DI Scheme member, as the case may be, shall submit the verification referred to in paragraph (6) to the Agency within such period as may be specified in the Rules.\n(8) Any DI Scheme member which contravenes paragraph (1), (2), (3), (4), (6) or (7) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 and, in the case of a continuing offence, to a further fine of $12,500 for every day or part thereof during which the offence continues after conviction.\n(9) In this regulation, “in a secure manner”, in relation to any information, means that when dealing with the information, the DI Scheme member shall comply with such requirements as may be specified in the Rules."
+   }
+  },
+  {
+   "id": "SG-H1148-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Register of insured deposits"
+   },
+   "text": {
+    "en": "12.—(1) Every DI Scheme member shall maintain at all times, a register of all its products which are insured deposits (referred to in this regulation as the Register), in such form and manner as may be specified in the Rules.\n(2) Every DI Scheme member shall, within 10 days from 1st April of each year, submit to the Agency a copy of the Register updated to 1st April of that year and an annex, in such form as may be specified in the Rules, setting out the product codes of each product, which is an insured deposit, in the Register (referred to in this regulation as the Annex).\n(3) A DI Scheme member shall notify the Agency of any change to the Register or Annex within 10 days of such change.\n(4) Any Register or Annex submitted by a DI Scheme member before 1st May 2011 pursuant to the rules issued by the Agency under section 19 of the repealed Act —\n(a)shall be deemed to have been submitted by the DI Scheme member under this regulation; and\n(b)shall be subject to this regulation.\n(5) Every DI Scheme member shall, within 10 days after 1st May 2011, notify the Agency of any change to the Register or Annex that was submitted to the Agency immediately before 1st May 2011.\n(6) A DI Scheme member shall, upon reasonable request, make available to any person a copy of the Register (last submitted to the Agency, together with all notification of change since that submission where such change has not been incorporated into the Register) for inspection, at every place of business of the DI Scheme member where insured deposits are offered.\n(7) Any DI Scheme member which contravenes paragraph (1), (2), (3), (5) or (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 and, in the case of a continuing offence, to a further fine of $12,500 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H1148-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Disclosure statement for insured deposits"
+   },
+   "text": {
+    "en": "13.—(1) Every DI Scheme member shall, in respect of every insured deposit that it offers or holds for insured depositors, state clearly that the insured deposit is covered under the DI Scheme up to the limits prescribed in the Act in all marketing materials, account opening forms and account statements for such deposits, whether in electronic, print or other form.\n(2) Where the statement required under paragraph (1) is in written form, the statement shall be clear and legible.\n(3) Any DI Scheme member which contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 and, in the case of a continuing offence, to a further fine of $12,500 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H1148-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Disclosure by DI Scheme member upon cessation"
+   },
+   "text": {
+    "en": "14.—(1) Subject to paragraph (2), every DI Scheme member shall, if any of the following events occurs, disclose in writing the occurrence of the event to every of its insured depositors, as soon as practicable:\n(a)that it will cease to be a DI Scheme member;\n(b)if any of its products which the DI Scheme member is, or has been, offering will cease to be an insured deposit under the Act; or\n(c)if any of its products which the DI Scheme member has classified as an insured deposit, will be reclassified as not being an insured deposit.\n(2) A DI Scheme member may disclose the occurrence of any of the events specified in paragraph (1) after the event if it is not possible to do so prior to the occurrence of the event.\n(3) Any —\n(a)DI Scheme member which merges or consolidates with another DI Scheme member; or\n(b)DI Scheme member (referred to in this regulation as the acquiring DI Scheme member) which acquires the deposit-taking business of another DI Scheme member to form part of the business of the acquiring DI Scheme member,\nshall disclose the following to every insured depositor which has insured deposits with each of the original DI Scheme members:\n(i)the insured depositor shall, for a period of one year after the date of the merger, consolidation or acquisition, as the case may be, be entitled to compensation in accordance with the Act as if the merger, consolidation or acquisition, as the case may be, did not take place; and\n(ii)the insured depositor shall be entitled to compensation in respect of his insured deposits with each of the original DI Scheme members, of an amount not exceeding the Maximum DI Coverage or the amount of insured deposits placed with the relevant DI Scheme member, whichever is the lower.\n(4) A DI Scheme member shall submit a copy of the disclosure required under paragraphs (1) and (3) to the Agency within such period as may be specified in the Rules.\n(5) Any DI Scheme member which contravenes paragraph (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 and, in the case of a continuing offence, to a further fine of $12,500 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "SG-H1148-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Prescribed insured deposit"
+   },
+   "text": {
+    "en": "15. For the purposes of the First Schedule to the Act, a sum of money paid by a person (the first-mentioned person) to a DI Scheme member or any other person as an agent of the first-mentioned person is prescribed as an insured deposit made by the first-mentioned person with the DI Scheme member, if it is paid for the purpose of making funds of the first-mentioned person available to the DI Scheme member under the following arrangement:\n(a)the payment is made to enable the DI Scheme member or the agent to purchase an asset on behalf of the first-mentioned person, being an asset that exists at the time of the purchase;\n(b)the DI Scheme member purchases the asset from the first-mentioned person at a price (the marked-up price) that is greater than the sum of money paid by the first-mentioned person, and sells the asset;\n(c)the first-mentioned person and the DI Scheme member, respectively, do not derive any gain or suffer any loss from any movement in the market value of the asset other than the difference between the marked-up price and the sum of money paid by the first-mentioned person (which represents the return to the first-mentioned person for making funds available to the DI Scheme member); and\n(d)no part of the marked-up price is required to be paid by the DI Scheme member to the first-mentioned person until after the date of sale of the asset by the DI Scheme member."
+   }
+  },
+  {
+   "id": "SG-H1148-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulations 2 and 5(1)\nEligible assets\nFirst column\nSecond column\nType of Asset\nPercentage\n1.Any Singapore dollar note or coin kept in Singapore\n85%\n2.Any Singapore Government Securities\n85%\n3.Any deposit placed with the Authority, after deducting any moneys due to the Authority\n85%\n4.Any security issued by the Authority pursuant to the Monetary Authority of Singapore Act (Cap. 186)\n85%\n5.Any debenture or debt security issued by Singapore Sukuk Pte. Ltd.\n85%\n6.Any outstanding amount due to a DI Scheme member under a housing loan granted to a resident of Singapore which is denominated in Singapore dollars and not classified\n85%\n7.Any outstanding amount due to a DI Scheme member under a credit facility, other than a housing loan, granted to a resident of Singapore (other than a banking corporation or merchant bank) which is denominated in Singapore dollars and not classified\n70%\n8.Any immovable property in Singapore\n60%."
+   }
+  },
+  {
+   "id": "SG-H1148-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 5(1)\nEligible Pledged Assets\nFirst column\nSecond column\nAsset Category\nPercentage\n1.Any Singapore dollar note or coin kept in Singapore\n100%\n2.Any Singapore Government Securities or debt security issued by a statutory body in Singapore (other than those of the Authority) and guaranteed by the Government\n100%\n3.Any security issued by the Authority pursuant to the Monetary Authority of Singapore Act (Cap. 186)\n100%\n4.Any debenture or debt security issued by Singapore Sukuk Pte. Ltd.\n100%\n5.Any deposit placed with the Authority, after deducting any moneys due to the Authority\n100%\n6.Any debt security issued by a statutory body in Singapore (other than that of the Authority) not guaranteed by the Government\n95%\n7.Any debt security (other than that of a banking corporation or merchant bank) which have a long-term rating of investment grade\n90%\n8.Any shares listed on a securities exchange and issued by a company (other than a banking corporation, a merchant bank or a counterparty related to the DI Scheme member) which is incorporated in Singapore\n70%\n9.Any shares listed on a securities exchange and issued by a company (other than a banking corporation, a merchant bank or a counterparty related to the DI Scheme member) which is established or incorporated outside Singapore\n55%."
+   }
+  },
+  {
+   "id": "SG-H1148-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulation 6(1) and (2)\nPremium Rates applicable to DI Scheme members\nFirst column\nSecond column\nCategory of DI Scheme members\nPremium rate\n1.A DI Scheme member which is —\n0.025%\n(a)incorporated in Singapore; or\n(b)a foreign bank with an asset maintenance ratio of more than 5\n2.A DI Scheme member which is a foreign bank with an asset maintenance ratio of more than 2 but not more than 5\n0.035%\n3.A DI Scheme member which is a foreign bank with an asset maintenance ratio of 2 or less\n0.08%.\n[S 873/2018 wef 31/12/2018]"
+   }
+  }
+ ]
+}

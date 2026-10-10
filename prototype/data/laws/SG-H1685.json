@@ -1,0 +1,644 @@
+{
+ "id": "SG-H1685",
+ "title": {
+  "zh": null,
+  "en": "Health Products (Active Ingredients) Regulations 2023",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p21",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation HPA2007-S831-2023",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 38,
+ "chars": 44559,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/HPA2007-S831-2023?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 38 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1685-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Health Products (Active Ingredients) Regulations 2023 and come into operation on 18 December 2023."
+   }
+  },
+  {
+   "id": "SG-H1685-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations —\n“appropriate non‑proprietary name”, in relation to an active ingredient, means —\n(a)the name or a synonym of the active ingredient described in the relevant monograph appearing in the latest edition of any of the following publications:\n(i)the British Pharmacopoeia;\n(ii)the European Pharmacopoeia;\n(iii)the United States Pharmacopoeia and the National Formulary;\n(b)where the active ingredient is not described in any publication mentioned in paragraph (a) — the name selected by the World Health Organisation as a recommended international non‑proprietary name for the active ingredient; or\n(c)where paragraph (a) or (b) is not applicable — the accepted scientific name or other name descriptive of the true nature of the active ingredient;\n“Authority’s website” means the Authority’s website at https://www.hsa.gov.sg;\n“clinical research” has the meaning given by regulation 2(1) of the Health Products (Clinical Research Materials) Regulations 2016 (G.N. No. S 332/2016);\n“CTGT product” means a cell, tissue or gene therapy product described in the First Schedule to the Act;\n“Good Distribution Practice standard” means the Authority’s Guidance Notes on Good Distribution Practice and any other good distribution practice standard approved by the Authority;\n“Good Manufacturing Practice standard” means the Pharmaceutical Inspection Convention and Pharmaceutical Inspection Co‑operation Scheme Guide to Good Manufacturing Practice for Medicinal Products;\n“importer’s licence” means a licence authorising the holder of the licence to import any active ingredient;\n“laboratory‑developed test” has the meaning given by regulation 2 of the Health Products (Medical Devices) Regulations 2010 (G.N. No. S 436/2010);\n“manufacture”, in relation to an active ingredient, means to make, fabricate, produce or process the active ingredient, and includes —\n(a)any process carried out in the course of so making, fabricating, producing or processing the active ingredient; and\n(b)the packaging and labelling of the active ingredient before it is supplied;\n“manufacturer’s licence” means a licence authorising the holder of the licence to manufacture any active ingredient;\n“medical device” means a medical device described in the First Schedule to the Act;\n“minimal manipulation”, in relation to a cell or tissue, has the meaning given by regulation 2(1) of the Health Products (Cell, Tissue and Gene Therapy Products) Regulations 2021 (G.N. No. S 104/2021);\n“non‑clinical purpose”, in relation to any health product, means any purpose not involving the application of the health product on, or use of the health product by, humans;\n“pharmacy licence” means a licence issued under the Health Products (Licensing of Retail Pharmacies) Regulations 2016 (G.N. No. S 330/2016);\n“proprietary name” means a word or words used in connection with the sale or supply of an active ingredient for the purpose of indicating that it is the product of a particular person who manufactures, selects the name of, certifies or deals with the active ingredient, or offers it for sale or supply;\n“psychotropic substance” means a substance specified in the First Schedule to the Health Products (Therapeutic Products) Regulations 2016 (G.N. No. S 329/2016);\n“qualified pharmacist” means a person who —\n(a)is registered as a pharmacist under the Pharmacists Registration Act 2007;\n(b)holds a valid practising certificate granted under section 23 of that Act; and\n(c)is in active practice as defined in regulation 2 of the Pharmacists Registration (Practising Certificates) Regulations 2008 (G.N. No. S 438/2008);\n“relevant health product” means a health product specified in regulation 3(a), (b) or (c);\n“specified healthcare service licensee” has the meaning given by regulation 2(1) of the Health Products (Therapeutic Products) Regulations 2016;\n“supply”, in relation to an active ingredient, means to transfer possession of the active ingredient by any means whether or not for reward, and includes the following:\n(a)to sell the active ingredient, whether by retail, wholesale or auction;\n(b)to expose or display the active ingredient as an invitation to treat;\n(c)to transfer possession of the active ingredient by exchange or gift;\n(d)to supply the active ingredient in connection with —\n(i)a contract for the provision of any goods or the performance of any service; or\n(ii)any advertising, sponsorship or promotional activity;\n(e)to offer, agree or attempt to supply the active ingredient in any of the ways described in paragraphs (a) to (d) or to cause or permit the active ingredient to be so supplied;\n(f)to keep or possess the active ingredient for the purpose of supplying the active ingredient in any of the ways described in paragraphs (a) to (e);\n“therapeutic product” means a therapeutic product described in the First Schedule to the Act;\n“wholesale”, in relation to an active ingredient, means any one or more of the following:\n(a)supplying the active ingredient to a person who obtains the active ingredient for the purposes of supplying the active ingredient again to some other person;\n(b)supplying the active ingredient to a person as a commercial sample in the normal course of a lawful trade;\n(c)supplying the active ingredient to a Government department or statutory body which requires the active ingredient for the purposes of the public service or use in connection with the exercise of any statutory power;\n(d)supplying the active ingredient to a person or an institution concerned with scientific education or research which requires the active ingredient for the purpose of education or research;\n(e)supplying the active ingredient to a person who requires to use the active ingredient for the purpose of the person’s business or trade;\n(f)supplying the active ingredient by export to a party outside Singapore;\n“wholesaler’s licence” means a licence authorising the holder of the licence to supply any active ingredient by wholesale.\n(2) For the purposes of these Regulations —\n(a)an active ingredient is adulterated if it contains or has been mixed with any substance or ingredient that is not stated on its label as being one of its constituent substances or ingredients;\n(b)an active ingredient is counterfeit if —\n(i)it is presented in such a manner as to resemble or pass off as an active ingredient with a proprietary name when in fact it is not; or\n(ii)it is presented with any false information as to its manufacturer or origin;\n(c)an active ingredient has been tampered with if it has been modified or interfered with in any way, including through the introduction or incorporation in the active ingredient of any substance or component that is not referred to in the specifications of its manufacturer; and\n(d)an active ingredient is unwholesome if —\n(i)it is not in conformity as regards quality or purity with the specifications of its manufacturer;\n(ii)it has a standard of quality or purity which falls below or which differs from, that which is represented on its label;\n(iii)any of its constituent substances or ingredients, as stated on its label, has been extracted or omitted from it;\n(iv)it consists in whole or in part of any filthy, putrid or decomposed substance;\n(v)it has been manufactured or stored under unsanitary conditions;\n(vi)it has been kept in a package which is composed in whole or in part of any substance which may render the contents injurious to health;\n(vii)it has been packed with any substance so as to reduce the purity, quality or beneficial properties that it would have had if it had not been so packed; or\n(viii)it has passed its expected useful life or its expiry date as assigned by its manufacturer."
+   }
+  },
+  {
+   "id": "SG-H1685-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "3. For the purposes of section 46 of the Act, Part 9 of the Act and these Regulations apply to and in relation to the active ingredients specified in the Schedule that are usable in the manufacture of any of the following health products (called in these Regulations a relevant health product):\n(a)any therapeutic product;\n(b)any CTGT product that is not a result of only minimal manipulation of cell or tissue;\n(c)any medical device."
+   }
+  },
+  {
+   "id": "SG-H1685-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 PROHIBITION AGAINST DEALING WITH ADULTERATED,COUNTERFEIT, ETC., ACTIVE INGREDIENTS"
+   },
+   "heading": {
+    "en": "Prohibition against manufacture of adulterated, counterfeit or unwholesome active ingredients"
+   },
+   "text": {
+    "en": "4.—(1) Subject to paragraph (2), a person must not manufacture, or procure or arrange for the manufacture of, any active ingredient that is —\n(a)an adulterated active ingredient;\n(b)a counterfeit active ingredient; or\n(c)an unwholesome active ingredient.\n(2) Paragraph (1)(c) does not apply in relation to an active ingredient that is unwholesome only by reason of the active ingredient —\n(a)not being in conformity as regards quality or purity with the specifications of its manufacturer; or\n(b)having a standard of quality or purity which falls below or which differs from, that which is represented on its label.\n(3) In any proceedings for an offence under section 47(4) of the Act for a contravention of paragraph (1), it is a defence for the accused to prove that the accused had taken all such precautions and exercised all such due diligence as could reasonably be expected of the accused in the circumstances to ensure that the active ingredient is not an adulterated, counterfeit or unwholesome active ingredient."
+   }
+  },
+  {
+   "id": "SG-H1685-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 PROHIBITION AGAINST DEALING WITH ADULTERATED,COUNTERFEIT, ETC., ACTIVE INGREDIENTS"
+   },
+   "heading": {
+    "en": "Prohibition against import or supply of adulterated, counterfeit, etc., active ingredients"
+   },
+   "text": {
+    "en": "5.—(1) A person must not import or supply, or procure or arrange for the import or supply of, any active ingredient that is —\n(a)an adulterated active ingredient;\n(b)a counterfeit active ingredient;\n(c)an active ingredient that has been tampered with; or\n(d)an unwholesome active ingredient.\n(2) In any proceedings for an offence under section 47(4) of the Act for a contravention of paragraph (1), it is a defence for the accused to prove that —\n(a)the accused —\n(i)did not know;\n(ii)had no reason to believe; and\n(iii)could not, with reasonable diligence, have ascertained,\nthat the active ingredient was an adulterated active ingredient, a counterfeit active ingredient, an active ingredient that has been tampered with or an unwholesome active ingredient; and\n(b)the accused had taken all such precautions and exercised all such due diligence as could reasonably be expected of the accused in the circumstances to ensure that the active ingredient is not an adulterated active ingredient, a counterfeit active ingredient, an active ingredient that has been tampered with or an unwholesome active ingredient."
+   }
+  },
+  {
+   "id": "SG-H1685-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 3 LICENCES"
+   },
+   "heading": {
+    "en": "Licence required for manufacture of active ingredients"
+   },
+   "text": {
+    "en": "6.—(1) Subject to regulation 9, a person must not manufacture any active ingredient unless —\n(a)the person holds a valid manufacturer’s licence; and\n(b)the manufacture of the active ingredient is carried out in accordance with the conditions of the licence.\n(2) A manufacturer of any active ingredient must not use any premises or facility for the manufacture of the active ingredient unless the premises or facility is authorised for such use under the manufacturer’s licence or the provisions of the Act, or by the Authority."
+   }
+  },
+  {
+   "id": "SG-H1685-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 3 LICENCES"
+   },
+   "heading": {
+    "en": "Licence required for import of active ingredients"
+   },
+   "text": {
+    "en": "7.—(1) Subject to regulation 10, a person must not import any active ingredient unless —\n(a)the person holds a valid importer’s licence; and\n(b)the import of the active ingredient is carried out in accordance with the conditions of the licence.\n(2) An importer of any active ingredient must not use any premises or facility for storing the active ingredient upon its entry into Singapore unless the premises or facility is authorised for such use under the importer’s licence held by the importer or the provisions of the Act, or by the Authority."
+   }
+  },
+  {
+   "id": "SG-H1685-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 LICENCES"
+   },
+   "heading": {
+    "en": "Licence required for wholesale of active ingredients"
+   },
+   "text": {
+    "en": "8.—(1) Subject to regulation 11, a person must not supply any active ingredient by wholesale unless —\n(a)the person holds a valid wholesaler’s licence; and\n(b)the wholesale supply of the active ingredient is carried out in accordance with the conditions of the licence.\n(2) A wholesaler of any active ingredient must not use any premises or facility for storing the active ingredient prior to distribution unless the premises or facility is authorised for such use under the wholesaler’s licence held by the wholesaler or the provisions of the Act, or by the Authority."
+   }
+  },
+  {
+   "id": "SG-H1685-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 LICENCES"
+   },
+   "heading": {
+    "en": "Persons who do not require manufacturer’s licences"
+   },
+   "text": {
+    "en": "9. A person may, without a manufacturer’s licence, manufacture an active ingredient if —\n(a)the active ingredient is intended to be used for any purpose other than in the manufacture of a relevant health product;\n(b)the active ingredient is manufactured solely for use in the manufacture of a relevant health product that is intended to be used only for a non‑clinical purpose;\n(c)the active ingredient is manufactured solely for use in the manufacture of a relevant health product (whether it is manufactured in Singapore or elsewhere) that is intended to be used only in clinical research (whether conducted in Singapore or elsewhere);\n(d)the person holds a manufacturer’s licence (other than a manufacturer’s licence only for primary or secondary packaging) for a therapeutic product and the active ingredient is intended for use in the manufacture of a therapeutic product by that person; or\n(e)the person holds a manufacturer’s licence (other than a manufacturer’s licence only for secondary packaging) for a CTGT product and the active ingredient is intended for use in the manufacture of a CTGT product by that person."
+   }
+  },
+  {
+   "id": "SG-H1685-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 LICENCES"
+   },
+   "heading": {
+    "en": "Persons who do not require importer’s licences"
+   },
+   "text": {
+    "en": "10. A person may, without an importer’s licence, import an active ingredient if —\n(a)the person holds a manufacturer’s licence and the active ingredient is required for use in, or for the purpose of carrying out, the manufacture of any active ingredient, in accordance with the conditions of the manufacturer’s licence;\n(b)the person is a specified healthcare service licensee and the active ingredient is imported for the purposes of compounding a therapeutic product in accordance with regulation 46 of the Health Products (Therapeutic Products) Regulations 2016;\n(c)the person holds a pharmacy licence and the active ingredient is imported for the purposes of compounding a therapeutic product in accordance with regulation 48 of the Health Products (Therapeutic Products) Regulations 2016;\n(d)the person manufactures a laboratory‑developed test under regulation 3B of the Health Products (Medical Devices) Regulations 2010 and the active ingredient is imported only for the purposes of manufacturing the laboratory‑developed test;\n(e)the person holds a manufacturer’s licence (other than a manufacturer’s licence only for primary or secondary packaging) for a therapeutic product and the active ingredient is imported for use in the manufacture of a therapeutic product by that person;\n(f)the person holds a manufacturer’s licence (other than a manufacturer’s licence only for secondary packaging) for a CTGT product and the active ingredient is imported for use in the manufacture of a CTGT product by that person;\n(g)the person holds a manufacturer’s licence for a medical device, other than a manufacturer’s licence that authorises the manufacture of medical devices only by way of secondary assembly, and the active ingredient is imported for use in the manufacture of a medical device by that person; or\n(h)the active ingredient is imported solely for use in the manufacture of a relevant health product in Singapore that is intended to be used only in clinical research (whether conducted in Singapore or elsewhere) and the person, before importing the active ingredient, gives the Authority notice of the import in the form and manner, and within the time, specified on the Authority’s website."
+   }
+  },
+  {
+   "id": "SG-H1685-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 LICENCES"
+   },
+   "heading": {
+    "en": "Persons who do not require wholesaler’s licences"
+   },
+   "text": {
+    "en": "11.—(1) A person may, without a wholesaler’s licence, supply by wholesale any active ingredient if —\n(a)the person holds a manufacturer’s licence;\n(b)the active ingredient is manufactured by the person under the manufacturer’s licence;\n(c)the person is able to provide and maintain, or ensure the provision and maintenance of, such staff, premises, equipment and facilities for the distribution of the active ingredient as are necessary to prevent the deterioration of the active ingredient while it is in the person’s ownership, possession or control; and\n(d)the supply of the active ingredient is in accordance with any terms and conditions that the Authority may specify in the manufacturer’s licence.\n(2) A person may, without a wholesaler’s licence, supply by wholesale any active ingredient if —\n(a)the person holds an importer’s licence;\n(b)the person imported the active ingredient solely for the purpose of export; and\n(c)the supply of the active ingredient is in accordance with any terms and conditions that the Authority may specify in the importer’s licence.\n(3) A person may, without a wholesaler’s licence, supply by wholesale any active ingredient if the active ingredient is intended for use in, or for the purpose of carrying out, the manufacture of a relevant health product that —\n(a)is solely for a non‑clinical purpose; and\n(b)is not for any supply to the public.\n(4) A person may, without a wholesaler’s licence, supply by wholesale any active ingredient if the active ingredient —\n(a)is supplied for any purpose other than in the manufacture of a product for use on or by humans; or\n(b)subject to paragraph (5), is supplied solely for use in the manufacture of a relevant health product (whether it is manufactured in Singapore or elsewhere) that is intended to be used only in clinical research (whether conducted in Singapore or elsewhere).\n(5) In addition to paragraph (4)(b), if the active ingredient is supplied solely for use in the manufacture of a relevant health product in Singapore by the same person manufacturing the active ingredient that is intended to be used only in clinical research conducted in Singapore, the person must, before supplying the active ingredient, give the Authority notice of the supply in the form and manner, and within the time, specified on the Authority’s website."
+   }
+  },
+  {
+   "id": "SG-H1685-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 LICENCES"
+   },
+   "heading": {
+    "en": "Requirements for issue of manufacturer’s licence"
+   },
+   "text": {
+    "en": "12. For the purposes of section 24(2)(a)(i) of the Act, the requirements that must be satisfied for the issue of a manufacturer’s licence for an active ingredient are that —\n(a)the applicant for the licence is able to provide and maintain, or ensure the provision and maintenance of, the staff, premises, equipment and facilities that are necessary for all of the following:\n(i)carrying out the manufacture of the active ingredient to be authorised by the licence;\n(ii)the proper handling, storage and distribution of the active ingredient so as to prevent the deterioration of the active ingredient while it is in the applicant’s ownership, possession or control;\n(b)the applicant for the licence is able to conduct all manufacturing operations in such a way as to ensure that the active ingredient is of the correct identity and conforms with the applicable standards of quality for that active ingredient; and\n(c)the applicant for the licence is able to comply with the Good Manufacturing Practice standard in relation to the manufacture of the active ingredient."
+   }
+  },
+  {
+   "id": "SG-H1685-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 LICENCES"
+   },
+   "heading": {
+    "en": "Requirements for issue of importer’s licence"
+   },
+   "text": {
+    "en": "13. For the purposes of section 24(2)(a)(i) of the Act, the requirements that must be satisfied for the issue of an importer’s licence for an active ingredient are that —\n(a)the applicant for the licence is able to provide and maintain, or ensure the provision and maintenance of, the staff, premises, equipment and facilities for the proper handling and storage of the active ingredient that are necessary to prevent the deterioration of the active ingredient while it is in the applicant’s ownership, possession or control; and\n(b)where the active ingredient is to be supplied for the manufacture of a relevant health product intended for any use on or by humans in Singapore — the applicant is able to comply with the requirements in the relevant Good Distribution Practice standard."
+   }
+  },
+  {
+   "id": "SG-H1685-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 LICENCES"
+   },
+   "heading": {
+    "en": "Requirements for issue of wholesaler’s licence"
+   },
+   "text": {
+    "en": "14. For the purposes of section 24(2)(a)(i) of the Act, the requirements that must be satisfied for the issue of a wholesaler’s licence for an active ingredient are that —\n(a)the applicant for the licence is able to provide and maintain, or ensure the provision and maintenance of, the staff, premises, equipment and facilities that are necessary for the proper handling, storage and distribution of the active ingredient to prevent the deterioration of the active ingredient while it is in the applicant’s ownership, possession or control; and\n(b)the applicant for the licence is able to comply with the requirements in the relevant Good Distribution Practice standard."
+   }
+  },
+  {
+   "id": "SG-H1685-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 4 DUTIES OF PERSONS DEALING WITH ACTIVE INGREDIENTS"
+   },
+   "heading": {
+    "en": "Storage of active ingredients"
+   },
+   "text": {
+    "en": "15. For the purposes of storing any active ingredient, a person must —\n(a)store the active ingredient in a container that is —\n(i)impervious to the active ingredient; and\n(ii)sufficiently stout to prevent leakage from the container arising from the ordinary risks of handling and transport; and\n(b)store any container mentioned in paragraph (a) containing an active ingredient in a place that is —\n(i)reserved solely for the storage of active ingredients; and\n(ii)not accessible to members of the public."
+   }
+  },
+  {
+   "id": "SG-H1685-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 4 DUTIES OF PERSONS DEALING WITH ACTIVE INGREDIENTS"
+   },
+   "heading": {
+    "en": "Transport of active ingredients"
+   },
+   "text": {
+    "en": "16. For the purposes of transporting any active ingredient, a person must not —\n(a)consign the active ingredient for transport unless it is so packed as to avoid leakage arising from the ordinary risks of handling and transport;\n(b)consign the active ingredient for transport by a carrier unless the package is labelled conspicuously with the name of the active ingredient and a notice indicating that it is to be kept separate from foodstuffs and from empty containers in which foodstuffs have been kept; or\n(c)knowingly transport any active ingredient, either on the person’s own behalf or for another person, in any vehicle in which food is being transported, unless the food is carried in a part of the vehicle effectively separated from that containing the active ingredient or is otherwise adequately protected from the risk of contamination."
+   }
+  },
+  {
+   "id": "SG-H1685-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 4 DUTIES OF PERSONS DEALING WITH ACTIVE INGREDIENTS"
+   },
+   "heading": {
+    "en": "Import of active ingredients that are psychotropic substances"
+   },
+   "text": {
+    "en": "17.—(1) In addition to the requirements in regulation 7 (if applicable), any person who intends to import an active ingredient that is a psychotropic substance must obtain the Authority’s prior approval for each consignment of the active ingredient to be imported.\n(2) The amount of each consignment of the active ingredient to be imported under paragraph (1) must not exceed the quantity approved by the Authority."
+   }
+  },
+  {
+   "id": "SG-H1685-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 DUTIES OF PERSONS DEALING WITH ACTIVE INGREDIENTS"
+   },
+   "heading": {
+    "en": "Export of active ingredients that are psychotropic substances"
+   },
+   "text": {
+    "en": "18. In addition to the requirements in regulation 8 (if applicable), any person who intends to export an active ingredient that is a psychotropic substance must obtain the Authority’s prior approval for each consignment of the active ingredient to be exported."
+   }
+  },
+  {
+   "id": "SG-H1685-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 DUTIES OF PERSONS DEALING WITH ACTIVE INGREDIENTS"
+   },
+   "heading": {
+    "en": "No retail supply of active ingredients"
+   },
+   "text": {
+    "en": "19. A person must not supply any active ingredient to another person unless it is a supply by wholesale."
+   }
+  },
+  {
+   "id": "SG-H1685-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 4 DUTIES OF PERSONS DEALING WITH ACTIVE INGREDIENTS"
+   },
+   "heading": {
+    "en": "Information that must accompany supply of active ingredient"
+   },
+   "text": {
+    "en": "20.—(1) A person who supplies an active ingredient must ensure that the active ingredient is accompanied by all of the following information, where applicable, when it is supplied:\n(a)the name of the active ingredient, being the appropriate non‑proprietary name and, where applicable, the proprietary name;\n(b)an appropriate identification number, including the control number, lot number, batch number or serial number;\n(c)the expiry or retest date (as the case may be) of the active ingredient in accordance with paragraph (3);\n(d)the conditions under which the active ingredient must be stored;\n(e)where any characteristic of the active ingredient requires any special measure or care to be taken in the handling, processing or storage of the active ingredient — an appropriate warning of that characteristic;\n(f)a precaution relating to the disposal of any unused active ingredient or any waste derived from the active ingredient (where appropriate) and any available collection system for the unused active ingredient or waste;\n(g)the name of the manufacturer of the active ingredient.\n(2) All information accompanying the active ingredient mentioned in paragraph (1) —\n(a)must be provided in English; and\n(b)must be legible and indelible.\n(3) A date mentioned in paragraph (1)(c) must be specified in day (if applicable), month and year format and stated in a manner that avoids any confusion as to which is the day (if applicable), which is the month and which is the year."
+   }
+  },
+  {
+   "id": "SG-H1685-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 4 DUTIES OF PERSONS DEALING WITH ACTIVE INGREDIENTS"
+   },
+   "heading": {
+    "en": "Wholesale of active ingredients"
+   },
+   "text": {
+    "en": "21. A person who supplies by wholesale to another (called the recipient) any active ingredient must —\n(a)before the supply, ensure that there is an order in writing, signed by the recipient, stating the recipient’s name and address, trade, business or profession, and the name and total quantity of the active ingredient supplied;\n(b)before the supply, be satisfied that the recipient carries on the trade, business or profession stated in the order mentioned in paragraph (a) and that such trade, business or profession is one in which the active ingredient is used; and\n(c)after the supply, insert in the appropriate entry in the record of supply prescribed by regulation 23(2)(b) a reference number by which the order can be identified."
+   }
+  },
+  {
+   "id": "SG-H1685-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 4 DUTIES OF PERSONS DEALING WITH ACTIVE INGREDIENTS"
+   },
+   "heading": {
+    "en": "Duty to maintain records of manufacture"
+   },
+   "text": {
+    "en": "22.—(1) A manufacturer of an active ingredient (other than an active ingredient mentioned in regulation 9(a) or (b)) must maintain records of —\n(a)the information relating to the active ingredient and its manufacture or assembly as the Authority may specify on the Authority’s website or, if the manufacturer is the holder of a manufacturer’s licence, in the manufacturer’s licence; and\n(b)the manufacture of each batch of the active ingredient and of the tests carried out on each such batch, in the manner specified on the Authority’s website or in the relevant licence issued by the Authority (if applicable).\n(2) The manufacturer must maintain for any active ingredient the records mentioned in paragraph (1) for the longer of the following periods:\n(a)one year after the expiry date of the active ingredient;\n(b)5 years after the date of manufacture of the active ingredient."
+   }
+  },
+  {
+   "id": "SG-H1685-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 4 DUTIES OF PERSONS DEALING WITH ACTIVE INGREDIENTS"
+   },
+   "heading": {
+    "en": "Duty to maintain records of receipt and supply"
+   },
+   "text": {
+    "en": "23.—(1) Paragraphs (2) and (3) apply to a person (P) who is a manufacturer, an importer or a wholesaler of an active ingredient.\n(2) P must —\n(a)if P is not the manufacturer of the active ingredient, maintain a record of every receipt by P of the active ingredient;\n(b)maintain a record of every supply by P of the active ingredient; and\n(c)produce for inspection by the Authority or an enforcement officer the record of every receipt or supply as and when required by the Authority or enforcement officer.\n(3) P must ensure that every record mentioned in paragraph (2) —\n(a)contains, in relation to each receipt by P of the active ingredient, all of the following information:\n(i)the appropriate non‑proprietary name and, where applicable, the proprietary name, of the active ingredient, if the active ingredient is supplied by a manufacturer, an importer or a wholesaler, as the case may be;\n(ii)the date on which the active ingredient is received;\n(iii)the name and address of the person from whom the active ingredient is received;\n(iv)the quantity of the active ingredient received;\n(v)the identification number (including the control number, lot number, batch number or serial number) of the active ingredient received;\n(b)contains, in relation to each supply by P of the active ingredient, all of the following information:\n(i)the proprietary name or appropriate non‑proprietary name of the active ingredient;\n(ii)the date on which the active ingredient is supplied;\n(iii)the name and address of the person to whom the active ingredient is supplied;\n(iv)the quantity of the active ingredient supplied;\n(v)the identification number (including the control number, lot number, batch number or serial number) of the active ingredient supplied; and\n(c)is retained for at least 2 years after the date on which the active ingredient is so supplied to another person."
+   }
+  },
+  {
+   "id": "SG-H1685-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 4 DUTIES OF PERSONS DEALING WITH ACTIVE INGREDIENTS"
+   },
+   "heading": {
+    "en": "Duty to maintain records of defects"
+   },
+   "text": {
+    "en": "24.—(1) This regulation applies only in relation to the manufacture or import of an active ingredient that is intended for use in the manufacture of a relevant health product intended to be used on or by humans.\n(2) Every manufacturer or importer of an active ingredient must —\n(a)maintain a record of every event or other occurrence that reveals any defect in the active ingredient; and\n(b)produce such record for inspection by the Authority or an enforcement officer as and when required by the Authority or enforcement officer.\n(3) A person mentioned in paragraph (2) must ensure that every record mentioned in that paragraph —\n(a)contains all of the following information:\n(i)the appropriate non‑proprietary name and, where applicable, the proprietary name, of the active ingredient which is defective;\n(ii)the date on which the person first became aware of the event or occurrence;\n(iii)the identification number (including the control number, lot number, batch number or serial number) of the active ingredient;\n(iv)the nature of the defect;\n(v)any other information that the Authority may specify in writing; and\n(b)is retained for at least 2 years after the expiry date of the active ingredient.\n(4) For the purposes of this regulation, an active ingredient has a defect if —\n(a)it has or has possibly been adulterated or tampered with;\n(b)it is or is possibly a counterfeit or an unwholesome active ingredient; or\n(c)it is or is possibly of inadequate quality or unsafe for its intended purpose."
+   }
+  },
+  {
+   "id": "SG-H1685-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 4 DUTIES OF PERSONS DEALING WITH ACTIVE INGREDIENTS"
+   },
+   "heading": {
+    "en": "Duty to notify Authority concerning recall"
+   },
+   "text": {
+    "en": "25.—(1) Every manufacturer of an active ingredient who intends to recall the active ingredient due to a defect or suspected defect in the active ingredient must immediately, but in any case no later than 24 hours before the start of the intended recall, notify the Authority of, and the reasons for, the intended recall.\n(2) Where the Authority has been notified of the intended recall of an active ingredient under paragraph (1), the Authority may by written notice require the manufacturer of the active ingredient to do all or any of the following:\n(a)investigate the matter occasioning the recall of the active ingredient and provide a report of the findings of the investigation;\n(b)issue or cause to be issued to any persons that the Authority may specify or to the general public a statement informing them of the recall of the health product and any other matter that the Authority considers necessary;\n(c)take any other measures that the Authority thinks necessary in respect of the recall.\n(3) A person to whom a notice in paragraph (2) is given must comply with the notice at the person’s own cost and within the time specified in the notice or, if no time is specified in the notice, within a reasonable time after the date of the notice.\n(4) For the purposes of paragraph (1), an active ingredient has a defect if the active ingredient —\n(a)is adulterated;\n(b)is counterfeit;\n(c)has been tampered with;\n(d)is unwholesome; or\n(e)is of an inadequate quality or is unsafe for the purpose for which the active ingredient was manufactured."
+   }
+  },
+  {
+   "id": "SG-H1685-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 4 DUTIES OF PERSONS DEALING WITH ACTIVE INGREDIENTS"
+   },
+   "heading": {
+    "en": "Duty of licensed manufacturer"
+   },
+   "text": {
+    "en": "26. Without affecting any other provision in this Part, a holder of a manufacturer’s licence for an active ingredient —\n(a)must ensure, and maintain objective evidence to establish, that the manufacture of the active ingredient complies with the Good Manufacturing Practice standard;\n(b)must provide and maintain, or ensure the provision and maintenance of, the staff, premises, equipment and facilities that are necessary for carrying out, in accordance with the holder’s licence, the stages of the manufacture of the active ingredient that are undertaken by the holder;\n(c)must not carry out any stage of manufacture of the active ingredient in any premises not specified in the holder’s licence;\n(d)must provide and maintain, or ensure the provision and maintenance of, the staff, premises, equipment and facilities for the proper handling and storage of the active ingredient that are necessary to prevent the deterioration of the active ingredient while it is in the holder’s ownership, possession or control;\n(e)must only use the premises specified in the holder’s licence, or any other premises that may be approved from time to time by the Authority, for handling or storing the active ingredient;\n(f)must carry out, or arrange for a testing laboratory as specified in the licence to carry out, tests on the quality and purity of the active ingredient to ensure that the standards of the active ingredient comply with any applicable standard set by the Authority for the active ingredient; and\n(g)must conduct all manufacturing operations in such a way as to ensure that the active ingredient is of the correct identity and conforms with the applicable standards of quality and purity for that active ingredient."
+   }
+  },
+  {
+   "id": "SG-H1685-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 4 DUTIES OF PERSONS DEALING WITH ACTIVE INGREDIENTS"
+   },
+   "heading": {
+    "en": "Duty of licensed importer"
+   },
+   "text": {
+    "en": "27. Without affecting any other provision in this Part, a holder of an importer’s licence for an active ingredient —\n(a)must ensure, and maintain objective evidence to establish, that the proper handling and storage of the active ingredient complies with any standard set out by the Authority on the Authority’s website for the active ingredient;\n(b)must provide and maintain, or ensure the provision and maintenance of, the staff, premises, equipment and facilities for the proper handling and storage of the active ingredient that are necessary to prevent the deterioration of the active ingredient while it is in the holder’s ownership, possession or control; and\n(c)must not use, for any purpose mentioned in paragraph (b), any premises other than the premises specified in the holder’s licence, or any other premises that may be approved from time to time by the Authority."
+   }
+  },
+  {
+   "id": "SG-H1685-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 4 DUTIES OF PERSONS DEALING WITH ACTIVE INGREDIENTS"
+   },
+   "heading": {
+    "en": "Duty of licensed wholesaler"
+   },
+   "text": {
+    "en": "28. Without affecting any other provision in this Part, a holder of a wholesaler’s licence for an active ingredient —\n(a)must ensure, and maintain objective evidence to establish, that the proper handling, storage and distribution of the active ingredient complies with any standard set out by the Authority on the Authority’s website for the active ingredient;\n(b)may only supply the active ingredient by wholesale to a person who may lawfully supply such active ingredients in accordance with the Act;\n(c)must provide and maintain, or ensure the provision and maintenance of, the staff, premises, equipment and facilities for the proper handling, storage and distribution of the active ingredient that are necessary to prevent the deterioration of the active ingredient while it is in the holder’s ownership, possession or control; and\n(d)must not use, for any purpose mentioned in paragraph (c), any premises other than the premises specified in the holder’s licence, or any other premises that may be approved from time to time by the Authority."
+   }
+  },
+  {
+   "id": "SG-H1685-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "chapter": {
+    "en": "PART 4 DUTIES OF PERSONS DEALING WITH ACTIVE INGREDIENTS"
+   },
+   "heading": {
+    "en": "Responsible person"
+   },
+   "text": {
+    "en": "29.—(1) A licensee must appoint one or more persons as a responsible person to be named as such in the licence.\n(2) The licensee must ensure that —\n(a)the responsible person has adequate knowledge of the activities to be carried out and of the procedures to be performed under the licence;\n(b)the responsible person has relevant working experience relating to those activities and procedures;\n(c)in the case of a manufacturer’s licence, the responsible person named in the licence has practical experience in production supervision or in testing and checking to ensure the quality of active ingredients;\n(d)in the case of an importer’s licence or a wholesaler’s licence for the import or supply by wholesale of active ingredients that are intended for manufacturing relevant health products for local clinical use, the responsible person named in the licence is a qualified pharmacist or any other person that the Authority may approve; and\n(e)at any time, there is at least one responsible person who is contactable by the Authority by way of a mobile telephone number or an email address.\n(3) The licensee must ensure that the responsible person discharges the duties imposed on such a person by the terms of the licence.\n(4) The licensee must ensure that no person, other than the person or persons named as the responsible person in the licence, acts as the responsible person."
+   }
+  },
+  {
+   "id": "SG-H1685-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "chapter": {
+    "en": "PART 4 DUTIES OF PERSONS DEALING WITH ACTIVE INGREDIENTS"
+   },
+   "heading": {
+    "en": "Changes affecting licences"
+   },
+   "text": {
+    "en": "30.—(1) A licensee must notify the Authority of —\n(a)any change or proposed change to any particulars provided by the licensee to the Authority in relation to the application for the licensee’s licence; and\n(b)any change or proposed change that significantly affects the activities of the licensee that are authorised by that licence.\n(2) A notice under paragraph (1) must —\n(a)be submitted within the time that the Authority specifies in the conditions of the licence;\n(b)be accompanied by the particulars, information, documents and samples as the Authority may require;\n(c)be accompanied by the relevant fee specified in the Health Products (Fees) Regulations 2022 (G.N. No. S 450/2022); and\n(d)if required by the Authority, be accompanied by a statutory declaration by the licensee verifying any information contained in or relating to the notice.\n(3) A licensee must not, without the Authority’s approval, make any change that significantly affects the activities of the licensee that are authorised by the licensee’s licence.\n(4) For the purposes of paragraphs (1) and (3), a change that significantly affects the activities of a licensee that are authorised by the licensee’s licence includes a change of one or more of the following:\n(a)the premises where the licensee operates;\n(b)the operations and processes carried out by the licensee;\n(c)the responsible person mentioned in regulation 29."
+   }
+  },
+  {
+   "id": "SG-H1685-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "chapter": {
+    "en": "PART 5 CERTIFICATES"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "31. Without affecting regulation 3, this Part also applies in relation to any active ingredient that is usable in the manufacture of a relevant health product, even if the active ingredient is not specified in the Schedule."
+   }
+  },
+  {
+   "id": "SG-H1685-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "chapter": {
+    "en": "PART 5 CERTIFICATES"
+   },
+   "heading": {
+    "en": "Certification of active ingredients intended for export"
+   },
+   "text": {
+    "en": "32.—(1) The Authority may, on the application of a person who intends to export an active ingredient, issue to the person a certificate certifying that it complies with the standards or requirements specified in the certificate.\n(2) An application for a certificate under paragraph (1) must be accompanied by the relevant fee specified in the Health Products (Fees) Regulations 2022."
+   }
+  },
+  {
+   "id": "SG-H1685-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "chapter": {
+    "en": "PART 5 CERTIFICATES"
+   },
+   "heading": {
+    "en": "Certificate of manufacturing standard of active ingredients"
+   },
+   "text": {
+    "en": "33.—(1) The Authority may —\n(a)on the application of a person who manufactures an active ingredient; and\n(b)on being satisfied, after completion of an assessment of conformity, that the manufacture of the active ingredient conforms to the Good Manufacturing Practice standard,\nissue to the person a certificate stating that the person has complied with the Good Manufacturing Practice standard in the manufacture of the active ingredient (called in this regulation a GMP certificate), subject to any terms and conditions that the Authority thinks fit.\n(2) Every GMP certificate issued is valid for a period specified in the certificate, being not longer than 3 years starting on the date of commencement of the assessment mentioned in paragraph (1).\n(3) An application for a GMP certificate must be accompanied by the relevant fee specified in the Health Products (Fees) Regulations 2022."
+   }
+  },
+  {
+   "id": "SG-H1685-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "chapter": {
+    "en": "PART 5 CERTIFICATES"
+   },
+   "heading": {
+    "en": "Certificate of distribution standard of active ingredients"
+   },
+   "text": {
+    "en": "34.—(1) The Authority may —\n(a)on the application of a person who distributes an active ingredient; and\n(b)on being satisfied, after completion of an assessment of conformity, that the person conforms to an applicable Good Distribution Practice standard,\nissue to the person a certificate stating that the person has complied with the applicable Good Distribution Practice standard in the distribution of the active ingredient (called in this regulation a GDP certificate), subject to any terms and conditions that the Authority thinks fit.\n(2) Every GDP certificate issued is valid for a period specified in the certificate, being not longer than 3 years starting on the date of commencement of the assessment mentioned in paragraph (1).\n(3) An application for a GDP certificate must be accompanied by the relevant fee specified in the Health Products (Fees) Regulations 2022."
+   }
+  },
+  {
+   "id": "SG-H1685-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Enforcement officers may conduct routine inspections"
+   },
+   "text": {
+    "en": "35.—(1) An enforcement officer may conduct routine inspections of —\n(a)any premises that are used for the manufacture, supply or storage of active ingredients; and\n(b)any conveyance that is being used for the transport of active ingredients.\n(2) An enforcement officer conducting a routine inspection under paragraph (1) may —\n(a)require any person having possession or control of any active ingredient that is found during the inspection to provide, without charge, a sample of such active ingredient for the Authority’s examination; and\n(b)take or cause to be taken any photograph of —\n(i)the premises or conveyance mentioned in paragraph (1); or\n(ii)any property or material found on the premises or in the conveyance."
+   }
+  },
+  {
+   "id": "SG-H1685-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "36."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Form and manner of applications and notices"
+   },
+   "text": {
+    "en": "36. Any application for any certificate or approval under these Regulations or any notice to be given to the Authority under these Regulations must be made or given in the form and manner specified on the Authority’s website."
+   }
+  },
+  {
+   "id": "SG-H1685-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "37."
+   },
+   "chapter": {
+    "en": "PART 6 MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Saving and transitional provisions"
+   },
+   "text": {
+    "en": "37.—(1) Any person who, immediately before 18 December 2023, is an existing manufacturer of an active ingredient is deemed to be a holder of a manufacturer’s licence under these Regulations until the earliest of the following dates:\n(a)the date the person is issued a manufacturer’s licence under section 24(2)(a) of the Act;\n(b)the date the person’s application for a licence under these Regulations is refused or withdrawn;\n(c)17 March 2024.\n(2) Any person who, immediately before 18 December 2023, is an existing dealer of an active ingredient is deemed to be a holder of both an importer’s licence and a wholesaler’s licence under these Regulations until the earliest of the following dates:\n(a)the date the person is issued either an importer’s licence or a wholesaler’s licence under section 24(2)(a) of the Act;\n(b)the date the person’s application for any licence under these Regulations is refused or withdrawn;\n(c)17 March 2024.\n(3) In this regulation —\n“existing dealer” means a person who, immediately before 18 December 2023, holds a valid licence issued under the Poisons Act 1938 for importing, storing and selling by wholesale any poison in the Poisons List in the Schedule to that Act (as set out in Form A of the Eighth Schedule to the Poisons Rules (R 1)) that is —\n(a)specified as an active ingredient in the Schedule to these Regulations; and\n(b)usable in the manufacture of any relevant health product;\n“existing manufacturer” means a person who —\n(a)before 18 December 2023 engaged in any of the following activities:\n(i)the manufacture of an active ingredient;\n(ii)the primary packaging of an active ingredient;\n(iii)the secondary packaging of an active ingredient; and\n(b)immediately before 18 December 2023 holds a valid —\n(i)manufacturer’s licence issued under the Act for the manufacture of a therapeutic product or a CTGT product; or\n(ii)GMP certificate for an active pharmaceutical ingredient issued under the Medicines Act 1975;\n“primary packaging”, in relation to an active ingredient, means the enclosure of the active ingredient in a container which is labelled before the active ingredient is sold or supplied;\n“secondary packaging”, in relation to an active ingredient that is already enclosed in the container in which it is to be sold or supplied, means —\n(a)the labelling of the container, or enclosure of the container with other packaging material; or\n(b)the labelling of the packaging material before the product is sold or supplied in it."
+   }
+  },
+  {
+   "id": "SG-H1685-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\nRegulations 3, 31 and 37(3)\nRegulated active ingredients\n1. Any substance specified in the First Schedule, or in Part 1 or 3 of the Second Schedule, to the Health Products (Therapeutic Products) Regulations 2016.\n2. Any active ingredient in any of the following classes:\n(a)Anti‑toxins\n(b)Anti‑venoms\n(c)Insulins\n(d)Plasma derivatives\n(e)Vaccine antigens\n3. Any of the following substances:\nA Disintegrin and Metalloproteinase with thrombospondin type-1 motifs 13 (rADAMTS-13)\nAcetylcholine\nAcetylcysteine\nAcetylsalicylic acid\nAmbroxol\nAmorolfine\nAntazoline\nAtogepant\nAxicabtagene ciloleucel\nBenzydamine\nBifonazole\nBisacodyl\nBrexucabtagene autoleucel\nBromhexine\nCarbocisteine\nCetirizine\nChlorpheniramine\nCholine salicylate\nClotrimazole\nCrotamiton\nCyclidrol\nDabrafenib\nDaprodustat\nDiclofenac\nDornase alfa\nEfgartigimod\nElagolix\nEphedrine\nFexofenadine\nFlurbiprofen\nGefapixant\nGuaifenesin\nHydrocortisone\nIbrexafungerp\nIbuprofen\nIchthammol\nKetoconazole\nKetoprofen\nLidocaine\nLignocaine\nLoratidine\nMalathion\nMeglumine amidotrizoate\nMiconazole\nMinoxidil\nMirvetuximab\nNaphazoline\nNaproxen\nNarsoplimab\nNoscapine\nOnasemnogene abeparvovec\nOxymetazoline\nPalbociclib\nPamabrom\nParacetamol\nPhenazone\nPheniramine\nPhenylephrine\nPiperazine\nSalicylamide\nSodium amidotrizoate\nSpheroids of human autologous matrix‑associated chondrocytes\nSucralfate\nSuvorexant\nTelisotuzumab\nTerbinafine\nTetrahydrozoline\nTisagenlecleucel\nTumenol ammonium\nUbrogepant\nUndecylenic acid\nVilanterol\nVoretigene neparvovec\nXylometazoline\nZinc undecylenate\n[S 766/2025 wef 01/12/2025]\n4. The stereoisomeric forms or salts of the substances specified in paragraphs 1 and 3 wherever the existence of such stereoisomeric forms or salts is possible.\n5. Any active ingredient intended for use in the manufacture in Singapore of a relevant health product that is intended only for use in clinical research (whether conducted in Singapore or elsewhere), where the active ingredient is not specified in paragraph 1, 2, 3 or 4."
+   }
+  }
+ ]
+}

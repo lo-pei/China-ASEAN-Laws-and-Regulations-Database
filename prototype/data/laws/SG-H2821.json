@@ -1,0 +1,775 @@
+{
+ "id": "SG-H2821",
+ "title": {
+  "zh": null,
+  "en": "Insurance (Lloyd’s Asia Scheme) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p35",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation IA1966-RG9",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 48,
+ "chars": 77524,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/IA1966-RG9?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 48 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 5 篇以 900000+ 序号随同收录。其中 4 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H2821-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Insurance (Lloyd’s Asia Scheme) Regulations."
+   }
+  },
+  {
+   "id": "SG-H2821-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“accounting period”, in relation to a syndicate, means the period beginning from the commencement of insurance business in Singapore by the syndicate under these Regulations or 1 January of any year, as the case may be, and ending 31 December of that year for which accounts relating to insurance business carried on in Singapore by the syndicate under these Regulations are kept, unless otherwise allowed by the Authority;\n[S 1094/2020 wef 31/12/2020]\n“Accounting Standards” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);\n[S 814/2004 wef 01/01/2005]\n“administrator”, for the purposes of these Regulations other than the definition of “member of Lloyd’s” in this regulation, means Lloyd’s of London (Asia) Pte. Ltd.;\n[S 180/2015 wef 01/04/2015]\n“agent”, in relation to a member of Lloyd’s, means an agent in respect of the carrying on of insurance business in Singapore by the member with authority to enter into contracts of insurance on behalf of the member;\n“Annual Report” means a report of Lloyd’s (including any statement of account) for each financial year that is submitted to the members of Lloyd’s;\n[S 839/2018 wef 01/01/2019]\n“binding authority” means an agreement between a Service Company and a coverholder under which the Service Company authorises the coverholder to enter into a contract of insurance on behalf of the members of a syndicate for whom the Service Company acts as an agent;\n[S 180/2015 wef 01/04/2015]\n“Board”, in relation to the administrator or a Service Company, means the board of directors of the administrator or the Service Company, as the case may be;\n[S 180/2015 wef 01/04/2015]\n“Chain of Security”, in relation to a member of Lloyd’s, means the member’s premiums trust fund, funds at Lloyd’s as defined in paragraph 17 of the Lloyd’s Membership Byelaw (No. 5 of 2005), other personal wealth of the member and the New Central Fund;\n[S 839/2018 wef 01/01/2019]\n“collective investment scheme” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);\n[S 814/2004 wef 01/01/2005]\n“Council of Lloyd’s” means the Council of Lloyd’s established by the Lloyd’s Act 1982 of the United Kingdom;\n“counterparty” means any person who is under a financial obligation to the Service Company, as an agent of a syndicate, in respect of the business of the syndicate written by the Service Company;\n[S 814/2004 wef 01/01/2005]\n“coverholder”, in relation to a Service Company, means a person authorised by the Service Company under a binding authority to enter into a contract of insurance on behalf of the members of a syndicate —\n(a)for whom the Service Company acts as an agent; and\n(b)who have authorised the Service Company to enter into such binding authority with the person;\n[S 180/2015 wef 01/04/2015]\n“debt security” includes any debenture, bond or note;\n[S 814/2004 wef 01/01/2005]\n[Deleted by S 1094/2020 wef 31/12/2020]\n“equity security” includes any stock, share, depository receipt or unit in a collective investment scheme;\n[S 814/2004 wef 01/01/2005]\n“executive officer”, in relation to the administrator or a Service Company, means any person, by whatever name described —\n(a)who —\n(i)is in the direct employment of the administrator or the Service Company, as the case may be;\n(ii)is acting for the administrator or the Service Company, as the case may be; or\n(iii)has an arrangement with the administrator or the Service Company, as the case may be, to act for the administrator or the Service Company; and\n(b)who is concerned with or takes part in the management of the administrator or the Service Company, as the case may be, on a day-to-day basis;\n[S 180/2015 wef 01/04/2015]\n“final judgment” means any final judgment given or made by a court of competent jurisdiction and includes a final award in proceedings on an arbitration (if the award has, in pursuance of the law in force in the place where it was made, become enforceable in the same manner as a judgment given by a court in that place) where —\n(a)there is no right of appeal against the judgment or award;\n(b)the time within which an appeal may be made has expired; or\n(c)the relevant member or Service Company has confirmed that it does not intend to appeal;\n“holding company” has the same meaning as in section 5 of the Companies Act;\n[S 665/2010 wef 04/11/2010]\n“Lloyd’s” means the society of underwriters known in the United Kingdom as Lloyd’s and incorporated by the Lloyd’s Act 1871 of the United Kingdom;\n“Lloyd’s Premiums Trust Deed” means a trust deed made by a member of Lloyd’s in a form determined by the Council of Lloyd’s as a form of trust deed in accordance with the provisions of which the member is to carry to a trust fund all amounts received or receivable by him, or on his behalf, in respect of any insurance business;\n“managing agent” means —\n(a)a person listed as a managing agent on the register of underwriting agents maintained under the Lloyd’s Underwriting Byelaw (No. 2 of 2003); or\n[S 814/2004 wef 01/01/2005]\n(b)a person appointed to perform the functions of a managing agent under Part K of the Lloyd’s Underwriting Byelaw (No. 2 of 2003);\n[S 814/2004 wef 01/01/2005]\n[S 839/2018 wef 01/01/2019]\n“member of Lloyd’s” means a person admitted to membership of Lloyd’s as an underwriting member and includes, where the context so requires, any person who has ceased to be a member of Lloyd’s and any administrator, administrative receiver, committee, curator bonis, executor, liquidator, manager, personal representative, supervisor or trustee in bankruptcy, or any other person by law entitled or bound to administer the affairs of the member or former member concerned;\n“New Central Fund” means the fund established under the Lloyd’s New Central Fund Byelaw (No. 23 of 1996);\n“permitted trust outgoings” means —\n(a)in relation to an insurance fund for Singapore policies established under regulation 11(1)(a), Permitted Singapore Policies Trust Outgoings, as defined in the Lloyd’s Asia (Singapore Policies) Instrument made by the Council of Lloyd’s on 13th February 2002; and\n(b)in relation to an insurance fund for offshore policies established under regulation 11(1)(b), Permitted Offshore Policies Trust Outgoings, as defined in the Lloyd’s Asia (Offshore Policies) Instrument made by the Council of Lloyd’s on 13th February 2002;\n[S 814/2004 wef 01/01/2005]\n“premiums trust fund”, in relation to a member of Lloyd’s, means the trust fund set up with respect to the member’s insurance business (other than long term business) constituted or regulated under the Lloyd’s Premiums Trust Deed and includes the member’s Singapore Policies Trust Fund and Offshore Policies Trust Fund constituted by the Lloyd’s Asia (Singapore Policies) Instrument and the Lloyd’s Asia (Offshore Policies) Instrument made by the Council of Lloyd’s respectively;\n“quarter” means —\n(a)a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October of any year; and\n(b)for a quarter in which a syndicate first commenced an insurance business in Singapore under these Regulations, the period beginning on the date on which the syndicate commenced the insurance business in Singapore and ending on the last date of that quarter,\nand “quarterly basis” is to be construed accordingly;\n[S 1094/2020 wef 31/12/2020]\n“reinsurance recoverables” means any amount that a Service Company or any coverholder authorised by the Service Company is entitled to recover on behalf of a syndicate, but has yet to recover, from the syndicate’s reinsurance counterparty in respect of claims that have been paid by the Service Company or the coverholder, as the case may be, on behalf of the syndicate;\n[S 180/2015 wef 01/04/2015]\n“senior officer”, in relation to a Service Company, includes —\n(a)a director, a secretary or an executive officer of the Service Company;\n(b)a receiver or a manager of any part of the undertaking of the Service Company appointed under a power contained in any instrument; or\n(c)the liquidator of the Service Company in a voluntary winding up;\n[S 180/2015 wef 01/04/2015]\n“Service Company” means any company registered with the administrator under regulation 6;\n“subsidiary” has the same meaning as in section 5 of the Companies Act (Cap. 50);\n[S 814/2004 wef 01/01/2005]\n“syndicate” means a member of Lloyd’s or a group of members of Lloyd’s underwriting insurance business at Lloyd’s through the agency of a managing agent to which member or group a particular syndicate number is assigned by or under the authority of the Council of Lloyd’s;\n[S 180/2015 wef 01/04/2015]\n“unit”, in relation to a collective investment scheme, has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);\n[S 814/2004 wef 01/01/2005]\n“valid claim” means a claim for a sum of money which is admitted to by the foreign insurer or its Service Company or which is payable under a final judgment;\n“valuation date” means the date on which the assets and liabilities of the business of a syndicate written by a Service Company are valued.\n[S 814/2004 wef 01/01/2005]"
+   }
+  },
+  {
+   "id": "SG-H2821-A2.001",
+   "no": 2.001,
+   "noLabel": {
+    "en": "2A."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Forms"
+   },
+   "text": {
+    "en": "2A.—(1) The forms and annexes and notes to the forms which are to be used for the purposes of these Regulations are those set out at the Authority’s website at http://www.mas.gov.sg, and any reference in these Regulations to a numbered form or annex (where such number includes alphanumeric characters) is construed as a reference to the current version of the form, annex or notes (as the case may be) bearing the corresponding number which is displayed at that website.\n(2) All forms and annexes and notes to the forms used for the purposes of these Regulations must be completed in the English language and in accordance with such instructions for completion as may be specified in the form or by the Authority.\n[S 839/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2821-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART II REQUIREMENTS RELATING TO AND DUTIES OF MEMBERS OF LLOYD’S CARRYING ON INSURANCE BUSINESS UNDER SCHEME"
+   },
+   "heading": {
+    "en": "Conditions for carrying on insurance business under Lloyd’s Asia Scheme"
+   },
+   "text": {
+    "en": "3.—(1) A member of Lloyd’s may carry on insurance business specified in the First Schedule in Singapore if —\n(a)the member registers with the administrator in accordance with regulation 4;\n(b)the member carries on insurance business, and enters into contracts of insurance, in Singapore through —\n(i)a Service Company; or\n(ii)a Service Company and a coverholder;\n[S 180/2015 wef 01/04/2015]\n(c)the member authorises any Service Company acting as his or its agent for the purposes of these Regulations —\n(i)to establish and maintain the insurance funds in respect of Singapore policies and offshore policies under regulation 11 and the deposits referred to in regulation 16; and\n(ii)to accept service of notices and legal processes in respect of or connected to the carrying on of insurance business in Singapore, including any notice or direction of the Authority to the member; and\n(d)Lloyd’s has given an undertaking to the Authority that the holder of any insurance policy issued by the member under these Regulations shall have recourse to the Chain of Security, in accordance with and subject to the terms of the relevant Lloyd’s trust deeds and Lloyd’s byelaws, conditions and requirements governing the trust deeds, to the same extent as the holder of a general business policy issued by the same member of Lloyd’s in London.\n(2) In paragraph (1), “relevant Lloyd’s trust deeds” means the member’s Lloyd’s Premiums Trust Deed, the Lloyd’s Asia (Singapore Policies) Instrument, the Lloyd’s Asia (Offshore Policies) Instrument, the member’s deposit trust deed or other trust deed governing the member’s Lloyd’s deposit or any special reserve trust deed."
+   }
+  },
+  {
+   "id": "SG-H2821-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART II REQUIREMENTS RELATING TO AND DUTIES OF MEMBERS OF LLOYD’S CARRYING ON INSURANCE BUSINESS UNDER SCHEME"
+   },
+   "heading": {
+    "en": "Registration of member of Lloyd’s"
+   },
+   "text": {
+    "en": "4.—(1) A member of Lloyd’s who wishes to carry on insurance business in Singapore under these Regulations shall apply to be registered with the administrator.\n(2) An application for registration under paragraph (1) shall be in such form and contain such particulars as the administrator may determine.\n(3) Upon receiving an application under paragraph (1), the administrator shall not register the applicant unless the administrator is satisfied —\n(a)that the applicant is a member of Lloyd’s; and\n(b)that the applicant has appointed one or more Service Companies through which he or it intends to carry on insurance business in Singapore."
+   }
+  },
+  {
+   "id": "SG-H2821-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART III REQUIREMENTS RELATING TO AND DUTIES OF SERVICE COMPANIES"
+   },
+   "heading": {
+    "en": "Requirements for Service Company"
+   },
+   "text": {
+    "en": "5. A person (other than a coverholder acting in accordance with the terms of a binding authority) must not act as an agent in Singapore for any member of Lloyd’s under these Regulations unless it is a company registered under the Companies Act (Cap. 50) and meets the following requirements:\n(a)the company must be registered with the administrator under regulation 6; and\n(b)the company must, unless the Authority otherwise permits, be —\n(i)a subsidiary of a managing agent at Lloyd’s; or\n(ii)a subsidiary of the holding company of a managing agent at Lloyd’s.\n[S 665/2010 wef 04/11/2010]\n[S 180/2015 wef 01/04/2015]"
+   }
+  },
+  {
+   "id": "SG-H2821-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART III REQUIREMENTS RELATING TO AND DUTIES OF SERVICE COMPANIES"
+   },
+   "heading": {
+    "en": "Registration of Service Company"
+   },
+   "text": {
+    "en": "6.—(1) A company (other than a coverholder acting in accordance with the terms of a binding authority) that wishes to act as an agent in Singapore for any member of Lloyd’s under these Regulations must apply to be registered with the administrator.\n[S 180/2015 wef 01/04/2015]\n(2) An application for registration under paragraph (1) shall be in such form and contain such particulars as the administrator may determine.\n(3) Upon receiving an application under paragraph (1), the administrator shall —\n(a)notify the Authority in writing of the application and furnish the Authority in writing with the particulars of the applicant set out in the Second Schedule and such other information as the Authority may require; and\n[S 814/2004 wef 01/01/2005]\n(b)register the applicant on the date of expiry of the period of 30 days commencing on the day immediately following the day on which the particulars and information referred to in sub-paragraph (a) were furnished to the Authority pursuant to the last request made by the Authority under that sub-paragraph, unless the Authority objects to the registration before that date of expiry.\n[S 814/2004 wef 01/01/2005]"
+   }
+  },
+  {
+   "id": "SG-H2821-A6.001",
+   "no": 6.001,
+   "noLabel": {
+    "en": "6A."
+   },
+   "chapter": {
+    "en": "PART III REQUIREMENTS RELATING TO AND DUTIES OF SERVICE COMPANIES"
+   },
+   "heading": {
+    "en": "Duties of Service Company"
+   },
+   "text": {
+    "en": "6A.—(1) A Service Company must not, without the approval of the Authority, enter into any contract of insurance on behalf of the members of a syndicate.\n[S 180/2015 wef 01/04/2015]\n(1A) Despite paragraph (1), a Service Company (called in this paragraph Lead Service Company) may enter into any contract of insurance on behalf of the members of a syndicate without the approval of the Authority if —\n(a)the Authority has approved another Service Company under paragraph (1) to enter into the contract of insurance on behalf of the members of that syndicate, and that approval has not been revoked;\n(b)the members of the syndicate have authorised the other Service Company to authorise the Lead Service Company to enter into the contract of insurance on behalf of the members of that syndicate; and\n(c)the other Service Company has authorised the Lead Service Company to enter into the contract of insurance on behalf of the members of the syndicate.\n[S 180/2015 wef 01/04/2015]\n(2) No Service Company shall write any insurance business, unless it has reason to believe that suitable arrangements for the reinsurance of the business written in Singapore are in place at all times and that the reinsurers are of good security.\n(3) Every Service Company shall immediately inform the Authority if —\n(a)it becomes aware that any arrangement referred to in paragraph (2) has been, is being or is likely to be rendered inadequate or ineffective;\n[S 180/2015 wef 01/04/2015]\n(b)for any accounting period, the permitted trust outgoings of any insurance fund established by it under regulation 11 exceed the premium receipts of that insurance fund;\n[S 180/2015 wef 01/04/2015]\n(c)any development has occurred or is likely to occur which the Service Company has reasonable grounds to believe is likely to have a material adverse effect on the financial position of the Service Company; or\n[S 180/2015 wef 01/04/2015]\n(d)it amends or alters its memorandum and articles of association.\n[S 180/2015 wef 01/04/2015]\n(4) Every Service Company must, within one month after any amendment or alteration to its memorandum and articles of association, furnish to the Authority written particulars of the amendment or alteration, verified by a statutory declaration made by a senior officer of the Service Company.\n[S 180/2015 wef 01/04/2015]\n(5) A Service Company must, not less than 14 days before authorising a person as its coverholder, notify the Authority in writing of the particulars set out in sub-paragraph (g) of the Fourth Schedule of the person.\n[S 180/2015 wef 01/04/2015]\n[S 665/2010 wef 04/11/2010]"
+   }
+  },
+  {
+   "id": "SG-H2821-A6.002",
+   "no": 6.002,
+   "noLabel": {
+    "en": "6B."
+   },
+   "chapter": {
+    "en": "PART III REQUIREMENTS RELATING TO AND DUTIES OF SERVICE COMPANIES"
+   },
+   "heading": {
+    "en": "Cancellation of registration of Service Company"
+   },
+   "text": {
+    "en": "6B.—(1) The Authority may, on any of the grounds set out in paragraph (2), in writing direct the administrator to cancel the registration of any Service Company.\n(2) The grounds referred to in paragraph (1) are —\n(a)that the Service Company has not commenced business within 12 months after being registered under regulation 6;\n(b)that the Service Company has ceased to act as an agent in Singapore for any member of Lloyd’s;\n(c)that it appears to the Authority that the Service Company has failed to satisfy an obligation to which it is subject by virtue of these Regulations;\n(d)that the Service Company proposes to make, or has made, any composition or arrangement with its creditors or has gone into liquidation or has been wound up or otherwise dissolved;\n(e)that the Service Company is carrying on its business in a manner likely to be detrimental to the interest of the policy owners of insurance policies issued by any member of Lloyd’s or syndicate for which it acts as an agent;\n(f)that the Service Company has failed to ensure that suitable reinsurance arrangements have been effected as required under regulation 6A(2);\n(g)that the Service Company has contravened any of the provisions of the Act, any of the regulations made thereunder or any direction given by the Authority under the Act or the regulations made thereunder;\n(h)that any of the officers of the Service Company holding a managerial or executive position has been convicted of any offence under the Act or the regulations made thereunder;\n(i)that the Service Company has, in its application for registration under regulation 6(1), furnished false, misleading or inaccurate information, or concealed or failed to disclose material facts;\n[S 180/2015 wef 01/04/2015]\n(ia)that a receiver, a receiver and manager, or any other person having the powers and duties of a receiver, or a receiver and manager, has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of any property of, the Service Company or any of the shareholders of the Service Company having control of the Service Company;\n[S 180/2015 wef 01/04/2015]\n(ib)that there is a change of a person having control of the Service Company and —\n(i)the new person is not a fit and proper person to control the Service Company; or\n(ii)the Authority is not satisfied as to the financial standing of the Service Company after the change; and\n[S 180/2015 wef 01/04/2015]\n(j)that it is in the public interest to cancel the registration of the Service Company.\n(2A) Section 12(10) of the Act applies for the purposes of determining whether a person has control of a Service Company under paragraph (2)(ia) and (ib), with each reference in that provision to an insurer replaced with a reference to the Service Company.\n[S 180/2015 wef 01/04/2015]\n(3) Before the Authority directs the administrator to cancel the registration of a Service Company under paragraph (1), the Authority shall —\n(a)give the administrator and the Service Company notice in writing of its intention to do so; and\n(b)in the notice referred to in sub-paragraph (a), call upon the administrator and the Service Company to show cause, within such time as may be specified in the notice, why the Service Company’s registration should not be cancelled.\n(4) If the administrator or the Service Company —\n(a)fails to show cause within the time given to it to do so or within such extended period of time as the Authority may allow; or\n(b)fails to show sufficient cause,\nthe Authority shall give notice in writing to the administrator of the date on which the cancellation of registration is to take effect.\n(5) Notwithstanding the cancellation of the registration of a Service Company under this regulation, so long as the member of Lloyd’s or syndicate for which the Service Company acts as an agent remains under any liability in respect of insurance policies entered into by the Service Company or by any coverholder authorised by the Service Company, on behalf of the member or syndicate, the Service Company shall take such action as it considers necessary or as may be required by the Authority to ensure that —\n(a)reasonable provision has been or will be made for that liability; and\n(b)adequate arrangements exist or will exist for payment of premiums and claims on those policies.\n[S 180/2015 wef 01/04/2015]\n(6) Without prejudice to the generality of regulation 14(1), if a Service Company fails to comply with paragraph (5), the administrator shall use all reasonable efforts to procure, in respect of any liability or policies referred to in paragraph (5), the making of —\n(a)reasonable provision for such liability; and\n(b)adequate arrangements for payment of premiums and claims on those policies,\nincluding but not limited to co-ordinating with or arranging for Lloyd’s or any other person to make such provision and arrangements in place of the Service Company.\n(7) Where a direction of cancellation under paragraph (1) becomes effective, the Service Company shall, as from the date the cancellation of registration takes effect, cease to act as an agent for any member of Lloyd’s carrying on insurance business in Singapore, otherwise than by the collection or receipt of premiums on insurance policies effected before that date.\n(8) Paragraph (7) does not prejudice —\n(a)any right or claim of any policy owner or other person against the member of Lloyd’s or syndicate for which the Service Company had acted as an agent; and\n(b)any right or claim of the member of Lloyd’s or syndicate for which the Service Company had acted as an agent against any policy owner or other person.\n(9) Notwithstanding the cancellation of the registration of a Service Company under this regulation, regulations 13 and 21 shall, unless the Authority otherwise directs, continue to apply in relation to the Service Company and the administrator, respectively, in respect of matters that occurred before the cancellation, as if the registration had not been cancelled.\n[S 665/2010 wef 04/11/2010]"
+   }
+  },
+  {
+   "id": "SG-H2821-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART III REQUIREMENTS RELATING TO AND DUTIES OF SERVICE COMPANIES"
+   },
+   "heading": {
+    "en": "Officers of Service Company"
+   },
+   "text": {
+    "en": "7.—(1) A Service Company shall —\n(a)appoint as its chief executive officer an individual who shall be resident in Singapore;\n[S 180/2015 wef 01/04/2015]\n(b)appoint in Singapore at least one underwriter who has at least 6 years (or any shorter period as the Authority may allow) experience in underwriting any specialised risk of a type set out in the First Schedule; and\n[S 180/2015 wef 01/04/2015]\n(c)have a Board comprising at least 3 directors.\n[S 180/2015 wef 01/04/2015]\n(2) No Service Company shall appoint any person as its chief executive officer or a director unless the Service Company satisfies the Authority that the person is a fit and proper person to be so appointed and has obtained the approval of the Authority.\n(3) Where a Service Company has obtained the approval of the Authority to appoint a person as its chief executive officer or director under this regulation, the person may be re-appointed as chief executive officer or director, as the case may be, of the Service Company immediately upon the expiry of the earlier term without the approval of the Authority.\n(4) If a member of the Board of a Service Company resigns or ceases to be a member of the Board for any other reason, the Service Company must —\n(a)notify the Authority of the event within 14 days after the occurrence of the event; and\n(b)on or before its next annual general meeting, appoint such number of new directors as is required to comply with paragraph (1)(c).\n[S 180/2015 wef 01/04/2015]\n(5) Despite paragraph (4), the Authority may, upon being notified under paragraph (4)(a), direct the Service Company to appoint such number of new directors as is required to comply with paragraph (1)(c) within such time before the next annual general meeting of the Service Company, and according to such condition or restriction, as the Authority may specify, and the Service Company must comply with that direction.\n[S 180/2015 wef 01/04/2015]\n(6) A Service Company must immediately inform the Authority after the Service Company becomes aware that any of its directors or executive officers is involved in or is believed to be involved in any conduct or practice prejudicial to the interests of the Service Company or the policy owners or cedants of the syndicate, on behalf of whose members the Service Company has entered into any contract of insurance.\n[S 180/2015 wef 01/04/2015]"
+   }
+  },
+  {
+   "id": "SG-H2821-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART III REQUIREMENTS RELATING TO AND DUTIES OF SERVICE COMPANIES"
+   },
+   "heading": {
+    "en": "Premises of Service Company"
+   },
+   "text": {
+    "en": "8. A Service Company shall only conduct business at the registered office of the administrator or at such other premises as may be approved by the Authority."
+   }
+  },
+  {
+   "id": "SG-H2821-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART III REQUIREMENTS RELATING TO AND DUTIES OF SERVICE COMPANIES"
+   },
+   "heading": {
+    "en": "New policies"
+   },
+   "text": {
+    "en": "9.—(1) A Service Company must obtain the approval of the Authority before the Service Company, or any coverholder authorised by the Service Company, begins to introduce into Singapore any policy referred to in paragraph (2) on behalf of any member of Lloyd’s for whom the Service Company is approved under regulation 6A(1) to enter into any contract of insurance.\n(2) Paragraph (1) applies to any policy for general business which insures any risk of a nature that has not been previously underwritten in the Singapore insurance market.\n[S 180/2015 wef 01/04/2015]"
+   }
+  },
+  {
+   "id": "SG-H2821-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART III REQUIREMENTS RELATING TO AND DUTIES OF SERVICE COMPANIES"
+   },
+   "heading": {
+    "en": "Duty to respond to notices and legal processes"
+   },
+   "text": {
+    "en": "10. A Service Company shall be responsible for accepting and responding to notices and legal processes to members of Lloyd’s carrying on insurance business in Singapore of which the Service Company is an agent under these Regulations."
+   }
+  },
+  {
+   "id": "SG-H2821-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART III REQUIREMENTS RELATING TO AND DUTIES OF SERVICE COMPANIES"
+   },
+   "heading": {
+    "en": "Establishment and maintenance of separate insurance funds"
+   },
+   "text": {
+    "en": "11.—(1) A Service Company must, on behalf of each syndicate for whose members the Service Company has been approved under regulation 6A(1) to enter into any contract of insurance, establish and maintain in Singapore the following insurance funds in respect of policies issued by the Service Company and by any coverholder authorised by the Service Company, on behalf of the members of that syndicate, in the course of carrying on insurance business in Singapore:\n(a)an insurance fund for Singapore policies;\n(b)an insurance fund for offshore policies.\n[S 180/2015 wef 01/04/2015]\n(2) A Service Company must pay any premium received by it in respect of any policy issued by the Service Company, or by any coverholder authorised by the Service Company, on behalf of any member of a syndicate referred to in paragraph (1) into the appropriate insurance fund established for that syndicate under paragraph (1).\n[S 180/2015 wef 01/04/2015]\n(3) The premium receipts of different members of Lloyd’s carrying on insurance business in Singapore through the same Service Company or different Service Companies may be placed or pooled in the same bank account or may be otherwise mixed together except that the assets of an insurance fund for Singapore policies must not be mixed with the assets of an insurance fund for offshore policies.\n(4) The assets of the insurance funds established under paragraph (1) shall only be used to meet permitted trust outgoings.\n(5) During any year, there shall remain in the respective insurance funds, assets not less in value than the amount of premiums received respectively for policies issued by the Service Company and by any coverholder authorised by the Service Company, on behalf of the members of the syndicate concerned in the course of carrying on insurance business in Singapore under these Regulations in the same year, less the amount of permitted trust outgoings attributable to the respective policies paid during the year.\n[S 180/2015 wef 01/04/2015]\n(6) Subject to paragraph (7), a Service Company may, at any time, transfer all or any assets of an insurance fund established under paragraph (1) to such premiums trust funds outside Singapore as the Authority may permit if, and only if —\n(a)there is a surplus of cash and deposits in the insurance fund over the claims liabilities of the syndicate concerned in respect of the insurance fund; and\n(b)immediately after such transfer, the cash and deposits in the insurance fund will not fall below the claims liabilities of the syndicate concerned in respect of the insurance fund.\n[S 665/2010 wef 04/11/2010]\n(7) For the purposes of paragraph (6) —\n(a)except as provided in sub-paragraph (b), the amount of assets that the Service Company may transfer shall not exceed the surplus of cash and deposits in the insurance fund over the claims liabilities of the syndicate concerned in respect of the insurance fund, as stated in —\n(i)the audited statement of accounts for the last accounting period lodged with the Authority in accordance with regulation 21; or\n(ii)the statement of accounts for the last quarter lodged with the Authority in accordance with regulation 21,\nwhichever is the lower; and\n(b)where an audited statement of accounts as at a date after the end of the period to which the statement of accounts referred to in sub-paragraph (a) relates has been lodged with the Authority, the amount of assets that the Service Company may transfer shall not exceed the surplus of cash and deposits in the insurance fund over the claims liabilities of the syndicate concerned in respect of the insurance fund as stated in the first-mentioned audited statement of accounts.\n[S 665/2010 wef 04/11/2010]\n(7) [Deleted by S 814/2004 wef 01/01/2005]"
+   }
+  },
+  {
+   "id": "SG-H2821-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART III REQUIREMENTS RELATING TO AND DUTIES OF SERVICE COMPANIES"
+   },
+   "heading": {
+    "en": "Registers maintained by Service Company"
+   },
+   "text": {
+    "en": "12. Every Service Company shall maintain —\n(a)a register of all Singapore policies; and\n(b)a register of all offshore policies,\nissued by the Service Company and by any coverholder authorised by the Service Company, on behalf of the members of Lloyd’s carrying on insurance business in Singapore under these Regulations in respect of which it is appointed as an agent.\n[S 180/2015 wef 01/04/2015]"
+   }
+  },
+  {
+   "id": "SG-H2821-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART III REQUIREMENTS RELATING TO AND DUTIES OF SERVICE COMPANIES"
+   },
+   "heading": {
+    "en": "Preparation and submission of documents by Service Company"
+   },
+   "text": {
+    "en": "13.—(1) Every Service Company must prepare, for each syndicate for whose members the Service Company is approved under regulation 6A(1) to enter into any contract of insurance, the following documents:\n(a)Form A1, which relates to the “Statement of Financial Position”, prepared on a quarterly basis;\n(b)Form A1, which relates to the “Statement of Financial Position”, prepared on an annual basis for each accounting period;\n(c)Annex A1-1 to Form A1, which relates to the “Statement of Financial Position — Other Investments”, prepared on an annual basis for each accounting period;\n(d)Annex A1-2 to Form A1, which relates to the “Statement of Financial Position — Outstanding Premiums”, prepared on an annual basis for each accounting period;\n(e)Annex A1-3 to Form A1, which relates to the “Statement of Financial Position — Reinsurance Recoverables on Paid Claims”, prepared on an annual basis for each accounting period;\n(f)Annex A1-4 to Form A1, which relates to the “Statement of Financial Position — Other Assets”, prepared on an annual basis for each accounting period;\n(g)Annex A1-5 to Form A1, which relates to the “Statement of Financial Position — Policy Liabilities in respect of General Business”, prepared on a quarterly basis;\n(h)Annex A1-5 to Form A1, which relates to the “Statement of Financial Position — Policy Liabilities in respect of General Business”, prepared on an annual basis for each accounting period;\n(i)Annex A1-6 to Form A1, which relates to the “Statement of Financial Position — Financial Liabilities”, prepared on an annual basis for each accounting period;\n(j)Annex A1-7 to Form A1, which relates to the “Statement of Financial Position — Other Liabilities”, prepared on an annual basis for each accounting period;\n(k)Annex A1-8 to Form A1, which relates to the “Statement of Financial Position — Other Reserves”, prepared on an annual basis for each accounting period;\n(l)the “Notes” to Form A1, prepared on an annual basis for each accounting period;\n(m)Form A2, which relates to the “Statement of Profit and Loss”, prepared on a quarterly basis;\n(n)Form A2, which relates to the “Statement of Profit and Loss”, prepared on an annual basis for each accounting period;\n(o)Annex A2-1 to Form A2, which relates to the “Statement of Profit and Loss — Other Expenses”, prepared on an annual basis for each accounting period;\n(p)Annex A2-2 to Form A2, which relates to the “Statement of Profit and Loss — Other Income”, prepared on an annual basis for each accounting period;\n(q)Annex A2-3 to Form A2, which relates to the “Statement of Profit and Loss — Net Investment Income/ (Loss)”, prepared on an annual basis for each accounting period;\n(r)Form A3, which relates to the “Statement of Changes in Equity”, prepared on a quarterly basis;\n(s)Form A3, which relates to the “Statement of Changes in Equity”, prepared on an annual basis for each accounting period;\n(t)Form A4, which relates to the “Certificate on the Accounts of the Syndicate Managed by the Service Company”;\n(u)Form A5, which relates to the “Independent Auditor’s Report”;\n(v)Form A6, which relates to the “Independent Auditor’s Supplementary Report”;\n(w)Form G1, which relates to the “Statement of Operating Results by Line of Business”, prepared on a quarterly basis;\n(x)Form G1, which relates to the “Statement of Operating Results by Line of Business”, prepared on an annual basis for each accounting period;\n(y)the “Notes” to Form G1, prepared on an annual basis for each accounting period.\n(2) Despite paragraph (1), the Service Company may, with the Authority’s approval, prepare the documents mentioned in paragraph (1) for all the syndicates for whose members the Service Company is approved under regulation 6A(1) to enter into any contract of insurance, on a consolidated basis.\n(3) The Service Company must submit the documents mentioned in paragraph (1)(a), (g), (m), (r) and (w) by way of electronic submission on MASNET, on or before the date ending 3 weeks after the last day of each quarter.\n(4) The Service Company must submit the documents mentioned in paragraph (1)(n) and (x) by way of electronic submission on MASNET, on or before the date ending 3 weeks after the last day of its accounting period.\n(5) The Service Company must submit audited copies of the documents mentioned in paragraph (1)(b), (h), (l), (n), (s), (x) and (y) by way of electronic submission on MASNET, on or before the date ending 3 months after the last day of its accounting period.\n(6) The Service Company must submit the documents mentioned in paragraph (1)(c) to (f), (i), (j) and (k) and (o), (p) and (q) by way of electronic submission on MASNET, on or before the date ending 3 months after the last day of its accounting period.\n(7) The Service Company must submit to the Authority, on or before the date ending 4 months after the last day of its accounting period, the following documents:\n(a) the document mentioned in paragraph (1)(t), which must be signed by the chief executive officer (or, in the alternative, an officer of the Service Company who is for the time being notified to the Authority as having authority for the purposes of these Regulations to sign in place of the chief executive officer) and 2 directors of the Service Company;\n[S 1094/2020 wef 31/12/2020]\n(b) the document mentioned in paragraph (1)(u), which must be signed by the auditor appointed by the Service Company;\n[S 1094/2020 wef 31/12/2020]\n(c) the document mentioned in paragraph (1)(v), which must be signed by the auditor appointed by the Service Company.\n[S 1094/2020 wef 31/12/2020]\n(7A) The Service Company must submit the documents mentioned in paragraph (7) to the Authority by sending the documents by email to the email address specified by written notification sent by the Authority.\n[S 1094/2020 wef 31/12/2020]\n(8) Where a document is required to be signed by or on behalf of the chief executive officer of the Service Company, the Service Company must ensure that the document is —\n(a)approved by the chief executive officer; and\n(b)signed by the chief executive officer or an officer of the Service Company who is for the time being notified to the Authority as having authority for the purposes of these Regulations to sign in place of the chief executive officer.\n(9) In any document which a Service Company is required to prepare in accordance with these Regulations in relation to a syndicate, the Service Company must ensure that the value or amount given for an asset or a liability relating to the business of the syndicate written by the Service Company and by any coverholder authorised by the Service Company, on behalf of the members of the syndicate, must be the value or amount of that asset or liability (as the case may be) as determined in accordance with regulations 13A to 13M.\n(10) In any document which a Service Company is required to prepare in accordance with these Regulations in relation to a syndicate, the Service Company must ensure that the value or amount given for an income item, an expense item, an equity item or a change in equity item relating to the business of the syndicate written by the Service Company and by any coverholder authorised by the Service Company, on behalf of the members of the syndicate, is valued in accordance with —\n(a)the instructions for completion in Form A2 or Form G1, as the case may be; or\n(b)where there are no instructions for completion in Form A2 or Form G1 (as the case may be), the Accounting Standards.\n(11) In any document which a Service Company is required to prepare in accordance with these Regulations in relation to a syndicate, the Service Company must ensure that any income item, expense item, equity item and change in equity item relating to the business of the syndicate written by the Service Company and by any coverholder authorised by the Service Company, on behalf of the members of the syndicate, is recognised in accordance with —\n(a)the Regulations and directions issued under the Act, if any; and\n(b)where sub-paragraph (a) does not apply, the requirements in the Accounting Standards.\n(12) The Service Company must ensure that any monetary amount referred to in any document mentioned in paragraph (1) is stated in Singapore dollars (unless otherwise specified in the relevant form).\n(13) Every Service Company must, within such reasonable time as may be specified by the administrator in order for the administrator to comply with regulation 21, provide the administrator with such information on any matter related to its activities as agent for any member of Lloyd’s under these Regulations as the administrator may require.\n[S 839/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2821-A13.001",
+   "no": 13.001,
+   "noLabel": {
+    "en": "13A."
+   },
+   "chapter": {
+    "en": "PART IIIA RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "13A. This Part applies to the recognition and valuation of any asset of an insurance fund established and maintained under regulation 11(1).\n[S 814/2004 wef 01/01/2005]\n[S 839/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2821-A13.002",
+   "no": 13.002,
+   "noLabel": {
+    "en": "13B."
+   },
+   "chapter": {
+    "en": "PART IIIA RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Recognition and valuation of assets"
+   },
+   "text": {
+    "en": "13B.—(1) Unless otherwise specified in this Part, a Service Company shall value an asset of an insurance fund in accordance with the Accounting Standards.\n(1A) Unless otherwise specified in any direction issued under the Act, an asset of an insurance fund is to be recognised by a Service Company in accordance with the Accounting Standards.\n[S 839/2018 wef 01/01/2019]\n(2) For the avoidance of doubt, assets comprised in the deposit made and maintained by the administrator under regulation 16 shall not be treated as assets of an insurance fund.\n[S 814/2004 wef 01/01/2005]\n[S 665/2010 wef 04/11/2010]\n[S 839/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2821-A13.003",
+   "no": 13.003,
+   "noLabel": {
+    "en": "13C."
+   },
+   "chapter": {
+    "en": "PART IIIA RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Equity securities"
+   },
+   "text": {
+    "en": "13C.—(1) A Service Company shall value an equity security as follows:\n(a)where it is listed on a securities exchange, at its market value; or\n(b)where it is not listed on any securities exchange, at its net realisable value.\n(2) In determining the net realisable value of an equity security which is not listed on a securities exchange, the Service Company shall take into account —\n(a)the amount of consideration it would receive by selling the equity security; and\n(b)the net tangible asset value of the equity security.\n[S 814/2004 wef 01/01/2005]"
+   }
+  },
+  {
+   "id": "SG-H2821-A13.004",
+   "no": 13.004,
+   "noLabel": {
+    "en": "13D."
+   },
+   "chapter": {
+    "en": "PART IIIA RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Debt securities"
+   },
+   "text": {
+    "en": "13D.—(1) A Service Company shall value a debt security as follows:\n(a)where it is listed on any securities exchange, at its market value; or\n(b)where it is not listed on any securities exchange, at its net realisable value.\n(2) In determining the net realisable value of a debt security that is not listed on a securities exchange, the Service Company shall take into account —\n(a)the prevailing interest rate;\n(b)the likelihood of default by the issuer; and\n(c)the cash flows that are expected to arise from the debt security.\n[S 814/2004 wef 01/01/2005]"
+   }
+  },
+  {
+   "id": "SG-H2821-A13.005",
+   "no": 13.005,
+   "noLabel": {
+    "en": "13E."
+   },
+   "chapter": {
+    "en": "PART IIIA RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Land and buildings"
+   },
+   "text": {
+    "en": "13E.—(1) A Service Company shall value any land or building at its estimated market value.\n(2) In estimating the market value of any land or building, the Service Company shall take into account —\n(a)the last available valuation report made by a qualified property valuer;\n(b)the prevailing market for the land or building; and\n(c)any damage or improvement affecting the land or building from the date of the last available valuation report.\n(3) A Service Company shall obtain a new valuation from a qualified property valuer —\n(a)when the value of the land or building has been substantially impaired by any event; and\n(b)in any event, at least once every 3 years.\n[S 814/2004 wef 01/01/2005]"
+   }
+  },
+  {
+   "id": "SG-H2821-A13.006",
+   "no": 13.006,
+   "noLabel": {
+    "en": "13F."
+   },
+   "chapter": {
+    "en": "PART IIIA RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Loans"
+   },
+   "text": {
+    "en": "13F. A Service Company shall value loans made to other persons by aggregating the principal amounts outstanding under all loans less any allowance for impairment losses.\n[S 814/2004 wef 01/01/2005]\n[S 839/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2821-A13.007",
+   "no": 13.007,
+   "noLabel": {
+    "en": "13G."
+   },
+   "chapter": {
+    "en": "PART IIIA RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Cash and deposits"
+   },
+   "text": {
+    "en": "13G.—(1) A Service Company shall value any cash or deposit with a financial institution, other than a negotiable certificate of deposit, at the nominal amount of such cash or deposit after deducting any amount deemed uncollectible from the financial institution.\n(2) A Service Company shall value a negotiable certificate of deposit at its market value.\n[S 814/2004 wef 01/01/2005]"
+   }
+  },
+  {
+   "id": "SG-H2821-A13.008",
+   "no": 13.008,
+   "noLabel": {
+    "en": "13H."
+   },
+   "chapter": {
+    "en": "PART IIIA RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Outstanding premiums and agents’ balances"
+   },
+   "text": {
+    "en": "13H. A Service Company shall value the outstanding premiums and agents’ balances by aggregating the principal amounts outstanding after deducting any allowance for impairment losses.\n[S 814/2004 wef 01/01/2005]\n[S 839/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2821-A13.009",
+   "no": 13.009,
+   "noLabel": {
+    "en": "13I."
+   },
+   "chapter": {
+    "en": "PART IIIA RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Deposits withheld by cedants"
+   },
+   "text": {
+    "en": "13I. A Service Company shall value deposits withheld by cedants by aggregating the amounts of deposits outstanding after deducting any amount deemed uncollectible from the cedant.\n[S 814/2004 wef 01/01/2005]"
+   }
+  },
+  {
+   "id": "SG-H2821-A13.01",
+   "no": 13.01,
+   "noLabel": {
+    "en": "13J."
+   },
+   "chapter": {
+    "en": "PART IIIA RECOGNITION AND VALUATION OF ASSETS"
+   },
+   "heading": {
+    "en": "Reinsurance recoverables"
+   },
+   "text": {
+    "en": "13J. A Service Company shall value reinsurance recoverables by aggregating the amounts of reinsurance recoverables outstanding after deducting any allowance for impairment losses.\n[S 814/2004 wef 01/01/2005]\n[S 839/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2821-A13.011",
+   "no": 13.011,
+   "noLabel": {
+    "en": "13K."
+   },
+   "chapter": {
+    "en": "PART IIIB RECOGNITION AND VALUATION OF LIABILITIES"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "13K. This Part applies to the recognition and valuation of any liability of an insurance fund established and maintained under regulation 11(1).\n[S 814/2004 wef 01/01/2005]\n[S 839/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2821-A13.012",
+   "no": 13.012,
+   "noLabel": {
+    "en": "13L."
+   },
+   "chapter": {
+    "en": "PART IIIB RECOGNITION AND VALUATION OF LIABILITIES"
+   },
+   "heading": {
+    "en": "Recognition and valuation of liabilities"
+   },
+   "text": {
+    "en": "13L.—(1) Unless otherwise specified in this Part, a Service Company shall value any liability of an insurance fund in accordance with the Accounting Standards and sound actuarial principles.\n(1A) Unless otherwise specified in regulation 13M or in any direction issued under the Act, any liability of an insurance fund is to be recognised by a Service Company in accordance with the Accounting Standards.\n[S 839/2018 wef 01/01/2019]\n(2) The Authority may, by notice in writing to a Service Company, specify the bases, methodologies and other details of a technical nature to be complied with in relation to the determination of liabilities in respect of a policy and in respect of an insurance fund.\n[S 814/2004 wef 01/01/2005]\n[S 839/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2821-A13.013",
+   "no": 13.013,
+   "noLabel": {
+    "en": "13M."
+   },
+   "chapter": {
+    "en": "PART IIIB RECOGNITION AND VALUATION OF LIABILITIES"
+   },
+   "heading": {
+    "en": "Recognition, valuation and calculation of liabilities of general business"
+   },
+   "text": {
+    "en": "13M.—(1) A Service Company shall recognise the liabilities in respect of policies of an insurance fund established and maintained under regulation 11(1) for the general business written by the Service Company and by any coverholder authorised by the Service Company, on behalf of the members of a syndicate, valued or calculated (as the case may be) as the sum of —\n(a)premium liabilities, which shall be an amount not less than —\n(i)the unearned premium reserves of the fund calculated as the aggregate of unearned premium reserves for each policy of the fund determined in the manner provided in paragraph (5); or\n(ii)the unexpired risk reserves, calculated as the sum of —\n(A)the value of the expected future payments arising from future events insured under policies in force as at the valuation date, including any expense expected to be incurred in administering the policies and settling relevant claims; and\n(B)any provision for any adverse deviation from the expected experience,\nwhichever is the higher; and\n(b)claim liabilities, which shall be an amount not less than the sum of —\n(i)the value of the expected future payments in relation to all claims incurred prior to the valuation date (other than payments which have fallen due for payment on or before the valuation date), whether or not they have been reported to the Service Company, including any expense expected to be incurred in settling those claims; and\n(ii)any provision for any adverse deviation from the expected experience.\n[S 180/2015 wef 01/04/2015]\n[S 839/2018 wef 01/01/2019]\n(2) In determining the unexpired risk reserves referred to in paragraph (1)(a)(ii) and claim liabilities referred to in paragraph (1)(b), a Service Company shall —\n(a)calculate the amount of unexpired risk reserves and claim liabilities as the amount net of reinsurance ceded —\n(i)by making separate estimates of the gross incurred claims and recoveries from the reinsurance counterparty; and\n[S 665/2010 wef 04/11/2010]\n(ii)by taking into account the likelihood of default by the reinsurance counterparty; and\n(b)take into account any non-reinsurance recovery such as salvage and subrogation.\n(3) Where there is no material change in —\n(a)the manner in which liabilities are reinsured during the period to which the data used to determine the unexpired risk reserves and claim liabilities relates; and\n(b)the manner in which liabilities are reinsured at valuation date,\na Service Company may, instead of complying with paragraph (2)(a), calculate the amount of unexpired risk reserves and claim liabilities net of reinsurance ceded using claims data that are net of reinsurance.\n[S 665/2010 wef 04/11/2010]\n(4) A Service Company shall make separate calculations of the premium liabilities, the unexpired risk reserves and the claim liabilities for each line of business described in Form G1 that is carried on by the Service Company and by any coverholder authorised by the Service Company, on behalf of the members of a syndicate, and such calculations shall be made in the following manner:\n(a)the premium liabilities shall be an amount not less than the unexpired risk reserves;\n(b)the unexpired risk reserves shall be calculated as the sum of —\n(i)the value of the expected future payments arising from future events insured under policies in force as at the valuation date, including any expense expected to be incurred in administering the policies and settling relevant claims; and\n(ii)any provision for any adverse deviation from the expected experience,\nafter allowing for the effect of diversification, if any, at the level of the relevant insurance fund under paragraph (1)(a)(ii); and\n(c)the claim liabilities shall be an amount not less than the sum of —\n(i)the value of the expected future payments in relation to all claims incurred prior to the valuation date (other than payments which have fallen due on or before the valuation date), whether or not they have been reported to the Service Company, including any expense expected to be incurred in settling those claims; and\n(ii)any provision for any adverse deviation from the expected experience,\nafter allowing for the effect of diversification, if any, at the level of the relevant insurance fund under paragraph (1)(b).\n[S 665/2010 wef 04/11/2010]\n[S 180/2015 wef 01/04/2015]\n[S 839/2018 wef 01/01/2019]\n(5) The amount of unearned premium reserves for a policy in respect of general business shall be —\n(a)subject to sub-paragraphs (b) and (c) and paragraph (6), an amount calculated on a basis not less accurate than the method;\n(b)in the case of a Service Company and any coverholder authorised by the Service Company which underwrite risks, on behalf of the members of a syndicate, relating to cargo policies, an amount not less than 25% of the net premiums written in the accounting period for those policies or an amount calculated on a basis not less accurate than the method; or\n[S 665/2010 wef 04/11/2010]\n[S 180/2015 wef 01/04/2015]\n(c)in the case of a Service Company and any coverholder authorised by the Service Company which carry on, on behalf of the members of a syndicate, the business of reinsurance of liabilities under insurance policies —\n(i)an amount not less than 25% of the net premiums written in the accounting period in the case of marine and aviation policies and 40% of the net premiums written in the accounting period in other cases; or\n[S 665/2010 wef 04/11/2010]\n(ii)an amount calculated on a basis not less accurate than the method.\n[S 180/2015 wef 01/04/2015]\n(6) The amount of unearned premium reserves for a policy in respect of general business shall be calculated —\n(a)where the method or some other more accurate method is used, using an amount of net premiums written which is reduced by the actual commissions payable; or\n[S 665/2010 wef 04/11/2010]\n(b)in any other case, using an amount of net premiums written without any deduction for commissions payable therefrom.\n[S 665/2010 wef 04/11/2010]\n(7) In paragraphs (5) and (6) —\n“marine and aviation policies” means policies of insurance —\n(a)upon goods, merchandise or property of any description transported on board vessels, aircraft or other means of conveyance, including incidental transit before and after shipment;\n(b)upon the freight of, or any other interest in or relating to vessels, aircraft or other means of conveyance;\n(c)upon vessels or aircraft, or upon machinery, tackle furniture or equipment of vessels or aircraft;\n(d)against damage arising out of or in connection with the use of vessels or aircraft, including third-party risks; or\n(e)against risks incidental to the construction, repair or docking of vessels, including third-party risks;\n“net premiums written” means the net amount of premiums after deduction of return premiums and payments in respect of reinsurance business ceded.\n[S 814/2004 wef 01/01/2005]\n[S 665/2010 wef 04/11/2010]\n[S 839/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2821-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART IV REQUIREMENTS RELATING TO AND DUTIES OF ADMINISTRATOR"
+   },
+   "heading": {
+    "en": "Responsibility of administrator"
+   },
+   "text": {
+    "en": "14.—(1) The administrator shall, directly or with the assistance of the regulatory resources of Lloyd’s, exercise due diligence and use all reasonable effort to co-ordinate and monitor the compliance of the provisions of the Act and these Regulations by the Service Companies.\n(2) If the administrator, in the course of the performance of its duties under these Regulations, is satisfied that there is any matter materially affecting the operation of these Regulations, including but not limited to any matter —\n(a)which may adversely affect the financial position of any member of Lloyd’s carrying on insurance business in Singapore under these Regulations;\n(b)which may constitute a breach of any provision of the Act or a criminal offence involving fraud or dishonesty; or\n(c)which may involve irregularities in the documents required to be submitted to the Authority under regulation 21, including irregularities that may jeopardize the insurance funds established under regulation 11,\n[S 839/2018 wef 01/01/2019]\nthe administrator shall immediately report the matter to the Authority.\n(3) The administrator must immediately inform the Authority if the administrator becomes aware of any development that has occurred or is likely to occur which the administrator has reasonable grounds to believe is likely to cause an adverse material effect on the financial position of the administrator.\n[S 180/2015 wef 01/04/2015]"
+   }
+  },
+  {
+   "id": "SG-H2821-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART IV REQUIREMENTS RELATING TO AND DUTIES OF ADMINISTRATOR"
+   },
+   "heading": {
+    "en": "Officers of administrator"
+   },
+   "text": {
+    "en": "15.—(1) The administrator must —\n(a)appoint a chief executive officer who must be an individual resident in Singapore; and\n(b)have a Board comprising at least 3 directors.\n[S 180/2015 wef 01/04/2015]\n(1A) The administrator shall not appoint any person as its chief executive officer or a director unless the administrator satisfies the Authority that the person is a fit and proper person to be so appointed and has obtained the approval of the Authority.\n[S 814/2004 wef 01/01/2005]\n(1B) Where an administrator has obtained the approval of the Authority to appoint a person as its chief executive officer or director under this regulation, the person may be re-appointed as chief executive officer or director, as the case may be, of the administrator immediately upon the expiry of the earlier term without the approval of the Authority.\n[S 814/2004 wef 01/01/2005]\n(2) If a member of the Board of the administrator resigns or ceases to be a member of the Board for any other reason, the administrator must —\n(a)notify the Authority of the event within 14 days after the occurrence of the event; and\n(b)on or before its next annual general meeting, appoint such number of new directors as is required to comply with paragraph (1)(b).\n[S 180/2015 wef 01/04/2015]\n(3) Despite paragraph (2), the Authority may, upon being notified under paragraph (2)(a), direct the administrator to appoint such number of new directors as is required to comply with paragraph (1)(b) within such time before the next annual general meeting of the administrator, and according to such condition or restriction, as the Authority may specify, and the administrator must comply with that direction.\n[S 180/2015 wef 01/04/2015]\n(4) The administrator must immediately inform the Authority after the administrator becomes aware that any of its directors or executive officers is involved in or is believed to be involved in any conduct or practice prejudicial to the interests of the administrator.\n[S 180/2015 wef 01/04/2015]"
+   }
+  },
+  {
+   "id": "SG-H2821-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART IV REQUIREMENTS RELATING TO AND DUTIES OF ADMINISTRATOR"
+   },
+   "heading": {
+    "en": "Duty to maintain deposits"
+   },
+   "text": {
+    "en": "16.—(1) The administrator shall, on behalf of all members of Lloyd’s carrying on insurance business in Singapore under these Regulations, make and maintain a deposit with the Authority of a value of not less than $500,000.\n(2) Not later than 31st July of each year, the administrator shall, on behalf of all members of Lloyd’s carrying on insurance business in Singapore under these Regulations, make and maintain with the Authority such additional deposit, if any, as is necessary to secure that the aggregate value of the deposit referred to in paragraph (1) shall be the greater of $500,000, or 30% of the premiums in respect of Singapore policies issued by the members of Lloyd’s in the course of carrying on insurance business in Singapore under these Regulations in the preceding year.\n[S 665/2010 wef 04/11/2010]\n(2A) A deposit under paragraph (2) shall be made in the form of assets of such nature as may be directed by the Authority.\n[S 665/2010 wef 04/11/2010]\n(3) The Authority may apply all or any part of the deposits made under paragraphs (1) and (2) towards any valid claim in respect of a policy issued under these Regulations which remains unpaid 30 days after the issue of a notice by the Authority under paragraph (4).\n[S 814/2004 wef 01/01/2005]\n(4) Before applying any part of the deposits made under paragraph (1), the Authority shall give the administrator a notice in writing of its intention to do so and identify the claim in respect of which the deposits are to be applied.\n(5) Where the Authority has applied all or any part of the deposits made under paragraphs (1) and (2) towards any valid claim under paragraph (3), the administrator shall top up any deficiency in the deposits within 30 days of the notice of the deficiency by the Authority.\n[S 814/2004 wef 01/01/2005]\n(6) The Authority shall retain any deposit required to be made under paragraphs (1) and (2) until it is satisfied that all members of Lloyd’s have ceased to carry on insurance business in Singapore under these Regulations.\n(7) If the Authority is satisfied that all members of Lloyd’s have ceased to carry on insurance business in Singapore under these Regulations, the Authority shall transfer to the administrator the entire deposits less such part that the Authority determines should be kept available for purpose of meeting claims against such members in respect of policies issued by the members of Lloyd’s under these Regulations.\n(8) In this regulation, “premiums” means gross premiums less commissions and credit for reinsurance ceded, where —\n(a)“commissions” means the amount shown in the column titled “Total” at row 30 of the table titled “Singapore Insurance Fund” in Form G1;\n(b)“credit for reinsurance ceded” means an amount computed using the formula A × (1 – B), where —\n(i)A is the amount of reinsurance business ceded to a person carrying on insurance business that is accounted for in row 7, 8 or 9 of the table on Singapore Insurance Fund in Form G1; and\n(ii)B is the appropriate counterparty default risk charge set out in Table 4H of the Counterparty Default Risk Requirement in MAS Notice 133;\n[S 135/2020 wef 31/03/2020]\n(c)“Form G1” means the audited “Statement of Operating Results by Line of Business” for the last accounting period submitted to the Authority in accordance with regulation 13(5); and\n(d)“gross premiums” means the amount shown in the column titled “Total” at row 6 of the table titled “Singapore Insurance Fund” in Form G1.\n[S 839/2018 wef 01/01/2019]\n(9) In this regulation, “MAS Notice 133” means the notice commonly known as MAS Notice 133 issued by the Authority under sections 18 and 64(2) of the Act, as amended from time to time, and includes any notice that replaces it.\n[S 135/2020 wef 31/03/2020]"
+   }
+  },
+  {
+   "id": "SG-H2821-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART IV REQUIREMENTS RELATING TO AND DUTIES OF ADMINISTRATOR"
+   },
+   "text": {
+    "en": "17. [Deleted by S 665/2010 wef 04/11/2010]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2821-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART IV REQUIREMENTS RELATING TO AND DUTIES OF ADMINISTRATOR"
+   },
+   "heading": {
+    "en": "Registers"
+   },
+   "text": {
+    "en": "18.—(1) The administrator shall maintain —\n(a)a register of members of Lloyd’s registered under regulation 4;\n(b)a register of Service Companies registered under regulation 6; and\n(c)a register containing the names and the particulars of each syndicate under which the members of Lloyd’s referred to in sub-paragraph (a) carry on insurance business in Singapore under these Regulations, the names of each member of Lloyd’s who carries on insurance business in Singapore under that syndicate and the share of each member of Lloyd’s in the undertakings of that syndicate.\n(2) The register of members of Lloyd’s referred to in paragraph (1)(a) shall contain the particulars set out in the Third Schedule.\n(3) The register of Service Companies referred to in paragraph (1)(b) shall contain the particulars set out in the Fourth Schedule.\n(4) The administrator shall notify the Authority, in writing, at least 14 days before effecting any change to the particulars set out in paragraphs (a), (b), (ba) and (bb) of the Fourth Schedule in the register of Service Companies.\n[S 665/2010 wef 04/11/2010]\n(5) The administrator shall lodge with the Authority a copy each of the registers referred to in paragraph (1)(b) and (c) on an annual basis by 31st January in each year.\n[S 665/2010 wef 04/11/2010]"
+   }
+  },
+  {
+   "id": "SG-H2821-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART IV REQUIREMENTS RELATING TO AND DUTIES OF ADMINISTRATOR"
+   },
+   "heading": {
+    "en": "Duty of administrator to assist claimants"
+   },
+   "text": {
+    "en": "19. The administrator shall, in the event of an unresolved dispute over a claim by a policy owner under a policy issued by any member of Lloyd’s carrying on insurance business in Singapore under these Regulations, upon the request of the policy owner assist the policy owner in making a complaint to the Lloyd’s Complaint’s Department for the purpose of resolving the dispute."
+   }
+  },
+  {
+   "id": "SG-H2821-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART IV REQUIREMENTS RELATING TO AND DUTIES OF ADMINISTRATOR"
+   },
+   "heading": {
+    "en": "General obligations of administrator"
+   },
+   "text": {
+    "en": "20.—(1) The administrator shall immediately notify the Authority —\n(a)if any Service Company ceases to enter into contracts of insurance in Singapore on behalf of any member of Lloyd’s;\n(b)if the managing agent that is related to a Service Company in a manner described in regulation 5(b) ceases to be permitted by Lloyd’s to act as a managing agent of Lloyd’s;\n[S 665/2010 wef 04/11/2010]\n(c)if any member of Lloyd’s carrying on insurance business in Singapore under these Regulations —\n(i)ceases to enter into contracts of insurance through any Service Company; or\n(ii)where the member of Lloyd’s carrying on insurance business in Singapore under these Regulations enters into contracts of insurance through a managing agent that is related to any Service Company in a manner described in regulation 5(b), ceases to enter into contracts of insurance through the managing agent;\n[S 665/2010 wef 04/11/2010]\n(d)if any member of Lloyd’s carrying on insurance business in Singapore under these Regulations ceases to do so for any reason; or\n(e)if any of the following is the subject of any disciplinary action by Lloyd’s, or is under an inquiry in accordance with the Lloyd’s Inquiries and Investigations Byelaw as directed by or under the authority of the Council of Lloyd’s, that may result in disciplinary action to expel or suspend the person being taken against the person:\n(i)a member of Lloyd’s carrying on insurance business in Singapore under these Regulations;\n(ii)a Service Company; or\n(iii)a managing agent at Lloyd’s in relation to which a Service Company is acting as agent in Singapore.\n(2) The administrator shall give not less than 6 months notice in writing to the Authority if it intends to cease to act as administrator under these Regulations."
+   }
+  },
+  {
+   "id": "SG-H2821-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART IV REQUIREMENTS RELATING TO AND DUTIES OF ADMINISTRATOR"
+   },
+   "heading": {
+    "en": "Lodgment and signature of Annual Report by administrator"
+   },
+   "text": {
+    "en": "21.—(1) The administrator must —\n(a)lodge with the Authority a copy of the Annual Report that has been published for the most recently concluded financial year, on or before the date ending 6 months after the last day of that financial year; and\n(b)prepare and submit to the Authority such documents relating to the carrying on of insurance business in Singapore by the members of Lloyd’s under these Regulations as the Authority may require (except for any document prepared and submitted by a Service Company under regulation 13(1)).\n(2) The Authority may require any document mentioned in paragraph (1)(b) to be provided in such form and manner and at such times and intervals as the Authority may determine.\n[S 839/2018 wef 01/01/2019]"
+   }
+  },
+  {
+   "id": "SG-H2821-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART IV REQUIREMENTS RELATING TO AND DUTIES OF ADMINISTRATOR"
+   },
+   "heading": {
+    "en": "Annual fee"
+   },
+   "text": {
+    "en": "22.—(1) The administrator must, on behalf of all members of Lloyd’s carrying on insurance business in Singapore under these Regulations, on or before the date specified by written notification sent by the Authority, pay to the Authority an annual fee of $50,000.\n(2) Payment of the annual fee mentioned in paragraph (1) must be made —\n(a)through an electronic funds transfer system, designated by written notification sent by the Authority, where payment may be made by directing the transfer of funds electronically from the bank account of the payer to a bank account notified by the Authority; or\n(b)in any other form or manner that the Authority allows.\n[S 1094/2020 wef 31/12/2020]"
+   }
+  },
+  {
+   "id": "SG-H2821-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART V MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Inspection by public"
+   },
+   "text": {
+    "en": "23.—(1) Any person may inspect any register maintained by the administrator under regulation 18 during office hours and may make copies of any register or part thereof.\n(2) The administrator shall give free access to any person who wishes to inspect the registers under paragraph (1)."
+   }
+  },
+  {
+   "id": "SG-H2821-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART V MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "24. Any member of Lloyd’s who complies with the conditions referred to in regulation 3 and is not prohibited from carrying on insurance business in Singapore under the Act shall, in respect of the carrying on of insurance business referred to in the First Schedule, be exempted from sections 3, 5, 8, 20, 25, 33 and 41 of the Act.\n[S 231/2013 wef 18/04/2013]"
+   }
+  },
+  {
+   "id": "SG-H2821-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART V MISCELLANEOUS"
+   },
+   "text": {
+    "en": "25. [Deleted by S 839/2018 wef 01/01/2019]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2821-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART V MISCELLANEOUS"
+   },
+   "text": {
+    "en": "26. [Deleted by S 839/2018 wef 01/01/2019]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H2821-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART V MISCELLANEOUS"
+   },
+   "heading": {
+    "en": "General obligation to furnish information"
+   },
+   "text": {
+    "en": "27.—(1) The Authority may, by notice in writing, require any Service Company to furnish it with any information about any matter relating to any business carried on in Singapore or elsewhere by the Service Company or by any coverholder authorised by the Service Company, if the Authority is of the opinion that it requires the information for the discharge of its functions under the Act.\n(2) The Authority may, by notice in writing, require the administrator to furnish it with any information about any matter relating to any business carried on in Singapore or elsewhere by —\n(a)any Service Company;\n(b)any coverholder authorised by any Service Company; or\n(c)the administrator,\nif the Authority is of the opinion that it requires the information for the discharge of its functions under the Act.\n[S 180/2015 wef 01/04/2015]"
+   }
+  },
+  {
+   "id": "SG-H2821-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulations 3(1), 7 and 24\nPermitted insurance business\n1. The contracts of insurance which a member of Lloyd’s may enter into under these Regulations are —\n(a)direct insurance policies of all types of general class insurance in respect of offshore policies;\n(b)reinsurance business of all types of general class insurance in respect of both Singapore policies and offshore policies; and\n(c)direct insurance policies of the following classes of business in respect of Singapore policies:\nFirst column\nSecond column\nGeneral Heading\nSpecific Type of Business\n(a)Aviation\n(1)Aerial application liability\n(2)Aircraft hull\n(3)Aircraft hull war\n(4)Aircraft liability\n(5)Aircraft loss of use\n(6)Aircraft operators’ and owners’ legal liability\n(7)Aircraft spares and equipment\n(8)Aircraft spares and equipment, including transits\n(9)Aircraft technical records\n(10)Air meet liability\n(11)Aviation products liabilities\n(12)Aviation combined policies (hull and liabilities)\n(13)Aviation personal accident and health\n(14)Aviation premises, hangarkeeper’s, refuelling, airport owners’, contractors’ and operators’ legal liability\n(15)Chemical liability, aviation\n(16)Confiscation risks, aircraft\n(17)Hijacking of hulls of aircraft\n(18)Loss of use, aircraft and hull\n(19)Miscellaneous aviation liability\n(20)Space risk — launch and commissioning period\n(21)Space liability\n(22)Space risk liability, excluding products\n(23)Space risk, transponder operating or otherwise\n(24)War — aircraft\n(25)War — aviation cargo\n(26)Terrorism\n(b)Energy\n(1)Atomic (nuclear) Liability\n(2)Atomic (nuclear) Physical Damage\n(3)Energy liability, onshore, claims made\n(4)Energy liability, onshore, all other\n(5)Energy — onshore\n(6)Energy — offshore\n(7)Energy — search and production vessels and offshore property\n(8)Energy — operators extra expenses and control of well\n(9)Terrorism\n(c)Marine\n(1)Admiralty guarantee after arrest (care custody and control)\n(2)Admiralty indemnity\n(3)Air cushion vehicles — full conditions\n(4)Air cushion vehicles — total loss only\n(5)Air cushion vehicles — third party liability\n(6)Average disbursements\n(7)Bail (marine)\n(8)Bailee’s liability\n(9)Balancing charges\n(10)Blockage of waterways — marine\n(11)Blockage of waterways — war and/or political\n(12)Break-up risks\n(13)Builders guarantee (ships)\n(14)Bumbershoot and/or umbrella liabilities (marine)\n(15)Charter hire on total loss only conditions\n(16)Charterers’ liability\n(17)Confiscation risks — cargo\n(18)Confiscation risks — vessels\n(19)Containers — whether or not including third party\n(20)Containers — war only\n(21)Container liability\n(22)Container — third party only\n(23)Cost of cleaning up, cost of control\n(24)Difference in conditions (vessels)\n(25)Disbursements and excesses\n(26)Fish farm\n(27)Floating cranes\n(28)Floating docks\n(29)Floating docks, total loss only\n(30)Foul berth\n(31)Freight\n(32)Increase value /excesses\n(33)Interest, total loss only\n(34)Loss of hire — vessels\n(35)Marine legal liability — all other\n(36)Marine legal liability — claims made\n(37)Maritime employers’ liability\n(38)Mortgages additional perils (pollution)\n(39)Mortgages interest, vessels\n(40)Navigation aids service liabilities\n(41)Non-delivery or late delivery of vessels\n(42)Nuclear liability (marine)\n(43)Oil drilling and associated business — oil rigs and platforms, offshore\n(44)Oil drilling and associated business — cost of control\n(45)Oil drilling and associated business — operators extra expense\n(46)Oil rigs, offshore\n(47)Oil rigs, offshore — war\n(48)Oil rigs liability — offshore claims made\n(49)Oil rigs liability — offshore all other\n(50)Oil rigs, total loss only\n(51)Overdues, total loss only\n(52)P&I (Protection and Indemnity)\n(53)Port/Harbour authority liability\n(54)Premiums reducing\n(55)Products liability (marine)\n(56)Properties and structures\n(57)Removal of wreck liability\n(58)Running down clause\n(59)Salvage guarantee\n(60)Salvors’ legal liability\n(61)Second seamen’s\n(62)Seepage and pollution liability, marine all other\n(63)Seepage and pollution liability, marine claims made\n(64)Ships agents’ liability\n(65)Ship breakers’ liability\n(66)Shipbuilders’ risks\n(67)Shipbuilders’ risk — total loss only\n(68)Shipowners’ interests\n(69)Ship repairers’ legal liability\n(70)Stevedores liability\n(71)Strikes demurrage — hull\n(72)Strikes — hull\n(73)Stuffers’ liability\n(74)Terminal operators’ liability — marine\n(75)Third party liability — marine\n(76)Time — hull risks\n(77)Tow, hull and machinery, full conditions\n(78)Tow, hull and machinery, interest total loss only\n(79)Towers and excess towers liability\n(80)Vessels — total loss only\n(81)Vessels — wider conditions\n(82)Vessels — interest\n(83)Vessels — war\n(84)War — marine cargo\n(85)Water quality\n(86)Wharfingers’ liability\n(87)Yachts\n(88)Terrorism\n(d)Property\n(1)Agricultural crop and forestry\n(2)Bloodstock\n(3)Contractors’ all risk\n(4)Crops — hail\n(5)Crops — all other\n(6)Engineering all risks\n(7)Farm owners\n(8)Fine arts including antiques, other collectibles\n(9)Forestry\n(10)Furriers block\n(11)General Specie\n(12)Jewellers’ block\n(13)Livestock\n(14)Malicious damage and sabotage\n(15)Paintings\n(16)Terrorism\n(17)Vandalism and malicious mischief\n(18)War cover\n(19)Weather including pluvius\n(e)General Liability\n(1)Accountants’ professional indemnity\n(2)Appraisers’ errors and omissions\n(3)Bankers’ blanket bond\n(4)Boiler and machinery liability\n(5)Claims adjusters’ errors and omissions\n(6)Collection agents’ errors and omissions\n(7)Comprehensive crime\n(8)Computer crime\n(9)Computer fraud\n(10)Cyber insurance\n(11)Directors’ and Officers’ liability\n(12)Doctors’ medical malpractice\n(13)Employment agents’ errors and omissions\n(14)Errors and omissions liability\n(15)False arrest Fidelity\n(16)Fiduciary bond\n(17)Fiduciary liability\n(18)Financial service professional indemnity\n(19)Forgery\n(20)Fraud\n(21)Hospital liability\n(22)Insurance brokers’ and agents’ errors and omissions\n(23)Land surveyors’ errors and omissions\n(24)Lawyers’ professional indemnity\n(25)Medical malpractice\n(26)Patent infringement\n(27)Pension fund theft\n(28)Premium finance company errors and omissions\n(29)Products liability\n(30)Professional indemnity\n(31)Slander\n(32)Stockbrokers’ “in and out” and stockbrokers’ fidelity bond\n(f)Goods in Transit\n(1)Airfreight liability\n(2)Armoured carriers\n(3)Aviation cargo\n(4)Cargo all risks\n(5)Cargo, war\n(6)War on land in respect of goods in transit foreign assets\n(7)Cash in transit\n(8)Confiscation risks — cargo\n(9)Containers\n(10)Difference in conditions\n(11)Goods in transit — own goods\n(12)Goods in transit — legal liability\n(13)Liability for cargo\n(14)Trucking risks\n(g)Personal Accident and Sickness\n(1)Group schemes (in respect of renewal business only)\n(2)Kidnap and Ransom (in respect of Offshore Policies)\n(3)Health (in respect of renewal business only)\n(4)Personal Accident and Sickness (in respect of renewal business only)\n(h)Pecuniary Loss\n(1)Credit\n(2)Cancellation, abandonment and non-performance/non-appearance\n(3)Contingency\n(4)Contingent liability\n(5)Contract frustration indemnity\n(6)Contract frustration excluding war and insolvency\n(7)Contractors’ plant and equipment\n(8)Earthquake\n(9)Extended warranty\n(10)Estate protection\n(11)Financial Guarantee\n(12)Force majeure — contingency\n(13)Force majeure — political\n(14)Force majeure — liquidated damages\n(15)Legal expenses\n(16)Mining Equipment\n(17)Mortgage Indemnity/Guarantee\n(18)Mechanical breakdown\n(19)Personal stop loss\n(20)Political risks\n(21)Prize Indemnity\n(22)Product Recall\n(23)Surety Bonds\n(24)Trade Credit\n(25)Film\n[S 814/2004 wef 01/01/2005]\n[S 665/2010 wef 04/11/2010]\n2. A member of Lloyd’s may enter into any direct insurance policy of any type of general class insurance in respect of Singapore policies in any particular case where the Authority is satisfied that the risk insured against is, or the circumstances are, exceptional.\n[S 665/2010 wef 04/11/2010]"
+   }
+  },
+  {
+   "id": "SG-H2821-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 6(3)(a)\nParticulars to be furnished by applicant for registration as agent for member of Lloyd’s\n1. Subject to paragraphs 2 and 3, the particulars that must be furnished to the administrator by the applicant for registration as an agent for a member of Lloyd’s under regulation 6(3)(a) are as follows:\n(a)name of the applicant;\n(b)registered address of the applicant;\n(c)the latest audited balance-sheet, profit and loss statement and other financial statements of the managing agent at Lloyd’s in relation to which the applicant is to act as agent in Singapore;\n(d)name and correspondence address of the managing agent at Lloyd’s in relation to which the applicant is to act as agent in Singapore;\n(e)the shareholding structure of the applicant, including the relationship between the applicant and the managing agent at Lloyd’s in relation to whom it is to act as agent in Singapore;\n[S 665/2010 wef 04/11/2010]\n(f)the syndicates for whom the applicant is appointed to act as agent;\n(g)the types of insurance business proposed to be underwritten by the applicant on behalf of the syndicates referred to in sub-paragraph (f);\n[S 665/2010 wef 04/11/2010]\n(h)the organisation chart of the applicant;\n[S 665/2010 wef 04/11/2010]\n(i)the name and the designation of the person whom the proposed chief executive officer of the applicant will report to;\n[S 665/2010 wef 04/11/2010]\n(j)the names and experience of the underwriters to be employed by the applicant in Singapore;\n[S 665/2010 wef 04/11/2010]\n(k)the stamped capacity of each syndicate referred to in sub-paragraph (f).\n[S 665/2010 wef 04/11/2010]\n2. Where any of the members of the syndicates referred to in paragraph 1(f) are corporate bodies, the applicant must furnish to the Authority a list of the names and the registered addresses of the corporate bodies and the participation share of each corporate body in the syndicate.\n3. The Authority may, in writing, require further particulars to be provided in respect of the applicant, or of any information furnished under paragraphs 1 and 2."
+   }
+  },
+  {
+   "id": "SG-H2821-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulation 18(2)\nParticulars to be contained in register of members of Lloyd’s maintained by administrator\nThe particulars that must be contained in the register which is required to be maintained by the administrator under regulation 18(1)(a) (in respect of the members of Lloyd’s who are registered under regulation 4) are as follows:\n(a)name of the member;\n(b)the membership number at Lloyd’s;\n(c)either —\n(i)the official address, in the case of a member that is an individual; or\n(ii)the country of incorporation and registered office address, in the case of a member that is a corporation;\n(d)the syndicates in which the member participates and the participation share of the member in each syndicate."
+   }
+  },
+  {
+   "id": "SG-H2821-A900003",
+   "no": 900003,
+   "noLabel": {
+    "en": "FOURTH SCHEDULE"
+   },
+   "text": {
+    "en": "FOURTH SCHEDULE\nRegulation 18(3)\nParticulars to be contained in register of Service Companies maintained by administrator\nThe particulars that must be contained in the register which is required to be maintained by the administrator under regulation 18(1)(b) (in respect of the Service Companies which are registered under regulation 6) are as follows:\n(a)the name and registered office address of the Service Company;\n(b)each syndicate for whose members the Service Company is approved under regulation 6A(1) to enter into any contract of insurance;\n[S 180/2015 wef 01/04/2015]\n(ba)the shareholding structure of the Service Company, including the relationship between the Service Company and the managing agent at Lloyd’s in relation to whom the Service Company is acting as agent in Singapore;\n[S 665/2010 wef 04/11/2010]\n(bb)the types of insurance business underwritten by the Service Company on behalf of each syndicate referred to in sub-paragraph (b);\n[S 665/2010 wef 04/11/2010]\n(c)the name and correspondence address of the managing agent at Lloyd’s in relation to whom the Service Company is acting as agent in Singapore;\n[S 665/2010 wef 04/11/2010]\n(d)the organisation chart of the Service Company;\n[S 665/2010 wef 04/11/2010]\n(e)the names and experience of the underwriters employed by the Service Company in Singapore;\n[S 665/2010 wef 04/11/2010]\n[S 180/2015 wef 01/04/2015]\n(f)the stamped capacity of each syndicate referred to in sub-paragraph (b);\n[S 665/2010 wef 04/11/2010]\n[S 180/2015 wef 01/04/2015]\n(g)with respect to each coverholder authorised by the Service Company under a binding authority —\n(i)the name and registered office of the coverholder; and\n(ii)the types of insurance business underwritten by the coverholder on behalf of any member of any syndicate, for whom the Service Company is approved under regulation 6A(1) to enter into any contract of insurance;\n[S 180/2015 wef 01/04/2015]\n(h)if applicable, a list of all of the following arrangements entered into by the Service Company during the most recently concluded accounting period:\n(i)any contract of insurance entered into on behalf of the members of a syndicate, for which the approval of the Authority is not required under regulation 6A(1A);\n(ii)any contract of insurance entered into on behalf of an insurer;\n[S 180/2015 wef 01/04/2015]\n(i)all the following particulars with respect to each arrangement referred to in sub-paragraph (h):\n(i)the syndicate referred to in sub-paragraph (h)(i) or the insurer referred to in sub-paragraph (h)(ii), as the case may be;\n(ii)the type of insurance business underwritten under the arrangement;\n(iii)the period of each arrangement.\n[S 180/2015 wef 01/04/2015]"
+   }
+  },
+  {
+   "id": "SG-H2821-A900004",
+   "no": 900004,
+   "noLabel": {
+    "en": "FIFTH SCHEDULE"
+   },
+   "text": {
+    "en": "FIFTH SCHEDULE"
+   },
+   "status": "repealed"
+  }
+ ]
+}

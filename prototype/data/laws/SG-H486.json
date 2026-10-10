@@ -1,0 +1,400 @@
+{
+ "id": "SG-H486",
+ "title": {
+  "zh": null,
+  "en": "Census Act 1973",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p06",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act CA1973",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 28,
+ "chars": 17463,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/CA1973?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 28 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 2 篇以 900000+ 序号随同收录。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H486-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Census Act 1973."
+   }
+  },
+  {
+   "id": "SG-H486-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“census officer” means any person appointed under section 4, 5 or 6;\n“competent authority” means any public officer or any statutory body established by or under any written law or any officer of the statutory body, being under any obligation imposed by any written law to observe secrecy in respect of any particulars or information obtained by the public officer or the statutory body or officer of the statutory body in the administration of that written law;\n“dwelling house” means a building, erection or tenement, whether permanent or temporary, which is wholly or partly used for the purpose of human habitation and includes any ship or vessel in Singapore;\n“schedule” means a schedule in the prescribed form in which are, or are to be, entered the prescribed particulars required for the purposes of a census;\n“Superintendent” means the Superintendent of Census appointed under section 4."
+   }
+  },
+  {
+   "id": "SG-H486-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Power to direct census to be taken"
+   },
+   "text": {
+    "en": "3. The Minister may, by notification in the Gazette, direct that a census be taken throughout Singapore or of any specified area of Singapore of the population, housing, agriculture, animal husbandry, fisheries, trade, labour, industry, building and construction, commerce, education, health and family planning, transportation or any other matters that the Minister may consider necessary or desirable and may by the same or a different notification prescribe —\n(a)the date on which the census is to be taken; and\n(b)the particulars to be obtained for the purposes of the census."
+   }
+  },
+  {
+   "id": "SG-H486-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Appointment of Superintendent of Census"
+   },
+   "text": {
+    "en": "4.—(1) The Minister may appoint a Superintendent of Census to supervise the taking of any census directed to be taken under the provisions of this Act.\n(2) The Superintendent, in the exercise of his or her powers and in the performance of his or her duties under this Act or any rules made under this Act, is subject to the control of, and must comply with any directions given by, the Minister."
+   }
+  },
+  {
+   "id": "SG-H486-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Appointment of Deputy Superintendents and Assistant Superintendents of Census"
+   },
+   "text": {
+    "en": "5. The Minister may appoint for specified areas such Deputy Superintendents and Assistant Superintendents of Census, and assign any functions to them that the Minister considers necessary for the purpose of any census directed to be taken under the provisions of this Act."
+   }
+  },
+  {
+   "id": "SG-H486-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Appointment of supervisors and enumerators"
+   },
+   "text": {
+    "en": "6. The Superintendent may, by writing under the hand of the Superintendent, appoint such supervisors, enumerators and other census officers as the Superintendent considers necessary to supervise or take or aid in the taking of a census within any specified area, and may at any time revoke those appointments."
+   }
+  },
+  {
+   "id": "SG-H486-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Census officers"
+   },
+   "text": {
+    "en": "7.—(1) Every census officer is deemed to be a public servant within the meaning of the Penal Code 1871.\n(2) Every census officer appointed under section 6 must carry with him or her at all times when on duty the letter of appointment furnished to him or her under that section and must produce the letter for inspection by any person who may in good faith question his or her authority as a census officer."
+   }
+  },
+  {
+   "id": "SG-H486-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Occupier to allow access and permit affixing of numbers"
+   },
+   "text": {
+    "en": "8. Every person occupying any dwelling house or other premises must allow any census officer such access to the dwelling house or other premises as may be necessary for the purposes of a census, and must allow the census officer to paint, mark or affix on or to the dwelling house or other premises any letters, marks or numbers that the Superintendent considers necessary for the purposes of the census and to make any alterations to those letters, marks or numbers."
+   }
+  },
+  {
+   "id": "SG-H486-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Questions by census officers"
+   },
+   "text": {
+    "en": "9. A census officer may ask any person within the limits of the area for which the census officer is appointed such questions as may be necessary to obtain the information required for the purposes of the census."
+   }
+  },
+  {
+   "id": "SG-H486-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Delivery and filling in of schedule"
+   },
+   "text": {
+    "en": "10.—(1) A census officer may leave at any dwelling house or other premises within the area for which the census officer is appointed a schedule to be filled in by the occupier of the dwelling house or other premises or of any specified part of the dwelling house or other premises.\n(2) The occupier must, within the time mentioned therein, fill in the schedule, or cause it to be filled in, in the manner prescribed and must thereafter deliver the schedule to an enumerator or a supervisor appointed for the area in which the dwelling house or other premises is situated or to any other person as the Superintendent may direct.\n(3) If the occupier is unable either to fill in the schedule or cause it to be filled in, in the manner prescribed, the occupier must preserve it in the condition he or she received it and must deliver it to the enumerator, supervisor or other person (as the case may be) who must, after exercising the powers conferred upon him or her by section 9, fill in the schedule in the manner prescribed.\n(4) At any time before or within one year (or such longer period as may be prescribed) after the date prescribed for the taking of a census, if directed by the Superintendent to do so, any census officer may visit any dwelling house or other premises within the area for which the census officer is appointed, for the purpose of checking any information obtained or of obtaining further information for the purposes of the census, and may, if satisfied that a schedule is incorrect in any material particular, make any necessary correction on the schedule."
+   }
+  },
+  {
+   "id": "SG-H486-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Enumeration of persons in public institutions, hotels, etc."
+   },
+   "text": {
+    "en": "11.—(1) The Superintendent may deliver or cause to be delivered to the following persons a schedule to be filled in in respect of the persons who at the time of the taking of a census are in or upon those premises:\n(a)every person in charge of a hospital, workhouse, prison, police station, reformatory or lock-up, or of any public, charitable, religious or educational institution;\n(b)every keeper, secretary or manager of a hotel, boarding house, lodging house or club.\n(2) The person to whom the schedule is delivered must —\n(a)fill in the schedule or cause it to be filled in, to the best of his or her knowledge and belief, so far as regards the inmates of the hospital, workhouse, prison, police station, reformatory, lock-up, or public, charitable, religious or educational institution or the hotel, boarding house, lodging house or club within the time mentioned in the schedule, and must sign his or her name to the schedule; and\n(b)when so required, deliver the schedule so filled in and signed to an enumerator or a supervisor appointed for the area within which the building is situated or to any other person that the Superintendent may direct."
+   }
+  },
+  {
+   "id": "SG-H486-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Enumeration of naval, military and air forces, travellers, etc."
+   },
+   "text": {
+    "en": "12. The Superintendent must obtain, by such ways and means as appear to the Superintendent best adapted for the purposes, the information required by this Act or the rules made under this Act with respect to —\n(a)any naval, military or air forces; and\n(b)all persons who during the time appointed for the taking of the census were not living in any house, of which account is to be taken by the census officers as provided by this Act,\nand must include that information in the abstracts to be made by the Superintendent under this Act."
+   }
+  },
+  {
+   "id": "SG-H486-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Request for information from competent authorities"
+   },
+   "text": {
+    "en": "13.—(1) The Superintendent may, for the purposes of a census, in writing direct any competent authority specified in the first column of the First Schedule to furnish or supply to him any particulars or information obtained by the competent authority under the written law specified in the second column of the First Schedule and, despite the provisions of any written law, the competent authority must furnish and supply those particulars and information within the time that may be agreed to by the Superintendent and the competent authority.\n(2) Despite the provisions of this Act or any other written law, no person shall be guilty of an offence under this Act or that other written law or of any breach of confidence by virtue merely of the person disclosing any particulars or information to the Superintendent pursuant to any direction under subsection (1).\n(3) Subsection (1) does not apply to any particulars or information obtained under any written law relating to taxation or administered by the Monetary Authority of Singapore."
+   }
+  },
+  {
+   "id": "SG-H486-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Certain employers may be required to be enumerators"
+   },
+   "text": {
+    "en": "14.—(1) Upon receipt of a written requisition in the prescribed form signed by the Superintendent, every employer of —\n(a)employees who reside in any factory or workshop; or\n(b)any other class or description of employees that the Minister may by notification in the Gazette specify,\nis bound to act as an enumerator in respect of all those employees.\n(2) An employer mentioned in subsection (1) must cause to be filled in in respect of the employees any schedule delivered to the employer for the purpose, and must deliver the schedule filled in to the best of the employer’s knowledge and belief to the supervisor appointed for the area within which the premises are situated, or to any other person that the Superintendent may direct."
+   }
+  },
+  {
+   "id": "SG-H486-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Government employees to assist in taking census"
+   },
+   "text": {
+    "en": "15. All Government employees are bound to assist the work of taking the census when so required by the Superintendent."
+   }
+  },
+  {
+   "id": "SG-H486-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Schedules and returns to be delivered by enumerator to supervisor and forwarded to Superintendent"
+   },
+   "text": {
+    "en": "16.—(1) Every enumerator must deliver to the supervisor of the area for which the enumerator is appointed all schedules and all such returns as may be required by the Superintendent on the day or days to be appointed for that purpose by the Deputy or Assistant Superintendent for the district or area.\n(2) It is the duty of the supervisor to verify the schedules and returns delivered by the enumerator under subsection (1) and to transmit them forthwith to the Deputy or Assistant Superintendent who, upon receipt of the schedules and returns, must immediately forward them to the Superintendent."
+   }
+  },
+  {
+   "id": "SG-H486-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "heading": {
+    "en": "Release of census information"
+   },
+   "text": {
+    "en": "17.—(1) The Superintendent must, upon receipt of the schedules and returns forwarded under this Act, cause reports to be made of them, and those reports must be printed and published for general information.\n(2) Prior to and after the publication of the reports mentioned in subsection (1), abstracts and special tabulations may be released for general information.\n(3) In any report or abstract prepared under subsection (1) or (2), the information compiled in the report or abstract must be so arranged as to prevent any particulars contained in the report or abstract from being identified as being particulars relating to any individual person, except with the previous consent in writing of that person.\n(4) Any particulars or information or part thereof relating to any individual person obtained under the provisions of this Act must not, without the previous consent in writing of that person, be disclosed except —\n(a)compiled statistics on the operation of an industry may be published irrespective of the number of persons engaged in that industry unless the industry is exempted by the Minister responsible for the Government department or ministry in possession of those particulars from having its data published;\n(b)where the disclosure can be made without identifying the individual person and, in the opinion of the Minister responsible for the Government department or ministry in possession of such particulars, an appropriate time has elapsed;\n(c)for the purposes of any proceedings for an offence under this Act or any report of those proceedings; or\n(d)information of a general nature which could be obtained from other sources.\n(5) It is the duty of the Minister responsible for the Government department or ministry in possession of such particulars to have due regard to the circumstances of various trades and industries and, in particular, to the importance of avoiding the disclosure in any return of any trade secret or of trading profit, or of any other information the disclosure of which would be likely to tend to the prejudice of the person furnishing the return."
+   }
+  },
+  {
+   "id": "SG-H486-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "heading": {
+    "en": "Disclosure of census information"
+   },
+   "text": {
+    "en": "18.—(1) Despite section 17, the Superintendent or any census officer authorised by the Superintendent in writing may, on the written request of a responsible officer of any public authority specified in the Second Schedule, disclose on a confidential basis any particulars or information relating to any individual person obtained under the provisions of this Act to the public authority if —\n(a)those particulars or information could also have been obtained by the public authority under any other written law; and\n(b)in any case where the particulars or information have been obtained from a competent authority under section 13, that competent authority consents in writing to the disclosure.\n(2) The Superintendent or any census officer authorised by the Superintendent in writing is not guilty of any offence under any written law or of any breach of confidence by virtue merely of the Superintendent or the census officer (as the case may be) disclosing any particulars or information in accordance with this section.\n(3) A person employed in or by a public authority to which any particulars or information have been disclosed under subsection (1) must not use any such particulars or information for the purpose of enforcing any obligation or liability applicable under any written law.\n(4) Any person employed in or by a public authority to which any particulars or information have been disclosed under subsection (1) who without the written approval of the Superintendent, or in breach of any condition of such approval, discloses any such particulars or information shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month or to both.\n(5) In this section —\n“public authority” includes a Government department or ministry;\n“responsible officer”, in relation to a public authority, means an officer designated by the Minister by notification in the Gazette as a responsible officer of the public authority for the purposes of this section."
+   }
+  },
+  {
+   "id": "SG-H486-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "heading": {
+    "en": "Offences by census officers"
+   },
+   "text": {
+    "en": "19. Any census officer or any person employed by the Superintendent in the preparation of reports and abstracts who —\n(a)without sufficient cause, refuses or neglects to comply with any instructions or requisitions addressed to him or her by the Superintendent, or fails to use reasonable diligence in performing any duty imposed on him or her;\n(b)wilfully asks an offensive or improper question;\n(c)knowingly makes any false return;\n(d)asks, receives or takes from any person other than an authorised officer of Government any payment or reward; or\n(e)without lawful authority publishes or communicates to any person any information acquired by him or her in the course of duty or employment,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month or to both."
+   }
+  },
+  {
+   "id": "SG-H486-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "heading": {
+    "en": "General offences"
+   },
+   "text": {
+    "en": "20. Any person who —\n(a)refuses to answer, to the best of his or her knowledge and belief, any question asked of the person by a census officer which is necessary to obtain any information required for the purposes of a census;\n(b)knowingly makes or causes to be made, in any form or document to be filled in for the purpose of this Act or in answer to any question asked under the authority of this Act, any statement which is untrue in any material particular;\n(c)hinders or obstructs a census officer in the performance of the census officer’s duties;\n(d)removes, obliterates, alters or destroys before the expiry of 6 months from the time of taking the census, any letters, marks or numbers which have been painted, marked or affixed for the purposes of the census;\n(e)refuses or neglects to comply with any of the provisions of this Act or any rules made under this Act; or\n(f)having possession of any information which to his or her knowledge has been disclosed in contravention of the provisions of this Act, publishes or communicates that information to any other person,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month or to both."
+   }
+  },
+  {
+   "id": "SG-H486-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "heading": {
+    "en": "Impersonation of census officer"
+   },
+   "text": {
+    "en": "21. Any person who impersonates a census officer shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 6 months."
+   }
+  },
+  {
+   "id": "SG-H486-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "heading": {
+    "en": "Consent of Public Prosecutor"
+   },
+   "text": {
+    "en": "22. No prosecution shall be instituted under this Act without the consent of the Public Prosecutor."
+   }
+  },
+  {
+   "id": "SG-H486-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "heading": {
+    "en": "Census records not admissible in evidence"
+   },
+   "text": {
+    "en": "23. No entry in any book, register or record made by a census officer or by any other person in the discharge of his or her duty under this Act is admissible as evidence in any civil or criminal proceedings, except in a prosecution instituted under this Act in respect of any entry against the person who made the entry or caused it to be made."
+   }
+  },
+  {
+   "id": "SG-H486-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "heading": {
+    "en": "Rules"
+   },
+   "text": {
+    "en": "24. The Minister may make rules —\n(a)to prescribe the duties of census officers;\n(b)to prescribe the persons from whom, and the mode in which, information is to be obtained for the purposes of a census;\n(c)to prescribe the forms of schedules and other documents to be used for the purposes of this Act and any matter or thing which by this Act may or is required to be prescribed; and\n(d)generally to give effect to the provisions and purposes of this Act."
+   }
+  },
+  {
+   "id": "SG-H486-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "heading": {
+    "en": "Amendment of Schedules"
+   },
+   "text": {
+    "en": "25.—(1) Subject to subsection (2), the Minister may by notification in the Gazette amend the First or Second Schedule.\n(2) The Minister must not insert or delete and substitute any written law in the First Schedule without the approval of the Minister responsible for the competent authority administering that written law."
+   }
+  },
+  {
+   "id": "SG-H486-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "heading": {
+    "en": "Transitional provision"
+   },
+   "text": {
+    "en": "26. All information collected under the repealed Census Act (Cap. 297, 1970 Revised Edition) is subject to the same safeguards relating to disclosure as are provided by this Act as if that information were collected under this Act."
+   }
+  },
+  {
+   "id": "SG-H486-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nSections 13(1) and 25\nCompetent authorities\nFirst column\nSecond column\n1. Central Provident Fund Board\nCentral Provident Fund Act 1953."
+   }
+  },
+  {
+   "id": "SG-H486-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nSections 18(1) and 25(1)\n1. Central Provident Fund Board."
+   }
+  }
+ ]
+}

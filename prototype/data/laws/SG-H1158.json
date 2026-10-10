@@ -1,0 +1,52 @@
+{
+ "id": "SG-H1158",
+ "title": {
+  "zh": null,
+  "en": "Designation of Authorised Persons",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p15",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation ANA1966-N2",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "structure": null,
+ "articleCount": 1,
+ "chars": 664,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/ANA1966-N2?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "该法规为单篇法律文书，无分节结构；正文按官方 front 抬头逐字全录，共 1 条。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H1158-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1"
+   },
+   "text": {
+    "en": "Air Navigation Act\n(Chapter 6 and definition of “authorised person” in paragraph 2(1) of Air Navigation Order)\nDesignation of Authorised Persons\nN 2\nG.N. No. S 377/2000\nREVISED EDITION 2002\n(31st January 2002)\n[23rd August 2000]\nThe Minister for Communications and Information Technology has designated the Division Head and every Airworthiness Officer and Flight Operations Officer of the Airworthiness and Flight Operations Division of the Civil Aviation Authority of Singapore to be an authorised person for the purposes of paragraphs 8(3), 58, 58A, 72A, 73 and 74 of the Air Navigation Order (O 2) and paragraph 2 of Part B of the Ninth Schedule to that Order."
+   }
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "PH-H425",
+ "title": {
+  "zh": null,
+  "en": "An Act to Regulate Horse-Races in the Philippines",
+  "orig": "An Act to Amend Section Six of Republic Act Numbered Three Hundred and Nine, Entitled \"An Act to Regulate Horse-Races in the Philippines\""
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p05",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1948-07-15",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 332",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 1887,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1948/ra_332_1948.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1948/ra_332_1948.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H425-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section six of Republic Act Numbered Three hundred and nine, entitled \"An Act to regulate horse-races in the Philippines,\" is hereby amended to read as follows:\n\"Sec. 6. Record of tickets sold. -No person, race-track, racing club, nor any other entity holding horse-races the crossings of which on any race day exceeds fifty thousand pesos, shall be allowed to hold races, unless such person, race-track, racing club, or entity is provided with an automatic, electrically-operated public indicator system and ticket-selling machines, by means of which every ticket purchased on every horse in any race, shall be automatically and instantaneously recorded by electrical impulse on a prominently-displayed bulletin board, each figure, letter or symbol of which shall be readable from a distance. However, any such person, race-track, racing club, or entity may, upon proper application, be provisionally licensed by the Commission on Races to hold horse-races even without the required automatic electric totalizator: Provided, That it shall provide itself with mechanical or other devices by which every ticket purchased on every horse in any race shall be recorded on a prominently displayed bulletin board readable from a distance in lieu of the required automatic electric totalizator which shall be subject to the approval of the Commission on Races after they have been tested and found by the Commission to be satisfactory: And Provided, further, That such person, race-track, racing club, or entity shall acquire and install within its premises the required automatic electric totalizator within such period as may be determined by the Commission but not beyond June thirty, nineteen hundred and forty-nine, and failure to comply with this requirement shall cause the cancellation of their respective licenses.\""
+   }
+  },
+  {
+   "id": "PH-H425-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: July 15, 1948."
+   }
+  }
+ ]
+}

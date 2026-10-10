@@ -1,0 +1,378 @@
+{
+ "id": "SG-H369",
+ "title": {
+  "zh": null,
+  "en": "Building Control (Periodic Inspection of Buildings and Building Façades) Regulations 2021",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p05",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation BCA1989-S785-2021",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 21,
+ "chars": 33297,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/BCA1989-S785-2021?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 21 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H369-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. These Regulations are the Building Control (Periodic Inspection of Buildings and Building Façades) Regulations 2021 and come into operation on 1 January 2022."
+   }
+  },
+  {
+   "id": "SG-H369-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations, unless the context otherwise requires —\n“appointed competent person” means a competent person appointed by the owner of a building under regulation 12, and includes a competent person appointed in replacement under regulation 13;\n“appointed structural engineer” means a structural engineer appointed by the owner of a building under regulation 3, and includes a structural engineer appointed in replacement under regulation 4;\n“Commissioner” means the Commissioner of Building Control appointed under section 3(1) of the Act to be responsible for the operation of Part 5 of the Act;\n“façade inspection”, in relation to a building, means an inspection of the façade of the building to identify —\n(a)any part of the façade that may be subject to excessive erosion, corrosion, wear, fatigue, stress or strain; or\n(b)any other situation or circumstance,\nthat may give rise to a probability of the occurrence or potential occurrence of the collapse (wholly or partly) of the façade and death or injury to individuals, or damage to other property, within or outside the building;\n“façade inspection notice”, in relation to a building, means a notice given under section 28(1)(b) of the Act requiring a façade inspection of the building specified in the notice;\n“façade-related working experience” means practical working experience in respect of the fabrication, installation, repair or maintenance of one or more elements of any façade of a building;\n“full façade investigation” has the meaning given by regulation 15(6);\n“full structural investigation” has the meaning given by regulation 6(4);\n“owner”, in relation to a building, means all owners of the building if there are more than one;\n“structural inspection”, in relation to a building, means an inspection of the building to ensure its structural stability or integrity;\n“structural inspection notice” means a notice given under section 28(1)(a) of the Act requiring a structural inspection of a building specified in the notice;\n“working day” means any day other than a Saturday, Sunday or public holiday.\n(2) Where the time specified by these Regulations for doing any act expires on a day other than a working day, the act is in time if done on the next working day."
+   }
+  },
+  {
+   "id": "SG-H369-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 2 INSPECTION OF BUILDINGS"
+   },
+   "heading": {
+    "en": "Appointment of structural engineer"
+   },
+   "text": {
+    "en": "3.—(1) Where a structural inspection notice is given to an owner of a building specified in the notice, the owner of the building must appoint, within any of the following times, a structural engineer to carry out a structural inspection of the building:\n(a)within 2 months after the date of the structural inspection notice;\n(b)within any period of extension allowed under section 2(6) of the Act.\n(2) An owner of a building who, intentionally or negligently, fails to appoint a structural engineer within the time delimited by or under paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000."
+   }
+  },
+  {
+   "id": "SG-H369-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 2 INSPECTION OF BUILDINGS"
+   },
+   "heading": {
+    "en": "Replacement of appointed structural engineer"
+   },
+   "text": {
+    "en": "4.—(1) Where a structural engineer appointed under regulation 3(1) becomes unwilling or unable, for any reason, to carry out or continue carrying out the structural inspection of the building concerned, the owner of the building must, within any of the following times, appoint another structural engineer to carry out or continue carrying out the structural inspection of the building:\n(a)within 2 months after the date the owner becomes aware that the firstmentioned structural engineer is unable, or does not intend, to carry out or continue carrying out the structural inspection;\n(b)within any period of extension allowed under section 2(6) of the Act.\n(2) An owner of a building who, intentionally or negligently, fails to appoint a structural engineer within the time delimited by or under paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000."
+   }
+  },
+  {
+   "id": "SG-H369-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 2 INSPECTION OF BUILDINGS"
+   },
+   "heading": {
+    "en": "Notice of appointment of structural engineer"
+   },
+   "text": {
+    "en": "5.—(1) An owner of a building specified in a structural inspection notice given to the owner must, after appointing a structural engineer under regulation 3 or another structural engineer in replacement under regulation 4, give a notice, in accordance with paragraph (2), to the Commissioner no later than the 7th day (or the next working day) after the end of —\n(a)2 months after the date of the structural inspection notice; or\n(b)any period of extension allowed under section 2(6) of the Act for the period mentioned in sub‑paragraph (a).\n(2) A notice required by paragraph (1) must —\n(a)state the name of the structural engineer appointed; and\n(b)contain a statement, signed by that structural engineer, confirming the appointment.\n(3) An owner of a building who, intentionally or negligently, fails to give notice to the Commissioner within the time delimited by or under paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H369-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 INSPECTION OF BUILDINGS"
+   },
+   "heading": {
+    "en": "How structural inspection to be carried out"
+   },
+   "text": {
+    "en": "6.—(1) For the purposes of section 28(6)(a) of the Act, an appointed structural engineer must carry out in the manner prescribed in this regulation the structural inspection of a building specified in a structural inspection notice.\n(2) First, the appointed structural engineer must with reasonable diligence carry out a visual inspection of the building, which must include a visual survey, carried out personally, of all of the following:\n(a)the condition of the building;\n(b)the loading on the structure of the building;\n(c)whether there is evidence of any structural works that are or were carried out without any prior approval of the plans of those works where prior approval is required by Part 2 of the Act.\n(3) Next, if an appointed structural engineer, after carrying out a visual inspection of the building under paragraph (2) —\n(a)reasonably suspects or is of the opinion that there is any defect, deformation or deterioration in the structure of the building that will or will be likely to endanger or reduce the structural stability or integrity of any part of the building; and\n(b)is of the opinion that it is necessary to carry out a full structural investigation of the building in order —\n(i)to ascertain the cause of the defect, deformation or deterioration; and\n(ii)to recommend appropriate measures or other building works to ensure the structural stability or integrity of the building,\nthe appointed structural engineer must, and only with the prior approval of the Commissioner, with reasonable diligence carry out a full structural investigation of the building.\n(4) A full structural investigation of a building includes —\n(a)taking all reasonable steps to obtain information relating to the design, construction, maintenance and history of the building;\n(b)doing either of the following with a view to determining any inadequacy in the structural elements of the building:\n(i)checking with reasonable diligence the structural plans of the building and the calculations contained in the plans;\n(ii)if the plans cannot be obtained, reconstructing with reasonable diligence such structural plans where the Commissioner so requires;\n(c)carrying out or causing to be carried out tests on the structural elements of the building without damaging any part of the structural elements of the building;\n(d)carrying out or causing to be carried out tests on the materials used in the construction of the building; and\n(e)carrying out or causing to be carried out load testing of such parts of the building as the appointed structural engineer considers necessary.\n(5) An application by an appointed structural engineer for the Commissioner’s approval to carry out a full structural investigation of the building must be accompanied by an interim report containing a detailed description of the visual inspection of the building under paragraph (2)."
+   }
+  },
+  {
+   "id": "SG-H369-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 INSPECTION OF BUILDINGS"
+   },
+   "heading": {
+    "en": "Reports of structural inspection carried out"
+   },
+   "text": {
+    "en": "7.—(1) After carrying out a visual inspection of a building under regulation 6(2), the appointed structural engineer must prepare a report on the results of the visual inspection and his or her assessment of the condition of the building if —\n(a)he or she is of the opinion that there is no sign of any defect, deformation or deterioration in the structure of the building that will or will be likely to endanger or reduce the structural stability or integrity of any part of the building;\n(b)he or she reasonably suspects or is of the opinion that —\n(i)there is a defect, deformation or deterioration in the structure of the building that will or will be likely to endanger or reduce the structural stability or integrity of any part of the building; but\n(ii)it is not necessary to carry out a full structural investigation of the building in order —\n(A)to ascertain the cause of the defect, deformation or deterioration; and\n(B)to recommend appropriate measures or other building works to ensure the structural stability or integrity of the building; or\n(c)no approval is granted by the Commissioner for a full structural investigation of the building.\n(2) After carrying out a full structural investigation of a building, the appointed structural engineer must prepare a report of the results of the full structural investigation of the building and his or her assessment of the condition of the building.\n(3) A report of the results of an inspection of a building required by section 28 of the Act must contain —\n(a)a detailed description of the visual inspection and any full structural investigation of the building conducted by the appointed structural engineer;\n(b)analyses of observations and of every test conducted in the course of any full structural investigation of the building; and\n(c)recommendations by the appointed structural engineer as to such building works as are necessary to ensure the structural stability or integrity of any part of the building."
+   }
+  },
+  {
+   "id": "SG-H369-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 3 INSPECTION OF BUILDING FAÇADES"
+   },
+   "heading": {
+    "en": "Meaning of “façade” of building"
+   },
+   "text": {
+    "en": "8.—(1) For the purpose of paragraph (c) of the definition of “façade” in section 26(1) of the Act, the following parts of a building located on or near the exterior of a building are each prescribed to be the façade of the building:\n(a)any directional sign, signboard, skysign, animated billboard or other advertising structure installed for 36 months or shorter, and includes any frame, panel, hoarding or other supporting structure of or for the directional sign, signboard, skysign, animated billboard or other advertising structure;\n(b)any of the following that is used or may be used, for 36 months or shorter, to attach to, or that supports or may support for use with, the building any externally mounted equipment:\n(i)a metal or concrete bracket, or similar structural supporting system attached to the building and to the externally mounted equipment (if any);\n(ii)a cable and other associated components of a structural supporting system mentioned in sub‑paragraph (i), where the cable or components are attached to the building and to the externally mounted equipment (if any).\n(2) In paragraph (1)(b), “externally mounted equipment” includes the following:\n(a)an air-conditioning unit and its condensing equipment;\n(b)a ventilation system;\n(c)a photovoltaic array or panel;\n(d)a solar water heater;\n(e)an apparatus (including a dish antenna) or a combination of apparatus for the transmission or direct reception of broadcast matter or wireless communication."
+   }
+  },
+  {
+   "id": "SG-H369-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 3 INSPECTION OF BUILDING FAÇADES"
+   },
+   "heading": {
+    "en": "Requirement to be competent person"
+   },
+   "text": {
+    "en": "9. For the purpose of the definition of “competent person” in section 26(1) of the Act, the requirement a qualified person must satisfy in order to be a competent person is attending and successfully completing, before, on or after 1 January 2022, the course called the “Certificate in Façade Inspection” conducted or developed by the Building and Construction Authority, solely or jointly with any other person."
+   }
+  },
+  {
+   "id": "SG-H369-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 3 INSPECTION OF BUILDING FAÇADES"
+   },
+   "heading": {
+    "en": "Qualifications of façade inspector"
+   },
+   "text": {
+    "en": "10.—(1) For the purpose of paragraph (b) of the definition of “façade inspector” in section 26(1) of the Act, the qualifications and experience an individual must have in order to be a façade inspector are —\n(a)a certificate evidencing attending and successfully completing, before, on or after 1 January 2022, the course called the “Certificate in Façade Inspection” conducted or developed by the Building and Construction Authority, solely or jointly with any other person; and\n(b)an additional qualification and experience from among those mentioned in paragraph (2).\n(2) The additional qualification and experience required under paragraph (1)(b) are as follows:\n(a)a university degree or any other professional qualification recognised by the Professional Engineers Board for registration as a professional engineer under the Professional Engineers Act in the civil or structural engineering discipline, and at least 3 continuous months of working experience (which may include industrial attachments during the course of study) in civil or structural engineering;\n(b)a postgraduate master’s degree or doctoral degree in Civil Engineering or Structural Engineering from any university recognised by the Professional Engineers Board for registration as a professional engineer under the Professional Engineers Act, and at least 3 continuous months of working experience (which may include industrial attachments during the course of study) in civil or structural engineering;\n(c)a Chartered Engineer registered by the Engineering Council United Kingdom in the civil engineering or structural engineering discipline, and at least 3 continuous months of working experience (which may include industrial attachments during the course of study) in civil or structural engineering;\n(d)a degree from any local university or a diploma from any local polytechnic in Civil Engineering or Structural Engineering and at least 3 continuous months of working experience (which may include industrial attachments during the course of study) in civil or structural engineering;\n(e)a diploma in any construction‑related field from any local polytechnic or the Building and Construction Authority Academy, and —\n(i)at least one year of such relevant practical experience in full‑time supervision of structural works in construction sites in Singapore as may be acceptable to the Commissioner; or\n(ii)at least one year of façade‑related working experience;\n(f)a diploma or higher certificate from any foreign polytechnic in Civil Engineering or Structural Engineering, and —\n(i)at least 2 years of façade‑related working experience; or\n(ii)at least 2 years of such relevant practical experience in full‑time supervision of structural works in construction sites in Singapore as may be acceptable to the Commissioner;\n(g)a degree from any foreign university in Civil Engineering or Structural Engineering that does not entitle the holder to registration as a professional engineer under the Professional Engineers Act in the civil or structural engineering discipline, and —\n(i)at least 2 years of such relevant practical experience in full‑time supervision of structural works in construction sites in Singapore as may be acceptable to the Commissioner; or\n(ii)at least 2 years of façade‑related working experience;\n(h)a National Certificate on Construction Supervision (NCCS) from the Building and Construction Authority Academy, and —\n(i)at least one year of such relevant practical experience in full‑time supervision of structural works in construction sites in Singapore as may be acceptable to the Commissioner; or\n(ii)at least one year of façade‑related working experience;\n(i)a university degree or any other professional qualification that entitles an individual to be registered as an architect under the Architects Act, and at least 3 continuous months of working experience (which may include industrial attachments during the course of study) in architecture;\n(j)a Chartered Building Surveyor registered with the Royal Institution of Chartered Surveyors, and at least one year of façade‑related working experience occurring within the 2 years immediately before he or she is accredited with the Building and Construction Authority or an organisation prescribed under regulation 11;\n(k)a university degree in architecture which does not entitle an individual to be registered as an architect under the Architects Act, and at least 2 years of façade‑related working experience occurring within the 3 years immediately before he or she is accredited with the Building and Construction Authority or an organisation prescribed under regulation 11;\n(l)at least 10 years’ façade-related working experience occurring within the 12 years immediately before he or she is accredited with the Building and Construction Authority or an organisation prescribed under regulation 11, and any of the following qualifications:\n(i)an Industrial Technician Certificate, or a National Technical Certificate Grade 2, issued by the Institute of Technical Education, Singapore, or an equivalent qualification;\n(ii)GCE ‘N’, ‘O’ or ‘A’ level or an equivalent qualification."
+   }
+  },
+  {
+   "id": "SG-H369-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 3 INSPECTION OF BUILDING FAÇADES"
+   },
+   "heading": {
+    "en": "Accreditation of façade inspector"
+   },
+   "text": {
+    "en": "11. For the purpose of paragraph (c) of the definition of “façade inspector” in section 26(1) of the Act, the prescribed organisation a façade inspector must be accredited with is the Joint Accreditation Committee established by the Institution of Engineers, Singapore, the Association of Consulting Engineers Singapore and the Building and Construction Authority for the accreditation of façade inspectors."
+   }
+  },
+  {
+   "id": "SG-H369-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 3 INSPECTION OF BUILDING FAÇADES"
+   },
+   "heading": {
+    "en": "Appointment of competent person"
+   },
+   "text": {
+    "en": "12.—(1) Where a façade inspection notice is given to an owner of a building specified in the notice, the owner of the building must appoint, within any of the following times, a competent person to carry out a façade inspection of the façade of the building:\n(a)within 2 months after the date of the façade inspection notice;\n(b)within any period of extension allowed under section 2(6) of the Act.\n(2) An owner of a building who, intentionally or negligently, fails to appoint a competent person within the time delimited by or under paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000."
+   }
+  },
+  {
+   "id": "SG-H369-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 INSPECTION OF BUILDING FAÇADES"
+   },
+   "heading": {
+    "en": "Replacement of appointed competent person"
+   },
+   "text": {
+    "en": "13.—(1) Where a competent person appointed under regulation 12(1) becomes unwilling or unable, for any reason, to carry out or continue carrying out the façade inspection connected with the building concerned, the owner of the building must, within any of the following times, appoint another competent person to carry out or continue carrying out the façade inspection connected with the building:\n(a)within 2 months after the date the owner becomes aware that the firstmentioned competent person is unable, or does not intend, to carry out or continue carrying out the façade inspection;\n(b)within any period of extension allowed under section 2(6) of the Act.\n(2) An owner of a building who, intentionally or negligently, fails to appoint a competent person within the time delimited by or under paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000."
+   }
+  },
+  {
+   "id": "SG-H369-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 INSPECTION OF BUILDING FAÇADES"
+   },
+   "heading": {
+    "en": "Notice of appointment of competent person"
+   },
+   "text": {
+    "en": "14.—(1) An owner of a building specified in a façade inspection notice given to the owner must, after appointing a competent person under regulation 12 or another competent person in replacement under regulation 13, give a notice, in accordance with paragraph (2), to the Commissioner no later than the 7th day (or the next working day) after the end of —\n(a)2 months after the date of the façade inspection notice; or\n(b)any period of extension allowed under section 2(6) of the Act for the period mentioned in sub‑paragraph (a).\n(2) A notice required by paragraph (1) must —\n(a)state the name of the competent person appointed; and\n(b)contain a statement, signed by that competent person, confirming the appointment.\n(3) An owner of a building who, intentionally or negligently, fails to give notice to the Commissioner within the time delimited by or under paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000."
+   }
+  },
+  {
+   "id": "SG-H369-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 INSPECTION OF BUILDING FAÇADES"
+   },
+   "heading": {
+    "en": "How façade inspection to be carried out"
+   },
+   "text": {
+    "en": "15.—(1) For the purposes of section 28(6)(a) of the Act, an appointed competent person must carry out in the manner prescribed in this regulation the façade inspection of the building that is specified in a façade inspection notice.\n(2) First, the appointed competent person must with reasonable diligence carry out —\n(a)a visual inspection of the façade of the building, consisting of a visual survey carried out to observe and assess the condition of the entire façade —\n(i)using the method, technology and equipment described in paragraph (3) and in the manner allowed by regulation 16; or\n(ii)using such other equivalent method, technology or equipment as may be approved by the Commissioner and in the manner allowed by regulation 16; and\nExample\nDrone or similar unmanned aircraft designed for aerial survey.\n(b)a close-range inspection of the façade of the building to observe and assess the condition of the façade, carried out on suitable parts of each elevation of the building (being at least 10% of the surface area of each elevation) directed towards ascertaining whether there are defects beneath the surface of the façade material (such as hollowness or corrosion of concealed connections) —\n(i)using the method, technology and equipment described in paragraph (4) and in the manner allowed by regulation 16; or\n(ii)using such other equivalent method, technology or equipment as may be approved by the Commissioner and in the manner allowed by regulation 16.\nExamples\nRobotic automated tapping device.\nAutomated scanning equipment for close‑range inspection.\nInfrared and ultrasound scanners.\n(3) A visual inspection of the façade of a building to observe and assess the condition of the entire façade of the building must be carried out —\n(a)at an appropriate distance from ground level or other suitable vantage points; and\n(b)using photographic cameras whereby photographs or still images of the entire façade may be taken.\n(4) A close-range inspection of the façade of a building to observe and assess the condition of the façade of the building must be carried out —\n(a)at suitable parts of every elevation along a vertical drop or trail, or multiple vertical drops or trails, from the top floor to the ground floor of the building or vice versa; and\n(b)using —\n(i)a probing tool (such as a tapping rod or rubber mallet);\n(ii)a borescope or scanning equipment which does not require special training to operate or use; or\n(iii)a combination of equipment in sub‑paragraphs (i) and (ii).\n(5) Next, if an appointed competent person, after carrying out a visual inspection and close‑range inspection of the façade of a building under paragraph (2) —\n(a)reasonably suspects or is of the opinion that there is any sign of excessive erosion, corrosion, wear, fatigue, stress or strain in the façade, or any other situation or circumstance relating to the façade, that gives rise or is likely to give rise to a probability of the occurrence or potential occurrence of the collapse (wholly or partly) of the façade and death or injury to individuals, or damage to other property, within or outside the building; and\n(b)is of the opinion that it is necessary to carry out a full façade investigation of the façade in order —\n(i)to ascertain the cause of the excessive erosion, corrosion, wear, fatigue, stress or strain in the façade, or the other situation or circumstance relating to the façade; and\n(ii)to recommend appropriate measures or other building works necessary to prevent the occurrence or potential occurrence of collapse (wholly or partly) of the façade of the building,\nthe appointed competent person must, and only with the prior approval of the Commissioner, with reasonable diligence carry out a full façade investigation of the façade.\n(6) A full façade investigation of a façade of a building includes —\n(a)taking all reasonable steps to obtain information relating to the design, construction, maintenance and history of the façade of the building from the owner of the building, the builder of the building and any other person involved in the construction or maintenance of the building;\n(b)carrying out or causing to be carried out, in accordance with the proposal provided under paragraph (7)(c) —\n(i)design checks on the façade and the supporting structures of the façade by —\n(A)checking with reasonable diligence the structural plans of the façade and the calculations contained in the plans; or\n(B)if the plans cannot be obtained, reconstructing with reasonable diligence such structural plans where the Commissioner so requires;\n(ii)tests on the condition of the façade of the building and the supporting structure of the façade; and\n(iii)tests on the materials used in the construction of the façade of the building and the supporting structures of the façade; and\n(c)carrying out or causing to be carried out any other steps in assessing the condition of the façade of the building and the supporting structures of the façade, that the Commissioner may specially require when granting approval for the full façade investigation.\n(7) An application by an appointed competent person for the Commissioner’s approval to carry out a full façade investigation of the façade of the building must be accompanied by —\n(a)an interim report containing a detailed description of the visual inspection and close‑range inspection of the façade of a building under paragraph (2);\n(b)the information relating to the design, construction, maintenance and history of the façade of the building concerned; and\n(c)a proposal describing in detail —\n(i)the percentage of the total surface area of each building elevation to be subject to the full façade investigation; and\n(ii)the manner in which the design checks and tests mentioned in paragraph (6)(b) are to be carried out."
+   }
+  },
+  {
+   "id": "SG-H369-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 INSPECTION OF BUILDING FAÇADES"
+   },
+   "heading": {
+    "en": "Vicarious visual or close-range inspection"
+   },
+   "text": {
+    "en": "16.—(1) It is the duty of an appointed competent person to carry out in person —\n(a)a visual inspection of the façade of a building under regulation 15(2)(a); and\n(b)a close-range inspection of the façade of a building under regulation 15(2)(b).\n(2) However, to discharge his or her duty under paragraph (1), an appointed competent person may carry out a visual inspection under regulation 15(2)(a) or a close‑range inspection under regulation 15(2)(b), by causing a façade inspector to carry out (as the case may be) the following under the direct supervision and control of the appointed competent person:\n(a)the visual inspection using a method, technology and equipment described in regulation 15(3);\n(b)the close-range inspection using a method, technology and equipment described in regulation 15(4).\n(3) Without limiting paragraph (1), if an appointed competent person uses an equivalent method, technology or equipment as approved by the Commissioner under regulation 15(2)(a)(ii) or (b)(ii) to carry out a visual inspection under regulation 15(2)(a), or a close‑range inspection under regulation 15(2)(b), of the façade of a building but is not doing so in person, it is the duty of the appointed competent person —\n(a)to ensure that any person who is engaged to operate that equipment or any apparatus necessarily involved in that method or technology, does so —\n(i)in the presence of the appointed competent person, or a façade inspector who is under the direct supervision and control of the appointed competent person; and\n(ii)in accordance with the instructions of the appointed competent person; and\n(b)to personally review all photographs, images, readings or reports produced from the equipment or device used, in consultation with any other specially trained person where appropriate."
+   }
+  },
+  {
+   "id": "SG-H369-A16.001",
+   "no": 16.001,
+   "noLabel": {
+    "en": "16A."
+   },
+   "chapter": {
+    "en": "PART 3 INSPECTION OF BUILDING FAÇADES"
+   },
+   "heading": {
+    "en": "Appointment of façade inspector"
+   },
+   "text": {
+    "en": "16A. An appointed competent person must not appoint a façade inspector to carry out any inspection under regulation 16(2), who is a partner, an officer or an employee of —\n(a)the owner of the building;\n(b)the builder of the building;\n(c)any person involved in the carrying out of any building works in relation to the façade of the building; or\n(d)an associate of a person mentioned in sub-paragraph (a), (b) or (c).\n[S 594/2025 wef 01/10/2025]"
+   }
+  },
+  {
+   "id": "SG-H369-A16.002",
+   "no": 16.002,
+   "noLabel": {
+    "en": "16B."
+   },
+   "chapter": {
+    "en": "PART 3 INSPECTION OF BUILDING FAÇADES"
+   },
+   "heading": {
+    "en": "Duties of façade inspector"
+   },
+   "text": {
+    "en": "16B.—(1) A façade inspector appointed by an appointed competent person to carry out any inspection under regulation 16(2) must do the following:\n(a)if the façade inspector is carrying out a visual inspection mentioned in regulation 16(2)(a) or close-range inspection mentioned in regulation 16(2)(b) —\n(i)with reasonable diligence carry out the visual inspection or close-range inspection of the façade of the building concerned in accordance with the appointed competent person’s instructions; and\n(ii)provide the results of the visual inspection or close-range inspection (as the case may be) of the façade to the appointed competent person;\n(b)if a person is engaged to operate any equipment or apparatus to carry out a visual inspection or close-range inspection using an equivalent method, technology or equipment approved by the Commissioner mentioned in regulation 16(3) —\n(i)supervise the person with reasonable diligence and in person; and\n(ii)take all reasonable steps to ensure that the inspection is carried out in accordance with the equivalent method, technology or equipment (as the case may be) approved by the Commissioner;\n(c)notify the appointed competent person in writing immediately if the façade inspector reasonably suspects or is of the opinion that there is any sign of excessive erosion, corrosion, wear, fatigue, stress or strain in the façade, or any other situation or circumstance relating to the façade, that gives rise or is likely to give rise to a probability of the occurrence or potential occurrence of —\n(i)the collapse (wholly or partly) of the façade; and\n(ii)death or injury to individuals, or damage to other property, within or outside the building.\n(2) A façade inspector who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.\n[S 594/2025 wef 01/10/2025]"
+   }
+  },
+  {
+   "id": "SG-H369-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 INSPECTION OF BUILDING FAÇADES"
+   },
+   "heading": {
+    "en": "Reports of façade inspection carried out"
+   },
+   "text": {
+    "en": "17.—(1) After carrying out a visual inspection of the façade of a building and a close‑range inspection of the façade of a building required by regulation 15(2), the appointed competent person must prepare a report on the results of the visual inspection and close‑range inspection of the façade and his or her assessment of the condition of the façade if —\n(a)he or she is of the opinion that there is no excessive erosion, corrosion, wear, fatigue, stress or strain in the façade, or any other situation or circumstance relating to the façade, that has given rise or is likely to give rise to an occurrence of the collapse (wholly or partly) of the façade and death or injury to individuals, or damage to other property, within or outside the building;\n(b)he or she reasonably suspects or is of the opinion that —\n(i)there is any sign of excessive erosion, corrosion, wear, fatigue, stress or strain in the façade, or any other situation or circumstance relating to the façade, that has given rise or is likely to give rise to an occurrence of the collapse (wholly or partly) of the façade and death or injury to individuals, or damage to other property, within or outside the building; but\n(ii)it is not necessary to carry out a full façade inspection of the façade because the erosion, corrosion, wear, fatigue, stress or strain in the façade, or the other situation or circumstance relating to the façade, is localised and is not systemic in nature and appropriate rectification work may be immediately carried out by the owner of the building to prevent the occurrence of a collapse (wholly or partly) of the façade and death or injury to individuals, or damage to other property, within or outside the building; or\n(c)no approval is granted by the Commissioner for a full façade investigation of the façade of the building.\n(2) After carrying out a full façade investigation of a façade of a building, the appointed competent person must prepare a report of the results of the full façade investigation and his or her assessment of the condition of the façade.\n(3) A report of the results of a façade inspection of a façade of a building required by section 28 of the Act must contain —\n(a)a detailed description of the visual inspection and close‑range inspection of the façade required by regulation 15(2), and any full façade investigation of the façade of the building conducted by the appointed competent person;\n(b)analyses of observations about the condition of the façade, and of every test conducted in the course of any visual inspection, close‑range inspection and full façade investigation of the façade; and\n(c)recommendations by the appointed competent person as to such building works as are necessary to ensure the integrity of any part of the building façade or to prevent the occurrence of a collapse (wholly or partly) of the façade and death or injury to individuals, or damage to other property, within or outside the building."
+   }
+  },
+  {
+   "id": "SG-H369-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 4 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Service of notices on multiple owners"
+   },
+   "text": {
+    "en": "18. Where 2 or more persons are joint owners of a building, any notice permitted or required by these Regulations to be given to the owners of such a building for the purposes of Part 5 of the Act is taken to be given when the last owner is taken under section 42 of the Act to be sufficiently served the notice."
+   }
+  },
+  {
+   "id": "SG-H369-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 4 GENERAL MATTERS"
+   },
+   "heading": {
+    "en": "Revocation and saving"
+   },
+   "text": {
+    "en": "19.—(1) The Building Control (Inspection of Buildings) Regulations (Rg 4) are revoked.\n(2) Despite paragraph (1), the Building Control (Inspection of Buildings) Regulations continue to apply to and in relation to any structural inspection of a building that is the subject of a structural inspection notice served on an owner of the building before 1 January 2022."
+   }
+  }
+ ]
+}

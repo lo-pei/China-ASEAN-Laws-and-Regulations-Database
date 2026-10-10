@@ -1,0 +1,74 @@
+{
+ "id": "PH-H4981",
+ "title": {
+  "zh": null,
+  "en": "An Act Creating the Municipality of Angono in the Province of Rizal",
+  "orig": "An Act Creating the Municipality of Angono in the Province of Rizal"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p70",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1972-06-17",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 6469",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 777,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1972/ra_6469_1972.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1972/ra_6469_1972.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H4981-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The Municipality of Angono, Province of Rizal, which was created by Executive Order Numbered One hundred fifty-eight dated the nineteenth day of August nineteen hundred thirty-eight of the President of the Philippines, being actually organized and existing on the date of the approval of this Act, is hereby created."
+   }
+  },
+  {
+   "id": "PH-H4981-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The municipality herein created shall have the same seat of government and identical boundaries and be subject to the same requirements or conditions as those fixed and described in the executive order cited in the preceding section, and for all legal intents and purposes, shall be deemed to have duly existed as of the flute specified in the said executive order."
+   }
+  },
+  {
+   "id": "PH-H4981-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, June 17, 1972."
+   }
+  }
+ ]
+}

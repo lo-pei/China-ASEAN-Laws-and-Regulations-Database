@@ -1,0 +1,64 @@
+{
+ "id": "PH-H298",
+ "title": {
+  "zh": "设立Santa Cruz市",
+  "en": "An Act Converting the Sitios of Angas, Biga, Kamandungan, Kilokilo and Makulapnit of the Municipality of Santa Cruz, Province of Marinduque, into Independent Barrios",
+  "orig": "An Act Converting the Sitios of Angas, Biga, Kamandungan, Kilokilo and Makulapnit of the Municipality of Santa Cruz, Province of Marinduque, into Independent Barrios"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p04",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1948-05-28",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 204",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 500,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1948/ra_204_1948.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1948/ra_204_1948.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H298-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The sitios of Angas of the barrio of Tagum, Biga of the barrio of Alobo, Kamandungan of the barrio of Lusok, Kilokilo of the barrio of San Antonio, and Makulapnit of the barrio of Devilla, within the jurisdiction of the municipality of Santa Cruz, Province of Marinduque, are hereby converted into regular and independent barrios to be henceforth known as barrios of Angas, Biga, Kamandungan, Kilokilo and Makulapnit, respectively."
+   }
+  },
+  {
+   "id": "PH-H298-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: May 28, 1948."
+   }
+  }
+ ]
+}

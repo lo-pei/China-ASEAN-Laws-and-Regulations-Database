@@ -1,0 +1,410 @@
+{
+ "id": "TL-H053",
+ "title": {
+  "zh": "Pensão Mensal Vitalícia dos Deputados及 Outras Regalias",
+  "en": null,
+  "orig": "Pensão Mensal Vitalícia dos Deputados e Outras Regalias"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2007-01-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 1/2007",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 23,
+ "chars": 10405,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2007/serie_1/serie1_no1.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 23 条；逐字取自官方公报 PDF（public/docs/2007/serie_1/serie1_no1.pdf）第 1671–1675 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H053-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Denominação e natureza jurídica"
+   },
+   "text": {
+    "pt": "O Secretariado Técnico de Administração Eleitoral, abreviadamente denominado STAE, é o organismo dependente do Ministério da Administração Estatal, dotado de autonomia técnica e administrativa e personalidade jurídica."
+   }
+  },
+  {
+   "id": "TL-H053-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Tutela"
+   },
+   "text": {
+    "pt": "1.   O STAE está sujeito à tutela e superintendência do Ministro da Administração Estatal.\n2.   Compete ao Ministro da Administração Estatal:\na)   Definir as linhas de orientação estratégica e política do STAE;\nb)   Aprovar o orçamento, bem como as respectivas revisões e alterações concretizados em orçamentos suplementares;\nc)   Aprovar o relatório e as contas de gerência do STAE;\nd)   Aprovar os planos anuais e plurianuais financeiros do STAE;\ne)   Aprovar o regulamento interno e o quadro de pessoal do STAE;\nf)   Aprovar a abertura ou o encerramento de delegações no País ou no estrangeiro, do STAE;\ng)   Aprovar acordos de cooperação com outras entidades nacionais ou estrangeiras;\nh)   Nomear e exonerar os titulares dos órgãos do STAE."
+   }
+  },
+  {
+   "id": "TL-H053-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Sede e âmbito territorial"
+   },
+   "text": {
+    "pt": "1.   O STAE tem sede em Dili, onde se fixa a base de dados do recenseamento eleitoral, e exerce a sua actividade em todo o território nacional, podendo abrir delegações regionais ou postos de atendimento aos eleitores, para actualização do recenseamento, de referendos ou de eleições.\n2.    A criação de delegações regionais ou postos de atendimento aos eleitores está sujeita a autorização da tutela."
+   }
+  },
+  {
+   "id": "TL-H053-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I DISPOSIÇÕES GERAIS"
+   },
+   "heading": {
+    "pt": "Regime jurídico"
+   },
+   "text": {
+    "pt": "O STAE rege-se pelo disposto no presente diploma e pelas disposições legais que lhe sejam especificamente aplicáveis."
+   }
+  },
+  {
+   "id": "TL-H053-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II FINS E ATRIBUIÇÕES"
+   },
+   "heading": {
+    "pt": "Fins"
+   },
+   "text": {
+    "pt": "O STAE tem por finalidade assegurar a organização e execução dos processos eleitorais, referendos e recenseamento eleitoral, bem como o apoio, consulta e divulgação de estudos e outros dados no domínio eleitoral."
+   }
+  },
+  {
+   "id": "TL-H053-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II FINS E ATRIBUIÇÕES"
+   },
+   "heading": {
+    "pt": "Atribuições"
+   },
+   "text": {
+    "pt": "São atribuições do STAE:\na)   Assegurar a execução das linhas de orientação estratégica do STAE definidas superiormente;\nb)  Aprovar as directrizes adequadas à concretização dos objectivos consagrados nas linhas de orientação estratégica e no plano de actividades;\nc)    Assegurar e executar as acções necessárias para a realização atempada dos actos eleitorais, de referendos e actualizações do recenseamento eleitoral;\nd)   Propor medidas de esclarecimento, formação e informação adequados à participação dos cidadãos nos actos eleitorais, referendos e recenseamento eleitoral, bem como assegurar a correcta actuação dos diversos agentes da administração eleitoral e o funcionamento dos serviços;\ne)   Planificar, executar e apoiar tecnicamente a realização das eleições e referendos, bem como as actualizações do recenseamento eleitoral, quer a nível nacional, quer a nível local, recorrendo, para o efeito, à colaboração das estruturas administrativas existentes;\nf)   Assegurar as estatísticas do recenseamento, dos actos eleitorais e referendários e promover a publicação dos respectivos resultados;\ng)   Organizar o registo dos cidadãos eleitos para os órgãos de soberania e órgãos locais;\nh)   Apoiar e colaborar com a Comissão Nacional de Eleições, adiante designada por CNE, nos termos das disposições legais aplicáveis;\n(i)  Organizar e actualizar, sob supervisão da CNE, o recenseamento eleitoral, propondo e executando os respectivos procedimentos técnicos e procedendo à organização, manutenção e gestão da respectiva base de dados central dos eleitores inscritos;\nj)   Elaborar o regulamento interno e o quadro de pessoal do STAE para ser aprovado superiormente;\nk)   Propor superiormente a abertura ou o encerramento de delegações no País ou no estrangeiro do STAE;\nl)    Propor superiormente a celebração de acordos de cooperação com outras entidades nacionais ou estrangeiras;\nm)  Desempenhar as demais competências previstas nas leis e regulamentos aplicáveis."
+   }
+  },
+  {
+   "id": "TL-H053-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORGANIZAÇÃO, COMPETÊNCIAS E FUNCIONAMENTO"
+   },
+   "heading": {
+    "pt": "Direcção geral"
+   },
+   "text": {
+    "pt": "1.   O STAE é dirigido por um Director a quem cabe a gestão e direcção dos respectivos serviços.\n2.   No exercício das suas funções, o Director do STAE é coadjuvado por um Adjunto."
+   }
+  },
+  {
+   "id": "TL-H053-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORGANIZAÇÃO, COMPETÊNCIAS E FUNCIONAMENTO"
+   },
+   "heading": {
+    "pt": "Organização"
+   },
+   "text": {
+    "pt": "O STAE integra os seguintes serviços:\na)    O gabinete do Director e Adjunto do Director;\nb)  Departamento de Apoio Geral, Formação e Educação Eleitoral;\nc)   Departamento de Tecnologias de Informação e Gestão da Base de Dados do Eleitor;\nd)   Departamento de Administração, Finanças e Logística."
+   }
+  },
+  {
+   "id": "TL-H053-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORGANIZAÇÃO, COMPETÊNCIAS E FUNCIONAMENTO"
+   },
+   "heading": {
+    "pt": "Competências do Director"
+   },
+   "text": {
+    "pt": "Compete ao Director do STAE orientar a actividade dos serviços e especialmente:\na)  Representar o STAE junto de quaisquer organizações e entidades nacionais, comunitárias ou internacionais;\nb)   Dirigir, coordenar e orientar os serviços, bem como emitir ordens e instruções de execução necessários ao seu bom funcionamento;\nc)   Assegurar as relações do STAE com outros departamentos do Estado e com entidades públicas ou privadas, nacionais ou estrangeiras, na área eleitoral, podendo corresponderse com autoridades judiciais e administrativas;\nd)  Obter apoio bilateral para suportar os custos resultantes de acções de actualização do recenseamento, processos eleitorais e referendos e outras acções no âmbito das suas atribuições;\ne)   Exercer os demais poderes gerais de administração e submeter à tutela para apreciação e decisão todos os actos que dependam de aprovação superior nos termos legais;\nf)   Despachar todos os assuntos que caibam no âmbito das atribuições do STAE, submetendo a despacho ministerial ou à apreciação da CNE aqueles que, por natureza ou disposição de lei, dependam de decisão;\ng)   Assegurar a devida publicidade dos actos eleitorais e outras decisões nos termos legais;\nh)  Assegurar e exercer os poderes de direcção, gestão e disciplina do pessoal, incluindo a respectiva acção disciplinar e a aplicação sanções disciplinares que pela lei ou regulamento disciplinar sejam da sua competência;\n(i)   Propor à aprovação da tutela o regulamento interno do STAE e a afectação de pessoal aos diversos Departamentos e Secções;\nj)   Participar nas reuniões da CNE, sem direito a voto;\nk)   Desempenhar as demais funções que lhe sejam cometidas por lei ou pela respectiva tutela."
+   }
+  },
+  {
+   "id": "TL-H053-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORGANIZAÇÃO, COMPETÊNCIAS E FUNCIONAMENTO"
+   },
+   "heading": {
+    "pt": "Competências do Adjunto do Director"
+   },
+   "text": {
+    "pt": "Compete ao Adjunto do Director coadjuvar o Director no exercício das suas funções e substitui-lo nas suas ausências e impedimentos."
+   }
+  },
+  {
+   "id": "TL-H053-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORGANIZAÇÃO, COMPETÊNCIAS E FUNCIONAMENTO"
+   },
+   "heading": {
+    "pt": "Funções e competências dos chefes de Departamento"
+   },
+   "text": {
+    "pt": "1.   Compete ao Director definir em regulamento interno, previamente aprovado pela tutela, as funções e competências específicas dos Departamentos do STAE e afectar os recursos humanos necessários para execução e desenvolvimento das tarefas inerentes às suas actividades.\n2.   As chefias dos Departamentos são nomeadas nos termos do regime das carreiras e cargos de direcção e chefia da Administração Pública e exercem as suas funções na directa dependência hierárquica e funcional do Director do STAE."
+   }
+  },
+  {
+   "id": "TL-H053-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III ORGANIZAÇÃO, COMPETÊNCIAS E FUNCIONAMENTO"
+   },
+   "heading": {
+    "pt": "Funcionamento"
+   },
+   "text": {
+    "pt": "Os serviços do STAE devem colaborar entre si e articular as respectivas actividades de forma a promover um actuação unitária e integrada de modo a assegurar a eficiência e o bom funcionamento do STAE."
+   }
+  },
+  {
+   "id": "TL-H053-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPITULO IV COLABORAÇÃO COM OUTRAS ENTIDADES NACIONAIS OU INTERNACIONAIS"
+   },
+   "heading": {
+    "pt": "Colaboração com outras entidades"
+   },
+   "text": {
+    "pt": "1.   Para melhor prossecução das suas atribuições, o STAE deve promover e solicitar a colaboração de serviços e outros organismos nacionais ou internacionais, com vista a realizar eficazmente as suas actividades.\n2.   O STAE estabelece relações de colaboração com organismos nacionais e internacionais e outras entidades estrangeiras públicas ou privadas, que se mostrem necessários ao cumprimento dos seus objectivos, salvaguardando a credibilidade da sua actuação, bem como a soberania ou as linhas orientadoras da política externa do país."
+   }
+  },
+  {
+   "id": "TL-H053-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V ORÇAMENTO E GESTÃO FINANCEIRA"
+   },
+   "heading": {
+    "pt": "Orçamento"
+   },
+   "text": {
+    "pt": "1.   O STAE será dotado de um orçamento inicial e pelo direito ao uso e fruição dos bens do domínio público consignados à prossecução das suas atribuições que lhe será afecto por dotação orçamental.\n2.   Por diploma ministerial conjunto do Ministro do Plano e das Finanças e do Ministro da Administração Estatal, podem ainda ser transferidos outros bens e direitos para o STAE."
+   }
+  },
+  {
+   "id": "TL-H053-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V ORÇAMENTO E GESTÃO FINANCEIRA"
+   },
+   "heading": {
+    "pt": "Receitas"
+   },
+   "text": {
+    "pt": "1.  O financiamento do STAE é ainda complementado por receitas próprias inscritas no Orçamento geral do Estado.\n2.   Constituem receitas do STAE:\na)   As dotações que lhe sejam atribuídas pelo orçamento geral do Estado;\nb)  Os subsídios, subvenções, comparticipações ou doações concedidos por quaisquer entidades públicas ou privadas, nacionais ou estrangeiras;\nc)  Os rendimentos resultantes da edição ou venda de publicações;\nd)   O produto de taxas, multas e outros valores de natureza pecuniária que, nos termos legais e regulamentares, lhe sejam consignados;\ne)   Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título, bem como outras que resultem da prossecução das suas atribuições."
+   }
+  },
+  {
+   "id": "TL-H053-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V ORÇAMENTO E GESTÃO FINANCEIRA"
+   },
+   "heading": {
+    "pt": "Despesas"
+   },
+   "text": {
+    "pt": "1.  Constituem despesas do STAE as que resultem dos encargos e responsabilidades decorrentes da prossecução das suas actividades, devidamente inscritas no orçamento geral do Estado.\n2.   O processamento e a liquidação das despesas, depois de devidamente autorizadas mediante aprovação do orçamento, podem ser efectuados através de qualquer dos meios previstos na lei ou aprovados pelo Ministro do Plano e das Finanças."
+   }
+  },
+  {
+   "id": "TL-H053-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V ORÇAMENTO E GESTÃO FINANCEIRA"
+   },
+   "heading": {
+    "pt": "Isenções"
+   },
+   "text": {
+    "pt": "O STAE fica isento de todas as taxas, custas e emolumentos de qualquer natureza de actos notariais e de registo em que intervenha."
+   }
+  },
+  {
+   "id": "TL-H053-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPITULO VI PESSOAL"
+   },
+   "heading": {
+    "pt": "Regime"
+   },
+   "text": {
+    "pt": "1.   Ao pessoal do STAE é aplicável o regime dos funcionários e agentes da Administração Pública.\n2.   Os funcionários e agentes da Administração Pública assim como os trabalhadores de empresas públicas ou privadas e das sociedades de capitais públicos, podem exercer funções no STAE em regime de destacamento ou requisição nos termos do Estatuto da Função Pública.\n3.   A mobilidade dos funcionários e agentes da Administração Pública efectua-se por diploma ministerial da tutela, sob proposta do Director do STAE.\n4.   Sem prejuízo do disposto nos números anteriores, o Director do STAE pode solicitar à tutela a cedência temporária de funcionários, na proximidade de actividades recenseadoras, referendárias ou de eleições."
+   }
+  },
+  {
+   "id": "TL-H053-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPITULO VI PESSOAL"
+   },
+   "heading": {
+    "pt": "Formação"
+   },
+   "text": {
+    "pt": "No âmbito das suas atribuições, o STAE pode promover a formação do seu pessoal através de cursos, estágios e outras acções, nos termos legais aplicáveis."
+   }
+  },
+  {
+   "id": "TL-H053-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+   },
+   "heading": {
+    "pt": "Regulamento interno"
+   },
+   "text": {
+    "pt": "As normas necessárias ao bom funcionamento do STAE constam do regulamento interno a elaborar pelo Director para ser submetido à aprovação e homologação da tutela."
+   }
+  },
+  {
+   "id": "TL-H053-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+   },
+   "heading": {
+    "pt": "Mapas de pessoal"
+   },
+   "text": {
+    "pt": "O quadro de pessoal do STAE é aprovado por diploma conjunto do Ministro do Plano e das Finanças e do Ministro da Administração Estatal."
+   }
+  },
+  {
+   "id": "TL-H053-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+   },
+   "heading": {
+    "pt": "Emissão de certidões"
+   },
+   "text": {
+    "pt": "A pedido dos eleitores, partidos políticos, candidatos ou outras entidades, sempre que demonstrado o interesse legítimo de quem as requer, podem ser emitidas pelo Director do STAE, certidões relativas a documentos, requerimentos ou outros despachos."
+   }
+  },
+  {
+   "id": "TL-H053-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+   },
+   "heading": {
+    "pt": "Logotipo"
+   },
+   "text": {
+    "pt": "1.   Todos os documentos e impressos elaborados e utilizados pelo STAE são identificados com o seu logótipo."
+   }
+  }
+ ]
+}

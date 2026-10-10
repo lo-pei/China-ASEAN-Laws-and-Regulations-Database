@@ -1,0 +1,81 @@
+{
+ "id": "SG-H772",
+ "title": {
+  "zh": null,
+  "en": "Companies (Exemption) Order 2002",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p10",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CoA1967-S274-2002",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 2721,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CoA1967-S274-2002?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H772-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "1. This Order may be cited as the Companies (Exemption) Order 2002 and shall come into operation on 10th June 2002."
+   }
+  },
+  {
+   "id": "SG-H772-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In this Order, unless the context otherwise requires —\n“arranger” means the arranger of the initial public offer of the relevant unit trust, namely the Development Bank of Singapore Ltd;\n“connected broker” means —\n(a)the arranger; or\n(b)any corporation related to the arranger which is licensed as a dealer or investment adviser, is an exempt dealer or is an investment adviser exempt from the requirement to hold an investment adviser’s licence under the Securities Industry Act (Cap. 289);\n“initial public offer” means an offer to the public of units in a unit trust for subscription or purchase or an invitation to the public to subscribe for or purchase units in a unit trust, such units not having previously been the subject of such an offer or an invitation and not having previously been issued;\n“institutional investor” means any person or institution referred to in section 106C of the Act;\n“pre-deal research report” means any report issued prior to the initial public offer of units in the relevant unit trust which —\n(a)advertises the initial public offer; or\n(b)contains any statement that directly or indirectly refers to the initial public offer,\nbut which contains a statement to the effect that the report does not amount to an offer or invitation to the public to subscribe for or purchase units in the relevant unit trust;\n“relevant unit trust” means the unit trust scheme initially constituted as SingMall Property Trust and now known as CapitaMall Trust."
+   }
+  },
+  {
+   "id": "SG-H772-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "3. The Minister hereby exempts a connected broker from section 48 of the Act in respect of any pre-deal research report distributed to any institutional investor subject to the following conditions:\n(a)the pre-deal research report must state —\n(i)the interest of the connected broker in the initial public offer of units in the relevant unit trust; and\n(ii)that the report is only for circulation to institutional investors;\n(b)the connected broker shall not use the pre-deal research report, or cause it to be used, for the purpose of determining the issue price or the number of units to be issued by the relevant unit trust;\n(c)the connected broker shall not disseminate the pre-deal research report, or cause it to be disseminated, in any manner other than in the form of numbered hard copies, and shall keep a record of the names of the recipients of the copies; and\n(d)the connected broker shall not disseminate the pre-deal research report, or cause it to be disseminated, during such period immediately before the initial public offer of units in the relevant unit trust as may be specified in writing by the Registrar."
+   }
+  }
+ ]
+}

@@ -1,0 +1,536 @@
+{
+ "id": "SG-H3711",
+ "title": {
+  "zh": null,
+  "en": "Travel Agents Act 1975",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p47",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1975",
+ "effectiveDate": "2021-12-31",
+ "versionDate": null,
+ "amendedNote": "2020 Revised Edition（2021-12-31 生效）",
+ "issuingBody": null,
+ "docNumber": "Act TAA1975",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 31,
+ "chars": 42290,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/TAA1975?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 31 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3711-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act is the Travel Agents Act 1975."
+   }
+  },
+  {
+   "id": "SG-H3711-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act, unless the context otherwise requires —\n“Board” means the Singapore Tourism Board established under section 3 of the Singapore Tourism Board Act 1963;\n“code of conduct” means a code of conduct mentioned in section 28(1)(g)(ii);\n“licence” means a licence granted or renewed under section 7;\n“licensee” means any person who holds a licence;\n“regulations” means regulations made under this Act;\n“relevant individual”, in relation to an applicant for a licence or to a licensee, means —\n(a)where the applicant or licensee is an individual, the applicant or licensee, as the case may be;\n(b)where the applicant or licensee is a partnership, a partner of the partnership;\n(c)where the applicant or licensee is an unincorporated association, a member of the governing body of the unincorporated association; and\n(d)where the applicant or licensee is a company or other body corporate, any director of the company or officer holding a similar managerial or executive position in the body corporate;\n“supply”, in relation to a travel product, includes the sale, or arranging for the provision, of the travel product;\n“tour” means a visit to one or more places or points of interest, whether in Singapore or elsewhere, in which the participant or participants in the visit is or are, for any part of the visit, accompanied by an individual who is not a participant of the visit;\n“travel product” means any goods or services described in section 4(1).\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "3.—(1) Nothing in this Act is to be construed as requiring any of the following persons to hold a licence for the purpose of performing that person’s functions, exercising that person’s powers or carrying out that person’s duties as any of the following persons:\n(a)any executor or administrator;\n(b)any trustee;\n(c)any liquidator or official receiver;\n(d)any trustee in bankruptcy of a bankrupt estate;\n(e)any trustee under —\n(i)a composition or scheme of arrangement;\n(ii)a deed of arrangement; or\n(iii)a deed of assignment;\n(f)any donee of a lasting power of attorney —\n(i)which is granted under the Mental Capacity Act 2008;\n(ii)under which the donor confers on the donee authority to make decisions in relation to the donor for the purposes of this Act; and\n(iii)the donor of which, after the creation of the lasting power of attorney, lacks capacity within the meaning of the Mental Capacity Act 2008;\n(g)any deputy who is appointed or deemed to be appointed for an individual by the court under the Mental Capacity Act 2008, and who is conferred power to make decisions in relation to that individual for the purposes of this Act.\n[16/2016]\n(2) Despite anything in subsection (1), it is not lawful for any of the persons mentioned in that subsection in whom is vested the management of the business of any travel agent to carry on that business at any time after the expiration of 3 months from the date on which the management of that business was so vested, unless that person holds a licence.\n(3) Nothing in this Act is to be construed as relieving any person from the obligation to take out a licence under any written law for the performance of any function, the exercise of any power or the carrying out of any duty for which a licence must have been required if this Act had not been passed or to pay the fee payable in respect of any such licence.\n(4) Nothing in this Act is to be construed as requiring the Official Assignee performing his or her duties as the trustee in bankruptcy of the property of a bankrupt to hold a licence.\n(5) This Act does not apply to the Government, or a body established by or under a public Act for a public purpose.\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Business of travel agent"
+   },
+   "text": {
+    "en": "4.—(1) Subject to subsections (2) and (3), a person carries on the business of a travel agent if the person carries on, or advertises or holds himself, herself or itself out as carrying on, a business of any one or more of the following:\n(a)supplying any person a right to travel on any conveyance;\n(b)supplying any person —\n(i)a right to travel on any conveyance to; and\n(ii)a right of accommodation at a hotel or similar boarding premises at,\none or more places, whether in Singapore or elsewhere;\n(c)purchasing, or reserving, for resale to any person a right to travel on any conveyance;\n(d)supplying any tour (whether or not organised by the person) to any other person;\n(e)any other similar activity that may be prescribed.\n[47/2017]\n(2) An individual who is employed by a licensee or who is an agent of a licensee does not carry on the business of a travel agent by reason only of carrying on in the course of the individual’s employment or agency (as the case may be) any activity mentioned in subsection (1).\n[47/2017]\n(3) However, a person does not carry on the business of a travel agent if —\n(a)for the activity mentioned in subsection (1)(a), the person carries on the activity only in respect of a conveyance the person owns;\n(b)for the activity mentioned in subsection (1)(a) or (c), the person carries on the activity only in respect of a conveyance —\n(i)used for a regular route service within the meaning of the Bus Services Industry Act 2015;\n(ii)used for a community bus service or courtesy bus service, within the meaning of the Bus Services Industry Act 2015, and that travels only within Singapore; or\n(iii)used for a train service within the meaning of the Public Transport Council Act 1987;\n(c)for the activity mentioned in subsection (1)(b), the person carries on the activity only in respect of —\n(i)a conveyance the person owns; and\n(ii)a hotel or similar boarding premises the person owns or operates; or\n(d)for the activity mentioned in subsection (1)(d), the person carries on the activity only in respect of any place or point of interest that the person owns or operates.\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART 1 PRELIMINARY"
+   },
+   "heading": {
+    "en": "Board responsible for administration of this Act"
+   },
+   "text": {
+    "en": "5. The Board is responsible for the administration of this Act and may authorise any of its officers to exercise any of the powers conferred upon and perform any of the functions imposed upon the Board by this Act on its behalf."
+   }
+  },
+  {
+   "id": "SG-H3711-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART 2 LICENSING OF TRAVEL AGENTS"
+   },
+   "heading": {
+    "en": "Persons carrying on business of travel agent to be licensed"
+   },
+   "text": {
+    "en": "6.—(1) A person must not carry on the business of a travel agent unless the person is authorised to do so by a licence.\n[47/2017]\n(2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 2 years or to both.\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART 2 LICENSING OF TRAVEL AGENTS"
+   },
+   "heading": {
+    "en": "Application for licence or renewal of licence"
+   },
+   "text": {
+    "en": "7.—(1) Any person who desires to obtain or renew a licence must make an application to the Board in the form the Board requires.\n[47/2017]\n(2) Upon receiving an application under subsection (1), the Board must consider the application and may —\n(a)grant or renew a licence for any duration that the Board may specify in the licence; or\n(b)refuse the application.\n[47/2017]\n(3) The Board may refuse to grant or renew a licence if —\n(a)the applicant or a relevant individual of the applicant is not a suitable person to be involved in the management or operation of the business of a travel agent;\n(b)the applicant is unable to meet or continue to meet any minimum financial requirements that may be prescribed;\n(c)the Board has reason to believe that the applicant or a relevant individual of the applicant has committed any offence involving dishonesty or moral turpitude;\n(d)the Board has reason to believe that the applicant is contravening or has contravened —\n(i)any provision of this Act or the regulations; or\n(ii)any condition of a licence or any code of conduct applicable to the applicant;\n(e)the Board has reason to believe that a relevant individual of the applicant is contravening or has contravened, or is responsible for another licensee’s contravention of —\n(i)any provision of this Act or the regulations; or\n(ii)any condition of a licence or any code of conduct applicable to the relevant individual or the other licensee, as the case may be;\n(f)the application for the grant or renewal of the licence contains a statement or information that is untrue, or misleading (including as a result of any omission), in any material particular;\n(g)all relevant individuals of the applicant are incapable, by reason of illness, infirmity or any other cause, of carrying on the business of a travel agent; or\n(h)the Board considers it in the public interest to do so.\n[47/2017]\n(4) Before refusing an application to renew a licence, the Board must —\n(a)serve the applicant written notice of its intention; and\n(b)give the applicant an opportunity to submit reasons, within any period that the Board may specify in that notice, why the application should not be refused.\n[47/2017]\n(5) For the purposes of subsection (3)(e), a relevant individual is responsible for any contravention of a licensee if the relevant individual —\n(a)consented or connived, or conspired with others, to effect the licensee’s contravention;\n(b)is in any other way, whether by act or omission, knowingly concerned in, or is party to, the contravention of the licensee; or\n(c)knew or ought reasonably to have known that the contravention of the licensee (or a contravention of the same type) would be or is being effected, and failed to take all reasonable steps to prevent or stop the contravention.\n[47/2017]\n(6) To avoid doubt —\n(a)subsection (3)(d) applies in relation to any contravention by the applicant, whether the contravention occurred before, on or after 1 January 2018; and\n(b)subsection (3)(e) applies in relation to —\n(i)any contravention by a relevant individual of the applicant, whether the contravention occurred before, on or after 1 January 2018; and\n(ii)any contravention by a licensee mentioned in subsection (3)(e) for which the relevant individual is responsible, whether the contravention occurred before, on or after 1 January 2018.\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A7.001",
+   "no": 7.001,
+   "noLabel": {
+    "en": "7A."
+   },
+   "chapter": {
+    "en": "PART 2 LICENSING OF TRAVEL AGENTS"
+   },
+   "heading": {
+    "en": "Travel agent licence"
+   },
+   "text": {
+    "en": "7A.—(1) A licence is subject to any conditions that the Board may specify in writing.\n[47/2017]\n(2) The conditions of a licence may include the assignment to the licensee of such description or classification as a travel agent as the Board considers appropriate to specify the type of business of a travel agent mentioned in section 4(1) that the licensee is authorised to carry on.\n[47/2017]\n(3) The Board may, at any time, vary or revoke any of the conditions of a licence or impose any new condition.\n[47/2017]\n(4) Before taking any action under subsection (3) that is to a licensee’s disadvantage, the Board must —\n(a)serve the licensee written notice of its intention; and\n(b)give the licensee an opportunity to submit reasons, within a reasonable period after the date that the Board serves the written notice, why the conditions of the licence should not be so varied or revoked, or the new condition should not be imposed.\n[47/2017]\n(5) An appeal made under section 11 against the Board’s decision under subsection (3) does not affect the operation of the decision or prevent the taking of any action to implement the decision, unless directed by the Minister in any particular case.\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART 2 LICENSING OF TRAVEL AGENTS"
+   },
+   "heading": {
+    "en": "Limit as to number of licences granted"
+   },
+   "text": {
+    "en": "8. The Board may, with the approval of the Minister, limit the number of licences to be granted under this Act."
+   }
+  },
+  {
+   "id": "SG-H3711-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART 2 LICENSING OF TRAVEL AGENTS"
+   },
+   "heading": {
+    "en": "Suspension or revocation of licence"
+   },
+   "text": {
+    "en": "9.—(1) The Board may suspend a licence for a period not exceeding 6 months (or a longer maximum period if prescribed in substitution), or revoke a licence, if —\n(a)the licensee or a relevant individual of the licensee is not a suitable person to be involved in the management or operation of the business of a travel agent, including by reason of the manner in which the licensee is carrying on that business;\n(b)the Board has reason to believe that the licensee or a relevant individual of the licensee has committed any offence involving dishonesty or moral turpitude;\n(c)the Board has reason to believe that the licensee is contravening or has contravened —\n(i)any provision of this Act or the regulations; or\n(ii)any condition of a licence or any code of conduct applicable to the licensee;\n(d)the Board has reason to believe that a relevant individual of the licensee is contravening or has contravened, or is responsible for another licensee’s contravention of —\n(i)any provision of this Act or the regulations; or\n(ii)any condition of a licence or any code of conduct applicable to the relevant individual or the other licensee, as the case may be;\n(e)the application for the grant or renewal of the licence contains a statement or information that is untrue, or misleading (including as a result of any omission), in any material particular;\n(f)all relevant individuals of the licensee are incapable, by reason of illness, infirmity or any other cause, of carrying on the business of a travel agent;\n(g)the licensee has ceased to carry on the business of a travel agent; or\n(h)the Board considers it in the public interest to do so.\n[47/2017]\n(2) Subject to subsection (3), where subsection (1)(c) applies, instead of suspending or revoking the licensee’s licence, the Board may require the licensee to pay a financial penalty of such amount not exceeding $2,000, by such date, as the Board may determine.\n[47/2017]\n(3) Subsection (2) does not apply in respect of any contravention that is prescribed to be an offence under this Act or the regulations.\n[47/2017]\n(4) Subject to subsection (5), before suspending or revoking a licence under subsection (1) or imposing a financial penalty under subsection (2), the Board must —\n(a)serve the licensee written notice of its intention; and\n(b)give the licensee an opportunity to submit reasons, within 14 days after the date that the Board serves the written notice, why the licence should not be suspended or revoked or the financial penalty should not be imposed.\n[47/2017]\n(5) Subsection (4) does not apply where the licensee has died or is adjudged a bankrupt, or has been dissolved or wound up, or has otherwise ceased to exist.\n[47/2017]\n(6) Any decision of the Board to suspend or revoke a licence, or require the payment of a financial penalty, under this section only takes effect as from the day immediately following the latest of the following events where applicable:\n(a)if no appeal is made against the decision of the Board, the expiry of the period allowed under section 11 for the licensee to make the appeal;\n(b)if an appeal is made against the decision of the Board —\n(i)the appeal is withdrawn;\n(ii)the Minister confirms the Board’s decision under section 11; or\n(iii)the Board confirms its decision upon a reconsideration required by the Minister under section 11.\n[47/2017]\n(7) Where any decision of the Board to suspend a licence becomes effective under subsection (6), the licensee concerned must not, during the period that the order of suspension is in force, carry on the business of a travel agent other than doing what is necessary to fulfil the licensee’s obligations under a contract to supply a travel product, entered into before the date the order of suspension takes effect.\n[47/2017]\n(8) For the purposes of subsection (1)(d), a relevant individual is responsible for any contravention of a licensee if the relevant individual —\n(a)consented or connived, or conspired with others, to effect the licensee’s contravention;\n(b)is in any other way, whether by act or omission, knowingly concerned in, or is party to, the contravention by the licensee; or\n(c)knew or ought reasonably to have known that the contravention by the licensee (or a contravention of the same type) would be or is being effected, and failed to take all reasonable steps to prevent or stop the contravention.\n[47/2017]\n(9) To avoid doubt —\n(a)subsection (1)(c) applies in relation to any contravention by the licensee, whether the contravention occurred before, on or after 1 January 2018; and\n(b)subsection (1)(d) applies in relation to —\n(i)any contravention by a relevant individual of the licensee, whether the contravention occurred before, on or after 1 January 2018; and\n(ii)any contravention by a licensee mentioned in subsection (1)(d) for which the relevant individual is responsible, whether the contravention occurred before, on or after 1 January 2018.\n[47/2017]\n(10) A reference in subsection (7) to the day a decision to suspend becomes effective includes a reference to the date specified in a notice, given before 1 January 2018, specifying when a suspension of a licence takes effect.\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART 2 LICENSING OF TRAVEL AGENTS"
+   },
+   "heading": {
+    "en": "Board may require licensees to inform customers of notice under section 9"
+   },
+   "text": {
+    "en": "10.—(1) Where the Board has served a written notice mentioned in section 9(4) on a licensee, the Board may also require the licensee to inform each of the following in writing, and in such form or manner as the Board may specify, of the Board’s notice:\n(a)a person who, as at the date the Board serves the written notice, has a contract with the licensee for the licensee to supply a travel product, and in respect of which the licensee has not fully performed the licensee’s obligations;\n(b)any other person who, in any way, communicates with the licensee during the specified period in relation to a travel product.\n[47/2017]\n(2) A licensee who is required by the Board to inform a person mentioned in subsection (1) of the Board’s notice must inform the person of that fact —\n(a)for a person mentioned in subsection (1)(a) — within 2 working days after the date the Board serves the written notice; and\n(b)for a person mentioned in subsection (1)(b) — within 2 working days after the date of the first communication from the person, if the 2 working days fall in the specified period, or before entering into a contract with the person for the licensee to supply a travel product, whichever is earlier.\n[47/2017]\n(3) A licensee who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000.\n[47/2017]\n(4) In this section, “specified period”, in relation to a licensee, means the period starting on the day the Board serves a written notice on the licensee under section 9(4) and ending —\n(a)subject to paragraph (b), 3 months (or any longer period that may be prescribed in substitution) after that day; or\n(b)if the Board makes a decision under section 9(1) within the period mentioned in paragraph (a) —\n(i)where the decision of the Board is to suspend or revoke the licensee’s licence, on the day the decision becomes effective under section 9(6);\n(ii)where there is an appeal against the Board’s decision and the Board’s decision is reversed, on the day the decision is reversed; and\n(iii)where the Board decides not to suspend or revoke the licence, on the day of the Board’s decision.\n[47/2017]\n(5) A written notice in section 9(4) includes a written notice of intention to suspend a licence given before 1 January 2018.\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART 2 LICENSING OF TRAVEL AGENTS"
+   },
+   "heading": {
+    "en": "Appeal to Minister"
+   },
+   "text": {
+    "en": "11.—(1) Any person aggrieved by an appealable decision of the Board may appeal against the decision to the Minister within 14 days after notice of the decision is served on the person or any extended period that the Minister may allow in any particular case.\n[47/2017]\n(2) An appeal made under subsection (1) must be in writing and state —\n(a)the circumstances under which the appeal arises and the issues and grounds for the appeal; and\n(b)all relevant facts, evidence and arguments in respect of the appeal.\n[47/2017]\n(3) The Minister may require any of the following to provide the Minister with all such information as the Minister may require for the purpose of considering and determining the appeal:\n(a)the appellant;\n(b)the Board;\n(c)any person who is not a party to the appeal but appears to the Minister to have information that is relevant to the circumstances under which the appeal arises.\n[47/2017]\n(4) The appellant, Board or person (as the case may be) must provide the information to the Minister in such manner and within such period as may be specified by the Minister.\n[47/2017]\n(5) The Minister may reject an appeal if the appellant fails to comply with subsection (2) or (4).\n[47/2017]\n(6) The Minister may determine an appeal by —\n(a)confirming, varying or reversing the Board’s decision; or\n(b)requiring the Board to reconsider the Board’s decision.\n[47/2017]\n(7) The Minister’s decision on appeal is final.\n[47/2017]\n(8) Every appellant must be notified of the Minister’s decision under subsection (6).\n[47/2017]\n(9) The Minister may designate any of the following persons to hear and determine, in the Minister’s place, any appeal or a specific appeal to the Minister under subsection (1):\n(a)any Minister of State, including a Senior Minister of State, for his or her Ministry;\n(b)any Parliamentary Secretary, including a Senior Parliamentary Secretary, to his or her Ministry.\n[47/2017]\n(10) A reference to the Minister in this section (other than in subsection (1) or (9)) includes a reference to a person designated under subsection (9).\n[47/2017]\n(11) In this section, “appealable decision” means a decision of the Board —\n(a)refusing to grant or renew a licence under section 7(2);\n(b)varying, revoking or imposing a condition under section 7A(3);\n(c)suspending or revoking a licence under section 9(1); or\n(d)requiring a person to pay a financial penalty under section 9(2).\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART 2 LICENSING OF TRAVEL AGENTS"
+   },
+   "heading": {
+    "en": "Power of Board to publish information"
+   },
+   "text": {
+    "en": "12. The Board may, where the Board thinks it necessary or expedient in the interest of the public and in such form or manner as the Board thinks fit, publish information relating to —\n(a)a licensee on whom the Board has served a written notice mentioned in section 9(4); and\n(b)any action the Board takes under section 9(1) or (2).\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL"
+   },
+   "heading": {
+    "en": "Furnishing false, etc., information"
+   },
+   "text": {
+    "en": "13. Any person who —\n(a)in connection with any application for the grant or renewal of a licence; or\n(b)for any other purpose under this Act or the regulations,\nmakes any statement or furnishes any information to the Board or an officer of the Board that the person knows, or ought reasonably to know, is false, or misleading (including by reason of any omission), in any material particular, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL"
+   },
+   "heading": {
+    "en": "Wrongful conversion and false accounts"
+   },
+   "text": {
+    "en": "14.—(1) Any licensee who —\n(a)fraudulently converts to the licensee’s own use or to the use of any other person —\n(i)any money or part thereof received by the licensee on behalf of any person in respect of any transaction in the licensee’s capacity as a travel agent; or\n(ii)any money or part thereof so received which are held by the licensee in trust pending the completion of any transaction;\n(b)fraudulently omits to account for, deliver or pay —\n(i)any such money or part thereof so received by the licensee on behalf of any person to such person; or\n(ii)any such money or part thereof so received by the licensee which are or were held by the licensee in trust as aforesaid pending the completion of the transaction to the person or persons entitled to such money; or\n(c)fraudulently renders an account knowing the account to be false in any material particular of —\n(i)any such money or part thereof so received by the licensee on behalf of any person;\n(ii)any money so received by the licensee which is or was held by the licensee in trust pending the completion of any transaction or any part of such money; or\n(iii)expenses, commission or other charges incidental to any transaction or proposed or contemplated transaction as a travel agent,\nshall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 3 years.\n(2) Nothing in this section is to be construed to limit or in any way affect the provisions of any other written law."
+   }
+  },
+  {
+   "id": "SG-H3711-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL"
+   },
+   "heading": {
+    "en": "Power to search premises"
+   },
+   "text": {
+    "en": "15. Any officer of the Board or any police officer, on being satisfied upon any information and after any further inquiry which he or she thinks necessary that there is good reason to believe that any place is used for the carrying on of the business of a travel agent by a person who is not the holder of a licence, may with such assistance and by such force as is necessary, by day or by night —\n(a)enter or go to the place and search the place and all persons found in the place;\n(b)seize all documents and things reasonably supposed to have been used or intended to be used in connection with the business of a travel agent which are found in the place or on such persons; and\n(c)detain all such persons until they and the place have been searched."
+   }
+  },
+  {
+   "id": "SG-H3711-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL"
+   },
+   "heading": {
+    "en": "Power to arrest"
+   },
+   "text": {
+    "en": "16.—(1) Any police officer or any officer of the Board authorised in writing in that behalf by the Board may without warrant arrest any person whom he or she reasonably suspects to have committed an offence under this Act.\n(2) Any police officer or any officer of the Board authorised in writing in that behalf by the Board to arrest a person under subsection (1) may search that person and take possession of all articles found on that person which there is reason to believe were used in connection with the offence.\n(3) Every person arrested must be taken to the office of the Board or a police station.\n(4) A woman must not be searched except by a woman."
+   }
+  },
+  {
+   "id": "SG-H3711-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL"
+   },
+   "heading": {
+    "en": "Power to investigate"
+   },
+   "text": {
+    "en": "17. In any case relating to the commission of an offence under this Act or the regulations, any police officer and any officer of the Board authorised in writing in that behalf by the Board may exercise all or any of the special powers in relation to any arrestable case mentioned in section 18(1) of the Criminal Procedure Code 2010.\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL"
+   },
+   "heading": {
+    "en": "Powers of Board"
+   },
+   "text": {
+    "en": "18.—(1) Any police officer and any officer of the Board authorised in writing in that behalf by the Board, for the purposes of the execution of this Act or the regulations, has power to do all or any of the following:\n(a)to enter, inspect and examine, by day or by night, the place of business of any licensee;\n(b)to require any person to produce any document relevant to the execution of this Act or the regulations and to inspect, examine and make copies or retain any of the documents;\n(c)to make any inquiry that may be necessary to ascertain whether the provisions of this Act or the regulations are complied with by any licensee, licensee’s employee or licensee’s agent who assists in carrying on the business of a travel agent;\n(d)to take such photograph or audio or video recording as the police officer or authorised officer of the Board thinks necessary, of any place, or of any individual reasonably believed to be acquainted with the facts and circumstances relevant to any contravention of this Act or the regulations.\n[47/2017]\n(2) In this section, “place” includes —\n(a)any building or structure, whether permanent or temporary;\n(b)any land, whether built on or not;\n(c)any place, whether open or enclosed, including any place situated underground or underwater;\n(d)any vehicle, vessel, train or aircraft; and\n(e)any part of any place mentioned in paragraphs (a) to (d).\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL"
+   },
+   "heading": {
+    "en": "Obstruction of search, etc."
+   },
+   "text": {
+    "en": "19. Any person who —\n(a)refuses any police officer or any officer of the Board authorised to enter or search access to any place;\n(b)assaults, obstructs, hinders or delays a police officer or an officer of the Board in effecting any entrance which the police officer or officer of the Board is entitled to effect under this Act, or in the execution of any duty imposed or power conferred by this Act;\n(c)fails to comply with any lawful demand of a police officer or an officer of the Board in the execution of the duty of the police officer or officer of the Board under this Act; or\n(d)refuses or neglects to give any information which may reasonably be required of the person and which the person has it in the person’s power to give,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 12 months or to both.\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL"
+   },
+   "heading": {
+    "en": "Offences by corporations"
+   },
+   "text": {
+    "en": "20.—(1) Where, in a proceeding for an offence under this Act or the regulations, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that —\n(a)an officer, employee or agent of the corporation engaged in that conduct within the scope of his or her actual or apparent authority; and\n(b)the officer, employee or agent had that state of mind,\nis evidence that the corporation had that state of mind.\n[47/2017]\n(2) Where a corporation commits an offence under this Act or the regulations, a person —\n(a)who is —\n(i)an officer of the corporation, or a member of a corporation (in the case where the affairs of the corporation are managed by its members); or\n(ii)an individual involved in the management of the corporation and in a position to influence the conduct of the corporation in relation to the commission of the offence; and\n(b)who —\n(i)consented or connived, or conspired with others, to effect the commission of the offence;\n(ii)is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the corporation; or\n(iii)knew or ought reasonably to have known that the offence by the corporation (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,\nshall be guilty of that same offence as is the corporation, and shall be liable on conviction to be punished accordingly.\n[47/2017]\n(3) A person mentioned in subsection (2) may rely on a defence that would be available to the corporation if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the corporation would bear.\n[47/2017]\n(4) To avoid doubt, this section does not affect the application of —\n(a)Chapters 5 and 5A of the Penal Code 1871; or\n(b)the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence.\n[47/2017]\n(5) To avoid doubt, subsection (2) also does not affect the liability of the corporation for an offence under this Act or the regulations, and applies whether or not the corporation is convicted of the offence.\n[47/2017]\n(6) In this section —\n“corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act 2005;\n“officer”, in relation to a corporation, means any director, partner, chief executive, manager, secretary or other similar officer of the corporation, and includes —\n(a)any person purporting to act in that capacity; and\n(b)for a corporation whose affairs are managed by its members, any of those members as if the member were a director of the corporation;\n“state of mind” of a person includes —\n(a)the knowledge, intention, opinion, belief or purpose of the person; and\n(b)the person’s reasons for the intention, opinion, belief or purpose.\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A20.001",
+   "no": 20.001,
+   "noLabel": {
+    "en": "20A."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL"
+   },
+   "heading": {
+    "en": "Offences by unincorporated associations or partnerships"
+   },
+   "text": {
+    "en": "20A.—(1) Where, in a proceeding for an offence under this Act or the regulations, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that —\n(a)an employee or agent of the unincorporated association or partnership engaged in that conduct within the scope of his or her actual or apparent authority; and\n(b)the employee or agent had that state of mind,\nis evidence that the unincorporated association or partnership had that state of mind.\n[47/2017]\n(2) Where an unincorporated association or a partnership commits an offence under this Act or the regulations, a person —\n(a)who is —\n(i)an officer of the unincorporated association or a member of its governing body;\n(ii)a partner in the partnership; or\n(iii)an individual involved in the management of the unincorporated association or partnership and in a position to influence the conduct of the unincorporated association or partnership in relation to the commission of the offence; and\n(b)who —\n(i)consented or connived, or conspired with others, to effect the commission of the offence;\n(ii)is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the unincorporated association or partnership; or\n(iii)knew or ought reasonably to have known that the offence by the unincorporated association or partnership (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,\nshall be guilty of the same offence as is the unincorporated association or partnership, and shall be liable on conviction to be punished accordingly.\n[47/2017]\n(3) A person mentioned in subsection (2) may rely on a defence that would be available to the unincorporated association or partnership if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the unincorporated association or partnership would bear.\n[47/2017]\n(4) To avoid doubt, this section does not affect the application of —\n(a)Chapters 5 and 5A of the Penal Code 1871; or\n(b)the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence.\n[47/2017]\n(5) To avoid doubt, subsection (2) also does not affect the liability of an unincorporated association or a partnership for an offence under this Act or the regulations, and applies whether or not the unincorporated association or partnership is convicted of the offence.\n[47/2017]\n(6) In this section —\n“officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes —\n(a)any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; and\n(b)any person purporting to act in that capacity;\n“partner” includes a person purporting to act as a partner;\n“state of mind” of a person includes —\n(a)the knowledge, intention, opinion, belief or purpose of the person; and\n(b)the person’s reasons for the intention, opinion, belief or purpose.\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL"
+   },
+   "heading": {
+    "en": "Disclosure of information"
+   },
+   "text": {
+    "en": "21.—(1) A person must not disclose any information obtained by him or her in connection with the administration or execution of this Act or the regulations, unless the disclosure is made —\n(a)with the consent of the person from whom the information was obtained;\n(b)in connection with the administration or execution of this Act or the regulations;\n(c)under and in accordance with any other written law;\n(d)for the purposes of any legal proceedings arising out of this Act or the regulations or of any report of those proceedings; or\n(e)for the purpose of objecting to an application for a licence or of any investigation conducted under this Act.\n[47/2017]\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 6 months or to both.\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL"
+   },
+   "heading": {
+    "en": "Service of documents"
+   },
+   "text": {
+    "en": "22.—(1) A document that is permitted or required by this Act or the regulations to be served on a person may be served as described in this section.\n[47/2017]\n(2) A document permitted or required by this Act or the regulations to be served on an individual may be served —\n(a)by giving it to the individual personally;\n(b)by sending it by prepaid registered post to the address specified by the individual for the service of documents or, if no address is so specified, the individual’s residential address or business address;\n(c)by leaving it at the individual’s residential address with an adult apparently resident there, or at the individual’s business address with an adult apparently employed there;\n(d)by affixing a copy of the document in a conspicuous place at the individual’s residential address or business address;\n(e)by sending it by fax to the fax number last known to the person giving or serving the document as the fax number for the service of documents on the individual; or\n(f)by sending it by email to the individual’s email address.\n[47/2017]\n(3) A document permitted or required by this Act or the regulations to be served on a partnership (other than a limited liability partnership) may be served —\n(a)by giving it to any partner or other similar officer of the partnership;\n(b)by leaving it at, or by sending it by prepaid registered post to, the partnership’s business address;\n(c)by sending it by fax to the fax number used at the partnership’s business address; or\n(d)by sending it by email to the partnership’s email address.\n[47/2017]\n(4) A document permitted or required by this Act or the regulations to be served on a body corporate (including a limited liability partnership) or an unincorporated association may be served —\n(a)by giving it to the secretary or other similar officer of the body corporate or unincorporated association, or the limited liability partnership’s manager;\n(b)by leaving it at, or by sending it by prepaid registered post to, the body corporate’s or unincorporated association’s registered office or principal office in Singapore;\n(c)by sending it by fax to the fax number used at the body corporate’s or unincorporated association’s registered office or principal office in Singapore; or\n(d)by sending it by email to the body corporate’s or unincorporated association’s email address.\n[47/2017]\n(5) Service of a document under this section takes effect —\n(a)if the document is sent by fax and a notification of successful transmission is received, on the day of transmission;\n(b)if the document is sent by email, at the time that the email becomes capable of being retrieved by the person to whom the document is sent; and\n(c)if the document is sent by prepaid registered post, 2 days after the day the document was posted (even if it is returned undelivered).\n[47/2017]\n(6) This section does not apply to documents to be served in proceedings in court.\n[47/2017]\n(7) In this section —\n“business address” means —\n(a)in the case of an individual, the individual’s usual or last known place of business in Singapore; or\n(b)in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore;\n“email address” means the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act or the regulations;\n“residential address” means an individual’s usual or last known place of residence in Singapore.\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL"
+   },
+   "text": {
+    "en": "23. [Repealed by Act 47 of 2017 wef 01/01/2018]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H3711-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL"
+   },
+   "heading": {
+    "en": "Authentication of documents"
+   },
+   "text": {
+    "en": "24. Every summons, process, demand, order, notice, statement, direction or document requiring authentication by the Board may be sufficiently authenticated without the seal of the Board if signed by the Chairperson or the Chief Executive of the Board, or an officer of the Board authorised for this purpose by the Board.\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL"
+   },
+   "heading": {
+    "en": "Consent of Public Prosecutor"
+   },
+   "text": {
+    "en": "25. No court is to try an offence under section 14 except with the consent of the Public Prosecutor.\n[15/2010; 47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL"
+   },
+   "heading": {
+    "en": "Conduct of proceedings"
+   },
+   "text": {
+    "en": "26. Proceedings in respect of any offence under this Act or the regulations may, with the authorisation of the Public Prosecutor, be conducted by any officer authorised in writing in that behalf by the Chairperson or the Chief Executive of the Board.\n[15/2010; 47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "27.—(1) The Board may compound any offence under this Act or the regulations that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:\n(a)one half of the amount of the maximum fine that is prescribed for the offence;\n(b)$5,000.\n[47/2017]\n(2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence.\n[47/2017]\n(3) All sums collected under this section must be paid into the Consolidated Fund.\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A27.001",
+   "no": 27.001,
+   "noLabel": {
+    "en": "27A."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL"
+   },
+   "heading": {
+    "en": "Recovery of financial penalties, etc."
+   },
+   "text": {
+    "en": "27A.—(1) Any person who fails to pay a financial penalty by the date the person is required to do so under this Act is liable to pay, after that date, interest on the amount unpaid at the same rate as for a judgment debt.\n[47/2017]\n(2) Any financial penalty and any interest on the financial penalty payable by any person under this Act must be paid to the Board and is recoverable by the Board as a debt due to the Board from that person; and the person’s liability to pay is not affected by the person’s licence ceasing (for any reason) to be in force.\n[47/2017]\n(3) The Board may (in any case it thinks fit) waive, remit or refund, in whole or in part, any financial penalty or any interest on the financial penalty payable under this Act.\n[47/2017]\n(4) All financial penalties and interest on the financial penalties collected by the Board under this Act must be paid into the Consolidated Fund.\n[47/2017]"
+   }
+  },
+  {
+   "id": "SG-H3711-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "chapter": {
+    "en": "PART 3 GENERAL"
+   },
+   "heading": {
+    "en": "Regulations"
+   },
+   "text": {
+    "en": "28.—(1) The Board may, with the approval of the Minister, make regulations generally for carrying out the provisions of this Act and for prescribing anything that is to be prescribed and, in particular, may make regulations for all or any of the following purposes:\n(a)prescribing the information and documents to be furnished by an applicant for a licence or by a licensee;\n(b)prescribing the procedure to be followed on applications and other proceedings under this Act;\n(c)prescribing the books, accounts (including trust accounts) and records to be kept by a licensee and the form and mode of keeping those books, accounts and records;\n(d)prescribing —\n(i)the fees and charges payable under this Act or the regulations, including fees for a licence; and\n(ii)the interest or penalty for the late payment of any fee or charge;\n(e)providing for the waiver, refund or remission, whether in whole or in part, of any fee or charge or the interest or penalty for the late payment of any fee or charge, either generally or in any particular case or class of cases or in the discretion of any person;\n(f)prescribing requirements applicable to licensees, including minimum financial requirements that the licensee must satisfy throughout the currency of the licence;\n(g)regulating the conduct of licensees in their business, including —\n(i)imposing restrictions or obligations on licensees in relation to any variation or termination of a contract for the supply by the licensee of a travel product; and\n(ii)providing a code of conduct for licensees;\n(h)prescribing duties applicable to directors of, or individuals employed or engaged by, licensees;\n(i)to exempt any persons or classes of persons from the provisions of this Act.\n[47/2017]\n(2) The regulations made under this section may provide that a contravention of any provision of the regulations shall be punishable with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both and, in the case of a continuing offence, with a further fine not exceeding $1,000 for every day during which the offence continues after conviction."
+   }
+  }
+ ]
+}

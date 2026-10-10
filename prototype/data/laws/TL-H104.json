@@ -1,0 +1,159 @@
+{
+ "id": "TL-H104",
+ "title": {
+  "zh": "Crimes de Açambarcamento及 Especulação",
+  "en": null,
+  "orig": "Crimes de Açambarcamento e Especulação"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p03",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2011-06-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 4/2011",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 9,
+ "chars": 5374,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2011/serie_1/serie1_no20.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 9 条；逐字取自官方公报 PDF（public/docs/2011/serie_1/serie1_no20.pdf）第 4768–4770 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H104-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "heading": {
+    "pt": "Objecto"
+   },
+   "text": {
+    "pt": "A presente lei estabelece o regime da responsabilidade penal pelos crimes de açambarcamento e de especulação."
+   }
+  },
+  {
+   "id": "TL-H104-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "heading": {
+    "pt": "Bens essenciais"
+   },
+   "text": {
+    "pt": "1.  São bens essenciais, para efeitos da presente lei, os seguintes:\na)   Géneros alimentícios básicos;\nb)   Materiais de construção básicos.\n2.   Para os efeitos do previsto na alínea a) do número anterior consideram-se géneros alimentícios básicos os seguintes:\na)   Arroz;\nb)   Açúcar;\nc)   Produtos lácteos;\nd)   Massas e farinhas alimentícias;\ne)   Óleos alimentares;\nf)    Alimentos para crianças até 3 anos de idade.\n3.  Para os efeitos do previsto na alínea b) do número 1, consideram-se materiais de construção básicos os seguintes:\na)   Cimento;\nb)   Varões de ferro para betão;\nc)   Zinco para construção;\nd)   Madeira para construção;\ne)   Alumínio para construção."
+   }
+  },
+  {
+   "id": "TL-H104-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "heading": {
+    "pt": "Açambarcamento pelo vendedor"
+   },
+   "text": {
+    "pt": "1.   Quem, em situação de notória escassez ou com prejuízo do regular abastecimento do mercado de bens, pratique qualquer dos factos seguintes:\na)  Ocultar existências ou as armazenar em locais não indicados às autoridades de fiscalização;\nb)   Recusar a venda segundo os usos normais da respectiva actividade ou condicionar a sua venda à aquisição de outros, do próprio ou de terceiros;\nc)  Recusar ou retardar a sua entrega quando encomendados e aceite o respectivo fornecimento;\nd)   Encerrar o estabelecimento ou o local de exercício da actividade com o fim de impedir a venda;\ne)   Não os levantar quando lhe tenham sido consignados e hajam dado entrada em locais de desembarque, descarga, armazenagem ou arrecadação, no prazo de 10 dias, tratando-se de bens sujeitos a racionamento ou distribuição condicionada, ou no prazo legalmente determinado pela entidade competente, tratando-se de quaisquer outros;\né punido com pena de prisão até dois anos ou pena de multa.\n2.    Se a conduta se referir a bens essenciais a pena é agravada um terço do seu limite. elaboradas pelo próprio vendedor ou prestador de serviços;\nc)  Realizar uma intervenção remunerada ou contratação artificial de um novo intermediário no circuito legal ou normal de distribuição, salvo quando dessa intermediação não resultar qualquer aumento de preço na respectiva fase do circuito;\nd)  Exigir compensações que não sejam consideradas antecipação do pagamento e que condicionem ou favoreçam a cedência, uso ou disponibilidade de bens essenciais é   punido com pena de prisão até três anos ou pena de multa.\n2.   Se os factos forem praticados com negligência a pena é de prisão até um ano ou pena de multa.\n3.    A tentativa é punível.\n4.   O tribunal pode ordenar a perda de bens a favor do Estado, em caso de condenação pela prática do crime de especulação, ou, não sendo tal possível, a perda de bens equivalentes aos do objecto do crime que se encontrem em poder do infractor."
+   }
+  },
+  {
+   "id": "TL-H104-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "heading": {
+    "pt": "Preço no consumidor"
+   },
+   "text": {
+    "pt": "Para os efeitos da presente lei, no cálculo do preço de venda ao consumidor final é vedado considerar como custos os encargos resultantes da aplicação de eventuais agravamentos por fazendas demoradas, tarifas portuárias ou pelo pagamento de coimas ou multas imputáveis ao vendedor."
+   }
+  },
+  {
+   "id": "TL-H104-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "heading": {
+    "pt": "Responsabilidade das Pessoas Colectivas"
+   },
+   "text": {
+    "pt": "1.   Pelos crimes previstos no presente diploma são aplicáveis às pessoas colectivas as seguintes penas principais:\na)   Pena de multa;\nb)   Dissolução judicial.\n2.   A pena de multa é fixada num mínimo de vinte mil dólares norte-americanos."
+   }
+  },
+  {
+   "id": "TL-H104-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "heading": {
+    "pt": "Direito subsidiário"
+   },
+   "text": {
+    "pt": "Aos crimes previstos na presente lei são subsidiariamente aplicáveis as disposições do Código Penal."
+   }
+  },
+  {
+   "id": "TL-H104-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "heading": {
+    "pt": "Norma revogatória"
+   },
+   "text": {
+    "pt": "São revogados os artigos 16.º, 17.º e 18.º do Decreto-Lei n.º 23/ 2009, de 5 de Agosto.\n3.  A recusa de venda considera-se justificada nos casos seguintes:\na)   Satisfação das necessidades normais do abastecimento doméstico, familiar, do produtor ou comerciante;\nb)  Satisfação das exigências normais da exploração agrícola, comercial ou industrial, durante o período necessário à renovação de existências;\nc)   Satisfação de compromissos anteriormente assumidos e devidamente comprovados.\n4.   Havendo negligência, os limites mínimos e máximos da pena de multa são reduzidos a metade.\n5.   Não constitui infracção a recusa de venda:\na) Em quantidade susceptível de prejudicar a justa repartição entre a clientela;\nb)  Em quantidade manifestamente desproporcionada às necessidades normais de consumo do adquirente ou aos volumes normais das entregas pelo vendedor;\nc)  Por falta de capacidade do adquirente para, face às características dos bens, assegurar a sua revenda em condições técnicas satisfatórias ou para manter um adequado serviço assistencial  pós-venda;\nd)   Por justificada falta de confiança do vendedor quanto à pontualidade de pagamento pelo adquirente, tratandose de venda a crédito.\n6.   A tentativa é punível.\n7.    O tribunal pode ordenar a perda de bens a favor do Estado, em caso de condenação pela prática do crime de açambarcamento doloso."
+   }
+  },
+  {
+   "id": "TL-H104-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "heading": {
+    "pt": "Açambarcamento pelo adquirente"
+   },
+   "text": {
+    "pt": "Quem, não sendo comerciante profissional, em situação de notória escassez ou com prejuízo do normal abastecimento do mercado, adquirir bens essenciais em quantidade manifestamente desproporcionada às suas necessidades de abastecimento ou da normal renovação das suas reservas, é punido com pena de prisão até um 1 ano ou pena de multa."
+   }
+  },
+  {
+   "id": "TL-H104-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "heading": {
+    "pt": "Especulação"
+   },
+   "text": {
+    "pt": "1.   Quem, como forma de promover um aumento artificial dos preços:\na)   Vender bens ou prestar serviços por preço superior ao permitido pelo regime legal a que estejam submetidos esses mesmos bens;\nb)   Vender bens ou prestar serviços por preço superior ao que conste de etiquetas, rótulos, letreiros ou listas"
+   }
+  }
+ ]
+}

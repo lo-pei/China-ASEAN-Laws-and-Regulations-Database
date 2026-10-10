@@ -1,0 +1,104 @@
+{
+ "id": "PH-H2435",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the President of the Philippines to Sell a Parcel of Land of the Private Domain of the National Government, Located in the City of Manila, to the Philippine Chamber of Industries",
+  "orig": "An Act Authorizing the President of the Philippines to Sell a Parcel of Land of the Private Domain of the National Government, Located in the City of Manila, to the Philippine Chamber of Industries"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p34",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1960-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 2708",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 6,
+ "chars": 1610,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1960/ra_2708_1960.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 6 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1960/ra_2708_1960.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H2435-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The President of the Philippines is hereby authorized to sell to the Philippine Chamber of Industries for the nominal price of two pesos, a parcel of land of the private domain of the National Government within the City of Manila with an area of not more than three thousand square meters."
+   }
+  },
+  {
+   "id": "PH-H2435-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This conveyance is made for the exclusive purpose of enabling the Philippine Chamber of Industries to construct on the said land a permanent Industry Building approved by the National Planning Commission."
+   }
+  },
+  {
+   "id": "PH-H2435-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The property shall not be leased, but any space in the building to be constructed therein may be leased to a third party: Provided, That the proceeds from such lease shall be utilized for the purpose for which the said corporation has been established."
+   }
+  },
+  {
+   "id": "PH-H2435-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "The title to and use of the land conveyed by this Act shall not be transferred by the Philippine Chamber of Industries to another person without previous authorization by the President of the Philippines."
+   }
+  },
+  {
+   "id": "PH-H2435-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "In case the Philippine Chamber of Industries is dissolved or ceases for any reason to need the land, the said land shall ipso facto revert to the National Government without compensation: Provided, That the improvements thereon may be sold at public auction and the proceeds thereof shall be used to liquidate the obligations incurred by the Philippine Chamber of Industries or its subsidiary which financed the construction of the Industry Building: Provided, further, That the purchaser of the improvements shall be allowed to lease the said land from the Government at a reasonable price."
+   }
+  },
+  {
+   "id": "PH-H2435-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960."
+   }
+  }
+ ]
+}

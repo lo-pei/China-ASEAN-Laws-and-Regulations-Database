@@ -1,0 +1,394 @@
+{
+ "id": "PH-H6910",
+ "title": {
+  "zh": null,
+  "en": "An Act Authorizing the Commission on Elections to Use an Automated Election System in the May 11, 1998 National or Local Elections and in Subsequent National and Local Electoral Exercises, Providing Funds Therefor and for Other Purposes",
+  "orig": "An Act Authorizing the Commission on Elections to Use an Automated Election System in the May 11, 1998 National or Local Elections and in Subsequent National and Local Electoral Exercises, Providing Funds Therefor and for Other Purposes"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p98",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1997-12-22",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 8436",
+ "officialCode": null,
+ "topics": [
+  "administrative"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 35,
+ "chars": 41519,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1997/ra_8436_1997.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 35 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1997/ra_8436_1997.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H6910-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Declaration of policy. - It is the policy of the State to ensure free, orderly, honest, peaceful and credible elections, and assure the secrecy and sanctity of the ballot in order that the results of elections, plebiscites, referenda, and other electoral exercises shall be fast, accurate and reflective of the genuine will of the people."
+   }
+  },
+  {
+   "id": "PH-H6910-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Definition of terms. - As used in this Act, the following terms shall mean:\n1. Automated election system - a system using appropriate technology for voting and electronic devices to count votes and canvass/consolidate results;\n2. Counting machine - a machine that uses an optical scanning/mark-sense reading device or any similar advanced technology to count ballots;\n3. Data storage device - a device used to electronically store counting and canvassing results, such as a memory pack or diskette;\n4. Computer set - a set of equipment containing regular components, i.e., monitor, central processing unit or CPU, keyboard and printer;\n5. National ballot - refers to the ballot to be used in the automated election system for the purpose of the May 11, 1998 elections. This shall contain the names of the candidates for president, vice-president, senators and parties, organizations or coalitions participating under the party-list system.\nThis ballot shall be counted by the counting machine;\n6. Local Ballot - refers to the ballot on which the voter will manually write the names of the candidates of his/her choice for member of the House of Representatives, governor, vice-governor, members of the provincial board, mayor, vice-mayor, and members of the city/municipal council. For the purpose of the May 11, 1998 elections, this ballot will be counted manually;\n7. Board of Election Inspectors - there shall be a Board of Election Inspectors in every precinct composed of three (3) regular members who shall conduct the voting, counting and recording of votes in the polling place.\nFor the purpose of the May 11, 1998 elections, there shall be special members composed of a fourth member in each precinct and a COMELEC representative who is authorized to operate the counting machine. Both shall conduct the counting and recording of votes of the national ballots in the designated counting centers;\n8. Election returns - a machine-generated document showing the date of the election, the province, municipality and the precinct in which it is held and the votes in figures for each candidate in a precinct directly produced by the counting machine;\n9. Statement of votes - a machine-generated document containing the votes obtained by candidates in each precinct in a city/municipality;\n10. City/municipal/district/provincial certificate of canvass of votes - a machine-generated document containing the total votes in figures obtained by each candidate in a city/municipality/district/ province as the case may be; and\n11. Counting center - a public place designated by the Commission where counting of votes and canvassing/consolidation of results shall be conducted."
+   }
+  },
+  {
+   "id": "PH-H6910-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Qualifications, rights and limitations of the special members of the Board of Election Inspectors. - No person shall be appointed as a special member of the board of election inspectors unless he/she is of good moral character and irreproachable reputation, a registered voter, has never been convicted of any election offense or of any crime punishable by more than six (6) months imprisonment or if he/she has pending against him/her an information for any election offense or if he/she is related within the fourth civil degree of consanguinity or affinity to any member of the board of election inspectors or any special member of the same board of Election Inspector or to any candidate for a national position or to a nominee as a party list representative or his/her spouse. The special members of the board shall enjoy the same rights and be bound by the same limitations and liabilities of a regular member of the board of election inspectors but shall not vote during the proceedings of the board of election inspectors except on matters pertaining to the national ballot."
+   }
+  },
+  {
+   "id": "PH-H6910-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Duties and functions of the special members of the Board of Election Inspectors. -\n1. During the conduct of the voting in the polling place, the fourth member shall:\n(a) accomplish the minutes of voting for the automated election system in the precinct; and\n(b) ensure that the national ballots are placed inside the appropriate ballot box;\n2. On the close of the polls, the fourth member shall bring the ballot box containing the national ballots to the designated counting center;\n3. Before the counting of votes, the fourth member shall verify if the number of national ballots tallies with the data in the minutes of the voting;\n4. During the counting of votes, the fourth member and the COMELEC authorized representative shall jointly accomplish the minutes of counting for the automated election system in the precinct;\n5. After the counting of votes, the fourth member and the COMELEC authorized representative shall jointly:\n(a) certify the results of the counting of national ballots from the precinct; and\n(b) bring the ballot box containing the counted national ballots together with the minutes of voting and counting, and other election documents and paraphernalia to the city or municipal treasurer for safekeeping."
+   }
+  },
+  {
+   "id": "PH-H6910-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Board of Canvassers. - For purposes of the May 11, 1998 elections, each province, city or municipality shall have two (2) board of canvassers, one for the manual election system under the existing law, and the other, for the automated system. For the automated election system, the chairman of the board shall be appointed by the Commission from among its personnel/deputies and the members from the officials enumerated in Section 21 of Republic Act No. 6646."
+   }
+  },
+  {
+   "id": "PH-H6910-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Authority to use an automated election system. - To carry out the above-stated policy, the Commission on Elections, herein referred to as the Commission, is hereby authorized to use an automated election system, herein referred to as the System, for the process of voting, counting of votes and canvassing/consolidation of results of the national and local elections: Provided, however, That for the May 11, 1998 elections, the System shall be applicable in all areas within the country only for the positions of president, vice-president, senators and parties, organizations or coalitions participating under the party-list system.\nTo achieve the purpose of this Act, the Commission is authorized to procure by purchase, lease or otherwise any supplies, equipment, materials and services needed for the holding of the elections by an expedited process of public bidding of vendors, suppliers or lessors: Provided, That the accredited political parties are duly notified of and allowed to observe but not to participate in the bidding. If, inspite of its diligent efforts to implement this mandate in the exercise of this authority, it becomes evident by February 9, 1998 that the Commission cannot fully implement the automated election system for national positions in the May 11, 1998 elections, the elections for both national and local positions shall be done manually except in the Autonomous Region in Muslim Mindanao (ARMM) where the automated election system shall be used for all positions."
+   }
+  },
+  {
+   "id": "PH-H6910-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "Features of the system. - The System shall utilize appropriate technology for voting, and electronic devices for counting of votes and canvassing of results. For this purpose, the Commission shall acquire automated counting machines, computer equipment, devices and materials and adopt new forms and printing materials.\nThe System shall contain the following features: (a) use of appropriate ballots, (b) stand-alone machine which can count votes and an automated system which can consolidate the results immediately, (c) with provisions for audit trails, (d) minimum human intervention, and (e) adequate safeguard/security measures.\nIn addition, the System shall as far as practicable have the following features:\n1. It must be user-friendly and need not require computer-literate operators;\n2. The machine security must be built-in and multi-layer existent on hardware and software with minimum human intervention using latest technology like encrypted coding system;\n3. The security key control must be embedded inside the machine sealed against human intervention;\n4. The Optical Mark Reader (OMR) must have a built-in printer for numbering the counted ballots and also for printing the individual precinct number on the counted ballots;\n5. The ballot paper for the OMR counting machine must be of the quality that passed the international standard like ISO-1831, JIS-X- 9004 or its equivalent for optical character recognition;\n6. The ballot feeder must be automatic;\n7. The machine must be able to count from 100 to 150 ballots per minute;\n8. The counting machine must be able to detect fake or counterfeit ballots and must have a fake ballot rejector;\n9. The counting machine must be able to detect and reject previously counted ballots to prevent duplication;\n10. The counting machine must have the capability to recognize the ballot's individual precinct and city or municipality before counting or consolidating the votes;\n11. The System must have a printer that has the capacity to print in one stroke or operation seven (7) copies (original plus six (6) copies) of the consolidated reports on carbonless paper;\n12. The printer must have at least 128 kilobytes of Random Access Memory (RAM) to facilitate the expeditious processing of the printing of the consolidated reports;\n13. The machine must have a built-in floppy disk drive in order to save the processed data on a diskette;\n14. The machine must also have a built-in hard disk to store the counted and consolidated data for future printout and verification;\n15. The machine must be temperature-resistant and rust-proof;\n16. The optical lens of the OMR must have a self-cleaning device;\n17. The machine must not be capable of being connected to external computer peripherals for the process of vote consolidation;\n18. The machine must have an Uninterrupted Power Supply (UPS);\n19. The machine must be accompanied with operating manuals that will guide the personnel of the Commission the proper use and maintenance of the machine;\n20. It must be so designed and built that add-ons may immediately be incorporated into the System at minimum expense;\n21. It must provide the shortest time needed to complete the counting of votes and canvassing of the results of the election;\n22. The machine must be able to generate consolidated reports like the election return, statement of votes and certificate of canvass at different levels; and\n23. The accuracy of the count must be guaranteed, the margin of error must be disclosed and backed by warranty under such terms and conditions as may be determined by the Commission.\nIn the procurement of this system, the Commission shall adopt an equitable system of deductions or demerits for deviations or deficiencies in meeting all the above stated features and standards.\nFor this purpose, the Commission shall create an Advisory Council to be composed of technical experts from the Department of Science and Technology (DOST), the Information Technology Foundation of the Philippines (ITFP), the University of the Philippines (UP), and two (2) representatives from the private sector recommended by the Philippine Computer Society (PCS).\nThe Council may avail itself of the expertise and services of resource persons of known competence and probity.\nThe Commission in collaboration with the DOST shall establish an independent Technical Ad Hoc Evaluation Committee, herein known as the Committee, composed of a representative each from the Senate, House of Representatives, DOST and COMELEC. The Committee shall certify that the System is operating properly and accurately and that the machines have a demonstrable capacity to distinguish between genuine and spurious ballots.\nThe Committee shall ensure that the testing procedure shall be unbiased and effective in checking the worthiness of the System. Toward this end, the Committee shall design and implement a reliability test procedure or a system stress test."
+   }
+  },
+  {
+   "id": "PH-H6910-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "Procurement of equipment and materials. - The Commission shall procure the automated counting machines, computer equipment, devices and materials needed for ballot printing and devices for voting, counting and canvassing from local or foreign sources free from taxes and import duties, subject to accounting and auditing rules and regulations."
+   }
+  },
+  {
+   "id": "PH-H6910-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "text": {
+    "en": "Systems breakdown in the counting center. - In the event of a systems breakdown of all assigned machines in the counting center, the Commission shall use any available machine or any component thereof from another city/municipality upon the approval of the Commission en banc or any of its divisions.\nThe transfer of such machines or any component thereof shall be undertaken in the presence of representatives of political parties and citizens' arm of the Commission who shall be notified by the election officer of such transfer.\nThere is a systems breakdown in the counting center when the machine fails to read the ballots or fails to store/save results or fails to print the results after it has read the ballots; or when the computer fails to consolidate election results/reports or fails to print election results/reports after consolidation."
+   }
+  },
+  {
+   "id": "PH-H6910-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "text": {
+    "en": "Examination and testing of counting machines. - The Commission shall, on the date and time it shall set and with proper notices, allow the political parties and candidates or their representatives, citizens' arm or their representatives to examine and test the machines to ascertain that the system is operating properly and accurately. Test ballots and test forms shall be provided by the Commission.\nAfter the examination and testing, the machines shall be locked and sealed by the election officer or any authorized representative of the Commission in the presence of the political parties and candidates or their representatives, and accredited citizens' arms. The machines shall be kept locked and sealed and shall be opened again on election day before the counting of votes begins.\nImmediately after the examination and testing of the machines, the parties and candidates or their representatives, citizens' arms or their representatives, may submit a written report to the election officer who shall immediately transmit it to the Commission for appropriate action."
+   }
+  },
+  {
+   "id": "PH-H6910-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "text": {
+    "en": "Official ballot. - The Commission shall prescribe the size and form of the official ballot which shall contain the titles of the positions to be filled and/or the propositions to be voted upon in an initiative, referendum or plebiscite. Under each position, the names of candidates shall be arranged alphabetically by surname and uniformly printed using the same type size. A fixed space where the chairman of the Board of Election inspectors shall affix his/her signature to authenticate the official ballot shall be provided.\nBoth sides of the ballots may be used when necessary.\nFor this purpose, the deadline for the filing of certificate of candidacy/petition for registration/manifestation to participate in the election shall not be later than one hundred twenty (120) days before the elections: Provided, That, any elective official, whether national or local, running for any office other than the one which he/she is holding in a permanent capacity, except for president and vice-president, shall be deemed resigned only upon the start of the campaign period corresponding to the position for which he/she is running: Provided, further, That, unlawful acts or omissions applicable to a candidate shall take effect upon the start of the aforesaid campaign period: Provided, finally, That, for purposes of the May 11, 1998 elections, the deadline for filing of the certificate of candidacy for the positions of President, Vice President, Senators and candidates under the Party-List System as well as petitions for registration and/or manifestation to participate in the Party-List System shall be on February 9, 1998 while the deadline for the filing of certificate of candidacy for other positions shall be on March 27, 1998.\nThe official ballots shall be printed by the National Printing Office and/or the Bangko Sentral ng Pilipinas at the price comparable with that of private printers under proper security measures which the Commission shall adopt. The Commission may contract the services of private printers upon certification by the National Printing Office/Bangko Sentral ng Pilipinas that it cannot meet the printing requirements. Accredited political parties and deputized citizens' arms of the Commission may assign watchers in the printing, storage and distribution of official ballots.\nTo prevent the use of fake ballots, the Commission through the Committee shall ensure that the serial number on the ballot stub shall be printed in magnetic ink that shall be easily detectable by inexpensive hardware and shall be impossible to reproduce on a photocopying machine, and that identification marks, magnetic strips, bar codes and other technical and security markings, are provided on the ballot.\nThe official ballots shall be printed and distributed to each city/municipality at the rate of one (1) ballot for every registered voter with a provision of additional four (4) ballots per precinct."
+   }
+  },
+  {
+   "id": "PH-H6910-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "text": {
+    "en": "Substitution of candidates. - In case of valid substitutions after the official ballots have been printed, the votes cast for the substituted candidates shall be considered votes for the substitutes."
+   }
+  },
+  {
+   "id": "PH-H6910-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "text": {
+    "en": "Ballot box. - There shall be in each precinct on election day a ballot box with such safety features that the Commission may prescribe and of such size as to accommodate the official ballots without folding them.\nFor the purpose of the May 11, 1998 elections, there shall be two (2) ballot boxes for each precinct, one (1) for the national ballots and one (I) for the local ballots."
+   }
+  },
+  {
+   "id": "PH-H6910-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "text": {
+    "en": "Procedure in voting. - The voter shall be given a ballot by the chairman of the Board of Election Inspectors. The voter shall then proceed to a voting booth to accomplish his/her ballot.\nIf a voter spoils his/her ballot, he/she may be issued another ballot subject to Section 11 of this Act. No voter may be allowed to change his/her ballot more than once.\nAfter the voter has voted, he/she shall affix his/her thumbmark on the corresponding space in the voting record. The chairman shall apply indelible ink on the voter's right forefinger and affix his/her signature in the space provided for such purpose in the ballot. The voter shall then personally drop his/her ballot on the ballot box.\nFor the purpose of the May 11, 1998 elections, each voter shall be given one (1) national and one (1) local ballot by the Chairperson. The voter shall, after casting his/her vote, personally drop the ballots in their respective ballot boxes."
+   }
+  },
+  {
+   "id": "PH-H6910-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "text": {
+    "en": "Closing of polls. - After the close of voting, the board shall enter in the minutes the number of registered voters who actually voted, the number and serial number of unused and spoiled ballots, the serial number of the self-locking metal seal to be used in sealing the ballot box. The board shall then place the minutes inside the ballot box and thereafter close, lock and seal the same with padlocks, self-locking metal seals or any other safety devices that the Commission may authorize. The chairman of the Board of Election Inspectors shall publicly announce that the votes shall be counted at a designated counting center where the board shall transport the ballot box containing the ballots and other election documents and paraphernalia.\nFor the purpose of the May 11, 1998 elections, the chairman of the Board of Election Inspectors shall publicly announce that the votes for president, vice-president, senators and parties, organizations or coalitions participating in the party-list system shall be counted at a designated counting center. During the transport of the ballot box containing the national ballots and other documents, the fourth member of the board shall be escorted by representatives from the Armed Forces of the Philippines or from the Philippine National Police, citizens' arm, and if available, representatives of political parties and candidates."
+   }
+  },
+  {
+   "id": "PH-H6910-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "text": {
+    "en": "Designation of Counting Centers. - The Commission shall designate counting center(s) which shall be a public place within the city/municipality or in such other places as may be designated by the Commission when peace and order conditions so require, where the official ballots cast in various precincts of the city/municipality shall be counted. The election officer shall post prominently in his/her office, in the bulletin boards at the city/municipal hall and in three (3) other conspicuous places in the city/municipality, the notice on the designated counting center(s) for at least fifteen (15) days prior to election day.\nFor the purpose of the May 11, 1998 elections, the Commission shall designate a central counting center(s) which shall be a public place within the city or municipality, as in the case of the National Capital Region and in highly urbanized areas. The Commission may designate other counting center(s) where the national ballots cast from various precincts of different municipalities shall be counted using the automated system. The Commission shall post prominently a notice thereof, for at least fifteen (15) days prior to election day, in the office of the election officer, on the bulletin boards at the municipal hall and in three (3) other conspicuous places in the municipality."
+   }
+  },
+  {
+   "id": "PH-H6910-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "text": {
+    "en": "Counting procedure. - (a) The counting of votes shall be public and conducted in the designated counting center(s).\n(b) The ballots shall be counted by the machine by precinct in the order of their arrival at the counting center. The election officer or his/her representative shall log the sequence of arrival of the ballot boxes and indicate their condition. Thereafter, the board shall, in the presence of the watchers and representatives of accredited citizens' arm, political parties/candidates, open the ballot box, retrieve the ballots and minutes of voting. It shall verify whether the number of ballots tallies with the data in the minutes. If there are excess ballots, the poll clerk, without looking at the ballots, shall publicly draw out at random ballots equal to the excess and without looking at the contents thereof, place them in an envelope which shall be marked \"excess ballots\". The envelope shall be sealed and signed by the members of the board and placed in the compartment for spoiled ballots.\n(c) The election officer or any authorized official or any member of the board shall feed the valid ballots into the machine without interruption until all the ballots for the precincts are counted.\n(d) The board shall remain at the counting center until all the official ballots for the precinct are counted and all reports are properly accomplished.\nFor the purpose of the May 11, 1998 elections, the ballots shall be counted by precinct by the special members of the board in the manner provided in paragraph (b) hereof."
+   }
+  },
+  {
+   "id": "PH-H6910-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "text": {
+    "en": "Election returns. - After the ballots of the precincts have been counted, the election officer or any official authorized by the Commission shall, in the presence of watchers and representatives of the accredited citizens' arm, political parties/ candidates, if any, store the results in a data storage device and print copies of the election returns of each precinct. The printed election returns shall be signed and thumbmarked by the fourth member and COMELEC authorized representative and attested to by the election officer or authorized representative. The Chairman of the Board shall then publicly read and announce the total number of votes obtained by each candidate based on the election returns.\nThereafter, the copies of the election returns shall be sealed and placed in the proper envelopes for distribution as follows:\nA. In the election of president, vice-president, senators and party-list system:\n(1) The first copy shall be delivered to the city or municipal board of canvassers;\n(2) The second copy, to the Congress, directed to the President of the Senate;\n(3) The third copy, to the Commission;\n(4) The fourth copy, to the citizens' arm authorized by the Commission to conduct an unofficial count. In the conduct of the unofficial quick count by any accredited citizens' arm, the Commission shall promulgate rules and regulations to ensure, among others, that said citizens' arm releases in the order of their arrival one hundred percent (100%) results of a precinct indicating the precinct, municipality or city, province and region: Provided, however, that, the count shall continue until all precincts shall have been reported.\n(5) The fifth copy, to the dominant majority party as determined by the Commission in accordance with law;\n(6) The sixth copy, to the dominant minority party as determined by the Commission in accordance with law; and\n(7) The seventh copy shall be deposited inside the compartment of the ballot box for valid ballots.\nThe citizens' arm shall provide copies of the election returns at the expense of the requesting party.\nFor the purpose of the May 11, 1998 elections, after the national ballots have been counted, the COMELEC authorized representative shall implement the provisions of paragraph A hereof.\nB. In the election of local officials and members of the House of Representatives:\n(1) The first copy shall be delivered to the city or municipal board of canvassers;\n(2) The second copy, to the Commission;\n(3) The third copy, to the provincial board of canvassers;\n(4) The fourth copy, to the citizens' arm authorized by the Commission to conduct an unofficial count. In the conduct of the unofficial quick count by any accredited citizens' arm, the Commission shall promulgate rules and regulations to ensure, among others, that said citizens' arm releases in the order of their arrival one hundred percent (100%) results of a precinct indicating the precinct, municipality or city, province and region: Provided, however, That, the count shall continue until all precincts shall have been reported.\n(5) The fifth copy, to the dominant majority party as determined by the Commission in accordance with law;\n(6) The sixth copy, to the dominant minority party as determined by the Commission in accordance with law; and\n(7) The seventh copy shall be deposited inside the compartment of the ballot box for valid ballots.\nThe citizens' arm shall provide copies of election returns at the expense of the requesting party.\nAfter the votes from all precincts have been counted, a consolidated report of votes for each candidate shall be printed.\nAfter the printing of the election returns, the ballots shall be returned to the ballot box, which shall be locked, sealed and delivered to the city/municipal treasurer for safekeeping. The treasurer shall immediately provide the Commission and the election officer with a record of the serial numbers of the ballot boxes and the corresponding metal seals."
+   }
+  },
+  {
+   "id": "PH-H6910-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "text": {
+    "en": "Custody and accountability of ballots. - The election officer and the treasurer of the city/municipality as deputy of the Commission shall have joint custody and accountability of the official ballots, accountable forms and other election documents as well as ballot boxes containing the official ballots cast. The ballot boxes shall not be opened for three (3) months unless the Commission orders otherwise."
+   }
+  },
+  {
+   "id": "PH-H6910-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "text": {
+    "en": "Substitution of Chairman and Members of the Board of Canvassers. - In case of non-availability, absence, disqualification due to relationship, or incapacity for any cause of the chairman, the Commission shall appoint as substitute, a ranking lawyer of the Commission. With respect to the other members of the board, the Commission shall appoint as substitute the following in the order named: the provincial auditor, the register of deeds, the clerk of court nominated by the executive judge of the regional trial court, or any other available appointive provincial official in the case of the provincial board of canvassers; the officials in the city corresponding to those enumerated in the case of the city board of canvassers; and the municipal administrator, the municipal assessor, the clerk of court nominated by the judge of the municipal trial court, in the case of the municipal board of canvassers."
+   }
+  },
+  {
+   "id": "PH-H6910-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "text": {
+    "en": "Canvassing by Provincial, City, District and Municipal Boards of Canvassers. - The city or municipal board of canvassers shall canvass the votes for the president, vice-president, senators, and parties, organizations or coalitions participating under the party-list system by consolidating the results contained in the data storage devices used in the printing of the election returns. Upon completion of the canvass, it shall print the certificate of canvass of votes for president, vice-president, senators and members of the House of Representatives and elective provincial officials and thereafter, proclaim the elected city or municipal officials, as the case may be.\nThe city board of canvassers of cities comprising one (1) or more legislative districts shall canvass the votes for president, vice-president, senators, members of the House of Representatives and elective city officials by consolidating the results contained in the data storage devices used in the printing of the election returns. Upon completion of the canvass, the board shall print the canvass of votes for president, vice-president, and senators and thereafter, proclaim the elected members of the House of Representatives and city officials.\nIn the Metro Manila area, each municipality comprising a legislative district shall have a district board of canvassers which shall canvass the votes for president, vice-president, senators, members of the House of Representatives and elective municipal officials by consolidating the results contained in the data storage devices used in the printing of the election returns. Upon completion of the canvass, it shall print the certificate of canvass of votes for president, vice-president, and senators and thereafter, proclaim the elected members of the House of Representatives and municipal officials.\nEach component municipality in a legislative district in the Metro Manila area shall have a municipal board of canvassers which shall canvass the votes for president, vice-president, senators, members of the House of Representatives and elective municipal officials by consolidating the results contained in the data storage devices used in the printing of the election returns. Upon completion of the canvass, it shall prepare the certificate of canvass of votes for president, vice-president, senators, members of the House of Representatives and thereafter, proclaim the elected municipal officials.\nThe district board of canvassers of each legislative district comprising two (2) municipalities in the Metro Manila area shall canvass the votes for president, vice-president, senators and members of the House of Representatives by consolidating the results contained in the data storage devices submitted by the municipal board of canvassers of the component municipalities. Upon completion of the canvass, it shall print a certificate of canvass of votes for president, vice-president and senators and thereafter, proclaim the elected members of the House of Representatives in the legislative district.\nThe district/provincial board of canvassers shall canvass the votes for president, vice-president, senators, members of the House of Representatives and elective provincial officials by consolidating the results contained in the data storage devices submitted by the board of canvassers of the municipalities and component cities. Upon completion of the canvass, it shall print the certificate of canvass of votes for president, vice-president and senators and thereafter, proclaim the elected members of the House of Representatives and the provincial officials.\nThe municipal, city, district and provincial certificates of canvass of votes shall each be supported by a statement of votes.\nThe Commission shall adopt adequate and effective measures to preserve the integrity of the data storage devices at the various levels of the boards of canvassers."
+   }
+  },
+  {
+   "id": "PH-H6910-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "text": {
+    "en": "Number of copies of Certificates of Canvass of Votes and their distribution. - (a) The certificate of canvass of votes for president, vice-president, senators, members of the House of Representatives, parties, organizations or coalitions participating under the party-list system and elective provincial officials shall be printed by the city or municipal board of canvassers and distributed as follows:\n(1) The first copy shall be delivered to the provincial board of canvassers for use in the canvass of election results for president, vice-president, senators, members of the House of Representatives, parties, organizations or coalitions participating under the party-list system and elective provincial officials;\n(2) The second copy shall be sent to the Commission;\n(3) The third copy shall be kept by the chairman of the board; and\n(4) The fourth copy shall be given to the citizens' arm designated by the Commission to conduct an unofficial count. It shall be the duty of the citizens' arm to furnish independent candidates copies of the certificate of canvass at the expense of the requesting party.\nThe board of canvassers shall furnish all registered parties copies of the certificate of canvass at the expense of the requesting party.\n(b) The certificate of canvass of votes for president, vice-president and senators, parties, organizations or coalitions participating under the party-list system shall be printed by the city boards of canvassers of cities comprising one or more legislative districts, by provincial boards of canvassers and by district boards of canvassers in the Metro Manila area, and other highly urbanized areas and distributed as follows:\n(1) The first copy shall be sent to Congress, directed to the President of the Senate for use in the canvas of election results for president and vice-president;\n(2) The second copy shall be sent to the Commission for use in the canvass of the election results for senators;\n(3) The third copy shall be kept by the chairman of the board; and\n(4) The fourth copy shall be given to the citizens' arm designated by the Commission to conduct an unofficial count. It shall be the duty of the citizens' arm to furnish independent candidates copies of the certificate of canvass at the expense of the requesting party.\nThe board of canvassers shall furnish all registered parties copies of the certificate of canvass at the expense of the requesting party.\n(c) The certificates of canvass printed by the provincial, district, city or municipal boards of canvassers shall be signed and thumbmarked by the chairman and members of the board and the principal watchers, if available. Thereafter, it shall be sealed and placed inside an envelope which shall likewise be properly sealed.\nIn all instances, where the Board of Canvassers has the duty to furnish registered political parties with copies of the certificate of canvass, the pertinent election returns shall be attached thereto, where appropriate."
+   }
+  },
+  {
+   "id": "PH-H6910-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "text": {
+    "en": "National Board of Canvassers for Senators. - The chairman and members of the Commission on Elections sitting en banc, shall compose the national board of canvassers for senators. It shall canvass the results for senators by consolidating the results contained in the data storage devices submitted by the district, provincial and city boards of canvassers of those cities which comprise one or more legislative districts. Thereafter, the national board shall proclaim the winning candidates for senators."
+   }
+  },
+  {
+   "id": "PH-H6910-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "text": {
+    "en": "Congress as the National Board of Canvassers for President and Vice-President. - The Senate and the House of Representatives in joint public session shall compose the national board of canvassers for president and vice-president. The returns of every election for president and vice-president duly certified by the board of canvassers of each province or city, shall be transmitted to the Congress, directed to the president of the Senate. Upon receipt of the certificates of canvass, the president of the Senate shall, not later than thirty (30) days after the day of the election, open all the certificates in the presence of the Senate and the House of Representatives in joint public session and the Congress upon determination of the authenticity and the due execution thereof in the manner provided by law, canvass all the results for president and vice-president by consolidating the results contained in the data storage devices submitted by the district, provincial and city boards of canvassers and thereafter, proclaim the winning candidates for president and vice-president."
+   }
+  },
+  {
+   "id": "PH-H6910-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "text": {
+    "en": "Voters' education. - The Commission together with and in support of accredited citizens' arms shall carry out a continuing and systematic campaign through newspapers of general circulation, radio and other media forms, as well as through seminars, symposia, fora and other non-traditional means to educate the public and fully inform the electorate about the automated election system and inculcate values on honest, peaceful and orderly elections."
+   }
+  },
+  {
+   "id": "PH-H6910-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "text": {
+    "en": "Supervision and control. - The System shall be under the exclusive supervision and control of the Commission. For this purpose, there is hereby created an information technology department in the Commission to carry out the full administration and implementation of the System.\nThe Commission shall take immediate steps as may be necessary for the acquisition, installation, administration, storage, and maintenance of equipment and devices, and to promulgate the necessary rules and regulations for the effective implementation of this Act."
+   }
+  },
+  {
+   "id": "PH-H6910-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "text": {
+    "en": "Oversight Committee. - An Oversight Committee is hereby created composed of three (3) representatives each from the Senate and the House of Representatives and three (3) from the Commission on Elections to monitor and evaluate the implementation of this Act. A report to the Senate and the House of Representatives shall be submitted within ninety (90) days from the date of election.\nThe oversight committee may hire competent consultants for project monitoring and information technology concerns related to the implementation and improvement of the modern election system. The oversight committee shall be provided with the necessary funds to carry out its duties."
+   }
+  },
+  {
+   "id": "PH-H6910-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "text": {
+    "en": "Designation of other dates for certain pre-election acts. - If it shall no longer be reasonably possible to observe the periods and dates prescribed by law for certain pre-election acts, the Commission shall fix other periods and dates in order to ensure accomplishment of the activities so voters shall not be deprived of their suffrage."
+   }
+  },
+  {
+   "id": "PH-H6910-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "text": {
+    "en": "Election offenses. - In addition to those enumerated in Sections 261 and 262 of Batas Pambansa Blg. 881, as amended, the following acts shall be penalized as election offenses, whether or not said acts affect the electoral process or results:\n(a) Utilizing without authorization, tampering with, destroying or stealing:\n(1) Official ballots, election returns, and certificates of canvass of votes used in the System; and\n(2) Electronic devices or their components, peripherals or supplies used in the System such as counting machine, memory pack/diskette, memory pack receiver and computer set;\n(b) Interfering with, impeding, absconding for purpose of gain, preventing the installation or use of computer counting devices and the processing, storage, generation and transmission of election results, data or information; and\n(c) Gaining or causing access to using, altering, destroying or disclosing any computer data, program, system software, network, or any computer-related devices, facilities, hardware or equipment, whether classified or declassified."
+   }
+  },
+  {
+   "id": "PH-H6910-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "text": {
+    "en": "Applicability. - The provisions of Batas Pambansa Blg. 881, as amended, otherwise known as the \"Omnibus Election Code of the Philippines\", and other election laws not inconsistent with this Act shall apply."
+   }
+  },
+  {
+   "id": "PH-H6910-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31."
+   },
+   "text": {
+    "en": "Rules and Regulations. - The Commission shall promulgate rules and regulations for the implementation and enforcement of this Act including such measures that will address possible difficulties and confusions brought about by the two-ballot system. The Commission may consult its accredited citizens' arm for this purpose."
+   }
+  },
+  {
+   "id": "PH-H6910-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32."
+   },
+   "text": {
+    "en": "Appropriations. - The amount necessary to carry out the provisions of this Act shall be charged against the current year's appropriations of the Commission. Thereafter, such sums as may be necessary for the continuous implementation of this Act shall be included in the annual General Appropriations Act.\nIn case of deficiency in the funding requirements herein provided, such amount as may be necessary shall be augmented from the current contingent fund in the General Appropriations Act."
+   }
+  },
+  {
+   "id": "PH-H6910-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33."
+   },
+   "text": {
+    "en": "Separability clause. - If, for any reason, any section or provision of this Act or any part thereof, or the application of such section, provision or portion is declared invalid or unconstitutional, the remainder thereof shall not be affected by such declaration."
+   }
+  },
+  {
+   "id": "PH-H6910-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34."
+   },
+   "text": {
+    "en": "Repealing clause. - All laws, presidential decrees, executive orders, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly."
+   }
+  },
+  {
+   "id": "PH-H6910-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35."
+   },
+   "text": {
+    "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation."
+   }
+  }
+ ]
+}

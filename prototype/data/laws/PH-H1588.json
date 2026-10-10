@@ -1,0 +1,64 @@
+{
+ "id": "PH-H1588",
+ "title": {
+  "zh": null,
+  "en": "An Act Appropriating Funds for Public Works",
+  "orig": "An Act Amending Certain Items in Republic Act Numbered One Thousand Six Hundred Thirteen, Entitled “An Act Appropriating Funds for Public Works”"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p22",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1957-06-21",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1754",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 704,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1957/ra_1754_1957.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 2 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1957/ra_1754_1957.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1588-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Item sixteen, Appendix B, School Buildings, page seventy-B, for the Province of Negros Oriental, second congressional district, of Republic Act Numbered One thousand six hundred thirteen is hereby amended to read as follows:\n\"16. Siquijor - Cang-alwang—Aid to PTA for reconstruction and construction ₱5,000.00 \"16(a) Siquijor - Poblacion—Repairs and fencing of the Siquijor Central Primary School 2,000.00 \"16(b) Siquijor - Cantabon—Aid to PTA school building 1,000.00 \"16(c) Siquijor - Panlautan—Aid to PTA school building 1,000.00 \"16(d) Siquijor - Pulangyuta—For fencing and ground improvement, Siquijor Elementary school 1,000.00\""
+   }
+  },
+  {
+   "id": "PH-H1588-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1957."
+   }
+  }
+ ]
+}

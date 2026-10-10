@@ -1,0 +1,938 @@
+{
+ "id": "TL-H075",
+ "title": {
+  "zh": "教育基本法",
+  "en": null,
+  "orig": "Lei de Bases da Educação"
+ },
+ "country": "TL",
+ "countryName": "东帝汶",
+ "layer": "intl",
+ "pack": "tl-p02",
+ "language": "pt",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2008-10-29",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "东帝汶国民议会",
+ "docNumber": "Lei n.º 14/2008",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 56,
+ "chars": 74955,
+ "source": {
+  "name": "东帝汶政府公报《Jornal da República》（Série I，司法部 mj.gov.tl/jornal）",
+  "url": "https://www.mj.gov.tl/jornal/public/docs/2008/serie_1/serie1_no40.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 56 条；逐字取自官方公报 PDF（public/docs/2008/serie_1/serie1_no40.pdf）第 2641–2658 页，未改写、未摘译、未节选；页眉、页码等版式噪声已剔除。原始语言：葡萄牙语。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "TL-H075-A1",
+   "no": 1,
+   "noLabel": {
+    "pt": "Artigo 1.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO, PRINCÍPIOS  E  OBJECTIVOS FUNDAMENTAIS / SECÇÃO I ÂMBITO  E  PRINCÍPIOS  GERAIS"
+   },
+   "heading": {
+    "pt": "Âmbito e definição"
+   },
+   "text": {
+    "pt": "1.   A presente lei estabelece o quadro geral do sistema educativo.\n2.   O sistema educativo é o conjunto de meios pelo qual se concretiza o direito à educação, que se exprime pela garantia de uma permanente acção formativa orientada para favorecer o desenvolvimento global da personalidade, o progresso social e a democratização da sociedade\n3.   O sistema educativo é desenvolvido através de estruturas e de acções diversificadas, por iniciativa e sob responsabilidade de diferentes instituições e entidades públicas, particulares e cooperativas, que entre si cooperam na manutenção de uma rede equilibrada e actualizada de ofertas educativas, capaz de proporcionar os conhecimentos, as aptidões e os valores necessários à plena realização individual e profissional na sociedade contemporânea.\n4.   Compete ao Estado assegurar a disponibilidade de docentes com a formação qualificada adequada e demais recursos humanos, bem como das infra-estruturas e meios financeiros necessários com vista a garantir uma educação de qualidade.\n5.   A presente lei é aplicável a todo o território nacional."
+   }
+  },
+  {
+   "id": "TL-H075-A2",
+   "no": 2,
+   "noLabel": {
+    "pt": "Artigo 2.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO, PRINCÍPIOS  E  OBJECTIVOS FUNDAMENTAIS / SECÇÃO I ÂMBITO  E  PRINCÍPIOS  GERAIS"
+   },
+   "heading": {
+    "pt": "Princípios gerais"
+   },
+   "text": {
+    "pt": "1.  A todos os cidadãos é garantido o direito à educação e à cultura nos termos da Constituição da República e da lei.\n2.   O direito à educação é concretizado através de uma efectiva acção formativa ao longo da vida, com vista à consolidação de uma vivência livre, responsável e democrática, destinada a, no respeito pela dignidade humana, promover:\na)  O desenvolvimento da personalidade e a valorização individual assente no mérito;\nb)  A igualdade de oportunidades e a superação das desigualdades económicas, sociais e culturais;\nc)   O progresso social.\n3.   O sistema de educação promove:\na)   O desenvolvimento do espírito democrático e pluralista, respeitador dos outros, das suas personalidades, ideias e projectos individuais de vida, aberto à livre troca de opiniões e à concertação;\nb)   A formação de cidadãos capazes de julgarem, com espírito crítico e criativo, a sociedade em que se integram e de se empenharem activamente no seu desenvolvimento, em termos mais justos e sustentáveis.\n4.   É da especial responsabilidade do Estado promover a democratização do ensino, garantindo o direito a uma justa e efectiva igualdade de oportunidades no acesso e sucesso escolares.\n5.   No acesso à educação e na sua prática é garantido a todos os timorenses o respeito pelo princípio da liberdade de aprender e de ensinar."
+   }
+  },
+  {
+   "id": "TL-H075-A3",
+   "no": 3,
+   "noLabel": {
+    "pt": "Artigo 3.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO, PRINCÍPIOS  E  OBJECTIVOS FUNDAMENTAIS / SECÇÃO I ÂMBITO  E  PRINCÍPIOS  GERAIS"
+   },
+   "heading": {
+    "pt": "Liberdade de aprender e ensinar"
+   },
+   "text": {
+    "pt": "1.   O sistema educativo é desenvolvido por forma a garantir a liberdade de aprender e de ensinar.\n2.   O Estado reconhece o valor do ensino particular e cooperativo, como expressão concreta da liberdade de aprender e ensinar.\n3.  O ensino particular e cooperativo organiza-se e funciona nos termos de estatuto próprio, competindo ao Estado apoiá-lo nas vertentes pedagógica, técnica e financeira.\n4.   Compete ao Estado licenciar, avaliar e fiscalizar o ensino particular e cooperativo nos termos legais."
+   }
+  },
+  {
+   "id": "TL-H075-A4",
+   "no": 4,
+   "noLabel": {
+    "pt": "Artigo 4.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO, PRINCÍPIOS  E  OBJECTIVOS FUNDAMENTAIS / SECÇÃO II OBJECTIVOS  FUNDAMENTAIS"
+   },
+   "heading": {
+    "pt": "Política Educativa"
+   },
+   "text": {
+    "pt": "1.  A política educativa prossegue objectivos nacionais permanentes, pressupondo uma elaboração e uma concretização transparente e consistente.\n2.   A política educativa visa orientar o sistema de educação e de ensino por forma a responder às necessidades da sociedade timorense, em resultado de uma análise quantitativa e qualitativa com vista ao desenvolvimento global, pleno e harmonioso da personalidade dos indivíduos, incentivando a formação de cidadãos livres, responsáveis e autónomos.\n3.   A política educativa é da responsabilidade do Governo, no respeito pela Constituição da República e da presente lei.\n4.  A concretização da política educativa implica a plena participação das comunidades locais, devendo valorizar o princípio da subsidiariedade através da descentralização de competências nas administrações locais e a autonomia das escolas.\n5.   A eficiência da política educativa e a sua eficácia estão sujeitas a avaliação regular e pública, nos termos da presente lei e demais legislação complementar."
+   }
+  },
+  {
+   "id": "TL-H075-A5",
+   "no": 5,
+   "noLabel": {
+    "pt": "Artigo 5.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO, PRINCÍPIOS  E  OBJECTIVOS FUNDAMENTAIS / SECÇÃO II OBJECTIVOS  FUNDAMENTAIS"
+   },
+   "heading": {
+    "pt": "Objectivos fundamentais da educação"
+   },
+   "text": {
+    "pt": "A educação visa, em especial, a prossecução dos seguintes objectivos fundamentais:\na)   Contribuir para a realização pessoal e comunitária do indivíduo, através do pleno desenvolvimento da sua personalidade e da formação do seu carácter, preparando-o para uma reflexão consciente sobre os valores éticos, cívicos, espirituais e estéticos, proporcionando-lhe um desenvolvimento psíquico e físico equilibrado;\nb)   Assegurar a formação, em termos culturais, éticos, cívicos e vocacionais das crianças e dos jovens, preparando-os para a reflexão crítica e reforço da cidadania, bem como para a prática e a aprendizagem da utilização criativa dos seus tempos livres;\nc)   Assegurar a igualdade de oportunidades para ambos os sexos, nomeadamente através de práticas de coeducação e da orientação escolar e profissional, e sensibilizar, para o efeito, o conjunto dos intervenientes no processo educativo;\nd)  Contribuir para a defesa da identidade e da independência nacionais e para o reforço da identificação com a matriz histórica de Timor-Leste, através da consciencialização relativamente ao património cultural do povo timorense, da crescente interdependência e solidariedade entre os povos e do dever de consideração e valorização dos diferentes saberes e culturas;\ne)   Desenvolver em cada indivíduo a capacidade para o trabalho e proporcionar-lhe, com base numa sólida formação geral, uma formação específica que lhe permita, com competências na área da sociedade do conhecimento e com iniciativa, ocupar um justo lugar na vida activa, prestando o seu contributo para o progresso da sociedade, em consonância com os seus interesses, capacidades e vocação;\nf)   Descentralizar, desconcentrar e diversificar as estruturas e acções educativas, de modo a proporcionar uma correcta adaptação às realidades locais, um elevado sentido de participação das populações, uma adequada inserção no meio comunitário e níveis de decisão eficientes;\ng)   Contribuir para a correcção das assimetrias regionais e locais, devendo concretizar, de forma equilibrada, em todo o território nacional, a igualdade de acesso aos benefícios da educação, da cultura, da ciência e da tecnologia;\nh)   Assegurar o serviço público de educação e de ensino, através de uma rede de ofertas da administração central e local, bem como das entidades particulares e cooperativas, que garanta integralmente as necessidades de toda a população;\n(i)   Assegurar a organização e funcionamento das escolas, públicas, particulares e cooperativas, de forma a promover o desenvolvimento de projectos educativos próprios, no respeito pelas orientações curriculares de âmbito nacional, e padrões crescentes de autonomia de funcionamento, mediante a responsabilização pela prossecução de objectivos pedagógicos e administrativos, com sujeição à avaliação pública dos resultados e mediante um financiamento público assente em critérios objectivos, transparentes e justos que incentivem as boas práticas de funcionamento;\nj)   Assegurar a liberdade de escolher a escola a frequentar;\nk)  Contribuir para o desenvolvimento do espírito e prática democráticos, adoptando processos participativos na definição da política educativa e modelos de administração e gestão das escolas que assegurem a participação e a responsabilização adequadas da administração central e local, das entidades titulares dos estabelecimentos de educação e de ensino, dos professores, dos alunos, dos pais e das comunidades locais, com vista particularmente à promoção dos resultados das aprendizagens;\nl)    Assegurar uma escolaridade de segunda oportunidade aos que dela não usufruíram na idade própria, aos que procuram o ensino por razões de valorização profissional ou cultural, devidas, nomeadamente, a necessidades de reconversão ou aperfeiçoamento, decorrentes da evolução dos conhecimentos científicos e tecnológicos."
+   }
+  },
+  {
+   "id": "TL-H075-A6",
+   "no": 6,
+   "noLabel": {
+    "pt": "Artigo 6.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO I ÂMBITO, PRINCÍPIOS  E  OBJECTIVOS FUNDAMENTAIS / SECÇÃO II OBJECTIVOS  FUNDAMENTAIS"
+   },
+   "heading": {
+    "pt": "Comissão Nacional da Educação"
+   },
+   "text": {
+    "pt": "A Comissão Nacional da Educação desempenha, nos termos da lei, funções consultivas no âmbito da política educativa e contribui para a existência de consensos alargados relativamente aos seus objectivos, mediante a participação das várias forças sociais, culturais e económicas representativas do País."
+   }
+  },
+  {
+   "id": "TL-H075-A7",
+   "no": 7,
+   "noLabel": {
+    "pt": "Artigo 7.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO I ORGANIZAÇÃO GERAL"
+   },
+   "heading": {
+    "pt": "Organização geral do sistema educativo"
+   },
+   "text": {
+    "pt": "1.   O sistema educativo compreende a educação pré-escolar, a educação escolar, a educação extra-escolar e a formação profissional, organizando-se para a educação ao longo da vida.\n2.   A educação pré-escolar, na sua componente formativa, é complementar ou supletiva da acção educativa dos pais ou da família com os quais estabelece estreita cooperação.\n3.   A educação escolar compreende o ensino básico, o ensino secundário e o ensino superior, integra modalidades especiais e inclui actividades de ocupação de tempos livres.\n4.   A educação extra-escolar engloba actividades de alfabetização e de educação de base, bem como de aperfei-çoamento e actualização cultural e científica, e realiza-se num quadro aberto de iniciativas múltiplas, diversificadas e complementares.\n5.  A formação profissional prossegue acções destinadas à integração ou ao desenvolvimento profissional dinâmico, pela aquisição ou aprofundamento de conhecimentos e de competências necessárias ao desempenho profissional específico."
+   }
+  },
+  {
+   "id": "TL-H075-A8",
+   "no": 8,
+   "noLabel": {
+    "pt": "Artigo 8.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO I ORGANIZAÇÃO GERAL"
+   },
+   "heading": {
+    "pt": "Línguas do sistema educativo"
+   },
+   "text": {
+    "pt": "As línguas de ensino do sistema educativo timorense são o tétum e o português."
+   }
+  },
+  {
+   "id": "TL-H075-A9",
+   "no": 9,
+   "noLabel": {
+    "pt": "Artigo 9.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO II EDUCAÇÃO  PRÉ-ESCOLAR"
+   },
+   "heading": {
+    "pt": "Objectivos e destinatários da educação pré-escolar"
+   },
+   "text": {
+    "pt": "1.   São objectivos da educação pré-escolar, em relação a cada criança:\na)   Estimular as capacidades e favorecer a formação e o desenvolvimento equilibrado de todas as suas potencialidades;\nb)   Contribuir para a estabilidade e a segurança afectivas;\nc)   Favorecer a observação e a compreensão do meio natural e humano, de modo a promover uma correcta integração e participação;\nd)   Desenvolver a formação moral e o sentido de liberdade e de responsabilidade;\ne)  Fomentar a integração em grupos sociais diversos, complementares da família, de modo a promover o desenvolvimento da sociabilidade;\nf)   Desenvolver as capacidades de expressão e comunicação e estimular a imaginação criativa e a actividade lúdica;\ng)   Incutir hábitos de higiene e de defesa da saúde pessoal e colectiva;\nh)   Proceder à despistagem de inadaptações, deficiências ou precocidades, promovendo a melhor orientação e encaminhamento.\n2.   A prossecução dos objectivos enunciados no número anterior faz-se de acordo com conteúdos, métodos e técnicas apropriadas, tendo em conta a necessidade de articulação estreita com o meio familiar e com a acção educativa dos pais.\n3.   A educação pré-escolar destina-se às crianças com idades compreendidas entre os três anos e a idade de ingresso no ensino básico.\n4.   A frequência da educação pré-escolar é facultativa, no reconhecimento de que cabe aos pais e à família um papel essencial no processo de educação infantil, sem prejuízo do Estado promover essa frequência, prioritariamente das crianças de cinco anos de idade."
+   }
+  },
+  {
+   "id": "TL-H075-A10",
+   "no": 10,
+   "noLabel": {
+    "pt": "Artigo 10.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO II EDUCAÇÃO  PRÉ-ESCOLAR"
+   },
+   "heading": {
+    "pt": "Organização da educação pré-escolar"
+   },
+   "text": {
+    "pt": "1.   Incumbe ao Estado assegurar a existência de uma rede de serviço público de educação pré-escolar.\n2.   A rede de educação pré-escolar é constituída pelos jardinsde-infância das administrações locais e de outras entidades particulares e cooperativas, colectivas ou individuais, nomeadamente instituições particulares de solidariedade social, associações de pais, associações de moradores, organizações cívicas ou confessionais e associações sindicais ou de empregadores.\n3.  Compete ao Governo, através do ministério responsável pela política educativa, definir as normas gerais da educação pré-escolar, nomeadamente quanto ao seu funcionamento e aos seus conteúdos educativos, apoiando, avaliando, inspeccionando e fiscalizando a sua execução."
+   }
+  },
+  {
+   "id": "TL-H075-A11",
+   "no": 11,
+   "noLabel": {
+    "pt": "Artigo 11.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO I ENSINO  BÁSICO"
+   },
+   "heading": {
+    "pt": "Destinatários e gratuitidade do ensino básico"
+   },
+   "text": {
+    "pt": "1.   O ensino básico é universal, obrigatório e gratuito e tem a duração de nove anos.\n2.  Ingressam no ensino básico as crianças que completem seis anos de idade até 31 de Dezembro do ano anterior ao do início do ano escolar.\n3.   As crianças que completem os seis anos de idade entre 1 de Janeiro e 31 de Março podem ingressar no ensino básico, se houver disponibilidade de vagas.\n4.     As situações não abrangidas nos números 2 e 3 do presente artigo são objecto de análise e decisão por parte dos serviços regionais de educação competentes.\n5.   A obrigatoriedade de frequência do ensino básico termina no final do ano lectivo em que o aluno completa dezassete anos de idade.\n6.   A gratuitidade no ensino básico abrange propinas, taxas e emolumentos relacionados com a matrícula, frequência e certificação, podendo ainda os alunos dispor gratuitamente do uso de livros e material escolar, bem como de transporte, alimentação e alojamento, quando necessários."
+   }
+  },
+  {
+   "id": "TL-H075-A12",
+   "no": 12,
+   "noLabel": {
+    "pt": "Artigo 12.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO I ENSINO  BÁSICO"
+   },
+   "heading": {
+    "pt": "Objectivos do ensino básico"
+   },
+   "text": {
+    "pt": "1.   São objectivos do ensino básico:\na)  Assegurar a formação integral de todas as crianças e jovens, através do desenvolvimento de competências do ser, do saber, do pensar, do fazer, do aprender a viver juntos;\nb)   Assegurar uma formação geral de base comum a todos os timorenses, que lhes garanta a descoberta e o desenvolvimento dos seus interesses e aptidões, da capacidade de raciocínio, da memória e do espírito crítico, da criatividade, do sentido moral e da sensibilidade estética, promovendo a realização individual, em harmonia com os valores da solidariedade social, e interrelacionando, de forma equilibrada o saber e o saber fazer, a teoria e a prática, a cultura escolar e a cultura do quotidiano;\nc)   Proporcionar a aquisição e o desenvolvimento de competências e dos conhecimentos de base, que permitam o prosseguimento de estudos ou a inserção do aluno em esquemas de formação profissional, bem como facilitar a aquisição e o desenvolvimento de métodos e instrumentos de trabalho pessoal e em grupo, valorizando a dimensão humana do trabalho;\nd)   Garantir o domínio das línguas portuguesa e tétum;\ne)   Proporcionar a aprendizagem de uma primeira língua estrangeira;\nf)    Proporcionar o desenvolvimento físico e motor, valorizar as actividades manuais e a educação artística, de modo a sensibilizar para as diversas formas de expressão estética e a detectar e estimular aptidões nestes domínios;\ng)   Desenvolver o conhecimento e o apreço pelos valores característicos da identidade, línguas oficiais e nacionais, história e cultura timorenses, numa perspectiva de humanismo universalista e de solidariedade e cooperação entre os povos;\nh)   Proporcionar experiências que favoreçam a maturidade cívica e sócio-afectiva, promovendo a criação de atitudes e de hábitos tendentes à relação e à cooperação, bem como à intervenção autónoma, consciente e responsável, nos planos familiar, comunitário e ambiental, visando a formação para uma cidadania plena e democrática;\n(i)   Assegurar às crianças com necessidades educativas específicas, devidas, designadamente, a deficiências físicas e mentais, condições adequadas ao seu desenvolvimento e pleno aproveitamento das suas capacidades;\nj)    Proporcionar, em liberdade de consciência, a aquisição de noções de educação cívica, moral e religiosa.\n2.   O ensino básico deve ser organizado de modo a promover o sucesso escolar e educativo de todos os alunos, a conclusão, por cada um deles, de uma escolaridade efectiva de nove anos e a fomentar neles o interesse por uma constante actualização de conhecimentos, valorizando um processo de informação e orientação educacionais em colaboração com os pais."
+   }
+  },
+  {
+   "id": "TL-H075-A13",
+   "no": 13,
+   "noLabel": {
+    "pt": "Artigo 13.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO I ENSINO  BÁSICO"
+   },
+   "heading": {
+    "pt": "Organização do ensino básico"
+   },
+   "text": {
+    "pt": "1.  O ensino básico compreende três ciclos, o primeiro de quatro anos, o segundo de dois anos e o terceiro de três anos, nos termos curriculares seguintes:\na)  No primeiro ciclo o ensino é globalizante e da responsabilidade de um professor único, sem prejuízo da coadjuvação deste em áreas especializadas;\nb)   No segundo ciclo, o ensino organiza-se por áreas disciplinares de formação de base, podendo conter áreas não disciplinares, destinadas à articulação dos saberes, ao desenvolvimento de métodos de trabalho e de estudo e à obtenção de formações complementares, e desenvolve-se, predominantemente, em regime de um professor por área;\nc)   No terceiro ciclo, o ensino organiza-se segundo um plano curricular unificado, que integre coerentemente áreas vocacionais diversificadas, podendo conter áreas não disciplinares, destinadas à articulação de saberes, ao desenvolvimento de métodos de trabalho e de estudo e à obtenção de formações complementares, proporcionando a aprendizagem de uma primeira língua estrangeira, e desenvolve-se em regime de um professor por disciplina ou grupo de disciplinas.\n2.   A articulação entre os três ciclos do ensino básico obedece a uma sequencialidade progressiva, competindo a cada ciclo a função de completar, aprofundar, e alargar o ciclo anterior, numa perspectiva de unidade global do ensino básico.\n3.  Os objectivos específicos de cada ciclo integram-se nos objectivos gerais do ensino básico, nos termos dos números anteriores, de acordo com o desenvolvimento etário correspondente a cada ciclo e tendo em consideração as seguintes orientações:\na)   Para o primeiro ciclo, o desenvolvimento da linguagem oral e a iniciação e progressivo domínio da leitura e da escrita, das noções essenciais da aritmética e do cálculo, do meio físico e social e das expressões plástica, dramática, musical e motora;\nb)   Para o segundo ciclo, a formação humanística, artística e desportiva, científica e tecnológica e a educação moral, religiosa e cívica, visando habilitar o aluno a assimilar e interpretar, crítica e criativamente, a informação, assegurando a aquisição de métodos e instrumentos de trabalho e de conhecimento que lhe permitam o prosseguimento da sua formação e o desenvolvimento de atitudes activas e conscientes perante a comunidade e os seus problemas e desafios mais relevantes;\nc)   Para o terceiro ciclo, a aquisição sistemática e diferenciada da cultura moderna, nas suas dimensões, teórica e prática, humanística, literária, científica e tecnológica, artística, física e desportiva, necessária ao prosseguimento de estudos ou à inserção na vida activa, bem como a orientação vocacional, escolar e profissional, que proporcione opções conscientes de formação subsequente e respectivos conteúdos, sem prejuízo da permeabilidade da mesma, com vista ao prosseguimento de estudo ou à inserção na vida activa, no respeito pela realização autónoma da pessoa humana.\n4.  Em escolas especializadas do ensino básico podem, sem prejuízo da formação de base, ser reforçadas as componentes do ensino artístico ou de educação física e desportiva.\n5.   A conclusão com aproveitamento do ensino básico confere o direito à atribuição de um diploma, devendo igualmente ser certificado, quando solicitado, o aproveitamento obtido em qualquer ano ou ciclo.\n6.  Compete ao Governo, através do ministério responsável pela política educativa, definir as normas gerais do ensino básico, nomeadamente quanto ao seu funcionamento e aos seus conteúdos educativos, apoiando, avaliando, inspeccionando e fiscalizando a sua execução."
+   }
+  },
+  {
+   "id": "TL-H075-A14",
+   "no": 14,
+   "noLabel": {
+    "pt": "Artigo 14.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO II ENSINO  SECUNDÁRIO"
+   },
+   "heading": {
+    "pt": "Destinatários do ensino secundário"
+   },
+   "text": {
+    "pt": "1.  Têm acesso aos cursos do ensino secundário os alunos que completarem com aproveitamento o ensino básico, devendo o acesso ocorrer no ano lectivo imediatamente posterior à conclusão do ensino básico.\n2.  A frequência do ensino secundário é facultativa, competindo, no entanto, ao Governo, através do ministério responsável pela política educativa, promover a oferta deste nível de ensino."
+   }
+  },
+  {
+   "id": "TL-H075-A15",
+   "no": 15,
+   "noLabel": {
+    "pt": "Artigo 15.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO II ENSINO  SECUNDÁRIO"
+   },
+   "heading": {
+    "pt": "Objectivos do ensino secundário"
+   },
+   "text": {
+    "pt": "O ensino secundário visa dar sequência e aprofundar a aprendizagem adquirida no ensino básico, completando e desenvolvendo a formação, mediante a prossecução dos seguintes objectivos:\na)   Assegurar e aprofundar as competências e os conteúdos fundamentais de uma formação e de uma cultura humanística, artística, científica e técnica, como suporte cognitivo e metodológico necessário ao prosseguimento de estudos superiores ou à inserção na vida activa;\nb)   Assegurar o desenvolvimento do raciocínio, da reflexão e da curiosidade científica;\nc)   Desenvolver as competências necessárias à compreensão das manifestações culturais e estéticas e possibilitar o aperfeiçoamento da expressão artística;\nd)   Fomentar a aquisição e aplicação de um saber cada vez mais aprofundado, assente na leitura, no estudo, na reflexão crítica, na observação e na experimentação;\ne)   Fomentar, a partir da realidade, e no apreço pelos valores permanentes da sociedade, em geral, e da cultura timorense, em particular, pessoas activamente empenhadas na concretização das opções estratégicas de desenvolvimento de Timor-Leste e sensibilizadas, criticamente, para a realidade da comunidade internacional;\nf)   Assegurar a orientação e formação vocacional, através da preparação técnica e tecnológica adequada ao ingresso no mundo do trabalho;\ng)   Facultar contactos e experiências com o mundo do trabalho, fortalecendo os mecanismos de aproximação entre a escola, a vida activa e a comunidade e dinamizando a função inovadora e interventora da escola;\nh)  Assegurar a existência de hábitos de trabalho, individual e em grupo, e fomentar o desenvolvimento de atitudes de reflexão metódica, de abertura de espírito, de sensibilidade e de disponibilidade e adaptação à mudança."
+   }
+  },
+  {
+   "id": "TL-H075-A16",
+   "no": 16,
+   "noLabel": {
+    "pt": "Artigo 16.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO II ENSINO  SECUNDÁRIO"
+   },
+   "heading": {
+    "pt": "Organização do ensino secundário"
+   },
+   "text": {
+    "pt": "1.  Os cursos do ensino secundário têm a duração de três anos.\n2.   De acordo com a sua dimensão vocacional de orientação para o prosseguimento de estudos ou para a inserção na vida activa, o ensino secundário organiza-se segundo formas diferenciadas, contemplando a existência de:\na)   Cursos gerais, de natureza humanística e científica, predominantemente orientados para o prosseguimento de estudos no ensino superior universitário, permitindo também o ingresso no ensino superior técnico;\nb)   Cursos de formação vocacional, de natureza técnica e tecnológica ou profissionalizante ou de natureza artística, predominantemente orientados para a inserção na vida activa, que possibilitam o acesso tanto ao ensino superior técnico como ao ensino superior universitário.\n3.   Todos os cursos do ensino secundário contêm componentes de formação de sentido técnico, tecnológico e profissionalizante e de línguas e cultura timorenses adequadas à natureza dos diversos cursos.\n4.   Deve garantir-se a permeabilidade adequada entre os cursos predominantemente orientados para a vida activa e os cursos orientados predominantemente para o prossegui-mento de estudos no ensino superior universitário.\n5.   A conclusão com aproveitamento do ensino secundário confere o direito a um diploma que certifica a formação adquirida, devendo igualmente ser certificado, quando solicitado, o aproveitamento obtido em qualquer ano, sendo que nos casos dos cursos predominantemente orientados para a inserção na vida activa, a certificação incide sobre a qualificação obtida para efeitos do exercício de uma profissão ou grupo de profissões.\n6.  No ensino secundário cada professor é responsável, em princípio, por uma disciplina.\n7.  Podem ser criadas escolas especializadas, destinadas ao ensino e prática de cursos de natureza técnica e tecnológica ou de índole artística.\n8.  Compete ao Governo, através do ministério responsável pela política educativa, definir as normas gerais do ensino secundário, nomeadamente quanto ao seu funcionamento e aos seus conteúdos educativos, apoiando, avaliando, inspeccionando e fiscalizando a sua execução."
+   }
+  },
+  {
+   "id": "TL-H075-A17",
+   "no": 17,
+   "noLabel": {
+    "pt": "Artigo 17.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO III ENSINO  SUPERIOR"
+   },
+   "heading": {
+    "pt": "Âmbito e objectivos"
+   },
+   "text": {
+    "pt": "1.  O ensino superior compreende o ensino universitário e o ensino técnico.\n2.   São objectivos do ensino superior:\na)   Estimular a criação cultural e o desenvolvimento do espírito científico e do pensamento reflexivo;\nb)  Formar diplomados nas diferentes áreas do conhecimento, aptos para a inserção em sectores profissionais e para a participação no desenvolvimento da sociedade timorense, e colaborar na sua formação contínua;\nc)   Incentivar o trabalho de pesquisa e investigação científica, visando o desenvolvimento da ciência e da tecnologia, das humanidades e das artes e a criação e difusão da cultura e, desse modo, desenvolver o conhecimento e a compreensão do Homem e do meio em que se integra;\nd)  Promover a divulgação de conhecimentos culturais, científicos e técnicos, que constituem património da humanidade, e comunicar o saber através do ensino, de publicações ou de outras formas de comunicação;\ne)   Suscitar o desejo permanente de aperfeiçoamento cultural e profissional e possibilitar a correspondente concretização, integrando os conhecimentos que vão sendo adquiridos numa estrutura intelectual sistematizadora do conhecimento de cada geração, na lógica de educação ao longo da vida e de investimento geracional e intergeracional, visando realizar a unidade do processo formativo, que inclui o apreender, o aprender e o empreender;\nf)    Estimular o conhecimento dos problemas do mundo de hoje, num horizonte de globalidade, em particular os nacionais, regionais e da comunidade dos países de língua portuguesa, prestar serviços especializados à comunidade e estabelecer com esta uma relação de reciprocidade;\ng)   Continuar a formação cultural e profissional dos cidadãos, pela promoção de formas adequadas de extensão cultural;\nh)   Promover e valorizar as línguas e a cultura timorenses.\n3.   O ensino superior universitário, orientado por uma constante perspectiva de investigação e criação do saber, visa proporcionar uma ampla preparação científica de base, sobre a qual vai assentar uma sólida formação técnica e cultural, tendo em vista garantir elevada autonomia individual na relação com o conhecimento, incluindo a possibilidade da sua aplicação, designadamente para efeitos de inserção profissional, e fomentar o desenvolvimento das capacidades de concepção, de inovação e de análise crítica.\n4.   O ensino superior técnico, dirigido por uma constante pers-pectiva de compreensão e solução de problemas concretos, visa proporcionar uma preparação científica orientada, sobre a qual vai assentar uma sólida formação técnica e cultural, tendo em vista garantir relevante autonomia na relação com o conhecimento aplicado ao exercício de actividades profissionais e participação activa em acções de desenvolvimento."
+   }
+  },
+  {
+   "id": "TL-H075-A18",
+   "no": 18,
+   "noLabel": {
+    "pt": "Artigo 18.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO III ENSINO  SUPERIOR"
+   },
+   "heading": {
+    "pt": "Acesso"
+   },
+   "text": {
+    "pt": "1.   Têm acesso ao ensino superior os indivíduos habilitados com o curso do ensino secundário ou equivalente, que façam prova de capacidade para a sua frequência.\n2.   Têm igualmente acesso ao ensino superior técnico os indivíduos que completarem cursos de formação profissional equivalentes ao ensino secundário.\n3.  O Governo define, através de decreto-lei, os regimes de acesso e ingresso no ensino superior, em obediência aos seguintes princípios:\na)   Democraticidade, equidade e igualdade de oportunidades;\nb)   Objectividade dos critérios utilizados para a selecção e seriação dos candidatos;\nc)   Universalidade de regras para cada um dos subsistemas de ensino superior;\nd)  Valorização do percurso educativo do candidato no ensino secundário, nas suas componentes de avaliação contínua e provas nacionais, traduzindo a relevância para o acesso ao ensino superior do sistema de certificação nacional do ensino secundário;\ne)   Utilização obrigatória da classificação final do ensino secundário no processo de seriação;\nf)   Coordenação dos estabelecimentos de ensino superior para a realização da avaliação, selecção e seriação por forma a evitar a proliferação de provas a que os candidatos venham a submeter-se;\ng)   Carácter nacional do processo de candidatura à matrícula e inscrição nos estabelecimentos de ensino superior público, sem prejuízo da realização, em casos devidamente fundamentados, de concursos de natureza local;\nh)   Realização das operações de candidatura pelos serviços da administração central e regional da educação.\n4.   Nos limites definidos pelo número anterior, o processo de avaliação da capacidade para a frequência, bem como o de selecção e de seriação dos candidatos ao ingresso em cada curso e estabelecimento de ensino superior, é da competência dos estabelecimentos de ensino superior.\n5.   Têm igualmente acesso ao ensino superior, nas condições a definir pelo Governo, através de decreto-lei, os maiores de 23 anos que, não sendo titulares de habilitação de acesso ao ensino superior, façam prova de capacidade para a sua frequência através da realização de provas especialmente adequadas, realizadas pelos estabelecimentos de ensino superior.\n6.   O Governo pode estabelecer restrições quantitativas de carácter global no acesso ao ensino superior, numerus clausus, por motivos de interesse público, de garantia da qualidade do ensino, tanto em relação aos estabelecimentos de ensino superior públicos, como aos particulares e cooperativos.\n7.   O Estado deve criar as condições que garantam aos cidadãos a possibilidade de frequentarem o ensino superior, de forma a impedir os efeitos discriminatórios decorrentes das desigualdades económicas e regionais ou de desvantagens sociais prévias."
+   }
+  },
+  {
+   "id": "TL-H075-A19",
+   "no": 19,
+   "noLabel": {
+    "pt": "Artigo 19.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO III ENSINO  SUPERIOR"
+   },
+   "heading": {
+    "pt": "Associação de estabelecimentos de ensino superior"
+   },
+   "text": {
+    "pt": "Os estabelecimentos de ensino superior podem associar-se com outros estabelecimentos de ensino superior, nacionais ou estrangeiros, para conferirem os graus académicos e atribuírem os diplomas previstos nos artigos seguintes."
+   }
+  },
+  {
+   "id": "TL-H075-A20",
+   "no": 20,
+   "noLabel": {
+    "pt": "Artigo 20.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO III ENSINO  SUPERIOR"
+   },
+   "heading": {
+    "pt": "Graus académicos e diplomas"
+   },
+   "text": {
+    "pt": "1.   O ensino superior técnico compreende cursos de dois ou quatro semestres de duração, conferindo, respectivamente, diploma I ou II.\n2.   O ensino superior universitário compreende cursos de bacharelato, licenciatura, mestrado e doutoramento, conferindo, respectivamente, os graus de bacharel, licenciado, mestre e doutor.\n3.   O ensino superior universitário compreende ainda cursos de pós-graduação, conferindo diploma de pós-graduação.\n4.   Os estabelecimentos de ensino superior podem realizar cursos não conferentes de grau académico ou de diplomas referidos nos números anteriores do presente artigo cuja conclusão com aproveitamento conduza à atribuição de um diploma ou certificado.\n5.   O funcionamento de cursos conferentes de grau ou de diploma de pós-graduação, bem como os do ensino superior técnico, está sujeito registo nos termos legais que vierem a ser aprovados pelo Governo.\n6.   São requisitos para o registo dos cursos conferentes de grau ou de diploma de pós-graduação, em geral, o projecto educativo, científico e cultural do estabelecimento de ensino, a existência de um corpo docente adequado em número e em qualificação à natureza do curso e grau, bem como a dignidade das instalações e recursos materiais, nomeadamente quanto a espaços lectivos, equipamentos, bibliotecas e laboratórios.\n7.   São requisitos específicos para o registo de cursos de mestrado, a autonomia de uma unidade orgânica cuja vocação científica integre o ramo do conhecimento científico do curso e a existência de docentes e investigadores doutorados.\n8.   O grau de doutor só pode ser conferido por estabelecimentos de ensino universitário, desde que estes respeitem, para além dos requisitos referidos nos números 5 e 6 do presente artigo, o requisito específico da existência de unidades de investigação acreditadas ou a realização de actividades de investigação de qualidade reconhecida de acordo com critérios de avaliação de padrão internacional, nomeadamente a publicação em revistas científicas de prestígio comprovado.\n9.   O Governo regula, através de decreto-lei, ouvidos os estabelecimentos de ensino superior, as condições de atribuição dos graus académicos, de forma a garantir o nível científico da formação adquirida, a comparabilidade das formações e a mobilidade dos estudantes."
+   }
+  },
+  {
+   "id": "TL-H075-A21",
+   "no": 21,
+   "noLabel": {
+    "pt": "Artigo 21.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO III ENSINO  SUPERIOR"
+   },
+   "heading": {
+    "pt": "Bacharelato"
+   },
+   "text": {
+    "pt": "1.   O grau de bacharel comprova uma formação cultural, científica e técnica de nível superior de conhecimentos numa determinada área do saber e capacidade para o exercício de uma actividade profissional adequada à formação obtida.\n2.   Para além dos indivíduos referidos nos números 1 e 5 do\nartigo 18.º da presente lei, podem aceder a um curso de bacharelato os alunos que completem um curso do ensino superior técnico, conferente de diploma II.\n3.   O grau de bacharel é concedido após a conclusão de uma formação superior, com duração de seis semestres."
+   }
+  },
+  {
+   "id": "TL-H075-A22",
+   "no": 22,
+   "noLabel": {
+    "pt": "Artigo 22.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO III ENSINO  SUPERIOR"
+   },
+   "heading": {
+    "pt": "Licenciatura"
+   },
+   "text": {
+    "pt": "1.   O grau de licenciado comprova um nível superior de conhecimentos numa área científica e capacidade para o exercício de uma actividade profissional qualificada.\n2.   O grau de licenciado é concedido após a conclusão de uma formação superior com a duração de dois semestres, na sequência da elaboração de uma tese especialmente escrita para o efeito sujeita a discussão e aprovação.\n3.  Têm acesso ao curso de licenciatura, os indivíduos que tenham concluído, com aproveitamento, um curso de bacharelato.\n4.   Em casos excepcionais, os cursos que conferem o grau de licenciado podem ter a duração de mais um ou dois semestres."
+   }
+  },
+  {
+   "id": "TL-H075-A23",
+   "no": 23,
+   "noLabel": {
+    "pt": "Artigo 23.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO III ENSINO  SUPERIOR"
+   },
+   "heading": {
+    "pt": "Pós-graduação"
+   },
+   "text": {
+    "pt": "1.  Têm acesso aos cursos de pós-graduação os indivíduos habilitados com o grau de bacharel ou licenciado.\n2.   O diploma de pós-graduação comprova uma especialização numa determinada área científica e a capacidade para a prática de investigação ou para o exercício profissional especializado.\n3.  Os cursos de pós-graduação integram uma parte escolar com a duração de dois semestres.\n4.   O individuo que tenha um diploma de pós-graduação pode prosseguir para o curso de mestrado com dispensa da parte escolar, desde que o ramo do conhecimento científico do pós-graduação coincida com o do curso de mestrado."
+   }
+  },
+  {
+   "id": "TL-H075-A24",
+   "no": 24,
+   "noLabel": {
+    "pt": "Artigo 24.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO III ENSINO  SUPERIOR"
+   },
+   "heading": {
+    "pt": "Mestrado"
+   },
+   "text": {
+    "pt": "1.   O grau de mestre comprova um nível aprofundado de conhecimentos numa área científica específica e a capacidade para a prática de investigação ou para o exercício profissional especialmente qualificado.\n2.   O grau de mestre é concedido após a conclusão de uma formação superior, com duração de quatro semestres e integrando uma parte escolar com a duração de dois semestres.\n3.   Têm acesso ao curso de mestrado, os indivíduos que tenham concluído, com aproveitamento, um curso de licenciatura ou curso de pós-graduação.\n4.   A concessão do grau de mestre pressupõe a elaboração de uma tese especialmente escrita para o efeito, a sua discussão e aprovação ou a realização de um projecto profissional ou de investigação e a sua apreciação e aprovação."
+   }
+  },
+  {
+   "id": "TL-H075-A25",
+   "no": 25,
+   "noLabel": {
+    "pt": "Artigo 25.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO III ENSINO  SUPERIOR"
+   },
+   "heading": {
+    "pt": "Doutoramento"
+   },
+   "text": {
+    "pt": "1.   O grau de doutor comprova a realização de uma contribuição inovadora e original para o progresso do conhecimento, um alto nível cultural numa determinada área do conhecimento e a aptidão para realizar trabalho científico independente.\n2.  O grau de doutor é concedido após a conclusão de uma formação superior, com duração mínima de seis semestres.\n3.  Têm acesso ao curso de doutoramento, os indivíduos que tenham concluído, com aproveitamento, um curso de mestrado.\n4.   Excepcionalmente, podem ser admitidos ao doutoramento, indivíduos titulares de licenciatura e detentores de um currículo escolar, científico ou profissional que seja reconhecido como meritório para o efeito, pelo competente órgão científico do estabelecimento de ensino onde se realiza o respectivo doutoramento.\n5.   Os cursos conducentes ao grau de doutor podem integrar uma parte escolar com a duração máxima de quatro semestres.\n6.   A concessão do grau de doutor pressupõe, ainda, a elaboração de uma dissertação original de investigação, a sua discussão e aprovação."
+   }
+  },
+  {
+   "id": "TL-H075-A26",
+   "no": 26,
+   "noLabel": {
+    "pt": "Artigo 26.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO III ENSINO  SUPERIOR"
+   },
+   "heading": {
+    "pt": "Estabelecimentos de ensino superior"
+   },
+   "text": {
+    "pt": "1.   O ensino superior universitário realiza-se em universidades, institutos universitários e em escolas universitárias não integradas.\n2.  O ensino superior técnico realiza-se em institutos politécnicos.\n3.   As universidades podem ser constituídas por escolas, institutos ou faculdades diferenciadas, ou por departamentos ou outras unidades, podendo ainda integrar unidades orgânicas do ensino superior técnico.\n4.   Os institutos politécnicos podem ser constituídos por departamentos ou outras unidades.\n5.   Os estabelecimentos de ensino superior podem associar-se para a organização de cursos e atribuição de graus do ensino superior.\n6.   Podem ser constituídos centros de estudos superiores, que colaboram na realização da educação ao longo da vida e na valorização dos recursos humanos locais, cabendo aos estabelecimentos de ensino superior a certificação das qualificações atribuídas.\n7.   O Governo regula, através de decreto-lei, os requisitos para a criação de estabelecimentos de ensino superior, de forma a garantir o cumprimento dos objectivos do ensino superior, a qualidade do ensino ministrado e da investigação realizada, bem como a relevância social, científica e cultural da instituição."
+   }
+  },
+  {
+   "id": "TL-H075-A27",
+   "no": 27,
+   "noLabel": {
+    "pt": "Artigo 27.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO III ENSINO  SUPERIOR"
+   },
+   "heading": {
+    "pt": "Investigação científica"
+   },
+   "text": {
+    "pt": "1.   O Estado deve assegurar as condições materiais e culturais de criação e investigação científicas, promovendo a avaliação da sua qualidade.\n2.  Nos estabelecimentos de ensino superior são criadas as condições para promoção da investigação científica e para a realização de actividades de investigação e desenvolvimento.\n3.   A investigação científica no ensino superior deve ter em conta os objectivos predominantes do estabelecimento em que se insere, sem prejuízo da sua perspectivação em função do progresso, do saber e da resolução dos problemas postos pelo desenvolvimento social, económico e cultural do País.\n4.   Devem garantir-se as condições de publicação de trabalhos científicos e facilitar-se a divulgação dos novos conhecimentos e perspectivas do pensamento científico, dos avanços tecnológicos e da criação cultural.\n5.  Compete ao Estado incentivar a colaboração entre as entidades públicas, particulares e cooperativas, no sentido de fomentar o desenvolvimento da ciência, da tecnologia e da cultura, tendo particularmente em vista os interesses da colectividade."
+   }
+  },
+  {
+   "id": "TL-H075-A28",
+   "no": 28,
+   "noLabel": {
+    "pt": "Artigo 28.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO IV MODALIDADES  ESPECIAIS  DE EDUCAÇÃO ESCOLAR"
+   },
+   "heading": {
+    "pt": "Identificação das modalidades especiais de educação escolar"
+   },
+   "text": {
+    "pt": "1.  Em complemento da modalidade geral de educação escolar, existem as seguintes modalidades especiais de educação escolar:\na)   A educação especial;\nb)   O ensino artístico especializado;\nc)   O ensino recorrente;\nd)   A educação a distância.\n2.   Cada uma destas modalidades especiais é parte integrante da educação escolar.\n3.   As modalidades especiais de educação são reguladas por legislação especial própria."
+   }
+  },
+  {
+   "id": "TL-H075-A29",
+   "no": 29,
+   "noLabel": {
+    "pt": "Artigo 29.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO IV MODALIDADES  ESPECIAIS  DE EDUCAÇÃO ESCOLAR"
+   },
+   "heading": {
+    "pt": "Educação especial"
+   },
+   "text": {
+    "pt": "1.   Os indivíduos com necessidades educativas especiais, de carácter mais ou menos prolongado, decorrentes da interacção entre factores ambientais e limitações próprias acentuadas, nos domínios da audição, da visão, motor, cognitivo, da fala, da linguagem e da comunicação, emocional e da saúde física, têm direito a respostas educativas adequadas.\n2.   A educação especial visa a integração educativa e social, a autonomia, em todos os níveis em que possa ocorrer, e a estabilidade emocional dos educandos, bem como a promoção da igualdade de oportunidades e a preparação para uma adequada formação profissionalizante e integração na vida activa.\n3.   A educação especial centra-se nos educandos, procurando, em todos os momentos e desde um estádio o mais precoce possível, reduzir as limitações resultantes da deficiência e desenvolver e optimizar todas as suas capacidades e todo o seu potencial e, com esse objectivo, integra actividades dirigidas aos educandos e acções destinadas a adequar os ambientes familiar e comunitário.\n4.   A educação especial organiza-se segundo modelos diversificados de integração em ambientes inclusivos, quer nas escolas da modalidade geral de educação escolar, nas turmas ou grupos ou em unidades especializadas, quer em estabelecimentos de educação especial, de acordo com as necessidades do educando, decorrentes do tipo e grau da sua deficiência, de forma a, evitando situações de exclusão, promover a sua inserção educativa e social.\n5.   A educação especial deve ser prestada, sempre que necessário, por docentes e outros técnicos especializados e pode pressupor a existência de currículos e programas e formas de avaliação adaptados às características de cada tipo e grau de deficiência.\n6.   Incumbe ao Estado promover e apoiar a educação especial, pertencendo as iniciativas de educação especial à administração central e local e a outras entidades particulares e cooperativas, colectivas ou individuais, nomeadamente instituições particulares de solidariedade social, associações de pais, associações de moradores, organizações cívicas ou confessionais e associações sindicais ou empregadoras.\n7.   Compete ao Governo, através do ministério responsável pela política educativa, definir as normas gerais da educação especial, nomeadamente quanto ao seu funcionamento e aos seus aspectos pedagógicos e técnicos, apoiando, avaliando, inspeccionando e fiscalizando a sua execução."
+   }
+  },
+  {
+   "id": "TL-H075-A30",
+   "no": 30,
+   "noLabel": {
+    "pt": "Artigo 30.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO IV MODALIDADES  ESPECIAIS  DE EDUCAÇÃO ESCOLAR"
+   },
+   "heading": {
+    "pt": "Ensino artístico especializado"
+   },
+   "text": {
+    "pt": "1.   O ensino artístico especializado destina-se a pessoas com aptidões específicas para as artes, que pretendam desenvolver e aprofundar linguagens artísticas, nomeadamente nas áreas das belas artes, das artes do espectáculo, do audiovisual e multimédia, do design e das artes aplicadas.\n2.   O ensino artístico especializado visa proporcionar uma formação de excelência e respostas diversificadas à procura individual orientada para o aprofundamento de linguagens artísticas específicas, bem como criar as bases necessárias ao desenvolvimento pessoal da maturidade artística, tendo em consideração a precocidade e a sequencialidade exigidas pelas diferentes artes.\n3.   O ensino artístico especializado abrange o ensino básico, o ensino secundário e o ensino superior, desenvolvendo-se de forma integrada ou articulada com estes.\n4.   Os planos de estudos do ensino artístico especializado são organizados de acordo com as exigências próprias de cada nível de ensino, de modo a adequar a formação artística especializada aos desafios da contemporaneidade e aos contextos culturais e artísticos, mediante recurso, em cada área artística, a composição curricular específica, que privilegie a inovação, a experimentação e a prática artísticas.\n5.   Os diplomas e certificados atribuídos ao ensino artístico especializado de nível básico e secundário conferem as mesmas qualificações e possibilidades de prosseguimento de estudos que os diplomas e certificados obtidos nos correspondentes níveis da modalidade geral de educação escolar.\n6.  Compete ao Governo, através do ministério responsável pela política educativa, definir as normas gerais do ensino artístico especializado, nomeadamente quanto ao seu funcionamento e aos seus aspectos pedagógicos, didácticos e técnicos, apoiando, avaliando, inspeccionando e fiscalizando a sua execução."
+   }
+  },
+  {
+   "id": "TL-H075-A31",
+   "no": 31,
+   "noLabel": {
+    "pt": "Artigo 31.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO IV MODALIDADES  ESPECIAIS  DE EDUCAÇÃO ESCOLAR"
+   },
+   "heading": {
+    "pt": "Ensino recorrente"
+   },
+   "text": {
+    "pt": "1.   O ensino recorrente destina-se aos indivíduos que ultrapassaram a idade indicada para a frequência dos ensinos básico e secundário, aos que tendo completado o ensino básico e tendo entre dezasseis e dezoito anos de idade, trabalhem e disso façam prova e aos que não tiveram a oportunidade de se enquadrar na educação escolar na idade normal de formação.\n2.   O ensino recorrente tem por objecto o ensino básico e o ensino secundário.\n3.   O ensino recorrente é ministrado, predominantemente, em regime nocturno e as formas de acesso e os planos e métodos de estudos são organizados de modo adequado aos grupos etários a que se destinam, à experiência de vida entretanto adquirida e ao nível de conhecimentos demonstrados.\n4.   O ensino recorrente atribui os mesmos diplomas e certificados que os conferidos pelos ensinos básico e secundário, sem prejuízo de poder distinguir, no processo de avaliação e certificação, qualificações que permitem o prosseguimento de estudos e qualificações que não permitem esse prosseguimento.\n5.  Compete ao Governo, através do ministério responsável pela política educativa, definir as normas gerais do ensino recorrente, nomeadamente quanto ao seu funcionamento e aos seus aspectos pedagógicos e técnicos, apoiando, avaliando, inspeccionando e fiscalizando a sua execução."
+   }
+  },
+  {
+   "id": "TL-H075-A32",
+   "no": 32,
+   "noLabel": {
+    "pt": "Artigo 32.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO III EDUCAÇÃO  ESCOLAR / SUBSECÇÃO IV MODALIDADES  ESPECIAIS  DE EDUCAÇÃO ESCOLAR"
+   },
+   "heading": {
+    "pt": "Educação a distância"
+   },
+   "text": {
+    "pt": "1.    Devem, nos termos da lei, ser organizadas modalidades de educação a distância, suportadas nos multimédia e nas tecnologias da informação e das comunicações, quer como complemento quer como alternativa à modalidade de educação presencial.\n2.   O ensino a distância terá particular incidência na educação recorrente e na formação contínua dos professores.\n3.   As entidades responsáveis pela educação a distância devem assumir uma vocação de promoção da inovação e da sociedade da informação e do conhecimento.\n4.   O Estado incentiva e reconhece a educação ao longo da vida e as aprendizagens inovadoras baseadas nas novas tecnologias da informação e das comunicações."
+   }
+  },
+  {
+   "id": "TL-H075-A33",
+   "no": 33,
+   "noLabel": {
+    "pt": "Artigo 33.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO IV EDUCAÇÃO EXTRA-ESCOLAR"
+   },
+   "heading": {
+    "pt": "Natureza e objectivos da educação extra-escolar"
+   },
+   "text": {
+    "pt": "1.   A educação extra-escolar tem natureza formal, não formal ou informal e destina-se a permitir a cada indivíduo, numa perspectiva de educação ao longo da vida, aumentar os seus conhecimentos e desenvolver as suas competências, em complemento da formação escolar ou em suprimento da sua carência ou das suas lacunas.\n2.   Compete ao Estado promover a relevância social da educação extra-escolar, em particular organizando sistemas que permitam reconhecer, validar e certificar as competências e os saberes adquiridos.\n3.   Constituem objectivos fundamentais da educação extraescolar:\na)   Eliminar o analfabetismo, literal e funcional;\nb)   Contribuir para uma efectiva igualdade de oportunidades educativas e profissionais dos indivíduos que, não tendo frequentado a educação escolar ou tendo-a abandonado precocemente ou sem sucesso, não usufruam, por qualquer razão, da formação profissional;\nc)   Promover a adaptação à vida contemporânea, mediante o desenvolvimento das aptidões tecnológicas e do saber técnico;\nd)   Assegurar a ocupação criativa dos tempos livres com actividades de natureza cultural;\ne)   Favorecer atitudes de solidariedade social e de participação na vida da comunidade.\n4.    As acções de educação extra-escolar podem realizar-se em estruturas de extensão cultural do sistema escolar ou em sistemas abertos, com recurso, neste caso, aos meios de comunicação típicos da educação a distância.\n5.   Incumbe ao Estado promover e apoiar a educação extraescolar, pertencendo as iniciativas de educação extra-escolar à administração central e local e a outras entidades particulares ou cooperativas, colectivas ou individuais, nomeadamente instituições particulares de solidariedade social, associações de pais, associações de estudantes e organismos juvenis, associações culturais e recreativas, associações de moradores, associações de educação popular, organizações cívicas ou confessionais e comissões de trabalhadores e associações sindicais ou de empregadores.\n6.   A política educativa atende à dimensão formativa da programação televisiva e radiofónica, devendo o serviço público de televisão e de rádio assegurar a existência de programação formativa, plural e diversificada."
+   }
+  },
+  {
+   "id": "TL-H075-A34",
+   "no": 34,
+   "noLabel": {
+    "pt": "Artigo 34.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO V FORMAÇÃO PROFISSIONAL"
+   },
+   "heading": {
+    "pt": "Natureza e objectivos da formação profissional"
+   },
+   "text": {
+    "pt": "1.   A formação profissional tem natureza extra-escolar e visa a integração ou o desenvolvimento profissional dinâmico, pela aquisição ou aprofundamento de conhecimentos e de competências necessárias ao desempenho profissional específico, de forma a responder às necessidades nacionais de desenvolvimento e à evolução tecnológica.\n2.     A formação profissional estrutura-se de forma a desenvolver acções de:\na)   Iniciação profissional;\nb)   Qualificação profissional;\nc)   Aperfeiçoamento profissional;\nd)   Reconversão profissional.\n3.   A formação profissional organiza-se como complementar da formação e da preparação para a vida activa iniciada na educação escolar, mas deve igualmente contribuir para a aquisição de qualificações profissionais iniciais por aqueles que não tenham frequentado a educação escolar ou a tenham abandonado precocemente e sem sucesso.\n4.   As entidades públicas responsáveis pela política educativa e pela política de emprego devem articular, entre si, as intervenções nas áreas da formação vocacional e da formação profissional, respectivamente, com vista à plena concretização dos objectivos referidos no número anterior.\n5.    Têm acesso à formação profissional, nos termos dos números anteriores:\na)   Os que tenham concluído a escolaridade obrigatória;\nb)    Os que não tenham concluído a escolaridade obrigatória até à data limite desta;\nc)   Os trabalhadores que pretendam o aperfeiçoamento ou a reconversão profissionais;\nd)   As demais pessoas destinatárias das acções referidas no n.º 2 desta disposição.\n6.   A formação profissional estrutura-se segundo um modelo pedagógico e institucional flexível, que permita integrar pessoas com níveis de formação e características diferenciadas.\n7.   A organização das ofertas de formação profissional deve adequar-se às necessidades de emprego nacionais, regionais e locais.\n8.   A formação profissional pode estruturar-se por módulos, de duração variável e combináveis entre si, com vista à obtenção de níveis profissionais sucessivamente mais elevados.\n9.   O funcionamento das ofertas de formação profissional pode ser realizado segundo formas institucionais diversificadas, nomeadamente:\na)   Instituições específicas;\nb)   Utilização de escolas do ensino básico e secundário;\nc)   Acordos com administrações locais e empresas;\nd)    Apoios a instituições e iniciativas, públicas, particulares ou cooperativas;\ne)   Dinamização de acções comunitárias e de serviços à comunidade.\n10.   A frequência e a conclusão com aproveitamento de acção ou curso, ou respectivos módulos, de formação profissional conferem o direito à correspondente certificação."
+   }
+  },
+  {
+   "id": "TL-H075-A35",
+   "no": 35,
+   "noLabel": {
+    "pt": "Artigo 35.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO VI PLANEAMENTO CURRICULAR"
+   },
+   "heading": {
+    "pt": "Princípios do planeamento curricular"
+   },
+   "text": {
+    "pt": "1.   A composição curricular da educação escolar tem em consideração a promoção de uma equilibrada harmonia, nos planos horizontal e vertical, entre os níveis de desenvolvimento físico e motor, cognitivo, afectivo, estético, social e moral dos educandos.\n2.   Os planos curriculares do ensino básico e secundário incluem, em todos os seus ciclos, de forma adequada, uma área de formação pessoal e social, que pode ter como componentes a educação para a participação cívica, a educação ecológica, a educação do consumidor, a educação familiar, a educação para a sexualidade, a educação para a saúde e prevenção de acidentes, bem como o ensino da educação moral e religiosa.\n3.   Os planos curriculares do ensino básico e do ensino secundário devem ter uma estrutura de âmbito nacional, que acolha os saberes e competências estruturantes de cada ciclo, podendo acrescer a essa estrutura conteúdos flexíveis, integrando componentes regionais e locais, e desenvolvimentos curriculares previstos em contratos previamente autorizados pela tutela entre a administração escolar e as escolas.\n4.   Os estabelecimentos do ensino particular e cooperativo podem adoptar os planos curriculares e os conteúdos programáticos do ensino ministrados nas escolas públicas, ou adoptar planos e programas próprios, cujo reconhecimento é, nos termos da lei, reconhecido caso a caso, mediante avaliação positiva dos respectivos currículos e das condições pedagógicas da realização do ensino.\n5.   Os planos curriculares do ensino superior respeitam a cada um dos estabelecimentos que ministram os respectivos cursos estabelecidos, ou a estabelecer, de acordo com as necessidades nacionais e regionais e com uma perspectiva de planeamento integrado na respectiva rede.\n6.   O Governo pode estabelecer, a recomendação da estrutura consultiva da avaliação do ensino superior e ouvidas as estruturas representativas dos estabelecimentos de ensino superior, directrizes quanto à denominação e duração dos cursos e as áreas científicas obrigatórias e facultativas dos respectivos planos de estudos.\n7.   A autorização para a criação e funcionamento de instituições e cursos do ensino superior particular e cooperativo, bem como a aprovação dos respectivos planos de estudos e o reconhecimento dos correspondentes diplomas, obedece a princípios e regras comuns a todo o ensino superior.\n8.   O ensino-aprendizagem das línguas oficiais deve ser estruturado, de forma que todas as outras componentes curriculares do ensino básico e do ensino secundário contribuam, sistematicamente, para o desenvolvimento das capacidades ao nível da compreensão e produção de enunciados, orais e escritos, em português e tétum."
+   }
+  },
+  {
+   "id": "TL-H075-A36",
+   "no": 36,
+   "noLabel": {
+    "pt": "Artigo 36.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO VI PLANEAMENTO CURRICULAR"
+   },
+   "heading": {
+    "pt": "Ocupação dos tempos livres e desporto escolar"
+   },
+   "text": {
+    "pt": "1.   As actividades curriculares dos diferentes níveis da educação escolar devem ser complementadas por acções orientadas para a formação integral e a realização pessoal dos educandos, no sentido da utilização criativa e fomativa dos seus tempos livres, nomeadamente de enriquecimento cultural e cívico, de educação física e desportiva, de educação artística e de inserção dos educandos na comunidade.\n2.    As actividades de complemento curricular podem ter âmbito nacional, regional ou local, competindo, preferencialmente, às escolas ou agrupamento de escolas organizar as de âmbito regional ou local.\n3.   As actividades de ocupação dos tempos livres devem valorizar a participação e o envolvimento dos educandos na sua organização, desenvolvimento e avaliação.\n4.   O desporto escolar visa especificamente a promoção da saúde e condição física, a aquisição de hábitos e condutas motoras e o entendimento do desporto como factor de cultura, estimulando sentimentos de solidariedade, cooperação, autonomia e criatividade, bem como a descoberta e o incentivo de talentos desportivos, com orientação por profissionais qualificados, fomentando-se a organização e gestão de eventos desportivos escolares pelos próprios praticantes."
+   }
+  },
+  {
+   "id": "TL-H075-A37",
+   "no": 37,
+   "noLabel": {
+    "pt": "Artigo 37.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO II ORGANIZAÇÃO  DO  SISTEMA  EDUCATIVO / SECÇÃO VI PLANEAMENTO CURRICULAR"
+   },
+   "heading": {
+    "pt": "Investigação em educação"
+   },
+   "text": {
+    "pt": "A investigação em educação, que o Estado fomenta e apoia, destina-se à avaliação e interpretação científica da actividade desenvolvida no sistema educativo."
+   }
+  },
+  {
+   "id": "TL-H075-A38",
+   "no": 38,
+   "noLabel": {
+    "pt": "Artigo 38.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III APOIOS  E  COMPLEMENTOS  EDUCATIVOS"
+   },
+   "heading": {
+    "pt": "Promoção do sucesso escolar"
+   },
+   "text": {
+    "pt": "1.   São proporcionados, nos termos da lei, apoios e complementos educativos, visando fomentar, prioritariamente na escolaridade obrigatória, a igualdade de oportunidades no acesso e no sucesso escolares.\n2.    As necessidades escolares específicas dos alunos que frequentam a escolaridade obrigatória são compensadas através de actividades de acompanhamento e complemento pedagógicos no seio das escolas.\n3.   É apoiado o desenvolvimento psicológico dos alunos e a sua orientação escolar e profissional, através de serviços de psicologia e orientação, devidamente organizados, que assegurem igualmente apoio psicopedagógico às actividades escolares e ao sistema de relações da comunidade educativa.\n4.     É realizado, através de serviços especializados, devidamente organizados, o acompanhamento do crescimento e desenvolvimento dos alunos, de forma a promover a saúde, a consciencialização dos comportamentos sexuais e a prevenção da toxicodependência, do alcoolismo e de outros comportamentos sociais de risco."
+   }
+  },
+  {
+   "id": "TL-H075-A39",
+   "no": 39,
+   "noLabel": {
+    "pt": "Artigo 39.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III APOIOS  E  COMPLEMENTOS  EDUCATIVOS"
+   },
+   "heading": {
+    "pt": "Apoio de saúde escolar"
+   },
+   "text": {
+    "pt": "Será realizado o acompanhamento do saudável crescimento e desenvolvimento dos alunos, o qual é assegurado, em princípio, por serviços especializados dos centros comunitários de saúde em articulação com as estruturas escolares."
+   }
+  },
+  {
+   "id": "TL-H075-A40",
+   "no": 40,
+   "noLabel": {
+    "pt": "Artigo 40.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III APOIOS  E  COMPLEMENTOS  EDUCATIVOS"
+   },
+   "heading": {
+    "pt": "Acção social escolar"
+   },
+   "text": {
+    "pt": "1.   São desenvolvidos, no âmbito da educação pré-escolar e da educação escolar, serviços de acção social escolar, destinados a compensar, em termos sociais e educativos, os alunos economicamente mais carenciados, mediante critérios objectivos e públicos de discriminação positiva, nos termos da lei.\n2.   Os serviços de acção social escolar concretizam-se por um conjunto diversificado de acções, nomeadamente a comparticipação em refeições, serviços de cantina, transportes escolares, alojamento, manuais e material escolar, bem como a concessão de bolsas de estudo."
+   }
+  },
+  {
+   "id": "TL-H075-A41",
+   "no": 41,
+   "noLabel": {
+    "pt": "Artigo 41.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO III APOIOS  E  COMPLEMENTOS  EDUCATIVOS"
+   },
+   "heading": {
+    "pt": "Trabalhadores-estudantes"
+   },
+   "text": {
+    "pt": "1.    É proporcionado aos trabalhadores-estudantes um regime especial de estudos, que tenha em consideração a sua situação de trabalhadores e de estudantes, no sentido de, com equidade, lhes permitir a aquisição de conhecimentos e de competências, progredindo nos sistemas de educação escolar e extra-escolar, valorizando-se pessoal e profissionalmente.\n2.   Compete ao Governo aprovar o regime especial dos trabalhadores-estudantes."
+   }
+  },
+  {
+   "id": "TL-H075-A42",
+   "no": 42,
+   "noLabel": {
+    "pt": "Artigo 42.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV AVALIAÇÃO E INSPECÇÃO DO SISTEMA EDUCATIVO"
+   },
+   "heading": {
+    "pt": "Avaliação do sistema educativo"
+   },
+   "text": {
+    "pt": "1.    O sistema educativo está sujeito, na sua eficiência, eficácia e qualidade, a avaliação permanente, continuada e pública, a qual abrange, para além, nomeadamente, das aprendizagens dos alunos e do desempenho dos professores, do pessoal não docente e dos estabelecimentos de educação e de ensino, o próprio sistema na sua globalidade e a política educativa, tendo em consideração os aspectos educativos e pedagógicos, psicológicos e sociológicos, organizacionais, económicos e financeiros e, ainda, os de natureza politico-administrativa e cultural.\n2.     A avaliação do sistema educativo deve incidir sobre a educação pré-escolar, sobre todos os níveis da educação escolar, incluindo as modalidades especiais, e sobre a educação extra-escolar e a formação profissional, abrangendo os ensinos público, particular e cooperativo.\n3.   A avaliação do sistema educativo constitui um instrumento essencial de definição da política educativa, de promoção da qualidade do ensino e do sucesso das aprendizagens e de gestão responsável e transparente de todos os níveis do sistema de ensino.\n4.   A avaliação do sistema educativo deve permitir uma interpretação integrada, contextualizada e comparada de todos os parâmetros em que se baseia."
+   }
+  },
+  {
+   "id": "TL-H075-A43",
+   "no": 43,
+   "noLabel": {
+    "pt": "Artigo 43.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV AVALIAÇÃO E INSPECÇÃO DO SISTEMA EDUCATIVO"
+   },
+   "heading": {
+    "pt": "Acreditação"
+   },
+   "text": {
+    "pt": "A acreditação consiste no reconhecimento formal do Estado da qualidade de um estabelecimento de ensino, após uma avaliação contínua, objectiva e contextualizada a esse mesmo estabelecimento."
+   }
+  },
+  {
+   "id": "TL-H075-A44",
+   "no": 44,
+   "noLabel": {
+    "pt": "Artigo 44.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV AVALIAÇÃO E INSPECÇÃO DO SISTEMA EDUCATIVO"
+   },
+   "heading": {
+    "pt": "Estatísticas da educação"
+   },
+   "text": {
+    "pt": "As estatísticas da educação são instrumentos fundamentais para a formulação da política educativa e para o planeamento e a avaliação do sistema educativo, e devem ser organizadas de modo a garantir a sua realização em tempo oportuno e de forma universal."
+   }
+  },
+  {
+   "id": "TL-H075-A45",
+   "no": 45,
+   "noLabel": {
+    "pt": "Artigo 45.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO IV AVALIAÇÃO E INSPECÇÃO DO SISTEMA EDUCATIVO"
+   },
+   "heading": {
+    "pt": "Inspecção da educação"
+   },
+   "text": {
+    "pt": "1.   O sistema educativo é sujeito a inspecção, nos termos da presente lei e demais legislação complementar, com vista à salvaguarda dos interesses legítimos de todos os que o integram.\n2.      A inspecção da educação goza de autonomia administrativa e técnica e desempenha funções de auditoria e de controlo do funcionamento do sistema educativo, nas vertentes técnica, pedagógica, administrativa, financeira e patrimonial, em termos de aferição da legalidade, de aferição da eficiência de procedimentos e da eficácia na prossecução dos objectivos e resultados fixados e na economia de utilização de recursos, bem como da aferição da qualidade da educação e do ensino.\n3.    A inspecção da educação deve incidir, para além das demais estruturas do sistema educativo que a ela a lei sujeita, sobre a educação pré-escolar, sobre todos os níveis da educação escolar, incluindo as suas modalidades especiais, e sobre a educação extra-escolar.\n4.   A inspecção da educação abrange o ensino público, bem como o particular e cooperativo, sendo que, neste caso, exerce funções de auditoria e controlo da legalidade, salvo se, em resultado de relações contratuais com o Estado, os estabelecimentos de educação e de ensino particulares e cooperativos integrarem a rede de ofertas educativas de serviço público.\n5.   A formação profissional é sujeita a inspecção, nos termos legais que vierem a ser aprovados por decreto-lei."
+   }
+  },
+  {
+   "id": "TL-H075-A46",
+   "no": 46,
+   "noLabel": {
+    "pt": "Artigo 46.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V ADMINISTRAÇÃO DO SISTEMA EDUCATIVO"
+   },
+   "heading": {
+    "pt": "Princípios e organização gerais"
+   },
+   "text": {
+    "pt": "1.   A administração e a gestão do sistema educativo devem respeitar os princípios de democraticidade e de participação, com vista à prossecução de objectivos, pedagógicos e educativos, de formação social e cívica, de responsabilidade, de transparência e de avaliação de desempenho individual e colectivo.\n2.   A administração educativa desenvolve-se ao nível central, regional e local, devendo valorizar o princípio da subsidiariedade, pela descentralização de competências nas administrações locais.\n3.   A administração educativa deve assegurar a plena participação das comunidades educativas locais, mediante adequados graus de participação, em especial dos professores, dos alunos, dos pais e respectivas associações e das administrações locais, bem como de instituições representativas das actividades sociais, económicas, culturais e científicas.\n4.   A organização e o funcionamento da administração educativa resulta da lei, no respeito pelos números anteriores, que adopta as adequadas formas de desconcentração e descentralização administrativa, garantindo a necessária unidade de acção e eficácia, através do ministério responsável pela política educativa, ao qual compete, em especial, as funções de:\na)   Concepção, planeamento e definição normativa do sistema educativo;\nb)   Coordenação da execução das medidas de política educativa;\nc)  Coordenação da avaliação da política educativa e do sistema educativo;\nd)   Inspecção da educação;\ne)   Coordenação do planeamento curricular e apoio à inovação educacional, em articulação com as escolas e com as instituições de investigação em educação e de formação de professores;\nf)   Gestão superior dos recursos humanos da educação, em especial docentes, assegurando os adequados planeamento e políticas de desenvolvimento;\ng)   Gestão superior do orçamento da educação;\nh)   Definição dos critérios de implantação da rede de ofertas educativas e da tipologia das escolas e seu apetrechamento;\n(i)    Garantia da qualidade pedagógica e técnica dos meios didácticos, incluindo os manuais escolares.\n5.   O funcionamento de estabelecimentos de ensino, em qualquer nível de escolaridade, por entidades públicas, privadas ou cooperativas carece de licença adequada a emitir pelo Ministério da Educação.\n6.   A concessão da licença prevista no número anterior assenta no preenchimento das condições mínimas de funcionamento a ser estabelecidas em diploma próprio.\n7.   O funcionamento das escolas orienta-se por uma perspectiva de integração comunitária, sendo, nesse sentido, favorecida a fixação local dos respectivos docentes.\n8.   O ensino particular e cooperativo rege-se por legislação e estatuto próprios, que devem subordinar-se aos princípios da presente lei."
+   }
+  },
+  {
+   "id": "TL-H075-A47",
+   "no": 47,
+   "noLabel": {
+    "pt": "Artigo 47.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO V ADMINISTRAÇÃO DO SISTEMA EDUCATIVO"
+   },
+   "heading": {
+    "pt": "Administração e gestão das escolas"
+   },
+   "text": {
+    "pt": "1.   A administração e a gestão dos estabelecimentos de educação e de ensino deve fazer-se de forma a fomentar o desenvolvimento de centros de excelência e de competências educativas e, assim, a qualidade das aprendizagens, bem como a aprofundar as condições para uma gestão eficiente e eficaz dos recursos educativos disponíveis.\n2.    A administração e a gestão pode fazer-se ainda na base de agrupamentos de escolas, de forma a favorecer também a integração vertical dos projectos educativos.\n3.   Em cada estabelecimento de educação e de ensino, ou respectivos agrupamentos, a administração e a gestão orientam-se por princípios de participação democrática de quem integra o processo educativo, de responsabilidade, de transparência e de avaliação do desempenho, individual e colectivo, tendo em consideração as especificidades de cada nível de educação e de ensino.\n4.   Na administração e gestão dos estabelecimentos de educação e de ensino a eficiência e eficácia na utilização e organização dos recursos humanos, materiais e financeiros, orienta-se directamente por critérios de qualidade pedagógica e científica.\n5.   A direcção executiva de cada agrupamento de escolas ou de cada estabelecimento não agrupado do ensino básico e do ensino secundário é assegurada, nos termos legais, por órgãos próprios, singulares ou colegiais, plenamente responsáveis, cujos titulares são escolhidos mediante um processo público que releve o mérito curricular e do projecto educativo apresentado e detenham a formação adequada ao desempenho do cargo.\n6.   A direcção executiva de cada agrupamento de escolas ou de cada estabelecimento não agrupado, do ensino básico e do ensino secundário, é apoiada, nos termos legais, por serviços especializados e por órgãos consultivos, de natureza pedagógica e disciplinar, sendo para estes democraticamente eleitos os representantes dos professores, dos alunos, no caso do ensino secundário, dos pais e do pessoal não docente.\n7.   Os estatutos dos estabelecimentos de ensino superior estabelecem órgãos próprios de administração e gestão e as regras de funcionamento interno, no respeito pela lei.\n8.   Os estabelecimentos do ensino superior gozam de autonomia científica, pedagógica e cultural, sem prejuízo da avaliação da qualidade do desempenho científico e pedagógico das instituições e da respectiva acreditação.\n9.    As universidades e os institutos politécnicos públicos gozam ainda de autonomia estatutária, cientifica, pedagógica, administrativa, financeira, disciplinar e patrimonial, sem prejuízo da acção fiscalizadora do Estado.\n10.   A autonomia dos estabelecimentos de ensino superior deve orientar-se pelo desenvolvimento da região e do País e pela efectiva elevação do nível educativo, científico e cultural dos timorenses."
+   }
+  },
+  {
+   "id": "TL-H075-A48",
+   "no": 48,
+   "noLabel": {
+    "pt": "Artigo 48.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI RECURSOS  HUMANOS  DA  EDUCAÇÃO"
+   },
+   "heading": {
+    "pt": "Funções de educador e de professor"
+   },
+   "text": {
+    "pt": "1.   A orientação e as actividades pedagógicas na educação pré-escolar são asseguradas por educadores de infância e a docência em todos os níveis e ciclos de ensino é assegurada por professores, detentores, em ambos os casos, de diploma que certifique a formação específica que os habilita para a educação e o ensino, de acordo com as necessidades do desempenho profissional relativo à educação e a cada nível de ensino.\n2.   Os educadores de infância e os professores do ensino básico adquirem a qualificação profissional através de cursos superiores, que conferem o grau de bacharel, organizados em estabelecimentos do ensino universitário ou equivalente.\n3.   A qualificação profissional dos professores do ensino secundário adquire-se através de cursos superiores, que conferem o grau de licenciatura, organizados em estabelecimentos do ensino universitário.\n4.   A qualificação profissional dos professores do ensino secundário pode, ainda, adquirir-se através de cursos de licenciatura ministrados em estabelecimentos do ensino universitário, que assegurem a formação científica na área de docência respectiva, complementados por formação pedagógica adequada.\n5.   A qualificação profissional dos professores de disciplinas de natureza vocacional ou artística, do ensino básico e do ensino secundário, pode adquirir-se, respectivamente, através de cursos de bacharelato e licenciatura, que assegurem a formação na área da disciplina respectiva, complementados por formação pedagógica adequada.\n6.   Constitui habilitação científica para a docência no ensino superior o grau de doutor e o grau de mestre, no ensino superior universitário, e o grau de licenciado ou o equivalente, no ensino superior técnico, podendo ainda exercer a docência outras individualidades reconhecidamente qualificadas e coadjuvar na docência pessoas habilitadas com o grau de licenciado ou equivalente, no ensino superior universitário, ou ainda com o grau de bacharel, no ensino superior técnico."
+   }
+  },
+  {
+   "id": "TL-H075-A49",
+   "no": 49,
+   "noLabel": {
+    "pt": "Artigo 49.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI RECURSOS  HUMANOS  DA  EDUCAÇÃO"
+   },
+   "heading": {
+    "pt": "Princípios sobre a formação de educadores e professores"
+   },
+   "text": {
+    "pt": "1.   A formação de educadores e professores assenta nas seguintes modalidades principais:\nFormação inicial de nível superior, que proporcione a informação, os métodos e as técnicas, científicos e pedagógicos, de base, bem como a formação pessoal e social adequadas ao exercício da função;\nFormação contínua, que complementa e actualiza a formação inicial, numa perspectiva de formação permamente, suficientemente diversificada, de modo a assegurar o complemento, aprofundamento e actualização de conhecimentos e de competências profissionais relevantes e a possibilitar a mobilidade e a progressão na carreira, assim como a requalificação na mesma carreira;\na)   Formação especializada, que habilita para o exercício de funções particulares que a requeiram;\nb)   Formação profissional, após uma formação geral universitária e na perspectiva da reconversão de profissão.\n2.   A formação de educadores e professores assenta nos seguintes princípios organizativos:\na)   Formação flexível, que permita a reconversão e a mobilidade dos educadores e professores, nomeadamente o necessário complemento de formação profissional;\nb)   Formação integrada, quer no plano da preparação científico-pedagógica, quer no da articulação teórico-prática;\nc)   Formação assente em práticas metodológicas afins das que o educador e o professor têm necessidade de utilizar na prática pedagógica;\nd)  Formação que estimule uma atitude crítica e actuante relativamente à realidade social;\ne)   Formação que favoreça e estimule a inovação e a investigação, particularmente em relação com as actividades educativa e de ensino;\nf)    Formação participada, que conduza a uma prática reflexiva e continuada de auto-informação e auto-aprendizagem.\n3.   Compete ao Governo, aprovar por decreto-lei, o regime de formação de educadores e professores, definindo, nomeadamente, os requisitos dos cursos de formação inicial de professores, os perfis de competência e de formação, bem como as características de um período de indução e respectiva avaliação, para ingresso na carreira docente, os padrões de qualidade, as qualificações para o exercício de outras funções educativas, nomeadamente educação especial, administração escolar ou educacional, organização e desenvolvimento curricular, supervisão pedagógica e formação de formadores.\n4.   O Estado pode apoiar a formação contínua dos docentes em exercício de funções nos estabelecimentos de ensino particular e cooperativo que se integrem na rede de ofertas de educação e de ensino de serviço público."
+   }
+  },
+  {
+   "id": "TL-H075-A50",
+   "no": 50,
+   "noLabel": {
+    "pt": "Artigo 50.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VI RECURSOS  HUMANOS  DA  EDUCAÇÃO"
+   },
+   "heading": {
+    "pt": "Princípios das carreiras do pessoal docente e do pessoal não docente"
+   },
+   "text": {
+    "pt": "1.   Os professores, educadores, pessoal não docente das escolas e outros profissionais da educação têm direito a retribuição e carreira compatíveis com as suas habilitações e responsabilidades profissionais, sociais e culturais, nos termos legais.\n2.   A progressão nas carreiras está necessariamente ligada à avaliação do desempenho de toda a actividade desenvolvida, individualmente ou em grupo, na instituição educativa, no plano da educação e do ensino e da prestação de outros serviços à comunidade, bem como às qualificações profissionais, pedagógicas e científicas.\n3.   A todos os educadores, professores, pessoal não docente das escolas e outros profissionais da educação é reconhecido o direito e o dever à formação contínua relevante para o desempenho das respectivas funções, em complemento do dever permanente e continuado de auto-informação e auto-aprendizagem.\n4.   O pessoal não docente das escolas deve possuir como habilitação mínima o ensino básico ou equivalente, devendolhe ser proporcionada uma formação complementar adequada."
+   }
+  },
+  {
+   "id": "TL-H075-A51",
+   "no": 51,
+   "noLabel": {
+    "pt": "Artigo 51.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII RECURSOS  MATERIAIS  E  FINANCEIROS"
+   },
+   "heading": {
+    "pt": "Rede de ofertas educativas"
+   },
+   "text": {
+    "pt": "1.   Compete ao Estado organizar uma rede de ofertas de educação e de ensino, ordenada, em termos qualitativos e quantitativos, e actualizada, que, no desempenho de um serviço público, cubra as necessidades de toda a população, assegurando a existência de projectos educativos próprios, desenvolvidos no âmbito da autonomia das escolas públicas, particulares e cooperativas, e, do mesmo modo, uma efectiva liberdade de opção educativa das famílias.\n2.    Integram a rede de ofertas educativas os estabelecimentos de educação e de ensino particular e cooperativo que respeitem os princípios, objectivos, a organização e as regras de funcionamento do sistema educativo, incluindo de qualificação académica e de formação exigidas para a docência.\n3.   No reconhecimento do valor do ensino particular e cooperativo, o Estado tem em consideração, no ordenamento da rede de ofertas de educação e de ensino de serviço público, e numa perspectiva de racionalização de recursos e de promoção da qualidade das ofertas educativas, os estabelecimentos de educação e de ensino particular e cooperativo existentes ou a criar.\n4.   O Estado apoia financeiramente, mediante contrato e nos termos legais, o ensino particular e cooperativo, tendo em consideração a escolha das famílias, quando, integrandose os respectivos estabelecimentos na rede de ofertas de educação e de ensino de serviço público, prossigam os objectivos de desenvolvimento da educação."
+   }
+  },
+  {
+   "id": "TL-H075-A52",
+   "no": 52,
+   "noLabel": {
+    "pt": "Artigo 52.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII RECURSOS  MATERIAIS  E  FINANCEIROS"
+   },
+   "heading": {
+    "pt": "Planeamento da rede de ofertas educativas"
+   },
+   "text": {
+    "pt": "1.    O ordenamento da rede de ofertas educativas constitui um objectivo permanente da política educativa e da sua adequação ao território, no sentido de corresponder à procura educativa, de assegurar a articulação e complementaridade dos conteúdos daquelas ofertas e o desenvolvimento qualitativo das mesmas, de assegurar uma efectiva igualdade de oportunidades educativas, de compensar as assimetrias regionais e locais e de concretizar as opções estratégicas do desenvolvimento do País.\n2.   No planeamento e ordenamento da rede de ofertas educativas deve assegurar-se, nos termos da lei, uma efectiva intervenção das administrações locais e uma participação, de forma institucionalizada, das comunidades locais, com vista à elaboração e actualização de cartas escolares que se constituam como instrumento de nível regional e local do planeamento de ofertas educativas, reflexo do planeamento da rede nacional de ofertas educativas.\n3.   O Governo aprova anualmente a rede educativa, traduzida na configuação da organização territorial das ofertas educativas e dos edifícios escolares, afectos aos estabelecimentos de educação pré-escolar e de educação escolar."
+   }
+  },
+  {
+   "id": "TL-H075-A53",
+   "no": 53,
+   "noLabel": {
+    "pt": "Artigo 53.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII RECURSOS  MATERIAIS  E  FINANCEIROS"
+   },
+   "heading": {
+    "pt": "Edifícios escolares"
+   },
+   "text": {
+    "pt": "1.    Os edifícios escolares devem ser construídos para acolherem, para além das actividades escolares, actividades de ocupação de tempos livres e o envolvimento da escola em actividades extra-escolares e devem ser planeados na óptica de um equipamento integrado e com flexibilidade para permitir, sempre que possível, a sua utilização em diferentes actividades da comunidade e a sua adaptação em função das alterações dos diferentes níveis de ensino, dos currículos e dos métodos educativos.\n2.    A densidade da rede e a dimensão dos edifícios escolares devem ser ajustadas às características e necessidades regionais e locais e à capacidade de acolhimento de um número equilibrado de alunos, de forma a garantir as condições de uma boa prática pedagógica e a realização de uma verdadeira comunidade escolar e educativa.\n3.   Na concepção dos edifícios escolares e na escolha dos equipamentos consideram-se as necessidades especiais das pessoas com deficiência.\n4.   A concepção dos edifícios escolares deve orientar-se para tipologias que acolham todos os ciclos do ensino básico e tipologias que acolham todas as modalidades do ensino secundário, sem prejuízo de, com respeito pelas estruturas etárias correspondentes a cada ciclo do ensino básico e das especificidades funcionais de cada um deles, se admitirem tipologias mais abrangentes.\n5.   A educação pré-escolar realiza-se em unidades distintas ou incluídas em edifícios escolares onde também seja ministrado o ensino básico ou, ainda, em edifícios onde se realizem outras actividades sociais, nomeadamente a valência de creche ou a educação extra-escolar com respeito pela natureza específica das crianças dos três aos seis anos.\n6.   A gestão dos espaços deve obedecer ao imperativo de, também por esta via, se contribuir para o sucesso educativo e escolar dos alunos."
+   }
+  },
+  {
+   "id": "TL-H075-A54",
+   "no": 54,
+   "noLabel": {
+    "pt": "Artigo 54.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII RECURSOS  MATERIAIS  E  FINANCEIROS"
+   },
+   "heading": {
+    "pt": "Recursos educativos"
+   },
+   "text": {
+    "pt": "1.   Consideram-se recursos educativos os meios materiais utilizados para a adequada realização da actividade educativa.\n2.   São recursos educativos privilegiados, a exigirem especial consideração:\na)   Os manuais escolares e outros recursos em suporte digital;\nb)   As bibliotecas e mediatecas escolares;\nc)   Os equipamentos laboratoriais e oficinais;\nd)   Os equipamentos para a educação física e desportos;\ne)   Os equipamentos para a educação musical e plástica;\nf)   Os recursos para a educação especial.\n3.   Para apoio e complementaridade dos recursos educativos existentes nas escolas e ainda com o objectivo de racionalizar o uso dos meios disponíveis, devem ser criados centros de recursos educativos, por iniciativa das escolas, das administrações locais ou da administração educativa."
+   }
+  },
+  {
+   "id": "TL-H075-A55",
+   "no": 55,
+   "noLabel": {
+    "pt": "Artigo 55.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VII RECURSOS  MATERIAIS  E  FINANCEIROS"
+   },
+   "heading": {
+    "pt": "Financiamento da educação"
+   },
+   "text": {
+    "pt": "1.   A educação é considerada, na elaboração dos planos e do Orçamento do Estado, como uma prioridade nacional.\n2.   As verbas destinadas à educação devem ser distribuídas em função das prioridades estratégicas do desenvolvimento do sistema educativo."
+   }
+  },
+  {
+   "id": "TL-H075-A56",
+   "no": 56,
+   "noLabel": {
+    "pt": "Artigo 56.º"
+   },
+   "chapter": {
+    "pt": "CAPÍTULO VIII DISPOSIÇÕES  TRANSITÓRIAS  E  FINAIS"
+   },
+   "heading": {
+    "pt": "Pessoal docente e não docente"
+   },
+   "text": {
+    "pt": "1.   Serão tomadas medidas no sentido de dotar os ensinos básico e secundário com docentes habilitados profissionalmente, mediante modelos de formação inicial conformes com o disposto na presente lei, de forma a tornar desnecessária, no mais curto prazo de tempo, a contratação, em regime permanente, de professores sem habilitação profissional.\n2.   Será organizado um sistema de profissionalização em exercício para os docentes devidamente habilitados actualmente em exercício ou que venham a ingressar no ensino, de modo a garantir-lhes uma formação profissional equivalente à ministrada nas instituições de formação inicial para os respectivos níveis de ensino."
+   }
+  }
+ ]
+}

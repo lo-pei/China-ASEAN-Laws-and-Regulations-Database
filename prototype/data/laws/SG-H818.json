@@ -1,0 +1,470 @@
+{
+ "id": "SG-H818",
+ "title": {
+  "zh": null,
+  "en": "Consumer Protection (Safety Requirements) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p10",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CPTDSRA1975-RG1",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 28,
+ "chars": 43492,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CPTDSRA1975-RG1?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 28 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 3 篇以 900000+ 序号随同收录。其中 1 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H818-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Consumer Protection (Safety Requirements) Regulations."
+   }
+  },
+  {
+   "id": "SG-H818-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations, unless the context otherwise requires —\n“alternate testing laboratory” means —\n(a)a testing laboratory or manufacturer’s testing laboratory that is recognised under the International Electrotechnical Commission System of Conformity Assessment Schemes for Electrotechnical Equipment and Components Certification Bodies Scheme (the IECEE CB Scheme);\n(b)a testing laboratory that is recognised by a Foreign Recognition Body; or\n(c)a testing laboratory the test reports of which are agreed to be accepted by one or more CAB (Certification) or CAB (Testing) under an approved testing agreement;\n[S 14/2018 wef 15/01/2018]\n“approved testing agreement” means an agreement, approved by the Safety Authority, under which one or more CAB (Certification) or CAB (Testing) agree with the proprietor of a testing laboratory to accept test reports issued by that testing laboratory;\n[S 14/2018 wef 15/01/2018]\n“CAB” or “conformity assessment body” means a person that performs conformity assessment or any test relating to conformity assessment;\n[S 14/2018 wef 15/01/2018]\n“CAB (Certification)” means a person designated as such under the Consumer Protection (Conformity Assessment) Regulations 2025 (G.N. No. S 428/2025);\n[S 14/2018 wef 15/01/2018]\n[S 687/2018 wef 11/10/2018]\n[S 429/2025 wef 01/07/2025]\n“CAB (Certification — MRA)” means a person designated by a country other than Singapore to carry out any certification of any product for the purposes of an MRA to which both Singapore and that country are parties;\n[S 14/2018 wef 15/01/2018]\n“CAB (Testing)” means a person designated as such under the Consumer Protection (Conformity Assessment) Regulations 2025;\n[S 14/2018 wef 15/01/2018]\n[S 687/2018 wef 11/10/2018]\n[S 429/2025 wef 01/07/2025]\n“CAB (Testing — MRA)” means a person designated by a country other than Singapore to carry out any testing of any product for the purposes of an MRA to which both Singapore and that country are parties;\n[S 14/2018 wef 15/01/2018]\n“certificate of conformity” means a certificate certifying that controlled goods conform to the safety requirements specified by the Safety Authority for the controlled goods;\n[S 687/2018 wef 11/10/2018]\n“competent authority”, in relation to any country other than Singapore, means an authority whose functions under the law of that country include regulating the supply of safe consumer goods;\n[S 429/2025 wef 01/07/2025]\n“consumer goods” has the meaning given by section 2(1) of the Competition Act 2004;\n[S 429/2025 wef 01/07/2025]\n“controlled goods” means any goods of a type, class or description specified in the First Schedule;\n“country” includes a customs territory;\n“Foreign Recognition Body” means an entity in a country other than Singapore that is authorised under any of the following to recognise CABs, testing laboratories, or both on behalf of that country:\n(a)the Asia Pacific Accreditation Cooperation Mutual Recognition Agreement;\n[S 429/2025 wef 01/07/2025]\n(b)the International Laboratory Accreditation Cooperation Mutual Recognition Agreement;\n(c)an MRA to which both Singapore and that country are parties;\n[S 14/2018 wef 15/01/2018]\n“high-risk controlled goods” means any controlled goods that the Safety Authority classifies as such on the Safety Authority’s website;\n[S 14/2018 wef 15/01/2018]\n“low-risk controlled goods” means any controlled goods that the Safety Authority classifies as such on the Safety Authority’s website;\n[S 14/2018 wef 15/01/2018]\n“medium-risk controlled goods” means any controlled goods that the Safety Authority classifies as such on the Safety Authority’s website;\n[S 14/2018 wef 15/01/2018]\n“MRA” means —\n(a)a bilateral mutual recognition agreement or arrangement between Singapore and any other country; or\n(b)a multilateral mutual recognition agreement or arrangement between Singapore and 2 or more other countries,\nthat provides for (but is not limited to) the mutual recognition of standards, safety requirements and conformity assessment, testing or certification, of consumer goods, and the persons who carry out such conformity assessment, testing or certification;\n[S 429/2025 wef 01/07/2025]\n“registered controlled goods”, in relation to a Registered Supplier, means any controlled goods registered by him with the Safety Authority under regulation 7;\n[Deleted by S 14/2018 wef 15/01/2018]\n[Deleted by S 429/2025 wef 01/07/2025]\n“Safety Authority’s website” means the website at https://www.consumerproductsafety.gov.sg;\n[S 14/2018 wef 15/01/2018]\n[S 687/2018 wef 11/10/2018]\n[S 429/2025 wef 01/07/2025]\n“Safety Mark” means the Safety Mark specified in the Second Schedule;\n[S 687/2018 wef 11/10/2018]\n“safety requirements” means the safety requirements for controlled goods specified by the Safety Authority on the Safety Authority’s website.\n[S 687/2018 wef 11/10/2018]\n(2) Where an amendment is made to the description in any item of controlled goods in the First Schedule and it results in subjecting any additional goods to control or removing any specified goods from control, such goods shall, notwithstanding the effective date specified in the second column of the First Schedule corresponding to that item of controlled goods, be subject to control or be removed from control only as at the date the amendment takes effect.\n(3) For the purposes of these Regulations, the definition of “MRA” in paragraph (1) includes —\n(a)a bilateral mutual recognition agreement or arrangement between the Safety Authority and a competent authority of a country other than Singapore; and\n(b)a multilateral mutual recognition agreement or arrangement between the Safety Authority and 2 or more competent authorities of countries other than Singapore,\nand a reference in these Regulations to Singapore and a country other than Singapore in relation to an MRA mentioned in sub-paragraph (a) or (b) is to be construed as a reference to the Safety Authority and the competent authority of the country other than Singapore, respectively.\n[S 429/2025 wef 01/07/2025]"
+   }
+  },
+  {
+   "id": "SG-H818-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "3. The Safety Authority may, in its discretion and for such period and on such conditions as it thinks fit, exempt any person or any controlled goods from all or any of the provisions of these Regulations."
+   }
+  },
+  {
+   "id": "SG-H818-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "chapter": {
+    "en": "PART I PRELIMINARY"
+   },
+   "heading": {
+    "en": "Supply of safe goods"
+   },
+   "text": {
+    "en": "4.—(1) No person shall, in the course of any trade or business, supply or advertise for the purpose of supply any controlled goods after the effective date specified in the First Schedule unless —\n(a)such controlled goods are registered controlled goods conforming to the safety requirements specified by the Safety Authority for those goods; and\n(b)such controlled goods have affixed to them the Safety Mark in accordance with Part III.\n(2) Where any person contravenes paragraph (1), he shall be guilty of an offence under section 11(2) of the Act, and the Safety Authority may —\n(a)require such person to effect a recall of the controlled goods and keep the Safety Authority informed of the progress of such recall; and\n(b)take such steps as may be necessary to inform users of the controlled goods of the potential danger of such goods.\n(3) Any person who fails or neglects to effect a recall of the controlled goods required by the Safety Authority under paragraph (2)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.\n(4) For the purposes of this regulation, “registered controlled goods” does not include controlled goods whose registration is deemed to be suspended or withdrawn under regulation 24."
+   }
+  },
+  {
+   "id": "SG-H818-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "chapter": {
+    "en": "PART II REGISTERED SUPPLIERS AND REGISTERED CONTROLLED GOODS"
+   },
+   "heading": {
+    "en": "Importer or manufacturer to apply to be registered as Registered Supplier and to register controlled goods"
+   },
+   "text": {
+    "en": "5.—(1) Any importer or manufacturer in Singapore who intends, in the course of any trade or business, to supply or advertise for supply any controlled goods in Singapore shall apply to the Safety Authority —\n(a)to be registered as a Registered Supplier; and\n(b)to register any controlled goods which the importer or manufacturer intends to supply or advertise for supply in Singapore.\n(2) An importer or a manufacturer which contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H818-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "chapter": {
+    "en": "PART II REGISTERED SUPPLIERS AND REGISTERED CONTROLLED GOODS"
+   },
+   "heading": {
+    "en": "Application for registration of supplier"
+   },
+   "text": {
+    "en": "6. An application to be registered as a Registered Supplier shall be in such form as the Safety Authority may determine and shall be accompanied by such documents and information as the Safety Authority may require."
+   }
+  },
+  {
+   "id": "SG-H818-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "chapter": {
+    "en": "PART II REGISTERED SUPPLIERS AND REGISTERED CONTROLLED GOODS"
+   },
+   "heading": {
+    "en": "Application for registration of controlled goods"
+   },
+   "text": {
+    "en": "7.—(1) Subject to paragraph (5), an application for registration of any high-risk controlled goods or medium-risk controlled goods must be made by a Registered Supplier in such form as the Safety Authority may require, and must be accompanied by —\n(a)a certificate of conformity in respect of the controlled goods;\n[S 687/2018 wef 11/10/2018]\n(b)such other information and documents as the Safety Authority may require to decide the application; and\n(c)a non-refundable fee of the amount specified in the Third Schedule.\n(2) Subject to paragraph (6), an application for registration of any low-risk controlled goods must be made by a Registered Supplier in such form as the Safety Authority may require and must be accompanied by —\n(a)a declaration by the Registered Supplier that the controlled goods conform to the safety requirements specified by the Safety Authority for the controlled goods (called in these Regulations a supplier’s declaration);\n(b)such other information and documents as the Safety Authority may require to decide the application; and\n(c)a non-refundable fee of the amount specified in the Third Schedule.\n(3) For the purpose of paragraph (1)(a), the certificate of conformity must be issued by —\n(a)a CAB (Certification) that certified the controlled goods based on a test report issued in respect of those controlled goods by a CAB (Testing), a CAB (Testing — MRA), or an alternate testing laboratory; or\n(b)a CAB (Certification — MRA).\n(4) For the purpose of paragraph (2)(a), the Registered Supplier must make the supplier’s declaration on the basis of a test report issued in respect of the controlled goods by a CAB (Testing), a CAB (Testing — MRA), or an alternate testing laboratory.\n(5) The Safety Authority may accept an application under paragraph (1) that is not accompanied by a certificate of conformity if —\n(a)either or both of the following occurs:\n(i)no CAB (Testing) is able to test the controlled goods without unreasonable delay, and the Safety Authority is satisfied that it would be unreasonable to require the Registered Supplier to have the controlled goods tested by a CAB (Testing — MRA) or an alternate testing laboratory;\n(ii)no CAB (Certification) is able to certify the controlled goods without unreasonable delay, and the Safety Authority is satisfied that it would be unreasonable to require the Registered Supplier to have the controlled goods certified by a CAB (Certification — MRA); and\n(b)the Safety Authority performs such conformity assessment or test on the controlled goods as may be necessary to ensure that the controlled goods conform to the safety requirements specified by the Safety Authority.\n(6) The Safety Authority may accept an application under paragraph (2) that is not accompanied by a supplier’s declaration if —\n(a)no CAB (Testing) is able to test the controlled goods without unreasonable delay;\n(b)the Safety Authority is satisfied that it would be unreasonable to require the Registered Supplier to have the controlled goods tested by a CAB (Testing — MRA) or an alternate testing laboratory; and\n(c)the Safety Authority performs such test on the controlled goods as may be necessary to ensure that the controlled goods conform to the safety requirements specified by the Safety Authority.\n(7) Any expenses incurred by the Safety Authority in performing any conformity assessment or test mentioned in paragraph (5) or (6) must be borne by the Registered Supplier.\n(8) The Safety Authority must notify the Registered Supplier in writing of the registration of the controlled goods for which the Registered Supplier has made an application under paragraph (1) or (2).\n(9) The Safety Authority may impose such conditions as it thinks fit on the registration of any controlled goods.\n(10) A Registered Supplier who —\n(a)procures or attempts to procure the registration of any high-risk controlled goods or medium-risk controlled goods —\n(i)by making or causing to be made a certificate of conformity that is false; or\n(ii)by producing to the Safety Authority a certificate of conformity that the Registered Supplier knows or has reason to believe is false;\n(b)procures or attempts to procure the registration of any low-risk controlled goods —\n(i)by making or producing or causing to be made or produced a supplier’s declaration that is false; or\n(ii)where the Registered Supplier knows or has reason to believe that a test report mentioned in paragraph (4) has not been issued in respect of those controlled goods;\n(c)fraudulently or dishonestly uses as genuine, for any purpose that is connected with the supply of controlled goods, a certificate of conformity or test report that the Registered Supplier knows or has reason to believe is false; or\n(d)procures or attempts to procure the registration of any controlled goods by providing any information or document to the Safety Authority that the Registered Supplier knows or has reason to believe is false,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.\n[S 14/2018 wef 15/01/2018]"
+   }
+  },
+  {
+   "id": "SG-H818-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "chapter": {
+    "en": "PART II REGISTERED SUPPLIERS AND REGISTERED CONTROLLED GOODS"
+   },
+   "heading": {
+    "en": "Duration and renewal of registration of controlled goods"
+   },
+   "text": {
+    "en": "8.—(1) The registration of any controlled goods shall be valid for a period of 3 years or the period of validity of the certificate of conformity of the controlled goods, whichever is the less, and may be renewed.\n(2) The registration of any controlled goods may be renewed subject to such terms and conditions as the Safety Authority may impose.\n(3) Unless the Safety Authority otherwise allows, an application for renewal of registration of any controlled goods shall be made before the registration of the controlled goods expires."
+   }
+  },
+  {
+   "id": "SG-H818-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "chapter": {
+    "en": "PART II REGISTERED SUPPLIERS AND REGISTERED CONTROLLED GOODS"
+   },
+   "heading": {
+    "en": "Application of regulations to renewal of registration of controlled goods"
+   },
+   "text": {
+    "en": "9. Regulations 7 and 8 shall, with the necessary modifications, apply to a renewal of registration of any controlled goods."
+   }
+  },
+  {
+   "id": "SG-H818-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "chapter": {
+    "en": "PART II REGISTERED SUPPLIERS AND REGISTERED CONTROLLED GOODS"
+   },
+   "heading": {
+    "en": "Register of Registered Suppliers and registered controlled goods"
+   },
+   "text": {
+    "en": "10.—(1) The Safety Authority shall keep and maintain a register in which shall be entered the names and such particulars of the Registered Suppliers and registered controlled goods as the Safety Authority may determine.\n(2) [Deleted by S 429/2025 wef 01/07/2025]"
+   }
+  },
+  {
+   "id": "SG-H818-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "chapter": {
+    "en": "PART II REGISTERED SUPPLIERS AND REGISTERED CONTROLLED GOODS"
+   },
+   "heading": {
+    "en": "Removal from register"
+   },
+   "text": {
+    "en": "11.—(1) Where —\n(a)the Registered Supplier applies to the Safety Authority for his registration to be withdrawn;\n[S 14/2018 wef 15/01/2018]\n(aa)the Registered Supplier has not registered any controlled goods for 12 months after the date of the Registered Supplier’s registration (including any period before 15 January 2018), and the Safety Authority has given the Registered Supplier notice in writing that its registration will be withdrawn; or\n[S 14/2018 wef 15/01/2018]\n(b)in relation to any controlled goods registered by the Registered Supplier, the Registered Supplier ceases to supply those registered controlled goods, and the Safety Authority has given the Registered Supplier notice in writing that its registration will be withdrawn,\n[S 14/2018 wef 15/01/2018]\nthe Safety Authority may withdraw the registration of the Registered Supplier and may remove the details of such supplier from the register or indicate against the details of such supplier in the register the fact of the withdrawal of registration.\n(2) Where the registration of any registered controlled goods —\n(a)expires and is not renewed in accordance with regulation 8; or\n(b)is deemed to be suspended or withdrawn under regulation 24,\nthe Safety Authority may remove the details of the registered controlled goods from the register or indicate against the details of the goods in the register the fact of such expiry, suspension or withdrawal of registration."
+   }
+  },
+  {
+   "id": "SG-H818-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "chapter": {
+    "en": "PART II REGISTERED SUPPLIERS AND REGISTERED CONTROLLED GOODS"
+   },
+   "heading": {
+    "en": "Fees collected to be paid to Safety Authority"
+   },
+   "text": {
+    "en": "12. The fees collected under these Regulations shall be paid to the Safety Authority and may be applied by the Safety Authority in accordance with the provisions of the Competition Act 2004.\n[S 687/2018 wef 11/10/2018]\n[S 429/2025 wef 01/07/2025]"
+   }
+  },
+  {
+   "id": "SG-H818-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "chapter": {
+    "en": "PART III SAFETY MARK"
+   },
+   "heading": {
+    "en": "Registered Supplier to affix Safety Mark"
+   },
+   "text": {
+    "en": "13.—(1) Subject to paragraph (2), no person shall affix the Safety Mark on any goods unless —\n(a)he is a Registered Supplier;\n(b)he affixes the Safety Mark on controlled goods registered by him with the Safety Authority, and the registration of such controlled goods is not deemed to be suspended or withdrawn under regulation 24; and\n(c)he affixes the Safety Mark in accordance with regulation 14.\n(2) Notwithstanding paragraph (1)(a), the Registered Supplier may appoint any person to affix the Safety Mark on his behalf.\n(3) Notwithstanding any appointment referred to in paragraph (2), the Registered Supplier shall remain responsible in respect of any Safety Mark which any person appointed by him fails or neglects to affix in accordance with this Part.\n(4) Any person who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H818-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "chapter": {
+    "en": "PART III SAFETY MARK"
+   },
+   "heading": {
+    "en": "Affixing Safety Mark"
+   },
+   "text": {
+    "en": "14.—(1) The Registered Supplier shall print or affix the Safety Mark on the registered controlled goods but where, in the opinion of the Safety Authority, the registered controlled goods are of such a nature as to prevent the goods from being so marked, the Safety Authority may allow the Safety Mark to be affixed on a container in which any one of those goods is contained or a label attached thereto or in any other manner as the Safety Authority thinks fit.\n(2) The Safety Authority may issue directions as to the characteristics and form of the Safety Mark, the particulars to be set out in the mark and the location and manner in which the mark is to be affixed, printed or labelled on any registered controlled goods, container or label.\n(3) Where the registration of any registered controlled goods is deemed to be withdrawn under regulation 24, the Registered Supplier shall take all necessary steps to remove, eradicate or obliterate the Safety Mark from such goods.\n(4) A Registered Supplier who contravenes paragraph (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H818-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "chapter": {
+    "en": "PART IV OBLIGATIONS OF REGISTERED SUPPLIERS"
+   },
+   "heading": {
+    "en": "Registered Supplier to notify Safety Authority of change in particulars"
+   },
+   "text": {
+    "en": "15. The Registered Supplier shall notify the Safety Authority of any change to the name of the Registered Supplier and any change to such of its particulars as the Safety Authority may require not less than 2 weeks before such change."
+   }
+  },
+  {
+   "id": "SG-H818-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "chapter": {
+    "en": "PART IV OBLIGATIONS OF REGISTERED SUPPLIERS"
+   },
+   "heading": {
+    "en": "Technical file"
+   },
+   "text": {
+    "en": "16.—(1) A Registered Supplier shall maintain, and make available to the Safety Authority, a technical file on each of the controlled goods which he registers with the Safety Authority, which shall include such documents and information as the Safety Authority may determine.\n(2) The Registered Supplier shall keep a technical file for a period of not less than 10 years after the registration of the registered controlled goods expires or is deemed to be withdrawn under regulation 24.\n(3) A Registered Supplier shall make available to the Safety Authority any technical file maintained by the Registered Supplier within 7 days of receipt by the Registered Supplier of a request from the Safety Authority for such technical file.\n(4) A Registered Supplier who contravenes any provision of this regulation shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H818-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "chapter": {
+    "en": "PART IV OBLIGATIONS OF REGISTERED SUPPLIERS"
+   },
+   "heading": {
+    "en": "Modifications to registered controlled goods"
+   },
+   "text": {
+    "en": "17.—(1) This regulation shall apply to any modification made by any person (other than a consumer) which results in any change to the design, construction or materials of any registered controlled goods.\n(2) Where a modification to the registered controlled goods does not result in a change in model number but affects the safety of the controlled goods, the Registered Supplier must —\n(a)in the case of high-risk controlled goods or medium-risk controlled goods —\n(i)send the controlled goods to a CAB (Testing), a CAB (Testing — MRA) or an alternate testing laboratory to be tested, and to a CAB (Certification) or a CAB (Certification — MRA) to be certified, for conformity to the safety requirements specified by the Safety Authority for the controlled goods; and\n(ii)update the Registered Supplier’s technical file on the controlled goods with details of the change; and\n(b)in the case of low-risk controlled goods —\n(i)send the controlled goods to a CAB (Testing), a CAB (Testing — MRA) or an alternate testing laboratory to be tested for conformity to the safety requirements specified by the Safety Authority for the controlled goods; and\n(ii)update the Registered Supplier’s technical file on the controlled goods with details of the change.\n[S 14/2018 wef 15/01/2018]\n(3) Where a modification to the registered controlled goods does not result in a change in model number and does not affect the safety of the registered controlled goods, the Registered Supplier shall update its technical file on the registered controlled goods with details of the change.\n[S 14/2018 wef 15/01/2018]\n(4) Where a modification to the registered controlled goods results in a change in model number and affects the safety of the controlled goods, the controlled goods are treated as controlled goods not registered with the Safety Authority, and the Registered Supplier must —\n(a)in the case of high-risk controlled goods or medium-risk controlled goods, obtain a new certificate of conformity for those controlled goods and apply for registration of those controlled goods in accordance with regulation 7(1); and\n(b)in the case of low-risk controlled goods, make a new supplier’s declaration on the basis of another test report under regulation 7(4) for those controlled goods, and apply for registration of those controlled goods in accordance with regulation 7(2).\n[S 14/2018 wef 15/01/2018]\n(4A) Paragraph (4)(a) and (b) is subject to regulation 7(5), (6) and (7).\n[S 14/2018 wef 15/01/2018]\n(5) Where —\n(a)a modification to the registered controlled goods results in a change in model number and does not affect the safety of the controlled goods; or\n(b)the model number of the registered controlled goods is changed without any modification to the registered controlled goods,\nthe controlled goods shall be treated as new controlled goods not registered with the Safety Authority, and the Registered Supplier shall apply for registration of new controlled goods in accordance with regulation 7, but need not obtain a new certificate of conformity if the controlled goods are high-risk controlled goods or medium-risk controlled goods, or make a new supplier’s declaration if the controlled goods are low-risk controlled goods, for such registration.\n[S 14/2018 wef 15/01/2018]"
+   }
+  },
+  {
+   "id": "SG-H818-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "chapter": {
+    "en": "PART V SUSPENSION OF AND PROHIBITION AGAINST SUPPLY AND INQUIRY PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Suspension of and prohibition against supply of registered controlled goods"
+   },
+   "text": {
+    "en": "18.—(1) The Safety Authority may suspend or prohibit the supply of any registered controlled goods —\n(a)where the registered controlled goods do not or no longer conform to the safety requirements of the Safety Authority;\n(b)where the registration of the registered controlled goods was obtained by the Registered Supplier in contravention of regulation 7(10);\n[S 14/2018 wef 15/01/2018]\n(c)where the Registered Supplier has contravened, is contravening or is likely to contravene any condition imposed by the Safety Authority on the registration of the registered controlled goods;\n(d)where the Registered Supplier has contravened, is contravening or is likely to contravene any provision in Part III or IV; or\n(e)where the Safety Authority is entitled to do so under regulation 21 or 22.\n(2) Where the Safety Authority intends to suspend or prohibit the supply of any registered controlled goods under paragraph (1)(a), (b), (c) or (d), the Safety Authority shall notify the Registered Supplier in writing of its intention and shall in that notification specify —\n(a)the reason for which the Safety Authority intends to suspend or prohibit the supply of the registered controlled goods; and\n(b)a time period (not being less than 14 days) within which the Registered Supplier may provide to the Safety Authority any explanation he may wish to offer and to inform the Safety Authority if he wishes to be heard.\n(3) Upon considering any explanation of the Registered Supplier and upon providing the Registered Supplier with a reasonable opportunity to be heard (where such a request was made), the Safety Authority may —\n(a)subject to such conditions as it thinks fit, withhold the suspension of or prohibition against the supply of the registered controlled goods;\n(b)suspend the supply of the registered controlled goods and lift the suspension at such time as the Safety Authority thinks fit; or\n(c)prohibit the supply of the registered controlled goods,\nand the Safety Authority shall notify the Registered Supplier in writing of its decision."
+   }
+  },
+  {
+   "id": "SG-H818-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "chapter": {
+    "en": "PART V SUSPENSION OF AND PROHIBITION AGAINST SUPPLY AND INQUIRY PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Inquiry into incident involving registered controlled goods"
+   },
+   "text": {
+    "en": "19.—(1) The Safety Authority shall inquire into any complaint or information received by it of any incident involving any registered controlled goods supplied in Singapore which results in any one or more of the following:\n(a)damage to any of those registered controlled goods;\n(b)damage to any other property; and\n(c)injury to any person or loss of life.\n(2) The Safety Authority shall, within 60 days of receipt of the technical file from the Registered Supplier under regulation 16(3), complete its inquiry and prepare a report as to the cause of the incident."
+   }
+  },
+  {
+   "id": "SG-H818-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "chapter": {
+    "en": "PART V SUSPENSION OF AND PROHIBITION AGAINST SUPPLY AND INQUIRY PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Incident arising out of misuse of registered controlled goods"
+   },
+   "text": {
+    "en": "20. Where the cause of the incident was the misuse of the registered controlled goods, the Safety Authority shall dismiss the complaint or information received."
+   }
+  },
+  {
+   "id": "SG-H818-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "chapter": {
+    "en": "PART V SUSPENSION OF AND PROHIBITION AGAINST SUPPLY AND INQUIRY PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Incident arising out of uncertified modification or incorrect testing or certification by CAB"
+   },
+   "text": {
+    "en": "21.—(1) Where —\n(a)the Safety Authority ascertains the cause of the incident as being —\n(i)an uncertified modification of the registered controlled goods; or\n(ii)the registered controlled goods not conforming to the safety requirements specified by the Safety Authority; and\n(b)such uncertified modification or non-conformity affects only one of those registered controlled goods,\nthe Safety Authority shall notify the Registered Supplier in writing of its findings and, together with the Registered Supplier or otherwise, take such steps as the Safety Authority thinks fit to ensure that such incident does not occur again.\n(2) Where —\n(a)the Safety Authority ascertains the cause of the incident as being —\n(i)an uncertified modification of the registered controlled goods; or\n(ii)the registered controlled goods not conforming to the safety requirements specified by the Safety Authority; and\n(b)such uncertified modification or non-conformity affects more than one of those registered controlled goods,\nthe Safety Authority shall notify the Registered Supplier in writing of its findings and the supply of the registered controlled goods shall be suspended from the date of such notification.\n(3) The Registered Supplier may, within 30 days of its receipt of a notification referred to in paragraph (2), provide to the Safety Authority any explanation the Registered Supplier may wish to offer in respect of the incident and any evidence in support of such explanation.\n(4) Where, upon considering any explanation and evidence provided by the Registered Supplier under paragraph (3), the Safety Authority is of the view that the supply of the registered controlled goods should in the interests of public safety be discontinued, the Safety Authority shall prohibit the supply of the controlled goods.\n(5) Where, upon considering any explanation and evidence provided by the Registered Supplier under paragraph (3), the Safety Authority is of the view that the supply of the registered controlled goods will not prejudice public safety, the Safety Authority shall —\n(a)subject to such conditions as it thinks fit, lift the suspension on the supply of the controlled goods; and\n(b)together with the Registered Supplier or otherwise, take such steps as the Safety Authority thinks fit to ensure that such incident does not occur again.\n(6) The Safety Authority shall inform the Registered Supplier in writing of its decision made under paragraph (4) or (5).\n(7) In this regulation, “uncertified modification” means any modification to —\n(a)any registered controlled goods referred to in regulation 17(2) in respect of which regulation 17(2)(a) or (b) (as the case may be) has not been complied with; or\n[S 14/2018 wef 15/01/2018]\n(b)any registered controlled goods referred to in regulation 17(4) in respect of which the new controlled goods have not been registered with the Safety Authority."
+   }
+  },
+  {
+   "id": "SG-H818-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "chapter": {
+    "en": "PART V SUSPENSION OF AND PROHIBITION AGAINST SUPPLY AND INQUIRY PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Incident arising out of unknown cause and further inquiry"
+   },
+   "text": {
+    "en": "22.—(1) Where the cause of the incident cannot be ascertained by the Safety Authority upon completion of its inquiry into the complaint or information under regulation 19 and the incident resulted in loss of life, serious injury to any person, or damage to any property, the Safety Authority may —\n(a)suspend the supply of the registered controlled goods; and\n(b)extend its inquiry into the complaint or information for a period not exceeding 30 days.\n(2) Where the cause of the incident cannot be ascertained by the Safety Authority upon completion of its inquiry into the complaint or information under regulation 19 and the incident resulted in damage to one of those registered controlled goods or injury to any person (not being a serious injury), the Safety Authority may extend its inquiry into the complaint or information for a period not exceeding 30 days.\n(3) The Safety Authority shall notify the Registered Supplier in writing of its decision made under paragraph (1) or (2), and where the supply of the registered controlled goods is to be suspended, the suspension shall take effect from the date of such notification.\n(4) Where, at the end of a further inquiry, the Safety Authority determines that the incident occurred as a result of any of the causes specified in regulation 20 or 21, the Safety Authority shall proceed in accordance with the provisions of regulation 20 or 21, as the case may be.\n(5) Where the Safety Authority —\n(a)is of the view that a further inquiry is not necessary; or\n(b)having completed a further inquiry, is unable to ascertain the cause of the incident,\nthe Safety Authority shall notify the Registered Supplier in writing accordingly and allow the Registered Supplier to make, within 30 days of the date of the notification, any explanation the Registered Supplier may wish to offer in respect of the incident and any evidence in support of such explanation.\n(6) Where, upon considering any explanation and evidence provided by the Registered Supplier under paragraph (5), the Safety Authority is of the view that the supply of the registered controlled goods should in the interests of public safety be discontinued, the Safety Authority shall prohibit the supply of the controlled goods.\n(7) Where, upon considering any explanation and evidence provided by the Registered Supplier under paragraph (5), the Safety Authority is of the view that the supply of the registered controlled goods will not prejudice public safety, the Safety Authority shall —\n(a)subject to such conditions as it thinks fit, lift the suspension on the supply of the controlled goods; and\n(b)together with the Registered Supplier or otherwise, take such steps as the Safety Authority thinks fit to ensure that such an accident or incident does not occur again.\n(8) The Safety Authority shall inform the Registered Supplier in writing of its decision made under paragraph (6) or (7)."
+   }
+  },
+  {
+   "id": "SG-H818-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "chapter": {
+    "en": "PART V SUSPENSION OF AND PROHIBITION AGAINST SUPPLY AND INQUIRY PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Power of Safety Authority to obtain information, etc."
+   },
+   "text": {
+    "en": "23.—(1) Without prejudice to section 22 of the Act, for the purposes of regulation 18 and any inquiry or further inquiry under this Part, the Safety Authority may require any person whom it believes to have knowledge of the matter (including the Registered Supplier of the registered controlled goods concerned) —\n(a)to produce for inspection any book, document, paper or other record relating to or connected with the matter; and\n(b)to give all information relating to or connected with the matter as the Safety Authority may require.\n(2) Without prejudice to section 22 of the Act, for the purposes of regulation 18 and any inquiry or further inquiry under this Part, the Safety Authority may require the Registered Supplier of the registered controlled goods concerned to provide to it free of charge samples of the registered controlled goods."
+   }
+  },
+  {
+   "id": "SG-H818-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "chapter": {
+    "en": "PART V SUSPENSION OF AND PROHIBITION AGAINST SUPPLY AND INQUIRY PROCEEDINGS"
+   },
+   "heading": {
+    "en": "Effect of suspension of or prohibition against supply"
+   },
+   "text": {
+    "en": "24.—(1) Where the supply of any registered controlled goods is suspended, the registration of those controlled goods shall be deemed to be suspended.\n(2) Where the supply of any registered controlled goods is prohibited —\n(a)the registration of those controlled goods shall be deemed to be withdrawn; and\n(b)the Safety Authority may —\n(i)require the Registered Supplier to effect a recall of the registered controlled goods and keep the Safety Authority informed of the progress of such recall; and\n(ii)take such steps as may be necessary to inform users of the registered controlled goods of the potential danger of such goods.\n(3) Where the supply of any registered controlled goods is suspended or prohibited —\n(a)those controlled goods shall, for the period of the suspension or from the date of the prohibition (as the case may be), be dealt with under the Act or these Regulations in the same manner as unregistered controlled goods; and\n(b)the Registered Supplier shall notify all suppliers who obtained those controlled goods from him, directly or indirectly, of the suspension or prohibition.\n(4) A Registered Supplier who —\n(a)fails or neglects to effect a recall of the registered controlled goods required by the Safety Authority under paragraph (2)(b)(i); or\n(b)fails to comply with paragraph (3)(b),\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both."
+   }
+  },
+  {
+   "id": "SG-H818-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "chapter": {
+    "en": "PART V SUSPENSION OF AND PROHIBITION AGAINST SUPPLY AND INQUIRY PROCEEDINGS"
+   },
+   "text": {
+    "en": "25. [Deleted by S 429/2025 wef 01/07/2025]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H818-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "FIRST SCHEDULE"
+   },
+   "text": {
+    "en": "FIRST SCHEDULE\nRegulations 2 and 4(1)\nControlled goods\nType, class or description of controlled goods\nEffective date\n1.Audio and video products, which are electronic devices for home entertainment designed to be fed from the supply mains and intended for reception, generation, recording or reproduction, respectively of audio, video and associated signals, with rated voltage of not more than 250 Vac.\n15 January 2018\n2.Fans, limited to ceiling, table, standing and wall fans, which are electrical appliances for circulating the air in its vicinity and intended for household use, with rated voltage of not more than 250 Vac.\n15 January 2018\n3.Gas cooking appliances, limited to built-in, table, free standing and portable gas cookers, which are cooking appliances intended for household use that use gas or liquefied petroleum gas obtained from a non-refillable gas canister up to 1.4 litres as fuel.\n15 January 2018\n4.3-pin mains plugs, limited to 13-amp rectangular types and 15-amp round types, which are portable devices that have rectangular or cylindrical projecting pins designed to engage with the contacts of a corresponding socket-outlet. 3-pin mains plugs also incorporate means for the electrical connection and the mechanical retention of a suitable flexible cord.\n15 January 2018\n5.3-pin portable socket-outlets, including portable cable reels, which are electrical accessories intended for household use that have at least a set of 13-amp shuttered socket-outlets with flexible cords, and which can be easily moved from one place to another while connected to rated voltage supply of not more than 250 Vac.\n15 January 2018\n6.Mains socket-outlets, which are electrical devices that have 13-amp or 15-amp switched shuttered socket-outlets in a single or multiple arrangements, to engage with the pins of a corresponding plug designed for flush mounting in a suitable box or for surface or panel mounting.\n15 January 2018\n7.Water heaters, limited to instantaneous and storage types, which are electrical appliances intended for household use to heat water below boiling temperature, with rated voltage of not more than 250 Vac.\n15 January 2018\n8.Stationary cooking appliances, limited to cooking ranges, hobs and ovens, which are electrical stationary appliances intended for household use for cooking, with rated voltage of not more than 250 Vac for single-phase and 480 Vac for three-phase.\n15 January 2018\n9.Hair care appliances, limited to hair dryers, hair curlers, hair straighteners and hair stylers, which are electrical hand-held appliances intended for household use to dry or care for human hair, with rated voltage of not more than 250 Vac.\n15 January 2018\n10.Liquid heating appliances, limited to kettles, airpots and hot water dispensers, which are electrical appliances intended for household use to heat liquids for consumption that have a rated capacity not exceeding 10 litres, with rated voltage of not more than 250 Vac.\n15 January 2018\n11.Toasters, grills, roasters, hot plates, deep fryers and similar appliances, which are electrical appliances intended for household use that use heated medium such as air and cooking oil for food preparation, with rated voltage of not more than 250 Vac.\n15 January 2018\n12.Lamp control gear, which is an electrical device intended for household electrical installation that limits the current of the lamp or supplies constant current or constant voltage to power LED lighting.\n15 January 2018\n13.Air cooler, which is an electrical appliance intended for household use to agitate the air and equipped to use water as a cooling medium, with rated voltage of not more than 250 Vac.\n15 January 2018\n14.AC adaptor, which is a device with rated voltage of not more than 250 Vac, and designed to supply a.c. or d.c. power for applications such as computers, telecommunication equipment, home entertainment equipment or toys.\n15 January 2018\n15.Coffee makers, slow cookers, steam boats and similar appliances, which are electrical appliances intended for household use to heat liquids for the purpose of food or beverage preparation, with rated voltage of not more than 250 Vac.\n15 January 2018\n16.Decorative lighting chain, which is an electrical lighting chain intended for household use and fitted with a series or parallel or combination of series or parallel connected light emitting devices, with rated voltage not exceeding 250 Vac.\n15 January 2018\n17.Home computer system (inclusive of monitor, printer, speaker and other mains operated accessories), which is a microcomputer and its associated accessories, intended for household use, with rated voltage of not more than 250 Vac.\n15 January 2018\n18.Iron, which is an electrical hand-held appliance intended for household use, with a heated soleplate for smoothing or pressing fabric, including those with a separate water reservoir or boiler having a capacity not exceeding 5 litres, with rated voltage of not more than 250 Vac.\n15 January 2018\n19.Microwave oven, which is an electrical appliance intended for household use that uses high-frequency electromagnetic waves for heating food or beverages, with rated voltage of not more than 250 Vac.\n15 January 2018\n20.Kitchen machines, including mixers, blenders and mincers, which are electrical appliances intended for household use to prepare food or beverages, with rated voltage of not more than 250 Vac.\n15 January 2018\n21.Refrigerator, which is an electrical appliance intended for household use that operates on the vapour compression principle for food storage and preservation, with rated voltage of not more than 250 Vac.\n15 January 2018\n22.Rice cooker, which is an electrical appliance intended for household use to cook rice, with rated voltage of not more than 250 Vac.\n15 January 2018\n23.Room air-conditioner, which is an electrical appliance intended for household use and designed as a self-contained unit for mounting on a window or through a wall to provide conditioned air to an enclosed area, with rated voltage of not more than 250 Vac.\n15 January 2018\n24.Table or standing lamp, which is an electrical portable general purpose luminary intended for household use with supply voltage of not more than 250 Vac.\n15 January 2018\n25.Vacuum cleaner, which is an electrical portable appliance intended for household use to remove dirt or dust, with supply voltage of not more than 250 Vac.\n15 January 2018\n26.Washing machine, which is an electrical appliance intended for household use to wash clothes and textiles, with rated voltage of not more than 250 Vac.\n15 January 2018\n27.Components of the Liquefied Petroleum Gas system:\n15 January 2018\n(a)Hose, namely a hose intended for household use in liquefied petroleum gas vapour phase and liquefied petroleum gas or air appliances not exceeding 5 KPa (50 mbar) operating pressure;\n(b)Regulator, which is a non-adjustable device intended for household use that maintains the outlet pressure constant at a nominal value up to and including 50 mbar, independent, within specified limits, of inlet pressure or flow rate;\n(c)Valve, which is a device that is made from brass, bronze or aluminium forging, intended for household use with liquefied petroleum gas cylinders, to control the direction and volume of flow of the liquefied petroleum gas.\n28.Gas canister, which is a non-refillable metallic container up to 1.4 litres capacity filled with liquefied petroleum gas intended for household use with a portable gas cooker.\n15 January 2018\n29.Fuse (13-amp or less) for use in a 13-amp plug, which is a device that, by the fusion of one or more of its specially designed and proportioned components, opens the circuit in which it is inserted and breaks the current when this exceeds a given value for a sufficient time.\n15 January 2018\n30.Multi-way adaptor, which is intended for household use, has more than one set of socket contacts, and which may or may not be of the same type or rating as the plug pin portion.\n15 January 2018\n31.Domestic electric wall switch, which is an electrical manually operated general purpose switch for alternating current only, with a rated voltage not exceeding 440 V and a rated current not exceeding 63 A, intended for household fixed-electrical installations.\n15 January 2018\n32.Residual current circuit breaker (RCCB), which is an electrical device intended for household fixed-electrical installation with sensitivity of 30 mA intended to protect persons against indirect contact, the exposed conductive parts of the installation being connected to an appropriate earth electrode.\n15 January 2018\n33.Isolating transformer for downlight fitting, which is an isolating transformer intended for household electrical installation with input and output windings that are electrically separated to limit hazards due to accidental simultaneous contact with earth and live parts or metal parts that may become live in the event of an insulation failure.\n15 January 2018\n[S 14/2018 wef 15/01/2018]\n[G.N. No. S 23/2002]"
+   }
+  },
+  {
+   "id": "SG-H818-A900001",
+   "no": 900001,
+   "noLabel": {
+    "en": "SECOND SCHEDULE"
+   },
+   "text": {
+    "en": "SECOND SCHEDULE\nRegulation 2(1)\nSafety mark\nThe complete Safety Mark comprises a safety logo enclosed in a square on the left, the words “SAFETY MARK” enclosed in a rectangle on the right and a unique 8-digit certification number traceable to the registrant running across the bottom of the square and rectangle.\n[S 687/2018 wef 11/10/2018]"
+   }
+  },
+  {
+   "id": "SG-H818-A900002",
+   "no": 900002,
+   "noLabel": {
+    "en": "THIRD SCHEDULE"
+   },
+   "text": {
+    "en": "THIRD SCHEDULE\nRegulation 7(1) and (2)\nFees\n1. — (1) Application for registration as registered controlled goods\n$180\n(2) Application for renewal of registration of registered controlled goods\n$50\n(3) [Deleted by S 429/2025 wef 01/07/2025]\n(4) [Deleted by S 429/2025 wef 01/07/2025]\n2. [Deleted by S 429/2025 wef 01/07/2025]\n[S 429/2025 wef 01/07/2025]\n[S 14/2018 wef 15/01/2018]\n[S 429/2025 wef 01/07/2025]"
+   }
+  }
+ ]
+}

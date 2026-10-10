@@ -1,0 +1,81 @@
+{
+ "id": "SG-H3501",
+ "title": {
+  "zh": null,
+  "en": "Pensions (Expatriate Officers) Act",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p44",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Act PEOA1976",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1594,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/Act/PEOA1976?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 3 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3501-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "1. This Act may be cited as the Pensions (Expatriate Officers) Act."
+   }
+  },
+  {
+   "id": "SG-H3501-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Interpretation"
+   },
+   "text": {
+    "en": "2. In this Act —\n“Agreement” means the Public Officers’ Pension (Singapore) Agreement 1976 between the Government of the Republic of Singapore and the Government of the United Kingdom of Great Britain and Northern Ireland signed at Singapore on 26th March 1976;\n“law relating to pensions” means —\n(a)the Retirement from the Public Service (Compensation) Ordinance 1956;\n[43/56]\n(b)the Pensions Act [Cap. 225] and the regulations made thereunder; and\n(c)the Widows’ and Orphans’ Pension Act [Cap. 350];\n“officer” means an officer to whom the Public Officers Agreement between Her Majesty’s Government in the United Kingdom and the Government of Malaysia in respect of Singapore signed at Kuala Lumpur on 9th July 1964 applies or applied and who was not a citizen of Singapore on 1st April 1971 or who, having retired from the public service or having died in public service after that date, is not or was not a citizen of Singapore at the time of his retirement or death, as the case may be."
+   }
+  },
+  {
+   "id": "SG-H3501-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Law relating to pensions to cease to apply to officers and other persons falling within Agreement"
+   },
+   "text": {
+    "en": "3. With effect from 1st January 1978*, the law relating to pensions shall cease to apply to any officer or to his widow or child or to his legal personal representative in respect of whom the Government of the United Kingdom of Great Britain and Northern Ireland has assumed responsibility for the payment of pension in accordance with the provisions of the Agreement.\n* The appointed day for the purpose of the Agreement, as mutually arranged between the Government of the United Kingdom and the Government of the Republic of Singapore."
+   }
+  }
+ ]
+}

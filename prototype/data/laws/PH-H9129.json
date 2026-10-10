@@ -1,0 +1,94 @@
+{
+ "id": "PH-H9129",
+ "title": {
+  "zh": null,
+  "en": "An Act Converting the Davao Regional Hospital Into Davao Regional Medical Center, Increasing Its Bed Capacity and Appropriating Funds Therefor, Amending for the Purpose Republic Act No. 7179",
+  "orig": "An Act Converting the Davao Regional Hospital Into Davao Regional Medical Center, Increasing Its Bed Capacity and Appropriating Funds Therefor, Amending for the Purpose Republic Act No. 7179"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p130",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2015-08-26",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 10678",
+ "officialCode": null,
+ "topics": [
+  "health"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 5,
+ "chars": 1053,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra2015/ra_10678_2015.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 5 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra2015/ra_10678_2015.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H9129-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Republic Act No. 7179 is hereby amended by inserting a new Section 1 to read as follows:\n\"SECTION 1. The Davao Regional Hospital in Tagum City is hereby converted into a medical training center to be known as Davao Regional Medical Center with a capacity of six hundred (600) beds.\""
+   }
+  },
+  {
+   "id": "PH-H9129-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section 1 of the same Act is hereby deleted."
+   }
+  },
+  {
+   "id": "PH-H9129-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Section 2 of the same Act is hereby amended to read as follows:\n\"SEC. 2. The amount necessary to carry out the provisions of this Act shall be charged to the appropriations of the Department of Health. Thereafter, such amount as may be necessary for the operation and maintenance of the hospital shall be included in the annual General Appropriations Act.\""
+   }
+  },
+  {
+   "id": "PH-H9129-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "A new Section 3 is hereby inserted to read as follows:\n\"SEC. 3. The increase in bed capacity of the Davao Regional Hospital from two hundred (200) to six hundred (600) beds shall be immediately implemented upon the approval of this Act.\""
+   }
+  },
+  {
+   "id": "PH-H9129-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation."
+   }
+  }
+ ]
+}

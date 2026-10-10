@@ -1,0 +1,568 @@
+{
+ "id": "SG-H637",
+ "title": {
+  "zh": null,
+  "en": "Civil Defence (Detention) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p08",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation CDA1986-RG3",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 41,
+ "chars": 22832,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/CDA1986-RG3?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 41 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。附表 1 篇以 900000+ 序号随同收录。其中 2 条为官方正文中标注的已废止条文存根（照录）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H637-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Civil Defence (Detention) Regulations."
+   }
+  },
+  {
+   "id": "SG-H637-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2. In these Regulations, unless the context otherwise requires —\n“arrested person” means a person under arrest under the Act;\n“Board” means the Board of Visitors established under regulation 2A;\n[S 136/2016 wef 01/04/2016]\n“commandant” means —\n(a)in the case of detention barracks, an officer appointed by the Commissioner as the commandant of the detention barracks; or\n(b)in the case of a guardroom, an officer appointed by a commanding officer as the commandant of the guardroom;\n“Director Manpower” means the Director, Manpower Department of the Force;\n[S 136/2016 wef 01/04/2016]\n“guard” means a person responsible for the guarding of arrested persons or persons serving detention in detention barracks or guardrooms;\n“guardroom” means a place designated as a guardroom by a commanding officer with the approval of the Commissioner;\n[Deleted by S 136/2016 wef 01/04/2016]\n“person serving detention” means a person serving sentence of detention imposed by a disciplinary officer;\n“prison” means a prison declared as such under section 3 of the Prisons Act (Cap. 247)."
+   }
+  },
+  {
+   "id": "SG-H637-A2.001",
+   "no": 2.001,
+   "noLabel": {
+    "en": "2A."
+   },
+   "heading": {
+    "en": "Establishment, etc., of Board of Visitors"
+   },
+   "text": {
+    "en": "2A.—(1) There is established for all detention barracks a Board of Visitors.\n(2) The Board consists of not less than 4 and not more than 12 members.\n(3) Every member of the Board —\n(a)is appointed by the Minister; and\n(b)holds office for 3 years beginning on the date of the member’s appointment or for such shorter period as the Minister may specify in any particular case.\n(4) At least 2 members of the Board must be appointed from among members and former members of the Force.\n(5) The Minister must appoint a chairman of the Board from among the members of the Board.\n(6) Each member (including the chairman) of the Board is eligible for re‑appointment.\n(7) Any member (including the chairman) of the Board may at any time resign from his or her office by notice in writing to the Minister.\n(8) The Minister may at any time revoke the appointment of any member (including the chairman) of the Board, or fill any vacancy in the membership of the Board.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A2.002",
+   "no": 2.002,
+   "noLabel": {
+    "en": "2B."
+   },
+   "heading": {
+    "en": "Functions of Board of Visitors"
+   },
+   "text": {
+    "en": "2B.—(1) The functions of the Board are as follows:\n(a)to inspect the cells, yards and other places within a detention barrack and to ascertain whether the living conditions of the persons serving detention in the detention barrack are satisfactory;\n(b)to inspect the food served to the persons serving detention in a detention barrack and to ascertain whether the hygiene, quality and quantity of the food are satisfactory;\n(c)to hear, record and enquire into any complaint made by a person serving detention relating to the person’s detention in a detention barrack;\n(d)to ensure that the provisions of the standing orders issued under regulation 7 are complied with;\n(e)to call to the attention of the commandant of a detention barrack any irregularity observed by the Board in the management or operation of the detention barrack, or the treatment of any person serving detention in the detention barrack;\n(f)to perform such other duties as the Minister may assign to the Board.\n(2) The Board must visit a detention barrack at least once every month.\n(3) The Board may be represented by 2 or more of its members when the Board visits a detention barrack.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A2.003",
+   "no": 2.003,
+   "noLabel": {
+    "en": "2C."
+   },
+   "heading": {
+    "en": "Board’s report"
+   },
+   "text": {
+    "en": "2C.—(1) After each visit to a detention barrack, the Board must submit a report to the Director Manpower or any other person (who is an officer appointed to the Force) authorised by the Commissioner to receive the report.\n(2) The report must mention any irregularity observed by the Board in the management or operation of the detention barrack, or the treatment of any person serving detention in the detention barrack.\n(3) The commandant of a detention barrack must —\n(a)act on every irregularity brought to the commandant’s attention by the Director Manpower or the other person authorised under paragraph (1) to receive the Board’s report; and\n(b)report to the Director Manpower or that other person any action that has been taken by the commandant.\n(4) Every report of the Board must not be disclosed to any person other than a public officer who is authorised by the Minister or the Commissioner to see or comment on the report.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Place of custody"
+   },
+   "text": {
+    "en": "3.—(1) Subject to these Regulations —\n(a)arrested persons shall be kept in custody in guardrooms; and\n(b)persons sentenced to detention shall be kept in custody in detention barracks.\n(2) The Director Manpower may, however, direct that persons referred to in paragraph (1)(a) shall be kept in custody in detention barracks and that persons referred to in paragraph (1)(b) shall be kept in guardrooms.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Women"
+   },
+   "text": {
+    "en": "4. Women arrested and women serving detention shall be kept in such places and under such conditions as the Director Manpower may direct having due regard to decency and the special position of such women.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Temporary place of custody"
+   },
+   "text": {
+    "en": "5. When a person is placed under arrest or sentenced to detention during a state of civil defence emergency or state of emergency and he cannot be immediately delivered into a guardroom or detention barrack, he may be kept in custody in such place as his commanding officer may direct, except that he shall be kept under conditions which are not detrimental to his health and that as soon as possible he shall be delivered into a guardroom or detention barrack."
+   }
+  },
+  {
+   "id": "SG-H637-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Separation of persons in custody"
+   },
+   "text": {
+    "en": "6. Whenever practicable arrested persons shall be kept separately from persons serving detention and persons above the rank of sergeant shall be kept separately from other persons in custody."
+   }
+  },
+  {
+   "id": "SG-H637-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Standing orders"
+   },
+   "text": {
+    "en": "7. The commandant may, subject to the Act and these Regulations, issue standing orders in respect of detention barracks, guardrooms, arrested persons and persons serving detention."
+   }
+  },
+  {
+   "id": "SG-H637-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Admission to detention barracks"
+   },
+   "text": {
+    "en": "8.—(1) Before a person liable to serve detention under these Regulations is delivered to a detention barrack, the person must be examined by a medical officer.\n(2) The medical officer must certify in Form 1 set out in the Schedule whether the person is fit to undergo detention in a detention barrack.\n(3) On admission of an arrested person or a person liable to serve detention to a guardroom or detention barrack, the following procedures apply:\n(a)the commandant of the guardroom or detention barrack, or a person acting on behalf of the commandant, must examine whether there is lawful authority for keeping the person in custody;\n(b)the person must, with due regard to decency, be searched, and any article or document found on the person must, if the person is not allowed to keep it, be taken from the person and kept in safe custody;\n(c)the commandant of the guardroom or detention barrack must keep a list of the articles or documents taken from the person, and the list must be signed by the guard who took those articles or documents, and countersigned by the person;\n(d)a copy of the list must be given to the person.\n(4) A person serving detention must be issued with clothing which serves as the person’s attire during the person’s detention.\n(5) A committal order of a person serving detention must be in Form 2 set out in the Schedule.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Accommodation"
+   },
+   "text": {
+    "en": "9. A person serving detention must be kept in custody either alone in a cell, or together with 2 other persons serving detention in a cell.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Permitted articles"
+   },
+   "text": {
+    "en": "10.—(1) Subject to paragraph (2), an arrested person or a person serving detention is not allowed to keep in the person’s cell any article other than the person’s clothing issued to the person.\n(2) A commandant may permit an arrested person or person serving detention to keep any other article that the commandant deems appropriate.\n(3) An arrested person or a person serving detention is not allowed to wear any decoration, insignia or badge of rank on the person or the person’s clothing.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Searches"
+   },
+   "text": {
+    "en": "11. A commandant may at any time order a search to be conducted on any arrested person or person serving detention, the person’s cell, or the person’s personal belongings.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "12."
+   },
+   "heading": {
+    "en": "Food"
+   },
+   "text": {
+    "en": "12. Subject to regulation 24(1)(b), arrested persons or persons serving detention shall be provided with food similar to that provided to servicemen not in custody."
+   }
+  },
+  {
+   "id": "SG-H637-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "13."
+   },
+   "heading": {
+    "en": "Prohibition on smoking"
+   },
+   "text": {
+    "en": "13. No arrested person or person serving detention shall smoke or have in his possession any match or lighter, or any naked light for the purpose of lighting any tobacco or cigarette.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "14."
+   },
+   "heading": {
+    "en": "Letters"
+   },
+   "text": {
+    "en": "14.—(1) An arrested person or a person serving detention in a guardroom or detention barrack is allowed to write letters which must be sent through the commandant of the guardroom or detention barrack, as the case may be.\n(2) The commandant of a guardroom or detention barrack, or a person authorised by the commandant —\n(a)must read every letter written by or addressed to an arrested person or a person serving detention in the guardroom or detention barrack; and\n(b)must withhold any letter from the arrested person or person serving detention if the commandant or authorised person is of the opinion that the content of that letter may affect security or is undesirable in any way.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "15."
+   },
+   "heading": {
+    "en": "Parcels"
+   },
+   "text": {
+    "en": "15.—(1) An arrested person or a person serving detention is not allowed to receive any parcel or any item without the approval of the commandant.\n(2) Any parcel or item approved by the commandant under paragraph (1) must be opened and examined by or under the authority of the commandant for objectionable content.\n(3) Any parcel or item not approved by the commandant under paragraph (1) must be returned to the sender, retained in safekeeping by the commandant, or disposed of.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "16."
+   },
+   "heading": {
+    "en": "Visits"
+   },
+   "text": {
+    "en": "16.—(1) A person serving detention shall be allowed one visit per week from members of his family.\n(2) The commandant may allow additional visits per week to the person serving detention from members of his family as he may consider consistent with security and discipline.\n(3) Visits shall be made during official visiting hours."
+   }
+  },
+  {
+   "id": "SG-H637-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "17."
+   },
+   "heading": {
+    "en": "Mechanical restraint"
+   },
+   "text": {
+    "en": "17.—(1) A commandant may issue an order in writing for the mechanical restraint of an arrested person or a person serving detention to prevent him from inflicting injuries to himself or others, damaging property, creating a disturbance or escaping.\n(2) Mechanical restraint shall not be ordered for the purpose of punishment.\n(3) Arrested persons or persons serving detention may be handcuffed to one another in transit.\n(4) An order made under paragraph (1) —\n(a)must be in Part 1 of Form 3 set out in the Schedule; and\n(b)must state the type and manner of restraint that is to be applied, and the period (not exceeding 12 hours) during which the restraint is to be applied.\n[S 136/2016 wef 01/04/2016]\n(5) Mechanical restraint shall only be by means of handcuffs, except that the commandant may, when handcuffs cannot efficiently secure arrested persons or persons serving detention, order any other means or manner of restraint with the approval of and subject to such conditions as may be laid down by a medical officer.\n(5A) An approval of a medical officer under paragraph (5) must be in Part 2 of Form 3 set out in the Schedule.\n[S 136/2016 wef 01/04/2016]\n(6) Mechanical restraint may be applied to an arrested person or a person serving detention before the issue of an order under paragraph (1) only in a case of extreme urgency when an order in writing cannot be obtained. The commandant shall in such cases issue forthwith an order in writing."
+   }
+  },
+  {
+   "id": "SG-H637-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "18."
+   },
+   "text": {
+    "en": "18. [Deleted by S 136/2016 wef 01/04/2016]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H637-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "19."
+   },
+   "text": {
+    "en": "19. [Deleted by S 136/2016 wef 01/04/2016]"
+   },
+   "status": "repealed"
+  },
+  {
+   "id": "SG-H637-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "20."
+   },
+   "heading": {
+    "en": "Escape from custody"
+   },
+   "text": {
+    "en": "20.—(1) Any person who discovers the escape from custody of another or who has any knowledge which may assist in the apprehension of such person shall immediately report to the commandant.\n(2) The commandant shall forthwith inform any case of escape from custody to the police, the provost unit of the Force, his commanding officer and to the Director Manpower.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "21."
+   },
+   "heading": {
+    "en": "Temporary release"
+   },
+   "text": {
+    "en": "21.—(1) The commandant of a detention barrack may, on the application of a person serving detention at the detention barrack or an immediate family member of the person and on compassionate grounds, grant the person temporary release for a period not exceeding 48 hours from the detention barrack.\n(2) The temporary release period under paragraph (1) does not count as part of the period of detention served by the person.\n(3) A certificate of temporary release must be in Form 4 set out in the Schedule.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A21.001",
+   "no": 21.001,
+   "noLabel": {
+    "en": "21A."
+   },
+   "heading": {
+    "en": "Release under escort"
+   },
+   "text": {
+    "en": "21A.—(1) The commandant of a detention barrack may, on the application of a person serving detention at the detention barrack or an immediate family member of the person and on compassionate grounds, allow the person to leave the detention barrack under escort for such period as the commandant may determine.\n(2) The period under paragraph (1) counts as part of the period of detention served by the person.\n(3) An order for release under escort must be in Form 4A set out in the Schedule.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "22."
+   },
+   "heading": {
+    "en": "Remission"
+   },
+   "text": {
+    "en": "22.—(1) Subject to paragraph (3), a person serving detention shall be entitled to have part of his sentence remitted in accordance with the following provisions:\n(a)if his sentence does not exceed 30 days — nil;\n(b)if the person’s sentence exceeds 30 days but does not exceed 40 days — a period equal to the number of days by which the sentence exceeds 30 days;\n[S 136/2016 wef 01/04/2016]\n(c)if the person’s sentence exceeds 40 days — subject to paragraph (1A), a period equal to one‑third of the period of the person’s sentence.\n[S 136/2016 wef 01/04/2016]\n(1A) If, after deducting the period referred to in paragraph (1)(c) from the period of the person’s sentence of detention, the total period of detention is less than 30 days, the period of remission is equal to the number of days by which the person’s sentence of detention exceeds 30 days.\n[S 136/2016 wef 01/04/2016]\n(1B) Any remission of sentence must be awarded upon the sentencing of the person serving detention.\n[S 136/2016 wef 01/04/2016]\n(2) For the purposes of calculating the remission, a portion of a day shall be ignored.\n(3) If a person serving detention misbehaves, the Director Manpower may, on the recommendation of the commandant of the detention barrack, and by an order for withdrawal of remission in Form 4B set out in the Schedule, withdraw the whole or any part of the remission awarded to the person.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "23."
+   },
+   "heading": {
+    "en": "Minor offences"
+   },
+   "text": {
+    "en": "23. An arrested person or a person serving detention in a detention barrack is guilty of a minor offence if the person —\n(a)shows disrespect to any guard, any person working in the guardroom or detention barrack, any member (including the chairman) of the Board visiting the detention barrack or any other visitor of the detention barrack;\n(b)is idle, careless or negligent;\n(c)uses any abusive, insolent, threatening or other improper language;\n(d)without the permission of the commandant or a guard, communicates with any person;\n(e)without the permission of the commandant or a guard, leaves the person’s cell or any other place appointed by the commandant;\n(f)commits any nuisance;\n(g)has, in the person’s cell or possession, any unauthorised article;\n(h)gives or receives from any person any unauthorised article;\n(i)refuses without any reasonable cause to eat the food provided in the guardroom or detention barrack;\n(j)omits or refuses to wear the clothing given to the person, or loses, discards, damages or alters any part of it;\n(k)refuses to undergo medical treatment or examination when required by a guard to do so;\n(l)does not comply with any standing orders issued under regulation 7;\n(m)does not comply with any lawful order of a guard; or\n(n)does any other act to the prejudice of good order or discipline in the guardroom or detention barrack.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "24."
+   },
+   "heading": {
+    "en": "Punishment for minor offences"
+   },
+   "text": {
+    "en": "24.—(1) Any person who commits a minor offence under regulation 23 shall, after being given an opportunity to be heard, be liable to be punished by the commandant with any one or more of the following punishments:\n(a)close confinement for a period not exceeding 3 days;\n(b)restricted diet for a period not exceeding 7 days;\n[S 136/2016 wef 01/04/2016]\n(c)forfeiture of any privilege granted to the person.\n[S 136/2016 wef 01/04/2016]\n[S 136/2016 wef 01/04/2016]\n(2) A person under close confinement shall not be allowed to leave his cell or to communicate with any other person without the permission of the commandant and shall only be allowed to read materials authorised by the commandant.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "25."
+   },
+   "heading": {
+    "en": "Major offences"
+   },
+   "text": {
+    "en": "25. The following are major offences:\n(a)mutiny;\n(b)escaping or attempting to escape from custody;\n(c)causing any self-inflicted injury;\n(d)assaulting, or taking part in any assault on, any person in a guardroom or detention barrack;\n(e)vandalising or damaging the property in a guardroom or detention barrack;\n(f)wilfully making a false or groundless accusation or complaint against any guard or person serving detention in a detention barrack;\n(g)repeating any minor offence after having been punished on 2 separate occasions for 2 separate instances of committing the same minor offence;\n(h)any other act of gross misconduct or insubordination;\n(i)abetting the commission of any offence referred to in paragraphs (a) to (h).\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "26."
+   },
+   "heading": {
+    "en": "Investigation of major offences"
+   },
+   "text": {
+    "en": "26. All major offences shall be investigated forthwith and dealt with in accordance with Part VII of the Act."
+   }
+  },
+  {
+   "id": "SG-H637-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "27."
+   },
+   "heading": {
+    "en": "Physical force"
+   },
+   "text": {
+    "en": "27.—(1) Subject to paragraph (2), a guard of a detention barrack must not use physical force on any arrested person or a person serving detention.\n(2) A guard may use such physical force as is necessary —\n(a)to subdue an aggressive arrested person or an aggressive person serving detention; or\n(b)in self-defence or to defend another person in the detention barrack.\n(3) Where a guard uses a baton or any other object on an arrested person or a person serving detention in the circumstances set out in paragraph (2), the guard must attempt to strike only the non‑vital parts of the person’s body.\n(4) A medical officer must —\n(a)examine an arrested person or a person serving detention on whom physical force is used as soon as possible; and\n(b)submit a written report of the examination to the commandant.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "28."
+   },
+   "heading": {
+    "en": "Medical observations"
+   },
+   "text": {
+    "en": "28. The commandant shall ensure that every arrested person or person serving detention who is —\n(a)in close confinement;\n(b)subject to any form of mechanical restraint;\n(c)undergoing restricted diet; or\n(d)sick, or complains of sickness,\nis under periodic medical observation."
+   }
+  },
+  {
+   "id": "SG-H637-A28.001",
+   "no": 28.001,
+   "noLabel": {
+    "en": "28A."
+   },
+   "heading": {
+    "en": "Examination for infectious diseases"
+   },
+   "text": {
+    "en": "28A.—(1) A commandant may, at any time, require any arrested person or person serving detention to undergo a medical examination by a medical officer for the purposes of ascertaining whether the person is suffering from, or is a carrier of, any infectious disease.\n(2) An arrested person or a person serving detention must comply with any requirement of the commandant under paragraph (1).\n(3) A commandant may, in the case of any arrested person or person serving detention who refuses to undergo a medical examination under paragraph (1) or refuses to provide any sample necessary for such medical examination, direct that the person be detained separately until the person has undergone the medical examination.\n(4) Where a medical officer ascertains that an arrested person or a person serving detention is suffering from, or is a carrier of, any infectious disease, the medical officer must immediately give a written report to the commandant.\n(5) A commandant may, upon receiving the written report under paragraph (4), direct that the arrested person or person serving detention be detained separately until a medical officer certifies that —\n(a)the person is free from infection; or\n(b)the risk of spreading the infectious disease to other persons has been eliminated.\n(6) In this regulation, “infectious disease” has the same meaning as in section 2 of the Infectious Diseases Act (Cap. 137).\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "29."
+   },
+   "heading": {
+    "en": "Complaints"
+   },
+   "text": {
+    "en": "29.—(1) An arrested person or a person serving detention who feels aggrieved about any matter may complain to the commandant.\n(2) It is the duty of the commandant to investigate any complaint made to him and take such steps to redress the matter complained of as appear to him to be necessary."
+   }
+  },
+  {
+   "id": "SG-H637-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "30."
+   },
+   "heading": {
+    "en": "Detention in prison"
+   },
+   "text": {
+    "en": "30.—(1) The Commissioner may order a person on whom a sentence of detention has been passed to be detained in a prison temporarily for any period not exceeding 7 days if —\n(a)it is impracticable for the person serving detention to be detained in a detention barrack; or\n(b)it is desirable for the person serving detention to be detained in a prison.\n(2) The committal order shall be in Form 5 set out in the Schedule.\n(3) A person who is temporarily detained in a prison shall for all purposes be subject to the Prisons Act (Cap. 247) and any regulations made thereunder.\n(4) The authority committing a person serving detention to a prison shall order the return of the person to a detention barrack on the expiration of the authorised period.\n(5) The order of return shall be in Form 6 set out in the Schedule."
+   }
+  },
+  {
+   "id": "SG-H637-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "31."
+   },
+   "heading": {
+    "en": "Publication"
+   },
+   "text": {
+    "en": "31. A copy of these Regulations or a sufficient abstract thereof, in a form approved by the Director Manpower shall be displayed conspicuously in all detention barracks and guardrooms, and in such other places so that they can be seen by every arrested person or person serving detention.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "32."
+   },
+   "heading": {
+    "en": "Discipline"
+   },
+   "text": {
+    "en": "32. Every arrested person or person serving detention must comply with the standing orders issued by the commandant under regulation 7.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "33."
+   },
+   "heading": {
+    "en": "Record of offences and punishments"
+   },
+   "text": {
+    "en": "33.—(1) The commandant must cause to be entered in a register a record of the punishments imposed on every arrested person or person serving detention, showing, in respect of each person punished —\n(a)the name of the person;\n(b)the nature of the offence; and\n(c)the nature and extent of the punishment.\n(2) The register referred to in paragraph (1) must be open for inspection by the Board.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "34."
+   },
+   "heading": {
+    "en": "Medical examination"
+   },
+   "text": {
+    "en": "34.—(1) Before a person serving detention is discharged from a detention barrack, the person must be examined by a medical officer for any fresh marks, injuries or tattoos on any part of the person’s body which were not previously recorded upon the person’s admission or during the person’s detention.\n(2) The medical officer must immediately inform the commandant of a detention barrack if the medical officer finds any fresh marks, injuries or tattoos on the body of the person serving detention.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "35."
+   },
+   "heading": {
+    "en": "Date of release"
+   },
+   "text": {
+    "en": "35. If the date of release of a person serving detention falls on a Sunday or public holiday, the person must be released on a preceding day that is not a Sunday or public holiday.\n[S 136/2016 wef 01/04/2016]"
+   }
+  },
+  {
+   "id": "SG-H637-A900000",
+   "no": 900000,
+   "noLabel": {
+    "en": "THE SCHEDULE"
+   },
+   "text": {
+    "en": "THE SCHEDULE\n[S 136/2016 wef 01/04/2016]\n[S 136/2016 wef 01/04/2016]\n[S 136/2016 wef 01/04/2016]\n[S 136/2016 wef 01/04/2016]\n[S 163/2016 wef 01/04/2016]\n[S 136/2016 wef 01/04/2016]\n[136/2016 wef 01/04/2016]\n[S 136/2016 wef 01/04/2016]"
+   }
+  }
+ ]
+}

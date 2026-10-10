@@ -1,0 +1,321 @@
+{
+ "id": "BN-PROOF-OF-DEBTS-RULES",
+ "title": {
+  "zh": null,
+  "en": "Proof of Debts Rules",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p13",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 22,
+ "chars": 9065,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "proof-of-debts-rules.pdf",
+ "fetchedAt": "2026-10-09",
+ "completenessNote": "来源为 AGC 官方 PDF《proof-of-debts-rules.pdf》（6 页），本次切分 22 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "These rules may be cited as the Proof of Debts Rules."
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "In these rules \"the Act\" means the Bankruptcy Act. tion"
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "heading": {
+    "en": "Debts to be proved without delay"
+   },
+   "text": {
+    "en": "Every creditor shall prove his debt as soon as may be after the making of a receiving order."
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "heading": {
+    "en": "of proving debts"
+   },
+   "text": {
+    "en": "A debt may be proved by delivering or sending through the post in a prepaid letter to the Official Receiver, or if a trustee has been appointed, to the trustee, an affidavit verifying the debt."
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "heading": {
+    "en": "Proving by affidavit"
+   },
+   "text": {
+    "en": "The affidavit may be made by the creditor himself or by some person authorised by or on behalf of the creditor and having knowledge If made by a person so authorised, it shall state his authority and means of knowledge. .. , of 6. The affidavit shall contain or refer to a statement of account showing the particulars of the debt, and shall specify the vouchers, if any, by which the same can be substantiated. The Official Receiver or at any time call for the production of the vouchers."
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "heading": {
+    "en": "Affidavit to state whether or not debt secured"
+   },
+   "text": {
+    "en": "The affidavit shall state whether the creditor is or is not a secured creditor, and if it is found at any time that the affidavit made by or on or not debt behalf of a secured creditor has omitted to state that he is a secured creditor, the secured creditor shall surrender his security to the Official or trustee for the general benefit of the creditors unless the Court on application is satisfied that the omission has arisen from inadvertence, and in that case the Court may allow the affidavit to be amended upon such terms as to the repayment of any dividends or as the Court may consider just. Cost of pro-8. A creditor shall bear the cost of proving his debt unless the Court otherwise specially orders."
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "heading": {
+    "en": "1 0. Deduction of trade discounts"
+   },
+   "text": {
+    "en": "Every creditor who has lodged a proof shall be entitled to see and Fees for ex· examine the proofs of other creditors before the first meeting, and at all ~~~~~t~n of reasonable times on payment of the prescribed fee."
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "text": {
+    "en": "A creditor proving his debt shall deduct therefrom all trade dis-Deduction of counts, but he shall be compelled to deduct any discount, not exceeding trade dis5 of his claim, which he may have agreed to counts per cent allow for payment in cash. by secured creditors"
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "heading": {
+    "en": "Secured creditor may realise security"
+   },
+   "text": {
+    "en": "If a secured creditor realises his security he may prove for the Secured erebalance due to him, after deducting the net amount realised. ity"
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "heading": {
+    "en": "Secured creditor may surrender security"
+   },
+   "text": {
+    "en": "If a secured creditor surrenders his security to the Official Receiv-Secured creer or trustee for the general benefit of the creditors, he may prove for his ~~~~~:;dir"
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "heading": {
+    "en": "Secured creditor may value security"
+   },
+   "text": {
+    "en": "If a secured creditor does not either realise or surrender his secur-Secured creity he shall, before ranking for dividend, state in his proof the particulars of his security, the date when it was given and the value at which he assesses it, and shall be entitled to receive a dividend only in respect of the balance due to him after deducting the value so assessed."
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "heading": {
+    "en": "of valued securities"
+   },
+   "text": {
+    "en": "(1) Where a security is so valued the trustee may at any time Redemption on payment to the creditor of the assessed value.\n\n(2) If the trustee is dissatisfied with the value at which a security is assessed he may require that the property comprised in any security so valued be offered for sale at such times and on such terms and conditions as may be agreed on between the creditor and the trustee or as, in of such agreement, the Court may direct. If the sale be by public auction the creditor, or the trustee on behalf of the estate, may bid or Provided that the creditor may at any time by notice in writing require the trustee to elect whether he will or will not exercise his power of redeeming the security or requiring it to be realised, and if the trustee does not within 6 months after receiving the notice signify in writing to the creditor his election to exercise the power, he shall not be entitled to exercise it; and the equity of redemption, or any other interest in the property comprised in the security which is vested in the trustee, shall vest in the creditor and the amount of his debt shall be reduced by the amount at which the security has been valued. B.L.R.O. 1/1984 118 CAP. 67 l"
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "heading": {
+    "en": "Amended valuations"
+   },
+   "text": {
+    "en": "Where a creditor has so valued his security he may at any time amend the valuation and proof on showing to the satisfaction of the or the Court that the valuation and proof were made in good on a mistaken estimate or that the security has diminished or increased in value since its previous valuation; but every such amendbe made at the cost of the creditor and upon such terms as the - shall order, unless the trustee allows the amendment without application to the Court. of 16. Where a valuation has been amended in accordance with rule 15 the creditor shall forthwith repay any surplus dividend which he may have received in excess of that to which he would have been entitled on the amended valuation or, as the case may be, shall be entitled to be paid out of any money, for the time being available for dividend, any or share of dividend which he may have failed to receive by of the inaccuracy of the original valuation, before that money is made applicable to the payment of any future dividend, but he shall not be entitled to disturb the distribution of any dividend declared before of the amendment."
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "heading": {
+    "en": "Procedure when valued security is realised"
+   },
+   "text": {
+    "en": "If a creditor after having valued his security subsequently realises it, or if it is realised under the provisions of rule 14, the net amount is realised shall be substituted for the amount of any valuation previously the creditor, and shall be treated in all respects as an amended valuation made by the creditor."
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "heading": {
+    "en": "Secured creditor must comply with rules"
+   },
+   "text": {
+    "en": "If a secured creditor does not comply with the foregoing rules he shall be excluded from all share in any dividend."
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "heading": {
+    "en": "Maximum amount creditor may receive"
+   },
+   "text": {
+    "en": "Subject to the provisions of rule 14, a creditor shall in no case cre-receive more than the full amount of his debt, and interest as provided by the Act. · in respect of distinct contracts of dis-20. If a debtor was at the date of the receiving order liable in respect of distinct contracts as a member of 2 or more distinct firms, or as a sole and also as member of a firm, the circumstance that the firms or part composed of the same individuals, or that the sole contractor is also one of the joint contractors, shall not prevent proof in of the contracts, against the properties respectively liable on the I Subsidiary 1 Periodical payments"
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "heading": {
+    "en": "Proportional payments"
+   },
+   "text": {
+    "en": "When any rent or other payment falls due at stated periods and Proportional the receiving order is made at any time other than one of those periods, payments the person entitled to the rent or payment may prove for a proportionate part thereof up to the date of the order as if the rent or payment became due from day to day."
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "heading": {
+    "en": "Proving for interest"
+   },
+   "text": {
+    "en": "or sum certain, payable at a certain time or other-Proving for wise, whereon interest is not reserved or agreed and which is overdue at interest the date of the receiving order and provable in bankruptcy, the creditor may prove for interest at a rate not exceeding 8 per cent per annum to the date of the order from the time when the debt or sum was payable, if is payable by virtue of a written instrument at a certain time, and if payable otherwise, then from the time when a demand in writing has been made giving the debtor notice that interest will be claimed from the date of the demand until the time of payment. Debt payable at a future time"
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "heading": {
+    "en": "Interest on debts payable in future"
+   },
+   "text": {
+    "en": "A creditor may prove for a debt not payable when the debtor Interest on committed an act of bankruptcy as if it were payable presently, and may debts payable receive dividends equally with the other creditors, deducting only thereout a rebate of interest at the rate of 5 per cent per annum computed from the declaration of a dividend to the time when the debt would have become payable, according to the terms on which it was contracted. Admission or rejection of proofs"
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "heading": {
+    "en": "Admission and rejection of proofs"
+   },
+   "text": {
+    "en": "The trustee shall examine every proof and the grounds of the Admission in writing admit or reject it in whole or in part or require and rejection . further evidence in support of it. If he rejects a proof he shall state in of proofs writing to the creditor the grounds of the rejection."
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "heading": {
+    "en": "B.L.R.O. l!J984"
+   },
+   "text": {
+    "en": "If the trustee thinks that proof has been improperly admitted the Expunging of -. Court may, on the application of the trustee, after the notice to the proof creditor who made the proof, expunge the proof or reduce its amount."
+   }
+  },
+  {
+   "id": "BN-PROOF-OF-DEBTS-RULES-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "heading": {
+    "en": "Creditor may apply to Court if dissatisfied"
+   },
+   "text": {
+    "en": "If a creditor is dissatisfied with the decision of the trustee in Creditor may respect of a proof the Court may, on the application of the creditor C'~i't W dis· or vary the decision. The Official Receiver or trustee shall not satisfied be personally liable for any costs in respect of the rejection by him in or in part of any proof unless it is proved to the satisfaction of the Court that he has acted in bad faith or with gross negligence. B.L.R.O. 111984 may 27. The Court may also expunge or reduce a proof upon the application of a creditor if the trustee declines to interfere in the matter, or in if trusthe case of a composition or scheme, upon the application of the debtor. of Of-28. The Official Receiver before the appointment of a trustee shall have all the powers of a trustee with respect to the examination, admiser before sion and rejection of proofs, and any act or decision of his in relation of trustee thereto shall be subject to the like appeal."
+   }
+  }
+ ]
+}

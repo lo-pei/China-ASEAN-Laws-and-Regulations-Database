@@ -1,0 +1,842 @@
+{
+ "id": "KH-H3896",
+ "title": {
+  "zh": null,
+  "en": null,
+  "orig": null
+ },
+ "country": "KH",
+ "countryName": "柬埔寨",
+ "layer": "intl",
+ "pack": "kh-p04",
+ "language": "en",
+ "level": null,
+ "category": null,
+ "status": null,
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 80,
+ "chars": 60690,
+ "source": {
+  "name": "柬埔寨 — Law on Insolvency_071016",
+  "url": "https://cdc.gov.kh/wp-content/uploads/2022/04/Law-on-Insolvency_full-text_071016.pdf"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-08",
+ "completenessNote": "全文，共 80 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。（本次由归档原件补录入库）",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "KH-H3896-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1."
+   },
+   "text": {
+    "en": "Article 1.\n\nThis Law has the objective to establish the rules, conditions, procedures, and proceedings\ngoverning the insolvency in the Kingdom of Cambodia."
+   }
+  },
+  {
+   "id": "KH-H3896-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Article 2."
+   },
+   "text": {
+    "en": "Article 2.\n\nThis Law has the objective to provide collective, or derly and fair satisfaction of creditors’ claims\nout of a debtor’s properties and, where the parties in interest deem appropriate, the\nrehabilitation of the business of the debtor.\nArticle 3.\n\nThis Law governs on all businessmen and legal entities that own assets in the Kingdom of\nCambodia."
+   }
+  },
+  {
+   "id": "KH-H3896-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Article 4.\n\nThe technical terms used in this Law, shall have the following meanings:"
+   },
+   "text": {
+    "en": "Article 4.\n\nThe technical terms used in this Law, shall have the following meanings:\n\n(1)  “Insolvency” refers to the situation when businessman and legal entity cannot repay debt\nand is pronounced insolvent by the court.\n\n(2) “Claim” means any right to receive payment from the debtor or from assets of the debtor\nwhich arose before the opening of insolvency proceedings, regardless of whether such\nclaim is conditional, unliquidated or contingent, unless expressly qualified as an\n“administrative claim”.\n\n(3)  “Company” refers to a private limited company and public limited company formed under\nthe Law of Commercial Enterprises.\n\n(4)  “Costs of the proceedings” and “costs of the resumed proceedings” mean the court’s\nfees and costs and the remuneration, fees and expenses of the administrator.\n\n(5) “Court” means a court which, under the laws of the Kingdom of Cambodia, has\njurisdiction over insolvency proceedings opened under this Law.\n\n(6)  “Partnership” means a general or limited partnership formed under the Law of\nCommercial Enterprises.\n\n(7)  “Related person” means:\n\n(a)  in the case of a debtor which is not a natural person, any shareholder, director,\npartner or manager of the debtor;\n\n(b) in the case of a debtor which is not a natural person, the debtor’s spouse or, the\nspouse of any shareholder, director, partner or manager of the debtor;\n\n(c) any ascendant or descendant of the debtor or of any person described in\nparagraphs (a) and (b);\n\n(d) the spouse of any person described in paragraph (c);\n\n(e) any child, or the spouse of any child, of the debtor or of any person described in\nparagraphs (a) to (d);\n\n(f) any person described in paragraphs (a) to (e) who holds more than five percent\n(5%) of the shares, or is a director or a manager;\n\n(g) any partnership in which a person described in paragraphs (a) to (e) is a partner\nor a manager;\n\n(h) any legal person formed under the laws of a foreign country in which a person\ndescribed in paragraphs (a) to (e) holds more than five percent (5%) of the\ncapital, or is a director, a manager or a partner;\n\n(i) in the case of a debtor who is a natural person, any person living in the debtor’s\nhousehold;\n\n(j) any natural or legal person who, by reason of its professional or commercial\nrelationship with the debtor, has access to confidential information about the\nfinancial or commercial affairs of the debtor; or\n\n(k) any creditor whose claim against the debtor exceeds five percent (5%) of the\ntotal value of all creditors’ claims against the debtor.\n\n(8) “Creditor” means any natural or legal person who owns a claim against the debtor or\nassets of the debtor.\n\n(9) “Secured Creditor” means creditor who owns a claim against the debtor’s assets with\nsecured obligations. Such creditor has priority to receive payment over other creditors.\n\n(10) “Debtor” means any natural or legal person who is insolvent.\n\n(11) “Payment Settlement” means, in the case of a creditor incidentally becomes debtor, both\nparties can settle their respective debt obligations.\n\n(12) “Creditor Committee” means committee appointed by creditors among all creditors in\norder to fulfill the roles representing the interest of all creditors."
+   }
+  },
+  {
+   "id": "KH-H3896-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Article 5."
+   },
+   "text": {
+    "en": "Article 5.\n\n(1) An appeal shall not operate as a stay on the execution of the court’s ruling.\n\n(2) Unless this Law contains special provisions, the provisions of the Code of Civil\nProcedure shall apply mutatis mutandis.\n\nCHAPTER 2\nOPENING OF INSOLVENCY PROCEEDINGS –\nSUBJECTS, GROUNDS AND PETITION"
+   }
+  },
+  {
+   "id": "KH-H3896-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Article 6.\n\n(1) Insolvency proceedings may be opened under this Law against a debtor who is:"
+   },
+   "text": {
+    "en": "Article 6.\n\n(1) Insolvency proceedings may be opened under this Law against a debtor who is:\n\n(a) a partnership or legal entity formed under the laws of the Kingdom of Cambodia;\n\n(b) a natural person who is domiciled and own assets in the Kingdom of Cambodia;\n\n(c) a partnership or legal person formed under the laws of a foreign country which\nowns assets situated in the Kingdom of Cambodia; and\n\n(d) a natural person who is domiciled outside the Kingdom of Cambodia and who\nowns assets situated in the Kingdom of Cambodia.\n\n(2) Insolvency proceedings opened under this Law against the persons or partnerships set\nout in paragraphs (1)(c) and (1)(d) of this Article shall apply only to the assets of such\npersons or partnerships which are situated in the Kingdom of Cambodia and having its\nregistered address in the Kingdom of Cambodia. The following shall be considered\nassets situated in the Kingdom of Cambodia:\n\n(a) tangible assets located within the territory of the Kingdom of Cambodia;\n\n(b) assets and rights for which the ownership of or entitlement to must be entered in\na public register under the authority of the Royal Government of Cambodia; and\n\n(3) Insolvency proceedings shall not be opened under this Law against any debtor or\ncreditor which is a covered entity under the Law on Banking and Financial Institutions,\nLaw on Insurance and Law on Non-Government Securities, unless provided for in those\nlaws."
+   }
+  },
+  {
+   "id": "KH-H3896-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Article 7."
+   },
+   "text": {
+    "en": "Article 7.\n\n(1) In the case of a petition by the debtor, a creditor or creditors, the failure of a debtor to\nmeet one or more valid and mature obligations, other than obligations which give rise to\nclaims of the kind mentioned in Article 36(3) to Article 36(9), to pay an aggregate amount\nin excess of Five Million Riels (Riels 5,000,000) shall be a ground for the opening of\ninsolvency proceedings with respect to the debtor.\n\n(2) The Minister of Justice may change the minimum amount of obligation required for the\nopening of insolvency proceedings set out in the first paragraph."
+   }
+  },
+  {
+   "id": "KH-H3896-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Article 8."
+   },
+   "text": {
+    "en": "Article 8.\n\n(1) A petition to open insolvency proceedings may be filed by a debtor, one or more\ncreditors, the Director of Companies or the public prosecutor.\n\n(2) A petition to open insolvency proceedings shall be made in writing and shall be signed\nby the petitioner.  The petition shall contain the following information:\n\n(a) the name and address of the debtor;\n\n(b) the name and address of the petitioner;\n\n(c) the ground or grounds under Article 7 on which the petition is based;\n\n(d) a description of the circumstances showing the existence of the ground or\ngrounds for the petition;\n\n(e) evidence on which the petition is based, including an attachment of any\ndocuments which could substantiate the petition; and\n\n(f) in the case of a petition by the debtor, a list of all known creditors of the debtor,\nindicating the names of the creditors, their addresses and the amounts of their\nrespective claims.\n\n(3) The examination of petition, payment of court fee, secured petition shall comply with the\nprovisions of the Code of Civil Procedure.\nArticle 9.\n\n(1) A debtor that has ceased to meet its mature and valid obligations to pay as mentioned in"
+   }
+  },
+  {
+   "id": "KH-H3896-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Article 7 shall, within thirty (30) days of such cessation, petition for the opening of"
+   },
+   "text": {
+    "en": "Article 7 shall, within thirty (30) days of such cessation, petition for the opening of\ninsolvency proceedings against itself.\n\n(2) In the case of a debtor who is a natural person, it shall be his duty to ensure that a\npetition is filed pursuant to paragraph (1). In the case of a debtor which is a partnership\nor a company, it shall be the duty of every individual director, partner or manager, as the\ncase may be, to ensure that a petition is filed pursuant to paragraph (1).\n\n(3) Any person who, intentionally or with gros s negligence, fails to discharge the duty under\nparagraph (2) shall be personally liable to the debtor’s creditor or creditors for damages\nthat result directly from such failure. If the duty under paragraph (2) falls on more than\none person, all such persons, acting intentionally or with gross negligence, shall be\njointly and severally liable for damages that result directly from the failure to observe the\nduty. Should insolvency proceedings be commenced against the debtor, such damages\nshall be included in the estate and the administrator shall act on behalf of all creditors in\ntheir recovery."
+   }
+  },
+  {
+   "id": "KH-H3896-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Article 10."
+   },
+   "text": {
+    "en": "Article 10.\n\nA creditor’s petition, or a petition by director of companies or public prosecutor, shall be served\non the debtor no later than seven (7) days after the petition has been filed with the court."
+   }
+  },
+  {
+   "id": "KH-H3896-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Article 11."
+   },
+   "text": {
+    "en": "Article 11.\n\n(1) From the time of the filing of a petition to the court’s issuance of its ruling whether to\nopen insolvency proceedings, the court shall, upon the written application of the debtor,\nany creditor, the director of companies or the public prosecutor, issue a ruling to appoint\na administrator.\n\n(2) The administrator shall take all necessary or appropriate measures to protect the interest\nof creditors. In particular, he may apply, if necessary and unless the court so rules on its\nown motion, to the court for injunctive relief operating a freezing of assets or a stay of\naction by secured or unsecured creditors against the debtor or assets of the estate.\n\n(3) Any rulings of the court made under paragraphs (1) and (2) shall be notified to the\nconcerned stakeholders and publicly published in the daily newspapers.\n\nCHAPTER 3\nDECISION ON THE PETITION TO OPEN INSOLVENCY PROCEEDINGS"
+   }
+  },
+  {
+   "id": "KH-H3896-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Article 12."
+   },
+   "text": {
+    "en": "Article 12.\n\n(1) A petition by the debtor shall be heard by the court as soon as possible after it is filed\nand in any event no later than fifteen (15) days after the petition is filed.\n\n(2) A petition by a creditor, the director of companies or the public prosecutor shall be heard\nby the court no later than thirty (30) days after the petition has been served on the\ndebtor.\n\n(3) The debtor, any creditor, the director of companies and the public prosecutor shall be\nentitled to participate in the hearing."
+   }
+  },
+  {
+   "id": "KH-H3896-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Article 13."
+   },
+   "text": {
+    "en": "Article 13.\n\n(1) If the court is satisfied, after the hearing of the petition, of the existence of the ground or\ngrounds on which the petition is based, the court shall issue a written ruling:\n\n(a) opening insolvency proceedings against the debtor;\n\n(b) appointing an administrator under Article 11 of this law;\n\n(c) announcing a date for the opening creditors’ meeting, which shall be on a day no\nearlier than thirty (30) days but no later than sixty (60) days after the opening of\nthe insolvency proceedings; and\n\n(d) specifying the deadline for the filing of proofs of claims, which shall be seven (7)\ndays before the date of the opening creditors’ meeting.\n\n(2) In determining the date of the opening creditors’ meeting, the court shall take into\naccount whether the debtor has submitted a proposed plan of compromise which the\ndebtor represents that it has or does not have the support of creditors.\n\n(3) If the court is satisfied, after the hearing of the petition, that the ground or grounds on\nwhich the petition is based do not exist or, in the case of a petition by the debtor or by a\ncreditor acting in concert with the debtor, that the debtor’s failure to meet his obligations\nis frivolous or was made in bad faith, the court shall issue a written ruling dismissing the\npetition.\n\n(4) The court’s ruling to open insolvency proceedings or to dismiss the petition shall be\nissued no later than fourteen (14) days after the hearing of the petition.\n\n(5) The debtor or any creditor may appeal the court’s ruling within seven (7) days after the\nissuance of the ruling."
+   }
+  },
+  {
+   "id": "KH-H3896-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Article 14."
+   },
+   "text": {
+    "en": "Article 14.\n\n(1) The court may, when it issues the ruling to open insolvency proceedings, or at any time\nthereafter, rule that the liquidation of the debtor’s business be commenced forthwith on\nthe ground that the rehabilitation of the debtor’s business is not feasible and that it is\nunlikely that a plan of compromise will be approved.\n\n(2) The court may make a ruling under paragraph (a) either on its own motion or upon the\napplication of the debtor, the administrator, any creditor, the director of companies or the\npublic prosecutor."
+   }
+  },
+  {
+   "id": "KH-H3896-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Article 15."
+   },
+   "text": {
+    "en": "Article 15.\n\nThe insolvency proceedings shall be considered opened on the date of the court ruling opening\nthe insolvency proceedings."
+   }
+  },
+  {
+   "id": "KH-H3896-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Article 16."
+   },
+   "text": {
+    "en": "Article 16.\n\n(1) Insolvency proceedings shall not be opened and the petition shall be dismissed if the\ndebtor’s assets will likely be insufficient to cover the costs of the proceedings, unless a\nsufficient amount of money is advanced by a related person to cover such costs.\n\n(2) Anyone advancing an amount of money under paragraph (1) may, within five (5) years\nfrom the time the amount is advanced, claim reimbursement of the advanced amount\nfrom any person who failed to discharge his duty to petition for the opening of insolvency\nproceedings against the debtor at the time the petition was filed. In the event of a dispute\nas to whether such person failed to discharge his duty, such person shall bear the\nburden of proving that he did not fail to discharge his duty."
+   }
+  },
+  {
+   "id": "KH-H3896-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Article 17."
+   },
+   "text": {
+    "en": "Article 17.\n\n(1) When dismissing a petition for lack of grounds, the court shall also issue a ruling\nrequiring the petitioner to reimburse the debtor, or the creditors, as the case may be, for\nall reasonable legal costs incurred by such party or parties in attending to the petition.\n\n(2) If the court finds that the petition was filed frivolously, maliciously or with intent to do\nwrongful harm to the debtor or creditors, the court may further rule that the petitioner be\nheld liable to such party or parties for all damages incurred by the party or parties as a\nresult of the petition."
+   }
+  },
+  {
+   "id": "KH-H3896-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Article 18."
+   },
+   "text": {
+    "en": "Article 18.\n\n(1) A court ruling opening insolvency proceedings shall be publicly published in daily\nnewspapers and shall also immediately be notified to filling offices and public registries\ngoverning security interests.\n\n(2) No later than seven (7) days after the opening of the insolvency proceedings, the\nadministrator shall publish notices, including by placing advertisements in at least two\nmajor newspapers in the Kingdom of Cambodia, announcing the following:\n\n(a) that insolvency proceedings have been opened against the debtor;\n\n(b) the deadline for the submission of written proofs of claims and the address to\nwhich all written proofs of claims should be sent; and\n\n(c) the date, time and place for the opening creditors’ meeting.\n\n(3) No later than seven (7) days after the administrator receives the statement of the debtor\nfiled pursuant to Article 29, the administrator shall notify in writing all creditors listed in\nthe statement of the matters set out in paragraphs (2)(a) to (2)(c).\n\nCHAPTER 4\nEFFECTS OF THE OPENING OF INSOLVENCY PROCEEDINGS\n\nPART A – GENERAL EFFECTS"
+   }
+  },
+  {
+   "id": "KH-H3896-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Article 19."
+   },
+   "text": {
+    "en": "Article 19.\n\n(1) After the court ruling opening insolvency proceedings, and until the termination of the\nproceedings, no action, proceedings or execution process or any other action of any kind\nby or on behalf of a creditor shall be commenced or continued against the debtor or\nassets of the estate.\n\n(2) The administrator may, however, whenever it is in the best interest of the estate, allow a\nsecured creditor in writing to foreclose his mortgage, repossess and sell an encumbered\nasset (collateral), or in any other way avail himself of his security right and make himself\npaid by individual action.\n\n(3) In the case of insolvency proceedings opened against a debtor which is a general\npartnership, the stay of action in paragraph (1) shall also apply to any action,\nproceedings or execution process for debt of the debtor and against the partner’s assets\nrespectively.\n\n In the case of insolvency proceedings opened against a debtor which is a limited\npartnership, the stay of action in paragraph (1) shall also apply to any action,\nproceedings or execution process for debt of the debtor and against the general\npartner’s assets respectively.\n\n Only the administrator may claim a partner’s personal liability for the debtor’s debts\nduring such insolvency proceedings.\n\n(4) The stay of action under paragraph (1) shall not apply to administrative claims pertaining\nto the remuneration, fees and expenses of the administrator and other administrative\nclaims incurred by the administrator."
+   }
+  },
+  {
+   "id": "KH-H3896-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Article 20.\n\n(1) The opening of the insolvency proceedings shall create the estate."
+   },
+   "text": {
+    "en": "Article 20.\n\n(1) The opening of the insolvency proceedings shall create the estate.\n\n(2) The estate shall comprise all assets, rights and claims of any kind in which the debtor\nhas an ownership interest or to which the debtor is otherwise entitled on the date of\nopening of the insolvency proceedings or after that date.\n\n(3) In the case of a debtor who is a natural person, the following shall not be included in the\nestate:\n\n(a) the primary place of residence of the debtor, the market value of which shall not\nexceed Twenty Million Riels (Riels 20,000,000);\n\n(b) any other asset, right or claim which is  exempt from execution against the debtor\nunder the Code of Civil Procedure.\nArticle 21.\n\nThe management and power over all debtor’s assets shall vest in the administrator."
+   }
+  },
+  {
+   "id": "KH-H3896-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Article 22."
+   },
+   "text": {
+    "en": "Article 22.\n\nThe debtor shall cooperate fully with the administr ator and shall provide the administrator with\nall necessary information pertaining to the business of the debtor."
+   }
+  },
+  {
+   "id": "KH-H3896-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Article 23."
+   },
+   "text": {
+    "en": "Article 23.\n\n(1) In order to discharge his duties, a administrator shall, inter alia, have the power to:\n\n(a) represent the debtor and manage the debtor’s business for the purposes of the\ninsolvency proceedings;\n\n(b) receive the debtor’s mail and any electronic communications addressed to the\ndebtor with the exception of mail and communications which are manifestly of a\nprivate nature;\n\n(c) carry on the business of the debtor, but only to the extent necessary to fulfill the\nobjectives of the insolvency proceedings;\n\n(d) receive all assets of the estate, including the books and records of the debtor;\n\n(e) collect and include in the estate any amounts remaining unpaid with respect to\nthe issued share capital of a debtor or contributions to the debtor by partners;\n\n(f) use and deal with the assets of the estate, including by selling any such asset\nfree of any security rights, encumbrances and liens;\n\n(g) represent the debtor in any court proceedings in which the debtor is a party;\n\n(h) prepare the list of claims;\n\n(i) permit a creditor to sell an asset which is the object of a security right held by the\ncreditor for a claim, and to apply the relevant proceeds of the sale in satisfaction\nof the creditor’s claim;\n\n(j) separately maintain assets which are burdensome for the estate;\n\n(k) apply to the court to examine any person on questions pertaining to the debtor’s\nbusiness;\n\n(l) terminate, cancel or avoid, in accordance with this and other laws, and including\nby application to the court, any transacti on, contract, agreement or transfer to\nwhich the debtor is a party;\n\n(m) convene and organize the meetings of creditors as provided for in this Law;\n\n(n) prepare and propose a plan of compromise, where appropriate;\n\n(o) employ the services of agents and profe ssionals to assist in the performance of\nhis duties; and\n\n(p) do any and all other things necessary to the performance of his duties and which\nare consistent with the objectives of the insolvency proceedings.\n\n(2) The Minister of Justice may issue regulations to supplement the provisions in paragraph\n(1) regarding the administrator’s powers."
+   }
+  },
+  {
+   "id": "KH-H3896-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Article 24."
+   },
+   "text": {
+    "en": "Article 24.\n\n(1) During the period up to the opening creditors’ meeting, the administrator shall:\n\n(a) continue the debtor’s business, whenever this appears to be feasible and not\nmanifestly uneconomic; and\n\n(b) explore the financial and economic situation of the debtor and its prospects of\nrehabilitation and prepare the administrator’s report referred to in Article 52.\n\n(2) In discharging his tasks, the administrator shall make the fullest possible use of\nexperience, information and the management of the debtor, as the circumstances\npermit."
+   }
+  },
+  {
+   "id": "KH-H3896-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Article 25."
+   },
+   "text": {
+    "en": "Article 25.\n\n(1) The administrator shall obtain the consent of the creditors at a creditors’ meeting if he\nintends to:\n\n(a) sell any real property by private treaty;\n\n(b) sell or transfer any part of the estate  to a related person by any means; or\n\n(c) to carry out any transaction that would irreversibly preclude the proposal,\napproval or implementation of a plan of compromise.\n\n(2) Any transaction undertaken in violation of paragraph (1) (a) and (b) shall be deemed a\nviolation of the administrator’s duties and expose the latter to personal liability for any\ndamage incurred by the estate or any party in the proceedings."
+   }
+  },
+  {
+   "id": "KH-H3896-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Article 26."
+   },
+   "text": {
+    "en": "Article 26.\n\n(1) No later than thirty (30) days after the opening of insolvency proceedings, the\nadministrator shall determine in good faith the value of any security right held by a\ncreditor in an encumbered asset of the estate. The administrator’s valuation shall, unless\nchallenged by the debtor or any creditor, be the valid determination of the amount of the\nsecured portion of that creditor’s claim.\n\n(2) The portion of the creditor’s claim which exceeds the value determined under paragraph\n(a) or which remains unsatisfied after the application of the proceeds from a sale of the\nasset, as the case may be, shall be eligible for satisfaction in the insolvency proceedings\nas an unsecured claim. This paragraph shall not apply if the security right was granted\nby the debtor to secure a debt of a person other than the debtor.\n\n(3) A valuation under paragraph (1) shall not be necessary if, before the expiration of the\nstated thirty (30) days:\n\n(a) the court has ordered the commencement of the liquidation of the debtor’s\nbusiness; or\n\n(b) the administrator has sold or has permitted the relevant creditor to sell the\nencumbered asset or otherwise to exercise his security right and to apply the\nproceeds of the sale in satisfaction of the creditor’s claim."
+   }
+  },
+  {
+   "id": "KH-H3896-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Article 27."
+   },
+   "text": {
+    "en": "Article 27.\n\n(1) The administrator shall pay, to a creditor holding a security right in an asset of the\nestate, on a regular basis all interest accruing at the contractual rate on the secured\nportion of the claim. If the security right was granted to secure a debt of a person other\nthan the debtor, interest accruing on the secured portion of the claim shall, however, be\npaid only when the third party owing payment to the creditor is in default.\n\n(2) In the absence of a contractual rate of interest, interest shall be calculated at the\ngenerally prevailing market rate.\n\n(3) Interest pursuant to paragraph (1), which shall be paid at least once every month, shall\nbe applicable only upon the expiration of thirty  (30) days after the opening of insolvency\nproceedings and for so long as the asset is not sold by the administrator and the\nrelevant proceeds of the sale applied in satisfaction of the creditor’s claim."
+   }
+  },
+  {
+   "id": "KH-H3896-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Article 28."
+   },
+   "text": {
+    "en": "Article 28.\n\n(1) The court may decide whether and to what extent a debtor who is a natural person and\nthe debtor’s family should be provided with current maintenance from the estate.\n\n(2) Until the court’s decision under paragraph (1), the administrator may, with the consent of\nany creditors’ committee that has been set up, provide necessary maintenance from the\nestate to a debtor who is a natural person and to the debtor’s family to support their\nliving."
+   }
+  },
+  {
+   "id": "KH-H3896-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Article 29."
+   },
+   "text": {
+    "en": "Article 29.\n\n(1) No later than fourteen (14) days after the opening of insolvency proceedings, the debtor\nshall file with the court and provide to the administrator a written statement setting out\nfull details of:\n\n(a) the estate; and\n\n(b) all creditors known to the debtor, including the creditors’ names, addresses and a\nbrief description of the debt owed to each creditor.\n\n(2) The debtor shall submit to examination r egarding its assets and business affairs as and\nwhen required by the administrator or the court.\n\nPART B – SAFEGUARDING AND ENHANCEMENT OF THE ESTATE"
+   }
+  },
+  {
+   "id": "KH-H3896-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Article 30."
+   },
+   "text": {
+    "en": "Article 30.\n\n(1) If, at the time of the opening of insolvency proceedings, a contract between the debtor\nand a counter party has not been fully performed by the debtor and the counter party,\nthe administrator may elect to continue the contract in accordance with the terms of this\narticle.\n\n(2) A administrator who has decided to continue a contract must declare this decision in\nwriting to the counter party within thirty (30) days of the opening of insolvency\nproceedings. In the absence of such a written declaration from the administrator, the\ncontract shall be deemed terminated and the counter party may file a claim for damages\nas a creditor in the insolvency proceedings. The court may, upon a written application of\nthe administrator, extend the period within which the administrator must declare his\ndecision whether to continue the contract. Each extension shall be for no more than\nfourteen (14) days.\n\n(3) The counter party to a contract may, at any time, also make a written request to the\nadministrator that the administrator declare himself bound by the contract. In the\nabsence of a written declaration from the administrator to be bound by the contract\nwithin seven (7) days of the counter party’s  request, the contract is deemed terminated\nand the counter party to the contract may file a claim for damages as a creditor in the\ninsolvency proceedings. The court may, upon a written application of the administrator,\nextend the period within which the administrator must declare his decision whether to be\nbound by the contract. Each extension shall be for no more than fourteen (14) days.\n\n(4) In the case of individual contracts for the sale or purchase of securities, rights or other\nsimilar goods in a market or stock exchange which are part of a larger framework\nagreement for the consolidated settlement of th e individual contracts, the administrator’s\nelection to continue with contracts shall be made with respect to all the individual\ncontracts under the framework agreement as a whole. The administrator may not elect\nto continue with only some of the individual contracts under the framework agreement.\n\n(5) The administrator’s election to continue a contract which requires regular payments to\nthe counter party shall not bind the administrator to effect payments that were not made\nprior to the opening of insolvency proceedings.\n\n(6) All claims arising from a contract which t he administrator has elected to continue shall be\ntreated as administrative claims incurred by the administrator in the course of the\ninsolvency proceedings and accorded the applicable priority under Article 57."
+   }
+  },
+  {
+   "id": "KH-H3896-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Article 31."
+   },
+   "text": {
+    "en": "Article 31.\n\n(1) A utility may not terminate, alter or discontinue service to the administrator or the debtor\nsolely on the basis of the opening of insolvency proceedings against the debtor or that a\ndebt owed by the debtor to such utility for service rendered before the opening of\ninsolvency proceedings was not paid when due.\n\n(2) Without prejudice to the right of the administrator to elect continuation of a pending\ncontract according to Article 30, a utility may refuse to conclude a new contract for\nservice to a debtor if the administrator does not, within thirty (30) days after the opening\nof insolvency proceedings, furnish adequate assurance of payment, in the form of a\ndeposit or other security, for service under an eventual new contract after the opening of\ninsolvency proceedings."
+   }
+  },
+  {
+   "id": "KH-H3896-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Article 32."
+   },
+   "text": {
+    "en": "Article 32.\n\nThe court may, upon a complaint by the administrator and upon a hearing of the other party to a\ncertain transaction, adjudicate by judgment the following transactions to be void and pronounce\nthe appropriate effects of such declaration under Article 33:\n\n(1) a transaction entered into by the debtor with the intent to defraud creditors by placing the\ndebtor’s assets beyond the reach of creditors who may seek to recover claims owed by\nthe debtor;\n\n(2) a transaction effected within three (3) years prior to the opening of insolvency\nproceedings for which no consideration was received by the debtor in return, except for\nordinary transactions in favor of the debtor’s spouse or relatives of direct descent or\nascent;\n\n(3) a transaction effected within one (1) year prior to the opening of insolvency proceedings\nin which the value of the debtor’s obligation considerably exceeded the value of the\nother party’s obligation;\n\n(4) a transaction effected within one (1) year prior to the opening of insolvency proceedings\nin which the debtor discharged a debt which was not due, or provided new or additional\nsecurity for a debt, and in which the other party to the transaction is a related person;\n\n(5) a transaction effected within six (6) months prior to the opening of insolvency\nproceedings in which the debtor discharged a debt which was not due, or provided new\nor additional security for a debt; and\n\n(6) a transaction  effected within one (1) year prior to the opening of insolvency proceedings\nin which the debtor discharged a debt which was not due, or provided new security, or\ngranted a security right, for a debt of the kind mentioned in Article 36 (5)."
+   }
+  },
+  {
+   "id": "KH-H3896-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Article 33."
+   },
+   "text": {
+    "en": "Article 33.\n\n(1) Where a transaction or transfer is avoided under Article 32, any money paid, property\ntransferred or proceeds from the sale of property transferred shall be recovered and\nincluded in the estate.\n\n(2) A person from whom money or property was recovered as a result of an avoided\ntransaction shall be entitled to restitution for any consideration given by such person for\nthe transaction. Restitution shall be effected from the assets of the estate to the extent\nthat the consideration given continues to exist in a distinct form among the assets of the\nestate. Such person shall also be eligible to file a claim as a creditor in the insolvency\nproceedings."
+   }
+  },
+  {
+   "id": "KH-H3896-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Article 34."
+   },
+   "text": {
+    "en": "Article 34.\n\n(1) If, by force of law or on the basis of a contract, a creditor would have had a right, on the\ndate of the opening of the insolvency proceedings, to set-off his claim in the proceedings\nagainst an obligation owed to the debtor, such right of set-off shall not be affected by the\nopening of the insolvency proceedings.\n\n(2) Set-off by a creditor against a counter claim of the estate shall be void if:\n\n(a) the creditor only became a debtor of the estate after the opening of insolvency\nproceedings;\n\n(b) the creditor acquired his claim from another creditor after the opening of the\ninsolvency proceedings;\n\n(c) the creditor acquired the right of set-off by means of a transaction which is\nsubject to contest or avoidance under this or other laws; or\n\n(d) the creditor’s claim is of the kind mentioned in Article 36.\n\nPART C – CLAIMS"
+   }
+  },
+  {
+   "id": "KH-H3896-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Article 35."
+   },
+   "text": {
+    "en": "Article 35.\n\n(1) The estate shall be used to satisfy all admissible claims against the debtor and\nadministrative claims. Administrative claims shall include the remuneration, fees and\nexpenses of the administrator in the course of the proceedings.\n\n(2) Claims that are not mature on the date of liquidation shall be deemed to have matured\nupon the date of liquidation.\n\n(3) Claims that are subject to a resolutory condition shall be treated as unconditional claims\nas long as the condition has not been satisfied."
+   }
+  },
+  {
+   "id": "KH-H3896-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Article 36.\n\nThe following claims shall not be admissible in insolvency proceedings:"
+   },
+   "text": {
+    "en": "Article 36.\n\nThe following claims shall not be admissible in insolvency proceedings:\n\n(1) interest accruing on claims from the date of the opening of the insolvency proceedings;\n\n(2) costs incurred by creditors by reason of t heir participation in the insolvency proceedings;\n\n(3) fines, administrative penalties and other incidental legal consequences of a criminal or\nadministrative offence which obliges the debtor to pay;\n\n(4) claims for which no consideration was owed by the debtor in return;\n\n(5) claims for the repayment of a loan made to the debtor by a person holding directly or\nindirectly not less than ten percent (10%) of the equity capital of the debtor, or recourse\nclaims against the debtor for a loan guaranteed or secured, or caused to be guaranteed\nor secured, by such a person. If the debtor is a partnership, the claims in this paragraph\nshall apply only when all general partners of the debtor are companies;\n\n(6) claims for recourse which co-debtors or guarantors may have against the debtor if they\nsatisfy a creditor’s claim;\n\n(7) claims for which the proofs of claim were filed after the deadline established for the filing\nof proofs of claims;\n\n(8) subordination of claims for which ineffective in insolvency proceedings has been agreed\nbetween the creditor and the debtor; and\n\n(9) interest on claims of the aforementioned kind."
+   }
+  },
+  {
+   "id": "KH-H3896-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Article 37."
+   },
+   "text": {
+    "en": "Article 37.\n\nNon-liquidated claims shall be satisfied at the value estimated in Riels on the date of the\nopening of the insolvency proceedings. Claims denominated in foreign currency or in some\nother unit of exchange shall be converted into Riels using the National Bank of Cambodia\ndetermined exchange rate prevailing on the date of the opening of the insolvency proceedings."
+   }
+  },
+  {
+   "id": "KH-H3896-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Article 38."
+   },
+   "text": {
+    "en": "Article 38.\n\n(1) All proofs of claims shall be submitted in writing by creditors to the administrator by the\ndetermined deadline.\n\n(2) Each proof of claim shall contain the following information:\n\n(a) the legal nature and cause of the claim;\n\n(b) the time when the claim arose;\n\n(c) the amount of the claim;\n\n(d) any priority that may attach to the claim under Article 57;\n\n(e) the nature and rank of any alleged security in any asset of the debtor and details\nof the asset in which the alleged security exists; and\n\n(f) copies of documents and other evidence in support of the above, if any.\n\n(3) The administrator shall assist creditors  in observing the required formalities."
+   }
+  },
+  {
+   "id": "KH-H3896-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Article 39."
+   },
+   "text": {
+    "en": "Article 39.\n\n(1) The administrator shall prepare a claims list se tting out the details of all claims submitted\nby creditors in accordance with Article 38. The claims list shall be filed with the court no\nlater than five (5) days before the date of the opening creditors’ meeting. The claims list\nshall be open for inspection by any person free of charge.\n\n(2) The claims list shall contain in a condensed and standardized fashion information in\naccordance with Article 38(2)(a) to Article 38(2)(e). Additionally, in the case of an alleged\nsecurity in an encumbered asset, the valuat ion of the secured portion of a claim as\ndetermined under Article 26.\n\n(3) The claims list shall be verified at the opening creditors’ meeting in accordance with the\nprovisions of Chapter 6.\n\nCHAPTER 5\nPLANS OF COMPROMISE\n\nPART 1 – PLANNING"
+   }
+  },
+  {
+   "id": "KH-H3896-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Article 40."
+   },
+   "text": {
+    "en": "Article 40.\n\nAny proposed plan of compromise shall be filed with the court no later than seven (7) days prior\nto the date of the relevant creditors’ meeting. A proposed plan of compromise filed with the court\nshall be open for inspection by the public free of charge."
+   }
+  },
+  {
+   "id": "KH-H3896-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Article 41."
+   },
+   "text": {
+    "en": "Article 41.\n\n(1) A plan of compromise shall state the period for the implementation of the plan, and may\ncontain any method for the resolution of the debtor’s insolvency, including:\n\n(a) the cancellation, or reduction in the amount, of any claim, including in exchange\nfor shares or equity in the debtor’s business;\n\n(b) the scheduling of the payment of any claim;\n\n(c) the continuation of the business of the debtor, or a part thereof, by the debtor or\nanother person; and\n\n(d) the sale or disposition of any asset of the estate, either subject to or free of any\nencumbrances or liens, or the distribution of all or any asset of the estate among\nthose having an interest in such asset.\n\n(2) A plan of compromise shall provide for the payment in full of costs of the proceedings\nand other administrative claims, being the costs and claims incurred by the administrator\nin the course of the insolvency proceedings."
+   }
+  },
+  {
+   "id": "KH-H3896-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Article 42."
+   },
+   "text": {
+    "en": "Article 42.\n\nInadmissible claims shall be deemed canceled by the plan of compromise, with the exception of\nclaims falling under Article 39(3)."
+   }
+  },
+  {
+   "id": "KH-H3896-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Article 43."
+   },
+   "text": {
+    "en": "Article 43.\n\nThe costs incurred in the preparation and proposal of a plan of compromise by the debtor or the\nadministrator shall be considered an administrativ e claim to be satisfied from the estate. Costs\nincurred in the case of other plan proposals shall be at the expense of the party making the\nproposal.\n\nPART 2 – APPROVAL OF A PLAN OF COMPROMISE"
+   }
+  },
+  {
+   "id": "KH-H3896-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Article 44."
+   },
+   "text": {
+    "en": "Article 44.\n\nThe plan of compromise shall be submitted for the consideration and approval of creditors at the\nopening creditors’ meeting or at any subsequent creditors’ meeting convened for that purpose."
+   }
+  },
+  {
+   "id": "KH-H3896-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Article 45."
+   },
+   "text": {
+    "en": "Article 45.\n\n(1) In approving a plan of compromise, creditors shall be grouped into the following classes\nand shall cast their votes in accordance with the amount of their respective claims in\neach of these classes:\n\n(a) creditors holding secured claims;\n\n(b) creditors holding claims which fall under Article 57(1)(c);\n\n(c) creditors holding claims which fall under Article 57(1)(d).\n\n(2) A plan of compromise shall require the approval of:\n\n(a) each class of creditors, through the affirmative votes of creditors in each class\nholding not less than three-fourths of the claims of all creditors who are present\nat the meeting; or\n\n(b) at least one class of creditors, through the affirmative votes of creditors in the\nclass holding not less than three-fourths of the claims of all creditors who are\npresent at the meeting."
+   }
+  },
+  {
+   "id": "KH-H3896-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Article 46."
+   },
+   "text": {
+    "en": "Article 46.\n\nArticle 75 shall apply to the voting rights of creditors in voting on the plan of compromise,\nsubject to the following:\n\n(1) a creditor whose claim is not impaired or affected by the plan of compromise shall have\nno right to vote; and\n\n(2) a creditor holding a secured claim shall be entitled to vote only:\n\n(a) to the extent that the total amount of his claim exceeds the higher of:\n\n- the value of the secured portion of the claim as determined under Article 26\nor,\n\n- the value of any proceeds from a sale of  the encumbered asset; or\n\n(b) if the creditor waives his security right in the encumbered asset."
+   }
+  },
+  {
+   "id": "KH-H3896-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Article 47."
+   },
+   "text": {
+    "en": "Article 47.\n\n(1) No later than seven (7) days after a plan of compromise has been approved by the\ncreditors as required under Article 45, the administrator shall make a written application\nto the court for court approval of the plan of compromise.\n\n(2) The court shall issue a ruling to approve the plan of compromise if the following\nconditions are satisfied:\n\n(a) voting was carried out in accordance with the requirements of this Law;\n\n(b) under the plan of compromise, all creditors in any given class will be treated on\nan equal footing, unless the affected creditors consent in writing to being treated\nless favorably than any other member of the class;\n\n(c) under the plan of compromise, each dissenting creditor will receive satisfaction\nfor its claim on terms not less favorable than what that creditor would have\nreceived under a distribution made in a liquidation in accordance with Article 57;\n\n(d) under the plan of compromise, no creditor will receive more than the full amount\nof its claim;\n\n(e) under the plan of compromise, no payments related to income, dividends or\nequity will be made to any shareholder or partner of the debtor until the final\npayment of the entitlements, under the pl an, of the classes of creditors whose\nclaims have been affected by the plan of compromise; and\n\n(f) under the plan of compromise, no maintenance greater than the amount of\nmaintenance ordered by a court will be paid to a debtor who is a natural person,\nor to a general partner of a debtor which is a partnership, until the final payment\nof the entitlements, under the plan, of the classes of creditors whose claims have\nbeen affected by the plan of compromise.\n\n(3) If the plan of compromise does not satisfy any of the conditions set out in paragraph (2),\nthe court shall make a ruling to commence the liquidation of the estate.\n\n(4) The court’s ruling under this article shall be made no later than seven (7) days after the\nadministrator’s application for court approval of the plan of compromise."
+   }
+  },
+  {
+   "id": "KH-H3896-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Article 48."
+   },
+   "text": {
+    "en": "Article 48.\n\n(1) The court’s approval of a plan of compromise shall have the effect of terminating the\ninsolvency proceedings and beginning the period for the implementation of the plan of\ncompromise which shall be determined by the plan but not exceed a maximum of two (2)\nyears following court approval of the plan.\n\n(2) A plan of compromise that has been approved by the court shall be binding on all\ncreditors and extinguish any inadmissible claims, other than claims under Article 36(3)."
+   }
+  },
+  {
+   "id": "KH-H3896-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Article 49."
+   },
+   "text": {
+    "en": "Article 49.\n\n(1) During the period for the implementation of the plan of compromise, every business\ndocument issued by or on behalf of the debtor, being a document on which the debtor’s\nname appears, shall contain a detail statement to the effect that a plan of compromise is\nbeing implemented with respect to the debtor.\n\n(2) The court may, when it approves a plan of compromise or at a later date, and for the\npurpose of ensuring the implementation of the plan of compromise, order that the\nadministrator continue to supervise, on such terms as the court deems fit, the debtor’s\nactions, or the actions of the debtor’s managers. In making a ruling under this\nparagraph, the court shall also determine the amount of remuneration for the\nadministrator, which shall be paid by the debtor."
+   }
+  },
+  {
+   "id": "KH-H3896-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Article 50."
+   },
+   "text": {
+    "en": "Article 50.\n\n(1) In the event that the plan of compromise is not being implemented within the period\nprovided for the implementation in the plan, insolvency proceedings shall be opened\nforthwith by a ruling of the court against the debtor.\n\n(2) An application under paragraph (a) for the opening of insolvency proceedings may be\nmade by the debtor, creditors, the public prosecutor or the administrator under Article\n49(2),\n\n(3) Insolvency proceedings opened under paragraph (1) shall immediately commence with\nthe liquidation of the debtor. In the liquidation, the transforming effect of the plan of\ncompromise with regard to creditors’ claims, rights and security rights shall remain.\n\nCHAPTER 6\nTHE OPENING CREDITORS’ MEETING"
+   }
+  },
+  {
+   "id": "KH-H3896-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Article 51."
+   },
+   "text": {
+    "en": "Article 51.\n\nThe opening creditors’ meeting shall be convened and chaired by a judge with the assistance of\nthe administrator."
+   }
+  },
+  {
+   "id": "KH-H3896-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Article 52."
+   },
+   "text": {
+    "en": "Article 52.\n\nAt the opening creditors’ meeting, the administrator shall report on the debtor’s business\nsituation and the causes thereof. The administrator shall indicate whether there is a chance to\nmaintain the debtor’s business in whole or in part, what chances exist for the approval and\nimplementation of a plan of compromise and what effects would arise for the satisfaction of the\ncreditors."
+   }
+  },
+  {
+   "id": "KH-H3896-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Article 53.\n\nAt the opening creditors’ meeting:"
+   },
+   "text": {
+    "en": "Article 53.\n\nAt the opening creditors’ meeting:\n\n(1) the creditors shall decide, based on the administrator’s report for that meeting, on the\ncontinuation of the insolvency proceedings;\n\n(2) the creditors shall vote on any plan of compromise that may have been proposed by the\ndebtor;\n\n(3) the claims list shall be verified; and\n\n(4) the creditors may also decide other matters related to the insolvency proceedings."
+   }
+  },
+  {
+   "id": "KH-H3896-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Article 54."
+   },
+   "text": {
+    "en": "Article 54.\n\n(1) Following the consideration of the administrator’s report, the creditors shall, if a plan of\ncompromise has been proposed by the debtor, vote on such a plan of compromise.\n\n(2) In the event that no plan of compromise has been proposed by the debtor, or the\ndebtor’s proposed plan of compromise has not been approved by creditors, the creditors\nshall decide to:\n\n(a) adjourn the opening creditors’ meeting, but by no more than sixty (60) days, in\norder for the debtor, the administrator or any creditor or creditors holding not less\nthan one-fifth of the total value of all claims to propose a plan of compromise; or\n\n(b) commence the liquidation of the estate.\n\n(3) If the opening creditors’ meeting is adjourned pursuant to paragraph (2)(a), at the\nreconvened meeting, the creditors shall consider and vote on only plan of compromise\nthat may be proposed. In the event that no plan of compromise is approved by the\ncreditors at the reconvened meeting, the liquidation of the estate shall commence."
+   }
+  },
+  {
+   "id": "KH-H3896-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Article 55."
+   },
+   "text": {
+    "en": "Article 55.\n\n(1) The administrator, the debtor or any creditor may challenge the validity, amount, secured\nstatus, or other priority, of any claim in the claims list. A claim is deemed admitted for\nsatisfaction in the insolvency proceedings if and to the extent to which it is not\nchallenged by the administrator or by a creditor at the opening creditors’ meeting.\n\n(2) In the case of a claim challenged by the administrator or a creditor regarding the validity,\namount, secured status, or other priority, of such claim, it is for the creditor to seek the\ndetermination by judgment of the claim before the court. The court shall hear such a\nmatter with utmost expediency.\n\n(3) The claims list shall be finalized by the administrator and filed with the court after any\nchanges which may be necessary in light of any subsequent final determinations under\nparagraph (2).\n\nCHAPTER 7\nLIQUIDATION AND SATISFACTION OF CLAIMS"
+   }
+  },
+  {
+   "id": "KH-H3896-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Article 56."
+   },
+   "text": {
+    "en": "Article 56.\n\n(1) Upon the commencement of liquidation, t he administrator shall convert all non-cash\nassets of the estate into cash as soon as possible, in so far as it is required for the\nsatisfaction of creditors’ claims in the insolvency proceedings.\n\n(2) In dealing with the assets of the estate, the administrator may use any commercially\nreasonable method or methods which is likely to yield the highest cash return to the\nestate.\n\n(3) In converting all non-cash assets of the estate, all assets disposed of by the\nadministrator shall be free of any and all encumbrances or liens."
+   }
+  },
+  {
+   "id": "KH-H3896-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Article 57."
+   },
+   "text": {
+    "en": "Article 57.\n\n(1) The proceeds of the liquidation of the estate shall be used to satisfy claims in the\nfollowing order:\n\n(a) employee wages, administrator’s rem uneration and fees, administrative fee, and\nthe court’s fees;\n\n(b) the secured claims, up to the higher of the value of the secured portion of the\nclaim as determined under Article 26 or the relevant net proceeds from an\neffective sale of the encumbered asset (collateral);\n\n(c) state taxes whose notice is not filed;\n\n(d) all other admissible unsecured claims;\n\n(2) With respect to any claim listed under paragraphs (1)(b), the amount of such claim which\nis in excess of the respective limits stated in those paragraphs shall be eligible for\nsatisfaction as a general unsecured claim under paragraph (1)(d).\n\n(3) Any proceeds left undistributed after the satisfaction of all claims set out in paragraph (1)\nshall be returned to the debtor."
+   }
+  },
+  {
+   "id": "KH-H3896-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Article 58."
+   },
+   "text": {
+    "en": "Article 58.\n\n(1) With the exception of assets in the estate which cannot be sold, the administrator shall\ncomplete the liquidation of the estate and the distribution of the sale proceeds no later\nthan six (6) months after the commencement of liquidation. The court may, upon a\nwritten application by the administrator, extend by up to six (6) months the period for the\nliquidation of the estate and the distribution of the sale proceeds.\n\n(2) Funds may be distributed among the creditors of the insolvency proceedings as soon as\nsufficient cash is available in the estate.\n\nCHAPTER 8\nTERMINATION OF INSOLVENCY PROCEEDINGS FOLLOWING LIQUIDATION"
+   }
+  },
+  {
+   "id": "KH-H3896-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Article 59."
+   },
+   "text": {
+    "en": "Article 59.\n\nThe administrator shall submit to the court a written report on his activities. The report shall\ncontain a final account of the distributions made and remaining unsatisfied claims. The report\nshall be submitted no later than thirty (30) days after the depletion of all saleable parts of the\nestate."
+   }
+  },
+  {
+   "id": "KH-H3896-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Article 60."
+   },
+   "text": {
+    "en": "Article 60.\n\nThe court shall convene a final creditors’ meeting within fourteen (14) days of its receipt of the\nadministrator’s report under Article 59. The creditors’ meeting shall adopt the final account of\nthe distributions made and remaining unsatisfied claims, and shall decide on the use of the\nparts of the estate that cannot be sold."
+   }
+  },
+  {
+   "id": "KH-H3896-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Article 61."
+   },
+   "text": {
+    "en": "Article 61.\n\n(1) The court shall issue an ruling terminating the insolvency proceedings immediately after\nthe final creditors’ meeting.\n\n(2) The court’s ruling terminating the insolvency proceedings shall be published in the\nOfficial Gazette and daily newspapers of the Kingdom of Cambodia."
+   }
+  },
+  {
+   "id": "KH-H3896-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Article 62."
+   },
+   "text": {
+    "en": "Article 62.\n\nUpon termination of the insolvency proceedings following liquidation, the offices of the\nadministrator and of the members of the creditors’ committee shall cease to exist. The debtor\nshall recover the right to dispose freely of remaining assets in the estate."
+   }
+  },
+  {
+   "id": "KH-H3896-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Article 63."
+   },
+   "text": {
+    "en": "Article 63.\n\nIn the case of a debtor which is a company, the debtor shall be deemed dissolved upon the\nissuance of the court ruling terminating the in solvency proceedings upon liquidation, unless the\ntermination of insolvency proceedings resulted from the satisfaction of all claims against the\ndebtor in accordance with Article 57."
+   }
+  },
+  {
+   "id": "KH-H3896-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Article 64."
+   },
+   "text": {
+    "en": "Article 64.\n\n(1) In the case of insolvency proceedings opened against a debtor who is a natural person\nor partnership domiciled in the Kingdom of Cambodia, the debtor may, in case of the\ntermination of the proceedings upon liquidation, apply to the court to be released from all\nadmissible claims which were not satisfied in the insolvency proceedings, unless\nundistributed assets or moneys were returned to the debtor under Article 57(3).\nRegardless of such a ruling, inadmissible claims except claims mentioned in Article\n36(3) shall be deemed forgiven at the termination of insolvency proceedings.\n\n(2) All creditors and the public prosecutor shall be entitled to attend the hearing of an\napplication under paragraph (1) and be heard by the court.\n\n(3) The court shall deny the release of the debtor from the unsatisfied claims if:\n\n(a) the debtor has been convicted of a cr ime involving fraud or dishonesty in\nconnection with the insolvency of the debtor’s business;\n\n(b) in the last three (3) years prior to the opening of insolvency proceedings, the\ndebtor, intentionally or with gross negligence, made incorrect or incomplete\nstatements in writing about his economic situation in order to obtain credit or to\nobtain payments from public funds or to avoid making payments to public\nagencies;\n\n(c) in the last ten (10) years prior to the opening of insolvency proceedings, the\ndebtor was granted a release from unsatisfied claims in another insolvency\nproceedings;\n\n(d) in the last twelve (12) months prior to the commencement of insolvency\nproceedings, the debtor, intentionally or with gross negligence, impaired the\nsatisfaction of the debtor’s creditors by incurring unreasonable liabilities or\nwasted assets or delayed the opening of insolvency proceedings with no\nprospect of improving the debtor’s economic condition;\n\n(e) the debtor, intentionally or with gross negligence, did not discharge his\nobligations under Article 9;\n\n(f) during the course of the insolvency proceedings, the debtor, intentionally or with\ngross negligence, violated his obligations to provide information and cooperation\nin the insolvency proceedings; and\n\n(g) the debtor, intentionally or with gross negligence, provided false or incomplete\ninformation in complying with Article 29.\n\n(4) A ruling made under this Article shall not affect the ability of any creditor to apply for a\nresumption of insolvency proceedings against the debtor under Chapter 9.\n\nCHAPTER 9\nRESUMPTION OF INSOLVENCY PROCEEDINGS WHICH WERE\nTERMINATED AFTER LIQUIDATION"
+   }
+  },
+  {
+   "id": "KH-H3896-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Article 65."
+   },
+   "text": {
+    "en": "Article 65.\n\nAny creditor whose claim was included in the claims list and was not satisfied in full may, within\nthe period of one (1) year from the termination of the insolvency proceedings, make a written\napplication to the court to resume the insolvency proceedings."
+   }
+  },
+  {
+   "id": "KH-H3896-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Article 66."
+   },
+   "text": {
+    "en": "Article 66.\n\n(1) Insolvency proceedings shall be resumed to the extent appropriate by ruling of the court\nwhen:\n\n(a) amounts allocated for contested claims are released; or\n\n(b) assets which may be used to satisfy claims of creditors and the existence of\nwhich were not taken into account during the insolvency proceedings are\ndiscovered.\n\n(2) Insolvency proceedings shall not be resum ed where the amounts or value of assets set\nout in paragraph (1) are insufficient to cover the costs of the resumed proceedings."
+   }
+  },
+  {
+   "id": "KH-H3896-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Article 67."
+   },
+   "text": {
+    "en": "Article 67.\n\n(1) The ruling to resume proceedings shall where appropriate re-establish the rights of the\nadministrator and the creditors’ committee.\n\n(2) Resumed proceedings shall be conducted in the same manner as a liquidation and the\nrelevant provisions of this Law shall apply mutatis mutandis.\n\nCHAPTER 10\nADMINISTRATOR AND CREDITORS\n\nPART A – THE ADMINISTRATOR"
+   }
+  },
+  {
+   "id": "KH-H3896-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Article 68.\n\n(1) Only a natural person may be appointed by the court as an administrator."
+   },
+   "text": {
+    "en": "Article 68.\n\n(1) Only a natural person may be appointed by the court as an administrator.\n\n(2) An administrator shall not:\n\n(a) have been convicted by a court of law of an offence involving fraud or\ndishonesty;\n\n(b) be the debtor, any creditor or a related person; or\n\n(c) be the spouse of any creditor or debtor or the relative of debtor or creditor.\n\n(3) The Minister of Justice may by Declaration (Prakas) require:\n\n(a) administrators to possess qualifications in addition to those set out in paragraph\n(2); or\n\n(b) that all administrators be licensed by the Ministry of Justice, subject to such\nlicensing requirements and conditions as determined by the Declaration."
+   }
+  },
+  {
+   "id": "KH-H3896-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Article 69."
+   },
+   "text": {
+    "en": "Article 69.\n\n(1) An administrator shall be discharged from the proceedings by the court in the following\ncases:\n\n(a) the administrator requests in writing to the court that he be discharged;\n\n(b) the administrator ceases to possess the necessary qualifications set out in Article\n68;\n\n(c) upon the request of creditors holding not less than fifty one percent (51%) of the\ntotal value of all claims; or\n\n(d) where it is proven that the administrator has failed to perform his duties or that he\nis acting in a manner detrimental to the interests of the creditors as a whole.\n\n(2) The court may discharge an administrator at any time on its own motion on any of the\ngrounds specified in paragraph (a).\n\n(3) The court shall appoint a new administrat or to replace a discharged administrator."
+   }
+  },
+  {
+   "id": "KH-H3896-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Article 70."
+   },
+   "text": {
+    "en": "Article 70.\n\n(1) The administrator shall be considered an officer of the court and shall owe a duty of\nallegiance only to the court.\n\n(2) Any creditor or creditors may make a written request to the administrator for information\nregarding the administration of the estate or the status of the insolvency proceedings.\nThe administrator shall provide such information as soon as possible after the receipt of\nsuch written request."
+   }
+  },
+  {
+   "id": "KH-H3896-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Article 71."
+   },
+   "text": {
+    "en": "Article 71.\n\n(1) The administrator shall act with the care and diligence of a reasonable business person\nin similar circumstances.\n\n(2) The administrator shall be liable to the parties in the proceedings for any damage\ncaused by his failure to exercise the required care and diligence."
+   }
+  },
+  {
+   "id": "KH-H3896-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "Article 72."
+   },
+   "text": {
+    "en": "Article 72.\n\n(1) An administrator shall be paid reasonable remuneration and be reimbursed for all\nreasonable expenses incurred in the performance of his duties. In calculating the rate of\nsuch remuneration, the factors to be taken into account shall include the time spent by\nthe administrator in the performance of his duties, the total value of the estate and the\nscope and complexity of the insolvency proceedings.\n\n(2) The Minister of Justice may issue Declaration governing the rate of remuneration for\nadministrators at the request of creditors.\n\nPART B – CREDITORS"
+   }
+  },
+  {
+   "id": "KH-H3896-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "Article 73."
+   },
+   "text": {
+    "en": "Article 73.\n\n(1) A creditors’ meeting may be convened by the administrator at any time if he thinks that\nsuch a meeting will be beneficial to the administration of the insolvency proceedings.\n\n(2) Any creditor may make a written request to the administrator to convene a creditors’\nmeeting. The written request shall state the matters proposed for discussion at the\nmeeting.\n\n(3) A creditors’ meeting shall be convened by the administrator within fourteen (14) days of\nthe receipt of a written request from a creditor for such a meeting to be convened.\n\n(4) All creditors’ meetings shall be chaired by  the administrator or a judge of the court.\n\n(5) This article shall not apply to the opening creditors’ meeting."
+   }
+  },
+  {
+   "id": "KH-H3896-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "Article 74."
+   },
+   "text": {
+    "en": "Article 74.\n\n(1) The administrator shall notify all creditors of the convening of a creditors’ meeting by\nsending written notifications to all known credi tors and placing advertisements in at least\ntwo major newspapers in the Kingdom of Cambodia announcing the following:\n\n(a) the date and time of the meeting;\n\n(b) the place where the meeting will be held; and\n\n(c) the matters proposed for discussion at the meeting.\n\n(2) All creditors shall be given at least seven (7) days’ advance notice of the convening of a\ncreditors’ meeting.\n\n(3) Any failure to comply with the requirements of this Article shall render null and void any\ndecision taken at the relevant creditors’ meeting.\n\n(4) This Article shall not apply to the opening creditors’ meeting."
+   }
+  },
+  {
+   "id": "KH-H3896-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "Article 75."
+   },
+   "text": {
+    "en": "Article 75.\n\n(1) At any creditors’ meeting, all decisions sha ll be taken by the affirmative votes of creditors\nholding a majority of the total value of the claims of creditors present and voting at the\nmeeting.\n\n(2) Only creditors whose claims are not disput ed by the administrator or by other creditors\nshall vote at a creditors’ meeting. Creditors with disputed claims shall vote only to the\nextent permitted by the administrator or the creditors with a right to vote at the meeting.\nWhere agreement cannot be reached between the parties as to the right of any creditor\nto vote at the creditors’ meeting, the administrator shall make a written application to the\ncourt for a decision on the matter, and the creditors’ meeting shall be postponed to a\ndate seven (7) days after the court’s decision on the matter.\n\n(3) Notwithstanding paragraph (2), creditors holding inadmissible claims shall have no right\nto vote.\n\n(4) Creditors may attend any meeting and may cast the applicable votes either personally or\nby proxy."
+   }
+  },
+  {
+   "id": "KH-H3896-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "Article 76."
+   },
+   "text": {
+    "en": "Article 76.\n\nThe creditors’ meeting may consider and take decisions on any matter pertaining to the\ninsolvency proceedings, including:\n\n(1) obtaining and considering a report from the administrator on the status of the insolvency\nproceedings;\n\n(2) the preparation, including by the administrator, of a plan of compromise;\n\n(3) the approval of a plan of compromise;\n\n(4) a decision to apply to the court to terminate the operating of the business of the debtor\nand to proceed with a liquidation of the estate;\n\n(5) the discharge and replacement of the administrator;\n\n(6) the making of a proposal to the Minister of Justice regarding the amount of the\nadministrator’s remuneration;\n\n(7) the appointment of a creditors’ committee; and\n\n(8) any recommendations from the creditors’ committee."
+   }
+  },
+  {
+   "id": "KH-H3896-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "Article 77."
+   },
+   "text": {
+    "en": "Article 77.\n\nAny decision taken at a creditors’ meeting shall be binding on all creditors, including creditors\nabsent from the meeting."
+   }
+  },
+  {
+   "id": "KH-H3896-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "Article 78."
+   },
+   "text": {
+    "en": "Article 78.\n\n(1) At any creditors’ meeting, the creditors may appoint a creditors’ committee consisting of\nnot less than three (3) and not more than ni ne (9) members, drawn from representatives\nof both secured and unsecured creditors.\n\n(2) All costs incurred by creditors in the establishment and operation of the creditors’\ncommittee shall be treated as claims incurred by the administrator in the course of the\ninsolvency proceedings and satisfied accordingly under Article 57."
+   }
+  },
+  {
+   "id": "KH-H3896-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "Article 79."
+   },
+   "text": {
+    "en": "Article 79.\n\n(1) The creditors’ committee shall represent the interests of the creditors as a whole.\n\n(2) The creditors’ committee shall perform such duties as are entrusted to it by decisions\ntaken by creditors holding a majority of the total value of all claims against the debtor. If\nrequested by the administrator, the creditors’ committee may also assist the\nadministrator in the management of the estate.\n\n(3) Upon the request of the creditors’ committee, the administrator shall permit the creditors’\ncommittee to inspect the books and accounts of the debtor.\n\nCHAPTER 11\nSERVICE OF DOCUMENT"
+   }
+  },
+  {
+   "id": "KH-H3896-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "Article 80."
+   },
+   "text": {
+    "en": "Article 80.\n\n(1) The service of any document relating to the insolvency proceeding to a partnership or\ncompany shall be effected by leaving a copy of the document at the registered place of\nbusiness of such partnership or company.\n\n(2) The service of any document relating to the insolvency proceeding to a natural person\nwho is domiciled in the Kingdom of Cambodia s hall be effected by leaving a copy of the\ndocument at the person’s permanent residence in the Kingdom of Cambodia.\n\n(3) The service of any document relating to the insolvency proceeding to a legal person\nformed under the law of a foreign country or a natural person who is domiciled outside of\nthe Kingdom of Cambodia shall be effected by the publication of a notice of the\ndocument in at least one major newspaper in the Kingdom of Cambodia and one major\nnewspaper in the country where the person is formed or domiciled.\n\n(4) The court may, on the application of any interested party, order that the service of any\ndocument under this Law be effected by a method different from those set out in\nparagraphs (1) to (3), if the court is of the view that such other method would be more\nappropriate in the specific circumstances of the case.\n\nCHAPTER 12\nPenalties"
+   }
+  },
+  {
+   "id": "KH-H3896-A81",
+   "no": 81,
+   "noLabel": {
+    "en": "Article 81."
+   },
+   "text": {
+    "en": "Article 81.\n\nAny offence in the insolvency proceeding shall be punished according to the provisions of the\ncriminal code that is in force.\n\nCHAPTER 13\nTransitional Provisions"
+   }
+  },
+  {
+   "id": "KH-H3896-A82",
+   "no": 82,
+   "noLabel": {
+    "en": "Article 82."
+   },
+   "text": {
+    "en": "Article 82.\n\n(1) While the commercial court has not been established in the Kingdom of Cambodia, the\ncourt of common jurisdiction of the Kingdom of Cambodia shall have jurisdiction over all\ninsolvency cases stated in this law.\n\n(2) When the commercial court is established in the Kingdom of Cambodia, the court of\ncommon jurisdiction shall transfer all jurisdictions in bankruptcy cases to the commercial\ncourt.\n\nCHAPTER 14\nFinal Provisions\nArticle 83.\n\nAll provisions that are contrary to this law shall be considered as null and void.\nArticle 84.\n\nThis Law shall declare urgent."
+   }
+  }
+ ]
+}

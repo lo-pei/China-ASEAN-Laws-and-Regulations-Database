@@ -1,0 +1,74 @@
+{
+ "id": "PH-H1107",
+ "title": {
+  "zh": null,
+  "en": "Public Land Act",
+  "orig": "An Act to Amend Section Ninety of Commonwealth Act Numbered One Hundred Forty-One, Otherwise Known as the “Public Land Act”"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p15",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1955-06-14",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 1273",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 870,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1955/ra_1273_1955.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1955/ra_1273_1955.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H1107-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section ninety of Commonwealth Act Numbered One hundred forty-one, otherwise known as the \"Public Land Act\", is hereby amended by adding the following subsection at the end thereof:\n\"(i) That the applicant agrees that a strip forty meters wide starting from the bank on each side of any river or stream that may be found on the land applied for, shall be demarcated and preserved as permanent timberland to be planted exclusively to trees of known economic value, and that he shall not make any clearing thereon or utilize the same for ordinary farming purposes even after patent shall have been issued to him or a contract of lease shall have been executed in his favor.\""
+   }
+  },
+  {
+   "id": "PH-H1107-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "All laws, executive orders and regulations, or parts thereof, inconsistent with the provisions of this Act, are hereby repealed."
+   }
+  },
+  {
+   "id": "PH-H1107-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1955."
+   }
+  }
+ ]
+}

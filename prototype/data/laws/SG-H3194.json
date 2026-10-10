@@ -1,0 +1,185 @@
+{
+ "id": "SG-H3194",
+ "title": {
+  "zh": null,
+  "en": "Merchant Shipping (Property of Deceased Seamen) Regulations",
+  "orig": null
+ },
+ "country": "SG",
+ "countryName": "新加坡",
+ "layer": "intl",
+ "pack": "sg-p40",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": null,
+ "docNumber": "Subsidiary Legislation MSA1995-RG23",
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 11,
+ "chars": 6523,
+ "source": {
+  "name": "Attorney-General's Chambers, Singapore Statutes Online (SSO)",
+  "url": "https://sso.agc.gov.sg/SL/MSA1995-RG23?ViewType=Print&PrintType=html&ProvIds=all-."
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-07",
+ "completenessNote": "全文，共 11 条；逐字取自新加坡法规在线（SSO）官方打印视图，未改写、未节选。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "SG-H3194-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "1. These Regulations may be cited as the Merchant Shipping (Property of Deceased Seamen) Regulations."
+   }
+  },
+  {
+   "id": "SG-H3194-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "2."
+   },
+   "heading": {
+    "en": "Definitions"
+   },
+   "text": {
+    "en": "2.—(1) In these Regulations —\n“employer”, in relation to a seaman, means the owner of the ship on which the seaman is employed or, where the seaman is deceased, means the person who last employed him as a seaman before his death;\n“next-of-kin” means a person named as the seaman’s next-of-kin in the crew agreement.\n(2) A reference in these Regulations to a seaman shall include a reference to the master of a ship."
+   }
+  },
+  {
+   "id": "SG-H3194-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "3."
+   },
+   "heading": {
+    "en": "Application"
+   },
+   "text": {
+    "en": "3. These Regulations shall apply to all Singapore ships."
+   }
+  },
+  {
+   "id": "SG-H3194-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "4."
+   },
+   "heading": {
+    "en": "Properties of seaman upon his death"
+   },
+   "text": {
+    "en": "4.—(1) This regulation applies to all properties (including money) left on board a ship by a seaman dying while or after being employed in the ship.\n(2) The master shall —\n(a)take charge of all the properties;\n(b)make an entry in the official log book signed by the master and by a member of the crew comprising —\n(i)a list of all such properties so taken into his charge;\n(ii)in the case of a sale under paragraph (3)(a) of any property or part thereof, a description of each article sold and the sum received; and\n(iii)in the case of the destruction or disposal of any property or part thereof under paragraph (3)(b), a description of each article destroyed or disposed of and the name of any person to whom disposal was made.\n(3) The master may at any time —\n(a)sell, by auction or otherwise any part of the property which in his opinion is likely, before it can be delivered to the next-of-kin or beneficiary in accordance with regulation 5, to perish or deteriorate to such a degree as to be unusable for the purpose which it is intended or to be of no value and the proceeds of sale shall form part of the property; and\n(b)destroy or otherwise dispose of any part of the property which, in his opinion, endangers or is likely to endanger the health or safety of any person on board the ship or endanger the safety, or affect the efficiency, of the ship or any equipment on the ship."
+   }
+  },
+  {
+   "id": "SG-H3194-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "5."
+   },
+   "heading": {
+    "en": "Delivery of properties of seaman"
+   },
+   "text": {
+    "en": "5.—(1) The master or employer shall deliver any property or part thereof which have not been disposed of under regulation 4(3) to —\n(a)the seaman’s next-of-kin; or\n(b)any person who appears to be beneficially entitled to the property under a will or on intestacy, to the personal representative of the deceased.\n(2) When any property is left in a country outside Singapore by a seaman who dies while or within 3 months after being employed in a ship, the employer shall make a list of the property and deliver the property to the person as provided in paragraph (1).\n(3) A person to whom the property has been delivered in accordance with paragraph (1) shall give a written acknowledgement of the receipt of the property to the master or employer which shall include a list of all the property so taken into his charge."
+   }
+  },
+  {
+   "id": "SG-H3194-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "6."
+   },
+   "heading": {
+    "en": "Wages due to seaman"
+   },
+   "text": {
+    "en": "6. For the purposes of regulations 4 and 5, the property of the deceased seaman shall include wages due to the seaman at the time of his death."
+   }
+  },
+  {
+   "id": "SG-H3194-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "7."
+   },
+   "heading": {
+    "en": "Delivery of wages due to deceased seaman"
+   },
+   "text": {
+    "en": "7. In the case of a seaman who dies while or after being employed in a ship, the employer shall pay any wages due to the seaman at the date of his death to the person to whom the deceased seaman’s property left on board the ship is required to be delivered to in accordance with regulation 5(1)."
+   }
+  },
+  {
+   "id": "SG-H3194-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "8."
+   },
+   "heading": {
+    "en": "Dealing with unclaimed property of deceased seaman"
+   },
+   "text": {
+    "en": "8.—(1) Where no claim to the property of a deceased seaman received by the employer is substantiated within one year after the receipt thereof, the employer shall deliver the property, or the proceeds thereof, to the Director who shall pay the property, or the proceeds thereof, into the Consolidated Fund.\n(2) If any subsequent claim made to such property, or the proceeds thereof, is established to the satisfaction of the Director, the amount, or so much as appears to be due to the claimant, shall be paid out of the Consolidated Fund.\n(3) If any claim is not established to the satisfaction of the Director, the claimant may apply by originating application to the General Division of the High Court, and the General Division of the High Court, after taking evidence either orally or on affidavit, shall make such order on the application as seems just.\n[S 863/2005 wef 01/01/2006]\n[S 1026/2020 wef 02/01/2021]\n[S 355/2022 wef 05/05/2022]\n(4) After the expiration of 6 years from the receipt of such property or proceeds by the Director, no such claim shall be entertained without the approval of the Minister."
+   }
+  },
+  {
+   "id": "SG-H3194-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "9."
+   },
+   "heading": {
+    "en": "Payment over of property of deceased seaman by Director"
+   },
+   "text": {
+    "en": "9.—(1) Where any property of a deceased seaman comes into the hands of the Director, the Director shall, after deducting for expenses incurred in respect of that seaman or of his property such sum as he thinks proper to allow, deal with the residue as follows:\n(a)if the property exceeds $5,000 in value, he shall pay and deliver the residue to the personal representative of the deceased; or\n(b)if the property does not exceed $5,000 in value, he may, as he thinks fit, either —\n(i)pay or deliver the residue to any claimant who has proved to the satisfaction of the Director to be the widow or a child of the deceased, or to be entitled to the personality of the deceased either under his will, if any, or any statute of distribution or otherwise, or to be a person entitled to take out representation although no such representation has been taken out, and shall thereby be discharged from all further liability in respect of the residue so paid or delivered; or\n(ii)require representation to be taken out, and pay and deliver the residue to the personal representative of the deceased.\n(2) Every person to whom any such residue is so paid or delivered shall apply the residue in due course of administration."
+   }
+  },
+  {
+   "id": "SG-H3194-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "10."
+   },
+   "heading": {
+    "en": "Forgery of documents, etc., for purpose of obtaining property of deceased seaman"
+   },
+   "text": {
+    "en": "10. No person shall for the purpose of obtaining, either for himself or for any other person, any property of any deceased seaman to the sea service —\n(a)forge or fraudulently alter, or assist in forging or fraudulently altering, or procure to be forged or fraudulently altered any document purporting to show or assist in showing any right to such property;\n(b)make use of any document which has been so forged or fraudulently altered as aforesaid;\n(c)give or assist in giving, or procure to be given, any false evidence, knowing the same to be false;\n(d)make and assist in making, or procure to be made, any false representation, knowing the same to be false; or\n(e)assist in procuring any false evidence or representation to be given or made, knowing the same to be false."
+   }
+  },
+  {
+   "id": "SG-H3194-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "11."
+   },
+   "heading": {
+    "en": "Penalty"
+   },
+   "text": {
+    "en": "11. Any person who contravenes or fails to comply with any provision of these Regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.\n[G.N. No. S 49/96]"
+   }
+  }
+ ]
+}

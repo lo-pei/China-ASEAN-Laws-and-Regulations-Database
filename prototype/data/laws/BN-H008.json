@@ -1,0 +1,485 @@
+{
+ "id": "BN-H008",
+ "title": {
+  "zh": "网络安全法",
+  "en": "Cybersecurity Act",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p01",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2023",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "文莱官方发布渠道",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 44,
+ "chars": 77217,
+ "source": {
+  "name": "文莱官方发布渠道",
+  "url": null
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-04",
+ "completenessNote": "全文，共 44 条；经《东盟法律分类》归档原件重新校核切分，逐字未改写。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-H008-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Article 5"
+   },
+   "text": {
+    "en": "(1) The Minister may, with the consent of His Majesty the Sultan and Yang Di-Pertuan, appoint a Commissioner of Cybersecurity for the purposes of this Act.\n(2) Subject to any general or sp ecial direction of the Minister,  the Commissioner is responsible for t he administration of this Act and may perform such duties and functions as are imposed and exercise s uch powers as are conferred on the Commissioner by this Act.\nCybersecurity 12 CAP. 272\n(3) The Minister may, with the consent of His Majesty the Sultan and Yang Di-Pertuan, appoint a Deputy Commissioner of Cybersecurity and one or more Assistant Commissioners o f Cybersecurity to assist the Commissioner in the discharge of the Commissioner’s duties and functions.\n(4) The Minister may, with the consent of His Majesty the Sultan and Yang Di-Pertuan, appoint as an Assistant Commissioner under subsection (3) in respect of a critical information infrastructure —\n(a) a public officer of another Ministry; or\n(b) an employee of a statutory body under the charge of another Minister, where that other Ministry or statutory body has supervisory or regulatory responsibility over an industry or a sector to which the owner of the critical information infrastructure belongs.\n(5) The Commissioner may, in writing, appoint such number of persons as cybersecurity officer s as the Commissioner thinks ne cessary for carrying this Act into effect.\n(6) The Deputy Commissioner may exercise all the powers, duties and functions of the Commission er except those exercisable unde r section 9 or 11.\n(7) Subject to such conditions or limitations as the Commissione r may specify, an Assistant Commis sioner or a cybersecurity offic er may exercise all the powers, duties and functions of the Commissioner as may be delegated to that Assistant Commissioner or cybersecurity officer in writing, except —\n(a) in the case of an Assistant Commissioner, those powers, duties or functions exercisable under this subsection or section 7, 9, 11 or 22(5); and\n(b) in the case of a cybersecurity officer, those powers, duties or functions exercisable under th is subsection or section 7, 9, 11 , 13, 14 or 22(5).\nCybersecurity 13CAP. 272 B.L.R.O. 2/2024 Duties and functions of Commissioner"
+   }
+  },
+  {
+   "id": "BN-H008-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Article 6"
+   },
+   "heading": {
+    "en": "The Commissioner has the following duties and functions —"
+   },
+   "text": {
+    "en": "(a) to oversee and promote the cybersecurity of computers and computer systems in Brunei Darussalam;\n(b) to advise the Government or any other public authority on national needs and policies in respect of cybersecurity matters generally;\n(c) to monitor cybersecurity threat s, whether such cybersecurity threats occur in or outside Brunei Darussalam;\n(d) to respond to cybersecurity incidents that threaten the national security, defence, ec onomy, foreign relations, public health, public order or public safety, o r any essential services, of Brunei Darussalam, whether such c ybersecurity incidents occur i n or outside Brunei Darussalam;\n(e) to identify and designate critica l information infrastructure and to regulate owners of critic al information infrastructure w ith regard to the cybersecurity of the critical information infrastructure;\n(f) to establish cybersecurity codes of practice and standards of performance for implementation by owners of critical informatio n infrastructure;\n(g) to represent the Government on cybersecurity issues internationally;\n(h) to cooperate with computer emergency response teams (CERTs) of other countries or territories on cybersecurity incidents;\n(i) to develop and promote the cybersecurity services industry in Brunei Darussalam;\n(j) to establish standards within Brunei Darussalam in relation to cybersecurity products or services and the recommended level of cybersecurity of computer har dware or software, including certification or accreditation schemes;\nCybersecurity 14 CAP. 272\n(k) to promote, develop, maintain and improve competencies and professional standards of persons working in the field of cybersecurity;\n(l) to support the advancement of technology and research and development relating to cybersecurity;\n(m) to promote awareness of the need for and the importance of cybersecurity in Brunei Darussalam;\n(n) to perform such other functi ons and discharge such other duties as may be conferred on the Commissioner under any other written law.\nAppointment of authorised officers"
+   }
+  },
+  {
+   "id": "BN-H008-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Article 7"
+   },
+   "text": {
+    "en": "(1) The Commissioner may, with the approval of the Minister, in writing appoint any authorised of ficer to assist the Commission er in exercising the powers under Part 4.\n(2) In exercising any of the powers of enforcement under Part 4,  an authorised officer shall, on demand, produce to the person against whom the authorised officer is acting the authority issued to the author ised officer by the Commissioner.\n(3) All authorised officers are deemed to be public servants for  the purposes of the Penal Code (Chapter 22).\nCommittees"
+   }
+  },
+  {
+   "id": "BN-H008-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Article 8"
+   },
+   "text": {
+    "en": "(1) The Minister may appoint such committees as the Minister thinks fit to assist or advise the Commissioner on such matters arisin g out of his functions as the Commissioner under this Act.\n(2) The Commissioner may define or vary the terms of reference o f the committees.\n(3) Subject to this Act and to the control of the Commissioner, each committee may regulate its proce dure in such manner as the comm ittee thinks fit.\nCybersecurity 15CAP. 272 B.L.R.O. 2/2024 PART 3 CRITICAL INFORMATION INFRASTRUCTURE Designation of critical information infrastructure"
+   }
+  },
+  {
+   "id": "BN-H008-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Article 9"
+   },
+   "text": {
+    "en": "(1) The Commissioner may, by written notice to the owner of a computer or computer system, designate the computer or computer system as a critical information infrastruc ture for the purposes of this Act, if the Commissioner is satisfied that —\n(a) the computer or computer system is necessary for the continuous delivery of an essential service and the loss or compromise of the computer or computer system will have a debilitating eff ect on the availability of the essential service in Brunei Darussalam; and\n(b) the computer or computer syste m is located wholly or partly in Brunei Darussalam.\n(2) A notice issued under subsection (1) shall —\n(a) identify the computer or computer system that is being designated as a critical information infrastructure;\n(b) identify the owner of the computer or computer system so designated as a critical information infrastructure;\n(c) i n f o r m  t h e  o w n e r  o f  t h e  c o mputer or computer system, regarding the duties and respons ibilities of the owner under th is Act that arise from the designation;\n(d) provide the name and contact p articulars of the officer assigned by the Commissioner to supervise the critical informat ion infrastructure;\n(e) inform the owner of the computer or computer system that any representation against the designation is to be made to the Commissioner by a specified date, being a date not earlier than 14 days after the date of the notice; and\n(f) inform the owner of the computer or computer system that the owner may appeal to the Minister against the designation an d provide information on the applicable procedure.\nCybersecurity 16 CAP. 272\n(3) Any designation under subsection (1) has effect for a period of 5 years, unless it is withdraw n by the Commissioner before t he expiry of the period.\n(4) The person who receives a notice under subsection (1) may request the Commissioner to proceed under subsection (5) on showing proof that —\n(a) the person is not able to comply with the requirements in this Part for the reason that the person has neither effective control over the operations of the computer or computer system, nor the ability or right to carry out changes to the computer or computer system; and\n(b) another person has effective control over the operations of the computer or computer system and the ability and right to carry out changes to the computer or computer system.\n(5) If the Commissioner is satisfied that the conditions mention ed in subsection (4)(a) and (b) are met, the Commissioner may amend the notice issued to the person under subsection (1) and address and send that amended notice to the person mentioned in subsection (4)(b).\n(6) During the period when a notice amended under subsection (5)  is in effect, the provisions of this Part apply to the person ment ioned in subsection (4)(b) as if every reference to the o wner of a critical information infrastructure is a reference to the person mentioned in subsection (4)(b).\n(7) Where —\n(a) a notice issued under this  section and amended under subsection (5) is addressed and sent to the person mentioned in subsection (4)(b); and\n(b) the person mentioned in subsection (4)(b) then ceases to have the control, ability and right mentioned in that provision, the owner of the critical inform ation infrastructure shall noti fy the Commissioner of this without delay.\n(8) Where a critical information infrastructure is owned by the Government and operated by a Mini stry, the Permanent Secretary allocated to the Ministry who has responsib ility for the critical informa tion Cybersecurity 17CAP. 272 B.L.R.O. 2/2024 infrastructure is treated as the owner of the critical information infrastructure for the purposes of this Act.\n(9) A notice issued under this section need not be published in the Gazette.\nPower to obtain information to ascertain if computer etc. fulfi ls criteria of critical information infrastructure"
+   }
+  },
+  {
+   "id": "BN-H008-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Article 10"
+   },
+   "text": {
+    "en": "(1) This section applies where the Commissioner has reason to believe that a computer or comput er system may fulfil the crite ria of a critical information infrastructure.\n(2) The Commissioner may, by not ice issued in such form and manner as the Commissioner may determine, require any person wh o appears to be exercising control over the computer or computer system, to provide to the Commissioner, within a reasonable period specifi ed in the notice, such relevant informati on relating to that computer or computer system as may be required by th e Commissioner for the purpose o f ascertaining whether the computer or computer system fulfils the criteria of a critical information infrastructure.\n(3) Without affecting the generality of subsection (2), the Commissioner may in the notice re quire the person who appears t o be exercising control over the computer or computer system to provide —\n(a) information relating to —\n(i) the function that the com puter or computer system is employed to serve; and\n(ii) the person or persons who is or are, or other computer or computer systems that is or are, served by that computer or computer system;\n(b) information relating to the design of the computer or computer system; and\n(c) such other information as the  Commissioner may require in order to ascertain whether the computer or computer system fulf ils the criteria of a critical information infrastructure.\nCybersecurity 18 CAP. 272\n(4) Any person who, without reasonable excuse, fails to comply w ith a notice issued under subsection (2) is guilty of an offence an d liable on conviction to a fine not exceeding $100,000, imprisonment for a  term not exceeding 2 years or both and, in the case of a continuing offe nce, to a further fine not exceeding $5,000 for every day or part thereof  during which the offence continues after conviction.\n(5) Any person to whom a notice is issued under subsection (2) is not obliged to disclose any information that is subject to any righ t, privilege or immunity conferred, or  obligation or limita tion imposed, by or under any law, contract or rules of professional conduct in relation to t he disclosure of such information.\nWithdrawal of designation of critical information infrastructure"
+   }
+  },
+  {
+   "id": "BN-H008-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Article 11"
+   },
+   "text": {
+    "en": "The Commissioner may, by written notice, withdraw the designation of any critical information infrastructure at any time if the Comm issioner is of the opinion that the computer or  computer system no longer fulf ils the criteria of a critical information infrastructure.\nFurnishing of information relating to critical information infrastructure"
+   }
+  },
+  {
+   "id": "BN-H008-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Article 12"
+   },
+   "text": {
+    "en": "(1) The Commissioner may, by not ice issued in such form and manner as the Commissioner may de termine, require the owner of a critical information infrastructure to furnish, within a reasonable period specified in the notice, the following —\n(a) information on the design, configuration and security of the critical information infrastructure;\n(b) information on the design, confi guration and security of any other computer or computer system under the control of the owner that is interconnected with or that communicates with the critical information infrastructure;\n(c) information relating to the operation of the critical information infrastructure and of  any other computer or compute r system under the control of the owner that is interconnected wi th or that communicates with the critical information infrastructure;\n(d) such other information as the  Commissioner may require in order to ascertain the level of cybersecurity of the critical i nformation infrastructure.\nCybersecurity 19CAP. 272 B.L.R.O. 2/2024\n(2) Any owner of a critical infor mation infrastructure who fails , without reasonable excuse, to co mply with a notice issued under subsection (1) is guilty of an o ffence and liable on conviction  to a fine not exceeding $100,000, imprisonment for a term not exceeding 2 yea rs or both and, in the case of a continuing offence, to a further fine not  exceeding $5,000 for every day or part thereof during which the offence continues after conviction.\n(3) The owner of a critical information infrastructure to whom a notice is issued under subsection (1) is not obliged to disclos e any information that is subject to any right, privilege or immunity  conferred, or obligation or limitation imposed, by or under any law or rules of professional conduct in relation to the discl osure of such information, exce pt that the performance of a contr actual obligation is not an excuse for no t disclosing the information.\n(4) The owner of a critical information infrastructure is not treated as being in breach of any contractual obligation mentioned in subsection (3) for doing or omitting to do any act, if the act is done or omitted to be done with reasonable care and in good faith and for the purpose of comply ing with a notice issued under subsection (1).\n(5) If a material change is made by or on behalf of the owner of  a critical information infrastructure to the design, configuratio n, security or operation of the critical informa tion infrastructure after any information has been furnished to the Commissioner pursuant to a notice issued under subsection (1), the owner of the critical information infrastru cture shall notify the Commissioner of the c hange not later than 30 days af ter the change is made.\n(6) For the purposes of subsection (5), a change is a material change if the change affects or may affect the cybersecurity of the criti cal information infrastructure or the ability of the owner of the critical info rmation infrastructure to respond to a cybersecurity threat or incident  affecting the critical information infrastructure.\n(7) Any owner of a critical infor mation infrastructure who fails , without reasonable excuse, to comply with subsection (5) is gui lty of an offence and liable on conviction to a fine not exceeding $25,00 0, imprisonment for a term not exceeding 12 months or both.\nCybersecurity 20 CAP. 272 Codes of practice and standards of performance"
+   }
+  },
+  {
+   "id": "BN-H008-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Article 13"
+   },
+   "text": {
+    "en": "(1) The Commissioner may —\n(a) issue or approve one or more codes of practice or standards of performance for the regulation of  t h e  o w n e r s  o f  c r i t i c a l  i n f o r mation infrastructure with respect to measures to be taken by them to ensure the cybersecurity of the critical information infrastructure; or\n(b) amend or revoke any code o f practice or standard of performance issued or approved under paragraph (a).\n(2) If any provision in any code of practice or standard of performance is inconsistent with this Act, such provision, to the extent of the inconsistency, does not have effect.\n(3) Where a code of practice or standard of performance is issue d, approved, amended or revoked by the Commissioner under subsecti on (1), the Commissioner shall —\n(a) publish a notice of the issue, approval, amendment or revocation (as the case may be) in such manner as will secure adequate publicity for such issue, approval, amendment or revocation;\n(b) specify in the notice the da te of the issue, approval, amendment or revocation (as the case may be); and\n(c) ensure that, so long as the co de of practice or standard of performance remains in force, c opies of that code or standard, and of all amendments to that code or standard, are available free of charge to the owner of a critical information infrastructure to which that code or standard applies.\n(4) None of the following has any effect until the notice relating to it is published in accordance with subsection (3) —\n(a) a code of practice or standard of performance;\n(b) an amendment to a code of practice or standard of performance;\n(c) a revocation of a code of practice or standard of performance.\nCybersecurity 21CAP. 272 B.L.R.O. 2/2024\n(5) Any code of practice or standard of performance has no legislative effect.\n(6) Subject to subsections (4) and (7), every owner of a critica l information infrastructure shall  comply with the codes of pract ice and standards of performance that apply to the critical information infrastructure.\n(7) The Commissioner may, either generally or for such time as t he Commissioner may specify, waive the application to the owner of  a critical information infrastructure of a ny code of practice or standard of performance, or any part of it.\nPower of Commissioner to issue written directions"
+   }
+  },
+  {
+   "id": "BN-H008-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Article 14"
+   },
+   "text": {
+    "en": "(1) The Commissioner may, if the Commissioner thinks —\n(a) it is necessary or expedient for ensuring the cybersecurity of a critical information infrastructu re or a class of critical info rmation infrastructure; or\n(b) it is necessary or expedient for the effective administration of this Act, issue a written direction, either  of a general or specific natu re, to the owner of a critical information infrastructure or a class of such owners.\n(2) Without affecting the generality of subsection (1), a direct ion under that subsection may relate to —\n(a) the action to be taken by the owner or owners in relation to a cybersecurity threat;\n(b) compliance with any code of practice or standard of performance applicable to the owner;\n(c) the appointment of an auditor approved by the Commissioner to audit the owner or owners on their compliance with this Act or any code of practice or standard of performance applicable to the owner or owners; or\n(d) such other matters as the Commissioner may think fit or expedient to ensure the cybersec urity of the critical informati on infrastructure.\nCybersecurity 22 CAP. 272\n(3) The Commissioner may at any time vary or revoke any directio n issued under subsection (1).\n(4) Before giving a direction under subsection (1), the Commissioner shall, unless the Commissioner thinks it is not practicable or desirable to do so, give notice to the person or persons whom the Commissioner proposes to issue the direction —\n(a) stating that the Commissioner proposes to issue the direction and setting out its effect; and\n(b) specifying the time within which representations or objections to the proposed direction may be made.\n(5) The Commissioner shall consider any representation or object ion which is duly made before giving any direction.\n(6) Any person who, without reasonable excuse, fails to comply w ith a direction under subsection (1) is guilty of an offence and li able on conviction to a fine not exceeding $100,000, imprisonment for a  term not exceeding 2 years or both and, in the case of a continuing offe nce, to a further fine not exceeding $5,000 for every day or part thereof  during which the offence continues after conviction.\nChange in ownership of critical information infrastructure"
+   }
+  },
+  {
+   "id": "BN-H008-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Article 15"
+   },
+   "text": {
+    "en": "(1) Where there is any change in the beneficial or legal ownersh ip (including any share in such owne rship) of a critical informati on infrastructure, the relevant pers on shall inform the Commission er of the change in ownership not later tha n 7 days after the date of tha t change in ownership.\n(2) Any person who, without reasonable excuse, fails to comply w ith subsection (1) is guilty of an o ffence and liable on conviction  to a fine not exceeding $100,000, imprisonment for a term not exceeding 2 years or both.\n(3) In subsection (1), the relevant person is —\n(a) in the case of a transfer of the whole of the legal ownership of the critical information infras tructure to another person, the person who was the owner of the critical information infrastructure before the change in ownership; or Cybersecurity 23CAP. 272 B.L.R.O. 2/2024\n(b) in any other case, an owner of the critical information infrastructure.\nDuty to report cybersecurity incident in respect of critical in formation infrastructure etc."
+   }
+  },
+  {
+   "id": "BN-H008-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Article 16"
+   },
+   "text": {
+    "en": "(1) The owner of a critical information infrastructure shall not ify the Commissioner of the occurrence of any of the following in such form and manner as the Commissioner may de termine, within the prescribed  period after becoming aware of such occurrence —\n(a) a prescribed cybersecurity incident in respect of the critical information infrastructure;\n(b) a prescribed cybersecurity incident in respect of any computer or computer system under the control of the owner that  i s interconnected with or that communicates with the critical information infrastructure;\n(c) any other type of cybersecurity incident in respect of the critical information infrastructure that the Commissioner has s pecified by written direction to the owner.\n(2) The owner of a critical infor mation infrastructure shall est ablish such mechanisms and processes for the purposes of detecting cyb ersecurity threats and incidents in respect of the critical information infrastructure as set out in any applicable code of practice.\n(3) Any owner of a critical information infrastructure who, with out reasonable excuse, fails to comply with subsection (1) is guilty of an offence and liable on conviction to a fine not exceeding $100,000, impr isonment for a term not exceeding 2 years or both.\nCybersecurity audits and risk as sessments of critical informati on infrastructure"
+   }
+  },
+  {
+   "id": "BN-H008-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Article 17"
+   },
+   "text": {
+    "en": "(1) The owner of a critical information infrastructure shall —\n(a) at least once every 2 years (or at such higher frequency as may be directed by the Commissi oner in any particular case), st arting from the date of the notice issued under section 9, cause an audit of the compliance of the critical information infrastructure with this  Act and the applicable codes of practice and standards of performance t o be Cybersecurity 24 CAP. 272 carried out by an auditor approved or appointed by the Commissi oner; and\n(b) at least once a year, starting from the date of the notice issued under section 9, conduct a cybersecurity risk assessment of the critical information infrastructure in such form and manner as the Commissioner may determine.\n(2) The owner of the critical information infrastructure shall, not later than 30 days after the completion of the audit mentioned in subsection (1)(a) or the cybersecurity risk assessment mentioned in subsection (1)(b), furnish a copy of the report of the audit or assessment to the Commissioner.\n(3) Where it appears to the Commissioner from the report of an audit furnished under subsection (2) th at any aspect of the audit was  not carried out satisfactorily, the Commissi oner may direct the owner of th e critical information infrastructure to cause the auditor to carry out th at aspect of the audit again.\n(4) Where it appears to the Commissioner —\n(a) that the owner of a critical information infrastructure has not complied with a provision of this Act, or an applicable code of practice or standard of performance; or\n(b) that any information provided by the owner of a critical information infrastructure under section 12 is false, misleadin g, inaccurate or incomplete, the Commissioner may by order require an audit in respect of th e critical information infrastructure to be  carried out by an auditor appo inted by the Commissioner, for the purpose of ascertaining the compliance of  the owner with this Act or an applicable code of practice or standard of performance, or the accuracy or completeness of the information, as the case may be, and the cost of such audit shall be borne by the owner.\n(5) Where it appears to the Commissioner from the report of a cybersecurity risk assessment furnished under subsection (2) th at the assessment was not carried out s atisfactorily, the Commissioner  m a y either — Cybersecurity 25CAP. 272 B.L.R.O. 2/2024\n(a) direct the owner of the critical information infrastructure to carry out further steps to evaluate the level of cybersecurity of the critical information infrastructure; or\n(b) appoint a cybersecurity service provider to conduct another cybersecurity risk assessment of t he critical information infra structure and the cost of such assessment shall be borne by the owner.\n( 6 ) W h e r e  t h e  o w n e r  o f  a  c r i t i c a l information infrastructure has notified the Commissioner under section 12(5) of a material cha nge made to the design, configuration, securi ty or operation of the critica l information infrastructure, or the Commissione r otherwise becomes aware of such material change having been made, the Commissioner may by written notice direct the owner to carry out a nother audit or cybersecurity ri sk assessment in addition to the audit or cybers ecurity risk assessment menti oned in subsection (1).\n(7) Any owner of a critical information infrastructure who —\n(a) fails, without reasonable excuse, to comply with subsection (1);\n(b) fails to comply with the direction of the Commissioner under subsection (3), (5)(a) or (6); or\n(c) obstructs or prevents an audit mentioned in subsection (4) or a cybersecurity risk assessment mentioned in subsection (5) (b) f r o m being carried out, is guilty of an offence and liable on conviction to a fine not exceeding $100,000, imprisonment for a term not exceeding 2 yea rs or both and, in the case of a continuing offence, to a further fine not  exceeding $5,000 for every day or part thereof during which the offence continues after conviction.\n(8) Any owner of a critical information infrastructure who, with out reasonable excuse, fails to comply with subsection (2) is guilty of an offence and liable on conviction to a fine not exceeding $25,000, imprisonment for a term not exceeding 12 months or both and, in the case of a cont inuing offence, to a further fine not exceeding $2,500 for every day o r part thereof during which the offence continues after conviction.\nCybersecurity 26 CAP. 272 Cybersecurity exercises"
+   }
+  },
+  {
+   "id": "BN-H008-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Article 18"
+   },
+   "text": {
+    "en": "(1) The Commissioner may conduct c ybersecurity exercises for the purpose of testing the state of r eadiness of owners of differen t critical information infrastructure in responding to significant cyberse curity incidents.\n(2) An owner of a critical information infrastructure shall part icipate in a cybersecurity exercise if directed in writing to do so by the Commissioner.\n(3) Any person who, without reasonable excuse, fails to comply w ith a direction under subsection (2) is guilty of an offence and li able on conviction to a fine not exceeding $100,000.\nAppeal to Minister"
+   }
+  },
+  {
+   "id": "BN-H008-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Article 19"
+   },
+   "text": {
+    "en": "(1) The owner of a critical information infrastructure who is aggrieved by —\n(a) the decision of the Commissioner to issue the notice under\nsection 9(1) designating the critical information infrastructure as such;\n(b) a written direction of the Commissioner under section 14 or 18(2); or\n(c) any provision in any code of practice or standard of performance issued or approved by the Commissioner that applies  to the owner, or any amendment made to it, may appeal to the Minister aga inst the decision, direction, pro vision or amendment in the manner prescribed.\n(2) An appeal under subsection (1) shall be made within 30 days after the date of the notice or direction, or the issue, approval or amendment (as the case may be) of the code of practice or standard of per formance, as the case may be, or such longe r period as the Minister allow s in a particular case (whether allowed before or after the end of the 30 days).\n(3) Any person who makes an appeal to the Minister under subsection (1) shall, within the period specified in subsection (2) — Cybersecurity 27CAP. 272 B.L.R.O. 2/2024\n(a) state as concisely as possible the circumstances under which the appeal arises, and the issues and grounds for the appeal; and\n(b) submit to the Minister all relevant facts, evidence and arguments for the appeal.\n(4) Where an appeal has been made to the Minister under subsection (1), the Minister may require —\n(a) any party to the appeal; and\n(b) any person who is not a party to the appeal but appears to the Minister to have information that  is relevant to the matters ap pealed against, to provide the Minister with all such information as the Minister may require, whether for the purpose of deciding if an Appeals Advisory Pane l should be established or for determining th e appeal, and any person so re quired shall provide the information in such manner and within such period a s may be specified by the Minister.\n(5) The Minister may dismiss an appeal of an appellant who fails  to comply with subsection (3) or (4).\n(6) Unless otherwise provided by this Act or allowed by the Minister, where an appeal is lodged under this section, the decision, dir ection or other thing appealed against shall be complied with until the determi nation of the appeal.\n(7) The Minister may determine an appeal under this section —\n(a) by confirming, varying or rev ersing a decision, notice, direction, provision of a code of practice or standard of perfo rmance, or an amendment to such code or standard; or\n(b) by directing the Commissi oner to reconsider the Commissioner’s decision, notice,  direction, or provision of a c ode of practice or standard of performance, as the case may be.\n(8) Before determining an appeal under subsection (7), the Minis ter may consult any Appeals Advisory  Panel established for the purp ose of advising the Minister in respect o f the appeal but, in making s uch determination, is not bound by the advice of the Panel.\nCybersecurity 28 CAP. 272\n(9) The decision of the Minister in any appeal is final.\nAppeals Advisory Panel"
+   }
+  },
+  {
+   "id": "BN-H008-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Article 20"
+   },
+   "text": {
+    "en": "(1) Where the Minister consid ers that an appeal lodged under\nsection 19(1) involves issues the  resolution or understanding o f which require particular technical skills or specialised knowledge, the Minister may establish an Appeals Advisory P anel to provide advice to the Mi nister in respect of the appeal.\n(2) For the purposes of establishing an Appeals Advisory Panel, the Minister may do all or any of the following —\n(a) determine and vary the terms of reference of the Appeals Advisory Panel;\n(b) appoint persons possessing part icular technical skills or specialised knowledge to be the c hairperson and other members o f an Appeals Advisory Panel;\n(c) at any time remove the chairperson or other member of an Appeals Advisory Panel from such office;\n(d) determine any other matters which the Minister considers incidental to or expedient for the proper and efficient conduct  o f business by the Appeals Advisory Panel.\n(3) An Appeals Advisory Panel may regulate its proceedings in su ch manner as it considers appropriate, subject to the following —\n(a) the quorum for a meeting of the Appeals Advisory Panel is a majority of its members;\n(b) a decision supported by a majority of the votes cast at a meeting of the Appeals Advisory Panel at which a quorum is present is the decision of that Panel.\n(4) The remuneration and allowances, if any, of a member of an Appeals Advisory Panel is to be determined by the Minister.\n(5) An Appeals Advisory Panel is independent in the performance of its functions.\nCybersecurity 29CAP. 272 B.L.R.O. 2/2024 PART 4 RESPONSES TO CYBERSECURITY THREATS AND INCIDENTS Powers to investigate and prevent cybersecurity incidents etc."
+   }
+  },
+  {
+   "id": "BN-H008-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Article 21"
+   },
+   "text": {
+    "en": "(1) Where information regarding a cybersecurity thr eat or incide nt has been received by the Commissioner, the Commissioner may exercise, or may authorise the Deputy Commis sioner, an Assistant Commissione r, a cybersecurity officer or an authorised officer to exercise such of the powers mentioned in subsection (2) as are necessary to investigate the  cybersecurity threat or incident for the purpose of —\n(a) assessing the impact or potential  impact of the cybersecurity threat or incident;\n(b) preventing any or further harm arising from the cybersecurity incident; or\n(c) preventing a further cybersecurity incident from arising from that cybersecurity threat or incident.\n(2) The powers mentioned in subsection (1) are the following —\n(a) require, by written notice, a ny person to attend at such reasonable time and at such place  as may be specified by the in cident response officer to answer any question or to provide a signed statement in writing concerning the cybersecurity threat or incident;\n(b) require, by written notice, any person to produce to the incident response officer any physical or electronic record, or document, or a copy of the record or document, that is in the possession of that person, or t o provide the incident response officer with any information, which the incident response officer consi ders to be related to any matter relevant to the investigation;\n(c) without giving any fee or reward, inspect, copy or take extracts from such record or doc ument or copy of the record or document mentioned in paragraph (b);\n(d) examine orally any person who appears to be acquainted with the facts and circumstances re lating to the cybersecurity threa t or Cybersecurity 30 CAP. 272 incident and reduce to writing any statement made by the person  s o examined.\n(3) The incident response officer shall specify in the notice mentioned in subsection (2)(b) —\n(a) the time and place at which any record, document or copy is to be produced or any information is to be provided; and\n(b) the manner and form in which it is to be produced or provided.\n(4) A statement made by a person examined under this section shall —\n(a) be reduced to writing;\n(b) be read over to the person;\n(c) if the person does not understand English, be interpreted for the person in a language that he or she understands; and\n(d) after correction (if necessary), be signed by that person.\n(5) If any person fails to compl y with a written notice under subsection (2)(a), the incident response officer may report such failure to a Magistrate who may then issue an o rder for the person to attend  before the Commissioner, at a time and place specified in the order, to an swer any question or provide a signed st atement in writing concerning th e cybersecurity threat or incident.\n(6) Any person examined under this section or to whom a notice under subsection (2) or an order under subsection (5) is issued is not obliged to disclose any information that is subject to any right, privilege or immunity conferred, or obligation or lim itation imposed, by or under any  law or rules of professional conduct in relatio n to the disclosure of such i nformation, except that the performance of a  contractual obligation is not an excuse for not disclosing the information.\n(7) The person examined under this section or to whom a notice under subsection (2) or an order under subsection (5) is issued is no t treated as being in breach of any contractual obligation mentioned in subsection (6) for doing or omitting to do any act if the act is done or omitted t o be done with Cybersecurity 31CAP. 272 B.L.R.O. 2/2024 reasonable care and in good faith and for the purpose of answer ing any question asked during the examination or complying with the notice or order.\n(8) Any person who —\n(a) wilfully misstates or without r easonable excuse refuses to give any information, provide any  statement or produce any reco rd, document or copy required of the p erson by an incident response officer under subsection (2); or\n(b) fails, without reasonable excuse, to comply with an order issued by a Magistrate under subsection (5), is guilty of an offence and liable on conviction to a fine not exceeding $5,000, imprisonment for a term not exceeding 6 months or both.\n(9) In this section and sections  22, 23 and 24, “incident respon se officer” means the Commissioner,  the Deputy Commissioner or any Assistant Commissioner, cybersecu rity officer or authorised off icer exercising the powers under this section or section 22, as the case may be.\nPowers to investigate and prevent serious cybersecurity incidents etc."
+   }
+  },
+  {
+   "id": "BN-H008-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Article 22"
+   },
+   "text": {
+    "en": "(1) Where the Commissioner recei ves information regarding a cybersecurity threat or incident  which satisfies the severity t hreshold in subsection (3), the Commissioner may exercise, or may authorise  the Deputy Commissioner, an Assistan t Commissioner, a cybersecurity  o f f i c e r or an authorised officer to exer cise, such of the powers mentio ned in subsection (2) as are necessary t o investigate the cybersecurit y threat or incident for the purpose of —\n(a) assessing the impact or potential  impact of the cybersecurity threat or incident;\n(b) eliminating the cybersecurity threat or otherwise preventing any or further harm arising from the cybersecurity incident; or\n(c) preventing a further cybersecurity incident.\n(2) The powers mentioned in subsection (1) are the following —\n(a) any power mentioned in section 21(2)(a), (b), (c) or (d);\nCybersecurity 32 CAP. 272\n(b) direct, by written notice, a ny person to carry out such remedial measures, or to cease carrying on such activities, as may be specified to the person, in relation to a computer or computer system that the incident response officer has reasonable cause to susp ect is or was affected by the cybersecurity  incident, in order to minimis e cybersecurity vulnerabilities in the computer or computer system;\nExamples\nExamples of remedial measures include —\n(a) the removal of malicious software from the computer;\n(b) the installation of software upd ates to address cybersecurity vulnerabilities;\n(c) temporarily disconnecting infected computers from a computer network until paragraph (a) or (b) is carried out; and\n(d) the redirection of malicious data traffic towards a designated computer or computer system.\n(c) require the owner of a computer or computer system to take any action to assist with the investigation, including but not limited to —\n(i) preserving the state of the computer or computer system by not using it;\n(ii) monitoring the computer  or computer system for a specified period of time;\n(iii) performing a scan of the computer or computer system to detect cybersecurity vulne rabilities and to assess the manner and extent that th e computer or computer system is affected by the cybersecurity incident; and\n(iv) allowing the incident r esponse officer to connect any equipment to the computer or computer system, or install on the computer or computer system any computer program, as is necessary for the purpose of the investigation;\n(d) after giving reasonable notice to the owner or occupier of any premises, enter those premises if the incident response officer Cybersecurity 33CAP. 272 B.L.R.O. 2/2024 reasonably suspects that there is  within the premises a compute r or computer system that is or was affected by the cybersecurity incident;\n(e) access, inspect and check the operation of a computer or computer system that the incident response officer has reasonab le cause to suspect is or was affected by the cybersecurity incident, or use or cause to be used any such computer or computer system to sea rch any data contained in or available to such computer or computer system;\n(f) perform a scan of a computer or computer system to detect cybersecurity vulnerabilities in the computer or computer system;\n(g) take a copy of, or extracts from, any electronic record or computer program contained in a computer that the incident resp onse officer has reasonable cause to suspect is or was affected by t he cybersecurity incident;\n(h) subject to subsection (5), with the consent of the owner, take possession of any computer or other equipment for the purpose o f carrying out further examination or analysis.\n(3) A cybersecurity threat or incident satisfies the severity th reshold mentioned in subsection (1) if —\n(a) it creates a risk of significant  harm being caused to a critica l information infrastructure;\n(b) it creates a risk of disruption to the provision of an essentia l service;\n(c) it creates a threat to the national security, defence, foreign relations, economy, public healt h, public safety or public orde r of Brunei Darussalam; or\n(d) the cybersecurity threat or incident is of a severe nature, in terms of the severity of the har m that may be caused to persons  i n Brunei Darussalam or the number of computers or value of the information put at risk, whethe r or not the computers or comput er systems put at risk are themselves critical information infrastructure.\nCybersecurity 34 CAP. 272\n(4) An incident response officer exercising the power mentioned in subsection (2) (e) may require any assistance the incident response officer needs to gain such access from —\n(a) any person whom the incident response officer reasonably suspects uses or has used the computer or computer system; or\n(b) any person having charge of, or who is otherwise concerned with the operation of, such computer or computer system.\n(5) Where the owner of the computer or other equipment does not consent to the exercise of the  power mentioned in subsection (2 )(h), the power may be exercised if the Commissioner is satisfied that —\n(a) the exercise of the power is necessary for the purposes of the investigation;\n(b) there is no less disruptive method of achieving the purpose of the investigation; and\n(c) after consultation with the owner, and having regard to the importance of the computer or other equipment to the business o r operational needs of the owner, the benefit from the exercise o f the power outweighs the detriment caused to the owner, and the Commissioner has issued to the incident response office r a written authorisation to exercise the power.\n(6) The incident response officer shall, immediately after the completion of the further exami nation or analysis on the comput er or other equipment which was taken into possession in exercise of the po wer mentioned in subsection (2) (h), return the computer or other equipment to the owner.\n(7) Any person who —\n(a) in relation to an investigation under this section, wilfully misstates or without reasonable excuse, refuses to give any information, provide any statemen t or produce any record, docum ent or copy required of the person by the incident response officer  under\nsection 21(2);\nCybersecurity 35CAP. 272 B.L.R.O. 2/2024\n(b) in relation to an investigation under this section, fails, without reasonable excuse, to comply with  an order issued by a Magistra te under section 21(5);\n(c) fails, without reasonable excuse , to comply with a direction or requirement of an incident response officer under subsection  (2)(b) or (c); or\n(d) fails, without reasonable excuse, to comply with a lawful demand of an incident response of ficer made in the discharge of  the duties of the incident response officer under this section, is guilty of an offence and liable on conviction to a fine not exceeding $25,000, imprisonment for a term not exceeding 2 years or both.\nProduction of identification card by incident response officer"
+   }
+  },
+  {
+   "id": "BN-H008-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Article 23"
+   },
+   "text": {
+    "en": "Every incident response officer, when exercising any of the pow ers under this Part, shall declare th e office of the incident respo nse officer and shall, on demand, produce to any person affected by the exercis e of that power such identification card as the Commissioner may direct to be carried by the incident response officer when exercising such power.\nAppointment of cybersecurity technical experts"
+   }
+  },
+  {
+   "id": "BN-H008-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Article 24"
+   },
+   "text": {
+    "en": "(1) The Commissioner may, in writing, appoint any of the followi ng as a cybersecurity technical expert for a specified period to a ssist any incident response officer in the  course of an investigation und er\nsection 21 or 22 —\n(a) a public officer or an employee of a statutory body;\n(b) an individual (who is not a public officer or an employee of a statutory body) with suitable qualifications or experience to p roperly perform the role of a cybersecurity technical expert.\n(2) The role of a cybersecurity t echnical expert is to provide s uch advice of a technical nature as t he incident response officer m ay require in the course of an investigation under section 21 or 22.\n(3) The Commissioner may, for any reason that appears to the Commissioner to be sufficient, at any time revoke the appointme nt of an individual as a cybersecurity technical expert.\nCybersecurity 36 CAP. 272\n(4) The Commissioner shall issue to each cybersecurity technical expert an identification card which shall be carried at all tim es by the cybersecurity technical expert w hen performing the role of a cy bersecurity technical expert.\n(5) A cybersecurity technical expe rt whose appointment as such ceases shall return any identifi cation card issued to the cyber security technical expert under subsection (4) to the Commissioner.\nEmergency cybersecurity measures and requirements"
+   }
+  },
+  {
+   "id": "BN-H008-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Article 25"
+   },
+   "text": {
+    "en": "(1) The Minister may, if satisfied that it is necessary for the purposes of preventing, detecting or countering any serious and imminent threat to —\n(a) the provision of any essential service; or\n(b) the national security, defenc e, foreign relations, economy, public health, public safety or public order of Brunei Darussalam, by a certificate under the hand of the Minister, authorise or direct any person or organisation specified in th e certificate (referred to in th is section as the specified person) to take such measures or comply with such requirements as may be necessary to prevent, detect or counter any threat to a computer or computer system or any class of computers or computer systems.\n(2) The measures and requirements mentioned in subsection (1) ma y include, without limitation —\n(a) the exercise by the specified person of the powers in\nsection 18(1) of the Computer Misuse Act (Chapter 194);\n(b) requiring or authorising the specified person to direct another person to provide any information that is necessary to identify , detect or counter any such threat, including —\n(i) information relating to the  design, configuration or operation of any computer, computer program or computer system; and\n(ii) information relating to  the cybersecurity of any computer, computer program or computer system;\nCybersecurity 37CAP. 272 B.L.R.O. 2/2024\n(c) providing to the Minister or the Commissioner any information (including real time information) obtained from any computer controlled or operated by the specified person, or obt ained by the specified person from another person pursuant to a measu re or requirement under paragraph (b), that is necessary to identify, detect or counter any such threat, including —\n(i) information relating to the  design, configuration or operation of any computer, computer program or computer system; and\n(ii) information relating to  the cybersecurity of any computer, computer program or computer system; and\n(d) providing to the Minister or the  Commissioner a report of a breach or an attempted breach of cybersecurity of a description specified in the certificate unde r subsection (1) relating to a ny computer controlled or operated by the specified person.\n(3) Any measure or requirement mentioned in subsection (1) and any direction given by a specified person for the purpose of taking  any such measure or complying with any such requirement —\n(a) does not confer any right to the production of, or of access to, information subject to legal privilege; and\n(b) subject to paragraph (a), has effect despite any obligation or limitation imposed or right, priv ilege or immunity conferred by  o r under any law, contract or rules of professional conduct, including any restriction on the disclosure of information imposed by law, contract or rules of professional conduct.\n(4) A specified person who, without reasonable excuse, fails to take any measure or comply with any requirement directed by the Minister under subsection (1) is guilty of an o ffence and liable on conviction  to a fine not exceeding $50,000, imprisonment for a term not exceeding 10 years or both.\n(5) Any person who, without reasonable excuse —\n(a) obstructs a specified person in the taking of any measure or in complying with any requirement under subsection (1); or Cybersecurity 38 CAP. 272\n(b) fails to comply with any direction given by a specified person for the purpose of the specified person taking any such measure  o r complying with any such requirement, is guilty of an offence and liable on conviction to a fine not exceeding $50,000, imprisonment for a term not exceeding 10 years or both.\n(6) No civil or criminal liability is incurred by —\n(a) a specified person for doing or omitting to do any act if the specified person had done or omitted to do the act in good faith and for the purpose of or as a result of t aking any measure or complyin g with any requirement under subsection (1); or\n(b) a person for doing or omitting to do any act if the person had done or omitted to do the act in good faith and for the purpose  of or as a result of complying with a dir ection given by a specified per son for the purpose of taking any such measure or complying with any su ch requirement.\n(7) The following persons are not considered to be in breach of any restriction on the disclosure of information imposed by law, contract or rules of professional conduct —\n(a) a specified person who, in good faith, obtains any information for the purpose of taking any measure under subsection (1) or complying with any requireme nt under that subsection, or who discloses any information to the  Minister or the Commissioner, in compliance with any requirement under that subsection;\n(b) a person who, in good faith, obtains any information, or discloses any information to a specified person, in compliance with a direction given by the specified  person for the purpose of taki ng any measure under subsection (1) or c omplying with any requirement under that subsection.\n(8) The following persons, namely —\n(a) a specified person to whom a person has provided information in compliance with a direction given by the specifi ed person for the purpose of taking any measure under subsection ( 1) or complying with any requirement under that subsection;\nCybersecurity 39CAP. 272 B.L.R.O. 2/2024\n(b) a person to whom a specified person provides information in compliance with any requirement under subsection (1), shall not use or disclose the information, except —\n(i) with the written permission of the person from whom the information was obtained or, where the information is the confidential informati on of a third person, with the written permission of the third person;\n(ii) for the purpose of preventing, detecting or countering a threat to a computer, computer system or class of computers or computer systems;\n(iii) to disclose to any po lice officer or other law enforcement authority any information which discloses the commission of an offence under this Act or any other written law; or\n(iv) in compliance with a requirement of a court or the provisions of this Act or any other written law.\n(9) Any person who contravenes subsection (8) is guilty of an offence and liable on conviction to a fine not exceeding $10,000, imprisonment for a term not exceeding 12 months or both.\n(10) Where an offence is disclosed in the course of or pursuant to the exercise of any power under this section —\n(a) no information for that offence may be admitted in evidence in any civil or criminal proceedings; and\n(b) no witness in any civil or criminal proceedings is obliged —\n(i) to disclose the name, address or other particulars of any informer who has given information with respect to that offence; or\n(ii) to answer any question if  the answer would lead, or would tend to lead, to the discovery of the name, address or other particulars of the informer.\n(11) If any book, document, data or computer output which is admitted in evidence or liable to inspect ion in any civil or criminal pr oceedings Cybersecurity 40 CAP. 272 contains any entry in which any informer is named or described or which may lead to the discovery of the informer, the court shall caus e those entries to be concealed from view or to be obliterated so far as may be  necessary to protect the informer from discovery.\nPART 5 GENERAL Reserve fund"
+   }
+  },
+  {
+   "id": "BN-H008-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Article 26"
+   },
+   "text": {
+    "en": "There shall be established a reserve fund for the purposes of mitigating any cybersecurity risk which sh all not be withdrawn except with  the approval of the Minister.\nCorporate offenders and unincorporated associations"
+   }
+  },
+  {
+   "id": "BN-H008-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Article 27"
+   },
+   "text": {
+    "en": "(1) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of , or to be attributable to any neglect on the part of, an officer of the body corporate, he as well as the body corporate is guilty of that offence and lia ble to be proceeded against and punished accordingly.\n(2) Where the affairs of the body corporate are managed by its members, subsection (1) applies in relation to the acts and def aults of a member in connection with his f unctions of management as if he were a director of the body corporate.\n(3) Where an offence under this Act  committed by a partnership i s proved to have been committed with the consent or connivance of , or to be attributable to any neglect on the part of, a partner, the part ner as well as the partnership is guilty of that of fence and liable to be proceede d against and punished accordingly.\n(4) Where an offence under this Act committed by a limited liabi lity partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner or manager of the limited liability partnership, the partner or manager (as t he case may be) as well as the partnership is guilty of that offence and liable  to be proceeded against and punished accordingly.\nCybersecurity 41CAP. 272 B.L.R.O. 2/2024\n(5) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved to have been committed with the consent or connivance of, or  to be attributable to any negl ect on the part of, an officer of the unincorporated association or a member of its governing body, the officer or member (as the case may be) as well as the unincorporated association is gui lty of that offence and liable  to be proceeded against and punished accordingly.\n(6) In this section — “officer” —\n(a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate, and includes a person purporting to act in such capacity; or\n(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary or a member of the committee of the unincor porated association or a person holding a position analogous to th at of president, secretary or member of a committee, and includes a person purporting to act in any such capacity;\n“partner”, in relation to a partnership, includes a person purporting to act as a partner.\n(7) The Minister may, with the consent of His Majesty the Sultan and Yang Di-Pertuan, make regulati ons to provide for the applicatio n of any provision of this section, with s uch modificati ons as he consid ers appropriate, to any body corporat e or unincorporated associatio n formed or recognised under the law of a country or territory outside Brunei Darussalam.\nPowers of investigation"
+   }
+  },
+  {
+   "id": "BN-H008-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Article 28"
+   },
+   "text": {
+    "en": "(1) An investigation officer authorised by the Commissioner may,  in relation to any offence under this Act (except any offence unde r section 25) or any regulations made under th is Act, on declaration of the o ffice of the investigation officer and production to the person against whom  the investigation officer is acting such identification card as the  Commissioner may direct to be carried — Cybersecurity 42 CAP. 272\n(a) require any person whom the investigation officer reasonably believes to have committed that offence to furnish evidence of the person’s identity;\n(b) require, by written notice, any person whom the investigation officer reasonably believes has —\n(i) any information; or\n(ii) any document in the custody or control of the person, that is relevant to the investigation, to furnish that informat ion or document within the time and manner specified in the written notice;\n(c) require, by order in writing, the attendance before the investigation officer of any person within the limits of Brunei Darussalam who, from any in formation given or otherwise obtained by the investigation officer, appears to be acquainted with the facts or circumstances of the case; or\n(d) examine orally any person who appears to be acquainted with the facts or circumstances of the case —\n(i) whether before or after that person or anyone else is charged with an offence in connection with the case; and\n(ii) whether or not that person is to be called as a witness in any inquiry, trial or other proceedings in connection with the case.\n(2) The person mentioned in subsection (1)(d) is bound to state truly the facts and circumstances with  which the person is acquainted  concerning the case except that the person need not say anything that migh t expose the person to a criminal charge, penalty or forfeiture.\n(3) A statement made by a person examined under subsection (1) (d) shall —\n(a) be reduced to writing;\n(b) be read over to the person;\n(c) if the person does not understa nd English, be interpreted to the person in a language that the person understands; and Cybersecurity 43CAP. 272 B.L.R.O. 2/2024\n(d) after correction (if necessary), be signed by the person.\n(4) If any person fails to attend as required by an order under subsection (1) (c), the investigation officer m a y  r e p o r t  s u c h  f a i l u r e  t o  a Magistrate who may then issue a warrant to secure the attendanc e of that person as required by the order.\n(5) An investigation officer may, without payment, take possession or make copies of any document (or any part of it) furnished under subsection (1), for further investigation.\n(6) Any person who —\n(a) refuses to give access to, or assaults, obstructs, hinders or delays, an investigation officer i n the discharge of the duties  o f  t h e investigation officer under this Act;\n(b) wilfully misstates or without l awful excuse refuses to give any information or produce any document required by an investigation officer under subsection (1); or\n(c) fails to comply with a lawful demand of an investigation officer in the discharge of the duties of the investigation off icer under this Act, is guilty of an offence and liable on conviction to a fine not exceeding $20,000, imprisonment for a term not exceeding 12 mon ths or both.\n(7) In this section and section 29, “investigation officer” mean s the Deputy Commissioner, or any Assist ant Commissioner or cybersecu rity officer authorised by the Commis sioner, exercising the powers o f investigation under this section or section 29.\nPower to enter premises under warrant"
+   }
+  },
+  {
+   "id": "BN-H008-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Article 29"
+   },
+   "text": {
+    "en": "(1) A Magistrate may, on the application of an investigation off icer, issue a warrant in respect of a ny premises if the Magistrate is  satisfied that there are reasonable grounds to s uspect that there is on the pr emises any document — Cybersecurity 44 CAP. 272\n(a) which has been required by an  investigation officer under\nsection 28 to be furnished, but has not been furnished in compl iance with that requirement; or\n(b) which, if required by an investigation officer under section 28 to be furnished, will be concealed, removed, tampered with or destroyed.\n(2) If the Magistrate is also satisfied that there are reasonable grounds to suspect that there is on those premises any other document t hat relates to any matter relevant to the investigation concerned, the Magistrate may direct that the powers exercisable under the warrant extend to that other document.\n(3) A warrant under subsection (1) may authorise a named investigation officer, and any ot her officer whom the Commissio ner has authorised in writing to accompany the investigation officer —\n(a) to enter and search the premises specified in the warrant, using such force as is reasonably necessary for the purpose;\n(b) to take possession of, make copies of, or secure against interference, any document (or a ny part of it) that appears to be a document mentioned in subsection (1) or (2) (referred to in this section as the relevant document);\n(c) to require any person on the premises to provide an explanation of any relevant document or, where applicable, to s tate, to the best of that person’s knowle dge and belief, where the relev ant document may be found; and\n(d) to require any relevant document that is stored in electronic form and accessible at the premises to be produced in a form that —\n(i) can be taken away; and\n(ii) is visible and legible.\n(4) The warrant continues in force until the end of the period o f one month beginning on the day on which it is issued.\n(5) If the owner or occupier of th e premises is present when the investigation officer proposes t o execute the warrant, the inve stigation officer shall — Cybersecurity 45CAP. 272 B.L.R.O. 2/2024\n(a) identify himself to the owner or occupier;\n(b) show the owner or occupier proof of the identity and authorisation of the investigation officer; and\n(c) give the owner or occupier a copy of the warrant.\n(6) If there is no one at the premises when the investigation of ficer proposes to execute the warrant, the investigation officer shal l, before executing it —\n(a) take such steps as are reasonable in all the circumstances to inform the owner or occupier of the premises of the intended entry into the premises; and\n(b) where the owner or occupier is so informed, give the owner or occupier or the legal or other representative of the owner or occupier a reasonable opportunity to be present when the warrant is executed.\n(7) If the investigation officer is unable to inform the owner o r occupier of the premises of the intended entry into the premise s, the investigation officer shall, when executing the warrant, leave a copy of it in a prominent place on the premises.\n(8) The investigation officer shall —\n(a) prepare and sign a list of all documents and other things taken under subsection (3)(b) and (d) in execution of the warrant; and\n(b) give a copy of the list to the owner or occupier of the premises or the legal or other representative of the owner or occupier.\n(9) On leaving the premises after executing the warrant, the investigation officer shall, if the premises are unoccupied or the owner or occupier of the premises is tem porarily absent, leave the premi ses as effectively secured as the investigation officer found them.\n(10) In this section — “occupier”, in relation to any pr emises specified in a warrant under subsection (1), means a person whom the investigation officer named in the warrant rea sonably believes to be the occupier of those premises;\nCybersecurity 46 CAP. 272 “premises” includes any buildi ng, structure, vehicle, vessel or aircraft.\nJurisdiction of court"
+   }
+  },
+  {
+   "id": "BN-H008-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Article 30"
+   },
+   "text": {
+    "en": "Notwithstanding the provision of  any other written laws, the Court of a Magistrate shall have jurisdiction to try all offenc es under this Act.\nComposition of offences"
+   }
+  },
+  {
+   "id": "BN-H008-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Article 31"
+   },
+   "text": {
+    "en": "(1) The Commissioner or any Assistant Commissioner authorised by the Commissioner in writing in that behalf may compound any offence under this Act or any regulations made thereunder which is prescribed  a s  a compoundable offence by collecting from a person reasonably sus pected of having committed the offence a sum not exceeding —\n(a) one half of the amount of the maximum fine that is prescribed for the offence; or\n(b) $5,000, whichever is the lower.\n(2) Where any offence is compoundable under this section, the abetment of or a conspiracy to commit the offence, or an attemp t to commit the offence when the attempt is itself an offence, may be compounded in like manner.\n(3) On payment of such sum of money, no further proceedings are to be taken against that person in respect of the offence.\n(4) All sums collected under this section shall be paid into the Consolidated Fund.\nService of documents"
+   }
+  },
+  {
+   "id": "BN-H008-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Article 32"
+   },
+   "text": {
+    "en": "(1) Any document required or authorised by this Act to be given or served on any person may be given  or served either by deliverin g it to that person, or by leaving it at his proper address, or by the recor ded delivery service.\nCybersecurity 47CAP. 272 B.L.R.O. 2/2024\n(2) Any such document required or authorised to be given to or served on an authority or body being a corporation shall be duly given or served if it is given to or served on the secretary or clerk of the authority or body.\n(3) For the purposes of this section, the proper address of any person to or on whom any such document is to be given or served shall,  in the case of the secretary or clerk of a corporation, be that of the registered or principal office of the corporation, and in any other case, be the last k nown address of the person to be served:\nProvided that, where the person to or on whom the document is t o be given or served has, in accordanc e with arrangements agreed or in accordance with this Act, furnished an address for the giving or service of the document, being an address in Brunei Darussalam, his proper add ress for such purposes shall be the address furnished.\nPreservation of secrecy"
+   }
+  },
+  {
+   "id": "BN-H008-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Article 33"
+   },
+   "text": {
+    "en": "(1) Subject to subsections (3) and (7), every specified person s hall preserve, and aid in preserving, the secrecy of —\n(a) all matters relating to a computer or computer system of any person;\n(b) all matters relating to the business, commercial or official affairs of any person;\n(c) all matters that have been id entified as confidential under subsection (5); and\n(d) all matters relating to the i dentity of persons furnishing information to any specified person, that may come to the knowledge of the specified person in the p erformance of his functions or the discharge of his duties under this Act.\n(2) The specified person shall not communicate any matter mentioned in subsection (1) to any person, except insofar as such communication —\n(a) is necessary for the performance of any such function or the discharge of any such duty; or Cybersecurity 48 CAP. 272\n(b) is lawfully required by any c ourt or lawfully required or allowed by or under this Act or any other written law.\n(3) This section does not apply to any information provided in compliance with a direction or requirement under section 25.\n(4) Any person who fails to comply with subsection (1) or (2) is guilty of an offence and liable on conviction to a fine not exceeding $10,000, imprisonment for a term not exceeding 12 months or both.\n(5) Any person, when furnishing any information to a specified person, may identify information that the person claims to be c onfidential information.\n(6) Every claim made under subsection (5) shall be supported by a written statement giving reasons why the information is confidential.\n(7) Notwithstanding subsection (1), the Commissioner may disclos e any information relating to any matter mentioned in subsection (1) in any of the following circumstances —\n(a) where the written consent of the person to whom the information relates has been obtained;\n(b) for the purposes of —\n(i) a prosecution under this Act;\n(ii) subject to subsection (8), enabling the Commissioner to give effect to any provision of this Act;\n(iii) enabling the Commissioner or any authorised officer to investigate a suspected offence under this Act or to enforce a provision of this Act;\n(iv) disclosing to any police officer any information which discloses the commission of an offence under the Computer Misuse Act (Chapter 194); or\n(v) complying with such provision of an agreement between Brunei Darussalam an d a country or territory outside Brunei Darussalam (referred to in this section as a foreign country) as may be prescribed, where the conditions specified in subsection (9) are satisfied.\nCybersecurity 49CAP. 272 B.L.R.O. 2/2024\n(8) If the Commissioner is considering whether to disclose any information under subsection (7)(b)(ii), the Commissioner shall have regard to —\n(a) the need to exclude, so far as is practicable, information the disclosure of which would in h is opinion be contrary to the pub lic interest;\n(b) the need to exclude, so far as is practicable —\n(i) commercial information the disclosure of which would, or might, in his opinion, significantly harm the legitimate business interests of the undertaking to which it relates; or\n(ii) information relating to the private affairs of an individual the disclosure of which would, or might, in his opinion, significantly harm the interest of the individual; and\n(c) the extent to which the disclosure is necessary for the purposes for which the Commissi oner is proposing to make the disclosure.\n(9) The conditions refer red to in subsection (7)(b)(v) are —\n(a) the information or documents requested by the foreign country are available to the Commissioner;\n(b) unless the Government otherwise allows, the foreign country undertakes to keep the information or documents given confident ial at all times; and\n(c) the disclosure of the information or documents is not likely to be contrary to the public interest.\n(10) In this section, “specified person” means a person who is o r has been —\n(a) the Commissioner, the Deputy Commissioner, an Assistant Commissioner, a cybersecurity officer or a person appointed or employed to assist the Commissioner;\nCybersecurity 50 CAP. 272\n(b) an authorised officer appointed under section 7;\n(c) a member of an Appeals Advisory Panel established under\nsection 20;\n(d) a cybersecurity technical expert  appointed under section 24; or\n(e) the Minister, or a person appoi nted or employed to assist the Minister.\nProtection against suit and legal proceedings"
+   }
+  },
+  {
+   "id": "BN-H008-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Article 34"
+   },
+   "text": {
+    "en": "(1) No action, suit, prosecution or other proceedings shall lie or to be brought, instituted or maintained in any court against —\n(a) the Commissioner;\n(b) the Deputy Commissioner;\n(c) an Assistant Commissioner;\n(d) a cybersecurity officer;\n(e) an authorised officer appointed under section 7,\n(f) a member of an Appeals Advisory Panel established under\nsection 20; or\n(g) any other person lawfully acting under the direction of the Commissioner, in respect of any act, neglect or default done or committed by him in good faith or any omission omitted by him or in good faith in such c apacity to do anything in —\n(i) the exercise or purported exercise of any power under this Act; or\n(ii) the performance or pur ported performance of any function or duty under this Act.\nCybersecurity 51CAP. 272 B.L.R.O. 2/2024\n(2) Where the Commissioner provides a service to the public whereby information is supplied to the public pursuant to any written l aw, neither the Commissioner nor any person acting under the direction of the Commissioner who is involved in the supply of such information is liable for any loss or damage suffered by any person by reason of any erro r or omission of whatever nature app earing in the information or how ever caused, if the error or omissi on was made in good faith and des pite the exercise of reasonable care in th e ordinary course of the disch arge of the duties of the Commissioner or such person.\nProtection of informers"
+   }
+  },
+  {
+   "id": "BN-H008-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Article 35"
+   },
+   "text": {
+    "en": "(1) Except as provided in subsection (3) —\n(a) no information for an offence against this Act shall be admitted in evidence in any proceedings; and\n(b) no witness in any proceedings for an offence under Part 3 is obliged or permitted to —\n(i) disclose the name, address or other particulars of an informer who has given information with respect to that offence, or the substance of the information received from the informer; or\n(ii) answer any question if the answer thereto would lead, or would tend to lead, to the discovery of the name, address or other particulars of the informer.\n(2) If any book, document or paper w hich is in evidence or liabl e to inspection in any proceedings c ontains any entry in which any i nformer is named or described or which might lead to his discovery, the co urt shall cause the entries to be concealed from view or to be obliterated so far only as may be necessary to protect the informer from discovery.\n(3) If, in any proceedings before a court for an offence against  th i s Act, the court after full inquiry into the case, is satisfied t hat an informer wilfully made a material statement which he knew or believed to  be false or did not believe to be true, or if in any other proceedings the court is of the opinion that justice cannot be fu lly done between the parties t hereto without the discovery of the name of an informer, the court may permit inquiry and require full disclosure concerning the informer.\nCybersecurity 52 CAP. 272 Exemption"
+   }
+  },
+  {
+   "id": "BN-H008-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Article 36"
+   },
+   "text": {
+    "en": "(1) The Minister may, with the consent of His Majesty the Sultan and Yang Di-Pertuan, either permanently or for such period as the M inister thinks fit by order published in the Gazette, exempt any person or any class of persons from all or any of the provisions of this Act, either generally or in a particular case and subject to such conditions as may be prescribed.\n(2) If any exemption is granted under subsection (1) with condit ions, the exemption operates only if the conditions are complied with.\nAmendment of Schedule"
+   }
+  },
+  {
+   "id": "BN-H008-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Article 37"
+   },
+   "text": {
+    "en": "The Minister may, with the consent of His Majesty the Sultan and Yang Di-Pertuan, by orde r published in the Gazette, amend the Schedule to this Act.\nRegulations"
+   }
+  },
+  {
+   "id": "BN-H008-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Article 38"
+   },
+   "text": {
+    "en": "(1) The Minister may, with the consent of His Majesty the Sultan and Yang Di-Pertuan, make regulati ons as he considers necessary or expedient for giving effect to or carrying out the purposes and provision s of this Act, including the prescription of fee s and of any other thing requi red to be or which may be prescribed under th is Act, and for the due adminis tration thereof, and such regulations may include such incidental, consequential and supplementary provision as he considers necessary or expedient.\n(2) Notwithstanding subsection (1), the Minister may make regulations for or in respect of all or any of the following matters —\n(a) the procedure for the designat ion of a critical information infrastructure;\n(b) the technical or other standards relating to cybersecurity to be maintained in respect of a critical information infrastructure;\n(c) the responsibilities and duties o f  t h e  o w n e r  o f  a  c r i t i c a l information infrastructure;\n(d) the type of changes that are c onsidered material changes to the design, configuration, securi ty or operations of a critical information infrastructure to be reported by the owner of the c ritical information infrastructure;\nCybersecurity 53CAP. 272 B.L.R.O. 2/2024\n(e) the type of cybersecurity incidents in respect of a critical information infrastructure that are required to be reported by the owner of the critical information infrastructure;\n(f) the manner in which an appeal may be made to, and the procedure to be adopted in the hearing of any appeal by, the Minister;\n(g) the requirements for, and the manner for the carrying out of, cybersecurity audits and cybersec urity risk assessments require d to be conducted by the owner of a critical information infrastructure;\n(h) the form and nature of cybersecu rity exercises that may be conducted;\n(i) the fees to be paid in respect of any matter or thing required for the purposes of this Act, in cluding the refund and remissio n (in whole or part) of such fees;\n(j) the prescribing of the offences which may be compounded and the method and procedure by which they may be compounded; and\n(k) all matters and things which by this Act are required or permitted to be prescribed or which are necessary or expedient to be prescribed to give effect to this Act.\n(3) Except as otherwise expressly provided in this Act, the regulations —\n(a) may be of general or specific application;\n(b) may provide that any contravention of any specified provision of the regulations shall be an offence; and\n(c) may provide for penalties not exceeding a fine of $50,000, imprisonment for a term not exceeding 12 months or both for eac h offence and, in the case of a cont inuing offence, a further pen alty not exceeding a fine of 10 per cent of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.\nCybersecurity 54 CAP. 272 SCHEDULE (sections 2 and 37) ESSENTIAL SERVICES"
+   }
+  },
+  {
+   "id": "BN-H008-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "Services relating to energy"
+   }
+  },
+  {
+   "id": "BN-H008-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Article 2"
+   },
+   "text": {
+    "en": "Services relating to infocommunications"
+   }
+  },
+  {
+   "id": "BN-H008-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Article 3"
+   },
+   "text": {
+    "en": "Services relating to healthcare"
+   }
+  },
+  {
+   "id": "BN-H008-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Article 4"
+   },
+   "text": {
+    "en": "Services relating to  banking and finance"
+   }
+  },
+  {
+   "id": "BN-H008-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Article 5"
+   },
+   "text": {
+    "en": "Services relating to defence and security"
+   }
+  },
+  {
+   "id": "BN-H008-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Article 6"
+   },
+   "text": {
+    "en": "Services relating to  emergency services"
+   }
+  },
+  {
+   "id": "BN-H008-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Article 7"
+   },
+   "text": {
+    "en": "Services relating to aviation"
+   }
+  },
+  {
+   "id": "BN-H008-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Article 8"
+   },
+   "text": {
+    "en": "Services relating to functioning of Government"
+   }
+  },
+  {
+   "id": "BN-H008-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Article 9"
+   },
+   "text": {
+    "en": "Services relating to media"
+   }
+  },
+  {
+   "id": "BN-H008-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Article 10"
+   },
+   "text": {
+    "en": "Services relating to water."
+   }
+  }
+ ]
+}

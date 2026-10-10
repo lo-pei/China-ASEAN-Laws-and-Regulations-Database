@@ -1,0 +1,74 @@
+{
+ "id": "PH-H3789",
+ "title": {
+  "zh": null,
+  "en": "An Act Making Catbalogan, Samar, a Port of Entry, and Authorizing the Appropriation of Necessary Funds for the Purpose",
+  "orig": "An Act Making Catbalogan, Samar, a Port of Entry, and Authorizing the Appropriation of Necessary Funds for the Purpose"
+ },
+ "country": "PH",
+ "countryName": "菲律宾",
+ "layer": "intl",
+ "pack": "ph-p53",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "1966-06-18",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Congress of the Philippines",
+ "docNumber": "Republic Act No. 4804",
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 1355,
+ "source": {
+  "name": "LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation）",
+  "url": "https://lawphil.net/statutes/repacts/ra1966/ra_4804_1966.html"
+ },
+ "sourceFile": null,
+ "fetchedAt": "2026-10-06",
+ "completenessNote": "全文，共 3 条；逐字取自 LawPhil 菲律宾法律虚拟图书馆（The LawPhil Project – Arellano Law Foundation） 官方页面（statutes/repacts/ra1966/ra_4804_1966.html），未改写、未摘译、未节选；原文语言：英语。 条文抬头依源文为 “Section N.” 等形式，本库统一规范为 “Section N.”；首行抬头与条内标题的分段依源文块级边界还原。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "PH-H3789-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Section seven hundred one of Republic Act Numbered Nineteen hundred thirty-seven, otherwise known as the Tariff and Customs Code of the Philippines, as amended by Republic Act Numbered Thirty-seven hundred fifty-seven, is further amended to read as follows:\n\"Sec. 701. Collection districts and port of entry thereof.— For administrative purposes, the Philippines shall be divided into as many collection districts as there are at present existing, the respective limits of which may be changed from time to time by the Commissioner, upon the approval of the department head. The principal ports of entry for the respective collection districts shall be Manila, Sual, Tabaco, Cebu, Pulupandan, Sia-in, Iloilo, Davao, Legaspi, Zamboanga, Jolo, Aparri, Jose Panganiban, Cagayan, Tacloban, San Fernando, Hinigaran, Dumaguete City, Maasin, Masao, Catbalogan, and Batangas.\""
+   }
+  },
+  {
+   "id": "PH-H3789-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment and operation of the customs services at the port of Catbalogan in the Province of Samar for the fiscal year nineteen hundred sixty-seven. Thereafter, such sums necessary for the same purpose shall be included in the annual general Appropriations Act."
+   }
+  },
+  {
+   "id": "PH-H3789-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall take effect its approval.\nApproved: June 18, 1966."
+   }
+  }
+ ]
+}

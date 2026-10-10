@@ -1,0 +1,160 @@
+{
+ "id": "CN-REG-0165",
+ "title": {
+  "zh": "国务院关于职工工作时间的规定",
+  "en": null,
+  "orig": null
+ },
+ "country": "CN",
+ "countryName": "中国",
+ "layer": "cn",
+ "pack": "cn-p14",
+ "language": "zh",
+ "level": "decree",
+ "category": "行政法规",
+ "status": "active",
+ "promulgatedDate": "1995-03-25",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "国务院",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [
+  "general"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 9,
+ "chars": 484,
+ "source": {
+  "name": "中国法律法规汇编（项目数据资源·官方汇编文件）",
+  "url": null
+ },
+ "sourceFile": "数据资源\\法律法规（持续更新中）\\行政法规\\国务院关于职工工作时间的规定_19950325.docx",
+ "fetchedAt": "2026-10-02",
+ "completenessNote": "全文，第一条至第九条，共 9 条；来源为项目数据资源中的官方汇编文件（国务院关于职工工作时间的规定_19950325.docx）。",
+ "textQuality": null,
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "CN-REG-0165-A1",
+   "no": 1,
+   "noLabel": {
+    "zh": "第一条"
+   },
+   "text": {
+    "zh": "为了合理安排职工的工作和休息时间，维护职工的休息权利，调动职工的积极性，促进社会主义现代化建设事业的发展，根据宪法有关规定，制定本规定。"
+   }
+  },
+  {
+   "id": "CN-REG-0165-A2",
+   "no": 2,
+   "noLabel": {
+    "zh": "第二条"
+   },
+   "text": {
+    "zh": "本规定适用于在中华人民共和国境内的国家机关、社会团体、企业事业单位以及其他组织的职工。"
+   }
+  },
+  {
+   "id": "CN-REG-0165-A3",
+   "no": 3,
+   "noLabel": {
+    "zh": "第三条"
+   },
+   "text": {
+    "zh": "职工每日工作8小时，每周工作40小时。"
+   }
+  },
+  {
+   "id": "CN-REG-0165-A4",
+   "no": 4,
+   "noLabel": {
+    "zh": "第四条"
+   },
+   "text": {
+    "zh": "在特殊条件下从事劳动和有特殊情况，需要适当缩短工作时间的，按照国家有关规定执行。"
+   }
+  },
+  {
+   "id": "CN-REG-0165-A5",
+   "no": 5,
+   "noLabel": {
+    "zh": "第五条"
+   },
+   "text": {
+    "zh": "因工作性质或者生产特点的限制，不能实行每日工作8小时、每周工作40小时标准工时制度的，按照国家有关规定，可以实行其他工作和休息办法。"
+   }
+  },
+  {
+   "id": "CN-REG-0165-A6",
+   "no": 6,
+   "noLabel": {
+    "zh": "第六条"
+   },
+   "text": {
+    "zh": "任何单位和个人不得擅自延长职工工作时间。因特殊情况和紧急任务确需延长工作时间的，按照国家有关规定执行。"
+   }
+  },
+  {
+   "id": "CN-REG-0165-A7",
+   "no": 7,
+   "noLabel": {
+    "zh": "第七条"
+   },
+   "text": {
+    "zh": "国家机关、事业单位实行统一的工作时间，星期六和星期日为周休息日。\n企业和不能实行前款规定的统一工作时间的事业单位，可以根据实际情况灵活安排周休息日。"
+   }
+  },
+  {
+   "id": "CN-REG-0165-A8",
+   "no": 8,
+   "noLabel": {
+    "zh": "第八条"
+   },
+   "text": {
+    "zh": "本规定由劳动部、人事部负责解释；实施办法由劳动部、人事部制定。"
+   }
+  },
+  {
+   "id": "CN-REG-0165-A9",
+   "no": 9,
+   "noLabel": {
+    "zh": "第九条"
+   },
+   "text": {
+    "zh": "本规定自1995年5月1日起施行。1995年5月1日施行有困难的企业、事业单位，可以适当延期；但是，事业单位最迟应当自1996年1月1日起施行，企业最迟应当自1997年5月1日起施行。"
+   }
+  }
+ ],
+ "fulltextMeta": {
+  "country": "CN",
+  "level": "decree",
+  "status": "active",
+  "topics": [
+   "general"
+  ],
+  "title": {
+   "zh": "国务院关于职工工作时间的规定"
+  },
+  "issuingBody": {
+   "zh": "国务院"
+  },
+  "promulgatedDate": "1995-03-25",
+  "source": {
+   "name": "中国法律法规汇编（项目数据资源）",
+   "url": ""
+  },
+  "summary": {
+   "zh": ""
+  },
+  "catalogCategory": "行政法规"
+ },
+ "summary": {
+  "zh": ""
+ }
+}
